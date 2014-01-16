@@ -12,5 +12,5 @@ Provisions similar to those in this section were contained in sections 3502 and 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201 inserted “under section 12301(a), 12302, or 12304 of this title” after “called into Federal service”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 inserted "under section 12301(a), 12302, or 12304 of this title" after "called into Federal service".
 

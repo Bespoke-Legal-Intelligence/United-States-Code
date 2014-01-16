@@ -28,17 +28,17 @@ Any company which has made a loan to a small-business concern under this section
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsec. (c), see References in Text note set out under section 661 of this title.
+For definition of "this chapter", referred to in subsec. (c), see References in Text note set out under section 661 of this title.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–366 inserted before period at end “: <i>Provided</i>, That the Administration also shall permit those companies which have issued debentures pursuant to this chapter to charge a maximum rate of interest based upon the coupon rate of interest on the outstanding debentures, determined on an annual basis, plus such other expenses of the company as may be approved by the Administration”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–366 inserted before period at end ": <i>Provided</i>, That the Administration also shall permit those companies which have issued debentures pursuant to this chapter to charge a maximum rate of interest based upon the coupon rate of interest on the outstanding debentures, determined on an annual basis, plus such other expenses of the company as may be approved by the Administration".
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–305 struck out provision that in agreements to participate in loans on a deferred basis, the participation by the company shall not be in excess of 90 percentum of the balance of the loan outstanding at the time of disbursement.
 
-<b>1961</b>—Subsec. (b). Pub. L. 87–341 substituted “other lenders, incorporated or unincorporated” for “other lending institutions”.
+<b>1961</b>—Subsec. (b). Pub. L. 87–341 substituted "other lenders, incorporated or unincorporated" for "other lending institutions".
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
-Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
+Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or tootherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 

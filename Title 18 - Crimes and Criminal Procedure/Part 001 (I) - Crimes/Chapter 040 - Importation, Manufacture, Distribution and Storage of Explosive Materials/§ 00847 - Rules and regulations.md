@@ -6,7 +6,7 @@ The administration of this chapter shall be vested in the Attorney General. The 
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–296 substituted “Attorney General” for “Secretary” wherever appearing.
+<b>2002</b>—Pub. L. 107–296 substituted "Attorney General" for "Secretary" wherever appearing.
 
 #### Effective Date of 2002 Amendment
 

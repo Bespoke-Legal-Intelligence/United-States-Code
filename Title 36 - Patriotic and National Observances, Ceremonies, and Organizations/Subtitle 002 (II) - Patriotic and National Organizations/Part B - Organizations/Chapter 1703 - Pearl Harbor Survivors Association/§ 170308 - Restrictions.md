@@ -62,9 +62,9 @@ Oct. 7, 1985, Pub. L. 99–119, §8, 99 Stat. 499.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “as such” are substituted for “acting as such” for consistency in the revised title.
+In subsection (b), the words "as such" are substituted for "acting as such" for consistency in the revised title.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure to”, and the words “rendered to the corporation” are omitted, for consistency in the revised title.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure to", and the words "rendered to the corporation" are omitted, for consistency in the revised title.
 

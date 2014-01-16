@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 Pub. L. 99–272, title XV, §15301, Apr. 7, 1986, 100 Stat. 335.
 
-In this chapter, the words “executive agency” are substituted for “executive agency, including the Department of Defense” to eliminate unnecessary words.
+In this chapter, the words "executive agency" are substituted for "executive agency, including the Department of Defense" to eliminate unnecessary words.
 

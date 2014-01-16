@@ -5,8 +5,8 @@
 | Sec. |  |
 | :--- | ---: |
 | [1701\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001701%20-%20Compensation%20for%20injury%20or%20death%20resulting%20from%20war-risk%20hazard.md) | Compensation for injury or death resulting from war-risk hazard. |
-| [1702\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001702%20-%20Application%20of%20Longshore%20and%20Harbor%20Workers%E2%80%99%20Compensation%20Act.md) | Application of Longshore and Harbor Workers’ Compensation Act. |
-| [1703\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001703%20-%20%E2%80%9CContractor%20with%20the%20United%20States%E2%80%9D%20defined.md) | “Contractor with the United States” defined. |
+| [1702\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001702%20-%20Application%20of%20Longshore%20and%20Harbor%20Workers%27%20Compensation%20Act.md) | Application of Longshore and Harbor Workers' Compensation Act. |
+| [1703\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001703%20-%20Contractor%20with%20the%20United%20States%20defined.md) | "Contractor with the United States" defined. |
 | [1704\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001704%20-%20Reimbursement.md) | Reimbursement. |
 | [1705\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001705%20-%20Receipt%20of%20workmen%27s%20compensation%20benefits.md) | Receipt of workmen's compensation benefits. |
 | [1706\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001706%20-%20Administration.md) | Administration. |

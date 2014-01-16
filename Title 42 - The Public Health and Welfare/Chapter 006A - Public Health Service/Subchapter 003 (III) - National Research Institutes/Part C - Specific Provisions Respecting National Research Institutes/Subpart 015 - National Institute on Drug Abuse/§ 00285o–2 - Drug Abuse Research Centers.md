@@ -22,7 +22,7 @@ The Director of the Institute may designate National Drug Abuse Research Centers
 
 #### (b) Grants
 
-The Director of the Institute shall, under such conditions as the Secretary may reasonably require, make annual grants to Centers which have been designated under this section. No funds provided under a grant under this subsection may be used for the purchase of any land or the purchase, construction, preservation, or repair of any building. For the purposes of the preceding sentence, the term “construction” has the meaning given that term by section 292a(1) <sup>2</sup> of this title.
+The Director of the Institute shall, under such conditions as the Secretary may reasonably require, make annual grants to Centers whichhave been designated under this section. No funds provided under a grant under this subsection may be used for the purchase of any land or the purchase, construction, preservation, or repair of any building. For the purposes of the preceding sentence, the term "construction" has the meaning given that term by section 292a(1) <sup>2</sup> of this title.
 
 #### (c) Drug abuse and addiction research
 
@@ -68,7 +68,7 @@ Section 292a of this title, referred to in subsec. (b), was in the original a re
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–310 added subsec. (c).
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–352 substituted “292a(1)” for “292a(2)”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–352 substituted "292a(1)" for "292a(2)".
 
 #### Effective Date of 2007 Amendment
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendm
 
 Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
-<i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be "; and".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -52,11 +52,11 @@ Apr. 3, 1952, ch. 131, §§9–11, 14, 15, 66 Stat. 40.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “The corporation may not” are substituted for “No part of the activities of the corporation shall consist of” to eliminate unnecessary words.
+In subsection (b), the words "The corporation may not" are substituted for "No part of the activities of the corporation shall consist of" to eliminate unnecessary words.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure” for consistency in the revised title. The words “as provided in section 417 of this title” are omitted as unnecessary.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure" for consistency in the revised title. The words "as provided in section 417 of this title" are omitted as unnecessary.
 
-In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection.
+In subsection (d), the words "or advance" are added in 2 places for consistency in the subsection.
 

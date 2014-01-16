@@ -6,7 +6,7 @@ Whenever in the judgment of the Secretary such action will promote honesty and f
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–80 substituted “or reasonable standards of fill of container. No definition” for “and/or reasonable standards of fill of container: <i>Provided</i>, That no definition”.
+<b>1993</b>—Pub. L. 103–80 substituted "or reasonable standards of fill of container. No definition" for "and/or reasonable standards of fill of container: <i>Provided</i>, That no definition".
 
 <b>1956</b>—Act Aug. 1, 1956, designated provisions constituting subsec. (a) as entire section and repealed subsec. (b) which provided the procedure for establishment of regulations and is covered by section 371(e) of this title.
 
@@ -14,7 +14,7 @@ Whenever in the judgment of the Secretary such action will promote honesty and f
 
 #### Savings Provision
 
-Act Aug. 1, 1956, ch. 861, §3, 70 Stat. 919, provided that: “In any case in which, prior to the enactment of this Act \[Aug. 1, 1956\], a public hearing has been begun in accordance with section 401 of the Federal Food, Drug, and Cosmetic Act \[341 of this title\] upon a proposal to issue, amend, or repeal any regulation contemplated by such section, or has been begun in accordance with section 701(e) of such Act \[section 371(e) of this title\] upon a proposal to issue, amend, or repeal any regulation contemplated by section 403(j), 404(a), 406(a) or (b), 501(b), 502(d), 502(h), 504 or 604 of such Act \[section 343(j), 344(a), 346(a) or (b), 351(b), 352(d), 352(h), 354, or 364 of this title\], the provisions of such section 401 or 701(e), as the case may be, as in force immediately prior to the date of the enactment of this Act \[Aug. 1, 1956\], shall be applicable as though this Act \[amending this section and section 371(e) of this title\] had not been enacted.”
+Act Aug. 1, 1956, ch. 861, §3, 70 Stat. 919, provided that: "In any case in which, prior to the enactment of this Act \[Aug. 1, 1956\], a public hearing has been begun in accordance with section 401 of the Federal Food, Drug, and Cosmetic Act \[341 of this title\] upon a proposal to issue, amend, or repeal any regulation contemplated by such section, or has been begun in accordance with section 701(e) of such Act \[section 371(e) of this title\] upon a proposal to issue, amend, or repeal any regulation contemplated by section 403(j), 404(a), 406(a) or (b), 501(b), 502(d), 502(h), 504 or 604 of such Act \[section 343(j), 344(a), 346(a) or (b), 351(b), 352(d), 352(h), 354, or 364 of this title\], the provisions of such section 401 or 701(e), as the case may be, as in force immediately prior to the date of the enactment of this Act \[Aug. 1, 1956\], shall be applicable as though this Act \[amending this section and section 371(e) of this title\] had not been enacted."
 
 #### Transfer of Functions
 
@@ -24,235 +24,235 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
 Pub. L. 107–188, title III, §301, June 12, 2002, 116 Stat. 662, provided that:
 
-“(a)
+"(a)
 
 In General.—The President's Council on Food Safety (as established by Executive Order No. 13100 \[set out below\]) shall, in consultation with the Secretary of Transportation, the Secretary of the Treasury, other relevant Federal agencies, the food industry, consumer and producer groups, scientific organizations, and the States, develop a crisis communications and education strategy with respect to bioterrorist threats to the food supply. Such strategy shall address threat assessments; technologies and procedures for securing food processing and manufacturing facilities and modes of transportation; response and notification procedures; and risk communications to the public.
 
-“(b)
+"(b)
 
-Authorization of Appropriations.—For the purpose of implementing the strategy developed under subsection (a), there are authorized to be appropriated $750,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.”
+Authorization of Appropriations.—For the purpose of implementing the strategy developed under subsection (a), there are authorized to be appropriated $750,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year."
 
 #### Food Safety Commission
 
 Pub. L. 107–171, title X, §10807, May 13, 2002, 116 Stat. 527, provided that:
 
-“(a)
+"(a)
 
 Establishment.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—There is established a commission to be known as the ‘Food Safety Commission’ (referred to in this section as the ‘Commission’).
+In general.—There is established a commission to be known as the 'Food Safety Commission' (referred to in this section as the 'Commission').
 
-&emsp;“(2)
+&emsp;"(2)
 
 Membership.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Composition.—The Commission shall be composed of 15 members (including a Chairperson, appointed by the President\[)\].
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Eligibility.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—Members of the Commission—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) shall have specialized training or significant experience in matters under the jurisdiction of the Commission; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) shall have specialized training or significant experience in matters under the jurisdiction of the Commission; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) shall represent, at a minimum—
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) shall represent, at a minimum—
 
-&emsp;&emsp;&emsp;“(aa) consumers;
+&emsp;&emsp;&emsp;"(aa) consumers;
 
-&emsp;&emsp;&emsp;“(bb) food scientists;
+&emsp;&emsp;&emsp;"(bb) food scientists;
 
-&emsp;&emsp;&emsp;“(cc) the food industry; and
+&emsp;&emsp;&emsp;"(cc) the food industry; and
 
-&emsp;&emsp;&emsp;“(dd) health professionals.
+&emsp;&emsp;&emsp;"(dd) health professionals.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Federal employees.—Not more than 3 members of the Commission may be Federal employees.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Date of appointments.—The appointment of the members of the Commission shall be made as soon as practicable after the date on which funds authorized to be appropriated under subsection (e)(1) are made available.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Vacancies.—A vacancy on the Commission—
 
-&emsp;&emsp;&emsp;“(i) shall not affect the powers of the Commission; and
+&emsp;&emsp;&emsp;"(i) shall not affect the powers of the Commission; and
 
-&emsp;&emsp;&emsp;“(ii) shall be filled—
+&emsp;&emsp;&emsp;"(ii) shall be filled—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) not later than 60 days after the date on which the vacancy occurs; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) not later than 60 days after the date on which the vacancy occurs; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) in the same manner as the original appointment was made.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) in the same manner as the original appointment was made.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Meetings.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Initial meeting.—The initial meeting of the Commission shall be conducted not later than 30 days after the date of appointment of the final member of the Commission.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Other meetings.—The Commission shall meet at the call of the Chairperson.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Quorum; standing rules.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Quorum.—A majority of the members of the Commission shall constitute a quorum to conduct business.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Standing rules.—At the first meeting of the Commission, the Commission shall adopt standing rules of the Commission to guide the conduct of business and decisionmaking of the Commission.
 
-“(b)
+"(b)
 
 Duties.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Recommendations.—The Commission shall make specific recommendations to enhance the food safety system of the United States, including a description of how each recommendation would improve food safety.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Components.—Recommendations made by the Commission under paragraph (1) shall address all food available commercially in the United States.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Report.—Not later than 1 year after the date on which the Commission first meets, the Commission shall submit to the President and Congress—
 
-&emsp;&emsp;“(A) the findings, conclusions, and recommendations of the Commission, including a description of how each recommendation would improve food safety;
+&emsp;&emsp;"(A) the findings, conclusions, and recommendations of the Commission, including a description of how each recommendation would improve food safety;
 
-&emsp;&emsp;“(B) a summary of any other material used by the Commission in the preparation of the report under this paragraph; and
+&emsp;&emsp;"(B) a summary of any other material used by the Commission in the preparation of the report under this paragraph; and
 
-&emsp;&emsp;“(C) if requested by 1 or more members of the Commission, a statement of the minority views of the Commission.
+&emsp;&emsp;"(C) if requested by 1 or more members of the Commission, a statement of the minority views of the Commission.
 
-“(c)
+"(c)
 
 Powers of the Commission.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Hearings.—The Commission may, for the purpose of carrying out this section, hold such hearings, meet and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Information from federal agencies.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The Commission may secure directly, from any Federal agency, such information as the Commission considers necessary to carry out this section.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Provision of information.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—Subject to subparagraph (C), on the request of the Commission, the head of a Federal agency described in subparagraph (A) may furnish information requested by the Commission to the Commission.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Administration.—The furnishing of information by a Federal agency to the Commission shall not be considered a waiver of any exemption available to the agency under section 552 of title 5, United States Code.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Information to be kept confidential.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—For purposes of section 1905 of title 18, United States Code—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the Commission shall be considered an agency of the Federal Government; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the Commission shall be considered an agency of the Federal Government; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) any individual employed by an individual, entity, or organization that is a party to a contract with the Commission under this section shall be considered an employee of the Commission.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) any individual employed by an individual, entity, or organization that is a party to a contract with the Commission under this section shall be considered an employee of the Commission.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Prohibition on disclosure.—Information obtained by the Commission, other than information that is available to the public, shall not be disclosed to any person in any manner except to an employee of the Commission as described in clause (i), for the purpose of receiving, reviewing, or processing the information.
 
-“(d)
+"(d)
 
 Commission Personnel Matters.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Members.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Compensation.—A member of the Commission shall serve without compensation for the services of the member on the Commission.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Travel expenses.—A member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Staff.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The Chairperson of the Commission may, without regard to the civil service laws (including regulations), appoint and terminate the appointment of an executive director and such other additional personnel as are necessary to enable the Commission to perform the duties of the Commission.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Confirmation of executive director.—The employment of an executive director shall be subject to confirmation by the Commission.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Compensation.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—Except as provided in clause (ii), the Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Maximum rate of pay.—The rate of pay for the executive director and other personnel shall not exceed the rate payable for level II of the Executive Schedule under section 5316 of title 5, United States Code.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Detail of federal government employees.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—An employee of the Federal Government may be detailed to the Commission, without reimbursement, for such period of time as is permitted by law.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Civil service status.—The detail of the employee shall be without interruption or loss of civil service status or privilege.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Procurement of temporary and intermittent services.—The Chairperson of the Commission may procure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level II of the Executive Schedule under section 5316 of that title.
 
-“(e)
+"(e)
 
 Authorization of Appropriations.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—There is authorized to be appropriated such sums as are necessary to carry out this section.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Limitation.—No payment may be made under subsection (d) except to the extent provided for in advance in an appropriations Act.
 
-“(f)
+"(f)
 
-Termination.—The Commission shall terminate on the date that is 60 days after the date on which the Commission submits the recommendations and report under subsection (b)(3).”
+Termination.—The Commission shall terminate on the date that is 60 days after the date on which the Commission submits the recommendations and report under subsection (b)(3)."
 
 #### Ex. Ord. No. 13100. President's Council on Food Safety
 
@@ -260,11 +260,11 @@ Ex. Ord. No. 13100, Aug. 25, 1998, 63 F.R. 45661, as amended by Ex. Ord. No. 132
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve the safety of the food supply through science-based regulation and well-coordinated inspection, enforcement, research, and education programs, it is hereby ordered as follows:
 
-Section 1. <i>Establishment of President's Council on Food Safety</i>. (a) There is established the President's Council on Food Safety (“Council”). The Council shall comprise the Secretaries of Agriculture, Commerce, Health and Human Services, and Homeland Security, the Director of the Office of Management and Budget (OMB), the Administrator of the Environmental Protection Agency, the Assistant to the President for Science and Technology/Director of the Office of Science and Technology Policy, the Assistant to the President for Domestic Policy, and the Director of the National Partnership for Reinventing Government. The Council shall consult with other Federal agencies and State, local, and tribal government agencies, and consumer, producer, scientific, and industry groups, as appropriate.
+Section 1. <i>Establishment of President's Council on Food Safety</i>. (a) There is established the President's Council on Food Safety ("Council"). The Council shall comprise the Secretaries of Agriculture, Commerce, Health and Human Services, and Homeland Security, the Director of the Office of Management and Budget (OMB), the Administrator of the Environmental Protection Agency, the Assistant to the President for Science and Technology/Director of the Office of Science and Technology Policy, the Assistant to the President for Domestic Policy, and the Director of the National Partnership for Reinventing Government. The Council shall consult with other Federal agencies and State, local, and tribal government agencies, and consumer, producer, scientific, and industry groups, as appropriate.
 
 (b) The Secretaries of Agriculture and of Health and Human Services and the Assistant to the President for Science and Technology/Director of the Office of Science and Technology Policy shall serve as Joint Chairs of the Council.
 
-Sec. 2. <i>Purpose</i>. The purpose of the Council shall be to develop a comprehensive strategic plan for Federal food safety activities, taking into consideration the findings and recommendations of the National Academy of Sciences report “Ensuring Safe Food from Production to Consumption” and other input from the public on how to improve the effectiveness of the current food safety system. The Council shall make recommendations to the President on how to advance Federal efforts to implement a comprehensive science-based strategy to improve the safety of the food supply and to enhance coordination among Federal agencies, State, local, and tribal governments, and the private sector. The Council shall advise Federal agencies in setting priority areas for investment in food safety.
+Sec. 2. <i>Purpose</i>. The purpose of the Council shall be to develop a comprehensive strategic plan for Federal food safety activities, taking into consideration the findings and recommendations of the National Academy of Sciences report "Ensuring Safe Food from Production to Consumption" and other input from the public on how to improve the effectiveness of the current food safety system. The Council shall make recommendations to the President on how to advance Federal efforts to implement a comprehensive science-based strategy to improve the safety of the food supply and to enhance coordination among Federal agencies, State, local, and tribal governments, and the private sector. The Council shall advise Federal agencies in setting priority areas for investment in food safety.
 
 Sec. 3. <i>Specific Activities and Functions</i>. (a) The Council shall develop a comprehensive strategic Federal food safety plan that contains specific recommendations on needed changes, including measurable outcome goals. The principal goal of the plan should be the establishment of a seamless, science-based food safety system. The plan should address the steps necessary to achieve this goal, including the key public health, resource, and management issues regarding food safety. The planning process should consider both short-term and long-term issues including new and emerging threats and the special needs of vulnerable populations such as children and the elderly. In developing this plan, the Council shall consult with all interested parties, including State and local agencies, tribes, consumers, producers, industry, and academia.
 

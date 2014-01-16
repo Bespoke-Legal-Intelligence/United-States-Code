@@ -4,7 +4,7 @@
 
 Definitions.—In this section—
 
-&emsp;(1) “anti-theft device” means a device to reduce or deter theft that—
+&emsp;(1) "anti-theft device" means a device to reduce or deter theft that—
 
 &emsp;&emsp;(A) is in addition to the theft-deterrent devices required by motor vehicle safety standard numbered 114 in section 571.114 of title 49, Code of Federal Regulations;
 
@@ -12,7 +12,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(C) does not use a signaling device reserved by State law for use on police, emergency, or official vehicles, or on schoolbuses.
 
-&emsp;(2) “standard equipment” means equipment already installed in a motor vehicle when it is delivered from the manufacturer and not an accessory or other item that the first purchaser customarily has the option to have installed.
+&emsp;(2) "standard equipment" means equipment already installed in a motor vehicle when it is delivered from the manufacturer and not an accessory or other item that the first purchaser customarily has the option to have installed.
 
 (b)
 
@@ -42,7 +42,7 @@ Petitioning Procedure.—A petition must be filed not later than 8 months before
 
 (d)
 
-Decisions and Approvals.—The Secretary shall make a decision about a petition filed under this section not later than 120 days after the date the petition is filed. A decision approving a petition must be based on substantial evidence. The Secretary may approve a petition in whole or in part. If the Secretary does not make a decision within the 120-day period, the petition shall be deemed to be approved and the manufacturer shall be exempt from the standard for the line covered by the petition for the subsequent model year.
+Decisions and Approvals.—The Secretary shall make a decision about a petition filedunder this section not later than 120 days after the date the petition is filed. A decision approving a petition must be based on substantial evidence. The Secretary may approve a petition in whole or in part. If the Secretary does not make a decision within the 120-day period, the petition shall be deemed to be approved and the manufacturer shall be exempt from the standard for the line covered by the petition for the subsequent model year.
 
 (e)
 
@@ -94,11 +94,11 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §605(a)(2); added Oct. 25, 1984,
 
 15:2025(d).
 
-In subsection (b)(1), the words “the application of any of” are omitted as surplus. The words “or lines” are omitted because of 1:1.
+In subsection (b)(1), the words "the application of any of" are omitted as surplus. The words "or lines" are omitted because of 1:1.
 
-In subsection (b)(2)(A), the words “for model year 1987” are substituted for “For the initial model year to which such standard applies” for clarity. See 50 Fed. Reg. 43166 (1985). In clause (D), the words “that the Attorney General decides” are substituted for “for which the Secretary may grant such an exemption (if any) shall be determined” for clarity and because of the restatement.
+In subsection (b)(2)(A), the words "for model year 1987" are substituted for "For the initial model year to which such standard applies" for clarity. See 50 Fed. Reg. 43166 (1985). In clause (D), the words "that the Attorney General decides" are substituted for "for which the Secretary may grant such an exemption (if any) shall be determined" for clarity and because of the restatement.
 
-In subsection (d), the words “for the line covered by the petition” are added for clarity.
+In subsection (d), the words "for the line covered by the petition" are added for clarity.
 
 Subsection (e) is substituted for 15:2025(d) for clarity and to eliminate unnecessary words.
 
@@ -108,7 +108,7 @@ This amends 49:33106(b)(3) to correct an error in the codification enacted by se
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(3). Pub. L. 103–429 substituted “paragraph (2)(B) or (C) of this subsection” for “subparagraph (2)(B) or (C) of this paragraph”.
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–429 substituted "paragraph (2)(B) or (C) of this subsection" for "subparagraph (2)(B) or (C) of this paragraph".
 
 #### Effective Date of 1994 Amendment
 

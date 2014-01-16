@@ -28,11 +28,11 @@ The commencement of proceedings for judicial review under this section shall not
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this title", meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–289 substituted “4513b, 4636, or 4636a of this title” for “or 4636 of this title” and “this chapter” for “such section”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–289 substituted "4513b, 4636, or 4636a of this title" for "or 4636 of this title" and "this chapter" for "such section".
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

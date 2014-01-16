@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, as soon as practicable after March 23, 2010, issue regulations setting standards for meeting the requirements under this title,<sup>1</sup> and the amendments made by this title,<sup>1</sup> with respect to—
+&emsp;The Secretary shall, as soon as practicable after March 23, 2010, issue regulations settingstandards for meeting the requirements under this title,<sup>1</sup> and the amendments made by this title,<sup>1</sup> with respect to—
 
 &emsp;&emsp;(A) the establishment and operation of Exchanges (including SHOP Exchanges);
 
@@ -82,5 +82,5 @@ This Act, referred to in subsec. (e)(1), is Pub. L. 111–148, Mar. 23, 2010, 12
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Service”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Service".</i>
 

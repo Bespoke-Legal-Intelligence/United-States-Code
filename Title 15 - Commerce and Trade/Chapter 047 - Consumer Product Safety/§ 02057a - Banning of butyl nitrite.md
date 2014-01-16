@@ -12,9 +12,9 @@ For the purposes of section 2057 of this title, it shall not be unlawful for any
 
 For purposes of this section:
 
-&emsp;(1) The term “butyl nitrite” includes n-butyl nitrite, isobutyl nitrite, secondary butyl nitrite, tertiary butyl nitrite, and mixtures containing these chemicals.
+&emsp;(1) The term "butyl nitrite" includes n-butyl nitrite, isobutyl nitrite, secondary butyl nitrite, tertiary butyl nitrite, and mixtures containing these chemicals.
 
-&emsp;(2) The term “commercial purpose” means any commercial purpose other than for the production of consumer products containing butyl nitrite that may be used for inhaling or otherwise introducing butyl nitrite into the human body for euphoric or physical effects.
+&emsp;(2) The term "commercial purpose" means any commercial purpose other than for the production of consumer products containing butyl nitrite that may be used for inhaling or otherwise introducing butyl nitrite into the human body for euphoric or physical effects.
 
 #### (d) Effective date
 

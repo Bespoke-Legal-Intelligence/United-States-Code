@@ -8,7 +8,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “administrative cost” means the cost of necessary administrative functions which—
+&emsp;&emsp;The term "administrative cost" means the cost of necessary administrative functions which—
 
 &emsp;&emsp;&emsp;(i) the tribe or tribal organization incurs as a result of operating a tribal elementary or secondary educational program;
 
@@ -22,7 +22,7 @@ In this section:
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “administrative cost” may include—
+&emsp;&emsp;The term "administrative cost" may include—
 
 &emsp;&emsp;&emsp;(i) contract or grant (or other agreement) administration;
 
@@ -38,7 +38,7 @@ In this section:
 
 #### (2) Bureau elementary and secondary functions
 
-&emsp;The term “Bureau elementary and secondary functions” means—
+&emsp;The term "Bureau elementary and secondary functions" means—
 
 &emsp;&emsp;(A) all functions funded at Bureau schools by the Office;
 
@@ -66,19 +66,19 @@ In this section:
 
 #### (4) Maximum base rate
 
-&emsp;The term “maximum base rate” means 50 percent.
+&emsp;The term "maximum base rate" means 50 percent.
 
 #### (5) Minimum base rate
 
-&emsp;The term “minimum base rate” means 11 percent.
+&emsp;The term "minimum base rate" means 11 percent.
 
 #### (6) Standard direct cost base
 
-&emsp;The term “standard direct cost base” means $600,000.
+&emsp;The term "standard direct cost base" means $600,000.
 
 #### (7) Tribal elementary or secondary educational programs
 
-&emsp;The term “tribal elementary or secondary educational programs” means all Bureau elementary and secondary functions, together with any other Bureau programs or portions of programs (excluding funds for social services that are appropriated to agencies other than the Bureau and are funded through the Bureau, funds for major subcontracts, construction, and other major capital expenditures, and unexpended funds carried over from prior years) which share common administrative cost functions, that are operated directly by a tribe or tribal organization under a contract, grant, or agreement with the Bureau.
+&emsp;The term "tribal elementary or secondary educational programs" means all Bureau elementary and secondary functions, together with any other Bureau programs or portions of programs (excluding funds for social services that are appropriated to agencies other than the Bureau and are funded through the Bureau, funds for major subcontracts, construction, and other major capital expenditures, and unexpended funds carried over from prior years) which share common administrative cost functions, that are operated directly by a tribe or tribal organization under a contract, grant, or agreement with the Bureau.
 
 #### (b) Grants; effect upon appropriated amounts
 
@@ -106,7 +106,7 @@ In this section:
 
 &emsp;&emsp;(A) reduce the amount of the grant determined under paragraph (1) to the extent that payments for administrative costs are actually received by an Indian tribe or tribal organization under any Federal education program included in the direct cost base of the tribe or tribal organization; and
 
-&emsp;&emsp;(B) take such actions as may be necessary to be reimbursed by any other department or agency of the Federal Government for the portion of grants made under this section for the costs of administering any program for Indians that is funded by appropriations made to such other department or agency.
+&emsp;&emsp;(B) take such actions as may be necessary to be reimbursed by any other department or agency of the Federal Government for theportion of grants made under this section for the costs of administering any program for Indians that is funded by appropriations made to such other department or agency.
 
 #### (d) Administrative cost percentage rate
 
@@ -222,7 +222,7 @@ In applying this section and section 106 of the Indian Self-Determination and Ed
 
 #### (6) Projection of costs
 
-&emsp;The Secretary shall include in the Bureau's justification for each appropriations request beginning in the first fiscal year after the completion of the studies conducted under paragraph (1), a projection of the overall costs associated with the formula set forth in subsection (c) of this section for all tribal elementary or secondary education programs whichthe Secretary expects to be funded in the fiscal year for which the appropriations are sought.
+&emsp;The Secretary shall include in the Bureau's justification for each appropriations request beginning in the first fiscal year after the completion of the studies conducted under paragraph (1), a projection of the overall costs associated with the formula set forth in subsection (c) of this section for all tribal elementary or secondary education programs which the Secretary expects to be funded in the fiscal year for which the appropriations are sought.
 
 #### (7) Determination of program size
 
@@ -278,5 +278,5 @@ Section 2008a, Pub. L. 95–561, title XI, §1128A, as added Pub. L. 100–297, 
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

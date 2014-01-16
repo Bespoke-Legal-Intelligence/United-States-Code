@@ -36,7 +36,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 &emsp;(10) the Governor of any adjacent coastal State with an approved coastal zone management program in good standing pursuant to the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) determines that, in his or her view, the application is inadequate or inconsistent with respect to programs within his or her jurisdiction;
 
-&emsp;(11) when the license is for an ocean thermal energy conversion facility, he determines that the thermal plume of the facility is expected to impinge on so as to degrade the thermal gradient used by any other ocean thermal energy conversion facility already licensed or operating, without the consent of its owner;
+&emsp;(11) when the license is for an ocean thermal energy conversion facility, he determines thatthe thermal plume of the facility is expected to impinge on so as to degrade the thermal gradient used by any other ocean thermal energy conversion facility already licensed or operating, without the consent of its owner;
 
 &emsp;(12) when the license is for an ocean thermal energy conversion facility, he determines that the thermal plume of the facility is expected to impinge on so as to adversely affect the territorial sea or area of national resource jurisdiction, as recognized by the United States, of any other nation, unless the Secretary of State approves such impingement after consultation with such nation;
 
@@ -50,7 +50,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 (2) No license shall be issued, transferred, or renewed under this chapter unless the applicant, licensee or transferee first agrees in writing that (A) there will be no substantial change from the plans, operational systems, and methods, procedures, and safeguards set forth in his application, as approved, without prior approval in writing from the Administrator, and (B) he will comply with conditions the Administrator may prescribe in accordance with the provisions of this chapter.
 
-(3) The Administrator shall establish such bonding requirements or other assurances as he deems necessary to assure that, upon the revocation, termination, relinquishment, or surrender of a license, the licensee will dispose of or remove all components of the ocean thermal energy conversion facility or plantship as directed by the Administrator. In the case of components which another applicant or licensee desires touse, the Administrator may waive the disposal or removal requirements until he has reached a decision on the application. In the case of components lying on or below the seabed, the Administrator may waive the disposal or removal requirements if he finds that such removal is not otherwise necessary and that the remaining components do not constitute any threat to the environment, navigation, fishing, or other uses of the seabed.
+(3) The Administrator shall establish such bonding requirements or other assurances as he deems necessary to assure that, upon the revocation, termination, relinquishment, or surrender of a license, the licensee will dispose of or remove all components of the ocean thermal energy conversion facility or plantship as directed by the Administrator. In the case of components which another applicant or licensee desires to use, the Administrator may waive the disposal or removal requirements until he has reached a decision on the application. In the case of components lying on or below the seabed, the Administrator may waive the disposal or removal requirements if he finds that such removal is not otherwise necessary and that the remaining components do not constitute any threat to the environment, navigation, fishing, or other uses of the seabed.
 
 #### (e) License transfer
 
@@ -68,31 +68,31 @@ Licenses issued under this chapter shall be for a term of not to exceed 25 years
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (c)(10), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
 #### Amendments
 
-<b>1984</b>—Subsecs. (a), (b)(2). Pub. L. 98–623, §602(a)(3), (4), substituted “located in whole or in part between the highwater mark and the seaward boundary of the territorial sea” for “located in the territorial sea”.
+<b>1984</b>—Subsecs. (a), (b)(2). Pub. L. 98–623, §602(a)(3), (4), substituted "located in whole or in part between the highwater mark and the seaward boundary of the territorial sea" for "located in the territorial sea".
 
-Subsec. (c)(1). Pub. L. 98–623, §602(b)(1), substituted “cannot or will not” for “cannot and will not”.
+Subsec. (c)(1). Pub. L. 98–623, §602(b)(1), substituted "cannot or will not" for "cannot and will not".
 
-Subsec. (c)(4). Pub. L. 98–623, §602(e)(8), substituted “regulatory authority” for “enforcement authority”.
+Subsec. (c)(4). Pub. L. 98–623, §602(e)(8), substituted "regulatory authority" for "enforcement authority".
 
-Subsec. (c)(5). Pub. L. 98–623, §602(b)(2), substituted “has not expired” for “has expired”.
+Subsec. (c)(5). Pub. L. 98–623, §602(b)(2), substituted "has not expired" for "has expired".
 
-Subsec. (c)(6). Pub. L. 98–623, §602(e)(9), substituted “application for a license” for “application for license”.
+Subsec. (c)(6). Pub. L. 98–623, §602(e)(9), substituted "application for a license" for "application for license".
 
-Subsec. (c)(7). Pub. L. 98–623, §602(a)(5), substituted “will be documented under the laws of a foreign nation” for “will not be documented under the laws of the United States”.
+Subsec. (c)(7). Pub. L. 98–623, §602(a)(5), substituted "will be documented under the laws of a foreign nation" for "will not be documented under the laws of the United States".
 
-Subsec. (c)(10). Pub. L. 98–623, §602(b)(3), (5), substituted “any adjacent” for “each adjacent” and “(16 U.S.C. 1451 et seq.)” for “(33 U.S.C. 1451 et seq.)”.
+Subsec. (c)(10). Pub. L. 98–623, §602(b)(3), (5), substituted "any adjacent" for "each adjacent" and "(16 U.S.C. 1451 et seq.)" for "(33 U.S.C. 1451 et seq.)".
 
-Subsec. (c)(13). Pub. L. 98–623, §602(b)(4), substituted “or” for “and” after the semicolon at the end.
+Subsec. (c)(13). Pub. L. 98–623, §602(b)(4), substituted "or" for "and" after the semicolon at the end.
 
-Subsec. (c)(14). Pub. L. 98–623, §602(e)(10), substituted “if a regulation” for “when a regulation”.
+Subsec. (c)(14). Pub. L. 98–623, §602(e)(10), substituted "if a regulation" for "when a regulation".
 
-Subsec. (d)(2). Pub. L. 98–623, §602(e)(11), substituted “applicant, licensee” for “licensee”.
+Subsec. (d)(2). Pub. L. 98–623, §602(e)(11), substituted "applicant, licensee" for "licensee".
 
 #### Transfer of Functions
 

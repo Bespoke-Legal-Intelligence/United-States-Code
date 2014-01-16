@@ -24,7 +24,7 @@
 
 &emsp;(C) there is reason to believe the State will assume such primary enforcement responsibility by October 1, 1979.
 
-> The amount of any grant awarded for the fiscal years 1978 and 1979 pursuant to a waiver under this paragraph may not exceed 75 per centum of the allotment which the State would have received for such fiscal year if it had assumed and maintained such primary enforcement responsibility. The remaining 25 per centum of the amount allotted to such State for such fiscal year shall be retained by the Administrator, and the Administrator may award such amount to such State at such time as the State assumes such responsibility before the beginning of fiscal year 1980. At the beginning of each fiscal years 1979 and 1980 the amounts retained by the Administrator for any preceding fiscal year and not awarded by the beginning of fiscal year 1979 or 1980 to the States to which such amounts were originally allotted may be removed from the original allotment and reallotted for fiscal year 1979 or 1980 (as the case may be) to States which have assumed primary enforcement responsibility by the beginning of such fiscal year.
+> The amount of any grant awarded for the fiscal years 1978 and 1979 pursuant to a waiver underthis paragraph may not exceed 75 per centum of the allotment which the State would have received for such fiscal year if it had assumed and maintained such primary enforcement responsibility. The remaining 25 per centum of the amount allotted to such State for such fiscal year shall be retained by the Administrator, and the Administrator may award such amount to such State at such time as the State assumes such responsibility before the beginning of fiscal year 1980. At the beginning of each fiscal years 1979 and 1980 the amounts retained by the Administrator for any preceding fiscal year and not awarded by the beginning of fiscal year 1979 or 1980 to the States to which such amounts were originally allotted may be removed from the original allotment and reallotted for fiscal year 1979 or 1980 (as the case may be) to States which have assumed primary enforcement responsibility by the beginning of such fiscal year.
 
 (6) The Administrator shall notify the State of the approval or disapproval of any application for a grant under this section—
 
@@ -81,9 +81,9 @@ Duty of administrator.—If the Administrator reserves funds from the allocation
 
 For purposes of this section:
 
-&emsp;(1) The term “public water system supervision program” means a program for the adoption and enforcement of drinking water regulations (with such variances and exemptions from such regulations under conditions and in a manner which is not less stringent than the conditions under, and the manner in, which variances and exemptions may be granted under sections 300g–4 and 300g–5 of this title) which are no less stringent than the national primary drinking water regulations under section 300g–1 of this title, and for keeping records and making reports required by section 300g–2(a)(3) of this title.
+&emsp;(1) The term "public water system supervision program" means a program for the adoption and enforcement of drinking water regulations (with such variances and exemptions from such regulations under conditions and in a manner which is not less stringent than the conditions under, and the manner in, which variances and exemptions may be granted under sections 300g–4 and 300g–5 of this title) which are no less stringent than the national primary drinking water regulations under section 300g–1 of this title, and for keeping records and making reports required by section 300g–2(a)(3) of this title.
 
-&emsp;(2) The term “underground water source protection program” means a program for the adoption and enforcement of a program which meets the requirements of regulations under section 300h of this title, and for keeping records and making reports required by section 300h–1(b)(1)(A)(ii) of this title. Such term includes, where applicable, a program which meets the requirements of section 300h–4 of this title.
+&emsp;(2) The term "underground water source protection program" means a program for the adoption and enforcement of a program which meets the requirements of regulations undersection 300h of this title, and for keeping records and making reports required by section 300h–1(b)(1)(A)(ii) of this title. Such term includes, where applicable, a program which meets the requirements of section 300h–4 of this title.
 
 #### (d) New York City watershed protection program
 
@@ -107,11 +107,11 @@ For purposes of this section:
 
 #### Amendments
 
-<b>2004</b>—Subsec. (d)(4). Pub. L. 108–328 substituted “2003 through 2010” for “1997 through 2003”.
+<b>2004</b>—Subsec. (d)(4). Pub. L. 108–328 substituted "2003 through 2010" for "1997 through 2003".
 
-<b>1996</b>—Subsec. (a)(7). Pub. L. 104–182, §124(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “For purposes of making grants under paragraph (1) there are authorized to be appropriated $15,000,000 for the fiscal year ending June 30, 1976, $25,000,000 for the fiscal year ending June 30, 1977, $35,000,000 for fiscal year 1978, $45,000,000 for fiscal year 1979, $29,450,000 for the fiscal year ending September 30, 1980, $32,000,000 for the fiscal year ending September 30, 1981, and $34,000,000 for the fiscal year ending September 30, 1982. For the purposes of making grants under paragraph (1) there are authorized to be appropriated not more than the following amounts:
+<b>1996</b>—Subsec. (a)(7). Pub. L. 104–182, §124(1), inserted heading and amended text generally. Prior to amendment, text read as follows: "For purposes of making grants under paragraph (1) there are authorized to be appropriated $15,000,000 for the fiscal year ending June 30, 1976, $25,000,000 for the fiscal year ending June 30, 1977, $35,000,000 for fiscal year 1978, $45,000,000 for fiscal year 1979, $29,450,000 for the fiscal year ending September 30, 1980, $32,000,000 for the fiscal year ending September 30, 1981, and $34,000,000 for the fiscal year ending September 30, 1982. For the purposes of making grants under paragraph (1) there are authorized to be appropriated not more than the following amounts:
 
-“Fiscal year:
+"Fiscal year:
 
 <i>Amount  </i>
 
@@ -135,7 +135,7 @@ For purposes of this section:
 
 &nbsp;&nbsp;1991
 
-&nbsp;&nbsp;40,150,000”.
+&nbsp;&nbsp;40,150,000".
 
 Subsec. (a)(8), (9). Pub. L. 104–182, §124(2), added pars. (8) and (9).
 

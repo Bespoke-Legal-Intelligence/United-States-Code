@@ -2,7 +2,7 @@
 
 #### (a) Definition of Administrator
 
-In this section, the term “Administrator” means the Administrator of General Services.
+In this section, the term "Administrator" means the Administrator of General Services.
 
 #### (b) Establishment
 
@@ -56,7 +56,7 @@ In this section, the term “Administrator” means the Administrator of General
 
 #### (ii) Goal
 
-&emsp;&emsp;&emsp;The goal of the timetable under clause (i) shall be to complete, using available appropriations and programs implementing sections 431 through 435 <sup>1</sup> (and amendments made by those sections), maximum feasible replacement of existing lighting, heating, and cooling technologies with cost-effective lighting technologies and geothermal heat pump technologies consistent with the requirements of this section and sections 431 through 435,<sup>1</sup> whichever achieves greater energy savings most expeditiously. Notwithstanding any provision of this section, such program shall fully comply with the requirements of the Act <sup>3</sup> including sections 321 through 324, 431 through 438, 461, 511 through 518, and 523 through 525 and amendments made by those sections and other provisions of law, which shall be applicable to the extent that they are more stringent or would achieve greater energy or water savings than required by this section.
+&emsp;&emsp;&emsp;The goal of the timetable under clause (i) shall be to complete, using available appropriations and programs implementing sections 431 through 435 <sup>1</sup> (and amendments made by those sections), maximum feasible replacement of existing lighting, heating, and cooling technologies with cost-effective lighting technologies and geothermal heat pump technologies consistent with the requirements of this section and sections 431 through 435,<sup>1</sup> whichever achieves greater energy savings most expeditiously. Notwithstanding any provision of this section, such program shall fully comply with the requirements of the Act <sup>3</sup> including sections 321 through 324, 431 through 438, 461, 511 through 518, and 523 through 525 and amendments made by those sections and other provisions of law, which shall be applicable to the extent that they are more stringent or wouldachieve greater energy or water savings than required by this section.
 
 #### (d) GSA facility technologies and practices
 
@@ -130,11 +130,11 @@ Section 432, referred to in subsec. (d)(1), is section 432 of Pub. L. 110–140,
 
 Section 525, referred to in subsec. (d)(2), is section 525 of Pub. L. 110–140, December 19, 2007, 121 Stat. 1663, which amended section 8259b of this title and enacted provisions set out as a note under section 8259b of this title.
 
-This part, referred to in subsec. (d)(3)(C)(i), was in the original “this subtitle”, meaning subtitle C (§§431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under section 6834 of this title. For complete classification of subtitle C to the Code, see Tables.
+This part, referred to in subsec. (d)(3)(C)(i), was in the original "this subtitle", meaning subtitle C (§§431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under section 6834 of this title. For complete classification of subtitle C to the Code, see Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “and cooling”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "and cooling".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “this Act”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "this Act".</i>
 

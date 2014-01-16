@@ -26,9 +26,9 @@
 
 #### Amendments
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “armed forces” for “Armed Forces”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted "armed forces" for "Armed Forces".
 
-<b>1983</b>—Subsec. (a)(2). Pub. L. 98–94 substituted “October 14, 1980” for “the date of the enactment of this section”.
+<b>1983</b>—Subsec. (a)(2). Pub. L. 98–94 substituted "October 14, 1980" for "the date of the enactment of this section".
 
-<b>1981</b>—Subsec. (b)(3). Pub. L. 97–22 substituted “section 413 of the Foreign Service Act of 1980 (22 U.S.C. 3973)” for “section 14 of the Act of August 1, 1956 (22 U.S.C. 2679a)”.
+<b>1981</b>—Subsec. (b)(3). Pub. L. 97–22 substituted "section 413 of the Foreign Service Act of 1980 (22 U.S.C. 3973)" for "section 14 of the Act of August 1, 1956 (22 U.S.C. 2679a)".
 

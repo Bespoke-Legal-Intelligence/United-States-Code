@@ -56,9 +56,9 @@ Sept. 7, 1962, Pub. L. 87–650, §§6–8, 76 Stat. 504.
 
 &nbsp;
 
-In subsection (a)(2), the words “several”, “always”, “thereof”, and “the hands of” are omitted as unnecessary.
+In subsection (a)(2), the words "several", "always", "thereof", and "the hands of" are omitted as unnecessary.
 
 In subsection (a)(4), the text of 36:1007(b) is omitted as obsolete.
 
-In subsection (b), the word “Thereafter” is omitted as obsolete.
+In subsection (b), the word "Thereafter" is omitted as obsolete.
 

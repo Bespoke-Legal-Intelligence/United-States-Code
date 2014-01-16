@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out this part $50,000,000 for f
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–273 substituted “each of fiscal years 2002 through 2005” for “fiscal year 2002”.
+<b>2002</b>—Pub. L. 107–273 substituted "each of fiscal years 2002 through 2005" for "fiscal year 2002".
 
-<b>1998</b>—Pub. L. 105–277 substituted “$50,000,000 for fiscal year 1999, $70,000,000 for fiscal year 2000, $90,000,000 for fiscal year 2001, and $90,000,000 for fiscal year 2002” for “$20,000 for each of the fiscal years 1996 through 2000”.
+<b>1998</b>—Pub. L. 105–277 substituted "$50,000,000 for fiscal year 1999, $70,000,000 for fiscal year 2000, $90,000,000 for fiscal year 2001, and $90,000,000 for fiscal year 2002" for "$20,000 for each of the fiscal years 1996 through 2000".
 

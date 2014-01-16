@@ -58,9 +58,9 @@ This title, referred to in subsecs. (a)(2) and (b)(1)(F), (2)(E), means title II
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–550, §304(a), inserted after second sentence “Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information.”
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–550, §304(a), inserted after second sentence "Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information."
 
-Subsec. (c). Pub. L. 102–550, §304(b), inserted before period at end “and make available to the Secretary and tenants all documentation supporting any revision, but not including any information that the Secretary determines is proprietary information”.
+Subsec. (c). Pub. L. 102–550, §304(b), inserted before period at end "and make available to the Secretary and tenants all documentation supporting any revision, but not including any information that the Secretary determines is proprietary information".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

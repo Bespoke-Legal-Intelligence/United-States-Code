@@ -8,39 +8,39 @@ Indian tribe.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community that is recognized as being eligible for special programs and services provided by the United States to Indians because of their status as Indians.
+In general.—The term "Indian tribe" means any Indian tribe, band, nation, or other organized group or community that is recognized as being eligible for special programs and services provided by the United States to Indians because of their status as Indians.
 
 &emsp;&emsp;(B)
 
-Inclusions.—The term “Indian tribe” includes an Alaska Native village, as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.); and <sup>1</sup>
+Inclusions.—The term "Indian tribe" includes an Alaska Native village, as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.); and <sup>1</sup>
 
-&emsp;(2) The term “nonoperational storage tank” means any underground storage tank in which regulated substances will not be deposited or from which regulated substances will not be dispensed after November 8, 1984.
+&emsp;(2) The term "nonoperational storage tank" means any underground storage tank in which regulated substances will not be deposited or from which regulated substances will not be dispensed after November 8, 1984.
 
-&emsp;(3) The term “operator” means any person in control of, or having responsibility for, the daily operation of the underground storage tank.
+&emsp;(3) The term "operator" means any person in control of, or having responsibility for, the daily operation of the underground storage tank.
 
-&emsp;(4) The term “owner” means—
+&emsp;(4) The term "owner" means—
 
 &emsp;&emsp;(A) in the case of an underground storage tank in use on November 8, 1984, or brought into use after that date, any person who owns an underground storage tank used for the storage, use, or dispensing of regulated substances and
 
 &emsp;&emsp;(B) in the case of any underground storage tank in use before November 8, 1984, but no longer in use on November 8, 1984, any person who owned such tank immediately before the discontinuation of its use.
 
-&emsp;(5) The term “person” has the same meaning as provided in section 6903(15) of this title, except that such term includes a consortium, a joint venture, and a commercial entity, and the United States Government.
+&emsp;(5) The term "person" has the same meaning as provided in section 6903(15) of this title, except that such term includes a consortium, a joint venture, and a commercial entity, and the United States Government.
 
-&emsp;(6) The term “petroleum” means petroleum, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure (60 degrees Fahrenheit and 14.7 pounds per square inch absolute).
+&emsp;(6) The term "petroleum" means petroleum, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure (60 degrees Fahrenheit and 14.7 pounds per square inch absolute).
 
-&emsp;(7) The term “regulated substance” means—
+&emsp;(7) The term "regulated substance" means—
 
 &emsp;&emsp;(A) any substance defined in section 9601(14) of this title (but not including any substance regulated as a hazardous waste under subchapter III of this chapter), and
 
 &emsp;&emsp;(B) petroleum.
 
-&emsp;(8) The term “release” means any spilling, leaking, emitting, discharging, escaping,leaching, or disposing from an underground storage tank into ground water, surface water or subsurface soils.
+&emsp;(8) The term "release" means any spilling, leaking, emitting, discharging, escaping, leaching, or disposing from an underground storage tank into ground water, surface water or subsurface soils.
 
 &emsp;(9)
 
-Trust fund.—The term “Trust Fund” means the Leaking Underground Storage Tank Trust Fund established by section 9508 of title 26.
+Trust fund.—The term "Trust Fund" means the Leaking Underground Storage Tank Trust Fund established by section 9508 of title 26.
 
-&emsp;(10) The term “underground storage tank” means any one or combination of tanks (including underground pipes connected thereto) which is used to contain an accumulation of regulated substances, and the volume of which (including the volume of the underground pipes connected thereto) is 10 per centum or more beneath the surface of the ground. Such term does not include any—
+&emsp;(10) The term "underground storage tank" means any one or combination of tanks (including underground pipes connected thereto) which is used to contain an accumulation of regulated substances, and the volume of which (including the volume of the underground pipes connected thereto) is 10 per centum or more beneath the surface of the ground. Such term does not include any—
 
 &emsp;&emsp;(A) farm or residential tank of 1,100 gallons or less capacity used for storing motor fuel for noncommercial purposes,
 
@@ -66,7 +66,7 @@ Trust fund.—The term “Trust Fund” means the Leaking Underground Storage Ta
 
 &emsp;&emsp;(I) storage tank situated in an underground area (such as a basement, cellar, mineworking, drift, shaft, or tunnel) if the storage tank is situated upon or above the surface of the floor.
 
-> &emsp;The term “underground storage tank” shall not include any pipes connected to any tank which is described in subparagraphs (A) through (I).
+> &emsp;The term "underground storage tank" shall not include any pipes connected to any tank which is described in subparagraphs (A) through (I).
 
 (Pub. L. 89–272, title II, §9001, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3277; amended Pub. L. 99–499, title II, §205(a), Oct. 17, 1986, 100 Stat. 1696; Pub. L. 102–508, title III, §302, Oct. 24, 1992, 106 Stat. 3307; Pub. L. 103–429, §7(d), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 109–58, title XV, §§1532(a), 1533(1), Aug. 8, 2005, 119 Stat. 1104, 1105.)
 
@@ -76,27 +76,27 @@ The Alaska Native Claims Settlement Act, referred to in par. (1)(B), is Pub. L. 
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–58 substituted “In this subchapter:” for “For the purposes of this subchapter—” in introductory provisions, added pars. (1) and (9), redesignated former pars. (1) to (8) as pars. (10), (7), (4), (3), (8), (5), (2), and (6), respectively, and, in par. (4)(A), substituted “substances” for “sustances”.
+<b>2005</b>—Pub. L. 109–58 substituted "In this subchapter:" for "For the purposes of this subchapter—" in introductory provisions, added pars. (1) and (9), redesignated former pars. (1) to (8) as pars. (10), (7), (4), (3), (8), (5), (2), and (6), respectively, and, in par. (4)(A), substituted "substances" for "sustances".
 
-<b>1994</b>—Par. (1)(D). Pub. L. 103–429 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “pipeline facility (including gathering lines)—
+<b>1994</b>—Par. (1)(D). Pub. L. 103–429 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "pipeline facility (including gathering lines)—
 
-&emsp;“(i) which is regulated under the Natural Gas Pipeline Safety Act of 1968 (49 U.S.C. App. 1671 et seq.),
+&emsp;"(i) which is regulated under the Natural Gas Pipeline Safety Act of 1968 (49 U.S.C. App. 1671 et seq.),
 
-&emsp;“(ii) which is regulated under the Hazardous Liquid Pipeline Safety Act of 1979 (49 U.S.C. App. 2001 et seq.), or
+&emsp;"(ii) which is regulated under the Hazardous Liquid Pipeline Safety Act of 1979 (49 U.S.C. App. 2001 et seq.), or
 
-&emsp;“(iii) which is an intrastate pipeline facility regulated under State laws as provided in the provisions of law referred to in clause (i) or (ii) of this subparagraph,
+&emsp;"(iii) which is an intrastate pipeline facility regulated under State laws as provided in the provisions of law referred to in clause (i) or (ii) of this subparagraph,
 
-> and which is determined by the Secretary to be connected to a pipeline or to be operated or intended to be capable of operating at pipeline pressure or as an integral part of a pipeline,”.
+> and which is determined by the Secretary to be connected to a pipeline or to be operated or intended to be capable of operating at pipeline pressure or as an integral part of a pipeline,".
 
-<b>1992</b>—Par. (1)(D). Pub. L. 102–508 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “pipeline facility (including gathering lines) regulated under—
+<b>1992</b>—Par. (1)(D). Pub. L. 102–508 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "pipeline facility (including gathering lines) regulated under—
 
-&emsp;“(i) the Natural Gas Pipeline Safety Act of 1968,
+&emsp;"(i) the Natural Gas Pipeline Safety Act of 1968,
 
-&emsp;“(ii) the Hazardous Liquid Pipeline Safety Act of 1979, or
+&emsp;"(ii) the Hazardous Liquid Pipeline Safety Act of 1979, or
 
-&emsp;“(iii) which is an intrastate pipeline facility regulated under State laws comparable to the provisions of law referred to in clause (i) or (ii) of this subparagraph,”.
+&emsp;"(iii) which is an intrastate pipeline facility regulated under State laws comparable to the provisions of law referred to in clause (i) or (ii) of this subparagraph,".
 
-<b>1986</b>—Par. (2)(B). Pub. L. 99–499 struck out “, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure (60 degrees Fahrenheit and 14.7 pounds per square inch absolute)”. See par. (8).
+<b>1986</b>—Par. (2)(B). Pub. L. 99–499 struck out ", including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure (60 degrees Fahrenheit and 14.7 pounds per square inch absolute)". See par. (8).
 
 Par. (8). Pub. L. 99–499 added par. (8).
 
@@ -104,119 +104,119 @@ Par. (8). Pub. L. 99–499 added par. (8).
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XII, §1201\], Dec. 21, 2000, 114 Stat. 2763, 2763A–313, provided that:
 
-“(a)
+"(a)
 
 Definitions.—In this provision:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Aboveground storage tank.—The term ‘aboveground storage tank’ means any tank or combination of tanks (including any connected pipe)—
+Aboveground storage tank.—The term 'aboveground storage tank' means any tank or combination of tanks (including any connected pipe)—
 
-&emsp;&emsp;“(A) that is used to contain an accumulation of regulated substances; and
+&emsp;&emsp;"(A) that is used to contain an accumulation of regulated substances; and
 
-&emsp;&emsp;“(B) the volume of which (including the volume of any connected pipe) is located wholly above the surface of the ground.
+&emsp;&emsp;"(B) the volume of which (including the volume of any connected pipe) is located wholly above the surface of the ground.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
+Administrator.—The term 'Administrator' means the Administrator of the Environmental Protection Agency.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Denali Commission.—The term ‘Denali Commission’ means the commission established by section 303(a) of the Denali Commission Act of 1998 \[Pub. L. 105–277, div. C, title III\] (42 U.S.C. 3121 note).
+Denali Commission.—The term 'Denali Commission' means the commission established by section 303(a) of the Denali Commission Act of 1998 \[Pub. L. 105–277, div. C, title III\] (42 U.S.C. 3121 note).
 
-&emsp;“(4)
+&emsp;"(4)
 
-Federal environmental law.—The term ‘Federal environmental law’ means—
+Federal environmental law.—The term 'Federal environmental law' means—
 
-&emsp;&emsp;“(A) the Oil Pollution Control Act of 1990 (33 U.S.C. 2701 et seq.);
+&emsp;&emsp;"(A) the Oil Pollution Control Act of 1990 (33 U.S.C. 2701 et seq.);
 
-&emsp;&emsp;“(B) the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.);
+&emsp;&emsp;"(B) the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.);
 
-&emsp;&emsp;“(C) the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.);
+&emsp;&emsp;"(C) the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.);
 
-&emsp;&emsp;“(D) the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.); or
+&emsp;&emsp;"(D) the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.); or
 
-&emsp;&emsp;“(E) any other Federal law that is applicable to the release into the environment of a regulated substance, as determined by the Administrator.
+&emsp;&emsp;"(E) any other Federal law that is applicable to the release into the environment of a regulated substance, as determined by the Administrator.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Native village.—The term ‘Native village’ has the meaning given the term in section 11(b) in Public Law 92–203 (85 Stat. 688) \[43 U.S.C. 1610(b)\].
+Native village.—The term 'Native village' has the meaning given the term in section 11(b) in Public Law 92–203 (85 Stat. 688) \[43 U.S.C. 1610(b)\].
 
-&emsp;“(6)
+&emsp;"(6)
 
-Program.—The term ‘program’ means the Aboveground Storage Tank Grant Program established by subsection (b)(1).
+Program.—The term 'program' means the Aboveground Storage Tank Grant Program established by subsection (b)(1).
 
-&emsp;“(7)
+&emsp;"(7)
 
-Regulated substance.—The term ‘regulated substance’ has the meaning given the term in section 9001 of the Solid Waste Disposal Act (42 U.S.C. 6991).
+Regulated substance.—The term 'regulated substance' has the meaning given the term in section 9001 of the Solid Waste Disposal Act (42 U.S.C. 6991).
 
-&emsp;“(8)
+&emsp;"(8)
 
-State.—The term ‘State’ means the State of Alaska.
+State.—The term 'State' means the State of Alaska.
 
-“(b)
+"(b)
 
 Establishment.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—There is established a grant program to be known as the ‘Aboveground Storage Tank Grant Program’
+In general.—There is established a grant program to be known as the 'Aboveground Storage Tank Grant Program'
 
-&emsp;“(2)
+&emsp;"(2)
 
 Grants.—Under the program, the Administrator shall award a grant to—
 
-&emsp;&emsp;“(A) the State, on behalf of a Native village; or
+&emsp;&emsp;"(A) the State, on behalf of a Native village; or
 
-&emsp;&emsp;“(B) the Denali Commission.
+&emsp;&emsp;"(B) the Denali Commission.
 
-“(c)
+"(c)
 
 Use of Grants.—The State or the Denali Commission shall use the funds of a grant under subsection (b) to repair, upgrade, or replace one or more aboveground storage tanks that—
 
-&emsp;“(1) leaks or poses an imminent threat of leaking, as certified by the Administrator, the Commandant of the Coast Guard, or any other appropriate Federal or State agency (as determined by the Administrator); and
+&emsp;"(1) leaks or poses an imminent threat of leaking, as certified by the Administrator, the Commandant of the Coast Guard, or any other appropriate Federal or State agency (as determined by the Administrator); and
 
-&emsp;“(2) is located in a Native village—
+&emsp;"(2) is located in a Native village—
 
-&emsp;&emsp;“(A) the median household income of which is less than 80 percent of the median household income in the State;
+&emsp;&emsp;"(A) the median household income of which is less than 80 percent of the median household income in the State;
 
-&emsp;&emsp;“(B) that is located—
+&emsp;&emsp;"(B) that is located—
 
-&emsp;&emsp;&emsp;“(i) within the boundaries of—
+&emsp;&emsp;&emsp;"(i) within the boundaries of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) a unit of the National Park System;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a unit of the National Park System;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) a unit of the National Wildlife Refuge System; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a unit of the National Wildlife Refuge System; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) a National Forest; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) a National Forest; or
 
-&emsp;&emsp;&emsp;“(ii) on public land under the administrative jurisdiction of the Bureau of Land Management; or
+&emsp;&emsp;&emsp;"(ii) on public land under the administrative jurisdiction of the Bureau of Land Management; or
 
-&emsp;&emsp;“(C) that receives payments from the Federal Government under chapter 69 of title 31, United States Code (commonly known as ‘payments in lieu of taxes’).
+&emsp;&emsp;"(C) that receives payments from the Federal Government under chapter 69 of title 31, United States Code (commonly known as 'payments in lieu of taxes').
 
-“(d)
+"(d)
 
 Reports.—Not later than 1 year after the date on which the State or the Denali Commission receives a grant under subsection (c), and annually thereafter, the State or the Denali Commission, as the case may be, shall submit a report describing each project completed with grant funds and any projects planned for the following year, to—
 
-&emsp;“(1) the Administrator;
+&emsp;"(1) the Administrator;
 
-&emsp;“(2) the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives;
+&emsp;"(2) the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives;
 
-&emsp;“(3) the Committee on Environment and Public Works of the Senate;
+&emsp;"(3) the Committee on Environment and Public Works of the Senate;
 
-&emsp;“(4) the Committee on Appropriations of the House of Representatives; and
+&emsp;"(4) the Committee on Appropriations of the House of Representatives; and
 
-&emsp;“(5) the Committee on Appropriations of the Senate.
+&emsp;"(5) the Committee on Appropriations of the Senate.
 
-“(e)
+"(e)
 
 Authorization of Appropriations.—There are authorized to be appropriated to carry out this Act \[probably means this section\], to remain available until expended—
 
-&emsp;“(1) $20,000,000 for fiscal year 2001; and
+&emsp;"(1) $20,000,000 for fiscal year 2001; and
 
-&emsp;“(2) such sums as are necessary for each fiscal year thereafter.”
+&emsp;"(2) such sums as are necessary for each fiscal year thereafter."
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a period and the word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a period and the word "and" probably should not appear.</i>
 

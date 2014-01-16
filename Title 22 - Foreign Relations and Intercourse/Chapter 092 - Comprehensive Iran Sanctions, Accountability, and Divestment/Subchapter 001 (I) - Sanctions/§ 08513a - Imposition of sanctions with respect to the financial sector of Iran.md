@@ -6,9 +6,9 @@ Congress makes the following findings:
 
 &emsp;(1) On November 21, 2011, the Secretary of the Treasury issued a finding under section 5318A of title 31 that identified Iran as a jurisdiction of primary money laundering concern.
 
-&emsp;(2) In that finding, the Financial Crimes Enforcement Network of the Department of the Treasury wrote, “The Central Bank of Iran, which regulates Iranian banks, has assisted designated Iranian banks by transferring billions of dollars to these banks in 2011. In mid-2011, the CBI transferred several billion dollars to designated banks, including Saderat, Mellat, EDBI and Melli, through a variety of payment schemes. In making these transfers, the CBI attempted to evade sanctions by minimizing the direct involvement of large international banks with both CBI and designated Iranian banks.”.
+&emsp;(2) In that finding, the Financial Crimes Enforcement Network of the Department of the Treasury wrote, "The Central Bank of Iran, which regulates Iranian banks, has assisted designated Iranian banks by transferring billions of dollars to these banks in 2011. In mid-2011, the CBI transferred several billion dollars to designated banks, including Saderat, Mellat, EDBI and Melli, through a variety of payment schemes. In making these transfers, the CBI attempted to evade sanctions by minimizing the direct involvement of large international banks with both CBI and designated Iranian banks.".
 
-&emsp;(3) On November 22, 2011, the Under Secretary of the Treasury for Terrorism and Financial Intelligence, David Cohen, wrote, “Treasury is calling out the entire Iranian banking sector, including the Central Bank of Iran, as posing terrorist financing, proliferation financing, and money laundering risks for the global financial system.”.
+&emsp;(3) On November 22, 2011, the Under Secretary of the Treasury for Terrorism and Financial Intelligence, David Cohen, wrote, "Treasury is calling out the entire Iranian banking sector, including the Central Bank of Iran, as posing terrorist financing, proliferation financing, and money laundering risks for the global financial system.".
 
 #### (b) Designation of financial sector of Iran as of primary money laundering concern
 
@@ -98,13 +98,13 @@ The President shall, pursuant to the International Emergency Economic Powers Act
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the Annex to the Missile Technology Control Regime Guidelines;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the Annex on Chemicals to the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, done at Paris January 13, 1993, and entered into force April 29, 1997 (commonly known as the “Chemical Weapons Convention”);
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the Annex on Chemicals to the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, done at Paris January 13, 1993, and entered into force April 29, 1997 (commonly known as the "Chemical Weapons Convention");
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) in Part 1 or 2 of the Nuclear Suppliers Group Guidelines; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) on a control list of the Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies; or
 
-&emsp;&emsp;&emsp;&emsp;(II) any other item that could contribute to Iran's conventional, nuclear,chemical, or biological weapons program; and
+&emsp;&emsp;&emsp;&emsp;(II) any other item that could contribute to Iran's conventional, nuclear, chemical, or biological weapons program; and
 
 &emsp;&emsp;(B) conduct outreach to petroleum-producing countries to encourage those countries to increase their output of crude oil to ensure there is a sufficient supply of crude oil from countries other than Iran and to minimize any impact on the price of oil resulting from the imposition of sanctions under this section.
 
@@ -132,19 +132,19 @@ In this section:
 
 #### (1) Account; correspondent account; payable-through account
 
-&emsp;The terms “account”, “correspondent account”, and “payable-through account” have the meanings given those terms in section 5318A of title 31.
+&emsp;The terms "account", "correspondent account", and "payable-through account" have the meanings given those terms in section 5318A of title 31.
 
 #### (2) Foreign financial institution
 
-&emsp;The term “foreign financial institution” has the meaning of that term as determined by the Secretary of the Treasury pursuant to section 8513(i) of this title.
+&emsp;The term "foreign financial institution" has the meaning of that term as determined by the Secretary of the Treasury pursuant to section 8513(i) of this title.
 
 #### (3) Significant reductions
 
-&emsp;The terms “reduce significantly”, “significant reduction”, and “significantly reduced”, with respect to purchases from Iran of petroleum and petroleum products, include a reduction in such purchases in terms of price or volume toward a complete cessation of such purchases.
+&emsp;The terms "reduce significantly", "significant reduction", and "significantly reduced", with respect to purchases from Iran of petroleum and petroleum products, include a reduction in such purchases in terms of price or volume toward a complete cessation of such purchases.
 
 #### (4) United States person
 
-&emsp;The term “United States person” means—
+&emsp;The term "United States person" means—
 
 &emsp;&emsp;(A) a natural person who is a citizen or resident of the United States or a national of the United States (as defined in section 1101(a) of title 8); and
 
@@ -168,13 +168,13 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 <b>2013</b>—Subsec. (d)(5)(B)(ii), (iii). Pub. L. 112–239 added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-<b>2012</b>—Subsec. (d)(2). Pub. L. 112–158, §503(a)(1), inserted “agricultural commodities,” after “sales of” in heading and after “sale of” in text.
+<b>2012</b>—Subsec. (d)(2). Pub. L. 112–158, §503(a)(1), inserted "agricultural commodities," after "sales of" in heading and after "sale of" in text.
 
-Subsec. (d)(3). Pub. L. 112–158, §504(a)(1)(A), struck out “a foreign financial institution owned or controlled by the government of a foreign country, including” after “with respect to”.
+Subsec. (d)(3). Pub. L. 112–158, §504(a)(1)(A), struck out "a foreign financial institution owned or controlled by the government of a foreign country, including" after "with respect to".
 
-Subsec. (d)(4)(A). Pub. L. 112–158, §503(b)(1), substituted “October 25, 2012, and the last Thursday of every other month thereafter” for “60 days after December 31, 2011, and every 60 days thereafter” and “2-month period” for “60-day period”.
+Subsec. (d)(4)(A). Pub. L. 112–158, §503(b)(1), substituted "October 25, 2012, and the last Thursday of every other month thereafter" for "60 days after December 31, 2011, and every 60 days thereafter" and "2-month period" for "60-day period".
 
-Subsec. (d)(4)(D)(i). Pub. L. 112–158, §504(a)(1)(B)(i), (ii), designated existing provisions as cl. (i) and inserted cl. heading, substituted “a financial transaction described in clause (ii) conducted or facilitated by a foreign financial institution” for “a foreign financial institution” and “institution—” for “institution has significantly”, inserted subcl. (I) designation and “has significantly reduced” before “reduced its volume”, and added subcl. (II).
+Subsec. (d)(4)(D)(i). Pub. L. 112–158, §504(a)(1)(B)(i), (ii), designated existing provisions as cl. (i) and inserted cl. heading, substituted "a financial transaction described in clause (ii) conducted or facilitated by a foreign financial institution" for "a foreign financial institution" and "institution—" for "institution has significantly", inserted subcl. (I) designation and "has significantly reduced" before "reduced its volume", and added subcl. (II).
 
 Subsec. (d)(4)(D)(ii). Pub. L. 112–158, §504(a)(1)(B)(iii), added cl. (ii).
 
@@ -184,11 +184,11 @@ Subsec. (i). Pub. L. 112–158, §504(a)(3), added subsec. (i).
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–158, title V, §503(a)(2), Aug. 10, 2012, 126 Stat. 1261, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1298).”
+Pub. L. 112–158, title V, §503(a)(2), Aug. 10, 2012, 126 Stat. 1261, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1298)."
 
-Pub. L. 112–158, title V, §503(b)(2), Aug. 10, 2012, 126 Stat. 1261, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on September 1, 2012.”
+Pub. L. 112–158, title V, §503(b)(2), Aug. 10, 2012, 126 Stat. 1261, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on September 1, 2012."
 
-Pub. L. 112–158, title V, §504(b), Aug. 10, 2012, 126 Stat. 1262, provided that: “The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall apply with respect to financial transactions conducted or facilitated on or after the date that is 180 days after the date of the enactment of this Act \[Aug. 10, 2012\].”
+Pub. L. 112–158, title V, §504(b), Aug. 10, 2012, 126 Stat. 1262, provided that: "The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall apply with respect to financial transactions conducted or facilitated on or after the date that is 180 days after the date of the enactment of this Act \[Aug. 10, 2012\]."
 
 #### Delegation of Functions
 
@@ -197,6 +197,10 @@ Ex. Ord. No. 13599, Feb. 5, 2012, 77 F.R. 6659, which is listed in a table under
 #### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
 
 The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
+
+Determination of President of the United States, No. 2014–03, Nov. 29, 2013, 78 F.R. 76717.
+
+Determination of President of the United States, No. 2013–10, June 5, 2013, 78 F.R. 35537.
 
 Determination of President of the United States, No. 2013–03, Dec. 7, 2012, 77 F.R. 76213.
 

@@ -154,7 +154,7 @@ Oct. 12, 1949, ch. 681, §§405, 406, 407, 63 Stat. 821.
 
 37:275(c) (last sentence).
 
-In subsections (a) and (b), the words “under section 1210(f) of this title” are substituted for the words “If, as a result of a periodic physical examination”, in 37:275(a) and (b), and 276(a), and the words “and who are subsequently found to be physically fit”, in 37:277(a). The words “subject to the provisions of section 277 of this title”, in 37:275(a), are omitted as surplusage.
+In subsections (a) and (b), the words "under section 1210(f) of this title" are substituted for the words "If, as a result of a periodic physical examination", in 37:275(a) and (b), and 276(a), and the words "and who are subsequently found to be physically fit", in 37:277(a). The words "subject to the provisions of section 277 of this title", in 37:275(a), are omitted as surplusage.
 
 In subsections (a)(2)–(6) and (b)(2)–(6), the appointment or enlistment is restricted to those already in an enlisted, warrant, or commissioned status, as the case may be, held by the member before placement of his name on the temporary disability retired list, since 37:277 (last sentence) indicates that appointment in the next higher grade for regular warrant officer is restricted to those warrant grades to which the President alone may appoint him. Similarly 37:275 (last 10 words) indicates that an enlisted member may only be reenlisted.
 
@@ -162,13 +162,13 @@ In subsection (a)(2) reference to the President, in 37:277(a), is omitted as ina
 
 Subsection (a)(5) is substituted for 37:275(b) (proviso) (as applicable to Army and Air Force).
 
-Subsection (a)(6) is inserted, since the words “reserve component” are defined by section 102(k) of the source statute to include members of the Army and the Air Force who have no component status.
+Subsection (a)(6) is inserted, since the words "reserve component" are defined by section 102(k) of the source statute to include members of the Army and the Air Force who have no component status.
 
-In subsection (b)(2), the words “by and with the advice and consent of the Senate” are added to make it clear that all appointments to the grade of commissioned warrant officer in the Navy, Marine Corps, and Coast Guard require Senate confirmation. Although these words do not appear in section 405 of the Career Compensation Act of 1949, there is no indication that an exception to the basic law relating to appointments in commissioned grades was intended.
+In subsection (b)(2), the words "by and with the advice and consent of the Senate" are added to make it clear that all appointments to the grade of commissioned warrant officer in the Navy, Marine Corps, and Coast Guard require Senate confirmation. Although these words do not appear in section 405 of the Career Compensation Act of 1949, there is no indication that an exception to the basic law relating to appointments in commissioned grades was intended.
 
-Subsection (d)(3) is made applicable to members without component status, since the words “reserve component” are defined in section 102(k) of the source statute to include members of the Army and the Air Force who have no component status.
+Subsection (d)(3) is made applicable to members without component status, since the words "reserve component" are defined in section 102(k) of the source statute to include members of the Army and the Air Force who have no component status.
 
-In subsection (e), the words “rank” and “rating” are omitted as surplusage.
+In subsection (e), the words "rank" and "rating" are omitted as surplusage.
 
 #### 1962 Act
 
@@ -176,13 +176,13 @@ The changes correct typographical errors.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (e). Pub. L. 107–107 inserted “an approved all-fully-qualified-officers list,” after “a promotion list,”.
+<b>2001</b>—Subsec. (e). Pub. L. 107–107 inserted "an approved all-fully-qualified-officers list," after "a promotion list,".
 
-<b>1985</b>—Subsec. (c). Pub. L. 99–145 inserted “and if the member is not discharged, retired, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve or inactive Reserve under section 1210 of this title,” after “proposed under subsection (a) or (b),” and inserted “and the member shall be discharged” after “as soon as practicable”.
+<b>1985</b>—Subsec. (c). Pub. L. 99–145 inserted "and if the member is not discharged, retired, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve or inactive Reserve under section 1210 of this title," after "proposed under subsection (a) or (b)," and inserted "and the member shall be discharged" after "as soon as practicable".
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–513 substituted “active-duty list” for “active list of his regular component”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–513 substituted "active-duty list" for "active list of his regular component".
 
-<b>1962</b>—Subsec. (d). Pub. L. 87–651 substituted “subsection (b)(1) or (2)” for “subsection (b)(1), (2), or (3)” in cl. (1), and “subsection (b)(4)” for “subsection (b)(5)” in cl. (2).
+<b>1962</b>—Subsec. (d). Pub. L. 87–651 substituted "subsection (b)(1) or (2)" for "subsection (b)(1), (2), or (3)" in cl. (1), and "subsection (b)(4)" for "subsection (b)(5)" in cl. (2).
 
 #### Effective Date of 1980 Amendment
 

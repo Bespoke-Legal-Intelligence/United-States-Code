@@ -18,7 +18,7 @@ The Secretary shall establish a Federal task force, including the Transportation
 
 &emsp;(7) an assessment of public and private operational recovery plans, taking into account the plans for the maritime sector required under section 70103 of title 46, to expedite, to the maximum extent practicable, the return of an adversely affected railroad transportation system or facility to its normal performance level after a major terrorist attack or other security event on that system or facility; and
 
-&emsp;(8) an account of actions taken or planned by both public and private entities to addressidentified railroad security issues and an assessment of the effective integration of such actions.
+&emsp;(8) an account of actions taken or planned by both public and private entities to address identified railroad security issues and an assessment of the effective integration of such actions.
 
 #### (b) National Strategy
 

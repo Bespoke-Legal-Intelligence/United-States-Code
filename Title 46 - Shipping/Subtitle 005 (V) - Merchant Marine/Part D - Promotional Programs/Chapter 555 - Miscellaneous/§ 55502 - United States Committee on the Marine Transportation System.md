@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is established a United States Committee on the Marine Transportation System (in this section referred to as the “Committee”).
+Establishment.—There is established a United States Committee on the Marine Transportation System (in this section referred to as the "Committee").
 
 (b)
 
@@ -86,9 +86,9 @@ Transfers.—Notwithstanding any other provision of law, the head of a Federal d
 
 (e)
 
-Marine Transportation System Assessment and Strategy.—Not later than one year after the date of enactment of this Act and every 5 years thereafter, the Committee shall provide to the Committee on Commerce, Science, and Transportation and the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—
+Marine Transportation System Assessment and Strategy.—Not later than one year after the date of enactment of this Act and every 5 years thereafter, the Committee shall provide to the Committee on Commerce, Science, and Transportation and the Committee on Environment and Public Works of the Senateand the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—
 
-&emsp;(1) steps taken to implement actions recommended in the document titled “National Strategy for the Marine Transportation System: A Framework for Action” and dated July 2008;
+&emsp;(1) steps taken to implement actions recommended in the document titled "National Strategy for the Marine Transportation System: A Framework for Action" and dated July 2008;
 
 &emsp;(2) an assessment of the condition of the marine transportation system;
 

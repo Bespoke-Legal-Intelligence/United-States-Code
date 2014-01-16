@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a commission to be known as the “Judicial Review Commission on Foreign Asset Control” (in this section referred to as the “Commission”).
+There is established a commission to be known as the "Judicial Review Commission on Foreign Asset Control" (in this section referred to as the "Commission").
 
 #### (b) Membership and procedural matters
 
@@ -48,7 +48,7 @@ The Commission shall have as its duties the following:
 
 #### (e) Staff
 
-(1) Subject to paragraph (2), the chairman of the Commission, in accordance with rules agreed upon by the Commission, shall appoint and fix the compensation of a staff director andsuch other personnel as may be necessary to enable the Commission to carry out its duties, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III or <sup>1</sup> chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of such title.
+(1) Subject to paragraph (2), the chairman of the Commission, in accordance with rules agreed upon by the Commission, shall appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its duties, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III or <sup>1</sup> chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of such title.
 
 (2)(A) Any employee of a department or agency referred to in subparagraph (B) may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
 
@@ -110,9 +110,9 @@ This Act, referred to in subsec. (j), is Pub. L. 106–120, Dec. 3, 1999, 113 St
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 
 <i><sup>2</sup></i><i> So in original. Section 5703 of title 5 does not contain a subsec. (b).</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “Commission”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "Commission".</i>
 

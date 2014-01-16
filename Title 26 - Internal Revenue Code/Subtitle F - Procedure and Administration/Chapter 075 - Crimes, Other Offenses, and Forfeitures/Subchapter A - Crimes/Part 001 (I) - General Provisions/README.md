@@ -29,7 +29,7 @@
 
 <b>1997</b>—Pub. L. 105–35, §2(b)(2), Aug. 5, 1997, 111 Stat. 1105, added item 7213A.
 
-<b>1982</b>—Pub. L. 97–248, title III, §357(b)(2), Sept. 3, 1982, 96 Stat. 646, struck out item 7217 “Civil damages for unauthorized disclosure of returns and return information”.
+<b>1982</b>—Pub. L. 97–248, title III, §357(b)(2), Sept. 3, 1982, 96 Stat. 646, struck out item 7217 "Civil damages for unauthorized disclosure of returns and return information".
 
 <b>1976</b>—Pub. L. 94–455, title XII, §1202(e)(2), Oct. 4, 1976, 90 Stat. 1687, added item 7217.
 

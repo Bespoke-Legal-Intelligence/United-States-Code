@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 Sept. 2, 1958, Pub. L. 85–903, §3, 72 Stat. 1738.
 
-Before clause (1), the word “purposes” is substituted for “principles and objects” for consistency in the revised title.
+Before clause (1), the word "purposes" is substituted for "principles and objects" for consistency in the revised title.
 

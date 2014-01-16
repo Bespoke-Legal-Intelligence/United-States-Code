@@ -6,5 +6,5 @@ There shall be in the Institute an Associate Director for Prevention to coordina
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–362 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: “The Associate Director for Prevention shall prepare for inclusion in the biennial report made under section 284b of this title a description of the prevention activities of the Institute, including a description of the staff and resources allocated to those activities.”
+<b>1998</b>—Pub. L. 105–362 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: "The Associate Director for Prevention shall prepare for inclusion in the biennial report made under section 284b of this title a description of the prevention activities of the Institute, including a description of the staff and resources allocated to those activities."
 

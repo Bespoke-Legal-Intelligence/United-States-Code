@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections 701 to 709, comprising title I of the Ethics in Government Act of 1978, Pub. L. 95–521, was amended generally by Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1724, effective Jan. 1, 1991, and was transferred to section 101 et seq. of the Appendix to Title 5, Government Organization and Employees.
+Sections 701 to 709, comprising title I of the Ethics in Government Act of 1978, Pub. L. 95–521, was amendedgenerally by Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1724, effective Jan. 1, 1991, and was transferred to section 101 et seq. of the Appendix to Title 5, Government Organization and Employees.
 
 Section 701, Pub. L. 95–521, title I, §101, Oct. 26, 1978, 92 Stat. 1824; Pub. L. 96–19, §§2(a)(1), (b), (c)(1), 4(b)(1), (d)–(f), 5, June 13, 1979, 93 Stat. 37, 38, 40, related to legislative personnel financial disclosure.
 

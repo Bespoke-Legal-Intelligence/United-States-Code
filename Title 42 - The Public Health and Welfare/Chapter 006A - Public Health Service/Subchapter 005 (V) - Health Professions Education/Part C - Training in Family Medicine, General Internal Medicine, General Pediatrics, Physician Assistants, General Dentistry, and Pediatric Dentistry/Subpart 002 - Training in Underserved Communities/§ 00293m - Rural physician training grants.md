@@ -28,7 +28,7 @@ In awarding grant funds under this section, the Secretary shall give priority to
 
 #### (1) Establishment
 
-&emsp;An eligible entity receiving a grant under this section shall use the funds made available under such grant to establish, improve, or expand a rural-focused training program (referred to in this section as the “Program”) meeting the requirements described in this subsection and to carry out such program.
+&emsp;An eligible entity receiving a grant under this section shall use the funds made available under such grant to establish, improve, or expand a rural-focused training program (referred to in this section as the "Program") meeting the requirements described in this subsection and to carry out such program.
 
 #### (2) Structure of Program
 
@@ -44,7 +44,7 @@ In awarding grant funds under this section, the Secretary shall give priority to
 
 #### (3) Curricula
 
-&emsp;The Program shall require students to enroll in didactic coursework and clinical experience particularly applicable to medical practice in underserved rural communities, including—
+&emsp;The Program shall require students to enroll in didactic coursework and clinical experienceparticularly applicable to medical practice in underserved rural communities, including—
 
 &emsp;&emsp;(A) clinical rotations in underserved rural communities, and in applicable specialties, or other coursework or clinical experience deemed appropriate by the Secretary; and
 
@@ -64,7 +64,7 @@ An eligible entity receiving a grant under this section shall submit an annual r
 
 #### (f) Regulations
 
-Not later than 60 days after March 23, 2010, the Secretary shall by regulation define “underserved rural community” for purposes of this section.
+Not later than 60 days after March 23, 2010, the Secretary shall by regulation define "underserved rural community" for purposes of this section.
 
 #### (g) Supplement not supplant
 

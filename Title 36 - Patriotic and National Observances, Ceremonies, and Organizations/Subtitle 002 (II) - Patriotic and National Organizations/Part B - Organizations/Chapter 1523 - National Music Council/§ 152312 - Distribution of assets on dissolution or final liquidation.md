@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 1, 1956, ch. 824, §15, 70 Stat. 797.
 
-The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary.
+The word "satisfaction" is omitted as included in "discharge", and the word "obligations" is omitted as included in "liabilities". The word "outstanding" is omitted as unnecessary.
 

@@ -12,7 +12,7 @@ There are authorized to be appropriated to the Secretary for carrying out this s
 
 #### (b) Limitation on fleet modernization activities
 
-All National Oceanic and Atmospheric Administration fleet modernization shipbuilding, andconversion shall be conducted in accordance with this subchapter.
+All National Oceanic and Atmospheric Administration fleet modernization shipbuilding, and conversion shall be conducted in accordance with this subchapter.
 
 (Pub. L. 102–567, title VI, §610, Oct. 29, 1992, 106 Stat. 4303.)
 

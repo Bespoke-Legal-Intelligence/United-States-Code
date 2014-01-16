@@ -22,13 +22,13 @@ Grants made under this section in any State in any year shall be made in accorda
 
 &emsp;(A) has adopted a State plan in accordance with section 6371c of this title, the administration of which is in accordance with applicable regulations; and
 
-&emsp;(B) certifies to the Secretary that not more than 15 percent of the aggregate amount of Federal and non-Federal funds used by the State to provide program and technical assistance, implement energy conservation measures, and otherwise carry out a program pursuant to this part for the fiscal year concerned will be expended for program and technical assistance and for marketing and other costs associated with leveraging of non-Federal funds for such program.
+&emsp;(B) certifies to the Secretary that not more than 15 percent of the aggregate amount ofFederal and non-Federal funds used by the State to provide program and technical assistance, implement energy conservation measures, and otherwise carry out a program pursuant to this part for the fiscal year concerned will be expended for program and technical assistance and for marketing and other costs associated with leveraging of non-Federal funds for such program.
 
 (Pub. L. 94–163, title III, §396, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3245; amended Pub. L. 101–440, §6(a), (c), (d), Oct. 18, 1990, 104 Stat. 1011.)
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b)(1). Pub. L. 101–440, §6(a), inserted at end “The non-Federal share of the costs of any such energy conservation project may be provided by using programs of innovative financing for energy conservation projects (including, but not limited to, loan programs and performance contracting), even if, pursuant to such financing, clear title to the equipment does not pass to the school or hospital until after the grant is completed.”
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–440, §6(a), inserted at end "The non-Federal share of the costs of any such energy conservation project may be provided by using programs of innovative financing for energy conservation projects (including, but not limited to, loan programs and performance contracting), even if, pursuant to such financing, clear title to the equipment does not pass to the school or hospital until after the grant is completed."
 
 Subsec. (d). Pub. L. 101–440, §6(d), designated existing provisions as par. (1) and added par. (2).
 

@@ -6,7 +6,7 @@ The United States attorneys, marshals, and deputy marshals, the United States ma
 
 #### References in Text
 
-Sections 5506 to 5510, 5516 to 5519 and 5524 to 5535 of the Revised Statutes, referred to in text, were repealed by act Mar. 4, 1909, ch. 321, §341, 35 Stat. 1153; section 5506, 5511 to 5515, and 5520 to 5523, also referred to in text, were repealed by act Feb. 8, 1894, ch. 25, §1, 28 Stat. 37. The provisions of sections 5508, 5510, 5516, 5518 and 5524 to 5532 of the Revised Statutes were reenacted by act Mar. 4, 1909, and classified to sections 51, 52, 54 to 59, 246, 428 and 443 to 445 of former Title 18, Criminal Code and Criminal Procedure. Those sections were repealed and reenacted as sections 241, 242, 372, 592, 593, 752, 1071, 1581, 1583 and 1588 of Title 18, Crimes and Criminal Procedure, in the general revision of Title 18 by act June 25, 1948, ch. 645, 62 Stat. 683.
+Sections 5506 to 5510, 5516 to 5519 and 5524 to 5535 of the Revised Statutes, referred to in text, were repealed by act Mar. 4, 1909, ch. 321, §341, 35 Stat. 1153; section 5506, 5511 to 5515, and 5520 to 5523, also referred to in text, were repealed by act Feb. 8, 1894, ch. 25, §1, 28 Stat. 37. The provisions of sections 5508, 5510, 5516, 5518 and 5524 to 5532 of the Revised Statutes were reenacted by act Mar. 4, 1909, and classified to sections 51, 52, 54to 59, 246, 428 and 443 to 445 of former Title 18, Criminal Code and Criminal Procedure. Those sections were repealed and reenacted as sections 241, 242, 372, 592, 593, 752, 1071, 1581, 1583 and 1588 of Title 18, Crimes and Criminal Procedure, in the general revision of Title 18 by act June 25, 1948, ch. 645, 62 Stat. 683.
 
 #### Codification
 
@@ -16,9 +16,9 @@ Section was formerly classified to section 49 of Title 8, Aliens and Nationality
 
 #### Change of Name
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorneys" for "district attorneys". See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
-“United States magistrate judges” substituted in text for “magistrates” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28. Previously, “magistrates” substituted for “commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+"United States magistrate judges" substituted in text for "magistrates" pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28. Previously, "magistrates" substituted for "commissioners" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
 Reference to the district courts substituted for reference to the circuit courts on authority of act Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167.
 

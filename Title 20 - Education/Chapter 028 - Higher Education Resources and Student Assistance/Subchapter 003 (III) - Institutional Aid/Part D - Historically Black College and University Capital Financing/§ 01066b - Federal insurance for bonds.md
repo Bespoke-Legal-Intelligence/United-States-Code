@@ -2,11 +2,11 @@
 
 #### (a) General rule
 
-Subject to the limitations in section 1066c of this title, the Secretary is authorized to enter into insurance agreements to provide financial insurance to guarantee the full payment of principal and interest on qualified bonds upon the conditions set forth in subsections (b), (c) and (d) of this section.
+Subject to the limitations in section 1066c of this title, the Secretary is authorized to enter into insurance agreements to provide financialinsurance to guarantee the full payment of principal and interest on qualified bonds upon the conditions set forth in subsections (b), (c) and (d) of this section.
 
 #### (b) Responsibilities of designated bonding authority
 
-The Secretary may not enter into an insurance agreement described in subsection (a) ofthis section unless the Secretary designates a qualified bonding authority in accordance with sections 1066d(1) and 1066e <sup>1</sup> of this title and the designated bonding authority agrees in such agreement to—
+The Secretary may not enter into an insurance agreement described in subsection (a) of this section unless the Secretary designates a qualified bonding authority in accordance with sections 1066d(1) and 1066e <sup>1</sup> of this title and the designated bonding authority agrees in such agreement to—
 
 &emsp;(1) use the proceeds of the qualified bonds, less costs of issuance not to exceed 2 percent of the principal amount thereof, to make loans to eligible institutions or for deposit into an escrow account for repayment of the bonds;
 
@@ -64,7 +64,7 @@ Any insurance agreement described in subsection (a) of this section shall provid
 
 &emsp;&emsp;(B) the amount available to the designated bonding authority from loan repayments and the escrow account.
 
-&emsp;(6) All funds provided under the letter of credit shall be paid to the designated bondingauthority within 2 business days following receipt of the certification described in paragraph (4).
+&emsp;(6) All funds provided under the letter of credit shall be paid to the designated bonding authority within 2 business days following receipt of the certification described in paragraph (4).
 
 #### (d) Full faith and credit provisions
 
@@ -90,31 +90,31 @@ A prior section 343 of Pub. L. 89–329 was classified to section 1068 of this t
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(8)(B)(ii). Pub. L. 110–315, §314(b)(1)(B), inserted “within 120 days” after “loan proceeds”.
+<b>2008</b>—Subsec. (b)(8)(B)(ii). Pub. L. 110–315, §314(b)(1)(B), inserted "within 120 days" after "loan proceeds".
 
-Pub. L. 110–315, §314(b)(1)(A), which directed the substitution of “5” for “10”, could not be executed because “10” did not appear subsequent to amendment by Pub. L. 105–244, §306(b)(1). See 1998 Amendment note below.
+Pub. L. 110–315, §314(b)(1)(A), which directed the substitution of "5" for "10", could not be executed because "10" did not appear subsequent to amendment by Pub. L. 105–244, §306(b)(1). See 1998 Amendment note below.
 
 Subsec. (b)(12). Pub. L. 110–315, §314(b)(2)–(4), added par. (12).
 
 Subsec. (e). Pub. L. 110–315, §320(2), inserted heading.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–244, §301(c)(5)(A), substituted “section 1066c” for “section 1132c–3”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §301(c)(5)(A), substituted "section 1066c" for "section 1132c–3".
 
-Subsec. (b). Pub. L. 105–244, §301(c)(5)(B)(i), substituted “sections 1066d(1) and 1066e” for “sections 1132c–4(1) and 1132c–5” in introductory provisions.
+Subsec. (b). Pub. L. 105–244, §301(c)(5)(B)(i), substituted "sections 1066d(1) and 1066e" for "sections 1132c–4(1) and 1132c–5" in introductory provisions.
 
-Subsec. (b)(8). Pub. L. 105–244, §306(b)(1), substituted “5 percent” for “10 percent” wherever appearing.
+Subsec. (b)(8). Pub. L. 105–244, §306(b)(1), substituted "5 percent" for "10 percent" wherever appearing.
 
-Subsec. (b)(10). Pub. L. 105–244, §301(c)(5)(B)(ii), substituted “section 1066c” for “section 1132c–3”.
+Subsec. (b)(10). Pub. L. 105–244, §301(c)(5)(B)(ii), substituted "section 1066c" for "section 1132c–3".
 
 Subsec. (d). Pub. L. 105–244, §301(c)(5)(B)(iii), made technical amendment to reference in original act which appears in text as reference to subsection (c)(1) of this section.
 
 Subsec. (e). Pub. L. 105–244, §306(b)(2), added subsec. (e).
 
-<b>1994</b>—Subsec. (b)(8)(A). Pub. L. 103–382, §360C(1)(A), inserted before semicolon “, with each eligible institution required to maintain in the escrow account an amount equal to 10 percent of the outstanding principal of all loans made to such institution under this part”.
+<b>1994</b>—Subsec. (b)(8)(A). Pub. L. 103–382, §360C(1)(A), inserted before semicolon ", with each eligible institution required to maintain in the escrow account an amount equal to 10 percent of the outstanding principal of all loans made to such institution under this part".
 
-Subsec. (b)(8)(B)(ii). Pub. L. 103–382, §360C(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “when all bonds under this part are retired or canceled, shall be divided among the eligible institutions making deposits into such account on the basis of the amount of each such institution's deposit;”.
+Subsec. (b)(8)(B)(ii). Pub. L. 103–382, §360C(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "when all bonds under this part are retired or canceled, shall be divided among the eligible institutions making deposits into such account on the basis of the amount of each such institution's deposit;".
 
-Subsec. (b)(11). Pub. L. 103–382, §360C(2), substituted “conditions” for “regulations”.
+Subsec. (b)(11). Pub. L. 103–382, §360C(2), substituted "conditions" for "regulations".
 
 #### Effective Date of 1998 Amendment
 

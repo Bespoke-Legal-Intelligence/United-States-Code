@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of the Interior (referred to in this section as the “Secretary”) may make annual grants to State historic preservation offices for not more than 5 years to assist the State historic preservation offices in surveying, evaluating, and nominating to the National Register of Historic Places women's rights history properties.
+&emsp;The Secretary of the Interior (referred to in this section as the "Secretary") may make annual grants to State historic preservation offices for not more than 5 years to assist the State historic preservation offices in surveying, evaluating, and nominating to the National Register of Historic Places women's rights history properties.
 
 #### (2) Eligibility
 
@@ -14,7 +14,7 @@
 
 #### (3) Updates
 
-&emsp;The Secretary shall ensure that the National Register travel itinerary website entitled “Places Where Women Made History” is updated to contain—
+&emsp;The Secretary shall ensure that the National Register travel itinerary website entitled "Places Where Women Made History" is updated to contain—
 
 &emsp;&emsp;(A) the results of the inventory conducted under paragraph (1); and
 
@@ -32,7 +32,7 @@
 
 #### (1) Grants
 
-&emsp;The Secretary may make matching grants and give technical assistance for development of a network of governmental and nongovernmental entities (referred to in this subsection as the “network”), the purpose of which is to provide interpretive and educational program development of national women's rights history, including historic preservation.
+&emsp;The Secretary may make matching grants and give technical assistance for development of a network of governmental and nongovernmental entities (referred to in this subsection as the "network"), the purpose of which is to provide interpretive and educational program development of national women's rights history, including historic preservation.
 
 #### (2) Management of network
 

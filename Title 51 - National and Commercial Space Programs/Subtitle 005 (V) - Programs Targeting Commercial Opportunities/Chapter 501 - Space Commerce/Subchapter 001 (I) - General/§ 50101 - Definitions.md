@@ -4,31 +4,31 @@ In this chapter:
 
 &emsp;(1)
 
-Commercial provider.—The term “commercial provider” means any person providing space transportation services or other space-related activities, primary control of which is held by persons other than Federal, State, local, and foreign governments.
+Commercial provider.—The term "commercial provider" means any person providing space transportation services or other space-related activities, primary control of which is held by persons other than Federal, State, local, and foreign governments.
 
 &emsp;(2)
 
-Payload.—The term “payload” means anything that a person undertakes to transport to, from, or within outer space, or in suborbital trajectory, by means of a space transportation vehicle, but does not include the space transportation vehicle itself except for its components which are specifically designed or adapted for that payload.
+Payload.—The term "payload" means anything that a person undertakes to transport to, from, or within outer space, or in suborbital trajectory, by means of a space transportation vehicle, but does not include the space transportation vehicle itself except for its components which are specifically designed or adapted for that payload.
 
 &emsp;(3)
 
-Space-related activities.—The term “space-related activities” includes research and development, manufacturing, processing, service, and other associated and support activities.
+Space-related activities.—The term "space-related activities" includes research and development, manufacturing, processing, service, and other associated and support activities.
 
 &emsp;(4)
 
-Space transportation services.—The term “space transportation services” means the preparation of a space transportation vehicle and its payloads for transportation to, from, or within outer space, or in suborbital trajectory, and the conduct of transporting a payload to, from, or within outer space, or in suborbital trajectory.
+Space transportation services.—The term "space transportation services" means the preparation of a space transportation vehicle and its payloads for transportation to, from, or within outer space, or in suborbital trajectory, and the conduct of transporting a payload to, from, or within outer space, or in suborbital trajectory.
 
 &emsp;(5)
 
-Space transportation vehicle.—The term “space transportation vehicle” means any vehicle constructed for the purpose of operating in, or transporting a payload to, from, or within, outer space, or in suborbital trajectory, and includes any component of such vehicle not specifically designed or adapted for a payload.
+Space transportation vehicle.—The term "space transportation vehicle" means any vehicle constructed for the purpose of operating in, or transporting a payload to, from, or within, outer space, or in suborbital trajectory, and includes any component of such vehicle not specifically designed or adapted for a payload.
 
 &emsp;(6)
 
-State.—The term “State” means each of the several States of the Union, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
+State.—The term "State" means each of the several States of the Union, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
 
 &emsp;(7)
 
-United states commercial provider.—The term “United States commercial provider” means a commercial provider, organized under the laws of the United States or of a State, that is—
+United states commercial provider.—The term "United States commercial provider" means a commercial provider, organized under the laws of the United States or of a State, that is—
 
 &emsp;&emsp;(A) more than 50 percent owned by United States nationals; or
 
@@ -66,5 +66,5 @@ Historical and Revision Notes
 
 Pub. L. 105–303, §2, Oct. 28, 1998, 112 Stat. 2843.
 
-The definition of “Administrator” in section 2 of the Commercial Space Act of 1998 (Public Law 105–303, 112 Stat. 2843) is omitted as unnecessary because of the definition added by section 10101 of title 51.
+The definition of "Administrator" in section 2 of the Commercial Space Act of 1998 (Public Law 105–303, 112 Stat. 2843) is omitted as unnecessary because of the definition added by section 10101 of title 51.
 

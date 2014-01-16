@@ -2,7 +2,7 @@
 
 #### (a) Audits of HOME Investment Partnerships program
 
-The Comptroller General, when the Comptroller General deems it to be appropriate or when requested by the Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Banking, Finance and Urban Affairsof the House of Representatives, shall conduct a full financial audit of the records of the HOME Investment Partnerships program for any fiscal year. The report of the Comptroller General shall be submitted promptly to the Secretary and the Congress and shall be published.
+The Comptroller General, when the Comptroller General deems it to be appropriate or when requested by the Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Banking, Finance and Urban Affairs of the House of Representatives, shall conduct a full financial audit of the records of the HOME Investment Partnerships program for any fiscal year. The report of the Comptroller General shall be submitted promptly to the Secretary and the Congress and shall be published.
 
 #### (b) Audits of recipients
 
@@ -12,19 +12,19 @@ The financial transactions of participating jurisdictions and of other recipient
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in two places.
 
-<b>1994</b>—Pub. L. 103–233, §205(1), substituted “Audits by Comptroller General” for “Annual audits and accountability” in section catchline.
+<b>1994</b>—Pub. L. 103–233, §205(1), substituted "Audits by Comptroller General" for "Annual audits and accountability" in section catchline.
 
-Subsec. (a). Pub. L. 103–233, §205(4), struck out after first sentence “The initiation of an audit for a fiscal year under the previous sentence shall obviate the requirement for an audit by an independent accounting firm under paragraph (a) for that fiscal year.”
+Subsec. (a). Pub. L. 103–233, §205(4), struck out after first sentence "The initiation of an audit for a fiscal year under the previous sentence shall obviate the requirement for an audit by an independent accounting firm under paragraph (a) for that fiscal year."
 
 Pub. L. 103–233, §205(3)(B), (C), redesignated subsec. (b)(1) as (a) and realigned margins.
 
-Pub. L. 103–233, §205(2), struck out heading and text of subsec. (a). Text read as follows: “The Secretary, except as provided in paragraph (b)(1), shall contract annually with an independent accounting firm to provide for a full financial audit of the records of the HOME Investment Partnerships program for each fiscal year. Funds available for departmental administration may be used to provide for such audits. Each audit shall be performed as soon as practicable after the close of the fiscal year and in accordance with generally accepted Government auditing standards approved by the Comptroller General of the United States (hereinafter referred to as the ‘Comptroller General’), and shall be consistent with the requirements of sections 9105 and 9106 of title 31. The Secretary shall promptly submit the report of the independent accounting firm to the Congress, consistent with the requirements of section 9106 of title 31, and such report shall be published. The requirement for an audit under this section shall be in lieu of the requirement for an audit by the Comptroller General under section 9105(a) of title 31.”
+Pub. L. 103–233, §205(2), struck out heading and text of subsec. (a). Text read as follows: "The Secretary, except as provided in paragraph (b)(1), shall contract annually with an independent accounting firm to provide for a full financial audit of the records of the HOME Investment Partnerships program for each fiscal year. Funds available for departmental administration may be used to provide for such audits. Each audit shall be performed as soon as practicable after the close of the fiscal year and in accordance with generally accepted Government auditing standards approved by the Comptroller General of the United States (hereinafter referred to as the 'Comptroller General'), and shall be consistent with the requirements of sections 9105 and 9106 of title 31. The Secretary shall promptly submit the report of the independent accounting firm to the Congress, consistent with the requirements of section 9106 of title 31, and such report shall be published. The requirement for an audit under this section shall be in lieu of the requirement for an audit by the Comptroller General under section 9105(a) of title 31."
 
-Subsec. (b). Pub. L. 103–233, §205(3), struck out heading “
+Subsec. (b). Pub. L. 103–233, §205(3), struck out heading "
 
-Audits by the Comptroller General.—”, redesignated subsec. (b)(2) as (b), and realigned margins.
+Audits by the Comptroller General.—", redesignated subsec. (b)(2) as (b), and realigned margins.
 
 #### Change of Name
 

@@ -58,7 +58,7 @@ The Program shall include, but not be limited to, the following elements:
 
 &emsp;(8) experimental climate forecast centers, which shall (A) be responsible for making and routinely updating experimental climate forecasts of a monthly, seasonal, annual, and longer nature, based on a variety of experimental techniques; (B) establish procedures to have forecasts reviewed and their accuracy evaluated; and (C) protect against premature reliance on such experimental forecasts; and
 
-&emsp;(9) a preliminary 5-year plan, to be submitted to the Congress for review and comment, not later than 180 days after September 17, 1978, and a final 5-year plan to be submitted to the Congress not later than 1 year after September 17, 1978, that shall be revised and extended at least once every four years. Eachplan shall establish the goals and priorities for the Program, including the intergovernmental program described in paragraph (7), over the subsequent 5-year period, and shall contain details regarding (A) the role of Federal agencies in the programs, (B) Federal funding required to enable the Program to achieve such goals, and (C) Program accomplishments that must be achieved to ensure that Program goals are met within the time frame established by the plan.
+&emsp;(9) a preliminary 5-year plan, to be submitted to the Congress for review and comment, not later than 180 days after September 17, 1978, and a final 5-year plan to be submitted to the Congress not later than 1 year after September 17, 1978, that shall be revised and extended at least once every four years. Each plan shall establish the goals and priorities for the Program, including the intergovernmental program described in paragraph (7), over the subsequent 5-year period, and shall contain details regarding (A) the role of Federal agencies in the programs, (B) Federal funding required to enable the Program to achieve such goals, and (C) Program accomplishments that must be achieved to ensure that Program goals are met within the time frame established by the plan.
 
 #### (e) Climate Program Policy Board
 
@@ -94,15 +94,15 @@ Subsec. (g) of this section in the original was par. (1) of section 5(g) of Pub.
 
 #### Amendments
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–272, §6084(b), designated first sentence as par. (1), substituted pars. (2) and (3) for second sentence which provided that “The Office shall be the lead entity responsible for administering the Program”, and designated third sentence as par. (4).
+<b>1986</b>—Subsec. (c). Pub. L. 99–272, §6084(b), designated first sentence as par. (1), substituted pars. (2) and (3) for second sentence which provided that "The Office shall be the lead entity responsible for administering the Program", and designated third sentence as par. (4).
 
 Subsec. (d)(7). Pub. L. 99–272, §6084(c)(1), inserted provision that such mechanisms may provide, among others, for certain enumerated State and regional services and functions.
 
-Subsec. (d)(9). Pub. L. 99–272, §6084(c)(2), (3), substituted “at least once every four years” for “biennially” and “described in paragraph (7)” for “under section 2905 of this title”.
+Subsec. (d)(9). Pub. L. 99–272, §6084(c)(2), (3), substituted "at least once every four years" for "biennially" and "described in paragraph (7)" for "under section 2905 of this title".
 
 Subsec. (e). Pub. L. 99–272, §6084(d), substituted provisions relating to the establishment and maintenance of the Climate Program Policy Board for provisions relating to the establishment and maintenance of an advisory committee and interagency groups.
 
-Subsec. (f)(2). Pub. L. 99–272, §6084(e), substituted “shall cooperate with the Office in” for “shall cooperate in”.
+Subsec. (f)(2). Pub. L. 99–272, §6084(e), substituted "shall cooperate with the Office in" for "shall cooperate in".
 
 Subsec. (g). Pub. L. 99–272, §6084(f), inserted provision requiring each Federal agency and department participating in the Program to transmit a copy of such request to the National Climate Program Office.
 

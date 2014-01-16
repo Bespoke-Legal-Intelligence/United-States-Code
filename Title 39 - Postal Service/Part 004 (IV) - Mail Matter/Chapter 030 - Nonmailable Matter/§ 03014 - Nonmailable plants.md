@@ -10,31 +10,31 @@
 
 (d) For the purposes of this section—
 
-&emsp;(1) “Plant Quarantine Act” means the Act entitled “An Act to regulate the importation of nursery stock and other plants and plant products; to enable the Secretary of Agriculture to establish and maintain quarantine districts for plant diseases and insect pests; to permit and regulate the movement of fruits, plants, and vegetables therefrom, and for other purposes”, enacted August 20, 1912 <sup>1</sup> (37 Stat. 315 et seq.); and
+&emsp;(1) "Plant Quarantine Act" means the Act entitled "An Act to regulate the importation of nursery stock and other plants and plant products; to enable the Secretary of Agriculture to establish and maintain quarantine districts for plant diseases and insect pests; to permit and regulate the movement of fruits, plants, and vegetables therefrom, and for other purposes", enacted August 20, 1912 <sup>1</sup> (37 Stat. 315 et seq.); and
 
-&emsp;(2) “plant” means any class of plants, fruits, vegetables, roots, bulbs, seeds, or other plant products, any class of nursery stock (as defined by section 6 of the Plant Quarantine Act),<sup>1</sup> and any other article or matter which is capable of carrying any dangerous plant disease or pest.
+&emsp;(2) "plant" means any class of plants, fruits, vegetables, roots, bulbs, seeds, or other plant products, any class of nursery stock (as defined by section 6 of the Plant Quarantine Act),<sup>1</sup> and any other article or matter which is capable of carrying any dangerous plant disease or pest.
 
 (Added Pub. L. 100–574, §1(a)(1), Oct. 31, 1988, 102 Stat. 2892.)
 
 #### References in Text
 
-The Act of Aug. 20, 1912, referred to in subsec. (d), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, as amended, which was classified generally to chapter 8 (§151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, §438(a)(1), June 20, 2000, 114 Stat. 454. Sections 6 and 8 of the Act were classified to sections 152 and 161, respectively, of Title 7. For complete classification of this Act to the Code, see Tables.
+The Act of Aug. 20, 1912, referred to in subsec. (d), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, commonly known as the Plant Quarantine Act, which was classified generally to chapter 8 (§151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, §438(a)(1), June 20, 2000, 114 Stat. 454. Sections 6 and 8 of the Plant Quarantine Act, referred to in subsecs. (a)(1), (c), and (d)(2), were classified to sections 152 and 161, respectively, of Title 7. For complete classification of this Act to the Code, see Tables.
 
 #### Effective Date
 
 Pub. L. 100–574, §4, Oct. 31, 1988, 102 Stat. 2894, provided that:
 
-“(a)
+"(a)
 
 In General.—This Act and the amendments made by this Act \[enacting this section and sections 1716B and 1716C of Title 18, Crimes and Criminal Procedure\] shall become effective on the earlier of—
 
-&emsp;“(1) the 366th day after the date of the enactment of this Act \[Oct. 31, 1988\]; or
+&emsp;"(1) the 366th day after the date of the enactment of this Act \[Oct. 31, 1988\]; or
 
-&emsp;“(2) the first date as of which all rules and regulations required to be prescribed under the amendments made by this Act have first been published in the Federal Register. \[For publication of regulations, see 54 F.R. 49978, Dec. 4, 1989.\]
+&emsp;"(2) the first date as of which all rules and regulations required to be prescribed under the amendments made by this Act have first been published in the Federal Register. \[For publication of regulations, see 54 F.R. 49978, Dec. 4, 1989.\]
 
-“(b)
+"(b)
 
-Regulations.—Nothing in this section shall prevent the United States Postal Service from taking any action which may be necessary to prepare and issue, as soon as possible after the date of the enactment of this Act, any rules and regulations which the Postal Service is required to prescribe under any of the amendments made by this Act.”
+Regulations.—Nothing in this section shall prevent the United States Postal Service from taking any action which may be necessary to prepare and issue, as soon as possible after the date of the enactment of this Act, any rules and regulations which the Postal Service is required to prescribe under any of the amendments made by this Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

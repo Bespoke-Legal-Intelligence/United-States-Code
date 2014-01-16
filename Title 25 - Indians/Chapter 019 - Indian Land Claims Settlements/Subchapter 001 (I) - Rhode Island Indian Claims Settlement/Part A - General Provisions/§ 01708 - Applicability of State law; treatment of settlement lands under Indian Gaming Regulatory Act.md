@@ -12,9 +12,9 @@ For purposes of the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.), settl
 
 #### References in Text
 
-The Indian Gaming Regulatory Act, referred to in subsec. (b), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Indian Gaming Regulatory Act, referred to in subsec. (b), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat.2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–208 substituted “Applicability of State law; treatment of settlement lands under Indian Gaming Regulatory Act” for “Applicability of State law” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+<b>1996</b>—Pub. L. 104–208 substituted "Applicability of State law; treatment of settlement lands under Indian Gaming Regulatory Act" for "Applicability of State law" in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 

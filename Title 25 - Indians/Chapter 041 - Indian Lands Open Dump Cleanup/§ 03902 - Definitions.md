@@ -4,15 +4,15 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (1) Closure or close
 
-&emsp;The term “closure or close” means the termination of operations at open dumps on Indian land or Alaska Native land and bringing such dumps into compliance with applicable Federal standards and regulations, or standards promulgated by an Indian tribal government or Alaska Native entity, if such standards are more stringent than the Federal standards and regulations.
+&emsp;The term "closure or close" means the termination of operations at open dumps on Indian land or Alaska Native land and bringing such dumps into compliance with applicable Federal standards and regulations, or standards promulgated by an Indian tribal government or Alaska Native entity, if such standards are more stringent than the Federal standards and regulations.
 
 #### (2) Director
 
-&emsp;The term “Director” means the Director of the Indian Health Service.
+&emsp;The term "Director" means the Director of the Indian Health Service.
 
 #### (3) Indian land
 
-&emsp;The term “Indian land” means—
+&emsp;The term "Indian land" means—
 
 &emsp;&emsp;(A) land within the limits of any Indian reservation under the jurisdiction of the United States Government, notwithstanding the issuance of any patent, and including rights-of-way running through the reservation;
 
@@ -22,31 +22,31 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (4) Alaska Native land
 
-&emsp;The term “Alaska Native land” means (A) land conveyed or to be conveyed pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], including any land reconveyed under section 14(c)(3) of that Act (43 U.S.C. 1613(c)(3)), and (B) land conveyed pursuant to the Act of November 2, 1966 (16 U.S.C.1151 et seq.; commonly known as the “Fur Seal Act of 1966”).
+&emsp;The term "Alaska Native land" means (A) land conveyed or to be conveyed pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], including any land reconveyed under section 14(c)(3) of that Act (43 U.S.C. 1613(c)(3)), and (B) land conveyed pursuant to the Act of November 2, 1966 (16 U.S.C. 1151 et seq.; commonly known as the "Fur Seal Act of 1966").
 
 #### (5) Indian tribal government
 
-&emsp;The term “Indian tribal government” means the governing body of any Indian tribe, band, nation, pueblo, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term "Indian tribal government" means the governing body of any Indian tribe, band, nation, pueblo, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (6) Alaska Native entity
 
-&emsp;The term “Alaska Native entity” includes native corporations established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] and any Alaska Native village or municipal entity which owns Alaska Native land.
+&emsp;The term "Alaska Native entity" includes native corporations established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] and any Alaska Native village or municipal entity which owns Alaska Native land.
 
 #### (7) Open dump
 
-&emsp;The term “open dump” means any facility or site where solid waste is disposed of which is not a sanitary landfill which meets the criteria promulgated under section 4004 of the Solid Waste Disposal Act (42 U.S.C. 6944) and which is not a facility for disposal of hazardous waste.
+&emsp;The term "open dump" means any facility or site where solid waste is disposed of which is not a sanitary landfill which meets the criteria promulgated under section 4004 of the Solid Waste Disposal Act (42 U.S.C. 6944) and which is not a facility for disposal of hazardous waste.
 
 #### (8) Postclosure maintenance
 
-&emsp;The term “postclosure maintenance” means any activity undertaken at a closed solid waste management facility on Indian land or on Alaska Native land to maintain the integrity of containment features, monitor compliance with applicable performance standards, or remedy any situation or occurrence that violates regulations promulgated pursuant to subtitle D of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.).
+&emsp;The term "postclosure maintenance" means any activity undertaken at a closed solid waste management facility on Indian land or on Alaska Native land to maintain the integrity of containment features, monitor compliance with applicable performance standards, or remedy any situation or occurrence that violates regulations promulgated pursuant to subtitle D of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.).
 
 #### (9) Service
 
-&emsp;The term “Service” means the Indian Health Service.
+&emsp;The term "Service" means the Indian Health Service.
 
 #### (10) Solid waste
 
-&emsp;The term “solid waste” has the meaning provided that term by section 1004(27) of the Solid Waste Disposal Act (42 U.S.C. 6903) and any regulations promulgated thereunder.
+&emsp;The term "solid waste" has the meaning provided that term by section 1004(27) of the Solid Waste Disposal Act (42 U.S.C. 6903) and any regulations promulgated thereunder.
 
 (Pub. L. 103–399, §3, Oct. 22, 1994, 108 Stat. 4164; Pub. L. 104–109, §5, Feb. 12, 1996, 110 Stat. 764.)
 
@@ -60,5 +60,5 @@ The Solid Waste Disposal Act, referred to in par. (8), is title II of Pub. L. 89
 
 #### Amendments
 
-<b>1996</b>—Par. (7). Pub. L. 104–109 substituted “section 4004 of the Solid Waste Disposal Act (42 U.S.C. 6944)” for “section 6944 of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.)”.
+<b>1996</b>—Par. (7). Pub. L. 104–109 substituted "section 4004 of the Solid Waste Disposal Act (42 U.S.C. 6944)" for "section 6944 of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.)".
 

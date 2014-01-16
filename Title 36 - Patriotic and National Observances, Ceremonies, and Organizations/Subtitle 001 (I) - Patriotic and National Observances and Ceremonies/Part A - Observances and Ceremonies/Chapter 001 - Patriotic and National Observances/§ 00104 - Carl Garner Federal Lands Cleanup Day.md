@@ -32,5 +32,5 @@ Aug. 27, 1986, Pub. L. 99–402, §3, 100 Stat. 910; Nov. 12, 1996, Pub. L. 104�
 
 &nbsp;
 
-In subsection (b), the words “associated with Carl Garner Federal Lands Cleanup Day” are omitted as unnecessary.
+In subsection (b), the words "associated with Carl Garner Federal Lands Cleanup Day" are omitted as unnecessary.
 

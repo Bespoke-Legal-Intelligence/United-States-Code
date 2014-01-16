@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (2) Highly compensated individual
 
-&emsp;The term “highly compensated individual” has the meaning given such term by section 105(h)(5) of title 26.
+&emsp;The term "highly compensated individual" has the meaning given such term by section 105(h)(5) of title 26.
 
 (July 1, 1944, ch. 373, title XXVII, §2716, as added and amended Pub. L. 111–148, title I, §1001(5), title X, §10101(d), Mar. 23, 2010, 124 Stat. 135, 884.)
 
@@ -22,13 +22,13 @@ For purposes of this section—
 
 <b>2010</b>—Pub. L. 111–148, §10101(d), amended section generally. Prior to amendment, text read as follows:
 
-“(a)
+"(a)
 
 In General.—The plan sponsor of a group health plan (other than a self-insured plan) may not establish rules relating to the health insurance coverage eligibility (including continued eligibility) of any full-time employee under the terms of the plan that are based on the total hourly or annual salary of the employee or otherwise establish eligibility rules that have the effect of discriminating in favor of higher wage employees.
 
-“(b)
+"(b)
 
-Limitation.—Subsection (a) shall not be construed to prohibit a plan sponsor from establishing contribution requirements for enrollment in the plan or coverage that provide for the payment by employees with lower hourly or annual compensation of a lower dollar or percentage contribution than the payment required of similarly situated employees with a higher hourly or annual compensation.”
+Limitation.—Subsection (a) shall not be construed to prohibit a plan sponsor from establishing contribution requirements for enrollment in the plan or coverage that provide for the payment by employees with lower hourly or annual compensation of a lower dollar or percentage contribution than the payment required of similarly situated employees with a higher hourly or annual compensation."
 
 #### Effective Date
 

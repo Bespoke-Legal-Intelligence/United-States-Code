@@ -184,25 +184,25 @@ Section 3843 of this title, referred to in subsec. (g), was omitted and a new se
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (h)(2), (3). Pub. L. 110–246, §2003, added par. (2), redesignated former par. (2) as (3), and inserted “be” before “actively”.
+<b>2008</b>—Subsec. (h)(2), (3). Pub. L. 110–246, §2003, added par. (2), redesignated former par. (2) as (3), and inserted "be" before "actively".
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–127, §322(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text consisted of pars. (1) to (4) relating to delineation of wetlands.
 
 Subsec. (b). Pub. L. 104–127, §322(b), added subsec. (b) and struck out heading and text of former subsec. (b). Text consisted of pars. (1)(A) to (D) and (2)(A) and (B) relating to exemptions.
 
-Subsec. (d). Pub. L. 104–127, §322(c), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Section 3821 of this title shall not apply to a loan described in section 3821 of this title made before December 23, 1985.”
+Subsec. (d). Pub. L. 104–127, §322(c), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "Section 3821 of this title shall not apply to a loan described in section 3821 of this title made before December 23, 1985."
 
 Subsec. (f). Pub. L. 104–127, §322(d), added subsec. (f) and struck out heading and text of former subsec. (f). Text consisted of pars. (1) to (3) relating to minimal effect and mitigation exemptions.
 
-Subsec. (g). Pub. L. 104–127, §322(e), which directed substitution of “person” for “producer”, was executed by making the substitution in two places.
+Subsec. (g). Pub. L. 104–127, §322(e), which directed substitution of "person" for "producer", was executed by making the substitution in two places.
 
 Subsec. (h). Pub. L. 104–127, §322(f), added subsec. (h) and struck out heading and text of former subsec. (h). Text consisted of pars. (1) to (3) relating to good faith exemptions to ineligibility under section 3821 of this title and graduated sanctions.
 
-Subsec. (i). Pub. L. 104–127, §322(g), inserted before period at end “or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland”.
+Subsec. (i). Pub. L. 104–127, §322(g), inserted before period at end "or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland".
 
 Subsec. (j). Pub. L. 104–127, §322(h), added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fish and Wildlife Service and required reporting of determinations and monitoring.
 
@@ -220,5 +220,5 @@ Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Natural”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Natural".</i>
 

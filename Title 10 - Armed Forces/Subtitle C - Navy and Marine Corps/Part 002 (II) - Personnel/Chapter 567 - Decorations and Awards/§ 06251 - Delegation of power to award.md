@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Feb. 4, 1919, ch. 14, §9 (less applicability to regulations), 40 Stat. 1057; renumbered §11 and amended Aug. 7, 1942, ch. 551, §1, 56 Stat. 745.
 
-The term “flag officers” is used generically in 34 U.S.C. 364. Officers of the Marine Corps who meet the duty requirements, if in the equivalent grades, are, therefore, within its terms and the authority to make the awards has been delegated to such officers.
+The term "flag officers" is used generically in 34 U.S.C. 364. Officers of the Marine Corps who meet the duty requirements, if in the equivalent grades, are, therefore, within its terms and the authority to make the awards has been delegated to such officers.
 

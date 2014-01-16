@@ -14,7 +14,7 @@
 
 (g) Whoever, with intent unlawfully to use the same, possesses a distinctive paper adopted by the proper officer or agency of the United States for the printing or engraving of a declaration of intention to become a citizen, or certificate of naturalization or certificate of citizenship; or
 
-(h) Whoever, without lawful authority, prints, photographs, makes or executes any print or impression in the likeness of a certificate of arrival, declaration of intention to become a citizen, or certificate of naturalization or citizenship, or any part thereof—
+(h) Whoever, without lawful authority, prints, photographs, makes or executes any print or impression in the likeness of a certificate of arrival, declaration of intention to become a citizen,or certificate of naturalization or citizenship, or any part thereof—
 
 Shall be fined under this title or imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facilitate such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
 
@@ -22,7 +22,7 @@ Shall be fined under this title or imprisoned not more than 25 years (if the off
 
 #### Historical and Revision Notes
 
-Based on subsections (a) pars. (8)–(12), (16), (17), (20)–(29), (b), (d), (l) of section 746 of Title 8, U.S.C., 1940ed., Aliens and Nationality (Oct. 14, 1940, ch. 876, §346(a) pars. (8)–(12), (16), (17), (20)–(29), (b), (d), (l), 54 Stat. 1164–1168).
+Based on subsections (a) pars. (8)–(12), (16), (17), (20)–(29), (b), (d), (l) of section 746 of Title 8, U.S.C., 1940 ed., Aliens and Nationality (Oct. 14, 1940, ch. 876, §346(a) pars. (8)–(12), (16), (17), (20)–(29), (b), (d), (l), 54 Stat. 1164–1168).
 
 Sections consolidates numerous similar paragraphs with necessary changes in phraseology and translations.
 
@@ -30,11 +30,11 @@ References to persons causing, procuring, aiding, abetting, or assisting were om
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–273 substituted “to facilitate” for “to facility” in last par.
+<b>2002</b>—Pub. L. 107–273 substituted "to facilitate" for "to facility" in last par.
 
-<b>1996</b>—Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than five years” in last par.
+<b>1996</b>—Pub. L. 104–208 substituted "imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)" for "imprisoned not more than five years" in last par.
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000" in last par.
 
 #### Effective Date of 1996 Amendment
 

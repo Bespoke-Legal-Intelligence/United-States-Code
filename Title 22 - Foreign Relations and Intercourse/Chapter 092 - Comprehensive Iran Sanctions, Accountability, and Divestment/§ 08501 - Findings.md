@@ -6,7 +6,7 @@ Congress makes the following findings:
 
 &emsp;(2) The United States and other responsible countries have a vital interest in working together to prevent the Government of Iran from acquiring a nuclear weapons capability.
 
-&emsp;(3) The International Atomic Energy Agency has repeatedly called attention to Iran's illicit nuclear activities and, as a result, the United Nations Security Council has adopted a range of sanctions designed to encourage the Government of Iran to suspend those activities and comply with its obligations under the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the “Nuclear Non-Proliferation Treaty”).
+&emsp;(3) The International Atomic Energy Agency has repeatedly called attention to Iran's illicit nuclear activities and, as a result, the United Nations Security Council has adopted a range of sanctions designed to encourage the Government of Iran to suspend those activities and comply with its obligations under the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the "Nuclear Non-Proliferation Treaty").
 
 &emsp;(4) The serious and urgent nature of the threat from Iran demands that the United States work together with its allies to do everything possible—diplomatically, politically, and economically—to prevent Iran from acquiring a nuclear weapons capability.
 
@@ -14,15 +14,15 @@ Congress makes the following findings:
 
 &emsp;(6) The Government of Iran continues to engage in serious, systematic, and ongoing violations of human rights, including suppression of freedom of expression and religious freedom, illegitimately prolonged detention, torture, and executions. Such violations have increased in the aftermath of the fraudulent presidential election in Iran on June 12, 2009.
 
-&emsp;(7) The Government of Iran has been unresponsive to President Obama's unprecedented and serious efforts at engagement, revealingthat the Government of Iran is not interested in a diplomatic resolution, as made clear, for example, by the following:
+&emsp;(7) The Government of Iran has been unresponsive to President Obama's unprecedented and serious efforts at engagement, revealing that the Government of Iran is not interested in a diplomatic resolution, as made clear, for example, by the following:
 
 &emsp;&emsp;(A) Iran's apparent rejection of the Tehran Research Reactor plan, generously offered by the United States and its partners, of potentially great benefit to the people of Iran, and endorsed by Iran's own negotiators in October 2009.
 
 &emsp;&emsp;(B) Iran's ongoing clandestine nuclear program, as evidenced by its work on the secret uranium enrichment facility at Qom, its subsequent refusal to cooperate fully with inspectors from the International Atomic Energy Agency, and its announcement that it would build 10 new uranium enrichment facilities.
 
-&emsp;&emsp;(C) Iran's official notification to the International Atomic Energy Agency that it would enrich uranium to the 20 percent level, followed soon thereafter by its providing to that Agency a laboratory result showing that Iran had indeed enriched some uranium to 19.8 percent.
+&emsp;&emsp;(C) Iran's official notification to the International Atomic Energy Agency that itwould enrich uranium to the 20 percent level, followed soon thereafter by its providing to that Agency a laboratory result showing that Iran had indeed enriched some uranium to 19.8 percent.
 
-&emsp;&emsp;(D) A February 18, 2010, report by the International Atomic Energy Agency expressing “concerns about the possible existence in Iran of past or current undisclosed activities related to the development of a nuclear payload for a missile. These alleged activities consist of a number of projects and sub-projects, covering nuclear and missile related aspects, run by military-related organizations.”.
+&emsp;&emsp;(D) A February 18, 2010, report by the International Atomic Energy Agency expressing "concerns about the possible existence in Iran of past or current undisclosed activities related to the development of a nuclear payload for a missile. These alleged activities consist of a number of projects and sub-projects, covering nuclear and missile related aspects, run by military-related organizations.".
 
 &emsp;&emsp;(E) A May 31, 2010, report by the International Atomic Energy Agency expressing continuing strong concerns about Iran's lack of cooperation with the Agency's verification efforts and Iran's ongoing enrichment activities, which are contrary to the longstanding demands of the Agency and the United Nations Security Council.
 
@@ -54,7 +54,7 @@ The International Emergency Economic Powers Act, referred to in par. (10), is ti
 
 #### Short Title
 
-Pub. L. 111–195, §1(a), July 1, 2010, 124 Stat. 1312, provided that: “This Act \[enacting this chapter, amending sections 287c, 2778, and 2780 of this title, section 80a–13 of Title 15, Commerce and Trade, section 310 of Title 31, Money and Finance, and section 16 of the Appendix to Title 50, War and National Defense, enacting provisions set out as notes under section 80a–13 of Title 15 and section 1701 of Title 50, and amending provisions set out as notes under section 1701 of Title 50\] may be cited as the ‘Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010’.”
+Pub. L. 111–195, §1(a), July 1, 2010, 124 Stat. 1312, provided that: "This Act \[enacting this chapter, amending sections 287c, 2778, and 2780 of this title, section 80a–13 of Title 15, Commerce and Trade, section 310 of Title 31, Money and Finance, and section 16 of the Appendix to Title 50, War and National Defense, enacting provisions set out as notes under section 80a–13 of Title 15 and section 1701 of Title 50, and amending provisions set out as notes under section 1701 of Title 50\] may be cited as the 'Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010'."
 
 #### Delegation of Certain Functions and Authorities Under the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010
 
@@ -64,7 +64,7 @@ Memorandum for the Secretary of State\[,\] the Secretary of the Treasury\[,\] th
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby order as follows:
 
-I hereby delegate to the Secretary of State the functions vested in the President by sections 4(c), 5(a), 5(b), 5(c), 5(f), 6(a)(1), 6(a)(2), 6(b)(5), and 9(c) of the Iran Sanctions Act of 1996, as amended (Public Law 104–172, 50 U.S.C. 1701 note, as amended most recently by the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (CISADA) (Public Law 111–195)) (the “Iran Sanctions Act”), such functions to be exercised in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the President of the Export-Import Bank and the Chairman of the Board of the Federal Reserve System and other agencies as appropriate.
+I hereby delegate to the Secretary of State the functions vested in the President by sections 4(c), 5(a), 5(b), 5(c), 5(f), 6(a)(1), 6(a)(2), 6(b)(5), and 9(c) of the Iran Sanctions Act of 1996, as amended (Public Law 104–172, 50 U.S.C. 1701 note, as amended most recently by the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (CISADA) (Public Law 111–195)) (the "Iran Sanctions Act"), such functions to be exercised in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the President of the Export-Import Bank and the Chairman of the Board of the Federal Reserve System and other agencies as appropriate.
 
 I hereby delegate to the Secretary of State the functions vested in the President by sections 4(a), 4(b), 4(e), 5(d), 5(e), 9(a), 9(b), and 10 of the Iran Sanctions Act.
 
@@ -74,9 +74,9 @@ The Presidential Memorandum of November 21, 1996 (Delegation of Responsibilities
 
 I hereby delegate functions vested in the President by CISADA, as follows:
 
-• section 102(h)(5) to the Secretary of State;
+• section 102(h)(5) \[50 U.S.C. 1701 note\] to the Secretary of State;
 
-• section 103(b)(3) to the Secretary of State and the Secretary of the Treasury, consistent with Executive Orders 13224 and 13382, as amended, and any other relevant Executive Orders;
+• section 103(b)(3) \[22 U.S.C. 8512(b)(3)\] to the Secretary of State and the Secretary of the Treasury, consistent with Executive Orders 13224 and 13382, as amended, and any other relevant Executive Orders;
 
 • section 103(d)(1) to the Secretary of the Treasury, in consultation with the Secretary of State and, as appropriate, other agencies;
 
@@ -84,17 +84,17 @@ I hereby delegate functions vested in the President by CISADA, as follows:
 
 • section 103(d)(2)(B) to the Secretary of State, in consultation with the Secretary of the Treasury and the Secretary of Commerce;
 
-• section 106 to the Secretary of State, in consultation with the Secretary of Commerce;
+• section 106 \[22 U.S.C. 8515\] to the Secretary of State, in consultation with the Secretary of Commerce;
 
-• section 110 to the Secretary of State;
+• section 110 \[22 U.S.C. 8518\] to the Secretary of State;
 
-• section 111(a) to the Secretary of State, in consultation with the Secretary of the Treasury and the President of the Export-Import Bank;
+• section 111(a) \[22 U.S.C. 8519(a)\] to the Secretary of State, in consultation with the Secretary of the Treasury and the President of the Export-Import Bank;
 
 • section 111(b) to the President of the Export Import Bank, in consultation with the Secretary of State and the Secretary of the Treasury;
 
-• section 115 to the Secretary of State, in consultation with the Attorney General and the Secretary of the Treasury;
+• section 115 \[124 Stat. 1341\] to the Secretary of State, in consultation with the Attorney General and the Secretary of the Treasury;
 
-• sections 303(a) and 303(b) to the Secretary of State, in consultation with the Secretary of Commerce;
+• sections 303(a) and 303(b) \[22 U.S.C. 8543(a), (b)\] to the Secretary of State, in consultation with the Secretary of Commerce;
 
 • section 303(c) to the Secretary of Commerce with regard to exports governed by the Export Administration Regulations, and to the Secretary of State with regard to exports governed by the International Traffic in Arms Regulations;
 
@@ -102,9 +102,9 @@ I hereby delegate functions vested in the President by CISADA, as follows:
 
 • section 303(e) to the Secretary of State, in consultation with the Secretary of Commerce;
 
-• section 304 to the Secretary of State, in consultation with the Secretary of Commerce;
+• section 304 \[124 Stat. 1349\] to the Secretary of State, in consultation with the Secretary of Commerce;
 
-• section 401(b) to the Secretary of State, in consultation with the Secretary of the Treasury and, as appropriate, other agencies, with respect to the waiver of sanctions under section 103(b); to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the application of the prohibition under section 106(a); and to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the imposition of the licensing requirement under section 303(c).
+• section 401(b) \[22 U.S.C. 8551(b)\] to the Secretary of State, in consultation with the Secretary of the Treasury and, as appropriate, other agencies, with respect to the waiver of sanctions under section 103(b); to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the application of the prohibition under section 106(a); and to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the imposition of the licensing requirement under section 303(c).
 
 Any reference in this memorandum to provisions of any Act related to the subject of this memorandum shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provisions.
 

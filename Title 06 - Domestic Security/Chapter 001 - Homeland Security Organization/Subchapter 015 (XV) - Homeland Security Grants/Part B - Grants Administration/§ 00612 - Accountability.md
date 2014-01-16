@@ -120,7 +120,7 @@
 
 #### (4) Performance assessment
 
-&emsp;In order to ensure that States and high-risk urban areas are using grants administered bythe Department appropriately to meet target capabilities and preparedness priorities, the Administrator shall—
+&emsp;In order to ensure that States and high-risk urban areas are using grants administered by the Department appropriately to meet target capabilities and preparedness priorities, the Administrator shall—
 
 &emsp;&emsp;(A) ensure that any such State or high-risk urban area conducts or participates in exercises under section 748(b) of this title;
 
@@ -206,7 +206,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, the Administrator shall provide to the appropriate committeesof Congress a detailed and comprehensive explanation of the methodologies used to calculate risk and compute the allocation of funds for grants administered by the Department, including—
+&emsp;&emsp;For each fiscal year, the Administrator shall provide to the appropriate committees of Congress a detailed and comprehensive explanation of the methodologies used to calculate risk and compute the allocation of funds for grants administered by the Department, including—
 
 &emsp;&emsp;&emsp;(i) all variables included in the risk assessment and the weights assigned to each such variable;
 

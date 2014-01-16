@@ -4,7 +4,7 @@ With respect to any claim for damages filed under this subchapter, there shall b
 
 &emsp;(1) the commercial fishing vessel was being used for fishing and was located in an area affected by Outer Continental Shelf activities;
 
-&emsp;(2) a report on the location of the material, equipment, tool, container, or other item which caused such damages and the nature ofsuch damages was made within fifteen days after the date on which the vessel first returns to a port after discovering such damages;
+&emsp;(2) a report on the location of the material, equipment, tool, container, or other item which caused such damages and the nature of such damages was made within fifteen days after the date on which the vessel first returns to a port after discovering such damages;
 
 &emsp;(3) there was no record on the latest nautical charts or Notice to Mariners in effect at least 15 days prior to the date such damages were sustained that such material, equipment, tool, container, or other item existed where such damages occurred, except that in the case of damages caused by a pipeline, the presumption established by this section shall obtain whether or not there was any such record of the pipeline on the damage date; and
 
@@ -14,11 +14,11 @@ With respect to any claim for damages filed under this subchapter, there shall b
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–212, §4(1), substituted “under this subchapter” for “pursuant to this subchapter” and “damages were due to activities related to oil and gas exploration, development, or production” for “claim is valid” in provisions preceding par. (1).
+<b>1982</b>—Pub. L. 97–212, §4(1), substituted "under this subchapter" for "pursuant to this subchapter" and "damages were due to activities related to oil and gas exploration, development, or production" for "claim is valid" in provisions preceding par. (1).
 
-Par. (2). Pub. L. 97–212, §4(2), substituted “fifteen days after the date on which the vessel first returns to a port after discovering such damages” for “five days after the date on which such damages were discovered”.
+Par. (2). Pub. L. 97–212, §4(2), substituted "fifteen days after the date on which the vessel first returns to a port after discovering such damages" for "five days after the date on which such damages were discovered".
 
-Par. (3). Pub. L. 97–212, §4(3), inserted “the latest” after “no record on”, struck out “the” before “Notice to Mariners”, and substituted “in effect at least 15 days prior to the date” for “on the date” and “where such damages occurred, except that in the case of damages caused by a pipeline, the presumption established by this section shall obtain whether or not there was any such record of the pipeline on the damage date” for “in such area”.
+Par. (3). Pub. L. 97–212, §4(3), inserted "the latest" after "no record on", struck out "the" before "Notice to Mariners", and substituted "in effect at least 15 days prior to the date" for "on the date" and "where such damages occurred, except that in the case of damages caused by a pipeline, the presumption established by this section shall obtain whether or not there was any such record of the pipeline on the damage date" for "in such area".
 
 #### Effective Date of 1982 Amendment
 

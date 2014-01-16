@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 Aug. 1, 1956, ch. 824, §3, 70 Stat. 795.
 
-Before clause (1), the word “objects” is omitted as unnecessary.
+Before clause (1), the word "objects" is omitted as unnecessary.
 
-In clause (5), the word “considers” is substituted for “shall deem” for consistency in the revised title.
+In clause (5), the word "considers" is substituted for "shall deem" for consistency in the revised title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The Trade and Development Agency shall be an agency of the United States under the foreign policy guidance of the Secretary of State. The purpose of the Trade and Development Agency is to promote United States private sector participation in development projects in developing and middle-income countries, with special emphasis on economic sectors with significant United States export potential, such as energy, transportation, telecommunications, and environment.
+The Trade and Development Agency shall be an agency of the United States under the foreignpolicy guidance of the Secretary of State. The purpose of the Trade and Development Agency is to promote United States private sector participation in development projects in developing and middle-income countries, with special emphasis on economic sectors with significant United States export potential, such as energy, transportation, telecommunications, and environment.
 
 #### (b) Authority to provide assistance
 
@@ -64,7 +64,7 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 #### (2) Independent audit
 
-&emsp;An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Trade and Development Agency each year, in accordance with generally accepted Government auditing standards for a financial and compliance audit, taking into consideration any standards recommended by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Director of the Trade and Development Agency. The financial statements of the Trade and Development Agency shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 3512 of title 31, and which the Trade and Development Agency shall submit to the Congress not later than 6½ months after the end of the last fiscal year covered by the audit. The Comptroller General may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Comptroller General considers necessary.
+&emsp;An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Trade and Development Agency each year, in accordance with generally accepted Government auditing standards for a financial and compliance audit, taking into consideration any standards recommended by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Director of the Trade and Development Agency. The financial statements of the Trade and Development Agency shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 3512 of title 31, and which the Trade and Development Agency shall submit to the Congress not laterthan 6½ months after the end of the last fiscal year covered by the audit. The Comptroller General may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Comptroller General considers necessary.
 
 #### (3) Audit by Comptroller General
 
@@ -88,9 +88,9 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 &emsp;(B) As used in subparagraph (A)—
 
-&emsp;&emsp;(i) the term “technical assistance grants” means funding by multilateral development banks of services from the United States in connection with projects and programs supported by such banks, including, but not limited to, engineering, design, and consulting services; and
+&emsp;&emsp;(i) the term "technical assistance grants" means funding by multilateral development banks of services from the United States in connection with projects and programs supported by such banks, including, but not limited to, engineering, design, and consulting services; and
 
-&emsp;&emsp;(ii) the term “multilateral development bank” has the meaning given that term in section 262r(c) of this title.
+&emsp;&emsp;(ii) the term "multilateral development bank" has the meaning given that term in section 262r(c) of this title.
 
 (Pub. L. 87–195, pt. III, §661, as added Pub. L. 93–559, §31, Dec. 30, 1974, 88 Stat. 1804; amended Pub. L. 94–161, title III, §316, Dec. 20, 1975, 89 Stat. 867; Pub. L. 95–88, title I, §128, Aug. 3, 1977, 91 Stat. 543; Pub. L. 95–424, title I, §121, Oct. 6, 1978, 92 Stat. 954; Pub. L. 96–53, title I, §119, Aug. 14, 1979, 93 Stat. 365; Pub. L. 96–533, title III, §311, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 97–113, title III, §312, Dec. 29, 1981, 95 Stat. 1536; Pub. L. 99–83, title IV, §405, Aug. 8, 1985, 99 Stat. 219; Pub. L. 100–418, title II, §2204(b)(1), (2), Aug. 23, 1988, 102 Stat. 1329; Pub. L. 102–549, title II, §201, Oct. 28, 1992, 106 Stat. 3655; Pub. L. 103–392, title II, §201, Oct. 22, 1994, 108 Stat. 4099; Pub. L. 106–158, §5, Dec. 9, 1999, 113 Stat. 1746; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -100,17 +100,17 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-<b>2004</b>—Subsec. (e)(4). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (e)(4). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–158, §5(a), inserted before period at end: “, with special emphasis on economic sectors with significant United States export potential, such as energy, transportation, telecommunications, and environment”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–158, §5(a), inserted before period at end: ", with special emphasis on economic sectors with significant United States export potential, such as energy, transportation, telecommunications, and environment".
 
 Subsec. (b)(5). Pub. L. 106–158, §5(b), added par. (5).
 
-Subsec. (f)(1)(A). Pub. L. 106–158, §5(c)(1), substituted “$48,000,000 for fiscal year 2000 and such sums as may be necessary for each fiscal year thereafter” for “$77,000,000 for fiscal year 1995 and such sums as are necessary for fiscal year 1996”.
+Subsec. (f)(1)(A). Pub. L. 106–158, §5(c)(1), substituted "$48,000,000 for fiscal year 2000 and such sums as may be necessary for each fiscal year thereafter" for "$77,000,000 for fiscal year 1995 and such sums as are necessary for fiscal year 1996".
 
-Subsec. (f)(2)(A). Pub. L. 106–158, §5(c)(2), substituted “in carrying out its program, provide, as appropriate, funds” for “in fiscal years 1993 and 1994, substantially increase the amount of funds it provides”.
+Subsec. (f)(2)(A). Pub. L. 106–158, §5(c)(2), substituted "in carrying out its program, provide, as appropriate, funds" for "in fiscal years 1993 and 1994, substantially increase the amount of funds it provides".
 
-<b>1994</b>—Subsec. (f)(1). Pub. L. 103–392 redesignated existing provisions as subpar. (A), substituted “$77,000,000 for fiscal year 1995 and such sums as are necessary for fiscal year 1996.” for “$55,000,000 for fiscal year 1993 and $65,000,000 for fiscal year 1994.”, and added subpar. (B).
+<b>1994</b>—Subsec. (f)(1). Pub. L. 103–392 redesignated existing provisions as subpar. (A), substituted "$77,000,000 for fiscal year 1995 and such sums as are necessary for fiscal year 1996." for "$55,000,000 for fiscal year 1993 and $65,000,000 for fiscal year 1994.", and added subpar. (B).
 
 <b>1992</b>—Pub. L. 102–549 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) which authorized a trade and development program to facilitate access to natural resources of interest to the United States and to stimulate reimbursable aid programs, established an agency called the Trade and Development Program to carry out the program, established an advisory board, and authorized appropriations for purposes of section.
 
@@ -124,11 +124,11 @@ Subsecs. (b) to (d). Pub. L. 100–418, §2204(b)(2), added subsecs. (b) and (c)
 
 <b>1980</b>—Pub. L. 96–533 substituted authorization for use of $4,000,000 of available funds for fiscal year 1981 for such authorization for use of $3,800,000 of available funds for fiscal year 1980 for reimbursable development programs.
 
-<b>1979</b>—Pub. L. 96–53 substituted “$3,800,000” for “$3,000,000” and “1980” for “1979”.
+<b>1979</b>—Pub. L. 96–53 substituted "$3,800,000" for "$3,000,000" and "1980" for "1979".
 
-<b>1978</b>—Pub. L. 95–424 substituted “$3,000,000 of the funds made available for the purposes of this chapter for the fiscal year 1979” for “$2,000,000 of the funds made available for the purposes of this chapter. In the fiscal year 1977 and $2,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1978,”.
+<b>1978</b>—Pub. L. 95–424 substituted "$3,000,000 of the funds made available for the purposes of this chapter for the fiscal year 1979" for "$2,000,000 of the funds made available for the purposes of this chapter. In the fiscal year 1977 and $2,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1978,".
 
-<b>1977</b>—Pub. L. 95–88 struck out provisions authorizing the President to use up to $1,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1975 and $2,000,000 in the fiscal year 1976, and inserted provisions authorizing the President to use $2,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1978.
+<b>1977</b>—Pub. L. 95–88 struck out provisions authorizing the President to use up to $1,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1975 and $2,000,000 in the fiscal year 1976, and inserted provisions authorizing the President to use$2,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1978.
 
 <b>1975</b>—Pub. L. 94–161 increased usable funds in fiscal year 1976 to $2,000,000 from $1,000,000 and authorized use of $2,000,000 in fiscal year 1977.
 
@@ -136,13 +136,13 @@ Subsecs. (b) to (d). Pub. L. 100–418, §2204(b)(2), added subsecs. (b) and (c)
 
 Pub. L. 102–549, title II, §202(a), (e), Oct. 28, 1992, 106 Stat. 3657, 3658, provided that:
 
-“(a)
+"(a)
 
 Renaming of Trade and Development Program.—The Trade and Development Program shall, on or after the effective date of this section \[Oct. 28, 1992\], be known as the Trade and Development Agency.
 
-“(e)
+"(e)
 
-Reference in Other Laws.—Any reference in any law to the Trade and Development Program shall be deemed to be a reference to the Trade and Development Agency.”
+Reference in Other Laws.—Any reference in any law to the Trade and Development Program shall be deemed to be a reference to the Trade and Development Agency."
 
 #### Effective Date of 1985 Amendment
 
@@ -162,7 +162,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Appointment of Present Director Not Affected
 
-Pub. L. 102–549, title II, §202(b), Oct. 28, 1992, 106 Stat. 3657, provided that: “The enactment of this title \[amending this section and section 5401 of this title, section 5314 of Title 5, Government Organization and Employees, and sections 635q to 635s of Title 12, Banks and Banking, enacting provisions set out as a note above, and amending provisions set out as a note under section 2151 of this title\] shall not affect the appointment of the individual who is the Director of the Trade and Development Program on the effective date of this section \[Oct. 28, 1992\].”
+Pub. L. 102–549, title II, §202(b), Oct. 28, 1992, 106 Stat. 3657, provided that: "The enactment of this title \[amending this section and section 5401 of this title, section 5314 of Title 5, Government Organization and Employees, and sections 635q to 635s of Title 12, Banks and Banking, enacting provisions set out as a note above, and amending provisions set out as a note under section 2151 of this title\] shall not affect the appointment of the individual who is the Director of the Trade and Development Program on the effective date of this section \[Oct. 28, 1992\]."
 
 #### Trade and Development Program Activities for Poland and Hungary
 
@@ -170,5 +170,5 @@ Pub. L. 101–179, title III, §305, Nov. 28, 1989, 103 Stat. 1314, authorized a
 
 #### Trade and Development Program; Reaffirmation of Support
 
-Pub. L. 100–418, title II, §2204(a), Aug. 23, 1988, 102 Stat. 1328, provided that: “The Congress reaffirms its support for the Trade and Development Program \[now Trade and Development Agency\], and believes that the Program's \[Agency's\] ability to support high priority development projects in developing countries would be enhanced by an increase in the funds authorized for the Program as well as by a clarification of the Program's status as a separate component of the International Development Cooperation Agency.”
+Pub. L. 100–418, title II, §2204(a), Aug. 23, 1988, 102 Stat. 1328, provided that: "The Congress reaffirms its support for the Trade and Development Program \[now Trade and Development Agency\], and believes that the Program's \[Agency's\] ability to support high priority development projects in developing countries would be enhanced by an increase in the funds authorized for the Program as well as by a clarification of the Program's status as a separate component of the International Development Cooperation Agency."
 

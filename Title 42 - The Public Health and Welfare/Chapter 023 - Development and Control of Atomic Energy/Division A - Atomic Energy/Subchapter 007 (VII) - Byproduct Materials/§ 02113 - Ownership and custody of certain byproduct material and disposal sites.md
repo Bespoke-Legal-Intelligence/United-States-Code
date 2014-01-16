@@ -28,7 +28,7 @@ Any license issued or renewed after the effective date of this section under sec
 
 (4) In the case of any such license under section 2092 of this title, which was in effect on the effective date of this section, the Commission may require, before the termination of such license, such transfer of land and interests therein (as described in paragraph (1) of this subsection) to the United States or a State in which such land is located, at the option of such State, as may be necessary to protect the public health, welfare, and the environment from any effects associated with such byproduct material. In exercising the authority of this paragraph, the Commission shall take into consideration the status of the ownership of such land and interests therein and the ability of the licensee to transfer title and custody thereof to the United States or a State.
 
-(5) The Commission may, pursuant to a license, or by rule or order, require the Secretary or other Federal agency or State having custody of such property and materials to undertake such monitoring, maintenance, and emergency measures as are necessary to protect the public health and safety and such other actions as the Commission deems necessary to comply with the standards promulgated pursuant to section 2114 of this title. The Secretary or such other Federal agency is authorized to carry out maintenance, monitoring, and emergency measures, but shall take no other action pursuant to such license, rule or order, with respect to such property and materials unless expressly authorized by Congress after November 8, 1978.
+(5) The Commission may, pursuant to a license, or by rule or order, require the Secretaryor other Federal agency or State having custody of such property and materials to undertake such monitoring, maintenance, and emergency measures as are necessary to protect the public health and safety and such other actions as the Commission deems necessary to comply with the standards promulgated pursuant to section 2114 of this title. The Secretary or such other Federal agency is authorized to carry out maintenance, monitoring, and emergency measures, but shall take no other action pursuant to such license, rule or order, with respect to such property and materials unless expressly authorized by Congress after November 8, 1978.
 
 (6) The transfer of title to land or byproduct materials, as defined in section 2014(e)(2) of this title, to a State or the United States pursuant to this subsection shall not relieve any licensee of liability for any fraudulent or negligent acts done prior to such transfer.
 
@@ -48,19 +48,19 @@ Effective date of this section, referred to in subsecs. (a) and (b)(1)(A), (4), 
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–106, §22(c), substituted “Any license which is in effect on the effective date of this section and which is subsequently terminated without renewal shall comply with paragraphs (1) and (2) upon termination” for “Any license in effect on November 8, 1978, shall either contain such terms and conditions on renewal thereof after the effective date of this section, or comply with paragraphs (1) and (2) upon the termination of such license, whichever first occurs”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–106, §22(c), substituted "Any license which is in effect on the effective date of this section and which is subsequently terminated without renewal shall comply with paragraphs (1) and (2) upon termination" for "Any license in effect on November 8, 1978, shall either contain such terms and conditions on renewal thereof after the effective date of this section, or comply with paragraphs (1) and (2) upon the termination of such license, whichever first occurs".
 
 Subsec. (b)(1)(A). Pub. L. 96–106, §22(e), among other changes, substituted reference to section 2111 of this title for reference to section 2114(b) of this title.
 
 #### Effective Date
 
-Pub. L. 95–604, title II, §202(b), Nov. 8, 1978, 92 Stat. 3036, provided that: “This section \[enacting this section\] shall be effective three years after the enactment of this Act \[Nov. 8, 1978\].”
+Pub. L. 95–604, title II, §202(b), Nov. 8, 1978, 92 Stat. 3036, provided that: "This section \[enacting this section\] shall be effective three years after the enactment of this Act \[Nov. 8, 1978\]."
 
 #### Consolidation of Licenses and Procedures
 
-Pub. L. 95–604, title II, §209, Nov. 8, 1978, 92 Stat. 3041, provided that: “The Nuclear Regulatory Commission shall consolidate, to the maximum extent practicable, licenses and licensing procedures under amendments made by this title \[see Effective Date of 1978 Amendment note set out under section 2014 of this title\] with licenses and licensing procedures under other authorities contained in the Atomic Energy Act of 1954 \[this chapter\].”
+Pub. L. 95–604, title II, §209, Nov. 8, 1978, 92 Stat. 3041, provided that: "The Nuclear Regulatory Commission shall consolidate, to the maximum extent practicable, licenses and licensing procedures under amendments made by this title \[see Effective Date of 1978 Amendment note set out under section 2014 of this title\] with licenses and licensing procedures under other authorities contained in the Atomic Energy Act of 1954 \[this chapter\]."
 
 \[Provision effective Nov. 8, 1978, see section 208 of Pub. L. 95–604, set out as an Effective Date of 1978 Amendment note under section 2014 of this title\].
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

@@ -44,17 +44,17 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (d)(2), are se
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(2). Pub. L. 111–327 inserted “may” after “Procedure,” in introductory provisions.
+<b>2010</b>—Subsec. (d)(2). Pub. L. 111–327 inserted "may" after "Procedure," in introductory provisions.
 
-<b>2005</b>—Subsec. (d). Pub. L. 109–8, §440(1), struck out “, may” after “party in interest” in introductory provisions.
+<b>2005</b>—Subsec. (d). Pub. L. 109–8, §440(1), struck out ", may" after "party in interest" in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 109–8, §440(2), added par. (1) and struck out former par. (1) which read as follows: “hold a status conference regarding any case or proceeding under this title after notice to the parties in interest; and”.
+Subsec. (d)(1). Pub. L. 109–8, §440(2), added par. (1) and struck out former par. (1) which read as follows: "hold a status conference regarding any case or proceeding under this title after notice to the parties in interest; and".
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–394 added subsec. (d).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–554 inserted at end “No provision of this title providing for the raising of an issue by a party in interest shall be construed to preclude the court from, sua sponte, taking any action or making any determination necessary or appropriate to enforce or implement court orders or rules, or to prevent an abuse of process.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–554 inserted at end "No provision of this title providing for the raising of an issue by a party in interest shall be construed to preclude the court from, sua sponte, taking any action or making any determination necessary or appropriate to enforce or implement court orders or rules, or to prevent an abuse of process."
 
-<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–353, §118(1), struck out “bankruptcy” before “court”.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–353, §118(1), struck out "bankruptcy" before "court".
 
 Subsec. (c). Pub. L. 98–353, §118(2), added subsec. (c).
 

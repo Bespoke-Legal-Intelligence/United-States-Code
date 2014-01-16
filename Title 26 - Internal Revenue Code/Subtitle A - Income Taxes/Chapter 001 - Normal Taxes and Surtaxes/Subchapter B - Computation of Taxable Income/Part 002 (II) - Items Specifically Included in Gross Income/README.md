@@ -32,15 +32,15 @@
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–357, title III, §302(c)(1)(B), Oct. 22, 2004, 118 Stat. 1465, substituted “and biodiesel fuels credits” for “fuel credit” in item 87.
+<b>2004</b>—Pub. L. 108–357, title III, §302(c)(1)(B), Oct. 22, 2004, 118 Stat. 1465, substituted "and biodiesel fuels credits" for "fuel credit" in item 87.
 
-<b>1989</b>—Pub. L. 101–239, title VII, §7822(c), Dec. 19, 1989, 103 Stat. 2425, substituted “Illegal Federal irrigation” for “Federal irrigation” in item 90.
+<b>1989</b>—Pub. L. 101–239, title VII, §7822(c), Dec. 19, 1989, 103 Stat. 2425, substituted "Illegal Federal irrigation" for "Federal irrigation" in item 90.
 
-Pub. L. 101–140, title II, §202(b), Nov. 8, 1989, 103 Stat. 830, struck out item 89 “Benefits provided under certain employee benefit plans”.
+Pub. L. 101–140, title II, §202(b), Nov. 8, 1989, 103 Stat. 830, struck out item 89 "Benefits provided under certain employee benefit plans".
 
-<b>1987</b>—Pub. L. 100–203, title X, §§10201(b)(6), 10611(b), Dec. 22, 1987, 101 Stat. 1330–387, 1330–452, struck out item 81 “Increase in vacation pay suspense account” and added item 90.
+<b>1987</b>—Pub. L. 100–203, title X, §§10201(b)(6), 10611(b), Dec. 22, 1987, 101 Stat. 1330–387, 1330–452, struck out item 81 "Increase in vacation pay suspense account" and added item 90.
 
-<b>1986</b>—Pub. L. 99–514, title VIII, §805(c)(1)(B), title XI, §1151(j)(1), Oct. 22, 1986, 100 Stat. 2362, 2508, substituted “Increase in vacation pay suspense account” for “Certain increases in suspense accounts” in item 81, and added item 89.
+<b>1986</b>—Pub. L. 99–514, title VIII, §805(c)(1)(B), title XI, §1151(j)(1), Oct. 22, 1986, 100 Stat. 2362, 2508, substituted "Increase in vacation pay suspense account" for "Certain increases in suspense accounts" in item 81, and added item 89.
 
 <b>1984</b>—Pub. L. 98–369, div. A, title I, §91(f)(2), July 18, 1984, 98 Stat. 608, added item 88.
 
@@ -50,9 +50,9 @@ Pub. L. 101–140, title II, §202(b), Nov. 8, 1989, 103 Stat. 830, struck out i
 
 <b>1978</b>—Pub. L. 95–600, title I, §112(c)(1), Nov. 6, 1978, 92 Stat. 2778, added item 85.
 
-<b>1976</b>—Pub. L. 94–455, title XIX, §1901(b)(5), Oct. 4, 1976, 90 Stat. 1793, struck out item 76 “Mortgages made or obligations issued by joint-stock land banks”.
+<b>1976</b>—Pub. L. 94–455, title XIX, §1901(b)(5), Oct. 4, 1976, 90 Stat. 1793, struck out item 76 "Mortgages made or obligations issued by joint-stock land banks".
 
-<b>1975</b>—Pub. L. 93–625, §§4(c)(2), 13(a)(2), Jan. 3, 1975, 88 Stat. 2111, 2121, substituted “Certain increases in suspense accounts” for “Increases in suspense account under section 166(g)” in item 81, and added item 84.
+<b>1975</b>—Pub. L. 93–625, §§4(c)(2), 13(a)(2), Jan. 3, 1975, 88 Stat. 2111, 2121, substituted "Certain increases in suspense accounts" for "Increases in suspense account under section 166(g)" in item 81, and added item 84.
 
 <b>1969</b>—Pub. L. 91–172, title II, §231(c)(1), title III, §321(c), Dec. 30, 1969, 83 Stat. 579, 591, added items 82, 83.
 

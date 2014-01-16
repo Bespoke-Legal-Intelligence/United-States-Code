@@ -2,7 +2,7 @@
 
 (a) Notwithstanding any other provisions of this Act, the authority contained in titles II or III of this Act shall not be exercised in any area unless the President shall have determined that such area is a critical defense housing area.
 
-(b) No area shall be determined to be a critical defense housing area pursuant to this sectionunless the President finds that in such area all the following conditions exist:
+(b) No area shall be determined to be a critical defense housing area pursuant to this section unless the President finds that in such area all the following conditions exist:
 
 &emsp;(1) a new defense plant or installation has been or is to be provided, or an existing defense plant or installation has been or is to be reactivated or its operation substantially expanded;
 
@@ -18,13 +18,13 @@ This Act, referred to in subsecs. (a), (c), and (d), means act Sept. 1, 1951, ch
 
 #### Amendments
 
-<b>1953</b>—Subsec. (a). Act June 30, 1953, substituted “titles II or III” for “titles II, III, or IV”.
+<b>1953</b>—Subsec. (a). Act June 30, 1953, substituted "titles II or III" for "titles II, III, or IV".
 
 #### Inconsistent Laws
 
-Act Sept. 1, 1951, ch. 378, title VI, §617, 65 Stat. 317, provided that: “Insofar as the provisions of any other law are inconsistent with the provisions of this Act \[see Short Title of 1951 Amendment note set out under section 1501 of this title\], the provisions of this Act shall be controlling.”
+Act Sept. 1, 1951, ch. 378, title VI, §617, 65 Stat. 317, provided that: "Insofar as the provisions of any other law are inconsistent with the provisions of this Act \[see Short Title of 1951 Amendment note set out under section 1501 of this title\], the provisions of this Act shall be controlling."
 
 #### Separability
 
-Act Sept. 1, 1951, ch. 378, title VI, §618, 65 Stat. 317, provided in second sentence that: “Notwithstanding any other evidence of the intention of Congress, it is hereby declared to be the controlling intent of Congress that if any provisions of this Act \[see Short Title of 1951 Amendment note set out under section 1501 of this title\], or the application thereof to any persons or circumstances, shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder of this Act or its application to other persons and circumstances, but shall be confined in its operation to the provisions of this Act or the application thereof to the persons and circumstances directly involved in the controversy in which such judgment shall have been rendered.”
+Act Sept. 1, 1951, ch. 378, title VI, §618, 65 Stat. 317, provided in second sentence that: "Notwithstanding any other evidence of the intention of Congress, it is hereby declared to be the controlling intent of Congress that if any provisions of this Act \[see Short Title of 1951 Amendment note set out under section 1501 of this title\], or the application thereof to any persons or circumstances, shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder of this Act or its application to other persons and circumstances, but shall be confined in its operation to the provisions of this Act or the application thereof to the persons and circumstances directly involved in the controversy in which such judgment shall have been rendered."
 

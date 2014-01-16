@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(ii) the alien entrepreneur appears at any interview described in paragraph (1)(B),
 
-> &emsp;&emsp;the Attorney General shall make a determination, within 90 days of the date of the such filing <sup>1</sup> or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) of this section and alleged in the petition are true withrespect to the qualifying commercial enterprise.
+> &emsp;&emsp;the Attorney General shall make a determination, within 90 days of the date of the such filing <sup>1</sup> or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) of this section and alleged in the petition are true with respect to the qualifying commercial enterprise.
 
 #### (B) Removal of conditional basis if favorable determination
 
@@ -128,7 +128,7 @@ For purposes of subchapter III, in the case of an alien who is in the United Sta
 
 In this section:
 
-&emsp;(1) The term “alien entrepreneur” means an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) under section 1153(b)(5) of this title.
+&emsp;(1) The term “alien entrepreneur” means an alien who obtains the status of an alien lawfully admitted for permanent residence\(whether on a conditional basis or otherwise) under section 1153(b)(5) of this title.
 
 &emsp;(2) The term “alien spouse” and the term “alien child” mean an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the spouse or child, respectively, of an alien entrepreneur.
 
@@ -252,7 +252,7 @@ In general.—With respect to each eligible alien described in subsection (b)(1)
 
 &emsp;&emsp;&emsp;“(i) the petition described in subsection (b)(1)(C) contains any material misrepresentation in the facts and information described in section 216A(d)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)) and alleged in the petition with respect to a commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation);
 
-&emsp;&emsp;&emsp;“(ii) subject to subparagraphs (B) and (C), such enterprise created full-time jobs for not fewer than 10 United States citizens or aliens lawfullyadmitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the eligible alien and the alien's spouse, sons, or daughters), and those jobs exist or existed on any of the dates described in subparagraph (D); and
+&emsp;&emsp;&emsp;“(ii) subject to subparagraphs (B) and (C), such enterprise created full-time jobs for not fewer than 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the eligible alien and the alien's spouse, sons, or daughters), and those jobs exist or existed on any of the dates described in subparagraph (D); and
 
 &emsp;&emsp;&emsp;“(iii) on any of the dates described in subparagraph (D), the alien is in substantial compliance with the capital investment requirement described in section 216A(d)(1)(B) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)(B)).
 
@@ -320,7 +320,7 @@ day period before second anniversary.—Except as provided in clause (ii), the p
 
 &emsp;&emsp;&emsp;“(ii)
 
-Date petitions for good cause.—Such a petition may be considered if filed after suchdate, but only if the alien establishes to the satisfaction of the Attorney General good cause and extenuating circumstances for failure to file the petition during the period described in clause (i).
+Date petitions for good cause.—Such a petition may be considered if filed after such date, but only if the alien establishes to the satisfaction of the Attorney General good cause and extenuating circumstances for failure to file the petition during the period described in clause (i).
 
 &emsp;&emsp;“(D)
 
@@ -458,7 +458,7 @@ Clarification With Respect to Children.—In the case of an alien who was a chil
 
 #### “SEC. 11033. REGULATIONS.
 
-“The Immigration and Naturalization Service shall promulgate regulations to implement this chapter \[chapter 1 (§§11031–11034) of subtitle B of title I of div. C of Pub. L. 107–273, enacting this note\] not later than 120 days after the date of enactment of this Act \[Nov. 2, 2002\]. Until such regulations are promulgated, the Attorney General shall not deny a petition filed or pending under section 216A(c)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)(A)) that relates to an eligible alien described in section 11031, or on an application filed or pending under section 245 of such Act (8 U.S.C. 1255) that relates to an eligible alien described in section 11032. Until such regulations are promulgated, the Attorney General shall not initiate or proceed with removal proceedings under section 240 of the Immigration and Nationality Act (8 U.S.C. 1229a) that relate to an eligible alien described in section 11031 or 11032.
+“The Immigration and Naturalization Service shall promulgate regulations to implement this chapter\[chapter 1 (§§11031–11034) of subtitle B of title I of div. C of Pub. L. 107–273, enacting this note\] not later than 120 days after the date of enactment of this Act \[Nov. 2, 2002\]. Until such regulations are promulgated, the Attorney General shall not deny a petition filed or pending under section 216A(c)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)(A)) that relates to an eligible alien described in section 11031, or on an application filed or pending under section 245 of such Act (8 U.S.C. 1255) that relates to an eligible alien described in section 11032. Until such regulations are promulgated, the Attorney General shall not initiate or proceed with removal proceedings under section 240 of the Immigration and Nationality Act (8 U.S.C. 1229a) that relate to an eligible alien described in section 11031 or 11032.
 
 #### “SEC. 11034. DEFINITIONS.
 

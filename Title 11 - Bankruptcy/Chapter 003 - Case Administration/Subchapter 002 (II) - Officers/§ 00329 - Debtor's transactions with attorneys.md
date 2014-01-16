@@ -28,9 +28,9 @@ The Bankruptcy Commission recommended a provision similar to this that would hav
 
 <b>1986</b>—Subsec. (b)(1)(B). Pub. L. 99–554 inserted reference to chapter 12.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–353, §432(a), substituted “or” for “and” after “in contemplation of”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §432(a), substituted "or" for "and" after "in contemplation of".
 
-Subsec. (b)(1). Pub. L. 98–353, §432(b), substituted “estate” for “trustee”.
+Subsec. (b)(1). Pub. L. 98–353, §432(b), substituted "estate" for "trustee".
 
 #### Effective Date of 1986 Amendment
 

@@ -8,7 +8,7 @@ The Administrator of the Federal Emergency Management Agency may make grants to 
 
 Notwithstanding any other provision of this subchapter, the Federal share of the cost of an activity carried out using amounts from grants made under this section shall not exceed 75 percent.
 
-(Pub. L. 93–288, title VI, §614, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3107; amended Pub. L. 110–53, title II, §202, Aug. 3, 2007, 121 Stat. 295.)
+(Pub. L. 93–288, title VI, §614, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5,1994, 108 Stat. 3107; amended Pub. L. 110–53, title II, §202, Aug. 3, 2007, 121 Stat. 295.)
 
 #### Prior Provisions
 
@@ -16,9 +16,9 @@ Provisions similar to those in this section were contained in section 2288 of Ti
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–53 amended section generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this subchapter, funds appropriated to carry out this subchapter may not be used for the purpose of constructing emergency operating centers (or similar facilities) in any State unless such State matches in an equal amount the amount made available to such State under this subchapter for such purpose.”
+<b>2007</b>—Pub. L. 110–53 amended section generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of this subchapter, funds appropriated to carry out this subchapter may not be used for the purpose of constructing emergency operating centers (or similar facilities) in any State unless such State matches in an equal amount the amount made available to such State under this subchapter for such purpose."
 
 #### Non-Federal Cost Share
 
-Pub. L. 108–7, div. K, title IV, §419, Feb. 20, 2003, 117 Stat. 526, provided that: “Notwithstanding 42 U.S.C. 5196c, amounts provided in Public Law 107–117 \[see Tables for classification\] and subsequent appropriations Acts for the construction of emergency operations centers (or similar facilities) shall only require a 25 percent non-Federal cost share.”
+Pub. L. 108–7, div. K, title IV, §419, Feb. 20, 2003, 117 Stat. 526, provided that: "Notwithstanding 42 U.S.C. 5196c, amounts provided in Public Law 107–117 \[see Tables for classification\] and subsequent appropriations Acts for the construction of emergency operations centers (or similar facilities) shall only require a 25 percent non-Federal cost share."
 

@@ -34,7 +34,7 @@ Any amounts made available pursuant to subparagraph (A), (B), or (C) of subsecti
 
 #### (f) Investment
 
-If the Administrator determines that the amounts in the National Flood Mitigation Fundare in excess of amounts needed under subsection (a) of this section, the Administrator may invest any excess amounts the Administrator determines advisable in interest-bearing obligations issued or guaranteed by the United States.
+If the Administrator determines that the amounts in the National Flood Mitigation Fund are in excess of amounts needed under subsection (a) of this section, the Administrator may invest any excess amounts the Administrator determines advisable in interest-bearing obligations issued or guaranteed by the United States.
 
 #### (g) Report
 
@@ -44,45 +44,45 @@ The Administrator shall submit a report to the Congress not later than the expir
 
 #### References in Text
 
-This chapter, referred to in subsec. (d), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (d), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Codification
 
-September 23, 1994, referred to in subsec. (g), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103–325, which enacted this section, to reflect the probable intent of Congress.
+September 23, 1994, referred to in subsec. (g), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 103–325, which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director".
 
-Subsec. (b)(1). Pub. L. 112–141, §100225(e)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “in each fiscal year, amounts from the National Flood Insurance Fund not exceeding $40,000,000, to remain available until expended;”.
+Subsec. (b)(1). Pub. L. 112–141, §100225(e)(1)(A), added par. (1) and struck out former par. (1) which read as follows: "in each fiscal year, amounts from the National Flood Insurance Fund not exceeding $40,000,000, to remain available until expended;".
 
-Subsec. (b)(3). Pub. L. 112–141, §100225(e)(1)(B), substituted “section 4104c(e)” for “section 4104c(i)”.
+Subsec. (b)(3). Pub. L. 112–141, §100225(e)(1)(B), substituted "section 4104c(e)" for "section 4104c(i)".
 
-Subsec. (c). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in two places.
+Subsec. (c). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in two places.
 
-Pub. L. 112–141, §100225(e)(2), substituted “section 4104c” for “sections 4104c and 4030”.
+Pub. L. 112–141, §100225(e)(2), substituted "section 4104c" for "sections 4104c and 4030".
 
 Subsecs. (d), (e). Pub. L. 112–141, §100225(e)(4), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 
-Subsecs. (f), (g). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
+Subsecs. (f), (g). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" wherever appearing.
 
 Pub. L. 112–141, §100225(e)(3), redesignated subsecs. (d) and (e) as (f) and (g), respectively.
 
-<b>2004</b>—Subsec. (b)(1). Pub. L 108–264, §103(d)(1), added par. (1) and struck out former par. (1) which read as follows: “amounts from the National Flood Insurance Fund, in amounts not exceeding—
+<b>2004</b>—Subsec. (b)(1). Pub. L 108–264, §103(d)(1), added par. (1) and struck out former par. (1) which read as follows: "amounts from the National Flood Insurance Fund, in amounts not exceeding—
 
-&emsp;“(A) $10,000,000 in the fiscal year ending September 30, 1994;
+&emsp;"(A) $10,000,000 in the fiscal year ending September 30, 1994;
 
-&emsp;“(B) $15,000,000 in the fiscal year ending September 30, 1995;
+&emsp;"(B) $15,000,000 in the fiscal year ending September 30, 1995;
 
-&emsp;“(C) $20,000,000 in the fiscal year ending September 30, 1996; and
+&emsp;"(C) $20,000,000 in the fiscal year ending September 30, 1996; and
 
-&emsp;“(D) $20,000,000 in each fiscal year thereafter;”.
+&emsp;"(D) $20,000,000 in each fiscal year thereafter;".
 
 Subsecs. (c) to (e). Pub. L. 108–264, §103(d)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

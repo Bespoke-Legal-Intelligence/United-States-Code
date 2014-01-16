@@ -30,7 +30,7 @@
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b)(2). Pub. L. 103–43 substituted “$1,000,000” for “$750,000”.
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–43 substituted "$1,000,000" for "$750,000".
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–607 substituted “$750,000” for “$500,000”.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–607 substituted "$750,000" for "$500,000".
 

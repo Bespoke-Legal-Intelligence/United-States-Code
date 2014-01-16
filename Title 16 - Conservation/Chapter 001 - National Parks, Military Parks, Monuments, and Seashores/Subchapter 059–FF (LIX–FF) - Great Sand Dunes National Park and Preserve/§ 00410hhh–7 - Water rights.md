@@ -64,7 +64,7 @@ To the extent that a water right has been established or acquired by the United 
 
 &emsp;(B)
 
-Use.—Except as provided in the memorandum of water service agreement and the water service agreement between the Cabeza de Vaca Land and Cattle Company, LLC, and Baca Grande Water and Sanitation District, dated August 28, 1997, water rights and water resources described in subparagraph (A) shall be restricted for use in—
+Use.—Except as provided in the memorandum of water service agreement and thewater service agreement between the Cabeza de Vaca Land and Cattle Company, LLC, and Baca Grande Water and Sanitation District, dated August 28, 1997, water rights and water resources described in subparagraph (A) shall be restricted for use in—
 
 &emsp;&emsp;(i) the protection of resources and values for the national monument, the national park, the preserve, or the wildlife refuge;
 
@@ -78,7 +78,7 @@ Use.—Except as provided in the memorandum of water service agreement and the w
 
 #### (f) Disposal
 
-The Secretary is authorized to sell the water resources and related appurtenances and fixtures as the Secretary deems necessary to obtain the termination of obligations specified in the memorandum of water service agreement and the water service agreement between theCabeza de Vaca Land and Cattle Company, LLC and the Baca Grande Water and Sanitation District, dated August 28, 1997. Prior to the sale, the Secretary shall determine that the sale is not detrimental to the protection of the resources of Great Sand Dunes National Monument, Great Sand Dunes National Park, and Great Sand Dunes National Preserve, and the Baca National Wildlife Refuge, and that appropriate measures to provide for such protection are included in the sale.
+The Secretary is authorized to sell the water resources and related appurtenances and fixtures as the Secretary deems necessary to obtain the termination of obligations specified in the memorandum of water service agreement and the water service agreement between the Cabeza de Vaca Land and Cattle Company, LLC and the Baca Grande Water and Sanitation District, dated August 28, 1997. Prior to the sale, the Secretary shall determine that the sale is not detrimental to the protection of the resources of Great Sand Dunes National Monument, Great Sand Dunes National Park, and Great Sand Dunes National Preserve, and the Baca National Wildlife Refuge, and that appropriate measures to provide for such protection are included in the sale.
 
 (Pub. L. 106–530, §9, Nov. 22, 2000, 114 Stat. 2533.)
 

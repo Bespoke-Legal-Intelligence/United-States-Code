@@ -6,5 +6,5 @@ Not later than 18 months after November 2, 1994, the Secretary of Transportation
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–287 substituted “November 2, 1994” for “the date of enactment of the Federal Railroad Safety Authorization Act of 1994” and “Committee on Transportation and Infrastructure” for “Committee on Energy and Commerce”.
+<b>1996</b>—Pub. L. 104–287 substituted "November 2, 1994" for "the date of enactment of the Federal Railroad Safety Authorization Act of 1994" and "Committee on Transportation and Infrastructure" for "Committee on Energy and Commerce".
 

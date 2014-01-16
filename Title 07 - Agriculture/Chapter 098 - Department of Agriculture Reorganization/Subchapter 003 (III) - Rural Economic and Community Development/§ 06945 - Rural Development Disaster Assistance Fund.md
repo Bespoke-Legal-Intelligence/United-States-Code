@@ -2,7 +2,7 @@
 
 #### (a) Rural Development Disaster Assistance Fund
 
-On and after September 30, 2008, there is established in the Treasury a fund entitled the “Rural Development Disaster Assistance Fund”.
+On and after September 30, 2008, there is established in the Treasury a fund entitled the "Rural Development Disaster Assistance Fund".
 
 #### (b) Purpose and availability of Fund
 
@@ -14,11 +14,11 @@ The Secretary of Agriculture may waive any limits on population, income, or cost
 
 #### (d) Treatment of certain amounts in Fund
 
-Amounts appropriated directly to the Rural Development Disaster Assistance Fund by this Act or any subsequent Act for a specific purpose shall be available only for that purpose until such time as the transfer authority provided by subsection (f) takes effect with regard to the amounts. Only subsection (c), including the notification requirements of such subsection, and subsections (g) and (i) apply to amounts described in this subsection.
+Amounts appropriated directly to the Rural Development Disaster Assistance Fund by this Act or any subsequent Act for a specific purpose shall be available only for that purpose until such time as the transfer authority provided by subsection (f) takes effect with regard to theamounts. Only subsection (c), including the notification requirements of such subsection, and subsections (g) and (i) apply to amounts described in this subsection.
 
 #### (e) Transfer of prior appropriations to Fund
 
-The Secretary of Agriculture may transfer to the Rural Development Disaster Assistance Fund, and merge with other amounts generally appropriated to the Fund, the available unobligated balance of any amounts that were appropriated before September 30, 2008, for programs and activities of the Rural Development MissionArea to respond to a disaster and were designated by the Congress as an emergency requirement if, in advance of the transfer, the Secretary determines that the unobligated amounts are no longer needed to respond to the disaster for which the amounts were originally appropriated and the Secretary provides a certification of this determination to the Committees on Appropriations of the House of Representatives and the Senate.
+The Secretary of Agriculture may transfer to the Rural Development Disaster Assistance Fund, and merge with other amounts generally appropriated to the Fund, the available unobligated balance of any amounts that were appropriated before September 30, 2008, for programs and activities of the Rural Development Mission Area to respond to a disaster and were designated by the Congress as an emergency requirement if, in advance of the transfer, the Secretary determines that the unobligated amounts are no longer needed to respond to the disaster for which the amounts were originally appropriated and the Secretary provides a certification of this determination to the Committees on Appropriations of the House of Representatives and the Senate.
 
 #### (f) Transfer of other appropriations to Fund
 
@@ -48,5 +48,5 @@ Section was enacted as part of the Disaster Relief and Recovery Supplemental App
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b). Pub. L. 111–80 inserted at end “In carrying out this section, the Secretary may transfer funds into existing or new accounts as determined by the Secretary.”
+<b>2009</b>—Subsec. (b). Pub. L. 111–80 inserted at end "In carrying out this section, the Secretary may transfer funds into existing or new accounts as determined by the Secretary."
 

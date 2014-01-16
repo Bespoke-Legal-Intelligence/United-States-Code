@@ -46,7 +46,7 @@ Limitation.—A civil action under this section may not be commenced later than 
 
 (f)
 
-Administrative Discipline.—If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstancessurrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
+Administrative Discipline.—If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
 
 (g)
 
@@ -56,21 +56,21 @@ Improper Disclosure Is Violation.—Any willful disclosure or use by an investig
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d)(3). Pub. L. 107–296 inserted “or 2511(2)(i)” after “2511(3)”.
+<b>2002</b>—Subsec. (d)(3). Pub. L. 107–296 inserted "or 2511(2)(i)" after "2511(3)".
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–56, §223(a)(1), inserted “, other than the United States,” after “person or entity”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–56, §223(a)(1), inserted ", other than the United States," after "person or entity".
 
 Subsecs. (f), (g). Pub. L. 107–56, §223(a)(2), (3), added subsecs. (f) and (g).
 
-<b>1986</b>—Pub. L. 99–508 amended section generally. Prior to amendment, section read as follows: “Any person whose wire or oral communication is intercepted, disclosed, or used in violation of this chapter shall (1) have a civil cause of action against any person who intercepts, discloses, or uses, or procures any other person to intercept, disclose, or use such communications, and (2) be entitled to recover from any such person—
+<b>1986</b>—Pub. L. 99–508 amended section generally. Prior to amendment, section read as follows: "Any person whose wire or oral communication is intercepted, disclosed, or used in violation of this chapter shall (1) have a civil cause of action against any person who intercepts, discloses, or uses, or procures any other person to intercept, disclose, or use such communications, and (2) be entitled to recover from any such person—
 
-&emsp;“(a) actual damages but not less than liquidated damages computed at the rate of $100 a day for each day of violation or $1,000, whichever is higher;
+&emsp;"(a) actual damages but not less than liquidated damages computed at the rate of $100 a day for each day of violation or $1,000, whichever is higher;
 
-&emsp;“(b) punitive damages; and
+&emsp;"(b) punitive damages; and
 
-&emsp;“(c) a reasonable attorney's fee and other litigation costs reasonably incurred.
+&emsp;"(c) a reasonable attorney's fee and other litigation costs reasonably incurred.
 
-> A good faith reliance on a court order or legislative authorization shall constitute a complete defense to any civil or criminal action brought under this chapter or under any other law.”
+> A good faith reliance on a court order or legislative authorization shall constitute a complete defense to any civil or criminal action brought under this chapter or under any other law."
 
 <b>1970</b>—Pub. L. 91–358 substituted provisions that a good faith reliance on a court order or legislative authorization constitute a complete defense to any civil or criminal action brought under this chapter or under any other law, for provisions that a good faith reliance on a court order or on the provisions of section 2518(7) of this chapter constitute a complete defense to any civil or criminal action brought under this chapter.
 

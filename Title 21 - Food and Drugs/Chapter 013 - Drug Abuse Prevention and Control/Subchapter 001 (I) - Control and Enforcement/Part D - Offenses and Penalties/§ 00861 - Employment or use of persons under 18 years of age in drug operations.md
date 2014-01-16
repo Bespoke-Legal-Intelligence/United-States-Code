@@ -20,7 +20,7 @@ Any person who violates subsection (a) of this section after a prior conviction 
 
 #### (d) Penalty for providing or distributing controlled substance to underage person
 
-Any person who violates subsection (a)(1) or (2) of this section <sup>1</sup>
+Any person who violates subsection (a)(1) or (2) <sup>1</sup>
 
 &emsp;(1) by knowingly providing or distributing a controlled substance or a controlled substance analogue to any person under eighteen years of age; or
 
@@ -36,7 +36,7 @@ In any case of any sentence imposed under this section, imposition or execution 
 
 Except as authorized by this subchapter, it shall be unlawful for any person to knowingly or intentionally provide or distribute any controlled substance to a pregnant individual in violation of any provision of this subchapter. Any person who violates this subsection shall be subject to the provisions of subsections (b), (c), and (e) of this section.
 
-(Pub. L. 91–513, title II, §420, formerly §405B, as added Pub. L. 99–570, title I, §1102, Oct. 27, 1986, 100 Stat. 3207–10; amended Pub. L. 100–690, title VI, §§6452(b)(1), 6459, 6470(d), Nov. 18, 1988, 102 Stat. 4371, 4373, 4378; renumbered §420 and amended Pub. L. 101–647, title X, §§1002(c), 1003(c), title XXXV, §3599L, Nov. 29, 1990, 104 Stat. 4827, 4829, 4932.)
+(Pub. L. 91–513, title II, §420, formerly §405B, as added Pub. L. 99–570, title I, §1102, Oct. 27, 1986,100 Stat. 3207–10; amended Pub. L. 100–690, title VI, §§6452(b)(1), 6459, 6470(d), Nov. 18, 1988, 102 Stat. 4371, 4373, 4378; renumbered §420 and amended Pub. L. 101–647, title X, §§1002(c), 1003(c), title XXXV, §3599L, Nov. 29, 1990, 104 Stat. 4827, 4829, 4932.)
 
 #### References in Text
 
@@ -48,17 +48,17 @@ Section was classified to section 845b of this title prior to renumbering by Pub
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–647, §1003(c)(1), which directed the substitution of “is subject to twice the maximum punishment otherwise authorized” for “is punishable by a term of imprisonment up to twice that authorized, or up to twice the fine authorized, or both,” was executed by making the substitution for “is punishable by a term of imprisonment up to twice that otherwise authorized, or up to twice the fine otherwise authorized, or both,” to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (b). Pub. L. 101–647, §1003(c)(1), which directed the substitution of "is subject to twice the maximum punishment otherwise authorized" for "is punishable by a term of imprisonment up to twice that authorized, or up to twice the fine authorized, or both," was executed by making the substitution for "is punishable by a term of imprisonment up to twice that otherwise authorized, or up to twice the fine otherwise authorized, or both," to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 101–647, §3599L, substituted “has become final” for “have become final”.
+Subsec. (c). Pub. L. 101–647, §3599L, substituted "has become final" for "have become final".
 
-Pub. L. 101–647, §1003(c)(2), which directed the substitution of “is subject to three times the maximum punishment otherwise authorized” for “is punishable by a term of imprisonment up to three times that authorized, or up to three times the fine authorized, or both,” was executed by making the substitution for “is punishable by a term of imprisonment up to three times that otherwise authorized, or up to three times the fine otherwise authorized, or both,” to reflect the probable intent of Congress.
+Pub. L. 101–647, §1003(c)(2), which directed the substitution of "is subject to three times the maximum punishment otherwise authorized" for "is punishable by a term of imprisonment up to three times that authorized, or up to three times the fine authorized, or both," was executed by making the substitution for "is punishable by a term of imprisonment up to three times that otherwise authorized, or up to three times the fine otherwise authorized, or both," to reflect the probable intent of Congress.
 
 <b>1988</b>—Subsec. (a)(3). Pub. L. 100–690, §6459, added par. (3).
 
-Subsec. (c). Pub. L. 100–690, §6452(b)(1), struck out “or convictions” after “a prior conviction” and inserted at end “Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.”
+Subsec. (c). Pub. L. 100–690, §6452(b)(1), struck out "or convictions" after "a prior conviction" and inserted at end "Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title."
 
-Subsec. (e). Pub. L. 100–690, §6470(d), struck out “required by section 841(b) of this title” after “mandatory term of imprisonment”.
+Subsec. (e). Pub. L. 100–690, §6470(d), struck out "required by section 841(b) of this title" after "mandatory term of imprisonment".
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
 

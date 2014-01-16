@@ -2,11 +2,11 @@
 
 #### (a) General rule
 
-Notwithstanding any other provision of this Act, “disparate impact”, as that term is used in section 2000e–2(k) of this title, on the basis of genetic information does not establish a cause of action under this Act.
+Notwithstanding any other provision of this Act, "disparate impact", as that term is used in section 2000e–2(k) of this title, on the basis of genetic information does not establish a cause of action under this Act.
 
 #### (b) Commission
 
-On the date that is 6 years after May 21, 2008, there shall be established a commission, to be known as the Genetic Nondiscrimination Study Commission (referred to in this section as the “Commission”) to review the developing science of genetics and to make recommendations to Congress regarding whether to provide a disparate impact cause of action under this Act.
+On the date that is 6 years after May 21, 2008, there shall be established a commission, to be known as the Genetic Nondiscrimination Study Commission (referred to in this section as the "Commission") to review the developing science of genetics and to make recommendations to Congress regarding whether to provide a disparate impact cause of action under this Act.
 
 #### (c) Membership
 
@@ -46,11 +46,11 @@ On the date that is 6 years after May 21, 2008, there shall be established a com
 
 #### (3) Information from Federal agencies
 
-&emsp;The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section. Upon request of the Commission, the head of such department or agency shall furnish such information to the Commission.
+&emsp;The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section.Upon request of the Commission, the head of such department or agency shall furnish such information to the Commission.
 
 #### (4) Hearings
 
-&emsp;The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out the objectives of this section, except that, tothe extent possible, the Commission shall use existing data and research.
+&emsp;The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out the objectives of this section, except that, to the extent possible, the Commission shall use existing data and research.
 
 #### (5) Postal services
 

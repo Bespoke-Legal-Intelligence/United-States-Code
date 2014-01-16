@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title11",
- "package": "USCODE-2012-title11",
+ "package": "USCODE-2013-title11",
  "pieces": [
   {
    "id": "11_",
@@ -2594,7 +2594,7 @@
   {
    "id": "11_705",
    "marks": [],
-   "path": "Chapter 007 - Liquidation/Subchapter 001 (I) - Officers and Administration/§ 00705 - Creditors’ committee.md",
+   "path": "Chapter 007 - Liquidation/Subchapter 001 (I) - Officers and Administration/§ 00705 - Creditors' committee.md",
    "printed_pages": [
     185,
     185
@@ -3601,7 +3601,7 @@
      true
     ]
    ],
-   "path": "Chapter 011 - Reorganization/Subchapter 001 (I) - Officers and Administration/§ 01102 - Creditors’ and equity security holders’ committees.md",
+   "path": "Chapter 011 - Reorganization/Subchapter 001 (I) - Officers and Administration/§ 01102 - Creditors' and equity security holders' committees.md",
    "printed_pages": [
     229,
     230
@@ -5473,6 +5473,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2012-title11 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2013-title11 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 11 - Bankruptcy"
 }

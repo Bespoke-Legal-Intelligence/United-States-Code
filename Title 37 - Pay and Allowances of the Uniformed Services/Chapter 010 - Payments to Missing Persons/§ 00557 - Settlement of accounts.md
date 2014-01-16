@@ -42,11 +42,11 @@ Mar. 7, 1942, ch. 166, §9(a) (5th and last sentences); added July 1, 1944, ch. 
 
 Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
 
-In subsection (a), the words “Secretary concerned, or his designee,” are substituted for “head of the department concerned, or such person as he may designate,”. The words “a member of a uniformed service” are substituted for “persons”. The words “United States” are substituted for “Government”.
+In subsection (a), the words "Secretary concerned, or his designee," are substituted for "head of the department concerned, or such person as he may designate,". The words "a member of a uniformed service" are substituted for "persons". The words "United States" are substituted for "Government".
 
-In subsection (c), the words “in carrying out this chapter, except section 558” are substituted for “in carrying out the provisions of this Act, except sections 13, 16, 17, and 18”, since sections 16 and 17 are scheduled for repeal (see Table II) and section 18 was previously repealed. The words “under this chapter, except section 558” are substituted for “under such provisions” for the reasons stated in the preceding sentence.
+In subsection (c), the words "in carrying out this chapter, except section 558" are substituted for "in carrying out the provisions of this Act, except sections 13, 16, 17, and 18", since sections 16 and 17 are scheduled for repeal (see Table II) and section 18 was previously repealed. The words "under this chapter, except section 558" are substituted for "under such provisions" for the reasons stated in the preceding sentence.
 
 #### Amendments
 
-<b>1985</b>—Subsec. (c). Pub. L. 99–145 inserted “of this title” after “558” in two places.
+<b>1985</b>—Subsec. (c). Pub. L. 99–145 inserted "of this title" after "558" in two places.
 

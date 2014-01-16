@@ -50,5 +50,5 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be section “285a–2(b)(9)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be section "285a–2(b)(9)".</i>
 

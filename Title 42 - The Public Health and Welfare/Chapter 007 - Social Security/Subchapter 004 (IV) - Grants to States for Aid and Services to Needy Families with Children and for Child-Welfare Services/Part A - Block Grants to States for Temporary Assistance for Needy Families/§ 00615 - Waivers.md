@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), if any waiver granted to a State under section 1315 of this title or otherwise which relates to the provision of assistance under a State plan under this part (as in effect on September 30, 1996) is submitted to the Secretary before August 22, 1996, and approved by the Secretary on or before July 1, 1997, and the State demonstrates to the satisfaction of the Secretary that the waiver will not result in Federal expenditures under subchapter IV of this chapter (as in effect without regard to the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996) that are greater than would occur in the absence of the waiver, the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (other than by section 103(c) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996) shall not apply with respect to the State before the expiration (determined without regard to any extensions) of the waiver to the extent the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 are inconsistent with the waiver.
+&emsp;&emsp;Except as provided in subparagraph (B), if any waiver granted to a State under section 1315 of this title or otherwise which relates to the provision of assistance under a State plan under this part (as in effect on September 30, 1996) is submitted to the Secretary before August 22, 1996, and approved by the Secretary on or before July 1, 1997, and the State demonstrates to the satisfaction of the Secretary that the waiver will not result in Federal expenditures under subchapter IV of this chapter (as in effect without regard to the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996) that are greater than would occur in the absence of the waiver, the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (other than by section 103(c) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996) shall not apply with respect to the State before the expiration (determinedwithout regard to any extensions) of the waiver to the extent the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 are inconsistent with the waiver.
 
 #### (B) No effect on new work requirements
 
@@ -54,7 +54,7 @@ A State may elect to continue 1 or more individual waivers described in subsecti
 
 #### References in Text
 
-The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec.\(a)(1)(A), (2)(A), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Section 103(c) of the Act amended sections 602 and 603 of this title. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of this title and Tables.
+The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(1)(A), (2)(A), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Section 103(c) of the Act amended sections 602 and 603 of this title. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of this title and Tables.
 
 #### Prior Provisions
 

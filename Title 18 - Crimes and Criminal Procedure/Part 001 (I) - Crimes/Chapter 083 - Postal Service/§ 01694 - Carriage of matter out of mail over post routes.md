@@ -1,6 +1,6 @@
 ### §1694. Carriage of matter out of mail over post routes
 
-Whoever, having charge or control of any conveyance operating by land, air, or water, which regularly performs trips at stated periods on any post route, or from one place to another between which the mail is regularly carried, carries, otherwise than in the mail, any letters or packets, except such as relate to some part of the cargo of such conveyance, or to the current business of the carrier, or to some article carried at the same time by the same conveyance, shall, except as otherwise provided by law, be fined under this title.
+Whoever, having charge or control of any conveyance operating by land, air, or water, whichregularly performs trips at stated periods on any post route, or from one place to another between which the mail is regularly carried, carries, otherwise than in the mail, any letters or packets, except such as relate to some part of the cargo of such conveyance, or to the current business of the carrier, or to some article carried at the same time by the same conveyance, shall, except as otherwise provided by law, be fined under this title.
 
 (June 25, 1948, ch. 645, 62 Stat. 776; Pub. L. 103–322, title XXXIII, §330016(1)(A), Sept. 13, 1994, 108 Stat. 2146.)
 
@@ -8,13 +8,13 @@ Whoever, having charge or control of any conveyance operating by land, air, or w
 
 Based on title 18, U.S.C., 1940 ed., §307 (Mar. 4, 1909, ch. 321, §184, 35 Stat. 1124).
 
-Words “by land, air, or water” were substituted for “stagecoach, railway car, steamboat” with necessary minor changes in phraseology.
+Words "by land, air, or water" were substituted for "stagecoach, railway car, steamboat" with necessary minor changes in phraseology.
 
 Enumeration of persons having charge was omitted as unnecessary.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $50”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $50".
 
 #### Study of Private Carriage of Mail; Reports to President and Congress
 

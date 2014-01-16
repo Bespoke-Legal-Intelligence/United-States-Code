@@ -6,5 +6,5 @@ The Director, with the advice of the Museum and Library Services Board, may annu
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–340 amended section catchline and text generally. Prior to amendment, text read as follows: “The Director, with the advice of the Museum and Library Services Board, may annually award National Awards for Library Service and National Awards for Museum Service to outstanding libraries and outstanding museums, respectively, that have made significant contributions in service to their communities.”
+<b>2010</b>—Pub. L. 111–340 amended section catchline and text generally. Prior to amendment, text read as follows: "The Director, with the advice of the Museum and Library Services Board, may annually award National Awards for Library Service and National Awards for Museum Service to outstanding libraries and outstanding museums, respectively, that have made significant contributions in service to their communities."
 

@@ -34,31 +34,31 @@ The following costs are not allowable under a covered contract:
 
 &emsp;(B) Costs for transportation, lodging, or meals incurred for the purpose of providing such information or advice.
 
-#### (c) “Covered contract” defined
+#### (c) "Covered contract" defined
 
-In this section, “covered contract” means a contract for an amount more than $100,000 entered into by the Secretary of Energy obligating funds appropriated for national security programs of the Department of Energy.
+In this section, "covered contract" means a contract for an amount more than $100,000 entered into by the Secretary of Energy obligating funds appropriated for national security programs of the Department of Energy.
 
 #### (d) Effective date
 
 Subsection (a) shall apply with respect to costs incurred under a covered contract on or after 30 days after the regulations required by subsection (b) are issued.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4801, formerly Pub. L. 99–145, title XV, §1534, Nov. 8, 1985, 99 Stat. 774; Pub. L. 100–180, div. C, title I, §3131(a), Dec. 4, 1987, 101 Stat. 1238; renumbered Pub. L. 107–314, div. D, title XLVIII, §4801, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(2), Nov. 24, 2003, 117 Stat. 1783.)
+(Pub. L. 107–314, div. D, title XLVIII, §4801, formerly Pub. L. 99–145, title XV, §1534, Nov. 8, 1985, 99 Stat. 774; Pub. L. 100–180, div. C, title I, §3131(a), Dec. 4, 1987, 101 Stat. 1238; renumbered Pub. L. 107–314, div. D, title XLVIII, §4801, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(2), Nov. 24, 2003, 117 Stat. 1783; Pub. L. 113–66, div. C, title XXXI, §3146(i)(1), Dec. 26, 2013, 127 Stat. 1081.)
 
 #### Codification
-
-In subsec. (b)(1), “section 1707 of title 41” substituted for “section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was formerly classified to section 7256a of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
 
+<b>2013</b>—Subsec. (b)(1). Pub. L. 113–66 substituted "section 1707 of title 41" for "section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b)".
+
 <b>2003</b>—Pub. L. 108–136, §3141(k)(2)(D)(i), made technical amendment to section catchline.
 
-Subsec. (b)(1). Pub. L. 108–136, §3141(k)(2)(D)(ii), substituted “November 8, 1985,” for “the date of the enactment of this Act,” in the original, which for purposes of codification had been changed to “November 8, 1985,” thus requiring no change in text.
+Subsec. (b)(1). Pub. L. 108–136, §3141(k)(2)(D)(ii), substituted "November 8, 1985," for "the date of the enactment of this Act," in the original, which for purposes of codification had been changed to "November 8, 1985," thus requiring no change in text.
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–180 designated existing provisions as par. (1) and added par. (2).
 
 #### Regulations
 
-Pub. L. 100–180, div. C, title I, §3131(b), Dec. 4, 1987, 101 Stat. 1239, provided that: “Regulations to implement paragraph (2) of section 1534(b) of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1986 (as added by subsection (a)) \[50 U.S.C. 2781(b)(2)\] shall be prescribed not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\]. Such regulations shall apply as if included in the original regulations prescribed under such section.”
+Pub. L. 100–180, div. C, title I, §3131(b), Dec. 4, 1987, 101 Stat. 1239, provided that: "Regulations to implement paragraph (2) of section 1534(b) of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1986 (as added by subsection (a)) \[50 U.S.C. 2781(b)(2)\] shall be prescribed not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\]. Such regulations shall apply as if included in the original regulations prescribed under such section."
 

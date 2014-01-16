@@ -6,11 +6,11 @@ In this section, the following definitions apply:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Environmental Protection Agency.
+&emsp;The term "Administrator" means the Administrator of the Environmental Protection Agency.
 
 #### (2) Alternative fuel
 
-&emsp;The term “alternative fuel” means—
+&emsp;The term "alternative fuel" means—
 
 &emsp;&emsp;(A) liquefied natural gas, compressed natural gas, liquefied petroleum gas, hydrogen, or propane;
 
@@ -20,7 +20,7 @@ In this section, the following definitions apply:
 
 #### (3) Clean school bus
 
-&emsp;The term “clean school bus” means a school bus with a gross vehicle weight of greater than 14,000 pounds that—
+&emsp;The term "clean school bus" means a school bus with a gross vehicle weight of greater than 14,000 pounds that—
 
 &emsp;&emsp;(A) is powered by a heavy duty engine; and
 
@@ -30,7 +30,7 @@ In this section, the following definitions apply:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term “eligible recipient” means—
+&emsp;&emsp;Subject to subparagraph (B), the term "eligible recipient" means—
 
 &emsp;&emsp;&emsp;(i) one or more local or State governmental entities responsible for providing school bus service to one or more public school systems or the purchase of school buses;
 
@@ -44,15 +44,15 @@ In this section, the following definitions apply:
 
 #### (5) Retrofit technology
 
-&emsp;The term “retrofit technology” means a particulate filter or other emissions control equipment that is verified or certified by the Administrator or the California Air Resources Board as an effective emission reduction technology when installed on an existing school bus.
+&emsp;The term "retrofit technology" means a particulate filter or other emissions control equipment that is verified or certified by the Administrator or the California Air Resources Board as an effective emission reduction technology when installed on an existing school bus.
 
 #### (6) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Energy.
+&emsp;The term "Secretary" means the Secretary of Energy.
 
 #### (7) Ultra-low sulfur diesel fuel
 
-&emsp;The term “ultra-low sulfur diesel fuel” means diesel fuel that contains sulfur at not more than 15 parts per million.
+&emsp;The term "ultra-low sulfur diesel fuel" means diesel fuel that contains sulfur at not more than 15 parts per million.
 
 #### (b) Program for retrofit or replacement of certain existing school buses with clean school buses
 
@@ -128,7 +128,7 @@ In this section, the following definitions apply:
 
 &emsp;&emsp;In the case of a grant recipient receiving a grant for the acquisition of ultra-low sulfur diesel fuel school buses with engines manufactured in model year 2005 or 2006, the grant recipient shall provide, to the satisfaction of the Administrator—
 
-&emsp;&emsp;&emsp;(i) documentation that diesel fuel containing sulfur at not more than 15 partsper million is available for carrying out the purposes of the grant; and
+&emsp;&emsp;&emsp;(i) documentation that diesel fuel containing sulfur at not more than 15 parts per million is available for carrying out the purposes of the grant; and
 
 &emsp;&emsp;&emsp;(ii) a commitment by the applicant to use that fuel in carrying out the purposes of the grant.
 
@@ -200,7 +200,7 @@ Section was enacted as part of the Safe, Accountable, Flexible, Efficient Transp
 
 <i><sup>1</sup></i><i> This section is substantially identical to section 16091 of this title.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “achieve” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "achieve" probably should not appear.</i>
 
 <i><sup>3</sup></i><i> So in original. No subpar. (B) was enacted.</i>
 

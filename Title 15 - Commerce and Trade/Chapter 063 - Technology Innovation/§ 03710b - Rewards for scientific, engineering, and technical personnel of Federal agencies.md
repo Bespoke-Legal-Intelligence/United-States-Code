@@ -10,7 +10,7 @@ The head of each Federal agency that is making expenditures at a rate of more th
 
 #### Amendments
 
-<b>1988</b>—Par. (1). Pub. L. 100–519 inserted “computer software,” after “inventions, innovations,”.
+<b>1988</b>—Par. (1). Pub. L. 100–519 inserted "computer software," after "inventions, innovations,".
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted “command” for “commmand”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted "command" for "commmand".
 

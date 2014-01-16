@@ -8,15 +8,15 @@
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this title”, meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 288 of this title and Tables.
+This subchapter, referred to in text, was in the original "this title", meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 288 of this title and Tables.
 
 #### Amendments
 
 <b>2007</b>—Pub. L. 109–472 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>2004</b>—Pub. L. 108–447 and Pub. L. 108–497 amended section identically, substituting “African Union” for “Organization of African Unity”.
+<b>2004</b>—Pub. L. 108–447 and Pub. L. 108–497 amended section identically, substituting "African Union" for "Organization of African Unity".
 
-<b>1998</b>—Pub. L. 105–277 inserted “and the United Nations Industrial Development Organization” after “International Labor Organization”.
+<b>1998</b>—Pub. L. 105–277 inserted "and the United Nations Industrial Development Organization" after "International Labor Organization".
 
 <b>1979</b>—Pub. L. 96–60 authorized continuation of extension of privileges and immunities provisions to International Labor Organization.
 
@@ -28,7 +28,7 @@ For executive orders designating certain international organizations as public i
 
 Ex. Ord. No. 13444, Sept. 12, 2007, 72 F.R. 52747, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7(a)(2) of the Department of State Authorities Act of 2006 (Public Law 109–472), I hereby extend to the African Union Mission to the United States of America, and to its members, the privileges and immunities enjoyed by diplomatic missions accredited to the United States, and by members of such missions, subject to corresponding conditions and obligations.
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 7(a)(2) of the Department of State Authorities Act of 2006 (Public Law 109–472), I hereby extend to the African Union Mission to the United States of America, and to its members, the privileges and immunities enjoyed by diplomatic missions accredited to the United States, and by members of such missions, subject to corresponding conditions and obligations.
 
 This extension of privileges and immunities is not intended to abridge in any respect privileges and immunities that the African Union Mission to the United States of America and its members otherwise may have acquired or may acquire by law.
 

@@ -12,7 +12,7 @@
 
 &emsp;(4) to advise the Secretary with respect to education and training activities required for effective short- and long-term basic and applied research activities of the Department;
 
-&emsp;(5) to advise the Secretary with respect to grants and other forms of financial assistancerequired for effective short- and long-term basic and applied research activities of the Department; and
+&emsp;(5) to advise the Secretary with respect to grants and other forms of financial assistance required for effective short- and long-term basic and applied research activities of the Department; and
 
 &emsp;(6) to carry out such additional duties assigned to the Office by the Secretary.
 
@@ -20,7 +20,7 @@
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(6). Pub. L. 109–58 added par. (6) and struck out former par. (6) which read as follows: “to carry out such additional duties assigned to the Office by the Secretary relating to basic and applied research, including but not limited to supervision or support of research activities carried out by any of the Assistant Secretaries designated by section 7133 of this title, as the Secretary considers advantageous.”
+<b>2005</b>—Subsec. (b)(6). Pub. L. 109–58 added par. (6) and struck out former par. (6) which read as follows: "to carry out such additional duties assigned to the Office by the Secretary relating to basic and applied research, including but not limited to supervision or support of research activities carried out by any of the Assistant Secretaries designated by section 7133 of this title, as the Secretary considers advantageous."
 
-<b>1998</b>—Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research” in section catchline and in subsec. (a).
+<b>1998</b>—Pub. L. 105–245 substituted "Office of Science" for "Office of Energy Research" in section catchline and in subsec. (a).
 

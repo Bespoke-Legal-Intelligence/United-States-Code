@@ -2,7 +2,7 @@
 
 #### (a) Purposes of trust funds
 
-All funds paid pursuant to section 941c of this title, except for payments made pursuant to section 941d(g) of this title, shall be deposited with the Secretary in trust for the benefit of the Tribe. Separate trust funds shall be establishedfor the following purposes: economic development, land acquisition, education, social services and elderly assistance, and per capita payments. Except as provided in this section, the Tribe, in consultation with the Secretary, shall determine the share of settlement payments to be deposited in each Trust Fund, and define, consistently with the provisions of this section, the purposes of each Trust Fund and provisions for administering each, specifically including provisions for periodic distribution of current and accumulated income, and for invasion and restoration of principal.
+All funds paid pursuant to section 941c of this title, except for payments made pursuant to section 941d(g) of this title, shall be deposited with the Secretary in trust for the benefit of the Tribe. Separate trust funds shall be established for the following purposes: economic development, land acquisition, education, social services and elderly assistance, and per capita payments. Except as provided in this section, the Tribe, in consultation with the Secretary, shall determine the share of settlement payments to be deposited in each Trust Fund, and define, consistently with the provisions of this section, the purposes of each Trust Fund and provisions for administering each, specifically including provisions for periodic distribution of current and accumulated income, and for invasion and restoration of principal.
 
 #### (b) Outside management option
 
@@ -82,7 +82,7 @@ The Secretary shall establish and maintain a Catawba Education Trust Fund, and u
 
 (4)(A) Subject to the provisions of this paragraph, each enrolled member <sup>1</sup> who has reached the age of 21 years on the date the final roll is published shall receive the payment on the date of distribution, which shall be as soon as practicable after date of publication of the final base membership roll. Adult Members shall be paid their pro rata share of this Trust Fund on the date of distribution unless they elect in writing to leave their pro rata share in the Trust Fund, in which case such share shall not be distributed.
 
-(B) The pro rata share of adult Members who elect not to withdraw their payment from this Trust Fund shall be managed, invested and administered, together with the funds of Memberswho have not attained the age of 21 years on the date the final base membership roll is published, until such Member requests in writing that their pro rata share be distributed, at which time such Member's pro rata share shall be paid, together with the net income of the Trust Fund allocable to such Member's share as of the date of distribution.
+(B) The pro rata share of adult Members who elect not to withdraw their payment from this Trust Fund shall be managed, invested and administered, together with the funds of Members who have not attained the age of 21 years on the date the final base membership roll is published, until such Member requests in writing that their pro rata share be distributed, at which time such Member's pro rata share shall be paid, together with the net income of the Trust Fund allocable to such Member's share as of the date of distribution.
 
 (C) No member <sup>1</sup> may elect to have their pro rata share managed by this Trust Fund for a period of more than 21 years after the date of publication of the final base membership roll.
 
@@ -104,7 +104,7 @@ The Tribe, in consultation with the Secretary, shall have the authority to trans
 
 &emsp;(1) Funds may be transferred among the Catawba Economic Development Trust Fund, the Catawba Land Acquisition Trust Fund, and the Catawba Social Services and Elderly Assistance Trust Fund, and from any of those three Trust Funds into the Catawba Education Trust Fund; except, that the mandatory share of State, local, and private sector funds invested in the original corpus of the Catawba Education Trust Fund shall not be transferred to any other Trust Fund.
 
-&emsp;(2) Any Trust Fund, except for the Catawba Education Trust Fund, may be dissolved by a vote of two-thirds of those Members eligible to vote, and the assets in such Trust Fund shall be transferred to the remaining Trust Funds; except, that (A) no assets shall be transferred from any of the Trust Funds into the Catawba Per Capita Payment Trust Fund, and (B) the mandatory share of State, local and private funds invested in the original corpus of the Catawba Education Trust Fund may not be transferred or used for any non-educational purposes.
+&emsp;(2) Any Trust Fund, except for the Catawba Education Trust Fund, may be dissolved by a vote of two-thirds of those Members eligible to vote, and the assets in such Trust Fund shallbe transferred to the remaining Trust Funds; except, that (A) no assets shall be transferred from any of the Trust Funds into the Catawba Per Capita Payment Trust Fund, and (B) the mandatory share of State, local and private funds invested in the original corpus of the Catawba Education Trust Fund may not be transferred or used for any non-educational purposes.
 
 &emsp;(3) The dissolution of any Trust Fund shall require the approval of the Secretary pursuant to the Secretarial approval provisions set forth in subsection (b)(5)(D) of this section.
 
@@ -132,7 +132,7 @@ The Tribe, in consultation with the Secretary, shall have the authority to trans
 
 (B) Prior to distributing principal from any Trust Fund, the investment management firm shall notify the Secretary of the proposed distribution and the Tribe's proposed use of such funds, following procedures to be agreed upon by the investment management firm, the Secretary, and the Tribe. The Secretary shall have 15 days within which to object in writing to any such invasion of principal. Failure to object will be deemed approval of the distribution.
 
-(C) All Trust Funds held and managed by any investment management firm shall be audited annually by a certified public accounting firm approved by the Secretary, and a copy of the annual audit shall be submitted to the Tribe and to the Secretary within four months following the close of the Trust Funds’ fiscal year.
+(C) All Trust Funds held and managed by any investment management firm shall be audited annually by a certified public accounting firm approved by the Secretary, and a copy of the annual audit shall be submitted to the Tribe and to the Secretary within four months following the close of the Trust Funds' fiscal year.
 
 #### (l) Replacement of investment management firm and modification of investment management plan
 

@@ -14,7 +14,7 @@ Nothing in this subchapter supersedes or amends any Federal law associated with 
 
 #### (d) Interagency coordination
 
-The Secretary shall coordinate the Program carried out under this subchapter with existing Federal and State rural water and wastewater programs to facilitate the most efficient and effective solution to meeting the water needs of the non-Federal project sponsors.
+The Secretary shall coordinate the Program carried out under this subchapter with existing Federal and State rural water and wastewaterprograms to facilitate the most efficient and effective solution to meeting the water needs of the non-Federal project sponsors.
 
 #### (e) Multiple Indian tribes
 
@@ -44,5 +44,5 @@ Nothing in this subchapter requires a feasibility study for, or imposes any othe
 
 (Pub. L. 109–451, title I, §107, Dec. 22, 2006, 120 Stat. 3355.)
 
-<i><sup>1</sup></i><i> So in original. The comma probably should follow “to”.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should follow "to".</i>
 

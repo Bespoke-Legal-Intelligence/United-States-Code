@@ -10,5 +10,5 @@ This provision is desirable because many enlisted men and low-ranking officers m
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–348 substituted “rate” for “rating”.
+<b>1986</b>—Pub. L. 99–348 substituted "rate" for "rating".
 

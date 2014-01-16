@@ -44,7 +44,7 @@ The NBIC shall detect, as early as possible, a biological event of national conc
 
 &emsp;&emsp;(C) receive and consider other relevant homeland security information, as appropriate; and
 
-&emsp;&emsp;(D) provide technical assistance, as appropriate, to all Federal, regional, State, local, and tribal government entities and private sector entities that contribute data relevant to the operation of the NBIC.
+&emsp;&emsp;(D) provide technical assistance, as appropriate, to all Federal, regional, State, local,and tribal government entities and private sector entities that contribute data relevant to the operation of the NBIC.
 
 #### (2) Assessments
 
@@ -78,7 +78,7 @@ The NBIC shall detect, as early as possible, a biological event of national conc
 
 &emsp;Each Member Agency shall—
 
-&emsp;&emsp;(A) use its best efforts to integrate biosurveillance information into the NBIC, with the goal of promoting information sharing between Federal, State, local, andtribal governments to detect biological events of national concern;
+&emsp;&emsp;(A) use its best efforts to integrate biosurveillance information into the NBIC, with the goal of promoting information sharing between Federal, State, local, and tribal governments to detect biological events of national concern;
 
 &emsp;&emsp;(B) provide timely information to assist the NBIC in maintaining biological situational awareness for accurate detection and response purposes;
 

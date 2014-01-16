@@ -18,7 +18,7 @@ SIPC shall by bylaw prescribe the manner in which a member of SIPC may display a
 
 #### (e) SIPC exempt from taxation
 
-SIPC, its property, its franchise, capital, reserves, surplus, and its income, shall be exempt from all taxation now or hereafter imposed by the United States or by any State or local taxing authority, except that any real property and any tangible personal property (other than cash and securities) of SIPC shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed. Assessments made upon a member of SIPC shall constitute ordinary and necessary expenses in carrying on the business of such member for the purpose of section 162(a) of title 26. The contribution and transfer to SIPC of funds or securities held by any trust established by a national securities exchange prior to January 1, 1970, for the purpose of providing assistance to customers of members of such exchange, shall not result in any taxable gain to such trust or give rise to any taxable income to any member of SIPC under any provision of title 26, nor shall such contribution or transfer, or any reduction in assessments made pursuant to this chapter, in any way affect the status, as ordinary and necessary expenses under section162(a) of title 26, of any contributions made to such trust by such exchange at any time prior to such transfer. Upon dissolution of SIPC, none of its net assets shall inure to the benefit of any of its members.
+SIPC, its property, its franchise, capital, reserves, surplus, and its income, shall be exempt from all taxation now or hereafter imposed by the United States or by any State or local taxing authority, except that any real property and any tangible personal property (other than cash and securities) of SIPC shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed. Assessments made upon a member of SIPC shall constitute ordinary and necessary expenses in carrying on the businessof such member for the purpose of section 162(a) of title 26. The contribution and transfer to SIPC of funds or securities held by any trust established by a national securities exchange prior to January 1, 1970, for the purpose of providing assistance to customers of members of such exchange, shall not result in any taxable gain to such trust or give rise to any taxable income to any member of SIPC under any provision of title 26, nor shall such contribution or transfer, or any reduction in assessments made pursuant to this chapter, in any way affect the status, as ordinary and necessary expenses under section 162(a) of title 26, of any contributions made to such trust by such exchange at any time prior to such transfer. Upon dissolution of SIPC, none of its net assets shall inure to the benefit of any of its members.
 
 #### (f) Section 78t(a) of this title not to apply
 
@@ -32,15 +32,15 @@ Not later than twelve months after December 30, 1970, the Commission shall compi
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (f), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsecs. (a) to (f), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing, which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–283, §14(c), redesignated subsec. (c) as (b). Former subsec. (b), relating to application of securities investor protection provisions to foreign members, was struck out.
 
-Subsec. (c). Pub. L. 95–283, §14(a), (c), redesignated subsec. (d) as (c) and inserted “, officers, or employees” after “Directors” in heading and text. Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 95–283, §14(a), (c), redesignated subsec. (d) as (c) and inserted ", officers, or employees" after "Directors" in heading and text. Former subsec. (c) redesignated (b).
 
 Subsec. (d). Pub. L. 95–283, §14(b), (c), redesignated subsec. (e) as (d), inserted provisions authorizing SIPC to prescribe necessary and proper minimal requirements for providing public notice of membership by a member of SIPC in SIPC, and struck out provisions authorizing rules by SIPC to implement advertising requirements. Former subsec. (d) redesignated (c).
 

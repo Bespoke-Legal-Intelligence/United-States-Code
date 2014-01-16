@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of the Institute shall make awards of grants or contracts to designated biomedical and behavioral research institutions under paragraph (1) of subsection (c) of this section, or to consortia under paragraph (2) of such subsection, for the purpose of assisting the institutions in supporting programs of excellence in biomedical and behavioral research training for individuals who are members of minority health disparity populations or other health disparity populations.
+The Director of the Institute shall make awards of grants or contracts to designated biomedical and behavioral research institutions under paragraph (1) of subsection (c) of this section, or to consortia under paragraph (2) of such subsection, for the purpose of assisting the institutions in supporting programs of excellence in biomedical and behavioral research training forindividuals who are members of minority health disparity populations or other health disparity populations.
 
 #### (b) Required use of funds
 
@@ -50,15 +50,15 @@ The period during which payments are made under a grant under subsection (a) of 
 
 #### (f) Certain expenditures
 
-The Director of the Institute may authorize a designated biomedical and behavioral researchinstitution to expend a portion of an award under subsection (a) of this section for research endowments.
+The Director of the Institute may authorize a designated biomedical and behavioral research institution to expend a portion of an award under subsection (a) of this section for research endowments.
 
 #### (g) Definitions
 
 For purposes of this section:
 
-&emsp;(1) The term “designated biomedical and behavioral research institution” has the meaning indicated for such term in subsection (c)(1) of this section. Such term includes any health professions school receiving an award of a grant or contract under section 293 of this title.
+&emsp;(1) The term "designated biomedical and behavioral research institution" has the meaning indicated for such term in subsection (c)(1) of this section. Such term includes any health professions school receiving an award of a grant or contract under section 293 of this title.
 
-&emsp;(2) The term “program of excellence” means any program carried out by a designated biomedical and behavioral research institution with an award under subsection (a) of this section, if the program is for purposes for which the institution involved is authorized in subsection (b) of this section to expend the grant.
+&emsp;(2) The term "program of excellence" means any program carried out by a designated biomedical and behavioral research institution with an award under subsection (a) of this section, if the program is for purposes for which the institution involved is authorized in subsection (b) of this section to expend the grant.
 
 (July 1, 1944, ch. 373, title IV, §464z–4, formerly §485F, as added Pub. L. 106–525, title I, §102, Nov. 22, 2000, 114 Stat. 2501; amended Pub. L. 109–482, title I, §103(b)(45), Jan. 15, 2007, 120 Stat. 3688; renumbered §464z–4 and amended Pub. L. 111–148, title X, §10334(c)(1)(D)(i), (iii), Mar. 23, 2010, 124 Stat. 973.)
 
@@ -68,9 +68,9 @@ Section was formerly classified to section 287c–32 of this title prior to renu
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a), (c)(3) to (f). Pub. L. 111–148, §10334(c)(1)(D)(iii), substituted “Institute” for “Center” wherever appearing.
+<b>2010</b>—Subsecs. (a), (c)(3) to (f). Pub. L. 111–148, §10334(c)(1)(D)(iii), substituted "Institute" for "Center" wherever appearing.
 
-<b>2007</b>—Subsec. (h). Pub. L. 109–482 struck out heading and text of subsec. (h). Text read as follows: “For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.”
+<b>2007</b>—Subsec. (h). Pub. L. 109–482 struck out heading and text of subsec. (h). Text read as follows: "For the purpose of making grants under subsection (a) of thissection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005."
 
 #### Effective Date of 2007 Amendment
 

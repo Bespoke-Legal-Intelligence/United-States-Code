@@ -14,7 +14,7 @@ The Commission shall insure that the management of any byproduct material, as de
 
 In carrying out its authority under this section, the Commission is authorized to—
 
-&emsp;(1) by rule, regulation, or order require persons, officers, or instrumentalities exempted from licensing under section 2111 of this title to conduct monitoring, perform remedial work, and to comply with such other measures as it may deem necessary or desirable to protect health or to minimize danger to life or property, and in connection with the disposal or storage of such byproduct material; and
+&emsp;(1) by rule, regulation, or order require persons, officers, or instrumentalities exempted from licensing under section 2111 of this title to conduct monitoring, perform remedial work, and to comply with such other measuresas it may deem necessary or desirable to protect health or to minimize danger to life or property, and in connection with the disposal or storage of such byproduct material; and
 
 &emsp;(2) make such studies and inspections and to conduct such monitoring as may be necessary.
 
@@ -30,9 +30,11 @@ In the case of sites at which ores are processed primarily for their source mate
 
 The Solid Waste Disposal Act, as amended, referred to in subsec. (a)(3), is title II of Pub. L. 89–272, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
+This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
 #### Amendments
 
-<b>1983</b>—Subsec. (a)(1). Pub. L. 97–415, §22(a), inserted provision that the Commission is to take into accountthe risk to the public health, safety, and the environment, with due consideration of the economic costs and such other factors as the Commission determines to be appropriate.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 97–415, §22(a), inserted provision that the Commission is to take into account the risk to the public health, safety, and the environment, with due consideration of the economic costs and such other factors as the Commission determines to be appropriate.
 
 Subsec. (c). Pub. L. 97–415, §20, added subsec. (c).
 

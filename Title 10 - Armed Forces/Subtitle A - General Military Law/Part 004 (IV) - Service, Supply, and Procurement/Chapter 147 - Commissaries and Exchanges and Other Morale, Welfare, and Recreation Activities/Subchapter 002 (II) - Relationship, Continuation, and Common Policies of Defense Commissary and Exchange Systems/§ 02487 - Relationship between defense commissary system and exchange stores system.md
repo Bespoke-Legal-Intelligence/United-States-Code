@@ -14,13 +14,13 @@ Separate Operation of Systems.—(1) Except as provided in paragraph (2), the de
 
 Consolidation or Other Organizational Changes of Defense Retail Systems.—(1) The operation and administration of the defense retail systems may not be consolidated or otherwise merged unless the consolidation or merger is specifically authorized by an Act of Congress.
 
-(2) In this subsection, the term “defense retail systems” means the defense commissary system and exchange stores system and other revenue-generating facilities operated by nonappropriated fund instrumentalities of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
+(2) In this subsection, the term "defense retail systems" means the defense commissary system and exchange stores system and other revenue-generating facilities operated by nonappropriated fund instrumentalities of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
 
 (c)
 
 Access of Exchange Stores System to Federal Financing Bank.—To facilitate the provision of in-store credit to patrons of the exchange stores system while reducing the costs of providing such credit, the Army and Air Force Exchange Service, Navy Exchange Service Command, and Marine Corps exchanges may issue and sell their obligations to the Federal Financing Bank as provided in section 6 of the Federal Financing Bank Act of 1973 (12 U.S.C. 2285).
 
-(Added Pub. L. 108–375, div. A, title VI, §651(b)(1), Oct. 28, 2004, 118 Stat. 1971; amended Pub. L. 112–81, div. A, title VI, §642, Dec. 31, 2011, 125 Stat. 1466.)
+(Added Pub. L. 108–375, div. A, title VI, §651(b)(1), Oct. 28, 2004, 118 Stat. 1971; amended Pub. L.112–81, div. A, title VI, §642, Dec. 31, 2011, 125 Stat. 1466.)
 
 #### Prior Provisions
 

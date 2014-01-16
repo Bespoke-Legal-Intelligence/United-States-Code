@@ -21,7 +21,7 @@
 | [<b>15.</b>](Chapter%20015%20-%20Flood%20Control/README.md) | <b>Flood Control</b> | <b>701</b> |
 | [<b>16.</b>](Chapter%20016%20-%20Lighthouses/README.md) | <b>Lighthouses</b> | <b>711</b> |
 | [<b>17.</b>](Chapter%20017%20-%20National%20Oceanic%20and%20Atmospheric%20Administration/README.md) | <b>National Oceanic and Atmospheric Administration</b> | <b>851</b> |
-| [<b>18.</b>](Chapter%20018%20-%20Longshore%20and%20Harbor%20Workers%E2%80%99%20Compensation/README.md) | <b>Longshore and Harbor Workers’ Compensation</b> | <b>901</b> |
+| [<b>18.</b>](Chapter%20018%20-%20Longshore%20and%20Harbor%20Workers%27%20Compensation/README.md) | <b>Longshore and Harbor Workers' Compensation</b> | <b>901</b> |
 | [<b>19.</b>](Chapter%20019%20-%20Saint%20Lawrence%20Seaway/README.md) | <b>Saint Lawrence Seaway</b> | <b>981</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Pollution%20of%20the%20Sea%20by%20Oil/README.md) | <b>Pollution of the Sea by Oil \[Repealed\]</b> | <b>1001</b> |
 | [<b>21.</b>](Chapter%20021%20-%20International%20Regulations%20for%20Preventing%20Collisions%20at%20Sea/README.md) | <b>International Regulations for Preventing Collisions at Sea \[Repealed\]</b> | <b>1051</b> |
@@ -81,7 +81,7 @@
 - [Chapter 015 - Flood Control](Chapter%20015%20-%20Flood%20Control/README.md)
 - [Chapter 016 - Lighthouses](Chapter%20016%20-%20Lighthouses/README.md)
 - [Chapter 017 - National Oceanic and Atmospheric Administration](Chapter%20017%20-%20National%20Oceanic%20and%20Atmospheric%20Administration/README.md)
-- [Chapter 018 - Longshore and Harbor Workers&#8217; Compensation](Chapter%20018%20-%20Longshore%20and%20Harbor%20Workers%E2%80%99%20Compensation/README.md)
+- [Chapter 018 - Longshore and Harbor Workers' Compensation](Chapter%20018%20-%20Longshore%20and%20Harbor%20Workers%27%20Compensation/README.md)
 - [Chapter 019 - Saint Lawrence Seaway](Chapter%20019%20-%20Saint%20Lawrence%20Seaway/README.md)
 - [Chapter 020 - Pollution of the Sea by Oil](Chapter%20020%20-%20Pollution%20of%20the%20Sea%20by%20Oil/README.md)
 - [Chapter 021 - International Regulations for Preventing Collisions at Sea](Chapter%20021%20-%20International%20Regulations%20for%20Preventing%20Collisions%20at%20Sea/README.md)

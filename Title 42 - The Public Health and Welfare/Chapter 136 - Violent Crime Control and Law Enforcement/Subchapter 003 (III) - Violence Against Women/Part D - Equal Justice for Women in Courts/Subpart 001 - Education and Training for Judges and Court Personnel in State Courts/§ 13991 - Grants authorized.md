@@ -6,9 +6,9 @@ The State Justice Institute may award grants for the purpose of developing, test
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–386 inserted “dating violence,” after “domestic violence,” and “Nothing shall preclude the attendance of tribal judges and court personnel at programs funded under this section for States to train judges and court personnel on the laws of the States.” at end.
+<b>2000</b>—Pub. L. 106–386 inserted "dating violence," after "domestic violence," and "Nothing shall preclude the attendance of tribal judges and court personnel at programs funded under this section for States to train judges and court personnel on the laws of the States." at end.
 
 #### Short Title
 
-For short title of this part as the “Equal Justice for Women in the Courts Act of 1994”, see section 40401 of Pub. L. 103–322, set out as a note under section 13701 of this title.
+For short title of this part as the "Equal Justice for Women in the Courts Act of 1994", see section 40401 of Pub. L. 103–322, set out as a note under section 13701 of this title.
 

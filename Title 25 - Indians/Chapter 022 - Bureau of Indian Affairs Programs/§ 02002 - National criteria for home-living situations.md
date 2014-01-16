@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of Education, Indian organizations and tribes, and Bureau-funded schools, shall revise the national standards for home-living (dormitory) situations to include such factors as heating, lighting, cooling, adult-child ratios, needs for counselors (including special needs related to off-reservation home-living (dormitory) situations), therapeutic programs, space, and privacy.
+&emsp;The Secretary, in consultation with the Secretary of Education, Indian organizations andtribes, and Bureau-funded schools, shall revise the national standards for home-living (dormitory) situations to include such factors as heating, lighting, cooling, adult-child ratios, needs for counselors (including special needs related to off-reservation home-living (dormitory) situations), therapeutic programs, space, and privacy.
 
 #### (2) Implementation
 
@@ -64,7 +64,7 @@ No school in operation on or before July 1, 1999 (regardless of compliance or no
 
 #### Prior Provisions
 
-A prior section 2002, Pub. L. 95–561, title XI, §1122, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3984; amended Pub. L. 105–362, title VIII, §801(c)(2), Nov. 10, 1998, 112 Stat. 3288, related to national criteriafor dormitory situations, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2002, Pub. L. 95–561, title XI, §1122, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3984; amended Pub. L. 105–362, title VIII, §801(c)(2), Nov. 10, 1998, 112 Stat. 3288, related to national criteria for dormitory situations, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2002, Pub. L. 95–561, title XI, §1122, Nov. 1, 1978, 92 Stat. 2318; Pub. L. 96–46, §2(b)(5), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 100–297, title V, §5105, Apr. 28, 1988, 102 Stat. 367, related to national criteria for dormitory situations, prior to the general amendment of this chapter by Pub. L. 103–382.
 

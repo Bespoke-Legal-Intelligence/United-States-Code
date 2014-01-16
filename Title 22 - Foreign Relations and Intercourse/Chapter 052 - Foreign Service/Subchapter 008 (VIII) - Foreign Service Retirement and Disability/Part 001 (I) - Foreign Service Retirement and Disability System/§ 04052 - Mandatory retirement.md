@@ -1,6 +1,6 @@
 ### §4052. Mandatory retirement
 
-(a)(1) Except as provided in subsection (b) of this section, any participant shall be retiredfrom the Service at the end of the month in which the participant has reached age 65 and has at least 5 years of service credit toward retirement under the System (excluding military and naval service), and shall receive retirement benefits in accordance with section 4046 of this title.
+(a)(1) Except as provided in subsection (b) of this section, any participant shall be retired from the Service at the end of the month in which the participant has reached age 65 and has at least 5 years of service credit toward retirement under the System (excluding military and naval service), and shall receive retirement benefits in accordance with section 4046 of this title.
 
 (2) Notwithstanding paragraph (1)—
 
@@ -24,9 +24,9 @@ Section 4(a)(2) of the Department of State Special Agents Retirement Act of 1998
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–382 amended first sentence generally. Prior to amendment, first sentence read as follows: “Notwithstanding paragraph (1), a Foreign Service criminal investigator/inspector of the Office of Inspector General of the Agency for International Development who would have been eligible for retirement pursuant to either section 8336(c) or 8412(d) of title 5, as applicable, had the employee remained in civil service, shall be separated from the Service on the last day of the month in which that Foreign Service criminal investigator/inspector attains 57 years of age or completes 20 years of service if then over that age.”
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–382 amended first sentence generally. Prior to amendment, first sentence read as follows: "Notwithstanding paragraph (1), a Foreign Service criminal investigator/inspector of the Office of Inspector General of the Agency for International Development who would have been eligible forretirement pursuant to either section 8336(c) or 8412(d) of title 5, as applicable, had the employee remained in civil service, shall be separated from the Service on the last day of the month in which that Foreign Service criminal investigator/inspector attains 57 years of age or completes 20 years of service if then over that age."
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–499 substituted “57” for “55”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–499 substituted "57" for "55".
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–513 designated existing provisions as par. (1) and added par. (2).
 

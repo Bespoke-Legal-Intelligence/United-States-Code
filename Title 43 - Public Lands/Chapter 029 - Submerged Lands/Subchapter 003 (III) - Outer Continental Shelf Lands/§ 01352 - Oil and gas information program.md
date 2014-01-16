@@ -12,7 +12,7 @@
 
 &emsp;(ii) by a lessee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay the reasonable cost of processing and reproducing such data and information;
 
-&emsp;(iii) by a permittee, in the form and manner of processing which is utilized by such permittee in the normal conduct of his business, theSecretary shall pay such permittee the reasonable cost of reproducing such data and information for the Secretary and shall pay at the lowest rate available to any purchaser for processing such data and information the costs attributable to such processing; and
+&emsp;(iii) by a permittee, in the form and manner of processing which is utilized by such permittee in the normal conduct of his business, the Secretary shall pay such permittee the reasonable cost of reproducing such data and information for the Secretary and shall pay at the lowest rate available to any purchaser for processing such data and information the costs attributable to such processing; and
 
 &emsp;(iv) by a permittee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay such permittee the reasonable cost of processing and reproducing such data and information for the Secretary,
 
@@ -24,7 +24,7 @@
 
 (1) Data and information provided to the Secretary pursuant to subsection (a) of this section shall be processed, analyzed, and interpreted by the Secretary for purposes of carrying out his duties under this subchapter.
 
-(2) As soon as practicable after information provided to the Secretary pursuant to subsection (a) of this section is processed, analyzed, and interpreted, the Secretary shall make available to the affected States, and upon request, to any affected local government, a summary of data designed to assist them in planning for the onshore impacts of possible oil and gas development and production. Such summary shall include estimates of (A) the oil and gas reserves in areas leased or to be leased, (B) the size and timing of development if and when oil or gas, or both, is found, (C) the location of pipelines, and (D) the general location and nature of onshore facilities.
+(2) As soon as practicable after information provided to the Secretary pursuant to subsection (a) of this section is processed, analyzed, and interpreted, the Secretary shall make available to the affected States, and upon request, to any affected local government, a summary of data designed to assist them in planning for the onshore impacts of possible oil and gas development and production. Such summary shall include estimates of (A) the oil and gas reserves inareas leased or to be leased, (B) the size and timing of development if and when oil or gas, or both, is found, (C) the location of pipelines, and (D) the general location and nature of onshore facilities.
 
 #### (c) Confidentiality of information; regulations
 
@@ -48,7 +48,7 @@ Prior to transmitting any privileged information to any State, or granting such 
 
 #### (f) Civil action against United States or State for failure to maintain confidentiality of information; certain defenses unavailable
 
-(1) Whenever any employee of the Federal Government or of any State reveals information in violation of the regulations prescribed pursuant to subsection (c) of this section, the lessee or permittee who supplied such information to the Secretary or to any other Federal official, and any person to whom such lessee or permittee has sold such information under promise of confidentiality, may commence a civil actionfor damages in the appropriate district court of the United States against the Federal Government or such State, as the case may be.
+(1) Whenever any employee of the Federal Government or of any State reveals information in violation of the regulations prescribed pursuant to subsection (c) of this section, the lessee or permittee who supplied such information to the Secretary or to any other Federal official, and any person to whom such lessee or permittee has sold such information under promise of confidentiality, may commence a civil action for damages in the appropriate district court of the United States against the Federal Government or such State, as the case may be.
 
 (2) In any action commenced against the Federal Government or a State pursuant to paragraph (1) of this subsection, the Federal Government or such State, as the case may be, may not raise as a defense (A) any claim of sovereign immunity, or (B) any claim that the employee who revealed the privileged information which is the basis of such suit was acting outside the scope of his employment in revealing such information.
 
@@ -64,9 +64,9 @@ If the Secretary finds that any State cannot or does not comply with the regulat
 
 #### Payment of Processing Costs for Data and Information Acquired; Permittees Eligible
 
-Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 732, provided that: “Notwithstanding any other provision of law, for data and information acquired in fiscal year 1986 or thereafter, by the Secretary, pursuant to section 1352(a)(1)(C)(iii) of title 43, United States Code, payment shall be made for processing costs to permittees with permits issued on or before September 30, 1985.”
+Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 732, provided that: "Notwithstanding any other provision of law, for data and information acquired in fiscal year 1986 or thereafter, by the Secretary, pursuant to section 1352(a)(1)(C)(iii) of title 43, United States Code, payment shall be made for processing costs to permittees with permits issued on or before September 30, 1985."
 
 #### Payment of Costs of Reproducing Data and Information Provided to Secretary
 
-Pub. L. 99–190, §101(d) \[title I, §100\], Dec. 19, 1985, 99 Stat. 1224, 1232, provided: “That notwithstanding any other provision of law, when in fiscal year 1986 and thereafter any permittee provides data and information to the Secretary pursuant to section 1352(a)(1)(C)(iii) of title 43, United States Code, the Secretary shall pay only the reasonable cost of reproducing such data and information.”
+Pub. L. 99–190, §101(d) \[title I, §100\], Dec. 19, 1985, 99 Stat. 1224, 1232, provided: "That notwithstanding any other provision of law, when in fiscal year 1986 and thereafter any permittee provides data and information to the Secretary pursuant to section 1352(a)(1)(C)(iii) of title 43, United States Code, the Secretary shall pay only the reasonable cost of reproducing such data and information."
 

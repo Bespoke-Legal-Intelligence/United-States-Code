@@ -6,11 +6,11 @@ In this section, the following definitions shall apply:
 
 #### (1) Eligible community development financial institution
 
-&emsp;The term “eligible community development financial institution” means a community development financial institution (as described in section 1805.201 of title 12, Code of Federal Regulations, or any successor thereto) certified by the Secretary that has applied to a qualified issuer for, or been granted by a qualified issuer, a loan under the Program.
+&emsp;The term "eligible community development financial institution" means a community development financial institution (as described in section 1805.201 of title 12, Code of Federal Regulations, or any successor thereto) certified by the Secretary that has applied to a qualified issuer for, or been granted by a qualified issuer, a loan under the Program.
 
 #### (2) Eligible community or economic development purpose
 
-&emsp;The term “eligible community or economic development purpose”—
+&emsp;The term "eligible community or economic development purpose"—
 
 &emsp;&emsp;(A) means any purpose described in section 4707(b) of this title; and
 
@@ -18,17 +18,17 @@ In this section, the following definitions shall apply:
 
 #### (3) Guarantee
 
-&emsp;The term “guarantee” means a written agreement between the Secretary and a qualified issuer (or trustee), pursuant to which the Secretary ensures repayment of the verifiable losses of principal, interest, and call premium, if any, on notes or bonds issued by a qualified issuer to finance or refinance loans to eligible community development financial institutions.
+&emsp;The term "guarantee" means a written agreement between the Secretary and a qualified issuer (or trustee), pursuant to which the Secretary ensures repayment of the verifiable losses of principal, interest, and call premium, if any, on notes or bonds issued by a qualified issuer to finance or refinance loans to eligible community development financial institutions.
 
 #### (4) Loan
 
-&emsp;The term “loan” means any credit instrument that is extended under the Program for any eligible community or economic development purpose.
+&emsp;The term "loan" means any credit instrument that is extended under the Program for any eligible community or economic development purpose.
 
 #### (5) Master servicer
 
 #### (A) In general
 
-&emsp;&emsp;The term “master servicer” means any entity approved by the Secretary in accordance with subparagraph (B) to oversee the activities of servicers, as provided in subsection (f)(4).
+&emsp;&emsp;The term "master servicer" means any entity approved by the Secretary in accordance with subparagraph (B) to oversee the activities of servicers, as provided in subsection (f)(4).
 
 #### (B) Approval criteria for master servicers
 
@@ -46,17 +46,17 @@ In this section, the following definitions shall apply:
 
 #### (6) Program
 
-&emsp;The term “Program” means the guarantee Program for bonds and notes issued for eligible community or economic development purposes established under this section.
+&emsp;The term "Program" means the guarantee Program for bonds and notes issued for eligible community or economic development purposes established under this section.
 
 #### (7) Program administrator
 
-&emsp;The term “Program administrator” means an entity designated by the issuer to perform administrative duties, as provided in subsection (f)(2).
+&emsp;The term "Program administrator" means an entity designated by the issuer to perform administrative duties, as provided in subsection (f)(2).
 
 #### (8) Qualified issuer
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified issuer” means a community development financial institution (or any entity designated to issue notes or bonds on behalf of such community development financial institution) that meets the qualification requirements of this paragraph.
+&emsp;&emsp;The term "qualified issuer" means a community development financial institution (or any entity designated to issue notes or bonds on behalf of such community development financial institution) that meets the qualification requirements of this paragraph.
 
 #### (B) Approval criteria for qualified issuers
 
@@ -90,11 +90,11 @@ In this section, the following definitions shall apply:
 
 #### (9) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Treasury.
+&emsp;The term "Secretary" means the Secretary of the Treasury.
 
 #### (10) Servicer
 
-&emsp;The term “servicer” means an entity designated by the issuer to perform various servicing duties, as provided in subsection (f)(3).
+&emsp;The term "servicer" means an entity designated by the issuer to perform various servicing duties, as provided in subsection (f)(3).
 
 #### (b) Guarantees authorized
 
@@ -220,7 +220,7 @@ Each qualified issuer shall, during the term of a guarantee provided under the P
 
 &emsp;&emsp;(F) loan administration and servicing;
 
-&emsp;&emsp;(G) systematic and timely reporting of loan performance compiled from all bond servicers’ reports;
+&emsp;&emsp;(G) systematic and timely reporting of loan performance compiled from all bond servicers' reports;
 
 &emsp;&emsp;(H) proper distribution of funds to investors; and
 

@@ -14,13 +14,13 @@
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(2). Pub. L. 112–29 struck out “of this title” after “121”.
+<b>2011</b>—Subsec. (b)(2). Pub. L. 112–29 struck out "of this title" after "121".
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Subsec. (b). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" wherever appearing.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–622, §403(a), substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–622, §403(a), substituted "Patent and Trademark Office" for "Patent Office".
 
 Subsec. (b)(3). Pub. L. 98–622, §402(e), added par. (3).
 

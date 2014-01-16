@@ -12,7 +12,7 @@
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–719 authorized an appropriation of $8,719,000 at Los Alamos and use of appropriations for utilities.
 
-<b>1956</b>—Subsec. (b). Act July 25, 1956, §6, substituted “$2,215,000” for “$2,165,000”.
+<b>1956</b>—Subsec. (b). Act July 25, 1956, §6, substituted "$2,215,000" for "$2,165,000".
 
 Subsec. (c). Act July 25, 1956, §5, repealed subsec. (c) which appropriated funds derived from disposal of property to pay any costs, losses, expenses, or obligations incurred by Commission. See section 2311(b) of this title.
 

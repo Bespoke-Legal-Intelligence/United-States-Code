@@ -2,27 +2,27 @@
 
 As used in this chapter, unless the context otherwise requires, the term—
 
-&emsp;(1) “Secretary” means the Secretary of Commerce.
+&emsp;(1) "Secretary" means the Secretary of Commerce.
 
-&emsp;(2) “Centers” means the Cooperative Research Centers established under section 3705 or 3707 of this title.
+&emsp;(2) "Centers" means the Cooperative Research Centers established under section 3705 or 3707 of this title.
 
-&emsp;(3) “Nonprofit institution” means an organization owned and operated exclusively for scientific or educational purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual.
+&emsp;(3) "Nonprofit institution" means an organization owned and operated exclusively for scientific or educational purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual.
 
-&emsp;(4) “Federal laboratory” means any laboratory, any federally funded research and development center, or any center established under section 3705 or 3707 of this title that is owned, leased, or otherwise used by a Federal agency and funded by the Federal Government, whether operated by the Government or by a contractor.
+&emsp;(4) "Federal laboratory" means any laboratory, any federally funded research and development center, or any center established under section 3705 or 3707 of this title that is owned, leased, or otherwise used by a Federalagency and funded by the Federal Government, whether operated by the Government or by a contractor.
 
-&emsp;(5) “Supporting agency” means either the Department of Commerce or the National Science Foundation, as appropriate.
+&emsp;(5) "Supporting agency" means either the Department of Commerce or the National Science Foundation, as appropriate.
 
-&emsp;(6) “Federal agency” means any executive agency as defined in section 105 of title 5 and the military departments as defined in section 102 of such title, as well as any agency of the legislative branch of the Federal Government.
+&emsp;(6) "Federal agency" means any executive agency as defined in section 105 of title 5 and the military departments as defined in section 102 of such title, as well as any agency of the legislative branch of the Federal Government.
 
-&emsp;(7) “Invention” means any invention or discovery which is or may be patentable or otherwise protected under title 35 or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.).
+&emsp;(7) "Invention" means any invention or discovery which is or may be patentable or otherwise protected under title 35 or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.).
 
-&emsp;(8) “Made” when used in conjunction with any invention means the conception or first actual reduction to practice of such invention.
+&emsp;(8) "Made" when used in conjunction with any invention means the conception or first actual reduction to practice of such invention.
 
-&emsp;(9) “Small business firm” means a small business concern as defined in section 632 of this title and implementing regulations of the Administrator of the Small Business Administration.
+&emsp;(9) "Small business firm" means a small business concern as defined in section 632 of this title and implementing regulations of the Administrator of the Small Business Administration.
 
-&emsp;(10) “Training technology” means computer software and related materials which are developed by a Federal agency to train employees of such agency, including but not limited to software for computer-based instructional systems and for interactive video disc systems.
+&emsp;(10) "Training technology" means computer software and related materials which are developed by a Federal agency to train employees of such agency, including but not limited to software for computer-based instructional systems and for interactive video disc systems.
 
-&emsp;(11) “Clearinghouse” means the Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation established by section 3704a of this title.
+&emsp;(11) "Clearinghouse" means the Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation established by section 3704a of this title.
 
 (Pub. L. 96–480, §4, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–502, §9(b)(2), (d), Oct. 20, 1986, 100 Stat. 1795, 1796; Pub. L. 100–418, title V, §5122(b), Aug. 23, 1988, 102 Stat. 1439; Pub. L. 100–519, title II, §201(d)(1), Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–245, title III, §304, Feb. 14, 1992, 106 Stat. 20; Pub. L. 106–404, §7(1), (2), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 110–69, title III, §3002(c)(3), Aug. 9, 2007, 121 Stat. 586.)
 
@@ -32,25 +32,25 @@ The Plant Variety Protection Act, referred to in par. (7), is Pub. L. 91–577, 
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–69 redesignated pars. (2) and (4) to (13) as (1) and (2) to (11), respectively, and struck out pars. (1) and (3) which defined “Office” and “Under Secretary”, respectively.
+<b>2007</b>—Pub. L. 110–69 redesignated pars. (2) and (4) to (13) as (1) and (2) to (11), respectively, and struck out pars. (1) and (3) which defined "Office" and "Under Secretary", respectively.
 
 <b>2000</b>—Pars. (4), (6). Pub. L. 106–404 made technical amendments to references in original act which appear in text as references to sections 3705 and 3707 of this title.
 
-<b>1992</b>—Par. (8). Pub. L. 102–245 inserted before period at end “, as well as any agency of the legislative branch of the Federal Government”.
+<b>1992</b>—Par. (8). Pub. L. 102–245 inserted before period at end ", as well as any agency of the legislative branch of the Federal Government".
 
-<b>1988</b>—Par. (1). Pub. L. 100–519, §201(d)(1)(A), substituted “Technology Policy” for “Productivity, Technology, and Innovation”.
+<b>1988</b>—Par. (1). Pub. L. 100–519, §201(d)(1)(A), substituted "Technology Policy" for "Productivity, Technology, and Innovation".
 
-Par. (3). Pub. L. 100–519, §201(d)(1)(B), amended par. (3) generally, substituting provisions defining “Under Secretary” for provisions defining “Assistant Secretary”.
+Par. (3). Pub. L. 100–519, §201(d)(1)(B), amended par. (3) generally, substituting provisions defining "Under Secretary" for provisions defining "Assistant Secretary".
 
 Par. (13). Pub. L. 100–418 added par. (13).
 
-<b>1986</b>—Par. (1). Pub. L. 99–502, §9(b)(2)(A), substituted “Productivity, Technology, and Innovation” for “Industrial Technology”.
+<b>1986</b>—Par. (1). Pub. L. 99–502, §9(b)(2)(A), substituted "Productivity, Technology, and Innovation" for "Industrial Technology".
 
-Par. (3). Pub. L. 99–502, §9(b)(2)(B), substituted “ ‘Assistant Secretary’ means the Assistant Secretary for Productivity, Technology, and Innovation” for “ ‘Director’ means the Director of the Office of Industrial Technology”.
+Par. (3). Pub. L. 99–502, §9(b)(2)(B), substituted " 'Assistant Secretary' means the Assistant Secretary for Productivity, Technology, and Innovation" for " 'Director' means the Director of the Office of Industrial Technology".
 
-Par. (4). Pub. L. 99–502, §9(b)(2)(C), substituted “Cooperative Research Centers” for “Centers for Industrial Technology”.
+Par. (4). Pub. L. 99–502, §9(b)(2)(C), substituted "Cooperative Research Centers" for "Centers for Industrial Technology".
 
-Par. (6). Pub. L. 99–502, §9(b)(2)(D), (E), redesignated par. (7) as (6), substituted “owned, leased, or otherwise used by a Federal agency and funded” for “owned and funded”, and struck out former par. (6) which defined “Board” to mean the National Industrial Technology Board established pursuant to section 3709 of this title.
+Par. (6). Pub. L. 99–502, §9(b)(2)(D), (E), redesignated par. (7) as (6), substituted "owned, leased, or otherwise used by a Federal agency and funded" for "owned and funded", and struck out former par. (6) which defined "Board" to mean the National Industrial Technology Board established pursuant to section 3709 of this title.
 
 Pars. (7) to (12). Pub. L. 99–502, §9(b)(2)(D), (d), redesignated pars. (7) and (8) as (6) and (7), respectively, and added pars. (8) to (12).
 

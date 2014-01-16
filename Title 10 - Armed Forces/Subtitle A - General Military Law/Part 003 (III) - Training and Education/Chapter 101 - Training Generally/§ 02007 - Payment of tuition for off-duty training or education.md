@@ -32,7 +32,7 @@
 
 (f) This section shall be administered under regulations prescribed by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security.
 
-(Added Pub. L. 98–525, title XIV, §1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 99–661, div. A, title VI, §651(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, §3(4), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title XIV, §1484(i)(4)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VI, §632, Nov. 30, 1993, 107 Stat. 1684; Pub. L. 106–65, div. A, title VI, §675, Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a), (b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–358, 1654A–359; Pub. L. 108–375, div. A, title V, §553(a), (b), Oct. 28, 2004, 118 Stat. 1912; Pub. L. 109–163, div. A, title VI, §687(c)(3), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 110–181, div. A, title V, §521(a)–(d), Jan. 28, 2008, 122 Stat. 100–102.)
+(Added Pub. L. 98–525, title XIV, §1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 99–661, div. A, title VI, §651(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, §3(4), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title XIV, §1484(i)(4)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L.103–160, div. A, title VI, §632, Nov. 30, 1993, 107 Stat. 1684; Pub. L. 106–65, div. A, title VI, §675, Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a), (b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–358, 1654A–359; Pub. L. 108–375, div. A, title V, §553(a), (b), Oct. 28, 2004, 118 Stat. 1912; Pub. L. 109–163, div. A, title VI, §687(c)(3), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 110–181, div. A, title V, §521(a)–(d), Jan. 28, 2008, 122 Stat. 100–102.)
 
 #### Prior Provisions
 
@@ -102,25 +102,25 @@ June 30, 1954, ch. 432, title VII, §730, 68 Stat. 355.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, §521(a), substituted “Subject to subsections (b) and (c), the Secretary concerned” for “Subject to subsection (b), the Secretary of a military department”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §521(a), substituted "Subject to subsections (b) and (c), the Secretary concerned" for "Subject to subsection (b), the Secretary of a military department".
 
-Subsec. (b)(1). Pub. L. 110–181, §521(b)(1), struck out “or full-time National Guard duty” after “active duty” in two places, inserted “(other than a member of the Ready Reserve)” after “commissioned officer on active duty”, and substituted “the Secretary concerned” for “the Secretary of the military department”.
+Subsec. (b)(1). Pub. L. 110–181, §521(b)(1), struck out "or full-time National Guard duty" after "active duty" in two places, inserted "(other than a member of the Ready Reserve)" after "commissioned officer on active duty", and substituted "the Secretary concerned" for "the Secretary of the military department".
 
-Subsec. (b)(2). Pub. L. 110–181, §521(b)(2)(A), substituted “the Secretary concerned” for “the Secretary of the military department” in introductory provisions.
+Subsec. (b)(2). Pub. L. 110–181, §521(b)(2)(A), substituted "the Secretary concerned" for "the Secretary of the military department" in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 110–181, §521(b)(2)(B), inserted “for which the officer was ordered to active duty” after “active duty service”.
+Subsec. (b)(2)(B). Pub. L. 110–181, §521(b)(2)(B), inserted "for which the officer was ordered to active duty" after "active duty service".
 
-Subsec. (b)(2)(C). Pub. L. 110–181, §521(b)(2)(C), substituted “Secretary concerned” for “Secretary”.
+Subsec. (b)(2)(C). Pub. L. 110–181, §521(b)(2)(C), substituted "Secretary concerned" for "Secretary".
 
 Subsec. (c). Pub. L. 110–181, §521(c)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) consisted of pars. (1) to (3) which authorized Secretary of the Army, subject to certain limitations, to pay the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer.
 
-Subsec. (d). Pub. L. 110–181, §521(c)(2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Subsection (c)(3) may not be construed to prohibit the Secretary of a military department from exercising any authority that the Secretary may have to pay charges of an educational institution in the case of—
+Subsec. (d). Pub. L. 110–181, §521(c)(2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "Subsection (c)(3) may not be construed to prohibit the Secretary of a military department from exercising any authority that the Secretary may have to pay charges of an educational institution in the case of—
 
-&emsp;“(1) a warrant officer on active duty or full-time National Guard duty;
+&emsp;"(1) a warrant officer on active duty or full-time National Guard duty;
 
-&emsp;“(2) a commissioned officer on full-time National Guard duty; or
+&emsp;"(2) a commissioned officer on full-time National Guard duty; or
 
-&emsp;“(3) a commissioned officer on active duty who satisfies the condition in subsection (b) relating to an agreement to remain on active duty.”
+&emsp;"(3) a commissioned officer on active duty who satisfies the condition in subsection (b) relating to an agreement to remain on active duty."
 
 Subsec. (e). Pub. L. 110–181, §521(c)(3), designated existing provisions as par. (1) and added par. (2).
 
@@ -132,25 +132,25 @@ Pub. L. 110–181, §521(c)(2)(B), redesignated subsec. (f) as (e).
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–163 added subsec. (f).
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–375, §553(a), designated existing provisions as par. (1), inserted “or full-time National Guard duty” after “active duty” in two places, and added par. (2).
+<b>2004</b>—Subsec. (b). Pub. L. 108–375, §553(a), designated existing provisions as par. (1), inserted "or full-time National Guard duty" after "active duty" in two places, and added par. (2).
 
-Subsec. (c)(1). Pub. L. 108–375, §553(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraphs (2) and (3), the Secretary of the Army may pay not more than 75 percent of the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer in a program leading to a baccalaureate degree.”
+Subsec. (c)(1). Pub. L. 108–375, §553(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Subject to paragraphs (2) and (3), the Secretary of the Army may pay not more than 75 percent of the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer in a program leading to a baccalaureate degree."
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(1)\], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of a military department may not pay more than 75 percent of the charges of an educational institution for the tuition or expenses of a member of thearmed forces enrolled in such institution for education or training during his off-duty periods, except that—
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(1)\], added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary of a military department may not pay more than 75 percent of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such institution for education or training during his off-duty periods, except that—
 
-&emsp;“(1) in the case of an enlisted member in the pay grade of E–5 or higher with less than 14 years’ service, not more than 90 percent of the charges may be paid;
+&emsp;"(1) in the case of an enlisted member in the pay grade of E–5 or higher with less than 14 years' service, not more than 90 percent of the charges may be paid;
 
-&emsp;“(2) in the case of a member enrolled in a high school completion program, all of the charges may be paid;
+&emsp;"(2) in the case of a member enrolled in a high school completion program, all of the charges may be paid;
 
-&emsp;“(3) in the case of a commissioned officer on active duty, no part of the charges may be paid unless the officer agrees to remain on active duty for a period of at least two years after the completion of the training or education; and
+&emsp;"(3) in the case of a commissioned officer on active duty, no part of the charges may be paid unless the officer agrees to remain on active duty for a period of at least two years after the completion of the training or education; and
 
-&emsp;“(4) in the case of a member serving in a contingency operation or similar operational mission (other than for training) designated by the Secretary concerned, all of the charges may be paid.”
+&emsp;"(4) in the case of a member serving in a contingency operation or similar operational mission (other than for training) designated by the Secretary concerned, all of the charges may be paid."
 
-Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(1)\], added subsec. (b) and struck out former subsec. (b) which read as follows: “The limitation in subsection (a) does not apply to the Program for Afloat College Education.”
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(1)\], added subsec. (b) and struck out former subsec. (b) which read as follows: "The limitation in subsection (a) does not apply to the Program for Afloat College Education."
 
-Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(2)(A)\], struck out “(within the limits set forth in subsection (a))” after “educational institution” in introductory provisions.
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(2)(A)\], struck out "(within the limits set forth in subsection (a))" after "educational institution" in introductory provisions.
 
-Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(2)(B)\], substituted “subsection (b)” for “subsection (a)(3)”.
+Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(2)(B)\], substituted "subsection (b)" for "subsection (a)(3)".
 
 Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(1)\], added subsec. (e).
 
@@ -158,17 +158,17 @@ Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(1)\], add
 
 <b>1993</b>—Subsec. (d). Pub. L. 103–160 added subsec. (d).
 
-<b>1990</b>—Pub. L. 101–510 substituted “Payment” for “Limitation on payment” in section catchline.
+<b>1990</b>—Pub. L. 101–510 substituted "Payment" for "Limitation on payment" in section catchline.
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–26 made technical amendment to directory language of Pub. L. 99–661, §651(a)(2). See 1986 Amendment note below.
 
-<b>1986</b>—Subsec. (a)(3). Pub. L. 99–661, §651(a)(1), inserted “on active duty”.
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–661, §651(a)(1), inserted "on active duty".
 
 Subsec. (c). Pub. L. 99–661, §651(a)(2), as amended by Pub. L. 100–26, added subsec. (c).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title V, §553(c), Oct. 28, 2004, 118 Stat. 1913, provided that: “The amendment made by subsection (a) \[amending this section\] may, at the discretion of the Secretary concerned, be applied to a service obligation incurred by an officer serving on active duty as of the date of the enactment of this Act \[Oct. 28, 2004\].”
+Pub. L. 108–375, div. A, title V, §553(c), Oct. 28, 2004, 118 Stat. 1913, provided that: "The amendment made by subsection (a) \[amending this section\] may, at the discretion of the Secretary concerned, be applied to a service obligation incurred by an officer serving on active duty as of the date of the enactment of this Act \[Oct. 28, 2004\]."
 
 #### Effective Date of 1987 Amendment
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–661, div. A, title VI, §651(c), Nov. 14, 1986, 100 Stat. 3888, provided that: “Subsection (c) of section 2007 of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\].”
+Pub. L. 99–661, div. A, title VI, §651(c), Nov. 14, 1986, 100 Stat. 3888, provided that: "Subsection (c) of section 2007 of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\]."
 
 #### Effective Date
 
@@ -188,7 +188,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 #### Tuition Payments Contingent Upon Agreement by Officer To Remain in Ready Reserve for At Least Four Years
 
-Pub. L. 104–61, title VIII, §8019, Dec. 1, 1995, 109 Stat. 655, provided that: “Funds appropriated for the Department of Defense during the current fiscal year and hereafter shall be available for the payment of not more than 75 percent of the charges of a postsecondary educational institution for the tuition or expenses of an officer in the Ready Reserve of the Army National Guard or Army Reserve for education or training during his off-duty periods, except that no part of the charges may be paid unless the officer agrees to remain a member of the Ready Reserve for at least four years after completion of such training or education.”
+Pub. L. 104–61, title VIII, §8019, Dec. 1, 1995, 109 Stat. 655, provided that: "Funds appropriated for the Department of Defense during the current fiscal year and hereafter shall be available for the payment of not more than 75 percent of the charges of a postsecondary educational institution for the tuition or expenses of an officer in the Ready Reserve of the Army National Guard or Army Reserve for education or training during his off-duty periods, except that no part of the charges may be paid unless the officer agrees to remain a member of the Ready Reserve for at least four years after completion of such training or education."
 
 Similar provisions were contained in the following prior appropriation acts:
 

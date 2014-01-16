@@ -32,7 +32,7 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 &emsp;&emsp;(C) the number of times in which action was taken without exercise of the waiver authority compared with the number of times waiver authority was exercised (in the case of each waiver authority under this chapter or under any other provision of law which permits the waiver of any requirement relating to joint duty assignments).
 
-&emsp;(8) The number of officers in the grade of captain (or in the case of the Navy, lieutenant) and above certified at each level of joint qualification as established in regulation andpolicy by the Secretary of Defense with the advice of the Chairman of the Joint Chiefs of Staff. Such numbers shall be reported by service and grade of the officer.
+&emsp;(8) The number of officers in the grade of captain (or in the case of the Navy, lieutenant) and above certified at each level of joint qualification as established in regulation and policy by the Secretary of Defense with the advice of the Chairman of the Joint Chiefs of Staff. Such numbers shall be reported by service and grade of the officer.
 
 &emsp;(9) With regard to the principal courses of instruction for Joint Professional Military Education Level II, the number of officers graduating from each of the following:
 
@@ -48,47 +48,47 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 #### Amendments
 
-<b>2009</b>—Par. (1). Pub. L. 111–84, §503(1), struck out “and their education and experience” after “qualified officer” in subpar. (A) and added subpar. (C).
+<b>2009</b>—Par. (1). Pub. L. 111–84, §503(1), struck out "and their education and experience" after "qualified officer" in subpar. (A) and added subpar. (C).
 
 Pars. (3) to (13). Pub. L. 111–84, §503(2)–(6), added par. (9), redesignated pars. (5), (7) to (11), and (13) as (3), (4) to (8), and (10), respectively, and struck out former pars. (3), (4), (6), and (12), which related to the number of officers on the active-duty list with a military occupational speciality designated as a critical occupational speciality, the number of officers designated as joint qualified officer, analysis of their assignments after the designation, and the officers selected to attend the Joint Forces Staff College principal course of instruction.
 
-<b>2008</b>—Par. (1). Pub. L. 110–417, §522(d)(1), substituted “designated as a joint qualified officer” for “selected for the joint specialty” in subpar. (A) and “designation as a joint qualified officer,” for “selection for the joint specialty” in subpar. (B).
+<b>2008</b>—Par. (1). Pub. L. 110–417, §522(d)(1), substituted "designated as a joint qualified officer" for "selected for the joint specialty" in subpar. (A) and "designation as a joint qualified officer," for "selection for the joint specialty" in subpar. (B).
 
-Par. (2). Pub. L. 110–417, §522(d)(2), substituted “designated as a joint qualified officer” for “with the joint specialty”.
+Par. (2). Pub. L. 110–417, §522(d)(2), substituted "designated as a joint qualified officer" for "with the joint specialty".
 
-Par. (3)(A), (B), (E). Pub. L. 110–417, §522(d)(3), substituted “designated as a joint qualified officer” for “selected for the joint specialty”.
+Par. (3)(A), (B), (E). Pub. L. 110–417, §522(d)(3), substituted "designated as a joint qualified officer" for "selected for the joint specialty".
 
-Par. (4). Pub. L. 110–417, §522(d)(4), substituted “designated as a joint qualified officer” for “selected for the joint specialty” in subpar. (A), added subpar. (B), and struck out former subpar. (B) which read as follows: “a comparison of the number of officers who have the joint specialty who qualified for the joint specialty under section 661(c)(1) of this title with the number of officers who have the joint specialty who were selected for the joint specialty under section 661(c)(2) of this title.”
+Par. (4). Pub. L. 110–417, §522(d)(4), substituted "designated as a joint qualified officer" for "selected for the joint specialty" in subpar. (A), added subpar. (B), and struck out former subpar. (B) which read as follows: "a comparison of the number of officers who have the joint specialty who qualified for the joint specialty under section 661(c)(1) of this title with the number of officers who have the joint specialty who were selected for the joint specialty under section 661(c)(2) of this title."
 
 Pars. (5) to (18). Pub. L. 110–417, §522(d)(5)–(7), added pars. (5), (6), and (11), redesignated former pars. (11), (12), (14), (15), (17), and (18) as (7) to (10), (12), and (13), respectively, and struck out former pars. (5) to (10), (13), and (16), which related to promotion rates for officers within the promotion zone who are serving on the Joint Staff, officers with the joint specialty, other officers serving in joint duty assignments, officers considered for promotion from below the promotion zone, officers considered for promotion from above the promotion zone, analysis of assignments after selection for the joint specialty, imbalances between officers serving in joint duty assignments or having the joint specialty and other officers, and the number of officers granted credit for service in joint duty assignments under section 664(i)(4)(E), (F) of this title.
 
-<b>2006</b>—Par. (3). Pub. L. 109–364 substituted “668(d)” for “661(c)(2)” in introductory provisions.
+<b>2006</b>—Par. (3). Pub. L. 109–364 substituted "668(d)" for "661(c)(2)" in introductory provisions.
 
 <b>2001</b>—Par. (1). Pub. L. 107–107, §524(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Par. (2). Pub. L. 107–107, §524(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The military occupational specialties within each of the armed forces that have been designated as critical occupational specialties under section 661(c)(2) of this title, separately identifying those specialties for which there is a severe shortage of trained officers, together with an explanation of how those specialties meet the criteria for that designation in section 661(c)(2)(B) of this title.”
+Par. (2). Pub. L. 107–107, §524(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The military occupational specialties within each of the armed forces that have been designated as critical occupational specialties under section 661(c)(2) of this title, separately identifying those specialties for which there is a severe shortage of trained officers, together with an explanation of how those specialties meet the criteria for that designation in section 661(c)(2)(B) of this title."
 
-Par. (3)(A), (B). Pub. L. 107–107, §524(3)(A), substituted “selected” for “nominated”.
+Par. (3)(A), (B). Pub. L. 107–107, §524(3)(A), substituted "selected" for "nominated".
 
-Par. (3)(D). Pub. L. 107–107, §524(3)(B), inserted “and” after semicolon at end.
+Par. (3)(D). Pub. L. 107–107, §524(3)(B), inserted "and" after semicolon at end.
 
-Par. (3)(E), (F). Pub. L. 107–107, §524(3)(C), (D), redesignated subpar. (F) as (E) and struck out former subpar. (E) which read as follows: “have been selected for the joint specialty; and”.
+Par. (3)(E), (F). Pub. L. 107–107, §524(3)(C), (D), redesignated subpar. (F) as (E) and struck out former subpar. (E) which read as follows: "have been selected for the joint specialty; and".
 
-Par. (4)(A). Pub. L. 107–107, §524(4), substituted “selected” for “nominated”.
+Par. (4)(A). Pub. L. 107–107, §524(4), substituted "selected" for "nominated".
 
 Par. (14). Pub. L. 107–107, §524(5), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Par. (16). Pub. L. 107–107, §524(6), substituted “subparagraphs (E) and (F) of section 664(i)(4)” for “section 664(i)” in introductory provisions and in subpar. (B).
+Par. (16). Pub. L. 107–107, §524(6), substituted "subparagraphs (E) and (F) of section 664(i)(4)" for "section 664(i)" in introductory provisions and in subpar. (B).
 
-Par. (17). Pub. L. 107–107, §1048(a)(7), substituted “Joint Forces Staff College” for “Armed Forces Staff College” in introductory provisions and in subpar. (B).
+Par. (17). Pub. L. 107–107, §1048(a)(7), substituted "Joint Forces Staff College" for "Armed Forces Staff College" in introductory provisions and in subpar. (B).
 
-<b>1996</b>—Par. (16). Pub. L. 104–106 added par. (16) and struck out former par. (16) which read as follows: “During the period of the applicability of the first sentence of subparagraph (B) of section 661(d)(2) of this title, information on critical positions not filled by officers with the joint specialty, including—
+<b>1996</b>—Par. (16). Pub. L. 104–106 added par. (16) and struck out former par. (16) which read as follows: "During the period of the applicability of the first sentence of subparagraph (B) of section 661(d)(2) of this title, information on critical positions not filled by officers with the joint specialty, including—
 
-&emsp;“(A) a listing by organization of the joint duty assignment positions which were not filled by officers with the joint specialty;
+&emsp;"(A) a listing by organization of the joint duty assignment positions which were not filled by officers with the joint specialty;
 
-&emsp;“(B) an explanation of the reasons such positions were not filled by officers with the joint specialty, described by the categories of such reasons; and
+&emsp;"(B) an explanation of the reasons such positions were not filled by officers with the joint specialty, described by the categories of such reasons; and
 
-&emsp;“(C) the percentage of critical joint duty assignment positions held by officers who have the joint specialty.”
+&emsp;"(C) the percentage of critical joint duty assignment positions held by officers who have the joint specialty."
 
 <b>1989</b>—Pars. (17), (18). Pub. L. 101–189 added par. (17) and redesignated former par. (17) as (18).
 
@@ -102,11 +102,11 @@ Par. (4). Pub. L. 100–180, §1304(a)(1), (2), added par. (4) and redesignated 
 
 Par. (5). Pub. L. 100–180, §1304(a)(1), redesignated former par. (2) as (5) and former par. (5) as (8).
 
-Par. (6). Pub. L. 100–180, §1304(a)(1), (3), redesignated former par. (3) as (6) and substituted “paragraph (5)” for “paragraph (2)”. Former par. (6) redesignated (10).
+Par. (6). Pub. L. 100–180, §1304(a)(1), (3), redesignated former par. (3) as (6) and substituted "paragraph (5)" for "paragraph (2)". Former par. (6) redesignated (10).
 
-Par. (7). Pub. L. 100–180, §1304(a)(1), (3), redesignated former par. (4) as (7) and substituted “paragraph (5)” for “paragraph (2)”. Former par. (7) redesignated (11).
+Par. (7). Pub. L. 100–180, §1304(a)(1), (3), redesignated former par. (4) as (7) and substituted "paragraph (5)" for "paragraph (2)". Former par. (7) redesignated (11).
 
-Par. (8). Pub. L. 100–180, §1304(a)(1), (3), redesignated former par. (5) as (8) and substituted “paragraph (5)” for “paragraph (2)”. Former par. (8) redesignated (13).
+Par. (8). Pub. L. 100–180, §1304(a)(1), (3), redesignated former par. (5) as (8) and substituted "paragraph (5)" for "paragraph (2)". Former par. (8) redesignated (13).
 
 Par. (9). Pub. L. 100–180, §1304(a)(1), (4), added par. (9) and redesignated former par. (9) as (14).
 
@@ -116,7 +116,7 @@ Par. (11). Pub. L. 100–180, §1304(a)(1), redesignated former par. (7) as (11)
 
 Par. (12). Pub. L. 100–180, §1304(a)(5), added par. (12).
 
-Par. (13). Pub. L. 100–180, §1304(a)(1), (6), redesignated former par. (8) as (13) and substituted “paragraphs (5) through (9)” for “paragraphs (2) through (5)”.
+Par. (13). Pub. L. 100–180, §1304(a)(1), (6), redesignated former par. (8) as (13) and substituted "paragraphs (5) through (9)" for "paragraphs (2) through (5)".
 
 Par. (14). Pub. L. 100–180, §1304(a)(1), redesignated former par. (9) as (14).
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 109–364 effective Oct. 1, 2007, see section 519(e) of Pub
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–180, div. A, title XIII, §1304(b), Dec. 4, 1987, 101 Stat. 1173, provided that: “Paragraphs (3) and (4) of section 667 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1987.”
+Pub. L. 100–180, div. A, title XIII, §1304(b), Dec. 4, 1987, 101 Stat. 1173, provided that: "Paragraphs (3) and (4) of section 667 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1987."
 
 #### Additional Information To Be Included in Five Annual Joint Officer Policy Reports After November 30, 1993
 

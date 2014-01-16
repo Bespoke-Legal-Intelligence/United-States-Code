@@ -22,7 +22,7 @@ Designation, Nonapplication, Selection, and Procedures.—(1) For purposes of th
 
 (b)
 
-Determining Theft Rate for Passenger Vehicles.—(1) In this subsection, “new passenger motor vehicle thefts”, when used in reference to a calendar year, means thefts in the United States in that year of passenger motor vehicles with the same model-year designation as that calendar year.
+Determining Theft Rate for Passenger Vehicles.—(1) In this subsection, "new passenger motor vehicle thefts", when used in reference to a calendar year, means thefts in the United States in that year of passenger motor vehicles with the same model-year designation as that calendar year.
 
 (2) Under subsection (a) of this section, the theft rate for passenger motor vehicles of a line shall be determined by a fraction—
 
@@ -30,7 +30,7 @@ Determining Theft Rate for Passenger Vehicles.—(1) In this subsection, “new 
 
 &emsp;(B) the denominator of which is the sum of the respective production volumes of all passenger motor vehicles of that line (as reported to the Administrator of the Environmental Protection Agency under chapter 329 of this title) that are of model years 1990 and 1991 and are distributed for sale in commerce in the United States.
 
-(3) Under subsection (a) of this section, the median theft rate for all new passenger motor vehicle thefts during that 2-year period is the theft rate midway between the highest and the lowest theft rates determined under paragraph (2) of this subsection. If there is an even numberof theft rates determined under paragraph (2), the median theft rate is the arithmetic average of the 2 adjoining theft rates midway between the highest and the lowest of those theft rates.
+(3) Under subsection (a) of this section, the median theft rate for all new passenger motor vehicle thefts during that 2-year period is the theft rate midway between the highest and the lowest theft rates determined under paragraph (2) of this subsection. If there is an even number of theft rates determined under paragraph (2), the median theft rate is the arithmetic average of the 2 adjoining theft rates midway between the highest and the lowest of those theft rates.
 
 (4) In consultation with the Director of the Federal Bureau of Investigation, the Secretary periodically shall obtain from the most reliable source accurate and timely theft and recovery information and publish the information for review and comment. To the greatest extent possible, the Secretary shall use theft information reported by United States Government, State, and local police. After publication and opportunity for comment, the Secretary shall use the theft information to determine the median theft rate under this subsection. The Secretary and the Director shall take any necessary actions to improve the accuracy, reliability, and timeliness of the information, including ensuring that vehicles represented as stolen are really stolen.
 
@@ -84,15 +84,15 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §§602(g), 603(a)(5); added Oct.
 
 15:2023(d).
 
-In subsection (a)(1)(A), the words “the 2-year period covering calendar years 1990 and 1991” are substituted for “the 2 calendar years immediately preceding the year in which the Anti Car Theft Act of 1992 is enacted” because that Act was enacted on October 25, 1992. The substitution also makes it clear that the 2-year period is to be treated as a single period.
+In subsection (a)(1)(A), the words "the 2-year period covering calendar years 1990 and 1991" are substituted for "the 2 calendar years immediately preceding the year in which the Anti Car Theft Act of 1992 is enacted" because that Act was enacted on October 25, 1992. The substitution also makes it clear that the 2-year period is to be treated as a single period.
 
-In subsection (a)(1)(B), the words “after December 31, 1989,” are substituted for “after the beginning of the 2-year period specified in subparagraph (A)” for consistency with clause (A).
+In subsection (a)(1)(B), the words "after December 31, 1989," are substituted for "after the beginning of the 2-year period specified in subparagraph (A)" for consistency with clause (A).
 
-In subsection (a)(6), the word “passenger” is added because the source provisions in the revised chapter apply to passenger motor vehicles.
+In subsection (a)(6), the word "passenger" is added because the source provisions in the revised chapter apply to passenger motor vehicles.
 
-In subsection (b)(2)(B), the words “Administrator of the” are added for clarity and consistency because of section 1(b) of Reorganization Plan No. 3 of 1970 (eff. Dec. 2, 1970, 84 Stat. 2086). The words “model years 1983 and 1984” are substituted for “the 2 model years having the same model-year designations as the 2 calendar years specified in subsection (a)(1)(A) of this section” because the particular years are now known.
+In subsection (b)(2)(B), the words "Administrator of the" are added for clarity and consistency because of section 1(b) of Reorganization Plan No. 3 of 1970 (eff. Dec. 2, 1970, 84 Stat. 2086). The words "model years 1983 and 1984" are substituted for "the 2 model years having the same model-year designations as the 2 calendaryears specified in subsection (a)(1)(A) of this section" because the particular years are now known.
 
-In subsection (b)(4), the words “Immediately upon enactment of this subchapter” are omitted as executed. The words “or sources” are omitted because of 1:1.
+In subsection (b)(4), the words "Immediately upon enactment of this subchapter" are omitted as executed. The words "or sources" are omitted because of 1:1.
 
 #### References in Text
 

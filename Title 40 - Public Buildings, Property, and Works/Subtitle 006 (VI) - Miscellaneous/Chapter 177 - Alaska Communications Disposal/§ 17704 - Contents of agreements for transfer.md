@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 Pub. L. 90–135, title I, §203, Nov. 14, 1967, 81 Stat. 443.
 
-In clause (1), the word “rules” is omitted as being included in “regulations”.
+In clause (1), the word "rules" is omitted as being included in "regulations".
 
-In clause (3), the words “unless and” are omitted as unnecessary.
+In clause (3), the words "unless and" are omitted as unnecessary.
 

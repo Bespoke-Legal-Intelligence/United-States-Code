@@ -1,6 +1,6 @@
 ### §513. Enlistments: Delayed Entry Program
 
-(a) A person with no prior military service who is qualified under section 505 of this title and applicable regulations for enlistment in a regular component of an armed force may (except as provided in subsection (c)) be enlisted as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve for a term of not less than six years nor more than eight years.
+(a) A person with no prior military service who is qualified under section 505 of this title and applicable regulations for enlistment in aregular component of an armed force may (except as provided in subsection (c)) be enlisted as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve for a term of not less than six years nor more than eight years.
 
 (b)(1) Unless sooner ordered to active duty under chapter 39 of this title or another provision of law, a person enlisted under subsection (a) shall, within 365 days after such enlistment, be discharged from the reserve component in which enlisted and immediately be enlisted in the regular component of an armed force. The Secretary concerned may extend the 365-day period for any person for up to an additional 365 days if the Secretary determines that it is in the best interests of the armed force of which that person is a member to do so.
 
@@ -22,15 +22,15 @@ A prior section 513, act Aug. 10, 1956, ch. 1041, 70A Stat. 18, related to promo
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1999</b>—Subsec. (b)(1). Pub. L. 106–65 substituted “additional 365 days” for “additional 180 days” in second sentence.
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–65 substituted "additional 365 days" for "additional 180 days" in second sentence.
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–201 inserted “The Secretary concerned may extend the 365-day period for any person for up to an additional 180 days if the Secretary determines that it is in the best interests of the armed force of which that person is a member to do so.” after first sentence, “(1)” before “Unless”, and “(2)” before “During” and substituted “paragraph (1)” for “the preceding sentence”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–201 inserted "The Secretary concerned may extend the 365-day period for any person for up to an additional 180 days if the Secretary determines that it is in the best interests of the armed force of which that person is a member to do so." after first sentence, "(1)" before "Unless", and "(2)" before "During" and substituted "paragraph (1)" for "the preceding sentence".
 
-<b>1990</b>—Subsecs. (b), (c). Pub. L. 101–510 substituted “subsection (a)” for “paragraph (1)”.
+<b>1990</b>—Subsecs. (b), (c). Pub. L. 101–510 substituted "subsection (a)" for "paragraph (1)".
 
 #### Effective Date of 2002 Amendment
 
@@ -38,9 +38,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title V, §572(b), Oct. 5, 1999, 113 Stat. 623, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to enlistments entered into, on or after that date.”
+Pub. L. 106–65, div. A, title V, §572(b), Oct. 5, 1999, 113 Stat. 623, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to enlistments entered into, on or after that date."
 
 #### Army College First Pilot Program
 
-Pub. L. 106–65, div. A, title V, §573, Oct. 5, 1999, 113 Stat. 623, as amended by Pub. L. 107–107, div. A, title V, §542(a)–(c), Dec. 28, 2001, 115 Stat. 1110, 1111; Pub. L. 107–314, div. A, title V, §535, title X, §1062(j)(1), Dec. 2, 2002, 116 Stat. 2548, 2651, directed the Secretary of the Army to establish a pilot program, known as the “Army College First” program, to be in effect from Oct. 1, 1999, to Sept. 30, 2004, to assess whether the Army could increase the number and qualifications of persons entering the Army as enlisted members by encouraging recruits to pursue higher education or vocational or technical training before entry into active service, and to submit to committees of Congress a report on the program not later than Feb. 1, 2004. See section 511 of this title and section 551(b) of Pub. L. 108–375, set out as a note under section 511 of this title.
+Pub. L. 106–65, div. A, title V, §573, Oct. 5, 1999, 113 Stat. 623, as amended by Pub. L. 107–107, div. A, title V, §542(a)–(c), Dec. 28, 2001, 115 Stat. 1110, 1111; Pub. L. 107–314, div. A, title V, §535, title X, §1062(j)(1), Dec. 2, 2002, 116 Stat. 2548, 2651, directed the Secretary of the Army to establish a pilot program, known as the "Army College First" program, to be in effect from Oct. 1, 1999, to Sept. 30, 2004, to assess whether the Army could increase the number and qualifications of persons entering the Army as enlisted members by encouraging recruits to pursue higher education or vocational or technical training before entry into active service, and to submit to committees of Congress a report on the program not later than Feb. 1, 2004. See section 511 of this title and section 551(b) of Pub. L. 108–375, set out as a note under section 511 of this title.
 

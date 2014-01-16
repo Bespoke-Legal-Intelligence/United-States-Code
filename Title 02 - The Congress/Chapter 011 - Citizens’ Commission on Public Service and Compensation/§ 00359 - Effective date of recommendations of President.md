@@ -2,7 +2,7 @@
 
 (1) None of the President's recommendations under section 358 of this title shall take effect unless approved under paragraph (2).
 
-(2)(A) The recommendations of the President under section 358 of this title shall be considered approved under this paragraph if there is enacted into law a bill or joint resolution approving such recommendations in their entirety. This bill or joint resolution shall be passed by recorded vote to reflect the vote of each Member of Congress thereon.
+(2)(A) The recommendations of the President under section 358 of this title shall be consideredapproved under this paragraph if there is enacted into law a bill or joint resolution approving such recommendations in their entirety. This bill or joint resolution shall be passed by recorded vote to reflect the vote of each Member of Congress thereon.
 
 (B)(i) The provisions of this subparagraph are enacted by the Congress—
 
@@ -14,7 +14,7 @@
 
 (3) Except as provided in paragraph (4), any recommended pay adjustment approved under paragraph (2) shall take effect as of the date proposed by the President under section 358 of this title with respect to such adjustment.
 
-(4)(A) Notwithstanding the approval of the President's pay recommendations in accordance with paragraph (2), none of those recommendations shall take effect unless, between the dateon which the bill or resolution approving those recommendations is signed by the President (or otherwise becomes law) and the earliest date as of which the President proposes (under section 358 of this title) that any of those recommendations take effect, an election of Representatives shall have intervened.
+(4)(A) Notwithstanding the approval of the President's pay recommendations in accordance with paragraph (2), none of those recommendations shall take effect unless, between the date on which the bill or resolution approving those recommendations is signed by the President (or otherwise becomes law) and the earliest date as of which the President proposes (under section 358 of this title) that any of those recommendations take effect, an election of Representatives shall have intervened.
 
 (B) For purposes of this paragraph, the term “election of Representatives” means an election held on the Tuesday following the first Monday of November in any even-numbered calendar year.
 

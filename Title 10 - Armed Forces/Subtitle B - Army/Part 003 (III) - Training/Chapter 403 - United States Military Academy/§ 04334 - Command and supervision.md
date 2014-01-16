@@ -2,7 +2,7 @@
 
 (a) The supervision and charge of the Academy is in the Department of the Army, under officers of the Army detailed to that duty by the Secretary of the Army.
 
-(b) The immediate government of the Academy is under the Superintendent, who is alsothe commanding officer of the Academy and of the military post at West Point.
+(b) The immediate government of the Academy is under the Superintendent, who is also the commanding officer of the Academy and of the military post at West Point.
 
 (c) The Commandant of Cadets is the immediate commander of the Corps of Cadets, and is in charge of the instruction of the Corps in tactics.
 
@@ -40,19 +40,19 @@ R.S. 1312.
 
 10:1079.
 
-June 28, 1902, ch. 1300 (1st proviso under “Permanent Establishment”), 32 Stat. 409.
+June 28, 1902, ch. 1300 (1st proviso under "Permanent Establishment"), 32 Stat. 409.
 
-In subsection (a), the word “detailed” is substituted for the word “assign” to conform to section 4333 of this title.
+In subsection (a), the word "detailed" is substituted for the word "assign" to conform to section 4333 of this title.
 
-In subsection (b), the words “and, in his absence, the next in rank” are omitted as surplusage.
+In subsection (b), the words "and, in his absence, the next in rank" are omitted as surplusage.
 
-In subsection (c), the words “Corps of Cadets” are substituted for the words “battalion of cadets” to conform to section 4349 of this title and present terminology. The words “of artillery, cavalry, and infantry” are omitted as surplusage.
+In subsection (c), the words "Corps of Cadets" are substituted for the words "battalion of cadets" to conform to section 4349 of this title and present terminology. The words "of artillery, cavalry, and infantry" are omitted as surplusage.
 
-In subsection (d), reference to assimilated rank is omitted as superseded by section 4336 of this title. The words “and the associate professor” are omitted as obsolete.
+In subsection (d), reference to assimilated rank is omitted as superseded by section 4336 of this title. The words "and the associate professor" are omitted as obsolete.
 
 #### Amendments
 
-<b>1978</b>—Subsec. (d). Pub. L. 95–551 substituted “director of admissions” for “registrar”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–551 substituted "director of admissions" for "registrar".
 
-<b>1958</b>—Subsec. (d). Pub. L. 85–600 inserted “and the registrar” after “professors”.
+<b>1958</b>—Subsec. (d). Pub. L. 85–600 inserted "and the registrar" after "professors".
 

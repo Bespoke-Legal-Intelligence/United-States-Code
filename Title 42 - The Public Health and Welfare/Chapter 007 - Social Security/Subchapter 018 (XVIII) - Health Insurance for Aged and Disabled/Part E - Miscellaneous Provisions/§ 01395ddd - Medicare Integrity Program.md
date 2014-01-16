@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Program
 
-There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities, or otherwise, to carry out the activities described in subsection (b) of this section.
+There is hereby established the Medicare Integrity Program (in this section referred to as the "Program") under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities, or otherwise, to carry out the activities described in subsection (b) of this section.
 
 #### (b) Activities described
 
@@ -38,7 +38,7 @@ An entity is eligible to enter into a contract under the Program to carry out an
 
 #### (d) Process for entering into contracts
 
-The Secretary shall enter into contracts under the Program in accordance with such procedures as the Secretary shall by regulation establish,except that such procedures shall include the following:
+The Secretary shall enter into contracts under the Program in accordance with such procedures as the Secretary shall by regulation establish, except that such procedures shall include the following:
 
 &emsp;(1) Procedures for identifying, evaluating, and resolving organizational conflicts of interest that are generally applicable to Federal acquisition and procurement.
 
@@ -114,7 +114,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (C) Medicare contractor defined
 
-&emsp;&emsp;For purposes of this subsection, the term “medicare contractor” has the meaning given such term in section 1395zz(g) of this title.
+&emsp;&emsp;For purposes of this subsection, the term "medicare contractor" has the meaning given such term in section 1395zz(g) of this title.
 
 #### (3) Limitation on use of extrapolation
 
@@ -166,7 +166,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (D) Consent settlement defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “consent settlement” means an agreement between the Secretary and a provider of services or supplier whereby both parties agree to settle a projected overpayment based on less than a statistically valid sample of claims and the provider of services or supplier agrees not to appeal the claims involved.
+&emsp;&emsp;For purposes of this paragraph, the term "consent settlement" means an agreement between the Secretary and a provider of services or supplier whereby both parties agree to settle a projected overpayment based on less than a statistically valid sample of claims and the provider of services or supplier agrees not to appeal the claims involved.
 
 #### (6) Notice of over-utilization of codes
 
@@ -204,7 +204,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall enter into contracts with eligible entities for the purpose of ensuring that, beginning with 2006, the Medicare-Medicaid Data Match Program (commonly referred to as the “Medi-Medi Program”) is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
+&emsp;&emsp;The Secretary shall enter into contracts with eligible entities for the purpose of ensuring that, beginning with 2006, the Medicare-Medicaid Data Match Program (commonly referred to as the "Medi-Medi Program") is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
 
 &emsp;&emsp;&emsp;(i) identifying program vulnerabilities in the program established under this subchapter and the Medicaid program established under subchapter XIX through the use of computer algorithms to look for payment anomalies (including billing or billing patterns identified with respect to service, time, or patient that appear to be suspect or otherwise implausible);
 
@@ -300,7 +300,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 &emsp;Not later than 180 days after the end of each fiscal year (beginning with fiscal year 2011), the Secretary shall submit a report to Congress which identifies—
 
-&emsp;&emsp;(A) the use of funds, including funds transferred from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Insurance Trust Fund under section 1395t of this title, to carry out this section; and
+&emsp;&emsp;(A) the use of funds, including funds transferred from the Federal Hospital Insurance Trust Fund under section 1395i of this titleand the Federal Supplementary Insurance Trust Fund under section 1395t of this title, to carry out this section; and
 
 &emsp;&emsp;(B) the effectiveness of the use of such funds.
 
@@ -312,17 +312,17 @@ Section 202(b) of the Health Insurance Portability and Accountability Act of 199
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §6402(j)(1)(C), inserted “, or otherwise,” after “entities”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §6402(j)(1)(C), inserted ", or otherwise," after "entities".
 
 Subsec. (c)(4), (5). Pub. L. 111–148, §6402(j)(1)(A), added par. (4) and redesignated former par. (4) as (5)
 
-Subsec. (h)(1). Pub. L. 111–148, §6411(b)(1), substituted “this subchapter” for “part A or B” in introductory provisions.
+Subsec. (h)(1). Pub. L. 111–148, §6411(b)(1), substituted "this subchapter" for "part A or B" in introductory provisions.
 
-Subsec. (h)(2). Pub. L. 111–148, §6411(b)(2), substituted “this subchapter” for “parts A and B”.
+Subsec. (h)(2). Pub. L. 111–148, §6411(b)(2), substituted "this subchapter" for "parts A and B".
 
-Subsec. (h)(3). Pub. L. 111–148, §6411(b)(3), inserted “(not later than December 31, 2010, in the case of contracts relating to payments made under part C or D)” after “2010”.
+Subsec. (h)(3). Pub. L. 111–148, §6411(b)(3), inserted "(not later than December 31, 2010, in the case of contracts relating to payments made under part C or D)" after "2010".
 
-Subsec. (h)(4). Pub. L. 111–148, §6411(b)(4), substituted “this subchapter” for “part A or B” in introductory provisions.
+Subsec. (h)(4). Pub. L. 111–148, §6411(b)(4), substituted "this subchapter" for "part A or B" in introductory provisions.
 
 Subsec. (h)(9). Pub. L. 111–148, §6411(b)(5), added par. (9).
 
@@ -334,7 +334,7 @@ Subsec. (g). Pub. L. 109–171, §6034(d)(1)(B), added subsec. (g).
 
 Subsec. (h). Pub. L. 109–432 added subsec. (h).
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–173, §736(c)(7), substituted “medicare program” for “Medicare program”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–173, §736(c)(7), substituted "medicare program" for "Medicare program".
 
 Subsec. (f). Pub. L. 108–173, §935(a), added subsec. (f).
 
@@ -342,39 +342,39 @@ Subsec. (f). Pub. L. 108–173, §935(a), added subsec. (f).
 
 Pub. L. 108–173, title IX, §935(b), Dec. 8, 2003, 117 Stat. 2411, provided that:
 
-“(1)
+"(1)
 
-Use of repayment plans.—Section 1893(f)(1) of the Social Security Act \[subsec. (f)(1) of this section\], as added by subsection (a), shall apply to requests for repayment plans made after the date of the enactment of this Act \[Dec. 8, 2003\].
+Use of repayment plans.—Section 1893(f)(1) of the Social Security Act \[42 U.S.C. 1395ddd(f)(1)\], as added by subsection (a), shall apply to requests for repayment plans made after the date of the enactment of this Act \[Dec. 8, 2003\].
 
-“(2)
+"(2)
 
-Limitation on recoupment.—Section 1893(f)(2) of the Social Security Act \[subsec. (f)(2) of this section\], as added by subsection (a), shall apply to actions taken after the date of the enactment of this Act.
+Limitation on recoupment.—Section 1893(f)(2) of the Social Security Act \[42 U.S.C. 1395ddd(f)(2)\], as added by subsection (a), shall apply to actions taken after the date of the enactment of this Act.
 
-“(3)
+"(3)
 
-Use of extrapolation.—Section 1893(f)(3) of the Social Security Act \[subsec. (f)(3) of this section\], as added by subsection (a), shall apply to statistically valid random samples initiated after the date that is 1 year after the date of the enactment of this Act.
+Use of extrapolation.—Section 1893(f)(3) of the Social Security Act \[42 U.S.C. 1395ddd(f)(3)\], as added by subsection (a), shall apply to statistically valid random samples initiated after the date that is 1 year after the date of the enactment of this Act.
 
-“(4)
+"(4)
 
-Provision of supporting documentation.—Section 1893(f)(4) of the Social Security Act \[subsec. (f)(4) of this section\], as added by subsection (a), shall take effect on the date of the enactment of this Act.
+Provision of supporting documentation.—Section 1893(f)(4) of the Social Security Act \[42 U.S.C. 1395ddd(f)(4)\], as added by subsection (a), shall take effect on the date of the enactment of this Act.
 
-“(5)
+"(5)
 
-Consent settlement.—Section 1893(f)(5) of the Social Security Act \[subsec. (f)(5) of this section\], as added by subsection (a), shall apply to consent settlements entered into after the date of the enactment of this Act.
+Consent settlement.—Section 1893(f)(5) of the Social Security Act \[42 U.S.C. 1395ddd(f)(5)\], as added by subsection (a), shall apply to consent settlements entered into after the date of the enactment of this Act.
 
-“(6)
+"(6)
 
-Notice of overutilization.—Not later than 1 year after the date of the enactment of this Act, the Secretary \[of Health and Human Services\] shall first establish the process for notice of overutilization of billing codes under section 1893A(f)(6) \[1893(f)(6)\] of the Social Security Act \[probably means subsec. (f)(6) of this section\], as added by subsection (a).
+Notice of overutilization.—Not later than 1 year after the date of the enactment of this Act, the Secretary \[of Health and Human Services\] shall first establish the process for notice of overutilization of billing codes under section 1893A(f)(6) \[1893(f)(6)\] of the Social Security Act \[probably means 42 U.S.C. 1395ddd(f)(6)\], as added by subsection (a).
 
-“(7)
+"(7)
 
-Payment audits.—Section 1893A(f)(7) \[1893(f)(7)\] of the Social Security Act \[probably means subsec. (f)(7) of this section\], as added by subsection (a), shall apply to audits initiated after the date of the enactment of this Act.
+Payment audits.—Section 1893A(f)(7) \[1893(f)(7)\] of the Social Security Act \[probably means 42 U.S.C. 1395ddd(f)(7)\], as added by subsection (a), shall apply to audits initiated after the date of the enactment of this Act.
 
-“(8)
+"(8)
 
-Standard for abnormal billing patterns.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act \[subsec. (f)(8) of this section\], as added by subsection (a).”
+Standard for abnormal billing patterns.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act \[42 U.S.C. 1395ddd(f)(8)\], as added by subsection (a)."
 
 #### Access to Coordination of Benefits Contractor Database
 
-Pub. L. 109–432, div. B, title III, §302(b), Dec. 20, 2006, 120 Stat. 2992, provided that: “The Secretary of Health and Human Services shall provide for access by recovery audit contractors conducting audit and recovery activities under section 1893(h) of the Social Security Act \[subsec. (h) of this section\], as added by subsection (a), to the database of the Coordination of Benefits Contractor of the Centers for Medicare \& Medicaid Services with respect to the audit and recovery periods described in paragraph (4) of such section 1893(h).”
+Pub. L. 109–432, div. B, title III, §302(b), Dec. 20, 2006, 120 Stat. 2992, provided that: "The Secretary of Health and Human Services shall provide for access by recovery audit contractors conducting audit and recovery activities under section 1893(h) of the Social Security Act \[42 U.S.C. 1395ddd(h)\], as added by subsection (a), to the database of the Coordination of Benefits Contractor of the Centers for Medicare \& Medicaid Services with respect to the audit and recovery periods described in paragraph (4) of such section 1893(h)."
 

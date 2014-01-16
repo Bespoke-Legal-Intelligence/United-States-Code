@@ -2,7 +2,7 @@
 
 #### (a) Establishment and purpose
 
-The President shall establish the Trade Promotion Coordinating Committee (hereafter in this section referred to as the “TPCC”). The purpose of the TPCC shall be—
+The President shall establish the Trade Promotion Coordinating Committee (hereafter in this section referred to as the "TPCC"). The purpose of the TPCC shall be—
 
 &emsp;(1) to provide a unifying framework to coordinate the export promotion and export financing activities of the United States Government; and
 
@@ -88,7 +88,7 @@ Members of the TPCC shall be appointed by the heads of their respective departme
 
 #### (f) Report to Congress
 
-The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing,and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than March 30 of each year, a report describing—
+The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than March 30 of each year, a report describing—
 
 &emsp;(1) the strategic plan developed by the TPCC pursuant to subsection (c) of this section, the implementation of such plan, and any revisions thereto; and
 
@@ -98,15 +98,15 @@ The chairperson of the TPCC shall prepare and submit to the Committee on Banking
 
 #### References in Text
 
-Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, “sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5823 and 5824)”, and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
+Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, "sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5823 and 5824)", and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>1999</b>—Subsec. (f). Pub. L. 106–158 substituted “March 30 of each year,” for “September 30, 1995, and annually thereafter,” in introductory provisions.
+<b>1999</b>—Subsec. (f). Pub. L. 106–158 substituted "March 30 of each year," for "September 30, 1995, and annually thereafter," in introductory provisions.
 
 <b>1996</b>—Subsec. (c)(6). Pub. L. 104–288 added par. (6).
 
-<b>1995</b>—Subsec. (f). Pub. L. 104–66 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Foreign Affairs of the House of Representatives, not later than September 30, 1993, and annually thereafter, a report describing the strategic plan developed by the TPCC pursuant to subsection (c) of this section, the implementation of such plan, and any revisions thereto.”
+<b>1995</b>—Subsec. (f). Pub. L. 104–66 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Foreign Affairs of the House of Representatives, not later than September 30, 1993, and annually thereafter, a report describing the strategic plan developed by the TPCC pursuant to subsection (c) of this section, the implementation of such plan, and any revisions thereto."
 
 #### Change of Name
 
@@ -118,7 +118,7 @@ Ex. Ord. No. 12870, Sept. 30, 1993, 58 F.R. 51753, as amended by Ex. Ord. No. 13
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Export Enhancement Act of 1992 (Public Law 102–429, 106 Stat. 2186) \[see Short Title of 1992 Amendment note set out under section 635 of Title 12, Banks and Banking\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is established the “Trade Promotion Coordinating Committee” (“TPCC”). The Committee shall comprise representatives of each of the following:
+Section 1. <i>Establishment</i>. There is established the "Trade Promotion Coordinating Committee" ("TPCC"). The Committee shall comprise representatives of each of the following:
 
 &emsp;(a) Department of Commerce;
 
@@ -264,9 +264,9 @@ Sec. 3. <i>National Export Initiative</i>. The NEI shall address the following:
 
 (e) <i>Increasing Export Credit</i>. The President of the Export-Import Bank, in consultation with other members of the Export Promotion Cabinet, shall take steps to increase the availability of credit to SMEs.
 
-(f) <i>Macroeconomic Rebalancing</i>. The Secretary of the Treasury, in consultation with other members of the Export Promotion Cabinet, shall promote balanced and strong growth in the global economy through the G20 Financial Ministers’ process or other appropriate mechanisms.
+(f) <i>Macroeconomic Rebalancing</i>. The Secretary of the Treasury, in consultation with other members of the Export Promotion Cabinet, shall promote balanced and strong growth in the global economy through the G20 Financial Ministers' process or other appropriate mechanisms.
 
-(g) <i>Reducing Barriers to Trade</i>. The United States Trade Representative, in consultation with other members of the Export Promotion Cabinet, shall take steps to improve market access overseas for our manufacturers, farmers, and service providers by actively opening new markets, reducing significant trade barriers, and robustly enforcing our trade agreements.
+(g) <i>Reducing Barriers to Trade</i>. The United States Trade Representative, in consultation with other members of the Export Promotion Cabinet, shall take stepsto improve market access overseas for our manufacturers, farmers, and service providers by actively opening new markets, reducing significant trade barriers, and robustly enforcing our trade agreements.
 
 (h) <i>Export Promotion of Services</i>. Members of the Export Promotion Cabinet shall develop a framework for promoting services trade, including the necessary policy and export promotion tools.
 
@@ -274,7 +274,7 @@ Sec. 4. <i>Report to the President</i>. Not later than 180 days after the date o
 
 Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
-(i) authority granted by law to an executive department, agency, or the head thereof, or the status of thatdepartment or agency within the Federal Government; or
+(i) authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or
 
 (ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
@@ -344,9 +344,9 @@ Sec. 3. <i>Functions</i>. The Task Force shall perform the following functions:
 
 Sec. 4. <i>Definitions</i>. For the purposes of this order:
 
-(a) the term “commercial advocacy” shall mean Federal support for U.S. firms competing for foreign project or procurement opportunities; and
+(a) the term "commercial advocacy" shall mean Federal support for U.S. firms competing for foreign project or procurement opportunities; and
 
-(b) the term “foreign project or procurement opportunities” shall mean export opportunities, including defense export opportunities, for U.S. businesses that involve foreign government decisionmakers, including foreign government-owned corporations.
+(b) the term "foreign project or procurement opportunities" shall mean export opportunities, including defense export opportunities, for U.S. businesses that involve foreign government decisionmakers, including foreign government-owned corporations.
 
 Sec. 5. <i>General Provisions</i>. (a) The Commerce Department shall provide funding and administrative support for the Task Force to the extent permitted by law and consistent with existing appropriations.
 
@@ -386,7 +386,7 @@ Accordingly, to further enhance and coordinate Federal efforts to facilitate the
 
 (c) present to the Director of OMB for consideration in the annual process for developing the President's Budget, a proposed unified Federal trade budget, consistent with my Administration's strategic trade and investment goals and priorities.
 
-(4) <i>Coordination of Offices and Staff</i>. The Export Promotion Cabinet, in consultation with the TPCC, shall take steps to ensure the most efficient use of its members’ domestic and foreign offices and distribution networks, including: co-locating offices wherever appropriate; cross-training staff to better serve business customers at home and abroad by promoting exports to foreign countries and foreign investment in the United States; and considering the effectiveness of commercial diplomacy, cross-training, and referrals, as appropriate, when evaluating employee performance.
+(4) <i>Coordination of Offices and Staff</i>. The Export Promotion Cabinet, in consultation with the TPCC, shall take steps to ensure the most efficient use of its members' domestic and foreign offices and distribution networks, including: co-locating offices wherever appropriate; cross-training staff to better serve business customers at home and abroad by promoting exports to foreign countries and foreign investment in the United States; and considering the effectiveness of commercial diplomacy, cross-training, and referrals, as appropriate, when evaluating employee performance.
 
 (5) <i>Enhancing Business Competitiveness</i>. Pending passage of legislation providing Consolidation Authority, the Export Promotion Cabinet shall work with the National Economic Council to develop and coordinate administrative initiatives to align and enhance programs that enable and support efforts by American businesses, particularly small businesses, to innovate, grow, and increase exports.
 

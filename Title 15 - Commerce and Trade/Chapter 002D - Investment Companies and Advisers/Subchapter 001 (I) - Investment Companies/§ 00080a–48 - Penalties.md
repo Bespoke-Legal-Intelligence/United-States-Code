@@ -6,7 +6,7 @@ Any person who willfully violates any provision of this subchapter or of any rul
 
 #### Amendments
 
-<b>1975</b>—Pub. L. 94–29 substituted “or imprisoned not more than five years” for “or imprisoned not more than two years”.
+<b>1975</b>—Pub. L. 94–29 substituted "or imprisoned not more than five years" for "or imprisoned not more than two years".
 
 #### Effective Date of 1975 Amendment
 

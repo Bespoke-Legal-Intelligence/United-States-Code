@@ -12,7 +12,7 @@ Requests To Obtain Information.—(1) The Chairman of the National Transportatio
 
 (2) An individual who is employed, or is seeking employment, as a driver of a motor vehicle may request the chief driver licensing official of the State in which the individual is employed or seeks employment to provide information about the individual under subsection (a) of this section to the individual's employer or prospective employer. An employer or prospective employer may receive the information and shall make the information available to the individual. Information may not be obtained from the National Driver Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
-(3) An individual who has received, or is applying for, an airman's certificate may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Administrator of the Federal Aviation Administration. The Administrator may receive the information and shall make the information available to the individual for review and written comment. The Administrator may use the information to verify information required to be reported to theAdministrator by an airman applying for an airman medical certificate and to evaluate whether the airman meets the minimum standards prescribed by the Administrator to be issued an airman medical certificate. The Administrator may not otherwise divulge or use the information. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
+(3) An individual who has received, or is applying for, an airman's certificate may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Administrator of the Federal Aviation Administration. The Administrator may receive the information and shall make the information available to the individual for review and written comment. The Administrator may use the information to verify information required to be reported to the Administrator by an airman applying for an airman medical certificate and to evaluate whether the airman meets the minimum standards prescribed by the Administrator to be issued an airman medical certificate. The Administrator may not otherwise divulge or use the information. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
 (4) An individual who is employed, or is seeking employment, by a rail carrier as an operator of a locomotive may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the individual's employer or prospective employer or to the Secretary of Transportation. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
@@ -24,7 +24,7 @@ Requests To Obtain Information.—(1) The Chairman of the National Transportatio
 
 (8) An individual who is seeking employment by an air carrier as a pilot may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the prospective employer of the individual or to the Secretary of Transportation. Information may not be obtained from the National Driver Register under this subsection if the information was entered in the Register more than 5 years before the request unless the information is about a revocation or suspension still in effect on the date of the request.
 
-(9) An individual who has or is seeking access to national security information for purposes of Executive Order No. 12968, or any successor Executive order, or an individual who is being investigated for Federal employment under authority of Executive Order No. 10450, or any successor Executive order, may request the chief driver licensing official of a State to provide information about the individual pursuant to subsection (a) of this section to a Federal department or agency that is authorized to investigate the individual for the purpose of assisting in the determination of the eligibility of the individual for access to national security information or for Federal employment in a position requiring access to national security information. A Federal department or agency that receives information about an individual under the preceding sentence may use such information only for purposes of the authorized investigation and only in accordance with applicable law.
+(9) An individual who has or is seeking access to national security information for purposes of Executive Order No. 12968, or any successor Executive order, or an individual who is being investigated for Federal employment under authority of Executive Order No. 10450, or any successor Executive order, may request the chief driver licensing official of a State to provide information about the individual pursuant to subsection (a) of this section to a Federal department or agency that is authorized to investigate the individual for the purpose of assisting in the determination of the eligibility of the individual for access to national security information orfor Federal employment in a position requiring access to national security information. A Federal department or agency that receives information about an individual under the preceding sentence may use such information only for purposes of the authorized investigation and only in accordance with applicable law.
 
 (10) A request under this subsection shall be made in the form and way the Secretary of Transportation prescribes by regulation.
 
@@ -40,7 +40,7 @@ Requests To Obtain Information.—(1) The Chairman of the National Transportatio
 
 (c)
 
-Relationship to Other Laws.—A request for, or receipt of, information from the Register is subject to sections 552 and 552a of title 5, andother applicable laws of the United States or a State, except that—
+Relationship to Other Laws.—A request for, or receipt of, information from the Register is subject to sections 552 and 552a of title 5, and other applicable laws of the United States or a State, except that—
 
 &emsp;(1) the Secretary of Transportation may not relay or otherwise provide information specified in section 30304(b)(1)(A) or (C) of this title to a person not authorized by this section to receive the information;
 
@@ -72,9 +72,9 @@ Pub. L. 103–272
 
 Oct. 25, 1982, Pub. L. 97–364, §206, 96 Stat. 1743; Dec. 30, 1987, Pub. L. 100–223, §305, 101 Stat. 1525; June 22, 1988, Pub. L. 100–342, §4(b), 102 Stat. 626; Aug. 18, 1990, Pub. L. 101–380, §4105(a), 104 Stat. 512.
 
-In subsection (a)(1), the words “on and after the date of enactment of this title \[Oct. 25, 1982\]” are omitted as obsolete.
+In subsection (a)(1), the words "on and after the date of enactment of this title \[Oct. 25, 1982\]" are omitted as obsolete.
 
-In subsection (b)(1), the word “Administrator” is substituted for “Bureau of Motor Carrier Safety” for consistency.
+In subsection (b)(1), the word "Administrator" is substituted for "Bureau of Motor Carrier Safety" for consistency.
 
 Subsection (d) is substituted for the last 2 sentences (added twice by mistake) in paragraphs (1) and (2) and for the last sentence in paragraphs (3), (4), and (7)(C) of section 206(b) of the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1744) for clarity and to avoid repeating the provision unnecessarily.
 
@@ -88,7 +88,7 @@ This amends 49:30305(b) to redesignate paragraph (8), as redesignated by section
 
 #### References in Text
 
-Executive Order No. 12968, referred to in subsec. (b)(9), is set out as a note under section 435 of Title 50, War and National Defense.
+Executive Order No. 12968, referred to in subsec. (b)(9), is set out as a note under section 3161 of Title 50, War and National Defense.
 
 Executive Order No. 10450, referred to in subsec. (b)(9), is set out as a note under section 7311 of Title 5, Government Organization and Employees.
 
@@ -98,7 +98,7 @@ Act of July 14, 1960, referred to in subsec. (d), is set out as a note under sec
 
 <b>2004</b>—Subsec. (b)(9) to (12). Pub. L. 108–375 added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
 
-<b>1998</b>—Subsec. (b)(2). Pub. L. 105–178, §2006(b)(1)(A), inserted before period at end “, unless the information is about a revocation or suspension still in effect on the date of the request”.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–178, §2006(b)(1)(A), inserted before period at end ", unless the information is about a revocation or suspension still in effect on the date of the request".
 
 Subsec. (b)(6). Pub. L. 105–178, §2006(b)(2)(B), added par. (6). Former par. (6) redesignated (10).
 
@@ -116,7 +116,7 @@ Subsec. (b)(11). Pub. L. 105–178, §2006(b)(2)(C), added par. (11).
 
 <b>1997</b>—Subsec. (b)(8). Pub. L. 105–102, §2(18)(B), redesignated par. (8), relating to request, as (9).
 
-Pub. L. 105–102, §2(18)(A), in par. (8), relating to individual seeking employment as pilot, substituted “subsection (a) of this section” for “paragraph (2)”.
+Pub. L. 105–102, §2(18)(A), in par. (8), relating to individual seeking employment as pilot, substituted "subsection (a) of this section" for "paragraph (2)".
 
 Subsec. (b)(9). Pub. L. 105–102, §2(18)(B), redesignated par. (8), relating to request, as (9).
 
@@ -132,7 +132,7 @@ Pub. L. 104–264, §502(b), redesignated par. (7), relating to request, as (8).
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
-Pub. L. 104–264, title V, §502(d), Oct. 9, 1996, 110 Stat. 3263, provided that: “The amendments made by this section \[amending this section and sections 44936 and 46301 of this title\] shall apply to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following the date of the enactment of this Act \[Oct. 9, 1996\].”
+Pub. L. 104–264, title V, §502(d), Oct. 9, 1996, 110 Stat. 3263, provided that: "The amendments made by this section \[amending this section and sections 44936 and 46301 of this title\] shall apply to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following the date of the enactment of this Act \[Oct. 9, 1996\]."
 
 #### Transfer of Functions
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 20, 1954, ch. 774, §9(a), 68 Stat. 751.
 
-The word “various” is omitted as unnecessary.
+The word "various" is omitted as unnecessary.
 

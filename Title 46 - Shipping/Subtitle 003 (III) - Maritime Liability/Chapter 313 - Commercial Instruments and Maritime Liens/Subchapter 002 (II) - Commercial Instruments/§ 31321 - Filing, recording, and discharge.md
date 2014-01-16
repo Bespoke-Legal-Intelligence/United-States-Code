@@ -122,13 +122,13 @@ When a State preferred mortgage under section 31322(d) is finally discharged, su
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–281 struck out “of Transportation” after “Secretary” in introductory provisions.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–281 struck out "of Transportation" after "Secretary" in introductory provisions.
 
-<b>2002</b>—Subsec. (a)(4) Pub. L. 107–295 struck out subpar. (A) designation before “A bill of sale” and subpar. (B) which read as follows: “A filing made electronically under subparagraph (A) shall not be effective after the 10-day period beginning on the date of the filing unless the original instrument is provided to the Secretary within that 10-day period.”
+<b>2002</b>—Subsec. (a)(4) Pub. L. 107–295 struck out subpar. (A) designation before "A bill of sale" and subpar. (B) which read as follows: "A filing made electronically under subparagraph (A) shall not be effective after the 10-day period beginning on the date of the filing unless the original instrument is provided to the Secretary within that 10-day period."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–324 added par. (4).
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–225 substituted “for which an application for documentation is filed” for “that has not yet been documented” in introductory provisions and “interested party to” for “party whose name and address is stated on” in par. (1).
+<b>1989</b>—Subsec. (c). Pub. L. 101–225 substituted "for which an application for documentation is filed" for "that has not yet been documented" in introductory provisions and "interested party to" for "party whose name and address is stated on" in par. (1).
 
 #### Effective Date
 

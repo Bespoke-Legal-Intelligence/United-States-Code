@@ -20,7 +20,7 @@ Preservation programs assisted under this section shall—
 
 &emsp;(3) be used to provide interest reduction payment;
 
-&emsp;(4) be used to provide loans or grants to owners of rental housing, except that rental rehabilitation or replacement assistance provided under this subsection for any structure shall not exceed 75 per centum of the total costs associated with the rehabilitation or replacement of that structure;
+&emsp;(4) be used to provide loans or grants to owners of rental housing, except that rental rehabilitation or replacement assistance provided under this subsection for any structure shallnot exceed 75 per centum of the total costs associated with the rehabilitation or replacement of that structure;
 
 &emsp;(5) be used to provide other comparable assistance that the Secretary deems appropriate to carry out the purpose of this section, designed to reduce the costs of such repair, rehabilitation, and replacement in order to make such housing affordable by persons of low income and, to the extent feasible, by persons and families whose incomes do not exceed 50 per centum of the area median income;
 
@@ -110,7 +110,7 @@ Preservation programs assisted under this section shall—
 
 #### (f) Advance payments of assistance
 
-The Secretary shall provide for such advance payments of assistance under this section as theSecretary determines is necessary to effectively carry out the provisions of this section.
+The Secretary shall provide for such advance payments of assistance under this section as the Secretary determines is necessary to effectively carry out the provisions of this section.
 
 #### (g) Annual review and audit by Secretary of activities; adjustment, etc., of resources; reallocation of amounts
 
@@ -126,7 +126,7 @@ The Secretary shall, at least on an annual basis, make such review and audits as
 
 The Secretary shall establish procedures which support national historic preservation objectives and which assure that, if any rehabilitation proposed to be assisted under this section would affect property that is included or is eligible for inclusion on the National Register of Historic Places, such activity shall not be undertaken unless (1) it will reasonably meet the standards for rehabilitation issued by the Secretary of the Interior and the appropriate State historic preservation officer is afforded the opportunity to comment on the specific rehabilitation plan, or (2) the Advisory Council on Historic Preservation is afforded an opportunity to comment on cases for which the recipient of assistance, in consultation with the State historic preservation officer, determines that the proposed rehabilitation activity cannot reasonably meet such standards or would adversely affect historic property as defined therein.
 
-(July 15, 1949, ch. 338, title V, §533, as added Pub. L. 98–181, title I \[title V, §522\], Nov. 30, 1983, 97 Stat. 1250; amended Pub. L. 100–242, title III, §§310, 316(g), Feb. 5, 1988, 101 Stat. 1896, 1898; Pub. L. 101–625, title VII, §717, Nov. 28, 1990, 104 Stat. 4296; Pub. L. 102–550, title VII, §§706(1), 711, Oct. 28, 1992, 106 Stat. 3835, 3840; Pub. L. 105–276, title V, §550(e), Oct. 21, 1998, 112 Stat. 2610; Pub. L. 105–362, title I, §101(h), Nov. 10, 1998, 112 Stat. 3281.)
+(July 15, 1949, ch. 338, title V, §533, as added Pub. L. 98–181, title I \[title V, §522\], Nov. 30, 1983, 97 Stat. 1250; amended Pub. L. 100–242, title III, §§310, 316(g), Feb. 5, 1988, 101 Stat. 1896, 1898; Pub. L. 101–625, title VII, §717, Nov. 28, 1990, 104 Stat. 4296; Pub. L. 102–550, title VII, §§706(1), 711, Oct. 28, 1992, 106 Stat. 3835, 3840; Pub. L. 105–276, titleV, §550(e), Oct. 21, 1998, 112 Stat. 2610; Pub. L. 105–362, title I, §101(h), Nov. 10, 1998, 112 Stat. 3281.)
 
 #### References in Text
 
@@ -136,51 +136,51 @@ Public Law 90–284, referred to in subsec. (e)(1)(C), is Pub. L. 90–284, Apr.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–276 substituted “tenant-based assistance as provided under section 1437f of this title” for “assistance payments as provided by section 1437f(o) of this title” in concluding provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–276 substituted "tenant-based assistance as provided under section 1437f of this title" for "assistance payments as provided by section 1437f(o) of this title" in concluding provisions.
 
-Subsec. (j). Pub. L. 105–362 struck out subsec. (j) which read as follows: “Not later than 180 days after the close of each fiscal year in which assistance under this section is furnished, the Secretary shall submit to the Congress a report which shall contain—
+Subsec. (j). Pub. L. 105–362 struck out subsec. (j) which read as follows: "Not later than 180 days after the close of each fiscal year in which assistance under this section is furnished, the Secretary shall submit to the Congress a report which shall contain—
 
-&emsp;“(1) a description of the progress made in accomplishing the objectives of this section; and
+&emsp;"(1) a description of the progress made in accomplishing the objectives of this section; and
 
-&emsp;“(2) a summary of the use of such funds during the preceding year.
+&emsp;"(2) a summary of the use of such funds during the preceding year.
 
-> The Secretary shall require grantees under this section to submit to him such reports, and other information as may be necessary in order for the Secretary to make the report required by this subsection.”
+> The Secretary shall require grantees under this section to submit to him such reports, and other information as may be necessary in order for the Secretary to make the report required by this subsection."
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–550, §§706(1), 711(1)(B), in concluding provisions, inserted reference to section 1490r of this title and “or replaced” after “rehabilitated”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §§706(1), 711(1)(B), in concluding provisions, inserted reference to section 1490r of this title and "or replaced" after "rehabilitated".
 
-Subsec. (a)(1), (2). Pub. L. 102–550, §711(1)(A), inserted “or replace” after “rehabilitate”.
+Subsec. (a)(1), (2). Pub. L. 102–550, §711(1)(A), inserted "or replace" after "rehabilitate".
 
-Subsec. (b). Pub. L. 102–550, §711(2)(A), substituted “Preservation programs” for “Rehabilitation programs” in introductory provisions.
+Subsec. (b). Pub. L. 102–550, §711(2)(A), substituted "Preservation programs" for "Rehabilitation programs" in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 102–550, §711(2)(E), added par. (2). Former par. (2) redesignated (3).
 
 Subsec. (b)(3). Pub. L. 102–550, §711(2)(D), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Pub. L. 102–550, §711(2)(B), inserted “or replacement” after “rehabilitation” in two places.
+Pub. L. 102–550, §711(2)(B), inserted "or replacement" after "rehabilitation" in two places.
 
 Subsec. (b)(4). Pub. L. 102–550, §711(2)(D), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Pub. L. 102–550, §711(2)(C), substituted “repair, rehabilitation, and replacement” for “repair and rehabilitation”.
+Pub. L. 102–550, §711(2)(C), substituted "repair, rehabilitation, and replacement" for "repair and rehabilitation".
 
 Subsec. (b)(5) to (7). Pub. L. 102–550, §711(2)(D), redesignated pars. (4) to (6) as (5) to (7), respectively.
 
-Subsec. (c)(1). Pub. L. 102–550, §711(3), substituted “grant funds under this section” for “rehabilitation grant funds” in introductory provisions.
+Subsec. (c)(1). Pub. L. 102–550, §711(3), substituted "grant funds under this section" for "rehabilitation grant funds" in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 102–550, §711(4)(A), substituted “preservation program” for “rehabilitation program”.
+Subsec. (d)(1). Pub. L. 102–550, §711(4)(A), substituted "preservation program" for "rehabilitation program".
 
-Subsec. (d)(3)(A), (B), (D). Pub. L. 102–550, §711(4)(B), substituted “repair, rehabilitation, and replacement” for “repair and rehabilitation”.
+Subsec. (d)(3)(A), (B), (D). Pub. L. 102–550, §711(4)(B), substituted "repair, rehabilitation, and replacement" for "repair and rehabilitation".
 
-Subsec. (d)(4). Pub. L. 102–550, §711(4)(C), inserted “, or replacement,” after “rehabilitation”.
+Subsec. (d)(4). Pub. L. 102–550, §711(4)(C), inserted ", or replacement," after "rehabilitation".
 
 Subsec. (d)(5). Pub. L. 102–550, §711(4)(D), added par. (5).
 
-<b>1990</b>—Subsec. (c)(1). Pub. L. 101–625, §717(a), inserted at end “Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent provided in appropriations Acts, for use as housing preservation grants in ensuing fiscal years.”
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–625, §717(a), inserted at end "Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent provided in appropriations Acts, for use as housing preservation grants in ensuing fiscal years."
 
-Subsec. (g). Pub. L. 101–625, §717(b), substituted last sentence for “Any amounts which became available as a result of actions under this subsection shall be reallocated in the year in which they become available tosuch grantee or grantees as the Secretary may determine.”
+Subsec. (g). Pub. L. 101–625, §717(b), substituted last sentence for "Any amounts which became available as a result of actions under this subsection shall be reallocated in the year in which they become available to such grantee or grantees as the Secretary may determine."
 
-<b>1988</b>—Subsec. (e)(1)(B)(iii). Pub. L. 100–242, §316(g)(1), inserted “to” before “refuse”.
+<b>1988</b>—Subsec. (e)(1)(B)(iii). Pub. L. 100–242, §316(g)(1), inserted "to" before "refuse".
 
-Subsec. (g). Pub. L. 100–242, §316(g)(2), substituted “low income families or persons and very low-income families or persons” for “persons of low income and very low-income”.
+Subsec. (g). Pub. L. 100–242, §316(g)(2), substituted "low income families or persons and very low-income families or persons" for "persons of low income and very low-income".
 
 Subsec. (h). Pub. L. 100–242, §310, designated existing provisions as par. (1) and added par. (2).
 

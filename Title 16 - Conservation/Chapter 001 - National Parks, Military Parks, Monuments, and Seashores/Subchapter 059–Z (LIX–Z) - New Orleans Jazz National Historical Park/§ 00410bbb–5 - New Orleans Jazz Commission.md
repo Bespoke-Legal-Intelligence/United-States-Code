@@ -2,11 +2,11 @@
 
 #### (a) Establishment
 
-To assist in implementing the purposes of this subchapter and the document entitled “New Orleans Jazz Special Resource Study”, there is established the New Orleans Jazz Commission (hereinafter referred to as the “Commission”).
+To assist in implementing the purposes of this subchapter and the document entitled "New Orleans Jazz Special Resource Study", there is established the New Orleans Jazz Commission (hereinafter referred to as the "Commission").
 
 #### (b) Membership
 
-The Commission shall consist of 17 members to be appointed no later than six months afterOctober 31, 1994. The Commission shall be appointed by the Secretary as follows:
+The Commission shall consist of 17 members to be appointed no later than six months after October 31, 1994. The Commission shall be appointed by the Secretary as follows:
 
 &emsp;(1) One member from recommendations submitted by the Mayor of New Orleans.
 
@@ -74,7 +74,7 @@ The Secretary shall provide the Commission with assistance in obtaining such per
 
 #### (i) Annual report
 
-The Commission shall submit an annual report to the Secretary identifying its expensesand income and the entities to which any grants or technical assistance were made during the year for which the report is made.
+The Commission shall submit an annual report to the Secretary identifying its expenses and income and the entities to which any grants or technical assistance were made during the year for which the report is made.
 
 (Pub. L. 103–433, title XII, §1207, Oct. 31, 1994, 108 Stat. 4522.)
 

@@ -6,7 +6,7 @@ In consultation with the heads of other agencies utilizing the Foreign Service s
 
 #### (b) Foreign Service Internship Program
 
-The program shall introduce interns to the practice of diplomacy and the unique rewards of the Foreign Service. The program shall consist of three successive summer internships of not less than eight weeks duration in each year to be completed over the course of not more than four years. Special emphasis shall be given to preparing the intern for the Foreign Service examination process. In each year not less than 10 interns shall enter the program.
+The program shall introduce interns to the practice of diplomacy and the unique rewards ofthe Foreign Service. The program shall consist of three successive summer internships of not less than eight weeks duration in each year to be completed over the course of not more than four years. Special emphasis shall be given to preparing the intern for the Foreign Service examination process. In each year not less than 10 interns shall enter the program.
 
 #### (c) Eligibility to participate
 
@@ -46,9 +46,9 @@ The Secretary of State shall study the feasibility of administering the Foreign 
 
 #### Codification
 
-February 16, 1990, referred to in subsec. (h), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 101–246, which enacted this subchapter, to reflect the probable intent of Congress.
+February 16, 1990, referred to in subsec. (h), was in the original "the date of the enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 101–246, which enacted this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d)(1). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “Foreign Service Institute”.
+<b>2002</b>—Subsec. (d)(1). Pub. L. 107–132 substituted "George P. Shultz National Foreign Affairs Training Center" for "Foreign Service Institute".
 

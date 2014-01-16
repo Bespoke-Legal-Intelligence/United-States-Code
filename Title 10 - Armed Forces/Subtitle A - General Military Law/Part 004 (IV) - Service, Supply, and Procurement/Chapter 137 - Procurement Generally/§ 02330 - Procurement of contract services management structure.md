@@ -60,15 +60,15 @@ Duties and Responsibilities of Senior Officials Responsible for the Management o
 
 Definitions.—In this section:
 
-&emsp;(1) The term “procurement action” includes the following actions:
+&emsp;(1) The term "procurement action" includes the following actions:
 
 &emsp;&emsp;(A) Entry into a contract or any other form of agreement.
 
 &emsp;&emsp;(B) Issuance of a task order, delivery order, or military interdepartmental purchase request.
 
-&emsp;(2) The term “contract services” includes all services acquired from private sector entities by or for the Department of Defense, includingservices in support of contingency operations. The term does not include services relating to research and development or military construction.
+&emsp;(2) The term "contract services" includes all services acquired from private sector entities by or for the Department of Defense, including services in support of contingency operations. The term does not include services relating to research and development or military construction.
 
-(Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174; amended Pub. L. 107–314, div. A, title X, §1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, §812(a)(1), Jan. 6, 2006, 119 Stat. 3376; Pub. L. 112–239, div. A, title VIII, §845(d), Jan. 2, 2013, 126 Stat. 1848.)
+(Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174; amendedPub. L. 107–314, div. A, title X, §1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, §812(a)(1), Jan. 6, 2006, 119 Stat. 3376; Pub. L. 112–239, div. A, title VIII, §845(d), Jan. 2, 2013, 126 Stat. 1848.)
 
 #### References in Text
 
@@ -84,213 +84,213 @@ Another prior section 2330 was renumbered section 2349 of this title.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(2). Pub. L. 112–239 substituted “including services in support of contingency operations. The term does not include services relating to research and development or military construction.” for “other than services relating to research and development or military construction.”
+<b>2013</b>—Subsec. (c)(2). Pub. L. 112–239 substituted "including services in support of contingency operations. The term does not include services relating to research and development or military construction." for "other than services relating to research and development or military construction."
 
 <b>2006</b>—Pub. L. 109–163 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to requirement for management structure, contracting responsibilities of designated officials, and definitions.
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–314 inserted comma after “a task order”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 inserted comma after "a task order".
 
 #### Implementation of Recommendations of Defense Science Board Task Force on Improvements to Service Contracting
 
 Pub. L. 112–81, div. A, title VIII, §807, Dec. 31, 2011, 125 Stat. 1488, provided that:
 
-“(a)
+"(a)
 
 Plan for Implementation.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall, acting pursuant to the Under Secretary's responsibility under section 2330 of title 10, United States Code, develop a plan for implementing the recommendations of the Defense Science Board Task Force on Improvements to Service Contracting.
 
-“(b)
+"(b)
 
 Elements.—The plan developed pursuant to subsection (a) shall include, to the extent determined appropriate by the Under Secretary for Acquisition, Technology, and Logistics, the following:
 
-&emsp;“(1) Meaningful incentives to services contractors for high performance at low cost, consistent with the objectives of the Better Buying Power Initiative established by the Under Secretary.
+&emsp;"(1) Meaningful incentives to services contractors for high performance at low cost, consistent with the objectives of the Better Buying Power Initiative established by the Under Secretary.
 
-&emsp;“(2) Improved means of communication between the Government and the services contracting industry in the process of developing requirements for services contracts.
+&emsp;"(2) Improved means of communication between the Government and the services contracting industry in the process of developing requirements for services contracts.
 
-&emsp;“(3) Clear guidance for defense acquisition personnel on the use of appropriate contract types for particular categories of services contracts.
+&emsp;"(3) Clear guidance for defense acquisition personnel on the use of appropriate contract types for particular categories of services contracts.
 
-&emsp;“(4) Formal certification and training requirements for services acquisition personnel, consistent with the requirements of sections 1723 and 1724 of title 10, United States Code.
+&emsp;"(4) Formal certification and training requirements for services acquisition personnel, consistent with the requirements of sections 1723 and 1724 of title 10, United States Code.
 
-&emsp;“(5) Appropriate emphasis on the recruiting and training of services acquisition personnel, consistent with the strategic workforce plan developed pursuant to section 115b of title 10, United States Code, and the funds available through the Department of Defense Acquisition Workforce Development Fund established pursuant to section 1705 of title 10, United States Code.
+&emsp;"(5) Appropriate emphasis on the recruiting and training of services acquisition personnel, consistent with the strategic workforce plan developed pursuant to section 115b of title 10, United States Code, and the funds available through the Department of Defense Acquisition Workforce Development Fund established pursuant to section 1705 of title 10, United States Code.
 
-&emsp;“(6) Policies and guidance on career development for services acquisition personnel, consistent with the requirements of sections 1722a and 1722b of title 10, United States Code.
+&emsp;"(6) Policies and guidance on career development for services acquisition personnel, consistent with the requirements of sections 1722a and 1722b of title 10, United States Code.
 
-&emsp;“(7) Actions to ensure that the military departments dedicate portfolio-specific commodity managers to coordinate the procurement of key categories of contract services, as required by section 2330(b)(3)(C) of title 10, United States Code.
+&emsp;"(7) Actions to ensure that the military departments dedicate portfolio-specific commodity managers to coordinate the procurement of key categories of contract services, as required by section 2330(b)(3)(C) of title 10, United States Code.
 
-&emsp;“(8) Actions to ensure that the Department of Defense conducts realistic exercises and training that account for services contracting during contingency operations, as required by section 2333(e) of title 10, United States Code.
+&emsp;"(8) Actions to ensure that the Department of Defense conducts realistic exercises and training that account for services contracting during contingency operations, as required by section 2333(e) of title 10, United States Code.
 
-“(c)
+"(c)
 
 Comptroller General Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 31, 2011\], the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the following:
 
-&emsp;“(1) The actions taken by the Under Secretary of Defense for Acquisition, Technology, and Logistics to carry out the requirements of this section.
+&emsp;"(1) The actions taken by the Under Secretary of Defense for Acquisition, Technology, and Logistics to carry out the requirements of this section.
 
-&emsp;“(2) The actions taken by the Under Secretary to carry out the requirements of section 2330 of title 10, United States Code.
+&emsp;"(2) The actions taken by the Under Secretary to carry out the requirements of section 2330 of title 10, United States Code.
 
-&emsp;“(3) The actions taken by the military departments to carry out the requirements of section 2330 of title 10, United States Code.
+&emsp;"(3) The actions taken by the military departments to carry out the requirements of section 2330 of title 10, United States Code.
 
-&emsp;“(4) The extent to which the actions described in paragraphs (1), (2), and (3) have resulted in the improved acquisition and management of contract services.”
+&emsp;"(4) The extent to which the actions described in paragraphs (1), (2), and (3) have resulted in the improved acquisition and management of contract services."
 
 #### Requirements for the Acquisition of Services
 
 Pub. L. 111–383, div. A, title VIII, §863(a)–(h), Jan. 7, 2011, 124 Stat. 4293, 4294, as amended by Pub. L. 112–81, div. A, title IX, §933(c), Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title X, §1076(a)(18), Jan. 2, 2013, 126 Stat. 1949, provided that:
 
-“(a)
+"(a)
 
 Establishment of Requirements Processes for the Acquisition of Services.—The Secretary of Defense shall ensure that the military departments and Defense Agencies each establish a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services.
 
-“(b)
+"(b)
 
 Operational Requirements.—With regard to requirements for the acquisition of services in support of combatant commands and military operations, the Secretary shall ensure—
 
-&emsp;“(1) that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps implement and bear chief responsibility for carrying out, within the Armed Force concerned, the process established pursuant to subsection (a) for such Armed Force; and
+&emsp;"(1) that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps implement and bear chief responsibility for carrying out, within the Armed Force concerned, the process established pursuant to subsection (a) for such Armed Force; and
 
-&emsp;“(2) that commanders of unified combatant commands and other officers identified or designated as joint qualified officers have an opportunity to participate in the process of each military department to provide input on joint requirements for the acquisition of services.
+&emsp;"(2) that commanders of unified combatant commands and other officers identified or designated as joint qualified officers have an opportunity to participate in the process of each military department to provide input on joint requirements for the acquisition of services.
 
-“(c)
+"(c)
 
-Supporting Requirements.—With regard to requirements for the acquisition of services not coveredby subsection (b), the Secretary shall ensure that the secretaries of the military departments and the heads of the Defense Agencies implement and bear chief responsibility for carrying out, within the military department or Defense Agency concerned, the process established pursuant to subsection (a) for such military department or Defense Agency.
+Supporting Requirements.—With regard to requirements for the acquisition of services not covered by subsection (b), the Secretary shall ensure that the secretaries of the military departments and the heads of the Defense Agencies implement and bear chief responsibility for carrying out, within the military department or Defense Agency concerned, the process established pursuant to subsection (a) for such military department or Defense Agency.
 
-“(d)
+"(d)
 
 Implementation Plans Required.—The Secretary shall ensure that an implementation plan is developed for each process established pursuant to subsection (a) that addresses, at a minimum, the following:
 
-&emsp;“(1) The organization of such process.
+&emsp;"(1) The organization of such process.
 
-&emsp;“(2) The level of command responsibility required for identifying, assessing, reviewing, and validating requirements for the acquisition of services in accordance with the requirements of this section and the categories established under section 2330(a)(1)(C) of title 10, United States Code.
+&emsp;"(2) The level of command responsibility required for identifying, assessing, reviewing, and validating requirements for the acquisition of services in accordance with the requirements of this section and the categories established under section 2330(a)(1)(C) of title 10, United States Code.
 
-&emsp;“(3) The composition of positions necessary to operate such process.
+&emsp;"(3) The composition of positions necessary to operate such process.
 
-&emsp;“(4) The training required for personnel engaged in such process.
+&emsp;"(4) The training required for personnel engaged in such process.
 
-&emsp;“(5) The relationship between doctrine and such process.
+&emsp;"(5) The relationship between doctrine and such process.
 
-&emsp;“(6) Methods of obtaining input on joint requirements for the acquisition of services.
+&emsp;"(6) Methods of obtaining input on joint requirements for the acquisition of services.
 
-&emsp;“(7) Procedures for coordinating with the acquisition process.
+&emsp;"(7) Procedures for coordinating with the acquisition process.
 
-&emsp;“(8) Considerations relating to opportunities for strategic sourcing.
+&emsp;"(8) Considerations relating to opportunities for strategic sourcing.
 
-&emsp;“(9) Considerations relating to total force management policies and procedures established under section 129a of title 10, United States Code.
+&emsp;"(9) Considerations relating to total force management policies and procedures established under section 129a of title 10, United States Code.
 
-“(e)
+"(e)
 
 Matters Required in Implementation Plan.—Each plan required under subsection (d) shall provide for initial implementation of a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services not later than one year after the date of the enactment of this Act \[Jan. 7, 2011\] and shall provide for full implementation of such process at the earliest date practicable.
 
-“(f)
+"(f)
 
 Consistency With Joint Guidance.—Whenever, at any time, guidance is issued by the Chairman of the Joint Chiefs of Staff relating to requirements for the acquisition of services in support of combatant commands and military operations, each process established pursuant to subsection (a) shall be revised in accordance with such joint guidance.
 
-“(g)
+"(g)
 
-Definition.—The term ‘requirements for the acquisition of services’ means objectives to be achieved through acquisitions primarily involving the procurement of services.
+Definition.—The term 'requirements for the acquisition of services' means objectives to be achieved through acquisitions primarily involving the procurement of services.
 
-“(h)
+"(h)
 
-Review of Supporting Requirements To Identify Savings.—The secretaries of the military departments and the heads of the Defense Agencies shall review and validate each requirement described in subsection (c) with an anticipated cost in excess of $10,000,000 with the objective of identifying unneeded or low priority requirements that can be reduced or eliminated, with the savings transferred to higher priority objectives. Savings identified and transferred to higher priority objectives through review and revalidation under this subsection shall count toward the savings objectives established in the June 4, 2010, guidance of the Secretary of Defense on improved operational efficiencies and the annual reduction in funding for service support contractors required by the August 16, 2010, guidance of the Secretary of Defense on efficiency initiatives. As provided by the Secretary, cost avoidance shall not count toward these objectives.”
+Review of Supporting Requirements To Identify Savings.—The secretaries of the military departments and the heads of the Defense Agencies shall review and validate each requirement described in subsection (c) with an anticipated cost in excess of $10,000,000 with the objective of identifying unneeded or low priority requirements that can be reduced or eliminated, with the savings transferred to higher priority objectives. Savings identified and transferred to higher priority objectives through review and revalidation under this subsection shall count toward the savings objectives established in the June 4, 2010, guidance of the Secretary of Defense on improved operational efficiencies and the annual reduction in funding for service support contractors required by the August 16, 2010, guidance of the Secretary of Defense on efficiency initiatives. As provided by the Secretary, cost avoidance shall not count toward these objectives."
 
 #### Procurement of Commercial Services
 
 Pub. L. 110–181, div. A, title VIII, §805, Jan. 28, 2008, 122 Stat. 212, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(4), Oct. 14, 2008, 122 Stat. 4613, provided that:
 
-“(a)
+"(a)
 
 Regulations Required.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall modify the regulations of the Department of Defense for the procurement of commercial services for or on behalf of the Department of Defense.
 
-“(b)
+"(b)
 
 Applicability of Commercial Procedures.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Services of a type sold in marketplace.—The regulations modified pursuant to subsection (a) shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial items for purposes of section 2306a of title 10, United States Code (relating to truth in negotiations), only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such services.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Information submitted.—To the extent necessary to make a determination under paragraph (1), the contracting officer may request the offeror to submit—
 
-&emsp;&emsp;“(A) prices paid for the same or similar commercial items under comparable terms and conditions by both government and commercial customers; and
+&emsp;&emsp;"(A) prices paid for the same or similar commercial items under comparable terms and conditions by both government and commercial customers; and
 
-&emsp;&emsp;“(B) if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
+&emsp;&emsp;"(B) if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
 
-“(c)
+"(c)
 
 Time-and-Materials Contracts.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Commercial item acquisitions.—The regulations modified pursuant to subsection (a) shall ensure that procedures applicable to time-and-materials contracts and labor-hour contracts for commercial item acquisitions may be used only for the following:
 
-&emsp;&emsp;“(A) Services procured for support of a commercial item, as described in section 4(12)(E) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(12)(E)) \[now 41 U.S.C. 103(5)\].
+&emsp;&emsp;"(A) Services procured for support of a commercial item, as described in section 4(12)(E) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(12)(E)) \[now 41 U.S.C. 103(5)\].
 
-&emsp;&emsp;“(B) Emergency repair services.
+&emsp;&emsp;"(B) Emergency repair services.
 
-&emsp;&emsp;“(C) Any other commercial services only to the extent that the head of the agency concerned approves a determination in writing by the contracting officer that—
+&emsp;&emsp;"(C) Any other commercial services only to the extent that the head of the agency concerned approves a determination in writing by the contracting officer that—
 
-&emsp;&emsp;&emsp;“(i) the services to be acquired are commercial services as defined in section 4(12)(F) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(12)(F)) \[now 41 U.S.C. 103(6)\];
+&emsp;&emsp;&emsp;"(i) the services to be acquired are commercial services as defined in section 4(12)(F) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(12)(F)) \[now 41 U.S.C. 103(6)\];
 
-&emsp;&emsp;&emsp;“(ii) if the services to be acquired are subject to subsection (b), the offeror of the services has submitted sufficient information in accordance with that subsection;
+&emsp;&emsp;&emsp;"(ii) if the services to be acquired are subject to subsection (b), the offeror of the services has submitted sufficient information in accordance with that subsection;
 
-&emsp;&emsp;&emsp;“(iii) such services are commonly sold to the general public through use of time-and-materials or labor-hour contracts; and
+&emsp;&emsp;&emsp;"(iii) such services are commonly sold to the general public through use of time-and-materials or labor-hour contracts; and
 
-&emsp;&emsp;&emsp;“(iv) the use of a time-and-materials or labor-hour contract type is in the best interest of the Government.
+&emsp;&emsp;&emsp;"(iv) the use of a time-and-materials or labor-hour contract type is in the best interest of the Government.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Non-commercial item acquisitions.—Nothing in this subsection shall be construed to preclude the use of procedures applicable to time-and-materials contracts and labor-hour contracts for non-commercial item acquisitions for the acquisition of any category of services.”
+Non-commercial item acquisitions.—Nothing in this subsection shall be construed to preclude the use of procedures applicable to time-and-materials contracts and labor-hour contracts for non-commercial item acquisitions for the acquisition of any category of services."
 
 #### Independent Management Reviews of Contracts for Services
 
 Pub. L. 110–181, div. A, title VIII, §808, Jan. 28, 2008, 122 Stat. 215, as amended by Pub. L. 111–383, div. A, title X, §1075(f)(3), Jan. 7, 2011, 124 Stat. 4376, provided that:
 
-“(a)
+"(a)
 
 Guidance and Instructions.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall issue guidance, with detailed implementation instructions, for the Department of Defense to provide for periodic independent management reviews of contracts for services. The independent management review guidance and instructions issued pursuant to this subsection shall be designed to evaluate, at a minimum—
 
-&emsp;“(1) contract performance in terms of cost, schedule, and requirements;
+&emsp;"(1) contract performance in terms of cost, schedule, and requirements;
 
-&emsp;“(2) the use of contracting mechanisms, including the use of competition, the contract structure and type, the definition of contract requirements, cost or pricing methods, the award and negotiation of task orders, and management and oversight mechanisms;
+&emsp;"(2) the use of contracting mechanisms, including the use of competition, the contract structure and type, the definition of contract requirements, cost or pricing methods, the award and negotiation of task orders, and management and oversight mechanisms;
 
-&emsp;“(3) the contractor's use, management, and oversight of subcontractors;
+&emsp;"(3) the contractor's use, management, and oversight of subcontractors;
 
-&emsp;“(4) the staffing of contract management and oversight functions; and
+&emsp;"(4) the staffing of contract management and oversight functions; and
 
-&emsp;“(5) the extent of any pass-throughs, and excessive pass-through charges (as defined in section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Pub. L. 109–364, 10 U.S.C. 2324 note\]), by the contractor.
+&emsp;"(5) the extent of any pass-throughs, and excessive pass-through charges (as defined in section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Pub. L. 109–364, 10 U.S.C. 2324 note\]), by the contractor.
 
-“(b)
+"(b)
 
 Additional Subject of Review.—In addition to the matters required by subsection (a), the guidance and instructions issued pursuant to subsection (a) shall provide for procedures for the periodic review of contracts under which one contractor provides oversight for services performed by other contractors. In particular, the procedures shall be designed to evaluate, at a minimum—
 
-&emsp;“(1) the extent of the agency's reliance on the contractor to perform acquisition functions closely associated with inherently governmental functions as defined in section 2383(b)(3) of title 10, United States Code; and
+&emsp;"(1) the extent of the agency's reliance on the contractor to perform acquisition functions closely associated with inherently governmental functions as defined in section 2383(b)(3) of title 10, United States Code; and
 
-&emsp;“(2) the financial interest of any prime contractor performing acquisition functions described in paragraph (1) in any contract or subcontract with regard to which the contractor provided advice or recommendations to the agency.
+&emsp;"(2) the financial interest of any prime contractor performing acquisition functions described in paragraph (1) in any contract or subcontract with regard to which the contractor provided advice or recommendations to the agency.
 
-“(c)
+"(c)
 
 Elements.—The guidance and instructions issued pursuant to subsection (a) shall address, at a minimum—
 
-&emsp;“(1) the contracts subject to independent management reviews, including any applicable thresholds and exceptions;
+&emsp;"(1) the contracts subject to independent management reviews, including any applicable thresholds and exceptions;
 
-&emsp;“(2) the frequency with which independent management reviews shall be conducted;
+&emsp;"(2) the frequency with which independent management reviews shall be conducted;
 
-&emsp;“(3) the composition of teams designated to perform independent management reviews;
+&emsp;"(3) the composition of teams designated to perform independent management reviews;
 
-&emsp;“(4) any phase-in requirements needed to ensure that qualified staff are available to perform independent management reviews;
+&emsp;"(4) any phase-in requirements needed to ensure that qualified staff are available to perform independent management reviews;
 
-&emsp;“(5) procedures for tracking the implementation of recommendations made by independent management review teams; and
+&emsp;"(5) procedures for tracking the implementation of recommendations made by independent management review teams; and
 
-&emsp;“(6) procedures for developing and disseminating lessons learned from independent management reviews.
+&emsp;"(6) procedures for developing and disseminating lessons learned from independent management reviews.
 
-“(d)
+"(d)
 
 Reports.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Report on guidance and instruction.—Not later than 270 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the guidance and instructions issued pursuant to subsection (a).
 
-&emsp;“(2) GAO
+&emsp;"(2) GAO
 
-report on implementation.—Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees a report on the implementation of the guidance and instructions issued pursuant to subsection (a).”
+report on implementation.—Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees a report on the implementation of the guidance and instructions issued pursuant to subsection (a)."
 
 #### Establishment and Implementation of Management Structure
 
@@ -300,125 +300,125 @@ Pub. L. 107–107, div. A, title VIII, §801(b)(2), Dec. 28, 2001, 115 Stat. 117
 
 Pub. L. 109–163, div. A, title VIII, §812(b), (c), Jan. 6, 2006, 119 Stat. 3378, 3379, provided that:
 
-“(b)
+"(b)
 
 Phased Implementation.—The requirements of section 2330 of title 10, United States Code (as added by subsection (a)), shall be implemented as follows:
 
-&emsp;“(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
+&emsp;"(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
 
-&emsp;&emsp;“(A) establish an initial set of contract services acquisition categories, based on dollar thresholds, by not later than June 1, 2006; and
+&emsp;&emsp;"(A) establish an initial set of contract services acquisition categories, based on dollar thresholds, by not later than June 1, 2006; and
 
-&emsp;&emsp;“(B) issue an initial set of policies, procedures, and best practices guidelines in accordance with section 2330(a)(1)(A) by not later than October 1, 2006.
+&emsp;&emsp;"(B) issue an initial set of policies, procedures, and best practices guidelines in accordance with section 2330(a)(1)(A) by not later than October 1, 2006.
 
-&emsp;“(2) The contract services acquisition categories established by the Under Secretary shall include—
+&emsp;"(2) The contract services acquisition categories established by the Under Secretary shall include—
 
-&emsp;&emsp;“(A) one or more categories for acquisitions with an estimated value of $250,000,000 or more;
+&emsp;&emsp;"(A) one or more categories for acquisitions with an estimated value of $250,000,000 or more;
 
-&emsp;&emsp;“(B) one or more categories for acquisitions with an estimated value of at least $10,000,000 but less than $250,000,000; and
+&emsp;&emsp;"(B) one or more categories for acquisitions with an estimated value of at least $10,000,000 but less than $250,000,000; and
 
-&emsp;&emsp;“(C) one or more categories for acquisitions with an estimated value greater than the simplified acquisition threshold but less than $10,000,000.
+&emsp;&emsp;"(C) one or more categories for acquisitions with an estimated value greater than the simplified acquisition threshold but less than $10,000,000.
 
-&emsp;“(3) The senior officials responsible for the management of acquisition of contract services shall assign responsibility to specific individuals in the Department of Defense for the review and approval of procurements in the contract services acquisition categories established by the Under Secretary, as follows:
+&emsp;"(3) The senior officials responsible for the management of acquisition of contract services shall assign responsibility to specific individuals in the Department of Defense for the review and approval of procurements in the contract services acquisition categories established by the Under Secretary, as follows:
 
-&emsp;&emsp;“(A) Not later than October 1, 2006, for all categories established pursuant to paragraph (2)(A).
+&emsp;&emsp;"(A) Not later than October 1, 2006, for all categories established pursuant to paragraph (2)(A).
 
-&emsp;&emsp;“(B) Not later than October 1, 2007, for all categories established pursuant to paragraph (2)(B).
+&emsp;&emsp;"(B) Not later than October 1, 2007, for all categories established pursuant to paragraph (2)(B).
 
-&emsp;&emsp;“(C) Not later than October 1, 2009, for all categories established pursuant to paragraph (2)(C).
+&emsp;&emsp;"(C) Not later than October 1, 2009, for all categories established pursuant to paragraph (2)(C).
 
-“(c)
+"(c)
 
-Report.—Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a final report on the implementation of section 2330 of title 10, United States Code, as added by this section.”
+Report.—Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a final report on the implementation of section 2330 of title 10, United States Code, as added by this section."
 
 #### Procurement Program Review Structure; Comptroller General Review
 
 Pub. L. 107–107, div. A, title VIII, §801(d)–(f), Dec. 28, 2001, 115 Stat. 1177, provided that:
 
-“(d)
+"(d)
 
 Requirement for Program Review Structure.—(1) Not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\], the Secretary of Defense shall issue and implement a policy that applies to the procurement of services by the Department of Defense a program review structure that is similar to the one developed for and applied to the procurement of weapon systems by the Department of Defense.
 
-“(2) The program review structure for the procurement of services shall, at a minimum, include the following:
+"(2) The program review structure for the procurement of services shall, at a minimum, include the following:
 
-&emsp;“(A) Standards for determining which procurements should be subject to review by either the senior procurement executive of a military department or the senior procurement executive of the Department of Defense under such section, including criteria based on dollar thresholds, program criticality, or other appropriate measures.
+&emsp;"(A) Standards for determining which procurements should be subject to review by either the senior procurement executive of a military department or the senior procurement executive of the Department of Defense under such section, including criteria based on dollar thresholds, program criticality, or other appropriate measures.
 
-&emsp;“(B) Appropriate key decision points at which those reviews should take place.
+&emsp;"(B) Appropriate key decision points at which those reviews should take place.
 
-&emsp;“(C) A description of the specific matters that should be reviewed.
+&emsp;"(C) A description of the specific matters that should be reviewed.
 
-“(e)
+"(e)
 
 Comptroller General Review.—Not later than 90 days after the date on which the Secretary issues the policy required by subsection (d) and the Under Secretary of Defense for Acquisition, Technology, and Logistics issues the guidance required by subsection (b)(2) \[set out as a note above\], the Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives an assessment of the compliance with the requirements of this section \[enacting this section and section 2330a of this title, amending sections 133 and 2331 of this title, and enacting provisions set out as a note under this section\] and the amendments made by this section.
 
-“(f)
+"(f)
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘senior procurement executive’ means the official designated as the senior procurement executive under section 16(3) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 414(3)) \[see 41 U.S.C. 1702(c)\].
+&emsp;"(1) The term 'senior procurement executive' means the official designated as the senior procurement executive under section 16(3) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 414(3)) \[see 41 U.S.C. 1702(c)\].
 
-&emsp;“(2) The term ‘performance-based’, with respect to a contract or a task order means that the contract or task order, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.”
+&emsp;"(2) The term 'performance-based', with respect to a contract or a task order means that the contract or task order, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes."
 
 #### Performance Goals for Procurements of Services
 
 Pub. L. 107–107, div. A, title VIII, §802, Dec. 28, 2001, 115 Stat. 1178, as amended by Pub. L. 107–314, div. A, title VIII, §805, Dec. 2, 2002, 116 Stat. 2605, provided that:
 
-“(a)
+"(a)
 
 Goals.—(1) It shall be an objective of the Department of Defense to achieve efficiencies in procurements of services pursuant to multiple award contracts through the use of—
 
-&emsp;“(A) performance-based services contracting;
+&emsp;"(A) performance-based services contracting;
 
-&emsp;“(B) appropriate competition for task orders under services contracts;
+&emsp;"(B) appropriate competition for task orders under services contracts;
 
-&emsp;“(C) program review, spending analyses, and improved management of services contracts.
+&emsp;"(C) program review, spending analyses, and improved management of services contracts.
 
-“(2) In furtherance of such objective, the Department of Defense shall have the following goals:
+"(2) In furtherance of such objective, the Department of Defense shall have the following goals:
 
-&emsp;“(A) To increase, as a percentage of all of the individual purchases of services made by or for the Department of Defense under multiple award contracts for a fiscal year (calculated on the basis of dollar value), the volume of the individual purchases of services that are made on a competitive basis and involve receipt of more than one offer from qualified contractors to a percentage as follows:
+&emsp;"(A) To increase, as a percentage of all of the individual purchases of services made by or for the Department of Defense under multiple award contracts for a fiscal year (calculated on the basis of dollar value), the volume of the individual purchases of services that are made on a competitive basis and involve receipt of more than one offer from qualified contractors to a percentage as follows:
 
-&emsp;&emsp;“(i) For fiscal year 2003, a percentage not less than 40 percent.
+&emsp;&emsp;"(i) For fiscal year 2003, a percentage not less than 40 percent.
 
-&emsp;&emsp;“(ii) For fiscal year 2004, a percentage not less than 50 percent.
+&emsp;&emsp;"(ii) For fiscal year 2004, a percentage not less than 50 percent.
 
-&emsp;&emsp;“(iii) For fiscal year 2011, a percentage not less than 75 percent.
+&emsp;&emsp;"(iii) For fiscal year 2011, a percentage not less than 75 percent.
 
-&emsp;“(B) To increase, as a percentage of all of the individual purchases of services made by or for the Department of Defense under multiple award contracts for a fiscal year (calculated on the basis of dollar value), the use of performance-based purchasing specifying firm fixed prices for the specific tasks to be performed to a percentage as follows:
+&emsp;"(B) To increase, as a percentage of all of the individual purchases of services made by or for the Department of Defense under multiple award contracts for a fiscal year (calculated on the basis of dollar value), the use of performance-based purchasing specifying firm fixed prices for the specific tasks to be performed to a percentage as follows:
 
-&emsp;&emsp;“(i) For fiscal year 2003, a percentage not less than 25 percent.
+&emsp;&emsp;"(i) For fiscal year 2003, a percentage not less than 25 percent.
 
-&emsp;&emsp;“(ii) For fiscal year 2004, a percentage not less than 35 percent.
+&emsp;&emsp;"(ii) For fiscal year 2004, a percentage not less than 35 percent.
 
-&emsp;&emsp;“(iii) For fiscal year 2005, a percentage not less than 50 percent.
+&emsp;&emsp;"(iii) For fiscal year 2005, a percentage not less than 50 percent.
 
-&emsp;&emsp;“(iv) For fiscal year 2011, a percentage not less than 70 percent.
+&emsp;&emsp;"(iv) For fiscal year 2011, a percentage not less than 70 percent.
 
-“(3) The Secretary of Defense may adjust any percentage goal established in paragraph (2) if the Secretary determines in writing that such a goal is too high and cannot reasonably be achieved. In the event that the Secretary chooses to adjust such a goal, the Secretary shall—
+"(3) The Secretary of Defense may adjust any percentage goal established in paragraph (2) if the Secretary determines in writing that such a goal is too high and cannot reasonably be achieved. In the event that the Secretary chooses to adjust such a goal, the Secretary shall—
 
-&emsp;“(A) establish a percentage goal that the Secretary determines would create an appropriate incentive for Department of Defense components to use competitive procedures or performance-based services contracting, as the case may be; and
+&emsp;"(A) establish a percentage goal that the Secretary determines would create an appropriate incentive for Department of Defense components to use competitive procedures or performance-based services contracting, as the case may be; and
 
-&emsp;“(B) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing an explanation of the reasons for the Secretary's determination and a statement of the new goal that the Secretary has established.
+&emsp;"(B) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing an explanation of the reasons for the Secretary's determination and a statement of the new goal that the Secretary has established.
 
-“(b)
+"(b)
 
 Annual Report.—Not later than March 1, 2002, and annually thereafter through March 1, 2011, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress made toward meeting the objective and goals established in subsection (a). Each report shall include, at a minimum, the following information:
 
-&emsp;“(1) A summary of the steps taken or planned to be taken in the fiscal year of the report to improve the management of procurements of services.
+&emsp;"(1) A summary of the steps taken or planned to be taken in the fiscal year of the report to improve the management of procurements of services.
 
-&emsp;“(2) A summary of the steps planned to be taken in the following fiscal year to improve the management of procurements of services.
+&emsp;"(2) A summary of the steps planned to be taken in the following fiscal year to improve the management of procurements of services.
 
-&emsp;“(3) An estimate of the amount that will be expended by the Department of Defense for procurements of services in the fiscal year of the report.
+&emsp;"(3) An estimate of the amount that will be expended by the Department of Defense for procurements of services in the fiscal year of the report.
 
-&emsp;“(4) An estimate of the amount that will be expended by the Department of Defense for procurements of services in the following fiscal year.
+&emsp;"(4) An estimate of the amount that will be expended by the Department of Defense for procurements of services in the following fiscal year.
 
-&emsp;“(5) Regarding the individual purchases of services that were made by or for the Department of Defense under multiple award contracts in the fiscal year preceding the fiscal year in which the report is required to be submitted, information (determined using the data collection system established under section 2330a of title 10, United States Code) as follows:
+&emsp;"(5) Regarding the individual purchases of services that were made by or for the Department of Defense under multiple award contracts in the fiscal year preceding the fiscal year in which the report is required to be submitted, information (determined using the data collection system established under section 2330a of title 10, United States Code) as follows:
 
-&emsp;&emsp;“(A) The percentage (calculated on the basis of dollar value) of such purchases that are purchases that were made on a competitive basis and involved receipt of more than one offer from qualified contractors.
+&emsp;&emsp;"(A) The percentage (calculated on the basis of dollar value) of such purchases that are purchases that were made on a competitive basis and involved receipt of more than one offer from qualified contractors.
 
-&emsp;&emsp;“(B) The percentage (calculated on the basis of dollar value) of such purchases that are performance-based purchases specifying firm fixed prices for the specific tasks to be performed.
+&emsp;&emsp;"(B) The percentage (calculated on the basis of dollar value) of such purchases that are performance-based purchases specifying firm fixed prices for the specific tasks to be performed.
 
-“(c)
+"(c)
 
-Definitions.—(1) In this section, the terms ‘individual purchase’ and ‘multiple award contract’ have the meanings given such terms in section 803(c) of this Act \[10 U.S.C. 2304 note\].
+Definitions.—(1) In this section, the terms 'individual purchase' and 'multiple award contract' have the meanings given such terms in section 803(c) of this Act \[10 U.S.C. 2304 note\].
 
-“(2) For the purposes of this section, an individual purchase of services is made on a competitive basis only if it is made pursuant to procedures described in paragraphs (2), (3), and (4) of section 803(b) of this Act \[10 U.S.C. 2304 note\].”
+"(2) For the purposes of this section, an individual purchase of services is made on a competitive basis only if it is made pursuant to procedures described in paragraphs (2), (3), and (4) of section 803(b) of this Act \[10 U.S.C. 2304 note\]."
 

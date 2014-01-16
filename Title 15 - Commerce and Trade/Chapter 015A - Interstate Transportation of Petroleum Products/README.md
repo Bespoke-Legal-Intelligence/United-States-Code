@@ -12,7 +12,7 @@
 | [715g.](%C2%A7%2000715g%20-%20Refusal%20of%20carrier%20to%20accept%20shipment%20without%20certificate%20of%20clearance%3B%20certificate%20as%20justifying%20acceptance%20of%20shipment.md) | Refusal of carrier to accept shipment without certificate of clearance; certificate as justifying acceptance of shipment. |
 | [715h.](%C2%A7%2000715h%20-%20Hearings%20and%20investigation%20by%20boards%3B%20appointment%20of%20board%20and%20employees.md) | Hearings and investigation by boards; appointment of board and employees. |
 | [715i.](%C2%A7%2000715i%20-%20Restraining%20violations.md) | Restraining violations. |
-| [715j.](%C2%A7%2000715j%20-%20%E2%80%9CPresident%E2%80%9D%20as%20including%20agencies%2C%20officers%20and%20employees.md) | “President” as including agencies, officers and employees. |
+| [715j.](%C2%A7%2000715j%20-%20President%20as%20including%20agencies%2C%20officers%20and%20employees.md) | "President" as including agencies, officers and employees. |
 | [715k.](%C2%A7%2000715k%20-%20Saving%20clause.md) | Saving clause. |
 | 715<i>l.</i> | Repealed. |
 | [715m.](%C2%A7%2000715m%20-%20Cooperation%20between%20Secretary%20of%20the%20Interior%20and%20Federal%20and%20State%20authorities.md) | Cooperation between Secretary of the Interior and Federal and State authorities. |
@@ -50,7 +50,7 @@ Construction of a national defense pipe line from El Dorado, Arkansas, to Helena
 - [&sect; 00715g - Refusal of carrier to accept shipment without certificate of clearance; certificate as justifying acceptance of shipment](%C2%A7%2000715g%20-%20Refusal%20of%20carrier%20to%20accept%20shipment%20without%20certificate%20of%20clearance%3B%20certificate%20as%20justifying%20acceptance%20of%20shipment.md)
 - [&sect; 00715h - Hearings and investigation by boards; appointment of board and employees](%C2%A7%2000715h%20-%20Hearings%20and%20investigation%20by%20boards%3B%20appointment%20of%20board%20and%20employees.md)
 - [&sect; 00715i - Restraining violations](%C2%A7%2000715i%20-%20Restraining%20violations.md)
-- [&sect; 00715j - &#8220;President&#8221; as including agencies, officers and employees](%C2%A7%2000715j%20-%20%E2%80%9CPresident%E2%80%9D%20as%20including%20agencies%2C%20officers%20and%20employees.md)
+- [&sect; 00715j - President as including agencies, officers and employees](%C2%A7%2000715j%20-%20President%20as%20including%20agencies%2C%20officers%20and%20employees.md)
 - [&sect; 00715k - Saving clause](%C2%A7%2000715k%20-%20Saving%20clause.md)
 - [&sect; 00715l - Repealed. June 22, 1942, ch. 436, 56 Stat. 381](%C2%A7%2000715l%20-%20Repealed.%20June%2022%2C%201942%2C%20ch.%20436%2C%2056%20Stat.%20381.md)
 - [&sect; 00715m - Cooperation between Secretary of the Interior and Federal and State authorities](%C2%A7%2000715m%20-%20Cooperation%20between%20Secretary%20of%20the%20Interior%20and%20Federal%20and%20State%20authorities.md)

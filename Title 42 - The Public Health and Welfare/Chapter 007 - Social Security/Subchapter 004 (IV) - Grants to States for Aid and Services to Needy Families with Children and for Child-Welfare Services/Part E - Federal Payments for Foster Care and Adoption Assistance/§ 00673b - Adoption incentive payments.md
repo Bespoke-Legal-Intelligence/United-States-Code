@@ -50,7 +50,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 &emsp;&emsp;(B) $4,000, multiplied by the amount (if any) by which the number of special needs adoptions that are not older child adoptions in the State during the fiscal year exceeds the base number of special needs adoptions that are not older child adoptions for the State for the fiscal year; and
 
-&emsp;&emsp;(C) $8,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal yearexceeds the base number of older child adoptions for the State for the fiscal year.
+&emsp;&emsp;(C) $8,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year.
 
 #### (2) Pro rata adjustment if insufficient funds available
 
@@ -70,7 +70,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 &emsp;&emsp;&emsp;(ii) a State's foster child adoption rate for that fiscal year exceeds the highest ever foster child adoption rate determined for the State,
 
-> &emsp;&emsp;then the adoption incentive payment otherwise determined under paragraph (1) of this subsection for the State shall be increased, subject to subparagraph (C) of this paragraph, by the amount determined for the State under subparagraph (B) of this paragraph.
+> &emsp;&emsp;then the adoption incentive payment otherwise determined under paragraph (1) of thissubsection for the State shall be increased, subject to subparagraph (C) of this paragraph, by the amount determined for the State under subparagraph (B) of this paragraph.
 
 #### (B) Amount of increase
 
@@ -110,27 +110,27 @@ As used in this section:
 
 #### (1) Foster child adoption
 
-&emsp;The term “foster child adoption” means the final adoption of a child who, at the time of adoptive placement, was in foster care under the supervision of the State.
+&emsp;The term "foster child adoption" means the final adoption of a child who, at the time of adoptive placement, was in foster care under the supervision of the State.
 
 #### (2) Special needs adoption
 
-&emsp;The term “special needs adoption” means the final adoption of a child for whom an adoption assistance agreement is in effect under section 673 of this title.
+&emsp;The term "special needs adoption" means the final adoption of a child for whom an adoption assistance agreement is in effect under section 673 of this title.
 
 #### (3) Base number of foster child adoptions
 
-&emsp;The term “base number of foster child adoptions for a State” means, with respect to any fiscal year, the number of foster child adoptions in the State in fiscal year 2007.
+&emsp;The term "base number of foster child adoptions for a State" means, with respect to any fiscal year, the number of foster child adoptions in the State in fiscal year 2007.
 
 #### (4) Base number of special needs adoptions that are not older child adoptions
 
-&emsp;The term “base number of special needs adoptions that are not older child adoptions for a State” means, with respect to any fiscal year, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2007.
+&emsp;The term "base number of special needs adoptions that are not older child adoptions for a State" means, with respect to any fiscal year, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2007.
 
 #### (5) Base number of older child adoptions
 
-&emsp;The term “base number of older child adoptions for a State” means, with respect to any fiscal year, the number of older child adoptions in the State in fiscal year 2007.
+&emsp;The term "base number of older child adoptions for a State" means, with respect to any fiscal year, the number of older child adoptions in the State in fiscal year 2007.
 
 #### (6) Older child adoptions
 
-&emsp;The term “older child adoptions” means the final adoption of a child who has attained 9 years of age if—
+&emsp;The term "older child adoptions" means the final adoption of a child who has attained 9 years of age if—
 
 &emsp;&emsp;(A) at the time of the adoptive placement, the child was in foster care under the supervision of the State; or
 
@@ -138,11 +138,11 @@ As used in this section:
 
 #### (7) Highest ever foster child adoption rate
 
-&emsp;The term “highest ever foster child adoption rate” means, with respect to any fiscal year, the highest foster child adoption rate determined for any fiscal year in the period that begins with fiscal year 2002 and ends with the preceding fiscal year.
+&emsp;The term "highest ever foster child adoption rate" means, with respect to any fiscal year, the highest foster child adoption rate determined for any fiscal year in the period that begins with fiscal year 2002 and ends with the preceding fiscal year.
 
 #### (8) Foster child adoption rate
 
-&emsp;The term “foster child adoption rate” means, with respect to a State and a fiscal year, the percentage determined by dividing—
+&emsp;The term "foster child adoption rate" means, with respect to a State and a fiscal year, the percentage determined by dividing—
 
 &emsp;&emsp;(A) the number of foster child adoptions finalized in the State during the fiscal year; by
 
@@ -202,93 +202,93 @@ As used in this section:
 
 <b>2008</b>—Subsec. (b)(2)(C). Pub. L. 110–351, §401(e)(3)(A), added subpar. (C).
 
-Subsec. (b)(4). Pub. L. 110–351, §401(a)(1), struck out “in the case of fiscal years 2001 through 2007,” before “the State provides”.
+Subsec. (b)(4). Pub. L. 110–351, §401(a)(1), struck out "in the case of fiscal years 2001 through 2007," before "the State provides".
 
-Subsec. (b)(5). Pub. L. 110–351, §401(a)(2), substituted “2008 through 2012” for “1998 through 2007”.
+Subsec. (b)(5). Pub. L. 110–351, §401(a)(2), substituted "2008 through 2012" for "1998 through 2007".
 
-Subsec. (c)(2). Pub. L. 110–351, §401(a)(3), (e)(3)(B), substituted “during a fiscal year, and the foster child adoption rate for the State for the fiscal year,” for “during each of fiscal years 2002 through 2007”.
+Subsec. (c)(2). Pub. L. 110–351, §401(a)(3), (e)(3)(B), substituted "during a fiscal year, and the foster child adoption rate for the State for the fiscal year," for "during each of fiscal years 2002 through 2007".
 
-Subsec. (d)(1). Pub. L. 110–351, §401(e)(1)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+Subsec. (d)(1). Pub. L. 110–351, §401(e)(1)(A), substituted "paragraphs (2) and (3)" for "paragraph (2)" in introductory provisions.
 
-Subsec. (d)(1)(B). Pub. L. 110–351, §401(c)(1), substituted “$4,000” for “$2,000”.
+Subsec. (d)(1)(B). Pub. L. 110–351, §401(c)(1), substituted "$4,000" for "$2,000".
 
-Subsec. (d)(1)(C). Pub. L. 110–351, §401(c)(2), substituted “$8,000” for “$4,000”.
+Subsec. (d)(1)(C). Pub. L. 110–351, §401(c)(2), substituted "$8,000" for "$4,000".
 
-Subsec. (d)(2). Pub. L. 110–351, §401(e)(1)(B), substituted “paragraph (1)” for “this section” wherever appearing.
+Subsec. (d)(2). Pub. L. 110–351, §401(e)(1)(B), substituted "paragraph (1)" for "this section" wherever appearing.
 
 Subsec. (d)(3). Pub. L. 110–351, §401(e)(1)(C), added par. (3).
 
-Subsec. (e). Pub. L. 110–351, §401(d), substituted “24-month” for “2-year” in heading and “for the 24-month period beginning with the month in which the payments are made” for “through the end of the succeeding fiscal year” in text.
+Subsec. (e). Pub. L. 110–351, §401(d), substituted "24-month" for "2-year" in heading and "for the 24-month period beginning with the month in which the payments are made" for "through the end of the succeeding fiscal year" in text.
 
-Subsec. (g)(3). Pub. L. 110–351, §401(b)(1), substituted “means, with respect to any fiscal year, the number of foster child adoptions in the State in fiscal year 2007.” for “means—
+Subsec. (g)(3). Pub. L. 110–351, §401(b)(1), substituted "means, with respect to any fiscal year, the number of foster child adoptions in the State in fiscal year 2007." for "means—
 
-&emsp;“(A) with respect to fiscal year 2003, the number of foster child adoptions in the State in fiscal year 2002; and
+&emsp;"(A) with respect to fiscal year 2003, the number of foster child adoptions in the State in fiscal year 2002; and
 
-&emsp;“(B) with respect to any subsequent fiscal year, the number of foster child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year.”
+&emsp;"(B) with respect to any subsequent fiscal year, the number of foster child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year."
 
-Subsec. (g)(4). Pub. L. 110–351, §401(b)(2), inserted “that are not older child adoptions” before “for a State” and substituted “means, with respect to any fiscal year, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2007.” for “means—
+Subsec. (g)(4). Pub. L. 110–351, §401(b)(2), inserted "that are not older child adoptions" before "for a State" and substituted "means, with respect to any fiscal year, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2007." for "means—
 
-&emsp;“(A) with respect to fiscal year 2003, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2002; and
+&emsp;"(A) with respect to fiscal year 2003, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2002; and
 
-&emsp;“(B) with respect to any subsequent fiscal year, the number of special needs adoptions that are not older child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year.”
+&emsp;"(B) with respect to any subsequent fiscal year, the number of special needs adoptions that are not older child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year."
 
-Subsec. (g)(5). Pub. L. 110–351, §401(b)(3), substituted “means, with respect to any fiscal year, the number of older child adoptions in the State in fiscal year 2007.” for “means—
+Subsec. (g)(5). Pub. L. 110–351, §401(b)(3), substituted "means, with respect to any fiscal year, the number of older child adoptions in the State in fiscal year 2007." for "means—
 
-&emsp;“(A) with respect to fiscal year 2003, the number of older child adoptions in the State in fiscal year 2002; and
+&emsp;"(A) with respect to fiscal year 2003, the number of older child adoptions in the State in fiscal year 2002; and
 
-&emsp;“(B) with respect to any subsequent fiscal year, the number of older child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year.”
+&emsp;"(B) with respect to any subsequent fiscal year, the number of older child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year."
 
 Subsec. (g)(7), (8). Pub. L. 110–351, §401(e)(2), added pars. (7) and (8).
 
-Subsec. (h)(1)(D), (2). Pub. L. 110–351, §401(a)(4), substituted “2013” for “2008”.
+Subsec. (h)(1)(D), (2). Pub. L. 110–351, §401(a)(4), substituted "2013" for "2008".
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–288 substituted “624” for “623”.
+<b>2006</b>—Subsec. (f). Pub. L. 109–288 substituted "624" for "623".
 
-<b>2003</b>—Subsec. (b)(2). Pub. L. 108–145, §3(a)(1)(A), added par. (2) and struck out former par. (2) which read as follows: “the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–145, §3(a)(1)(A), added par. (2) and struck out former par. (2) which read as follows: "the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;".
 
-Subsec. (b)(4). Pub. L. 108–145, §3(a)(1)(B), substituted “through 2007” for “and 2002”.
+Subsec. (b)(4). Pub. L. 108–145, §3(a)(1)(B), substituted "through 2007" for "and 2002".
 
-Subsec. (b)(5). Pub. L. 108–145, §3(a)(1)(C), substituted “2007” for “2002”.
+Subsec. (b)(5). Pub. L. 108–145, §3(a)(1)(C), substituted "2007" for "2002".
 
 Subsec. (c)(2). Pub. L. 108–145, §3(a)(2), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
 
-“(A)
+"(A)
 
-Determinations based on afcars data.—Except as provided in subparagraph (B), the Secretary shall determine the numbers of foster child adoptions and of special needs adoptions in a State during each of fiscal years 1995 through 2002, for purposes of this section, on the basis of data meeting the requirements of the system established pursuant to section 679 of this title, as reported by the State and approved by the Secretary by August 1 of the succeeding fiscal year.
+Determinations based on afcars data.—Except as provided in subparagraph (B), the Secretary shall determine the numbers of foster child adoptions and ofspecial needs adoptions in a State during each of fiscal years 1995 through 2002, for purposes of this section, on the basis of data meeting the requirements of the system established pursuant to section 679 of this title, as reported by the State and approved by the Secretary by August 1 of the succeeding fiscal year.
 
-“(B)
+"(B)
 
-Alternative data sources permitted for fiscal years 1995 through 1997.—For purposes of the determination described in subparagraph (A) for fiscal years 1995 through 1997, the Secretary may use data from a source or sources other than that specified in subparagraph (A) that the Secretary finds to be of equivalent completeness and reliability, as reported by a State by April 30, 1998, and approved by the Secretary by July 1, 1998.”
+Alternative data sources permitted for fiscal years 1995 through 1997.—For purposes of the determination described in subparagraph (A) for fiscal years 1995 through 1997, the Secretary may use data from a source or sources other than that specified in subparagraph (A) that the Secretary finds to be of equivalent completeness and reliability, as reported by a State by April 30, 1998, and approved by the Secretary by July 1, 1998."
 
-Subsec. (d)(1). Pub. L. 108–145, §3(a)(3), inserted “that are not older child adoptions” after “adoptions” in two places in subpar. (B) and added subpar. (C).
+Subsec. (d)(1). Pub. L. 108–145, §3(a)(3), inserted "that are not older child adoptions" after "adoptions" in two places in subpar. (B) and added subpar. (C).
 
 <b>2003</b>—Subsec. (g)(3)(A), (B). Pub. L. 108–145, §3(a)(4)(A), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
-“(A) with respect to fiscal year 1998, the average number of foster child adoptions in the State in fiscal years 1995, 1996, and 1997; and
+"(A) with respect to fiscal year 1998, the average number of foster child adoptions in the State in fiscal years 1995, 1996, and 1997; and
 
-“(B) with respect to any subsequent fiscal year, the number of foster child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 1997 and ends with the fiscal year preceding such subsequent fiscal year.”
+"(B) with respect to any subsequent fiscal year, the number of foster child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 1997 and ends with the fiscal year preceding such subsequent fiscal year."
 
-Subsec. (g)(4). Pub. L. 108–145, §3(a)(4)(B), inserted “that are not older child adoptions” after “adoptions” in heading, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (g)(4). Pub. L. 108–145, §3(a)(4)(B), inserted "that are not older child adoptions" after "adoptions" in heading, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 
-“(A) with respect to fiscal year 1998, the average number of special needs adoptions in the State in fiscal years 1995, 1996, and 1997; and
+"(A) with respect to fiscal year 1998, the average number of special needs adoptions in the State in fiscal years 1995, 1996, and 1997; and
 
-“(B) with respect to any subsequent fiscal year, the number of special needs adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 1997 and ends with the fiscal year preceding such subsequent fiscal year.”
+"(B) with respect to any subsequent fiscal year, the number of special needs adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 1997 and ends with the fiscal year preceding such subsequent fiscal year."
 
 Subsec. (g)(5), (6). Pub. L. 108–145, §3(a)(4)(C), added pars. (5) and (6).
 
 Subsec. (h)(1)(D). Pub. L. 108–145, §3(a)(5)(A), added subpar. (D).
 
-Subsec. (h)(2). Pub. L. 108–145, §3(a)(5)(B), inserted “, or under any other law for grants under subsection (a) of this section,” after “(1)” and substituted “2008” for “2003”.
+Subsec. (h)(2). Pub. L. 108–145, §3(a)(5)(B), inserted ", or under any other law for grants under subsection (a) of this section," after "(1)" and substituted "2008" for "2003".
 
-Subsec. (i)(4). Pub. L. 108–145, §3(a)(6), substituted “2004 through 2006” for “1998 through 2000”.
+Subsec. (i)(4). Pub. L. 108–145, §3(a)(6), substituted "2004 through 2006" for "1998 through 2000".
 
 Subsec. (j). Pub. L. 108–145, §3(a)(7), struck out subsec. (j) which related to supplemental grants.
 
-<b>1999</b>—Subsec. (h)(1). Pub. L. 106–169, §131(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “For grants under subsection (a) of this section, there are authorized to be appropriated to the Secretary $20,000,000 for each of fiscal years 1999 through 2003.”
+<b>1999</b>—Subsec. (h)(1). Pub. L. 106–169, §131(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "For grants under subsection (a) of this section, there are authorized to be appropriated to the Secretary $20,000,000 for each of fiscal years 1999 through 2003."
 
 Subsec. (j). Pub. L. 106–169, §131(a), added subsec. (j).
 
-<b>1998</b>—Subsec. (c)(2)(B). Pub. L. 105–200 substituted “April 30, 1998” for “November 30, 1997” and “July 1, 1998” for “March 1, 1998”.
+<b>1998</b>—Subsec. (c)(2)(B). Pub. L. 105–200 substituted "April 30, 1998" for "November 30, 1997" and "July 1, 1998" for "March 1, 1998".
 
 #### Effective Date of 2008 Amendment
 
@@ -300,7 +300,7 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payment
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–145, §5, Dec. 2, 2003, 117 Stat. 1882, provided that: “The amendments made by this Act \[amending this section and section 674 of this title\] shall take effect on October 1, 2003.”
+Pub. L. 108–145, §5, Dec. 2, 2003, 117 Stat. 1882, provided that: "The amendments made by this Act \[amending this section and section 674 of this title\] shall take effect on October 1, 2003."
 
 #### Effective Date
 
@@ -308,15 +308,15 @@ Section effective Nov. 19, 1997, except as otherwise provided, with delay permit
 
 #### Findings
 
-Pub. L. 108–145, §2, Dec. 2, 2003, 117 Stat. 1879, provided that: “The Congress finds the following:
+Pub. L. 108–145, §2, Dec. 2, 2003, 117 Stat. 1879, provided that: "The Congress finds the following:
 
-&emsp;“(1) In 1997, the Congress passed the Adoption and Safe Families Act of 1997 \[Pub. L. 105–89; see Short Title of 1997 Amendment note set out under section 1305 of this title\] to promote comprehensive child welfare reform to ensure that consideration of children's safety is paramount in child welfare decisions, and to provide a greater sense of urgency to find every child a safe, permanent home.
+&emsp;"(1) In 1997, the Congress passed the Adoption and Safe Families Act of 1997 \[Pub. L. 105–89; see Short Title of 1997 Amendment note set out under section 1305 of this title\] to promote comprehensive child welfare reform to ensure that consideration of children's safety is paramount in child welfare decisions, and to provide a greater sense of urgency to find every child a safe, permanent home.
 
-&emsp;“(2) The Adoption and Safe Families Act of 1997 also created the Adoption Incentives program, which authorizes incentive payments to States to promote adoptions, with additional incentives provided for the adoption of foster children with special needs.
+&emsp;"(2) The Adoption and Safe Families Act of 1997 also created the Adoption Incentives program, which authorizes incentive payments to States to promote adoptions, with additional incentives provided for the adoption of foster children with special needs.
 
-&emsp;“(3) Since 1997, all States, the District of Columbia, and Puerto Rico have qualified for incentive payments for their work in promoting adoption of foster children.
+&emsp;"(3) Since 1997, all States, the District of Columbia, and Puerto Rico have qualified for incentive payments for their work in promoting adoption of foster children.
 
-&emsp;“(4) Between 1997 and 2002, adoptions increased by 64 percent, and adoptions of children with special needs increased by 63 percent; however, 542,000 children remain in foster care, and 126,000 are eligible for adoption.
+&emsp;"(4) Between 1997 and 2002, adoptions increased by 64 percent, and adoptions of children with special needs increased by 63 percent; however, 542,000 children remain in foster care, and 126,000 are eligible for adoption.
 
-&emsp;“(5) Although substantial progress has been made to promote adoptions, attention should be focused on promoting adoption of older children. Recent data suggest that half of the children waiting to be adopted are age 9 or older.”
+&emsp;"(5) Although substantial progress has been made to promote adoptions, attention should be focused on promoting adoption of older children. Recent data suggest that half of the children waiting to be adopted are age 9 or older."
 

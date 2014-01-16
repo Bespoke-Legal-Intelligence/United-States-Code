@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title14",
- "package": "USCODE-2012-title14",
+ "package": "USCODE-2013-title14",
  "pieces": [
   {
    "id": "14_",
@@ -81,10 +81,14 @@
    "id": "14_2",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 5]",
-     true
+     "I",
+     24,
+     [
+      [
+       751,
+       "[Page 5]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 001 - Establishment and Duties/§ 00002 - Primary duties.md",
@@ -95,26 +99,26 @@
   },
   {
    "id": "14_3",
-   "marks": [],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 001 - Establishment and Duties/§ 00003 - Department in which the Coast Guard operates.md",
-   "printed_pages": [
-    5,
-    5
-   ]
-  },
-  {
-   "id": "14_4",
    "marks": [
     [
      "L",
-     6,
+     44,
      "[Page 6]",
      true
     ]
    ],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 001 - Establishment and Duties/§ 00004 - Secretary defined.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 001 - Establishment and Duties/§ 00003 - Department in which the Coast Guard operates.md",
    "printed_pages": [
     5,
+    6
+   ]
+  },
+  {
+   "id": "14_4",
+   "marks": [],
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 001 - Establishment and Duties/§ 00004 - Secretary defined.md",
+   "printed_pages": [
+    6,
     6
    ]
   },
@@ -140,14 +144,10 @@
    "id": "14_41",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       120,
-       "[Page 7]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 7]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 003 - Composition and Organization/§ 00041 - Grades and ratings.md",
@@ -158,11 +158,18 @@
   },
   {
    "id": "14_41a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 8]",
+     true
+    ]
+   ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 003 - Composition and Organization/§ 00041a - Active duty promotion list.md",
    "printed_pages": [
     7,
-    7
+    8
    ]
   },
   {
@@ -170,20 +177,10 @@
    "marks": [
     [
      "I",
-     12,
-     [
-      [
-       84,
-       "[Page 8]"
-      ]
-     ]
-    ],
-    [
-     "I",
      86,
      [
       [
-       1269,
+       486,
        "[Page 9]"
       ]
      ]
@@ -191,7 +188,7 @@
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 003 - Composition and Organization/§ 00042 - Number and distribution of commissioned officers on active duty promotion list.md",
    "printed_pages": [
-    7,
+    8,
     9
    ]
   },
@@ -226,14 +223,10 @@
    "id": "14_46",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       117,
-       "[Page 10]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 10]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 003 - Composition and Organization/§ 00046 - Retirement of Commandant.md",
@@ -246,14 +239,10 @@
    "id": "14_47",
    "marks": [
     [
-     "I",
-     38,
-     [
-      [
-       111,
-       "[Page 11]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 11]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 003 - Composition and Organization/§ 00047 - Vice commandant; 1 appointment.md",
@@ -275,10 +264,14 @@
    "id": "14_50",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 12]",
-     true
+     "I",
+     36,
+     [
+      [
+       112,
+       "[Page 12]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 003 - Composition and Organization/§ 00050 - Vice admirals.md",
@@ -318,10 +311,14 @@
    "id": "14_53",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 13]",
-     true
+     "I",
+     4,
+     [
+      [
+       126,
+       "[Page 13]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 003 - Composition and Organization/§ 00053 - Office of the Coast Guard Reserve; Director.md",
@@ -352,10 +349,14 @@
    "id": "14_56",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 14]",
-     true
+     "I",
+     34,
+     [
+      [
+       178,
+       "[Page 14]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 003 - Composition and Organization/§ 00056 - Chief Acquisition Officer.md",
@@ -368,14 +369,10 @@
    "id": "14_57",
    "marks": [
     [
-     "I",
-     56,
-     [
-      [
-       80,
-       "[Page 15]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 15]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 003 - Composition and Organization/§ 00057 - Prevention and response workforces.md",
@@ -407,10 +404,10 @@
    "marks": [
     [
      "I",
-     30,
+     13,
      [
       [
-       121,
+       21,
        "[Page 16]"
       ]
      ]
@@ -426,14 +423,10 @@
    "id": "14_81",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       114,
-       "[Page 17]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 17]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 005 - Functions and Powers/§ 00081 - Aids to navigation authorized.md",
@@ -464,10 +457,14 @@
    "id": "14_84",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 18]",
-     true
+     "I",
+     2,
+     [
+      [
+       92,
+       "[Page 18]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 005 - Functions and Powers/§ 00084 - Interference with aids to navigation; penalty.md",
@@ -507,24 +504,16 @@
    "id": "14_88",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       94,
-       "[Page 19]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 19]",
+     true
     ],
     [
-     "I",
-     88,
-     [
-      [
-       369,
-       "[Page 20]"
-      ]
-     ]
+     "L",
+     86,
+     "[Page 20]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 005 - Functions and Powers/§ 00088 - Saving life and property.md",
@@ -556,7 +545,7 @@
    "marks": [
     [
      "L",
-     16,
+     10,
      "[Page 21]",
      true
     ]
@@ -571,34 +560,34 @@
    "id": "14_92",
    "marks": [
     [
-     "L",
-     48,
-     "[Page 22]",
-     true
-    ],
-    [
      "I",
-     142,
+     44,
      [
       [
-       208,
-       "[Page 23]"
+       115,
+       "[Page 22]"
       ]
      ]
     ],
     [
+     "L",
+     140,
+     "[Page 23]",
+     true
+    ],
+    [
      "I",
-     228,
+     224,
      [
       [
-       101,
+       201,
        "[Page 24]"
       ]
      ]
     ],
     [
      "L",
-     384,
+     378,
      "[Page 25]",
      true
     ]
@@ -613,27 +602,27 @@
    "id": "14_93",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 26]",
-     true
-    ],
-    [
      "I",
-     116,
+     42,
      [
       [
-       155,
-       "[Page 27]"
+       100,
+       "[Page 26]"
       ]
      ]
     ],
     [
+     "L",
+     114,
+     "[Page 27]",
+     true
+    ],
+    [
      "I",
-     178,
+     176,
      [
       [
-       104,
+       117,
        "[Page 28]"
       ]
      ]
@@ -643,7 +632,7 @@
      266,
      [
       [
-       305,
+       98,
        "[Page 29]"
       ]
      ]
@@ -669,10 +658,10 @@
    "marks": [
     [
      "I",
-     32,
+     28,
      [
       [
-       102,
+       432,
        "[Page 30]"
       ]
      ]
@@ -734,7 +723,7 @@
    "marks": [
     [
      "L",
-     24,
+     20,
      "[Page 31]",
      true
     ]
@@ -771,7 +760,7 @@
      2,
      [
       [
-       232,
+       90,
        "[Page 32]"
       ]
      ]
@@ -805,10 +794,14 @@
    "id": "14_145",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 33]",
-     true
+     "I",
+     14,
+     [
+      [
+       557,
+       "[Page 33]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 007 - Cooperation with Other Agencies/§ 00145 - Navy Department.md",
@@ -834,7 +827,7 @@
      10,
      [
       [
-       728,
+       519,
        "[Page 34]"
       ]
      ]
@@ -868,14 +861,10 @@
    "id": "14_149",
    "marks": [
     [
-     "I",
+     "L",
      28,
-     [
-      [
-       96,
-       "[Page 35]"
-      ]
-     ]
+     "[Page 35]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 007 - Cooperation with Other Agencies/§ 00149 - Assistance to foreign governments and maritime authorities.md",
@@ -1814,7 +1803,7 @@
   {
    "id": "14_291",
    "marks": [],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/d. discharges; retirements; revocation of commissions/§ 00291 - Voluntary retirement after twenty years’ service.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/d. discharges; retirements; revocation of commissions/§ 00291 - Voluntary retirement after twenty years' service.md",
    "printed_pages": [
     63,
     63
@@ -1823,7 +1812,7 @@
   {
    "id": "14_292",
    "marks": [],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/d. discharges; retirements; revocation of commissions/§ 00292 - Voluntary retirement after thirty years’ service.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/d. discharges; retirements; revocation of commissions/§ 00292 - Voluntary retirement after thirty years' service.md",
    "printed_pages": [
     63,
     63
@@ -2170,7 +2159,7 @@
      true
     ]
    ],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Enlisted Members/§ 00354 - Voluntary retirement after thirty years’ service.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Enlisted Members/§ 00354 - Voluntary retirement after thirty years' service.md",
    "printed_pages": [
     68,
     69
@@ -2179,7 +2168,7 @@
   {
    "id": "14_355",
    "marks": [],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Enlisted Members/§ 00355 - Voluntary retirement after twenty years’ service.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Enlisted Members/§ 00355 - Voluntary retirement after twenty years' service.md",
    "printed_pages": [
     69,
     69
@@ -3598,56 +3587,67 @@
   },
   {
    "id": "14_581",
-   "marks": [],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 015 - Acquisitions/Subchapter 003 (III) - Definitions/§ 00581 - Definitions.md",
-   "printed_pages": [
-    106,
-    106
-   ]
-  },
-  {
-   "id": "14_-ptI-ch17",
    "marks": [
     [
      "I",
-     11,
+     62,
      [
       [
-       43,
+       79,
        "[Page 107]"
       ]
      ]
     ]
    ],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/README.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 015 - Acquisitions/Subchapter 003 (III) - Definitions/§ 00581 - Definitions.md",
    "printed_pages": [
     106,
     107
    ]
   },
   {
-   "id": "14_631",
+   "id": "14_-ptI-ch17",
    "marks": [
     [
      "L",
-     4,
+     78,
      "[Page 108]",
      true
     ]
    ],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00631 - Delegation of powers by the Secretary.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/README.md",
    "printed_pages": [
     107,
     108
    ]
   },
   {
-   "id": "14_632",
+   "id": "14_631",
    "marks": [],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00632 - Functions and powers vested in the Commandant.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00631 - Delegation of powers by the Secretary.md",
    "printed_pages": [
     108,
     108
+   ]
+  },
+  {
+   "id": "14_632",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       111,
+       "[Page 109]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00632 - Functions and powers vested in the Commandant.md",
+   "printed_pages": [
+    108,
+    109
    ]
   },
   {
@@ -3655,23 +3655,16 @@
    "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00633 - Regulations.md",
    "printed_pages": [
-    108,
-    108
+    109,
+    109
    ]
   },
   {
    "id": "14_634",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 109]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00634 - Officers holding certain offices.md",
    "printed_pages": [
-    108,
+    109,
     109
    ]
   },
@@ -3686,55 +3679,51 @@
   },
   {
    "id": "14_636",
-   "marks": [],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00636 - Administration of oaths.md",
-   "printed_pages": [
-    109,
-    109
-   ]
-  },
-  {
-   "id": "14_637",
    "marks": [
     [
      "L",
-     22,
+     20,
      "[Page 110]",
      true
     ]
    ],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00637 - Stopping vessels; indemnity for firing at or into vessel.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00636 - Administration of oaths.md",
    "printed_pages": [
     109,
+    110
+   ]
+  },
+  {
+   "id": "14_637",
+   "marks": [],
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00637 - Stopping vessels; indemnity for firing at or into vessel.md",
+   "printed_pages": [
+    110,
     110
    ]
   },
   {
    "id": "14_638",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 111]",
+     true
+    ]
+   ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00638 - Coast Guard ensigns and pennants.md",
    "printed_pages": [
     110,
-    110
+    111
    ]
   },
   {
    "id": "14_639",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       215,
-       "[Page 111]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00639 - Penalty for unauthorized use of words “Coast Guard”.md",
+   "marks": [],
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00639 - Penalty for unauthorized use of words Coast Guard.md",
    "printed_pages": [
-    110,
+    111,
     111
    ]
   },
@@ -3751,14 +3740,10 @@
    "id": "14_641",
    "marks": [
     [
-     "I",
-     42,
-     [
-      [
-       114,
-       "[Page 112]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 112]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00641 - Disposal of certain material.md",
@@ -3787,56 +3772,51 @@
   },
   {
    "id": "14_644",
-   "marks": [],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00644 - Payment for the apprehension of stragglers.md",
-   "printed_pages": [
-    112,
-    112
-   ]
-  },
-  {
-   "id": "14_645",
    "marks": [
     [
      "L",
-     18,
+     16,
      "[Page 113]",
      true
     ]
    ],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00645 - Confidentiality of medical quality assurance records; qualified immunity for participants.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00644 - Payment for the apprehension of stragglers.md",
    "printed_pages": [
     112,
     113
    ]
   },
   {
-   "id": "14_646",
+   "id": "14_645",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 114]",
-     true
+     "I",
+     46,
+     [
+      [
+       94,
+       "[Page 114]"
+      ]
+     ]
     ]
    ],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00646 - Admiralty claims against the United States.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00645 - Confidentiality of medical quality assurance records; qualified immunity for participants.md",
    "printed_pages": [
     113,
     114
    ]
   },
   {
-   "id": "14_647",
+   "id": "14_646",
    "marks": [],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00647 - Claims for damage to property of the United States.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00646 - Admiralty claims against the United States.md",
    "printed_pages": [
     114,
     114
    ]
   },
   {
-   "id": "14_648",
+   "id": "14_647",
    "marks": [
     [
      "L",
@@ -3845,9 +3825,18 @@
      true
     ]
    ],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00648 - Accounting for industrial work.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00647 - Claims for damage to property of the United States.md",
    "printed_pages": [
     114,
+    115
+   ]
+  },
+  {
+   "id": "14_648",
+   "marks": [],
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00648 - Accounting for industrial work.md",
+   "printed_pages": [
+    115,
     115
    ]
   },
@@ -3862,11 +3851,22 @@
   },
   {
    "id": "14_650",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       110,
+       "[Page 116]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00650 - Coast Guard Supply Fund.md",
    "printed_pages": [
     115,
-    115
+    116
    ]
   },
   {
@@ -3874,27 +3874,16 @@
    "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00651 - Annual report.md",
    "printed_pages": [
-    115,
-    115
+    116,
+    116
    ]
   },
   {
    "id": "14_652",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       690,
-       "[Page 116]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00652 - Removing restrictions.md",
    "printed_pages": [
-    115,
+    116,
     116
    ]
   },
@@ -3929,14 +3918,10 @@
    "id": "14_656",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       105,
-       "[Page 117]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 117]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00656 - Use of certain appropriated funds.md",
@@ -3956,11 +3941,18 @@
   },
   {
    "id": "14_658",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 118]",
+     true
+    ]
+   ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00658 - Confidential investigative expenses.md",
    "printed_pages": [
     117,
-    117
+    118
    ]
   },
   {
@@ -3968,52 +3960,41 @@
    "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00659 - Assistance to film producers.md",
    "printed_pages": [
-    117,
-    117
+    118,
+    118
    ]
   },
   {
    "id": "14_660",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 118]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00660 - Transportation to and from certain places of employment.md",
    "printed_pages": [
-    117,
+    118,
     118
    ]
   },
   {
    "id": "14_661",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 119]",
+     true
+    ]
+   ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00661 - Authorization of personnel end strengths.md",
    "printed_pages": [
     118,
-    118
+    119
    ]
   },
   {
    "id": "14_662",
-   "marks": [
-    [
-     "I",
-     30,
-     [
-      [
-       323,
-       "[Page 119]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00662 - Requirement for prior authorization of appropriations.md",
    "printed_pages": [
-    118,
+    119,
     119
    ]
   },
@@ -4022,11 +4003,21 @@
    "marks": [
     [
      "I",
-     94,
+     56,
      [
       [
-       308,
+       113,
        "[Page 120]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     144,
+     [
+      [
+       116,
+       "[Page 121]"
       ]
      ]
     ]
@@ -4034,36 +4025,36 @@
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00663 - Capital investment plan.md",
    "printed_pages": [
     119,
-    120
+    121
    ]
   },
   {
    "id": "14_664",
+   "marks": [],
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00664 - User fees.md",
+   "printed_pages": [
+    121,
+    121
+   ]
+  },
+  {
+   "id": "14_665",
    "marks": [
     [
      "I",
      4,
      [
       [
-       92,
-       "[Page 121]"
+       236,
+       "[Page 122]"
       ]
      ]
     ]
    ],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00664 - User fees.md",
-   "printed_pages": [
-    120,
-    121
-   ]
-  },
-  {
-   "id": "14_665",
-   "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00665 - Restriction on construction of vessels in foreign shipyards.md",
    "printed_pages": [
     121,
-    121
+    122
    ]
   },
   {
@@ -4071,27 +4062,16 @@
    "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00666 - Local hire.md",
    "printed_pages": [
-    121,
-    121
+    122,
+    122
    ]
   },
   {
    "id": "14_667",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       87,
-       "[Page 122]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00667 - Vessel construction bonding requirements.md",
    "printed_pages": [
-    121,
+    122,
     122
    ]
   },
@@ -4115,11 +4095,22 @@
   },
   {
    "id": "14_670",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       93,
+       "[Page 123]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00670 - Procurement authority for family housing.md",
    "printed_pages": [
     122,
-    122
+    123
    ]
   },
   {
@@ -4127,23 +4118,16 @@
    "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00671 - Air Station Cape Cod Improvements.md",
    "printed_pages": [
-    122,
-    122
+    123,
+    123
    ]
   },
   {
    "id": "14_672",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 123]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00672 - Long-term lease of special purpose facilities.md",
    "printed_pages": [
-    122,
+    123,
     123
    ]
   },
@@ -4161,7 +4145,7 @@
    "marks": [
     [
      "L",
-     34,
+     8,
      "[Page 124]",
      true
     ]
@@ -4183,26 +4167,26 @@
   },
   {
    "id": "14_675",
-   "marks": [],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00675 - Small boat station closures.md",
-   "printed_pages": [
-    124,
-    124
-   ]
-  },
-  {
-   "id": "14_676",
    "marks": [
     [
      "L",
-     22,
+     20,
      "[Page 125]",
      true
     ]
    ],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00676 - Search and rescue center standards.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00675 - Small boat station closures.md",
    "printed_pages": [
     124,
+    125
+   ]
+  },
+  {
+   "id": "14_676",
+   "marks": [],
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00676 - Search and rescue center standards.md",
+   "printed_pages": [
+    125,
     125
    ]
   },
@@ -4217,30 +4201,26 @@
   },
   {
    "id": "14_678",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 126]",
+     true
+    ]
+   ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00678 - Aircraft accident investigations.md",
    "printed_pages": [
     125,
-    125
+    126
    ]
   },
   {
    "id": "14_-ptI-ch18",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       22,
-       "[Page 126]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 018 - Coast Guard Housing Authorities/README.md",
    "printed_pages": [
-    125,
+    126,
     126
    ]
   },
@@ -4255,11 +4235,18 @@
   },
   {
    "id": "14_681",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 127]",
+     true
+    ]
+   ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 018 - Coast Guard Housing Authorities/§ 00681 - General authority.md",
    "printed_pages": [
     126,
-    126
+    127
    ]
   },
   {
@@ -4267,27 +4254,16 @@
    "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 018 - Coast Guard Housing Authorities/§ 00682 to 684 - Repealed. Pub. L. 111–281, title II, §221(a)(3), Oct. 15, 2010, 124 Stat. 2919.md",
    "printed_pages": [
-    126,
-    126
+    127,
+    127
    ]
   },
   {
    "id": "14_685",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       96,
-       "[Page 127]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 018 - Coast Guard Housing Authorities/§ 00685 - Conveyance of real property.md",
    "printed_pages": [
-    126,
+    127,
     127
    ]
   },
@@ -4305,10 +4281,10 @@
    "marks": [
     [
      "I",
-     46,
+     18,
      [
       [
-       375,
+       83,
        "[Page 128]"
       ]
      ]
@@ -4340,11 +4316,22 @@
   },
   {
    "id": "14_[689",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       116,
+       "[Page 129]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 018 - Coast Guard Housing Authorities/§ 00689 - Repealed. Pub. L. 111–281, title II, §221(a)(9), Oct. 15, 2010, 124 Stat. 2920.md",
    "printed_pages": [
     128,
-    128
+    129
    ]
   },
   {
@@ -4352,8 +4339,8 @@
    "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 019 - Environmental Compliance and Restoration Program/README.md",
    "printed_pages": [
-    128,
-    128
+    129,
+    129
    ]
   },
   {
@@ -4361,33 +4348,33 @@
    "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 019 - Environmental Compliance and Restoration Program/§ 00690 - Definitions.md",
    "printed_pages": [
-    128,
-    128
+    129,
+    129
    ]
   },
   {
    "id": "14_691",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 129]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 019 - Environmental Compliance and Restoration Program/§ 00691 - Environmental Compliance and Restoration Program.md",
    "printed_pages": [
-    128,
+    129,
     129
    ]
   },
   {
    "id": "14_692",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 130]",
+     true
+    ]
+   ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 019 - Environmental Compliance and Restoration Program/§ 00692 - Environmental Compliance and Restoration Account.md",
    "printed_pages": [
     129,
-    129
+    130
    ]
   },
   {
@@ -4395,8 +4382,8 @@
    "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 019 - Environmental Compliance and Restoration Program/§ 00693 - Annual list of projects to Congress.md",
    "printed_pages": [
-    129,
-    129
+    130,
+    130
    ]
   },
   {
@@ -4404,28 +4391,24 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/README.md",
    "printed_pages": [
-    129,
-    129
+    130,
+    130
    ]
   },
   {
    "id": "14_-ptII-ch21",
    "marks": [
     [
-     "I",
-     23,
-     [
-      [
-       93,
-       "[Page 130]"
-      ]
-     ]
+     "L",
+     101,
+     "[Page 131]",
+     true
     ]
    ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/README.md",
    "printed_pages": [
-    129,
-    130
+    130,
+    131
    ]
   },
   {
@@ -4433,8 +4416,8 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/README.md",
    "printed_pages": [
-    130,
-    130
+    131,
+    131
    ]
   },
   {
@@ -4442,27 +4425,16 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00701 - Organization.md",
    "printed_pages": [
-    130,
-    130
+    131,
+    131
    ]
   },
   {
    "id": "14_702",
-   "marks": [
-    [
-     "I",
-     18,
-     [
-      [
-       478,
-       "[Page 131]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00702 - Authorized strength.md",
    "printed_pages": [
-    130,
+    131,
     131
    ]
   },
@@ -4486,30 +4458,30 @@
   },
   {
    "id": "14_705",
-   "marks": [],
-   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00705 - Benefits.md",
-   "printed_pages": [
-    131,
-    131
-   ]
-  },
-  {
-   "id": "14_706",
    "marks": [
     [
      "I",
-     2,
+     10,
      [
       [
-       425,
+       135,
        "[Page 132]"
       ]
      ]
     ]
    ],
-   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00706 - Temporary members of the Reserve; eligibility and compensation.md",
+   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00705 - Benefits.md",
    "printed_pages": [
     131,
+    132
+   ]
+  },
+  {
+   "id": "14_706",
+   "marks": [],
+   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00706 - Temporary members of the Reserve; eligibility and compensation.md",
+   "printed_pages": [
+    132,
     132
    ]
   },
@@ -4518,7 +4490,7 @@
    "marks": [
     [
      "L",
-     44,
+     16,
      "[Page 133]",
      true
     ]
@@ -4540,30 +4512,26 @@
   },
   {
    "id": "14_709",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 134]",
+     true
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00709 - Reserve student aviation pilots; Reserve aviation pilots; appointments in commissioned grade.md",
    "printed_pages": [
     133,
-    133
+    134
    ]
   },
   {
    "id": "14_709a",
-   "marks": [
-    [
-     "I",
-     36,
-     [
-      [
-       142,
-       "[Page 134]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00709a - Reserve student pre-commissioning assistance program.md",
    "printed_pages": [
-    133,
+    134,
     134
    ]
   },
@@ -4578,40 +4546,51 @@
   },
   {
    "id": "14_711",
-   "marks": [],
-   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00711 - Exclusiveness of service.md",
-   "printed_pages": [
-    134,
-    134
-   ]
-  },
-  {
-   "id": "14_712",
    "marks": [
     [
      "I",
-     12,
+     2,
      [
       [
-       94,
+       219,
        "[Page 135]"
       ]
      ]
     ]
    ],
-   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00712 - Active duty for emergency augmentation of regular forces.md",
+   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00711 - Exclusiveness of service.md",
    "printed_pages": [
     134,
     135
    ]
   },
   {
-   "id": "14_713",
+   "id": "14_712",
    "marks": [],
-   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00713 - Enlistment of members engaged in schooling.md",
+   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00712 - Active duty for emergency augmentation of regular forces.md",
    "printed_pages": [
     135,
     135
+   ]
+  },
+  {
+   "id": "14_713",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       110,
+       "[Page 136]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00713 - Enlistment of members engaged in schooling.md",
+   "printed_pages": [
+    135,
+    136
    ]
   },
   {
@@ -4619,8 +4598,8 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/README.md",
    "printed_pages": [
-    135,
-    135
+    136,
+    136
    ]
   },
   {
@@ -4628,8 +4607,8 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00720 - Definitions.md",
    "printed_pages": [
-    135,
-    135
+    136,
+    136
    ]
   },
   {
@@ -4637,23 +4616,16 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00721 - Applicability of this subchapter.md",
    "printed_pages": [
-    135,
-    135
+    136,
+    136
    ]
   },
   {
    "id": "14_722",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 136]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00722 - Suspension of this subchapter in time of war or national emergency.md",
    "printed_pages": [
-    135,
+    136,
     136
    ]
   },
@@ -4668,55 +4640,55 @@
   },
   {
    "id": "14_724",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 137]",
+     true
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00724 - Authorized number of officers.md",
    "printed_pages": [
     136,
-    136
+    137
    ]
   },
   {
    "id": "14_725",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       92,
-       "[Page 137]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00725 - Precedence.md",
    "printed_pages": [
-    136,
+    137,
     137
    ]
   },
   {
    "id": "14_726",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       140,
+       "[Page 138]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00726 - Running mates.md",
    "printed_pages": [
     137,
-    137
+    138
    ]
   },
   {
    "id": "14_727",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 138]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00727 - Constructive credit upon initial appointment.md",
    "printed_pages": [
-    137,
+    138,
     138
    ]
   },
@@ -4733,20 +4705,22 @@
    "id": "14_729",
    "marks": [
     [
-     "I",
-     38,
-     [
-      [
-       92,
-       "[Page 139]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 139]",
+     true
+    ],
+    [
+     "L",
+     68,
+     "[Page 140]",
+     true
     ]
    ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00729 - Promotion; recommendations of selection boards.md",
    "printed_pages": [
     138,
-    139
+    140
    ]
   },
   {
@@ -4754,37 +4728,37 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00730 - Selection boards; appointment.md",
    "printed_pages": [
-    139,
-    139
+    140,
+    140
    ]
   },
   {
    "id": "14_731",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       265,
-       "[Page 140]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00731 - Establishment of promotion zones under running mate system.md",
    "printed_pages": [
-    139,
+    140,
     140
    ]
   },
   {
    "id": "14_732",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       94,
+       "[Page 141]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00732 - Eligibility for promotion.md",
    "printed_pages": [
     140,
-    140
+    141
    ]
   },
   {
@@ -4792,23 +4766,16 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00733 - Recommendation for promotion of an officer previously removed from an active status.md",
    "printed_pages": [
-    140,
-    140
+    141,
+    141
    ]
   },
   {
    "id": "14_734",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 141]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00734 - Qualifications for promotion.md",
    "printed_pages": [
-    140,
+    141,
     141
    ]
   },
@@ -4823,11 +4790,22 @@
   },
   {
    "id": "14_736",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       169,
+       "[Page 142]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00736 - Date of rank upon promotion; entitlement to pay.md",
    "printed_pages": [
     141,
-    141
+    142
    ]
   },
   {
@@ -4835,23 +4813,16 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00737 - Type of promotion; temporary.md",
    "printed_pages": [
-    141,
-    141
+    142,
+    142
    ]
   },
   {
    "id": "14_738",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 142]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00738 - Effect of removal by the President or failure of consent of the Senate.md",
    "printed_pages": [
-    141,
+    142,
     142
    ]
   },
@@ -4866,55 +4837,59 @@
   },
   {
    "id": "14_740",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       499,
+       "[Page 143]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00740 - Failure of selection and removal from an active status.md",
    "printed_pages": [
     142,
-    142
+    143
    ]
   },
   {
    "id": "14_741",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 143]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00741 - Retention boards; removal from an active status to provide a flow of promotion.md",
    "printed_pages": [
-    142,
+    143,
     143
    ]
   },
   {
    "id": "14_742",
-   "marks": [],
-   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00742 - Maximum ages for retention in an active status.md",
-   "printed_pages": [
-    143,
-    143
-   ]
-  },
-  {
-   "id": "14_743",
    "marks": [
     [
      "I",
-     4,
+     6,
      [
       [
-       326,
+       103,
        "[Page 144]"
       ]
      ]
     ]
    ],
-   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00743 - Rear admiral and rear admiral (lower half); maximum service in grade.md",
+   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00742 - Maximum ages for retention in an active status.md",
    "printed_pages": [
     143,
+    144
+   ]
+  },
+  {
+   "id": "14_743",
+   "marks": [],
+   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00743 - Rear admiral and rear admiral (lower half); maximum service in grade.md",
+   "printed_pages": [
+    144,
     144
    ]
   },
@@ -4947,11 +4922,18 @@
   },
   {
    "id": "14_[751",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 145]",
+     true
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00751 - Repealed. July 9, 1952, ch. 608, part VIII, §803, 66 Stat. 505.md",
    "printed_pages": [
     144,
-    144
+    145
    ]
   },
   {
@@ -4959,8 +4941,8 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00751a - Omitted.md",
    "printed_pages": [
-    144,
-    144
+    145,
+    145
    ]
   },
   {
@@ -4968,8 +4950,8 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00752 - Repealed. July 9, 1952, ch. 608, part VIII, §803, 66 Stat. 505.md",
    "printed_pages": [
-    144,
-    144
+    145,
+    145
    ]
   },
   {
@@ -4977,8 +4959,8 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00752a - Omitted.md",
    "printed_pages": [
-    144,
-    144
+    145,
+    145
    ]
   },
   {
@@ -4986,23 +4968,16 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00753 - Repealed. July 9, 1952, ch. 608, part VIII, §803, 66 Stat. 505.md",
    "printed_pages": [
-    144,
-    144
+    145,
+    145
    ]
   },
   {
    "id": "14_[753a_to_757",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 145]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00753a to 757 - Omitted.md",
    "printed_pages": [
-    144,
+    145,
     145
    ]
   },
@@ -5053,52 +5028,67 @@
   },
   {
    "id": "14_[763_to_765",
-   "marks": [],
-   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00763 to 765 - Omitted.md",
-   "printed_pages": [
-    145,
-    145
-   ]
-  },
-  {
-   "id": "14_[770_to_798",
    "marks": [
     [
      "L",
-     22,
+     10,
      "[Page 146]",
      true
     ]
    ],
-   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00770 to 798 - Omitted.md",
+   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00763 to 765 - Omitted.md",
    "printed_pages": [
     145,
+    146
+   ]
+  },
+  {
+   "id": "14_[770_to_798",
+   "marks": [],
+   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00770 to 798 - Omitted.md",
+   "printed_pages": [
+    146,
     146
    ]
   },
   {
    "id": "14_-ptII-ch23",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       41,
+       "[Page 147]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 023 - Coast Guard Auxiliary/README.md",
    "printed_pages": [
     146,
-    146
+    147
    ]
   },
   {
    "id": "14_821",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 147]",
-     true
+     "I",
+     72,
+     [
+      [
+       162,
+       "[Page 148]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 023 - Coast Guard Auxiliary/§ 00821 - Administration of the Coast Guard Auxiliary.md",
    "printed_pages": [
-    146,
-    147
+    147,
+    148
    ]
   },
   {
@@ -5106,37 +5096,33 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 023 - Coast Guard Auxiliary/§ 00822 - Purpose of the Coast Guard Auxiliary.md",
    "printed_pages": [
-    147,
-    147
+    148,
+    148
    ]
   },
   {
    "id": "14_823",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       121,
-       "[Page 148]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 023 - Coast Guard Auxiliary/§ 00823 - Eligibility; enrollments.md",
    "printed_pages": [
-    147,
+    148,
     148
    ]
   },
   {
    "id": "14_823a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     38,
+     "[Page 149]",
+     true
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 023 - Coast Guard Auxiliary/§ 00823a - Members of the Auxiliary; status.md",
    "printed_pages": [
     148,
-    148
+    149
    ]
   },
   {
@@ -5144,8 +5130,8 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 023 - Coast Guard Auxiliary/§ 00824 - Disenrollment.md",
    "printed_pages": [
-    148,
-    148
+    149,
+    149
    ]
   },
   {
@@ -5153,23 +5139,16 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 023 - Coast Guard Auxiliary/§ 00825 - Membership in other organizations.md",
    "printed_pages": [
-    148,
-    148
+    149,
+    149
    ]
   },
   {
    "id": "14_826",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 149]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 023 - Coast Guard Auxiliary/§ 00826 - Use of member's facilities.md",
    "printed_pages": [
-    148,
+    149,
     149
    ]
   },
@@ -5193,30 +5172,26 @@
   },
   {
    "id": "14_829",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 150]",
+     true
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 023 - Coast Guard Auxiliary/§ 00829 - Radio station deemed government station.md",
    "printed_pages": [
     149,
-    149
+    150
    ]
   },
   {
    "id": "14_830",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       120,
-       "[Page 150]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 023 - Coast Guard Auxiliary/§ 00830 - Availability of appropriations.md",
    "printed_pages": [
-    149,
+    150,
     150
    ]
   },
@@ -5231,11 +5206,22 @@
   },
   {
    "id": "14_832",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       105,
+       "[Page 151]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 023 - Coast Guard Auxiliary/§ 00832 - Injury or death in line of duty.md",
    "printed_pages": [
     150,
-    150
+    151
    ]
   },
   {
@@ -5243,23 +5229,16 @@
    "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 025 - General Provisions for Coast Guard Reserve and Auxiliary/README.md",
    "printed_pages": [
-    150,
-    150
+    151,
+    151
    ]
   },
   {
    "id": "14_891",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 151]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 025 - General Provisions for Coast Guard Reserve and Auxiliary/§ 00891 - Flags; pennants; uniforms and insignia.md",
    "printed_pages": [
-    150,
+    151,
     151
    ]
   },
@@ -5291,6 +5270,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2012-title14 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2013-title14 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 14 - Coast Guard"
 }

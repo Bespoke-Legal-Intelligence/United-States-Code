@@ -22,5 +22,5 @@ Subsections (a) and (b) of this section shall not apply to lands held in trust b
 
 (Pub. L. 99–450, §13, Oct. 8, 1986, 100 Stat. 1135.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “foreseeable,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "foreseeable,".</i>
 

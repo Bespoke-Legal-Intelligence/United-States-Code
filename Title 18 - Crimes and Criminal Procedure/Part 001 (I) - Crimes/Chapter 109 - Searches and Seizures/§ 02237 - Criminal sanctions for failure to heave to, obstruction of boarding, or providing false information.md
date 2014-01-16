@@ -34,15 +34,15 @@
 
 (e) In this section—
 
-&emsp;(1) the term “Federal law enforcement officer” has the meaning given the term in section 115(c);
+&emsp;(1) the term "Federal law enforcement officer" has the meaning given the term in section 115(c);
 
-&emsp;(2) the term “heave to” means to cause a vessel to slow, come to a stop, or adjust its course or speed to account for the weather conditions and sea state to facilitate a law enforcement boarding;
+&emsp;(2) the term "heave to" means to cause a vessel to slow, come to a stop, or adjust its course or speed to account for the weather conditions and sea state to facilitate a law enforcement boarding;
 
-&emsp;(3) the term “vessel subject to the jurisdiction of the United States” has the meaning given the term in section 70502 of title 46;
+&emsp;(3) the term "vessel subject to the jurisdiction of the United States" has the meaning given the term in section 70502 of title 46;
 
-&emsp;(4) the term “vessel of the United States” has the meaning given the term in section 70502 of title 46; and
+&emsp;(4) the term "vessel of the United States" has the meaning given the term in section 70502 of title 46; and
 
-&emsp;(5) the term “transportation under inhumane conditions” means—
+&emsp;(5) the term "transportation under inhumane conditions" means—
 
 &emsp;&emsp;(A) transportation—
 
@@ -62,11 +62,11 @@ Section 274 of the Immigration and Nationality Act, referred to in subsec. (b)(4
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–281, §917(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: “Any person who intentionally violates this section shall be fined under this title or imprisoned for not more than 5 years, or both.”
+<b>2010</b>—Subsec. (b). Pub. L. 111–281, §917(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: "Any person who intentionally violates this section shall be fined under this title or imprisoned for not more than 5 years, or both."
 
-Subsec. (e)(3). Pub. L. 111–281, §917(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘vessel subject to the jurisdiction of the United States’ has the meaning given the term in section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903); and”.
+Subsec. (e)(3). Pub. L. 111–281, §917(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the term 'vessel subject to the jurisdiction of the United States' has the meaning given the term in section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903); and".
 
-Subsec. (e)(4). Pub. L. 111–281, §917(b)(2), substituted “section 70502 of title 46; and” for “section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903).”
+Subsec. (e)(4). Pub. L. 111–281, §917(b)(2), substituted "section 70502 of title 46; and" for "section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903)."
 
 Subsec. (e)(5). Pub. L. 111–281, §917(b)(3), added par. (5).
 

@@ -12,15 +12,15 @@ Whoever violates any provision of sections 491 to 494 and 495 to 498 of this tit
 
 #### Codification
 
-The words “district court” were substituted for “circuit court,” upon incorporation into the Code, the Circuit Courts being abolished by act Mar. 3, 1911, and their powers and duties transferred to the district courts by section 291 of that act.
+The words "district court" were substituted for "circuit court," upon incorporation into the Code, the Circuit Courts being abolished by act Mar. 3, 1911, and their powers and duties transferred to the district courts by section 291 of that act.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–293 substituted “$5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter” for “$1,000”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–293 substituted "$5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter" for "$1,000".
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–449 substituted “Secretary of Transportation” for “Secretary of War” wherever appearing. See Transfer of Functions note below.
+<b>1983</b>—Subsec. (a). Pub. L. 97–449 substituted "Secretary of Transportation" for "Secretary of War" wherever appearing. See Transfer of Functions note below.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–322, §108(c)(1)–(3), designated existing provisions as subsec. (a), provided for punishment of persons who shall “willfully” fail to comply with lawful orders, and struck out “shall be deemed guilty of a violation of said sections, and any persons who shall be guilty of a violation of said sections” before “shall be deemed guilty of a misdemeanor”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–322, §108(c)(1)–(3), designated existing provisions as subsec. (a), provided for punishment of persons who shall "willfully" fail to comply with lawful orders, and struck out "shall be deemed guilty of a violation of said sections, and any persons who shall be guilty of a violation of said sections" before "shall be deemed guilty of a misdemeanor".
 
 Subsec. (b). Pub. L. 97–322, §108(c)(4), added subsec. (b).
 

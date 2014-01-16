@@ -42,5 +42,5 @@ Oct. 23, 1992, Pub. L. 102–484, title XVIII, §§1806, 1807, 1808 (related to 
 
 &nbsp;
 
-In subsections (a) and (b), the words “Except as provided in section 5008 of this title” and “in conformity with the laws of the State in which it is incorporated” are omitted as unnecessary.
+In subsections (a) and (b), the words "Except as provided in section 5008 of this title" and "in conformity with the laws of the State in which it is incorporated" are omitted as unnecessary.
 

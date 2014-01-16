@@ -8,9 +8,9 @@ A State plan approved under section 1396a of this title may provide for making m
 
 For purposes of this section:
 
-&emsp;(1) The term “child” means an individual under 19 years of age.
+&emsp;(1) The term "child" means an individual under 19 years of age.
 
-&emsp;(2) The term “presumptive eligibility period” means, with respect to a child, the period that—
+&emsp;(2) The term "presumptive eligibility period" means, with respect to a child, the period that—
 
 &emsp;&emsp;(A) begins with the date on which a qualified entity determines, on the basis of preliminary information, that the family income of the child does not exceed the applicable income level of eligibility under the State plan, and
 
@@ -20,9 +20,9 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) in the case of a child on whose behalf an application is not filed by the last day of the month following the month during which the entity makes the determination referred to in subparagraph (A), such last day.
 
-&emsp;(3)(A) Subject to subparagraph (B), the term “qualified entity” means any entity that—
+&emsp;(3)(A) Subject to subparagraph (B), the term "qualified entity" means any entity that—
 
-&emsp;&emsp;(i)(I) is eligible for payments under a State plan approved under this subchapter and provides items and services described in subsection (a) of this section, (II) is authorized to determine eligibility of a child to participate in a Head Start program under the Head Start Act (42 U.S.C. 9831 et seq.), eligibility of a child to receive child care services for which financial assistance is provided under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), eligibility of an infant or child to receive assistance under the special supplemental nutrition program for women, infants, and children (WIC) under section 1786 of this title <sup>1</sup> eligibility of a child for medical assistance under the State plan under this subchapter, or eligibility of a child for child health assistance under the program funded under subchapter XXI of this chapter, (III) is an elementary school or secondary school, as such terms are defined in section 8801 of title 20,<sup>2</sup> an elementary or secondary school operated or supported by the Bureau of Indian Affairs, a State or tribal child support enforcement agency, an organization that isproviding emergency food and shelter under a grant under the Stewart B. McKinney Homeless Assistance Act <sup>2</sup> \[42 U.S.C. 11301 et seq.\], or a State or tribal office or entity involved in enrollment in the program under this subchapter, under part A of subchapter IV of this chapter, under subchapter XXI of this chapter, or that determines eligibility for any assistance or benefits provided under any program of public or assisted housing that receives Federal funds, including the program under section 8 \[42 U.S.C. 1437f\] or any other section of the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) or under the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.), or (IV) any other entity the State so deems, as approved by the Secretary; and
+&emsp;&emsp;(i)(I) is eligible for payments under a State plan approved under this subchapter and provides items and services described in subsection (a) of this section, (II) is authorized to determine eligibility of a child to participate in a Head Start program under the Head Start Act (42 U.S.C. 9831 et seq.), eligibility of a child to receive child care services for which financial assistance is providedunder the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), eligibility of an infant or child to receive assistance under the special supplemental nutrition program for women, infants, and children (WIC) under section 1786 of this title <sup>1</sup> eligibility of a child for medical assistance under the State plan under this subchapter, or eligibility of a child for child health assistance under the program funded under subchapter XXI of this chapter, (III) is an elementary school or secondary school, as such terms are defined in section 8801 of title 20,<sup>2</sup> an elementary or secondary school operated or supported by the Bureau of Indian Affairs, a State or tribal child support enforcement agency, an organization that is providing emergency food and shelter under a grant under the Stewart B. McKinney Homeless Assistance Act <sup>2</sup> \[42 U.S.C. 11301 et seq.\], or a State or tribal office or entity involved in enrollment in the program under this subchapter, under part A of subchapter IV of this chapter, under subchapter XXI of this chapter, or that determines eligibility for any assistance or benefits provided under any program of public or assisted housing that receives Federal funds, including the program under section 8 \[42 U.S.C. 1437f\] or any other section of the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) or under the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.), or (IV) any other entity the State so deems, as approved by the Secretary; and
 
 &emsp;&emsp;(ii) is determined by the State agency to be capable of making determinations of the type described in paragraph (2).
 
@@ -78,19 +78,19 @@ The Native American Housing Assistance and Self-Determination Act of 1996, refer
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b)(3)(A)(i). Pub. L. 106–554, §1(a)(6) \[title VII, §708(b)(1)\], substituted “42 U.S.C. 9831” for “42 U.S.C. 9821”.
+<b>2000</b>—Subsec. (b)(3)(A)(i). Pub. L. 106–554, §1(a)(6) \[title VII, §708(b)(1)\], substituted "42 U.S.C. 9831" for "42 U.S.C. 9821".
 
-Pub. L. 106–554, §1(a)(6) \[title VII, §708(a)(2)\], inserted before semicolon “eligibility of a child for medical assistance under the State plan under this subchapter, or eligibility of a child for child health assistance under the program funded under subchapter XXI of this chapter, (III) is an elementary school or secondary school, as such terms are defined in section 8801 of title 20, an elementary or secondary school operated or supported by the Bureau of Indian Affairs, a State or tribal child support enforcement agency, an organization that is providing emergency food and shelter under a grant under the Stewart B. McKinney Homeless Assistance Act, or a State or tribal office or entity involved in enrollment in the program under this subchapter, under part A of subchapter IV of this chapter, under subchapter XXI of this chapter, or that determines eligibility for any assistance or benefits provided under any program of public or assisted housing that receives Federal funds, including the program under section 8 or any other section of the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) or under the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.), or (IV) any other entity the State so deems, as approved by the Secretary”.
+Pub. L. 106–554, §1(a)(6) \[title VII, §708(a)(2)\], inserted before semicolon "eligibility of a child for medical assistance under the State plan under this subchapter, or eligibility of a child for child health assistance under the program funded under subchapter XXI of this chapter, (III) is an elementary school or secondary school, as such terms are defined in section 8801 of title 20, an elementary or secondary school operated or supported by the Bureau of Indian Affairs, a State or tribal child support enforcement agency, an organization that is providing emergency food and shelter under a grant under the Stewart B. McKinney Homeless Assistance Act, or a State or tribal office or entity involved in enrollment in the program under this subchapter, under part A of subchapter IV of this chapter, under subchapter XXI of this chapter, or that determines eligibility for any assistance or benefits provided under any program of public or assisted housing that receives Federal funds, including the program under section 8 or any other section of the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) or under the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.), or (IV) any other entity the State so deems, as approved by the Secretary".
 
-Pub. L. 106–554, §1(a)(6) \[title VII, §708(a)(1)\], substituted “, (II)” for “or (II)”.
+Pub. L. 106–554, §1(a)(6) \[title VII, §708(a)(1)\], substituted ", (II)" for "or (II)".
 
-Subsec. (b)(3)(A)(ii). Pub. L. 106–554, §1(a)(6) \[title VII, §708(b)(2)\], substituted “paragraph (2)” for “paragraph (1)(A)”.
+Subsec. (b)(3)(A)(ii). Pub. L. 106–554, §1(a)(6) \[title VII, §708(b)(2)\], substituted "paragraph (2)" for "paragraph (1)(A)".
 
-Subsec. (c)(2). Pub. L. 106–554, §1(a)(6) \[title VII, §708(b)(3)\], substituted “subsection (b)(2)” for “subsection (b)(1)(A)” in introductory provisions.
+Subsec. (c)(2). Pub. L. 106–554, §1(a)(6) \[title VII, §708(b)(3)\], substituted "subsection (b)(2)" for "subsection (b)(1)(A)" in introductory provisions.
 
-<b>1999</b>—Subsec. (d)(1)(B). Pub. L. 106–113 substituted “an entity” for “a entity”.
+<b>1999</b>—Subsec. (d)(1)(B). Pub. L. 106–113 substituted "an entity" for "a entity".
 
-<i><sup>1</sup></i><i> So in original. A comma probably should appear after “title”.</i>
+<i><sup>1</sup></i><i> So in original. A comma probably should appear after "title".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

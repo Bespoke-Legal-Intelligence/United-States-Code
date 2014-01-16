@@ -7,7 +7,7 @@
 
 - [Part A - Employment and Training Programs for Native Americans and Migrant and Seasonal Farmworkers](Part%20A%20-%20Employment%20and%20Training%20Programs%20for%20Native%20Americans%20and%20Migrant%20and%20Seasonal%20Farmworkers/README.md)
 - [Part B - Job Corps](Part%20B%20-%20Job%20Corps/README.md)
-- [Part C - Veterans&#8217; Employment Programs](Part%20C%20-%20Veterans%E2%80%99%20Employment%20Programs/README.md)
+- [Part C - Veterans' Employment Programs](Part%20C%20-%20Veterans%27%20Employment%20Programs/README.md)
 - [Part D - National Activities](Part%20D%20-%20National%20Activities/README.md)
 - [Part E - Labor Market Information](Part%20E%20-%20Labor%20Market%20Information/README.md)
 - [Part F - National Commission for Employment Policy](Part%20F%20-%20National%20Commission%20for%20Employment%20Policy/README.md)

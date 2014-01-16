@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—American War Mothers (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—American War Mothers (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

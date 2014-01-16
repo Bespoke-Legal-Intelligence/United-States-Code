@@ -2,7 +2,7 @@
 
 #### (a) Transfer of unrestricted control
 
-The Secretary is authorized and directed to transfer within four years from August 13, 1954, to each member of the tribe unrestricted control of funds or other personal property held in trust for such member by the United States.
+The Secretary is authorized and directed to transfer within four years from August 13, 1954, to each member of the tribe unrestricted controlof funds or other personal property held in trust for such member by the United States.
 
 #### (b) Removal of restrictions on sales or encumbrances; fee simple title
 
@@ -14,7 +14,7 @@ Prior to the time provided in subsection (b) of this section for the removal of 
 
 &emsp;(1) upon request of any of the owners, partition the land and issue to each owner a patent or deed for his individual share that shall become unrestricted four years from August 13, 1954;
 
-&emsp;(2) upon request of any of the owners, and a finding by the Secretary that partition of all or any part of the land is not practicable, cause all or any part of the land to be sold at not less than the appraised value thereof and distribute the proceeds of sale to the owners: <i>Provided</i>, That any one or more of the owners may elect before a sale to purchase the otherinterests in the land at not less than the appraised value thereof, and the purchaser shall receive an unrestricted patent or deed to the land; and
+&emsp;(2) upon request of any of the owners, and a finding by the Secretary that partition of all or any part of the land is not practicable, cause all or any part of the land to be sold at not less than the appraised value thereof and distribute the proceeds of sale to the owners: <i>Provided</i>, That any one or more of the owners may elect before a sale to purchase the other interests in the land at not less than the appraised value thereof, and the purchaser shall receive an unrestricted patent or deed to the land; and
 
 &emsp;(3) if the whereabouts of none of the owners can be ascertained, cause such lands to be sold and deposit the proceeds of sale in the Treasury of the United States for safekeeping.
 
@@ -34,7 +34,7 @@ The Secretary is authorized to approve—
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–731 struck out provision making subsection inapplicable to subsurface rights and directing Secretary to transfer subsurface rights to trustees for management for a period not less than ten years.
 
-<b>1957</b>—Subsec. (b). Pub. L. 85–132, §1(i), substituted “interests in land, wherever located” for “land”, and inserted “purchasers” and “and on trust or restricted interests in land within the Klamath Reservation regardless of ownership” preceding proviso.
+<b>1957</b>—Subsec. (b). Pub. L. 85–132, §1(i), substituted "interests in land, wherever located" for "land", and inserted "purchasers" and "and on trust or restricted interests in land within the Klamath Reservation regardless of ownership" preceding proviso.
 
-Subsec. (c). Pub. L. 85–132, §1(h), inserted “one or by” after “on land owned by”.
+Subsec. (c). Pub. L. 85–132, §1(h), inserted "one or by" after "on land owned by".
 

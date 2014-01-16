@@ -6,7 +6,7 @@ This section shall not apply to a common or contract carrier or to international
 
 In the enforcement of this section, the definitions of fireworks contained in the laws of the respective States shall be applied.
 
-As used in this section, the term “State” includes the several States, Territories, and possessions of the United States, and the District of Columbia.
+As used in this section, the term "State" includes the several States, Territories, and possessions of the United States, and the District of Columbia.
 
 This section shall be effective from and after July 1, 1954.
 
@@ -14,15 +14,15 @@ This section shall be effective from and after July 1, 1954.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in first par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" in first par.
 
 #### Fireworks for Agricultural Purposes
 
-Act June 4, 1954, ch. 261, §3, 68 Stat. 171, provided that: “This Act \[enacting this section\] shall not be effective with respect to—
+Act June 4, 1954, ch. 261, §3, 68 Stat. 171, provided that: "This Act \[enacting this section\] shall not be effective with respect to—
 
-&emsp;“(1) the transportation of fireworks into any State or Territory for use solely for agricultural purposes,
+&emsp;"(1) the transportation of fireworks into any State or Territory for use solely for agricultural purposes,
 
-&emsp;“(2) the delivery of fireworks for transportation into any State or Territory for use solely for agricultural purposes, or
+&emsp;"(2) the delivery of fireworks for transportation into any State or Territory for use solely for agricultural purposes, or
 
-&emsp;“(3) any attempt to engage in any such transportation or delivery for use solely for agricultural purposes, until sixty days have elapsed after the commencement of the next regular session of the legislature of such State or Territory which begins after the date of enactment of this Act \[June 4, 1954\].”
+&emsp;"(3) any attempt to engage in any such transportation or delivery for use solely for agricultural purposes, until sixty days have elapsed after the commencement of the next regular session of the legislature of such State or Territory which begins after the date of enactment of this Act \[June 4, 1954\]."
 

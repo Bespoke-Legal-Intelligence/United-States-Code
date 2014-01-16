@@ -18,7 +18,7 @@ A prior section 211, act June 25, 1948, ch. 645, 62 Stat. 693, related to an off
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in two places.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" in two places.
 
 <b>1951</b>—Act Sept. 13, 1951, inserted second paragraph.
 

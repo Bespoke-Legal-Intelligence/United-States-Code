@@ -16,7 +16,7 @@ For purposes of determining eligibility for and the amount of benefits under thi
 
 (2) The amount of resources of a sponsor (and his spouse) which shall be deemed to be the resources of an alien for any year shall be determined as follows:
 
-&emsp;(A) The total amount of the resources (as determined under section 1382b of this title) of such sponsor and such sponsor's spouse (if such spouse is living with the sponsor) shall be determined.
+&emsp;(A) The total amount of the resources (as determined under section 1382b of this title) ofsuch sponsor and such sponsor's spouse (if such spouse is living with the sponsor) shall be determined.
 
 &emsp;(B) The amount determined under subparagraph (A) shall be reduced by an amount equal to (i) the applicable amount determined under section 1382(a)(3)(B) of this title in the case of a sponsor who has no spouse with whom he is living, or (ii) the applicable amount determined under section 1382(a)(3)(A) of this title in the case of a sponsor who has a spouse with whom he is living.
 
@@ -34,11 +34,11 @@ In determining the amount of income of an alien during the period of 3 years aft
 
 #### (e) Joint and several liability of alien and sponsor for overpayments
 
-Any sponsor of an alien, and such alien, shall be jointly and severally liable for an amount equal to any overpayment made to such alien during the period of 3 years after such alien'sentry into the United States, on account of such sponsor's failure to provide correct information under the provisions of this section, except where such sponsor was without fault, or where good cause for such failure existed. Any such overpayment which is not repaid to the Commissioner of Social Security or recovered in accordance with section 1383(b) of this title shall be withheld from any subsequent payment to which such alien or such sponsor is entitled under any provision of this chapter.
+Any sponsor of an alien, and such alien, shall be jointly and severally liable for an amount equal to any overpayment made to such alien during the period of 3 years after such alien's entry into the United States, on account of such sponsor's failure to provide correct information under the provisions of this section, except where such sponsor was without fault, or where good cause for such failure existed. Any such overpayment which is not repaid to the Commissioner of Social Security or recovered in accordance with section 1383(b) of this title shall be withheld from any subsequent payment to which such alien or such sponsor is entitled under any provision of this chapter.
 
 #### (f) Exemptions
 
-(1) The provisions of this section shall not apply with respect to any individual who is an “aged, blind, or disabled individual” for purposes of this subchapter by reason of blindness (as determined under section 1382c(a)(2) of this title) or disability (as determined under section 1382c(a)(3) of this title), from and after the onset of the impairment, if such blindness or disability commenced after the date of such individual's admission into the United States for permanent residence.
+(1) The provisions of this section shall not apply with respect to any individual who is an "aged, blind, or disabled individual" for purposes of this subchapter by reason of blindness (as determined under section 1382c(a)(2) of this title) or disability (as determined under section 1382c(a)(3) of this title), from and after the onset of the impairment, if such blindness or disability commenced after the date of such individual's admission into the United States for permanent residence.
 
 (2) The provisions of this section shall not apply with respect to any alien who is—
 
@@ -58,15 +58,15 @@ Section 1153(a)(7) of title 8, referred to in subsec. (f)(2)(A), to be deemed a 
 
 #### Amendments
 
-<b>1994</b>—Subsecs. (d), (e). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing, except where appearing before “of State” in subsec. (d)(2).
+<b>1994</b>—Subsecs. (d), (e). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary" wherever appearing, except where appearing before "of State" in subsec. (d)(2).
 
-<b>1993</b>—Pub. L. 103–152, §7(b)(1), substituted “3 years” for “5 years” in subsecs. (a), (c), (d)(1), and (e).
+<b>1993</b>—Pub. L. 103–152, §7(b)(1), substituted "3 years" for "5 years" in subsecs. (a), (c), (d)(1), and (e).
 
-Pub. L. 103–152, §7(a)(1), substituted “5 years” for “three years” in subsecs. (a), (c), (d)(1), and (e).
+Pub. L. 103–152, §7(a)(1), substituted "5 years" for "three years" in subsecs. (a), (c), (d)(1), and (e).
 
-<b>1984</b>—Subsec. (b)(2)(B). Pub. L. 98–369, §2611(d), substituted “the applicable amount determined under section 1382(a)(3)(B) of this title” for “$1,500” and “the applicable amount determined under section 1382(a)(3)(A) of this title” for “$2,250”.
+<b>1984</b>—Subsec. (b)(2)(B). Pub. L. 98–369, §2611(d), substituted "the applicable amount determined under section 1382(a)(3)(B) of this title" for "$1,500" and "the applicable amount determined under section 1382(a)(3)(A) of this title" for "$2,250".
 
-Subsec. (e). Pub. L. 98–369, §2663(g)(10), substituted “severally” for “severably”.
+Subsec. (e). Pub. L. 98–369, §2663(g)(10), substituted "severally" for "severably".
 
 #### Effective Date of 1994 Amendment
 
@@ -74,9 +74,9 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–152, §7(a)(2), Nov. 24, 1993, 107 Stat. 1519, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 1994.”
+Pub. L. 103–152, §7(a)(2), Nov. 24, 1993, 107 Stat. 1519, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 1994."
 
-Pub. L. 103–152, §7(b)(2), Nov. 24, 1993, 107 Stat. 1519, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1996.”
+Pub. L. 103–152, §7(b)(2), Nov. 24, 1993, 107 Stat. 1519, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1996."
 
 #### Effective Date of 1984 Amendment
 
@@ -86,7 +86,7 @@ Amendment by section 2663(g)(10) of Pub. L. 98–369 effective July 18, 1984, bu
 
 #### Effective Date
 
-Pub. L. 96–265, title V, §504(c), June 9, 1980, 94 Stat. 473, provided that: “The amendments made by this section \[enacting this section and amending section 1382c of this title\] shall be effective with respect to individuals applying for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] for the first time after September 30, 1980.”
+Pub. L. 96–265, title V, §504(c), June 9, 1980, 94 Stat. 473, provided that: "The amendments made by this section \[enacting this section and amending section 1382c of this title\] shall be effective with respect to individuals applying for supplemental security income benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] for the first time after September 30, 1980."
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

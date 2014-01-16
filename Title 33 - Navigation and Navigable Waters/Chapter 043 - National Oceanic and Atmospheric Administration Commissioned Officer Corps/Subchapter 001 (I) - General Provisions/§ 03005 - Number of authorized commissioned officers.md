@@ -22,11 +22,11 @@ Provisions similar to those in this section were contained in section 853a of th
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–386 amended section generally. Prior to amendment, section read as follows: “There are authorized to be on the lineal list of the commissioned corps of the National Oceanic and Atmospheric Administration—
+<b>2008</b>—Pub. L. 110–386 amended section generally. Prior to amendment, section read as follows: "There are authorized to be on the lineal list of the commissioned corps of the National Oceanic and Atmospheric Administration—
 
-&emsp;“(1) 270 officers for fiscal year 2003;
+&emsp;"(1) 270 officers for fiscal year 2003;
 
-&emsp;“(2) 285 officers for fiscal year 2004; and
+&emsp;"(2) 285 officers for fiscal year 2004; and
 
-&emsp;“(3) 299 officers for fiscal year 2005.”
+&emsp;"(3) 299 officers for fiscal year 2005."
 

@@ -36,9 +36,9 @@ Subsection (e) requires an attorney, accountant, or other professional that hold
 
 #### Amendments
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–394 substituted “to” for “to to” after “financial affairs,”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–394 substituted "to" for "to to" after "financial affairs,".
 
-<b>1984</b>—Subsec. (e). Pub. L. 98–353 inserted “to turn over or” before “disclose”.
+<b>1984</b>—Subsec. (e). Pub. L. 98–353 inserted "to turn over or" before "disclose".
 
 #### Effective Date of 1994 Amendment
 

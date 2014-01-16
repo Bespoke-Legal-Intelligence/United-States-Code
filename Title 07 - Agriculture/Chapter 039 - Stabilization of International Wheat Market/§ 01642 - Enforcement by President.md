@@ -10,7 +10,7 @@ All persons exporting or importing wheat or wheat-flour or selling wheat or whea
 
 #### (c) Penalty for violation
 
-Any person failing to make any report or keep any record as required by or pursuant to this section, or making any false report or record orknowingly violating any rule or regulation of the President issued pursuant to this section shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $1,000 for each violation.
+Any person failing to make any report or keep any record as required by or pursuant to this section, or making any false report or record or knowingly violating any rule or regulation of the President issued pursuant to this section shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $1,000 for each violation.
 
 #### (d) Forfeiture for excessive exports or imports
 
@@ -30,15 +30,15 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### (h) Use of funds
 
-Funds appropriated under authority of this chapter may be used for the purchase or hire of passenger motor vehicles, for printing and binding, for rent and personal services in the District of Columbia and elsewhere without regard to the limitation contained in section 607(g) of the Federal Employees Pay Act of 1945, as amended \[5 U.S.C. 947(g)\],<sup>1</sup> and for the employment of experts or consultants or organization thereof, on a temporary basis, by contract or otherwise, without regard to chapter 51 and subchapter III of chapter 53 of title 5, at rates not in excess of $50 per diem.
+Funds appropriated under authority of this chapter may be used for the purchase or hire of passenger motor vehicles, for printing and binding, for rent and personal services in the District of Columbia and elsewhere without regard to the limitation contained in section 607(g) of the Federal Employees Pay Act of 1945, as amended \[5 U.S.C. 947(g)\],<sup>1</sup> and for the employment of experts or consultants or organizationthereof, on a temporary basis, by contract or otherwise, without regard to chapter 51 and subchapter III of chapter 53 of title 5, at rates not in excess of $50 per diem.
 
 #### (i) Exclusion from Administrative Procedure Act
 
 The functions exercised under authority of this chapter shall be excluded from the operation of the Administrative Procedure Act (60 Stat. 237) except as to the requirements of sections 3 and 10 thereof.
 
-#### (j) “Person” defined
+#### (j) "Person" defined
 
-The term “person” as used in this section shall include the singular and the plural and any individual, partnership, corporation, association, or any other organized group of persons.
+The term "person" as used in this section shall include the singular and the plural and any individual, partnership, corporation, association, or any other organized group of persons.
 
 (Oct. 27, 1949, ch. 772, §3, 63 Stat. 946; Oct. 28, 1949, ch. 782, title II, §202(27), title XI, §1106(a), 63 Stat. 956, 972.)
 
@@ -50,13 +50,13 @@ The Administrative Procedure Act, referred to in subsec. (i), is act June 11, 19
 
 #### Codification
 
-The words “and the District Court of the United States for the District of Columbia” in subsection (e) following “district courts of the United States” have been deleted as superfluous in view of section 132 (a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of said Title 28 which states that “The District of Columbia constitutes one judicial district”.
+The words "and the District Court of the United States for the District of Columbia" in subsection (e) following "district courts of the United States" have been deleted as superfluous in view of section 132 (a) of Title 28, Judiciary and Judicial Procedure, which states that "There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district", and section 88 of said Title 28 which states that "The District of Columbia constitutes one judicial district".
 
-In subsec. (h), “chapter 51 and subchapter III of chapter 53 of title 5” was substituted for “the Classification Act of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (h), "chapter 51 and subchapter III of chapter 53 of title 5" was substituted for "the Classification Act of 1949" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
-<b>1949</b>—Subsec. (h). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act \[of 1923\]”.
+<b>1949</b>—Subsec. (h). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act \[of 1923\]".
 
 #### Repeals
 

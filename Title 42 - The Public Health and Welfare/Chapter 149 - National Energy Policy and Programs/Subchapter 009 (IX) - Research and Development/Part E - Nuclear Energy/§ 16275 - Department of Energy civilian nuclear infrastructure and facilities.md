@@ -26,7 +26,7 @@ The Secretary shall develop a comprehensive plan for the facilities at the Idaho
 
 &emsp;(3) consider the establishment of a national transuranic analytic chemistry laboratory as a user facility at the Idaho National Laboratory;
 
-&emsp;(4) include a plan to develop, if feasible, the Advanced Test Reactor and Test Reactor Area into a user facility that is more readily accessible to academic and industrial researchers;
+&emsp;(4) include a plan to develop, if feasible, the Advanced Test Reactor and Test Reactor Areainto a user facility that is more readily accessible to academic and industrial researchers;
 
 &emsp;(5) consider the establishment of a fast neutron source as a user facility;
 

@@ -8,7 +8,7 @@ The Secretary may award grants or contracts to nonprofit organizations to improv
 
 #### (1) In general
 
-&emsp;A nonprofit organization receiving a grant or contract under subsection (a) shall use the funds received through such grant or contract to carry out a demonstration project, or to provide technical assistance to assist local transit providers, area agencies on aging, senior centers, and local senior support groups, to encourage and facilitate coordination of Federal, State, and local transportation services and resources for older individuals. The organization may use the funds to develop and carry out an innovative transportation demonstration project to create transportation services for older individuals.
+&emsp;A nonprofit organization receiving a grant or contract under subsection (a) shall use thefunds received through such grant or contract to carry out a demonstration project, or to provide technical assistance to assist local transit providers, area agencies on aging, senior centers, and local senior support groups, to encourage and facilitate coordination of Federal, State, and local transportation services and resources for older individuals. The organization may use the funds to develop and carry out an innovative transportation demonstration project to create transportation services for older individuals.
 
 #### (2) Specific activities
 
@@ -24,7 +24,7 @@ The Secretary may award grants or contracts to nonprofit organizations to improv
 
 #### (c) Economically sustainable transportation
 
-In this section, the term “economically sustainable transportation” means demand responsive transportation for older individuals—
+In this section, the term "economically sustainable transportation" means demand responsive transportation for older individuals—
 
 &emsp;(1) that may be provided through volunteers; and
 

@@ -2,15 +2,15 @@
 
 When used in this subchapter—
 
-(a) The term “person” means an individual, partnership, association, or corporation.
+(a) The term "person" means an individual, partnership, association, or corporation.
 
-(b) The term “United States” means the fifty States and the District of Columbia.
+(b) The term "United States" means the fifty States and the District of Columbia.
 
 (Feb. 15, 1927, ch. 155, §9, 44 Stat. 1103; Pub. L. 86–70, §19, June 25, 1959, 73 Stat. 145; Pub. L. 86–624, §15, July 12, 1960, 74 Stat. 415.)
 
 #### Amendments
 
-<b>1960</b>—Subsec. (b). Pub. L. 86–624 substituted “means the fifty States and the District of Columbia” for “means continental United States, including Alaska”.
+<b>1960</b>—Subsec. (b). Pub. L. 86–624 substituted "means the fifty States and the District of Columbia" for "means continental United States, including Alaska".
 
-<b>1959</b>—Subsec. (b). Pub. L. 86–70 inserted “, including Alaska” after “continental United States”.
+<b>1959</b>—Subsec. (b). Pub. L. 86–70 inserted ", including Alaska" after "continental United States".
 

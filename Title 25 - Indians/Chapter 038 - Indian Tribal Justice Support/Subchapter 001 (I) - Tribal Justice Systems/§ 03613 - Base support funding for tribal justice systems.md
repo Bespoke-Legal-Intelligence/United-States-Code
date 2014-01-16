@@ -66,5 +66,5 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(2). Pub. L. 111–211 added par. (2) and struck out former par. (2) which read as follows: “the employment of judicial personnel;”.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–211 added par. (2) and struck out former par. (2) which read as follows: "the employment of judicial personnel;".
 

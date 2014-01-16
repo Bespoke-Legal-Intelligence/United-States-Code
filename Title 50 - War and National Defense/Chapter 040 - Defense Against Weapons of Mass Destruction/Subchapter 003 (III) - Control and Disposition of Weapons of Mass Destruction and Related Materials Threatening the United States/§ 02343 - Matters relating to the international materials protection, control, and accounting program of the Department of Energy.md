@@ -32,7 +32,7 @@ Section was enacted as part of the Bob Stump National Defense Authorization Act 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383 substituted “January 1, 2018” for “January 1, 2013”.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383 substituted "January 1, 2018" for "January 1, 2013".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

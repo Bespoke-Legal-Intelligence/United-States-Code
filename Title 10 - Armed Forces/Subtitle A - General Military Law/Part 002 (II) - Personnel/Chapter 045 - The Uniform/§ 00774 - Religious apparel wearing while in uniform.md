@@ -18,7 +18,7 @@ Regulations.—The Secretary concerned shall prescribe regulations concerning th
 
 (d)
 
-Religious Apparel Defined.—In this section, the term “religious apparel” means apparel the wearing of which is part of the observance of the religious faith practiced by the member.
+Religious Apparel Defined.—In this section, the term "religious apparel" means apparel the wearing of which is part of the observance of the religious faith practiced by the member.
 
 (Added Pub. L. 100–180, div. A, title V, §508(a)(2), Dec. 4, 1987, 101 Stat. 1086.)
 

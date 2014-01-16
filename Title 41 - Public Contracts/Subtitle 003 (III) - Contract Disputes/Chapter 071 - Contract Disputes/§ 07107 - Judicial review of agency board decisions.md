@@ -48,7 +48,7 @@ Consolidation.—If 2 or more actions arising from one contract are filed in the
 
 (e)
 
-Judgments as to Fewer Than All Claims or Parties.—In an action filed pursuant to this chapter involving 2 or more claims, counterclaims, cross-claims, or third-party claims, and where a portion of one of the claims can be divided for purposes of decision or judgment, and in any action where multiple parties are involved, the court, whenever appropriate, may enter a judgment as to one or more but fewer than all of the claims or portions of claims or parties.
+Judgments as to Fewer Than All Claims or Parties.—In an action filed pursuant to thischapter involving 2 or more claims, counterclaims, cross-claims, or third-party claims, and where a portion of one of the claims can be divided for purposes of decision or judgment, and in any action where multiple parties are involved, the court, whenever appropriate, may enter a judgment as to one or more but fewer than all of the claims or portions of claims or parties.
 
 (f)
 
@@ -116,13 +116,13 @@ Pub. L. 95–563, §10(d), Nov. 1, 1978, 92 Stat. 2388; Pub. L. 97–164, title 
 
 Pub. L. 95–563, §10(f), as added Pub. L. 103–355, title II, §2354, Oct. 13, 1994, 108 Stat. 3323.
 
-In subsection (a)(1)(B), the words “may transmit” are substituted for “transmits” to correct the grammatical structure of the provision in accordance with the probable intent of Congress. The words “the decision” are substituted for “the decision of the board of contract appeals” and for “the board's decision” to eliminate unnecessary words and for consistency with 41:607(g)(1)(A).
+In subsection (a)(1)(B), the words "may transmit" are substituted for "transmits" to correct the grammatical structure of the provision in accordance with the probable intent of Congress. The words "the decision" are substituted for "the decision of the board of contract appeals" and for "the board's decision" to eliminate unnecessary words and for consistency with 41:607(g)(1)(A).
 
-In subsection (a)(2)(B), the words “in any case” are omitted as unnecessary.
+In subsection (a)(2)(B), the words "in any case" are omitted as unnecessary.
 
-In subsection (d), the words “United States Court of Federal Claims” are substituted for “United States Claims Court” because of section 902(b)(1) of the Federal Courts Administration Act of 1992 (Pub. L. 102–572, 106 Stat. 4516, 28 U.S.C. 171 note).
+In subsection (d), the words "United States Court of Federal Claims" are substituted for "United States Claims Court" because of section 902(b)(1) of the Federal Courts Administration Act of 1992 (Pub. L. 102–572, 106 Stat. 4516, 28 U.S.C. 171 note).
 
-In subsection (f)(1), (3), and (4), the words “agency board” are substituted for “board of contract appeals” to eliminate unnecessary words and for consistencywith the definition of “agency board” in section 7101 of the revised title.
+In subsection (f)(1), (3), and (4), the words "agency board" are substituted for "board of contract appeals" to eliminate unnecessary words and for consistency with the definition of "agency board" in section 7101 of the revised title.
 
-In subsection (f)(1), the words “under consideration” are substituted for “at issue” to avoid potential confusion with the words “issue described in paragraph (2)”.
+In subsection (f)(1), the words "under consideration" are substituted for "at issue" to avoid potential confusion with the words "issue described in paragraph (2)".
 

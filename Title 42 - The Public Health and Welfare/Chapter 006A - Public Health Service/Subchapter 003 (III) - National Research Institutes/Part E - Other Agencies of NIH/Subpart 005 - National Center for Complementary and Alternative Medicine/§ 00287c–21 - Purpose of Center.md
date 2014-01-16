@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The general purposes of the National Center for Complementary and Alternative Medicine (in this subpart referred to as the “Center”) are the conduct and support of basic and applied research (including both intramural and extramural research), research training, the dissemination of health information, and other programs with respect to identifying, investigating, and validating complementary and alternative treatment, diagnostic and prevention modalities, disciplines and systems. The Center shall be headed by a director, who shall be appointed by the Secretary. The Director of the Center shall report directly to the Director of NIH.
+The general purposes of the National Center for Complementary and Alternative Medicine (in this subpart referred to as the "Center") are the conduct and support of basic and applied research (including both intramural and extramural research), research training, the dissemination of health information, and other programs with respect to identifying, investigating, and validating complementary and alternative treatment, diagnostic and prevention modalities, disciplines and systems. The Center shall be headed by a director, who shall be appointed by the Secretary. The Director of the Center shall report directly to the Director of NIH.
 
 #### (b) Advisory council
 
@@ -36,7 +36,7 @@ In order to ensure high quality, rigorous scientific review of complementary and
 
 &emsp;(6) Other appropriate research and investigational activities.
 
-> The Director of NIH, in coordination with the Director of the Center, shall designate specificpersonnel in each Institute to serve as full-time liaisons with the Center in facilitating appropriate coordination and scientific input.
+> The Director of NIH, in coordination with the Director of the Center, shall designate specific personnel in each Institute to serve as full-time liaisons with the Center in facilitating appropriate coordination and scientific input.
 
 #### (g) Data system; information clearinghouse
 

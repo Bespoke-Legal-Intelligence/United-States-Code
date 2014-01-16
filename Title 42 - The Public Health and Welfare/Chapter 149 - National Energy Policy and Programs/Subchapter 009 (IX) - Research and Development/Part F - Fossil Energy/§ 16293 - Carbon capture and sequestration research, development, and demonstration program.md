@@ -20,7 +20,7 @@ The objectives of the program under subsection (a) shall be—
 
 &emsp;(4) in accordance with the carbon dioxide capture program, to promote a robust carbon sequestration program and continue the work of the Department, in conjunction with the private sector, through regional carbon sequestration partnerships; and
 
-&emsp;(5) to expedite and carry out large-scale testing of carbon sequestration systems in a rangeof geologic formations that will provide information on the cost and feasibility of deployment of sequestration technologies.
+&emsp;(5) to expedite and carry out large-scale testing of carbon sequestration systems in a range of geologic formations that will provide information on the cost and feasibility of deployment of sequestration technologies.
 
 #### (c) Programmatic activities
 
@@ -80,7 +80,7 @@ The objectives of the program under subsection (a) shall be—
 
 &emsp;&emsp;&emsp;(vi) to assess and ensure the safety of operations related to geologic sequestration of carbon dioxide;
 
-&emsp;&emsp;&emsp;(vii) to allow the Secretary to promulgate policies, procedures, requirements, and guidance to ensure that the objectives of this subparagraph are met in large-scale testing and deployment activities for carbon capture and sequestration that are funded by the Department of Energy; and
+&emsp;&emsp;&emsp;(vii) to allow the Secretary to promulgate policies, procedures, requirements, and guidance to ensure that the objectivesof this subparagraph are met in large-scale testing and deployment activities for carbon capture and sequestration that are funded by the Department of Energy; and
 
 &emsp;&emsp;&emsp;(viii) to provide information to States, the Environmental Protection Agency, and other appropriate entities to support development of a regulatory framework for commercial-scale sequestration operations that ensure the protection of human health and the environment.
 
@@ -100,7 +100,7 @@ The objectives of the program under subsection (a) shall be—
 
 #### (D) Definition
 
-&emsp;&emsp;For purposes of this paragraph, the term “large-scale” means the injection of morethan 1,000,000 tons of carbon dioxide from industrial sources annually or a scale that demonstrates the ability to inject and sequester several million metric tons of industrial source carbon dioxide for a large number of years.
+&emsp;&emsp;For purposes of this paragraph, the term "large-scale" means the injection of more than 1,000,000 tons of carbon dioxide from industrial sources annually or a scale that demonstrates the ability to inject and sequester several million metric tons of industrial source carbon dioxide for a large number of years.
 
 #### (4) Preference in project selection from meritorious proposals
 
@@ -140,19 +140,19 @@ There are authorized to be appropriated to carry out this section—
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–140, §702(a)(1), substituted “and sequestration research, development, and demonstration” for “research and development” in section catchline.
+<b>2007</b>—Pub. L. 110–140, §702(a)(1), substituted "and sequestration research, development, and demonstration" for "research and development" in section catchline.
 
-Subsec. (a). Pub. L. 110–140, §702(a)(2), in introductory provisions, substituted “and sequestration research, development, and demonstration” for “research and development” and “capture and sequestration technologies related to industrial sources of carbon dioxide” for “capture technologies on combustion-based systems”.
+Subsec. (a). Pub. L. 110–140, §702(a)(2), in introductory provisions, substituted "and sequestration research, development, and demonstration" for "research and development" and "capture and sequestration technologies related to industrial sources of carbon dioxide" for "capture technologies on combustion-based systems".
 
 Subsec. (b)(5). Pub. L. 110–140, §702(a)(3), added par. (5).
 
-Subsecs. (c), (d). Pub. L. 110–140, §702(a)(4), added subsecs. (c) and (d) and struck out former subsec. (c). Text of former subsec. (c) read as follows: “From amounts authorized under section 16291(b) of this title, the following sums are authorized for activities described in subsection (a)(2):
+Subsecs. (c), (d). Pub. L. 110–140, §702(a)(4), added subsecs. (c) and (d) and struck out former subsec. (c). Text of former subsec. (c) read as follows: "From amounts authorized under section 16291(b) of this title, the following sums are authorized for activities described in subsection (a)(2):
 
-&emsp;“(1) $25,000,000 for fiscal year 2006;
+&emsp;"(1) $25,000,000 for fiscal year 2006;
 
-&emsp;“(2) $30,000,000 for fiscal year 2007; and
+&emsp;"(2) $30,000,000 for fiscal year 2007; and
 
-&emsp;“(3) $35,000,000 for fiscal year 2008.”
+&emsp;"(3) $35,000,000 for fiscal year 2008."
 
 #### Effective Date of 2007 Amendment
 

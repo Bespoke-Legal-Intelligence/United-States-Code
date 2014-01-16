@@ -6,23 +6,23 @@ In this section:
 
 #### (1) Down syndrome
 
-&emsp;The term “Down syndrome” refers to a chromosomal disorder caused by an error in cell division that results in the presence of an extra whole or partial copy of chromosome 21.
+&emsp;The term "Down syndrome" refers to a chromosomal disorder caused by an error in cell division that results in the presence of an extra whole or partial copy of chromosome 21.
 
 #### (2) Health care provider
 
-&emsp;The term “health care provider” means any person or entity required by State or Federal law or regulation to be licensed, registered, or certified to provide health care services, and who is so licensed, registered, or certified.
+&emsp;The term "health care provider" means any person or entity required by State or Federal law or regulation to be licensed, registered, or certified to provide health care services, and who is so licensed, registered, or certified.
 
 #### (3) Postnatally diagnosed condition
 
-&emsp;The term “postnatally diagnosed condition” means any health condition identified during the 12-month period beginning at birth.
+&emsp;The term "postnatally diagnosed condition" means any health condition identified during the 12-month period beginning at birth.
 
 #### (4) Prenatally diagnosed condition
 
-&emsp;The term “prenatally diagnosed condition” means any fetal health condition identified by prenatal genetic testing or prenatal screening procedures.
+&emsp;The term "prenatally diagnosed condition" means any fetal health condition identified by prenatal genetic testing or prenatal screening procedures.
 
 #### (5) Prenatal test
 
-&emsp;The term “prenatal test” means diagnostic or screening tests offered to pregnant women seeking routine prenatal care that are administered on a required or recommended basis by a health care provider based on medical history, family background, ethnic background, previous test results, or other risk factors.
+&emsp;The term "prenatal test" means diagnostic or screening tests offered to pregnant women seeking routine prenatal care that are administered on a required or recommended basis by a health care provider based on medical history, family background, ethnic background, previous test results, or other risk factors.
 
 #### (b) Information and support services
 
@@ -38,7 +38,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) the expansion and further development of the National Dissemination Center for Children with Disabilities, so that such Center can more effectively conduct outreach to new and expecting parents and provide them with up-to-date information on the range of outcomes for individuals living with the diagnosed condition, including physical, developmental, educational, and psychosocial outcomes;
 
-&emsp;&emsp;&emsp;(iii) the expansion and further development of national and local peer-support programs, so that such programs can more effectively serve women who receive a positive diagnosis for Down syndrome or other prenatal conditions or parents of infants with a postnatally diagnosed condition;
+&emsp;&emsp;&emsp;(iii) the expansion and further development of national and local peer-support programs, so that such programs can moreeffectively serve women who receive a positive diagnosis for Down syndrome or other prenatal conditions or parents of infants with a postnatally diagnosed condition;
 
 &emsp;&emsp;&emsp;(iv) the establishment of a national registry, or network of local registries, of families willing to adopt newborns with Down syndrome or other prenatally or postnatally diagnosed conditions, and links to adoption agencies willing to place babies with Down syndrome or other prenatally or postnatally diagnosed conditions, with families willing to adopt; and
 
@@ -46,7 +46,7 @@ In this section:
 
 #### (2) Eligible entity
 
-&emsp;In this subsection, the term “eligible entity” means—
+&emsp;In this subsection, the term "eligible entity" means—
 
 &emsp;&emsp;(A) a State or a political subdivision of a State;
 
@@ -92,13 +92,13 @@ Section 2(b)(1) of the Prenatally and Postnatally Diagnosed Conditions Awareness
 
 #### Purposes
 
-Pub. L. 110–374, §2, Oct. 8, 2008, 122 Stat. 4051, provided that: “It is the purpose of this Act \[enacting this section and provisions set out as a note under section 201 of this title\] to—
+Pub. L. 110–374, §2, Oct. 8, 2008, 122 Stat. 4051, provided that: "It is the purpose of this Act \[enacting this section and provisions set out as a note under section 201 of this title\] to—
 
-&emsp;“(1) increase patient referrals to providers of key support services for women who have received a positive diagnosis for Down syndrome, or other prenatally or postnatally diagnosed conditions, as well as to provide up-to-date information on the range of outcomes for individuals living with the diagnosed condition, including physical, developmental, educational, and psychosocial outcomes;
+&emsp;"(1) increase patient referrals to providers of key support services for women who have received a positive diagnosis for Down syndrome, or other prenatally or postnatally diagnosed conditions, as well as to provide up-to-date information on the range of outcomes for individuals living with the diagnosed condition, including physical, developmental, educational, and psychosocial outcomes;
 
-&emsp;“(2) strengthen existing networks of support through the Centers for Disease Control and Prevention, the Health Resources and Services Administration, and other patient and provider outreach programs; and
+&emsp;"(2) strengthen existing networks of support through the Centers for Disease Control and Prevention, the Health Resources and Services Administration, and other patient and provider outreach programs; and
 
-&emsp;“(3) ensure that patients receive up-to-date, evidence-based information about the accuracy of the test.”
+&emsp;"(3) ensure that patients receive up-to-date, evidence-based information about the accuracy of the test."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

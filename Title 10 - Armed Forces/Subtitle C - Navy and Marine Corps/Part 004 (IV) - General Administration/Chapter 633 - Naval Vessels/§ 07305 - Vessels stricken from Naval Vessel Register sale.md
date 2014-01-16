@@ -32,27 +32,27 @@ A prior section 7305, acts Aug. 10, 1956, ch. 1041, 70A Stat. 451; Dec. 12, 1980
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, if it is to be disposed of under those provisions” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), if it is to be disposed of under subtitle I of title 40 and such title III”.
+<b>2011</b>—Subsec. (d). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, if it is to be disposed of under those provisions" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), if it is to be disposed of under subtitle I of title 40 and such title III".
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–136 inserted “such” before “title III.”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 inserted "such" before "title III.".
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)” and “subtitle I of title 40 and title III” for “that Act”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–217 inserted "subtitle I of title 40 and title III of" before "the Federal Property and Administrative Services Act of 1949" and substituted "(41 U.S.C. 251 et seq.)" for "(40 U.S.C. 471 et seq.)" and "subtitle I of title 40 and title III" for "that Act".
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–85 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
-“(c)
+"(c)
 
 Procedures for Sale.—(1) A vessel stricken from the Naval Vessel Register and not subject to disposal under any other law may be sold under this section. In such a case, the Secretary may sell the vessel to the highest acceptable bidder, regardless of the appraised value of the vessel, after the vessel is publicly advertised for sale for a period of not less than 30 days.
 
-“(2) If the Secretary determines that the bid prices for a vessel received after advertising under paragraph (1) are not acceptable and that readvertising will serve no useful purpose, the Secretary may sell the vessel by negotiation to the highest acceptable bidder if—
+"(2) If the Secretary determines that the bid prices for a vessel received after advertising under paragraph (1) are not acceptable and that readvertising will serve no useful purpose, the Secretary may sell the vessel by negotiation to the highest acceptable bidder if—
 
-&emsp;“(A) each responsible bidder has been notified of intent to negotiate and has been given a reasonable opportunity to negotiate; and
+&emsp;"(A) each responsible bidder has been notified of intent to negotiate and has been given a reasonable opportunity to negotiate; and
 
-&emsp;“(B) the negotiated price is—
+&emsp;"(B) the negotiated price is—
 
-&emsp;&emsp;“(i) higher than the highest rejected price of any responsible bidder; or
+&emsp;&emsp;"(i) higher than the highest rejected price of any responsible bidder; or
 
-&emsp;&emsp;“(ii) reasonable and in the national interest.”
+&emsp;&emsp;"(ii) reasonable and in the national interest."
 
 #### Executive Order No. 11765
 

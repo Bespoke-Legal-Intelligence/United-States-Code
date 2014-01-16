@@ -12,5 +12,5 @@ Act Mar. 3, 1911, conferred the powers and duties of the former circuit courts u
 
 #### Amendments
 
-<b>1877</b>—Act Feb. 27, 1877, inserted “may” after “any district in which the same”.
+<b>1877</b>—Act Feb. 27, 1877, inserted "may" after "any district in which the same".
 

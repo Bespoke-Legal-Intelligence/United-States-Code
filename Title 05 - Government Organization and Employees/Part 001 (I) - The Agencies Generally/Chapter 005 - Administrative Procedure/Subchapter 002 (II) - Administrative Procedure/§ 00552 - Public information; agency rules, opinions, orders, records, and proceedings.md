@@ -42,7 +42,7 @@
 
 (D) For purposes of this paragraph, the term “search” means to review, manually or by automated means, agency records for the purpose of locating those records which are responsive to a request.
 
-(E) An agency, or part of an agency, that is an element of the intelligence community (as that term is defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))) shall not make any record available under this paragraph to—
+(E) An agency, or part of an agency, that is an element of the intelligence community (as that term is defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))) <sup>1</sup> shall not make any record available under this paragraph to—
 
 &emsp;(i) any government entity, other than a State, territory, commonwealth, or district of the United States, or any subdivision thereof; or
 
@@ -70,7 +70,7 @@
 
 (v) No agency may require advance payment of any fee unless the requester has previously failed to pay fees in a timely fashion, or the agency has determined that the fee will exceed $250.
 
-(vi) Nothing in this subparagraph shall supersede fees chargeable under a statute specificallyproviding for setting the level of fees for particular types of records.
+(vi) Nothing in this subparagraph shall supersede fees chargeable under a statute specifically providing for setting the level of fees for particular types of records.
 
 (vii) In any action by a requester regarding the waiver of fees under this section, the court shall determine the matter de novo: <i>Provided</i>, That the court's review of the matter shall be limited to the record before the agency.
 
@@ -114,7 +114,7 @@
 
 &emsp;(I) that the agency may make one request to the requester for information and toll the 20-day period while it is awaiting such information that it has reasonably requested from the requester under this section; or
 
-&emsp;(II) if necessary to clarify with the requester issues regarding fee assessment. In either case, the agency's receipt of the requester's response to the agency's request for information or clarification ends the tolling period.
+&emsp;(II) if necessary to clarify with the requester issues regarding fee assessment. In either case,the agency's receipt of the requester's response to the agency's request for information or clarification ends the tolling period.
 
 (B)(i) In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the unusual circumstances for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days, except as provided in clause (ii) of this subparagraph.
 
@@ -154,9 +154,9 @@
 
 &emsp;(II) expeditious consideration of administrative appeals of such determinations of whether to provide expedited processing.
 
-(iii) An agency shall process as soon as practicable any request for records to which the agency has granted expedited processing under this subparagraph. Agency action to deny or affirm denial of a request for expedited processing pursuant to this subparagraph, and failure by an agency to respond in a timely manner to such a request shall be subject to judicial review under paragraph (4), except that the judicial review shall be based on the record before the agency at the time of the determination.
+(iii) An agency shall process as soon as practicable any request for records to which the agency has granted expedited processing under this subparagraph. Agency action to deny or affirm denial of a request for expedited processing pursuant to this subparagraph, and failure by an agency to respond in a timely manner to such a request shall be subject to judicial review under paragraph (4), except that the judicial reviewshall be based on the record before the agency at the time of the determination.
 
-(iv) A district court of the United States shall not have jurisdiction to review an agency denialof expedited processing of a request for records after the agency has provided a complete response to the request.
+(iv) A district court of the United States shall not have jurisdiction to review an agency denial of expedited processing of a request for records after the agency has provided a complete response to the request.
 
 (v) For purposes of this subparagraph, the term “compelling need” means—
 
@@ -266,7 +266,7 @@
 
 (3) Each agency shall make each such report available to the public including by computer telecommunications, or if computer telecommunications means have not been established by the agency, by other electronic means. In addition, each agency shall make the raw statistical data used in its reports available electronically to the public upon request.
 
-(4) The Attorney General of the United States shall make each report which has been madeavailable by electronic means available at a single electronic access point. The Attorney General of the United States shall notify the Chairman and ranking minority member of the Committee on Government Reform and Oversight of the House of Representatives and the Chairman and ranking minority member of the Committees on Governmental Affairs and the Judiciary of the Senate, no later than April 1 of the year in which each such report is issued, that such reports are available by electronic means.
+(4) The Attorney General of the United States shall make each report which has been made available by electronic means available at a single electronic access point. The Attorney General of the United States shall notify the Chairman and ranking minority member of the Committee on Government Reform and Oversight of the House of Representatives and the Chairman and ranking minority member of the Committees on Governmental Affairs and the Judiciary of the Senate, no later than April 1 of the year in which each such report is issued, that such reports are available by electronic means.
 
 (5) The Attorney General of the United States, in consultation with the Director of the Office of Management and Budget, shall develop reporting and performance guidelines in connection with reports required by this subsection by October 1, 1997, and may establish additional requirements for such reports as the Attorney General determines may be useful.
 
@@ -320,9 +320,9 @@
 
 &emsp;(6) designate one or more FOIA Public Liaisons.
 
-(l) FOIA Public Liaisons shall report to the agency Chief FOIA Officer and shall serve as supervisory officials to whom a requester under this section can raise concerns about the service the requester has received from the FOIA Requester Center, following an initial response from the FOIA Requester Center Staff. FOIA Public Liaisons shall be responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes.
+(l) FOIA Public Liaisons shall report to the agency Chief FOIA Officer and shall serve as supervisory officials to whom a requester under this section can raise concerns about the service the requester has received from the FOIA Requester Center, following an initial response from the FOIA Requester Center Staff. FOIAPublic Liaisons shall be responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 90–23, §1, June 5, 1967, 81 Stat. 54; Pub. L. 93–502, §§1–3, Nov. 21, 1974, 88 Stat. 1561–1564; Pub. L.94–409, §5(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–454, title IX, §906(a)(10), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 98–620, title IV, §402(2), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–570, title I, §§1802, 1803, Oct. 27, 1986, 100 Stat. 3207–48, 3207–49; Pub. L. 104–231, §§3–11, Oct. 2, 1996, 110 Stat. 3049–3054; Pub. L. 107–306, title III, §312, Nov. 27, 2002, 116 Stat. 2390; Pub. L. 110–175, §§3, 4(a), 5, 6(a)(1), (b)(1), 7(a), 8–10(a), 12, Dec. 31, 2007, 121 Stat. 2525–2530; Pub. L. 111–83, title V, §564(b), Oct. 28, 2009, 123 Stat. 2184.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 90–23, §1, June 5, 1967, 81 Stat. 54; Pub. L. 93–502, §§1–3, Nov. 21, 1974, 88 Stat. 1561–1564; Pub. L. 94–409, §5(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–454, title IX, §906(a)(10), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 98–620, title IV, §402(2), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–570, title I, §§1802, 1803, Oct. 27, 1986, 100 Stat. 3207–48, 3207–49; Pub. L. 104–231, §§3–11, Oct. 2, 1996, 110 Stat. 3049–3054; Pub. L. 107–306, title III, §312, Nov. 27, 2002, 116 Stat. 2390; Pub. L. 110–175, §§3, 4(a), 5, 6(a)(1), (b)(1), 7(a), 8–10(a), 12, Dec. 31, 2007, 121 Stat. 2525–2530; Pub. L. 111–83, title V, §564(b), Oct. 28, 2009, 123 Stat. 2184.)
 
 Historical and Revision Notes<br>1966
 
@@ -365,6 +365,8 @@ In subsection (c), the words “This section does not authorize” and “This s
 5 App. U.S.C. 1002(h), prescribing the effective date, is omitted as unnecessary. That effective date is prescribed by section 4 of this bill.
 
 #### References in Text
+
+The National Security Act of 1947, referred to in subsec. (a)(3)(E), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 3 of the Act is now classified to section 3003 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The date of enactment of the OPEN FOIA Act of 2009, referred to in subsec. (b)(3)(B), is the date of enactment of Pub. L. 111–83, which was approved Oct. 28, 2009.
 
@@ -530,13 +532,13 @@ Pub. L. 99–570, title I, §1804, Oct. 27, 1986, 100 Stat. 3207–50, provided 
 
 “(a) The amendments made by section 1802 \[amending this section\] shall be effective on the date of enactment of this Act \[Oct. 27, 1986\], and shall apply with respect to any requests for records, whether or not the request was made prior to such date, and shall apply to any civil action pending on such date.
 
-“(b)(1) The amendments made by section 1803 \[amending this section\] shall be effective 180 days after the date of enactment of this Act \[Oct. 27, 1986\], except that regulations to implement such amendments shall be promulgated by such 180th day.
+“(b)(1) The amendments made by section 1803 \[amending this section\] shall be effective 180 days after thedate of enactment of this Act \[Oct. 27, 1986\], except that regulations to implement such amendments shall be promulgated by such 180th day.
 
 “(2) The amendments made by section 1803 \[amending this section\] shall apply with respect to any requests for records, whether or not the request was made prior to such date, and shall apply to any civil action pending on such date, except that review charges applicable to records requested for commercial use shall not be applied by an agency to requests made before the effective date specified in paragraph (1) of this subsection or before the agency has finally issued its regulations.”
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1978 Amendment
 
@@ -652,7 +654,7 @@ Pub. L. 110–175, §2, Dec. 31, 2007, 121 Stat. 2524, provided that: “Congres
 
 #### Limitation on Amounts Obligated or Expended From Claims and Judgment Fund
 
-Pub. L. 110–175, §4(b), Dec. 31, 2007, 121 Stat. 2525, provided that: “Notwithstanding section 1304 of title 31, United States Code, no amounts may be obligated or expended from the Claims and Judgment Fund of theUnited States Treasury to pay the costs resulting from fees assessed under section 552(a)(4)(E) of title 5, United States Code. Any such amounts shall be paid only from funds annually appropriated for any authorized purpose for the Federal agency against which a claim or judgment has been rendered.”
+Pub. L. 110–175, §4(b), Dec. 31, 2007, 121 Stat. 2525, provided that: “Notwithstanding section 1304 of title 31, United States Code, no amounts may be obligated or expended from the Claims and Judgment Fund of the United States Treasury to pay the costs resulting from fees assessed under section 552(a)(4)(E) of title 5, United States Code. Any such amounts shall be paid only from funds annually appropriated for any authorized purpose for the Federal agency against which a claim or judgment has been rendered.”
 
 #### Nondisclosure of Certain Products of Commercial Satellite Operations
 
@@ -762,7 +764,7 @@ Funding.—There is authorized to be appropriated such sums as may be necessary 
 
 “(a)
 
-Release of Records.—Subject to subsections (b), (c), and (d), the Japanese Imperial GovernmentRecords Interagency Working Group shall release in their entirety Japanese Imperial Government records.
+Release of Records.—Subject to subsections (b), (c), and (d), the Japanese Imperial Government Records Interagency Working Group shall release in their entirety Japanese Imperial Government records.
 
 “(b)
 
@@ -946,7 +948,7 @@ Limitation on application.—This subsection shall not apply to records—
 
 Inapplicability of National Security Act of 1947
 
-Exemption.—Section 701(a) of the National Security Act of 1947 (50 U.S.C. 431\[(a)\]) shall not apply to any operational file, or any portion of any operational file, that constitutes a Nazi war criminal record under section 3 of this Act.
+Exemption.—Section 701(a) of the National Security Act of 1947 (50 U.S.C. 431\[(a)\]) \[now 50 U.S.C. 3141(a)\] shall not apply to any operational file, or any portion of any operational file, that constitutes a Nazi war criminal record under section 3 of this Act.
 
 #### “SEC. 4. EXPEDITED PROCESSING OF FOIA REQUESTS FOR NAZI WAR CRIMINAL RECORDS.
 
@@ -970,7 +972,7 @@ Section 2 of Pub. L. 104–231 provided that:
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) the purpose of section 552 of title 5, United States Code, popularly known as the Freedom of Information Act, is to require agencies of the Federal Government to make certain agency information available for public inspection and copying and to establish and enable enforcement of the right of any person to obtain access to the records of such agencies, subject to statutory exemptions, for any public or private purpose;
+&emsp;“(1) the purpose of section 552 of title 5, United States Code, popularly known as the Freedom of Information Act, is to require agencies of the Federal Government to make certain agency information available for public inspection and copying and to establish and enable enforcement of the right of anyperson to obtain access to the records of such agencies, subject to statutory exemptions, for any public or private purpose;
 
 &emsp;“(2) since the enactment of the Freedom of Information Act in 1966, and the amendments enacted in 1974 and 1986, the Freedom of Information Act has been a valuable means through which any person can learn how the Federal Government operates;
 
@@ -1022,7 +1024,7 @@ Definitions.—For the purposes of this section—
 
 #### Classified National Security Information
 
-For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 13526, §3.6, Dec. 29, 2009, 75 F.R. 718, set out as a note under section 435 of Title 50, War and National Defense.
+For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 13526, §3.6, Dec. 29, 2009, 75 F.R. 718, set out as a note under section 3161 of Title 50, War and National Defense.
 
 #### Executive Order No. 12174
 
@@ -1130,13 +1132,13 @@ Section 1. <i>Policy.</i>
 
 (b) FOIA requesters are seeking a service from the Federal Government and should be treated as such. Accordingly, in responding to a FOIA request, agencies shall respond courteously and appropriately. Moreover, agencies shall provide FOIA requesters, and the public in general, with citizen-centered ways to learn about the FOIA process, about agency records that are publicly available (e.g., on the agency's website), and about the status of a person's FOIA request and appropriate information about the agency's response.
 
-(c) Agency FOIA operations shall be both results-oriented and produce results. Accordingly, agencies shall process requests under the FOIA in an efficient and appropriate manner and achieve tangible, measurable improvements in FOIA processing. When an agency's FOIA program does not produce such results, it should be reformed, consistent with available resources appropriated by the Congress and applicable law, to increase efficiency and better reflect the policy goals and objectives of this order.
+(c) Agency FOIA operations shall be both results-oriented and produce results. Accordingly, agencies shallprocess requests under the FOIA in an efficient and appropriate manner and achieve tangible, measurable improvements in FOIA processing. When an agency's FOIA program does not produce such results, it should be reformed, consistent with available resources appropriated by the Congress and applicable law, to increase efficiency and better reflect the policy goals and objectives of this order.
 
 (d) A citizen-centered and results-oriented approach will improve service and performance, thereby strengthening compliance with the FOIA, and will help avoid disputes and related litigation.
 
 Sec. 2. <i>Agency Chief FOIA Officers.</i>
 
-(a) <i>Designation</i>. The head of each agency shall designate within 30 days of the date of this order a senior official of such agency (at the Assistant Secretary or equivalent level), to serve as the Chief FOIA Officer ofthat agency. The head of the agency shall promptly notify the Director of the Office of Management and Budget (OMB Director) and the Attorney General of such designation and of any changes thereafter in such designation.
+(a) <i>Designation</i>. The head of each agency shall designate within 30 days of the date of this order a senior official of such agency (at the Assistant Secretary or equivalent level), to serve as the Chief FOIA Officer of that agency. The head of the agency shall promptly notify the Director of the Office of Management and Budget (OMB Director) and the Attorney General of such designation and of any changes thereafter in such designation.
 
 (b) <i>General Duties</i>. The Chief FOIA Officer of each agency shall, subject to the authority of the head of the agency:
 
@@ -1188,7 +1190,7 @@ Sec. 3. <i>Review, Plan, and Report.</i>
 
 (i) Each agency's Chief FOIA Officer shall develop, in consultation as appropriate with the staff of the agency (including the FOIA Public Liaisons), the Attorney General, and the OMB Director, an agency-specific plan to ensure that the agency's administration of the FOIA is in accordance with applicable law and the policies set forth in section 1 of this order. The plan, which shall be submitted to the head of the agency for approval, shall address the agency's implementation of the FOIA during fiscal years 2006 and 2007.
 
-(ii) The plan shall include specific activities that the agency will implement to eliminate or reduce the agency's FOIA backlog, including (as applicable) changes that will make the processing of FOIA requests more streamlined and effective, as well as increased reliance on the dissemination of records that can be made available to the public through a website or other means that do not require the public to make a request for the records under the FOIA.
+(ii) The plan shall include specific activities that the agency will implement to eliminate or reduce the agency's FOIA backlog, including (as applicable) changesthat will make the processing of FOIA requests more streamlined and effective, as well as increased reliance on the dissemination of records that can be made available to the public through a website or other means that do not require the public to make a request for the records under the FOIA.
 
 (iii) The plan shall also include activities to increase public awareness of FOIA processing, including as appropriate, expanded use of the agency's Center and its FOIA Public Liaisons.
 
@@ -1238,6 +1240,48 @@ Sec. 7. <i>General Provisions.</i>
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13642. Making Open and Machine Readable the New Default for Government Information
+
+Ex. Ord. No. 13642, May 9, 2013, 78 F.R. 28111, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>General Principles</i>. Openness in government strengthens our democracy, promotes the delivery of efficient and effective services to the public, and contributes to economic growth. As one vital benefit of open government, making information resources easy to find, accessible, and usable can fuel entrepreneurship, innovation, and scientific discovery that improves Americans’ lives and contributes significantly to job creation.
+
+Decades ago, the U.S. Government made both weather data and the Global Positioning System freely available. Since that time, American entrepreneurs and innovators have utilized these resources to create navigation systems, weather newscasts and warning systems, location-based applications, precision farming tools, and much more, improving Americans’ lives in countless ways and leading to economic growth and job creation. In recent years, thousands of Government data resources across fields such as health and medicine, education, energy, public safety, global development, and finance have been posted in machine-readable form for free public use on Data.gov. Entrepreneurs and innovators have continued to develop a vast range of useful new products and businesses using these public information resources, creating good jobs in the process.
+
+To promote continued job growth, Government efficiency, and the social good that can be gained from opening Government data to the public, the default state of new and modernized Government information resources shall be open and machine readable. Government information shall be managed as an asset throughout its life cycle to promote interoperability and openness, and, wherever possible and legally permissible, to ensure that data are released to the public in ways that make the data easy to find, accessible, and usable. In making this the new default state, executive departments and agencies (agencies) shall ensure that they safeguard individual privacy, confidentiality, and national security.
+
+Sec. 2. <i>Open Data Policy</i>. (a) The Director of the Office of Management and Budget (OMB), in consultation with the Chief Information Officer (CIO), Chief Technology Officer (CTO), and Administrator of the Office of Information and Regulatory Affairs (OIRA), shall issue an Open Data Policy to advance the management of Government information as an asset, consistent with my memorandum of January 21, 2009 (Transparency andOpen Government), OMB Memorandum M–10–06 (Open Government Directive), OMB and National Archives and Records Administration Memorandum M–12–18 (Managing Government Records Directive), the Office of Science and Technology Policy Memorandum of February 22, 2013 (Increasing Access to the Results of Federally Funded Scientific Research), and the CIO's strategy entitled “Digital Government: Building a 21st Century Platform to Better Serve the American People.” The Open Data Policy shall be updated as needed.
+
+(b) Agencies shall implement the requirements of the Open Data Policy and shall adhere to the deadlines for specific actions specified therein. When implementing the Open Data Policy, agencies shall incorporate a full analysis of privacy, confidentiality, and security risks into each stage of the information lifecycle to identify information that should not be released. These review processes should be overseen by the senior agency official for privacy. It is vital that agencies not release information if doing so would violate any law or policy, or jeopardize privacy, confidentiality, or national security.
+
+Sec. 3. <i>Implementation of the Open Data Policy</i>. To facilitate effective Government-wide implementation of the Open Data Policy, I direct the following:
+
+(a) Within 30 days of the issuance of the Open Data Policy, the CIO and CTO shall publish an open online repository of tools and best practices to assist agencies in integrating the Open Data Policy into their operations in furtherance of their missions. The CIO and CTO shall regularly update this online repository as needed to ensure it remains a resource to facilitate the adoption of open data practices.
+
+(b) Within 90 days of the issuance of the Open Data Policy, the Administrator for Federal Procurement Policy, Controller of the Office of Federal Financial Management, CIO, and Administrator of OIRA shall work with the Chief Acquisition Officers Council, Chief Financial Officers Council, Chief Information Officers Council, and Federal Records Council to identify and initiate implementation of measures to support the integration of the Open Data Policy requirements into Federal acquisition and grant-making processes. Such efforts may include developing sample requirements language, grant and contract language, and workforce tools for agency acquisition, grant, and information management and technology professionals.
+
+(c) Within 90 days of the date of this order, the Chief Performance Officer (CPO) shall work with the President's Management Council to establish a Cross-Agency Priority (CAP) Goal to track implementation of the Open Data Policy. The CPO shall work with agencies to set incremental performance goals, ensuring they have metrics and milestones in place to monitor advancement toward the CAP Goal. Progress on these goals shall be analyzed and reviewed by agency leadership, pursuant to the GPRA Modernization Act of 2010 (Public Law 111–352).
+
+(d) Within 180 days of the date of this order, agencies shall report progress on the implementation of the CAP Goal to the CPO. Thereafter, agencies shall report progress quarterly, and as appropriate.
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) Nothing in this order shall compel or authorize the disclosure of privileged information, law enforcement information, national security information, personal information, or information the disclosure of which is prohibited by law.
+
+(e) Independent agencies are requested to adhere to this order.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Freedom of Information Act
 
 Memorandum of President of the United States, Jan. 21, 2009, 74 F.R. 4683, provided:
@@ -1259,4 +1303,6 @@ This memorandum does not create any right or benefit, substantive or procedural,
 The Director of the Office of Management and Budget is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

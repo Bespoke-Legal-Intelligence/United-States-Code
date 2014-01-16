@@ -2,7 +2,7 @@
 
 #### (a) Definition of GIS
 
-In this section, the term “GIS” means geographic information systems technology that facilitates the organization and management of data with a geographic component.
+In this section, the term "GIS" means geographic information systems technology that facilitates the organization and management of data with a geographic component.
 
 #### (b) Program
 
@@ -32,7 +32,7 @@ Under the program, the Secretary shall—
 
 #### (1) In general
 
-&emsp;The Secretary may award a grant to an organization of States that contain significant numbers of marginal oil and natural gas wells to conduct an annual study of low-volume natural gas reservoirs.
+&emsp;The Secretary may award a grant to an organization of States that contain significantnumbers of marginal oil and natural gas wells to conduct an annual study of low-volume natural gas reservoirs.
 
 #### (2) Organization with no GIS capabilities
 

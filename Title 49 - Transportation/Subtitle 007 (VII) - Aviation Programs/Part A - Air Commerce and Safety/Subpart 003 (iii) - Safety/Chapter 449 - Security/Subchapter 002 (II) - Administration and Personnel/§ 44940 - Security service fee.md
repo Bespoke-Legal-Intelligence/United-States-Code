@@ -26,7 +26,7 @@ Passenger fees.—The Under Secretary of Transportation for Security shall impos
 
 &emsp;&emsp;(I) The costs of training pilots and flight attendants under sections 44918 and 44921.
 
-> &emsp;The amount of such costs shall be determined by the Under Secretary and shall not be subject to judicial review. For purposes of subparagraph (A), the term “Federal law enforcement personnel” includes State and local law enforcement officers who are deputized under section 44922.
+> &emsp;The amount of such costs shall be determined by the Under Secretary and shall not be subject to judicial review. For purposes of subparagraph (A), the term "Federal law enforcement personnel" includes State and local law enforcement officers who are deputized under section 44922.
 
 &emsp;(2)
 
@@ -66,7 +66,7 @@ Schedule of Fees.—In imposing fees under subsection (a), the Under Secretary s
 
 (c)
 
-Limitation on Fee.—Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip.
+Limitation on Fee.—Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States.
 
 (d)
 
@@ -78,7 +78,7 @@ In general.—Notwithstanding section 9701 of title 31 and the procedural requir
 
 &emsp;(2)
 
-Special rules passenger fees.—A fee imposed under subsection (a)(1) through the procedures under subsection (d) shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
+Special rules passenger fees.—A fee imposed under subsection (a)(1) through the procedures under subsection (d) <sup>1</sup> shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
 
 &emsp;(3)
 
@@ -136,25 +136,55 @@ Exemptions.—The Under Secretary may exempt from the passenger fee imposed unde
 
 (i)
 
-Checkpoint Screening Security Fund.—
+Deposit of Receipts in General Fund.—
 
 &emsp;(1)
 
-Establishment.—There is established in the Department of Homeland Security a fund to be known as the “Checkpoint Screening Security Fund”.
+In general.—Beginning in fiscal year 2014, out of fees received in a fiscal year under subsection (a)(1), after amounts are made available in the fiscal year under section 44923(h), the next funds derived from such fees in the fiscal year, in the amount specified for the fiscal year in paragraph (4), shall be credited as offsetting receipts and deposited in the general fund of the Treasury.
 
 &emsp;(2)
 
-Deposits.—In fiscal year 2008, after amounts are made available under section 44923(h), the next $250,000,000 derived from fees received under subsection (a)(1) shall be available to be deposited in the Fund.
+Fee levels.—The Secretary of Homeland Security shall impose the fee authorized by subsection (a)(1) so as to collect in a fiscal year at least the amount specified in paragraph (4) for the fiscal year for making deposits under paragraph (1).
 
 &emsp;(3)
 
-Fees.—The Secretary of Homeland Security shall impose the fee authorized by subsection (a)(1) so as to collect at least $250,000,000 in fiscal year 2008 for deposit into the Fund.
+Relationship to other provisions.—Subsections (b) and (f) shall not apply to amounts to be used for making deposits under this subsection.
 
 &emsp;(4)
 
-Availability of amounts.—Amounts in the Fund shall be available until expended by the Administrator of the Transportation Security Administration for the purchase, deployment, installation, research, and development of equipment to improve the ability of security screening personnel at screening checkpoints to detect explosives.
+Fiscal year amounts.—For purposes of paragraphs (1) and (2), the fiscal year amounts are as follows:
 
-(Added Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625; amended Pub. L. 108–7, div. I, title III, §351(b), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–176, title VI, §605(b)(1), (2), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 110–53, title XVI, §1601, Aug. 3, 2007, 121 Stat. 477; Pub. L. 110–161, div. E, title V, §540, Dec. 26, 2007, 121 Stat. 2079.)
+&emsp;&emsp;(A) $390,000,000 for fiscal year 2014.
+
+&emsp;&emsp;(B) $1,190,000,000 for fiscal year 2015.
+
+&emsp;&emsp;(C) $1,250,000,000 for fiscal year 2016.
+
+&emsp;&emsp;(D) $1,280,000,000 for fiscal year 2017.
+
+&emsp;&emsp;(E) $1,320,000,000 for fiscal year 2018.
+
+&emsp;&emsp;(F) $1,360,000,000 for fiscal year 2019.
+
+&emsp;&emsp;(G) $1,400,000,000 for fiscal year 2020.
+
+&emsp;&emsp;(H) $1,440,000,000 for fiscal year 2021.
+
+&emsp;&emsp;(I) $1,480,000,000 for fiscal year 2022.
+
+&emsp;&emsp;(J) $1,520,000,000 for fiscal year 2023.
+
+(Added Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625; amended Pub. L. 108–7, div. I, title III, §351(b), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–176, title VI, §605(b)(1), (2), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 110–53, title XVI, §1601, Aug. 3, 2007, 121 Stat. 477; Pub. L. 110–161, div. E, title V, §540, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 113–67, div. A, title VI, §601(a)(1), (2), (b), (c), Dec. 26, 2013, 127 Stat. 1187.)
+
+#### Amendment of Subsections (a)(2) and (d)(1)
+
+<i>Pub. L. 113–67, div. A, title VI, §601(a), Dec. 26, 2013, 127 Stat. 1187, provided that, effective Oct. 1, 2014, this section is amended:</i>
+
+<i>(1) by repealing subsection (a)(2), and</i>
+
+<i>(2) in subsection (d)(1), by striking ", and may impose a fee under subsection (a)(2),".</i>
+
+<i>See 2013 Amendment notes below.</i>
 
 #### References in Text
 
@@ -166,17 +196,29 @@ Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625, which directe
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(2)(A), (B)(iv). Pub. L. 110–161, which directed amendment of subsec. (a)(2) “by striking the period in the last sentence of subparagraph (A) and the clause (iv) of subparagraph B and adding the following, ‘except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: <i>Provided,</i> That such judicial review shall be pursuant to section 46110 of title 49, United States Code: <i>Provided further,</i> That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.’ ”, was executed by substituting the quoted language directed to be added for the period at the end of last sentence of subpar. (A) and for the period at the end of cl. (iv) of subpar. (B), to reflect the probable intent of Congress.
+<b>2013</b>—Subsec. (a)(2). Pub. L. 113–67, §601(a)(1), struck out par. (2) which related to fees on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation.
 
-Subsec. (d)(4). Pub. L. 110–53, §1601(1), inserted “, other than subsection (i),” before “except to”.
+Subsec. (c). Pub. L. 113–67, §601(b), amended subsec. (c) generally. Prior to amendment, text read as follows: "Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip."
+
+Subsec. (d)(1). Pub. L. 113–67, §601(a)(2), struck out ", and may impose a fee under subsection (a)(2)," after "under subsection (a)(1)".
+
+Subsec. (i). Pub. L. 113–67, §601(c), amended subsec. (i) generally. Prior to amendment, subsec. (i) related to the Checkpoint Screening Security Fund.
+
+<b>2007</b>—Subsec. (a)(2)(A), (B)(iv). Pub. L. 110–161, which directed amendment of subsec. (a)(2) "by striking the period in the last sentence of subparagraph (A) and the clause (iv) of subparagraph B and adding the following, 'except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: <i>Provided,</i> That such judicial review shall be pursuant to section 46110 of title 49, United States Code: <i>Provided further,</i> That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.' ", was executed by substituting the quoted language directed to be added for the period at the end of last sentence of subpar. (A) and for the period at the end of cl. (iv) of subpar. (B), to reflect the probable intent of Congress.
+
+Subsec. (d)(4). Pub. L. 110–53, §1601(1), inserted ", other than subsection (i)," before "except to".
 
 Subsec. (i). Pub. L. 110–53, §1601(2), added subsec. (i).
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–7 inserted at end of concluding provisions “For purposes of subparagraph (A), the term ‘Federal law enforcement personnel’ includes State and local law enforcement officers who are deputized under section 44922.”
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–7 inserted at end of concluding provisions "For purposes of subparagraph (A), the term 'Federal law enforcement personnel' includes State and local law enforcement officers who are deputized under section 44922."
 
 Subsec. (a)(1)(H), (I). Pub. L. 108–176, §605(b)(1), added subpars. (H) and (I).
 
-Subsec. (d)(4). Pub. L. 108–176, §605(b)(2), substituted “appropriations Act or in section 44923” for “appropriations Act”.
+Subsec. (d)(4). Pub. L. 108–176, §605(b)(2), substituted "appropriations Act or in section 44923" for "appropriations Act".
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 113–67, div. A, title VI, §601(a)(3), Dec. 26, 2013, 127 Stat. 1187, provided that: "The repeal made by paragraph (1) \[amending this section\] and the amendment made by paragraph (2) \[amending this section\] shall each take effect on October 1, 2014."
 
 #### Effective Date of 2003 Amendment
 
@@ -188,5 +230,19 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+
+#### Imposition of Fee Increase
+
+Pub. L. 113–67, div. A, title VI, §601(d), Dec. 26, 2013, 127 Stat. 1188, provided that: "The Secretary of Homeland Security shall implement the fee increase authorized by the amendment made by subsection (b) \[amending this section\]—
+
+&emsp;"(1) beginning on July 1, 2014; and
+
+&emsp;"(2) through the publication of notice of such fee in the Federal Register, notwithstanding section 9701 of title 31, United States Code, and the procedural requirements of section 553 of title 5, United States Code."
+
+#### Continued Availability of Existing Balances
+
+Pub. L. 113–67, div. A, title VI, §601(e), Dec. 26, 2013, 127 Stat. 1188, provided that: "The amendments made by this section \[amending this section\] shall not affect the availability of funds made available under section 44940(i) of title 49, United States Code, before the date of enactment of this Act \[Dec. 26, 2013\]."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1)".</i>
 

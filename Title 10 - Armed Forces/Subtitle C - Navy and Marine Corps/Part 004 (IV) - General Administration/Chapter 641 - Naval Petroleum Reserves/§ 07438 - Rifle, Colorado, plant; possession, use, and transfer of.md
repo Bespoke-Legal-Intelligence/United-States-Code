@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 June 4, 1920, ch. 228 (11th par., proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, §1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281.
 
-The words “this chapter does not authorize” are substituted for the words “nothing herein contained shall be construed to permit” for brevity.
+The words "this chapter does not authorize" are substituted for the words "nothing herein contained shall be construed to permit" for brevity.
 
 #### References in Text
 
@@ -34,21 +34,21 @@ Act April 5, 1944, referred to in subsec. (a), is act Apr. 5, 1944, ch. 172, 58 
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted "Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and the House of Representatives".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513, §513(37)(A), substituted provisions relating to authority of the Secretary under the specified statute, for provisions relating to authority of the Administrator of the Energy Research and Development Administration under the specified statute.
 
 Subsec. (b). Pub. L. 96–513, §513(37)(B), substituted provisions relating to authorities of the Secretary, for provisions relating to authorities of the Administrator of the Energy Research and Development Administration.
 
-Subsec. (c). Pub. L. 96–513, §513(37)(C), substituted “in this chapter” for “herein contained”.
+Subsec. (c). Pub. L. 96–513, §513(37)(C), substituted "in this chapter" for "herein contained".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–258 substituted “Administrator of the Energy Research and Development Administration” for “Secretary of the Interior”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–258 substituted "Administrator of the Energy Research and Development Administration" for "Secretary of the Interior".
 
-Subsec. (b). Pub. L. 94–258 substituted “Administrator of the Energy Research and Development Administration” for “Secretary of the Interior” wherever appearing therein and struck out “of the Navy” after “Secretary” wherever appearing.
+Subsec. (b). Pub. L. 94–258 substituted "Administrator of the Energy Research and Development Administration" for "Secretary of the Interior" wherever appearing therein and struck out "of the Navy" after "Secretary" wherever appearing.
 
-Subsec. (c). Pub. L. 94–258 struck out “of the Navy” after “Secretary”.
+Subsec. (c). Pub. L. 94–258 struck out "of the Navy" after "Secretary".
 
 <b>1962</b>—Pub. L. 87–796 amended section generally by substituting provisions relating to the possession, use, and transfer of the experimental demonstration facility near Rifle, Colorado, for provisions which stated that this chapter does not authorize the development or operation of the naval oil-shale reserves.
 

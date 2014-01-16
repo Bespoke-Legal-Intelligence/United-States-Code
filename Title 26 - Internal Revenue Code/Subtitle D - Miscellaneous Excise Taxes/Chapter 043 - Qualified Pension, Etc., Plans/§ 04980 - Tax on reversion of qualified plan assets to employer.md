@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (1) Qualified plan
 
-&emsp;The term “qualified plan” means any plan meeting the requirements of section 401(a) or 403(a), other than—
+&emsp;The term "qualified plan" means any plan meeting the requirements of section 401(a) or 403(a), other than—
 
 &emsp;&emsp;(A) a plan maintained by an employer if such employer has, at all times, been exempt from tax under subtitle A, or
 
@@ -26,11 +26,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “employer reversion” means the amount of cash and the fair market value of other property received (directly or indirectly) by an employer from the qualified plan.
+&emsp;&emsp;The term "employer reversion" means the amount of cash and the fair market value of other property received (directly or indirectly) by an employer from the qualified plan.
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “employer reversion” shall not include—
+&emsp;&emsp;The term "employer reversion" shall not include—
 
 &emsp;&emsp;&emsp;(i) except as provided in regulations, any amount distributed to or on behalf of any employee (or his beneficiaries) if such amount could have been so distributed before termination of such plan without violating any provision of section 401,
 
@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If, upon an employer reversion from a qualified plan, any applicable amount is transferred from such plan to an employee stock ownership plan described in section 4975(e)(7) or a tax credit employee stock ownership plan (as described in section 409), such amount shall not be treated as an employer reversion for purposes of this section (or includible in the gross income of the employer) if the requirements of subparagraphs (B), (C), and (D) are met.
+&emsp;&emsp;If, upon an employer reversion from a qualified plan, any applicable amount istransferred from such plan to an employee stock ownership plan described in section 4975(e)(7) or a tax credit employee stock ownership plan (as described in section 409), such amount shall not be treated as an employer reversion for purposes of this section (or includible in the gross income of the employer) if the requirements of subparagraphs (B), (C), and (D) are met.
 
 #### (B) Investment in employer securities
 
@@ -74,11 +74,11 @@ For purposes of this section—
 
 #### (E) Applicable amount
 
-&emsp;&emsp;For purposes of this paragraph, the term “applicable amount” means any amount which—
+&emsp;&emsp;For purposes of this paragraph, the term "applicable amount" means any amount which—
 
 &emsp;&emsp;&emsp;(i) is transferred after March 31, 1985, and before January 1, 1989, or
 
-&emsp;&emsp;&emsp;(ii) is transferred after December 31, 1988, pursuant to a termination which occursafter March 31, 1985, and before January 1, 1989.
+&emsp;&emsp;&emsp;(ii) is transferred after December 31, 1988, pursuant to a termination which occurs after March 31, 1985, and before January 1, 1989.
 
 #### (F) No credit or deduction allowed
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Subsection (a) shall be applied by substituting “50 percent” for “20 percent” with respect to any employer reversion from a qualified plan unless—
+&emsp;Subsection (a) shall be applied by substituting "50 percent" for "20 percent" with respect to any employer reversion from a qualified plan unless—
 
 &emsp;&emsp;(A) the employer establishes or maintains a qualified replacement plan, or
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (2) Qualified replacement plan
 
-&emsp;For purposes of this subsection, the term “qualified replacement plan” means a qualified plan established or maintained by the employer in connection with a qualified plan termination (hereinafter referred to as the “replacement plan”) with respect to which the following requirements are met:
+&emsp;For purposes of this subsection, the term "qualified replacement plan" means a qualified plan established or maintained by the employer in connection with a qualified plan termination (hereinafter referred to as the "replacement plan") with respect to which the following requirements are met:
 
 #### (A) Participation requirement
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such amount shall be allocated to the accounts of participants as of such date, except that any amount which may not be allocated by reason of any limitation under section 415 shall be allocated to the accounts of other participants, and
 
-&emsp;&emsp;&emsp;&emsp;(II) if any portion of such amount may not be allocated to other participants under subclause (I) by reason of such limitation, such portion shall be treatedas an employer reversion to which this section applies.
+&emsp;&emsp;&emsp;&emsp;(II) if any portion of such amount may not be allocated to other participants under subclause (I) by reason of such limitation, such portion shall be treated as an employer reversion to which this section applies.
 
 #### (3) Pro rata benefit increases
 
@@ -186,7 +186,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the aggregate present value of accrued benefits of the terminated plan (as so determined).
 
-> &emsp;&emsp;Notwithstanding the preceding sentence, the aggregate increases in the present value of the accrued benefits of qualified participants who are not active participants shall not exceed 40 percent of the aggregate amount determined under subparagraph (A)(i) by substituting “equal to” for “not less than”.
+> &emsp;&emsp;Notwithstanding the preceding sentence, the aggregate increases in the present value of the accrued benefits of qualified participants who are not active participants shall not exceed 40 percent of the aggregate amount determined under subparagraph (A)(i) by substituting "equal to" for "not less than".
 
 #### (4) Coordination with other provisions
 
@@ -208,7 +208,7 @@ For purposes of this section—
 
 #### (A) Qualified participant
 
-&emsp;&emsp;The term “qualified participant” means an individual who—
+&emsp;&emsp;The term "qualified participant" means an individual who—
 
 &emsp;&emsp;&emsp;(i) is an active participant,
 
@@ -252,25 +252,25 @@ For purposes of this section—
 
 <b>2008</b>—Subsec. (c)(2)(B)(iii). Pub. L. 110–458 added cl. (iii).
 
-<b>2006</b>—Subsec. (c)(3)(A). Pub. L. 109–280 substituted “if the requirements of subparagraphs (B), (C), and (D) are met” for “if—
+<b>2006</b>—Subsec. (c)(3)(A). Pub. L. 109–280 substituted "if the requirements of subparagraphs (B), (C), and (D) are met" for "if—
 
-&emsp;“(i) the requirements of subparagraphs (B), (C), and (D) are met, and
+&emsp;"(i) the requirements of subparagraphs (B), (C), and (D) are met, and
 
-&emsp;“(ii) under the plan, employer securities to which subparagraph (B) applies must, except to the extent necessary to meet the requirements of section 401(a)(28), remain in the plan until distribution to participants in accordance with the provisions of such plan”.
+&emsp;"(ii) under the plan, employer securities to which subparagraph (B) applies must, except to the extent necessary to meet the requirements of section 401(a)(28), remain in the plan until distribution to participants in accordance with the provisions of such plan".
 
 <b>1996</b>—Subsecs. (a), (d). Pub. L. 104–188 provided that, except as otherwise expressly provided, whenever in title XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. Sections 12001 and 12002(a) of title XII of Pub. L. 101–508 directed the amendment of this section without specifying that the amendment was to the Internal Revenue Code of 1986. See 1990 Amendment note below.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §12001, which directed the substitution of “20 percent” for “15 percent” in “section 4980(a)” without specifying the Internal Revenue Code of 1986, was executed to subsec. (a) of this section. See 1996 Amendment note above.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §12001, which directed the substitution of "20 percent" for "15 percent" in "section 4980(a)" without specifying the Internal Revenue Code of 1986, was executed to subsec. (a) of this section. See 1996 Amendment note above.
 
-Subsec. (d). Pub. L. 101–508, §12002(a), which directed the addition of subsec. (d) to “section 4980” without specifying the Internal Revenue Code of 1986, was executed to this section. See 1996 Amendment note above.
+Subsec. (d). Pub. L. 101–508, §12002(a), which directed the addition of subsec. (d) to "section 4980" without specifying the Internal Revenue Code of 1986, was executed to this section. See 1996 Amendment note above.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647, §6069(a), substituted “15” for “10”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §6069(a), substituted "15" for "10".
 
-Subsec. (c)(1)(A). Pub. L. 100–647, §1011A(f)(1), substituted “subtitle A” for “this subtitle”.
+Subsec. (c)(1)(A). Pub. L. 100–647, §1011A(f)(1), substituted "subtitle A" for "this subtitle".
 
-Subsec. (c)(3)(A). Pub. L. 100–647, §1011A(f)(2), inserted “or a tax credit employee stock ownership plan (as described in section 409)” after “section 4975(e)(7)” in introductory text, and “, except to the extent necessary to meet the requirements of section 401(a)(28),” after “must” in cl. (ii).
+Subsec. (c)(3)(A). Pub. L. 100–647, §1011A(f)(2), inserted "or a tax credit employee stock ownership plan (as described in section 409)" after "section 4975(e)(7)" in introductory text, and ", except to the extent necessary to meet the requirements of section 401(a)(28)," after "must" in cl. (ii).
 
-Subsec. (c)(3)(C). Pub. L. 100–647, §1011A(f)(3), struck out “(by reason of the limitations of section 415)” after “not allocated” in introductory text, and inserted sentence at end relating to minimum amount allocated in year of transfer.
+Subsec. (c)(3)(C). Pub. L. 100–647, §1011A(f)(3), struck out "(by reason of the limitations of section 415)" after "not allocated" in introductory text, and inserted sentence at end relating to minimum amount allocated in year of transfer.
 
 Pub. L. 100–647, §1011A(f)(7), inserted sentence at end relating to dividends on securities held in suspense account.
 
@@ -290,113 +290,113 @@ Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31,
 
 Pub. L. 101–508, title XII, §12003, Nov. 5, 1990, 104 Stat. 1388–566, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle A (§§12001–12003) of title XII of Pub. L. 101–508, amending this section and sections 1002, 1104, and 1344 of Title 29, Labor\] shall apply to reversions occurring after September 30, 1990.
 
-“(b)
+"(b)
 
 Exception.—The amendments made by this subtitle shall not apply to any reversion after September 30, 1990, if—
 
-&emsp;“(1) in the case of plans subject to title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\], a notice of intent to terminate under such title was provided to participants (or if no participants, to the Pension Benefit Guaranty Corporation) before October 1, 1990,
+&emsp;"(1) in the case of plans subject to title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\], a notice of intent to terminate under such title was provided to participants (or if no participants, to the Pension Benefit Guaranty Corporation) before October 1, 1990,
 
-&emsp;“(2) in the case of plans subject to title I \[29 U.S.C. 1001 et seq.\] (and not to title IV) of such Act, a notice of intent to reduce future accruals under section 204(h) of such Act \[29 U.S.C. 1054(h)\] was provided to participants in connection with the termination before October 1, 1990,
+&emsp;"(2) in the case of plans subject to title I \[29 U.S.C. 1001 et seq.\] (and not to title IV) of such Act, a notice of intent to reduce future accruals under section 204(h) of such Act \[29 U.S.C. 1054(h)\] was provided to participants in connection with the termination before October 1, 1990,
 
-&emsp;“(3) in the case of plans not subject to title I or IV of such Act, a request for a determination letter with respect to the termination was filed with the Secretary of the Treasury or the Secretary's delegate before October 1, 1990, or
+&emsp;"(3) in the case of plans not subject to title I or IV of such Act, a request for a determination letter with respect to the termination was filed with the Secretary of the Treasury or the Secretary's delegate before October 1, 1990, or
 
-&emsp;“(4) in the case of plans not subject to title I or IV of such Act and having only 1 participant, a resolution terminating the plan was adopted by the employer before October 1, 1990.”
+&emsp;"(4) in the case of plans not subject to title I or IV of such Act and having only 1 participant, a resolution terminating the plan was adopted by the employer before October 1, 1990."
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1011A(f)(1)–(3), (6), (7) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title V, §5072(b), Nov. 10, 1988, 102 Stat. 3681, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to reversions after December 31, 1988.”
+Pub. L. 100–647, title V, §5072(b), Nov. 10, 1988, 102 Stat. 3681, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to reversions after December 31, 1988."
 
 Pub. L. 100–647, title VI, §6069(b), Nov. 10, 1988, 102 Stat. 3704, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by subsection (a) \[amending this section\] shall apply to reversions occurring on or after October 21, 1988.
 
-“(2)
+"(2)
 
 Exception.—The amendment made by subsection (a) shall not apply to any reversion on or after October 21, 1988, pursuant to a plan termination if—
 
-&emsp;“(A) with respect to plans subject to title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\], a notice of intent to terminate required under such title was provided to participants (or if no participants, to the Pension Benefit Guaranty Corporation) before October 21, 1988,
+&emsp;"(A) with respect to plans subject to title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\], a notice of intent to terminate required under such title was provided to participants (or if no participants, to the Pension Benefit Guaranty Corporation) before October 21, 1988,
 
-&emsp;“(B) with respect to plans subject to title I of such Act \[29 U.S.C. 1001 et seq.\], a notice of intent to reduce future accruals required under section 204(h) of such Act \[29 U.S.C. 1054(h)\] was provided to participants in connection with the termination before October 21, 1988,
+&emsp;"(B) with respect to plans subject to title I of such Act \[29 U.S.C. 1001 et seq.\], a notice of intent to reduce future accruals required under section 204(h) of such Act \[29 U.S.C. 1054(h)\] was provided to participants in connection with the termination before October 21, 1988,
 
-&emsp;“(C) with respect to plans not subject to title I or IV of such Act, the Board of Directors of the employer approved the termination or the employer took other binding action before October 21, 1988, or
+&emsp;"(C) with respect to plans not subject to title I or IV of such Act, the Board of Directors of the employer approved the termination or the employer took other binding action before October 21, 1988, or
 
-&emsp;“(D) such plan termination was directed by a final order of a court of competent jurisdiction entered before October 21, 1988, and notice of such order was provided to participants before such date.”
+&emsp;"(D) such plan termination was directed by a final order of a court of competent jurisdiction entered before October 21, 1988, and notice of such order was provided to participants before such date."
 
 #### Effective Date
 
 Pub. L. 99–514, title XI, §1132(c), Oct. 22, 1986, 100 Stat. 2480, as amended by Pub. L. 100–647, title I, §1011A(f)(4), (5), Nov. 10, 1988, 102 Stat. 3479, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting this section\] shall apply to reversions occurring after December 31, 1985.
 
-“(2)
+"(2)
 
 Exception where termination date occurred before january 1, 1986.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Except as provided in subparagraph (B), the amendments made by this section shall not apply to any reversion after December 31, 1985, which occurs pursuant to a plan termination where the termination date is before January 1, 1986.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Election to have amendments apply.—A corporation may elect to have the amendments made by this section apply to any reversion after 1985 pursuant to a plan termination occurring before 1986 if such corporation was incorporated in the State of Delaware in March, 1978, and became a parent corporation of the consolidated group on September 19, 1978, pursuant to a merger agreement recorded in the State of Nevada on September 19, 1978.
 
-“(3)
+"(3)
 
-Termination date.—For purposes of paragraph (2), the term ‘termination date’ is the date of the termination (within the meaning of section 411(d)(3) of the Internal Revenue Code of 1986) of the plan.
+Termination date.—For purposes of paragraph (2), the term 'termination date' is the date of the termination (within the meaning of section 411(d)(3) of the Internal Revenue Code of 1986) of the plan.
 
-“(4)
+"(4)
 
 Transition rule for certain terminations.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—In the case of a taxpayer to which this paragraph applies, the amendments made by this section shall not apply to any termination occurring before the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\].
 
-&emsp;“(B)
+&emsp;"(B)
 
 Taxpayers to whom paragraph applies.—This paragraph shall apply to—
 
-&emsp;&emsp;“(i) a corporation incorporated on June 13, 1917, which has its principal place of business in Bartlesville, Oklahoma,
+&emsp;&emsp;"(i) a corporation incorporated on June 13, 1917, which has its principal place of business in Bartlesville, Oklahoma,
 
-&emsp;&emsp;“(ii) a corporation incorporated on January 17, 1917, which is located in Coatesville, Pennsylvania,
+&emsp;&emsp;"(ii) a corporation incorporated on January 17, 1917, which is located in Coatesville, Pennsylvania,
 
-&emsp;&emsp;“(iii) a corporation incorporated on January 23, 1928, which has its principal place of business in New York, New York,
+&emsp;&emsp;"(iii) a corporation incorporated on January 23, 1928, which has its principal place of business in New York, New York,
 
-&emsp;&emsp;“(iv) a corporation incorporated on April 23, 1956, which has its principal place of business in Dallas, Texas, and
+&emsp;&emsp;"(iv) a corporation incorporated on April 23, 1956, which has its principal place of business in Dallas, Texas, and
 
-&emsp;&emsp;“(v) a corporation incorporated in the State of Nevada, the principal place of business of which is in Denver, Colorado, and which filed for relief from creditors under the United States Bankruptcy Code on August 28, 1986.
+&emsp;&emsp;"(v) a corporation incorporated in the State of Nevada, the principal place of business of which is in Denver, Colorado, and which filed for relief from creditors under the United States Bankruptcy Code on August 28, 1986.
 
-“(5)
+"(5)
 
-Special rule for employee stock ownership plans.—Section 4980(c)(3) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply to reversions occurring after March 31, 1985.”
+Special rule for employee stock ownership plans.—Section 4980(c)(3) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply to reversions occurring after March 31, 1985."
 
 #### Transfer of Excess Assets From Qualified Pension Plan to Welfare Benefit Plan
 
 Pub. L. 101–239, title VII, §7861(b), Dec. 19, 1989, 103 Stat. 2430, provided that:
 
-“(1) Notwithstanding any other provision of law, in the case of any qualified pension plan and welfare benefit plan described in paragraph (2), the assets of such pension plan in excess of its liabilities may be transferred to such welfare benefit plan upon the termination of such pension plan if such assets are to be used to provide retiree health benefits.
+"(1) Notwithstanding any other provision of law, in the case of any qualified pension plan and welfare benefit plan described in paragraph (2), the assets of such pension plan in excess of its liabilities may be transferred to such welfare benefit plan upon the termination of such pension plan if such assets are to be used to provide retiree health benefits.
 
-“(2) For purposes of paragraph (1), a qualified pension plan and welfare benefit plan are described in this paragraph if—
+"(2) For purposes of paragraph (1), a qualified pension plan and welfare benefit plan are described in this paragraph if—
 
-&emsp;“(A) both such plans are jointly administered pursuant to a collective bargaining agreement between the employer maintaining such plans and one or more employee representatives,
+&emsp;"(A) both such plans are jointly administered pursuant to a collective bargaining agreement between the employer maintaining such plans and one or more employee representatives,
 
-&emsp;“(B) the welfare benefit plan provides retiree health benefits, and
+&emsp;"(B) the welfare benefit plan provides retiree health benefits, and
 
-&emsp;“(C) the qualified pension plan has assets in excess of liabilities (determined on a termination basis) and the welfare benefit plan has assets which are less than the present value of the benefits to be provided under the plan (determined as of the time of termination of the pension plan).
+&emsp;"(C) the qualified pension plan has assets in excess of liabilities (determined on a termination basis) and the welfare benefit plan has assets which are less than the present value of the benefits to be provided under the plan (determined as of the time of termination of the pension plan).
 
-“(3) For purposes of the Internal Revenue Code of 1986, any transfer of assets to which paragraph (1) applies shall be treated as a reversion of such assets to the employer maintaining the plan which is includible in the gross income of such employer and subject to the tax imposed by section 4980 of such Code.”
+"(3) For purposes of the Internal Revenue Code of 1986, any transfer of assets to which paragraph (1) applies shall be treated as a reversion of such assets to the employer maintaining the plan which is includible in the gross income of such employer and subject to the tax imposed by section 4980 of such Code."
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

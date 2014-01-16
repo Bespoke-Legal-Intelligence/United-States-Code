@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–428 substituted “$22,000,000” for “$2,000,000”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–428 substituted "$22,000,000" for "$2,000,000".
 
 <b>1969</b>—Pub. L. 91–88 designated existing provisions as subsec. (a) and added subsec. (b).
 

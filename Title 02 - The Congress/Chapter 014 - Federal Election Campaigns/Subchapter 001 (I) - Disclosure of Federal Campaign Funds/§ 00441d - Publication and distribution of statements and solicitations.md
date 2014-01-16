@@ -6,7 +6,7 @@ Whenever a political committee makes a disbursement for the purpose of financing
 
 &emsp;(1) if paid for and authorized by a candidate, an authorized political committee of a candidate, or its agents, shall clearly state that the communication has been paid for by such authorized political committee, or <sup>1</sup>
 
-&emsp;(2) if paid for by other persons but authorized by a candidate, an authorized political committee of a candidate, or its agents, shall clearly state that the communication is paid for by such other persons and authorized by such authorized political committee; <sup>1</sup>
+&emsp;(2) if paid for by other persons but authorized by a candidate, an authorized politicalcommittee of a candidate, or its agents, shall clearly state that the communication is paid for by such other persons and authorized by such authorized political committee; <sup>1</sup>
 
 &emsp;(3) if not authorized by a candidate, an authorized political committee of a candidate, or its agents, shall clearly state the name and permanent street address, telephone number, or World Wide Web address of the person who paid for the communication and state that the communication is not authorized by any candidate or candidate's committee.
 
@@ -46,7 +46,7 @@ Any printed communication described in subsection (a) of this section shall—
 
 #### (2) Communications by others
 
-&emsp;Any communication described in paragraph (3) of subsection (a) of this section which is transmitted through radio or television shall include, in addition to the requirements ofthat paragraph, in a clearly spoken manner, the following audio statement: “\_\_\_\_\_\_\_\_\_\_ is responsible for the content of this advertising.” (with the blank to be filled in with the name of the political committee or other person paying for the communication and the name of any connected organization of the payor). If transmitted through television, the statement shall be conveyed by an unobscured, full-screen view of a representative of the political committee or other person making the statement, or by a representative of such political committee or other person in voice-over, and shall also appear in a clearly readable manner with a reasonable degree of color contrast between the background and the printed statement, for a period of at least 4 seconds.
+&emsp;Any communication described in paragraph (3) of subsection (a) of this section which is transmitted through radio or television shall include, in addition to the requirements of that paragraph, in a clearly spoken manner, the following audio statement: “\_\_\_\_\_\_\_\_\_\_ is responsible for the content of this advertising.” (with the blank to be filled in with the name of the political committee or other person paying for the communication and the name of any connected organization of the payor). If transmitted through television, the statement shall be conveyed by an unobscured, full-screen view of a representative of the political committee or other person making the statement, or by a representative of such political committee or other person in voice-over, and shall also appear in a clearly readable manner with a reasonable degree of color contrast between the background and the printed statement, for a period of at least 4 seconds.
 
 (Pub. L. 92–225, title III, §318, formerly §323, as added Pub. L. 94–283, title I, §112(2), May 11, 1976, 90 Stat. 493; renumbered §318 and amended Pub. L. 96–187, title I, §§105(5), 111, Jan. 8, 1980, 93 Stat. 1354, 1365; Pub. L. 107–155, title III, §311, Mar. 27, 2002, 116 Stat. 105.)
 

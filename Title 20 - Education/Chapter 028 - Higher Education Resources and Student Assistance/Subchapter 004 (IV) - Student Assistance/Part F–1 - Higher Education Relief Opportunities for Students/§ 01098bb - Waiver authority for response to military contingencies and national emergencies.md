@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, unless enacted with specific reference to thissection, the Secretary of Education (referred to in this part as the “Secretary”) may waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Act \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\] as the Secretary deems necessary in connection with a war or other military operation or national emergency to provide the waivers or modifications authorized by paragraph (2).
+&emsp;Notwithstanding any other provision of law, unless enacted with specific reference to this section, the Secretary of Education (referred to in this part as the "Secretary") may waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Act \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\] as the Secretary deems necessary in connection with a war or other military operation or national emergency to provide the waivers or modifications authorized by paragraph (2).
 
 #### (2) Actions authorized
 
@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) administrative requirements placed on affected individuals who are recipients of student financial assistance are minimized, to the extent possible without impairing the integrity of the student financial assistance programs, to ease the burden on such students and avoid inadvertent, technical violations or defaults;
 
-&emsp;&emsp;(C) the calculation of “annual adjusted family income” and “available income”, as used in the determination of need for student financial assistance under title IV of the Act for any such affected individual (and the determination of such need for his or her spouse and dependents, if applicable), may be modified to mean the sums received in the first calendar year of the award year for which such determination is made, in order to reflect more accurately the financial condition of such affected individual and his or her family;
+&emsp;&emsp;(C) the calculation of "annual adjusted family income" and "available income", as used in the determination of need for student financial assistance under title IV of the Act for any such affected individual (and the determination of such need for his or her spouse and dependents, if applicable), may be modified to mean the sums received in the first calendar year of the award year for which such determination is made, in order to reflect more accurately the financial condition of such affected individual and his or her family;
 
 &emsp;&emsp;(D) the calculation under section 484B(b)(2) of the Act (20 U.S.C. 1091b(b)(2)) of the amount a student is required to return in the case of an affected individual may be modified so that no overpayment will be required to be returned or repaid if the institution has documented (i) the student's status as an affected individual in the student's file, and (ii) the amount of any overpayment discharged; and
 
@@ -36,7 +36,7 @@
 
 #### (c) Impact report
 
-The Secretary shall, not later than 15 months after first exercising any authority to issue a waiver or modification under subsection (a), report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate on the impact of any waivers or modifications issued pursuant to subsection (a) on affected individuals and the programs under title IV of the Act \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\], and the basis for such determination, and include in such report the Secretary's recommendations for changes to the statutory or regulatory provisions that were the subject of such waiver or modification.
+The Secretary shall, not later than 15 months after first exercising any authority to issue a waiver or modification under subsection (a), report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate on the impact of anywaivers or modifications issued pursuant to subsection (a) on affected individuals and the programs under title IV of the Act \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\], and the basis for such determination, and include in such report the Secretary's recommendations for changes to the statutory or regulatory provisions that were the subject of such waiver or modification.
 
 #### (d) No delay in waivers and modifications
 

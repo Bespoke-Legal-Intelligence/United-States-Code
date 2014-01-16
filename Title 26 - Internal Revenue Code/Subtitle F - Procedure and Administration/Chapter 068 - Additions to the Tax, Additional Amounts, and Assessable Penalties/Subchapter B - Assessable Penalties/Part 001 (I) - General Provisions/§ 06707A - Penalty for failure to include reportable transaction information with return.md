@@ -28,11 +28,11 @@ For purposes of this section:
 
 #### (1) Reportable transaction
 
-&emsp;The term “reportable transaction” means any transaction with respect to which information is required to be included with a return or statement because, as determined under regulations prescribed under section 6011, such transaction is of a type which the Secretary determines as having a potential for tax avoidance or evasion.
+&emsp;The term "reportable transaction" means any transaction with respect to which information is required to be included with a return or statement because, as determined under regulations prescribed under section 6011, such transaction is of a type which the Secretary determines as having a potential for tax avoidance or evasion.
 
 #### (2) Listed transaction
 
-&emsp;The term “listed transaction” means a reportable transaction which is the same as, or substantially similar to, a transaction specifically identified by the Secretary as a tax avoidance transaction for purposes of section 6011.
+&emsp;The term "listed transaction" means a reportable transaction which is the same as, or substantially similar to, a transaction specifically identified by the Secretary as a tax avoidance transaction for purposes of section 6011.
 
 #### (d) Authority to rescind penalty
 
@@ -72,7 +72,7 @@ In the case of a person—
 
 &emsp;&emsp;(C) is required to pay a penalty under section 6662(h) with respect to any reportable transaction and would (but for section 6662A(e)(2)(B)) have been subject to penalty under section 6662A at a rate prescribed under section 6662A(c),
 
-> the requirement to pay such penalty shall be disclosed in such reports filed by such person for such periods as the Secretary shall specify. Failure to make a disclosure in accordance with the preceding sentence shall be treated as a failure to which the penalty under subsection (b)(2) applies.
+> the requirement to pay such penalty shall be disclosed in such reports filed by such person forsuch periods as the Secretary shall specify. Failure to make a disclosure in accordance with the preceding sentence shall be treated as a failure to which the penalty under subsection (b)(2) applies.
 
 #### (f) Coordination with other penalties
 
@@ -88,21 +88,21 @@ Sections 13 and 15(d) of the Securities Exchange Act of 1934, referred to in sub
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–240 amended subsec. (b) generally. Prior to amendment, subsec. (b) specified the amount of the penalty under subsec. (a), both in general and with respect to a listed transaction, in the case of a natural person or in any other case.
 
-<b>2007</b>—Subsec. (e)(2)(C). Pub. L. 110–172 substituted “section 6662A(e)(2)(B)” for “section 6662A(e)(2)(C)”.
+<b>2007</b>—Subsec. (e)(2)(C). Pub. L. 110–172 substituted "section 6662A(e)(2)(B)" for "section 6662A(e)(2)(C)".
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–240, title II, §2041(b), Sept. 27, 2010, 124 Stat. 2560, provided that: “The amendment made by this section \[amending this section\] shall apply to penalties assessed after December 31, 2006.”
+Pub. L. 111–240, title II, §2041(b), Sept. 27, 2010, 124 Stat. 2560, provided that: "The amendment made by this section \[amending this section\] shall apply to penalties assessed after December 31, 2006."
 
 #### Effective Date
 
-Pub. L. 108–357, title VIII, §811(c), Oct. 22, 2004, 118 Stat. 1577, as amended by Pub. L. 109–135, title IV, §403(w), Dec. 21, 2005, 119 Stat. 2629, provided that: “The amendments made by this section \[enacting this section\] shall apply to returns and statements the due date for which is after the date of the enactment of this Act \[Oct. 22, 2004\] and which were not filed before such date.”
+Pub. L. 108–357, title VIII, §811(c), Oct. 22, 2004, 118 Stat. 1577, as amended by Pub. L. 109–135, title IV, §403(w), Dec. 21, 2005, 119 Stat. 2629, provided that: "The amendments made by this section \[enacting this section\] shall apply to returns and statements the due date for which is after the date of the enactment of this Act \[Oct. 22, 2004\] and which were not filed before such date."
 
 #### Report
 
-Pub. L. 108–357, title VIII, §811(d), Oct. 22, 2004, 118 Stat. 1577, provided that: “The Commissioner of Internal Revenue shall annually report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
+Pub. L. 108–357, title VIII, §811(d), Oct. 22, 2004, 118 Stat. 1577, provided that: "The Commissioner of Internal Revenue shall annually report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
 
-&emsp;“(1) a summary of the total number and aggregate amount of penalties imposed, and rescinded, under section 6707A of the Internal Revenue Code of 1986, and
+&emsp;"(1) a summary of the total number and aggregate amount of penalties imposed, and rescinded, under section 6707A of the Internal Revenue Code of 1986, and
 
-&emsp;“(2) a description of each penalty rescinded under section 6707(c) of such Code and the reasons therefor.”
+&emsp;"(2) a description of each penalty rescinded under section 6707(c) of such Code and the reasons therefor."
 

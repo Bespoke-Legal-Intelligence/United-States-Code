@@ -60,7 +60,7 @@
 
 #### (2) Effective date for exercise of authority
 
-&emsp;Each Assistant Director appointed pursuant to paragraph (1) may exercise the authority assigned to each such Director only after the effective date of section 203(c)(2) of the National and Community Service Trust Act of 1993.
+&emsp;Each Assistant Director appointed pursuant to paragraph (1) may exercise the authorityassigned to each such Director only after the effective date of section 203(c)(2) of the National and Community Service Trust Act of 1993.
 
 (Pub. L. 101–610, title I, §194, as added Pub. L. 103–82, title II, §202(a), Sept. 21, 1993, 107 Stat. 882; amended Pub. L. 110–409, §4(a)(4), Oct. 14, 2008, 122 Stat. 4304; Pub. L. 111–13, title I, §1705, Apr. 21, 2009, 123 Stat. 1547; Pub. L. 112–166, §2(p), Aug. 10, 2012, 126 Stat. 1288.)
 
@@ -68,25 +68,25 @@
 
 The Inspector General Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (d)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. Part A of title I of the Act is classified generally to part A (§4951 et seq.) of subchapter I of chapter 66 ofthis title. Part B of title I of the Act, which was classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of this title, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. Parts A, B, and C of title II of the Act are classified generally to parts A (§5001 et seq.), B (§5011 et seq.), and C (§5013 et seq.), respectively, of subchapter II of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (d)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. Part A of title I of the Act is classified generally to part A (§4951 et seq.) of subchapter I of chapter 66 of this title. Part B of title I of the Act, which was classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of this title, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. Parts A, B, and C of title II of the Act are classified generally to parts A (§5001 et seq.), B (§5011 et seq.), and C (§5013 et seq.), respectively, of subchapter II of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 Section 203(c)(2) of the National and Community Service Trust Act of 1993, referred to in subsec. (d)(2), is section 203(c)(2) of Pub. L. 103–82, which is set out as a note under section 12651 of this title. For the effective date of section 203(c)(2) of this Act, see section 203(d) of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 12651 of this title.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” after “President”.
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" after "President".
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–13 added par. (1), redesignated par. (3) as (2), and struck out former pars. (1) and (2) which read as follows:
 
-“(1)
+"(1)
 
 Office.—There shall be in the Corporation a Chief Financial Officer, who shall be appointed by the President, by and with the advice and consent of the Senate.
 
-“(2)
+"(2)
 
-Compensation.—The Chief Financial Officer shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.”
+Compensation.—The Chief Financial Officer shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5."
 
-<b>2008</b>—Subsec. (b)(3). Pub. L. 110–409 struck out par. (3). Text read as follows: “The Inspector General shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.”
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–409 struck out par. (3). Text read as follows: "The Inspector General shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5."
 
 #### Effective Date of 2012 Amendment
 

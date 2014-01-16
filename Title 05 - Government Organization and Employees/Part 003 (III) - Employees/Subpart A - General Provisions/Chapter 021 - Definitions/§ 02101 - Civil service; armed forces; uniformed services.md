@@ -6,7 +6,7 @@ For the purpose of this title—
 
 &emsp;(2) “armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard; and
 
-&emsp;(3) “uniformed services” means the armed forces, the commissioned corps of the PublicHealth Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.
+&emsp;(3) “uniformed services” means the armed forces, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 90–83, §1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 96–54, §2(a)(4), Aug. 14, 1979, 93 Stat. 381.)
 

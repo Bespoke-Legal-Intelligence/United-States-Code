@@ -136,7 +136,7 @@
 | [2134\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20009%20%28IX%29%20-%20Atomic%20Energy%20Licenses/%C2%A7%2002134%20-%20Medical%2C%20industrial%2C%20and%20commercial%20licenses.md) | Medical, industrial, and commercial licenses. |
 | [2135\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20009%20%28IX%29%20-%20Atomic%20Energy%20Licenses/%C2%A7%2002135%20-%20Antitrust%20provisions%20governing%20licenses.md) | Antitrust provisions governing licenses. |
 | [2136\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20009%20%28IX%29%20-%20Atomic%20Energy%20Licenses/%C2%A7%2002136%20-%20Classes%20of%20facilities.md) | Classes of facilities. |
-| [2137\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20009%20%28IX%29%20-%20Atomic%20Energy%20Licenses/%C2%A7%2002137%20-%20Operators%E2%80%99%20licenses.md) | Operators’ licenses. |
+| [2137\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20009%20%28IX%29%20-%20Atomic%20Energy%20Licenses/%C2%A7%2002137%20-%20Operators%27%20licenses.md) | Operators' licenses. |
 | [2138\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20009%20%28IX%29%20-%20Atomic%20Energy%20Licenses/%C2%A7%2002138%20-%20Suspension%20of%20licenses%20during%20war%20or%20national%20emergency.md) | Suspension of licenses during war or national emergency. |
 | [2139\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20009%20%28IX%29%20-%20Atomic%20Energy%20Licenses/%C2%A7%2002139%20-%20Component%20and%20other%20parts%20of%20facilities.md) | Component and other parts of facilities. |
 | [2139a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20009%20%28IX%29%20-%20Atomic%20Energy%20Licenses/%C2%A7%2002139a%20-%20Regulations%20implementing%20requirements%20relating%20to%20licensing%20for%20components%20and%20other%20parts%20of%20facilities.md) | Regulations implementing requirements relating to licensing for components and other parts of facilities. |
@@ -319,7 +319,7 @@
 | [2286d.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286d%20-%20Board%20recommendations.md) | Board recommendations. |
 | [2286e.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286e%20-%20Reports.md) | Reports. |
 | [2286f.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286f%20-%20Judicial%20review.md) | Judicial review. |
-| [2286g.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286g%20-%20%E2%80%9CDepartment%20of%20Energy%20defense%20nuclear%20facility%E2%80%9D%20defined.md) | “Department of Energy defense nuclear facility” defined. |
+| [2286g.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286g%20-%20Department%20of%20Energy%20defense%20nuclear%20facility%20defined.md) | "Department of Energy defense nuclear facility" defined. |
 | [2286h.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286h%20-%20Contract%20authority%20subject%20to%20appropriations.md) | Contract authority subject to appropriations. |
 | 2286h–1. | Transmittal of certain information to Congress. |
 | [2286i.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286i%20-%20Annual%20authorization%20of%20appropriations.md) | Annual authorization of appropriations. |
@@ -454,6 +454,10 @@
 | 2297h–13. | Application of certain laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Codification
+
+The Atomic Energy Act of 1954, which is classified principally to this chapter, is act Aug. 1, 1946, ch. 724. It was originally enacted as the Atomic Energy Act of 1946, act Aug. 1, 1946, ch. 724, 60 Stat. 755, which consisted of sections 1 to 21 and was classified generally to chapter 14 (§1801 et seq.) of this title. The Atomic Energy Act of 1946 was renamed the Atomic Energy Act of 1954 and amended generally by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, and was subsequently transferred to this chapter. Sections that were enacted as part of the 1954 general amendment are shown herein as having been added to act Aug. 1, 1946, and not as amending it, due to the extensive revision and restatement of the 1946 Act's provisions by the 1954 Act. Sections added to the Act after the 1954 general amendment are shown as being added directly to act Aug. 1, 1946, without reference in their source credits to act Aug. 30, 1954.
 
 
 ---

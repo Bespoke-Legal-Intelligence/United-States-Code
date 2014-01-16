@@ -36,7 +36,7 @@ The Secretary shall—
 
 #### (e) Authorizations of appropriations
 
-For the purpose of carrying out this subpart, there are authorized to be appropriated $5,000,000for each of the fiscal years 1988 through 1990, $7,500,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993.
+For the purpose of carrying out this subpart, there are authorized to be appropriated $5,000,000 for each of the fiscal years 1988 through 1990, $7,500,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993.
 
 (July 1, 1944, ch. 373, title III, §397, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 980; amended Pub. L. 101–557, title I, §101(d), Nov. 15, 1990, 104 Stat. 2766.)
 
@@ -46,5 +46,5 @@ A prior section 397 of act July 1, 1944, ch. 373, title III, formerly §399, as 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (e). Pub. L. 101–557 substituted “there are” for “there is” and inserted before period at end “, $7,500,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–557 substituted "there are" for "there is" and inserted before period at end ", $7,500,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993".
 

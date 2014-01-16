@@ -14,7 +14,7 @@ In general.—The Attorney General may delegate the responsibility under this se
 
 &emsp;(2)
 
-Request for opinion of attorney general.—A department or agency of the Government that has been delegated the responsibility to approve land titles under this section may request the Attorney General to render an opinion as to the validity of the title to any real property or interest in the property, or may request the advice or assistance of the Attorney General in connection with determinations as to the sufficiency of titles.
+Request for opinion of attorney general.—A department or agency of the Government that has been delegated the responsibility to approve land titles under this section may request the Attorney General to renderan opinion as to the validity of the title to any real property or interest in the property, or may request the advice or assistance of the Attorney General in connection with determinations as to the sufficiency of titles.
 
 (c)
 
@@ -54,5 +54,5 @@ R.S. §355 (1st–5th pars.); June 28, 1930, ch. 710, 46 Stat. 828; Feb. 1, 1940
 
 40:255 (5th par.).
 
-In subsection (d), the words “in any manner” are omitted as unnecessary.
+In subsection (d), the words "in any manner" are omitted as unnecessary.
 

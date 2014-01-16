@@ -4,15 +4,15 @@ In this chapter—
 
 &emsp;(1)
 
-Agency of the united states.—The term “agency of the United States” means an executive department, independent establishment, or other agency or instrumentality of the United States, the District of Columbia, or a corporation in which all stock is beneficially owned by the Federal Government.
+Agency of the united states.—The term "agency of the United States" means an executive department, independent establishment, or other agency or instrumentality of the United States, the District of Columbia, or a corporation in which all stock is beneficially owned by the Federal Government.
 
 &emsp;(2)
 
-Person.—The term “person” includes one or more individuals, partnerships, associations, corporations, legal representatives, trustees, trustees in cases under title 11, or receivers.
+Person.—The term "person" includes one or more individuals, partnerships, associations, corporations, legal representatives, trustees, trustees in cases under title 11, or receivers.
 
 &emsp;(3)
 
-Secretary.—The term “Secretary” means the Secretary of Labor.
+Secretary.—The term "Secretary" means the Secretary of Labor.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3807.)
 
@@ -28,9 +28,9 @@ Historical and Revision Notes
 
 6501(1)
 
-41:35 (matter before subsec. (a) related to definition of “agency of the United States”).
+41:35 (matter before subsec. (a) related to definition of "agency of the United States").
 
-June 30, 1936, ch. 881, §1 (matter before subsec. (a) related to definition of “agency of the United States”), 49 Stat. 2036; Pub. L. 103–355, title VII, §7201(1), Oct. 13, 1994, 108 Stat. 3378.
+June 30, 1936, ch. 881, §1 (matter before subsec. (a) related to definition of "agency of the United States"), 49 Stat. 2036; Pub. L. 103–355, title VII, §7201(1), Oct. 13, 1994, 108 Stat. 3378.
 
 6501(2)
 
@@ -86,15 +86,15 @@ Sec. 5. <i>Scope</i>. (a) Any proposed rules issued pursuant to section 3 of thi
 
 (b) This order does not apply to a contract that is for the procurement of any product, or any article, material, or supply contained in a product that is mined, produced, or manufactured in any foreign country if:
 
-&emsp;(1) the foreign country is a party to the Agreement on Government Procurement annexed to the WTO Agreement or a party to the North American Free Trade Agreement (“NAFTA”); and
+&emsp;(1) the foreign country is a party to the Agreement on Government Procurement annexed to the WTO Agreement or a party to the North American Free Trade Agreement ("NAFTA"); and
 
 &emsp;(2) the contract is of a value that is equal to or greater than the United States threshold specified in the Agreement on Government Procurement annexed to the WTO Agreement or NAFTA, whichever is applicable.
 
-Sec. 6. <i>Definitions</i>. (a) “Executive agency” and “agency” have the meaning given to “executive agency” in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).
+Sec. 6. <i>Definitions</i>. (a) "Executive agency" and "agency" have the meaning given to "executive agency" in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).
 
-(b) “WTO Agreement” means the Agreement Establishing the World Trade Organization, entered into on April 15, 1994.
+(b) "WTO Agreement" means the Agreement Establishing the World Trade Organization, entered into on April 15, 1994.
 
-(c) “Forced or indentured child labor” means all work or service (1) exacted from any person under the age of 18 under the menace of any penalty for its nonperformance and for which the worker does not offer himself voluntarily; or (2) performed by any person under the age of 18 pursuant to a contract the enforcement of which can be accomplished by process or penalties.
+(c) "Forced or indentured child labor" means all work or service (1) exacted from any person under the age of 18 under the menace of any penalty for its nonperformance and for which the worker does not offer himself voluntarily; or (2) performed by any person under the age of 18 pursuant to a contract the enforcement of which can be accomplished by process or penalties.
 
 Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and does not create any rights or benefits, substantive or procedural, enforceable by law by a party against the United States, its agencies, its officers, or any other person.
 

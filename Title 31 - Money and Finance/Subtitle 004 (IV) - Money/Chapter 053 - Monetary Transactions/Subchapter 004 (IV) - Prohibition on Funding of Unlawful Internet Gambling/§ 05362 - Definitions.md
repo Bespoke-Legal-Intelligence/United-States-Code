@@ -4,7 +4,7 @@ In this subchapter:
 
 &emsp;(1)
 
-Bet or wager.—The term “bet or wager”—
+Bet or wager.—The term "bet or wager"—
 
 &emsp;&emsp;(A) means the staking or risking by any person of something of value upon the outcome of a contest of others, a sporting event, or a game subject to chance, upon an agreement or understanding that the person or another person will receive something of value in the event of a certain outcome;
 
@@ -54,35 +54,35 @@ Bet or wager.—The term “bet or wager”—
 
 &emsp;(2)
 
-Business of betting or wagering.—The term “business of betting or wagering” does not include the activities of a financial transaction provider, or any interactive computer service or telecommunications service.
+Business of betting or wagering.—The term "business of betting or wagering" does not include the activities of a financial transaction provider, or any interactive computer service or telecommunications service.
 
 &emsp;(3)
 
-Designated payment system.—The term “designated payment system” means any system utilized by a financial transaction provider that the Secretary and the Board of Governors of the Federal Reserve System, in consultation with the Attorney General, jointly determine, by regulation or order, could be utilized in connection with, or to facilitate, any restricted transaction.
+Designated payment system.—The term "designated payment system" means any system utilized by a financial transaction provider that the Secretary and the Board of Governors of the Federal Reserve System, in consultation with the Attorney General, jointly determine, by regulation or order, could be utilized in connection with, or to facilitate, any restricted transaction.
 
 &emsp;(4)
 
-Financial transaction provider.—The term “financial transaction provider” means a creditor, credit card issuer, financial institution, operator of a terminal at which an electronic fund transfer may be initiated, money transmitting business, or international, national, regional, or local payment network utilized to effect a credit transaction, electronic fund transfer, stored value product transaction, or money transmitting service, or a participant in such network, or other participant in a designated payment system.
+Financial transaction provider.—The term "financial transaction provider" means a creditor, credit card issuer, financial institution, operator of a terminal at which an electronic fund transfer may be initiated, money transmitting business, or international, national, regional, or local payment network utilized to effect a credit transaction, electronic fund transfer, stored value product transaction, or money transmitting service, or a participant in such network, or other participant in a designated payment system.
 
 &emsp;(5)
 
-Internet.—The term “Internet” means the international computer network of interoperable packet switched data networks.
+Internet.—The term "Internet" means the international computer network of interoperable packet switched data networks.
 
 &emsp;(6)
 
-Interactive computer service.—The term “interactive computer service” has the meaning given the term in section 230(f) of the Communications Act of 1934 (47 U.S.C. 230(f)).
+Interactive computer service.—The term "interactive computer service" has the meaning given the term in section 230(f) of the Communications Act of 1934 (47 U.S.C. 230(f)).
 
 &emsp;(7)
 
-Restricted transaction.—The term “restricted transaction” means any transaction or transmittal involving any credit, funds, instrument, or proceeds described in any paragraph of section 5363 which the recipient is prohibited from accepting under section 5363.
+Restricted transaction.—The term "restricted transaction" means any transaction or transmittal involving any credit, funds, instrument, or proceeds described in any paragraph of section 5363 which the recipient is prohibited from accepting under section 5363.
 
 &emsp;(8)
 
-Secretary.—The term “Secretary” means the Secretary of the Treasury.
+Secretary.—The term "Secretary" means the Secretary of the Treasury.
 
 &emsp;(9)
 
-State.—The term “State” means any State of the United States, the District of Columbia, or any commonwealth, territory, or other possession of the United States.
+State.—The term "State" means any State of the United States, the District of Columbia, or any commonwealth, territory, or other possession of the United States.
 
 &emsp;(10)
 
@@ -90,11 +90,11 @@ Unlawful internet gambling.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “unlawful Internet gambling” means to place, receive, or otherwise knowingly transmit a bet or wager by any means which involves the use, at least in part, of the Internet where such bet or wager is unlawful under any applicable Federal or State law in the State or Tribal lands in which the bet or wager is initiated, received, or otherwise made.
+In general.—The term "unlawful Internet gambling" means to place, receive, or otherwise knowingly transmit a bet or wager by any means which involves the use, at least in part, of the Internet where such bet or wager is unlawful under any applicable Federal or State law in the State or Tribal lands in which the bet or wager is initiated, received, or otherwise made.
 
 &emsp;&emsp;(B)
 
-Intrastate transactions.—The term “unlawful Internet gambling” does not include placing, receiving, or otherwise transmitting a bet or wager where—
+Intrastate transactions.—The term "unlawful Internet gambling" does not include placing, receiving, or otherwise transmitting a bet or wager where—
 
 &emsp;&emsp;&emsp;(i) the bet or wager is initiated and received or otherwise made exclusively within a single State;
 
@@ -108,7 +108,7 @@ Intrastate transactions.—The term “unlawful Internet gambling” does not in
 
 &emsp;&emsp;&emsp;&emsp;(I) the Interstate Horseracing Act of 1978 (15 U.S.C. 3001 et seq.);
 
-&emsp;&emsp;&emsp;&emsp;(II) chapter 178 of title 28 (commonly known as the “Professional and Amateur Sports Protection Act”);
+&emsp;&emsp;&emsp;&emsp;(II) chapter 178 of title 28 (commonly known as the "Professional and Amateur Sports Protection Act");
 
 &emsp;&emsp;&emsp;&emsp;(III) the Gambling Devices Transportation Act (15 U.S.C. 1171 et seq.); or
 
@@ -116,7 +116,7 @@ Intrastate transactions.—The term “unlawful Internet gambling” does not in
 
 &emsp;&emsp;(C)
 
-Intratribal transactions.—The term “unlawful Internet gambling” does not include placing, receiving, or otherwise transmitting a bet or wager where—
+Intratribal transactions.—The term "unlawful Internet gambling" does not include placing, receiving, or otherwise transmitting a bet or wager where—
 
 &emsp;&emsp;&emsp;(i) the bet or wager is initiated and received or otherwise made exclusively—
 
@@ -140,7 +140,7 @@ Intratribal transactions.—The term “unlawful Internet gambling” does not i
 
 &emsp;&emsp;&emsp;&emsp;(I) the Interstate Horseracing Act of 1978 (15 U.S.C. 3001 et seq.);
 
-&emsp;&emsp;&emsp;&emsp;(II) chapter 178 of title 28 (commonly known as the “Professional and Amateur Sports Protection Act”);
+&emsp;&emsp;&emsp;&emsp;(II) chapter 178 of title 28 (commonly known as the "Professional and Amateur Sports Protection Act");
 
 &emsp;&emsp;&emsp;&emsp;(III) the Gambling Devices Transportation Act (15 U.S.C. 1171 et seq.); or
 
@@ -152,7 +152,7 @@ Interstate horseracing.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The term “unlawful Internet gambling” shall not include any activity that is allowed under the Interstate Horseracing Act of 1978 (15 U.S.C. 3001 et seq.).
+In general.—The term "unlawful Internet gambling" shall not include any activity that is allowed under the Interstate Horseracing Act of 1978 (15 U.S.C. 3001 et seq.).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -172,11 +172,11 @@ Other terms.—
 
 &emsp;&emsp;(A)
 
-Credit; creditor; credit card; and card issuer.—The terms “credit”, “creditor”, “credit card”, and “card issuer” have the meanings given the terms in section 103 of the Truth in Lending Act (15 U.S.C. 1602).
+Credit; creditor; credit card; and card issuer.—The terms "credit", "creditor", "credit card", and "card issuer" have the meanings given the terms in section 103 of the Truth in Lending Act (15 U.S.C. 1602).
 
 &emsp;&emsp;(B)
 
-Electronic fund transfer.—The term “electronic fund transfer”—
+Electronic fund transfer.—The term "electronic fund transfer"—
 
 &emsp;&emsp;&emsp;(i) has the meaning given the term in section 903 of the Electronic Fund Transfer Act (15 U.S.C. 1693a), except that the term includes transfers that would otherwise be excluded under section 903(6)(E) of that Act; and
 
@@ -184,11 +184,11 @@ Electronic fund transfer.—The term “electronic fund transfer”—
 
 &emsp;&emsp;(C)
 
-Financial institution.—The term “financial institution” has the meaning given the term in section 903 of the Electronic Fund Transfer Act, except that such term does not include a casino, sports book, or other business at or through which bets or wagers may be placed or received.
+Financial institution.—The term "financial institution" has the meaning given the term in section 903 of the Electronic Fund Transfer Act, except that such term does not include a casino, sports book, or other business at or through which bets or wagers may be placed or received.
 
 &emsp;&emsp;(D)
 
-Insured depository institution.—The term “insured depository institution”—
+Insured depository institution.—The term "insured depository institution"—
 
 &emsp;&emsp;&emsp;(i) has the meaning given the term in section 3(c) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)); and
 
@@ -196,7 +196,7 @@ Insured depository institution.—The term “insured depository institution”�
 
 &emsp;&emsp;(E)
 
-Money transmitting business and money transmitting service.—The terms “money transmitting business” and “money transmitting service” have the meanings given the terms in section 5330(d) (determined without regard to any regulations prescribed by the Secretary thereunder).
+Money transmitting business and money transmitting service.—The terms "money transmitting business" and "money transmitting service" have the meanings given the terms in section 5330(d) (determined without regard to any regulations prescribed by the Secretary thereunder).
 
 (Added Pub. L. 109–347, title VIII, §802(a), Oct. 13, 2006, 120 Stat. 1953.)
 

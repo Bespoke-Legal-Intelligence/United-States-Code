@@ -26,7 +26,7 @@ Dependents Travel.—(1) In lieu of the entitlement of a member of the uniformed
 
 (c)
 
-Change of Home Port.—In any case in which a member of the uniformed services assigned to permanent duty aboard a ship that undergoes a change of home port to the port at which the ship is being constructed, the dependents of such member may be provided the transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by section 476 of this title and section 2634 of title 10.
+Change of Home Port.—In any case in which a member of the uniformed services assigned to permanent duty aboard a ship that undergoes a change of home port to the port at which the ship is being constructed, the dependents of such member may be provided the transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by section 476 of this title and section 2634 <sup>1</sup> of title 10.
 
 (d)
 
@@ -36,21 +36,27 @@ Application of Other Law.—Section 420 of this title does not apply with respec
 
 Termination.—No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 101–189, div. A, title VI, §624(a)(1), Nov. 29, 1989, 103 Stat. 1447, §406c; amended Pub. L. 102–190, div. A, title VI, §622, Dec. 5, 1991, 105 Stat. 1378; renumbered §476c and amended Pub.L. 112–81, div. A, title VI, §631(d)(2), (e)(9), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Added Pub. L. 101–189, div. A, title VI, §624(a)(1), Nov. 29, 1989, 103 Stat. 1447, §406c; amended Pub.L. 102–190, div. A, title VI, §622, Dec. 5, 1991, 105 Stat. 1378; renumbered §476c and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(9), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+
+#### References in Text
+
+Section 2634 of title 10, referred to in subsec. (c), was repealed by Pub. L. 113–66, div. A, title VI, §621(g)(1), Dec. 26, 2013, 127 Stat. 784.
 
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404” in concluding provisions of subsec. (a)(1) and in subsec. (b)(1) and “476” for “406” in subsec. (c).
+<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404" in concluding provisions of subsec. (a)(1) and in subsec. (b)(1) and "476" for "406" in subsec. (c).
 
 Pub. L. 112–81, §631(d)(2), renumbered section 406c of this title as this section.
 
 Subsec. (e). Pub. L. 112–81, §631(e)(9), added subsec. (e).
 
-<b>1991</b>—Subsec. (b)(1). Pub. L. 102–190 substituted “the designated home port of the ship, or the area where the dependents of the member are residing,” for “the location that was the home port of the ship before commencement of construction”.
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–190 substituted "the designated home port of the ship, or the area where the dependents of the member are residing," for "the location that was the home port of the ship before commencement of construction".
 
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

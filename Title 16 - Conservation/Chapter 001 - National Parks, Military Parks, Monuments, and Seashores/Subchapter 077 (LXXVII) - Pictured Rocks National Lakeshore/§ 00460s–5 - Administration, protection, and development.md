@@ -22,7 +22,7 @@ A scenic shoreline drive may not be constructed in the Pictured Rocks National L
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–378, §202(1), substituted “including appropriate improvements to Alger County Road H–58” for “including a scenic shoreline drive”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–378, §202(1), substituted "including appropriate improvements to Alger County Road H–58" for "including a scenic shoreline drive".
 
 Subsec. (c). Pub. L. 105–378, §202(2), added subsec. (c).
 

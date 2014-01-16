@@ -18,7 +18,7 @@
 
 &emsp;(2) If such position does not exist, or with his consent, the employee shall be placed in a vacant existing position, or in a new continuing position, for which he is qualified, available for the purposes of this section in the department concerned, in the same geographical area as, with rights and benefits equal to the rights and benefits of, and in a grade equal to the grade of, the position which he held immediately before his assignment to duty outside the United States.
 
-&emsp;(3) If the positions described in paragraph (1) and paragraph (2) do not exist, the employee shall be placed in an additional position which shall be established by the department concerned for a period not in excess of 90 days in order to carry out the purposes of this section. Such additional position shall be in the same geographical area as, with rights and benefits not less than the rights and benefits of, and in a grade not lower than the grade of, the position held by the employee immediately before his assignment to duty outside the United States.
+&emsp;(3) If the positions described in paragraph (1) and paragraph (2) do not exist, the employee shall be placed in an additional position which shall be established by the department concerned for a period not in excess of 90 days in order to carry out the purposes of this section. Such additional position shall be in the samegeographical area as, with rights and benefits not less than the rights and benefits of, and in a grade not lower than the grade of, the position held by the employee immediately before his assignment to duty outside the United States.
 
 &emsp;(4) If, within 90 days after his placement in a position under paragraph (3) a vacant existing position or new continuing position, for which the employee is qualified, is available for the purposes of this section in the department concerned, in the same geographical area as, with rights and benefits equal to the rights and benefits of, and in a grade equal to the grade of, the position which he held immediately before his assignment to duty outside the United States, the employee shall be placed in such vacant existing position or new continuing position.
 
@@ -36,9 +36,9 @@
 
 (g) In this section:
 
-&emsp;(1) The term “rotation” means the assignment of civilian employees referred to in subsection (b) to duty outside the United States and the return of such employees to duty within the United States.
+&emsp;(1) The term "rotation" means the assignment of civilian employees referred to in subsection (b) to duty outside the United States and the return of such employees to duty within the United States.
 
-&emsp;(2) The term “grade” means, as applicable, a grade of the General Schedule as prescribed in section 5104 of title 5 or a grade or level of the appropriate prevailing rate schedule.
+&emsp;(2) The term "grade" means, as applicable, a grade of the General Schedule as prescribed in section 5104 of title 5 or a grade or level of the appropriate prevailing rate schedule.
 
 (h) The Secretary of Defense may, under such regulations as he may prescribe, make the provisions of subsections (a) through (g) applicable to civilian employees of the Department of Defense who are residents of Guam, the Virgin Islands, or the Commonwealth of Puerto Rico at the time of their employment by the Department of Defense in the same manner as if the references in such subsections to the United States (when used in a geographical sense) were references to Guam, the Virgin Islands, or the Commonwealth of Puerto Rico, as the case may be.
 
@@ -46,39 +46,39 @@
 
 #### Amendments
 
-<b>1989</b>—Subsec. (g). Pub. L. 101–189, in introductory provisions, substituted “In this section:” for “For the purposes of this section—”, in par. (1), inserted “The term” before “ ‘rotation’ ” and substituted the period for “; and”, and in par. (2), inserted “The term” before “ ‘grade’ ”.
+<b>1989</b>—Subsec. (g). Pub. L. 101–189, in introductory provisions, substituted "In this section:" for "For the purposes of this section—", in par. (1), inserted "The term" before " 'rotation' " and substituted the period for "; and", and in par. (2), inserted "The term" before " 'grade' ".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–525, §1405(29)(A)(iii), in provisions following par. (3) struck out “of this subsection” after “paragraphs (2) and (3)”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–525, §1405(29)(A)(iii), in provisions following par. (3) struck out "of this subsection" after "paragraphs (2) and (3)".
 
-Subsec. (b)(3). Pub. L. 98–525, §1405(29)(A)(i), (ii), substituted “30” for “thirty” and struck out “of this section” after “subsection (c)”.
+Subsec. (b)(3). Pub. L. 98–525, §1405(29)(A)(i), (ii), substituted "30" for "thirty" and struck out "of this section" after "subsection (c)".
 
-Subsec. (c). Pub. L. 98–525, §1405(29)(B)(i), in provisions preceding par. (1) substituted “30” for “thirty”.
+Subsec. (c). Pub. L. 98–525, §1405(29)(B)(i), in provisions preceding par. (1) substituted "30" for "thirty".
 
-Subsec. (c)(3). Pub. L. 98–525, §1405(29)(B)(ii), (iv), substituted “90 days” for “ninety days” and struck out “of this subsection” after “paragraph (2)”.
+Subsec. (c)(3). Pub. L. 98–525, §1405(29)(B)(ii), (iv), substituted "90 days" for "ninety days" and struck out "of this subsection" after "paragraph (2)".
 
-Subsec. (c)(4). Pub. L. 98–525, §1405(29)(B)(ii), (iv), substituted “90 days” for “ninety days” and struck out “of this subsection” after “paragraph (3)”.
+Subsec. (c)(4). Pub. L. 98–525, §1405(29)(B)(ii), (iv), substituted "90 days" for "ninety days" and struck out "of this subsection" after "paragraph (3)".
 
-Subsec. (c)(5). Pub. L. 98–525, §1405(29)(B)(iii)–(v), substituted “90-day” for “ninety-day”, struck out “of this subsection” after “paragraphs (3) and (4)”, and struck out “such” before “paragraph (4)”.
+Subsec. (c)(5). Pub. L. 98–525, §1405(29)(B)(iii)–(v), substituted "90-day" for "ninety-day", struck out "of this subsection" after "paragraphs (3) and (4)", and struck out "such" before "paragraph (4)".
 
-Subsec. (c)(6). Pub. L. 98–525, §1405(29)(B)(vi), struck out “of this subsection” after “paragraph (1)” and “of this subsection,” after “as applicable,”.
+Subsec. (c)(6). Pub. L. 98–525, §1405(29)(B)(vi), struck out "of this subsection" after "paragraph (1)" and "of this subsection," after "as applicable,".
 
-Subsec. (d). Pub. L. 98–525, §1405(29)(C), struck out “of this section” after “subsection (c)”.
+Subsec. (d). Pub. L. 98–525, §1405(29)(C), struck out "of this section" after "subsection (c)".
 
-Subsec. (e)(1). Pub. L. 98–525, §1405(29)(C), struck out “of this section” after “subsection (c)(1)”.
+Subsec. (e)(1). Pub. L. 98–525, §1405(29)(C), struck out "of this section" after "subsection (c)(1)".
 
-Subsec. (e)(2). Pub. L. 98–525, §1405(29)(D), struck out “of this subsection” after “paragraph (1)”.
+Subsec. (e)(2). Pub. L. 98–525, §1405(29)(D), struck out "of this subsection" after "paragraph (1)".
 
-Subsec. (g)(1). Pub. L. 98–525, §1405(29)(C), struck out “of this section” after “subsection (b)”.
+Subsec. (g)(1). Pub. L. 98–525, §1405(29)(C), struck out "of this section" after "subsection (b)".
 
-<b>1982</b>—Subsecs. (d), (e)(1). Pub. L. 97–295 substituted “pay” for “compensation” wherever appearing.
+<b>1982</b>—Subsecs. (d), (e)(1). Pub. L. 97–295 substituted "pay" for "compensation" wherever appearing.
 
-<b>1980</b>—Subsecs. (c)(5), (e)(2). Pub. L. 96–513 substituted “Office of Personnel Management” for “United States Civil Service Commission”.
+<b>1980</b>—Subsecs. (c)(5), (e)(2). Pub. L. 96–513 substituted "Office of Personnel Management" for "United States Civil Service Commission".
 
 Subsec. (h). Pub. L. 96–600 added subsec. (h).
 
-<b>1967</b>—Subsec. (g)(2). Pub. L. 90–83 substituted “General Schedule as prescribed in section 5104 of title 5” for “compensation schedule for the General Schedule of the Classification Act of 1949, as amended,”.
+<b>1967</b>—Subsec. (g)(2). Pub. L. 90–83 substituted "General Schedule as prescribed in section 5104 of title 5" for"compensation schedule for the General Schedule of the Classification Act of 1949, as amended,".
 
-<b>1966</b>—Pub. L. 89–718 substituted “sections 3501–3503 of title 5” for “section 12 of the Act of June 27, 1944 (5 U.S.C. 861)” wherever appearing.
+<b>1966</b>—Pub. L. 89–718 substituted "sections 3501–3503 of title 5" for "section 12 of the Act of June 27, 1944 (5 U.S.C. 861)" wherever appearing.
 
 #### Effective Date of 1980 Amendment
 

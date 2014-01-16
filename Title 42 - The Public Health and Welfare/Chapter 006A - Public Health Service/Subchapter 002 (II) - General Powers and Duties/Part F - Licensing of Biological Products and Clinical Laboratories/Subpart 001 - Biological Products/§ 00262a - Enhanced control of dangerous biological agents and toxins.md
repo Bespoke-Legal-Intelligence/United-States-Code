@@ -46,7 +46,7 @@ The Secretary shall by regulation provide for—
 
 #### (c) Possession and use of listed agents and toxins
 
-The Secretary shall by regulation provide for the establishment and enforcement of standards and procedures governing the possession and use of listed agents and toxins, including the provisions described in paragraphs (1) through (4) ofsubsection (b) of this section, in order to protect the public health and safety.
+The Secretary shall by regulation provide for the establishment and enforcement of standards and procedures governing the possession and use of listed agents and toxins, including the provisions described in paragraphs (1) through (4) of subsection (b) of this section, in order to protect the public health and safety.
 
 #### (d) Registration; identification; database
 
@@ -70,7 +70,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 &emsp;&emsp;(A) provide access to listed agents and toxins to only those individuals whom the registered person involved determines have a legitimate need to handle or use such agents and toxins;
 
-&emsp;&emsp;(B) submit the names and other identifying information for such individuals to the Secretary and the Attorney General, promptly after first determining that the individuals need access under subparagraph (A), and periodically thereafter while the individuals have such access, not less frequently than once every five years;
+&emsp;&emsp;(B) submit the names and other identifying information for such individuals to theSecretary and the Attorney General, promptly after first determining that the individuals need access under subparagraph (A), and periodically thereafter while the individuals have such access, not less frequently than once every five years;
 
 &emsp;&emsp;(C) deny access to such agents and toxins by individuals whom the Attorney General has identified as restricted persons; and
 
@@ -168,7 +168,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (1) Clinical or diagnostic laboratories
 
-&emsp;Regulations under subsections (b) and (c) of this section shall exempt clinical or diagnostic laboratories and other persons who possess, use, or transfer listed agents or toxins that arecontained in specimens presented for diagnosis, verification, or proficiency testing, provided that—
+&emsp;Regulations under subsections (b) and (c) of this section shall exempt clinical or diagnostic laboratories and other persons who possess, use, or transfer listed agents or toxins that are contained in specimens presented for diagnosis, verification, or proficiency testing, provided that—
 
 &emsp;&emsp;(A) the identification of such agents or toxins is reported to the Secretary, and when required under Federal, State, or local law, to other appropriate authorities; and
 
@@ -188,7 +188,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;&emsp;&emsp;(ii) Section 262 of this title.
 
-&emsp;&emsp;&emsp;(iii) The Act commonly known as the Virus-Serum-Toxin Act (the eighth paragraph under the heading “Bureau of Animal Industry” in the Act of March 4, 1913; 21 U.S.C. 151–159).
+&emsp;&emsp;&emsp;(iii) The Act commonly known as the Virus-Serum-Toxin Act (the eighth paragraph under the heading "Bureau of Animal Industry" in the Act of March 4, 1913; 21 U.S.C. 151–159).
 
 &emsp;&emsp;&emsp;(iv) The Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\].
 
@@ -228,7 +228,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;&emsp;(D) Any notification of a release of a listed agent or toxin submitted under subsections (b) and (c) of this section, or any notification of theft or loss submitted under such subsections.
 
-&emsp;&emsp;(E) Any portion of an evaluation or report of an inspection of a specific registered person conducted under subsection (f) of thissection that identifies the listed agent or toxin possessed by a specific registered person or that discloses the identity or location of a specific registered person if the agency determines that public disclosure of the information would endanger public health or safety.
+&emsp;&emsp;(E) Any portion of an evaluation or report of an inspection of a specific registered person conducted under subsection (f) of this section that identifies the listed agent or toxin possessed by a specific registered person or that discloses the identity or location of a specific registered person if the agency determines that public disclosure of the information would endanger public health or safety.
 
 #### (2) Covered agencies
 
@@ -256,7 +256,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;&emsp;(C) general safeguard and security policies and requirements under regulations under subsections (b) and (c) of this section; or
 
-&emsp;&emsp;(D) summary or statistical information concerning registrations, registrants, denials or revocations of registrations, listed agents and toxins, inspection evaluations and reports, or individuals seeking access to such agents and toxins.
+&emsp;&emsp;(D) summary or statistical information concerning registrations, registrants, denials or revocations of registrations, listedagents and toxins, inspection evaluations and reports, or individuals seeking access to such agents and toxins.
 
 #### (5) Disclosures to Congress; other disclosures
 
@@ -288,29 +288,29 @@ The Secretary shall report to the Congress annually on the number and nature of 
 
 For purposes of this section:
 
-&emsp;(1) The terms “biological agent” and “toxin” have the meanings given such terms in section 178 of title 18.
+&emsp;(1) The terms "biological agent" and "toxin" have the meanings given such terms in section 178 of title 18.
 
-&emsp;(2) The term “listed agents and toxins” means biological agents and toxins listed pursuant to subsection (a)(1) of this section.
+&emsp;(2) The term "listed agents and toxins" means biological agents and toxins listed pursuant to subsection (a)(1) of this section.
 
-&emsp;(3) The term “listed agents or toxins” means biological agents or toxins listed pursuant to subsection (a)(1) of this section.
+&emsp;(3) The term "listed agents or toxins" means biological agents or toxins listed pursuant to subsection (a)(1) of this section.
 
-&emsp;(4) The term “overlap agents and toxins” means biological agents and toxins that—
+&emsp;(4) The term "overlap agents and toxins" means biological agents and toxins that—
 
 &emsp;&emsp;(A) are listed pursuant to subsection (a)(1) of this section; and
 
 &emsp;&emsp;(B) are listed pursuant to section 8401(a)(1) of title 7.
 
-&emsp;(5) The term “overlap agent or toxin” means a biological agent or toxin that—
+&emsp;(5) The term "overlap agent or toxin" means a biological agent or toxin that—
 
 &emsp;&emsp;(A) is listed pursuant to subsection (a)(1) of this section; and
 
 &emsp;&emsp;(B) is listed pursuant to section 8401(a)(1) of title 7.
 
-&emsp;(6) The term “person” includes Federal, State, and local governmental entities.
+&emsp;(6) The term "person" includes Federal, State, and local governmental entities.
 
-&emsp;(7) The term “registered person” means a person registered under regulations under subsection (b) or (c) of this section.
+&emsp;(7) The term "registered person" means a person registered under regulations under subsection (b) or (c) of this section.
 
-&emsp;(8) The term “restricted person” has the meaning given such term in section 175b of title 18.
+&emsp;(8) The term "restricted person" has the meaning given such term in section 175b of title 18.
 
 #### (m) Authorization of appropriations
 
@@ -322,7 +322,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec.(g)(2)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(2)(B)(iii), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
+The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(2)(B)(iii), is the eighth paragraph under the heading "Bureau of Animal Industry" of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2)(B)(iv), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
@@ -330,27 +330,27 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (i)(2), i
 
 #### Amendments
 
-<b>2002</b>—Subsec. (e)(1). Pub. L. 107–296 substituted “collaboration with the Secretary of Homeland Security and” for “consultation with”.
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–296 substituted "collaboration with the Secretary of Homeland Security and" for "consultation with".
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date
 
-Pub. L. 107–188, title II, §203(b), June 12, 2002, 116 Stat. 647, provided that: “Subsection (h) of section 351A of the Public Health Service Act \[subsec. (h) of this section\], as added by section 201 of this Act, is deemed to have taken effect on the effective date of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, Apr. 24, 1996, 110 Stat. 1214\].”
+Pub. L. 107–188, title II, §203(b), June 12, 2002, 116 Stat. 647, provided that: "Subsection (h) of section 351A of the Public Health Service Act \[42 U.S.C. 262a(h)\], as added by section 201 of this Act, is deemed to have taken effect on the effective date of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, Apr. 24, 1996, 110 Stat. 1214\]."
 
 #### Regulations
 
-Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: “Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, set out as a note under section 262 of this title\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[this section\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\].”
+Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: "Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, 42 U.S.C. 262 note\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[42 U.S.C. 262a\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\]."
 
 #### National Science Advisory Board for Biosecurity
 
-Pub. L. 109–417, title II, §205, Dec. 19, 2006, 120 Stat. 2851, provided that: “The National Science Advisory Board for Biosecurity shall, when requested by the Secretary of Health and Human Services, provide to relevant Federal departments and agencies, advice, guidance, or recommendations concerning—
+Pub. L. 109–417, title II, §205, Dec. 19, 2006, 120 Stat. 2851, provided that: "The National Science Advisory Board for Biosecurity shall, when requested by the Secretary of Health and Human Services, provide to relevant Federal departments and agencies, advice, guidance, or recommendations concerning—
 
-&emsp;“(1) a core curriculum and training requirements for workers in maximum containment biological laboratories; and
+&emsp;"(1) a core curriculum and training requirements for workers in maximum containment biological laboratories; and
 
-&emsp;“(2) periodic evaluations of maximum containment biological laboratory capacity nationwide and assessments of the future need for increased laboratory capacity.”
+&emsp;"(2) periodic evaluations of maximum containment biological laboratory capacity nationwide and assessments of the future need for increased laboratory capacity."
 
 #### Report to Congress
 
@@ -360,21 +360,21 @@ Pub. L. 107–188, title II, §201(b), June 12, 2002, 116 Stat. 646, required th
 
 Pub. L. 107–188, title II, §202, June 12, 2002, 116 Stat. 646, provided that:
 
-“(a)
+"(a)
 
-Date Certain for Notice of Possession.—Not later than 90 days after the date of the enactment of this Act \[June 12, 2002\], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act \[subsec. (g) of this section\], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351A of the Public Health Service Act \[this section\] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary.
+Date Certain for Notice of Possession.—Not later than 90 days after the date of the enactment of this Act \[June 12, 2002\], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act \[42 U.S.C. 262a(g)\], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351A of the Public Health Service Act \[42 U.S.C. 262a\] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary.
 
-“(b)
+"(b)
 
-Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties.—Not later than 180 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate an interim final rule for carrying out section 351A of the Public Health Service Act \[this section\], subject to subsection (c). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—
+Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties.—Not later than 180 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate an interim final rule for carrying out section 351A of the Public Health Service Act \[42 U.S.C. 262a\], subject to subsection (c). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—
 
-&emsp;“(1) section 175b(c) of title 18, United States Code (relating to criminal penalties), as added by section 231(a)(5) of this Act; and
+&emsp;"(1) section 175b(c) of title 18, United States Code (relating to criminal penalties), as added by section 231(a)(5) of this Act; and
 
-&emsp;“(2) section 351A(i) of the Public Health Service Act \[subsec. (i) of this section\] (relating to civil penalties).
+&emsp;"(2) section 351A(i) of the Public Health Service Act \[42 U.S.C. 262a(i)\] (relating to civil penalties).
 
-“(c)
+"(c)
 
-Transitional Provision Regarding Current Research and Education.—The interim final rule under subsection (b) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act \[subsec. (a)(1) of this section\] and that were underway as of the effective date of such rule.”
+Transitional Provision Regarding Current Research and Education.—The interim final rule under subsection (b) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act \[42 U.S.C. 262a(a)(1)\] and that were underway as of the effective date of such rule."
 
 #### Ex. Ord. No. 13546. Optimizing the Security of Biological Select Agents and Toxins in the United States
 
@@ -390,21 +390,21 @@ Section 1. <i>Policy</i>. It is the policy of the United States that:
 
 (c) Security measures shall be taken in a coordinated manner that balances their efficacy with the need to minimize the adverse impact on the legitimate use of BSAT.
 
-Sec. 2. <i>Definitions</i>. (a) “Select Agent Program” (SAP) means the regulatory oversight and administrative activities conducted by the Secretaries of Health and Human Services and Agriculture and the Attorney General to implement the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 and the Agricultural Bioterrorism Protection Act of 2002.
+Sec. 2. <i>Definitions</i>. (a) "Select Agent Program" (SAP) means the regulatory oversight and administrative activities conducted by the Secretaries of Health and Human Services and Agriculture and the Attorney General to implement the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 and the Agricultural Bioterrorism Protection Act of 2002.
 
-(b) “Select Agent Regulations” (SAR) means the Federal regulations found in Part 73 of Title 42 of the Code of Federal Regulations, Part 331 of Title 7 of the Code of Federal Regulations, and Part 121 of Title 9 of the Code of Federal Regulations.
+(b) "Select Agent Regulations" (SAR) means the Federal regulations found in Part 73 of Title 42 of the Code of Federal Regulations, Part 331 of Title 7 of the Code of Federal Regulations, and Part 121 of Title 9 of the Code of Federal Regulations.
 
-(c) “Biological Select Agents and Toxins” means biological agents and toxins with the potential to pose a severe threat to public health and safety, animal and plant health, or animal and plant products and whose possession, use, and transfer are regulated by the Department of Health and Human Services and the Department of Agriculture under the SAR.
+(c) "Biological Select Agents and Toxins" means biological agents and toxins with the potential to pose a severe threat to public health and safety, animal and plant health, or animal and plant products and whose possession, use, and transfer are regulated by the Department of Health and Human Services and the Department of Agriculture under the SAR.
 
 Sec. 3. <i>Findings</i>. (a) The use of BSAT presents the risk that BSAT might be lost, stolen, or diverted for malicious purpose. The SAP exists to provide effective regulatory oversight of the possession, use, and transfer of BSAT that reduces the risk of their misuse or mishandling. The absence of clearly defined, risk-based security measures in the SAR/SAP has raised concern about the need for optimized security and for risk management.
 
-(b) In addition, variations in, and limited coordination of, individual executive departments’ and agencies’ oversight, security practices, and inspections have raised concerns that the cost and complexity of compliance for those who are registered to work with BSAT could discourage research or other legitimate activities.
+(b) In addition, variations in, and limited coordination of, individual executive departments' and agencies' oversight, security practices, and inspections have raised concerns that the cost and complexity of compliance for those who are registered to work with BSAT could discourage research or other legitimate activities.
 
 (c) Understanding that research and laboratory work on BSAT is essential to both public health and national security, it is in the interest of the United States to address these issues.
 
-Sec. 4. <i>Risk-based Tiering of the Select Agent List</i>. To help ensure that BSAT are secured according to level of risk, the Secretaries of Health and Human Services and Agriculture shall, through their ongoing review of the biological Select Agents and Toxins List (“Select Agent List”) contained in regulations, and no later than 18 months from the date of this order:
+Sec. 4. <i>Risk-based Tiering of the Select Agent List</i>. To help ensure that BSAT are secured according to level of risk, the Secretaries of Health and Human Services and Agriculture shall, through their ongoing review of the biological Select Agents and Toxins List ("Select Agent List") contained in regulations, and no later than 18 months from the date of this order:
 
-(a) designate a subset of the Select Agent List (Tier 1) that presents the greatest risk of deliberate misuse with most significant potential for mass casualties or devastating effects to the economy, critical infrastructure, or public confidence;
+(a) designate a subset of the Select Agent List (Tier 1) that presents the greatest risk of deliberate misuse with most significant potential for mass casualties ordevastating effects to the economy, critical infrastructure, or public confidence;
 
 (b) explore options for graded protection of Tier 1 agents and toxins as described in subsection (a) of this section to permit tailored risk management practices based upon relevant contextual factors; and
 
@@ -504,7 +504,7 @@ Sec. 9. <i>General Provisions</i>. (a) The National Security Staff shall, on a b
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be “judicial”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "judicial".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "section".</i>
 

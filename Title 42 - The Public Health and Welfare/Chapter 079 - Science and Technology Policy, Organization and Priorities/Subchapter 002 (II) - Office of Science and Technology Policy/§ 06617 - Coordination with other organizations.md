@@ -24,7 +24,7 @@ Upon request, the Administrator of the National Aeronautics and Space Administra
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–296 inserted “the Office of Homeland Security,” after “the National Security Council,”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–296 inserted "the Office of Homeland Security," after "the National Security Council,".
 
 #### Effective Date of 2002 Amendment
 

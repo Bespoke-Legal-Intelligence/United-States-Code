@@ -12,7 +12,7 @@ Covered Purpose.—The purpose referred to in subsection (a) is the purpose of a
 
 (c)
 
-Definition.—In this section, the term “DNA sample” has the meaning given such term in section 1565(c) of this title.
+Definition.—In this section, the term "DNA sample" has the meaning given such term in section 1565(c) of this title.
 
 (Added Pub. L. 107–314, div. A, title X, §1063(a), Dec. 2, 2002, 116 Stat. 2653.)
 

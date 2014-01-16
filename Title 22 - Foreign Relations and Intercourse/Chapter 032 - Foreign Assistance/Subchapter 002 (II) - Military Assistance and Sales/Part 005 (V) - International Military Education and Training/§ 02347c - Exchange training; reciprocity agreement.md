@@ -10,15 +10,17 @@ The President may provide for the attendance of foreign military and civilian de
 
 #### (c) Post-undergraduate flying training and tactical leadership programs at training locations in Southwest Asia
 
-(1) The President is authorized to enter into cooperative arrangements providing for the participation of foreign and United States militaryand civilian defense personnel in post-undergraduate flying training and tactical leadership programs at training locations in Southwest Asia without charge to participating foreign countries, and without charge to funds available to carry out this part (notwithstanding section 2392(d) of this title). Such training must satisfy common requirements with the United States for post-undergraduate flying and tactical leadership training.
+(1) The President is authorized to enter into cooperative arrangements providing for the participation of foreign and United States military and civilian defense personnel in post-undergraduate flying training and tactical leadership programs and integrated air and missile defense programs at training locations in Southwest Asia without charge to participating foreign countries, and without charge to funds available to carry out this part (notwithstanding section 2392(d) of this title). Such training must satisfy common requirements with the United States for post-undergraduate flying and tactical leadership training and integrated air and missile defense training.
 
 (2) Cooperative arrangements under this subsection shall require an equitable contribution of support and services from each participating country. The President may waive the requirement for an equitable contribution of a participating foreign country if he determines that to do so is important to the national security interests of the United States.
 
 (3) Costs incurred by the United States shall be charged to the current applicable appropriations accounts or funds of the participating United States Government agencies.
 
-(Pub. L. 87–195, pt. II, §544, as added Pub. L. 99–83, title I, §126, Aug. 8, 1985, 99 Stat. 205; amended Pub. L. 104–164, title I, §112(b), July 21, 1996, 110 Stat. 1427; Pub. L. 107–228, div. B, title XII, §1213, Sept. 30, 2002, 116 Stat. 1429.)
+(Pub. L. 87–195, pt. II, §544, as added Pub. L. 99–83, title I, §126, Aug. 8, 1985, 99 Stat. 205; amended Pub. L. 104–164, title I, §112(b), July 21, 1996, 110 Stat. 1427; Pub. L. 107–228, div. B, title XII, §1213, Sept. 30, 2002, 116 Stat. 1429; Pub. L. 113–66, div. A, title XII, §1233, Dec. 26, 2013, 127 Stat. 920.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(1). Pub. L. 113–66 inserted "and integrated air and missile defense programs" after "tactical leadership programs" and "and integrated air and missile defense training" after "tactical leadership training".
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–228 added subsec. (c).
 
@@ -36,11 +38,11 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 Pub. L. 101–189, div. A, title IX, §935, Nov. 29, 1989, 103 Stat. 1538, provided that:
 
-“(a)
+"(a)
 
 Authority.—The United States Army Russian Institute in Garmisch-Partenkirchen, Federal Republic of Germany, shall be treated for purposes of section 544 of the Foreign Assistance Act of 1961 (22 U.S.C. 2347c) as if it were located in the United States.
 
-“(b)
+"(b)
 
-Expiration of Authority.—Subsection (a) shall cease to be in effect upon the enactment in foreign assistance authorizing legislation of an amendment to section 544 of the Foreign Assistance Act of 1961 that provides the same authority as is provided by subsection (a).”
+Expiration of Authority.—Subsection (a) shall cease to be in effect upon the enactment in foreign assistance authorizing legislation of an amendment to section 544 of the Foreign Assistance Act of 1961 that provides the same authority as is provided by subsection (a)."
 

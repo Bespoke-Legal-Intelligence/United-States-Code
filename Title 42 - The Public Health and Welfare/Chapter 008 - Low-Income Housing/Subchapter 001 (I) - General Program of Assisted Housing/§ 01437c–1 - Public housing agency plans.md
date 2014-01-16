@@ -36,15 +36,15 @@
 
 &emsp;&emsp;&emsp;(i) the requirement under paragraph (1) shall not apply to any qualified public housing agency; and
 
-&emsp;&emsp;&emsp;(ii) except as provided in subsection (e)(4)(B), any reference in this section or any other provision of law to a “public housing agency” shall not be considered to refer to any qualified public housing agency, to the extent such reference applies to the requirement to submit an annual public housing agency plan under this subsection.
+&emsp;&emsp;&emsp;(ii) except as provided in subsection (e)(4)(B), any reference in this section or any other provision of law to a "public housing agency" shall not be considered to refer to any qualified public housing agency, to the extent such reference applies to the requirement to submit an annual public housing agency plan under this subsection.
 
 #### (B) Civil rights certification
 
-&emsp;&emsp;Notwithstanding that qualified public housing agencies are exempt under subparagraph (A) from the requirement under this section to prepare and submit an annual public housing plan, each qualified public housing agency shall, on an annual basis, make the certification described in paragraph (16) of subsection (d), except that for purposes of such qualified public housing agencies, such paragraph shall be applied by substituting “the public housing program of the agency” for “the public housing agency plan”.
+&emsp;&emsp;Notwithstanding that qualified public housing agencies are exempt under subparagraph (A) from the requirement under this section to prepare and submit an annual public housing plan, each qualified public housing agency shall, on an annual basis, make the certification described in paragraph (16) of subsection (d), except that for purposes of such qualified public housing agencies, such paragraph shall be applied by substituting "the public housing program of the agency" for "the public housing agency plan".
 
 #### (C) Definition
 
-&emsp;&emsp;For purposes of this section, the term “qualified public housing agency” means a public housing agency that meets the following requirements:
+&emsp;&emsp;For purposes of this section, the term "qualified public housing agency" means a public housing agency that meets the following requirements:
 
 &emsp;&emsp;&emsp;(i) The sum of (I) the number of public housing dwelling units administered by the agency, and (II) the number of vouchers under section 1437f(o) of this title administered by the agency, is 550 or fewer.
 
@@ -212,7 +212,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (B) Applicability of waiver authority
 
-&emsp;&emsp;Paragraph (3) shall apply to qualified public housing agencies, except that for purposes of such qualified public housing agencies, subparagraph (B) of such paragraph shall be applied by substituting “the functions described in the second sentence ofparagraph (4)(A)” for “the functions described in paragraph (2)”.
+&emsp;&emsp;Paragraph (3) shall apply to qualified public housing agencies, except that for purposes of such qualified public housing agencies, subparagraph (B) of such paragraph shall be applied by substituting "the functions described in the second sentence ofparagraph (4)(A)" for "the functions described in paragraph (2)".
 
 #### (f) Public hearings
 
@@ -386,7 +386,7 @@ Subsec. (f). Pub. L. 110–289, §2702(b)(1), inserted subsec. designation and h
 
 Subsec. (f)(5). Pub. L. 110–289, §2702(b)(2), added par. (5).
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162, §603(1)(A), substituted “paragraph (3)” for “paragraph (2)”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162, §603(1)(A), substituted "paragraph (3)" for "paragraph (2)".
 
 Subsec. (a)(2), (3). Pub. L. 109–162, §603(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
@@ -394,55 +394,55 @@ Subsec. (d)(13) to (19). Pub. L. 109–162, §603(2), (3), added par. (13) and r
 
 #### Effective Date
 
-Pub. L. 105–276, title V, §511(e), Oct. 21, 1998, 112 Stat. 2539, provided that: “This section \[enacting this section, amending section 1437d of this title, and enacting provisions set out as notes under this section\] shall take effect, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §511(e), Oct. 21, 1998, 112 Stat. 2539, provided that: "This section \[enacting this section, amending section 1437d of this title, and enacting provisions set out as notes under this section\] shall take effect, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
 
 #### Regulations
 
 Pub. L. 105–276, title V, §511(b), Oct. 21, 1998, 112 Stat. 2538, provided that:
 
-“(1)
+"(1)
 
 Interim rule.—Not later than 120 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue an interim rule to require the submission of an interim public housing agency plan by each public housing agency, as required by section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section). The interim rule shall provide for a public comment period of not less than 60 days.
 
-“(2)
+"(2)
 
 Final regulations.—Not later than 1 year after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue final regulations implementing section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section).
 
-“(3)
+"(3)
 
 Factors for consideration.—Before the publication of the final regulations under paragraph (2), in addition to public comments invited in connection with the publication of the interim rule, the Secretary shall—
 
-&emsp;“(A) seek recommendations on the implementation of section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by this \[sic\] subsection (a) of this section) from organizations representing—
+&emsp;"(A) seek recommendations on the implementation of section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by this \[sic\] subsection (a) of this section) from organizations representing—
 
-&emsp;&emsp;“(i) State or local public housing agencies;
+&emsp;&emsp;"(i) State or local public housing agencies;
 
-&emsp;&emsp;“(ii) residents, including resident management corporations; and
+&emsp;&emsp;"(ii) residents, including resident management corporations; and
 
-&emsp;&emsp;“(iii) other appropriate parties; and
+&emsp;&emsp;"(iii) other appropriate parties; and
 
-&emsp;“(B) convene not less than 2 public forums at which the persons or organizations making recommendations under subparagraph (A) may express views concerning the proposed disposition of the recommendations.
+&emsp;"(B) convene not less than 2 public forums at which the persons or organizations making recommendations under subparagraph (A) may express views concerning the proposed disposition of the recommendations.
 
-> The Secretary shall publish in the final rule a summary of the recommendations made and public comments received and the Department of Housing and Urban Development's response to such recommendations and comments.”
+> The Secretary shall publish in the final rule a summary of the recommendations made and public comments received and the Department of Housing and Urban Development's response to such recommendations and comments."
 
 #### Audit and Review; Report
 
 Pub. L. 105–276, title V, §511(c), Oct. 21, 1998, 112 Stat. 2538, provided that:
 
-“(1)
+"(1)
 
 Audit and review.—Not later than 1 year after the effective date of final regulations issued under subsection (b)(2) \[set out as a note above\], in order to determine the degree of compliance, by public housing agencies, with public housing agency plans approved under section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section), the Comptroller General of the United States shall conduct—
 
-&emsp;“(A) a review of a representative sample of the public housing agency plans approved under such section 5A before such date; and
+&emsp;"(A) a review of a representative sample of the public housing agency plans approved under such section 5A before such date; and
 
-&emsp;“(B) an audit and review of the public housing agencies submitting such plans.
+&emsp;"(B) an audit and review of the public housing agencies submitting such plans.
 
-“(2)
+"(2)
 
 Report.—Not later than 2 years after the date on which public housing agency plans are initially required to be submitted under section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section) the Comptroller General of the United States shall submit to the Congress a report, which shall include—
 
-&emsp;“(A) a description of the results of each audit and review under paragraph (1); and
+&emsp;"(A) a description of the results of each audit and review under paragraph (1); and
 
-&emsp;“(B) any recommendations for increasing compliance by public housing agencies with their public housing agency plans approved under section 5A of the United States Housing Act of 1937 (as added by subsection (a) of this section).”
+&emsp;"(B) any recommendations for increasing compliance by public housing agencies with their public housing agency plans approved under section 5A of the United States Housing Act of 1937 (as added by subsection (a) of this section)."
 
-<i><sup>1</sup></i><i> So in original. The word “that” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "that" probably should not appear.</i>
 

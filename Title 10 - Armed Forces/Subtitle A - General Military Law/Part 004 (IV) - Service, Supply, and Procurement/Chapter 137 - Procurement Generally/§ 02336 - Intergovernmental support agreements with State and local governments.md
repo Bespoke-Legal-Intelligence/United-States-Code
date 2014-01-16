@@ -16,7 +16,7 @@ In General.—(1) The Secretary concerned may enter into an intergovernmental su
 
 (b)
 
-Effect on First Responder Arrangements.—The authority provided by this section and limitations on the use of that authority are not intended to revoke, preclude, or otherwise interfere with existing or proposed mutual-aid agreements relating to police or fire protection services or other similar first responder agreements or arrangements.
+Effect on First Responder Arrangements.—The authority provided by this section and limitations on the use of that authority are not intended to revoke, preclude, or otherwise interfere with existing or proposed mutual-aid agreements relating to police or fire protectionservices or other similar first responder agreements or arrangements.
 
 (c)
 
@@ -30,11 +30,11 @@ Effect on OMB Circular A-76.— The Secretary concerned shall ensure that interg
 
 Definitions.—In this section:
 
-&emsp;(1) The term “installation-support services” means those services, supplies, resources, and support typically provided by a local government for its own needs and without regard to whether such services, supplies, resources, and support are provided to its residents generally, except that the term does not include security guard or fire-fighting functions.
+&emsp;(1) The term "installation-support services" means those services, supplies, resources, and support typically provided by a local government for its own needs and without regard to whether such services, supplies, resources, and support are provided to its residents generally, except that the term does not include security guard or fire-fighting functions.
 
-&emsp;(2) The term “local government” includes a county, parish, municipality, city, town, township, local public authority, school district, special district, and any agency or instrumentality of a local government.
+&emsp;(2) The term "local government" includes a county, parish, municipality, city, town, township, local public authority, school district, special district, and any agency or instrumentality of a local government.
 
-&emsp;(3) The term “State” includes the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, American Samoa, Guam, and the United States Virgin Islands, and any agency or instrumentality of a State.
+&emsp;(3) The term "State" includes the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, American Samoa, Guam, and the United States Virgin Islands, and any agency or instrumentality of a State.
 
 (Added Pub. L. 112–239, div. A, title III, §331(a), Jan. 2, 2013, 126 Stat. 1696.)
 

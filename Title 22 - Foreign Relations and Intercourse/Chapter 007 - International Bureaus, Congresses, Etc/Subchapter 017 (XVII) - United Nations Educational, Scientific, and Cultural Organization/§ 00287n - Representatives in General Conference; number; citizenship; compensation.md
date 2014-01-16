@@ -6,11 +6,11 @@ The President by and with the consent of the Senate shall designate from time to
 
 #### References in Text
 
-Article V of the constitution of the Organization, referred to in text, is article V of the Constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title.
+Article V of the constitution of the Organization, referred to in text, is article V of the Constitution of theUnited Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title.
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–465 substituted “members of the Senior Foreign Service under section 3962 of this title, or provided for Foreign Service officers under section 3963 of this title,” for “Foreign Service officers in the schedule contained in section 867 of this title,”.
+<b>1980</b>—Pub. L. 96–465 substituted "members of the Senior Foreign Service under section 3962 of this title, or provided for Foreign Service officers under section 3963 of this title," for "Foreign Service officers in the schedule contained in section 867 of this title,".
 
 <b>1964</b>—Pub. L. 88–426, §306(g), substituted provisions permitting payment of compensation at such rates provided for Foreign Service officers in the schedule contained in section 867 of this title for provisions which limited compensation at not more than $15,000 per annum.
 

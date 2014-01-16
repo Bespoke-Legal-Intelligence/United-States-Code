@@ -36,5 +36,5 @@ May 21, 1920, ch. 194, §7(b), 41 Stat. 613; restated June 30, 1932, ch. 314, §
 
 June 30, 1932, ch. 314, §602(c)(related to §601), 47 Stat. 418.
 
-In subsection (b), the words “providing goods or services” are substituted for “furnishing the materials, supplies, or equipment, or in performing the work or services” to eliminate unnecessary words.
+In subsection (b), the words "providing goods or services" are substituted for "furnishing the materials, supplies, or equipment, or in performing the work or services" to eliminate unnecessary words.
 

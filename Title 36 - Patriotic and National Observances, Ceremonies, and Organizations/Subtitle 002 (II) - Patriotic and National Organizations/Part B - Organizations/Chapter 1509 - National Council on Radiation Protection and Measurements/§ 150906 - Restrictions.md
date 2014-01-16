@@ -52,9 +52,9 @@ July 14, 1964, Pub. L. 88–376, §§9, 10, 12, 78 Stat. 322, 323.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “duly appointed” are omitted as unnecessary.
+In subsection (b), the words "duly appointed" are omitted as unnecessary.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title.
 

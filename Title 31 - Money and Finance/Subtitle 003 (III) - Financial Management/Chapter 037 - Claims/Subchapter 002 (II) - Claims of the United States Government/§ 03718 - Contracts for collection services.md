@@ -18,11 +18,11 @@
 
 (3) Each agency shall use its best efforts to assure that not less than 10 percent of the amounts of all claims referred to private counsel by that agency under paragraph (2) are referred to law firms owned and controlled by socially and economically disadvantaged individuals and law firms that are qualified HUBZone small business concerns. For purposes of this paragraph—
 
-&emsp;(A) the term “law firm owned and controlled by socially and economically disadvantaged individuals” means a law firm that meets the requirements set forth in clauses (i) and (ii) of section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)(i) and (ii)) and regulations issued under those clauses;
+&emsp;(A) the term "law firm owned and controlled by socially and economically disadvantaged individuals" means a law firm that meets the requirements set forth in clauses (i) and (ii) of section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)(i) and (ii)) and regulations issued under those clauses;
 
-&emsp;(B) “socially and economically disadvantaged individuals” shall be presumed to include these <sup>1</sup> groups and individuals described in the last paragraph of section 8(d)(3)(C) of the Small Business Act; and
+&emsp;(B) "socially and economically disadvantaged individuals" shall be presumed to include these <sup>1</sup> groups and individuals described in the last paragraph of section 8(d)(3)(C) of the Small Business Act; and
 
-&emsp;(C) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act.
+&emsp;(C) the term "qualified HUBZone small business concern" has the meaning given that term in section 3(p) of the Small Business Act.
 
 (4) Notwithstanding sections 516, 518(b), 519, and 547(2) of title 28, a private counsel retained under paragraph (1) of this subsection may represent the United States in litigation in connection with legal services furnished pursuant to the contract entered into with that counsel under paragraph (1) of this subsection.
 
@@ -36,7 +36,7 @@
 
 (6) Notwithstanding the fourth sentence of section 803(6) of the Fair Debt Collection Practices Act (15 U.S.C. 1692a(6)), a private counsel performing legal services pursuant to a contract made under paragraph (1) of this subsection shall be considered to be a debt collector for the purposes of such Act.
 
-(7) Any counterclaim filed in any action to recover indebtedness owed the United States which is brought on behalf of the United States by private counsel retained under this subsection may not be asserted unless the counterclaim is served directly on the Attorney General or the United States Attorney for the judicial district in which, or embracing the place in which, the action is brought. Such service shall be made in accordance with the rules of procedure of the court in which the action is brought.
+(7) Any counterclaim filed in any action to recover indebtedness owed the United States which is brought on behalf of the United States by private counsel retained under this subsection may not be asserted unless the counterclaim is served directly on the Attorney Generalor the United States Attorney for the judicial district in which, or embracing the place in which, the action is brought. Such service shall be made in accordance with the rules of procedure of the court in which the action is brought.
 
 (c) The Attorney General shall transmit to the Congress an annual report on the activities of the Department of Justice to recover indebtedness owed the United States which was referred to the Department of Justice for collection. Each such report shall include a list, by agency, of—
 
@@ -58,7 +58,7 @@
 
 (f) This section does not apply to the collection of debts under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
-(g) In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the Government Accountability Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys’ Offices and by private counsel.
+(g) In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the Government Accountability Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys' Offices and by private counsel.
 
 (Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983, 97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (l), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–350, §5(h)(6), Jan. 4, 2011, 124 Stat. 3849.)
 
@@ -88,15 +88,15 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, §3(f); added Oct. 25, 1982, Pub.
 
 31 App.:952(f)(1) (1st sentence words before 2d comma).
 
-In subsections (a) and (b), the word “Government” is added for consistency in the revised title and with other titles of the United States Code.
+In subsections (a) and (b), the word "Government" is added for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), before clause (1), the words “terms and” are omitted as surplus. The words “or organization” are omitted because of 1:1. In clause (1), the words “bring a civil action” are substituted for “initiate legal action” for consistency in the revised title and with other titles of the Code. In clause (2)(B), the words “including the Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.)” are omitted as being included in “laws and regulations of the United States Government”.
+In subsection (a), before clause (1), the words "terms and" are omitted as surplus. The words "or organization" are omitted because of 1:1. In clause (1), the words "bring a civil action" are substituted for "initiate legal action" for consistency in the revised title and with other titles of the Code. In clause (2)(B), the words "including the Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.)" are omitted as being included in "laws and regulations of the United States Government".
 
-In subsection (b), the words “the head of an agency” are omitted as surplus.
+In subsection (b), the words "the head of an agency" are omitted as surplus.
 
-In subsection (c), the word “advanced” is omitted as surplus.
+In subsection (c), the word "advanced" is omitted as surplus.
 
-In subsection (d), the words “Notwithstanding the provisions of any other law governing the collection of claims owed the United States” and “unpaid or underpaid” are omitted as surplus.
+In subsection (d), the words "Notwithstanding the provisions of any other law governing the collection of claims owed the United States" and "unpaid or underpaid" are omitted as surplus.
 
 #### References in Text
 
@@ -106,39 +106,39 @@ The Fair Debt Collection Practices Act, referred to in subsec. (b)(6), is title 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1)(A). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 and following)”.
+<b>2011</b>—Subsec. (b)(1)(A). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 and following)".
 
-<b>2004</b>—Subsec. (g). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (g). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1997</b>—Subsec. (b)(1)(B). Pub. L. 105–135, §604(e)(1)(A), inserted “and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) ofthe Small Business Act)” after “disadvantaged individuals”.
+<b>1997</b>—Subsec. (b)(1)(B). Pub. L. 105–135, §604(e)(1)(A), inserted "and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)" after "disadvantaged individuals".
 
-Subsec. (b)(3). Pub. L. 105–135, §604(e)(1)(B)(i), inserted “and law firms that are qualified HUBZone small business concerns” after “economically disadvantaged individuals” in introductory provisions.
+Subsec. (b)(3). Pub. L. 105–135, §604(e)(1)(B)(i), inserted "and law firms that are qualified HUBZone small business concerns" after "economically disadvantaged individuals" in introductory provisions.
 
 Subsec. (b)(3)(C). Pub. L. 105–135, §604(e)(1)(B)(ii)–(iv), added subpar. (C).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(l)(1), in introductory provisions substituted “Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets.” for “Under conditions the head of an executive or legislative agency considers appropriate, the head of the agency may make a contract with a person for collection services to recover indebtedness owed the United States Government.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(l)(1), in introductory provisions substituted "Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets." for "Under conditions the head of an executive or legislative agency considers appropriate, the head of the agency may make a contract with a person for collection services to recover indebtedness owed the United States Government."
 
-Subsec. (b)(1)(A). Pub. L. 104–134, §31001(cc)(1), struck out “If the Attorney General makes a contract for legal services to be furnished in any judicial district of the United States under the first sentence of this paragraph, the Attorney General shall use his best efforts to obtain, from among attorneys regularly engaged in the private practice of law in such district, at least four such contracts for legal services with private individuals or firms in such district.” before “Nothing in this subparagraph shall”.
+Subsec. (b)(1)(A). Pub. L. 104–134, §31001(cc)(1), struck out "If the Attorney General makes a contract for legal services to be furnished in any judicial district of the United States under the first sentence of this paragraph, the Attorney General shall use his best efforts to obtain, from among attorneys regularly engaged in the private practice of law in such district, at least four such contracts for legal services with private individuals or firms in such district." before "Nothing in this subparagraph shall".
 
-Subsec. (b)(2). Pub. L. 104–134, §31001(c)(1), which directed the amendment of this section by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 104–134, §31001(c)(1), which directed the amendment of this section by substituting "the head of an executive, judicial, or legislative agency" for "the head of an executive or legislative agency" wherever appearing, was executed by substituting "The head of an executive, judicial, or legislative agency" for "The head of an executive or legislative agency", to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 104–134, §31001(l)(2), inserted “, or to locate or recover assets of,” after “owed”.
+Subsec. (d). Pub. L. 104–134, §31001(l)(2), inserted ", or to locate or recover assets of," after "owed".
 
-<b>1994</b>—Subsec. (b)(3)(A). Pub. L. 103–272 substituted “15 U.S.C. 637(d)(3)(C)(i)” for “15 U.S.C. 6376(d)(3)(C)(i)”.
+<b>1994</b>—Subsec. (b)(3)(A). Pub. L. 103–272 substituted "15 U.S.C. 637(d)(3)(C)(i)" for "15 U.S.C. 6376(d)(3)(C)(i)".
 
 <b>1992</b>—Subsec. (g). Pub. L. 102–589 added subsec. (g).
 
 <b>1986</b>—Subsecs. (b), (c). Pub. L. 99–578, §1(1), (4), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
-Subsec. (d). Pub. L. 99–578, §1(1), (2), redesignated former subsec. (b) as (d) and inserted “or (b)” after “subsection (a)”. Former subsec. (d) redesignated (f).
+Subsec. (d). Pub. L. 99–578, §1(1), (2), redesignated former subsec. (b) as (d) and inserted "or (b)" after "subsection (a)". Former subsec. (d) redesignated (f).
 
-Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
-Subsec. (e). Pub. L. 99–578, §1(1), (3), redesignated former subsec. (c) as (e), inserted “or (b)” after “(a)”, and substituted “subsection (d)” for “subsection (b)”.
+Subsec. (e). Pub. L. 99–578, §1(1), (3), redesignated former subsec. (c) as (e), inserted "or (b)" after "(a)", and substituted "subsection (d)" for "subsection (b)".
 
 Subsec. (f). Pub. L. 99–578, §1(1), redesignated former subsec. (d) as (f).
 
-<b>1983</b>—Subsec. (c). Pub. L. 98–167 inserted “This limitation does not apply in the case of a contract that authorizes a person to collect a fee as provided in subsection (b) of this section.”
+<b>1983</b>—Subsec. (c). Pub. L. 98–167 inserted "This limitation does not apply in the case of a contract that authorizes a person to collect a fee as provided in subsection (b) of this section."
 
 #### Effective Date of 1997 Amendment
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–589, §7, Nov. 10, 1992, 106 Stat. 5135, provided that: “The provisions of this Act \[amending this section and section 3720A of this title, enacting provisions set out as notes under this section and section 6501 of this title, and amending provisions set out as notes under this section and sections 3335 and 6503 of this title\] and amendments made by this Act shall take effect on the date of enactment of this Act \[Nov. 10, 1992\], except if such date of enactment is on or after October 1, 1992, such provisions and amendments shall be effective as if enacted on September 30, 1992.”
+Pub. L. 102–589, §7, Nov. 10, 1992, 106 Stat. 5135, provided that: "The provisions of this Act \[amending this section and section 3720A of this title, enacting provisions set out as notes under this section and section 6501 of this title, and amending provisions set out as notes under this section and sections 3335 and 6503 of this title\] and amendments made by this Act shall take effect on the date of enactment of this Act \[Nov. 10, 1992\], except if such date of enactment is on or after October 1, 1992, such provisions and amendments shall be effective as if enacted on September 30, 1992."
 
 #### Effective and Termination Dates of 1986 Amendment
 
@@ -154,29 +154,29 @@ Pub. L. 99–578, §5, Oct. 28, 1986, 100 Stat. 3307, as amended by Pub. L. 102�
 
 #### Regulations
 
-Pub. L. 99–578, §4, Oct. 28, 1986, 100 Stat. 3307, provided that: “The Attorney General shall issue regulations to carry out this Act and the amendments made by section 1 of this Act \[amending this section and enacting provisions set out as notes under this section\]. The Attorney General shall submit the regulations to the Congress at least 60 days before they become effective.”
+Pub. L. 99–578, §4, Oct. 28, 1986, 100 Stat. 3307, provided that: "The Attorney General shall issue regulations to carry out this Act and the amendments made by section 1 of this Act \[amending this section and enacting provisions set out as notes under this section\]. The Attorney General shall submit the regulations to the Congress at least 60 days before they become effective."
 
 #### Extension of Contracts With Private Counsel
 
-Pub. L. 102–589, §4(d), Nov. 10, 1992, 106 Stat. 5134, provided that: “The Attorney General may extend or modify any or all of the contracts entered into with private counsel prior to October 1, 1992, for such time as is necessary to conduct a full and open competition in accordance with section 3718(b) of title 31, United States Code.”
+Pub. L. 102–589, §4(d), Nov. 10, 1992, 106 Stat. 5134, provided that: "The Attorney General may extend or modify any or all of the contracts entered into with private counsel prior to October 1, 1992, for such time as is necessary to conduct a full and open competition in accordance with section 3718(b) of title 31, United States Code."
 
 #### Audit by Inspector General
 
 Pub. L. 102–589, §5, Nov. 10, 1992, 106 Stat. 5134, provided that:
 
-“(a)
+"(a)
 
-Contents of Audit.—The Inspector General of the Department of Justice shall conduct an audit, for the period beginning on October 1, 1991, and ending on September 30, 1994, of the actions of the Attorney General under subsection (b) of section 3718 of title 31, United States Code, under the pilot program referred to in section 3 of the Act entitled ‘An Act to amend section 3718 of title 31, United States Code, to authorize contracts retaining private counsel to furnish legal services in the case of indebtedness owed the United States.’, approved October 29, 1986 (37 U.S.C. 3718 note; Public Law 99–578 \[set out below\]). The Inspector General shall determine the extent of the competition among private counsel to obtain contracts awarded under such subsection, the reasonableness of the fees provided in such contracts, the diligence and efforts of the Attorney General to retain private counsel in accordance with the provisions of such subsection, the results of the debt collection efforts of private counsel retained under such contracts, and the cost-effectiveness of the pilot project compared with the use of United States Attorneys’ Offices for debt collection.
+Contents of Audit.—The Inspector General of the Department of Justice shall conduct an audit, for the period beginning on October 1, 1991, and ending on September 30, 1994, of the actions of the Attorney General under subsection (b) of section 3718 of title 31, United States Code, under the pilot program referred to in section 3 of the Act entitled 'An Act to amend section 3718 of title 31, United States Code, to authorize contracts retaining private counsel to furnish legal services in the case of indebtedness owed the United States.', approved October 29, 1986 (37 U.S.C. 3718 note; Public Law 99–578 \[set out below\]). The Inspector General shall determine the extent of the competition among private counsel to obtain contracts awarded under such subsection, the reasonableness of the fees provided in such contracts, the diligence and efforts of the Attorney General to retain private counsel in accordance with the provisions of such subsection, the results of the debt collection efforts of private counsel retained under such contracts, and the cost-effectiveness of the pilot project compared with the use of United States Attorneys' Offices for debt collection.
 
-“(b)
+"(b)
 
-Report to Congress.—After completing the audit under subsection (a), the Inspector General shall transmit to the Congress, not later than June 30, 1995, a report on the findings, conclusions, and recommendations resulting from the audit.”
+Report to Congress.—After completing the audit under subsection (a), the Inspector General shall transmit to the Congress, not later than June 30, 1995, a report on the findings, conclusions, and recommendations resulting from the audit."
 
 #### Pilot Program; Extension
 
 Pub. L. 99–578, §3, Oct. 28, 1986, 100 Stat. 3307, as amended by Pub. L. 102–589, §4(b), Nov. 10, 1992, 106 Stat. 5134, which directed Attorney General to carry out subsections (b) and (c) of this section through a pilot program in each of at least 5 and not more than 15 judicial districts selected by the Attorney General, was repealed by Pub. L. 104–134, title III, §31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
 
-Pub. L. 104–134, title I, §101\[(a)\] \[title I, §120\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that the pilot debt collection project authorized by PublicLaw 99–578 (formerly set out above) was extended through September 30, 1997.
+Pub. L. 104–134, title I, §101\[(a)\] \[title I, §120\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that the pilot debt collection project authorized by Public Law 99–578 (formerly set out above) was extended through September 30, 1997.
 
 Prior extensions of the pilot program for legal services were contained in the following acts:
 
@@ -194,15 +194,15 @@ Pub. L. 99–578, §2, Oct. 28, 1986, 100 Stat. 3307, directed Attorney General,
 
 Pub. L. 99–578, §6, Oct. 28, 1986, 100 Stat. 3307, provided that:
 
-“(a)
+"(a)
 
 Contents of Audit.—The Comptroller General of the United States shall, at the end of the 3-year period referred to in section 5 \[set out above\], conduct an audit of the actions of the Attorney General under subsection (b) of section 3718 of title 31, United States Code (as added by section 1 of this Act), under the pilot program referred to in section 3 \[set out above\]. The Comptroller General shall determine the extent of the competition among private counsel to obtain contracts awarded under such subsection, the reasonableness of the fees provided in such contracts, the diligence and efforts of the Attorney General to retain private counsel in accordance with the provisions of such subsection, and the results of the debt collection efforts of private counsel retained under such contracts.
 
-“(b)
+"(b)
 
-Report to Congress.—After completing the audit under subsection (a), the Comptroller General shall transmit to the Congress a report on the findings and conclusions resulting from the audit.”
+Report to Congress.—After completing the audit under subsection (a), the Comptroller General shall transmit to the Congress a report on the findings and conclusions resulting from the audit."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "the".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “, judicial, or”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be ", judicial, or".</i>
 

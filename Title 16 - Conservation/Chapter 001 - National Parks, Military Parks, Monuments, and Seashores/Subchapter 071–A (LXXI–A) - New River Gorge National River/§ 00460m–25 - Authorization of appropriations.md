@@ -10,5 +10,5 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–500, Pub. L. 99–590, Pub. L. 99–591, amended section identically substituting “$3,000,000” for “$500,000”.
+<b>1986</b>—Pub. L. 99–500, Pub. L. 99–590, Pub. L. 99–591, amended section identically substituting "$3,000,000" for "$500,000".
 

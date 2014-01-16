@@ -18,15 +18,15 @@ Historical and Revision Notes
 
 49 App.:1354a (2d sentence).
 
-Nov. 5, 1990, Pub. L. 101–516, (2d sentence in par. under heading “Facilities and Equipment”), 104 Stat. 2160.
+Nov. 5, 1990, Pub. L. 101–516, (2d sentence in par. under heading "Facilities and Equipment"), 104 Stat. 2160.
 
 &nbsp;
 
-Oct. 28, 1991, Pub. L. 102–143, (2d sentence in par. under heading “Facilities and Equipment”), 105 Stat. 922.
+Oct. 28, 1991, Pub. L. 102–143, (2d sentence in par. under heading "Facilities and Equipment"), 105 Stat. 922.
 
 &nbsp;
 
-Oct. 6, 1992, Pub. L. 102–388, (2d sentence in par. under heading “Facilities and Equipment”), 106 Stat. 1526.
+Oct. 6, 1992, Pub. L. 102–388, (2d sentence in par. under heading "Facilities and Equipment"), 106 Stat. 1526.
 
 This section is substituted for the source provisions for clarity and because of the restatement.
 

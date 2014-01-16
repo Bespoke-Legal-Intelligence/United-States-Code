@@ -10,9 +10,9 @@ Section was formerly classified to section 83 of this title.
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines”.
+<b>2005</b>—Pub. L. 109–97 substituted "amenable species" for "cattle, sheep, swine, goats, horses, mules, and other equines".
 
-<b>1967</b>—Pub. L. 90–201, §§3(b), 12(a), struck out “of Agriculture” after “Secretary” and included horses, mules, and other equines in the list of animals, respectively.
+<b>1967</b>—Pub. L. 90–201, §§3(b), 12(a), struck out "of Agriculture" after "Secretary" and included horses, mules, and other equines in the list of animals, respectively.
 
 #### Effective Date of 2005 Amendment
 

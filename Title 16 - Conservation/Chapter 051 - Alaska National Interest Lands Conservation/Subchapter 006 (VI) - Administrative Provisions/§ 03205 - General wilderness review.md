@@ -2,7 +2,7 @@
 
 #### (a) Suitability of lands for preservation; report to President
 
-Within five years from December 2, 1980, the Secretary shall, in accordance with the provisions of section 1132(d) of this title relating to public notice, public hearings, and review by State and other agencies, review, as to their suitability or nonsuitability for preservation as wilderness, all lands within units of the National Park System and units of the National Wildlife Refuge System in Alaska not designated as wilderness by this Act and report his findings to the President.
+Within five years from December 2, 1980, the Secretary shall, in accordance with the provisions of section 1132(d) of this title relating topublic notice, public hearings, and review by State and other agencies, review, as to their suitability or nonsuitability for preservation as wilderness, all lands within units of the National Park System and units of the National Wildlife Refuge System in Alaska not designated as wilderness by this Act and report his findings to the President.
 
 #### (b) Presidential recommendations to Congress
 
@@ -18,5 +18,5 @@ Nothing in this section shall be construed as affecting the administration of an
 
 This Act, referred to in subsecs. (a) and (c), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

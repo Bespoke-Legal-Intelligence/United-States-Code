@@ -6,5 +6,5 @@ With respect to research projects on problems of animal health and disease to be
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–185 struck out “with the advice, when available, of the Board” after “by the Secretary” in first sentence.
+<b>1998</b>—Pub. L. 105–185 struck out "with the advice, when available, of the Board" after "by the Secretary" in first sentence.
 

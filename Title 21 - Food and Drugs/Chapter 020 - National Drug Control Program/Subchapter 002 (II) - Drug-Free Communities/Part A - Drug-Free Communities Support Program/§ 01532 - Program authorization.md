@@ -54,7 +54,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;The coalition shall demonstrate, to the satisfaction of the Administrator—
 
-&emsp;&emsp;(A) that the representatives of the coalition have worked together on substance abuse reduction initiatives, which, at a minimum, includes initiatives that target drugs referenced in section 1523(9)(A) of this title, for a period of not less than 6 months, actingthrough entities such as task forces, subcommittees, or community boards; and
+&emsp;&emsp;(A) that the representatives of the coalition have worked together on substance abuse reduction initiatives, which, at a minimum, includes initiatives that target drugs referenced in section 1523(9)(A) of this title, for a period of not less than 6 months, acting through entities such as task forces, subcommittees, or community boards; and
 
 &emsp;&emsp;(B) substantial participation from volunteer leaders in the community involved (especially in cooperation with individuals involved with youth such as parents, teachers, coaches, youth workers, and members of the clergy).
 
@@ -66,7 +66,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;&emsp;(B) describe and document the nature and extent of the substance abuse problem, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
-&emsp;&emsp;(C)(i) provide a description of substance abuse prevention and treatment programs and activities, which, at a minimum, includes programs and activities relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in existence at the time of the grant application; and
+&emsp;&emsp;(C)(i) provide a description of substance abuse prevention and treatment programs and activities, which, at a minimum, includes programs and activities relating tothe use and abuse of drugs referenced in section 1523(9)(A) of this title, in existence at the time of the grant application; and
 
 &emsp;&emsp;(ii) identify substance abuse programs and service gaps, which, at a minimum, includes programs and gaps relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
@@ -228,13 +228,13 @@ In awarding grants under subsection (b)(1)(A)(i) of this section, priority shall
 
 #### Codification
 
-Pub. L. 109–469, §§802(a), 803, 804, which directed amendment of section 1032 of the “Drug-Free Communities Act of 1997”, were executed to this section, which is section 1032 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+Pub. L. 109–469, §§802(a), 803, 804, which directed amendment of section 1032 of the "Drug-Free Communities Act of 1997", were executed to this section, which is section 1032 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
 
 <b>2006</b>—Subsec. (a)(7). Pub. L. 109–469, §804, added par. (7). See Codification note above.
 
-Subsec. (b)(1)(A)(iv), (2)(C)(i), (3)(F). Pub. L. 109–469, §803, substituted “$125,000” for “$100,000”. See Codification note above.
+Subsec. (b)(1)(A)(iv), (2)(C)(i), (3)(F). Pub. L. 109–469, §803, substituted "$125,000" for "$100,000". See Codification note above.
 
 Subsec. (b)(4). Pub. L. 109–469, §802(a), added par. (4). See Codification note above.
 
@@ -246,5 +246,5 @@ Subsec. (d). Pub. L. 107–82, §1(h), added subsec. (d).
 
 #### Report to Congress
 
-Pub. L. 109–469, title VIII, §802(b), Dec. 29, 2006, 120 Stat. 3535, provided that: “Not later than 60 days after the date of enactment of this Act \[Dec. 29, 2006\], the Director of the Office of National Drug Control Policy shall submit to Congress a report detailing the appeals process required by section 1032(b)(4) of the Drug-Free Communities Act of 1997 \[probably means 21 U.S.C. 1532(b)(4)\], as added by subsection (a) \[see 2006 Amendments note above\].”
+Pub. L. 109–469, title VIII, §802(b), Dec. 29, 2006, 120 Stat. 3535, provided that: "Not later than 60 days after the date of enactment of this Act \[Dec. 29, 2006\], the Director of the Office of National Drug Control Policy shall submit to Congress a report detailing the appeals process required by section 1032(b)(4) of the Drug-Free Communities Act of 1997 \[probably means 21 U.S.C. 1532(b)(4)\], as added by subsection (a) \[see 2006 Amendments note above\]."
 

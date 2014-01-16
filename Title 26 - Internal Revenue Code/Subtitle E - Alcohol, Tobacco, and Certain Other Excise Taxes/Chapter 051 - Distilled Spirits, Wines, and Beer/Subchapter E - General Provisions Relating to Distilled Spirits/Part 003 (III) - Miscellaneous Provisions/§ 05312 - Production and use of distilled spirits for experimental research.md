@@ -16,7 +16,7 @@ Under such regulations as the Secretary may prescribe and on the filing of such 
 
 #### (c) Authority to exempt
 
-The Secretary may by regulations provide for the waiver of any provision of this chapter\(other than this section) to the extent he deems necessary to effectuate the purposes of this section, except that he may not waive the payment of any tax on distilled spirits removed from any such university, college, institution, or plant.
+The Secretary may by regulations provide for the waiver of any provision of this chapter (other than this section) to the extent he deems necessary to effectuate the purposes of this section, except that he may not waive the payment of any tax on distilled spirits removed from any such university, college, institution, or plant.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1375; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
@@ -38,5 +38,5 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 640, 65
 
 #### Amendments
 
-<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 

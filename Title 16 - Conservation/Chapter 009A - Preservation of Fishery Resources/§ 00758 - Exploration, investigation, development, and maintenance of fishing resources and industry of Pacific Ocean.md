@@ -6,5 +6,5 @@ It is the policy of the United States to provide for the exploration, investigat
 
 #### Amendments
 
-<b>1960</b>—Pub. L. 86–624 substituted “the United States and its island possessions” for “the Territories and island possessions of the United States”, and struck out “Territory of Hawaii and” before “Pacific island possessions”.
+<b>1960</b>—Pub. L. 86–624 substituted "the United States and its island possessions" for "the Territories and island possessions of the United States", and struck out "Territory of Hawaii and" before "Pacific island possessions".
 

@@ -2,13 +2,13 @@
 
 #### (a) Establishment
 
-There is hereby established a National Environmental Education Advisory Council and aFederal Task Force on Environmental Education.
+There is hereby established a National Environmental Education Advisory Council and a Federal Task Force on Environmental Education.
 
 #### (b) Advisory Council; duties; members; terms of office; compensation; termination
 
 (1) The Advisory Council shall advise, consult with, and make recommendations to, the Administrator on matters relating to activities, functions, and policies of the Agency under this chapter. With respect to such matters, the Council shall be the exclusive advisory entity for the Administrator. The Council may exchange information with other Advisory Councils established by the Administrator. The Office of Environmental Education shall provide staff support to the Council.
 
-(2) The Advisory Council shall consist of 11 members appointed by the Administrator after consultation with the Secretary. Two members shall be appointed to represent primary and secondary education (one of whom shall be a classroom teacher); two members shall be appointed to represent colleges and universities; two members shall be appointed to represent not-for-profit organizations involved in environmental education; two members shall be appointed to represent State departments of education and natural resources; two representatives shall be appointed to represent business and industry; and one representative shall be appointed to represent senior Americans. A representative of the Secretary shall serve as an ex officio member of the Advisory Council. The conflict of interest provision at section 208(a) of title 18 shall not apply to members’ participation in particular matters which affect the financial interests of employers which they represent pursuant to this subsection.
+(2) The Advisory Council shall consist of 11 members appointed by the Administrator after consultation with the Secretary. Two members shall be appointed to represent primary and secondary education (one of whom shall be a classroom teacher); two members shall be appointed to represent colleges and universities; two members shall be appointed to represent not-for-profit organizations involved in environmental education; two members shall be appointed to represent State departments of education and natural resources; two representatives shall be appointed to represent business and industry; andone representative shall be appointed to represent senior Americans. A representative of the Secretary shall serve as an ex officio member of the Advisory Council. The conflict of interest provision at section 208(a) of title 18 shall not apply to members' participation in particular matters which affect the financial interests of employers which they represent pursuant to this subsection.
 
 (3) The Administrator shall provide that members of the Council represent the various geographic regions of the country, has minority representation, and that the professional backgrounds of the members include scientific, policy, and other appropriate disciplines.
 
@@ -60,7 +60,7 @@ There is hereby established a National Environmental Education Advisory Council 
 
 &emsp;(D) identify personnel skills, education, and training needed to respond to current and anticipated environmental problems and make recommendations for actions to assure sufficient educational and training opportunities in these professions; and
 
-&emsp;(E) describe and assess the extent and quality of environmental education programs available to senior Americans and make recommendations thereon; describe the various Federal agency programs to further senior environmental education; and evaluate and make recommendations as to how such educational apparatuses could best be coordinated with nonprofit senior organizations across theNation, and environmental education institutions and organizations now in existence.
+&emsp;(E) describe and assess the extent and quality of environmental education programs available to senior Americans and make recommendations thereon; describe the various Federal agency programs to further senior environmental education; and evaluate and make recommendations as to how such educational apparatuses could best be coordinated with nonprofit senior organizations across the Nation, and environmental education institutions and organizations now in existence.
 
 (2) The Federal Task Force on Environmental Education shall review and comment on a draft of the report to Congress.
 

@@ -26,7 +26,7 @@ For prior sections 402 of Pub. L. 90–351 and prior sections 3742 of this title
 
 #### Amendments
 
-<b>1990</b>—Par. (1). Pub. L. 101–647 substituted “subchapters V and XII–B” for “subchapter V”.
+<b>1990</b>—Par. (1). Pub. L. 101–647 substituted "subchapters V and XII–B" for "subchapter V".
 
 #### Transfer of Functions
 

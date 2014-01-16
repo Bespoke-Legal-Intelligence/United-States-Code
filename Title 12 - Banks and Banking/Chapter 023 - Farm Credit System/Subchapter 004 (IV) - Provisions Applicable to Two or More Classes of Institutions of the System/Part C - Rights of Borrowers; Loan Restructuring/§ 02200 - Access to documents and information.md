@@ -6,7 +6,7 @@ In accordance with regulations of the Farm Credit Administration, qualified lend
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–233 substituted “qualified lenders” for “System institutions” and inserted “and copies of each appraisal of the borrower's assets made or used by the qualified lender” before period at end.
+<b>1988</b>—Pub. L. 100–233 substituted "qualified lenders" for "System institutions" and inserted "and copies of each appraisal of the borrower's assets made or used by the qualified lender" before period at end.
 
 #### Effective Date
 

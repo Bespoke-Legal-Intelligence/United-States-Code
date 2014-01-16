@@ -14,7 +14,7 @@ Costs and Expenses.—(1) A student from a military academy of a foreign country
 
 (2) The Secretary may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged Air Force cadet in that foreign country.
 
-(3) The Air Force Academy shall bear all costs of the exchange program from funds appropriated for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.
+(3) The Air Force Academy shall bear all costs of the exchange program from funds appropriated for the Academy and such additionalfunds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.
 
 (4) Expenditures in support of the exchange program from funds appropriated for the Academy may not exceed $1,000,000 during any fiscal year.
 
@@ -34,15 +34,15 @@ A prior section 9345, act Aug. 10, 1956, ch. 1041, 70A Stat. 565, related to sel
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–364, §531(c)(1), substituted “100” for “24”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–364, §531(c)(1), substituted "100" for "24".
 
-Subsec. (c)(3). Pub. L. 109–364, §531(c)(2)(A), substituted “for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.” for “for the Academy. Expenditures in support of the exchange program may not exceed $120,000 during any fiscal year.”
+Subsec. (c)(3). Pub. L. 109–364, §531(c)(2)(A), substituted "for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program." for "for the Academy. Expenditures in support of the exchange program may not exceed $120,000 during any fiscal year."
 
 Subsec. (c)(4). Pub. L. 109–364, §531(c)(2)(B), added par. (4).
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–65, §535(c)(1), substituted “24 Air Force cadets” for “10 Air Force cadets”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65, §535(c)(1), substituted "24 Air Force cadets" for "10 Air Force cadets".
 
-Subsec. (c)(3). Pub. L. 106–65, §535(c)(2), substituted “$120,000” for “$50,000”.
+Subsec. (c)(3). Pub. L. 106–65, §535(c)(2), substituted "$120,000" for "$50,000".
 
 #### Effective Date of 2006 Amendment
 

@@ -16,13 +16,13 @@ No Cost to Recipient.—The presentation of a flag under this section shall be a
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–213 struck out “of Homeland Security” after “Secretary”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–213 struck out "of Homeland Security" after "Secretary".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-Subsec. (c). Pub. L. 107–314 substituted “this section” for “his section”.
+Subsec. (c). Pub. L. 107–314 substituted "this section" for "his section".
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.” for “under this section or section 3681, 6141, and 8681 of title 10.”
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted "under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement." for "under this section or section 3681, 6141, and 8681 of title 10."
 
 #### Effective Date of 2002 Amendment
 

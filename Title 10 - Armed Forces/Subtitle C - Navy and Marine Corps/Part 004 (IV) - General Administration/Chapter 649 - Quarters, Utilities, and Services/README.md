@@ -9,7 +9,7 @@
 | [7576\.](%C2%A7%2007576%20-%20Quarters%20extension%20telephones.md) | Quarters: extension telephones. |
 | [7577\.](%C2%A7%2007577%20-%20Quarters%20Nurse%20Corps%20officers%3B%20assignment%20in%20hospitals.md) | Quarters: Nurse Corps officers; assignment in hospitals. |
 | \[7578. | Repealed.\] |
-| [7579\.](%C2%A7%2007579%20-%20Officers%E2%80%99%20messes%20and%20quarters%20limitations%20on%20employment%20of%20enlisted%20members.md) | Officers’ messes and quarters: limitations on employment of enlisted members. |
+| [7579\.](%C2%A7%2007579%20-%20Officers%27%20messes%20and%20quarters%20limitations%20on%20employment%20of%20enlisted%20members.md) | Officers' messes and quarters: limitations on employment of enlisted members. |
 | [7580\.](%C2%A7%2007580%20-%20Heat%20and%20light%20for%20Young%20Men%27s%20Christian%20Association%20buildings.md) | Heat and light for Young Men's Christian Association buildings. |
 | [7581\.](%C2%A7%2007581%20-%20Marine%20Corps%20post%20laundries%20disposition%20of%20receipts.md) | Marine Corps post laundries: disposition of receipts. |
 | [7582\.](%C2%A7%2007582%20-%20Naval%20and%20Marine%20Corps%20Historical%20Centers%20fee%20for%20providing%20historical%20information%20to%20the%20public.md) | Naval and Marine Corps Historical Centers: fee for providing historical information to the public. |
@@ -18,15 +18,15 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, div. A, title VI, §602(d)(2), Dec. 31, 2011, 125 Stat. 1448, added item 7572 and struck out former item 7572 “Quarters: accommodations in place of for members on sea duty”.
+<b>2011</b>—Pub. L. 112–81, div. A, title VI, §602(d)(2), Dec. 31, 2011, 125 Stat. 1448, added item 7572 and struck out former item 7572 "Quarters: accommodations in place of for members on sea duty".
 
-<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1085(b)(2), (3)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–288, 1654A–289, struck out “<b>RELATED</b>” before “<b>SERVICES</b>” in chapter heading and added item 7582.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1085(b)(2), (3)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–288, 1654A–289, struck out "<b>RELATED</b>" before "<b>SERVICES</b>" in chapter heading and added item 7582.
 
-<b>1996</b>—Pub. L. 104–106, div. A, title XV, §1503(b)(5), Feb. 10, 1996, 110 Stat. 513, substituted “officers” for “Officers” in item 7577.
+<b>1996</b>—Pub. L. 104–106, div. A, title XV, §1503(b)(5), Feb. 10, 1996, 110 Stat. 513, substituted "officers" for "Officers" in item 7577.
 
-<b>1973</b>—Pub. L. 93–166, title V, §509(d), Nov. 29, 1973, 87 Stat. 678, struck out items 7574 “Quarters: limitations on size” and 7575 “Quarters: exemptions from cost limitations”.
+<b>1973</b>—Pub. L. 93–166, title V, §509(d), Nov. 29, 1973, 87 Stat. 678, struck out items 7574 "Quarters: limitations on size" and 7575 "Quarters: exemptions from cost limitations".
 
-<b>1958</b>—Pub. L. 85–861, §1(155), Sept. 2, 1958, 72 Stat. 1513, struck out item 7578 “Tableware and kitchen utensils: limitations on furnishing”.
+<b>1958</b>—Pub. L. 85–861, §1(155), Sept. 2, 1958, 72 Stat. 1513, struck out item 7578 "Tableware and kitchen utensils: limitations on furnishing".
 
 
 ---
@@ -40,7 +40,7 @@
 - [&sect; 07576 - Quarters extension telephones](%C2%A7%2007576%20-%20Quarters%20extension%20telephones.md)
 - [&sect; 07577 - Quarters Nurse Corps officers; assignment in hospitals](%C2%A7%2007577%20-%20Quarters%20Nurse%20Corps%20officers%3B%20assignment%20in%20hospitals.md)
 - [&sect; 07578 - Repealed. Pub. L. 85&#8211;861, &sect;36B(24), Sept. 2, 1958, 72 Stat. 1571](%C2%A7%2007578%20-%20Repealed.%20Pub.%20L.%2085%E2%80%93861%2C%20%C2%A736B%2824%29%2C%20Sept.%202%2C%201958%2C%2072%20Stat.%201571.md)
-- [&sect; 07579 - Officers&#8217; messes and quarters limitations on employment of enlisted members](%C2%A7%2007579%20-%20Officers%E2%80%99%20messes%20and%20quarters%20limitations%20on%20employment%20of%20enlisted%20members.md)
+- [&sect; 07579 - Officers' messes and quarters limitations on employment of enlisted members](%C2%A7%2007579%20-%20Officers%27%20messes%20and%20quarters%20limitations%20on%20employment%20of%20enlisted%20members.md)
 - [&sect; 07580 - Heat and light for Young Men's Christian Association buildings](%C2%A7%2007580%20-%20Heat%20and%20light%20for%20Young%20Men%27s%20Christian%20Association%20buildings.md)
 - [&sect; 07581 - Marine Corps post laundries disposition of receipts](%C2%A7%2007581%20-%20Marine%20Corps%20post%20laundries%20disposition%20of%20receipts.md)
 - [&sect; 07582 - Naval and Marine Corps Historical Centers fee for providing historical information to the public](%C2%A7%2007582%20-%20Naval%20and%20Marine%20Corps%20Historical%20Centers%20fee%20for%20providing%20historical%20information%20to%20the%20public.md)

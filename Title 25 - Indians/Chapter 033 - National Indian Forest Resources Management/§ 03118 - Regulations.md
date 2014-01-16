@@ -4,5 +4,5 @@ Except as otherwise provided by this chapter, the Secretary is directed to promu
 
 (Pub. L. 101–630, title III, §319, Nov. 28, 1990, 104 Stat. 4544.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 

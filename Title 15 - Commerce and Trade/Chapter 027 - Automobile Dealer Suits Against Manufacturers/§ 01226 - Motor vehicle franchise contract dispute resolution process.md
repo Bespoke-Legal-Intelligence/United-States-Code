@@ -6,9 +6,9 @@
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) the term “motor vehicle” has the meaning given such term in section 30102(6) of title 49; and
+&emsp;&emsp;(A) the term "motor vehicle" has the meaning given such term in section 30102(6) of title 49; and
 
-&emsp;&emsp;(B) the term “motor vehicle franchise contract” means a contract under which a motor vehicle manufacturer, importer, or distributor sells motor vehicles to any other person for resale to an ultimate purchaser and authorizes such other person to repair and service the manufacturer's motor vehicles.
+&emsp;&emsp;(B) the term "motor vehicle franchise contract" means a contract under which a motor vehicle manufacturer, importer, or distributor sells motor vehicles to any other person for resale to an ultimate purchaser and authorizes such other person to repair and service the manufacturer's motor vehicles.
 
 #### (2) Consent required
 
@@ -26,5 +26,5 @@ Subsection (a) of this section shall apply to contracts entered into, amended, a
 
 #### Codification
 
-Section was enacted as part of the 21st Century Department of Justice Appropriations Authorization Act,and not as part of act Aug. 8, 1956, ch. 1038, which comprises this chapter.
+Section was enacted as part of the 21st Century Department of Justice Appropriations Authorization Act, and not as part of act Aug. 8, 1956, ch. 1038, which comprises this chapter.
 

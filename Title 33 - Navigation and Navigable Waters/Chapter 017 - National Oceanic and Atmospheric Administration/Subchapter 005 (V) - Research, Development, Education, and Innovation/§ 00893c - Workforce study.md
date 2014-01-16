@@ -22,7 +22,7 @@ The Secretary of Commerce and the Secretary of Education shall consult with the 
 
 #### (c) Report
 
-No later than 18 months after January 4, 2011, the Secretary of Commerce and the Secretary of Education shall transmit a joint report to eachcommittee of Congress with jurisdiction over the programs described in section 893a(b) of this title, as amended by section 302 of this Act, detailing the findings and recommendations of the study and setting forth a prioritized plan to implement the recommendations.
+No later than 18 months after January 4, 2011, the Secretary of Commerce and the Secretary of Education shall transmit a joint report to each committee of Congress with jurisdiction over the programs described in section 893a(b) of this title, as amended by section 302 of this Act, detailing the findings and recommendations of the study and setting forth a prioritized plan to implement the recommendations.
 
 #### (d) Program and plan
 

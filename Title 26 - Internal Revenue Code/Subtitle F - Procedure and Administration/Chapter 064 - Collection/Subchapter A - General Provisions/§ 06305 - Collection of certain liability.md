@@ -26,17 +26,17 @@ Section 452(b) of the Social Security Act, referred to in subsec. (a), is classi
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–193, §361(a)(4), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” in two places in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §361(a)(4), substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare" in two places in introductory provisions.
 
 Subsec. (a)(5). Pub. L. 104–193, §361(a)(1)–(3), added par. (5).
 
 <b>1981</b>—Subsec. (a)(4). Pub. L. 97–35 inserted reference to administrative order.
 
-<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–193, title III, §361(b), Aug. 22, 1996, 110 Stat. 2242, provided that: “The amendments made by this section \[amending this section\] shall become effective October 1, 1997.”
+Pub. L. 104–193, title III, §361(b), Aug. 22, 1996, 110 Stat. 2242, provided that: "The amendments made by this section \[amending this section\] shall become effective October 1, 1997."
 
 For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
 

@@ -6,9 +6,9 @@ Any action pursuant to the provisions of section 2605, 2607, or 2608 of this tit
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 inserted “the Bureau,” before “the Secretary”.
+<b>2010</b>—Pub. L. 111–203 inserted "the Bureau," before "the Secretary".
 
-<b>1996</b>—Pub. L. 104–208 substituted “section 2605, 2607, or 2608 of this title” for “section 2607 or 2608 of this title” and “within 3 years in the case of a violation of section 2605 of this title and 1 year in the case of a violation of section 2607 or 2608 of this title” for “within one year”.
+<b>1996</b>—Pub. L. 104–208 substituted "section 2605, 2607, or 2608 of this title" for "section 2607 or 2608 of this title" and "within 3 years in the case of a violation of section 2605 of this title and 1 year in the case of a violation of section 2607 or 2608 of this title" for "within one year".
 
 <b>1983</b>—Pub. L. 98–181 amended section generally, striking out a reference to section 2605 of this title, and inserting provision allowing action in district where violation is alleged to have occurred, and provision relating to time limitations in actions brought by the Secretary, the Attorney General of any State, or the insurance commissioner of any State.
 

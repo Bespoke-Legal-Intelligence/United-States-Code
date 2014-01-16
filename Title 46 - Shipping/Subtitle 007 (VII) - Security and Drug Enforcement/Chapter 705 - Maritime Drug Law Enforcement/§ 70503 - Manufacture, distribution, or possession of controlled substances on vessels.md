@@ -62,7 +62,7 @@ Pub. L. 96–350, §3(a), (e), (h), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–
 
 46 App.:1903(e) (last sentence).
 
-In subsection (a), before paragraph (1), the words “may not” are substituted for “It is unlawful for” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (a), before paragraph (1), the words "may not" are substituted for "It is unlawful for" for consistency in the revised title and to eliminate unnecessary words.
 
-In subsection (b), the words “applies to” are substituted for “is intended to reach” for clarity and to eliminate unnecessary words.
+In subsection (b), the words "applies to" are substituted for "is intended to reach" for clarity and to eliminate unnecessary words.
 

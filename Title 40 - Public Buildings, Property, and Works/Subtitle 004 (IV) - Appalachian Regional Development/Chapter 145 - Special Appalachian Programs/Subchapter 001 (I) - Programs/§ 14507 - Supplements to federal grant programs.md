@@ -6,7 +6,7 @@ Definition.—
 
 &emsp;(1)
 
-Federal grant programs.—In this section, the term “federal grant programs”—
+Federal grant programs.—In this section, the term "federal grant programs"—
 
 &emsp;&emsp;(A) means any federal grant program that provides assistance for the acquisition or development of land, the construction or equipment of facilities, or other community or economic development or economic adjustment activities, including a federal grant program authorized by—
 
@@ -124,13 +124,13 @@ Pub. L. 89–4, title II, §214, Mar. 9, 1965, 79 Stat. 17; Pub. L. 90–103, ti
 
 40 App.:214(b)(2).
 
-In subsection (a)(1)(A), before subclause (i), the words “authorized by this Act or any other Act” are omitted as unnecessary.
+In subsection (a)(1)(A), before subclause (i), the words "authorized by this Act or any other Act" are omitted as unnecessary.
 
-In subsection (a)(1)(B)(ii), the words “under this Act or any other Act” and “a form of” are omitted as unnecessary.
+In subsection (a)(1)(B)(ii), the words "under this Act or any other Act" and "a form of" are omitted as unnecessary.
 
-In subsection (a)(2), the words “title II” are substituted for “section 8(c)” because of the general amendment and revision of the Federal Water Pollution Control Act by section 2 of the Federal Water Pollution Control Act Amendments of 1972 (Public Law 92–500, 86 Stat. 816).
+In subsection (a)(2), the words "title II" are substituted for "section 8(c)" because of the general amendment and revision of the Federal Water Pollution Control Act by section 2 of the Federal Water Pollution Control Act Amendments of 1972 (Public Law 92–500, 86 Stat. 816).
 
-In subsection (g)(1), the words “after September 30, 1998” are omitted as obsolete.
+In subsection (g)(1), the words "after September 30, 1998" are omitted as obsolete.
 
 #### References in Text
 
@@ -152,9 +152,9 @@ The Communications Act of 1934, referred to in subsec. (a)(1)(A)(ix), is act Jun
 
 #### Amendments
 
-<b>2008</b>—Subsec. (g)(1). Pub. L. 110–371, §2(g)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+<b>2008</b>—Subsec. (g)(1). Pub. L. 110–371, §2(g)(1), substituted "paragraphs (2) and (3)" for "paragraph (2)".
 
 Subsec. (g)(3). Pub. L. 110–371, §2(g)(2), added par. (3).
 
-<b>2006</b>—Subsec. (a)(1)(A)(iv). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+<b>2006</b>—Subsec. (a)(1)(A)(iv). Pub. L. 109–270 substituted "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
 

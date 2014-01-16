@@ -1,6 +1,6 @@
 ### §1492. Congressional reference cases
 
-Any bill, except a bill for a pension, may be referred by either House of Congress to the chiefjudge of the United States Court of Federal Claims for a report in conformity with section 2509 of this title.
+Any bill, except a bill for a pension, may be referred by either House of Congress to the chief judge of the United States Court of Federal Claims for a report in conformity with section 2509 of this title.
 
 (June 25, 1948, ch. 646, 62 Stat. 941; Pub. L. 89–681, §1, Oct. 15, 1966, 80 Stat. 958; Pub. L. 97–164, title I, §133(b), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
@@ -14,9 +14,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1982</b>—Pub. L. 97–164 substituted “chief judge of the United States Claims Court” for “chief commissioner of the Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted "chief judge of the United States Claims Court" for "chief commissioner of the Court of Claims".
 
 <b>1966</b>—Pub. L. 89–681 substituted provisions allowing any bill, except a bill for a pension, to be referred by either House of Congress to the chief commissioner of the Court of Claims for a report in conformity with section 2509 of this title for provisions giving the Court of Claims jurisdiction to report to either House of Congress on any bill referred by such House, except a bill for a pension, and to render judgment if the claim against the United States represented by the referred bill was one over which the court had jurisdiction under other Acts of Congress.
 

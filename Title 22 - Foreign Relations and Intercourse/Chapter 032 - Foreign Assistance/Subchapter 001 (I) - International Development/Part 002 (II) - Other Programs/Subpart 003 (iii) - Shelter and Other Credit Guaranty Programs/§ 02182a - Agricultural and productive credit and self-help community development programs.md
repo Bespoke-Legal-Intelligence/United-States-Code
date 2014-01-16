@@ -2,7 +2,7 @@
 
 #### (a) Financing pilot programs; scope
 
-It is the sense of the Congress that in order to stimulate the participation of the private sector in the economic development of less-developed countries, the authority conferred by this section should be used to establish pilot programs to encourage private banks, credit institutions, similar private lending organizations, cooperatives, and private nonprofit development organizations to make loans on reasonable terms to organized groups and individuals residing in a community for the purpose of enabling such groups and individuals to carry out agricultural credit and self-help community development projects for which they are unable to obtain financial assistance on reasonable terms. Agricultural credit and assistance for self-help community development projects should include, but not be limited to, material and such projects as wells, pumps, farm machinery, improved seed, fertilizer, pesticides, vocational training, food industry development, nutrition projects, improved breeding stock for farm animals, sanitation facilities, and looms and other handicraft aids.
+It is the sense of the Congress that in order to stimulate the participation of the private sector in the economic development of less-developed countries, the authority conferred by this section should be used to establish pilot programs to encourage private banks, credit institutions, similar private lending organizations, cooperatives, and private nonprofit development organizations to make loans on reasonable terms to organized groups and individuals residing in a community for the purpose of enabling such groups and individuals to carry out agricultural credit and self-help community development projects for which they are unable to obtain financial assistance on reasonable terms. Agricultural credit and assistance for self-help community development projects should include, but not be limited to, material and such projects as wells, pumps, farm machinery, improved seed,fertilizer, pesticides, vocational training, food industry development, nutrition projects, improved breeding stock for farm animals, sanitation facilities, and looms and other handicraft aids.
 
 #### (b) Guaranties; percentage limitation
 
@@ -48,33 +48,33 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Codification
 
-Amendment by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(3)\], Nov. 29, 1999, 113 Stat. 1535,1501A–120, directing repeal of subsec. (d) of this section did not become effective pursuant to section 1000(a)(2) \[title V, §586\] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under section 290f of this title.
+Amendment by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(3)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, directing repeal of subsec. (d) of this section did not become effective pursuant to section 1000(a)(2) \[title V, §586\] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under section 290f of this title.
 
 Amendment by Pub. L. 98–473 is based on section 312 of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
 
 #### Amendments
 
-<b>1985</b>—Subsec. (h). Pub. L. 99–83 substituted “1988” for “1986”.
+<b>1985</b>—Subsec. (h). Pub. L. 99–83 substituted "1988" for "1986".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–473 struck out “in Latin America,” after “economic development of less-developed countries” and “in not more than six Latin American countries” after “establish pilot programs”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473 struck out "in Latin America," after "economic development of less-developed countries" and "in not more than six Latin American countries" after "establish pilot programs".
 
-Subsec. (b). Pub. L. 98–473 struck out “in not more than five Latin American countries” after “nonprofit development organizations”.
+Subsec. (b). Pub. L. 98–473 struck out "in not more than five Latin American countries" after "nonprofit development organizations".
 
-Subsec. (h). Pub. L. 98–473 substituted “1986” for “1983”.
+Subsec. (h). Pub. L. 98–473 substituted "1986" for "1983".
 
-<b>1983</b>—Subsec. (h). Pub. L. 97–438 substituted “1983” for “1982”.
+<b>1983</b>—Subsec. (h). Pub. L. 97–438 substituted "1983" for "1982".
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–53, §112(b)(1), substituted “six” for “five”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–53, §112(b)(1), substituted "six" for "five".
 
-Subsec. (c). Pub. L. 96–53, §112(b)(2), substituted “$20,000,000” for “$15,000,000”.
+Subsec. (c). Pub. L. 96–53, §112(b)(2), substituted "$20,000,000" for "$15,000,000".
 
-Subsec. (h). Pub. L. 96–53, §112(b)(3), substituted “through September 30, 1982” for “until September 30, 1979”.
+Subsec. (h). Pub. L. 96–53, §112(b)(3), substituted "through September 30, 1982" for "until September 30, 1979".
 
-<b>1978</b>—Subsec. (h). Pub. L. 95–424, §115(b), substituted “September 30, 1979” for “September 30, 1978”.
+<b>1978</b>—Subsec. (h). Pub. L. 95–424, §115(b), substituted "September 30, 1979" for "September 30, 1978".
 
 Subsec. (j). Pub. L. 95–424, §502(d)(1), struck out subsec. (j) relating to a Presidential report to Congress on the results of the program established under this section.
 
-<b>1977</b>—Subsec. (h). Pub. L. 95–88 substituted “September 30, 1978” for “December 31, 1977”.
+<b>1977</b>—Subsec. (h). Pub. L. 95–88 substituted "September 30, 1978" for "December 31, 1977".
 
 #### Effective Date of 1985 Amendment
 

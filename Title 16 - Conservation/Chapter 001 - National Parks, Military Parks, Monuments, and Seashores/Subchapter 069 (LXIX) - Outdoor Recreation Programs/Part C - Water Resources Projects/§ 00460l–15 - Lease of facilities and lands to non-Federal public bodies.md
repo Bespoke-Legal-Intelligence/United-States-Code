@@ -6,7 +6,7 @@ At projects, the construction of which has commenced or been completed as of Jul
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–575 substituted “not less than one-half the costs of operation” for “costs of operation”.
+<b>1992</b>—Pub. L. 102–575 substituted "not less than one-half the costs of operation" for "costs of operation".
 
-<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

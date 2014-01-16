@@ -10,7 +10,7 @@ Section 1274, act Sept. 3, 1954, ch. 1257, title III, §334, 68 Stat. 1164, prov
 
 Section 1275, act Sept. 3, 1954, ch. 1257, title III, §335, 68 Stat. 1165, related to appointment in appropriate higher grade after temporary appointment. See section 14301 et seq. of Title 10.
 
-Section 1276, act Sept. 3, 1954, ch. 1257, title III, §336, 68 Stat. 1165, related to officers of the National Guard of the United States. See section 14301 et seq. of Title 10.
+Section 1276, act Sept. 3, 1954, ch. 1257, title III, §336, 68 Stat. 1165, related to officers of the National Guardof the United States. See section 14301 et seq. of Title 10.
 
 Section 1277, act Sept. 3, 1954, ch. 1257, title III, §337, 68 Stat. 1165, which related to withholding promotion on release from active duty, was also repealed by act June 30, 1955, ch. 247, §11, 69 Stat. 222.
 

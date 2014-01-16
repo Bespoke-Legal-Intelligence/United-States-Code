@@ -2,15 +2,15 @@
 
 #### (a) Priority purchaser
 
-The term “priority purchaser” means (A) a resident council organized to acquire the housing in accordance with a resident homeownership program that meets the requirements of section 4121 <sup>1</sup> of this title; and (B) any nonprofit organization or State or local agency that agrees to maintain low-income affordability restrictions for the remaining useful life of the housing (as determined under section 4112(d) <sup>2</sup> of this title).
+The term "priority purchaser" means (A) a resident council organized to acquire the housing in accordance with a resident homeownership program that meets the requirements of section 4121 <sup>1</sup> of this title; and (B) any nonprofit organization or State or local agency that agrees to maintain low-income affordability restrictions for the remaining useful life of the housing (as determined under section 4112(d) <sup>2</sup> of this title).
 
 #### (b) Qualified purchaser
 
-The term “qualified purchaser” means any entity that agrees to maintain low-income affordability restrictions for the remaining useful life of the housing (as determined under section 4112(c) of this title), and includes for-profit entities and priority purchasers.
+The term "qualified purchaser" means any entity that agrees to maintain low-income affordability restrictions for the remaining useful life of the housing (as determined under section 4112(c) of this title), and includes for-profit entities and priority purchasers.
 
 #### (c) Related parties
 
-Except as provided in subsection (d) of this section, the terms “qualified purchaser” and “priority purchaser” do not include any entity that, either directly or indirectly, is wholly or partially owned or controlled by the owner of the housing being transferred under this subchapter, is under whole or partial common control with such owner, or has any financial interest in such owner or in which such owner has any financial interest. The Secretary shall issue any regulations appropriate to implement the preceding sentence.
+Except as provided in subsection (d) of this section, the terms "qualified purchaser" and "priority purchaser" do not include any entity that, either directly or indirectly, is wholly or partially owned or controlled by the owner of the housing being transferred under this subchapter, is under whole or partial common control with such owner, or has any financial interest in such owner or in which such owner has any financial interest. The Secretary shall issue any regulations appropriate to implement the preceding sentence.
 
 #### (d) Management exception
 
@@ -20,9 +20,9 @@ A qualified purchaser shall not be precluded from retaining as a property manage
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–550 substituted “4112(c)” for “4112(d)”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–550 substituted "4112(c)" for "4112(d)".
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “4116”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "4116".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be section “4112(c)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be section "4112(c)".</i>
 

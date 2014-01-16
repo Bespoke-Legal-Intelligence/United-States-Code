@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) that the plan provides for attainment of the PM–10 national ambient air quality standard by the applicable attainment date, or
 
-&emsp;&emsp;&emsp;(ii) for any area for which the State is seeking, pursuant to section 7513(e) of this title, an extension of the attainment date beyond the date set forth in section 7513(c) of this title, that attainment by that date would be impracticable, and that the plan provides for attainment by the most expeditious alternative date practicable.
+&emsp;&emsp;&emsp;(ii) for any area for which the State is seeking, pursuant to section 7513(e) of this title, an extension of the attainment date beyond the date set forth in section 7513(c)of this title, that attainment by that date would be impracticable, and that the plan provides for attainment by the most expeditious alternative date practicable.
 
 &emsp;&emsp;(B) Provisions to assure that the best available control measures for the control of PM–10 shall be implemented no later than 4 years after the date the area is classified (or reclassified) as a Serious Area.
 
@@ -40,7 +40,7 @@
 
 #### (3) Major sources
 
-&emsp;For any Serious Area, the terms “major source” and “major stationary source” include any stationary source or group of stationary sources located within a contiguous area and under common control that emits, or has the potential to emit, at least 70 tons per year of PM–10.
+&emsp;For any Serious Area, the terms "major source" and "major stationary source" include any stationary source or group of stationary sources located within a contiguous area and under common control that emits, or has the potential to emit, at least 70 tons per year of PM–10.
 
 #### (c) Milestones
 
@@ -52,7 +52,7 @@
 
 #### (d) Failure to attain
 
-In the case of a Serious PM–10 nonattainment area in which the PM–10 standard is not attained by the applicable attainment date, the State in which such area is located shall, after notice and opportunity for public comment, submit within 12 months after the applicable attainment date, plan revisions which provide for attainment of the PM–10 air quality standard and, from the date of such submission until attainment, for an annual reduction in PM–10 or PM–10 precursor emissions within the area of not less than 5 percent of the amount of suchemissions as reported in the most recent inventory prepared for such area.
+In the case of a Serious PM–10 nonattainment area in which the PM–10 standard is not attained by the applicable attainment date, the State in which such area is located shall, after notice and opportunity for public comment, submit within 12 months after the applicable attainment date, plan revisions which provide for attainment of the PM–10 air quality standard and, from the date of such submission until attainment, for an annual reduction in PM–10 or PM–10 precursor emissions within the area of not less than 5 percent of the amount of such emissions as reported in the most recent inventory prepared for such area.
 
 #### (e) PM–10 precursors
 
@@ -60,5 +60,5 @@ The control requirements applicable under plans in effect under this part for ma
 
 (July 14, 1955, ch. 360, title I, §189, as added Pub. L. 101–549, title I, §105(a), Nov. 15, 1990, 104 Stat. 2460.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

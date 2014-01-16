@@ -36,7 +36,7 @@ A prior section 390i, Pub. L. 88–74, §8, formerly §10, July 22, 1963, 77 Sta
 
 A prior section 8 of Pub. L. 88–74 was classified to section 390g of this title prior to repeal by Pub. L. 99–198.
 
-A prior section 390j, Pub. L. 88–74, §9, formerly §11, July 22, 1963, 77 Stat. 92; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered §9, Pub. L. 99–198, title XIV, §1411(k), Dec. 23, 1985, 99 Stat. 1548, related to availability of appropriated funds for administration, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390j, Pub. L. 88–74, §9, formerly §11, July 22, 1963, 77 Stat. 92; Pub. L. 95–113, title XIV,§1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered §9, Pub. L. 99–198, title XIV, §1411(k), Dec. 23, 1985, 99 Stat. 1548, related to availability of appropriated funds for administration, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 9 of Pub. L. 88–74 was renumbered section 7 and was classified to section 390h of this title, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
@@ -44,11 +44,11 @@ A prior section 390k, Pub. L. 88–74, §12, July 22, 1963, 77 Stat. 92, authori
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7405, substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7405, substituted "2012" for "2007".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted "2007" for "2002".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–185 substituted "each of fiscal years 1996 through 2002" for "fiscal years 1996 and 1997".
 
 #### Effective Date of 2008 Amendment
 

@@ -8,15 +8,15 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315 substituted “2009” for “1999” and “five succeeding” for “4 succeeding”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315 substituted "2009" for "1999" and "five succeeding" for "4 succeeding".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–244 substituted “1999” for “1993”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244 substituted "1999" for "1993".
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–325 amended subsec. (a) generally, substituting provisions authorizing appropriations for fiscal years 1993 to 1997 for provisions authorizing appropriations for fiscal years 1987 to 1992.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–477 substituted “1990 and 1991, and for fiscal year 1992, $10,000,000” for “and 1990”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–477 substituted "1990 and 1991, and for fiscal year 1992, $10,000,000" for "and 1990".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–428 substituted “1987, 1988, 1989, and 1990” for “1985, 1986, and 1987”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–428 substituted "1987, 1988, 1989, and 1990" for "1985, 1986, and 1987".
 
 #### Effective Date of 1998 Amendment
 

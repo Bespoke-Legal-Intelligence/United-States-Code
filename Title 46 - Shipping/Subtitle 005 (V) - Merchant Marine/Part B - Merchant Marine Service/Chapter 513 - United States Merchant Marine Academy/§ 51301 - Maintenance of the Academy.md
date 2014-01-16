@@ -28,85 +28,85 @@ June 29, 1936, ch. 858, title XIII, §1303(a), as added Pub. L. 96–453, §2, O
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239 substituted “
+<b>2013</b>—Subsec. (a). Pub. L. 112–239 substituted "
 
-In General” for “
+In General" for "
 
-IN General” in heading.
+IN General" in heading.
 
 <b>2011</b>—Pub. L. 112–81 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 111–383 inserted “as an institution of higher education” after “Academy” and substituted “States, to conduct research with respect to maritime-related matters, and to provide such other appropriate academic support, assistance, training, and activities in accordance with the provisions of this chapter as the Secretary may authorize.” for “States.”
+Pub. L. 111–383 inserted "as an institution of higher education" after "Academy" and substituted "States, to conduct research with respect to maritime-related matters, and to provide such other appropriate academic support, assistance, training, and activities in accordance with the provisions of this chapter as the Secretary may authorize." for "States."
 
 #### Actions To Address Sexual Harassment and Violence at the United States Merchant Marine Academy
 
 Pub. L. 110–417, div. C, title XXXV, §3507, Oct. 14, 2008, 122 Stat. 4765, provided that:
 
-“(a)
+"(a)
 
 Required Policy.—The Secretary of Transportation shall direct the Superintendent of the United States Merchant Marine Academy to prescribe a policy on sexual harassment and sexual violence applicable to the cadets and other personnel of the Academy.
 
-“(b)
+"(b)
 
 Matters To Be Specified in Policy.—The policy on sexual harassment and sexual violence prescribed under this section shall include—
 
-&emsp;“(1) a program to promote awareness of the incidence of rape, acquaintance rape, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel;
+&emsp;"(1) a program to promote awareness of the incidence of rape, acquaintance rape, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel;
 
-&emsp;“(2) procedures that a cadet should follow in the case of an occurrence of sexual harassment or sexual violence, including—
+&emsp;"(2) procedures that a cadet should follow in the case of an occurrence of sexual harassment or sexual violence, including—
 
-&emsp;&emsp;“(A) a specification of the person or persons to whom an alleged occurrence of sexual harassment or sexual violence should be reported by a cadet and the options for confidential reporting;
+&emsp;&emsp;"(A) a specification of the person or persons to whom an alleged occurrence of sexual harassment or sexual violence should be reported by a cadet and the options for confidential reporting;
 
-&emsp;&emsp;“(B) a specification of any other person whom the victim should contact; and
+&emsp;&emsp;"(B) a specification of any other person whom the victim should contact; and
 
-&emsp;&emsp;“(C) procedures on the preservation of evidence potentially necessary for proof of criminal sexual assault;
+&emsp;&emsp;"(C) procedures on the preservation of evidence potentially necessary for proof of criminal sexual assault;
 
-&emsp;“(3) a procedure for disciplinary action in cases of alleged criminal sexual assault involving a cadet or other Academy personnel;
+&emsp;"(3) a procedure for disciplinary action in cases of alleged criminal sexual assault involving a cadet or other Academy personnel;
 
-&emsp;“(4) any other sanction authorized to be imposed in a substantiated case of sexual harassment or sexual violence involving a cadet or other Academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible; and
+&emsp;"(4) any other sanction authorized to be imposed in a substantiated case of sexual harassment or sexual violence involving a cadet or other Academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible; and
 
-&emsp;“(5) required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment or sexual violence involving Academy personnel.
+&emsp;"(5) required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment or sexual violence involving Academy personnel.
 
-“(c)
+"(c)
 
 Annual Assessment.—
 
-&emsp;“(1) The Secretary shall direct the Superintendent to conduct an assessment at the Academy during each Academy program year, to be administered by the Department of Transportation, to determine the effectiveness of the policies, training, and procedures of the Academy with respect to sexual harassment and sexual violence involving Academy personnel.
+&emsp;"(1) The Secretary shall direct the Superintendent to conduct an assessment at the Academy during each Academy program year, to be administered by the Department of Transportation, to determine the effectiveness of the policies, training, and procedures of the Academy with respect to sexual harassment and sexual violence involving Academy personnel.
 
-&emsp;“(2) For the assessment at the Academy under paragraph (1) with respect to an Academy program year that begins in an odd-numbered calendar year, the Superintendent shall conduct a survey, to be administered by the Department, of Academy personnel—
+&emsp;"(2) For the assessment at the Academy under paragraph (1) with respect to an Academy program year that begins in an odd-numbered calendar year, the Superintendent shall conduct a survey, to be administered by the Department, of Academy personnel—
 
-&emsp;&emsp;“(A) to measure—
+&emsp;&emsp;"(A) to measure—
 
-&emsp;&emsp;&emsp;“(i) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have been reported to officials of the Academy; and
+&emsp;&emsp;&emsp;"(i) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have been reported to officials of the Academy; and
 
-&emsp;&emsp;&emsp;“(ii) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have not been reported to officials of the Academy; and
+&emsp;&emsp;&emsp;"(ii) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have not been reported to officials of the Academy; and
 
-&emsp;&emsp;“(B) to assess the perceptions of Academy personnel of—
+&emsp;&emsp;"(B) to assess the perceptions of Academy personnel of—
 
-&emsp;&emsp;&emsp;“(i) the policies, training, and procedures on sexual harassment and sexual violence involving Academy personnel;
+&emsp;&emsp;&emsp;"(i) the policies, training, and procedures on sexual harassment and sexual violence involving Academy personnel;
 
-&emsp;&emsp;&emsp;“(ii) the enforcement of such policies;
+&emsp;&emsp;&emsp;"(ii) the enforcement of such policies;
 
-&emsp;&emsp;&emsp;“(iii) the incidence of sexual harassment and sexual violence involving Academy personnel; and
+&emsp;&emsp;&emsp;"(iii) the incidence of sexual harassment and sexual violence involving Academy personnel; and
 
-&emsp;&emsp;&emsp;“(iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel.
+&emsp;&emsp;&emsp;"(iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel.
 
-“(d)
+"(d)
 
 Annual Report.—
 
-&emsp;“(1) The Secretary shall direct the Superintendent of the Academy to submit to the Secretary a report on sexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year.
+&emsp;"(1) The Secretary shall direct the Superintendent of the Academy to submit to the Secretary a report on sexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year.
 
-&emsp;“(2) Each report under paragraph (1) shall include, for the Academy program year covered by the report, the following:
+&emsp;"(2) Each report under paragraph (1) shall include, for the Academy program year covered by the report, the following:
 
-&emsp;&emsp;“(A) The number of sexual assaults, rapes, and other sexual offenses involving cadets or other Academy personnel that have been reported to Academy officials during the program year and, of those reported cases, the number that have been substantiated.
+&emsp;&emsp;"(A) The number of sexual assaults, rapes, and other sexual offenses involving cadets or other Academy personnel that have been reported to Academy officials during the program year and, of those reported cases, the number that have been substantiated.
 
-&emsp;&emsp;“(B) The policies, procedures, and processes implemented by the Superintendent and the leadership of the Academy in response to sexual harassment and sexual violence involving cadets or other Academy personnel during the program year.
+&emsp;&emsp;"(B) The policies, procedures, and processes implemented by the Superintendent and the leadership of the Academy in response to sexual harassment and sexual violence involving cadets or other Academy personnel during the program year.
 
-&emsp;&emsp;“(C) A plan for the actions that are to be taken in the following Academy program year regarding prevention of and response to sexual harassment and sexual violence involving cadets or other Academy personnel.
+&emsp;&emsp;"(C) A plan for the actions that are to be taken in the following Academy program year regarding prevention of and response to sexual harassment and sexual violence involving cadets or other Academy personnel.
 
-&emsp;“(3) Each report under paragraph (1) for an Academy program year that begins in an odd-numbered calendar year shall include the results of the surveyconducted in that program year under subsection (c)(2).
+&emsp;"(3) Each report under paragraph (1) for an Academy program year that begins in an odd-numbered calendar year shall include the results of the survey conducted in that program year under subsection (c)(2).
 
-&emsp;“(4)(A) The Superintendent shall transmit to the Secretary, and to the Board of Visitors of the Academy, each report received by the Superintendent under this subsection, together with the Superintendent's comments on the report.
+&emsp;"(4)(A) The Superintendent shall transmit to the Secretary, and to the Board of Visitors of the Academy, each report received by the Superintendent under this subsection, together with the Superintendent's comments on the report.
 
-&emsp;“(B) The Secretary shall transmit each such report, together with the Secretary's comments on the report, to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.”
+&emsp;"(B) The Secretary shall transmit each such report, together with the Secretary's comments on the report, to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure."
 

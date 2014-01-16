@@ -4,7 +4,7 @@
 
 #### (1) Report to Congress
 
-&emsp;The Secretary of State shall prepare and submit to the Congress, annually, a report concerning diplomatic immunity entitled “Report on Cases Involving Diplomatic Immunity”.
+&emsp;The Secretary of State shall prepare and submit to the Congress, annually, a report concerning diplomatic immunity entitled "Report on Cases Involving Diplomatic Immunity".
 
 #### (2) Content of report
 
@@ -22,9 +22,9 @@
 
 &emsp;&emsp;(F) Whether the Secretary has made the notifications referred to in subsection (c) of this section during the period covered by the report.
 
-#### (3) “Serious criminal offense” defined
+#### (3) "Serious criminal offense" defined
 
-&emsp;For the purposes of this section, the term “serious criminal offense” means—
+&emsp;For the purposes of this section, the term "serious criminal offense" means—
 
 &emsp;&emsp;(A) any felony under Federal, State, or local law;
 

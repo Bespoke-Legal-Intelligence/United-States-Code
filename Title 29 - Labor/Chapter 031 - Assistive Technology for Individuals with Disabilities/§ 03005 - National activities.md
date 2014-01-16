@@ -182,7 +182,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;&emsp;(III) State assistive technology program device reutilization program sites;
 
-&emsp;&emsp;&emsp;&emsp;(IV) alternative financing programs or State financing systems operated through, or independently of, State assistive technology programs, and other sources of funding for assistive technology devices; and
+&emsp;&emsp;&emsp;&emsp;(IV) alternative financing programs or State financing systems operated through, or independently of, State assistive technology programs, and othersources of funding for assistive technology devices; and
 
 &emsp;&emsp;&emsp;&emsp;(V) various programs, including programs with tax credits, available to employers for hiring or accommodating employees who are individuals with disabilities.
 
@@ -256,9 +256,9 @@ With respect to the activities described in subsection (b) to be funded under th
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (b)(2)(B)(ii), isPub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended. Subtitle D of title I of the Act is classified generally to part D (§15061 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (b)(2)(B)(ii), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended. Subtitle D of title I of the Act is classified generally to part D (§15061 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(4)(B)(v). Pub. L. 110–69 substituted “the National Institute of Standards and Technology,” for “the Technology Administration of the Department of Commerce,”.
+<b>2007</b>—Subsec. (b)(4)(B)(v). Pub. L. 110–69 substituted "the National Institute of Standards and Technology," for "the Technology Administration of the Department of Commerce,".
 

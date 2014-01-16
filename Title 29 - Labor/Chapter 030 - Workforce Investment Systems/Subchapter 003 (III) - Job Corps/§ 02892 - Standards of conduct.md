@@ -26,11 +26,11 @@ The Secretary shall provide, and directors of Job Corps centers shall stringentl
 
 #### (i) Controlled substance
 
-&emsp;&emsp;&emsp;The term “controlled substance” has the meaning given the term in section 802 of title 21.
+&emsp;&emsp;&emsp;The term "controlled substance" has the meaning given the term in section 802 of title 21.
 
 #### (ii) Zero tolerance policy
 
-&emsp;&emsp;&emsp;The term “zero tolerance policy” means a policy under which an enrollee shall be automatically dismissed from the Job Corps after a determination by the director that the enrollee has carried out an action described in subparagraph (A).
+&emsp;&emsp;&emsp;The term "zero tolerance policy" means a policy under which an enrollee shall be automatically dismissed from the Job Corps after a determination by the director that the enrollee has carried out an action described in subparagraph (A).
 
 #### (c) Appeal
 

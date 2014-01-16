@@ -6,5 +6,5 @@ No civil action for the collection or recovery of taxes, or of any fine, penalty
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

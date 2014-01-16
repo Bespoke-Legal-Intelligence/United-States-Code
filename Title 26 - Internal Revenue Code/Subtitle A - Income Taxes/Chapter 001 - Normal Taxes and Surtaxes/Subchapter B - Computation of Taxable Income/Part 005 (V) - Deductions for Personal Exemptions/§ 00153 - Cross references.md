@@ -14,17 +14,17 @@ A prior section 153, act Aug. 16, 1954, ch. 736, 68A Stat. 45, related to determ
 
 #### Amendments
 
-<b>2004</b>—Pars. (1) to (4). Pub. L. 108–311 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “For definitions of ‘husband’ and ‘wife’, as used in section 152(b)(4), see section 7701(a)(17).”
+<b>2004</b>—Pars. (1) to (4). Pub. L. 108–311 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: "For definitions of 'husband' and 'wife', as used in section 152(b)(4), see section 7701(a)(17)."
 
-<b>1986</b>—Par. (4). Pub. L. 99–514, §1272(d)(7), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “For exemptions of citizens deriving income mainly from sources within possessions of the United States, see section 931(e).”
+<b>1986</b>—Par. (4). Pub. L. 99–514, §1272(d)(7), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "For exemptions of citizens deriving income mainly from sources within possessions of the United States, see section 931(e)."
 
 Par. (5). Pub. L. 99–514, §1272(d)(7), redesignated par. (5) as (4).
 
-Pub. L. 99–514, §1301(j)(8), substituted “section 7703” for “section 143”.
+Pub. L. 99–514, §1301(j)(8), substituted "section 7703" for "section 143".
 
 <b>1976</b>—Par. (5). Pub. L. 94–455, §1901(b)(7)(C), added par. (5).
 
-<b>1966</b>—Par. (3). Pub. L. 89–809 substituted “873(b)(3)” for “873(d)”.
+<b>1966</b>—Par. (3). Pub. L. 89–809 substituted "873(b)(3)" for "873(d)".
 
 #### Effective Date of 2004 Amendment
 

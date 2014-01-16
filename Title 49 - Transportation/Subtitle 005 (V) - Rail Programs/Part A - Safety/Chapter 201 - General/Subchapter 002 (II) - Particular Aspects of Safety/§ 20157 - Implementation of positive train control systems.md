@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Plan required.—Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, each Class I railroad carrier and each entity providing regularly scheduled intercity or commuter railpassenger transportation shall develop and submit to the Secretary of Transportation a plan for implementing a positive train control system by December 31, 2015, governing operations on—
+Plan required.—Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, each Class I railroad carrier and each entity providing regularly scheduled intercity or commuter rail passenger transportation shall develop and submit to the Secretary of Transportation a plan for implementing a positive train control system by December 31, 2015, governing operations on—
 
 &emsp;&emsp;(A) its main line over which intercity rail passenger transportation or commuter rail passenger transportation, as defined in section 24102, is regularly provided;
 
@@ -52,19 +52,19 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Interoperability.—The term “interoperability” means the ability to control locomotives of the host railroad and tenant railroad to communicate with and respond to the positive train control system, including uninterrupted movements over property boundaries.
+Interoperability.—The term "interoperability" means the ability to control locomotives of the host railroad and tenant railroad to communicate with and respond to the positive train control system, including uninterrupted movements over property boundaries.
 
 &emsp;(2)
 
-Main line.—The term “main line” means a segment or route of railroad tracks over which 5,000,000 or more gross tons of railroad traffic is transported annually, except that—
+Main line.—The term "main line" means a segment or route of railroad tracks over which 5,000,000 or more gross tons of railroad traffic is transported annually, except that—
 
 &emsp;&emsp;(A) the Secretary may, through regulations under subsection (g), designate additional tracks as main line as appropriate for this section; and
 
-&emsp;&emsp;(B) for intercity rail passenger transportation or commuter rail passenger transportation routes or segments over which limited or no freight railroad operations occur, the Secretary shall define the term “main line” by regulation.
+&emsp;&emsp;(B) for intercity rail passenger transportation or commuter rail passenger transportation routes or segments over which limited or no freight railroad operations occur, the Secretary shall define the term "main line" by regulation.
 
 &emsp;(3)
 
-Positive train control system.—The term “positive train control system” means a system designed to prevent train-to-train collisions, over-speed derailments, incursions into established work zone limits, and the movement of a train through a switch left in the wrong position.
+Positive train control system.—The term "positive train control system" means a system designed to prevent train-to-train collisions, over-speed derailments, incursions into established work zone limits, and the movement of a train through a switch left in the wrong position.
 
 (Added Pub. L. 110–432, div. A, title I, §104(a), Oct. 16, 2008, 122 Stat. 4856.)
 
@@ -72,5 +72,5 @@ Positive train control system.—The term “positive train control system” me
 
 The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (a)(1), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

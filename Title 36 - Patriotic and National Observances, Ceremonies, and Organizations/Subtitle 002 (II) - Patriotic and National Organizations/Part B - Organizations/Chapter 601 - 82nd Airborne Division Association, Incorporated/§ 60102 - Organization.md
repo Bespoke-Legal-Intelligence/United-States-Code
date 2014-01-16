@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—82nd Airborne Division Association, Incorporated (in this chapter, the “corporation”), a nonprofit corporation incorporated in Illinois, is a federally chartered corporation.
+Federal Charter.—82nd Airborne Division Association, Incorporated (in this chapter, the "corporation"), a nonprofit corporation incorporated in Illinois, is a federally chartered corporation.
 
 (b)
 
@@ -34,5 +34,5 @@ Nov. 5, 1990, Pub. L. 101–510, title XVI, §§1601, 1616, 104 Stat. 1736, 1738
 
 Subsection (a) is substituted for the source provision for consistency in the revised title.
 
-In subsection (b), the words “restrictions or” are omitted as unnecessary.
+In subsection (b), the words "restrictions or" are omitted as unnecessary.
 

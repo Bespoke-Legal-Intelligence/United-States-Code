@@ -22,7 +22,7 @@
 
 #### (2) Debt buybacks
 
-&emsp;Notwithstanding any other provision of law, the President may, in accordance with this section, sell to any eligible country any concessional loans described in section 2431d(a)(1) of this title or any credits described in section 2431e(a)(1) of this title, or on receipt of payment from an eligible country, reduce or cancel such loans (or credits) or portion thereof, only for the purpose of facilitating a debt buyback by an eligible country of its own qualified debt, only if the eligible country uses an additional amount of the local currency of the eligible country, equal to not less than the lessor of 40 percent of the price paid for such debt by such eligible country, or the difference between the price paid for such debt and the face value of such debt, to support eligible activities described in section 2431g(d) of this title.
+&emsp;Notwithstanding any other provision of law, the President may, in accordance with this section, sell to any eligible country any concessional loans described in section 2431d(a)(1) of this title or any credits described in section 2431e(a)(1) of this title, or on receipt of payment from an eligible country, reduce or cancel such loans (or credits) or portion thereof, only for the purpose of facilitating a debt buyback by an eligible country of its own qualified debt, only if the eligible country uses an additional amount of the local currency ofthe eligible country, equal to not less than the lessor of 40 percent of the price paid for such debt by such eligible country, or the difference between the price paid for such debt and the face value of such debt, to support eligible activities described in section 2431g(d) of this title.
 
 #### (3) Limitation
 
@@ -54,7 +54,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a)(1)(D). Pub. L. 107–26 substituted “to be appropriated under sections 2431d(a)(2), 2431e(a)(2), and 2431d(d) of this title” for “to appropriated under sections 2431d(a)(2) and 2431e(a)(2) of this title”.
+<b>2001</b>—Subsec. (a)(1)(D). Pub. L. 107–26 substituted "to be appropriated under sections 2431d(a)(2), 2431e(a)(2), and 2431d(d) of this title" for "to appropriated under sections 2431d(a)(2) and 2431e(a)(2) of this title".
 
 #### Delegation of Functions
 

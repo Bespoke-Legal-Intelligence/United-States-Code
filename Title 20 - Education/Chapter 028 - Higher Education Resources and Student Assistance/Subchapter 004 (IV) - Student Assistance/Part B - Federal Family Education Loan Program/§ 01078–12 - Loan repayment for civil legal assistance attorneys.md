@@ -10,7 +10,7 @@ In this section:
 
 #### (1) Civil legal assistance attorney
 
-&emsp;The term “civil legal assistance attorney” means an attorney who—
+&emsp;The term "civil legal assistance attorney" means an attorney who—
 
 &emsp;&emsp;(A) is a full-time employee of—
 
@@ -40,7 +40,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “student loan” means—
+&emsp;&emsp;Except as provided in subparagraph (B), the term "student loan" means—
 
 &emsp;&emsp;&emsp;(i) subject to clause (ii), a loan made, insured, or guaranteed under this part, part C, or part D; and
 
@@ -54,7 +54,7 @@ In this section:
 
 #### (B) Exclusion of parent plus loans
 
-&emsp;&emsp;The term “student loan” does not include any of the following loans:
+&emsp;&emsp;The term "student loan" does not include any of the following loans:
 
 &emsp;&emsp;&emsp;(i) A loan made to the parents of a dependent student under section 1078–2 of this title.
 
@@ -78,7 +78,7 @@ From amounts appropriated under subsection (i) for a fiscal year, the Secretary 
 
 #### (1) In general
 
-&emsp;To be eligible to receive repayment benefits under subsection (c), a borrower shall enterinto a written agreement with the Secretary that specifies that—
+&emsp;To be eligible to receive repayment benefits under subsection (c), a borrower shall enter into a written agreement with the Secretary that specifies that—
 
 &emsp;&emsp;(A) the borrower will remain employed as a civil legal assistance attorney for a required period of service of not less than three years, unless involuntarily separated from that employment;
 
@@ -104,7 +104,7 @@ From amounts appropriated under subsection (i) for a fiscal year, the Secretary 
 
 #### (A) Student loan payment amount
 
-&emsp;&emsp;Student loan repayments made by the Secretary under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed upon by the borrower and the Secretary in an agreement under paragraph (1), except that the amount paid by the Secretary under this section shall not exceed—
+&emsp;&emsp;Student loan repayments made by the Secretary under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed upon by theborrower and the Secretary in an agreement under paragraph (1), except that the amount paid by the Secretary under this section shall not exceed—
 
 &emsp;&emsp;&emsp;(i) $6,000 for any borrower in any calendar year; or
 

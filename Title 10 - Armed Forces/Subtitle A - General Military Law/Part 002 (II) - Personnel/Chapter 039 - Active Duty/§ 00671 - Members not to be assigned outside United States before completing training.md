@@ -24,17 +24,17 @@ Historical and Revision Notes
 
 June 24, 1948, ch. 625, §4(a) (words between semicolon and proviso of 6th par.); restated June 19, 1951, ch. 144, §1(d) (words between semicolon and proviso of 6th par.), 65 Stat. 78.
 
-The words “four months of basic training or its equivalent” are substituted for the words “the equivalent of at least four months of basic training”. The words “who is enlisted, inducted, appointed, or ordered to active duty after the date of enactment of the 1951 Amendments to the Universal Military Training and Service Act \[June 19, 1951\]” and “at any installation located” are omitted as surplusage.
+The words "four months of basic training or its equivalent" are substituted for the words "the equivalent of at least four months of basic training". The words "who is enlisted, inducted, appointed, or ordered to active duty after the date of enactment of the 1951 Amendments to the Universal Military Training and Service Act \[June 19, 1951\]" and "at any installation located" are omitted as surplusage.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–160, §511(1), inserted “(except as provided in subsection (c))” after “may not”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–160, §511(1), inserted "(except as provided in subsection (c))" after "may not".
 
 Subsec. (c). Pub. L. 103–160, §511(2), added subsec. (c).
 
-<b>1986</b>—Pub. L. 99–661 amended section generally. Prior to amendment, section read as follows: “No member of an armed force may be assigned to active duty on land outside the United States and its Territories and possessions, until he has had twelve weeks of basic training or its equivalent.”
+<b>1986</b>—Pub. L. 99–661 amended section generally. Prior to amendment, section read as follows: "No member of an armed force may be assigned to active duty on land outside the United States and its Territories and possessions, until he has had twelve weeks of basic training or its equivalent."
 
 <b>1975</b>—Pub. L. 94–106 reduced minimum period of basic training from four months to twelve weeks.
 

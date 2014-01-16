@@ -14,17 +14,17 @@
 
 In this section:
 
-&emsp;(1) The term “budget” means the budget for a fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
+&emsp;(1) The term "budget" means the budget for a fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
 
-&emsp;(2) The term “nuclear security budget materials” means the materials submitted to Congress by the Administrator in support of the budget for a fiscal year.
+&emsp;(2) The term "nuclear security budget materials" means the materials submitted to Congress by the Administrator in support of the budget for a fiscal year.
 
 (Pub. L. 106–65, div. C, title XXXII, §3255, as added Pub. L. 111–84, div. C, title XXXI, §3116(a), Oct. 28, 2009, 123 Stat. 2707; amended Pub. L. 111–383, div. C, title XXXI, §3113(a), Jan. 7, 2011, 124 Stat. 4509; Pub. L. 112–239, div. C, title XXXI, §3132(a)(2), Jan. 2, 2013, 126 Stat. 2185.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239, §3132(a)(2)(A), substituted “nuclear security enterprise” for “nuclear security complex” wherever appearing.
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §3132(a)(2)(A), substituted "nuclear security enterprise" for "nuclear security complex" wherever appearing.
 
-Subsec. (b)(3). Pub. L. 112–239, §3132(a)(2)(B), struck out par. (3), which defined “nuclear security complex”.
+Subsec. (b)(3). Pub. L. 112–239, §3132(a)(2)(B), struck out par. (3), which defined "nuclear security complex".
 
 <b>2011</b>—Pub. L. 111–383 amended section generally. Prior to amendment, section related to biennial plan and budget assessment on the modernization and refurbishment of the nuclear security complex.
 

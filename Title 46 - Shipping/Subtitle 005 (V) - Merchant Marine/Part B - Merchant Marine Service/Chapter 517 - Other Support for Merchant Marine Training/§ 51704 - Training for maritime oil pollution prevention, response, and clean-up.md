@@ -50,5 +50,5 @@ June 29, 1936, ch. 858, title XIII, §1305(c), as added Pub. L. 101–595, title
 
 46 App.:1295d(c) (2)(B), (3).
 
-In subsection (c)(5), the words “or titled under the law of a State” are substituted for “documented under the laws of . . . any State” for consistency with the terminology in 46 U.S.C. 2101(46) (which is being moved to chapter 1 of the revised title) and 46 U.S.C. ch. 125.
+In subsection (c)(5), the words "or titled under the law of a State" are substituted for "documented under the laws of . . . any State" for consistency with the terminology in 46 U.S.C. 2101(46) (which is being moved to chapter 1 of the revised title) and 46 U.S.C. ch. 125.
 

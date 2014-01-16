@@ -6,7 +6,7 @@ National Highway Institute.—
 
 &emsp;(1)
 
-In general.—The Secretary shall operate in the Federal Highway Administration a National Highway Institute (in this subsection referred to as the “Institute”). The Secretary shall administer, through the Institute, the authority vested in the Secretary by this title or by any other law for the development and conduct of education and training programs relating to highways.
+In general.—The Secretary shall operate in the Federal Highway Administration a National Highway Institute (in this subsection referred to as the "Institute"). The Secretary shall administer, through the Institute, the authority vested in the Secretary by this title or by any other law for the development and conduct of education and training programs relating to highways.
 
 &emsp;(2)
 
@@ -202,7 +202,7 @@ Dwight david eisenhower transportation fellowship program.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall establish and implement a transportation research fellowship program for the purpose of attracting qualified students to the field of transportation, which program shall be known as the “Dwight David Eisenhower Transportation Fellowship Program”.
+In general.—The Secretary shall establish and implement a transportation research fellowship program for the purpose of attracting qualified students to the field of transportation, which program shall be known as the "Dwight David Eisenhower Transportation Fellowship Program".
 
 &emsp;&emsp;(B)
 
@@ -248,15 +248,15 @@ Definitions.—In this subsection, the following definitions apply:
 
 &emsp;&emsp;(A)
 
-Institution of higher education.—The term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+Institution of higher education.—The term "institution of higher education" has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
 &emsp;&emsp;(B)
 
-Local educational agency.—The term “local educational agency” has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+Local educational agency.—The term "local educational agency" has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
 
 &emsp;&emsp;(C)
 
-State educational agency.—The term “State educational agency” has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+State educational agency.—The term "State educational agency" has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
 
 (e)
 
@@ -286,7 +286,7 @@ Federal share.—The Federal share of the cost of activities carried out in acco
 
 &emsp;(3)
 
-Surface transportation workforce development, training, and education defined.—In this subsection, the term “surface transportation workforce development, training, and education” means activities associated with surface transportation career awareness, student transportation career preparation, and training and professional development for surface transportation workers, including activities for women and minorities.
+Surface transportation workforce development, training, and education defined.—In this subsection, the term "surface transportation workforce development, training, and education" means activities associated with surface transportation career awareness, student transportation career preparation, and training and professional development for surface transportation workers, including activities for women and minorities.
 
 (f)
 
@@ -408,31 +408,31 @@ A prior section 504, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(2)(A). Pub. L. 112–141, §52004(1)(A), inserted “and the employees of any other applicable Federal agency” before the semicolon at end.
+<b>2012</b>—Subsec. (a)(2)(A). Pub. L. 112–141, §52004(1)(A), inserted "and the employees of any other applicable Federal agency" before the semicolon at end.
 
-Subsec. (a)(3)(A)(ii)(V). Pub. L. 112–141, §52004(1)(B), substituted “reducing the amount of time required for” for “expediting”.
+Subsec. (a)(3)(A)(ii)(V). Pub. L. 112–141, §52004(1)(B), substituted "reducing the amount of time required for" for "expediting".
 
-Subsec. (b)(3). Pub. L. 112–141, §52004(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Federal share of the cost of activities carried out by the tribal technical assistance centers under paragraph (2)(D)(ii) shall be 100 percent.”
+Subsec. (b)(3). Pub. L. 112–141, §52004(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "The Federal share of the cost of activities carried out by the tribal technical assistance centers under paragraph (2)(D)(ii) shall be 100 percent."
 
-Subsec. (c)(2). Pub. L. 112–141, §52004(3), designated existing provisions as subpar. (A), inserted subpar. heading, substituted “, which program” for “. The program”, and added subpar. (B).
+Subsec. (c)(2). Pub. L. 112–141, §52004(3), designated existing provisions as subpar. (A), inserted subpar. heading, substituted ", which program" for ". The program", and added subpar. (B).
 
-Subsec. (e)(1). Pub. L. 112–141, §52004(4)(A)(i), substituted “paragraphs (1) through (4) of section 104(b)” for “sections 104(b)(1), 104(b)(2), 104(b)(3), 104(b)(4), and 144(e)” in introductory provisions.
+Subsec. (e)(1). Pub. L. 112–141, §52004(4)(A)(i), substituted "paragraphs (1) through (4) of section 104(b)" for "sections 104(b)(1), 104(b)(2), 104(b)(3), 104(b)(4), and 144(e)" in introductory provisions.
 
 Subsec. (e)(1)(F), (G). Pub. L. 112–141, §52004(4)(A)(ii)–(iv), added subpars. (F) and (G).
 
-Subsec. (e)(2). Pub. L. 112–141, §52004(4)(B), inserted “, except for activities carried out under paragraph (1)(G), for which the Federal share shall be 50 percent” before the period at end.
+Subsec. (e)(2). Pub. L. 112–141, §52004(4)(B), inserted ", except for activities carried out under paragraph (1)(G), for which the Federal share shall be 50 percent" before the period at end.
 
-Subsec. (f). Pub. L. 112–141, §52004(5), struck out “
+Subsec. (f). Pub. L. 112–141, §52004(5), struck out "
 
-Pilot” before “
+Pilot" before "
 
-Program” in heading.
+Program" in heading.
 
-Subsec. (g)(4)(F). Pub. L. 112–141, §52004(6), substituted “stewardship” for “excellence”.
+Subsec. (g)(4)(F). Pub. L. 112–141, §52004(6), substituted "stewardship" for "excellence".
 
 Subsec. (h). Pub. L. 112–141, §52004(7), added subsec. (h).
 
-<b>2005</b>—Subsec. (a)(3). Pub. L. 109–59, §5204(a)(1), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The Institute may develop and administer courses in modern developments, techniques, methods, regulations, management, and procedures relating to surface transportation, environmental mitigation and compliance, acquisition of rights-of-way, relocation assistance, engineering, safety, construction, maintenance and operations, contract administration, motor carrier safety activities, inspection, and highway finance.”
+<b>2005</b>—Subsec. (a)(3). Pub. L. 109–59, §5204(a)(1), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: "The Institute may develop and administer courses in modern developments, techniques, methods, regulations, management, and procedures relating to surface transportation, environmental mitigation and compliance, acquisition of rights-of-way, relocation assistance, engineering, safety, construction, maintenance and operations, contract administration, motor carrier safety activities, inspection, and highway finance."
 
 Subsec. (b). Pub. L. 109–59, §5204(b), reenacted heading without change and amended text of subsec. (b) generally, substituting provisions relating to authority to carry out a local technical assistance program, authority to make grants and enter into cooperative agreements and contracts, and Federal share of the cost of activities carried out by tribal technical assistance centers, consisting of pars. (1) to (3), for provisions relating to authority to carry out a local technical assistance program and authority to make grants and enter into cooperative agreements and contracts, consisting of pars. (1) and (2).
 
@@ -450,59 +450,59 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 Pub. L. 109–59, title V, §5504, Aug. 10, 2005, 119 Stat. 1822, provided that:
 
-“(a)
+"(a)
 
-Establishment.—The Secretary \[of Transportation\] shall establish a Center for Transportation Advancement and Regional Development (referred to in this section as the ‘Center’) to assist, through training, education, and research, in the comprehensive development of small metropolitan and rural regional transportation systems that are responsive to the needs of businesses and local communities.
+Establishment.—The Secretary \[of Transportation\] shall establish a Center for Transportation Advancement and Regional Development (referred to in this section as the 'Center') to assist, through training, education, and research, in the comprehensive development of small metropolitan and rural regional transportation systems that are responsive to the needs of businesses and local communities.
 
-“(b)
+"(b)
 
 Activities.—In carrying out this section, the Center shall—
 
-&emsp;“(1) provide training, information, and professional resources for small metropolitan and rural regions topursue innovative strategies to expand the capabilities, capacity, and effectiveness of a region's transportation network, including activities related to freight projects, transit system upgrades, roadways and bridges, and intermodal transfer facilities and operations;
+&emsp;"(1) provide training, information, and professional resources for small metropolitan and rural regions topursue innovative strategies to expand the capabilities, capacity, and effectiveness of a region's transportation network, including activities related to freight projects, transit system upgrades, roadways and bridges, and intermodal transfer facilities and operations;
 
-&emsp;“(2) assist local officials, rural transportation and economic development planners, officials from State departments of transportation and economic development, business leaders, and other stakeholders in developing public-private partnerships to enhance their transportation systems; and
+&emsp;"(2) assist local officials, rural transportation and economic development planners, officials from State departments of transportation and economic development, business leaders, and other stakeholders in developing public-private partnerships to enhance their transportation systems; and
 
-&emsp;“(3) promote the leveraging of regional transportation planning with regional economic and business development planning to assure that appropriate transportation systems are created.
+&emsp;"(3) promote the leveraging of regional transportation planning with regional economic and business development planning to assure that appropriate transportation systems are created.
 
-“(c)
+"(c)
 
 Program Administration.—To carry out this section, the Secretary \[of Transportation\] shall make a grant to, or enter into a cooperative agreement or contract with the National Association of Development Organizations.
 
-“(d)
+"(d)
 
 Funding.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Of the amounts made available by section 5101(a)(1) of this Act \[119 Stat. 1779\], $625,000 shall be available for each of fiscal years 2006 through 2009 to carry out this section.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Federal share.—The Federal share of the cost of activities carried out in accordance with this subsection shall be 100 percent.”
+Federal share.—The Federal share of the cost of activities carried out in accordance with this subsection shall be 100 percent."
 
 #### Transportation Scholarship Opportunities Program
 
 Pub. L. 109–59, title V, §5505, Aug. 10, 2005, 119 Stat. 1822, provided that:
 
-“(a)
+"(a)
 
 In General.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Establishment of program.—The Secretary \[of Transportation\] may establish and implement a scholarship program for the purpose of attracting qualified students for transportation-related critical jobs.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Partnership.—The Secretary may establish the program in partnership with appropriate nongovernmental institutions.
 
-“(b)
+"(b)
 
 Participation.—An operating administration of the Department and the Office of Inspector General may participate in the scholarship program.
 
-“(c)
+"(c)
 
-Funding.—Notwithstanding any other provision of law, the Secretary \[of Transportation\] may use funds available to an operating administration or from the Office of Inspector General of the Department for the purpose of carrying out this section.”
+Funding.—Notwithstanding any other provision of law, the Secretary \[of Transportation\] may use funds available to an operating administration or from the Office of Inspector General of the Department for the purpose of carrying out this section."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

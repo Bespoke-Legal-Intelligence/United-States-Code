@@ -26,7 +26,7 @@ The Secretary shall consult with the entity designated pursuant to section 456 o
 
 #### (f) Evaluation and report to Congress of effectiveness of construction, etc., programs; scope and content of report
 
-Within ninety days following the expiration of the three year period following January 4, 1975,the Secretary shall evaluate the effectiveness of the program pursuant to this section and transmit a report of such evaluation to the Congress. Such report shall include—
+Within ninety days following the expiration of the three year period following January 4, 1975, the Secretary shall evaluate the effectiveness of the program pursuant to this section and transmit a report of such evaluation to the Congress. Such report shall include—
 
 &emsp;(1) an analysis of construction costs and the impact on such costs of the provisions of subsection (f) of this section and the Act of March 3, 1921 (46 Stat. 1491), as amended; <sup>1</sup>
 
@@ -36,7 +36,7 @@ Within ninety days following the expiration of the three year period following J
 
 &emsp;(4) a description of the working relationship of the Department of the Interior with local or State educational agencies in connection with the contracting for construction, acquisition, or renovation of school facilities pursuant to this section; and
 
-&emsp;(5) the recommendations of the Secretary with respect to the transfer of the responsibility for administering subsections (a) and (b) of section 644 <sup>1</sup> of title 20 from the Department of Education to the Department of the Interior.
+&emsp;(5) the recommendations of the Secretary with respect to the transfer of the responsibility for administering subsections (a) and (b) ofsection 644 <sup>1</sup> of title 20 from the Department of Education to the Department of the Interior.
 
 #### (g) Authorization of appropriations
 
@@ -52,7 +52,7 @@ Act of March 3, 1921, referred to in subsec. (f)(1), probably means the act of M
 
 #### Transfer of Functions
 
-“Secretary of Education” substituted for “United States Commissioner of Education” in subsec. (b), and “Department of Education” substituted for “Department of Health, Education, and Welfare” in subsec. (f)(2), (5), pursuant to sections 301 and 507 of Pub. L. 96–88, which is classified to sections 3441 and 3507 of Title 20, Education, and which transferred functions and offices (relating to education) of Commissioner of Education and Department of Health, Education, and Welfare to Secretary and Department of Education.
+"Secretary of Education" substituted for "United States Commissioner of Education" in subsec. (b), and "Department of Education" substituted for "Department of Health, Education, and Welfare" in subsec. (f)(2), (5), pursuant to sections 301 and 507 of Pub. L. 96–88, which is classified to sections 3441 and 3507 of Title 20, Education, and which transferred functions and offices (relating to education) of Commissioner of Education and Department of Health, Education, and Welfare to Secretary and Department of Education.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

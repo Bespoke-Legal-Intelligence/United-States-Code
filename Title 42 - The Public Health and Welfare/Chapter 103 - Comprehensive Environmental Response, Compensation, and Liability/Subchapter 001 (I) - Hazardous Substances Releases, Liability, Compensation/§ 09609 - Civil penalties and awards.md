@@ -62,7 +62,7 @@ The President may bring an action in the United States district court for the ap
 
 &emsp;(5) Any failure or refusal referred to in section 9622(l) of this title (relating to violations of administrative orders, consent decrees, or agreements under section 9620 of this title).
 
-> In the case of a second or subsequent violation (or failure or refusal), the amount of such penalty may be not more than $75,000 for each day during which the violation (or failure or refusal)continues. For additional provisions providing for judicial assessment of civil penalties for failure to comply with a request or order under section 9604(e) of this title (relating to information gathering and access authorities), see section 9604(e) of this title.
+> In the case of a second or subsequent violation (or failure or refusal), the amount of such penalty may be not more than $75,000 for each day during which the violation (or failure or refusal) continues. For additional provisions providing for judicial assessment of civil penalties for failure to comply with a request or order under section 9604(e) of this title (relating to information gathering and access authorities), see section 9604(e) of this title.
 
 #### (d) Awards
 
@@ -80,11 +80,11 @@ Action taken by the President pursuant to this section shall not affect or limit
 
 #### References in Text
 
-This chapter, referred to in subsecs. (d) to (f), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsecs. (d) to (f), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–499 amended section generally. Prior to amendment, section read as follows: “Any person who, after notice and an opportunity for a hearing, is found to have failed to comply with the requirements of section 9608 of this title, the regulations issued thereunder, or with any denial or detention order shall be liable to the United States for a civil penalty, not to exceed $10,000 for each day of violation.”
+<b>1986</b>—Pub. L. 99–499 amended section generally. Prior to amendment, section read as follows: "Any person who, after notice and an opportunity for a hearing, is found to have failed to comply with the requirements of section 9608 of this title, the regulations issued thereunder, or with any denial or detention order shall be liable to the United States for a civil penalty, not to exceed $10,000 for each day of violation."
 
 #### Coordination of Titles I to IV of Pub. L. 99–499
 

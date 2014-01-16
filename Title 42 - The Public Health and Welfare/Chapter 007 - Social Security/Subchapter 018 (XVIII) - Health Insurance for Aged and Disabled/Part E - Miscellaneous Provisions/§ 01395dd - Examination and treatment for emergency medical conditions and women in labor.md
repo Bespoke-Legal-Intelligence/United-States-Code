@@ -50,7 +50,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 &emsp;&emsp;&emsp;(ii) has agreed to accept transfer of the individual and to provide appropriate medical treatment;
 
-&emsp;&emsp;(C) in which the transferring hospital sends to the receiving facility all medicalrecords (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(1)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment;
+&emsp;&emsp;(C) in which the transferring hospital sends to the receiving facility all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(1)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment;
 
 &emsp;&emsp;(D) in which the transfer is effected through qualified personnel and transportation equipment, as required including the use of necessary and medically appropriate life support measures during the transfer; and
 
@@ -70,7 +70,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 > &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if the violation is gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title (other than the first and second sentences of subsection (a) and subsection (b)) shall apply to a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
 
-&emsp;(C) If, after an initial examination, a physician determines that the individual requires the services of a physician listed by the hospital on its list of on-call physicians (required to be maintained under section 1395cc(a)(1)(I) of this title) and notifies the on-call physician and the on-call physician fails or refuses to appear within a reasonable period of time, and the physician orders the transfer of the individual because the physician determines that without the services of the on-call physician the benefits of transfer outweigh the risks of transfer, the physician authorizing the transfer shall not be subject to a penalty under subparagraph (B). However, the previous sentence shall not apply to the hospital or to the on-call physician who failed or refused to appear.
+&emsp;(C) If, after an initial examination, a physician determines that the individual requiresthe services of a physician listed by the hospital on its list of on-call physicians (required to be maintained under section 1395cc(a)(1)(I) of this title) and notifies the on-call physician and the on-call physician fails or refuses to appear within a reasonable period of time, and the physician orders the transfer of the individual because the physician determines that without the services of the on-call physician the benefits of transfer outweigh the risks of transfer, the physician authorizing the transfer shall not be subject to a penalty under subparagraph (B). However, the previous sentence shall not apply to the hospital or to the on-call physician who failed or refused to appear.
 
 #### (2) Civil enforcement
 
@@ -98,7 +98,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 In this section:
 
-&emsp;(1) The term “emergency medical condition” means—
+&emsp;(1) The term "emergency medical condition" means—
 
 &emsp;&emsp;(A) a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that the absence of immediate medical attention could reasonably be expected to result in—
 
@@ -114,15 +114,15 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) that transfer may pose a threat to the health or safety of the woman or the unborn child.
 
-&emsp;(2) The term “participating hospital” means a hospital that has entered into a provider agreement under section 1395cc of this title.
+&emsp;(2) The term "participating hospital" means a hospital that has entered into a provider agreement under section 1395cc of this title.
 
-&emsp;(3)(A) The term “to stabilize” means, with respect to an emergency medical condition described in paragraph (1)(A), to provide such medical treatment of the condition as may be necessary to assure, within reasonable medical probability, that no material deterioration of the condition is likely to result from or occur during the transfer of the individual from a facility, or, with respect to an emergency medical condition described in paragraph (1)(B), to deliver (including the placenta).
+&emsp;(3)(A) The term "to stabilize" means, with respect to an emergency medical condition described in paragraph (1)(A), to provide such medical treatment of the condition as may be necessary to assure, within reasonable medical probability, that no material deterioration of the condition is likely to result from or occur during the transfer of the individual from a facility, or, with respect to an emergency medical condition described in paragraph (1)(B), to deliver (including the placenta).
 
-&emsp;(B) The term “stabilized” means, with respect to an emergency medical condition described in paragraph (1)(A), that no material deterioration of the condition is likely, within reasonable medical probability, to result from or occur during the transfer of the individual from a facility, or, with respect to an emergency medical condition described in paragraph (1)(B), that the woman has delivered (including the placenta).
+&emsp;(B) The term "stabilized" means, with respect to an emergency medical condition described in paragraph (1)(A), that no material deterioration of the condition is likely, within reasonable medical probability, to result from or occur during the transfer of the individual from a facility, or, with respect to an emergency medical condition described in paragraph (1)(B), that the woman has delivered (including the placenta).
 
-&emsp;(4) The term “transfer” means the movement (including the discharge) of an individual outside a hospital's facilities at the direction of any person employed by (or affiliated or associated, directly or indirectly, with) the hospital, but does not include such a movement of an individual who (A) has been declared dead, or (B) leaves the facility without the permission of any such person.
+&emsp;(4) The term "transfer" means the movement (including the discharge) of an individual outside a hospital's facilities at the direction of any person employed by (or affiliated or associated, directly or indirectly, with) the hospital, but does not include such a movement of an individual who (A) has been declared dead, or (B) leaves the facility without the permission of any such person.
 
-&emsp;(5) The term “hospital” includes a critical access hospital (as defined in section 1395x(mm)(1) of this title).
+&emsp;(5) The term "hospital" includes a critical access hospital (as defined in section 1395x(mm)(1) of this title).
 
 #### (f) Preemption
 
@@ -144,109 +144,109 @@ A participating hospital may not penalize or take adverse action against a quali
 
 #### Prior Provisions
 
-A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 329; amended Jan. 2, 1968, Pub. L. 90–248, title I, §164(a), 81 Stat. 873; Oct. 30, 1972, Pub. L. 92–603, title II, §288, 86 Stat. 1457, related to creation, composition, meetings, and functions of the Health Insurance Benefits Advisory Council and the appointment of a Chairman and members thereto, and qualifications, terms of office, compensation, and reimbursement of travel expenses of members, prior to repeal byPub. L. 98–369, div. B, title III, §2349(a), July 18, 1984, 98 Stat. 1097, eff. July 18, 1984.
+A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 329; amended Jan. 2, 1968, Pub. L. 90–248, title I, §164(a), 81 Stat. 873; Oct. 30, 1972, Pub. L. 92–603, title II, §288, 86 Stat. 1457, related to creation, composition, meetings, and functions of the Health Insurance Benefits Advisory Council and the appointment of a Chairman and members thereto, and qualifications, terms of office, compensation, and reimbursement of travel expenses of members, prior to repeal by Pub. L. 98–369, div. B, title III, §2349(a), July 18, 1984, 98 Stat. 1097, eff. July 18, 1984.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(3). Pub. L. 112–40 substituted “quality improvement” for “peer review” in heading and for “utilization and quality control peer review” in text.
+<b>2011</b>—Subsec. (d)(3). Pub. L. 112–40 substituted "quality improvement" for "peer review" in heading and for "utilization and quality control peer review" in text.
 
-<b>2003</b>—Subsec. (d)(1)(B). Pub. L. 108–173, §736(a)(14)(A), substituted “if the violation is” for “if the violation is is” in concluding provisions.
+<b>2003</b>—Subsec. (d)(1)(B). Pub. L. 108–173, §736(a)(14)(A), substituted "if the violation is" for "if the violation is is" in concluding provisions.
 
-Subsec. (d)(3). Pub. L. 108–173, §944(c)(1), inserted “or in terminating a hospital's participation under this subchapter” after “in imposing sanctions under paragraph (1)” and inserted at end “Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide a copy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.”
+Subsec. (d)(3). Pub. L. 108–173, §944(c)(1), inserted "or in terminating a hospital's participation under this subchapter" after "in imposing sanctions under paragraph (1)" and inserted at end "Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide a copy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B."
 
 Subsec. (d)(4). Pub. L. 108–173, §944(b), added par. (4).
 
-Subsec. (e)(1)(B). Pub. L. 108–173, §736(a)(14)(B), substituted “a pregnant woman” for “a pregnant women”.
+Subsec. (e)(1)(B). Pub. L. 108–173, §736(a)(14)(B), substituted "a pregnant woman" for "a pregnant women".
 
-Subsec. (e)(2). Pub. L. 108–173, §736(a)(14)(C), substituted “means a hospital” for “means hospital”.
+Subsec. (e)(2). Pub. L. 108–173, §736(a)(14)(C), substituted "means a hospital" for "means hospital".
 
-<b>1997</b>—Subsec. (e)(5). Pub. L. 105–33 substituted “critical access” for “rural primary care”.
+<b>1997</b>—Subsec. (e)(5). Pub. L. 105–33 substituted "critical access" for "rural primary care".
 
 <b>1994</b>—Subsec. (d)(3). Pub. L. 103–432, §160(d)(5)(A), made technical amendment to Pub. L. 101–508, §4207(a)(1)(A). See 1990 Amendment note below.
 
-<b>1990</b>—Subsec. (c)(2)(C). Pub. L. 101–508, §4008(b)(3)(A)(iii), substituted “subsection (d)(1)(C)” for “subsection (d)(2)(C)”.
+<b>1990</b>—Subsec. (c)(2)(C). Pub. L. 101–508, §4008(b)(3)(A)(iii), substituted "subsection (d)(1)(C)" for "subsection (d)(2)(C)".
 
-Subsec. (d)(1). Pub. L. 101–508, §4008(b)(3)(A)(i), (ii), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “If a hospital knowingly and willfully, or negligently, fails to meet the requirements of this section, such hospital is subject to—
+Subsec. (d)(1). Pub. L. 101–508, §4008(b)(3)(A)(i), (ii), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "If a hospital knowingly and willfully, or negligently, fails to meet the requirements of this section, such hospital is subject to—
 
-&emsp;“(A) termination of its provider agreement under this subchapter in accordance with section 1395cc(b) of this title, or
+&emsp;"(A) termination of its provider agreement under this subchapter in accordance with section 1395cc(b) of this title, or
 
-&emsp;“(B) at the option of the Secretary, suspension of such agreement for such period of time as the Secretary determines to be appropriate, upon reasonable notice to the hospital and to the public.”
+&emsp;"(B) at the option of the Secretary, suspension of such agreement for such period of time as the Secretary determines to be appropriate, upon reasonable notice to the hospital and to the public."
 
-Subsec. (d)(1)(B). Pub. L. 101–508, §4207(a)(2), (3), formerly §4027(a)(2), (3), as renumbered by Pub. L. 103–432, §160(d)(4), which directed amendment of par. (2)(B) by substituting “negligently” for “knowingly” and “is gross and flagrant or is repeated” for “knowing and willful or negligent”, was executed by making the substitutions in par. (1)(B) to reflect the probable intent of Congress and the intervening redesignation of par. (2) as (1) by Pub. L. 101–508, §4008(b)(3)(A)(ii). See above.
+Subsec. (d)(1)(B). Pub. L. 101–508, §4207(a)(2), (3), formerly §4027(a)(2), (3), as renumbered by Pub. L. 103–432, §160(d)(4), which directed amendment of par. (2)(B) by substituting "negligently" for "knowingly" and "is gross and flagrant or is repeated" for "knowing and willful or negligent", was executed by making the substitutions in par. (1)(B) to reflect the probable intent of Congress and the intervening redesignation of par. (2) as (1) by Pub. L. 101–508, §4008(b)(3)(A)(ii). See above.
 
 Subsec. (d)(2). Pub. L. 101–508, §4008(b)(3)(A)(ii), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Subsec. (d)(2)(A). Pub. L. 101–508, §4008(b)(1), (2), substituted “negligently” for “knowingly” and inserted “(or not more than $25,000 in the case of a hospital with less than 100 beds)” after “$50,000”.
+Subsec. (d)(2)(A). Pub. L. 101–508, §4008(b)(1), (2), substituted "negligently" for "knowingly" and inserted "(or not more than $25,000 in the case of a hospital with less than 100 beds)" after "$50,000".
 
 Subsec. (d)(3). Pub. L. 101–508, §4207(a)(1)(A), formerly §4027(a)(1)(A), as renumbered and amended by Pub. L. 103–432, §160(d)(4), (5)(A), added par. (3). Former par. (3) redesignated (2).
 
-Subsec. (i). Pub. L. 101–508, §4207(k)(3), formerly §4027(k)(3), as renumbered by Pub. L. 103–432, §160(d)(4), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “A participating hospital may not penalize or take adverse action against a physician because the physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized.”
+Subsec. (i). Pub. L. 101–508, §4207(k)(3), formerly §4027(k)(3), as renumbered by Pub. L. 103–432, §160(d)(4), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: "A participating hospital may not penalize or take adverse action against a physician because the physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized."
 
-<b>1989</b>—Pub. L. 101–239, §6211(h)(2)(A), struck out “active” before “labor” in section catchline.
+<b>1989</b>—Pub. L. 101–239, §6211(h)(2)(A), struck out "active" before "labor" in section catchline.
 
-Subsec. (a). Pub. L. 101–239, §6211(h)(2)(B), which directed the amendment of subsec. (a) by striking out “or to determine if the individual is in active labor (within the meaning of section (e)(2) of this section)” was executed by striking out “or to determine if the individual is in active labor (within the meaning of subsection (e)(2) of this section)” after “exists”.
+Subsec. (a). Pub. L. 101–239, §6211(h)(2)(B), which directed the amendment of subsec. (a) by striking out "or to determine if the individual is in active labor (within the meaning of section (e)(2) of this section)" was executed by striking out "or to determine if the individual is in active labor (within the meaning of subsection (e)(2) of this section)" after "exists".
 
-Pub. L. 101–239, §6211(a), substituted “hospital's emergency department, including ancillary services routinely available to the emergency department,” for “hospital's emergency department”.
+Pub. L. 101–239, §6211(a), substituted "hospital's emergency department, including ancillary services routinely available to the emergency department," for "hospital's emergency department".
 
-Subsec. (b). Pub. L. 101–239, §6211(h)(2)(C), struck out “active” before “labor” in heading.
+Subsec. (b). Pub. L. 101–239, §6211(h)(2)(C), struck out "active" before "labor" in heading.
 
-Subsec. (b)(1). Pub. L. 101–239, §6211(h)(2)(D)(i), struck out “or is in active labor” after “emergency medical condition” in introductory provisions.
+Subsec. (b)(1). Pub. L. 101–239, §6211(h)(2)(D)(i), struck out "or is in active labor" after "emergency medical condition" in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 101–239, §6211(h)(2)(D)(ii), struck out “or to provide for treatment of the labor” after “stabilize the medical condition”.
+Subsec. (b)(1)(A). Pub. L. 101–239, §6211(h)(2)(D)(ii), struck out "or to provide for treatment of the labor" after "stabilize the medical condition".
 
-Subsec. (b)(2). Pub. L. 101–239, §6211(b)(1), inserted “and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such examination and treatment,” after “in that paragraph”, substituted “and treatment.” for “or treatment.”, and inserted at end “The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such examination and treatment.”
+Subsec. (b)(2). Pub. L. 101–239, §6211(b)(1), inserted "and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such examination and treatment," after "in that paragraph", substituted "and treatment." for "or treatment.", and inserted at end "The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such examination and treatment."
 
-Subsec. (b)(3). Pub. L. 101–239, §6211(b)(2), inserted “and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such transfer,” after “subsection (c) of this section” and inserted at end “The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such transfer.”
+Subsec. (b)(3). Pub. L. 101–239, §6211(b)(2), inserted "and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such transfer," after "subsection (c) of this section" and inserted at end "The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such transfer."
 
-Subsec. (c). Pub. L. 101–239, §6211(g)(1)(A), substituted “individual” for “patient” in heading.
+Subsec. (c). Pub. L. 101–239, §6211(g)(1)(A), substituted "individual" for "patient" in heading.
 
-Subsec. (c)(1). Pub. L. 101–239, §6211(c)(4), (g)(1)(B), (h)(2)(E), in introductory provisions, substituted “an individual” for “a patient”, “subsection (e)(3)(B) of this section)” for “subsection (e)(4)(B) of this section) or is in active labor”, and “the individual” for “the patient”, and inserted at end “A certification described in clause (ii) or (iii) of subparagraph (A) shall include a summary of the risks and benefits upon which the certification is based.”
+Subsec. (c)(1). Pub. L. 101–239, §6211(c)(4), (g)(1)(B), (h)(2)(E), in introductory provisions, substituted "an individual" for "a patient", "subsection (e)(3)(B) of this section)" for "subsection (e)(4)(B) of this section) or is in active labor", and "the individual" for "the patient", and inserted at end "A certification described in clause (ii) or (iii) of subparagraph (A) shall include a summary of the risks and benefits upon which the certification is based."
 
-Subsec. (c)(1)(A)(i). Pub. L. 101–239, §6211(c)(1), (g)(1)(B), substituted “the individual” for “the patient”, “the individual's behalf” for “the patient's behalf”, and “after being informed of the hospital's obligations under this section and of the risk of transfer, in writing requests transfer to another medical facility” for “requests that the transfer be effected”.
+Subsec. (c)(1)(A)(i). Pub. L. 101–239, §6211(c)(1), (g)(1)(B), substituted "the individual" for "the patient", "the individual's behalf" for "the patient's behalf", and "after being informed of the hospital's obligations under this section and of the risk of transfer, in writing requests transfer to another medical facility" for "requests that the transfer be effected".
 
-Subsec. (c)(1)(A)(ii). Pub. L. 101–239, §6211(c)(2)(B), (3), (g)(1)(B), substituted “has signed a certification that based upon the information available at the time of transfer” for “, or other qualified medical personnel when a physician is not readily available in the emergency department, has signed a certification that, based upon the reasonable risks and benefits to the patient, and based upon the information available at the time” and “individual and, in the case of labor, to the unborn child” for “individual's medical condition”.
+Subsec. (c)(1)(A)(ii). Pub. L. 101–239, §6211(c)(2)(B), (3), (g)(1)(B), substituted "has signed a certification that based upon the information available at the time of transfer" for ", or other qualified medical personnel when a physician is not readily available in the emergency department, has signed a certification that, based upon the reasonable risks and benefits to the patient, and based upon the information available at the time" and "individual and, in the case of labor, to the unborn child" for "individual's medical condition".
 
 Subsec. (c)(1)(A)(iii). Pub. L. 101–239, §6211(c)(2)(A), (C), (D), added cl. (iii).
 
 Subsec. (c)(2)(A). Pub. L. 101–239, §6211(c)(5), added subpar. (A). Former subpar. (A) redesignated (B).
 
-Subsec. (c)(2)(B). Pub. L. 101–239, §6211(c)(5)(A), (g)(1)(B), redesignated subpar. (A) as (B) and substituted “the individual” for “the patient” in cls. (i) and (ii). Former subpar. (B) redesignated (C).
+Subsec. (c)(2)(B). Pub. L. 101–239, §6211(c)(5)(A), (g)(1)(B), redesignated subpar. (A) as (B) and substituted "the individual" for "the patient" in cls. (i) and (ii). Former subpar. (B) redesignated (C).
 
-Subsec. (c)(2)(C). Pub. L. 101–239, §6211(c)(5)(A), (d), redesignated subpar. (B) as (C) and substituted “sends to” for “provides” and “all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatmentprovided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(2)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment” for “with appropriate medical records (or copies thereof) of the examination and treatment effected at the transferring hospital”. Former subpar. (C) redesignated (D).
+Subsec. (c)(2)(C). Pub. L. 101–239, §6211(c)(5)(A), (d), redesignated subpar. (B) as (C) and substituted "sends to" for "provides" and "all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(2)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment" for "with appropriate medical records (or copies thereof) of the examination and treatment effected at the transferring hospital". Former subpar. (C) redesignated (D).
 
 Subsec. (c)(2)(D). Pub. L. 101–239, §6211(c)(5)(A), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
-Subsec. (c)(2)(E). Pub. L. 101–239, §6211(c)(5)(A), (g)(1)(B), redesignated subpar. (D) as (E) and substituted “individuals” for “patients”.
+Subsec. (c)(2)(E). Pub. L. 101–239, §6211(c)(5)(A), (g)(1)(B), redesignated subpar. (D) as (E) and substituted "individuals" for "patients".
 
-Subsec. (d)(2)(B). Pub. L. 101–239, §6211(e)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The responsible physician in a participating hospital with respect to the hospital's violation of a requirement of this subsection is subject to the sanctions described in section 1395u(j)(2) of this title, except that, for purposes of this subparagraph, the civil money penalty with respect to each violation may not exceed $50,000, rather than $2,000.”
+Subsec. (d)(2)(B). Pub. L. 101–239, §6211(e)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "The responsible physician in a participating hospital with respect to the hospital's violation of a requirement of this subsection is subject to the sanctions described in section 1395u(j)(2) of this title, except that, for purposes of this subparagraph, the civil money penalty with respect to each violation may not exceed $50,000, rather than $2,000."
 
-Subsec. (d)(2)(C). Pub. L. 101–239, §6211(e)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “As used in this paragraph, the term ‘responsible physician’ means, with respect to a hospital's violation of a requirement of this section, a physician who—
+Subsec. (d)(2)(C). Pub. L. 101–239, §6211(e)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: "As used in this paragraph, the term 'responsible physician' means, with respect to a hospital's violation of a requirement of this section, a physician who—
 
-&emsp;“(i) is employed by, or under contract with, the participating hospital, and
+&emsp;"(i) is employed by, or under contract with, the participating hospital, and
 
-&emsp;“(ii) acting as such an employee or under such a contract, has professional responsibility for the provision of examinations or treatments for the individual, or transfers of the individual, with respect to which the violation occurred.”
+&emsp;"(ii) acting as such an employee or under such a contract, has professional responsibility for the provision of examinations or treatments for the individual, or transfers of the individual, with respect to which the violation occurred."
 
-Subsec. (e)(1). Pub. L. 101–239, §6211(h)(1)(A), substituted “means—” and subpars. (A) and (B) for “means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that the absence of immediate medical attention could reasonably be expected to result in—
+Subsec. (e)(1). Pub. L. 101–239, §6211(h)(1)(A), substituted "means—" and subpars. (A) and (B) for "means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that the absence of immediate medical attention could reasonably be expected to result in—
 
-&emsp;“(A) placing the patient's health in serious jeopardy,
+&emsp;"(A) placing the patient's health in serious jeopardy,
 
-&emsp;“(B) serious impairment to bodily functions, or
+&emsp;"(B) serious impairment to bodily functions, or
 
-&emsp;“(C) serious dysfunction of any bodily organ or part.”
+&emsp;"(C) serious dysfunction of any bodily organ or part."
 
-Subsec. (e)(2). Pub. L. 101–239, §6211(h)(1)(B), (E), redesignated par. (3) as (2) and struck out former par. (2) which defined “active labor”.
+Subsec. (e)(2). Pub. L. 101–239, §6211(h)(1)(B), (E), redesignated par. (3) as (2) and struck out former par. (2) which defined "active labor".
 
 Subsec. (e)(3). Pub. L. 101–239, §6211(h)(1)(E), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
 Subsec. (e)(4). Pub. L. 101–239, §6211(h)(1)(E), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
-Subsec. (e)(4)(A). Pub. L. 101–239, §6211(h)(1)(C), substituted “emergency medical condition described in paragraph (1)(A)” for “emergency medical condition”, “likely to result from or occur during” for “likely to result from”, and “from a facility, or, with respect to an emergency medical condition described in paragraph (1)(B), to deliver (including the placenta)” for “from a facility”.
+Subsec. (e)(4)(A). Pub. L. 101–239, §6211(h)(1)(C), substituted "emergency medical condition described in paragraph (1)(A)" for "emergency medical condition", "likely to result from or occur during" for "likely to result from", and "from a facility, or, with respect to an emergency medical condition described in paragraph (1)(B), to deliver (including the placenta)" for "from a facility".
 
-Subsec. (e)(4)(B). Pub. L. 101–239, §6211(h)(1)(D), inserted “described in paragraph (1)(A)” after “emergency medical condition”, “or occur during” after “to result from”, and “, or, with respect to an emergency medical condition described in paragraph (1)(B), that the woman has delivered (including the placenta)” after “from a facility”.
+Subsec. (e)(4)(B). Pub. L. 101–239, §6211(h)(1)(D), inserted "described in paragraph (1)(A)" after "emergency medical condition", "or occur during" after "to result from", and ", or, with respect to an emergency medical condition described in paragraph (1)(B), that the woman has delivered (including the placenta)" after "from a facility".
 
 Subsec. (e)(5). Pub. L. 101–239, §6211(h)(1)(E), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-Pub. L. 101–239, §6211(g)(2), substituted “an individual” for “a patient” in two places.
+Pub. L. 101–239, §6211(g)(2), substituted "an individual" for "a patient" in two places.
 
 Subsec. (e)(6). Pub. L. 101–239, §6211(h)(1)(E), redesignated par. (6) as (5).
 
@@ -260,11 +260,11 @@ Subsec. (d)(2). Pub. L. 100–360, §411(b)(8)(A)(i), as amended by Pub. L. 100�
 
 <b>1987</b>—Subsec. (d)(1). Pub. L. 100–203, §4009(a)(2), which directed insertion of a provision related to imposing the sanction described in section 1395u(j)(2)(A) of this title, was amended generally by Pub. L. 100–360, §411(b)(8)(A)(i), so that it does not amend par. (1).
 
-Subsec. (d)(2). Pub. L. 100–203, §4009(a)(1), as amended by Pub. L. 100–360, §411(b)(8)(A)(i), as amended by Pub. L. 100–485, §608(d)(18)(E), substituted subpars. (A) and (B) for “In addition to the other grounds for imposition of a civil money penalty under section 1320a–7a(a) of this title, a participating hospital that knowingly violates a requirement of this section and the responsible physician in the hospital with respect to such a violation are each subject, under that section, to a civil money penalty of not more than $25,000 for each such violation.”, designated second sentence as subpar. (C), substituted “this paragraph” for “the previous sentence”, and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (C).
+Subsec. (d)(2). Pub. L. 100–203, §4009(a)(1), as amended by Pub. L. 100–360, §411(b)(8)(A)(i), as amended by Pub. L. 100–485, §608(d)(18)(E), substituted subpars. (A) and (B) for "In addition to the other grounds for imposition of a civil money penalty under section 1320a–7a(a) of this title, a participating hospital that knowingly violates a requirement of this section and the responsible physician in the hospital with respect to such a violation are each subject, under that section, to a civil money penalty of not more than $25,000 for each such violation.", designated second sentence as subpar. (C), substituted "this paragraph" for "the previous sentence", and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (C).
 
-<b>1986</b>—Subsec. (b)(2), (3). Pub. L. 99–509 struck out “legally responsible” after “individual (or a”.
+<b>1986</b>—Subsec. (b)(2), (3). Pub. L. 99–509 struck out "legally responsible" after "individual (or a".
 
-Subsec. (e)(3). Pub. L. 99–514 struck out “and has, under the agreement, obligated itself to comply with the requirements of this section” after “section 1395cc of this title”.
+Subsec. (e)(3). Pub. L. 99–514 struck out "and has, under the agreement, obligated itself to comply with the requirements of this section" after "section 1395cc of this title".
 
 #### Effective Date of 2011 Amendment
 
@@ -272,7 +272,7 @@ Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title IX, §944(c)(2), Dec. 8, 2003, 117 Stat. 2423, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to terminations of participation initiated on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
+Pub. L. 108–173, title IX, §944(c)(2), Dec. 8, 2003, 117 Stat. 2423, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to terminations of participation initiated on or after the date of the enactment of this Act \[Dec. 8, 2003\]."
 
 #### Effective Date of 1997 Amendment
 
@@ -284,11 +284,11 @@ Amendment by section 4008(b)(1)–(3)(A) of Pub. L. 101–508 applicable to acti
 
 Amendment by section 4207(a)(1)(A) of Pub. L. 101–508 effective on the first day of the first month beginning more than 60 days after Nov. 5, 1990, see section 4207(a)(1)(C) of Pub. L. 101–508, as amended, set out as a note under section 1320c–3 of this title.
 
-Pub. L. 101–508, title IV, §4207(a)(4), formerly §4027(a)(4), Nov. 5, 1990, 104 Stat. 1388–118, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (5)(B), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by paragraphs (2) and (3) \[amending this section\] shall apply to actions occurring on or after the first day of the sixth month beginning after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title IV, §4207(a)(4), formerly §4027(a)(4), Nov. 5, 1990, 104 Stat. 1388–118, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (5)(B), Oct. 31, 1994, 108 Stat. 4444, provided that: "The amendments made by paragraphs (2) and (3) \[amending this section\] shall apply to actions occurring on or after the first day of the sixth month beginning after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VI, §6211(i), Dec. 19, 1989, 103 Stat. 2249, provided that: “The amendments made by this section \[amending this section\] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act \[Dec. 19, 1989\], without regard to whether regulations tocarry out such amendments have been promulgated by such date.”
+Pub. L. 101–239, title VI, §6211(i), Dec. 19, 1989, 103 Stat. 2249, provided that: "The amendments made by this section \[amending this section\] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act \[Dec. 19, 1989\], without regard to whether regulations to carry out such amendments have been promulgated by such date."
 
 #### Effective Date of 1988 Amendment
 
@@ -298,7 +298,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IV, §4009(a)(2), formerly §4009(a)(3), Dec. 22, 1987, 101 Stat. 1330–57, as redesignated by Pub. L. 100–360, title IV, §411(b)(8)(A)(ii), July 1, 1988, 102 Stat. 772, provided that: “The amendments made by this subsection \[amending this section\] shall apply to actions occurring on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4009(a)(2), formerly §4009(a)(3), Dec. 22, 1987, 101 Stat. 1330–57, as redesignated by Pub. L. 100–360, title IV, §411(b)(8)(A)(ii), July 1, 1988, 102 Stat. 772, provided that: "The amendments made by this subsection \[amending this section\] shall apply to actions occurring on or after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
 #### Effective Date of 1986 Amendment
 
@@ -306,7 +306,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date
 
-Pub. L. 99–272, title IX, §9121(c), Apr. 7, 1986, 100 Stat. 167, provided that: “The amendments made by this section \[enacting this section and amending section 1395cc of this title\] shall take effect on the first day of the first month that begins at least 90 days after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title IX, §9121(c), Apr. 7, 1986, 100 Stat. 167, provided that: "The amendments made by this section \[enacting this section and amending section 1395cc of this title\] shall take effect on the first day of the first month that begins at least 90 days after the date of the enactment of this Act \[Apr. 7, 1986\]."
 
 #### Short Title
 
@@ -316,217 +316,217 @@ This section is popularly known as the Emergency Medical Treatment and Labor Act
 
 Pub. L. 108–173, title IX, §945, Dec. 8, 2003, 117 Stat. 2423, provided that:
 
-“(a)
+"(a)
 
-Establishment.—The Secretary \[of Health and Human Services\] shall establish a Technical Advisory Group (in this section referred to as the ‘Advisory Group’) to review issues related to the Emergency Medical Treatment and Labor Act (EMTALA) and its implementation. In this section, the term ‘EMTALA’ refers to the provisions of section 1867 of the Social Security Act (42 U.S.C. 1395dd).
+Establishment.—The Secretary \[of Health and Human Services\] shall establish a Technical Advisory Group (in this section referred to as the 'Advisory Group') to review issues related to the Emergency Medical Treatment and Labor Act (EMTALA) and its implementation. In this section, the term 'EMTALA' refers to the provisions of section 1867 of the Social Security Act (42 U.S.C. 1395dd).
 
-“(b)
+"(b)
 
 Membership.—The Advisory Group shall be composed of 19 members, including the Administrator of the Centers for Medicare \& Medicaid Services and the Inspector General of the Department of Health and Human Services and of which—
 
-&emsp;“(1) 4 shall be representatives of hospitals, including at least one public hospital, that have experience with the application of EMTALA and at least 2 of which have not been cited for EMTALA violations;
+&emsp;"(1) 4 shall be representatives of hospitals, including at least one public hospital, that have experience with the application of EMTALA and at least 2 of which have not been cited for EMTALA violations;
 
-&emsp;“(2) 7 shall be practicing physicians drawn from the fields of emergency medicine, cardiology or cardiothoracic surgery, orthopedic surgery, neurosurgery, pediatrics or a pediatric subspecialty, obstetrics-gynecology, and psychiatry, with not more than one physician from any particular field;
+&emsp;"(2) 7 shall be practicing physicians drawn from the fields of emergency medicine, cardiology or cardiothoracic surgery, orthopedic surgery, neurosurgery, pediatrics or a pediatric subspecialty, obstetrics-gynecology, and psychiatry, with not more than one physician from any particular field;
 
-&emsp;“(3) 2 shall represent patients;
+&emsp;"(3) 2 shall represent patients;
 
-&emsp;“(4) 2 shall be staff involved in EMTALA investigations from different regional offices of the Centers for Medicare \& Medicaid Services; and
+&emsp;"(4) 2 shall be staff involved in EMTALA investigations from different regional offices of the Centers for Medicare \& Medicaid Services; and
 
-&emsp;“(5) 1 shall be from a State survey office involved in EMTALA investigations and 1 shall be from a peer review organization, both of whom shall be from areas other than the regions represented under paragraph (4).
+&emsp;"(5) 1 shall be from a State survey office involved in EMTALA investigations and 1 shall be from a peer review organization, both of whom shall be from areas other than the regions represented under paragraph (4).
 
 > In selecting members described in paragraphs (1) through (3), the Secretary shall consider qualified individuals nominated by organizations representing providers and patients.
 
-“(c)
+"(c)
 
 General Responsibilities.—The Advisory Group—
 
-&emsp;“(1) shall review EMTALA regulations;
+&emsp;"(1) shall review EMTALA regulations;
 
-&emsp;“(2) may provide advice and recommendations to the Secretary with respect to those regulations and their application to hospitals and physicians;
+&emsp;"(2) may provide advice and recommendations to the Secretary with respect to those regulations and their application to hospitals and physicians;
 
-&emsp;“(3) shall solicit comments and recommendations from hospitals, physicians, and the public regarding the implementation of such regulations; and
+&emsp;"(3) shall solicit comments and recommendations from hospitals, physicians, and the public regarding the implementation of such regulations; and
 
-&emsp;“(4) may disseminate information on the application of such regulations to hospitals, physicians, and the public.
+&emsp;"(4) may disseminate information on the application of such regulations to hospitals, physicians, and the public.
 
-“(d)
+"(d)
 
 Administrative Matters.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Chairperson.—The members of the Advisory Group shall elect a member to serve as chairperson of the Advisory Group for the life of the Advisory Group.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Meetings.—The Advisory Group shall first meet at the direction of the Secretary. The Advisory Group shall then meet twice per year and at such other times as the Advisory Group may provide.
 
-“(e)
+"(e)
 
 Termination.—The Advisory Group shall terminate 30 months after the date of its first meeting.
 
-“(f)
+"(f)
 
-Waiver of Administrative Limitation.—The Secretary shall establish the Advisory Group notwithstanding any limitation that may apply to the number of advisory committees that may be established (within the Department of Health and Human Services or otherwise).”
+Waiver of Administrative Limitation.—The Secretary shall establish the Advisory Group notwithstanding any limitation that may apply to the number of advisory committees that may be established (within the Department of Health and Human Services or otherwise)."
 
 #### Federal Reimbursement of Emergency Health Services Furnished to Undocumented Aliens
 
 Pub. L. 108–173, title X, §1011, Dec. 8, 2003, 117 Stat. 2432, provided that:
 
-“(a)
+"(a)
 
 Total Amount Available for Allotment.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary \[of Health and Human Services\] $250,000,000 for each of fiscal years 2005 through 2008 for the purpose of making allotments under this section for payments to eligible providers in States described in paragraph (1) or (2) of subsection (b).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Availability.—Funds appropriated under paragraph (1) shall remain available until expended.
 
-“(b)
+"(b)
 
 State Allotments.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Based on percentage of undocumented aliens.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Out of the amount appropriated under subsection (a) for a fiscal year, the Secretary shall use $167,000,000 of such amount to make allotments for such fiscal year in accordance with subparagraph (B).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Formula.—The amount of the allotment for payments to eligible providers in each State for a fiscal year shall be equal to the product of—
 
-&emsp;&emsp;&emsp;“(i) the total amount available for allotments under this paragraph for the fiscal year; and
+&emsp;&emsp;&emsp;"(i) the total amount available for allotments under this paragraph for the fiscal year; and
 
-&emsp;&emsp;&emsp;“(ii) the percentage of undocumented aliens residing in the State as compared to the total number of such aliens residing in all States, as determined by the Statistics Division of the Immigration and Naturalization Service, as of January 2003, based on the 2000 decennial census.
+&emsp;&emsp;&emsp;"(ii) the percentage of undocumented aliens residing in the State as compared to the total number of such aliens residing in all States, as determined by the Statistics Division of the Immigration and Naturalization Service, as of January 2003, based on the 2000 decennial census.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Based on number of undocumented alien apprehension states.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Out of the amount appropriated under subsection (a) for a fiscal year, the Secretary shall use $83,000,000 of such amount to make allotments, in addition to amounts allotted under paragraph (1), for such fiscal year for each of the 6 States with the highest number of undocumented alien apprehensions for such fiscal year.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Determination of allotments.—The amount of the allotment for each State described in subparagraph (A) for a fiscal year shall be equal to the product of—
 
-&emsp;&emsp;&emsp;“(i) the total amount available for allotments under this paragraph for the fiscal year; and
+&emsp;&emsp;&emsp;"(i) the total amount available for allotments under this paragraph for the fiscal year; and
 
-&emsp;&emsp;&emsp;“(ii) the percentage of undocumented alien apprehensions in the State in that fiscal year as compared to the total of such apprehensions for all such States for the preceding fiscal year.
+&emsp;&emsp;&emsp;"(ii) the percentage of undocumented alien apprehensions in the State in that fiscal year as compared to the total of such apprehensions for all such States for the preceding fiscal year.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Data.—For purposes of this paragraph, the highest number of undocumented alien apprehensions for a fiscal year shall be based on the apprehension rates for the 4-consecutive-quarter period ending before the beginning of the fiscal year for which information is available for undocumented aliens in such States, as reported by the Department of Homeland Security.
 
-“(c)
+"(c)
 
 Use of Funds.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Authority to make payments.—From the allotments made for a State under subsection (b) for a fiscal year, the Secretary shall pay the amount (subject to the total amount available from such allotments) determined under paragraph (2) directly to eligible providers located in the State for the provision of eligible services to aliens described in paragraph (5) to the extent that the eligible provider was not otherwise reimbursed (through insurance or otherwise) for such services during that fiscal year.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Determination of payment amounts.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Subject to subparagraph (B), the payment amount determined under this paragraph shall be an amount determined by the Secretary that is equal to the lesser of—
 
-&emsp;&emsp;&emsp;“(i) the amount that the provider demonstrates was incurred for the provision of such services; or
+&emsp;&emsp;&emsp;"(i) the amount that the provider demonstrates was incurred for the provision of such services; or
 
-&emsp;&emsp;&emsp;“(ii) amounts determined under a methodology established by the Secretary for purposes of this subsection.
+&emsp;&emsp;&emsp;"(ii) amounts determined under a methodology established by the Secretary for purposes of this subsection.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Pro-rata reduction.—If the amount of funds allotted to a State under subsection (b) for a fiscal year is insufficient to ensure that each eligible provider in that State receives the amount of payment calculated under subparagraph (A), the Secretary shall reduce that amount of payment with respect to each eligible provider to ensure that the entire amount allotted to the State for that fiscal year is paid to such eligible providers.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Methodology.—In establishing a methodology under paragraph (2)(A)(ii), the Secretary—
 
-&emsp;&emsp;“(A) may establish different methodologies for types of eligible providers;
+&emsp;&emsp;"(A) may establish different methodologies for types of eligible providers;
 
-&emsp;&emsp;“(B) may base payments for hospital services on estimated hospital charges, adjusted to estimated cost, through the application of hospital-specific cost-to-charge ratios;
+&emsp;&emsp;"(B) may base payments for hospital services on estimated hospital charges, adjusted to estimated cost, through the application of hospital-specific cost-to-charge ratios;
 
-&emsp;&emsp;“(C) shall provide for the election by a hospital to receive either payments to the hospital for—
+&emsp;&emsp;"(C) shall provide for the election by a hospital to receive either payments to the hospital for—
 
-&emsp;&emsp;&emsp;“(i) hospital and physician services; or
+&emsp;&emsp;&emsp;"(i) hospital and physician services; or
 
-&emsp;&emsp;&emsp;“(ii) hospital services and for a portion of the on-call payments made by the hospital to physicians; and
+&emsp;&emsp;&emsp;"(ii) hospital services and for a portion of the on-call payments made by the hospital to physicians; and
 
-&emsp;&emsp;“(D) shall make quarterly payments under this section to eligible providers.
+&emsp;&emsp;"(D) shall make quarterly payments under this section to eligible providers.
 
 > &emsp;If a hospital makes the election under subparagraph (C)(i), the hospital shall pass on payments for services of a physician to the physician and may not charge any administrative or other fee with respect to such payments.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Limitation on use of funds.—Payments made to eligible providers in a State from allotments made under subsection (b) for a fiscal year may only be used for costs incurred in providing eligible services to aliens described in paragraph (5).
 
-&emsp;“(5)
+&emsp;"(5)
 
 Aliens described.—For purposes of paragraphs (1) and (2), aliens described in this paragraph are any of the following:
 
-&emsp;&emsp;“(A) Undocumented aliens.
+&emsp;&emsp;"(A) Undocumented aliens.
 
-&emsp;&emsp;“(B) Aliens who have been paroled into the United States at a United States port of entry for the purpose of receiving eligible services.
+&emsp;&emsp;"(B) Aliens who have been paroled into the United States at a United States port of entry for the purpose of receiving eligible services.
 
-&emsp;&emsp;“(C) Mexican citizens permitted to enter the United States for not more than 72 hours under the authority of a biometric machine readable border crossing identification card (also referred to as a ‘laser visa’) issued in accordance with the requirements of regulations prescribed under section 101(a)(6) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(6)).
+&emsp;&emsp;"(C) Mexican citizens permitted to enter the United States for not more than 72 hours under the authority of a biometric machine readable border crossing identification card (also referred to as a 'laser visa') issued in accordance with the requirements of regulations prescribed under section 101(a)(6) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(6)).
 
-“(d)
+"(d)
 
 Applications; Advance Payments.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Deadline for establishment of application process.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Not later than September 1, 2004, the Secretary shall establish a process under which eligible providers located in a State may request payments under subsection (c).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Inclusion of measures to combat fraud and abuse.—The Secretary shall include in the process established under subparagraph (A) measures to ensure that inappropriate, excessive, or fraudulent payments are not made from the allotments determined under subsection (b), including certification by the eligible provider of the veracity of the payment request.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Advance payment; retrospective adjustment.—The process established under paragraph (1) may provide for making payments under this section for each quarter of a fiscal year on the basis of advance estimates of expenditures submitted by applicants for such payments and such other investigation as the Secretary may find necessary, and for making reductions or increases in the payments as necessary to adjust for any overpayment or underpayment for prior quarters of such fiscal year.
 
-“(e)
+"(e)
 
 Definitions.—In this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Eligible provider.—The term ‘eligible provider’ means a hospital, physician, or provider of ambulance services (including an Indian Health Service facility whether operated by the Indian Health Service or by an Indian tribe or tribal organization).
+Eligible provider.—The term 'eligible provider' means a hospital, physician, or provider of ambulance services (including an Indian Health Service facility whether operated by the Indian Health Service or by an Indian tribe or tribal organization).
 
-&emsp;“(2)
+&emsp;"(2)
 
-Eligible services.—The term ‘eligible services’ means health care services required by the application of section 1867 of the Social Security Act (42 U.S.C. 1395dd), and related hospital inpatient and outpatient services and ambulance services (as defined by the Secretary).
+Eligible services.—The term 'eligible services' means health care services required by the application of section 1867 of the Social Security Act (42 U.S.C. 1395dd), and related hospital inpatient and outpatient services and ambulance services (as defined by the Secretary).
 
-&emsp;“(3)
+&emsp;"(3)
 
-Hospital.—The term ‘hospital’ has the meaning given such term in section 1861(e) of the Social Security Act (42 U.S.C. 1395x(e)), except that such term shall include a critical access hospital (as defined in section 1861(mm)(1) of such Act (42 U.S.C. 1395x(mm)(1)).
+Hospital.—The term 'hospital' has the meaning given such term in section 1861(e) of the Social Security Act (42 U.S.C. 1395x(e)), except that such term shall include a critical access hospital (as defined in section 1861(mm)(1) of such Act (42 U.S.C. 1395x(mm)(1)).
 
-&emsp;“(4)
+&emsp;"(4)
 
-Physician.—The term ‘physician’ has the meaning given that term in section 1861(r) of the Social Security Act (42 U.S.C. 1395x(r)).
+Physician.—The term 'physician' has the meaning given that term in section 1861(r) of the Social Security Act (42 U.S.C. 1395x(r)).
 
-&emsp;“(5)
+&emsp;"(5)
 
-Indian tribe; tribal organization.—The terms ‘Indian tribe’ and ‘tribal organization’ have the meanings given such terms in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603).
+Indian tribe; tribal organization.—The terms 'Indian tribe' and 'tribal organization' have the meanings given such terms in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603).
 
-&emsp;“(6)
+&emsp;"(6)
 
-State.—The term ‘State’ means the 50 States and the District of Columbia.”
+State.—The term 'State' means the 50 States and the District of Columbia."
 
 #### Inspector General Study of Prohibition on Hospital Employment of Physicians
 

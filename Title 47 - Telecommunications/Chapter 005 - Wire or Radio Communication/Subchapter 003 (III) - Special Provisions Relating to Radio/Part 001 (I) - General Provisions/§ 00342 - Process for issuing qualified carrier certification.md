@@ -50,13 +50,13 @@ For the purposes of this section:
 
 #### (1) Designated market area
 
-&emsp;The term “designated market area” has the meaning given such term in section 122(j)(2)(C) of title 17.
+&emsp;The term "designated market area" has the meaning given such term in section 122(j)(2)(C) of title 17.
 
 #### (2) Good quality satellite signal
 
 #### (A) In general
 
-&emsp;&emsp;The term “good quality satellite signal” means—
+&emsp;&emsp;The term "good quality satellite signal" means—
 
 &emsp;&emsp;&emsp;(i) a satellite signal whose power level as designed shall achieve reception and demodulation of the signal at an availability level of at least 99.7 percent using—
 
@@ -66,7 +66,7 @@ For the purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) taking into account whether a signal is in standard definition format or high definition format, compression methodology, modulation, error correction, power level, and utilization of advances in technology that do not circumvent the intent of this section to provide for non-discriminatory treatment with respect to any comparable television broadcast station signal, a video signal transmitted by a satellite carrier such that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the satellite carrier treats all television broadcast stations’ signals the same with respect to statistical multiplexer prioritization; and
+&emsp;&emsp;&emsp;&emsp;(I) the satellite carrier treats all television broadcast stations' signals the same with respect to statistical multiplexer prioritization; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the number of video signals in the relevant satellite transponder is not more than the then current greatest number of video signals carried on any equivalent transponder serving the top 100 designated market areas.
 

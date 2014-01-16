@@ -74,19 +74,21 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2013.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2014.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 166; amended Pub. L. 110–417, \[div. A\], title VI, §618(a), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(3), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(3), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(3), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(3), Jan. 2, 2013, 126 Stat. 1777.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 166; amended Pub. L. 110–417, \[div. A\], title VI, §618(a), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(3), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(3), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(3),Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(3), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(3), Dec. 26, 2013, 127 Stat. 781.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (i). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+<b>2013</b>—Subsec. (i). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
-<b>2011</b>—Subsec. (i). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (i). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-<b>2009</b>—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-<b>2008</b>—Subsecs. (a)(2), (b)(2). Pub. L. 110–417 struck out “and operational” after “current technical”.
+<b>2009</b>—Subsec. (i). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
+
+<b>2008</b>—Subsecs. (a)(2), (b)(2). Pub. L. 110–417 struck out "and operational" after "current technical".
 

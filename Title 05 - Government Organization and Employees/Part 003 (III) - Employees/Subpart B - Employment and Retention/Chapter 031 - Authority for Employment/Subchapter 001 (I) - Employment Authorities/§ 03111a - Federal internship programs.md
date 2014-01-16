@@ -34,7 +34,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;(D) a program that—
 
-&emsp;&emsp;&emsp;(i) is similar to an internship program established under Executive Order 13562, dated December 27, 2010 (75 Federal Register 82585); and
+&emsp;&emsp;&emsp;(i) is similar to an internship program established under Executive Order 13562,dated December 27, 2010 (75 Federal Register 82585); and
 
 &emsp;&emsp;&emsp;(ii) is authorized under another statutory provision of law;
 

@@ -10,7 +10,7 @@ As a requirement for project approval, local governments applying for assistance
 
 &emsp;(3) capacity and commitment to assure that facilities provided or improved under this chapter shall thereafter continue to be adequately maintained, protected, staffed, and supervised;
 
-&emsp;(4) intention to maintain total local public outlays for park and recreation purposes at levels at least equal to those in the year preceding that in which grant assistance is sought beginning in fiscal year 1980 except in any case where a reduction in park and recreation outlays is proportionate to a reduction in overall spending by the applicant; and
+&emsp;(4) intention to maintain total local public outlays for park and recreation purposes atlevels at least equal to those in the year preceding that in which grant assistance is sought beginning in fiscal year 1980 except in any case where a reduction in park and recreation outlays is proportionate to a reduction in overall spending by the applicant; and
 
 &emsp;(5) the relationship of the park and recreation recovery program to overall community development and urban revitalization efforts.
 
@@ -24,7 +24,7 @@ Action programs shall address, but are not limited to the following consideratio
 
 &emsp;(2) Local commitments to innovative and cost-effective programs and projects at the neighborhood level to augment recovery of park and recreation systems, including but not limited to recycling of abandoned schools and other public buildings for recreational purposes; multiple use of operating educational and other public buildings; purchase of recreation services on a contractual basis; use of mobile facilities and recreational, cultural, and educational programs or other innovative approaches to improving access for neighborhood residents; integration of recovery program with federally assisted projects to maximize recreational opportunities through conversion of abandoned railroad and highway rights-of-way, waterfront, and other redevelopment efforts and such other federally assisted projects as may be appropriate; conversion of recreation use of street space, derelict land, and other public lands not now designated for neighborhood recreational use; and use of various forms of compensated and uncompensated land regulation, tax inducements, or other means to encourage the private sector to provide neighborhood park and recreation facilities and programs.
 
-> The Secretary shall establish and publish in the Federal Register requirements for preparation, submission, and updating of local park and recreation recovery action programs. In order to be eligible to receive “at-risk youth recreation grants” a local government shall amend its 5-year action program to incorporate the goal of reducing crime and juvenile delinquency and to provide a description of the implementation strategies to achieve this goal. The plan shall also address how the local government is coordinating its recreation programs with crime prevention efforts of law enforcement, juvenile corrections, and youth social service agencies.
+> The Secretary shall establish and publish in the Federal Register requirements for preparation, submission, and updating of local park and recreation recovery action programs. In order to be eligible to receive "at-risk youth recreation grants" a local government shall amend its 5-year action program to incorporate the goal of reducing crime and juvenile delinquency and to provide a description of the implementation strategies to achieve this goal. The plan shall also address how the local government is coordinating its recreation programs with crime prevention efforts of law enforcement, juvenile corrections, and youth social service agencies.
 
 #### (c) Recovery action program grants
 
@@ -34,11 +34,11 @@ The Secretary is authorized to provide up to 50 per centum matching grants to el
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–322 inserted at end of concluding provisions “In order to be eligible to receive ‘at-risk youth recreation grants’ a local government shall amend its 5-year action program to incorporate the goal of reducing crime and juvenile delinquency and to provide a description of the implementation strategies to achieve this goal. The plan shall also address how the local government is coordinating its recreation programs with crime prevention efforts of law enforcement, juvenile corrections, and youth social service agencies.”
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 inserted at end of concluding provisions "In order to be eligible to receive 'at-risk youth recreation grants' a local government shall amend its 5-year action program to incorporate the goal of reducing crime and juvenile delinquency and to provide a description of the implementation strategies to achieve this goal. The plan shall also address how the local government is coordinating its recreation programs with crime prevention efforts of law enforcement, juvenile corrections, and youth social service agencies."
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “demonstrates:”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "demonstrates:".</i>
 

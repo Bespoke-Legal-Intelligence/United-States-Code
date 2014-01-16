@@ -16,5 +16,5 @@ A prior section 7909, Pub. L. 89–10, title IX, §9209, as added Pub. L. 103–
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–279 substituted “section 9543(a)(5) of this title” for “section 9003(a)(6) of this title”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–279 substituted "section 9543(a)(5) of this title" for "section 9003(a)(6) of this title".
 

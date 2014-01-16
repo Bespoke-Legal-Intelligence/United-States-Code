@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–310 inserted “, including juvenile arthritis and related conditions,” after “skin diseases”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–310 inserted ", including juvenile arthritis and related conditions," after "skin diseases".
 

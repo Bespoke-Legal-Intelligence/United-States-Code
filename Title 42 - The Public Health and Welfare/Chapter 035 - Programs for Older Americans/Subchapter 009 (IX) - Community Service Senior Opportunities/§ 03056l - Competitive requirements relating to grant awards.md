@@ -36,7 +36,7 @@ For purposes of subsection (a)(1), the Secretary shall select the eligible appli
 
 &emsp;(9) The applicant's ability to minimize disruption in services for participants and in community services provided.
 
-&emsp;(10) Any additional criteria that the Secretary considers to be appropriate in order tominimize disruption in services for participants.
+&emsp;(10) Any additional criteria that the Secretary considers to be appropriate in order to minimize disruption in services for participants.
 
 #### (d) Responsibility tests
 
@@ -96,7 +96,7 @@ For purposes of subsection (a)(1), the Secretary shall select the eligible appli
 
 #### (1) Definition
 
-&emsp;In this subsection, the term “individuals with barriers to employment” means minority individuals, Indian individuals, individuals with greatest economic need, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title.
+&emsp;In this subsection, the term "individuals with barriers to employment" means minorityindividuals, Indian individuals, individuals with greatest economic need, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title.
 
 #### (2) Special consideration
 

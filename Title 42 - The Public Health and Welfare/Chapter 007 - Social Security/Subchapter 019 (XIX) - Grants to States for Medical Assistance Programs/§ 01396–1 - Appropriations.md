@@ -10,9 +10,9 @@ Section was formerly classified to section 1396 of this title.
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–369 struck out “of Health, Education, and Welfare” after “Secretary”.
+<b>1984</b>—Pub. L. 98–369 struck out "of Health, Education, and Welfare" after "Secretary".
 
-<b>1973</b>—Pub. L. 93–233 substituted “disabled individuals” for “permanently and totally disabled individuals”.
+<b>1973</b>—Pub. L. 93–233 substituted "disabled individuals" for "permanently and totally disabled individuals".
 
 #### Effective Date of 1984 Amendment
 

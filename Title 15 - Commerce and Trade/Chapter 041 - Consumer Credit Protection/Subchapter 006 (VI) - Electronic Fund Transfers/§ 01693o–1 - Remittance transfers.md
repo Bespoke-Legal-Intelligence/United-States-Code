@@ -50,7 +50,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the rules prescribed by the Bureau, and except as provided under subparagraph (B), the disclosures required regarding the amount of currency that will be received by the designated recipient shall be deemed to be accurate, so long as the disclosures provide a reasonably accurate estimate of the foreign currency to be received. This paragraph shall apply only to a remittance transfer provider who is an insured depository institution, as defined in section 1813 of title 12, or an insured credit union, as defined in section 1752 of title 12, and if—
+&emsp;&emsp;Subject to the rules prescribed by the Bureau, and except as provided under subparagraph (B), the disclosures required regarding the amount of currency that will be received by the designated recipient shall be deemed to be accurate, so long as the disclosures provide a reasonably accurate estimate of the foreign currency to be received. This paragraph shall apply only to a remittancetransfer provider who is an insured depository institution, as defined in section 1813 of title 12, or an insured credit union, as defined in section 1752 of title 12, and if—
 
 &emsp;&emsp;&emsp;(i) a remittance transfer is conducted through a demand deposit, savings deposit, or other asset account that the sender holds with such remittance transfer provider; and
 
@@ -110,7 +110,7 @@ If the Bureau determines that a recipient nation does not legally allow, or the 
 
 &emsp;(1) a receipt that is consistent with subsections (a) and (b); and
 
-&emsp;(2) a reasonably accurate estimate of the foreign currency to be received, based on the rate provided to the sender by the remittance transfer provider at the time at which the transaction was initiated by the sender.
+&emsp;(2) a reasonably accurate estimate of the foreign currency to be received, based on the rate provided to the sender by the remittancetransfer provider at the time at which the transaction was initiated by the sender.
 
 #### (d) Remittance transfer errors
 
@@ -174,17 +174,17 @@ If the Bureau determines that a recipient nation does not legally allow, or the 
 
 As used in this section—
 
-&emsp;(1) the term “designated recipient” means any person located in a foreign country and identified by the sender as the authorized recipient of a remittance transfer to be made by a remittance transfer provider, except that a designated recipient shall not be deemed to be a consumer for purposes of this chapter;
+&emsp;(1) the term "designated recipient" means any person located in a foreign country and identified by the sender as the authorized recipient of a remittance transfer to be made by a remittance transfer provider, except that a designated recipient shall not be deemed to be a consumer for purposes of this chapter;
 
-&emsp;(2) the term “remittance transfer”—
+&emsp;(2) the term "remittance transfer"—
 
-&emsp;&emsp;(A) means the electronic (as defined in section 106(2) of the Electronic Signatures inGlobal and National Commerce Act (15 U.S.C. 7006(2))) transfer of funds requested by a sender located in any State to a designated recipient that is initiated by a remittance transfer provider, whether or not the sender holds an account with the remittance transfer provider or whether or not the remittance transfer is also an electronic fund transfer, as defined in section 1693a of this title; and
+&emsp;&emsp;(A) means the electronic (as defined in section 106(2) of the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7006(2))) transfer of funds requested by a sender located in any State to a designated recipient that is initiated by a remittance transfer provider, whether or not the senderholds an account with the remittance transfer provider or whether or not the remittance transfer is also an electronic fund transfer, as defined in section 1693a of this title; and
 
 &emsp;&emsp;(B) does not include a transfer described in subparagraph (A) in an amount that is equal to or lesser than the amount of a small-value transaction determined, by rule, to be excluded from the requirements under section 1693d(a) of this title;
 
-&emsp;(3) the term “remittance transfer provider” means any person or financial institution that provides remittance transfers for a consumer in the normal course of its business, whether or not the consumer holds an account with such person or financial institution; and
+&emsp;(3) the term "remittance transfer provider" means any person or financial institution that provides remittance transfers for a consumer in the normal course of its business, whether or not the consumer holds an account with such person or financial institution; and
 
-&emsp;(4) the term “sender” means a consumer who requests a remittance provider to send a remittance transfer for the consumer to a designated recipient.
+&emsp;(4) the term "sender" means a consumer who requests a remittance provider to send a remittance transfer for the consumer to a designated recipient.
 
 (Pub. L. 90–321, title IX, §919, as added and amended Pub. L. 111–203, title X, §§1073(a)(4), 1084(1), July 21, 2010, 124 Stat. 2060, 2081.)
 
@@ -202,7 +202,7 @@ Another prior section 919 of Pub. L. 90–321 was renumbered section 922 and is 
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1084(1), substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203, §1084(1), substituted "Bureau" for "Board" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

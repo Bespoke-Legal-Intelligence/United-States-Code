@@ -6,5 +6,5 @@ A concessions contract entered into pursuant to this subchapter shall generally 
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–176, which directed the substitution of “contract terms and conditions,” for “conract terms and conditions,”, could not be executed because the words ”conract terms and conditions,” did not appear.
+<b>2000</b>—Pub. L. 106–176, which directed the substitution of "contract terms and conditions," for "conract terms and conditions,", could not be executed because the words "conract terms and conditions," did not appear.
 

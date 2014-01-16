@@ -12,11 +12,11 @@ The Secretary of the Treasury shall promulgate regulations under which the trave
 
 #### (2) Definition
 
-&emsp;In this subsection, the term “tourist activities” means any activity with respect to travel to, from, or within Cuba that is not expressly authorized in subsection (a) of this section, in any of paragraphs (1) through (12) of section 515.560 of title 31, Code of Federal Regulations, or in any section referred to in any of such paragraphs (1) through (12) (as such sections were in effect on June 1, 2000).
+&emsp;In this subsection, the term "tourist activities" means any activity with respect to travel to, from, or within Cuba that is not expressly authorized in subsection (a) of this section, in any of paragraphs (1) through (12) of section 515.560 of title 31, Code of Federal Regulations, or in any section referred to in any of such paragraphs (1) through (12) (as such sections were in effect on June 1, 2000).
 
 (Pub. L. 106–387, §1(a) \[title IX, §910\], Oct. 28, 2000, 114 Stat. 1549, 1549A–71; Pub. L. 111–8, div. D, title VI, §620, Mar. 11, 2009, 123 Stat. 677.)
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–8 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall promulgate regulations under which the travel-related transactions listed in subsection (c) of section 515.560 of title 31, Code of Federal Regulations, may be authorized on a case-by-case basis by a specific license for travel to, from, or within Cuba for the commercial export sale of agricultural commodities pursuant to the provisions of this chapter.”
+<b>2009</b>—Subsec. (a). Pub. L. 111–8 amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary of the Treasury shall promulgate regulations under which the travel-related transactions listed in subsection (c) of section 515.560 of title 31, Code of Federal Regulations, may be authorized on a case-by-case basis by a specific license for travel to, from, or within Cuba for the commercial export sale of agricultural commodities pursuant to the provisions of this chapter."
 

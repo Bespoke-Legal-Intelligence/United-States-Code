@@ -22,7 +22,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §7511(c)(24), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §7511(c)(24), substituted "National Institute of Food and Agriculture" for "Extension Service".
 
 #### Effective Date of 2008 Amendment
 

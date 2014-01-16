@@ -20,7 +20,7 @@ Data on Length of Review.—The Office shall make available to the public data d
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c). Pub. L. 112–29, §20(j), struck out “of this title” after “252”.
+<b>2011</b>—Subsec. (c). Pub. L. 112–29, §20(j), struck out "of this title" after "252".
 
 #### Effective Date of 2011 Amendment
 

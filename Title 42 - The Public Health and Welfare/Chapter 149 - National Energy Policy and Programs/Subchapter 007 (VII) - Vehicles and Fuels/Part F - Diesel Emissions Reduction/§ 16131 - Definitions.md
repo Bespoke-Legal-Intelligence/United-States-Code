@@ -4,11 +4,11 @@ In this part:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Environmental Protection Agency.
+&emsp;The term "Administrator" means the Administrator of the Environmental Protection Agency.
 
 #### (2) Certified engine configuration
 
-&emsp;The term “certified engine configuration” means a new, rebuilt, or remanufactured engine configuration—
+&emsp;The term "certified engine configuration" means a new, rebuilt, or remanufactured engine configuration—
 
 &emsp;&emsp;(A) that has been certified or verified by—
 
@@ -26,7 +26,7 @@ In this part:
 
 #### (3) Eligible entity
 
-&emsp;The term “eligible entity” means—
+&emsp;The term "eligible entity" means—
 
 &emsp;&emsp;(A) a regional, State, local, or tribal agency or port authority with jurisdiction over transportation or air quality;
 
@@ -44,27 +44,27 @@ In this part:
 
 #### (4) Emerging technology
 
-&emsp;The term “emerging technology” means a technology that is not currently, or has not been previously, certified or verified by the Administrator or the California Air Resources Board but for which an approvable application and test plan has been submitted for verification to the Administrator or the California Air Resources Board.
+&emsp;The term "emerging technology" means a technology that is not currently, or has not been previously, certified or verified by the Administrator or the California Air Resources Board but for which an approvable application and test plan has been submitted for verification to the Administrator or the California Air Resources Board.
 
 #### (5) Fleet
 
-&emsp;The term “fleet” means one or more diesel vehicles or mobile or stationary diesel engines.
+&emsp;The term "fleet" means one or more diesel vehicles or mobile or stationary diesel engines.
 
 #### (6) Heavy-duty truck
 
-&emsp;The term “heavy-duty truck” has the meaning given the term “heavy duty vehicle” in section 7521 of this title.
+&emsp;The term "heavy-duty truck" has the meaning given the term "heavy duty vehicle" in section 7521 of this title.
 
 #### (7) Medium-duty truck
 
-&emsp;The term “medium-duty truck” has such meaning as shall be determined by the Administrator, by regulation.
+&emsp;The term "medium-duty truck" has such meaning as shall be determined by the Administrator, by regulation.
 
 #### (8) State
 
-&emsp;The term “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" means the several States, the District of Columbia, the Commonwealthof Puerto Rico, Guam, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (9) Verified technology
 
-&emsp;The term “verified technology” means a pollution control technology, including a retrofit technology or auxiliary power unit, that has been verified by—
+&emsp;The term "verified technology" means a pollution control technology, including a retrofit technology or auxiliary power unit, that has been verified by—
 
 &emsp;&emsp;(A) the Administrator; or
 
@@ -76,15 +76,15 @@ In this part:
 
 <b>2011</b>—Par. (3)(C). Pub. L. 111–364, §2(a)(1), added subpar. (C).
 
-Par. (4). Pub. L. 111–364, §2(a)(2), inserted “currently, or has not been previously,” after “that is not”.
+Par. (4). Pub. L. 111–364, §2(a)(2), inserted "currently, or has not been previously," after "that is not".
 
 Par. (8). Pub. L. 111–364, §2(a)(6), added par. (8). Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 111–364, §2(a)(5), struck out “, advanced truckstop electrification system,” after “retrofit technology” in introductory provisions.
+Par. (9). Pub. L. 111–364, §2(a)(5), struck out ", advanced truckstop electrification system," after "retrofit technology" in introductory provisions.
 
 Pub. L. 111–364, §2(a)(4), redesignated par. (8) as (9). Former par. (9) struck out.
 
-Pub. L. 111–364, §2(a)(3), struck out par. (9) which defined “State” to include the District of Columbia.
+Pub. L. 111–364, §2(a)(3), struck out par. (9) which defined "State" to include the District of Columbia.
 
 <b>2008</b>—Par. (9). Pub. L. 110–255 added par. (9).
 
@@ -92,11 +92,11 @@ Pub. L. 111–364, §2(a)(3), struck out par. (9) which defined “State” to i
 
 Pub. L. 111–364, §4, Jan. 4, 2011, 124 Stat. 4061, provided that:
 
-“(a)
+"(a)
 
 General Rule.—Except as provided in subsection (b), the amendments made by section 2 \[amending this section and sections 16132 to 16134 and 16137 of this title\] shall take effect on October 1, 2011.
 
-“(b)
+"(b)
 
-Exception.—The amendments made by subsections (a)(4) and (6) and (c)(4) of section 2 \[amending this section and section 16133 of this title\] shall take effect on the date of enactment of this Act \[Jan. 4, 2011\].”
+Exception.—The amendments made by subsections (a)(4) and (6) and (c)(4) of section 2 \[amending this section and section 16133 of this title\] shall take effect on the date of enactment of this Act \[Jan. 4, 2011\]."
 

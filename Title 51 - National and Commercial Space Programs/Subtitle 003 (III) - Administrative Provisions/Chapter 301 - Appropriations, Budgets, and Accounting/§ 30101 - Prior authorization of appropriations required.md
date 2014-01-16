@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 86–45, §4, June 15, 1959, 73 Stat. 75.
 
-The word “hereafter” is omitted as unnecessary.
+The word "hereafter" is omitted as unnecessary.
 

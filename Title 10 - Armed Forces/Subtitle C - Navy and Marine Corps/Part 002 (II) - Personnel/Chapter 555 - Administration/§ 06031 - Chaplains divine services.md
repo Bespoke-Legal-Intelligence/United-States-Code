@@ -40,7 +40,7 @@ May 5, 1950, ch. 169, §7(e), 64 Stat. 146.
 
 R.S. 1398.
 
-In subsection (c) the words “and in the Marine Corps” are added to execute the definition of “Navy” in section 1, article 1, of the Act of May 5, 1950, ch. 169, 64 Stat. 146.
+In subsection (c) the words "and in the Marine Corps" are added to execute the definition of "Navy" in section 1, article 1, of the Act of May 5, 1950, ch. 169, 64 Stat. 146.
 
 #### Amendments
 

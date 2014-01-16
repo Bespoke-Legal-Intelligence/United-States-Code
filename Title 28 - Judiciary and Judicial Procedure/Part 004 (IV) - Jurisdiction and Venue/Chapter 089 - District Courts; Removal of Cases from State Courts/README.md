@@ -28,19 +28,19 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–63, title I, §103(d)(1), Dec. 7, 2011, 125 Stat. 762, substituted “Removal of civil actions” for “Actions removable generally” in item 1441, inserted“of civil actions” after “removal” in item 1446, and added item 1455.
+<b>2011</b>—Pub. L. 112–63, title I, §103(d)(1), Dec. 7, 2011, 125 Stat. 762, substituted "Removal of civil actions" for "Actions removable generally" in item 1441, inserted "of civil actions" after "removal" in item 1446, and added item 1455.
 
 Pub. L. 112–29, §19(c)(2), Sept. 16, 2011, 125 Stat. 332, added item 1454.
 
 <b>2005</b>—Pub. L. 109–2, §5(b), Feb. 18, 2005, 119 Stat. 13, added item 1453.
 
-<b>1996</b>—Pub. L. 104–317, title II, §206(b), Oct. 19, 1996, 110 Stat. 3850, inserted “and agencies” after “officers” in item 1442.
+<b>1996</b>—Pub. L. 104–317, title II, §206(b), Oct. 19, 1996, 110 Stat. 3850, inserted "and agencies" after "officers" in item 1442.
 
 <b>1984</b>—Pub. L. 98–353, title I, §103(b), July 10, 1984, 98 Stat. 335, added item 1452.
 
 <b>1970</b>—Pub. L. 91–358, title I, §172(d)(2), July 29, 1970, 84 Stat. 591, added item 1451.
 
-<b>1958</b>—Pub. L. 85–554, §5(b), July 25, 1958, 72 Stat. 416, substituted “Nonremovable actions” for “Carriers; non-removable actions” in item 1445.
+<b>1958</b>—Pub. L. 85–554, §5(b), July 25, 1958, 72 Stat. 416, substituted "Nonremovable actions" for "Carriers; non-removable actions" in item 1445.
 
 <b>1956</b>—Act Aug. 10, 1956, ch. 1041, §19(b), 70A Stat. 627, added item 1442a.
 

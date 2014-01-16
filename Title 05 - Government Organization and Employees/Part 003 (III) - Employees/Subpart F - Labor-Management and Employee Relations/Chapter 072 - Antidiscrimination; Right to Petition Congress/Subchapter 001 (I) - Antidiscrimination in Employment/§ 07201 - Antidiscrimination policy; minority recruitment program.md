@@ -2,7 +2,7 @@
 
 (a) For the purpose of this section—
 
-&emsp;(1) “underrepresentation” means a situation in which the number of members of a minority group designation (determined by the Equal Employment Opportunity Commission in consultation with the Office of Personnel Management, on the basis of the policy set forth in subsection (b) of this section) within a category of civil service employment constitutes a lower percentage of the total number of employees within the employment category than the percentage that the minority constituted within the labor force of the United States, as determined under the most recent decennial or mid-decade census, or current population survey, under title 13, and
+&emsp;(1) “underrepresentation” means a situation in which the number of members of a minority group designation (determined by the Equal Employment Opportunity Commission in consultation with the Office of Personnel Management, on the basis of the policy set forth in subsection (b) of this section) within a category of civil service employment constitutes a lower percentage of the total number of employees within the employment category than the percentage that the minority constitutedwithin the labor force of the United States, as determined under the most recent decennial or mid-decade census, or current population survey, under title 13, and
 
 &emsp;(2) “category of civil service employment” means—
 
@@ -55,6 +55,8 @@ The word “Federal” is omitted as unnecessary in view of the definition of �
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### References in Text
+
+The General Schedule, referred to in subsec. (a)(2)(A), is set out under section 5332 of this title.
 
 The date of the enactment of the Civil Service Reform Act of 1978, referred to in subsecs. (c) and (d), is the date of the enactment of Pub. L. 95–454, which was approved Oct. 13, 1978.
 

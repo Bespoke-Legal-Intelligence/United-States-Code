@@ -18,15 +18,15 @@ The United States, a State, or any other governmental unit liable for violations
 
 #### (d) Exclusive nature of remedy
 
-The remedy provided by subsection (a)(1) of this section against the United States, a State, or any other governmental unit is exclusive of any other civil action or proceeding for conduct constituting a violation of this chapter, against the officer or employee whose violation gave rise to the claim, or against the estate of such officer or employee.
+The remedy provided by subsection (a)(1) of this section against the United States, a State, or any other governmental unit is exclusive ofany other civil action or proceeding for conduct constituting a violation of this chapter, against the officer or employee whose violation gave rise to the claim, or against the estate of such officer or employee.
 
 #### (e) Admissibility of evidence
 
 Evidence otherwise admissible in a proceeding shall not be excluded on the basis of a violation of this chapter.
 
-#### (f) Damages; costs and attorneys’ fees
+#### (f) Damages; costs and attorneys' fees
 
-A person having a cause of action under this section shall be entitled to recover actual damages but not less than liquidated damages of $1,000, and such reasonable attorneys’ fees and other litigation costs reasonably incurred as the court, in its discretion, may award: <i>Provided, however</i>, That the United States, a State, or any other governmental unit shall not be liable for interest prior to judgment.
+A person having a cause of action under this section shall be entitled to recover actual damages but not less than liquidated damages of $1,000, and such reasonable attorneys' fees and other litigation costs reasonably incurred as the court, in its discretion, may award: <i>Provided, however</i>, That the United States, a State, or any other governmental unit shall not be liable for interest prior to judgment.
 
 #### (g) Attorney General; claims settlement; regulations
 

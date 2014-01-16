@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 98–614, §3(a)(2), struck out before period at end “or,
 
 Subsec. (b). Pub. L. 95–17 substituted in provisions preceding par. (1) “this chapter” for “subsection (a) of this section” and in par. (2) “any period of time in which Congress is in continuous session” for “the 60-day period”.
 
-Subsec. (c). Pub. L. 95–17 inserted provision that if both Houses of Congress have defeated a resolution of disapproval, the provision of a reorganization plan may be effective at a time earlier than the expiration of the sixty-day period required by subsec. (a).
+Subsec. (c). Pub. L. 95–17 inserted provision that if both Houses of Congress have defeated a resolution ofdisapproval, the provision of a reorganization plan may be effective at a time earlier than the expiration of the sixty-day period required by subsec. (a).
 
 Subsec. (d). Pub. L. 95–17 reenacted subsec. (d) without change.
 

@@ -2,13 +2,13 @@
 
 #### (a) Depressive disorder defined
 
-In this section, the term “depressive disorder” means a mental or brain disorder relating to depression, including major depression, bipolar disorder, and related mood disorders.
+In this section, the term "depressive disorder" means a mental or brain disorder relating to depression, including major depression, bipolar disorder, and related mood disorders.
 
 #### (b) Grant program
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Administrator, shall award grants on a competitive basis to eligible entities to establish national centers of excellence for depression (referred to in this section as “Centers”), which shall engage in activities related to the treatment of depressive disorders.
+&emsp;The Secretary, acting through the Administrator, shall award grants on a competitive basis to eligible entities to establish national centers of excellence for depression (referred to in this section as "Centers"), which shall engage in activities related to the treatment of depressive disorders.
 
 #### (2) Allocation of awards
 
@@ -76,7 +76,7 @@ In this section, the term “depressive disorder” means a mental or brain diso
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, acting through the Administrator, shall designate 1 recipient of a grant under this section to be the coordinating center of excellence for depression (referred to in this section as the “coordinating center”). The Secretary shall select such coordinating center on a competitive basis, based upon the demonstrated capacity of such center to perform the duties described in subparagraph (C).
+&emsp;&emsp;The Secretary, acting through the Administrator, shall designate 1 recipient of a grant under this section to be the coordinating center of excellence for depression (referred to in this section as the "coordinating center"). The Secretary shall select such coordinating center on a competitive basis, based upon the demonstrated capacity of such center to perform the duties described in subparagraph (C).
 
 #### (B) Application
 
@@ -118,7 +118,7 @@ Each Center shall carry out the following activities:
 
 &emsp;Each Center shall collaborate with other Centers in the network to—
 
-&emsp;&emsp;(A) develop and implement treatment standards, clinical guidelines, and protocols that emphasize primary prevention, earlyintervention, treatment for, and recovery from, depressive disorders;
+&emsp;&emsp;(A) develop and implement treatment standards, clinical guidelines, and protocols that emphasize primary prevention, early intervention, treatment for, and recovery from, depressive disorders;
 
 &emsp;&emsp;(B) foster communication with other providers attending to co-occurring physical health conditions such as cardiovascular, diabetes, cancer, and substance abuse disorders;
 
@@ -210,5 +210,5 @@ Each Center shall carry out the following activities:
 
 #### Prior Provisions
 
-A prior section 290bb–33, act July 1, 1944, ch. 373, title V, §520B, formerly title XXIV, §2441, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3092; renumbered title V, §520B, and amended Pub. L. 102–321, title I, §118(a), (b)(2), July 10, 1992, 106 Stat. 348, 349, relatedto demonstration projects for individuals with positive test results, prior to repeal by Pub. L. 106–310, div. B, title XXXII, §3201(b)(2), Oct. 17, 2000, 114 Stat. 1190.
+A prior section 290bb–33, act July 1, 1944, ch. 373, title V, §520B, formerly title XXIV, §2441, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3092; renumbered title V, §520B, and amended Pub. L. 102–321, title I, §118(a), (b)(2), July 10, 1992, 106 Stat. 348, 349, related to demonstration projects for individuals with positive test results, prior to repeal by Pub. L. 106–310, div. B, title XXXII, §3201(b)(2), Oct. 17, 2000, 114 Stat. 1190.
 

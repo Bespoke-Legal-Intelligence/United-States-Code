@@ -6,15 +6,15 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-High risk rural road.—The term “high risk rural road” means any roadway functionally classified as a rural major or minor collector or a rural local road with significant safety risks, as defined by a State in accordance with an updated State strategic highway safety plan.
+High risk rural road.—The term "high risk rural road" means any roadway functionally classified as a rural major or minor collector or a rural local road with significant safety risks, as defined by a State in accordance with an updated State strategic highway safety plan.
 
 &emsp;(2)
 
-Highway basemap.—The term “highway basemap” means a representation of all public roads that can be used to geolocate attribute data on a roadway.
+Highway basemap.—The term "highway basemap" means a representation of all public roads that can be used to geolocate attribute data on a roadway.
 
 &emsp;(3)
 
-Highway safety improvement program.—The term “highway safety improvement program” means projects, activities, plans, and reports carried out under this section.
+Highway safety improvement program.—The term "highway safety improvement program" means projects, activities, plans, and reports carried out under this section.
 
 &emsp;(4)
 
@@ -22,7 +22,7 @@ Highway safety improvement project.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “highway safety improvement project” means strategies, activities, and projects on a public road that are consistent with a State strategic highway safety plan and—
+In general.—The term "highway safety improvement project" means strategies, activities, and projects on a public road that are consistent with a State strategic highway safety plan and—
 
 &emsp;&emsp;&emsp;(i) correct or improve a hazardous road location or feature; or
 
@@ -30,7 +30,7 @@ In general.—The term “highway safety improvement project” means strategies
 
 &emsp;&emsp;(B)
 
-Inclusions.—The term “highway safety improvement project” includes, but is not limited to, a project for 1 or more of the following:
+Inclusions.—The term "highway safety improvement project" includes, but is not limited to, a project for 1 or more of the following:
 
 &emsp;&emsp;&emsp;(i) An intersection safety improvement.
 
@@ -74,7 +74,7 @@ Inclusions.—The term “highway safety improvement project” includes, but is
 
 &emsp;&emsp;&emsp;(xxi) A road safety audit.
 
-&emsp;&emsp;&emsp;(xxii) Roadway safety infrastructure improvements consistent with the recommendations included in the publication of the Federal Highway Administration entitled “Highway Design Handbook for Older Drivers and Pedestrians” (FHWA–RD–01–103), dated May 2001 or as subsequently revised and updated.
+&emsp;&emsp;&emsp;(xxii) Roadway safety infrastructure improvements consistent with the recommendations included in the publication of the Federal Highway Administration entitled "Highway Design Handbook for Older Drivers and Pedestrians" (FHWA–RD–01–103), dated May 2001 or as subsequently revised and updated.
 
 &emsp;&emsp;&emsp;(xxiii) Truck parking facilities eligible for funding under section 1401 of the MAP–21.
 
@@ -82,19 +82,19 @@ Inclusions.—The term “highway safety improvement project” includes, but is
 
 &emsp;(5)
 
-Model inventory of roadway elements.—The term “model inventory of roadway elements” means the listing and standardized coding by the Federal Highway Administration of roadway and traffic data elements critical to safety management, analysis, and decisionmaking.
+Model inventory of roadway elements.—The term "model inventory of roadway elements" means the listing and standardized coding by the Federal Highway Administration of roadway and traffic data elements critical to safety management, analysis, and decisionmaking.
 
 &emsp;(6)
 
-Project to maintain minimum levels of retroreflectivity.—The term “project to maintain minimum levels of retroreflectivity” means a project that is designed to maintain a highway sign or pavement marking retroreflectivity at or above the minimum levels prescribed in Federal or State regulations.
+Project to maintain minimum levels of retroreflectivity.—The term "project to maintain minimum levels of retroreflectivity" means a project that is designed to maintain a highway sign or pavement marking retroreflectivity at or above the minimum levels prescribed in Federal or State regulations.
 
 &emsp;(7)
 
-Road safety audit.—The term “road safety audit” means a formal safety performance examination of an existing or future road or intersection by an independent multidisciplinary audit team.
+Road safety audit.—The term "road safety audit" means a formal safety performance examination of an existing or future road or intersection by an independent multidisciplinary audit team.
 
 &emsp;(8)
 
-Road users.—The term “road user” means a motorist, passenger, public transportation operator or user, truck driver, bicyclist, motorcyclist, or pedestrian, including a person with disabilities.
+Road users.—The term "road user" means a motorist, passenger, public transportation operator or user, truck driver, bicyclist, motorcyclist, or pedestrian, including a person with disabilities.
 
 &emsp;(9)
 
@@ -102,11 +102,11 @@ Safety data.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “safety data” means crash, roadway, and traffic data on a public road.
+In general.—The term "safety data" means crash, roadway, and traffic data on a public road.
 
 &emsp;&emsp;(B)
 
-Inclusion.—The term “safety data” includes, in the case of a railway-highway grade crossing, the characteristics of highway and train traffic, licensing, and vehicle data.
+Inclusion.—The term "safety data" includes, in the case of a railway-highway grade crossing, the characteristics of highway and train traffic, licensing, and vehicle data.
 
 &emsp;(10)
 
@@ -114,11 +114,11 @@ Safety project under any other section.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “safety project under any other section” means a project carried out for the purpose of safety under any other section of this title.
+In general.—The term "safety project under any other section" means a project carried out for the purpose of safety under any other section of this title.
 
 &emsp;&emsp;(B)
 
-Inclusion.—The term “safety project under any other section” includes—
+Inclusion.—The term "safety project under any other section" includes—
 
 &emsp;&emsp;&emsp;(i) a project consistent with the State strategic highway safety plan that promotes the awareness of the public and educates the public concerning highway safety matters (including motorcycle safety);
 
@@ -128,11 +128,11 @@ Inclusion.—The term “safety project under any other section” includes—
 
 &emsp;(11)
 
-State highway safety improvement program.—The term “State highway safety improvement program” means a program of highway safety improvement projects, activities, plans and reports carried out as part of the Statewide transportation improvement program under section 135(g).
+State highway safety improvement program.—The term "State highway safety improvement program" means a program of highway safety improvement projects, activities, plans and reports carried out as part of the Statewide transportation improvement program under section 135(g).
 
 &emsp;(12)
 
-State strategic highway safety plan.—The term “State strategic highway safety plan” means a comprehensive plan, based on safety data, developed by a State transportation department that—
+State strategic highway safety plan.—The term "State strategic highway safety plan" means a comprehensive plan, based on safety data, developed by a State transportation department that—
 
 &emsp;&emsp;(A) is developed after consultation with—
 
@@ -174,7 +174,7 @@ State strategic highway safety plan.—The term “State strategic highway safet
 
 &emsp;(13)
 
-Systemic safety improvement.—The term “systemic safety improvement” means an improvement that is widely implemented based on high-risk roadway features that are correlated with particular crash types, rather than crash frequency.
+Systemic safety improvement.—The term "systemic safety improvement" means an improvement that is widely implemented based on high-risk roadway features that are correlated with particular crash types, rather than crash frequency.
 
 (b)
 
@@ -354,11 +354,11 @@ Definition of data improvement activities.—In this subsection, the following d
 
 &emsp;&emsp;(A)
 
-In general.—The term “data improvement activities” means a project or activity to further the capacity of a State to make more informed and effective safety infrastructure investment decisions.
+In general.—The term "data improvement activities" means a project or activity to further the capacity of a State to make more informed and effective safety infrastructure investment decisions.
 
 &emsp;&emsp;(B)
 
-Inclusions.—The term “data improvement activities” includes a project or activity—
+Inclusions.—The term "data improvement activities" includes a project or activity—
 
 &emsp;&emsp;&emsp;(i) to create, update, or enhance a highway basemap of all public roads in a State;
 
@@ -390,7 +390,7 @@ High-risk rural road safety.—If the fatality rate on rural roads in a State in
 
 &emsp;(2)
 
-Older drivers.—If traffic fatalities and serious injuries per capita for drivers and pedestrians over the age of 65 in a State increases during the most recent 2-year period for which data are available, that State shall be required to include, in the subsequent Strategic Highway Safety Plan of the State, strategies to address the increases in those rates, taking into account the recommendations included in the publication of the Federal Highway Administration entitled “Highway Design Handbook for Older Drivers and Pedestrians” (FHWA–RD–01–103), and dated May 2001, or as subsequently revised and updated.
+Older drivers.—If traffic fatalities and serious injuries per capita for drivers and pedestrians over the age of 65 in a State increases during the most recent 2-year period for which data are available, that State shall be required to include, in the subsequent Strategic Highway Safety Plan of the State, strategies to address the increases in those rates, taking into account the recommendations included in the publication of the Federal Highway Administration entitled "Highway Design Handbook for Older Drivers and Pedestrians" (FHWA–RD–01–103), and dated May 2001, or as subsequently revised and updated.
 
 (h)
 
@@ -466,7 +466,7 @@ The date of enactment of the MAP–21, referred to in subsecs. (d)(1)(A) and (g)
 
 <b>1978</b>—Subsec. (a)(5). Pub. L. 95–599, §125(b), inserted provision authorizing charging of a fee in certain cases to cover operational costs.
 
-Subsec. (e). Pub. L. 95–599, §129(d), substituted “75 per centum” for “70 per centum”.
+Subsec. (e). Pub. L. 95–599, §129(d), substituted "75 per centum" for "70 per centum".
 
 Subsec. (h). Pub. L. 95–599, §125(a), added subsec. (h).
 
@@ -476,79 +476,79 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 129(d) of Pub. L. 95–599 effective with respect to obligations incurred after Nov. 6, 1978, see section 129(h) of Pub. L. 95–599, set out as a note under section 120 of this title.
+Amendment by section 129(d) of Pub. L. 95–599 effective with respect to obligations incurred after Nov. 6,1978, see section 129(h) of Pub. L. 95–599, set out as a note under section 120 of this title.
 
 #### Study of High-risk Rural Roads Best Practices
 
 Pub. L. 112–141, div. A, title I, §1112(b), July 6, 2012, 126 Stat. 459, provided that:
 
-“(1)
+"(1)
 
 Study.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The Secretary \[of Transportation\] shall conduct a study of the best practices for implementing cost-effective roadway safety infrastructure improvements on high-risk rural roads.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Methodology.—In carrying out the study, the Secretary shall—
 
-&emsp;&emsp;“(i) conduct a thorough literature review;
+&emsp;&emsp;"(i) conduct a thorough literature review;
 
-&emsp;&emsp;“(ii) survey current practices of State departments of transportation; and
+&emsp;&emsp;"(ii) survey current practices of State departments of transportation; and
 
-&emsp;&emsp;“(iii) survey current practices of local units of government, as appropriate.
+&emsp;&emsp;"(iii) survey current practices of local units of government, as appropriate.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Consultation.—In carrying out the study, the Secretary shall consult with—
 
-&emsp;&emsp;“(i) State departments of transportation;
+&emsp;&emsp;"(i) State departments of transportation;
 
-&emsp;&emsp;“(ii) county engineers and public works professionals;
+&emsp;&emsp;"(ii) county engineers and public works professionals;
 
-&emsp;&emsp;“(iii) appropriate local officials; and
+&emsp;&emsp;"(iii) appropriate local officials; and
 
-&emsp;&emsp;“(iv) appropriate private sector experts in the field of roadway safety infrastructure.
+&emsp;&emsp;"(iv) appropriate private sector experts in the field of roadway safety infrastructure.
 
-“(2)
+"(2)
 
 Report.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Contents.—The report shall include—
 
-&emsp;&emsp;“(i) a summary of cost-effective roadway safety infrastructure improvements;
+&emsp;&emsp;"(i) a summary of cost-effective roadway safety infrastructure improvements;
 
-&emsp;&emsp;“(ii) a summary of the latest research on the financial savings and reduction in fatalities and serious bodily injury crashes from the implementation of cost-effective roadway safety infrastructure improvements; and
+&emsp;&emsp;"(ii) a summary of the latest research on the financial savings and reduction in fatalities and serious bodily injury crashes from the implementation of cost-effective roadway safety infrastructure improvements; and
 
-&emsp;&emsp;“(iii) recommendations for State and local governments on best practice methods to install cost-effective roadway safety infrastructure on high-risk rural roads.
+&emsp;&emsp;"(iii) recommendations for State and local governments on best practice methods to install cost-effective roadway safety infrastructure on high-risk rural roads.
 
-“(3)
+"(3)
 
 Manual.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Development.—Based on the results of the study under paragraph (2), the Secretary, in consultation with the individuals and entities described in paragraph (1)(C), shall develop a best practices manual to support Federal, State, and local efforts to reduce fatalities and serious bodily injury crashes on high-risk rural roads through the use of cost-effective roadway safety infrastructure improvements.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Availability.—The manual shall be made available to State and local governments not later than 180 days after the date of submission of the report under paragraph (2).
 
-&emsp;“(C)
+&emsp;"(C)
 
 Contents.—The manual shall include, at a minimum, a list of cost-effective roadway safety infrastructure improvements and best practices on the installation of cost-effective roadway safety infrastructure improvements on high-risk rural roads.
 
-&emsp;“(D)
+&emsp;"(D)
 
-Use of manual.—Use of the manual shall be voluntary and the manual shall not establish any binding standards or legal duties on State or local governments, or any other person.”
+Use of manual.—Use of the manual shall be voluntary and the manual shall not establish any binding standards or legal duties on State or local governments, or any other person."
 
 #### Transition
 

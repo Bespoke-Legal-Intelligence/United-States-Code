@@ -50,7 +50,7 @@ To be eligible to receive payments under section 9037, a candidate shall certify
 
 #### Amendments
 
-<b>1976</b>—Subsec. (b)(1). Pub. L. 94–283, §305(c), substituted “limitations” for “limitation”.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–283, §305(c), substituted "limitations" for "limitation".
 
 Subsec. (c). Pub. L. 94–283, §306(b)(2), added subsec. (c).
 

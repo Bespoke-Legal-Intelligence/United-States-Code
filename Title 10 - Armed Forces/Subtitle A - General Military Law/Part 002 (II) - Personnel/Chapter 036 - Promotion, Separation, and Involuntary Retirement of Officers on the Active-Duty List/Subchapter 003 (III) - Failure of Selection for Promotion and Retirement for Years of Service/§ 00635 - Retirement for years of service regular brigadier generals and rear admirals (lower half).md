@@ -6,11 +6,11 @@ Except as provided under section 637(b) of this title, each officer of the Regul
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–145 substituted “rear admirals (lower half)” for “commodores” in section catchline and “rear admiral (lower half)” for “commodore” in text.
+<b>1985</b>—Pub. L. 99–145 substituted "rear admirals (lower half)" for "commodores" in section catchline and "rear admiral (lower half)" for "commodore" in text.
 
-<b>1984</b>—Pub. L. 98–525 substituted “30” for “thirty”.
+<b>1984</b>—Pub. L. 98–525 substituted "30" for "thirty".
 
-<b>1981</b>—Pub. L. 97–86 substituted “commodores” for “commodore admirals” in section catchline and “commodore” for “commodore admiral” in text.
+<b>1981</b>—Pub. L. 97–86 substituted "commodores" for "commodore admirals" in section catchline and "commodore" for "commodore admiral" in text.
 
 #### Effective Date of 1981 Amendment
 

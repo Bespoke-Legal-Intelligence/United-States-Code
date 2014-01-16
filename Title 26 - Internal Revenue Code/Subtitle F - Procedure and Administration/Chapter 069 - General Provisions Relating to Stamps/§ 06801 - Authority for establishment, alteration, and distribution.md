@@ -12,11 +12,11 @@ The Secretary shall prepare and distribute all the instructions, regulations, di
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–369 struck out “, except that stamps required by or prescribed pursuant to the provisions of section 5205 or section 5235 may be prepared and distributed by persons authorized by the Secretary, under such controls for the protection of therevenue as shall be deemed necessary” before the period at end.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 struck out ", except that stamps required by or prescribed pursuant to the provisions of section 5205 or section 5235 may be prepared and distributed by persons authorized by the Secretary, under such controls for the protection of the revenue as shall be deemed necessary" before the period at end.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
-Subsec. (b). Pub. L. 94–455 and Pub. L. 94–569 struck out “or his delegate” after “Secretary” and provided that stamps required by or prescribed pursuant to the provisions of section 5205 or section 5235 may be prepared and distributed by persons authorized by the Secretary, under such controls for the protection of the revenue as shall be deemed necessary.
+Subsec. (b). Pub. L. 94–455 and Pub. L. 94–569 struck out "or his delegate" after "Secretary" and provided that stamps required by or prescribed pursuant to the provisions of section 5205 or section 5235 may be prepared and distributed by persons authorized by the Secretary, under such controls for the protection of the revenue as shall be deemed necessary.
 
 #### Effective Date of 1984 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Definition of eligible entity
 
-In this section, the term “eligible entity” means an emergency feeding organization.
+In this section, the term "eligible entity" means an emergency feeding organization.
 
 #### (b) Program authorized
 

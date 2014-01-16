@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Girl Scouts of the United States of America (in this chapter, the “corporation”) is a body corporate and politic of the District of Columbia.
+Federal Charter.—Girl Scouts of the United States of America (in this chapter, the "corporation") is a body corporate and politic of the District of Columbia.
 
 (b)
 

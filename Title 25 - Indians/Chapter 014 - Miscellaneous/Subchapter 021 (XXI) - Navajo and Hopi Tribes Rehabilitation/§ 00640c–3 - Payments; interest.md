@@ -2,7 +2,7 @@
 
 (a) Notwithstanding any other provision of law, the Secretary of the Interior shall not, in disbursing funds provided under sections 640a to 640c–3 of this title, use any method of payment which was not used during fiscal year 1987 in the disbursement of funds provided under sections 640a to 640c–3 of this title.
 
-(b)(1)(A) Notwithstanding any provision of law other than subparagraph (B), any interest or investment income that accrues on any funds provided under sections 640a to 640c–3 of this title after such funds are paid to Diné College and before such funds are expended for the purpose for which such funds were provided under sections 640a to 640c–3 of this title shall be the property of Diné College and shall not be taken into account by any officer or employee of the Federal Government in determining whether to provide assistance, or the amount of assistance, to Diné College under any provision of Federal law.
+(b)(1)(A) Notwithstanding any provision of law other than subparagraph (B), any interest or investment income that accrues on any funds provided under sections 640a to 640c–3 of this titleafter such funds are paid to Diné College and before such funds are expended for the purpose for which such funds were provided under sections 640a to 640c–3 of this title shall be the property of Diné College and shall not be taken into account by any officer or employee of the Federal Government in determining whether to provide assistance, or the amount of assistance, to Diné College under any provision of Federal law.
 
 (B) All interest or investment income described in subparagraph (A) shall be expended by Diné College by no later than the close of the fiscal year succeeding the fiscal year in which such interest or investment income accrues.
 
@@ -16,7 +16,7 @@ Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–315 substituted “Diné College” for “the Navajo Community College” wherever appearing.
+<b>2008</b>—Subsec. (b). Pub. L. 110–315 substituted "Diné College" for "the Navajo Community College" wherever appearing.
 
 #### Effective Date
 

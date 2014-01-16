@@ -36,7 +36,7 @@ Nothing in subsection (d) of this section shall be deemed applicable to any pers
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–588, §1(b), inserted “, or attempt to excavate, remove, damage, or otherwise alter or deface” after “deface”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–588, §1(b), inserted ", or attempt to excavate, remove, damage, or otherwise alter or deface" after "deface".
 
-Subsec. (d). Pub. L. 100–588, §1(c), substituted “$500” for “$5,000”.
+Subsec. (d). Pub. L. 100–588, §1(c), substituted "$500" for "$5,000".
 

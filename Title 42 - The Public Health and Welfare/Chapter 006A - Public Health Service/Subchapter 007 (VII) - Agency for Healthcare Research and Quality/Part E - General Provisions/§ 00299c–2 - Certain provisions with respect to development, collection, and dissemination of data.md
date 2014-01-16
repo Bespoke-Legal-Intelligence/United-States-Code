@@ -12,7 +12,7 @@
 
 #### (2) Relationship with other Department programs
 
-&emsp;In any case where standards under paragraph (1) may affect the administration of other programs carried out by the Department of Health and Human Services, including the programs under title XVIII, XIX or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], or may affect health information that is subject to a standard developed under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\], they shall be in the form of recommendations to the Secretary for such program.
+&emsp;In any case where standards under paragraph (1) may affect the administration ofother programs carried out by the Department of Health and Human Services, including the programs under title XVIII, XIX or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], or may affect health information that is subject to a standard developed under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\], they shall be in the form of recommendations to the Secretary for such program.
 
 #### (b) Statistics and analyses
 

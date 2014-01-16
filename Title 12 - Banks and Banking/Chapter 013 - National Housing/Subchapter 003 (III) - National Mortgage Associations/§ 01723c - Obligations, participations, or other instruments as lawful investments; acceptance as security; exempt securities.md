@@ -6,13 +6,13 @@ All obligations, participations, or other instruments issued by either of the bo
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–550 struck out before period at end “; but all such issuances by the Association and all issuances of stock, and debt obligations convertible into stock, by the corporation shall be made only with the approval of the Secretary of Housing and Urban Development”.
+<b>1992</b>—Pub. L. 102–550 struck out before period at end "; but all such issuances by the Association and all issuances of stock, and debt obligations convertible into stock, by the corporation shall be made only with the approval of the Secretary of Housing and Urban Development".
 
-<b>1984</b>—Pub. L. 98–440 inserted “by the Association and all issuances of stock, and debt obligations convertible into stock, by the corporation”.
+<b>1984</b>—Pub. L. 98–440 inserted "by the Association and all issuances of stock, and debt obligations convertible into stock, by the corporation".
 
-<b>1968</b>—Pub. L. 90–448 substituted “either of the bodies corporate named in section 1717(a)(2) of this title” for “the Association,” and inserted provisions directing that all stock, obligations, securities, participations, or other instruments issued pursuant to this subchapter be deemed to be exempt securities, and requiring approval of the Secretary for all issuances.
+<b>1968</b>—Pub. L. 90–448 substituted "either of the bodies corporate named in section 1717(a)(2) of this title" for "the Association," and inserted provisions directing that all stock, obligations, securities, participations, or other instruments issued pursuant to this subchapter be deemed to be exempt securities, and requiring approval of the Secretary for all issuances.
 
-<b>1964</b>—Pub. L. 88–560 inserted “, participations, or other instruments” after “obligations”.
+<b>1964</b>—Pub. L. 88–560 inserted ", participations, or other instruments" after "obligations".
 
 #### Effective Date of 1968 Amendment
 

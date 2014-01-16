@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section and section 31306a, “controlled substance” means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) specified by the Secretary of Transportation.
+Definition.—In this section and section 31306a, "controlled substance" means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) specified by the Secretary of Transportation.
 
 (b)
 
@@ -36,7 +36,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 &emsp;(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual's confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days after being advised of the results of the first confirmation test;
 
-&emsp;(6) ensure appropriate safeguards for testing to detect and quantify alcohol in breath and body fluid samples, including urine and blood, through the development of regulations that may be necessary and in consultation with the Secretary of Health and Human Services;
+&emsp;(6) ensure appropriate safeguards for testing to detect and quantify alcohol in breath andbody fluid samples, including urine and blood, through the development of regulations that may be necessary and in consultation with the Secretary of Health and Human Services;
 
 &emsp;(7) provide for the confidentiality of test results and medical information (except information about alcohol or a controlled substance) of employees, except that this clause does not prevent the use of test results for the orderly imposition of appropriate sanctions under this section; and
 
@@ -132,27 +132,27 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, §12020; added Oct. 28, 1
 
 49 App.:2717(f)(1).
 
-In subsection (b)(2)(B), the words “may require” are substituted for “as determined by the Secretary” for clarity and to eliminate unnecessary words.
+In subsection (b)(2)(B), the words "may require" are substituted for "as determined by the Secretary" for clarity and to eliminate unnecessary words.
 
-In subsection (c)(2), before subclause (A), the word “subsequent” is omitted as surplus.
+In subsection (c)(2), before subclause (A), the word "subsequent" is omitted as surplus.
 
-In subsection (c)(3), the words “of any individual” are omitted as surplus.
+In subsection (c)(3), the words "of any individual" are omitted as surplus.
 
-In subsection (c)(4), the words “by any individual” are omitted as surplus.
+In subsection (c)(4), the words "by any individual" are omitted as surplus.
 
-In subsection (c)(5), the word “tested” is substituted for “assayed” for consistency. The words “2d confirmation test” are substituted for “independent test” for clarity and consistency.
+In subsection (c)(5), the word "tested" is substituted for "assayed" for consistency. The words "2d confirmation test" are substituted for "independent test" for clarity and consistency.
 
-In subsection (c)(6), the word “Secretary” is substituted for “Department” for consistency in the revised title and with other titles of the Code.
+In subsection (c)(6), the word "Secretary" is substituted for "Department" for consistency in the revised title and with other titles of the Code.
 
-In subsection (d), the words “The Secretary of Transportation may provide” are substituted for “Nothing in subsection (a) of this section shall preclude the Secretary from providing” for clarity and to eliminate unnecessary words.
+In subsection (d), the words "The Secretary of Transportation may provide" are substituted for "Nothing in subsection (a) of this section shall preclude the Secretary from providing" for clarity and to eliminate unnecessary words.
 
-In subsection (g), the words “rule” and “ordinance” are omitted as being included in “law, regulation, standard, or order”. The words “whether the provisions apply specifically to commercial motor vehicle employees, or to the general public” are omitted as surplus.
+In subsection (g), the words "rule" and "ordinance" are omitted as being included in "law, regulation, standard, or order". The words "whether the provisions apply specifically to commercial motor vehicle employees, or to the general public" are omitted as surplus.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141 inserted “and section 31306a” after “this section”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141 inserted "and section 31306a" after "this section".
 
-<b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: “In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.”
+<b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: "In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a United States Government regulation."
 
 #### Effective Date of 2012 Amendment
 
@@ -162,41 +162,41 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 Pub. L. 106–159, title II, §226, Dec. 9, 1999, 113 Stat. 1771, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary shall conduct a study of the feasibility and merits of—
 
-&emsp;“(1) requiring medical review officers or employers to report all verified positive controlled substances test results on any driver subject to controlled substances testing under part 382 of title 49, Code of Federal Regulations, including the identity of each person tested and each controlled substance found, to the State that issued the driver's commercial driver's license; and
+&emsp;"(1) requiring medical review officers or employers to report all verified positive controlled substances test results on any driver subject to controlled substances testing under part 382 of title 49, Code of Federal Regulations, including the identity of each person tested and each controlled substance found, to the State that issued the driver's commercial driver's license; and
 
-&emsp;“(2) requiring all prospective employers, before hiring any driver, to query the State that issued the driver's commercial driver's license on whether the State has on record any verified positive controlled substances test on such driver.
+&emsp;"(2) requiring all prospective employers, before hiring any driver, to query the State that issued the driver's commercial driver's license on whether the State has on record any verified positive controlled substances test on such driver.
 
-“(b)
+"(b)
 
 Study Factors.—In carrying out the study under this section, the Secretary shall assess—
 
-&emsp;“(1) methods for safeguarding the confidentiality of verified positive controlled substances test results;
+&emsp;"(1) methods for safeguarding the confidentiality of verified positive controlled substances test results;
 
-&emsp;“(2) the costs, benefits, and safety impacts of requiring States to maintain records of verified positive controlled substances test results; and
+&emsp;"(2) the costs, benefits, and safety impacts of requiring States to maintain records of verified positive controlled substances test results; and
 
-&emsp;“(3) whether a process should be established to allow drivers—
+&emsp;"(3) whether a process should be established to allow drivers—
 
-&emsp;&emsp;“(A) to correct errors in their records; and
+&emsp;&emsp;"(A) to correct errors in their records; and
 
-&emsp;&emsp;“(B) to expunge information from their records after a reasonable period of time.
+&emsp;&emsp;"(B) to expunge information from their records after a reasonable period of time.
 
-“(c)
+"(c)
 
-Report.—Not later than 2 years after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall submit to Congress a report on the study carried out under this section, together with such recommendations as the Secretary determines appropriate.”
+Report.—Not later than 2 years after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall submit to Congress a report on the study carried out under this section, together with such recommendations as the Secretary determines appropriate."
 
 #### Post-Accident Alcohol Testing
 
 Pub. L. 105–178, title IV, §4020, June 9, 1998, 112 Stat. 414, provided that:
 
-“(a)
+"(a)
 
 Study.—The Secretary \[of Transportation\] shall conduct a study of the feasibility of utilizing law enforcement officers for conducting post-accident alcohol testing of commercial motor vehicle operators under section 31306 of title 49, United States Code, as a method of obtaining more timely information. The study shall also assess the impact of the current post-accident alcohol testing requirements on motor carrier employers, including any burden that employers may encounter in meeting the testing requirements of such section 31306.
 
-“(b)
+"(b)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the study, together with such recommendations as the Secretary determines appropriate.”
+Report.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the study, together with such recommendations as the Secretary determines appropriate."
 

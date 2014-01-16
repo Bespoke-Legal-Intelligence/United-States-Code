@@ -24,11 +24,11 @@ Historical and Revision Notes
 
 Feb. 19, 1948, ch. 65, §10 (less 1st sentence), 62 Stat. 25.
 
-In subsection (a), the words “an agency named in section 2303 of this title” are substituted for the words “any such agency”.
+In subsection (a), the words "an agency named in section 2303 of this title" are substituted for the words "any such agency".
 
-In subsection (b), the words “an allotment under subsection (a)” are substituted for the words “such allotments”.
+In subsection (b), the words "an allotment under subsection (a)" are substituted for the words "such allotments".
 
 #### Amendments
 
-<b>1982</b>—Subsec. (b). Pub. L. 97–258 substituted “disbursing official” for “disbursing officer”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–258 substituted "disbursing official" for "disbursing officer".
 

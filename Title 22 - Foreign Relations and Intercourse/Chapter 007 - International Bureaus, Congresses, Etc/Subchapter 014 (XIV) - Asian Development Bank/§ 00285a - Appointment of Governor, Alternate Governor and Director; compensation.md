@@ -20,9 +20,9 @@ The Foreign Service Act of 1980, referred to in subsec. (b), is Pub. L. 96–465
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–166 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President, by and with the advice and consent of the Senate, shall appoint a Governor of the Bank, an alternate for the Governor, and a Director of the Bank.”
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The President, by and with the advice and consent of the Senate, shall appoint a Governor of the Bank, an alternate for the Governor, and a Director of the Bank."
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–465 substituted “a chief of mission under the Foreign Service Act of 1980” for “a Chief of Mission, class 2, within the meaning of the Foreign Service Act of 1946, as amended”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–465 substituted "a chief of mission under the Foreign Service Act of 1980" for "a Chief of Mission, class 2, within the meaning of the Foreign Service Act of 1946, as amended".
 
 #### Effective Date of 2012 Amendment
 

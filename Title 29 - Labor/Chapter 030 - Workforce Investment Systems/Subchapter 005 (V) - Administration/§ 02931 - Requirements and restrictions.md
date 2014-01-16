@@ -30,7 +30,7 @@
 
 #### (A) Prohibition
 
-&emsp;&emsp;A participant in a program or activity authorized under this chapter (referred to in this section as a “specified activity”) shall not displace (including a partial displacement, such as a reduction in the hours of nonovertime work, wages, or employment benefits) any currently employed employee (as of the date of the participation).
+&emsp;&emsp;A participant in a program or activity authorized under this chapter (referred to in this section as a "specified activity") shall not displace (including a partial displacement, such as a reduction in the hours of nonovertime work, wages, or employment benefits) any currently employed employee (as of the date of the participation).
 
 #### (B) Prohibition on impairment of contracts
 
@@ -48,7 +48,7 @@
 
 #### (4) Health and safety
 
-&emsp;Health and safety standards established under Federal and State law otherwise applicable to working conditions of employees shallbe equally applicable to working conditions of participants engaged in specified activities. To the extent that a State workers’ compensation law applies, workers’ compensation shall be provided to participants on the same basis as the compensation is provided to other individuals in the State in similar employment.
+&emsp;Health and safety standards established under Federal and State law otherwise applicable to working conditions of employees shall be equally applicable to working conditions of participants engaged in specified activities. To the extent that a State workers' compensation law applies, workers' compensation shall be provided to participants on the same basis as the compensation is provided to other individuals in the State in similar employment.
 
 #### (5) Employment conditions
 
@@ -66,7 +66,7 @@
 
 #### (1) In general
 
-&emsp;Each State and local area receiving an allotment under this chapter shall establish and maintain a procedure for grievances or complaints alleging violations of the requirements of this chapter from participants and other interested or affected parties. Such procedure shall include an opportunity for a hearing and be completed within 60 days after the filing of the grievance or complaint.
+&emsp;Each State and local area receiving an allotment under this chapter shall establish andmaintain a procedure for grievances or complaints alleging violations of the requirements of this chapter from participants and other interested or affected parties. Such procedure shall include an opportunity for a hearing and be completed within 60 days after the filing of the grievance or complaint.
 
 #### (2) Investigation
 
@@ -152,7 +152,7 @@ No funds available under this chapter shall be used for employment generating ac
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 Section 206(a)(3) of this title, referred to in subsec. (a)(1)(B)(i), was repealed and section 206(a)(4) of this title was redesignated section 206(a)(3) by Pub. L. 110–28, title VIII, §8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 

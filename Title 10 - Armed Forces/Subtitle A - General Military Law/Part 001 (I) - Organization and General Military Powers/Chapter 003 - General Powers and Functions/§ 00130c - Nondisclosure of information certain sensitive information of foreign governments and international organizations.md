@@ -62,7 +62,7 @@ Regulations.—(1) The national security officials referred to in subsection (h)
 
 Definitions.—In this section:
 
-&emsp;(1) The term “national security official concerned” means the following:
+&emsp;(1) The term "national security official concerned" means the following:
 
 &emsp;&emsp;(A) The Secretary of Defense, with respect to information of concern to the Department of Defense, as determined by the Secretary.
 
@@ -70,9 +70,9 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) The Secretary of Energy, with respect to information concerning the national security programs of the Department of Energy, as determined by the Secretary.
 
-&emsp;(2) The term “agency” has the meaning given that term in section 552(f) of title 5.
+&emsp;(2) The term "agency" has the meaning given that term in section 552(f) of title 5.
 
-&emsp;(3) The term “international organization” means the following:
+&emsp;(3) The term "international organization" means the following:
 
 &emsp;&emsp;(A) A public international organization designated pursuant to section 1 of the International Organizations Immunities Act (59 Stat. 669; 22 U.S.C. 288) as being entitled to enjoy the privileges, exemptions, and immunities provided in such Act.
 
@@ -88,11 +88,11 @@ The International Organizations Immunities Act, referred to in subsec. (h)(3)(A)
 
 #### Amendments
 
-<b>2002</b>—Subsec. (h)(1)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (h)(1)(B). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>2001</b>—Subsec. (b)(3)(C). Pub. L. 107–107, §1048(a)(3), substituted “subsection (g)” for “subsection (f)”.
+<b>2001</b>—Subsec. (b)(3)(C). Pub. L. 107–107, §1048(a)(3), substituted "subsection (g)" for "subsection (f)".
 
-Subsec. (d)(1). Pub. L. 107–107, §1048(c)(1), substituted “October 30, 2000,” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
+Subsec. (d)(1). Pub. L. 107–107, §1048(c)(1), substituted "October 30, 2000," for "the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001".
 
 #### Effective Date of 2002 Amendment
 

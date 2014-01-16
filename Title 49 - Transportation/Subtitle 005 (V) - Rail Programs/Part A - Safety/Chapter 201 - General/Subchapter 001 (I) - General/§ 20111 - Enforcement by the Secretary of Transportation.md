@@ -78,15 +78,15 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §209(f); added June 22, 1988, Pu
 
 Sept. 3, 1992, Pub. L. 102–365, §3, 106 Stat. 972.
 
-In this section, the word “impose” is substituted for “assess” for consistency.
+In this section, the word "impose" is substituted for "assess" for consistency.
 
-In subsection (b), the word “further” is omitted as surplus.
+In subsection (b), the word "further" is omitted as surplus.
 
-In subsection (d), the words “this part, chapter 51 or 57 of this title” are substituted for “the Federal railroad safety laws, as such term is defined in section 441(e) of this title” because 45:441(e) is not restated as a definition.
+In subsection (d), the words "this part, chapter 51 or 57 of this title" are substituted for "the Federal railroad safety laws, as such term is defined in section 441(e) of this title" because 45:441(e) is not restated as a definition.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–432 amended subsec. (c) generally. Prior to amendment, text read as follows: “If an individual's violation of this chapter or any of the laws transferred to the jurisdiction of the Secretary of Transportation by subsection (e)(1), (2), and (6)(A) of section 6 of the Department of Transportation Act, as in effect on June 1, 1994, or a regulation prescribed or order issued by the Secretary under this chapter is shown to make that individual unfit for the performance of safety-sensitive functions, the Secretary, after notice and opportunity for a hearing, may issue an order prohibiting the individual from performing safety-sensitive functions in the railroad industry for a specified period of time or until specified conditions are met. This subsection does not affect the Secretary's authority under section 20104 of this title to act on an emergency basis.”
+<b>2008</b>—Subsec. (c). Pub. L. 110–432 amended subsec. (c) generally. Prior to amendment, text read as follows: "If an individual's violation of this chapter or any of the laws transferred to the jurisdiction of the Secretary of Transportation by subsection (e)(1), (2), and (6)(A) of section 6 of the Department of Transportation Act, as in effect on June 1, 1994, or a regulation prescribed or order issued by the Secretary under this chapter is shown to make that individual unfit for the performance of safety-sensitive functions, the Secretary, after notice and opportunity for a hearing, may issue an order prohibiting the individual from performing safety-sensitive functions in the railroad industry for a specified period of time or until specified conditions are met. This subsection does not affect the Secretary's authority under section 20104 of this title to act on an emergency basis."
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–440 inserted “this chapter or any of the laws transferred to the jurisdiction of the Secretary of Transportation by subsection (e)(1), (2), and (6)(A) of section 6 of the Department of Transportation Act, as in effect on June 1, 1994, or” after “individual's violation of”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–440 inserted "this chapter or any of the laws transferred to the jurisdiction of the Secretary of Transportation by subsection (e)(1), (2), and (6)(A) of section 6 of the Department of Transportation Act, as in effect on June 1, 1994, or" after "individual's violation of".
 

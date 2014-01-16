@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–106, div. A, title X, §1081(i)(2), Feb. 10, 1996, 110 Stat. 455, substituted “program” for “partnerships” in item 2511 and struck out items 2512 “Commercial-military integration partnerships”, 2513 “Regional technology alliances assistance program”, 2516 “Military-Civilian Integration and Technology Transfer Advisory Board”, and 2520 “Navy Reinvestment Program”.
+<b>1996</b>—Pub. L. 104–106, div. A, title X, §1081(i)(2), Feb. 10, 1996, 110 Stat. 455, substituted "program" for "partnerships" in item 2511 and struck out items 2512 "Commercial-military integration partnerships", 2513 "Regional technology alliances assistance program", 2516 "Military-Civilian Integration and Technology Transfer Advisory Board", and 2520 "Navy Reinvestment Program".
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XI, §1113(c), Oct. 5, 1994, 108 Stat. 2866, added items 2519 and 2520.
 

@@ -82,13 +82,13 @@
 
 #### (d) Emergency declaration defined
 
-For purposes of this section, the term “emergency declaration” means a declaration of a public health emergency under section 9604(a) of this title.
+For purposes of this section, the term "emergency declaration" means a declaration of a public health emergency under section 9604(a) of this title.
 
 #### (e) Environmental exposure affected individual defined
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “environmental exposure affected individual” means—
+&emsp;For purposes of this section, the term "environmental exposure affected individual" means—
 
 &emsp;&emsp;(A) an individual described in paragraph (2); and
 
@@ -102,7 +102,7 @@ For purposes of this section, the term “emergency declaration” means a decla
 
 &emsp;&emsp;&emsp;(i) is diagnosed with 1 or more conditions described in subparagraph (B);
 
-&emsp;&emsp;&emsp;(ii) as demonstrated in such manner as the Secretary determines appropriate, has been present for an aggregate total of 6 months in the geographic area subject toan emergency declaration specified in subsection (b)(2)(A), during a period ending—
+&emsp;&emsp;&emsp;(ii) as demonstrated in such manner as the Secretary determines appropriate, has been present for an aggregate total of 6 months in the geographic area subject to an emergency declaration specified in subsection (b)(2)(A), during a period ending—
 
 &emsp;&emsp;&emsp;&emsp;(I) not less than 10 years prior to such diagnosis; and
 
@@ -118,7 +118,7 @@ For purposes of this section, the term “emergency declaration” means a decla
 
 &emsp;&emsp;&emsp;(i) Asbestosis, pleural thickening, or pleural plaques as established by—
 
-&emsp;&emsp;&emsp;&emsp;(I) interpretation by a “B Reader” qualified physician of a plain chest x-ray or interpretation of a computed tomographic radiograph of the chest by a qualified physician, as determined by the Secretary; or
+&emsp;&emsp;&emsp;&emsp;(I) interpretation by a "B Reader" qualified physician of a plain chest x-ray or interpretation of a computed tomographic radiograph of the chest by a qualified physician, as determined by the Secretary; or
 
 &emsp;&emsp;&emsp;&emsp;(II) such other diagnostic standards as the Secretary specifies,
 

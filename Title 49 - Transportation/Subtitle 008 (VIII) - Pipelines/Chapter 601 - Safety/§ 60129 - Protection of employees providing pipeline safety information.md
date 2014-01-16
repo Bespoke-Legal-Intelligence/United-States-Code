@@ -22,7 +22,7 @@ In general.—No employer may discharge any employee or otherwise discriminate a
 
 &emsp;(2)
 
-Employer defined.—In this section, the term “employer” means—
+Employer defined.—In this section, the term "employer" means—
 
 &emsp;&emsp;(A) a person owning or operating a pipeline facility; or
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 July 14, 1964, Pub. L. 88–372, §5(b), 78 Stat. 316.
 
-The words “at all times” and “authorized” are omitted as unnecessary.
+The words "at all times" and "authorized" are omitted as unnecessary.
 

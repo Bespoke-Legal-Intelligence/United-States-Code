@@ -56,7 +56,7 @@
 
 (b)(1) The Board shall establish—
 
-&emsp;(A) a Government Securities Investment Fund under which sums in the Thrift Savings Fund are invested in securities of the United States Government issued as provided in subsection (e);
+&emsp;(A) a Government Securities Investment Fund under which sums in the Thrift SavingsFund are invested in securities of the United States Government issued as provided in subsection (e);
 
 &emsp;(B) a Fixed Income Investment Fund under which sums in the Thrift Savings Fund are invested in—
 
@@ -136,7 +136,7 @@
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (e) of this section, the Secretary shall immediately notify Congress and the Executive Director of the determination. The notification shall be made in writing.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 551; amended Pub. L. 100–43, §2, May 22, 1987, 101 Stat. 315; Pub. L. 100–366, §2(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §3(a), July 17, 1990, 104 Stat. 320; Pub. L. 102–378, §2(68), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §102\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L.104–316, title I, §103(i), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 111–31, div. B, title I, §104, June 22, 2009, 123 Stat. 1854.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 551; amended Pub. L. 100–43, §2, May 22, 1987, 101 Stat. 315; Pub. L. 100–366, §2(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §3(a), July 17, 1990, 104 Stat. 320; Pub. L. 102–378, §2(68), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §102\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–316, title I, §103(i), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 111–31, div. B, title I, §104, June 22, 2009, 123 Stat. 1854.)
 
 #### Amendments
 

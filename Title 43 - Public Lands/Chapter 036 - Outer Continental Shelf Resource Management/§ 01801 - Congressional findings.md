@@ -14,7 +14,7 @@ The Congress finds and declares that—
 
 &emsp;(6) technology is or can be made available which will allow significantly increased domestic production of oil and gas without undue harm or damage to the environment;
 
-&emsp;(7) the Outer Continental Shelf contains significant quantities of oil and natural gas and is a vital national resource reserve which must be carefully managed so as to realize fair value, to preserve and maintain competition, and to reflect the public interest;
+&emsp;(7) the Outer Continental Shelf contains significant quantities of oil and natural gas and is a vital national resource reserve which must be carefully managed so as to realize fairvalue, to preserve and maintain competition, and to reflect the public interest;
 
 &emsp;(8) there presently exists a variety of technological, economic, environmental, administrative, and legal problems which tend to retard the development of the oil and natural gas reserves of the Outer Continental Shelf;
 
@@ -36,9 +36,9 @@ The Congress finds and declares that—
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–610, title I, §1, Nov. 5, 1988, 102 Stat. 3176, provided that: “This Act \[probably should be ‘This title’, which amended section 1815 of this title\] may be cited as the ‘Outer Continental Shelf Operations Indemnification Clarification Act of 1988’.”
+Pub. L. 100–610, title I, §1, Nov. 5, 1988, 102 Stat. 3176, provided that: "This Act \[probably should be 'This title', which amended section 1815 of this title\] may be cited as the 'Outer Continental Shelf Operations Indemnification Clarification Act of 1988'."
 
 #### Short Title
 
-Pub. L. 95–372, §1, Sept. 18, 1978, 92 Stat. 629, provided: “That this Act \[enacting this chapter, sections 1344 to 1356 of this title, and section 237 of Title 30, Mineral Lands and Mining, amending sections 1331 to 1334, 1337, 1340, and 1343 of this title, sections 1456, 1456a, and 1464 of Title 16, Conservation, and section 6213 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 1348 and 1811 of this title\] may be cited as the ‘Outer Continental Shelf Lands Act Amendments of 1978’.”
+Pub. L. 95–372, §1, Sept. 18, 1978, 92 Stat. 629, provided: "That this Act \[enacting this chapter, sections 1344 to 1356 of this title, and section 237 of Title 30, Mineral Lands and Mining, amending sections 1331 to 1334, 1337, 1340, and 1343 of this title, sections 1456, 1456a, and 1464 of Title 16, Conservation, and section 6213 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 1348 and 1811 of this title\] may be cited as the 'Outer Continental Shelf Lands Act Amendments of 1978'."
 

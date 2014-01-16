@@ -10,11 +10,11 @@ Whoever, lawfully or unlawfully, having possession of, access to, control over, 
 
 #### Amendments
 
-<b>2000</b>—Cl. (b). Pub. L. 106–398 substituted “$50,000” for “$500,000”.
+<b>2000</b>—Cl. (b). Pub. L. 106–398 substituted "$50,000" for "$500,000".
 
-<b>1999</b>—Cl. (a). Pub. L. 106–65, §3148(a)(1), substituted “$100,000” for “$20,000”.
+<b>1999</b>—Cl. (a). Pub. L. 106–65, §3148(a)(1), substituted "$100,000" for "$20,000".
 
-Cl. (b). Pub. L. 106–65, §3148(a)(2), substituted “$500,000” for “$10,000”.
+Cl. (b). Pub. L. 106–65, §3148(a)(2), substituted "$500,000" for "$10,000".
 
 <b>1969</b>—Pub. L. 91–161 made death penalty inapplicable for willful violation, or attempted violation of this section with intent to injure the United States, or secure an advantage for any foreign nation.
 

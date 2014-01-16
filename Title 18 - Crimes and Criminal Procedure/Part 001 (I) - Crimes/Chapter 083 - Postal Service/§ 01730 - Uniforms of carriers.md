@@ -14,11 +14,11 @@ Minor verbal change was made.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100” in first par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $100" in first par.
 
-<b>1990</b>—Pub. L. 101–647 struck out “, if the portrayal does not tend to discredit that service” before period at end of second par.
+<b>1990</b>—Pub. L. 101–647 struck out ", if the portrayal does not tend to discredit that service" before period at end of second par.
 
-<b>1970</b>—Pub. L. 91–375 substituted “Postal Service” for “Postmaster General” before “to be worn” in first par.
+<b>1970</b>—Pub. L. 91–375 substituted "Postal Service" for "Postmaster General" before "to be worn" in first par.
 
 <b>1968</b>—Pub. L. 90–413 inserted provision exempting an actor or actress in a theatrical, television, or motion-picture production who wears the uniform or badge of the letter-carrier branch of the Postal Service from the penalties imposed by this section.
 

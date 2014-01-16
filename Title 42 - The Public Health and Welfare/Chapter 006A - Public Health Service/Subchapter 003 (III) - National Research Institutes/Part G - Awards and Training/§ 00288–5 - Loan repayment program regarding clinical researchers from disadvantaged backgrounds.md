@@ -18,13 +18,13 @@
 
 Amounts appropriated for a fiscal year for contracts under subsection (a) of this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were appropriated.
 
-(July 1, 1944, ch. 373, title IV, §487E, as added Pub. L. 103–43, title XVI, §1631, June 10, 1993, 107Stat. 185; amended Pub. L. 105–392, title IV, §410(d), Nov. 13, 1998, 112 Stat. 3589; Pub. L. 106–554, §1(a)(1) \[title II, §223\], Dec. 21, 2000, 114 Stat. 2763, 2763A–30.)
+(July 1, 1944, ch. 373, title IV, §487E, as added Pub. L. 103–43, title XVI, §1631, June 10, 1993, 107 Stat. 185; amended Pub. L. 105–392, title IV, §410(d), Nov. 13, 1998, 112 Stat. 3589; Pub. L. 106–554, §1(a)(1) \[title II, §223\], Dec. 21, 2000, 114 Stat. 2763, 2763A–30.)
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–554 struck out “as employees of the National Institutes of Health” after “conduct clinical research”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–554 struck out "as employees of the National Institutes of Health" after "conduct clinical research".
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–392, §410(d)(1), substituted “$35,000” for “$20,000”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–392, §410(d)(1), substituted "$35,000" for "$20,000".
 
-Subsec. (a)(3). Pub. L. 105–392, §410(d)(2), substituted “254l–1, 254m” for “254m”.
+Subsec. (a)(3). Pub. L. 105–392, §410(d)(2), substituted "254l–1, 254m" for "254m".
 

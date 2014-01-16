@@ -12,7 +12,7 @@ General Rules.—The Secretary and the Board have jurisdiction over transportati
 
 &emsp;&emsp;(B) by water carrier that is from a place in the United States to another place in the United States; and
 
-&emsp;(3) by water carrier or by water carrier and motor carrier between a place in the United States and a place outside the United States, to the extent that—
+&emsp;(3) by water carrier or by water carrier and motor carrier between a place in the UnitedStates and a place outside the United States, to the extent that—
 
 &emsp;&emsp;(A) when the transportation is by motor carrier, the transportation is provided in the United States;
 
@@ -22,7 +22,7 @@ General Rules.—The Secretary and the Board have jurisdiction over transportati
 
 (b)
 
-Definitions.—In this section, the terms “State” and “United States” include the territories and possessions of the United States.
+Definitions.—In this section, the terms "State" and "United States" include the territories and possessions of the United States.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 865.)
 

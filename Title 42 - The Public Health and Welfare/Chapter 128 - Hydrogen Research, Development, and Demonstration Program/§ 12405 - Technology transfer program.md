@@ -26,5 +26,5 @@ The Secretary, in carrying out the program authorized by subsection (a) of this 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–271 inserted at end “The Secretary shall also foster the exchange of generic, nonproprietary information and technology, developed pursuant to this chapter, among industry, academia, and the Federal Government, to help the United States economy attain the economic benefits of this information and technology.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–271 inserted at end "The Secretary shall also foster the exchange of generic, nonproprietary information and technology, developed pursuant to this chapter, among industry, academia, and the Federal Government, to help the United States economy attain the economic benefits of this information and technology."
 

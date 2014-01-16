@@ -6,7 +6,7 @@ In General.—This section applies to proceeds from the sale, lease, or other di
 
 (b)
 
-Foreign Currencies or Credits.—Proceeds in the form of foreign currencies or credits, must be administered in accordance with procedures that the Secretary of the Treasury may establish.
+Foreign Currencies or Credits.—Proceeds in the form of foreign currencies or credits,must be administered in accordance with procedures that the Secretary of the Treasury may establish.
 
 (c)
 
@@ -54,5 +54,5 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title IV, §403, 63 Stat. 398.
 
-In subsection (d)(1), the words “in the Treasury” are substituted for “with the Treasurer of the United States” because of section 1 of Reorganization Plan No. 26 of 1950 (eff. July 31, 1950, 64 Stat. 1280), restated as section 321 of title 31.
+In subsection (d)(1), the words "in the Treasury" are substituted for "with the Treasurer of the United States" because of section 1 of Reorganization Plan No. 26 of 1950 (eff. July 31, 1950, 64 Stat. 1280), restated as section 321 of title 31.
 

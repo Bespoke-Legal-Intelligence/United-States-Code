@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration of hazardous conditions
 
-The Congress declares that voids, and open and abandoned tunnels, shafts, and entryways resulting from any previous mining operation, constitute a hazard to the public health or safety and that surface impacts of any underground or surface mining operation may degrade the environment. The Secretary, at the request of the Governor of any State, or the the <sup>1</sup> governing body of an Indian tribe, is authorized to fill suchvoids, seal such abandoned tunnels, shafts, and entryways, and reclaim surface impacts of underground or surface mines which the Secretary determines could endanger life and property, constitute a hazard to the public health and safety, or degrade the environment. State regulatory authorities are authorized to carry out such work pursuant to an approved abandoned mine reclamation program.
+The Congress declares that voids, and open and abandoned tunnels, shafts, and entryways resulting from any previous mining operation, constitute a hazard to the public health or safety and that surface impacts of any underground or surface mining operation may degrade the environment. The Secretary, at the request of the Governor of any State, or the the <sup>1</sup> governing body of an Indian tribe, is authorized to fill such voids, seal such abandoned tunnels, shafts, and entryways, and reclaim surface impacts of underground or surface mines which the Secretary determines could endanger life and property, constitute a hazard to the public health and safety, or degrade the environment. State regulatory authorities are authorized to carry out such work pursuant to an approved abandoned mine reclamation program.
 
 #### (b) Limitation on funds
 
@@ -28,11 +28,11 @@ The Secretary may acquire by purchase, donation, easement, or otherwise such int
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §6009(1), substituted “the governing body of an Indian tribe” for “chairman of any tribe”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §6009(1), substituted "the governing body of an Indian tribe" for "chairman of any tribe".
 
-Subsec. (b). Pub. L. 101–508, §6009(2), substituted “Indian tribes under the provisions of paragraphs (1) and (5) of section 1232(g) of this title” for “Indian reservations under the provisions of subsection 1232(g) of this title”.
+Subsec. (b). Pub. L. 101–508, §6009(2), substituted "Indian tribes under the provisions of paragraphs (1) and (5) of section 1232(g) of this title" for "Indian reservations under the provisions of subsection 1232(g) of this title".
 
-Subsec. (c). Pub. L. 101–508, §6009(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may make expenditures and carry out the purposes of this section without regard to provisions of section 1234 of this title in such States or Indian reservations where requests are made by the Governor or tribal chairman and only after all reclamation with respect to abandoned coal lands or coal development impacts have been met, except for those reclamation projects relating to the protection of the public health or safety.”
+Subsec. (c). Pub. L. 101–508, §6009(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Secretary may make expenditures and carry out the purposes of this section without regard to provisions of section 1234 of this title in such States or Indian reservations where requests are made by the Governor or tribal chairman and only after all reclamation with respect to abandoned coal lands or coal development impacts have been met, except for those reclamation projects relating to the protection of the public health or safety."
 
 #### Effective Date of 1990 Amendment
 

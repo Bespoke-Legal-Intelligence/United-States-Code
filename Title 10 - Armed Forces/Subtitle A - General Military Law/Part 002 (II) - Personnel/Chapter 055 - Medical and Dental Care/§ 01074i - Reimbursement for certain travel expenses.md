@@ -2,11 +2,11 @@
 
 (a)
 
-In General.—In any case in which a covered beneficiary is referred by a primary care physician to a specialty care provider who provides services more than 100 miles from the location in which the primary care provider provides services to the covered beneficiary, the Secretary of Defense shall provide reimbursement for reasonable travel expenses for the covered beneficiary and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary's family who is at least 21 years of age.
+In General.—In any case in which a covered beneficiary is referred by a primary care physician to a specialty care provider who provides services more than 100 miles from the location in which the primary care provider provides services to the covered beneficiary, the Secretary of Defense shall provide travel and transportation allowances as specified in regulations prescribed under section 464 of title 37 for the covered beneficiary and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary's family who is at least 21 years of age.
 
 (b)
 
-Reimbursement for Travel Under Exceptional Circumstances.—The Secretary of Defense may provide reimbursement for reasonable travel expenses of travel of members of the armed forces on active duty and their dependents, and accompaniment, to a specialty care provider not otherwise authorized by subsection (a) under such exceptional circumstances as the Secretary considers appropriate for purposes of this section.
+Allowable Travel and Transportation Under Exceptional Circumstances.—The Secretary of Defense may provide travel and transportation allowances as specified in the regulations referred to in subsection (a) for travel of members of the armed forces on active duty and their dependents, and accompaniment, to a specialty care provider not otherwise authorized by subsection (a) under such exceptional circumstances as the Secretary considers appropriate for purposes of this section.
 
 (c)
 
@@ -20,17 +20,25 @@ Outreach Program and Travel Reimbursement for Follow-on Specialty Care and Relat
 
 Definitions.—In this section:
 
-&emsp;(1) The term “specialty care provider” includes a dental specialist.
+&emsp;(1) The term "specialty care provider" includes a dental specialist.
 
-&emsp;(2) The term “dental specialist” means an oral surgeon, orthodontist, prosthodontist, periodontist, endodontist, or pediatric dentist, and includes such other providers of dental care and services as determined appropriate by the Secretary of Defense.
+&emsp;(2) The term "dental specialist" means an oral surgeon, orthodontist, prosthodontist, periodontist, endodontist, or pediatric dentist, and includes such other providers of dental care and services as determined appropriate by the Secretary of Defense.
 
-&emsp;(3) The term “combat-related disability” has the meaning given that term in section 1413a of this title.
+&emsp;(3) The term "combat-related disability" has the meaning given that term in section 1413a of this title.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §758(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–199; amended Pub. L. 107–107, div. A, title VII, §706, Dec. 28, 2001, 115 Stat. 1163; Pub. L. 108–136, div. A, title VII, §712, Nov. 24, 2003, 117 Stat. 1530; Pub. L. 110–181, div. A, title XVI, §1632(a), (b), Jan. 28, 2008, 122 Stat. 458, 459; Pub. L. 111–84, div. A, title VI, §634, Oct. 28, 2009, 123 Stat. 2363.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §758(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–199; amended Pub. L. 107–107, div. A, title VII, §706, Dec. 28, 2001, 115 Stat. 1163; Pub. L. 108–136, div. A, title VII, §712, Nov. 24, 2003, 117 Stat. 1530; Pub. L. 110–181, div. A, title XVI, §1632(a), (b), Jan. 28, 2008, 122 Stat. 458, 459; Pub. L. 111–84, div. A, title VI, §634, Oct. 28, 2009, 123 Stat. 2363; Pub. L. 113–66, div. A, title VI, §621(d), Dec. 26, 2013, 127 Stat. 784.)
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–84, §634(b), inserted “of Defense” after “the Secretary”.
+<b>2013</b>—Subsec. (a). Pub. L. 113–66, §621(d)(1), substituted "travel and transportation allowances as specified in regulations prescribed under section 464 of title 37" for "reimbursement for reasonable travel expenses".
+
+Subsec. (b). Pub. L. 113–66, §621(d)(2), substituted "
+
+Allowable Travel and Transportation Under Exceptional Circumstances.—The Secretary of Defense may provide travel and transportation allowances as specified in the regulations referred to in subsection (a) for" for "
+
+Reimbursement for Travel Under Exceptional Circumstances.—The Secretary of Defense may provide reimbursement for reasonable travel expenses of".
+
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §634(b), inserted "of Defense" after "the Secretary".
 
 Subsecs. (b) to (d). Pub. L. 111–84, §634(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
@@ -38,13 +46,13 @@ Subsecs. (b) to (d). Pub. L. 111–84, §634(a), added subsec. (b) and redesigna
 
 Subsec. (c)(3). Pub. L. 110–181, §1632(b), added par. (3).
 
-<b>2003</b>—Pub. L. 108–136 inserted “(a)
+<b>2003</b>—Pub. L. 108–136 inserted "(a)
 
-In General.—” before “In any case” and added subsec. (b).
+In General.—" before "In any case" and added subsec. (b).
 
-<b>2001</b>—Pub. L. 107–107 inserted before period at end “and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary's family who is at least 21 years of age”.
+<b>2001</b>—Pub. L. 107–107 inserted before period at end "and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary's family who is at least 21 years of age".
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title XVI, §1632(c), Jan. 28, 2008, 122 Stat. 459, provided that: “Subsection (b) of section 1074i of title 10, United States Code, as added by subsection (a)(2), shall apply with respect to travel described in subsection (a) of such section that occurs on or after January 1, 2008, for follow-on specialty care, services, or supplies.”
+Pub. L. 110–181, div. A, title XVI, §1632(c), Jan. 28, 2008, 122 Stat. 459, provided that: "Subsection (b) of section 1074i of title 10, United States Code, as added by subsection (a)(2), shall apply with respect to travel described in subsection (a) of such section that occurs on or after January 1, 2008, for follow-on specialty care, services, or supplies."
 

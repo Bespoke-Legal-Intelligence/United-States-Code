@@ -6,5 +6,5 @@ A State may apply for more than one obsolete ship under this chapter. The Secret
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–623 substituted “obsolete ships” for “Liberty ships” wherever appearing.
+<b>1984</b>—Pub. L. 98–623 substituted "obsolete ships" for "Liberty ships" wherever appearing.
 

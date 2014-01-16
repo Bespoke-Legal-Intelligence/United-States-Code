@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. §3481.
 
-The word “amount” is substituted for “whole, or so much thereof” for clarity. The word “owes” is substituted for “due on any account from the . . . to” to eliminate unnecessary words. The words “or either” and “thereon” are omitted as surplus.
+The word "amount" is substituted for "whole, or so much thereof" for clarity. The word "owes" is substituted for "due on any account from the . . . to" to eliminate unnecessary words. The words "or either" and "thereon" are omitted as surplus.
 

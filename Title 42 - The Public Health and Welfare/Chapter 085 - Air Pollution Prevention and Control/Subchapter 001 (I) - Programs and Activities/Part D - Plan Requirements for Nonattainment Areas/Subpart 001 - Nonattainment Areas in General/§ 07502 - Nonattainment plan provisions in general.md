@@ -4,7 +4,7 @@
 
 #### (1) Classifications
 
-&emsp;(A) On or after the date the Administrator promulgates the designation of an area as a nonattainment area pursuant to section 7407(d) of this title with respect to any national ambient air quality standard (or any revised standard, including a revision of any standard in effect on November 15, 1990), the Administrator may classify the area for the purpose of applying an attainment date pursuant to paragraph (2), and for other purposes. In determining the appropriate classification, if any, for a nonattainment area, the Administrator may consider such factors as the severity of nonattainment in such area and the availability and feasibility of the pollution control measures that the Administrator believes may be necessary to provide for attainment of such standard in such area.
+&emsp;(A) On or after the date the Administrator promulgates the designation of an area as anonattainment area pursuant to section 7407(d) of this title with respect to any national ambient air quality standard (or any revised standard, including a revision of any standard in effect on November 15, 1990), the Administrator may classify the area for the purpose of applying an attainment date pursuant to paragraph (2), and for other purposes. In determining the appropriate classification, if any, for a nonattainment area, the Administrator may consider such factors as the severity of nonattainment in such area and the availability and feasibility of the pollution control measures that the Administrator believes may be necessary to provide for attainment of such standard in such area.
 
 &emsp;(B) The Administrator shall publish a notice in the Federal Register announcing each classification under subparagraph (A), except the Administrator shall provide an opportunity for at least 30 days for written comment. Such classification shall not be subject to the provisions of sections 553 through 557 of title 5 (concerning notice and comment) and shall not be subject to judicial review until the Administrator takes final action under subsection (k) or (l) of section 7410 of this title (concerning action on plan submissions) or section 7509 of this title (concerning sanctions) with respect to any plan submissions required by virtue of such classification.
 
@@ -16,7 +16,7 @@
 
 &emsp;(B) The attainment date for an area designated nonattainment with respect to a secondary national ambient air quality standard shall be the date by which attainment can be achieved as expeditiously as practicable after the date such area was designated nonattainment under section 7407(d) of this title.
 
-&emsp;(C) Upon application by any State, the Administrator may extend for 1 additional year (hereinafter referred to as the “Extension Year”) the attainment date determined by the Administrator under subparagraph (A) or (B) if—
+&emsp;(C) Upon application by any State, the Administrator may extend for 1 additional year (hereinafter referred to as the "Extension Year") the attainment date determined by the Administrator under subparagraph (A) or (B) if—
 
 &emsp;&emsp;(i) the State has complied with all requirements and commitments pertaining to the area in the applicable implementation plan, and
 
@@ -48,7 +48,7 @@ The plan provisions (including plan items) required to be submitted under this p
 
 #### (4) Identification and quantification
 
-&emsp;Such plan provisions shall expressly identify and quantify the emissions, if any, of any such pollutant or pollutants which will be allowed, in accordance with section 7503(a)(1)(B) of this title, from the construction and operation of major new or modified stationary sources in each such area. The plan shall demonstrate to the satisfaction of the Administrator that the emissions quantified for this purpose will be consistent with the achievement of reasonable further progress and will not interfere with attainment of the applicable national ambient air quality standard by the applicable attainment date.
+&emsp;Such plan provisions shall expressly identify and quantify the emissions, if any, of any such pollutant or pollutants which will be allowed, in accordance with section 7503(a)(1)(B) of this title, from the construction and operation of major new or modified stationary sources in each such area. The plan shall demonstrate to the satisfaction of the Administrator that the emissions quantified for this purpose will be consistent with the achievement of reasonable further progress and will not interfere with attainment of the applicable national ambientair quality standard by the applicable attainment date.
 
 #### (5) Permits for new and modified major stationary sources
 
@@ -78,39 +78,39 @@ Any plan revision for a nonattainment area which is required to be submitted in 
 
 If the Administrator relaxes a national primary ambient air quality standard after November 15, 1990, the Administrator shall, within 12 months after the relaxation, promulgate requirements applicable to all areas which have not attained that standard as of the date of such relaxation. Such requirements shall provide for controls which are not less stringent than the controls applicable to areas designated nonattainment before such relaxation.
 
-(July 14, 1955, ch. 360, title I, §172, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 746;amended Pub. L. 95–190, §14(a)(55), (56), Nov. 16, 1977, 91 Stat. 1402; Pub. L. 101–549, title I, §102(b), Nov. 15, 1990, 104 Stat. 2412.)
+(July 14, 1955, ch. 360, title I, §172, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 746; amended Pub. L. 95–190, §14(a)(55), (56), Nov. 16, 1977, 91 Stat. 1402; Pub. L. 101–549, title I, §102(b), Nov. 15, 1990, 104 Stat. 2412.)
 
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–549 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), expeditious attainment of national ambient air quality standards; in subsec. (b), requisite provisions of plan; and in subsec. (c), attainment of applicable standard not later than July 1, 1987.
 
-<b>1977</b>—Subsec. (b)(4). Pub. L. 95–190, §14(a)(55), substituted “subsection (a) of this section” for “paragraph (1)”.
+<b>1977</b>—Subsec. (b)(4). Pub. L. 95–190, §14(a)(55), substituted "subsection (a) of this section" for "paragraph (1)".
 
-Subsec. (c). Pub. L. 95–190, §14(a)(56), substituted “December 31” for “July 1”.
+Subsec. (c). Pub. L. 95–190, §14(a)(56), substituted "December 31" for "July 1".
 
 #### Nonattainment Areas
 
 Pub. L. 95–95, title I, §129(a), Aug. 7, 1977, 91 Stat. 745, as amended by Pub. L. 95–190, §14(b)(2), (3), Nov. 16, 1977, 91 Stat. 1404, provided that:
 
-“(1) Before July 1, 1979, the interpretative regulation of the Administrator of the Environmental Protection Agency published in 41 Federal Register 55524–30, December 21, 1976, as may be modified by rule of the Administrator, shall apply except that the baseline to be used for determination of appropriate emission offsets under such regulation shall be the applicable implementation plan of the State in effect at the time of application for a permit by a proposed major stationary source (within the meaning of section 302 of the Clean Air Act) \[section 7602 of this title\].
+"(1) Before July 1, 1979, the interpretative regulation of the Administrator of the Environmental Protection Agency published in 41 Federal Register 55524–30, December 21, 1976, as may be modified by rule of the Administrator, shall apply except that the baseline to be used for determination of appropriate emission offsets under such regulation shall be the applicable implementation plan of the State in effect at the time of application for a permit by a proposed major stationary source (within the meaning of section 302 of the Clean Air Act) \[section 7602 of this title\].
 
-“(2) Before July 1, 1979, the requirements of the regulation referred to in paragraph (1) shall be waived by the Administrator with respect to any pollutant if he determines that the State has—
+"(2) Before July 1, 1979, the requirements of the regulation referred to in paragraph (1) shall be waived by the Administrator with respect to any pollutant if he determines that the State has—
 
-&emsp;“(A) an inventory of emissions of the applicable pollutant for each nonattainment area (as defined in section 171 of the Clean Air Act \[section 7501 of this title\]) that identifies the type, quantity, and source of such pollutant so as to provide information sufficient to demonstrate that the requirements of subparagraph (C) are being met;
+&emsp;"(A) an inventory of emissions of the applicable pollutant for each nonattainment area (as defined in section 171 of the Clean Air Act \[section 7501 of this title\]) that identifies the type, quantity, and source of such pollutant so as to provide information sufficient to demonstrate that the requirements of subparagraph (C) are being met;
 
-&emsp;“(B) an enforceable permit program which—
+&emsp;"(B) an enforceable permit program which—
 
-&emsp;&emsp;“(i) requires new or modified major stationary sources to meet emission limitations at least as stringent as required under the permit requirements referred to in paragraphs (2) and (3) of section 173 of the Clean Air Act \[section 7503 of this title\] (relating to lowest achievable emission rate and compliance by other sources) and which assures compliance with the annual reduction requirements of subparagraph (C); and
+&emsp;&emsp;"(i) requires new or modified major stationary sources to meet emission limitations at least as stringent as required under the permit requirements referred to in paragraphs (2) and (3) of section 173 of the Clean Air Act \[section 7503 of this title\] (relating to lowest achievable emission rate and compliance by other sources) and which assures compliance with the annual reduction requirements of subparagraph (C); and
 
-&emsp;&emsp;“(ii) requires existing sources to achieve such reduction in emissions in the area as may be obtained through the adoption, at a minimum of reasonably available control technology, and
+&emsp;&emsp;"(ii) requires existing sources to achieve such reduction in emissions in the area as may be obtained through the adoption, at a minimum of reasonably available control technology, and
 
-&emsp;“(C) a program which requires reductions in total allowable emissions in the area prior to July 1, 1979, so as to provide for the same level of emission reduction as would result from the application of the regulation referred to in paragraph (1).
+&emsp;"(C) a program which requires reductions in total allowable emissions in the area prior to July 1, 1979, so as to provide for the same level of emission reduction as would result from the application of the regulation referred to in paragraph (1).
 
 > The Administrator shall terminate such waiver if in his judgment the reduction in emissions actually being attained is less than the reduction on which the waiver was conditioned pursuant to subparagraph (C), or if the Administrator determines that the State is no longer in compliance with any requirement of this paragraph. Upon application by the State, the Administrator may reinstate a waiver terminated under the preceding sentence if he is satisfied that such State is in compliance with all requirements of this subsection.
 
-“(3) Operating permits may be issued to those applicants who were properly granted construction permits, in accordance with the law and applicable regulations in effect at the time granted, for construction of a new or modified source in areas exceeding national primary air quality standards on or before the date of the enactment of this Act \[Aug. 7, 1977\] if such construction permits were granted prior to the date of the enactment of this Act and the person issued any such permit is able to demonstrate that the emissions from the source will be within the limitations set forth in such construction permit.”
+"(3) Operating permits may be issued to those applicants who were properly granted construction permits, in accordance with the law and applicable regulations in effect at the time granted, for construction of a new or modified source in areas exceeding national primary air quality standards on or before the date of the enactment of this Act \[Aug. 7, 1977\] if such construction permits were granted prior to the date of the enactment of this Act and the person issued any such permit is able to demonstrate that the emissions from the source will be within the limitations set forth in such construction permit."
 
 #### State Implementation Plan Revision
 
-Pub. L. 95–95, title I, §129(c), Aug. 7, 1977, 91 Stat. 750, as amended by Pub. L. 95–190, §14(b)(4), Nov. 16, 1977, 91 Stat. 1405, provided that: “Notwithstanding the requirements of section 406(d)(2) \[set out as an Effective Date of 1977 Amendment note under section 7401 of this title\] (relating to date required for submission of certain implementation plan revisions), for purposes of section 110(a)(2) of the Clean Air Act \[section 7410(a)(2) of this title\] each State in which there is any nonattainment area (as defined in part D of title I of the Clean Air Act) \[this part\] shall adopt and submit an implementation plan revision which meets the requirements of section 110(a)(2)(I) \[section 7410(a)(2)(I) of this title\] and part D of title I of the Clean Air Act \[this part\] not later than January 1, 1979. In the case of any State for which a plan revision adopted and submitted before such date has made the demonstration required under section 172(a)(2) of the Clean Air Act \[subsec. (a)(2) of this section\] (respecting impossibility of attainment before 1983), such State shall adopt and submit to the Administrator a plan revision before July 1, 1982, which meets the requirements of section 172(b) and (c) of such Act \[subsecs. (b) and (c) of this section\].”
+Pub. L. 95–95, title I, §129(c), Aug. 7, 1977, 91 Stat. 750, as amended by Pub. L. 95–190, §14(b)(4), Nov. 16, 1977, 91 Stat. 1405, provided that: "Notwithstanding the requirements of section 406(d)(2) \[set out as an Effective Date of 1977 Amendment note under section 7401 of this title\] (relating to date required for submission of certain implementation plan revisions), for purposes of section 110(a)(2) of the Clean Air Act \[section 7410(a)(2) of this title\] each State in which there is any nonattainment area (as defined in part D of title I of the Clean Air Act) \[this part\] shall adopt and submit an implementation plan revision which meets the requirements of section 110(a)(2)(I) \[section 7410(a)(2)(I) of this title\] and part D of title I of the Clean Air Act \[this part\] not later than January 1, 1979. In the case of any State for which a plan revision adopted and submitted before such date has made the demonstration required under section 172(a)(2) of the Clean Air Act \[subsec. (a)(2) of this section\] (respecting impossibility of attainment before 1983), such State shall adopt and submit to the Administrator a plan revision before July 1, 1982, which meets the requirements of section 172(b) and (c) of such Act \[subsecs. (b) and (c) of this section\]."
 

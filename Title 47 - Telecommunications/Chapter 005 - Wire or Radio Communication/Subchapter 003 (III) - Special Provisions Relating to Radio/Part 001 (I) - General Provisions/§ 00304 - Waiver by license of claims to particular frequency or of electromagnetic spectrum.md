@@ -6,7 +6,7 @@ No station license shall be granted by the Commission until the applicant theref
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–538 substituted “waived” for “signed a waiver of”.
+<b>1992</b>—Pub. L. 102–538 substituted "waived" for "signed a waiver of".
 
-<b>1982</b>—Pub. L. 97–259 substituted “electromagnetic spectrum” for “ether”.
+<b>1982</b>—Pub. L. 97–259 substituted "electromagnetic spectrum" for "ether".
 

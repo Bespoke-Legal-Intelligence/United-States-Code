@@ -30,7 +30,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 #### (1) Development and adoption of local policies
 
-&emsp;Except as provided in subsections (a) and (b) of this section, a local educational agency that receives funds under any applicable program shall develop and adopt policies, in consultation with parents, regarding the following:
+&emsp;Except as provided in subsections (a) and (b) of this section, a local educational agencythat receives funds under any applicable program shall develop and adopt policies, in consultation with parents, regarding the following:
 
 &emsp;&emsp;(A)(i) The right of a parent of a student to inspect, upon the request of the parent, a survey created by a third party before the survey is administered or distributed by a school to a student; and
 
@@ -152,23 +152,23 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 #### (A) Instructional material
 
-&emsp;&emsp;The term “instructional material” means instructional content that is provided to a student, regardless of its format, including printed or representational materials, audio-visual materials, and materials in electronic or digital formats (such as materials accessible through the Internet). The term does not include academic tests or academic assessments.
+&emsp;&emsp;The term "instructional material" means instructional content that is provided to a student, regardless of its format, including printed or representational materials, audio-visual materials, and materials in electronic or digital formats (such as materials accessible through the Internet). The term does not include academic tests or academic assessments.
 
 #### (B) Invasive physical examination
 
-&emsp;&emsp;The term “invasive physical examination” means any medical examination that involves the exposure of private body parts, or any act during such examination that includes incision, insertion, or injection into the body, but does not include a hearing, vision, or scoliosis screening.
+&emsp;&emsp;The term "invasive physical examination" means any medical examination that involves the exposure of private body parts, or any act during such examination that includes incision, insertion, or injection into the body, but does not include a hearing, vision, or scoliosis screening.
 
 #### (C) Local educational agency
 
-&emsp;&emsp;The term “local educational agency” means an elementary school, secondary school, school district, or local board of education that is the recipient of funds under an applicable program, but does not include a postsecondary institution.
+&emsp;&emsp;The term "local educational agency" means an elementary school, secondary school, school district, or local board of education that is the recipient of funds under an applicable program, but does not include a postsecondary institution.
 
 #### (D) Parent
 
-&emsp;&emsp;The term “parent” includes a legal guardian or other person standing in loco parentis (such as a grandparent or stepparent with whom the child lives, or a person who is legally responsible for the welfare of the child).
+&emsp;&emsp;The term "parent" includes a legal guardian or other person standing in loco parentis (such as a grandparent or stepparent with whom the child lives, or a person who is legally responsible for the welfare of the child).
 
 #### (E) Personal information
 
-&emsp;&emsp;The term “personal information” means individually identifiable information including—
+&emsp;&emsp;The term "personal information" means individually identifiable information including—
 
 &emsp;&emsp;&emsp;(i) a student or parent's first and last name;
 
@@ -180,11 +180,11 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 #### (F) Student
 
-&emsp;&emsp;The term “student” means any elementary school or secondary school student.
+&emsp;&emsp;The term "student" means any elementary school or secondary school student.
 
 #### (G) Survey
 
-&emsp;&emsp;The term “survey” includes an evaluation.
+&emsp;&emsp;The term "survey" includes an evaluation.
 
 #### (d) Notice
 
@@ -200,7 +200,7 @@ The Secretary shall take such action as the Secretary determines appropriate to 
 
 #### (f) Office and review board
 
-The Secretary shall establish or designate an office and review board within the Department of Education to investigate, process, review, and adjudicate violations of the rights established under this section.
+The Secretary shall establish or designate an office and review board within the Department of Education to investigate, process, review, andadjudicate violations of the rights established under this section.
 
 (Pub. L. 90–247, title IV, §445, formerly §439, as added Pub. L. 93–380, title V, §514(a), Aug. 21, 1974, 88 Stat. 574; amended Pub. L. 95–561, title XII, §1250, Nov. 1, 1978, 92 Stat. 2355; Pub. L. 103–227, title X, §1017, Mar. 31, 1994, 108 Stat. 268; renumbered §445, Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913; amended Pub. L. 107–110, title X, §1061, Jan. 8, 2002, 115 Stat. 2083.)
 
@@ -208,7 +208,7 @@ The Secretary shall establish or designate an office and review board within the
 
 The Individuals with Disabilities Education Act, referred to in subsec. (c)(5)(A)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title Vof the Act is classified generally to part A (§7201 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title V of the Act is classified generally to part A (§7201 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
@@ -218,19 +218,19 @@ A prior section 445 of Pub. L. 90–247 was classified to section 1233d of this 
 
 <b>2002</b>—Subsec. (b)(1) to (8). Pub. L. 107–110, §1061(1), added pars. (1) to (8) and struck out former pars. (1) to (7) which read as follows:
 
-“(1) political affiliations;
+"(1) political affiliations;
 
-“(2) mental and psychological problems potentially embarrassing to the student or his family;
+"(2) mental and psychological problems potentially embarrassing to the student or his family;
 
-“(3) sex behavior and attitudes;
+"(3) sex behavior and attitudes;
 
-“(4) illegal, anti-social, self-incriminating and demeaning behavior;
+"(4) illegal, anti-social, self-incriminating and demeaning behavior;
 
-“(5) critical appraisals of other individuals with whom respondents have close family relationships;
+"(5) critical appraisals of other individuals with whom respondents have close family relationships;
 
-“(6) legally recognized privileged or analogous relationships, such as those of lawyers, physicians, and ministers; or
+"(6) legally recognized privileged or analogous relationships, such as those of lawyers, physicians, and ministers; or
 
-“(7) income (other than that required by law to determine eligibility for participation in a program or for receiving financial assistance under such program),”.
+"(7) income (other than that required by law to determine eligibility for participation in a program or for receiving financial assistance under such program),".
 
 Subsec. (c) to (f). Pub. L. 107–110, §1061(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
@@ -248,5 +248,5 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub
 
 #### Effective Date
 
-Pub. L. 93–380, title V, §514(b), Aug. 21, 1974, 88 Stat. 574, provided that: “The amendment made by subsection (a) \[enacting this section\] shall be effective upon enactment of this Act \[Aug. 21, 1974\].”
+Pub. L. 93–380, title V, §514(b), Aug. 21, 1974, 88 Stat. 574, provided that: "The amendment made by subsection (a) \[enacting this section\] shall be effective upon enactment of this Act \[Aug. 21, 1974\]."
 

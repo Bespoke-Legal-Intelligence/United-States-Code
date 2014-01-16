@@ -112,7 +112,7 @@
 
 (v)(I) For the purposes of any petition filed or approved under clause (ii) or (iii), divorce, or the loss of lawful permanent resident status by a spouse or parent after the filing of a petition under that clause shall not adversely affect approval of the petition, and, for an approved petition, shall not affect the alien's ability to adjust status under subsections (a) and (c) of section 1255 of this title or obtain status as a lawful permanent resident based on an approved self-petition under clause (ii) or (iii).
 
-(II) Upon the lawful permanent resident spouse or parent becoming or establishing the existence of United States citizenship through naturalization, acquisition of citizenship, or other means, any petition filed with the Immigration and Naturalization Service and pending or approved under clause (ii) or (iii) on behalf ofan alien who has been battered or subjected to extreme cruelty shall be deemed reclassified as a petition filed under subparagraph (A) even if the acquisition of citizenship occurs after divorce or termination of parental rights.
+(II) Upon the lawful permanent resident spouse or parent becoming or establishing the existence of United States citizenship through naturalization, acquisition of citizenship, or other means, any petition filed with the Immigration and Naturalization Service and pending or approved under clause (ii) or (iii) on behalf of an alien who has been battered or subjected to extreme cruelty shall be deemed reclassified as a petition filed under subparagraph (A) even if the acquisition of citizenship occurs after divorce or termination of parental rights.
 
 (C) Notwithstanding section 1101(f) of this title, an act or conviction that is waivable with respect to the petitioner for purposes of a determination of the petitioner's admissibility under section 1182(a) of this title or deportability under section 1227(a) of this title shall not bar the Attorney General from finding the petitioner to be of good moral character under subparagraph (A)(iii), (A)(iv), (B)(ii), or (B)(iii) if the Attorney General finds that the act or conviction was connected to the alien's having been battered or subjected to extreme cruelty.
 
@@ -152,7 +152,9 @@
 
 (iii) A petition under this subparagraph shall be in such form as the Secretary of State may by regulation prescribe and shall contain such information and be supported by such documentary evidence as the Secretary of State may require.
 
-(J) In acting on petitions filed under clause (iii) or (iv) of subparagraph (A) or clause (ii) or (iii) of subparagraph (B), or in making determinations under subparagraphs (C) and (D), the Attorney General shall consider any credibleevidence relevant to the petition. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.
+(iv) Each petition to compete for consideration for a visa under section 1153(c) of this title <sup>2</sup> shall be accompanied by a fee equal to $30. All amounts collected under this clause shall be deposited into the Treasury as miscellaneous receipts.
+
+(J) In acting on petitions filed under clause (iii) or (iv) of subparagraph (A) or clause (ii) or (iii) of subparagraph (B), or in making determinations under subparagraphs (C) and (D), the Attorney General shall consider any credible evidence relevant to the petition. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.
 
 (K) Upon the approval of a petition as a VAWA self-petitioner, the alien—
 
@@ -160,7 +162,7 @@
 
 &emsp;(ii) may be provided an “employment authorized” endorsement or appropriate work permit incidental to such approval.
 
-(L) Notwithstanding the previous provisions of this paragraph, an individual who was a VAWA petitioner or who had the status of a nonimmigrant under subparagraph (T) or (U) of section 1101(a)(15) of this title may not file a petition for classification under this section or section 1184 of this title to classify any person who committed the battery or extreme cruelty or trafficking against the individual (or the individual's child) which established the individual's (or individual's child <sup>2</sup>) eligibility as a VAWA petitioner or for such nonimmigrant status.
+(L) Notwithstanding the previous provisions of this paragraph, an individual who was a VAWA petitioner or who had the status of a nonimmigrant under subparagraph (T) or (U) of section 1101(a)(15) of this title may not file a petition for classification under this section or section 1184 of this title to classify any person who committed the battery or extreme cruelty or trafficking against the individual (or the individual's child) which established the individual's (or individual's child <sup>3</sup>) eligibility as a VAWA petitioner or for such nonimmigrant status.
 
 (2)(A) The Attorney General may not approve a spousal second preference petition for the classification of the spouse of an alien if the alien, by virtue of a prior marriage, has been accorded the status of an alien lawfully admitted for permanent residence as the spouse of a citizen of the United States or as the spouse of an alien lawfully admitted for permanent residence, unless—
 
@@ -188,11 +190,11 @@ Notwithstanding the provisions of subsection (b) of this section no petition sha
 
 #### (e) Subsequent finding of non-entitlement to preference classification
 
-Nothing in this section shall be construed to entitle an immigrant, in behalf of whom a petition under this section is approved, to be admitted <sup>3</sup> the United States as an immigrant under subsection (a), (b), or (c) of section 1153 of this title or as an immediate relative under section 1151(b) of this title if upon his arrival at a port of entry in the United States he is found not to be entitled to such classification.
+Nothing in this section shall be construed to entitle an immigrant, in behalf of whom a petition under this section is approved, to be admitted <sup>4</sup> the United States as an immigrant under subsection (a), (b), or (c) of section 1153 of this title or as an immediate relative under section 1151(b) of this title if upon his arrival at a port of entry in the United States he is found not to be entitled to such classification.
 
 #### (f) Preferential treatment for children fathered by United States citizens and born in Korea, Vietnam, Laos, Kampuchea, or Thailand after 1950 and before October 22, 1982
 
-(1) Any alien claiming to be an alien described in paragraph (2)(A) of this subsection (or any person on behalf of such an alien) may file a petition with the Attorney General for classification under section 1151(b), 1153(a)(1), or 1153(a)(3)of this title, as appropriate. After an investigation of the facts of each case the Attorney General shall, if the conditions described in paragraph (2) are met, approve the petition and forward one copy to the Secretary of State.
+(1) Any alien claiming to be an alien described in paragraph (2)(A) of this subsection (or any person on behalf of such an alien) may file a petition with the Attorney General for classification under section 1151(b), 1153(a)(1), or 1153(a)(3) of this title, as appropriate. After an investigation of the facts of each case the Attorney General shall, if the conditions described in paragraph (2) are met, approve the petition and forward one copy to the Secretary of State.
 
 (2) The Attorney General may approve a petition for an alien under paragraph (1) if—
 
@@ -222,13 +224,13 @@ Notwithstanding subsection (a) of this section, except as provided in section 12
 
 #### (h) Survival of rights to petition
 
-The legal termination of a marriage may not be the sole basis for revocation under section 1155 of this title of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this section pursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section. Remarriage of an alien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) of this section or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) of this section or in subsection (a)(1)(B)(iii) of this section shall not be the basis for revocation of a petition approval under section 1155 of this title.
+The legal termination of a marriage may not be the sole basis for revocation under section 1155 of this title of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this section pursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section. Remarriage of analien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) of this section or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) of this section or in subsection (a)(1)(B)(iii) of this section shall not be the basis for revocation of a petition approval under section 1155 of this title.
 
 #### (i) Professional athletes
 
 #### (1) In general
 
-&emsp;A petition under subsection (a)(4)(D) <sup>4</sup> of this section for classification of a professional athlete shall remain valid for the athlete after the athlete changes employers, if the new employer is a team in the same sport as the team which was the employer who filed the petition.
+&emsp;A petition under subsection (a)(4)(D) <sup>5</sup> of this section for classification of a professional athlete shall remain valid for the athlete after the athlete changes employers, if the new employer is a team in the same sport as the team which was the employer who filed the petition.
 
 #### (2) “Professional athlete” defined
 
@@ -278,21 +280,33 @@ A petition under subsection (a)(1)(D) of this section for an individual whose ap
 
 &emsp;&emsp;(D) the beneficiary of a pending or approved refugee/asylee relative petition under section 1157 or 1158 of this title;
 
-&emsp;&emsp;(E) an alien admitted in “T” nonimmigrant status as described in section 1101(a)(15)(T)(ii) of this title or in “U” nonimmigrant status as described in section 1101(a)(15)(U)(ii) of this title; or
+&emsp;&emsp;(E) an alien admitted in “T” nonimmigrant status as described in section 1101(a)(15)(T)(ii) of this title or in “U” nonimmigrant status as described in section 1101(a)(15)(U)(ii) of this title;
 
-&emsp;&emsp;(F) an asylee (as described in section 1158(b)(3) of this title).
+&emsp;&emsp;(F) a child of an alien who filed a pending or approved petition for classification or application for adjustment of status or other benefit specified in section 1101(a)(51) of this title as a VAWA self-petitioner; or
 
-(June 27, 1952, ch. 477, title II, ch. 1, §204, 66 Stat. 179; Pub. L. 87–885, §3, Oct. 24, 1962, 76 Stat. 1247; Pub. L. 89–236, §4, Oct. 3, 1965, 79 Stat. 915; Pub. L. 94–571, §7(b), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–417, §§2, 3, Oct. 5, 1978, 92 Stat. 917; Pub. L. 96–470, title II, §207, Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–116, §§3, 18(d), Dec. 29, 1981, 95 Stat. 1611, 1620; Pub. L. 97–359, Oct. 22, 1982, 96 Stat. 1716; Pub. L. 99–639, §§2(c), 4(a), 5(b), Nov. 10, 1986, 100 Stat. 3541, 3543; Pub. L. 100–525, §9(g), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §162(b), title VII, §702(b), Nov. 29, 1990, 104 Stat. 5010, 5086; Pub. L. 102–232, title III, §§302(e)(4), (5), 308(b), 309(b)(5), Dec. 12, 1991, 105 Stat. 1745, 1746, 1757, 1758; Pub. L. 103–322, title IV, §40701(a), (b)(1), (c), Sept. 13, 1994, 108 Stat. 1953, 1954; Pub. L. 103–416, title II, §219(b)(2), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(1)(A), (f)(2)(A), title VI, §624(b), Sept. 30, 1996, 110 Stat. 3009–619, 3009–621, 3009–699; Pub. L. 106–279, title III, §302(b), Oct. 6, 2000, 114 Stat. 839; Pub. L. 106–313, title I, §106(c)(1), Oct. 17, 2000, 114 Stat. 1254; Pub. L. 106–386, div. B, title V, §§1503(b)–(d), 1507(a)(1), (2), (b), Oct. 28, 2000, 114 Stat. 1518–1521, 1529, 1530; Pub. L. 107–208, §§6, 7, Aug. 6, 2002, 116 Stat. 929; Pub. L. 109–162, title VIII, §§805(a),(c), 814(b),(e), 816, Jan. 5, 2006, 119 Stat. 3056, 3059, 3060; Pub. L. 109–248, title IV, §402(a), July 27, 2006, 120 Stat. 622; Pub. L. 109–271, §6(a), Aug. 12, 2006, 120 Stat. 762; Pub. L. 111–83, title V, §568(d)(1), Oct. 28, 2009, 123 Stat. 2187.)
+&emsp;&emsp;(G) an asylee (as described in section 1158(b)(3) of this title).
+
+(June 27, 1952, ch. 477, title II, ch. 1, §204, 66 Stat. 179; Pub. L. 87–885, §3, Oct. 24, 1962, 76 Stat. 1247; Pub. L. 89–236, §4, Oct. 3, 1965, 79 Stat. 915; Pub. L. 94–571, §7(b), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–417, §§2, 3, Oct. 5, 1978, 92 Stat. 917; Pub. L. 96–470, title II, §207, Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–116, §§3, 18(d), Dec. 29, 1981, 95 Stat. 1611, 1620; Pub. L. 97–359, Oct. 22, 1982, 96 Stat.1716; Pub. L. 99–639, §§2(c), 4(a), 5(b), Nov. 10, 1986, 100 Stat. 3541, 3543; Pub. L. 100–525, §9(g), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §162(b), title VII, §702(b), Nov. 29, 1990, 104 Stat. 5010, 5086; Pub. L. 102–232, title III, §§302(e)(4), (5), 308(b), 309(b)(5), Dec. 12, 1991, 105 Stat. 1745, 1746, 1757, 1758; Pub. L. 103–322, title IV, §40701(a), (b)(1), (c), Sept. 13, 1994, 108 Stat. 1953, 1954; Pub. L. 103–416, title II, §219(b)(2), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(1)(A), (f)(2)(A), title VI, §624(b), Sept. 30, 1996, 110 Stat. 3009–619, 3009–621, 3009–699; Pub. L. 106–279, title III, §302(b), Oct. 6, 2000, 114 Stat. 839; Pub. L. 106–313, title I, §106(c)(1), Oct. 17, 2000, 114 Stat. 1254; Pub. L. 106–386, div. B, title V, §§1503(b)–(d), 1507(a)(1), (2), (b), Oct. 28, 2000, 114 Stat. 1518–1521, 1529, 1530; Pub. L. 107–208, §§6, 7, Aug. 6, 2002, 116 Stat. 929; Pub. L. 109–162, title VIII, §§805(a),(c), 814(b),(e), 816, Jan. 5, 2006, 119 Stat. 3056, 3059, 3060; Pub. L. 109–248, title IV, §402(a), July 27, 2006, 120 Stat. 622; Pub. L. 109–271, §6(a), Aug. 12, 2006, 120 Stat. 762; Pub. L. 111–83, title V, §568(d)(1), Oct. 28, 2009, 123 Stat. 2187; Pub. L. 113–4, title VIII, §803, Mar. 7, 2013, 127 Stat. 111; Pub. L. 113–6, div. D, title V, §563, Mar. 26, 2013, 127 Stat. 380.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 563 of Pub. L. 113—6, see Effective and Termination Dates of 2013 Amendment note below.</i>
 
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1)(A)(iii)(II)(aa)(BB), (B)(ii)(II)(aa)(BB), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-The Child Status Protection Act, referred to in subsec. (a)(1)(D)(iii), is Pub. L. 107–208, Aug. 6, 2002, 116 Stat. 927, which amended this section and sections 1151, 1153, 1157, and 1158 of this title and enacted provisions set out as notes under sections 1101 and 1151 of thistitle. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 1101 of this title and Tables.
+The Child Status Protection Act, referred to in subsec. (a)(1)(D)(iii), is Pub. L. 107–208, Aug. 6, 2002, 116 Stat. 927, which amended this section and sections 1151, 1153, 1157, and 1158 of this title and enacted provisions set out as notes under sections 1101 and 1151 of this title. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 1101 of this title and Tables.
+
+Section 1153(c) of this title, referred to in subsec. (a)(1)(I)(iv), was so in the original, but probably should have been a reference to section 203(c) of act June 27, 1952, ch. 477, which is classified to section 1153(c) of this title.
 
 The Intercountry Adoption Act of 2000, referred to in subsec. (d)(2), is Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, which is classified principally to chapter 143 (§14901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1)(I)(iv). Pub. L. 113–6 temporarily added cl. (iv). See Effective and Termination Dates of 2013 Amendment note below.
+
+Subsec. (l)(2)(F), (G). Pub. L. 113–4 added subpar. (F) and redesignated former subpar. (F) as (G).
 
 <b>2009</b>—Subsec. (l). Pub. L. 111–83 added subsec. (l).
 
@@ -338,7 +352,7 @@ Subsec. (a)(1)(A)(v). Pub. L. 106–386, §1503(b)(3), added cl. (v).
 
 Subsec. (a)(1)(A)(vi). Pub. L. 106–386, §1507(a)(1), added cl. (vi).
 
-Subsec. (a)(1)(B)(ii). Pub. L. 106–386, §1503(c)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “An alien who is the spouse of an alien lawfully admitted for permanent residence, who is a person of good moral character, who is eligible for classification under section 1153(a)(2)(A) of this title, and who has resided in the United States with the alien's legal permanent resident spouse may file a petition with the Attorney General under this subparagraph for classification of the alien (and any child of the alien if such a child has not been classified under clause (iii)) under such section if the alien demonstrates to the Attorney General that the conditions described in subclauses (I) and (II) of subparagraph (A)(iii) are met with respect to the alien.”
+Subsec. (a)(1)(B)(ii). Pub. L. 106–386, §1503(c)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “An alien who is the spouse of an alien lawfully admitted for permanent residence, who is a person of good moral character, who is eligible for classification under section 1153(a)(2)(A) of this title, and who has resided in the United States with the alien's legal permanent resident spouse may file a petitionwith the Attorney General under this subparagraph for classification of the alien (and any child of the alien if such a child has not been classified under clause (iii)) under such section if the alien demonstrates to the Attorney General that the conditions described in subclauses (I) and (II) of subparagraph (A)(iii) are met with respect to the alien.”
 
 Subsec. (a)(1)(B)(iii). Pub. L. 106–386, §1503(c)(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “An alien who is the child of an alien lawfully admitted for permanent residence, who is a person of good moral character, who is eligible for classification under section 1153(a)(2)(A) of this title, and who has resided in the United States with the alien's permanent resident alien parent may file a petition with the Attorney General under this subparagraph for classification of the alien under such section if the alien demonstrates to the Attorney General that—
 
@@ -366,7 +380,7 @@ Subsec. (e). Pub. L. 104–208, §308(f)(2)(A), substituted “be admitted” fo
 
 Subsec. (i). Pub. L. 104–208, §624(b), added subsec. (i).
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §40701(a), in subpar. (A), designated first sentence as cl. (i) and secondsentence as cl. (ii) and added cls. (iii) and (iv), in subpar. (B), designated existing provisions as cl. (i) and added cls. (ii) and (iii), and added subpar. (H).
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §40701(a), in subpar. (A), designated first sentence as cl. (i) and second sentence as cl. (ii) and added cls. (iii) and (iv), in subpar. (B), designated existing provisions as cl. (i) and added cls. (ii) and (iii), and added subpar. (H).
 
 Subsec. (a)(1)(A). Pub. L. 103–416 in second sentence inserted “spouse” after “alien” and “of the alien (and the alien's children)” after “for classification”.
 
@@ -416,7 +430,7 @@ Subsec. (h). Pub. L. 99–639, §5(b), added subsec. (h).
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–116, §18(d), substituted “of a relationship described in paragraph” for “of the relationships described in paragraphs”.
 
-Subsec. (d). Pub. L. 97–116, §3, redesignated subsec. (e) as (d). Former subsec. (d), directing that the Attorney General forward to the Congress a Statistical summary of petitions for immigrant status approved by him under section 1153(a)(3) or 1153(a)(6) of this title and that the reports be submitted to Congress on the first and fifteenth day of each calendar month in which Congress was in session, was struck out.
+Subsec. (d). Pub. L. 97–116, §3, redesignated subsec. (e) as (d). Former subsec. (d), directing that the Attorney General forward to the Congress a Statistical summary of petitions for immigrant status approved by him under section 1153(a)(3) or 1153(a)(6) of this title andthat the reports be submitted to Congress on the first and fifteenth day of each calendar month in which Congress was in session, was struck out.
 
 Subsecs. (e), (f). Pub. L. 97–116, §3, redesignated as subsec. (e) the subsec. (f) relating to subsequent finding of non-entitlement. See 1978 Amendment note below. Former subsec. (e) redesignated (d).
 
@@ -439,6 +453,10 @@ Subsec. (d). Pub. L. 89–236 substituted provisions requiring the Attorney Gene
 Subsec. (e). Pub. L. 89–236 added subsec. (e).
 
 <b>1962</b>—Subsec. (c). Pub. L. 87–885 provided for submission of reports to Congress.
+
+#### Effective and Termination Dates of 2013 Amendment
+
+Pub. L. 113–6, div. D, title V, §563, Mar. 26, 2013, 127 Stat. 380, provided in part that the amendment made by section 563 of Pub. L. 113—6 is effective during the period beginning on Oct. 1, 2013, and ending on Sept. 30, 2014.
 
 #### Effective Date of 2002 Amendment
 
@@ -488,7 +506,7 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Construction of 2009 Amendment
 
-Pub. L. 111–83, title V, §568(d)(2), Oct. 28, 2009, 123 Stat. 2187, provided that: “Nothing in the amendment made by paragraph (1) \[amending this section\] may be construed to limit or waive any ground of removal, basis for denial of petition or application, or other criteria for adjudicating petitions or applications as otherwise provided under the immigration laws of the United States other than ineligibility based solely on the lack of a qualifying family relationship as specifically provided by such amendment.”
+Pub. L. 111–83, title V, §568(d)(2), Oct. 28, 2009, 123 Stat. 2187, provided that: “Nothing in the amendmentmade by paragraph (1) \[amending this section\] may be construed to limit or waive any ground of removal, basis for denial of petition or application, or other criteria for adjudicating petitions or applications as otherwise provided under the immigration laws of the United States other than ineligibility based solely on the lack of a qualifying family relationship as specifically provided by such amendment.”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -500,9 +518,11 @@ Act Sept. 3, 1954, ch. 1254, §§1–3, 68 Stat. 1145, provided for the importat
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(II)”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “child's”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “to”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “child's”.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be subsection “(a)(1)(D)”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be followed by “to”.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be subsection “(a)(1)(D)”.</i>
 

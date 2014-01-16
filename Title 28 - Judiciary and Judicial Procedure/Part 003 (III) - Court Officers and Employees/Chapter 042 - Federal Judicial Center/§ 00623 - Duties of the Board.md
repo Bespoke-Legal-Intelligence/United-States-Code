@@ -6,7 +6,7 @@
 
 &emsp;(2) formulate recommendations for improvements in the administration of the courts of the United States, in the training of the personnel of those courts, and in the management of their resources;
 
-&emsp;(3) submit to the Judicial Conference of the United States, at least one month in advanceof its annual meeting, a report of the activities of the Center and such recommendations as the Board may propose for the consideration of the Conference;
+&emsp;(3) submit to the Judicial Conference of the United States, at least one month in advance of its annual meeting, a report of the activities of the Center and such recommendations as the Board may propose for the consideration of the Conference;
 
 &emsp;(4) present to other government departments agencies, and instrumentalities whose programs or activities relate to the administration of justice in the courts of the United States the recommendations of the Center for the improvement of such programs or activities;
 

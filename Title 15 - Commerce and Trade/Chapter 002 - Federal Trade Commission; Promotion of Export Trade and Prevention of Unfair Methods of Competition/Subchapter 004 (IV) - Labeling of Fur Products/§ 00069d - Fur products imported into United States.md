@@ -10,7 +10,7 @@ The falsification of, or failure to set forth, said information in said invoices
 
 #### (c) Verified statement of compliance
 
-A verified statement from the manufacturer, producer of, or dealer in, imported fur productsand furs showing information required under the provisions of this subchapter may be required under regulations prescribed by the Secretary of the Treasury.
+A verified statement from the manufacturer, producer of, or dealer in, imported fur products and furs showing information required under the provisions of this subchapter may be required under regulations prescribed by the Secretary of the Treasury.
 
 (Aug. 8, 1951, ch. 298, §6, 65 Stat. 178.)
 
@@ -18,7 +18,7 @@ A verified statement from the manufacturer, producer of, or dealer in, imported 
 
 The Tariff Act of 1930, referred to in subsecs. (a) and (b), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. Title IV of the Tariff Act of 1930 is classified generally to subtitle III (§1401 et seq.) of chapter 4 of Title 19. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is defined in section 69 of this title.
 
 #### Transfer of Functions
 

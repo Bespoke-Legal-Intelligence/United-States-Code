@@ -6,7 +6,7 @@ The Secretary and (with respect to the operation and effectiveness of activities
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–440 struck out “through 1979” after “and annually thereafter” and inserted at end “Such report shall include information and data furnished by each State on the average costs incurred in weatherization of individual dwelling units, the average size of the dwellings being weatherized, and the average income of households receiving assistance under this part.”
+<b>1990</b>—Pub. L. 101–440 struck out "through 1979" after "and annually thereafter" and inserted at end "Such report shall include information and data furnished by each State on the average costs incurred in weatherization of individual dwelling units, the average size of the dwellings being weatherized, and the average income of households receiving assistance under this part."
 
-<b>1980</b>—Pub. L. 96–294 substituted “Secretary” for “Administrator”.
+<b>1980</b>—Pub. L. 96–294 substituted "Secretary" for "Administrator".
 

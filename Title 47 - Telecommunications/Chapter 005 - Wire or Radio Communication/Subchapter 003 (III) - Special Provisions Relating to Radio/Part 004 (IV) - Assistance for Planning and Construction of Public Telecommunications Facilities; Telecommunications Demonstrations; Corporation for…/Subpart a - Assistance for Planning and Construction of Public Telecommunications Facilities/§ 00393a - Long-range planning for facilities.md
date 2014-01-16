@@ -8,11 +8,11 @@
 
 #### Amendments
 
-<b>1995</b>—Subsec. (b). Pub. L. 104–66 struck out subsec. (b) which read as follows: “The plan required in subsection (a) of this section shall be updated annually, and a summary of the activities of the Secretary in implementing the plan, shall be submitted concurrently to the President and the Congress not later than the 31st day of December of each year.”
+<b>1995</b>—Subsec. (b). Pub. L. 104–66 struck out subsec. (b) which read as follows: "The plan required in subsection (a) of this section shall be updated annually, and a summary of the activities of the Secretary in implementing the plan, shall be submitted concurrently to the President and the Congress not later than the 31st day of December of each year."
 
 <b>1978</b>—Pub. L. 95–567 substituted provisions dealing with long-range planning for facilities for provisions authorizing the Secretary to establish rules and regulations necessary for this subpart. See section 392(e) of this title.
 
-<b>1967</b>—Pub. L. 90–129, §201(2), substituted “subpart” for “part”.
+<b>1967</b>—Pub. L. 90–129, §201(2), substituted "subpart" for "part".
 
 #### Effective Date of 1978 Amendment
 

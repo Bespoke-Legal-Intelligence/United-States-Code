@@ -18,17 +18,17 @@ The Federal Energy Regulatory Commission shall, after opportunity for presentati
 
 For purposes of this section, the term—
 
-&emsp;(1) “local distribution company” means any person—
+&emsp;(1) "local distribution company" means any person—
 
 &emsp;&emsp;(A) engaged in the distribution of natural gas at retail, including any subsidiary or affiliate thereof engaged in the exploration and production of natural gas; and
 
 &emsp;&emsp;(B) regulated, or operated as a public utility, by a State or local government or agency thereof;
 
-&emsp;(2) “interstate commerce” shall have the same meaning as such term has under section 717a(7) of title 15; and
+&emsp;(2) "interstate commerce" shall have the same meaning as such term has under section 717a(7) of title 15; and
 
-&emsp;(3) “Commission” means the Federal Energy Regulatory Commission.
+&emsp;(3) "Commission" means the Federal Energy Regulatory Commission.
 
 (Pub. L. 95–372, title VI, §603, Sept. 18, 1978, 92 Stat. 694.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “determining—”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "determining—".</i>
 

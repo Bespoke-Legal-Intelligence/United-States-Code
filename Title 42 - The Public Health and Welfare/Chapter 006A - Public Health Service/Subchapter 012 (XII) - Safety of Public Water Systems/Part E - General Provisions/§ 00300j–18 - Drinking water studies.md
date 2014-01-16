@@ -62,7 +62,7 @@ The Administrator shall conduct biomedical studies to—
 
 #### (3) Funding
 
-&emsp;There are authorized to be appropriated for each of the fiscal years 1997 through 2001, $3,000,000 to carry out this subsection. To the extent funds under this subsection are not fully appropriated, the Administrator may use not more than $2,000,000 of the funds from amounts reserved under section 300j–12(n) of this title for health effects studies for purposes of this subsection. The Administrator may transfer a portion of such funds to the Centers for Disease Control and Prevention for such purposes.
+&emsp;There are authorized to be appropriated for each of the fiscal years 1997 through 2001, $3,000,000 to carry out this subsection. To the extent funds under this subsection are not fully appropriated, the Administrator may use not more than $2,000,000 of the funds from amounts reserved under section 300j–12(n) ofthis title for health effects studies for purposes of this subsection. The Administrator may transfer a portion of such funds to the Centers for Disease Control and Prevention for such purposes.
 
 (July 1, 1944, ch. 373, title XIV, §1458, as added Pub. L. 104–182, title I, §137, Aug. 6, 1996, 110 Stat. 1680.)
 
@@ -70,31 +70,31 @@ The Administrator shall conduct biomedical studies to—
 
 Pub. L. 108–136, div. A, title III, §323, Nov. 24, 2003, 117 Stat. 1440, provided that:
 
-“(a)
+"(a)
 
 Epidemiological Study of Exposure to Perchlorate.—The Secretary of Defense shall provide for an independent epidemiological study of exposure to perchlorate in drinking water. The entity conducting the study shall—
 
-&emsp;“(1) assess the incidence of thyroid disease and measurable effects of thyroid function in relation to exposure to perchlorate;
+&emsp;"(1) assess the incidence of thyroid disease and measurable effects of thyroid function in relation to exposure to perchlorate;
 
-&emsp;“(2) ensure that the study is of sufficient scope and scale to permit the making of meaningful conclusions of the measurable public health threat associated with exposure to perchlorate, especially the threat to sensitive subpopulations; and
+&emsp;"(2) ensure that the study is of sufficient scope and scale to permit the making of meaningful conclusions of the measurable public health threat associated with exposure to perchlorate, especially the threat to sensitive subpopulations; and
 
-&emsp;“(3) examine thyroid function, including measurements of urinary iodine and thyroid hormone levels, in a sufficient number of pregnant women, neonates, and infants exposed to perchlorate in drinking water and match measurements of perchlorate levels in the drinking water of each study participant in order to permit the development of meaningful conclusions on the public health threat to individuals exposed to perchlorate.
+&emsp;"(3) examine thyroid function, including measurements of urinary iodine and thyroid hormone levels, in a sufficient number of pregnant women, neonates, and infants exposed to perchlorate in drinking water and match measurements of perchlorate levels in the drinking water of each study participant in order to permit the development of meaningful conclusions on the public health threat to individuals exposed to perchlorate.
 
-“(b)
+"(b)
 
 Review of Effects of Perchlorate on Endocrine System.—The Secretary shall provide for an independent review of the effects of perchlorate on the human endocrine system. The entity conducting the review shall assess—
 
-&emsp;“(1) available data on human exposure to perchlorate, including clinical data and data on exposure of sensitive subpopulations, and the levels at which health effects were observed; and
+&emsp;"(1) available data on human exposure to perchlorate, including clinical data and data on exposure of sensitive subpopulations, and the levels at which health effects were observed; and
 
-&emsp;“(2) available data on other substances that have endocrine effects similar to perchlorate to which the public is frequently exposed.
+&emsp;"(2) available data on other substances that have endocrine effects similar to perchlorate to which the public is frequently exposed.
 
-“(c)
+"(c)
 
 Performance of Study and Review.—(1) The Secretary shall provide for the performance of the study under subsection (a) through the Centers for Disease Control and Prevention, the National Institutes of Health, or another Federal entity with experience in environmental toxicology selected by the Secretary.
 
-“(2) The Secretary shall provide for the performance of the review under subsection (b) through the Centers for Disease Control and Prevention, the National Institutes of Health, or another appropriate Federal research entity with experience in human endocrinology selected by the Secretary. The Secretary shall ensure that the panel conducting the review is composed of individuals with expertise in human endocrinology.
+"(2) The Secretary shall provide for the performance of the review under subsection (b) through the Centers for Disease Control and Prevention, the National Institutes of Health, or another appropriate Federal research entity with experience in human endocrinology selected by the Secretary. The Secretary shall ensure that the panel conducting the review is composed of individuals with expertise in human endocrinology.
 
-“(d)
+"(d)
 
-Reporting Requirements.—Not later than June 1, 2005, the Federal entities conducting the study and review under this section shall submit to the Secretary reports containing the results of the study and review.”
+Reporting Requirements.—Not later than June 1, 2005, the Federal entities conducting the study and review under this section shall submit to the Secretary reports containing the results of the study and review."
 

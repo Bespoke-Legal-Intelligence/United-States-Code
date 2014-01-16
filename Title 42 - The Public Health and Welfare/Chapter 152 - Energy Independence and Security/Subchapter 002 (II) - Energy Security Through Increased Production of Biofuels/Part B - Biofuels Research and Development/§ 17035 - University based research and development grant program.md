@@ -26,15 +26,15 @@ In this section:
 
 #### (1) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning as defined in section 15823(c) of this title.
+&emsp;The term "Indian tribe" has the meaning as defined in section 15823(c) of this title.
 
 #### (2) Renewable energy
 
-&emsp;The term “renewable energy” has the meaning as defined in section 16181 of this title.
+&emsp;The term "renewable energy" has the meaning as defined in section 16181 of this title.
 
 #### (3) Urbanized area
 
-&emsp;The term “urbanized area” has the meaning as defined by the U.S. Bureau of the Census.
+&emsp;The term "urbanized area" has the meaning as defined by the U.S. Bureau of the Census.
 
 (Pub. L. 110–140, title II, §234, Dec. 19, 2007, 121 Stat. 1538.)
 

@@ -12,4 +12,4 @@
 - [&sect; 00410w - Administration, protection, and development](%C2%A7%2000410w%20-%20Administration%2C%20protection%2C%20and%20development.md)
 - [&sect; 00410x - Authorization of appropriations](%C2%A7%2000410x%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00410x&#8211;1 - Residential occupancy](%C2%A7%2000410x%E2%80%931%20-%20Residential%20occupancy.md)
-- [&sect; 00410x&#8211;2 - &#8220;Residential property&#8221; defined](%C2%A7%2000410x%E2%80%932%20-%20%E2%80%9CResidential%20property%E2%80%9D%20defined.md)
+- [&sect; 00410x&#8211;2 - Residential property defined](%C2%A7%2000410x%E2%80%932%20-%20Residential%20property%20defined.md)

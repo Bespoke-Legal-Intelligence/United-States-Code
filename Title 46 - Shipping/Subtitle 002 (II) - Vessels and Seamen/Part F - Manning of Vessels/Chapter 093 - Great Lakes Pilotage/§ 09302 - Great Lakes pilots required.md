@@ -50,13 +50,13 @@ Subsections (d) and (e) are exceptions to subsection (a). Subsection (d) permits
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–324, §1115(b)(5), substituted “subsections (d), (e), and (f)” for “subsections (d) and (e)”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–324, §1115(b)(5), substituted "subsections (d), (e), and (f)" for "subsections (d) and (e)".
 
-Subsec. (e). Pub. L. 104–324, §1115(b)(6), substituted “subsection (a)” for “subsections (a) and (b)”.
+Subsec. (e). Pub. L. 104–324, §1115(b)(6), substituted "subsection (a)" for "subsections (a) and (b)".
 
 Subsec. (f). Pub. L. 104–324, §1115(b)(7), added subsec. (f).
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–380 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An individual of a vessel licensed for navigation on the Great Lakes under section 7101 of this title, or equivalent provisions of Canadian law, and qualified for the route being navigated, may serve as the pilot required on waters not designated by the President.”
+<b>1990</b>—Subsec. (b). Pub. L. 101–380 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "An individual of a vessel licensed for navigation on the Great Lakes under section 7101 of this title, or equivalent provisions of Canadian law, and qualified for the route being navigated, may serve as the pilot required on waters not designated by the President."
 
 #### Effective Date of 1990 Amendment
 

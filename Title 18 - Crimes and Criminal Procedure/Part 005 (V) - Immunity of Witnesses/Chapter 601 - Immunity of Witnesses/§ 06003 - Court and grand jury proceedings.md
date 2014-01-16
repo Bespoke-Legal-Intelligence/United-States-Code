@@ -12,7 +12,7 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “title” for “part” before period at end.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "title" for "part" before period at end.
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–690 inserted “, the Associate Attorney General” after “Deputy Attorney General”, and “or Deputy Assistant Attorney General” after “Assistant Attorney General”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–690 inserted ", the Associate Attorney General" after "Deputy Attorney General", and "or Deputy Assistant Attorney General" after "Assistant Attorney General".
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title IX, §902, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1279.
 
-The words “The Congress hereby declares” are omitted as unnecessary.
+The words "The Congress hereby declares" are omitted as unnecessary.
 

@@ -6,5 +6,5 @@ Each contract or other arrangement executed pursuant to this chapter which relat
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–159 struck out subsec. (a) designation, inserted “or engineering” after “scientific”, and struck out subsec. (b) which prohibited Foundation officers and employees from acquiring, etc., patent rights in inventions.
+<b>1985</b>—Pub. L. 99–159 struck out subsec. (a) designation, inserted "or engineering" after "scientific", and struck out subsec. (b) which prohibited Foundation officers and employees from acquiring, etc., patent rights in inventions.
 

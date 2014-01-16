@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>1983</b>—Pub. L. 98–169, §6, Nov. 29, 1983, 97 Stat. 1115, added items 6105 and 6106, and struck out item 6105 “Authorization of appropriations”.
+<b>1983</b>—Pub. L. 98–169, §6, Nov. 29, 1983, 97 Stat. 1115, added items 6105 and 6106, and struck out item 6105 "Authorization of appropriations".
 
 Pub. L. 97–452, §1(23)(B), Jan. 12, 1983, 96 Stat. 2478, added item 6102a.
 

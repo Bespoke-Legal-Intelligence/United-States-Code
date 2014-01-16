@@ -6,15 +6,15 @@ Each year the Bureau shall make a report to the Congress concerning the administ
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
 <b>1982</b>—Pub. L. 97–375 struck out requirement that the Attorney General make a report on the same terms as the Board.
 
-<b>1980</b>—Pub. L. 96–221 substituted “Each year” for “Not later than January 3 of each year after 1969,”.
+<b>1980</b>—Pub. L. 96–221 substituted "Each year" for "Not later than January 3 of each year after 1969,".
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

@@ -8,9 +8,9 @@ There shall be a Senate Service Department and a House of Representatives Public
 
 Based on 44 U.S. Code, 1964 ed., §166 (Jan. 12, 1895, ch. 23, §71, 28 Stat. 612; July 2, 1954, ch. 455, title I, §101, 68 Stat. 397).
 
-“House of Representatives Publications Distribution Service” is substituted for “House Folding Room” because of the change of name under authority of Public Law 88–652.
+"House of Representatives Publications Distribution Service" is substituted for "House Folding Room" because of the change of name under authority of Public Law 88–652.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Doorkeeper of the House”.
+<b>1996</b>—Pub. L. 104–186 substituted "Chief Administrative Officer of the House of Representatives" for "Doorkeeper of the House".
 

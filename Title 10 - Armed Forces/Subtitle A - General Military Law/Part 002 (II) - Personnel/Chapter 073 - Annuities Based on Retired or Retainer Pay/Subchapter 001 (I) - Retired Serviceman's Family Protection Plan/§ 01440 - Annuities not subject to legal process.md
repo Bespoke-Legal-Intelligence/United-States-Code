@@ -18,13 +18,13 @@ Historical and Revision Notes
 
 Aug. 8, 1953, ch. 393, §9, 67 Stat. 504.
 
-The words “either in law or equity” are omitted as surplusage.
+The words "either in law or equity" are omitted as surplusage.
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–145 substituted “1437(c)(3)(B)” for “1437(c)(3)”.
+<b>1985</b>—Pub. L. 99–145 substituted "1437(c)(3)(B)" for "1437(c)(3)".
 
-<b>1984</b>—Pub. L. 98–525 substituted “Except as provided in section 1437(c)(3) of this title, no” for “No”.
+<b>1984</b>—Pub. L. 98–525 substituted "Except as provided in section 1437(c)(3) of this title, no" for "No".
 
-<b>1972</b>—Pub. L. 92–425 substituted “subchapter” for “chapter”.
+<b>1972</b>—Pub. L. 92–425 substituted "subchapter" for "chapter".
 

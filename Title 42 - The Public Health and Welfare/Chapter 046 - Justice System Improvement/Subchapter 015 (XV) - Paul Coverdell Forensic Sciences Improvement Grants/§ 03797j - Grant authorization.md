@@ -6,5 +6,5 @@ The Attorney General shall award grants to States and units of local government 
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–273 inserted “and units of local government” after “States”.
+<b>2002</b>—Pub. L. 107–273 inserted "and units of local government" after "States".
 

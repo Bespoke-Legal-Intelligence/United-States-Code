@@ -14,7 +14,7 @@ If addressed to the Supreme Court, a justice thereof or a circuit judge it shall
 
 Based on title 28, U.S.C., 1940 ed., §454 (R.S. §754).
 
-Words “or by someone acting in his behalf” were added. This follows the actual practice of the courts, as set forth in <i>United States ex rel. Funaro v. Watchorn</i>, C.C. 1908, 164 F. 152; <i>Collins v. Traeger</i>, C.C.A. 1928, 27 F.2d 842, and cases cited.
+Words "or by someone acting in his behalf" were added. This follows the actual practice of the courts, as set forth in <i>United States ex rel. Funaro v. Watchorn</i>, C.C. 1908, 164 F. 152; <i>Collins v. Traeger</i>, C.C.A. 1928, 27 F.2d 842, and cases cited.
 
 The third paragraph is new. It was added to conform to existing practice as approved by judicial decisions. See <i>Dorsey v. Gill</i> (App.D.C.) 148 F.2d 857, 865, 866. See also <i>Holiday v. Johnston</i>, 61 S.Ct. 1015, 313 U.S. 342, 85 L.Ed. 1392.
 

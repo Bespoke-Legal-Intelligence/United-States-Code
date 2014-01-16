@@ -46,5 +46,5 @@ Oct. 15, 1966, Pub. L. 89–670, §6(d) (1st sentence), 80 Stat. 938.
 
 Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), 88 Stat. 2168.
 
-In subsection (c), the words “when convened to investigate an accident certified to it by the National Transportation Safety Board” are omitted as surplus.
+In subsection (c), the words "when convened to investigate an accident certified to it by the National Transportation Safety Board" are omitted as surplus.
 

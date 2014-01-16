@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For each fiscal year, the Secretary shall reserve 5 percent of the amount appropriatedunder section 6302(b)(3) of this title (or, if such appropriated amount exceeds $200,000,000, 6 percent of such amount) for programs, under such terms and conditions as the Secretary shall establish, that are consistent with the purpose of this subpart, and according to their relative needs, for—
+&emsp;For each fiscal year, the Secretary shall reserve 5 percent of the amount appropriated under section 6302(b)(3) of this title (or, if such appropriated amount exceeds $200,000,000, 6 percent of such amount) for programs, under such terms and conditions as the Secretary shall establish, that are consistent with the purpose of this subpart, and according to their relative needs, for—
 
 &emsp;&emsp;(A) children of migratory workers;
 
@@ -82,7 +82,7 @@
 
 #### (4) Technical assistance
 
-&emsp;The Secretary shall provide, directly or through a grant or contract with an organization with experience in the development andoperation of successful family literacy services, technical assistance to State educational agencies receiving a grant under this subsection.
+&emsp;The Secretary shall provide, directly or through a grant or contract with an organization with experience in the development and operation of successful family literacy services, technical assistance to State educational agencies receiving a grant under this subsection.
 
 #### (5) Matching requirement
 
@@ -106,19 +106,19 @@
 
 For the purpose of this subpart—
 
-&emsp;(1) the term “eligible entity” means a partnership composed of—
+&emsp;(1) the term "eligible entity" means a partnership composed of—
 
 &emsp;&emsp;(A) a local educational agency; and
 
 &emsp;&emsp;(B) a nonprofit community-based organization, a public agency other than a local educational agency, an institution of higher education, or a public or private nonprofit organization other than a local educational agency, of demonstrated quality;
 
-&emsp;(2) the term “eligible organization” means any public or private nonprofit organization with a record of providing effective services to family literacy providers, such as the National Center for Family Literacy, Parents as Teachers, Inc., the Home Instruction Program for Preschool Youngsters, and the Home and School Institute, Inc.;
+&emsp;(2) the term "eligible organization" means any public or private nonprofit organization with a record of providing effective services to family literacy providers, such as the National Center for Family Literacy, Parents as Teachers, Inc., the Home Instruction Program for Preschool Youngsters, and the Home and School Institute, Inc.;
 
-&emsp;(3) the terms “Indian tribe” and “tribal organization” have the meanings given those terms in section 450b of title 25;
+&emsp;(3) the terms "Indian tribe" and "tribal organization" have the meanings given those terms in section 450b of title 25;
 
-&emsp;(4) the term “scientifically based reading research” has the meaning given that term in section 6368 of this title; and
+&emsp;(4) the term "scientifically based reading research" has the meaning given that term in section 6368 of this title; and
 
-&emsp;(5) the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;(5) the term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (Pub. L. 89–10, title I, §1232, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1556.)
 

@@ -124,7 +124,7 @@ No lease, business agreement, or right-of-way relating to the development of tri
 
 &emsp;(i) provisions requiring the Secretary to conduct a periodic review and evaluation to monitor the performance of the activities of the Indian tribe associated with the development of energy resources under the tribal energy resource agreement; and
 
-&emsp;(ii) if a periodic review and evaluation, or an investigation, by the Secretary of any breach or violation described in a notice provided by the Indian tribe to the Secretary in accordance with subparagraph (B)(iii)(XVI), results in a finding by the Secretary of imminent jeopardy to a physical trust asset arising from a violation of the tribal energy resource agreement or applicable Federal laws, provisions authorizing the Secretary to take actions determined by the Secretary to be necessary to protect the asset, including reassumption of responsibility for activities associated with the development of energy resources on tribal land until the violation and any condition that caused the jeopardy are corrected.
+&emsp;(ii) if a periodic review and evaluation, or an investigation, by the Secretary of any breachor violation described in a notice provided by the Indian tribe to the Secretary in accordance with subparagraph (B)(iii)(XVI), results in a finding by the Secretary of imminent jeopardy to a physical trust asset arising from a violation of the tribal energy resource agreement or applicable Federal laws, provisions authorizing the Secretary to take actions determined by the Secretary to be necessary to protect the asset, including reassumption of responsibility for activities associated with the development of energy resources on tribal land until the violation and any condition that caused the jeopardy are corrected.
 
 (E) Periodic review and evaluation under subparagraph (D) shall be conducted on an annual basis, except that, after the third annual review and evaluation, the Secretary and the Indian tribe may mutually agree to amend the tribal energy resource agreement to authorize the review and evaluation under subparagraph (D) to be conducted once every 2 years.
 
@@ -158,11 +158,11 @@ No lease, business agreement, or right-of-way relating to the development of tri
 
 &emsp;(ii) any provision in a lease, business agreement, or right-of-way violates the tribal energy resource agreement pursuant to which the lease, business agreement, or right-of-way was executed.
 
-(D)(i) In this subparagraph, the term “negotiated term” means any term or provision that is negotiated by an Indian tribe and any other party to a lease, business agreement, or right-of-way entered into pursuant to an approved tribal energy resource agreement.
+(D)(i) In this subparagraph, the term "negotiated term" means any term or provision that is negotiated by an Indian tribe and any other party to a lease, business agreement, or right-of-way entered into pursuant to an approved tribal energy resource agreement.
 
 (ii) Notwithstanding subparagraph (B), the United States shall not be liable to any party (including any Indian tribe) for any negotiated term of, or any loss resulting from the negotiated terms of, a lease, business agreement, or right-of-way executed pursuant to and in accordance with a tribal energy resource agreement approved by the Secretary under paragraph (2).
 
-(7)(A) In this paragraph, the term “interested party” means any person (including an entity) that has demonstrated that an interest of the person has sustained, or will sustain, an adverse environmental impact as a result of the failure of an Indian tribe to comply with a tribal energy resource agreement of the Indian tribe approved by the Secretary under paragraph (2).
+(7)(A) In this paragraph, the term "interested party" means any person (including an entity) that has demonstrated that an interest of the person has sustained, or will sustain, an adverse environmental impact as a result of the failure of an Indian tribe to comply with a tribal energy resource agreement of the Indian tribe approved by the Secretary under paragraph (2).
 
 (B) After exhaustion of any tribal remedy, and in accordance with regulations promulgated by the Secretary under paragraph (8), an interested party may submit to the Secretary a petition to review the compliance by an Indian tribe with a tribal energy resource agreement of the Indian tribe approved by the Secretary under paragraph (2).
 

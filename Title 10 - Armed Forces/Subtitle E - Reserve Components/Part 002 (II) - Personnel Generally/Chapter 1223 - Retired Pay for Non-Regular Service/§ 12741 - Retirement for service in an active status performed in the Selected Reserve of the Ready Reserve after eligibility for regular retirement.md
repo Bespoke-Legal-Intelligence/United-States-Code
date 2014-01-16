@@ -44,31 +44,31 @@ Effective Date of Election.—An election made by a person under subsection (a) 
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–84, §643(e)(1), substituted “Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement” for “Retirement from active reserve service performed after regular retirement” in section catchline.
+<b>2009</b>—Pub. L. 111–84, §643(e)(1), substituted "Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement" for "Retirement from active reserve service performed after regular retirement" in section catchline.
 
 Subsec. (a). Pub. L. 111–84, §643(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
-“(a)
+"(a)
 
 Election of Reserve Retired Pay.—A person who, after becoming entitled to retired or retainer pay under chapter 65, 367, 571, or 867 of this title, serves in an active status in a reserve component is entitled to retired pay under this chapter if—
 
-&emsp;“(1) the person would, but for paragraphs (3) and (4) of section 12731(a) of this title, otherwise be entitled to retired pay under this chapter;
+&emsp;"(1) the person would, but for paragraphs (3) and (4) of section 12731(a) of this title, otherwise be entitled to retired pay under this chapter;
 
-&emsp;“(2) the person elects under this section to receive retired pay under this chapter; and
+&emsp;"(2) the person elects under this section to receive retired pay under this chapter; and
 
-&emsp;“(3) the person's service in an active status after having become entitled to retired or retainer pay under that chapter is determined by the Secretary concerned to have been satisfactory.”
+&emsp;"(3) the person's service in an active status after having become entitled to retired or retainer pay under that chapter is determined by the Secretary concerned to have been satisfactory."
 
-Subsec. (b)(1). Pub. L. 111–84, §643(b), added par. (1) and struck out former par. (1) which read as follows:“terminate the person's entitlement to retired or retainer pay under the applicable chapter of this title referred to in subsection (a); and”.
+Subsec. (b)(1). Pub. L. 111–84, §643(b), added par. (1) and struck out former par. (1) which read as follows: "terminate the person's entitlement to retired or retainer pay under the applicable chapter of this title referred to in subsection (a); and".
 
-Subsec. (d)(1). Pub. L. 111–84, §643(c)(1), substituted “attains the eligibility age applicable to the person under section 12731(f) of this title” for “attains 60 years of age”.
+Subsec. (d)(1). Pub. L. 111–84, §643(c)(1), substituted "attains the eligibility age applicable to the person under section 12731(f) of this title" for "attains 60 years of age".
 
-Subsec. (d)(2)(A). Pub. L. 111–84, §643(c)(2), substituted “attains the eligibility age applicable to the person under such section” for “attains 60 years of age”.
+Subsec. (d)(2)(A). Pub. L. 111–84, §643(c)(2), substituted "attains the eligibility age applicable to the person under such section" for "attains 60 years of age".
 
-<b>2006</b>—Subsecs. (c), (d). Pub. L. 109–364 substituted “subsection (a)” for “subsection (b)”.
+<b>2006</b>—Subsecs. (c), (d). Pub. L. 109–364 substituted "subsection (a)" for "subsection (b)".
 
-<b>2001</b>—Subsec. (a)(2). Pub. L. 107–107 substituted “receive” for “received”.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–107 substituted "receive" for "received".
 
 #### Effective Date
 
-Pub. L. 106–398, §1 \[\[div. A\], title VI, §653(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, provided that: “Section 12741 of title 10, United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act \[Oct. 30, 2000\] and shall apply with respect to retired pay payable for months beginning on or after that effective date.”
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §653(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, provided that: "Section 12741 of title 10, United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act \[Oct. 30, 2000\] and shall apply with respect to retired pay payable for months beginning on or after that effective date."
 

@@ -22,7 +22,7 @@ Section 8102 requires the person responsible for the management of a vessel carr
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "100 gross tons".
 
 <b>1984</b>—Pub. L. 98–364 designated existing provisions as subsec. (a) and added subsec. (b).
 

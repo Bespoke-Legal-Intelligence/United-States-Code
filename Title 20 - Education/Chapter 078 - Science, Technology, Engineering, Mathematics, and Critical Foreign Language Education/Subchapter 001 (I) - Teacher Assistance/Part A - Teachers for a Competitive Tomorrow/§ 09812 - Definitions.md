@@ -4,15 +4,15 @@ In this part:
 
 #### (1) Children from low-income families
 
-&emsp;The term “children from low-income families” means children described in section 6333(c)(1)(A) of this title.
+&emsp;The term "children from low-income families" means children described in section 6333(c)(1)(A) of this title.
 
 #### (2) Eligible recipient
 
-&emsp;The term “eligible recipient” means an institution of higher education that receives grant funds under this part on behalf of a department of science, technology, engineering, mathematics, or a critical foreign language, or on behalf of a department or school with a competency-based degree program (in science, technology, engineering, mathematics, or a critical foreign language) that includes teacher certification, for use in carrying out activities assisted under this part.
+&emsp;The term "eligible recipient" means an institution of higher education that receives grant funds under this part on behalf of a department of science, technology, engineering, mathematics, or a critical foreign language, or on behalf of a department or school with a competency-based degree program (in science, technology, engineering, mathematics, or a critical foreign language) that includes teacher certification, for use in carrying out activities assisted under this part.
 
 #### (3) High-need local educational agency
 
-&emsp;The term “high-need local educational agency” means a local educational agency or educational service agency—
+&emsp;The term "high-need local educational agency" means a local educational agency or educational service agency—
 
 &emsp;&emsp;(A)(i) that serves not fewer than 10,000 children from low-income families;
 
@@ -26,11 +26,11 @@ In this part:
 
 #### (4) Highly qualified
 
-&emsp;The term “highly qualified” has the meaning given such term in section 7801 of this title and, with respect to special education teachers, in section 1401 of this title.
+&emsp;The term "highly qualified" has the meaning given such term in section 7801 of this title and, with respect to special education teachers, in section 1401 of this title.
 
 #### (5) Partnership
 
-&emsp;The term “partnership” means a partnership that—
+&emsp;The term "partnership" means a partnership that—
 
 &emsp;&emsp;(A) shall include—
 
@@ -48,7 +48,7 @@ In this part:
 
 #### (6) Teaching skills
 
-&emsp;The term “teaching skills” means the ability to—
+&emsp;The term "teaching skills" means the ability to—
 
 &emsp;&emsp;(A) increase student achievement and learning and increase a student's ability to apply knowledge;
 
@@ -60,7 +60,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(ii) are specific to academic subject matter; and
 
-&emsp;&emsp;&emsp;(iii) focus on the identification of students’ specific learning needs, particularly students with disabilities, students who are limited English proficient, students who are gifted and talented, and students with low literacy levels, and the tailoring of academic instruction to such needs;
+&emsp;&emsp;&emsp;(iii) focus on the identification of students' specific learning needs, particularly students with disabilities, students who are limited English proficient, students who are gifted and talented, and students with low literacy levels, and the tailoring of academic instruction to such needs;
 
 &emsp;&emsp;(D) conduct ongoing assessment of student learning;
 

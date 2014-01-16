@@ -2,7 +2,7 @@
 
 (a)
 
-Restrictions.—The Secretary of Transportation may prescribe a regulation or issue an order restricting the marketability, flexibility, accessibility, or variety of charter air transportation provided under a certificate issued under section 41102 of this title only to the extent required by the public interest. A regulation prescribed or order issued under this subsection may not be more restrictive than a regulation related to charter air transportation that was in effect on October 1, 1978.
+Restrictions.—The Secretary of Transportation may prescribe a regulation or issue an order restricting the marketability, flexibility,accessibility, or variety of charter air transportation provided under a certificate issued under section 41102 of this title only to the extent required by the public interest. A regulation prescribed or order issued under this subsection may not be more restrictive than a regulation related to charter air transportation that was in effect on October 1, 1978.
 
 (b)
 
@@ -22,7 +22,7 @@ In general.—Except as provided in paragraphs (3) and (4), an air carrier, incl
 
 &emsp;(2)
 
-Definition.—In this paragraph, the term “regularly scheduled charter air transportation” does not include operations for which the departure time, departure location, and arrival location are specifically negotiated with the customer or the customer's representative.
+Definition.—In this paragraph, the term "regularly scheduled charter air transportation" does not include operations for which the departure time, departure location, and arrival location are specifically negotiated with the customer or the customer's representative.
 
 &emsp;(3)
 
@@ -100,25 +100,25 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(n)(6); added July 10, 1962,
 
 49 App.:1551(b)(1)(E).
 
-In subsection (a), the word “rule” is omitted as being synonymous with “regulation”. The words “charter air transportation” are substituted for “charter trips” for consistency in this part. The text of 49 App.:1371(n)(4) and 1551(n)(1)(E) (related to 49 App.:1371(n)(4)) is omitted because inclusive tour charters have been abolished and charter air carriers have received authority to sell public charter flights directly to the public.
+In subsection (a), the word "rule" is omitted as being synonymous with "regulation". The words "charter air transportation" are substituted for "charter trips" for consistency in this part. The text of 49 App.:1371(n)(4) and 1551(n)(1)(E) (related to 49 App.:1371(n)(4)) is omitted because inclusive tour charters have been abolished and charter air carriers have received authority to sell public charter flights directly to the public.
 
-In subsection (b), before clause (1), the words “Notwithstanding any other provision of this subchapter” are omitted as surplus. The words “An air carrier holding” are added for clarity. The words “State of” are omitted as surplus. The word “modifying” is added for consistency in the revised title. The words “citizen of the United States” are substituted for “person” for clarity and consistency because only a citizen of the United States may be an “air carrier” as defined in section 40102(a) of the revised title.
+In subsection (b), before clause (1), the words "Notwithstanding any other provision of this subchapter" are omitted as surplus. The words "An air carrier holding" are added for clarity. The words "State of" are omitted as surplus. The word "modifying" is added for consistency in the revised title. The words "citizen of the United States" are substituted for "person" for clarity and consistency because only a citizen of theUnited States may be an "air carrier" as defined in section 40102(a) of the revised title.
 
-In subsection (c), the words “the requirements described in” are added for clarity.
+In subsection (c), the words "the requirements described in" are added for clarity.
 
 In subsection (c)(1), the text of 49 App.:1371(n)(6) is omitted as surplus because of 49:322(a).
 
-In subsection (c)(2), the word “amended” is added for consistency in the revised title.
+In subsection (c)(2), the word "amended" is added for consistency in the revised title.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(1). Pub. L. 108–176, §822(a), inserted a comma after “regularly scheduled charter air transportation”, substituted “paragraphs (3) and (4)” for “paragraph (3)” and “flight, to or from an airport that—” for “flight unless such air transportation is to and from an airport that has an airport operating certificate issued under part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulation).”, and added subpars. (A) and (B).
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–176, §822(a), inserted a comma after "regularly scheduled charter air transportation", substituted "paragraphs (3) and (4)" for "paragraph (3)" and "flight, to or from an airport that—" for "flight unless such air transportation is to and from an airport that has an airport operating certificate issued under part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulation).", and added subpars. (A) and (B).
 
 Subsec. (b)(4). Pub. L. 108–176, §822(b), added par. (4).
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–181, §723(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (b)(1). Pub. L. 106–528, §8(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “An air carrier, including an indirect air carrier, which operates aircraft designed for more than nine passenger seats, may not provide regularly scheduled charter air transportation for which the general public is provided in advance a schedule containing the departure location, departure time, and arrival location of the flights to or from an airport that is not located in Alaska and that does not have an operating certificate issued under part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulations).”
+Subsec. (b)(1). Pub. L. 106–528, §8(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "An air carrier, including an indirect air carrier, which operates aircraft designed for more than nine passenger seats, may not provide regularly scheduled charter air transportation for which the general public is provided in advance a schedule containing the departure location, departure time, and arrival location of the flights to or from an airport that is not located in Alaska and that does not have an operating certificate issued under part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulations)."
 
 Subsec. (b)(3). Pub. L. 106–528, §8(c)(2), added par. (3).
 

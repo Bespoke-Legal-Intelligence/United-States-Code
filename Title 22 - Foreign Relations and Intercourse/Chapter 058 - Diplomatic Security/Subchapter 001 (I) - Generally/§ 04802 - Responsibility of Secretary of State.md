@@ -86,7 +86,7 @@ The Secretary of State shall—
 
 #### (d) Federal agency
 
-As used in this subchapter and subchapter III of this chapter, the term “Federal agency” includes any department or agency of the United States Government.
+As used in this subchapter and subchapter III of this chapter, the term "Federal agency" includes any department or agency of the United States Government.
 
 (Pub. L. 99–399, title I, §103, Aug. 27, 1986, 100 Stat. 856; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 100–461, title II, §201, Oct. 1, 1988, 102 Stat. 2268–10; Pub. L. 101–246, title I, §115(b), Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §162(g)(2), Apr. 30, 1994, 108 Stat. 406; Pub. L. 103–415, §1(f)(4)(A)(i), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 107–228, div. A, title V, §505(a), Sept. 30, 2002, 116 Stat. 1393.)
 
@@ -98,17 +98,17 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(G), is Pub. L.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–228 inserted “Voice of America correspondents on official assignment and” after “abroad (other than”.
+<b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–228 inserted "Voice of America correspondents on official assignment and" after "abroad (other than".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–415 substituted “operation” for “operations” in par. (2)(B)(i).
+<b>1994</b>—Subsec. (a). Pub. L. 103–415 substituted "operation" for "operations" in par. (2)(B)(i).
 
 Pub. L. 103–236 designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
 
 <b>1990</b>—Subsecs. (b) to (d). Pub. L. 101–246 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–461 inserted “or regional inspector general offices under the jurisdiction of the inspector General, Agency for International Development” after “commander”, and substituted a period for “; and” at end.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–461 inserted "or regional inspector general offices under the jurisdiction of the inspector General, Agency for International Development" after "commander", and substituted a period for "; and" at end.
 
-Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: “establish, notwithstanding any other provision of law, appropriate overseas staffing levels of the Regional Offices of the Inspector General of the Agency for International Development in effective consultation with the Inspector General of the Agency: <i>Provided</i>, That the authority of the Secretary of State shall be exercised only by the Secretary and shall not be delegated to a subordinate officer of the Department of State: <i>Provided further</i>, That the Inspector General must report to the appropriate committees of both Houses of the Congress within thirty days the denial by the Secretary of State of a request by the Inspector General to increase or reduce an existing position level of a regional office: <i>Provided further</i>, That the total number of positions authorized for the Office of the Inspector General in Washington and overseas shall be determined by the Inspector General within the limitation of the appropriations level provided.”
+Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: "establish, notwithstanding any other provision of law, appropriate overseas staffing levels of the Regional Offices of the Inspector General of the Agency for International Development in effective consultation with the Inspector General of the Agency: <i>Provided</i>, That the authority of the Secretary of State shall be exercised only by the Secretary and shall not be delegated to a subordinate officer of the Department of State: <i>Provided further</i>, That the Inspector General must report to the appropriate committees of both Houses of the Congress within thirty days the denial by the Secretary of State of a request by the Inspector General to increase or reduce an existing position level of a regional office: <i>Provided further</i>, That the total number of positions authorized for the Office of the Inspector General in Washington and overseas shall be determined by the Inspector General within the limitation of the appropriations level provided."
 
 <b>1987</b>—Subsec. (b)(3). Pub. L. 100–202 added par. (3).
 
@@ -120,35 +120,35 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 Pub. L. 100–204, title I, §155, Dec. 22, 1987, 101 Stat. 1353, provided that:
 
-“(a)
+"(a)
 
 Special Security Program.—The Secretary of State shall develop and implement, within three months after the date of enactment of this Act \[Dec. 22, 1987\], a special personnel security program for personnel of the Department of State assigned to United States diplomatic and consular posts in high intelligence threat countries who are responsible for security at those posts and for any individuals performing guard functions at those posts. Such program shall include—
 
-&emsp;“(1) selection criteria and screening to ensure suitability for assignment to high intelligence threat countries;
+&emsp;"(1) selection criteria and screening to ensure suitability for assignment to high intelligence threat countries;
 
-&emsp;“(2) counterintelligence awareness and related training;
+&emsp;"(2) counterintelligence awareness and related training;
 
-&emsp;“(3) security reporting and command arrangements designed to counter intelligence threats; and
+&emsp;"(3) security reporting and command arrangements designed to counter intelligence threats; and
 
-&emsp;“(4) length of duty criteria and policies regarding rest and recuperative absences.
+&emsp;"(4) length of duty criteria and policies regarding rest and recuperative absences.
 
-“(b)
+"(b)
 
 Report to Congress.—Not later than 6 months after the date of enactment of this subsection \[Dec. 22, 1987\], the Secretary of State shall report to the Congress on the special personnel security program required by subsection (a).
 
-“(c)
+"(c)
 
-Definition.—As used in subsection (a), the term ‘high intelligence threat country’ means—
+Definition.—As used in subsection (a), the term 'high intelligence threat country' means—
 
-&emsp;“(1) a country listed as a Communist country in section 620(f) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2370(f)\]; and
+&emsp;"(1) a country listed as a Communist country in section 620(f) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2370(f)\]; and
 
-&emsp;“(2) any other country designated as a high intelligence threat country for purposes of this section by the Secretary of State, the Secretary of Defense, the Director of Central Intelligence, or the Director of the Federal Bureau of Investigation.”
+&emsp;"(2) any other country designated as a high intelligence threat country for purposes of this section by the Secretary of State, the Secretary of Defense, the Director of Central Intelligence, or the Director of the Federal Bureau of Investigation."
 
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “; and”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "; and".</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -34,13 +34,13 @@
 
 &emsp;(C) annual outside audits of the gaming, which may be encompassed within existing independent tribal audit systems, will be provided by the Indian tribe to the Commission;
 
-&emsp;(D) all contracts for supplies, services, or concessions for a contract amount in excess of $25,000 annually (except contracts for professional legal or accounting services) relating to such gaming shall be subject to such independent audits;
+&emsp;(D) all contracts for supplies, services, or concessions for a contract amount in excess of$25,000 annually (except contracts for professional legal or accounting services) relating to such gaming shall be subject to such independent audits;
 
 &emsp;(E) the construction and maintenance of the gaming facility, and the operation of that gaming is conducted in a manner which adequately protects the environment and the public health and safety; and
 
 &emsp;(F) there is an adequate system which—
 
-&emsp;&emsp;(i) ensures that background investigations are conducted on the primary management officials and key employees of the gamingenterprise and that oversight of such officials and their management is conducted on an ongoing basis; and
+&emsp;&emsp;(i) ensures that background investigations are conducted on the primary management officials and key employees of the gaming enterprise and that oversight of such officials and their management is conducted on an ongoing basis; and
 
 &emsp;&emsp;(ii) includes—
 
@@ -160,7 +160,7 @@
 
 (3)(A) Any Indian tribe having jurisdiction over the Indian lands upon which a class III gaming activity is being conducted, or is to be conducted, shall request the State in which such lands are located to enter into negotiations for the purpose of entering into a Tribal-State compact governing the conduct of gaming activities. Upon receiving such a request, the State shall negotiate with the Indian tribe in good faith to enter into such a compact.
 
-(B) Any State and any Indian tribe may enter into a Tribal-State compact governing gaming activities on the Indian lands of the Indian tribe, but such compact shall take effect only when notice of approval by the Secretary of such compact has been published by the Secretary in the Federal Register.
+(B) Any State and any Indian tribe may enter into a Tribal-State compact governing gaming activities on the Indian lands of the Indian tribe, but such compact shall take effect onlywhen notice of approval by the Secretary of such compact has been published by the Secretary in the Federal Register.
 
 (C) Any Tribal-State compact negotiated under subparagraph (A) may include provisions relating to—
 
@@ -245,6 +245,10 @@
 For purposes of this section, by not later than the date that is 90 days after the date on which any tribal gaming ordinance or resolution is submitted to the Chairman, the Chairman shall approve such ordinance or resolution if it meets the requirements of this section. Any such ordinance or resolution not acted upon at the end of that 90-day period shall be considered to have been approved by the Chairman, but only to the extent such ordinance or resolution is consistent with the provisions of this chapter.
 
 (Pub. L. 100–497, §11, Oct. 17, 1988, 102 Stat. 2472.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a), (d)(7)(B)(iv), (vii)(I), (8)(B)(i), (C), and (e), was in the original "this Act", meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Constitutionality
 

@@ -19,9 +19,9 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–403, title I, §101(b)(2), Oct. 13, 2008, 122 Stat. 4258, inserted “civil” before “infringement” in item 411.
+<b>2008</b>—Pub. L. 110–403, title I, §101(b)(2), Oct. 13, 2008, 122 Stat. 4258, inserted "civil" before "infringement" in item 411.
 
-<b>1988</b>—Pub. L. 100–568, §§7(g), 9(b)(2), Oct. 31, 1988, 102 Stat. 2859, inserted in items 405 and 406 “on certain copies and phonorecords” and substituted in item 411 “Registration and infringement actions” for “Registration as prerequisite to infringement suit”.
+<b>1988</b>—Pub. L. 100–568, §§7(g), 9(b)(2), Oct. 31, 1988, 102 Stat. 2859, inserted in items 405 and 406 "on certain copies and phonorecords" and substituted in item 411 "Registration and infringement actions" for "Registration as prerequisite to infringement suit".
 
 
 ---

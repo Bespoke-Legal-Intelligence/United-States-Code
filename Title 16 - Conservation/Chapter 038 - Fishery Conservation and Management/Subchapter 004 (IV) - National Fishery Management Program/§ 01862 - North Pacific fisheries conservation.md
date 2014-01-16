@@ -22,7 +22,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 (2) Any system of fees established under this section shall—
 
-&emsp;(A) provide that the total amount of fees collected under this section not exceed the combined cost of (i) stationing observers, or electronic monitoring systems, on board fishing vessels and United States fish processors, (ii) the actual cost of inputting collected data, and (iii) assessments necessary for a risk-sharing pool implemented under subsection (e) of this section, less any amount received for such purpose from another source or from an existing surplus in the North Pacific Fishery Observer Fund established in subsection (d) of this section;
+&emsp;(A) provide that the total amount of fees collected under this section not exceed the combined cost of (i) stationing observers, orelectronic monitoring systems, on board fishing vessels and United States fish processors, (ii) the actual cost of inputting collected data, and (iii) assessments necessary for a risk-sharing pool implemented under subsection (e) of this section, less any amount received for such purpose from another source or from an existing surplus in the North Pacific Fishery Observer Fund established in subsection (d) of this section;
 
 &emsp;(B) be fair and equitable to all participants in the fisheries under the jurisdiction of the Council, including the Northern Pacific halibut fishery;
 
@@ -54,7 +54,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 #### (d) Fishery Observer Fund
 
-There is established in the Treasury a North Pacific Fishery Observer Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purpose of carrying out the provisions of thissection, subject to the restrictions in subsection (b)(2) of this section. The Fund shall consist of all monies deposited into it in accordance with this section. Sums in the Fund that are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+There is established in the Treasury a North Pacific Fishery Observer Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purpose of carrying out the provisions of this section, subject to the restrictions in subsection (b)(2) of this section. The Fund shall consist of all monies deposited into it in accordance with this section. Sums in the Fund that are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
 #### (e) Special provisions regarding observers
 
@@ -76,7 +76,7 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 #### (g) Bycatch reduction incentives
 
-(1) Notwithstanding section 1854(d) of this title, the North Pacific Council may submit, and the Secretary may approve, consistent with the provisions of this chapter, a system of fines in a fishery to provide incentives to reduce bycatch and bycatch rates; except that such fines shall not exceed $25,000 per vessel per season. Any fines collected shall be deposited in the North Pacific Fishery Observer Fund, and may be made available by the Secretary to offset costs related to the reduction of bycatch in the fishery from which such fines were derived, including conservation and management measures and research, and to the State of Alaska to offset costs incurred by the State in the fishery from which such penalties were derived or in fisheries in which the State is directly involved in management or enforcement and which are directly affected by the fishery from which such penalties were derived.
+(1) Notwithstanding section 1854(d) of this title, the North Pacific Council may submit, and the Secretary may approve, consistent with the provisions of this chapter, a system of fines in a fishery to provide incentives to reduce bycatch and bycatch rates; except that such fines shall not exceed $25,000 per vessel per season. Any fines collected shall be deposited in the North Pacific Fishery Observer Fund, and may be made available by the Secretary to offset costs related to the reduction of bycatch in the fishery from which such fines were derived, including conservation and management measures andresearch, and to the State of Alaska to offset costs incurred by the State in the fishery from which such penalties were derived or in fisheries in which the State is directly involved in management or enforcement and which are directly affected by the fishery from which such penalties were derived.
 
 (2)(A) Notwithstanding section 1853(d) of this title, and in addition to the authority provided in section 1853(b)(10) of this title, the North Pacific Council may submit, and the Secretary may approve, conservation and management measures which provide allocations of regulatory discards to individual fishing vessels as an incentive to reduce per vessel bycatch and bycatch rates in a fishery, <i>Provided</i>, That—
 
@@ -96,13 +96,13 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (1) The North Pacific Council shall submit to the Secretary by October 1, 1998 a report on the advisability of requiring the full retention by fishing vessels and full utilization by United States fish processors of economic discards in fisheries under its jurisdiction if such economic discards, or the mortality of such economic discards, cannot be avoided. The report shall address the projected impacts of such requirements on participants in the fishery and describe any full retention and full utilization requirements that have been implemented.
 
-(2) The report shall address the advisability of measures to minimize processing waste, including standards setting minimum percentages which must be processed for human consumption. For the purpose of the report, “processing waste” means that portion of any fish which is processed and which could be used for human consumption or other commercial use, but which is not so used.
+(2) The report shall address the advisability of measures to minimize processing waste, including standards setting minimum percentages which must be processed for human consumption. For the purpose of the report, "processing waste" means that portion of any fish which is processed and which could be used for human consumption or other commercial use, but which is not so used.
 
 #### (j) Bering Sea and Aleutian Islands crab rationalization
 
-(1) By not later than January 1, 2005, the Secretary shall approve and hereafter <sup>2</sup> implement by regulation the Voluntary Three-Pie Cooperative Program for crab fisheries of the Bering Sea and Aleutian Islands approved by the North Pacific Fishery Management Council between June 2002 and April 2003, and all trailing amendmentsincluding those reported to Congress on May 6, 2003. This section shall not preclude the Secretary from approving by January 1, 2005, and implementing any subsequent program amendments approved by the Council.
+(1) By not later than January 1, 2005, the Secretary shall approve and hereafter <sup>2</sup> implement by regulation the Voluntary Three-Pie Cooperative Program for crab fisheries of the Bering Sea and Aleutian Islands approved by the North Pacific Fishery Management Council between June 2002 and April 2003, and all trailing amendments including those reported to Congress on May 6, 2003. This section shall not preclude the Secretary from approving by January 1, 2005, and implementing any subsequent program amendments approved by the Council.
 
-(2) Notwithstanding any other provision of this chapter, in carrying out paragraph (1) the Secretary shall approve all parts of the Program referred to in such paragraph. Further, no part of such Program may be implemented if, as approved by the North Pacific Fishery Management Council, individual fishing quotas, processing quotas, community development quota allocation, voluntary cooperatives, binding arbitration, regional landing and processing requirements, community protections, economic data collection, or the loan program for crab fishing vessel captains and crew members, is invalidated subject to a judicial determination not subject to judicial appeal. If the Secretary determines that a processor has leveraged its Individual Processor Quota shares to acquire a harvesters open-delivery “B shares”, the processor's Individual Processor Quota shares shall be forfeited.
+(2) Notwithstanding any other provision of this chapter, in carrying out paragraph (1) the Secretary shall approve all parts of the Program referred to in such paragraph. Further, no part of such Program may be implemented if, as approved by the North Pacific Fishery Management Council, individual fishing quotas, processing quotas, community development quota allocation, voluntary cooperatives, binding arbitration, regional landing and processing requirements, community protections, economic data collection, or the loan program for crab fishing vessel captains and crew members, is invalidated subject to a judicial determination not subject to judicial appeal. If the Secretary determines that a processor has leveraged its Individual Processor Quota shares to acquire a harvesters open-delivery "B shares", the processor's Individual Processor Quota shares shall be forfeited.
 
 (3) Subsequent to implementation pursuant to paragraph (1), the Council may submit and the Secretary may implement changes to or repeal of conservation and management measures, including measures authorized in this section, for crab fisheries of the Bering Sea and Aleutian Islands in accordance with applicable law, including this chapter as amended by this subsection, to achieve on a continuing basis the purposes identified by the Council.
 
@@ -122,41 +122,41 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 #### References in Text
 
-This chapter, referred to in subsecs. (g)(1), (h)(1), and (j)(2), (3), (6), (7), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (g)(1), (h)(1), and (j)(2), (3), (6), (7), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Hereafter, referred to in subsec. (j)(1), probably means on and after the date of enactment of Pub. L. 108–199, which enacted subsec. (j) of this section and was approved Jan. 23, 2004.
 
 #### Codification
 
-In subsec. (j)(4), “sections 53735 and 53702(b) of title 46” substituted for “sections 1111 and 1112 of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f, 1279g)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 53702 and 53735 of Title 46, Shipping.
+In subsec. (j)(4), "sections 53735 and 53702(b) of title 46" substituted for "sections 1111 and 1112 of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f, 1279g)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 53702 and 53735 of Title 46, Shipping.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 109–479, §214(1), substituted “any fishery under the Council's jurisdiction except a salmon fishery” for “all fisheries under the Council's jurisdiction except salmon fisheries” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 109–479, §214(1), substituted "any fishery under the Council's jurisdiction except a salmon fishery" for "all fisheries under the Council's jurisdiction except salmon fisheries" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 109–479, §214(2), added par. (2) and struck out former par. (2) which read as follows: “establishes a system of fees to pay for the costs of implementing the plan.”
+Subsec. (a)(2). Pub. L. 109–479, §214(2), added par. (2) and struck out former par. (2) which read as follows: "establishes a system of fees to pay for the costs of implementing the plan."
 
-Subsec. (b)(2)(A). Pub. L. 109–479, §214(3), substituted “observers, or electronic monitoring systems,” for “observers”.
+Subsec. (b)(2)(A). Pub. L. 109–479, §214(3), substituted "observers, or electronic monitoring systems," for "observers".
 
-Subsec. (b)(2)(E). Pub. L. 109–479, §214(4), inserted “a fixed amount reflecting actual observer costs as described in subparagraph (A) or” after “expressed as”.
+Subsec. (b)(2)(E). Pub. L. 109–479, §214(4), inserted "a fixed amount reflecting actual observer costs as described in subparagraph (A) or" after "expressed as".
 
-Subsec. (b)(2)(F). Pub. L. 109–479, §214(5), (6), inserted “some or” after “against” and “or an electronic monitoring system” after “observer”.
+Subsec. (b)(2)(F). Pub. L. 109–479, §214(5), (6), inserted "some or" after "against" and "or an electronic monitoring system" after "observer".
 
 Subsec. (b)(2)(I), (J). Pub. L. 109–479, §214(7), (8), added subpar. (I) and redesignated former subpar. (I) as (J).
 
 <b>2004</b>—Subsec. (j). Pub. L. 108–199 added subsec. (j).
 
-<b>1996</b>—Pub. L. 104–297, §117(a)(1), substituted “conservation” for “research plan” in section catchline.
+<b>1996</b>—Pub. L. 104–297, §117(a)(1), substituted "conservation" for "research plan" in section catchline.
 
-Subsec. (a). Pub. L. 104–297, §117(a)(2), substituted “North Pacific Council” for “North Pacific Fishery Management Council” in introductory provisions.
+Subsec. (a). Pub. L. 104–297, §117(a)(2), substituted "North Pacific Council" for "North Pacific Fishery Management Council" in introductory provisions.
 
 Subsecs. (f) to (i). Pub. L. 104–297, §117(a)(3), added subsecs. (f) to (i).
 
-<b>1992</b>—Subsec. (b)(2)(E). Pub. L. 102–582 substituted “2 percent, of the unprocessed ex-vessel” for “one percentum, of the”.
+<b>1992</b>—Subsec. (b)(2)(E). Pub. L. 102–582 substituted "2 percent, of the unprocessed ex-vessel" for "one percentum, of the".
 
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be section “1857(1)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be section "1857(1)".</i>
 

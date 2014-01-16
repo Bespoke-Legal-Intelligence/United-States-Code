@@ -8,7 +8,7 @@
 
 (C) Whenever commodities are made available to agencies pursuant to section 311(a)(4) <sup>1</sup> of the Older Americans Act of 1965, the Secretary shall encourage access to processed end products containing the commodities when in the Secretary's judgment it is cost effective. The requirements of this subparagraph shall be met in the most efficient and effective way possible. The Secretary may, among other alternatives, use direct purchase, State option contracts authorized under section 3A of the Commodity Distribution Reform Act and WIC Amendments of 1987 (Public Law 100–237; 7 U.S.C. 612c note), State processing programs, and (beginning in fiscal year 1994) agreements with private companies operated as a part of the national commodity processing program.
 
-(D) In each of fiscal years 1992, 1993, and 1994, the Secretary shall conduct a pilot project in not more than three States under which any commodity made available to agencies pursuant to section 311(a)(4) <sup>1</sup> of the Older Americans Act of 1965 that the Secretary determines to be appropriate for reprocessing is made available to the agencies as reprocessed end products. The reprocessing shall be performed pursuant to agreements with private companies, at the expense of the agencies, and operated as part of the national commodity processing program established under subparagraph (A). In determining the appropriateness of the commodities to be reprocessed under the pilot project, the Secretary shall consider the common needs of the agencies and the availability of processors.
+(D) In each of fiscal years 1992, 1993, and 1994, the Secretary shall conduct a pilot project innot more than three States under which any commodity made available to agencies pursuant to section 311(a)(4) <sup>1</sup> of the Older Americans Act of 1965 that the Secretary determines to be appropriate for reprocessing is made available to the agencies as reprocessed end products. The reprocessing shall be performed pursuant to agreements with private companies, at the expense of the agencies, and operated as part of the national commodity processing program established under subparagraph (A). In determining the appropriateness of the commodities to be reprocessed under the pilot project, the Secretary shall consider the common needs of the agencies and the availability of processors.
 
 (Pub. L. 97–98, title XI, §1114(a), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 99–198, title XV, §1567(a), (b), Dec. 23, 1985, 99 Stat. 1591, 1592; Pub. L. 100–237, §6, Jan. 8, 1988, 101 Stat. 1740; Pub. L. 101–624, title XVII, §1775, Nov. 28, 1990, 104 Stat. 3813; Pub. L. 102–237, title IX, §921, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 104–127, title IV, §405, Apr. 4, 1996, 110 Stat. 1029; Pub. L. 107–171, title IV, §4203, May 13, 2002, 116 Stat. 330; Pub. L. 110–234, title IV, §4406(b)(4), May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, §4(a), title IV, §4406(b)(4), June 18, 2008, 122 Stat. 1664, 1903.)
 
@@ -24,25 +24,25 @@ Section was enacted as part of the Agriculture and Food Act of 1981, and not as 
 
 #### Amendments
 
-<b>2008</b>—Par. (2)(A). Pub. L. 110–246, §4406(b)(4), substituted “For each of fiscal years 2008 through 2012” for “Effective through September 30, 2007”.
+<b>2008</b>—Par. (2)(A). Pub. L. 110–246, §4406(b)(4), substituted "For each of fiscal years 2008 through 2012" for "Effective through September 30, 2007".
 
-<b>2002</b>—Par. (2)(A). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Par. (2)(A). Pub. L. 107–171 substituted "2007" for "2002".
 
-<b>1996</b>—Par. (2)(A). Pub. L. 104–127 substituted “2002” for “1995”.
+<b>1996</b>—Par. (2)(A). Pub. L. 104–127 substituted "2002" for "1995".
 
-<b>1991</b>—Par. (2)(D). Pub. L. 102–237 substituted “1992, 1993, and 1994” for “1992 and 1993”.
+<b>1991</b>—Par. (2)(D). Pub. L. 102–237 substituted "1992, 1993, and 1994" for "1992 and 1993".
 
-<b>1990</b>—Par. (2)(A). Pub. L. 101–624, §1775(a), substituted “1995” for “1990”.
+<b>1990</b>—Par. (2)(A). Pub. L. 101–624, §1775(a), substituted "1995" for "1990".
 
 Par. (2)(C), (D). Pub. L. 101–624, §1775(b), added subpars. (C) and (D).
 
-<b>1988</b>—Par. (2)(A). Pub. L. 100–237 substituted “September 30, 1990” for “June 30, 1987”.
+<b>1988</b>—Par. (2)(A). Pub. L. 100–237 substituted "September 30, 1990" for "June 30, 1987".
 
 <b>1985</b>—Pub. L. 99–198 designated existing provisions as par. (1), inserted provision directing that commodities made available under this section include, but not be limited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal, and added par. (2).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 4406(b)(4) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
@@ -60,7 +60,7 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 #### National Donated Commodity Processing Programs
 
-Pub. L. 99–500, title III, §364, Oct. 18, 1986, 100 Stat. 1783–368, and Pub. L. 99–591, title III, §364, Oct. 30, 1986, 100 Stat. 3341–371; Pub. L. 99–661, div. D, title IV, §4404, Nov. 14, 1986, 100 Stat. 4079, provided that: “In accordance with the terms and conditions of section 1114(a)(2) of the Agriculture and Food Act of 1981 (7 U.S.C. 1431e(a)(2)), whenever a commodity is made available without charge or credit under any nutrition program administered by the Secretary of Agriculture, the Secretary shall encourage consumption of the commodity through agreements with private companies under which the commodity is reprocessed into end-food products for use by eligible recipient agencies.”
+Pub. L. 99–500, title III, §364, Oct. 18, 1986, 100 Stat. 1783–368, and Pub. L. 99–591, title III, §364, Oct. 30, 1986, 100 Stat. 3341–371; Pub. L. 99–661, div. D, title IV, §4404, Nov. 14, 1986, 100 Stat. 4079, provided that: "In accordance with the terms and conditions of section 1114(a)(2) of the Agriculture and Food Act of 1981 (7 U.S.C. 1431e(a)(2)), whenever a commodity is made available without charge or credit under any nutrition program administered by the Secretary of Agriculture, the Secretary shall encourage consumption of the commodity through agreements with private companies under which the commodity is reprocessed into end-food products for use by eligible recipient agencies."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

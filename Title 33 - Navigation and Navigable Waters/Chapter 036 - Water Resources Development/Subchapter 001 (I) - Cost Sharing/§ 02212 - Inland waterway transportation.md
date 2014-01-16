@@ -10,7 +10,7 @@ One-half of the costs of construction—
 
 &emsp;(3) allocated to inland navigation for the project authorized by section 844 of this Act,
 
-> shall be paid only from amounts appropriated from the general fund of the Treasury. One-half of such costs shall be paid only from amounts appropriated from the Inland Waterways Trust Fund. For purposes of this subsection, the term “construction” shall include planning, designing, engineering, surveying, the acquisition of all lands, easements, and rights-of-way necessary for the project, including lands for disposal of dredged material, and relocations necessary for the project.
+> shall be paid only from amounts appropriated from the general fund of the Treasury. One-half of such costs shall be paid only from amounts appropriated from the Inland Waterways Trust Fund. For purposes of this subsection, the term "construction" shall include planning, designing, engineering, surveying, the acquisition of all lands, easements, and rights-of-way necessary for the project, including lands for disposal of dredged material, and relocations necessary for the project.
 
 #### (b) Operation and maintenance
 

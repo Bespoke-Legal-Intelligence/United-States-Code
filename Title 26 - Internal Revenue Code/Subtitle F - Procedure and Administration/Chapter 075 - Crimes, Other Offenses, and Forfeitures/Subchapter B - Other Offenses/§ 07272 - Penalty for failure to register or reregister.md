@@ -12,17 +12,17 @@ Any person (other than persons required to register under subtitle E, or persons
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–59, §11164(b)(3)(B), inserted “or reregister” after “register” in section catchline.
+<b>2005</b>—Pub. L. 109–59, §11164(b)(3)(B), inserted "or reregister" after "register" in section catchline.
 
-Subsec. (a). Pub. L. 109–59, §11164(b)(3)(A), inserted “or reregister” after “failure to register”.
+Subsec. (a). Pub. L. 109–59, §11164(b)(3)(A), inserted "or reregister" after "failure to register".
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–357 inserted “($10,000 in the case of a failure to register under section 4101)” after “$50”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–357 inserted "($10,000 in the case of a failure to register under section 4101)" after "$50".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (b). Pub. L. 94–455, §§1904(b)(8)(F), 1906(a)(42), struck out “4722, 4753, 4804(d),” after “4412,”.
+Subsec. (b). Pub. L. 94–455, §§1904(b)(8)(F), 1906(a)(42), struck out "4722, 4753, 4804(d)," after "4412,".
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–44 struck out “4455,” after “4412,”.
+<b>1965</b>—Subsec. (b). Pub. L. 89–44 struck out "4455," after "4412,".
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–859, §204(6), excluded persons required to register under subtitle E and persons engaging in a trade or business on which a special tax is imposed by such subtitle.
 

@@ -32,17 +32,17 @@ Sept. 19, 1951, ch. 407, §§308, 309, 65 Stat. 332.
 
 10:1839.
 
-In subsection (b), the words “from time to time” are omitted as surplusage.
+In subsection (b), the words "from time to time" are omitted as surplusage.
 
-In subsection (d), the words “have the duties and powers” are substituted for the words “shall perform such duties and exercise such powers”. The words “of America”, “elements of”, “other provisions of”, and “so assigned” are omitted as surplusage.
+In subsection (d), the words "have the duties and powers" are substituted for the words "shall perform such duties and exercise such powers". The words "of America", "elements of", "other provisions of", and "so assigned" are omitted as surplusage.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–163 struck out “its Territories,” after “the United States,”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 struck out "its Territories," after "the United States,".
 
-<b>2001</b>—Subsec. (c). Pub. L. 107–107 struck out subsec. (c) which read as follows: “The Military Air Transport Service is redesignated as the Military Airlift Command.”
+<b>2001</b>—Subsec. (c). Pub. L. 107–107 struck out subsec. (c) which read as follows: "The Military Air Transport Service is redesignated as the Military Airlift Command."
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–433 substituted “Except as otherwise prescribed by law or by the Secretary of Defense, the” for “The”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–433 substituted "Except as otherwise prescribed by law or by the Secretary of Defense, the" for "The".
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–37 added subsec. (c).
 
@@ -52,5 +52,5 @@ Subsecs. (b) to (d). Pub. L. 85–599, §4(f)(2), redesignated subsec. (d) as (b
 
 #### Effective Date of 1965 Amendment
 
-Pub. L. 89–37, title III, §306(b), June 11, 1965, 79 Stat. 129, provided that: “The amendment made by subsection (a) of this section \[adding subsec. (c)\] shall become effective January 1, 1966.”
+Pub. L. 89–37, title III, §306(b), June 11, 1965, 79 Stat. 129, provided that: "The amendment made by subsection (a) of this section \[adding subsec. (c)\] shall become effective January 1, 1966."
 

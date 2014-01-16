@@ -1,6 +1,6 @@
 ### §7113. National consultation rights
 
-(a) If, in connection with any agency, no labor organization has been accorded exclusive recognition on an agency basis, a labor organization which is the exclusive representative of a substantial number of the employees of the agency, as determined in accordance with criteria prescribed by the Authority, shall be granted national consultation rights by the agency. National consultation rights shall terminate when the labor organization no longer meets the criteria prescribed by the Authority. Any issue relating to any labor organization's eligibility for, or continuation of, national consultation rights shall be subject to determination by the Authority.
+(a) If, in connection with any agency, no labor organization has been accorded exclusive recognition on an agency basis, a labor organization which is the exclusive representative of a substantial number of the employees of the agency, as determined in accordance with criteria prescribed by the Authority, shall begranted national consultation rights by the agency. National consultation rights shall terminate when the labor organization no longer meets the criteria prescribed by the Authority. Any issue relating to any labor organization's eligibility for, or continuation of, national consultation rights shall be subject to determination by the Authority.
 
 (b)(1) Any labor organization having national consultation rights in connection with any agency under subsection (a) of this section shall—
 

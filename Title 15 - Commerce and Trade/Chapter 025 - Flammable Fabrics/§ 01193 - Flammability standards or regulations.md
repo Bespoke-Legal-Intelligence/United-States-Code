@@ -6,7 +6,7 @@ Whenever the Commission finds on the basis of the investigations or research con
 
 #### (b) Necessary findings; effective date; exemptions
 
-Each standard, regulation, or amendment thereto promulgated pursuant to this section shall be based on findings that such standard, regulation, or amendment thereto is needed to adequately protect the public against unreasonable risk of the occurrence of fire leading to death, injury, or significant property damage, is reasonable, technologically practicable, and appropriate, is limited to such fabrics, related materials, or products which have been determined to present such unreasonable risks, and shall be stated in objective terms. Each such standard, regulation, or amendment thereto, shall become effective twelve months from the date on which such standard, regulation, or amendment is promulgated, unless the Commission finds for good cause shown that an earlier or later effective date is in the public interest and publishes the reason for such finding. Each such standard or regulation or amendment thereto shall exempt fabrics related materials, or products in inventory or with the trade as of the date on which the standard, regulation, or amendment thereto, becomes effective except that, if the Commission finds that any such fabric, related material, or product is so highly flammable as to be dangerous when used by consumers for the purpose for which it is intended, it may under such conditions as the Commission may prescribe, withdraw, or limit the exemption for such fabric, related material, or product.
+Each standard, regulation, or amendment thereto promulgated pursuant to this section shall be based on findings that such standard, regulation, or amendment thereto is needed to adequately protect the public against unreasonable risk of the occurrence of fire leading to death, injury, or significant property damage, is reasonable, technologically practicable, and appropriate, is limited to such fabrics, related materials, or products which have been determined to present such unreasonable risks, and shall be stated in objective terms. Each such standard, regulation, or amendment thereto, shall become effective twelve months from the date on which such standard, regulation, or amendment is promulgated, unless the Commission finds for good cause shown that an earlier or later effective date is in the public interest and publishes the reason for such finding. Each such standard or regulation or amendment thereto shall exemptfabrics related materials, or products in inventory or with the trade as of the date on which the standard, regulation, or amendment thereto, becomes effective except that, if the Commission finds that any such fabric, related material, or product is so highly flammable as to be dangerous when used by consumers for the purpose for which it is intended, it may under such conditions as the Commission may prescribe, withdraw, or limit the exemption for such fabric, related material, or product.
 
 #### (c) Collection of information by Commission; confidential status of trade secrets and related information; disclosure of confidential information
 
@@ -22,7 +22,7 @@ Standards, regulations, and amendments to standards and regulations under this s
 
 (2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Commission, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, and its recommendations, if any, for the modification or setting aside of its original standard or regulation or amendment thereto, with the return of such additional evidence.
 
-(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the court shall have jurisdiction to review the standard or regulation in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. The standard or regulation shall not be affirmed unless the findings required by the first sentence of subsection (b) of this section are supported by substantial evidence on the record taken as a whole. For purposes of this paragraph, the term “record” means the standard or regulation, any notice published with respect to the promulgation of such standard or regulation, the transcript required by subsection (d) of this section of any oral presentation, any written submission of interested parties, and any other information which the Commission considers relevant to such standard or regulation.
+(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the court shall have jurisdiction to review the standard or regulation in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. The standard or regulation shall not be affirmed unless the findings required by the first sentence of subsection (b) of this section are supported by substantial evidence on the record taken as a whole. For purposes of this paragraph, the term "record" means the standard or regulation, any notice published with respect to the promulgation of such standard or regulation, the transcript required by subsection (d) of this section of any oral presentation, any written submission of interested parties, and any other information which the Commission considers relevant to such standard or regulation.
 
 (4) The judgment of the court affirming or setting aside, in whole or in part, any such standard or regulation of the Commission shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
@@ -80,7 +80,7 @@ No regulation may be proposed by the Commission under this section unless the Co
 
 &emsp;(3) a discussion of the reasons for the Commission's preliminary determination that efforts proposed under subsection (g)(6) of this section and assisted by the Commission as required by section 2054(a)(3) of this title would not, within a reasonable period of time, be likely to result in the development of a voluntary standard that would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (g)(1) of this section; and
 
-&emsp;(4) a description of any reasonable alternatives to the proposed regulation, together with a summary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed regulation.
+&emsp;(4) a description of any reasonable alternatives to the proposed regulation, together with a summary description of their potentialcosts and benefits, and a brief explanation of why such alternatives should not be published as a proposed regulation.
 
 > The Commission shall transmit such notice within 10 calendar days to the appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.
 
@@ -120,27 +120,27 @@ The Commission shall grant, in whole or in part, or deny any petition under sect
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(c)(2)(B), (D), substituted “Commission” for “Secretary of Commerce” and “it” for “he”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(c)(2)(B), (D), substituted "Commission" for "Secretary of Commerce" and "it" for "he".
 
-Subsec. (b). Pub. L. 110–314, §204(c)(2)(B)–(D), substituted “Commission finds for” for “Secretary of Commerce finds for”, “Commission finds that” for “Secretary finds that”, “Commission may” for “Secretary may”, and “it may” for “he may”.
+Subsec. (b). Pub. L. 110–314, §204(c)(2)(B)–(D), substituted "Commission finds for" for "Secretary of Commerce finds for", "Commission finds that" for "Secretary finds that", "Commission may" for "Secretary may", and "it may" for "he may".
 
-Subsec. (c). Pub. L. 110–314, §204(c)(2)(B)–(D), substituted “Commission may” for “Secretary of Commerce may”, “it is required” for “he is required”, “Commission or its” for “Secretary or his”, “Commission or any” for “Secretary or any”, and “its control” for “his control”.
+Subsec. (c). Pub. L. 110–314, §204(c)(2)(B)–(D), substituted "Commission may" for "Secretary of Commerce may", "it is required" for "he is required", "Commission or its" for "Secretary or his", "Commission or any" for "Secretary or any", and "its control" for "his control".
 
-Subsec. (e)(1). Pub. L. 110–314, §204(c)(2)(C), substituted “Commission” for “Secretary” wherever appearing.
+Subsec. (e)(1). Pub. L. 110–314, §204(c)(2)(C), substituted "Commission" for "Secretary" wherever appearing.
 
-Subsec. (e)(2). Pub. L. 110–314, §204(c)(2)(C), (D), substituted “Commission” for “Secretary” and “its” for “his” wherever appearing and substituted “it” for “he”.
+Subsec. (e)(2). Pub. L. 110–314, §204(c)(2)(C), (D), substituted "Commission" for "Secretary" and "its" for "his" wherever appearing and substituted "it" for "he".
 
-Subsec. (e)(4). Pub. L. 110–314, §204(c)(2)(C), substituted “Commission” for “Secretary”.
+Subsec. (e)(4). Pub. L. 110–314, §204(c)(2)(C), substituted "Commission" for "Secretary".
 
-Subsec. (e)(5), (6). Pub. L. 110–314, §204(c)(2)(E), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Any action instituted under this subsection shall survive, notwithstanding any change in the person occupying the office of Secretary or any vacancy in such office.”
+Subsec. (e)(5), (6). Pub. L. 110–314, §204(c)(2)(E), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "Any action instituted under this subsection shall survive, notwithstanding any change in the person occupying the office of Secretary or any vacancy in such office."
 
-Subsec. (f). Pub. L. 110–314, §204(c)(2)(C), substituted “Commission” for “Secretary”.
+Subsec. (f). Pub. L. 110–314, §204(c)(2)(C), substituted "Commission" for "Secretary".
 
-Subsec. (g). Pub. L. 110–314, §204(c)(1)(A), substituted “may be commenced by a notice of proposed rulemaking or” for “shall be commenced” in introductory provisions.
+Subsec. (g). Pub. L. 110–314, §204(c)(1)(A), substituted "may be commenced by a notice of proposed rulemaking or" for "shall be commenced" in introductory provisions.
 
-Subsec. (i). Pub. L. 110–314, §204(c)(1)(B), (C), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (g) of this section, the” and in concluding provisions, substituted “appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.” for “Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.”
+Subsec. (i). Pub. L. 110–314, §204(c)(1)(B), (C), in introductory provisions, substituted "unless the" for "unless, not less than 60 days after publication of the notice required in subsection (g) of this section, the" and in concluding provisions, substituted "appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation." for "Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives."
 
-<b>1990</b>—Subsec. (h)(2). Pub. L. 101–608, §108(c), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
+<b>1990</b>—Subsec. (h)(2). Pub. L. 101–608, §108(c), struck out period at end and inserted ", except that the Commission shall terminate any such proceeding and relyon a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection."
 
 Subsec. (h)(3). Pub. L. 101–608, §107(c), added par. (3).
 
@@ -166,9 +166,9 @@ Amendment by Pub. L. 97–35 applicable with respect to regulations under this c
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–284, §20(b), May 11, 1976, 90 Stat. 515, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to standards, regulations, and amendments to standards and regulations, under section 4 of the Flammable Fabrics Act \[this section\] the proceedings for the promulgation of which were begun after the date of the enactment of this Act \[May 11, 1976\].”
+Pub. L. 94–284, §20(b), May 11, 1976, 90 Stat. 515, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to standards, regulations, and amendments to standards and regulations, under section 4 of the Flammable Fabrics Act \[this section\] the proceedings for the promulgation of which were begun after the date of the enactment of this Act \[May 11, 1976\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “it”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "it".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “regulation; and”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "regulation; and".</i>
 

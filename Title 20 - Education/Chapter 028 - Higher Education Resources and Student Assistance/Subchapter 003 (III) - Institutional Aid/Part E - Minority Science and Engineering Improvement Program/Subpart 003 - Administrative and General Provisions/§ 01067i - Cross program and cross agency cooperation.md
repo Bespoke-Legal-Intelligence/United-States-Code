@@ -10,7 +10,7 @@ Section was formerly classified to section 1135d–2 of this title prior to renu
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–325 inserted “and consult” after “cooperate”.
+<b>1992</b>—Pub. L. 102–325 inserted "and consult" after "cooperate".
 
 #### Effective Date of 1992 Amendment
 

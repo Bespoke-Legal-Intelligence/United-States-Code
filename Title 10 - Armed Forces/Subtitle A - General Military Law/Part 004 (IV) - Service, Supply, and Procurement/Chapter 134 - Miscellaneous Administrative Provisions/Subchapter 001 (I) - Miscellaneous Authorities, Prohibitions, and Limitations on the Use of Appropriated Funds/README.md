@@ -5,7 +5,7 @@
 | [2241\.](%C2%A7%2002241%20-%20Availability%20of%20appropriations%20for%20certain%20purposes.md) | Availability of appropriations for certain purposes. |
 | [2241a.](%C2%A7%2002241a%20-%20Prohibition%20on%20use%20of%20funds%20for%20publicity%20or%20propaganda%20purposes%20within%20the%20United%20States.md) | Prohibition on use of funds for publicity or propaganda purposes within the United States. |
 | [2242\.](%C2%A7%2002242%20-%20Authority%20to%20use%20appropriated%20funds%20for%20certain%20investigations%20and%20security%20services.md) | Authority to use appropriated funds for certain investigations and security services. |
-| [2243\.](%C2%A7%2002243%20-%20Authority%20to%20use%20appropriated%20funds%20to%20support%20student%20meal%20programs%20in%20overseas%20dependents%E2%80%99%20schools.md) | Authority to use appropriated funds to support student meal programs in overseas dependents’ schools. |
+| [2243\.](%C2%A7%2002243%20-%20Authority%20to%20use%20appropriated%20funds%20to%20support%20student%20meal%20programs%20in%20overseas%20dependents%27%20schools.md) | Authority to use appropriated funds to support student meal programs in overseas dependents' schools. |
 | [2244\.](%C2%A7%2002244%20-%20Security%20investigations.md) | Security investigations. |
 | [2244a.](%C2%A7%2002244a%20-%20Equipment%20scheduled%20for%20retirement%20or%20disposal%20limitation%20on%20expenditures%20for%20modifications.md) | Equipment scheduled for retirement or disposal: limitation on expenditures for modifications. |
 | [2245\.](%C2%A7%2002245%20-%20Use%20of%20aircraft%20for%20proficiency%20flying%20limitation.md) | Use of aircraft for proficiency flying: limitation. |
@@ -21,21 +21,21 @@
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239, div. A, title V, §588(b)(2), Jan. 2, 2013, 126 Stat. 1769, substituted “Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces.” for “Display of State flags: prohibition on use of funds to arbitrarily exclude flag; position and manner of display.” in item 2249b.
+<b>2013</b>—Pub. L. 112–239, div. A, title V, §588(b)(2), Jan. 2, 2013, 126 Stat. 1769, substituted "Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces." for "Display of State flags: prohibition on use of funds to arbitrarily exclude flag; position and manner of display." in item 2249b.
 
-<b>2011</b>—Pub. L. 111–383, div. A, title X, §1075(b)(30), Jan. 7, 2011, 124 Stat. 4370, transferred item 2241a “Prohibition on use of funds for publicity or propaganda purposes within the United States” to appear after item 2241.
+<b>2011</b>—Pub. L. 111–383, div. A, title X, §1075(b)(30), Jan. 7, 2011, 124 Stat. 4370, transferred item 2241a "Prohibition on use of funds for publicity or propaganda purposes within the United States" to appear after item 2241.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title X, §1031(a)(2), Oct. 28, 2009, 123 Stat. 2448, added item 2241a at the end.
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title XII, §1205(a)(2), Oct. 14, 2008, 122 Stat. 4624, added item 2249d.
 
-<b>2006</b>—Pub. L. 109–364, div. A, title XII, §1204(d)(3), Oct. 17, 2006, 120 Stat. 2416, substituted “Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials” for “Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program” in item 2249c.
+<b>2006</b>—Pub. L. 109–364, div. A, title XII, §1204(d)(3), Oct. 17, 2006, 120 Stat. 2416, substituted "Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials" for "Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program" in item 2249c.
 
 Pub. L. 109–163, div. A, title III, §§372(b), 373(b), Jan. 6, 2006, 119 Stat. 3210, 3211, added items 2244a and 2245a.
 
-<b>2004</b>—Pub. L. 108–375, div. A, title VI, §651(f)(3), Oct. 28, 2004, 118 Stat. 1972, struck out items 2246 “Department of Defense golf courses: limitation on use of appropriated funds” and 2247 “Use of appropriated funds for operation of Armed Forces Recreation Center, Europe: limitation”.
+<b>2004</b>—Pub. L. 108–375, div. A, title VI, §651(f)(3), Oct. 28, 2004, 118 Stat. 1972, struck out items 2246 "Department of Defense golf courses: limitation on use of appropriated funds" and 2247 "Use of appropriated funds for operation of Armed Forces Recreation Center, Europe: limitation".
 
-<b>2003</b>—Pub. L. 108–136, div. A, title X, §1045(a)(5)(B), title XII, §1221(a)(2), Nov. 24, 2003, 117 Stat. 1612, 1651, struck out item 2248 “Purchase of surety bonds: prohibition” and added item 2249c.
+<b>2003</b>—Pub. L. 108–136, div. A, title X, §1045(a)(5)(B), title XII, §1221(a)(2), Nov. 24, 2003, 117 Stat. 1612, 1651, struck out item 2248 "Purchase of surety bonds: prohibition" and added item 2249c.
 
 <b>1996</b>—Pub. L. 104–201, div. A, title X, §1071(b), Sept. 23, 1996, 110 Stat. 2657, added item 2249b.
 
@@ -63,7 +63,7 @@ Pub. L. 101–510, div. A, title IX, §904(b), Nov. 5, 1990, 104 Stat. 1621, add
 - [&sect; 02241 - Availability of appropriations for certain purposes](%C2%A7%2002241%20-%20Availability%20of%20appropriations%20for%20certain%20purposes.md)
 - [&sect; 02241a - Prohibition on use of funds for publicity or propaganda purposes within the United States](%C2%A7%2002241a%20-%20Prohibition%20on%20use%20of%20funds%20for%20publicity%20or%20propaganda%20purposes%20within%20the%20United%20States.md)
 - [&sect; 02242 - Authority to use appropriated funds for certain investigations and security services](%C2%A7%2002242%20-%20Authority%20to%20use%20appropriated%20funds%20for%20certain%20investigations%20and%20security%20services.md)
-- [&sect; 02243 - Authority to use appropriated funds to support student meal programs in overseas dependents&#8217; schools](%C2%A7%2002243%20-%20Authority%20to%20use%20appropriated%20funds%20to%20support%20student%20meal%20programs%20in%20overseas%20dependents%E2%80%99%20schools.md)
+- [&sect; 02243 - Authority to use appropriated funds to support student meal programs in overseas dependents' schools](%C2%A7%2002243%20-%20Authority%20to%20use%20appropriated%20funds%20to%20support%20student%20meal%20programs%20in%20overseas%20dependents%27%20schools.md)
 - [&sect; 02244 - Security investigations](%C2%A7%2002244%20-%20Security%20investigations.md)
 - [&sect; 02244a - Equipment scheduled for retirement or disposal limitation on expenditures for modifications](%C2%A7%2002244a%20-%20Equipment%20scheduled%20for%20retirement%20or%20disposal%20limitation%20on%20expenditures%20for%20modifications.md)
 - [&sect; 02245 - Use of aircraft for proficiency flying limitation](%C2%A7%2002245%20-%20Use%20of%20aircraft%20for%20proficiency%20flying%20limitation.md)

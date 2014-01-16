@@ -8,7 +8,7 @@ In order to provide thrift institutions for the deposit of funds and for the ext
 
 &emsp;(2) to issue charters therefor,
 
-> giving primary consideration of the best practices of thrift institutions in the United States. The lending and investment powers conferred by this section are intended to encourage such institutions to provide credit for housing safely and soundly.
+> giving primary consideration of the best practices of thrift institutions in the United States.The lending and investment powers conferred by this section are intended to encourage such institutions to provide credit for housing safely and soundly.
 
 #### (b) Deposits and related powers
 
@@ -16,7 +16,7 @@ In order to provide thrift institutions for the deposit of funds and for the ext
 
 &emsp;(A) Subject to the terms of its charter and regulations of the Comptroller of the Currency, a Federal savings association may—
 
-&emsp;&emsp;(i) raise funds through such deposit, share, or other accounts, including demand deposit accounts (hereafter in this section referred to as “accounts”); and
+&emsp;&emsp;(i) raise funds through such deposit, share, or other accounts, including demand deposit accounts (hereafter in this section referred to as "accounts"); and
 
 &emsp;&emsp;(ii) issue passbooks, certificates, or other evidence of accounts.
 
@@ -122,7 +122,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (M) Liquidity investments
 
-&emsp;&emsp;Investments (other than equity investments), identified by the Comptroller, for liquidity purposes, including cash, funds on deposit at a Federal reserve bank or a Federal home loan bank, or bankers’ acceptances.
+&emsp;&emsp;Investments (other than equity investments), identified by the Comptroller, for liquidity purposes, including cash, funds on deposit at a Federal reserve bank or a Federal home loan bank, or bankers' acceptances.
 
 #### (N) Investment in the national housing partnership corporation, partnerships, and joint ventures
 
@@ -150,7 +150,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 &emsp;&emsp;&emsp;(i) is registered with the Securities and Exchange Commission under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], and
 
-&emsp;&emsp;&emsp;(ii) the portfolio of which is restricted by such management company's investment policy (changeable only if authorized by shareholder vote) solely to investments that a Federal savings association by law or regulation may, without limitation as to percentage of assets, invest in, sell, redeem, hold, or otherwise deal in.
+&emsp;&emsp;&emsp;(ii) the portfolio of which is restricted by such management company's investmentpolicy (changeable only if authorized by shareholder vote) solely to investments that a Federal savings association by law or regulation may, without limitation as to percentage of assets, invest in, sell, redeem, hold, or otherwise deal in.
 
 #### (R) Mortgage-backed securities
 
@@ -190,7 +190,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The Comptroller may permit a savings association to exceed the limitation set forth in clause (i) if the Director determines that the increased authority—
+&emsp;&emsp;&emsp;The Comptroller may permit a savings association to exceed the limitation set forth in clause (i) if the Comptroller determines that the increased authority—
 
 &emsp;&emsp;&emsp;&emsp;(I) poses no significant risk to the safe and sound operation of the association, and
 
@@ -202,7 +202,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (C) Investments in personal property
 
-&emsp;&emsp;Investments in tangible personal property, including vehicles, manufactured homes,machinery, equipment, or furniture, for rental or sale. Investments under this subparagraph may not exceed 10 percent of the assets of the Federal savings association.
+&emsp;&emsp;Investments in tangible personal property, including vehicles, manufactured homes, machinery, equipment, or furniture, for rental or sale. Investments under this subparagraph may not exceed 10 percent of the assets of the Federal savings association.
 
 #### (D) Consumer loans and certain securities
 
@@ -254,9 +254,9 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 &emsp;&emsp;A Federal savings association may invest in stock, obligations, or other securities of any small business investment company formed pursuant to section 301(d) of the Small Business Investment Act of 1958 \[15 U.S.C. 681(d)\] <sup>1</sup> for the purpose of aiding members of a Federal home loan bank. A Federal savings association may not make any investment under this subparagraph if its aggregate outstanding investment under this subparagraph would exceed 1 percent of the assets of such savings association.
 
-#### (E) Bankers’ banks
+#### (E) Bankers' banks
 
-&emsp;&emsp;A Federal savings association may purchase for its own account shares of stock of a bankers’ bank, described in Paragraph Seventh of section 24 of this title or in section 27(b) of this title, on the same terms and conditions as a national bank may purchase such shares.
+&emsp;&emsp;A Federal savings association may purchase for its own account shares of stock of a bankers' bank, described in Paragraph Seventh of section 24 of this title or in section 27(b) of this title, on the same terms and conditions as a national bank may purchase such shares.
 
 #### (F) New Markets Venture Capital companies
 
@@ -278,11 +278,11 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (A) Residential property
 
-&emsp;&emsp;The terms “residential real property” or “residential real estate” mean leaseholds, homes (including condominiums and cooperatives, except that in connection with loans on individual cooperative units, such loans shall be adequately secured as defined by the Comptroller) and, combinations of homes or dwelling units and business property, involving only minor or incidental business use, or property to be improved by construction of such structures.
+&emsp;&emsp;The terms "residential real property" or "residential real estate" mean leaseholds, homes (including condominiums and cooperatives, except that in connection with loans on individual cooperative units, such loans shall be adequately secured as defined by the Comptroller) and, combinations of homes or dwelling units and business property, involving only minor or incidentalbusiness use, or property to be improved by construction of such structures.
 
 #### (B) Loans
 
-&emsp;&emsp;The term “loans” includes obligations and extensions or advances of credit; and any reference to a loan or investment includes an interest in such a loan or investment.
+&emsp;&emsp;The term "loans" includes obligations and extensions or advances of credit; and any reference to a loan or investment includes an interest in such a loan or investment.
 
 #### (d) Regulatory authority
 
@@ -294,7 +294,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (B) Ancillary provisions
 
-&emsp;&emsp;(i) In making examinations of savings associations, examiners appointed by the appropriate Federal banking agency shall have power to make such examinations of the affairs of all affiliates of such savings associations as shall be necessary to disclose fully the relations between such savings associations and their affiliates and the effect of such relations upon such savings associations. For purposes of this subsection, the term “affiliate” has the same meaning as in section 2(b) of the Banking Act of 1933 \[12 U.S.C. 221a(b)\], except that the term “member bank” in section 2(b) shall be deemed to refer to a savings association.
+&emsp;&emsp;(i) In making examinations of savings associations, examiners appointed by the appropriate Federal banking agency shall have power to make such examinations of the affairs of all affiliates of such savings associations as shall be necessary to disclose fully the relations between such savings associations and their affiliates and the effect of such relations upon such savings associations. For purposes of this subsection, the term "affiliate" has the same meaning as in section 2(b) of the Banking Act of 1933 \[12 U.S.C. 221a(b)\], except that the term "member bank" in section 2(b) shall be deemed to refer to a savings association.
 
 &emsp;&emsp;(ii) In the course of any examination of any savings association, upon request by the appropriate Federal banking agency, prompt and complete access shall be given to all savings association officers, directors, employees, and agents, and to all relevant books, records, or documents of any type.
 
@@ -312,7 +312,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 &emsp;&emsp;(vi) In any proceeding under this section, the appropriate Federal banking agency may administer oaths and affirmations, take depositions, and issue subpenas. The Comptroller may prescribe regulations with respect to any such proceedings. The attendance of witnesses and the production of documents provided for in this subsection may be required from any place in any State or in any territory at any designated place where such proceeding is being conducted.
 
-&emsp;&emsp;(vii) Any party to a proceeding under this section may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district (or the United States court in any territory) in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpoena issued pursuant to this subsection or section 10(c) of the Federal Deposit Insurance Act \[12 U.S.C. 1820(c)\], and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. All expenses of the appropriate Federal banking agency in connection with this section shall be considered as nonadministrative expenses. Any court having jurisdiction of any proceeding instituted under this section by a savings association, or a director or officer thereof, may allow to any such party reasonable expenses and attorneys’ fees. Such expenses and fees shall be paid by the savings association.
+&emsp;&emsp;(vii) Any party to a proceeding under this section may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district (or the United States court in any territory) in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpoena issued pursuant to this subsection or section 10(c) of the Federal Deposit Insurance Act \[12 U.S.C. 1820(c)\], and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. All expenses ofthe appropriate Federal banking agency in connection with this section shall be considered as nonadministrative expenses. Any court having jurisdiction of any proceeding instituted under this section by a savings association, or a director or officer thereof, may allow to any such party reasonable expenses and attorneys' fees. Such expenses and fees shall be paid by the savings association.
 
 #### (2) Conservatorships and receiverships
 
@@ -350,7 +350,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (A) In general
 
-&emsp;&emsp;The Comptroller may prescribe regulations for the reorganization, consolidation, liquidation, and dissolution of savings associations, for the merger of insured savings associations with insured savings associations, for savings associations in conservatorship and receivership, and for the conduct of conservatorships and receiverships. The Comptroller may, by regulation or otherwise, provide for the exercise of functions by members, stockholders, directors, or officers of a savings association during conservatorship and receivership.
+&emsp;&emsp;The Comptroller may prescribe regulations for the reorganization, consolidation, liquidation, and dissolution of savings associations, for the merger of insured savings associations with insured savings associations, for savings associations in conservatorship and receivership, and for the conduct of conservatorships and receiverships. The Comptroller may, by regulationor otherwise, provide for the exercise of functions by members, stockholders, directors, or officers of a savings association during conservatorship and receivership.
 
 #### (B) FDIC as conservator or receiver
 
@@ -360,9 +360,9 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 &emsp;Whenever a conservator or receiver appointed by the appropriate Federal banking agency demands possession of the property, business, and assets of any savings association, or of any part thereof, the refusal by any director, officer, employee, or agent of such association to comply with the demand shall be punishable by a fine of not more than $5,000 or imprisonment for not more than one year, or both.
 
-#### (5) “Savings association” defined
+#### (5) "Savings association" defined
 
-&emsp;As used in this subsection, the term “savings association” includes any savings association or former savings association that retains deposits insured by the Corporation, notwithstanding termination of its status as an institution insured by the Corporation.
+&emsp;As used in this subsection, the term "savings association" includes any savings association or former savings association that retains deposits insured by the Corporation, notwithstanding termination of its status as an institution insured by the Corporation.
 
 #### (6) Compliance with monetary transaction recordkeeping and report requirements
 
@@ -398,7 +398,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (B) Examination by other banking agencies
 
-&emsp;&emsp;The appropriate Federal banking agency may authorize any other Federal bankingagency that supervises any other owner of part of the service company or subsidiary to perform an examination described in subparagraph (A).
+&emsp;&emsp;The appropriate Federal banking agency may authorize any other Federal banking agency that supervises any other owner of part of the service company or subsidiary to perform an examination described in subparagraph (A).
 
 #### (C) Applicability of section 8 of the Federal Deposit Insurance Act
 
@@ -418,13 +418,13 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (E) Administration by the Comptroller and the Corporation
 
-&emsp;&emsp;The Comptroller may issue such regulations, and the appropriate Federal banking agency may issue such orders, including those issued pursuant to section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], as may be necessary to administer and carry out this paragraph and to prevent evasion of this paragraph.
+&emsp;&emsp;The Comptroller may issue such regulations, and the appropriate Federal bankingagency may issue such orders, including those issued pursuant to section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], as may be necessary to administer and carry out this paragraph and to prevent evasion of this paragraph.
 
 #### (8) Definitions
 
 &emsp;For purposes of this section—
 
-&emsp;&emsp;(A) the term “service company” means—
+&emsp;&emsp;(A) the term "service company" means—
 
 &emsp;&emsp;&emsp;(i) any corporation—
 
@@ -438,9 +438,9 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 &emsp;&emsp;&emsp;&emsp;(II) all of the members of which are 1 or more insured savings associations;
 
-&emsp;&emsp;(B) the term “limited liability company” means any company, partnership, trust, or similar business entity organized under the law of a State (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) that provides that a member or manager of such company is not personally liable for a debt, obligation, or liability of the company solely by reason of being, or acting as, a member or manager of such company; and
+&emsp;&emsp;(B) the term "limited liability company" means any company, partnership, trust, or similar business entity organized under the law of a State (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) that provides that a member or manager of such company is not personally liable for a debt, obligation, or liability of the company solely by reason of being, or acting as, a member or manager of such company; and
 
-&emsp;&emsp;(C) the terms “State savings association” and “subsidiary” have the same meanings as in section 3 of the Federal Deposit Insurance Act.
+&emsp;&emsp;(C) the terms "State savings association" and "subsidiary" have the same meanings as in section 3 of the Federal Deposit Insurance Act.
 
 #### (e) Character and responsibility
 
@@ -470,7 +470,7 @@ No State, county, municipal, or local taxing authority may impose any tax on Fed
 
 #### (1) In general
 
-&emsp;Any savings association which is, or is eligible to become, a member of a Federal home loan bank may convert into a Federal savings association (and in so doing may change directly from the mutual form to the stock form, or from the stock form to the mutual form). Such conversion shall be subject to such regulations as the Comptroller shall prescribe. Thereafter such Federal savings association shall be entitled to all the benefits ofthis section and shall be subject to examination and regulation to the same extent as other associations incorporated pursuant to this chapter.
+&emsp;Any savings association which is, or is eligible to become, a member of a Federal home loan bank may convert into a Federal savings association (and in so doing may change directly from the mutual form to the stock form, or from the stock form to the mutual form). Such conversion shall be subject to such regulations as the Comptroller shall prescribe. Thereafter such Federal savings association shall be entitled to all the benefits of this section and shall be subject to examination and regulation to the same extent as other associations incorporated pursuant to this chapter.
 
 #### (2) Authority of Comptroller
 
@@ -536,7 +536,7 @@ No State, county, municipal, or local taxing authority may impose any tax on Fed
 
 #### (D) Definitions
 
-&emsp;&emsp;For purposes of this paragraph, the terms “State bank” and “State bank supervisor” have the same meanings as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
+&emsp;&emsp;For purposes of this paragraph, the terms "State bank" and "State bank supervisor" have the same meanings as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
 
 #### (6) Limitation on certain conversions by Federal savings associations
 
@@ -548,7 +548,7 @@ No State, county, municipal, or local taxing authority may impose any tax on Fed
 
 #### (k) Depository of public money
 
-When designated for that purpose by the Secretary of the Treasury, a savings association the deposits of which are insured by the Corporation shall be a depository of public money and may be employed as fiscal agent of the Government under such regulations as may be prescribed by the Secretary and shall perform all such reasonable duties as fiscal agent of the Government as may be required of it. A savings association the deposits of which are insured by the Corporation may act as agent for any other instrumentality of the United States when designated for that purpose by such instrumentality, including services in connection with the collection of taxes and other obligations owed the United States, and the Secretary of the Treasury may deposit public money in any such savings association, and shall prescribe such regulations as may be necessary to carry out the purposes of this subsection.
+When designated for that purpose by the Secretary of the Treasury, a savings association the deposits of which are insured by the Corporation shall be a depository of public money and may be employed as fiscal agent of the Governmentunder such regulations as may be prescribed by the Secretary and shall perform all such reasonable duties as fiscal agent of the Government as may be required of it. A savings association the deposits of which are insured by the Corporation may act as agent for any other instrumentality of the United States when designated for that purpose by such instrumentality, including services in connection with the collection of taxes and other obligations owed the United States, and the Secretary of the Treasury may deposit public money in any such savings association, and shall prescribe such regulations as may be necessary to carry out the purposes of this subsection.
 
 #### (l) Retirement accounts
 
@@ -562,9 +562,9 @@ A Federal savings association is authorized to act as trustee of any trust creat
 
 &emsp;(B) No savings association shall establish any branch in the District of Columbia or move its principal office or any branch in the District without the Director's <sup>4</sup> prior written approval.
 
-#### (2) “Branch” defined
+#### (2) "Branch" defined
 
-&emsp;For purposes of this subsection the term “branch” means any office, place of business, or facility, other than the principal office as defined by the Comptroller, of a savings association at which accounts are opened or payments are received or withdrawals are made, or any other office, place of business, or facility of a savings association defined by the Comptroller as a branch within the meaning of such sentence.
+&emsp;For purposes of this subsection the term "branch" means any office, place of business, or facility, other than the principal office as defined by the Comptroller, of a savings association at which accounts are opened or payments are received or withdrawals are made, or any other office, place of business, or facility of a savings association defined by the Comptroller as a branch within the meaning of such sentence.
 
 #### (n) Trusts
 
@@ -574,7 +574,7 @@ A Federal savings association is authorized to act as trustee of any trust creat
 
 #### (2) Segregation of assets
 
-&emsp;A Federal savings association exercising any or all of the powers enumerated in this section shall segregate all assets held in any fiduciary capacity from the general assets of the association and shall keep a separate set of booksand records showing in proper detail all transactions engaged in under this subsection. The State banking authority involved may have access to reports of examination made by the Comptroller insofar as such reports relate to the trust department of such association but nothing in this subsection shall be construed as authorizing such State banking authority to examine the books, records, and assets of such associations.
+&emsp;A Federal savings association exercising any or all of the powers enumerated in this section shall segregate all assets held in any fiduciary capacity from the general assets of the association and shall keep a separate set of books and records showing in proper detail all transactions engaged in under this subsection. The State banking authority involved may have access to reports of examination made by the Comptroller insofar as such reports relate to the trust department of such association but nothing in this subsection shall be construed as authorizing such State banking authority to examine the books, records, and assets of such associations.
 
 #### (3) Prohibitions
 
@@ -636,7 +636,7 @@ A Federal savings association is authorized to act as trustee of any trust creat
 
 (2)(A) Any Federal savings bank chartered pursuant to this subsection shall continue to be insured by the Deposit Insurance Fund.
 
-(B) The Comptroller shall notify the Corporation of any application under this chapter for conversion to a Federal charter by an institution insured by the Corporation, shall consult with the Corporation before disposing of the application, and shall notify the Corporation of the determination of the Comptroller with respect to such application.
+(B) The Comptroller shall notify the Corporation of any application under this chapter forconversion to a Federal charter by an institution insured by the Corporation, shall consult with the Corporation before disposing of the application, and shall notify the Corporation of the determination of the Comptroller with respect to such application.
 
 (C) Notwithstanding any other provision of law, if the Corporation determines that conversion into a Federal stock savings bank or the chartering of a Federal stock savings bank is necessary to prevent the default of a savings bank it insures or to reopen a savings bank in default that it insured, or if the Corporation determines, with the concurrence of the Comptroller, that severe financial conditions exist that threaten the stability of a savings bank insured by the Corporation and that such a conversion or charter is likely to improve the financial condition of such savings bank, the Corporation shall provide the Comptroller with a certificate of such determination, the reasons therefor in conformance with the requirements of this chapter, and the bank shall be converted or chartered by the Comptroller, pursuant to the regulations thereof, from the time the Corporation issues the certificate.
 
@@ -684,7 +684,7 @@ A Federal savings association is authorized to act as trustee of any trust creat
 
 (4) Nothing contained in this subsection affects in any manner the right of the United States or any other party to bring an action under any other law of the United States or of any State, including any right which may exist in addition to specific statutory authority, challenging the legality of any act or practice which may be proscribed by this subsection. No regulation or order issued by the Board under this subsection shall in any manner constitute a defense to such action.
 
-(5) For purposes of this subsection, the term “loan” includes obligations and extensions or advances of credit.
+(5) For purposes of this subsection, the term "loan" includes obligations and extensions or advances of credit.
 
 (6)
 
@@ -710,7 +710,7 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 #### (1) In general
 
-&emsp;Consistent with the purposes of section 908 of the International Lending Supervision Act of 1983 \[12 U.S.C. 3907\] and the capital requirements established pursuant to such section by the appropriate Federal banking agencies (as defined in section 903(1) of such Act \[12 U.S.C.3902(1)\]), the Comptroller of the Currency shall require all savings associations to achieve and maintain adequate capital by—
+&emsp;Consistent with the purposes of section 908 of the International Lending Supervision Act of 1983 \[12 U.S.C. 3907\] and the capital requirements established pursuant to such section by the appropriate Federal banking agencies (as defined in section 903(1) of such Act \[12 U.S.C. 3902(1)\]), the Comptroller of the Currency shall require all savings associations to achieve and maintain adequate capital by—
 
 &emsp;&emsp;(A) establishing minimum levels of capital for savings associations; and
 
@@ -820,7 +820,7 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 #### (E) Consolidation of subsidiaries not separately capitalized
 
-&emsp;&emsp;In determining compliance with capital standards prescribed under paragraph (1), the assets and liabilities of each of a savings association's subsidiaries (other than any subsidiary described in subparagraph (C)(ii)) shall be consolidated with the savings association's assets and liabilities, unless all of the savings association's investments in and extensions of credit to the subsidiary are deducted from the savings association's capital pursuant to subparagraph (A).
+&emsp;&emsp;In determining compliance with capital standards prescribed under paragraph (1),the assets and liabilities of each of a savings association's subsidiaries (other than any subsidiary described in subparagraph (C)(ii)) shall be consolidated with the savings association's assets and liabilities, unless all of the savings association's investments in and extensions of credit to the subsidiary are deducted from the savings association's capital pursuant to subparagraph (A).
 
 #### (6) Consequences of failing to comply with capital standards
 
@@ -864,7 +864,7 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 #### (A) Application for exemption
 
-&emsp;&emsp;Any savings association not in compliance with the capital standards prescribed underparagraph (1) may apply to the appropriate Federal banking agency for an exemption from any applicable sanction or penalty for noncompliance which the appropriate Federal banking agency may impose under this chapter.
+&emsp;&emsp;Any savings association not in compliance with the capital standards prescribed under paragraph (1) may apply to the appropriate Federal banking agency for an exemption from any applicable sanction or penalty for noncompliance which the appropriate Federal banking agency may impose under this chapter.
 
 #### (B) Effect of grant of exemption
 
@@ -922,15 +922,15 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 #### (A) Core capital
 
-&emsp;&emsp;Unless the Comptroller prescribes a more stringent definition, the term “core capital” means core capital as defined by the Comptroller of the Currency for national banks, less any unidentifiable intangible assets.
+&emsp;&emsp;Unless the Comptroller prescribes a more stringent definition, the term "core capital" means core capital as defined by the Comptroller of the Currency for national banks, less any unidentifiable intangible assets.
 
 #### (B) Tangible capital
 
-&emsp;&emsp;The term “tangible capital” means core capital minus any intangible assets (as intangible assets are defined by the Comptroller for national banks).
+&emsp;&emsp;The term "tangible capital" means core capital minus any intangible assets (as intangible assets are defined by the Comptroller for national banks).
 
 #### (C) Total assets
 
-&emsp;&emsp;The term “total assets” means total assets (as total assets are defined by the Comptroller of the Currency for national banks) adjusted in the same manner as total assets would be adjusted in determining compliance with the leverage limit applicable to national banks if the savings association were a national bank.
+&emsp;&emsp;The term "total assets" means total assets (as total assets are defined by the Comptroller of the Currency for national banks) adjusted in the same manner as total assets would be adjusted in determining compliance with the leverage limit applicable to national banks if the savings association were a national bank.
 
 #### (10) Use of Comptroller's definitions
 
@@ -1026,7 +1026,7 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 &emsp;Any savings association which—
 
-&emsp;&emsp;(A) fails to submit or publish any report or information required by the appropriate Federal banking agency under paragraph (1)or (2), within the period of time specified by the appropriate Federal banking agency; or
+&emsp;&emsp;(A) fails to submit or publish any report or information required by the appropriate Federal banking agency under paragraph (1) or (2), within the period of time specified by the appropriate Federal banking agency; or
 
 &emsp;&emsp;(B) submits or publishes any false or misleading report or information,
 
@@ -1052,7 +1052,7 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 #### (I) Duty to notify
 
-&emsp;&emsp;&emsp;If a Federal savings association has been convicted of any criminal offense under section 1956 or 1957 of title 18, the Attorney General shall provide to the Comptroller a written notification of the conviction and shall include a certified copy of the order of conviction from the court rendering the decision.
+&emsp;&emsp;&emsp;If a Federal savings association has been convicted of any criminal offense under section 1956 or 1957 of title 18, the AttorneyGeneral shall provide to the Comptroller a written notification of the conviction and shall include a certified copy of the order of conviction from the court rendering the decision.
 
 #### (II) Notice of termination; pretermination hearing
 
@@ -1084,21 +1084,21 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 &emsp;This subsection shall not apply to a successor to the interests of, or a person who acquires, a savings association that violated a provision of law described in paragraph (1), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this subsection or regulations prescribed under this subsection.
 
-#### (4) “Senior executive officer” defined
+#### (4) "Senior executive officer" defined
 
-&emsp;The term “senior executive officer” has the same meaning as in regulations prescribed under section 32(f) of the Federal Deposit Insurance Act \[12 U.S.C. 1831i(f)\].
+&emsp;The term "senior executive officer" has the same meaning as in regulations prescribed under section 32(f) of the Federal Deposit Insurance Act \[12 U.S.C. 1831i(f)\].
 
 #### (x) Home State citizenship
 
 In determining whether a Federal court has diversity jurisdiction over a case in which a Federal savings association is a party, the Federal savings association shall be considered to be a citizen only of the State in which such savings association has its home office.
 
-(June 13, 1933, ch. 64, §5, 48 Stat. 132; Apr. 27, 1934, ch. 168, §§5, 6, 48 Stat. 645, 646; May 28, 1935, ch. 150, §18, 49 Stat. 297; Aug. 10, 1939, ch. 666,title IX, §909, 53 Stat. 1402; Aug. 6, 1947, ch. 503, 61 Stat. 786; July 3, 1948, ch. 825, §1, 62 Stat. 1239; Oct. 20, 1951, ch. 521, title III, §313(d), 65 Stat. 490; July 14, 1952, ch. 723, §12, 66 Stat. 604; Aug. 2, 1954, ch. 649, title II, §204(b), title V, §503, 68 Stat. 622, 634; Aug. 11, 1955, ch. 783, title I, §110, 69 Stat. 641; Aug. 7, 1956, ch. 1029, title VI, §604, 70 Stat. 1114; Pub. L. 85–857, §13(f), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 86–372, title VIII, §805, Sept. 23, 1959, 73 Stat. 687; Pub. L. 86–507, §1(11), June 11, 1960, 74 Stat. 200; Pub. L. 87–70, title IX, §901, June 30, 1961, 75 Stat. 189; Pub. L. 87–779, §1, Oct. 9, 1962, 76 Stat. 778; Pub. L. 87–834, §6(e)(1), Oct. 16, 1962, 76 Stat. 984; Pub. L. 88–560, title IX, §§901(a), 902–905, 907, 908, 910, Sept. 2, 1964, 78 Stat. 804–806; Pub. L. 89–117, title II, §201(b)(3), title XI, §1110(a)–(c), Aug. 10, 1965, 79 Stat. 465, 507; Pub. L. 89–695, title I, §101(a), Oct. 16, 1966, 80 Stat. 1028; Pub. L. 90–448, title III, §304(b), title IV, §416(c), title VIII, §§804(e), 807(m), title XVII, §1716, Aug. 1, 1968, 82 Stat. 508, 518, 543, 545, 608; Pub. L. 90–505, §5, Sept. 21, 1968, 82 Stat. 858; Pub. L. 90–575, title I, §118(b), Oct. 16, 1968, 82 Stat. 1026; Pub. L. 91–152, title IV, §416(b), Dec. 24, 1969, 83 Stat. 401; Pub. L. 91–351, title VII, §§706, 708, 709, July 24, 1970, 84 Stat. 462, 463; Pub. L. 91–609, title VII, §727(d), title IX, §907(b), (c), Dec. 31, 1970, 84 Stat. 1803, 1811; Pub. L. 92–318, title I, §133(c)(3), June 23, 1972, 86 Stat. 270; Pub. L. 93–100, §5(b), Aug. 16, 1973, 87 Stat. 343; Pub. L. 93–383, title VII, §§702–706, title VIII, §§802(i)(2), 805(c)(4), Aug. 22, 1974, 88 Stat. 715, 716, 725, 727; Pub. L. 93–449, §4(d), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 93–495, title I, §101(e), Oct. 28, 1974, 88 Stat. 1502; Pub. L. 94–60, July 25, 1975, 89 Stat. 301; Pub. L. 94–375, §22, Aug. 3, 1976, 90 Stat. 1078; Pub. L. 95–128, title IV, §§401–405, Oct. 12, 1977, 91 Stat. 1136, 1137; Pub. L. 95–147, §2(a), Oct. 28, 1977, 91 Stat. 1227; Pub. L. 95–630, title I, §§107(a)(3), (c)(3), (d)(3), (e)(3), 111(c), title II, §208(b), title XII, §§1202, 1204, title XVII, §1701, Nov. 10, 1978, 92 Stat. 3651, 3655, 3659, 3662, 3668, 3675, 3710, 3711, 3714; Pub. L. 96–153, title III, §§325, 326, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–161, title I, §102, Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§304, 307, title IV, §§401–404, 407(a), 408, Mar. 31, 1980, 94 Stat. 146, 147, 151, 155, 156, 158–160; Pub. L. 97–320, title I, §§112, 114(b), (c), 121, 141(a)(2), (5), title II, §202(b), title III, §§311–313, 321–325, 328–331, 334, 351, title IV, §§424(a), (d)(8), (e), 427(a), Oct. 15, 1982, 96 Stat. 1471, 1475, 1479, 1489, 1492, 1496, 1497, 1499–1504, 1507, 1522–1524; Pub. L. 97–457, §§2, 12, 14(a)(1), (b), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–440, title I, §105(a), Oct. 3, 1984, 98 Stat. 1691; Pub. L. 98–620, title IV, §402(9), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1359(b), Oct. 27, 1986, 100 Stat. 3207–27; Pub. L. 100–86, title IV, §§406(a), 413(a), title V, §509(a), Aug. 10, 1987, 101 Stat. 614, 621, 635; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282; Pub. L. 102–242, title I, §§131(d), 133(d), title IV, §441, title V, §501(c), Dec. 19, 1991, 105 Stat. 2267, 2271, 2381, 2391; Pub. L. 102–310, July 1, 1992, 106 Stat. 276; Pub. L. 102–550, title IX, §953, title XV, §1502(b), title XVI, §§1603(d)(8), 1606(f)(1)–(3), Oct. 28, 1992, 106 Stat. 3893, 4046, 4080, 4088; Pub. L. 103–325, title II, §206(a), title III, §322(b), title IV, §411(c)(2)(D), Sept. 23, 1994, 108 Stat. 2199, 2227, 2253; Pub. L. 104–208, div. A, title II, §§2216(b), 2303(a)–(d), (f), 2704(d)(12)(A), Sept. 30, 1996, 110 Stat. 3009–413, 3009–424, 3009–490; Pub. L. 105–164, §3(a)(1), Mar. 20, 1998, 112 Stat. 33; Pub. L. 106–102, title VI, §603, title VII, §739, Nov. 12, 1999, 113 Stat. 1450, 1480; Pub. L. 106–554, §1(a)(8) \[§1(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–665; Pub. L. 106–569, title XII, §1201(b)(1), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(e)(1), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 109–351, title IV, §§402–404, title VI, §608(a), Oct. 13, 2006, 120 Stat. 1974, 1983; Pub. L. 111–203, title III, §369(5), title VI, §§610(b), 612(c), 627(a)(2), July 21, 2010, 124 Stat. 1559, 1612, 1613, 1640.)
+(June 13, 1933, ch. 64, §5, 48 Stat. 132; Apr. 27, 1934, ch. 168, §§5, 6, 48 Stat. 645, 646; May 28, 1935, ch. 150, §18, 49 Stat. 297; Aug. 10, 1939, ch. 666, title IX, §909, 53 Stat. 1402; Aug. 6, 1947, ch. 503, 61 Stat. 786; July 3, 1948, ch. 825, §1, 62 Stat. 1239; Oct. 20, 1951, ch. 521, title III, §313(d), 65 Stat. 490; July 14, 1952, ch. 723, §12, 66 Stat. 604; Aug. 2, 1954, ch. 649, title II, §204(b), title V, §503, 68 Stat. 622, 634; Aug. 11, 1955, ch. 783, title I, §110, 69 Stat. 641; Aug. 7, 1956, ch. 1029, title VI, §604, 70 Stat. 1114; Pub. L. 85–857, §13(f), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 86–372, title VIII, §805, Sept. 23, 1959, 73 Stat. 687; Pub. L. 86–507, §1(11), June 11, 1960, 74 Stat. 200; Pub. L. 87–70, title IX, §901, June 30, 1961, 75 Stat. 189; Pub. L. 87–779, §1, Oct. 9, 1962, 76 Stat. 778; Pub. L. 87–834, §6(e)(1), Oct. 16, 1962, 76 Stat. 984; Pub. L. 88–560, title IX, §§901(a), 902–905, 907, 908, 910, Sept. 2, 1964, 78 Stat. 804–806; Pub. L. 89–117, title II, §201(b)(3), title XI, §1110(a)–(c), Aug. 10, 1965, 79 Stat. 465, 507; Pub. L. 89–695, title I, §101(a), Oct. 16, 1966, 80 Stat. 1028; Pub. L. 90–448, title III, §304(b), title IV, §416(c), title VIII, §§804(e), 807(m), title XVII, §1716, Aug. 1, 1968, 82 Stat. 508, 518, 543, 545, 608; Pub. L. 90–505, §5, Sept. 21, 1968, 82 Stat. 858; Pub. L. 90–575, title I, §118(b), Oct. 16, 1968, 82 Stat. 1026; Pub. L. 91–152, title IV, §416(b), Dec. 24, 1969, 83 Stat. 401; Pub. L. 91–351, title VII, §§706, 708, 709, July 24, 1970, 84 Stat. 462, 463; Pub. L. 91–609, title VII, §727(d), title IX, §907(b), (c), Dec. 31, 1970, 84 Stat. 1803, 1811; Pub. L. 92–318, title I, §133(c)(3), June 23, 1972, 86 Stat. 270; Pub. L. 93–100, §5(b), Aug. 16, 1973, 87 Stat. 343; Pub. L. 93–383, title VII, §§702–706, title VIII, §§802(i)(2), 805(c)(4), Aug. 22, 1974, 88 Stat. 715, 716, 725, 727; Pub. L. 93–449, §4(d), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 93–495, title I, §101(e), Oct. 28, 1974, 88 Stat. 1502; Pub. L. 94–60, July 25, 1975, 89 Stat. 301; Pub. L. 94–375, §22, Aug. 3, 1976, 90 Stat. 1078; Pub. L. 95–128, title IV, §§401–405, Oct. 12, 1977, 91 Stat. 1136, 1137; Pub. L. 95–147, §2(a), Oct. 28, 1977, 91 Stat. 1227; Pub. L. 95–630, title I, §§107(a)(3), (c)(3), (d)(3), (e)(3), 111(c), title II, §208(b), title XII, §§1202, 1204, title XVII, §1701, Nov. 10, 1978, 92 Stat. 3651, 3655, 3659, 3662, 3668, 3675, 3710, 3711, 3714; Pub. L. 96–153, title III, §§325, 326, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–161, title I, §102, Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§304, 307, title IV, §§401–404, 407(a), 408, Mar. 31, 1980, 94 Stat. 146, 147, 151, 155, 156, 158–160; Pub. L. 97–320, title I, §§112, 114(b), (c), 121, 141(a)(2), (5), title II, §202(b), title III, §§311–313, 321–325, 328–331, 334, 351, title IV, §§424(a), (d)(8), (e), 427(a), Oct. 15, 1982, 96 Stat. 1471, 1475, 1479, 1489, 1492, 1496, 1497, 1499–1504, 1507, 1522–1524;Pub. L. 97–457, §§2, 12, 14(a)(1), (b), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–440, title I, §105(a), Oct. 3, 1984, 98 Stat. 1691; Pub. L. 98–620, title IV, §402(9), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1359(b), Oct. 27, 1986, 100 Stat. 3207–27; Pub. L. 100–86, title IV, §§406(a), 413(a), title V, §509(a), Aug. 10, 1987, 101 Stat. 614, 621, 635; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282; Pub. L. 102–242, title I, §§131(d), 133(d), title IV, §441, title V, §501(c), Dec. 19, 1991, 105 Stat. 2267, 2271, 2381, 2391; Pub. L. 102–310, July 1, 1992, 106 Stat. 276; Pub. L. 102–550, title IX, §953, title XV, §1502(b), title XVI, §§1603(d)(8), 1606(f)(1)–(3), Oct. 28, 1992, 106 Stat. 3893, 4046, 4080, 4088; Pub. L. 103–325, title II, §206(a), title III, §322(b), title IV, §411(c)(2)(D), Sept. 23, 1994, 108 Stat. 2199, 2227, 2253; Pub. L. 104–208, div. A, title II, §§2216(b), 2303(a)–(d), (f), 2704(d)(12)(A), Sept. 30, 1996, 110 Stat. 3009–413, 3009–424, 3009–490; Pub. L. 105–164, §3(a)(1), Mar. 20, 1998, 112 Stat. 33; Pub. L. 106–102, title VI, §603, title VII, §739, Nov. 12, 1999, 113 Stat. 1450, 1480; Pub. L. 106–554, §1(a)(8) \[§1(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–665; Pub. L. 106–569, title XII, §1201(b)(1), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(e)(1), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 109–351, title IV, §§402–404, title VI, §608(a), Oct. 13, 2006, 120 Stat. 1974, 1983; Pub. L. 111–203, title III, §369(5), title VI, §§610(b), 612(c), 627(a)(2), July 21, 2010, 124 Stat. 1559, 1612, 1613, 1640.)
 
 #### References in Text
 
 The National Housing Act, referred to in subsec. (c)(1)(I), (O)(i), (P), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§1701 et seq.) of this title. Title X of the National Housing Act is title X of act June 27, 1934, ch. 847, as added by act Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 461, which was classified generally to subchapter IX–A (§1749aa et seq.) of chapter 13 of this title, and was repealed by Pub. L. 101–235, title I, §133(a), Dec. 15, 1989, 103 Stat. 2027. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The Servicemen's Readjustment Act of 1944, referred to in subsec. (c)(1)(I), is act June 22, 1944, ch. 268, 58 Stat. 284, which was classified generally to chapter 11C (§§693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by section 14(87) of Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1273, the first section of which enacted Title 38, Veterans’ Benefits. For distribution of sections 693 to 697g of former Title 38 to Title 38, Veterans’ Benefits, see Table preceding section 101 of Title 38, Veterans’ Benefits.
+The Servicemen's Readjustment Act of 1944, referred to in subsec. (c)(1)(I), is act June 22, 1944, ch. 268, 58 Stat. 284, which was classified generally to chapter 11C (§§693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans' Relief, and which was repealed by section 14(87) of Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1273, the first section of which enacted Title 38, Veterans' Benefits. For distribution of sections 693 to 697g of former Title 38 to Title 38, Veterans' Benefits, see Table preceding section 101 of Title 38, Veterans' Benefits.
 
 The Housing and Urban Development Act of 1968, referred to in subsec. (c)(1)(N), (O)(ii), is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476. Title IX of the Act is classified principally to chapter 49 (§3931 et seq.) of Title 42, The Public Health and Welfare. Title IV of the Housing and Urban Development Act, which was classified to chapter 48 (§3901 et seq.) of Title 42, was repealed, with certain exceptions which were omitted from the Code, by Pub. L. 98–181, title I \[title IV, §474(e)\], Nov. 30, 1983, 97 Stat. 1239. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 1701 of this title and Tables.
 
@@ -1128,271 +1128,271 @@ The Federal Home Loan Bank Act, referred to in subsec. (f), is act July 22, 1932
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a), (b). Pub. L. 111–203, §369(5)(A), (B), substituted “Comptroller of the Currency” for “Director” wherever appearing.
+<b>2010</b>—Subsecs. (a), (b). Pub. L. 111–203, §369(5)(A), (B), substituted "Comptroller of the Currency" for "Director" wherever appearing.
 
-Subsec. (b)(1)(B). Pub. L. 111–203, §627(a)(2), substituted “savings association may not permit any” for “savings association may not—”, struck out cl. (ii) designation before “permit any overdraft”, and struck out cl. (i) which read as follows: “pay interest on a demand account; or”.
+Subsec. (b)(1)(B). Pub. L. 111–203, §627(a)(2), substituted "savings association may not permit any" for "savings association may not—", struck out cl. (ii) designation before "permit any overdraft", and struck out cl. (i) which read as follows: "pay interest on a demand account; or".
 
-Subsec. (c). Pub. L. 111–203, §369(5)(P), substituted “Comptroller” for “Director” in introductory provisions.
+Subsec. (c). Pub. L. 111–203, §369(5)(P), substituted "Comptroller" for "Director" in introductory provisions.
 
-Subsec. (c)(1), (2). Pub. L. 111–203, §369(5)(P), substituted “Comptroller” for “Director” wherever appearing.
+Subsec. (c)(1), (2). Pub. L. 111–203, §369(5)(P), substituted "Comptroller" for "Director" wherever appearing.
 
-Subsec. (c)(5)(A). Pub. L. 111–203, §369(5)(C)(i)(I), substituted “appropriate Federal banking agency” for “Director”.
+Subsec. (c)(5)(A). Pub. L. 111–203, §369(5)(C)(i)(I), substituted "appropriate Federal banking agency" for "Director".
 
-Subsec. (c)(5)(B). Pub. L. 111–203, §369(5)(C)(i)(II), substituted “The appropriate Federal banking agency” for “The Director” and “the appropriate Federal banking agency” for “the Director”.
+Subsec. (c)(5)(B). Pub. L. 111–203, §369(5)(C)(i)(II), substituted "The appropriate Federal banking agency" for"The Director" and "the appropriate Federal banking agency" for "the Director".
 
-Subsec. (c)(6)(A). Pub. L. 111–203, §369(5)(P), substituted “Comptroller” for “Director”.
+Subsec. (c)(6)(A). Pub. L. 111–203, §369(5)(P), substituted "Comptroller" for "Director".
 
-Subsec. (d)(1)(A). Pub. L. 111–203, §369(5)(D)(i)(I), in first sentence, substituted “appropriate Federal banking agency” for “Director”, in second sentence, substituted “the appropriate Federal banking agency is a party or in which the appropriate Federal banking agency is interested, and in the administration of conservatorships and receiverships, the appropriate Federal banking agency may act in the name of the appropriate Federal banking agency and through the attorneys of the appropriate Federal banking agency” for “the Director is a party or in which the Director is interested, and in the administration of conservatorships and receiverships, the Director may act in the Director's own name and through the Director's own attorneys”, and, in third sentence, substituted “Comptroller” for “Director” in two places.
+Subsec. (d)(1)(A). Pub. L. 111–203, §369(5)(D)(i)(I), in first sentence, substituted "appropriate Federal banking agency" for "Director", in second sentence, substituted "the appropriate Federal banking agency is a party or in which the appropriate Federal banking agency is interested, and in the administration of conservatorships and receiverships, the appropriate Federal banking agency may act in the name of the appropriate Federal banking agency and through the attorneys of the appropriate Federal banking agency" for "the Director is a party or in which the Director is interested, and in the administration of conservatorships and receiverships, the Director may act in the Director's own name and through the Director's own attorneys", and, in third sentence, substituted "Comptroller" for "Director" in two places.
 
-Subsec. (d)(1)(B)(i) to (iv). Pub. L. 111–203, §369(5)(D)(i)(II), substituted “appropriate Federal banking agency” for “Director”.
+Subsec. (d)(1)(B)(i) to (iv). Pub. L. 111–203, §369(5)(D)(i)(II), substituted "appropriate Federal banking agency" for "Director".
 
-Subsec. (d)(1)(B)(v). Pub. L. 111–203, §369(5)(D)(i)(III)(aa), (cc), which directed amendment of cl. (v) of par. (1) of subsec. (d) by substituting “appropriate Federal banking agency” for “Director” in introductory provisions and “subpoena” for “subpena” in concluding provisions, was executed to subsec. (d)(1)(B)(v), to reflect the probable intent of Congress.
+Subsec. (d)(1)(B)(v). Pub. L. 111–203, §369(5)(D)(i)(III)(aa), (cc), which directed amendment of cl. (v) of par. (1) of subsec. (d) by substituting "appropriate Federal banking agency" for "Director" in introductory provisions and "subpoena" for "subpena" in concluding provisions, was executed to subsec. (d)(1)(B)(v), to reflect the probable intent of Congress.
 
-Subsec. (d)(1)(B)(v)(II). Pub. L. 111–203, §369(5)(D)(i)(III)(bb), which directed amendment of cl. (v)(II) of par. (1) of subsec. (d) by substituting “subpoenas” for “subpenas”, was executed to subsec. (d)(1)(B)(v)(II), to reflect the probable intent of Congress.
+Subsec. (d)(1)(B)(v)(II). Pub. L. 111–203, §369(5)(D)(i)(III)(bb), which directed amendment of cl. (v)(II) of par. (1) of subsec. (d) by substituting "subpoenas" for "subpenas", was executed to subsec. (d)(1)(B)(v)(II), to reflect the probable intent of Congress.
 
-Subsec. (d)(1)(B)(vi). Pub. L. 111–203, §369(5)(D)(i)(IV), which directed amendment of cl. (vi) of par. (1) of subsec. (d) by substituting “appropriate Federal banking agency” for “Director” in first sentence and “Comptroller” for “Director” in second sentence, was executed to subsec. (d)(1)(B)(vi), to reflect the probable intent of Congress.
+Subsec. (d)(1)(B)(vi). Pub. L. 111–203, §369(5)(D)(i)(IV), which directed amendment of cl. (vi) of par. (1) of subsec. (d) by substituting "appropriate Federal banking agency" for "Director" in first sentence and "Comptroller" for "Director" in second sentence, was executed to subsec. (d)(1)(B)(vi), to reflect the probable intent of Congress.
 
-Subsec. (d)(1)(B)(vii). Pub. L. 111–203, §369(5)(D)(i)(V), which directed amendment of cl. (vii) of par. (1) of subsec. (d) by substituting “subpoena” for “subpena” in first sentence, “subpoenaed” for “subpenaed” in second sentence, and “appropriate Federal banking agency” for “Director” in third sentence, was executed to subsec. (d)(1)(B)(vii), to reflect the probable intent of Congress.
+Subsec. (d)(1)(B)(vii). Pub. L. 111–203, §369(5)(D)(i)(V), which directed amendment of cl. (vii) of par. (1) of subsec. (d) by substituting "subpoena" for "subpena" in first sentence, "subpoenaed" for "subpenaed" in second sentence, and "appropriate Federal banking agency" for "Director" in third sentence, was executed to subsec. (d)(1)(B)(vii), to reflect the probable intent of Congress.
 
-Subsec. (d)(2)(A). Pub. L. 111–203, §369(5)(D)(ii)(I), substituted “The appropriate Federal banking agency” for “The Director of the Office of Thrift Supervision”, “an insured savings association” for “any insured savings association”, and “appropriate Federal banking agency determines, in the discretion of the appropriate Federal banking agency” for “Director determines, in the Director's discretion”.
+Subsec. (d)(2)(A). Pub. L. 111–203, §369(5)(D)(ii)(I), substituted "The appropriate Federal banking agency" for "The Director of the Office of Thrift Supervision", "an insured savings association" for "any insured savings association", and "appropriate Federal banking agency determines, in the discretion of the appropriate Federal banking agency" for "Director determines, in the Director's discretion".
 
-Subsec. (d)(2)(B) to (E). Pub. L. 111–203, §369(5)(D)(ii)(II), (III), (IV)(bb), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+Subsec. (d)(2)(B) to (E). Pub. L. 111–203, §369(5)(D)(ii)(II), (III), (IV)(bb), substituted "appropriate Federal banking agency" for "Director" wherever appearing.
 
-Subsec. (d)(2)(E)(ii). Pub. L. 111–203, §369(5)(D)(ii)(IV)(aa), struck out “or RTC” after “FDIC” in heading and “or the Resolution Trust Corporation, as appropriate,” after “the Federal Deposit Insurance Corporation” in two places in text.
+Subsec. (d)(2)(E)(ii). Pub. L. 111–203, §369(5)(D)(ii)(IV)(aa), struck out "or RTC" after "FDIC" in heading and "or the Resolution Trust Corporation, as appropriate," after "the Federal Deposit Insurance Corporation" in two places in text.
 
-Subsec. (d)(3)(A). Pub. L. 111–203, §369(5)(D)(iii)(I), substituted “Comptroller” for “Director” in two places.
+Subsec. (d)(3)(A). Pub. L. 111–203, §369(5)(D)(iii)(I), substituted "Comptroller" for "Director" in two places.
 
-Subsec. (d)(3)(B). Pub. L. 111–203, §369(5)(D)(iii)(II), in heading, struck out “or RTC” after “FDIC” and, in text, struck out “Corporation or the Resolution Trust” after “where the Federal Deposit Insurance” and substituted “Comptroller” for “Director”.
+Subsec. (d)(3)(B). Pub. L. 111–203, §369(5)(D)(iii)(II), in heading, struck out "or RTC" after "FDIC" and, in text, struck out "Corporation or the Resolution Trust" after "where the Federal Deposit Insurance" and substituted "Comptroller" for "Director".
 
-Subsec. (d)(4). Pub. L. 111–203, §369(5)(D)(iv), substituted “appropriate Federal banking agency” for “Director”.
+Subsec. (d)(4). Pub. L. 111–203, §369(5)(D)(iv), substituted "appropriate Federal banking agency" for "Director".
 
-Subsec. (d)(6)(A). Pub. L. 111–203, §369(5)(D)(v)(I), substituted “Comptroller” for “Director”.
+Subsec. (d)(6)(A). Pub. L. 111–203, §369(5)(D)(v)(I), substituted "Comptroller" for "Director".
 
-Subsec. (d)(6)(B)(i), (C), (7)(A), (B). Pub. L. 111–203, §369(5)(D)(v)(II), (vi)(I), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+Subsec. (d)(6)(B)(i), (C), (7)(A), (B). Pub. L. 111–203, §369(5)(D)(v)(II), (vi)(I), substituted "appropriate Federal banking agency" for "Director" wherever appearing.
 
-Subsec. (d)(7)(C). Pub. L. 111–203, §369(5)(D)(vi)(II), substituted “Federal Deposit Insurance Corporation or the Comptroller, as appropriate,” for “Director”.
+Subsec. (d)(7)(C). Pub. L. 111–203, §369(5)(D)(vi)(II), substituted "Federal Deposit Insurance Corporation or the Comptroller, as appropriate," for "Director".
 
-Subsec. (d)(7)(D). Pub. L. 111–203, §369(5)(D)(vi)(I), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+Subsec. (d)(7)(D). Pub. L. 111–203, §369(5)(D)(vi)(I), substituted "appropriate Federal banking agency" for "Director" wherever appearing.
 
-Subsec. (d)(7)(E). Pub. L. 111–203, §369(5)(D)(vi)(III), added subpar. (E) and struck out former subpar. (E). Prior to amendment, text read as follows: “The Director may issue such regulations and orders, including those issued pursuant to section 8 of the Federal Deposit Insurance Act, as may be necessary to enable the Director to administer and carry out this paragraph and to prevent evasion of this paragraph.”
+Subsec. (d)(7)(E). Pub. L. 111–203, §369(5)(D)(vi)(III), added subpar. (E) and struck out former subpar. (E). Prior to amendment, text read as follows: "The Director may issue such regulations and orders, including those issued pursuant to section 8 of the Federal Deposit Insurance Act, as may be necessary to enable the Director to administer and carry out this paragraph and to prevent evasion of this paragraph."
 
-Subsec. (e)(2). Pub. L. 111–203, §369(5)(E), substituted “Comptroller” for “Director”.
+Subsec. (e)(2). Pub. L. 111–203, §369(5)(E), substituted "Comptroller" for "Director".
 
-Subsec. (i). Pub. L. 111–203, §369(5)(F)(iv), which directed substitution of “Comptroller” for “Director” wherever appearing “except as provided in clauses (i) through (iii)” of Pub. L. 111–203, §369(5)(F), could not be executed because “Director” did not appear subsequent to amendment by Pub. L. 111–203, §369(5)(F)(i)–(iii). See notes below.
+Subsec. (i). Pub. L. 111–203, §369(5)(F)(iv), which directed substitution of "Comptroller" for "Director" wherever appearing "except as provided in clauses (i) through (iii)" of Pub. L. 111–203, §369(5)(F), could not be executed because "Director" did not appear subsequent to amendment by Pub. L. 111–203, §369(5)(F)(i)–(iii). See notes below.
 
-Subsec. (i)(1). Pub. L. 111–203, §369(5)(F)(i), substituted “Comptroller” for “Director”.
+Subsec. (i)(1). Pub. L. 111–203, §369(5)(F)(i), substituted "Comptroller" for "Director".
 
-Subsec. (i)(2). Pub. L. 111–203, §369(5)(F)(i), (ii), substituted “Comptroller” for “Director” wherever appearing in heading and text.
+Subsec. (i)(2). Pub. L. 111–203, §369(5)(F)(i), (ii), substituted "Comptroller" for "Director" wherever appearing in heading and text.
 
-Subsec. (i)(3)(A)(iii), (B)(i), (ii), (4)(A). Pub. L. 111–203, §369(5)(F)(i), substituted “Comptroller” for “Director”.
+Subsec. (i)(3)(A)(iii), (B)(i), (ii), (4)(A). Pub. L. 111–203, §369(5)(F)(i), substituted "Comptroller" for "Director".
 
-Subsec. (i)(5)(A). Pub. L. 111–203, §369(5)(F)(iii), struck out “of the Currency” after “Comptroller”.
+Subsec. (i)(5)(A). Pub. L. 111–203, §369(5)(F)(iii), struck out "of the Currency" after "Comptroller".
 
 Subsec. (i)(6). Pub. L. 111–203, §612(c), added par. (6).
 
-Subsecs. (m) to (o). Pub. L. 111–203, §369(5)(H), substituted “Comptroller” for “Director” wherever appearing.
+Subsecs. (m) to (o). Pub. L. 111–203, §369(5)(H), substituted "Comptroller" for "Director" wherever appearing.
 
-Subsec. (o)(1). Pub. L. 111–203, §369(5)(G)(i), which directed substitution of “Comptroller” for “Director”, was executed by making the substitution for “Director” both places it appeared, to reflect the probable intent of Congress.
+Subsec. (o)(1). Pub. L. 111–203, §369(5)(G)(i), which directed substitution of "Comptroller" for "Director", was executed by making the substitution for "Director" both places it appeared, to reflect the probable intent of Congress.
 
-Subsec. (o)(2)(B). Pub. L. 111–203, §369(5)(G)(ii), substituted “determination of the Comptroller” for “Director's determination”.
+Subsec. (o)(2)(B). Pub. L. 111–203, §369(5)(G)(ii), substituted "determination of the Comptroller" for "Director's determination".
 
-Subsec. (p). Pub. L. 111–203, §369(5)(H), substituted “Comptroller” for “Director” wherever appearing.
+Subsec. (p). Pub. L. 111–203, §369(5)(H), substituted "Comptroller" for "Director" wherever appearing.
 
-Subsec. (q)(4). Pub. L. 111–203, §369(5)(I)(ii), substituted “Board” for “Director”.
+Subsec. (q)(4). Pub. L. 111–203, §369(5)(I)(ii), substituted "Board" for "Director".
 
-Subsec. (q)(6). Pub. L. 111–203, §369(5)(I), substituted “The Board may” for “The Director may” and “the Board in consultation with the Comptroller and the Corporation, considers” for “the Director considers” and struck out “of Governors of the Federal Reserve System” before “pursuant to section 1972”.
+Subsec. (q)(6). Pub. L. 111–203, §369(5)(I), substituted "The Board may" for "The Director may" and "the Board in consultation with the Comptroller and the Corporation, considers" for "the Director considers" and struck out "of Governors of the Federal Reserve System" before "pursuant to section 1972".
 
-Subsec. (r)(3). Pub. L. 111–203, §369(5)(J), substituted “Comptroller of the Currency” for “Director”.
+Subsec. (r)(3). Pub. L. 111–203, §369(5)(J), substituted "Comptroller of the Currency" for "Director".
 
-Subsec. (s)(1), (2). Pub. L. 111–203, §369(5)(K)(i), (ii), which directed substitution of “Comptroller of the Currency” for “Director”, was executed by making the substitution for “Director” wherever appearing, to reflect the probable intent of Congress.
+Subsec. (s)(1), (2). Pub. L. 111–203, §369(5)(K)(i), (ii), which directed substitution of "Comptroller of the Currency" for "Director", was executed by making the substitution for "Director" wherever appearing, to reflect the probable intent of Congress.
 
-Subsec. (s)(3). Pub. L. 111–203, §369(5)(P), substituted “by the Comptroller” for “by the Director”.
+Subsec. (s)(3). Pub. L. 111–203, §369(5)(P), substituted "by the Comptroller" for "by the Director".
 
-Pub. L. 111–203, §369(5)(K)(iii), substituted “discretion of the appropriate Federal banking agency, the appropriate Federal banking agency,” for “Director's discretion, the Director”.
+Pub. L. 111–203, §369(5)(K)(iii), substituted "discretion of the appropriate Federal banking agency, the appropriate Federal banking agency," for "Director's discretion, the Director".
 
-Subsec. (s)(4)(A). Pub. L. 111–203, §369(5)(K)(iv), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+Subsec. (s)(4)(A). Pub. L. 111–203, §369(5)(K)(iv), substituted "appropriate Federal banking agency" for "Director" wherever appearing.
 
-Subsec. (s)(5). Pub. L. 111–203, §369(5)(K)(v)(I), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+Subsec. (s)(5). Pub. L. 111–203, §369(5)(K)(v)(I), substituted "appropriate Federal banking agency" for "Director" wherever appearing.
 
-Subsec. (s)(5)(A). Pub. L. 111–203, §369(5)(K)(v)(II), substituted “approval of the appropriate Federal banking agency” for “Director's approval”.
+Subsec. (s)(5)(A). Pub. L. 111–203, §369(5)(K)(v)(II), substituted "approval of the appropriate Federal banking agency" for "Director's approval".
 
-Subsec. (t)(1)(A). Pub. L. 111–203, §369(5)(L)(viii), substituted “appropriate Federal banking agency” for “Director” in introductory provisions.
+Subsec. (t)(1)(A). Pub. L. 111–203, §369(5)(L)(viii), substituted "appropriate Federal banking agency" for "Director" in introductory provisions.
 
-Subsec. (t)(1)(D). Pub. L. 111–203, §369(5)(L)(i), struck out subpar. (D). Text read as follows: “The Director shall promulgate final regulations under this paragraph not later than 90 days after August 9, 1989, and those regulations shall become effective not later than 120 days after August 9, 1989.”
+Subsec. (t)(1)(D). Pub. L. 111–203, §369(5)(L)(i), struck out subpar. (D). Text read as follows: "The Director shall promulgate final regulations under this paragraph not later than 90 days after August 9, 1989, and those regulations shall become effective not later than 120 days after August 9, 1989."
 
-Subsec. (t)(3). Pub. L. 111–203, §369(5)(L)(ii), substituted “\[Repealed\].” for provisions relating to transition rule.
+Subsec. (t)(3). Pub. L. 111–203, §369(5)(L)(ii), substituted "\[Repealed\]." for provisions relating to transition rule.
 
-Subsec. (t)(5)(B). Pub. L. 111–203, §369(5)(L)(iii)(I), substituted “appropriate Federal banking agency, in the sole discretion of the appropriate Federal banking agency” for “Corporation, in its sole discretion”.
+Subsec. (t)(5)(B). Pub. L. 111–203, §369(5)(L)(iii)(I), substituted "appropriate Federal banking agency, in the sole discretion of the appropriate Federal banking agency" for "Corporation, in its sole discretion".
 
 Subsec. (t)(5)(D). Pub. L. 111–203, §369(5)(L)(iii)(II), struck out subpar. (D) which related to transition rule.
 
-Subsec. (t)(6)(A). Pub. L. 111–203, §369(5)(L)(iv)(I), substituted “\[Reserved\].” for provisions relating to consequences of failing to comply with capital standards prior to Jan. 1, 1991.
+Subsec. (t)(6)(A). Pub. L. 111–203, §369(5)(L)(iv)(I), substituted "\[Reserved\]." for provisions relating to consequences of failing to comply with capital standards prior to Jan. 1, 1991.
 
-Subsec. (t)(6)(B). Pub. L. 111–203, §369(5)(L)(iv)(II), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+Subsec. (t)(6)(B). Pub. L. 111–203, §369(5)(L)(iv)(II), substituted "appropriate Federal banking agency" for "Director" wherever appearing.
 
-Subsec. (t)(6)(C). Pub. L. 111–203, §369(5)(L)(iv)(III)(cc), substituted “appropriate Federal banking agency” for “Director” in introductory provisions.
+Subsec. (t)(6)(C). Pub. L. 111–203, §369(5)(L)(iv)(III)(cc), substituted "appropriate Federal banking agency" for "Director" in introductory provisions.
 
-Subsec. (t)(6)(C)(i). Pub. L. 111–203, §369(5)(L)(iv)(III)(aa), substituted “prior approval of the appropriate Federal banking agency” for “Director's prior approval”.
+Subsec. (t)(6)(C)(i). Pub. L. 111–203, §369(5)(L)(iv)(III)(aa), substituted "prior approval of the appropriate Federal banking agency" for "Director's prior approval".
 
-Subsec. (t)(6)(C)(ii). Pub. L. 111–203, §369(5)(L)(iv)(III)(bb), substituted “discretion of the appropriate Federal banking agency” for “Director's discretion”.
+Subsec. (t)(6)(C)(ii). Pub. L. 111–203, §369(5)(L)(iv)(III)(bb), substituted "discretion of the appropriate Federal banking agency" for "Director's discretion".
 
-Subsec. (t)(6)(D). Pub. L. 111–203, §369(5)(L)(viii), substituted “appropriate Federal banking agency” for “Director” in two places.
+Subsec. (t)(6)(D). Pub. L. 111–203, §369(5)(L)(viii), substituted "appropriate Federal banking agency" for "Director" in two places.
 
-Subsec. (t)(6)(E). Pub. L. 111–203, §369(5)(L)(iv)(IV), substituted “appropriate Federal banking agency may” for “Director shall”.
+Subsec. (t)(6)(E). Pub. L. 111–203, §369(5)(L)(iv)(IV), substituted "appropriate Federal banking agency may" for "Director shall".
 
-Subsec. (t)(6)(F). Pub. L. 111–203, §369(5)(L)(iv)(V), substituted “appropriate Federal banking agency under this chapter or any other provision of law.” for “Director under other provisions of law.”
+Subsec. (t)(6)(F). Pub. L. 111–203, §369(5)(L)(iv)(V), substituted "appropriate Federal banking agency under this chapter or any other provision of law." for "Director under other provisions of law."
 
-Subsec. (t)(7). Pub. L. 111–203, §369(5)(L)(v), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+Subsec. (t)(7). Pub. L. 111–203, §369(5)(L)(v), substituted "appropriate Federal banking agency" for "Director" wherever appearing.
 
-Subsec. (t)(8). Pub. L. 111–203, §369(5)(L)(vi), substituted “\[Repealed\].” for provisions relating to temporary authority to make exceptions for eligible savings associations.
+Subsec. (t)(8). Pub. L. 111–203, §369(5)(L)(vi), substituted "\[Repealed\]." for provisions relating to temporary authority to make exceptions for eligible savings associations.
 
-Subsec. (t)(9)(A). Pub. L. 111–203, §369(5)(L)(vii)(I), substituted “Comptroller prescribes” for “Director prescribes”.
+Subsec. (t)(9)(A). Pub. L. 111–203, §369(5)(L)(vii)(I), substituted "Comptroller prescribes" for "Director prescribes".
 
-Subsec. (t)(9)(B). Pub. L. 111–203, §369(5)(L)(vii)(III), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “The term ‘qualifying supervisory goodwill’ means supervisory goodwill existing on April 12, 1989, amortized on a straightline basis over the shorter of—
+Subsec. (t)(9)(B). Pub. L. 111–203, §369(5)(L)(vii)(III), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "The term 'qualifying supervisory goodwill' means supervisory goodwill existing on April 12, 1989, amortized on a straightline basis over the shorter of—
 
-&emsp;“(i) 20 years, or
+&emsp;"(i) 20 years, or
 
-&emsp;“(ii) the remaining period for amortization in effect on April 12, 1989.”
+&emsp;"(ii) the remaining period for amortization in effect on April 12, 1989."
 
 Subsec. (t)(9)(C). Pub. L. 111–203, §369(5)(L)(vii)(III), redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
 
-Pub. L. 111–203, §369(5)(L)(vii)(II), struck out “of the Currency” after “Comptroller”.
+Pub. L. 111–203, §369(5)(L)(vii)(II), struck out "of the Currency" after "Comptroller".
 
 Subsec. (t)(9)(D). Pub. L. 111–203, §369(5)(L)(vii)(III), redesignated subpar. (D) as (C).
 
-Subsec. (t)(10)(B). Pub. L. 111–203, §369(5)(L)(viii), substituted “appropriate Federal banking agency” for “Director”.
+Subsec. (t)(10)(B). Pub. L. 111–203, §369(5)(L)(viii), substituted "appropriate Federal banking agency" for "Director".
 
-Subsec. (u)(2)(A)(ii)(II). Pub. L. 111–203, §369(5)(M), substituted “appropriate Federal banking agency” for “Director”.
+Subsec. (u)(2)(A)(ii)(II). Pub. L. 111–203, §369(5)(M), substituted "appropriate Federal banking agency" for "Director".
 
-Subsec. (u)(3). Pub. L. 111–203, §610(b), which directed substitution of “Comptroller of the Currency” for “Director” wherever appearing, could not be executed because the word “Director” did not appear subsequent to amendment by Pub. L. 111–203, §369(5)(M). See below.
+Subsec. (u)(3). Pub. L. 111–203, §610(b), which directed substitution of "Comptroller of the Currency" for "Director" wherever appearing, could not be executed because the word "Director" did not appear subsequent to amendment by Pub. L. 111–203, §369(5)(M). See below.
 
-Pub. L. 111–203, §369(5)(M), substituted “appropriate Federal banking agency” for “Director” in two places.
+Pub. L. 111–203, §369(5)(M), substituted "appropriate Federal banking agency" for "Director" in two places.
 
-Subsec. (v). Pub. L. 111–203, §369(5)(N)(ii), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+Subsec. (v). Pub. L. 111–203, §369(5)(N)(ii), substituted "appropriate Federal banking agency" for "Director" wherever appearing.
 
-Subsec. (v)(2)(C). Pub. L. 111–203, §369(5)(N)(i), substituted “determinations of the appropriate Federal banking agency” for “Director's determinations”.
+Subsec. (v)(2)(C). Pub. L. 111–203, §369(5)(N)(i), substituted "determinations of the appropriate Federal banking agency" for "Director's determinations".
 
-Subsec. (w)(1)(A)(I). Pub. L. 111–203, §369(5)(P), substituted “Comptroller” for “Director”.
+Subsec. (w)(1)(A)(I). Pub. L. 111–203, §369(5)(P), substituted "Comptroller" for "Director".
 
-Subsec. (w)(1)(A)(II). Pub. L. 111–203, §369(5)(P), substituted “Comptroller shall” for “Director shall”.
+Subsec. (w)(1)(A)(II). Pub. L. 111–203, §369(5)(P), substituted "Comptroller shall" for "Director shall".
 
-Pub. L. 111–203, §369(5)(O)(i), substituted “intention of the Comptroller” for “Director's intention”.
+Pub. L. 111–203, §369(5)(O)(i), substituted "intention of the Comptroller" for "Director's intention".
 
-Subsec. (w)(1)(B). Pub. L. 111–203, §369(5)(P), substituted “Comptroller may” for “Director may”.
+Subsec. (w)(1)(B). Pub. L. 111–203, §369(5)(P), substituted "Comptroller may" for "Director may".
 
-Pub. L. 111–203, §369(5)(O)(ii), substituted “intention of the Comptroller” for “Director's intention”.
+Pub. L. 111–203, §369(5)(O)(ii), substituted "intention of the Comptroller" for "Director's intention".
 
-Subsec. (w)(2). Pub. L. 111–203, §369(5)(P), substituted “Comptroller” for “Director” in introductory provisions.
+Subsec. (w)(2). Pub. L. 111–203, §369(5)(P), substituted "Comptroller" for "Director" in introductory provisions.
 
-<b>2006</b>—Subsec. (c)(5)(A). Pub. L. 109–173, §9(e)(1)(A), struck out “that is a member of the Bank Insurance Fund” after “assets of a bank”.
+<b>2006</b>—Subsec. (c)(5)(A). Pub. L. 109–173, §9(e)(1)(A), struck out "that is a member of the Bank Insurance Fund" after "assets of a bank".
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(12)(A)(i). See 1996 Amendment note below.
 
-Subsec. (c)(6). Pub. L. 109–173, §9(e)(1)(B), substituted “For purposes of this subsection, the following definitions shall apply:” for “As used in this subsection—” in introductory provisions.
+Subsec. (c)(6). Pub. L. 109–173, §9(e)(1)(B), substituted "For purposes of this subsection, the following definitions shall apply:" for "As used in this subsection—" in introductory provisions.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(12)(A)(ii). See 1996 Amendment note below.
 
 Subsec. (i)(5). Pub. L. 109–351, §608(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
-“(A)
+"(A)
 
 In general.—Any Federal savings association chartered and in operation before November 12, 1999, with branches in operation before November 12, 1999, in 1 or more States, may convert, at its option, with the approval of the Comptroller of the Currency or the appropriate State bank supervisor, into 1 or more national or State banks, each of which may encompass 1 or more of the branches of the Federal savings association in operation before November 12, 1999, in 1 or more States, but only if each resulting national or State bank will meet all financial, management, and capital requirements applicable to the resulting national or State bank.
 
-“(B)
+"(B)
 
-Definitions.—For purposes of this paragraph, the terms ‘State bank’ and ‘State bank supervisor’ have the meanings given those terms in section 3 of the Federal Deposit Insurance Act.”
+Definitions.—For purposes of this paragraph, the terms 'State bank' and 'State bank supervisor' have the meanings given those terms in section 3 of the Federal Deposit Insurance Act."
 
-Subsec. (o)(1). Pub. L. 109–173, §9(e)(1)(C), struck out “that is a Bank Insurance Fund member” after “State-chartered savings bank”.
+Subsec. (o)(1). Pub. L. 109–173, §9(e)(1)(C), struck out "that is a Bank Insurance Fund member" after "State-chartered savings bank".
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(12)(A)(iii). See 1996 Amendment note below.
 
-Subsec. (o)(2)(A). Pub. L. 109–173, §9(e)(1)(D), substituted “insured by the Deposit Insurance Fund” for “a Bank Insurance Fund member until such time as it changes its status to a Savings Association Insurance Fund member”.
+Subsec. (o)(2)(A). Pub. L. 109–173, §9(e)(1)(D), substituted "insured by the Deposit Insurance Fund" for "a Bank Insurance Fund member until such time as it changes its status to a Savings Association Insurance Fund member".
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(12)(A)(iv). See 1996 Amendment note below.
 
-Subsec. (t)(4). Pub. L. 109–351, §402(1), substituted “(4) \[Repealed\].” for provisions relating to special rules for purchased mortgage servicing rights.
+Subsec. (t)(4). Pub. L. 109–351, §402(1), substituted "(4) \[Repealed\]." for provisions relating to special rules for purchased mortgage servicing rights.
 
-Subsec. (t)(5)(D)(iii)(II), (7)(C)(i)(I). Pub. L. 109–173, §9(e)(1)(E), (F), substituted “Deposit Insurance Fund” for “affected deposit insurance fund”.
+Subsec. (t)(5)(D)(iii)(II), (7)(C)(i)(I). Pub. L. 109–173, §9(e)(1)(E), (F), substituted "Deposit Insurance Fund" for "affected deposit insurance fund".
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(12)(A)(v), (vi). See 1996 Amendment note below.
 
-Subsec. (t)(9)(A). Pub. L. 109–351, §402(2), substituted “intangible assets.” for “intangible assets, plus any purchased mortgage servicing rights excluded from the Comptroller's definition of capital but included in calculating the core capital of savings associations pursuant to paragraph (4).”
+Subsec. (t)(9)(A). Pub. L. 109–351, §402(2), substituted "intangible assets." for "intangible assets, plus any purchased mortgage servicing rights excluded from the Comptroller's definition of capital but included in calculating the core capital of savings associations pursuant to paragraph (4)."
 
-Subsec. (u)(2)(A)(i). Pub. L. 109–351, §404(1), substituted “For any” for “for any” and a period for “; or” at end.
+Subsec. (u)(2)(A)(i). Pub. L. 109–351, §404(1), substituted "For any" for "for any" and a period for "; or" at end.
 
-Subsec. (u)(2)(A)(ii). Pub. L. 109–351, §404(2), substituted “To develop domestic” for “to develop domestic” in introductory provisions, redesignated subcls. (II) to (V) as (I) to (IV), respectively, and struck out former subcl. (I) which read as follows: “the purchase price of each single family dwelling unit the development of which is financed under this clause does not exceed $500,000;”.
+Subsec. (u)(2)(A)(ii). Pub. L. 109–351, §404(2), substituted "To develop domestic" for "to develop domestic" in introductory provisions, redesignated subcls. (II) to (V) as (I) to (IV), respectively, and struck out former subcl. (I) which read as follows: "the purchase price of each single family dwelling unit the development of which is financed under this clause does not exceed $500,000;".
 
-Subsec. (v)(2)(A)(i). Pub. L. 109–173, §9(e)(1)(G), substituted “or the Deposit Insurance Fund” for “the Savings Association Insurance Fund”.
+Subsec. (v)(2)(A)(i). Pub. L. 109–173, §9(e)(1)(G), substituted "or the Deposit Insurance Fund" for "the Savings Association Insurance Fund".
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(12)(A)(vii). See 1996 Amendment note below.
 
 Subsec. (x). Pub. L. 109–351, §403, added subsec. (x).
 
-<b>2000</b>—Subsec. (c)(1)(M). Pub. L. 106–569 amended heading and text generally. Prior to amendment, text read as follows: “Investments which, when made, are of a type that may be used to satisfy any liquidity requirement imposed by the Director pursuant to section 1465 of this title.”
+<b>2000</b>—Subsec. (c)(1)(M). Pub. L. 106–569 amended heading and text generally. Prior to amendment, text read as follows: "Investments which, when made, are of a type that may be used to satisfy any liquidity requirement imposed by the Director pursuant to section 1465 of this title."
 
 Subsec. (c)(4)(F). Pub. L. 106–554 added subpar. (F).
 
-<b>1999</b>—Subsec. (f). Pub. L. 106–102, §603, amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Each Federal savings association, upon receiving its charter, shall become automatically a member of the Federal home loan bank of the district in which it is located, or if convenience requires and the Director approves, shall become a member of a Federal home loan bank of an adjoining district. Such associations shall qualify for such membership in the manner provided in the Federal Home Loan Bank Act with respect to other members.”
+<b>1999</b>—Subsec. (f). Pub. L. 106–102, §603, amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "Each Federal savings association, upon receiving its charter, shall become automatically a member of the Federal home loan bank of the district in which it is located, or if convenience requires and the Director approves, shall become a member of a Federal home loan bank of an adjoining district. Such associations shall qualify for such membership in the manner provided in the Federal Home Loan Bank Act with respect to other members."
 
 Subsec. (i)(5). Pub. L. 106–102, §739, added par. (5).
 
 <b>1998</b>—Subsec. (d)(7), (8). Pub. L. 105–164 added pars. (7) and (8).
 
-<b>1996</b>—Subsec. (b)(4), (5). Pub. L. 104–208, §2303(a), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “Subject to regulations of the Director, a Federal savings association may issue credit cards, extend credit in connection therewith, and otherwise engage in or participate in credit card operations.”
+<b>1996</b>—Subsec. (b)(4), (5). Pub. L. 104–208, §2303(a), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: "Subject to regulations of the Director, a Federal savings association may issue credit cards, extend credit in connection therewith, and otherwise engage in or participate in credit card operations."
 
 Subsec. (c)(1)(T), (U). Pub. L. 104–208, §2303(b), added subpars. (T) and (U).
 
-Subsec. (c)(2)(A). Pub. L. 104–208, §2303(c), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “Secured or unsecured loans for commercial, corporate, business, or agricultural purposes. The aggregate amount of loans under this paragraph shall not exceed 10 percent of the assets of the Federal savings association.”
+Subsec. (c)(2)(A). Pub. L. 104–208, §2303(c), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "Secured or unsecured loans for commercial, corporate, business, or agricultural purposes. The aggregate amount of loans under this paragraph shall not exceed 10 percent of the assets of the Federal savings association."
 
-Subsec. (c)(3). Pub. L. 104–208, §2303(d), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out heading and text of former subpar. (A). Text read as follows: “Loans made for the payment of educational expenses.”
+Subsec. (c)(3). Pub. L. 104–208, §2303(d), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out heading and text of former subpar. (A). Text read as follows: "Loans made for the payment of educational expenses."
 
-Subsec. (c)(5)(A). Pub. L. 104–208, §2704(d)(12)(A)(i), which directed the amendment of subpar. (A) by striking “that is a member of the Bank Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (c)(5)(A). Pub. L. 104–208, §2704(d)(12)(A)(i), which directed the amendment of subpar. (A) by striking "that is a member of the Bank Insurance Fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (c)(6). Pub. L. 104–208, §2704(d)(12)(A)(ii), which directed the amendment of par. (6) by substituting “For purposes of this subsection, the following definitions shall apply:” for “As used in this subsection—”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (c)(6). Pub. L. 104–208, §2704(d)(12)(A)(ii), which directed the amendment of par. (6) by substituting "For purposes of this subsection, the following definitions shall apply:" for "As used in this subsection—", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (o)(1). Pub. L. 104–208, §2704(d)(12)(A)(iii), which directed the amendment of par. (1) by striking “that is a Bank Insurance Fund member”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (o)(1). Pub. L. 104–208, §2704(d)(12)(A)(iii), which directed the amendment of par. (1) by striking "that is a Bank Insurance Fund member", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (o)(2)(A). Pub. L. 104–208, §2704(d)(12)(A)(iv), which directed the amendment of subpar. (A) by substituting “insured by the Deposit Insurance Fund” for “a Bank Insurance Fund member until such time as it changes its status to a Savings Association Insurance Fund member”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (o)(2)(A). Pub. L. 104–208, §2704(d)(12)(A)(iv), which directed the amendment of subpar. (A) by substituting "insured by the Deposit Insurance Fund" for "a Bank Insurance Fund member until such time as it changes its status to a Savings Association Insurance Fund member", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (q)(6). Pub. L. 104–208, §2216(b), added par. (6).
 
-Subsec. (r)(1). Pub. L. 104–208, §2303(f)(1), in first sentence, substituted “subparagraph (C) of that section” for “subparagraph (c) of that section” and inserted before period at end “, or qualifies as a qualified thrift lender, as determined under section 1467a(m) of this title” and, in second sentence, inserted before period at end “or as a qualified thrift lender, as determined under section 1467a(m) of this title, as applicable”.
+Subsec. (r)(1). Pub. L. 104–208, §2303(f)(1), in first sentence, substituted "subparagraph (C) of that section" for "subparagraph (c) of that section" and inserted before period at end ", or qualifies as a qualified thrift lender, as determined under section 1467a(m) of this title" and, in second sentence, inserted before period at end "or as a qualified thrift lender, as determined under section 1467a(m) of this title, as applicable".
 
-Subsec. (r)(2)(C). Pub. L. 104–208, §2303(f)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “the law of the State where the branch would be located would permit the branch to be established if the branch were a Federal savings associationchartered by the State in which its home office is located; or”.
+Subsec. (r)(2)(C). Pub. L. 104–208, §2303(f)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: "the law of the State where the branch would be located would permit the branch to be established if the branch were a Federal savings association chartered by the State in which its home office is located; or".
 
-Subsec. (t)(5)(D)(iii)(II), (7)(C)(i)(I). Pub. L. 104–208, §2704(d)(12)(A)(v), (vi), which directed the substitution of “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (t)(5)(D)(iii)(II), (7)(C)(i)(I). Pub. L. 104–208, §2704(d)(12)(A)(v), (vi), which directed the substitution of "Deposit Insurance Fund" for "affected deposit insurance fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (v)(2)(A)(i). Pub. L. 104–208, §2704(d)(12)(A)(vii), which directed the amendment of cl. (i) by substituting “or the Deposit Insurance Fund” for “, the Savings Association Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (v)(2)(A)(i). Pub. L. 104–208, §2704(d)(12)(A)(vii), which directed the amendment of cl. (i) by substituting "or the Deposit Insurance Fund" for ", the Savings Association Insurance Fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 <b>1994</b>—Subsec. (c)(1)(S). Pub. L. 103–325, §206(a), added subpar. (S).
 
 Subsec. (c)(4)(E). Pub. L. 103–325, §322(b), added subpar. (E).
 
-Subsec. (w)(1)(B). Pub. L. 103–325, §411(c)(2)(D), substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
+Subsec. (w)(1)(B). Pub. L. 103–325, §411(c)(2)(D), substituted "section 5322 or 5324 of title 31" for "section 5322 of title 31".
 
-<b>1992</b>—Subsec. (c)(2)(B)(iii). Pub. L. 102–550, §1606(f)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “If the Director permits any increased authority pursuant to clause (ii), the Director shall closely monitor the Federal savings association's condition and lending activities to ensure that the savings association carries out all authority under this paragraph in a safe and sound manner and complies with this subparagraph and all relevant laws and regulations”.
+<b>1992</b>—Subsec. (c)(2)(B)(iii). Pub. L. 102–550, §1606(f)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "If the Director permits any increased authority pursuant to clause (ii), the Director shall closely monitor the Federal savings association's condition and lending activities to ensure that the savings association carries out all authority under this paragraph in a safe and sound manner and complies with this subparagraph and all relevant laws and regulations".
 
-Subsec. (c)(2)(C). Pub. L. 102–550, §1606(f)(2), struck out comma after “including”.
+Subsec. (c)(2)(C). Pub. L. 102–550, §1606(f)(2), struck out comma after "including".
 
-Subsec. (c)(2)(D). Pub. L. 102–550, §1606(f)(3), inserted before period at end of last sentence “, except that amounts in excess of 30 percent of the assets may be invested only in loans which are made by the association directly to the original obligor and with respect to which the association does not pay any finder, referral, or other fee, directly or indirectly, to any third party”.
+Subsec. (c)(2)(D). Pub. L. 102–550, §1606(f)(3), inserted before period at end of last sentence ", except that amounts in excess of 30 percent of the assets may be invested only in loans which are made by the association directly to the original obligor and with respect to which the association does not pay any finder, referral, or other fee, directly or indirectly, to any third party".
 
 Subsec. (d)(2)(A). Pub. L. 102–550, §1603(d)(8), inserted period at end.
 
-Subsec. (t)(5)(D)(ii). Pub. L. 102–310 substituted “October 31, 1992” for “June 30, 1992” and “November 1, 1992” for “July 1, 1992”.
+Subsec. (t)(5)(D)(ii). Pub. L. 102–310 substituted "October 31, 1992" for "June 30, 1992" and "November 1, 1992" for "July 1, 1992".
 
-Subsec. (t)(5)(D)(iii) to (ix). Pub. L. 102–550, §953, added cls. (iii) to (viii), redesignated former cl. (iii) as (ix), and inserted “or prescribed under clause (iii)” after “clause (ii)”.
+Subsec. (t)(5)(D)(iii) to (ix). Pub. L. 102–550, §953, added cls. (iii) to (viii), redesignated former cl. (iii) as (ix), and inserted "or prescribed under clause (iii)" after "clause (ii)".
 
 Subsec. (w). Pub. L. 102–550, §1502(b), added subsec. (w).
 
-<b>1991</b>—Subsec. (c)(2)(B). Pub. L. 102–242, §441(b), which directed amendment of subpar. (B) by inserting before period at end the following: “, provided however, that no amount in excess of 30 percent of the assets may be invested in loans made directly by the association to the original obligor, and the association does not pay finder, referral, or other fees, directly or indirectly, to a third party.”, could not be executed because subpar. (B) did not contain a period at end thereof. The new language probably was intended to be inserted before period at end of subpar. (D).
+<b>1991</b>—Subsec. (c)(2)(B). Pub. L. 102–242, §441(b), which directed amendment of subpar. (B) by inserting before period at end the following: ", provided however, that no amount in excess of 30 percent of the assets may be invested in loans made directly by the association to the original obligor, and the association does not pay finder, referral, or other fees, directly or indirectly, to a third party.", could not be executed because subpar. (B) did not contain a period at end thereof. The newlanguage probably was intended to be inserted before period at end of subpar. (D).
 
-Subsec. (c)(2)(D). Pub. L. 102–242, §441(a), substituted “35 percent” for “30 percent”.
+Subsec. (c)(2)(D). Pub. L. 102–242, §441(a), substituted "35 percent" for "30 percent".
 
 Subsec. (c)(5), (6). Pub. L. 102–242, §501(c), added par. (5) and redesignated former par. (5) as (6).
 
 Subsec. (d)(2). Pub. L. 102–242, §133(d), added subpar. (A), redesignated subpars. (E) to (I) as (B) to (F), respectively, and struck out former subpars. (A) to (D) which related to grounds for appointment of conservator or receiver for Federal savings associations, additional grounds for appointment of such conservator or receiver, grounds for appointment of conservator or receiver for State savings associations, and approval of State officials, respectively.
 
-Subsec. (t)(7)(A), (B). Pub. L. 102–242, §131(d), inserted “under this chapter” before period at end of subpar. (A) and after “imposed by the Director” in subpar. (B).
+Subsec. (t)(7)(A), (B). Pub. L. 102–242, §131(d), inserted "under this chapter" before period at end of subpar. (A) and after "imposed by the Director" in subpar. (B).
 
 <b>1989</b>—Pub. L. 101–73 amended section generally, substituting subsecs. (a) to (f), (h), (i), and (k) to (v) relating to Federal savings associations for former subsecs. (a) to (s) relating to thrift institutions, and repealing subsecs. (g) and (j).
 
@@ -1406,63 +1406,63 @@ Subsec. (s). Pub. L. 100–86, §406(a), added subsec. (s).
 
 Subsec. (d)(16). Pub. L. 99–570, §1359(b)(1), added par. (16).
 
-Subsecs. (l), (r)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+Subsecs. (l), (r)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
 <b>1984</b>—Subsec. (c)(1)(S). Pub. L. 98–440 added subpar. (S).
 
 Subsec. (d)(6)(A). Pub. L. 98–620 struck out provision that such proceedings had to be given precedence over other cases pending in such courts, and had to be in every way expedited.
 
-<b>1983</b>—Subsec. (b)(1)(B). Pub. L. 97–457, §12, inserted “may accept a demand account from itself and” after “An association”.
+<b>1983</b>—Subsec. (b)(1)(B). Pub. L. 97–457, §12, inserted "may accept a demand account from itself and" after "An association".
 
 Subsec. (c)(3)(D). Pub. L. 97–457, §14(a)(1), added subpar. (D).
 
-Subsec. (o)(1). Pub. L. 97–457, §2, inserted “examination,” after “operation,”.
+Subsec. (o)(1). Pub. L. 97–457, §2, inserted "examination," after "operation,".
 
-Subsec. (r)(2)(B). Pub. L. 97–457, §14(b), substituted “prior to the enactment of the Garn-St Germain Depository Institutions Act” for “prior to the enactment of the Depository Institutions Amendments”. Because the phrase had been translated as “prior to October 15, 1982” the amendment resulted in no change in text.
+Subsec. (r)(2)(B). Pub. L. 97–457, §14(b), substituted "prior to the enactment of the Garn-St Germain Depository Institutions Act" for "prior to the enactment of the Depository Institutions Amendments". Because the phrase had been translated as "prior to October 15, 1982" the amendment resulted in no change in text.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–320, §311, substituted provisions that in order to provide thrift institutions for the deposit or investment of funds and for the extension of credit for homes and other goods and services, the Board is authorized, under such rules and regulations as it may prescribe, to provide for the organization, incorporation, examination, operation, and regulation of associations to be known as Federal savings and loan associations, or Federal savings banks, and to issue charters therefor, giving primary consideration to the best practices of thrift institutions in the United States and that the lending and investment authorities are conferred by this section to provide such institutions the flexibility necessary to maintain their role of providing credit for housing for provisions which authorized the Board to provide for organization, etc. of Federal Savings and Loan Associations or Federal Mutual Savings Banks, and detailed the requirements as to associations which were State mutual savings banks or other associations which were formerly organized as savings banks under State law.
 
-Subsec. (b)(1)(A). Pub. L. 97–320, §312, designated existing first sentence as subpar. (A), struck out from parenthetical phrase “and all of which shall have the same priority upon liquidation” after “savings accounts”, authorized the raising of capital in the form of demand accounts of persons or organizations that have a business, corporate, commercial, or agricultural relationship with the association, and substituted “evidence of accounts” for “evidence of savings accounts”.
+Subsec. (b)(1)(A). Pub. L. 97–320, §312, designated existing first sentence as subpar. (A), struck out from parenthetical phrase "and all of which shall have the same priority upon liquidation" after "savings accounts", authorized the raising of capital in the form of demand accounts of persons or organizations that have a business, corporate, commercial, or agricultural relationship with the association, and substituted "evidence of accounts" for "evidence of savings accounts".
 
-Subsec. (b)(1)(B). Pub. L. 97–320, §312, designated existing second sentence as subpar. (B); authorized an association to accept demand accounts from a commercial, corporate, business, or agricultural entity for the sole purpose of effectuating payments thereto by a nonbusiness customer; barred an association from payment of interest on a demand account; inserted requirement that “All savings accounts and demand accounts shall have the same priority upon liquidation”, incorporating such requirement for savings accounts from existing first sentence; and substituted “Holder of accounts” for “Holder of savings accounts”.
+Subsec. (b)(1)(B). Pub. L. 97–320, §312, designated existing second sentence as subpar. (B); authorized an association to accept demand accounts from a commercial, corporate, business, or agricultural entity for the sole purpose of effectuating payments thereto by a nonbusiness customer; barred an association from payment of interest on a demand account; inserted requirement that "All savings accounts and demand accounts shall have the same priority upon liquidation", incorporating such requirement for savings accounts from existing first sentence; and substituted "Holder of accounts" for "Holder of savings accounts".
 
-Subsec. (b)(1)(C). Pub. L. 97–320, §312, designated existing third sentence as subpar. (C) and substituted “an association's charter” for “the association's charter” and “fourteen” days for “thirty” days in two places.
+Subsec. (b)(1)(C). Pub. L. 97–320, §312, designated existing third sentence as subpar. (C) and substituted "an association's charter" for "the association's charter" and "fourteen" days for "thirty" days in two places.
 
-Subsec. (b)(1)(D). Pub. L. 97–320, §312, designated existing fourth sentence as subpar. (D), substituted “accounts” for “savings accounts”, and inserted in parenthetical phrase “, where applicable,”.
+Subsec. (b)(1)(D). Pub. L. 97–320, §312, designated existing fourth sentence as subpar. (D), substituted "accounts" for "savings accounts", and inserted in parenthetical phrase ", where applicable,".
 
-Subsec. (b)(1)(E). Pub. L. 97–320, §312, designated existing fifth sentence as subpar. (E) and substituted “Accounts may be subject” for “Savings accounts shall not be subject” and “transferable or other order or authorization to the association, as the Board may by regulation provide” for “transferable order or authorization to the association, but the Board may by regulation provide for withdrawal or transfer of savings accounts upon nontransferable order or authorization”.
+Subsec. (b)(1)(E). Pub. L. 97–320, §312, designated existing fifth sentence as subpar. (E) and substituted "Accounts may be subject" for "Savings accounts shall not be subject" and "transferable or other order or authorization to the association, as the Board may by regulation provide" for "transferable order or authorization to the association, but the Board may by regulation provide for withdrawal or transfer of savings accounts upon nontransferable order or authorization".
 
-Subsec. (b)(1)(F). Pub. L. 97–320, §312, designated existing sixth sentence as subpar. (F) and substituted “Notwithstanding any limitation of this section, associations may establish remote service units” for “This section does not prohibit the establishment of remote service units by associations” and “crediting savings or demand accounts” for “crediting existing savings accounts”.
+Subsec. (b)(1)(F). Pub. L. 97–320, §312, designated existing sixth sentence as subpar. (F) and substituted "Notwithstanding any limitation of this section, associations may establish remote service units" for "This section does not prohibit the establishment of remote service units by associations" and "crediting savings or demand accounts" for "crediting existing savings accounts".
 
-Subsec. (b)(2). Pub. L. 97–320, §312, substituted “, including capital stock,” for “(except capital stock)”.
+Subsec. (b)(2). Pub. L. 97–320, §312, substituted ", including capital stock," for "(except capital stock)".
 
 Subsec. (b)(5)(B). Pub. L. 97–320, §202(b)(1), added subpar. (B). Provisions of former subpar. (B) were moved to subpar. (C) and amended.
 
 Subsec. (b)(5)(C). Pub. L. 97–320, §202(b)(2), added subpar. (C) which consisted of the provisions of former subpar. (B) but with the addition of a reference to net worth certificates issued pursuant to section 1729(f) of this title.
 
-Subsec. (c)(1)(A). Pub. L. 97–320, §321, substituted “transaction accounts” for “negotiable order-of-withdrawal accounts”.
+Subsec. (c)(1)(A). Pub. L. 97–320, §321, substituted "transaction accounts" for "negotiable order-of-withdrawal accounts".
 
-Subsec. (c)(1)(B). Pub. L. 97–320, §322, substituted “Loans on the security of liens upon residential or nonresidential real property, except that the loans and investments of an association on nonresidential real property may not exceed 40 per centum of its assets” for “Loans on the security of liens upon residential real property in an amount which, when added to the amount unpaid upon prior mortgages, liens or encumbrances, if any, upon such real estate does not exceed the appraised value thereof, except that the amount of any such loan hereafter made shall not exceed 662/3 per centum of the appraised value if such real estate is unimproved, 75 per centum of the appraised value if such real estate is improved by offsite improvements such as street, water, sewers, or other utilities, 75 per centum of the appraised value if such real estate is in the process of being improved by a building or buildings to be constructed or in the process of construction, or 90 per centum of the appraised value if such real estate is improved by a building or buildings. Notwithstanding the above loan-to-value ratios, the Board may permit a loan-to-value ratio in excess of 90 per centum if such real estate is improved by a building or buildings and that portion of the unpaid balance of such loan which is in excess of an amount equal to 90 per centum of such value is guaranteed or insured by a public or private mortgage insurer or in the case of any loan for the purpose of providing housing for persons of low income, as described in regulations of the Board.
+Subsec. (c)(1)(B). Pub. L. 97–320, §322, substituted "Loans on the security of liens upon residential or nonresidential real property, except that the loans and investments of an association on nonresidential real property may not exceed 40 per centum of its assets" for "Loans on the security of liens upon residential real property in an amount which, when added to the amount unpaid upon prior mortgages, liens or encumbrances, if any, upon such real estate does not exceed the appraised value thereof, except that the amount of any such loan hereafter made shall not exceed 662/3 per centum of the appraised value if such real estate is unimproved, 75 per centum of the appraised value if such real estate is improved by offsite improvements such as street, water, sewers, or other utilities, 75 per centum of the appraised value if such real estate is in the process of being improved by a building or buildings to be constructed or in the process of construction, or 90 per centum of the appraised value if such real estate is improved by a building or buildings. Notwithstanding the above loan-to-value ratios, the Board may permit a loan-to-value ratio in excess of 90 per centum if such real estate is improved by a building or buildings and that portion of the unpaid balance of such loan which is in excess of an amount equal to 90 per centum ofsuch value is guaranteed or insured by a public or private mortgage insurer or in the case of any loan for the purpose of providing housing for persons of low income, as described in regulations of the Board.
 
-Subsec. (c)(1)(G). Pub. L. 97–320, §323, inserted “, or in the savings accounts, certificates, or other accounts of any institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” after “Federal Deposit Insurance Corporation”.
+Subsec. (c)(1)(G). Pub. L. 97–320, §323, inserted ", or in the savings accounts, certificates, or other accounts of any institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation" after "Federal Deposit Insurance Corporation".
 
-Subsec. (c)(1)(H). Pub. L. 97–320, §324, substituted “Investments in obligations of, or issued by, any State or political subdivision thereof (including any agency, corporation, or instrumentality of a State or political subdivision), except that an association may not invest more than 10 per centum of its capital and surplus in obligations of any one issuer, exclusive of investments in general obligations of any issuer” for “Investments in general obligations of any State or any political subdivision thereof”.
+Subsec. (c)(1)(H). Pub. L. 97–320, §324, substituted "Investments in obligations of, or issued by, any State or political subdivision thereof (including any agency, corporation, or instrumentality of a State or political subdivision), except that an association may not invest more than 10 per centum of its capital and surplus in obligations of any one issuer, exclusive of investments in general obligations of any issuer" for "Investments in general obligations of any State or any political subdivision thereof".
 
 Subsec. (c)(1)(O). Pub. L. 97–320, §328, inserted reference to loans secured by mortgages as to which the association has the benefit of insurance under title X of the National Housing Act or of a commitment or agreement for such insurance.
 
 Subsec. (c)(1)(R). Pub. L. 97–320, §325, added subpar. (R).
 
-Subsec. (c)(2). Pub. L. 97–320, §330(1), substituted “the following percentages” for “20 per centum” in provisions preceding subpar. (A).
+Subsec. (c)(2). Pub. L. 97–320, §330(1), substituted "the following percentages" for "20 per centum" in provisions preceding subpar. (A).
 
-Subsec. (c)(2)(A). Pub. L. 97–320, §330(3), substituted “Investments in tangible personal property, including, without limitation, vehicles, manufactured homes, machinery, equipment, or furniture, for rental or sale, but such investment may not exceed 10 per centum of the assets of the association” for “Loans on security of first liens upon other improved real estate”.
+Subsec. (c)(2)(A). Pub. L. 97–320, §330(3), substituted "Investments in tangible personal property, including, without limitation, vehicles, manufactured homes, machinery, equipment, or furniture, for rental or sale, but such investment may not exceed 10 per centum of the assets of the association" for "Loans on security of first liens upon other improved real estate".
 
-Subsec. (c)(2)(B). Pub. L. 97–320, §329, inserted “, including loans reasonably incident to the provision of such credit,” after “household purposes” and “, except that loans of an association under this subparagraph may not exceed 30 per centum of the assets of the association” after “as defined and approved by the Board”.
+Subsec. (c)(2)(B). Pub. L. 97–320, §329, inserted ", including loans reasonably incident to the provision of such credit," after "household purposes" and ", except that loans of an association under this subparagraph may not exceed 30 per centum of the assets of the association" after "as defined and approved by the Board".
 
-Subsec. (c)(3)(A). Pub. L. 97–320, §330(4)(B), substituted “educational expenses” for “expenses of college, university, or vocational education”.
+Subsec. (c)(3)(A). Pub. L. 97–320, §330(4)(B), substituted "educational expenses" for "expenses of college, university, or vocational education".
 
 Subsec. (c)(3)(D). Pub. L. 97–320, §330(4)(A), struck out subpar. (D). See 1983 Amendment note reenacting subpar. (D).
 
-Subsec. (c)(4)(C). Pub. L. 97–320, §330(5)(A), struck out cl. (i) which permitted loans secured by mortgages as to which the association had the benefit of insurance under title X of the National Housing Act \[12 U.S.C. 1749aa et seq.\] or of a commitment or agreement for such insurance, struck out designations of former cls. (ii) and (iii), substituted “guarantee” for “guaranty” in first sentence, inserted “as hereafter amended or extended” after “section 221 or 222 of such Act \[22 U.S.C. 2181 or 2182\]”, and struck out “Investments under clause (i) of this subparagraph shall not be included in any percentage of assets or other percentage referred to in this subsection.”
+Subsec. (c)(4)(C). Pub. L. 97–320, §330(5)(A), struck out cl. (i) which permitted loans secured by mortgages as to which the association had the benefit of insurance under title X of the National Housing Act \[12 U.S.C. 1749aa et seq.\] or of a commitment or agreement for such insurance, struck out designations of former cls. (ii) and (iii), substituted "guarantee" for "guaranty" in first sentence, inserted "as hereafter amended or extended" after "section 221 or 222 of such Act \[22 U.S.C. 2181 or 2182\]", and struck out "Investments under clause (i) of this subparagraph shall not be included in any percentage of assets or other percentage referred to in this subsection."
 
 Subsec. (c)(4)(D). Pub. L. 97–320, §330(5)(B), substituted provisions authorizing investments in small business investment companies for provisions that authorized investments in State and local government obligations.
 
@@ -1470,29 +1470,29 @@ Subsec. (c)(5), (6). Pub. L. 97–320, §330(2), redesignated par. (6) as (5).
 
 Subsec. (d)(4)(C). Pub. L. 97–320, §427(a)(1), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Subsec. (d)(4)(D). Pub. L. 97–320, §427(a)(1)–(3), redesignated former subpar. (C) as (D), and in subpar. (D) as so redesignated, substituted “(A), (B), or (C)” for “(A) or (B)” wherever appearing, and “subparagraph (F)” for “subparagraph (E)”. Former subpar. (D) redesignated (E).
+Subsec. (d)(4)(D). Pub. L. 97–320, §427(a)(1)–(3), redesignated former subpar. (C) as (D), and in subpar. (D) as so redesignated, substituted "(A), (B), or (C)" for "(A) or (B)" wherever appearing, and "subparagraph (F)" for "subparagraph (E)". Former subpar. (D) redesignated (E).
 
 Subsec. (d)(4)(E). Pub. L. 97–320, §427(a)(1), redesignated former subpar. (D) as (E). Former subpar. (E) redesignated (F).
 
-Subsec. (d)(4)(F). Pub. L. 97–320, §427(a)(1), (2), (4), redesignated former subpar. (E) as (F), and in subpar. (F) as so redesignated, substituted “(A), (B), or (C)” for “(A) or (B)”, and “subparagraph (D)” for “subparagraph (C)”.
+Subsec. (d)(4)(F). Pub. L. 97–320, §427(a)(1), (2), (4), redesignated former subpar. (E) as (F), and in subpar. (F) as so redesignated, substituted "(A), (B), or (C)" for "(A) or (B)", and "subparagraph (D)" for "subparagraph (C)".
 
-Subsec. (d)(5)(A). Pub. L. 97–320, §427(a)(5), substituted “(C), or (D)” for “or (C)”.
+Subsec. (d)(5)(A). Pub. L. 97–320, §427(a)(5), substituted "(C), or (D)" for "or (C)".
 
-Subsec. (d)(6)(B). Pub. L. 97–320, §114(b)(1), inserted “or the Federal Deposit Insurance Corporation” after “Federal Savings and Loan Corporation”.
+Subsec. (d)(6)(B). Pub. L. 97–320, §114(b)(1), inserted "or the Federal Deposit Insurance Corporation" after "Federal Savings and Loan Corporation".
 
-Subsec. (d)(6)(D). Pub. L. 97–320, §114(b)(2), inserted “, except as hereafter provided,” after “shall appoint”.
+Subsec. (d)(6)(D). Pub. L. 97–320, §114(b)(2), inserted ", except as hereafter provided," after "shall appoint".
 
 Pub. L. 97–320, §114(b)(3), inserted provision relating to appointment as receiver and powers of Federal Deposit Insurance Corporation in the case of a Federal savings bank chartered pursuant to subsec. (o) of this section.
 
-Subsec. (d)(8)(A). Pub. L. 97–320, §351, inserted in last sentence “, which prevails,” after “party”.
+Subsec. (d)(8)(A). Pub. L. 97–320, §351, inserted in last sentence ", which prevails," after "party".
 
-Subsec. (d)(8)(B)(i). Pub. L. 97–320, §424(a), (d)(8), inserted proviso giving Board discretionary authority tocompromise, etc., any civil money penalty imposed under this subsection, and substituted “may be assessed” for “shall be assessed”.
+Subsec. (d)(8)(B)(i). Pub. L. 97–320, §424(a), (d)(8), inserted proviso giving Board discretionary authority to compromise, etc., any civil money penalty imposed under this subsection, and substituted "may be assessed" for "shall be assessed".
 
-Subsec. (d)(8)(B)(iv). Pub. L. 97–320, §424(e), substituted “twenty days from the service” for “ten days from the date”.
+Subsec. (d)(8)(B)(iv). Pub. L. 97–320, §424(e), substituted "twenty days from the service" for "ten days from the date".
 
-Subsec. (d)(11). Pub. L. 97–320, §114(c), substituted “with associations or any” for “with other” after “merger of associations”.
+Subsec. (d)(11). Pub. L. 97–320, §114(c), substituted "with associations or any" for "with other" after "merger of associations".
 
-Subsec. (d)(12)(A). Pub. L. 97–320, §427(a)(6), substituted “(4)(D), (4)(E)” for “(4)(C), (4)(D)”.
+Subsec. (d)(12)(A). Pub. L. 97–320, §427(a)(6), substituted "(4)(D), (4)(E)" for "(4)(C), (4)(D)".
 
 Subsec. (i). Pub. L. 97–320, §313, amended subsec. (i) generally, substituting expanded provisions relating to conversions by banks to Federal charters, for provisions relating to conversion of member of Federal Home Loan Bank into Federal Savings and Loan Association, conversion of State stock savings and loan type institution charters into Federal stock charters, and conversion of Federal Savings and Loan Associations into State-chartered institutions.
 
@@ -1522,7 +1522,7 @@ Subsec. (n). Pub. L. 96–221, §403, added subsec. (n).
 
 <b>1979</b>—Subsec. (b)(1). Pub. L. 96–161 provided that this section does not prohibit the establishment of remote service units by associations for the purpose of crediting existing savings accounts, debiting such accounts, crediting payments on loans, and the disposition of related financial transactions as provided in regulations prescribed by the Board.
 
-Subsec. (c)(1)(B). Pub. L. 96–153, §326, substituted “$75,000” for “$60,000”.
+Subsec. (c)(1)(B). Pub. L. 96–153, §326, substituted "$75,000" for "$60,000".
 
 Subsec. (c)(4)(E). Pub. L. 96–153, §325, added subpar. (E).
 
@@ -1534,31 +1534,31 @@ Subsec. (c). Pub. L. 95–630, §1701, simplified the investment authority for F
 
 Subsec. (d)(2). Pub. L. 95–630, §107(a)(3), in subpar. (A) extended coverage of provisions to include directors, officers, employees, agents, or other persons participating in the conduct of the affairs of any association and added subpar. (C).
 
-Subsec. (d)(3). Pub. L. 95–630, §107(c)(3), in subpars. (A) and (B) inserted references to any director, officer, employee, agent, or other person participating in the conduct of the affairs of the association and in subpar. (A) inserted “prior to the completion of the proceedings conducted pursuant to paragraph (2)(A) of this sub-subsection” after “savings account holders” and “and to take affirmative action to prevent such insolvency, dissipation, condition or prejudice pending completion of such proceedings” after “violation or practice”.
+Subsec. (d)(3). Pub. L. 95–630, §107(c)(3), in subpars. (A) and (B) inserted references to any director, officer, employee, agent, or other person participating in the conduct of the affairs of the association and in subpar. (A) inserted "prior to the completion of the proceedings conducted pursuant to paragraph (2)(A) of this sub-subsection" after "savings account holders" and "and to take affirmative action to prevent such insolvency, dissipation, condition or prejudice pending completion of such proceedings" after "violation or practice".
 
-Subsec. (d)(4)(A). Pub. L. 95–630, §107(d)(3), inserted “or that the director or officer has received financial gain by reason of such violation or practice or breach of fiduciary duty” before “, and that such violation”, “, or a willful or continuing disregard for the safety or soundness of the association” after “the part of such director or officer”, and “or to prohibit his further participation in any manner in the conduct of the affairs of the association” after “remove him from office”.
+Subsec. (d)(4)(A). Pub. L. 95–630, §107(d)(3), inserted "or that the director or officer has received financial gain by reason of such violation or practice or breach of fiduciary duty" before ", and that such violation", ", or a willful or continuing disregard for the safety or soundness of the association" after "the part of such director or officer", and "or to prohibit his further participation in any manner in the conduct of the affairs of the association" after "remove him from office".
 
 Subsec. (d)(4)(B). Pub. L. 95–630, §107(d)(3), inserted references to a willful or continuing disregard for its safety and soundness in two places.
 
-Subsec. (d)(5). Pub. L. 95–630, §111(c)(1), among other changes, in subpar. (A) substituted “crime” for “felony” in two places and “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)”, inserted “which is punishable by imprisonment for a term exceeding one year under State or Federal law” after “or breach of trust” and “, if continued service or participation by the individual may pose a threat to the interests of the association's depositors or may threaten to impair public confidence in the association” after “the Board may” in two places, and inserted provision that any notice of suspension or order of removal issued under this subparagraph remain effective and outstanding until the completion of any hearing or appeal authorized under subparagraph (C) hereof unless terminated by the Board, and added subpar. (C).
+Subsec. (d)(5). Pub. L. 95–630, §111(c)(1), among other changes, in subpar. (A) substituted "crime" for "felony" in two places and "subparagraph (A), (B), or (C)" for "subparagraph (A) or (B)", inserted "which is punishable by imprisonment for a term exceeding one year under State or Federal law" after "or breach of trust" and ", if continued service or participation by the individual may pose a threat to the interests of the association's depositors or may threaten to impair public confidence in the association" after "the Board may" in two places, and inserted provision that any notice of suspension or order of removal issued under this subparagraph remain effective and outstanding until the completion of any hearing or appeal authorized under subparagraph (C) hereof unless terminated by the Board, and added subpar. (C).
 
-Subsec. (d)(7)(A). Pub. L. 95–630, §111(c)(2), inserted “(other than the hearing provided for in paragraph (5)(C) of this subsection” after “provided for in this subsection (d)”.
+Subsec. (d)(7)(A). Pub. L. 95–630, §111(c)(2), inserted "(other than the hearing provided for in paragraph (5)(C) of this subsection" after "provided for in this subsection (d)".
 
 Subsec. (d)(8). Pub. L. 95–630, §107(e)(3), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (d)(12)(A). Pub. L. 95–630, §111(c)(3), substituted “(5)(A), or (5)(C)” for “or (5)(A)”.
+Subsec. (d)(12)(A). Pub. L. 95–630, §111(c)(3), substituted "(5)(A), or (5)(C)" for "or (5)(A)".
 
-Subsec. (d)(13)(A)(1). Pub. L. 95–630, §111(c)(4), inserted “or (C)” after “paragraph (5)(A)”.
+Subsec. (d)(13)(A)(1). Pub. L. 95–630, §111(c)(4), inserted "or (C)" after "paragraph (5)(A)".
 
 Subsec. (d)(15). Pub. L. 95–630, §208(b), added par. (15).
 
-Subsec. (i). Pub. L. 95–630, §1204, inserted “(including a savings bank)” after “member of a Federal Home Loan Bank” in first par.
+Subsec. (i). Pub. L. 95–630, §1204, inserted "(including a savings bank)" after "member of a Federal Home Loan Bank" in first par.
 
 Subsec. (l). Pub. L. 95–630, §1701(b), redesignated as subsec. (l) the provisions which were formerly contained in undesignated par. 17 of subsec. (c).
 
 Subsec. (m). Pub. L. 95–630, §1701(b), redesignated as subsec. (m) provisions which were formerly contained in undesignated par. 15 of subsec. (c).
 
-<b>1977</b>—Subsec. (c), first par. Pub. L. 95–128, §§402, 405, in first proviso, increased limitation on loans for single family dwellings to $60,000 from $55,000 and inserted “but of said 20 per centum the amount deemed to be loaned in transactions which, except for excess in amount, would be eligible for such association under provisions of this sentence (other than this exception) or under the next following sentence shall be only the outstanding amount of such excess,” after “improved real estate without regard to the foregoing limitations,”; and struck out “, and the Board shall by regulation limit to not more than 20 per centum of the assets of the association the aggregate amount or amounts of the investments which may be made by an association under the foregoing provisions of this sentence on the security of property which comprises or includes more than four dwelling units or does not constitute homes or combinations of homes and business property” before “; except”.
+<b>1977</b>—Subsec. (c), first par. Pub. L. 95–128, §§402, 405, in first proviso, increased limitation on loans for single family dwellings to $60,000 from $55,000 and inserted "but of said 20 per centum the amount deemed to be loaned in transactions which, except for excess in amount, would be eligible for such association under provisions of this sentence (other than this exception) or under the next following sentence shall be only the outstanding amount of such excess," after "improved real estate without regard to the foregoing limitations,"; and struck out ", and the Board shall by regulation limit to not more than 20 per centum of the assets of the association the aggregate amount or amounts of the investments which may be made by an association under the foregoing provisions of this sentence on the security of property which comprises or includes more than four dwelling units or does not constitute homes or combinations of homes and business property" before "; except".
 
 Subsec. (c), second and third pars. Pub. L. 95–128, §404, increased limitation on loans to $15,000 from $10,000.
 
@@ -1566,23 +1566,23 @@ Subsec. (c), twenty-first par. Pub. L. 95–128, §401, increased the rate to 5 
 
 Subsec. (c), twenty-second par. Pub. L. 95–128, §403, authorized use of real property or interests for farm purposes.
 
-Subsec. (k). Pub. L. 95–147 inserted “shall be a depositary of public money and” after “Federal Home Loan Bank” and “, including services in connection with the collection of taxes and other obligations owed the United States, and the Secretary of the Treasury is hereby authorized to deposit public money in any such Federal savings and loan association or member of a Federal home loan bank, and shall prescribe such regulations as may be necessary to carry out the purposes of this subsection” after “instrumentality of the United States”.
+Subsec. (k). Pub. L. 95–147 inserted "shall be a depositary of public money and" after "Federal Home Loan Bank" and ", including services in connection with the collection of taxes and other obligations owed the United States, and the Secretary of the Treasury is hereby authorized to deposit public money in any such Federal savings and loan association or member of a Federal home loan bank, and shall prescribe such regulations as may be necessary to carry out the purposes of this subsection" after "instrumentality of the United States".
 
-<b>1976</b>—Subsec. (c). Pub. L. 94–375 inserted, in cl. (2) of twelfth par., “and in the share capital and capital reserve of the Inter-American Savings and Loan Bank” after “made pursuant to either of such sections”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–375 inserted, in cl. (2) of twelfth par., "and in the share capital and capital reserve of the Inter-American Savings and Loan Bank" after "made pursuant to either of such sections".
 
-<b>1975</b>—Subsec. (c). Pub. L. 94–60 in seventeenth par. struck out “or section 408(a)” after “under section 401(d)”, and inserted “and to act as trustee or custodian of an individual retirement account within the meaning of section 408 of such Code” after “Code of 1954”, and “or account” after “funds of such trust”.
+<b>1975</b>—Subsec. (c). Pub. L. 94–60 in seventeenth par. struck out "or section 408(a)" after "under section 401(d)", and inserted "and to act as trustee or custodian of an individual retirement account within the meaning of section 408 of such Code" after "Code of 1954", and "or account" after "funds of such trust".
 
-<b>1974</b>—Subsec. (b)(2). Pub. L. 93–495 inserted “may be surety as defined by the Board” after “security,”.
+<b>1974</b>—Subsec. (b)(2). Pub. L. 93–495 inserted "may be surety as defined by the Board" after "security,".
 
 Subsec. (c). Pub. L. 93–383, §§703, 805(c)(4), in first par. increased limitation from $45,000 for each single-family dwelling to $55,000, except that with respect to Alaska, Guam, and Hawaii the limitation may be increased by not more than 50 per centum by regulation of the Board, and inserted reference to mortgages, obligations, or other securities sold by the Federal Home Loan Mortgage Corporation pursuant to section 305 or 306 of the Federal Home Loan Mortgage Corporation Act.
 
-Pub. L. 93–383, §705, in second and third pars. substituted “$10,000” for “$5,000”.
+Pub. L. 93–383, §705, in second and third pars. substituted "$10,000" for "$5,000".
 
 Pub. L. 93–383, §802(i)(2), in twelfth par. inserted reference to section 802 of the Housing and Community Development Act of 1974.
 
 Pub. L. 93–449 in seventeenth par. inserted reference to section 408(a) of title 26. As enacted section 4(d) of Pub. L. 93–449 amended nineteenth par.; however the amendment was executed to seventeenth par. editorially since this would appear to be the probable intent of Congress.
 
-Pub. L. 93–383, §702, added par. authorizing associations to invest an amount not exceeding the greater of (A) the sum of its surplus, undivided profits, and reserves or (B) 3 per centum of its assets, in loans or in interests therein.
+Pub. L. 93–383, §702, added par. authorizing associations to invest an amount not exceeding the greater of\(A) the sum of its surplus, undivided profits, and reserves or (B) 3 per centum of its assets, in loans or in interests therein.
 
 Pub. L. 93–383, §704, added par. authorizing associations to invest in loans and advances of credit and interests therein upon the security of or respecting real property or interests therein.
 
@@ -1594,7 +1594,7 @@ Pub. L. 93–383, §706, added par. authorizing association to borrow funds from
 
 <b>1970</b>—Subsec. (c), first par. Pub. L. 91–609, §907(c), increased aggregate amount of authorized investments from 15 to 20 per centum of assets of the association.
 
-Pub. L. 91–351, §§706, 709, in first par., inserted “or within the State in which such home office is located” after “their home office”, and substituted “$45,000” for “$40,000” in first proviso, and “section” for “proviso” in second proviso.
+Pub. L. 91–351, §§706, 709, in first par., inserted "or within the State in which such home office is located" after "their home office", and substituted "$45,000" for "$40,000" in first proviso, and "section" for "proviso" in second proviso.
 
 Pub. L. 91–351, §708, added par. authorizing any association to act as trustee of any trust created or organized in the United States and forming part of a stock bonus, pension, or profit-sharing plan qualifying for specific tax treatment under section 401(d) of title 26.
 
@@ -1616,7 +1616,7 @@ Pub. L. 90–448, §804(e), inserted paragraph authorizing any such association 
 
 Pub. L. 90–448, §807(m), amended first par. to authorize investments in obligations, participations, or other instruments of or issued by, or guaranteed as to principal and interest by, the Government National Mortgage Association, and in stock of the Federal National Mortgage Association.
 
-Pub. L. 90–448, §1716(b), in first par., substituted “security of their savings accounts” for “security of their shares”, and inserted provisions authorizing investment in time deposits, certificates, or accounts of any bank the deposits of which are insured by the Federal Deposit Insurance Corporation.
+Pub. L. 90–448, §1716(b), in first par., substituted "security of their savings accounts" for "security of their shares", and inserted provisions authorizing investment in time deposits, certificates, or accounts of any bank the deposits of which are insured by the Federal Deposit Insurance Corporation.
 
 Pub. L. 90–448, §1716(c), inserted provisions in second par. permitting loans for the construction of new structures related to residential use of the property.
 
@@ -1628,49 +1628,49 @@ Pub. L. 90–448, §1716(f), inserted par. permitting an association to invest i
 
 <b>1966</b>—Subsec. (d). Pub. L. 89–695 amended provisions generally, substituting pars. (1) to (14) for former pars. (1) (consisting of thirteen sentences) and (2) (consisting of eleven sentences), such pars. (2) to (5), (7) to (10), (12)(A)(B), (13), and (14) being new provisions.
 
-<b>1965</b>—Subsec. (c). Pub. L. 89–117 added par. which permitted an association to invest in loans (1) secured by mortgages as to which the association has the benefit of insurance under title X of the National Housing Act or of a commitment or agreement for such insurance, or (2) guaranteed by the President under section 2184 of title 22, and prohibited investments under cl. (2) to exceed 1 per centum of the assets of such association, provided that, for purposes of this subsection, “other dwelling units” would include living accommodations for students, employees, or staff members of a college, or university, or hospital, reduced from 15 to 10 years the time by which a lease period must extend beyond the maturity date of the debt in order that a leasehold interest qualify as “real property” or “real estate” within this section, and added par. which prohibited any District of Columbia building and loan associations from establishing a branch or moving its principal office without the prior written approval of the Federal Home Loan Bank Board and forbade any other building and loan associations from establishing a branch office in the District or moving its principal office in the District without such approval.
+<b>1965</b>—Subsec. (c). Pub. L. 89–117 added par. which permitted an association to invest in loans (1) secured by mortgages as to which the association has the benefit of insurance under title X of the National Housing Act or of a commitment or agreement for such insurance, or (2) guaranteed by the President under section 2184 of title 22, and prohibited investments under cl. (2) to exceed 1 per centum of the assets of such association, provided that, for purposes of this subsection, "other dwelling units" would include living accommodations for students, employees, or staff members of a college, or university, or hospital, reduced from 15 to 10 years the time by which a lease period must extend beyond the maturity date of the debt in order that a leaseholdinterest qualify as "real property" or "real estate" within this section, and added par. which prohibited any District of Columbia building and loan associations from establishing a branch or moving its principal office without the prior written approval of the Federal Home Loan Bank Board and forbade any other building and loan associations from establishing a branch office in the District or moving its principal office in the District without such approval.
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–560, §§901(a), 902–905, 907, 908, 910, amended provisions as follows:
 
-Section 901(a) substituted “one hundred miles” for “fifty miles” in first sentence.
+Section 901(a) substituted "one hundred miles" for "fifty miles" in first sentence.
 
-Section 902 substituted “$40,000” for “$35,000” in first proviso of first par. and deleted from end of such first proviso “, except that the aggregate sums invested pursuant to the two exceptions in this proviso shall not exceed 30 per centum of the assets of such association”.
+Section 902 substituted "$40,000" for "$35,000" in first proviso of first par. and deleted from end of such first proviso ", except that the aggregate sums invested pursuant to the two exceptions in this proviso shall not exceed 30 per centum of the assets of such association".
 
-Section 903 substituted provisions which authorized the association to invest not more than 5 per centum of its assets in, or in interests in, real property located within urban renewal areas and obligations secured by first liens on real property so located but limited the aggregate of such investments to 2 per centum of the assets of the association for former provisions which authorized the association to invest not more than 5 per centum of its assets in certificates of beneficial interest issued by any urban renewal investment trust, defined an “urban renewal investment trust”, and provided for rules and regulations to be prescribed by the Federal Home Loan Bank Board for the establishment, operation, etc. of such urban renewal investment trusts.
+Section 903 substituted provisions which authorized the association to invest not more than 5 per centum of its assets in, or in interests in, real property located within urban renewal areas and obligations secured by first liens on real property so located but limited the aggregate of such investments to 2 per centum of the assets of the association for former provisions which authorized the association to invest not more than 5 per centum of its assets in certificates of beneficial interest issued by any urban renewal investment trust, defined an "urban renewal investment trust", and provided for rules and regulations to be prescribed by the Federal Home Loan Bank Board for the establishment, operation, etc. of such urban renewal investment trusts.
 
-Section 904 added par. which defined “real property” and “real estate”.
+Section 904 added par. which defined "real property" and "real estate".
 
 Section 905 added par. which authorized an association to invest its assets in a corporation organized in the State where the association's home office is located, if the entire capital stock of such corporation is available for purchase only by savings and loan associations chartered in that State and Federal associations having their home offices therein but limited the aggregate of such investments to 1 per centum of its assets.
 
-Section 907 inserted in second proviso of first par. “, or fully guaranteed as to principal and interest by,”, authorized an association to invest in participations or other instruments of or issued by, or fully guaranteed as to principal and interest by, the Federal National Mortgage Association or any other agency of the United States, and defined term “State”.
+Section 907 inserted in second proviso of first par. ", or fully guaranteed as to principal and interest by,", authorized an association to invest in participations or other instruments of or issued by, or fully guaranteed as to principal and interest by, the Federal National Mortgage Association or any other agency of the United States, and defined term "State".
 
-Section 908 substituted in first sentence of second par. “20 per centum” and “$5,000” for “15 per centum” and “$3,500”, respectively.
+Section 908 substituted in first sentence of second par. "20 per centum" and "$5,000" for "15 per centum" and "$3,500", respectively.
 
 Section 910 inserted after second par. the paragraph which authorized the association to invest in loans, obligations, and advances of credit made for the payment of expenses of college or university education but limited such investments to 5 per centum of the assets of the association.
 
-<b>1962</b>—Subsec. (c). Pub. L. 87–779, in first par., substituted provisions authorizing loans on the security of first liens upon real property within fifty miles of their home office which constitute first liens upon homes, combinations of homes and business property, other dwelling units, or combinations of dwelling units, including homes, and business property involving only minor or incidental business use, for provisions which permitted loans on the security of first liens upon homes or combination of homes and business property within fifty miles of their home office, and provisions limiting the amount of loan on the security of first liens to not more than $35,000 for each single-family dwelling, and not more than such amount per room as the Board may determine within the limits allowable in section 1713(c)(3) of this title for any other dwelling unit, for provisions which limited the amount of the loan to not more than $35,000 on the security of a first lien upon a home or combination of home and business property, inserted provisions requiring the Board to limit by regulation to not more than 15 per centum of the assets of the association the aggregate amount or amounts of the investments which may be made by an association on the security of property which comprises or includes more than four dwelling units or does not constitute homes or combinations of homes and business property, changed provisions which permitted use of additional sums not exceeding 20 per centum of the assets of the association without regard to area restriction for the making or purchase of participating interests in first liens on one- to four-family homes to permit use of such sums for the making or purchase of participating interests in real property of the type described in the opening provisions of this subsection, and substituted “dollar amount limitation” for “$35,000 limitation” in fourth par.
+<b>1962</b>—Subsec. (c). Pub. L. 87–779, in first par., substituted provisions authorizing loans on the security of first liens upon real property within fifty miles of their home office which constitute first liens upon homes, combinations of homes and business property, other dwelling units, or combinations of dwelling units, including homes, and business property involving only minor or incidental business use, for provisions which permitted loans on the security of first liens upon homes or combination of homes and business property within fifty miles of their home office, and provisions limiting the amount of loan on the security of first liens to not more than $35,000 for each single-family dwelling, and not more than such amount per room as the Board may determine within the limits allowable in section 1713(c)(3) of this title for any other dwelling unit, for provisions which limited the amount of the loan to not more than $35,000 on the security of a first lien upon a home or combination of home and business property, inserted provisions requiring the Board to limit by regulation to not more than 15 per centum of the assets of the association the aggregate amount or amounts of the investments which may be made by an association on the security of property which comprises or includes more than four dwelling units or does not constitute homes or combinations of homes and business property, changed provisions which permitted use of additional sums not exceeding 20 per centum of the assets of the association without regard to area restriction for the making or purchase of participating interests in first liens on one- to four-family homes to permit use of such sums for the making or purchase of participating interests in real property of the type described in the opening provisions of this subsection, and substituted "dollar amount limitation" for "$35,000 limitation" in fourth par.
 
-Subsec. (h). Pub. L. 87–834 struck out provisions which exempted such associations, including their franchises, capital, reserves, and surplus, and their loans and income, and all shares of such associations both asto their value and the income therefrom, from all taxation imposed by the United States.
+Subsec. (h). Pub. L. 87–834 struck out provisions which exempted such associations, including their franchises, capital, reserves, and surplus, and their loans and income, and all shares of such associations both as to their value and the income therefrom, from all taxation imposed by the United States.
 
 <b>1961</b>—Pub. L. 87–70 inserted provisions in second par. authorizing investments in home improvement loans insured under subchapter II of chapter 13 of this title, and added former fourth, fifth, sixth and seventh par. (now sixth, seventh, eighth, and ninth) authorizing investments in non-amortized loans which are made on the security of first liens upon homes or combinations of homes and business property, in amortized loans or participating interests therein which are secured by first liens upon improved real estate used to provide housing facilities for the aging, in certificates of beneficial interest issued by any urban renewal investment trust, and permitting associations to invest in, to lend to, or to commit themselves to lend to any business development credit corporation incorporated in the State in which the head office of the association is situated.
 
-<b>1960</b>—Subsec. (d)(1). Pub. L. 86–507 inserted “or by certified mail,” after “registered mail,”.
+<b>1960</b>—Subsec. (d)(1). Pub. L. 86–507 inserted "or by certified mail," after "registered mail,".
 
 <b>1959</b>—Subsec. (c). Pub. L. 86–372 permitted the use of additional sums not exceeding 20 per centum of the assets of an association without regard to the area restriction for the making or purchase of participating interests in first liens on one- to four-family homes, limited the aggregate sums invested pursuant to the two exceptions to not more than 30 per centum of the assets of the association, provided that participating interests in loans secured by mortgages which have the benefit of insurance or guaranty (or a commitment therefor) under the National Housing Act, the Servicemen's Readjustment Act of 1944, or chapter 37 of title 38, shall not be taken into account in determining the amount of loans which an association may make within any of the percentage limitations contained in the first proviso, and authorized any association whose general reserves, surplus, and undivided profits aggregate a sum in excess of 5 per centum of its withdrawable accounts to invest an amount not exceeding at any one time 5 per centum of such withdrawable accounts in loans to finance the acquisition and development of land for primarily residential usage.
 
-<b>1958</b>—Subsec. (c). Pub. L. 85–857 inserted “, or chapter 37 of Title 38” after “Servicemen's Readjustment Act of 1944, as amended” in two places.
+<b>1958</b>—Subsec. (c). Pub. L. 85–857 inserted ", or chapter 37 of Title 38" after "Servicemen's Readjustment Act of 1944, as amended" in two places.
 
-<b>1956</b>—Subsec. (c). Act Aug. 7, 1956, substituted “20 per centum” for “15 per centum” in first sentence, and “$3,500” for “$2,500” in proviso at end of second par.
+<b>1956</b>—Subsec. (c). Act Aug. 7, 1956, substituted "20 per centum" for "15 per centum" in first sentence, and "$3,500" for "$2,500" in proviso at end of second par.
 
 <b>1955</b>—Subsec. (c). Act Aug. 11, 1955, removed the limitation of $2,500 from insured or guaranteed loans.
 
-<b>1954</b>—Subsec. (c). Act Aug. 2, 1954, §§204(b), 503(1), (3), amended provisions as follows: section 204(b) inserted the reference to obligations of the Federal National Mortgage Association in second proviso of first par.; section 503(1), (3), substituted “$35,000” for “$20,000” in two places in first par. and increased from $1,500 to $2,500 the maximum amount of an unsecured loan in which a Federal savings and loan association may invest in second par.
+<b>1954</b>—Subsec. (c). Act Aug. 2, 1954, §§204(b), 503(1), (3), amended provisions as follows: section 204(b) inserted the reference to obligations of the Federal National Mortgage Association in second proviso of first par.; section 503(1), (3), substituted "$35,000" for "$20,000" in two places in first par. and increased from $1,500 to $2,500 the maximum amount of an unsecured loan in which a Federal savings and loan association may invest in second par.
 
-Subsec. (d). Act Aug. 2, 1954, §503(2), amended provisions generally to provide a means by administrative and court proceedings whereby the Board may enforce compliance with law and regulations by Federal savings and loan associations in cases where the Board felt that the appointment of a conservator or receiver was not necessary or desirable; and to set out the grounds, and provide the procedure, for the appointment of conservators, receivers, and supervisory representatives.
+Subsec. (d). Act Aug. 2, 1954, §503(2), amended provisions generally to provide a means by administrativeand court proceedings whereby the Board may enforce compliance with law and regulations by Federal savings and loan associations in cases where the Board felt that the appointment of a conservator or receiver was not necessary or desirable; and to set out the grounds, and provide the procedure, for the appointment of conservators, receivers, and supervisory representatives.
 
 <b>1952</b>—Subsec. (c). Act July 14, 1952, inserted penultimate sentence to first par.
 
-<b>1951</b>—Subsec. (h). Act Oct. 20, 1951, inserted “date, and except, in the case of taxable years beginning after December 31, 1951, income, war-profits, and excess-profits taxes”.
+<b>1951</b>—Subsec. (h). Act Oct. 20, 1951, inserted "date, and except, in the case of taxable years beginning after December 31, 1951, income, war-profits, and excess-profits taxes".
 
 <b>1948</b>—Subsec. (i). Act July 3, 1948, permitted any Federal savings and loan association to convert into a savings and loan type of organization or a mutual savings bank pursuant to the law of the State in which the principal office of the association is located.
 
@@ -1714,7 +1714,7 @@ Amendment by section 1606(f) of Pub. L. 102–550 effective as if included in th
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–242, title I, §131(f), Dec. 19, 1991, 105 Stat. 2267, provided that: “The amendments made by this section \[enacting section 1831o of this title and amending this section and sections 1813 and 1818 of this title\]shall become effective 1 year after the date of enactment of this Act \[Dec. 19, 1991\].”
+Pub. L. 102–242, title I, §131(f), Dec. 19, 1991, 105 Stat. 2267, provided that: "The amendments made by this section \[enacting section 1831o of this title and amending this section and sections 1813 and 1818 of this title\] shall become effective 1 year after the date of enactment of this Act \[Dec. 19, 1991\]."
 
 Amendment by section 133(d) of Pub. L. 102–242 effective 1 year after Dec. 19, 1991, see section 133(g) of Pub. L. 102–242, set out as a note under section 191 of this title.
 
@@ -1724,35 +1724,35 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 97–457, §14(a)(2), Jan. 12, 1983, 96 Stat. 2508, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be deemed to have taken effect upon the enactment of Public Law 97–320 \[Oct. 15, 1982\].”
+Pub. L. 97–457, §14(a)(2), Jan. 12, 1983, 96 Stat. 2508, provided that: "The amendment made by paragraph (1) \[amending this section\] shall be deemed to have taken effect upon the enactment of Public Law 97–320 \[Oct. 15, 1982\]."
 
 #### Effective and Termination Dates of 1982 Amendment
 
 Prior to its repeal by section 509(a) of Pub. L. 100–86, Pub. L. 97–320, title I, §141, Oct. 15, 1982, 96 Stat. 1488, as amended by Pub. L. 99–120, §6(a), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–278, §1(a), Apr. 24, 1986, 100 Stat. 397; Pub. L. 99–400, §1(a), Aug. 27, 1986, 100 Stat. 902; Pub. L. 99–452, §1(a), Oct. 8, 1986, 100 Stat. 1140, provided that:
 
-“(a) Effective on October 13, 1986—
+"(a) Effective on October 13, 1986—
 
-&emsp;“(1) section 13(c)(5) of the Federal Deposit Insurance Act \[section 1823(c)(5) of this title\], as added by section 111 of this Act, shall be repealed;
+&emsp;"(1) section 13(c)(5) of the Federal Deposit Insurance Act \[section 1823(c)(5) of this title\], as added by section 111 of this Act, shall be repealed;
 
-&emsp;“(2) subparagraphs (F) and (G) of section 5(o)(2) of the Home Owners’ Loan Act of 1933 \[section 1464(o)(2) of this title\], as added by section 112 of this Act, shall be repealed;
+&emsp;"(2) subparagraphs (F) and (G) of section 5(o)(2) of the Home Owners' Loan Act of 1933 \[section 1464(o)(2) of this title\], as added by section 112 of this Act, shall be repealed;
 
-&emsp;“(3) the provision of law amended by section 116 of this Act \[section 1823(f) of this title\] shall be amended to read as it would without such amendment;
+&emsp;"(3) the provision of law amended by section 116 of this Act \[section 1823(f) of this title\] shall be amended to read as it would without such amendment;
 
-&emsp;“(4) the provisions of law amended by subsections (a) \[section 1843(c)(8) of this title\] and (c) \[section 1842(d) of this title\] of section 118 shall be amended to read as they would without such amendments;
+&emsp;"(4) the provisions of law amended by subsections (a) \[section 1843(c)(8) of this title\] and (c) \[section 1842(d) of this title\] of section 118 shall be amended to read as they would without such amendments;
 
-&emsp;“(5) the provision of law amended by section 121 of this Act \[section 1464(p) of this title\] shall be amended to read as it would without such amendment;
+&emsp;"(5) the provision of law amended by section 121 of this Act \[section 1464(p) of this title\] shall be amended to read as it would without such amendment;
 
-&emsp;“(6) the provisions of law amended by subsections (d) through (g) of section 122 of this Act \[section 1729(c), (d) of this title\] shall be amended to read as they would without such amendments;
+&emsp;"(6) the provisions of law amended by subsections (d) through (g) of section 122 of this Act \[section 1729(c), (d) of this title\] shall be amended to read as they would without such amendments;
 
-&emsp;“(7) the provisions of law amended by section 123 of this Act \[section 1730a(e)(2), (m) of this title\] shall be amended to read as they would without such amendments; and
+&emsp;"(7) the provisions of law amended by section 123 of this Act \[section 1730a(e)(2), (m) of this title\] shall be amended to read as they would without such amendments; and
 
-&emsp;“(8) the provisions of law amended by sections 131 \[section 1785(h), (i) of this title\] and 132 \[section 1786(b)(2), (h)–(p) of this title\] shall be amended to read as they would without such amendments.
+&emsp;"(8) the provisions of law amended by sections 131 \[section 1785(h), (i) of this title\] and 132 \[section 1786(b)(2), (h)–(p) of this title\] shall be amended to read as they would without such amendments.
 
-“(b) The repeal or termination by subsection (a) of any amendment made by this Act shall have no effect on any action taken or authorized while such amendment was in effect.”
+"(b) The repeal or termination by subsection (a) of any amendment made by this Act shall have no effect on any action taken or authorized while such amendment was in effect."
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–221, title III, §306, Mar. 31, 1980, 94 Stat. 147, provided that: “The amendments made by sections 302, 304, and 305 of this title \[amending this section and sections 371a, 1752, 1757, 1763, 1785, and 1828 of this title\] shall take effect at the close of March 31, 1980, and the amendments made by section 303 of this title \[amending section 1832 of this title\] shall take effect on December 31, 1980.”
+Pub. L. 96–221, title III, §306, Mar. 31, 1980, 94 Stat. 147, provided that: "The amendments made by sections 302, 304, and 305 of this title \[amending this section and sections 371a, 1752, 1757, 1763, 1785, and 1828 of this title\] shall take effect at the close of March 31, 1980, and the amendments made by section 303 of this title \[amending section 1832 of this title\] shall take effect on December 31, 1980."
 
 #### Effective and Termination Dates of 1979 Amendment
 
@@ -1780,43 +1780,43 @@ For effective date of amendment by title VIII of Pub. L. 90–448, see section 8
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–695, title I, §101(b), Oct. 16, 1966, 80 Stat. 1036, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be effective only with respect to proceedings commenced on or after the date of enactment of this Act \[Oct. 16, 1966\]. Section 5(d) of the Home Owners’ Loan Act of 1933 \[this section\] as in effect immediately prior to the date of enactment of this Act shall continue in effect with respect to any proceedings commenced prior to such date.”
+Pub. L. 89–695, title I, §101(b), Oct. 16, 1966, 80 Stat. 1036, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall be effective only with respect to proceedings commenced on or after the date of enactment of this Act \[Oct. 16, 1966\]. Section 5(d) of the Home Owners' Loan Act of 1933 \[this section\] as in effect immediately prior to the date of enactment of this Act shall continue in effect with respect to any proceedings commenced prior to such date."
 
 #### Expiration of 1966 Amendment
 
-Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed Pub. L. 89–695, title IV, §401, Oct. 16, 1966, 80 Stat. 1056, which had provided that: “The provisions of titles I and II of this Act \[amending this section and sections 1730, 1813, 1817 to 1820 of this title, repealing section 77 of this title, and enacting provisions set out as notes under this section and sections 1730 and 1813 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted.”
+Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed Pub. L. 89–695, title IV, §401, Oct. 16, 1966, 80 Stat. 1056, which had provided that: "The provisions of titles I and II of this Act \[amending this section and sections 1730, 1813, 1817 to 1820 of this title, repealing section 77 of this title, and enacting provisions set out as notes under this section and sections 1730 and 1813 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted."
 
 #### Effective Date of 1962 Amendment
 
 Pub. L. 87–834, §6(g)(4), Oct. 16, 1962, 76 Stat. 985, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“Subsection (e) of this section \[amending this section and section 4382 of Title 26, Internal Revenue Code\] shall become effective on January 1, 1963, except that—
+"Subsection (e) of this section \[amending this section and section 4382 of Title 26, Internal Revenue Code\] shall become effective on January 1, 1963, except that—
 
-&emsp;“(A) in the case of the tax imposed by section 4251 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 4251 of title 26\], such subsection shall apply only with respect to amounts paid pursuant to bills rendered after December 31, 1962; and
+&emsp;"(A) in the case of the tax imposed by section 4251 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 4251 of title 26\], such subsection shall apply only with respect to amounts paid pursuant to bills rendered after December 31, 1962; and
 
-&emsp;“(B) in the case of the tax imposed by section 4261 of such Code \[section 4261 of title 26\], such subsection shall apply only with respect to transportation beginning after December 31, 1962.”
+&emsp;"(B) in the case of the tax imposed by section 4261 of such Code \[section 4261 of title 26\], such subsection shall apply only with respect to transportation beginning after December 31, 1962."
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–857 effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as an EffectiveDate note preceding Part 1 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 85–857 effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as an Effective Date note preceding Part 1 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 1951 Amendment
 
 Amendment by act Oct. 20, 1951, applicable only with respect to taxable years beginning after Dec. 31, 1951, see act Oct. 20, 1951, ch. 521, title III, §313(j), 65 Stat. 491.
 
-Act Oct. 20, 1951, title VI, §615, 65 Stat. 569, provided that: “No amendment made by this Act \[see Tables for classification\] shall apply in any case where its application would be contrary to any treaty obligation of the United States.”
+Act Oct. 20, 1951, title VI, §615, 65 Stat. 569, provided that: "No amendment made by this Act \[see Tables for classification\] shall apply in any case where its application would be contrary to any treaty obligation of the United States."
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–383, title VII, §701, Aug. 22, 1974, 88 Stat. 714, provided that: “This title \[amending this section and sections 371, 1757, 1759, 1761b, 1761d, 1763, 1772, 1782, 1786, and 1788 of this title\] may be cited as the ‘Consumer Home Mortgage Assistance Act of 1974’.”
+Pub. L. 93–383, title VII, §701, Aug. 22, 1974, 88 Stat. 714, provided that: "This title \[amending this section and sections 371, 1757, 1759, 1761b, 1761d, 1763, 1772, 1782, 1786, and 1788 of this title\] may be cited as the 'Consumer Home Mortgage Assistance Act of 1974'."
 
 #### Short Title of 1966 Amendment
 
-Pub. L. 89–695, §1, Oct. 16, 1966, 80 Stat. 1028, provided: “That this Act \[amending this section and sections 1724, 1728, 1730, 1730a, 1813, and 1817 to 1821 of this title, repealing section 77 of this title, and enacting provisions set out as notes under this section and sections 1724, 1730, and 1813 of this title\] may be cited as the ‘Financial Institutions Supervisory Act of 1966’.”
+Pub. L. 89–695, §1, Oct. 16, 1966, 80 Stat. 1028, provided: "That this Act \[amending this section and sections 1724, 1728, 1730, 1730a, 1813, and 1817 to 1821 of this title, repealing section 77 of this title, and enacting provisions set out as notes under this section and sections 1724, 1730, and 1813 of this title\] may be cited as the 'Financial Institutions Supervisory Act of 1966'."
 
 #### Effective Date of Regulations Prescribed Under 1986 Amendment
 
-Pub. L. 99–570, title I, §1364(e), Oct. 27, 1986, 100 Stat. 3207–34, provided that: “The regulations required to be prescribed under the amendments made by section 1359 \[amending this section and sections 1730, 1786, and 1818 of this title\] shall take effect at the end of the 3-month period beginning on the date of the enactment of this Act \[Oct. 27, 1986\].”
+Pub. L. 99–570, title I, §1364(e), Oct. 27, 1986, 100 Stat. 3207–34, provided that: "The regulations required to be prescribed under the amendments made by section 1359 \[amending this section and sections 1730, 1786, and 1818 of this title\] shall take effect at the end of the 3-month period beginning on the date of the enactment of this Act \[Oct. 27, 1986\]."
 
 #### Repeals
 
@@ -1826,33 +1826,33 @@ Amendment of this section by section 102 of Pub. L. 96–161, cited as a credit 
 
 Pub. L. 101–73, title III, §305(a), (b), Aug. 9, 1989, 103 Stat. 351, as amended by Pub. L. 111–203, title III, §367(3), July 21, 2010, 124 Stat. 1556, provided that:
 
-“(a)
+"(a)
 
-Divestiture of Certain Loans and Investments Not Required.—The limitations on loans and investments contained in section 5(c) of the Home Owners’ Loan Act \[12 U.S.C. 1464(c)\], as amended by section 301, do not require the divestiture of any loan or investment that was lawful when made under the provisions of such section as those provisions were in effect at the time such loan or investment was made.
+Divestiture of Certain Loans and Investments Not Required.—The limitations on loans and investments contained in section 5(c) of the Home Owners' Loan Act \[12 U.S.C. 1464(c)\], as amended by section 301, do not require the divestiture of any loan or investment that was lawful when made under the provisions of such section as those provisions were in effect at the time such loan or investment was made.
 
-“(b) \[Repealed. Pub. L. 111–203, title III, §367(3), July 21, 2010, 124 Stat. 1556.\]”
+"(b) \[Repealed. Pub. L. 111–203, title III, §367(3), July 21, 2010, 124 Stat. 1556.\]"
 
 #### Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320
 
-Pub. L. 100–86, title V, §509(c), Aug. 10, 1987, 101 Stat. 635, provided that: “No amendment made by part D \[section 141, formerly set out as an Effective and Termination Dates of 1982 Amendment note above\] of title I or section 206 \[set out as an Effective and Termination Dates of 1982 Amendment note under section 1729 of this title\] of the Garn-St Germain Depository Institutions Act of 1982 \[Pub. L. 97–320\], as in effect before the date of the enactment of this Act \[Aug. 10, 1987\], to any other provision of law shall be deemed to have taken effect before the date of the enactment of this Act and any such provision of law shall be in effect as if no such amendment had been made before such date of enactment.”
+Pub. L. 100–86, title V, §509(c), Aug. 10, 1987, 101 Stat. 635, provided that: "No amendment made by part D \[section 141, formerly set out as an Effective and Termination Dates of 1982 Amendment note above\] of title I or section 206 \[set out as an Effective and Termination Dates of 1982 Amendment note under section 1729 of this title\] of the Garn-St Germain Depository Institutions Act of 1982 \[Pub. L. 97–320\], as in effect before the date of the enactment of this Act \[Aug. 10, 1987\], to any other provision of law shall be deemed to have taken effect before the date of the enactment of this Act and any such provision of law shall be in effect as if no such amendment had been made before such date of enactment."
 
-Pub. L. 99–452, §1(c), Oct. 8, 1986, 100 Stat. 1140, provided that: “No amendment made by section 141(a) or section 206(a) of the Garn-St Germain Depository Institutions Act of 1982 \[set out as Effective and Termination Dates of 1982 Amendment notes under sections 1464 and 1729 of this title\], as in effect on the day before the date of the enactment of this Act \[Oct. 8, 1986\], to any other provision of law shall be deemed to have taken effect before such date of enactment and any such provision of law shall be in effect as if no such amendment had taken effect before such date of enactment.”
+Pub. L. 99–452, §1(c), Oct. 8, 1986, 100 Stat. 1140, provided that: "No amendment made by section 141(a) or section 206(a) of the Garn-St Germain Depository Institutions Act of 1982 \[set out as Effective and Termination Dates of 1982 Amendment notes under sections 1464 and 1729 of this title\], as in effect on the day before the date of the enactment of this Act \[Oct. 8, 1986\], to any other provision of law shall be deemed to have taken effect before such date of enactment and any such provision of law shall be in effect as if no such amendment had taken effect before such date of enactment."
 
-Pub. L. 99–400, §1(c), Aug. 27, 1986, 100 Stat. 902, provided that: “Sections 141(a) and 206(a) of the Garn-St Germain Depository Institutions Act of 1982 \[set out as Effective and Termination Dates of 1982 Amendment notes under sections 1464 and 1729 of this title\], as such sections are in effect on the day after the date of enactment of this Act \[Aug. 27, 1986\], shall apply as if such sections had been included in the Garn-St Germain Depository Institutions Act of 1982 on the date of the enactment of such Act \[Oct. 15, 1982\], no amendment made by any such section to any other provision of law shall be deemed to have taken effect before the date of the enactment of this Act, and any such provision of law shall be in effect as if no such amendment had taken effect before the date of the enactment of this Act.”
+Pub. L. 99–400, §1(c), Aug. 27, 1986, 100 Stat. 902, provided that: "Sections 141(a) and 206(a) of the Garn-St Germain Depository Institutions Act of 1982 \[set out as Effective and Termination Dates of 1982 Amendment notes under sections 1464 and 1729 of this title\], as such sections are in effect on the day after the date of enactment of this Act \[Aug. 27, 1986\], shall apply as if such sections had been included in the Garn-St Germain Depository Institutions Act of 1982 on the date of the enactment of such Act \[Oct. 15, 1982\], no amendment made by any such section to any other provision of law shall be deemed to have taken effect before the date of the enactment of this Act, and any such provision of law shall be in effect as if no such amendment had taken effect before the date of the enactment of this Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “appropriate Federal banking agency's”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "appropriate Federal banking agency's".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “Comptroller's”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "Comptroller's".</i>
 
 <i><sup>5</sup></i><i> So in original. Probably should be preceded by a comma.</i>
 
 <i><sup>6</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>7</sup></i><i> So in original. Probably should be “preponderance”.</i>
+<i><sup>7</sup></i><i> So in original. Probably should be "preponderance".</i>
 
-<i><sup>8</sup></i><i> So in original. Probably should be “or were”.</i>
+<i><sup>8</sup></i><i> So in original. Probably should be "or were".</i>
 

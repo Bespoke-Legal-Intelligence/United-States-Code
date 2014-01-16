@@ -39,7 +39,7 @@
 - [&sect; 00426&#8211;1 - Coastal Engineering Research Center; establishment; powers and functions](%C2%A7%2000426%E2%80%931%20-%20Coastal%20Engineering%20Research%20Center%3B%20establishment%3B%20powers%20and%20functions.md)
 - [&sect; 00426&#8211;2 - Board on Coastal Engineering Research](%C2%A7%2000426%E2%80%932%20-%20Board%20on%20Coastal%20Engineering%20Research.md)
 - [&sect; 00426&#8211;3 - Transfer of functions of Beach Erosion Board](%C2%A7%2000426%E2%80%933%20-%20Transfer%20of%20functions%20of%20Beach%20Erosion%20Board.md)
-- [&sect; 00426a - Additional investigations concerning erosion of shores of coastal and lake waters; payment of costs; &#8220;shores&#8221; defined](%C2%A7%2000426a%20-%20Additional%20investigations%20concerning%20erosion%20of%20shores%20of%20coastal%20and%20lake%20waters%3B%20payment%20of%20costs%3B%20%E2%80%9Cshores%E2%80%9D%20defined.md)
+- [&sect; 00426a - Additional investigations concerning erosion of shores of coastal and lake waters; payment of costs; shores defined](%C2%A7%2000426a%20-%20Additional%20investigations%20concerning%20erosion%20of%20shores%20of%20coastal%20and%20lake%20waters%3B%20payment%20of%20costs%3B%20shores%20defined.md)
 - [&sect; 00426b - Applicability of existing laws; projects referred to Board of Engineers for Rivers and Harbors](%C2%A7%2000426b%20-%20Applicability%20of%20existing%20laws%3B%20projects%20referred%20to%20Board%20of%20Engineers%20for%20Rivers%20and%20Harbors.md)
 - [&sect; 00426c - Report by Coastal Engineering Research Center](%C2%A7%2000426c%20-%20Report%20by%20Coastal%20Engineering%20Research%20Center.md)
 - [&sect; 00426d - Payment of expenses](%C2%A7%2000426d%20-%20Payment%20of%20expenses.md)

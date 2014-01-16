@@ -30,7 +30,7 @@ Apr. 18, 1930, ch. 184, title I, 46 Stat. 174.
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, in second par., inserted “(including such expenses as salaries and other personnel expenses)” after “extraordinary expenses”.
+<b>1998</b>—Pub. L. 105–277, in second par., inserted "(including such expenses as salaries and other personnel expenses)" after "extraordinary expenses".
 
 <b>1987</b>—Pub. L. 100–204 inserted second par.
 

@@ -6,7 +6,7 @@ The Secretary of the Treasury shall prepare the estimates of the annual appropri
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–335 substituted “part” for “subchapter”.
+<b>1986</b>—Pub. L. 99–335 substituted "part" for "subchapter".
 
 #### Effective Date of 1986 Amendment
 

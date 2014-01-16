@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(iii) Any hazardous component of each such chemical as provided on the material safety data sheet.
 
-&emsp;(B) For purposes of the list under this paragraph, the Administrator may modify the categories of health and physical hazards as set forth under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act by requiring information to be reported in terms of groups of hazardous chemicals which present similar hazards in an emergency.
+&emsp;(B) For purposes of the list under this paragraph, the Administrator may modify the categories of health and physical hazards as set forth under the Occupational Safety andHealth Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act by requiring information to be reported in terms of groups of hazardous chemicals which present similar hazards in an emergency.
 
 #### (3) Treatment of mixtures
 
@@ -56,9 +56,9 @@ The Administrator may establish threshold quantities for hazardous chemicals bel
 
 (2) Within 3 months following discovery by an owner or operator of significant new information concerning an aspect of a hazardous chemical for which a material safety data sheet was previously submitted to the local emergency planning committee under subsection (a) of this section, a revised sheet shall be provided to such person.
 
-#### (e) “Hazardous chemical” defined
+#### (e) "Hazardous chemical" defined
 
-For purposes of this section, the term “hazardous chemical” has the meaning given such term by section 1910.1200(c) of title 29 of the Code of Federal Regulations, except that such term does not include the following:
+For purposes of this section, the term "hazardous chemical" has the meaning given such term by section 1910.1200(c) of title 29 of the Code of Federal Regulations, except that such term does not include the following:
 
 &emsp;(1) Any food, food additive, color additive, drug, or cosmetic regulated by the Food and Drug Administration.
 

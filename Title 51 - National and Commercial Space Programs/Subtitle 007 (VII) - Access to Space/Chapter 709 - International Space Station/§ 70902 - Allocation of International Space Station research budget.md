@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 109–155, title II, §204, Dec. 30, 2005, 119 Stat. 2916.
 
-The words “Beginning with fiscal year 2006”, which appeared at the beginning of this section, are omitted as obsolete.
+The words "Beginning with fiscal year 2006", which appeared at the beginning of this section, are omitted as obsolete.
 

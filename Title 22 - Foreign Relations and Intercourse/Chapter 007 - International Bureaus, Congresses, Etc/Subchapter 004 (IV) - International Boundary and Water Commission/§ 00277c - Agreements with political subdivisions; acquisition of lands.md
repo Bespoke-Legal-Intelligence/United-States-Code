@@ -10,7 +10,7 @@ In order to carry out the provisions of sections 277 to 277d of this title, the 
 
 #### Amendments
 
-<b>1936</b>—Act May 22, 1936, inserted “paragraph (2) of section 277a”.
+<b>1936</b>—Act May 22, 1936, inserted "paragraph (2) of section 277a".
 
 #### Savings Provision
 

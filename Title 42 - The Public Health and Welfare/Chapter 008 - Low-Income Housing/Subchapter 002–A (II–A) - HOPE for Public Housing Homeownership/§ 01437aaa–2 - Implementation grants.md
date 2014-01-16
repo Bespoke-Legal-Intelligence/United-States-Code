@@ -82,7 +82,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(D) a description of the proposed homeownership program, consistent with section 1437aaa–3 of this title and the other requirements of this subchapter, which shall specify the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating that the program will comply with the affordability requirements under section 1437aaa–3(b) of this title;
 
-&emsp;&emsp;(E) identification and description of the public housing project or projects involved, and a description of the composition of the tenants, including family size and income;
+&emsp;&emsp;(E) identification and description of the public housing project or projects involved,and a description of the composition of the tenants, including family size and income;
 
 &emsp;&emsp;(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) of this section and of other resources that are expected to be made available in support of the homeownership program;
 
@@ -112,7 +112,7 @@ The Secretary shall establish selection criteria for a national competition for 
 
 &emsp;(4) the quality and viability of the proposed homeownership program, including the viability of the economic self-sufficiency plan;
 
-&emsp;(5) the extent to which funds for activities that do not qualify as eligible activities willbe provided in support of the homeownership program;
+&emsp;(5) the extent to which funds for activities that do not qualify as eligible activities will be provided in support of the homeownership program;
 
 &emsp;(6) whether the approved comprehensive housing affordability strategy for the jurisdiction within which the public housing project is located includes the proposed homeownership program as one of the general priorities identified pursuant to section 105(b)(7) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12705(b)(7)\];
 
@@ -136,7 +136,7 @@ The Secretary shall notify each applicant, not later than 6 months after the dat
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (b) (introductory provisions) and (c)(2)(C), (E), was in the original “this subtitle”, and was translated as reading “this title”, meaning title III of act Sept. 1, 1937, ch. 896, as added by Pub. L. 101–625, to reflect the probable intent of Congress, because title III of act Sept. 1, 1937, does not contain subtitles.
+This subchapter, referred to in subsecs. (b) (introductory provisions) and (c)(2)(C), (E), was in the original "this subtitle", and was translated as reading "this title", meaning title III of act Sept. 1, 1937, ch. 896, as added by Pub. L. 101–625, to reflect the probable intent of Congress, because title III of act Sept. 1, 1937, does not contain subtitles.
 
 The Fair Housing Act, referred to in subsec. (d)(2)(M), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
@@ -148,23 +148,23 @@ The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (f
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(10). Pub. L. 105–276 substituted “such assistance from the Operating Fund” for “such assistance under section 1437g of this title”.
+<b>1998</b>—Subsec. (b)(10). Pub. L. 105–276 substituted "such assistance from the Operating Fund" for "such assistance under section 1437g of this title".
 
-<b>1992</b>—Subsec. (b)(2). Pub. L. 102–550, §181(g)(1)(A), struck out “(not including scattered site single family housing of a public housing agency)” after “public housing project”.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–550, §181(g)(1)(A), struck out "(not including scattered site single family housing of a public housing agency)" after "public housing project".
 
 Subsec. (b)(4) to (8). Pub. L. 102–550, §1012(h)(2), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively. Former par. (8) redesignated (9).
 
 Subsec. (b)(9). Pub. L. 102–550, §1012(h)(2)(A), redesignated par. (8) as (9). Former par. (9) redesignated (10).
 
-Pub. L. 102–550, §181(g)(1)(B), which directed insertion of “, and except that implementation grants may not be used under this paragraph to fund operating expenses for scattered site public housing acquired under a homeownership program” before period at end of section “303(b)(9) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 1437aaa–2(b)(9))”, was executed by making the insertion before period at end of subsec. (b)(9) of this section, which is section 303 of the United States Housing Act of 1937, to reflect the probable intent of Congress.
+Pub. L. 102–550, §181(g)(1)(B), which directed insertion of ", and except that implementation grants may not be used under this paragraph to fund operating expenses for scattered site public housing acquired under a homeownership program" before period at end of section "303(b)(9) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 1437aaa–2(b)(9))", was executed by making the insertion before period at end of subsec. (b)(9) of this section, which is section 303 of the United States Housing Act of 1937, to reflect the probable intent of Congress.
 
 Subsec. (b)(10) to (14). Pub. L. 102–550, §1012(h)(2)(A), redesignated pars. (9) to (13) as (10) to (14), respectively.
 
-Subsec. (c)(1). Pub. L. 102–550, §181(b)(1), inserted “and replacement housing” after “expenses”.
+Subsec. (c)(1). Pub. L. 102–550, §181(b)(1), inserted "and replacement housing" after "expenses".
 
 Subsec. (c)(3). Pub. L. 102–550, §181(b)(2), added par. (3).
 
-Subsec. (e)(8). Pub. L. 102–550, §181(c), struck out “of the type assisted under this subchapter” after “rental housing” and “appreciably” before “reduce”.
+Subsec. (e)(8). Pub. L. 102–550, §181(c), struck out "of the type assisted under this subchapter" after "rental housing" and "appreciably" before "reduce".
 
 #### Effective Date of 1998 Amendment
 

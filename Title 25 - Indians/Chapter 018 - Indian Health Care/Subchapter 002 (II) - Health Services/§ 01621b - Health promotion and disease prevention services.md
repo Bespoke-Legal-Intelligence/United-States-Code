@@ -24,19 +24,19 @@ Section 1602 of this title, referred to in subsec. (a), was amended generally by
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–573, §203(1), inserted before period at end “so as to achieve the health status objectives set forth in section 1602(b) of this title”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–573, §203(1), inserted before period at end "so as to achieve the health status objectives set forth in section 1602(b) of this title".
 
-Subsec. (b). Pub. L. 102–573, §203(2), in introductory provisions, substituted “section 1671” for “section 1621(f)”.
+Subsec. (b). Pub. L. 102–573, §203(2), in introductory provisions, substituted "section 1671" for "section 1621(f)".
 
 Subsec. (c). Pub. L. 102–573, §203(3), struck out subsec. (c) which directed establishment of between 1 and 4 health-related demonstration projects to terminate 30 months after Nov. 23, 1988.
 
 #### Congressional Findings on Health Promotion and Disease Prevention
 
-Pub. L. 100–713, title II, §203(a), Nov. 23, 1988, 102 Stat. 4804, provided that: “The Congress finds that health promotion and disease prevention activities will—
+Pub. L. 100–713, title II, §203(a), Nov. 23, 1988, 102 Stat. 4804, provided that: "The Congress finds that health promotion and disease prevention activities will—
 
-&emsp;“(1) improve the health and well being of Indians, and
+&emsp;"(1) improve the health and well being of Indians, and
 
-&emsp;“(2) reduce the expenses for medical care of Indians.”
+&emsp;"(2) reduce the expenses for medical care of Indians."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

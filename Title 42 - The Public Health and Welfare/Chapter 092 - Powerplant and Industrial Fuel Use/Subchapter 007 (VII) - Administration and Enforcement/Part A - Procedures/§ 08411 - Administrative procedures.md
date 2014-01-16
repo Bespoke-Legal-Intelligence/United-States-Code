@@ -14,7 +14,7 @@ Before the Secretary prescribes any rule or issues any order imposing a prohibit
 
 (2) The Secretary, upon receipt of such petition, shall notify the appropriate State agencies having primary authority to permit or regulate the construction or operation of the electric powerplant which is the subject of such petition, and, to the maximum extent practicable, consult with such agencies.
 
-(3) The Secretary, within 6 months after the period for public comment and hearing applicable to any petition for an exemption, shall issuea final order granting or denying the petition for such exemption, except that the Secretary may extend such period to a specified date if he publishes notice thereof in the Federal Register and includes with such notice a statement of the reasons for such extension.
+(3) The Secretary, within 6 months after the period for public comment and hearing applicable to any petition for an exemption, shall issue a final order granting or denying the petition for such exemption, except that the Secretary may extend such period to a specified date if he publishes notice thereof in the Federal Register and includes with such notice a statement of the reasons for such extension.
 
 #### (d) Public comment on prohibitions and exemptions
 
@@ -56,7 +56,7 @@ A copy of any proposed rule or order to be prescribed or issued by the Secretary
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (c)(1), (d)(1), (f), and (h)(1), (3), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (c)(1), (d)(1), (f), and (h)(1), (3), was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 The Clean Air Act, referred to in subsec. (f), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
@@ -64,19 +64,19 @@ The Department of Energy Organization Act, referred to in subsec. (h)(1), is Pub
 
 #### Amendments
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–42, §1(c)(16)(A), struck out “(other than under section 8372 of this title)” after “this chapter” and “or installation” after “powerplant”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–42, §1(c)(16)(A), struck out "(other than under section 8372 of this title)" after "this chapter" and "or installation" after "powerplant".
 
-Subsec. (c)(1). Pub. L. 100–42, §1(c)(16)(B)(i), (ii), struck out “or for any permit under section 8375 of this title” after “this chapter” and “or permit” after “such exemption”.
+Subsec. (c)(1). Pub. L. 100–42, §1(c)(16)(B)(i), (ii), struck out "or for any permit under section 8375 of this title" after "this chapter" and "or permit" after "such exemption".
 
-Subsec. (c)(2). Pub. L. 100–42, §1(c)(16)(B)(iii), struck out “or, where appropriate, major fuel-burning installation” after “powerplant”.
+Subsec. (c)(2). Pub. L. 100–42, §1(c)(16)(B)(iii), struck out "or, where appropriate, major fuel-burning installation" after "powerplant".
 
-Subsec. (c)(3). Pub. L. 100–42, §1(c)(16)(B)(i), struck out “or permit” after “exemption” in two places.
+Subsec. (c)(3). Pub. L. 100–42, §1(c)(16)(B)(i), struck out "or permit" after "exemption" in two places.
 
-Subsec. (c)(4). Pub. L. 100–42, §1(c)(16)(B)(iv), struck out par. (4) which read as follows: “Any order for the approval of a system compliance plan under section 8391 of this title, and any petition for such an order, shall be treated for purposes of this subchapter the same as an order (or petition) for an exemption.”
+Subsec. (c)(4). Pub. L. 100–42, §1(c)(16)(B)(iv), struck out par. (4) which read as follows: "Any order for the approval of a system compliance plan under section 8391 of this title, and any petition for such an order, shall be treated for purposes of this subchapter the same as an order (or petition) for an exemption."
 
-Subsec. (d)(1). Pub. L. 100–42, §1(c)(16)(C), struck out “(or permit)” after “an exemption” and “(other than under section 8372 of this title)” after “under this chapter”.
+Subsec. (d)(1). Pub. L. 100–42, §1(c)(16)(C), struck out "(or permit)" after "an exemption" and "(other than under section 8372 of this title)" after "under this chapter".
 
-Subsec. (f). Pub. L. 100–42, §1(c)(16)(D), struck out “8372 or” after “(other than under section” in two places.
+Subsec. (f). Pub. L. 100–42, §1(c)(16)(D), struck out "8372 or" after "(other than under section" in two places.
 
-Subsec. (g). Pub. L. 100–42, §1(c)(16)(E), struck out subsec. (g) which read as follows: “A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under section 8372 or 8374 of this title) with respect to a major fuel-burning installation or a boiler subject to section 8371 of this title or a petition by such installation or boiler for an exemption (or permit) under this chapter (other than under section 8372 or 8374 of this title), shall be transmitted by the Secretary to the Federal Trade Commission and the Secretary shall request such Commission to comment thereon within the period provided to the public. In any such case, the Federal Trade Commission shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d) of this section.”
+Subsec. (g). Pub. L. 100–42, §1(c)(16)(E), struck out subsec. (g) which read as follows: "A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under section 8372 or 8374 of this title) with respect to a major fuel-burning installation or a boiler subject to section 8371 of this title or a petition by such installation or boiler for an exemption (or permit) under this chapter (other than under section 8372 or 8374 of this title), shall be transmitted by the Secretary to the Federal Trade Commission and the Secretary shall request such Commission to comment thereon within the period provided to the public. In any such case, the Federal Trade Commission shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d) of this section."
 

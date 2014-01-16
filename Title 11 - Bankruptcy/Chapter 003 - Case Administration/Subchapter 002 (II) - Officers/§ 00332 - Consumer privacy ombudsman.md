@@ -18,7 +18,7 @@
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–16 substituted “7 days” for “5 days”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–16 substituted "7 days" for "5 days".
 
 #### Effective Date of 2009 Amendment
 

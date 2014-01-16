@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 July 8, 1898, ch. 636, 30 Stat. 722.
 
-The words “in his discretion” and “Government of” are omitted as surplusage. The words “United States” are substituted for the word “Government”.
+The words "in his discretion" and "Government of" are omitted as surplusage. The words "United States" are substituted for the word "Government".
 

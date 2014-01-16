@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Apr. 17, 1916, ch. 77, §2, 39 Stat. 51.
 
-The words “is to further” are substituted for “are and shall be the furtherance of” to eliminate unnecessary words.
+The words "is to further" are substituted for "are and shall be the furtherance of" to eliminate unnecessary words.
 

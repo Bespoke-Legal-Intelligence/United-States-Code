@@ -70,7 +70,7 @@ If an action is brought under subsection (a) or (b) with respect to a partnershi
 
 #### (1) In general
 
-&emsp;A readjustment petition under this section may be filed in a district court of the United States or the Court of Federal Claims only if the partner filing the petition deposits with the Secretary, on or before the day the petition is filed, the amount by which the tax liability of the partner would be increased if the treatment of partnership items on the partner's return were made consistent with the treatment of partnership items on the partnership return, as adjusted by the final partnership administrative adjustment. In the case of a petition filed by a 5-percent group, the requirement of the preceding sentence shall apply to each member of the group. The court may by order provide that the jurisdictional requirements of this paragraph are satisfied where there has been a good faith attempt to satisfy such requirements and any shortfall in the amount required to be deposited is timely corrected.
+&emsp;A readjustment petition under this section may be filed in a district court of the UnitedStates or the Court of Federal Claims only if the partner filing the petition deposits with the Secretary, on or before the day the petition is filed, the amount by which the tax liability of the partner would be increased if the treatment of partnership items on the partner's return were made consistent with the treatment of partnership items on the partnership return, as adjusted by the final partnership administrative adjustment. In the case of a petition filed by a 5-percent group, the requirement of the preceding sentence shall apply to each member of the group. The court may by order provide that the jurisdictional requirements of this paragraph are satisfied where there has been a good faith attempt to satisfy such requirements and any shortfall in the amount required to be deposited is timely corrected.
 
 #### (2) Refund on request
 
@@ -92,7 +92,7 @@ Any determination by a court under this section shall have the force and effect 
 
 If an action brought under this section is dismissed (other than under paragraph (4) of subsection (b)), the decision of the court dismissing the action shall be considered as its decision that the notice of final partnership administrative adjustment is correct, and an appropriate order shall be entered in the records of the court.
 
-(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 653; amended Pub. L. 97–448, title III, §306(c)(1)(A), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106Stat. 4516; Pub. L. 105–34, title XII, §§1238(b)(1), 1239(b), 1240(a), Aug. 5, 1997, 111 Stat. 1026–1028.)
+(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 653; amended Pub. L. 97–448, title III, §306(c)(1)(A), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–34, title XII, §§1238(b)(1), 1239(b), 1240(a), Aug. 5, 1997, 111 Stat. 1026–1028.)
 
 #### Amendments
 
@@ -100,11 +100,11 @@ If an action brought under this section is dismissed (other than under paragraph
 
 Subsec. (d)(1). Pub. L. 105–34, §1239(b), inserted concluding provisions.
 
-Subsec. (f). Pub. L. 105–34, §1238(b)(1), substituted “relates,” for “relates and” and inserted “, and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item” before period at end.
+Subsec. (f). Pub. L. 105–34, §1238(b)(1), substituted "relates," for "relates and" and inserted ", and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item" before period at end.
 
-<b>1992</b>—Subsecs. (a)(3), (e), (g). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
+<b>1992</b>—Subsecs. (a)(3), (e), (g). Pub. L. 102–572 substituted "Court of Federal Claims" for "Claims Court" wherever appearing.
 
-<b>1983</b>—Subsec. (g). Pub. L. 97–448 substituted “With respect to the partnership, only the tax matters partner” for “Only the tax matters partner”.
+<b>1983</b>—Subsec. (g). Pub. L. 97–448 substituted "With respect to the partnership, only the tax matters partner" for "Only the tax matters partner".
 
 #### Effective Date of 1997 Amendment
 
@@ -112,7 +112,7 @@ Amendment by section 1238(b)(1) of Pub. L. 105–34 applicable to partnership ta
 
 Amendment by section 1239(b) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under section 6225 of this title.
 
-Pub. L. 105–34, title XII, §1240(b), Aug. 5, 1997, 111 Stat. 1029, provided that: “The amendment made by this section \[amending this section\] shall apply to petitions filed after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1240(b), Aug. 5, 1997, 111 Stat. 1029, provided that: "The amendment made by this section \[amending this section\] shall apply to petitions filed after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1992 Amendment
 

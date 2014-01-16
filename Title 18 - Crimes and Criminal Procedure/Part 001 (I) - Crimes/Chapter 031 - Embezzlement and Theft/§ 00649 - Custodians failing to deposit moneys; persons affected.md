@@ -12,7 +12,7 @@ Based on title 18, U.S.C., 1940 ed., §§177, 178 (Mar. 4, 1909, ch. 321, §§91
 
 Sections were consolidated.
 
-Words “or agency” were inserted after “department”. See definition of “agency” in section 6 of this title.
+Words "or agency" were inserted after "department". See definition of "agency" in section 6 of this title.
 
 Mandatory punishment provisions made in alternative.
 
@@ -22,15 +22,15 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–294 substituted “$1,000” for “$100”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–294 substituted "$1,000" for "$100".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330016(2)(G), substituted “shall be fined under this title or in a sum equal to the amount of money embezzled, whichever is greater, or imprisoned” for “shall be fined in a sum equal to the amount of money embezzled or imprisoned”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330016(2)(G), substituted "shall be fined under this title or in a sum equal to the amount of money embezzled, whichever is greater, or imprisoned" for "shall be fined in a sum equal to the amount of money embezzled or imprisoned".
 
-Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
+Pub. L. 103–322, §330016(1)(H), substituted "fined under this title" for "fined not more than $1,000" after "he shall be".
 
 #### Transfer of Functions
 
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. The Treasurer of the United States, referred to in this section, is an officer of Department of the Treasury.
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. The Treasurer of the United States, referred to in this section, is an officer of Department of the Treasury.
 

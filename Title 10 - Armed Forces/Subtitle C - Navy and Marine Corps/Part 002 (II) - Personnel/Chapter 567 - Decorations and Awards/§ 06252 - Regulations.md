@@ -24,5 +24,5 @@ Feb. 4, 1919, ch. 14, §9 (as applicable to regulations), 40 Stat. 1057; renumbe
 
 July 2, 1926, ch. 721, §12 (1st 9 words of 1st sentence), 44 Stat. 789; July 30, 1937, ch. 545, §4, 50 Stat. 549.
 
-The words “further”, “from time to time any and all rules”, “orders which he shall deem necessary”, and “to execute full purpose and intention thereof” are omitted as surplusage.
+The words "further", "from time to time any and all rules", "orders which he shall deem necessary", and "to execute full purpose and intention thereof" are omitted as surplusage.
 

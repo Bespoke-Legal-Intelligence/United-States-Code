@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Affirmative consent
 
-&emsp;The term “affirmative consent”, when used with respect to a commercial electronic mail message, means that—
+&emsp;The term "affirmative consent", when used with respect to a commercial electronic mail message, means that—
 
 &emsp;&emsp;(A) the recipient expressly consented to receive the message, either in response to a clear and conspicuous request for such consent or at the recipient's own initiative; and
 
@@ -14,11 +14,11 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “commercial electronic mail message” means any electronic mail message the primary purpose of which is the commercial advertisement or promotion of a commercial product or service (including content on an Internet website operated for a commercial purpose).
+&emsp;&emsp;The term "commercial electronic mail message" means any electronic mail message the primary purpose of which is the commercial advertisement or promotion of a commercial product or service (including content on an Internet website operated for a commercial purpose).
 
 #### (B) Transactional or relationship messages
 
-&emsp;&emsp;The term “commercial electronic mail message” does not include a transactional or relationship message.
+&emsp;&emsp;The term "commercial electronic mail message" does not include a transactional or relationship message.
 
 #### (C) Regulations regarding primary purpose
 
@@ -30,71 +30,71 @@ In this chapter:
 
 #### (3) Commission
 
-&emsp;The term “Commission” means the Federal Trade Commission.
+&emsp;The term "Commission" means the Federal Trade Commission.
 
 #### (4) Domain name
 
-&emsp;The term “domain name” means any alphanumeric designation which is registered with or assigned by any domain name registrar, domain name registry, or other domain name registration authority as part of an electronic address on the Internet.
+&emsp;The term "domain name" means any alphanumeric designation which is registered with or assigned by any domain name registrar, domain name registry, or other domain name registration authority as part of an electronic address on the Internet.
 
 #### (5) Electronic mail address
 
-&emsp;The term “electronic mail address” means a destination, commonly expressed as a string of characters, consisting of a unique user name or mailbox (commonly referred to as the “local part”) and a reference to an Internet domain (commonly referred to as the “domain part”), whether or not displayed, to which an electronic mail message can be sent or delivered.
+&emsp;The term "electronic mail address" means a destination, commonly expressed as a string of characters, consisting of a unique user name or mailbox (commonly referred to as the "local part") and a reference to an Internet domain (commonly referred to as the "domain part"), whether or not displayed, to which an electronic mail message can be sent or delivered.
 
 #### (6) Electronic mail message
 
-&emsp;The term “electronic mail message” means a message sent to a unique electronic mail address.
+&emsp;The term "electronic mail message" means a message sent to a unique electronic mail address.
 
 #### (7) FTC Act
 
-&emsp;The term “FTC Act” means the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+&emsp;The term "FTC Act" means the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
 
 #### (8) Header information
 
-&emsp;The term “header information” means the source, destination, and routing information attached to an electronic mail message, including the originating domain name and originating electronic mail address, and any other information that appears in the line identifying, or purporting to identify, a person initiating the message.
+&emsp;The term "header information" means the source, destination, and routing information attached to an electronic mail message, including the originating domain name and originating electronic mail address, and any other information that appears in the line identifying, or purporting to identify, a person initiating the message.
 
 #### (9) Initiate
 
-&emsp;The term “initiate”, when used with respect to a commercial electronic mail message, means to originate or transmit such message or to procure the origination or transmission of such message, but shall not include actions that constitute routine conveyance of such message. For purposes of this paragraph, more than one person may be considered to have initiated a message.
+&emsp;The term "initiate", when used with respect to a commercial electronic mail message, means to originate or transmit such message or to procure the origination or transmission of such message, but shall not include actions that constitute routine conveyance of such message. For purposes of this paragraph, more than one person may be considered to have initiated a message.
 
 #### (10) Internet
 
-&emsp;The term “Internet” has the meaning given that term in the Internet Tax Freedom Act (47 U.S.C. 151 nt).
+&emsp;The term "Internet" has the meaning given that term in the Internet Tax Freedom Act (47 U.S.C. 151 nt).
 
 #### (11) Internet access service
 
-&emsp;The term “Internet access service” has the meaning given that term in section 231(e)(4) of title 47.
+&emsp;The term "Internet access service" has the meaning given that term in section 231(e)(4) of title 47.
 
 #### (12) Procure
 
-&emsp;The term “procure”, when used with respect to the initiation of a commercial electronic mail message, means intentionally to pay or provide other consideration to, or induce, another person to initiate such a message on one's behalf.
+&emsp;The term "procure", when used with respect to the initiation of a commercial electronic mail message, means intentionally to pay or provide other consideration to, or induce, another person to initiate such a message on one's behalf.
 
 #### (13) Protected computer
 
-&emsp;The term “protected computer” has the meaning given that term in section 1030(e)(2)(B) of title 18.
+&emsp;The term "protected computer" has the meaning given that term in section 1030(e)(2)(B) of title 18.
 
 #### (14) Recipient
 
-&emsp;The term “recipient”, when used with respect to a commercial electronic mail message, means an authorized user of the electronic mail address to which the message was sent or delivered. If a recipient of a commercial electronic mail message has one or more electronic mail addresses in addition to the address to which the message was sent or delivered, the recipient shall be treated as a separate recipient with respect to each such address. If an electronic mail address is reassigned to a new user, the new user shall not be treated as a recipient of any commercial electronic mail message sent or delivered to that address before it was reassigned.
+&emsp;The term "recipient", when used with respect to a commercial electronic mail message, means an authorized user of the electronic mail address to which the message was sent or delivered. If a recipient of a commercial electronic mail message has one or more electronic mail addresses in addition to the address to which the message was sent or delivered, the recipient shall be treated as a separate recipient with respect to each such address. If an electronic mail address is reassigned to a new user, the new user shall not be treated as a recipient of any commercial electronic mail message sent or delivered to that address before it was reassigned.
 
 #### (15) Routine conveyance
 
-&emsp;The term “routine conveyance” means the transmission, routing, relaying, handling, or storing, through an automatic technical process, of an electronic mail message for which another person has identified the recipients or provided the recipient addresses.
+&emsp;The term "routine conveyance" means the transmission, routing, relaying, handling, or storing, through an automatic technical process, of an electronic mail message for which another person has identified the recipients or provided the recipient addresses.
 
 #### (16) Sender
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “sender”, when used with respectto a commercial electronic mail message, means a person who initiates such a message and whose product, service, or Internet web site is advertised or promoted by the message.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "sender", when used with respect to a commercial electronic mail message, means a person who initiates such a message and whose product, service, or Internet web site is advertised or promoted by the message.
 
 #### (B) Separate lines of business or divisions
 
-&emsp;&emsp;If an entity operates through separate lines of business or divisions and holds itself out to the recipient throughout the message as that particular line of business or division rather than as the entity of which such line of business or division is a part, then the line of business or the division shall be treated as the sender of such message for purposes of this chapter.
+&emsp;&emsp;If an entity operates through separate lines of business or divisions and holds itself out to the recipient throughout the message as that particular line of business or division rather than as the entity of which such line of business or division is a part, then theline of business or the division shall be treated as the sender of such message for purposes of this chapter.
 
 #### (17) Transactional or relationship message
 
 #### (A) In general
 
-&emsp;&emsp;The term “transactional or relationship message” means an electronic mail message the primary purpose of which is—
+&emsp;&emsp;The term "transactional or relationship message" means an electronic mail message the primary purpose of which is—
 
 &emsp;&emsp;&emsp;(i) to facilitate, complete, or confirm a commercial transaction that the recipient has previously agreed to enter into with the sender;
 
@@ -122,7 +122,7 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 The Federal Trade Commission Act, referred to in par. (7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 

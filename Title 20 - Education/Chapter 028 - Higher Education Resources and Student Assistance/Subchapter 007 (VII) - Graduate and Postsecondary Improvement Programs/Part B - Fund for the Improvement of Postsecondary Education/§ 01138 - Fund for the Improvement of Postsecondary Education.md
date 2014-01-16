@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Secretary is authorized to make grants to, or enter into contracts with, institutions of higher education, combinations of such institutions, and other public and private nonprofit institutions and agencies, to enable such institutions, combinations, and agencies to improve postsecondary education opportunities by—
+The Secretary is authorized to make grants to, or enter into contracts with, institutions ofhigher education, combinations of such institutions, and other public and private nonprofit institutions and agencies, to enable such institutions, combinations, and agencies to improve postsecondary education opportunities by—
 
 &emsp;(1) the encouragement of reform and improvement of, and innovation in, postsecondary education and the provision of educational opportunity for all students, including nontraditional students;
 
@@ -12,7 +12,7 @@ The Secretary is authorized to make grants to, or enter into contracts with, ins
 
 &emsp;&emsp;(B) combinations of academic and experiential learning;
 
-&emsp;(3) the establishment and continuation of institutions, programs, consortia, collaborations, and other joint efforts based on communications technology, including those effortsthat utilize distance education and technological advancements to educate and train postsecondary students (including health professionals serving medically underserved populations);
+&emsp;(3) the establishment and continuation of institutions, programs, consortia, collaborations, and other joint efforts based on communications technology, including those efforts that utilize distance education and technological advancements to educate and train postsecondary students (including health professionals serving medically underserved populations);
 
 &emsp;(4) the carrying out, in postsecondary educational institutions, of changes in internal structure and operations designed to clarify institutional priorities and purposes;
 
@@ -84,7 +84,7 @@ The Secretary is authorized to make planning grants to institutions of higher ed
 
 #### (e) Priority
 
-In making grants under this part to any institution of higher education after August 14, 2008,the Secretary may give priority to institutions that meet or exceed the most current version of ASHRAE/IES Standard 90.1 (as such term is used in section 6313(a)(6) of title 42) for any new facilities construction or major renovation of the institution after such date, except that this subsection shall not apply with respect to barns or greenhouses or similar structures owned by the institution.
+In making grants under this part to any institution of higher education after August 14, 2008, the Secretary may give priority to institutions that meet or exceed the most current version of ASHRAE/IES Standard 90.1 (as such term is used in section 6313(a)(6) of title 42) for any new facilities construction or major renovation of the institution after such date, except that this subsection shall not apply with respect to barns or greenhouses or similar structures owned by the institution.
 
 #### (f) Scholarship program for family members of veterans or members of the military
 
@@ -94,7 +94,7 @@ In making grants under this part to any institution of higher education after Au
 
 #### (2) Definition of eligible student
 
-&emsp;In this subsection, the term “eligible student” means an individual who is enrolled as a full-time or part-time student at an institution of higher education (as defined in section 1002 of this title) and is—
+&emsp;In this subsection, the term "eligible student" means an individual who is enrolled as a full-time or part-time student at an institution of higher education (as defined in section 1002 of this title) and is—
 
 &emsp;&emsp;(A) a dependent student who is a child of—
 
@@ -162,13 +162,13 @@ Another prior section 741 of Pub. L. 89–329 was classified to section 1132c of
 
 <b>2008</b>—Subsec. (a)(1) to (3). Pub. L. 110–315, §707(a)(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
-“(1) encouraging the reform, innovation, and improvement of postsecondary education, and providing equal educational opportunity for all;
+"(1) encouraging the reform, innovation, and improvement of postsecondary education, and providing equal educational opportunity for all;
 
-“(2) the creation of institutions, programs, and joint efforts involving paths to career and professional training, and combinations of academic and experiential learning;
+"(2) the creation of institutions, programs, and joint efforts involving paths to career and professional training, and combinations of academic and experiential learning;
 
-“(3) the establishment of institutions and programs based on the technology of communications;”
+"(3) the establishment of institutions and programs based on the technology of communications;"
 
-Subsec. (a)(6). Pub. L. 110–315, §707(a)(2), added par. (6) and struck out former par. (6) which read as follows: “the introduction of institutional reforms designed to expand individual opportunities for entering and reentering institutions and pursuing programs of study tailored to individual needs;”.
+Subsec. (a)(6). Pub. L. 110–315, §707(a)(2), added par. (6) and struck out former par. (6) which read as follows: "the introduction of institutional reforms designed to expand individual opportunities for entering and reentering institutions and pursuing programs of study tailored to individual needs;".
 
 Subsec. (a)(9) to (13). Pub. L. 110–315, §707(a)(3)–(5), added pars. (9) to (13).
 

@@ -73,15 +73,15 @@ av
 
 #### (i) RVC
 
-&emsp;&emsp;&emsp;The term “RVC” means the regional value-content of the good, expressed as a percentage.
+&emsp;&emsp;&emsp;The term "RVC" means the regional value-content of the good, expressed as a percentage.
 
 #### (ii) AV
 
-&emsp;&emsp;&emsp;The term “AV” means the adjusted value of the good.
+&emsp;&emsp;&emsp;The term "AV" means the adjusted value of the good.
 
 #### (iii) VNM
 
-&emsp;&emsp;&emsp;The term “VNM” means the value of nonoriginating materials that are acquired and used by the producer in the production of the good, but does not include the value of a material that is self-produced.
+&emsp;&emsp;&emsp;The term "VNM" means the value of nonoriginating materials that are acquired and used by the producer in the production of the good, but does not include the value of a material that is self-produced.
 
 #### (3) Build-up method
 
@@ -116,15 +116,15 @@ av
 
 #### (i) RVC
 
-&emsp;&emsp;&emsp;The term “RVC” means the regional value-content of the good, expressed as a percentage.
+&emsp;&emsp;&emsp;The term "RVC" means the regional value-content of the good, expressed as a percentage.
 
 #### (ii) AV
 
-&emsp;&emsp;&emsp;The term “AV” means the adjusted value of the good.
+&emsp;&emsp;&emsp;The term "AV" means the adjusted value of the good.
 
 #### (iii) VOM
 
-&emsp;&emsp;&emsp;The term “VOM” means the value of originating materials that are acquired or self-produced, and used by the producer in the production of the good.
+&emsp;&emsp;&emsp;The term "VOM" means the value of originating materials that are acquired or self-produced, and used by the producer in the production of the good.
 
 #### (4) Special rule for certain automotive goods
 
@@ -159,19 +159,19 @@ nc
 
 #### (i) Automotive good
 
-&emsp;&emsp;&emsp;The term “automotive good” means a good provided for in any of subheadings 8407.31 through 8407.34, subheading 8408.20, heading 8409, or in any of headings 8701 through 8708.
+&emsp;&emsp;&emsp;The term "automotive good" means a good provided for in any of subheadings 8407.31 through 8407.34, subheading 8408.20, heading 8409, or in any of headings 8701 through 8708.
 
 #### (ii) RVC
 
-&emsp;&emsp;&emsp;The term “RVC” means the regional value-content of the automotive good, expressed as a percentage.
+&emsp;&emsp;&emsp;The term "RVC" means the regional value-content of the automotive good, expressed as a percentage.
 
 #### (iii) NC
 
-&emsp;&emsp;&emsp;The term “NC” means the net cost of the automotive good.
+&emsp;&emsp;&emsp;The term "NC" means the net cost of the automotive good.
 
 #### (iv) VNM
 
-&emsp;&emsp;&emsp;The term “VNM” means the value of nonoriginating materials that are acquired and used by the producer in the production of the automotive good, but does not include the value of a material that is self-produced.
+&emsp;&emsp;&emsp;The term "VNM" means the value of nonoriginating materials that are acquired and used by the producer in the production of the automotive good, but does not include the value of a material that is self-produced.
 
 #### (C) Motor vehicles
 
@@ -339,7 +339,7 @@ nc
 
 #### (C) Yarn, fabric, or fiber
 
-&emsp;&emsp;For purposes of this paragraph, in the case of a good that is a yarn, fabric, or fiber, the term “component of the good that determines the tariff classification of the good” means all of the fibers in the good.
+&emsp;&emsp;For purposes of this paragraph, in the case of a good that is a yarn, fabric, or fiber, the term "component of the good that determines the tariff classification of the good" means all of the fibers in the good.
 
 #### (g) Fungible goods and materials
 
@@ -351,13 +351,13 @@ nc
 
 #### (B) Inventory management method
 
-&emsp;&emsp;In this subsection, the term “inventory management method” means—
+&emsp;&emsp;In this subsection, the term "inventory management method" means—
 
 &emsp;&emsp;&emsp;(i) averaging;
 
-&emsp;&emsp;&emsp;(ii) “last-in, first-out”;
+&emsp;&emsp;&emsp;(ii) "last-in, first-out";
 
-&emsp;&emsp;&emsp;(iii) “first-in, first-out”; or
+&emsp;&emsp;&emsp;(iii) "first-in, first-out"; or
 
 &emsp;&emsp;&emsp;(iv) any other method—
 
@@ -429,11 +429,11 @@ In this section:
 
 #### (1) Adjusted value
 
-&emsp;The term “adjusted value” means the value determined in accordance with Articles 1 through 8, Article 15, and the corresponding interpretive notes of the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994 referred to in section 3511(d)(8) of this title, adjusted, if necessary, to exclude any costs, charges, or expenses incurred for transportation, insurance, and related services incident to the international shipment of the merchandise from the country of exportation to the place of importation.
+&emsp;The term "adjusted value" means the value determined in accordance with Articles 1 through 8, Article 15, and the corresponding interpretive notes of the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994 referred to in section 3511(d)(8) of this title, adjusted, if necessary, to exclude any costs, charges, or expenses incurred for transportation, insurance, and related services incident to the international shipment of the merchandise from the country of exportation to the place of importation.
 
 #### (2) CAFTA–DR country
 
-&emsp;The term “CAFTA–DR country” means—
+&emsp;The term "CAFTA–DR country" means—
 
 &emsp;&emsp;(A) the United States; and
 
@@ -441,7 +441,7 @@ In this section:
 
 #### (3) Class of motor vehicles
 
-&emsp;The term “class of motor vehicles” means any one of the following categories of motor vehicles:
+&emsp;The term "class of motor vehicles" means any one of the following categories of motor vehicles:
 
 &emsp;&emsp;(A) Motor vehicles provided for in subheading 8701.20, 8704.10, 8704.22, 8704.23, 8704.32, or 8704.90, or heading 8705 or 8706, or motor vehicles for the transport of 16 or more persons provided for in subheading 8702.10 or 8702.90.
 
@@ -453,15 +453,15 @@ In this section:
 
 #### (4) Fungible good or fungible material
 
-&emsp;The term “fungible good” or “fungible material” means a good or material, as the case may be, that is interchangeable with another good or material for commercial purposes and the properties of which are essentially identical to such other good or material.
+&emsp;The term "fungible good" or "fungible material" means a good or material, as the case may be, that is interchangeable with another good or material for commercial purposes and the properties of which are essentially identical to such other good or material.
 
 #### (5) Generally accepted accounting principles
 
-&emsp;The term “generally accepted accounting principles” means the recognized consensus or substantial authoritative support in the territory of a CAFTA–DR country with respect to the recording of revenues, expenses, costs, assets, and liabilities, the disclosure of information, and the preparation of financial statements. The principles may encompass broad guidelines of general application as well as detailed standards, practices, and procedures.
+&emsp;The term "generally accepted accounting principles" means the recognized consensus or substantial authoritative support in the territory of a CAFTA–DR country with respect to the recording of revenues, expenses, costs, assets, and liabilities, the disclosure of information, and the preparation of financial statements. The principles may encompass broad guidelines of general application as well as detailed standards, practices, and procedures.
 
 #### (6) Goods wholly obtained or produced entirely in the territory of one or more of the CAFTA–DR countries
 
-&emsp;The term “goods wholly obtained or produced entirely in the territory of one or more of the CAFTA–DR countries” means—
+&emsp;The term "goods wholly obtained or produced entirely in the territory of one or more of the CAFTA–DR countries" means—
 
 &emsp;&emsp;(A) plants and plant products harvested or gathered in the territory of one or more of the CAFTA–DR countries;
 
@@ -499,11 +499,11 @@ In this section:
 
 #### (7) Identical goods
 
-&emsp;The term “identical goods” means identical goods as defined in the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994 referred to in section 3511(d)(8) of this title;
+&emsp;The term "identical goods" means identical goods as defined in the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994 referred to in section 3511(d)(8) of this title;
 
 #### (8) Indirect material
 
-&emsp;The term “indirect material” means a good used in the production, testing, or inspection of a good but not physically incorporated into the good, or a good used in the maintenance of buildings or the operation of equipment associated with the production of a good, including—
+&emsp;The term "indirect material" means a good used in the production, testing, or inspection of a good but not physically incorporated into the good, or a good used in the maintenance of buildings or the operation of equipment associated with the production of a good, including—
 
 &emsp;&emsp;(A) fuel and energy;
 
@@ -523,51 +523,51 @@ In this section:
 
 #### (9) Material
 
-&emsp;The term “material” means a good that is used in the production of another good, including a part or an ingredient.
+&emsp;The term "material" means a good that is used in the production of another good, including a part or an ingredient.
 
 #### (10) Material that is self-produced
 
-&emsp;The term “material that is self-produced” means an originating material that is produced by a producer of a good and used in the production of that good.
+&emsp;The term "material that is self-produced" means an originating material that is produced by a producer of a good and used in the production of that good.
 
 #### (11) Model line
 
-&emsp;The term “model line” means a group of motor vehicles having the same platform or model name.
+&emsp;The term "model line" means a group of motor vehicles having the same platform or model name.
 
 #### (12) Net cost
 
-&emsp;The term “net cost” means total cost minus sales promotion, marketing, and after-sales service costs, royalties, shipping and packing costs, and non-allowable interest costs that are included in the total cost.
+&emsp;The term "net cost" means total cost minus sales promotion, marketing, and after-sales service costs, royalties, shipping and packing costs, and non-allowable interest costs that are included in the total cost.
 
 #### (13) Nonallowable interest costs
 
-&emsp;The term “nonallowable interest costs” means interest costs incurred by a producer that exceed 700 basis points above the applicable official interest rate for comparable maturities of the CAFTA–DR country in which the producer is located.
+&emsp;The term "nonallowable interest costs" means interest costs incurred by a producer that exceed 700 basis points above the applicable official interest rate for comparable maturities of the CAFTA–DR country in which the producer is located.
 
 #### (14) Nonoriginating good or nonoriginating material
 
-&emsp;The terms “nonoriginating good” and “nonoriginating material” mean a good or material, as the case may be, that does not qualify as originating under this section.
+&emsp;The terms "nonoriginating good" and "nonoriginating material" mean a good or material, as the case may be, that does not qualify as originating under this section.
 
 #### (15) Packing materials and containers for shipment
 
-&emsp;The term “packing materials and containers for shipment” means the goods used to protect a good during its transportation and does not include the packaging materials and containers in which a good is packaged for retail sale.
+&emsp;The term "packing materials and containers for shipment" means the goods used to protect a good during its transportation and does not include the packaging materials and containers in which a good is packaged for retail sale.
 
 #### (16) Preferential tariff treatment
 
-&emsp;The term “preferential tariff treatment” means the customs duty rate, and the treatment under article 3.10.4 of the Agreement, that are applicable to an originating good pursuant to the Agreement.
+&emsp;The term "preferential tariff treatment" means the customs duty rate, and the treatment under article 3.10.4 of the Agreement, that are applicable to an originating good pursuant to the Agreement.
 
 #### (17) Producer
 
-&emsp;The term “producer” means a person who engages in the production of a good in the territory of a CAFTA–DR country.
+&emsp;The term "producer" means a person who engages in the production of a good in the territory of a CAFTA–DR country.
 
 #### (18) Production
 
-&emsp;The term “production” means growing, mining, harvesting, fishing, raising, trapping, hunting, manufacturing, processing, assembling, or disassembling a good.
+&emsp;The term "production" means growing, mining, harvesting, fishing, raising, trapping, hunting, manufacturing, processing, assembling, or disassembling a good.
 
 #### (19) Reasonably allocate
 
-&emsp;The term “reasonably allocate” means to apportion in a manner that would be appropriate under generally accepted accounting principles.
+&emsp;The term "reasonably allocate" means to apportion in a manner that would be appropriate under generally accepted accounting principles.
 
 #### (20) Recovered goods
 
-&emsp;The term “recovered goods” means materials in the form of individual parts that are the result of—
+&emsp;The term "recovered goods" means materials in the form of individual parts that are the result of—
 
 &emsp;&emsp;(A) the disassembly of used goods into individual parts; and
 
@@ -575,7 +575,7 @@ In this section:
 
 #### (21) Remanufactured good
 
-&emsp;The term “remanufactured good” means a good that is classified under chapter 84, 85, or 87, or heading 9026, 9031, or 9032, other than a good classified under heading 8418 or 8516, and that—
+&emsp;The term "remanufactured good" means a good that is classified under chapter 84, 85, or 87, or heading 9026, 9031, or 9032, other than a good classified under heading 8418 or 8516, and that—
 
 &emsp;&emsp;(A) is entirely or partially comprised of recovered goods; and
 
@@ -583,11 +583,11 @@ In this section:
 
 #### (22) Total cost
 
-&emsp;The term “total cost” means all product costs, period costs, and other costs for a good incurred in the territory of one or more of the CAFTA–DR countries.
+&emsp;The term "total cost" means all product costs, period costs, and other costs for a good incurred in the territory of one or more of the CAFTA–DR countries.
 
 #### (23) Used
 
-&emsp;The term “used” means used or consumed in the production of goods.
+&emsp;The term "used" means used or consumed in the production of goods.
 
 #### (o) Presidential proclamation authority
 
@@ -623,9 +623,9 @@ In this section:
 
 &emsp;&emsp;In this paragraph:
 
-&emsp;&emsp;&emsp;(i) The term “interested entity” means the government of a CAFTA–DR country other than the United States, a potential or actual purchaser of a textile or apparel good, or a potential or actual supplier of a textile or apparel good.
+&emsp;&emsp;&emsp;(i) The term "interested entity" means the government of a CAFTA–DR country other than the United States, a potential or actual purchaser of a textile or apparel good, or a potential or actual supplier of a textile or apparel good.
 
-&emsp;&emsp;&emsp;(ii) All references to “day” and “days” exclude Saturdays, Sundays, and legal holidays.
+&emsp;&emsp;&emsp;(ii) All references to "day" and "days" exclude Saturdays, Sundays, and legal holidays.
 
 #### (C) Requests to add fabrics, yarns, or fibers
 
@@ -691,9 +691,9 @@ In this section:
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
-This subchapter, referred to in subsec. (o)(1)(B), was in the original “this title” meaning title II of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which enacted this subchapter and amended sections 58c, 1508, 1514, 1520, and 1592 of this title. For complete classification of title II to the Code, see Tables.
+This subchapter, referred to in subsec. (o)(1)(B), was in the original "this title" meaning title II of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which enacted this subchapter and amended sections 58c, 1508, 1514, 1520, and 1592 of this title. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
 
@@ -704,7 +704,7 @@ This subchapter, referred to in subsec. (o)(1)(B), was in the original “this t
 | &nbsp; |  |
 | --- | --- |
 
-&nbsp;&nbsp;“rvc
+&nbsp;&nbsp;"rvc
 
 \=
 
@@ -712,7 +712,7 @@ av–vnm
 
 &nbsp;×&nbsp;
 
-100”&nbsp;&nbsp;
+100"&nbsp;&nbsp;
 
 &nbsp;
 
@@ -727,7 +727,7 @@ av
 | &nbsp; |  |
 | --- | --- |
 
-&nbsp;&nbsp;“rvc
+&nbsp;&nbsp;"rvc
 
 \=
 
@@ -735,7 +735,7 @@ av
 
 &nbsp;×&nbsp;
 
-100”.&nbsp;&nbsp;
+100".&nbsp;&nbsp;
 
 &nbsp;
 
@@ -750,7 +750,7 @@ Subsec. (c)(3)(A). Pub. L. 109–135, §421(2), substituted
 | &nbsp; |  |
 | --- | --- |
 
-&nbsp;&nbsp;“rvc
+&nbsp;&nbsp;"rvc
 
 \=
 
@@ -758,7 +758,7 @@ vom
 
 &nbsp;×&nbsp;
 
-100”&nbsp;&nbsp;
+100"&nbsp;&nbsp;
 
 &nbsp;
 
@@ -773,7 +773,7 @@ av
 | &nbsp; |  |
 | --- | --- |
 
-&nbsp;&nbsp;“rvc
+&nbsp;&nbsp;"rvc
 
 \=
 
@@ -781,7 +781,7 @@ av
 
 &nbsp;×&nbsp;
 
-100”.&nbsp;&nbsp;
+100".&nbsp;&nbsp;
 
 &nbsp;
 
@@ -796,7 +796,7 @@ Subsec. (c)(4)(A). Pub. L. 109–135, §421(3), substituted
 | &nbsp; |  |
 | --- | --- |
 
-&nbsp;&nbsp;“rvc
+&nbsp;&nbsp;"rvc
 
 \=
 
@@ -804,7 +804,7 @@ nc–vnm
 
 &nbsp;×&nbsp;
 
-100”&nbsp;&nbsp;
+100"&nbsp;&nbsp;
 
 &nbsp;
 
@@ -819,7 +819,7 @@ nc
 | &nbsp; |  |
 | --- | --- |
 
-&nbsp;&nbsp;“rvc
+&nbsp;&nbsp;"rvc
 
 \=
 
@@ -827,7 +827,7 @@ nc
 
 &nbsp;×&nbsp;
 
-100”.&nbsp;&nbsp;
+100".&nbsp;&nbsp;
 
 &nbsp;
 

@@ -98,7 +98,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Electronic logging device.—The term “electronic logging device” means an electronic device that—
+Electronic logging device.—The term "electronic logging device" means an electronic device that—
 
 &emsp;&emsp;(A) is capable of recording a driver's hours of service and duty status accurately and automatically; and
 
@@ -106,7 +106,7 @@ Electronic logging device.—The term “electronic logging device” means an e
 
 &emsp;(2)
 
-Tamper resistant.—The term “tamper resistant” means resistant to allowing any individual to cause an electronic device to record the incorrect date, time, and location for changes to on-duty driving status of a commercial motor vehicle operator under part 395 of title 49, Code of Federal Regulations, or to subsequently alter the record created by that device.
+Tamper resistant.—The term "tamper resistant" means resistant to allowing any individual to cause an electronic device to record the incorrect date, time, and locationfor changes to on-duty driving status of a commercial motor vehicle operator under part 395 of title 49, Code of Federal Regulations, or to subsequently alter the record created by that device.
 
 (g)
 
@@ -144,11 +144,11 @@ The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141, §32301(b)(1), substituted “Electronic logging devices and brake maintenance regulations” for “Monitoring device and brake maintenance regulations” in section catchline.
+<b>2012</b>—Pub. L. 112–141, §32301(b)(1), substituted "Electronic logging devices and brake maintenance regulations" for "Monitoring device and brake maintenance regulations" in section catchline.
 
-Subsecs. (a) to (f). Pub. L. 112–141, §32301(b)(3), which directed that subsec. (a) be generally amended by substituting new subsecs. (a) to (f), was executed by generally amending subsec. (a) and adding subsecs. (b) to (f) to reflect the probable intent of Congress. Prior to amendment, text of subsec. (a) read as follows: “If the Secretary of Transportation prescribes a regulation about the use of monitoring devices on commercial motor vehicles to increase compliance by operators of the vehicles with hours of service regulations of the Secretary, the regulation shall ensure that the devices are not used to harass vehicle operators. However, the devices may be used to monitor productivity of the operators.” Former subsec. (b) redesignated (g).
+Subsecs. (a) to (f). Pub. L. 112–141, §32301(b)(3), which directed that subsec. (a) be generally amended by substituting new subsecs. (a) to (f), was executed by generally amending subsec. (a) and adding subsecs. (b) to (f) to reflect the probable intent of Congress. Prior to amendment, text of subsec. (a) read as follows: "If the Secretary of Transportation prescribes a regulation about the use of monitoring devices on commercial motor vehicles to increase compliance by operators of the vehicles with hours of service regulations of the Secretary, the regulation shall ensure that the devices are not used to harass vehicle operators. However, the devices may be used to monitor productivity of the operators." Former subsec. (b) redesignated (g).
 
-Subsec. (g). Pub. L. 112–141, §32931(a), which directed substitution of “The Secretary shall maintain” for “Not later than December 1, 1990, the Secretary shall prescribe”, was executed by making the substitution for “Not later than December 31, 1990, the Secretary shall prescribe”, to reflect the probable intent of Congress.
+Subsec. (g). Pub. L. 112–141, §32931(a), which directed substitution of "The Secretary shall maintain" for "Not later than December 1, 1990, the Secretary shall prescribe", was executed by making the substitution for "Not later than December 31, 1990, the Secretary shall prescribe", to reflect the probable intent of Congress.
 
 Pub. L. 112–141, §32301(b)(2), redesignated subsec. (b) as (g).
 
@@ -156,5 +156,5 @@ Pub. L. 112–141, §32301(b)(2), redesignated subsec. (b) as (g).
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “to”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "to".</i>
 

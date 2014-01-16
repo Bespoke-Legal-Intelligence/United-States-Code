@@ -26,7 +26,7 @@ In carrying out section 299(b) of this title, the Director shall conduct and sup
 
 #### (1) In general
 
-&emsp;The Director may provide training grants in the field of health services research related to activities authorized under subsection (a) of this section, to include pre- and post-doctoral fellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3) of this title as well as other appropriated funds.
+&emsp;The Director may provide training grants in the field of health services research related toactivities authorized under subsection (a) of this section, to include pre- and post-doctoral fellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3) <sup>1</sup> of this title as well as other appropriated funds.
 
 #### (2) Requirements
 
@@ -48,9 +48,11 @@ The Agency shall not mandate national standards of clinical practice or quality 
 
 Nothing in this section shall be construed to imply that the Agency's role is to mandate a national standard or specific approach to quality measurement and reporting. In research and quality improvement activities, the Agency shall consider a wide range of choices, providers, health care delivery systems, and individual preferences.
 
-(July 1, 1944, ch. 373, title IX, §902, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1654;amended Pub. L. 106–525, title II, §201(a)(1), Nov. 22, 2000, 114 Stat. 2505.)
+(July 1, 1944, ch. 373, title IX, §902, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1654; amended Pub. L. 106–525, title II, §201(a)(1), Nov. 22, 2000, 114 Stat. 2505.)
 
 #### References in Text
+
+Section 288(d)(3) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 109–482, title I, §103(b)(47), Jan. 15, 2007, 120 Stat. 3688.
 
 The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of this title. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -66,11 +68,11 @@ A prior section 902 of act July 1, 1944, was classified to section 299b of this 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (g). Pub. L. 106–525 struck out heading and text of subsec. (g). Text read as follows: “Beginning with fiscal year 2003, the Director shall annually submit to the Congress a report regarding prevailing disparities in health care delivery as it relates to racial factors and socioeconomic factors in priority populations.”
+<b>2000</b>—Subsec. (g). Pub. L. 106–525 struck out heading and text of subsec. (g). Text read as follows: "Beginning with fiscal year 2003, the Director shall annually submit to the Congress a report regarding prevailing disparities in health care delivery as it relates to racial factors and socioeconomic factors in priority populations."
 
 #### Reducing Administrative Health Care Costs
 
-Pub. L. 103–43, title XIX, §1909, June 10, 1993, 107 Stat. 205, as amended by Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 108–173, title IX, §900(e)(6)(F), Dec. 8, 2003, 117 Stat. 2374, provided that: “The Secretary of Health and Human Services, acting through the Agency for Healthcare Research and Quality and, to the extent possible, in consultation with the Centers for Medicare \& Medicaid Services, may fund research to develop a text-based standardized billing process, through the utilization of text-based information retrieval and natural language processing techniques applied to automatic coding and analysis of textual patient discharge summaries and other text-based electronic medical records, within a parallel general purpose (shared memory) high performance computing environment. The Secretary shall determine whether such a standardized approach to medical billing, through the utilization of the text-based hospital discharge summary as well as electronic patient records can reduce the administrative billing costs of health care delivery.”
+Pub. L. 103–43, title XIX, §1909, June 10, 1993, 107 Stat. 205, as amended by Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 108–173, title IX, §900(e)(6)(F), Dec. 8, 2003, 117 Stat. 2374, provided that: "The Secretary of Health and Human Services, acting through the Agency for Healthcare Research and Quality and, to the extent possible, in consultation with the Centers for Medicare \& Medicaid Services, may fund research to develop a text-based standardized billing process, through the utilization of text-based information retrieval and natural language processing techniques applied to automatic coding and analysis of textual patient discharge summaries and other text-based electronic medical records, within a parallel general purpose (shared memory) high performance computing environment. The Secretary shall determine whether such a standardized approach to medical billing, through the utilization of the text-based hospital discharge summary as well as electronic patient records can reduce the administrative billing costs of health care delivery."
 
 #### Demonstration Grants for the Development, Implementation, and Evaluation of Alternatives to the Current Medical Liability System
 
@@ -91,4 +93,6 @@ This memorandum is not intended to, and does not, create any right or benefit, s
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

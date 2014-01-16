@@ -2,7 +2,7 @@
 
 #### (a) Definitions of Indian tribe; tribal organizations
 
-In this section, the terms “Indian tribe” and “tribal organization” have the meanings given those terms in section 450b of title 25.
+In this section, the terms "Indian tribe" and "tribal organization" have the meanings given those terms in section 450b of title 25.
 
 #### (b) Authority
 
@@ -82,15 +82,15 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II) of this clause and clause (v) of this subparagraph, with respect to amounts expended during any fiscal year quarter beginning after September 30, 2011, and before October 1, 2014, for which the tribe, organization, or consortium is eligible for payments under any subparagraph of section 674(a)(3) of this title, the only in-kind expenditures from third-party sources that may be claimed by the tribe, organization, or consortium for purposes of determining the non-Federal share of such expenditures (without regard to whether the expenditures are specified on the list required under this subparagraph to be submitted with the plan) are in-kind expenditures that are specified in regulations promulgated by the Secretary under section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008 and are from an applicable third-party source specified in such regulations, and do not exceed the applicable percentage for claiming suchin-kind expenditures specified in the regulations.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II) of this clause and clause (v) of this subparagraph, with respect to amounts expended during any fiscal year quarter beginning after September 30, 2011, and before October 1, 2014, for which the tribe, organization, or consortium is eligible for payments under any subparagraph of section 674(a)(3) of this title, the only in-kind expenditures from third-party sources that may be claimed by the tribe, organization, or consortium for purposes of determining the non-Federal share of such expenditures (without regard to whether the expenditures are specified on the list required under this subparagraph to be submitted with the plan) are in-kind expenditures that are specified in regulations promulgated by the Secretary under section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008 and are from an applicable third-party source specified in such regulations, and do not exceed the applicable percentage for claiming such in-kind expenditures specified in the regulations.
 
 #### (II) Transition period for early approved tribes, organizations, or consortia
 
-&emsp;&emsp;&emsp;&emsp;Subject to clause (v), if the tribe, organization, or consortium is an early approved tribe, organization, or consortium (as defined in subclause (III) of this clause), the Secretary shall not require the tribe, organization, or consortium to comply with such regulations before October 1, 2013. Until the earlier of the date such tribe, organization, or consortium comes into compliance with such regulations or October 1, 2013, the limitations on the claiming of in-kind expenditures from third-party sources under clause (ii) shall continue to apply to such tribe, organization, or consortium (without regard to fiscal limitation) for purposes of determining the non-Federal share of amounts expended by the tribe, organization, or consortium during any fiscal year quarter that begins after September 30, 2011, and before such date of compliance or October 1, 2013, whichever is earlier.
+&emsp;&emsp;&emsp;&emsp;Subject to clause (v), if the tribe, organization, or consortium is an early approved tribe, organization, or consortium (as defined in subclause (III) of this clause), the Secretary shall not require the tribe, organization, or consortium to comply with such regulations before October 1, 2013. Until the earlier of the date such tribe, organization, or consortium comes into compliance with such regulations or October 1, 2013, the limitations on the claiming of in-kind expenditures from third-party sources under clause (ii) shall continue to apply to such tribe, organization, or consortium (without regard to fiscal limitation) for purposes of determining the non-Federal share of amounts expended by the tribe, organization, or consortium during any fiscalyear quarter that begins after September 30, 2011, and before such date of compliance or October 1, 2013, whichever is earlier.
 
 #### (III) Definition of early approved tribe, organization, or consortium
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (II) of this clause, the term “early approved tribe, organization, or consortium” means an Indian tribe, tribal organization, or tribal consortium that had a plan approved under section 671 of this title in accordance with this section for any quarter of fiscal year 2010 or 2011.
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (II) of this clause, the term "early approved tribe, organization, or consortium" means an Indian tribe, tribal organization, or tribal consortium that had a plan approved under section 671 of this title in accordance with this section for any quarter of fiscal year 2010 or 2011.
 
 #### (iv) Fiscal year 2015 and thereafter
 
@@ -124,7 +124,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (e) Nonapplication to cooperative agreements and contracts
 
-Any cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State forthe administration or payment of funds under this part that is in effect as of October 7, 2008, shall remain in full force and effect, subject to the right of either party to the agreement or contract to revoke or modify the agreement or contract pursuant to the terms of the agreement or contract. Nothing in this section shall be construed as affecting the authority for an Indian tribe, a tribal organization, or a tribal consortium and a State to enter into a cooperative agreement or contract for the administration or payment of funds under this part.
+Any cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State for the administration or payment of funds under this part that is in effect as of October 7, 2008, shall remain in full force and effect, subject to the right of either party to the agreement or contract to revoke or modify the agreement or contract pursuant to the terms of the agreement or contract. Nothing in this section shall be construed as affecting the authority for an Indian tribe, a tribal organization, or a tribal consortium and a State to enter into a cooperative agreement or contract for the administration or payment of funds under this part.
 
 #### (f) John H. Chafee Foster Care Independence Program
 
@@ -132,7 +132,7 @@ Except as provided in section 677(j) of this title, subsection (b) of this secti
 
 #### (g) Rule of construction
 
-Nothing in this section shall be construed as affecting the application of section 672(h) of this title to a child on whose behalf payments are paid under section 672 of this title, or the application of section 673(b) of this title to a child on whose behalf payments are made under section 673 of this title pursuant to an adoption assistance agreement or a kinship guardianship assistance agreement, by an Indian tribe, tribal organization, or tribal consortium that elects to operate a foster care and adoption assistance program in accordance with this section.
+Nothing in this section shall be construed as affecting the application of section 672(h) of thistitle to a child on whose behalf payments are paid under section 672 of this title, or the application of section 673(b) of this title to a child on whose behalf payments are made under section 673 of this title pursuant to an adoption assistance agreement or a kinship guardianship assistance agreement, by an Indian tribe, tribal organization, or tribal consortium that elects to operate a foster care and adoption assistance program in accordance with this section.
 
 (Aug. 14, 1935, ch. 531, title IV, §479B, as added Pub. L. 110–351, title III, §301(a)(1), Oct. 7, 2008, 122 Stat. 3962.)
 

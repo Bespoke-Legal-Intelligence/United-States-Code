@@ -6,11 +6,11 @@ For purposes of this part—
 
 #### (1) Election period
 
-&emsp;The term “election period” means the period which—
+&emsp;The term "election period" means the period which—
 
 &emsp;&emsp;(A) begins not later than the date on which coverage terminates under the plan by reason of a qualifying event,
 
-&emsp;&emsp;(B) is of at least 60 days’ duration, and
+&emsp;&emsp;(B) is of at least 60 days' duration, and
 
 &emsp;&emsp;(C) ends not earlier than 60 days after the later of—
 
@@ -48,7 +48,7 @@ For purposes of this part—
 
 #### (A) Nonelecting TAA-eligible individual
 
-&emsp;&emsp;The term “nonelecting TAA-eligible individual” means a TAA-eligible individual who—
+&emsp;&emsp;The term "nonelecting TAA-eligible individual" means a TAA-eligible individual who—
 
 &emsp;&emsp;&emsp;(i) has a TAA-related loss of coverage; and
 
@@ -56,7 +56,7 @@ For purposes of this part—
 
 #### (B) TAA-eligible individual
 
-&emsp;&emsp;The term “TAA-eligible individual” means—
+&emsp;&emsp;The term "TAA-eligible individual" means—
 
 &emsp;&emsp;&emsp;(i) an eligible TAA recipient (as defined in paragraph (2) of section 35(c) of title 26), and
 
@@ -64,11 +64,11 @@ For purposes of this part—
 
 #### (C) TAA-related election period
 
-&emsp;&emsp;The term “TAA-related election period” means, with respect to a TAA-related loss of coverage, the 60-day election period under this part which is a direct consequence of such loss.
+&emsp;&emsp;The term "TAA-related election period" means, with respect to a TAA-related loss of coverage, the 60-day election period under this part which is a direct consequence of such loss.
 
 #### (D) TAA-related loss of coverage
 
-&emsp;&emsp;The term “TAA-related loss of coverage” means, with respect to an individual whose separation from employment gives rise to being an TAA-eligible individual, the loss of health benefits coverage associated with such separation.
+&emsp;&emsp;The term "TAA-related loss of coverage" means, with respect to an individual whose separation from employment gives rise to being an TAA-eligible individual, the loss of health benefits coverage associated with such separation.
 
 (Pub. L. 93–406, title I, §605, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 230; amended Pub. L. 99–514, title XVIII, §1895(d)(5)(B), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 107–210, div. A, title II, §203(e)(1), Aug. 6, 2002, 116 Stat. 969.)
 
@@ -82,7 +82,7 @@ Section 2701 of the Public Health Service Act, referred to in subsec. (b)(3), wa
 
 <b>2002</b>—Pub. L. 107–210 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1986</b>—Par. (2). Pub. L. 99–514 inserted “of continuation coverage” after “any election” and inserted at end “If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.”
+<b>1986</b>—Par. (2). Pub. L. 99–514 inserted "of continuation coverage" after "any election" and inserted at end "If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage."
 
 #### Effective Date of 2002 Amendment
 

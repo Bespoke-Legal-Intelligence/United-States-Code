@@ -4,11 +4,11 @@ In this subchapter:
 
 #### (1) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
 
 #### (2) Lender
 
-&emsp;The term “lender” means—
+&emsp;The term "lender" means—
 
 &emsp;&emsp;(A) a non-Federal qualified institutional buyer (as defined in section 230.144A(a) of title 17, Code of Federal Regulation <sup>1</sup> (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 (15 U.S.C. 77a et seq.)); or
 
@@ -16,23 +16,23 @@ In this subchapter:
 
 #### (3) Loan guarantee
 
-&emsp;The term “loan guarantee” has the meaning given the term “loan guarantee” in section 661a of title 2.
+&emsp;The term "loan guarantee" has the meaning given the term "loan guarantee" in section 661a of title 2.
 
 #### (4) Non-Federal borrower
 
-&emsp;The term “non-Federal borrower” means—
+&emsp;The term "non-Federal borrower" means—
 
 &emsp;&emsp;(A) a State (including a department, agency, or political subdivision of a State); or
 
-&emsp;&emsp;(B) a conservancy district, irrigation district, canal company, water users’ association, Indian tribe, an agency created by interstate compact, or any other entity that has the capacity to contract with the United States under Federal reclamation law.
+&emsp;&emsp;(B) a conservancy district, irrigation district, canal company, water users' association, Indian tribe, an agency created by interstate compact, or any other entity that has the capacity to contract with the United States under Federal reclamation law.
 
 #### (5) Obligation
 
-&emsp;The term “obligation” means a loan or other debt obligation that is guaranteed under this section.
+&emsp;The term "obligation" means a loan or other debt obligation that is guaranteed under this section.
 
 #### (6) Project
 
-&emsp;The term “project” means—
+&emsp;The term "project" means—
 
 &emsp;&emsp;(A) a rural water supply project (as defined in section 2401(9) of this title);
 
@@ -50,7 +50,7 @@ In this subchapter:
 
 #### (7) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 (Pub. L. 109–451, title II, §202, Dec. 22, 2006, 120 Stat. 3356.)
 
@@ -60,7 +60,7 @@ The Securities Act of 1933, referred to in par. (2)(A), is title I of act May 27
 
 #### Short Title
 
-This subchapter known as the “Twenty-First Century Water Works Act”, see Short Title note set out under section 2401 of this title.
+This subchapter known as the "Twenty-First Century Water Works Act", see Short Title note set out under section 2401 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Regulations”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Regulations".</i>
 

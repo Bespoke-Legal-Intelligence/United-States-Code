@@ -4,53 +4,53 @@ In this chapter:
 
 #### (1) ACDA
 
-&emsp;The term “ACDA” means the United States Arms Control and Disarmament Agency.
+&emsp;The term "ACDA" means the United States Arms Control and Disarmament Agency.
 
 #### (2) AID
 
-&emsp;The term “AID” means the United States Agency for International Development.
+&emsp;The term "AID" means the United States Agency for International Development.
 
 #### (3) Agency; Federal agency
 
-&emsp;The term “agency” or “Federal agency” means an Executive agency as defined in section 105 of title 5.
+&emsp;The term "agency" or "Federal agency" means an Executive agency as defined in section 105 of title 5.
 
 #### (4) Appropriate congressional committees
 
-&emsp;The term “appropriate congressional committees” means the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+&emsp;The term "appropriate congressional committees" means the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
 #### (5) Covered agency
 
-&emsp;The term “covered agency” means any of the following agencies: ACDA, USIA, IDCA, and AID.
+&emsp;The term "covered agency" means any of the following agencies: ACDA, USIA, IDCA, and AID.
 
 #### (6) Department
 
-&emsp;The term “Department” means the Department of State.
+&emsp;The term "Department" means the Department of State.
 
 #### (7) Function
 
-&emsp;The term “function” means any duty, obligation, power, authority, responsibility, right, privilege, activity, or program.
+&emsp;The term "function" means any duty, obligation, power, authority, responsibility, right, privilege, activity, or program.
 
 #### (8) IDCA
 
-&emsp;The term “IDCA” means the United States International Development Cooperation Agency.
+&emsp;The term "IDCA" means the United States International Development Cooperation Agency.
 
 #### (9) Office
 
-&emsp;The term “office” includes any office, administration, agency, institute, unit, organizational entity, or component thereof.
+&emsp;The term "office" includes any office, administration, agency, institute, unit, organizational entity, or component thereof.
 
 #### (10) Secretary
 
-&emsp;The term “Secretary” means the Secretary of State.
+&emsp;The term "Secretary" means the Secretary of State.
 
 #### (11) USIA
 
-&emsp;The term “USIA” means the United States Information Agency.
+&emsp;The term "USIA" means the United States Information Agency.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XI, §1103, Oct. 21, 1998, 112 Stat. 2681–766.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
+This chapter, referred to in text, was in the original "this subdivision", meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
 #### Change of Name
 

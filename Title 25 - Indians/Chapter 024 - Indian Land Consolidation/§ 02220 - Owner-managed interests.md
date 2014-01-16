@@ -30,7 +30,7 @@ Nothing in this section shall be construed to limit or otherwise affect the appl
 
 #### (e) Validity of leases
 
-No lease of trust or restricted interests in a parcel of land that is owner-managed under this section shall be valid or enforceable against the owners of such interests, or against the land, the interest or the United States, unless such lease—
+No lease of trust or restricted interests in a parcel of land that is owner-managed under thissection shall be valid or enforceable against the owners of such interests, or against the land, the interest or the United States, unless such lease—
 
 &emsp;(1) is consistent with, and entered into in accordance with, the requirements of this section; or
 
@@ -66,13 +66,13 @@ The Secretary shall not be responsible for the collection of, or accounting for,
 
 #### (i) Defined terms
 
-(1) For purposes of subsection (d)(1) of this section, the term “qualified applicant” means—
+(1) For purposes of subsection (d)(1) of this section, the term "qualified applicant" means—
 
 &emsp;(A) a person over the age of 18 who owns a trust or restricted interest in a parcel of land; and
 
 &emsp;(B) the parent or legal guardian of a minor or incompetent person who owns a trust or restricted interest in a parcel of land.
 
-(2) For purposes of this section, the term “owner-managed status” means, with respect to a trust or restricted interest, that—
+(2) For purposes of this section, the term "owner-managed status" means, with respect to a trust or restricted interest, that—
 
 &emsp;(A) the interest is a trust or restricted interest in a parcel of land for which applications covering all trust or restricted interests in such parcel have been submitted to and approved by the Secretary pursuant to subsection (d) of this section;
 
@@ -98,7 +98,7 @@ Subsection (l), referred to in subsec. (h)(2), probably should be a reference to
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–453 inserted “owner or” before “co-owners”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–453 inserted "owner or" before "co-owners".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

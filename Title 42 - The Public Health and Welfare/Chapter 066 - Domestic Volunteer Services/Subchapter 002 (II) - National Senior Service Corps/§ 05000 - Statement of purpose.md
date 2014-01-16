@@ -12,15 +12,15 @@ It is the purpose of this subchapter to provide—
 
 &emsp;(5) opportunities for low-income people 55 years of age or older, through the Senior Companion Program, to provide support services and companionship to other older individuals through volunteer service.
 
-(Pub. L. 93–113, title II, §200, as added Pub. L. 101–204, title V, §501, Dec. 7, 1989, 103 Stat. 1815; amended Pub. L. 103–82, title III, §§341(b)(1), 342(b), Sept. 21, 1993, 107 Stat. 904; Pub. L. 111–13, title II, §2142, Apr. 21, 2009, 123 Stat. 1584.)
+(Pub. L. 93–113, title II, §200, as added Pub. L. 101–204, title V, §501, Dec. 7, 1989, 103 Stat. 1815; amended Pub. L. 103–82, title III, §§341(b)(1),342(b), Sept. 21, 1993, 107 Stat. 904; Pub. L. 111–13, title II, §2142, Apr. 21, 2009, 123 Stat. 1584.)
 
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–13 amended section generally. Prior to amendment, section set forth a statement of purposes regarding the National Senior Volunteer Corps.
 
-<b>1993</b>—Par. (1). Pub. L. 103–82, §§341(b)(1), 342(b), substituted “National Senior Volunteer Corps” for “Older American Volunteer Programs” and “Retired and Senior Volunteer Program” for “retired senior volunteer program”.
+<b>1993</b>—Par. (1). Pub. L. 103–82, §§341(b)(1), 342(b), substituted "National Senior Volunteer Corps" for "Older American Volunteer Programs" and "Retired and Senior Volunteer Program" for "retired senior volunteer program".
 
-Par. (2). Pub. L. 103–82, §342(b), substituted “Retired and Senior Volunteer Program” for “retired senior volunteer program”.
+Par. (2). Pub. L. 103–82, §342(b), substituted "Retired and Senior Volunteer Program" for "retired senior volunteer program".
 
 #### Effective Date of 2009 Amendment
 

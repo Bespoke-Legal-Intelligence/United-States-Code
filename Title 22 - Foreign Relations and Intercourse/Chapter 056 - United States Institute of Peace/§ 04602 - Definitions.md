@@ -2,9 +2,9 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) “Institute” means the United States Institute of Peace established by this chapter; and
+&emsp;(1) "Institute" means the United States Institute of Peace established by this chapter; and
 
-&emsp;(2) “Board” means the Board of Directors of the Institute.
+&emsp;(2) "Board" means the Board of Directors of the Institute.
 
 (Pub. L. 98–525, title XVII, §1703, Oct. 19, 1984, 98 Stat. 2651.)
 

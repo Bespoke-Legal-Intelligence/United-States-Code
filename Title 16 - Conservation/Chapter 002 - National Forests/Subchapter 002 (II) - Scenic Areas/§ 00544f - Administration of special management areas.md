@@ -36,7 +36,7 @@ Within three years after November 17, 1986, the Secretary shall develop land use
 
 #### (h) <sup>3</sup> Adoption of special management area land use ordinances
 
-(1) Within sixty days of receipt of the management plan, each county shall submit to theCommission a letter stating that it proposes to adopt a land use ordinance consistent with the management plan. If any county fails to submit a letter as provided in this subsection, or fails to adopt a land use ordinance as provided in this section, the Commission shall carry out the requirements of subsection (l) of this section.
+(1) Within sixty days of receipt of the management plan, each county shall submit to the Commission a letter stating that it proposes to adopt a land use ordinance consistent with the management plan. If any county fails to submit a letter as provided in this subsection, or fails to adopt a land use ordinance as provided in this section, the Commission shall carry out the requirements of subsection (l) of this section.
 
 (2) Within two hundred seventy days of receipt of the management plan, each county shall adopt a special management area land use ordinance consistent with the management plan, and thereafter may adopt an amendment, revision or variance to a land use ordinance at any time. Each county upon adoption of a special management area land use ordinance shall promptly submit the adopted ordinance to the Commission.
 
@@ -98,11 +98,11 @@ If the Secretary does not concur in any land use ordinance approved or adopted b
 
 #### Amendments
 
-<b>2000</b>—Subsec. (o). Pub. L. 106–291 designated existing provisions as par. (1), inserted par. heading, substituted “section 544g(e) of this title.” for “the Uniform Appraisal Standards for Federal Land Acquisitions (Interagency Land Acquisition Conference, 1973).” in first sentence, and added par. (2).
+<b>2000</b>—Subsec. (o). Pub. L. 106–291 designated existing provisions as par. (1), inserted par. heading, substituted "section 544g(e) of this title." for "the Uniform Appraisal Standards for Federal Land Acquisitions (Interagency Land Acquisition Conference, 1973)." in first sentence, and added par. (2).
 
 #### Administration, Operation, and Maintenance of Pierce National Wildlife Refuge and Little White Salmon National Fish Hatchery
 
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 418, provided in part that: “Notwithstanding the provisions of Public Law 99–663 \[enacting sections 544 to 544p of this title and amending sections 1274 and 1276 of this title\], which established the Columbia River Gorge National Scenic Area, the Pierce National Wildlife Refuge and the Little White Salmon National Fish Hatchery shall continue to be administered, operated and maintained in accordance with the provisions of the National Wildlife Refuge System Administration Act \[16 U.S.C. 668dd, 668ee\], Fish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], and Fish and Wildlife Act of 1956 \[16 U.S.C. 742a et seq.\] by the U.S. Fish and Wildlife Service.”
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 418, provided in part that: "Notwithstanding the provisions of Public Law 99–663 \[enacting sections 544 to 544p of this title and amending sections 1274 and 1276 of this title\], which established the Columbia River Gorge National Scenic Area, the Pierce National Wildlife Refuge and the Little White Salmon National Fish Hatchery shall continue to be administered, operated and maintained in accordance with the provisions of the National Wildlife Refuge System Administration Act \[16 U.S.C. 668dd, 668ee\], Fish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], and Fish and Wildlife Act of 1956 \[16 U.S.C. 742a et seq.\] by the U.S. Fish and Wildlife Service."
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

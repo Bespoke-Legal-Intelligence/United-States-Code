@@ -2,7 +2,7 @@
 
 #### (a) Continuation of program
 
-The Secretary of Agriculture shall continue operation of the Food Animal Residue Avoidance Database program (referred to in this section as the “FARAD program”) through contracts, grants, or cooperative agreements with appropriate colleges or universities.
+The Secretary of Agriculture shall continue operation of the Food Animal Residue Avoidance Database program (referred to in this section as the "FARAD program") through contracts, grants, or cooperative agreements with appropriate colleges or universities.
 
 #### (b) Activities
 

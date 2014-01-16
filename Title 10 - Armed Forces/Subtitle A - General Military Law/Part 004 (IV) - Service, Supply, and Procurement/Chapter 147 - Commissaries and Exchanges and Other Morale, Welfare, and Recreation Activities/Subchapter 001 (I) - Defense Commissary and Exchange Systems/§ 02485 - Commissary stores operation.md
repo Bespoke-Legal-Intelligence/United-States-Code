@@ -62,7 +62,7 @@ Donation of Unusable Food.—(1) The Secretary of Defense may donate food descri
 
 (g)
 
-Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a charge for the collection of a check accepted at a commissary store that is not honored by the financial institution on which the check is drawn. The imposition and amounts of charges shall be consistent with practices of commercial grocery stores regarding dishonored checks.
+Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a charge for the collection of a check accepted at a commissary store that is not honored by the financial institution on which the check is drawn. The imposition and amounts of charges shall beconsistent with practices of commercial grocery stores regarding dishonored checks.
 
 (2)(A) The following persons are liable to the United States for the amount of a check referred to in paragraph (1) that is returned unpaid to the United States, together with any charge imposed under that paragraph:
 
@@ -76,7 +76,7 @@ Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a cha
 
 (4) Appropriated funds may be used to pay any costs incurred in the collection of checks and charges referred to in paragraph (1). An appropriation account charged a cost under the preceding sentence shall be reimbursed the amount of that cost out of funds in the commissary trust revolving fund.
 
-(5) In this subsection, the term “commissary trust revolving fund” means the trust revolving fund maintained by the Department of Defense for surcharge collections and proceeds of sales of commissary stores.
+(5) In this subsection, the term "commissary trust revolving fund" means the trust revolving fund maintained by the Department of Defense for surcharge collections and proceeds of sales of commissary stores.
 
 (h)
 
@@ -124,7 +124,7 @@ Historical and Revision Notes
 
 Aug. 1, 1953, ch. 305, §624 (last proviso), 67 Stat. 353.
 
-This section is codified as permanent law on the basis of an opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense, dated September 28, 1954. The words “and privately owned organizations” are omitted as surplusage since under 1 U.S.C. 1 “person” includes such an organization.
+This section is codified as permanent law on the basis of an opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense, dated September 28, 1954. The words "and privately owned organizations" are omitted as surplusage since under 1 U.S.C. 1 "person" includes such an organization.
 
 #### Prior Provisions
 
@@ -134,35 +134,35 @@ A prior section 2486 was renumbered section 2484 of this title.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–81 struck out par. (1) designation before “Under such regulations” and struck out par. (2) which read as follows: “Any change to private operation of a commissary store function that is being performed by more than 10 Department of Defense civilian employees shall not take effect until the end of the 75-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the change. Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions.”
+<b>2011</b>—Subsec. (a). Pub. L. 112–81 struck out par. (1) designation before "Under such regulations" andstruck out par. (2) which read as follows: "Any change to private operation of a commissary store function that is being performed by more than 10 Department of Defense civilian employees shall not take effect until the end of the 75-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the change. Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions."
 
-Subsec. (b)(1). Pub. L. 111–350 substituted “section 107 of title 41” for “section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6))”.
+Subsec. (b)(1). Pub. L. 111–350 substituted "section 107 of title 41" for "section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6))".
 
-<b>2006</b>—Subsec. (a)(2). Pub. L. 109–163 inserted at end “Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions.”
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–163 inserted at end "Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions."
 
 <b>2004</b>—Pub. L. 108–375, §651(a)(2), (6), renumbered section 2482 of this title as this section.
 
-Subsec. (b)(2). Pub. L. 108–375, §651(a)(7)(A), substituted “section 2483” for “section 2484”.
+Subsec. (b)(2). Pub. L. 108–375, §651(a)(7)(A), substituted "section 2483" for "section 2484".
 
-Subsec. (c)(2). Pub. L. 108–375, §651(a)(7)(B), inserted at end “The chairman of the governing board shall be a commissioned officer or member of the senior executive service who has demonstrated experience or knowledge relevant to the management of the defense commissary system. In selecting other members of the governing board, the Secretary shall give priority to persons with experience related to logistics, military personnel, military entitlements or other experiences of value of management of commissaries.”
+Subsec. (c)(2). Pub. L. 108–375, §651(a)(7)(B), inserted at end "The chairman of the governing board shall be a commissioned officer or member of the senior executive service who has demonstrated experience or knowledge relevant to the management of the defense commissary system. In selecting other members of the governing board, the Secretary shall give priority to persons with experience related to logistics, military personnel, military entitlements or other experiences of value of management of commissaries."
 
 Subsecs. (d) to (h). Pub. L. 108–375, §651(a)(7)(C), added subsecs. (d) to (h).
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136 designated existing provisions as par. (1), inserted first sentence, added par. (2), and struck out former first and second sentences which read as follows: “Private persons may operate commissary stores under such regulations as the Secretary of Defense may approve. A contract with a private person for the operation of any commissary store may not require or permit the contractor to carry out functions for the procurement of products to be sold in the store or to engage in functions relating to the overall management of a commissary system or the management of any such store.”
+<b>2003</b>—Subsec. (a). Pub. L. 108–136 designated existing provisions as par. (1), inserted first sentence, added par. (2), and struck out former first and second sentences which read as follows: "Private persons may operate commissary stores under such regulations as the Secretary of Defense may approve. A contract with a private person for the operation of any commissary store may not require or permit the contractor to carry out functions for the procurement of products to be sold in the store or to engage in functions relating to the overall management of a commissary system or the management of any such store."
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–261, §363(a), inserted at end “However, the Defense Commissary Agency may not pay for any such service provided by the United States Transportation Command any amount that exceeds the price at which the service could be procured through full and open competition, as such term is defined in section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6)).”
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–261, §363(a), inserted at end "However, the Defense Commissary Agency may not pay for any such service provided by the United States Transportation Command any amount that exceeds the price at which the service could be procured through full and open competition, as such term is defined in section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6))."
 
 Subsec. (c). Pub. L. 105–261, §361(b), added subsec. (c).
 
-<b>1996</b>—Pub. L. 104–106 struck out “private” after “stores:” in section catchline, designated existing text as subsec. (a), inserted heading, and added subsec. (b).
+<b>1996</b>—Pub. L. 104–106 struck out "private" after "stores:" in section catchline, designated existing text as subsec. (a), inserted heading, and added subsec. (b).
 
-Subsec. (b)(1). Pub. L. 104–201 substituted “another element of the Department of Defense or with another Federal department, agency, or instrumentality to provide or obtain services” for “another department, agency, or instrumentality of the Department of Defense or another Federal agency to provide services”.
+Subsec. (b)(1). Pub. L. 104–201 substituted "another element of the Department of Defense or with another Federal department, agency, or instrumentality to provide or obtain services" for "another department, agency, or instrumentality of the Department of Defense or another Federal agency to provide services".
 
-<b>1988</b>—Pub. L. 100–456 inserted at end “A contract with a private person for the operation of any commissary store may not require or permit the contractor to carry out functions for the procurement of products to be sold in the store or to engage in functions relating to the overall management of a commissary system or the management of any such store. Such functions shall be carried out by personnel of the Department of Defense under regulations approved by the Secretary of Defense.”
+<b>1988</b>—Pub. L. 100–456 inserted at end "A contract with a private person for the operation of any commissary store may not require or permit the contractor to carry out functions for the procurement of products to be sold in the store or to engage in functions relating to the overall management of a commissary system or the management of any such store. Such functions shall be carried out by personnel of the Department of Defense under regulations approved by the Secretary of Defense."
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title III, §363(b), Oct. 17, 1998, 112 Stat. 1986, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to services provided or obtained on or after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title III, §363(b), Oct. 17, 1998, 112 Stat. 1986, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to services provided or obtained on or after the date of the enactment of this Act \[Oct. 17, 1998\]."
 
 #### Demonstration Program for Operation of Certain Commissary Stores by Nonappropriated Fund Instrumentalities
 

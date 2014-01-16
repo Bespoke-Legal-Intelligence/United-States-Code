@@ -6,7 +6,7 @@ The purposes of this section are to provide assistance to restore or maintain th
 
 #### (b) Availability of financial assistance
 
-The Secretary of Housing and Urban Development (hereinafter referred to in this section as the “Secretary”) may make available, and contract to make available, to such extent and in such amounts as may be approved in appropriation Acts, financial assistance to owners of rental or cooperative housing projects meeting the requirements of this section. Such assistance shall be made on an annual basis and in accordance with the provisions of this section, without regard to whether such projects are insured under the National Housing Act \[12 U.S.C. 1701 et seq.\].
+The Secretary of Housing and Urban Development (hereinafter referred to in this section as the "Secretary") may make available, and contract to make available, to such extent and in such amounts as may be approved in appropriation Acts, financial assistance to owners of rental or cooperative housing projects meeting the requirements of this section. Such assistance shall be made on an annual basis and in accordance with the provisions of this section, without regard to whether such projects are insured under the National Housing Act \[12 U.S.C. 1701 et seq.\].
 
 #### (c) Eligibility for financial assistance
 
@@ -56,7 +56,7 @@ Prior to making assistance available to a project, the Secretary shall consult w
 
 #### (f) Amount of financial assistance
 
-(1) The Secretary may, with respect to any year, provide assistance under this section, and make commitments to provide such assistance,with respect to any project (except a project assisted only for capital improvements) in any amount which the Secretary determines is consistent with the project's management-improvement-and-operating plan described in subsection (d)(6) of this section and which does not exceed the sum of—
+(1) The Secretary may, with respect to any year, provide assistance under this section, and make commitments to provide such assistance, with respect to any project (except a project assisted only for capital improvements) in any amount which the Secretary determines is consistent with the project's management-improvement-and-operating plan described in subsection (d)(6) of this section and which does not exceed the sum of—
 
 &emsp;(A) an amount determined by the Secretary to be necessary to correct deficiencies in the project which exist at the beginning of the first year with respect to which assistance is made available for the project under this section, which were caused by the deferral of regularly scheduled maintenance and repairs or the failure to make necessary and timely replacements of equipment and other components of the project, and for which payment has not previously been made;
 
@@ -78,7 +78,7 @@ Prior to making assistance available to a project, the Secretary shall consult w
 
 > except that—
 
-&emsp;(E) in computing the estimated amount of rent to be expended by tenants, the Secretary shall provide that (i) at least 25 percent (or such lesser percentage as is provided for under any other Federal housing assistance program in which such tenant is participating) of the income of each such tenant is included, or (ii) in the case of a tenant paying his or her own utilities, a percentage of income which is less than 25 percent and which takes into account the reasonable costs of such utilities; except that no amount shall be provided for any tenant under clause (i) or (ii) which exceeds the fair market rental charge as determined pursuant to section 236(f)(1) of the National Housing Act \[12 U.S.C. 1715z–1(f)(1)\] for such tenant; and
+&emsp;(E) in computing the estimated amount of rent to be expended by tenants, the Secretary shall provide that (i) at least 25 percent (or such lesser percentage as is provided for under any other Federal housing assistance program in which such tenant is participating) of the income of each such tenant is included, or (ii) in the case of a tenant paying his or her own utilities, a percentage of income which is lessthan 25 percent and which takes into account the reasonable costs of such utilities; except that no amount shall be provided for any tenant under clause (i) or (ii) which exceeds the fair market rental charge as determined pursuant to section 236(f)(1) of the National Housing Act \[12 U.S.C. 1715z–1(f)(1)\] for such tenant; and
 
 &emsp;(F) in computing the estimated amount of rent to be expended by tenants and the estimated amount of rental assistance payments to be made on behalf of such tenants, the Secretary may permit a delinquency-and-vacancy allowance of not more than 6 per centum of the estimated amount of such rent and payments computed without regard to such allowance; except that, with respect to the first three years in which assistance is provided to a project under this section, the Secretary may permit such allowance for such project to exceed such 6 percent by an amount which the Secretary determines is appropriate to carry out the purposes of this section.
 
@@ -90,7 +90,7 @@ Prior to making assistance available to a project, the Secretary shall consult w
 
 #### (g) Rules and regulations
 
-The Secretary is authorized to issue such rules and regulations as may be necessary to carry out the provisions and purposes of this section,including regulations requiring the establishment of a project reserve or such other safeguards as the Secretary determines to be necessary for the financial soundness of any project for which assistance payments are provided, to the extent applicable.
+The Secretary is authorized to issue such rules and regulations as may be necessary to carry out the provisions and purposes of this section, including regulations requiring the establishment of a project reserve or such other safeguards as the Secretary determines to be necessary for the financial soundness of any project for which assistance payments are provided, to the extent applicable.
 
 #### (h) Limitation on use of financial assistance
 
@@ -132,13 +132,13 @@ The Secretary may not use any of the assistance available under this section dur
 
 (B) Each loan for capital improvements provided under this section shall bear interest at a rate determined by the Secretary to be appropriate, except that—
 
-&emsp;(i) such rate shall not be more than 3 percentage points below a rate determined by theSecretary of the Treasury taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding date on which the loan is made, adjusted to the nearest 1/8 of 1 percent, plus an allowance adequate in the judgment of the Secretary of Housing and Urban Development to cover administrative costs and probable losses under the program; and
+&emsp;(i) such rate shall not be more than 3 percentage points below a rate determined by the Secretary of the Treasury taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding date on which the loan is made, adjusted to the nearest 1/8 of 1 percent, plus an allowance adequate in the judgment of the Secretary of Housing and Urban Development to cover administrative costs and probable losses under the program; and
 
 &emsp;(ii) such interest rate plus such allowance shall not exceed 6 percent per annum nor be less than 3 percent per annum.
 
 (C) Each loan for capital improvements provided under this section shall be considered to be a liability of the project involved, and shall not be dischargeable in any bankruptcy proceeding under section 727, 1141, or 1328(b) of title 11.
 
-(D) The Secretary may establish such additional conditions on loans provided under this section as the Secretary determines to be appropriate. The Secretary may require owners receiving assistance for capital improvements under this section to retain the housing as housing affordable for very low-income families or persons, low-income families or persons and moderate-income families or persons for the remaining useful life of the housing. For purposes of this section, the term “remaining useful life” means, with respect to housing assisted under this section, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
+(D) The Secretary may establish such additional conditions on loans provided under this section as the Secretary determines to be appropriate. The Secretary may require owners receiving assistance for capital improvements under this section to retain the housing as housing affordable for very low-income families or persons, low-income families or persons and moderate-income families or persons for the remaining useful life of the housing. For purposes of this section, the term "remaining useful life" means, with respect to housing assisted under this section, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
 
 (E) The Secretary may provide more than one loan or assistance in any other form to any project under this section, if each loan or other assistance complies with the provisions of this section.
 
@@ -216,7 +216,7 @@ The Housing and Urban Development Act of 1965, as amended, referred to in subsec
 
 Section 23 of the United States Housing Act of 1937, referred to in subsec. (c)(1)(B), was classified to section 1421b of Title 42 and was omitted in the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
 
-Public Law 100–4–4 (102 Stat. 1018), referred to in subsec. (j)(1), probably means Pub. L. 100–404, Aug. 19, 1988, 102 Stat. 1014, known as the Department of Housing and Urban Development—Independent Agencies Appropriations Act, 1989. Provisions appearing on 102 Stat. 1018 of Pub. L. 100–404 relating to transfer of funds from the “Flexible subsidy fund” for carrying out community development grants programs are not classified to the Code.
+Public Law 100–4–4 (102 Stat. 1018), referred to in subsec. (j)(1), probably means Pub. L. 100–404, Aug. 19, 1988, 102 Stat. 1014, known as the Department of Housing and Urban Development—Independent Agencies Appropriations Act, 1989. Provisions appearing on 102 Stat. 1018 of Pub. L. 100–404 relating to transfer of funds from the "Flexible subsidy fund" for carrying out community development grants programs are not classified to the Code.
 
 The Emergency Low Income Housing Preservation Act of 1987, referred to in subsecs. (m) and (n)(1), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, and is classified principally to chapter 42 (§4101 et seq.) of this title. Section 224(b) and subtitle B of title II, which were formerly set out as a note under section 1715l of this title and which amended section 1715z–6 of this title, were amended generally by Pub. L. 101–625 on Nov. 28, 1990, and are classified generally to subchapter I (§4101 et seq.) of chapter 42 of this title. For provisions similar to those contained in former section 224(b), see section 4109(b) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
@@ -232,71 +232,71 @@ Section was enacted as part of the Housing and Community Development Amendments 
 
 <b>1999</b>—Subsec. (p). Pub. L. 106–74 added subsec. (p).
 
-<b>1998</b>—Subsec. (m)(2)(A). Pub. L. 105–276 substituted “section 8” for “section 8(b)(1)”.
+<b>1998</b>—Subsec. (m)(2)(A). Pub. L. 105–276 substituted "section 8" for "section 8(b)(1)".
 
-<b>1994</b>—Subsec. (i). Pub. L. 103–233, §103(b)(1), struck out subsec. (i) which read as follows: “Notwithstanding any other provision of law, in exercising any authority relating to the approval or disapproval of rentals charged tenants residing in projects which are eligible for assistance under this section, the Secretary—
+<b>1994</b>—Subsec. (i). Pub. L. 103–233, §103(b)(1), struck out subsec. (i) which read as follows: "Notwithstanding any other provision of law, in exercising any authority relating to the approval or disapproval of rentals charged tenants residing in projects which are eligible for assistance under this section, the Secretary—
 
-&emsp;“(1) shall consider whether the mortgagor could control increases in utility costs by securing more favorable utility rates, by undertaking energy conservation measures which are financially feasible and cost effective, or by taking other financially feasible and cost-effective actions to increase energy efficiency or to reduce energy consumption; and
+&emsp;"(1) shall consider whether the mortgagor could control increases in utility costs by securing more favorable utility rates, by undertaking energy conservation measures which are financially feasible and cost effective, or by taking other financially feasible and cost-effective actions to increase energy efficiency or to reduce energy consumption; and
 
-&emsp;“(2) may, in his discretion, adjust the amount of a proposed rental increase where he finds the mortgagor could exercise such control.”
+&emsp;"(2) may, in his discretion, adjust the amount of a proposed rental increase where he finds the mortgagor could exercise such control."
 
-Subsec. (k)(2). Pub. L. 103–233, §103(b)(2), substituted a period for “, except that—
+Subsec. (k)(2). Pub. L. 103–233, §103(b)(2), substituted a period for ", except that—
 
-&emsp;“(A) such contribution shall not be less than 20 percent of the total estimated cost of the capital improvements involved, unless the Secretary, upon application of the owner, determines that such contribution is financially infeasible and waives or reduces such contribution to the extent necessary;
+&emsp;"(A) such contribution shall not be less than 20 percent of the total estimated cost of the capital improvements involved, unless the Secretary, upon application of the owner, determines that such contribution is financially infeasible and waives or reduces such contribution to the extent necessary;
 
-&emsp;“(B) the Secretary may not require an amount to be contributed, from the reserve funds established by the owner of such projects for the purpose of making capital improvements, in excess of 50 percent of the amount of such reserve funds on the date of such loan;
+&emsp;"(B) the Secretary may not require an amount to be contributed, from the reserve funds established by the owner of such projects for the purpose of making capital improvements, in excess of 50 percent of the amount of such reserve funds on the date of such loan;
 
-&emsp;“(C) The Secretary shall waive the requirements of this paragraph if such owner is a private nonprofit corporation or an association; and
+&emsp;"(C) The Secretary shall waive the requirements of this paragraph if such owner is a private nonprofit corporation or an association; and
 
-&emsp;“(D) the Secretary shall give owners credit for advances made to the project during a 3-year period prior to the application for assistance.”
+&emsp;"(D) the Secretary shall give owners credit for advances made to the project during a 3-year period prior to the application for assistance."
 
 Subsec. (n). Pub. L. 103–233, §103(b)(3), amended subsec. (n) generally. Prior to amendment, subsec. (n) read as follows:
 
-“(n)(1) The Secretary shall award assistance under this section to eligible projects on the basis of the following selection criteria:
+"(n)(1) The Secretary shall award assistance under this section to eligible projects on the basis of the following selection criteria:
 
-&emsp;“(A) The extent to which the project presents an imminent threat to the life, health, and safety of project residents.
+&emsp;"(A) The extent to which the project presents an imminent threat to the life, health, and safety of project residents.
 
-&emsp;“(B) The extent to which the project is financially troubled.
+&emsp;"(B) The extent to which the project is financially troubled.
 
-&emsp;“(C) The extent of physical improvements needed by the project as evidenced by the comprehensive needs assessment submitted in accordance with title IV of the Housing and Community Development Act of 1992.
+&emsp;"(C) The extent of physical improvements needed by the project as evidenced by the comprehensive needs assessment submitted in accordance with title IV of the Housing and Community Development Act of 1992.
 
-&emsp;“(D) The extent to which there is evidence that there will be significant opportunities for residents (including a resident council or resident management corporation, as appropriate) to be involved in management of the project (except that this paragraph shall have no application to projects that are owned as cooperatives).
+&emsp;"(D) The extent to which there is evidence that there will be significant opportunities for residents (including a resident council or resident management corporation, as appropriate) to be involved in management of the project (except that this paragraph shall have no application to projects that are owned as cooperatives).
 
-&emsp;“(E) The extent to which there is evidence that the project owner has provided competent management and complied with all regulatory and administrative instructions (including such instructions with respect to the comprehensive servicing of multifamily projects as the Secretary may issue).
+&emsp;"(E) The extent to which there is evidence that the project owner has provided competent management and complied with all regulatory and administrative instructions (including such instructions with respect to the comprehensive servicing of multifamily projects as the Secretary may issue).
 
-&emsp;“(F) Such other criteria as the Secretary may specify by regulation or in a Federal Register notice of fund availability.
+&emsp;"(F) Such other criteria as the Secretary may specify by regulation or in a Federal Register notice of fund availability.
 
-“(2) Eligible projects that have federally insured mortgages in force are to be selected for award of assistance under this section before any other eligible project.”
+"(2) Eligible projects that have federally insured mortgages in force are to be selected for award of assistance under this section before any other eligible project."
 
-Subsecs. (o), (p). Pub. L. 103–233, §103(b)(4) redesignated subsec. (p) as (o) and struck out former subsec. (o) which read as follows: “Projects receiving assistance under this section are not eligible for prepayment incentives under the Emergency Low-Income Housing Preservation Act of 1987 or the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Projects receiving financial assistance under such Acts are not eligible for assistance under this section.”
+Subsecs. (o), (p). Pub. L. 103–233, §103(b)(4) redesignated subsec. (p) as (o) and struck out former subsec. (o) which read as follows: "Projects receiving assistance under this section are not eligible for prepayment incentives under the Emergency Low-Income Housing Preservation Act of 1987 or the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Projects receiving financial assistance under such Acts are not eligible for assistance under this section."
 
-<b>1992</b>—Subsec. (d)(5). Pub. L. 102–550, §405(a)(1), struck out “and” at end.
+<b>1992</b>—Subsec. (d)(5). Pub. L. 102–550, §405(a)(1), struck out "and" at end.
 
-Subsec. (d)(6). Pub. L. 102–550, §406, which directed insertion, before period at end, of “; and except that the Secretary shall review and approve or disapprove each plan not later than the expiration of the 30-day period beginning upon the date of submission of the plan to the Secretary by the owner, but if the Secretary fails to inform the owner of approval or disapproval of the plan within such period the plan shall be considered to have been approved”, was executed by making the insertion before the concluding semicolon to reflect the probable intent of Congress and the intervening amendment by Pub. L. 102–550, §405(a)(2). See below.
+Subsec. (d)(6). Pub. L. 102–550, §406, which directed insertion, before period at end, of "; and except that the Secretary shall review and approve or disapprove eachplan not later than the expiration of the 30-day period beginning upon the date of submission of the plan to the Secretary by the owner, but if the Secretary fails to inform the owner of approval or disapproval of the plan within such period the plan shall be considered to have been approved", was executed by making the insertion before the concluding semicolon to reflect the probable intent of Congress and the intervening amendment by Pub. L. 102–550, §405(a)(2). See below.
 
 Pub. L. 102–550, §405(a)(2), substituted semicolon for period at end.
 
 Subsec. (d)(7) to (10). Pub. L. 102–550, §405(a)(3), added pars. (7) to (10).
 
-Subsec. (j)(5). Pub. L. 102–550, §408(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “There are authorized to be appropriated for assistance under the flexible subsidy fund not to exceed $50,000,000 for fiscal year 1991 and $52,200,000 for fiscal year 1992.”
+Subsec. (j)(5). Pub. L. 102–550, §408(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "There are authorized to be appropriated for assistance under the flexible subsidy fund not to exceed $50,000,000 for fiscal year 1991 and $52,200,000 for fiscal year 1992."
 
 Subsec. (k)(2)(D). Pub. L. 102–550, §405(e), added subpar. (D).
 
-Subsec. (k)(4). Pub. L. 102–550, §405(b)(1), struck out par. (4) which read as follows: “In providing, and contracting to provide, assistance for capital improvements under this section, the Secretary shall—
+Subsec. (k)(4). Pub. L. 102–550, §405(b)(1), struck out par. (4) which read as follows: "In providing, and contracting to provide, assistance for capital improvements under this section, the Secretary shall—
 
-&emsp;“(A) give priority to projects that are eligible for incentives under section 224(b) of the Emergency Low Income Housing Preservation Act of 1987; and
+&emsp;"(A) give priority to projects that are eligible for incentives under section 224(b) of the Emergency Low Income Housing Preservation Act of 1987; and
 
-&emsp;“(B) with respect to any amounts not required for projects under subparagraph (A), give priority among other projects based on the extent to which—
+&emsp;"(B) with respect to any amounts not required for projects under subparagraph (A), give priority among other projects based on the extent to which—
 
-&emsp;&emsp;“(i) the capital improvements for which such assistance is requested are immediately required;
+&emsp;&emsp;"(i) the capital improvements for which such assistance is requested are immediately required;
 
-&emsp;&emsp;“(ii) the projects serve as the residences of lower income families, and the extent which other suitable housing is unavailable for such families in the areas in which such projects are located;
+&emsp;&emsp;"(ii) the projects serve as the residences of lower income families, and the extent which other suitable housing is unavailable for such families in the areas in which such projects are located;
 
-&emsp;&emsp;“(iii) the capital improvements for which such assistance is requested involve the life, safety, or health of the residents of the project or involve major capital improvements in the projects; and
+&emsp;&emsp;"(iii) the capital improvements for which such assistance is requested involve the life, safety, or health of the residents of the project or involve major capital improvements in the projects; and
 
-&emsp;&emsp;“(iv) the projects demonstrate the greatest financial distress, while continuing to meet the requirements of subsection (d)(1) of this section.”
+&emsp;&emsp;"(iv) the projects demonstrate the greatest financial distress, while continuing to meet the requirements of subsection (d)(1) of this section."
 
-Subsec. (l)(2)(D). Pub. L. 102–550, §405(c), inserted at end “The Secretary may require owners receiving assistance for capital improvements under this section to retain the housing as housing affordable for very low-income families or persons, low-income families or persons and moderate-income families or persons for the remaining useful life of the housing. For purposes of this section, the term ‘remaining useful life’ means, with respect to housing assisted under this section, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.”
+Subsec. (l)(2)(D). Pub. L. 102–550, §405(c), inserted at end "The Secretary may require owners receiving assistance for capital improvements under this section to retain the housing as housing affordable for very low-income families or persons, low-income families or persons and moderate-income families or persons for the remaining useful life of the housing. For purposes of this section, the term 'remaining useful life' means, with respect to housing assisted under this section, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary."
 
 Subsec. (n). Pub. L. 102–550, §405(b)(2), added subsec. (n).
 
@@ -304,53 +304,53 @@ Subsec. (o). Pub. L. 102–550, §405(d), added subsec. (o).
 
 Subsec. (p). Pub. L. 102–550, §405(f), added subsec. (p).
 
-<b>1990</b>—Subsec. (j)(1). Pub. L. 101–625, §578(c), inserted before period at end “and shall not (except as provided in Public Law 100–4–4 (102 Stat. 1018), as in effect on October 1, 1988) be made available for any other purpose”.
+<b>1990</b>—Subsec. (j)(1). Pub. L. 101–625, §578(c), inserted before period at end "and shall not (except as provided in Public Law 100–4–4 (102 Stat. 1018), as in effect on October 1, 1988) be made available for any other purpose".
 
 Subsec. (j)(5). Pub. L. 101–625, §578(b), added par. (5).
 
 <b>1989</b>—Subsec. (j)(2). Pub. L. 101–235, §109(c), added cl. (E).
 
-Subsec. (m)(2). Pub. L. 101–235, §203(a)(2)(B)(i), (ii), struck out “not subject to paragraph (1)” after “for a project” and inserted “, or where appropriate to implement a plan of action under subtitle B of the Emergency Low Income Housing Preservation Act of 1987” after second reference to “residents”.
+Subsec. (m)(2). Pub. L. 101–235, §203(a)(2)(B)(i), (ii), struck out "not subject to paragraph (1)" after "for a project" and inserted ", or where appropriate to implement a plan of action under subtitle B of the Emergency Low Income Housing Preservation Act of 1987" after second reference to "residents".
 
-Subsec. (m)(2)(B). Pub. L. 101–235, §203(a)(2)(A), substituted “Notwithstanding subsection (l)(2)(B) of this section, reduce” for “Reduce”.
+Subsec. (m)(2)(B). Pub. L. 101–235, §203(a)(2)(A), substituted "Notwithstanding subsection (l)(2)(B) of this section, reduce" for "Reduce".
 
 Subsec. (m)(2)(E). Pub. L. 101–235, §203(a)(2)(B)(iii), added subpar. (E).
 
-<b>1988</b>—Pub. L. 100–242, §185(h), struck out “Operating” before “assistance” in section catchline.
+<b>1988</b>—Pub. L. 100–242, §185(h), struck out "Operating" before "assistance" in section catchline.
 
-Subsec. (a). Pub. L. 100–242, §185(a), inserted “to permit capital improvements to be made to maintain certain projects as decent, safe, and sanitary housing,” after “management,”.
+Subsec. (a). Pub. L. 100–242, §185(a), inserted "to permit capital improvements to be made to maintain certain projects as decent, safe, and sanitary housing," after "management,".
 
 Pub. L. 100–242, §186(b)(1), inserted reference to Housing Act of 1959.
 
-Subsec. (c)(1)(A). Pub. L. 100–242, §186(b)(2), inserted before semicolon at end “, or received a loan under section 202 of the Housing Act of 1959 more than 15 years before the date on which assistance is made available under this section”.
+Subsec. (c)(1)(A). Pub. L. 100–242, §186(b)(2), inserted before semicolon at end ", or received a loan under section 202 of the Housing Act of 1959 more than 15 years before the date on which assistance is made available under this section".
 
-Subsec. (c)(1)(B). Pub. L. 100–242, §185(b), inserted “section 23 of the United States Housing Act of 1937, as in effect immediately before January 1, 1975,” after “is assisted under”.
+Subsec. (c)(1)(B). Pub. L. 100–242, §185(b), inserted "section 23 of the United States Housing Act of 1937, as in effect immediately before January 1, 1975," after "is assisted under".
 
-Subsec. (d)(1). Pub. L. 100–242, §185(c)(1), inserted “or physical” after “maintain the financial”.
+Subsec. (d)(1). Pub. L. 100–242, §185(c)(1), inserted "or physical" after "maintain the financial".
 
-Subsec. (d)(6). Pub. L. 100–242, §185(c)(2), inserted at end “; except that the Secretary may excuse an owner from compliance with the plan requirement set forth in this paragraph in any case in which such owner seeks only assistance for capital improvements under this section”.
+Subsec. (d)(6). Pub. L. 100–242, §185(c)(2), inserted at end "; except that the Secretary may excuse an owner from compliance with the plan requirement set forth in this paragraph in any case in which such owner seeks only assistance for capital improvements under this section".
 
 Subsec. (f)(1). Pub. L. 100–242, §185(d)(1), inserted parenthetical exception relating to projects assisted only for capital improvements.
 
-Subsec. (f)(4). Pub. L. 100–242, §185(d)(2), substituted “payments for any year for a project (other than a project receiving assistance only for capital improvements) may not exceed” for “payments for any year may not exceed”.
+Subsec. (f)(4). Pub. L. 100–242, §185(d)(2), substituted "payments for any year for a project (other than a project receiving assistance only for capital improvements) may not exceed" for "payments for any year may not exceed".
 
-Subsec. (g). Pub. L. 100–242, §185(e), inserted “, to the extent applicable” after “provided”.
+Subsec. (g). Pub. L. 100–242, §185(e), inserted ", to the extent applicable" after "provided".
 
 Subsec. (j). Pub. L. 100–242, §185(f), in amending subsec. (j) generally, substituted provisions relating to the establishment, contents, and use of a revolving fund to be known as the Flexible Subsidy Fund, for provisions authorizing appropriations under this section for fiscal years 1979 through 1982.
 
-Subsec. (j)(4). Pub. L. 100–628 substituted “shall, to the extent of approvable applications and subject to paragraph (1), use not less than $30,000,000 or 40 percent (whichever is less) of the amounts available” for “may use not more than $50,000,000”; and inserted at end “Any amount reserved under this paragraph for assistance for capital improvements that is not used before the last 60 days of a fiscal year shall become available for other assistance under this section.”
+Subsec. (j)(4). Pub. L. 100–628 substituted "shall, to the extent of approvable applications and subject to paragraph (1), use not less than $30,000,000 or 40 percent (whichever is less) of the amounts available" for "may use not more than $50,000,000"; and inserted at end "Any amount reserved under this paragraph for assistance for capital improvements that is not used before the last 60 days of a fiscal year shall become available for other assistance under this section."
 
 Subsecs. (k) to (m). Pub. L. 100–242, §185(g), added subsecs. (k) to (m).
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–479, §204(n)(1), substituted “A” for “a” in provisions before subpar. (A).
+<b>1984</b>—Subsec. (c). Pub. L. 98–479, §204(n)(1), substituted "A" for "a" in provisions before subpar. (A).
 
-Subsec. (j). Pub. L. 98–479, §204(n)(2), substituted “section 236(f)(3)” for “section 236(f)(3)(B)”.
+Subsec. (j). Pub. L. 98–479, §204(n)(2), substituted "section 236(f)(3)" for "section 236(f)(3)(B)".
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–181, §217(a)(1), (b)(1), inserted “without regard to whether such projects are insured under the National Housing Act”, and substituted “, the United States Housing Act of 1937, or” for “or under”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181, §217(a)(1), (b)(1), inserted "without regard to whether such projects are insured under the National Housing Act", and substituted ", the United States Housing Act of 1937, or" for "or under".
 
-Subsec. (b). Pub. L. 98–181, §217(a)(2), inserted “, without regard to whether such projects are insured under the National Housing Act”.
+Subsec. (b). Pub. L. 98–181, §217(a)(2), inserted ", without regard to whether such projects are insured under the National Housing Act".
 
-Subsec. (c)(1)(A). Pub. L. 98–181, §217(a)(3), struck out “; except that, in the case of any such project which is not insured under the National Housing Act such assistance may not be provided before October 1, 1979” after “Act of 1965”.
+Subsec. (c)(1)(A). Pub. L. 98–181, §217(a)(3), struck out "; except that, in the case of any such project which is not insured under the National Housing Act such assistance may not be provided before October 1, 1979" after "Act of 1965".
 
 Subsec. (c)(1)(B), (C). Pub. L. 98–181, §217(b)(2), added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -376,17 +376,17 @@ Amendment by title V of Pub. L. 105–276 effective and applicable beginning upo
 
 Pub. L. 103–233, title I, §103(c), Apr. 11, 1994, 108 Stat. 360, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and provisions set out below\] shall apply with respect to amounts made available for fiscal year 1994 and fiscal years thereafter.
 
-“(2)
+"(2)
 
 Exception.—Section 201(n)(1) of the Housing and Community Development Amendments of 1978 \[subsec. (n)(1) of this section\] (as added by the amendment made by subsection (b)(3) of this section) shall take effect on the date of enactment of this Act \[Apr. 11, 1994\].
 
-“(3)
+"(3)
 
-Notice.—The Secretary shall, by notice published in the Federal Register, establish any requirements necessary to implement the amendments made by subsections (a) and (b). The notice shall invite public comments and, not later than 12 months after the date on which the notice is published, the Secretary shall issue final regulations based on the initial notice, taking into consideration any public comments received.”
+Notice.—The Secretary shall, by notice published in the Federal Register, establish any requirements necessary to implement the amendments made by subsections (a) and (b). The notice shall invite public comments and, not later than 12 months after the date on which the notice is published, the Secretary shall issue final regulations based on the initial notice, taking into consideration any public comments received."
 
 #### Effective Date of 1981 Amendment
 
@@ -396,163 +396,163 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 Pub. L. 103–233, title I, §103(h), Apr. 11, 1994, 108 Stat. 362, provided that:
 
-“(1)
+"(1)
 
 In general.—Subject to notice to and comment by existing tenants, to prevent the imminent default of a multifamily housing project subject to a mortgage insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\], the Secretary may authorize the mortgagor to use the project for purposes not contemplated by or permitted under the regulatory agreement, if—
 
-&emsp;“(A) such other uses are acceptable to the Secretary;
+&emsp;"(A) such other uses are acceptable to the Secretary;
 
-&emsp;“(B) such other uses would be otherwise insurable under title II of the National Housing Act;
+&emsp;"(B) such other uses would be otherwise insurable under title II of the National Housing Act;
 
-&emsp;“(C) the outstanding principal balance on the mortgage covering such project is not increased;
+&emsp;"(C) the outstanding principal balance on the mortgage covering such project is not increased;
 
-&emsp;“(D) any financial benefit accruing to the mortgagor shall, subject to the discretion of the Secretary, be applied to project reserves or project rehabilitation; and
+&emsp;"(D) any financial benefit accruing to the mortgagor shall, subject to the discretion of the Secretary, be applied to project reserves or project rehabilitation; and
 
-&emsp;“(E) such other use serves a public purpose.
+&emsp;"(E) such other use serves a public purpose.
 
-“(2)
+"(2)
 
 Displacement protection.—The Secretary may take actions under paragraph (1) only if—
 
-&emsp;“(A) tenant-based rental assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] is made available to each eligible family residing in the project that is displaced as a result of such actions; and
+&emsp;"(A) tenant-based rental assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] is made available to each eligible family residing in the project that is displaced as a result of such actions; and
 
-&emsp;“(B) the Secretary determines that sufficient habitable, affordable (as such term is defined in section 203(b) of the Housing and Community Development Amendments of 1978 \[12 U.S.C. 1701z–11(b)\]) rentalhousing is available in the market area in which the project is located to ensure use of such assistance.
+&emsp;"(B) the Secretary determines that sufficient habitable, affordable (as such term is defined in section 203(b) of the Housing and Community Development Amendments of 1978 \[12 U.S.C. 1701z–11(b)\]) rental housing is available in the market area in which the project is located to ensure use of such assistance.
 
-“(3)
+"(3)
 
-Implementation.—The Secretary shall, by notice published in the Federal Register, which shall take effect upon publication, establish such requirements as may be necessary to implement the amendments made by this subsection. The notice shall invite public comments and, not later than 12 months after the date on which the notice is published, the Secretary shall issue final regulations based on the initial notice, taking into account any public comments received.”
+Implementation.—The Secretary shall, by notice published in the Federal Register, which shall take effect upon publication, establish such requirements as may be necessary to implement the amendments made by this subsection. The notice shall invite public comments and, not later than 12 months after the date on which the notice is published, the Secretary shall issue final regulations based on the initial notice, taking into account any public comments received."
 
 #### Multifamily Housing Planning and Investment Strategies
 
 Pub. L. 102–550, title IV, §§401–404, Oct. 28, 1992, 106 Stat. 3773–3775, as amended by Pub. L. 103–233, title I, §103(a)(1)–(5), Apr. 11, 1994, 108 Stat. 358, 359, provided that:
 
-#### “SEC. 401. DEFINITIONS.
+#### "SEC. 401. DEFINITIONS.
 
-“For purposes of this title \[amending this section, section 1715z–1 of this title and section 12710 of Title 42, The Public Health and Welfare\]:
+"For purposes of this title \[amending this section, section 1715z–1 of this title and section 12710 of Title 42, The Public Health and Welfare\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Covered multifamily housing property.—The term ‘covered multifamily housing property’ means any housing—
+Covered multifamily housing property.—The term 'covered multifamily housing property' means any housing—
 
-&emsp;&emsp;“(A) that is—
+&emsp;&emsp;"(A) that is—
 
-&emsp;&emsp;&emsp;“(i) reserved for occupancy by very low-income elderly persons pursuant to section 202(d)(1) of the Housing Act of 1959 \[12 U.S.C. 1701q(d)(1)\];
+&emsp;&emsp;&emsp;"(i) reserved for occupancy by very low-income elderly persons pursuant to section 202(d)(1) of the Housing Act of 1959 \[12 U.S.C. 1701q(d)(1)\];
 
-&emsp;&emsp;&emsp;“(ii) assisted under the provisions of section 202 of the Housing Act of 1959 (as such section existed before the effectiveness of the amendment made by section 801(a) of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625\]);
+&emsp;&emsp;&emsp;"(ii) assisted under the provisions of section 202 of the Housing Act of 1959 (as such section existed before the effectiveness of the amendment made by section 801(a) of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625\]);
 
-&emsp;&emsp;&emsp;“(iii) financed by a loan or mortgage insured, assisted, or held by the Secretary or a State or State agency under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\]; or
+&emsp;&emsp;&emsp;"(iii) financed by a loan or mortgage insured, assisted, or held by the Secretary or a State or State agency under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\]; or
 
-&emsp;&emsp;&emsp;“(iv) financed by a loan or mortgage insured or held by the Secretary pursuant to section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715l(d)(3)\]; and
+&emsp;&emsp;&emsp;"(iv) financed by a loan or mortgage insured or held by the Secretary pursuant to section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715l(d)(3)\]; and
 
-&emsp;&emsp;“(B) that is not eligible for assistance under—
+&emsp;&emsp;"(B) that is not eligible for assistance under—
 
-&emsp;&emsp;&emsp;“(i) the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[12 U.S.C. 4101 et seq.\];
+&emsp;&emsp;&emsp;"(i) the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[12 U.S.C. 4101 et seq.\];
 
-&emsp;&emsp;&emsp;“(ii) the provisions of the Emergency Low Income Housing Preservation Act of 1987 \[see References in Text note above\] (as in effect immediately before the date of the enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\]); or
+&emsp;&emsp;&emsp;"(ii) the provisions of the Emergency Low Income Housing Preservation Act of 1987 \[see References in Text note above\] (as in effect immediately before the date of the enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\]); or
 
-&emsp;&emsp;&emsp;“(iii) the HOME Investment Partnerships Act \[42 U.S.C. 12721 et seq.\].
+&emsp;&emsp;&emsp;"(iii) the HOME Investment Partnerships Act \[42 U.S.C. 12721 et seq.\].
 
-&emsp;“(2)
+&emsp;"(2)
 
-Covered multifamily housing property for the elderly.—The term ‘covered multifamily housing property for the elderly’ means any multifamily housing project that was designed or designated to serve, or is serving, elderly persons or families and is assisted under a program administered by the Secretary.
+Covered multifamily housing property for the elderly.—The term 'covered multifamily housing property for the elderly' means any multifamily housing project that was designed or designated to serve, or is serving, elderly persons or families and is assisted under a program administered by the Secretary.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Secretary.—The term ‘Secretary’ means the Secretary of Housing and Urban Development.
+Secretary.—The term 'Secretary' means the Secretary of Housing and Urban Development.
 
-#### “SEC. 402. REQUIRED SUBMISSION.
+#### "SEC. 402. REQUIRED SUBMISSION.
 
-“(a)
+"(a)
 
 In General.—The owner of each covered multifamily housing property, and the owner of each covered multifamily housing property for the elderly, shall submit to the Secretary of Housing and Urban Development a comprehensive needs assessment of the property under this title. The assessment shall be prepared by an entity that does not have an identity of interest with the owner.
 
-“(b)
+"(b)
 
 Timing.—To ensure that assessments for all covered multifamily housing properties will be submitted on or before the conclusion of fiscal year 1997, the Secretary shall require the owners of such properties, including covered multifamily housing properties for the elderly, to submit the assessments for the properties in accordance with the following schedule:
 
-&emsp;“(1) For fiscal year 1994, 10 percent of the aggregate number of such properties.
+&emsp;"(1) For fiscal year 1994, 10 percent of the aggregate number of such properties.
 
-&emsp;“(2) For each of fiscal years 1995, 1996, and 1997, an additional 30 percent of the aggregate number of such properties.
+&emsp;"(2) For each of fiscal years 1995, 1996, and 1997, an additional 30 percent of the aggregate number of such properties.
 
-#### “SEC. 403. CONTENTS.
+#### "SEC. 403. CONTENTS.
 
-“(a)
+"(a)
 
 In General.—Each comprehensive needs assessment submitted under this title for a covered multifamily housing property or a covered multifamily housing property for the elderly shall contain the following information with respect to the property:
 
-&emsp;“(1) A description of any financial or other assistance currently needed for the property to ensure that the property is maintained in a livable condition and to ensure the financial viability of the project.
+&emsp;"(1) A description of any financial or other assistance currently needed for the property to ensure that the property is maintained in a livable condition and to ensure the financial viability of the project.
 
-&emsp;“(2) A description of any financial or other assistance for the property that, at the time of the assessment, is reasonably foreseeable as necessary to ensure that the property is maintained in a livable condition and to ensure the financial viability of the project, during the remaining useful life of the property.
+&emsp;"(2) A description of any financial or other assistance for the property that, at the time of the assessment, is reasonably foreseeable as necessary to ensure that the property is maintained in a livable condition and to ensure the financial viability of the project, during the remaining useful life of the property.
 
-&emsp;“(3) A description of any resources available for meeting the current and future needs of the property described under paragraphs (1) and (2) and the likelihood of obtaining such resources.
+&emsp;"(3) A description of any resources available for meeting the current and future needs of the property described under paragraphs (1) and (2) and the likelihood of obtaining such resources.
 
-&emsp;“(4) A description of any assistance needed for the property under programs administered by the Secretary.
+&emsp;"(4) A description of any assistance needed for the property under programs administered by the Secretary.
 
-“(b)
+"(b)
 
 Projects for the Elderly.—Each comprehensive needs assessment for a covered multifamily housing property for the elderly shall include, in addition to the information required under subsection (a), the following information with respect to the property:
 
-&emsp;“(1) A description of the supportive service needs of such residents and any supportive services provided to elderly residents of the property.
+&emsp;"(1) A description of the supportive service needs of such residents and any supportive services provided to elderly residents of the property.
 
-&emsp;“(2) A description of any modernization needs and activities for the property.
+&emsp;"(2) A description of any modernization needs and activities for the property.
 
-&emsp;“(3) A description of any personnel needs for the property.
+&emsp;"(3) A description of any personnel needs for the property.
 
-#### “SEC. 404. SUBMISSION AND REVIEW.
+#### "SEC. 404. SUBMISSION AND REVIEW.
 
-“(a)
+"(a)
 
 Form.—The Secretary shall establish the form and manner of submission of the comprehensive needs assessments under this title.
 
-“(b)
+"(b)
 
 Resident Review.—The Secretary shall require each owner of a covered multifamily housing property and each owner of a covered multifamily housing property for the elderly to make available to the residents of the property the comprehensive needs assessment that is to be submitted to the Secretary. The Secretary shall require each owner to provide for such residents to submit comments and opinions regarding the assessment to the owner before the submission of the assessment.
 
-“(c)
+"(c)
 
 State Housing Finance Agency Review.—To the extent that a covered multifamily housing property or a covered multifamily housing property for the elderly is financed or assisted by a State housing finance agency (as such term is defined in section 802 of the Housing and Community Development Act of 1974 \[42 U.S.C. 1440\]), the Secretary shall require the owner of the property to submit the comprehensive needs assessment for the property to the State housing finance agency upon submitting the assessment to the Secretary.
 
-“(d)
+"(d)
 
 Review.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary shall review each comprehensive needs assessment for completeness and adequacy before the expiration of the 90-day period beginning on the receipt of the assessment and shall notify the owner of the property for which the assessment was submitted of the findings of such review.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Incomplete or inadequate assessments.—If the Secretary determines that the assessment is substantially incomplete or inadequate, the Secretary shall—
 
-&emsp;&emsp;“(A) notify the owner of the portion or portions of the assessment requiring completion or other revision; and
+&emsp;&emsp;"(A) notify the owner of the portion or portions of the assessment requiring completion or other revision; and
 
-&emsp;&emsp;“(B) require the owner to submit an amended assessment to the Secretary not later than 30 days after such notification.
+&emsp;&emsp;"(B) require the owner to submit an amended assessment to the Secretary not later than 30 days after such notification.
 
-“(e)
+"(e)
 
 Cost of Preparation of Strategy.—The Secretary shall consider any costs relating to preparing a comprehensive needs assessment under this title for a covered multifamily housing property that do not exceed $5,000 for the property as an eligible project expense for the property. The Secretary shall provide that an owner may not increase the rental charge for any unit in a covered multifamily housing property to provide for the cost of preparing a comprehensive needs assessment.
 
-“(f)
+"(f)
 
 Publication of Method for Receiving Capital Needs Assessment.—The Secretary shall cause to be published in the Federal Register the method by which the Secretary determines which capital needs assessments will be received each year in accordance with section 402(b) and subsection (d) of this section.
 
-“(g)
+"(g)
 
 Annual Review and Report of Funding and Targeting for Covered Multifamily Properties for the Elderly.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Review.—The Secretary shall annually conduct a comprehensive review of—
 
-&emsp;&emsp;“(A) the funding levels required to fully address the needs of covered multifamily housing properties for the elderly identified in the comprehensive needs assessments under section 403(b), specifically identifying any expenses necessary to make substantial repairs and add features (such as congregate dining facilities and commercial kitchens) resulting from development of a property in compliance with cost-containment requirements established by the Secretary;
+&emsp;&emsp;"(A) the funding levels required to fully address the needs of covered multifamily housing properties for the elderly identified in the comprehensive needs assessments under section 403(b), specifically identifying any expenses necessary to make substantial repairs and add features (such as congregate dining facilities and commercial kitchens) resulting from development of a property in compliance with cost-containment requirements established by the Secretary;
 
-&emsp;&emsp;“(B) the adequacy of the geographic targeting of resources provided under programs of the Department with respect to covered multifamily housing properties for the elderly, based on information acquired pursuant to section 403(b); and
+&emsp;&emsp;"(B) the adequacy of the geographic targeting of resources provided under programs of the Department with respect to covered multifamily housing properties for the elderly, based on information acquired pursuant to section 403(b); and
 
-&emsp;&emsp;“(C) local housing markets throughout the United States, with respect to the need, availability, and cost of housing for elderly persons and families, which shall include review of any information and plans relating to housing for elderly persons and families included in comprehensive housing affordability strategies submitted by jurisdictions pursuant to section 105 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12705\].
+&emsp;&emsp;"(C) local housing markets throughout the United States, with respect to the need, availability, and cost of housing for elderly persons and families, which shall include review of any information and plans relating to housing for elderly persons and families included in comprehensive housing affordability strategies submitted by jurisdictions pursuant to section 105 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12705\].
 
-&emsp;“(2)
+&emsp;"(2)
 
-Report.—The Secretary of Housing and Urban Development shall submit a report to the Congress annually describing the results of the annual comprehensive needs assessments under section 402 for covered multifamily housing properties for the elderly and the annual review conducted under paragraph (1) of this subsection, which shall contain a description of the methods used by project owners and by the Secretary to acquire the information described in section 402(b) and any findings and recommendations of the Secretary pursuant to the review.”
+Report.—The Secretary of Housing and Urban Development shall submit a report to the Congress annually describing the results of the annual comprehensive needs assessments under section 402 for covered multifamily housing properties for the elderly and the annual review conducted under paragraph (1) of this subsection, which shall contain a description of the methods used by project owners and by the Secretary to acquire the information described in section 402(b) and any findings and recommendations of the Secretary pursuant to the review."
 
 \[For termination, effective May 15, 2000, of reporting provisions in section 404(g)(2) of Pub. L. 102–550, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 104 of House Document No. 103–7.\]
 
@@ -560,21 +560,21 @@ Report.—The Secretary of Housing and Urban Development shall submit a report t
 
 Pub. L. 102–550, title IV, §409, as added by Pub. L. 103–233, title I, §103(a)(6), Apr. 11, 1994, 108 Stat. 359, provided that:
 
-“(a)
+"(a)
 
 Allocation of Assistance.—Based upon needs identified in comprehensive needs assessments, and subject to otherwise applicable program requirements, including selection criteria, the Secretary may allocate the following assistance to owners of covered multifamily housing projects and may provide such assistance on a noncompetitive basis:
 
-&emsp;“(1) Operating assistance and capital improvement assistance for troubled multifamily housing projects pursuant to section 201 of the Housing and Community Development Amendments of 1978 \[Pub. L. 95–557, enacting this section, amending section 1715z–1 of this title, and enacting provisions set out as a note under section 1715z–1 of this title\], except for assistance set aside under section 201(n)(1) \[subsec. (n)(1) of this section\].
+&emsp;"(1) Operating assistance and capital improvement assistance for troubled multifamily housing projectspursuant to section 201 of the Housing and Community Development Amendments of 1978 \[Pub. L. 95–557, enacting this section, amending section 1715z–1 of this title, and enacting provisions set out as a note under section 1715z–1 of this title\], except for assistance set aside under section 201(n)(1) \[subsec. (n)(1) of this section\].
 
-&emsp;“(2) Loan management assistance available pursuant to section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\].
+&emsp;"(2) Loan management assistance available pursuant to section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\].
 
-“(b)
+"(b)
 
 Operating Assistance and Capital Improvement Assistance.—In providing assistance under subsection (a) the Secretary shall use the selection criteria set forth in section 201(n) of the Housing and Community Development Amendments of 1978.
 
-“(c)
+"(c)
 
-Amount of Assistance.—The Secretary may fund all or only a portion of the needs identified in the capital needs assessment of an owner selected to receive assistance under this section.”
+Amount of Assistance.—The Secretary may fund all or only a portion of the needs identified in the capital needs assessment of an owner selected to receive assistance under this section."
 
 #### Capital Assessment Study
 
@@ -586,7 +586,7 @@ Pub. L. 101–235, title V, Dec. 15, 1989, 103 Stat. 2048, as amended by Pub. L.
 
 #### Multifamily Housing Capital Improvements Assistance; Regulations for Implementation of Program
 
-Pub. L. 100–628, title X, §1011(b), Nov. 7, 1988, 102 Stat. 3268, provided that: “To implement the amendments made by section 185 of the Housing and Community Development Act of 1987 \[Pub. L. 100–242, amending this section\], the Secretary of Housing and Urban Development shall issue regulations that become effective not later than February 5, 1989.”
+Pub. L. 100–628, title X, §1011(b), Nov. 7, 1988, 102 Stat. 3268, provided that: "To implement the amendments made by section 185 of the Housing and Community Development Act of 1987 \[Pub. L. 100–242, amending this section\], the Secretary of Housing and Urban Development shall issue regulations that become effective not later than February 5, 1989."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

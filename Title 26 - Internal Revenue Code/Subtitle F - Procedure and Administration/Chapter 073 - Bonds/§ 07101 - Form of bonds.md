@@ -14,9 +14,9 @@ Whenever, pursuant to the provisions of this title (other than section 7485), or
 
 #### Amendments
 
-<b>1982</b>—Par. (2). Pub. L. 97–258 substituted “section 9303 of title 31, United States Code” for “6 U.S.C. 15”.
+<b>1982</b>—Par. (2). Pub. L. 97–258 substituted "section 9303 of title 31, United States Code" for "6 U.S.C. 15".
 
-<b>1976</b>—Par. (2). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Par. (2). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 <b>1972</b>—Pub. L. 92–310 struck out reference to section 6803(a)(1).
 

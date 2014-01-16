@@ -38,7 +38,7 @@ The Attorney General may obtain the assistance of other Federal agencies in carr
 
 #### (C) Subchapter III
 
-&emsp;&emsp;The Attorney General, in coordination with the Secretary of Transportation andthe Chair of the Architectural Transportation Barriers Compliance Board, shall implement such plan for assistance for subchapter III, except for section 12184 of this title, the plan for assistance for which shall be implemented by the Secretary of Transportation.
+&emsp;&emsp;The Attorney General, in coordination with the Secretary of Transportation and the Chair of the Architectural Transportation Barriers Compliance Board, shall implement such plan for assistance for subchapter III, except for section 12184 of this title, the plan for assistance for which shall be implemented by the Secretary of Transportation.
 
 #### (D) Title IV
 
@@ -66,7 +66,7 @@ An employer, public accommodation, or other entity covered under this chapter sh
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (c)(1), (3), (d), and (e), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (c)(1), (3), (d), and (e), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 Title IV, referred to in subsec. (c)(2)(D), (3), means title IV of Pub. L. 101–336, July 26, 1990, 104 Stat. 366, which enacted section 225 of Title 47, Telecommunications, and amended sections 152, 221, and 611 of Title 47.
 
@@ -74,5 +74,5 @@ Title IV, referred to in subsec. (c)(2)(D), (3), means title IV of Pub. L. 101�
 
 A prior section 507 of Pub. L. 101–336 was renumbered section 508 and is classified to section 12207 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

@@ -14,7 +14,7 @@
 
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-The Civil Service Retirement Act, referred to in subsec. (b), is act May 29, 1930, ch. 349, 46 Stat. 468, as amended by act July 31, 1956, ch. 804, §401, 70 Stat. 743, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first sectionthereof as subchapter III (§8331 et seq.) of chapter 83 of Title 5.
+The Civil Service Retirement Act, referred to in subsec. (b), is act May 29, 1930, ch. 349, 46 Stat. 468, as amended by act July 31, 1956, ch. 804, §401, 70 Stat. 743, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as subchapter III (§8331 et seq.) of chapter 83 of Title 5.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -22,11 +22,11 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–572 substituted “competitive service without regard to” for “competitive service and”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–572 substituted "competitive service without regard to" for "competitive service and".
 
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pub. L. 102–572, set out as a note under section 905 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> So in original. Should be “Service”.</i>
+<i><sup>1</sup></i><i> So in original. Should be "Service".</i>
 

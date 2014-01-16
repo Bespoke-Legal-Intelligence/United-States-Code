@@ -10,7 +10,7 @@ For purposes of this section:
 
 #### (1) Presumptive eligibility period
 
-&emsp;The term “presumptive eligibility period” means, with respect to an individual described in subsection (a) of this section, the period that—
+&emsp;The term "presumptive eligibility period" means, with respect to an individual described in subsection (a) of this section, the period that—
 
 &emsp;&emsp;(A) begins with the date on which a qualified entity determines, on the basis of preliminary information, that the individual is described in section 1396a(aa) of this title; and
 
@@ -24,7 +24,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term “qualified entity” means any entity that—
+&emsp;&emsp;Subject to subparagraph (B), the term "qualified entity" means any entity that—
 
 &emsp;&emsp;&emsp;(i) is eligible for payments under a State plan approved under this subchapter; and
 
@@ -78,7 +78,7 @@ Notwithstanding any other provision of this subchapter, medical assistance that�
 
 #### Effective Date
 
-Section applicable to medical assistance for items and services furnished on or after Oct. 1, 2000, withoutregard to whether final regulations to carry out such amendments have been promulgated by such date, see section 2(d) of Pub. L. 106–354, set out as an Effective Date of 2000 Amendment note under section 1396a of this title.
+Section applicable to medical assistance for items and services furnished on or after Oct. 1, 2000, without regard to whether final regulations to carry out such amendments have been promulgated by such date, see section 2(d) of Pub. L. 106–354, set out as an Effective Date of 2000 Amendment note under section 1396a of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

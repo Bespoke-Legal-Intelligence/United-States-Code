@@ -10,9 +10,9 @@ It is the policy of the United States to support the modernization of the Nation
 
 &emsp;(4) Development and incorporation of demand response, demand-side resources, and energy-efficiency resources.
 
-&emsp;(5) Deployment of “smart” technologies (real-time, automated, interactive technologies that optimize the physical operation of appliances and consumer devices) for metering, communications concerning grid operations and status, and distribution automation.
+&emsp;(5) Deployment of "smart" technologies (real-time, automated, interactive technologies that optimize the physical operation of appliances and consumer devices) for metering, communications concerning grid operations and status, and distribution automation.
 
-&emsp;(6) Integration of “smart” appliances and consumer devices.
+&emsp;(6) Integration of "smart" appliances and consumer devices.
 
 &emsp;(7) Deployment and integration of advanced electricity storage and peak-shaving technologies, including plug-in electric and hybrid electric vehicles, and thermal-storage air conditioning.
 

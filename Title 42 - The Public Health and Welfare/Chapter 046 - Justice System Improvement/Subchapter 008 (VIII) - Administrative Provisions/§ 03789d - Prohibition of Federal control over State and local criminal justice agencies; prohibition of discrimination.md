@@ -42,11 +42,11 @@ Notwithstanding any other provision of law, nothing contained in this chapter sh
 
 (E) Whenever the Attorney General files a civil action alleging a pattern or practice of discriminatory conduct on the basis of race, color, religion, national origin, or sex in any program or activity of a State government or unit of local government which State government or unit of local government receives funds made available under this chapter, and the conduct allegedly violates the provisions of this section and neither party within forty-five days after such filing has been granted such preliminary relief with regard to the suspension or payment of funds as may be otherwise available by law, the Office of Justice Programs shall cause to have suspended further payment of any funds under this chapter to that specific program or activity alleged by the Attorney General to be in violation of the provisions of this subsection until such time as the court orders resumption of payment.
 
-(F) Prior to the suspension of funds under subparagraph (C), but within the ninety-day period after notification under subparagraph (C), the State government or unit of local government may request an expedited preliminary hearing on the record in accordance with section 554 of title 5, in order to determine whether it is likely that the State government or unit of local government would, at a full hearing under subparagraph (G), prevail on the merits on the issue of the alleged noncompliance. A finding under this subparagraph by the administrative law judge in favor of the State government or unit of local government shall defer the suspension of funds under subparagraph (C) pending a finding of noncompliance at the conclusion of the hearing on the merits under subparagraph (G).
+(F) Prior to the suspension of funds under subparagraph (C), but within the ninety-day period after notification under subparagraph (C), the State government or unit of local government may request an expedited preliminary hearing on the record in accordance with section 554 of title 5, in order to determine whether it is likely that the State government or unit of local government would, at a full hearing under subparagraph (G), prevail on the merits on the issue of the alleged noncompliance. A finding under this subparagraph by the administrative law judge in favor of the State government or unit of localgovernment shall defer the suspension of funds under subparagraph (C) pending a finding of noncompliance at the conclusion of the hearing on the merits under subparagraph (G).
 
 (G)(i) At any time after notification under subparagraph (A), but before the conclusion of the one-hundred-and-twenty-day period referred to in subparagraph (C), a State government or unit of local government may request a hearing on the record in accordance with section 554 of title 5, which the Office of Justice Programs shall initiate within sixty days of such request.
 
-(ii) Within thirty days after the conclusion of the hearing, or, in the absence of a hearing, at the conclusion of the one-hundred-and-twenty-day period referred to in subparagraph (C), the Office of Justice Programs shall make a finding of compliance or noncompliance. If the Office of Justice Programs makes a finding of noncompliance, the Office of Justice Programs shall notify the Attorney General in order that the Attorney General may institute a civil action under paragraph (3), cause to have terminated the paymentof funds under this chapter, and, if appropriate, seek repayment of such funds.
+(ii) Within thirty days after the conclusion of the hearing, or, in the absence of a hearing, at the conclusion of the one-hundred-and-twenty-day period referred to in subparagraph (C), the Office of Justice Programs shall make a finding of compliance or noncompliance. If the Office of Justice Programs makes a finding of noncompliance, the Office of Justice Programs shall notify the Attorney General in order that the Attorney General may institute a civil action under paragraph (3), cause to have terminated the payment of funds under this chapter, and, if appropriate, seek repayment of such funds.
 
 (iii) If the Office of Justice Programs makes a finding of compliance, payment of the suspended funds shall resume as provided in subparagraph (D).
 
@@ -76,9 +76,9 @@ A prior section 809 of Pub. L. 90–351, title I, as added Pub. L. 96–157, §2
 
 <b>1994</b>—Subsec. (c)(2)(H). Pub. L. 103–322 made technical amendment to reference to section 3785 of this title to correct reference to corresponding section of original act.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–473, §609B(h)(2), struck out “contained” after “Nothing”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, §609B(h)(2), struck out "contained" after "Nothing".
 
-Subsec. (c). Pub. L. 98–473, §609B(h)(3), substituted “Office of Justice Programs” for “Office of Justice Assistance, Research, and Statistics” wherever appearing.
+Subsec. (c). Pub. L. 98–473, §609B(h)(3), substituted "Office of Justice Programs" for "Office of Justice Assistance, Research, and Statistics" wherever appearing.
 
 #### Effective Date of 1984 Amendment
 

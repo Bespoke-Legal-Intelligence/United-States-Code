@@ -12,7 +12,7 @@ The Secretary may also cause to be disseminated information regarding food, drug
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b). Pub. L. 111–31 inserted “tobacco products,” after “devices,”.
+<b>2009</b>—Subsec. (b). Pub. L. 111–31 inserted "tobacco products," after "devices,".
 
 #### Transfer of Functions
 

@@ -58,11 +58,11 @@ schedule a
 
 (28) a copy of any agreement or agreements (or, if identical agreements are used, the forms thereof) made with any underwriter, including all contracts and agreements referred to in paragraph (17) of this schedule;
 
-(29) a copy of the opinion or opinions of counsel in respect to the legality of the issue, with a translation of such opinion, when necessary, into the English language;
+(29) a copy of the opinion or opinions of counsel in respect to the legality of the issue, with atranslation of such opinion, when necessary, into the English language;
 
 (30) a copy of all material contracts referred to in paragraph (24) of this schedule, but no disclosure shall be required of any portion of any such contract if the Commission determines that disclosure of such portion would impair the value of the contract and would not be necessary for the protection of the investors;
 
-(31) unless previously filed and registered under the provisions of this subchapter, and brought up to date, (a) a copy of its articles of incorporation, with all amendments thereof andof its existing bylaws or instruments corresponding thereto, whatever the name, if the issuer be a corporation; (b) copy of all instruments by which the trust is created or declared, if the issuer is a trust; (c) a copy of its articles of partnership or association and all other papers pertaining to its organization, if the issuer is a partnership, unincorporated association, joint-stock company, or any other form of organization; and
+(31) unless previously filed and registered under the provisions of this subchapter, and brought up to date, (a) a copy of its articles of incorporation, with all amendments thereof and of its existing bylaws or instruments corresponding thereto, whatever the name, if the issuer be a corporation; (b) copy of all instruments by which the trust is created or declared, if the issuer is a trust; (c) a copy of its articles of partnership or association and all other papers pertaining to its organization, if the issuer is a partnership, unincorporated association, joint-stock company, or any other form of organization; and
 
 (32) a copy of the underlying agreements or indentures affecting any stock, bonds, or debentures offered or to be offered.
 
@@ -102,7 +102,7 @@ schedule b
 
 #### Amendments
 
-<b>1998</b>—Schedule A, par. (28). Pub. L. 105–353 substituted “identical” for “identic”.
+<b>1998</b>—Schedule A, par. (28). Pub. L. 105–353 substituted "identical" for "identic".
 
 #### Transfer of Functions
 

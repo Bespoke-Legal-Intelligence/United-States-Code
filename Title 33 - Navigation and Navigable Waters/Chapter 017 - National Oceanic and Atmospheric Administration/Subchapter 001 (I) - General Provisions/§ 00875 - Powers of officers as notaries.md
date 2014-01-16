@@ -6,7 +6,7 @@ In places where the National Oceanic and Atmospheric Administration is serving w
 
 #### Amendments
 
-<b>1960</b>—Pub. L. 86–624 substituted “the States of the continental United States, excluding Alaska” for “the several States”.
+<b>1960</b>—Pub. L. 86–624 substituted "the States of the continental United States, excluding Alaska" for "the several States".
 
 #### Transfer of Functions
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Notice to Local Government.—Before offering real property situated in an urban areafor sale, the Administrator of General Services shall give reasonable notice to the unit of general local government exercising zoning and land use jurisdiction in order to provide an opportunity for zoning so that the property is used in accordance with local comprehensive planning described in subsection (c).
+Notice to Local Government.—Before offering real property situated in an urban area for sale, the Administrator of General Services shall give reasonable notice to the unit of general local government exercising zoning and land use jurisdiction in order to provide an opportunity for zoning so that the property is used in accordance with local comprehensive planning described in subsection (c).
 
 (b)
 
@@ -56,7 +56,7 @@ June 30, 1949, ch. 288, title VIII, §§803, 806(c), as added Pub. L. 90–577, 
 
 40:535(c).
 
-In subsection (a), the words “Whenever the Administrator contemplates the disposal for or on behalf of any Federal agency of” and “such land” are omitted as unnecessary. The words “the head of the governing body of” are omitted for consistency in the chapter. The words “exercising zoning and land-use jurisdiction” are substituted for “having jurisdiction over zoning and land-use regulation in the geographical area within which the land or lands are located” to eliminate unnecessary words and for consistency in the chapter.
+In subsection (a), the words "Whenever the Administrator contemplates the disposal for or on behalf of any Federal agency of" and "such land" are omitted as unnecessary. The words "the head of the governing body of" are omitted for consistency in the chapter. The words "exercising zoning and land-use jurisdiction" are substituted for "having jurisdiction over zoning and land-use regulation in the geographical area within which the land or lands are located" to eliminate unnecessary words and for consistency in the chapter.
 
-In subsection (c)(2), the word “Preparing” is added for clarity.
+In subsection (c)(2), the word "Preparing" is added for clarity.
 

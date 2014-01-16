@@ -14,7 +14,7 @@ The Congress recognizes that illicit narcotics cultivation is related to overall
 
 In furtherance of the purposes of this section, the agency primarily responsible for administering subchapter I of this chapter shall cooperate fully with, and share its expertise in development matters with, other agencies of the United States Government involved in narcotics control activities abroad.
 
-(Pub. L. 87–195, pt. I, §126, as added Pub. L. 96–53, title I, §110, Aug. 14, 1979, 93 Stat. 363; amended Pub. L. 99–83, title VI, §603, Aug. 8, 1985, 99 Stat.228; Pub. L. 101–513, title V, §562(d)(7), Nov. 5, 1990, 104 Stat. 2031.)
+(Pub. L. 87–195, pt. I, §126, as added Pub. L. 96–53, title I, §110, Aug. 14, 1979, 93 Stat. 363; amended Pub. L. 99–83, title VI, §603, Aug. 8, 1985, 99 Stat. 228; Pub. L. 101–513, title V, §562(d)(7), Nov. 5, 1990, 104 Stat. 2031.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -22,7 +22,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b)(1). Pub. L. 101–513 inserted “, and part X of this subchapter,” after “this part”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–513 inserted ", and part X of this subchapter," after "this part".
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–83 designated existing provisions as par. (1), inserted reference to part IV of subchapter II of this chapter, and added par. (2).
 

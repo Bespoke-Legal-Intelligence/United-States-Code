@@ -18,5 +18,5 @@ Section 8903 requires that an uninspected passenger vessel be operated by a lice
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–307 substituted “Self-propelled, uninspected” for “Uninspected” in section catchline and “A self-propelled,” for “An” in text.
+<b>1986</b>—Pub. L. 99–307 substituted "Self-propelled, uninspected" for "Uninspected" in section catchline and "A self-propelled," for "An" in text.
 

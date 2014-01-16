@@ -26,5 +26,5 @@ Subject to section 460mmm–4(l)(3) <sup>1</sup> of this title, in the case of 
 
 (Pub. L. 106–353, §7, Oct. 24, 2000, 114 Stat. 1379.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “460mmm–4(l)(5)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "460mmm–4(l)(5)".</i>
 

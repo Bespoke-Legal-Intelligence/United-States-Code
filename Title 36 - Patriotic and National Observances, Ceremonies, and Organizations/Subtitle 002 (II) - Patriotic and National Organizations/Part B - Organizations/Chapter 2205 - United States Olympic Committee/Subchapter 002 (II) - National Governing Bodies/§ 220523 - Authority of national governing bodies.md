@@ -44,11 +44,11 @@ Sept. 21, 1950, ch. 975, title II, §203, as added Nov. 8, 1978, Pub. L. 95–60
 
 36:393 note.
 
-July 8, 1980, Pub. L. 96–304, title I (last sentence related to limitation on exercise of authority in par. under heading “Salaries and Expenses”), 94 Stat. 898.
+July 8, 1980, Pub. L. 96–304, title I (last sentence related to limitation on exercise of authority in par. under heading "Salaries and Expenses"), 94 Stat. 898.
 
-In subsection (b), the words “national governing body” are omitted (the first time they appear) to eliminate unnecessary words. The reference to “subsection (a) of this section” is substituted for “section 203 of Public Law 95–606 as hereby amended” because of the restatement. The word “corporation” is substituted for “Committee” because of the definition of “corporation” in section 220501 of this title.
+In subsection (b), the words "national governing body" are omitted (the first time they appear) to eliminate unnecessary words. The reference to "subsection (a) of this section" is substituted for "section 203 of Public Law 95–606 as hereby amended" because of the restatement. The word "corporation" is substituted for "Committee" because of the definition of "corporation" in section 220501 of this title.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(6), (7). Pub. L. 105–277, which directed substitution of “Games, the Paralympic Games, and” for “Games and” in pars. (6) and (7) of this section, was executed by making the substitution in pars. (6) and (7) of subsec. (a) to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (a)(6), (7). Pub. L. 105–277, which directed substitution of "Games, the Paralympic Games, and" for "Games and" in pars. (6) and (7) of this section, was executed by making the substitution in pars. (6) and (7) of subsec. (a) to reflect the probable intent of Congress.
 

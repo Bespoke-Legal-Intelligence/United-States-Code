@@ -24,13 +24,13 @@ Section 564 of the Federal Food, Drug, and Cosmetic Act, referred to in text, is
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–364, §1071(g)(7), made technical correction to directory language of Pub. L. 108–375, §726(b)(1). See 2004 Amendment note below.
 
-Pub. L. 109–364, §1071(a)(5), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and, in par. (2), substituted “paragraph (1)” for “subparagraph (A)”.
+Pub. L. 109–364, §1071(a)(5), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and, in par. (2), substituted "paragraph (1)" for "subparagraph (A)".
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–375, §726(b)(1), as amended by Pub. L. 109–364, §1071(g)(7), inserted “(A)” after “
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §726(b)(1), as amended by Pub. L. 109–364, §1071(g)(7), inserted "(A)" after "
 
-President.—”.
+President.—".
 
-Subsec. (a)(A). Pub. L. 108–375, §726(b)(2), struck out “is not feasible, is contrary to the best interests of the members affected, or” after “such requirement”.
+Subsec. (a)(A). Pub. L. 108–375, §726(b)(2), struck out "is not feasible, is contrary to the best interests of the members affected, or" after "such requirement".
 
 Subsec. (a)(B). Pub. L. 108–375, §726(b)(3), added subpar. (B).
 
@@ -40,5 +40,5 @@ Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, pr
 
 #### Termination Date
 
-Pub. L. 108–136, div. A, title XVI, §1603(d), Nov. 24, 2003, 117 Stat. 1690, which provided that section 1603 of Pub. L. 108–136 (enacting this section and section 360bbb–3 of Title 21, Food and Drugs, and amending section 331 of Title 21) would not be in effect (and the lawwas to read as if that section had never been enacted) as of the date on which, following enactment of the Project Bioshield Act of 2003, the President submits to Congress a notification that the Project Bioshield Act of 2003 provides an effective emergency use authority with respect to members of the Armed Forces, was repealed by Pub. L. 108–276, §4(b), July 21, 2004, 118 Stat. 859. \[The Project Bioshield Act of 2003 was not enacted.\]
+Pub. L. 108–136, div. A, title XVI, §1603(d), Nov. 24, 2003, 117 Stat. 1690, which provided that section 1603 of Pub. L. 108–136 (enacting this section and section 360bbb–3 of Title 21, Food and Drugs, and amending section 331 of Title 21) would not be in effect (and the law was to read as if that section had never been enacted) as of the date on which, following enactment of the Project Bioshield Act of 2003, the President submits to Congress a notification that the Project Bioshield Act of 2003 provides an effective emergency use authority with respect to members of the Armed Forces, was repealed by Pub. L. 108–276, §4(b), July 21, 2004, 118 Stat. 859. \[The Project Bioshield Act of 2003 was not enacted.\]
 

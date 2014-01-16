@@ -44,7 +44,7 @@ Assistance may be provided under this section without regard to section 2354(a) 
 
 #### (1) In general
 
-&emsp;Of the amounts authorized to be available to carry out subchapter I of this chapter, thereare authorized to be available such sums as may be necessary for each of the fiscal years 2005 through 2009 to carry out this section.
+&emsp;Of the amounts authorized to be available to carry out subchapter I of this chapter, there are authorized to be available such sums as may be necessary for each of the fiscal years 2005 through 2009 to carry out this section.
 
 #### (2) Coverage of subsidy costs
 
@@ -68,35 +68,35 @@ A prior section 2212, Pub. L. 87–195, pt. I, §252, as added Pub. L. 87–565,
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–484, §4(c)(3)(A), substituted “Administrator of the Agency” for “Administrator of the agency primarily responsible for administering subchapter I of this chapter” in introductory provisions.
+<b>2004</b>—Subsec. (c). Pub. L. 108–484, §4(c)(3)(A), substituted "Administrator of the Agency" for "Administrator of the agency primarily responsible for administering subchapter I of this chapter" in introductory provisions.
 
-Subsec. (f)(1). Pub. L. 108–484, §4(c)(3)(B), substituted “subchapter I of this chapter” for “section 2152a of this title” and “such sums as may be necessary for each of the fiscal years 2005 through 2009” for “$1,500,000 for each of fiscal years 2001 through 2004”.
+Subsec. (f)(1). Pub. L. 108–484, §4(c)(3)(B), substituted "subchapter I of this chapter" for "section 2152a of this title" and "such sums as may be necessary for each of the fiscal years 2005 through 2009" for "$1,500,000 for each of fiscal years 2001 through 2004".
 
-<b>2003</b>—Pub. L. 108–31, §2(f), substituted “Microenterprise development credits” for “Micro- and small enterprise development credits” in section catchline.
+<b>2003</b>—Pub. L. 108–31, §2(f), substituted "Microenterprise development credits" for "Micro- and small enterprise development credits" in section catchline.
 
-Subsec. (a)(2). Pub. L. 108–31, §2(a), substituted “the access to financial services and the development of microenterprises” for “the development of the enterprises of the poor”.
+Subsec. (a)(2). Pub. L. 108–31, §2(a), substituted "the access to financial services and the development of microenterprises" for "the development of the enterprises of the poor".
 
-Subsec. (b). Pub. L. 108–31, §2(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “To carry out the policy set forth in subsection (a) of this section, the President is authorized to provide assistance to increase the availability of credit to micro- and small enterprises lacking full access to credit, including through—
+Subsec. (b). Pub. L. 108–31, §2(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "To carry out the policy set forth in subsection (a) of this section, the President is authorized to provide assistance to increase the availability of credit to micro- and small enterprises lacking full access to credit, including through—
 
-&emsp;“(1) loans and guarantees to credit institutions for the purpose of expanding the availability of credit to micro- and small enterprises;
+&emsp;"(1) loans and guarantees to credit institutions for the purpose of expanding the availability of credit to micro- and small enterprises;
 
-&emsp;“(2) training programs for lenders in order to enable them to better meet the credit needs of microentrepreneurs; and
+&emsp;"(2) training programs for lenders in order to enable them to better meet the credit needs of microentrepreneurs; and
 
-&emsp;“(3) training programs for microentrepreneurs in order to enable them to make better use of credit and to better manage their enterprises.”
+&emsp;"(3) training programs for microentrepreneurs in order to enable them to make better use of credit and to better manage their enterprises."
 
-Subsec. (c). Pub. L. 108–31, §2(c)(1), substituted “microfinance institutions” for “credit institutions” and “microenterprise households” for “micro- and small enterprises” in introductory provisions.
+Subsec. (c). Pub. L. 108–31, §2(c)(1), substituted "microfinance institutions" for "credit institutions" and "microenterprise households" for "micro- and small enterprises" in introductory provisions.
 
-Subsec. (c)(1), (2). Pub. L. 108–31, §2(c)(2), substituted “financial services” for “credit”.
+Subsec. (c)(1), (2). Pub. L. 108–31, §2(c)(2), substituted "financial services" for "credit".
 
-Subsec. (d). Pub. L. 108–31, §2(d), substituted “programs for microenterprise households” for “micro- and small enterprise programs”.
+Subsec. (d). Pub. L. 108–31, §2(d), substituted "programs for microenterprise households" for "micro- and small enterprise programs".
 
-Subsec. (f)(1). Pub. L. 108–31, §2(e), substituted “for each of fiscal years 2001 through 2004” for “for each of fiscal years 2001 and 2002”.
+Subsec. (f)(1). Pub. L. 108–31, §2(e), substituted "for each of fiscal years 2001 through 2004" for "for each of fiscal years 2001 and 2002".
 
 <b>2000</b>—Pub. L. 106–309 amended section catchline and text generally, substituting provisions promoting micro- and small enterprise development credits for provisions relating to the establishment, funding and uses of a private sector revolving fund to aid developing countries.
 
 <b>1988</b>—Subsec. (i). Pub. L. 100–418 added subsec. (i).
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–83 substituted “each of the fiscal years 1986 and 1987, up to $18,000,000” for “fiscal year 1984, up to $20,000,000”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–83 substituted "each of the fiscal years 1986 and 1987, up to $18,000,000" for "fiscal year 1984, up to $20,000,000".
 
 #### Effective Date of 1985 Amendment
 
@@ -108,117 +108,117 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Report to Congress
 
-Pub. L. 108–31, §4, June 17, 2003, 117 Stat. 778, as amended by Pub. L. 108–484, §8(b), Dec. 23, 2004, 118 Stat. 3931, provided that: “Not later than September 30, 2005, the Administrator of the United States Agency for International Development shall submit to Congress a report that documents the process of developing and applying poverty assessment procedures with its partners.”
+Pub. L. 108–31, §4, June 17, 2003, 117 Stat. 778, as amended by Pub. L. 108–484, §8(b), Dec. 23, 2004, 118 Stat. 3931, provided that: "Not later than September 30, 2005, the Administrator of the United States Agency for International Development shall submit to Congress a report that documents the process of developing and applying poverty assessment procedures with its partners."
 
 #### Findings and Declarations of Policy of 2000 Amendment
 
-Pub. L. 106–309, title I, §102, Oct. 17, 2000, 114 Stat. 1079, provided that: “Congress makes the following findings and declarations:
+Pub. L. 106–309, title I, §102, Oct. 17, 2000, 114 Stat. 1079, provided that: "Congress makes the following findings and declarations:
 
-&emsp;“(1) According to the World Bank, more than 1,200,000,000 people in the developing world, or one-fifth of the world's population, subsist on less than $1 a day.
+&emsp;"(1) According to the World Bank, more than 1,200,000,000 people in the developing world, or one-fifth of the world's population, subsist on less than $1 a day.
 
-&emsp;“(2) Over 32,000 of their children die each day from largely preventable malnutrition and disease.
+&emsp;"(2) Over 32,000 of their children die each day from largely preventable malnutrition and disease.
 
-&emsp;“(3)(A) Women in poverty generally have larger work loads and less access to educational and economic opportunities than their male counterparts.
+&emsp;"(3)(A) Women in poverty generally have larger work loads and less access to educational and economic opportunities than their male counterparts.
 
-&emsp;“(B) Directly aiding the poorest of the poor, especially women, in the developing world has a positive effect not only on family incomes, but also on child nutrition, health and education, as women in particular reinvest income in their families.
+&emsp;"(B) Directly aiding the poorest of the poor, especially women, in the developing world has a positive effect not only on family incomes, but also on child nutrition, health and education, as women in particular reinvest income in their families.
 
-&emsp;“(4)(A) The poor in the developing world, particularly women, generally lack stable employment and social safety nets.
+&emsp;"(4)(A) The poor in the developing world, particularly women, generally lack stable employment and social safety nets.
 
-&emsp;“(B) Many turn to self-employment to generate a substantial portion of their livelihood. In Africa, over80 percent of employment is generated in the informal sector of the self-employed poor.
+&emsp;"(B) Many turn to self-employment to generate a substantial portion of their livelihood. In Africa, over 80 percent of employment is generated in the informal sector of the self-employed poor.
 
-&emsp;“(C) These poor entrepreneurs are often trapped in poverty because they cannot obtain credit at reasonable rates to build their asset base or expand their otherwise viable self-employment activities.
+&emsp;"(C) These poor entrepreneurs are often trapped in poverty because they cannot obtain credit at reasonable rates to build their asset base or expand their otherwise viable self-employment activities.
 
-&emsp;“(D) Many of the poor are forced to pay interest rates as high as 10 percent per day to money lenders.
+&emsp;"(D) Many of the poor are forced to pay interest rates as high as 10 percent per day to money lenders.
 
-&emsp;“(5)(A) The poor are able to expand their incomes and their businesses dramatically when they can access loans at reasonable interest rates.
+&emsp;"(5)(A) The poor are able to expand their incomes and their businesses dramatically when they can access loans at reasonable interest rates.
 
-&emsp;“(B) Through the development of self-sustaining microfinance programs, poor people themselves can lead the fight against hunger and poverty.
+&emsp;"(B) Through the development of self-sustaining microfinance programs, poor people themselves can lead the fight against hunger and poverty.
 
-&emsp;“(6)(A) On February 2–4, 1997, a global Microcredit Summit was held in Washington, District of Columbia, to launch a plan to expand access to credit for self-employment and other financial and business services to 100,000,000 of the world's poorest families, especially the women of those families, by 2005. While this scale of outreach may not be achievable in this short time-period, the realization of this goal could dramatically alter the face of global poverty.
+&emsp;"(6)(A) On February 2–4, 1997, a global Microcredit Summit was held in Washington, District of Columbia, to launch a plan to expand access to credit for self-employment and other financial and business services to 100,000,000 of the world's poorest families, especially the women of those families, by 2005. While this scale of outreach may not be achievable in this short time-period, the realization of this goal could dramatically alter the face of global poverty.
 
-&emsp;“(B) With an average family size of five, achieving this goal will mean that the benefits of microfinance will thereby reach nearly half of the world's more than 1,000,000,000 absolute poor people.
+&emsp;"(B) With an average family size of five, achieving this goal will mean that the benefits of microfinance will thereby reach nearly half of the world's more than 1,000,000,000 absolute poor people.
 
-&emsp;“(7)(A) Nongovernmental organizations, such as those that comprise the Microenterprise Coalition (such as the Grameen Bank (Bangladesh), K–REP (Kenya), and networks such as Accion International, the Foundation for International Community Assistance (FINCA), and the credit union movement) are successful in lending directly to the very poor.
+&emsp;"(7)(A) Nongovernmental organizations, such as those that comprise the Microenterprise Coalition (such as the Grameen Bank (Bangladesh), K–REP (Kenya), and networks such as Accion International, the Foundation for International Community Assistance (FINCA), and the credit union movement) are successful in lending directly to the very poor.
 
-&emsp;“(B) Microfinance institutions such as BRAC (Bangladesh), BancoSol (Bolivia), SEWA Bank (India), and ACEP (Senegal) are regulated financial institutions that can raise funds directly from the local and international capital markets.
+&emsp;"(B) Microfinance institutions such as BRAC (Bangladesh), BancoSol (Bolivia), SEWA Bank (India), and ACEP (Senegal) are regulated financial institutions that can raise funds directly from the local and international capital markets.
 
-&emsp;“(8)(A) Microenterprise institutions not only reduce poverty, but also reduce the dependency on foreign assistance.
+&emsp;"(8)(A) Microenterprise institutions not only reduce poverty, but also reduce the dependency on foreign assistance.
 
-&emsp;“(B) Interest income on the credit portfolio is used to pay recurring institutional costs, assuring the long-term sustainability of development assistance.
+&emsp;"(B) Interest income on the credit portfolio is used to pay recurring institutional costs, assuring the long-term sustainability of development assistance.
 
-&emsp;“(9) Microfinance institutions leverage foreign assistance resources because loans are recycled, generating new benefits to program participants.
+&emsp;"(9) Microfinance institutions leverage foreign assistance resources because loans are recycled, generating new benefits to program participants.
 
-&emsp;“(10)(A) The development of sustainable microfinance institutions that provide credit and training, and mobilize domestic savings, is a critical component to a global strategy of poverty reduction and broad-based economic development.
+&emsp;"(10)(A) The development of sustainable microfinance institutions that provide credit and training, and mobilize domestic savings, is a critical component to a global strategy of poverty reduction and broad-based economic development.
 
-&emsp;“(B) In the efforts of the United States to lead the development of a new global financial architecture, microenterprise should play a vital role. The recent shocks to international financial markets demonstrate how the financial sector can shape the destiny of nations. Microfinance can serve as a powerful tool for building a more inclusive financial sector which serves the broad majority of the world's population including the very poor and women and thus generate more social stability and prosperity.
+&emsp;"(B) In the efforts of the United States to lead the development of a new global financial architecture, microenterprise should play a vital role. The recent shocks to international financial markets demonstrate how the financial sector can shape the destiny of nations. Microfinance can serve as a powerful tool for building a more inclusive financial sector which serves the broad majority of the world's population including the very poor and women and thus generate more social stability and prosperity.
 
-&emsp;“(C) Over the last two decades, the United States has been a global leader in promoting the global microenterprise sector, primarily through its development assistance programs at the United States Agency for International Development. Additionally, the Department of the Treasury and the Department of State have used their authority to promote microenterprise in the development programs of international financial institutions and the United Nations.
+&emsp;"(C) Over the last two decades, the United States has been a global leader in promoting the global microenterprise sector, primarily through its development assistance programs at the United States Agency for International Development. Additionally, the Department of the Treasury and the Department of State have used their authority to promote microenterprise in the development programs of international financial institutions and the United Nations.
 
-&emsp;“(11)(A) In 1994, the United States Agency for International Development launched the ‘Microenterprise Initiative’ in partnership with the Congress.
+&emsp;"(11)(A) In 1994, the United States Agency for International Development launched the 'Microenterprise Initiative' in partnership with the Congress.
 
-&emsp;“(B) The initiative committed to expanding funding for the microenterprise programs of the Agency, and set a goal that, by the end of fiscal year 1996, one-half of all microenterprise resources would support programs and institutions that provide credit to the poorest, with loans under $300.
+&emsp;"(B) The initiative committed to expanding funding for the microenterprise programs of the Agency, and set a goal that, by the end of fiscal year 1996, one-half of all microenterprise resources would support programs and institutions that provide credit to the poorest, with loans under $300.
 
-&emsp;“(C) In order to achieve the goal of the microcredit summit, increased investment in microfinance institutions serving the poorest will be critical.
+&emsp;"(C) In order to achieve the goal of the microcredit summit, increased investment in microfinance institutions serving the poorest will be critical.
 
-&emsp;“(12) Providing the United States share of the global investment needed to achieve the goal of the microcredit summit will require only a small increase in United States funding for international microcredit programs, with an increased focus on institutions serving the poorest.
+&emsp;"(12) Providing the United States share of the global investment needed to achieve the goal of the microcredit summit will require only a small increase in United States funding for international microcredit programs, with an increased focus on institutions serving the poorest.
 
-&emsp;“(13)(A) In order to reach tens of millions of the poorest with microcredit, it is crucial to expand and replicate successful microfinance institutions.
+&emsp;"(13)(A) In order to reach tens of millions of the poorest with microcredit, it is crucial to expand and replicate successful microfinance institutions.
 
-&emsp;“(B) These institutions need assistance in developing their institutional capacity to expand their services and tap commercial sources of capital.
+&emsp;"(B) These institutions need assistance in developing their institutional capacity to expand their services and tap commercial sources of capital.
 
-&emsp;“(14) Nongovernmental organizations have demonstrated competence in developing networks of local microfinance institutions and other assistance delivery mechanisms so that they reach large numbers of the very poor, and achieve financial sustainability.
+&emsp;"(14) Nongovernmental organizations have demonstrated competence in developing networks of local microfinance institutions and other assistance delivery mechanisms so that they reach large numbers of the very poor, and achieve financial sustainability.
 
-&emsp;“(15) Recognizing that the United States Agency for International Development has developed very effective partnerships with nongovernmental organizations, and that the Agency will have fewer missions overseas to carry out its work, the Agency should place priority on investing in those nongovernmental network institutions that meet performance criteria through the central funding mechanisms of the Agency.
+&emsp;"(15) Recognizing that the United States Agency for International Development has developed very effective partnerships with nongovernmental organizations, and that the Agency will have fewer missions overseas to carry out its work, the Agency should place priority on investing in those nongovernmental network institutions that meet performance criteria through the central funding mechanisms of the Agency.
 
-&emsp;“(16) By expanding and replicating successful microfinance institutions, it should be possible to create a global infrastructure to provide financial services to the world's poorest families.
+&emsp;"(16) By expanding and replicating successful microfinance institutions, it should be possible to create a global infrastructure to provide financial services to the world's poorest families.
 
-&emsp;“(17)(A) The United States can provide leadership to other bilateral and multilateral development agencies as such agencies expand their support to the microenterprise sector.
+&emsp;"(17)(A) The United States can provide leadership to other bilateral and multilateral development agencies as such agencies expand their support to the microenterprise sector.
 
-&emsp;“(B) The United States should seek to improve coordination among G–7 countries in the support of the microenterprise sector in order to leverage the investment of the United States with that of other donor nations.
+&emsp;"(B) The United States should seek to improve coordination among G–7 countries in the support of the microenterprise sector in order to leverage the investment of the United States with that of other donor nations.
 
-&emsp;“(18) Through increased support for microenterprise, especially credit for the poorest, the United States can continue to play a leadership role in the global effort to expand financial services and opportunity to 100,000,000 of the poorest families on the planet.”
+&emsp;"(18) Through increased support for microenterprise, especially credit for the poorest, the United States can continue to play a leadership role in the global effort to expand financial services and opportunity to 100,000,000 of the poorest families on the planet."
 
 #### Purposes of 2000 Amendment
 
-Pub. L. 106–309, title I, §103, Oct. 17, 2000, 114 Stat. 1081, as amended by Pub. L. 108–31, §1(a), June 17, 2003, 117 Stat. 775, provided that: “The purposes of this title \[see Short Title of 2000 Amendments note set out under section 2151 of this title\] are—
+Pub. L. 106–309, title I, §103, Oct. 17, 2000, 114 Stat. 1081, as amended by Pub. L. 108–31, §1(a), June 17, 2003, 117 Stat. 775, provided that: "The purposes of this title \[see Short Title of 2000 Amendments note set out under section 2151 of this title\] are—
 
-&emsp;“(1) to make microenterprise development an important element of United States foreign economic policy and assistance;
+&emsp;"(1) to make microenterprise development an important element of United States foreign economic policy and assistance;
 
-&emsp;“(2) to provide for the continuation and expansion of the commitment of the United States Agency for International Development to the development of microenterprise institutions as outlined in its 1994 Microenterprise Initiative;
+&emsp;"(2) to provide for the continuation and expansion of the commitment of the United States Agency for International Development to the development of microenterprise institutions as outlined in its 1994 Microenterprise Initiative;
 
-&emsp;“(3) to support and develop the capacity of United States and indigenous nongovernmental organization intermediaries to provide credit, savings, training, technical assistance, and business development services to microenterprise households;
+&emsp;"(3) to support and develop the capacity of United States and indigenous nongovernmental organization intermediaries to provide credit, savings, training, technical assistance, and business development services to microenterprise households;
 
-&emsp;“(4) to emphasize financial services and substantially increase the amount of assistance devoted to both financial services and complementary business development services designed to reach the poorest people in developing countries, particularly women;
+&emsp;"(4) to emphasize financial services and substantially increase the amount of assistance devoted to both financial services and complementary business development services designed to reach the poorest people in developing countries, particularly women;
 
-&emsp;“(5) to encourage the United States Agency for International Development to coordinate microenterprise policy, in consultation with the Department of the Treasury and the Department of State, and to provide global leadership among bilateral and multilateral donors in promoting microenterprise for the very poor; and
+&emsp;"(5) to encourage the United States Agency for International Development to coordinate microenterprise policy, in consultation with the Department of the Treasury and the Department of State, and to provide global leadership among bilateral and multilateral donors in promoting microenterprise for the very poor; and
 
-&emsp;“(6) to ensure that in the implementation of this title at least 50 percent of all microenterprise assistance under this title, and the amendments made under this title, shall be targeted to the very poor.”
+&emsp;"(6) to ensure that in the implementation of this title at least 50 percent of all microenterprise assistance under this title, and the amendments made under this title, shall be targeted to the very poor."
 
 #### Definitions
 
-Pub. L. 106–309, title I, §104, Oct. 17, 2000, 114 Stat. 1082, as amended by Pub. L. 108–31, §1(b), June 17, 2003, 117 Stat. 775, provided that: “In this title \[see Short Title of 2000 Amendments note set out under section 2151 of this title\]:
+Pub. L. 106–309, title I, §104, Oct. 17, 2000, 114 Stat. 1082, as amended by Pub. L. 108–31, §1(b), June 17, 2003, 117 Stat. 775, provided that: "In this title \[see Short Title of 2000 Amendments note set out under section 2151 of this title\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Business development services.—The term ‘business development services’ means support for the growth of microenterprises through training, technical assistance, marketing assistance, improved production technologies, and other services.
+Business development services.—The term 'business development services' means support for the growth of microenterprises through training, technical assistance, marketing assistance, improved production technologies, and other services.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Microenterprise institution.—The term ‘microenterprise institution’ means an institution that provides services, including microfinance, training, or business development services, to microentrepreneurs and their households.
+Microenterprise institution.—The term 'microenterprise institution' means an institution that provides services, including microfinance, training, or business development services, to microentrepreneurs and their households.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Microfinance institution.—The term ‘microfinance institution’ means an institution that directly provides, or works to expand, the availability of credit, savings, and other financial services to microentrepreneurs.
+Microfinance institution.—The term 'microfinance institution' means an institution that directly provides, or works to expand, the availability of credit, savings, and other financial services to microentrepreneurs.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Practitioner institution.—The term ‘practitioner institution’ means any institution that provides services, including microfinance, training, or business development services, for microentrepreneurs, or provides assistance to microenterprise institutions.
+Practitioner institution.—The term 'practitioner institution' means any institution that provides services, including microfinance, training, or business development services, for microentrepreneurs, or provides assistance to microenterprise institutions.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Very poor.—The term ‘very poor’ means individuals—
+Very poor.—The term 'very poor' means individuals—
 
-&emsp;&emsp;“(A) living in the bottom 50 percent below the poverty line established by the national government of the country in which those individuals live; or
+&emsp;&emsp;"(A) living in the bottom 50 percent below the poverty line established by the national government of the country in which those individuals live; or
 
-&emsp;&emsp;“(B) living on the equivalent of less than $1 per day.”
+&emsp;&emsp;"(B) living on the equivalent of less than $1 per day."
 

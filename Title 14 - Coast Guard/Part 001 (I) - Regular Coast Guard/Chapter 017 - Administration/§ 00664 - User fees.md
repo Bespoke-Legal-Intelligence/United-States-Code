@@ -2,7 +2,7 @@
 
 (a) A fee or charge for a service or thing of value provided by the Coast Guard shall be prescribed as provided in section 9701 of title 31.
 
-(b) Amounts collected by the Secretary for a service or thing of value provided by the CoastGuard shall be deposited in the general fund of the Treasury as proprietary receipts of the department in which the Coast Guard is operating and ascribed to Coast Guard activities.
+(b) Amounts collected by the Secretary for a service or thing of value provided by the Coast Guard shall be deposited in the general fund of the Treasury as proprietary receipts of the department in which the Coast Guard is operating and ascribed to Coast Guard activities.
 
 (c) In addition to the collection of fees and charges established under this section, the Secretary may recover from the person liable for the fee or charge the costs of collecting delinquent payments of the fee or charge, and enforcement costs associated with delinquent payments of the fees and charges.
 
@@ -28,7 +28,7 @@
 
 &emsp;(2) the amount expected to be collected under any law in the current fiscal year for each activity for which a fee or charge is expected to be collected.
 
-(g) In this section the term “costs of collecting a fee or charge” includes the reasonable administrative, accounting, personnel, contract, equipment, supply, training, and travel expenses of calculating, assessing, collecting, enforcing, reviewing, adjusting, and reporting on a fee or charge.
+(g) In this section the term "costs of collecting a fee or charge" includes the reasonable administrative, accounting, personnel, contract, equipment, supply, training, and travel expenses of calculating, assessing, collecting, enforcing, reviewing, adjusting, and reporting on a fee or charge.
 
 (Added Pub. L. 99–509, title V, §5102(a)(3), Oct. 21, 1986, 100 Stat. 1926; amended Pub. L. 101–225, title II, §211, Dec. 12, 1989, 103 Stat. 1914; Pub. L. 107–295, title IV, §408(a)(3), Nov. 25, 2002, 116 Stat. 2117; Pub. L. 108–293, title II, §206, Aug. 9, 2004, 118 Stat. 1033.)
 
@@ -36,7 +36,7 @@
 
 <b>2004</b>—Subsecs. (c) to (g). Pub. L. 108–293 added subsecs. (c) to (e) and (g) and redesignated former subsec. (c) as (f).
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries” in introductory provisions.
+<b>2002</b>—Subsec. (c). Pub. L. 107–295 substituted "Transportation and Infrastructure" for "Merchant Marine and Fisheries" in introductory provisions.
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–225 inserted “under any law” after first reference to “collected” in pars. (1) and (2).
+<b>1989</b>—Subsec. (c). Pub. L. 101–225 inserted "under any law" after first reference to "collected" in pars. (1) and (2).
 

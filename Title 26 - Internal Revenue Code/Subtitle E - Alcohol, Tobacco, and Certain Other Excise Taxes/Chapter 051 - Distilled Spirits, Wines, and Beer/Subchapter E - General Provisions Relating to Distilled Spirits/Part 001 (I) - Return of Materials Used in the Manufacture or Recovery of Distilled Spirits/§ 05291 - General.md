@@ -16,15 +16,15 @@ Every person disposing of any substance of the character used in the manufacture
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in prior section 5213, act Aug. 16, 1954,ch. 736, 68A Stat. 639, prior to the general revision of this chapter by Pub. L. 85–859.
+Provisions similar to those comprising this section were contained in prior section 5213, act Aug. 16, 1954, ch. 736, 68A Stat. 639, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
-<b>1979</b>—Subsec. (b)(1). Pub. L. 96–39, §807(a)(40)(A), substituted “section 5002(a)(8)” for “section 5002(a)(6)”.
+<b>1979</b>—Subsec. (b)(1). Pub. L. 96–39, §807(a)(40)(A), substituted "section 5002(a)(8)" for "section 5002(a)(6)".
 
-Subsec. (b)(2). Pub. L. 96–39, §807(a)(40)(B), substituted “section 5002(a)(14)” for “section 5002(a)(11)”.
+Subsec. (b)(2). Pub. L. 96–39, §807(a)(40)(B), substituted "section 5002(a)(14)" for "section 5002(a)(11)".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 1979 Amendment
 

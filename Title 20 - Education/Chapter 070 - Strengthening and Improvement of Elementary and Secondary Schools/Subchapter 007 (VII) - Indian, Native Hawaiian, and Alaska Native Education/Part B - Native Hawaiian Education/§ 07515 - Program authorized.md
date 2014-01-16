@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) educational, psychological, and developmental activities designed to assist in the educational progress of those students; and
 
-&emsp;&emsp;&emsp;(ii) activities that involve the parents of those students in a manner designed to assist in the students’ educational progress;
+&emsp;&emsp;&emsp;(ii) activities that involve the parents of those students in a manner designed to assist in the students' educational progress;
 
 &emsp;&emsp;(F) the development of academic and vocational curricula to address the needs of Native Hawaiian children and adults, including curriculum materials in the Hawaiian language and mathematics and science curricula that incorporate Native Hawaiian tradition and culture;
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(i) the development of programs to prepare prospective teachers to address the unique needs of Native Hawaiian students within the context of Native Hawaiian culture, language, and traditions;
 
-&emsp;&emsp;&emsp;(ii) in-service programs to improve the ability of teachers who teach in schools with concentrations of Native Hawaiian students to meet those students’ unique needs; and
+&emsp;&emsp;&emsp;(ii) in-service programs to improve the ability of teachers who teach in schools with concentrations of Native Hawaiian students to meet those students' unique needs; and
 
 &emsp;&emsp;&emsp;(iii) the recruitment and preparation of Native Hawaiians, and other individuals who live in communities with a high concentration of Native Hawaiians, to become teachers;
 

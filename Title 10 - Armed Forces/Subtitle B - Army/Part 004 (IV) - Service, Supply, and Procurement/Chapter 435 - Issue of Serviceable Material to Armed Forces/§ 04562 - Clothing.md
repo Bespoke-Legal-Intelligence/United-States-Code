@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. 1296 (less 1st 9 words).
 
-The words “members of the Army” are substituted for the words “troops of the United States”.
+The words "members of the Army" are substituted for the words "troops of the United States".
 

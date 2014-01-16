@@ -16,7 +16,7 @@ Any plan or procedures implemented pursuant to subsection (a) shall be appropria
 
 #### (c) Disclosure
 
-The recipient shall provide a copy of the plan to the contracting or grant officer upon request, and as appropriate, shall post the useful and relevant contents of the plan or related materials on its website and at the workplace.
+The recipient shall provide a copy of the plan to the contracting or grant officer upon request,and as appropriate, shall post the useful and relevant contents of the plan or related materials on its website and at the workplace.
 
 #### (d) Guidance
 
@@ -38,21 +38,21 @@ Requirements of section applicable to grants, contracts, and cooperative agreeme
 
 #### Definitions
 
-Pub. L. 112–239, div. A, title XVII, §1701, Jan. 2, 2013, 126 Stat. 2092, provided that: “In this title \[title XVII (§§1701–1708) of div. A of Pub. L. 112–239, enacting this section and sections 7104b to 7104d of this title, amending sections 7103 and 7104 of this title, section 1351 of Title 18, Crimes and Criminal Procedure, and section 2313 of Title 41, Public Contracts, and enacting provisions set out as a note under section 1101 of Title 8, Aliens and Nationality\]:
+Pub. L. 112–239, div. A, title XVII, §1701, Jan. 2, 2013, 126 Stat. 2092, provided that: "In this title \[title XVII (§§1701–1708) of div. A of Pub. L. 112–239, enacting this section and sections 7104b to 7104d of this title, amending sections 7103 and 7104 of this title, section 1351 of Title 18, Crimes and Criminal Procedure, and section 2313 of Title 41, Public Contracts, and enacting provisions set out as a note under section 1101 of Title 8, Aliens and Nationality\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Executive agency.—The term ‘executive agency’ has the meaning given the term in section 133 of title 41, United States Code.
+Executive agency.—The term 'executive agency' has the meaning given the term in section 133 of title 41, United States Code.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Subcontractor.—The term ‘subcontractor’ means a recipient of a contract at any tier under a grant, contract, or cooperative agreement.
+Subcontractor.—The term 'subcontractor' means a recipient of a contract at any tier under a grant, contract, or cooperative agreement.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Subgrantee.—The term ‘subgrantee’ means a recipient of a grant at any tier under a grant or cooperative agreement.
+Subgrantee.—The term 'subgrantee' means a recipient of a grant at any tier under a grant or cooperative agreement.
 
-&emsp;“(4)
+&emsp;"(4)
 
-United states.—The term ‘United States’ has the meaning provided in section 103(12) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(12)).”
+United states.—The term 'United States' has the meaning provided in section 103(12) \[now (13)\] of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(12) \[now (13)\])."
 

@@ -6,5 +6,5 @@ All federally owned lands within the boundaries of the Isle Royale National Park
 
 #### Amendments
 
-<b>1942</b>—Act July 27, 1942, substituted “Secretary of the Navy” for “Secretary of the Treasury”.
+<b>1942</b>—Act July 27, 1942, substituted "Secretary of the Navy" for "Secretary of the Treasury".
 

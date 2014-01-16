@@ -92,7 +92,7 @@ Submittals by Secretaries of the Military Departments and Heads of the Defense A
 
 Definitions.—In this section:
 
-&emsp;(1) The term “senior management, functional, and technical workforce of the Department of Defense” includes the following categories of Department of Defense civilian personnel:
+&emsp;(1) The term "senior management, functional, and technical workforce of the Department of Defense" includes the following categories of Department of Defense civilian personnel:
 
 &emsp;&emsp;(A) Appointees in the Senior Executive Service under section 3131 of title 5.
 
@@ -108,7 +108,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(G) Persons serving in Intelligence Senior Level positions under section 1607 of this title.
 
-&emsp;(2) The term “acquisition workforce” includes individuals designated under section 1721 as filling acquisition positions.
+&emsp;(2) The term "acquisition workforce" includes individuals designated under section 1721 as filling acquisition positions.
 
 (Added Pub. L. 111–84, div. A, title XI, §1108(a)(1), Oct. 28, 2009, 123 Stat. 2488; amended Pub. L. 112–81, div. A, title IX, §935(a)(1), (b), (c), title X, §1053, Dec. 31, 2011, 125 Stat. 1545, 1582.)
 
@@ -124,17 +124,17 @@ A prior section 115b was renumbered section 10541 of this title.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, §935(a)(1)(A), substituted “Biennial strategic” for “Annual strategic” in section catchline.
+<b>2011</b>—Pub. L. 112–81, §935(a)(1)(A), substituted "Biennial strategic" for "Annual strategic" in section catchline.
 
-Subsec. (a). Pub. L. 112–81, §935(a)(1)(B), substituted “Biennial” for “Annual” in heading.
+Subsec. (a). Pub. L. 112–81, §935(a)(1)(B), substituted "Biennial" for "Annual" in heading.
 
-Subsec. (a)(1). Pub. L. 112–81, §935(a)(1)(C), substituted “in every even-numbered year” for “on an annual basis”.
+Subsec. (a)(1). Pub. L. 112–81, §935(a)(1)(C), substituted "in every even-numbered year" for "on an annual basis".
 
-Subsec. (b)(1)(A). Pub. L. 112–81, §935(b)(1), substituted “five-year period corresponding to the current future-years defense program under section 221 of this title” for “seven-year period following the year in which the plan is submitted”.
+Subsec. (b)(1)(A). Pub. L. 112–81, §935(b)(1), substituted "five-year period corresponding to the current future-years defense program under section 221 of this title" for "seven-year period following the year in which the plan is submitted".
 
-Subsec. (b)(1)(B). Pub. L. 112–81, §935(b)(2), inserted “, as determined under the total force management policies and procedures established under section 129a of this title” before semicolon at end.
+Subsec. (b)(1)(B). Pub. L. 112–81, §935(b)(2), inserted ", as determined under the total force management policies and procedures established under section 129a of this title" before semicolon at end.
 
-Subsec. (c)(2)(D). Pub. L. 112–81, §935(c), inserted “and the policies and procedures established under section 129a of this title” before period at end.
+Subsec. (c)(2)(D). Pub. L. 112–81, §935(c), inserted "and the policies and procedures established under section 129a of this title" before period at end.
 
 Subsecs. (e) to (g). Pub. L. 112–81, §1053, added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 

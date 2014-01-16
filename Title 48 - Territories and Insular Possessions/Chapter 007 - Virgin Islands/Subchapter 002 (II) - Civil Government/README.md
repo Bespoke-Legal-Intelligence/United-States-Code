@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01405 - Geographical application of subchapter; land and waters included in term &#8220;Virgin Islands&#8221;](%C2%A7%2001405%20-%20Geographical%20application%20of%20subchapter%3B%20land%20and%20waters%20included%20in%20term%20%E2%80%9CVirgin%20Islands%E2%80%9D.md)
+- [&sect; 01405 - Geographical application of subchapter; land and waters included in term Virgin Islands](%C2%A7%2001405%20-%20Geographical%20application%20of%20subchapter%3B%20land%20and%20waters%20included%20in%20term%20Virgin%20Islands.md)
 - [&sect; 01405a, 1405b - Repealed. Pub. L. 97&#8211;357, title III, &sect;307, Oct. 19, 1982, 96 Stat. 1709](%C2%A7%2001405a%2C%201405b%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93357%2C%20title%20III%2C%20%C2%A7307%2C%20Oct.%2019%2C%201982%2C%2096%20Stat.%201709.md)
 - [&sect; 01405c - Transfer of property to government](%C2%A7%2001405c%20-%20Transfer%20of%20property%20to%20government.md)
 - [&sect; 01405d to 1405g - Repealed. Pub. L. 97&#8211;357, title III, &sect;307, Oct. 19, 1982, 96 Stat. 1709](%C2%A7%2001405d%20to%201405g%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93357%2C%20title%20III%2C%20%C2%A7307%2C%20Oct.%2019%2C%201982%2C%2096%20Stat.%201709.md)

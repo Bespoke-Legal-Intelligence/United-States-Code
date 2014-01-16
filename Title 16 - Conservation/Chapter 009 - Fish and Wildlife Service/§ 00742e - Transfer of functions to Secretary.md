@@ -2,7 +2,7 @@
 
 #### (a) Functions of Secretaries of Agriculture, Commerce, etc.
 
-There shall be transferred to the Secretary all functions of the Secretary of Agriculture, the Secretary of Commerce, and the head of any other department or agency, as determined bythe Director of the Office of Management and Budget to relate primarily to the development, advancement, management, conservation, and protection of commercial fisheries; but nothing in this section shall be construed to modify the authority of the Department of State or the Secretary of State to negotiate or enter into any international agreements, or conventions with respect to the development, management, or protection of any fisheries and wildlife resources or with respect to international commissions operating under conventions to which the United States is a party.
+There shall be transferred to the Secretary all functions of the Secretary of Agriculture, the Secretary of Commerce, and the head of any other department or agency, as determined by the Director of the Office of Management and Budget to relate primarily to the development, advancement, management, conservation, and protection of commercial fisheries; but nothing in this section shall be construed to modify the authority of the Department of State or the Secretary of State to negotiate or enter into any international agreements, or conventions with respect to the development, management, or protection of any fisheries and wildlife resources or with respect to international commissions operating under conventions to which the United States is a party.
 
 #### (b) Transfer of personnel, property, records, etc.
 
@@ -16,7 +16,7 @@ The Secretary may request and secure the advice or assistance of any department 
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
+This Act, referred to in subsec. (a), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fishand Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
 
 #### Transfer of Functions
 

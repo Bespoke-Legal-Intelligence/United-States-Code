@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “motor vehicle repair business” means a person holding itself out to the public to repair for compensation a motor vehicle or motor vehicle equipment.
+Definition.—In this section, "motor vehicle repair business" means a person holding itself out to the public to repair for compensation a motor vehicle or motor vehicle equipment.
 
 (b)
 
@@ -14,7 +14,7 @@ Regulations.—The Secretary of Transportation may prescribe regulations—
 
 &emsp;(1) to exempt a person from this section if the Secretary decides the exemption is consistent with motor vehicle safety and section 30101 of this title; and
 
-&emsp;(2) to define “make inoperative”.
+&emsp;(2) to define "make inoperative".
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 956; Pub. L. 112–141, div. C, title I, §31202(a)(1), July 6, 2012, 126 Stat. 757.)
 
@@ -46,19 +46,19 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(a)(2)(A)– (C); added Oct.
 
 15:1397(a)(2)(C).
 
-In subsections (a) and (c), the words “the term” are omitted as surplus.
+In subsections (a) and (c), the words "the term" are omitted as surplus.
 
-In subsection (a), the words “in the business of” are omitted as surplus.
+In subsection (a), the words "in the business of" are omitted as surplus.
 
-In subsection (b), the words “an applicable motor vehicle safety standard prescribed under this chapter” are substituted for “an applicable Federal motor vehicle safety standard” for consistency. The words “of design” the 2d time they appear and “rendered” are omitted as surplus.
+In subsection (b), the words "an applicable motor vehicle safety standard prescribed under this chapter" are substituted for "an applicable Federal motor vehicle safety standard" for consistency. The words "of design" the 2d time they appear and "rendered" are omitted as surplus.
 
-In subsection (c)(1), the words “section 30101 of this title” are substituted for “the purposes of this chapter” as being more precise.
+In subsection (c)(1), the words "section 30101 of this title" are substituted for "the purposes of this chapter" as being more precise.
 
-In subsection (d), the words “with respect . . . the rendering inoperative of” are omitted as surplus.
+In subsection (d), the words "with respect . . . the rendering inoperative of" are omitted as surplus.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d). Pub. L. 112–141 struck out subsec. (d). Text read as follows: “This section does not apply to a safety belt interlock or buzzer designed to indicate a safety belt is not in use as described in section 30124 of this title.”
+<b>2012</b>—Subsec. (d). Pub. L. 112–141 struck out subsec. (d). Text read as follows: "This section does not apply to a safety belt interlock or buzzer designed to indicate a safety belt is not in use as described in section 30124 of this title."
 
 #### Effective Date of 2012 Amendment
 

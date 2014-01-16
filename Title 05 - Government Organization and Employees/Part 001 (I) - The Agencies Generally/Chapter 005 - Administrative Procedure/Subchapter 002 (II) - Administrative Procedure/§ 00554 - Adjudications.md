@@ -22,7 +22,7 @@
 
 &emsp;(3) the matters of fact and law asserted.
 
-> When private persons are the moving parties, other parties to the proceeding shall give prompt notice of issues controverted in fact or law; and in other instances agencies may by rule require responsive pleading. In fixing the time and place for hearings, due regard shall be had for the convenience and necessity of the parties or their representatives.
+> When private persons are the moving parties, other parties to the proceeding shall giveprompt notice of issues controverted in fact or law; and in other instances agencies may by rule require responsive pleading. In fixing the time and place for hearings, due regard shall be had for the convenience and necessity of the parties or their representatives.
 
 (c) The agency shall give all interested parties opportunity for—
 

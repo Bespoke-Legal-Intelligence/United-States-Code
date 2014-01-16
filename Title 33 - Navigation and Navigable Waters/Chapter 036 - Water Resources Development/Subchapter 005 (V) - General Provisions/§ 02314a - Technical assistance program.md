@@ -8,9 +8,9 @@ The Secretary is authorized to provide technical assistance, on a nonexclusive b
 
 &emsp;(2) agree to hold and save the United States free from damages due to the planning, design, construction, operation, or maintenance of the project.
 
-#### (b) Federal employees’ inventions
+#### (b) Federal employees' inventions
 
-As to an invention made or conceived by a Federal employee while providing assistancepursuant to this section, if the Secretary decides not to retain all rights in such invention, the Secretary may—
+As to an invention made or conceived by a Federal employee while providing assistance pursuant to this section, if the Secretary decides not to retain all rights in such invention, the Secretary may—
 
 &emsp;(1) grant or agree to grant in advance, to a United States firm, a patent license or assignment, or an option thereto, retaining a nonexclusive, nontransferable, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the United States and such other rights as the Secretary deems appropriate; or
 
@@ -26,11 +26,11 @@ For purposes of this section—
 
 #### (1) United States firm
 
-&emsp;The term “United States firm” means a corporation, partnership, limited partnership, or sole proprietorship that is incorporated or established under the laws of any of the United States with its principal place of business in the United States.
+&emsp;The term "United States firm" means a corporation, partnership, limited partnership, or sole proprietorship that is incorporated or established under the laws of any of the United States with its principal place of business in the United States.
 
 #### (2) United States
 
-&emsp;The term “United States”, when used in a geographical sense, means the several States of the United States and the District of Columbia.
+&emsp;The term "United States", when used in a geographical sense, means the several States of the United States and the District of Columbia.
 
 (Pub. L. 100–676, §9, Nov. 17, 1988, 102 Stat. 4024; Pub. L. 101–640, title III, §318(c), Nov. 28, 1990, 104 Stat. 4642.)
 
@@ -42,13 +42,13 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–640, §318(c)(1), struck out “demonstration” after “Technical assistance” in section catchline.
+<b>1990</b>—Pub. L. 101–640, §318(c)(1), struck out "demonstration" after "Technical assistance" in section catchline.
 
-Subsec. (a). Pub. L. 101–640, §318(c)(2), struck out “to undertake a demonstration program for a 2-year period, which shall begin within 6 months after the date of enactment of this Act,” after “The Secretary is authorized”.
+Subsec. (a). Pub. L. 101–640, §318(c)(2), struck out "to undertake a demonstration program for a 2-year period, which shall begin within 6 months after the date of enactment of this Act," after "The Secretary is authorized".
 
-Subsecs. (d), (e). Pub. L. 101–640, §318(c)(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Within 6 months after the end of the demonstration program authorized by this section, the Secretary shall submit to Congress a report on the results of such demonstration program.”
+Subsecs. (d), (e). Pub. L. 101–640, §318(c)(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "Within 6 months after the end of the demonstration program authorized by this section, the Secretary shall submit to Congress a report on the results of such demonstration program."
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under section 2201 of this title.
 

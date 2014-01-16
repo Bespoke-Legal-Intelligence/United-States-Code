@@ -26,9 +26,9 @@ In determining the nature and extent of action to be taken under chapter 1 of ti
 
 &emsp;Upon receiving a request under paragraph (1)(B), the International Trade Commission shall conduct an investigation to determine whether a surge in such imports undermines the effectiveness of the action. The International Trade Commission shall submit the findings of its investigation to the President no later than 30 days after the request is received by the International Trade Commission.
 
-#### (3) “Surge” defined
+#### (3) "Surge" defined
 
-&emsp;For purposes of this subsection, the term “surge” means a significant increase in imports over the trend for a recent representative base period.
+&emsp;For purposes of this subsection, the term "surge" means a significant increase in imports over the trend for a recent representative base period.
 
 #### (d) Condition applicable to quantitative restrictions
 

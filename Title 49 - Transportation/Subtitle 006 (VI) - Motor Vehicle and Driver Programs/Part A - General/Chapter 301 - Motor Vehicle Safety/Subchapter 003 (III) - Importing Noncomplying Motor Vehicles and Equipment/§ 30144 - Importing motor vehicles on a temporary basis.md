@@ -50,9 +50,9 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(h); added Oct. 31, 1988, Pu
 
 15:1397(h) (last sentence).
 
-In subsection (a)(1)(B), the word “importation” is substituted for “entry” for clarity and consistency in this chapter.
+In subsection (a)(1)(B), the word "importation" is substituted for "entry" for clarity and consistency in this chapter.
 
-In subsection (b), before clause (1), the words “that an individual is a member described under subsection (a) of this section” are substituted for “such status” for clarity. The word “imported” is substituted for “entered” for clarity and consistency in this chapter. In clause (2), the words “a member described under subsection (a) of this section” are substituted for “hold such status” for clarity.
+In subsection (b), before clause (1), the words "that an individual is a member described under subsection (a) of this section" are substituted for "such status" for clarity. The word "imported" is substituted for "entered" for clarity and consistency in this chapter. In clause (2), the words "a member described under subsection (a) of this section" are substituted for "hold such status" for clarity.
 
 #### Pub. L. 104–287
 
@@ -64,5 +64,5 @@ The International Organizations Immunities Act, referred to in subsec. (a)(1)(A)
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–287 substituted “International Organizations” for “International Organization”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–287 substituted "International Organizations" for "International Organization".
 

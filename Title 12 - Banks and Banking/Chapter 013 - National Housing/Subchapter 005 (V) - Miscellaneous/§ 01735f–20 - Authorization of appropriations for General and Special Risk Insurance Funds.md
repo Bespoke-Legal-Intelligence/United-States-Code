@@ -14,7 +14,7 @@ There are authorized to be appropriated such sums as may be necessary for each o
 
 #### References in Text
 
-Section 661a of title 2, referred to in pars. (1) to (3), was in the original “section 502 of the Congressional Budget Act”, which was translated as meaning “section 502 of the Congressional Budget Act of 1974” to reflect the probable intent of Congress.
+Section 661a of title 2, referred to in pars. (1) to (3), was in the original "section 502 of the Congressional Budget Act", which was translated as meaning "section 502 of the Congressional Budget Act of 1974" to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

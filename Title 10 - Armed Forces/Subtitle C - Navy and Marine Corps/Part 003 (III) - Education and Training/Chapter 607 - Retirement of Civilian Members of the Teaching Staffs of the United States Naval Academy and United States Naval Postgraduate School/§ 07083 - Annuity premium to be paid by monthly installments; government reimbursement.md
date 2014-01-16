@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Jan. 16, 1936, ch. 3, §2, 49 Stat. 1092.
 
-The words “Chief, Field Branch, Bureau of Supplies and Accounts” are substituted for the words “Navy Allotment Office, Navy Department, Washington, District of Columbia”, to designate the agency through which allotments are now made.
+The words "Chief, Field Branch, Bureau of Supplies and Accounts" are substituted for the words "Navy Allotment Office, Navy Department, Washington, District of Columbia", to designate the agency through which allotments are now made.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—National Council on Radiation Protection and Measurements (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—National Council on Radiation Protection and Measurements (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

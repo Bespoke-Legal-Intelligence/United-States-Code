@@ -94,7 +94,7 @@ Notwithstanding any other law of the United States (including section 207 of the
 
 #### (2) Exempt amount
 
-&emsp;For purposes of paragraph (1), the term “exempt amount” means an amount equal to—
+&emsp;For purposes of paragraph (1), the term "exempt amount" means an amount equal to—
 
 &emsp;&emsp;(A) the sum of—
 
@@ -144,13 +144,13 @@ Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1998” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting "calendar year 1998" for "calendar year 1992" in subparagraph (B) thereof.
 
 #### (2) Rounding
 
 &emsp;If any dollar amount after being increased under paragraph (1) is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 784; Pub. L. 85–840, title IV, §406, Aug. 28, 1958, 72 Stat. 1047; Pub. L. 89–44, title VIII, §812(a), June 21, 1965, 79 Stat. 170; Pub. L. 89–719, title I, §104(c), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 91–172, title IX, §945(a), Dec. 30, 1969, 83 Stat. 729; Pub. L. 94–455, title XII, §1209(a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1709, 1710, 1834; Pub. L. 97–248, title III, §347(a), Sept. 3, 1982, 96 Stat. 638; Pub. L. 98–369, div. B, title VI, §2661(o)(5), July 18, 1984, 98 Stat. 1159; Pub. L. 99–514, title XV, §1565(a), Oct. 22, 1986, 100 Stat. 2763; Pub. L. 100–647, title I, §1015(o), title VI, §6236(c), Nov. 10, 1988, 102 Stat. 3572, 3738; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–168, title V, §502(a)–(c), July 30, 1996, 110Stat. 1461; Pub. L. 104–193, title I, §110(l)(3), formerly §110(l)(6), Aug. 22, 1996, 110 Stat. 2173, renumbered and amended Pub. L. 105–33, title V, §5514(a)(2), (3), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title III, §312(d)(1), title X, §1025(a), Aug. 5, 1997, 111 Stat. 839, 924; Pub. L. 105–206, title III, §§3431(a)–(c), 3445(a), (b), July 22, 1998, 112 Stat. 758, 762, 763.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 784; Pub. L. 85–840, title IV, §406, Aug. 28, 1958, 72 Stat. 1047; Pub. L. 89–44, title VIII, §812(a), June 21, 1965, 79 Stat. 170; Pub. L. 89–719, title I, §104(c), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 91–172, title IX, §945(a), Dec. 30, 1969, 83 Stat. 729; Pub. L. 94–455, title XII, §1209(a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1709, 1710, 1834; Pub. L. 97–248, title III, §347(a), Sept. 3, 1982, 96 Stat. 638; Pub. L. 98–369, div. B, title VI, §2661(o)(5), July 18, 1984, 98 Stat. 1159; Pub. L. 99–514, title XV, §1565(a), Oct. 22, 1986, 100 Stat. 2763; Pub. L. 100–647, title I, §1015(o), title VI, §6236(c), Nov. 10, 1988, 102 Stat. 3572, 3738; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–168, title V, §502(a)–(c), July 30, 1996, 110 Stat. 1461; Pub. L. 104–193, title I, §110(l)(3), formerly §110(l)(6), Aug. 22, 1996, 110 Stat. 2173, renumbered and amended Pub. L. 105–33, title V, §5514(a)(2), (3), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title III, §312(d)(1), title X, §1025(a), Aug. 5, 1997, 111 Stat. 839, 924; Pub. L. 105–206, title III, §§3431(a)–(c), 3445(a), (b), July 22, 1998, 112 Stat. 758, 762, 763.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -168,61 +168,61 @@ The Job Training Partnership Act, referred to in subsec. (a)(12), is Pub. L. 97�
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–206, §3431(a), substituted “$6,250” for “$2,500”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–206, §3431(a), substituted "$6,250" for "$2,500".
 
-Subsec. (a)(3). Pub. L. 105–206, §3431(b), substituted “$3,125” for “$1,250”.
+Subsec. (a)(3). Pub. L. 105–206, §3431(b), substituted "$3,125" for "$1,250".
 
-Subsec. (a)(13). Pub. L. 105–206, §3445(a), amended heading and text of par. (13) generally. Prior to amendment, text read as follows: “Except to the extent provided in subsection (e), the principal residence of the taxpayer (within the meaning of section 121).”
+Subsec. (a)(13). Pub. L. 105–206, §3445(a), amended heading and text of par. (13) generally. Prior to amendment, text read as follows: "Except to the extent provided in subsection (e), the principal residence of the taxpayer (within the meaning of section 121)."
 
-Subsec. (e). Pub. L. 105–206, §3445(b), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Property described in subsection (a)(13) shall not be exempt from levy if—
+Subsec. (e). Pub. L. 105–206, §3445(b), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "Property described in subsection (a)(13) shall not be exempt from levy if—
 
-&emsp;“(1) a district director or assistant district director of the Internal Revenue Service personally approves (in writing) the levy of such property, or
+&emsp;"(1) a district director or assistant district director of the Internal Revenue Service personally approves (in writing) the levy of such property, or
 
-&emsp;“(2) the Secretary finds that the collection of tax is in jeopardy.”
+&emsp;"(2) the Secretary finds that the collection of tax is in jeopardy."
 
-Subsec. (g)(1). Pub. L. 105–206, §3431(c)(1), substituted “1999” for “1997” in introductory provisions.
+Subsec. (g)(1). Pub. L. 105–206, §3431(c)(1), substituted "1999" for "1997" in introductory provisions.
 
-Subsec. (g)(1)(B). Pub. L. 105–206, §3431(c)(2), substituted “1998” for “1996”.
+Subsec. (g)(1)(B). Pub. L. 105–206, §3431(c)(2), substituted "1998" for "1996".
 
 <b>1997</b>—Subsec. (a)(11)(A). Pub. L. 105–33, §5514(a)(3), made technical amendment to directory language of Pub. L. 104–193, §110(l)(3). See 1996 Amendment note below.
 
-Subsec. (a)(13). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
+Subsec. (a)(13). Pub. L. 105–34, §312(d)(1), substituted "section 121" for "section 1034".
 
 Subsecs. (f), (g). Pub. L. 105–34 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–168, §502(a), substituted “So” for “If the taxpayer is the head of a family, so”, “the taxpayer's household” for “his household”, and “$2,500” for “$1,650 ($1,550 in the case of levies issued during 1989)”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–168, §502(a), substituted "So" for "If the taxpayer is the head of a family, so", "the taxpayer's household" for "his household", and "$2,500" for "$1,650 ($1,550 in the case of levies issued during 1989)".
 
-Subsec. (a)(3). Pub. L. 104–168, §502(b), substituted “$1,250” for “$1,100 ($1,050 in the case of levies issued during 1989)”.
+Subsec. (a)(3). Pub. L. 104–168, §502(b), substituted "$1,250" for "$1,100 ($1,050 in the case of levies issued during 1989)".
 
-Subsec. (a)(11)(A). Pub. L. 104–193, §110(l)(3), formerly §110(l)(6), as renumbered and amended by Pub. L. 105–33, struck out “(relating to aid to families with dependent children)” after “title IV”.
+Subsec. (a)(11)(A). Pub. L. 104–193, §110(l)(3), formerly §110(l)(6), as renumbered and amended by Pub. L. 105–33, struck out "(relating to aid to families with dependent children)" after "title IV".
 
 Subsec. (f). Pub. L. 104–168, §502(c), added subsec. (f).
 
-<b>1991</b>—Subsec. (a)(6). Pub. L. 102–83 substituted “1562” for “562”.
+<b>1991</b>—Subsec. (a)(6). Pub. L. 102–83 substituted "1562" for "562".
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §6236(c)(1), substituted “$1,650 ($1,550 in the case of levies issued during 1989)” for “$1,500”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §6236(c)(1), substituted "$1,650 ($1,550 in the case of levies issued during 1989)" for "$1,500".
 
-Subsec. (a)(3). Pub. L. 100–647, §6236(c)(2), substituted “$1,100 ($1,050 in the case of levies issued during 1989)” for “$1,000”.
+Subsec. (a)(3). Pub. L. 100–647, §6236(c)(2), substituted "$1,100 ($1,050 in the case of levies issued during 1989)" for "$1,000".
 
-Subsec. (a)(10)(A). Pub. L. 100–647, §1015(o)(1), substituted “III, IV, V,” for “IV” and added “or” at end.
+Subsec. (a)(10)(A). Pub. L. 100–647, §1015(o)(1), substituted "III, IV, V," for "IV" and added "or" at end.
 
-Subsec. (a)(10)(B), (C). Pub. L. 100–647, §1015(o)(2), (3), redesignated subpar. (C) as (B) and substituted “13, 21, 23” for “21”, and struck out former subpar. (B), which read as follows: “subchapter I, II, or III of chapter 19 of such title 38, or”.
+Subsec. (a)(10)(B), (C). Pub. L. 100–647, §1015(o)(2), (3), redesignated subpar. (C) as (B) and substituted "13, 21, 23" for "21", and struck out former subpar. (B), which read as follows: "subchapter I, II, or III of chapter 19 of such title 38, or".
 
 Subsec. (a)(11) to (13). Pub. L. 100–647, §6236(c)(4)(A), added pars. (11) to (13).
 
 Subsec. (d)(1). Pub. L. 100–647, §6236(c)(3)(A), amended par. (1) generally, striking out after introductory provisions the following definition of exempt amount:
 
-&emsp;“(A) $75, plus
+&emsp;"(A) $75, plus
 
-&emsp;“(B) $25 for each individual who is specified in a written statement which is submitted to the person on whom notice of levy is served and which is verified in such manner as the Secretary shall prescribe by regulations and—
+&emsp;"(B) $25 for each individual who is specified in a written statement which is submitted to the person on whom notice of levy is served and which is verified in such manner as the Secretary shall prescribe by regulations and—
 
-&emsp;&emsp;“(i) over half of whose support for the payroll period was received from the taxpayer,
+&emsp;&emsp;"(i) over half of whose support for the payroll period was received from the taxpayer,
 
-&emsp;&emsp;“(ii) who is the spouse of the taxpayer, or who bears a relationship to the taxpayer specified in paragraphs (1) through (9) of section 152(a) (relating to definition of dependents), and
+&emsp;&emsp;"(ii) who is the spouse of the taxpayer, or who bears a relationship to the taxpayer specified in paragraphs (1) through (9) of section 152(a) (relating to definition of dependents), and
 
-&emsp;&emsp;“(iii) who is not a minor child of the taxpayer with respect to whom amounts are exempt from levy under subsection (a)(8) for the payroll period.
+&emsp;&emsp;"(iii) who is not a minor child of the taxpayer with respect to whom amounts are exempt from levy under subsection (a)(8) for the payroll period.
 
-> &emsp;For purposes of subparagraph (B)(ii) of the preceding sentence, ‘payroll period’ shall be substituted for ‘taxable year’ each place it appears in paragraph (9) of section 152(a).”
+> &emsp;For purposes of subparagraph (B)(ii) of the preceding sentence, 'payroll period' shall be substituted for 'taxable year' each place it appears in paragraph (9) of section 152(a)."
 
 Subsec. (d)(2), (3). Pub. L. 100–647, §6236(c)(3)(B), added par. (2) and redesignated former par. (2) as (3).
 
@@ -230,27 +230,27 @@ Subsec. (e). Pub. L. 100–647, §6236(c)(4)(B), added subsec. (e).
 
 <b>1986</b>—Subsec. (a)(10). Pub. L. 99–514 added par. (10).
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–369 inserted “(including section 207 of the Social Security Act)”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 inserted "(including section 207 of the Social Security Act)".
 
-<b>1982</b>—Subsec. (a)(2). Pub. L. 97–248, §347(a)(1), substituted “$1,500” for “$500”.
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–248, §347(a)(1), substituted "$1,500" for "$500".
 
-Subsec. (a)(3). Pub. L. 97–248, §347(a)(2), substituted “$1,000” for “$250”.
+Subsec. (a)(3). Pub. L. 97–248, §347(a)(2), substituted "$1,000" for "$250".
 
-Subsec. (d)(1)(A). Pub. L. 97–248, §347(a)(3)(A), substituted “$75” for “$50”.
+Subsec. (d)(1)(A). Pub. L. 97–248, §347(a)(3)(A), substituted "$75" for "$50".
 
-Subsec. (d)(1)(B). Pub. L. 97–248, §347(a)(3)(B), substituted “$25” for “$15”.
+Subsec. (d)(1)(B). Pub. L. 97–248, §347(a)(3)(B), substituted "$25" for "$15".
 
-<b>1976</b>—Subsec. (a)(8). Pub. L. 94–455, §1209(c), substituted “Judgments for support of minor children” for “Salary, wages, or other income” in heading.
+<b>1976</b>—Subsec. (a)(8). Pub. L. 94–455, §1209(c), substituted "Judgments for support of minor children" for "Salary, wages, or other income" in heading.
 
 Subsec. (a)(9). Pub. L. 94–455, §1209(a), added par. (9).
 
-Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (d). Pub. L. 94–455, §1209(b), added subsec. (d).
 
 <b>1969</b>—Subsec. (a)(8). Pub. L. 91–172 added par. (8).
 
-<b>1966</b>—Subsec. (a)(4). Pub. L. 89–719, §104(c)(1), struck out “or Territory” after “of any State”.
+<b>1966</b>—Subsec. (a)(4). Pub. L. 89–719, §104(c)(1), struck out "or Territory" after "of any State".
 
 Subsec. (a)(6), (7). Pub. L. 89–719, §104(c)(2), added pars. (6) and (7).
 
@@ -264,15 +264,15 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3431(d), July 22, 1998, 112 Stat. 758, provided that: “The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3431(d), July 22, 1998, 112 Stat. 758, provided that: "The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after the date of the enactment of this Act \[July 22, 1998\]."
 
-Pub. L. 105–206, title III, §3445(d), July 22, 1998, 112 Stat. 763, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3445(d), July 22, 1998, 112 Stat. 763, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Effective Date of 1997 Amendments
 
 Amendment by section 312(d)(1) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Pub. L. 105–34, title X, §1025(b), Aug. 5, 1997, 111 Stat. 924, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to levies issued after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1025(b), Aug. 5, 1997, 111 Stat. 924, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to levies issued after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 Amendment by Pub. L. 105–33 effective as if included in section 110 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 110 became law, see section 5518(c) of Pub. L. 105–33, set out as a note under section 51 of this title.
 
@@ -280,7 +280,7 @@ Amendment by Pub. L. 105–33 effective as if included in section 110 of the Per
 
 Amendment by section 110(l)(3) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
-Pub. L. 104–168, title V, §502(d), July 30, 1996, 110 Stat. 1461, provided that: “The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after December 31, 1996.”
+Pub. L. 104–168, title V, §502(d), July 30, 1996, 110 Stat. 1461, provided that: "The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after December 31, 1996."
 
 #### Effective Date of 1988 Amendment
 
@@ -290,7 +290,7 @@ Amendment by section 6236(c) of Pub. L. 100–647 applicable to levies issued on
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XV, §1565(b), Oct. 22, 1986, 100 Stat. 2763, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts payable after December 31, 1986.”
+Pub. L. 99–514, title XV, §1565(b), Oct. 22, 1986, 100 Stat. 2763, provided that: "The amendment made bythis section \[amending this section\] shall apply to amounts payable after December 31, 1986."
 
 #### Effective Date of 1984 Amendment
 
@@ -298,15 +298,15 @@ Amendment by Pub. L. 98–369 effective as though included in the enactment of t
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title III, §347(b), Sept. 3, 1982, 96 Stat. 638, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to levies made after December 31, 1982.”
+Pub. L. 97–248, title III, §347(b), Sept. 3, 1982, 96 Stat. 638, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to levies made after December 31, 1982."
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XII, §1209(e), Oct. 4, 1976, 90 Stat. 1711, as amended by Pub. L. 94–528, §2(c), Oct. 17, 1976, 90 Stat. 2483, provided that: “The amendments made by this section \[amending this section and sections 6331 and 6332 of this title\] shall apply only with respect to levies made after February 28, 1977.”
+Pub. L. 94–455, title XII, §1209(e), Oct. 4, 1976, 90 Stat. 1711, as amended by Pub. L. 94–528, §2(c), Oct. 17, 1976, 90 Stat. 2483, provided that: "The amendments made by this section \[amending this section and sections 6331 and 6332 of this title\] shall apply only with respect to levies made after February 28, 1977."
 
 #### Effective Date of 1969 Amendment
 
-Pub. L. 91–172, title IX, §945(b), Dec. 30, 1969, 83 Stat. 729, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to levies made 30 days or more after the date of the enactment of this Act \[Dec. 30, 1969\].”
+Pub. L. 91–172, title IX, §945(b), Dec. 30, 1969, 83 Stat. 729, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to levies made 30 days or more after the date of the enactment of this Act \[Dec. 30, 1969\]."
 
 #### Effective Date of 1966 Amendment
 
@@ -314,7 +314,7 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 #### Effective Date of 1965 Amendment
 
-Pub. L. 89–44, title VIII, §812(b), June 21, 1965, 79 Stat. 170, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[June 21, 1965\].”
+Pub. L. 89–44, title VIII, §812(b), June 21, 1965, 79 Stat. 170, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[June 21, 1965\]."
 
 #### Transfer of Functions
 
@@ -324,13 +324,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 105–206, title III, §3445(c), July 22, 1998, 112 Stat. 763, provided that:
 
-“(1)
+"(1)
 
-In general.—With respect to permits issued by a State and required under State law for the harvest of fish or wildlife in the trade or business of an individual taxpayer, the term ‘other assets’ as used in section 6334(e)(2) of the Internal Revenue Code of 1986 shall include future income which may be derived by such taxpayer from the commercial sale of fish or wildlife under such permit.
+In general.—With respect to permits issued by a State and required under State law for the harvest of fish or wildlife in the trade or business of an individual taxpayer, the term 'other assets' as used in section 6334(e)(2) of the Internal Revenue Code of 1986 shall include future income which may be derived by such taxpayer from the commercial sale of fish or wildlife under such permit.
 
-“(2)
+"(2)
 
-Construction.—Paragraph (1) shall not be construed to invalidate or in any way prejudice any assertion that the privilege embodied in permits described in paragraph (1) is not property or a right to property under the Internal Revenue Code of 1986.”
+Construction.—Paragraph (1) shall not be construed to invalidate or in any way prejudice any assertion that the privilege embodied in permits described in paragraph (1) is not property or a right to property under the Internal Revenue Code of 1986."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

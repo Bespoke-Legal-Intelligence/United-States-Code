@@ -20,5 +20,5 @@ No provision of this chapter impairs or affects lands and interests in land entr
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–362 substituted “Nothing” for “Except as expressly provided in section 1752(b) of this title, nothing”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–362 substituted "Nothing" for "Except as expressly provided in section 1752(b) of this title, nothing".
 

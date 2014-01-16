@@ -8,9 +8,9 @@ The transportation and reimbursement authorized by subsection (b) of section 476
 
 <b>2013</b>—Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
 
-<b>2011</b>—Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted “476” for “406” in two places.
+<b>2011</b>—Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted "476" for "406" in two places.
 
-<b>1982</b>—Pub. L. 97–295 struck out “, United States Code,” after “title 37” first time appearing, and “, United States Code” after “title 37” second time appearing.
+<b>1982</b>—Pub. L. 97–295 struck out ", United States Code," after "title 37" first time appearing, and ", United States Code" after "title 37" second time appearing.
 
 #### Effective Date of 2013 Amendment
 

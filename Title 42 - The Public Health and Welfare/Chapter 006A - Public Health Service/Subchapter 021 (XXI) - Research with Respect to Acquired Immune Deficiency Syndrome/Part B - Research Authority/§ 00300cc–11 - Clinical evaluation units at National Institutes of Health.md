@@ -32,5 +32,5 @@ A prior section 300cc–11, act July 1, 1944, §2312, was successively renumbere
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–43 inserted before semicolon at end “, including evaluations of methods of diagnosing immune deficiency and evaluations of methods of predicting, diagnosing, preventing, and treating opportunistic cancers and infectious diseases”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–43 inserted before semicolon at end ", including evaluations of methods of diagnosing immune deficiency and evaluations of methods of predicting, diagnosing, preventing, and treating opportunistic cancers and infectious diseases".
 

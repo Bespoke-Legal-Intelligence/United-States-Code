@@ -22,11 +22,11 @@ Administration.—(1) Transportation may be provided to veterans under this sect
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65, §1066(a)(24)(A), struck out “, United States Code,” after “title 38”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65, §1066(a)(24)(A), struck out ", United States Code," after "title 38".
 
-Subsec. (d). Pub. L. 106–65, §1066(a)(24)(B), struck out heading and text of subsec. (d). Text read as follows: “In this section:
+Subsec. (d). Pub. L. 106–65, §1066(a)(24)(B), struck out heading and text of subsec. (d). Text read as follows: "In this section:
 
-&emsp;“(1) The term ‘veteran’ has the meaning given that term in section 101(2) of title 38, United States Code.
+&emsp;"(1) The term 'veteran' has the meaning given that term in section 101(2) of title 38, United States Code.
 
-&emsp;“(2) The term ‘hospital care’ has the meaning given that term in section 1701(5) of title 38, United States Code.”
+&emsp;"(2) The term 'hospital care' has the meaning given that term in section 1701(5) of title 38, United States Code."
 

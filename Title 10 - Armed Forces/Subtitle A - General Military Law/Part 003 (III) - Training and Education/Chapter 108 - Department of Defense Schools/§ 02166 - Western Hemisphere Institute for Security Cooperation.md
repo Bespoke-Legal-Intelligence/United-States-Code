@@ -2,13 +2,13 @@
 
 (a)
 
-Establishment and Administration.—(1) The Secretary of Defense may operate an education and training facility for the purpose set forth in subsection (b). The facility shall be known as the “Western Hemisphere Institute for Security Cooperation”.
+Establishment and Administration.—(1) The Secretary of Defense may operate an education and training facility for the purpose set forth in subsection (b). The facility shall be known as the "Western Hemisphere Institute for Security Cooperation".
 
 (2) The Secretary may designate the Secretary of a military department as the Department of Defense executive agent for carrying out the responsibilities of the Secretary of Defense under this section.
 
 (b)
 
-Purpose.—The purpose of the Institute is to provide professional education and training to eligible personnel of nations of the Western Hemisphere within the context of the democratic principles set forth in the Charter of the Organization of American States (such charter being a treaty to which the United States is a party), while fostering mutual knowledge, transparency, confidence, and cooperation among the participating nations and promoting democratic values, respect for human rights, and knowledgeand understanding of United States customs and traditions.
+Purpose.—The purpose of the Institute is to provide professional education and training to eligible personnel of nations of the Western Hemisphere within the context of the democratic principles set forth in the Charter of the Organization of American States (such charter being a treaty to which the United States is a party), while fostering mutual knowledge, transparency, confidence, and cooperation among the participating nations and promoting democratic values, respect for human rights, and knowledge and understanding of United States customs and traditions.
 
 (c)
 
@@ -118,11 +118,11 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(9), is Pub. L. 92
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e)(1)(F). Pub. L. 110–181 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “The commander of the unified combatant command having geographic responsibility for Latin America, or a designee of that officer.”
+<b>2008</b>—Subsec. (e)(1)(F). Pub. L. 110–181 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "The commander of the unified combatant command having geographic responsibility for Latin America, or a designee of that officer."
 
 <b>2002</b>—Subsecs. (f) to (h). Pub. L. 107–314, §932(a), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-Subsec. (i). Pub. L. 107–314, §932(a)(1), (b), redesignated subsec. (h) as (i) and inserted after first sentence “The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board's report.”
+Subsec. (i). Pub. L. 107–314, §932(a)(1), (b), redesignated subsec. (h) as (i) and inserted after first sentence "The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board's report."
 
-<b>2001</b>—Subsec. (e)(9). Pub. L. 107–107 substituted “(5 U.S.C. App.)” for “(5 U.S.C. App. 2)”.
+<b>2001</b>—Subsec. (e)(9). Pub. L. 107–107 substituted "(5 U.S.C. App.)" for "(5 U.S.C. App. 2)".
 

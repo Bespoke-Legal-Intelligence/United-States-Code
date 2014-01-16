@@ -22,17 +22,17 @@ Rule of Construction.—No provision of this subchapter shall be construed as al
 
 Pub. L. 109–347, title VIII, §803, Oct. 13, 2006, 120 Stat. 1962, provided that:
 
-“(a)
+"(a)
 
 In General.—In deliberations between the United States Government and any foreign country on money laundering, corruption, and crime issues, the United States Government should—
 
-&emsp;“(1) encourage cooperation by foreign governments and relevant international fora in identifying whether Internet gambling operations are being used for money laundering, corruption, or other crimes;
+&emsp;"(1) encourage cooperation by foreign governments and relevant international fora in identifying whether Internet gambling operations are being used for money laundering, corruption, or other crimes;
 
-&emsp;“(2) advance policies that promote the cooperation of foreign governments, through information sharing or other measures, in the enforcement of this Act \[probably means title VIII of Pub. L. 109–347, which enacted this subchapter, see Short Title of 2006 Amendment note set out under section 5301 of this title\]; and
+&emsp;"(2) advance policies that promote the cooperation of foreign governments, through information sharing or other measures, in the enforcement of this Act \[probably means title VIII of Pub. L. 109–347, which enacted this subchapter, see Short Title of 2006 Amendment note set out under section 5301 of this title\]; and
 
-&emsp;“(3) encourage the Financial Action Task Force on Money Laundering, in its annual report on money laundering typologies, to study the extent to which Internet gambling operations are being used for money laundering purposes.
+&emsp;"(3) encourage the Financial Action Task Force on Money Laundering, in its annual report on money laundering typologies, to study the extent to which Internet gambling operations are being used for money laundering purposes.
 
-“(b)
+"(b)
 
-Report Required.—The Secretary of the Treasury shall submit an annual report to the Congress on any deliberations between the United States and other countries on issues relating to Internet gambling.”
+Report Required.—The Secretary of the Treasury shall submit an annual report to the Congress on any deliberations between the United States and other countries on issues relating to Internet gambling."
 

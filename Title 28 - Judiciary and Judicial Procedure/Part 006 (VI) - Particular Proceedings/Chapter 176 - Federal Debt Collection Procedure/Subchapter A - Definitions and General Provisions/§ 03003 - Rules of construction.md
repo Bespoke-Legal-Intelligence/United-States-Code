@@ -4,9 +4,9 @@
 
 Terms.—For purposes of this chapter—
 
-&emsp;(1) the terms “includes” and “including” are not limiting;
+&emsp;(1) the terms "includes" and "including" are not limiting;
 
-&emsp;(2) the term “or” is not exclusive; and
+&emsp;(2) the term "or" is not exclusive; and
 
 &emsp;(3) the singular includes the plural.
 

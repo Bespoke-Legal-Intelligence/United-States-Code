@@ -8,9 +8,9 @@
 
 #### Codification
 
-In subsec. (a), “sections 9304–9308 of title 31” substituted for “the Act of July 30, 1947 (6 U.S.C. 6–13)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a), "sections 9304–9308 of title 31" substituted for "the Act of July 30, 1947 (6 U.S.C. 6–13)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–216 substituted “to provide protection against loss by reason of act of fraud or dishonesty on his part directly or through connivance with others” for “for the faithful discharge of his duties” in first sentence and inserted proviso allowing Secretary to permit other arrangements to provide necessary protection.
+<b>1965</b>—Subsec. (a). Pub. L. 89–216 substituted "to provide protection against loss by reason of act of fraud or dishonesty on his part directly or through connivance with others" for "for the faithful discharge of his duties" in first sentence and inserted proviso allowing Secretary to permit other arrangements to provide necessary protection.
 

@@ -38,13 +38,13 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;(A) if—
 
-&emsp;&emsp;(i) the amount of the changes of the type described in paragraph (1) of such subsectionrecommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under such paragraph by more than <sup>1</sup>
+&emsp;&emsp;(i) the amount of the changes of the type described in paragraph (1) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than—
 
 &emsp;&emsp;&emsp;(I) in the Senate, 20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; or
 
 &emsp;&emsp;&emsp;(II) in the House of Representatives, 20 percent of the sum of the absolute value of the changes the committee was directed to make under paragraph (1) and the absolute value of the changes the committee was directed to make under paragraph (2); and
 
-&emsp;&emsp;(ii) the amount of the changes of the type described in paragraph (2) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than <sup>1</sup>
+&emsp;&emsp;(ii) the amount of the changes of the type described in paragraph (2) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than—
 
 &emsp;&emsp;&emsp;(I) in the Senate, 20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; or
 
@@ -76,7 +76,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 (1) Except as provided in paragraph (2), the provisions of section 636 of this title for the consideration in the Senate of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration in the Senate of reconciliation bills reported under subsection (b) of this section and conference reports thereon.
 
-(2) Debate in the Senate on any reconciliation bill reported under subsection (b) of this section,and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours.
+(2) Debate in the Senate on any reconciliation bill reported under subsection (b) of this section, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours.
 
 #### (f) Completion of reconciliation process
 
@@ -84,9 +84,9 @@ It shall not be in order in the House of Representatives to consider any resolut
 
 #### (g) Limitation on changes to Social Security Act
 
-Notwithstanding any other provision of law, it shall not be in order in the Senate or the House of Representatives to consider any reconciliation bill or reconciliation resolution reported pursuant to a concurrent resolution on the budget agreed to under section 632 or 635 of this title, or a joint resolution pursuant to section 907d of this title, or any amendment thereto or conference report thereon, that contains recommendations with respect to the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42 U.S.C. 401 et seq.\].
+Notwithstanding any other provision of law, it shall not be in order in the Senate or the House of Representatives to consider any reconciliation bill or reconciliation resolution reported pursuant to a concurrent resolution on the budget agreed to under section 632 or 635 of this title, or a joint resolution pursuant to section907d of this title, or any amendment thereto or conference report thereon, that contains recommendations with respect to the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42 U.S.C. 401 et seq.\].
 
-(Pub. L. 93–344, title III, §310, July 12, 1974, 88 Stat. 315; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1053; Pub. L. 101–508, title XIII, §§13112(a)(9), 13207(c), (d), 13210(2), Nov. 5, 1990, 104 Stat. 1388–608, 1388–618 to 1388–620; Pub. L. 105–33, title X, §10111, Aug. 5, 1997, 111 Stat. 685.)
+(Pub. L. 93–344, title III, §310, July 12, 1974, 88 Stat. 315; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1053; Pub. L. 101–508, title XIII, §§13112(a)(9), 13207(c), (d), 13210(2), Nov. 5, 1990, 104 Stat. 1388–608, 1388–618 to 1388–620; Pub. L. 105–33, title X, §10111, Aug. 5, 1997, 111 Stat. 685; Pub. L. 113–67, div. A, title I, §122(9), Dec. 26, 2013, 127 Stat. 1175.)
 
 #### References in Text
 
@@ -97,6 +97,10 @@ The Social Security Act, referred to in subsec. (g), is act Aug. 14, 1935, ch. 5
 Section was formerly classified to section 1331 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(1)(A)(i). Pub. L. 113–67, which directed amendment of cl. (i) by substituting “under that paragraph by more than—” for “under that paragraph by more than”, was executed by making the substitution for “under such paragraph by more than” to reflect the probable intent of Congress.
+
+Subsec. (c)(1)(A)(ii). Pub. L. 113–67 substituted “under that paragraph by more than—” for “under that paragraph by more than”.
 
 <b>1997</b>—Subsec. (c)(1)(A)(i). Pub. L. 105–33, §10111(1), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and”.
 
@@ -129,6 +133,4 @@ Subsec. (g). Pub. L. 99–177, in amending section generally, added subsec. (g).
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (d), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “than—”.</i>
 

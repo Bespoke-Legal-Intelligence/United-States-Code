@@ -36,5 +36,5 @@ Sept. 2, 1958, Pub. L. 85–870, §7, 72 Stat. 1692; Nov. 11, 1977, Pub. L. 95�
 
 Sept. 2, 1958, Pub. L. 85–870, §8, 72 Stat. 1693.
 
-In subsection (a), the text of 36:887(a) is omitted as executed and obsolete. In paragraph (1), the word “governing” is substituted for “managing” for consistency in the revised title.
+In subsection (a), the text of 36:887(a) is omitted as executed and obsolete. In paragraph (1), the word "governing" is substituted for "managing" for consistency in the revised title.
 

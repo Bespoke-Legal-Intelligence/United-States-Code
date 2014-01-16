@@ -8,7 +8,7 @@
 
 &emsp;(A) provide public and patient information and education programs, providing information that will help individuals take personal steps to reduce their risk of cancer, to make them aware of early detection techniques and to motivate appropriate utilization of those techniques, to help individuals deal with cancer if it strikes, and to provide information to improve long-term survival;
 
-&emsp;(B) continue and expand programs to provide physicians and the public with state-of-the-art information on the treatment of particular forms of cancers, and to identify those clinical trials that might benefit patients while advancing knowledge of cancer treatment;
+&emsp;(B) continue and expand programs to provide physicians and the public with state-of-the-art information on the treatment of particularforms of cancers, and to identify those clinical trials that might benefit patients while advancing knowledge of cancer treatment;
 
 &emsp;(C) assess the incorporation of state-of-the-art cancer treatments into clinical practice and the extent to which cancer patients receive such treatments and include the results of such assessments in the biennial reports required under section 284b <sup>1</sup> of this title;
 
@@ -42,7 +42,7 @@ The Director of the Institute in carrying out the National Cancer Program—
 
 &emsp;(9) shall, notwithstanding section 284(a) of this title, prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for the National Cancer Program, after reasonable opportunity for comment (but without change) by the Secretary, the Director of NIH, and the Institute's advisory council.
 
-> Except as otherwise provided, experts and consultants whose services are obtained under paragraph (5) shall be paid or reimbursed, in accordance with title 5 for their travel to and from their place of service and for other expenses associated with their assignment. Such expensesshall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (5) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasons which are beyond the control of the expert or consultant and which are acceptable to the Director of the Institute. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt due the United States. The Secretary may waive in whole or in part a right of recovery under the preceding sentence.
+> Except as otherwise provided, experts and consultants whose services are obtained under paragraph (5) shall be paid or reimbursed, in accordance with title 5 for their travel to and from their place of service and for other expenses associated with their assignment. Such expenses shall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (5) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasons which are beyond the control of the expert or consultant and which are acceptable to the Director of the Institute. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt due the United States. The Secretary may waive in whole or in part a right of recovery under the preceding sentence.
 
 #### (c) Pre-clinical models to evaluate promising pediatric cancer therapies
 
@@ -54,7 +54,7 @@ The Director of the Institute in carrying out the National Cancer Program—
 
 &emsp;The Director of the Institute shall coordinate the activities under paragraph (1) with similar activities conducted by other national research institutes and agencies of the National Institutes of Health to the extent that those Institutes and agencies have responsibilities that are related to pediatric cancer.
 
-(July 1, 1944, ch. 373, title IV, §413, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 833; amended Pub. L. 100–607, title I, §122, Nov. 4, 1988, 102 Stat. 3054; Pub. L. 101–93, §5(c), Aug. 16, 1989, 103 Stat. 611; Pub. L. 103–43, title III, §301(a)(2), June 10, 1993, 107 Stat. 150; Pub. L. 107–109, §15(b), Jan. 4, 2002, 115 Stat. 1420.)
+(July 1, 1944, ch. 373, title IV, §413, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 833; amendedPub. L. 100–607, title I, §122, Nov. 4, 1988, 102 Stat. 3054; Pub. L. 101–93, §5(c), Aug. 16, 1989, 103 Stat. 611; Pub. L. 103–43, title III, §301(a)(2), June 10, 1993, 107 Stat. 150; Pub. L. 107–109, §15(b), Jan. 4, 2002, 115 Stat. 1420.)
 
 #### References in Text
 
@@ -62,9 +62,9 @@ Section 284b of this title, referred to in subsec. (a)(2)(C), was repealed by Pu
 
 #### Codification
 
-In subsec. (b)(6)(C), “section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b)(6)(C), "section 8141 of title 40" substituted for "the Act of March 3, 1877 (40 U.S.C. 34)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-In subsec. (b)(8), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(8), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
@@ -72,13 +72,13 @@ In subsec. (b)(8), “section 6101 of title 41” substituted for “section 370
 
 <b>1993</b>—Subsec. (b)(9). Pub. L. 103–43 struck out subpar. (A) designation and subpar. (B) which permitted Director to receive from President and Office of Management and Budget directly all funds appropriated by Congress for obligation and expenditure by Institute.
 
-<b>1989</b>—Subsec. (a)(1). Pub. L. 101–93 substituted “Institute and” for “Institute and and”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–93 substituted "Institute and" for "Institute and and".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–607, §122(1), designated existing provisions as par. (1), substituted “education program” for “education center”, inserted “and the public and between the Institute and” after “between the Institute”, and added par. (2).
+<b>1988</b>—Subsec. (a). Pub. L. 100–607, §122(1), designated existing provisions as par. (1), substituted "education program" for "education center", inserted "and the public and between the Institute and" after "between the Institute", and added par. (2).
 
-Subsec. (b)(5). Pub. L. 100–607, §122(2)(A), substituted “after consultation with” for “with the approval of”.
+Subsec. (b)(5). Pub. L. 100–607, §122(2)(A), substituted "after consultation with" for "with the approval of".
 
-Subsec. (b)(8) to (10). Pub. L. 100–607, §122(2)(B), inserted “and” after “or educational institution;” in par. (8), redesignated par. (10) as (9), and struck out former par. (9) which related to International Cancer Research Data Bank.
+Subsec. (b)(8) to (10). Pub. L. 100–607, §122(2)(B), inserted "and" after "or educational institution;" in par. (8), redesignated par. (10) as (9), and struck out former par. (9) which related to International Cancer Research Data Bank.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

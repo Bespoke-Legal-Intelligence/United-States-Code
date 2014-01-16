@@ -44,13 +44,13 @@ Amendment by Pub. L. 96–481 effective Oct. 1, 1981, and applicable to adversar
 
 #### Termination of Administrative Conference of United States
 
-For termination of Administrative Conference of United States, see provision of title IV of Pub. L.104–52, set out as a note preceding section 591 of Title 5, Government Organization and Employees.
+For termination of Administrative Conference of United States, see provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of Title 5, Government Organization and Employees.
 
 #### Advocacy Study of Paperwork and Tax Impact
 
 Pub. L. 103–403, title VI, §613, Oct. 22, 1994, 108 Stat. 4205, directed Chief Counsel for Advocacy of the Small Business Administration to conduct a study of the impact of all Federal regulatory, paperwork, and tax requirements upon small business, and report its findings to Congress not later than 1 year after Oct. 22, 1994.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “compete”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "compete".</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 

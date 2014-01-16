@@ -112,7 +112,7 @@ Innocent Owner Defense.—
 
 &emsp;(1) An innocent owner's interest in property shall not be forfeited under any civil forfeiture statute. The claimant shall have the burden of proving that the claimant is an innocent owner by a preponderance of the evidence.
 
-&emsp;(2)(A) With respect to a property interest in existence at the time the illegal conduct giving rise to forfeiture took place, the term “innocent owner” means an owner who—
+&emsp;(2)(A) With respect to a property interest in existence at the time the illegal conduct giving rise to forfeiture took place, the term "innocent owner" means an owner who—
 
 &emsp;&emsp;(i) did not know of the conduct giving rise to forfeiture; or
 
@@ -126,7 +126,7 @@ Innocent Owner Defense.—
 
 &emsp;(ii) A person is not required by this subparagraph to take steps that the person reasonably believes would be likely to subject any person (other than the person whose conduct gave rise to the forfeiture) to physical danger.
 
-&emsp;(3)(A) With respect to a property interest acquired after the conduct giving rise to the forfeiture has taken place, the term “innocent owner” means a person who, at the time that person acquired the interest in the property—
+&emsp;(3)(A) With respect to a property interest acquired after the conduct giving rise to the forfeiture has taken place, the term "innocent owner" means a person who, at the time that person acquired the interest in the property—
 
 &emsp;&emsp;(i) was a bona fide purchaser or seller for value (including a purchaser or seller of goods or services for value); and
 
@@ -154,7 +154,7 @@ Innocent Owner Defense.—
 
 &emsp;&emsp;(C) permitting the innocent owner to retain the property subject to a lien in favor of the Government to the extent of the forfeitable interest in the property.
 
-&emsp;(6) In this subsection, the term “owner”—
+&emsp;(6) In this subsection, the term "owner"—
 
 &emsp;&emsp;(A) means a person with an ownership interest in the specific property sought to be forfeited, including a leasehold, lien, mortgage, recorded security interest, or valid assignment of an ownership interest; and
 
@@ -274,7 +274,7 @@ Civil Fine.—
 
 (i)
 
-Civil Forfeiture Statute Defined.—In this section, the term “civil forfeiture statute”—
+Civil Forfeiture Statute Defined.—In this section, the term "civil forfeiture statute"—
 
 &emsp;(1) means any provision of Federal law providing for the forfeiture of property other than as a sentence imposed upon conviction of a criminal offense; and
 
@@ -332,11 +332,11 @@ The Federal Rules of Evidence, referred to in subsec. (j)(4), are set out in the
 
 #### Amendments
 
-<b>2009</b>—Subsec. (j)(3). Pub. L. 111–16 substituted “14 days” for “10 days”.
+<b>2009</b>—Subsec. (j)(3). Pub. L. 111–16 substituted "14 days" for "10 days".
 
-<b>2001</b>—Subsec. (i)(2)(D). Pub. L. 107–56 inserted “or the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.)” before semicolon.
+<b>2001</b>—Subsec. (i)(2)(D). Pub. L. 107–56 inserted "or the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.)" before semicolon.
 
-<b>2000</b>—Subsec. (a)(2)(C)(ii). Pub. L. 106–561 struck out “(and provide customary documentary evidence of such interest if available) and state that the claim is not frivolous” after “such property”.
+<b>2000</b>—Subsec. (a)(2)(C)(ii). Pub. L. 106–561 struck out "(and provide customary documentary evidence of such interest if available) and state that the claim is not frivolous" after "such property".
 
 Subsec. (j). Pub. L. 106–185, §9, added subsec. (j).
 
@@ -346,7 +346,7 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–561, §3(b), Dec. 21, 2000, 114 Stat. 2791, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendment made by section 2(a) of Public Law 106–185.”
+Pub. L. 106–561, §3(b), Dec. 21, 2000, 114 Stat. 2791, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the amendment made by section 2(a) of Public Law 106–185."
 
 #### Effective Date
 

@@ -38,31 +38,53 @@ Limits on internet publication of registration information.—A State, Indian tr
 
 (e)
 
-Tribal Court Jurisdiction.—For purposes of this section, a tribal court shall have full civil jurisdiction to enforce protection orders, including authority to enforce any orders through civil contempt proceedings, exclusion of violators from Indian lands, and other appropriate mechanisms, in matters arising within the authority of the tribe.
+Tribal Court Jurisdiction.—For purposes of this section, a court of an Indian tribe shall have full civil jurisdiction to issue and enforce protection orders involving any person, including the authority to enforce any orders through civil contempt proceedings, to exclude violators from Indian land, and to use other appropriate mechanisms, in matters arising anywhere in the Indian country of the Indian tribe (as defined in section 1151) or otherwise within the authority of the Indian tribe.
 
-(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1930; amended Pub. L. 106–386, div. B, title I, §1101(b)(4), Oct. 28, 2000, 114 Stat. 1493; Pub. L. 109–162, title I, §106(a)–(c), Jan. 5, 2006, 119 Stat. 2981, 2982; Pub. L. 109–271, §2(n), Aug. 12, 2006, 120 Stat. 754.)
+(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1930; amended Pub. L. 106–386, div. B, title I, §1101(b)(4), Oct. 28, 2000, 114 Stat. 1493; Pub. L. 109–162, title I, §106(a)–(c), Jan. 5, 2006, 119 Stat. 2981, 2982; Pub. L. 109–271, §2(n), Aug. 12, 2006, 120 Stat. 754; Pub. L. 113–4, title IX, §905, Mar. 7, 2013, 127 Stat. 124.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–162, §106(a)(1), (b), substituted “, Indian tribe, or territory” for “or Indian tribe” wherever appearing and “and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory as if it were” for “and enforced as if it were”.
+<b>2013</b>—Subsec. (e). Pub. L. 113–4 added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "For purposes of this section, a tribal court shall have full civil jurisdiction to enforce protection orders, including authority to enforce any orders through civil contempt proceedings, exclusion of violators from Indian lands, and other appropriate mechanisms, in matters arising within the authority of the tribe."
 
-Subsec. (b). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §106(a)(1), (b), substituted ", Indian tribe, or territory" for "or Indian tribe" wherever appearing and "and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory as if it were" for "and enforced as if it were".
 
-Subsec. (b)(1). Pub. L. 109–162, §106(a)(1), substituted “, Indian tribe, or territory” for “or Indian tribe”.
+Subsec. (b). Pub. L. 109–162, §106(a)(2), substituted "State, tribal, or territorial" for "State or tribal" in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
+Subsec. (b)(1). Pub. L. 109–162, §106(a)(1), substituted ", Indian tribe, or territory" for "or Indian tribe".
 
-Subsec. (c). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
+Subsec. (b)(2). Pub. L. 109–162, §106(a)(2), substituted "State, tribal, or territorial" for "State or tribal".
 
-Subsec. (d)(1). Pub. L. 109–162, §106(a), substituted “, Indian tribe, or territory” for “or Indian tribe” intwo places and “State, tribal, or territorial” for “State or tribal”.
+Subsec. (c). Pub. L. 109–162, §106(a)(2), substituted "State, tribal, or territorial" for "State or tribal" in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
+Subsec. (d)(1). Pub. L. 109–162, §106(a), substituted ", Indian tribe, or territory" for "or Indian tribe" in two places and "State, tribal, or territorial" for "State or tribal".
 
-Subsec. (d)(3). Pub. L. 109–271, which directed amendment of section 106(c) of Pub. L. 109–162 by substituting “the registration, filing of a petition for, or issuance of a protection order, restraining order or injunction” for “the registration or filing of a protection order”, was executed by making the substitution in par. (3), which was added by section 106(c) of Pub. L. 109–162, to reflect the probable intent of Congress.
+Subsec. (d)(2). Pub. L. 109–162, §106(a)(2), substituted "State, tribal, or territorial" for "State or tribal".
+
+Subsec. (d)(3). Pub. L. 109–271, which directed amendment of section 106(c) of Pub. L. 109–162 by substituting "the registration, filing of a petition for, or issuance of a protection order, restraining order or injunction" for "the registration or filing of a protection order", was executed by making the substitution in par. (3), which was added by section 106(c) of Pub. L. 109–162, to reflect the probable intent of Congress.
 
 Pub. L. 109–162, §106(c), added par. (3).
 
 <b>2000</b>—Subsecs. (d), (e). Pub. L. 106–386 added subsecs. (d) and (e).
+
+#### Special Rule for the State of Alaska
+
+Pub. L. 113–4, title IX, §910, Mar. 7, 2013, 127 Stat. 126, provided that:
+
+"(a)
+
+Expanded Jurisdiction.—In the State of Alaska, the amendments made by sections 904 and 905 \[enacting section 1304 of Title 25, Indians, and amending this section, respectively\] shall only apply to the Indian country (as defined in section 1151 of title 18, United States Code) of the Metlakatla Indian Community, Annette Island Reserve.
+
+"(b)
+
+Retained Jurisdiction.—The jurisdiction and authority of each Indian tribe in the State of Alaska under section 2265(e) of title 18, United States Code (as in effect on the day before the date of enactment of this Act \[Mar. 7, 2013\])—
+
+&emsp;"(1) shall remain in full force and effect; and
+
+&emsp;"(2) are not limited or diminished by this Act \[see Tables for classification\] or any amendment made by this Act.
+
+"(c)
+
+Savings Provision.—Nothing in this Act or an amendment made by this Act limits or diminishes the jurisdiction of the State of Alaska, any subdivision of the State of Alaska, or any Indian tribe in the State of Alaska."
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

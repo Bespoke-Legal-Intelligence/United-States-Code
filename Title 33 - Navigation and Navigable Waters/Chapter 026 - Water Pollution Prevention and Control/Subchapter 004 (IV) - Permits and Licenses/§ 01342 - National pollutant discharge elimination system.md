@@ -102,7 +102,7 @@ A copy of each permit application and each permit issued under this section shal
 
 #### (k) Compliance with permits
 
-Compliance with a permit issued pursuant to this section shall be deemed compliance, for purposes of sections 1319 and 1365 of this title, with sections 1311, 1312, 1316, 1317, and 1343 of this title, except any standard imposed under section 1317 of this title for a toxic pollutant injurious to human health. Until December 31, 1974, in any case where a permit for discharge has been applied for pursuant to this section, but final administrative disposition of such application has not been made, such discharge shall not be a violation of (1) section 1311, 1316, or 1342 of this title, or (2) section 407 of this title, unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonably required or requested in order to process the application. For the 180-day period beginning on October 18, 1972, in the case of any point source discharging any pollutant or combination of pollutants immediately prior to such date which source is not subject to section 407 of this title, the discharge by such source shall not be a violation of this chapter if such a source applies fora permit for discharge pursuant to this section within such 180-day period.
+Compliance with a permit issued pursuant to this section shall be deemed compliance, for purposes of sections 1319 and 1365 of this title, with sections 1311, 1312, 1316, 1317, and 1343 of this title, except any standard imposed under section 1317 of this title for a toxic pollutant injurious to human health. Until December 31, 1974, in any case where a permit for discharge has been applied for pursuant to this section, but final administrative disposition of such application has not been made, such discharge shall not be a violation of (1) section 1311, 1316, or 1342 of this title, or (2) section 407 of this title, unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonably required or requested in order to process the application. For the 180-day period beginning on October 18, 1972, in the case of any point source discharging any pollutant or combination of pollutants immediately prior to such date which source is not subject to section 407 of this title, the discharge by such source shall not be a violation of this chapter if such a source applies for a permit for discharge pursuant to this section within such 180-day period.
 
 #### (l) Limitation on permit requirement
 
@@ -232,13 +232,13 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (6) Regulations
 
-&emsp;Not later than October 1, 1993, the Administrator, in consultation with State and local officials, shall issue regulations (based on the results of the studies conducted under paragraph (5)) which designate stormwater discharges, other than those discharges described in paragraph (2), to be regulated to protect water quality and shall establish a comprehensive program to regulate such designated sources. The program shall, at a minimum, (A) establish priorities, (B) establish requirements for State stormwater management programs, and (C) establish expeditious deadlines. The program may include performance standards, guidelines, guidance, and management practices and treatment requirements, as appropriate.
+&emsp;Not later than October 1, 1993, the Administrator, in consultation with State and local officials, shall issue regulations (based on the results of the studies conducted under paragraph (5)) which designate stormwater discharges, other than those discharges described in paragraph (2), to be regulated to protectwater quality and shall establish a comprehensive program to regulate such designated sources. The program shall, at a minimum, (A) establish priorities, (B) establish requirements for State stormwater management programs, and (C) establish expeditious deadlines. The program may include performance standards, guidelines, guidance, and management practices and treatment requirements, as appropriate.
 
 #### (q) Combined sewer overflows
 
 #### (1) Requirement for permits, orders, and decrees
 
-&emsp;Each permit, order, or decree issued pursuant to this chapter after December 21, 2000, for a discharge from a municipal combined storm and sanitary sewer shall conform to the Combined Sewer Overflow Control Policy signed by the Administrator on April 11, 1994 (in this subsection referred to as the “CSO control policy”).
+&emsp;Each permit, order, or decree issued pursuant to this chapter after December 21, 2000, for a discharge from a municipal combined storm and sanitary sewer shall conform to the Combined Sewer Overflow Control Policy signed by the Administrator on April 11, 1994 (in this subsection referred to as the "CSO control policy").
 
 #### (2) Water quality and designated use review guidance
 
@@ -260,33 +260,33 @@ No permit shall be required under this chapter by the Administrator (or a State,
 
 <b>2000</b>—Subsec. (q). Pub. L. 106–554 added subsec. (q).
 
-<b>1992</b>—Subsec. (p)(1), (6). Pub. L. 102–580 substituted “October 1, 1994” for “October 1, 1992” in par. (1) and “October 1, 1993” for “October 1, 1992” in par. (6).
+<b>1992</b>—Subsec. (p)(1), (6). Pub. L. 102–580 substituted "October 1, 1994" for "October 1, 1992" in par. (1) and "October 1, 1993" for "October 1, 1992" in par. (6).
 
 <b>1987</b>—Subsec. (a)(1). Pub. L. 100–4, §404(c), inserted cl. (A) and (B) designations.
 
-Subsec. (c)(1). Pub. L. 100–4, §403(b)(2), substituted “as to those discharges” for “as to those navigable waters”.
+Subsec. (c)(1). Pub. L. 100–4, §403(b)(2), substituted "as to those discharges" for "as to those navigable waters".
 
 Subsec. (c)(4). Pub. L. 100–4, §403(b)(1), added par. (4).
 
-Subsec. (l). Pub. L. 100–4, §401, inserted “Limitation on permit requirement” as subsec. heading designated existing provisions as par. (1) and inserted par. heading, added par. (2), and aligned pars. (1) and (2).
+Subsec. (l). Pub. L. 100–4, §401, inserted "Limitation on permit requirement" as subsec. heading designated existing provisions as par. (1) and inserted par. heading, added par. (2), and aligned pars. (1) and (2).
 
 Subsecs. (m) to (p). Pub. L. 100–4, §§402, 403(a), 404(a), 405, added subsecs. (m) to (p).
 
-<b>1977</b>—Subsec. (a)(5). Pub. L. 95–217, §50, substituted “section 1314(i)(2)” for “section 1314(h)(2)”.
+<b>1977</b>—Subsec. (a)(5). Pub. L. 95–217, §50, substituted "section 1314(i)(2)" for "section 1314(h)(2)".
 
-Subsec. (b). Pub. L. 95–217, §50, substituted in provisions preceding par. (1) “subsection (i)(2) of section 1314” for “subsection (h)(2) of section 1314”.
+Subsec. (b). Pub. L. 95–217, §50, substituted in provisions preceding par. (1) "subsection (i)(2) of section 1314" for "subsection (h)(2) of section 1314".
 
 Subsec. (b)(8). Pub. L. 95–217, §54(c)(1), inserted reference to identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under section 1317(b) of this title into treatment works and programs to assure compliance with pretreatment standards by each source.
 
-Subsec. (c)(1), (2). Pub. L. 95–217, §50, substituted “section 1314(i)(2)” for “section 1314(h)(2)”.
+Subsec. (c)(1), (2). Pub. L. 95–217, §50, substituted "section 1314(i)(2)" for "section 1314(h)(2)".
 
 Subsec. (d)(2). Pub. L. 95–217, §65(b), inserted provision requiring that, whenever the Administrator objects to the issuance of a permit under subsec. (d)(2) of this section, the written objection contain a statement of the reasons for the objection and the effluent limitations and conditions which the permit would include if it were issued by the Administrator.
 
 Subsec. (d)(4). Pub. L. 95–217, §65(a), added par. (4).
 
-Subsec. (e). Pub. L. 95–217, §50, substituted “subsection (i)(2) of section 1314” for “subsection (h)(2) of section 1314”.
+Subsec. (e). Pub. L. 95–217, §50, substituted "subsection (i)(2) of section 1314" for "subsection (h)(2) of section 1314".
 
-Subsec. (h). Pub. L. 95–217, §66, substituted “where no State program is approved or where the Administrator determines pursuant to section 1319(a) of this title that a State with an approved program has not commenced appropriate enforcement action with respect to such permit,” for “where no State program is approved,”.
+Subsec. (h). Pub. L. 95–217, §66, substituted "where no State program is approved or where the Administrator determines pursuant to section 1319(a) of this title that a State with an approved program has not commenced appropriate enforcement action with respect to such permit," for "where no State program is approved,".
 
 Subsec. (l). Pub. L. 95–217, §33(c), added subsec. (l).
 
@@ -298,143 +298,143 @@ Enforcement functions of Administrator or other official of the Environmental Pr
 
 #### Permit Requirements for Discharges From Certain Vessels
 
-Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, §1, July 30, 2010, 124 Stat. 2347; Pub. L. 112–213, title VII, §703, Dec. 20, 2012, 126 Stat. 1580, provided that:
+Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, §1, July 30, 2010, 124 Stat.2347; Pub. L. 112–213, title VII, §703, Dec. 20, 2012, 126 Stat. 1580, provided that:
 
-#### “SECTION 1. DEFINITIONS.
+#### "SECTION 1. DEFINITIONS.
 
-“In this Act:
+"In this Act:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
+Administrator.—The term 'Administrator' means the Administrator of the Environmental Protection Agency.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Covered vessel.—The term ‘covered vessel’ means a vessel that is—
+Covered vessel.—The term 'covered vessel' means a vessel that is—
 
-&emsp;&emsp;“(A) less than 79 feet in length; or
+&emsp;&emsp;"(A) less than 79 feet in length; or
 
-&emsp;&emsp;“(B) a fishing vessel (as defined in section 2101 of title 46, United States Code), regardless of the length of the vessel.
+&emsp;&emsp;"(B) a fishing vessel (as defined in section 2101 of title 46, United States Code), regardless of the length of the vessel.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Other terms.—The terms ‘contiguous zone’, ‘discharge’, ‘ocean’, and ‘State’ have the meanings given the terms in section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362).
+Other terms.—The terms 'contiguous zone', 'discharge', 'ocean', and 'State' have the meanings given the terms in section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362).
 
-#### “SEC. 2. DISCHARGES INCIDENTAL TO NORMAL OPERATION OF VESSELS.
+#### "SEC. 2. DISCHARGES INCIDENTAL TO NORMAL OPERATION OF VESSELS.
 
-“(a)
+"(a)
 
 No Permit Requirement.—Except as provided in subsection (b), during the period beginning on the date of the enactment of this Act \[July 31, 2008\] and ending on December 18, 2014, the Administrator, or a State in the case of a permit program approved under section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342), shall not require a permit under that section for a covered vessel for—
 
-&emsp;“(1) any discharge of effluent from properly functioning marine engines;
+&emsp;"(1) any discharge of effluent from properly functioning marine engines;
 
-&emsp;“(2) any discharge of laundry, shower, and galley sink wastes; or
+&emsp;"(2) any discharge of laundry, shower, and galley sink wastes; or
 
-&emsp;“(3) any other discharge incidental to the normal operation of a covered vessel.
+&emsp;"(3) any other discharge incidental to the normal operation of a covered vessel.
 
-“(b)
+"(b)
 
 Exceptions.—Subsection (a) shall not apply with respect to—
 
-&emsp;“(1) rubbish, trash, garbage, or other such materials discharged overboard;
+&emsp;"(1) rubbish, trash, garbage, or other such materials discharged overboard;
 
-&emsp;“(2) other discharges when the vessel is operating in a capacity other than as a means of transportation, such as when—
+&emsp;"(2) other discharges when the vessel is operating in a capacity other than as a means of transportation, such as when—
 
-&emsp;&emsp;“(A) used as an energy or mining facility;
+&emsp;&emsp;"(A) used as an energy or mining facility;
 
-&emsp;&emsp;“(B) used as a storage facility or a seafood processing facility;
+&emsp;&emsp;"(B) used as a storage facility or a seafood processing facility;
 
-&emsp;&emsp;“(C) secured to a storage facility or a seafood processing facility; or
+&emsp;&emsp;"(C) secured to a storage facility or a seafood processing facility; or
 
-&emsp;&emsp;“(D) secured to the bed of the ocean, the contiguous zone, or waters of the United States for the purpose of mineral or oil exploration or development;
+&emsp;&emsp;"(D) secured to the bed of the ocean, the contiguous zone, or waters of the United States for the purpose of mineral or oil exploration or development;
 
-&emsp;“(3) any discharge of ballast water; or
+&emsp;"(3) any discharge of ballast water; or
 
-&emsp;“(4) any discharge in a case in which the Administrator or State, as appropriate, determines that the discharge—
+&emsp;"(4) any discharge in a case in which the Administrator or State, as appropriate, determines that the discharge—
 
-&emsp;&emsp;“(A) contributes to a violation of a water quality standard; or
+&emsp;&emsp;"(A) contributes to a violation of a water quality standard; or
 
-&emsp;&emsp;“(B) poses an unacceptable risk to human health or the environment.”
+&emsp;&emsp;"(B) poses an unacceptable risk to human health or the environment."
 
 #### Stormwater Permit Requirements
 
 Pub. L. 102–240, title I, §1068, Dec. 18, 1991, 105 Stat. 2007, provided that:
 
-“(a)
+"(a)
 
-General Rule.—Notwithstanding the requirements of sections 402(p)(2)(B), (C), and (D) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(B), (C), (D)\], permit application deadlines for stormwater discharges associated with industrial activities from facilities that are owned or operated by a municipality shall be established by the Administrator of the Environmental Protection Agency (hereinafter in this section referred to as the ‘Administrator’) pursuant to the requirements of this section.
+General Rule.—Notwithstanding the requirements of sections 402(p)(2)(B), (C), and (D) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(B), (C), (D)\], permit application deadlines for stormwater discharges associated with industrial activities from facilities that are owned or operated by a municipality shall be established by the Administrator of the Environmental Protection Agency (hereinafter in this section referred to as the 'Administrator') pursuant to the requirements of this section.
 
-“(b)
+"(b)
 
 Permit Applications.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Individual applications.—The Administrator shall require individual permit applications for discharges described in subsection (a) on or before October 1, 1992; except that any municipality that has participated in a timely part I group application for an industrial activity discharging stormwater that is denied such participation in a group application or for which a group application is denied shall not be required to submit an individual application until the 180th day following the date on which the denial is made.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Group applications.—With respect to group applications for permits for discharges described in subsection (a), the Administrator shall require—
 
-&emsp;&emsp;“(A) part I applications on or before September 30, 1991, except that any municipality with a population of less than 250,000 shall not be required to submit a part I application before May 18, 1992; and
+&emsp;&emsp;"(A) part I applications on or before September 30, 1991, except that any municipality with a population of less than 250,000 shall not be required to submit a part I application before May 18, 1992; and
 
-&emsp;&emsp;“(B) part II applications on or before October 1, 1992, except that any municipality with a population of less than 250,000 shall not be required to submit a part II application before May 17, 1993.
+&emsp;&emsp;"(B) part II applications on or before October 1, 1992, except that any municipality with a population of less than 250,000 shall not be required to submit a part II application before May 17, 1993.
 
-“(c)
+"(c)
 
 Municipalities With Less Than 100,000
 
 Population.—The Administrator shall not require any municipality with a population of less than 100,000 to apply for or obtain a permit for any stormwater discharge associated with an industrial activity other than an airport, powerplant, or uncontrolled sanitary landfill owned or operated by such municipality before October 1, 1992, unless such permit is required by section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(A), (E)\].
 
-“(d)
+"(d)
 
-Uncontrolled Sanitary Landfill Defined.—For the purposes of this section, the term ‘uncontrolled sanitary landfill’ means a landfill or open dump, whether in operation or closed, that does not meet the requirements for run-on and run-off controls established pursuant to subtitle D of the Solid Waste Disposal Act \[42 U.S.C. 6941 et seq.\].
+Uncontrolled Sanitary Landfill Defined.—For the purposes of this section, the term 'uncontrolled sanitary landfill' means a landfill or open dump, whether in operation or closed, that does not meet the requirements for run-on and run-off controls established pursuant to subtitle D of the Solid Waste Disposal Act \[42 U.S.C. 6941 et seq.\].
 
-“(e)
+"(e)
 
 Limitation on Statutory Construction.—Nothing in this section shall be construed to affect any application or permit requirement, including any deadline, to apply for or obtain a permit for stormwater discharges subject to section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(A), (E)\].
 
-“(f)
+"(f)
 
-Regulations.—The Administrator shall issue final regulations with respect to general permits forstormwater discharges associated with industrial activity on or before February 1, 1992.”
+Regulations.—The Administrator shall issue final regulations with respect to general permits for stormwater discharges associated with industrial activity on or before February 1, 1992."
 
 #### Phosphate Fertilizer Effluent Limitation
 
 Pub. L. 100–4, title III, §306(c), Feb. 4, 1987, 101 Stat. 36, provided that:
 
-“(1)
+"(1)
 
 Issuance of permit.—As soon as possible after the date of the enactment of this Act \[Feb. 4, 1987\], but not later than 180 days after such date of enactment, the Administrator shall issue permits under section 402(a)(1)(B) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(a)(1)(B)\] with respect to facilities—
 
-&emsp;“(A) which were under construction on or before April 8, 1974, and
+&emsp;"(A) which were under construction on or before April 8, 1974, and
 
-&emsp;“(B) for which the Administrator is proposing to revise the applicability of the effluent limitation established under section 301(b) of such Act \[33 U.S.C. 1311(b)\] for phosphate subcategory of the fertilizer manufacturing point source category to exclude such facilities.
+&emsp;"(B) for which the Administrator is proposing to revise the applicability of the effluent limitation established under section 301(b) of such Act \[33 U.S.C. 1311(b)\] for phosphate subcategory of the fertilizer manufacturing point source category to exclude such facilities.
 
-“(2)
+"(2)
 
 Limitations on statutory construction.—Nothing in this section \[amending section 1311 of this title and enacting this note\] shall be construed—
 
-&emsp;“(A) to require the Administrator to permit the discharge of gypsum or gypsum waste into the navigable waters,
+&emsp;"(A) to require the Administrator to permit the discharge of gypsum or gypsum waste into the navigable waters,
 
-&emsp;“(B) to affect the procedures and standards applicable to the Administrator in issuing permits under section 402(a)(1)(B) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(a)(1)(B)\], and
+&emsp;"(B) to affect the procedures and standards applicable to the Administrator in issuing permits under section 402(a)(1)(B) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(a)(1)(B)\], and
 
-&emsp;“(C) to affect the authority of any State to deny or condition certification under section 401 of such Act \[33 U.S.C. 1341\] with respect to the issuance of permits under section 402(a)(1)(B) of such Act.”
+&emsp;"(C) to affect the authority of any State to deny or condition certification under section 401 of such Act \[33 U.S.C. 1341\] with respect to the issuance of permits under section 402(a)(1)(B) of such Act."
 
 #### Log Transfer Facilities
 
 Pub. L. 100–4, title IV, §407, Feb. 4, 1987, 101 Stat. 74, provided that:
 
-“(a)
+"(a)
 
 Agreement.—The Administrator and Secretary of the Army shall enter into an agreement regarding coordination of permitting for log transfer facilities to designate a lead agency and to process permits required under sections 402 and 404 of the Federal Water Pollution Control Act \[33 U.S.C. 1342, 1344\], where both such sections apply, for discharges associated with the construction and operation of log transfer facilities. The Administrator and Secretary are authorized to act in accordance with the terms of such agreement to assure that, to the maximum extent practicable, duplication, needless paperwork and delay in the issuance of permits, and inequitable enforcement between and among facilities in different States, shall be eliminated.
 
-“(b)
+"(b)
 
 Applications and Permits Before October 22, 1985.—Where both of sections 402 and 404 of the Federal Water Pollution Control Act \[33 U.S.C. 1342, 1344\] apply, log transfer facilities which have received a permit under section 404 of such Act before October 22, 1985, shall not be required to submit a new application for a permit under section 402 of such Act. If the Administrator determines that the terms of a permit issued on or before October 22, 1985, under section 404 of such Act satisfies the applicable requirements of sections 301, 302, 306, 307, 308, and 403 of such Act \[33 U.S.C. 1311, 1312, 1316, 1317, 1318, and 1343\], a separate application for a permit under section 402 of such Act shall not thereafter be required. In any case where the Administrator demonstrates, after an opportunity for a hearing, that the terms of a permit issued on or before October 22, 1985, under section 404 of such Act do not satisfy the applicable requirements of sections 301, 302, 306, 307, 308, and 403 of such Act, modifications to the existing permit under section 404 of such Act to incorporate such applicable requirements shall be issued by the Administrator as an alternative to issuance of a separate new permit under section 402 of such Act.
 
-“(c)
+"(c)
 
-Log Transfer Facility Defined.—For the purposes of this section, the term ‘log transfer facility’ means a facility which is constructed in whole or in part in waters of the United States and which is utilized for the purpose of transferring commercially harvested logs to or from a vessel or log raft, including the formation of a log raft.”
+Log Transfer Facility Defined.—For the purposes of this section, the term 'log transfer facility' means a facility which is constructed in whole or in part in waters of the United States and which is utilized for the purpose of transferring commercially harvested logs to or from a vessel or log raft, including the formation of a log raft."
 
 #### Allowable Delay in Modifying Existing Approved State Permit Programs To Conform to 1977 Amendment
 

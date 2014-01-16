@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this subchapter, the term “contractor” means a person awarded a contract described in subsection (b).
+Definition.—In this subchapter, the term "contractor" means a person awarded a contract described in subsection (b).
 
 (b)
 
@@ -94,7 +94,7 @@ Aug. 24, 1935, ch. 642, §1(d), as added Pub. L. 89–719, title I, §105(b), No
 
 In subsection (a), the text of 40:270d is omitted because of 1:1.
 
-In subsections (b) and (c), the words “or sureties” are omitted because of 1:1.
+In subsections (b) and (c), the words "or sureties" are omitted because of 1:1.
 
 #### References in Text
 
@@ -102,5 +102,5 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(2), is classified 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e). Pub. L. 109–284 substituted “To” for “to” in heading.
+<b>2006</b>—Subsec. (e). Pub. L. 109–284 substituted "To" for "to" in heading.
 

@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Sept. 6, 1950, ch. 896, §1210(less last proviso), 64 Stat. 765.
 
-The word “limitations” is substituted for “limitations, conditions, and restrictions” to eliminate unnecessary words.
+The word "limitations" is substituted for "limitations, conditions, and restrictions" to eliminate unnecessary words.
 

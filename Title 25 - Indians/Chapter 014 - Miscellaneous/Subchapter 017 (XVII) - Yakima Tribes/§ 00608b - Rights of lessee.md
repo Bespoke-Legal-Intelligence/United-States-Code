@@ -12,5 +12,5 @@ Section was not enacted as part of act Aug. 9, 1946, ch. 933, 60 Stat. 968, whic
 
 #### Amendments
 
-<b>1964</b>—Subsec. (b). Pub. L. 88–540 repealed subsec. (b) which provided: “Nothing in sections 608–608c of this title shall affect the existing status of any lands, interests, improvements, or rights with respect to taxation.”
+<b>1964</b>—Subsec. (b). Pub. L. 88–540 repealed subsec. (b) which provided: "Nothing in sections 608–608c of this title shall affect the existing status of any lands, interests, improvements, or rights with respect to taxation."
 

@@ -28,7 +28,7 @@ If any advertisement to aid, promote, or assist, directly or indirectly, the ext
 
 #### (2) Credit in excess of fair market value
 
-&emsp;Each advertisement described in subsection (a) of this section that relates to an extensionof credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
+&emsp;Each advertisement described in subsection (a) of this section that relates to an extension of credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
 
 &emsp;&emsp;(A) the interest on the portion of the credit extension that is greater than the fair market value of the dwelling is not tax deductible for Federal income tax purposes; and
 
@@ -36,7 +36,7 @@ If any advertisement to aid, promote, or assist, directly or indirectly, the ext
 
 #### (c) Certain terms prohibited
 
-No advertisement described in subsection (a) of this section with respect to any home equity account may refer to such loan as “free money” or use other terms determined by the Bureau by regulation to be misleading.
+No advertisement described in subsection (a) of this section with respect to any home equity account may refer to such loan as "free money" or use other terms determined by the Bureau by regulation to be misleading.
 
 #### (d) Discounted initial rate
 
@@ -56,9 +56,9 @@ No advertisement described in subsection (a) of this section with respect to any
 
 If any advertisement described in subsection (a) of this section contains a statement regarding the minimum monthly payment under the plan, the advertisement shall also disclose, if applicable, the fact that the plan includes a balloon payment.
 
-#### (f) “Balloon payment” defined
+#### (f) "Balloon payment" defined
 
-For purposes of this section and section 1637a of this title, the term “balloon payment” means, with respect to any open end consumer credit plan under which extensions of credit are secured by the consumer's principal dwelling, any repayment option under which—
+For purposes of this section and section 1637a of this title, the term "balloon payment" means, with respect to any open end consumer credit plan under which extensions of credit are secured by the consumer's principal dwelling, any repayment option under which—
 
 &emsp;(1) the account holder is required to repay the entire amount of any outstanding balance as of a specified date or at the end of a specified period of time, as determined in accordance with the terms of the agreement pursuant to which such credit is extended; and
 
@@ -68,7 +68,7 @@ For purposes of this section and section 1637a of this title, the term “balloo
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a), (c). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Subsecs. (a), (c). Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–8 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 

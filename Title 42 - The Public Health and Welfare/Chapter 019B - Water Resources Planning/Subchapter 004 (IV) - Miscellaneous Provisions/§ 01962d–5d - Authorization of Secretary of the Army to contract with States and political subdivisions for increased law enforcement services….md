@@ -12,5 +12,5 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–662 amended subsec. (b) generally, substituting “$10,000,000 per fiscal year for each fiscal year beginning after September 30, 1986” for “$6,000,000 per fiscal year for the fiscal years ending September 30, 1978, and September 30, 1979”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–662 amended subsec. (b) generally, substituting "$10,000,000 per fiscal year for each fiscal year beginning after September 30, 1986" for "$6,000,000 per fiscal year for the fiscal years ending September 30, 1978, and September 30, 1979".
 

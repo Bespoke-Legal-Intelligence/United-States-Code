@@ -26,9 +26,9 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “environmental”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "environmental".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be a semicolon.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "section".</i>
 

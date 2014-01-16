@@ -6,11 +6,11 @@ If any tax claimed as a credit under section 2014 is recovered from any foreign 
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–147 struck out “any State, any possession of the United States, or the District of Columbia,” after “any foreign country,”.
+<b>2002</b>—Pub. L. 107–147 struck out "any State, any possession of the United States, or the District of Columbia," after "any foreign country,".
 
-<b>2001</b>—Pub. L. 107–16 struck out “2011 or” before “2014 is recovered”.
+<b>2001</b>—Pub. L. 107–16 struck out "2011 or" before "2014 is recovered".
 
-<b>1976</b>—Pub. L. 94–455 struck out “Territory or” after “any State, any” and “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "Territory or" after "any State, any" and "or his delegate" after "Secretary".
 
 #### Effective Date of 2002 Amendment
 

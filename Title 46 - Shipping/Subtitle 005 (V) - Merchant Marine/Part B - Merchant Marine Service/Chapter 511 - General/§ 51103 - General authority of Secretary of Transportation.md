@@ -10,7 +10,7 @@ Property for Instructional Purposes.—
 
 &emsp;(1)
 
-In general.—The Secretary may cooperate with and assist the institutions named in paragraph (2) by making vessels, fuel, shipboard equipment, and other marine equipment, owned by the United States Government and determined by the entity having custody and control of such property to be excess or surplus, available to those institutions for instructional purposes, by gift, loan, sale, lease, or charter on terms and conditions the Secretary considers appropriate. The consent of the Secretary of the Navy shall be obtained with respect to any property from National Defense Reserve Fleet vessels, if such vessels are either Ready Reserve Force vessels or other National Defense Reserve Fleet vesselsdetermined to be of sufficient value to the Navy to warrant their further preservation and retention.
+In general.—The Secretary may cooperate with and assist the institutions named in paragraph (2) by making vessels, fuel, shipboard equipment, and other marine equipment, owned by the United States Government and determined by the entity having custody and control of such property to be excess or surplus, available to those institutions for instructional purposes, by gift, loan, sale, lease, or charter on terms and conditions the Secretary considers appropriate. The consent of the Secretary of the Navy shall be obtained with respect to any property from National Defense Reserve Fleet vessels, if such vessels are either Ready Reserve Force vessels or other National Defense Reserve Fleet vessels determined to be of sufficient value to the Navy to warrant their further preservation and retention.
 
 &emsp;(2)
 
@@ -74,13 +74,13 @@ June 29, 1936, ch. 858, title XIII, §1308(b)–(d), as added Pub. L. 96–453, 
 
 46 App.:1295g(d).
 
-In subsection (c), the word “department” is omitted as unnecessary because of the definition of “agency” in chapter 1 of the revised title.
+In subsection (c), the word "department" is omitted as unnecessary because of the definition of "agency" in chapter 1 of the revised title.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–213, §404(1), struck out “Surplus” before “Property” in heading.
+<b>2012</b>—Subsec. (b). Pub. L. 112–213, §404(1), struck out "Surplus" before "Property" in heading.
 
-Subsec. (b)(1). Pub. L. 112–213, §404(2), amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary may cooperate with and assist the institutions named in paragraph (2) by making vessels, shipboard equipment, and other marine equipment, owned by the United States Government and determined to be excess or surplus, available to those institutions for instructional purposes, by gift, loan, sale, lease, or charter on terms the Secretary considers appropriate.”
+Subsec. (b)(1). Pub. L. 112–213, §404(2), amended par. (1) generally. Prior to amendment, text read as follows: "The Secretary may cooperate with and assist the institutions named in paragraph (2) by making vessels, shipboard equipment, and other marine equipment, owned by the United States Government and determined to be excess or surplus, available to those institutions for instructional purposes, by gift, loan, sale, lease, or charter on terms the Secretary considers appropriate."
 
-Subsec. (b)(2)(C). Pub. L. 112–213, §404(3), inserted “or a training institution that is an instrumentality of a State, the District of Columbia, a territory or possession of the United States, or a unit of local government thereof” after “a nonprofit training institution”.
+Subsec. (b)(2)(C). Pub. L. 112–213, §404(3), inserted "or a training institution that is an instrumentality of a State, the District of Columbia, a territory or possession of the United States, or a unit of local government thereof" after "a nonprofit training institution".
 

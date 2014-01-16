@@ -70,7 +70,7 @@ Eligibility.—
 
 &emsp;&emsp;(A)
 
-High seat belt use rate.—A State with an observed seat belt use rate of 90 percent or higher, based on the most recentdata from a survey that conforms with national criteria established by the National Highway Traffic Safety Administration, shall be eligible for a grant in a fiscal year if the State—
+High seat belt use rate.—A State with an observed seat belt use rate of 90 percent or higher, based on the most recent data from a survey that conforms with national criteria established by the National Highway Traffic Safety Administration, shall be eligible for a grant in a fiscal year if the State—
 
 &emsp;&emsp;&emsp;(i) submits an occupant protection plan during the first fiscal year;
 
@@ -146,7 +146,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(A)
 
-Child restraint.—The term “child restraint” means any device (including child safety seat, booster seat, harness, and excepting seat belts) that is—
+Child restraint.—The term "child restraint" means any device (including child safety seat, booster seat, harness, and excepting seat belts) that is—
 
 &emsp;&emsp;&emsp;(i) designed for use in a motor vehicle to restrain, seat, or position children who weigh 65 pounds (30 kilograms) or less; and
 
@@ -154,7 +154,7 @@ Child restraint.—The term “child restraint” means any device (including ch
 
 &emsp;&emsp;(B)
 
-Seat belt.—The term “seat belt” means—
+Seat belt.—The term "seat belt" means—
 
 &emsp;&emsp;&emsp;(i) with respect to open-body motor vehicles, including convertibles, an occupant restraint system consisting of a lap belt or a lap belt and a detachable shoulder belt; and
 
@@ -186,7 +186,7 @@ Federal share.—The Federal share of the cost of adopting and implementing in a
 
 Eligibility.—A State is not eligible for a grant under this subsection in a fiscal year unless the State demonstrates, to the satisfaction of the Secretary, that the State—
 
-&emsp;&emsp;(A) has a functioning traffic records coordinating committee (referred to in this paragraph as “TRCC”) that meets at least 3 times each year;
+&emsp;&emsp;(A) has a functioning traffic records coordinating committee (referred to in this paragraph as "TRCC") that meets at least 3 times each year;
 
 &emsp;&emsp;(B) has designated a TRCC coordinator;
 
@@ -342,7 +342,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(A)
 
-24-7 sobriety program.—The term “24-7 sobriety program” means a State law or program that authorizes a State court or a State agency, as a condition of sentence, probation, parole, or work permit, to—
+24-7 sobriety program.—The term "24-7 sobriety program" means a State law or program that authorizes a State court or a State agency, as a condition of sentence, probation, parole, or work permit, to—
 
 &emsp;&emsp;&emsp;(i) require an individual who plead guilty or was convicted of driving under the influence of alcohol or drugs to totally abstain from alcohol or drugs for a period of time; and
 
@@ -356,19 +356,19 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(B)
 
-Average impaired driving fatality rate.—The term “average impaired driving fatality rate” means the number of fatalities in motor vehicle crashes involving a driver with a blood alcohol concentration of at least 0.08 percent for every 100,000,000 vehicle miles traveled, based on the most recently reported 3 calendar years of final data from the Fatality Analysis Reporting System, as calculated in accordance with regulations prescribed by the Administrator of the National Highway Traffic Safety Administration.
+Average impaired driving fatality rate.—The term "average impaired driving fatality rate" means the number of fatalities in motor vehicle crashes involving a driver with a blood alcohol concentration of at least 0.08 percent for every 100,000,000 vehicle miles traveled, based on the most recently reported 3 calendar years of final data from the Fatality Analysis Reporting System, as calculated in accordance with regulations prescribed by the Administrator of the National Highway Traffic Safety Administration.
 
 &emsp;&emsp;(C)
 
-High-range state.—The term “high-range State” means a State that has an average impaired driving fatality rate of 0.60 or higher.
+High-range state.—The term "high-range State" means a State that has an average impaired driving fatality rate of 0.60 or higher.
 
 &emsp;&emsp;(D)
 
-Low-range state.—The term “low-range State” means a State that has an average impaired driving fatality rate of 0.30 or lower..<sup>2</sup>
+Low-range state.—The term "low-range State" means a State that has an average impaired driving fatality rate of 0.30 or lower..<sup>2</sup>
 
 &emsp;&emsp;(E)
 
-Mid-range state.—The term “mid-range State” means a State that has an average impaired driving fatality rate that is higher than 0.30 and lower than 0.60.
+Mid-range state.—The term "mid-range State" means a State that has an average impaired driving fatality rate that is higher than 0.30 and lower than 0.60.
 
 (e)
 
@@ -482,7 +482,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(A)
 
-Driving.—The term “driving”—
+Driving.—The term "driving"—
 
 &emsp;&emsp;&emsp;(i) means operating a motor vehicle on a public road, including operation while temporarily stationary because of traffic, a traffic light or stop sign, or otherwise; and
 
@@ -490,7 +490,7 @@ Driving.—The term “driving”—
 
 &emsp;&emsp;(B)
 
-Personal wireless communications device.—The term “personal wireless communications device”—
+Personal wireless communications device.—The term "personal wireless communications device"—
 
 &emsp;&emsp;&emsp;(i) means a device through which personal wireless services (as defined in section 332(c)(7)(C)(i) of the Communications Act of 1934 (47 U.S.C. 332(c)(7)(C)(i))) are transmitted; and
 
@@ -498,15 +498,15 @@ Personal wireless communications device.—The term “personal wireless communi
 
 &emsp;&emsp;(C)
 
-Primary offense.—The term “primary offense” means an offense for which a law enforcement officer may stop a vehicle solely for the purpose of issuing a citation in the absence of evidence of another offense.
+Primary offense.—The term "primary offense" means an offense for which a law enforcement officer may stop a vehicle solely for the purpose of issuing a citation in the absence of evidence of another offense.
 
 &emsp;&emsp;(D)
 
-Public road.—The term “public road” has the meaning given such term in section 402(c).
+Public road.—The term "public road" has the meaning given such term in section 402(c).
 
 &emsp;&emsp;(E)
 
-Texting.—The term “texting” means reading from or manually entering data into a personal wireless communications device, including doing so for the purpose of SMS texting, e-mailing, instant messaging, or engaging in any other form of electronic data retrieval or electronic data communication.
+Texting.—The term "texting" means reading from or manually entering data into a personal wireless communications device, including doing so for the purpose of SMS texting, e-mailing, instant messaging, or engaging in any other form of electronic data retrieval or electronic data communication.
 
 (f)
 
@@ -574,7 +574,7 @@ In general.—A State may use funds from a grant under this subsection only for 
 
 &emsp;&emsp;&emsp;(iii) measures designed to increase the recruitment or retention of motorcyclist safety training instructors; and
 
-&emsp;&emsp;&emsp;(iv) public awareness, public service announcements, and other outreach programs to enhance driver awareness of motorcyclists, such as the “share-the-road” safety messages developed under subsection (g).
+&emsp;&emsp;&emsp;(iv) public awareness, public service announcements, and other outreach programs to enhance driver awareness of motorcyclists, such as the "share-the-road" safety messages developed under subsection (g).
 
 &emsp;&emsp;(B)
 
@@ -586,7 +586,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(A)
 
-Motorcyclist awareness.—The term “motorcyclist awareness” means individual or collective awareness of—
+Motorcyclist awareness.—The term "motorcyclist awareness" means individual or collective awareness of—
 
 &emsp;&emsp;&emsp;(i) the presence of motorcycles on or near roadways; and
 
@@ -594,15 +594,15 @@ Motorcyclist awareness.—The term “motorcyclist awareness” means individual
 
 &emsp;&emsp;(B)
 
-Motorcyclist awareness program.—The term “motorcyclist awareness program” means an informational or public awareness program designed to enhance motorcyclist awareness that is developed by or in coordination with the designated State authority having jurisdiction over motorcyclist safety issues, which may include the State motorcycle safety administrator or a motorcycle advisory council appointed by the governor of the State.
+Motorcyclist awareness program.—The term "motorcyclist awareness program" means an informational or public awareness program designed to enhance motorcyclist awareness that is developed by or in coordination with the designated State authority having jurisdiction over motorcyclist safety issues, which may include the State motorcycle safety administrator or a motorcycle advisory council appointed by the governor of the State.
 
 &emsp;&emsp;(C)
 
-Motorcyclist safety training.—The term “motorcyclist safety training” means a formal program of instruction that is approved for use in a State by the designated State authority having jurisdiction over motorcyclist safety issues, which may include the State motorcycle safety administrator or a motorcycle advisory council appointed by the governor of the State.
+Motorcyclist safety training.—The term "motorcyclist safety training" means a formal program of instruction that is approved for use in a State by the designated State authority having jurisdiction over motorcyclist safety issues, which may include the State motorcycle safety administrator or a motorcycle advisory council appointed by the governor of the State.
 
 &emsp;&emsp;(D)
 
-State.—The term “State” has the meaning given such term in section 101(a) of title 23, United States Code.
+State.—The term "State" has the meaning given such term in section 101(a) of title 23, United States Code.
 
 (g)
 
@@ -726,23 +726,23 @@ A prior section 405, added Pub. L. 93–87, title II, §230(a), Aug. 13, 1973, 8
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to occupant protection incentive grants.
 
-<b>2011</b>—Subsec. (a)(3). Pub. L. 112–30, §121(c)(1)(A), substituted “9” for “8”.
+<b>2011</b>—Subsec. (a)(3). Pub. L. 112–30, §121(c)(1)(A), substituted "9" for "8".
 
-Subsec. (a)(4)(C). Pub. L. 112–30, §121(c)(1)(B), substituted “fifth through ninth” for “fifth through eighth”.
+Subsec. (a)(4)(C). Pub. L. 112–30, §121(c)(1)(B), substituted "fifth through ninth" for "fifth through eighth".
 
-<b>2010</b>—Subsec. (a)(3). Pub. L. 111–147, §421(c)(1)(A), substituted “8” for “6”.
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–147, §421(c)(1)(A), substituted "8" for "6".
 
-Subsec. (a)(4)(C). Pub. L. 111–147, §421(c)(1)(B), substituted “fifth through eighth” for “fifth and sixth”.
+Subsec. (a)(4)(C). Pub. L. 111–147, §421(c)(1)(B), substituted "fifth through eighth" for "fifth and sixth".
 
-<b>2005</b>—Subsec. (a)(2). Pub. L. 109–59, §2004(a)(1), substituted “SAFETEA–LU” for “Transportation Equity Act for the 21st Century”.
+<b>2005</b>—Subsec. (a)(2). Pub. L. 109–59, §2004(a)(1), substituted "SAFETEA–LU" for "Transportation Equity Act for the 21st Century".
 
-Subsec. (a)(3). Pub. L. 109–59, §2004(a)(2), substituted “2003” for “1997”.
+Subsec. (a)(3). Pub. L. 109–59, §2004(a)(2), substituted "2003" for "1997".
 
-Subsec. (a)(4). Pub. L. 109–59, §2004(a)(3), inserted “beginning after September 30, 2003,” after “years” in subpars. (A) to (C).
+Subsec. (a)(4). Pub. L. 109–59, §2004(a)(3), inserted "beginning after September 30, 2003," after "years" in subpars. (A) to (C).
 
-Subsec. (c). Pub. L. 109–59, §2004(c), substituted “100 percent” for “25 percent” and “2003” for “1997”.
+Subsec. (c). Pub. L. 109–59, §2004(c), substituted "100 percent" for "25 percent" and "2003" for "1997".
 
-Subsec. (d). Pub. L. 109–59, §2002(e), struck out heading and text of subsec. (d). Text read as follows: “Funds authorized to be appropriated to carry out this section in a fiscal year shall be subject to a deduction not to exceed 5 percent for the necessary costs of administering the provisions of this section.”
+Subsec. (d). Pub. L. 109–59, §2002(e), struck out heading and text of subsec. (d). Text read as follows: "Funds authorized to be appropriated to carry out this section in a fiscal year shall be subject to a deduction not to exceed 5 percent for the necessary costs of administering the provisions of this section."
 
 #### Effective Date of 2012 Amendment
 
@@ -760,7 +760,7 @@ Pub. L. 109–59, title II, §2011, Aug. 10, 2005, 119 Stat. 1538, as amended by
 
 Pub. L. 105–178, title II, §2003(b), June 9, 1998, 112 Stat. 327, authorized the Secretary to make grants to States to implement child passenger protection programs, required reports from States and the Secretary regarding those programs, and authorized appropriations for fiscal years 2000 and 2001.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 

@@ -2,19 +2,19 @@
 
 #### (a) Establishment
 
-The Secretary, in consultation with State foresters or equivalent State officials, shall establish a Forest Stewardship Program (hereafter referred to in this section as the “Program”) to encourage the long-term stewardship of nonindustrial private forest lands by assisting owners of such lands to more actively manage their forest and related resources by utilizing existing State, Federal, and private sector resource management expertise and assistance programs.
+The Secretary, in consultation with State foresters or equivalent State officials, shall establish a Forest Stewardship Program (hereafter referred to in this section as the "Program") to encourage the long-term stewardship of nonindustrial private forest lands by assisting owners of such lands to more actively manage their forest and related resources by utilizing existing State, Federal, and private sector resource management expertise and assistance programs.
 
 #### (b) Goal
 
 The goal of the Program shall be to enter at least 25,000,000 acres of nonindustrial private forest lands in the Program by December 31, 1995.
 
-#### (c) “Nonindustrial private forest lands” defined
+#### (c) "Nonindustrial private forest lands" defined
 
-For the purposes of this section, the term “nonindustrial private forest lands” means rural, as determined by the Secretary, lands with existing tree cover, or suitable for growing trees, and owned by any private individual, group, association, corporation, Indian tribe, or other private legal entity.
+For the purposes of this section, the term "nonindustrial private forest lands" means rural, as determined by the Secretary, lands with existing tree cover, or suitable for growing trees, and owned by any private individual, group, association, corporation, Indian tribe, or other private legal entity.
 
 #### (d) Implementation
 
-In carrying out the Program the Secretary, in consultation with State foresters or equivalentState officials, shall provide financial, technical, educational, and related assistance to State foresters or equivalent State officials, including assistance to help such State foresters or equivalent officials to provide financial assistance to other State and local natural resource entities, both public and private, and land-grant universities for the delivery of information and professional assistance to owners of nonindustrial private forest lands. Such information and assistance shall be directed to help such owners understand and evaluate alternative actions they might take, including—
+In carrying out the Program the Secretary, in consultation with State foresters or equivalent State officials, shall provide financial, technical, educational, and related assistance to State foresters or equivalent State officials, including assistance to help such State foresters or equivalent officials to provide financial assistance to other State and local natural resource entities, both public and private, and land-grant universities for the delivery of information and professional assistance to owners of nonindustrial private forest lands. Such information and assistance shall be directed to help such owners understand and evaluate alternative actions they might take, including—
 
 &emsp;(1) managing and enhancing the productivity of timber, fish and wildlife habitat, water quality, wetlands, recreational resources, and the aesthetic value of forest lands;
 
@@ -58,5 +58,5 @@ A prior section 5 of Pub. L. 95–313 was renumbered section 8 and is classified
 
 #### Amendments
 
-<b>1991</b>—Subsec. (d). Pub. L. 102–237 substituted “State foresters” for “State Foresters” wherever appearing in introductory provisions.
+<b>1991</b>—Subsec. (d). Pub. L. 102–237 substituted "State foresters" for "State Foresters" wherever appearing in introductory provisions.
 

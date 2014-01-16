@@ -1,6 +1,6 @@
 ### §1465dd. Assistance from other Government agencies
 
-In order to assist the Broadcasting Board of Governors in carrying out the provisions of this subchapter, any agency or instrumentality ofthe United States may sell, loan, lease, or grant property (including interests therein) and may perform administrative and technical support and services at the request of the Board.
+In order to assist the Broadcasting Board of Governors in carrying out the provisions of this subchapter, any agency or instrumentality of the United States may sell, loan, lease, or grant property (including interests therein) and may perform administrative and technical support and services at the request of the Board.
 
 (Pub. L. 101–246, title II, §246, Feb. 16, 1990, 104 Stat. 62; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1325(1), (3), Oct. 21, 1998, 112 Stat. 2681–781.)
 
@@ -14,7 +14,7 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277 substituted “Broadcasting Board of Governors” for “United States Information Agency” and “the Board” for “the Agency”.
+<b>1998</b>—Pub. L. 105–277 substituted "Broadcasting Board of Governors" for "United States Information Agency" and "the Board" for "the Agency".
 
 #### Effective Date of 1998 Amendment
 

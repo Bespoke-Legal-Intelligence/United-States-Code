@@ -2,7 +2,7 @@
 
 #### (a) Purpose; definitions
 
-The purpose of this section is to recognize the importance and benefits of cooperation and participation of tenants in creating a suitable living environment in multifamily housing projects and in contributing to the successful operation of such projects, including their good physical condition, proper maintenance, security, energy efficiency, and control of operating costs. For the purpose of this section, the term “multifamily housing project” means a project which is eligible for assistance as described in section 1715z–1a(c) of this title or section 1701q of this title, or a project which receives project-based assistance under section 1437f of title 42 or enhanced vouchers under the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[12 U.S.C. 4101 et seq.\], the provisions of the Emergency Low Income Housing Preservation Act of 1987, or the Multifamily Assisted Housing Reform and Affordability Act of 1997.
+The purpose of this section is to recognize the importance and benefits of cooperation and participation of tenants in creating a suitable living environment in multifamily housing projects and in contributing to the successful operation of such projects, including their good physical condition, proper maintenance, security, energy efficiency, and control of operating costs. For the purpose of this section, the term "multifamily housing project" means a project which is eligible for assistance as described in section 1715z–1a(c) of this title or section 1701q of this title, or a project which receives project-based assistance under section 1437f of title 42 or enhanced vouchers under the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[12 U.S.C. 4101 et seq.\], the provisions of the Emergency Low Income Housing Preservation Act of 1987, or the Multifamily Assisted Housing Reform and Affordability Act of 1997.
 
 #### (b) Rights of tenants
 
@@ -24,7 +24,7 @@ The Secretary shall promulgate regulations to carry out the provisions of this s
 
 #### References in Text
 
-The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (a), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which is classified principally to chapter 42 (§4101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (a), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which is classified principally to chapter 42 (§4101 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (a), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitles A and B of title II, which were formerly set out as a note under section 1715l of this title and which amended section 1715z–6 of this title, were amended generally by Pub. L. 101–625 and are classified to subchapter I (§4101 et seq.) of chapter 42 of this title. Subtitles C and D of title II amended section 1715z–15 of this title and sections 1437f, 1472, 1485, and 1487 of Title 42, The Public Health and Welfare. Another subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, is classified generally to subchapter II (§4141 et seq.) of chapter 42 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
@@ -36,17 +36,17 @@ This section was enacted as part of the Housing and Community Development Amendm
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–276 inserted before period at end “, or a project which receives project-based assistance under section 1437f of title 42 or enhanced vouchers under the Low-Income Housing Preservation and Resident Homeownership Act of 1990, the provisions of the Emergency Low Income Housing Preservation Act of 1987, or the Multifamily Assisted Housing Reform and Affordability Act of 1997”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–276 inserted before period at end ", or a project which receives project-based assistance under section 1437f of title 42 or enhanced vouchers under the Low-Income Housing Preservation and Resident Homeownership Act of 1990, the provisions of the Emergency Low Income Housing Preservation Act of 1987, or the Multifamily Assisted Housing Reform and Affordability Act of 1997".
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–242, §183(a), inserted reference to section 1701q of this title.
 
-Subsec. (b)(1). Pub. L. 100–242, §183(b), substituted “or where the Secretary proposes to sell a mortgage secured by a multifamily housing project” for “and the Secretary deems it appropriate”.
+Subsec. (b)(1). Pub. L. 100–242, §183(b), substituted "or where the Secretary proposes to sell a mortgage secured by a multifamily housing project" for "and the Secretary deems it appropriate".
 
 <b>1981</b>—Subsec. (b)(1). Pub. L. 97–35 substituted provisions relating to request by the owner for rent increases, etc., for provisions relating to action by the owner.
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–276, title V, §599(b), Oct. 21, 1998, 112 Stat. 2660, provided that: “The amendment made by this section \[amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §599(b), Oct. 21, 1998, 112 Stat. 2660, provided that: "The amendment made by this section \[amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
 
 #### Effective Date of 1981 Amendment
 

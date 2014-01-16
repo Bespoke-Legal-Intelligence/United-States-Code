@@ -32,7 +32,7 @@ The Administrator shall make flood insurance available in only those States or a
 
 &emsp;(1) evidenced a positive interest in securing flood insurance coverage under the flood insurance program, and
 
-&emsp;(2) given satisfactory assurance that by December 31, 1971, adequate land use and control measures will have been adopted for the State or area (or subdivision) which are consistent with the comprehensive criteria for land management and use developed under section 4102 of this title, and that the application and enforcement of such measures will commence assoon as technical information on floodways and on controlling flood elevations is available.
+&emsp;(2) given satisfactory assurance that by December 31, 1971, adequate land use and control measures will have been adopted for the State or area (or subdivision) which are consistent with the comprehensive criteria for land management and use developed under section 4102 of this title, and that the application and enforcement of such measures will commence as soon as technical information on floodways and on controlling flood elevations is available.
 
 #### (d) Availability of insurance for multifamily properties
 
@@ -48,25 +48,25 @@ The Administrator shall make flood insurance available in only those States or a
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director".
 
-Subsec. (b). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in concluding provisions following par. (2).
+Subsec. (b). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in concluding provisions following par. (2).
 
-Subsec. (b)(A). Pub. L. 112–141, §100204(1), which directed amendment of subsec. (b)(2)(A) by inserting “not described in subsection (a) or (d)” after “properties”, was executed by making the insertion in subpar. (A) following first concluding provisions to reflect the probable intent of Congress.
+Subsec. (b)(A). Pub. L. 112–141, §100204(1), which directed amendment of subsec. (b)(2)(A) by inserting "not described in subsection (a) or (d)" after "properties", was executed by making the insertion in subpar. (A) following first concluding provisions to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in introductory provisions.
+Subsec. (c). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in introductory provisions.
 
 Subsec. (d). Pub. L. 112–141, §100204(2), added subsec. (d).
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
 
 <b>1971</b>—Subsec. (a). Pub. L. 92–213 inserted reference to church properties.
 
-<b>1969</b>—Subsec. (c)(2). Pub. L. 91–152 substituted “December 31, 1971, adequate” for “June 30, 1970, permanent”.
+<b>1969</b>—Subsec. (c)(2). Pub. L. 91–152 substituted "December 31, 1971, adequate" for "June 30, 1970, permanent".
 
 #### Transfer of Functions
 

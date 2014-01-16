@@ -4,11 +4,11 @@
 
 #### (1) Establishment
 
-&emsp;Subject to the provisions of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\], there is hereby created a Mutual Mortgage Insurance Fund (in this subchapter referred to as the “Fund”), which shall be used by the Secretary to carry out the provisions of this subchapter with respect to mortgages insured under section 1709 of this title. The Secretary may enter into commitments to guarantee, and may guarantee, such insured mortgages.
+&emsp;Subject to the provisions of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\], there is hereby created a Mutual Mortgage Insurance Fund (in this subchapter referred to as the "Fund"), which shall be used by the Secretary to carry out the provisions of this subchapter with respect to mortgages insured under section 1709 of this title. The Secretary may enter into commitments to guarantee, and may guarantee, such insured mortgages.
 
 #### (2) Limit on loan guarantees
 
-&emsp;The authority of the Secretary to enter into commitments to guarantee such insured mortgages shall be effective for any fiscal year only to the extent that the aggregate original principal loan amount under such mortgages, anypart of which is guaranteed, does not exceed the amount specified in appropriations Acts for such fiscal year.
+&emsp;The authority of the Secretary to enter into commitments to guarantee such insured mortgages shall be effective for any fiscal year only to the extent that the aggregate original principal loan amount under such mortgages, any part of which is guaranteed, does not exceed the amount specified in appropriations Acts for such fiscal year.
 
 #### (3) Fiduciary responsibility
 
@@ -48,7 +48,7 @@
 
 #### (b) Advisory Board
 
-There is created a Federal Housing Administration Advisory Board (“Board”) that shall review operation of the Federal Housing Administration, including the activities of the Mortgagee Review Board, and shall provide advice to the Federal Housing Commissioner with respect to the formulation of general policies of the Federal Housing Administration and such other matters as the Federal Housing Commissioner may deem appropriate. The Advisory Board shall, in all other respects, be subject to the provisions of the Federal Advisory Committee Act.
+There is created a Federal Housing Administration Advisory Board ("Board") that shall review operation of the Federal Housing Administration, including the activities of the Mortgagee Review Board, and shall provide advice to the Federal Housing Commissioner with respect to the formulation of general policies of the Federal Housing Administration and such other matters as the Federal Housing Commissioner may deem appropriate. The Advisory Board shall, in all other respects, be subject to the provisions of the Federal Advisory Committee Act.
 
 &emsp;(1) The Advisory Board shall be composed of 15 members to be appointed from among individuals who have substantial expertise and broad experience in housing and mortgage lending of whom—
 
@@ -74,7 +74,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(4) Not more than 8 members of the Advisory Board may be from any one political party.
 
-&emsp;(5) Membership of the Advisory Board shall not include any person who, during the previous 24-month period, was required to registerwith the Secretary under section 3537b(c) <sup>1</sup> of title 42 or employed a person for purposes that required such person to so register.
+&emsp;(5) Membership of the Advisory Board shall not include any person who, during the previous 24-month period, was required to register with the Secretary under section 3537b(c) <sup>1</sup> of title 42 or employed a person for purposes that required such person to so register.
 
 &emsp;(6) Of the members of the Advisory Board first appointed, 5 shall have terms of l year, and 5 shall have terms of 2 years. Their successors and all other appointees shall have terms of 3 years.
 
@@ -92,7 +92,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 #### (1) Establishment
 
-&emsp;There is established within the Federal Housing Administration the Mortgagee Review Board (“Board”). The Board is empowered to initiate the issuance of a letter of reprimand, the probation, suspension or withdrawal of any mortgagee found to be engaging in activities in violation of Federal Housing Administration requirements or the nondiscrimination requirements of the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], or Executive Order 11063.
+&emsp;There is established within the Federal Housing Administration the Mortgagee Review Board ("Board"). The Board is empowered to initiate the issuance of a letter of reprimand, the probation, suspension or withdrawal of any mortgagee found to be engaging in activities in violation of Federal Housing Administration requirements or the nondiscrimination requirements of the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], or Executive Order 11063.
 
 #### (2) Composition
 
@@ -124,7 +124,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 #### (C) Suspension
 
-&emsp;&emsp;The Board may issue an order temporarily suspending a mortgagee's approval for doing business with the Federal Housing Administration if (i) there exists adequate evidence of a violation or violations and (ii) continuation of the mortgagee's approval, pending or at the completion of any audit, investigation, or other review, or such administrative or other legal proceedings as may ensue, would not be in the public interest or in the best interests of the Department. Notwithstanding paragraph (4)(A), a suspension shall be effective upon issuance by the Board if the Board determines that there exists adequate evidence that immediate action is required to protect the financial interests of the Department or the public. A suspension shall last for not less than 6 months, and for not longer than 1 year. The Board may extend the suspension for an additional 6 months if it determines the extension is inthe public interest. If the Board and the mortgagee agree, these time limits may be extended. During the period of suspension, the Federal Housing Administration shall not commit to insure any mortgage originated by the suspended mortgagee.
+&emsp;&emsp;The Board may issue an order temporarily suspending a mortgagee's approval for doing business with the Federal Housing Administration if (i) there exists adequate evidence of a violation or violations and (ii) continuation of the mortgagee's approval, pending or at the completion of any audit, investigation, or other review, or such administrative or other legal proceedings as may ensue, would not be in the public interest or in the best interests of the Department. Notwithstanding paragraph (4)(A), a suspension shall be effective upon issuance by the Board if the Board determines that there exists adequate evidence that immediate action is required to protect the financial interests of the Department or the public. A suspension shall last for not less than 6 months, and for not longer than 1 year. The Board may extend the suspension for an additional 6 months if it determines the extension is in the public interest. If the Board and the mortgagee agree, these time limits may be extended. During the period of suspension, the Federal Housing Administration shall not commit to insure any mortgage originated by the suspended mortgagee.
 
 #### (D) Withdrawal
 
@@ -170,9 +170,9 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(C) In the case of violation or threatened violation of, or failure to obey, a temporary cease-and-desist order issued pursuant to this paragraph, the Secretary may apply to the United States district court, or the United States court of any territory, within the jurisdiction of which the home office of the mortgagee is located, for an injunction to enforce such order, and, if the court shall determine that there has been such violation or threatened violation or failure to obey, it shall be the duty of the court to issue such injunction.
 
-#### (7) “Mortgagee” defined
+#### (7) "Mortgagee" defined
 
-&emsp;For purposes of this subsection, the term “mortgagee” means—
+&emsp;For purposes of this subsection, the term "mortgagee" means—
 
 &emsp;&emsp;(A) a mortgagee approved under this chapter;
 
@@ -202,7 +202,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;&emsp;(A) currently suspended, debarred, under a limited denial of participation (LDP), or otherwise restricted under part 25 of title 24 of the Code of Federal Regulations, 2 Code of Federal Regulations, part 180 as implemented by part 2424, or any successor regulations to such parts, or under similar provisions of any other Federal agency;
 
-&emsp;&emsp;(B) under indictment for, or has been convicted of, an offense that reflects adversely upon the applicant's integrity, competence or fitness to meet the responsibilities of an approved mortgagee;
+&emsp;&emsp;(B) under indictment for, or has been convicted of, an offense that reflects adverselyupon the applicant's integrity, competence or fitness to meet the responsibilities of an approved mortgagee;
 
 &emsp;&emsp;(C) subject to unresolved findings contained in a Department of Housing and Urban Development or other governmental audit, investigation, or review;
 
@@ -252,7 +252,7 @@ Whenever the Secretary has taken any discretionary action to suspend or revoke t
 
 &emsp;(4) the Secretary of Agriculture;
 
-&emsp;(5) if the mortgagee is a national bank, a subsidiary or affiliate of such bank, a Federal savings association or a subsidiary or affiliateof a savings association, the Comptroller of the Currency;
+&emsp;(5) if the mortgagee is a national bank, a subsidiary or affiliate of such bank, a Federal savings association or a subsidiary or affiliate of a savings association, the Comptroller of the Currency;
 
 &emsp;(6) if the mortgagee is a State bank that is a member of the Federal Reserve System or a subsidiary or affiliate of such a bank, or a bank holding company or a subsidiary or affiliate of such a company, the Board of Governors of the Federal Reserve System; and
 
@@ -310,11 +310,11 @@ The Secretary shall, by regulation, require each mortgagee approved by the Secre
 
 #### References in Text
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (a)(1), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (a)(1), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Section 3537b(c) of title 42, referred to in subsec. (b)(5), was in the original “section 112(c) of the Department of Housing and Urban Development Reform Act of 1989”, meaning section 112 of Pub. L. 101–235, which does not contain a subsec. (c), but enacted section 13 of the Department of Housing and Urban Development Act, which was classified to section 3537b of title 42 prior to repeal by Pub. L. 104–65, §11(b)(1), Dec. 19, 1995, 109 Stat. 701, and which contained a subsec. (c) relating to registration with the Secretary.
+Section 3537b(c) of title 42, referred to in subsec. (b)(5), was in the original "section 112(c) of the Department of Housing and Urban Development Reform Act of 1989", meaning section 112 of Pub. L. 101–235, which does not contain a subsec. (c), but enacted section 13 of the Department of Housing and Urban Development Act, which was classified to section 3537b of title 42 prior to repeal by Pub. L. 104–65, §11(b)(1), Dec. 19, 1995, 109 Stat. 701, and which contained a subsec. (c) relating to registration with the Secretary.
 
 The Equal Credit Opportunity Act, referred to in subsec. (c)(1), (3)(B), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
@@ -322,7 +322,7 @@ The Fair Housing Act, referred to in subsec. (c)(1), (3)(B), is title VIII of Pu
 
 Executive Order 11063, referred to in subsec. (c)(1), (3)(B), is set out as a note under section 1982 of Title 42.
 
-This chapter, referred to in subsec. (c)(7)(A), was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsec. (c)(7)(A), was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
 The effective date of this sentence, referred to in subsec. (c)(9), is the date of enactment of Pub. L. 111–22, which enacted par. (9) and was approved May 20, 2009.
 
@@ -334,19 +334,19 @@ Section 1709(s) of this title, which was transferred and redesignated as subsec.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (f)(5). Pub. L. 111–203, §373(1), added par. (5) and struck out former par. (5) which read as follows: “if the mortgagee is a national bank, or a subsidiary or affiliate of such a bank, the Comptroller of the Currency;”.
+<b>2010</b>—Subsec. (f)(5). Pub. L. 111–203, §373(1), added par. (5) and struck out former par. (5) which read as follows:"if the mortgagee is a national bank, or a subsidiary or affiliate of such a bank, the Comptroller of the Currency;".
 
-Subsec. (f)(6). Pub. L. 111–203, §373(2), inserted “and” at end.
+Subsec. (f)(6). Pub. L. 111–203, §373(2), inserted "and" at end.
 
-Subsec. (f)(7). Pub. L. 111–203, §373(3), inserted “or State savings association” after “State bank” and substituted period for “; and” at end.
+Subsec. (f)(7). Pub. L. 111–203, §373(3), inserted "or State savings association" after "State bank" and substituted period for "; and" at end.
 
-Subsec. (f)(8). Pub. L. 111–203, §373(4), struck out par. (8) which read as follows: “if the mortgagee is a Federal or State savings association or a subsidiary or affiliate of a savings association, the Director of the Office of Thrift Supervision.”
+Subsec. (f)(8). Pub. L. 111–203, §373(4), struck out par. (8) which read as follows: "if the mortgagee is a Federal or State savings association or a subsidiary or affiliate of a savings association, the Director of the Office of Thrift Supervision."
 
-<b>2009</b>—Subsec. (c)(2)(E). Pub. L. 111–22, §203(a)(1)(A), inserted “and” after semicolon at end.
+<b>2009</b>—Subsec. (c)(2)(E). Pub. L. 111–22, §203(a)(1)(A), inserted "and" after semicolon at end.
 
-Subsec. (c)(2)(F). Pub. L. 111–22, §203(a)(1)(B), substituted “or their designees.” for “; and”.
+Subsec. (c)(2)(F). Pub. L. 111–22, §203(a)(1)(B), substituted "or their designees." for "; and".
 
-Subsec. (c)(2)(G). Pub. L. 111–22, §203(a)(1)(C), struck out subpar. (G), which read as follows: “the Director of the Enforcement Center; or their designees.”
+Subsec. (c)(2)(G). Pub. L. 111–22, §203(a)(1)(C), struck out subpar. (G), which read as follows: "the Director of the Enforcement Center; or their designees."
 
 Subsec. (c)(9). Pub. L. 111–22, §203(a)(2), added par. (9).
 
@@ -354,43 +354,43 @@ Subsecs. (d) to (g). Pub. L. 111–22, §203(b)(1), (2), added subsec. (d) and r
 
 Subsec. (h). Pub. L. 111–22, §203(b)(3), added subsec. (h).
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–289, §2118(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “There is created a Mutual Mortgage Insurance Fund (hereinafter referred to as the ‘Fund’), which shall be used by the Secretary as a revolving fund for carrying out the provisions of this subchapter with respect to mortgages insured under section 1709 of this title as hereinafter provided, and there shall be allocated immediately to such Fund the sum of $10,000,000 out of funds made available to the Secretary for the purposes of this subchapter.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §2118(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "There is created a Mutual Mortgage Insurance Fund (hereinafter referred to as the 'Fund'), which shall be used by the Secretary as a revolving fund for carrying out the provisions of this subchapter with respect to mortgages insured under section 1709 of this title as hereinafter provided, and there shall be allocated immediately to such Fund the sum of $10,000,000 out of funds made available to the Secretary for the purposes of this subchapter."
 
 Subsec. (e). Pub. L. 110–289, §2116(3), transferred subsec. (s) of section 1709 of this title and redesignated it as subsec. (e) of this section. See Codification note above. Former subsec. (e) redesignated (f).
 
-Subsec. (e)(3)(B). Pub. L. 110–289, §2116(1)(A), made technical amendment to reference in original act which appears in text as reference to “this subsection”.
+Subsec. (e)(3)(B). Pub. L. 110–289, §2116(1)(A), made technical amendment to reference in original act which appears in text as reference to "this subsection".
 
 Subsec. (e)(5). Pub. L. 110–289, §1404, added par. (5).
 
 Subsec. (f). Pub. L. 110–289, §2116(1)(B), redesignated subsec. (e) as (f).
 
-<b>2000</b>—Subsec. (c)(2)(E). Pub. L. 106–377, §1(a)(1) \[title II, §209(c)(1)\], struck out “and” at end.
+<b>2000</b>—Subsec. (c)(2)(E). Pub. L. 106–377, §1(a)(1) \[title II, §209(c)(1)\], struck out "and" at end.
 
-Subsec. (c)(2)(F). Pub. L. 106–377, §1(a)(1) \[title II, §209(c)(2)\], which directed substitution of “and” for “or their designees.”, was executed by inserting “and” after semicolon to reflect the probable intent of Congress, because the phrase “or their designees.” appeared at end of par. (2) and did not appear in subpar. (F).
+Subsec. (c)(2)(F). Pub. L. 106–377, §1(a)(1) \[title II, §209(c)(2)\], which directed substitution of "and" for "or their designees.", was executed by inserting "and" after semicolon to reflect the probable intent of Congress, because the phrase "or their designees." appeared at end of par. (2) and did not appear in subpar. (F).
 
 Subsec. (c)(2)(G). Pub. L. 106–377, §1(a)(1) \[title II, §209(c)(3)\], added subpar. (G).
 
-<b>1997</b>—Subsec. (c)(3)(C). Pub. L. 105–65 inserted after first sentence “Notwithstanding paragraph (4)(A), a suspension shall be effective upon issuance by the Board if the Board determines that there exists adequate evidence that immediate action is required to protect the financial interests of the Department or the public.”
+<b>1997</b>—Subsec. (c)(3)(C). Pub. L. 105–65 inserted after first sentence "Notwithstanding paragraph (4)(A), a suspension shall be effective upon issuance by the Board if the Board determines that there exists adequate evidence that immediate action is required to protect the financial interests of the Department or the public."
 
 <b>1992</b>—Subsec. (b)(11). Pub. L. 102–550, §502, added par. (11).
 
-Subsec. (c)(3)(C). Pub. L. 102–550, §518, inserted “temporarily” after “order”, “(i)” after “Administration if”, “(ii)” after “violations and”, and “, and for not longer than 1 year. The Board may extend the suspension for an additional 6 months if it determines the extension is in the public interest. If the Board and the mortgagee agree, these time limits may be extended” after “6 months”.
+Subsec. (c)(3)(C). Pub. L. 102–550, §518, inserted "temporarily" after "order", "(i)" after "Administration if", "(ii)" after "violations and", and ", and for not longer than 1 year. The Board may extend the suspension for an additional 6 months if it determines the extension is in the public interest. If the Board and the mortgagee agree, these time limits may be extended" after "6 months".
 
-Subsec. (c)(6)(D). Pub. L. 102–550, §519(1), struck out subpar. (D) which read as follows: “For purposes of this paragraph, the term ‘mortgagee’ means a mortgagee, a branch office or subsidiary of a mortgagee, or a director, officer, employee, agent, or other person participating in the conduct of the affairs of such mortgagee.”
+Subsec. (c)(6)(D). Pub. L. 102–550, §519(1), struck out subpar. (D) which read as follows: "For purposes of this paragraph, the term 'mortgagee' means a mortgagee, a branch office or subsidiary of a mortgagee, or a director, officer, employee, agent, or other person participating in the conduct of the affairs of such mortgagee."
 
 Subsec. (c)(7), (8). Pub. L. 102–550, §519(2), added par. (7) and redesignated former par. (7) as (8).
 
 <b>1990</b>—Subsec. (e)(3), (4). Pub. L. 101–625 added pars. (3) and (4).
 
-<b>1989</b>—Pub. L. 101–235 substituted “Federal Housing Administration operations” for “Mutual Mortgage Insurance Fund” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsecs. (b) to (e).
+<b>1989</b>—Pub. L. 101–235 substituted "Federal Housing Administration operations" for "Mutual Mortgage Insurance Fund" in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsecs. (b) to (e).
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner" wherever appearing.
 
-<b>1950</b>—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, substituted "Commissioner" for "Administrator" wherever appearing.
 
-<b>1939</b>—Act June 3, 1939, substituted “created” for “create”.
+<b>1939</b>—Act June 3, 1939, substituted "created" for "create".
 
-<b>1938</b>—Act Feb. 3, 1938, inserted “with respect to mortgages insured under section 1709 of this title”.
+<b>1938</b>—Act Feb. 3, 1938, inserted "with respect to mortgages insured under section 1709 of this title".
 
 #### Change of Name
 
@@ -402,23 +402,23 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 #### Expanded Review of FHA Mortgagee Applicants and Newly Approved Mortgagees
 
-Pub. L. 111–22, div. A, title II, §203(g), May 20, 2009, 123 Stat. 1648, provided that: “Not later than the expiration of the 3-month period beginning upon the date of the enactment of this Act \[May 20, 2009\], the Secretary of Housing and Urban Development shall—
+Pub. L. 111–22, div. A, title II, §203(g), May 20, 2009, 123 Stat. 1648, provided that: "Not later than the expiration of the 3-month period beginning upon the date of the enactment of this Act \[May 20, 2009\], the Secretary of Housing and Urban Development shall—
 
-&emsp;“(1) expand the existing process for reviewing new applicants for approval for participation in the mortgage insurance programs of the Secretary for mortgages on 1- to 4-family residences for the purpose of identifying applicants who represent a high risk to the Mutual Mortgage Insurance Fund; and
+&emsp;"(1) expand the existing process for reviewing new applicants for approval for participation in the mortgage insurance programs of the Secretary for mortgages on 1- to 4-family residences for the purpose of identifying applicants who represent a high risk to the Mutual Mortgage Insurance Fund; and
 
-&emsp;“(2) implement procedures that, for mortgagees approved during the 12-month period ending upon such date of enactment—
+&emsp;"(2) implement procedures that, for mortgagees approved during the 12-month period ending upon such date of enactment—
 
-&emsp;&emsp;“(A) expand the number of mortgages originated by such mortgagees that are reviewed for compliance with applicable laws, regulations, and policies; and
+&emsp;&emsp;"(A) expand the number of mortgages originated by such mortgagees that are reviewed for compliance with applicable laws, regulations, and policies; and
 
-&emsp;&emsp;“(B) include a process for random reviews of such mortgagees and a process for reviews that is based on volume of mortgages originated by such mortgagees.”
+&emsp;&emsp;"(B) include a process for random reviews of such mortgagees and a process for reviews that is based on volume of mortgages originated by such mortgagees."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subparagraph".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “contendere”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "contendere".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "paragraph".</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “and”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "and".</i>
 

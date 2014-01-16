@@ -6,7 +6,7 @@ Nonpreemption of State Authority.—Nothing in this chapter shall be construed t
 
 (b)
 
-State Defined.—In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+State Defined.—In this section, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 349.)
 

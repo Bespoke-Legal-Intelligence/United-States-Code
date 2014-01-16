@@ -18,9 +18,9 @@ Section 749 indicates that if the trustee avoids a transfer, property recovered 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b). Pub. L. 111–16 substituted “seven days” for “five days” in introductory provisions.
+<b>2009</b>—Subsec. (b). Pub. L. 111–16 substituted "seven days" for "five days" in introductory provisions.
 
-<b>1982</b>—Pub. L. 97–222 substituted “(a) Except as otherwise provided in this section, any” for “Any”, and “but” for “except”, inserted “such property”, substituted “or 549” for “549, or 724(a)”, and added subsec. (b).
+<b>1982</b>—Pub. L. 97–222 substituted "(a) Except as otherwise provided in this section, any" for "Any", and "but" for "except", inserted "such property", substituted "or 549" for "549, or 724(a)", and added subsec. (b).
 
 #### Effective Date of 2009 Amendment
 

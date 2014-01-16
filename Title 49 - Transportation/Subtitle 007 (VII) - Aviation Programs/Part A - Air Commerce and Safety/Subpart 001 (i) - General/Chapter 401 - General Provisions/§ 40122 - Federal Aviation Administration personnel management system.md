@@ -30,7 +30,7 @@ Binding arbitration for term bargaining.—
 
 &emsp;&emsp;&emsp;(i)
 
-Assistance from federal service impasses panel.—If the services of the Federal Mediation and Conciliation Service under subparagraph (A)(i) do not lead to the resolution of issues in controversy arising from the negotiation of a term collective-bargaining agreement, the Administrator and the exclusive bargaining representative of the employees (in this subparagraph referred to as the “parties”) shall submit their issues in controversy to the Federal Service Impasses Panel. The Panel shall assist the parties in resolving the impasse by asserting jurisdiction and ordering binding arbitration by a private arbitration board consisting of 3 members.
+Assistance from federal service impasses panel.—If the services of the Federal Mediation and Conciliation Service under subparagraph (A)(i) do not lead to the resolution of issues in controversy arising from the negotiation of a term collective-bargaining agreement, the Administrator and the exclusive bargaining representative of the employees (in this subparagraph referred to as the "parties")shall submit their issues in controversy to the Federal Service Impasses Panel. The Panel shall assist the parties in resolving the impasse by asserting jurisdiction and ordering binding arbitration by a private arbitration board consisting of 3 members.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -88,7 +88,7 @@ Ethics.—The Administration shall be subject to Executive Order No. 12674 and r
 
 (e)
 
-Employee Protections.—Until July 1, 1999, basic wages (including locality pay) and operational differential pay provided employees of the Administration shall not be involuntarily adversely affected by reason of the enactment of this section, except for unacceptable performance or by reason of a reduction in force or reorganization or by agreement between the Administration and the affected employees’ exclusive bargaining representative.
+Employee Protections.—Until July 1, 1999, basic wages (including locality pay) and operational differential pay provided employees of the Administration shall not be involuntarily adversely affected by reason of the enactment of this section, except for unacceptable performance or by reason of a reduction in force or reorganization or by agreement between the Administration and the affected employees' exclusive bargaining representative.
 
 (f)
 
@@ -100,7 +100,7 @@ Personnel Management System.—
 
 &emsp;(1)
 
-In general.—In consultation with the employees of the Administration and such non-governmental experts in personnel management systems as he may employ, and notwithstanding the provisions of title 5 andother Federal personnel laws, the Administrator shall develop and implement, not later than January 1, 1996, a personnel management system for the Administration that addresses the unique demands on the agency's workforce. Such a new system shall, at a minimum, provide for greater flexibility in the hiring, training, compensation, and location of personnel.
+In general.—In consultation with the employees of the Administration and such non-governmental experts in personnel management systems as he may employ, and notwithstanding the provisions of title 5 and other Federal personnel laws, the Administrator shall develop and implement, not later than January 1, 1996, a personnel management system for the Administration that addresses the unique demands on the agency's workforce. Such a new system shall, at a minimum, provide for greater flexibility in the hiring, training, compensation, and location of personnel.
 
 &emsp;(2)
 
@@ -108,7 +108,7 @@ Applicability of title 5.—The provisions of title 5 shall not apply to the new
 
 &emsp;&emsp;(A) section 2302(b), relating to whistleblower protection, including the provisions for investigation and enforcement as provided in chapter 12 of title 5;
 
-&emsp;&emsp;(B) sections 3308–3320, relating to veterans’ preference;
+&emsp;&emsp;(B) sections 3308–3320, relating to veterans' preference;
 
 &emsp;&emsp;(C) chapter 71, relating to labor-management relations;
 
@@ -126,13 +126,13 @@ Applicability of title 5.—The provisions of title 5 shall not apply to the new
 
 &emsp;&emsp;&emsp;(i) for purposes of applying such provisions to the personnel management system—
 
-&emsp;&emsp;&emsp;&emsp;(I) the term “agency” means the Department of Transportation;
+&emsp;&emsp;&emsp;&emsp;(I) the term "agency" means the Department of Transportation;
 
-&emsp;&emsp;&emsp;&emsp;(II) the term “senior executive” means a Federal Aviation Administration executive;
+&emsp;&emsp;&emsp;&emsp;(II) the term "senior executive" means a Federal Aviation Administration executive;
 
-&emsp;&emsp;&emsp;&emsp;(III) the term “career appointee” means a Federal Aviation Administration career executive; and
+&emsp;&emsp;&emsp;&emsp;(III) the term "career appointee" means a Federal Aviation Administration career executive; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) the term “senior career employee” means a Federal Aviation Administration career senior professional;
+&emsp;&emsp;&emsp;&emsp;(IV) the term "senior career employee" means a Federal Aviation Administration career senior professional;
 
 &emsp;&emsp;&emsp;(ii) receipt by a career appointee or a senior career employee of the rank of Meritorious Executive or Meritorious Senior Professional entitles the individual to a lump-sum payment of an amount equal to 20 percent of annual basic pay, which shall be in addition to the basic pay paid under the Federal Aviation Administration Executive Compensation Plan; and
 
@@ -156,7 +156,7 @@ Election of Forum.—Where a major adverse personnel action may be contested thr
 
 (j)
 
-Definition.—In this section, the term “major adverse personnel action” means a suspension of more than 14 days, a reduction in pay or grade, a removal for conduct or performance, a nondisciplinary removal, a furlough of 30 days or less (but not including placement in a nonpay status as the result of a lapse of appropriations or an enactment by Congress), or a reduction in force action.
+Definition.—In this section, the term "major adverse personnel action" means a suspension of more than 14 days, a reduction in pay or grade, a removal for conduct or performance, a nondisciplinary removal, a furlough of 30 days or less (but not including placement in a nonpay status as the result of a lapse of appropriations or an enactment by Congress), or a reduction in force action.
 
 (Added Pub. L. 104–264, title II, §253, Oct. 9, 1996, 110 Stat. 3237; amended Pub. L. 106–181, title III, §§307(a), 308, Apr. 5, 2000, 114 Stat. 124, 126; Pub. L. 112–95, title VI, §§601, 602, 611, Feb. 14, 2012, 126 Stat. 109, 111, 117.)
 
@@ -170,13 +170,13 @@ The effective date of the Air Traffic Management System Performance Improvement 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(2) to (5). Pub. L. 112–95, §601, added pars. (2) and (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die.”
+<b>2012</b>—Subsec. (a)(2) to (5). Pub. L. 112–95, §601, added pars. (2) and (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach suchagreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die."
 
 Subsec. (g)(2)(I). Pub. L. 112–95, §602, added subpar. (I).
 
-Subsec. (g)(3). Pub. L. 112–95, §611, inserted at end “Notwithstanding any other provision of law, retroactive to April 1, 1996, the Board shall have the same remedial authority over such employee appeals that it had as of March 31, 1996.”
+Subsec. (g)(3). Pub. L. 112–95, §611, inserted at end "Notwithstanding any other provision of law, retroactive to April 1, 1996, the Board shall have the same remedial authority over such employee appeals that it had as of March 31, 1996."
 
-<b>2000</b>—Subsec. (a)(2). Pub. L. 106–181, §308(a), inserted at end “The 60-day period shall not include any period during which Congress has adjourned sine die.”
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–181, §308(a), inserted at end "The 60-day period shall not include any period during which Congress has adjourned sine die."
 
 Subsec. (g). Pub. L. 106–181, §307(a), added subsec. (g).
 
@@ -194,5 +194,5 @@ Except as otherwise specifically provided, section applicable only to fiscal yea
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

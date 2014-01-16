@@ -6,7 +6,7 @@ Each Federal Home Loan Bank may carry to a reserve account from time-to-time suc
 
 #### (b) Assistance to member institutions in event of severe financial conditions
 
-Notwithstanding subsection (a) of this section or any other provision of this chapter, if the Director determines that severe financial conditions exist threatening the stability of member institutions, the Director may suspend temporarily the requirements of subsection (a) of this section that a portion of net earnings be set aside semiannually by each Federal Home Loan Bank to a reserve account and permit each Federal Home Loan Bank to declare and pay dividends out of undivided profits.
+Notwithstanding subsection (a) of this section or any other provision of this chapter, if the Director determines that severe financial conditions exist threatening the stability of member institutions, the Director may suspend temporarily the requirements of subsection (a) of this section that a portion of net earnings be set aside semiannually by each Federal Home LoanBank to a reserve account and permit each Federal Home Loan Bank to declare and pay dividends out of undivided profits.
 
 #### (c) Exception in case of losses in connection with Financing Corporation stock
 
@@ -30,15 +30,15 @@ Notwithstanding subsection (a) of this section or any other provision of this ch
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–289 substituted “the Director” for “the Board” wherever appearing.
+<b>2008</b>—Pub. L. 110–289 substituted "the Director" for "the Board" wherever appearing.
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–102, in third sentence substituted “previously retained earnings or current net earnings” for “net earnings” and struck out “, and then only with the approval of the Federal Housing Finance Board” after “section 1441b(e) of this title” and struck out fourth sentence which read as follows: “Beginning on January 1, 1992, the preceding sentence shall be applied by substituting ‘previously retained earnings or current net earnings’ for ‘net earnings’.”
+<b>1999</b>—Subsec. (a). Pub. L. 106–102, in third sentence substituted "previously retained earnings or current net earnings" for "net earnings" and struck out ", and then only with the approval of the Federal Housing Finance Board" after "section 1441b(e) of this title" and struck out fourth sentence which read as follows: "Beginning on January 1, 1992, the preceding sentence shall be applied by substituting 'previously retained earnings or current net earnings' for 'net earnings'."
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–73, §724(a)(1), substituted “Each Federal Home Loan Bank may carry to a reserve account from time-to-time such portion of its net earnings as may be determined by its board of directors.” for “Each Federal Home Loan Bank shall carry to a reserve account semiannually 20 per centum of its net earnings until said reserve account shall show a credit balance equal to 100 per centum of the paid-in capital of such bank. After said reserve has reached 100 per centum of the paid-in capital of said bank, 5 per centum of its net earnings shall be added thereto semiannually. Whenever said reserve shall have been impaired below 100 per centum of the paid-in capital it shall be restored before any dividends are paid.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §724(a)(1), substituted "Each Federal Home Loan Bank may carry to a reserve account from time-to-time such portion of its net earnings as may be determined by its board of directors." for "Each Federal Home Loan Bank shall carry to a reserve account semiannually 20 per centum of its net earnings until said reserve account shall show a credit balance equal to 100 per centum of the paid-in capital of such bank. After said reserve has reached 100 per centum of the paid-in capital of said bank, 5 per centum of its net earnings shall be added thereto semiannually. Whenever said reserve shall have been impaired below 100 per centum of the paid-in capital it shall be restored before any dividends are paid."
 
-Pub. L. 101–73, §724(a)(2), substituted “No dividends shall be paid except out of net earnings remaining after reductions for all reserves, chargeoffs, purchases of capital certificates of the Financing Corporation, and payments relating to the Funding Corporation required under this chapter have been provided for, other than chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the Financing Corporation under section 1441 of this title or payments relating to the Funding Corporation Principal Fund under section 1441b(e) of this title, and then only with the approval of the Federal Housing Finance Board. Beginning on January 1, 1992, the preceding sentence shall be applied by substituting ‘previously retained earnings or current net earnings’ for ‘net earnings’.” for “No dividends shall be paid except out of net earnings remaining after all reserves and charge-offs required under this chapter have been provided for, and then only with the approval of the board.”
+Pub. L. 101–73, §724(a)(2), substituted "No dividends shall be paid except out of net earnings remaining after reductions for all reserves, chargeoffs, purchases of capital certificates of the Financing Corporation, and payments relating to the Funding Corporation required under this chapter have been provided for, other than chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the Financing Corporation under section 1441 of this title or payments relating to the Funding Corporation Principal Fund under section 1441b(e) of this title, and then only with the approval of the Federal Housing Finance Board. Beginning on January 1, 1992, the preceding sentence shall be applied by substituting 'previously retained earnings or current net earnings' for 'net earnings'." for "No dividends shall be paid except out of net earnings remaining after all reserves and charge-offs required under this chapter have been provided for, and then only with the approval of the board."
 
-Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
+Pub. L. 101–73, §701(b)(1), (3)(A), substituted "Board" for "board" wherever appearing.
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–86 added subsec. (c).
 
@@ -48,13 +48,13 @@ Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” w
 
 <b>1968</b>—Pub. L. 90–448 authorized investments in obligations, participations, or other instruments issued by the Government National Mortgage Association.
 
-<b>1964</b>—Pub. L. 88–560 substituted “in obligations, participations, or other instruments of or issued by the Federal National Mortgage Association” for “in obligations of the Federal National Mortgage Association”.
+<b>1964</b>—Pub. L. 88–560 substituted "in obligations, participations, or other instruments of or issued by the Federal National Mortgage Association" for "in obligations of the Federal National Mortgage Association".
 
 <b>1954</b>—Act Aug. 2, 1954, inserted reference to obligations of Federal National Mortgage Association in last sentence.
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–73, title VII, §724(b), Aug. 9, 1989, 103 Stat. 429, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall take effect on January 1, 1992.”
+Pub. L. 101–73, title VII, §724(b), Aug. 9, 1989, 103 Stat. 429, provided that: "The amendment made by subsection (a)(1) \[amending this section\] shall take effect on January 1, 1992."
 
 #### Effective Date of 1968 Amendment
 

@@ -6,7 +6,7 @@ A recipient may use up to 7.5 percent of any annual grant received under this pa
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–22 substituted “7.5 percent” for “5 percent”.
+<b>2009</b>—Pub. L. 111–22 substituted "7.5 percent" for "5 percent".
 
 #### Effective Date of 2009 Amendment
 

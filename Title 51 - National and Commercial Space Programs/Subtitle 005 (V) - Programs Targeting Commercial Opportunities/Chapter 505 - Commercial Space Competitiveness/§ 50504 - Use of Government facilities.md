@@ -28,7 +28,7 @@ Reimbursement Payment.—
 
 &emsp;(1)
 
-Amount.—The reimbursement referred to in subsection (a) may be an amount equal tothe direct costs (including salaries of United States civilian and contractor personnel) incurred by the United States as a result of the use of such facilities by the private sector. For the purposes of this paragraph, the term “direct costs” means the actual costs that can be unambiguously associated with such use, and would not be borne by the United States Government in the absence of such use.
+Amount.—The reimbursement referred to in subsection (a) may be an amount equal tothe direct costs (including salaries of United States civilian and contractor personnel) incurred by the United States as a result of the use of such facilities by the private sector. For the purposes of this paragraph, the term "direct costs" means the actual costs that can be unambiguously associated with such use, and would not be borne by the United States Government in the absence of such use.
 
 &emsp;(2)
 

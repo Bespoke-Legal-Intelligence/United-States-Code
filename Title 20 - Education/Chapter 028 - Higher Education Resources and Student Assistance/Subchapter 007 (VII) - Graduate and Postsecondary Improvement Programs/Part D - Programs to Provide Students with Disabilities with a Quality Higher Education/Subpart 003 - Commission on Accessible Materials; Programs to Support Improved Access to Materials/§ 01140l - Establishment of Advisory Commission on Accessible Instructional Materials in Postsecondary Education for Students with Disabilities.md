@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a commission to be known as the Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities (in this section referred to as the “Commission”).
+&emsp;The Secretary shall establish a commission to be known as the Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities (in this section referred to as the "Commission").
 
 #### (2) Membership
 
@@ -66,7 +66,7 @@
 
 #### (B) First meeting
 
-&emsp;&emsp;Not later than 60 days after the appointment of the members of the Commission under paragraph (2)(D), the Commission shall hold the Commission's first meeting.
+&emsp;&emsp;Not later than 60 days after the appointment of the members of the Commissionunder paragraph (2)(D), the Commission shall hold the Commission's first meeting.
 
 #### (5) Quorum
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;The Commission shall conduct a comprehensive study to—
 
-&emsp;&emsp;&emsp;(i) assess the barriers and systemic issues that may affect, and technical solutions available that may improve, the timely delivery and quality of accessible instructional materials for postsecondarystudents with print disabilities, as well as the effective use of such materials by faculty and staff; and
+&emsp;&emsp;&emsp;(i) assess the barriers and systemic issues that may affect, and technical solutions available that may improve, the timely delivery and quality of accessible instructional materials for postsecondary students with print disabilities, as well as the effective use of such materials by faculty and staff; and
 
 &emsp;&emsp;&emsp;(ii) make recommendations related to the development of a comprehensive approach to improve the opportunities for postsecondary students with print disabilities to access instructional materials in specialized formats in a timeframe comparable to the availability of instructional materials for postsecondary nondisabled students.
 
@@ -148,9 +148,9 @@ A prior section 772 of Pub. L. 89–329 was classified to section 1132h–1 of t
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(2)(A). Pub. L. 111–39, §701(5)(A), substituted “with” for “with in”.
+<b>2009</b>—Subsec. (a)(2)(A). Pub. L. 111–39, §701(5)(A), substituted "with" for "with in".
 
-Subsec. (b)(1)(C)(ii). Pub. L. 111–39, §701(5)(B), substituted “clause (i)” for “subparagraph (C)” in introductory provisions.
+Subsec. (b)(1)(C)(ii). Pub. L. 111–39, §701(5)(B), substituted "clause (i)" for "subparagraph (C)" in introductory provisions.
 
 #### Effective Date of 2009 Amendment
 

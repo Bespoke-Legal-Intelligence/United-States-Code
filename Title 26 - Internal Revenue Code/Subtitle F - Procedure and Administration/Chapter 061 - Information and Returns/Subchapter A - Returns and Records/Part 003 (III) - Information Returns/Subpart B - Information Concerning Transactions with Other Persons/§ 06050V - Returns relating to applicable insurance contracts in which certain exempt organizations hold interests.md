@@ -24,13 +24,13 @@ For purposes of this section—
 
 #### (1) Reportable acquisition
 
-&emsp;The term “reportable acquisition” means the acquisition by an applicable exempt organization of a direct or indirect interest in any applicable insurance contract in any case in which such acquisition is a part of a structured transaction involving a pool of such contracts.
+&emsp;The term "reportable acquisition" means the acquisition by an applicable exempt organization of a direct or indirect interest in any applicable insurance contract in any case in which such acquisition is a part of a structured transaction involving a pool of such contracts.
 
 #### (2) Applicable insurance contract
 
 #### (A) In general
 
-&emsp;&emsp;The term “applicable insurance contract” means any life insurance, annuity, or endowment contract with respect to which both an applicable exempt organization and a person other than an applicable exempt organization have directly or indirectly held an interest in the contract (whether or not at the same time).
+&emsp;&emsp;The term "applicable insurance contract" means any life insurance, annuity, or endowment contract with respect to which both an applicable exempt organization and a person other than an applicable exempt organization have directly or indirectly held an interest in the contract (whether or not at the same time).
 
 #### (B) Exceptions
 
@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (3) Applicable exempt organization
 
-&emsp;The term “applicable exempt organization” means—
+&emsp;The term "applicable exempt organization" means—
 
 &emsp;&emsp;(A) an organization described in section 170(c),
 
@@ -72,5 +72,5 @@ Section 1211(a)(1) of Pub. L. 109–280, which directed the addition of section 
 
 #### Effective Date
 
-Pub. L. 109–280, title XII, §1211(d), Aug. 17, 2006, 120 Stat. 1074, provided that: “The amendments made by this section \[enacting this section and amending sections 6721 and 6724 of this title\] shall apply to acquisitions of contracts after the date of enactment of this Act \[Aug. 17, 2006\].”
+Pub. L. 109–280, title XII, §1211(d), Aug. 17, 2006, 120 Stat. 1074, provided that: "The amendments made by this section \[enacting this section and amending sections 6721 and 6724 of this title\] shall apply to acquisitions of contracts after the date of enactment of this Act \[Aug. 17, 2006\]."
 

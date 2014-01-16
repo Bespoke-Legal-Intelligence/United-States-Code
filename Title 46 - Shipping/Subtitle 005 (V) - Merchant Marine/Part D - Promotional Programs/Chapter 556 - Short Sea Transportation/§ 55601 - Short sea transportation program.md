@@ -44,7 +44,7 @@ Multistate, State and Regional Transportation Planning.—The Secretary, in cons
 
 &emsp;(1) assess the extent to which States and local governments include short sea transportation and other marine transportation solutions in their transportation planning;
 
-&emsp;(2) encourage State departments of transportation to develop strategies, where appropriate, to incorporate short sea transportation, ferries, and other marine transportation solutions for regional and interstatetransport of freight and passengers in their transportation planning; and
+&emsp;(2) encourage State departments of transportation to develop strategies, where appropriate, to incorporate short sea transportation, ferries, and other marine transportation solutions for regional and interstate transport of freight and passengers in their transportation planning; and
 
 &emsp;(3) encourage groups of States and multi-State transportation entities to determine how short sea transportation can address congestion, bottlenecks, and other interstate transportation challenges.
 
@@ -78,17 +78,17 @@ Non-federal share.—An applicant shall provide at least 20 percent of the proje
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–213, §405(a)(1), substituted “landside congestion or to promote short sea transportation.” for “landside congestion.”
+<b>2012</b>—Subsec. (a). Pub. L. 112–213, §405(a)(1), substituted "landside congestion or to promote short sea transportation." for "landside congestion."
 
-Subsec. (c). Pub. L. 112–213, §405(a)(2), substituted “coastal corridors or to promote short sea transportation” for “coastal corridors”.
+Subsec. (c). Pub. L. 112–213, §405(a)(2), substituted "coastal corridors or to promote short sea transportation" for "coastal corridors".
 
-Subsec. (d). Pub. L. 112–213, §405(a)(3), substituted “that the project uses documented vessels and—” for “that the project may—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+Subsec. (d). Pub. L. 112–213, §405(a)(3), substituted "that the project uses documented vessels and—" for "that the project may—" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 
-“(1) offer a waterborne alternative to available landside transportation services using documented vessels; and
+"(1) offer a waterborne alternative to available landside transportation services using documented vessels; and
 
-“(2) provide transportation services for passengers or freight (or both) that may reduce congestion on landside infrastructure using documented vessels.”
+"(2) provide transportation services for passengers or freight (or both) that may reduce congestion on landside infrastructure using documented vessels."
 
-Subsec. (f). Pub. L. 112–213, §405(a)(4), substituted “may” for “shall” in two places in introductory provisions.
+Subsec. (f). Pub. L. 112–213, §405(a)(4), substituted "may" for "shall" in two places in introductory provisions.
 
 <b>2009</b>—Subsec. (g). Pub. L. 111–84 added subsec. (g).
 
@@ -100,11 +100,11 @@ Chapter effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 Pub. L. 110–140, title XI, §1121(c), Dec. 19, 2007, 121 Stat. 1762, provided that:
 
-“(1)
+"(1)
 
 Interim regulations.—Not later than 90 days after the date of enactment of this Act \[Dec. 19, 2007\], the Secretary of Transportation shall issue temporary regulations to implement the program under this section. Subchapter II of chapter 5 of title 5, United States Code, does not apply to a temporary regulation issued under this paragraph or to an amendment to such a temporary regulation.
 
-“(2)
+"(2)
 
-Final regulations.—Not later than October 1, 2008, the Secretary of Transportation shall issue final regulations to implement the program under this section.”
+Final regulations.—Not later than October 1, 2008, the Secretary of Transportation shall issue final regulations to implement the program under this section."
 

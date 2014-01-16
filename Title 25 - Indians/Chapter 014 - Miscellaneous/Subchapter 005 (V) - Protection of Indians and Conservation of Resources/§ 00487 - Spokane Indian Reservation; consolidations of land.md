@@ -30,7 +30,7 @@ The acquisition and sale of lands for the Spokane Tribe pursuant to this Act sha
 
 #### References in Text
 
-This Act, referred to in subsecs. (b) to (e), is Pub. L. 90–335, June 10, 1968, 82 Stat. 174, as amended, which enacted this section and amended section 415 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (b) to (e), is Pub. L. 90–335, June 10, 1968, 82 Stat. 174, as amended, which enacted this section and amended section 415 of this title.For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -38,5 +38,5 @@ Section is comprised of subsecs. (a) to (e) of section 1 of Pub. L. 90–335. Su
 
 #### Amendments
 
-<b>1974</b>—Subsec. (c). Pub. L. 93–286 substituted “for the Spokane Tribe or individual” for “by the Spokane Tribe or individual”, and struck out proviso that the value on nontrust lands, or nontrust interests in land, acquired under this section by the Spokane Tribe during any twelve-month period shall not exceed the value of lands, or interests in land, that passed in any manner from a nontaxable trust status to a taxable fee status within the boundaries of the Spokane Reservation in Stevens County, Washington, during the twelve-month period preceding acquisition by the tribe.
+<b>1974</b>—Subsec. (c). Pub. L. 93–286 substituted "for the Spokane Tribe or individual" for "by the Spokane Tribe or individual", and struck out proviso that the value on nontrust lands, or nontrust interests in land, acquired under this section by the Spokane Tribe during any twelve-month period shall not exceed the value of lands, or interests in land, that passed in any manner from a nontaxable trust status to a taxable fee status within the boundaries of the Spokane Reservation in Stevens County, Washington, during the twelve-month period preceding acquisition by the tribe.
 

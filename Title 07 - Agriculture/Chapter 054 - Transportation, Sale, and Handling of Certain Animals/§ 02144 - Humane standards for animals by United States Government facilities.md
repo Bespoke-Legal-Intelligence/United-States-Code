@@ -2,13 +2,13 @@
 
 Any department, agency, or instrumentality of the United States having laboratory animal facilities shall comply with the standards and other requirements promulgated by the Secretary for a research facility under sections <sup>1</sup> 2143(a), (f), (g), and (h) of this title. Any department, agency, or instrumentality of the United States exhibiting animals shall comply with the standards promulgated by the Secretary under sections <sup>1</sup> 2143(a), (f), (g), and (h) of this title.
 
-(Pub. L. 89–544, §14, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, §15, Dec. 24, 1970, 84 Stat. 1563;Pub. L. 94–279, §19, Apr. 22, 1976, 90 Stat. 423; Pub. L. 99–198, title XVII, §1758, Dec. 23, 1985, 99 Stat. 1650.)
+(Pub. L. 89–544, §14, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, §15, Dec. 24, 1970, 84 Stat. 1563; Pub. L. 94–279, §19, Apr. 22, 1976, 90 Stat. 423; Pub. L. 99–198, title XVII, §1758, Dec. 23, 1985, 99 Stat. 1650.)
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–198 substituted “sections 2143(a), (f), (g), and (h) of this title” for “section 2143 of this title” in two places.
+<b>1985</b>—Pub. L. 99–198 substituted "sections 2143(a), (f), (g), and (h) of this title" for "section 2143 of this title" in two places.
 
-<b>1976</b>—Pub. L. 94–279 inserted “and other requirements” after “standards” in first sentence.
+<b>1976</b>—Pub. L. 94–279 inserted "and other requirements" after "standards" in first sentence.
 
 <b>1970</b>—Pub. L. 91–579 inserted provisions requiring facilities of the United States exhibiting animals to comply with standards promulgated by Secretary under section 2143 of this title.
 
@@ -20,5 +20,5 @@ Amendment by Pub. L. 99–198 effective one year after Dec. 23, 1985, see sectio
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

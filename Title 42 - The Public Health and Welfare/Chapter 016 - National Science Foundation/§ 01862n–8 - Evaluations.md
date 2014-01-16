@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the number of students enrolled in undergraduate science, mathematics, engineering, and technology programs;
 
-&emsp;&emsp;(B) student academic achievement, including quantifiable measurements of students’ mastery of content and skills;
+&emsp;&emsp;(B) student academic achievement, including quantifiable measurements of students' mastery of content and skills;
 
 &emsp;&emsp;(C) persistence to degree completion, including students who transfer from science, mathematics, engineering, and technology programs to programs in other academic disciplines; and
 

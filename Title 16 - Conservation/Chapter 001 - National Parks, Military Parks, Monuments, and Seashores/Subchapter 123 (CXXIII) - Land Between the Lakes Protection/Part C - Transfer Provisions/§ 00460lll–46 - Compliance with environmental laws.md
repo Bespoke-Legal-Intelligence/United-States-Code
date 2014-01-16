@@ -44,7 +44,7 @@ On the transfer of jurisdiction over the Recreation Area from the Tennessee Vall
 
 &emsp;&emsp;(A) costs or performance of response actions required under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) at or related to the Recreation Area; or
 
-&emsp;&emsp;(B) costs, penalties, fines, or performance of actions related to noncompliance with any environmental law at or related to the Recreation Area or related to the presence,release, or threat of release of any hazardous substance, pollutant, or contaminant, hazardous waste, hazardous material, or petroleum product or derivative of a petroleum product of any kind at or related to the Recreation Area, including contamination resulting from migration.
+&emsp;&emsp;(B) costs, penalties, fines, or performance of actions related to noncompliance with any environmental law at or related to the Recreation Area or related to the presence, release, or threat of release of any hazardous substance, pollutant, or contaminant, hazardous waste, hazardous material, or petroleum product or derivative of a petroleum product of any kind at or related to the Recreation Area, including contamination resulting from migration.
 
 #### (4) No effect on responsibilities or liabilities
 

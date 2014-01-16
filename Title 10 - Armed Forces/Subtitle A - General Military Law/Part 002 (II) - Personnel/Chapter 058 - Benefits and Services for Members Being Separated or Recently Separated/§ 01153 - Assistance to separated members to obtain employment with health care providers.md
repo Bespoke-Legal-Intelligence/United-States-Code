@@ -20,7 +20,7 @@ Eligible Members.—(1) Except as provided in paragraph (2), a member shall be e
 
 (c)
 
-Selection of Participants.—(1) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, shall select members to participate in the program established under subsection (a) on the basis of applications submitted to the Secretaryconcerned not later than one year after the date of the discharge or release of the members from active duty or, in the case of an applicant becoming educationally qualified for teacher placement assistance in accordance with subsection (b)(2), not later than one year after the date on which the applicant becomes educationally qualified. An application shall be in such form and contain such information as the Secretaries may require.
+Selection of Participants.—(1) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, shall select members to participate in the program established under subsection (a) on the basis of applications submitted to the Secretary concerned not later than one year after the date of the discharge or release of the members from active duty or, in the case of an applicant becoming educationally qualified for teacher placement assistance in accordance with subsection (b)(2), not later than one year after the date on which the applicant becomes educationally qualified. An application shall be in such form and contain such information as the Secretaries may require.
 
 (2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may not select a member to participate in the program unless the Secretary concerned has sufficient appropriations for the placement program available at the time of the selection to satisfy the obligations to be incurred by the United States under subsection (d) with respect to that member.
 
@@ -58,31 +58,31 @@ Agreements With States.—(1) In addition to the agreements referred to in subse
 
 (f)
 
-Definitions.—In this section, the term “State” includes the District of Columbia, American Samoa, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, Palau, and the Virgin Islands.
+Definitions.—In this section, the term "State" includes the District of Columbia, American Samoa, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, Palau, and the Virgin Islands.
 
 (Added Pub. L. 103–160, div. A, title XIII, §1332(b), Nov. 30, 1993, 107 Stat. 1795; amended Pub. L. 103–337, div. A, title V, §543(e), Oct. 5, 1994, 108 Stat. 2771; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (a), (c)(1), (2), (d)(1), (e)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a), (c)(1), (2), (d)(1), (e)(1). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337, §543(e)(1), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §543(e)(1), inserted ", and the Secretary of Transportation with respect to the Coast Guard," after "Secretary of Defense".
 
-Subsec. (b)(1). Pub. L. 103–337, §543(e)(2), struck out “by the Secretary of Defense” after “selection” in introductory provisions and inserted “concerned” after “Secretary” in two places in subpar. (C).
+Subsec. (b)(1). Pub. L. 103–337, §543(e)(2), struck out "by the Secretary of Defense" after "selection" in introductory provisions and inserted "concerned" after "Secretary" in two places in subpar. (C).
 
-Subsec. (c)(1). Pub. L. 103–337, §543(e)(3), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” and “concerned” after “to the Secretary” and substituted “Secretaries may” for “Secretary may”.
+Subsec. (c)(1). Pub. L. 103–337, §543(e)(3), inserted ", and the Secretary of Transportation with respect to the Coast Guard," after "Secretary of Defense" and "concerned" after "to the Secretary" and substituted "Secretaries may" for "Secretary may".
 
-Subsec. (c)(2). Pub. L. 103–337, §543(e)(4), inserted “of Defense, and the Secretary of Transportation with respect to the Coast Guard,” after “The Secretary” and “concerned” after “unless the Secretary”.
+Subsec. (c)(2). Pub. L. 103–337, §543(e)(4), inserted "of Defense, and the Secretary of Transportation with respect to the Coast Guard," after "The Secretary" and "concerned" after "unless the Secretary".
 
-Subsec. (c)(3). Pub. L. 103–337, §543(e)(5), substituted “Secretaries” for “Secretary” in subpars. (A) and (B).
+Subsec. (c)(3). Pub. L. 103–337, §543(e)(5), substituted "Secretaries" for "Secretary" in subpars. (A) and (B).
 
-Subsec. (d)(1). Pub. L. 103–337, §543(e)(6)(A), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
+Subsec. (d)(1). Pub. L. 103–337, §543(e)(6)(A), inserted "and the Secretary of Transportation" after "Secretary of Defense".
 
-Subsec. (d)(2) to (5). Pub. L. 103–337, §543(e)(6)(B), inserted “concerned” after “Secretary” wherever appearing.
+Subsec. (d)(2) to (5). Pub. L. 103–337, §543(e)(6)(B), inserted "concerned" after "Secretary" wherever appearing.
 
-Subsec. (e)(1). Pub. L. 103–337, §543(e)(7)(A), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “the Secretary of Defense”.
+Subsec. (e)(1). Pub. L. 103–337, §543(e)(7)(A), inserted ", and the Secretary of Transportation with respect to the Coast Guard," after "the Secretary of Defense".
 
-Subsec. (e)(2). Pub. L. 103–337, §543(e)(7)(B), inserted “concerned” after “The Secretary”.
+Subsec. (e)(2). Pub. L. 103–337, §543(e)(7)(B), inserted "concerned" after "The Secretary".
 
 #### Effective Date of 2002 Amendment
 

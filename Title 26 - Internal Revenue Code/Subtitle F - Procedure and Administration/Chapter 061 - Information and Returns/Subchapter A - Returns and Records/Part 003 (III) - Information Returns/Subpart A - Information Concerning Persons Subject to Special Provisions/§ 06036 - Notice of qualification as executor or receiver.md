@@ -6,9 +6,9 @@ Every receiver, trustee in a case under title 11 of the United States Code, assi
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–589 substituted “trustee in a case under title 11 of the United States Code” for “trustee in bankruptcy”.
+<b>1980</b>—Pub. L. 96–589 substituted "trustee in a case under title 11 of the United States Code" for "trustee in bankruptcy".
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 1980 Amendment
 

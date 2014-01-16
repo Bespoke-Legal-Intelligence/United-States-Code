@@ -82,11 +82,11 @@ Undefinitized contractual action.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), the term “undefinitized contractual action” means a new procurement action entered into by the Coast Guard for which the contractual terms, specifications, or price are not agreed upon before performance is begun under the action.
+In general.—Except as provided in subparagraph (B), the term "undefinitized contractual action" means a new procurement action entered into by the Coast Guard for which the contractual terms, specifications, or price are not agreed upon before performance is begun under the action.
 
 &emsp;&emsp;(B)
 
-Exclusion.—The term “undefinitized contractual action” does not include contractual actions with respect to—
+Exclusion.—The term "undefinitized contractual action" does not include contractual actions with respect to—
 
 &emsp;&emsp;&emsp;(i) foreign military sales;
 
@@ -96,7 +96,7 @@ Exclusion.—The term “undefinitized contractual action” does not include co
 
 &emsp;(2)
 
-Qualifying proposal.—The term “qualifying proposal” means a proposal that contains sufficient information to enable complete and meaningful audits of the information contained in the proposal as determined by the contracting officer.
+Qualifying proposal.—The term "qualifying proposal" means a proposal that contains sufficient information to enable complete and meaningful audits of the information contained in the proposal as determined by the contracting officer.
 
 (Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2938.)
 

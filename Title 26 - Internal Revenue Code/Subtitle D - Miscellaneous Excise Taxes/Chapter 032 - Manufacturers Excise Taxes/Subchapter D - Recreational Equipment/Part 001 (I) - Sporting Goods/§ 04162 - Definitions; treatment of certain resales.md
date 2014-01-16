@@ -2,7 +2,7 @@
 
 #### (a) Sport fishing equipment defined
 
-For purposes of this part, the term “sport fishing equipment” means—
+For purposes of this part, the term "sport fishing equipment" means—
 
 &emsp;(1) fishing rods and poles (and component parts therefor),
 
@@ -90,7 +90,7 @@ For purposes of this part, the term “sport fishing equipment” means—
 
 #### (3) Related person
 
-&emsp;For purposes of this subsection, the term “related person” has the meaning given such term by section 465(b)(3)(C).
+&emsp;For purposes of this subsection, the term "related person" has the meaning given such term by section 465(b)(3)(C).
 
 #### (4) Regulations
 
@@ -100,25 +100,25 @@ For purposes of this part, the term “sport fishing equipment” means—
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(8) to (10). Pub. L. 108–357, §334(a), inserted “and” at end of par. (8), substituted a period for “, and” at end of par. (9), and struck out par. (10) which read as follows: “sonar devices suitable for finding fish.”
+<b>2004</b>—Subsec. (a)(8) to (10). Pub. L. 108–357, §334(a), inserted "and" at end of par. (8), substituted a period for ", and" at end of par. (9), and struck out par. (10) which read as follows: "sonar devices suitable for finding fish."
 
-Subsecs. (b), (c). Pub. L. 108–357, §334(b), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “For purposes of this part, the term ‘sonar device suitable for finding fish’ shall not include any sonar device which is—
+Subsecs. (b), (c). Pub. L. 108–357, §334(b), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: "For purposes of this part, the term 'sonar device suitable for finding fish' shall not include any sonar device which is—
 
-&emsp;“(1) a graph recorder,
+&emsp;"(1) a graph recorder,
 
-&emsp;“(2) a digital type,
+&emsp;"(2) a digital type,
 
-&emsp;“(3) a meter readout, or
+&emsp;"(3) a meter readout, or
 
-&emsp;“(4) a combination graph recorder or combination meter readout.”
+&emsp;"(4) a combination graph recorder or combination meter readout."
 
-<b>1986</b>—Subsec. (a)(6)(I). Pub. L. 99–514, §1878(b), amended subpar. (I) generally, substituting “hook” for “hood”.
+<b>1986</b>—Subsec. (a)(6)(I). Pub. L. 99–514, §1878(b), amended subpar. (I) generally, substituting "hook" for "hood".
 
-Subsec. (c)(3). Pub. L. 99–514, §201(d)(7)(C), (12), made identical amendments, substituting “section 465(b)(3)(C)” for “section 168(e)(4)(D)”.
+Subsec. (c)(3). Pub. L. 99–514, §201(d)(7)(C), (12), made identical amendments, substituting "section 465(b)(3)(C)" for "section 168(e)(4)(D)".
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title III, §334(c), Oct. 22, 2004, 118 Stat. 1478, provided that: “The amendments made this section \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after December 31, 2004.”
+Pub. L. 108–357, title III, §334(c), Oct. 22, 2004, 118 Stat. 1478, provided that: "The amendments made this section \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after December 31, 2004."
 
 #### Effective Date of 1986 Amendment
 
@@ -132,15 +132,15 @@ Amendment by section 1878(b) of Pub. L. 99–514 effective, except as otherwise 
 
 Pub. L. 98–369, div. A, title X, §1015(e), July 18, 1984, 98 Stat. 1019, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 4161 and 6302 of this title\] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984.
 
-“(2)
+"(2)
 
-Treatment of certain resales.—Subsection (c) of section 4162 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to treatment of certain resales), as added by this section, shall apply to sales by related persons (as defined in such subsection) after the date of the enactment of this Act \[July 18, 1984\].”
+Treatment of certain resales.—Subsection (c) of section 4162 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to treatment of certain resales), as added by this section, shall apply to sales by related persons (as defined in such subsection) after the date of the enactment of this Act \[July 18, 1984\]."
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

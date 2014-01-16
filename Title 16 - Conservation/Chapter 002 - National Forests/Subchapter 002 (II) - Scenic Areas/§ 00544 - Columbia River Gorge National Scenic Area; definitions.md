@@ -2,7 +2,7 @@
 
 As used in sections 544 to 544p of this title, the term—
 
-&emsp;(a) “adversely affect” or “adversely affecting” means, except as used in section 544m of this title, a reasonable likelihood of more than moderate adverse consequences for the scenic, cultural, recreation or natural resources of the scenic area, the determination of which is based on—
+&emsp;(a) "adversely affect" or "adversely affecting" means, except as used in section 544m of this title, a reasonable likelihood of more than moderate adverse consequences for the scenic, cultural, recreation or natural resources of the scenic area, the determination of which is based on—
 
 &emsp;&emsp;(1) the context of a proposed action;
 
@@ -12,23 +12,23 @@ As used in sections 544 to 544p of this title, the term—
 
 &emsp;&emsp;(4) proven mitigation measures which the proponent of an action will implement as part of the proposal to reduce otherwise significant affects to an insignificant level;
 
-&emsp;(b) “agricultural lands” means lands designated as agricultural lands pursuant to section 544d of this title;
+&emsp;(b) "agricultural lands" means lands designated as agricultural lands pursuant to section 544d of this title;
 
-&emsp;(c) “Commission” means the Columbia River Gorge Commission established pursuant to section 544c of this title;
+&emsp;(c) "Commission" means the Columbia River Gorge Commission established pursuant to section 544c of this title;
 
-&emsp;(d) “counties” means Hood River, Multnomah, and Wasco Counties, Oregon; and Clark, Klickitat, and Skamania Counties, Washington;
+&emsp;(d) "counties" means Hood River, Multnomah, and Wasco Counties, Oregon; and Clark, Klickitat, and Skamania Counties, Washington;
 
-&emsp;(e) “Dodson/Warrendale Special Purchase Unit” means the Dodson/Warrendale Special Purchase Unit established pursuant to section 544b of this title;
+&emsp;(e) "Dodson/Warrendale Special Purchase Unit" means the Dodson/Warrendale Special Purchase Unit established pursuant to section 544b of this title;
 
-&emsp;(f) “forest lands” means lands designated as forest lands pursuant to section 544d of this title;
+&emsp;(f) "forest lands" means lands designated as forest lands pursuant to section 544d of this title;
 
-&emsp;(g) “Indian tribes” means the Nez Perce Tribe, the Confederated Tribes and Bands of the Yakama Indian Nation, the Confederated Tribes of the Warm Springs of Oregon, and the Confederated Tribes of the Umatilla Indian Reservation;
+&emsp;(g) "Indian tribes" means the Nez Perce Tribe, the Confederated Tribes and Bands of the Yakama Indian Nation, the Confederated Tribes of the Warm Springs of Oregon, and the Confederated Tribes of the Umatilla Indian Reservation;
 
-&emsp;(h) “interim guidelines” means any interim guidelines developed by the Secretary pursuant to section 544h of this title, and any amendment, revision, or variance;
+&emsp;(h) "interim guidelines" means any interim guidelines developed by the Secretary pursuant to section 544h of this title, and any amendment, revision, or variance;
 
-&emsp;(i) “land use ordinance” or “ordinance” means any ordinance adopted by a county or by the Commission pursuant to sections 544 to 544p of this title, and includes any amendment to, revision of, or variance from such ordinance;
+&emsp;(i) "land use ordinance" or "ordinance" means any ordinance adopted by a county or by the Commission pursuant to sections 544 to 544p of this title, and includes any amendment to, revision of, or variance from such ordinance;
 
-&emsp;(j) “major development actions” means any of the following:
+&emsp;(j) "major development actions" means any of the following:
 
 &emsp;&emsp;(1) subdivisions, partitions and short plat proposals;
 
@@ -38,9 +38,9 @@ As used in sections 544 to 544p of this title, the term—
 
 &emsp;&emsp;(4) permits for siting or construction within a special management area of any residence or other related major structure on any parcel of land less than forty acres in size;
 
-&emsp;(k) “management plan” means the scenic area management plan adopted pursuant to section 544d of this title;
+&emsp;(k) "management plan" means the scenic area management plan adopted pursuant to section 544d of this title;
 
-&emsp;(l) “open spaces” means unimproved lands not designated as agricultural lands or forest lands pursuant to section 544d of this title and designated as open space pursuant to section 544d of this title. Open spaces include—
+&emsp;(l) "open spaces" means unimproved lands not designated as agricultural lands or forest lands pursuant to section 544d of this title and designated as open space pursuant to section 544d of this title. Open spaces include—
 
 &emsp;&emsp;(1) scenic, cultural, and historic areas;
 
@@ -60,19 +60,19 @@ As used in sections 544 to 544p of this title, the term—
 
 &emsp;&emsp;(9) Federal and State wild, scenic, and recreation waterways;
 
-&emsp;(m) “recreation assessment” means the recreation assessment adopted pursuant to section 544d of this title;
+&emsp;(m) "recreation assessment" means the recreation assessment adopted pursuant to section 544d of this title;
 
-&emsp;(n) “residential development” means the permitting for siting or construction of any residence or other related major structure;
+&emsp;(n) "residential development" means the permitting for siting or construction of any residence or other related major structure;
 
-&emsp;(o) “scenic area” means the Columbia River Gorge National Scenic Area established pursuant to section 544b of this title;
+&emsp;(o) "scenic area" means the Columbia River Gorge National Scenic Area established pursuant to section 544b of this title;
 
-&emsp;(p) “Secretary” means the Secretary of Agriculture;
+&emsp;(p) "Secretary" means the Secretary of Agriculture;
 
-&emsp;(q) “special management areas” means areas within the scenic area established pursuant to section 544b of this title;
+&emsp;(q) "special management areas" means areas within the scenic area established pursuant to section 544b of this title;
 
-&emsp;(r) “States” means the States of Oregon and Washington; and
+&emsp;(r) "States" means the States of Oregon and Washington; and
 
-&emsp;(s) “urban areas” means those areas within the scenic area identified as urban areas on the map referred to in section 544b(e) of this title or within the boundaries of an urban area as revised pursuant to section 544b(f) of this title.
+&emsp;(s) "urban areas" means those areas within the scenic area identified as urban areas on the map referred to in section 544b(e) of this title or within the boundaries of an urban area as revised pursuant to section 544b(f) of this title.
 
 (Pub. L. 99–663, §2, Nov. 17, 1986, 100 Stat. 4274; Pub. L. 103–435, §17(b), Nov. 2, 1994, 108 Stat. 4573.)
 
@@ -82,9 +82,9 @@ Federal Endangered Species Acts, referred to in subsec. (l)(3), are classified p
 
 #### Amendments
 
-<b>1994</b>—Subsec. (g). Pub. L. 103–435 substituted “Yakama Indian Nation” for “Yakima Indian Nation”.
+<b>1994</b>—Subsec. (g). Pub. L. 103–435 substituted "Yakama Indian Nation" for "Yakima Indian Nation".
 
 #### Short Title
 
-Pub. L. 99–663, §1, Nov. 17, 1986, 100 Stat. 4274, provided that: “This Act \[enacting this section and sections 544a to 544p of this title and amending sections 1274 and 1276 of this title\] may be referred to as the ‘Columbia River Gorge National Scenic Area Act’.”
+Pub. L. 99–663, §1, Nov. 17, 1986, 100 Stat. 4274, provided that: "This Act \[enacting this section and sections 544a to 544p of this title and amending sections 1274 and 1276 of this title\] may be referred to as the 'Columbia River Gorge National Scenic Area Act'."
 

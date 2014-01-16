@@ -2,7 +2,7 @@
 
 #### (a) Complaints by Secretary of Agriculture; notice of hearings
 
-The Secretary of Agriculture is authorized to make complaint to the Surface Transportation Board with respect to rates, charges, tariffs, and practices relating to the transportation of farm products, and to prosecute the same before the Board. Before hearing or disposing of any complaint (filed by any person other than the Secretary) with respect to rates, charges, tariffs, and practices relating to the transportation of farm products, the Board shall cause the Secretary to be notified, and, upon application by the Secretary, shall permit the Secretary to appear and be heard.
+The Secretary of Agriculture is authorized to make complaint to the Surface Transportation Board with respect to rates, charges, tariffs, and practices relating to the transportation of farm products, and to prosecute the same before the Board. Before hearing or disposing of any complaint (filed by any person other than the Secretary) with respect to rates, charges, tariffs,and practices relating to the transportation of farm products, the Board shall cause the Secretary to be notified, and, upon application by the Secretary, shall permit the Secretary to appear and be heard.
 
 #### (b) Secretary as party to proceedings
 
@@ -20,7 +20,7 @@ The Secretary is authorized to cooperate with and assist cooperative association
 
 #### Amendments
 
-<b>1995</b>—Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission” in subsecs. (a), (c), and (d), “Board” for “Commission” wherever appearing in subsecs. (a) and (b), and “Board's” for “Commission's” in subsec. (b).
+<b>1995</b>—Pub. L. 104–88 substituted "Surface Transportation Board" for "Interstate Commerce Commission" in subsecs. (a), (c), and (d), "Board" for "Commission" wherever appearing in subsecs. (a) and (b), and "Board's" for "Commission's" in subsec. (b).
 
 #### Effective Date of 1995 Amendment
 

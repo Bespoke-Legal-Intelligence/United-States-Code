@@ -6,7 +6,7 @@ For purposes of this chapter—
 
 #### (1) In general
 
-&emsp;Except as provided in this subsection or section 2653(a), the term “transferor” means—
+&emsp;Except as provided in this subsection or section 2653(a), the term "transferor" means—
 
 &emsp;&emsp;(A) in the case of any property subject to the tax imposed by chapter 11, the decedent, and
 
@@ -32,11 +32,11 @@ For purposes of this chapter—
 
 #### (1) Trust
 
-&emsp;The term “trust” includes any arrangement (other than an estate) which, although not a trust, has substantially the same effect as a trust.
+&emsp;The term "trust" includes any arrangement (other than an estate) which, although not a trust, has substantially the same effect as a trust.
 
 #### (2) Trustee
 
-&emsp;In the case of an arrangement which is not a trust but which is treated as a trust under this subsection, the term “trustee” shall mean the person in actual or constructive possession of the property subject to such arrangement.
+&emsp;In the case of an arrangement which is not a trust but which is treated as a trust under this subsection, the term "trustee" shall mean the person in actual or constructive possession of the property subject to such arrangement.
 
 #### (3) Examples
 
@@ -74,23 +74,23 @@ For purposes of this chapter—
 
 #### (d) Executor
 
-For purposes of this chapter, the term “executor” has the meaning given such term by section 2203.
+For purposes of this chapter, the term "executor" has the meaning given such term by section 2203.
 
 (Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2726; amended Pub. L. 100–647, title I, §1014(g)(6), (8), (9), (14), (20), Nov. 10, 1988, 102 Stat. 3565–3567; Pub. L. 105–34, title XIII, §1305(b),Aug. 5, 1997, 111 Stat. 1040; Pub. L. 105–206, title VI, §6013(a)(3), (4)(A), July 22, 1998, 112 Stat. 819.)
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–206, §6013(a)(4)(A), struck out at end “Such term shall not include any trust during any period the trust is treated as part of an estate under section 645.”
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–206, §6013(a)(4)(A), struck out at end "Such term shall not include any trust during any period the trust is treated as part of an estate under section 645."
 
-Pub. L. 105–206, §6013(a)(3), substituted “section 645” for “section 646”.
+Pub. L. 105–206, §6013(a)(3), substituted "section 645" for "section 646".
 
-<b>1997</b>—Subsec. (b)(1). Pub. L. 105–34 inserted at end “Such term shall not include any trust during any period the trust is treated as part of an estate under section 646.”
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–34 inserted at end "Such term shall not include any trust during any period the trust is treated as part of an estate under section 646."
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1014(g)(9), substituted “any property” for “a transfer of a kind” in subpars. (A) and (B) and inserted at end “An individual shall be treated as transferring any property with respect to which such individual is the transferor.”
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1014(g)(9), substituted "any property" for "a transfer of a kind" in subpars. (A) and (B) and inserted at end "An individual shall be treated as transferring any property with respect to which such individual is the transferor."
 
-Subsec. (a)(3). Pub. L. 100–647, §1014(g)(14), substituted “any trust” for “any property” in subpars. (A) and (B) and “may elect to treat all of the property in such trust” for “may elect to treat such property” in closing provisions.
+Subsec. (a)(3). Pub. L. 100–647, §1014(g)(14), substituted "any trust" for "any property" in subpars. (A) and (B) and "may elect to treat all of the property in such trust" for "may elect to treat such property" in closing provisions.
 
-Subsec. (c)(2). Pub. L. 100–647, §1014(g)(8), struck out “nominal” before “interests” in heading and substituted “any tax” for “the tax” in text.
+Subsec. (c)(2). Pub. L. 100–647, §1014(g)(8), struck out "nominal" before "interests" in heading and substituted "any tax" for "the tax" in text.
 
 Subsec. (c)(3). Pub. L. 100–647, §1014(g)(6), added par. (3).
 

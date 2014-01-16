@@ -20,9 +20,9 @@ The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–394 struck out “(15 U.S.C. 78aaa et seq.)” after “Act of 1970”.
+<b>1994</b>—Pub. L. 103–394 struck out "(15 U.S.C. 78aaa et seq.)" after "Act of 1970".
 
-<b>1982</b>—Pub. L. 97–222 substituted “title” for “chapter” after “all proceedings in the case under this”.
+<b>1982</b>—Pub. L. 97–222 substituted "title" for "chapter" after "all proceedings in the case under this".
 
 #### Effective Date of 1994 Amendment
 

@@ -32,7 +32,7 @@ Papa Ola Lokahi shall serve as a clearinghouse for:
 
 #### (d) Coordination of programs and services
 
-Papa Ola Lokahi shall, to the maximum extent possible, coordinate and assist the health care programs and services provided to Native Hawaiians.
+Papa Ola Lokahi shall, to the maximum extent possible, coordinate and assist the healthcare programs and services provided to Native Hawaiians.
 
 #### (e) Technical support
 
@@ -46,7 +46,7 @@ Papa Ola Lokahi is authorized to enter into agreements or memoranda of understan
 
 #### Codification
 
-The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
+The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on "September 12, 1992", has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
 Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections. The text of this section is based on section 1 of Pub. L. 100–579, as subsequently amended.
 

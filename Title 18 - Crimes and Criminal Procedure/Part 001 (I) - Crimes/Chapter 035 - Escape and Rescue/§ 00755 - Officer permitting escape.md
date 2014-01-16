@@ -6,11 +6,11 @@ Whoever, having in his custody any prisoner by virtue of process issued under th
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §§244, 662e, 665 (Feb. 6, 1905, ch. 454, §2, 33 Stat. 698; Mar. 4, 1909, ch. 321,§§138, 139, 35 Stat. 1113; Mar. 22, 1934, ch. 73, §4, 48 Stat. 456).
+Based on title 18, U.S.C., 1940 ed., §§244, 662e, 665 (Feb. 6, 1905, ch. 454, §2, 33 Stat. 698; Mar. 4, 1909, ch. 321, §§138, 139, 35 Stat. 1113; Mar. 22, 1934, ch. 73, §4, 48 Stat. 456).
 
 Sections 244, 662e and 665 of title 18, U.S.C., 1940 ed., were consolidated. The two latter sections merely extended application of the former. This section has been greatly condensed by changes in phraseology which do not affect the substance.
 
-Enumeration of “marshal, deputy marshal, ministerial officer, or other person,” was omitted as surplusage.
+Enumeration of "marshal, deputy marshal, ministerial officer, or other person," was omitted as surplusage.
 
 Provision making section applicable to cases of prisoners in custody pending extradition or removal proceedings as well as prisoners convicted of offenses against the United States was likewise omitted as unnecessary.
 
@@ -22,11 +22,11 @@ The text of this section was changed by Senate amendment in view of the act of J
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–132 substituted “5 years” for “two years”.
+<b>1996</b>—Pub. L. 104–132 substituted "5 years" for "two years".
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” after “escape, shall be” and for “fined not more than $500” after “he shall be”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $2,000" after "escape, shall be" and for "fined not more than $500" after "he shall be".
 
 #### Change of Name
 
-Words “magistrate judge” substituted for “magistrate” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+Words "magistrate judge" substituted for "magistrate" in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "magistrate" substituted for "commissioner" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 

@@ -80,25 +80,25 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §3(j); added Oct. 24, 1992, Pub.
 
 49 App.:1672(j)(4).
 
-In subsection (a)(2), the words “in a manner” are omitted as surplus.
+In subsection (a)(2), the words "in a manner" are omitted as surplus.
 
-In subsection (b), before clause (1), the words “on when” are substituted for “prescribing the circumstances, if any, under which” to eliminate unnecessary words.
+In subsection (b), before clause (1), the words "on when" are substituted for "prescribing the circumstances, if any, under which" to eliminate unnecessary words.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–355 substituted “circumstances, if any, under which an operator” for “circumstances under which an operator” in introductory provisions.
+<b>2002</b>—Subsec. (b). Pub. L. 107–355 substituted "circumstances, if any, under which an operator" for "circumstances under which an operator" in introductory provisions.
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–304, §20(j), substituted “standards” for “regulations” in introductory provisions.
+<b>1996</b>—Subsec. (b). Pub. L. 104–304, §20(j), substituted "standards" for "regulations" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 104–304, §8(1), which directed the insertion of “, if any,” after “circumstances” in the first sentence of subsection (b)(1), could not be executed because the word “circumstances” did not appear in subsec. (b)(1).
+Subsec. (b)(1). Pub. L. 104–304, §8(1), which directed the insertion of ", if any," after "circumstances" in the first sentence of subsection (b)(1), could not be executed because the word "circumstances" did not appear in subsec. (b)(1).
 
-Subsec. (b)(4). Pub. L. 104–304, §8(2), inserted “, operating, and maintaining” after “cost of installing”.
+Subsec. (b)(4). Pub. L. 104–304, §8(2), inserted ", operating, and maintaining" after "cost of installing".
 
-Subsec. (c)(1). Pub. L. 104–304, §20(j), substituted “standards” for “regulations” after “prescribe” in introductory provisions.
+Subsec. (c)(1). Pub. L. 104–304, §20(j), substituted "standards" for "regulations" after "prescribe" in introductory provisions.
 
-Subsec. (c)(1)(C). Pub. L. 104–304, §8(3), inserted “, maintenance, and replacement” after “installation”.
+Subsec. (c)(1)(C). Pub. L. 104–304, §8(3), inserted ", maintenance, and replacement" after "installation".
 
-Subsec. (c)(2). Pub. L. 104–304, §20(j), substituted “standards” for “regulations”.
+Subsec. (c)(2). Pub. L. 104–304, §20(j), substituted "standards" for "regulations".
 
-Subsec. (e). Pub. L. 104–304, §8(4), inserted after first sentence “The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the preceding sentence.”
+Subsec. (e). Pub. L. 104–304, §8(4), inserted after first sentence "The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the preceding sentence."
 

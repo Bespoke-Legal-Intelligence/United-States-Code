@@ -32,7 +32,7 @@ Activities that may be carried out under this section include activities to impr
 
 &emsp;(3) promoting improved alignment and compatibility of general and special education reforms concerned with curricular and instructional reform, and evaluation of such reforms;
 
-&emsp;(4) enabling professionals, parents of children with disabilities, and other persons to learn about, and implement, the findings ofscientifically based research, and successful practices developed in model demonstration projects, relating to the provision of services to children with disabilities;
+&emsp;(4) enabling professionals, parents of children with disabilities, and other persons to learn about, and implement, the findings of scientifically based research, and successful practices developed in model demonstration projects, relating to the provision of services to children with disabilities;
 
 &emsp;(5) conducting outreach, and disseminating information, relating to successful approaches to overcoming systemic barriers to the effective and efficient delivery of early intervention, educational, and transitional services to personnel who provide services to children with disabilities;
 

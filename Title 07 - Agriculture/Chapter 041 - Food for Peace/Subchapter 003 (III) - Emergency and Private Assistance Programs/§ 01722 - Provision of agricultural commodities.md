@@ -76,7 +76,7 @@ To ensure that agricultural commodities made available under this subchapter are
 
 #### (g) Labeling
 
-Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the language of the locality in which such commodities are distributed, as being furnished by the people of the United States of America.
+Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the languageof the locality in which such commodities are distributed, as being furnished by the people of the United States of America.
 
 #### (h) Food aid quality
 
@@ -108,9 +108,9 @@ Commodities provided under this subchapter shall, to the extent practicable, be 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–246, §3008(1), substituted “may not use as a sole rationale for denying a request for funds” for “may not deny a request for funds” in introductory provisions.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–246, §3008(1), substituted "may not use as a sole rationale for denying a request for funds" for "may not deny a request for funds" in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 110–246, §3008(2)(A), substituted “not less than 7.5 percent nor more than 13 percent” for “not less than 5 percent nor more than 10 percent” in introductory provisions.
+Subsec. (e)(1). Pub. L. 110–246, §3008(2)(A), substituted "not less than 7.5 percent nor more than 13 percent" for "not less than 5 percent nor more than 10 percent" in introductory provisions.
 
 Subsec. (e)(1)(C). Pub. L. 110–246, §3008(2)(B)–(D), added subpar. (C).
 
@@ -118,31 +118,31 @@ Subsec. (h). Pub. L. 110–246, §3008(3), added subsec. (h) and struck out form
 
 <b>2002</b>—Subsec. (b)(3). Pub. L. 107–171, §3002(1), added par. (3).
 
-Subsec. (e)(1). Pub. L. 107–171, §3002(2), substituted “not less than 5 percent nor more than 10 percent of the funds” for “not less than $10,000,000, and not more than $28,000,000,”.
+Subsec. (e)(1). Pub. L. 107–171, §3002(2), substituted "not less than 5 percent nor more than 10 percent of the funds" for "not less than $10,000,000, and not more than $28,000,000,".
 
 Subsec. (h). Pub. L. 107–171, §3002(3), added subsec. (h).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–127, §207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Administrator may provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "The Administrator may provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter."
 
-Subsec. (e). Pub. L. 104–127, §207(a)(2)(A), substituted “eligible organizations” for “private voluntary organizations and cooperatives” in heading.
+Subsec. (e). Pub. L. 104–127, §207(a)(2)(A), substituted "eligible organizations" for "private voluntary organizations and cooperatives" in heading.
 
-Subsec. (e)(1). Pub. L. 104–127, §207(a)(2)(B), in introductory provisions, substituted “$28,000,000” for “$13,500,000” and “eligible organizations described in subsection (d) of this section, to assist the organizations” for “private voluntary organizations and cooperatives to assist such organizations and cooperatives”.
+Subsec. (e)(1). Pub. L. 104–127, §207(a)(2)(B), in introductory provisions, substituted "$28,000,000" for "$13,500,000" and "eligible organizations described in subsection (d) of this section, to assist the organizations" for "private voluntary organizations and cooperatives to assist such organizations and cooperatives".
 
-Subsec. (e)(2). Pub. L. 104–127, §207(a)(2)(C), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In order to receive funds made available under paragraph (1), a private voluntary organization or cooperative must submit a request for such funds (which must be approved by the Administrator) when submitting a proposal to the Administrator for an agreement under this subchapter. Such request for funds shall include a specific explanation of—
+Subsec. (e)(2). Pub. L. 104–127, §207(a)(2)(C), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "In order to receive funds made available under paragraph (1), a private voluntary organization or cooperative must submit a request for such funds (which must be approved by the Administrator) when submitting a proposal to the Administrator for an agreement under this subchapter. Such request for funds shall include a specific explanation of—
 
-&emsp;“(A) the program costs to be offset by such funds;
+&emsp;"(A) the program costs to be offset by such funds;
 
-&emsp;“(B) the reason why such funds are needed in carrying out the particular assistance program; and
+&emsp;"(B) the reason why such funds are needed in carrying out the particular assistance program; and
 
-&emsp;“(C) the degree to which such funds will improve the provision of food assistance to foreign countries (particularly those in sub-Saharan Africa suffering from acute, long-term food shortages).”
+&emsp;"(C) the degree to which such funds will improve the provision of food assistance to foreign countries (particularly those in sub-Saharan Africa suffering from acute, long-term food shortages)."
 
-Subsec. (e)(3). Pub. L. 104–127, §207(a)(2)(D), substituted “an eligible organization, the Administrator may provide assistance to the eligible organization” for “a private voluntary organization or cooperative, the Administrator may provide assistance to that organization or cooperative”.
+Subsec. (e)(3). Pub. L. 104–127, §207(a)(2)(D), substituted "an eligible organization, the Administrator may provide assistance to the eligible organization" for "a private voluntary organization or cooperative, the Administrator may provide assistance to that organization or cooperative".
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to furnishing commodities through friendly governments, agencies, and organizations, assistance for community and other self-help activities, and multiyear agreements for distribution of commodities through nonprofit voluntary agencies and cooperatives.
 
-Subsec. (e)(1). Pub. L. 101–508, in introductory provisions, substituted “the Administrator, not less than $10,000,000, and not more than $13,500,000, shall be made available in each fiscal year to private voluntary organizations and cooperatives” for “private voluntary organizations and cooperatives, not less than $10,000,000 and not more than $13,500,000 shall be made available by the Administrator”.
+Subsec. (e)(1). Pub. L. 101–508, in introductory provisions, substituted "the Administrator, not less than $10,000,000, and not more than $13,500,000, shall be made available in each fiscal year to private voluntary organizations and cooperatives" for "private voluntary organizations and cooperatives, not less than $10,000,000 and not more than $13,500,000 shall be made available by the Administrator".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–202 inserted “or cooperatives” after “voluntary agencies”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–202 inserted "or cooperatives" after "voluntary agencies".
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–83, §1003, inserted provisions relating to appropriate disposition under section 1721 of this title.
 
@@ -150,19 +150,19 @@ Subsec. (b)(4). Pub. L. 99–83, §1004(a), added par. (4).
 
 Subsec. (c). Pub. L. 99–83, §1005, added subsec. (c).
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–53, §121, substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”, and “Advisory Committee” wherever appearing.
+<b>1979</b>—Subsec. (a). Pub. L. 96–53, §121, substituted "Agency for International Development" for "Advisory Committee on Voluntary Foreign Aid", and "Advisory Committee" wherever appearing.
 
 Subsec. (b)(2). Pub. L. 96–53, §202, substituted provisions relating to encouragement of entities distributing commodities to work with indigenous institutions and to employ indigenous workers, for provisions relating to employment of indigenous workers.
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–88, §§207(1), (2), 208(a), designated existing provisions as subsec. (a), struck out requirement that assistance to needy persons, insofar as practicable, be directed toward community and other self-help activities designed to alleviate the causes of the need for such assistance, and inserted provisions authorizing the President to utilize a foreign nonprofit voluntary agency which is registered with and approved by the Advisory Committee on Voluntary Foreign Aid if no United States nonprofit voluntary agency registered with and approved by the Advisory Committee is available.
+<b>1977</b>—Subsec. (a). Pub. L. 95–88, §§207(1), (2), 208(a), designated existing provisions as subsec. (a), struck outrequirement that assistance to needy persons, insofar as practicable, be directed toward community and other self-help activities designed to alleviate the causes of the need for such assistance, and inserted provisions authorizing the President to utilize a foreign nonprofit voluntary agency which is registered with and approved by the Advisory Committee on Voluntary Foreign Aid if no United States nonprofit voluntary agency registered with and approved by the Advisory Committee is available.
 
 Subsec. (b). Pub. L. 95–88, §207(3), added subsec. (b).
 
 <b>1966</b>—Pub. L. 89–808 substituted provisions for furnishing commodities for prescribed purposes through use of friendly governments, agencies, and organizations, using to extent practicable registered and approved nonprofit voluntary agencies, identification of source of commodities, determination by the President of the manner and terms and conditions of furnishing the commodities and for directions of the assistance toward community and self-help activities for former provisions for transfer of commodities on a grant bases to assist the prescribed programs.
 
-<b>1963</b>—Pub. L. 88–205 substituted “economic and community development” for “economic developments”.
+<b>1963</b>—Pub. L. 88–205 substituted "economic and community development" for "economic developments".
 
-<b>1960</b>—Pub. L. 86–472 substituted “In order to facilitate the utilization of surplus agricultural commodities in meeting the requirements of needy peoples, and in order to promote economic development in underdeveloped areas in addition to that which can be accomplished under sections 1701 to 1704 and 1705 to 1709 of this title, the” for “The”.
+<b>1960</b>—Pub. L. 86–472 substituted "In order to facilitate the utilization of surplus agricultural commodities in meeting the requirements of needy peoples, and in order to promote economic development in underdeveloped areas in addition to that which can be accomplished under sections 1701 to 1704 and 1705 to 1709 of this title, the" for "The".
 
 #### Effective Date of 2008 Amendment
 
@@ -192,11 +192,11 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 #### Registration of Foreign Nonprofit Voluntary Agencies
 
-Pub. L. 95–88, title II, §208(b), Aug. 3, 1977, 91 Stat. 548, provided that: “For purposes of implementing the amendment made by subsection (a) \[providing for the utilization by the President of foreign nonprofit voluntary agencies\], the President shall issue regulations governing registration with an approval by the Advisory Committee on Voluntary Foreign Aid of foreign nonprofit voluntary agencies.”
+Pub. L. 95–88, title II, §208(b), Aug. 3, 1977, 91 Stat. 548, provided that: "For purposes of implementing the amendment made by subsection (a) \[providing for the utilization by the President of foreign nonprofit voluntary agencies\], the President shall issue regulations governing registration with an approval by the Advisory Committee on Voluntary Foreign Aid of foreign nonprofit voluntary agencies."
 
 #### Continuation of Authority
 
-Pub. L. 86–472, ch. VI, §601(a)(2), May 14, 1960, 74 Stat. 140, which provided that the amendment of this sectionby section 601(a)(1) shall expire June 30, 1961, was repealed by Pub. L. 87–92, July 20, 1961, 75 Stat. 211.
+Pub. L. 86–472, ch. VI, §601(a)(2), May 14, 1960, 74 Stat. 140, which provided that the amendment of this section by section 601(a)(1) shall expire June 30, 1961, was repealed by Pub. L. 87–92, July 20, 1961, 75 Stat. 211.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

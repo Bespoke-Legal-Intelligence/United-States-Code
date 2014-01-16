@@ -36,9 +36,9 @@ Section is comprised of subsec. (c)(1), (2)(A) of section 306 of Pub. L. 98–57
 
 #### Definitions
 
-For definition of “services” as used in this section, see par. (5) of section 2114b of this title.
+For definition of "services" as used in this section, see par. (5) of section 2114b of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Representative”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Representative".</i>
 
 <i><sup>2</sup></i><i> See Codification note below.</i>
 

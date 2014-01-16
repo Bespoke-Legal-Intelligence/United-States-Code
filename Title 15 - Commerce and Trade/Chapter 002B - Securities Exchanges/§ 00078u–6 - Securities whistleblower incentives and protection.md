@@ -6,15 +6,15 @@ In this section the following definitions shall apply:
 
 #### (1) Covered judicial or administrative action
 
-&emsp;The term “covered judicial or administrative action” means any judicial or administrative action brought by the Commission under the securities laws that results in monetary sanctions exceeding $1,000,000.
+&emsp;The term "covered judicial or administrative action" means any judicial or administrative action brought by the Commission under the securities laws that results in monetary sanctions exceeding $1,000,000.
 
 #### (2) Fund
 
-&emsp;The term “Fund” means the Securities and Exchange Commission Investor Protection Fund.
+&emsp;The term "Fund" means the Securities and Exchange Commission Investor Protection Fund.
 
 #### (3) Original information
 
-&emsp;The term “original information” means information that—
+&emsp;The term "original information" means information that—
 
 &emsp;&emsp;(A) is derived from the independent knowledge or analysis of a whistleblower;
 
@@ -24,7 +24,7 @@ In this section the following definitions shall apply:
 
 #### (4) Monetary sanctions
 
-&emsp;The term “monetary sanctions”, when used with respect to any judicial or administrative action, means—
+&emsp;The term "monetary sanctions", when used with respect to any judicial or administrative action, means—
 
 &emsp;&emsp;(A) any monies, including penalties, disgorgement, and interest, ordered to be paid; and
 
@@ -32,11 +32,11 @@ In this section the following definitions shall apply:
 
 #### (5) Related action
 
-&emsp;The term “related action”, when used with respect to any judicial or administrative action brought by the Commission under the securities laws, means any judicial or administrative action brought by an entity described in subclauses (I) through (IV) of subsection (h)(2)(D)(i) that is based upon the original information provided by a whistleblower pursuant to subsection (a) that led to the successful enforcement of the Commission action.
+&emsp;The term "related action", when used with respect to any judicial or administrative action brought by the Commission under the securities laws, means any judicial or administrative action brought by an entity described in subclauses (I) through (IV) of subsection (h)(2)(D)(i) that is based upon the original information provided by a whistleblower pursuant to subsection (a) that led to the successful enforcement of the Commission action.
 
 #### (6) Whistleblower
 
-&emsp;The term “whistleblower” means any individual who provides, or 2 or more individuals acting jointly who provide, information relating to a violation of the securities laws to the Commission, in a manner established, by rule or regulation, by the Commission.
+&emsp;The term "whistleblower" means any individual who provides, or 2 or more individuals acting jointly who provide, information relating to a violation of the securities laws to the Commission, in a manner established, by rule or regulation, by the Commission.
 
 #### (b) Awards
 
@@ -70,7 +70,7 @@ In this section the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(II) the degree of assistance provided by the whistleblower and any legal representative of the whistleblower in a covered judicial or administrative action;
 
-&emsp;&emsp;&emsp;&emsp;(III) the programmatic interest of the Commission in deterring violations of the securities laws by making awards to whistleblowers who provide information that lead to the successful enforcement of such laws; and
+&emsp;&emsp;&emsp;&emsp;(III) the programmatic interest of the Commission in deterring violations ofthe securities laws by making awards to whistleblowers who provide information that lead to the successful enforcement of such laws; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) such additional relevant factors as the Commission may establish by rule or regulation; and
 
@@ -126,7 +126,7 @@ Any determination made under this section, including whether, to whom, or in wha
 
 #### (1) Fund established
 
-&emsp;There is established in the Treasury of the United States a fund to be known as the “Securities and Exchange Commission Investor Protection Fund”.
+&emsp;There is established in the Treasury of the United States a fund to be known as the "Securities and Exchange Commission Investor Protection Fund".
 
 #### (2) Use of Fund
 
@@ -156,7 +156,7 @@ Any determination made under this section, including whether, to whom, or in wha
 
 #### (A) Amounts in Fund may be invested
 
-&emsp;&emsp;The Commission may request the Secretary of the Treasury to invest the portion of the Fund that is not, in the discretion of the Commission, required to meet the current needs of the Fund.
+&emsp;&emsp;The Commission may request the Secretary of the Treasury to invest the portionof the Fund that is not, in the discretion of the Commission, required to meet the current needs of the Fund.
 
 #### (B) Eligible investments
 
@@ -240,7 +240,7 @@ Any determination made under this section, including whether, to whom, or in wha
 
 &emsp;&emsp;&emsp;(ii) 2 times the amount of back pay otherwise owed to the individual, with interest; and
 
-&emsp;&emsp;&emsp;(iii) compensation for litigation costs, expert witness fees, and reasonable attorneys’ fees.
+&emsp;&emsp;&emsp;(iii) compensation for litigation costs, expert witness fees, and reasonable attorneys' fees.
 
 #### (2) Confidentiality
 
@@ -254,7 +254,7 @@ Any determination made under this section, including whether, to whom, or in wha
 
 #### (C) Rule of construction
 
-&emsp;&emsp;Nothing in this section is intended to limit, or shall be construed to limit, theability of the Attorney General to present such evidence to a grand jury or to share such evidence with potential witnesses or defendants in the course of an ongoing criminal investigation.
+&emsp;&emsp;Nothing in this section is intended to limit, or shall be construed to limit, the ability of the Attorney General to present such evidence to a grand jury or to share such evidence with potential witnesses or defendants in the course of an ongoing criminal investigation.
 
 #### (D) Availability to government agencies
 
@@ -310,7 +310,7 @@ The Commission shall have the authority to issue such rules and regulations as m
 
 The Sarbanes-Oxley Act of 2002, referred to in subsec. (h)(1)(A)(iii), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
-This chapter, referred to in subsec. (h)(1)(A)(iii), was in the original “the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)”. This chapter, referred to in subsec. (h)(2)(D)(i), was in the original “this Act”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsec. (h)(1)(A)(iii), was in the original "the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)". This chapter, referred to in subsec. (h)(2)(D)(i), was in the original "this Act". See References in Text note set out under section 78a of this title.
 
 #### Effective Date
 

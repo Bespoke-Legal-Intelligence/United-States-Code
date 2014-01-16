@@ -42,7 +42,7 @@
 
 (Pub. L. 110–114, title IX, §9004, Nov. 8, 2007, 121 Stat. 1290.)
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 

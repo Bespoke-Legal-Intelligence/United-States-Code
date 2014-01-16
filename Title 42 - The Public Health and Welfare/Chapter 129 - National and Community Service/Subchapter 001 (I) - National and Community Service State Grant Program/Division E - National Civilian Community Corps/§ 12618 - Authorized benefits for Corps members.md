@@ -48,7 +48,7 @@ A Corps member who successfully completes a period of agreed service in the Corp
 
 If a Corps member who successfully completes a period of agreed service in the Corps is ineligible for the national service educational award described in division D of this subchapter, the Director may provide for the provision of a suitable alternative benefit for the Corps member.
 
-(Pub. L. 101–610, title I, §158, formerly §195G, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2526; renumbered §158 and amended Pub. L. 103–82, title I, §104(b), (g), title IV, §403(b), Sept. 21, 1993, 107 Stat. 840, 847, 920; Pub. L. 111–13, title I, §1508, Apr. 21, 2009, 123 Stat. 1525.)
+(Pub. L. 101–610, title I, §158, formerly §195G, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2526; renumbered §158 and amended Pub. L. 103–82, title I, §104(b), (g), title IV, §403(b), Sept. 21, 1993, 107 Stat. 840, 847, 920;Pub. L. 111–13, title I, §1508, Apr. 21, 2009, 123 Stat. 1525.)
 
 #### Codification
 
@@ -56,15 +56,15 @@ Section was formerly classified to section 12653g of this title prior to renumbe
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1508(1), inserted “National” before “Civilian Community Corps”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1508(1), inserted "National" before "Civilian Community Corps".
 
-Subsec. (c). Pub. L. 111–13, §1508(2)(A), in introductory provisions, inserted “National” before “Civilian Community Corps” and “, as the Director determines appropriate” before colon.
+Subsec. (c). Pub. L. 111–13, §1508(2)(A), in introductory provisions, inserted "National" before "Civilian Community Corps" and ", as the Director determines appropriate" before colon.
 
-Subsec. (c)(6). Pub. L. 111–13, §1508(2)(B), substituted “Uniforms” for “Clothing”.
+Subsec. (c)(6). Pub. L. 111–13, §1508(2)(B), substituted "Uniforms" for "Clothing".
 
-Subsec. (c)(7). Pub. L. 111–13, §1508(2)(C), substituted “Supplies” for “Recreational services and supplies”.
+Subsec. (c)(7). Pub. L. 111–13, §1508(2)(C), substituted "Supplies" for "Recreational services and supplies".
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–82, §403(b), substituted “Director” for “Director of the Civilian Community Corps”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §403(b), substituted "Director" for "Director of the Civilian Community Corps".
 
 Subsecs. (f) to (h). Pub. L. 103–82, §104(g), added subsecs. (f) and (g) and struck out former subsecs. (f) to (h) which related to monetary educational assistance, cash benefit election for Corps members, and other post-service benefits, respectively.
 

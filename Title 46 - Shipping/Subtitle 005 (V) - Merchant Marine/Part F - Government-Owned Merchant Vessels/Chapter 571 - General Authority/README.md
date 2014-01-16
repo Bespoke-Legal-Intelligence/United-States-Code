@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–213, title IV, §408(b), Dec. 20, 2012, 126 Stat. 1571, substituted “Donation of nonretention vessels in the National Defense Reserve Fleet” for “Sale of obsolete vessels in National Defense Reserve Fleet” in item 57103.
+<b>2012</b>—Pub. L. 112–213, title IV, §408(b), Dec. 20, 2012, 126 Stat. 1571, substituted "Donation of nonretention vessels in the National Defense Reserve Fleet" for "Sale of obsolete vessels in National Defense Reserve Fleet" in item 57103.
 
 
 ---

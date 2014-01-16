@@ -12,7 +12,7 @@ The Secretary shall make available to the public information, statistics, and do
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), no officer, employee, or agent of the United States shall, without the consent of the packer or other person concerned, divulge or make known in any manner, any facts or information regarding the business of the packer or other person that was acquired through reporting required under this subchapter.
+&emsp;Subject to paragraph (2), no officer, employee, or agent of the United States shall,without the consent of the packer or other person concerned, divulge or make known in any manner, any facts or information regarding the business of the packer or other person that was acquired through reporting required under this subchapter.
 
 #### (2) Exceptions
 
@@ -114,7 +114,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (g). Pub. L. 110–246, §11001(a)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, provide for the reporting and publishing of the information required under this subchapter by electronic means.”
+<b>2008</b>—Subsec. (g). Pub. L. 110–246, §11001(a)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: "The Secretary shall, to the maximum extent practicable, provide for the reporting and publishing of the information required under this subchapter by electronic means."
 
 #### Effective Date of 2008 Amendment
 
@@ -124,13 +124,13 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 110–234, title XI, §11001(a)(2), May 22, 2008, 122 Stat. 1351, and Pub. L. 110–246, §4(a), title XI, §11001(a)(2), June 18, 2008, 122 Stat. 1664, 2112, provided that:
 
-“(A)
+"(A)
 
 Enhanced reporting.—The Secretary of Agriculture shall develop and implement the system required under paragraph (2)(A) of section 251(g) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1636(g)), as amended by paragraph (1), not later than one year after the date on which the Secretary determines sufficient funds have been appropriated pursuant to subsection (c) \[122 Stat. 2113\].
 
-“(B)
+"(B)
 
-Current system.—Notwithstanding the amendment made by paragraph (1), the Secretary shall continue to use the information format for disseminating information under subtitle B \[7 U.S.C. 1635 et seq.\] of the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.) in effect on the date of the enactment of this Act \[June 18, 2008\] at least until the date that is two years after the date on which the Secretary makes the determination referred to in subparagraph (A).”
+Current system.—Notwithstanding the amendment made by paragraph (1), the Secretary shall continue to use the information format for disseminating information under subtitle B \[7 U.S.C. 1635 et seq.\] of the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.) in effect on the date of the enactment of this Act \[June 18, 2008\] at least until the date that is two years after the date on which the Secretary makes the determination referred to in subparagraph (A)."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

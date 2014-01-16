@@ -8,7 +8,7 @@ With notice to the Secretary of the Treasury and public notice as soon as practi
 
 &emsp;(2) the further movement of any animal that has strayed into the United States if the Secretary determines that the prohibition or restriction is necessary to prevent the introduction into or dissemination within the United States of any pest or disease of livestock; and
 
-&emsp;(3) the use of any means of conveyance in connection with the importation or entry of livestock if the Secretary determines that the prohibition or restriction is necessary because the means of conveyance has not been maintained in a clean and sanitary condition or does not have accommodations for the safe and proper movement of livestock.
+&emsp;(3) the use of any means of conveyance in connection with the importation or entry oflivestock if the Secretary determines that the prohibition or restriction is necessary because the means of conveyance has not been maintained in a clean and sanitary condition or does not have accommodations for the safe and proper movement of livestock.
 
 #### (b) Regulations
 
@@ -56,7 +56,7 @@ With notice to the Secretary of the Treasury and public notice as soon as practi
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(1)(B), was in the original “this subtitle”, meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsec. (c)(1)(B), was in the original "this subtitle", meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Transfer of Functions
 

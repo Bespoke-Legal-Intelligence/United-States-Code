@@ -2,7 +2,7 @@
 
 #### (a) Sections 2731, 2733, and 2734
 
-Amounts in the Fund shall be available, without further appropriations and without fiscal year limitation, to carry out section 2731 of thistitle in the amount as determined in subsection (b) of this section, and to carry out sections 2733 and 2734 of this title, in an amount not to exceed $5,000,000.
+Amounts in the Fund shall be available, without further appropriations and without fiscal year limitation, to carry out section 2731 of this title in the amount as determined in subsection (b) of this section, and to carry out sections 2733 and 2734 of this title, in an amount not to exceed $5,000,000.
 
 #### (b) Use of interest only
 
@@ -14,7 +14,7 @@ Beginning 1 year after the date on which the Secretary, in consultation with the
 
 #### (d) Section 2738
 
-Amounts in the Fund shall be available, without further appropriation and without fiscal year limitation, to carry out section 2738(b) of this title, in an annual amount not to exceed $5,000,000 of which up to $3,000,000 may be used for the lease payment to the Alaska SeaLife Center under section 2738(b)(2) of this title: <i>Provided</i>, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 901(b)(2)(A)\]: <i>Provided further</i>, That the entire amount shall be available only to the extent an official budget request that includes designation of the entire amount of the request as an emergency requirement as defined in the Balanced Budget and Emergency Deficit Control Act of 1985, as amended, is transmitted by the President to the Congress.
+Amounts in the Fund shall be available, without further appropriation and without fiscal year limitation, to carry out section 2738(b) of this title, in an annual amount not to exceed $5,000,000 of which up to $3,000,000 may be used for the lease payment to the Alaska SeaLife Center under section 2738(b)(2) of this title: <i>Provided</i>, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 901(b)(2)(A)\]: <i>Provided further</i>, That the entire amount shall be available only to the extent an official budget request that includes designation of the entire amount of the request as an emergency requirement as defined in the Balanced Budget andEmergency Deficit Control Act of 1985, as amended, is transmitted by the President to the Congress.
 
 (Pub. L. 101–380, title V, §5006, Aug. 18, 1990, 104 Stat. 554; Pub. L. 104–324, title XI, §1102(b), Oct. 19, 1996, 110 Stat. 3965; Pub. L. 106–246, div. B, title II, §2204(2), July 13, 2000, 114 Stat. 547; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(1)(C)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–239; Pub. L. 108–293, title VII, §704, Aug. 9, 2004, 118 Stat. 1075; Pub. L. 109–58, title III, §389(2), Aug. 8, 2005, 119 Stat. 747; Pub. L. 109–59, title IV, §4413, Aug. 10, 2005, 119 Stat. 1779; Pub. L. 109–241, title IX, §901(j), July 11, 2006, 120 Stat. 564.)
 
@@ -26,27 +26,27 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–241, which directed the insertion of a comma after “October 1, 2012”, could not be executed because “October 1, 2012” did not appear subsequent to amendment by Pub. L. 109–58. See 2005 Amendment note below.
+<b>2006</b>—Subsec. (c). Pub. L. 109–241, which directed the insertion of a comma after "October 1, 2012", could not be executed because "October 1, 2012" did not appear subsequent to amendment by Pub. L. 109–58. See 2005 Amendment note below.
 
-<b>2005</b>—Subsec. (c). Pub. L. 109–58 substituted “1 year after the date on which the Secretary, in consultation with the Secretary of the Interior, determines that oil and gas exploration, development, and production in the State of Alaska have ceased,” for “October 1, 2012”.
+<b>2005</b>—Subsec. (c). Pub. L. 109–58 substituted "1 year after the date on which the Secretary, in consultation with the Secretary of the Interior, determines that oil and gas exploration, development, and production in the State of Alaska have ceased," for "October 1, 2012".
 
-Subsec. (d). Pub. L. 109–59, which directed insertion of “annual” before “amount”, was executed by making the insertion before “amount not to exceed”, to reflect the probable intent of Congress.
+Subsec. (d). Pub. L. 109–59, which directed insertion of "annual" before "amount", was executed by making the insertion before "amount not to exceed", to reflect the probable intent of Congress.
 
-<b>2004</b>—Subsecs. (c), (d). Pub. L. 108–293 in subsec. (c) relating to section 2712, substituted “October 1, 2012” for “with the eleventh year following October 19, 1996,” and redesignated subsec. (c) relating to section 2738 as (d).
+<b>2004</b>—Subsecs. (c), (d). Pub. L. 108–293 in subsec. (c) relating to section 2712, substituted "October 1, 2012" for "with the eleventh year following October 19, 1996," and redesignated subsec. (c) relating to section 2738 as (d).
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–554 inserted “of which up to $3,000,000 may be used for the lease payment to the Alaska SeaLife Center under section 2738(b)(2) of this title” after “$5,000,000” in subsec. (c) relating to section 2738.
+<b>2000</b>—Subsec. (c). Pub. L. 106–554 inserted "of which up to $3,000,000 may be used for the lease payment to the Alaska SeaLife Center under section 2738(b)(2) of this title" after "$5,000,000" in subsec. (c) relating to section 2738.
 
 Pub. L. 106–246 added subsec. (c) relating to section 2738.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–324, §1102(b)(1)–(3), redesignated subsec. (b) as (a), substituted “2731, 2733,” for “2733” in heading, inserted “to carry out section 2731 of this title in the amount as determined in subsection (b) of this section, and” after “limitation,”, and struck out heading and text of former subsec. (a). Text read as follows: “Amounts in the Fund shall be available, subject to appropriations, and shall remain available until expended, to carry out section 2731 of this title as follows:
+<b>1996</b>—Subsec. (a). Pub. L. 104–324, §1102(b)(1)–(3), redesignated subsec. (b) as (a), substituted "2731, 2733," for "2733" in heading, inserted "to carry out section 2731 of this title in the amount as determined in subsection (b) of this section, and" after "limitation,", and struck out heading and text of former subsec. (a). Text read as follows: "Amounts in the Fund shall be available, subject to appropriations, and shall remain available until expended, to carry out section 2731 of this title as follows:
 
-&emsp;“(1) $5,000,000 shall be available for the first fiscal year beginning after August 18, 1990.
+&emsp;"(1) $5,000,000 shall be available for the first fiscal year beginning after August 18, 1990.
 
-&emsp;“(2) $2,000,000 shall be available for each of the 9 fiscal years following the fiscal year described in paragraph (1).”
+&emsp;"(2) $2,000,000 shall be available for each of the 9 fiscal years following the fiscal year described in paragraph (1)."
 
 Subsecs. (b), (c). Pub. L. 104–324, §1102(b)(4), added subsecs. (b) and (c). Former subsec. (b) redesignated (a).
 
 #### Investment Amount
 
-Pub. L. 112–213, title VII, §710, Dec. 20, 2012, 126 Stat. 1581, provided that: “Not later than 30 days after the date of enactment of this Act \[Dec. 20, 2012\], the Secretary of the Treasury shall increase the $22,500,000 invested in income-producing securities for purposes of section 5006(b) of the Oil Pollution Act of 1990 (33 U.S.C. 2736(b)) by $12,851,340.”
+Pub. L. 112–213, title VII, §710, Dec. 20, 2012, 126 Stat. 1581, provided that: "Not later than 30 days after the date of enactment of this Act \[Dec. 20, 2012\], the Secretary of the Treasury shall increase the $22,500,000 invested in income-producing securities for purposes of section 5006(b) of the Oil Pollution Act of 1990 (33 U.S.C. 2736(b)) by $12,851,340."
 

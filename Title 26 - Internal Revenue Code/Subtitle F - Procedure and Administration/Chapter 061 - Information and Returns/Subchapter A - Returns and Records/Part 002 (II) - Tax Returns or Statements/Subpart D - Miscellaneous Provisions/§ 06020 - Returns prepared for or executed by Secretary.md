@@ -18,9 +18,9 @@ If any person shall fail to make a return required by this title or by regulatio
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369 struck out “(other than a declaration of estimated tax required under section 6015)” after “make any return”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369 struck out "(other than a declaration of estimated tax required under section 6015)" after "make any return".
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1968</b>—Subsec. (b)(1). Pub. L. 90–364 struck out reference to section 6016.
 

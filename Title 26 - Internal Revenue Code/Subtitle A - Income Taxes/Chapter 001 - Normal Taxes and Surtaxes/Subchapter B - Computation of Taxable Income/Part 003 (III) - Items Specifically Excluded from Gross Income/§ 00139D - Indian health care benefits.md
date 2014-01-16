@@ -6,7 +6,7 @@ Except as otherwise provided in this section, gross income does not include the 
 
 #### (b) Qualified Indian health care benefit
 
-For purposes of this section, the term “qualified Indian health care benefit” means—
+For purposes of this section, the term "qualified Indian health care benefit" means—
 
 &emsp;(1) any health service or benefit provided or purchased, directly or indirectly, by the Indian Health Service through a grant to or a contract or compact with an Indian tribe or tribal organization, or through a third-party program funded by the Indian Health Service,
 
@@ -22,23 +22,23 @@ For purposes of this section—
 
 #### (1) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given such term by section 45A(c)(6).
+&emsp;The term "Indian tribe" has the meaning given such term by section 45A(c)(6).
 
 #### (2) Tribal organization
 
-&emsp;The term “tribal organization” has the meaning given such term by section 4(l) of the Indian Self-Determination and Education Assistance Act.
+&emsp;The term "tribal organization" has the meaning given such term by section 4(l) of the Indian Self-Determination and Education Assistance Act.
 
 #### (3) Medical care
 
-&emsp;The term “medical care” has the same meaning as when used in section 213.
+&emsp;The term "medical care" has the same meaning as when used in section 213.
 
 #### (4) Accident or health insurance; accident or health plan
 
-&emsp;The terms “accident or health insurance” and “accident or health plan” have the same meaning as when used in section 105.
+&emsp;The terms "accident or health insurance" and "accident or health plan" have the same meaning as when used in section 105.
 
 #### (5) Dependent
 
-&emsp;The term “dependent” has the meaning given such term by section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof.
+&emsp;The term "dependent" has the meaning given such term by section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof.
 
 #### (d) Denial of double benefit
 
@@ -56,13 +56,13 @@ Another section 139D, added Pub. L. 111–148, title X, §10108(f)(1), Mar. 23, 
 
 #### Effective Date
 
-Pub. L. 111–148, title IX, §9021(c), Mar. 23, 2010, 124 Stat. 874, provided that: “The amendments made by this section \[enacting this section\] shall apply to benefits and coverage provided after the date of the enactment of this Act \[Mar. 23, 2010\].”
+Pub. L. 111–148, title IX, §9021(c), Mar. 23, 2010, 124 Stat. 874, provided that: "The amendments made by this section \[enacting this section\] shall apply to benefits and coverage provided after the date of the enactment of this Act \[Mar. 23, 2010\]."
 
 #### No Inference With Respect to Exclusion From Gross Income of Certain Benefits
 
-Pub. L. 111–148, title IX, §9021(d), Mar. 23, 2010, 124 Stat. 874, provided that: “Nothing in the amendments made by this section \[enacting this section\] shall be construed to create an inference with respect to the exclusion from gross income of—
+Pub. L. 111–148, title IX, §9021(d), Mar. 23, 2010, 124 Stat. 874, provided that: "Nothing in the amendments made by this section \[enacting this section\] shall be construed to create an inference with respect to the exclusion from gross income of—
 
-&emsp;“(1) benefits provided by an Indian tribe or tribal organization that are not within the scope of this section, and
+&emsp;"(1) benefits provided by an Indian tribe or tribal organization that are not within the scope of this section, and
 
-&emsp;“(2) benefits provided prior to the date of the enactment of this Act \[Mar. 23, 2010\].”
+&emsp;"(2) benefits provided prior to the date of the enactment of this Act \[Mar. 23, 2010\]."
 

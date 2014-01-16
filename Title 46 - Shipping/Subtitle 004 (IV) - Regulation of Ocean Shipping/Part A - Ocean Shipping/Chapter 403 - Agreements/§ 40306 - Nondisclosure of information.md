@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 98–237, §6(j), Mar. 20, 1984, 98 Stat. 73.
 
-The words “judicial proceeding” are substituted for “judicial action or proceeding” to eliminate unnecessary words.
+The words "judicial proceeding" are substituted for "judicial action or proceeding" to eliminate unnecessary words.
 

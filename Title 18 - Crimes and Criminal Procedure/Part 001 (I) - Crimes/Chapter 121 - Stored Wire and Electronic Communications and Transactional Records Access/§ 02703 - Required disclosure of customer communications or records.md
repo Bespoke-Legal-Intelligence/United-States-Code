@@ -78,9 +78,9 @@ Period of retention.—Records referred to in paragraph (1) shall be retained fo
 
 (g)
 
-Presence of Officer Not Required.—Notwithstanding section 3105 of this title, the presence of an officer shall not be required for service or execution of a search warrant issued in accordance with this chapter requiring disclosure by a provider of electronic communications service or remote computing service of the contents of communications or records or other information pertaining to a subscriber to or customer of such service.
+Presence of Officer Not Required.—Notwithstanding section 3105 of this title, the presence of an officer shall not be required for service or execution of a search warrant issued inaccordance with this chapter requiring disclosure by a provider of electronic communications service or remote computing service of the contents of communications or records or other information pertaining to a subscriber to or customer of such service.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23,1998, 112 Stat. 522; Pub. L. 107–56, title II, §§209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292; Pub. L. 107–273, div. B, title IV, §4005(a)(2), div. C, title I, §11010, Nov. 2, 2002, 116 Stat. 1812, 1822; Pub. L. 107–296, title II, §225(h)(1), Nov. 25, 2002, 116 Stat. 2158; Pub. L. 109–162, title XI, §1171(a)(1), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 111–79, §2(1), Oct. 19, 2009, 123 Stat. 2086.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23, 1998, 112 Stat. 522; Pub. L. 107–56, title II, §§209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292; Pub. L. 107–273, div. B, title IV, §4005(a)(2), div. C, title I, §11010, Nov. 2, 2002, 116 Stat. 1812, 1822; Pub. L. 107–296, title II, §225(h)(1), Nov. 25, 2002, 116 Stat. 2158; Pub. L. 109–162, title XI, §1171(a)(1), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 111–79, §2(1), Oct. 19, 2009, 123 Stat. 2086.)
 
 #### References in Text
 
@@ -88,57 +88,57 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (a), (b)(1)(A),
 
 #### Amendments
 
-<b>2009</b>—Subsecs. (a), (b)(1)(A), (c)(1)(A). Pub. L. 111–79, which directed substitution of “(or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction” for “by a court with jurisdiction over the offense under investigation or an equivalent State warrant”, was executed by making the substitution for “by a court with jurisdiction over the offense under investigation or equivalent State warrant” to reflect the probable intent of Congress.
+<b>2009</b>—Subsecs. (a), (b)(1)(A), (c)(1)(A). Pub. L. 111–79, which directed substitution of "(or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction" for "by a court with jurisdiction over the offense under investigation or an equivalent State warrant", was executed by making the substitution for "by a court with jurisdiction over the offense under investigation or equivalent State warrant" to reflect the probable intent of Congress.
 
-<b>2006</b>—Subsec. (c)(1)(C). Pub. L. 109–162 struck out “or” at end.
+<b>2006</b>—Subsec. (c)(1)(C). Pub. L. 109–162 struck out "or" at end.
 
 <b>2002</b>—Subsec. (c)(1)(E). Pub. L. 107–273, §4005(a)(2), realigned margins.
 
-Subsec. (e). Pub. L. 107–296 inserted “, statutory authorization” after “subpoena”.
+Subsec. (e). Pub. L. 107–296 inserted ", statutory authorization" after "subpoena".
 
 Subsec. (g). Pub. L. 107–273, §11010, added subsec. (g).
 
-<b>2001</b>—Pub. L. 107–56, §212(b)(1)(A), substituted “Required disclosure of customer communications or records” for “Requirements for governmental access” in section catchline.
+<b>2001</b>—Pub. L. 107–56, §212(b)(1)(A), substituted "Required disclosure of customer communications or records" for "Requirements for governmental access" in section catchline.
 
-Subsec. (a). Pub. L. 107–56, §§209(2)(A), (B), 220(a)(1), substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading and “contents of a wire or electronic” for “contents of an electronic” in two places and “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in text.
+Subsec. (a). Pub. L. 107–56, §§209(2)(A), (B), 220(a)(1), substituted "Contents of Wire or Electronic" for "Contents of Electronic" in heading and "contents of a wire or electronic" for "contents of an electronic" in two places and "using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation" for "under the Federal Rules of Criminal Procedure" in text.
 
-Subsec. (b). Pub. L. 107–56, §209(2)(A), substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading.
+Subsec. (b). Pub. L. 107–56, §209(2)(A), substituted "Contents of Wire or Electronic" for "Contents of Electronic" in heading.
 
-Subsec. (b)(1). Pub. L. 107–56, §§209(2)(C), 220(a)(1), substituted “any wire or electronic communication” for “any electronic communication” in introductory provisions and “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in subpar. (A).
+Subsec. (b)(1). Pub. L. 107–56, §§209(2)(C), 220(a)(1), substituted "any wire or electronic communication" for "any electronic communication" in introductory provisions and "using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation" for "under the Federal Rules of Criminal Procedure" in subpar. (A).
 
-Subsec. (b)(2). Pub. L. 107–56, §209(2)(C), substituted “any wire or electronic communication” for “any electronic communication” in introductory provisions.
+Subsec. (b)(2). Pub. L. 107–56, §209(2)(C), substituted "any wire or electronic communication" for "any electronic communication" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 107–56, §§212(b)(1)(C), 220(a)(1), designated subpar. (A) and introductory provisions of subpar. (B) as par. (1), substituted “A governmental entity may require a provider of electronic communication service or remote computing service to” for “(A) Except as provided in subparagraph (B), a provider of electronic communication service or remote computing service may” and a closing parenthesis for provisions which began with “covered by subsection (a) or (b) of this section) to any person other than a governmental entity.” in former subpar. (A) and ended with “(B) A provider of electronic communication service or remote computing service shall disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a) or (b) of this section) to a governmental entity”, redesignated clauses (i) to (iv) of former subpar. (B) as subpars. (A) to (D), respectively, substituted “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in subpar. (A) and “; or” for period at end of subpar. (D), added subpar. (E), and redesignated former subpar. (C) as par. (2).
+Subsec. (c)(1). Pub. L. 107–56, §§212(b)(1)(C), 220(a)(1), designated subpar. (A) and introductory provisions of subpar. (B) as par. (1), substituted "A governmental entity may require a provider of electronic communication service or remote computing service to" for "(A) Except as provided in subparagraph (B), a provider of electronic communication service or remote computing service may" and a closing parenthesis for provisions which began with "covered by subsection (a) or (b) of this section) to any person other than a governmental entity." in former subpar. (A) and ended with "(B) A provider of electronic communication service or remote computing service shall disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a) or (b) of this section) to a governmental entity", redesignated clauses (i) to (iv) of former subpar. (B) as subpars. (A) to (D), respectively, substituted "using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation" for "under the Federal Rules of Criminal Procedure" in subpar. (A) and "; or" for period at end of subpar. (D), added subpar. (E), and redesignated former subpar. (C) as par. (2).
 
-Subsec. (c)(2). Pub. L. 107–56, §210, amended par. (2), as redesignated by section 212 of Pub. L. 107–56, by substituting “entity the—” for “entity the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber” in introductory provisions, inserting subpars. (A) to (F), striking out “and the types of services the subscriber or customer utilized,” before “when the governmental entity uses an administrative subpoena”, inserting “of a subscriber” at beginning of concluding provisions and designating “to or customer of such service when the governmental entity uses an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury or trial subpoena or any means available under paragraph (1).” as remainder of concluding provisions.
+Subsec. (c)(2). Pub. L. 107–56, §210, amended par. (2), as redesignated by section 212 of Pub. L. 107–56, by substituting "entity the—" for "entity the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber" in introductory provisions, inserting subpars. (A) to (F), striking out "and the types of services the subscriber or customer utilized," before "when the governmental entity uses an administrative subpoena", inserting "of a subscriber" at beginning of concluding provisions and designating "to or customer of such service when the governmental entity uses an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury or trial subpoena or any means available under paragraph (1)." as remainder of concluding provisions.
 
-Pub. L. 107–56, §212(b)(1)(C)(iii), (D), redesignated subpar. (C) of par. (1) as par. (2) and temporarily substituted “paragraph (1)” for “subparagraph (B)”.
+Pub. L. 107–56, §212(b)(1)(C)(iii), (D), redesignated subpar. (C) of par. (1) as par. (2) and temporarily substituted "paragraph (1)" for "subparagraph (B)".
 
 Pub. L. 107–56, §212(b)(1)(B), redesignated par. (2) as (3).
 
 Subsec. (c)(3). Pub. L. 107–56, §212(b)(1)(B), redesignated par. (2) as (3).
 
-Subsec. (d). Pub. L. 107–56, §220(b), struck out “described in section 3127(2)(A)” after “court of competent jurisdiction”.
+Subsec. (d). Pub. L. 107–56, §220(b), struck out "described in section 3127(2)(A)" after "court of competent jurisdiction".
 
 <b>1998</b>—Subsec. (c)(1)(B)(iv). Pub. L. 105–184 added cl. (iv).
 
-<b>1996</b>—Subsec. (c)(1)(C). Pub. L. 104–293 inserted “local and long distance” after “address,”.
+<b>1996</b>—Subsec. (c)(1)(C). Pub. L. 104–293 inserted "local and long distance" after "address,".
 
-Subsec. (d). Pub. L. 104–294 substituted “in section 3127(2)(A)” for “in section 3126(2)(A)”.
+Subsec. (d). Pub. L. 104–294 substituted "in section 3127(2)(A)" for "in section 3126(2)(A)".
 
 Subsec. (f). Pub. L. 104–132 added subsec. (f).
 
-<b>1994</b>—Subsec. (c)(1)(B). Pub. L. 103–414, §207(a)(1)(A), redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read as follows: “uses an administrative subpoena authorized by a Federal or State statute, or a Federal or State grand jury or trial subpoena;”.
+<b>1994</b>—Subsec. (c)(1)(B). Pub. L. 103–414, §207(a)(1)(A), redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read as follows: "uses an administrative subpoena authorized by a Federal or State statute, or a Federal or State grand jury or trial subpoena;".
 
 Subsec. (c)(1)(C). Pub. L. 103–414, §207(a)(1)(B), added subpar. (C).
 
-Subsec. (d). Pub. L. 103–414, §207(a)(2), amended first sentence generally. Prior to amendment, first sentence read as follows: “A court order for disclosure under subsection (b) or (c) of this section may be issued by any court that is a court of competent jurisdiction set forth in section 3127(2)(A) of this title and shall issue only if the governmental entity shows that there is reason to believe the contents of a wire or electronic communication, or the records or other information sought, are relevant to a legitimate law enforcement inquiry.”
+Subsec. (d). Pub. L. 103–414, §207(a)(2), amended first sentence generally. Prior to amendment, first sentence read as follows: "A court order for disclosure under subsection (b) or (c) of this section may be issued by any court that is a court of competent jurisdiction set forth in section 3127(2)(A) of this title and shall issue only if the governmental entity shows that there is reason to believe the contents of a wire or electronic communication, or the records or other information sought, are relevant to a legitimate law enforcement inquiry."
 
-Pub. L. 103–322 substituted “section 3127(2)(A)” for “section 3126(2)(A)”.
+Pub. L. 103–322 substituted "section 3127(2)(A)" for "section 3126(2)(A)".
 
-<b>1988</b>—Subsecs. (b)(1)(B)(i), (c)(1)(B)(i). Pub. L. 100–690, §7038, inserted “or trial” after “grand jury”.
+<b>1988</b>—Subsecs. (b)(1)(B)(i), (c)(1)(B)(i). Pub. L. 100–690, §7038, inserted "or trial" after "grand jury".
 
-Subsec. (d). Pub. L. 100–690, §7039, inserted “may be issued by any court that is a court of competent jurisdiction set forth in section 3126(2)(A) of this title and” before “shall issue”.
+Subsec. (d). Pub. L. 100–690, §7039, inserted "may be issued by any court that is a court of competent jurisdiction set forth in section 3126(2)(A) of this title and" before "shall issue".
 
 #### Effective Date of 2002 Amendment
 

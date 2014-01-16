@@ -96,7 +96,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (1) Indemnification
 
-&emsp;If the Secretary determines that a loan guaranteed by an eligible lender pursuant to delegation of authority under subsection (h) of this section was not originated in accordancewith the requirements under this section and the Secretary pays a claim under the guarantee for the loan, the Secretary may require the eligible lender authorized under subsection (h) of this section to issue the guarantee certificate for the loan—
+&emsp;If the Secretary determines that a loan guaranteed by an eligible lender pursuant to delegation of authority under subsection (h) of this section was not originated in accordance with the requirements under this section and the Secretary pays a claim under the guarantee for the loan, the Secretary may require the eligible lender authorized under subsection (h) of this section to issue the guarantee certificate for the loan—
 
 &emsp;&emsp;(A) to indemnify the Secretary for the loss, if the payment under the guarantee was made within a reasonable period specified by the Secretary; or
 
@@ -152,7 +152,7 @@ The standards established under section 1485(m) of this title for housing and re
 
 &emsp;The report shall—
 
-&emsp;&emsp;(A) describe the types of borrowers providing housing with loans guaranteed under this section, the areas served by the housing provided and the geographical distribution of the housing, the levels of income of the residents of the housing, the number of dwelling units provided, the extent to which borrowers under such loans have obtained other financial assistance for development costs of housing provided with the loans, and the extent to which borrowers under such loans have used low-income housing tax credits provided under section 42 of title 26in connection with the housing provided with the loans;
+&emsp;&emsp;(A) describe the types of borrowers providing housing with loans guaranteed under this section, the areas served by the housing provided and the geographical distribution of the housing, the levels of income of the residents of the housing, the number of dwelling units provided, the extent to which borrowers under such loans have obtained other financial assistance for development costs of housing provided with the loans, and the extent to which borrowers under such loans have used low-income housing tax credits provided under section 42 of title 26 in connection with the housing provided with the loans;
 
 &emsp;&emsp;(B) analyze the financial viability of the housing provided with loans guaranteed under this section and the need for project-based rental assistance for such housing;
 
@@ -164,15 +164,15 @@ The standards established under section 1485(m) of this title for housing and re
 
 For purposes of this section, the following definitions shall apply:
 
-&emsp;(1) The term “development cost” has the meaning given the term in section 1485(e) of this title.
+&emsp;(1) The term "development cost" has the meaning given the term in section 1485(e) of this title.
 
-&emsp;(2) The term “eligible lender” means a lender determined by the Secretary to meet the requirements of subparagraph (A), (B), (C), or (D) of subsection (e)(1) of this section.
+&emsp;(2) The term "eligible lender" means a lender determined by the Secretary to meet the requirements of subparagraph (A), (B), (C), or (D) of subsection (e)(1) of this section.
 
-&emsp;(3) The terms “housing” and “related facilities” have the meanings given such terms in section 1485(e) of this title.
+&emsp;(3) The terms "housing" and "related facilities" have the meanings given such terms in section 1485(e) of this title.
 
 &emsp;(4)
 
-Indian tribe.—The term “Indian tribe” means—
+Indian tribe.—The term "Indian tribe" means—
 
 &emsp;&emsp;(A) any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation, as defined by or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 (25 U.S.C. 450 et seq.); or
 
@@ -188,7 +188,7 @@ The Secretary may not deny a guarantee under this section on the basis that the 
 
 #### (u) Fee authority
 
-Any amounts collected by the Secretary pursuant to the fees charged to lenders for loan guarantees issued under this section shall be used to offset costs (as defined by section 661a of title 2) of loan guarantees made under this section.
+Any amounts collected by the Secretary pursuant to the fees charged to lenders for loan guarantees issued under this section shall be used to offset costs (as defined by section 661a oftitle 2) of loan guarantees made under this section.
 
 #### (v) Defaults of loans secured by reservation lands
 
@@ -214,13 +214,13 @@ Section is based on section 5(a) of H.R. 1691, One Hundred Fourth Congress, as p
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–569, §707(1), inserted “an Indian tribe,” after “political subdivision thereof,”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–569, §707(1), inserted "an Indian tribe," after "political subdivision thereof,".
 
-Subsec. (f)(1). Pub. L. 106–569, §707(2), added par. (1) and struck out former par. (1) which read as follows: “provide for complete amortization by periodic payments to be made for a term not to exceed 40 years;”.
+Subsec. (f)(1). Pub. L. 106–569, §707(2), added par. (1) and struck out former par. (1) which read as follows: "provide for complete amortization by periodic payments to be made for a term not to exceed 40 years;".
 
-Subsec. (i)(2). Pub. L. 106–569, §707(3), substituted “(A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment” for “(A) conveyance to the Secretary of title to the security property, (B) submission to the Secretary of a claim for payment under the guarantee, and (C) assignment”.
+Subsec. (i)(2). Pub. L. 106–569, §707(3), substituted "(A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment" for "(A) conveyance to the Secretary of title to the security property, (B) submission to the Secretary of a claim for payment under the guarantee, and (C) assignment".
 
-Subsec. (l). Pub. L. 106–569, §707(6), (7), redesignated subsec. (m) as (l) and struck out heading and text of former subsec. (l). Text read as follows: “The borrower under a loan that is guaranteed under this section and under which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made.”
+Subsec. (l). Pub. L. 106–569, §707(6), (7), redesignated subsec. (m) as (l) and struck out heading and text of former subsec. (l). Text read as follows: "The borrower under a loan that is guaranteed under this section and under which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made."
 
 Subsecs. (m) to (r). Pub. L. 106–569, §707(7), redesignated subsecs. (n) to (s) as (m) to (r), respectively. Former subsec. (m) redesignated (l).
 
@@ -230,21 +230,21 @@ Subsec. (s)(4). Pub. L. 106–569, §707(4), added par. (4).
 
 Subsec. (t). Pub. L. 106–569, §707(7), redesignated subsec. (u) as (t). Former subsec. (t) redesignated (s).
 
-Pub. L. 106–569, §707(5), inserted before period at end “to provide guarantees under this section for eligible loans having an aggregate principal amount of $500,000,000”.
+Pub. L. 106–569, §707(5), inserted before period at end "to provide guarantees under this section for eligible loans having an aggregate principal amount of $500,000,000".
 
 Subsec. (u). Pub. L. 106–569, §707(8), added subsec. (u). Former subsec. (u) redesignated (t).
 
 Subsec. (v). Pub. L. 106–569, §707(8), added subsec. (v).
 
-<b>1998</b>—Subsec. (t). Pub. L. 105–276, §599C(c)(1), substituted “each fiscal year” for “fiscal year 1998”.
+<b>1998</b>—Subsec. (t). Pub. L. 105–276, §599C(c)(1), substituted "each fiscal year" for "fiscal year 1998".
 
-Subsec. (u). Pub. L. 105–276, §599C(c)(2), added subsec. (u) and struck out heading and text of former subsec. (u). Text read as follows: “A loan may not be guaranteed under this section after September 30, 1998.”
+Subsec. (u). Pub. L. 105–276, §599C(c)(2), added subsec. (u) and struck out heading and text of former subsec. (u). Text read as follows: "A loan may not be guaranteed under this section after September 30, 1998."
 
-<b>1997</b>—Subsec. (q)(2). Pub. L. 105–86, §735(c)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In fiscal year 1996, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed $1,000,000.”
+<b>1997</b>—Subsec. (q)(2). Pub. L. 105–86, §735(c)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "In fiscal year 1996, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed $1,000,000."
 
-Subsec. (t). Pub. L. 105–86, §735(c)(2), added subsec. (t) and struck out text of former subsec. (t). Text read as follows: “There is authorized to be appropriated for fiscal year 1996 $1,000,000 for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section.”
+Subsec. (t). Pub. L. 105–86, §735(c)(2), added subsec. (t) and struck out text of former subsec. (t). Text read as follows: "There is authorized to be appropriated for fiscal year 1996 $1,000,000 for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section."
 
-Subsec. (u). Pub. L. 105–86, §735(c)(3), substituted “1998” for “1996”.
+Subsec. (u). Pub. L. 105–86, §735(c)(3), substituted "1998" for "1996".
 
 <b>1996</b>—Subsecs. (m)(1), (r)(1). Pub. L. 104–120, §5(b), made technical amendment to reference in original act which appears in text as reference to March 28, 1996.
 
@@ -252,9 +252,9 @@ Subsec. (u). Pub. L. 105–86, §735(c)(3), substituted “1998” for “1996�
 
 Section to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as an Effective and Termination Dates of 1996 Amendments note under section 1437d of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “low- or moderate-income”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "low- or moderate-income".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be chapter “1”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be chapter "1".</i>
 

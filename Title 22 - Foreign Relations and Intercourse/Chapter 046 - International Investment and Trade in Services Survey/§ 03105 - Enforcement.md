@@ -6,7 +6,7 @@ Whoever fails to furnish any information required under this chapter, whether re
 
 #### (b) Civil action for failure to furnish information
 
-Whenever it appears that any person has failed to furnish any information required under this chapter, whether required to be furnished in the form of a report or otherwise, or has failed to comply with any rule, regulation, order, or instruction promulgated under this chapter, a civil action may be brought in an appropriate district court of the United States, or the appropriate United States court of any territory or other place subject to the jurisdiction of the United States, and such court may enter a restraining order or a permanent or temporary injunction commanding such person to furnish such information or to comply with such rule, regulation, order, or instruction, as the case may be, or impose the civil penalty provided in subsection (a) of this section, or both.
+Whenever it appears that any person has failed to furnish any information required under this chapter, whether required to be furnished in the form of a report or otherwise, or has failed tocomply with any rule, regulation, order, or instruction promulgated under this chapter, a civil action may be brought in an appropriate district court of the United States, or the appropriate United States court of any territory or other place subject to the jurisdiction of the United States, and such court may enter a restraining order or a permanent or temporary injunction commanding such person to furnish such information or to comply with such rule, regulation, order, or instruction, as the case may be, or impose the civil penalty provided in subsection (a) of this section, or both.
 
 #### (c) Criminal penalty for failure to submit information
 
@@ -16,5 +16,5 @@ Whoever willfully fails to submit any information required under this chapter, w
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–533 substituted “shall be subject to a civil penalty of not less than $2,500, and not more than $25,000,” for “may be subject to a civil penalty not exceeding $10,000”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–533 substituted "shall be subject to a civil penalty of not less than $2,500, and not more than $25,000," for "may be subject to a civil penalty not exceeding $10,000".
 

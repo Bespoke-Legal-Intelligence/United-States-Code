@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 31:697.
 
-June 2, 1951, ch. 121, ch. XI(proviso immediately before heading “Independent Offices”), 65 Stat. 61.
+June 2, 1951, ch. 121, ch. XI(proviso immediately before heading "Independent Offices"), 65 Stat. 61.
 
-The words “executive agency” are substituted for “department, agency, or corporation, in the executive branch of the Government” because of section 102 of the revised title. The words “authority of this section” are substituted for “foregoing authority” for clarity.
+The words "executive agency" are substituted for "department, agency, or corporation, in the executive branch of the Government" because of section 102 of the revised title. The words "authority of this section" are substituted for "foregoing authority" for clarity.
 

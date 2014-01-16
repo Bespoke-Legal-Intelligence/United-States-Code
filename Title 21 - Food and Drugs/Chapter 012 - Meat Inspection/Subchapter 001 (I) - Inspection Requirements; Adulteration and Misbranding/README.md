@@ -22,7 +22,7 @@
 - [&sect; 00615 - Inspection of carcasses, meat of which is intended for export](%C2%A7%2000615%20-%20Inspection%20of%20carcasses%2C%20meat%20of%20which%20is%20intended%20for%20export.md)
 - [&sect; 00616 - Inspectors of carcasses, etc., meat of which is intended for export; certificates of condition](%C2%A7%2000616%20-%20Inspectors%20of%20carcasses%2C%20etc.%2C%20meat%20of%20which%20is%20intended%20for%20export%3B%20certificates%20of%20condition.md)
 - [&sect; 00617 - Clearance prohibited to vessel carrying meat for export without inspector's certificate](%C2%A7%2000617%20-%20Clearance%20prohibited%20to%20vessel%20carrying%20meat%20for%20export%20without%20inspector%27s%20certificate.md)
-- [&sect; 00618 - Delivery of inspectors&#8217; certificates, and of copies](%C2%A7%2000618%20-%20Delivery%20of%20inspectors%E2%80%99%20certificates%2C%20and%20of%20copies.md)
+- [&sect; 00618 - Delivery of inspectors' certificates, and of copies](%C2%A7%2000618%20-%20Delivery%20of%20inspectors%27%20certificates%2C%20and%20of%20copies.md)
 - [&sect; 00619 - Marking, labeling, or other identification to show kinds of animals from which derived; separate establishments for preparation and&#8230;](%C2%A7%2000619%20-%20Marking%2C%20labeling%2C%20or%20other%20identification%20to%20show%20kinds%20of%20animals%20from%20which%20derived%3B%20separate%20establishments%20for%20preparation%20and%E2%80%A6.md)
 - [&sect; 00620 - Imports](%C2%A7%2000620%20-%20Imports.md)
 - [&sect; 00621 - Inspectors to make examinations provided for; appointment; duties; regulations](%C2%A7%2000621%20-%20Inspectors%20to%20make%20examinations%20provided%20for%3B%20appointment%3B%20duties%3B%20regulations.md)

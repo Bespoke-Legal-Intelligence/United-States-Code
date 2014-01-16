@@ -34,13 +34,13 @@ Each center established, maintained, or operated under this section shall—
 
 #### (c) Equitable geographic distribution of centers; procedures
 
-(1) In making grants and entering into contracts under this section, the Secretary shall provide for an equitable geographical distribution of centers established, maintained, and operated under this section and for the distribution of such centers among areas containing a wide range of population groups which exhibitincidences of diseases which are most amenable to preventive intervention.
+(1) In making grants and entering into contracts under this section, the Secretary shall provide for an equitable geographical distribution of centers established, maintained, and operated under this section and for the distribution of such centers among areas containing a wide range of population groups which exhibit incidences of diseases which are most amenable to preventive intervention.
 
 (2) The Secretary, through the Director of the Centers for Disease Control and Prevention and in consultation with the Director of the National Institutes of Health, shall establish procedures for the appropriate peer review of applications for grants and contracts under this section by peer review groups composed principally of non-Federal experts.
 
-#### (d) “Academic health center” defined
+#### (d) "Academic health center" defined
 
-For purposes of this section, the term “academic health center” means a school of medicine, a school of osteopathy, or a school of public health, as such terms are defined in section 292a(4) <sup>1</sup> of this title.
+For purposes of this section, the term "academic health center" means a school of medicine, a school of osteopathy, or a school of public health, as such terms are defined in section 292a(4) <sup>1</sup> of this title.
 
 #### (e) Authorization of appropriations
 
@@ -54,21 +54,21 @@ Section 292a of this title, referred to in subsec. (d), was in the original a re
 
 #### Prior Provisions
 
-A prior section 300u–5, act July 1, 1944, ch. 373, title XVII, §1706, as added June 23, 1976, Pub. L. 94–317, title I, §102, 90 Stat. 700; amended Nov. 10, 1978, Pub. L. 95–626, title V, §501, 92 Stat. 3592; Jan. 4, 1983, Pub. L. 97–414, §8(r), 96 Stat. 2062, related to establishment of the Office of Health Promotion, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
+A prior section 300u–5, act July 1, 1944, ch. 373, title XVII, §1706, as added June 23, 1976, Pub. L. 94–317, titleI, §102, 90 Stat. 700; amended Nov. 10, 1978, Pub. L. 95–626, title V, §501, 92 Stat. 3592; Jan. 4, 1983, Pub. L. 97–414, §8(r), 96 Stat. 2062, related to establishment of the Office of Health Promotion, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (e). Pub. L. 105–340 substituted “2003” for “1998”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–340 substituted "2003" for "1998".
 
-<b>1993</b>—Subsec. (e). Pub. L. 103–183 substituted “through 1998” for “through 1996”.
+<b>1993</b>—Subsec. (e). Pub. L. 103–183 substituted "through 1998" for "through 1996".
 
-<b>1992</b>—Subsec. (c)(2). Pub. L. 102–531, which directed amendment of subsec. (c)(2)(B) by substituting “Centers for Disease Control and Prevention” for “Centers for Disease Control”, was executed by making the substitution in subsec. (c)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c)(2)(B) as subsec. (c)(2) by Pub. L. 102–168. See 1991 Amendment note below.
+<b>1992</b>—Subsec. (c)(2). Pub. L. 102–531, which directed amendment of subsec. (c)(2)(B) by substituting "Centers for Disease Control and Prevention" for "Centers for Disease Control", was executed by making the substitution in subsec. (c)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c)(2)(B) as subsec. (c)(2) by Pub. L. 102–168. See 1991 Amendment note below.
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–168, §102(b), redesignated subpars. (A) and (B) of par. (2) as pars. (1) and (2), respectively, and struck out former par. (1), which read as follows: “During fiscal year 1985, the Secretary shall make grants or enter into contracts for the establishment of three centers under this section. During fiscal year 1986, the Secretary shall make grants and enter into contracts for the establishment of five centers under this section and the maintenance and operation of the three centers established under this section in fiscal year 1985. During fiscal year 1987, the Secretary shall make grants and enter into contracts for the establishment of five centers under this section and the operation and maintenance of the eight centers established under this section in fiscal years 1985 and 1986.”
+<b>1991</b>—Subsec. (c). Pub. L. 102–168, §102(b), redesignated subpars. (A) and (B) of par. (2) as pars. (1) and (2), respectively, and struck out former par. (1), which read as follows: "During fiscal year 1985, the Secretary shall make grants or enter into contracts for the establishment of three centers under this section. During fiscal year 1986, the Secretary shall make grants and enter into contracts for the establishment of five centers under this section and the maintenance and operation of the three centers established under this section in fiscal year 1985. During fiscal year 1987, the Secretary shall make grants and enter into contracts for the establishment of five centers under this section and the operation and maintenance of the eight centers established under this section in fiscal years 1985 and 1986."
 
-Subsec. (e). Pub. L. 102–168, §102(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “To carry out this section, there are authorized to be appropriated $3,000,000 for the fiscal year ending September 30, 1985, $8,000,000 for the fiscal year ending September 30, 1986, $13,000,000 for the fiscal year ending September 30, 1987, $6,000,000 for fiscal year 1989, $8,000,000 for fiscal year 1990, and $10,000,000 for fiscal year 1991.”
+Subsec. (e). Pub. L. 102–168, §102(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "To carry out this section, there are authorized to be appropriated $3,000,000 for the fiscal year ending September 30, 1985, $8,000,000 for the fiscal year ending September 30, 1986, $13,000,000 for the fiscal year ending September 30, 1987, $6,000,000 for fiscal year 1989, $8,000,000 for fiscal year 1990, and $10,000,000 for fiscal year 1991."
 
-<b>1988</b>—Subsec. (e). Pub. L. 100–607 struck out “and” after “1986,” and inserted “, $6,000,000 for fiscal year 1989, $8,000,000 for fiscal year 1990, and $10,000,000 for fiscal year 1991” before period at end.
+<b>1988</b>—Subsec. (e). Pub. L. 100–607 struck out "and" after "1986," and inserted ", $6,000,000 for fiscal year 1989, $8,000,000 for fiscal year 1990, and $10,000,000 for fiscal year 1991" before period at end.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

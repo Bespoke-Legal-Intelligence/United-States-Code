@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 R.S. 4640 (less 2d sentence).
 
-In subsection (b) the words “or orders” after “order” are omitted as surplusage. The words “a charge upon and” are omitted as surplusage.
+In subsection (b) the words "or orders" after "order" are omitted as surplusage. The words "a charge upon and" are omitted as surplusage.
 

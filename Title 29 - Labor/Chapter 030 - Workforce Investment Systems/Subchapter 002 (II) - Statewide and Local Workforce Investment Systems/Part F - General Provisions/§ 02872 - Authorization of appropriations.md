@@ -2,7 +2,7 @@
 
 #### (a) Youth activities
 
-There are authorized to be appropriated to carry out the activities described in section2852(a) of this title, such sums as may be necessary for each of fiscal years 1999 through 2003.
+There are authorized to be appropriated to carry out the activities described in section 2852(a) of this title, such sums as may be necessary for each of fiscal years 1999 through 2003.
 
 #### (b) Adult employment and training activities
 

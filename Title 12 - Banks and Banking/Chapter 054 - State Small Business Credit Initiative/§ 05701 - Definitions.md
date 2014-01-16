@@ -4,7 +4,7 @@ In this chapter, the following definitions shall apply:
 
 #### (1) Appropriate committees of Congress
 
-&emsp;The term “appropriate committees of Congress” means—
+&emsp;The term "appropriate committees of Congress" means—
 
 &emsp;&emsp;(A) the Committee on Small Business and Entrepreneurship, the Committee on Agriculture, Nutrition, and Forestry, the Committee on Banking, Housing, and Urban Affairs, the Committee on Finance, the Committee on the Budget, and the Committee on Appropriations of the Senate; and
 
@@ -12,7 +12,7 @@ In this chapter, the following definitions shall apply:
 
 #### (2) Appropriate Federal banking agency
 
-&emsp;The term “appropriate Federal banking agency”—
+&emsp;The term "appropriate Federal banking agency"—
 
 &emsp;&emsp;(A) has the same meaning as in section 1813(q) of this title; and
 
@@ -20,27 +20,27 @@ In this chapter, the following definitions shall apply:
 
 #### (3) Enrolled loan
 
-&emsp;The term “enrolled loan” means a loan made by a financial institution lender that is enrolled by a participating State in an approved State capital access program in accordance with this chapter.
+&emsp;The term "enrolled loan" means a loan made by a financial institution lender that is enrolled by a participating State in an approved State capital access program in accordance with this chapter.
 
 #### (4) Federal contribution
 
-&emsp;The term “Federal contribution” means the portion of the contribution made by a participating State to, or for the account of, an approved State program that is made with Federal funds allocated to the State by the Secretary under section 5702 of this title.
+&emsp;The term "Federal contribution" means the portion of the contribution made by a participating State to, or for the account of, an approved State program that is made with Federal funds allocated to the State by the Secretary under section 5702 of this title.
 
 #### (5) Financial institution
 
-&emsp;The term “financial institution” means any insured depository institution, insured credit union, or community development financial institution, as those terms are each defined in section 4702 of this title.
+&emsp;The term "financial institution" means any insured depository institution, insured credit union, or community development financial institution, as those terms are each defined in section 4702 of this title.
 
 #### (6) Participating State
 
-&emsp;The term “participating State” means any State that has been approved for participation in the Program under section 5703 of this title.
+&emsp;The term "participating State" means any State that has been approved for participation in the Program under section 5703 of this title.
 
 #### (7) Program
 
-&emsp;The term “Program” means the State Small Business Credit Initiative established under this chapter.
+&emsp;The term "Program" means the State Small Business Credit Initiative established under this chapter.
 
 #### (8) Qualifying loan or swap funding facility
 
-&emsp;The term “qualifying loan or swap funding facility” means a contractual arrangement between a participating State and a private financial entity under which—
+&emsp;The term "qualifying loan or swap funding facility" means a contractual arrangement between a participating State and a private financial entity under which—
 
 &emsp;&emsp;(A) the participating State delivers funds to the entity as collateral;
 
@@ -50,7 +50,7 @@ In this chapter, the following definitions shall apply:
 
 #### (9) Reserve fund
 
-&emsp;The term “reserve fund” means a fund, established by a participating State, dedicated to a particular financial institution lender, for the purposes of—
+&emsp;The term "reserve fund" means a fund, established by a participating State, dedicated to a particular financial institution lender, for the purposes of—
 
 &emsp;&emsp;(A) depositing all required premium charges paid by the financial institution lender and by each borrower receiving a loan under an approved State program from that financial institution lender;
 
@@ -60,7 +60,7 @@ In this chapter, the following definitions shall apply:
 
 #### (10) State
 
-&emsp;The term “State” means—
+&emsp;The term "State" means—
 
 &emsp;&emsp;(A) a State of the United States;
 
@@ -72,7 +72,7 @@ In this chapter, the following definitions shall apply:
 
 #### (11) State capital access program
 
-&emsp;The term “State capital access program” means a program of a State that—
+&emsp;The term "State capital access program" means a program of a State that—
 
 &emsp;&emsp;(A) uses public resources to promote private access to credit; and
 
@@ -80,7 +80,7 @@ In this chapter, the following definitions shall apply:
 
 #### (12) State other credit support program
 
-&emsp;The term “State other credit support program”—
+&emsp;The term "State other credit support program"—
 
 &emsp;&emsp;(A) means a program of a State that—
 
@@ -94,11 +94,11 @@ In this chapter, the following definitions shall apply:
 
 #### (13) State program
 
-&emsp;The term “State program” means a State capital access program or a State other credit support program.
+&emsp;The term "State program" means a State capital access program or a State other credit support program.
 
 #### (14) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Treasury.
+&emsp;The term "Secretary" means the Secretary of the Treasury.
 
 (Pub. L. 111–240, title III, §3002, Sept. 27, 2010, 124 Stat. 2568.)
 
@@ -108,5 +108,5 @@ The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, 
 
 #### Short Title
 
-Pub. L. 111–240, title III, §3001, Sept. 27, 2010, 124 Stat. 2568, provided that: “This title \[enacting this chapter\] may be cited as the ‘State Small Business Credit Initiative Act of 2010’.”
+Pub. L. 111–240, title III, §3001, Sept. 27, 2010, 124 Stat. 2568, provided that: "This title \[enacting this chapter\] may be cited as the 'State Small Business Credit Initiative Act of 2010'."
 

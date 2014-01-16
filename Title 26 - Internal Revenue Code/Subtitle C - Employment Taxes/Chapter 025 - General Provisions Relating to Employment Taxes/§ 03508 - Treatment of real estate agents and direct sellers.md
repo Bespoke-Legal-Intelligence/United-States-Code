@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (1) Qualified real estate agent
 
-&emsp;The term “qualified real estate agent” means any individual who is a sales person if—
+&emsp;The term "qualified real estate agent" means any individual who is a sales person if—
 
 &emsp;&emsp;(A) such individual is a licensed real estate agent,
 
@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (2) Direct seller
 
-&emsp;The term “direct seller” means any person if—
+&emsp;The term "direct seller" means any person if—
 
 &emsp;&emsp;(A) such person—
 
@@ -50,21 +50,21 @@ For purposes of this section—
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title XI, §1118(b), Aug. 20, 1996, 110 Stat. 1764, provided that: “The amendments made by this section shall apply to services performed after December 31, 1995.”
+Pub. L. 104–188, title XI, §1118(b), Aug. 20, 1996, 110 Stat. 1764, provided that: "The amendments made by this section shall apply to services performed after December 31, 1995."
 
 #### Effective Date
 
 Pub. L. 97–248, title II, §269(e), Sept. 3, 1982, 96 Stat. 553, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 410 of Title 42, The Public Health and Welfare\] shall apply to services performed after December 31, 1982.
 
-“(2)
+"(2)
 
-Subsection (c).—The amendments made by subsection (c) \[amending provisions set out as a note under section 3401 of this title\] shall take effect on July 1, 1982.”
+Subsection (c).—The amendments made by subsection (c) \[amending provisions set out as a note under section 3401 of this title\] shall take effect on July 1, 1982."
 
 #### Rules and Regulations
 
-Pub. L. 97–248, title II, §269(c)(3), Sept. 3, 1982, 96 Stat. 553, provided that: “Nothing in section 530 of the Revenue Act of 1978 \[set out as a note under section 3401 of this title\] shall be construed to prohibit the implementation of the amendments made by this section \[enacting this section, amending section 410 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 3401 of this title\].”
+Pub. L. 97–248, title II, §269(c)(3), Sept. 3, 1982, 96 Stat. 553, provided that: "Nothing in section 530 of the Revenue Act of 1978 \[set out as a note under section 3401 of this title\] shall be construed to prohibit the implementation of the amendments made by this section \[enacting this section, amending section 410 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 3401 of this title\]."
 

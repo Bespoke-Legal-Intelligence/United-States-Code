@@ -10,5 +10,5 @@ The Administrator, in coordination with the Interagency Committee, shall—
 
 #### Amendments
 
-<b>2012</b>—Par. (2). Pub. L. 112–213 struck out “by the fishing industry” after “to be submitted”.
+<b>2012</b>—Par. (2). Pub. L. 112–213 struck out "by the fishing industry" after "to be submitted".
 

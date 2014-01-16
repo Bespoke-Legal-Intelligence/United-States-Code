@@ -38,17 +38,17 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means an organization capable of providing technical assistance including an area health education center program as defined in sections 294a and 295p of this title.
+&emsp;The term "eligible entity" means an organization capable of providing technical assistance including an area health education center program as defined in sections 294a and 295p of this title.
 
 #### (2) Primary care residency program
 
-&emsp;The term “primary care residency program” means an approved graduate medical residency training program (as defined in section 256h of this title) in family medicine, internal medicine, pediatrics, internal medicine-pediatrics, obstetrics and gynecology, psychiatry, general dentistry, pediatric dentistry, and geriatrics.
+&emsp;The term "primary care residency program" means an approved graduate medical residency training program (as defined in section 256h of this title) in family medicine, internal medicine, pediatrics, internal medicine-pediatrics, obstetrics and gynecology, psychiatry, general dentistry, pediatric dentistry, and geriatrics.
 
 #### (3) Teaching health center
 
 #### (A) In general
 
-&emsp;&emsp;The term “teaching health center” means an entity that—
+&emsp;&emsp;The term "teaching health center" means an entity that—
 
 &emsp;&emsp;&emsp;(i) is a community based, ambulatory patient care center; and
 

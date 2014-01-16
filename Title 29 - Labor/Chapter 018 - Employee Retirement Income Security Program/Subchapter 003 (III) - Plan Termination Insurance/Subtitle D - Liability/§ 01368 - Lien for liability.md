@@ -10,23 +10,23 @@ The lien imposed by subsection (a) of this section arises on the date of termina
 
 #### (c) Priority
 
-(1) Except as otherwise provided under this section, the priority of a lien imposed under subsection (a) of this section shall be determined in the same manner as under section 6323 of title 26 (as in effect on April 7, 1986). Such section 6323 shall be applied for purposes of this section by disregarding subsection (g)(4) and by substituting—
+(1) Except as otherwise provided under this section, the priority of a lien imposed under subsection (a) of this section shall be determined in the same manner as under section 6323 of title 26\(as in effect on April 7, 1986). Such section 6323 shall be applied for purposes of this section by disregarding subsection (g)(4) and by substituting—
 
-&emsp;(A) “lien imposed by section 4068 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1368\]” for “lien imposed by section 6321” each place it appears in subsections (a), (b), (c)(1), (c)(4)(B), (d), (e), and (h)(5);
+&emsp;(A) "lien imposed by section 4068 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1368\]" for "lien imposed by section 6321" each place it appears in subsections (a), (b), (c)(1), (c)(4)(B), (d), (e), and (h)(5);
 
-&emsp;(B) “the corporation” for “the Secretary” in subsections (a) and (b)(9)(C);
+&emsp;(B) "the corporation" for "the Secretary" in subsections (a) and (b)(9)(C);
 
-&emsp;(C) “the payment of the amount on which the section 4068(a) lien is based” for “the collection of any tax under this title” in subsection (b)(3);
+&emsp;(C) "the payment of the amount on which the section 4068(a) lien is based" for "the collection of any tax under this title" in subsection (b)(3);
 
-&emsp;(D) “a person whose property is subject to the lien” for “the taxpayer” in subsections (b)(8), (c)(2)(A)(i) (the first place it appears), (c)(2)(A)(ii), (c)(2)(B), (c)(4)(B), and (c)(4)(C) (in the matter preceding clause (i));
+&emsp;(D) "a person whose property is subject to the lien" for "the taxpayer" in subsections (b)(8), (c)(2)(A)(i) (the first place it appears), (c)(2)(A)(ii), (c)(2)(B), (c)(4)(B), and (c)(4)(C) (in the matter preceding clause (i));
 
-&emsp;(E) “such person” for “the taxpayer” in subsections (c)(2)(A)(i) (the second place it appears) and (c)(4)(C)(ii);
+&emsp;(E) "such person" for "the taxpayer" in subsections (c)(2)(A)(i) (the second place it appears) and (c)(4)(C)(ii);
 
-&emsp;(F) “payment of the loan value of the amount on which the lien is based is made to the corporation” for “satisfaction of a levy pursuant to section 6332(b)” in subsection (b)(9)(C);
+&emsp;(F) "payment of the loan value of the amount on which the lien is based is made to the corporation" for "satisfaction of a levy pursuant to section 6332(b)" in subsection (b)(9)(C);
 
-&emsp;(G) “section 4068(a) lien” for “tax lien” each place it appears in subsections (c)(1), (c)(2)(A), (c)(2)(B), (c)(3)(B)(iii), (c)(4)(B), (d), and (h)(5); and
+&emsp;(G) "section 4068(a) lien" for "tax lien" each place it appears in subsections (c)(1), (c)(2)(A), (c)(2)(B), (c)(3)(B)(iii), (c)(4)(B), (d), and (h)(5); and
 
-&emsp;(H) “the date on which the lien is first filed” for “the date of the assessment of the tax” in subsection (g)(3)(A).
+&emsp;(H) "the date on which the lien is first filed" for "the date of the assessment of the tax" in subsection (g)(3)(A).
 
 (2) In a case under title 11 or in insolvency proceedings, the lien imposed under subsection (a) of this section shall be treated in the same manner as a tax due and owing to the United States for purposes of title 11 or section 3713 of title 31.
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;(1) The collective net worth of persons subject to liability in connection with a plan termination shall be determined as provided in section 1362(d)(1) of this title.
 
-&emsp;(2) The term “pre-tax profits” has the meaning provided in section 1362(d)(2) of this title.
+&emsp;(2) The term "pre-tax profits" has the meaning provided in section 1362(d)(2) of this title.
 
 (Pub. L. 93–406, title IV, §4068, Sept. 2, 1974, 88 Stat. 1032; Pub. L. 95–598, title III, §321(c), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 99–272, title XI, §11016(a)(6)(B), (c)(14), Apr. 7, 1986, 100 Stat. 271, 275; Pub. L. 100–203, title IX, §9312(b)(2)(B)(i), (C)(ii), Dec. 22, 1987, 101 Stat. 1330–361, 1330–362; Pub. L. 101–239, title VII, §§7881(f)(3)(B), (10)(C), (12), 7891(a)(1), 7894(g)(4)(A), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451.)
 
@@ -60,31 +60,31 @@ A former subsec. (f) of this section was originally subsec. (e) of section 1362 
 
 #### Amendments
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7881(f)(12), struck out “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title” after “the amount of such liability” and substituted “in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title” for “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title upon all property and rights to property, whether real or personal, belonging to such person.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7881(f)(12), struck out "to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title" after "the amount of such liability" and substituted "in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title" for "to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title upon all property and rights to property, whether real or personal, belonging to such person."
 
-Pub. L. 101–239, §7881(f)(3)(B), struck out at end “The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of section 1364(d) of this title relating to treatment of multiple controlled groups.”
+Pub. L. 101–239, §7881(f)(3)(B), struck out at end "The preceding provisions of this subsection shall be appliedin a manner consistent with the provisions of section 1364(d) of this title relating to treatment of multiple controlled groups."
 
-Subsec. (c). Pub. L. 101–239, §7891(a)(1), in pars. (1), (3), and (4), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (c). Pub. L. 101–239, §7891(a)(1), in pars. (1), (3), and (4), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-Subsec. (c)(2). Pub. L. 101–239, §7894(g)(4)(A), substituted “section 3713 of title 31” for “section 3466 of the Revised Statutes (31 U.S.C. 191)”.
+Subsec. (c)(2). Pub. L. 101–239, §7894(g)(4)(A), substituted "section 3713 of title 31" for "section 3466 of the Revised Statutes (31 U.S.C. 191)".
 
 Subsec. (f). Pub. L. 101–239, §7881(f)(10)(C), added subsec. (f).
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9312(b)(2)(B)(i), substituted “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title” for “to the extent of an amount equal to the unpaid amount described in section 1362(b)(1)(A)(i) of this title” in two places.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9312(b)(2)(B)(i), substituted "to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title" for "to the extent of an amount equal to the unpaid amount described in section 1362(b)(1)(A)(i) of this title" in two places.
 
-Pub. L. 100–203, §9312(b)(2)(C)(ii), inserted at end “The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of section 1364(d) of this title relating to treatment of multiple controlled groups.”
+Pub. L. 100–203, §9312(b)(2)(C)(ii), inserted at end "The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of section 1364(d) of this title relating to treatment of multiple controlled groups."
 
-<b>1986</b>—Pub. L. 99–272, §11016(a)(6)(B)(i), struck out “of employer” after “liability” in section catchline.
+<b>1986</b>—Pub. L. 99–272, §11016(a)(6)(B)(i), struck out "of employer" after "liability" in section catchline.
 
-Subsec. (a). Pub. L. 99–272, §11016(a)(6)(B)(ii), substituted “person liable” for “employer or employers liable”, “neglects or refuses” for “neglect or refuse”, and “such person” for “such employer or employers” and inserted “to the extent of an amount equal to the unpaid amount described in section 1362(b)(1)(A)(i) of this title” in two places.
+Subsec. (a). Pub. L. 99–272, §11016(a)(6)(B)(ii), substituted "person liable" for "employer or employers liable", "neglects or refuses" for "neglect or refuse", and "such person" for "such employer or employers" and inserted "to the extent of an amount equal to the unpaid amount described in section 1362(b)(1)(A)(i) of this title" in two places.
 
-Subsec. (c)(1). Pub. L. 99–272, §11016(a)(6)(B)(vi), substituted par. (1) for former par. (1) which read as follows: “Except as otherwise provided under this section, the priority of the lien imposed under subsection (a) of this section shall be determined in the same manner as under section 6323 of title 26. Such section 6323 shall be applied by substituting ‘lien imposed by section 4068 of the Employee Retirement Income Security Act of 1974’ for ‘lien imposed by section 6321’; ‘corporation’ for ‘Secretary or his delegate’; ‘employer liability lien’ for ‘tax lien’; ‘employer’ for ‘taxpayer’; ‘lien arising under section 4068(a) of the Employee Retirement Income Security Act of 1974’ for ‘assessment of the tax’; and ‘payment of the loan value is made to the corporation’ for ‘satisfaction of a levy pursuant to section 6332(b)’; each place such terms appear.”
+Subsec. (c)(1). Pub. L. 99–272, §11016(a)(6)(B)(vi), substituted par. (1) for former par. (1) which read as follows: "Except as otherwise provided under this section, the priority of the lien imposed under subsection (a) of this section shall be determined in the same manner as under section 6323 of title 26. Such section 6323 shall be applied by substituting 'lien imposed by section 4068 of the Employee Retirement Income Security Act of 1974' for 'lien imposed by section 6321'; 'corporation' for 'Secretary or his delegate'; 'employer liability lien' for 'tax lien'; 'employer' for 'taxpayer'; 'lien arising under section 4068(a) of the Employee Retirement Income Security Act of 1974' for 'assessment of the tax'; and 'payment of the loan value is made to the corporation' for 'satisfaction of a levy pursuant to section 6332(b)'; each place such terms appear."
 
-Subsec. (d)(1), (2). Pub. L. 99–272, §11016(a)(6)(B)(iii), (iv), substituted “liable person” for “employer” wherever appearing.
+Subsec. (d)(1), (2). Pub. L. 99–272, §11016(a)(6)(B)(iii), (iv), substituted "liable person" for "employer" wherever appearing.
 
-Subsec. (e). Pub. L. 99–272, §11016(a)(6)(B)(v), (c)(14), struck out “, with the consent of the board of directors,” after “corporation determines” and substituted “liable person” for “employer or employers”.
+Subsec. (e). Pub. L. 99–272, §11016(a)(6)(B)(v), (c)(14), struck out ", with the consent of the board of directors," after "corporation determines" and substituted "liable person" for "employer or employers".
 
-<b>1978</b>—Subsec. (c)(2). Pub. L. 95–598 substituted “a case under title 11 or in” and “title 11” for “the case of bankruptcy or” and “the Bankruptcy Act”.
+<b>1978</b>—Subsec. (c)(2). Pub. L. 95–598 substituted "a case under title 11 or in" and "title 11" for "the case of bankruptcy or" and "the Bankruptcy Act".
 
 #### Effective Date of 1989 Amendment
 
@@ -92,11 +92,11 @@ Amendment by section 7881(f)(3)(B), (10)(C), (12) of Pub. L. 101–239 effective
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Pub. L. 101–239, title VII, §7894(g)(4)(B), Dec. 19, 1989, 103 Stat. 2451, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if originally included in section 3 of Public Law 97–258.”
+Pub. L. 101–239, title VII, §7894(g)(4)(B), Dec. 19, 1989, 103 Stat. 2451, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if originally included in section 3 of Public Law 97–258."
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L.100–203, as amended, set out as a note under section 1301 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as a note under section 1301 of this title.
 
 #### Effective Date of 1986 Amendment
 

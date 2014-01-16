@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–583 designated existing provisions as subsec. (a), substituted “460u–3 of this title, dated December 1980 and numbered 626–91014” for “460u of this title”, and added subsec. (b).
+<b>1986</b>—Pub. L. 99–583 designated existing provisions as subsec. (a), substituted "460u–3 of this title, dated December 1980 and numbered 626–91014" for "460u of this title", and added subsec. (b).
 

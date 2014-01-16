@@ -14,9 +14,9 @@
 
 As used in this section—
 
-&emsp;(1) the term “Commission for Labor Cooperation” means the commission established by Part Three of the North American Agreement on Labor Cooperation; and
+&emsp;(1) the term "Commission for Labor Cooperation" means the commission established by Part Three of the North American Agreement on Labor Cooperation; and
 
-&emsp;(2) the term “North American Agreement on Labor Cooperation” means the North American Agreement on Labor Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
+&emsp;(2) the term "North American Agreement on Labor Cooperation" means the North American Agreement on Labor Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
 
 (Pub. L. 103–182, title V, §531, Dec. 8, 1993, 107 Stat. 2163.)
 

@@ -34,7 +34,7 @@ If for any period 2 or more persons are operators of a qualifying vessel, the no
 
 #### Amendments
 
-<b>2005</b>—Subsec. (d). Pub. L. 109–135 substituted “ownership, charter, and operating agreement interests” for “ownership and charter interests”.
+<b>2005</b>—Subsec. (d). Pub. L. 109–135 substituted "ownership, charter, and operating agreement interests" for "ownership and charter interests".
 
 #### Effective Date of 2005 Amendment
 

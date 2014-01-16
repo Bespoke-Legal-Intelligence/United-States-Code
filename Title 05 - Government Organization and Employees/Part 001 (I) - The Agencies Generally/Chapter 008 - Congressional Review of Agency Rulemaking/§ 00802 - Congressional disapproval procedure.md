@@ -1,6 +1,6 @@
 ### §802. Congressional disapproval procedure
 
-(a) For purposes of this section, the term “joint resolution” means only a joint resolution introduced in the period beginning on the date on which the report referred to in section 801(a)(1)(A) is received by Congress and ending 60 days thereafter (excluding days either House of Congress is adjourned for more than 3 days during a session of Congress), the matter after the resolving clause of which is as follows: “That Congress disapproves the rule submitted by the \_\_\_\_ relating to \_\_\_\_, and such rule shall have no force or effect.” (The blank spaces being appropriately filled in).
+(a) For purposes of this section, the term “joint resolution” means only a joint resolution introduced in the period beginning on the date on which the report referred to in section 801(a)(1)(A) is received by Congress and ending 60 days thereafter (excluding days either House of Congress is adjourned for more than 3 days during a session of Congress), the matter after the resolving clause of which is as follows: “That Congress disapproves the rule submitted by the \_\_\_\_ relating to \_\_\_\_, and such rule shall have noforce or effect.” (The blank spaces being appropriately filled in).
 
 (b)(1) A joint resolution described in subsection (a) shall be referred to the committees in each House of Congress with jurisdiction.
 
@@ -16,7 +16,7 @@
 
 (2) In the Senate, debate on the joint resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the joint resolution. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the joint resolution is not in order.
 
-(3) In the Senate, immediately following the conclusion of the debate on a joint resolution described in subsection (a), and a single quorum call at the conclusion of the debate if requestedin accordance with the rules of the Senate, the vote on final passage of the joint resolution shall occur.
+(3) In the Senate, immediately following the conclusion of the debate on a joint resolution described in subsection (a), and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate, the vote on final passage of the joint resolution shall occur.
 
 (4) Appeals from the decisions of the Chair relating to the application of the rules of the Senate to the procedure relating to a joint resolution described in subsection (a) shall be decided without debate.
 

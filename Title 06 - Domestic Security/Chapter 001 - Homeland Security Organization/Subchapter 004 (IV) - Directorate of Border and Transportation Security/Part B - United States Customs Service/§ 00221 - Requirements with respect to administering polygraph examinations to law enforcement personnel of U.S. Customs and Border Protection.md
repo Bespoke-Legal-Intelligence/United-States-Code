@@ -4,7 +4,7 @@ The Secretary of Homeland Security shall ensure that—
 
 &emsp;(1) by not later than 2 years after January 4, 2011, all applicants for law enforcement positions with U.S. Customs and Border Protection receive polygraph examinations before being hired for such a position; and
 
-&emsp;(2) by not later than 180 days after January 4, 2011, U.S. Customs and Border Protectioninitiates all periodic background reinvestigations for all law enforcement personnel of U.S. Customs and Border Protection that should receive periodic background reinvestigations pursuant to relevant policies of U.S. Customs and Border Protection in effect on the day before January 4, 2011.
+&emsp;(2) by not later than 180 days after January 4, 2011, U.S. Customs and Border Protection initiates all periodic background reinvestigations for all law enforcement personnel of U.S. Customs and Border Protection that should receive periodic background reinvestigations pursuant to relevant policies of U.S. Customs and Border Protection in effect on the day before January 4, 2011.
 
 (Pub. L. 111–376, §3, Jan. 4, 2011, 124 Stat. 4104.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Agency consultation and coordination
 
-In carrying out this chapter, the Secretary shall, as necessary, consult with, cooperate with, and coordinate its activities with the activities of other Federal departments and agencies.
+In carrying out this chapter, the Secretary shall, as necessary, consult with, cooperatewith, and coordinate its activities with the activities of other Federal departments and agencies.
 
 #### (b) Cooperative agreements; memoranda of understanding
 
@@ -20,7 +20,7 @@ Federal agencies may cooperate in carrying out scientific and other programs nec
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1). Pub. L. 110–114, §5017(h)(1), inserted “or contracts” after “agreements” and “, nongovernmental organizations,” after “agencies”.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–114, §5017(h)(1), inserted "or contracts" after "agreements" and ", nongovernmental organizations," after "agencies".
 
 Subsecs. (d), (e). Pub. L. 110–114, §5017(h)(2), struck out subsecs. (d) and (e) which related to identification and mapping of dredged material disposal sites and study of bioremediation technology, respectively.
 

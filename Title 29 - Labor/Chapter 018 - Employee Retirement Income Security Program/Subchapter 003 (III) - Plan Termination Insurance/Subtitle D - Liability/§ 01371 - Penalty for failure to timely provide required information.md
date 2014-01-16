@@ -6,11 +6,11 @@ The corporation may assess a penalty, payable to the corporation, against any pe
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–458 substituted “or section 1083(k)(4) of this title,” for “as section 1083(k)(4) or 1085b(e) of this title”.
+<b>2008</b>—Pub. L. 110–458 substituted "or section 1083(k)(4) of this title," for "as section 1083(k)(4) or 1085b(e) of this title".
 
-<b>2006</b>—Pub. L. 109–280 substituted “1083(k)(4)” for “1082(f)(4)”.
+<b>2006</b>—Pub. L. 109–280 substituted "1083(k)(4)" for "1082(f)(4)".
 
-<b>1989</b>—Pub. L. 101–239, §7881(i)(3)(B), substituted “, subtitle A, B, or C of this subchapter, as section 1082(f)(4) or 1085b(e) of this title” for “or subtitle A, B, or C” and inserted “or such section” after “such subtitle”.
+<b>1989</b>—Pub. L. 101–239, §7881(i)(3)(B), substituted ", subtitle A, B, or C of this subchapter, as section 1082(f)(4) or 1085b(e) of this title" for "or subtitle A, B, or C" and inserted "or such section" after "such subtitle".
 
 Pub. L. 101–239, §7881(g)(8), made clarifying amendment to directory language of Pub. L. 100–203, §9314(c)(1), resulting in no change in text.
 

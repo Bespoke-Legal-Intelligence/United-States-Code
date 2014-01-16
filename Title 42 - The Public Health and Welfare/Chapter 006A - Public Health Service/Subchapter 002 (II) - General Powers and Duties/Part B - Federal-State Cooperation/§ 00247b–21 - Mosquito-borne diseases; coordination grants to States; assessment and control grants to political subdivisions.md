@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;With respect to mosquito control programs to prevent and control mosquito-borne diseases (referred to in this section as “control programs”), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States for the purpose of—
+&emsp;With respect to mosquito control programs to prevent and control mosquito-borne diseases (referred to in this section as "control programs"), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States for the purpose of—
 
 &emsp;&emsp;(A) coordinating control programs in the State involved; and
 
@@ -120,11 +120,11 @@ A grant may be made under subsection (a) or (b) of this section only if an appli
 
 #### (d) Technical assistance
 
-Amounts appropriated under subsection (f) of this section may be used by the Secretary to provide training and technical assistance with respect to the planning, development, and operation of assessments and plans under subsection (a) of this section and control programs under subsection (b) of this section. The Secretary may provide such technical assistance directly or through awards of grants or contracts to public and private entities.
+Amounts appropriated under subsection (f) of this section may be used by the Secretary toprovide training and technical assistance with respect to the planning, development, and operation of assessments and plans under subsection (a) of this section and control programs under subsection (b) of this section. The Secretary may provide such technical assistance directly or through awards of grants or contracts to public and private entities.
 
 #### (e) Definition of political subdivision
 
-In this section, the term “political subdivision” means the local political jurisdiction immediately below the level of State government, including counties, parishes, and boroughs. If State law recognizes an entity of general government that functions in lieu of, and is not within, a county, parish, or borough, the Secretary may recognize an area under the jurisdiction of such other entities of general government as a political subdivision for purposes of this section.
+In this section, the term "political subdivision" means the local political jurisdiction immediately below the level of State government, including counties, parishes, and boroughs. If State law recognizes an entity of general government that functions in lieu of, and is not within, a county, parish, or borough, the Secretary may recognize an area under the jurisdiction of such other entities of general government as a political subdivision for purposes of this section.
 
 #### (f) Authorization of appropriations
 

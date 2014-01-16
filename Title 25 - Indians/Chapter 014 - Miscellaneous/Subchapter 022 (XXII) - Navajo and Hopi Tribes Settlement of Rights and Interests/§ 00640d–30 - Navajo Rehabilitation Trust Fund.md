@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established in the Treasury of the United States a trust fund to be known as the “Navajo Rehabilitation Trust Fund”, which shall consist of the funds transferred under subsection (b) of this section and of the funds appropriated pursuant to subsection (f) of this section and any interest or investment income accrued on such funds.
+There is hereby established in the Treasury of the United States a trust fund to be known as the "Navajo Rehabilitation Trust Fund", which shall consist of the funds transferred under subsection (b) of this section and of the funds appropriated pursuant to subsection (f) of this section and any interest or investment income accrued on such funds.
 
 #### (b) Deposit of income into Fund
 
@@ -28,7 +28,7 @@ By December 1, 1989, the Secretary of the Interior, with the advice of the Navaj
 
 #### (f) Termination of Trust Fund
 
-The Navajo Rehabilitation Trust Fund shall terminate when, upon petition by the Navajo Tribe, the Secretary determines that the goals of the Trust Fund have been met and the United States has been reimbursed for funds appropriated under subsection (f) of this section. Allfunds in the Trust Fund on such date shall be transferred to the general trust funds of the Navajo Tribe.
+The Navajo Rehabilitation Trust Fund shall terminate when, upon petition by the Navajo Tribe, the Secretary determines that the goals of the Trust Fund have been met and the United States has been reimbursed for funds appropriated under subsection (f) of this section. All funds in the Trust Fund on such date shall be transferred to the general trust funds of the Navajo Tribe.
 
 #### (g) Authorization of appropriations; reimbursement of General Fund
 
@@ -44,9 +44,9 @@ Another section 32 of Pub. L. 93–531 was enacted by Pub. L. 100–696, title I
 
 <b>1989</b>—Subsecs. (e) to (g). Pub. L. 101–121 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “decision”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "decision".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “provisions”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "provisions".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “not to”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "not to".</i>
 

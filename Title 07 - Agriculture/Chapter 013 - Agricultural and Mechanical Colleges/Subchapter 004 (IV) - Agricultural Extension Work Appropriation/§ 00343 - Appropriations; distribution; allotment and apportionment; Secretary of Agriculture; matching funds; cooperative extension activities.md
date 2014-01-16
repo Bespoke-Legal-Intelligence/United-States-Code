@@ -4,7 +4,7 @@
 
 (b)(1) Out of such sums, each State and the Secretary of Agriculture shall be entitled to receive annually a sum of money equal to the sums available from Federal cooperative extension funds for the fiscal year 1962, and subject to the same requirements as to furnishing of equivalent sums by the State, except that amounts heretofore made available to the Secretary for allotment on the basis of special needs shall continue available for use on the same basis.
 
-(2) There is authorized to be appropriated for the fiscal year ending June 30, 1971, and for each fiscal year thereafter, for payment to the Virgin Islands, Guam, and the Northern Mariana Islands, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to this subchapter, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of this subchapter.
+(2) There is authorized to be appropriated for the fiscal year ending June 30, 1971, and for each fiscal year thereafter, for payment to the VirginIslands, Guam, and the Northern Mariana Islands, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to this subchapter, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of this subchapter.
 
 (3) There are authorized to be appropriated for the fiscal year ending June 30, 1996, and for each fiscal year thereafter, for payment on behalf of the 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994), such sums as are necessary for the purposes set forth in section 342 of this title. The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation. Such sums shall be in addition to the sums appropriated for the several States and Puerto Rico, the Virgin Islands, and Guam under the provisions of this section. Such sums shall be distributed on the basis of a competitive application process to be developed and implemented by the Secretary and paid by the Secretary to 1994 Institutions (in accordance with regulations that the Secretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State.
 
@@ -26,7 +26,7 @@ Administration.—Amounts made available under this paragraph shall be—
 
 &emsp;&emsp;(i) distributed on the basis of a competitive application process to be developed and implemented by the Secretary;
 
-&emsp;&emsp;(ii) paid by the Secretary to the State institutions established in accordance with the Act of July 2, 1862 (commonly known as the “First Morrill Act”) (7 U.S.C. 301 et seq.); and
+&emsp;&emsp;(ii) paid by the Secretary to the State institutions established in accordance with the Act of July 2, 1862 (commonly known as the "First Morrill Act") (7 U.S.C. 301 et seq.); and
 
 &emsp;&emsp;(iii) administered by State institutions through cooperative agreements with the Hispanic-serving agricultural colleges and universities in the State in accordance with regulations promulgated by the Secretary.
 
@@ -64,7 +64,7 @@ In general.—The Secretary of Agriculture shall reapportion amounts withheld un
 
 &emsp;&emsp;(B)
 
-Matching requirement.—Any reapportionment of funds under this paragraph shall be subject to the matching requirement specified in paragraph (1).
+Matching requirement.—Any reapportionment of funds under this paragraph shallbe subject to the matching requirement specified in paragraph (1).
 
 &emsp;(4)
 
@@ -94,7 +94,7 @@ Multistate Cooperative Extension Activities.—
 
 &emsp;(1)
 
-In general.—Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) of this section during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as “multistate activities”).
+In general.—Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) of this section during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as "multistate activities").
 
 &emsp;(2)
 
@@ -152,7 +152,7 @@ Integration of Research and Extension.—Section 361c(i) of this title shall app
 
 Section 532 of the Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (b)(3), is section 532 of Pub. L. 103–382, which is set out as a note under section 301 of this title.
 
-The Act of July 2, 1862, referred to in subsec. (b)(4)(C)(ii), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+The Act of July 2, 1862, referred to in subsec. (b)(4)(C)(ii), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 #### Codification
 
@@ -162,51 +162,51 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (b)(4). Pub. L. 110–246, §7129(b)(1), added par. (4).
 
-Subsec. (d). Pub. L. 110–246, §7403(a), substituted “compete for and receive funds directly from the Secretary of Agriculture.” for “apply for and receive directly from the Secretary of Agriculture—
+Subsec. (d). Pub. L. 110–246, §7403(a), substituted "compete for and receive funds directly from the Secretary of Agriculture." for "apply for and receive directly from the Secretary of Agriculture—
 
-&emsp;“(1) amounts made available under this subsection after September 30, 1995, to carry out programs or initiatives for which no funds were made available under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary; and
+&emsp;"(1) amounts made available under this subsection after September 30, 1995, to carry out programs or initiatives for which no funds were made available under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary; and
 
-&emsp;“(2) amounts made available after September 30, 1995, to carry out programs or initiatives funded under this subsection prior to that date that are in excess of the highest amount made available for the programs or initiatives under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary.”
+&emsp;"(2) amounts made available after September 30, 1995, to carry out programs or initiatives funded under this subsection prior to that date that are in excess of the highest amount made available for the programs or initiatives under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary."
 
-Subsec. (f). Pub. L. 110–246, §7129(b)(2), in heading, inserted “<i>and Hispanic-Serving Agricultural Colleges and Universities</i>” after “1994
+Subsec. (f). Pub. L. 110–246, §7129(b)(2), in heading, inserted "<i>and Hispanic-Serving Agricultural Colleges and Universities</i>" after "1994
 
-Institutions” and, in text, substituted “or Hispanic-serving agricultural colleges and universities in accordance with paragraphs (3) and (4) of subsection (b)” for “pursuant to subsection (b)(3) of this section”.
+Institutions" and, in text, substituted "or Hispanic-serving agricultural colleges and universities in accordance with paragraphs (3) and (4) of subsection (b)" for "pursuant to subsection (b)(3) of this section".
 
-<b>2002</b>—Subsec. (b)(3). Pub. L. 107–171, §7215, substituted “such sums as are necessary” for “$5,000,000” and inserted “The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation.” after “section 342 of this title.”.
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–171, §7215, substituted "such sums as are necessary" for "$5,000,000" and inserted "The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation." after "section 342 of this title.".
 
-Subsec. (e)(4). Pub. L. 107–171, §7213(b), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title.”
+Subsec. (e)(4). Pub. L. 107–171, §7213(b), added par. (4) and struck out heading and text of former par. (4). Text read as follows: "In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title."
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–185, §203(c)(2)(A), substituted “Secretary of Agriculture” for “Federal Extension Service”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–185, §203(c)(2)(A), substituted "Secretary of Agriculture" for "Federal Extension Service".
 
-Subsec. (b)(3). Pub. L. 105–185, §201, substituted “1994 Institutions (in accordance with regulations that the Secretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State.” for “State institutions established in accordance with the provisions of subchapter I of this chapter (other than 1994 Institutions) and administered by such institutions through cooperative agreements with 1994 Institutions in the States of the 1994 Institutions in accordance with regulations that the Secretary shall adopt.”
+Subsec. (b)(3). Pub. L. 105–185, §201, substituted "1994 Institutions (in accordance with regulations that the Secretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State." for "State institutions established in accordance with the provisions of subchapter I of this chapter (other than 1994 Institutions) and administered by such institutions through cooperative agreements with 1994 Institutions in the States of the 1994 Institutions in accordance with regulations that the Secretary shall adopt."
 
-Subsec. (c)(1). Pub. L. 105–185, §203(b)(1)(A), (c)(2)(A), redesignated par. 1 as (1) and substituted “Secretary of Agriculture” for “Federal Extension Service”.
+Subsec. (c)(1). Pub. L. 105–185, §203(b)(1)(A), (c)(2)(A), redesignated par. 1 as (1) and substituted "Secretary of Agriculture" for "Federal Extension Service".
 
-Subsec. (c)(2). Pub. L. 105–185, §203(b)(1), redesignated par. 2 as (2) and substituted “census. Any” for “census: <i>Provided</i>, That payments out of the additional appropriations for further development of extension work authorized herein may be made subject to the making available of such sums of public funds by the States from non-Federal funds for the maintenance of cooperative agricultural extension work provided for in this subchapter, as may be provided by the Congress at the time such additional appropriations are made: <i>Provided further</i>, That any”.
+Subsec. (c)(2). Pub. L. 105–185, §203(b)(1), redesignated par. 2 as (2) and substituted "census. Any" for "census: <i>Provided</i>, That payments out of the additional appropriations for further development of extension work authorized herein may be made subject to the making available of such sums of public funds by the States from non-Federal funds for the maintenance of cooperative agricultural extension work provided for in this subchapter, as may be provided by the Congress at the time such additional appropriations are made: <i>Provided further</i>, That any".
 
-Subsec. (d). Pub. L. 105–185, §203(c)(2)(A), substituted “Secretary of Agriculture” for “Federal Extension Service”.
+Subsec. (d). Pub. L. 105–185, §203(c)(2)(A), substituted "Secretary of Agriculture" for "Federal Extension Service".
 
-Subsec. (e). Pub. L. 105–185, §203(b)(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “Insofar as the provisions of subsections (b) and (c) of this section, which require or permit Congress to require matching of Federal funds, apply to the Virgin Islands of the United States and Guam, such provisions shall be deemed to have been satisfied, for the fiscal years ending September 30, 1978, and September 30, 1979, only, if the amounts budgeted and available for expenditure by the Virgin Islands of the United States and Guam in such years equal the amounts budgeted and available for expenditure by the Virgin Islands of the United States and Guam in the fiscal year ending September 30, 1977.”
+Subsec. (e). Pub. L. 105–185, §203(b)(2), added subsec. (e) and struck out former subsec. (e) which read as follows: "Insofar as the provisions of subsections (b) and (c) of this section, which require or permit Congress to require matching of Federal funds, apply to the Virgin Islands of the United States and Guam, such provisions shall be deemed to have been satisfied, for the fiscal years ending September 30, 1978, and September 30, 1979, only, if the amounts budgeted and available for expenditure by the Virgin Islands of the United States and Guam in such years equal the amounts budgeted and available for expenditure by the Virgin Islands of the United States and Guam in the fiscal year ending September 30, 1977."
 
-Subsec. (e)(1). Pub. L. 105–277, §101(a) \[title VII, §753(e)(1)\], inserted “paragraph (4) and” after “provided in”.
+Subsec. (e)(1). Pub. L. 105–277, §101(a) \[title VII, §753(e)(1)\], inserted "paragraph (4) and" after "provided in".
 
 Subsec. (e)(4). Pub. L. 105–277, §101(a) \[title VII, §753(e)(2)\], added par. (4).
 
-Subsec. (f). Pub. L. 105–185, §203(b)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “There shall be no matching requirement for funds made available pursuant to subsection (b)(3) of this section.”
+Subsec. (f). Pub. L. 105–185, §203(b)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: "There shall be no matching requirement for funds made available pursuant to subsection (b)(3) of this section."
 
-Subsec. (g)(1). Pub. L. 105–185, §203(c)(2)(B), struck out “through the Federal Extension Service” after “distribution programs”.
+Subsec. (g)(1). Pub. L. 105–185, §203(c)(2)(B), struck out "through the Federal Extension Service" after "distribution programs".
 
 Subsecs. (h), (i). Pub. L. 105–185, §105, added subsecs. (h) and (i).
 
 Subsec. (j). Pub. L. 105–185, §204(b), added subsec. (j).
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–127 inserted at end “A college or university eligible to receive funds under subchapter II of this chapter, including Tuskegee University, may apply for and receive directly from the Secretary of Agriculture—” and added pars. (1) and (2).
+<b>1996</b>—Subsec. (d). Pub. L. 104–127 inserted at end "A college or university eligible to receive funds under subchapter II of this chapter, including Tuskegee University, may apply for and receive directly from the Secretary of Agriculture—" and added pars. (1) and (2).
 
 <b>1994</b>—Subsec. (b)(3). Pub. L. 103–382, §534(b)(1), added par. (3).
 
 Subsecs. (f), (g). Pub. L. 103–382, §534(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-<b>1986</b>—Subsec. (b)(2). Pub. L. 99–396 substituted “Guam, and the Northern Mariana Islands” for “and Guam” in provision authorizing an appropriation each fiscal year for the payment of $100,000 in addition to the sums appropriated for the States and Puerto Rico.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–396 substituted "Guam, and the Northern Mariana Islands" for "and Guam" in provision authorizing an appropriation each fiscal year for the payment of $100,000 in addition to the sums appropriated for the States and Puerto Rico.
 
 <b>1985</b>—Subsec. (f). Pub. L. 99–198 added subsec. (f).
 
@@ -214,13 +214,13 @@ Subsecs. (f), (g). Pub. L. 103–382, §534(2), (3), added subsec. (f) and redes
 
 <b>1972</b>—Subsec. (b). Pub. L. 92–318 designated existing provisions as par. (1) and added par. (2).
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–749, §1(b), substituted “sums available” for “sums received”, and “1962” for “1953”, and struck out “, Alaska, Hawaii, Puerto Rico,” before “and the Federal Extension Service”, “such sums shall be” before “subject to the same requirement”, “, Alaska, Hawaii, and Puerto Rico as existed immediately prior to June 26, 1953” before “except that amounts heretofore”, and proviso which authorized Puerto Rico to receive the total initial amount set by Act Oct. 26, 1949, which amount was to be increased yearly until the total sum equalled the maximum amount set by such Act, and to receive such amount annually thereafter.
+<b>1962</b>—Subsec. (b). Pub. L. 87–749, §1(b), substituted "sums available" for "sums received", and "1962" for "1953", and struck out ", Alaska, Hawaii, Puerto Rico," before "and the Federal Extension Service", "such sums shall be" before "subject to the same requirement", ", Alaska, Hawaii, and Puerto Rico as existed immediately prior to June 26, 1953" before "except that amounts heretofore", and proviso which authorized Puerto Rico to receive the total initial amount set by Act Oct. 26, 1949, which amount was to be increased yearly until the total sum equalled the maximum amount set by such Act, and to receive such amount annually thereafter.
 
 Subsec. (c)1. Pub. L. 87–749, §1(c), provided that the allotment shall be to the Federal Extension Service for various services and for coordinating the extension work of the Department, States, Territories and Possessions, and struck out provisions which required the Secretary to allot the funds among the States, Alaska, Hawaii, and Puerto Rico according to special needs.
 
-Subsec. (c)2. Pub. L. 87–749, §1(d), substituted provisions authorizing 20 per centum of the remainder of the appropriated funds to be paid to the States in equal proportions, 40 per centum of such funds to be paid to the States in the proportion that the rural population of each bears to the total rural population of the States, and the balance to be paid the States in the proportion that the farm population of each bears to the total farm population of the States, for provisions paying 50 per centum of the remaining sum to the States, Alaska, Hawaii and Puerto Rico in the proportion that the rural population of each had to the total rural population of all, and the balance in the proportion that the farm population of each had to the farm population of all, and struck out “, Alaska, Hawaii, and Puerto Rico” from first proviso.
+Subsec. (c)2. Pub. L. 87–749, §1(d), substituted provisions authorizing 20 per centum of the remainder of the appropriated funds to be paid to the States in equal proportions, 40 per centum of such funds to be paid to the States in the proportion that the rural population of each bears to the total rural population of the States, and the balance to be paid the States in the proportion that the farm population of each bears to the total farm population of the States, for provisions paying 50 per centum of the remaining sum to the States, Alaska, Hawaii and Puerto Rico in the proportion that the rural population of each had to the totalrural population of all, and the balance in the proportion that the farm population of each had to the farm population of all, and struck out ", Alaska, Hawaii, and Puerto Rico" from first proviso.
 
-Subsec. (d). Pub. L. 87–749, §1(e), inserted “additional” after “receive such”.
+Subsec. (d). Pub. L. 87–749, §1(e), inserted "additional" after "receive such".
 
 <b>1953</b>—Act June 26, 1953, amended section generally, and, among other changes: (1) divided section into subsections; (2) substituted general authorization for appropriations for former authorization for specific annual appropriations; (3) inserted references to Alaska, Hawaii, and Puerto Rico; and (4) substituted provisions relating to allotment and apportionment of appropriations for former provisions for such apportionment on basis of rural population, and farm population, as determined by latest census.
 
@@ -230,11 +230,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. A, §101(a) \[title VII, §753(f)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33, provided that: “The amendments made by this section \[amending this section, sections 361c, 2204f, 4606, and 7621 of this title, and section 1642 of Title 16, Conservation\] shall take effect on the date of enactment of the Agricultural Research, Extension, and Education Reform Act of 1998 \[June 23, 1998\].”
+Pub. L. 105–277, div. A, §101(a) \[title VII, §753(f)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33, provided that: "The amendments made by this section \[amending this section, sections 361c, 2204f, 4606, and 7621 of this title, and section 1642 of Title 16, Conservation\] shall take effect on the date of enactment of the Agricultural Research, Extension, and Education Reform Act of 1998 \[June 23, 1998\]."
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–198, title XIV, §1435(d), Dec. 23, 1985, 99 Stat. 1558, provided that: “This section and the amendments made by this section \[amending this section and section 342 of this title\] shall become effective on October 1, 1985.”
+Pub. L. 99–198, title XIV, §1435(d), Dec. 23, 1985, 99 Stat. 1558, provided that: "This section and the amendments made by this section \[amending this section and section 342 of this title\] shall become effective on October 1, 1985."
 
 #### Effective Date of 1977 Amendment
 

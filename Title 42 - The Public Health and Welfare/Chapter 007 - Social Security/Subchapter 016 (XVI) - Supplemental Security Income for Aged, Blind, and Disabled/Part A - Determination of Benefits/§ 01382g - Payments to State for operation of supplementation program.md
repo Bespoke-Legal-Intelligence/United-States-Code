@@ -16,7 +16,7 @@ In order for any State which makes supplementary payments of the type described 
 
 #### (b) Levels of supplementary payments
 
-(1) The Commissioner of Social Security shall not find that a State has failed to meet the requirements imposed by paragraph (4) of subsection (a) of this section with respect to the levels of its supplementary payments for a particular month or months if the State's expenditures for such payments in the twelve-month period (within which such month or months fall) beginning on the effective date of any increase in the level of supplemental security income benefits pursuant to section 1382f of this title are not less than its expenditures for such payments in the preceding twelve-month period.
+(1) The Commissioner of Social Security shall not find that a State has failed to meet the requirements imposed by paragraph (4) of subsection (a) of this section with respect to the levels of its supplementary payments for a particular month or months if the State's expenditures for such payments in the twelve-month period (within which such month or months fall)beginning on the effective date of any increase in the level of supplemental security income benefits pursuant to section 1382f of this title are not less than its expenditures for such payments in the preceding twelve-month period.
 
 (2) For purposes of determining under paragraph (1) whether a State's expenditures for supplementary payments in the 12-month period beginning on the effective date of any increase in the level of supplemental security income benefits are not less than the State's expenditures for such payments in the preceding 12-month period, the Commissioner of Social Security, in computing the State's expenditures, shall disregard, pursuant to a 1-time election of the State, all expenditures by the State for retroactive supplementary payments that are required to be made in connection with the retroactive supplemental security income benefits referred to in section 5041 of the Omnibus Budget Reconciliation Act of 1990.
 
@@ -76,17 +76,17 @@ Sections 211(a)(1)(A) and 212(a) of Public Law 93–66, referred to in subsecs. 
 
 Section 5041 of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (b)(2), is section 5041 of Pub. L. 101–508, title V, Nov. 5, 1990, 104 Stat. 1388–227, which is not classified to the Code.
 
-Section 111 of the Social Security Amendments of 1983, referred to in subsec. (e)(2), is section 111 of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 72, which amended sections 402, 403, 415, and 430 of this title and enacted provisions set out as notes under sections 402 and 415 of this title and section 5123 of Title 38, Veterans’ Benefits.
+Section 111 of the Social Security Amendments of 1983, referred to in subsec. (e)(2), is section 111 of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 72, which amended sections 402, 403, 415, and 430 of this title and enacted provisions set out as notes under sections 402 and 415 of this title and section 5123 of Title 38, Veterans' Benefits.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §107(a)(4), substituted "Commissioner of Social Security" for "Secretary".
 
 Subsec. (b). Pub. L. 103–296, §209(a), designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 103–296, §107(a)(4), in subsec. (b) as amended by Pub. L. 103–296, §209(a), substituted “Commissioner of Social Security” for “Secretary” in two places.
+Pub. L. 103–296, §107(a)(4), in subsec. (b) as amended by Pub. L. 103–296, §209(a), substituted "Commissioner of Social Security" for "Secretary" in two places.
 
-Subsecs. (d), (f), (g). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
+Subsecs. (d), (f), (g). Pub. L. 103–296, §107(a)(4), substituted "Commissioner of Social Security" for "Secretary".
 
 <b>1987</b>—Subsec. (g). Pub. L. 100–203 added subsec. (g).
 
@@ -94,7 +94,7 @@ Subsecs. (d), (f), (g). Pub. L. 103–296, §107(a)(4), substituted “Commissio
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–369, §2663(g)(9)(A), realigned margin of subsec. (d).
 
-Pub. L. 98–369, §2663(g)(9)(B), (C), struck out the comma after “levels of its”, and inserted a comma after “1980” and after “1976”, wherever appearing.
+Pub. L. 98–369, §2663(g)(9)(B), (C), struck out the comma after "levels of its", and inserted a comma after "1980" and after "1976", wherever appearing.
 
 <b>1983</b>—Subsecs. (c), (d). Pub. L. 98–21 redesignated subsec. (c), added by Pub. L. 97–377, as (d).
 
@@ -108,7 +108,7 @@ Pub. L. 97–248 added subsec. (c) relating to conditions under which a State ma
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Pub. L. 103–296, title II, §209(b), Aug. 15, 1994, 108 Stat. 1517, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to increases in the level of supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] whether occurring before, on, or after the date of the enactment of this Act \[Aug. 15, 1994\].”
+Pub. L. 103–296, title II, §209(b), Aug. 15, 1994, 108 Stat. 1517, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to increases in the level of supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] whether occurring before, on, or after the date of the enactment of this Act \[Aug. 15, 1994\]."
 
 #### Effective Date of 1987 Amendment
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date
 
-Pub. L. 94–585, §2(c), Oct. 21, 1976, 90 Stat. 2902, provided that: “The provisions of this section \[enacting this section and provisions set out as a note under section 1382e of this title\] shall be effective with respect to benefits payable for months after June 1977.”
+Pub. L. 94–585, §2(c), Oct. 21, 1976, 90 Stat. 2902, provided that: "The provisions of this section \[enacting this section and provisions set out as a note under section 1382e of this title\] shall be effective with respect to benefits payable for months after June 1977."
 
 #### Application to Northern Mariana Islands
 

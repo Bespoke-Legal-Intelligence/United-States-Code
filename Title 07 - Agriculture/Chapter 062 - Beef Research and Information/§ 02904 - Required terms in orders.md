@@ -84,5 +84,5 @@ An order issued under section 2903(b) of this title shall contain the following 
 
 Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub. L. 99–198, set out as a note under section 2901 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “from” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "from" probably should not appear.</i>
 

@@ -10,11 +10,11 @@ It is the purpose of this section to encourage the formation and effective opera
 
 (2) For the purpose of this section—
 
-&emsp;(A) the term “State housing finance or State development agency” means any public body or agency, publicly sponsored corporation, or instrumentality of one or more States which is designated by the Governor (or Governors in the case of an interstate development agency) for purposes of this section;
+&emsp;(A) the term "State housing finance or State development agency" means any public body or agency, publicly sponsored corporation, or instrumentality of one or more States which is designated by the Governor (or Governors in the case of an interstate development agency) for purposes of this section;
 
-&emsp;(B) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States; and
+&emsp;(B) the term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States; and
 
-&emsp;(C) the term “Secretary” means the Secretary of Housing and Urban Development.
+&emsp;(C) the term "Secretary" means the Secretary of Housing and Urban Development.
 
 #### (c) Guarantee of obligations issued by agencies; grants to agencies for interest payments on obligations; maximum amount of grants; prerequisites for guarantee; full faith and credit pledged for payment of guarantee; effect and validity of guarantee; fees and charges for guarantee; authorization of appropriations for grants; maximum amount of obligations guaranteed
 
@@ -44,7 +44,7 @@ The Secretary shall take such steps as he considers reasonable to assure that bo
 
 #### (e) Revolving fund for payment of liabilities incurred pursuant to guarantees and payment of obligations issued to Secretary of the Treasury; composition; availability, issuance of obligations to Secretary of the Treasury for implementation of guarantees; amount, maturity, rate of interest, and purchase by Secretary of the Treasury of obligations; payment of expenses and charges
 
-(1) The Secretary is authorized to establish a revolving fund to provide for the timely payment of any liabilities incurred as a result of guarantees under subsection (c) of this section and for the payment of obligations issued to the Secretary of the Treasury under paragraph (2) of this subsection. Such revolving fund shall be comprised of (A) receipts from fees and charges; (B) recoveries under security, subrogation, and other rights; (C) repayments, interest income, and any other receipts obtained in connection with guarantees made under subsection (c) of this section; (D) proceeds of the obligations issued to the Secretary of the Treasury pursuant to paragraph (2) of this subsection; and (E) suchsums, which are hereby authorized to be appropriated, as may be required for such purposes. Money in the revolving fund not currently needed for the purpose of this section shall be kept on hand or on deposit, or invested in obligations of the United States or guaranteed thereby, or in obligations, participations, or other instruments which are lawful investments for fiduciary, trust, or public funds.
+(1) The Secretary is authorized to establish a revolving fund to provide for the timely payment of any liabilities incurred as a result of guarantees under subsection (c) of this section and for the payment of obligations issued to the Secretary of the Treasury under paragraph (2) of this subsection. Such revolving fund shall be comprised of (A) receipts from fees and charges; (B) recoveries under security, subrogation, and other rights; (C) repayments, interest income, and any other receipts obtained in connection with guarantees made under subsection (c) of this section; (D) proceeds of the obligations issued to the Secretary of the Treasury pursuant to paragraph (2) of this subsection; and (E) such sums, which are hereby authorized to be appropriated, as may be required for such purposes. Money in the revolving fund not currently needed for the purpose of this section shall be kept on hand or on deposit, or invested in obligations of the United States or guaranteed thereby, or in obligations, participations, or other instruments which are lawful investments for fiduciary, trust, or public funds.
 
 (2) The Secretary may issue obligations to the Secretary of the Treasury in an amount sufficient to enable the Secretary to carry out his functions with respect to the guarantees authorized by subsection (c) of this section. The obligations issued under this paragraph shall have such maturities and bear such rate or rates of interest as shall be determined by the Secretary of the Treasury. The Secretary of the Treasury is authorized and directed to purchase any obligations so issued, and for that purpose he is authorized to use a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include purchases of the obligations hereunder.
 
@@ -78,13 +78,13 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (g), is Reorg. P
 
 #### Codification
 
-In subsec. (g), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June13, 1934 (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)" and "section 3145 of title 40" substituted for "section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Section was enacted as part of the Housing and Community Development Act of 1974, and not as part of the United States Housing Act of 1937 which comprises this chapter.
 
 #### Amendments
 
-<b>1984</b>—Subsec. (e)(2). Pub. L. 98–479 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act” and “such chapter” for “that Act”.
+<b>1984</b>—Subsec. (e)(2). Pub. L. 98–479 substituted "chapter 31 of title 31" for "the Second Liberty Bond Act" and "such chapter" for "that Act".
 
 &nbsp;
 

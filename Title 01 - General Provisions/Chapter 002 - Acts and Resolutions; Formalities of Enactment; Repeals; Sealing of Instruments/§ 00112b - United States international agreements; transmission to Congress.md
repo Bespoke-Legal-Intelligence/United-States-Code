@@ -18,7 +18,7 @@
 
 (2)(A) An arrangement shall constitute an international agreement within the meaning of this section (other than subsection (c)) irrespective of the duration of activities under the arrangement or the arrangement itself.
 
-(B) Arrangements that constitute an international agreement within the meaning of thissection (other than subsection (c)) include the following:
+(B) Arrangements that constitute an international agreement within the meaning of this section (other than subsection (c)) include the following:
 
 &emsp;(i) A bilateral or multilateral counterterrorism agreement.
 

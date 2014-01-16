@@ -20,15 +20,15 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–459, in first sentence, substituted “$175,000,000 for section 1592(a) of this title” for “$75,000,000 for subsection 1592(a) of this title” and “paragraph (6) of section 1592(a) of this title” for “paragraph 1592(a)(6) of this title” and, in second sentence, substituted “section 1592(a)(6) of this title” for “paragraph 1592(a)(6) of this title”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–459, in first sentence, substituted "$175,000,000 for section 1592(a) of this title" for "$75,000,000 for subsection 1592(a) of this title" and "paragraph (6) of section 1592(a) of this title" for "paragraph 1592(a)(6) of this title" and, in second sentence, substituted "section 1592(a)(6) of this title" for "paragraph 1592(a)(6) of this title".
 
 <b>1995</b>—Subsec. (c). Pub. L. 104–20 added subsec. (c).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–569, §5(a), struck out “and not then if disapproved by said committees” before “, except that funds may be expended”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–569, §5(a), struck out "and not then if disapproved by said committees" before ", except that funds may be expended".
 
-Subsec. (b). Pub. L. 98–569, §5(b)(1), inserted “(a) or (b)” after “1592”.
+Subsec. (b). Pub. L. 98–569, §5(b)(1), inserted "(a) or (b)" after "1592".
 
-Pub. L. 98–569, §5(b)(2), inserted “The funds authorized to be appropriated by this section may be used for construction of any or all of the works or portions thereof and for other purposes authorized in subsection (a) of this section, including measures as provided for in subsection (b) of section 1592 of this title.”
+Pub. L. 98–569, §5(b)(2), inserted "The funds authorized to be appropriated by this section may be used for construction of any or all of the works or portions thereof and for other purposes authorized in subsection (a) of this section, including measures as provided for in subsection (b) of section 1592 of this title."
 
 #### Effective Date of 1984 Amendment
 

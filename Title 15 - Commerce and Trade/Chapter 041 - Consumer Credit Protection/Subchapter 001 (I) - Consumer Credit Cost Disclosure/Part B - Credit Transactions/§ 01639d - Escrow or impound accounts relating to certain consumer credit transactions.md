@@ -104,11 +104,11 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Flood insurance
 
-&emsp;The term “flood insurance” means flood insurance coverage provided under the national flood insurance program pursuant to the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\].
+&emsp;The term "flood insurance" means flood insurance coverage provided under the national flood insurance program pursuant to the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\].
 
 #### (2) Hazard insurance
 
-&emsp;The term “hazard insurance” shall have the same meaning as provided for “hazard insurance”, “casualty insurance”, “homeowner's insurance”, or other similar term under the law of the State where the real property securing the consumer credit transaction is located.
+&emsp;The term "hazard insurance" shall have the same meaning as provided for "hazard insurance", "casualty insurance", "homeowner's insurance", or other similar term under the law of the State where the real property securing the consumer credit transaction is located.
 
 #### (j) Disclosure notice required for consumers who waive escrow services
 
@@ -138,7 +138,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-This part, referred to in subsec. (c)(4), was in the original “this subtitle”, and was translated as reading “this chapter”, meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
+This part, referred to in subsec. (c)(4), was in the original "this subtitle", and was translated as reading "this chapter", meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
 
 The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (g)(2)(A), (4), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
@@ -148,7 +148,7 @@ The National Flood Insurance Act of 1968, referred to in subsec. (i)(1), is titl
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board" wherever appearing.
 
 Subsec. (j). Pub. L. 111–203, §1462, added subsec. (j).
 
@@ -156,7 +156,7 @@ Subsec. (j). Pub. L. 111–203, §1462, added subsec. (j).
 
 Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-Amendment by section 1462 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if suchregulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
+Amendment by section 1462 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 
 #### Effective Date
 
@@ -164,5 +164,5 @@ Section effective on the date on which final regulations implementing such secti
 
 #### Exemptions and Modifications
 
-Pub. L. 111–203, title XIV, §1461(b), July 21, 2010, 124 Stat. 2181, provided that: “The Board may prescribe rules that revise, add to, or subtract from the criteria of section 129D(b) of the Truth in Lending Act \[15 U.S.C. 1639d(b)\] if the Board determines that such rules are in the interest of consumers and in the public interest.”
+Pub. L. 111–203, title XIV, §1461(b), July 21, 2010, 124 Stat. 2181, provided that: "The Board may prescribe rules that revise, add to, or subtract from the criteria of section 129D(b) of the Truth in Lending Act \[15 U.S.C. 1639d(b)\] if the Board determines that such rules are in the interest of consumers and in the public interest."
 

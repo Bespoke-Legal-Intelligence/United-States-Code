@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment.—(1) There is a Vice Chairman of the Joint Chiefs of Staff, appointed by the President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces.
+Appointment.—(1) There is a Vice Chairman of the Joint Chiefs of Staff, appointed bythe President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces.
 
 (2) The Chairman and Vice Chairman may not be members of the same armed force. However, the President may waive the restriction in the preceding sentence for a limited period of time in order to provide for the orderly transition of officers appointed to serve in the positions of Chairman and Vice Chairman.
 
@@ -38,13 +38,13 @@ Grade and Rank.—The Vice Chairman, while so serving, holds the grade of genera
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–484, §911(b)(1)(A), substituted “the duties prescribed for him as a member of the Joint Chiefs of Staff and such other” for “such”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–484, §911(b)(1)(A), substituted "the duties prescribed for him as a member of the Joint Chiefs of Staff and such other" for "such".
 
-Subsecs. (f), (g). Pub. L. 102–484, §911(b)(1)(B), (C), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “
+Subsecs. (f), (g). Pub. L. 102–484, §911(b)(1)(B), (C), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "
 
-Participation in JCS Meetings.—The Vice Chairman may participate in all meetings of the Joint Chiefs of Staff, but may not vote on a matter before the Joint Chiefs of Staff except when acting as Chairman.”
+Participation in JCS Meetings.—The Vice Chairman may participate in all meetings of the Joint Chiefs of Staff, but may not vote on a matter before the Joint Chiefs of Staff except when acting as Chairman."
 
-<b>1988</b>—Subsec. (b)(1)(B). Pub. L. 100–456 substituted “completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “served in at least one joint duty assignment (as defined under section 668(b) of this title)”.
+<b>1988</b>—Subsec. (b)(1)(B). Pub. L. 100–456 substituted "completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)" for "served in at least one joint duty assignment (as defined under section 668(b) of this title)".
 
 #### Extension of Term of Office of Vice Chairman of Joint Chiefs of Staff
 

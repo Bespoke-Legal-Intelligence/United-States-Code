@@ -12,13 +12,13 @@
 
 #### Amendments
 
-<b>1995</b>—Subsec. (c). Pub. L. 104–67 inserted before period at end “, except that no person may rely upon any conduct that would have been actionable as fraud in the purchase or sale of securities to establish a violation of section 1962. The exception contained in the preceding sentence does not apply to an action against any person that is criminally convicted in connection with the fraud, in which case the statute of limitations shall start to run on the date on which the conviction becomes final”.
+<b>1995</b>—Subsec. (c). Pub. L. 104–67 inserted before period at end ", except that no person may rely upon any conduct that would have been actionable as fraud in the purchase or sale of securities to establish a violation of section 1962. The exception contained in the preceding sentence does not apply to an action against any person that is criminally convicted in connection with the fraud, in which case the statute of limitations shall start to run on the date on which the conviction becomes final".
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–620 struck out provision that in any action brought by the United States under this section, the court had to proceed as soon as practicable to the hearing and determination thereof.
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–67 not to affect or apply to any private action arising under title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) or title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as a note under section 77l of Title 15, Commerce and Trade.
+Amendment by Pub. L. 104–67 not to affect or apply to any private action arising under title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) or title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.),commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as a note under section 77l of Title 15, Commerce and Trade.
 
 #### Effective Date of 1984 Amendment
 

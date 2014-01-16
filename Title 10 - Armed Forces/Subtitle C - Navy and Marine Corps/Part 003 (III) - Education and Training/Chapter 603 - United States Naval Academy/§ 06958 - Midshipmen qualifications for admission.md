@@ -58,23 +58,23 @@ Mar. 4, 1917, ch. 180, 39 Stat. 1182 (1st par.).
 
 Dec. 20, 1917, ch. 5, §1 (less 1st 70 words), 40 Stat. 430; Aug. 13, 1946, ch. 962, §16, 60 Stat. 1061; May 16, 1947, ch. 77, §1(<i>o</i>), 61 Stat. 100.
 
-In subsection (a) the effective date is omitted as executed. The words “at least 17 years of age and must not have passed his twenty-second birthday” are substituted for the words “not less than seventeen years of age and not more than twenty-two years of age” to remove ambiguity, and for uniformity of treatment of provisions of this type. The reference to time of examination is omitted as being included within the Secretary's authority to prescribe regulations, which is stated in the subsection. The words “Academic Board” are substituted for the words “board of examiners”.
+In subsection (a) the effective date is omitted as executed. The words "at least 17 years of age and must not have passed his twenty-second birthday" are substituted for the words "not less than seventeen years of age and not more than twenty-two years of age" to remove ambiguity, and for uniformity of treatment of provisions of this type. The reference to time of examination is omitted as being included within the Secretary's authority to prescribe regulations, which is stated in the subsection. The words "Academic Board" are substituted for the words "board of examiners".
 
-In subsection (b) the words “domiciled in” are substituted for the words “actual resident of” since this term has been so interpreted.
+In subsection (b) the words "domiciled in" are substituted for the words "actual resident of" since this term has been so interpreted.
 
 #### Amendments
 
 <b>1997</b>—Subsec. (d). Pub. L. 105–85 added subsec. (d).
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–201 substituted “twenty-third birthday” for “twenty-second birthday”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–201 substituted "twenty-third birthday" for "twenty-second birthday".
 
 <b>1991</b>—Subsec. (c)(2) to (4). Pub. L. 102–190 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which required candidates to have served at least one year as enlisted members on date of entrance.
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–510 substituted “clauses (3) through (9)” for “clauses (3)–(7), (9) and (10)”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–510 substituted "clauses (3) through (9)" for "clauses (3)–(7), (9) and (10)".
 
-<b>1973</b>—Subsec. (b). Pub. L. 93–171 substituted “, (9) and (10) of section 6954(a)” for “and (9) of section 6954(a)” and struck out “or Territory”.
+<b>1973</b>—Subsec. (b). Pub. L. 93–171 substituted ", (9) and (10) of section 6954(a)" for "and (9) of section 6954(a)" and struck out "or Territory".
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–663 inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “clauses (3)–(7) and (9)” for “clauses (3)–(7)”.
+<b>1962</b>—Subsec. (b). Pub. L. 87–663 inserted references to American Samoa, Guam, and the Virgin Islands, and substituted "clauses (3)–(7) and (9)" for "clauses (3)–(7)".
 
 #### Effective Date of 1973 Amendment
 

@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Pub. L. 104–106, div. E, title LIV, §5403, Feb. 10, 1996, 110 Stat. 698.
 
-The words “Notwithstanding any other provision of this chapter” are omitted as unnecessary.
+The words "Notwithstanding any other provision of this chapter" are omitted as unnecessary.
 
 #### Prior Provisions
 

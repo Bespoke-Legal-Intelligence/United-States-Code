@@ -42,5 +42,5 @@ Upon a request by the Secretary, the Attorney General shall commence a civil act
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(2)(C). Pub. L. 100–350 substituted “section 973c(a)(7) of this title” for “section 973c(b)(7) of this title”.
+<b>1988</b>—Subsec. (a)(2)(C). Pub. L. 100–350 substituted "section 973c(a)(7) of this title" for "section 973c(b)(7) of this title".
 

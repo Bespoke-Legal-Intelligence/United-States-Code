@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(II) to promote efficiency in the use of United States foreign assistance resources, including to avoid impairment of foreign assistance objectives.
 
-(2) For purposes of this subsection, the term “developing countries” shall not include advanced developing countries.
+(2) For purposes of this subsection, the term "developing countries" shall not include advanced developing countries.
 
 #### (b) Purchases in bulk
 
@@ -28,7 +28,7 @@ In providing for the procurement of any agricultural commodity or product thereo
 
 #### (d) Marine insurance
 
-In providing assistance in the procurement of commodities in the United States, United Statesdollars shall be made available for marine insurance on such commodities where such insurance is placed on a competitive basis in accordance with normal trade practice prevailing prior to the outbreak of World War II: <i>Provided</i>, That in the event a participating country, by statute, decree, rule, or regulation, discriminates against any marine insurance company authorized to do business in any State of the United States, then commodities purchased with funds provided hereunder and destined for such country shall be insured in the United States against marine risk with a company or companies authorized to do a marine insurance business in any State of the United States.
+In providing assistance in the procurement of commodities in the United States, United States dollars shall be made available for marine insurance on such commodities where such insurance is placed on a competitive basis in accordance with normal trade practice prevailing prior to the outbreak of World War II: <i>Provided</i>, That in the event a participating country, by statute, decree, rule, or regulation, discriminates against any marine insurance company authorized to do business in any State of the United States, then commodities purchased with funds provided hereunder and destined for such country shall be insured in the United States against marine risk with a company or companies authorized to do a marine insurance business in any State of the United States.
 
 #### (e) Parity for domestic commodities prior to use of funds outside United States
 
@@ -40,7 +40,7 @@ No funds authorized to be made available to carry out subchapter I of this chapt
 
 #### (g) Construction or engineering services; applicability to advanced developing country
 
-(1) None of the funds authorized to be appropriated or made available for obligation or expenditure under this chapter may be made available for the procurement of construction or engineering services from advanced developing countries, eligible under the Geographic Code 941, which have attained a competitive capability in international markets for construction services or engineering services.
+(1) None of the funds authorized to be appropriated or made available for obligation or expenditure under this chapter may be made available for the procurement of construction or engineering services from advanced developingcountries, eligible under the Geographic Code 941, which have attained a competitive capability in international markets for construction services or engineering services.
 
 (2) Paragraph (1) does not apply with respect to an advanced developing country which—
 
@@ -52,7 +52,7 @@ No funds authorized to be made available to carry out subchapter I of this chapt
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (c) and (e) to (g)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (c) and (e) to (g)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Food for Peace Act, as amended, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
@@ -66,9 +66,9 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–391 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Funds made available under this chapter may be used for procurement outside the United States only if the President determines that such procurement will not result in adverse effects upon the economy of the United States or the industrial mobilization base, with special reference to any areas of labor surplus or to the net position of the United States in its balance of payments with the rest of the world, which outweigh the economic or other advantages to the United States of less costly procurement outside the United States, and only if the price of any commodity procured in bulk is lower than the market price prevailing in the United States at the time of procurement, adjusted for differences in the cost of transportation to destination, quality, and terms of payment.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–391 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Funds made available under this chapter may be used for procurement outside the United States only if the President determines that such procurement will not result in adverse effects upon the economy of the United States or the industrial mobilization base, with special reference to any areas of labor surplus or to the net position of the United States in its balance of payments with the rest of the world, which outweigh the economic or other advantages to the United States of less costly procurement outside the United States, and only if the price of any commodity procured in bulk is lower than the market price prevailing in the United States at the time of procurement, adjusted for differences in the cost of transportation to destination, quality, and terms of payment."
 
 <b>1985</b>—Subsec. (g). Pub. L. 99–83 designated existing provisions as par. (1) and added par. (2).
 
@@ -78,7 +78,7 @@ Subsec. (g). Pub. L. 96–533, §705(b), added subsec. (g).
 
 <b>1968</b>—Subsec. (f). Pub. L. 90–554 added subsec. (f).
 
-<b>1966</b>—Subsec. (c). Pub. L. 89–583, §301(b)(1), struck out “surplus” before “agricultural commodity” in three places and inserted “or products thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended,” after “commodity” where first appearing.
+<b>1966</b>—Subsec. (c). Pub. L. 89–583, §301(b)(1), struck out "surplus" before "agricultural commodity" in three places and inserted "or products thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended," after "commodity" where first appearing.
 
 Subsec. (e). Pub. L. 89–583, §301(b)(2), added subsec. (e).
 

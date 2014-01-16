@@ -26,7 +26,7 @@
 
 &emsp;(6) A beneficiary named in the will of the deceased.
 
-(e) If the summary court-martial cannot dispose of the effects under subsection (d) because there are no persons in those categories or because the court finds that the addresses of the persons are not known or readily ascertainable, the court may convert the effects of the deceased, except sabers, insignia, decorations, medals, watches, trinkets, manuscripts, and other articles valuable chiefly as keepsakes, into cash, by public or private sale, but not until 30 days after the date of death of the deceased.
+(e) If the summary court-martial cannot dispose of the effects under subsection (d) because there are no persons in those categories or because the court finds that the addresses of the persons are not known or readily ascertainable, the court may convert the effects of the deceased, except sabers, insignia, decorations,medals, watches, trinkets, manuscripts, and other articles valuable chiefly as keepsakes, into cash, by public or private sale, but not until 30 days after the date of death of the deceased.
 
 (f) As soon as practicable after the effects have been converted into cash under subsection (e), the summary court-martial shall deposit all cash in the court's possession and belonging to the estate with the officer designated in regulations, and shall send a receipt therefor, together with any will or other papers of value, an inventory of the effects, and articles not permitted to be sold, to the executive part of the Department of the Army. The Secretary of the Army shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Army under this subsection.
 
@@ -74,49 +74,49 @@ June 4, 1920, ch. 227, subch. II, §1 (Art. 112), 41 Stat. 809; May 5, 1950, ch.
 
 5:150j (last 40 words of 1st par.).
 
-In subsection (a), the words “the court-martial jurisdiction of the Army or the Air Force at a place or command under the jurisdiction of the Army” are substituted for the words “military law”, to reflect the creation of a separate Air Force. Clause (2) is substituted for 5:150j (last par.).
+In subsection (a), the words "the court-martial jurisdiction of the Army or the Air Force at a place or command under the jurisdiction of the Army" are substituted for the words "military law", to reflect the creation of a separate Air Force. Clause (2) is substituted for 5:150j (last par.).
 
-In subsections (a), (b), and (d), the words “surviving spouse” are substituted for the word “widow”.
+In subsections (a), (b), and (d), the words "surviving spouse" are substituted for the word "widow".
 
-In subsection (c), the word “may” is substituted for the words “shall have authority to”. The words “to the extent permitted” are substituted for the words “in so far as \* \* \* will permit”. The words “under this article” and “upon its transactions” are omitted as surplusage.
+In subsection (c), the word "may" is substituted for the words "shall have authority to". The words "to the extent permitted" are substituted for the words "in so far as \* \* \* will permit". The words "under this article" and "upon its transactions" are omitted as surplusage.
 
-In subsection (d), the words “through the Quartermaster Corps” are omitted, since the functions are no longer lodged in the Quartermaster Corps. The words “if such be found by said court” are omitted as surplusage. The words “United States” are substituted for the word “Government”. 5:150j (19 words before 3d semicolon of 1st par.) is omitted as covered by subsection (g).
+In subsection (d), the words "through the Quartermaster Corps" are omitted, since the functions are no longer lodged in the Quartermaster Corps. The words "if such be found by said court" are omitted as surplusage. The words "United States" are substituted for the word "Government". 5:150j (19 words before 3d semicolon of 1st par.) is omitted as covered by subsection (g).
 
-In subsection (e), the first 37 words are substituted for 5:150j (33 words after 3d semicolon of 1st par.). The word “may” is substituted for the words “shall have the authority”.
+In subsection (e), the first 37 words are substituted for 5:150j (33 words after 3d semicolon of 1st par.). The word "may" is substituted for the words "shall have the authority".
 
-In subsection (f), the words “Soldiers’ Home” are inserted, since, as provided in section 4713 of this title, the Home is now the place where the mentioned articles are sent.
+In subsection (f), the words "Soldiers' Home" are inserted, since, as provided in section 4713 of this title, the Home is now the place where the mentioned articles are sent.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (g). Pub. L. 104–316 struck out subsec. (g) which read as follows: “The summary court-martial shall make a full report of the transactions under this section, with respect to the deceased, to the Department of the Army for transmission to the General Accounting Office for action authorized in the settlement of accounts of deceased members of the Army.”
+<b>1996</b>—Subsec. (g). Pub. L. 104–316 struck out subsec. (g) which read as follows: "The summary court-martial shall make a full report of the transactions under this section, with respect to the deceased, to the Department of the Army for transmission to the General Accounting Office for action authorized in the settlement of accounts of deceased members of the Army."
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–510, §1533(a)(6)(A), substituted “a resident of the Armed Forces Retirement Home” for “an inmate of the United States Soldiers’ and Airmen's Home”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–510, §1533(a)(6)(A), substituted "a resident of the Armed Forces Retirement Home" for "an inmate of the United States Soldiers' and Airmen's Home".
 
-Subsec. (f). Pub. L. 101–510, §1533(a)(6)(B), struck out “for transmission to the United States Soldiers’ and Airmen's Home” after “Department of the Army” and inserted at end “The Secretary of the Army shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Army under this subsection.”
+Subsec. (f). Pub. L. 101–510, §1533(a)(6)(B), struck out "for transmission to the United States Soldiers' and Airmen's Home" after "Department of the Army" and inserted at end "The Secretary of the Army shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Army under this subsection."
 
 <b>1985</b>—Subsec. (d). Pub. L. 99–145 substituted new pars. (1) to (6) for former pars. (1) to (9) which read as follows:
 
-“(1) Surviving spouse or legal representative.
+"(1) Surviving spouse or legal representative.
 
-“(2) Son.
+"(2) Son.
 
-“(3) Daughter.
+"(3) Daughter.
 
-“(4) Father, if he has not abandoned the support of his family.
+"(4) Father, if he has not abandoned the support of his family.
 
-“(5) Mother.
+"(5) Mother.
 
-“(6) Brother.
+"(6) Brother.
 
-“(7) Sister.
+"(7) Sister.
 
-“(8) Next of kin.
+"(8) Next of kin.
 
-“(9) Beneficiary named in the will of the deceased.”
+"(9) Beneficiary named in the will of the deceased."
 
-<b>1980</b>—Subsecs. (a)(2), (f). Pub. L. 96–513 substituted “United States Soldiers’ and Airmen's Home” for “Soldiers’ Home”.
+<b>1980</b>—Subsecs. (a)(2), (f). Pub. L. 96–513 substituted "United States Soldiers' and Airmen's Home" for "Soldiers' Home".
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “military law” for “the court-martial jurisdiction of the Army or the Air Force”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "military law" for "the court-martial jurisdiction of the Army or the Air Force".
 
 #### Effective Date of 1990 Amendment
 

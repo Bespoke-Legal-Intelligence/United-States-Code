@@ -16,7 +16,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(5) in the case of Natives of Alaska, shares of stock held in a Regional or a Village Corporation, during the period of twenty years in which such stock is inalienable, as provided in section 1606(h) and section 1607(c) of title 43;
 
-&emsp;(6) assistance referred to in section 1382a(b)(11) of this title for the 9-month period beginning on the date such funds are received (or for such longer period as the Commissioner of Social Security shall by regulations prescribe in cases where good cause is shown by the individual concerned for extending such period); and, for purposes of this paragraph, the term “assistance” includes interest thereon which is excluded from income under section 1382a(b)(12) of this title;
+&emsp;(6) assistance referred to in section 1382a(b)(11) of this title for the 9-month period beginning on the date such funds are received (or for such longer period as the Commissioner of Social Security shall by regulations prescribe in cases where good cause is shown by the individual concerned for extending such period); and, for purposes of this paragraph, the term "assistance" includes interest thereon which is excluded from income under section 1382a(b)(12) of this title;
 
 &emsp;(7) any amount received from the United States which is attributable to underpayments of benefits due for one or more prior months, under this subchapter or subchapter II of this chapter, to such individual (or spouse) or to any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter; but the application of this paragraph in the case of any such individual (and eligible spouse if any), with respect to any amount so received from the United States, shall be limited to the first 9 months following the month in which such amount is received, and written notice of this limitation shall be given to the recipient concurrently with the payment of such amount;
 
@@ -24,7 +24,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(9) for the 9-month period beginning after the month in which received, any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime, to the extent that such individual (or such spouse) demonstrates that such amount was paid as compensation for expenses incurred or losses suffered as a result of a crime;
 
-&emsp;(10) for the 9-month period beginning after the month in which received, relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[42 U.S.C. 4636\];
+&emsp;(10) for the 9-month period beginning after the month in which received, relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions <sup>1</sup> Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[42 U.S.C. 4636\];
 
 &emsp;(11) for the 9-month period beginning after the month in which received—
 
@@ -70,7 +70,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(I) the total, cumulative uncompensated value of all resources so disposed of by the individual (or the spouse of the individual) on or after the look-back date described in clause (ii)(I); divided by
 
-&emsp;(II) the amount of the maximum monthly benefit payable under section 1382(b) of thistitle, plus the amount (if any) of the maximum State supplementary payment corresponding to the State's payment level applicable to the individual's living arrangement and eligibility category that would otherwise be payable to the individual by the Commissioner pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66, for the month in which occurs the date described in clause (ii)(II),
+&emsp;(II) the amount of the maximum monthly benefit payable under section 1382(b) of this title, plus the amount (if any) of the maximum State supplementary payment corresponding to the State's payment level applicable to the individual's living arrangement and eligibility category that would otherwise be payable to the individual by the Commissioner pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66, for the month in which occurs the date described in clause (ii)(II),
 
 > rounded, in the case of any fraction, to the nearest whole number, but shall not in any case exceed 36 months.
 
@@ -122,11 +122,11 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (F) For purposes of this paragraph—
 
-&emsp;(i) the term “benefits under this subchapter” includes payments of the type described in section 1382e(a) of this title and of the type described in section 212(b) of Public Law 93–66;
+&emsp;(i) the term "benefits under this subchapter" includes payments of the type described in section 1382e(a) of this title and of the type described in section 212(b) of Public Law 93–66;
 
-&emsp;(ii) the term “institutionalized individual” has the meaning given such term in section 1396p(e)(3) <sup>1</sup> of this title; and
+&emsp;(ii) the term "institutionalized individual" has the meaning given such term in section 1396p(e)(3) <sup>2</sup> of this title; and
 
-&emsp;(iii) the term “trust” has the meaning given such term in subsection (e)(6)(A) of this section.
+&emsp;(iii) the term "trust" has the meaning given such term in subsection (e)(6)(A) of this section.
 
 (2)(A) At the time an individual (and the individual's eligible spouse, if any) applies for benefits under this subchapter, and at the time the eligibility of an individual (and such spouse, if any) for such benefits is redetermined, the Commissioner of Social Security shall—
 
@@ -174,11 +174,11 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (6) For purposes of this subsection—
 
-&emsp;(A) the term “trust” includes any legal instrument or device that is similar to a trust;
+&emsp;(A) the term "trust" includes any legal instrument or device that is similar to a trust;
 
-&emsp;(B) the term “corpus” means, with respect to a trust, all property and other interests held by the trust, including accumulated earnings and any other addition to the trust after its establishment (except that such term does not include any such earnings or addition in the month in which the earnings or addition is credited or otherwise transferred to the trust); and
+&emsp;(B) the term "corpus" means, with respect to a trust, all property and other interests held by the trust, including accumulated earnings and any other addition to the trust after its establishment (except that such term does not include any such earnings or addition in the month in which the earnings or addition is credited or otherwise transferred to the trust); and
 
-&emsp;(C) the term “asset” includes any income or resource of the individual (or of the individual's spouse), including—
+&emsp;(C) the term "asset" includes any income or resource of the individual (or of the individual's spouse), including—
 
 &emsp;&emsp;(i) any income excluded by section 1382a(b) of this title;
 
@@ -200,7 +200,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 #### References in Text
 
-The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970, referred to in subsec. (a)(10), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a)(10), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(11), (13), is classified generally to Title 26, Internal Revenue Code.
 
@@ -208,7 +208,7 @@ Section 203 of the Economic Growth and Tax Relief Reconciliation Act of 2001, re
 
 Section 212(b) of Public Law 93–66, referred to in subsec. (c)(1)(A)(iv)(II), (F)(i), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
-Section 1396p(e)(3) of this title, referred to in subsec. (c)(1)(F)(ii), was redesignated section 1396p(h)(3) of this title by Pub. L. 109–171, title VI, §§6012(a), 6014(a), 6015(b), Feb. 8, 2006, 120 Stat. 62, 64, 65.
+Section 1396p(e)(3) of this title, referred to in subsec. (c)(1)(F)(ii), was redesignated section 1396p(h)(3) of thistitle by Pub. L. 109–171, title VI, §§6012(a), 6014(a), 6015(b), Feb. 8, 2006, 120 Stat. 62, 64, 65.
 
 #### Amendments
 
@@ -216,25 +216,25 @@ Section 1396p(e)(3) of this title, referred to in subsec. (c)(1)(F)(ii), was red
 
 <b>2008</b>—Subsec. (a)(16). Pub. L. 110–245 added par. (16).
 
-<b>2004</b>—Subsec. (a)(7). Pub. L. 108–203, §431(a), substituted “limited to the first 9 months” for “limited to the first 6 months” and struck out “(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)” after “month in which such amount is received”.
+<b>2004</b>—Subsec. (a)(7). Pub. L. 108–203, §431(a), substituted "limited to the first 9 months" for "limited to the first 6 months" and struck out "(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)" after "month in which such amount is received".
 
-Subsec. (a)(11). Pub. L. 108–203, §431(b), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “for the month of receipt and the following month, any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);”.
+Subsec. (a)(11). Pub. L. 108–203, §431(b), amended par. (11) generally. Prior to amendment, par. (11) read as follows: "for the month of receipt and the following month, any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);".
 
 Subsec. (a)(14). Pub. L. 108–203, §101(c)(2), added par. (14).
 
 Subsec. (a)(15). Pub. L. 108–203, §435(b), added par. (15).
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–169, §206(a)(1), struck out “Notification of medicaid policy restricting eligibility of institutionalized individuals for benefits based on” before “Disposal” in subsec. heading.
+<b>1999</b>—Subsec. (c). Pub. L. 106–169, §206(a)(1), struck out "Notification of medicaid policy restricting eligibility of institutionalized individuals for benefits based on" before "Disposal" in subsec. heading.
 
 Subsec. (c)(1). Pub. L. 106–169, §206(a)(5), added par. (1). Former par. (1) redesignated (2)(A).
 
 Subsec. (c)(2)(A). Pub. L. 106–169, §206(a)(4), redesignated par. (1) as (2)(A).
 
-Subsec. (c)(2)(A)(i). Pub. L. 106–169, §206(a)(2)(A), (C), redesignated par. (1)(A) as (2)(A)(i), inserted “paragraph (1) and” after “provisions of”, and substituted “benefits under this subchapter and subchapter XIX of this chapter, respectively,” for “benefits under subchapter XIX of this chapter”, “clause (ii)” for “subparagraph (B)”, and “subparagraph (B)” for “paragraph (2)”.
+Subsec. (c)(2)(A)(i). Pub. L. 106–169, §206(a)(2)(A), (C), redesignated par. (1)(A) as (2)(A)(i), inserted "paragraph (1) and" after "provisions of", and substituted "benefits under this subchapter and subchapter XIX of this chapter, respectively," for "benefits under subchapter XIX of this chapter", "clause (ii)" for "subparagraph (B)", and "subparagraph (B)" for "paragraph (2)".
 
-Subsec. (c)(2)(A)(ii). Pub. L. 106–169, §206(a)(2)(B), (C), redesignated par. (1)(B) as (2)(A)(ii), struck out “by the State agency” after “which may be used”, and substituted “paragraph (1) or section 1396p(c) of this title.” for “section 1396p(c) of this title if such individual (or such spouse, if any) enters a medical institution or nursing facility.”
+Subsec. (c)(2)(A)(ii). Pub. L. 106–169, §206(a)(2)(B), (C), redesignated par. (1)(B) as (2)(A)(ii), struck out "by the State agency" after "which may be used", and substituted "paragraph (1) or section 1396p(c) of this title." for "section 1396p(c) of this title if such individual (or such spouse, if any) enters a medical institution or nursing facility."
 
-Subsec. (c)(2)(B). Pub. L. 106–169, §206(a)(3), redesignated par. (2) as (2)(B) and substituted “subparagraph (A)(ii)” for “paragraph (1)(B)”.
+Subsec. (c)(2)(B). Pub. L. 106–169, §206(a)(3), redesignated par. (2) as (2)(B) and substituted "subparagraph (A)(ii)" for "paragraph (1)(B)".
 
 Subsec. (e). Pub. L. 106–169, §205(a), added subsec. (e).
 
@@ -242,11 +242,11 @@ Subsec. (e). Pub. L. 106–169, §205(a), added subsec. (e).
 
 <b>1996</b>—Subsec. (a)(12). Pub. L. 104–193 added par. (12).
 
-<b>1994</b>—Subsec. (a)(2) to (4), (6). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+<b>1994</b>—Subsec. (a)(2) to (4), (6). Pub. L. 103–296, §107(a)(4), substituted "Commissioner of Social Security" for "Secretary" wherever appearing.
 
-Subsec. (a)(9) to (11). Pub. L. 103–296, §321(h)(2), struck out “and” at end of par. (9), substituted “; and” for period at end of par. (10) relating to relocation assistance, and redesignated par. (10) relating to refunds of Federal income taxes as (11).
+Subsec. (a)(9) to (11). Pub. L. 103–296, §321(h)(2), struck out "and" at end of par. (9), substituted "; and" for period at end of par. (10) relating to relocation assistance, and redesignated par. (10) relating to refunds of Federal income taxes as (11).
 
-Subsecs. (b) to (d). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “the Commissioner shall” for “he shall” in subsec. (d)(3).
+Subsecs. (b) to (d). Pub. L. 103–296, §107(a)(4), substituted "Commissioner of Social Security" for "Secretary" wherever appearing and "the Commissioner shall" for "he shall" in subsec. (d)(3).
 
 <b>1990</b>—Subsec. (a)(9). Pub. L. 101–508, §5031(b), added par. (9).
 
@@ -254,25 +254,25 @@ Subsec. (a)(10). Pub. L. 101–508, §11115(b)(2), added par. (10) relating to r
 
 Pub. L. 101–508, §5053(b), added par. (10) relating to relocation assistance.
 
-<b>1989</b>—Subsec. (a)(2)(B). Pub. L. 101–239, §8013(b), inserted “or agreement (including any interest accumulated thereon) representing the purchase of a burial space”.
+<b>1989</b>—Subsec. (a)(2)(B). Pub. L. 101–239, §8013(b), inserted "or agreement (including any interest accumulated thereon) representing the purchase of a burial space".
 
-Subsec. (a)(3). Pub. L. 101–239, §8014(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “other property which, as determined in accordance with and subject to limitations prescribed by the Secretary, is so essential to the means of self-support of such individual (and such spouse) as to warrant its exclusion;”.
+Subsec. (a)(3). Pub. L. 101–239, §8014(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "other property which, as determined in accordance with and subject to limitations prescribed by the Secretary, is so essential to the means of self-support of such individual (and such spouse) as to warrant its exclusion;".
 
 <b>1988</b>—Subsec. (a)(8). Pub. L. 100–647 added par. (8).
 
-Subsec. (c). Pub. L. 100–360 substituted “Notification of medicaid policy restricting eligibility of institutionalized individuals for benefits based on disposal of resources for less than fair market value” for “Disposal of resources for less than fair market value” in heading and amended text generally, substituting pars. (1) and (2) for former pars. (1) to (4).
+Subsec. (c). Pub. L. 100–360 substituted "Notification of medicaid policy restricting eligibility of institutionalized individuals for benefits based on disposal of resources for less than fair market value" for "Disposal of resources for less than fair market value" in heading and amended text generally, substituting pars. (1) and (2) for former pars. (1) to (4).
 
-<b>1987</b>—Subsec. (a)(7). Pub. L. 100–203, §9114(a), inserted “(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)” after “such amount is received”.
+<b>1987</b>—Subsec. (a)(7). Pub. L. 100–203, §9114(a), inserted "(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)" after "such amount is received".
 
 Subsec. (b). Pub. L. 100–203, §9103, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c)(1). Pub. L. 100–203, §9104(a)(1), inserted “, and subject to paragraph (4) of this subsection” after “subsection (a) of this section”.
+Subsec. (c)(1). Pub. L. 100–203, §9104(a)(1), inserted ", and subject to paragraph (4) of this subsection" after "subsection (a) of this section".
 
 Subsec. (c)(4). Pub. L. 100–203, §9104(a)(2), added par. (4).
 
-Subsec. (d)(1). Pub. L. 100–203, §9105(a)(1), struck out “if the inclusion of any portion of such amount or amounts would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title” after “individual or spouse”.
+Subsec. (d)(1). Pub. L. 100–203, §9105(a)(1), struck out "if the inclusion of any portion of such amount or amounts would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title" after "individual or spouse".
 
-Subsec. (d)(3). Pub. L. 100–203, §9105(a)(2), substituted “aside in cases where the inclusion of any portion of the amount would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title” for “aside”.
+Subsec. (d)(3). Pub. L. 100–203, §9105(a)(2), substituted "aside in cases where the inclusion of any portion of the amount would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title" for "aside".
 
 <b>1984</b>—Subsec. (a)(7). Pub. L. 98–369, §2614, added par. (7).
 
@@ -286,7 +286,7 @@ Subsec. (d). Pub. L. 97–248, §185(b), added subsec. (d).
 
 <b>1977</b>—Subsec. (a)(6). Pub. L. 95–171 added par. (6).
 
-<b>1976</b>—Subsec. (a)(1). Pub. L. 94–569 struck out “, to the extent that its value does not exceed such amount as the Secretary determines to be reasonable” after “the home (including the land that appertains thereto)”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–569 struck out ", to the extent that its value does not exceed such amount as the Secretary determines to be reasonable" after "the home (including the land that appertains thereto)".
 
 #### Effective and Termination Dates of 2010 Amendment
 
@@ -302,7 +302,7 @@ Amendment by Pub. L. 110–245 effective with respect to benefits payable for mo
 
 Amendment by section 101(c)(2) of Pub. L. 108–203 applicable to any case of benefit misuse by a representative payee with respect to which the Commissioner of Social Security makes the determination of misuse on or after Jan. 1, 1995, see section 101(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
 
-Pub. L. 108–203, title IV, §431(c), Mar. 2, 2004, 118 Stat. 539, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Mar. 2, 2004\], and shall apply to amounts described in paragraph (7) of section 1613(a) of the Social Security Act \[subsec. (a)(7) of this section\] and refunds of Federal income taxes described in paragraph (11) of such section, that are received by an eligible individual or eligible spouse on or after such date.”
+Pub. L. 108–203, title IV, §431(c), Mar. 2, 2004, 118 Stat. 539, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Mar. 2, 2004\], and shall apply to amounts described in paragraph (7) of section 1613(a) of the Social Security Act \[subsec. (a)(7) of this section\] and refunds of Federal income taxes described in paragraph (11) of such section, that are received by an eligible individual or eligible spouse on or after such date."
 
 Amendment by section 435(b) of Pub. L. 108–203 applicable to benefits payable for months that begin more than 90 days after Mar. 2, 2004, see section 435(c) of Pub. L. 108–203, set out as a note under section 1382a of this title.
 
@@ -310,7 +310,7 @@ Amendment by section 435(b) of Pub. L. 108–203 applicable to benefits payable 
 
 Amendment by section 205(a) of Pub. L. 106–169 effective Jan. 1, 2000, and applicable to trusts established on or after such date, see section 205(d) of Pub. L. 106–169, set out as a note under section 1382a of this title.
 
-Pub. L. 106–169, title II, §206(c), Dec. 14, 1999, 113 Stat. 1837, provided that: “The amendments made by this section \[amending this section and section 1396a of this title\] shall be effective with respect to disposals made on or after the date of the enactment of this Act \[Dec. 14, 1999\].”
+Pub. L. 106–169, title II, §206(c), Dec. 14, 1999, 113 Stat. 1837, provided that: "The amendments made by this section \[amending this section and section 1396a of this title\] shall be effective with respect to disposals made on or after the date of the enactment of this Act \[Dec. 14, 1999\]."
 
 #### Effective Date of 1998 Amendment
 
@@ -324,7 +324,7 @@ Amendment by section 213(b) of Pub. L. 104–193 applicable to payments made aft
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Pub. L. 103–296, title III, §321(h)(3), Aug. 15, 1994, 108 Stat. 1544, provided that: “The amendments made by this subsection \[amending this section and section 1383 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\].”
+Pub. L. 103–296, title III, §321(h)(3), Aug. 15, 1994, 108 Stat. 1544, provided that: "The amendments made by this subsection \[amending this section and section 1383 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -338,23 +338,23 @@ Amendment by section 11115(b)(2) of Pub. L. 101–508 applicable to determinatio
 
 Amendment by section 8013(b) of Pub. L. 101–239 effective on 1st day of 4th month beginning after Dec. 19, 1989, see section 8013(c) of Pub. L. 101–239, set out as a note under section 1382a of this title.
 
-Pub. L. 101–239, title VIII, §8014(b), Dec. 19, 1989, 103 Stat. 2465, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 5th calendar month beginning after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VIII, §8014(b), Dec. 19, 1989, 103 Stat. 2465, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 5th calendar month beginning after the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective as though included in section 162 of Housing and Community Development Act of 1987, Pub. L. 100–242, at the time of its enactment, on Feb. 5, 1988, see section 8103(c) of Pub. L.100–647, set out as a note under section 1382a of this title.
+Amendment by Pub. L. 100–647 effective as though included in section 162 of Housing and Community Development Act of 1987, Pub. L. 100–242, at the time of its enactment, on Feb. 5, 1988, see section 8103(c) of Pub. L. 100–647, set out as a note under section 1382a of this title.
 
 Amendment by Pub. L. 100–360 applicable to transfers occurring on or after July 1, 1988, without regard to whether or not final regulations to carry out such amendment have been promulgated by such date, see section 303(g)(3) of Pub. L. 100–360, set out as a note under section 1396r–5 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IX, §9103(b), Dec. 22, 1987, 101 Stat. 1330–301, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
+Pub. L. 100–203, title IX, §9103(b), Dec. 22, 1987, 101 Stat. 1330–301, provided that: "The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988."
 
-Pub. L. 100–203, title IX, §9104(b), Dec. 22, 1987, 101 Stat. 1330–301, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
+Pub. L. 100–203, title IX, §9104(b), Dec. 22, 1987, 101 Stat. 1330–301, provided that: "The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988."
 
-Pub. L. 100–203, title IX, §9105(b), Dec. 22, 1987, 101 Stat. 1330–301, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
+Pub. L. 100–203, title IX, §9105(b), Dec. 22, 1987, 101 Stat. 1330–301, provided that: "The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988."
 
-Pub. L. 100–203, title IX, §9114(b), Dec. 22, 1987, 101 Stat. 1330–304, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective January 1, 1988.”
+Pub. L. 100–203, title IX, §9114(b), Dec. 22, 1987, 101 Stat. 1330–304, provided that: "The amendment made by subsection (a) \[amending this section\] shall become effective January 1, 1988."
 
 #### Effective Date of 1984 Amendment
 
@@ -364,15 +364,15 @@ Amendment by section 2663(g)(5) of Pub. L. 98–369 effective July 18, 1984, but
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title I, §185(c), Sept. 3, 1982, 96 Stat. 407, provided that: “The amendment made by this section \[amending this section\] shall take effect on the first day of the second month after the month in which this Act is enacted \[September 1982\].”
+Pub. L. 97–248, title I, §185(c), Sept. 3, 1982, 96 Stat. 407, provided that: "The amendment made by this section \[amending this section\] shall take effect on the first day of the second month after the month in which this Act is enacted \[September 1982\]."
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–611, §5(c), Dec. 28, 1980, 94 Stat. 3568, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to applications for benefits under title XVI of the Social Security Act \[this subchapter\] filed on or after the first day of the first month which begins at least 60 days after the date of enactment of this Act \[Dec. 28, 1980\].”
+Pub. L. 96–611, §5(c), Dec. 28, 1980, 94 Stat. 3568, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective with respect to applications for benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] filed on or after the first day of the first month which begins at least 60 days after the date of enactment of this Act \[Dec. 28, 1980\]."
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–171, §9(b), Nov. 12, 1977, 91 Stat. 1356, provided that: “The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, the amendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\].”
+Pub. L. 95–171, §9(b), Nov. 12, 1977, 91 Stat. 1356, provided that: "The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, the amendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\]."
 
 #### Effective Date
 
@@ -386,5 +386,7 @@ For applicability of this section to the Northern Mariana Islands, see section 5
 
 Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable to Puerto Rico, Guam, and the Virgin Islands, see section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Acquisition".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

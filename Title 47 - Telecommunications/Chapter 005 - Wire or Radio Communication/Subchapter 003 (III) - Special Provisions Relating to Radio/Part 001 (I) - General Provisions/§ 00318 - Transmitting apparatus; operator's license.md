@@ -6,7 +6,7 @@ The actual operation of all transmitting apparatus in any radio station for whic
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 
@@ -14,11 +14,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 <b>1992</b>—Pub. L. 102–538, §205(2), redesignated cl. (4) as (3).
 
-Pub. L. 102–538, §205(1), as amended by Pub. L. 103–414, struck out cl. (3) which read as follows: “stations engaged in broadcasting (other than those engaged primarily in the function of rebroadcasting the signals of broadcast stations),”.
+Pub. L. 102–538, §205(1), as amended by Pub. L. 103–414, struck out cl. (3) which read as follows: "stations engaged in broadcasting (other than those engaged primarily in the function of rebroadcasting the signals of broadcast stations),".
 
-<b>1976</b>—Pub. L. 94–335 substituted “engaged primarily in the function of rebroadcasting the signals of broadcast stations” for “engaged solely in the function of rebroadcasting the signals of television broadcast stations” in parenthetical provisions of cl. (3).
+<b>1976</b>—Pub. L. 94–335 substituted "engaged primarily in the function of rebroadcasting the signals of broadcast stations" for "engaged solely in the function of rebroadcasting the signals of television broadcast stations" in parenthetical provisions of cl. (3).
 
-<b>1960</b>—Pub. L. 86–609 inserted “(other than those engaged solely in the function of rebroadcasting the signals of television broadcast stations)” after “engaged in broadcasting”.
+<b>1960</b>—Pub. L. 86–609 inserted "(other than those engaged solely in the function of rebroadcasting the signals of television broadcast stations)" after "engaged in broadcasting".
 
 <b>1937</b>—Act Mar. 29, 1937, inserted provisos.
 

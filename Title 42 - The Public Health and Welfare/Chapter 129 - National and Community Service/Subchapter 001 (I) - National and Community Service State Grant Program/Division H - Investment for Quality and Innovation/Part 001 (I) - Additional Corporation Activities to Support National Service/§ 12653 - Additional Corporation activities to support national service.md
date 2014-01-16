@@ -38,7 +38,7 @@ The Corporation may support the development and dissemination of materials, incl
 
 #### (1) Designation
 
-&emsp;April 24, 2009, and April 23, 2010, are each designated as “Global Youth Service Days”. The President is authorized and directed to issue a proclamation calling on the people of the United States to observe the day with appropriate youth-led community improvement and service-learning activities.
+&emsp;April 24, 2009, and April 23, 2010, are each designated as "Global Youth Service Days". The President is authorized and directed to issue a proclamation calling on the people of the United States to observe the day with appropriate youth-led community improvement and service-learning activities.
 
 #### (2) Federal activities
 
@@ -56,7 +56,7 @@ The Corporation may make grants to, and enter into contracts and cooperative agr
 
 #### (1) Assistance
 
-&emsp;The Corporation may make grants to eligible entities described in paragraph (2) to pay for the Federal share of the cost of planning and carrying out service opportunities in conjunction with the Federal legal holiday honoring the birthday of Martin Luther King, Jr. Such service opportunities shall consist of activities reflecting the life and teachings of Martin Luther King, Jr., such as cooperation and understanding among racial and ethnic groups, nonviolent conflict resolution, equaleconomic and educational opportunities, and social justice.
+&emsp;The Corporation may make grants to eligible entities described in paragraph (2) to pay for the Federal share of the cost of planning and carrying out service opportunities in conjunction with the Federal legal holiday honoring the birthday of Martin Luther King, Jr. Such service opportunities shall consist of activities reflecting the life and teachings of Martin Luther King, Jr., such as cooperation and understanding among racial and ethnic groups, nonviolent conflict resolution, equal economic and educational opportunities, and social justice.
 
 #### (2) Eligible entities
 
@@ -74,7 +74,7 @@ The Corporation may make grants to, and enter into contracts and cooperative agr
 
 #### (j) Call to Service Campaign
 
-Not later than 180 days after April 21, 2009, the Corporation shall conduct a nationwide “Call To Service” campaign, to encourage all people of the United States, regardless of age, race, ethnicity, religion, or economic status, to engage in full- or part-time national service, long- or short-term public service in the nonprofit sector or government, or volunteering. In conducting the campaign, the Corporation may collaborate with other Federal agencies and entities, State Commissions, Governors, nonprofit and faith-based organizations, businesses, institutions of higher education, elementary schools, and secondary schools.
+Not later than 180 days after April 21, 2009, the Corporation shall conduct a nationwide "Call To Service" campaign, to encourage all people of the United States, regardless of age, race, ethnicity, religion, or economic status, to engage in full- or part-time national service, long- or short-term public service in the nonprofit sector or government, or volunteering. In conducting the campaign, the Corporation may collaborate with other Federal agencies and entities, State Commissions, Governors, nonprofit and faith-based organizations, businesses, institutions of higher education, elementary schools, and secondary schools.
 
 #### (k) September 11th Day of Service
 
@@ -106,27 +106,27 @@ A prior section 12653, Pub. L. 101–610, title I, §195, as added Pub. L. 102�
 
 <b>2009</b>—Pub. L. 111–13, §1802(a)(3), redesignated subsecs. (g), (k), (n), (o), (q), (r), and (s) as (c) to (i), respectively, and struck out former subsecs. (c) to (f), (h) to (j), (l), (m), and (p), which related to summer programs, community-based agencies, improving ability to apply for assistance, national service fellowships, Peace Corps and VISTA training, promotion and recruitment, training, intergenerational support, planning coordination, and service-learning, respectively.
 
-Subsec. (a). Pub. L. 111–13, §1802(a)(1), substituted “subsection (g)” for “subsection (r) of this section”.
+Subsec. (a). Pub. L. 111–13, §1802(a)(1), substituted "subsection (g)" for "subsection (r) of this section".
 
-Subsec. (b). Pub. L. 111–13, §1802(a)(2), substituted “to address emergent needs through summer programs and other activities, and to support service-learning programs and national service programs, including—” for “to improve the quality of national service programs, including service-learning programs, and to support innovative and model programs, including—” in introductory provisions.
+Subsec. (b). Pub. L. 111–13, §1802(a)(2), substituted "to address emergent needs through summer programs and other activities, and to support service-learning programs and national service programs, including—" for "to improve the quality of national service programs, including service-learning programs, and to support innovative and model programs, including—" in introductory provisions.
 
-Subsec. (g). Pub. L. 111–13, §1802(b)(1)(A), substituted “Global” for “National” in heading.
+Subsec. (g). Pub. L. 111–13, §1802(b)(1)(A), substituted "Global" for "National" in heading.
 
-Subsec. (g)(1). Pub. L. 111–13, §1802(b)(1)(B), (C), substituted “April 24, 2009, and April 23, 2010, are each designated as ‘Global Youth Service Days’.” for “April 19, 1994, and April 18, 1995, are each designated as ‘National Youth Service Day’.” and “appropriate youth-led community improvement and service-learning activities” for “appropriate ceremonies and activities”.
+Subsec. (g)(1). Pub. L. 111–13, §1802(b)(1)(B), (C), substituted "April 24, 2009, and April 23, 2010, are each designated as 'Global Youth Service Days'." for "April 19, 1994, and April 18, 1995, are each designated as 'National Youth Service Day'." and "appropriate youth-led community improvement and service-learning activities" for "appropriate ceremonies and activities".
 
-Subsec. (g)(2). Pub. L. 111–13, §1802(b)(1)(B), (D), substituted “Global Youth” for “National Youth”, inserted “and other Federal departments and agencies” after “Corporation”, and substituted “youth-led community improvement and service-learning activities” for “ceremonies and activities”.
+Subsec. (g)(2). Pub. L. 111–13, §1802(b)(1)(B), (D), substituted "Global Youth" for "National Youth", inserted "and other Federal departments and agencies" after "Corporation", and substituted "youth-led community improvement and service-learning activities" for "ceremonies and activities".
 
-Subsec. (g)(3). Pub. L. 111–13, §1802(b)(1)(B), (E), inserted “and other Federal departments and agencies” after “Corporation” and substituted “Global Youth” for “National Youth”.
+Subsec. (g)(3). Pub. L. 111–13, §1802(b)(1)(B), (E), inserted "and other Federal departments and agencies" after "Corporation" and substituted "Global Youth" for "National Youth".
 
 Subsecs. (j), (k). Pub. L. 111–13, §1802(c), added subsecs. (j) and (k).
 
-<b>1998</b>—Subsec. (s)(3). Pub. L. 105–354 struck out heading and text of par. (3). Text read as follows: “In making grants under this subsection, the Corporation shall consult with the Martin Luther King, Jr. Federal Holiday Commission established under section 169j–1 of title 36.”
+<b>1998</b>—Subsec. (s)(3). Pub. L. 105–354 struck out heading and text of par. (3). Text read as follows: "In making grants under this subsection, the Corporation shall consult with the Martin Luther King, Jr. Federal Holiday Commission established under section 169j–1 of title 36."
 
-<b>1994</b>—Subsec. (q)(1). Pub. L. 103–304, §3(b)(6), substituted “1995,” for “1995”.
+<b>1994</b>—Subsec. (q)(1). Pub. L. 103–304, §3(b)(6), substituted "1995," for "1995".
 
 Subsec. (s). Pub. L. 103–304, §3(a), added subsec. (s).
 
-<b>1993</b>—Subsec. (r). Pub. L. 103–82, §405(p)(2), substituted “Corporation” for “ACTION Agency”.
+<b>1993</b>—Subsec. (r). Pub. L. 103–82, §405(p)(2), substituted "Corporation" for "ACTION Agency".
 
 #### Effective Date of 2009 Amendment
 
@@ -148,7 +148,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Establishment</i>. There is established the White House Council for Community Solutions (Council) within the Corporation for National and Community Service (CNCS) to support the social innovation and civic participation agenda of the Domestic Policy Council.
 
-Sec. 2. <i>Mission and Functions of the Council</i>. The Council shall support the nationwide “Call To Service” campaign authorized in the Serve America Act (Public Law 111–13) by:
+Sec. 2. <i>Mission and Functions of the Council</i>. The Council shall support the nationwide "Call To Service" campaign authorized in the Serve America Act (Public Law 111–13) by:
 
 (a) identifying the key attributes of effective community-developed solutions to our national problems;
 
@@ -172,7 +172,7 @@ Sec. 4. <i>Administration</i>. (a) The CNCS shall provide funding and administra
 
 (c) The members of the Council shall serve without compensation for their work on the Council. Members of the Council may, however, receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707).
 
-(d) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), may apply to the administration of the Council, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of the CNCS in accordance with the guidelines issued by the Administrator of General Services.
+(d) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the "Act"), may apply to the administration of the Council, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of the CNCS in accordance with the guidelines issued by the Administrator of General Services.
 
 Sec. 5. <i>Termination</i>. The Council shall terminate 2 years from the date of this order, unless renewed by the President.
 

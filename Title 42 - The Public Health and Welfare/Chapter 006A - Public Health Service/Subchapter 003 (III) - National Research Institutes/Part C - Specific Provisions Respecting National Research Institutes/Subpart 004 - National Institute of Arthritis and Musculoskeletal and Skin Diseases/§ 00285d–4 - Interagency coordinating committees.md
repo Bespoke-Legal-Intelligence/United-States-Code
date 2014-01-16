@@ -8,7 +8,7 @@ For the purpose of—
 
 &emsp;(2) coordinating the aspects of all Federal health programs and activities relating to arthritis, musculoskeletal diseases, and skin diseases in order to assure the adequacy and technical soundness of such programs and activities and in order to provide for the full communication and exchange of information necessary to maintain adequate coordination of such programs and activities,
 
-> the Secretary shall establish an Arthritis and Musculoskeletal Diseases Interagency Coordinating Committee and a Skin Diseases Interagency Coordinating Committee (hereafter in this section individually referred to as a “Committee”).
+> the Secretary shall establish an Arthritis and Musculoskeletal Diseases Interagency Coordinating Committee and a Skin Diseases Interagency Coordinating Committee (hereafter in this section individually referred to as a "Committee").
 
 #### (b) Membership; chairman; meetings
 
@@ -18,9 +18,9 @@ Each Committee shall be composed of the Directors of each of the national resear
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–362 struck out subsec. (c) which read as follows: “Not later than 120 days after the end of each fiscal year, each Committee shall prepare and transmit to the Secretary, the Director of NIH, the Director of the Institute, and the advisory council for the Institute a report detailing the activities of the Committee in such fiscal year in carrying out paragraphs (1) and (2) of subsection (a) of this section.”
+<b>1998</b>—Subsec. (c). Pub. L. 105–362 struck out subsec. (c) which read as follows: "Not later than 120 days after the end of each fiscal year, each Committee shall prepare and transmit to the Secretary, the Director of NIH, the Director of the Institute, and the advisory council for the Institute a report detailing the activities of the Committee in such fiscal year in carrying out paragraphs (1) and (2) of subsection (a) of this section."
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–43 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–43 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director".
 

@@ -14,7 +14,7 @@ The Federal Government, and any State or local government that receives Federal 
 
 #### (1) In general
 
-&emsp;In determining whether to grant a legal status to a health care entity (including a license or certificate), or to provide such entity with financial assistance, services or other benefits, the Federal Government, or any State or local government that receives Federal financial assistance, shall deem accredited any postgraduate physician training program that would be accredited but for the accrediting agency's reliance upon an accreditation standards <sup>1</sup> that requires an entity to perform an induced abortion or require, provide, or refer for training in the performance of induced abortions, or make arrangements for such training, regardless of whether such standard provides exceptions or exemptions. The government involved shall formulate such regulations or other mechanisms, or enter into such agreements with accrediting agencies, as are necessary to comply with this subsection.
+&emsp;In determining whether to grant a legal status to a health care entity (including a license or certificate), or to provide such entity with financial assistance, services or other benefits, the Federal Government, or any State or local government that receives Federal financial assistance, shall deem accredited any postgraduate physician training program that would be accredited but for the accrediting agency's reliance upon an accreditation standards <sup>1</sup> that requires an entity to perform an induced abortion or require, provide, or refer for training in the performance of induced abortions, or make arrangements for such training, regardless of whether such standard provides exceptions or exemptions. The government involved shall formulate suchregulations or other mechanisms, or enter into such agreements with accrediting agencies, as are necessary to comply with this subsection.
 
 #### (2) Rules of construction
 
@@ -34,13 +34,13 @@ The Federal Government, and any State or local government that receives Federal 
 
 For purposes of this section:
 
-&emsp;(1) The term “financial assistance”, with respect to a government program, includes governmental payments provided as reimbursement for carrying out health-related activities.
+&emsp;(1) The term "financial assistance", with respect to a government program, includes governmental payments provided as reimbursement for carrying out health-related activities.
 
-&emsp;(2) The term “health care entity” includes an individual physician, a postgraduate physician training program, and a participant in a program of training in the health professions.
+&emsp;(2) The term "health care entity" includes an individual physician, a postgraduate physician training program, and a participant in a program of training in the health professions.
 
-&emsp;(3) The term “postgraduate physician training program” includes a residency training program.
+&emsp;(3) The term "postgraduate physician training program" includes a residency training program.
 
 (July 1, 1944, ch. 373, title II, §245, as added Pub. L. 104–134, title I, §101(d) \[title V, §515\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “standard”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "standard".</i>
 

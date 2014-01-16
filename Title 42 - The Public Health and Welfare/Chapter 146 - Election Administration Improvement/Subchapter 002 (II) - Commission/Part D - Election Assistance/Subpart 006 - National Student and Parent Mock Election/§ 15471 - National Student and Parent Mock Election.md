@@ -8,7 +8,7 @@ The Election Assistance Commission is authorized to award grants to the National
 
 &emsp;(2) consist of—
 
-&emsp;&emsp;(A) school forums and local cable call-in shows on the national issues to be voted upon in an “issues forum”;
+&emsp;&emsp;(A) school forums and local cable call-in shows on the national issues to be voted upon in an "issues forum";
 
 &emsp;&emsp;(B) speeches and debates before students and parents by local candidates or stand-ins for such candidates;
 

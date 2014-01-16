@@ -10,13 +10,13 @@ Based on title 28, U.S.C., 1940 ed., §670 (R.S. §890; June 10, 1921, ch. 18, �
 
 Provisions in section 670 of title 28, U.S.C., 1940 ed., that the statement should recite that a letter has been mailed to a described post office and sufficient time has elapsed for it to have reached its destination, was omitted as superfluous.
 
-The last clause of section 670 of title 28, U.S.C., 1940 ed., was omitted as covered by the phrase “notwithstanding any allowances or credits subsequently made” in the revised section.
+The last clause of section 670 of title 28, U.S.C., 1940 ed., was omitted as covered by the phrase "notwithstanding any allowances or credits subsequently made" in the revised section.
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 #### Transfer of Functions
 

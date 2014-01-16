@@ -6,11 +6,11 @@ There are authorized to be appropriated for purposes of making reimbursements un
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–440 substituted “fiscal years 1992, 1993, 1994, 1995, 1996, and 1997” for “fiscal years 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, and 1992”.
+<b>1992</b>—Pub. L. 102–440 substituted "fiscal years 1992, 1993, 1994, 1995, 1996, and 1997" for "fiscal years 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, and 1992".
 
-<b>1990</b>—Pub. L. 101–593 substituted “1990, 1991, and 1992” for “and 1990”.
+<b>1990</b>—Pub. L. 101–593 substituted "1990, 1991, and 1992" for "and 1990".
 
-<b>1988</b>—Pub. L. 100–653 substituted “1988, 1989, and 1990” for “and 1988”.
+<b>1988</b>—Pub. L. 100–653 substituted "1988, 1989, and 1990" for "and 1988".
 
-<b>1986</b>—Pub. L. 99–375 substituted “1985, 1986, 1987, and 1988” for “and 1985”.
+<b>1986</b>—Pub. L. 99–375 substituted "1985, 1986, 1987, and 1988" for "and 1985".
 

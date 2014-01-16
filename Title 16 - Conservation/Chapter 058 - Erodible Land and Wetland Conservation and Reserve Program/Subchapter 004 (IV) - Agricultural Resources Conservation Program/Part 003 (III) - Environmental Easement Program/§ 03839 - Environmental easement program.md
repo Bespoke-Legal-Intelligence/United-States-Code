@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall, during the 1991 through 1995 calendar years, formulate and carry out an environmental easement program (hereafter in this part referred to as the “easement program”) in accordance with this part, through the acquisition of permanent easements or easements for the maximum term permitted under applicable State law from willing owners of eligible farms or ranches in order to ensure the continued long-term protection of environmentally sensitive lands or reduction in the degradation of water quality on such farms or ranches through the continued conservation and improvement of soil and water resources.
+The Secretary shall, during the 1991 through 1995 calendar years, formulate and carry out an environmental easement program (hereafter in this part referred to as the "easement program") in accordance with this part, through the acquisition of permanent easements or easements for the maximum term permitted under applicable State law from willing owners of eligible farms or ranches in order to ensure the continued long-term protection of environmentally sensitive lands or reduction in the degradation of water quality on such farms or ranches through the continued conservation and improvement of soil and water resources.
 
 #### (b) Eligibility; termination
 
@@ -26,7 +26,7 @@ The Secretary shall, during the 1991 through 1995 calendar years, formulate and 
 
 #### (3) Termination of existing contract
 
-&emsp;The Secretary may terminate or modify any existing contract entered into under section3831(a) of this title if eligible land that is subject to such contract is transferred into the program established by this part.
+&emsp;The Secretary may terminate or modify any existing contract entered into under section 3831(a) of this title if eligible land that is subject to such contract is transferred into the program established by this part.
 
 (Pub. L. 99–198, title XII, §1239, as added Pub. L. 101–624, title XIV, §1440, Nov. 28, 1990, 104 Stat. 3597; amended Pub. L. 102–237, title II, §204(7), Dec. 13, 1991, 105 Stat. 1855.)
 
@@ -36,5 +36,5 @@ The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19,
 
 #### Amendments
 
-<b>1991</b>—Subsec. (b)(1)(A). Pub. L. 102–237 substituted a semicolon for comma after “corridors”.
+<b>1991</b>—Subsec. (b)(1)(A). Pub. L. 102–237 substituted a semicolon for comma after "corridors".
 

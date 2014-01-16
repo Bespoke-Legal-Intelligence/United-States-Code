@@ -46,7 +46,7 @@ Not later than 18 months after December 19, 2007, the Secretary, in conjunction 
 
 (Pub. L. 110–140, title VI, §633, Dec. 19, 2007, 121 Stat. 1686.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “identify”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "identify".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “provide”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "provide".</i>
 

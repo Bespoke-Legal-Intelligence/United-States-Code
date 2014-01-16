@@ -32,25 +32,25 @@
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §573(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, added item 6035.
 
-<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1673(b)(3), Oct. 5, 1994, 108 Stat. 3016, struck out items 6017 “Retired list for Reserve members entitled to retired pay” and 6034 “Regulations for retired pay based on service in the Reserve”.
+<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1673(b)(3), Oct. 5, 1994, 108 Stat. 3016, struck out items 6017 "Retired list for Reserve members entitled to retired pay" and 6034 "Regulations for retired pay based on service in the Reserve".
 
-<b>1993</b>—Pub. L. 103–160, div. A, title V, §541(b), Nov. 30, 1993, 107 Stat. 1659, struck out item 6015 “Women members: duty; qualifications; restrictions”.
+<b>1993</b>—Pub. L. 103–160, div. A, title V, §541(b), Nov. 30, 1993, 107 Stat. 1659, struck out item 6015 "Women members: duty; qualifications; restrictions".
 
-<b>1980</b>—Pub. L. 96–513, title V, §503(43), Dec. 12, 1980, 94 Stat. 2914, struck out items 6018 “Naval officers: shore duty; limitations” and 6028 “Medical Service Corps: composition”.
+<b>1980</b>—Pub. L. 96–513, title V, §503(43), Dec. 12, 1980, 94 Stat. 2914, struck out items 6018 "Naval officers: shore duty; limitations" and 6028 "Medical Service Corps: composition".
 
-<b>1972</b>—Pub. L. 92–310, title II, §204(c), June 6, 1972, 86 Stat. 203, struck out item 6026 “Supply Corps officers: bonds”.
+<b>1972</b>—Pub. L. 92–310, title II, §204(c), June 6, 1972, 86 Stat. 203, struck out item 6026 "Supply Corps officers: bonds".
 
-<b>1971</b>—Pub. L. 92–168, §2(3), Nov. 24, 1971, 85 Stat. 489, struck out items 6023 “Aviation designations: naval aviator,” and 6025 “Aviation designations: aviation pilot”.
+<b>1971</b>—Pub. L. 92–168, §2(3), Nov. 24, 1971, 85 Stat. 489, struck out items 6023 "Aviation designations: naval aviator," and 6025 "Aviation designations: aviation pilot".
 
-<b>1970</b>—Pub. L. 91–198, §1(3), Feb. 26, 1970, 84 Stat. 15, substituted “naval flight officer” for “naval aviation observer” in item 6024.
+<b>1970</b>—Pub. L. 91–198, §1(3), Feb. 26, 1970, 84 Stat. 15, substituted "naval flight officer" for "naval aviation observer" in item 6024.
 
-<b>1968</b>—Pub. L. 90–235, §7(a)(5), Jan. 2, 1968, 81 Stat. 763, struck out item 6033 “Woman member: definition of dependents”.
+<b>1968</b>—Pub. L. 90–235, §7(a)(5), Jan. 2, 1968, 81 Stat. 763, struck out item 6033 "Woman member: definition of dependents".
 
-<b>1967</b>—Pub. L. 90–130, §1(22), Nov. 8, 1967, 81 Stat. 380, struck out item 6030 “Nurse Corps officers: authority”.
+<b>1967</b>—Pub. L. 90–130, §1(22), Nov. 8, 1967, 81 Stat. 380, struck out item 6030 "Nurse Corps officers: authority".
 
-<b>1961</b>—Pub. L. 87–123, §5(24), Aug. 3, 1961, 75 Stat. 266, struck out item 6020 “Marine Corps officers: detail to duty in Supply Department”.
+<b>1961</b>—Pub. L. 87–123, §5(24), Aug. 3, 1961, 75 Stat. 266, struck out item 6020 "Marine Corps officers: detail to duty in Supply Department".
 
-<b>1958</b>—Pub. L. 85–861, §1(135), Sept. 2, 1958, 72 Stat. 1507, struck out item 6016 “Retired officers carried on Navy Register”.
+<b>1958</b>—Pub. L. 85–861, §1(135), Sept. 2, 1958, 72 Stat. 1507, struck out item 6016 "Retired officers carried on Navy Register".
 
 
 ---
@@ -76,10 +76,10 @@
 - [&sect; 06027 - Medical Department composition](%C2%A7%2006027%20-%20Medical%20Department%20composition.md)
 - [&sect; 06028 - Repealed. Pub. L. 96&#8211;513, title III, &sect;352(b), Dec. 12, 1980, 94 Stat. 2902](%C2%A7%2006028%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7352%28b%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202902.md)
 - [&sect; 06029 - Dental services responsibilities of senior dental officer](%C2%A7%2006029%20-%20Dental%20services%20responsibilities%20of%20senior%20dental%20officer.md)
-- [&sect; 06030 - Repealed Pub. L. 90&#8211;130, &sect;1(22), Nov. 8, 1967, 81 Stat. 380](%C2%A7%2006030%20-%20Repealed%20Pub.%20L.%2090%E2%80%93130%2C%20%C2%A71%2822%29%2C%20Nov.%208%2C%201967%2C%2081%20Stat.%20380.md)
+- [&sect; 06030 - Repealed. Pub. L. 90&#8211;130, &sect;1(22), Nov. 8, 1967, 81 Stat. 380](%C2%A7%2006030%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93130%2C%20%C2%A71%2822%29%2C%20Nov.%208%2C%201967%2C%2081%20Stat.%20380.md)
 - [&sect; 06031 - Chaplains divine services](%C2%A7%2006031%20-%20Chaplains%20divine%20services.md)
 - [&sect; 06032 - Indebtedness to Marine Corps Exchanges payment from appropriated funds in certain cases](%C2%A7%2006032%20-%20Indebtedness%20to%20Marine%20Corps%20Exchanges%20payment%20from%20appropriated%20funds%20in%20certain%20cases.md)
-- [&sect; 06033 - Repealed Pub. L. 90&#8211;235, &sect;7(a)(3), Jan. 2, 1968, 81 Stat. 763](%C2%A7%2006033%20-%20Repealed%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A77%28a%29%283%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20763.md)
+- [&sect; 06033 - Repealed. Pub. L. 90&#8211;235, &sect;7(a)(3), Jan. 2, 1968, 81 Stat. 763](%C2%A7%2006033%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A77%28a%29%283%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20763.md)
 - [&sect; 06034 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;1662(j)(8), Oct. 5, 1994, 108 Stat. 3005](%C2%A7%2006034%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71662%28j%29%288%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%203005.md)
 - [&sect; 06035 - Female members congressional review period for assignment to duty on submarines or for reconfiguration of submarines](%C2%A7%2006035%20-%20Female%20members%20congressional%20review%20period%20for%20assignment%20to%20duty%20on%20submarines%20or%20for%20reconfiguration%20of%20submarines.md)
 - [&sect; 06036 - Fatality reviews](%C2%A7%2006036%20-%20Fatality%20reviews.md)

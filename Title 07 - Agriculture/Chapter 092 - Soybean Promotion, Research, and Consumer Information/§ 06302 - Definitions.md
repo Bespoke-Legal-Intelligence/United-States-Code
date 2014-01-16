@@ -4,27 +4,27 @@ As used in this chapter:
 
 #### (1) Board
 
-&emsp;The term “Board” means the United Soybean Board established under section 6304(b) of this title.
+&emsp;The term "Board" means the United Soybean Board established under section 6304(b) of this title.
 
 #### (2) Commerce
 
-&emsp;The term “commerce” includes interstate, foreign, and intrastate commerce.
+&emsp;The term "commerce" includes interstate, foreign, and intrastate commerce.
 
 #### (3) Committee
 
-&emsp;The term “Committee” means the Soybean Program Coordinating Committee established under section 6304(g) of this title.
+&emsp;The term "Committee" means the Soybean Program Coordinating Committee established under section 6304(g) of this title.
 
 #### (4) Consumer information
 
-&emsp;The term “consumer information” means information that will assist consumers and other persons in making evaluations and decisions regarding the purchase, preparation, and use of soybeans or soybean products.
+&emsp;The term "consumer information" means information that will assist consumers and other persons in making evaluations and decisions regarding the purchase, preparation, and use of soybeans or soybean products.
 
 #### (5) Department
 
-&emsp;The term “Department” means the Department of Agriculture.
+&emsp;The term "Department" means the Department of Agriculture.
 
 #### (6) First purchaser
 
-&emsp;The term “first purchaser” means—
+&emsp;The term "first purchaser" means—
 
 &emsp;&emsp;(A) except as provided in subparagraph (B), any person buying or otherwise acquiring from a producer soybeans produced by such producer; or
 
@@ -32,15 +32,15 @@ As used in this chapter:
 
 #### (7) Industry information
 
-&emsp;The term “industry information” means information and programs that will lead to the development of new markets, new marketing strategies, or increased efficiency for the soybean industry, and activities to enhance the image of the soybean industry.
+&emsp;The term "industry information" means information and programs that will lead to the development of new markets, new marketing strategies, or increased efficiency for the soybean industry, and activities to enhance the image of the soybean industry.
 
 #### (8) Marketing
 
-&emsp;The term “marketing” means the sale or other disposition of soybeans or soybean products in any channel of commerce.
+&emsp;The term "marketing" means the sale or other disposition of soybeans or soybean products in any channel of commerce.
 
 #### (9) Net market price
 
-&emsp;The term “net market price” means—
+&emsp;The term "net market price" means—
 
 &emsp;&emsp;(A) except as provided in subparagraph (B), the sales price or other value received by a producer for soybeans after adjustments for any premium or discount based on grading or quality factors, as determined by the Secretary; or
 
@@ -48,23 +48,23 @@ As used in this chapter:
 
 #### (10) Order
 
-&emsp;The term “order” means an order issued under section 6303 of this title.
+&emsp;The term "order" means an order issued under section 6303 of this title.
 
 #### (11) Person
 
-&emsp;The term “person” means any individual, group of individuals, partnership, corporation, association, cooperative, or any other legal entity.
+&emsp;The term "person" means any individual, group of individuals, partnership, corporation, association, cooperative, or any other legal entity.
 
 #### (12) Producer
 
-&emsp;The term “producer” means any person engaged in the growing of soybeans in the United States who owns, or who shares the ownership and risk of loss of, such soybeans.
+&emsp;The term "producer" means any person engaged in the growing of soybeans in the United States who owns, or who shares the ownership and risk of loss of, such soybeans.
 
 #### (13) Promotion
 
-&emsp;The term “promotion” means any action, including paid advertising, technical assistance, and trade servicing activities, to enhance the image or desirability of soybeans or soybean products in domestic and foreign markets, and any activity designed to communicate to consumers, importers, processors, wholesalers, retailers, government officials, or others information relating to the positive attributes of soybeans or soybean products or the benefits of importation, use, or distribution of soybeans and soybean products.
+&emsp;The term "promotion" means any action, including paid advertising, technical assistance, and trade servicing activities, to enhance the image or desirability of soybeans or soybean products in domestic and foreign markets, and any activity designed to communicate to consumers, importers, processors, wholesalers, retailers, government officials, or others information relating to the positive attributes of soybeans or soybean products or the benefits of importation, use, or distribution of soybeans and soybean products.
 
 #### (14) Qualified State soybean board
 
-&emsp;The term “qualified State soybean board” means a State soybean promotion entity that is authorized by State law. If no such entity exists in a State, the term “qualified State soybean board” means a soybean producer-governed entity—
+&emsp;The term "qualified State soybean board" means a State soybean promotion entity that is authorized by State law. If no such entity exists in a State, the term "qualified State soybean board" means a soybean producer-governed entity—
 
 &emsp;&emsp;(A) that is organized and operating within a State;
 
@@ -74,23 +74,23 @@ As used in this chapter:
 
 #### (15) Research
 
-&emsp;The term “research” means any type of study to advance the image, desirability, marketability, production, product development, quality, or functional or nutritional value of soybeans or soybean products, including any research activity designed to identify and analyze barriers to export sales of soybeans and soybean products.
+&emsp;The term "research" means any type of study to advance the image, desirability, marketability, production, product development, quality, or functional or nutritional value of soybeans or soybean products, including any research activity designed to identify and analyze barriers to export sales of soybeans and soybean products.
 
 #### (16) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 #### (17) Soybean products
 
-&emsp;The term “soybean products” means products produced in whole or in part from soybeans or soybean by-products.
+&emsp;The term "soybean products" means products produced in whole or in part from soybeans or soybean by-products.
 
 #### (18) Soybeans
 
-&emsp;The term “soybeans” means all varieties of Glycine max or Glycine soya.
+&emsp;The term "soybeans" means all varieties of Glycine max or Glycine soya.
 
 #### (19) State
 
-&emsp;The terms “State” and “United States” consist of the 50 States of the United States of America, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;The terms "State" and "United States" consist of the 50 States of the United States of America, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (Pub. L. 101–624, title XIX, §1967, Nov. 28, 1990, 104 Stat. 3882.)
 

@@ -32,7 +32,7 @@ A covered entity—
 
 &emsp;&emsp;(A) employees comply with the standards established in such regulations of the Department of Defense, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) that apply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Department of Defense);
 
-&emsp;&emsp;(B) employees comply with the standards established in such regulations of the Nuclear Regulatory Commission, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) that apply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Nuclear Regulatory Commission); and
+&emsp;&emsp;(B) employees comply with the standards established in such regulations of the Nuclear Regulatory Commission, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) that apply to employment in sensitive positionsin such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Nuclear Regulatory Commission); and
 
 &emsp;&emsp;(C) employees comply with the standards established in such regulations of the Department of Transportation, if the employees of the covered entity are employed in a transportation industry subject to such regulations, including complying with such regulations (if any) that apply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Department of Transportation).
 
@@ -58,15 +58,15 @@ Nothing in this subchapter shall be construed to encourage, prohibit, restrict, 
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Codification
 
-In subsec. (c)(3), “chapter 81 of title 41” substituted for “the Drug-Free Workplace Act of 1988 (41 U.S.C. 701 et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(3), "chapter 81 of title 41" substituted for "the Drug-Free Workplace Act of 1988 (41 U.S.C. 701 et seq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–325 substituted “a qualified individual with a disability shall” for “the term ‘qualified individual with a disability’ shall”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–325 substituted "a qualified individual with a disability shall" for "the term 'qualified individual with a disability' shall".
 
 #### Effective Date of 2008 Amendment
 

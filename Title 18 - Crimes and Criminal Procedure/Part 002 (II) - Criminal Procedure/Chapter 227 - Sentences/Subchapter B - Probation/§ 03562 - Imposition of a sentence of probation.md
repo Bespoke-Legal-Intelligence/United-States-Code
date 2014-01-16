@@ -28,7 +28,7 @@ For a prior section 3562, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b)(2). Pub. L. 101–647 inserted “of the Federal Rules of Criminal Procedure” after “rule 35”.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–647 inserted "of the Federal Rules of Criminal Procedure" after "rule 35".
 
 #### Effective Date
 

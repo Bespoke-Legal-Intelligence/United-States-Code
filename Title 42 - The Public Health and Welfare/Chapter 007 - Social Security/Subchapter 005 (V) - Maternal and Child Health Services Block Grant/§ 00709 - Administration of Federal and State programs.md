@@ -18,7 +18,7 @@
 
 &emsp;(8) developing and making available to the State agency (or agencies) administering the State's program under this subchapter a national directory listing by State the toll-free numbers described in section 705(a)(5)(E) of this title.
 
-(b) The State health agency of each State shall be responsible for the administration (or supervision of the administration) of programscarried out with allotments made to the State under this subchapter, except that, in the case of a State which on July 1, 1967, provided for administration (or supervision thereof) of the State plan under this subchapter (as in effect on such date) by a State agency other than the State health agency, that State shall be considered to comply <sup>2</sup> the requirement of this subsection if it would otherwise comply but for the fact that such other State agency administers (or supervises the administration of) any such program providing services for children with special health care needs.
+(b) The State health agency of each State shall be responsible for the administration (or supervision of the administration) of programs carried out with allotments made to the State under this subchapter, except that, in the case of a State which on July 1, 1967, provided for administration (or supervision thereof) of the State plan under this subchapter (as in effect on such date) by a State agency other than the State health agency, that State shall be considered to comply <sup>2</sup> the requirement of this subsection if it would otherwise comply but for the fact that such other State agency administers (or supervises the administration of) any such program providing services for children with special health care needs.
 
 (Aug. 14, 1935, ch. 531, title V, §509, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 825; amended Pub. L. 99–272, title IX, §9527(e), Apr. 7, 1986, 100 Stat. 219; Pub. L. 101–239, title VI, §§6503(c)(4), 6505, Dec. 19, 1989, 103 Stat. 2278, 2281.)
 
@@ -30,13 +30,13 @@ Provisions similar to those comprising former section 709, were contained in sec
 
 #### Amendments
 
-<b>1989</b>—Subsec. (a)(4). Pub. L. 101–239, §6505(1), inserted before semicolon at end “and in developing consistent and accurate data collection mechanisms in order to report the information required under section 706(a)(2) of this title”.
+<b>1989</b>—Subsec. (a)(4). Pub. L. 101–239, §6505(1), inserted before semicolon at end "and in developing consistent and accurate data collection mechanisms in order to report the information required under section 706(a)(2) of this title".
 
-Subsec. (a)(6). Pub. L. 101–239, §6503(c)(4), substituted “705(a)” for “705”.
+Subsec. (a)(6). Pub. L. 101–239, §6503(c)(4), substituted "705(a)" for "705".
 
 Subsec. (a)(7), (8). Pub. L. 101–239, §6505(2)–(4), added pars. (7) and (8).
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–272 substituted “children with special health care needs” for “crippled children”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–272 substituted "children with special health care needs" for "crippled children".
 
 #### Effective Date of 1989 Amendment
 
@@ -46,7 +46,7 @@ Amendment by section 6503(c)(4) of Pub. L. 101–239 applicable to payments for 
 
 Pub. L. 89–97, title II, §206, July 30, 1965, 79 Stat. 354, authorized Secretary to submit to President for transmission to Congress before July 1, 1969, a full report of administration of provisions of section 729–1 of this title, which was covered by former sections 701, 702(1)(B), and 709 of this title, together with an evaluation of program established thereby and his recommendations as to continuation of and modifications in that program.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “comply with”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "comply with".</i>
 

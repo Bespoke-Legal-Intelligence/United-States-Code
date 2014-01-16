@@ -32,11 +32,11 @@ A prior section 5043, act Aug. 16, 1954, ch. 736, 68A Stat. 610, consisted of pr
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–206 inserted “which are not transferred to a bonded wine cellar free of tax under section 5364” after “foreign wines”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–206 inserted "which are not transferred to a bonded wine cellar free of tax under section 5364" after "foreign wines".
 
-<b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–39 struck out “between bonded wine cellars” after “transfer of wine in bond”.
+<b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–39 struck out "between bonded wine cellars" after "transfer of wine in bond".
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted “The taxes” for “Except as provided in subsection (a)(3), the taxes”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted "The taxes" for "Except as provided in subsection (a)(3), the taxes".
 
 #### Effective Date of 1998 Amendment
 

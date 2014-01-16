@@ -6,7 +6,7 @@ Limitation.—Under regulations to be prescribed by the Secretary concerned, whi
 
 (b)
 
-Waiver.—With respect to a member of a reserve component who is to be ordered to active duty (other than for training) under section 12301 of this title pursuant to an order to active duty that specifies a period of less than 180 days and who (but for this subsection) would be covered by subsection (a), the Secretary concerned may require, as a condition of such order to active duty, that the member waive the applicability of subsection (a) to the member for the period of active duty covered by that order. In carrying out this subsection, the Secretary concerned may require that a waiver under the preceding sentence be executed before the period of active duty begins.
+Waiver.—With respect to a member of a reserve component who is to be ordered to active duty (other than for training) under section 12301 of this title pursuant to an order to active duty that specifies a period of less than 180 daysand who (but for this subsection) would be covered by subsection (a), the Secretary concerned may require, as a condition of such order to active duty, that the member waive the applicability of subsection (a) to the member for the period of active duty covered by that order. In carrying out this subsection, the Secretary concerned may require that a waiver under the preceding sentence be executed before the period of active duty begins.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(i)(1), Oct. 5, 1994, 108 Stat. 2998; amended Pub. L. 104–201, div. A, title V, §533, Sept. 23, 1996, 110 Stat. 2520; Pub. L. 108–375, div. A, title V, §522, Oct. 28, 2004, 118 Stat. 1888.)
 
@@ -16,7 +16,7 @@ Provisions similar to those in this section were contained in section 1163(d) of
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–375 inserted “(other than the retirement system under chapter 1223 of this title)” after “retirement system”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 inserted "(other than the retirement system under chapter 1223 of this title)" after "retirement system".
 
 <b>1996</b>—Pub. L. 104–201 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

@@ -32,19 +32,19 @@
 
 #### Codification
 
-In subsec. (a)(1), “section 6503(a) of title 31” substituted for “section 203 of the Intergovernmental Cooperation Act of 1968 \[42 U.S.C. 4213\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a)(1), "section 6503(a) of title 31" substituted for "section 203 of the Intergovernmental Cooperation Act of 1968 \[42 U.S.C. 4213\]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(2)(B). Pub. L. 105–285 struck out “and not transferred pursuant to section 8623(f) of this title” after “such prior fiscal year” in first sentence and “but not transferred by the State” after “the amount payable to a State” in second sentence.
+<b>1998</b>—Subsec. (b)(2)(B). Pub. L. 105–285 struck out "and not transferred pursuant to section 8623(f) of this title" after "such prior fiscal year" in first sentence and "but not transferred by the State" after "the amount payable to a State" in second sentence.
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–252 designated existing provisions as par. (1) and added par. (2).
 
-<b>1990</b>—Subsec. (b)(2)(B). Pub. L. 101–501 substituted “10 percent” for “15 percent”.
+<b>1990</b>—Subsec. (b)(2)(B). Pub. L. 101–501 substituted "10 percent" for "15 percent".
 
-<b>1984</b>—Subsec. (b)(2)(A). Pub. L. 98–558, §606(a), inserted “Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year.” and “or the amount payable to” after “computing the allotment of”.
+<b>1984</b>—Subsec. (b)(2)(A). Pub. L. 98–558, §606(a), inserted "Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year." and "or the amount payable to" after "computing the allotment of".
 
-Subsec. (b)(2)(B). Pub. L. 98–558, §606(b), substituted “15 percent” for “25 percent”, “payable to such State for such prior fiscal year and not transferred pursuant to section 8623(f) of this title” for “allotted to such State for such prior fiscal year”, and “payable to a State but not transferred by the State” for “allotted to a State” in second sentence.
+Subsec. (b)(2)(B). Pub. L. 98–558, §606(b), substituted "15 percent" for "25 percent", "payable to such State for such prior fiscal year and not transferred pursuant to section 8623(f) of this title" for "allotted to such State for such prior fiscal year", and "payable to a State but not transferred by the State" for "allotted to a State" in second sentence.
 
 Subsec. (b)(2)(C). Pub. L. 98–558, §606(c), added subpar. (C).
 

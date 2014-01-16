@@ -4,11 +4,11 @@ In this chapter:
 
 #### (1) Agricultural commodity
 
-&emsp;The term “agricultural commodity” has the meaning given the term in section 102 of the Agricultural Trade Act of 1978 (7 U.S.C. 5602).
+&emsp;The term "agricultural commodity" has the meaning given the term in section 102 of the Agricultural Trade Act of 1978 (7 U.S.C. 5602).
 
 #### (2) Agricultural program
 
-&emsp;The term “agricultural program” means—
+&emsp;The term "agricultural program" means—
 
 &emsp;&emsp;(A) any program administered under the Food for Peace Act (7 U.S.C. 1691 et seq.);
 
@@ -24,23 +24,23 @@ In this chapter:
 
 #### (3) Joint resolution
 
-&emsp;The term “joint resolution” means—
+&emsp;The term "joint resolution" means—
 
-&emsp;&emsp;(A) in the case of section 7202(a)(1) of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7202(a)(1) of this title is received by Congress, the matter after the resolving clause of which is as follows: “That Congress approves the report of the President pursuant to section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.”, with the blank completed with the appropriate date; and
+&emsp;&emsp;(A) in the case of section 7202(a)(1) of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7202(a)(1) of this title is received by Congress, the matter after the resolving clause of which is as follows: "That Congress approves the report of the President pursuant to section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.", with the blank completed with the appropriate date; and
 
-&emsp;&emsp;(B) in the case of section 7205(1) <sup>1</sup> of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7205(2) <sup>1</sup> of this title is received by Congress, the matter after the resolving clause of which is as follows: “That Congress approves the report of the President pursuant to section 906(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.”, with the blank completed with the appropriate date.
+&emsp;&emsp;(B) in the case of section 7205(1) <sup>1</sup> of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7205(2) <sup>1</sup> of this title is received by Congress, the matter after the resolving clause of which is as follows: "That Congress approves the report of the President pursuant to section 906(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.", with the blank completed with the appropriate date.
 
 #### (4) Medical device
 
-&emsp;The term “medical device” has the meaning given the term “device” in section 321 of title 21.
+&emsp;The term "medical device" has the meaning given the term "device" in section 321 of title 21.
 
 #### (5) Medicine
 
-&emsp;The term “medicine” has the meaning given the term “drug” in section 321 of title 21.
+&emsp;The term "medicine" has the meaning given the term "drug" in section 321 of title 21.
 
 #### (6) Unilateral agricultural sanction
 
-&emsp;The term “unilateral agricultural sanction” means any prohibition, restriction, or condition on carrying out an agricultural program with respect to a foreign country or foreign entity that is imposed by the United States for reasons of foreign policy or national security, except in a case in which the United States imposes the measure pursuant to—
+&emsp;The term "unilateral agricultural sanction" means any prohibition, restriction, or condition on carrying out an agricultural program with respect to a foreign country or foreign entity that is imposed by the United States for reasons of foreign policy or national security, except in a case in which the United States imposes the measure pursuant to—
 
 &emsp;&emsp;(A) a multilateral regime and the other member countries of that regime have agreed to impose substantially equivalent measures; or
 
@@ -48,7 +48,7 @@ In this chapter:
 
 #### (7) Unilateral medical sanction
 
-&emsp;The term “unilateral medical sanction” means any prohibition, restriction, or condition on exports of, or the provision of assistance consisting of, medicine or a medical device with respect to a foreign country or foreign entity that is imposed by the United States for reasons of foreign policy or national security, except in a case in which the United States imposes the measure pursuant to—
+&emsp;The term "unilateral medical sanction" means any prohibition, restriction, or condition on exports of, or the provision of assistance consisting of, medicine or a medical device with respect to a foreign country or foreign entity that is imposed by the United States for reasons of foreign policy or national security, except in a case in which the United States imposes the measure pursuant to—
 
 &emsp;&emsp;(A) a multilateral regime and the other member countries of that regime have agreed to impose substantially equivalent measures; or
 
@@ -68,7 +68,7 @@ Section 906 of the Trade Sanctions Reform and Export Enhancement Act of 2000, re
 
 #### Amendments
 
-<b>2008</b>—Par. (2)(A). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Par. (2)(A). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
 
 #### Effective Date of 2008 Amendment
 
@@ -78,21 +78,21 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 Pub. L. 106–387, §1(a) \[title IX, §911\], Oct. 28, 2000, 114 Stat. 1549, 1549A–72, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as provided in subsection (b), this title \[enacting this chapter\] shall take effect on the date of enactment of this Act \[Oct. 28, 2000\], and shall apply thereafter in any fiscal year.
 
-“(b)
+"(b)
 
-Existing Sanctions.—In the case of any unilateral agricultural sanction or unilateral medical sanction that is in effect as of the date of enactment of this Act, this title shall take effect 120 days after the date of enactment of this Act, and shall apply thereafter in any fiscal year.”
+Existing Sanctions.—In the case of any unilateral agricultural sanction or unilateral medical sanction that is in effect as of the date of enactment of this Act, this title shall take effect 120 days after the date of enactment of this Act, and shall apply thereafter in any fiscal year."
 
 #### Short Title
 
-Pub. L. 106–387, §1(a) \[title IX, §901\], Oct. 28, 2000, 114 Stat. 1549, 1549A–67, provided that: “This title \[enacting this chapter\] may be cited as the ‘Trade Sanctions Reform and Export Enhancement Act of 2000’.”
+Pub. L. 106–387, §1(a) \[title IX, §901\], Oct. 28, 2000, 114 Stat. 1549, 1549A–67, provided that: "This title \[enacting this chapter\] may be cited as the 'Trade Sanctions Reform and Export Enhancement Act of 2000'."
 
 #### Definitions
 
-Pub. L. 106–387, §1(a) \[title VII, §775\], Oct. 28, 2000, 114 Stat. 1549, 1549A–45, provided that: “For purposes of administering title IX of this Act \[enacting this chapter\], the term ‘agricultural commodity’ shall also include fertilizer and organic fertilizer, except to the extent provided pursuant to section 904 of that title \[22 U.S.C. 7203\].”
+Pub. L. 106–387, §1(a) \[title VII, §775\], Oct. 28, 2000, 114 Stat. 1549, 1549A–45, provided that: "For purposes of administering title IX of this Act \[enacting this chapter\], the term 'agricultural commodity' shall also include fertilizer and organic fertilizer, except to the extent provided pursuant to section 904 of that title \[22 U.S.C. 7203\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “7204”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "7204".</i>
 

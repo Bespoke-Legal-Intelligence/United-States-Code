@@ -8,11 +8,11 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “authorized equipment” means any equipment necessary for the management of forest land.
+&emsp;&emsp;The term "authorized equipment" means any equipment necessary for the management of forest land.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “authorized equipment” includes—
+&emsp;&emsp;The term "authorized equipment" includes—
 
 &emsp;&emsp;&emsp;(i) cherry pickers;
 
@@ -32,15 +32,15 @@ In this section:
 
 #### (2) Fund
 
-&emsp;The term “Fund” means the Pest and Disease Revolving Loan Fund established by subsection (b).
+&emsp;The term "Fund" means the Pest and Disease Revolving Loan Fund established by subsection (b).
 
 #### (3) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture, acting through the Deputy Chief of the State and Private Forestry organization.
+&emsp;The term "Secretary" means the Secretary of Agriculture, acting through the Deputy Chief of the State and Private Forestry organization.
 
 #### (b) Establishment of Fund
 
-There is established in the Treasury of the United States a revolving fund, to be known as the “Pest and Disease Revolving Loan Fund”, consisting of such amounts as are appropriated to the Fund under subsection (f).
+There is established in the Treasury of the United States a revolving fund, to be known as the "Pest and Disease Revolving Loan Fund", consisting of such amounts as are appropriated to the Fund under subsection (f).
 
 #### (c) Expenditures from Fund
 

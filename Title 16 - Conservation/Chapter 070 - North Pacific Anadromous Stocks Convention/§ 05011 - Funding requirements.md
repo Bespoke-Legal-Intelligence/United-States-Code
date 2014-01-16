@@ -6,7 +6,7 @@ There are authorized to be appropriated from time to time such sums as may be ne
 
 &emsp;(1) necessary travel expenses of the United States Commissioners or Alternate Commissioners; and
 
-&emsp;(2) the United States’ share of the joint expenses of the Commission.
+&emsp;(2) the United States' share of the joint expenses of the Commission.
 
 #### (b) Research
 

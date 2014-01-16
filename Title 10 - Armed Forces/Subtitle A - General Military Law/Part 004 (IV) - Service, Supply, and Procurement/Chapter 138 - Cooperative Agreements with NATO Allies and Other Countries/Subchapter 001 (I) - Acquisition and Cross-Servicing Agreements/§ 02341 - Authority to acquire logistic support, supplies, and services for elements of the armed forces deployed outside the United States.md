@@ -18,35 +18,35 @@ Subject to section 2343 of this title and subject to the availability of appropr
 
 #### Amendments
 
-<b>2006</b>—Par. (1). Pub. L. 109–163 struck out “of which the United States is a member” before “logistic support”.
+<b>2006</b>—Par. (1). Pub. L. 109–163 struck out "of which the United States is a member" before "logistic support".
 
-<b>1994</b>—Par. (1). Pub. L. 103–337 substituted a comma for “and” after “countries” and inserted “, and from the United Nations Organization or any regional international organization of which the United States is a member” after “subsidiary bodies”.
+<b>1994</b>—Par. (1). Pub. L. 103–337 substituted a comma for "and" after "countries" and inserted ", and from the United Nations Organization or any regional international organization of which the United States is a member" after "subsidiary bodies".
 
-<b>1992</b>—Par. (1). Pub. L. 102–484, §1312(a)(1), substituted “outside the United States” for “in Europe and adjacent waters”.
+<b>1992</b>—Par. (1). Pub. L. 102–484, §1312(a)(1), substituted "outside the United States" for "in Europe and adjacent waters".
 
-Par. (2). Pub. L. 102–484, §1312(a)(2), in introductory provisions, struck out “in which elements of the armed forces are deployed (or are to be deployed)” after “North Atlantic Treaty Organization” and substituted “outside the United States” for “in such country or in the military region in which such country is located”.
+Par. (2). Pub. L. 102–484, §1312(a)(2), in introductory provisions, struck out "in which elements of the armed forces are deployed (or are to be deployed)" after "North Atlantic Treaty Organization" and substituted "outside the United States" for "in such country or in the military region in which such country is located".
 
-<b>1986</b>—Pub. L. 99–661 substituted “elements of the armed forces deployed outside the United States” for “United States armed forces in Europe” in section catchline.
+<b>1986</b>—Pub. L. 99–661 substituted "elements of the armed forces deployed outside the United States" for "United States armed forces in Europe" in section catchline.
 
 Pub. L. 99–661 amended section generally, restating existing provisions into introductory text and par. (1) and adding par. (2).
 
-<b>1985</b>—Pub. L. 99–145 renumbered section 2321 of this title as this section and substituted “section 2343” for “section 2323”.
+<b>1985</b>—Pub. L. 99–145 renumbered section 2321 of this title as this section and substituted "section 2343" for "section 2323".
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–337, div. A, title XIII, §1317(j), Oct. 5, 1994, 108 Stat. 2902, provided that: “The amendments made by this section \[enacting section 2349a of this title and amending this section and sections 2342 to 2347 and 2350 of this title\] shall apply with regard to any acquisition or transfer of logistic support, supplies, and services under the authority of subchapter I of chapter 138 of title 10, United States Code, that is initiated after the date of the enactment of this Act \[Oct. 5, 1994\].”
+Pub. L. 103–337, div. A, title XIII, §1317(j), Oct. 5, 1994, 108 Stat. 2902, provided that: "The amendments made by this section \[enacting section 2349a of this title and amending this section and sections 2342 to 2347 and 2350 of this title\] shall apply with regard to any acquisition or transfer of logistic support, supplies, and services under the authority of subchapter I of chapter 138 of title 10, United States Code, that is initiated after the date of the enactment of this Act \[Oct. 5, 1994\]."
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–484, div. A, title XIII, §1312(c), Oct. 23, 1992, 106 Stat. 2548, provided that: “The amendments made by this section \[amending this section and section 2347 of this title\] shall take effect on the date of enactment of this Act \[Oct. 23, 1992\] and shall apply to acquisitions of logistics support, supplies, and services under chapter 138 of title 10, United States Code, that are initiated on or after the date of enactment of this Act.”
+Pub. L. 102–484, div. A, title XIII, §1312(c), Oct. 23, 1992, 106 Stat. 2548, provided that: "The amendments made by this section \[amending this section and section 2347 of this title\] shall take effect on the date of enactment of this Act \[Oct. 23, 1992\] and shall apply to acquisitions of logistics support, supplies, and services under chapter 138 of title 10, United States Code, that are initiated on or after the date of enactment of this Act."
 
 #### Short Title
 
-Pub. L. 96–323, §1, Aug. 4, 1980, 94 Stat. 1016, provided: “That this Act \[enacting this chapter\] may be cited as the ‘North Atlantic Treaty Organization Mutual Support Act of 1979’.”
+Pub. L. 96–323, §1, Aug. 4, 1980, 94 Stat. 1016, provided: "That this Act \[enacting this chapter\] may be cited as the 'North Atlantic Treaty Organization Mutual Support Act of 1979'."
 
 #### Acceptance of Real Property, Services, and Commodities From Foreign Countries by Agencies of Department of Defense
 
-Pub. L. 101–165, title IX, §9008, Nov. 21, 1989, 103 Stat. 1130, which authorized agencies of Department of Defense to accept use of real property from foreign countries for United States in accordance with mutual defense agreements or occupational arrangements and to accept services furnished by foreign countries as reciprocal international courtesies or as services customarily made available without charge and to use same for support of United States forces in such areas withoutspecific appropriation therefor, was repealed and restated in section 2350g of this title by Pub. L. 101–510, div. A, title XIV, §1451(b)(1), (c), Nov. 5, 1990, 104 Stat. 1692, 1693.
+Pub. L. 101–165, title IX, §9008, Nov. 21, 1989, 103 Stat. 1130, which authorized agencies of Department of Defense to accept use of real property from foreign countries for United States in accordance with mutual defense agreements or occupational arrangements and to accept services furnished by foreign countries as reciprocal international courtesies or as services customarily made available without charge and to use same for support of United States forces in such areas without specific appropriation therefor, was repealed and restated in section 2350g of this title by Pub. L. 101–510, div. A, title XIV, §1451(b)(1), (c), Nov. 5, 1990, 104 Stat. 1692, 1693.
 
 #### Overseas Workload Program
 

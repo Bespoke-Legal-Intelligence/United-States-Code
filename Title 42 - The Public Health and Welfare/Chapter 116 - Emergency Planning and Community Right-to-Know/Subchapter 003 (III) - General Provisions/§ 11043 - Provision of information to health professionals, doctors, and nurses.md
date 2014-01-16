@@ -2,7 +2,7 @@
 
 #### (a) Diagnosis or treatment by health professional
 
-An owner or operator of a facility which is subject to the requirements of section 11021, 11022, or 11023 of this title shall provide the specific chemical identity, if known, of a hazardous chemical, extremely hazardous substance, or a toxic chemical to any health professional who requests such information in writing if the health professional provides a written statement of need under this subsection and a written confidentiality agreement under subsection (d) of this section. The written statement of needshall be a statement that the health professional has a reasonable basis to suspect that—
+An owner or operator of a facility which is subject to the requirements of section 11021, 11022, or 11023 of this title shall provide the specific chemical identity, if known, of a hazardous chemical, extremely hazardous substance, or a toxic chemical to any health professional who requests such information in writing if the health professional provides a written statement of need under this subsection and a written confidentiality agreement under subsection (d) of this section. The written statement of need shall be a statement that the health professional has a reasonable basis to suspect that—
 
 &emsp;(1) the information is needed for purposes of diagnosis or treatment of an individual,
 
@@ -22,7 +22,7 @@ An owner or operator of a facility which is subject to the requirements of secti
 
 &emsp;(3) the individual or individuals being diagnosed or treated have been exposed to the chemical concerned.
 
-> Immediately following such a request, the owner or operator to whom such request is made shall provide the requested information to the physician or nurse. The authority to withhold the specific chemical identity of a chemical from a material safety data sheet, an inventory form, or a toxic chemical release form under section 11042 of this title when such information is a trade secret shall not apply to information required to be provided to a treating physician or nurse under this subsection. No written confidentiality agreement or statement of need shall be required as a precondition of such disclosure, but the owner or operator disclosing such information may require a written confidentiality agreement in accordance with subsection (d) of this section and a statement setting forth the items listed in paragraphs (1) through (3) as soon as circumstances permit.
+> Immediately following such a request, the owner or operator to whom such request is made shall provide the requested information to the physician or nurse. The authority to withhold the specific chemical identity of a chemical from a material safety data sheet, an inventory form,or a toxic chemical release form under section 11042 of this title when such information is a trade secret shall not apply to information required to be provided to a treating physician or nurse under this subsection. No written confidentiality agreement or statement of need shall be required as a precondition of such disclosure, but the owner or operator disclosing such information may require a written confidentiality agreement in accordance with subsection (d) of this section and a statement setting forth the items listed in paragraphs (1) through (3) as soon as circumstances permit.
 
 #### (c) Preventive measures by local health professionals
 
@@ -62,5 +62,5 @@ As soon as practicable after October 17, 1986, the Administrator shall promulgat
 
 (Pub. L. 99–499, title III, §323, Oct. 17, 1986, 100 Stat. 1750.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsections".</i>
 

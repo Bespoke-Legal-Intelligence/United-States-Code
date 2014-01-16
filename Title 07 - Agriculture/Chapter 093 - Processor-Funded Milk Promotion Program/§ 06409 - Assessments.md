@@ -44,5 +44,5 @@ Except as provided in section 6415(b) of this title, the rate of assessment pres
 
 #### Amendments
 
-<b>1993</b>—Subsec. (e). Pub. L. 103–72 inserted “, and that are fluid milk processors,” after “section 4504(g) of this title”.
+<b>1993</b>—Subsec. (e). Pub. L. 103–72 inserted ", and that are fluid milk processors," after "section 4504(g) of this title".
 

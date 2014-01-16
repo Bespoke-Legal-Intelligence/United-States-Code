@@ -30,23 +30,25 @@ Coordination With Other Accession Bonus Authority.—A person eligible to execut
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2013.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2014.
 
-(Added Pub. L. 109–364, div. A, title VI, §617(c), Oct. 17, 2006, 120 Stat. 2250; amended Pub. L. 110–181, div. A, title VI, §612(i), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §612(i), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §612(b)(8), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(8), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(8), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §612(b)(8), Jan. 2, 2013, 126 Stat. 1776.)
+(Added Pub. L. 109–364, div. A, title VI, §617(c), Oct. 17, 2006, 120 Stat. 2250; amended Pub. L. 110–181, div. A, title VI, §612(i), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §612(i), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §612(b)(8), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(8), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(8), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §612(b)(8), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §612(b)(8), Dec. 26, 2013, 127 Stat. 780.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+<b>2013</b>—Subsec. (g). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
-<b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-<b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-<b>2008</b>—Subsec. (g). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+<b>2008</b>—Subsec. (g). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
+
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
 #### Effective Date of 2008 Amendment
 

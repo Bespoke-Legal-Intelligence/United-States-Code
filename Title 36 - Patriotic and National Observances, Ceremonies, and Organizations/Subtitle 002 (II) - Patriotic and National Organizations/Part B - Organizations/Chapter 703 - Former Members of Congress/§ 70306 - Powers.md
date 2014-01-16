@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Jan. 8, 1983, Pub. L. 97–427, §2, 96 Stat. 2265.
 
-The words “and subject to the laws of such State of States” are omitted as unnecessary.
+The words "and subject to the laws of such State of States" are omitted as unnecessary.
 

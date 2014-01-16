@@ -10,27 +10,29 @@
 
 &emsp;(3) the authority provided by this subsection may not be used to acquire items or services for the principal benefit of the United States.
 
-(c) Any funds expended under the authority of subsection (a) shall be reported to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.). Funds expended under the authority of subsection (b) shall be reported pursuant to procedures jointly agreed upon by such committees and the Secretary of Defense.
+(c) Any funds expended under the authority of subsection (a) shall be reported to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.).<sup>1</sup> Funds expended under the authority of subsection (b) shall be reported pursuant to procedures jointly agreed upon by such committees and the Secretary of Defense.
 
 (Added Pub. L. 96–450, title IV, §401(a), Oct. 14, 1980, 94 Stat. 1977, §140a; amended Pub. L. 97–258, §3(b)(2), Sept. 13, 1982, 96 Stat. 1063; renumbered §128 and amended Pub. L. 99–433, title I, §§101(a)(3), 110(d)(5), Oct. 1, 1986, 100 Stat. 994, 1002; renumbered §421, Pub. L. 100–26, §9(a)(2), Apr. 21, 1987, 101 Stat. 287; Pub. L. 100–453, title VII, §701(a), Sept. 29, 1988, 102 Stat. 1911; Pub. L. 101–189, div. A, title XVI, §1622(c)(3), Nov. 29, 1989, 103 Stat. 1604.)
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. Title V of the Act is classified generally to subchapter III (§413 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50 and Tables.
+The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted “House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.). Funds” for “House pursuant to the provisions of title V of the National Security Act of 1947, as amended, and funds”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted "House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.). Funds" for "House pursuant to the provisions of title V of the National Security Act of 1947, as amended, and funds".
 
-<b>1988</b>—Pub. L. 100–453 struck out “transfers” after “Funds” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense may use funds available to the Department of Defense for intelligence and communications purposes to pay for the expenses of arrangements with foreign countries for cryptologic support.”
+<b>1988</b>—Pub. L. 100–453 struck out "transfers" after "Funds" in section catchline and amended text generally. Prior to amendment, text read as follows: "The Secretary of Defense may use funds available to the Department of Defense for intelligence and communications purposes to pay for the expenses of arrangements with foreign countries for cryptologic support."
 
 <b>1987</b>—Pub. L. 100–26 renumbered section 128 of this title as this section.
 
-<b>1986</b>—Pub. L. 99–433 renumbered section 140a of this title as section 128 of this title and substituted “Funds” for “Secretary of Defense: funds” in section catchline.
+<b>1986</b>—Pub. L. 99–433 renumbered section 140a of this title as section 128 of this title and substituted "Funds" for "Secretary of Defense: funds" in section catchline.
 
 <b>1982</b>—Pub. L. 97–258 struck out provision that payments under this section could be made without regard to section 3651 of the Revised Statutes of the United States (31 U.S.C. 543).
 
 #### Comprehensive Independent Study of National Cryptography Policy
 
 Pub. L. 103–160, div. A, title II, §267, Nov. 30, 1993, 107 Stat. 1611, directed Secretary of Defense, not later than 90 days after Nov. 30, 1993, to request National Research Council of National Academy of Sciences to conduct a comprehensive study to assess effect of cryptographic technologies on national security, law enforcement, commercial, and privacy interests, and effect of export controls on commercial interests, with cooperation of other agencies, and report findings and conclusions within 2 years after processing of security clearances to Secretary of Defense, and directed Secretary to submit a report in unclassified form to Committee on Armed Services, Committee on the Judiciary, and Select Committee on Intelligence of Senate and to Committee on Armed Services, Committee on the Judiciary, and Permanent Select Committee on Intelligence of House of Representatives, not later than 120 days after the report is submitted to the Secretary.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

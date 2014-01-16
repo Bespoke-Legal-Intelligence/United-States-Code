@@ -6,7 +6,7 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;The term “first retail sale” means the first sale, for a purpose other than for resale or leasing in a long-term lease, after production, manufacture, or importation.
+&emsp;The term "first retail sale" means the first sale, for a purpose other than for resale or leasing in a long-term lease, after production, manufacture, or importation.
 
 #### (2) Leases considered as sales
 
@@ -68,7 +68,7 @@ For purposes of this subchapter—
 
 #### (B) Presumed markup percentage
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “presumed markup percentage” means the average markup percentage of retailers of articles of the type involved, as determined by the Secretary.
+&emsp;&emsp;For purposes of subparagraph (A), the term "presumed markup percentage" means the average markup percentage of retailers of articles of the type involved, as determined by the Secretary.
 
 #### (C) Exceptions under regulations
 
@@ -90,7 +90,7 @@ For purposes of this subchapter—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “related person” means any person who is a member of the same controlled group (within the meaning of section 5061(e)(3)) as the manufacturer, producer, or importer.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "related person" means any person who is a member of the same controlled group (within the meaning of section 5061(e)(3)) as the manufacturer, producer, or importer.
 
 #### (ii) Exception for retail establishment
 
@@ -112,7 +112,7 @@ Under regulations prescribed by the Secretary, rules similar to the rules of sub
 
 #### (e) Long-term lease
 
-For purposes of this section, the term “long-term lease” means any lease with a term of 1 year or more. In determining a lease term for purposes of the preceding sentence, the rules of section 168(i)(3)(A) shall apply.
+For purposes of this section, the term "long-term lease" means any lease with a term of 1 year or more. In determining a lease term for purposes of the preceding sentence, the rules of section 168(i)(3)(A) shall apply.
 
 #### (f) Certain repairs and modifications not treated as manufacture
 
@@ -136,17 +136,17 @@ A prior section 4052, act Aug. 16, 1954, ch. 736, 68A Stat. 479, provided that l
 
 #### Amendments
 
-<b>1998</b>—Subsec. (f)(2). Pub. L. 105–206 substituted “such section” for “this section”.
+<b>1998</b>—Subsec. (f)(2). Pub. L. 105–206 substituted "such section" for "this section".
 
-<b>1997</b>—Subsec. (b)(1)(B)(ii) to (iv). Pub. L. 105–34, §1402(b), inserted “and” at end of cl. (ii), redesignated cl. (iv) as (iii), and struck out former cl. (iii) which read as follows: “the fair market value (including any tax imposed by section 4071) at retail of any tires (not including any metal rim or rim base), and”.
+<b>1997</b>—Subsec. (b)(1)(B)(ii) to (iv). Pub. L. 105–34, §1402(b), inserted "and" at end of cl. (ii), redesignated cl. (iv) as (iii), and struck out former cl. (iii) which read as follows: "the fair market value (including any tax imposed by section 4071) at retail of any tires (not including any metal rim or rim base), and".
 
-Subsec. (d). Pub. L. 105–34, §1434(b)(1), substituted “rules of subsections (c) and (d) of section 4216 (relating to partial payments) shall apply” for “rules of—
+Subsec. (d). Pub. L. 105–34, §1434(b)(1), substituted "rules of subsections (c) and (d) of section 4216 (relating to partial payments) shall apply" for "rules of—
 
-&emsp;“(1) subsections (c) and (d) of section 4216 (relating to partial payments), and
+&emsp;"(1) subsections (c) and (d) of section 4216 (relating to partial payments), and
 
-&emsp;“(2) section 4222 (relating to registration),
+&emsp;"(2) section 4222 (relating to registration),
 
-> shall apply”.
+> shall apply".
 
 Subsec. (e). Pub. L. 105–34, §1434(a), redesignated subsec. (f) as (e).
 
@@ -154,9 +154,9 @@ Subsec. (f). Pub. L. 105–34, §1434(a), added subsec. (f). Former subsec. (f) 
 
 Subsec. (g). Pub. L. 105–34, §1434(b)(2), added subsec. (g).
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647 substituted “production, manufacture” for “manufacture, production”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647 substituted "production, manufacture" for "manufacture, production".
 
-<b>1987</b>—Subsec. (a)(1). Pub. L. 100–17, §505(a), inserted “or leasing in a long-term lease” after “resale”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–17, §505(a), inserted "or leasing in a long-term lease" after "resale".
 
 Subsec. (b)(3). Pub. L. 100–17, §505(b), added par. (3).
 
@@ -166,7 +166,7 @@ Subsec. (f). Pub. L. 100–17, §505(c), added subsec. (f).
 
 <b>1984</b>—Subsec. (b)(1)(B)(iv). Pub. L. 98–369, §731, added cl. (iv).
 
-Subsec. (c). Pub. L. 98–369, §735(b)(2), in amending subsec. (c) generally, designated existing provisions as par. (1), in par. (1) as so designated substituted “by reason of merely combining such article with any article listed in paragraph (2)” for “with any equipment or other item listed in section 4063(d)”, and added par. (2).
+Subsec. (c). Pub. L. 98–369, §735(b)(2), in amending subsec. (c) generally, designated existing provisions as par. (1), in par. (1) as so designated substituted "by reason of merely combining such article with any article listed in paragraph (2)" for "with any equipment or other item listed in section 4063(d)", and added par. (2).
 
 #### Effective Date of 1998 Amendment
 
@@ -176,17 +176,17 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 Amendment by section 1402(b) of Pub. L. 105–34 effective Jan. 1, 1998, see section 1402(c) of Pub. L. 105–34, set out as a note under section 4051 of this title.
 
-Pub. L. 105–34, title XIV, §1434(c), Aug. 5, 1997, 111 Stat. 1052, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1998.”
+Pub. L. 105–34, title XIV, §1434(c), Aug. 5, 1997, 111 Stat. 1052, provided that: "The amendments made by this section \[amending this section\] shall take effect on January 1, 1998."
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title VI, §6111(b), Nov. 10, 1988, 102 Stat. 3713, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1988.”
+Pub. L. 100–647, title VI, §6111(b), Nov. 10, 1988, 102 Stat. 3713, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1988."
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–17, title V, §505(d), Apr. 2, 1987, 101 Stat. 259, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after the first day of the first calendar quarter which begins more than 90 days after the date of the enactment of this Act \[Apr. 2, 1987\].”
+Pub. L. 100–17, title V, §505(d), Apr. 2, 1987, 101 Stat. 259, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after the first day of the first calendar quarter which begins more than 90 days after the date of the enactment of this Act \[Apr. 2, 1987\]."
 
-Pub. L. 100–17, title V, §506(b), Apr. 2, 1987, 101 Stat. 259, provided that: “The amendment made by this section \[amending this section\] shall apply with respect toarticles sold by the manufacturer, producer, or importer on or after the 1st day of the 1st calendar quarter which begins more than 90 days after the date of the enactment of this Act \[Apr. 2, 1987\].”
+Pub. L. 100–17, title V, §506(b), Apr. 2, 1987, 101 Stat. 259, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after the 1st day of the 1st calendar quarter which begins more than 90 days after the date of the enactment of this Act \[Apr. 2, 1987\]."
 
 #### Effective Date of 1984 Amendment
 

@@ -10,15 +10,15 @@ Based on title 28, U.S.C., 1940 ed., §274 (Mar. 3, 1911, ch. 231, §186, 36 Sta
 
 A provision that a witness should not be disqualified by color was omitted as obsolete and unnecessary, since no such disqualification could be invoked in absence of statutory authority.
 
-A provision that the United States could examine any plaintiff or party interested is covered by the word “exempt” in the revised section, and by section 2504 of this title.
+A provision that the United States could examine any plaintiff or party interested is covered by the word "exempt" in the revised section, and by section 2504 of this title.
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims".
 
 #### Effective Date of 1992 Amendment
 

@@ -14,25 +14,25 @@ Provisions concerning the sale of property liable to perish or waste, etc., were
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–182, §667(1), substituted “the Customs Service” for “the appropriate customs officer” after “Whenever it appears to”, for “such officer” after “delivered under bond,”, for “such officer” before “shall forthwith transmit” and for “the customs officer” after “Whether such sale be made by” and substituted “its report of the seizure” for “the appraiser's return and his report of the seizure”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §667(1), substituted "the Customs Service" for "the appropriate customs officer" after "Whenever it appears to", for "such officer" after "delivered under bond,", for "such officer" before "shall forthwith transmit" and for "the customs officer" after "Whether such sale be made by" and substituted "its report of the seizure" for "the appraiser's return and his report of the seizure".
 
-Subsec. (b). Pub. L. 103–182, §667(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the expense of keeping the vessel, vehicle, aircraft, merchandise, or baggage is disproportionate to the value thereof, and such value is less than $1,000, such officer may proceed forthwith to order destruction or other appropriate disposition of such property, under regulations prescribed by the Secretary of the Treasury.”
+Subsec. (b). Pub. L. 103–182, §667(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "If the expense of keeping the vessel, vehicle, aircraft, merchandise, or baggage is disproportionate to the value thereof, and such value is less than $1,000, such officer may proceed forthwith to order destruction or other appropriate disposition of such property, under regulations prescribed by the Secretary of the Treasury."
 
 <b>1988</b>—Pub. L. 100–690 reenacted section substantially without change.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–573 designated existing provisions as subsec. (a), inserted reference to aircraft in six places and substituted “the value thereof, and such vessel” for “the value thereof, and the value of such vessel”, “is subject to section 1607 of this title” for “as determined under section 1606 of this title, does not exceed $10,000”, “If such vessel” for “If such value of such vessel”, and “baggage is not subject to section 1607 of this title,” for “baggage exceeds $10,000”, and added subsec. (b).
+<b>1984</b>—Subsec. (a). Pub. L. 98–573 designated existing provisions as subsec. (a), inserted reference to aircraft in six places and substituted "the value thereof, and such vessel" for "the value thereof, and the value of such vessel", "is subject to section 1607 of this title" for "as determined under section 1606 of this title, does not exceed $10,000", "If such vessel" for "If such value of such vessel", and "baggage is not subject to section 1607 of this title," for "baggage exceeds $10,000", and added subsec. (b).
 
 Pub. L. 98–473 amended section in manner substantially identical to amendment by Pub. L. 98–573, but did not add a subsec. (b) or provisions similar thereto.
 
-<b>1978</b>—Pub. L. 95–410 substituted “$10,000” for “$2,500” wherever appearing.
+<b>1978</b>—Pub. L. 95–410 substituted "$10,000" for "$2,500" wherever appearing.
 
 <b>1970</b>—Pub. L. 91–271 substituted references to appropriate customs officer or such officer for references to collector wherever appearing therein, and struck out references to appraiser and appraiser's return of value.
 
-<b>1954</b>—Act Sept. 1, 1954, substituted “$2,500” for “$1,000” wherever appearing.
+<b>1954</b>—Act Sept. 1, 1954, substituted "$2,500" for "$1,000" wherever appearing.
 
 #### Change of Name
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “United States district attorney”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Note thereunder.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorney" for "United States district attorney". See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Note thereunder.
 
 #### Effective Date of 1984 Amendment
 

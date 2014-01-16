@@ -66,15 +66,15 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “farming business” means the trade or business of farming (within the meaning of section 263A(e)(4)).
+&emsp;&emsp;The term "farming business" means the trade or business of farming (within the meaning of section 263A(e)(4)).
 
 #### (B) Timber and ornamental trees
 
-&emsp;&emsp;The term “farming business” includes the raising, harvesting, or growing of trees to which section 263A(c)(5) applies.
+&emsp;&emsp;The term "farming business" includes the raising, harvesting, or growing of trees to which section 263A(c)(5) applies.
 
 #### (2) Qualified personal service corporation
 
-&emsp;The term “qualified personal service corporation” means any corporation—
+&emsp;The term "qualified personal service corporation" means any corporation—
 
 &emsp;&emsp;(A) substantially all of the activities of which involve the performance of services in the fields of health, law, engineering, architecture, accounting, actuarial science, performing arts, or consulting, and
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (3) Tax shelter defined
 
-&emsp;The term “tax shelter” has the meaning given such term by section 461(i)(3) (determined after application of paragraph (4) thereof). An S corporation shall not be treated as a tax shelter for purposes of this section merely by reason of being required to file a notice of exemption from registration with a State agency described in section 461(i)(3)(A), but only if there is a requirement applicable to all corporations offering securities for sale in the State that to be exempt from such registration the corporation must file such a notice.
+&emsp;The term "tax shelter" has the meaning given such term by section 461(i)(3) (determined after application of paragraph (4) thereof). An S corporation shall not be treated as a tax shelter for purposes of this section merely by reason of being required to file a notice of exemption from registration with a State agency described in section 461(i)(3)(A), but only if there is a requirement applicable to all corporations offering securities for sale in the State that to be exempt from such registration the corporation must file such a notice.
 
 #### (4) Special rules for application of paragraph (2)
 
@@ -148,19 +148,19 @@ For purposes of this section—
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d)(5). Pub. L. 107–147 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of experience) will not be collected. This paragraph shall not apply to any amount if interest is required to be paid on such amount or there is any penalty for failure to timely pay such amount.”
+<b>2002</b>—Subsec. (d)(5). Pub. L. 107–147 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: "In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of experience) will not be collected. This paragraph shall not apply to any amount if interest is required to be paid on such amount or there is any penalty for failure to timely pay such amount."
 
 <b>1988</b>—Subsec. (c)(3)(D). Pub. L. 100–647, §1008(a)(9), added subpar. (D).
 
-Subsec. (d)(2). Pub. L. 100–647, §6032(a), inserted at end “To the extent provided in regulations which shall be prescribed by the Secretary, indirect holdings through a trust shall be taken into account under subparagraph (B).”
+Subsec. (d)(2). Pub. L. 100–647, §6032(a), inserted at end "To the extent provided in regulations which shall be prescribed by the Secretary, indirect holdings through a trust shall be taken into account under subparagraph (B)."
 
-Subsec. (d)(2)(B). Pub. L. 100–647, §1008(a)(1)(A), substituted “(or indirectly through 1 or more partnerships, S corporations, or qualified personal service corporations not described in paragraph (2) or (3) of subsection (a))” for “or indirectly”.
+Subsec. (d)(2)(B). Pub. L. 100–647, §1008(a)(1)(A), substituted "(or indirectly through 1 or more partnerships, S corporations, or qualified personal service corporations not described in paragraph (2) or (3) of subsection (a))" for "or indirectly".
 
 Subsec. (d)(3). Pub. L. 100–647, §1008(a)(7), inserted sentence at end relating to treatment of S corporation as tax shelter.
 
-Subsec. (d)(4)(C). Pub. L. 100–647, §1008(a)(8), substituted “90 percent or more of” for “substantially all of”.
+Subsec. (d)(4)(C). Pub. L. 100–647, §1008(a)(8), substituted "90 percent or more of" for "substantially all of".
 
-Pub. L. 100–647, §1008(a)(2), substituted “such group” for “all such members”.
+Pub. L. 100–647, §1008(a)(2), substituted "such group" for "all such members".
 
 Subsec. (d)(8). Pub. L. 100–647, §1008(a)(1)(B), added par. (8).
 
@@ -168,59 +168,59 @@ Subsec. (d)(8). Pub. L. 100–647, §1008(a)(1)(B), added par. (8).
 
 Pub. L. 107–147, title IV, §403(b), Mar. 9, 2002, 116 Stat. 41, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Mar. 9, 2002\].
 
-“(2)
+"(2)
 
 Change in method of accounting.—In the case of any taxpayer required by the amendments made by this section to change its method of accounting for its first taxable year ending after the date of the enactment of this Act—
 
-&emsp;“(A) such change shall be treated as initiated by the taxpayer,
+&emsp;"(A) such change shall be treated as initiated by the taxpayer,
 
-&emsp;“(B) such change shall be treated as made with the consent of the Secretary of the Treasury, and
+&emsp;"(B) such change shall be treated as made with the consent of the Secretary of the Treasury, and
 
-&emsp;“(C) the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of the Internal Revenue Code of 1986 shall be taken into account over a period of 4 years (or if less, the number of taxable years that the taxpayer used the method permitted under section 448(d)(5) of such Code as in effect before the date of the enactment of this Act) beginning with such first taxable year.”
+&emsp;"(C) the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of the Internal Revenue Code of 1986 shall be taken into account over a period of 4 years (or if less, the number of taxable years that the taxpayer used the method permitted under section 448(d)(5) of such Code as in effect before the date of the enactment of this Act) beginning with such first taxable year."
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1008(a)(1), (2), (7)–(9) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, §6032(b), Nov. 10, 1988, 102 Stat. 3695, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 100–647, title VI, §6032(b), Nov. 10, 1988, 102 Stat. 3695, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
 
 #### Effective Date
 
 Pub. L. 99–514, title VIII, §801(d), Oct. 22, 1986, 100 Stat. 2348, as amended by Pub. L. 100–647, title I, §1008(a)(5), (6), Nov. 10, 1988, 102 Stat. 3437, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 461 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
-“(2)
+"(2)
 
 Election to retain cash method for certain transactions.—A taxpayer may elect not to have the amendments made by this section apply to any loan orlease, or any transaction with a related party (within the meaning of section 267(b) of the Internal Revenue Code of 1954, as in effect before the enactment of this Act), entered into on or before September 25, 1985. Any election under the preceding sentence may be made separately with respect to each transaction.
 
-“(3)
+"(3)
 
 Certain contracts.—The amendments made by this section shall not apply to—
 
-&emsp;“(A) contracts for the acquisition or transfer of real property, and
+&emsp;"(A) contracts for the acquisition or transfer of real property, and
 
-&emsp;“(B) contracts for services related to the acquisition or development of real property,
+&emsp;"(B) contracts for services related to the acquisition or development of real property,
 
 > but only if such contracts were entered into before September 25, 1985, and the sole element of the contract which has not been performed as of September 25, 1985, is payment for such property or services.
 
-“(4)
+"(4)
 
 Treatment of affiliated group providing engineering services.—Each member of an affiliated group of corporations (within the meaning of section 1504(a) of the Internal Revenue Code of 1986) shall be allowed to use the cash receipts and disbursements method of accounting for any trade or business of providing engineering services with respect to taxable years ending after December 31, 1986, if the common parent of such group—
 
-&emsp;“(A) was incorporated in the State of Delaware in 1970,
+&emsp;"(A) was incorporated in the State of Delaware in 1970,
 
-&emsp;“(B) was the successor to a corporation that was incorporated in the State of Illinois in 1949, and
+&emsp;"(B) was the successor to a corporation that was incorporated in the State of Illinois in 1949, and
 
-&emsp;“(C) used a method of accounting for long-term contracts of accounting \[sic\] for a substantial part of its income from the performance of engineering services.
+&emsp;"(C) used a method of accounting for long-term contracts of accounting \[sic\] for a substantial part of its income from the performance of engineering services.
 
-“(5)
+"(5)
 
-Special rule for paragraphs (2) and (3).—If any loan, lease, contract, or evidence of any transaction to which paragraph (2) or (3) applies is transferred after June 10, 1987, to a person other than a related party (within the meaning of paragraph (2)), paragraph (2) or (3) shall cease to apply on and after the date of such transfer.”
+Special rule for paragraphs (2) and (3).—If any loan, lease, contract, or evidence of any transaction to which paragraph (2) or (3) applies is transferred after June 10, 1987, to a person other than a related party (within the meaning of paragraph (2)), paragraph (2) or (3) shall cease to apply on and after the date of such transfer."
 

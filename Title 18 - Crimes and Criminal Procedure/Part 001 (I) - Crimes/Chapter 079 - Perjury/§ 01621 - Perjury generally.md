@@ -2,7 +2,7 @@
 
 Whoever—
 
-&emsp;(1) having taken an oath before a competent tribunal, officer, or person, in any case in which a law of the United States authorizes an oath to be administered, that he will testify, declare, depose, or certify truly, or that any written testimony, declaration, deposition, or certificate by him subscribed, is true, willfully and contrary to such oath states or subscribes any material matter which he does not believe to be true; or
+&emsp;(1) having taken an oath before a competent tribunal, officer, or person, in any case in which a law of the United States authorizes an oath to be administered, that he will testify, declare, depose, or certify truly, or that any written testimony, declaration, deposition, or certificate by him subscribed, is true, willfully and contrary to such oath states or subscribesany material matter which he does not believe to be true; or
 
 &emsp;(2) in any declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, United States Code, willfully subscribes as true any material matter which he does not believe to be true;
 
@@ -14,7 +14,7 @@ Whoever—
 
 Based on title 18, U.S.C., 1940 ed., §§231, 629 (Mar. 4, 1909, ch. 321, §125, 35 Stat. 1111; June 15, 1917, ch. 30, title XI, §19, 40 Stat. 230).
 
-Words “except as otherwise expressly provided by law” were inserted to avoid conflict with perjury provisions in other titles where the punishment and application vary.
+Words "except as otherwise expressly provided by law" were inserted to avoid conflict with perjury provisions in other titles where the punishment and application vary.
 
 More than 25 additional provisions are in the code. For construction and application of several such sections, see <i>Behrle v. United States</i> (App. D.C. 1938, 100 F. 2d 714), <i>United States v. Hammer</i> (D.C.N.Y., 1924, 299 F. 1011, affirmed, 6 F. 2d 786), <i>Rosenthal v. United States</i> (1918, 248 F. 684, 160 C.C.A. 584), cf. <i>Epstein v. United States</i> (1912, 196 F. 354, 116 C.C.A. 174, certiorari denied 32 S. Ct. 527, 223 U.S. 731, 56 L. ed. 634).
 
@@ -24,9 +24,9 @@ Minor verbal changes were made.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” in concluding provisions.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $2,000" in concluding provisions.
 
-<b>1976</b>—Pub. L. 94–550 divided existing provisions into a single introductory word “Whoever”, par. (1), and closing provisions following par. (2), and added par. (2).
+<b>1976</b>—Pub. L. 94–550 divided existing provisions into a single introductory word "Whoever", par. (1), and closing provisions following par. (2), and added par. (2).
 
-<b>1964</b>—Pub. L. 88–619 inserted at end “This section is applicable whether the statement or subscription is made within or without the United States.”
+<b>1964</b>—Pub. L. 88–619 inserted at end "This section is applicable whether the statement or subscription is made within or without the United States."
 

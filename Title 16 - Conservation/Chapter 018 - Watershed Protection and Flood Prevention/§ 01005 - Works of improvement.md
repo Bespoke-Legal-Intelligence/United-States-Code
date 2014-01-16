@@ -24,31 +24,31 @@ Prior to any Federal participation in the works of improvement under this chapte
 
 #### Amendments
 
-<b>1981</b>—Subd. (3). Pub. L. 97–98, §1512(e), substituted “$5,000,000” for “$1,000,000”.
+<b>1981</b>—Subd. (3). Pub. L. 97–98, §1512(e), substituted "$5,000,000" for "$1,000,000".
 
-Subd. (4). Pub. L. 97–98, §1512(f), substituted “$5,000,000” for “$1,000,000”.
+Subd. (4). Pub. L. 97–98, §1512(f), substituted "$5,000,000" for "$1,000,000".
 
-<b>1977</b>—Subd. (3). Pub. L. 95–113, §1506(b), substituted “$1,000,000” for “$250,000”.
+<b>1977</b>—Subd. (3). Pub. L. 95–113, §1506(b), substituted "$1,000,000" for "$250,000".
 
-Subd. (4). Pub. L. 95–113, §1506(c), substituted “$1,000,000” for “$250,000”.
+Subd. (4). Pub. L. 95–113, §1506(c), substituted "$1,000,000" for "$250,000".
 
-<b>1972</b>—Subd. (4). Pub. L. 92–419 substituted in item (a) “works of improvement for reclamation or irrigation” for “reclamation or irrigation works”, in item (b) “goodwater” for “floodwater”, added items (c) and (d), required submission of plans to Secretary of Health, Education, and Welfare, or the Administrator of the Environmental Protection Agency and transmittal of views and recommendations of such officials to the Congress.
+<b>1972</b>—Subd. (4). Pub. L. 92–419 substituted in item (a) "works of improvement for reclamation or irrigation" for "reclamation or irrigation works", in item (b) "goodwater" for "floodwater", added items (c) and (d), required submission of plans to Secretary of Health, Education, and Welfare, or the Administrator of the Environmental Protection Agency and transmittal of views and recommendations of such officials to the Congress.
 
 <b>1968</b>—Subd. (2). Pub. L. 90–361 inserted proviso authorizing the Secretary to enter into contracts for the construction of structures if requested to do so by the local organization.
 
-<b>1962</b>—Subd. (1). Pub. L. 87–703 designated existing provisions as subd. (1); substituted “local organization may secure” for “local organization with such assistance as it may request from the Secretary, which assistance the Secretary is authorized to give, shall secure” and “by retaining or employing a professional engineer or engineers satisfactory to the Secretary or may request the Secretary to provide such services” for “and in order to properly carry out such services in such projects as to such structures therein providing for municipal or industrial water supplies, the local organization shall, and in such projects not providing for municipal or industrial water supplies, the local organization may, retain or employ a professional engineer or engineers satisfactory to the Secretary”; struck out “, except that if the local organization decides not to retain or employ a professional engineer or if the Secretary determines that competent engineering services are not available he may contract for a competent engineer to provide such services or arrange for employees of the Federal Government to provide such services” after “chargeable to such works of improvement”; provided for reimbursement for other services; and required the reimbursement not to exceed the amount agreed upon in the plan for works of improvement or any modification thereof.
+<b>1962</b>—Subd. (1). Pub. L. 87–703 designated existing provisions as subd. (1); substituted "local organization may secure" for "local organization with such assistance as it may request from the Secretary, which assistance the Secretary is authorized to give, shall secure" and "by retaining or employing a professional engineer or engineers satisfactory to the Secretary or may request the Secretary to provide such services" for "and in order to properly carry out such services in such projects as to such structures therein providing for municipal or industrial water supplies, the local organization shall, and in such projects not providing for municipal or industrial water supplies, the local organization may, retain or employ a professional engineer or engineers satisfactory to the Secretary"; struck out ", except that if the local organization decides not to retain or employ a professional engineer or if the Secretary determines that competent engineering services are not available he may contract for a competent engineer to provide such services or arrange for employees of the Federal Government to provide such services" after "chargeable to such works of improvement"; provided for reimbursement for other services; and required the reimbursement not to exceed the amount agreed upon in the plan for works of improvement or any modification thereof.
 
-Subd. (2). Pub. L. 87–703 designated existing provisions as subd. (2), and struck out “unless there is no local organization authorized by State law to undertake such construction or to enter into such contract, and in no event after July 1, 1956: <i>Provided</i>, That in participating in the installation of such works of improvement the Secretary, as far as practicable and consistent with his responsibilities for administering the overall national agricultural program, shall utilize the authority conferred upon him by the provisions of this chapter” after “structure”.
+Subd. (2). Pub. L. 87–703 designated existing provisions as subd. (2), and struck out "unless there is no local organization authorized by State law to undertake such construction or to enter into such contract, and in no event after July 1, 1956: <i>Provided</i>, That in participating in the installation of such works of improvement the Secretary, as far as practicable and consistent with his responsibilities for administering the overall national agricultural program, shall utilize the authority conferred upon him by the provisions of this chapter" after "structure".
 
 Subds. (3) to (5). Pub. L. 87–703 designated existing provisions as subds. (3) to (5) and made phraseological changes.
 
 <b>1956</b>—Act Aug. 7, 1956, required local organization to secure engineering and other services and to employ engineers, except in projects not providing for municipal or industrial water supplies, when the local organization may or may not employ engineers, provided for reimbursement of costs of engineers, authorized the Secretary to contract for engineers or to utilize engineers employed by the Federal Government when local organizations do not employ any, permitted advances, required transmittal of plans when Federal contributions to construction costs are more than $250,000 or the works include any structures with more than 2,500 acre-feet of total capacity, eliminated provisions which required transmittal 45 days prior to commencement of installation, and reduced the period for submission of plans to the Secretaries of the Interior and the Army from 60 days to 30 days prior to transmittal to Congress.
 
-Act July 19, 1956, substituted “fifteen” for “forty-five”.
+Act July 19, 1956, substituted "fifteen" for "forty-five".
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (4) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in par. (4) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1981 Amendment
 
@@ -144,9 +144,7 @@ The functions vested in the President by the third proviso of section 5 of the W
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Transfer of Functions
+\[Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget, referred to in Ex. Ord. No. 10654, transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget.\]
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget, referred to in Ex. Ord. No. 10654, transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “floodwater”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "floodwater".</i>
 

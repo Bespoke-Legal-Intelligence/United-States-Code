@@ -8,9 +8,9 @@ The Secretary and the Governor of the telephone bank shall not—
 
 &emsp;(2) require a qualified telephone borrower to obtain the approval of the Secretary or the Governor of the telephone bank in order to make an investment described in paragraph (1).
 
-#### (b) “Qualified telephone borrower” defined
+#### (b) "Qualified telephone borrower" defined
 
-As used in subsection (a) of this section, the term “qualified telephone borrower” means a person—
+As used in subsection (a) of this section, the term "qualified telephone borrower" means a person—
 
 &emsp;(1) to whom a telephone loan has been made or guaranteed under this chapter; and
 
@@ -20,5 +20,5 @@ As used in subsection (a) of this section, the term “qualified telephone borro
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–354 substituted “Secretary” for “Administrator” in two places.
+<b>1994</b>—Subsec. (a). Pub. L. 103–354 substituted "Secretary" for "Administrator" in two places.
 

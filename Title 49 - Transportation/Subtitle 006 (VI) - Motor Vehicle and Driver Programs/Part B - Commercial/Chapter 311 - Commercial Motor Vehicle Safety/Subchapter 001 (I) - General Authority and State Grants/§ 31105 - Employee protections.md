@@ -4,7 +4,7 @@
 
 Prohibitions.—(1) A person may not discharge an employee, or discipline or discriminate against an employee regarding pay, terms, or privileges of employment, because—
 
-&emsp;(A)(i) the employee, or another person at the employee's request, has filed a complaint orbegun a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order, or has testified or will testify in such a proceeding; or
+&emsp;(A)(i) the employee, or another person at the employee's request, has filed a complaint or begun a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order, or has testified or will testify in such a proceeding; or
 
 &emsp;(ii) the person perceives that the employee has filed or is about to file a complaint or has begun or is about to begin a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order;
 
@@ -38,7 +38,7 @@ Filing Complaints and Procedures.—(1) An employee alleging discharge, discipli
 
 &emsp;(ii) reinstate the complainant to the former position with the same pay and terms and privileges of employment; and
 
-&emsp;(iii) pay compensatory damages, including backpay with interest and compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
+&emsp;(iii) pay compensatory damages, including backpay with interest and compensation for any special damages sustained as a result ofthe discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
 
 (B) If the Secretary of Labor issues an order under subparagraph (A) of this paragraph and the complainant requests, the Secretary of Labor may assess against the person against whom the order is issued the costs (including attorney fees) reasonably incurred by the complainant in bringing the complaint. The Secretary of Labor shall determine the costs that reasonably were incurred.
 
@@ -50,7 +50,7 @@ De Novo Review.—With respect to a complaint under paragraph (1),<sup>1</sup> i
 
 (d)
 
-Judicial Review and Venue.—A person adversely affected by an order issued after a hearing under subsection (b) of this section may file a petition for review, not later than 60 daysafter the order is issued, in the court of appeals of the United States for the circuit in which the violation occurred or the person resided on the date of the violation. Review shall conform to chapter 7 of title 5. The review shall be heard and decided expeditiously. An order of the Secretary of Labor subject to review under this subsection is not subject to judicial review in a criminal or other civil proceeding.
+Judicial Review and Venue.—A person adversely affected by an order issued after a hearing under subsection (b) of this section may file a petition for review, not later than 60 days after the order is issued, in the court of appeals of the United States for the circuit in which the violation occurred or the person resided on the date of the violation. Review shall conform to chapter 7 of title 5. The review shall be heard and decided expeditiously. An order of the Secretary of Labor subject to review under this subsection is not subject to judicial review in a criminal or other civil proceeding.
 
 (e)
 
@@ -90,7 +90,7 @@ Steps to address problem.—The Secretary of Homeland Security shall review and 
 
 (j)
 
-Definition.—In this section, “employee” means a driver of a commercial motor vehicle (including an independent contractor when personally operating a commercial motor vehicle), a mechanic, a freight handler, or an individual not an employer, who—
+Definition.—In this section, "employee" means a driver of a commercial motor vehicle (including an independent contractor when personally operating a commercial motor vehicle), a mechanic, a freight handler, or an individual not an employer, who—
 
 &emsp;(1) directly affects commercial motor vehicle safety or security in the course of employment by a commercial motor carrier; and
 
@@ -128,31 +128,31 @@ Jan. 6, 1983, Pub. L. 97–424, §405(a)–(d), 96 Stat. 2157.
 
 Jan. 6, 1983, Pub. L. 97–424, §405(e), 96 Stat. 2158; Nov. 8, 1984, Pub. L. 98–620, §402(51), 98 Stat. 3361.
 
-In subsection (a)(1), before clause (A), the words “in any manner” are omitted as surplus. The word “conditions” is omitted as included in “terms”. In clauses (A) and (B), the word “rule” is omitted as being synonymous with “regulation”. In clause (A), the word “begun” is substituted for “instituted or caused to be instituted” for consistency in the revised title and to eliminate unnecessary words. In clause (B), the words before subclause (i) are substituted for “for refusing to operate a vehicle when” and “or because of” for clarity and consistency. In subclause (ii), the words “vehicle's unsafe condition” are substituted for “unsafe condition of such equipment” for consistency.
+In subsection (a)(1), before clause (A), the words "in any manner" are omitted as surplus. The word "conditions" is omitted as included in "terms". In clauses (A) and (B), the word "rule" is omitted as being synonymous with "regulation". In clause (A), the word "begun" is substituted for "instituted or caused to be instituted" for consistency in the revised title and to eliminate unnecessary words. In clause (B), the wordsbefore subclause (i) are substituted for "for refusing to operate a vehicle when" and "or because of" for clarity and consistency. In subclause (ii), the words "vehicle's unsafe condition" are substituted for "unsafe condition of such equipment" for consistency.
 
 Subsection (a)(2) is substituted for 49 App.:2305(b) (2d, last sentences) for clarity and to eliminate unnecessary words.
 
-In subsection (b)(1), the words “alleging such discharge, discipline, or discrimination” are omitted as surplus.
+In subsection (b)(1), the words "alleging such discharge, discipline, or discrimination" are omitted as surplus.
 
-In subsection (b)(2)(B), the words “Not later than 30 days after the notice under subparagraph (A) of this paragraph” are substituted for “Thereafter” and “within thirty days” for clarity.
+In subsection (b)(2)(B), the words "Not later than 30 days after the notice under subparagraph (A) of this paragraph" are substituted for "Thereafter" and "within thirty days" for clarity.
 
-In subsection (b)(2)(C), the words “Before the final order is issued” are substituted for “In the interim” for clarity.
+In subsection (b)(2)(C), the words "Before the final order is issued" are substituted for "In the interim" for clarity.
 
-Subsection (b)(3)(A) is substituted for 49 App.:2305(c)(2)(B) (1st sentence) for clarity and to eliminate unnecessary words. In clause (ii), the word “conditions” is omitted as included in “terms”. The provision for back pay is moved from clause (ii) to clause (iii) for clarity.
+Subsection (b)(3)(A) is substituted for 49 App.:2305(c)(2)(B) (1st sentence) for clarity and to eliminate unnecessary words. In clause (ii), the word "conditions" is omitted as included in "terms". The provision for back pay is moved from clause (ii) to clause (iii) for clarity.
 
-In subsection (b)(3)(B), the words “a sum equal to the aggregate amount of all” and “and expenses” are omitted as surplus. The words “in bringing the complaint” are substituted for “for, or in connection with, the bringing of the complaint upon which the order was issued” to eliminate unnecessary words.
+In subsection (b)(3)(B), the words "a sum equal to the aggregate amount of all" and "and expenses" are omitted as surplus. The words "in bringing the complaint" are substituted for "for, or in connection with, the bringing of the complaint upon which the order was issued" to eliminate unnecessary words.
 
-In subsection (c), the words “or aggrieved” and “with respect to which the order was issued, allegedly” are omitted as surplus. The words “in accordance with the provisions of chapter 7 of title 5 and” are omitted because 5:ch. 7 applies unless otherwise stated.
+In subsection (c), the words "or aggrieved" and "with respect to which the order was issued, allegedly" are omitted as surplus. The words "in accordance with the provisions of chapter 7 of title 5 and" are omitted because 5:ch. 7 applies unless otherwise stated.
 
 In subsection (d), the text of 49 App.:2305(e) (last sentence) is omitted as unnecessary.
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–53 amended text of section generally. Prior to amendment, section related to, in subsec.\(a), prohibition against discharge or discipline of, or discrimination against, an employee regarding pay, terms, or privileges of employment for certain actions, in subsec. (b), procedures for filing of complaint, in subsec. (c), judicial review and venue, and, in subsec. (d), civil action to enforce an order.
+<b>2007</b>—Pub. L. 110–53 amended text of section generally. Prior to amendment, section related to, in subsec. (a), prohibition against discharge or discipline of, or discrimination against, an employee regarding pay, terms, or privileges of employment for certain actions, in subsec. (b), procedures for filing of complaint, in subsec. (c), judicial review and venue, and, in subsec. (d), civil action to enforce an order.
 
 #### Employee Protections
 
-Pub. L. 105–178, title IV, §4023, June 9, 1998, 112 Stat. 415, provided that: “Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\], in conjunction with the Secretary of Labor, shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the effectiveness of existing statutory employee protections provided for under section 31105 of title 49, United States Code. The report shall include recommendations to address any statutory changes necessary to strengthen the enforcement of such employee protection provisions.”
+Pub. L. 105–178, title IV, §4023, June 9, 1998, 112 Stat. 415, provided that: "Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\], in conjunction with the Secretary of Labor, shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the effectiveness of existing statutory employee protections provided for under section 31105 of title 49, United States Code. The report shall include recommendations to address any statutory changes necessary to strengthen the enforcement of such employee protection provisions."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (b)(1),”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (b)(1),".</i>
 

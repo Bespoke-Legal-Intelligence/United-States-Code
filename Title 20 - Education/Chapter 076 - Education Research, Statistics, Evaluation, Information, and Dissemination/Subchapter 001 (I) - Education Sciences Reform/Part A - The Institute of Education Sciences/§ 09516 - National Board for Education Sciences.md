@@ -114,7 +114,7 @@ The duties of the Board shall be the following:
 
 #### (B) Additional staff
 
-&emsp;&emsp;The Board shall utilize such additional staff as may be appointed or assigned by theDirector, in consultation with the Chair and the Executive Director.
+&emsp;&emsp;The Board shall utilize such additional staff as may be appointed or assigned by the Director, in consultation with the Chair and the Executive Director.
 
 #### (C) Detail of personnel
 
@@ -150,7 +150,7 @@ The duties of the Board shall be the following:
 
 &emsp;A majority of the members of each standing committee shall be voting members of the Board whose expertise is needed for the functioning of the committee. In addition, the membership of each standing committee may include, as appropriate—
 
-&emsp;&emsp;(A) experts and scientists in research, statistics, evaluation, or development who are recognized in their discipline as highly qualified to represent such discipline and who are not members of the Board, but who may have been recommended by the Commissioner of the appropriate National Education Center and approved by the Board;
+&emsp;&emsp;(A) experts and scientists in research, statistics, evaluation, or development who arerecognized in their discipline as highly qualified to represent such discipline and who are not members of the Board, but who may have been recommended by the Commissioner of the appropriate National Education Center and approved by the Board;
 
 &emsp;&emsp;(B) ex officio members of the Board; and
 
@@ -186,15 +186,15 @@ This Act, referred to in subsec. (c)(8)(C), means Pub. L. 107–279, Nov. 5, 200
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
+<b>2012</b>—Subsec. (c)(1). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" before period at end.
 
-<b>2004</b>—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, §201(b)(2)(D), inserted “special education experts,” after “early childhood experts,”.
+<b>2004</b>—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, §201(b)(2)(D), inserted "special education experts," after "early childhood experts,".
 
-Subsec. (c)(9). Pub. L. 108–446, §202, substituted “Meetings of the Board are subject to section 552b of title 5 (commonly referred to as the Government in the Sunshine Act).” for “Meetings of the Board shall be open to the public.”
+Subsec. (c)(9). Pub. L. 108–446, §202, substituted "Meetings of the Board are subject to section 552b of title 5 (commonly referred to as the Government in the Sunshine Act)." for "Meetings of the Board shall be open to the public."
 
 #### Change of Name
 
-“Eunice Kennedy Shriver National Institute of Child Health and Human Development” substituted for “National Institute of Child Health and Human Development” in subsec. (c)(3)(C), on authority of section 1(d) of Pub. L. 110–154, set out as a note under section 285g of Title 42, The Public Health and Welfare.
+"Eunice Kennedy Shriver National Institute of Child Health and Human Development" substituted for "National Institute of Child Health and Human Development" in subsec. (c)(3)(C), on authority of section 1(d) of Pub. L. 110–154, set out as a note under section 285g of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 2012 Amendment
 

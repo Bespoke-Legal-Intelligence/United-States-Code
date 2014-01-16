@@ -10,25 +10,25 @@
 
 #### Historical and Revision Notes
 
-Based on title 14, U.S.C., 1946 ed., §161 (Jan. 12, 1923, ch. 25, §2, 42 Stat. 1130; June 25, 1936, ch. 808, 49 Stat.1924; June 9, 1937, ch. 309, §1, 50 Stat. 252; June 6, 1940, ch. 257, §1(a), 54 Stat. 246).
+Based on title 14, U.S.C., 1946 ed., §161 (Jan. 12, 1923, ch. 25, §2, 42 Stat. 1130; June 25, 1936, ch. 808, 49 Stat. 1924; June 9, 1937, ch. 309, §1, 50 Stat. 252; June 6, 1940, ch. 257, §1(a), 54 Stat. 246).
 
 Provision is added for retirement of the Commandant with the grade and pay of vice admiral after 3 years service, in the discretion of the President, regardless of total length of service. Provision is also added for retirement with the grade and pay of vice admiral in case of physical disability. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–206 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Commandant who is not reappointed shall, at the expiration of his term, be retired with the grade of admiral.”
+<b>1993</b>—Subsec. (a). Pub. L. 103–206 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Any Commandant who is not reappointed shall, at the expiration of his term, be retired with the grade of admiral."
 
-<b>1986</b>—Pub. L. 99–348 struck out “and retired pay computed at the highest rates of basic pay applicable to him while he served as Commandant” after “admiral” in subsecs. (a) to (c).
+<b>1986</b>—Pub. L. 99–348 struck out "and retired pay computed at the highest rates of basic pay applicable to him while he served as Commandant" after "admiral" in subsecs. (a) to (c).
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted “Commandant” for “commandant”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted "Commandant" for "commandant".
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–444, §1(4), removed requirement that the Commandant serve 2½ years as Commandant before being eligible for retirement with the grade of admiral and retired pay computed at the highest rates of basic pay applicable to him while he served as Commandant.
 
 Subsec. (d). Pub. L. 89–444, §1(5), repealed subsec. (d) which provided that a Commandant who retired within 2½ years of the date of his original appointment as Commandant would retire in his permanent grade and with the retired pay of that grade.
 
-<b>1963</b>—Subsecs. (a) to (c). Pub. L. 88–130 substituted “of admiral and retired pay computed at the highest rates of basic pay applicable to him while he served as Commandant” for “and retired pay of admiral”.
+<b>1963</b>—Subsecs. (a) to (c). Pub. L. 88–130 substituted "of admiral and retired pay computed at the highest rates of basic pay applicable to him while he served as Commandant" for "and retired pay of admiral".
 
 <b>1960</b>—Pub. L. 86–474 authorized any Commandant who is not reappointed at the expiration of his term to be retired with the grade and retired pay of admiral, directed placement on the retired list with the grade and retired pay of admiral for a Commandant who is retired for physical disability, reduced from three to two and one-half years the period that the Commandant must serve before he may voluntarily apply retirement without regard to total length of service, and provided that any Commandant who retires within two and one-half years of the date of his original appointment as Commandant shall retire in his permanent grade and with the retired pay of that grade.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

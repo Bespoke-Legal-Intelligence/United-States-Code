@@ -22,7 +22,7 @@ A prior section 2006 of Pub. L. 89–272 was renumbered section 2007 and is clas
 
 #### Amendments
 
-<b>1984</b>—Par. (1). Pub. L. 98–616 substituted “detailed” for “detail”.
+<b>1984</b>—Par. (1). Pub. L. 98–616 substituted "detailed" for "detail".
 
 #### Termination of Reporting Requirements
 

@@ -18,7 +18,7 @@ Each Head Start agency shall take steps to coordinate with the local educational
 
 &emsp;(7) helping parents of limited English proficient children understand—
 
-&emsp;&emsp;(A) the instructional and other services provided by the school in which such child will enroll after participation in Head Start; and
+&emsp;&emsp;(A) the instructional and other services provided by the school in which such childwill enroll after participation in Head Start; and
 
 &emsp;&emsp;(B) as appropriate, the information provided to parents of limited English proficient children under section 3302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7012);
 

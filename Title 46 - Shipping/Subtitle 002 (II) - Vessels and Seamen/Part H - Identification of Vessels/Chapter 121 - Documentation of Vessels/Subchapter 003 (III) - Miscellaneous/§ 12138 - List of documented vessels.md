@@ -48,5 +48,5 @@ Historical and Revision Notes
 
 Pub. L. 107–295, title IV, §403, Nov. 25, 2002, 116 Stat. 2114.
 
-In subsection (b), the word “Secretary” is substituted for “Secretary of Transportation” for consistency in the chapter.
+In subsection (b), the word "Secretary" is substituted for "Secretary of Transportation" for consistency in the chapter.
 

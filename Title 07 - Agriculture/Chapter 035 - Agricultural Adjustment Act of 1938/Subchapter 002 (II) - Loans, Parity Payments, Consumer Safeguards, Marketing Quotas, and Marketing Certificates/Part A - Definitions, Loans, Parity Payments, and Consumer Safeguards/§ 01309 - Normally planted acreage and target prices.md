@@ -2,7 +2,7 @@
 
 #### (a) Authorized planted acreage for 1982 through 1995 crops of wheat and feed grains as prerequisite for loan, etc.; eligibility; determinations; records
 
-Notwithstanding any other provision of law, whenever a set-aside program is in effect for one or more of the 1982 through 1995 crops of wheat and feed grains, the Secretary of Agriculture may require, as a condition of eligibility for loans, purchases, and payments for such crops under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], that producers not exceed the acreage on the farm normally planted to crops designated by the Secretary, adjusted as deemed necessary by the Secretary to be fair and equitable among producers and reduced by any set-aside or diverted acreage. Such normal crop acreage for any crop year shall be determined as provided by the Secretary. The Secretary may require producers participating in the program to keep such records as the Secretary determines necessary to assist in making such determination.
+Notwithstanding any other provision of law, whenever a set-aside program is in effect for oneor more of the 1982 through 1995 crops of wheat and feed grains, the Secretary of Agriculture may require, as a condition of eligibility for loans, purchases, and payments for such crops under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], that producers not exceed the acreage on the farm normally planted to crops designated by the Secretary, adjusted as deemed necessary by the Secretary to be fair and equitable among producers and reduced by any set-aside or diverted acreage. Such normal crop acreage for any crop year shall be determined as provided by the Secretary. The Secretary may require producers participating in the program to keep such records as the Secretary determines necessary to assist in making such determination.
 
 #### (b) Established price payments
 
@@ -38,11 +38,11 @@ Section was enacted as part of the Food and Agriculture Act of 1977, and not as 
 
 #### Amendments
 
-<b>1990</b>—Subsecs. (a), (b)(1), (c). Pub. L. 101–624, §1141(1), substituted “1995” for “1990”.
+<b>1990</b>—Subsecs. (a), (b)(1), (c). Pub. L. 101–624, §1141(1), substituted "1995" for "1990".
 
-Subsec. (c)(2). Pub. L. 101–624, §1141(2), substituted “section 107B(d)(3)(A)” for “section 107D(d)(3)(A)”.
+Subsec. (c)(2). Pub. L. 101–624, §1141(2), substituted "section 107B(d)(3)(A)" for "section 107D(d)(3)(A)".
 
-<b>1985</b>—Subsecs. (a), (b)(1). Pub. L. 99–198 substituted “1982 through 1990” for “1982 through 1985”.
+<b>1985</b>—Subsecs. (a), (b)(1). Pub. L. 99–198 substituted "1982 through 1990" for "1982 through 1985".
 
 Subsec. (c). Pub. L. 99–198 added subsec. (c).
 
@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 97–98 substituted provision relating to established price
 
 Subsec. (c). Pub. L. 97–98 struck out subsec. (c) which related to loans, purchases, and payments for producers of the 1980 crop of any commodity who exceeded the authorized acreage.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–213 amended subsec. (a) generally, temporarily substituting provisions relating to requiring producers not to exceed the acreage on the farm normally planted to designated crops, as reduced, for the 1980 and 1981 crops of wheat, feed grains, upland cotton, and rice, for provisions relating to reduction of acreage normally planted to designated crops by the acreage set-aside or diversion for the 1978 through 1981 crops of wheat, feed grains, upland cotton, and rice. See Effective and Termination Dates of 1980 Amendment note below.
+<b>1980</b>—Subsec. (a). Pub. L. 96–213 amended subsec. (a) generally, temporarily substituting provisions relating to requiring producers not to exceed the acreage on the farm normally planted to designated crops, as reduced, for the 1980 and 1981 crops of wheat, feed grains, upland cotton, and rice, for provisions relating to reduction ofacreage normally planted to designated crops by the acreage set-aside or diversion for the 1978 through 1981 crops of wheat, feed grains, upland cotton, and rice. See Effective and Termination Dates of 1980 Amendment note below.
 
 Subsec. (b). Pub. L. 96–213 amended subsec. (b) generally, temporarily substituting provisions relating to increases of the established price as compensation to producers for not exceeding the acreage in accordance with subsection (a) and participating in set-asides for 1980 and 1980 crops for provisions relating to increases of the established prices to compensate producers for participation in set-asides for 1978 through 1981 crops. See Effective and Termination Dates of 1980 Amendment note below.
 
@@ -76,9 +76,9 @@ Pub. L. 96–213, §6, Mar. 18, 1980, 94 Stat. 120, provided that the amendment 
 
 #### Effective Date of 1978 Amendments
 
-Pub. L. 95–334, title V, §501(b), Aug. 4, 1978, 92 Stat. 434, provided that: “This section \[amending this section\] shall become effective October 1, 1978, and any producers who, prior to such date, receive payments on the 1978 crop of rice as computed under the Agricultural Act of 1949 \[see Short Title note set out under section 1421 of this title\], as amended by the Food and Agriculture Act of 1977 \[see Short Title of 1977 Amendment note set out under section 1281 of this title\], may elect after September 30, 1978, to receive payments as computed under section 1001(b) of the Food and Agriculture Act of 1977, as amended by this section.”
+Pub. L. 95–334, title V, §501(b), Aug. 4, 1978, 92 Stat. 434, provided that: "This section \[amending this section\] shall become effective October 1, 1978, and any producers who, prior to such date, receive payments on the 1978 crop of rice as computed under the Agricultural Act of 1949 \[see Short Title note set out under section 1421 of this title\], as amended by the Food and Agriculture Act of 1977 \[see Short Title of 1977 Amendment note set out under section 1281 of this title\], may elect after September 30, 1978, to receive payments as computed under section 1001(b) of the Food and Agriculture Act of 1977, as amended by this section."
 
-Pub. L. 95–279, title I, §103, May 15, 1978, 92 Stat. 241, provided that: “Sections 101 and 102 \[amending this section and section 1444 of this title\] of this title shall become effective October 1, 1978, and any producers who, prior to such date, receive loans and payments on the 1978 crop of the commodity as computed under the Agricultural Act of 1949 \[see Short Title note set out under section 1421 of this title\], as amended by the Food and Agriculture Act of 1977 \[see Short Title of 1977 Amendment note set out under section 1281 of this title\] may elect after September 30, 1978, to receive loans and payments as computed under this title.”
+Pub. L. 95–279, title I, §103, May 15, 1978, 92 Stat. 241, provided that: "Sections 101 and 102 \[amending this section and section 1444 of this title\] of this title shall become effective October 1, 1978, and any producers who, prior to such date, receive loans and payments on the 1978 crop of the commodity as computed under the Agricultural Act of 1949 \[see Short Title note set out under section 1421 of this title\], as amended by the Food and Agriculture Act of 1977 \[see Short Title of 1977 Amendment note set out under section 1281 of this title\] may elect after September 30, 1978, to receive loans and payments as computed under this title."
 
 #### Effective Date
 

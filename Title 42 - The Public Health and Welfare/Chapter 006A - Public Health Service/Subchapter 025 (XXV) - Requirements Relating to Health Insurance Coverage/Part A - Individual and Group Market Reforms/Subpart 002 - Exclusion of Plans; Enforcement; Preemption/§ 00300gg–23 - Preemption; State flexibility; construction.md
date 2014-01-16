@@ -20,13 +20,13 @@
 
 &emsp;Only in relation to health insurance coverage offered by a health insurance issuer, the provisions of this part do not supersede any provision of State law to the extent that such provision—
 
-&emsp;&emsp;(i) substitutes for the reference to “6-month period” in section 2701(a)(1) <sup>1</sup> a reference to any shorter period of time;
+&emsp;&emsp;(i) substitutes for the reference to "6-month period" in section 2701(a)(1) <sup>1</sup> a reference to any shorter period of time;
 
-&emsp;&emsp;(ii) substitutes for the reference to “12 months” and “18 months” in section 2701(a)(2) <sup>1</sup> a reference to any shorter period of time;
+&emsp;&emsp;(ii) substitutes for the reference to "12 months" and "18 months" in section 2701(a)(2) <sup>1</sup> a reference to any shorter period of time;
 
-&emsp;&emsp;(iii) substitutes for the references to “63” days in sections 2701(c)(2)(A) <sup>1</sup> and 2701(d)(4)(A) <sup>1</sup> a reference to any greater number of days;
+&emsp;&emsp;(iii) substitutes for the references to "63" days in sections 2701(c)(2)(A) <sup>1</sup> and 2701(d)(4)(A) <sup>1</sup> a reference to any greater number of days;
 
-&emsp;&emsp;(iv) substitutes for the reference to “30-day period” in sections 2701(b)(2) <sup>1</sup> and 2701(d)(1) <sup>1</sup> a reference to any greater period;
+&emsp;&emsp;(iv) substitutes for the reference to "30-day period" in sections 2701(b)(2) <sup>1</sup> and 2701(d)(1) <sup>1</sup> a reference to any greater period;
 
 &emsp;&emsp;(v) prohibits the imposition of any preexisting condition exclusion in cases not described in section 2701(d) <sup>1</sup> or expands the exceptions described in such section;
 
@@ -44,27 +44,27 @@ For purposes of this section—
 
 #### (1) State law
 
-&emsp;The term “State law” includes all laws, decisions, rules, regulations, or other State action having the effect of law, of any State. A law of the United States applicable only to the District of Columbia shall be treated as a State law rather than a law of the United States.
+&emsp;The term "State law" includes all laws, decisions, rules, regulations, or other State action having the effect of law, of any State. A law of the United States applicable only to the District of Columbia shall be treated as a State law rather than a law of the United States.
 
 #### (2) State
 
-&emsp;The term “State” includes a State (including the Northern Mariana Islands), any political subdivisions of a State or such Islands, or any agency or instrumentality of either.
+&emsp;The term "State" includes a State (including the Northern Mariana Islands), any political subdivisions of a State or such Islands, or any agency or instrumentality of either.
 
 (July 1, 1944, ch. 373, title XXVII, §2724, formerly §2723, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1971; amended Pub. L. 104–204, title VI, §604(b)(2), Sept. 26, 1996, 110 Stat. 2941; renumbered §2737, renumbered §2724, and amended Pub. L. 111–148, title I, §§1001(4), 1563(c)(14), formerly §1562(c)(14), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.)
 
 #### References in Text
 
-Section 2701, referred to in subsec. (b), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, andamended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+Section 2701, referred to in subsec. (b), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
-Section 701, referred to in subsec. (b)(1), probably means “section 2701” of act July 1, 1944. See note above.
+Section 701, referred to in subsec. (b)(1), probably means "section 2701" of act July 1, 1944. See note above.
 
-Section 2704, referred to in subsec. (c), is a reference to section 2704 of act July 1, 1944. Section 2704, which was classified to section 300gg–4 of this title, was renumbered section 2725, and amended by Pub. L. 111–148, title I, §§1001(2), 1563(c)(3), formerly §1562(c)(3), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 911, and was transferred to section 300gg–25 of this title. A new section 2704 of act July 1, 1944, related to prohibition of preexisting condition exclusions or other discrimination based on health status, was added, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and is classified to section 300gg–3 of this title.
+Section 2704, referred to in subsec. (c), is a reference to section 2704 of act July 1, 1944. Section 2704, whichwas classified to section 300gg–4 of this title, was renumbered section 2725, and amended by Pub. L. 111–148, title I, §§1001(2), 1563(c)(3), formerly §1562(c)(3), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 911, and was transferred to section 300gg–25 of this title. A new section 2704 of act July 1, 1944, related to prohibition of preexisting condition exclusions or other discrimination based on health status, was added, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and is classified to section 300gg–3 of this title.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(14)(A), formerly §1562(c)(14)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted “individual or” before “group health insurance”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(14)(A), formerly §1562(c)(14)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted "individual or" before "group health insurance".
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–204 inserted “(other than section 2704)” after “part”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–204 inserted "(other than section 2704)" after "part".
 
 #### Effective Date of 1996 Amendment
 

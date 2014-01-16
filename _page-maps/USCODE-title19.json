@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title19",
- "package": "USCODE-2012-title19",
+ "package": "USCODE-2013-title19",
  "pieces": [
   {
    "id": "19_",
@@ -496,30 +496,34 @@
      true
     ],
     [
+     "L",
+     650,
+     "[Page 20]",
+     true
+    ],
+    [
      "I",
-     646,
+     740,
      [
       [
-       105,
-       "[Page 20]"
+       336,
+       "[Page 21]"
       ]
      ]
     ],
     [
-     "L",
-     738,
-     "[Page 21]",
-     true
-    ],
-    [
-     "L",
-     820,
-     "[Page 22]",
-     true
+     "I",
+     822,
+     [
+      [
+       111,
+       "[Page 22]"
+      ]
+     ]
     ],
     [
      "I",
-     896,
+     900,
      [
       [
        117,
@@ -529,7 +533,7 @@
     ],
     [
      "I",
-     978,
+     982,
      [
       [
        108,
@@ -539,19 +543,19 @@
     ],
     [
      "L",
-     1038,
+     1042,
      "[Page 25]",
      true
     ],
     [
      "L",
-     1122,
+     1126,
      "[Page 26]",
      true
     ],
     [
      "I",
-     1200,
+     1204,
      [
       [
        654,
@@ -1675,7 +1679,7 @@
      true
     ]
    ],
-   "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 004 (IV) - Customs Administration/Administrative Provisions/Part 001 - Definitions/§ 00232 - “Port” defined.md",
+   "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 004 (IV) - Customs Administration/Administrative Provisions/Part 001 - Definitions/§ 00232 - Port defined.md",
    "printed_pages": [
     43,
     44
@@ -3641,7 +3645,7 @@
   {
    "id": "19_1356l",
    "marks": [],
-   "path": "Chapter 004 - Tariff Act of 1930/Subtitle 002 (II) - Special Provisions/Part 003 (III) - Promotion of Foreign Trade/§ 01356l - “Coffee” defined.md",
+   "path": "Chapter 004 - Tariff Act of 1930/Subtitle 002 (II) - Special Provisions/Part 003 (III) - Promotion of Foreign Trade/§ 01356l - Coffee defined.md",
    "printed_pages": [
     121,
     121
@@ -4804,7 +4808,7 @@
   {
    "id": "19_1496a",
    "marks": [],
-   "path": "Chapter 004 - Tariff Act of 1930/Subtitle 003 (III) - Administrative Provisions/Part 003 (III) - Ascertainment, Collection, and Recovery of Duties/§ 01496a - Clearance restrictions of individuals returning from abroad; special circumstances; “baggage and effects” defined.md",
+   "path": "Chapter 004 - Tariff Act of 1930/Subtitle 003 (III) - Administrative Provisions/Part 003 (III) - Ascertainment, Collection, and Recovery of Duties/§ 01496a - Clearance restrictions of individuals returning from abroad; special circumstances; baggage and effects defined.md",
    "printed_pages": [
     171,
     171
@@ -10663,102 +10667,102 @@
    "id": "19_2171",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 484]",
-     true
+     "I",
+     30,
+     [
+      [
+       138,
+       "[Page 484]"
+      ]
+     ]
     ],
     [
      "I",
-     98,
+     96,
      [
       [
-       91,
+       364,
        "[Page 485]"
       ]
      ]
     ],
     [
      "I",
-     152,
+     148,
      [
       [
-       111,
+       274,
        "[Page 486]"
       ]
      ]
     ],
     [
      "I",
-     238,
+     232,
      [
       [
-       114,
+       317,
        "[Page 487]"
       ]
      ]
     ],
     [
-     "L",
-     314,
-     "[Page 488]",
-     true
+     "I",
+     312,
+     [
+      [
+       208,
+       "[Page 488]"
+      ]
+     ]
     ],
     [
      "I",
-     378,
+     372,
      [
       [
-       160,
+       375,
        "[Page 489]"
       ]
      ]
     ],
     [
      "I",
-     434,
+     432,
      [
       [
-       365,
+       156,
        "[Page 490]"
       ]
      ]
     ],
     [
      "L",
-     472,
+     468,
      "[Page 491]",
      true
     ],
     [
      "I",
-     522,
+     518,
      [
       [
-       541,
+       114,
        "[Page 492]"
       ]
      ]
     ],
     [
-     "I",
-     612,
-     [
-      [
-       109,
-       "[Page 493]"
-      ]
-     ]
+     "L",
+     608,
+     "[Page 493]",
+     true
     ],
     [
-     "I",
-     692,
-     [
-      [
-       107,
-       "[Page 494]"
-      ]
-     ]
+     "L",
+     674,
+     "[Page 494]",
+     true
     ]
    ],
    "path": "Chapter 012 - Trade Act of 1974/Subchapter 001 (I) - Negotiating and Other Authority/Part 004 - Office of the United States Trade Representative/§ 02171 - Structure, functions, powers, and personnel.md",
@@ -10780,24 +10784,16 @@
    "id": "19_2191",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       265,
-       "[Page 495]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 495]",
+     true
     ],
     [
-     "I",
-     52,
-     [
-      [
-       279,
-       "[Page 496]"
-      ]
-     ]
+     "L",
+     48,
+     "[Page 496]",
+     true
     ]
    ],
    "path": "Chapter 012 - Trade Act of 1974/Subchapter 001 (I) - Negotiating and Other Authority/Part 005 - Congressional Procedures with Respect to Presidential Actions/§ 02191 - Bills implementing trade agreements on nontariff barriers and resolutions approving commercial agreements with Communist countries.md",
@@ -10811,54 +10807,46 @@
    "marks": [
     [
      "L",
-     16,
+     10,
      "[Page 497]",
      true
     ],
     [
      "I",
-     58,
+     54,
      [
       [
-       97,
+       506,
        "[Page 498]"
       ]
      ]
+    ],
+    [
+     "L",
+     118,
+     "[Page 499]",
+     true
     ]
    ],
    "path": "Chapter 012 - Trade Act of 1974/Subchapter 001 (I) - Negotiating and Other Authority/Part 005 - Congressional Procedures with Respect to Presidential Actions/§ 02192 - Resolutions disapproving certain actions.md",
    "printed_pages": [
     496,
-    498
+    499
    ]
   },
   {
    "id": "19_2193",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       234,
-       "[Page 499]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     48,
-     [
-      [
-       157,
-       "[Page 500]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 500]",
+     true
     ]
    ],
    "path": "Chapter 012 - Trade Act of 1974/Subchapter 001 (I) - Negotiating and Other Authority/Part 005 - Congressional Procedures with Respect to Presidential Actions/§ 02193 - Resolutions relating to extension of waiver authority under section 402 of the Trade Act of 1974.md",
    "printed_pages": [
-    498,
+    499,
     500
    ]
   },
@@ -10885,10 +10873,10 @@
    "marks": [
     [
      "I",
-     26,
+     24,
      [
       [
-       139,
+       92,
        "[Page 501]"
       ]
      ]
@@ -10913,36 +10901,36 @@
    "id": "19_2213",
    "marks": [
     [
+     "L",
+     12,
+     "[Page 502]",
+     true
+    ],
+    [
      "I",
-     20,
+     86,
      [
       [
-       82,
-       "[Page 502]"
+       128,
+       "[Page 503]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     224,
+     [
+      [
+       111,
+       "[Page 504]"
       ]
      ]
     ],
     [
      "L",
-     94,
-     "[Page 503]",
+     328,
+     "[Page 505]",
      true
-    ],
-    [
-     "L",
-     236,
-     "[Page 504]",
-     true
-    ],
-    [
-     "I",
-     338,
-     [
-      [
-       86,
-       "[Page 505]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 012 - Trade Act of 1974/Subchapter 001 (I) - Negotiating and Other Authority/Part 006 - Congressional Liaison and Reports/§ 02213 - Reports.md",
@@ -10992,19 +10980,15 @@
    "marks": [
     [
      "L",
-     40,
+     32,
      "[Page 506]",
      true
     ],
     [
-     "I",
-     116,
-     [
-      [
-       216,
-       "[Page 507]"
-      ]
-     ]
+     "L",
+     106,
+     "[Page 507]",
+     true
     ]
    ],
    "path": "Chapter 012 - Trade Act of 1974/Subchapter 001 (I) - Negotiating and Other Authority/Part 008 - Identification of Market Barriers and Certain Unfair Trade Actions/§ 02241 - Estimates of barriers to market access.md",
@@ -11017,26 +11001,30 @@
    "id": "19_2242",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 508]",
-     true
-    ],
-    [
      "I",
-     98,
+     16,
      [
       [
-       234,
-       "[Page 509]"
+       96,
+       "[Page 508]"
       ]
      ]
     ],
     [
      "L",
-     166,
-     "[Page 510]",
+     94,
+     "[Page 509]",
      true
+    ],
+    [
+     "I",
+     164,
+     [
+      [
+       218,
+       "[Page 510]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Trade Act of 1974/Subchapter 001 (I) - Negotiating and Other Authority/Part 008 - Identification of Market Barriers and Certain Unfair Trade Actions/§ 02242 - Identification of countries that deny adequate protection, or market access, for intellectual property rights.md",
@@ -12150,7 +12138,7 @@
      ]
     ]
    ],
-   "path": "Chapter 012 - Trade Act of 1974/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 003 - Adjustment Assistance for Firms/§ 02351 - “Firm” defined.md",
+   "path": "Chapter 012 - Trade Act of 1974/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 003 - Adjustment Assistance for Firms/§ 02351 - Firm defined.md",
    "printed_pages": [
     584,
     585
@@ -12912,7 +12900,7 @@
      104,
      [
       [
-       396,
+       397,
        "[Page 623]"
       ]
      ]
@@ -15646,14 +15634,10 @@
    "id": "19_3201",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       115,
-       "[Page 770]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 770]",
+     true
     ]
    ],
    "path": "Chapter 020 - Andean Trade Preference/§ 03201 - Authority to grant duty-free treatment.md",
@@ -19703,6 +19687,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2012-title19 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2013-title19 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 19 - Customs Duties"
 }

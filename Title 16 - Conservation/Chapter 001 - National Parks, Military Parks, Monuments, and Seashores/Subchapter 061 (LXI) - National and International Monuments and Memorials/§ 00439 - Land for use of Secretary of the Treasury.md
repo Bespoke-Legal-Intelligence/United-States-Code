@@ -14,7 +14,7 @@ This section and sections 437, 438, and 440 of this title were derived from act 
 
 #### Amendments
 
-<b>1936</b>—Act June 5, 1936, substituted “six hundred and eighty feet” for “six hundred and fifty feet”.
+<b>1936</b>—Act June 5, 1936, substituted "six hundred and eighty feet" for "six hundred and fifty feet".
 
 #### Transfer of Functions
 

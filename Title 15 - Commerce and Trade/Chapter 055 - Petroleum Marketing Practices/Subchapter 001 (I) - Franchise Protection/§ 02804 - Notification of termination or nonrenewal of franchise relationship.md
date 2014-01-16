@@ -6,7 +6,7 @@ Prior to termination of any franchise or nonrenewal of any franchise relationshi
 
 &emsp;(1) in the manner described in subsection (c) of this section; and
 
-&emsp;(2) except as provided in subsection (b) of this section, not less than 90 days prior to the date on which such termination or nonrenewal takes effect.
+&emsp;(2) except as provided in subsection (b) of this section, not less than 90 days prior to thedate on which such termination or nonrenewal takes effect.
 
 #### (b) Additional requirements applicable to franchisor
 

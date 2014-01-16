@@ -2,13 +2,13 @@
 
 Payment of Federal unemployment tax for a calendar quarter or other period within a calendar year pursuant to section 6157 shall be considered payment on account of the tax imposed by chapter 23 of such calendar year.
 
-(Added Pub. L. 91–53, §2(c), Aug. 7, 1969, 83 Stat. 92; amended Pub. L. 98–76, title II, §231(b)(2)(B),Aug. 12, 1983, 97 Stat. 429; Pub. L. 100–647, title VII, §7106(c)(3), Nov. 10, 1988, 102 Stat. 3773.)
+(Added Pub. L. 91–53, §2(c), Aug. 7, 1969, 83 Stat. 92; amended Pub. L. 98–76, title II, §231(b)(2)(B), Aug. 12, 1983, 97 Stat. 429; Pub. L. 100–647, title VII, §7106(c)(3), Nov. 10, 1988, 102 Stat. 3773.)
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–647 struck out “or tax imposed by section 3321” after “unemployment tax” and “and 23A, as the case may be,” after “chapter 23”.
+<b>1988</b>—Pub. L. 100–647 struck out "or tax imposed by section 3321" after "unemployment tax" and "and 23A, as the case may be," after "chapter 23".
 
-<b>1983</b>—Pub. L. 98–76 inserted “or tax imposed by section 3321” after “Federal unemployment tax”, and substituted “chapter 23 and 23A, as the case may be,” for “chapter 23”.
+<b>1983</b>—Pub. L. 98–76 inserted "or tax imposed by section 3321" after "Federal unemployment tax", and substituted "chapter 23 and 23A, as the case may be," for "chapter 23".
 
 #### Effective Date of 1988 Amendment
 

@@ -8,13 +8,13 @@
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 112–29 struck out “of this title” after “252”.
+<b>2011</b>—Subsec. (b). Pub. L. 112–29 struck out "of this title" after "252".
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–465 substituted “used within the United States, or imported into the United States, anything” for “used anything”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–465 substituted "used within the United States, or imported into the United States, anything" for "used anything".
 
 #### Effective Date of 2011 Amendment
 

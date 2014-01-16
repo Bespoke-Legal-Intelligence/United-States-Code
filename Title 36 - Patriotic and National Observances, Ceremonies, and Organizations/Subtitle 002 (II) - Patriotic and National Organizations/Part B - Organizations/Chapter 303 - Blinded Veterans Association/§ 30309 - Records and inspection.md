@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 Aug. 27, 1958, Pub. L. 85–769, §13, 72 Stat. 926.
 
-The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
+The word "records" is substituted for "books and records" for consistency in the revised title and with other titles of the United States Code.
 

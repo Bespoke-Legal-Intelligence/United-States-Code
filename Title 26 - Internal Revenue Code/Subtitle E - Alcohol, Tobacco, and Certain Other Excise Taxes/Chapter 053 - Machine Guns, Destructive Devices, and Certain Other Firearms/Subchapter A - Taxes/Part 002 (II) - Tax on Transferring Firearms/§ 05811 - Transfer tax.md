@@ -20,7 +20,7 @@ A prior section 5811, acts Aug. 16, 1954, ch. 736, 68A Stat. 722; Sept. 2, 1958,
 
 #### Amendments
 
-<b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—There is within the Air Force Space and Missile Systems Center of the Department of Defense a joint program office known as the Operationally Responsive Space Program Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Air Force Space and Missile Systems Center.
+In General.—There is within the Air Force Space and Missile Systems Center of the Department of Defense a joint program office known as the Operationally Responsive Space Program Office (in this section referred to as the "Office"). The facilities of the Office may not be co-located with the headquarters facilities of the Air Force Space and Missile Systems Center.
 
 (b)
 
@@ -78,13 +78,13 @@ Required Program Element.—(1) The Secretary of Defense shall ensure that, with
 
 (g)
 
-Executive Committee.—(1) The Secretary of Defense shall establish for the Office an Executive Committee (to be known as the “Operationally Responsive Space Executive Committee”) to provide coordination, oversight, and approval of projects of the Office.
+Executive Committee.—(1) The Secretary of Defense shall establish for the Office an Executive Committee (to be known as the "Operationally Responsive Space Executive Committee") to provide coordination, oversight, and approval of projects of the Office.
 
 (2) The Executive Committee shall consist of the officials (and their duties) as follows:
 
 &emsp;(A) The Department of Defense Executive Agent for Space, who shall serve as Chair of the Executive Committee and provide oversight, prioritization, coordination, and resources for the Office.
 
-&emsp;(B) The Under Secretary of Defense for Acquisition, Technology, and Logistics, whoshall provide coordination and oversight of the Office and recommend funding sources for programs of the Office that exceed the approved program baseline.
+&emsp;(B) The Under Secretary of Defense for Acquisition, Technology, and Logistics, who shall provide coordination and oversight of the Office and recommend funding sources for programs of the Office that exceed the approved program baseline.
 
 &emsp;(C) The Commander of the United States Strategic Command, who shall validate requirements for systems to be acquired by the Office and participate in approval of any acquisition program initiated by the Office.
 
@@ -96,17 +96,17 @@ Executive Committee.—(1) The Secretary of Defense shall establish for the Offi
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239, §914(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish within the Department of Defense an office to be known as the Operationally Responsive Space Program Office (in this section referred to as the ‘Office’).”
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §914(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary of Defense shall establish within the Department of Defense an office to be known as the Operationally Responsive Space Program Office (in this section referred to as the 'Office')."
 
-Subsec. (b). Pub. L. 112–239, §914(b), substituted “shall be the designee of the Department of Defense Executive Agent for Space. The head of the Office shall report to the Commander of the Air Force Space and Missile Systems Center.” for “shall be—
+Subsec. (b). Pub. L. 112–239, §914(b), substituted "shall be the designee of the Department of Defense Executive Agent for Space. The head of the Office shall report to the Commander of the Air Force Space and Missile Systems Center." for "shall be—
 
-&emsp;“(1) the Department of Defense Executive Agent for Space; or
+&emsp;"(1) the Department of Defense Executive Agent for Space; or
 
-&emsp;“(2) the designee of the Secretary of Defense, who shall report to the Department of Defense Executive Agent for Space.”
+&emsp;"(2) the designee of the Secretary of Defense, who shall report to the Department of Defense Executive Agent for Space."
 
-Subsec. (c)(1). Pub. L. 112–239, §914(c), substituted “launch” for “spacelift”.
+Subsec. (c)(1). Pub. L. 112–239, §914(c), substituted "launch" for "spacelift".
 
-Subsec. (e)(1). Pub. L. 112–239, §914(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Department of Defense Executive Agent for Space shall be the senior acquisition executive of the Office.”
+Subsec. (e)(1). Pub. L. 112–239, §914(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Department of Defense Executive Agent for Space shall be the senior acquisition executive of the Office."
 
 Subsec. (g). Pub. L. 112–239, §914(e), added subsec. (g).
 
@@ -114,19 +114,19 @@ Subsec. (g). Pub. L. 112–239, §914(e), added subsec. (g).
 
 #### Effective Date
 
-Pub. L. 108–375, div. A, title IX, §913(b), Oct. 28, 2004, 118 Stat. 2028, provided that: “Subsection (a) of section 2273a of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 2005.”
+Pub. L. 108–375, div. A, title IX, §913(b), Oct. 28, 2004, 118 Stat. 2028, provided that: "Subsection (a) of section 2273a of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 2005."
 
 #### United States Policy on Operationally Responsive Space
 
-Pub. L. 109–364, div. A, title IX, §913(a), Oct. 17, 2006, 120 Stat. 2355, provided that: “It is the policy of the United States to demonstrate, acquire, and deploy an effective capability for operationally responsive space to support military users and operations from space, which shall consist of—
+Pub. L. 109–364, div. A, title IX, §913(a), Oct. 17, 2006, 120 Stat. 2355, provided that: "It is the policy of the United States to demonstrate, acquire, and deploy an effective capability for operationally responsive space to support military users and operations from space, which shall consist of—
 
-&emsp;“(1) responsive satellite payloads and busses built to common technical standards;
+&emsp;"(1) responsive satellite payloads and busses built to common technical standards;
 
-&emsp;“(2) low-cost space launch vehicles and supporting range operations that facilitate the timely launch and on-orbit operations of satellites;
+&emsp;"(2) low-cost space launch vehicles and supporting range operations that facilitate the timely launch and on-orbit operations of satellites;
 
-&emsp;“(3) responsive command and control capabilities; and
+&emsp;"(3) responsive command and control capabilities; and
 
-&emsp;“(4) concepts of operations, tactics, techniques, and procedures that permit the use of responsive space assets for combat and military operations other than war.”
+&emsp;"(4) concepts of operations, tactics, techniques, and procedures that permit the use of responsive space assets for combat and military operations other than war."
 
 #### Joint Operationally Responsive Space Payload Technology Organization
 

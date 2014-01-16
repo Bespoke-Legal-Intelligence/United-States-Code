@@ -82,7 +82,7 @@ The first report required to be submitted by the Attorney General under subsecti
 
 #### (c) Report of the FBI
 
-Not later than 1 year after October 13, 2008, and annually thereafter, the Director of the Federal Bureau of Investigation shall submit a report to Congress on actions taken to carry out sections 3713a to 3713d of this title. The initial report required under this subsection shall be submitted by May 1, 2009. All subsequent annual reports shall be submitted by May 1st of each fiscal year thereafter. The report required underthis subsection may be submitted as part of the annual performance report of the Department of Justice, and shall include—
+Not later than 1 year after October 13, 2008, and annually thereafter, the Director of the Federal Bureau of Investigation shall submit a report to Congress on actions taken to carry out sections 3713a to 3713d of this title. The initial report required under this subsection shall be submitted by May 1, 2009. All subsequent annual reports shall be submitted by May 1st of each fiscal year thereafter. The report required under this subsection may be submitted as part of the annual performance report of the Department of Justice, and shall include—
 
 &emsp;(1) a review of the policies and efforts of the Bureau related to the prevention and investigation of intellectual property crimes;
 
@@ -132,7 +132,7 @@ The first report required to be submitted by the Director of the Federal Bureau 
 
 #### References in Text
 
-Sections 3713a to 3713d of this title, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title IV of Pub. L. 110–403, Oct. 13, 2008, 122 Stat. 4271, which enacted sections 3713a to 3713d of this title and amended section 3713 of this title. For complete classification of title IV to the Code, see Tables.
+Sections 3713a to 3713d of this title, referred to in subsecs. (a) and (c), was in the original "this title", meaning title IV of Pub. L. 110–403, Oct. 13, 2008, 122 Stat. 4271, which enacted sections 3713a to 3713d of this title and amended section 3713 of this title. For complete classification of title IV to the Code, see Tables.
 
 #### Codification
 

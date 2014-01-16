@@ -50,7 +50,7 @@ The Securities Act of 1933, referred to in subsec. (a)(1), is act May 27, 1933, 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–290 substituted “from any person” for “or from any person” and inserted before semicolon “, or from any other person, subject to such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–290 substituted "from any person" for "or from any person" and inserted before semicolon ", or from any other person, subject to such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors".
 
-<b>1987</b>—Subsec. (a)(1)(B). Pub. L. 100–181 substituted “described in section” for “described in sections”.
+<b>1987</b>—Subsec. (a)(1)(B). Pub. L. 100–181 substituted "described in section" for "described in sections".
 

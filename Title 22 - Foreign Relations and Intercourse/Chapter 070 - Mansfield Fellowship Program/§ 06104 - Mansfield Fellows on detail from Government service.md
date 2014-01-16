@@ -14,7 +14,7 @@
 
 #### (b) Status as Government employee
 
-A fellow detailed under subsection (a) of this section is deemed, for the purpose of preservingallowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore is deemed to comply with section 5536 of title 5.
+A fellow detailed under subsection (a) of this section is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore <sup>1</sup> is deemed to comply with section 5536 of title 5.
 
 #### (c) Reimbursement
 
@@ -29,4 +29,6 @@ A fellow detailed under subsection (a) of this section may be paid by the Center
 #### Transfer of Functions
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "therefor".</i>
 

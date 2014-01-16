@@ -12,7 +12,7 @@ The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–382 substituted “part C” for “subpart 1 of part B”.
+<b>1994</b>—Pub. L. 103–382 substituted "part C" for "subpart 1 of part B".
 
 <b>1984</b>—Pub. L. 98–511 inserted provisions establishing the Office of Migrant Education and specifying its functions.
 

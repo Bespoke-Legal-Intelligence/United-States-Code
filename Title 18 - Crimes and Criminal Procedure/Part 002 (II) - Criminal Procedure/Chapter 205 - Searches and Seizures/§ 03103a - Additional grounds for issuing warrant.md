@@ -40,7 +40,7 @@ Report by administrative office of the united states courts.—Beginning with th
 
 &emsp;(3)
 
-Regulations.—The Director of the Administrative Office of the United States Courts, in consultation with the Attorney General, is authorized to issue binding regulations dealing with the content and form of the reports required to be filed under paragraph (1).
+Regulations.—The Director of the Administrative Office of the United States Courts, in consultation with the Attorney General, is authorized to issue binding regulations dealing with the content and form of thereports required to be filed under paragraph (1).
 
 (Added Pub. L. 90–351, title IX, §1401(a), June 19, 1968, 82 Stat. 238; amended Pub. L. 107–56, title II, §213, Oct. 26, 2001, 115 Stat. 285; Pub. L. 109–177, title I, §114, Mar. 9, 2006, 120 Stat. 210.)
 
@@ -50,13 +50,13 @@ Pub. L. 90–351 enacted section 3103a of this title as part of chapter 204, and
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–177, §114(b), inserted “, except if the adverse results consist only of unduly delaying a trial” after “2705”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–177, §114(b), inserted ", except if the adverse results consist only of unduly delaying a trial" after "2705".
 
-Subsec. (b)(3). Pub. L. 109–177, §114(a)(1), added par. (3) and struck out former par. (3) which read as follows: “the warrant provides for the giving of such notice within a reasonable period of its execution, which period may thereafter be extended by the court for good cause shown.”
+Subsec. (b)(3). Pub. L. 109–177, §114(a)(1), added par. (3) and struck out former par. (3) which read as follows: "the warrant provides for the giving of such notice within a reasonable period of its execution, which period may thereafter be extended by the court for good cause shown."
 
 Subsecs. (c), (d). Pub. L. 109–177, §114(a)(2), (c), added subsecs. (c) and (d).
 
 <b>2001</b>—Pub. L. 107–56 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<i><sup>1</sup></i><i> So in original. The closing parenthesis probably should follow “section 2705”.</i>
+<i><sup>1</sup></i><i> So in original. The closing parenthesis probably should follow "section 2705".</i>
 

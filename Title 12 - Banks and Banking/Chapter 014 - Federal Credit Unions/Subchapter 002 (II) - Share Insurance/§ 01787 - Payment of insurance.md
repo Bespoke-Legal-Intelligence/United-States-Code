@@ -2,7 +2,7 @@
 
 #### (a) Liquidation by Board; bond; appointment of agent; fees to be fixed by Board
 
-(1)(A) Upon its finding that a Federal credit union insured under this subchapter is bankruptor insolvent, the Board shall close such credit union for liquidation and appoint itself liquidating agent therefor.
+(1)(A) Upon its finding that a Federal credit union insured under this subchapter is bankrupt or insolvent, the Board shall close such credit union for liquidation and appoint itself liquidating agent therefor.
 
 (B) Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b) of this section, such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
 
@@ -76,11 +76,11 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (i) Showing
 
-&emsp;&emsp;&emsp;Rule 65 of the Federal Rules of Civil Procedure shall apply with respect to any proceeding under subparagraph (G) withoutregard to the requirement of such rule that the applicant show that the injury, loss, or damage is irreparable and immediate.
+&emsp;&emsp;&emsp;Rule 65 of the Federal Rules of Civil Procedure shall apply with respect to any proceeding under subparagraph (G) without regard to the requirement of such rule that the applicant show that the injury, loss, or damage is irreparable and immediate.
 
 #### (ii) State proceeding
 
-&emsp;&emsp;&emsp;If, in the case of any proceeding in a State court, the court determines that rules of civil procedure available under the laws of such State provide substantially similar protections to such party's right to due process as Rule 65 (as modified with respect to such proceeding by clause (i)), the relief sought by the Board pursuant to subparagraph (G) may be requested under the laws of such State.
+&emsp;&emsp;&emsp;If, in the case of any proceeding in a State court, the court determines that rules of civil procedure available under the laws of such State provide substantiallysimilar protections to such party's right to due process as Rule 65 (as modified with respect to such proceeding by clause (i)), the relief sought by the Board pursuant to subparagraph (G) may be requested under the laws of such State.
 
 #### (I) Subpoena authority
 
@@ -416,13 +416,13 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (ii) Old records
 
-&emsp;&emsp;&emsp;Notwithstanding clause (i) the Board may destroy records of an insured credit union which are at least 10 years old as ofthe date on which the Board is appointed as liquidating agent of such credit union in accordance with clause (i) at any time after such appointment is final, without regard to the 6-year period of limitation contained in clause (i).
+&emsp;&emsp;&emsp;Notwithstanding clause (i) the Board may destroy records of an insured credit union which are at least 10 years old as of the date on which the Board is appointed as liquidating agent of such credit union in accordance with clause (i) at any time after such appointment is final, without regard to the 6-year period of limitation contained in clause (i).
 
 #### (16) Fraudulent transfers
 
 #### (A) In general
 
-&emsp;&emsp;The Board, as conservator or liquidating agent for any insured credit union, may avoid a transfer of any interest of an institution-affiliated party, or any person who the Board determines is a debtor of the institution, in property, or any obligation incurred by such party or person, that was made within 5 years of the date on which the Board becomes conservator or liquidating agent if such party or person voluntarily or involuntarily made such transfer or incurred such liability with the intent to hinder, delay, or defraud the insured credit union or the Board.
+&emsp;&emsp;The Board, as conservator or liquidating agent for any insured credit union, mayavoid a transfer of any interest of an institution-affiliated party, or any person who the Board determines is a debtor of the institution, in property, or any obligation incurred by such party or person, that was made within 5 years of the date on which the Board becomes conservator or liquidating agent if such party or person voluntarily or involuntarily made such transfer or incurred such liability with the intent to hinder, delay, or defraud the insured credit union or the Board.
 
 #### (B) Right of recovery
 
@@ -476,7 +476,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (B) No liability for other damages
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “actual direct compensatory damages” does not include—
+&emsp;&emsp;For purposes of subparagraph (A), the term "actual direct compensatory damages" does not include—
 
 &emsp;&emsp;&emsp;(i) punitive or exemplary damages;
 
@@ -628,13 +628,13 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (i) Qualified financial contract
 
-&emsp;&emsp;&emsp;The term “qualified financial contract” means any securities contract, forward contract, repurchase agreement, and any similar agreement that the Board determines by regulation, resolution, or order to be a qualified financial contract for purposes of this paragraph.
+&emsp;&emsp;&emsp;The term "qualified financial contract" means any securities contract, forward contract, repurchase agreement, and any similar agreement that the Board determines by regulation, resolution, or order to be a qualified financial contract for purposes of this paragraph.
 
 #### (ii) Securities contract
 
-&emsp;&emsp;&emsp;The term “securities contract”—
+&emsp;&emsp;&emsp;The term "securities contract"—
 
-&emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in clause (v));
+&emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such repurchase or reverse repurchase transaction is a "repurchase agreement", as defined in clause (v));
 
 &emsp;&emsp;&emsp;&emsp;(II) does not include any purchase, sale, or repurchase obligation under a participation in a commercial mortgage loan unless the Board determines by regulation, resolution, or order to include any such agreement within the meaning of such term;
 
@@ -660,7 +660,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (iii) Commodity contract
 
-&emsp;&emsp;&emsp;The term “commodity contract” means—
+&emsp;&emsp;&emsp;The term "commodity contract" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to a futures commission merchant, a contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade;
 
@@ -684,9 +684,9 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (iv) Forward contract
 
-&emsp;&emsp;&emsp;The term “forward contract” means—
+&emsp;&emsp;&emsp;The term "forward contract" means—
 
-&emsp;&emsp;&emsp;&emsp;(I) a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than 2 days after the date the contract is entered into, including,<sup>2</sup> a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in clause (v)), consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
+&emsp;&emsp;&emsp;&emsp;(I) a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than 2 days after the date the contract is entered into, including,<sup>2</sup> a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a "repurchase agreement", as defined in clause (v)), consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
 
 &emsp;&emsp;&emsp;&emsp;(II) any combination of agreements or transactions referred to in subclauses (I) and (III);
 
@@ -698,9 +698,9 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (v) Repurchase agreement
 
-&emsp;&emsp;&emsp;The term “repurchase agreement” (which definition also applies to a reverse repurchase agreement)—
+&emsp;&emsp;&emsp;The term "repurchase agreement" (which definition also applies to a reverse repurchase agreement)—
 
-&emsp;&emsp;&emsp;&emsp;(I) means an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage-related securities (as such term is defined in the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\]), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers’ acceptances, qualified foreign government securities or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement;
+&emsp;&emsp;&emsp;&emsp;(I) means an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage-related securities (as such term is defined in the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\]), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers' acceptances, qualified foreign government securities or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers' acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers' acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement;
 
 &emsp;&emsp;&emsp;&emsp;(II) does not include any repurchase obligation under a participation in a commercial mortgage loan unless the Board determines by regulation, resolution, or order to include any such participation within the meaning of such term;
 
@@ -712,11 +712,11 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(VI) means any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in subclause (I), (III), (IV), or (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
 
-&emsp;&emsp;&nbsp;For purposes of this clause, the term “qualified foreign government security” means a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development (as determined by regulation or order adopted by the appropriate Federal banking authority).
+&emsp;&emsp;&nbsp;For purposes of this clause, the term "qualified foreign government security" means a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development (as determined by regulation or order adopted by the appropriate Federal banking authority).
 
 #### (vi) Swap agreement
 
-&emsp;&emsp;&emsp;The term “swap agreement” means—
+&emsp;&emsp;&emsp;The term "swap agreement" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) any agreement, including the terms and conditions incorporated by reference in any such agreement, which is an interest rate swap, option, future, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, and basis swap; a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange, precious metals, or other commodity agreement; a currency swap, option, future, or forward agreement; an equity index or equity swap, option, future, or forward agreement; a debt index or debt swap, option, future, or forward agreement; a total return, credit spread or credit swap, option, future, or forward agreement; a commodity index or commodity swap, option, future, or forward agreement; weather swap, option, future, or forward agreement; an emissions swap, option, future, or forward agreement; or an inflation swap, option, future, or forward agreement;
 
@@ -726,7 +726,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(IV) any option to enter into any agreement or transaction referred to in this clause;
 
-&emsp;&emsp;&emsp;&emsp;(V) a master agreement that provides for an agreement or transaction referred to in subclause (I), (II), (III), or (IV), together with all supplements to any such master agreement, without regard to whether the master agreement contains an agreement or transaction that is nota swap agreement under this clause, except that the master agreement shall be considered to be a swap agreement under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), or (IV); and
+&emsp;&emsp;&emsp;&emsp;(V) a master agreement that provides for an agreement or transaction referred to in subclause (I), (II), (III), or (IV), together with all supplements to any such master agreement, without regard to whether the master agreement contains an agreement or transaction that is not a swap agreement under this clause, except that the master agreement shall be considered to be a swap agreement under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), or (IV); and
 
 &emsp;&emsp;&emsp;&emsp;(VI) any security agreement or arrangement or other credit enhancement related to any agreements or transactions referred to in subclause (I), (II), (III), (IV), or (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
 
@@ -738,11 +738,11 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (viii) Transfer
 
-&emsp;&emsp;&emsp;The term “transfer” means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the depository institution's equity of redemption.
+&emsp;&emsp;&emsp;The term "transfer" means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the depository institution's equity of redemption.
 
 #### (ix) Person
 
-&emsp;&emsp;&emsp;The term “person” includes any governmental entity in addition to any entity included in the definition of such term in section 1 of title 1.
+&emsp;&emsp;&emsp;The term "person" includes any governmental entity in addition to any entity included in the definition of such term in section 1 of title 1.
 
 #### (E) Certain protections in event of appointment of conservator
 
@@ -774,7 +774,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (iii) Walkaway clause defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “walkaway clause” means any provision in a qualified financial contract that suspends, conditions, or extinguishes a payment obligation of a party, in whole or in part, or does not create a payment obligation of a party that would otherwise exist, solely because of such party's status as a nondefaulting party in connection with the insolvency of an insured credit union or the appointment of or the exercise of rights or powers by a conservator or liquidating agent of such credit union, and not as a result of a party's exercise of any right to offset, setoff, or net obligations that exist under the contract, any other contract between those parties, or applicable law.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "walkaway clause" means any provision in a qualified financial contract that suspends, conditions, or extinguishes a payment obligation of a party, in whole or in part, or does not create a payment obligation of a party that would otherwise exist, solely because of such party's status as a nondefaulting party in connection with the insolvency of an insured credit union or the appointment of or the exercise of rights or powers by a conservator or liquidating agent of such credit union, and not as a result of a party's exercise of any right to offset, setoff, or net obligations that exist under the contract, any other contract between those parties, or applicable law.
 
 #### (H) Recordkeeping requirements
 
@@ -810,9 +810,9 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) the term “financial institution” means a broker or dealer, a depository institution, a futures commission merchant, a credit union, or any other institution, as determined by the Board by regulation to be a financial institution; and
+&emsp;&emsp;&emsp;(i) the term "financial institution" means a broker or dealer, a depository institution, a futures commission merchant, a credit union, or any other institution, as determined by the Board by regulation to be a financial institution; and
 
-&emsp;&emsp;&emsp;(ii) the term “clearing organization” has the same meaning as in section 4402 of this title.
+&emsp;&emsp;&emsp;(ii) the term "clearing organization" has the same meaning as in section 4402 of this title.
 
 #### (10) Notification of transfer
 
@@ -838,7 +838,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (ii) Conservatorship
 
-&emsp;&emsp;&emsp;A person who is a party to a qualified financial contract with an insured credit union may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(E) of this subsection or section 4403 or 4404 of this title, solely by reason of or incidentalto the appointment of a conservator for the credit union or <sup>3</sup> the insolvency or financial condition of the credit union for which the conservator has been appointed).
+&emsp;&emsp;&emsp;A person who is a party to a qualified financial contract with an insured credit union may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(E) of this subsection or section 4403 or 4404 of this title, solely by reason of or incidental to the appointment of a conservator for the credit union or <sup>3</sup> the insolvency or financial condition of the credit union for which the conservator has been appointed).
 
 #### (iii) Notice
 
@@ -856,9 +856,9 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(II) at the time of a purchase and assumption transaction between the credit union and the Board as receiver for a credit union in default.
 
-#### (D) “Business day” defined
+#### (D) "Business day" defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “business day” means any day other than any Saturday, Sunday, or any day on which either the New York Stock Exchange or the Federal Reserve Bank of New York is closed.
+&emsp;&emsp;For purposes of this paragraph, the term "business day" means any day other than any Saturday, Sunday, or any day on which either the New York Stock Exchange or the Federal Reserve Bank of New York is closed.
 
 #### (11) Disaffirmance or repudiation of qualified financial contracts
 
@@ -970,7 +970,7 @@ A director or officer of an insured credit union may be held personally liable f
 
 &emsp;(1) acting as conservator or liquidating agent of such insured credit union,
 
-&emsp;(2) acting based upon a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed by such liquidating agent or conservator, or
+&emsp;(2) acting based upon a suit, claim, or cause of action purchased from, assigned by, orotherwise conveyed by such liquidating agent or conservator, or
 
 &emsp;(3) acting based upon a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed in whole or in part by an insured credit union or its affiliate in connection with assistance provided under section 1788 of this title,
 
@@ -982,7 +982,7 @@ In any proceeding related to any claim against an insured credit union's directo
 
 #### (j) Board as liquidating agent of State-chartered credit unions
 
-Whenever any insured State-chartered credit union shall have been closed by action of its board of directors or by the commission, board, or authority having supervision of such credit union, as the case may be, or by a court of competent jurisdiction, on account of bankruptcy or insolvency, the Board shall accept appointment as liquidating agent therefor, if such appointment is tendered by the commission, board, or authority having supervision of such credit union, or by a court of competent jurisdiction, and is authorized or permitted by State law. With respect to any such State-chartered credit union, the Board as such liquidating agent shall possess all the rights, powers, and privileges granted by State law to a liquidating agent of a State-chartered credit union. For the purposes of this subsection, the term “liquidating agent” includes a liquidating agent, receiver, conservator, commission, person, or other agency charged by law with the duty of winding up the affairs of a credit union.
+Whenever any insured State-chartered credit union shall have been closed by action of its board of directors or by the commission, board, or authority having supervision of such credit union, as the case may be, or by a court of competent jurisdiction, on account of bankruptcy or insolvency, the Board shall accept appointment as liquidating agent therefor, if such appointment is tendered by the commission, board, or authority having supervision of such credit union, or by a court of competent jurisdiction, and is authorized or permitted by State law. With respect to any such State-chartered credit union, the Board as such liquidating agent shall possess all the rights, powers, and privileges granted by State law to a liquidating agent of a State-chartered credit union. For the purposes of this subsection, the term "liquidating agent" includes a liquidating agent, receiver, conservator, commission, person, or other agency charged by law with the duty of winding up the affairs of a credit union.
 
 #### (k) Insured amounts payable
 
@@ -1008,7 +1008,7 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 #### (B) Government depositor
 
-&emsp;&emsp;In this paragraph, the term “government depositor” means a depositor that is—
+&emsp;&emsp;In this paragraph, the term "government depositor" means a depositor that is—
 
 &emsp;&emsp;&emsp;(i) an officer, employee, or agent of the United States having official custody of public funds and lawfully investing the same in a credit union insured in accordance with this subchapter;
 
@@ -1024,7 +1024,7 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 &emsp;&emsp;The Board may limit the aggregate amount of funds that may be invested or deposited in any credit union insured in accordance with this subchapter by any government depositor or member on the basis of the size of any such credit union in terms of its assets.
 
-(3) Notwithstanding any limitation in this subchapter or in any other provision of law relating to the amount of insurance available for the account of any one depositor or member, funds invested in a credit union insured in accordance with this subchapter pursuant to a pension or profit-sharing plan described in section 401(d) of title 26, and funds invested in such an insured credit union in the form of individual retirement accounts as described in section 408(a) of title 26, shall be insured in the amount of “$250,000 <sup>6</sup> (which amount shall be subject to inflation adjustments as provided under section 1821(a)(1)(F) of this title, except that $250,000 <sup>7</sup> shall be substituted for $100,000 <sup>7</sup> wherever such term appears in such section)” <sup>6</sup> per account. As to any plan qualifying under section 401(d) or section 408(a) of title 26, the term “per account” means the present vested and ascertainable interest of each beneficiary under the plan, excluding any remainder interest created by, or as a result of, the plan.
+(3) Notwithstanding any limitation in this subchapter or in any other provision of law relating to the amount of insurance available for the account of any one depositor or member, funds invested in a credit union insured in accordance with this subchapter pursuant to a pension or profit-sharing plan described in section 401(d) of title 26, and funds invested in such an insured credit union in the form of individual retirement accounts as described in section 408(a) of title 26, shall be insured in the amount of "$250,000 <sup>6</sup> (which amount shall be subject to inflation adjustments as provided under section 1821(a)(1)(F) of this title, except that $250,000 <sup>7</sup> shall be substituted for $100,000 <sup>7</sup> wherever such term appears in such section)" <sup>6</sup> per account. As to any plan qualifying under section 401(d) or section 408(a) of title 26, the term "per account" means the present vested and ascertainable interest of each beneficiary under the plan, excluding any remainder interest created by, or as a result of, the plan.
 
 #### (4) Coverage for certain employee benefit plan deposits
 
@@ -1042,11 +1042,11 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 #### (i) Capital standards
 
-&emsp;&emsp;&emsp;The terms “well capitalized” and “adequately capitalized” have the same meanings as in section 1790d(c) of this title.
+&emsp;&emsp;&emsp;The terms "well capitalized" and "adequately capitalized" have the same meanings as in section 1790d(c) of this title.
 
 #### (ii) Employee benefit plan
 
-&emsp;&emsp;&emsp;The term “employee benefit plan”—
+&emsp;&emsp;&emsp;The term "employee benefit plan"—
 
 &emsp;&emsp;&emsp;&emsp;(I) has the meaning given to such term in section 1002(3) of title 29;
 
@@ -1056,7 +1056,7 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 #### (iii) Pass-through share insurance
 
-&emsp;&emsp;&emsp;The term “pass-through share insurance” means, with respect to an employee benefit plan, insurance coverage based on the interest of each participant, in accordance with regulations issued by the Administration.
+&emsp;&emsp;&emsp;The term "pass-through share insurance" means, with respect to an employee benefit plan, insurance coverage based on the interest of each participant, in accordance with regulations issued by the Administration.
 
 #### (D) Rule of construction
 
@@ -1064,7 +1064,7 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 #### (5) Standard maximum share insurance amount defined
 
-&emsp;For purposes of this chapter, the term “standard maximum share insurance amount” means $250,000, adjusted as provided under section 1821(a)(1)(F) of this title.
+&emsp;For purposes of this chapter, the term "standard maximum share insurance amount" means $250,000, adjusted as provided under section 1821(a)(1)(F) of this title.
 
 #### (l) Payment; discharge of liability
 
@@ -1080,11 +1080,11 @@ The Board may withhold payment of such portion of the insured account of any mem
 
 #### (o) Unclaimed insured accounts; limitations
 
-If, after the Board shall have given at least four months’ notice to the member by mailing a copy thereof to his last-known address appearing on the records of the closed credit union, any member of the closed credit union shall fail to claim his insured account from the Board within 18 months after the appointment of the liquidating agent for the closed credit union, all rights of the member against the Board with respect to the insured accounts shall be barred, and all rights of the member against the closed credit union, or the estate to which the Board may have become subrogated, shall thereupon revert to the member.
+If, after the Board shall have given at least four months' notice to the member by mailing a copy thereof to his last-known address appearing on the records of the closed credit union, any member of the closed credit union shall fail to claim his insured account from the Board within 18 months after the appointment of the liquidating agent for the closed credit union, all rights of the member against the Board with respect to the insured accounts shall be barred, and all rights of the member against the closed credit union, or the estate to which the Board may have become subrogated, shall thereupon revert to the member.
 
 #### (p) Sale of assets; security for loans; approval of court; agreements affecting interest of Board in any asset acquired by it
 
-(1) Liquidating agents of insured credit unions closed for liquidation on account of bankruptcy or insolvency may offer the assets of such credit unions for sale to the Board or as security for loans from the Board, upon receiving permissionfrom the commission, board, or authority having supervision of such credit union, in the case of an insured State-chartered credit union, in accordance with express provisions of State law. The proceeds of every such sale or loan shall be utilized for the same purposes and in the same manner as other funds realized from the liquidation of the assets of such credit unions. The Board, in its discretion, may make loans on the security of or may purchase and liquidate or sell any part of the assets of an insured credit union closed for liquidation on account of bankruptcy or insolvency, but in any case in which the Board is acting as liquidating agent of a closed insured credit union, no such loan or purchase shall be made without the approval of a court of competent jurisdiction.
+(1) Liquidating agents of insured credit unions closed for liquidation on account of bankruptcy or insolvency may offer the assets of such credit unions for sale to the Board or as security for loans from the Board, upon receiving permission from the commission, board, or authority having supervision of such credit union, in the case of an insured State-chartered credit union, inaccordance with express provisions of State law. The proceeds of every such sale or loan shall be utilized for the same purposes and in the same manner as other funds realized from the liquidation of the assets of such credit unions. The Board, in its discretion, may make loans on the security of or may purchase and liquidate or sell any part of the assets of an insured credit union closed for liquidation on account of bankruptcy or insolvency, but in any case in which the Board is acting as liquidating agent of a closed insured credit union, no such loan or purchase shall be made without the approval of a court of competent jurisdiction.
 
 (2) No agreement which tends to diminish or defeat the right, title, or interest of the Board in any asset acquired by it under this subsection, either as security for a loan or by purchase, shall be valid against the Board unless such agreement—
 
@@ -1142,43 +1142,43 @@ For definition of Canal Zone, referred to in subsec. (k)(2)(B)(iv), see section 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (k)(1)(A). Pub. L. 111–203, §343(b)(3)(A), struck out cl. (i) designation and heading, substituted “Subject to the provisions of paragraph (2), the net amount” for “Subject to clause (ii) and the provisions of paragraph (2), the net amount”, and struck out cls. (ii) and (iii) which related to insurance for noninterest-bearing transaction accounts and defined “noninterest-bearing transaction account”, respectively.
+<b>2010</b>—Subsec. (k)(1)(A). Pub. L. 111–203, §343(b)(3)(A), struck out cl. (i) designation and heading, substituted"Subject to the provisions of paragraph (2), the net amount" for "Subject to clause (ii) and the provisions of paragraph (2), the net amount", and struck out cls. (ii) and (iii) which related to insurance for noninterest-bearing transaction accounts and defined "noninterest-bearing transaction account", respectively.
 
-Pub. L. 111–203, §343(b)(1)(A), designated existing provisions as cl. (i), inserted heading, substituted “Subject to clause (ii) and the provisions of paragraph (2), the net amount” for “Subject to the provisions of paragraph (2), the net amount”, and added cls. (ii) and (iii).
+Pub. L. 111–203, §343(b)(1)(A), designated existing provisions as cl. (i), inserted heading, substituted "Subject to clause (ii) and the provisions of paragraph (2), the net amount" for "Subject to the provisions of paragraph (2), the net amount", and added cls. (ii) and (iii).
 
-Subsec. (k)(1)(B). Pub. L. 111–203, §343(b)(3)(B), substituted “subparagraph (A)” for “subparagraph (A)(i)”.
+Subsec. (k)(1)(B). Pub. L. 111–203, §343(b)(3)(B), substituted "subparagraph (A)" for "subparagraph (A)(i)".
 
-Pub. L. 111–203, §343(b)(1)(B), substituted “subparagraph (A)(i)” for “subparagraph (A)”.
+Pub. L. 111–203, §343(b)(1)(B), substituted "subparagraph (A)(i)" for "subparagraph (A)".
 
-Subsec. (k)(5). Pub. L. 111–203, §335(b), substituted “$250,000” for “$100,000”.
+Subsec. (k)(5). Pub. L. 111–203, §335(b), substituted "$250,000" for "$100,000".
 
-<b>2008</b>—Subsec. (c)(10)(C)(i). Pub. L. 110–289 substituted “bridge depository institution” for “bridge bank”.
+<b>2008</b>—Subsec. (c)(10)(C)(i). Pub. L. 110–289 substituted "bridge depository institution" for "bridge bank".
 
 <b>2006</b>—Subsec. (b)(2)(K). Pub. L. 109–351, §720(b), added subpar. (K).
 
-Subsec. (b)(15)(D). Pub. L. 109–351, §722(b), designated existing provisions as cl. (i), inserted cl. heading, substituted “Except as provided in clause (ii), after the end of the 6-year period” for “After the end of the 6-year period”, and added cl. (ii).
+Subsec. (b)(15)(D). Pub. L. 109–351, §722(b), designated existing provisions as cl. (i), inserted cl. heading, substituted "Except as provided in clause (ii), after the end of the 6-year period" for "After the end of the 6-year period", and added cl. (ii).
 
-Subsec. (c)(5)(B)(i)(I). Pub. L. 109–351, §726(21), inserted “and” after semicolon.
+Subsec. (c)(5)(B)(i)(I). Pub. L. 109–351, §726(21), inserted "and" after semicolon.
 
-Subsec. (c)(8)(D)(ii)(I). Pub. L. 109–390, §2(a)(2)(A), substituted “a mortgage loan,” for “a mortgage loan, or” after “certificate of deposit,” and inserted before semicolon at end “(whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in clause (v))”.
+Subsec. (c)(8)(D)(ii)(I). Pub. L. 109–390, §2(a)(2)(A), substituted "a mortgage loan," for "a mortgage loan, or" after "certificate of deposit," and inserted before semicolon at end "(whether or not such repurchase or reverse repurchase transaction is a 'repurchase agreement', as defined in clause (v))".
 
-Subsec. (c)(8)(D)(ii)(IV). Pub. L. 109–390, §2(a)(2)(B), inserted “(including by novation)” after “the guarantee” and “(whether or not such settlement is in connection with any agreement or transaction referred to in subclauses (I) through (XII) (other than subclause (II))” before semicolon at end.
+Subsec. (c)(8)(D)(ii)(IV). Pub. L. 109–390, §2(a)(2)(B), inserted "(including by novation)" after "the guarantee" and "(whether or not such settlement is in connection with any agreement or transaction referred to in subclauses (I) through (XII) (other than subclause (II))" before semicolon at end.
 
 Subsec. (c)(8)(D)(ii)(VI) to (VIII). Pub. L. 109–390, §2(a)(2)(D), (E), added subcls. (VI) and (VII) and redesignated former subcl. (VI) as (VIII). Former subcl. (VIII) redesignated (X).
 
 Subsec. (c)(8)(D)(ii)(IX). Pub. L. 109–390, §2(a)(2)(D), redesignated subcl. (VII) as (IX). Former subcl. (IX) redesignated (XI).
 
-Pub. L. 109–390, §2(a)(2)(C), substituted “(VIII), (IX), or (X)” for “or (VIII)” in two places.
+Pub. L. 109–390, §2(a)(2)(C), substituted "(VIII), (IX), or (X)" for "or (VIII)" in two places.
 
 Subsec. (c)(8)(D)(ii)(X) to (XII). Pub. L. 109–390, §2(a)(2)(D), redesignated subcls. (VIII) to (X) as (X) to (XII), respectively.
 
-Subsec. (c)(8)(D)(iv)(I). Pub. L. 109–390, §2(b)(2), substituted “or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in clause (v))” for “transaction, reverse repurchase transaction”.
+Subsec. (c)(8)(D)(iv)(I). Pub. L. 109–390, §2(b)(2), substituted "or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a 'repurchase agreement', as defined in clause (v))" for "transaction, reverse repurchase transaction".
 
-Subsec. (c)(8)(D)(vi). Pub. L. 109–390, §2(c)(2)(C), substituted in concluding provisions “the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act” for “the Securities Act of 1933, the Securities Exchange Act of 1934, the Public Utility Holding Company Act of 1935, the Trust Indenture Act of 1939, the Investment Company Act of 1940, the Investment Advisers Act of 1940, the Securities Investor Protection Act of 1970, the Commodity Exchange Act, the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank Products Act of 2000”.
+Subsec. (c)(8)(D)(vi). Pub. L. 109–390, §2(c)(2)(C), substituted in concluding provisions "the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act" for "the Securities Act of 1933, the Securities Exchange Act of 1934, the Public Utility Holding Company Act of 1935, the Trust Indenture Act of 1939, the Investment Company Act of 1940, the Investment Advisers Act of 1940, the Securities Investor Protection Act of 1970, the Commodity Exchange Act, the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank Products Act of 2000".
 
-Subsec. (c)(8)(D)(vi)(I). Pub. L. 109–390, §2(c)(2)(A), substituted “, precious metals, or other commodity” for “or precious metals” and “weather swap, option, future, or forward agreement; an emissions swap, option, future, or forward agreement; or an inflation swap, option, future, or forward agreement” for “or a weather swap, weather derivative, or weather option”.
+Subsec. (c)(8)(D)(vi)(I). Pub. L. 109–390, §2(c)(2)(A), substituted ", precious metals, or other commodity" for "or precious metals" and "weather swap, option, future, or forward agreement; an emissions swap, option, future, or forward agreement; or an inflation swap, option, future, or forward agreement" for "or a weather swap, weather derivative, or weather option".
 
-Subsec. (c)(8)(D)(vi)(II). Pub. L. 109–390, §2(c)(2)(B), inserted “or other derivatives” after “dealings in the swap” and substituted “future, option, or spot transaction” for “future, or option”.
+Subsec. (c)(8)(D)(vi)(II). Pub. L. 109–390, §2(c)(2)(B), inserted "or other derivatives" after "dealings in the swap" and substituted "future, option, or spot transaction" for "future, or option".
 
 Subsec. (c)(8)(D)(ix). Pub. L. 109–390, §3(b), added cl. (ix).
 
@@ -1188,51 +1188,51 @@ Subsec. (c)(13)(C). Pub. L. 109–351, §718(b), which directed addition of subp
 
 Subsec. (d)(3). Pub. L. 109–351, §721(b), added par. (3) and struck out former par. (3) which related to resolution of dispute and adjudication of claims.
 
-Subsec. (d)(3)(A). Pub. L. 109–351, §726(22), which directed substitution of “with” for “to” in heading, could not be executed because there is no subpar. (A) heading after the amendment by Pub. L. 109–351, §721(b). See above.
+Subsec. (d)(3)(A). Pub. L. 109–351, §726(22), which directed substitution of "with" for "to" in heading, could not be executed because there is no subpar. (A) heading after the amendment by Pub. L. 109–351, §721(b). See above.
 
 Subsec. (d)(4), (5). Pub. L. 109–351, §721(b), added par. (4) and struck out former pars. (4) and (5) which related to review of the Board's final determination and the statute of limitations.
 
-Subsec. (f)(3)(A). Pub. L. 109–351, §726(23), substituted “category of claimants.” for “category or claimants.” in last sentence.
+Subsec. (f)(3)(A). Pub. L. 109–351, §726(23), substituted "category of claimants." for "category or claimants." in last sentence.
 
 Subsec. (k). Pub. L. 109–173, §2(d)(1)(A), inserted subsec. heading.
 
-Subsec. (k)(1). Pub. L. 109–173, §2(d)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “Subject to the provisions of paragraph (2), for the purposes of this subsection, the term ‘insured account’ means the total amount of the account in the member's name (after deducting offsets) less any part thereof which is in excess of $100,000. Such amount shall be determined according to such regulations as the Board may prescribe, and, in determining the amount due to any member, there shall be added together all accounts in the credit union maintained by him for his own benefit either in his own name or in the names of others. The Board may define, with such classifications and exceptions as it may prescribe, the extent of the insurance coverage provided for member accounts, including member accounts in the name of a minor, in trust, or in joint tenancy.”
+Subsec. (k)(1). Pub. L. 109–173, §2(d)(1)(A), added par. (1) and struck out former par. (1) which read as follows: "Subject to the provisions of paragraph (2), for the purposes of this subsection, the term 'insured account' means the total amount of the account in the member's name (after deducting offsets) less any part thereof which is in excess of $100,000. Such amount shall be determined according to such regulations as the Board may prescribe, and, in determining the amount due to any member, there shall be added together all accounts in the credit union maintained by him for his own benefit either in his own name or in the names of others. The Board may define, with such classifications and exceptions as it may prescribe, the extent of the insurance coverage provided for member accounts, including member accounts in the name of a minor, in trust, or in joint tenancy."
 
-Subsec. (k)(2). Pub. L. 109–173, §2(d)(1)(B)(ii)–(iv), inserted par. heading, added subpar. (A), substituted subpar. (B) designation, heading, and introductory provisions for former subpar. (A) designation and introductory provisions which read “Notwithstanding any limitation in this chapter or in any other provision of law relating to the amount of insurance available for the account of any one depositor or member, in the case of a depositor or member who is—”, redesignated former subpar. (B) as (C), inserted heading, and substituted “government depositor or member” for “depositor or member referred to in subparagraph (A)”.
+Subsec. (k)(2). Pub. L. 109–173, §2(d)(1)(B)(ii)–(iv), inserted par. heading, added subpar. (A), substituted subpar. (B) designation, heading, and introductory provisions for former subpar. (A) designation and introductory provisions which read "Notwithstanding any limitation in this chapter or in any other provision of law relating to the amount of insurance available for the account of any one depositor or member, in the case of a depositor or member who is—", redesignated former subpar. (B) as (C), inserted heading, and substituted "government depositor or member" for "depositor or member referred to in subparagraph (A)".
 
-Subsec. (k)(2)(A). Pub. L. 109–173, §2(d)(1)(B)(i), substituted period for semicolon at end of cl. (v), realigned margins of cls. (i) to (v), and struck out concluding provisions which read as follows: “his account shall be insured in an amount not to exceed $100,000 per account.”
+Subsec. (k)(2)(A). Pub. L. 109–173, §2(d)(1)(B)(i), substituted period for semicolon at end of cl. (v), realigned margins of cls. (i) to (v), and struck out concluding provisions which read as follows: "his account shall be insured in an amount not to exceed $100,000 per account."
 
-Subsec. (k)(3). Pub. L. 109–173, §2(d)(2), substituted “ ‘$250,000 (which amount shall be subject to inflation adjustments as provided under section 1821(a)(1)(F) of this title, except that $250,000 shall be substituted for $100,000 wherever such term appears in such section)’ ” for “$100,000”.
+Subsec. (k)(3). Pub. L. 109–173, §2(d)(2), substituted " '$250,000 (which amount shall be subject to inflation adjustments as provided under section 1821(a)(1)(F) of this title, except that $250,000 shall be substituted for $100,000 wherever such term appears in such section)' " for "$100,000".
 
 Subsec. (k)(4), (5). Pub. L. 109–173, §2(d)(1)(C), added pars. (4) and (5).
 
-<b>2005</b>—Subsec. (c)(8)(A). Pub. L. 109–8, §901(h)(2)(A)(i), substituted “paragraphs (9) and (10)” for “paragraph (12)” in introductory provisions.
+<b>2005</b>—Subsec. (c)(8)(A). Pub. L. 109–8, §901(h)(2)(A)(i), substituted "paragraphs (9) and (10)" for "paragraph (12)" in introductory provisions.
 
-Subsec. (c)(8)(A)(i). Pub. L. 109–8, §901(h)(2)(A)(ii), substituted “such person has to cause the termination, liquidation, or acceleration” for “to cause the termination or liquidation”.
+Subsec. (c)(8)(A)(i). Pub. L. 109–8, §901(h)(2)(A)(ii), substituted "such person has to cause the termination, liquidation, or acceleration" for "to cause the termination or liquidation".
 
-Subsec. (c)(8)(A)(ii). Pub. L. 109–8, §901(h)(2)(A)(iii), added cl. (ii) and struck out former cl. (ii) which read as follows: “any right under any security arrangement relating to any contract or agreement described in clause (i); or”.
+Subsec. (c)(8)(A)(ii). Pub. L. 109–8, §901(h)(2)(A)(iii), added cl. (ii) and struck out former cl. (ii) which read as follows: "any right under any security arrangementrelating to any contract or agreement described in clause (i); or".
 
-Subsec. (c)(8)(C)(i). Pub. L. 109–8, §901(i)(2), inserted “section 91 of this title or any other Federal or State law relating to the avoidance of preferential or fraudulent transfers,” before “the Board”.
+Subsec. (c)(8)(C)(i). Pub. L. 109–8, §901(i)(2), inserted "section 91 of this title or any other Federal or State law relating to the avoidance of preferential or fraudulent transfers," before "the Board".
 
-Subsec. (c)(8)(D). Pub. L. 109–8, §901(a)(2)(A), substituted “subsection, the following definitions shall apply:” for “subsection—” in introductory provisions.
+Subsec. (c)(8)(D). Pub. L. 109–8, §901(a)(2)(A), substituted "subsection, the following definitions shall apply:" for "subsection—" in introductory provisions.
 
-Subsec. (c)(8)(D)(i). Pub. L. 109–8, §901(a)(2)(B), inserted “, resolution, or order” after “any similar agreement that the Board determines by regulation”.
+Subsec. (c)(8)(D)(i). Pub. L. 109–8, §901(a)(2)(B), inserted ", resolution, or order" after "any similar agreement that the Board determines by regulation".
 
-Subsec. (c)(8)(D)(ii). Pub. L. 109–8, §901(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘securities contract’—
+Subsec. (c)(8)(D)(ii). Pub. L. 109–8, §901(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'securities contract'—
 
-&emsp;“(I) has the meaning given to such term in section 741 of title 11, except that the term ‘security’ (as used in such section) shall be deemed to include any mortgage loan, any mortgage-related security (as defined in section 78c(a)(41) of title 15), and any interest in any mortgage loan or mortgage-related security; and
+&emsp;"(I) has the meaning given to such term in section 741 of title 11, except that the term 'security' (as used in such section) shall be deemed to include any mortgage loan, any mortgage-related security (as defined in section 78c(a)(41) of title 15), and any interest in any mortgage loan or mortgage-related security; and
 
-&emsp;“(II) does not include any participation in a commercial mortgage loan unless the Board determines by regulation, resolution, or order to include any such participation within the meaning of such term.”
+&emsp;"(II) does not include any participation in a commercial mortgage loan unless the Board determines by regulation, resolution, or order to include any such participation within the meaning of such term."
 
-Subsec. (c)(8)(D)(iii). Pub. L. 109–8, §901(c)(2), amended heading and text of cl. (iii) generally. Prior to amendment, text read as follows: “The term ‘forward contract’ has the meaning given to such term in section 101 of title 11.”
+Subsec. (c)(8)(D)(iii). Pub. L. 109–8, §901(c)(2), amended heading and text of cl. (iii) generally. Prior to amendment, text read as follows: "The term 'forward contract' has the meaning given to such term in section 101 of title 11."
 
-Subsec. (c)(8)(D)(iv). Pub. L. 109–8, §901(d)(2), amended heading and text of cl. (iv) generally. Prior to amendment, text read as follows: “The term ‘repurchase agreement’—
+Subsec. (c)(8)(D)(iv). Pub. L. 109–8, §901(d)(2), amended heading and text of cl. (iv) generally. Prior to amendment, text read as follows: "The term 'repurchase agreement'—
 
-&emsp;“(I) has the meaning given to such term in section 101 of title 11, except that the items (as described in such section) which may be subject to any such agreement shall be deemed to include mortgage-related securities (as such term is defined in section 78c(a)(41) of title 15, any mortgage loan, and any interest in any mortgage loan; and
+&emsp;"(I) has the meaning given to such term in section 101 of title 11, except that the items (as described in such section) which may be subject to any such agreement shall be deemed to include mortgage-related securities (as such term is defined in section 78c(a)(41) of title 15, any mortgage loan, and any interest in any mortgage loan; and
 
-&emsp;“(II) does not include any participation in a commercial mortgage loan unless the Board determines by regulation, resolution, or order to include any such participation within the meaning of such term.”
+&emsp;"(II) does not include any participation in a commercial mortgage loan unless the Board determines by regulation, resolution, or order to include any such participation within the meaning of such term."
 
-Subsec. (c)(8)(D)(v). Pub. L. 109–8, §901(e)(2), amended heading and text of cl. (v) generally. Prior to amendment, text read as follows: “The term ‘transfer’ has the meaning given to such term in section 101 of title 11.”
+Subsec. (c)(8)(D)(v). Pub. L. 109–8, §901(e)(2), amended heading and text of cl. (v) generally. Prior to amendment, text read as follows: "The term 'transfer' has the meaning given to such term in section 101 of title 11."
 
 Subsec. (c)(8)(D)(vi). Pub. L. 109–8, §901(f)(2), added cl. (vi).
 
@@ -1240,9 +1240,9 @@ Subsec. (c)(8)(D)(vii). Pub. L. 109–8, §905(b), added cl. (vii).
 
 Subsec. (c)(8)(D)(viii). Pub. L. 109–8, §901(g)(2), added cl. (viii).
 
-Subsec. (c)(8)(E). Pub. L. 109–8, §902(b)(1)(A), substituted “other than subsections (b)(9) and (c)(10)” for “other than paragraph (12) of this subsection, subsection (b)(9)” in introductory provisions.
+Subsec. (c)(8)(E). Pub. L. 109–8, §902(b)(1)(A), substituted "other than subsections (b)(9) and (c)(10)" for "other than paragraph (12) of this subsection, subsection (b)(9)" in introductory provisions.
 
-Subsec. (c)(8)(E)(ii). Pub. L. 109–8, §901(h)(2)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “any right under any security arrangement relating to such qualified financial contracts; or”.
+Subsec. (c)(8)(E)(ii). Pub. L. 109–8, §901(h)(2)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: "any right under any security arrangement relating to such qualified financial contracts; or".
 
 Subsec. (c)(8)(F), (G). Pub. L. 109–8, §902(b)(1)(B), added subpars. (F) and (G).
 
@@ -1250,7 +1250,7 @@ Subsec. (c)(8)(H). Pub. L. 109–8, §908(b), added subpar. (H).
 
 Subsec. (c)(9). Pub. L. 109–8, §903(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text related to the transfer of qualified financial contracts, claims, and property of a credit union in default.
 
-Subsec. (c)(10)(A). Pub. L. 109–8, §903(b)(2), substituted concluding provisions for former concluding provisions which read as follows: “the conservator or liquidating agent shall use such conservator's or liquidating agent's best efforts to notify any person who is a party to any such contract of such transfer by 12:00, noon (local time), on the business day following such transfer.”
+Subsec. (c)(10)(A). Pub. L. 109–8, §903(b)(2), substituted concluding provisions for former concluding provisions which read as follows: "the conservator or liquidating agent shall use such conservator's or liquidating agent's best efforts to notify any person who is a party to any such contract of such transfer by 12:00, noon (local time), on the business day following such transfer."
 
 Subsec. (c)(10)(B) to (D). Pub. L. 109–8, §903(b)(3), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
 
@@ -1258,17 +1258,17 @@ Subsec. (c)(11). Pub. L. 109–8, §904(b)(2), added par. (11). Former par. (11)
 
 Subsec. (c)(12). Pub. L. 109–8, §904(b)(1), redesignated par. (11) as (12). Former par. (12) redesignated (13).
 
-Subsec. (c)(12)(A). Pub. L. 109–8, §902(b)(2), inserted “or the exercise of rights or powers by” after “the appointment of”.
+Subsec. (c)(12)(A). Pub. L. 109–8, §902(b)(2), inserted "or the exercise of rights or powers by" after "the appointment of".
 
 Subsec. (c)(13), (14). Pub. L. 109–8, §904(b)(1), redesignated pars. (12) and (13) as (13) and (14), respectively.
 
 Subsec. (c)(15). Pub. L. 109–8, §904(b)(3), added par. (15).
 
-<b>1998</b>—Subsec. (a)(1)(A). Pub. L. 105–219, §301(b)(2)(A), substituted “itself” for “himself”.
+<b>1998</b>—Subsec. (a)(1)(A). Pub. L. 105–219, §301(b)(2)(A), substituted "itself" for "himself".
 
 Subsec. (a)(3). Pub. L. 105–219, §301(b)(2)(B), added par. (3).
 
-<b>1994</b>—Subsec. (c)(8)(D). Pub. L. 103–394 substituted “section 741” for “section 741(7)” in cl. (ii)(I), “section 101” for “section 101(24)” in cl. (iii), “section 101” for “section 101(41)” in cl. (iv)(I), and “section 101” for “section 101(50)” in cl. (v).
+<b>1994</b>—Subsec. (c)(8)(D). Pub. L. 103–394 substituted "section 741" for "section 741(7)" in cl. (ii)(I), "section 101" for "section 101(24)" in cl. (iii), "section 101" for "section 101(41)" in cl. (iv)(I), and "section 101" for "section 101(50)" in cl. (v).
 
 <b>1990</b>—Subsec. (b)(2)(G), (H). Pub. L. 101–647, §2521(a)(2), added subpars. (G) and (H). Former subpar. (G) redesignated (I).
 
@@ -1298,27 +1298,27 @@ Subsec. (j). Pub. L. 101–73, §1217(a)(2), (3), redesignated former subsec. (b
 
 Subsec. (k). Pub. L. 101–73, §1217(a)(3), (5), redesignated former subsec. (c) as (k) and in par. (1), struck out first and fifth sentences which provided that, whenever an insured credit union was closed for liquidation on account of bankruptcy or insolvency, the Board was to pay insured accounts as soon as possible, and that in such cases the Board could investigate claims, require proof of them, and require determination by a court.
 
-Subsec. (k)(1). Pub. L. 101–73, §915(c), inserted “may investigate said claims under section 1786(p) of this title,” after “before paying the insured accounts,” in last sentence.
+Subsec. (k)(1). Pub. L. 101–73, §915(c), inserted "may investigate said claims under section 1786(p) of this title," after "before paying the insured accounts," in last sentence.
 
 Subsecs. (l) to (p). Pub. L. 101–73, §1217(a)(3), redesignated former subsecs. (e) to (i) as (l) to (p), respectively.
 
 <b>1987</b>—Subsec. (a)(1). Pub. L. 100–86, §714(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (j). Pub. L. 100–86, §714(b), redesignated former section 1788(c) of this title as subsec. (j) of thissection and substituted “subject only to the regulation of the Board, or, in cases where the Board has been appointed liquidating agent solely by a public authority having jurisdiction over the matter other than said Board, subject only to the regulation of such public authority” for “subject to the regulation of the court or other public body having jurisdiction over the matter”.
+Subsec. (j). Pub. L. 100–86, §714(b), redesignated former section 1788(c) of this title as subsec. (j) of this section and substituted "subject only to the regulation of the Board, or, in cases where the Board has been appointed liquidating agent solely by a public authorityhaving jurisdiction over the matter other than said Board, subject only to the regulation of such public authority" for "subject to the regulation of the court or other public body having jurisdiction over the matter".
 
-<b>1986</b>—Subsec. (c)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (c)(3). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing, which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1980</b>—Subsec. (c)(1). Pub. L. 96–221 substituted “$100,000” for “$40,000”.
+<b>1980</b>—Subsec. (c)(1). Pub. L. 96–221 substituted "$100,000" for "$40,000".
 
 <b>1979</b>—Subsec. (c)(2)(A)(v). Pub. L. 96–153 added cl. (v).
 
-<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–630, §502(b), substituted “Board” for “Administrator” wherever appearing, “it” for “he” and “him”, and “its” for “his”, where appropriate.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–630, §502(b), substituted "Board" for "Administrator" wherever appearing, "it" for "he" and "him", and "its" for "his", where appropriate.
 
-Subsec. (c). Pub. L. 95–630, §§502(b), 1401(c), substituted in pars. (1) and (2) “Board” for “Administrator” wherever appearing and “it” and “its” for “he” and “his”, respectively, where appropriate, and added par. (3).
+Subsec. (c). Pub. L. 95–630, §§502(b), 1401(c), substituted in pars. (1) and (2) "Board" for "Administrator" wherever appearing and "it" and "its" for "he" and "his", respectively, where appropriate, and added par. (3).
 
-Subsecs. (d) to (i). Pub. L. 95–630, §502(b), substituted “Board” for “Administrator” wherever appearing, and “it” and “its” for “him” and “his”, respectively, where appropriate.
+Subsecs. (d) to (i). Pub. L. 95–630, §502(b), substituted "Board" for "Administrator" wherever appearing, and "it" and "its" for "him" and "his", respectively, where appropriate.
 
-<b>1974</b>—Subsec. (c)(1). Pub. L. 93–495, §§101(c)(1), (2), 104(a), redesignated existing provisions as par. (1), substituted “Subject to the provisions of paragraph (2), for the purposes of this subsection” for “For the purposes of this subsection”, and substituted “$40,000” for “$20,000”. As enacted section 104(a) of Pub. L. 93–495 amended the first sentence; however the amendment was executed to the second sentence editorially since this would appear to be the probable intent of Congress.
+<b>1974</b>—Subsec. (c)(1). Pub. L. 93–495, §§101(c)(1), (2), 104(a), redesignated existing provisions as par. (1), substituted "Subject to the provisions of paragraph (2), for the purposes of this subsection" for "For the purposes of this subsection", and substituted "$40,000" for "$20,000". As enacted section 104(a) of Pub. L. 93–495 amended the first sentence; however the amendment was executed to the second sentence editorially since this would appear to be the probable intent of Congress.
 
 Subsec. (c)(2). Pub. L. 93–495, §101(c)(3), added par. (2).
 
@@ -1326,7 +1326,7 @@ Subsec. (c)(2). Pub. L. 93–495, §101(c)(3), added par. (2).
 
 Amendment by section 335(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
-Pub. L. 111–203, title III, §343(b)(2), July 21, 2010, 124 Stat. 1545, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect upon the date of the enactment of this Act \[July 21, 2010\]”.
+Pub. L. 111–203, title III, §343(b)(2), July 21, 2010, 124 Stat. 1545, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect upon the date of the enactment of this Act \[July 21, 2010\]".
 
 Pub. L. 111–203, title III, §343(b)(3), July 21, 2010, 124 Stat. 1545, provided that the amendment made by section 343(b)(3) is effective Jan. 1, 2013.
 
@@ -1350,7 +1350,7 @@ Amendment by Pub. L. 96–221 effective on Mar. 31, 1980, see section 308(e) of 
 
 #### Applicability of 1980 Amendment
 
-Pub. L. 96–221, title III, §308(c)(2), Mar. 31, 1980, 94 Stat. 148, provided that: “The amendment made by this subsection \[amending this section\] is not applicable to any claim arising out of the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section \[see section 308(e) of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1817 of this title\].”
+Pub. L. 96–221, title III, §308(c)(2), Mar. 31, 1980, 94 Stat. 148, provided that: "The amendment made by this subsection \[amending this section\] is not applicable to any claim arising out of the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section \[see section 308(e) of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1817 of this title\]."
 
 #### Effective Date of 1979 Amendment
 
@@ -1360,7 +1360,7 @@ Amendment by Pub. L. 96–153 applicable only to claims arising after Dec. 21, 1
 
 Amendment by section 502(b) of Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-Pub. L. 95–630, title XIV, §1402, Nov. 10, 1978, 92 Stat. 3713, provided that: “This title \[amending this section and sections 1728 and 1821 of this title\] shall take effect upon enactment \[Nov. 10, 1978\].”
+Pub. L. 95–630, title XIV, §1402, Nov. 10, 1978, 92 Stat. 3713, provided that: "This title \[amending this section and sections 1728 and 1821 of this title\] shall take effect upon enactment \[Nov. 10, 1978\]."
 
 #### Effective Date of 1974 Amendment
 
@@ -1368,23 +1368,23 @@ For effective date of amendment by section 101(c)(1), (2) of Pub. L. 93–495 se
 
 Pub. L. 93–495, title I, §104(b), (c), Oct. 28, 1974, 88 Stat. 1503, provided that:
 
-“(b) The amendment made by this section \[amending this section\] is not applicable to any claim arising out of the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of title II of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section.
+"(b) The amendment made by this section \[amending this section\] is not applicable to any claim arising out of the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of title II of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section.
 
-“(c) The amendment made by this section shall take effect on the thirtieth day beginning after the date of enactment of this Act \[Oct. 28, 1974.\].”
+"(c) The amendment made by this section shall take effect on the thirtieth day beginning after the date of enactment of this Act \[Oct. 28, 1974.\]."
 
 #### Temporary Adjustment in Standard Maximum Share Insurance Amount
 
-Subsec. (k)(5) of this section to apply with “$250,000” substituted for “$100,000” during period beginning on Oct. 3, 2008, and ending on Dec. 31, 2009, see section 5241(b)(1) of this title.
+Subsec. (k)(5) of this section to apply with "$250,000" substituted for "$100,000" during period beginning on Oct. 3, 2008, and ending on Dec. 31, 2009, see section 5241(b)(1) of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "or".</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should read “(or”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should read "(or".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “bridge depository institutions”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "bridge depository institutions".</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be section “3(a)(47)”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be section "3(a)(47)".</i>
 
 <i><sup>6</sup></i><i> So in original. Quotation marks probably should not appear.</i>
 

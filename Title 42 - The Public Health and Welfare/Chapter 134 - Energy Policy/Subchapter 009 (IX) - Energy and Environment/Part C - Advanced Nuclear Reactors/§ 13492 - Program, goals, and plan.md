@@ -36,7 +36,7 @@ The goals of the program established under subsection (a) of this section shall 
 
 #### (c) Program plan
 
-Within 180 days after October 24, 1992, the Secretary shall prepare and submit to the Congress a 5-year program plan to guide the activities under this section. The program plan shall include schedule milestones, Federal funding requirements, and non-Federal cost sharing requirements. In preparing the program plan, the Secretary shall take into consideration—
+Within 180 days after October 24, 1992, the Secretary shall prepare and submit to the Congress a 5-year program plan to guide the activitiesunder this section. The program plan shall include schedule milestones, Federal funding requirements, and non-Federal cost sharing requirements. In preparing the program plan, the Secretary shall take into consideration—
 
 &emsp;(1) the need for, and the potential for future adoption by electric utilities or other entities of, advanced nuclear reactor technologies that are available, under development, or have the potential for being developed, for the generation of energy from nuclear fission;
 

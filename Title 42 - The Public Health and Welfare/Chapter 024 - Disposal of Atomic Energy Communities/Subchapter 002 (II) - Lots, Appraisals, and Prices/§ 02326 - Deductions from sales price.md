@@ -6,11 +6,11 @@ In addition to any other deduction which may be permitted from the sales price f
 
 #### (b) Improvements by occupant of single family or duplex house
 
-An occupant of a single family or duplex house shall, upon application therefor, be entitled to a credit, against the purchase price of any residential property purchased through the exercise of a priority right established under the provisions of section 2332 of this title, for the amount by which the current fair market value of the Government's interest in the single family or duplex house of which he was an occupant is enhanced as a result of improvements to the premises of such single family or duplex house made by, or at the expense of, such occupant.
+An occupant of a single family or duplex house shall, upon application therefor, be entitled to acredit, against the purchase price of any residential property purchased through the exercise of a priority right established under the provisions of section 2332 of this title, for the amount by which the current fair market value of the Government's interest in the single family or duplex house of which he was an occupant is enhanced as a result of improvements to the premises of such single family or duplex house made by, or at the expense of, such occupant.
 
 #### (c) Determination of value of improvements
 
-The value of the improvements as specified in subsections (a) and (b) of this section shall bedetermined in accordance with the provisions of section 2322 of this title.
+The value of the improvements as specified in subsections (a) and (b) of this section shall be determined in accordance with the provisions of section 2322 of this title.
 
 #### (d) Additional deduction to persons purchasing property without benefit of indemnity provisions
 

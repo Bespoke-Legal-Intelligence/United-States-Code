@@ -50,5 +50,5 @@ To carry out its purposes, the Foundation shall have, in addition to powers othe
 
 (Pub. L. 101–593, title IV, §404, Nov. 16, 1990, 104 Stat. 2971.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this section,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this section,".</i>
 

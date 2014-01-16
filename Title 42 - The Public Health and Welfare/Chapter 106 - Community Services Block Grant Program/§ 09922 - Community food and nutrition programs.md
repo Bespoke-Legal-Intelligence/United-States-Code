@@ -58,7 +58,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (B) Definition
 
-&emsp;&emsp;In this paragraph, the term “State” does not include Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;In this paragraph, the term "State" does not include Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
 #### (5) Maximum grants
 

@@ -114,9 +114,9 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(7)(A), is
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(7)(A). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+<b>2000</b>—Subsec. (a)(7)(A). Pub. L. 106–400 substituted "McKinney-Vento Homeless Assistance Act" for "Stewart B. McKinney Homeless Assistance Act".
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “this”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "this".</i>
 

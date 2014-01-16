@@ -6,5 +6,5 @@ No tax on the sale or transfer of firearms, pistols, revolvers, shells, or cartr
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–546 struck out “United States” before “Coast Guard”.
+<b>1976</b>—Pub. L. 94–546 struck out "United States" before "Coast Guard".
 

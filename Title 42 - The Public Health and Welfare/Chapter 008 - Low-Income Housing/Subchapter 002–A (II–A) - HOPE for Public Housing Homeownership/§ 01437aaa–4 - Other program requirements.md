@@ -94,7 +94,7 @@ To be eligible to receive a grant under section 1437aaa–2 of this title, a res
 
 #### References in Text
 
-This subchapter, referred to in subsec. (g)(4), was in the original “this subtitle”, and was translated as reading “this title”, meaning title III of act Sept. 1, 1937, ch. 896, as added by Pub. L. 101–625, to reflect the probable intent of Congress, because title III of act Sept. 1, 1937, does not contain subtitles.
+This subchapter, referred to in subsec. (g)(4), was in the original "this subtitle", and was translated as reading "this title", meaning title III of act Sept. 1, 1937, ch. 896, as added by Pub. L. 101–625, to reflect the probable intent of Congress, because title III of act Sept. 1, 1937, does not contain subtitles.
 
 Section 1437aaa–1(b)(6) of this title, referred to in subsec. (i), was redesignated section 1437aaa–1(b)(7) of this title by Pub. L. 102–550, title X, §1012(h)(1)(A), Oct. 28, 1992, 106 Stat. 3906.
 
@@ -102,7 +102,7 @@ Section 1437aaa–2(b)(9) of this title, referred to in subsec. (i), was redesig
 
 #### Amendments
 
-<b>1998</b>—Subsec. (e). Pub. L. 105–276 substituted “Amounts from an allocation from the Operating Fund” for “Operating subsidies”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–276 substituted "Amounts from an allocation from the Operating Fund" for "Operating subsidies".
 
 #### Effective Date of 1998 Amendment
 

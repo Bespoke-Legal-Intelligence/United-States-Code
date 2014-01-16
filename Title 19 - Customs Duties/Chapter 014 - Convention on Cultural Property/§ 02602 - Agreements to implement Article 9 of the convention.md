@@ -116,13 +116,13 @@ If any request described in subsection (a) of this section is made by a State Pa
 
 #### Codification
 
-Section 2603 of this title, referred to in subsec. (g)(1)(B), was in the original “section 204”, and was translated as section 2603 of this title, which is section 304 of Pub. L. 97–446, as the probable intent of Congress.
+Section 2603 of this title, referred to in subsec. (g)(1)(B), was in the original "section 204", and was translated as section 2603 of this title, which is section 304 of Pub. L. 97–446, as the probable intent of Congress.
 
 #### Ex. Ord. No. 12555. Protection of Cultural Property
 
 Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, as amended by Ex. Ord. No. 13286, §44, Feb. 28, 2003, 68 F.R. 10627, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Convention on Cultural Property Implementation Act (Title III of Public Law 97–446; hereinafter referred to as the “Act”) \[this chapter\], and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Convention on Cultural Property Implementation Act (Title III of Public Law 97–446; hereinafter referred to as the "Act") \[this chapter\], and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
 Section 1. <i>United States Information Agency</i>. The following functions conferred upon the President by the Act are hereby delegated to the Director of the United States Information Agency, acting in consultation with the Secretary of State and the Secretary of Homeland Security:
 
@@ -132,7 +132,7 @@ Section 1. <i>United States Information Agency</i>. The following functions conf
 
 (c) The functions conferred by section 303(e) relating to the determinations to be made prior to the initiation of negotiations for the extension of any agreement.
 
-(d) The functions conferred by section 303(f) relating to the actions to be taken upon receipt of a request made by a State Party to the Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property adopted by the Sixteenth General Conference of the United Nations Educational, Scientific and Cultural Organization (hereinafter referred to as the “Convention”).
+(d) The functions conferred by section 303(f) relating to the actions to be taken upon receipt of a request made by a State Party to the Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property adopted by the Sixteenth General Conference of the United Nations Educational, Scientific and Cultural Organization (hereinafter referred to as the "Convention").
 
 (e) The functions conferred by section 303(g)(1)(B) relating to the notification of Presidential action and the furnishing of reports to the Congress.
 
@@ -166,5 +166,5 @@ Sec. 4. <i>Enforcement in Territories and Other Areas</i>. The Secretary of the 
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be “exchange”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "exchange".</i>
 

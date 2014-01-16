@@ -56,11 +56,11 @@ Nothing in this section prohibits or otherwise limits the authorized law enforce
 
 #### (f) Definition of foreign persons
 
-In this section, the term “foreign person” means any citizen or national of a foreign state or any entity not organized under the laws of the United States, including a foreign government official, but does not include a foreign state.
+In this section, the term "foreign person" means any citizen or national of a foreign state or any entity not organized under the laws of the United States, including a foreign government official, but does not include a foreign state.
 
 #### (g) Construction
 
-Nothing in this section shall be construed as precluding judicial review of the exercise of the authority described in subsection (a) of this section.
+Nothing in this section shall be construed as precluding judicial review of the exercise of theauthority described in subsection (a) of this section.
 
 (Pub. L. 106–386, div. A, §111, Oct. 28, 2000, 114 Stat. 1484.)
 

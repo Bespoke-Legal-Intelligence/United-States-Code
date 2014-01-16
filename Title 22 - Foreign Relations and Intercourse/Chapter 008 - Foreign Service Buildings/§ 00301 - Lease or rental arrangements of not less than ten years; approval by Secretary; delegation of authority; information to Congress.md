@@ -12,7 +12,7 @@ The Secretary may, subject to the availability of appropriations, make advance p
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–138 designated existing provisions as subsec. (a), inserted heading, substituted “$50,000” for “$25,000,”, and added subsec. (b).
+<b>1991</b>—Pub. L. 102–138 designated existing provisions as subsec. (a), inserted heading, substituted "$50,000" for "$25,000,", and added subsec. (b).
 
 #### Authority of Secretary of State
 

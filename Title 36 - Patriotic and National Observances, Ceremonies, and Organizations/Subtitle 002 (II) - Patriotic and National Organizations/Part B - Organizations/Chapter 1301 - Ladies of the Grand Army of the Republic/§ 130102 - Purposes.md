@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 June 17, 1959, Pub. L. 86–47, §3, 73 Stat. 77.
 
-In clause (5), the words “destroy, or impair” are substituted for “make for the destruction or impairment of” to eliminate unnecessary words.
+In clause (5), the words "destroy, or impair" are substituted for "make for the destruction or impairment of" to eliminate unnecessary words.
 

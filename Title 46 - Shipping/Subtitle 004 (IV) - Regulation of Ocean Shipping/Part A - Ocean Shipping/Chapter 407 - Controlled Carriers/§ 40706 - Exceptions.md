@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 Pub. L. 98–237, §9(f), Mar. 20, 1984, 98 Stat. 77; Pub. L. 105–258, title I, §108(17)–(19), Oct. 14, 1998, 112 Stat. 1909.
 
-In paragraph (1), the words “foreign country” are substituted for “state” for clarity and consistency.
+In paragraph (1), the words "foreign country" are substituted for "state" for clarity and consistency.
 

@@ -10,7 +10,7 @@ The Administrator shall be paid compensation in an amount, established by the Bo
 
 #### (c) Authority for dual role
 
-The Congress consents, for purposes of the 8th clause of article I, section 9 of the Constitutionof the United States, to the acceptance by the individual serving as Administrator of the Commission of appointment by the Republic of Panama to the position of Administrator of the Panama Canal Authority. Such consent is effective only if that individual, while serving in both such positions, serves as Administrator of the Panama Canal Authority without compensation, except for payments by the Republic of Panama of travel and entertainment expenses, including per diem payments.
+The Congress consents, for purposes of the 8th clause of article I, section 9 of the Constitution of the United States, to the acceptance by the individual serving as Administrator of the Commission of appointment by the Republic of Panama to the position of Administrator of the Panama Canal Authority. Such consent is effective only if that individual, while serving in both such positions, serves as Administrator of the Panama Canal Authority without compensation, except for payments by the Republic of Panama of travel and entertainment expenses, including per diem payments.
 
 #### (d) Waiver of ethics and reporting requirements
 
@@ -26,7 +26,7 @@ If before the Canal Transfer Date the Republic of Panama appoints as the Adminis
 
 &emsp;&emsp;(D) that individual is not subject to sections 501(a) and 502(a)(4) of the Ethics in Government Act of 1978 (5 U.S.C. App.), with respect to compensation received for, and service in, the position of Administrator of the Panama Canal Authority; and
 
-&emsp;(2) effective upon termination of the individual's appointment as Administrator of the Panama Canal Commission at noon on the Canal Transfer Date, that individual is not subject to section 207 of title 18, with respect to acts done in carrying out official duties as Administrator of the Panama Canal Authority.
+&emsp;(2) effective upon termination of the individual's appointment as Administrator of the Panama Canal Commission at noon on the Canal Transfer Date, that individual is notsubject to section 207 of title 18, with respect to acts done in carrying out official duties as Administrator of the Panama Canal Authority.
 
 (Pub. L. 96–70, title I, §1103, Sept. 27, 1979, 93 Stat. 457; Pub. L. 104–201, div. C, title XXXV, §3523(a), Sept. 23, 1996, 110 Stat. 2860; Pub. L. 105–85, div. C, title XXXV, §3521, Nov. 18, 1997, 111 Stat. 2063.)
 
@@ -42,13 +42,13 @@ Sections 501(a) and 502(a)(4) of the Ethics in Government Act of 1978, referred 
 
 <b>1997</b>—Subsecs. (c), (d). Pub. L. 105–85 added subsecs. (c) and (d).
 
-<b>1996</b>—Pub. L. 104–201 amended section generally. Prior to amendment, section read as follows: “There shall be an Administrator of the Commission, who shall be appointed by the President, by and with the advice and consent of the Senate, and shall hold office at the pleasure of the President.”
+<b>1996</b>—Pub. L. 104–201 amended section generally. Prior to amendment, section read as follows: "There shall be an Administrator of the Commission, who shall be appointed by the President, by and with the advice and consent of the Senate, and shall hold office at the pleasure of the President."
 
 #### Savings Provision
 
-Pub. L. 104–201, div. C, title XXXV, §3523(b), Sept. 23, 1996, 110 Stat. 2860, provided that: “Nothing in this section \[amending this section\] (or section 3549(3) \[section 3549 of Pub. L. 104–201 did not contain a par. (3) and is not classified to the Code\]) shall be considered to affect—
+Pub. L. 104–201, div. C, title XXXV, §3523(b), Sept. 23, 1996, 110 Stat. 2860, provided that: "Nothing in this section \[amending this section\] (or section 3549(3) \[section 3549 of Pub. L. 104–201 did not contain a par. (3) and is not classified to the Code\]) shall be considered to affect—
 
-&emsp;“(1) the tenure of the individual serving as Administrator of the Commission on the day before subsection (a) takes effect \[section 3523(a) of Pub. L. 104–201, effective Sept. 23, 1996\]; or
+&emsp;"(1) the tenure of the individual serving as Administrator of the Commission on the day before subsection (a) takes effect \[section 3523(a) of Pub. L. 104–201, effective Sept. 23, 1996\]; or
 
-&emsp;“(2) until modified under section 1103(b) of the Panama Canal Act of 1979 \[subsec. (b) of this section\], as amended by subsection (a), the compensation of the individual so serving.”
+&emsp;"(2) until modified under section 1103(b) of the Panama Canal Act of 1979 \[subsec. (b) of this section\], as amended by subsection (a), the compensation of the individual so serving."
 

@@ -4,13 +4,13 @@
 
 For purposes of this part—
 
-&emsp;(1) the term “consumer financial protection functions” means—
+&emsp;(1) the term "consumer financial protection functions" means—
 
 &emsp;&emsp;(A) all authority to prescribe rules or issue orders or guidelines pursuant to any Federal consumer financial law, including performing appropriate functions to promulgate and review such rules, orders, and guidelines; and
 
 &emsp;&emsp;(B) the examination authority described in subsection (c)(1), with respect to a person described in section 5515(a) of this title; and
 
-&emsp;(2) the terms “transferor agency” and “transferor agencies” mean, respectively—
+&emsp;(2) the terms "transferor agency" and "transferor agencies" mean, respectively—
 
 &emsp;&emsp;(A) the Board of Governors (and any Federal reserve bank, as the context requires), the Federal Deposit Insurance Corporation, the Federal Trade Commission, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the Department of Housing and Urban Development, and the heads of those agencies; and
 
@@ -176,5 +176,5 @@ Part effective 1 day after July 21, 2010, except as otherwise provided, see sect
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “in” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "in" probably should not appear.</i>
 

@@ -6,5 +6,5 @@ The United States hereby approves, ratifies, and confirms the Settlement Agreeme
 
 #### Effective Date
 
-Section effective on date on which the Secretary determines that certain conditions with respect to the Settlement Agreement and provisions of title VI of Pub. L. 106–568 have been met, see section 611(b) of Pub. L. 106–568, set out as a note under section 1778 of this title.
+Section effective on date on which the Secretary determines that certain conditions with respect to theSettlement Agreement and provisions of title VI of Pub. L. 106–568 have been met, see section 611(b) of Pub. L. 106–568, set out as a note under section 1778 of this title.
 

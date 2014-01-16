@@ -44,7 +44,7 @@ All entries made and patents issued under the provisions of this subchapter shal
 
 #### (4) Acreage limitations
 
-&emsp;The total acreage covered at any time by notices of intention to locate a mining claim under paragraph (2) filed by any person and by affiliates of such person may not exceed 6,400 acres of lands subject to this subchapter in any one State and 1,280 acres of such lands for a single surface owner. For purposes of this paragraph, the term “affiliate” means, with respect to any person, any other person which controls, is controlled by, or is under common control with, such person.
+&emsp;The total acreage covered at any time by notices of intention to locate a mining claim under paragraph (2) filed by any person and by affiliates of such person may not exceed 6,400 acres of lands subject to this subchapter in any one State and 1,280 acres of such lands for a single surface owner. For purposes of this paragraph, the term "affiliate" means, with respect to any person, any other person which controls, is controlled by, or is under common control with, such person.
 
 #### (c) Consent
 
@@ -144,17 +144,17 @@ The Secretary shall take such actions as may be necessary to simplify the proced
 
 For the purposes of subsections (b) through (n) of this section—
 
-&emsp;(1) The term “mineral activities” means any activity for, related to or incidental to mineral exploration, mining, and beneficiation activities for any locatable mineral on a mining claim. When used with respect to this term—
+&emsp;(1) The term "mineral activities" means any activity for, related to or incidental to mineral exploration, mining, and beneficiation activities for any locatable mineral on a mining claim. When used with respect to this term—
 
-&emsp;&emsp;(A) the term “exploration” means those techniques employed to locate the presence of a locatable mineral deposit and to establish its nature, position, size, shape, grade and value;
+&emsp;&emsp;(A) the term "exploration" means those techniques employed to locate the presence of a locatable mineral deposit and to establish its nature, position, size, shape, grade and value;
 
-&emsp;&emsp;(B) the term “mining” means the processes employed for the extraction of a locatable mineral from the earth; and
+&emsp;&emsp;(B) the term "mining" means the processes employed for the extraction of a locatable mineral from the earth; and
 
-&emsp;&emsp;(C) the term “beneficiation” means the crushing and grinding of locatable mineral ore and such processes are employed to free the mineral from the other constituents, including but not necessarily limited to, physical and chemical separation techniques.
+&emsp;&emsp;(C) the term "beneficiation" means the crushing and grinding of locatable mineral ore and such processes are employed to free the mineral from the other constituents, including but not necessarily limited to, physical and chemical separation techniques.
 
-&emsp;(2) The term “mining claim” means a claim located under the general mining laws of the United States (which generally comprise 30 U.S.C. chapters 2, 12A, and 16, and sections 161 and 162) subject to the terms and conditions of subsections (b) through (p) of this section.
+&emsp;(2) The term "mining claim" means a claim located under the general mining laws of the United States (which generally comprise 30 U.S.C. chapters 2, 12A, and 16, and sections 161 and 162) subject to the terms and conditions of subsections (b) through (p) of this section.
 
-&emsp;(3) The term “tangible improvements” includes agricultural, residential and commercial improvements, including improvements made by residential subdividers.
+&emsp;(3) The term "tangible improvements" includes agricultural, residential and commercial improvements, including improvements made by residential subdividers.
 
 #### (p) Minerals covered
 
@@ -186,17 +186,17 @@ The Materials Act of 1947, referred to in subsec. (p)(3), is act July 31, 1947, 
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–23, §1(c), Apr. 16, 1993, 107 Stat. 65, provided that: “The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of enactment \[Apr. 16, 1993\].”
+Pub. L. 103–23, §1(c), Apr. 16, 1993, 107 Stat. 65, provided that: "The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of enactment \[Apr. 16, 1993\]."
 
 #### Regulations
 
-Pub. L. 103–23, §1(d), Apr. 16, 1993, 107 Stat. 65, provided that: “The Secretary of the Interior shall issue final regulations to implement the amendments made by this Act \[amending this section\] not later than the effective date of this Act \[see Effective Date of 1993 Amendment note above\]. Failure to promulgate these regulations by reason of any appeal or judicial review shall not delay the effective date as specified in paragraph (c).”
+Pub. L. 103–23, §1(d), Apr. 16, 1993, 107 Stat. 65, provided that: "The Secretary of the Interior shall issue final regulations to implement the amendments made by this Act \[amending this section\] not later than the effective date of this Act \[see Effective Date of 1993 Amendment note above\]. Failure to promulgate these regulations by reason of any appeal or judicial review shall not delay the effective date as specified in paragraph (c)."
 
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-Words “officer designated by the Secretary of the Interior” substituted for “register” and “Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
+Words "officer designated by the Secretary of the Interior" substituted for "register" and "Secretary of the Interior or such officer as he may designate" substituted for "Commissioner of the General Land Office" on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
 Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
@@ -204,7 +204,7 @@ Act Mar. 3, 1925, abolished office of surveyor general and transferred administr
 
 Section 2 of Pub. L. 103–23 directed Secretary of the Interior to submit report to Congress within 2 years after Apr. 16, 1993, on acquisition of mineral interests made after such date by foreign firms on lands subject to this section.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(b)(1)(B)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(b)(1)(B)".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

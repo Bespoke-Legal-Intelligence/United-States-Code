@@ -20,11 +20,11 @@ Contents.—Such application shall include—
 
 &emsp;(3)
 
-Fee and oath or declaration.—The application must be accompanied by the fee required by law. The fee and oath or declaration may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director.
+Fee, oath or declaration, and claims.—The application shall be accompanied by the fee required by law. The fee, oath or declaration, and 1 or more claims may be submitted after the filing date of the application, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director. Upon failure to submit the fee, oath or declaration, and 1 or more claims within such prescribed period, the application shall be regarded as abandoned.
 
 &emsp;(4)
 
-Failure to submit.—Upon failure to submit the fee and oath or declaration withinsuch prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Director that the delay in submitting the fee and oath or declaration was unavoidable or unintentional. The filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.
+Filing date.—The filing date of an application shall be the date on which a specification, with or without claims, is received in the United States Patent and Trademark Office.
 
 (b)
 
@@ -44,19 +44,15 @@ Claim.—A claim, as required by subsections (b) through (e) of section 112, sha
 
 &emsp;(3)
 
-Fee.—(A) The application must be accompanied by the fee required by law.
-
-&emsp;(B) The fee may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director.
-
-&emsp;(C) Upon failure to submit the fee within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Director that the delay in submitting the fee was unavoidable or unintentional.
+Fee.—The application shall be accompanied by the fee required by law. The fee may be submitted after the filing date of the application, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director. Upon failure to submit the fee within such prescribed period, the application shall be regarded as abandoned.
 
 &emsp;(4)
 
-Filing date.—The filing date of a provisional application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.
+Filing date.—The filing date of a provisional application shall be the date on which a specification, with or without claims, is received in the United States Patent and Trademark Office.
 
 &emsp;(5)
 
-Abandonment.—Notwithstanding the absence of a claim, upon timely request and as prescribed by the Director, a provisional application may be treated as an application filed under subsection (a). Subject to section 119(e)(3), if no such request is made, the provisional application shall be regarded as abandoned 12 months after the filing date of such application and shall not be subject to revival after such 12-month period.
+Abandonment.—Notwithstanding the absence of a claim, upon timely request and as prescribed by the Director, a provisional application may be treated as an application filed under subsection (a). Subject to section 119(e)(3), if no such request is made, the provisional application shall be regarded as abandoned 12 months after the filing date of suchapplication and shall not be subject to revival after such 12-month period.
 
 &emsp;(6)
 
@@ -70,45 +66,19 @@ No right of priority or benefit of earliest filing date.—A provisional applica
 
 Applicable provisions.—The provisions of this title relating to applications for patent shall apply to provisional applications for patent, except as otherwise provided, and except that provisional applications for patent shall not be subject to sections 131 and 135.
 
+(c)
+
+Prior Filed Application.—Notwithstanding the provisions of subsection (a), the Director may prescribe the conditions, including the payment of a surcharge, under which a reference made upon the filing of an application under subsection (a) to a previously filed application, specifying the previously filed application by application number and the intellectual property authority or country in which the application was filed, shall constitute the specification and any drawings of the subsequent application for purposes of a filing date. A copy of the specification and any drawings of the previously filed application shall be submitted within such period and under such conditions as may be prescribed by the Director. A failure to submit the copy of the specification and any drawings of the previously filed application within the prescribed period shall result in the application being regarded as abandoned. Such application shall be treated as having never been filed, unless—
+
+&emsp;(1) the application is revived under section 27; and
+
+&emsp;(2) a copy of the specification and any drawings of the previously filed application are submitted to the Director.
+
 (July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 97–247, §5, Aug. 27, 1982, 96 Stat. 319; Pub. L. 103–465, title V, §532(b)(3), Dec. 8, 1994, 108 Stat. 4986; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4732(a)(10)(A), 4801(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, 1501A–588; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§3(e)(2), 4(a)(3), (d), 20(j), Sept. 16, 2011, 125 Stat. 287, 295, 296, 335; Pub. L. 112–211, title I, §102(3), title II, §201(a), Dec. 18, 2012, 126 Stat. 1531, 1533.)
 
 #### Amendment of Section
 
-<i>Pub. L. 112–211, title II, §§201(a), 203, Dec. 18, 2012, 126 Stat. 1533, 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to certain patents and applications for patent, and not effective with respect to patents in litigation commenced before the effective date, this section is amended as follows:</i>
-
-<i>(1) in subsection (a), by striking paragraphs (3) and (4) and inserting the following:</i>
-
-&emsp;<i>“(3)</i>
-
-<i>Fee, oath or declaration, and claims.—The application shall be accompanied by the fee required by law. The fee, oath or declaration, and 1 or more claims may be submitted after the filing date of the application, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director. Upon failure to submit the fee, oath or declaration, and 1 or more claims within such prescribed period, the application shall be regarded as abandoned.</i>
-
-&emsp;<i>“(4)</i>
-
-<i>Filing date.—The filing date of an application shall be the date on which a specification, with or without claims, is received in the United States Patent and Trademark Office.”;</i>
-
-<i>(2) in subsection (b), by striking paragraphs (3) and (4) and inserting the following:</i>
-
-&emsp;<i>“(3)</i>
-
-<i>Fee.—The application shall be accompanied by the fee required by law. The fee may be submitted after the filing date of the application, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director. Upon failure to submit the fee within such prescribed period, the application shall be regarded as abandoned.</i>
-
-&emsp;<i>“(4)</i>
-
-<i>Filing date.—The filing date of a provisional application shall be the date on which a specification, with or without claims, is received in the United States Patent and Trademark Office.”; and</i>
-
-<i>(3) by adding at the end the following:</i>
-
-<i>(c)</i>
-
-<i>Prior Filed Application.—Notwithstanding the provisions of subsection (a), the Director may prescribe the conditions, including the payment of a surcharge, under which a reference made upon the filing of an application under subsection (a) to a previously filed application, specifying the previously filed application by application number and the intellectual property authority or country in which the application was filed, shall constitute the specification and any drawings of the subsequent application for purposes of a filing date. A copy of the specification and any drawings of the previously filed application shall be submitted within such period and under such conditions as may be prescribed by the Director. A failure to submit the copy of the specification and any drawings of the previously filed application within the prescribed period shall result in the application being regarded as abandoned. Such application shall be treated as having never been filed, unless—</i>
-
-&emsp;<i>(1) the application is revived under section 27; and</i>
-
-&emsp;<i>(2) a copy of the specification and any drawings of the previously filed application are submitted to the Director.</i>
-
-<i>See 2012 Amendment notes below.</i>
-
-<i>Pub. L. 112–211, title I, §§102(3), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, subsection (b)(7) of this section is amended by substituting “section 119, 365(a), or 386(a)” for “section 119 or 365(a)” and “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”. See 2012 Amendment note below.</i>
+<i>Pub. L. 112–211, title I, §§102(3), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, subsection (b)(7) of this section is amended by substituting "section 119, 365(a), or 386(a)" for "section 119 or 365(a)" and "section 120, 121, 365(c), or 386(c)" for "section 120, 121, or 365(c)". See 2012 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -124,49 +94,49 @@ The parts of the application are specified and the requirement for signature is 
 
 Subsec. (b)(3), (4). Pub. L. 112–211, §201(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which related to fee and filing date of a provisional application.
 
-Subsec. (b)(7). Pub. L. 112–211, §102(3), substituted “section 119, 365(a), or 386(a)” for “section 119 or 365(a)” and “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”.
+Subsec. (b)(7). Pub. L. 112–211, §102(3), substituted "section 119, 365(a), or 386(a)" for "section 119 or 365(a)" and "section 120, 121, 365(c), or 386(c)" for "section 120, 121, or 365(c)".
 
 Subsec. (c). Pub. L. 112–211, §201(a)(3), added subsec. (c).
 
-<b>2011</b>—Subsec. (a)(2)(A). Pub. L. 112–29, §20(j), struck out “of this title” after “112”.
+<b>2011</b>—Subsec. (a)(2)(A). Pub. L. 112–29, §20(j), struck out "of this title" after "112".
 
-Subsec. (a)(2)(B). Pub. L. 112–29, §20(j), struck out “of this title” after “113”.
+Subsec. (a)(2)(B). Pub. L. 112–29, §20(j), struck out "of this title" after "113".
 
-Subsec. (a)(2)(C). Pub. L. 112–29, §20(j), struck out “of this title” after “115”.
+Subsec. (a)(2)(C). Pub. L. 112–29, §20(j), struck out "of this title" after "115".
 
-Pub. L. 112–29, §4(a)(3)(A), substituted “or declaration” for “by the applicant”.
+Pub. L. 112–29, §4(a)(3)(A), substituted "or declaration" for "by the applicant".
 
-Subsec. (a)(3). Pub. L. 112–29, §4(a)(3)(B), (C), inserted “or declaration” after “and oath” in heading and text.
+Subsec. (a)(3). Pub. L. 112–29, §4(a)(3)(B), (C), inserted "or declaration" after "and oath" in heading and text.
 
-Subsec. (a)(4). Pub. L. 112–29, §4(a)(3)(C), inserted “or declaration” after “and oath” in two places.
+Subsec. (a)(4). Pub. L. 112–29, §4(a)(3)(C), inserted "or declaration" after "and oath" in two places.
 
-Subsec. (b)(1)(A). Pub. L. 112–29, §4(d)(1), substituted “section 112(a)” for “the first paragraph of section 112 of this title”.
+Subsec. (b)(1)(A). Pub. L. 112–29, §4(d)(1), substituted "section 112(a)" for "the first paragraph of section 112 of this title".
 
-Subsec. (b)(1)(B). Pub. L. 112–29, §20(j), struck out “of this title” after “113”.
+Subsec. (b)(1)(B). Pub. L. 112–29, §20(j), struck out "of this title" after "113".
 
-Subsec. (b)(2). Pub. L. 112–29, §4(d)(2), substituted “subsections (b) through (e) of section 112,” for “the second through fifth paragraphs of section 112,”.
+Subsec. (b)(2). Pub. L. 112–29, §4(d)(2), substituted "subsections (b) through (e) of section 112," for "the second through fifth paragraphs of section 112,".
 
-Subsec. (b)(5). Pub. L. 112–29, §20(j), struck out “of this title” after “119(e)(3)”.
+Subsec. (b)(5). Pub. L. 112–29, §20(j), struck out "of this title" after "119(e)(3)".
 
-Subsec. (b)(6). Pub. L. 112–29, §20(j), struck out “of this title” after “119(e)”.
+Subsec. (b)(6). Pub. L. 112–29, §20(j), struck out "of this title" after "119(e)".
 
-Subsec. (b)(7). Pub. L. 112–29, §20(j), struck out “of this title” after “365(a)” and after “365(c)”.
+Subsec. (b)(7). Pub. L. 112–29, §20(j), struck out "of this title" after "365(a)" and after "365(c)".
 
-Subsec. (b)(8). Pub. L. 112–29, §20(j), struck out “of this title” before period at end.
+Subsec. (b)(8). Pub. L. 112–29, §20(j), struck out "of this title" before period at end.
 
-Pub. L. 112–29, §3(e)(2), substituted “sections 131 and 135” for “sections 115, 131, 135, and 157”.
+Pub. L. 112–29, §3(e)(2), substituted "sections 131 and 135" for "sections 115, 131, 135, and 157".
 
 <b>2002</b>—Subsecs. (a)(1), (3), (4), (b)(1), (3)(B), (C), (6). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment notes below.
 
-<b>1999</b>—Subsecs. (a)(1), (3), (4), (b)(1), (3)(B), (C). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+<b>1999</b>—Subsecs. (a)(1), (3), (4), (b)(1), (3)(B), (C). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
-Subsec. (b)(5). Pub. L. 106–113, §1000(a)(9) \[title IV, §4801(a)\], amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The provisional application shall be regarded as abandoned 12 months after the filing date of such application and shall not be subject to revival thereafter.”
+Subsec. (b)(5). Pub. L. 106–113, §1000(a)(9) \[title IV, §4801(a)\], amended heading and text of par. (5) generally. Prior to amendment, text read as follows: "The provisional application shall be regarded as abandoned 12 months after the filing date of such application and shall not be subject to revival thereafter."
 
-Subsec. (b)(6). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+Subsec. (b)(6). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
-<b>1994</b>—Pub. L. 103–465 amended section generally. Prior to amendment, section read as follows: “Application for patent shall be made, or authorized to be made, by the inventor, except as otherwise provided in this title, in writing to the Commissioner. Such application shall include (1) a specification as prescribed by section 112 of this title; (2) a drawing as prescribed by section 113 of this title; and (3) an oath by the applicant as prescribed by section 115 of this title. The application must be accompanied by the fee required by law. The fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner. Upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable. The filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.”
+<b>1994</b>—Pub. L. 103–465 amended section generally. Prior to amendment, section read as follows: "Application for patent shall be made, or authorized to be made, by the inventor, except as otherwise provided in this title, in writing to the Commissioner. Such application shall include (1) a specification as prescribed by section 112 of this title; (2) a drawing as prescribed by section 113 of this title; and (3) an oath by the applicant as prescribed by section 115 of this title. The application must be accompanied by the fee required by law. The fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner. Upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable. The filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office."
 
-<b>1982</b>—Pub. L. 97–247 inserted “, or authorized to be made,” after “shall be made”, struck out the colon after “shall include”, struck out “signed by the applicant and” after “The application”, and inserted provisions that the fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner, that upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable, and that the filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.
+<b>1982</b>—Pub. L. 97–247 inserted ", or authorized to be made," after "shall be made", struck out the colon after "shall include", struck out "signed by the applicant and" after "The application", and inserted provisions that the fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner, that upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable, and that the filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.
 
 #### Effective Date of 2012 Amendment
 
@@ -176,9 +146,9 @@ Amendment by section 201(a) of Pub. L. 112–211 effective on the date that is 1
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–29, §3(e)(3), Sept. 16, 2011, 125 Stat. 288, provided that: “The amendments made by this subsection \[amending this section and repealing section 157 of this title\] shall take effect upon the expiration of the 18-month period beginning on the date of the enactment of this Act \[Sept. 16, 2011\], and shall apply to anyrequest for a statutory invention registration filed on or after that effective date.”
+Pub. L. 112–29, §3(e)(3), Sept. 16, 2011, 125 Stat. 288, provided that: "The amendments made by this subsection \[amending this section and repealing section 157 of this title\] shall take effect upon the expiration of the 18-month period beginning on the date of the enactment of this Act \[Sept. 16, 2011\], and shall apply to any request for a statutory invention registration filed on or after that effective date."
 
-Pub. L. 112–29, §4(e), Sept. 16, 2011, 125 Stat. 297, provided that: “The amendments made by this section \[amending this section and sections 112, 115, 118, 121, and 251 of this title\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent application that is filed on or after that effective date.”
+Pub. L. 112–29, §4(e), Sept. 16, 2011, 125 Stat. 297, provided that: "The amendments made by this section \[amending this section and sections 112, 115, 118, 121, and 251 of this title\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent application that is filed on or after that effective date."
 
 Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 

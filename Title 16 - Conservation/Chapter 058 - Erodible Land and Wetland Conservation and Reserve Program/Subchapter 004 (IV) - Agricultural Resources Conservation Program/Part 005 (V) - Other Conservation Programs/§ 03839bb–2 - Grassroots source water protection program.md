@@ -16,7 +16,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–246, §2603, substituted “$20,000,000 for each of fiscal years 2008 through 2012” for “$5,000,000 for each of fiscal years 2002 through 2007”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §2603, substituted "$20,000,000 for each of fiscal years 2008 through 2012" for "$5,000,000 for each of fiscal years 2002 through 2007".
 
 #### Effective Date of 2008 Amendment
 

@@ -10,25 +10,25 @@ In the case of a minister of the gospel, gross income does not include—
 
 #### Amendments
 
-<b>2002</b>—Par. (2). Pub. L. 107–181 inserted “and to the extent such allowance does not exceed the fair rental value of the home, including furnishings and appurtenances such as a garage, plus the cost of utilities” before period at end.
+<b>2002</b>—Par. (2). Pub. L. 107–181 inserted "and to the extent such allowance does not exceed the fair rental value of the home, including furnishings and appurtenances such as a garage, plus the cost of utilities" before period at end.
 
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–181, §2(b), May 20, 2002, 116 Stat. 583, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2001.
 
-“(2)
+"(2)
 
 Returns positions.—The amendment made by this section also shall apply to any taxable year beginning before January 1, 2002, for which the taxpayer—
 
-&emsp;“(A) on a return filed before April 17, 2002, limited the exclusion under section 107 of the Internal Revenue Code of 1986 as provided in such amendment, or
+&emsp;"(A) on a return filed before April 17, 2002, limited the exclusion under section 107 of the Internal Revenue Code of 1986 as provided in such amendment, or
 
-&emsp;“(B) filed a return after April 16, 2002.
+&emsp;"(B) filed a return after April 16, 2002.
 
-“(3)
+"(3)
 
-Other years before 2002.—Except as provided in paragraph (2), notwithstanding any prior regulation,revenue ruling, or other guidance issued by the Internal Revenue Service, no person shall be subject to the limitations added to section 107 of such Code by this Act for any taxable year beginning before January 1, 2002.”
+Other years before 2002.—Except as provided in paragraph (2), notwithstanding any prior regulation,revenue ruling, or other guidance issued by the Internal Revenue Service, no person shall be subject to the limitations added to section 107 of such Code by this Act for any taxable year beginning before January 1, 2002."
 

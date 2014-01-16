@@ -10,13 +10,13 @@
 
 &emsp;Loans made to borrowers under this part that, except as otherwise specified in this part, have the same terms, conditions, and benefits as loans made to borrowers under—
 
-&emsp;&emsp;(A) section 1078 of this title shall be known as “Federal Direct Stafford Loans”;
+&emsp;&emsp;(A) section 1078 of this title shall be known as "Federal Direct Stafford Loans";
 
-&emsp;&emsp;(B) section 1078–2 of this title shall be known as “Federal Direct PLUS Loans”;
+&emsp;&emsp;(B) section 1078–2 of this title shall be known as "Federal Direct PLUS Loans";
 
-&emsp;&emsp;(C) section 1078–3 of this title shall be known as “Federal Direct Consolidation Loans”; and
+&emsp;&emsp;(C) section 1078–3 of this title shall be known as "Federal Direct Consolidation Loans"; and
 
-&emsp;&emsp;(D) section 1078–8 of this title shall be known as “Federal Direct Unsubsidized Stafford Loans”.
+&emsp;&emsp;(D) section 1078–8 of this title shall be known as "Federal Direct Unsubsidized Stafford Loans".
 
 #### (3) Termination of authority to make interest subsidized loans to graduate and professional students
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) a graduate or professional student shall not be eligible to receive a Federal Direct Stafford loan under this part; and
 
-&emsp;&emsp;&emsp;(ii) the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow in any academic year (as defined in section 1088(a)(2)of this title) or its equivalent shall be the maximum annual amount for such student determined under section 1078–8 of this title, plus an amount equal to the amount of Federal Direct Stafford loans the student would have received in the absence of this subparagraph.
+&emsp;&emsp;&emsp;(ii) the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow in any academic year (as defined in section 1088(a)(2) of this title) or its equivalent shall be the maximum annual amount for such student determined under section 1078–8 of this title, plus an amount equal to the amount of Federal Direct Stafford loans the student would have received in the absence of this subparagraph.
 
 #### (B) Exception
 
@@ -112,21 +112,21 @@
 
 #### (B) In school and grace period rules
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after July1, 1998, and before October 1, 1998, the applicable rate of interest for interest which accrues—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;&emsp;(i) prior to the beginning of the repayment period of the loan; or
 
 &emsp;&emsp;&emsp;(ii) during the period in which principal need not be paid (whether or not such principal is in fact paid) by reason of a provision described in section 1078(b)(1)(M) or 1077(a)(2)(C) of this title,
 
-> &emsp;&emsp;shall be determined under subparagraph (A) by substituting “1.7 percent” for “2.3 percent”.
+> &emsp;&emsp;shall be determined under subparagraph (A) by substituting "1.7 percent" for "2.3 percent".
 
 #### (C) PLUS loans
 
 &emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to Federal Direct PLUS Loan for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest shall be determined under subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) by substituting “3.1 percent” for “2.3 percent”; and
+&emsp;&emsp;&emsp;(i) by substituting "3.1 percent" for "2.3 percent"; and
 
-&emsp;&emsp;&emsp;(ii) by substituting “9.0 percent” for “8.25 percent”.
+&emsp;&emsp;&emsp;(ii) by substituting "9.0 percent" for "8.25 percent".
 
 #### (6) Interest rate provision for new loans on or after October 1, 1998, and before July 1, 2006
 
@@ -148,15 +148,15 @@
 
 &emsp;&emsp;&emsp;(ii) during the period in which principal need not be paid (whether or not such principal is in fact paid) by reason of a provision described in section 1078(b)(1)(M) or 1077(a)(2)(C) of this title,
 
-> &emsp;&emsp;shall be determined under subparagraph (A) by substituting “1.7 percent” for “2.3 percent”.
+> &emsp;&emsp;shall be determined under subparagraph (A) by substituting "1.7 percent" for "2.3 percent".
 
 #### (C) PLUS loans
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to Federal Direct PLUS Loan for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall be determined under subparagraph (A)—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to FederalDirect PLUS Loan for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall be determined under subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) by substituting “3.1 percent” for “2.3 percent”; and
+&emsp;&emsp;&emsp;(i) by substituting "3.1 percent" for "2.3 percent"; and
 
-&emsp;&emsp;&emsp;(ii) by substituting “9.0 percent” for “8.25 percent”.
+&emsp;&emsp;&emsp;(ii) by substituting "9.0 percent" for "8.25 percent".
 
 #### (D) Consolidation loans
 
@@ -176,19 +176,19 @@
 
 > &emsp;&emsp;except that such rate shall not exceed 8.25 percent.
 
-#### (7) Interest rate provision for new loans on or after July 1, 2006
+#### (7) Interest rate provision for new loans on or after July 1, 2006 and before July 1, 2013
 
 #### (A) Rates for FDSL and FDUSL
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after July 1, 2006, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after July 1, 2006, and before July 1, 2013, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
 
 #### (B) PLUS loans
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct PLUS loan for which the first disbursement is made on or after July 1, 2006, the applicable rate of interest shall be 7.9 percent on the unpaid principal balance of the loan.
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct PLUS loan for which the first disbursement is made on or after July 1, 2006, and before July 1, 2013, the applicable rate of interest shall be 7.9 percent on the unpaid principal balance of the loan.
 
 #### (C) Consolidation loans
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, and before July 1, 2013, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of one percent; or
 
@@ -208,7 +208,45 @@
 
 &emsp;&emsp;&emsp;(v) For a loan for which the first disbursement is made on or after July 1, 2011, and before July 1, 2013, 3.4 percent on the unpaid principal balance of the loan.
 
-#### (8) Repayment incentives
+#### (8) Interest rate provisions for new loans on or after July 1, 2013
+
+#### (A) Rates for undergraduate FDSL and FDUSL
+
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans issued to undergraduate students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
+
+&emsp;&emsp;&emsp;(i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 2.05 percent; or
+
+&emsp;&emsp;&emsp;(ii) 8.25 percent.
+
+#### (B) Rates for graduate and professional FDUSL
+
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Unsubsidized Stafford Loans issued to graduate or professional students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
+
+&emsp;&emsp;&emsp;(i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 3.6 percent; or
+
+&emsp;&emsp;&emsp;(ii) 9.5 percent.
+
+#### (C) PLUS loans
+
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct PLUSLoans, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
+
+&emsp;&emsp;&emsp;(i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 4.6 percent; or
+
+&emsp;&emsp;&emsp;(ii) 10.5 percent.
+
+#### (D) Consolidation loans
+
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation Loan for which the application is received on or after July 1, 2013, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of one percent.
+
+#### (E) Consultation
+
+&emsp;&emsp;The Secretary shall determine the applicable rate of interest under this paragraph after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
+
+#### (F) Rate
+
+&emsp;&emsp;The applicable rate of interest determined under this paragraph for a Federal Direct Stafford Loan, a Federal Direct Unsubsidized Stafford Loan, or a Federal Direct PLUS Loan shall be fixed for the period of the loan.
+
+#### (9) Repayment incentives
 
 #### (A) Incentives for loans disbursed before July 1, 2012
 
@@ -222,7 +260,7 @@
 
 &emsp;&emsp;Notwithstanding any other provision of this part, the Secretary is prohibited from authorizing or providing any repayment incentive not otherwise authorized under this part to encourage on-time repayment of a loan under this part for which the first disbursement of principal is made on or after July 1, 2012, including any reduction in the interest or origination fee rate paid by a borrower of such a loan, except that the Secretary may provide for an interest rate reduction for a borrower who agrees to have payments on such a loan automatically electronically debited from a bank account.
 
-#### (9) Publication
+#### (10) Publication
 
 &emsp;The Secretary shall determine the applicable rates of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
@@ -236,21 +274,21 @@
 
 &emsp;Paragraph (1) shall be applied to loans made under this part, other than Federal Direct Consolidation loans and Federal Direct PLUS loans—
 
-&emsp;&emsp;(A) by substituting “3.0 percent” for “4.0 percent” with respect to loans for which the first disbursement of principal is made on or after February 8, 2006, and before July 1, 2007;
+&emsp;&emsp;(A) by substituting "3.0 percent" for "4.0 percent" with respect to loans for which the first disbursement of principal is made on or after February 8, 2006, and before July 1, 2007;
 
-&emsp;&emsp;(B) by substituting “2.5 percent” for “4.0 percent” with respect to loans for which the first disbursement of principal is made on or after July 1, 2007, and before July 1, 2008;
+&emsp;&emsp;(B) by substituting "2.5 percent" for "4.0 percent" with respect to loans for which the first disbursement of principal is made on or after July 1, 2007, and before July 1, 2008;
 
-&emsp;&emsp;(C) by substituting “2.0 percent” for “4.0 percent” with respect to loans for which the first disbursement of principal is made on or after July 1, 2008, and before July 1, 2009;
+&emsp;&emsp;(C) by substituting "2.0 percent" for "4.0 percent" with respect to loans for which the first disbursement of principal is made on or after July 1, 2008, and before July 1, 2009;
 
-&emsp;&emsp;(D) by substituting “1.5 percent” for “4.0 percent” with respect to loans for which the first disbursement of principal is made on or after July 1, 2009, and before July 1, 2010; and
+&emsp;&emsp;(D) by substituting "1.5 percent" for "4.0 percent" with respect to loans for which the first disbursement of principal is made on or after July 1, 2009, and before July 1, 2010; and
 
-&emsp;&emsp;(E) by substituting “1.0 percent” for “4.0 percent” with respect to loans for which the first disbursement of principal is made on or after July 1, 2010.
+&emsp;&emsp;(E) by substituting "1.0 percent" for "4.0 percent" with respect to loans for which the first disbursement of principal is made on or after July 1, 2010.
 
 #### (d) Repayment plans
 
 #### (1) Design and selection
 
-&emsp;Consistent with criteria established by the Secretary, the Secretary shall offer a borrower of a loan made under this part a variety of plans for repayment of such loan, including principal and interest on the loan. The borrower shall be entitled to accelerate, withoutpenalty, repayment on the borrower's loans under this part. The borrower may choose—
+&emsp;Consistent with criteria established by the Secretary, the Secretary shall offer a borrower of a loan made under this part a variety of plans for repayment of such loan, including principal and interest on the loan. The borrower shall be entitled to accelerate, without penalty, repayment on the borrower's loans under this part. The borrower may choose—
 
 &emsp;&emsp;(A) a standard repayment plan, consistent with subsection (a)(1) of this section and with section 1078(b)(9)(A)(i) of this title;
 
@@ -366,9 +404,9 @@
 
 &emsp;&emsp;(D) not in excess of 3 years during which the Secretary determines, in accordance with regulations prescribed under section 1085(o) of this title, that the borrower has experienced or will experience an economic hardship.
 
-#### (3) “Borrower” defined
+#### (3) "Borrower" defined
 
-&emsp;For the purpose of this subsection, the term “borrower” means an individual who is a new borrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993.
+&emsp;For the purpose of this subsection, the term "borrower" means an individual who is a new borrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993.
 
 #### (4) Deferments for previous part B loan borrowers
 
@@ -452,11 +490,11 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (A) Eligible Federal Direct Loan
 
-&emsp;&emsp;The term “eligible Federal Direct Loan” means a Federal Direct Stafford Loan, Federal Direct PLUS Loan, or Federal Direct Unsubsidized Stafford Loan, or a Federal Direct Consolidation Loan.
+&emsp;&emsp;The term "eligible Federal Direct Loan" means a Federal Direct Stafford Loan, Federal Direct PLUS Loan, or Federal Direct Unsubsidized Stafford Loan, or a Federal Direct Consolidation Loan.
 
 #### (B) Public service job
 
-&emsp;&emsp;The term “public service job” means—
+&emsp;&emsp;The term "public service job" means—
 
 &emsp;&emsp;&emsp;(i) a full-time job in emergency management, government (excluding time served as a member of Congress), military service, public safety, law enforcement, public health (including nurses, nurse practitioners, nurses in a clinical setting, and full-time professionals engaged in health care practitioner occupations and health care support occupations, as such terms are defined by the Bureau of Labor Statistics), public education, social work in a public child or family service agency, public interest law services (including prosecution or public defense or legal advocacy on behalf of low-income communities at a nonprofit organization), early childhood education (including licensed or regulated childcare, Head Start, and State funded prekindergarten), public service for individuals with disabilities, public service for the elderly, public library sciences, school-based library sciences and other school-based services, or at an organization that is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title; or
 
@@ -482,7 +520,7 @@ The Secretary shall take such steps as may be necessary to ensure that monthly F
 
 #### (3) Eligible military borrower
 
-&emsp;In this subsection, the term “eligible military borrower” means an individual who—
+&emsp;In this subsection, the term "eligible military borrower" means an individual who—
 
 &emsp;&emsp;(A)(i) is serving on active duty during a war or other military operation or national emergency; or
 
@@ -530,7 +568,7 @@ Each institution of higher education with which the Secretary has an agreement u
 
 &emsp;&emsp;&emsp;(ii) how such aggregate period shall be calculated to include a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title, respectively.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506.)
 
 #### References in Text
 
@@ -538,41 +576,47 @@ Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(7)(D). Pub. L. 112–141, §100301(1), substituted “and before July 1, 2013,” for “and before July 1, 2012,” in introductory provisions.
+<b>2013</b>—Subsec. (b)(7). Pub. L. 113–28, §2(a)(1)(A), inserted "and before July 1, 2013" after "on or after July 1, 2006" in heading.
 
-Subsec. (b)(7)(D)(v). Pub. L. 112–141, §100301(2), substituted “and before July 1, 2013,” for “and before July 1, 2012,”.
+Subsec. (b)(7)(A) to (C). Pub. L. 113–28, §2(a)(1)(B)–(D), inserted "and before July 1, 2013," after "on or after July 1, 2006,".
+
+Subsec. (b)(8) to (10). Pub. L. 113–28, §2(a)(2), (3), added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
+
+<b>2012</b>—Subsec. (b)(7)(D). Pub. L. 112–141, §100301(1), substituted "and before July 1, 2013," for "and before July 1, 2012," in introductory provisions.
+
+Subsec. (b)(7)(D)(v). Pub. L. 112–141, §100301(2), substituted "and before July 1, 2013," for "and before July 1, 2012,".
 
 Subsec. (q). Pub. L. 112–141, §100302(a), added subsec. (q).
 
 <b>2011</b>—Subsec. (a)(3). Pub. L. 112–25, §502, added par. (3).
 
-Subsec. (b)(8)(A). Pub. L. 112–25, §503(1), substituted “Incentives for loans disbursed before July 1, 2012” for “In general” in heading and inserted “with respect to loans for which the first disbursement of principal is made before July 1, 2012,” after “of this part” in text.
+Subsec. (b)(8)(A). Pub. L. 112–25, §503(1), substituted "Incentives for loans disbursed before July 1, 2012" for "In general" in heading and inserted "with respect to loans for which the first disbursement of principal is made before July 1, 2012," after "of this part" in text.
 
-Subsec. (b)(8)(B). Pub. L. 112–25, §503(2), inserted “with respect to loans for which the first disbursement of principal is made before July 1, 2012” after “repayment incentives”.
+Subsec. (b)(8)(B). Pub. L. 112–25, §503(2), inserted "with respect to loans for which the first disbursement of principal is made before July 1, 2012" after "repayment incentives".
 
 Subsec. (b)(8)(C). Pub. L. 112–25, §503(3), added subpar. (C).
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–152, §2211(a)(1), inserted “, and first disbursed on June 30, 2010,” before “under sections 1078”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–152, §2211(a)(1), inserted ", and first disbursed on June 30, 2010," before "under sections 1078".
 
-Subsec. (g). Pub. L. 111–152, §2211(a)(2), inserted “, including any loan made under part B and first disbursed before July 1, 2010” after “section 1078–3(a)(4) of this title” and struck out at end “The Secretary, upon application for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(G) of this title.”
+Subsec. (g). Pub. L. 111–152, §2211(a)(2), inserted ", including any loan made under part B and first disbursed before July 1, 2010" after "section 1078–3(a)(4) of this title" and struck out at end "The Secretary, upon application for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(G) of this title."
 
-<b>2009</b>—Subsec. (d)(1)(C). Pub. L. 111–39, §404(b)(2)(A), substituted “1078(b)(9)(A)(iv)” for “1078(b)(9)(A)(v)”.
+<b>2009</b>—Subsec. (d)(1)(C). Pub. L. 111–39, §404(b)(2)(A), substituted "1078(b)(9)(A)(iv)" for "1078(b)(9)(A)(v)".
 
-Subsec. (h). Pub. L. 111–39, §404(b)(2)(B), struck out “(except as authorized under section 1087g(a)(1) of this title)” after “regulations”.
+Subsec. (h). Pub. L. 111–39, §404(b)(2)(B), struck out "(except as authorized under section 1087g(a)(1) of this title)" after "regulations".
 
-Subsec. (k)(1)(B). Pub. L. 111–39, §404(b)(2)(C), struck out “, or in a notice under section 1087g(a)(1) of this title,” after “regulations of the Secretary”.
+Subsec. (k)(1)(B). Pub. L. 111–39, §404(b)(2)(C), struck out ", or in a notice under section 1087g(a)(1) of this title," after "regulations of the Secretary".
 
-<b>2008</b>—Subsec. (b)(8)(B). Pub. L. 110–315, §103(b)(8), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+<b>2008</b>—Subsec. (b)(8)(B). Pub. L. 110–315, §103(b)(8), substituted "authorizing committees" for "Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives".
 
 Subsec. (d)(1)(E). Pub. L. 110–315, §451(a), added subpar. (E).
 
-Subsec. (g). Pub. L. 110–315, §425(b)(3), substituted “section 1078–3(b)(1)(G)” for “section 1078–3(b)(1)(F)”.
+Subsec. (g). Pub. L. 110–315, §425(b)(3), substituted "section 1078–3(b)(1)(G)" for "section 1078–3(b)(1)(F)".
 
-Subsec. (m)(3)(B). Pub. L. 110–315, §451(b)(1), amended subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘public service job’ means—
+Subsec. (m)(3)(B). Pub. L. 110–315, §451(b)(1), amended subpar. (B) generally. Prior to amendment, text read as follows: "The term 'public service job' means—
 
-&emsp;“(i) a full-time job in emergency management, government, military service, public safety, law enforcement, public health, public education (including early childhood education), social work in a public child or family service agency, public interest law services (including prosecution or public defense or legal advocacy in low-income communities at a nonprofit organization), public child care, public service for individuals with disabilities, public service for the elderly, public library sciences, school-based library sciences and other school-based services, or at an organization that is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title; or
+&emsp;"(i) a full-time job in emergency management, government, military service, public safety, law enforcement, public health, public education (including early childhood education), social work in a public child or family service agency, public interest law services (including prosecution or public defense or legal advocacy in low-income communities at a nonprofit organization), public child care, public service for individuals with disabilities, public service for the elderly, public library sciences, school-based library sciences and other school-based services, or at an organization that is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title; or
 
-&emsp;“(ii) teaching as a full-time faculty member at a Tribal College or University as defined in section 1059c(b) of this title and other faculty teaching in high-needs areas, as determined by the Secretary.”
+&emsp;"(ii) teaching as a full-time faculty member at a Tribal College or University as defined in section 1059c(b) of this title and other faculty teaching in high-needs areas, as determined by the Secretary."
 
 Subsec. (m)(4). Pub. L. 110–315, §451(b)(2), added par. (4).
 
@@ -584,49 +628,49 @@ Subsec. (p). Pub. L. 110–315, §451(e), added subsec. (p).
 
 <b>2007</b>—Subsec. (b)(7)(D). Pub. L. 110–84, §201(b), added subpar. (D).
 
-Subsec. (d)(1)(D). Pub. L. 110–84, §203(b)(3), inserted “made on behalf of a dependent student” after “PLUS loan”.
+Subsec. (d)(1)(D). Pub. L. 110–84, §203(b)(3), inserted "made on behalf of a dependent student" after "PLUS loan".
 
 Subsec. (e)(7). Pub. L. 110–84, §205, added par. (7).
 
-Subsec. (f)(2)(C). Pub. L. 110–84, §202(b), struck out “not in excess of 3 years” before “during” in introductory provisions, substituted comma for “; or” at end of cl. (ii), and inserted concluding provisions.
+Subsec. (f)(2)(C). Pub. L. 110–84, §202(b), struck out "not in excess of 3 years" before "during" in introductory provisions, substituted comma for "; or" at end of cl. (ii), and inserted concluding provisions.
 
 Subsec. (m). Pub. L. 110–84, §401, added subsec. (m).
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–171, §8009(d)(1), inserted “1078–3,” after “1078–2,”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–171, §8009(d)(1), inserted "1078–3," after "1078–2,".
 
 Subsec. (a)(2)(C), (D). Pub. L. 109–171, §8009(d)(2), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (b)(8)(A). Pub. L. 109–171, §8008(c)(3), inserted “or origination fee” after “reductions in the interest rate”.
+Subsec. (b)(8)(A). Pub. L. 109–171, §8008(c)(3), inserted "or origination fee" after "reductions in the interest rate".
 
 Subsec. (c). Pub. L. 109–171, §8008(c)(2), designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
 Subsec. (d)(1)(A) to (C). Pub. L. 109–171, §8008(b), added subpars. (A) to (C) and struck out former subpars. (A) to (C), which read as follows:
 
-“(A) a standard repayment plan, with a fixed annual repayment amount paid over a fixed period of time, consistent with subsection (a)(1) of this section;
+"(A) a standard repayment plan, with a fixed annual repayment amount paid over a fixed period of time, consistent with subsection (a)(1) of this section;
 
-“(B) an extended repayment plan, with a fixed annual repayment amount paid over an extended period of time, except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with section 1078(b)(1)(L) of this title;
+"(B) an extended repayment plan, with a fixed annual repayment amount paid over an extended period of time, except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with section 1078(b)(1)(L) of this title;
 
-“(C) a graduated repayment plan, with annual repayment amounts established at 2 or more graduated levels and paid over a fixed or extended period of time, except that the borrower's scheduled payments shall not be less than 50 percent, nor more than 150 percent, of what the amortized payment on the amount owed would be if the loan were repaid under the standard repayment plan; and”.
+"(C) a graduated repayment plan, with annual repayment amounts established at 2 or more graduated levels and paid over a fixed or extended period of time, except that the borrower's scheduled payments shall not be less than 50 percent, nor more than 150 percent, of what the amortized payment on the amount owed would be if the loan were repaid under the standard repayment plan; and".
 
 Subsec. (f)(2)(C), (D). Pub. L. 109–171, §8007(b), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (g). Pub. L. 109–171, §8009(d)(3), substituted “To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title. The Secretary, upon application for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(F) of this title.” for “Loans made under this subsection shall be known as ‘Federal Direct Consolidation Loans’.”
+Subsec. (g). Pub. L. 109–171, §8009(d)(3), substituted "To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title. The Secretary, upon application for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(F) of this title." for "Loans made under this subsection shall be known as 'Federal Direct Consolidation Loans'."
 
-<b>2002</b>—Subsec. (b)(6) to (9). Pub. L. 107–139, in par. (6) relating to interest rate provision for new loans substituted “
+<b>2002</b>—Subsec. (b)(6) to (9). Pub. L. 107–139, in par. (6) relating to interest rate provision for new loans substituted "
 
-2006” for “
+2006" for "
 
-2003” in heading and “July 1, 2006,” for “July 1, 2003,” wherever appearing in text, added par. (7), redesignated former par. (7) as (8), and redesignated par. (6) relating to publication of rate in Federal Register as (9).
+2003" in heading and "July 1, 2006," for "July 1, 2003," wherever appearing in text, added par. (7), redesignated former par. (7) as (8), and redesignated par. (6) relating to publication of rate in Federal Register as (9).
 
 Subsec. (l). Pub. L. 107–314 added subsec. (l).
 
-<b>2000</b>—Subsec. (b)(4)(A). Pub. L. 106–554 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “For Federal Direct PLUS Loans for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+<b>2000</b>—Subsec. (b)(4)(A). Pub. L. 106–554 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "For Federal Direct PLUS Loans for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
-&emsp;“(i) the bond equivalent rate of 52-week Treasury bills auctioned at final auction held prior to such June 1; plus
+&emsp;"(i) the bond equivalent rate of 52-week Treasury bills auctioned at final auction held prior to such June 1; plus
 
-&emsp;“(ii) 3.1 percent,
+&emsp;"(ii) 3.1 percent,
 
-> except that such rate shall not exceed 9 percent.”
+> except that such rate shall not exceed 9 percent."
 
 <b>1998</b>—Subsec. (b)(5). Pub. L. 105–178, §8301(c)(2), which directed amendment of section 455(b) (20 U.S.C. 1087e(b)) by adding par. (5), was executed to this section, which is section 455(b) of Pub. L. 89–329, to reflect the probable intent of Congress. Former par. (5) redesignated (6).
 
@@ -636,9 +680,9 @@ Pub. L. 105–178, §8301(c)(1), which directed amendment of section 455(b) (20 
 
 Subsec. (b)(7). Pub. L. 105–244, §452(b), added par. (7).
 
-Subsec. (g). Pub. L. 105–244, §452(c), struck out “only under such terms and conditions as the Secretary shall establish pursuant to section 1087g(a)(1) of this title or regulations promulgated under this part” after “section 1078–3(a)(4) of this title”.
+Subsec. (g). Pub. L. 105–244, §452(c), struck out "only under such terms and conditions as the Secretary shall establish pursuant to section 1087g(a)(1) of this title or regulations promulgated under this part" after "section 1078–3(a)(4) of this title".
 
-Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted “Federal Pell Grants” for “basic grants”.
+Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted "Federal Pell Grants" for "basic grants".
 
 <b>1994</b>—Subsec. (f)(3), (4). Pub. L. 103–382 added pars. (3) and (4).
 
@@ -646,9 +690,13 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted “Federal 
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 113–28, §2(b), Aug. 9, 2013, 127 Stat. 507, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if enacted on July 1, 2013."
+
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–152, title II, §2211(b), Mar. 30, 2010, 124 Stat. 1078, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply with respect to loans first disbursed under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.) on or after July 1, 2010.”
+Pub. L. 111–152, title II, §2211(b), Mar. 30, 2010, 124 Stat. 1078, provided that: "The amendment made by subsection (a)(1) \[amending this section\] shall apply with respect to loans first disbursed under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.) on or after July 1, 2010."
 
 #### Effective Date of 2009 Amendment
 
@@ -672,9 +720,9 @@ Amendment by Pub. L. 107–314 applicable with respect to interest, and any spec
 
 #### Effective Date of 1998 Amendment
 
-Amendment by sections 401(g)(6) and 452(b), (c) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+Amendment by sections 401(g)(6) and 452(b), (c) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwiseprovided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-Pub. L. 105–244, title IV, §452(d), Oct. 7, 1998, 112 Stat. 1717, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to any loan made under part D of title IV of the Higher Education Act of 1965 \[this part\] for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, except that such amendments shall apply with respect to a Federal Direct Consolidation Loan for which the application is received on or after October 1, 1998, and before July 1, 2003.”
+Pub. L. 105–244, title IV, §452(d), Oct. 7, 1998, 112 Stat. 1717, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to any loan made under part D of title IV of the Higher Education Act of 1965 \[this part\] for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, except that such amendments shall apply with respect to a Federal Direct Consolidation Loan for which the application is received on or after October 1, 1998, and before July 1, 2003."
 
 #### Effective Date of 1992 Amendment
 
@@ -686,7 +734,7 @@ Nothing in amendment by section 8007(b) of Pub. L. 109–171 to be construed to 
 
 #### Limitation on Consolidation Loans During Temporary Interest Rate
 
-Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: “Notwithstanding section 455(g) of the Higher Education Act of 1965 \[subsec. (g) of this section\], a borrower who is enrolled or accepted for enrollment in an institution of higher education may not consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\] other than loans made under part D of such title \[this part\].”
+Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: "Notwithstanding section 455(g) of the Higher Education Act of 1965 \[subsec. (g) of this section\], a borrower who is enrolled or accepted for enrollment in an institution of higher education may not consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\] other than loans made under part D of such title \[this part\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

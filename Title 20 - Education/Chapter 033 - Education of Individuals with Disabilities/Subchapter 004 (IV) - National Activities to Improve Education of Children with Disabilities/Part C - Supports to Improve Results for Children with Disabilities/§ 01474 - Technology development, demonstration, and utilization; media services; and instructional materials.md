@@ -8,7 +8,7 @@
 
 #### (2) Definition of eligible entity
 
-&emsp;In this section, the term “eligible entity” has the meaning given the term in section 1461(b) of this title.
+&emsp;In this section, the term "eligible entity" has the meaning given the term in section 1461(b) of this title.
 
 #### (b) Technology development, demonstration, and use
 
@@ -58,7 +58,7 @@
 
 #### (1) In general
 
-&emsp;Any eligible entity that wishes to receive a grant, or enter into a contract or cooperative agreement, under subsection (b) or (c) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;Any eligible entity that wishes to receive a grant, or enter into a contract or cooperativeagreement, under subsection (b) or (c) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Special rule
 
@@ -74,7 +74,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish and support, through the American Printing House for theBlind, a center to be known as the “National Instructional Materials Access Center” not later than 1 year after December 3, 2004.
+&emsp;The Secretary shall establish and support, through the American Printing House for the Blind, a center to be known as the "National Instructional Materials Access Center" not later than 1 year after December 3, 2004.
 
 #### (2) Duties
 
@@ -92,19 +92,19 @@
 
 #### (A) Blind or other persons with print disabilities
 
-&emsp;&emsp;The term “blind or other persons with print disabilities” means children served under this chapter and who may qualify in accordance with the Act entitled “An Act to provide books for the adult blind”, approved March 3, 1931 (2 U.S.C. 135a; 46 Stat. 1487) to receive books and other publications produced in specialized formats.
+&emsp;&emsp;The term "blind or other persons with print disabilities" means children served under this chapter and who may qualify in accordance with the Act entitled "An Act to provide books for the adult blind", approved March 3, 1931 (2 U.S.C. 135a; 46 Stat. 1487) to receive books and other publications produced in specialized formats.
 
 #### (B) National Instructional Materials Accessibility Standard
 
-&emsp;&emsp;The term “National Instructional Materials Accessibility Standard” means the standard established by the Secretary to be used in the preparation of electronic files suitable and used solely for efficient conversion into specialized formats.
+&emsp;&emsp;The term "National Instructional Materials Accessibility Standard" means the standard established by the Secretary to be used in the preparation of electronic files suitable and used solely for efficient conversion into specialized formats.
 
 #### (C) Print instructional materials
 
-&emsp;&emsp;The term “print instructional materials” means printed textbooks and related printed core materials that are written and published primarily for use in elementary school and secondary school instruction and are required by a State educational agency or local educational agency for use by students in the classroom.
+&emsp;&emsp;The term "print instructional materials" means printed textbooks and related printed core materials that are written and published primarily for use in elementary school and secondary school instruction and are required by a State educational agency or local educational agency for use by students in the classroom.
 
 #### (D) Specialized formats
 
-&emsp;&emsp;The term “specialized formats” has the meaning given the term in section 121(d)(3) of title 17.
+&emsp;&emsp;The term "specialized formats" has the meaning given the term in section 121(d)(3) of title 17.
 
 #### (4) Applicability
 
@@ -122,9 +122,9 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(3)(A), (5), was in the original “this Act” and was translated as reading “this title”, meaning title VI of Pub. L. 91–230, as amended, which enacted this chapter, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (e)(3)(A), (5), was in the original "this Act" and was translated as reading "this title", meaning title VI of Pub. L. 91–230, as amended, which enacted this chapter, to reflect the probable intent of Congress.
 
-“An Act to provide books for the adult blind”, approved March 3, 1931, referred to in subsec. (e)(3)(A), is act Mar. 3, 1931, ch. 400, 46 Stat. 1487, as amended, which is classified generally to sections 135a and 135b of Title 2, The Congress. For complete classification of this Act to the Code, see Tables.
+"An Act to provide books for the adult blind", approved March 3, 1931, referred to in subsec. (e)(3)(A), is act Mar. 3, 1931, ch. 400, 46 Stat. 1487, as amended, which is classified generally to sections 135a and 135b of Title 2, The Congress. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 

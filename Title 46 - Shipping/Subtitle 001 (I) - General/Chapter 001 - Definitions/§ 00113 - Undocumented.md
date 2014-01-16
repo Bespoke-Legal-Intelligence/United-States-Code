@@ -1,6 +1,6 @@
 ### §113. Undocumented
 
-In this title, the term “undocumented” means not having and not required to have a certificate of documentation issued under chapter 121 of this title.
+In this title, the term "undocumented" means not having and not required to have a certificate of documentation issued under chapter 121 of this title.
 
 (Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1487.)
 
@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 46:2101(41).
 
-The words “certificate of documentation” are substituted for “document” for consistency with chapter 121.
+The words "certificate of documentation" are substituted for "document" for consistency with chapter 121.
 

@@ -94,5 +94,5 @@ A prior section 796f–4, Pub. L. 93–112, title VII, §725, as added Pub. L. 1
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c)(7). Pub. L. 105–332 substituted “management;” for “management, including making arrangements for an annual independent fiscal audit, notwithstanding section 7502(a)(2)(A) of title 31;”.
+<b>1998</b>—Subsec. (c)(7). Pub. L. 105–332 substituted "management;" for "management, including making arrangements for an annual independent fiscal audit, notwithstanding section 7502(a)(2)(A) of title 31;".
 

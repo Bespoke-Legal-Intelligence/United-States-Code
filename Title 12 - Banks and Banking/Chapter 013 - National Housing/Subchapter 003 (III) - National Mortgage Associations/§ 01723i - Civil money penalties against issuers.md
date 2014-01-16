@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(I) Submission to the Association of a false certification either on its own behalf or on behalf of another person or entity.
 
-&emsp;&emsp;(J) Failure to comply with an agreement, certification, or condition of approval set forth on, or applicable to, the application for approval as an issuer of securities under section 1721(g) of this title.
+&emsp;&emsp;(J) Failure to comply with an agreement, certification, or condition of approval setforth on, or applicable to, the application for approval as an issuer of securities under section 1721(g) of this title.
 
 &emsp;&emsp;(K) Violation of any provisions of this subchapter or any implementing regulation, handbook, or participant letter issued under authority of this subchapter.
 
@@ -86,15 +86,15 @@
 
 #### (e) Action to collect penalty
 
-If any issuer or custodian fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the issuer or custodian and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees andother expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+If any issuer or custodian fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the issuer or custodian and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (f) Settlement by Secretary
 
 The Secretary may compromise, modify, or remit any civil money penalty which may be, or has been, imposed under this section.
 
-#### (g) “Knowingly” defined
+#### (g) "Knowingly" defined
 
-The term “knowingly” means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
+The term "knowingly" means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
 
 #### (h) Regulations
 
@@ -108,11 +108,11 @@ The Secretary shall deposit all civil money penalties collected under this secti
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(1)(B). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”.
+<b>2006</b>—Subsec. (b)(1)(B). Pub. L. 109–173 substituted "Deposit Insurance Fund" for "Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations".
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(13)(A). See 1996 Amendment note below.
 
-<b>1996</b>—Subsec. (b)(1)(B). Pub. L. 104–208, §2704(d)(13)(A), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (b)(1)(B). Pub. L. 104–208, §2704(d)(13)(A), which directed substitution of "Deposit Insurance Fund" for "Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 #### Effective Date of 2006 Amendment
 
@@ -126,9 +126,9 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### Effective Date
 
-Pub. L. 101–235, title I, §110(b), Dec. 15, 1989, 103 Stat. 2014, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
+Pub. L. 101–235, title I, §110(b), Dec. 15, 1989, 103 Stat. 2014, provided that: "The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
 
-&emsp;“(1) violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\]; and
+&emsp;"(1) violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\]; and
 
-&emsp;“(2) in the case of a continuing violation (as determined by the Secretary of Housing and Urban Development), any portion of a violation referred to in the amendment that occurs on or after such date.”
+&emsp;"(2) in the case of a continuing violation (as determined by the Secretary of Housing and Urban Development), any portion of a violation referred to in the amendment that occurs on or after such date."
 

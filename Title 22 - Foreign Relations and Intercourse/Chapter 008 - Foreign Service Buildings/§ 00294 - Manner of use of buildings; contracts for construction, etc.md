@@ -6,11 +6,11 @@ Buildings and grounds acquired under this chapter or prior to May 7, 1926, acqui
 
 #### Codification
 
-“Section 3324(a) and (b) of title 31” substituted in text for “section 3648 of the Revised Statutes of the United States (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+"Section 3324(a) and (b) of title 31" substituted in text for "section 3648 of the Revised Statutes of the United States (31 U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–138 inserted “purchases of buildings, for leases, and for” after “contracts for”.
+<b>1991</b>—Pub. L. 102–138 inserted "purchases of buildings, for leases, and for" after "contracts for".
 
-<b>1963</b>—Pub. L. 88–94 struck out “, subject to the direction of the commission,” before “be used” and “in the judgment of the commission,” after “where necessary,” and inserted “and without regard to section 529 of title 31”.
+<b>1963</b>—Pub. L. 88–94 struck out ", subject to the direction of the commission," before "be used" and "in the judgment of the commission," after "where necessary," and inserted "and without regard to section 529 of title 31".
 

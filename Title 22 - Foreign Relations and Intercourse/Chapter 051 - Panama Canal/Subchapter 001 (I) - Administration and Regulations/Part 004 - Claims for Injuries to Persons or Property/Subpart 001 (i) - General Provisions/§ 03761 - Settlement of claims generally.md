@@ -24,7 +24,7 @@ The provisions of section 1346(b) of title 28 and the provisions of chapter 171 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–106 struck out “appropriated for or” after “any moneys”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–106 struck out "appropriated for or" after "any moneys".
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No claim for an amount exceeding $50,000 shall be adjusted and paid by the Commission under the provisions of this subpart.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "No claim for an amount exceeding $50,000 shall be adjusted and paid by the Commission under the provisions of this subpart."
 

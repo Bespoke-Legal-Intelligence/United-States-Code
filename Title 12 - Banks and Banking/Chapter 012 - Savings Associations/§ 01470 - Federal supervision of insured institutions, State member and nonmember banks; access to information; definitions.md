@@ -6,13 +6,13 @@
 
 (b) For the purposes of this section and any Act amended by this section—
 
-&emsp;(1) The term “insured institution” has the same meaning as in section 401(a) of the National Housing Act \[12 U.S.C. 1724(a)\].<sup>1</sup>
+&emsp;(1) The term "insured institution" has the same meaning as in section 401(a) of the National Housing Act \[12 U.S.C. 1724(a)\].<sup>1</sup>
 
-&emsp;(2) The terms “State member insured banks” and “State nonmember insured banks” have the same meaning as when used in the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\].
+&emsp;(2) The terms "State member insured banks" and "State nonmember insured banks" have the same meaning as when used in the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\].
 
-&emsp;(3) The term “State housing corporation” means a corporation established by a State for the limited purpose of providing housing and incidental services, particularly for families of low or moderate income.
+&emsp;(3) The term "State housing corporation" means a corporation established by a State for the limited purpose of providing housing and incidental services, particularly for families of low or moderate income.
 
-&emsp;(4) The term “State” means any State, the District of Columbia, Guam, the Commonwealth of Puerto Rico, and the Virgin Islands.
+&emsp;(4) The term "State" means any State, the District of Columbia, Guam, the Commonwealth of Puerto Rico, and the Virgin Islands.
 
 (Pub. L. 93–100, §5(d), (e), Aug. 16, 1973, 87 Stat. 344; Pub. L. 111–203, title III, §375, July 21, 2010, 124 Stat. 1566.)
 
@@ -28,15 +28,15 @@ The Federal Deposit Insurance Act, referred to in subsec. (b)(2), is act Sept. 2
 
 #### Codification
 
-Section was not enacted as part of the Home Owners’ Loan Act of 1933, which comprises this chapter.
+Section was not enacted as part of the Home Owners' Loan Act of 1933, which comprises this chapter.
 
 Subsecs. (d) and (e) of section 5 of Pub. L. 93–100 have been designated subsecs. (a) and (b) for purposes of codification.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §375(1), substituted “appropriate Federal banking agency, with respect to the institutions subject to the jurisdiction of each such agency,” for “Federal Savings and Loan Insurance Corporation with respect to insured institutions, the Board of Governors of the Federal Reserve System with respect to State member insured banks, and the Federal Deposit Insurance Corporation with respect to State nonmember insured banks”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §375(1), substituted "appropriate Federal banking agency, with respect to the institutions subject to the jurisdiction of each such agency," for "Federal Savings and Loan Insurance Corporation with respect to insured institutions, the Board of Governors of the Federal Reserve System with respect to State member insured banks, and the Federal Deposit Insurance Corporation with respect to State nonmember insured banks".
 
-Subsec. (a)(2). Pub. L. 111–203, §375(2), substituted “banking” for “supervisory”.
+Subsec. (a)(2). Pub. L. 111–203, §375(2), substituted "banking" for "supervisory".
 
 #### Effective Date of 2010 Amendment
 

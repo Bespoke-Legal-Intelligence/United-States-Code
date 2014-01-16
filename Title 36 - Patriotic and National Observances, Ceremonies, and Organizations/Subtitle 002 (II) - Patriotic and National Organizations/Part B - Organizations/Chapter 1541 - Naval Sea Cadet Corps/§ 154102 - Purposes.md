@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 Sept. 10, 1962, Pub. L. 87–655, §2, 76 Stat. 531; Nov. 29, 1974, Pub. L. 93–504, 88 Stat. 1575.
 
-The word “objects” is omitted as included in “purposes”.
+The word "objects" is omitted as included in "purposes".
 

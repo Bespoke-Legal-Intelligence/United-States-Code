@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Apr. 3, 1952, ch. 131, §17, 66 Stat. 41.
 
-The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary.
+The word "satisfaction" is omitted as included in "discharge", and the word "obligations" is omitted as included in "liabilities". The word "outstanding" is omitted as unnecessary.
 

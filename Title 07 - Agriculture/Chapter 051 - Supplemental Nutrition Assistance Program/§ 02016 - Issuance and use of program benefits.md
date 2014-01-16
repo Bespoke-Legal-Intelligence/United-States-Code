@@ -56,7 +56,7 @@ Notwithstanding any other provision of this chapter, the State agency shall be s
 
 #### (g) Staggered issuance procedures
 
-(1) The State agency may establish a procedure for staggering the issuance of benefits toeligible households throughout the month. Upon the request of the tribal organization that exercises governmental jurisdiction over the reservation, the State agency shall stagger the issuance of benefits for eligible households located on reservations for at least 15 days of a month.
+(1) The State agency may establish a procedure for staggering the issuance of benefits to eligible households throughout the month. Upon the request of the tribal organization that exercises governmental jurisdiction over the reservation, the State agency shall stagger the issuance of benefits for eligible households located on reservations for at least 15 days of a month.
 
 (2)
 
@@ -90,7 +90,7 @@ Timely implementation.—Each State agency is encouraged to implement an electro
 
 &emsp;(C)
 
-State flexibility.—Subject to paragraph (2), a State agency may procure and implement an electronic benefit transfer system under the terms, conditions, and design that the State agency considers appropriate.
+State flexibility.—Subject to paragraph (2), a State agency may procure and implement an electronic benefit transfer systemunder the terms, conditions, and design that the State agency considers appropriate.
 
 &emsp;(D)
 
@@ -152,7 +152,7 @@ Optional photographic identification.—
 
 &emsp;(A)
 
-In general.—A State agency may require that an electronic benefit card contain aphotograph of 1 or more members of a household.
+In general.—A State agency may require that an electronic benefit card contain a photograph of 1 or more members of a household.
 
 &emsp;(B)
 
@@ -172,15 +172,15 @@ Definitions.—In this paragraph:
 
 &emsp;&emsp;(i)
 
-Affiliate.—The term “affiliate” has the meaning provided the term in section 1841(k) of title 12.
+Affiliate.—The term "affiliate" has the meaning provided the term in section 1841(k) of title 12.
 
 &emsp;&emsp;(ii)
 
-Company.—The term “company” has the meaning provided the term in section 1971 of title 12, but shall not include a bank, a bank holding company, or any subsidiary of a bank holding company.
+Company.—The term "company" has the meaning provided the term in section 1971 of title 12, but shall not include a bank, a bank holding company, or any subsidiary of a bank holding company.
 
 &emsp;&emsp;(iii)
 
-Electronic benefit transfer service.—The term “electronic benefit transfer service” means the processing of electronic transfers of household benefits, determined under section 2017(a) or 2035 of this title, if the benefits are—
+Electronic benefit transfer service.—The term "electronic benefit transfer service" means the processing of electronic transfers of household benefits, determined under section 2017(a) or 2035 of this title, if the benefits are—
 
 &emsp;&emsp;&emsp;(I) issued from and stored in a central databank;
 
@@ -190,7 +190,7 @@ Electronic benefit transfer service.—The term “electronic benefit transfer s
 
 &emsp;&emsp;(iv)
 
-Point-of-sale service.—The term “point-of-sale service” means any product or service related to the electronic authorization and processing of payments for merchandise at a retail food store, including credit or debit card services, automated teller machines, point-of-sale terminals, or access to on-line systems.
+Point-of-sale service.—The term "point-of-sale service" means any product orservice related to the electronic authorization and processing of payments for merchandise at a retail food store, including credit or debit card services, automated teller machines, point-of-sale terminals, or access to on-line systems.
 
 &emsp;(B)
 
@@ -284,35 +284,35 @@ Interchange fees.—No interchange fees shall apply to electronic benefit transf
 
 #### (A) Electronic benefit transfer card
 
-&emsp;&emsp;The term “electronic benefit transfer card” means a card that provides benefits under this chapter through an electronic benefit transfer service (as defined in subsection (h)(11)(A) of this section).
+&emsp;&emsp;The term "electronic benefit transfer card" means a card that provides benefits under this chapter through an electronic benefit transfer service (as defined in subsection (h)(11)(A) of this section).
 
 #### (B) Electronic benefit transfer contract
 
-&emsp;&emsp;The term “electronic benefit transfer contract” means a contract that provides for the issuance, use, or redemption of program benefits in the form of electronic benefit transfer cards.
+&emsp;&emsp;The term "electronic benefit transfer contract" means a contract that provides for the issuance, use, or redemption of program benefits in the form of electronic benefit transfer cards.
 
 #### (C) Interoperability
 
-&emsp;&emsp;The term “interoperability” means a system that enables program benefits in the form of an electronic benefit transfer card to be redeemed in any State.
+&emsp;&emsp;The term "interoperability" means a system that enables program benefits in theform of an electronic benefit transfer card to be redeemed in any State.
 
 #### (D) Interstate transaction
 
-&emsp;&emsp;The term “interstate transaction” means a transaction that is initiated in 1 State by the use of an electronic benefit transfer card that is issued in another State.
+&emsp;&emsp;The term "interstate transaction" means a transaction that is initiated in 1 State by the use of an electronic benefit transfer card that is issued in another State.
 
 #### (E) Portability
 
-&emsp;&emsp;The term “portability” means a system that enables program benefits in the form of an electronic benefit transfer card to be used in any State by a household to purchase food at a retail food store or wholesale food concern approved under this chapter.
+&emsp;&emsp;The term "portability" means a system that enables program benefits in the form of an electronic benefit transfer card to be used in any State by a household to purchase food at a retail food store or wholesale food concern approved under this chapter.
 
 #### (F) Settling
 
-&emsp;&emsp;The term “settling” means movement, and reporting such movement, of funds from an electronic benefit transfer card issuer that is located in 1 State to a retail food store, or wholesale food concern, that is located in another State, to accomplish an interstate transaction.
+&emsp;&emsp;The term "settling" means movement, and reporting such movement, of funds from an electronic benefit transfer card issuer that is located in 1 State to a retail food store, or wholesale food concern, that is located in another State, to accomplish an interstate transaction.
 
 #### (G) Smart card
 
-&emsp;&emsp;The term “smart card” means an intelligent benefit card described in section 2026(f) of this title.
+&emsp;&emsp;The term "smart card" means an intelligent benefit card described in section 2026(f) of this title.
 
 #### (H) Switching
 
-&emsp;&emsp;The term “switching” means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
+&emsp;&emsp;The term "switching" means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
 
 #### (2) Requirement
 
@@ -348,7 +348,7 @@ Interchange fees.—No interchange fees shall apply to electronic benefit transf
 
 &emsp;&emsp;&emsp;(ii) demonstrates that the best interest of the supplemental nutrition assistance program would be served by granting the waiver with respect to the electronic benefit transfer system used by the State agency to administer the supplemental nutrition assistance program; and
 
-&emsp;&emsp;&emsp;(iii) specifies a date by which the State agency will achieve the interoperabilityand portability required under paragraph (2).
+&emsp;&emsp;&emsp;(iii) specifies a date by which the State agency will achieve the interoperability and portability required under paragraph (2).
 
 #### (C) Smart card systems
 
@@ -368,7 +368,7 @@ Interchange fees.—No interchange fees shall apply to electronic benefit transf
 
 &emsp;&emsp;The total amount paid to State agencies for each fiscal year under subparagraph (A) shall not exceed $500,000.
 
-(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, §4110, May 13, 2002, 116 Stat. 309; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, 122 Stat. 1092, 1093, 1103; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(4), 4113–4115(a), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1864, 1865; Pub. L. 111–203, title X, §1075(b), July 21, 2010, 124 Stat. 2074.)
+(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050;Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, §4110, May 13, 2002, 116 Stat. 309; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, 122 Stat. 1092, 1093, 1103; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(4), 4113–4115(a), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1864, 1865; Pub. L. 111–203, title X, §1075(b), July 21, 2010, 124 Stat. 2074.)
 
 #### References in Text
 
@@ -380,47 +380,47 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2010</b>—Subsec. (h)(10). Pub. L. 111–203 amended par. (10) generally. Prior to amendment, text read as follows: “Disclosures, protections, responsibilities, and remedies established by the Federal Reserve Board under section 1693b of title 15 shall not apply to benefits under this chapter delivered through any electronic benefit transfer system.”
+<b>2010</b>—Subsec. (h)(10). Pub. L. 111–203 amended par. (10) generally. Prior to amendment, text read as follows: "Disclosures, protections, responsibilities, and remedies established by the Federal Reserve Board under section 1693b of title 15 shall not apply to benefits under this chapter delivered through any electronic benefit transfer system."
 
-<b>2008</b>—Pub. L. 110–246, §4115(a)(1), substituted “program benefits” for “coupons” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §4115(a)(1), substituted "program benefits" for "coupons" in section catchline.
 
-Subsec. (a). Pub. L. 110–246, §4115(a)(1), inserted heading and substituted “Except as provided in subsection (i), EBT cards shall be” for “Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be”.
+Subsec. (a). Pub. L. 110–246, §4115(a)(1), inserted heading and substituted "Except as provided in subsection (i), EBT cards shall be" for "Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be".
 
-Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (b). Pub. L. 110–246, §4115(a)(2), inserted heading, substituted “Benefits” for “Coupons”, and struck out before period at end “: <i>Provided further</i>, That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued”.
+Subsec. (b). Pub. L. 110–246, §4115(a)(2), inserted heading, substituted "Benefits" for "Coupons", and struck out before period at end ": <i>Provided further</i>, That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued".
 
-Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (c). Pub. L. 110–246, §4115(a)(3), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, substituted “EBT cards” for “Coupons”, struck out “and define their denomination” after “explain their purpose”, struck out at end “The name of any public official shall not appear on such coupons.”, and added par. (2).
+Subsec. (c). Pub. L. 110–246, §4115(a)(3), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, substituted "EBT cards" for "Coupons", struck out "and define their denomination" after "explain their purpose", struck out at end "The name of any public official shall not appear on such coupons.", and added par. (2).
 
 Subsec. (d). Pub. L. 110–246, §4115(a)(4), (12), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to determination and monitoring of coupon inventory levels and certified monthly report on issuer's operations.
 
 Subsec. (e). Pub. L. 110–246, §4115(a)(12), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Pub. L. 110–246, §4115(a)(5), substituted “benefits” for “coupons” in two places and “benefit issuers” for “coupon issuers” in two places.
+Pub. L. 110–246, §4115(a)(5), substituted "benefits" for "coupons" in two places and "benefit issuers" for "coupon issuers" in two places.
 
 Subsec. (f). Pub. L. 110–246, §4115(a)(12), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Pub. L. 110–246, §4115(a)(6), substituted “issuance of benefits” for “issuance of coupons”, “benefit issuers” for “coupon issuer”, and “authorizations for benefits” for “authorizations for coupons and allotments” and struck out “including any losses involving failure of a benefit issuers to comply with the requirements specified in section 2020(e)(20) of this title,” after “issuance of benefits”.
+Pub. L. 110–246, §4115(a)(6), substituted "issuance of benefits" for "issuance of coupons", "benefit issuers" for "coupon issuer", and "authorizations for benefits" for "authorizations for coupons and allotments" and struck out "including any losses involving failure of a benefit issuers to comply with the requirements specified in section 2020(e)(20) of this title," after "issuance of benefits".
 
 Subsec. (g). Pub. L. 110–246, §4115(a)(12), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
 Pub. L. 110–246, §4115(a)(7), added subsec. (g) and struck out former subsec. (g) which related to issuance or delivery of food stamp coupons using alternative methods or issuance of other reusable documents in lieu of coupons by a State agency.
 
-Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in two places.
+Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program" in two places.
 
 Subsec. (h). Pub. L. 110–246, §4115(a)(12), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-Subsec. (h)(1). Pub. L. 110–246, §4115(a)(8), substituted “benefits” for “coupons”.
+Subsec. (h)(1). Pub. L. 110–246, §4115(a)(8), substituted "benefits" for "coupons".
 
-Subsec. (h)(2). Pub. L. 110–246, §4113, added par. (2) and struck out former par. (2) which read as follows: “Any procedure established under paragraph (1) shall not reduce the allotment of any household and shall ensure that no household experiences an interval between issuances of more than 40 days. The procedure may include issuing a household's benefits in more than one issuance.”
+Subsec. (h)(2). Pub. L. 110–246, §4113, added par. (2) and struck out former par. (2) which read as follows: "Any procedure established under paragraph (1) shall not reduce the allotment of any household and shall ensure that no household experiences an interval between issuances of more than 40 days. The procedure may include issuing a household's benefits in more than one issuance."
 
 Subsec. (i). Pub. L. 110–246, §4115(a)(12), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-Subsec. (i)(3)(B)(ii). Pub. L. 110–246, §4002(a)(4)(A)(i), substituted “households receiving supplemental nutrition assistance program benefits” for “food stamp households”.
+Subsec. (i)(3)(B)(ii). Pub. L. 110–246, §4002(a)(4)(A)(i), substituted "households receiving supplemental nutrition assistance program benefits" for "food stamp households".
 
-Subsec. (i)(7). Pub. L. 110–246, §4002(a)(4)(A)(ii), substituted “supplemental nutrition assistance issuance” for “food stamp issuance”.
+Subsec. (i)(7). Pub. L. 110–246, §4002(a)(4)(A)(ii), substituted "supplemental nutrition assistance issuance" for "food stamp issuance".
 
 Subsec. (i)(12). Pub. L. 110–246, §4115(a)(9), added par. (12) relating to interchange fees.
 
@@ -428,37 +428,37 @@ Pub. L. 110–246, §4114, added par. (12) relating to recovering electronic ben
 
 Subsec. (j). Pub. L. 110–246, §4115(a)(12), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-Subsec. (j)(1). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (j)(1). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (j)(2)(A)(ii). Pub. L. 110–246, §4115(a)(10)(A), substituted “issuing and redeeming benefits” for “printing, shipping, and redeeming coupons”.
+Subsec. (j)(2)(A)(ii). Pub. L. 110–246, §4115(a)(10)(A), substituted "issuing and redeeming benefits" for "printing, shipping, and redeeming coupons".
 
-Subsec. (j)(2)(B). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (j)(2)(B). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (j)(5). Pub. L. 110–246, §4115(a)(10)(B), substituted “benefit” for “coupon”.
+Subsec. (j)(5). Pub. L. 110–246, §4115(a)(10)(B), substituted "benefit" for "coupon".
 
 Subsec. (k). Pub. L. 110–246, §4115(a)(12), redesignated subsec. (k) as (j).
 
-Subsec. (k)(1)(A). Pub. L. 110–246, §4115(a)(11)(C), which directed amendment of subpar. (A) by substituting “subsection (h)(11)(A)” for “subsection (i)(11)(A)”, was executed by making the substitution in subpar. (A) of par. (1), to reflect the probable intent of Congress.
+Subsec. (k)(1)(A). Pub. L. 110–246, §4115(a)(11)(C), which directed amendment of subpar. (A) by substituting "subsection (h)(11)(A)" for "subsection (i)(11)(A)", was executed by making the substitution in subpar. (A) of par. (1), to reflect the probable intent of Congress.
 
-Subsec. (k)(1)(B). Pub. L. 110–246, §4115(a)(11)(A), substituted “program benefits in the form of” for “coupons in the form of”.
+Subsec. (k)(1)(B). Pub. L. 110–246, §4115(a)(11)(A), substituted "program benefits in the form of" for "coupons in the form of".
 
-Subsec. (k)(1)(C), (E). Pub. L. 110–246, §4115(a)(11)(B), substituted “program benefits in the form of” for “a coupon issued in the form of”.
+Subsec. (k)(1)(C), (E). Pub. L. 110–246, §4115(a)(11)(B), substituted "program benefits in the form of" for "a coupon issued in the form of".
 
-Subsec. (k)(2). Pub. L. 110–246, §4115(a)(11)(A), substituted “program benefits in the form of” for “coupons in the form of”.
+Subsec. (k)(2). Pub. L. 110–246, §4115(a)(11)(A), substituted "program benefits in the form of" for "coupons in the form of".
 
-Pub. L. 110–246, §4002(a)(4)(B)(i), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Pub. L. 110–246, §4002(a)(4)(B)(i), substituted "supplemental nutrition assistance program benefits" for "food stamp benefits".
 
-Subsec. (k)(3). Pub. L. 110–246, §4002(a)(4)(B)(ii), substituted “retail store” for “food stamp retail store”.
+Subsec. (k)(3). Pub. L. 110–246, §4002(a)(4)(B)(ii), substituted "retail store" for "food stamp retail store".
 
-Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (k)(5)(B)(ii), (C). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Subsec. (k)(5)(B)(ii), (C). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program" wherever appearing.
 
-<b>2002</b>—Subsec. (i)(2). Pub. L. 107–171 redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which read as follows: “determining the cost-effectiveness of the system to ensure that its operational cost, including the pro rata cost of capital expenditures and other reasonable startup costs, does not exceed the operational cost of issuance systems in use prior to the implementation of the electronic benefit transfer system;”.
+<b>2002</b>—Subsec. (i)(2). Pub. L. 107–171 redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which read as follows: "determining the cost-effectiveness of the system to ensure that its operational cost, including the pro rata cost of capital expenditures and other reasonable startup costs, does not exceed the operational cost of issuance systems in use prior to the implementation of the electronic benefit transfer system;".
 
 <b>2000</b>—Subsec. (k). Pub. L. 106–171 added subsec. (k).
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–18, title VII, \[(a)(1)\], inserted “(except as provided in subsection (j) of this section)” after “necessary, and”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–18, title VII, \[(a)(1)\], inserted "(except as provided in subsection (j) of this section)" after "necessary, and".
 
 Subsec. (j). Pub. L. 105–18, title VII, \[(a)(2)\], added subsec. (j).
 
@@ -466,29 +466,29 @@ Subsec. (j). Pub. L. 105–18, title VII, \[(a)(2)\], added subsec. (j).
 
 Subsec. (i)(1). Pub. L. 104–193, §825(a)(1), added par. (1) and struck out former par. (1) which read as follows:
 
-“(1)(A) Any State agency may, with the approval of the Secretary, implement an on-line electronic benefit transfer system in which household benefits determined under section 2017(a) of this title are issued from and stored in a central data bank and electronically accessed by household members at the point-of-sale.
+"(1)(A) Any State agency may, with the approval of the Secretary, implement an on-line electronic benefit transfer system in which household benefits determined under section 2017(a) of this title are issued from and stored in a central data bank and electronically accessed by household members at the point-of-sale.
 
-“(B) No State agency may implement or expand an electronic benefit transfer system without prior approval from the Secretary.”
+"(B) No State agency may implement or expand an electronic benefit transfer system without prior approval from the Secretary."
 
-Subsec. (i)(2). Pub. L. 104–193, §825(a)(2)(A), struck out “effective no later than April 1, 1992,” after “regulations” in introductory provisions.
+Subsec. (i)(2). Pub. L. 104–193, §825(a)(2)(A), struck out "effective no later than April 1, 1992," after "regulations" in introductory provisions.
 
-Subsec. (i)(2)(A). Pub. L. 104–193, §825(a)(2)(B), struck out “, in any 1 year,” after “does not exceed” and “on-line” before “electronic benefit”.
+Subsec. (i)(2)(A). Pub. L. 104–193, §825(a)(2)(B), struck out ", in any 1 year," after "does not exceed" and "on-line" before "electronic benefit".
 
-Subsec. (i)(2)(D). Pub. L. 104–193, §825(a)(2)(C), added subpar. (D) and struck out former subpar. (D) which read as follows: “system security;”.
+Subsec. (i)(2)(D). Pub. L. 104–193, §825(a)(2)(C), added subpar. (D) and struck out former subpar. (D) which read as follows: "system security;".
 
 Subsec. (i)(2)(I). Pub. L. 104–193, §825(a)(2)(D)–(F), added subpar. (I).
 
 Subsec. (i)(7) to (11). Pub. L. 104–193, §825(a)(3), added pars. (7) to (11).
 
-<b>1994</b>—Subsec. (h)(1). Pub. L. 103–225 inserted second sentence and struck out former second sentence which read as follows: “The State agency shall establish such a procedure for eligible households residing on reservations.”
+<b>1994</b>—Subsec. (h)(1). Pub. L. 103–225 inserted second sentence and struck out former second sentence which read as follows: "The State agency shall establish such a procedure for eligible households residing on reservations."
 
-<b>1990</b>—Subsec. (h). Pub. L. 101–624, §1728, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “The State agency may implement a procedure for staggering the issuance of coupons to eligible households throughout the entire month: <i>Provided</i>, That the procedure ensures that, in the transition period from other issuance procedures, no eligible household experiences an interval between coupon issuances of more than 40 days, either through regular issuances by the State agency or through supplemental issuances.”
+<b>1990</b>—Subsec. (h). Pub. L. 101–624, §1728, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "The State agency may implement a procedure for staggering the issuance of coupons to eligible households throughout the entire month: <i>Provided</i>, That the procedure ensures that, in the transition period from other issuance procedures, no eligible household experiences an interval between coupon issuances of more than 40 days, either through regular issuances by the State agency or through supplemental issuances."
 
 Subsec. (i). Pub. L. 101–624, §1729(a), added subsec. (i).
 
-<b>1988</b>—Subsec. (h). Pub. L. 100–435 struck out par. (1) designation and par. (2) which read as follows: “For any eligible household that applies for participation in the food stamp program during the last fifteen days of a month and is issued benefits within that period, coupons shall be issued for the first full month of participation by the the \[sic\] eighth day of the first full month of participation.”
+<b>1988</b>—Subsec. (h). Pub. L. 100–435 struck out par. (1) designation and par. (2) which read as follows: "For any eligible household that applies for participation in the food stamp program during the last fifteen days of a month and is issued benefits within that period, coupons shall be issued for the first full month of participation by the the \[sic\] eighth day of the first full month of participation."
 
-<b>1985</b>—Subsec. (g)(1). Pub. L. 99–198, §1519, substituted “shall” for “may” in provisions preceding subpar. (A).
+<b>1985</b>—Subsec. (g)(1). Pub. L. 99–198, §1519, substituted "shall" for "may" in provisions preceding subpar. (A).
 
 Subsec. (h). Pub. L. 99–198, §1518, added subsec. (h).
 
@@ -496,23 +496,23 @@ Subsec. (h). Pub. L. 99–198, §1518, added subsec. (h).
 
 Subsec. (g). Pub. L. 97–253, §162, added subsec. (g).
 
-<b>1981</b>—Subsec. (f). Pub. L. 97–98 substituted “strictly liable” for “responsible” and inserted provision including any losses involving failure of a coupon issuer to comply with the requirements of section 2020(e)(21) of this title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
+<b>1981</b>—Subsec. (f). Pub. L. 97–98 substituted "strictly liable" for "responsible" and inserted provision including any losses involving failure of a coupon issuer to comply with the requirements of section 2020(e)(21) of this title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
 
 <b>1977</b>—Pub. L. 95–113 substituted revised provisions relating to issuance and use of coupons for provisions relating to value of the coupon allotment which are now covered by section 2017 of this title.
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–339 designated existing provisions as par. (1) and added pars. (2) to (7).
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–125 substituted “for households of a given size unless the increase in the face value” for “for value”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–125 substituted "for households of a given size unless the increase in the face value" for "for value".
 
 Pub. L. 93–86 substituted provisions relating to determination of semiannual adjustments in face value of coupon allotment for provisions relating to determination of annual adjustments in such allotment.
 
-<b>1971</b>—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes in prices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted “any” before “households”.
+<b>1971</b>—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes in prices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted "any" before "households".
 
-Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments withoutcharge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
+Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments without charge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
 
 #### Change of Name
 
-References to a “coupon”, “authorization card”, or other access device provided under the Food and Nutrition Act of 2008 considered to refer to a “benefit” under that Act, see section 4115(d) of Pub. L. 110–246, set out as a note under section 2012 of this title.
+References to a "coupon", "authorization card", or other access device provided under the Food and Nutrition Act of 2008 considered to refer to a "benefit" under that Act, see section 4115(d) of Pub. L. 110–246, set out as a note under section 2012 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -530,7 +530,7 @@ Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provi
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 1728 of Pub. L. 101–624 effective and implemented first day of month beginning 120 days after publication of implementing regulations to be promulgated not later than Oct. 1, 1991, and amendment by section 1729 of Pub. L. 101–624 effective Nov. 28, 1990, see section 1781(a), (b)(2) of Pub. L. 101–624, set out as a note under section 2012 of this title.
+Amendment by section 1728 of Pub. L. 101–624 effective and implemented first day of month beginning 120days after publication of implementing regulations to be promulgated not later than Oct. 1, 1991, and amendment by section 1729 of Pub. L. 101–624 effective Nov. 28, 1990, see section 1781(a), (b)(2) of Pub. L. 101–624, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -554,71 +554,71 @@ Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided tha
 
 Pub. L. 107–171, title IV, §4111, May 13, 2002, 116 Stat. 309, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(C), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
 
-“(a)
+"(a)
 
-Definition of EBT System.—In this section, the term ‘EBT system’ means an electronic benefit transfer system used in issuance of benefits under the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
+Definition of EBT System.—In this section, the term 'EBT system' means an electronic benefit transfer system used in issuance of benefits under the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
 
-“(b)
+"(b)
 
 Report.—Not later than October 1, 2003, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—
 
-&emsp;“(1) describes the status of use by each State agency of EBT systems;
+&emsp;"(1) describes the status of use by each State agency of EBT systems;
 
-&emsp;“(2) specifies the number of vendors that have entered into a contract for an EBT system with a State agency;
+&emsp;"(2) specifies the number of vendors that have entered into a contract for an EBT system with a State agency;
 
-&emsp;“(3)(A) specifies the number of State agencies that have entered into an EBT-system contract with multiple EBT-system vendors; and
+&emsp;"(3)(A) specifies the number of State agencies that have entered into an EBT-system contract with multiple EBT-system vendors; and
 
-&emsp;“(B) describes, for each State agency described in subparagraph (A), how responsibilities are divided among the various vendors;
+&emsp;"(B) describes, for each State agency described in subparagraph (A), how responsibilities are divided among the various vendors;
 
-&emsp;“(4) with respect to any State in which an EBT system is not operational throughout the State as of October 1, 2002—
+&emsp;"(4) with respect to any State in which an EBT system is not operational throughout the State as of October 1, 2002—
 
-&emsp;&emsp;“(A) provides an explanation of the reasons why an EBT system is not operational throughout the State;
+&emsp;&emsp;"(A) provides an explanation of the reasons why an EBT system is not operational throughout the State;
 
-&emsp;&emsp;“(B) describes how the reasons are being addressed; and
+&emsp;&emsp;"(B) describes how the reasons are being addressed; and
 
-&emsp;&emsp;“(C) specifies the expected date of operation of an EBT system throughout the State;
+&emsp;&emsp;"(C) specifies the expected date of operation of an EBT system throughout the State;
 
-&emsp;“(5) provides a description of—
+&emsp;"(5) provides a description of—
 
-&emsp;&emsp;“(A) the issues faced by any State agency that has awarded a second EBT-system contract in the 2-year period preceding the date of the report; and
+&emsp;&emsp;"(A) the issues faced by any State agency that has awarded a second EBT-system contract in the 2-year period preceding the date of the report; and
 
-&emsp;&emsp;“(B) the steps that the State agency has taken to address those issues;
+&emsp;&emsp;"(B) the steps that the State agency has taken to address those issues;
 
-&emsp;“(6) provides a description of—
+&emsp;"(6) provides a description of—
 
-&emsp;&emsp;“(A) the issues faced by any State agency that will award a second EBT-system contract within the 2-year period beginning on the date of the report; and
+&emsp;&emsp;"(A) the issues faced by any State agency that will award a second EBT-system contract within the 2-year period beginning on the date of the report; and
 
-&emsp;&emsp;“(B) strategies that the State agency is considering to address those issues;
+&emsp;&emsp;"(B) strategies that the State agency is considering to address those issues;
 
-&emsp;“(7) describes initiatives being considered or taken by the Department of Agriculture, food retailers, EBT-system vendors, and client advocates to address any outstanding issues with respect to EBT systems; and
+&emsp;"(7) describes initiatives being considered or taken by the Department of Agriculture, food retailers, EBT-system vendors, and client advocates to address any outstanding issues with respect to EBT systems; and
 
-&emsp;“(8) examines areas of potential advances in electronic benefit delivery in the 5- to 10-year period beginning on the date of the report, including—
+&emsp;"(8) examines areas of potential advances in electronic benefit delivery in the 5- to 10-year period beginning on the date of the report, including—
 
-&emsp;&emsp;“(A) access to EBT systems at farmers’ markets;
+&emsp;&emsp;"(A) access to EBT systems at farmers' markets;
 
-&emsp;&emsp;“(B) increased use of transaction data from EBT systems to identify and prosecute fraud; and
+&emsp;&emsp;"(B) increased use of transaction data from EBT systems to identify and prosecute fraud; and
 
-&emsp;&emsp;“(C) fostering of increased competition among EBT-system vendors to ensure cost containment and optimal service.”
+&emsp;&emsp;"(C) fostering of increased competition among EBT-system vendors to ensure cost containment and optimal service."
 
 #### Congressional Statement of Purpose
 
-Pub. L. 106–171, §2, Feb. 11, 2000, 114 Stat. 3, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (D), (2)(F), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: “The purposes of this Act \[amending this section and enacting provisions set out as notes under this section and section 2011 of this title\] are—
+Pub. L. 106–171, §2, Feb. 11, 2000, 114 Stat. 3, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (D), (2)(F), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: "The purposes of this Act \[amending this section and enacting provisions set out as notes under this section and section 2011 of this title\] are—
 
-&emsp;“(1) to protect the integrity of the supplemental nutrition assistance program;
+&emsp;"(1) to protect the integrity of the supplemental nutrition assistance program;
 
-&emsp;“(2) to ensure cost-effective portability of supplemental nutrition assistance program benefits benefits \[sic\] across State borders without imposing additional administrative expenses for special equipment to address problems relating to the portability;
+&emsp;"(2) to ensure cost-effective portability of supplemental nutrition assistance program benefits benefits \[sic\] across State borders without imposing additional administrative expenses for special equipment to address problems relating to the portability;
 
-&emsp;“(3) to enhance the flow of interstate commerce involving electronic transactions involving supplemental nutrition assistance program benefits benefits \[sic\] under a uniform national standard of interoperability and portability; and
+&emsp;"(3) to enhance the flow of interstate commerce involving electronic transactions involving supplemental nutrition assistance program benefits benefits \[sic\] under a uniform national standard of interoperability and portability; and
 
-&emsp;“(4) to eliminate the inefficiencies resulting from a patchwork of State-administered systems and regulations established to carry out the supplemental nutrition assistance program.”
+&emsp;"(4) to eliminate the inefficiencies resulting from a patchwork of State-administered systems and regulations established to carry out the supplemental nutrition assistance program."
 
 #### Study of Alternatives for Handling Electronic Benefit Transactions Involving Food Stamp Benefits
 
-Pub. L. 106–171, §4, Feb. 11, 2000, 114 Stat. 6, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (D), (2)(F), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: “Not later than 1 year after the date of enactment of this Act \[Feb. 11, 2000\], the Secretary of Agriculture shall study and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on alternatives for handling interstate electronic benefit transactions involving supplemental nutrition assistance program benefits benefits \[sic\] provided under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), including the feasibility and desirability of a single hub for switching (as defined in section 7(k)(1) \[now 7(j)(1)\] of that Act \[7 U.S.C. 2016(j)(1)\] (as added by section 3)).”
+Pub. L. 106–171, §4, Feb. 11, 2000, 114 Stat. 6, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (D), (2)(F), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: "Not later than 1 year after the date of enactment of this Act \[Feb. 11, 2000\], the Secretary of Agriculture shall study and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on alternatives for handling interstate electronic benefit transactions involving supplemental nutrition assistance program benefits benefits \[sic\] provided under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), including the feasibility and desirability of a single hub for switching (as defined in section 7(k)(1) \[now 7(j)(1)\] of that Act \[7 U.S.C. 2016(j)(1)\] (as added by section 3))."
 
 #### Suspension of Staggered Issuance of Food Stamp Coupons
 
-Pub. L. 102–237, title IX, §908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, §1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, §1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to implement 7 U.S.C. 2016(h)(1), regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no later than Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, §104(a), Mar. 25, 1994, 108 Stat. 107.
+Pub. L. 102–237, title IX, §908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, §1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, §1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to implement 7 U.S.C. 2016(h)(1), regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no laterthan Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, §104(a), Mar. 25, 1994, 108 Stat. 107.
 
 #### Food Stamp Coupons, Cost Increase Suspension
 

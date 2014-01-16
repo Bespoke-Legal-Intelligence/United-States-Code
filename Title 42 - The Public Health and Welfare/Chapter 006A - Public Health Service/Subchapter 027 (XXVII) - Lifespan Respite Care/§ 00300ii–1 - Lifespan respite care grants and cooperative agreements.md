@@ -76,7 +76,7 @@ When awarding grants or cooperative agreements under this section, the Secretary
 
 &emsp;(1) give priority to eligible State agencies that the Secretary determines show the greatest likelihood of implementing or enhancing lifespan respite care statewide; and
 
-&emsp;(2) give consideration to eligible State agencies that are building or enhancing the capacity of their long-term care systems to respond to the comprehensive needs, including respite care needs, of their residents.
+&emsp;(2) give consideration to eligible State agencies that are building or enhancing the capacity of their long-term care systems to respondto the comprehensive needs, including respite care needs, of their residents.
 
 #### (f) Use of grant or cooperative agreement funds
 
@@ -100,7 +100,7 @@ When awarding grants or cooperative agreements under this section, the Secretary
 
 &emsp;&emsp;Each eligible State agency awarded a grant or cooperative agreement under this section may use part of the funds for—
 
-&emsp;&emsp;&emsp;(i) training programs for family caregivers to assist such family caregivers inmaking informed decisions about respite care services;
+&emsp;&emsp;&emsp;(i) training programs for family caregivers to assist such family caregivers in making informed decisions about respite care services;
 
 &emsp;&emsp;&emsp;(ii) other services essential to the provision of respite care as the Secretary may specify; or
 

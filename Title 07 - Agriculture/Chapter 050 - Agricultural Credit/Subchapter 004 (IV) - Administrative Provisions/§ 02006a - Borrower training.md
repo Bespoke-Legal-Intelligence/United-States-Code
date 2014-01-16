@@ -46,15 +46,15 @@ A borrower shall pay for training received under this section, and may use funds
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsecs. (a) and (c), see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in subsecs. (a) and (c), see note set out under section 1921 of this title.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c)(1). Pub. L. 107–171, §5501(c), struck out “established pursuant to section 1982 of this title,” after “appropriate county committee”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–171, §5501(c), struck out "established pursuant to section 1982 of this title," after "appropriate county committee".
 
-Subsec. (f). Pub. L. 107–171, §5316, added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “The Secretary may waive the requirements of this section for an individual borrower on a determination by the county committee that the borrower demonstrates adequate knowledge in areas described in this section.”
+Subsec. (f). Pub. L. 107–171, §5316, added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: "The Secretary may waive the requirements of this section for an individual borrower on a determination by the county committee that the borrower demonstrates adequate knowledge in areas described in this section."
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(a) \[title VIII, §805(3)(A)\], struck out “and guaranteed” after “direct”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(a) \[title VIII, §805(3)(A)\], struck out "and guaranteed" after "direct".
 
-Subsec. (c). Pub. L. 105–277, §101(a) \[title VIII, §805(3)(B)\], struck out “or guaranteed” after “direct” in pars. (1) and (2).
+Subsec. (c). Pub. L. 105–277, §101(a) \[title VIII, §805(3)(B)\], struck out "or guaranteed" after "direct" in pars. (1) and (2).
 

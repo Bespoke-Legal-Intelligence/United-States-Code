@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to be known as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm program barriers to resource stewardship practices and systems.
+The Secretary of Agriculture (hereafter in this section referred to as the "Secretary") shall, by regulation, establish a voluntary program, to be known as the "Integrated Farm Management Program Option" (hereafter referred to in this section as the "program"), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm program barriers to resource stewardship practices and systems.
 
 #### (b) Definitions
 
@@ -10,31 +10,31 @@ The Secretary of Agriculture (hereafter in this section referred to as the “Se
 
 &emsp;For purposes of this section—
 
-&emsp;&emsp;(A) The term “resource-conserving crop” means legumes, legume-grass mixtures, legume-small grain mixtures, legume-grass-small grain mixtures, and alternative crops.
+&emsp;&emsp;(A) The term "resource-conserving crop" means legumes, legume-grass mixtures, legume-small grain mixtures, legume-grass-small grain mixtures, and alternative crops.
 
-&emsp;&emsp;(B) The term “resource-conserving crop rotation” means a crop rotation that includes at least one resource-conserving crop and that reduces erosion, maintains or improves soil fertility and tilth, interrupts pest cycles, or conserves water.
+&emsp;&emsp;(B) The term "resource-conserving crop rotation" means a crop rotation that includes at least one resource-conserving crop and that reduces erosion, maintains or improves soil fertility and tilth, interrupts pest cycles, or conserves water.
 
-&emsp;&emsp;(C) The term “farming operations and practices” includes the integration of crops and crop-plant variety selection, rotation practices, tillage systems, soil conserving and soil building practices, nutrient management strategies, biological control and integrated pest management strategies, livestock production and management systems, animal waste management systems, water and energy conservation measures, and health and safety considerations.
+&emsp;&emsp;(C) The term "farming operations and practices" includes the integration of crops and crop-plant variety selection, rotation practices, tillage systems, soil conserving and soil building practices, nutrient management strategies, biological control and integrated pest management strategies, livestock production and management systems, animal waste management systems, water and energy conservation measures, and health and safety considerations.
 
-&emsp;&emsp;(D) The term “integrated farm management plan” means a comprehensive, multiyear, site-specific plan that meets the requirements of subsection (f) of this section.
+&emsp;&emsp;(D) The term "integrated farm management plan" means a comprehensive, multiyear, site-specific plan that meets the requirements of subsection (f) of this section.
 
 #### (2) Crops
 
 &emsp;For purposes of paragraph (1)(A)—
 
-&emsp;&emsp;(A) The term “grass” means perennial grasses commonly used for haying or grazing.
+&emsp;&emsp;(A) The term "grass" means perennial grasses commonly used for haying or grazing.
 
-&emsp;&emsp;(B) The term “legume” means forage legumes (such as alfalfa or clover) or any legume grown for use as a forage or green manure, but not including any bean crop from which the seeds are harvested.
+&emsp;&emsp;(B) The term "legume" means forage legumes (such as alfalfa or clover) or any legume grown for use as a forage or green manure, but not including any bean crop from which the seeds are harvested.
 
-&emsp;&emsp;(C) The term “small grain” shall not include malting barley or wheat, except for wheat interplanted with other small grain crops for nonhuman consumption.
+&emsp;&emsp;(C) The term "small grain" shall not include malting barley or wheat, except for wheat interplanted with other small grain crops for nonhuman consumption.
 
-&emsp;&emsp;(D) The term “alternative crops” means experimental and industrial crops grown in arid and semiarid regions that conserve soil and water.
+&emsp;&emsp;(D) The term "alternative crops" means experimental and industrial crops grown in arid and semiarid regions that conserve soil and water.
 
 #### (c) Eligibility
 
 To be eligible to participate in the program established by this section, a producer must—
 
-&emsp;(1) prepare and submit to the Secretary for approval an integrated farm management plan (hereafter referred to in this section as the “plan”);
+&emsp;(1) prepare and submit to the Secretary for approval an integrated farm management plan (hereafter referred to in this section as the "plan");
 
 &emsp;(2) actively apply the terms and conditions of the plan, as approved by the Secretary;
 
@@ -154,15 +154,15 @@ Each plan approved by the Secretary shall—
 
 &emsp;&emsp;No producers enrolled in a resource-conserving crop rotation shall be eligible to receive payments under farm programs for wheat, feed grains, cotton, or rice under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\] on acreage equal to the average number of traditionally underplanted acres for the three years prior to enrolling in this program.
 
-#### (B) “Traditionally underplanted acreage” defined
+#### (B) "Traditionally underplanted acreage" defined
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), for the purposes of this paragraph the term “traditionally underplanted acreage” means the difference in a particular year between the acreage that is part of a producer's crop acreage base that is not planted to the program crop and the part of the crop acreage base subject to an acreage limitation program or required to be set aside, but only to the extent that such number exceeds the number of acres resulting from the reduction in payment acres under an amendment made by section 1101 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508; 104 Stat. 1388–1). In no case shall such acreage be less than zero.
+&emsp;&emsp;&emsp;Subject to clause (ii), for the purposes of this paragraph the term "traditionally underplanted acreage" means the difference in a particular year between the acreage that is part of a producer's crop acreage base that is not planted to the program crop and the part of the crop acreage base subject to an acreage limitation program or required to be set aside, but only to the extent that such number exceeds the number of acres resulting from the reduction in payment acres under an amendment made by section 1101 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508; 104 Stat. 1388–1). In no case shall such acreage be less than zero.
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;In the case of a producer participating in a particular year in a program authorized under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E) <sup>1</sup> of the Agricultural Act of 1949, the term “traditionally underplanted acreage” means 8 percent of the producer's permitted acreage for such year.
+&emsp;&emsp;&emsp;In the case of a producer participating in a particular year in a program authorized under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E) <sup>1</sup> of the Agricultural Act of 1949, the term "traditionally underplanted acreage" means 8 percent of the producer's permitted acreage for such year.
 
 (Pub. L. 101–624, title XIV, §1451, Nov. 28, 1990, 104 Stat. 3607; Pub. L. 101–508, title I, §1204(a), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title II, §201(a), Dec. 13, 1991, 105 Stat. 1846.)
 
@@ -180,19 +180,19 @@ Section was not enacted as part of subtitle B of title XVI of Pub. L. 101–624 
 
 #### Amendments
 
-<b>1991</b>—Subsec. (b)(1)(D). Pub. L. 102–237, §201(a)(1), substituted “subsection (f)” for “subsection (e)”.
+<b>1991</b>—Subsec. (b)(1)(D). Pub. L. 102–237, §201(a)(1), substituted "subsection (f)" for "subsection (e)".
 
-Subsec. (d). Pub. L. 102–237, §201(a)(2), inserted “each of” before “the calendar”.
+Subsec. (d). Pub. L. 102–237, §201(a)(2), inserted "each of" before "the calendar".
 
-Subsec. (f)(5). Pub. L. 102–237, §201(a)(3), substituted “assist” for “assisting”.
+Subsec. (f)(5). Pub. L. 102–237, §201(a)(3), substituted "assist" for "assisting".
 
-Subsec. (h)(7)(B)(i). Pub. L. 102–237, §201(a)(4)(A), inserted before period at end of first sentence “, but only to the extent that such number exceeds the number of acres resulting from the reduction in payment acres under an amendment made by section 1101 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508; 104 Stat. 1388–1)”.
+Subsec. (h)(7)(B)(i). Pub. L. 102–237, §201(a)(4)(A), inserted before period at end of first sentence ", but only to the extent that such number exceeds the number of acres resulting from the reduction in payment acres under an amendment made by section 1101 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508; 104 Stat. 1388–1)".
 
-Subsec. (h)(7)(B)(ii). Pub. L. 102–237, §201(a)(4)(B), substituted “under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E)” for “under section 101B(c)(1)(B), section 103B(c)(1)(B), section 105A(c)(1)(B), or section 107A(c)(1)(B)”.
+Subsec. (h)(7)(B)(ii). Pub. L. 102–237, §201(a)(4)(B), substituted "under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E)" for "under section 101B(c)(1)(B), section 103B(c)(1)(B), section 105A(c)(1)(B), or section 107A(c)(1)(B)".
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–508, §1204(a)(1), substituted “enroll not less than” for “enroll not more than”.
+<b>1990</b>—Subsec. (d). Pub. L. 101–508, §1204(a)(1), substituted "enroll not less than" for "enroll not more than".
 
-Subsec. (h)(7)(A). Pub. L. 101–508, §1204(a)(2), substituted “shall be eligible” for “shall not be eligible”.
+Subsec. (h)(7)(A). Pub. L. 101–508, §1204(a)(2), substituted "shall be eligible" for "shall not be eligible".
 
 #### Effective Date of 1991 Amendment
 

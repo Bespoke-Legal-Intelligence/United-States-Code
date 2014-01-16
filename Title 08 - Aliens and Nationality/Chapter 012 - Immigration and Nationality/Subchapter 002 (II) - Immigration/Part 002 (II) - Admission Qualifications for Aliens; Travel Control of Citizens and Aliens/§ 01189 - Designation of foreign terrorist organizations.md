@@ -134,7 +134,7 @@
 
 #### (2) Procedure
 
-&emsp;Amendments made to a designation in accordance with paragraph (1) shall be effective upon publication in the Federal Register. Subparagraphs (B) and (C) of subsection (a)(2) of this section shall apply to an amended designation upon such publication. Paragraphs (2)(A)(i), (4), (5), (6), (7), and (8) of subsection (a) of this section shall also apply to an amended designation.
+&emsp;Amendments made to a designation in accordance with paragraph (1) shall be effectiveupon publication in the Federal Register. Subparagraphs (B) and (C) of subsection (a)(2) of this section shall apply to an amended designation upon such publication. Paragraphs (2)(A)(i), (4), (5), (6), (7), and (8) of subsection (a) of this section shall also apply to an amended designation.
 
 #### (3) Administrative record
 

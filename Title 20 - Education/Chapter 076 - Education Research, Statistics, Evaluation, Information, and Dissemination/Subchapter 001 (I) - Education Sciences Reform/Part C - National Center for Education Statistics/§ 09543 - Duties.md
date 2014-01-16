@@ -2,7 +2,7 @@
 
 #### (a) General duties
 
-The Statistics Center shall collect, report, analyze, and disseminate statistical data relatedto education in the United States and in other nations, including—
+The Statistics Center shall collect, report, analyze, and disseminate statistical data related to education in the United States and in other nations, including—
 
 &emsp;(1) collecting, acquiring, compiling (where appropriate, on a State-by-State basis), and disseminating full and complete statistics (disaggregated by the population characteristics described in paragraph (3)) on the condition and progress of education, at the preschool, elementary, secondary, postsecondary, and adult levels in the United States, including data on—
 
@@ -74,5 +74,5 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(5
 
 #### Study by National Center for Education Statistics Respecting Condition of Education for Hispanic Americans
 
-Pub. L. 98–211, §24(b), Dec. 8, 1983, 97 Stat. 1419, provided that: “The National Center for Education Statistics shall not terminate the study of the condition of education for Hispanic Americans unless specifically required or authorized to do so by law.”
+Pub. L. 98–211, §24(b), Dec. 8, 1983, 97 Stat. 1419, provided that: "The National Center for Education Statistics shall not terminate the study of the condition of education for Hispanic Americans unless specifically required or authorized to do so by law."
 

@@ -14,7 +14,7 @@ For purposes of subsection (a)—
 
 #### (1) Major outlay categories
 
-&emsp;The term “major outlay categories” means the following:
+&emsp;The term "major outlay categories" means the following:
 
 &emsp;&emsp;(A) Defense, veterans, and foreign affairs.
 
@@ -30,7 +30,7 @@ For purposes of subsection (a)—
 
 #### (2) Major income categories
 
-&emsp;The term “major income categories” means the following:
+&emsp;The term "major income categories" means the following:
 
 &emsp;&emsp;(A) Social security, medicare, and unemployment and other retirement taxes.
 
@@ -50,7 +50,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(B) A footnote to the category referred to in paragraph (1)(C) showing that such category consists of agriculture, natural resources, environment, transportation, education, job training, economic development, space, energy, and general science.
 
-&emsp;&emsp;(C) A footnote to the category referred to in paragraph (1)(D) showing the percentage of the total outlays which is for medicaid, supplemental nutrition assistance program benefits, and assistance under a State program funded under part A of title IV of theSocial Security Act and the percentage of total outlays which is for public health, unemployment, assisted housing, and social services.
+&emsp;&emsp;(C) A footnote to the category referred to in paragraph (1)(D) showing the percentage of the total outlays which is for medicaid, supplemental nutrition assistance program benefits, and assistance under a State program funded under part A of title IV of the Social Security Act and the percentage of total outlays which is for public health, unemployment, assisted housing, and social services.
 
 #### (4) Data on which graphs are based
 
@@ -68,9 +68,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(3)(C). Pub. L. 110–246, §4002(b)(1)(E), (2)(O), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+<b>2008</b>—Subsec. (b)(3)(C). Pub. L. 110–246, §4002(b)(1)(E), (2)(O), substituted "supplemental nutrition assistance program benefits" for "food stamps".
 
-<b>1996</b>—Subsec. (b)(3)(C). Pub. L. 104–193, §110(l)(4), formerly §110(l)(8), as renumbered by Pub. L. 105–33, substituted “assistance under a State program funded under part A of title IV of the Social Security Act” for “aid to families with dependent children”.
+<b>1996</b>—Subsec. (b)(3)(C). Pub. L. 104–193, §110(l)(4), formerly §110(l)(8), as renumbered by Pub. L. 105–33, substituted "assistance under a State program funded under part A of title IV of the Social Security Act" for "aid to families with dependent children".
 
 #### Effective Date of 2008 Amendment
 
@@ -84,5 +84,5 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date
 
-Pub. L. 101–508, title XI, §11622(c), Nov. 5, 1990, 104 Stat. 1388–505, provided that: “The amendments made by this section \[enacting this section\] shall apply to instructions prepared for taxable years beginning after 1990.”
+Pub. L. 101–508, title XI, §11622(c), Nov. 5, 1990, 104 Stat. 1388–505, provided that: "The amendments made by this section \[enacting this section\] shall apply to instructions prepared for taxable years beginning after 1990."
 

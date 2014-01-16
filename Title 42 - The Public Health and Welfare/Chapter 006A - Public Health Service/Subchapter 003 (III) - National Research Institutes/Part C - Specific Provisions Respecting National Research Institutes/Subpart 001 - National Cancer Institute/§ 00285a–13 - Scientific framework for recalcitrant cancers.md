@@ -120,9 +120,9 @@ The Director of the Institute shall consider each relevant scientific framework 
 
 #### (f) Definition
 
-In this section, the term “recalcitrant cancer” means a cancer for which the five-year relative survival rate is below 50 percent.
+In this section, the term "recalcitrant cancer" means a cancer for which the five-year relative survival rate is below 50 percent.
 
 (July 1, 1944, ch. 373, title IV, §417G, as added Pub. L. 112–239, div. A, title X, §1083, Jan. 2, 2013, 126 Stat. 1960.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “publicly”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "publicly".</i>
 

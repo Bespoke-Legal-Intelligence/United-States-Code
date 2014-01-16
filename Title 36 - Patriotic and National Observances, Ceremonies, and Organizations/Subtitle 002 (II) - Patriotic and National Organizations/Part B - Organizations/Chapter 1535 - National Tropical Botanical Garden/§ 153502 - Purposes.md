@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 Aug. 19, 1964, Pub. L. 88–449, §3, 78 Stat. 496.
 
-Before clause (1), the words “objects” is omitted as unnecessary.
+Before clause (1), the words "objects" is omitted as unnecessary.
 

@@ -50,9 +50,9 @@ Oct. 30, 1984, Pub. L. 98–575, §5(a)(2), 98 Stat. 3057; Nov. 16, 1990, Pub. L
 
 49 App.:2619(c).
 
-In subsections (a) and (b), the words “including the issuance or transfer of each license” and “be responsible for” are omitted as surplus.
+In subsections (a) and (b), the words "including the issuance or transfer of each license" and "be responsible for" are omitted as surplus.
 
-In subsection (c), before clause (1), the words “the head of” and “executive” are added for consistency in the revised title and with other titles of the United States Code. In clause (2), the words “and equitable” in 49 App.:2604(a)(2) are omitted as surplus.
+In subsection (c), before clause (1), the words "the head of" and "executive" are added for consistency in the revised title and with other titles of the United States Code. In clause (2), the words "and equitable" in 49 App.:2604(a)(2) are omitted as surplus.
 
 #### Amendments
 

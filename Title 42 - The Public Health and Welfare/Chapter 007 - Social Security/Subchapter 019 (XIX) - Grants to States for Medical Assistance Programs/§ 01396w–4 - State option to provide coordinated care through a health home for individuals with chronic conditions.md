@@ -70,7 +70,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term “eligible individual with chronic conditions” means an individual who—
+&emsp;&emsp;Subject to subparagraph (B), the term "eligible individual with chronic conditions" means an individual who—
 
 &emsp;&emsp;&emsp;(i) is eligible for medical assistance under the State plan or under a waiver of such plan; and
 
@@ -88,7 +88,7 @@ In this section:
 
 #### (2) Chronic condition
 
-&emsp;The term “chronic condition” has the meaning given that term by the Secretary and shall include, but is not limited to, the following:
+&emsp;The term "chronic condition" has the meaning given that term by the Secretary and shall include, but is not limited to, the following:
 
 &emsp;&emsp;(A) A mental health condition.
 
@@ -104,13 +104,13 @@ In this section:
 
 #### (3) Health home
 
-&emsp;The term “health home” means a designated provider (including a provider that operates in coordination with a team of health care professionals) or a health team selected by an eligible individual with chronic conditions to provide health home services.
+&emsp;The term "health home" means a designated provider (including a provider that operates in coordination with a team of health care professionals) or a health team selected by an eligible individual with chronic conditions to provide health home services.
 
 #### (4) Health home services
 
 #### (A) In general
 
-&emsp;&emsp;The term “health home services” means comprehensive and timely high-quality services described in subparagraph (B) that are provided by a designated provider, a team of health care professionals operating with such a provider, or a health team.
+&emsp;&emsp;The term "health home services" means comprehensive and timely high-quality services described in subparagraph (B) that are provided by a designated provider, a team of health care professionals operating with such a provider, or a health team.
 
 #### (B) Services described
 
@@ -130,7 +130,7 @@ In this section:
 
 #### (5) Designated provider
 
-&emsp;The term “designated provider” means a physician, clinical practice or clinical group practice, rural clinic, community health center, community mental health center, home health agency, or any other entity or provider (including pediatricians, gynecologists, and obstetricians) that is determined by the State and approved by the Secretary to be qualified to be a health home for eligible individuals with chronic conditions on the basis of documentation evidencing that the physician, practice, or clinic—
+&emsp;The term "designated provider" means a physician, clinical practice or clinical group practice, rural clinic, community health center, community mental health center, home health agency, or any other entity or provider (including pediatricians, gynecologists, and obstetricians) that is determined by the State and approved by the Secretary to be qualified to be a health home for eligible individuals with chronic conditions on the basis of documentation evidencing that the physician, practice, or clinic—
 
 &emsp;&emsp;(A) has the systems and infrastructure in place to provide health home services; and
 
@@ -138,7 +138,7 @@ In this section:
 
 #### (6) Team of health care professionals
 
-&emsp;The term “team of health care professionals” means a team of health professionals (as described in the State plan amendment) that may—
+&emsp;The term "team of health care professionals" means a team of health professionals (as described in the State plan amendment) that may—
 
 &emsp;&emsp;(A) include physicians and other professionals, such as a nurse care coordinator, nutritionist, social worker, behavioral health professional, or any professionals deemed appropriate by the State; and
 
@@ -146,7 +146,7 @@ In this section:
 
 #### (7) Health team
 
-&emsp;The term “health team” has the meaning given such term for purposes of section 256a–1 of this title.
+&emsp;The term "health team" has the meaning given such term for purposes of section 256a–1 of this title.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1945, as added Pub. L. 111–148, title II, §2703(a), Mar. 23, 2010, 124 Stat. 319.)
 
@@ -158,25 +158,25 @@ Section 5001 of Public Law 111–5, referred to in subsec. (c)(3)(B), is set out
 
 Pub. L. 111–148, title II, §2703(b)(2), Mar. 23, 2010, 124 Stat. 322, provided that:
 
-“(A)
+"(A)
 
 In general.—Not later than January 1, 2014, the Secretary of Health and Human Services shall survey States that have elected the option under section 1945 of the Social Security Act \[42 U.S.C. 1396w–4\] (as added by subsection (a)) and report to Congress on the nature, extent, and use of such option, particularly as it pertains to—
 
-&emsp;“(i) hospital admission rates;
+&emsp;"(i) hospital admission rates;
 
-&emsp;“(ii) chronic disease management;
+&emsp;"(ii) chronic disease management;
 
-&emsp;“(iii) coordination of care for individuals with chronic conditions;
+&emsp;"(iii) coordination of care for individuals with chronic conditions;
 
-&emsp;“(iv) assessment of program implementation;
+&emsp;"(iv) assessment of program implementation;
 
-&emsp;“(v) processes and lessons learned (as described in subparagraph (B));
+&emsp;"(v) processes and lessons learned (as described in subparagraph (B));
 
-&emsp;“(vi) assessment of quality improvements and clinical outcomes under such option; and
+&emsp;"(vi) assessment of quality improvements and clinical outcomes under such option; and
 
-&emsp;“(vii) estimates of cost savings.
+&emsp;"(vii) estimates of cost savings.
 
-“(B)
+"(B)
 
-Implementation reporting.—A State that has elected the option under section 1945 of the Social Security Act (as added by subsection (a)) shall report to the Secretary, as necessary, on processes that have been developed and lessons learned regarding provision of coordinated care through a health home for Medicaid beneficiaries with chronic conditions under such option.”
+Implementation reporting.—A State that has elected the option under section 1945 of the Social Security Act (as added by subsection (a)) shall report to the Secretary, as necessary, on processes that have been developed and lessons learned regarding provision of coordinated care through a health home for Medicaid beneficiaries with chronic conditions under such option."
 

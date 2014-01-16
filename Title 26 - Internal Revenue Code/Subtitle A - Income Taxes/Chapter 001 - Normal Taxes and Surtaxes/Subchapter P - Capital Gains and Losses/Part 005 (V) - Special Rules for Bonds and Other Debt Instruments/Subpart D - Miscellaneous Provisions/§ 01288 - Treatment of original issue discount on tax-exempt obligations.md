@@ -14,11 +14,11 @@ For purposes of this section—
 
 #### (1) Original issue discount
 
-&emsp;The term “original issue discount” has the meaning given to such term by section 1273(a) without regard to paragraph (3) thereof. In applying section 483 or 1274, under regulations prescribed by the Secretary, appropriate adjustments shall be made to the applicable Federal rate to take into account the tax exemption for interest on the obligation.
+&emsp;The term "original issue discount" has the meaning given to such term by section 1273(a) without regard to paragraph (3) thereof. In applying section 483 or 1274, under regulations prescribed by the Secretary, appropriate adjustments shall be made to the applicable Federal rate to take into account the tax exemption for interest on the obligation.
 
 #### (2) Tax-exempt obligation
 
-&emsp;The term “tax-exempt obligation” has the meaning given to such term by section 1275(a)(3).
+&emsp;The term "tax-exempt obligation" has the meaning given to such term by section 1275(a)(3).
 
 #### (3) Short-term obligations
 
@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted “paragraph (7)” for “paragraph (6)” in pars. (1) and (2).
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted "paragraph (7)" for "paragraph (6)" in pars. (1) and (2).
 
 #### Effective Date of 1988 Amendment
 

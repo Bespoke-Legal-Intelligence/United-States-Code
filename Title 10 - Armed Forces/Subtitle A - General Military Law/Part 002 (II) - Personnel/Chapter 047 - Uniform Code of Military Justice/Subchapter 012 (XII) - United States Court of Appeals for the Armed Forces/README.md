@@ -13,7 +13,7 @@
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337, div. A, title IX, §924(c)(3)(A), Oct. 5, 1994, 108 Stat. 2831, substituted “UNITED STATES COURT OF APPEALS FOR THE ARMED FORCES” for “COURT OF MILITARY APPEALS” as subchapter heading.
+<b>1994</b>—Pub. L. 103–337, div. A, title IX, §924(c)(3)(A), Oct. 5, 1994, 108 Stat. 2831, substituted "UNITED STATES COURT OF APPEALS FOR THE ARMED FORCES" for "COURT OF MILITARY APPEALS" as subchapter heading.
 
 <b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1484(i)(2), Nov. 5, 1990, 104 Stat. 1718, redesignated subchapter XI as XII.
 

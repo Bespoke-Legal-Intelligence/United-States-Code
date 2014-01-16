@@ -24,9 +24,9 @@ Historical and Revision Notes
 
 Nov. 5, 1990, Pub. L. 101–508, §9307, 104 Stat. 1388–382.
 
-In this section, before clause (1), the words “Under no conditions” are omitted as surplus. In clause (2), the words “or collect” are omitted as surplus.
+In this section, before clause (1), the words "Under no conditions" are omitted as surplus. In clause (2), the words "or collect" are omitted as surplus.
 
 #### Amendments
 
-<b>2012</b>—Par. (2). Pub. L. 112–95 substituted “charge” for “fee”.
+<b>2012</b>—Par. (2). Pub. L. 112–95 substituted "charge" for "fee".
 

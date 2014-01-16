@@ -6,11 +6,11 @@ In this section, the following definitions shall apply:
 
 #### (1) Applicant
 
-&emsp;The term “applicant” means States, units of local government, Indian tribes, and tribal organizations that apply for a grant under this section.
+&emsp;The term "applicant" means States, units of local government, Indian tribes, and tribal organizations that apply for a grant under this section.
 
 #### (2) Collaboration program
 
-&emsp;The term “collaboration program” means a program to promote public safety by ensuring access to adequate mental health and other treatment services for mentally ill adults or juveniles that is overseen cooperatively by—
+&emsp;The term "collaboration program" means a program to promote public safety by ensuring access to adequate mental health and othertreatment services for mentally ill adults or juveniles that is overseen cooperatively by—
 
 &emsp;&emsp;(A) a criminal or juvenile justice agency or a mental health court; and
 
@@ -18,33 +18,33 @@ In this section, the following definitions shall apply:
 
 #### (3) Criminal or juvenile justice agency
 
-&emsp;The term “criminal or juvenile justice agency” means an agency of a State or local government or its contracted agency that is responsible for detection, arrest, enforcement, prosecution, defense, adjudication, incarceration, probation, or parole relating to the violation of the criminal laws of that State or local government.
+&emsp;The term "criminal or juvenile justice agency" means an agency of a State or local government or its contracted agency that is responsible for detection, arrest, enforcement, prosecution, defense, adjudication, incarceration, probation, or parole relating to the violation of the criminal laws of that State or local government.
 
 #### (4) Diversion and alternative prosecution and sentencing
 
 #### (A) In general
 
-&emsp;&emsp;The terms “diversion” and “alternative prosecution and sentencing” mean the appropriate use of effective mental health treatment alternatives to juvenile justice or criminal justice system institutional placements for preliminarily qualified offenders.
+&emsp;&emsp;The terms "diversion" and "alternative prosecution and sentencing" mean the appropriate use of effective mental health treatment alternatives to juvenile justice or criminal justice system institutional placements for preliminarily qualified offenders.
 
 #### (B) Appropriate use
 
-&emsp;&emsp;In this paragraph, the term “appropriate use” includes the discretion of the judge or supervising authority, the leveraging of graduated sanctions to encourage compliance with treatment, and law enforcement diversion, including crisis intervention teams.
+&emsp;&emsp;In this paragraph, the term "appropriate use" includes the discretion of the judge or supervising authority, the leveraging of graduated sanctions to encourage compliance with treatment, and law enforcement diversion, including crisis intervention teams.
 
 #### (C) Graduated sanctions
 
-&emsp;&emsp;In this paragraph, the term “graduated sanctions” means an accountability-based graduated series of sanctions (including incentives, treatments, and services) applicable to mentally ill offenders within both the juvenile and adult justice system to hold individuals accountable for their actions and to protect communities by providing appropriate sanctions for inducing law-abiding behavior and preventing subsequent involvement in the criminal justice system.
+&emsp;&emsp;In this paragraph, the term "graduated sanctions" means an accountability-based graduated series of sanctions (including incentives, treatments, and services) applicable to mentally ill offenders within both the juvenile and adult justice system to hold individuals accountable for their actions and to protect communities by providing appropriate sanctions for inducing law-abiding behavior and preventing subsequent involvement in the criminal justice system.
 
 #### (5) Mental health agency
 
-&emsp;The term “mental health agency” means an agency of a State or local government or its contracted agency that is responsible for mental health services or co-occurring mental health and substance abuse services.
+&emsp;The term "mental health agency" means an agency of a State or local government or its contracted agency that is responsible for mental health services or co-occurring mental health and substance abuse services.
 
 #### (6) Mental health court
 
-&emsp;The term “mental health court” means a judicial program that meets the requirements of subchapter XII–J of this chapter.
+&emsp;The term "mental health court" means a judicial program that meets the requirements of subchapter XII–J of this chapter.
 
 #### (7) Mental illness
 
-&emsp;The term “mental illness” means a diagnosable mental, behavioral, or emotional disorder—
+&emsp;The term "mental illness" means a diagnosable mental, behavioral, or emotional disorder—
 
 &emsp;&emsp;(A) of sufficient duration to meet diagnostic criteria within the most recent edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association; and
 
@@ -54,11 +54,11 @@ In this section, the following definitions shall apply:
 
 #### (8) Nonviolent offense
 
-&emsp;The term “nonviolent offense” means an offense that does not have as an element the use, attempted use, or threatened use of physical force against the person or property of another or is not a felony that by its nature involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
+&emsp;The term "nonviolent offense" means an offense that does not have as an element the use, attempted use, or threatened use of physical force against the person or property of another or is not a felony that by its nature involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
 
 #### (9) Preliminarily qualified offender
 
-&emsp;The term “preliminarily qualified offender” means an adult or juvenile accused of a nonviolent offense who—
+&emsp;The term "preliminarily qualified offender" means an adult or juvenile accused of a nonviolent offense who—
 
 &emsp;&emsp;(A)(i) previously or currently has been diagnosed by a qualified mental health professional as having a mental illness or co-occurring mental illness and substance abuse disorders; or
 
@@ -68,11 +68,11 @@ In this section, the following definitions shall apply:
 
 #### (10) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services.
 
 #### (11) Unit of local government
 
-&emsp;The term “unit of local government” means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, including a State court, local court, or a governmental agency located within a city, county, township, town, borough, parish, or village.
+&emsp;The term "unit of local government" means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, including a State court, local court, or a governmental agency located within a city, county, township, town, borough, parish, or village.
 
 #### (b) Planning and implementation grants
 
@@ -86,7 +86,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) mental health courts or other court-based programs for preliminarily qualified offenders;
 
-&emsp;&emsp;(B) programs that offer specialized training to the officers and employees of a criminal or juvenile justice agency and mental health personnel serving those with co-occurring mental illness and substance abuse problems in procedures for identifying the symptoms of preliminarily qualified offenders in order to respond appropriately to individuals with such illnesses;
+&emsp;&emsp;(B) programs that offer specialized training to the officers and employees of a criminal or juvenile justice agency and mental health personnel serving those with co-occurring mental illness and substance abuseproblems in procedures for identifying the symptoms of preliminarily qualified offenders in order to respond appropriately to individuals with such illnesses;
 
 &emsp;&emsp;(C) programs that support cooperative efforts by criminal and juvenile justice agencies and mental health agencies to promote public safety by offering mental health treatment services and, where appropriate, substance abuse treatment services for—
 
@@ -118,7 +118,7 @@ In this section, the following definitions shall apply:
 
 #### (C) Period of grant
 
-&emsp;&emsp;A planning grant shall be effective for a period of 1 year, beginning on the first day of the month in which the planning grant ismade. Applicants may not receive more than 1 such planning grant.
+&emsp;&emsp;A planning grant shall be effective for a period of 1 year, beginning on the first day of the month in which the planning grant is made. Applicants may not receive more than 1 such planning grant.
 
 #### (D) Amount
 
@@ -196,7 +196,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) explain the applicant's inability to fund the collaboration program adequately without Federal assistance;
 
-&emsp;&emsp;&emsp;(ii) specify how the Federal support provided will be used to supplement, and not supplant, State, local, Indian tribe, or tribal organization sources of funding thatwould otherwise be available, including billing third-party resources for services already covered under programs (such as Medicaid, Medicare, and the State Children's Insurance Program); and
+&emsp;&emsp;&emsp;(ii) specify how the Federal support provided will be used to supplement, and not supplant, State, local, Indian tribe, or tribal organization sources of funding that would otherwise be available, including billing third-party resources for services already covered under programs (such as Medicaid, Medicare, and the State Children's Insurance Program); and
 
 &emsp;&emsp;&emsp;(iii) outline plans for obtaining necessary support and continuing the proposed collaboration program following the conclusion of Federal support.
 
@@ -232,7 +232,7 @@ In this section, the following definitions shall apply:
 
 #### (iii) Service delivery
 
-&emsp;&emsp;&emsp;Funds may be used to create or expand programs that promote public safety by providing the services described in subparagraph (C)(ii) to preliminarily qualified offenders.
+&emsp;&emsp;&emsp;Funds may be used to create or expand programs that promote public safety byproviding the services described in subparagraph (C)(ii) to preliminarily qualified offenders.
 
 #### (iv) In-jail and transitional services
 
@@ -278,7 +278,7 @@ The Attorney General, in awarding funds under this section, shall give priority 
 
 #### (e) Federal use of funds
 
-The Attorney General, in consultation with the Secretary, in administering grants underthis section, may use up to 3 percent of funds appropriated to—
+The Attorney General, in consultation with the Secretary, in administering grants under this section, may use up to 3 percent of funds appropriated to—
 
 &emsp;(1) research the use of alternatives to prosecution through pretrial diversion in appropriate cases involving individuals with mental illness;
 
@@ -370,67 +370,67 @@ The Mentally Ill Offender Treatment and Crime Reduction Act of 2004, referred to
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–416, §3(c), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
-“The Attorney General, in awarding funds under this section, shall give priority to applications that—
+"The Attorney General, in awarding funds under this section, shall give priority to applications that—
 
-&emsp;“(1) demonstrate the strongest commitment to ensuring that such funds are used to promote both public health and public safety;
+&emsp;"(1) demonstrate the strongest commitment to ensuring that such funds are used to promote both public health and public safety;
 
-&emsp;“(2) demonstrate the active participation of each co-applicant in the administration of the collaboration program;
+&emsp;"(2) demonstrate the active participation of each co-applicant in the administration of the collaboration program;
 
-&emsp;“(3) document, in the case of an application for a grant to be used in whole or in part to fund treatment services for adults or juveniles during periods of incarceration or detention, that treatment programs will be available to provide transition and re-entry services for such individuals; and
+&emsp;"(3) document, in the case of an application for a grant to be used in whole or in part to fund treatment services for adults or juveniles during periods of incarceration or detention, that treatment programs will be available to provide transition and re-entry services for such individuals; and
 
-&emsp;“(4) have the support of both the Attorney General and the Secretary.”
+&emsp;"(4) have the support of both the Attorney General and the Secretary."
 
 Subsec. (h). Pub. L. 110–416, §4(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
 Pub. L. 110–416, §3(b), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, and added par. (2).
 
-Pub. L. 110–416, §3(a), substituted “for each of the fiscal years 2006 and 2007; and” for “for fiscal years 2006 through 2009.” in par. (2) and added par. (3).
+Pub. L. 110–416, §3(a), substituted "for each of the fiscal years 2006 and 2007; and" for "for fiscal years 2006 through 2009." in par. (2) and added par. (3).
 
 Subsec. (i). Pub. L. 110–416, §4(1), redesignated subsec. (h) as (i).
 
 #### Findings
 
-Pub. L. 110–416, §2, Oct. 14, 2008, 122 Stat. 4352, provided that: “Congress finds the following:
+Pub. L. 110–416, §2, Oct. 14, 2008, 122 Stat. 4352, provided that: "Congress finds the following:
 
-&emsp;“(1) Communities nationwide are struggling to respond to the high numbers of people with mental illnesses involved at all points in the criminal justice system.
+&emsp;"(1) Communities nationwide are struggling to respond to the high numbers of people with mental illnesses involved at all points in the criminal justice system.
 
-&emsp;“(2) A 1999 study by the Department of Justice estimated that 16 percent of people incarcerated in prisons and jails in the United States, which is more than 300,000 people, suffer from mental illnesses.
+&emsp;"(2) A 1999 study by the Department of Justice estimated that 16 percent of people incarcerated in prisons and jails in the United States, which is more than 300,000 people, suffer from mental illnesses.
 
-&emsp;“(3) Los Angeles County Jail and New York's Rikers Island jail complex hold more people with mental illnesses than the largest psychiatric inpatient facilities in the United States.
+&emsp;"(3) Los Angeles County Jail and New York's Rikers Island jail complex hold more people with mental illnesses than the largest psychiatric inpatient facilities in the United States.
 
-&emsp;“(4) State prisoners with a mental health problem are twice as likely as those without a mental health problem to have been homeless in the year before their arrest.”
+&emsp;"(4) State prisoners with a mental health problem are twice as likely as those without a mental health problem to have been homeless in the year before their arrest."
 
-Pub. L. 108–414, §2, Oct. 30, 2004, 118 Stat. 2327, provided that: “Congress finds the following:
+Pub. L. 108–414, §2, Oct. 30, 2004, 118 Stat. 2327, provided that: "Congress finds the following:
 
-&emsp;“(1) According to the Bureau of Justice Statistics, over 16 percent of adults incarcerated in United States jails and prisons have a mental illness.
+&emsp;"(1) According to the Bureau of Justice Statistics, over 16 percent of adults incarcerated in United States jails and prisons have a mental illness.
 
-&emsp;“(2) According to the Office of Juvenile Justice and Delinquency Prevention, approximately 20 percent of youth in the juvenile justice system have serious mental health problems, and a significant number have co-occurring mental health and substance abuse disorders.
+&emsp;"(2) According to the Office of Juvenile Justice and Delinquency Prevention, approximately 20 percent of youth in the juvenile justice system have serious mental health problems, and a significant number have co-occurring mental health and substance abuse disorders.
 
-&emsp;“(3) According to the National Alliance for the Mentally Ill, up to 40 percent of adults who suffer from a serious mental illness will come into contact with the American criminal justice system at some point in their lives.
+&emsp;"(3) According to the National Alliance for the Mentally Ill, up to 40 percent of adults who suffer from a serious mental illness will come into contact with the American criminal justice system at some point in their lives.
 
-&emsp;“(4) According to the Office of Juvenile Justice and Delinquency Prevention, over 150,000 juveniles who come into contact with the juvenile justice system each year meet the diagnostic criteria for at least 1 mental or emotional disorder.
+&emsp;"(4) According to the Office of Juvenile Justice and Delinquency Prevention, over 150,000 juveniles who come into contact with the juvenile justice system each year meet the diagnostic criteria for at least 1 mental or emotional disorder.
 
-&emsp;“(5) A significant proportion of adults with a serious mental illness who are involved with the criminal justice system are homeless or at imminent risk of homelessness, and many of these individuals are arrested and jailed for minor, nonviolent offenses.
+&emsp;"(5) A significant proportion of adults with a serious mental illness who are involved with the criminal justice system are homeless or at imminent risk of homelessness, and many of these individuals are arrested and jailed for minor, nonviolent offenses.
 
-&emsp;“(6) The majority of individuals with a mental illness or emotional disorder who are involved in the criminal or juvenile justice systems are responsive to medical and psychological interventions that integrate treatment, rehabilitation, and support services.
+&emsp;"(6) The majority of individuals with a mental illness or emotional disorder who are involved in the criminal or juvenile justice systems are responsive to medical and psychological interventions that integrate treatment, rehabilitation, and support services.
 
-&emsp;“(7) Collaborative programs between mental health, substance abuse, and criminal or juvenile justice systems that ensure the provision of services for those with mental illness or co-occurring mental illness and substance abuse disorders can reduce the number of such individuals in adult and juvenile corrections facilities, while providing improved public safety.”
+&emsp;"(7) Collaborative programs between mental health, substance abuse, and criminal or juvenile justice systems that ensure the provision of services for those with mental illness or co-occurring mental illness and substance abuse disorders can reduce the number of such individuals in adult and juvenile corrections facilities, while providing improved public safety."
 
 #### Purpose
 
-Pub. L. 108–414, §3, Oct. 30, 2004, 118 Stat. 2328, provided that: “The purpose of this Act \[see Short Title of 2004 Amendment note set out under section 3711 of this title\] is to increase public safety by facilitating collaboration among the criminal justice, juvenile justice, mental health treatment, and substance abuse systems. Such collaboration is needed to—
+Pub. L. 108–414, §3, Oct. 30, 2004, 118 Stat. 2328, provided that: "The purpose of this Act \[see Short Title of 2004 Amendment note set out under section 3711 of this title\] is to increase public safety by facilitating collaboration among the criminal justice, juvenile justice, mental health treatment, and substance abuse systems. Such collaboration is needed to—
 
-&emsp;“(1) protect public safety by intervening with adult and juvenile offenders with mental illness or co-occurring mental illness and substance abuse disorders;
+&emsp;"(1) protect public safety by intervening with adult and juvenile offenders with mental illness or co-occurring mental illness and substance abuse disorders;
 
-&emsp;“(2) provide courts, including existing and new mental health courts, with appropriate mental health and substance abuse treatment options;
+&emsp;"(2) provide courts, including existing and new mental health courts, with appropriate mental health and substance abuse treatment options;
 
-&emsp;“(3) maximize the use of alternatives to prosecution through graduated sanctions in appropriate cases involving nonviolent offenders with mental illness;
+&emsp;"(3) maximize the use of alternatives to prosecution through graduated sanctions in appropriate cases involving nonviolent offenders with mental illness;
 
-&emsp;“(4) promote adequate training for criminal justice system personnel about mental illness and substance abuse disorders and the appropriate responses to people with such illnesses;
+&emsp;"(4) promote adequate training for criminal justice system personnel about mental illness and substance abuse disorders and the appropriate responses to people with such illnesses;
 
-&emsp;“(5) promote adequate training for mental health and substance abuse treatment personnel about criminal offenders with mental illness or co-occurring substance abuse disorders and the appropriate response to such offenders in the criminal justice system;
+&emsp;"(5) promote adequate training for mental health and substance abuse treatment personnel about criminal offenders with mental illness or co-occurring substance abuse disorders and the appropriate response to such offenders in the criminal justice system;
 
-&emsp;“(6) promote communication among adult or juvenile justice personnel, mental health and co-occurring mental illness and substance abuse disorders treatment personnel, nonviolent offenders with mental illness or co-occurring mental illness and substance abuse disorders, and support services such as housing, job placement, community, faith-based, and crime victims organizations; and
+&emsp;"(6) promote communication among adult or juvenile justice personnel, mental health and co-occurring mental illness and substance abuse disorders treatment personnel, nonviolent offenders with mental illness or co-occurring mental illness and substance abuse disorders, and support services such as housing, job placement, community, faith-based, and crime victims organizations; and
 
-&emsp;“(7) promote communication, collaboration, and intergovernmental partnerships among municipal, county, and State elected officials with respect to mentally ill offenders.”
+&emsp;"(7) promote communication, collaboration, and intergovernmental partnerships among municipal, county, and State elected officials with respect to mentally ill offenders."
 

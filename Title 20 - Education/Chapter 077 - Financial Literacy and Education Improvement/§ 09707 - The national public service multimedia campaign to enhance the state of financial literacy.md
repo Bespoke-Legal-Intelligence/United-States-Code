@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Treasury (in this section referred to as the “Secretary”), after review of the recommendations of the Commission, as part of the national strategy, shall develop, implement, and conduct a pilot national public service multimedia campaign to enhance the state of financial literacy and education in the United States.
+The Secretary of the Treasury (in this section referred to as the "Secretary"), after review of the recommendations of the Commission, as part of the national strategy, shall develop, implement, and conduct a pilot national public service multimedia campaign to enhance the state of financial literacy and education in the United States.
 
 #### (b) Program requirements
 
@@ -28,7 +28,7 @@ The Secretary shall develop measures to evaluate the effectiveness of the pilot 
 
 #### (e) Report
 
-For each fiscal year for which there are appropriations pursuant to the authorization in subsection (e),<sup>1</sup> the Secretary shall submit a reportto the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Financial Services and the Committee on Appropriations of the House of Representatives, describing the status and implementation of the provisions of this section and the state of financial literacy and education in the United States.
+For each fiscal year for which there are appropriations pursuant to the authorization in subsection (e),<sup>1</sup> the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Financial Services and the Committee on Appropriations of the House of Representatives, describing the status and implementation of the provisions of this section and the state of financial literacy and education in the United States.
 
 #### (f) Authorization of appropriations
 
@@ -36,5 +36,5 @@ There are authorized to be appropriated to the Secretary, not to exceed $3,000,0
 
 (Pub. L. 108–159, title V, §518, Dec. 4, 2003, 117 Stat. 2009.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(f),”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(f),".</i>
 

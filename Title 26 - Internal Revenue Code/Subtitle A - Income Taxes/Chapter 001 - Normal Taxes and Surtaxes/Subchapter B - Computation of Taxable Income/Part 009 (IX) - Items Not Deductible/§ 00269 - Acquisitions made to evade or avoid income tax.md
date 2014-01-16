@@ -28,7 +28,7 @@ If—
 
 #### (2) Meaning of terms
 
-&emsp;For purposes of paragraph (1), the terms “qualified stock purchase” and “acquisition date” have the same respective meanings as when used in section 338.
+&emsp;For purposes of paragraph (1), the terms "qualified stock purchase" and "acquisition date" have the same respective meanings as when used in section 338.
 
 #### (c) Power of Secretary to allow deduction, etc., in part
 
@@ -46,15 +46,15 @@ In any case to which subsection (a) or (b) applies the Secretary is authorized�
 
 <b>1984</b>—Subsecs. (b), (c). Pub. L. 98–369 added subsec. (b), redesignated former subsec. (b) as (c) and inserted reference to subsec. (b).
 
-<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
 Subsec. (c). Pub. L. 94–455, §1901(a)(38), struck out subsec. (c) relating to presumptions in the case of disproportionate purchase price.
 
-<b>1964</b>—Subsec. (a). Pub. L. 88–272 substituted “the Secretary or his delegate may disallow such deduction, credit, or other allowance” for “such deduction, credit or other allowance shall not be allowed”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–272 substituted "the Secretary or his delegate may disallow such deduction, credit, or other allowance" for "such deduction, credit or other allowance shall not be allowed".
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title VII, §712(k)(8)(C), July 18, 1984, 98 Stat. 952, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to liquidations after October 20, 1983, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title VII, §712(k)(8)(C), July 18, 1984, 98 Stat. 952, provided that: "The amendments made by this paragraph \[amending this section\] shall apply to liquidations after October 20, 1983, in taxable years ending after such date."
 
 #### Effective Date of 1964 Amendment
 

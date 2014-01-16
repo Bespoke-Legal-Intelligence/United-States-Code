@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 24, 1954, ch. 911, §5(a), 68 Stat. 798.
 
-The word “anywhere” is substituted for “at any place or places in the United States, or elsewhere” to eliminate unnecessary words.
+The word "anywhere" is substituted for "at any place or places in the United States, or elsewhere" to eliminate unnecessary words.
 

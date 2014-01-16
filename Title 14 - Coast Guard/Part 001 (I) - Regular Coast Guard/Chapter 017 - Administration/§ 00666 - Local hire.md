@@ -4,15 +4,15 @@
 
 (b)
 
-Local Resident Defined.—As used in this section, “local resident” means a resident of, or an individual who commutes daily to, a State described in subsection (a).
+Local Resident Defined.—As used in this section, "local resident" means a resident of, or an individual who commutes daily to, a State described in subsection (a).
 
 (Added Pub. L. 101–225, title II, §206(a), Dec. 12, 1989, 103 Stat. 1912; amended Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–213, title II, §217(10), Dec. 20, 2012, 126 Stat. 1558.)
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–213 substituted “of the department in which the Coast Guard is operating” for “of Homeland Security”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–213 substituted "of the department in which the Coast Guard is operating" for "of Homeland Security".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 #### Effective Date of 2002 Amendment
 

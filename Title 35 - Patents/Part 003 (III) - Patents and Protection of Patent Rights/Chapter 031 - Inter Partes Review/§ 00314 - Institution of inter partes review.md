@@ -2,7 +2,7 @@
 
 (a)
 
-Threshold.—The Director may not authorize an inter partes review to be instituted unless the Director determines that the information presented in the petition filed under section 311 and any response filed under section 313 shows that there is a reasonable likelihood that the petitioner would prevail with respect to at least 1 of the claims challenged in the petition.
+Threshold.—The Director may not authorize an inter partes review to be instituted unless the Director determines that the information presented in the petition filed under section 311and any response filed under section 313 shows that there is a reasonable likelihood that the petitioner would prevail with respect to at least 1 of the claims challenged in the petition.
 
 (b)
 
@@ -28,7 +28,7 @@ No Appeal.—The determination by the Director whether to institute an inter par
 
 <b>2002</b>—Pub. L. 107–273, §13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 
-Subsec. (b). Pub. L. 107–273, §13202(a)(3), redesignated par. (2) as (1), substituted “the Office shall send to the third-party requester a copy” for “the third-party requester shall receive a copy”, redesignated par. (3) as (2), and struck out former par. (1) which read as follows: “This subsection shall apply to any inter partes reexamination proceeding in which the order for inter partes reexamination is based upon a request by a third-party requester.”
+Subsec. (b). Pub. L. 107–273, §13202(a)(3), redesignated par. (2) as (1), substituted "the Office shall send to the third-party requester a copy" for "the third-party requester shall receive a copy", redesignated par. (3) as (2), and struck out former par. (1) which read as follows: "This subsection shall apply to any inter partes reexamination proceeding in which the order for inter partes reexamination is based upon a request by a third-party requester."
 
 #### Effective Date of 2011 Amendment
 

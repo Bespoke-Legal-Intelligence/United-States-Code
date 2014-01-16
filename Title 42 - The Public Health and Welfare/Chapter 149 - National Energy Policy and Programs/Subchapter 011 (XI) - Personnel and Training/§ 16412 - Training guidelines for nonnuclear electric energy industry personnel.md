@@ -22,7 +22,7 @@ The training guidelines under subsection (a) shall, at a minimum—
 
 &emsp;&emsp;&emsp;(iii) methods for examining or testing the qualification of an individual who performs a covered task; and
 
-&emsp;(2) consolidate training guidelines in existence on the date on which the guidelines under subsection (a) are developed relating to the construction, operation, maintenance, and inspection of nonnuclear electric generation, transmission, and distribution facilities, suchas guidelines established by the National Electric Safety Code and other industry consensus standards.
+&emsp;(2) consolidate training guidelines in existence on the date on which the guidelines under subsection (a) are developed relating to the construction, operation, maintenance, and inspection of nonnuclear electric generation, transmission, and distribution facilities, such as guidelines established by the National Electric Safety Code and other industry consensus standards.
 
 (Pub. L. 109–58, title XI, §1103, Aug. 8, 2005, 119 Stat. 939.)
 

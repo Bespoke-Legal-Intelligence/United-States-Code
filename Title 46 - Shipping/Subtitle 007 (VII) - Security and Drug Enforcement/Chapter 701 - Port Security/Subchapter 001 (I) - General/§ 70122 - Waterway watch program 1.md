@@ -44,5 +44,5 @@ Authorization of Appropriations.—There are authorized to be appropriated for t
 
 (Added Pub. L. 111–281, title VIII, §801(a), Oct. 15, 2010, 124 Stat. 2988.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Waterway Watch Program”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Waterway Watch Program".</i>
 

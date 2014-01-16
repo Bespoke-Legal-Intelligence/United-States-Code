@@ -36,9 +36,9 @@ Any election affecting the computation of taxable income derived from a partners
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b)(1). Pub. L. 103–66 substituted “subsection (b)(5) or (c)(3)” for “subsection (b)(5)”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–66 substituted "subsection (b)(5) or (c)(3)" for "subsection (b)(5)".
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–647 substituted “subsection (b)(5)” for “subsection (b)(5) or (d)(4)”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–647 substituted "subsection (b)(5)" for "subsection (b)(5) or (d)(4)".
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–514 struck out former pars. (1) and (3) which related to elections under sections 57(c) and 163(d), respectively, and redesignated former pars. (2), (4), and (5), as pars. (1), (2), and (3), respectively.
 
@@ -46,15 +46,15 @@ Any election affecting the computation of taxable income derived from a partners
 
 <b>1977</b>—Subsec. (a)(2). Pub. L. 95–30 struck out subpar. (A) which made reference to the standard deduction provided in section 141, and redesignated subpars. (B) to (G) as (A) to (F), respectively.
 
-<b>1976</b>—Subsec. (a)(2)(G). Pub. L. 94–455, §2115(c)(2), substituted “wells” for “production subject to the provisions of section 613A(c)”.
+<b>1976</b>—Subsec. (a)(2)(G). Pub. L. 94–455, §2115(c)(2), substituted "wells" for "production subject to the provisions of section 613A(c)".
 
-Subsec. (b). Pub. L. 94–455, §1901(b)(21)(F), struck out “under section 615 (relating to pre-1970 exploration expenditures),” after “of the United States, and any election”.
+Subsec. (b). Pub. L. 94–455, §1901(b)(21)(F), struck out "under section 615 (relating to pre-1970 exploration expenditures)," after "of the United States, and any election".
 
 <b>1975</b>—Subsec. (a)(2)(G). Pub. L. 94–12 added subpar. (G).
 
-<b>1971</b>—Subsec. (b). Pub. L. 92–178 substituted “,” for “or” after “(relating to pre-1970 exploration expenditures)” and inserted “under section 57(c) (relating to definition of net lease), or under section 163(d) (relating to limitation on interest on investment indebtedness)” after “(relating to deduction and recapture of certain mining exploration expenditures)”.
+<b>1971</b>—Subsec. (b). Pub. L. 92–178 substituted "," for "or" after "(relating to pre-1970 exploration expenditures)" and inserted "under section 57(c) (relating to definition of net lease), or under section 163(d) (relating to limitation on interest on investment indebtedness)" after "(relating to deduction and recapture of certain mining exploration expenditures)".
 
-<b>1969</b>—Subsec. (b). Pub. L. 91–172 substituted “(relating to pre-1970 exploration expenditures) or under section 617 (relating to deduction and recapture of certain mining exploration expenditures)” for “(relating to exploration expenditures) or under section 617 (relating to additional exploration expenditures in the case of domestic mining)”.
+<b>1969</b>—Subsec. (b). Pub. L. 91–172 substituted "(relating to pre-1970 exploration expenditures) or under section 617 (relating to deduction and recapture of certain mining exploration expenditures)" for "(relating to exploration expenditures) or under section 617 (relating to additional exploration expenditures in the case of domestic mining)".
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–570 provided for election under section 615 (relating to exploration expenditures) or under section 617 (relating to additional exploration expenditures in the case of domestic mining).
 

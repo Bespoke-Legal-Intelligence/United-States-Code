@@ -4,13 +4,13 @@
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “consumer” means any renter, purchaser, or subscriber of goods or services from a video tape service provider;
+&emsp;(1) the term "consumer" means any renter, purchaser, or subscriber of goods or services from a video tape service provider;
 
-&emsp;(2) the term “ordinary course of business” means only debt collection activities, order fulfillment, request processing, and the transfer of ownership;
+&emsp;(2) the term "ordinary course of business" means only debt collection activities, order fulfillment, request processing, and the transfer of ownership;
 
-&emsp;(3) the term “personally identifiable information” includes information which identifies a person as having requested or obtained specific video materials or services from a video tape service provider; and
+&emsp;(3) the term "personally identifiable information" includes information which identifies a person as having requested or obtained specific video materials or services from a video tape service provider; and
 
-&emsp;(4) the term “video tape service provider” means any person, engaged in the business, in or affecting interstate or foreign commerce, of rental, sale, or delivery of prerecorded video cassette tapes or similar audio visual materials, or any person or other entity to whom a disclosure is made under subparagraph (D) or (E) of subsection (b)(2), but only with respect to the information contained in the disclosure.
+&emsp;(4) the term "video tape service provider" means any person, engaged in the business, in or affecting interstate or foreign commerce, of rental, sale, or delivery of prerecorded video cassette tapes or similar audio visual materials, or any person or other entity to whom a disclosure is made under subparagraph (D) or (E) of subsection (b)(2), but only with respect to the information contained in the disclosure.
 
 (b)
 
@@ -62,7 +62,7 @@ Civil Action.—(1) Any person aggrieved by any act of a person in violation of 
 
 &emsp;(B) punitive damages;
 
-&emsp;(C) reasonable attorneys’ fees and other litigation costs reasonably incurred; and
+&emsp;(C) reasonable attorneys' fees and other litigation costs reasonably incurred; and
 
 &emsp;(D) such other preliminary and equitable relief as the court determines to be appropriate.
 
@@ -94,5 +94,5 @@ A prior section 2710 was renumbered section 2711 of this title.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(2)(B). Pub. L. 112–258 added subpar. (B) and struck out former subpar. (B) which read as follows: “to any person with the informed, written consent of the consumer given at the time the disclosure is sought;”.
+<b>2013</b>—Subsec. (b)(2)(B). Pub. L. 112–258 added subpar. (B) and struck out former subpar. (B) which read as follows: "to any person with the informed, written consent of the consumer given at the time the disclosure is sought;".
 

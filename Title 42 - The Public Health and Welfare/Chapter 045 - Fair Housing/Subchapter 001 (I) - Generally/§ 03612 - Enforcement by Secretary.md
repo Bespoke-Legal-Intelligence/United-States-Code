@@ -32,13 +32,13 @@ An administrative law judge may not continue administrative proceedings under th
 
 (1) The administrative law judge shall commence the hearing under this section no later than 120 days following the issuance of the charge, unless it is impracticable to do so. If the administrative law judge is unable to commence the hearing within 120 days after the issuance of the charge, the administrative law judge shall notify the Secretary, the aggrieved person on whose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.
 
-(2) The administrative law judge shall make findings of fact and conclusions of law within 60 days after the end of the hearing under this section, unless it is impracticable to do so. If the administrative law judge is unable to make findings of fact and conclusions of law within such period, or any succeeding 60-day period thereafter, the administrative law judge shall notify the Secretary, the aggrieved person on whose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.
+(2) The administrative law judge shall make findings of fact and conclusions of law within 60 days after the end of the hearing under this section, unless it is impracticable to do so. If the administrative law judge is unable to make findings of fact and conclusions of law within suchperiod, or any succeeding 60-day period thereafter, the administrative law judge shall notify the Secretary, the aggrieved person on whose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.
 
 (3) If the administrative law judge finds that a respondent has engaged or is about to engage in a discriminatory housing practice, such administrative law judge shall promptly issue an order for such relief as may be appropriate, which may include actual damages suffered by the aggrieved person and injunctive or other equitable relief. Such order may, to vindicate the public interest, assess a civil penalty against the respondent—
 
 &emsp;(A) in an amount not exceeding $10,000 if the respondent has not been adjudged to have committed any prior discriminatory housing practice;
 
-&emsp;(B) in an amount not exceeding $25,000 if the respondent has been adjudged to have committed one other discriminatory housing practiceduring the 5-year period ending on the date of the filing of this charge; and
+&emsp;(B) in an amount not exceeding $25,000 if the respondent has been adjudged to have committed one other discriminatory housing practice during the 5-year period ending on the date of the filing of this charge; and
 
 &emsp;(C) in an amount not exceeding $50,000 if the respondent has been adjudged to have committed 2 or more discriminatory housing practices during the 7-year period ending on the date of the filing of this charge;
 
@@ -90,7 +90,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 #### (l) Enforcement decree in absence of petition for review
 
-If no petition for review is filed under subsection (i) of this section before the expiration of 45 days after the date the administrative law judge's order is entered, the administrative law judge's findings of fact and order shall be conclusive in connection with any petition for enforcement—
+If no petition for review is filed under subsection (i) of this section before the expirationof 45 days after the date the administrative law judge's order is entered, the administrative law judge's findings of fact and order shall be conclusive in connection with any petition for enforcement—
 
 &emsp;(1) which is filed by the Secretary under subsection (j) of this section after the end of such day; or
 

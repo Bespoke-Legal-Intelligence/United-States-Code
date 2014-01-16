@@ -6,7 +6,7 @@ As used in this part:
 
 #### (1) Application for restructuring
 
-&emsp;The term “application for restructuring” means a written request—
+&emsp;The term "application for restructuring" means a written request—
 
 &emsp;&emsp;(A) from a borrower for the restructuring of a distressed loan in accordance with a preliminary restructuring plan proposed by the borrower as a part of the application;
 
@@ -16,13 +16,13 @@ As used in this part:
 
 #### (2) Cost of foreclosure
 
-&emsp;The term “cost of foreclosure” includes—
+&emsp;The term "cost of foreclosure" includes—
 
 &emsp;&emsp;(A) the difference between the outstanding balance due on a loan made by a qualified lender and the liquidation value of the loan, taking into consideration the borrower's repayment capacity and the liquidation value of the collateral used to secure the loan;
 
 &emsp;&emsp;(B) the estimated cost of maintaining a loan as a nonperforming asset;
 
-&emsp;&emsp;(C) the estimated cost of administrative and legal actions necessary to foreclose a loan and dispose of property acquired as the result of the foreclosure, including attorneys’ fees and court costs;
+&emsp;&emsp;(C) the estimated cost of administrative and legal actions necessary to foreclose a loan and dispose of property acquired as the result of the foreclosure, including attorneys' fees and court costs;
 
 &emsp;&emsp;(D) the estimated cost of changes in the value of collateral used to secure a loan during the period beginning on the date of the initiation of an action to foreclose or liquidate the loan and ending on the date of the disposition of the collateral; and
 
@@ -30,7 +30,7 @@ As used in this part:
 
 #### (3) Distressed loan
 
-&emsp;The term “distressed loan” means a loan that the borrower does not have the financial capacity to pay according to its terms and that exhibits one or more of the following characteristics:
+&emsp;The term "distressed loan" means a loan that the borrower does not have the financial capacity to pay according to its terms and that exhibits one or more of the following characteristics:
 
 &emsp;&emsp;(A) The borrower is demonstrating adverse financial and repayment trends.
 
@@ -40,7 +40,7 @@ As used in this part:
 
 #### (4) Foreclosure proceeding
 
-&emsp;The term “foreclosure proceeding” means—
+&emsp;The term "foreclosure proceeding" means—
 
 &emsp;&emsp;(A) a foreclosure or similar legal proceeding to enforce a lien on property, whether real or personal, that secures a nonaccrual or distressed loan; or
 
@@ -50,13 +50,13 @@ As used in this part:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term “loan” means a loan made to a farmer, rancher, or producer or harvester of aquatic products, for any agricultural or aquatic purpose and other credit needs of the borrower, including financing for basic processing and marketing directly related to the borrower's operations and those of other eligible farmers, ranchers, and producers or harvesters of aquatic products.
+&emsp;&emsp;Subject to subparagraph (B), the term "loan" means a loan made to a farmer, rancher, or producer or harvester of aquatic products, for any agricultural or aquatic purpose and other credit needs of the borrower, including financing for basic processing and marketing directly related to the borrower's operations and those of other eligible farmers, ranchers, and producers or harvesters of aquatic products.
 
 #### (B) Exclusion for loans designated for sale into secondary market
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “loan” does not include a loan made on or after February 10, 1996, that is designated, at the time the loan is made, for sale into a secondary market.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "loan" does not include a loan made on or after February 10, 1996, that is designated, at the time the loan is made, for sale into a secondary market.
 
 #### (ii) Unsold loans
 
@@ -70,7 +70,7 @@ As used in this part:
 
 #### (6) Qualified lender
 
-&emsp;The term “qualified lender” means—
+&emsp;The term "qualified lender" means—
 
 &emsp;&emsp;(A) a System institution that makes loans (as defined in paragraph (5)) except a bank for cooperatives; and
 
@@ -78,7 +78,7 @@ As used in this part:
 
 #### (7) Restructure and restructuring
 
-&emsp;The terms “restructure” and “restructuring” include rescheduling, reamortization, renewal, deferral of principal or interest, monetary concessions, and the taking of any other action to modify the terms of, or forbear on, a loan in any way that will make it probable that the operations of the borrower will become financially viable.
+&emsp;The terms "restructure" and "restructuring" include rescheduling, reamortization, renewal, deferral of principal or interest, monetary concessions, and the taking of any other action to modify the terms of, or forbear on, a loan in any way that will make it probable that the operations of the borrower will become financially viable.
 
 #### (b) Notice
 
@@ -194,19 +194,19 @@ Each Farm Credit Bank, on request of any production credit association, may assi
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(5). Pub. L. 104–105 designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the term” for “The term”, and added subpar. (B).
+<b>1996</b>—Subsec. (a)(5). Pub. L. 104–105 designated existing provisions as subpar. (A), inserted subpar. heading, substituted "Subject to subparagraph (B), the term" for "The term", and added subpar. (B).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–399, §102(a), struck out “(other than in sections 2205 and 2206 of this title)” after “in this part”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–399, §102(a), struck out "(other than in sections 2205 and 2206 of this title)" after "in this part".
 
-Subsec. (a)(6)(B). Pub. L. 100–399, §102(b), substituted “section 2015(b)(1)(B) of this title” for “section 2074(a)(2) of this title” and “section 2015(b)(1) of this title” for “section 2074(a) of this title”.
+Subsec. (a)(6)(B). Pub. L. 100–399, §102(b), substituted "section 2015(b)(1)(B) of this title" for "section 2074(a)(2) of this title" and "section 2015(b)(1) of this title" for "section 2074(a) of this title".
 
-Subsec. (e)(1). Pub. L. 100–399, §102(c), substituted “cost to such qualified” for “cost to a qualified”.
+Subsec. (e)(1). Pub. L. 100–399, §102(c), substituted "cost to such qualified" for "cost to a qualified".
 
-Subsec. (g)(1). Pub. L. 100–399, §102(d), substituted “bank” for “farm credit district”.
+Subsec. (g)(1). Pub. L. 100–399, §102(d), substituted "bank" for "farm credit district".
 
-Subsec. (g)(3). Pub. L. 100–399, §102(e), substituted “bank board” for “district board”.
+Subsec. (g)(3). Pub. L. 100–399, §102(e), substituted "bank board" for "district board".
 
-Subsec. (l). Pub. L. 100–399, §102(f), substituted “Farm Credit Bank” for “Federal intermediate credit bank”.
+Subsec. (l). Pub. L. 100–399, §102(f), substituted "Farm Credit Bank" for "Federal intermediate credit bank".
 
 #### Effective Date of 1988 Amendment
 
@@ -214,5 +214,5 @@ Amendment by section 102(b), (f) of Pub. L. 100–399 effective immediately afte
 
 #### Sense of Congress
 
-Pub. L. 100–233, title I, §102(b), Jan. 6, 1988, 101 Stat. 1579, provided that: “It is the sense of Congress that the banks and associations (except banks for cooperatives) operating under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) should administer distressed loans to farmers with the objective of using the loan guarantee programs of the Farmers Home Administration and other loan restructuring measures, including participation in interest rate buy-down programs that are Federally or State funded, and other Federal and State sponsored financial assistance programs that offer relief to financially distressed farmers, as alternatives to foreclosure, considering the availability and appropriateness of such programs on a case-by-case basis.”
+Pub. L. 100–233, title I, §102(b), Jan. 6, 1988, 101 Stat. 1579, provided that: "It is the sense of Congress that the banks and associations (except banks for cooperatives) operating under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) should administer distressed loans to farmers with the objective of using the loan guarantee programs of the Farmers Home Administration and other loan restructuring measures, including participation in interest rate buy-down programs that are Federally or State funded, and other Federal and State sponsored financial assistance programs that offer relief to financially distressed farmers, as alternatives to foreclosure, considering the availability and appropriateness of such programs on a case-by-case basis."
 

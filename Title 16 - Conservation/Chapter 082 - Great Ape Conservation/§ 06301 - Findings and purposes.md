@@ -26,11 +26,11 @@ The purposes of this chapter are—
 
 &emsp;(1) to sustain viable populations of great apes in the wild; and
 
-&emsp;(2) to assist in the conservation and protection of great apes by supporting conservation programs of countries in which populations of great apes are located and by supporting the CITES Secretariat.
+&emsp;(2) to assist in the conservation and protection of great apes by supporting conservationprograms of countries in which populations of great apes are located and by supporting the CITES Secretariat.
 
 (Pub. L. 106–411, §2, Nov. 1, 2000, 114 Stat. 1789.)
 
 #### Short Title
 
-Pub. L. 106–411, §1, Nov. 1, 2000, 114 Stat. 1789, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Great Ape Conservation Act of 2000’.”
+Pub. L. 106–411, §1, Nov. 1, 2000, 114 Stat. 1789, provided that: "This Act \[enacting this chapter\] may be cited as the 'Great Ape Conservation Act of 2000'."
 

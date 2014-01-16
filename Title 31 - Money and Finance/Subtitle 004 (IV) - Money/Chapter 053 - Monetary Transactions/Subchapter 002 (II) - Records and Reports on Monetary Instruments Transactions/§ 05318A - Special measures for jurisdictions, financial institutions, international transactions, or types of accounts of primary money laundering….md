@@ -148,7 +148,7 @@ Bank definitions.—The following definitions shall apply with respect to a bank
 
 &emsp;&emsp;(A)
 
-Account.—The term “account”—
+Account.—The term "account"—
 
 &emsp;&emsp;&emsp;(i) means a formal banking or business relationship established to provide regular services, dealings, and other financial transactions; and
 
@@ -156,15 +156,15 @@ Account.—The term “account”—
 
 &emsp;&emsp;(B)
 
-Correspondent account.—The term “correspondent account” means an account established to receive deposits from, make payments on behalf of a foreign financial institution, or handle other financial transactions related to such institution.
+Correspondent account.—The term "correspondent account" means an account established to receive deposits from, make payments on behalf of a foreign financial institution, or handle other financial transactions related to such institution.
 
 &emsp;&emsp;(C)
 
-Payable-through account.—The term “payable-through account” means an account, including a transaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act), opened at a depository institution by a foreign financial institution by means of which the foreign financial institution permits its customers to engage, either directly or through a subaccount, in bankingactivities usual in connection with the business of banking in the United States.
+Payable-through account.—The term "payable-through account" means an account, including a transaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act), opened at a depository institution by a foreign financial institution by means of which the foreign financial institution permits its customers to engage, either directly or through a subaccount, in bankingactivities usual in connection with the business of banking in the United States.
 
 &emsp;(2)
 
-Definitions applicable to institutions other than banks.—With respect to any financial institution other than a bank, the Secretary shall, after consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act), define by regulation the term “account”, and shall include within the meaning of that term, to the extent, if any, that the Secretary deems appropriate, arrangements similar to payable-through and correspondent accounts.
+Definitions applicable to institutions other than banks.—With respect to any financial institution other than a bank, the Secretary shall, after consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act), define by regulation the term "account", and shall include within the meaning of that term, to the extent, if any, that the Secretary deems appropriate, arrangements similar to payable-through and correspondent accounts.
 
 &emsp;(3)
 
@@ -192,19 +192,19 @@ Section 1(a) of the Classified Information Procedures Act, referred to in subsec
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c)(2)(A)(i). Pub. L. 109–293, §501(1), substituted “or entities involved in the proliferation of weapons of mass destruction or missiles” for “or both,”.
+<b>2006</b>—Subsec. (c)(2)(A)(i). Pub. L. 109–293, §501(1), substituted "or entities involved in the proliferation of weapons of mass destruction or missiles" for "or both,".
 
-Subsec. (c)(2)(B)(i). Pub. L. 109–293, §501(2), inserted “, including any money laundering activity by organized criminal groups, international terrorists, or entities involved in the proliferation of weapons of mass destruction or missiles” before semicolon at end.
+Subsec. (c)(2)(B)(i). Pub. L. 109–293, §501(2), inserted ", including any money laundering activity by organized criminal groups, international terrorists, or entities involved in the proliferation of weapons of mass destruction or missiles" before semicolon at end.
 
-<b>2004</b>—Pub. L. 108–458, §6203(e), amended section catchline generally. Prior to amendment, catchline read as follows: “Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern”.
+<b>2004</b>—Pub. L. 108–458, §6203(e), amended section catchline generally. Prior to amendment, catchline read as follows: "Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern".
 
-Subsec. (a)(4)(A). Pub. L. 108–458, §6203(f)(1), substituted “(as defined in section 3 of the Federal Deposit Insurance Act)” for “, as defined in section 3 of the Federal Deposit Insurance Act,”.
+Subsec. (a)(4)(A). Pub. L. 108–458, §6203(f)(1), substituted "(as defined in section 3 of the Federal Deposit Insurance Act)" for ", as defined in section 3 of the Federal Deposit Insurance Act,".
 
-Subsec. (a)(4)(B)(iii). Pub. L. 108–458, §6203(f)(2), substituted “class of transactions, or type of account” for “or class of transactions”.
+Subsec. (a)(4)(B)(iii). Pub. L. 108–458, §6203(f)(2), substituted "class of transactions, or type of account" for "or class of transactions".
 
-Subsec. (b)(1)(A). Pub. L. 108–458, §6203(f)(3), substituted “class of transactions, or type of account to be” for “or class of transactions to be”.
+Subsec. (b)(1)(A). Pub. L. 108–458, §6203(f)(3), substituted "class of transactions, or type of account to be" for "or class of transactions to be".
 
-Subsec. (e)(3). Pub. L. 108–458, §6203(f)(4), inserted “or subsection (i) or (j) of section 5318” after “identification of individuals under this section”.
+Subsec. (e)(3). Pub. L. 108–458, §6203(f)(4), inserted "or subsection (i) or (j) of section 5318" after "identification of individuals under this section".
 
 <b>2003</b>—Subsec. (f). Pub. L. 108–177 added subsec. (f).
 
@@ -212,9 +212,9 @@ Subsec. (e)(3). Pub. L. 108–458, §6203(f)(4), inserted “or subsection (i) o
 
 Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of Title 12, Banks and Banking.
 
-#### “Federal Functional Regulator” Includes Commodity Futures Trading Commission
+#### "Federal Functional Regulator" Includes Commodity Futures Trading Commission
 
-For purposes of Pub. L. 107–56 and any amendment by Pub. L. 107–56, the term “Federal functional regulator” includes the Commodity Futures Trading Commission, see section 321(c) of Pub. L. 107–56, set out as a note under section 5318 of this title.
+For purposes of Pub. L. 107–56 and any amendment by Pub. L. 107–56, the term "Federal functional regulator" includes the Commodity Futures Trading Commission, see section 321(c) of Pub. L. 107–56, set out as a note under section 5318 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -12,7 +12,7 @@ In the case of any applicable self-insured health plan for each plan year ending
 
 #### (2) Plan sponsor
 
-&emsp;For purposes of paragraph (1) the term “plan sponsor” means—
+&emsp;For purposes of paragraph (1) the term "plan sponsor" means—
 
 &emsp;&emsp;(A) the employer in the case of a plan established or maintained by a single employer,
 
@@ -24,13 +24,13 @@ In the case of any applicable self-insured health plan for each plan year ending
 
 &emsp;&emsp;&emsp;(ii) a multiple employer welfare arrangement, or
 
-&emsp;&emsp;&emsp;(iii) a voluntary employees’ beneficiary association described in section 501(c)(9), the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan, or
+&emsp;&emsp;&emsp;(iii) a voluntary employees' beneficiary association described in section 501(c)(9), the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan, or
 
 &emsp;&emsp;(D) the cooperative or association described in subsection (c)(2)(F) in the case of a plan established or maintained by such a cooperative or association.
 
 #### (c) Applicable self-insured health plan
 
-For purposes of this section, the term “applicable self-insured health plan” means any plan for providing accident or health coverage if—
+For purposes of this section, the term "applicable self-insured health plan" means any plan for providing accident or health coverage if—
 
 &emsp;(1) any portion of such coverage is provided other than through an insurance policy, and
 
@@ -42,7 +42,7 @@ For purposes of this section, the term “applicable self-insured health plan”
 
 &emsp;&emsp;(C) jointly by 1 or more employers and 1 or more employee organizations for the benefit of employees or former employees,
 
-&emsp;&emsp;(D) by a voluntary employees’ beneficiary association described in section 501(c)(9),
+&emsp;&emsp;(D) by a voluntary employees' beneficiary association described in section 501(c)(9),
 
 &emsp;&emsp;(E) by any organization described in section 501(c)(6), or
 
@@ -50,7 +50,7 @@ For purposes of this section, the term “applicable self-insured health plan”
 
 #### (d) Adjustments for increases in health care spending
 
-In the case of any plan year ending in any fiscal year beginning after September 30, 2014, the dollar amount in effect under subsection (a) for such plan year shall be equal to the sum of such dollar amount for plan years ending in the previous fiscal year (determined after the application of this subsection), plus an amount equal to the product of—
+In the case of any plan year ending in any fiscal year beginning after September 30, 2014, the dollar amount in effect under subsection (a) for such plan year shall be equal to the sum of suchdollar amount for plan years ending in the previous fiscal year (determined after the application of this subsection), plus an amount equal to the product of—
 
 &emsp;(1) such dollar amount for plan years ending in the previous fiscal year, multiplied by
 

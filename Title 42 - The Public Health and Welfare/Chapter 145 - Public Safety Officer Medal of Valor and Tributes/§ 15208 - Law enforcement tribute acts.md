@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the “Law Enforcement Tribute Act”.
+This section may be cited as the "Law Enforcement Tribute Act".
 
 #### (b) Findings
 
@@ -60,5 +60,5 @@ Section was enacted as the Law Enforcement Tribute Act, and also as part of the 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (i). Pub. L. 109–162 substituted “2009” for “2006”.
+<b>2006</b>—Subsec. (i). Pub. L. 109–162 substituted "2009" for "2006".
 

@@ -20,7 +20,7 @@ The Administrator shall—
 
 <b>2000</b>—Pub. L. 106–503 struck out subsec. (a) designation and struck out subsec. (b) which required the Administrator to submit a report to Congress by Mar. 15, 1979, on ways to assist the States and local jurisdictions with arson control.
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–254 inserted before semicolon at end “, with particular emphasis on the needs of volunteer firefighters for improved and more widely available arson training courses”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–254 inserted before semicolon at end ", with particular emphasis on the needs of volunteer firefighters for improved and more widely available arson training courses".
 
 #### Transfer of Functions
 

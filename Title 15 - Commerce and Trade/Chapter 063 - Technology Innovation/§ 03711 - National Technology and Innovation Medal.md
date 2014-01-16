@@ -6,7 +6,7 @@ There is hereby established a National Technology and Innovation Medal, which sh
 
 #### (b) Award
 
-The President shall periodically award the medal, on the basis of recommendations received from the Secretary or on the basis of such other information and evidence as he deems appropriate, to individuals or companies,which in his judgment are deserving of special recognition by reason of their outstanding contributions to the promotion of technology or technological manpower for the improvement of the economic, environmental, or social well-being of the United States.
+The President shall periodically award the medal, on the basis of recommendations received from the Secretary or on the basis of such other information and evidence as he deems appropriate, to individuals or companies, which in his judgment are deserving of special recognition by reason of their outstanding contributions to the promotion of technology or technological manpower for the improvement of the economic, environmental, or social well-being of the United States.
 
 #### (c) Presentation
 
@@ -16,11 +16,11 @@ The presentation of the award shall be made by the President with such ceremonie
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–69, §1003(1), which directed substitution of “National Technology and Innovation Medal” for “National Medal” in section catchline, was executed by making the substitution for “National Technology Medal” to reflect the probable intent of Congress.
+<b>2007</b>—Pub. L. 110–69, §1003(1), which directed substitution of "National Technology and Innovation Medal" for "National Medal" in section catchline, was executed by making the substitution for "National Technology Medal" to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 110–69, §1003(2), substituted “Technology and Innovation Medal” for “Technology Medal”.
+Subsec. (a). Pub. L. 110–69, §1003(2), substituted "Technology and Innovation Medal" for "Technology Medal".
 
 #### National Technology Medal for Environmental Technology
 
-Pub. L. 105–309, §10, Oct. 30, 1998, 112 Stat. 2939, provided that: “In the administration of section 16 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3711), Environmental Technology shall be established as a separate nomination category with appropriate unique criteria for that category.”
+Pub. L. 105–309, §10, Oct. 30, 1998, 112 Stat. 2939, provided that: "In the administration of section 16 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3711), Environmental Technology shall be established as a separate nomination category with appropriate unique criteria for that category."
 

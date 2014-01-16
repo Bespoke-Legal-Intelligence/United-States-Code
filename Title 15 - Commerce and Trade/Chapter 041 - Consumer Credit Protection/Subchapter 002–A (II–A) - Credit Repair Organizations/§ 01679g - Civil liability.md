@@ -26,9 +26,9 @@ Any person who fails to comply with any provision of this subchapter with respec
 
 &emsp;&emsp;&emsp;(ii) the aggregate of the amount which the court may allow for each other class member, without regard to any minimum individual recovery.
 
-#### (3) Attorneys’ fees
+#### (3) Attorneys' fees
 
-&emsp;In the case of any successful action to enforce any liability under paragraph (1) or (2), the costs of the action, together with reasonable attorneys’ fees.
+&emsp;In the case of any successful action to enforce any liability under paragraph (1) or (2), the costs of the action, together with reasonable attorneys' fees.
 
 #### (b) Factors to be considered in awarding punitive damages
 

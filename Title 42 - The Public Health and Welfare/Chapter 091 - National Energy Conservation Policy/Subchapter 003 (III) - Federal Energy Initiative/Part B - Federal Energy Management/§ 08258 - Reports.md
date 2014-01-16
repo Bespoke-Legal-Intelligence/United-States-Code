@@ -18,7 +18,7 @@ The Secretary shall report, not later than April 2 of each year, with respect to
 
 &emsp;&emsp;(B) the information required under section 8253(b)(2) of this title; and
 
-&emsp;&emsp;(C) a statement detailing the amount of funds awarded to each agency under section 8256(b) of this title, the energy and water conservation measures installed with such funds, the projected energy and water savings to be realized from installed measures, and, for each installed measure for which the projected energy and water savings reported in the previous year were not realized, the percentage of such projected savings that was not realized, the reasons such savings were not realized, and proposals for, and projected costs of, achieving such projected savings in the future;
+&emsp;&emsp;(C) a statement detailing the amount of funds awarded to each agency under section 8256(b) of this title, the energy and water conservation measures installed with such funds, the projected energy and water savings to be realized from installed measures,and, for each installed measure for which the projected energy and water savings reported in the previous year were not realized, the percentage of such projected savings that was not realized, the reasons such savings were not realized, and proposals for, and projected costs of, achieving such projected savings in the future;
 
 &emsp;(2) the number of contracts entered into by all agencies under subchapter VII of this chapter, the difficulties (if any) encountered in attempting to enter into such contracts, and proposed solutions to those difficulties;
 
@@ -38,19 +38,19 @@ The Secretary, in consultation with the Administrator of General Services, shall
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(2). Pub. L. 110–140 inserted “and any termination penalty exposure” after “from such contracts”.
+<b>2007</b>—Subsec. (a)(2). Pub. L. 110–140 inserted "and any termination penalty exposure" after "from such contracts".
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–58 inserted “the President and” before “Congress” in heading and “President and” before “Congress” in introductory provisions.
+<b>2005</b>—Subsec. (b). Pub. L. 109–58 inserted "the President and" before "Congress" in heading and "President and" before "Congress" in introductory provisions.
 
 <b>1995</b>—Subsec. (b)(1). Pub. L. 104–66, §1052(d)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (b)(4). Pub. L. 104–66, §1052(d)(2)–(4), added par. (4).
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–486, §152(i)(1)(A), substituted “8256(a)(2)” for “8256(b)”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–486, §152(i)(1)(A), substituted "8256(a)(2)" for "8256(b)".
 
-Subsec. (b). Pub. L. 102–486, §152(i)(1)(B), substituted “, not later than April 2 of each year,” for “annually,”.
+Subsec. (b). Pub. L. 102–486, §152(i)(1)(B), substituted ", not later than April 2 of each year," for "annually,".
 
-Subsec. (b)(1). Pub. L. 102–486, §152(g)(1), substituted “including—” and subpars. (A) and (B) for “including a copy of the list of the exclusions made under section 8253(a)(2) of this title;”.
+Subsec. (b)(1). Pub. L. 102–486, §152(g)(1), substituted "including—" and subpars. (A) and (B) for "including a copy of the list of the exclusions made under section 8253(a)(2) of this title;".
 
 Subsec. (c). Pub. L. 102–486, §152(g)(2), added subsec. (c).
 

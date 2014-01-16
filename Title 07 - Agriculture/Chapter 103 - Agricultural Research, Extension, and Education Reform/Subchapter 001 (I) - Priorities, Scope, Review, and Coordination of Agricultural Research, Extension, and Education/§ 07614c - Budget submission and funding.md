@@ -2,7 +2,7 @@
 
 #### (a) Definition of competitive programs
 
-In this section, the term “competitive programs” includes only competitive programs for which annual appropriations are requested in the annual budget submission of the President.
+In this section, the term "competitive programs" includes only competitive programs for which annual appropriations are requested in the annual budget submission of the President.
 
 #### (b) Budget request
 

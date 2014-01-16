@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 30, 1950, ch. 823, §5 (1st sentence), 64 Stat. 565.
 
-The word “office” is substituted for “offices” for consistency in the revised title. The word “various” is omitted as unnecessary.
+The word "office" is substituted for "offices" for consistency in the revised title. The word "various" is omitted as unnecessary.
 

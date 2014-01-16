@@ -14,7 +14,7 @@
 
 #### (B) Multiyear contracting authority
 
-&emsp;&emsp;For any project of designing, constructing, equipping, or renovating any facility under subparagraph (A), the Director of the Centers for Disease Control and Prevention may enter into a single contract or related contracts that collectively include the full scope of the project, and the solicitation and contract shall contain the clause “availability of funds” found at section 52.232–18 of title 48, Code of Federal Regulations.
+&emsp;&emsp;For any project of designing, constructing, equipping, or renovating any facility under subparagraph (A), the Director of the Centers for Disease Control and Prevention may enter into a single contract or related contracts that collectively include the full scope of the project, and the solicitation and contract shall contain the clause "availability of funds" found at section 52.232–18 of title 48, Code of Federal Regulations.
 
 #### (3) Improving the capacities of the Centers for Disease Control and Prevention
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) improving communications facilities and networks, including delivery of necessary information to rural areas;
 
-&emsp;&emsp;(C) improving capabilities for public health surveillance and reporting activities, taking into account the integrated system or systems of public health alert communications and surveillance networks under subsection (b) of this section; and
+&emsp;&emsp;(C) improving capabilities for public health surveillance and reporting activities,taking into account the integrated system or systems of public health alert communications and surveillance networks under subsection (b) of this section; and
 
 &emsp;&emsp;(D) improving laboratory facilities related to bioterrorism and other public health emergencies, including increasing the security of such facilities.
 
@@ -36,43 +36,33 @@
 
 &emsp;&emsp;(A) Federal, State, and local public health officials;
 
-&emsp;&emsp;(B) public and private health-related laboratories, hospitals, and other health care facilities; and
+&emsp;&emsp;(B) public and private health-related laboratories, hospitals, poison control centers, and other health care facilities; and
 
 &emsp;&emsp;(C) any other entities determined appropriate by the Secretary.
 
 #### (2) Requirements
 
-&emsp;The Secretary shall ensure that networks under paragraph (1) allow for the timely sharing and discussion, in a secure manner, of essential information concerning bioterrorism or another public health emergency, or recommended methods for responding to such an attack or emergency.
+&emsp;The Secretary shall ensure that networks under paragraph (1) allow for the timely sharing and discussion, in a secure manner, of essential information concerning bioterrorism or another public health emergency, or recommended methods for responding to such an attack or emergency, allowing for coordination to maximize all-hazards medical and public health preparedness and response and to minimize duplication of effort.
 
 #### (3) Standards
 
-&emsp;Not later than one year after June 12, 2002, the Secretary, in cooperation with health care providers and State and local public health officials, shall establish any additional technical and reporting standards (including standards for interoperability) for networks under paragraph (1).
+&emsp;Not later than one year after June 12, 2002, the Secretary, in cooperation with health care providers and State and local public health officials, shall establish any additional technical and reporting standards (including standards for interoperability) for networks under paragraph (1) and update such standards as necessary.
 
-#### (c) Authorization of appropriations
-
-#### (1) Facilities; capacities
-
-#### (A) Facilities
-
-&emsp;&emsp;For the purpose of carrying out subsection (a)(2) of this section, there are authorized to be appropriated $300,000,000 for each of the fiscal years 2002 and 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006.
-
-#### (B) Mission; improving capacities
-
-&emsp;&emsp;For the purposes of achieving the mission of the Centers for Disease Control and Prevention described in subsection (a)(1) of this section, for carrying out subsection (a)(3) of this section, for better conducting the capacities described in section 247d–1 of this title, and for supporting public health activities, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2006.
-
-#### (2) National communications and surveillance networks
-
-&emsp;For the purpose of carrying out subsection (b) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2006.
-
-#### (d) Public health situational awareness
+#### (c) Modernizing public health situational awareness and biosurveillance
 
 #### (1) In general
 
-&emsp;Not later than 2 years after December 19, 2006, the Secretary, in collaboration with State, local, and tribal public health officials, shall establish a near real-time electronic nationwide public health situational awareness capability through an interoperable network of systems to share data and information to enhance early detection of rapid response to, and management of, potentially catastrophic infectious disease outbreaks and other public health emergencies that originate domestically or abroad. Such network shall be built on existing State situational awareness systems or enhanced systems that enable such connectivity.
+&emsp;Not later than 2 years after March 13, 2013, the Secretary, in collaboration with State, local, and tribal public health officials, shall establish a near real-time electronic nationwide public health situational awareness capability through an interoperable network of systems to share data and information to enhance early detection of rapid response to, and management of, potentially catastrophic infectious disease outbreaks, novel emerging threats, and other public health emergencies that originate domestically or abroad. Such network shall be built on existing State situational awareness systems or enhanced systems that enable such connectivity.
 
-#### (2) Strategic plan
+#### (2) Strategy and implementation plan
 
-&emsp;Not later than 180 days after December 19, 2006, the Secretary shall submit to the appropriate committees of Congress, a strategic plan that demonstrates the steps the Secretary will undertake to develop, implement, and evaluate the network described in paragraph (1), utilizing the elements described in paragraph (3).
+&emsp;Not later than 180 days after March 13, 2013, the Secretary shall submit to the appropriate committees of Congress a coordinated strategy and an accompanying implementation plan that identifies and demonstrates the measurable steps the Secretary will carry out to—
+
+&emsp;&emsp;(A) develop, implement, and evaluate the network described in paragraph (1), utilizing the elements described in paragraph (3);
+
+&emsp;&emsp;(B) modernize and enhance biosurveillance activities; and
+
+&emsp;&emsp;(C) improve information sharing, coordination, and communication among disparate biosurveillance systems supported by the Department of Health and Human Services.
 
 #### (3) Elements
 
@@ -84,7 +74,7 @@
 
 &emsp;&emsp;(C) zoonotic disease monitoring systems;
 
-&emsp;&emsp;(D) public and private sector health care entities, hospitals, pharmacies, poison control centers or professional organizations in the field of poison control, and clinical laboratories, to the extent practicable and provided that such data are voluntarily provided simultaneously to the Secretary and appropriate State, local, and tribal public health agencies; and
+&emsp;&emsp;(D) public and private sector health care entities, hospitals, pharmacies, poison control centers or professional organizations in the field of poison control, community health centers, health centers and clinical laboratories, to the extent practicable and provided that such data are voluntarily provided simultaneously to the Secretary and appropriate State, local, and tribal public health agencies; and
 
 &emsp;&emsp;(E) such other sources as the Secretary may deem appropriate.
 
@@ -96,7 +86,7 @@
 
 &emsp;In establishing and operating the network described in paragraph (1), the Secretary shall—
 
-&emsp;&emsp;(A) utilize applicable interoperability standards as determined by the Secretary through a joint public and private sector process;
+&emsp;&emsp;(A) utilize applicable interoperability standards as determined by the Secretary, and in consultation with the Office of the National Coordinator for Health Information Technology, through a joint public and private sector process;
 
 &emsp;&emsp;(B) define minimal data elements for such network;
 
@@ -104,11 +94,21 @@
 
 &emsp;&emsp;(D) in collaboration with State, local, and tribal public health officials, develop procedures and standards for the collection, analysis, and interpretation of data that States, regions, or other entities collect and report to the network described in paragraph (1).
 
-#### (e) State and regional systems to enhance situational awareness in public health emergencies
+#### (6) Consultation with the National Biodefense Science Board
+
+&emsp;In carrying out this section and consistent with section 247d–7f of this title, the NationalBiodefense Science Board shall provide expert advice and guidance, including recommendations, regarding the measurable steps the Secretary should take to modernize and enhance biosurveillance activities pursuant to the efforts of the Department of Health and Human Services to ensure comprehensive, real-time, all-hazards biosurveillance capabilities. In complying with the preceding sentence, the National Biodefense Science Board shall—
+
+&emsp;&emsp;(A) identify the steps necessary to achieve a national biosurveillance system for human health, with international connectivity, where appropriate, that is predicated on State, regional, and community level capabilities and creates a networked system to allow for two-way information flow between and among Federal, State, and local government public health authorities and clinical health care providers;
+
+&emsp;&emsp;(B) identify any duplicative surveillance programs under the authority of the Secretary, or changes that are necessary to existing programs, in order to enhance and modernize such activities, minimize duplication, strengthen and streamline such activities under the authority of the Secretary, and achieve real-time and appropriate data that relate to disease activity, both human and zoonotic; and
+
+&emsp;&emsp;(C) coordinate with applicable existing advisory committees of the Director of the Centers for Disease Control and Prevention, including such advisory committees consisting of representatives from State, local, and tribal public health authorities and appropriate public and private sector health care entities and academic institutions, in order to provide guidance on public health surveillance activities.
+
+#### (d) State and regional systems to enhance situational awareness in public health emergencies
 
 #### (1) In general
 
-&emsp;To implement the network described in subsection (d), the Secretary may award grants to States or consortia of States to enhance the ability of such States or consortia of States to establish or operate a coordinated public health situational awareness system for regional or Statewide early detection of, rapid response to, and management of potentially catastrophic infectious disease outbreaks and public health emergencies, in collaboration with appropriate public health agencies, sentinel hospitals, clinical laboratories, pharmacies, poison control centers, other health care organizations, and animal health organizations within such States.
+&emsp;To implement the network described in subsection (c), the Secretary may award grants to States or consortia of States to enhance the ability of such States or consortia of States to establish or operate a coordinated public health situational awareness system for regional or Statewide early detection of, rapid response to, and management of potentially catastrophic infectious disease outbreaks and public health emergencies, in collaboration with appropriate public health agencies, sentinel hospitals, clinical laboratories, pharmacies, poison control centers, other health care organizations, and animal health organizations within such States.
 
 #### (2) Eligibility
 
@@ -136,13 +136,13 @@
 
 &emsp;&emsp;(A) interoperability and other technological standards, as determined by the Secretary; and
 
-&emsp;&emsp;(B) data collection and reporting requirements for the network described in subsection (d).
+&emsp;&emsp;(B) data collection and reporting requirements for the network described in subsection (c).
 
 #### (5) Independent evaluation
 
-&emsp;Not later than 4 years after December 19, 2006, the Government Accountability Office shall conduct an independent evaluation, and submit to the Secretary and the appropriate committees of Congress a report concerning the activities conducted under this subsection and subsection (d).
+&emsp;Not later than 3 years after March 13, 2013, the Government Accountability Office shall conduct an independent evaluation, and submit to the Secretary and the appropriate committees of Congress a report concerning the activities conducted under this subsection and subsection (c).
 
-#### (f) Telehealth enhancements for emergency response
+#### (e) Telehealth enhancements for emergency response
 
 #### (1) Evaluation
 
@@ -160,7 +160,7 @@
 
 &emsp;&emsp;(B) identify methods to expand and interconnect the regional health information networks funded by the Secretary, the State and regional broadband networks funded through the rural health care support mechanism pilot program funded by the Federal Communications Commission, and other telehealth networks;
 
-&emsp;&emsp;(C) evaluate ways to prepare for, monitor, respond rapidly to, or manage the events of,a public health emergency through the enhanced use of telehealth technologies, including mechanisms for payment or reimbursement for use of such technologies and personnel during public health emergencies;
+&emsp;&emsp;(C) evaluate ways to prepare for, monitor, respond rapidly to, or manage the events of, a public health emergency through the enhanced use of telehealth technologies, including mechanisms for payment or reimbursement for use of such technologies and personnel during public health emergencies;
 
 &emsp;&emsp;(D) identify methods for reducing legal barriers that deter health care professionals from providing telemedicine services, such as by utilizing State emergency health care professional credentialing verification systems, encouraging States to establish and implement mechanisms to improve interstate medical licensure cooperation, facilitating the exchange of information among States regarding investigations and adverse actions, and encouraging States to waive the application of licensing requirements during a public health emergency;
 
@@ -172,19 +172,61 @@
 
 &emsp;Not later than 12 months after December 19, 2006, the Secretary shall prepare and submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding the findings and recommendations pursuant to subparagraphs (A) through (F) of paragraph (1).
 
-#### (g) Authorization of appropriations
+#### (f) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section, such sums as may be necessary in each of fiscal years 2007 through 2011.
+There are authorized to be appropriated to carry out this section, $138,300,000 for each of fiscal years 2014 through 2018.
 
-(July 1, 1944, ch. 373, title III, §319D, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2318; amended Pub. L. 107–188, title I, §103, June 12, 2002, 116 Stat. 603; Pub. L. 109–417, title II, §§202, 204(b)(2), Dec. 19, 2006, 120 Stat. 2845, 2851.)
+#### (g) Definition
+
+For purposes of this section the term "biosurveillance" means the process of gathering near real-time biological data that relates to human and zoonotic disease activity and threats to human or animal health, in order to achieve early warning and identification of such health threats, early detection and prompt ongoing tracking of health events, and overall situational awareness of disease activity.
+
+(July 1, 1944, ch. 373, title III, §319D, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2318; amended Pub. L. 107–188, title I, §103, June 12, 2002, 116 Stat. 603; Pub. L. 109–417, title II, §§202, 204(b)(2), Dec. 19, 2006, 120 Stat. 2845, 2851; Pub. L. 113–5, title II, §204(a), Mar. 13, 2013, 127 Stat. 177.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–417, §202(1), inserted “domestically and abroad” after “public health threats”.
+<b>2013</b>—Subsec. (b)(1)(B). Pub. L. 113–5, §204(a)(1)(A), inserted "poison control centers," after "hospitals,".
 
-Subsec. (a)(3). Pub. L. 109–417, §204(b)(2), struck out “, taking into account evaluations under section 247d–2(a) of this title,” after “The Secretary” in introductory provisions.
+Subsec. (b)(2). Pub. L. 113–5, §204(a)(1)(B), inserted ", allowing for coordination to maximize all-hazards medical and public health preparedness and response and to minimize duplication of effort" before period at end.
+
+Subsec. (b)(3). Pub. L. 113–5, §204(a)(1)(C), inserted "and update such standards as necessary" before period at end.
+
+Subsec. (c). Pub. L. 113–5, §204(a)(4)(A), substituted "Modernizing public health situational awareness and biosurveillance" for "Public health situational awareness" in heading.
+
+Pub. L. 113–5, §204(a)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to authorization of appropriations for fiscal years 2002 through 2006.
+
+Subsec. (c)(1). Pub. L. 113–5, §204(a)(4)(B), substituted "March 13, 2013" for "December 19, 2006" and inserted ", novel emerging threats," after "disease outbreaks".
+
+Subsec. (c)(2). Pub. L. 113–5, §204(a)(4)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Not later than 180 days after December 19, 2006, the Secretary shall submit to the appropriate committees of Congress, a strategic plan that demonstrates the steps the Secretary will undertake to develop, implement, and evaluate the network described in paragraph (1), utilizing the elements described in paragraph (3)."
+
+Subsec. (c)(3)(D). Pub. L. 113–5, §204(a)(4)(D), inserted "community health centers, health centers" after "of poison control,".
+
+Subsec. (c)(5)(A). Pub. L. 113–5, §204(a)(4)(E), added subpar. (A) and struck out former subpar. (A) which read as follows: "utilize applicable interoperability standards as determined by the Secretary through a joint public and private sector process;".
+
+Subsec. (c)(6). Pub. L. 113–5, §204(a)(4)(F), added par. (6).
+
+Subsec. (d). Pub. L. 113–5, §204(a)(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+Subsec. (d)(1), (4)(B). Pub. L. 113–5, §204(a)(5)(A), (B), substituted "subsection (c)" for "subsection (d)".
+
+Subsec. (d)(5). Pub. L. 113–5, §204(a)(5)(C), substituted "3 years after March 13, 2013" for "4 years after December 19, 2006" and "subsection (c)" for "subsection (d)".
+
+Subsec. (e). Pub. L. 113–5, §204(a)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 113–5, §204(a)(3), (6), redesignated subsec. (g) as (f) and substituted "$138,300,000 for each of fiscal years 2014 through 2018" for "such sums as may be necessary in each of fiscal years 2007 through 2011". Former subsec. (f) redesignated (e).
+
+Subsec. (g). Pub. L. 113–5, §204(a)(7), added subsec. (g). Former subsec. (g) redesignated (f).
+
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–417, §202(1), inserted "domestically and abroad" after "public health threats".
+
+Subsec. (a)(3). Pub. L. 109–417, §204(b)(2), struck out ", taking into account evaluations under section 247d–2(a) of this title," after "The Secretary" in introductory provisions.
 
 Subsecs. (d) to (g). Pub. L. 109–417, §202(2), added subsecs. (d) to (g).
 
 <b>2002</b>—Pub. L. 107–188 reenacted section catchline without change and amended text generally, substituting detailed provisions relating to facilities, capacities, and national communications and surveillance networks for provisions relating to findings of need for secure and modern facilities.
+
+#### Working Capital Fund
+
+Pub. L. 113–6, div. F, title V, §1507, Mar. 26, 2013, 127 Stat. 423, provided that: "To facilitate the implementation of the permanent Working Capital Fund ('WCF') authorized in Public Law 112–74, on or after October 1, 2013, unobligated balances of amounts appropriated for business services for fiscal year 2013 shall be transferred to the WCF: <i>Provided</i>, That on or after October 1, 2013, the CDC shall transfer other amounts available for business services to other CDC appropriations consistent with the benefit each appropriation received from the business services appropriation in fiscal year 2013: <i>Provided further</i>, That assets purchased with funds appropriated for or reimbursed to business services in this or any other Act may be transferred to the WCF and customers billed for depreciation of those assets: <i>Provided further</i>, That CDC shall, consistent with the authorities provided in 42 U.S.C. 231, ensure that the WCF is used only for administrative support services and not for programmatic activity funding: <i>Provided further</i>, That CDC shall notify the Committees on Appropriations of the House of Representatives and the Senate not later than 15 days prior to any transfer made under the authority provided in this section."
+
+Pub. L. 112–74, div. F, title II, Dec. 23, 2011, 125 Stat. 1070, provided in part: "That CDC \[Centers for Disease Control and Prevention\] may establish a Working Capital Fund, with the authorities equivalent to those provided in 42 U.S.C. 231, to improve the provision of supplies and service."
 

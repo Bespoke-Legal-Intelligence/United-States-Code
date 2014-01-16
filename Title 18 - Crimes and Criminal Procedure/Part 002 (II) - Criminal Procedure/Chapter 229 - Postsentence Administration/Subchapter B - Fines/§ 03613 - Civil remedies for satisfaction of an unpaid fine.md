@@ -20,11 +20,11 @@ Lien.—A fine imposed pursuant to the provisions of subchapter C of chapter 227
 
 (d)
 
-Effect of Filing Notice of Lien.—Upon filing of a notice of lien in the manner in which a notice of tax lien would be filed under section 6323(f)(1) and (2) of the Internal Revenue Code of 1986, the lien shall be valid against any purchaser, holder of a security interest, mechanic's lienor or judgment lien creditor, except with respect to properties or transactions specified in subsection (b), (c), or (d) of section 6323 of the Internal Revenue Code of 1986 for which a notice of tax lien properly filed on the same date would not be valid. The notice of lien shall be considered a notice of lien for taxes payable to the United States for the purpose of any State or local law providing for the filing of a notice of a tax lien. A notice of lien that is registered, recorded, docketed, or indexed in accordance with the rules and requirements relating to judgments of the courts of the State where the notice of lien is registered, recorded, docketed, or indexed shall be considered for all purposes as the filing prescribed by this section. The provisions of section 3201(e) of chapter 176 of title 28 shall apply to liens filed as prescribed by this section.
+Effect of Filing Notice of Lien.—Upon filing of a notice of lien in the manner in whicha notice of tax lien would be filed under section 6323(f)(1) and (2) of the Internal Revenue Code of 1986, the lien shall be valid against any purchaser, holder of a security interest, mechanic's lienor or judgment lien creditor, except with respect to properties or transactions specified in subsection (b), (c), or (d) of section 6323 of the Internal Revenue Code of 1986 for which a notice of tax lien properly filed on the same date would not be valid. The notice of lien shall be considered a notice of lien for taxes payable to the United States for the purpose of any State or local law providing for the filing of a notice of a tax lien. A notice of lien that is registered, recorded, docketed, or indexed in accordance with the rules and requirements relating to judgments of the courts of the State where the notice of lien is registered, recorded, docketed, or indexed shall be considered for all purposes as the filing prescribed by this section. The provisions of section 3201(e) of chapter 176 of title 28 shall apply to liens filed as prescribed by this section.
 
 (e)
 
-Discharge of Debt Inapplicable.—No discharge of debts in a proceeding pursuant to any chapter of title 11, United States Code, shall discharge liability to pay a fine pursuant to this section, and a lien filed as prescribed by thissection shall not be voided in a bankruptcy proceeding.
+Discharge of Debt Inapplicable.—No discharge of debts in a proceeding pursuant to any chapter of title 11, United States Code, shall discharge liability to pay a fine pursuant to this section, and a lien filed as prescribed by this section shall not be voided in a bankruptcy proceeding.
 
 (f)
 
@@ -46,9 +46,9 @@ For a prior section 3613, applicable to offenses committed prior to Nov. 1, 1987
 
 <b>1996</b>—Pub. L. 104–132 amended section generally, reenacting section catchline without change and substituting, in subsec. (a), provisions relating to enforcement for provisions relating to lien, in subsec. (b), provisions relating to termination of liability for provisions relating to expiration of lien, in subsec. (c), provisions relating to lien for provisions relating to application of other lien provisions, in subsec. (d), provisions relating to effect of filing notice of lien for provisions relating to effect of notice of lien, in subsec. (e), provisions relating to inapplicability of bankruptcy discharges of debt for provisions relating to alternative enforcement, and in subsec. (f), provisions relating to applicability to order of restitution for provisions relating to inapplicability of bankruptcy discharges of debt.
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–647, which directed amendment of “Section 3613(c)” by striking the period before the closing quotation marks and inserting a period after such marks, without identifying a Code title or Act for section 3613, was executed by substituting “construed to mean ‘fine’.” for “construed to mean ‘fine.’ ” in subsec. (c) of this section to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (c). Pub. L. 101–647, which directed amendment of "Section 3613(c)" by striking the period before the closing quotation marks and inserting a period after such marks, without identifying a Code title or Act for section 3613, was executed by substituting "construed to mean 'fine'." for "construed to mean 'fine.' " in subsec. (c) of this section to reflect the probable intent of Congress.
 
-<b>1986</b>—Subsecs. (b) to (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
+<b>1986</b>—Subsecs. (b) to (d). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing.
 
 #### Effective Date of 1996 Amendment
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permi
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

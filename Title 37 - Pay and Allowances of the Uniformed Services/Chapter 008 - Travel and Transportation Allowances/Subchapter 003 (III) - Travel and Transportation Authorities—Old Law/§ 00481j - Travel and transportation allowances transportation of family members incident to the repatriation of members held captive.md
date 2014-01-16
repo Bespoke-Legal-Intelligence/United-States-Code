@@ -26,11 +26,11 @@ Covered Members.—A member described in this subsection is a member of the unif
 
 (c)
 
-Eligible Family Members.—In this section, the term “family member” has the meaning given the term in section 481h(b) of this title.
+Eligible Family Members.—In this section, the term "family member" has the meaning given the term in section 481h(b) of this title.
 
 (d)
 
-Travel and Transportation Authorized.—(1) The transportation authorized by subsection (a) is round-trip transportation between the home of the family member (or home of the attendant or person provided transportation under paragraph (2) or (3) of subsection (a), as the case may be) and the location of the repatriation site at which the member is located.
+Travel and Transportation Authorized.—(1) The transportation authorized by subsection (a) is round-trip transportation between the home of the family member (or home of the attendant or person provided transportation under paragraph (2) or (3) of subsection (a), asthe case may be) and the location of the repatriation site at which the member is located.
 
 (2) In addition to the transportation authorized by subsection (a), the Secretary concerned may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under section 474(d) of this title.
 
@@ -50,7 +50,7 @@ Termination.—No transportation, allowance, reimbursement, or per diem may be p
 
 <b>2013</b>—Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “481h” for “411h” in subsecs. (c) and (d)(3) and “474” for “404” in subsec. (d)(2).
+<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "481h" for "411h" in subsecs. (c) and (d)(3) and "474" for "404" in subsec. (d)(2).
 
 Pub. L. 112–81, §631(d)(2), renumbered section 411j of this title as this section.
 

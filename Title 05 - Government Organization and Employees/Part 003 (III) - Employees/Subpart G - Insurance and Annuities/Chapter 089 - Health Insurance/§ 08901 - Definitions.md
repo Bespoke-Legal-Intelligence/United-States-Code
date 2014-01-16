@@ -56,7 +56,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(i) an employee who dies as a result of injury or illness compensable under that subchapter; or
 
-&emsp;&emsp;&emsp;(ii) a former employee who is separated after having completed 5 or more years of service and who dies while receivingmonthly compensation under that subchapter and who has been held by the Secretary to have been unable to return to duty;
+&emsp;&emsp;&emsp;(ii) a former employee who is separated after having completed 5 or more years of service and who dies while receiving monthly compensation under that subchapter and who has been held by the Secretary to have been unable to return to duty;
 
 &emsp;(4) “service”, as used by paragraph (3) of this section, means service which is creditable under subchapter III of chapter 83 or chapter 84 of this title;
 
@@ -234,7 +234,7 @@ Gallaudet College, referred to in par. (1)(F), was redesignated Gallaudet Univer
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and amendment by section 2(75)(B)of Pub. L. 102–378 effective Oct. 2, 1992, see section 9(a), (b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
+Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and amendment by section 2(75)(B) of Pub. L. 102–378 effective Oct. 2, 1992, see section 9(a), (b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -272,7 +272,7 @@ Pub. L. 106–394, §1, Oct. 30, 2000, 114 Stat. 1629, provided that: “This Ac
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–266, §1, Oct. 19, 1998, 112 Stat. 2363, provided that: “This Act \[enacting section 8903b of this title, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902, 8902a, 8903b, and 8909 of this title\] may be cited as the ‘Federal Employees Health Care Protection Act of 1998’.”
+Pub. L. 105–266, §1, Oct. 19, 1998, 112 Stat. 2363, provided that: “This Act \[enacting section 8903b of this title, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902,8902a, 8903b, and 8909 of this title\] may be cited as the ‘Federal Employees Health Care Protection Act of 1998’.”
 
 #### Short Title of 1988 Amendment
 
@@ -316,7 +316,7 @@ Unmarried dependent children.—An individual who, as of the enrollment eligibil
 
 &emsp;&emsp;“(A) shall be deemed to be entitled to continued coverage under section 8905a of such title as though the individual had ceased to meet the requirements for being considered an unmarried dependent child under chapter 89 of such title as of such date; and
 
-&emsp;&emsp;“(B) may enroll in an approved health benefits plan described under section 8903 or 8903a of suchtitle in accordance with section 8905a for continued coverage effective on and after such date.
+&emsp;&emsp;“(B) may enroll in an approved health benefits plan described under section 8903 or 8903a of such title in accordance with section 8905a for continued coverage effective on and after such date.
 
 “(c)
 

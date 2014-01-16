@@ -2,7 +2,7 @@
 
 (a) There is established in the Treasury of the United States a Thrift Savings Fund.
 
-(b) The Thrift Savings Fund consists of the sum of all amounts contributed under section 8432 of this title and all amounts deposited under section 8479(b) of this title, increased by the total net earnings from investments of sums in the Thrift Savings Fund or reduced by the total net losses from investments of the Thrift Savings Fund, and reduced by the total amount of payments made from the Thrift Savings Fund (including payments for administrative expenses).
+(b) The Thrift Savings Fund consists of the sum of all amounts contributed under section 8432 of this title and all amounts deposited under section 8479(b) of this title, increased bythe total net earnings from investments of sums in the Thrift Savings Fund or reduced by the total net losses from investments of the Thrift Savings Fund, and reduced by the total amount of payments made from the Thrift Savings Fund (including payments for administrative expenses).
 
 (c) The sums in the Thrift Savings Fund are appropriated and shall remain available without fiscal year limitation—
 
@@ -38,7 +38,7 @@ Section 6331 of the Internal Revenue Code of 1986, referred to in subsec. (e)(3)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (e)(3). Pub. L. 112–267, in first sentence, substituted “659),” for “659)” and inserted “, and shallbe subject to a Federal tax levy under section 6331 of the Internal Revenue Code of 1986” before period.
+<b>2013</b>—Subsec. (e)(3). Pub. L. 112–267, in first sentence, substituted “659),” for “659)” and inserted “, and shall be subject to a Federal tax levy under section 6331 of the Internal Revenue Code of 1986” before period.
 
 <b>2009</b>—Subsec. (e)(3). Pub. L. 111–31 which directed substitution of “the enforcement of an order for restitution under section 3663A of title 18, forfeiture under section 8432(g)(5) of this title, or an obligation of the Executive Director to make a payment to another person under section 8467 of this title” for “or relating to the enforcement of a judgment for the physically, sexually, or emotionally abusing a child as provided under section 8467(a)” in the first sentence, was executed by making the substitution for “or relating to the enforcement of a judgment for physically, sexually, or emotionally abusing a child as provided under section 8467(a)”, to reflect the probable intent of Congress.
 

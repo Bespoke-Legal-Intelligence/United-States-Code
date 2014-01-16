@@ -20,11 +20,11 @@ If the office of trustee becomes vacant during the case, this section makes prov
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–554 amended subsec. (b) generally, substituting “the United States trustee may appoint” for “the court may appoint” and “manner specified in section 701(a)” for “manner and subject to the provisions of section 701 of this title”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–554 amended subsec. (b) generally, substituting "the United States trustee may appoint" for "the court may appoint" and "manner specified in section 701(a)" for "manner and subject to the provisions of section 701 of this title".
 
-Subsec. (c). Pub. L. 99–554 amended subsec. (c) generally, substituting “this section or” for “this section, or”, “then the United States trustee” for “then the court”, designating part of existing provisions as par. (1), and, as so designated, substituting “586(a)(1)” for “604(f)”, “in the case; or” for “in the case.”, and adding par. (2).
+Subsec. (c). Pub. L. 99–554 amended subsec. (c) generally, substituting "this section or" for "this section, or", "then the United States trustee" for "then the court", designating part of existing provisions as par. (1), and, as so designated, substituting "586(a)(1)" for "604(f)", "in the case; or" for "in the case.", and adding par. (2).
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–353 substituted “and subject to the provisions of section 701 of this title” for “specified in section 701(a) of this title. Sections 701(b) and 701(c) of this title apply to such interim trustee”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353 substituted "and subject to the provisions of section 701 of this title" for "specified in section 701(a) of this title. Sections 701(b) and 701(c) of this title apply to such interim trustee".
 
 #### Effective Date of 1986 Amendment
 

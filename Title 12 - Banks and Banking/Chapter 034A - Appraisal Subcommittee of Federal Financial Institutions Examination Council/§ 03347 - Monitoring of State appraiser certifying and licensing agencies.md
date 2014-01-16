@@ -44,13 +44,13 @@ The Federal financial institutions, <sup>1</sup> regulatory agencies, the Feder
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title XI of Pub. L. 101–73, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original "this title", meaning title XI of Pub. L. 101–73, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1473(k)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Appraisal Subcommittee shall monitor State appraiser certifying and licensing agencies for the purpose of determining whether a State agency's policies, practices, and procedures are consistent with this chapter. The Appraisal Subcommittee and all agencies, instrumentalities, and federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, or procedures are found to be inconsistent with this chapter.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1473(k)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Appraisal Subcommittee shall monitor State appraiser certifying and licensing agencies for the purpose of determining whether a State agency's policies, practices, and procedures are consistent with this chapter. The Appraisal Subcommittee and all agencies, instrumentalities, and federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, or procedures are found to be inconsistent with this chapter."
 
-Subsec. (b)(2). Pub. L. 111–203, §1473(k)(2), inserted “or sufficient funding” after “authority”.
+Subsec. (b)(2). Pub. L. 111–203, §1473(k)(2), inserted "or sufficient funding" after "authority".
 
 #### Effective Date of 2010 Amendment
 

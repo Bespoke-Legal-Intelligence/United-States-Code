@@ -6,9 +6,9 @@ Nothing in this subchapter shall be construed to prevent the several States and 
 
 #### Amendments
 
-<b>1936</b>—Act June 20, 1936, substituted “conventions” for “convention”.
+<b>1936</b>—Act June 20, 1936, substituted "conventions" for "convention".
 
 #### Effective Date of 1936 Amendment
 
-Act June 20, 1936, ch. 634, §2, 49 Stat. 1556, provided in part that the amendment by section 2 is effective as ofthe day aforesaid (June 30, 1937). See note under section 703 of this title.
+Act June 20, 1936, ch. 634, §2, 49 Stat. 1556, provided in part that the amendment by section 2 is effective as of the day aforesaid (June 30, 1937). See note under section 703 of this title.
 

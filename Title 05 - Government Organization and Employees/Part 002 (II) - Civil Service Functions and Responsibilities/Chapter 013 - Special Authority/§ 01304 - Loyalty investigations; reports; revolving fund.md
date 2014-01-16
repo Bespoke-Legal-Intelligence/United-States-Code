@@ -12,7 +12,7 @@
 
 (c) When the President considers it in the national interest, he may have the investigations of a group or class, which are required by subsection (a) of this section, made by the Federal Bureau of Investigation rather than the Office.
 
-(d) The investigation and report required by subsection (a) of this section shall be made bythe Federal Bureau of Investigation rather than the Office for those specific positions which the Secretary of State certifies are of a high degree of importance or sensitivity.
+(d) The investigation and report required by subsection (a) of this section shall be made by the Federal Bureau of Investigation rather than the Office for those specific positions which the Secretary of State certifies are of a high degree of importance or sensitivity.
 
 (e)(1) A revolving fund is available, to the Office without fiscal year limitation, for financing investigations, training, and such other functions as the Office is authorized or required to perform on a reimbursable basis, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities. However, the functions which may be financed in any fiscal year by the fund are restricted to those functions which are covered by the budget estimates submitted to the Congress for that fiscal year. To the maximum extent feasible, each individual activity shall be conducted generally on an actual cost basis over a reasonable period of time.
 

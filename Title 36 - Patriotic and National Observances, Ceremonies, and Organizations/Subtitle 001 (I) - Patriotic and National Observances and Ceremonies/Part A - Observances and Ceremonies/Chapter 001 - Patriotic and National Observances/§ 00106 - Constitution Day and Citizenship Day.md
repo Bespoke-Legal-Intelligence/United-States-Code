@@ -36,13 +36,13 @@ Feb. 29, 1952, ch. 49, §1, 66 Stat. 9.
 
 106(b)
 
-36:153 (1st par. 14th word–words before “and the President”).
+36:153 (1st par. 14th word–words before "and the President").
 
 &nbsp;
 
 106(c)
 
-36:153 (1st par. words after “of citizenship”).
+36:153 (1st par. words after "of citizenship").
 
 &nbsp;
 
@@ -56,29 +56,29 @@ In subsection (d), the text of 36:153 (last par.) is omitted as obsolete.
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–447, §111(c)(1)(A), inserted “Constitution Day and” before “Citizenship Day” in section catchline.
+<b>2004</b>—Pub. L. 108–447, §111(c)(1)(A), inserted "Constitution Day and" before "Citizenship Day" in section catchline.
 
-Subsec. (a). Pub. L. 108–447, §111(c)(1)(B), substituted “is designated as Constitution Day and Citizenship Day” for “is Citizenship Day”.
+Subsec. (a). Pub. L. 108–447, §111(c)(1)(B), substituted "is designated as Constitution Day and Citizenship Day" for "is Citizenship Day".
 
-Subsec. (b). Pub. L. 108–447, §111(c)(1)(C), inserted “Constitution Day and” before “Citizenship Day” and substituted “commemorate” for “commemorates” and “recognize” for “recognizes”.
+Subsec. (b). Pub. L. 108–447, §111(c)(1)(C), inserted "Constitution Day and" before "Citizenship Day" and substituted "commemorate" for "commemorates" and "recognize" for "recognizes".
 
-Subsec. (c). Pub. L. 108–447, §111(c)(1)(D), inserted “Constitution Day and” before “Citizenship Day” in two places.
+Subsec. (c). Pub. L. 108–447, §111(c)(1)(D), inserted "Constitution Day and" before "Citizenship Day" in two places.
 
-Subsec. (d). Pub. L. 108–447, §111(c)(1)(E), inserted “Constitution Day and” before “Citizenship Day”.
+Subsec. (d). Pub. L. 108–447, §111(c)(1)(E), inserted "Constitution Day and" before "Citizenship Day".
 
 #### Educational and Training Materials for New Federal Employees Concerning the U.S. Constitution
 
 Pub. L. 108–447, div. J, title I, §111, Dec. 8, 2004, 118 Stat. 3344, provided that:
 
-“(a) The head of each Federal agency or department shall—
+"(a) The head of each Federal agency or department shall—
 
-&emsp;“(1) provide each new employee of the agency or department with educational and training materials concerning the United States Constitution as part of the orientation materials provided to the new employee; and
+&emsp;"(1) provide each new employee of the agency or department with educational and training materials concerning the United States Constitution as part of the orientation materials provided to the new employee; and
 
-&emsp;“(2) provide educational and training materials concerning the United States Constitution to each employee of the agency or department on September 17 of each year.
+&emsp;"(2) provide educational and training materials concerning the United States Constitution to each employee of the agency or department on September 17 of each year.
 
-“(b) Each educational institution that receives Federal funds for a fiscal year shall hold an educational program on the United States Constitution on September 17 of such year for the students served by the educational institution.
+"(b) Each educational institution that receives Federal funds for a fiscal year shall hold an educational program on the United States Constitution on September 17 of such year for the students served by the educational institution.
 
-“(c) \[Amended section 106 of this title and table of contents of this chapter.\]
+"(c) \[Amended section 106 of this title and table of contents of this chapter.\]
 
-“(d) This section shall be without fiscal year limitation.”
+"(d) This section shall be without fiscal year limitation."
 

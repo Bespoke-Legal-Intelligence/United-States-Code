@@ -12,7 +12,7 @@
 
 #### (2) Definition
 
-&emsp;For purposes of this section, the term “HIPAA privacy and security law” means—
+&emsp;For purposes of this section, the term "HIPAA privacy and security law" means—
 
 &emsp;&emsp;(A) the provisions of part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\], section 264 of the Health Insurance Portability and Accountability Act of 1996, and subtitle D of title IV <sup>1</sup> of the Health Information Technology for Economic and Clinical Health Act; and
 

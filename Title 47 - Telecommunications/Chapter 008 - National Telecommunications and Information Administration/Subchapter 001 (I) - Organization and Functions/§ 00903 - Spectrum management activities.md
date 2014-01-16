@@ -2,7 +2,7 @@
 
 #### (a) Revision of regulations
 
-Within 180 days after October 27, 1992, the Secretary of Commerce and the NTIA shall amend the Department of Commerce spectrum management document entitled “Manual of Regulations and Procedures for Federal Radio Frequency Management” to improve Federal spectrum management activities and shall publish in the Federal Register any changes in the regulations in such document.
+Within 180 days after October 27, 1992, the Secretary of Commerce and the NTIA shall amend the Department of Commerce spectrum management document entitled "Manual of Regulations and Procedures for Federal Radio Frequency Management" to improve Federal spectrum management activities and shall publish in the Federal Register any changes in the regulations in such document.
 
 #### (b) Requirements for revisions
 
@@ -44,7 +44,7 @@ Not later than 180 days after October 27, 1992, the Secretary of Commerce shall 
 
 #### (1) Amendment to manual required
 
-&emsp;Within 90 days after August 10, 1993, the Secretary and the NTIA shall amend the spectrummanagement document described in subsection (a) of this section to require that—
+&emsp;Within 90 days after August 10, 1993, the Secretary and the NTIA shall amend the spectrum management document described in subsection (a) of this section to require that—
 
 &emsp;&emsp;(A) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year after August 10, 1993, to operate a radio station utilizing a frequency that is authorized for the use of government stations pursuant to section 902(b)(2)(A) of this title for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission; and
 
@@ -74,7 +74,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Authorization of Use of Spectrum By, and Provision of Spectrum Functions to, Federal Entity; Reimbursement
 
-Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 71, provided in part: “That hereafter, notwithstanding any other provision of law, NTIA \[National Telecommunications and Information Administration\] shall not authorize spectrum use or provide any spectrum functions pursuant to the National Telecommunications and Information Administration Organization Act, 47 U.S.C. 902–903 \[47 U.S.C. 901 et seq.\], to any Federal entity without reimbursement as required by NTIA for such spectrum management costs, and Federal entities withholding payment of such cost shall not use spectrum”.
+Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 71, provided in part: "That hereafter, notwithstanding any other provision of law, NTIA \[National Telecommunications and Information Administration\] shall not authorize spectrum use or provide any spectrum functions pursuant to the National Telecommunications and Information Administration Organization Act, 47 U.S.C. 902–903 \[47 U.S.C. 901 et seq.\], to any Federal entity without reimbursement as required by NTIA for such spectrum management costs, and Federal entities withholding payment of such cost shall not use spectrum".
 
 Similar provisions were contained in the following prior appropriation acts:
 

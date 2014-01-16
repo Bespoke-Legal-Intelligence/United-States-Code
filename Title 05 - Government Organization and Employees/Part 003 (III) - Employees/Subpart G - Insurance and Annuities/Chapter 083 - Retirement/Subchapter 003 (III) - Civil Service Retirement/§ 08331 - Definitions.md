@@ -52,9 +52,9 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(xi) an employee under the Botanic Garden excluded by the Director or Acting Director of the Botanic Garden under section 8347(l) of this title; or
 
-&emsp;&emsp;(xii) a member of the Foreign Service (as described in section 103(6) of the Foreign Service Act of 1980), appointed after December 31, 1987.
+&emsp;&emsp;(xii) a member of the Foreign Service (as described in section 103(6) of the ForeignService Act of 1980), appointed after December 31, 1987.
 
-> &emsp;Notwithstanding this paragraph, the employment of a teacher in the recess period between two school years in a position other than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this subchapter. For the purpose of thepreceding sentence, “teacher” and “teaching position” have the meanings given them by section 901 of title 20;
+> &emsp;Notwithstanding this paragraph, the employment of a teacher in the recess period between two school years in a position other than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this subchapter. For the purpose of the preceding sentence, “teacher” and “teaching position” have the meanings given them by section 901 of title 20;
 
 &emsp;(2) “Member” means a Member of Congress as defined by section 2106 of this title, after he gives notice in writing to the official by whom he is paid of his desire to become subject to this subchapter, but does not include any such Member of Congress who is subject to the Federal Employees’ Retirement System or who makes an election under section 8401(20) of this title not to be subject to such System;
 
@@ -124,7 +124,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(C) as a commissioned officer of the Environmental Science Services Administration after June 30, 1961;
 
-> &emsp;and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interruptscreditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
+> &emsp;and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
 
 &emsp;(14) “Member service” means service as a Member and includes the period from the date of the beginning of the term for which elected or appointed to the date on which he takes office as a Member;
 
@@ -182,7 +182,7 @@ For the purpose of this subchapter—
 
 &emsp;(25) “magistrate judge” or “United States magistrate judge” means an individual appointed under section 631 of title 28;
 
-&emsp;(26) “Court of Federal Claims judge” means a judge of the United States Court of Federal Claims who is appointed under chapter 7 of title 28 or who has served under section 167 of the Federal Courts Improvement Act of 1982;
+&emsp;(26) “Court of Federal Claims judge” means a judge of the United States Court of FederalClaims who is appointed under chapter 7 of title 28 or who has served under section 167 of the Federal Courts Improvement Act of 1982;
 
 &emsp;(27) “Nuclear materials courier”—
 
@@ -504,7 +504,7 @@ Pub. L. 98–271 substituted “May 25, 1984” for “April 30, 1984”.
 
 Pub. L. 98–249 substituted “April 30, 1984” for “March 31, 1984”.
 
-Par. (22)(B). Pub. L. 98–531 substituted “whose service as United States bankruptcy judge at any time in the period beginning on October 1, 1979, and ending on July 10, 1984, is terminated by reason of death or disability” for “whose service as a United States bankruptcy judge during the period beginning on October 1, 1979, and ending on the date of enactment of the Bankruptcy Amendments and Federal Judgeship Act of 1984 is terminated by reason of death or disability”.
+Par. (22)(B). Pub. L. 98–531 substituted “whose service as United States bankruptcy judge at any time in the period beginning on October 1, 1979, and ending on July 10, 1984, is terminated by reason of death or disability” for “whose service as a United States bankruptcy judge during the period beginning on October 1, 1979, and ending on the date of enactment of the BankruptcyAmendments and Federal Judgeship Act of 1984 is terminated by reason of death or disability”.
 
 Pub. L. 98–353, §116(a)(3)(A), substituted “period beginning on October 1, 1979, and ending on the date of enactment of the Bankruptcy Amendments and Federal Judgeship Act of 1984” for “transition period”.
 
@@ -600,7 +600,7 @@ Amendment by Pub. L. 103–353 effective with respect to reemployments initiated
 
 #### Effective Date of 1993 Amendment
 
-Section 13812(c)(1) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amending this section\] take effect on January 1, 1994, and apply only with respect to service performed on or after such date.”
+Section 13812(c)(1) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amendingthis section\] take effect on January 1, 1994, and apply only with respect to service performed on or after such date.”
 
 #### Effective Date of 1992 Amendments
 
@@ -610,7 +610,7 @@ Amendment by section 2(57)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and a
 
 #### Effective Date of 1990 Amendments
 
-Section 306(f) of Pub. L. 101–650, as amended by Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat.4516, provided that: “This section and the amendments made by this section \[enacting section 8440b \[now 8440c\] of this title and section 178 of Title 28, Judiciary and Judicial Procedure and amending this section, sections 8334, 8336, 8339, and 8402 of this title, and sections 376 and 604 of Title 28\] shall apply to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after the date of the enactment of this Act \[Dec. 1, 1990\].”
+Section 306(f) of Pub. L. 101–650, as amended by Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, provided that: “This section and the amendments made by this section \[enacting section 8440b \[now 8440c\] of this title and section 178 of Title 28, Judiciary and Judicial Procedure and amending this section, sections 8334, 8336, 8339, and 8402 of this title, and sections 376 and 604 of Title 28\] shall apply to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after the date of the enactment of this Act \[Dec. 1, 1990\].”
 
 Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
@@ -672,7 +672,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–737 applicable with respect to premium pay payable from and after first day of first pay period which begins after Nov. 2, 1966, see section 4 of Pub. L. 89–737, set out in the note under section 8114 of this title.
+Amendment by Pub. L. 89–737 applicable with respect to premium pay payable from and after first day offirst pay period which begins after Nov. 2, 1966, see section 4 of Pub. L. 89–737, set out in the note under section 8114 of this title.
 
 #### Short Title of 1994 Amendment
 
@@ -776,7 +776,7 @@ Supreme Court Police Retirement.—
 
 &emsp;“(1)
 
-Service deemed to be service as law enforcement officer.—Any period of service performed before the effective date of this section by an individual as a member of the Supreme Court Police, who is such a member on such date, shall be deemed to be service performed as a law enforcement officer for purposes of chapters 83 and 84 of title 5, United States Code. Notwithstanding any amendment made by this section, any period of service performed before the effective date of this section by an individual as a member of the Supreme Court Police, who is not such a member on such date, shall be employee service for purposes of chapters 83 and 84 of title 5, United States Code.
+Service deemed to be service as law enforcement officer.—Any period of service performed before the effective date of this section by an individual as a member of the Supreme Court Police, who is such a member on such date, shall be deemed to be service performed as a law enforcement officer for purposes of chapters 83 and 84 of title 5, United States Code. Notwithstanding any amendment made by this section, any period of service performed before the effective date of this section by an individual as amember of the Supreme Court Police, who is not such a member on such date, shall be employee service for purposes of chapters 83 and 84 of title 5, United States Code.
 
 &emsp;“(2)
 
@@ -1070,7 +1070,7 @@ Reduced benefit.—If—
 
 &emsp;&emsp;“(B) a FERS basic employee death benefit under section 8442(b) of title 5, United States Code, was previously paid,
 
-> &emsp;then the survivor's CSRS-Offset benefit shall be subject to a reduction, under regulations prescribed by the Office. The reduced annuity to which the individual is entitled shall be equal to an amount which, when taken together with the amount of the paymentreferred to under subparagraph (B) would result in the present value of the total being actuarially equivalent to the present value of an unreduced CSRS-Offset annuity that would have been provided the individual.
+> &emsp;then the survivor's CSRS-Offset benefit shall be subject to a reduction, under regulations prescribed by the Office. The reduced annuity to which the individual is entitled shall be equal to an amount which, when taken together with the amount of the payment referred to under subparagraph (B) would result in the present value of the total being actuarially equivalent to the present value of an unreduced CSRS-Offset annuity that would have been provided the individual.
 
 &emsp;“(5)
 
@@ -1200,7 +1200,7 @@ Nonelection.—If the individual does not make an election before the date provi
 
 &emsp;“(3)
 
-Employee contributions in thrift savings fund.—If under this section, an individual elects to be Social Security-Only covered, CSRS covered, or CSRS-Offset covered, all employee contributions to the Thrift Savings Fund made during the period of erroneous FERS coverage (and all earnings on such contributions) may remain in the Thrift SavingsFund in accordance with regulations prescribed by the Executive Director, notwithstanding any limit under section 8351 or 8432 of title 5, United States Code.
+Employee contributions in thrift savings fund.—If under this section, an individual elects to be Social Security-Only covered, CSRS covered, or CSRS-Offset covered, all employee contributions to the Thrift Savings Fund made during the period of erroneous FERS coverage (and all earnings on such contributions) may remain in the Thrift Savings Fund in accordance with regulations prescribed by the Executive Director, notwithstanding any limit under section 8351 or 8432 of title 5, United States Code.
 
 &emsp;“(4)
 
@@ -1418,7 +1418,7 @@ Payment of OASDI Employer Taxes.—
 
 &emsp;“(1)
 
-In general.—Each employing agency shall pay an amount equal to the OASDI employer taxes owed with respect to covered individuals during the applicable period of erroneous coverage (as adjusted by amounts transferred for the payment of such taxes as a result of corrections made, including corrections made before the date of the enactment of this Act \[Sept. 19, 2000\]).
+In general.—Each employing agency shall pay an amount equal to the OASDI employer taxes owedwith respect to covered individuals during the applicable period of erroneous coverage (as adjusted by amounts transferred for the payment of such taxes as a result of corrections made, including corrections made before the date of the enactment of this Act \[Sept. 19, 2000\]).
 
 &emsp;“(2)
 
@@ -1444,7 +1444,7 @@ In general.—
 
 &emsp;&emsp;“(A)
 
-Payment.—With respect to an individual to whom this section applies, the employing agencyshall pay to the Thrift Savings Fund under subchapter III of chapter 84 of title 5, United States Code, for credit to the account of the employee involved, an amount equal to the earnings which are disallowed under section 8432a(a)(2) of such title on the employee's retroactive contributions to such Fund.
+Payment.—With respect to an individual to whom this section applies, the employing agency shall pay to the Thrift Savings Fund under subchapter III of chapter 84 of title 5, United States Code, for credit to the account of the employee involved, an amount equal to the earnings which are disallowed under section 8432a(a)(2) of such title on the employee's retroactive contributions to such Fund.
 
 &emsp;&emsp;“(B)
 
@@ -1624,7 +1624,7 @@ Computation of Average Pay.—(1)(A) This paragraph applies to a converted emplo
 
 “(2)(A) This paragraph applies to a converted employee who was a prevailing rate employee (as defined under section 5342(2) \[5342(a)(2)\] of title 5, United States Code) immediately before the employee's covered separation from Federal service.
 
-“(B) For purposes of computing the deferred annuity for a converted employee referred to in subparagraph (A), the average pay of the converted employee, computed under section 8331(4) of title 5, United States Code, as of the date of the employee's covered separation from Federal service, shall be adjusted at the same time and by the same percentage that pay rates for positions that are in the same area as, and are comparable to, the last position the converted employee held as a prevailing rate employee, are increased undersection 5343(a) of such title during the period beginning on that date and ending on the date on which the converted employee attains early deferred retirement age.
+“(B) For purposes of computing the deferred annuity for a converted employee referred to in subparagraph (A), the average pay of the converted employee, computed under section 8331(4) of title 5, United States Code, as of the date of the employee's covered separation from Federal service, shall be adjusted at the same time and by the same percentage that pay rates for positions that are in the same area as, and are comparable to, the last position the converted employee held as a prevailing rate employee, are increased under section 5343(a) of such title during the period beginning on that date and ending on the date on which the converted employee attains early deferred retirement age.
 
 “(e)
 
@@ -1942,7 +1942,7 @@ General and Special Rules.—All provisions of chapter 84 of title 5, United Sta
 
 &emsp;“(9) In computing the annuity under paragraph (3) for an individual retiring under section 8412(g) or 8413(b) of title 5, United States Code, the reduction under section 8415(g) \[now 8415(h)\] of such title shall apply with respect to the sum computed under such paragraph.
 
-&emsp;“(10) An annuity supplement under section 8421 of title 5, United States Code, shall be computed using the same service as is used for the computation under paragraph (5).
+&emsp;“(10) An annuity supplement under section 8421 of title 5, United States Code, shall be computed usingthe same service as is used for the computation under paragraph (5).
 
 &emsp;“(11) Effective from its commencing date, an annuity payable to an annuitant's survivor (other than a child under section 8443 of title 5, United States Code) shall be increased by the total percent by which the deceased annuitant's annuity was increased under paragraph (7).
 
@@ -1950,7 +1950,7 @@ General and Special Rules.—All provisions of chapter 84 of title 5, United Sta
 
 &emsp;“(ii) Notwithstanding any provision of section 301, an election under such section shall not be available to any reemployed annuitant who would be excluded from the operation of chapter 84 of title 5, United States Code, under section 8402(c) of such title (relating to exclusions based on the temporary or intermittent nature of one's employment).
 
-&emsp;“(B) If the annuitant serves on a full-time basis for at least 1 year, or on a part-time basis for periodsequivalent to at least 1 year of full-time service, such annuitant's annuity, on termination of reemployment, shall be increased by an annuity computed—
+&emsp;“(B) If the annuitant serves on a full-time basis for at least 1 year, or on a part-time basis for periods equivalent to at least 1 year of full-time service, such annuitant's annuity, on termination of reemployment, shall be increased by an annuity computed—
 
 &emsp;&emsp;“(i) with respect to reemployment service before the effective date of the election, under section 8339(a), (b), (d), (e), (h), (i), and (n) of title 5, United States Code, as may apply based on the reemployment in which such annuitant was engaged before such effective date; and
 
@@ -2076,7 +2076,7 @@ Pub. L. 98–369, div. B, title II, §2206, July 18, 1984, 98 Stat. 1059, provid
 
 #### Federal Employees’ Retirement Contribution Temporary Adjustment
 
-Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 99–190, §147, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 99–335, title III, §§305(a), 309, June 6, 1986, 100 Stat. 606, 607; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 99–190, §147, Dec. 19, 1985, 99 Stat.1324; Pub. L. 99–335, title III, §§305(a), 309, June 6, 1986, 100 Stat. 606, 607; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 #### “short title
 
@@ -2110,7 +2110,7 @@ Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 
 
 &emsp;&emsp;“(B) the Foreign Service Retirement and Disability System under chapter 8 of the Foreign Service Act of 1980 (22 U.S.C. 4041 et seq.);
 
-&emsp;&emsp;“(C) the Central Intelligence Agency Retirement and Disability System under the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (50 U.S.C. 403 note); and
+&emsp;&emsp;“(C) the Central Intelligence Agency Retirement and Disability System under the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (\[former\] 50 U.S.C. 403 note); and
 
 &emsp;&emsp;“(D) any other retirement system (other than a new Government retirement system) under which a covered employee who is a participant in the system is required to make contributions to the system in an amount equal to a portion of the participant's basic pay for covered service, as determined by the President;
 
@@ -2128,13 +2128,13 @@ Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 
 
 &emsp;“(2) section 805 of the Foreign Service Act of 1980 (22 U.S.C. 4045);
 
-&emsp;“(3) section 211 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (50 U.S.C. 403 note); or
+&emsp;“(3) section 211 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (\[former\] 50 U.S.C. 403 note); or
 
 &emsp;“(4) any provision of any other covered retirement system which requires a participant in the system to make contributions of a portion of the basic pay of the participant;
 
 > for covered service which is performed after December 31, 1983, and before the earlier of the effective date of a new Government retirement system or January 1, 1987. Deductions shall be made and withheld as provided by such provisions in the case of covered service which is performed on or after such effective date or January 1, 1987, as the case may be, and is not subject to a new Government retirement system.
 
-“(b) Employing agencies of the Government shall make contributions with respect to service to which subsection (a) of this section applies under the second sentence of section 8334(a)(1) of title 5, United States Code, the second sentence of section 805(a) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)), the second sentence of section 211(a) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (50 U.S.C. 403 note), and any provision of any other covered retirement system requiring a contribution by the employing agency, as if subsection (a) of this section had not been enacted.
+“(b) Employing agencies of the Government shall make contributions with respect to service to which subsection (a) of this section applies under the second sentence of section 8334(a)(1) of title 5, United States Code, the second sentence of section 805(a) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)), the second sentence of section 211(a) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (\[former\] 50 U.S.C. 403 note), and any provision of any other covered retirement system requiring a contribution by the employing agency, as if subsection (a) of this section had not been enacted.
 
 #### “reimbursement for contribution deficiency
 
@@ -2152,7 +2152,7 @@ Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 
 
 &emsp;&emsp;“(B) the Secretary of State, with respect to the Foreign Service Retirement and Disability System under chapter 8 of the Foreign Service Retirement Act of 1980 (22 U.S.C. 404 et seq.) \[22 U.S.C. 4041 et seq.\];
 
-&emsp;&emsp;“(C) the Director of Central Intelligence, with respect to the Central Intelligence Agency Retirement and Disability System under the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (50 U.S.C. 403 note); and
+&emsp;&emsp;“(C) the Director of Central Intelligence, with respect to the Central Intelligence Agency Retirement and Disability System under the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (\[former\] 50 U.S.C. 403 note); and
 
 &emsp;&emsp;“(D) the officer designated by the President for that purpose in the case of any retirement system described in section 203(a)(2)(D) of this Act.
 
@@ -2162,7 +2162,7 @@ Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 
 
 &emsp;“(2) shall notify the Secretary of the Treasury of the amount of the contribution deficiency in each such case.
 
-“(c) Before closing the accounts for each of fiscal years 1984, 1985, 1986, and 1987, the Secretary of the Treasury shall credit to the fund established for the payment of benefits under each covered retirement system, as a Government contribution, out of any moneyin the Treasury not otherwise appropriated, an amount equal to the amount determined under subsection (b) with respect to that covered retirement system for the fiscal year involved.
+“(c) Before closing the accounts for each of fiscal years 1984, 1985, 1986, and 1987, the Secretary of the Treasury shall credit to the fund established for the payment of benefits under each covered retirement system, as a Government contribution, out of any money in the Treasury not otherwise appropriated, an amount equal to the amount determined under subsection (b) with respect to that covered retirement system for the fiscal year involved.
 
 “(d) Amounts credited to a fund under subsection (c) shall be accounted for separately than amounts credited to such fund under any other provision of law.
 
@@ -2198,7 +2198,7 @@ Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 
 
 &emsp;“(2) the amount which was deducted and withheld from such basic pay for such interim covered service pursuant to section 204(a) and was not refunded to such covered employee.
 
-“(g) For the purpose of subsections (b)(2)(B) and (c)(2), the portion of the amount of the benefits which is payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] to an individual and is attributable to interim covered service shall be determined by—
+“(g) For the purpose of subsections (b)(2)(B) and (c)(2), the portion of the amount of the benefits whichis payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] to an individual and is attributable to interim covered service shall be determined by—
 
 &emsp;“(1) computing the amount of such benefits including credit for such service;
 
@@ -2242,7 +2242,7 @@ Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 
 
 “(3) For purposes of this subsection, the term ‘retirement system’ means a covered retirement system as defined by section 203(a)(2) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 (97 Stat. 1107; 5 U.S.C. 8331 note).”\]
 
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.\]
 
 \[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 98–168, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, is known as the Central Intelligence Agency Retirement Act and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
 
@@ -2272,7 +2272,7 @@ Section 13 of Pub. L. 85–550, July 25, 1958, 72 Stat. 410, as amended by Pub. 
 
 &emsp;“(1) the rights of any individual existing immediately prior to such first day of such first pay period above specified, or
 
-&emsp;“(2) the continuing obligations of the Canal Zone Government and the Panama Canal Company under section 4(a) of the Civil Service Retirement Act (5 U.S.C. 2254(a)) \[section 8334(a) of this title\], to reimburse the civil service retirement and disability fund for Government contributions to such fund covering service performed, on or after such first day of such first pay period above specified, by the employees concerned.”
+&emsp;“(2) the continuing obligations of the Canal Zone Government and the Panama Canal Company under section 4(a) of the Civil Service Retirement Act (5 U.S.C. 2254(a)) \[section 8334(a) of this title\], to reimburse the civil service retirement and disability fund for Government contributions to such fund covering service performed, on or after such first day of suchfirst pay period above specified, by the employees concerned.”
 
 #### Members of Civilian Faculties of United States Naval Academy and United States Naval Postgraduate School
 
@@ -2280,7 +2280,7 @@ Section 402 of act July 31, 1956, ch. 804, title IV, 70 Stat. 760, provided that
 
 “(a) On and after the effective date of this title \[on the first day of the first month beginning more than sixty days after July 31, 1956\] persons employed as members of the civilian faculties of the United States Naval Academy and the United States Naval Postgraduate School shall be included within the terms of the Civil Service Retirement Act \[this subchapter\], and on and after that date the Act of January 16, 1936 (49 Stat. 1092), as amended \[covered by section 7081 et seq. of Title 10, Armed Forces\] shall not apply to such persons.
 
-“(b) In lieu of the deposit prescribed by section 4(c) of the Civil Service Retirement Act \[section 8334(c) of this title\] an employee who by virtue of subsection (a) is included within the terms of such Act \[this subchapter\] shall deposit, for service rendered prior to the effective date of this title as a member of the civilian faculty of the United States Naval Academy or of the United States Naval Postgraduate School, a sum equal to so much of the repurchase price of his annuity policy carried as required by the Act of January 16, 1936, as amended \[covered by section 7081 et seq. of Title 10, Armed Forces\], as is based on the monthly allotments which were registered with the Navy Allotment Officetoward the purchase of that annuity, the deposit to be made within six months after the effective date of this title. Should the deposit not be made within that period no credit shall be allowed under the Civil Service Retirement Act \[this subchapter\] for service rendered as a member of the civilian faculty of the United States Naval Academy or of the United States Naval Postgraduate School subsequent to July 31, 1920, and prior to the effective date of this title. If the deposit is made, such service shall be held and considered to be service during which the employee was subject to the Civil Service Retirement Act \[this subchapter\].”
+“(b) In lieu of the deposit prescribed by section 4(c) of the Civil Service Retirement Act \[section 8334(c) of this title\] an employee who by virtue of subsection (a) is included within the terms of such Act \[this subchapter\] shall deposit, for service rendered prior to the effective date of this title as a member of the civilian faculty of the United States Naval Academy or of the United States Naval Postgraduate School, a sum equal to so much of the repurchase price of his annuity policy carried as required by the Act of January 16, 1936, as amended \[covered by section 7081 et seq. of Title 10, Armed Forces\], as is based on the monthly allotments which were registered with the Navy Allotment Office toward the purchase of that annuity, the deposit to be made within six months after the effective date of this title. Should the deposit not be made within that period no credit shall be allowed under the Civil Service Retirement Act \[this subchapter\] for service rendered as a member of the civilian faculty of the United States Naval Academy or of the United States Naval Postgraduate School subsequent to July 31, 1920, and prior to the effective date of this title. If the deposit is made, such service shall be held and considered to be service during which the employee was subject to the Civil Service Retirement Act \[this subchapter\].”
 
 #### Ex. Ord. No. 12461. Designation as a Federal Retirement System
 

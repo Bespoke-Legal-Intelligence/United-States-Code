@@ -32,13 +32,13 @@ Provisions similar to those in this section were contained in section 787a of th
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–106 substituted “section 12646 of title 10” for “section 1006 of title 10”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–106 substituted "section 12646 of title 10" for "section 1006 of title 10".
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–337, which directed amendment of subsec. (b) by substituting “section 12646 of title 10” for “section 1006 of title 10”, could not be executed because the words “section 1006 of title 10” did not appear in subsec. (b).
+<b>1994</b>—Subsec. (b). Pub. L. 103–337, which directed amendment of subsec. (b) by substituting "section 12646 of title 10" for "section 1006 of title 10", could not be executed because the words "section 1006 of title 10" did not appear in subsec. (b).
 
-<b>1993</b>—Pub. L. 103–206 in subsec. (a) in first sentence substituted “, except those officers who—” and pars. (1) to (4) for “and are not on active duty and not on an approved list of selectees for promotion to the next higher grade”, realigned margin of second sentence, inserted “(b)” before “This board shall—” in third sentence and realigned margin, and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1993</b>—Pub. L. 103–206 in subsec. (a) in first sentence substituted ", except those officers who—" and pars. (1) to (4) for "and are not on active duty and not on an approved list of selectees for promotion to the next higher grade", realigned margin of second sentence, inserted "(b)" before "This board shall—" in third sentence and realigned margin, and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–225 inserted “who have 18 years or more of service for retirement and are” before “not on active duty”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–225 inserted "who have 18 years or more of service for retirement and are" before "not on active duty".
 
 #### Effective Date of 1996 Amendment
 

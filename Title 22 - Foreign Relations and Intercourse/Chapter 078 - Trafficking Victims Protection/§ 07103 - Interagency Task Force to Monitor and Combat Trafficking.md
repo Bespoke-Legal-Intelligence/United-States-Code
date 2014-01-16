@@ -24,27 +24,37 @@ The Task Force shall carry out the following activities:
 
 &emsp;(4) Engage in efforts to facilitate cooperation among countries of origin, transit, and destination. Such efforts shall aim to strengthen local and regional capacities to prevent trafficking, prosecute traffickers and assist trafficking victims, and shall include initiatives to enhance cooperative efforts between destination countries and countries of origin and assist in the appropriate reintegration of stateless victims of trafficking.
 
-&emsp;(5) Examine the role of the international “sex tourism” industry in the trafficking of persons and in the sexual exploitation of women and children around the world.
+&emsp;(5) Examine the role of the international "sex tourism" industry in the trafficking of persons and in the sexual exploitation of women and children around the world.
 
-&emsp;(6) Engage in consultation and advocacy with governmental and nongovernmental organizations, among other entities, to advance the purposes of this chapter.
+&emsp;(6) Engage in consultation and advocacy with governmental and nongovernmental organizations, among other entities, to advance the purposes of this chapter, and make reasonable efforts to distribute information to enable all relevant Federal Government agencies to publicize the National Human Trafficking Resource Center Hotline on their websites, in all headquarters offices, and in all field offices throughout the United States.
 
 &emsp;(7) Not later than May 1, 2004, and annually thereafter, the Attorney General shall submit to the Committee on Ways and Means, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives and the Committee on Finance, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate, a report on Federal agencies that are implementing any provision of this chapter, or any amendment made by this chapter, which shall include, at a minimum, information on—
 
 &emsp;&emsp;(A) the number of persons who received benefits or other services under subsections (b) and (f) <sup>1</sup> of section 7105 of this title in connection with programs or activities funded or administered by the Secretary of Health and Human Services, the Secretary of Labor, the Attorney General, the Board of Directors of the Legal Services Corporation, and other appropriate Federal agencies during the preceding fiscal year;
 
-&emsp;&emsp;(B) the number of persons who have been granted continued presence in the United States under section 7105(c)(3) of this title during the preceding fiscal year;
+&emsp;&emsp;(B) the number of persons who have been granted continued presence in the United States under section 7105(c)(3) of this title during the preceding fiscal year and the mean and median time taken to adjudicate applications submitted under such section, including the time from the receipt of an application by law enforcement to the issuance of continued presence, and a description of any efforts being taken to reduce the adjudication and processing time while ensuring the safe and competent processing of the applications;
 
-&emsp;&emsp;(C) the number of persons who have applied for, been granted, or been denied a visa or otherwise provided status under section 1101(a)(15)(T)(i) of title 8 during the preceding fiscal year;
+&emsp;&emsp;(C) the number of persons who have applied for, been granted, or been denied a visa or otherwise provided status under subparagraph (T)(i) or (U)(i) of section 1101(a)(15) of title 8 during the preceding fiscal year;
 
-&emsp;&emsp;(D) the number of persons who have been charged or convicted under one or more of sections 1581, 1583, 1584, 1589, 1590, 1591, 1592, or 1594 of title 18 during the preceding fiscal year and the sentences imposed against each such person;
+&emsp;&emsp;(D) the number of persons who have applied for, been granted, or been denied a visa or status under clause (ii) of section 1101(a)(15)(T) of title 8 during the preceding fiscal year, broken down by the number of such persons described in subclauses (I), (II), and (III) of such clause (ii);
 
-&emsp;&emsp;(E) the amount, recipient, and purpose of each grant issued by any Federal agency to carry out the purposes of sections 7104 and 7105 of this title, or section 2152d of this title, during the preceding fiscal year;
+&emsp;&emsp;(E) the amount of Federal funds expended in direct benefits paid to individuals described in subparagraph (D) in conjunction with T visa status;
 
-&emsp;&emsp;(F) the nature of training conducted pursuant to section 7105(c)(4) of this title during the preceding fiscal year;
+&emsp;&emsp;(F) the number of persons who have applied for, been granted, or been denied a visa or status under section 1101(a)(15)(U)(i) of title 8 during the preceding fiscal year;
 
-&emsp;&emsp;(G) the amount, recipient, and purpose of each grant under sections 14044a and 14044c of title 42; <sup>1</sup>
+&emsp;&emsp;(G) the mean and median time in which it takes to adjudicate applications submitted under the provisions of law set forth in subparagraph (C), including the time between the receipt of an application and the issuance of a visa and work authorization;
 
-&emsp;&emsp;(H) activities by the Department of Defense to combat trafficking in persons, including—
+&emsp;&emsp;(H) any efforts being taken to reduce the adjudication and processing time, while ensuring the safe and competent processing of the applications;
+
+&emsp;&emsp;(I) the number of persons who have been charged or convicted under one or more of sections 1581, 1583, 1584, 1589, 1590, 1591, 1592, or 1594 of title 18 during the preceding fiscal year and the sentences imposed against each such person;
+
+&emsp;&emsp;(J) the amount, recipient, and purpose of each grant issued by any Federal agency to carry out the purposes of sections 7104 and 7105 of this title, or section 2152d of this title, during the preceding fiscal year;
+
+&emsp;&emsp;(K) the nature of training conducted pursuant to section 7105(c)(4) of this title during the preceding fiscal year;
+
+&emsp;&emsp;(L) the amount, recipient, and purpose of each grant under sections 14044a and 14044c of title 42; <sup>1</sup>
+
+&emsp;&emsp;(M) activities by the Department of Defense to combat trafficking in persons, including—
 
 &emsp;&emsp;&emsp;(i) educational efforts for, and disciplinary actions taken against, members of the United States Armed Forces;
 
@@ -56,15 +66,31 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;&emsp;(v) all trafficking in persons activities of contractors reported to the Under Secretary of Defense for Acquisition, Technology, and Logistics;
 
-&emsp;&emsp;(I) activities or actions by Federal departments and agencies to enforce—
+&emsp;&emsp;(N) activities or actions by Federal departments and agencies to enforce—
 
 &emsp;&emsp;&emsp;(i) section 7104(g) of this title and any similar law, regulation, or policy relating to United States Government contractors and their employees or United States Government subcontractors and their employees that engage in severe forms of trafficking in persons, the procurement of commercial sex acts, or the use of forced labor, including debt bondage;
 
 &emsp;&emsp;&emsp;(ii) section 1307 of title 19 (relating to prohibition on importation of convict-made goods), including any determinations by the Secretary of Homeland Security to waive the restrictions of such section; and
 
-&emsp;&emsp;&emsp;(iii) prohibitions on the procurement by the United States Government of items or services produced by slave labor, consistent with Executive Order 13107 (December 10, 1998); and
+&emsp;&emsp;&emsp;(iii) prohibitions on the procurement by the United States Government of items or services produced by slave labor, consistent with Executive Order 13107 (December 10, 1998);
 
-&emsp;&emsp;(J) the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (f) of this section.
+&emsp;&emsp;(O) the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (g); and
+
+&emsp;&emsp;(P) the activities undertaken by Federal agencies to train appropriate State, tribal, and local government and law enforcement officials to identify victims of severe forms of trafficking, including both sex and labor trafficking;
+
+&emsp;&emsp;(Q) the activities undertaken by Federal agencies in cooperation with State, tribal, and local law enforcement officials to identify, investigate, and prosecute offenses under sections 1581, 1583, 1584, 1589, 1590, 1592, and 1594 of title 18, or equivalent State offenses, including, in each fiscal year—
+
+&emsp;&emsp;&emsp;(i) the number, age, gender, country of origin, and citizenship status of victims identified for each offense;
+
+&emsp;&emsp;&emsp;(ii) the number of individuals charged, and the number of individuals convicted, under each offense;
+
+&emsp;&emsp;&emsp;(iii) the number of individuals referred for prosecution for State offenses, including offenses relating to the purchasing of commercial sex acts;
+
+&emsp;&emsp;&emsp;(iv) the number of victims granted continued presence in the United States under section 7105(c)(3) of this title; and
+
+&emsp;&emsp;&emsp;(v) the number of victims granted a visa or otherwise provided status under subparagraph (T)(i) or (U)(i) of section 1101(a)(15) of title 8; and
+
+&emsp;&emsp;(R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 14044a(a) of title 42, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible.
 
 #### (e) Office To Monitor and Combat Trafficking
 
@@ -72,25 +98,19 @@ The Task Force shall carry out the following activities:
 
 &emsp;The Secretary of State shall establish within the Department of State an Office to Monitor and Combat Trafficking, which shall provide assistance to the Task Force. Any such Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large. The Director shall have the primary responsibility for assisting the Secretary of State in carrying out the purposes of this chapter and may have additional responsibilities as determined by the Secretary. The Director shall consult with nongovernmental organizations and multilateral organizations, and with trafficking victims or other affected persons. The Director shall have the authority to take evidence in public hearings or by other means. The agencies represented on the Task Force are authorized to provide staff to the Office on a nonreimbursable basis.
 
-#### (2) Coordination of certain activities
+#### (2) United States assistance
 
-#### (A) Partnerships
+&emsp;The Director shall be responsible for—
 
-&emsp;&emsp;The Director, in coordination and cooperation with other officials at the Department of State involved in corporate responsibility, the Deputy Under Secretary for International Affairs of the Department of Labor, and other relevant officials of the United States Government, shall promote, build, and sustain partnerships between the United States Government and private entities (including foundations, universities, corporations, community-based organizations, and other nongovernmental organizations) to ensure that—
+&emsp;&emsp;(A) all policy, funding, and programming decisions regarding funds made available for trafficking in persons programs that are centrally controlled by the Office to Monitor and Combat Trafficking; and
 
-&emsp;&emsp;&emsp;(i) United States citizens do not use any item, product, or material produced or extracted with the use of labor from victims of severe forms of trafficking; and
+&emsp;&emsp;(B) coordinating any trafficking in persons programs of the Department of State or the United States Agency for International Development that are not centrally controlled by the Director.
 
-&emsp;&emsp;&emsp;(ii) such entities do not contribute to trafficking in persons involving sexual exploitation.
+#### (f) Regional strategies for combating trafficking in persons
 
-#### (B) United States assistance
+Each regional bureau in the Department of State shall contribute to the realization of the anti-trafficking goals and objectives of the Secretary of State. Each year, in cooperation with the Office to Monitor and Combat Trafficking in Persons, each regional bureau shall submit a list of anti-trafficking goals and objectives to the Secretary of State for each country in the geographic area of responsibilities of the regional bureau. Host governments shall be informed of the goals and objectives for their particular country and, to the extent possible, host government officials should be consulted regarding the goals and objectives.
 
-&emsp;&emsp;The Director shall be responsible for—
-
-&emsp;&emsp;&emsp;(i) all policy, funding, and programming decisions regarding funds made available for trafficking in persons programs that are centrally controlled by the Office to Monitor and Combat Trafficking; and
-
-&emsp;&emsp;&emsp;(ii) coordinating any trafficking in persons programs of the Department of State or the United States Agency for International Development that are not centrally controlled by the Director.
-
-#### (f) Senior Policy Operating Group
+#### (g) Senior Policy Operating Group
 
 #### (1) Establishment
 
@@ -116,53 +136,77 @@ The Task Force shall carry out the following activities:
 
 #### (4) Availability of information
 
-&emsp;Each Federal department or agency represented on the Operating Group shall fully share all information with such Group regarding the department or agency's plans, beforeand after final agency decisions are made, on all matters relating to grants, grant policies, and other significant actions regarding the international trafficking in persons and the implementation of this chapter.
+&emsp;Each Federal department or agency represented on the Operating Group shall fully share all information with such Group regarding the department or agency's plans, before and after final agency decisions are made, on all matters relating to grants, grant policies, and other significant actions regarding the international trafficking in persons and the implementation of this chapter.
 
 #### (5) Regulations
 
 &emsp;Not later than 90 days after December 19, 2003, the President shall promulgate regulations to implement this section, including regulations to carry out paragraph (4).
 
-(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, §6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881; Pub. L. 109–164, title I, §104(a), title II, §205, Jan. 10, 2006, 119 Stat. 3564, 3571; Pub. L. 110–457, title I, §§101, 102, title II, §231, title III, §304(a), Dec. 23, 2008, 122 Stat. 5045, 5072, 5087; Pub. L. 112–239, div. A, title XVII, §1707, Jan. 2, 2013, 126 Stat. 2098.)
+(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, §6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881; Pub. L. 109–164, title I, §104(a), title II, §205, Jan. 10, 2006, 119 Stat. 3564, 3571; Pub. L. 110–457, title I, §§101, 102, title II, §231, title III, §304(a), Dec. 23, 2008, 122 Stat. 5045, 5072, 5087; Pub. L. 112–239, div. A, title XVII, §1707, Jan. 2, 2013, 126 Stat. 2098; Pub. L. 113–4, title XII, §§1201, 1203(a), 1231, Mar. 7, 2013, 127 Stat. 136, 138, 144.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (d) to (f), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in subsecs. (d)(1), (6), (7), (e)(1), and (g)(3), (4), was in the original "this division" meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 Subsection (f) of section 7105 of this title, referred to in subsec. (d)(7)(A), probably means the first subsec. (f) of section 7105 of this title, relating to assistance for United States citizens and lawful permanent residents, as added by Pub. L. 110–457, title II, §213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
 
-Sections 14044a and 14044c of title 42, referred to in subsec. (d)(7)(G), was in the original “sections 202 and 204 of the Trafficking Victims Protection Act of 2005”, and was translated as reading “sections 202 and 204 of the Trafficking Victims Protection Reauthorization Act of 2005”, which enacted sections 14044a and 14044c of Title 42, The Public Health and Welfare, to reflect the probable intent of Congress.
+Sections 14044a and 14044c of title 42, referred to in subsec. (d)(7)(L), was in the original "sections 202 and 204 of the Trafficking Victims Protection Act of 2005", and was translated as reading "sections 202 and 204 of the Trafficking Victims Protection Reauthorization Act of 2005", which enacted sections 14044a and 14044c of Title 42, The Public Health and Welfare, to reflect the probable intent of Congress.
 
-Executive Order 13107, referred to in subsec. (d)(7)(I)(iii), is set out as a note under section 601 of Title 5, Government Organization and Employees.
+Executive Order 13107, referred to in subsec. (d)(7)(N)(iii), is set out as a note under section 601 of Title 5, Government Organization and Employees.
 
-Executive Order No. 13257, referred to in subsec. (f)(2)(A), is set out as a note below.
+Executive Order No. 13257, referred to in subsec. (g)(2)(A), is set out as a note below.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (d)(7)(H)(iii) to (v). Pub. L. 112–239 added cls. (iii) and (v) redesignated former cl. (iii) as (iv).
+<b>2013</b>—Subsec. (d)(6). Pub. L. 113–4, §1203(a), inserted ", and make reasonable efforts to distribute information to enable all relevant Federal Government agencies to publicize the National Human Trafficking Resource Center Hotline on their websites, in all headquarters offices, and in all field offices throughout the United States" before period at end.
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–457, §101, inserted “the Secretary of Education,” after “the Secretary of Homeland Security,”.
+Subsec. (d)(7)(B) to (H). Pub. L. 113–4, §1231(2), added subpars. (B) to (H) and struck out former subpars. (B) and (C) which read as follows:
 
-Subsec. (d)(7). Pub. L. 110–457, §304(a), substituted “Committee on Foreign Affairs” for “Committee on International Relations” in introductory provisions.
+"(B) the number of persons who have been granted continued presence in the United States under section 7105(c)(3) of this title during the preceding fiscal year;
 
-Subsec. (d)(7)(A). Pub. L. 110–457, §231(1), substituted “subsections (b) and (f) of section 7105 of this title” for “section 7105(b) of this title” and inserted “the Attorney General,” after “the Secretary of Labor,”.
+"(C) the number of persons who have applied for, been granted, or been denied a visa or otherwise provided status under section 1101(a)(15)(T)(i) of title 8 during the preceding fiscal year;".
+
+> Former subpars. (D) to (H) redesignated (I) to (M), respectively.
+
+Subsec. (d)(7)(H)(iii) to (v). Pub. L. 112–239 added cls. (iii) and (v) redesignated former cl. (iii) as (iv).
+
+Subsec. (d)(7)(I). Pub. L. 113–4, §1231(1), redesignated subpar. (D) as (I). Former subpar. (I) redesignated (N).
+
+Subsec. (d)(7)(J). Pub. L. 113–4, §1231(1), redesignated subpar. (E) as (J). Former subpar. (J) redesignated (O).
+
+Pub. L. 113–4, §1201(1), substituted "subsection (g)" for "subsection (f) of this section".
+
+Subsec. (d)(7)(K) to (O). Pub. L. 113–4, §1231(1), redesignated subpars. (F) to (J) as (K) to (O), respectively.
+
+Subsec. (d)(7)(P) to (R). Pub. L. 113–4, §1231(3)–(5), added subpars. (P) to (R).
+
+Subsec. (e)(2). Pub. L. 113–4, §1201(2), redesignated subpar. (B) and cls. (i) and (ii) as par. (2) and subpars. (A) and (B), respectively, realigned margins, and struck out former par. (2) heading and subpar. (A) which related to coordination of certain activities against use of products or materials from victims of severe forms of trafficking and sexual exploitation.
+
+Subsecs. (f), (g). Pub. L. 113–4, §1201(3), (4), added subsec. (f) and redesignated former subsec. (f) as (g).
+
+<b>2008</b>—Subsec. (b). Pub. L. 110–457, §101, inserted "the Secretary of Education," after "the Secretary of Homeland Security,".
+
+Subsec. (d)(7). Pub. L. 110–457, §304(a), substituted "Committee on Foreign Affairs" for "Committee on International Relations" in introductory provisions.
+
+Subsec. (d)(7)(A). Pub. L. 110–457, §231(1), substituted "subsections (b) and (f) of section 7105 of this title" for "section 7105(b) of this title" and inserted "the Attorney General," after "the Secretary of Labor,".
 
 Subsec. (d)(7)(H) to (J). Pub. L. 110–457, §231(2)–(4), added subpars. (H) and (I) and redesignated former subpar. (H) as (J).
 
-Subsec. (e). Pub. L. 110–457, §102, substituted “Office To Monitor and Combat Trafficking” for “Support for the Task Force” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, substituted “The Secretary of State shall” for “The Secretary of State is authorized to”, and added par. (2).
+Subsec. (e). Pub. L. 110–457, §102, substituted "Office To Monitor and Combat Trafficking" for "Support for the Task Force" in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, substituted "The Secretary of State shall" for "The Secretary of State is authorized to", and added par. (2).
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–164, §104(a), substituted “the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security” for “the Director of Central Intelligence”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–164, §104(a), substituted "the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security" for "the Director of Central Intelligence".
 
 Subsec. (d)(7)(G), (H). Pub. L. 109–164, §205, added subpar. (G) and redesignated former subpar. (G) as (H).
 
 <b>2003</b>—Subsec. (d)(7). Pub. L. 108–193, §6(a)(1), added par. (7).
 
-Subsec. (e). Pub. L. 108–193, §6(b)(1), inserted before period at end of second sentence “, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large”.
+Subsec. (e). Pub. L. 108–193, §6(b)(1), inserted before period at end of second sentence ", who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large".
 
 Subsec. (f). Pub. L. 108–193, §6(c)(1), added subsec. (f).
 
 #### Savings Provision
 
-Pub. L. 108–193, §6(b)(2), Dec. 19, 2003, 117 Stat. 2881, provided that: “The individual who holds the position of Director of the Office to Monitor and Combat Trafficking of the Department of State may continue to hold such position notwithstanding the amendment made by paragraph (1) \[amending this section\].”
+Pub. L. 108–193, §6(b)(2), Dec. 19, 2003, 117 Stat. 2881, provided that: "The individual who holds the position of Director of the Office to Monitor and Combat Trafficking of the Department of State may continue to hold such position notwithstanding the amendment made by paragraph (1) \[amending this section\]."
 
 #### Senior Policy Operating Group
 
@@ -172,7 +216,7 @@ Pub. L. 108–7, div. B, title IV, §406, Feb. 20, 2003, 117 Stat. 92, required 
 
 Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended by Ex. Ord. No. 13286, §5, Feb. 28, 2003, 68 F.R. 10619; Ex. Ord. No. 13333, Mar. 18, 2004, 69 F.R. 13455, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trafficking Victims Protection Act of 2000, (22 U.S.C. 7101 <i>et seq</i>.) (the “Act”), and section 301 of title 3, United States Code, and in order to combat trafficking in persons, a contemporary manifestation of slavery whose victims are predominantly women and children, to ensure just and effective punishment of traffickers, and to protect their victims, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trafficking Victims Protection Act of 2000, (22 U.S.C. 7101 <i>et seq</i>.) (the "Act"), and section 301 of title 3, United States Code, and in order to combat trafficking in persons, a contemporary manifestation of slavery whose victims are predominantly women and children, to ensure just and effective punishment of traffickers, and to protect their victims, it is hereby ordered as follows:
 
 Section 1. (a) The President's Interagency Task Force to Monitor and Combat Trafficking in Persons is hereby established.
 
@@ -210,7 +254,7 @@ Sec. 2. <i>Activities</i>. The Task Force shall, consistent with applicable law 
 
 (e) engage in efforts to facilitate cooperation among countries of origin, transit, and destination, and such efforts shall aim to strengthen local and regional capacities to prevent trafficking in persons, prosecute traffickers and assist trafficking victims; shall include initiatives to enhance cooperative efforts between destination countries, transit countries, and countries of origin; and shall assist in the appropriate reintegration of stateless victims of trafficking in persons;
 
-(f) examine the role of the international “sex tourism” industry in the trafficking of persons and in the sexual exploitation of women and children around the world;
+(f) examine the role of the international "sex tourism" industry in the trafficking of persons and in the sexual exploitation of women and children around the world;
 
 (g) engage in consultation and advocacy with governmental and nongovernmental organizations, among other entities, to advance the purposes of the Act; and
 
@@ -222,7 +266,7 @@ Sec. 3. <i>Administration</i>. (a) The Department of State shall provide funding
 
 (c) Task Force members may designate representatives from their respective agencies to represent them at Task Force meetings.
 
-(d) Whenever the work of the Task Force involves a matter committed by law or Presidential directive to the consideration of the National Security Council, or by Executive Order 13228 of October 8, 2001 \[50 U.S.C. 402 note\], to the consideration of the Homeland Security Council, that work shall be undertaken, and any communication by the Secretary of State to the President shall be undertaken, in a manner consistent with such law, Presidential directive, or Executive Order.
+(d) Whenever the work of the Task Force involves a matter committed by law or Presidential directive to the consideration of the National Security Council, or by Executive Order 13228 of October 8, 2001 \[50 U.S.C. 3021 note\], to the consideration of the Homeland Security Council, that work shall be undertaken, and any communication by the Secretary of State to the President shall be undertaken, in a manner consistent with such law, Presidential directive, or Executive Order.
 
 (e) The Task Force shall have no directive authority or other substantial independent authority.
 
@@ -232,7 +276,7 @@ Sec. 3. <i>Administration</i>. (a) The Department of State shall provide funding
 
 &emsp;(ii) recommendations for United States policy to monitor and eliminate trafficking in persons and to protect the victims of trafficking in persons.
 
-Sec. 4. <i>Guidelines, Policies, and Regulations</i>. (a) The Senior Policy Operating Group (SPOG), described in subsection 105(f) of the Act \[22 U.S.C. 7103(f)\], shall (i) establish guidelines and policies to coordinate the activities of executive branch departments and agencies regarding policies (including grants and grant policies) involving the international trafficking in persons and (ii) advise the Secretary of State what regulations may be necessary to implement section 105 of the Act, including such regulations as may be necessary to carry out the sharing of information on all matters relating to grants, grant policies, or other significant actions regarding the international trafficking in persons as set forth in subsection 105(f)(4) of the Act, to the extent permitted by law.
+Sec. 4. <i>Guidelines, Policies, and Regulations</i>. (a) The Senior Policy Operating Group (SPOG), described in subsection 105(f) \[now (g)\] of the Act \[22 U.S.C. 7103(g)\], shall (i) establish guidelines and policies to coordinate the activities of executive branch departments and agencies regarding policies (including grants and grant policies) involving the international trafficking in persons and (ii) advise the Secretary of State what regulations may be necessary to implement section 105 of the Act, including such regulations as may be necessary to carry out the sharing of information on all matters relating to grants, grant policies, or other significant actions regarding the international trafficking in persons as set forth in subsection 105(f)(4) of the Act, to the extent permitted by law.
 
 (b) The Secretary of State, in consultation with the members of the Task Force or their representatives, shall promulgate regulations to implement section 105 of the Act \[22 U.S.C. 7103\].
 

@@ -2,7 +2,7 @@
 
 The Congress of the United States reaffirms the policy of the United States to achieve international peace and security through the United Nations so that armed force shall not be used except for individual or collective self-defense. The Congress finds that the efforts of the United States and other friendly countries to promote peace and security continue to require measures of support based upon the principle of effective self-help and mutual aid. It is the purpose of subchapter II of this chapter to authorize measures in the common defense against internal and external aggression, including the furnishing of military assistance, upon request, to friendly countries and international organizations. In furnishing such military assistance, it remains the policy of the United States to continue to exert maximum efforts to achieve universal control of weapons of mass destruction and universal regulation and reduction of armaments, including armed forces, under adequate safeguards to protect complying countries against violation and evasion.
 
-The Congress recognizes that the peace of the world and the security of the United States areendangered so long as hostile countries continue by threat of military action, by the use of economic pressure, and by internal subversion, or other means to attempt to bring under their domination peoples now free and independent and continue to deny the rights of freedom and self-government to peoples and countries once free but now subject to such domination.
+The Congress recognizes that the peace of the world and the security of the United States are endangered so long as hostile countries continue by threat of military action, by the use of economic pressure, and by internal subversion, or other means to attempt to bring under their domination peoples now free and independent and continue to deny the rights of freedom and self-government to peoples and countries once free but now subject to such domination.
 
 It is the sense of the Congress that an important contribution toward peace would be made by the establishment under the Organization of American States of an international military force.
 
@@ -24,15 +24,15 @@ References to subchapter II of this chapter are deemed to exclude parts IV (§23
 
 #### Prior Provisions
 
-A prior section 501 of Pub. L. 87–195, provided that part II of Pub. L. 87–195 \[subchapter II of this chapter\] should be cited as the “International Peace and Security Act of 1961”, prior to repeal by Pub. L. 88–205, pt. II, §201(b), Dec. 16, 1963, 77 Stat. 384.
+A prior section 501 of Pub. L. 87–195, provided that part II of Pub. L. 87–195 \[subchapter II of this chapter\]should be cited as the "International Peace and Security Act of 1961", prior to repeal by Pub. L. 88–205, pt. II, §201(b), Dec. 16, 1963, 77 Stat. 384.
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–199, §705(1)(A), in second par., substituted “hostile countries” for “international communism and the countries it controls”.
+<b>1993</b>—Pub. L. 103–199, §705(1)(A), in second par., substituted "hostile countries" for "international communism and the countries it controls".
 
-Pub. L. 103–199, §705(1)(B), in fourth par., struck out “Communist or Communist-supported” after “if necessary, defeat”.
+Pub. L. 103–199, §705(1)(B), in fourth par., struck out "Communist or Communist-supported" after "if necessary, defeat".
 
-Pub. L. 103–199, §705(1)(C), in fifth par., substituted “aggression or in which the internal security is threatened by internal subversion inspired or supported by hostile countries.” for “active Communist or Communist-supported aggression or those countries in which the internal security is threatened by Communist-inspired or Communist-supported internal subversion.”
+Pub. L. 103–199, §705(1)(C), in fifth par., substituted "aggression or in which the internal security is threatened by internal subversion inspired or supported by hostile countries." for "active Communist or Communist-supported aggression or those countries in which the internal security is threatened by Communist-inspired or Communist-supported internal subversion."
 
 <b>1967</b>—Pub. L. 90–137 inserted par. to indicate that priority shall be given in the use of the funds available to defend against Communist aggression or Communist-inspired internal subversion.
 
@@ -40,23 +40,23 @@ Pub. L. 103–199, §705(1)(C), in fifth par., substituted “aggression or in w
 
 Pub. L. 107–228, div. A, title VI, §699, Sept. 30, 2002, 116 Stat. 1418, provided that:
 
-“(a)
+"(a)
 
 Determination Regarding Transfers.—If the President determines, based on a preponderance of the evidence, that a foreign person or entity has knowingly transferred proscribed weapons to Palestinian entities in the West Bank or Gaza, then, for the period specified in subsection (b), no assistance may be provided to the person or entity under part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2301 et seq.\] and no sales of defense articles or defense services may be made to the person or entity under section 23 of the Arms Export Control Act \[22 U.S.C. 2763\].
 
-“(b)
+"(b)
 
 Duration of Prohibition.—The period referred to in subsection (a) is the period commencing on the date on which a notification of a determination under subsection (a) is submitted to the appropriate congressional committees and ending on the date that is two years after such date.
 
-“(c)
+"(c)
 
 Report.—In conjunction with the report required under title VIII of the P.L.O. Commitments Compliance Act of 1989 (Public Law 101–246) \[104 Stat. 76\], the President shall submit a report to the appropriate congressional committees on transfers reviewed pursuant to subsection (a).
 
-“(d)
+"(d)
 
-Definition.—In this section, the term ‘proscribed weapons’ means arms, ammunition, and equipment the transfer of which is not in compliance with the Agreement on the Gaza Strip and the Jericho Area of May 4, 1994, its annexes, or subsequent agreements between Israel and the PLO, or Palestinian Authority, as appropriate.”
+Definition.—In this section, the term 'proscribed weapons' means arms, ammunition, and equipment the transfer of which is not in compliance with the Agreement on the Gaza Strip and the Jericho Area of May 4, 1994, its annexes, or subsequent agreements between Israel and the PLO, or Palestinian Authority, as appropriate."
 
 \[Functions of President under section 699 of Pub. L. 107–228, set out above, delegated to Secretary of State by Memorandum of President of the United States, Apr. 30, 2009, 74 F.R. 22637.\]
 
-\[For definition of “appropriate congressional committees” as used in section 699 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definition of "appropriate congressional committees" as used in section 699 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 

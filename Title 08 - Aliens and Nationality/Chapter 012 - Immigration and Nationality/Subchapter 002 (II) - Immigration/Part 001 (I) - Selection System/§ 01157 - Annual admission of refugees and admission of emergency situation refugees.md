@@ -28,7 +28,7 @@ If the President determines, after appropriate consultation, that (1) an unfores
 
 #### (d) Oversight reporting and consultation requirements
 
-(1) Before the start of each fiscal year the President shall report to the Committees on the Judiciary of the House of Representatives and of the Senate regarding the foreseeable number of refugees who will be in need of resettlement during the fiscal year and the anticipated allocation of refugee admissions during the fiscal year. The President shall provide for periodic discussions between designated representatives of the President and members of such committees regarding changes in the worldwide refugee situation, the progress of refugee admissions, and the possible need for adjustments in the allocation of admissions among refugees.
+(1) Before the start of each fiscal year the President shall report to the Committees on the Judiciary of the House of Representatives and of the Senate regarding the foreseeable number of refugees who will be in need of resettlement during the fiscal year and the anticipated allocation of refugee admissions during the fiscalyear. The President shall provide for periodic discussions between designated representatives of the President and members of such committees regarding changes in the worldwide refugee situation, the progress of refugee admissions, and the possible need for adjustments in the allocation of admissions among refugees.
 
 (2) As soon as possible after representatives of the President initiate appropriate consultation with respect to the number of refugee admissions under subsection (a) of this section or with respect to the admission of refugees in response to an emergency refugee situation under subsection (b) of this section, the Committees on the Judiciary of the House of Representatives and of the Senate shall cause to have printed in the Congressional Record the substance of such consultation.
 
@@ -122,7 +122,7 @@ For delegation of Congressional reporting functions of President under subsec. (
 
 #### Iraq Refugee Crisis
 
-Pub. L. 110–181, div. A, title XII, subtitle C, Jan. 28, 2008, 122 Stat. 395, as amended by Pub. L. 110–242, §1,June 3, 2008, 122 Stat. 1567; Pub. L. 111–84, div. A, title VIII, §813(d), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 111–118, div. A, title VIII, §8120(a), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 111–383, div. A, title X, §1075(f)(9), (10), Jan. 7, 2011, 124 Stat. 4376, provided that:
+Pub. L. 110–181, div. A, title XII, subtitle C, Jan. 28, 2008, 122 Stat. 395, as amended by Pub. L. 110–242, §1, June 3, 2008, 122 Stat. 1567; Pub. L. 111–84, div. A, title VIII, §813(d), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 111–118, div. A, title VIII, §8120(a), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 111–383, div. A, title X, §1075(f)(9), (10), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–42, §1, Oct. 4, 2013, 127 Stat. 552; Pub. L. 113–66, div. A, title XII, §1218, Dec. 26, 2013, 127 Stat. 910, provided that:
 
 #### “SEC. 1241. SHORT TITLE.
 
@@ -144,13 +144,19 @@ Suspension.—If such is determined necessary, the Secretary of State, in consul
 
 “(c)
 
-Report.—Not later than 90 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of State, in consultation with the Secretary of Homeland Security, shall submit to the committees specified in subsection (b) a report that—
+Improved Application Process.—
 
-&emsp;“(1) describes the Secretary of State's plans to establish the processing mechanisms required under subsection (a);
+&emsp;“(1)
 
-&emsp;“(2) contains an assessment of in-country processing that makes use of videoconferencing; and
+In general.—Not later than 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2014 \[Dec. 26, 2013\], the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall improve the efficiency by which applications for special immigrant visas under section 1244(a), are processed so that all steps under the control of the respective departments incidental to the issuance of such visas, including required screenings and background checks, should be completed not later than 9 months after the date on which an eligible alien submits all required materials to complete an application for such visa.
 
-&emsp;“(3) describes the Secretary of State's diplomatic efforts to improve issuance of exit permits to Iraqis who have been provided special immigrant status under section 1244 and Iraqi refugees under section 1243.
+&emsp;“(2)
+
+Construction.—Nothing in this section shall be construed to limit the ability of a Secretary referred to in paragraph (1) to take longer than 9 months to complete those steps incidental to the issuance of such visas in high-risk cases for which satisfaction of national security concerns requires additional time.
+
+&emsp;“(d)
+
+Representation.—An alien applying for admission to the United States pursuant to this subtitle may be represented during the application process, including at relevant interviews and examinations, by an attorney or other accredited representative. Such representation shall not be at the expense of the United States Government.
 
 #### “SEC. 1243. UNITED STATES REFUGEE PROGRAM PROCESSING PRIORITIES.
 
@@ -168,7 +174,7 @@ In General.—Refugees of special humanitarian concern eligible for Priority 2 p
 
 &emsp;“(3) spouses, children, and parents whether or not accompanying or following to join, and sons, daughters, and siblings of aliens described in paragraph (1), paragraph (2), or section 1244(b)(1); and
 
-&emsp;“(4) Iraqis who are members of a religious or minority community, have been identified by the Secretary of State, or the designee of the Secretary, as a persecuted group, and have close family members (as described in section 201(b)(2)(A)(i) or 203(a) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i) and 1153(a))) in the United States.
+&emsp;“(4) Iraqis who are members of a religious or minority community, have been identified by the Secretaryof State, or the designee of the Secretary, as a persecuted group, and have close family members (as described in section 201(b)(2)(A)(i) or 203(a) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i) and 1153(a))) in the United States.
 
 “(b)
 
@@ -176,7 +182,7 @@ Identification of Other Persecuted Groups.—The Secretary of State, or the desi
 
 “(c)
 
-Ineligible Organizations and Entities.—Organizations and entities described in subsection (a)(2) shall not include any that appear on the Department of the Treasury's list of Specially Designated Nationals or any entity specifically excluded by the Secretary of Homeland Security, after consultation with the Secretary of State and the heads of relevant elements of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))).
+Ineligible Organizations and Entities.—Organizations and entities described in subsection (a)(2) shall not include any that appear on the Department of the Treasury's list of Specially Designated Nationals or any entity specifically excluded by the Secretary of Homeland Security, after consultation with the Secretary of State and the heads of relevant elements of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) \[now 50 U.S.C. 3003(4)\]).
 
 “(d)
 
@@ -242,7 +248,41 @@ Treatment of surviving spouse or child.—An alien is described in subsection (b
 
 &emsp;“(4)
 
-Approval by chief of mission required.—A recommendation or evaluation required under paragraph (1)(C) shall be accompanied by approval from the Chief of Mission, or the designee of the Chief of Mission, who shall conduct a risk assessment of the alien and an independent review of records maintained by the United States Government or hiring organization or entity to confirm employment and faithful and valuable service to the United States Government prior to approval of a petition under this section.
+Approval by chief of mission required.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided under subparagraph (B), a recommendation or evaluation required under paragraph (1)(C) shall be accompanied by approval from the Chief of Mission, or the designee of the Chief of Mission, who shall conduct a risk assessment of the alien and an independent review of records maintained by the United States Government or hiring organization or entity to confirm employment and faithful and valuable service to the United States Government prior to approval of a petition under this section.
+
+&emsp;&emsp;“(B)
+
+Review process for denial by chief of mission.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—An applicant who has been denied Chief of Mission approval required by subparagraph (A) shall—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) receive a written decision that provides, to the maximum extent feasible, information describing the basis for the denial, including the facts and inferences underlying the individual determination; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) be provided not more than one written appeal—
+
+&emsp;&emsp;&emsp;“(aa) that shall be submitted not more than 120 days after the date that the applicant receives such decision in writing; and
+
+&emsp;&emsp;&emsp;“(bb) that may request reopening of such decision and provide additional information, clarify existing information, or explain any unfavorable information.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Iraqi special immigrant visa coordinator.—The Secretary of State shall designate, in the Embassy of the United States in Baghdad, Iraq, an Iraqi Special Immigrant Visa Coordinator responsible for overseeing the efficiency and integrity of the processing of special immigrant visas under this section, who shall be given—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) sufficiently high security clearance to review information supporting Chief of Mission denials if an appeal of a denial is filed;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) responsibility for ensuring that an applicant described in clause (i) receives the information described in clause (i)(I); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) responsibility for ensuring that every applicant is provided a reasonable opportunity to provide additional information, clarify existing information, or explain any unfavorable information pursuant to clause (i)(II).
+
+&emsp;“(5)
+
+Evidence of serious threat.—A credible sworn statement depicting dangerous country conditions, together with official evidence of such country conditions from the United States Government, should be considered as a factor in determination of whether the alien has experienced or is experiencing an ongoing serious threat as a consequence of the alien's employment by the United States Government for purposes of paragraph (1)(D).
 
 “(c)
 
@@ -250,7 +290,7 @@ Numerical Limitations.—
 
 &emsp;“(1)
 
-In general.—The total number of principal aliens who may be provided special immigrant status under this section may not exceed 5,000 per year for fiscal years 2008 through 2012.
+In general.—The total number of principal aliens who may be provided special immigrant statusunder this section may not exceed 5,000 per year for fiscal years 2008 through 2012.
 
 &emsp;“(2)
 
@@ -275,6 +315,22 @@ Fiscal years 2012 and 2013.—If the numerical limitation specified in paragraph
 &emsp;&emsp;&emsp;“(i) the numerical limitation specified in paragraph (1) for fiscal year 2012; and
 
 &emsp;&emsp;&emsp;“(ii) the number of principal aliens provided such status under this section during fiscal year 2012.
+
+&emsp;&emsp;“(C)
+
+Limitation on number of visas.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—The total number of principal aliens who may be provided special immigrant status under this section after January 1, 2014, shall be not more than 2500.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Employment period.—The 1-year period during which the principal alien is required to have been employed by or on behalf of the United States Government in Iraq under subsection (b)(1)(B) shall begin on or after March 20, 2003, and end on or before September 30, 2013.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Application deadline.—The principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with subsection (b)(4) not later than September 30, 2014.
 
 “(d)
 
@@ -330,9 +386,9 @@ Designation of Additional Senior Coordinators.—The Secretary of State shall de
 
 “(a)
 
-Secretary of Homeland Security.—Not later than 120 days after the date of the enactment of thisAct \[Jan. 28, 2008\], the Secretary of Homeland Security shall submit to the Committee on the Judiciary of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, the Committee on the Judiciary of the Senate, and the Committee on Foreign Relations of the Senate a report containing plans to expedite the processing of Iraqi refugees for resettlement, including information relating to—
+Secretary of Homeland Security.—Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Homeland Security shall submit to the Committee on the Judiciary of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, the Committee on the Judiciary of the Senate, and the Committee on Foreign Relations of the Senate a report containing plans to expedite the processing of Iraqi refugees for resettlement, including information relating to—
 
-&emsp;“(1) expediting the processing of Iraqi refugees for resettlement, including through temporary expansion of the Refugee Corps of United States Citizenship and Immigration Services;
+&emsp;“(1) expediting the processing of Iraqi refugees for resettlement, including through temporary expansionof the Refugee Corps of United States Citizenship and Immigration Services;
 
 &emsp;“(2) increasing the number of personnel of the Department of Homeland Security devoted to refugee processing in Iraq, Jordan, Egypt, Syria, Turkey, and Lebanon;
 
@@ -385,6 +441,78 @@ Noncompliance Report.—Not later than 180 days after the date of the enactment 
 &emsp;“(1) the inability or unwillingness of any contractor or grantee to provide the information requested under subsection (c)(1)(B); and
 
 &emsp;“(2) the reasons for failing to provide such information.
+
+“(f)
+
+Report on Improvements.—
+
+&emsp;“(1)
+
+In general.—Not later than 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2014 \[Dec. 26, 2013\], the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report, with a classified annex, if necessary, to—
+
+&emsp;&emsp;“(A) the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Armed Services of the Senate; and
+
+&emsp;&emsp;“(B) the Committee on the Judiciary, the Committee on Foreign Affairs, and the Committee on Armed Services of the House of Representatives.
+
+&emsp;“(2)
+
+Contents.—The report submitted under paragraph (1) shall describe the implementation of improvements to the processing of applications for special immigrant visas under section 1244(a), including information relating to—
+
+&emsp;&emsp;“(A) enhancing existing systems for conducting background and security checks of persons applying for special immigrant status, which shall—
+
+&emsp;&emsp;&emsp;“(i) support immigration security; and
+
+&emsp;&emsp;&emsp;“(ii) provide for the orderly processing of such applications without significant delay;
+
+&emsp;&emsp;“(B) the financial, security, and personnel considerations and resources necessary to carry out this subtitle;
+
+&emsp;&emsp;“(C) the number of aliens who have applied for special immigrant visas under section 1244 during each month of the preceding fiscal year;
+
+&emsp;&emsp;“(D) the reasons for the failure to process any applications that have been pending for longer than 9 months;
+
+&emsp;&emsp;“(E) the total number of applications that are pending due to the failure—
+
+&emsp;&emsp;&emsp;“(i) to receive approval from the Chief of Mission;
+
+&emsp;&emsp;&emsp;“(ii) of U.S. Citizenship and Immigration Services to complete the adjudication of the Form I–360;
+
+&emsp;&emsp;&emsp;“(iii) to conduct a visa interview; or
+
+&emsp;&emsp;&emsp;“(iv) to issue the visa to an eligible alien;
+
+&emsp;&emsp;“(F) the average wait times for an applicant at each of the stages described in subparagraph (E);
+
+&emsp;&emsp;“(G) the number of denials or rejections at each of the stages described in subparagraph (E); and
+
+&emsp;&emsp;“(H) the reasons for denials by the Chief of Mission based on the categories already made available to denied special immigrant visa applicants in the denial letter sent to them by the Chief of Mission.
+
+“(g)
+
+Public Quarterly Reports.—Not later than 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2014 \[Dec. 26, 2013\], and every 3 months thereafter, the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall publish a report on the website of the Department of State that describes the efficiency improvements made in the process by which applications for special immigrant visas under section 1244(a) are processed, including information described in subparagraphs (C) through (H) of subsection (f)(2).
+
+“(h)
+
+Senior Coordinating Officials.—
+
+&emsp;“(1)
+
+Requirement to designate.—The Secretary of Homeland Security, the Secretary of State, and the Secretary of Defense shall each designate a senior coordinating official, with sufficient expertise, authority, and resources, to carry out the duties described in paragraph (2), with regard to the issuance of special immigrant visas under this subtitle and the Afghan Allies Protection Act of 2009 \[title VI of div. F of Pub. L. 111–8\] (8 U.S.C. 1101 note).
+
+&emsp;“(2)
+
+Duties.—Each senior coordinating official designated under paragraph (1) shall—
+
+&emsp;&emsp;“(A) develop proposals to improve the efficiency and effectiveness of the process for issuing special immigrant visas under this subtitle and the Afghan Allies Protection Act of 2009;
+
+&emsp;&emsp;“(B) coordinate and monitor the implementation of such proposals;
+
+&emsp;&emsp;“(C) include such proposals in the report required by subsection (f) and in each quarterly report required by subsection (g); and
+
+&emsp;&emsp;“(D) implement appropriate actions as authorized by law to carry out the improvements described in the report required by subsection (f).
+
+&emsp;“(3)
+
+Submission to congress.—Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2014 \[Dec. 26, 2013\], the Secretary of Homeland Security, the Secretary of State, and the Secretary of Defense shall each submit to the committees set out in subparagraphs (A) and (B) of subsection (f)(1) the name and title of the senior coordinating official designated under paragraph (1) by each such Secretary, along with a description of the relevant expertise, authority, and resources of such official.
 
 #### “SEC. 1249. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -616,7 +744,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[No
 
 #### Establishing Categories of Aliens for Purposes of Refugee Determinations
 
-Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(1), Dec. 8, 2004, 118 Stat. 3139; Pub. L. 109–102, title V, §534(m)(1), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, §20412(b)(1), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, §634(k)(1), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, §7034(g)(1), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, §7034(f)(1), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, §2121(m)(1), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, §7034(r)(1), Dec. 23, 2011, 125 Stat. 1218, provided that:
+Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(1), Dec. 8, 2004, 118 Stat. 3139; Pub. L. 109–102, title V, §534(m)(1), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, §20412(b)(1), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, §634(k)(1), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8,div. H, title VII, §7034(g)(1), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, §7034(f)(1), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, §2121(m)(1), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, §7034(r)(1), Dec. 23, 2011, 125 Stat. 1218; Pub. L. 113–6, div. F, title VII, §1706(h)(1), Mar. 26, 2013, 127 Stat. 430, provided that:
 
 “(a)
 
@@ -640,7 +768,7 @@ Establishment of Categories.—
 
 &emsp;“(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
-&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, and 2012 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
+&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, and 2013 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
 “(c)
 
@@ -648,17 +776,17 @@ Written Reasons for Denials of Refugee Status.—Each decision to deny an applic
 
 “(d)
 
-Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Each alien who is within a category established under this section and who (after August 14, 1988, and before the date of theenactment of this Act \[Nov. 21, 1989\]) was denied refugee status shall be permitted to reapply for such status. Such an application shall be determined taking into account the application of this section.
+Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Each alien who is within a category established under this section and who (after August 14, 1988, and before the date of the enactment of this Act \[Nov. 21, 1989\]) was denied refugee status shall be permitted to reapply for such status. Such an application shall be determined taking into account the application of this section.
 
 “(e)
 
 Period of Application.—
 
-&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2012.
+&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2013.
 
-&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2012.
+&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2013.
 
-&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2012.”
+&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2013.”
 
 \[Pub. L. 109–102, §534(m)(1)(A), which directed amendment of section 599D(b)(3) of Pub. L. 101–167, set out above, by substituting “2005, and 2006” for “and 2005”, could not be executed.\]
 
@@ -680,7 +808,9 @@ Pub. L. 96–212, title II, §204(d)(1), Mar. 17, 1980, 94 Stat. 109, provided t
 
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
-Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+Determinations by the President pursuant to this section concerning the admission and adjustment ofstatus of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 2014–01, Oct. 2, 2013, 78 F.R. 62415.
 
 Presidential Determination No. 2012–17, Sept. 28, 2012, 77 F.R. 61507.
 
@@ -754,7 +884,7 @@ Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 126
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Refugee Act of 1980 (P.L. 96–212; 8 U.S.C. 1101 note), the Immigration and Nationality Act, as amended (8 U.S.C. 1101 et seq.), and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
-1–101. Exclusive of the functions otherwise delegated, or reserved to the President, by this Order, there are hereby delegated to the Secretary of State and the Secretary of Homeland Security, or either of them, thefunctions of initiating and carrying out appropriate consultations with members of the Committees on the Judiciary of the Senate and of the House of Representatives for purposes of Sections 101(a)(42)(B) and 207(a), (b), (d), and (e) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(42)(B) and 1157(a), (b), (d), and (e)).
+1–101. Exclusive of the functions otherwise delegated, or reserved to the President, by this Order, there are hereby delegated to the Secretary of State and the Secretary of Homeland Security, or either of them, the functions of initiating and carrying out appropriate consultations with members of the Committees on the Judiciary of the Senate and of the House of Representatives for purposes of Sections 101(a)(42)(B) and 207(a), (b), (d), and (e) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(42)(B) and 1157(a), (b), (d), and (e)).
 
 1–102. There are reserved to the President the following functions under the Immigration and Nationality Act, as amended \[8 U.S.C. 1101 et seq.\].
 

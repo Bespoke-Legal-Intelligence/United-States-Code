@@ -10,7 +10,7 @@
 
 &emsp;(3) he has approved design standards for constructing such facility developed in cooperation with the State transportation department.
 
-(c) The term “parking facilities” for purposes of this section shall include access roads, buildings, structures, equipment, improvements, and interests in lands.
+(c) The term "parking facilities" for purposes of this section shall include access roads, buildings, structures, equipment, improvements, and interests in lands.
 
 (d) Nothing in this section, or in any rule or regulation issued under this section, or in any agreement required by this section, shall prohibit (1) any State, political subdivision, or agency or instrumentality thereof, from contracting with any person to operate any parking facility constructed under this section, or (2) any such person from so operating such facility.
 
@@ -20,7 +20,7 @@
 
 (2) Nothing in this subsection, or in any rule or regulation issued under this subsection, or in any agreement required by this subsection, shall prohibit (A) any State, political subdivision, or agency or instrumentality thereof, from contracting with any person to operate any parking facility designated or constructed under this subsection, or (B) any such person from so operating such facility. Any fees charged for the use of any such facility in connection with the purpose of this subsection shall not be in excess of the amount required for operation and maintenance, including compensation to any person for operating the facility.
 
-(3) For the purposes of this subsection, the terms “facilities” and “parking facilities” are synonymous and shall have the same meaning given “parking facilities” in subsection (c) of this section.
+(3) For the purposes of this subsection, the terms "facilities" and "parking facilities" are synonymous and shall have the same meaning given "parking facilities" in subsection (c) of this section.
 
 (g)
 
@@ -30,25 +30,25 @@ Funding.—The addition of electric vehicle charging stations or natural gas veh
 
 #### Amendments
 
-<b>2012</b>—Subsec. (f)(1). Pub. L. 112–141, §1513(a)(1), substituted “104(b)(1)” for “104(b)(4)” and inserted “including the addition of electric vehicle charging stations or natural gas vehicle refueling stations,” after “new facilities,”.
+<b>2012</b>—Subsec. (f)(1). Pub. L. 112–141, §1513(a)(1), substituted "104(b)(1)" for "104(b)(4)" and inserted "including the addition of electric vehicle charging stations or natural gas vehicle refueling stations," after "new facilities,".
 
 Subsec. (g). Pub. L. 112–141, §1513(a)(2), added subsec. (g).
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted “on a Federal-aid highway” for “on the Federal-aid urban system”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted "on a Federal-aid highway" for "on the Federal-aid urban system".
 
-<b>1998</b>—Subsec. (b)(3). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted "State transportation department" for "State highway department".
 
-Subsec. (f)(1). Pub. L. 105–178, §1103(l)(3)(B), substituted “section 104(b)(4)” for “section 104(b)(5)(B) of this title”.
+Subsec. (f)(1). Pub. L. 105–178, §1103(l)(3)(B), substituted "section 104(b)(4)" for "section 104(b)(5)(B) of this title".
 
 <b>1983</b>—Subsec. (f). Pub. L. 97–424 added subsec. (f).
 
-<b>1970</b>—Pub. L. 91–605 substituted “Fringe and corridor parking facilities” for “Limitation on authorization of appropriations for certain purposes” in section catchline.
+<b>1970</b>—Pub. L. 91–605 substituted "Fringe and corridor parking facilities" for "Limitation on authorization of appropriations for certain purposes" in section catchline.
 
 Subsec. (a). Pub. L. 91–605 substituted provisions permitting the Secretary to approve construction of publicly owned parking facilities under the Federal-aid urban system for provisions limiting authorization of appropriations under section 131, 136, and 319(b) of this title, or any highway safety bill enacted after May 1, 1966 by preventing these sections and provisions from being construed as authority for any appropriations not specifically authorized in these sections and provisions.
 
 Subsec. (b). Pub. L. 91–605 substituted provisions preventing project approval by the Secretary unless theState or political subdivision thereof where the project is located can construct, maintain, and operate the facility, unless the Secretary has entered into an agreement with the State or political subdivision governing the financing, maintenance, and operation of the facility, and unless the Secretary has approved design standards for construction of the facility for provisions limiting authorization of appropriations under sections 131, 136, and 319(b) of this title, or any highway safety bill enacted after May 1, 1966 by preventing appropriations to carry out these sections and provisions unless they are specific as to the amount authorized and as to the fiscal year.
 
-Subsec. (c). Pub. L. 91–605 substituted provisions defining “parking facilities” for provisions limiting authorization of appropriations under sections 131, 136, and 319(b) of this title, or any highway safety bill enacted after May 1, 1966 by preventing the highway trust fund from being a source of appropriation for these sections and provisions in an amount exceeding the tax imposed by section 4061(a)(2) of Title 26, if such tax was imposed at a rate of 1% plus additional amounts appropriated from the general fund to the highway trust fund for such purposes except that the total of all appropriations made from such fund to carry out these sections and provisions shall never exceed the total of all appropriations made to such fund based on the imposition of such tax plus additional amounts appropriated from the general fund to the highway trust fund for such purposes.
+Subsec. (c). Pub. L. 91–605 substituted provisions defining "parking facilities" for provisions limiting authorization of appropriations under sections 131, 136, and 319(b) of this title, or any highway safety bill enacted after May 1, 1966 by preventing the highway trust fund from being a source of appropriation for these sections and provisions in an amount exceeding the tax imposed by section 4061(a)(2) of Title 26, if such tax was imposed at a rate of 1% plus additional amounts appropriated from the general fund to the highway trust fund for such purposes except that the total of all appropriations made from such fund to carry out these sections and provisions shall never exceed the total of all appropriations made to such fund based on the imposition of such tax plus additional amounts appropriated from the general fund to the highway trust fund for such purposes.
 
 Subsecs. (d), (e). Pub. L. 91–605 added subsecs. (d) and (e).
 
@@ -60,73 +60,73 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 Pub. L. 112–141, div. A, title I, §1401, July 6, 2012, 126 Stat. 554, provided that:
 
-“(a)
+"(a)
 
 In General.—It is the sense of Congress that it is a national priority to address projects under this section for the shortage of long-term parking for commercial motor vehicles on the National Highway System to improve the safety of motorized and nonmotorized users and for commercial motor vehicle operators.
 
-“(b)
+"(b)
 
 Eligible Projects.—Eligible projects under this section are those that—
 
-&emsp;“(1) serve the National Highway System; and
+&emsp;"(1) serve the National Highway System; and
 
-&emsp;“(2) may include the following:
+&emsp;"(2) may include the following:
 
-&emsp;&emsp;“(A) Constructing safety rest areas (as defined in section 120(c) of title 23, United States Code) that include parking for commercial motor vehicles.
+&emsp;&emsp;"(A) Constructing safety rest areas (as defined in section 120(c) of title 23, United States Code) that include parking for commercial motor vehicles.
 
-&emsp;&emsp;“(B) Constructing commercial motor vehicle parking facilities adjacent to commercial truck stops and travel plazas.
+&emsp;&emsp;"(B) Constructing commercial motor vehicle parking facilities adjacent to commercial truck stops and travel plazas.
 
-&emsp;&emsp;“(C) Opening existing facilities to commercial motor vehicle parking, including inspection and weigh stations and park-and-ride facilities.
+&emsp;&emsp;"(C) Opening existing facilities to commercial motor vehicle parking, including inspection and weigh stations and park-and-ride facilities.
 
-&emsp;&emsp;“(D) Promoting the availability of publicly or privately provided commercial motor vehicle parking on the National Highway System using intelligent transportation systems and other means.
+&emsp;&emsp;"(D) Promoting the availability of publicly or privately provided commercial motor vehicle parking on the National Highway System using intelligent transportation systems and other means.
 
-&emsp;&emsp;“(E) Constructing turnouts along the National Highway System for commercial motor vehicles.
+&emsp;&emsp;"(E) Constructing turnouts along the National Highway System for commercial motor vehicles.
 
-&emsp;&emsp;“(F) Making capital improvements to public commercial motor vehicle parking facilities currently closed on a seasonal basis to allow the facilities to remain open year-round.
+&emsp;&emsp;"(F) Making capital improvements to public commercial motor vehicle parking facilities currently closed on a seasonal basis to allow the facilities to remain open year-round.
 
-&emsp;&emsp;“(G) Improving the geometric design of interchanges on the National Highway System to improve access to commercial motor vehicle parking facilities.
+&emsp;&emsp;"(G) Improving the geometric design of interchanges on the National Highway System to improve access to commercial motor vehicle parking facilities.
 
-“(c)
+"(c)
 
 Survey and Comparative Assessment.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 18 months after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\], in consultation with relevant State motor carrier safety personnel, shall conduct a survey of each State—
 
-&emsp;&emsp;“(A) to evaluate the capability of the State to provide adequate parking and rest facilities for commercial motor vehicles engaged in interstate transportation;
+&emsp;&emsp;"(A) to evaluate the capability of the State to provide adequate parking and rest facilities for commercial motor vehicles engaged in interstate transportation;
 
-&emsp;&emsp;“(B) to assess the volume of commercial motor vehicle traffic in the State; and
+&emsp;&emsp;"(B) to assess the volume of commercial motor vehicle traffic in the State; and
 
-&emsp;&emsp;“(C) to develop a system of metrics to measure the adequacy of commercial motor vehicle parking facilities in the State.
+&emsp;&emsp;"(C) to develop a system of metrics to measure the adequacy of commercial motor vehicle parking facilities in the State.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Results.—The results of the survey under paragraph (1) shall be made available to the public on the website of the Department of Transportation.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Periodic updates.—The Secretary shall periodically update the survey under this subsection.
 
-“(d)
+"(d)
 
 Electric Vehicle and Natural Gas Vehicle Infrastructure.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Except as provided in paragraph (2), a State may establish electric vehicle charging stations or natural gas vehicle refueling stations for the use of battery-powered or natural gas-fueled trucks or other motor vehicles at any parking facility funded or authorized under this Act \[see Tables for classification\] or title 23, United States Code.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Exception.—Electric vehicle battery charging stations or natural gas vehicle refueling stations may not be established or supported under paragraph (1) if commercial establishments serving motor vehicle users are prohibited by section 111 of title 23, United States Code.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Funds.—Charging or refueling stations described in paragraph (1) shall be eligible for the same funds as are available for the parking facilities in which the stations are located.
 
-“(e)
+"(e)
 
-Treatment of Projects.—Notwithstanding any other provision of law, projects funded through the authority provided under this section shall be treated as projects on a Federal-aid highway under chapter 1 of title 23, United States Code.”
+Treatment of Projects.—Notwithstanding any other provision of law, projects funded through the authority provided under this section shall be treated as projects on a Federal-aid highway under chapter 1 of title 23, United States Code."
 
 #### Truck Parking Facilities
 

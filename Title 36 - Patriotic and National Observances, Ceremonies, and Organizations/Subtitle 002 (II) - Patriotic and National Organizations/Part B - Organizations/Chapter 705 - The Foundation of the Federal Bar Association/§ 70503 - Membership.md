@@ -50,7 +50,7 @@ Aug. 24, 1954, ch. 911, §§6, 16, 68 Stat. 798, 800.
 
 &nbsp;
 
-In subsection (a), the words “the persons listed in section 571 of this title” and “hereafter” are omitted as obsolete.
+In subsection (a), the words "the persons listed in section 571 of this title" and "hereafter" are omitted as obsolete.
 
-In subsection (b), the words “has one vote” are substituted for “may cast one vote” for consistency in the revised title.
+In subsection (b), the words "has one vote" are substituted for "may cast one vote" for consistency in the revised title.
 

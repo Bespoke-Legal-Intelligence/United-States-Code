@@ -26,7 +26,7 @@ Purpose and Establishment.—To support the information management and decisionm
 
 &emsp;&emsp;(D) individuals, within the United States and internationally;
 
-&emsp;(8) coordinate efforts among, and cooperate with, transportation libraries, information providers, and technical assistance centers, in conjunction with private industry and othertransportation library and information centers, with the goal of developing a comprehensive transportation information and knowledge network that supports the activities described in section 6302(b)(3)(B)(vi); and
+&emsp;(8) coordinate efforts among, and cooperate with, transportation libraries, information providers, and technical assistance centers, in conjunction with private industry and other transportation library and information centers, with the goal of developing a comprehensive transportation information and knowledge network that supports the activities described in section 6302(b)(3)(B)(vi); and
 
 &emsp;(9) engage in such other activities as the Director determines to be necessary and as the resources of the Library permit.
 
@@ -40,7 +40,7 @@ Agreements.—
 
 &emsp;(1)
 
-In general.—To carry out this section, the Director may enter into agreements with, award grants to, and receive amounts from, any—
+In general.—To carry out this section, the Director may enter into agreements with,award grants to, and receive amounts from, any—
 
 &emsp;&emsp;(A) State or local government;
 

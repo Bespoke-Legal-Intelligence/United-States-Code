@@ -30,7 +30,7 @@ The Secretary shall appoint a senior official in the Department, who shall repor
 
 &emsp;&emsp;(B) make such investigations and reports relating to the administration of the programs and operations of the Department as are, in the senior official's judgment, necessary or desirable;
 
-&emsp;&emsp;(C) subject to the approval of the Secretary, require by subpoena the production, by any person other than a Federal agency, of all information, documents, reports, answers, records, accounts, papers, and other data and documentary evidence necessary to performance of the responsibilities of the senior official under this section; and
+&emsp;&emsp;(C) subject to the approval of the Secretary, require by subpoena the production,by any person other than a Federal agency, of all information, documents, reports, answers, records, accounts, papers, and other data and documentary evidence necessary to performance of the responsibilities of the senior official under this section; and
 
 &emsp;&emsp;(D) administer to or take from any person an oath, affirmation, or affidavit, whenever necessary to performance of the responsibilities of the senior official under this section.
 
@@ -76,7 +76,7 @@ The Secretary shall appoint a senior official in the Department, who shall repor
 
 #### (II) Investigation not initiated
 
-&emsp;&emsp;&emsp;&emsp;If the Inspector General notifies the senior official under subclause (I)(bb) that the Inspector General intended to initiate an audit or investigation, but does not initiate that audit or investigation within 90 days after providing that notification, the Inspector General shallfurther notify the senior official that an audit or investigation was not initiated. The further notification under this subclause shall be made not later than 3 days after the end of that 90-day period.
+&emsp;&emsp;&emsp;&emsp;If the Inspector General notifies the senior official under subclause (I)(bb) that the Inspector General intended to initiate an audit or investigation, but does not initiate that audit or investigation within 90 days after providing that notification, the Inspector General shall further notify the senior official that an audit or investigation was not initiated. The further notification under this subclause shall be made not later than 3 days after the end of that 90-day period.
 
 #### (iii) Investigation by senior official
 

@@ -16,7 +16,7 @@ For purposes of subsection (a)—
 
 #### (1) In general
 
-&emsp;The term “disqualified benefit” means—
+&emsp;The term "disqualified benefit" means—
 
 &emsp;&emsp;(A) any post-retirement medical benefit or life insurance benefit provided with respect to a key employee if a separate account is required to be established for such employee under section 419A(d) and such payment is not from such account,
 
@@ -44,7 +44,7 @@ For purposes of this section, the terms used in this section shall have the same
 
 #### Codification
 
-Pub. L. 101–140 amended this section to read as if the amendments made by section 1011B(a)(27) of Pub. L.100–647 (enacting subsec. (c)) had not been enacted. Subsequent to enactment by Pub. L. 100–647, subsec. (c) was amended by Pub. L. 100–647, §3021(a)(1)(C). See 1988 Amendment note below.
+Pub. L. 101–140 amended this section to read as if the amendments made by section 1011B(a)(27) of Pub. L. 100–647 (enacting subsec. (c)) had not been enacted. Subsequent to enactment by Pub. L. 100–647, subsec. (c) was amended by Pub. L. 100–647, §3021(a)(1)(C). See 1988 Amendment note below.
 
 #### Amendments
 
@@ -56,19 +56,19 @@ Subsecs. (c), (d). Pub. L. 101–140 amended this section to read as if amendmen
 
 Subsec. (c). Pub. L. 100–647, §1011B(a)(27)(A), added subsec. (c) relating to tax on funded welfare benefit funds which include discriminatory employee benefit plan. Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1)(B). Pub. L. 100–647, §3021(a)(1)(C)(i), substituted “any testing year (as defined in section 89(j)(13))” for “any plan year”, see Codification note above.
+Subsec. (c)(1)(B). Pub. L. 100–647, §3021(a)(1)(C)(i), substituted "any testing year (as defined in section 89(j)(13))" for "any plan year", see Codification note above.
 
-Subsec. (c)(2)(A). Pub. L. 100–647, §3021(a)(1)(C)(ii), substituted “testing” for “plan” in cls. (i) and (ii), see Codification note above.
+Subsec. (c)(2)(A). Pub. L. 100–647, §3021(a)(1)(C)(ii), substituted "testing" for "plan" in cls. (i) and (ii), see Codification note above.
 
 Subsec. (d). Pub. L. 100–647, §1011B(a)(27)(A), redesignated former subsec. (c) as (d).
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For purposes of subsection (a), the term ‘disqualified benefit’ means—
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "For purposes of subsection (a), the term 'disqualified benefit' means—
 
-&emsp;“(1) any medical benefit or life insurance benefit provided with respect to a key employee other than from a separate account established for such owner under section 419A(d), and
+&emsp;"(1) any medical benefit or life insurance benefit provided with respect to a key employee other than from a separate account established for such owner under section 419A(d), and
 
-&emsp;“(2) any post-retirement medical or life insurance benefit unless the plan meets the requirements of section 505(b)(1) with respect to such benefit, and
+&emsp;"(2) any post-retirement medical or life insurance benefit unless the plan meets the requirements of section 505(b)(1) with respect to such benefit, and
 
-&emsp;“(3) any portion of such fund reverting to the benefit of the employer.”
+&emsp;"(3) any portion of such fund reverting to the benefit of the employer."
 
 #### Effective Date of 1989 Amendment
 
@@ -90,5 +90,5 @@ Section applicable to benefits provided after Dec. 31, 1985, see section 511(e)(
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

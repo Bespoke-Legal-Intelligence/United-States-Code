@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Agricultural commodity
 
-&emsp;The term “agricultural commodity” has the meaning given the term in section 5602 of this title.
+&emsp;The term "agricultural commodity" has the meaning given the term in section 5602 of this title.
 
 #### (2) Geographically disadvantaged farmer or rancher
 
-&emsp;The term “geographically disadvantaged farmer or rancher” has the meaning given the term in section 10906(a) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 2204 note; Public Law 107–171).
+&emsp;The term "geographically disadvantaged farmer or rancher" has the meaning given the term in section 10906(a) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 2204 note; Public Law 107–171).
 
 #### (b) Authorization
 
@@ -32,7 +32,7 @@ Subject to the availability of funds under subsection (d), the Secretary may pro
 
 &emsp;&emsp;Subject to paragraph (2), the amount of direct reimbursement payments made to a geographically disadvantaged farmer or rancher under this section for a fiscal year shall equal the product obtained by multiplying—
 
-&emsp;&emsp;&emsp;(i) the amount of costs incurred by the geographically disadvantaged farmer or rancher for transportation of the agricultural commodity or inputs during the fiscal year; and
+&emsp;&emsp;&emsp;(i) the amount of costs incurred by the geographically disadvantaged farmer orrancher for transportation of the agricultural commodity or inputs during the fiscal year; and
 
 &emsp;&emsp;&emsp;(ii)(I) the percentage of the allowance for that fiscal year under section 5941 of title 5 for Federal employees stationed in Alaska and Hawaii; or
 

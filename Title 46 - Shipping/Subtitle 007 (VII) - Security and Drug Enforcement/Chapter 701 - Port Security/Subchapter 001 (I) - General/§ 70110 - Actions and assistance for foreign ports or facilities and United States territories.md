@@ -66,23 +66,23 @@ Conditions.—The Secretary—
 
 &emsp;&emsp;(C) may only lend, lease, or otherwise provide equipment that the Secretary has first determined is not required by the Coast Guard for the performance of its missions.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2080; amended Pub. L. 109–347, title II, §233(b), Oct. 13, 2006, 120 Stat. 1917; Pub. L. 111–281, title VIII, §806(a)(3)–(c)(2)(A), Oct. 15, 2010, 124 Stat. 2992, 2993; Pub. L. 111–330, §1(12), Dec. 22, 2010, 124 Stat. 3570.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2080; amended Pub. L. 109–347, title II, §233(b), Oct. 13, 2006, 120 Stat. 1917; Pub. L. 111–281, title VIII, §806(a)(3)–(c)(2)(A), Oct. 15,2010, 124 Stat. 2992, 2993; Pub. L. 111–330, §1(12), Dec. 22, 2010, 124 Stat. 3570.)
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–281, §806(c)(2)(A)(i), as amended by Pub. L. 111–330, inserted “or facilities” after “ports” in section catchline.
+<b>2010</b>—Pub. L. 111–281, §806(c)(2)(A)(i), as amended by Pub. L. 111–330, inserted "or facilities" after "ports" in section catchline.
 
-Pub. L. 111–281, §806(c)(2)(A)(ii), inserted “or facility” after “port” wherever appearing except in subsec. (f), which was added by Pub. L. 111–281, §806(b), to reflect the probable intent of Congress.
+Pub. L. 111–281, §806(c)(2)(A)(ii), inserted "or facility" after "port" wherever appearing except in subsec. (f), which was added by Pub. L. 111–281, §806(b), to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 111–281, §806(a)(3), substituted “Unless the Secretary finds that a foreign port maintains effective antiterrorism measures,” for “If the Secretary finds that a foreign port does not maintain effective antiterrorism measures,”.
+Subsec. (a). Pub. L. 111–281, §806(a)(3), substituted "Unless the Secretary finds that a foreign port maintains effective antiterrorism measures," for "If the Secretary finds that a foreign port does not maintain effective antiterrorism measures,".
 
-Subsec. (e). Pub. L. 111–281, §806(c)(2)(A)(iii), substituted “Ports, Facilities,” for “Ports” in heading.
+Subsec. (e). Pub. L. 111–281, §806(c)(2)(A)(iii), substituted "Ports, Facilities," for "Ports" in heading.
 
-Subsec. (e)(1). Pub. L. 111–281, §806(c)(1), substituted “The Secretary shall establish a strategic plan to utilize those assistance programs to assist ports and facilities that are found by the Secretary under subsection (a) not to maintain effective antiterrorism measures in the implementation of port security antiterrorism measures.” for “The Secretary shall establish a program to utilize the programs that are capable of implementing port security antiterrorism measures at ports in foreign countries and territories of the United States that the Secretary finds to lack effective antiterrorism measures.”
+Subsec. (e)(1). Pub. L. 111–281, §806(c)(1), substituted "The Secretary shall establish a strategic plan to utilize those assistance programs to assist ports and facilities that are found by the Secretary under subsection (a) not to maintain effective antiterrorism measures in the implementation of port security antiterrorism measures." for "The Secretary shall establish a program to utilize the programs that are capable of implementing port security antiterrorism measures at ports in foreign countries and territories of the United States that the Secretary finds to lack effective antiterrorism measures."
 
 Subsec. (f). Pub. L. 111–281, §806(b), added subsec. (f).
 
-<b>2006</b>—Pub. L. 109–347, §233(b)(1), substituted “Actions and assistance for foreign ports and United States territories” for “Actions when foreign ports not maintaining effective antiterrorism measures” in section catchline.
+<b>2006</b>—Pub. L. 109–347, §233(b)(1), substituted "Actions and assistance for foreign ports and United States territories" for "Actions when foreign ports not maintaining effective antiterrorism measures" in section catchline.
 
 Subsec. (e). Pub. L. 109–347, §233(b)(2), added subsec. (e).
 

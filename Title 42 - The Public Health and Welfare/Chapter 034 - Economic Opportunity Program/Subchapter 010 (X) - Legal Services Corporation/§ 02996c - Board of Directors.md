@@ -26,7 +26,7 @@ Within six months after the first meeting of the Board, the Board shall request 
 
 #### (g) Open meetings; applicability of Government in the Sunshine provisions
 
-All meetings of the Board, of any executive committee of the Board, and of any advisory council established in connection with this subchapter shall be open and shall be subject to the requirements and provisions of section 552b of title 5 (relating to open meetings).
+All meetings of the Board, of any executive committee of the Board, and of any advisorycouncil established in connection with this subchapter shall be open and shall be subject to the requirements and provisions of section 552b of title 5 (relating to open meetings).
 
 #### (h) Quarterly meetings
 
@@ -46,5 +46,5 @@ Amendment by Pub. L. 95–222 effective Dec. 28, 1977, see section 17(b) of Pub.
 
 #### Compensation of Members of Board of Directors
 
-Pub. L. 97–377, title I, §101(d), Dec. 21, 1982, 96 Stat. 1876, provided: “That no member of the Board of Directors of the Legal Services Corporation shall be compensated for his services to the Corporation except for the payment of an attendance fee at meetings of the Board at a rate not to exceed the highest daily rate for grade fifteen (15) of the General Schedule and necessary travel expenses to attend Board meetings in accordance with the Standard Government Travel Regulations.”
+Pub. L. 97–377, title I, §101(d), Dec. 21, 1982, 96 Stat. 1876, provided: "That no member of the Board of Directors of the Legal Services Corporation shall be compensated for his services to the Corporation except for the payment of an attendance fee at meetings of the Board at a rate not to exceed the highest daily rate for grade fifteen (15) of the General Schedule and necessary travel expenses to attend Board meetings in accordance with the Standard Government Travel Regulations."
 

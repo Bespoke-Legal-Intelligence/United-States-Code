@@ -2,7 +2,7 @@
 
 #### (a) Period of limitation on filing claim
 
-Claim for credit or refund of an overpayment of any tax imposed by this title in respect of which tax the taxpayer is required to file a return shall be filed by the taxpayer within 3 years from the time the return was filed or 2 years from the time the tax was paid, whichever of such periods expires the later, or if no return was filed by the taxpayer, within 2 years from the time the tax was paid. Claim for credit or refund of an overpayment of any tax imposed by this title which is required to be paid by meansof a stamp shall be filed by the taxpayer within 3 years from the time the tax was paid.
+Claim for credit or refund of an overpayment of any tax imposed by this title in respect of which tax the taxpayer is required to file a return shall be filed by the taxpayer within 3 years from the time the return was filed or 2 years from the time the tax was paid, whichever of such periods expires the later, or if no return was filed by the taxpayer, within 2 years from the time the tax was paid. Claim for credit or refund of an overpayment of any tax imposed by this title which is required to be paid by means of a stamp shall be filed by the taxpayer within 3 years from the time the tax was paid.
 
 #### (b) Limitation on allowance of credits and refunds
 
@@ -88,7 +88,7 @@ If an agreement under the provisions of section 6501(c)(4) extending the period 
 
 #### (B) Exception in the case of foreign taxes paid or accrued
 
-&emsp;&emsp;In the case of a claim described in subparagraph (A), the amount of the credit or refund may exceed the portion of the tax paid within the period provided in subsection (b) or (c), whichever is applicable, to the extent of the amount of the overpayment attributable to the allowance of a credit for the taxes described in subparagraph (A).
+&emsp;&emsp;In the case of a claim described in subparagraph (A), the amount of the credit or refundmay exceed the portion of the tax paid within the period provided in subsection (b) or (c), whichever is applicable, to the extent of the amount of the overpayment attributable to the allowance of a credit for the taxes described in subparagraph (A).
 
 #### (4) Special period of limitation with respect to certain credit carrybacks
 
@@ -102,7 +102,7 @@ If an agreement under the provisions of section 6501(c)(4) extending the period 
 
 #### (C) Credit carryback defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “credit carryback” means any business carryback under section 39.
+&emsp;&emsp;For purposes of this paragraph, the term "credit carryback" means any business carryback under section 39.
 
 #### (5) Special period of limitation with respect to self-employment tax in certain cases
 
@@ -180,7 +180,7 @@ In the case of any tax imposed by subtitle A with respect to any person which is
 
 &emsp;&emsp;<b>(7) For a period of limitations for refund of an overpayment of penalties imposed under section 6694 or 6695, see section 6696(d)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 808; Apr. 2, 1956, ch. 160, §4(e), 70 Stat. 91; June 29, 1956, ch. 462,title II, §208(e)(6), 70 Stat. 397; Pub. L. 85–866, title I, §82, Sept. 2, 1958, 72 Stat. 1663; Pub. L. 86–280, §1(a), Sept. 16, 1959, 73 Stat. 563; Pub. L. 87–794, title III, §317(d), Oct. 11, 1962, 76 Stat. 891; Pub. L. 87–834, §2(e)(2), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§232(d), 239, Feb. 26, 1964, 78 Stat. 111, 128; Pub. L. 88–571, §3(c), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–331, §9(c), Nov. 8, 1965, 79 Stat. 1278; Pub. L. 90–225, §2(d), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title I, §101(h), title III, §311(d)(3), title V, §512(e)(2), Dec. 30, 1969, 83 Stat. 525, 588, 640; Pub. L. 92–178, title VI, §601(d)(2), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title IV, §4401(b), formerly §4081(b), Sept. 2, 1974, 88 Stat. 1034, renumbered §4401(b), Pub. L. 96–364, title I, §108(a), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 94–455, title XII, §1203(h)(3), title XIX, §1906(a)(33), title XXI, §2107(g)(2)(B), Oct. 4, 1976, 90 Stat. 1694, 1829, 1904; Pub. L. 95–30, title II, §202(d)(4)(B), May 23, 1977, 91 Stat. 149; Pub. L. 95–600, title II, §212(b)(1), title VII, §703(p)(3), Nov. 6, 1978, 92 Stat. 2819, 2944; Pub. L. 95–628, §8(a), (b), Nov. 10, 1978, 92 Stat. 3630, 3631; Pub. L. 96–222, title I, §§102(a)(2)(B), 108(b)(1)(B), Apr. 1, 1980, 94 Stat. 208, 226; Pub. L. 96–223, title I, §101(g)(2), Apr. 2, 1980, 94 Stat. 254; Pub. L. 96–598, §1(c), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–34, title II, §221(b)(2)(A), title III, §331(d)(2)(A), Aug. 13, 1981, 95 Stat. 247, 295; Pub. L. 97–248, title IV, §402(c)(7), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, div. A, title I, §163(b)(2), title II, §211(b)(25), title IV, §474(r)(40), title VII, §§714(p)(2)(G), 735(c)(14), div. B, title VI, §2663(j)(5)(F), July 18, 1984, 98 Stat. 698, 757, 847, 965, 984, 1171; Pub. L. 99–514, title I, §141(b)(3), title II, §231(d)(3)(I), title XVIII, §1847(b)(15), Oct. 22, 1986, 100 Stat. 2117, 2180, 2857; Pub. L. 100–418, title I, §1941(b)(2)(I), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1017(c)(11), 1018(u)(21), (51), Nov. 10, 1988, 102 Stat. 3577, 3591, 3593; Pub. L. 101–508, title XI, §11801(c)(17)(B), (22)(C), Nov. 5, 1990, 104 Stat. 1388–527, 1388–528; Pub. L. 103–296, title I, §108(h)(8), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 105–34, title X, §1056(a), title XIV, §1454(b)(1), Aug. 5, 1997, 111 Stat. 945, 1056; Pub. L. 105–206, title III, §3202(a), July 22, 1998, 112 Stat. 740; Pub. L. 107–16, title V, §532(c)(11), June 7, 2001, 115 Stat. 75; Pub. L. 110–245, title I, §106(a), June 17, 2008, 122 Stat. 1630.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 808; Apr. 2, 1956, ch. 160, §4(e), 70 Stat. 91; June 29, 1956, ch. 462, title II, §208(e)(6), 70 Stat. 397; Pub. L. 85–866, title I, §82, Sept. 2, 1958, 72 Stat. 1663; Pub. L. 86–280, §1(a), Sept. 16, 1959, 73 Stat. 563; Pub. L. 87–794, title III, §317(d), Oct. 11, 1962, 76 Stat. 891; Pub. L. 87–834, §2(e)(2), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§232(d), 239, Feb. 26, 1964, 78 Stat. 111, 128; Pub. L. 88–571, §3(c), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–331, §9(c), Nov. 8, 1965, 79 Stat. 1278; Pub. L. 90–225, §2(d), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title I, §101(h), title III, §311(d)(3), title V, §512(e)(2), Dec. 30, 1969, 83 Stat. 525, 588, 640; Pub. L. 92–178, title VI, §601(d)(2), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title IV, §4401(b), formerly §4081(b), Sept. 2, 1974, 88 Stat. 1034, renumbered §4401(b), Pub. L. 96–364, title I, §108(a), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 94–455, title XII, §1203(h)(3), title XIX, §1906(a)(33), title XXI, §2107(g)(2)(B), Oct. 4, 1976, 90 Stat. 1694, 1829, 1904; Pub. L. 95–30, title II, §202(d)(4)(B), May 23, 1977, 91 Stat. 149; Pub. L. 95–600, title II, §212(b)(1), title VII, §703(p)(3), Nov. 6, 1978, 92 Stat. 2819, 2944; Pub. L. 95–628, §8(a), (b), Nov. 10, 1978, 92 Stat. 3630, 3631; Pub. L. 96–222, title I, §§102(a)(2)(B), 108(b)(1)(B), Apr. 1, 1980, 94 Stat. 208, 226; Pub. L. 96–223, title I, §101(g)(2), Apr. 2, 1980, 94 Stat. 254; Pub. L. 96–598, §1(c), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–34, title II, §221(b)(2)(A), title III, §331(d)(2)(A), Aug. 13, 1981, 95 Stat. 247, 295; Pub. L. 97–248, title IV, §402(c)(7), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, div. A, title I, §163(b)(2), title II, §211(b)(25), title IV, §474(r)(40), title VII, §§714(p)(2)(G), 735(c)(14), div. B, title VI, §2663(j)(5)(F), July 18, 1984, 98 Stat. 698, 757, 847, 965, 984, 1171; Pub. L. 99–514, title I, §141(b)(3), title II, §231(d)(3)(I), title XVIII, §1847(b)(15), Oct. 22, 1986, 100 Stat. 2117, 2180, 2857; Pub. L. 100–418, title I, §1941(b)(2)(I), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1017(c)(11), 1018(u)(21), (51), Nov. 10, 1988, 102 Stat. 3577, 3591, 3593; Pub. L. 101–508, title XI, §11801(c)(17)(B), (22)(C), Nov. 5, 1990, 104 Stat. 1388–527, 1388–528; Pub. L. 103–296, title I, §108(h)(8), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 105–34, title X, §1056(a), title XIV, §1454(b)(1), Aug. 5, 1997, 111 Stat. 945, 1056; Pub. L. 105–206, title III, §3202(a), July 22, 1998, 112 Stat. 740; Pub. L. 107–16, title V, §532(c)(11), June 7, 2001, 115 Stat. 75; Pub. L. 110–245, title I, §106(a), June 17, 2008, 122 Stat. 1630.)
 
 #### References in Text
 
@@ -192,59 +192,59 @@ Section 4045 of the Employee Retirement Income Security Act of 1974, referred to
 
 <b>2008</b>—Subsec. (d)(8). Pub. L. 110–245 added par. (8).
 
-<b>2001</b>—Subsec. (i)(2). Pub. L. 107–16 substituted “2014(b)” for “2011(c), 2014(b),”.
+<b>2001</b>—Subsec. (i)(2). Pub. L. 107–16 substituted "2014(b)" for "2011(c), 2014(b),".
 
 <b>1998</b>—Subsecs. (h), (i). Pub. L. 105–206 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-<b>1997</b>—Subsec. (d)(3)(A). Pub. L. 105–34, §1056(a), substituted “for the year in which such taxes were actually paid or accrued” for “for the year with respect to which the claim is made”.
+<b>1997</b>—Subsec. (d)(3)(A). Pub. L. 105–34, §1056(a), substituted "for the year in which such taxes were actually paid or accrued" for "for the year with respect to which the claim is made".
 
 Subsec. (d)(7). Pub. L. 105–34, §1454(b)(1), added par. (7).
 
-<b>1994</b>—Subsec. (d)(5). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+<b>1994</b>—Subsec. (d)(5). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary of Health and Human Services".
 
-<b>1990</b>—Subsec. (d)(2)(A). Pub. L. 101–508, §11801(c)(17)(B), struck out before period at end of first sentence “; except that with respect to an overpayment attributable to the creation of, or an increase in a net operating loss carryback as a result of the elimination of excessive profits by a renegotiation (as defined in section 1481(a)(1)(A)), the period shall not expire before the expiration of the 12th month following the month in which the agreement or order for the elimination of such excessive profits becomes final”.
+<b>1990</b>—Subsec. (d)(2)(A). Pub. L. 101–508, §11801(c)(17)(B), struck out before period at end of first sentence "; except that with respect to an overpayment attributable to the creation of, or an increase in a net operating loss carryback as a result of the elimination of excessive profits by a renegotiation (as defined in section 1481(a)(1)(A)), the period shall not expire before the expiration of the 12th month following the month in which the agreement or order for the elimination of such excessive profits becomes final".
 
 Subsec. (e). Pub. L. 101–508, §11801(c)(22)(C), struck out subsec. (e) which related to special rules in case of manufactured sugar either exported, used as livestock feed, or for distillation or production of alcohol.
 
 <b>1988</b>—Subsec. (d)(4)(C). Pub. L. 100–647, §1018(u)(21), made technical correction to directory language of Pub. L. 99–514, §231(d)(3)(I), see 1986 Amendment note below.
 
-Subsec. (f). Pub. L. 100–647, §1018(u)(51), substituted “similar taxes” for “certain chapter 43 taxes” in heading, and “section 4912, chapter 42,” for “chapter 42” in text.
+Subsec. (f). Pub. L. 100–647, §1018(u)(51), substituted "similar taxes" for "certain chapter 43 taxes" in heading, and "section 4912, chapter 42," for "chapter 42" in text.
 
 Subsec. (h). Pub. L. 100–418, §1941(b)(2)(I), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to special rules for windfall profit taxes.
 
 Subsec. (i). Pub. L. 100–418, §1941(b)(2)(I), redesignated subsec. (i) as (h).
 
-Subsec. (i)(6). Pub. L. 100–647, §1017(c)(11), substituted “section 6421(d)” for “section 6421(c)”.
+Subsec. (i)(6). Pub. L. 100–647, §1017(c)(11), substituted "section 6421(d)" for "section 6421(c)".
 
-<b>1986</b>—Subsec. (d)(2)(B). Pub. L. 99–514, §141(b)(3), amended subpar. (B) generally, restating cl. (i) as cls. (i), (ii), and (iii) and striking out former cl. (ii) which read as follows: “A claim for credit or refund for a computation year (as defined in section 1302(c)(1)) shall be determined to relate to an overpayment attributable to a net operating loss carryback or a capital loss carryback, as the case may be, when such carryback relates to any base period year (as defined in section 1302(c)(3)).”
+<b>1986</b>—Subsec. (d)(2)(B). Pub. L. 99–514, §141(b)(3), amended subpar. (B) generally, restating cl. (i) as cls. (i), (ii), and (iii) and striking out former cl. (ii) which read as follows: "A claim for credit or refund for a computation year (as defined in section 1302(c)(1)) shall be determined to relate to an overpayment attributable to a net operating loss carryback or a capital loss carryback, as the case may be, when such carryback relates to any base period year (as defined in section 1302(c)(3))."
 
-Subsec. (d)(4)(C). Pub. L. 99–514, §231(d)(3)(I), as amended by Pub. L. 100–647, §1018(u)(21), struck out “and any research credit carryback under section 30(g)(2)” after “under section 39”.
+Subsec. (d)(4)(C). Pub. L. 99–514, §231(d)(3)(I), as amended by Pub. L. 100–647, §1018(u)(21), struck out "and any research credit carryback under section 30(g)(2)" after "under section 39".
 
-Subsec. (h)(1). Pub. L. 99–514, §1847(b)(15)(A), substituted “section 6501(m)(1)(B)” for “section 6501(q)(1)(B)”.
+Subsec. (h)(1). Pub. L. 99–514, §1847(b)(15)(A), substituted "section 6501(m)(1)(B)" for "section 6501(q)(1)(B)".
 
-Subsec. (h)(2). Pub. L. 99–514, §1847(b)(15)(B), substituted “section 6501(m)(2)(B)” for “section 6501(q)(2)(B)”.
+Subsec. (h)(2). Pub. L. 99–514, §1847(b)(15)(B), substituted "section 6501(m)(2)(B)" for "section 6501(q)(2)(B)".
 
-<b>1984</b>—Subsec. (d)(4)(C). Pub. L. 98–369, §474(r)(40), substituted “business carryback under section 39 and any research credit carryback under section 30(g)(2)” for “investment credit carryback, work incentive program credit carryback, new employee credit carryback, research credit carryback, and employee stock ownership credit carryback”.
+<b>1984</b>—Subsec. (d)(4)(C). Pub. L. 98–369, §474(r)(40), substituted "business carryback under section 39 and any research credit carryback under section 30(g)(2)" for "investment credit carryback, work incentive program credit carryback, new employee credit carryback, research credit carryback, and employee stock ownership credit carryback".
 
-Subsec. (d)(5). Pub. L. 98–369, §2663(j)(5)(F), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+Subsec. (d)(5). Pub. L. 98–369, §2663(j)(5)(F), substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare".
 
 Subsec. (d)(6), (7). Pub. L. 98–369, §211(b)(25), redesignated par. (7) as (6) and struck out former par. (6) relating to a special period of limitation with respect to reduction of policyholders surplus account of life insurance companies.
 
-Subsec. (f). Pub. L. 98–369, §163(b)(2), substituted “section 6501(l)(1)” for “section 6501(n)(1)”.
+Subsec. (f). Pub. L. 98–369, §163(b)(2), substituted "section 6501(l)(1)" for "section 6501(n)(1)".
 
 Subsec. (h)(3). Pub. L. 98–369, §714(p)(2)(G), amended par. (3) generally. Prior to amendment par. (3) related to partnership items of federally registered partnerships and provided that under regulations prescribed by the Secretary, rules similar to the rules of subsection (g) shall apply to the tax imposed by section 4986.
 
 Subsecs. (i), (j). Pub. L. 98–369, §735(c)(14), redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to a special rule for certain tread rubber tax credits or refunds.
 
-<b>1982</b>—Subsec. (g). Pub. L. 97–248 substituted “Special rule for claims with respect to partnership items” for “Special rule for partnership items of federally registered partnerships” in heading and, in text, substituted provisions that, in the case of any tax imposed by subtitle A with respect to any person which is attributable to any partnership item (as defined in section 6231(a)(3)), the provisions of section 6227 and subsecs. (c) and (d) of section 6230 shall apply in lieu of the provisions of this subchapter for provisions that (1) in the case of any tax imposed by subtitle A with respect to any person, the period for filing a claim for credit or refund of any overpayment attributable to any partnership item of a federally registered partnership would not expire before the later of (A) the date which was 4 years after the date prescribed by law (including extensions thereof) for filing the partnership return for the partnership taxable year in which the item arose, or (B) if an agreement under the provisions of section 6501(c)(4) extending the period for the assessment of any deficiency attributable to such partnership item was made before the date specified in subpar. (A), the date 6 months after the expiration of such extension, with the amount of the credit or refund allowed to exceed the portion of the tax paid within the period provided in subsec. (b)(2) or (c), whichever was applicable, and (2) for purposes of this subsec., the terms “partnership item” and “federally registered partnership” would have the same meanings as such terms had when used in section 6501(o).
+<b>1982</b>—Subsec. (g). Pub. L. 97–248 substituted "Special rule for claims with respect to partnership items" for "Special rule for partnership items of federally registered partnerships" in heading and, in text, substituted provisions that, in the case of any tax imposed by subtitle A with respect to any person which is attributable to any partnership item (as defined in section 6231(a)(3)), the provisions of section 6227 and subsecs. (c) and (d) of section 6230 shall apply in lieu of the provisions of this subchapter for provisions that (1) in the case of any tax imposed by subtitle A with respect to any person, the period for filing a claim for credit or refund of any overpayment attributable to any partnership item of a federally registered partnership would not expire before the later of (A) the date which was 4 years after the date prescribed by law (including extensions thereof) for filing the partnership return for the partnership taxable year in which the item arose, or (B) if an agreement under the provisions of section 6501(c)(4) extending the period for the assessment of any deficiency attributable to such partnership item was made before the date specified in subpar. (A), the date 6 months after the expiration of such extension, with the amount of the credit or refund allowed to exceed the portion of the tax paid within the period provided in subsec. (b)(2) or (c), whichever was applicable, and (2) for purposes of this subsec., the terms "partnership item" and "federally registered partnership" would have the same meanings as such terms had when used in section 6501(o).
 
 <b>1981</b>—Subsec. (d)(4)(C). Pub. L. 97–34, §331(d)(2)(A), inserted reference to employee stock ownership credit carryback.
 
 Pub. L. 97–34, §221(b)(2)(A), inserted reference to research credit carryback.
 
-<b>1980</b>—Subsec. (f). Pub. L. 96–222, §108(b)(1)(B), inserted in heading “and certain chapter 43” after “chapter 42”, and in text “or section 4975” after “chapter 42”.
+<b>1980</b>—Subsec. (f). Pub. L. 96–222, §108(b)(1)(B), inserted in heading "and certain chapter 43" after "chapter 42", and in text "or section 4975" after "chapter 42".
 
-Subsec. (g)(2). Pub. L. 96–222, §102(a)(2)(B), substituted “section 6501(o)” for “section 6501(q)”.
+Subsec. (g)(2). Pub. L. 96–222, §102(a)(2)(B), substituted "section 6501(o)" for "section 6501(q)".
 
 Subsec. (h). Pub. L. 96–223 added subsec. (h) and redesignated former subsec. (h) as (i).
 
@@ -254,11 +254,11 @@ Pub. L. 96–223 redesignated former subsec. (h) as (i).
 
 Subsec. (j). Pub. L. 96–598 redesignated former subsec. (i) as (j).
 
-<b>1978</b>—Subsec. (d)(2)(A). Pub. L. 95–628, §8(a), substituted “3 years after the time prescribed by law for filing the return (including extensions thereof) for” for “with the expiration of the 15th day of the 40th month (or the 39th month, in the case of a corporation) following the end of”.
+<b>1978</b>—Subsec. (d)(2)(A). Pub. L. 95–628, §8(a), substituted "3 years after the time prescribed by law for filing the return (including extensions thereof) for" for "with the expiration of the 15th day of the 40th month (or the 39th month, in the case of a corporation) following the end of".
 
 Pub. L. 95–600, §703(p)(3), struck out provisions relating to the period of limitations with respect to an overpayment attributable to a net operating loss carryback to any year on account of a certification issued to the taxpayer under section 317 of the Trade Expansion Act of 1962.
 
-Subsec. (d)(4). Pub. L. 95–628, §8(b)(1), substituted in heading “certain credit carrybacks” for “investment credit carrybacks”, in subpar. (A), substituted “a credit carryback” for “an investment credit carryback”, “period shall be that period which ends 3 years after the time prescribed by law for filing the return (including extensions thereof) for the taxable year of the unused credit which results in such carryback” for “period shall be that period which ends with the expiration of the 15th day of the 40th month (or 39th month, in the case of a corporation) following the end of the taxable year of the unused investment credit which results in such carryback”, and “(or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, the period shall be that period which ends 3 years after the time prescribed by law for filing the return, including extensions thereof, for such subsequent taxable year)” for “(or, with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, the period shall be that period which ends with the expiration of the 15th day of the 40th month, or 39th month, in the case of a corporation, following the end of such subsequent taxable year),”, in subpar. (B), substituted “a credit carryback” for “an investment credit carryback”, “any credit” for “the investment credit”, and “affected by a credit carryback” for “affected by a carryback”; and added subpar. (C).
+Subsec. (d)(4). Pub. L. 95–628, §8(b)(1), substituted in heading "certain credit carrybacks" for "investment credit carrybacks", in subpar. (A), substituted "a credit carryback" for "an investment credit carryback", "period shall be that period which ends 3 years after the time prescribed by law for filing the return (including extensions thereof) for the taxable year of the unused credit which results in such carryback" for "period shall be that period which ends with the expiration of the 15th day of the 40th month (or 39th month, in the case of a corporation) following the end of the taxable year of the unused investment credit which results in such carryback", and "(or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, the period shall be that period which ends 3 years after the time prescribed by law for filing the return, including extensions thereof, for such subsequent taxable year)" for "(or, with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, the period shall be that period which ends with the expiration of the 15th day of the 40th month, or 39th month, in the case of a corporation, following the end of such subsequent taxable year),", in subpar. (B), substituted "a credit carryback" for "an investment credit carryback", "any credit" for "the investment credit", and "affected by a credit carryback" for "affected by a carryback"; and added subpar. (C).
 
 Subsec. (d)(7). Pub. L. 95–628, §8(b)(2), redesignated par. (8) as (7). Former par. (7), which provided for a special period of limitation with respect to work incentive program credit carrybacks, was struck out.
 
@@ -270,11 +270,11 @@ Subsecs. (g), (h). Pub. L. 95–600, §212(b)(1), added subsec. (g) and redesign
 
 <b>1977</b>—Subsec. (d)(9). Pub. L. 95–30 added par. (9).
 
-<b>1976</b>—Subsec. (d)(2)(A)(ii). Pub. L. 94–455, §1906 (a)(33)(A), struck out “September 1, 1959, or” after “shall not expire before” and “, whichever is the later” after “profits becomes final”.
+<b>1976</b>—Subsec. (d)(2)(A)(ii). Pub. L. 94–455, §1906 (a)(33)(A), struck out "September 1, 1959, or" after "shall not expire before" and ", whichever is the later" after "profits becomes final".
 
-Subsec. (d)(5). Pub. L. 94–455, §1906(a)(33)(B), struck out “the later of the following dates: (A)” after “filed on or before” and “, or (B) December 31, 1965” after “Health, Education, and Welfare”.
+Subsec. (d)(5). Pub. L. 94–455, §1906(a)(33)(B), struck out "the later of the following dates: (A)" after "filed on or before" and ", or (B) December 31, 1965" after "Health, Education, and Welfare".
 
-Subsec. (d)(7). Pub. L. 94–455, §2107(g)(2)(B), inserted “, an investment credit carryback,” after “net operating loss carryback”.
+Subsec. (d)(7). Pub. L. 94–455, §2107(g)(2)(B), inserted ", an investment credit carryback," after "net operating loss carryback".
 
 Subsec. (g)(7). Pub. L. 94–455, §1203(h)(3), added par. (7).
 
@@ -282,21 +282,21 @@ Subsec. (g)(7). Pub. L. 94–455, §1203(h)(3), added par. (7).
 
 <b>1971</b>—Subsec. (d)(7). Pub. L. 92–178 added par. (7).
 
-<b>1969</b>—Subsec. (d)(2). Pub. L. 91–172, §512(e)(2)(A), substituted “loss or capital loss carrybacks” for “loss carrybacks” in heading.
+<b>1969</b>—Subsec. (d)(2). Pub. L. 91–172, §512(e)(2)(A), substituted "loss or capital loss carrybacks" for "loss carrybacks" in heading.
 
-Subsec. (d)(2)(A). Pub. L. 91–172, §512(e)(2)(B), (C), substituted “loss carryback or a capital loss carryback” for “loss carryback” and “operating loss or net capital loss which” for “operating loss which”.
+Subsec. (d)(2)(A). Pub. L. 91–172, §512(e)(2)(B), (C), substituted "loss carryback or a capital loss carryback" for "loss carryback" and "operating loss or net capital loss which" for "operating loss which".
 
-Subsec. (d)(2)(B)(i). Pub. L. 91–172, §512(e)(2)(D), (E), substituted “loss carryback or a capital loss carryback” for “loss carryback” and inserted reference to short-term capital loss.
+Subsec. (d)(2)(B)(i). Pub. L. 91–172, §512(e)(2)(D), (E), substituted "loss carryback or a capital loss carryback" for "loss carryback" and inserted reference to short-term capital loss.
 
-Subsec. (d)(2)(B)(ii). Pub. L. 91–172, §§311(d)(3), 512(e)(2)(F), substituted references to section “1302(c)(1)” and “1302(c)(3)” for section “1302(e)(1)” and “1302(e)(3)”, respectively, and substituted “loss carryback or a capital loss carryback, as the case may be,” for “loss carryback”.
+Subsec. (d)(2)(B)(ii). Pub. L. 91–172, §§311(d)(3), 512(e)(2)(F), substituted references to section "1302(c)(1)" and "1302(c)(3)" for section "1302(e)(1)" and "1302(e)(3)", respectively, and substituted "loss carryback or a capital loss carryback, as the case may be," for "loss carryback".
 
-Subsec. (d)(4)(A). Pub. L. 91–172, §512(e)(2)(G), substituted “loss carryback or a capital loss carryback” for “loss carryback”.
+Subsec. (d)(4)(A). Pub. L. 91–172, §512(e)(2)(G), substituted "loss carryback or a capital loss carryback" for "loss carryback".
 
 Subsecs. (f), (g). Pub. L. 91–172, §101(h), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-<b>1967</b>—Subsec. (d)(4)(A). Pub. L. 90–225 inserted “(or, with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, the period shall be that period which ends with the expiration of the 15th day of the 40th month, or 39th month, in the case of a corporation, following the end of such subsequent taxable year)” after “the unused investment credit which results in such carryback”.
+<b>1967</b>—Subsec. (d)(4)(A). Pub. L. 90–225 inserted "(or, with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, the period shall be that period which ends with the expiration of the 15th day of the 40th month, or 39th month, in the case of a corporation, following the end of such subsequent taxable year)" after "the unused investment credit which results in such carryback".
 
-<b>1965</b>—Subsec. (e)(1). Pub. L. 89–331 inserted “or production” after “distillation” in heading.
+<b>1965</b>—Subsec. (e)(1). Pub. L. 89–331 inserted "or production" after "distillation" in heading.
 
 <b>1964</b>—Subsec. (d)(6). Pub. L. 88–571 added par. (6).
 
@@ -308,13 +308,13 @@ Subsec. (d)(4). Pub. L. 87–834 added par. (4).
 
 <b>1959</b>—Subsec. (d)(2)(A). Pub. L. 86–280 inserted in first sentence exception with respect to overpayment as a result of elimination of excess profits by renegotiation.
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–866, §82(a), struck out from first sentence “required to be” after “3 years from the time the return was”, and “(determined without regard to any extension of time)” before “or 2 years”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–866, §82(a), struck out from first sentence "required to be" after "3 years from the time the return was", and "(determined without regard to any extension of time)" before "or 2 years".
 
-Subsec. (b)(2)(A). Pub. L. 85–866, §82(b), substituted “Limit where claim not filed within 3-year period” for “Limit to amount paid within years” in heading, and in text substituted “within the period,” for “within the 3 years”, inserted “equal to 3 years plus the period of any extension of time for filing the return” and struck out provision that if the tax was required to be paid by means of a stamp, the amount of the credit or refund shall not exceed the portion of the tax paid within the 3 years immediately preceding the filing of the claim.
+Subsec. (b)(2)(A). Pub. L. 85–866, §82(b), substituted "Limit where claim not filed within 3-year period" for "Limit to amount paid within years" in heading, and in text substituted "within the period," for "within the 3 years", inserted "equal to 3 years plus the period of any extension of time for filing the return" and struck out provision that if the tax was required to be paid by means of a stamp, the amount of the credit or refund shall not exceed the portion of the tax paid within the 3 years immediately preceding the filing of the claim.
 
-Subsec. (b)(2)(B). Pub. L. 85–866, §82(c), substituted “Limit where claim not filed within 3-year period” for “Limit to amount paid within 2 years” in heading.
+Subsec. (b)(2)(B). Pub. L. 85–866, §82(c), substituted "Limit where claim not filed within 3-year period" for "Limit to amount paid within 2 years" in heading.
 
-Subsec. (d)(2)(A). Pub. L. 85–866, §82(d), substituted in first sentence “15th day of the 40th month (or 39th month, in the case of a corporation)” for “15th day of the 39th month”.
+Subsec. (d)(2)(A). Pub. L. 85–866, §82(d), substituted in first sentence "15th day of the 40th month (or 39th month, in the case of a corporation)" for "15th day of the 39th month".
 
 <b>1956</b>—Subsec. (f)(5). Act Apr. 2, 1956, added par. (5).
 
@@ -322,7 +322,7 @@ Subsec. (f)(6). Act June 29, 1956, added par. (6).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–245, title I, §106(b), June 17, 2008, 122 Stat. 1630, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to claims for credit or refund filed after the date of the enactment of this Act \[June 17, 2008\].”
+Pub. L. 110–245, title I, §106(b), June 17, 2008, 122 Stat. 1630, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to claims for credit or refund filed after the date of the enactment of this Act \[June 17, 2008\]."
 
 #### Effective Date of 2001 Amendment
 
@@ -330,13 +330,13 @@ Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and gene
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3202(b), July 22, 1998, 112 Stat. 741, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to periods of disability before, on, or after the date of the enactment of this Act \[July 22, 1998\] but shall not apply to any claim for credit or refund which (without regard to such amendment) is barred by the operation of any law or rule of law (including res judicata) as of the date of the enactment of this Act.”
+Pub. L. 105–206, title III, §3202(b), July 22, 1998, 112 Stat. 741, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to periods of disability before, on, or after the date of the enactment of this Act \[July 22, 1998\] but shall not apply to any claim for credit or refund which (without regard to such amendment) is barred by the operation of any law or rule of law (including res judicata) as of the date of the enactment of this Act."
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1056(b), Aug. 5, 1997, 111 Stat. 945, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxes paid or accrued in taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1056(b), Aug. 5, 1997, 111 Stat. 945, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxes paid or accrued in taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
-Pub. L. 105–34, title X, §1454(c), Aug. 5, 1997, 111 Stat. 1057, provided that: “The amendments made by this section \[enacting section 7436 of this title, amending this section and sections 7421, 7453, and 7481 of this title, and renumbering section 7436 of this title as 7437\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1454(c), Aug. 5, 1997, 111 Stat. 1057, provided that: "The amendments made by this section \[enacting section 7436 of this title, amending this section and sections 7421, 7453, and 7481 of this title, and renumbering section 7436 of this title as 7437\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1994 Amendment
 
@@ -392,7 +392,7 @@ Amendment by section 108(b)(1)(B) of Pub. L. 96–222 effective as if included i
 
 #### Effective Date of 1978 Amendments
 
-Pub. L. 95–628, §8(d), Nov. 10, 1978, 92 Stat. 3632, provided that: “The amendments made by this section \[amending this section and sections 6501, 6601, and 6611 of this title\] shall apply to carrybacks arising in taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1978\].”
+Pub. L. 95–628, §8(d), Nov. 10, 1978, 92 Stat. 3632, provided that: "The amendments made by this section \[amending this section and sections 6501, 6601, and 6611 of this title\] shall apply to carrybacks arising in taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1978\]."
 
 Amendment by section 212(b)(1) of Pub. L. 95–600 applicable to partnership items arising in partnership taxable years beginning after Dec. 31, 1978, see section 212(c) of Pub. L. 95–600, set out as a note under section 6501 of this title.
 
@@ -424,7 +424,7 @@ Amendment by section 101(h) of Pub. L. 91–172 effective Jan. 1, 1970, see sect
 
 Amendment by section 311(d)(3) of Pub. L. 91–172 applicable with respect to computation years (within the meaning of section 1302(c)(1) of this title) beginning after Dec. 31, 1969, and to base period years (within the meaning of section 1302(c)(3) of this title) applicable to such computation years, see section 311(e) of Pub. L. 91–172, set out as a note under section 1301 of this title.
 
-Amendment by section 512(e)(2) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
+Amendment by section 512(e)(2) of Pub. L. 91–172 applicable with respect to net capital losses sustained intaxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
 
 #### Effective Date of 1967 Amendment
 
@@ -446,7 +446,7 @@ Amendment by Pub. L. 87–834 applicable with respect to taxable years ending af
 
 #### Effective Date of 1959 Amendment
 
-Pub. L. 86–280, §1(c), Sept. 16, 1959, 73 Stat. 564, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided in part that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to claims for credit or refund resulting from the elimination of excessive profits by renegotiation to which section 6511(d)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies.”
+Pub. L. 86–280, §1(c), Sept. 16, 1959, 73 Stat. 564, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided in part that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to claims for credit or refund resulting from the elimination of excessive profits by renegotiation to which section 6511(d)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies."
 
 #### Effective Date of 1958 Amendment
 
@@ -462,15 +462,15 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Transition Rules
 
-Pub. L. 110–245, title I, §106(c), June 17, 2008, 122 Stat. 1630, provided that: “In the case of a determination described in paragraph (8) of section 6511(d) of the Internal Revenue Code of 1986 (as added by this section) which is made by the Secretary of Veterans Affairs after December 31, 2000, and before the date of the enactment of this Act \[June 17, 2008\], such paragraph—
+Pub. L. 110–245, title I, §106(c), June 17, 2008, 122 Stat. 1630, provided that: "In the case of a determination described in paragraph (8) of section 6511(d) of the Internal Revenue Code of 1986 (as added by this section) which is made by the Secretary of Veterans Affairs after December 31, 2000, and before the date of the enactment of this Act \[June 17, 2008\], such paragraph—
 
-&emsp;“(1) shall not apply with respect to any taxable year which began before January 1, 2001, and
+&emsp;"(1) shall not apply with respect to any taxable year which began before January 1, 2001, and
 
-&emsp;“(2) shall be applied by substituting \[sic\] for ‘the date of such determination’ in subparagraph (A) thereof.”
+&emsp;"(2) shall be applied by substituting \[sic\] for 'the date of such determination' in subparagraph (A) thereof."
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Extension of Time For Filing Claims for Tax Refunds
 

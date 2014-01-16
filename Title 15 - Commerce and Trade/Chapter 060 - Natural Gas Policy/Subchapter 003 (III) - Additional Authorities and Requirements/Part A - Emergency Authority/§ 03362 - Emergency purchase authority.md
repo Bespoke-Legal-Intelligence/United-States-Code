@@ -22,7 +22,7 @@ The President may, by order, require any pipeline to transport natural gas, and 
 
 #### (d) Maintenance of adequate records
 
-The Commission shall require any interstate pipeline or local distribution company contracting under the authority of this section for natural gas to maintain and make available full and adequate records concerning transactions under this section, including records of the volumes of natural gas purchased under the authority of this section and the rates and charges for purchase and receipt of such natural gas.
+The Commission shall require any interstate pipeline or local distribution company contracting under the authority of this section for natural gas to maintain and make available full and adequate records concerning transactions under this section, including records of the volumes of natural gas purchased under the authority ofthis section and the rates and charges for purchase and receipt of such natural gas.
 
 #### (e) Special limitation
 
@@ -32,5 +32,5 @@ No sale under any emergency purchase contract under this section for emergency s
 
 #### References in Text
 
-The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended,which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this act to the Code, see section 717w of this title and Tables.
 

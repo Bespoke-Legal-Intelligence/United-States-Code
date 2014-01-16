@@ -2,35 +2,35 @@
 
 For purposes of this chapter, the term—
 
-&emsp;(1) “burial site” means any natural or prepared physical location, whether originally below, on, or above the surface of the earth, into which as a part of the death rite or ceremony of a culture, individual human remains are deposited.
+&emsp;(1) "burial site" means any natural or prepared physical location, whether originally below, on, or above the surface of the earth, into which as a part of the death rite or ceremony of a culture, individual human remains are deposited.
 
-&emsp;(2) “cultural affiliation” means that there is a relationship of shared group identity which can be reasonably traced historically or prehistorically between a present day Indian tribe or Native Hawaiian organization and an identifiable earlier group.
+&emsp;(2) "cultural affiliation" means that there is a relationship of shared group identity which can be reasonably traced historically or prehistorically between a present day Indian tribe or Native Hawaiian organization and an identifiable earlier group.
 
-&emsp;(3) “cultural items” means human remains and—
+&emsp;(3) "cultural items" means human remains and—
 
-&emsp;&emsp;(A) “associated funerary objects” which shall mean objects that, as a part of the death rite or ceremony of a culture, are reasonably believed to have been placed with individual human remains either at the time of death or later, and both the human remains and associated funerary objects are presently in the possession or control of a Federal agency or museum, except that other items exclusively made for burial purposes or to contain human remains shall be considered as associated funerary objects.<sup>1</sup>
+&emsp;&emsp;(A) "associated funerary objects" which shall mean objects that, as a part of the death rite or ceremony of a culture, are reasonably believed to have been placed with individual human remains either at the time of death or later, and both the human remains and associated funerary objects are presently in the possession or control of a Federal agency or museum, except that other items exclusively made for burial purposes or to contain human remains shall be considered as associated funerary objects.<sup>1</sup>
 
-&emsp;&emsp;(B) “unassociated funerary objects” which shall mean objects that, as a part of the death rite or ceremony of a culture, are reasonably believed to have been placed with individual human remains either at the time of death or later, where the remains are not in the possession or control of the Federal agency or museum and the objects can be identified by a preponderance of the evidence as related to specific individuals or families or to known human remains or, by a preponderance of the evidence, as having been removed from a specific burial site of an individual culturally affiliated with a particular Indian tribe,
+&emsp;&emsp;(B) "unassociated funerary objects" which shall mean objects that, as a part of the death rite or ceremony of a culture, are reasonably believed to have been placed with individual human remains either at the time of death or later, where the remains are not in the possession or control of the Federal agency or museum and the objects can be identified by a preponderance of the evidence as related to specific individuals or families or to known human remains or, by a preponderance of the evidence, as having been removed from a specific burial site of an individual culturally affiliated with a particular Indian tribe,
 
-&emsp;&emsp;(C) “sacred objects” which shall mean specific ceremonial objects which are needed by traditional Native American religious leaders for the practice of traditional Native American religions by their present day adherents, and
+&emsp;&emsp;(C) "sacred objects" which shall mean specific ceremonial objects which are needed by traditional Native American religious leaders for the practice of traditional Native American religions by their present day adherents, and
 
-&emsp;&emsp;(D) “cultural patrimony” which shall mean an object having ongoing historical, traditional, or cultural importance central to the Native American group or culture itself, rather than property owned by an individual Native American, and which, therefore, cannot be alienated, appropriated, or conveyed by any individual regardless of whether or not the individual is a member of the Indian tribe or Native Hawaiian organization and such object shall have been considered inalienable by such Native American group at the time the object was separated from such group.
+&emsp;&emsp;(D) "cultural patrimony" which shall mean an object having ongoing historical, traditional, or cultural importance central to the Native American group or culture itself, rather than property owned by an individual Native American, and which, therefore, cannot be alienated, appropriated, or conveyed by any individual regardless of whether or not the individual is a member of the Indian tribe or Native Hawaiian organization and such object shall have been considered inalienable by such Native American group at the time the object was separated from such group.
 
-&emsp;(4) “Federal agency” means any department, agency, or instrumentality of the United States. Such term does not include the Smithsonian Institution.
+&emsp;(4) "Federal agency" means any department, agency, or instrumentality of the United States. Such term does not include the Smithsonian Institution.
 
-&emsp;(5) “Federal lands” means any land other than tribal lands which are controlled or owned by the United States, including lands selected by but not yet conveyed to Alaska Native Corporations and groups organized pursuant to the Alaska Native Claims Settlement Act of 1971 \[43 U.S.C. 1601 et seq.\].
+&emsp;(5) "Federal lands" means any land other than tribal lands which are controlled or owned by the United States, including lands selected by but not yet conveyed to Alaska Native Corporations and groups organized pursuant to the Alaska Native Claims Settlement Act of 1971 \[43 U.S.C. 1601 et seq.\].
 
-&emsp;(6) “Hui Malama I Na Kupuna O Hawai'i Nei” means the nonprofit, Native Hawaiian organization incorporated under the laws of the State of Hawaii by that name on April 17, 1989, for the purpose of providing guidance and expertise in decisions dealing with Native Hawaiian cultural issues, particularly burial issues.
+&emsp;(6) "Hui Malama I Na Kupuna O Hawai'i Nei" means the nonprofit, Native Hawaiian organization incorporated under the laws of the State of Hawaii by that name on April 17, 1989, for the purpose of providing guidance and expertise in decisions dealing with Native Hawaiian cultural issues, particularly burial issues.
 
-&emsp;(7) “Indian tribe” means any tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;(7) "Indian tribe" means any tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-&emsp;(8) “museum” means any institution or State or local government agency (including any institution of higher learning) that receives Federal funds and has possession of, or control over, Native American cultural items. Such term does not include the Smithsonian Institution or any other Federal agency.
+&emsp;(8) "museum" means any institution or State or local government agency (including any institution of higher learning) that receives Federal funds and has possession of, or control over, Native American cultural items. Such term does not include the Smithsonian Institution or any other Federal agency.
 
-&emsp;(9) “Native American” means of, or relating to, a tribe, people, or culture that is indigenous to the United States.
+&emsp;(9) "Native American" means of, or relating to, a tribe, people, or culture that is indigenous to the United States.
 
-&emsp;(10) “Native Hawaiian” means any individual who is a descendant of the aboriginal people who, prior to 1778, occupied and exercised sovereignty in the area that now constitutes the State of Hawaii.
+&emsp;(10) "Native Hawaiian" means any individual who is a descendant of the aboriginal people who, prior to 1778, occupied and exercised sovereignty in the area that now constitutes the State of Hawaii.
 
-&emsp;(11) “Native Hawaiian organization” means any organization which—
+&emsp;(11) "Native Hawaiian organization" means any organization which—
 
 &emsp;&emsp;(A) serves and represents the interests of Native Hawaiians,
 
@@ -40,13 +40,13 @@ For purposes of this chapter, the term—
 
 > &emsp;shall include the Office of Hawaiian Affairs and Hui Malama I Na Kupuna O Hawai'i Nei.
 
-&emsp;(12) “Office of Hawaiian Affairs” means the Office of Hawaiian Affairs established by the constitution of the State of Hawaii.
+&emsp;(12) "Office of Hawaiian Affairs" means the Office of Hawaiian Affairs established by the constitution of the State of Hawaii.
 
-&emsp;(13) “right of possession” means possession obtained with the voluntary consent of an individual or group that had authority of alienation. The original acquisition of a Native American unassociated funerary object, sacred object or object of cultural patrimony from an Indian tribe or Native Hawaiian organization with the voluntary consent of an individual or group with authority to alienate such object is deemed to give right of possession of that object, unless the phrase so defined would, as applied in section 3005(c) of this title, result in a Fifth Amendment taking by the United States as determined by the United States Court of Federal Claims pursuant to 28 U.S.C. 1491 in which event the “right of possession” shall be as provided under otherwise applicable property law. The original acquisition of Native American human remains and associated funerary objects which were excavated, exhumed, or otherwise obtained with full knowledge and consent of the next of kin or the official governing body of the appropriate culturally affiliated Indian tribe or Native Hawaiian organization is deemed to give right of possession to those remains.
+&emsp;(13) "right of possession" means possession obtained with the voluntary consent of an individual or group that had authority of alienation. The original acquisition of a Native American unassociated funerary object, sacred object or object of cultural patrimony from an Indian tribe or Native Hawaiian organization with the voluntary consent of an individual or group with authority to alienate such object is deemed to give right of possession of that object, unless the phrase so defined would, as applied in section 3005(c) of this title, result in a Fifth Amendment taking by the United States as determined by the United States Court of Federal Claims pursuant to 28 U.S.C. 1491 in which event the "right of possession" shall beas provided under otherwise applicable property law. The original acquisition of Native American human remains and associated funerary objects which were excavated, exhumed, or otherwise obtained with full knowledge and consent of the next of kin or the official governing body of the appropriate culturally affiliated Indian tribe or Native Hawaiian organization is deemed to give right of possession to those remains.
 
-&emsp;(14) “Secretary” means the Secretary of the Interior.
+&emsp;(14) "Secretary" means the Secretary of the Interior.
 
-&emsp;(15) “tribal land” means—
+&emsp;(15) "tribal land" means—
 
 &emsp;&emsp;(A) all lands within the exterior boundaries of any Indian reservation;
 
@@ -58,7 +58,7 @@ For purposes of this chapter, the term—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Alaska Native Claims Settlement Act of 1971, referred to in par. (5), probably means the Alaska Native Claims Settlement Act. See note below.
 
@@ -70,7 +70,7 @@ Section 4 of Public Law 86–3, referred to in par. (15)(C), is section 4 of Pub
 
 #### Amendments
 
-<b>1992</b>—Par. (13). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Par. (13). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 #### Effective Date of 1992 Amendment
 
@@ -78,9 +78,9 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Short Title
 
-Pub. L. 101–601, §1, Nov. 16, 1990, 104 Stat. 3048, provided that: “This Act \[enacting this chapter and section 1170 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Native American Graves Protection and Repatriation Act’.”
+Pub. L. 101–601, §1, Nov. 16, 1990, 104 Stat. 3048, provided that: "This Act \[enacting this chapter and section 1170 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Native American Graves Protection and Repatriation Act'."
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “and”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "and".</i>
 

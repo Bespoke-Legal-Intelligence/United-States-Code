@@ -40,39 +40,39 @@ In carrying out the flood insurance program the Administrator shall, to the maxi
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as theNational Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director".
 
-Subsec. (b). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in concluding provisions.
+Subsec. (b). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in concluding provisions.
 
-Subsec. (b)(3). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+Subsec. (b)(3). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director".
 
-Subsec. (b)(4)(B) to (E). Pub. L. 112–141, §100225(f), redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out former subpar. (B) which read as follows: “section 1368 (Repetitive Loss Priority Program and Individual Priority Property Program);”.
+Subsec. (b)(4)(B) to (E). Pub. L. 112–141, §100225(f), redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out former subpar. (B) which read as follows: "section 1368 (Repetitive Loss Priority Program and Individual Priority Property Program);".
 
-Subsec. (c). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in introductory provisions.
+Subsec. (c). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in introductory provisions.
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–264, §105(a)(1)(B), which directed insertion of “by the community” after “established” in introductory provisions, was executed by making the insertion after “established” the second time appearing to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (b). Pub. L. 108–264, §105(a)(1)(B), which directed insertion of "by the community" after "established" in introductory provisions, was executed by making the insertion after "established" the second time appearing to reflect the probable intent of Congress.
 
-Pub. L. 108–264, §105(a)(1)(A), substituted “implementing measures that are consistent” for “compliance” in introductory provisions.
+Pub. L. 108–264, §105(a)(1)(A), substituted "implementing measures that are consistent" for "compliance" in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 108–264, §105(a)(2), substituted “are substantially damaged structures;” for “have flood damage in which the cost of repairs equals or exceeds 50 percent of the value of the structure at the time of the flood event; and”.
+Subsec. (b)(2). Pub. L. 108–264, §105(a)(2), substituted "are substantially damaged structures;" for "have flood damage in which the cost of repairs equals or exceeds 50 percent of the value of the structure at the time of the flood event; and".
 
-Subsec. (b)(3). Pub. L. 108–264, §105(a)(3), which directed the substitution of “the implementation of such measures; and” for “compliance with land use and control measures.”, was executed by making the substitution for “compliance with the land use and control measures.”, to reflect the probable intent of Congress.
+Subsec. (b)(3). Pub. L. 108–264, §105(a)(3), which directed the substitution of "the implementation of such measures; and" for "compliance with land use and control measures.", was executed by making the substitution for "compliance with the land use and control measures.", to reflect the probable intent of Congress.
 
 Subsec. (b)(4). Pub. L. 108–264, §105(a)(4), added par. (4).
 
 <b>1994</b>—Subsecs. (b), (c). Pub. L. 103–325 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–181, §451(d)(2), substituted “Director of the Federal Emergency Management Agency” for “Secretary of Housing and Urban Development”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181, §451(d)(2), substituted "Director of the Federal Emergency Management Agency" for "Secretary of Housing and Urban Development".
 
-Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
+Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted "Director" for "Secretary".
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–325, title V, §555(b), Sept. 23, 1994, 108 Stat. 2274, provided that: “The provisions of subsection (a) \[amending this section\] shall apply only to properties that sustain flood-related damage after the date of enactment of this Act \[Sept. 23, 1994\].”
+Pub. L. 103–325, title V, §555(b), Sept. 23, 1994, 108 Stat. 2274, provided that: "The provisions of subsection (a) \[amending this section\] shall apply only to properties that sustain flood-related damage after the date of enactment of this Act \[Sept. 23, 1994\]."
 
 #### Transfer of Functions
 
@@ -84,313 +84,313 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Pub. L. 112–141, div. F, title II, §100227, July 6, 2012, 126 Stat. 943, provided that:
 
-“(a)
+"(a)
 
 Report.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Review.—The Administrator shall review—
 
-&emsp;&emsp;“(A) the processes and procedures for determining that a flood event has commenced or is in progress for purposes of flood insurance coverage made available under the National Flood Insurance Program;
+&emsp;&emsp;"(A) the processes and procedures for determining that a flood event has commenced or is in progress for purposes of flood insurance coverage made available under the National Flood Insurance Program;
 
-&emsp;&emsp;“(B) the processes and procedures for providing public notification that such a flood event has commenced or is in progress;
+&emsp;&emsp;"(B) the processes and procedures for providing public notification that such a flood event has commenced or is in progress;
 
-&emsp;&emsp;“(C) the processes and procedures regarding the timing of public notification of flood insurance requirements and availability; and
+&emsp;&emsp;"(C) the processes and procedures regarding the timing of public notification of flood insurance requirements and availability; and
 
-&emsp;&emsp;“(D) the effects and implications that weather conditions, including rainfall, snowfall, projected snowmelt, existing water levels, and other conditions, have on the determination that a flood event has commenced or is in progress.
+&emsp;&emsp;"(D) the effects and implications that weather conditions, including rainfall, snowfall, projected snowmelt, existing water levels, and other conditions, have on the determination that a flood event has commenced or is in progress.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Report.—Not later than 6 months after the date of enactment of this Act \[July 6, 2012\], the Administrator shall submit a report to Congress that describes—
 
-&emsp;&emsp;“(A) the results and conclusions of the review under paragraph (1); and
+&emsp;&emsp;"(A) the results and conclusions of the review under paragraph (1); and
 
-&emsp;&emsp;“(B) any actions taken, or proposed actions to be taken, by the Administrator to provide for more precise and technical processes and procedures for determining that a flood event has commenced or is in progress.
+&emsp;&emsp;"(B) any actions taken, or proposed actions to be taken, by the Administrator to provide for more precise and technical processes and procedures for determining that a flood event has commenced or is in progress.
 
-“(b)
+"(b)
 
 Effective Date of Policies Covering Properties Affected by Flooding of the Missouri River in 2011.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-Eligible coverage.—For purposes of this subsection, the term ‘eligible coverage’ means coverage under a new contract for flood insurance coverage under the National Flood Insurance Program, or a modification to coverage under an existing flood insurance contract, for property damaged by the flooding of the Missouri River that commenced on June 1, 2011, that was purchased or made during the period beginning May 1, 2011, and ending June 6, 2011.
+Eligible coverage.—For purposes of this subsection, the term 'eligible coverage' means coverage under a new contract for flood insurance coverage under the National Flood Insurance Program, or a modification to coverage under an existing flood insurance contract, for property damaged by the flooding of the Missouri River that commenced on June 1, 2011, that was purchased or made during the period beginning May 1, 2011, and ending June 6, 2011.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Effective dates.—Notwithstanding section 1306(c) of the National Flood Insurance Act of 1968 (42 U.S.C. 4013(c)), or any other provision of law, any eligible coverage shall—
 
-&emsp;&emsp;“(A) be deemed to take effect on the date that is 30 days after the date on which all obligations for the eligible coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed; and
+&emsp;&emsp;"(A) be deemed to take effect on the date that is 30 days after the date on which all obligations for the eligible coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed; and
 
-&emsp;&emsp;“(B) cover damage to property occurring after the effective date described in subparagraph (A) that resulted from the flooding of the Missouri River that commenced on June 1, 2011, if the property did not suffer damage or loss as a result of such flooding before the effective date described in subparagraph (A).
+&emsp;&emsp;"(B) cover damage to property occurring after the effective date described in subparagraph (A) that resulted from the flooding of the Missouri River that commenced on June 1, 2011, if the property did not suffer damage or loss as a result of such flooding before the effective date described in subparagraph (A).
 
-“(c)
+"(c)
 
-Timely Notification.—Not later than 90 days after the date on which the Administrator submits the report required under subsection (a)(2), the Administrator shall, taking into consideration the results of the review under subsection (a)(1)(B), develop procedures for providing timely notification, to the extent practicable, to policyholders who have purchased flood insurance coverage under the National Flood Insurance Program within 30 days of a determination of a flood in progress and who may be affected by the flood of the determination and how the determination may affect their coverage.”
+Timely Notification.—Not later than 90 days after the date on which the Administrator submits the report required under subsection (a)(2), the Administrator shall, taking into consideration the results of the review under subsection (a)(1)(B), develop procedures for providing timely notification, to the extent practicable, to policyholders who have purchased flood insurance coverage under the National Flood Insurance Program within 30 days of a determination of a flood in progress and who may be affected by the flood of the determination and how the determination may affect their coverage."
 
 \[For definitions of terms used in section 100227 of Pub. L. 112–141, set out above, see section 4004 of this title.\]
 
 #### Congressional Findings
 
-Pub. L. 108–264, §2, June 30, 2004, 118 Stat. 712, provided that: “The Congress finds that—
+Pub. L. 108–264, §2, June 30, 2004, 118 Stat. 712, provided that: "The Congress finds that—
 
-&emsp;“(1) the national flood insurance program—
+&emsp;"(1) the national flood insurance program—
 
-&emsp;&emsp;“(A) identifies the flood risk;
+&emsp;&emsp;"(A) identifies the flood risk;
 
-&emsp;&emsp;“(B) provides flood risk information to the public;
+&emsp;&emsp;"(B) provides flood risk information to the public;
 
-&emsp;&emsp;“(C) encourages State and local governments to make appropriate land use adjustments to constrict the development of land which is exposed to flood damage and minimize damage caused by flood losses; and
+&emsp;&emsp;"(C) encourages State and local governments to make appropriate land use adjustments to constrictthe development of land which is exposed to flood damage and minimize damage caused by flood losses; and
 
-&emsp;&emsp;“(D) makes flood insurance available on a nationwide basis that would otherwise not be available, to accelerate recovery from floods, mitigate future losses, save lives, and reduce the personal and national costs of flood disasters;
+&emsp;&emsp;"(D) makes flood insurance available on a nationwide basis that would otherwise not be available, to accelerate recovery from floods, mitigate future losses, save lives, and reduce the personal and national costs of flood disasters;
 
-&emsp;“(2) the national flood insurance program insures approximately 4,400,000 policyholders;
+&emsp;"(2) the national flood insurance program insures approximately 4,400,000 policyholders;
 
-&emsp;“(3) approximately 48,000 properties currently insured under the program have experienced, within a 10-year period, 2 or more flood losses where each such loss exceeds the amount $1,000;
+&emsp;"(3) approximately 48,000 properties currently insured under the program have experienced, within a 10-year period, 2 or more flood losses where each such loss exceeds the amount $1,000;
 
-&emsp;“(4) approximately 10,000 of these repetitive-loss properties have experienced either 2 or 3 losses that cumulatively exceed building value or 4 or more losses, each exceeding $1,000;
+&emsp;"(4) approximately 10,000 of these repetitive-loss properties have experienced either 2 or 3 losses that cumulatively exceed building value or 4 or more losses, each exceeding $1,000;
 
-&emsp;“(5) repetitive-loss properties constitute a significant drain on the resources of the national flood insurance program, costing about $200,000,000 annually;
+&emsp;"(5) repetitive-loss properties constitute a significant drain on the resources of the national flood insurance program, costing about $200,000,000 annually;
 
-&emsp;“(6) repetitive-loss properties comprise approximately 1 percent of currently insured properties but are expected to account for 25 to 30 percent of claims losses;
+&emsp;"(6) repetitive-loss properties comprise approximately 1 percent of currently insured properties but are expected to account for 25 to 30 percent of claims losses;
 
-&emsp;“(7) the vast majority of repetitive-loss properties were built before local community implementation of floodplain management standards under the program and thus are eligible for subsidized flood insurance;
+&emsp;"(7) the vast majority of repetitive-loss properties were built before local community implementation of floodplain management standards under the program and thus are eligible for subsidized flood insurance;
 
-&emsp;“(8) while some property owners take advantage of the program allowing subsidized flood insurance without requiring mitigation action, others are trapped in a vicious cycle of suffering flooding, then repairing flood damage, then suffering flooding, without the means to mitigate losses or move out of harm's way;
+&emsp;"(8) while some property owners take advantage of the program allowing subsidized flood insurance without requiring mitigation action, others are trapped in a vicious cycle of suffering flooding, then repairing flood damage, then suffering flooding, without the means to mitigate losses or move out of harm's way;
 
-&emsp;“(9) mitigation of repetitive-loss properties through buyouts, elevations, relocations, or flood-proofing will produce savings for policyholders under the program and for Federal taxpayers through reduced flood insurance losses and reduced Federal disaster assistance;
+&emsp;"(9) mitigation of repetitive-loss properties through buyouts, elevations, relocations, or flood-proofing will produce savings for policyholders under the program and for Federal taxpayers through reduced flood insurance losses and reduced Federal disaster assistance;
 
-&emsp;“(10) a strategy of making mitigation offers aimed at high-priority repetitive-loss properties and shifting more of the burden of recovery costs to property owners who choose to remain vulnerable to repetitive flood damage can encourage property owners to take appropriate actions that reduce loss of life and property damage and benefit the financial soundness of the program;
+&emsp;"(10) a strategy of making mitigation offers aimed at high-priority repetitive-loss properties and shifting more of the burden of recovery costs to property owners who choose to remain vulnerable to repetitive flood damage can encourage property owners to take appropriate actions that reduce loss of life and property damage and benefit the financial soundness of the program;
 
-&emsp;“(11) the method for addressing repetitive-loss properties should be flexible enough to take into consideration legitimate circumstances that may prevent an owner from taking a mitigation action; and
+&emsp;"(11) the method for addressing repetitive-loss properties should be flexible enough to take into consideration legitimate circumstances that may prevent an owner from taking a mitigation action; and
 
-&emsp;“(12) focusing the mitigation and buy-out of repetitive loss properties upon communities and property owners that choose to voluntarily participate in a mitigation and buy-out program will maximize the benefits of such a program, while minimizing any adverse impact on communities and property owners.”
+&emsp;"(12) focusing the mitigation and buy-out of repetitive loss properties upon communities and property owners that choose to voluntarily participate in a mitigation and buy-out program will maximize the benefits of such a program, while minimizing any adverse impact on communities and property owners."
 
 #### Miscellaneous Flood Insurance Provisions
 
 Pub. L. 108–264, title II, June 30, 2004, 118 Stat. 725, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided that:
 
-#### “SEC. 201. DEFINITIONS.
+#### "SEC. 201. DEFINITIONS.
 
-“In this title, the following definitions shall apply:
+"In this title, the following definitions shall apply:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Director.—The term ‘Director’ means the Administrator of the Federal Emergency Management Agency.
+Director.—The term 'Director' means the Administrator of the Federal Emergency Management Agency.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Flood insurance policy.—The term ‘flood insurance policy’ means a flood insurance policy issued under the National Flood Insurance Act of 1968 (42 U.S.C. \[4001\] et seq.).
+Flood insurance policy.—The term 'flood insurance policy' means a flood insurance policy issued under the National Flood Insurance Act of 1968 (42 U.S.C. \[4001\] et seq.).
 
-&emsp;“(3)
+&emsp;"(3)
 
-Program.—The term ‘Program’ means the National Flood Insurance Program established under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
+Program.—The term 'Program' means the National Flood Insurance Program established under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
 
-#### “SEC. 202. SUPPLEMENTAL FORMS.
+#### "SEC. 202. SUPPLEMENTAL FORMS.
 
-“(a)
+"(a)
 
 In General.—Not later than 6 months after the date of enactment of this Act \[June 30, 2004\], the Director shall develop supplemental forms to be issued in conjunction with the issuance of a flood insurance policy that set forth, in simple terms—
 
-&emsp;“(1) the exact coverages being purchased by a policyholder;
+&emsp;"(1) the exact coverages being purchased by a policyholder;
 
-&emsp;“(2) any exclusions from coverage that apply to the coverages purchased;
+&emsp;"(2) any exclusions from coverage that apply to the coverages purchased;
 
-&emsp;“(3) an explanation, including illustrations, of how lost items and damages will be valued under the policy at the time of loss;
+&emsp;"(3) an explanation, including illustrations, of how lost items and damages will be valued under the policy at the time of loss;
 
-&emsp;“(4) the number and dollar value of claims filed under a flood insurance policy over the life of the property, and the effect, under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), of the filing of any further claims under a flood insurance policy with respect to that property; and
+&emsp;"(4) the number and dollar value of claims filed under a flood insurance policy over the life of the property, and the effect, under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), of the filing of any further claims under a flood insurance policy with respect to that property; and
 
-&emsp;“(5) any other information that the Director determines will be helpful to policyholders in understanding flood insurance coverage.
+&emsp;"(5) any other information that the Director determines will be helpful to policyholders in understanding flood insurance coverage.
 
-“(b)
+"(b)
 
 Distribution.—The forms developed under subsection (a) shall be given to—
 
-&emsp;“(1) all holders of a flood insurance policy at the time of purchase and renewal; and
+&emsp;"(1) all holders of a flood insurance policy at the time of purchase and renewal; and
 
-&emsp;“(2) insurance companies and agents that are authorized to sell flood insurance policies.
+&emsp;"(2) insurance companies and agents that are authorized to sell flood insurance policies.
 
-#### “SEC. 203. ACKNOWLEDGEMENT FORM.
+#### "SEC. 203. ACKNOWLEDGEMENT FORM.
 
-“(a)
+"(a)
 
 In General.—Not later than 6 months after the date of enactment of this Act \[June 30, 2004\], the Director shall develop an acknowledgement form to be signed by the purchaser of a flood insurance policy that contains—
 
-&emsp;“(1) an acknowledgement that the purchaser has received a copy of the standard flood insurance policy, and any forms developed under section 202; and
+&emsp;"(1) an acknowledgement that the purchaser has received a copy of the standard flood insurance policy, and any forms developed under section 202; and
 
-&emsp;“(2) an acknowledgement that the purchaser has been told that the contents of a property or dwelling are not covered under the terms of the standard flood insurance policy, and that the policyholder has the option to purchase additional coverage for such contents.
+&emsp;"(2) an acknowledgement that the purchaser has been told that the contents of a property or dwelling are not covered under the terms of the standard flood insurance policy, and that the policyholder has the option to purchase additional coverage for such contents.
 
-“(b)
+"(b)
 
 Distribution.—Copies of an acknowledgement form executed under subsection (a) shall be made available to the purchaser and the Director.
 
-#### “SEC. 204. FLOOD INSURANCE CLAIMS HANDBOOK.
+#### "SEC. 204. FLOOD INSURANCE CLAIMS HANDBOOK.
 
-“(a)
+"(a)
 
 In General.—Not later than 6 months after the date of enactment of this Act \[June 30, 2004\], the Director shall develop a flood insurance claims handbook that contains—
 
-&emsp;“(1) a description of the procedures to be followed to file a claim under the Program, including how to pursue a claim to completion;
+&emsp;"(1) a description of the procedures to be followed to file a claim under the Program, including how to pursue a claim to completion;
 
-&emsp;“(2) how to file supplementary claims, proof of loss, and any other information relating to the filing of claims under the Program; and
+&emsp;"(2) how to file supplementary claims, proof of loss, and any other information relating to the filing of claims under the Program; and
 
-&emsp;“(3) detailed information regarding the appeals process established under section 205.
+&emsp;"(3) detailed information regarding the appeals process established under section 205.
 
-“(b)
+"(b)
 
 Distribution.—The handbook developed under subsection (a) shall be made available to—
 
-&emsp;“(1) each insurance company and agent authorized to sell flood insurance policies; and
+&emsp;"(1) each insurance company and agent authorized to sell flood insurance policies; and
 
-&emsp;“(2) each purchaser, at the time of purchase and renewal, of a flood insurance policy, and at the time of any flood loss sustained by such purchaser.
+&emsp;"(2) each purchaser, at the time of purchase and renewal, of a flood insurance policy, and at the time of any flood loss sustained by such purchaser.
 
-#### “SEC. 205. APPEAL OF DECISIONS RELATING TO FLOOD INSURANCE COVERAGE.
+#### "SEC. 205. APPEAL OF DECISIONS RELATING TO FLOOD INSURANCE COVERAGE.
 
-“Not later than 6 months after the date of enactment of this Act \[June 30, 2004\], the Director shall, by regulation, establish an appeals process through which holders of a flood insurance policy may appeal the decisions, with respect to claims, proofs of loss, and loss estimates relating to such flood insurance policy, of—
+"Not later than 6 months after the date of enactment of this Act \[June 30, 2004\], the Director shall, by regulation, establish an appeals process through which holders of a flood insurance policy may appeal the decisions, with respect to claims, proofs of loss, and loss estimates relating to such flood insurance policy, of—
 
-&emsp;“(1) any insurance agent or adjuster, or insurance company; or
+&emsp;"(1) any insurance agent or adjuster, or insurance company; or
 
-&emsp;“(2) any employee or contractor of the Federal Emergency Management Agency.
+&emsp;"(2) any employee or contractor of the Federal Emergency Management Agency.
 
-#### “SEC. 206. STUDY AND REPORT ON USE OF COST COMPLIANCE COVERAGE.
+#### "SEC. 206. STUDY AND REPORT ON USE OF COST COMPLIANCE COVERAGE.
 
-“Not later than 1 year after the date of enactment of this Act \[June 30, 2004\], the Administrator of the Federal Emergency Management Agency shall submit to Congress a report that sets forth—
+"Not later than 1 year after the date of enactment of this Act \[June 30, 2004\], the Administrator of the Federal Emergency Management Agency shall submit to Congress a report that sets forth—
 
-&emsp;“(1) the use of cost of compliance coverage under section 1304(b) of the National Flood Insurance Act of 1968 (42 U.S.C. 4011(b)) in connection with flood insurance policies;
+&emsp;"(1) the use of cost of compliance coverage under section 1304(b) of the National Flood Insurance Act of 1968 (42 U.S.C. 4011(b)) in connection with flood insurance policies;
 
-&emsp;“(2) any barriers to policyholders using the funds provided by cost of compliance coverage under that section 1304(b) under a flood insurance policy, and recommendations to address those barriers; and
+&emsp;"(2) any barriers to policyholders using the funds provided by cost of compliance coverage under that section 1304(b) under a flood insurance policy, and recommendations to address those barriers; and
 
-&emsp;“(3) the steps that the Federal Emergency Management Agency has taken to ensure that funds paid for cost of compliance coverage under that section 1304(b) are being used to lessen the burdens on all homeowners and the Program.
+&emsp;"(3) the steps that the Federal Emergency Management Agency has taken to ensure that funds paid for cost of compliance coverage under that section 1304(b) are being used to lessen the burdens on all homeowners and the Program.
 
-#### “SEC. 207. MINIMUM TRAINING AND EDUCATION REQUIREMENTS.
+#### "SEC. 207. MINIMUM TRAINING AND EDUCATION REQUIREMENTS.
 
-“The Administrator of the Federal Emergency Management Agency shall, in cooperation with the insurance industry, State insurance regulators, and other interested parties—
+"The Administrator of the Federal Emergency Management Agency shall, in cooperation with the insurance industry, State insurance regulators, and other interested parties—
 
-&emsp;“(1) establish minimum training and education requirements for all insurance agents who sell flood insurance policies; and
+&emsp;"(1) establish minimum training and education requirements for all insurance agents who sell flood insurance policies; and
 
-&emsp;“(2) not later than 6 months after the date of enactment of this Act \[June 30, 2004\], publish these requirements in the Federal Register, and inform insurance companies and agents of the requirements.
+&emsp;"(2) not later than 6 months after the date of enactment of this Act \[June 30, 2004\], publish these requirements in the Federal Register, and inform insurance companies and agents of the requirements.
 
-#### “SEC. 208. GAO STUDY AND REPORT.
+#### "SEC. 208. GAO STUDY AND REPORT.
 
-“(a)
+"(a)
 
 Study.—The Comptroller General of the United States shall conduct a study of—
 
-&emsp;“(1) the adequacy of the scope of coverage provided under flood insurance policies in meeting the intended goal of Congress that flood victims be restored to their pre-flood conditions, and any recommendations to ensure that goal is being met;
+&emsp;"(1) the adequacy of the scope of coverage provided under flood insurance policies in meeting the intended goal of Congress that flood victims be restored to their pre-flood conditions, and any recommendations to ensure that goal is being met;
 
-&emsp;“(2) the adequacy of payments to flood victims under flood insurance policies; and
+&emsp;"(2) the adequacy of payments to flood victims under flood insurance policies; and
 
-&emsp;“(3) the practices of the Federal Emergency Management Agency and insurance adjusters in estimating losses incurred during a flood, and how such practices affect the adequacy of payments to flood victims.
+&emsp;"(3) the practices of the Federal Emergency Management Agency and insurance adjusters in estimating losses incurred during a flood, and how such practices affect the adequacy of payments to flood victims.
 
-“(b)
+"(b)
 
 Report.—Not later than 1 year after the date of enactment of this Act \[June 30, 2004\], the Comptroller General shall submit to Congress a report regarding the results of the study under subsection (a).
 
-#### “SEC. 209. PROSPECTIVE PAYMENT OF FLOOD INSURANCE PREMIUMS.
+#### "SEC. 209. PROSPECTIVE PAYMENT OF FLOOD INSURANCE PREMIUMS.
 
 \[Amended section 4015 of this title.\]
 
-#### “SEC. 210. REPORT ON CHANGES TO FEE SCHEDULE OR FEE PAYMENT ARRANGEMENTS.
+#### "SEC. 210. REPORT ON CHANGES TO FEE SCHEDULE OR FEE PAYMENT ARRANGEMENTS.
 
-“Not later than 3 months after the date of enactment of this Act \[June 30, 2004\], the Director shall submit a report on any changes or modifications made to the fee schedule or fee payment arrangements between the Federal Emergency Management Agency and insurance adjusters who provide services with respect to flood insurance policies to—
+"Not later than 3 months after the date of enactment of this Act \[June 30, 2004\], the Director shall submit a report on any changes or modifications made to the fee schedule or fee payment arrangements between the Federal Emergency Management Agency and insurance adjusters who provide services with respect to flood insurance policies to—
 
-&emsp;“(1) the Committee on Banking, Housing, and Urban Affairs of the Senate; and
+&emsp;"(1) the Committee on Banking, Housing, and Urban Affairs of the Senate; and
 
-&emsp;“(2) the Committee on Financial Services of the House of Representatives.”
+&emsp;"(2) the Committee on Financial Services of the House of Representatives."
 
 #### Flood Insurance Interagency Task Force
 
-Pub. L. 103–325, title V, §561, Sept. 23, 1994, 108 Stat. 2275, provided that:
+Section 561 of Pub. L. 103–325 provided that:
 
-“(a)
+"(a)
 
-Establishment.—There is hereby established an interagency task force to be known as the Flood Insurance Task Force (in this section referred to as the ‘Task Force’).
+Establishment.—There is hereby established an interagency task force to be known as the Flood Insurance Task Force (in this section referred to as the 'Task Force').
 
-“(b)
+"(b)
 
 Membership.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Task Force shall be composed of 10 members, who shall be the designees of—
 
-&emsp;&emsp;“(A) the Federal Insurance Administrator;
+&emsp;&emsp;"(A) the Federal Insurance Administrator;
 
-&emsp;&emsp;“(B) the Federal Housing Commissioner;
+&emsp;&emsp;"(B) the Federal Housing Commissioner;
 
-&emsp;&emsp;“(C) the Secretary of Veterans Affairs;
+&emsp;&emsp;"(C) the Secretary of Veterans Affairs;
 
-&emsp;&emsp;“(D) the Administrator of the Farmers Home Administration;
+&emsp;&emsp;"(D) the Administrator of the Farmers Home Administration;
 
-&emsp;&emsp;“(E) the Administrator of the Small Business Administration;
+&emsp;&emsp;"(E) the Administrator of the Small Business Administration;
 
-&emsp;&emsp;“(F) the Chairman of the Board of Directors of the Farm Credit Administration;
+&emsp;&emsp;"(F) the Chairman of the Board of Directors of the Farm Credit Administration;
 
-&emsp;&emsp;“(G) a designee of the Financial Institutions Examination Council;
+&emsp;&emsp;"(G) a designee of the Financial Institutions Examination Council;
 
-&emsp;&emsp;“(H) the Director of the Office of Federal Housing Enterprise Oversight;
+&emsp;&emsp;"(H) the Director of the Office of Federal Housing Enterprise Oversight;
 
-&emsp;&emsp;“(I) the chairman of the Board of Directors of the Federal Home Loan Mortgage Corporation; and
+&emsp;&emsp;"(I) the chairman of the Board of Directors of the Federal Home Loan Mortgage Corporation; and
 
-&emsp;&emsp;“(J) the chairman of the Board of Directors of the Federal National Mortgage Association.
+&emsp;&emsp;"(J) the chairman of the Board of Directors of the Federal National Mortgage Association.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Qualifications.—Members of the Task Force shall be designated for membership on the Task Force by reason of demonstrated knowledge and competence regarding the national flood insurance program.
 
-“(c)
+"(c)
 
 Duties.—The Task Force shall carry out the following duties:
 
-&emsp;“(1)
+&emsp;"(1)
 
 Recommendations of standardized enforcement procedures.—Make recommendations to the head of each Federal agency and enterprise referred to under subsection (b)(1) regarding establishment or adoption of standardized enforcement procedures among such agencies and corporations responsible for enforcing compliance with the requirements under the national flood insurance program to ensure fullest possible compliance with such requirements.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Study of compliance assistance.—Conduct a study of the extent to which Federal agencies and the secondary mortgage market can provide assistance in ensuring compliance with the requirements under the national flood insurance program and submit to the Congress a report describing the study and any conclusions.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Study of compliance model.—Conduct a study of the extent to which existing programs of Federal agencies and corporations for compliance with the requirements under the national flood insurance program can serve as a model for other Federal agencies responsible for enforcing compliance, and submit to the Congress a report describing the study and any conclusions.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Recommendations for enforcement and compliance procedures.—Develop recommendations regarding enforcement and compliance procedures, based on the studies and findings of the Task Force, and publish such recommendations.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Study of determination fees.—Conduct a study of—
 
-&emsp;&emsp;“(A) the reasonableness of fees charged pursuant to 102(h) of the Flood Disaster Protection Act of 1973 \[42 U.S.C. 4012a(h)\] for costs of determining whether the property securing a loan is located in an area having special flood hazards; and
+&emsp;&emsp;"(A) the reasonableness of fees charged pursuant to 102(h) of the Flood Disaster Protection Act of 1973 \[42 U.S.C. 4012a(h)\] for costs of determining whether the property securing a loan is located in an area having special flood hazards; and
 
-&emsp;&emsp;“(B) whether the fees charged pursuant to such section by lenders and servicers are greater than the amounts paid by such lenders and servicers to persons actually conducting such determinations and the extent to which the fees exceed such amounts.
+&emsp;&emsp;"(B) whether the fees charged pursuant to such section by lenders and servicers are greater than the amounts paid by such lenders and servicers to persons actually conducting such determinations and the extent to which the fees exceed such amounts.
 
-“(d)
+"(d)
 
 Noncompensation.—Members of the Task Force shall receive no additional pay by reason of their service on the Task Force.
 
-“(e)
+"(e)
 
 Chairperson.—The members of the Task Force shall elect one member as chairperson of the Task Force.
 
-“(f)
+"(f)
 
 Meetings and Action.—The Task Force shall meet at the call of the chairman or a majority of the members of the Task Force and may take action by a vote of the majority of the members. The Federal Insurance Administrator shall coordinate and call the initial meeting of the Task Force.
 
-“(g)
+"(g)
 
 Officers.—The chairperson of the Task Force may appoint any officers to carry out the duties of the Task Force under subsection (c).
 
-“(h)
+"(h)
 
-Staff of Federal Agencies.—Upon request of the chairperson of the Task Force, the head of any of the Federal agencies and entities referred to under subsection (b)(1) may detail, on a nonreimbursable basis, any of the personnel of such agency to the Task Force to assist the Task Force in carrying out its duties under this section.
+Staff of Federal Agencies.—Upon request of the chairperson of the Task Force, the head of any of the Federal agencies and entities referred to under subsection (b)(1) may detail, on a nonreimbursable basis,any of the personnel of such agency to the Task Force to assist the Task Force in carrying out its duties under this section.
 
-“(i)
+"(i)
 
 Powers.—In carrying out this section, the Task Force may hold hearings, sit and act at times and places, take testimony, receive evidence and assistance, provide information, and conduct research as the Task Force considers appropriate.
 
-“(j)
+"(j)
 
-Termination.—The Task Force shall terminate upon the expiration of the 24-month period beginning upon the designation of the last member to be designated under subsection (b)(1).”
+Termination.—The Task Force shall terminate upon the expiration of the 24-month period beginning upon the designation of the last member to be designated under subsection (b)(1)."
 

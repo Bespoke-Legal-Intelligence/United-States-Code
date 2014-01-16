@@ -6,7 +6,7 @@ In this subchapter:
 
 #### (1) Child with a disability
 
-&emsp;The term “child with a disability” means an individual who—
+&emsp;The term "child with a disability" means an individual who—
 
 &emsp;&emsp;(A) has a significant physical or mental impairment, as defined pursuant to State policy to the extent that such policy is established without regard to type of disability; or
 
@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), for purposes of the application of this subchapter in a State, the term “family” has the meaning given the term by the State.
+&emsp;&emsp;Subject to subparagraph (B), for purposes of the application of this subchapter in a State, the term "family" has the meaning given the term by the State.
 
 #### (B) Exclusion of employees
 
@@ -24,7 +24,7 @@ In this subchapter:
 
 #### (3) Family support for families of children with disabilities
 
-&emsp;The term “family support for families of children with disabilities” means supports, resources, services, and other assistance provided to families of children with disabilities pursuant to State policy that are designed to—
+&emsp;The term "family support for families of children with disabilities" means supports, resources, services, and other assistance provided to families of children with disabilities pursuant to State policy that are designed to—
 
 &emsp;&emsp;(A) support families in the efforts of such families to raise their children with disabilities in the home;
 
@@ -36,15 +36,15 @@ In this subchapter:
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services.
 
 #### (5) State
 
-&emsp;The term “State” means each of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" means each of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (6) Systems change activities
 
-&emsp;The term “systems change activities” means efforts that result in laws, regulations, policies, practices, or organizational structures—
+&emsp;The term "systems change activities" means efforts that result in laws, regulations, policies, practices, or organizational structures—
 
 &emsp;&emsp;(A) that are family-centered and family-directed;
 

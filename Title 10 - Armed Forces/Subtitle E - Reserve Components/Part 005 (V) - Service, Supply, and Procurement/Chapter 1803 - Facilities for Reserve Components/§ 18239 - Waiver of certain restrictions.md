@@ -12,15 +12,15 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(1). Pub. L. 107–217 substituted “section 3111 of title 40” for “section 355 of the Revised Statutes (40 U.S.C. 255)”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–217 substituted "section 3111 of title 40" for "section 355 of the Revised Statutes (40 U.S.C. 255)".
 
 <b>1994</b>—Pub. L. 103–337, §1664(b)(2), renumbered section 2239 of this title as this section.
 
-Subsecs. (a), (b). Pub. L. 103–337, §1664(b)(10), substituted “18233” for “2233”.
+Subsecs. (a), (b). Pub. L. 103–337, §1664(b)(10), substituted "18233" for "2233".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted "section 3324(a) and (b) of title 31" for "section 3648 of the Revised Statutes (31 U.S.C. 529)".
 
-Subsec. (b). Pub. L. 97–321, in introductory text, substituted “on land” for “on lands” and inserted “on land not owned by the United States”; redesignated former cl. (1) as par. (1); added par. (2) and struck out former cl. (2) “even though the land is held temporarily”.
+Subsec. (b). Pub. L. 97–321, in introductory text, substituted "on land" for "on lands" and inserted "on land not owned by the United States"; redesignated former cl. (1) as par. (1); added par. (2) and struck out former cl. (2) "even though the land is held temporarily".
 
 #### Effective Date of 1994 Amendment
 

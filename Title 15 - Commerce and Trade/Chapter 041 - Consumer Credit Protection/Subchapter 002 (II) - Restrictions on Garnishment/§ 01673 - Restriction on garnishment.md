@@ -20,7 +20,7 @@ Except as provided in subsection (b) of this section and in section 1675 of this
 
 &emsp;(C) any debt due for any State or Federal tax.
 
-(2) The maximum part of the aggregate disposable earnings of an individual for any workweekwhich is subject to garnishment to enforce any order for the support of any person shall not exceed—
+(2) The maximum part of the aggregate disposable earnings of an individual for any workweek which is subject to garnishment to enforce any order for the support of any person shall not exceed—
 
 &emsp;(A) where such individual is supporting his spouse or dependent child (other than a spouse or child with respect to whose support such order is used), 50 per centum of such individual's disposable earnings for that week; and
 
@@ -36,11 +36,11 @@ No court of the United States or any State, and no State (or officer or agency t
 
 #### Amendments
 
-<b>1978</b>—Subsec. (b)(1)(B). Pub. L. 95–598 substituted “court of the United States having jurisdiction over cases under chapter 13 of title 11” for “court of bankruptcy under chapter XIII of the Bankruptcy Act”.
+<b>1978</b>—Subsec. (b)(1)(B). Pub. L. 95–598 substituted "court of the United States having jurisdiction over cases under chapter 13 of title 11" for "court of bankruptcy under chapter XIII of the Bankruptcy Act".
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–30, §501(e)(1), (2), designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C) thereof, substituted “for the support of any person issued by a court of competent jurisdiction or in accordance with an administrative procedure, which is established by State law, which affords substantial due process, and which is subject to judicial review” for “of any court for the support of any person” in subpar. (A) as so redesignated, and added par. (2).
+<b>1977</b>—Subsec. (b). Pub. L. 95–30, §501(e)(1), (2), designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C) thereof, substituted "for the support of any person issued by a court of competent jurisdiction or in accordance with an administrative procedure, which is established by State law, which affords substantial due process, and which is subject to judicial review" for "of any court for the support of any person" in subpar. (A) as so redesignated, and added par. (2).
 
-Subsec. (c). Pub. L. 95–30, §501(e)(3), inserted “, and no State (or officer or agency thereof),” after “or any State”.
+Subsec. (c). Pub. L. 95–30, §501(e)(3), inserted ", and no State (or officer or agency thereof)," after "or any State".
 
 #### Effective Date of 1978 Amendment
 
@@ -48,5 +48,5 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–30, title V, §501(e)(5), May 23, 1977, 91 Stat. 162, provided that: “The amendments made by this subsection \[amending this section and section 1675 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[May 23, 1977\].”
+Pub. L. 95–30, title V, §501(e)(5), May 23, 1977, 91 Stat. 162, provided that: "The amendments made by this subsection \[amending this section and section 1675 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[May 23, 1977\]."
 

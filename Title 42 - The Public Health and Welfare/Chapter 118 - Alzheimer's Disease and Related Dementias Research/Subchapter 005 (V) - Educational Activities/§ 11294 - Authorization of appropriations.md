@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–507 designated existing provisions as subsec. (a), substituted “sections 11291 and 11293 of this title” for “this subchapter”, and added subsec. (b).
+<b>1992</b>—Pub. L. 102–507 designated existing provisions as subsec. (a), substituted "sections 11291 and 11293 of this title" for "this subchapter", and added subsec. (b).
 

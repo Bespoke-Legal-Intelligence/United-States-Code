@@ -22,7 +22,7 @@ In carrying out this part, the Research Commissioner shall—
 
 &emsp;The Research Commissioner shall—
 
-&emsp;&emsp;(A) develop the procedures to be used in evaluating applications for research grants, cooperative agreements, and contracts, and specify the criteria and factors (including, as applicable, the use of longitudinal data linking test scores, enrollment, and graduation rates over time) which shall be considered in making such evaluations; and
+&emsp;&emsp;(A) develop the procedures to be used in evaluating applications for research grants, cooperative agreements, and contracts, and specify the criteria and factors (including, asapplicable, the use of longitudinal data linking test scores, enrollment, and graduation rates over time) which shall be considered in making such evaluations; and
 
 &emsp;&emsp;(B) evaluate the performance of each recipient of an award of a research grant, contract, or cooperative agreement at the conclusion of the award.
 

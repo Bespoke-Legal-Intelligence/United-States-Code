@@ -2,7 +2,7 @@
 
 In order to insure against cost overruns, each total cost set forth with respect to a project for water resources development and conservation and related purposes authorized to be carried out by the Secretary in this Act or in a law enacted after the date of the enactment of this Act, including the Water Resources Development Act of 1988, or in an amendment made by this Act or any later law with respect to such a project shall be the maximum cost of that project, except that such maximum amount—
 
-&emsp;(1) may be increased by the Secretary for modifications which do not materially alter the scope or functions of the project as authorized, but not by more than 20 percent of the total cost stated for the project in this Act, in any later law, or in an amendment made by this Act or any later law; and
+&emsp;(1) may be increased by the Secretary for modifications which do not materially alterthe scope or functions of the project as authorized, but not by more than 20 percent of the total cost stated for the project in this Act, in any later law, or in an amendment made by this Act or any later law; and
 
 &emsp;(2) shall be automatically increased for—
 
@@ -22,9 +22,9 @@ The Water Resources Development Act of 1988, referred to in text, is Pub. L. 100
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–676, §3(b)(1), substituted “with respect to a project for water resources development and conservation and related purposes authorized to be carried out by the Secretary in this Act or in a law enacted after the date of the enactment of this Act, including the Water Resources Development Act of 1988, or in an amendment made by this Act or any later law with respect to such a project” for “in this Act, or an amendment made by this Act, for a project”.
+<b>1988</b>—Pub. L. 100–676, §3(b)(1), substituted "with respect to a project for water resources development and conservation and related purposes authorized to be carried out by the Secretary in this Act or in a law enacted after the date of the enactment of this Act, including the Water Resources Development Act of 1988, or in an amendment made by this Act or any later law with respect to such a project" for "in this Act, or an amendment made by this Act, for a project".
 
-Par. (1). Pub. L. 100–676, §3(b)(2), inserted “, in any later law,” after “in this Act”, and “or any later law” after “by this Act”.
+Par. (1). Pub. L. 100–676, §3(b)(2), inserted ", in any later law," after "in this Act", and "or any later law" after "by this Act".
 
-Par. (2). Pub. L. 100–676, §3(b)(3), (4), inserted “or any later law” after “of this Act” in subpars. (A) and (B).
+Par. (2). Pub. L. 100–676, §3(b)(3), (4), inserted "or any later law" after "of this Act" in subpars. (A) and (B).
 

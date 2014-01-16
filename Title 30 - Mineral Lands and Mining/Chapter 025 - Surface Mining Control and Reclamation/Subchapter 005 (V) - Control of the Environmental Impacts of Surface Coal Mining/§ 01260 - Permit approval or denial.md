@@ -32,7 +32,7 @@ No permit or revision application shall be approved unless the application affir
 
 &emsp;&emsp;(B) a conveyance that expressly grants or reserves the right to extract the coal by surface mining methods; or
 
-&emsp;&emsp;(C) if the conveyance does not expressly grant the right to extract coal by surface mining methods, the surface-subsurface legal relationship shall be determined in accordance with State law: <i>Provided</i>, That nothing in this chapter shall be construed to authorize the regulatory authority to adjudicate property rights disputes.
+&emsp;&emsp;(C) if the conveyance does not expressly grant the right to extract coal by surface mining methods, the surface-subsurface legal relationship shall be determined in accordance with State law: <i>Provided</i>, Thatnothing in this chapter shall be construed to authorize the regulatory authority to adjudicate property rights disputes.
 
 #### (c) Schedule of violations
 
@@ -46,17 +46,17 @@ The applicant shall file with his permit application a schedule listing any and 
 
 #### (e) Modification of prohibition
 
-After October 24, 1992, the prohibition of subsection (c) of this section shall not apply to apermit application due to any violation resulting from an unanticipated event or condition at a surface coal mining operation on lands eligible for remining under a permit held by the person making such application. As used in this subsection, the term “violation” has the same meaning as such term has under subsection (c) of this section.
+After October 24, 1992, the prohibition of subsection (c) of this section shall not apply to a permit application due to any violation resulting from an unanticipated event or condition at a surface coal mining operation on lands eligible for remining under a permit held by the person making such application. As used in this subsection, the term "violation" has the same meaning as such term has under subsection (c) of this section.
 
 (Pub. L. 95–87, title V, §510, Aug. 3, 1977, 91 Stat. 480; Pub. L. 102–486, title XXV, §2503(a), Oct. 24, 1992, 106 Stat. 3102; Pub. L. 109–432, div. C, title II, §208, Dec. 20, 2006, 120 Stat. 3019.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e). Pub. L. 109–432 struck out at end “The authority of this subsection and section 1265(b)(20)(B) of this title shall terminate on September 30, 2004.”
+<b>2006</b>—Subsec. (e). Pub. L. 109–432 struck out at end "The authority of this subsection and section 1265(b)(20)(B) of this title shall terminate on September 30, 2004."
 
 <b>1992</b>—Subsec. (e). Pub. L. 102–486 added subsec. (e).
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “in”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "in".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “of the”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "of the".</i>
 

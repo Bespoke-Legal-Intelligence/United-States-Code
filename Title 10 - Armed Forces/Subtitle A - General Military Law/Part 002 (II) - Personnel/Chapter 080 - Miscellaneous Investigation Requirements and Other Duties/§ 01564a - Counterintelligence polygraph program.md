@@ -98,11 +98,11 @@ Polygraph Research Program.—The Secretary shall carry out a continuing researc
 
 #### References in Text
 
-Executive Order No. 12958, referred to in subsec. (c)(1)(B), which was formerly set out as a note under section 435 of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
+Executive Order No. 12958, referred to in subsec. (c)(1)(B), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 100–180, title XI, §1121, Dec. 4, 1987, 101 Stat. 1147, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 108–136, div. A, title X, §1041(b), Nov. 24, 2003, 117 Stat. 1608.
+Provisions similar to those in this section were contained in Pub. L. 100–180, title XI, §1121, Dec. 4, 1987, 101Stat. 1147, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 108–136, div. A, title X, §1041(b), Nov. 24, 2003, 117 Stat. 1608.
 
 #### Amendments
 
@@ -110,5 +110,5 @@ Provisions similar to those in this section were contained in Pub. L. 100–180,
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title X, §1054(b), Jan. 6, 2006, 119 Stat. 3438, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to polygraph examinations administered beginning on the date of the enactment of this Act \[Jan. 6, 2006\].”
+Pub. L. 109–163, div. A, title X, §1054(b), Jan. 6, 2006, 119 Stat. 3438, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to polygraph examinations administered beginning on the date of the enactment of this Act \[Jan. 6, 2006\]."
 

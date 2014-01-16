@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 R.S. §3733.
 
-The words “the activity covered by the contract” are substituted for “the specific purpose” for clarity.
+The words "the activity covered by the contract" are substituted for "the specific purpose" for clarity.
 

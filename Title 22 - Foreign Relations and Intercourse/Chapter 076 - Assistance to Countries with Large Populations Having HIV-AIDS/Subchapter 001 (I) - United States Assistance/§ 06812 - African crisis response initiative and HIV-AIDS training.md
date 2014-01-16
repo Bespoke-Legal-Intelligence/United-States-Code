@@ -14,7 +14,7 @@ Congress finds that—
 
 #### (b) Education on the prevention of the spread of AIDS
 
-In undertaking education and training programs for military establishments in African countries, the United States shall ensure that classroom training under the African Crisis Response Initiative includes military-based education on the prevention of the spread of AIDS.
+In undertaking education and training programs for military establishments in African countries, the United States shall ensure thatclassroom training under the African Crisis Response Initiative includes military-based education on the prevention of the spread of AIDS.
 
 (Pub. L. 106–264, title I, §114, Aug. 19, 2000, 114 Stat. 754.)
 

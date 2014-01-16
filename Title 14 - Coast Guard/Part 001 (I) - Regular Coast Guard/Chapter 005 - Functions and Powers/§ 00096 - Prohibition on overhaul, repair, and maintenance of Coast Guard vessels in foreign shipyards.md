@@ -6,5 +6,5 @@ A Coast Guard vessel the home port of which is in the United States or Guam may 
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–281 substituted “in the United States or Guam” for “in a State of the United States” and inserted “or Guam” after “outside the United States”.
+<b>2010</b>—Pub. L. 111–281 substituted "in the United States or Guam" for "in a State of the United States" and inserted "or Guam" after "outside the United States".
 

@@ -28,7 +28,7 @@ Effect of Nonselection.—An officer who is considered for promotion under this 
 
 Special Rule for Officers Failed of Selection.—A reserve officer of the Army or the Air Force who is considered as failed of selection for promotion under section 14501 of this title to a grade may be considered for promotion under this section or, if selected, promoted to that grade only if the Secretary of the military department concerned finds that the officer is the only qualified officer available to fill the vacancy. The Secretary concerned may not delegate the authority under the preceding sentence.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2943; amended Pub. L. 104–106, div. A, title XV, §1501(b)(25), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title V, §514(d), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 106–398, §1 \[\[div. A\], title V, §501\], Oct. 30, 2000, 114 Stat. 1654, 1654A–98; Pub. L. 108–136, div. A, title V, §512(b), Nov. 24, 2003, 117 Stat. 1460.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2943; amended Pub. L. 104–106, div. A, title XV, §1501(b)(25), Feb. 10,1996, 110 Stat. 497; Pub. L. 105–85, div. A, title V, §514(d), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 106–398, §1 \[\[div. A\], title V, §501\], Oct. 30, 2000, 114 Stat. 1654, 1654A–98; Pub. L. 108–136, div. A, title V, §512(b), Nov. 24, 2003, 117 Stat. 1460.)
 
 #### Prior Provisions
 
@@ -36,15 +36,15 @@ Provisions similar to those in this section were contained in sections 3384 and 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted “under regulations prescribed by the Secretary concerned, has been recommended” for “as determined by the Secretary concerned, is available”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted "under regulations prescribed by the Secretary concerned, has been recommended" for "as determined by the Secretary concerned, is available".
 
-<b>2000</b>—Subsec. (b)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §501(1)\], inserted “or is recommended for such an assignment under regulations prescribed by the Secretary of the Army” after “Army Reserve”.
+<b>2000</b>—Subsec. (b)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §501(1)\], inserted "or is recommended for such an assignment under regulations prescribed by the Secretary of the Army" after "Army Reserve".
 
-Subsec. (b)(2)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §501(2)\], inserted “or is recommended for such an assignment under regulations prescribed by the Secretary of the Air Force” after “reserve grade”.
+Subsec. (b)(2)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §501(2)\], inserted "or is recommended for such an assignment under regulations prescribed by the Secretary of the Air Force" after "reserve grade".
 
-<b>1997</b>—Subsec. (b)(1)(A). Pub. L. 105–85 substituted “duties of a general officer of the next higher reserve grade in the Army Reserve,” for “duties of a general officer of the next higher reserve grade in a unit of the Army Reserve organized to serve as a unit,”.
+<b>1997</b>—Subsec. (b)(1)(A). Pub. L. 105–85 substituted "duties of a general officer of the next higher reserve grade in the Army Reserve," for "duties of a general officer of the next higher reserve grade in a unit of the Army Reserve organized to serve as a unit,".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106 substituted “or a reserve officer” for “or a Reserve officer” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 substituted "or a reserve officer" for "or a Reserve officer" in introductory provisions.
 
 #### Effective Date of 1996 Amendment
 

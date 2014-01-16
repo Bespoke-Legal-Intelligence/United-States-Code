@@ -20,7 +20,7 @@
 
 (g) Membership on the Air Staff Committee is determined by the Secretary of the Air Force and is for a minimum period of three years. Except in the case of members of the Committee from the Regular Air Force, the Secretary of the Air Force, when appointing new members, shall insure that among the officers of each component on the Committee there will at all times be two or more members with more than one year of continuous service on the Committee.
 
-(h) There shall be not less than 10 officers of the Air National Guard of the United States and the Air Force Reserve on duty with the Air Staff, one-half of whom shall be from each ofthose components. These officers shall be considered as additional members of the Air Staff while on that duty.
+(h) There shall be not less than 10 officers of the Air National Guard of the United States and the Air Force Reserve on duty with the Air Staff, one-half of whom shall be from each of those components. These officers shall be considered as additional members of the Air Staff while on that duty.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 491, §8033; Pub. L. 85–861, §33(a)(17), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 90–168, §2(21), Dec. 1, 1967, 81 Stat. 525; renumbered §8021 and amended Pub. L. 99–433, title V, §521(a)(6), Oct. 1, 1986, 100 Stat. 1059; renumbered §10305, Pub. L. 103–337, div. A, title XVI, §1661(b)(2)(B), Oct. 5, 1994, 108 Stat. 2981.)
 
@@ -78,13 +78,13 @@ June 3, 1916, ch. 134, §5 (less last par.); June 4, 1920, ch. 227, subch. I, §
 
 July 26, 1947, ch. 343, §207(f), 61 Stat. 503.
 
-In subsection (a), the words “the following subjects” are inserted for clarity.
+In subsection (a), the words "the following subjects" are inserted for clarity.
 
-In subsections (a) and (c), the words “of officers”, after the word “committee”, are inserted for clarity. The words “and of” are substituted for the words “to which shall be added”.
+In subsections (a) and (c), the words "of officers", after the word "committee", are inserted for clarity. The words "and of" are substituted for the words "to which shall be added".
 
-In subsection (e), the words “For the purpose specified herein” are omitted as surplusage. The words “on that duty” are substituted for the words “so serving”.
+In subsection (e), the words "For the purpose specified herein" are omitted as surplusage. The words "on that duty" are substituted for the words "so serving".
 
-In subsection (g), the word “perform” is substituted for the words “be charged with”. All of 5:626(f) except the first proviso of the first sentence is omitted as executed. The words “Territories, Puerto Rico, the Canal Zone, and the District of Columbia” are inserted to conform to other sections of this title which, in describing the National Guard, also include these jurisdictions.
+In subsection (g), the word "perform" is substituted for the words "be charged with". All of 5:626(f) except the first proviso of the first sentence is omitted as executed. The words "Territories, Puerto Rico, the Canal Zone, and the District of Columbia" are inserted to conform to other sections of this title which, in describing the National Guard, also include these jurisdictions.
 
 #### 1958 Act
 
@@ -94,15 +94,15 @@ The change is necessary to make subsection (d) coextensive with subsection (c), 
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 8021 of this title as this section.
 
-<b>1986</b>—Pub. L. 99–433, §521(a)(6)(C), renumbered section 8033 of this title as this section, and substituted “Air Force Reserve Forces Policy Committee” for “Reserve components of Air Force; policies and regulations for government of: functions of National Guard Bureau with respect to Air National Guard” in section catchline.
+<b>1986</b>—Pub. L. 99–433, §521(a)(6)(C), renumbered section 8033 of this title as this section, and substituted "Air Force Reserve Forces Policy Committee" for "Reserve components of Air Force; policies and regulations for government of: functions of National Guard Bureau with respect to Air National Guard" in section catchline.
 
-Subsec. (a). Pub. L. 99–433, §521(a)(6)(A), substituted “Policy. The Committee” for “Policy which”, inserted “and the mobilization preparedness”, and substituted “Air Force. The” for “Air Force and the” and “Secretary of the Air Force and the Chief of Staff” for “Chief of Staff, and the Assistant Secretary responsible for reserve affairs”.
+Subsec. (a). Pub. L. 99–433, §521(a)(6)(A), substituted "Policy. The Committee" for "Policy which", inserted "and the mobilization preparedness", and substituted "Air Force. The" for "Air Force and the" and "Secretary of the Air Force and the Chief of Staff" for "Chief of Staff, and the Assistant Secretary responsible for reserve affairs".
 
-Subsec. (b)(2). Pub. L. 99–433, §521(a)(6)(B), inserted “and” after the semicolon.
+Subsec. (b)(2). Pub. L. 99–433, §521(a)(6)(B), inserted "and" after the semicolon.
 
 <b>1967</b>—Pub. L. 90–168 amended section generally, and among other changes, redesignated subsec. (e) as (h) and increased from seven to eight the number of subsecs. in the section and in such subsecs. (a)–(h) restated with certain changes the existing authority relating to the Staff Committee on Air Force Reserve Policy within the Office of the Secretary of the Air Force, reduced the membership of the Committee from 21 to 15, reduced the grade requirements so as to permit inclusion of colonels, and provided that the Committee review and comment on all major policies affecting Air Force Reserve matters and that the Committee comments accompany any final submission to the Chief of Staff and Assistant Secretary responsible for Reserve matters.
 
-<b>1958</b>—Subsec. (d). Pub. L. 85–861 substituted “affecting the organization, distribution, training, appointment, assignment, promotion, or discharge of members of the Air Force Reserve and those of either” for “affecting the Air Force Reserve and either”.
+<b>1958</b>—Subsec. (d). Pub. L. 85–861 substituted "affecting the organization, distribution, training, appointment, assignment, promotion, or discharge of members of the Air Force Reserve and those of either" for "affecting the Air Force Reserve and either".
 
 #### Effective Date of 1967 Amendment
 

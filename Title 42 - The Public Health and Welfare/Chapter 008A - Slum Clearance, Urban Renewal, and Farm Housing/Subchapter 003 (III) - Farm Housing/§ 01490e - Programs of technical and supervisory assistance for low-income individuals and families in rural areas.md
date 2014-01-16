@@ -2,7 +2,7 @@
 
 #### (a) Grants or contracts with public or private nonprofit corporations, etc., for assistance; preferential treatment of applications sponsored by governmental entity or public body
 
-The Secretary may make grants to or enter into contracts with public or private nonprofitcorporations, agencies, institutions, organizations, Indian tribes, and other associations approved by him, to pay part or all of the cost of developing, conducting, administering or coordinating effective and comprehensive programs of technical and supervisory assistance which will aid needy low-income individuals and families in benefiting from Federal, State, and local housing programs in rural areas. In processing applications for such grants or contracts made by private nonprofit corporations, agencies, institutions, organizations, and other associations, the Secretary shall give preference to those which are sponsored (including assistance to the applicant in processing the application, implementing the technical assistance program, and carrying out the obligations of the grant or contract) by a State, county, municipality, or other governmental entity or public body.
+The Secretary may make grants to or enter into contracts with public or private nonprofit corporations, agencies, institutions, organizations, Indian tribes, and other associations approved by him, to pay part or all of the cost of developing, conducting, administering or coordinating effective and comprehensive programs of technical and supervisory assistance which will aid needy low-income individuals and families in benefiting from Federal, State, and local housing programs in rural areas. In processing applications for such grants or contracts made by private nonprofit corporations, agencies, institutions, organizations, and other associations, the Secretary shall give preference to those which are sponsored (including assistance to the applicant in processing the application, implementing the technical assistance program, and carrying out the obligations of the grant or contract) by a State, county, municipality, or other governmental entity or public body.
 
 #### (b) Loans to public or private nonprofit corporations, etc., for necessary planning and financing expenses; interest rates; factors determinative of amount; terms and conditions of repayment
 
@@ -24,65 +24,65 @@ Subsec. (c). Pub. L. 98–181, §518(b), struck out subsec. (c), which related t
 
 <b>1980</b>—Subsecs. (a), (b). Pub. L. 96–399 inserted references to Indian tribes.
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–557 inserted “There are also authorized to be appropriated for the fiscal year ending September 30, 1979, not to exceed $5,000,000 for the purposes of subsection (a) of this section and not to exceed $5,000,000 for the purposes of subsection (b) of this section.”
+<b>1978</b>—Subsec. (c). Pub. L. 95–557 inserted "There are also authorized to be appropriated for the fiscal year ending September 30, 1979, not to exceed $5,000,000 for the purposes of subsection (a) of this section and not to exceed $5,000,000 for the purposes of subsection (b) of this section."
 
 #### Housing Assistance Council
 
 Pub. L. 110–234, title VI, subtitle D, May 22, 2008, 122 Stat. 1210, and Pub. L. 110–246, §4(a), title VI, subtitle D, June 18, 2008, 122 Stat. 1664, 1972, provided that:
 
-#### “SEC. 6301. SHORT TITLE.
+#### "SEC. 6301. SHORT TITLE.
 
-“This subtitle may be cited as the ‘Housing Assistance Council Authorization Act of 2008’.
+"This subtitle may be cited as the 'Housing Assistance Council Authorization Act of 2008'.
 
-#### “SEC. 6302. ASSISTANCE TO HOUSING ASSISTANCE COUNCIL.
+#### "SEC. 6302. ASSISTANCE TO HOUSING ASSISTANCE COUNCIL.
 
-“(a)
+"(a)
 
 Use.—The Secretary of Housing and Urban Development may provide financial assistance to the Housing Assistance Council for use by the Council to develop the ability and capacity of community-based housing development organizations to undertake community development and affordable housing projects and programs in rural areas. Assistance provided by the Secretary under this section may be used by the Housing Assistance Council for—
 
-&emsp;“(1) technical assistance, training, support, research, and advice to develop the business and administrative capabilities of rural community-based housing development organizations;
+&emsp;"(1) technical assistance, training, support, research, and advice to develop the business and administrative capabilities of rural community-based housing development organizations;
 
-&emsp;“(2) loans, grants, or other financial assistance to rural community-based housing development organizations to carry out community development and affordable housing activities for low- and moderate-income families; and
+&emsp;"(2) loans, grants, or other financial assistance to rural community-based housing development organizations to carry out community development and affordable housing activities for low- and moderate-income families; and
 
-&emsp;“(3) such other activities as may be determined by the Secretary of Housing and Urban Development and the Housing Assistance Council.
+&emsp;"(3) such other activities as may be determined by the Secretary of Housing and Urban Development and the Housing Assistance Council.
 
-“(b)
+"(b)
 
 Authorization of Appropriations.—There is authorized to be appropriated for financial assistance under this section for the Housing Assistance Council $10,000,000 for each of fiscal years 2009 through 2011.
 
-#### “SEC. 6303. AUDITS AND REPORTS.
+#### "SEC. 6303. AUDITS AND REPORTS.
 
-“(a)
+"(a)
 
 Audit.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The financial transactions and activities of the Housing Assistance Council shall be audited annually by an independent certified public accountant or an independent licensed public accountant certified or licensed by a regulatory authority of a State or other political subdivision of the United States.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Requirements of audits.—The Comptroller General of the United States may rely on any audit completed under paragraph (1), if the audit complies with—
 
-&emsp;&emsp;“(A) the annual programmatic and financial examination requirements established in OMB Circular A-133; and
+&emsp;&emsp;"(A) the annual programmatic and financial examination requirements established in OMB Circular A-133; and
 
-&emsp;&emsp;“(B) generally accepted government auditing standards.
+&emsp;&emsp;"(B) generally accepted government auditing standards.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Report to congress.—The Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representative a report detailing each audit completed under paragraph (1).
 
-“(b) GAO
+"(b) GAO
 
 Report.—The Comptroller General of the United States shall conduct a study and submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representative on the use of any funds appropriated to the Housing Assistance Council over the past 7 years.
 
-#### “SEC. 6304. PERSONS NOT LAWFULLY PRESENT IN THE UNITED STATES.
+#### "SEC. 6304. PERSONS NOT LAWFULLY PRESENT IN THE UNITED STATES.
 
-“Aliens who are not lawfully present in the United States shall be ineligible for financial assistance under this subtitle, as provided and defined by section 214 of the Housing and Community Development Act of 1980 (42 U.S.C. 1436a). Nothing in this subtitle shall be construed to alter the restrictions or definitions in such section 214.
+"Aliens who are not lawfully present in the United States shall be ineligible for financial assistance under this subtitle, as provided and defined by section 214 of the Housing and Community Development Act of 1980 (42 U.S.C. 1436a). Nothing in this subtitle shall be construed to alter the restrictions or definitions in such section 214.
 
-#### “SEC. 6305. LIMITATION ON USE OF AUTHORIZED AMOUNTS.
+#### "SEC. 6305. LIMITATION ON USE OF AUTHORIZED AMOUNTS.
 
-“None of the amounts authorized by this subtitle may be used to lobby or retain a lobbyist for the purpose of influencing a Federal, State, or local governmental entity or officer.”
+"None of the amounts authorized by this subtitle may be used to lobby or retain a lobbyist for the purpose of influencing a Federal, State, or local governmental entity or officer."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

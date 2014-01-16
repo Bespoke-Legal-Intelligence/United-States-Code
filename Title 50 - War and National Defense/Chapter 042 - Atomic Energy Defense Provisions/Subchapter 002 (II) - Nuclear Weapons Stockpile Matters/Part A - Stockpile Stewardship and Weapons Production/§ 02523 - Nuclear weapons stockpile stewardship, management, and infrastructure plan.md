@@ -2,7 +2,7 @@
 
 #### (a) Plan requirement
 
-The Administrator, in consultation with the Secretary of Defense and other appropriate officials of the departments and agencies of the Federal Government, shall develop and annually update a plan for sustaining the nuclear weapons stockpile. The plan shall cover, at a minimum, stockpile stewardship, stockpile management, stockpile surveillance, program direction, infrastructure modernization, human capital, and nuclear test readiness. The plan shall be consistent with the programmatic and technical requirements of the most recent annual Nuclear Weapons Stockpile Memorandum.
+The Administrator, in consultation with the Secretary of Defense and other appropriate officials of the departments and agencies of the Federal Government, shall develop and annually update a plan for sustaining the nuclear weapons stockpile. The plan shall cover, at a minimum, stockpile stewardship, stockpile management, stockpile surveillance, program direction,infrastructure modernization, human capital, and nuclear test readiness. The plan shall be consistent with the programmatic and technical requirements of the most recent annual Nuclear Weapons Stockpile Memorandum.
 
 #### (b) Submissions to Congress
 
@@ -114,11 +114,29 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(E) an assessment of the readiness status of the skills and capabilities described in subparagraph (C) and the infrastructure and physical plants described in subparagraph (D).
 
-&emsp;(6) Identification of any modifications or updates to the plan since the previous summary or detailed report was submitted under subsection (b).
+&emsp;(6) A strategy for the integrated management of plutonium for stockpile and stockpile stewardship needs over a 20-year period that includes the following:
+
+&emsp;&emsp;(A) An assessment of the baseline science issues necessary to understand plutonium aging under static and dynamic conditions under manufactured and nonmanufactured plutonium geometries.
+
+&emsp;&emsp;(B) An assessment of scientific and testing instrumentation for plutonium at elemental and bulk conditions.
+
+&emsp;&emsp;(C) An assessment of manufacturing and handling technology for plutonium and plutonium components.
+
+&emsp;&emsp;(D) An assessment of computational models of plutonium performance under static and dynamic loading, including manufactured and nonmanufactured conditions.
+
+&emsp;&emsp;(E) An identification of any capability gaps with respect to the assessments described in subparagraphs (A) through (D).
+
+&emsp;&emsp;(F) An estimate of costs relating to the issues, instrumentation, technology, and models described in subparagraphs (A) through (D) over the period covered by the future-years nuclear security program under section 2453 of this title.
+
+&emsp;&emsp;(G) An estimate of the cost of eliminating the capability gaps identified under subparagraph (E) over the period covered by the future-years nuclear security program.
+
+&emsp;&emsp;(H) Such other items as the Administrator considers important for the integrated management of plutonium for stockpile and stockpile stewardship needs.
+
+&emsp;(7) Identification of any modifications or updates to the plan since the previous summary or detailed report was submitted under subsection (b).
 
 #### (e) Nuclear Weapons Council assessment
 
-(1) For each detailed report on the plan submitted under subsection (b)(2), the Nuclear Weapons Council established by section 179 of title 10 shall conduct an assessment that includes the following:
+(1) For each detailed report on the plan submitted under subsection (b)(2), the Nuclear Weapons Council shall conduct an assessment that includes the following:
 
 &emsp;(A) An analysis of the plan, including—
 
@@ -140,17 +158,17 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 In this section:
 
-&emsp;(1) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
+&emsp;(1) The term "budget", with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
 
-&emsp;(2) The term “future-years nuclear security program” means the program required by section 2453 of this title.
+&emsp;(2) The term "future-years nuclear security program" means the program required by section 2453 of this title.
 
-&emsp;(3) The term “nuclear security budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Administrator in support of the budget for that fiscal year.
+&emsp;(3) The term "nuclear security budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Administrator in support of the budget for that fiscal year.
 
-&emsp;(4) The term “quadrennial defense review” means the review of the defense programs and policies of the United States that is carried out every four years under section 118 of title 10.
+&emsp;(4) The term "quadrennial defense review" means the review of the defense programs and policies of the United States that is carried out every four years under section 118 of title 10.
 
-&emsp;(5) The term “weapons activities” means each activity within the budget category of weapons activities in the budget of the Administration.
+&emsp;(5) The term "weapons activities" means each activity within the budget category of weapons activities in the budget of the Administration.
 
-&emsp;(6) The term “weapons-related activities” means each activity under the Department of Energy that involves nuclear weapons, nuclear weapons technology, or fissile or radioactive materials, including activities related to—
+&emsp;(6) The term "weapons-related activities" means each activity under the Department of Energy that involves nuclear weapons, nuclear weapons technology, or fissile or radioactive materials, including activities related to—
 
 &emsp;&emsp;(A) nuclear nonproliferation;
 
@@ -162,7 +180,7 @@ In this section:
 
 &emsp;&emsp;(E) nuclear incident response.
 
-(Pub. L. 107–314, div. D, title XLII, §4203, formerly Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041; renumbered Pub. L. 107–314, div. D, title XLII, §4203, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758; amended Pub. L. 108–375, div. C, title XXXI, §3115, Oct. 28, 2004, 118 Stat. 2162; Pub. L. 112–239, div. C, title XXXI, §3133(a)(1), Jan. 2, 2013, 126 Stat. 2187.)
+(Pub. L. 107–314, div. D, title XLII, §4203, formerly Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041; renumbered Pub. L. 107–314, div. D, title XLII, §4203, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758; amended Pub. L. 108–375, div. C, title XXXI, §3115, Oct. 28, 2004, 118 Stat. 2162; Pub. L. 112–239, div. C, title XXXI, §3133(a)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §§3123, 3146(a)(2)(A), Dec. 26, 2013, 127 Stat. 1061, 1072.)
 
 #### Codification
 
@@ -178,75 +196,79 @@ Pub. L. 104–106, div. C, title XXXI, §3153, Feb. 10, 1996, 110 Stat. 624; rep
 
 <b>2013</b>—Pub. L. 112–239 amended section generally. Prior to amendment, section related to the plan for stewardship, management, and certification of warheads in the nuclear weapons stockpile.
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–375 substituted “May 1 of each year thereafter” for “March 15 of each year thereafter”.
+Subsec. (d)(6), (7). Pub. L. 113–66, §3123, added par. (6) and redesignated former par. (6) as (7).
+
+Subsec. (e)(1). Pub. L. 113–66, §3146(a)(2)(A), struck out "established by section 179 of title 10" after "Council" in introductory provisions.
+
+<b>2004</b>—Subsec. (c). Pub. L. 108–375 substituted "May 1 of each year thereafter" for "March 15 of each year thereafter".
 
 #### Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, and Delivery Platforms and Sense of Congress on Follow-on Negotiations to START Treaty
 
 Pub. L. 111–84, div. A, title XII, §1251, Oct. 28, 2009, 123 Stat. 2549, provided that:
 
-“(a)
+"(a)
 
 Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, and Delivery Platforms.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Report required.—Not later than 30 days after the date of the enactment of this Act \[Oct. 28, 2009\] or at the time a follow-on treaty to the Strategic Arms Reduction Treaty (START Treaty) is submitted by the President to the Senate for its advice and consent, whichever is later, the President shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report on the plan to—
 
-&emsp;&emsp;“(A) enhance the safety, security, and reliability of the nuclear weapons stockpile of the United States;
+&emsp;&emsp;"(A) enhance the safety, security, and reliability of the nuclear weapons stockpile of the United States;
 
-&emsp;&emsp;“(B) modernize the nuclear weapons complex; and
+&emsp;&emsp;"(B) modernize the nuclear weapons complex; and
 
-&emsp;&emsp;“(C) maintain the delivery platforms for nuclear weapons.
+&emsp;&emsp;"(C) maintain the delivery platforms for nuclear weapons.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Elements.—The report required under paragraph (1) shall include the following:
 
-&emsp;&emsp;“(A) A description of the plan to enhance the safety, security, and reliability of the nuclear weapons stockpile of the United States.
+&emsp;&emsp;"(A) A description of the plan to enhance the safety, security, and reliability of the nuclear weapons stockpile of the United States.
 
-&emsp;&emsp;“(B) A description of the plan to modernize the nuclear weapons complex, including improving the safety of facilities, modernizing the infrastructure, and maintaining the key capabilities and competencies of the nuclear weapons workforce, including designers and technicians.
+&emsp;&emsp;"(B) A description of the plan to modernize the nuclear weapons complex, including improving the safety of facilities, modernizing the infrastructure, and maintaining the key capabilities and competencies of the nuclear weapons workforce, including designers and technicians.
 
-&emsp;&emsp;“(C) A description of the plan to maintain delivery platforms for nuclear weapons.
+&emsp;&emsp;"(C) A description of the plan to maintain delivery platforms for nuclear weapons.
 
-&emsp;&emsp;“(D) An estimate of budget requirements, including the costs associated with the plans outlined under subparagraphs (A) through (C), over a 10-year period.
+&emsp;&emsp;"(D) An estimate of budget requirements, including the costs associated with the plans outlinedunder subparagraphs (A) through (C), over a 10-year period.
 
-“(b)
+"(b)
 
 Sense of Congress.—It is the sense of Congress that—
 
-&emsp;“(1) the President should maintain the stated position of the United States that the follow-on treaty to the START Treaty not include any limitations on the ballistic missile defense systems, space capabilities, or advanced conventional weapons systems of the United States;
+&emsp;"(1) the President should maintain the stated position of the United States that the follow-on treaty to the START Treaty not include any limitations on the ballistic missile defense systems, space capabilities, or advanced conventional weapons systems of the United States;
 
-&emsp;“(2) the enhanced safety, security, and reliability of the nuclear weapons stockpile, modernization of the nuclear weapons complex, and maintenance of the nuclear delivery systems are key to enabling further reductions in the nuclear forces of the United States; and
+&emsp;"(2) the enhanced safety, security, and reliability of the nuclear weapons stockpile, modernization of the nuclear weapons complex, and maintenance of the nuclear delivery systems are key to enabling further reductions in the nuclear forces of the United States; and
 
-&emsp;“(3) the President should submit budget requests for fiscal year 2011 and subsequent fiscal years for the programs of the National Nuclear Security Administration of the Department of Energy that are adequate to sustain the needed capabilities to support the long-term maintenance of the nuclear stockpile of the United States.”
+&emsp;"(3) the President should submit budget requests for fiscal year 2011 and subsequent fiscal years for the programs of the National Nuclear Security Administration of the Department of Energy that are adequate to sustain the needed capabilities to support the long-term maintenance of the nuclear stockpile of the United States."
 
 #### Inclusion in 2005 Stockpile Stewardship Plan of Certain Information Relating to Stockpile Stewardship Criteria
 
 Pub. L. 108–136, div. C, title XXXI, §3133, Nov. 24, 2003, 117 Stat. 1751, provided that:
 
-“(a)
+"(a)
 
 Inclusion in 2005
 
 Stockpile Stewardship Plan.—In submitting to Congress the updated version of the 2005 stockpile stewardship plan, the Secretary of Energy shall include the matters specified in subsection (b).
 
-“(b)
+"(b)
 
 Matters Included.—The matters referred to in subsection (a) are the following:
 
-&emsp;“(1) An update of any information or criteria described in the report on stockpile stewardship criteria submitted under section 4202 of the Atomic Energy Defense Act \[50 U.S.C. 2522\] (as transferred and redesignated by section 3161(e)(3) \[probably should be “3141(e)(3)”\] of this Act).
+&emsp;"(1) An update of any information or criteria described in the report on stockpile stewardship criteria submitted under section 4202 of the Atomic Energy Defense Act \[50 U.S.C. 2522\] (as transferred and redesignated by section 3161(e)(3) \[probably should be "3141(e)(3)"\] of this Act).
 
-&emsp;“(2) A description of any additional information identified, or criteria established, on matters covered by such section 4202 during the period beginning on the date of the submittal of the report under such section 4202 and ending on the date of the submittal of the updated version of the plan under subsection (a) of this section.
+&emsp;"(2) A description of any additional information identified, or criteria established, on matters covered by such section 4202 during the period beginning on the date of the submittal of the report under such section 4202 and ending on the date of the submittal of the updated version of the plan under subsection (a) of this section.
 
-&emsp;“(3) For each science-based tool developed by the Department of Energy during such period—
+&emsp;"(3) For each science-based tool developed by the Department of Energy during such period—
 
-&emsp;&emsp;“(A) a description of the relationship of such science-based tool to the collection of information needed to determine that the nuclear weapons stockpile is safe and reliable; and
+&emsp;&emsp;"(A) a description of the relationship of such science-based tool to the collection of information needed to determine that the nuclear weapons stockpile is safe and reliable; and
 
-&emsp;&emsp;“(B) a description of the criteria for judging whether or not such science-based tool provides for the collection of such information.
+&emsp;&emsp;"(B) a description of the criteria for judging whether or not such science-based tool provides for the collection of such information.
 
-“(c) 2005
+"(c) 2005
 
-Stockpile Stewardship Plan Defined.—In this section, the term ‘2005 stockpile stewardship plan’ means the updated version of the plan for maintaining the nuclear weapons stockpile developed under section 4203 of the Atomic Energy Defense Act \[50 U.S.C. 2523\] (as transferred and redesignated by section 3161(e)(4) \[probably should be “3141(e)(4)”\] of this Act) that is required to be submitted to Congress not later than March 15, 2005.”
+Stockpile Stewardship Plan Defined.—In this section, the term '2005 stockpile stewardship plan' means the updated version of the plan for maintaining the nuclear weapons stockpile developed under section 4203 of the Atomic Energy Defense Act \[50 U.S.C. 2523\] (as transferred and redesignated by section 3161(e)(4) \[probably should be "3141(e)(4)"\] of this Act) that is required to be submitted to Congress not later than March 15, 2005."
 
 #### Annual Update to the Report Specified in Section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84)
 
@@ -254,7 +276,7 @@ Memorandum of President of the United States, Feb. 7, 2011, 76 F.R. 7477, provid
 
 Memorandum for the Secretary of Defense \[and\] the Secretary of Energy
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the Secretaries of Defense and Energy to jointly provide annual updates to the report specified in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84) (the “1251 Report”) \[set out as a note above\]. I further authorize and direct the Secretaries of Defense and Energy to jointly submit this annual update to the 1251 Report concurrently with the President's budget each year, beginning in calendar year 2011.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the Secretaries of Defense and Energy to jointly provide annual updates to the report specified in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84) (the "1251 Report") \[set out as a note above\]. I further authorize and direct the Secretaries of Defense and Energy to jointly submit this annual update to the 1251 Report concurrently with the President's budget each year, beginning in calendar year 2011.
 
 The Secretary of Defense is authorized and directed to publish this memorandum in the Federal Register.
 

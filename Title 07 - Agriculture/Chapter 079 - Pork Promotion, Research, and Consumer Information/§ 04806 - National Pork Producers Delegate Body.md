@@ -50,7 +50,7 @@ The order shall provide for the establishment and appointment by the Secretary, 
 
 &emsp;&emsp;(i) for the 1986 calendar year, on the basis of one share for each $575,000 of market value of marketed porcine animals, pork, or pork products (as determined by the Secretary based on the annual average of imports in the most recent 3 calendar years preceding such year), rounded to the nearest $575,000; and
 
-&emsp;&emsp;(ii) for each calendar year thereafter, on the basis of one share for each $1,000 of the aggregate amount of assessments collected (minus refunds under section 4813 of this title) from importers, rounded to the nearest $1,000.
+&emsp;&emsp;(ii) for each calendar year thereafter, on the basis of one share for each $1,000 of the aggregate amount of assessments collected\(minus refunds under section 4813 of this title) from importers, rounded to the nearest $1,000.
 
 &emsp;(B) The number of importer members appointed to the Delegate Body shall equal a total of—
 
@@ -60,7 +60,7 @@ The order shall provide for the establishment and appointment by the Secretary, 
 
 #### (c) Voting; quorum; votes necessary for decision
 
-(1) A producer member of the Delegate Body may, in a vote conducted by the Delegate Bodyfor which the member is present, cast a number of votes equal to—
+(1) A producer member of the Delegate Body may, in a vote conducted by the Delegate Body for which the member is present, cast a number of votes equal to—
 
 &emsp;(A) the number of shares attributable to the State of the member; divided by
 
@@ -116,5 +116,5 @@ The Delegate Body shall—
 
 (Pub. L. 99–198, title XVI, §1617, Dec. 23, 1985, 99 Stat. 1609.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “4809(b)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "4809(b)".</i>
 

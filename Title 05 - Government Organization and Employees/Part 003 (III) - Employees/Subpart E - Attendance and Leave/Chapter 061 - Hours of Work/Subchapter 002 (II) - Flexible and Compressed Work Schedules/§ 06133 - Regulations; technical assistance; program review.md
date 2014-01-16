@@ -2,7 +2,7 @@
 
 (a) The Office of Personnel Management shall prescribe regulations necessary for the administration of the programs established under this subchapter.
 
-(b)(1) The Office shall provide educational material, and technical aids and assistance, for use by an agency in connection with establishing and maintaining programs under this subchapter.
+(b)(1) The Office shall provide educational material, and technical aids and assistance, for use by an agency in connection with establishingand maintaining programs under this subchapter.
 
 (2) In order to provide the most effective materials, aids, and assistance under paragraph (1), the Office shall conduct periodic reviews of programs established by agencies under this subchapter particularly insofar as such programs may affect—
 

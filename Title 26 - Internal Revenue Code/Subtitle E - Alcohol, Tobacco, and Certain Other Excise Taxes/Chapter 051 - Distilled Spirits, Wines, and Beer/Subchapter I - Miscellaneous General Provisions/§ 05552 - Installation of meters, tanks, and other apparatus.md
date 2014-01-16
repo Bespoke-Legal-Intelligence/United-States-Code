@@ -12,5 +12,5 @@ For application to vinegar plants of provisions of prior section 5552 relating t
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 

@@ -12,7 +12,7 @@ To ensure that all transportation statistical collection, analysis, and dissemin
 
 &emsp;(5) encourage replication, coordination, and sharing of information among transportation agencies regarding information systems, information policy, and data; and
 
-&emsp;(6) confer and cooperate with Federal statistical agencies as the Director determines necessary to carry out this chapter, including by entering into cooperative data sharing agreements in conformity with all laws and regulations applicable to the disclosure and use of data.
+&emsp;(6) confer and cooperate with Federal statistical agencies as the Director determines necessary to carry out this chapter, including byentering into cooperative data sharing agreements in conformity with all laws and regulations applicable to the disclosure and use of data.
 
 (Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 892.)
 

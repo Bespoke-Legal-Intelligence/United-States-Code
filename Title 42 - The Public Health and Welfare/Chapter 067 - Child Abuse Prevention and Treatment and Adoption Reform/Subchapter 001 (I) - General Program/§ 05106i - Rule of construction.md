@@ -16,5 +16,5 @@ Notwithstanding subsection (a) of this section, a State shall, at a minimum, hav
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(2). Pub. L. 111–320 substituted “child abuse or neglect” for “abuse or neglect”.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–320 substituted "child abuse or neglect" for "abuse or neglect".
 

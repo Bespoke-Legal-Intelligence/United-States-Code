@@ -124,7 +124,21 @@ The President is authorized and encouraged to use not less than $3,000,000 of th
 
 (2) In compiling data and making assessments for the purposes of paragraph (1), United States diplomatic mission personnel shall consult with human rights organizations and other appropriate nongovernmental organizations.
 
-(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov.7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471; Pub. L. 107–228, div. A, title VI, §§665(a), 683(a), Sept. 30, 2002, 116 Stat. 1406, 1410; Pub. L. 108–332, §6(a)(1), Oct. 16, 2004, 118 Stat. 1285; Pub. L. 111–166, §2(1), May 17, 2010, 124 Stat. 1186.)
+#### (g) Child marriage status
+
+#### (1) In general
+
+&emsp;The report required under subsection (d) shall include, for each country in which child marriage is prevalent, a description of the status of the practice of child marriage in such country.
+
+#### (2) Defined term
+
+&emsp;In this subsection, the term "child marriage" means the marriage of a girl or boy who is—
+
+&emsp;&emsp;(A) younger than the minimum age for marriage under the laws of the country in which such girl or boy is a resident; or
+
+&emsp;&emsp;(B) younger than 18 years of age, if no such law exists.
+
+(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471; Pub. L. 107–228, div. A, title VI, §§665(a), 683(a), Sept. 30, 2002, 116 Stat. 1406, 1410; Pub. L. 108–332, §6(a)(1), Oct. 16, 2004, 118 Stat. 1285; Pub. L. 111–166, §2(1), May 17, 2010, 124 Stat. 1186; Pub. L. 113–4, title XII, §1207(b)(1), Mar. 7, 2013, 127 Stat. 141.)
 
 #### References in Text
 
@@ -140,6 +154,8 @@ The amendment by section 102(d)(1) of Pub. L. 105–292 was executed before the 
 
 #### Amendments
 
+<b>2013</b>—Subsec. (g). Pub. L. 113–4 added subsec. (g).
+
 <b>2010</b>—Subsec. (d)(12). Pub. L. 111–166 added par. (12).
 
 <b>2004</b>—Subsec. (d)(8) to (11). Pub. L. 108–332 added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
@@ -148,17 +164,17 @@ The amendment by section 102(d)(1) of Pub. L. 105–292 was executed before the 
 
 Subsec. (d)(10). Pub. L. 107–228, §683(a), added par. (10).
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–386 amended subsec. (f) generally, substituting present provisions for provisions listing information required for report under subsec. (d) of this section, providing for consultation with human rights and other appropriate nongovernmental organizations in compiling data for required information, and defining “trafficking” and “victims of trafficking” for purposes of subsection.
+<b>2000</b>—Subsec. (f). Pub. L. 106–386 amended subsec. (f) generally, substituting present provisions for provisions listing information required for report under subsec. (d) of this section, providing for consultation with human rights and other appropriate nongovernmental organizations in compiling data for required information, and defining "trafficking" and "victims of trafficking" for purposes of subsection.
 
 <b>1999</b>—Subsec. (d)(8). Pub. L. 106–113, §1000(a)(7) \[div. A, title VIII, §806(a)\], added par. (8).
 
 Subsec. (f). Pub. L. 106–113, §1000(a)(2) \[title V, §597\], added subsec. (f).
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–292, §421(a)(1), inserted “and in consultation with the Ambassador at Large for International Religious Freedom” after “Labor” in introductory provisions.
+<b>1998</b>—Subsec. (c). Pub. L. 105–292, §421(a)(1), inserted "and in consultation with the Ambassador at Large for International Religious Freedom" after "Labor" in introductory provisions.
 
 Subsec. (c)(3). Pub. L. 105–292, §421(a)(2)–(4), added par. (3).
 
-Subsec. (d). Pub. L. 105–277, §2216(1), substituted “February 25” for “January 31” in introductory provisions.
+Subsec. (d). Pub. L. 105–277, §2216(1), substituted "February 25" for "January 31" in introductory provisions.
 
 Subsec. (d)(3) to (5). Pub. L. 105–277, §2216(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
 
@@ -168,21 +184,21 @@ Pub. L. 105–292, §102(d)(1), added par. (6). See Codification note above.
 
 Subsec. (d)(7). Pub. L. 105–277, §2216(2), redesignated par. (6) as (7). See Codification note above.
 
-Subsec. (e). Pub. L. 105–292, §501(b), inserted “, including the right to free religious belief and practice” after “adherence to civil and political rights”.
+Subsec. (e). Pub. L. 105–292, §501(b), inserted ", including the right to free religious belief and practice" after "adherence to civil and political rights".
 
 <b>1996</b>—Subsec. (d)(3) to (5). Pub. L. 104–319 added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in subsec. (b) relating to submittal of information to Congress.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted "Foreign Affairs" for "International Relations" in subsec. (b) relating to submittal of information to Congress.
 
-Subsec. (c). Pub. L. 103–236 substituted “Assistant Secretary of State for Democracy, Human Rights, and Labor” for “Assistant Secretary for Human Rights and Humanitarian Affairs” in introductory provisions.
+Subsec. (c). Pub. L. 103–236 substituted "Assistant Secretary of State for Democracy, Human Rights, and Labor" for "Assistant Secretary for Human Rights and Humanitarian Affairs" in introductory provisions.
 
-<b>1993</b>—Subsec. (e). Pub. L. 103–149 struck out “(1)” before “The President is authorized” and struck out par. (2) which authorized grants to nongovernmental organizations in South Africa promoting political, economic, social, juridical, and humanitarian efforts to foster a just society and to help victims of apartheid.
+<b>1993</b>—Subsec. (e). Pub. L. 103–149 struck out "(1)" before "The President is authorized" and struck out par. (2) which authorized grants to nongovernmental organizations in South Africa promoting political, economic, social, juridical, and humanitarian efforts to foster a just society and to help victims of apartheid.
 
 Subsecs. (f), (g). Pub. L. 103–149 struck out subsec. (f) which authorized assistance to political detainees and prisoners and support for black-led community organizations in South Africa and subsec. (g) which authorized assistance to families of victims of violence in South Africa.
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–513, §599D, added subsec. (b) prohibiting assistance to governments failing to protect children from exploitation, abuse or conscription.
 
-Subsec. (e)(1). Pub. L. 101–513, §562(d)(3), inserted “, part X of this subchapter,” after “available under this part” and “or under part X of this subchapter, except that funds made available under part X of this subchapter may only be used under this subsection with respect to countries in sub-Saharan Africa” before period at end of first sentence.
+Subsec. (e)(1). Pub. L. 101–513, §562(d)(3), inserted ", part X of this subchapter," after "available under this part" and "or under part X of this subchapter, except that funds made available under part X of this subchapter may only be used under this subsection with respect to countries in sub-Saharan Africa" before period at end of first sentence.
 
 <b>1987</b>—Subsec. (d). Pub. L. 100–204 added par. (2) and redesignated former par. (2) as (3).
 
@@ -190,27 +206,27 @@ Subsec. (e)(1). Pub. L. 101–513, §562(d)(3), inserted “, part X of this su
 
 Subsec. (f). Pub. L. 99–440, §202(b), added subsec. (f).
 
-Subsec. (f)(2)(B). Pub. L. 99–631 substituted “subsection” for “paragraph”.
+Subsec. (f)(2)(B). Pub. L. 99–631 substituted "subsection" for "paragraph".
 
 Subsec. (g). Pub. L. 99–440, §202(b), added subsec. (g).
 
-<b>1983</b>—Subsec. (e). Pub. L. 98–164, §1002(a), designated existing provisions as par. (1), substituted “$3,000,000 of the funds made available under this part and part IV of subchapter II of this chapter for each fiscal year” for “$1,500,000 of the funds made available under this part for each of the fiscal years 1982 and 1983”, and added par. (2).
+<b>1983</b>—Subsec. (e). Pub. L. 98–164, §1002(a), designated existing provisions as par. (1), substituted "$3,000,000 of the funds made available under this part and part IV of subchapter II of this chapter for each fiscal year" for "$1,500,000 of the funds made available under this part for each of the fiscal years 1982 and 1983", and added par. (2).
 
-<b>1981</b>—Subsec. (e). Pub. L. 97–113 substituted “each of the fiscal years 1982 and 1983” for “the fiscal year 1981”.
+<b>1981</b>—Subsec. (e). Pub. L. 97–113 substituted "each of the fiscal years 1982 and 1983" for "the fiscal year 1981".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–533, §701(a), prohibited assistance for government of any country causing the disappearance of persons by the abduction and clandestine detention of those persons.
 
-Subsec. (e). Pub. L. 96–533, §305, substituted “1981” for “1980”.
+Subsec. (e). Pub. L. 96–533, §305, substituted "1981" for "1980".
 
 <b>1979</b>—Subsec. (d)(1). Pub. L. 96–53, §504(a), designated existing provisions as cl. (A) and added cl. (B).
 
-Subsec. (e). Pub. L. 96–53, §106, substituted “1980” for “1979”.
+Subsec. (e). Pub. L. 96–53, §106, substituted "1980" for "1979".
 
-<b>1978</b>—Subsec. (e). Pub. L. 95–424 substituted “The President is authorized and encouraged to use not less than $1,500,000 of” for “Of”, and “1979” for “1978, not less than $750,000 may be used only”.
+<b>1978</b>—Subsec. (e). Pub. L. 95–424 substituted "The President is authorized and encouraged to use not less than $1,500,000 of" for "Of", and "1979" for "1978, not less than $750,000 may be used only".
 
-<b>1977</b>—Subsec. (c). Pub. L. 95–105 substituted “Assistant Secretary” for “Coordinator”.
+<b>1977</b>—Subsec. (c). Pub. L. 95–105 substituted "Assistant Secretary" for "Coordinator".
 
-Pub. L. 95–88, §111(a), inserted references to the formulation of development assistance programs underthis subchapter and the consultation of the Administrator with the Coordinator for Human Rights and Humanitarian Affairs in the introductory provisions, designated the remainder of the existing provisions as par. (1), and added par. (2).
+Pub. L. 95–88, §111(a), inserted references to the formulation of development assistance programs under this subchapter and the consultation of the Administrator with the Coordinator for Human Rights and Humanitarian Affairs in the introductory provisions, designated the remainder of the existing provisions as par. (1), and added par. (2).
 
 Subsec. (d). Pub. L. 95–88, §111(a), substituted provisions directing the Secretary of State to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by January 31 of each year, a full and complete report regarding the status of internationally recognized human rights in countries that receive development assistance and the steps which the Administrator has taken to alter United States development assistance programs in any country because of human rights considerations for provisions directing the President to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, in the annual presentation materials on proposed economic development assistance programs, a full and complete report regarding the steps he has taken to carry out the provisions of this section.
 
@@ -218,7 +234,7 @@ Subsec. (e). Pub. L. 95–88, §111(b), added subsec. (e).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–332, §6(c), Oct. 16, 2004, 118 Stat. 1286, provided that:“The amendments made by subsections (a) and (b) \[amending this section and sections 2304 and 6412 of this title\] shall apply beginning with the first report under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and 2304(b)) and section 102(b) of the International Religious Freedom Act of 1998 (22 U.S.C. 6312(b) \[6412(b)\]) submitted more than 180 days after the date of the enactment of this Act \[Oct. 16, 2004\].”
+Pub. L. 108–332, §6(c), Oct. 16, 2004, 118 Stat. 1286, provided that:"The amendments made by subsections (a)and (b) \[amending this section and sections 2304 and 6412 of this title\] shall apply beginning with the first report under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and 2304(b)) and section 102(b) of the International Religious Freedom Act of 1998 (22 U.S.C. 6312(b) \[6412(b)\]) submitted more than 180 days after the date of the enactment of this Act \[Oct. 16, 2004\]."
 
 #### Effective Date of 1994 Amendment
 
@@ -242,43 +258,43 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Annual Report on Advancing Freedom and Democracy
 
-Pub. L. 107–228, div. A, title VI, §665(c), Sept. 30, 2002, 116 Stat. 1407, as amended by Pub. L. 110–53, title XXI, §2121(b), (d), Aug. 3, 2007, 121 Stat. 532, provided that: “The information to be included in the report required by sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d), 2304(b)\] pursuant to the amendments made by subsections (a) and (b) \[amending this section and section 2304 of this title\] may be submitted by the Secretary as a separate report entitled the Annual Report on Advancing Freedom and Democracy. If the Secretary elects to submit such information as a separate report, such report shall be submitted not later than 90 days after the date of submission of the report required by section \[sic\] 116(d) and 502B(b) of the Foreign Assistance Act of 1961.”
+Pub. L. 107–228, div. A, title VI, §665(c), Sept. 30, 2002, 116 Stat. 1407, as amended by Pub. L. 110–53, title XXI, §2121(b), (d), Aug. 3, 2007, 121 Stat. 532, provided that: "The information to be included in the report required by sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d), 2304(b)\] pursuant to the amendments made by subsections (a) and (b) \[amending this section and section 2304 of this title\] may be submitted by the Secretary as a separate report entitled the Annual Report on Advancing Freedom and Democracy. If the Secretary elects to submit such information as a separate report, such report shall be submitted not later than 90 days after the date of submission of the report required by section \[sic\] 116(d) and 502B(b) of the Foreign Assistance Act of 1961."
 
-\[For definition of “Secretary” as used in section 665(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definition of "Secretary" as used in section 665(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 #### Annual Reports on United States-Vietnam Human Rights Dialogue Meetings
 
-Pub. L. 107–228, div. A, title VI, §702, Sept. 30, 2002, 116 Stat. 1420, provided that: “Not later than December 31 of each year or 60 days after the second United States-Vietnam human rights dialogue meeting held in a calendar year, whichever is earlier, the Secretary shall submit to the appropriate congressional committees a report covering the issues discussed at the previous two meetings and describing to what extent the Government of Vietnam has made progress during the calendar year toward achieving the following objectives:
+Pub. L. 107–228, div. A, title VI, §702, Sept. 30, 2002, 116 Stat. 1420, provided that: "Not later than December 31 of each year or 60 days after the second United States-Vietnam human rights dialogue meeting held in a calendar year, whichever is earlier, the Secretary shall submit to the appropriate congressional committees a report covering the issues discussed at the previous two meetings and describing to what extent the Government of Vietnam has made progress during the calendar year toward achieving the following objectives:
 
-&emsp;“(1) Improving the Government of Vietnam's commercial and criminal codes to bring them into conformity with international standards, including the repeal of the Government of Vietnam's administrative detention decree (Directive 31/CP).
+&emsp;"(1) Improving the Government of Vietnam's commercial and criminal codes to bring them into conformity with international standards, including the repeal of the Government of Vietnam's administrative detention decree (Directive 31/CP).
 
-&emsp;“(2) Releasing political and religious activists who have been imprisoned or otherwise detained by the Government of Vietnam, and ceasing surveillance and harassment of those who have been released.
+&emsp;"(2) Releasing political and religious activists who have been imprisoned or otherwise detained by the Government of Vietnam, and ceasing surveillance and harassment of those who have been released.
 
-&emsp;“(3) Ending official restrictions on religious activity, including implementing the recommendations of the United Nations Special Rapporteur on Religious Intolerance.
+&emsp;"(3) Ending official restrictions on religious activity, including implementing the recommendations of the United Nations Special Rapporteur on Religious Intolerance.
 
-&emsp;“(4) Promoting freedom for the press, including freedom of movement of members of the Vietnamese and foreign press.
+&emsp;"(4) Promoting freedom for the press, including freedom of movement of members of the Vietnamese and foreign press.
 
-&emsp;“(5) Improving prison conditions and providing transparency in the penal system of Vietnam, including implementing the recommendations of the United Nations Working Group on Arbitrary Detention.
+&emsp;"(5) Improving prison conditions and providing transparency in the penal system of Vietnam, including implementing the recommendations of the United Nations Working Group on Arbitrary Detention.
 
-&emsp;“(6) Respecting the basic rights of indigenous minority groups, especially in the central and northern highlands of Vietnam.
+&emsp;"(6) Respecting the basic rights of indigenous minority groups, especially in the central and northern highlands of Vietnam.
 
-&emsp;“(7) Respecting the basic rights of workers, including working with the International Labor Organization to improve mechanisms for promoting such rights.
+&emsp;"(7) Respecting the basic rights of workers, including working with the International Labor Organization to improve mechanisms for promoting such rights.
 
-&emsp;“(8) Cooperating with requests by the United States to obtain full and free access to persons who may be eligible for admission to the United States as refugees or immigrants, and allowing such persons to leave Vietnam without being subjected to extortion or other corrupt practices.”
+&emsp;"(8) Cooperating with requests by the United States to obtain full and free access to persons who may be eligible for admission to the United States as refugees or immigrants, and allowing such persons to leave Vietnam without being subjected to extortion or other corrupt practices."
 
-\[For definitions of “Secretary” and “appropriate congressional committees” as used in section 702 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definitions of "Secretary" and "appropriate congressional committees" as used in section 702 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 #### Assistance for Promoting Religious Freedom
 
-Pub. L. 105–292, title V, §501(a), Oct. 27, 1998, 112 Stat. 2811, provided that: “Congress makes the following findings:
+Pub. L. 105–292, title V, §501(a), Oct. 27, 1998, 112 Stat. 2811, provided that: "Congress makes the following findings:
 
-&emsp;“(1) In many nations where severe violations of religious freedom occur, there is not sufficient statutory legal protection for religious minorities or there is not sufficient cultural and social understanding of international norms of religious freedom.
+&emsp;"(1) In many nations where severe violations of religious freedom occur, there is not sufficient statutory legal protection for religious minorities or there is not sufficient cultural and social understanding of international norms of religious freedom.
 
-&emsp;“(2) Accordingly, in the provision of foreign assistance, the United States should make a priority of promoting and developing legal protections and cultural respect for religious freedom.”
+&emsp;"(2) Accordingly, in the provision of foreign assistance, the United States should make a priority of promoting and developing legal protections and cultural respect for religious freedom."
 
 #### Report on Human Rights to Committees on Appropriations
 
-Pub. L. 102–391, title V, §511(b), Oct. 6, 1992, 106 Stat. 1658, as amended by Pub. L. 106–429, §101(a) \[title V,§590\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59, provided that: “The Secretary of State shall also transmit the report required by section 116(d) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d)\] to the Committees on Appropriations each year by the date specified in that section: <i>Provided</i>, That each such report submitted pursuant to such section shall (1) include a review of each country's commitment to children's rights and welfare as called for by the Declaration of the World Summit for Children; \[(2) Repealed. Pub. L. 106–429, §101(a) \[title V, §590\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59;\] (3) describe the extent to which indigenous people are able to participate in decisions affecting their lands, cultures, traditions and the allocation of natural resources, and assess the extent of protection of their civil and political rights.”
+Pub. L. 102–391, title V, §511(b), Oct. 6, 1992, 106 Stat. 1658, as amended by Pub. L. 106–429, §101(a) \[title V, §590\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59, provided that: "The Secretary of State shall also transmit the report required by section 116(d) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d)\] to the Committees on Appropriations each year by the date specified in that section: <i>Provided</i>, That each such report submitted pursuant to such section shall (1) include a review of each country's commitment to children's rights and welfare as called for by the Declaration of the World Summit for Children; \[(2) Repealed. Pub. L. 106–429, §101(a) \[title V, §590\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59;\] (3) describe the extent to which indigenous people are able to participate in decisions affecting their lands, cultures, traditions and the allocation of natural resources, and assess the extent of protection of their civil and political rights."
 
 #### Report on Impact on Foreign Relations of United States of Reports on Human Rights Practices of Foreign Governments
 

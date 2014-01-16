@@ -24,7 +24,7 @@
 
 <b>2002</b>—Pub. L. 107–306, title VIII, §824(b), Nov. 27, 2002, 116 Stat. 2429, added item 540C relating to annual report on activities of Federal Bureau of Investigation personnel outside the United States.
 
-Pub. L. 107–273, div. B, title IV, §4003(b)(7), (8), div. C, title I, §11024(b), Nov. 2, 2002, 116 Stat. 1812, 1831, inserted “the” after “of” in item 532, substituted “character” for “nature” in item 537, and added item 540C relating to FBI police.
+Pub. L. 107–273, div. B, title IV, §4003(b)(7), (8), div. C, title I, §11024(b), Nov. 2, 2002, 116 Stat. 1812, 1831, inserted "the" after "of" in item 532, substituted "character" for "nature" in item 537, and added item 540C relating to FBI police.
 
 <b>1998</b>—Pub. L. 105–314, title VII, §701(b), Oct. 30, 1998, 112 Stat. 2987, added item 540B.
 
@@ -36,9 +36,9 @@ Pub. L. 103–272, §4(e)(2), July 5, 1994, 108 Stat. 1361, added item 538.
 
 <b>1986</b>—Pub. L. 99–569, title IV, §401(b), Oct. 27, 1986, 100 Stat. 3195, added item 539.
 
-<b>1982</b>—Pub. L. 97–292, §3(b), Oct. 12, 1982, 96 Stat. 1260, inserted “and information” after “identification records” in item 534.
+<b>1982</b>—Pub. L. 97–292, §3(b), Oct. 12, 1982, 96 Stat. 1260, inserted "and information" after "identification records" in item 534.
 
-<b>1966</b>—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616, substituted “FEDERAL BUREAU OF INVESTIGATION” for “UNITED STATES MARSHALS” in chapter heading, added items 531 to 537, and struck out items 541 to 556.
+<b>1966</b>—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616, substituted "FEDERAL BUREAU OF INVESTIGATION" for "UNITED STATES MARSHALS" in chapter heading, added items 531 to 537, and struck out items 541 to 556.
 
 
 ---

@@ -6,11 +6,11 @@ No payment shall be made under this chapter with respect to any experimental, pi
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–509 substituted “Deputy Secretary of Health and Human Services” for “Under Secretary of Health and Human Services”.
+<b>1990</b>—Pub. L. 101–509 substituted "Deputy Secretary of Health and Human Services" for "Under Secretary of Health and Human Services".
 
-<b>1984</b>—Pub. L. 98–369 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1984</b>—Pub. L. 98–369 substituted "Health and Human Services" for "Health, Education, and Welfare".
 
-<b>1982</b>—Pub. L. 97–375 struck out subsec. (b) which directed the Secretary to submit an annual report to Congress describing each project approved under former subsec. (a) of this section during the preceding year, including the purpose, probable cost, and expected duration of each project, and struck out “(a)” before “No payment”.
+<b>1982</b>—Pub. L. 97–375 struck out subsec. (b) which directed the Secretary to submit an annual report to Congress describing each project approved under former subsec. (a) of this section during the preceding year, including the purpose, probable cost, and expected duration of each project, and struck out "(a)" before "No payment".
 
 <b>1975</b>—Subsec. (b). Pub. L. 93–608 substituted provisions relating to an annual submission of the required report to the Congress by the Secretary for each approved project, for provisions relating to submission of the report as soon as possible after approval.
 

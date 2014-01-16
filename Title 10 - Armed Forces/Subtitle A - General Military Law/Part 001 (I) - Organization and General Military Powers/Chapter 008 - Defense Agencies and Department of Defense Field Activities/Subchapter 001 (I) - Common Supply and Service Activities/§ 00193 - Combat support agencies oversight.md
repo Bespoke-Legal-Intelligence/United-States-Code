@@ -2,7 +2,7 @@
 
 (a)
 
-Combat Readiness.—(1) Periodically (and not less often than every two years), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense a report on the combat support agencies. Each such report shall include—
+Combat Readiness.—(1) Periodically (and not less often than every two years), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense and the congressional defense committees a report on the combat support agencies. Each such report shall include—
 
 &emsp;(A) a determination with respect to the responsiveness and readiness of each such agency to support operating forces in the event of a war or threat to national security; and
 
@@ -34,7 +34,7 @@ Combat Support Capabilities of DIA, NSA, and NGA.—The Secretary of Defense, in
 
 (f)
 
-Definition of Combat Support Agency.—In this section, the term “combat support agency” means any of the following Defense Agencies:
+Definition of Combat Support Agency.—In this section, the term "combat support agency" means any of the following Defense Agencies:
 
 &emsp;(1) The Defense Information Systems Agency.
 
@@ -46,35 +46,37 @@ Definition of Combat Support Agency.—In this section, the term “combat suppo
 
 &emsp;(5) Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, §1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, §1073(a)(5), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(3), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 109–364, div. A, title IX, §907, Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–181, div. A, title IX, §931(a)(2), (3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(1), (2), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, §1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, §1073(a)(5), Nov. 18,1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(3), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 109–364, div. A, title IX, §907, Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–181, div. A, title IX, §931(a)(2), (3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(1), (2), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–66, div. A, title X, §1082, Dec. 26, 2013, 127 Stat. 871.)
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a)(1). Pub. L. 113–66 inserted "and the congressional defense committees" after "the Secretary of Defense" in introductory provisions.
+
 <b>2009</b>—Subsecs. (d)(2), (e). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(1), (2). See 2008 Amendment note below.
 
-<b>2008</b>—Subsecs. (d)(2), (e). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(1), (2), made identical amendments, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, §932(a)(1), (2), was repealed by Pub. L. 111–84.
+<b>2008</b>—Subsecs. (d)(2), (e). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(1), (2), made identical amendments, substituting "Director of National Intelligence" for "Director of Central Intelligence". Pub. L. 110–417, §932(a)(1), (2), was repealed by Pub. L. 111–84.
 
-<b>2006</b>—Subsec. (f)(1). Pub. L. 109–364 substituted “Defense Information Systems Agency” for “Defense Communications Agency”.
+<b>2006</b>—Subsec. (f)(1). Pub. L. 109–364 substituted "Defense Information Systems Agency" for "Defense Communications Agency".
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–136, §921(d)(3)(B), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in heading.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136, §921(d)(3)(B), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in heading.
 
-Subsec. (d)(1), (2). Pub. L. 108–136, §921(d)(3)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+Subsec. (d)(1), (2). Pub. L. 108–136, §921(d)(3)(A), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
-Subsec. (e). Pub. L. 108–136, §921(d)(3)(A), (C), substituted “NGA” for “NIMA” in heading and “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in text.
+Subsec. (e). Pub. L. 108–136, §921(d)(3)(A), (C), substituted "NGA" for "NIMA" in heading and "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in text.
 
-Subsec. (f)(4). Pub. L. 108–136, §921(d)(3)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+Subsec. (f)(4). Pub. L. 108–136, §921(d)(3)(A), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
-<b>1997</b>—Subsec. (d)(1). Pub. L. 105–85 substituted “agencies perform” for “agencies performs”.
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–85 substituted "agencies perform" for "agencies performs".
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–201, §1112(c)(1)(A), substituted “Review of National Security Agency and National Imagery and Mapping Agency” for “Review of National Security Agency” in heading.
+<b>1996</b>—Subsec. (d). Pub. L. 104–201, §1112(c)(1)(A), substituted "Review of National Security Agency and National Imagery and Mapping Agency" for "Review of National Security Agency" in heading.
 
-Subsec. (d)(1). Pub. L. 104–201, §1112(c)(1)(B), inserted “and the National Imagery and Mapping Agency” after “the National Security Agency” and substituted “that the agencies” for “the Agency”.
+Subsec. (d)(1). Pub. L. 104–201, §1112(c)(1)(B), inserted "and the National Imagery and Mapping Agency" after "the National Security Agency" and substituted "that the agencies" for "the Agency".
 
-Subsec. (d)(2). Pub. L. 104–201, §1112(c)(1)(C), inserted “and the National Imagery and Mapping Agency” after “the National Security Agency”.
+Subsec. (d)(2). Pub. L. 104–201, §1112(c)(1)(C), inserted "and the National Imagery and Mapping Agency" after "the National Security Agency".
 
-Subsec. (e). Pub. L. 104–201, §1112(c)(2), substituted “DIA, NSA, and NIMA” for “DIA and NSA” in heading and “, the National Security Agency, and the NationalImagery and Mapping Agency” for “and the National Security Agency” in text.
+Subsec. (e). Pub. L. 104–201, §1112(c)(2), substituted "DIA, NSA, and NIMA" for "DIA and NSA" in heading and ", the National Security Agency, and the National Imagery and Mapping Agency" for "and the National Security Agency" in text.
 
-Subsec. (f)(4). Pub. L. 104–201, §1112(c)(3), substituted “The National Imagery and Mapping Agency” for “Defense Mapping Agency”.
+Subsec. (f)(4). Pub. L. 104–201, §1112(c)(3), substituted "The National Imagery and Mapping Agency" for "Defense Mapping Agency".
 
 #### Effective Date of 2009 Amendment
 
@@ -82,7 +84,7 @@ Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, pro
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–201, div. A, title XI, §1124, Sept. 23, 1996, 110 Stat. 2688, provided that: “This title \[enacting section 424 and chapter 22 of this title and sections 404e and 404f of Title 50, War and National Defense, amending this section, sections 201 and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, section 82 of Title 14, Coast Guard, section 2006 of Title 29, Labor, section 1336 of Title 44, Public Printing and Documents, and sections 401a and 403–5 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23 and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under section 441 of this title, and amending provisions set out as a note under section 501 of Title 44\] and the amendments made by this title shall take effect on October 1, 1996, or the date of the enactment of this Act \[Sept. 23, 1996\], whichever is later.”
+Pub. L. 104–201, div. A, title XI, §1124, Sept. 23, 1996, 110 Stat. 2688, provided that: "This title \[enacting section 424 and chapter 22 of this title and sections 3045 and 3046 of Title 50, War and National Defense, amending this section, sections 201 and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, section 82 of Title 14, Coast Guard, section 2006 of Title 29, Labor, section 1336 of Title 44, Public Printing and Documents, and sections 3003 and 3038 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23 and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under section 441 of this title, and amending provisions set out as a note under section 501 of Title 44\] and the amendments made by this title shall take effect on October 1, 1996, or the date of the enactment of this Act \[Sept. 23, 1996\], whichever is later."
 
 #### First Report and Other Actions by Chairman of Joint Chiefs of Staff
 

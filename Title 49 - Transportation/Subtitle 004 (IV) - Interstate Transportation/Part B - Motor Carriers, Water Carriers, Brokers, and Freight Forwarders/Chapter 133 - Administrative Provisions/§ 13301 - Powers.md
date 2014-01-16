@@ -2,7 +2,7 @@
 
 (a)
 
-General Powers of Secretary.—Except as otherwise specified, the Secretary shall carry out this part. Enumeration of a power of the Secretary in this part does not exclude another power the Secretary may have in carrying outthis part. The Secretary may prescribe regulations in carrying out this part.
+General Powers of Secretary.—Except as otherwise specified, the Secretary shall carry out this part. Enumeration of a power of the Secretary in this part does not exclude another power the Secretary may have in carrying out this part. The Secretary may prescribe regulations in carrying out this part.
 
 (b)
 
@@ -26,7 +26,7 @@ Testimony of Witnesses.—
 
 &emsp;(1)
 
-Procedure for taking testimony.—In a proceeding under this part, the Secretary may take the testimony of a witness by deposition and may order the witness to produce records. A party to a proceeding pending under this part may take the testimony of a witness by deposition and may require the witness to produce records at any time after a proceeding is at issue on petition and answer.
+Procedure for taking testimony.—In a proceeding under this part, the Secretary may take the testimony of a witness by deposition and may order the witness to produce records. A party to a proceeding pending under thispart may take the testimony of a witness by deposition and may require the witness to produce records at any time after a proceeding is at issue on petition and answer.
 
 &emsp;(2)
 

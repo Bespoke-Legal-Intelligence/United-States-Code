@@ -2,13 +2,13 @@
 
 #### (a) Certification of need application
 
-If any person who uses chlorine, activated carbon, lime, ammonia, soda ash, potassium permanganate, caustic soda, or other chemical or substance for the purpose of treating water in any public water system or in any public treatment works determines that the amount of such chemical or substance necessary to effectively treat such water is not reasonably available to him or will not be so available to him when required for the effective treatment of such water, such person may apply to the Administrator for a certification (hereinafter in this section referred to as a “certification of need”) that the amount of such chemical or substance which such person requires to effectively treat such water is not reasonably available to him or will not be so available when required for the effective treatment of such water.
+If any person who uses chlorine, activated carbon, lime, ammonia, soda ash, potassium permanganate, caustic soda, or other chemical or substance for the purpose of treating water in any public water system or in any public treatment works determines that the amount of such chemical or substance necessary to effectively treat such water is not reasonably available to him or will not be so available to him when required for the effective treatment of such water, such person may apply to the Administrator for a certification (hereinafter in this section referred to as a "certification of need") that the amount of such chemical or substance which such person requires to effectively treat such water is not reasonably available to him or will not be so available when required for the effective treatment of such water.
 
 #### (b) Application requirements; publication in Federal Register; waiver; certification, issuance or denial
 
 (1) An application for a certification of need shall be in such form and submitted in such manner as the Administrator may require and shall (A) specify the persons the applicant determines are able to provide the chemical or substance with respect to which the application is submitted, (B) specify the persons from whom the applicant has sought such chemical or substance, and (C) contain such other information as the Administrator may require.
 
-(2) Upon receipt of an application under this section, the Administrator shall (A) publish in the Federal Register a notice of the receipt of the application and a brief summary of it, (B) notify in writing each person whom the President or his delegate (after consultation with the Administrator) determines could be made subject to an order required to be issued upon the issuance of the certification of need applied for in such application, and (C) provide an opportunity for the submission of written comments on such application. The requirements of thepreceding sentence of this paragraph shall not apply when the Administrator for good cause finds (and incorporates the finding with a brief statement of reasons therefor in the order issued) that waiver of such requirements is necessary in order to protect the public health.
+(2) Upon receipt of an application under this section, the Administrator shall (A) publish in the Federal Register a notice of the receipt of the application and a brief summary of it, (B) notify in writing each person whom the President or his delegate (after consultation with the Administrator) determines could be made subject to an order required to be issued upon the issuance of the certification of need applied for in such application, and (C) provide an opportunity for the submission of written comments on such application. The requirements of the preceding sentence of this paragraph shall not apply when the Administrator for good cause finds (and incorporates the finding with a brief statement of reasons therefor in the order issued) that waiver of such requirements is necessary in order to protect the public health.
 
 (3) Within 30 days after—
 
@@ -52,19 +52,19 @@ No certification of need or order issued under this section may remain in effect
 
 #### Amendments
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–182 inserted a period after “year”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–182 inserted a period after "year".
 
-<b>1986</b>—Subsec. (f). Pub. L. 99–339 substituted “in effect for more than one year” for “in effect— (1) for more than one year, or (2) September 30, 1982, whichever occurs first.”
+<b>1986</b>—Subsec. (f). Pub. L. 99–339 substituted "in effect for more than one year" for "in effect— (1) for more than one year, or (2) September 30, 1982, whichever occurs first."
 
-<b>1979</b>—Subsec. (f)(2). Pub. L. 96–63 substituted “September 30, 1982” for “September 30, 1979”.
+<b>1979</b>—Subsec. (f)(2). Pub. L. 96–63 substituted "September 30, 1982" for "September 30, 1979".
 
-<b>1977</b>—Subsec. (f). Pub. L. 95–190 substituted “September 30, 1979” for “June 30, 1977”.
+<b>1977</b>—Subsec. (f). Pub. L. 95–190 substituted "September 30, 1979" for "June 30, 1977".
 
 #### Ex. Ord. No. 11879. Delegation of Functions to Secretary of Commerce Relating to Orders for Provision of Chemicals or Substances Necessary for Treatment of Water
 
 Ex. Ord. No. 11879, Sept. 17, 1975, 40 F.R. 43197, provided:
 
-By virtue of the authority vested in me by Section 1441 of the Public Health Service Act, as amended by the Safe Drinking Water Act \[now Safe Drinking Water Act of 1974\] (88 Stat. 1680, 42 U.S.C. 300j), and as President of the United States, the Secretary of Commerce is hereby delegated, with power to redelegate to agencies, officers and employees of the Government, the functions of the President contained in said section 1441 \[this section\]. Those functions shall be administered under regulations or agreements which are identical or compatible with other regulations and agreements, including those provided pursuant to Executive Order No. 10480, as amended \[formerly set out as a note under section 2153 of Title 50, Appendix, War and National Defense\], for the allocation of similar chemicals or substances.
+By virtue of the authority vested in me by Section 1441 of the Public Health Service Act, as amended by the Safe Drinking Water Act \[now Safe Drinking Water Act of 1974\] (88 Stat. 1680, 42 U.S.C. 300j), and as President of the United States, the Secretary of Commerce is hereby delegated, with power to redelegate to agencies, officers and employees of the Government, the functions of the President contained in said section 1441 \[42 U.S.C. 300j\]. Those functions shall be administered under regulations or agreements which are identical or compatible with other regulations and agreements, including those provided pursuant to Executive Order No. 10480, as amended \[formerly set out as a note under section 2153 of Title 50, Appendix, War and National Defense\], for the allocation of similar chemicals or substances.
 
 Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

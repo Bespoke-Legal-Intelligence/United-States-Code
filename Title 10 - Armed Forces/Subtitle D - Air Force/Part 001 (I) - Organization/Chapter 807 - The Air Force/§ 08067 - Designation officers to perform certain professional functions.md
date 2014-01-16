@@ -82,9 +82,9 @@ The references in clauses (4), (6), and (7) of 10:1837(a) are omitted, since the
 
 10:1837(b) and (c) are omitted, since, except in the case of a reference to a law not presently in effect, their substance is covered by including the laws referred to in various revised sections of this title (see the distribution tables). 10:81–2 (less 1st and last provisos) is omitted as unnecessary.
 
-In subsections (a)–(d), (g), and (h), the words “commissioned officers” are substituted for the word “members”, in 10:1837(a), since, under the laws to which reference is made, only commissioned officers may be designated to perform these functions.
+In subsections (a)–(d), (g), and (h), the words "commissioned officers" are substituted for the word "members", in 10:1837(a), since, under the laws to which reference is made, only commissioned officers may be designated to perform these functions.
 
-In subsections (e) and (f), the words “female commissioned officers” are substituted for the word “members”, in 10:1837(a), since, under the laws to which reference is made, only female commissioned officers may be designated to perform these functions.
+In subsections (e) and (f), the words "female commissioned officers" are substituted for the word "members", in 10:1837(a), since, under the laws to which reference is made, only female commissioned officers may be designated to perform these functions.
 
 1958
 
@@ -108,23 +108,23 @@ The section is amended to reflect the authority contained in the source statute 
 
 #### Amendments
 
-<b>1992</b>—Subsec. (f). Pub. L. 102–484 inserted “and chiropractic functions” after “physician assistant functions”.
+<b>1992</b>—Subsec. (f). Pub. L. 102–484 inserted "and chiropractic functions" after "physician assistant functions".
 
 <b>1981</b>—Subsec. (f). Pub. L. 97–86 inserted reference to physician assistant functions.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513, §504(5)(A), struck out “in conformity with section 8289 or 8294 of this title,” after “Secretary of the Air Force”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §504(5)(A), struck out "in conformity with section 8289 or 8294 of this title," after "Secretary of the Air Force".
 
-Subsec. (b). Pub. L. 96–513, §504(5)(B), struck out “in conformity with section 8294 of this title,” after “prescribed by the Secretary”.
+Subsec. (b). Pub. L. 96–513, §504(5)(B), struck out "in conformity with section 8294 of this title," after "prescribed by the Secretary".
 
-Subsec. (e). Pub. L. 96–513, §504(5)(C), struck out “in conformity with section 8291 of this title,” after “prescribed by the Secretary”.
+Subsec. (e). Pub. L. 96–513, §504(5)(C), struck out "in conformity with section 8291 of this title," after "prescribed by the Secretary".
 
-Subsec. (f). Pub. L. 96–513, §504(5)(D), substituted “Biomedical science functions” for “Medical specialist functions” and “biomedical science officers” for “medical specialists”.
+Subsec. (f). Pub. L. 96–513, §504(5)(D), substituted "Biomedical science functions" for "Medical specialist functions" and "biomedical science officers" for "medical specialists".
 
-Subsec. (h). Pub. L. 96–513, §504(5)(E), struck out “in conformity with section 8293 of this title,” after “prescribed by the Secretary”.
+Subsec. (h). Pub. L. 96–513, §504(5)(E), struck out "in conformity with section 8293 of this title," after "prescribed by the Secretary".
 
-<b>1958</b>—Subsec. (e). Pub. L. 85–861 struck out “female” before “commissioned officers”.
+<b>1958</b>—Subsec. (e). Pub. L. 85–861 struck out "female" before "commissioned officers".
 
-Subsec. (f). Pub. L. 85–861 struck out “female” before “commissioned officers”, and “women” before “medical specialists”.
+Subsec. (f). Pub. L. 85–861 struck out "female" before "commissioned officers", and "women" before "medical specialists".
 
 #### Effective Date of 1980 Amendment
 

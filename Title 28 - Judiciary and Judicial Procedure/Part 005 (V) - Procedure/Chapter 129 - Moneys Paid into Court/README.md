@@ -16,7 +16,7 @@
 
 <b>1990</b>—Pub. L. 101–647, title XXXVI, §3629(b), Nov. 29, 1990, 104 Stat. 4966, which directed the amendment of the table of sections for chapter 29 by adding item 2044, was executed by adding item 2044 to the table of sections for chapter 129 to reflect the probable intent of Congress.
 
-<b>1982</b>—Pub. L. 97–258, §2(g)(4)(A), (B), Sept. 13, 1982, 96 Stat. 1060, substituted “Deposit of moneys in pending or adjudicated cases” for “Deposit” in item 2041 and added item 2043.
+<b>1982</b>—Pub. L. 97–258, §2(g)(4)(A), (B), Sept. 13, 1982, 96 Stat. 1060, substituted "Deposit of moneys in pending or adjudicated cases" for "Deposit" in item 2041 and added item 2043.
 
 
 ---

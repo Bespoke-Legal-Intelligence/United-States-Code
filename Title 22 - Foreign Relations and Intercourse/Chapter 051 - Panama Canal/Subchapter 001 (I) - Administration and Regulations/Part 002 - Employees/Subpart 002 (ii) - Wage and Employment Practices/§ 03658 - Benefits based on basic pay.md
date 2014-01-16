@@ -24,9 +24,9 @@ Section 3657(a) of this title, referred to in text, was repealed by Pub. L. 105�
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–85, in concluding provisions, substituted “section 3642” for “section 3655” and “section 3657(a)” for “section 3657”.
+<b>1997</b>—Pub. L. 105–85, in concluding provisions, substituted "section 3642" for "section 3655" and "section 3657(a)" for "section 3657".
 
-<b>1996</b>—Par. (2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “benefits under subchapter III of chapter 83 of title 5, relating to civil service retirement;”.
+<b>1996</b>—Par. (2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "benefits under subchapter III of chapter 83 of title 5, relating to civil service retirement;".
 
 #### Coordination of Pay and Employment Practices
 

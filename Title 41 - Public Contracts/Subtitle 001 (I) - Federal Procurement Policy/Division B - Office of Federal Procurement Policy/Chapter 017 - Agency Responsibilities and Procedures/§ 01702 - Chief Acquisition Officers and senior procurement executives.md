@@ -64,7 +64,7 @@ When chief acquisition officer appointed or designated.—For an executive agenc
 
 (d)
 
-Overseas Contingency Operations Defined.—In this section, the term “overseas contingency operations” means military operations outside the United States and its territories and possessions that are a contingency operation (as that term is defined in section 101(a)(13) of title 10).
+Overseas Contingency Operations Defined.—In this section, the term "overseas contingency operations" means military operations outside the United States and its territories and possessions that are a contingency operation (as that term is defined in section 101(a)(13) of title 10).
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3701; Pub. L. 112–239, div. A, title VIII, §849, Jan. 2, 2013, 126 Stat. 1853.)
 

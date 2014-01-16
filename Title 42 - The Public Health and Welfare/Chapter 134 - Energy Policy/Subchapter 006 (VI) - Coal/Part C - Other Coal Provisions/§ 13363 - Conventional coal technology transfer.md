@@ -6,7 +6,7 @@ If the Secretary determines that the utilization of a clean coal technology is n
 
 #### References in Text
 
-Sections 13361 and 13362 of this title, referred to in text, was in the original “sections 1321 and 1322” and was translated as reading “sections 1331 and 1332” meaning sections 1331 and 1332 of Pub. L. 102–486, to reflect the probable intent of Congress, because Pub. L. 102–486 does not contain a section 1322 and sections 1331 and 1332 of Pub. L. 102–486 relate to export of clean coal technology.
+Sections 13361 and 13362 of this title, referred to in text, was in the original "sections 1321 and 1322" and was translated as reading "sections 1331 and 1332" meaning sections 1331 and 1332 of Pub. L. 102–486, to reflect the probable intent of Congress, because Pub. L. 102–486 does not contain a section 1322 and sections 1331 and 1332 of Pub. L. 102–486 relate to export of clean coal technology.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

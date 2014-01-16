@@ -6,7 +6,7 @@ General.—The board of directors is the governing body of the corporation.
 
 (b)
 
-Members and Appointment.—(1) The Librarian of Congress (hereafter in this chapter referred to as the “Librarian”) is an ex officio nonvoting member of the board. Not later than 90 days after the date of the enactment of this chapter, the Librarian shall appoint the directors to the board in accordance with paragraph (2).
+Members and Appointment.—(1) The Librarian of Congress (hereafter in this chapter referred to as the "Librarian") is an ex officio nonvoting member of the board. Not later than 90 days after the date of the enactment of this chapter, the Librarian shall appoint the directors to the board in accordance with paragraph (2).
 
 (2)(A) The board consists of nine directors.
 
@@ -48,5 +48,5 @@ The date of the enactment of this chapter, referred to in subsec. (b), is the da
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(4). Pub. L. 110–336 struck out at end “An individual may not serve more than two consecutive terms.”
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–336 struck out at end "An individual may not serve more than two consecutive terms."
 

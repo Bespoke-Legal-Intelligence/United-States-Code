@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In consultation with the Secretary of Agriculture, the Administrator of the Environmental Protection Agency, the Director of the Indian Health Service, the Secretary of Housing and Urban Development, and the Secretary of the Army, the Secretary shall develop an assessment of—
+In consultation with the Secretary of Agriculture, the Administrator of the Environmental Protection Agency, the Director of theIndian Health Service, the Secretary of Housing and Urban Development, and the Secretary of the Army, the Secretary shall develop an assessment of—
 
 &emsp;(1) the status of all rural water supply projects under the jurisdiction of the Secretary authorized but not completed prior to December 22, 2006, including appropriation amounts, the phase of development, total anticipated costs, and obstacles to completion;
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Non Commissioned Officers Association of the United States of America, Incorporated (in this chapter, the “corporation”), a nonprofit corporation incorporated in Texas, is a federally chartered corporation.
+Federal Charter.—Non Commissioned Officers Association of the United States of America, Incorporated (in this chapter, the "corporation"), a nonprofit corporation incorporated in Texas, is a federally chartered corporation.
 
 (b)
 

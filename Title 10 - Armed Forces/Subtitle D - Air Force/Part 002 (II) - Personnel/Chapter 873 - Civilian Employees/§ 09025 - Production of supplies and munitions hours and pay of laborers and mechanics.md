@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 July 2, 1940, ch. 508, §4 (b), 54 Stat. 714.
 
-The words “Notwithstanding the provisions of any other law” are omitted as surplusage. The word “producing” is substituted for the words “who are engaged in the manufacture or production”. The last sentence is substituted for 5:189a (last 34 words).
+The words "Notwithstanding the provisions of any other law" are omitted as surplusage. The word "producing" is substituted for the words "who are engaged in the manufacture or production". The last sentence is substituted for 5:189a (last 34 words).
 

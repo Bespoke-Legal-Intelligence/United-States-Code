@@ -6,7 +6,7 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 &emsp;(1) conduct investigations concerning illegal passport or visa issuance or use;
 
-&emsp;(2) obtain and execute search and arrest warrants, as well as obtain and serve subpoenasand summonses issued under the authority of the United States;
+&emsp;(2) obtain and execute search and arrest warrants, as well as obtain and serve subpoenas and summonses issued under the authority of the United States;
 
 &emsp;(3) protect and perform protective functions directly related to maintaining the security and safety of—
 
@@ -48,7 +48,7 @@ Nothing in subsection (a)(3) of this section shall be construed to preclude or l
 
 #### References in Text
 
-Section 4302 of this title, referred to in subsec. (a)(3)(D), was subsequently amended, and section 4302(a)(4) no longer defines the term “foreign mission”. However, such term is defined elsewhere in that section.
+Section 4302 of this title, referred to in subsec. (a)(3)(D), was subsequently amended, and section 4302(a)(4) no longer defines the term "foreign mission". However, such term is defined elsewhere in that section.
 
 #### Prior Provisions
 
@@ -56,37 +56,37 @@ A prior section 37 of act Aug. 1, 1956, was renumbered section 38 by section 125
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–177 substituted “section 3056 or 3056A of title 18” for “section 202 of title 3 or section 3056 of title 18”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–177 substituted "section 3056 or 3056A of title 18" for "section 202 of title 3 or section 3056 of title 18".
 
-<b>2002</b>—Subsec. (a)(2). Pub. L. 107–228, §202(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “for the purpose of conducting such investigations—
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–228, §202(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "for the purpose of conducting such investigations—
 
-&emsp;“(A) obtain and execute search and arrest warrants,
+&emsp;"(A) obtain and execute search and arrest warrants,
 
-&emsp;“(B) make arrests without warrant for any offense concerning passport or visa issuance or use if the special agent has reasonable grounds to believe that the person has committed or is committing such offense, and
+&emsp;"(B) make arrests without warrant for any offense concerning passport or visa issuance or use if the special agent has reasonable grounds to believe that the person has committed or is committing such offense, and
 
-&emsp;“(C) obtain and serve subpoenas and summonses issued under the authority of the United States;”.
+&emsp;"(C) obtain and serve subpoenas and summonses issued under the authority of the United States;".
 
-Subsec. (a)(3)(F). Pub. L. 107–228, §202(a)(2), inserted “or President-elect” after “President”.
+Subsec. (a)(3)(F). Pub. L. 107–228, §202(a)(2), inserted "or President-elect" after "President".
 
-Subsec. (a)(5). Pub. L. 107–228, §202(a)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “arrest without warrant any person for a violation of section 111, 112, 351, 970, or 1028 of title 18—
+Subsec. (a)(5). Pub. L. 107–228, §202(a)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "arrest without warrant any person for a violation of section 111, 112, 351, 970, or 1028 of title 18—
 
-&emsp;“(A) in the case of a felony violation, if the special agent has reasonable grounds to believe that such person—
+&emsp;"(A) in the case of a felony violation, if the special agent has reasonable grounds to believe that such person—
 
-&emsp;&emsp;“(i) has committed or is committing such violation; and
+&emsp;&emsp;"(i) has committed or is committing such violation; and
 
-&emsp;&emsp;“(ii) is in or is fleeing from the immediate area of such violation; and
+&emsp;&emsp;"(ii) is in or is fleeing from the immediate area of such violation; and
 
-&emsp;“(B) in the case of a felony or misdemeanor violation, if the violation is committed in the presence of the special agent.”
+&emsp;"(B) in the case of a felony or misdemeanor violation, if the violation is committed in the presence of the special agent."
 
-Subsec. (b). Pub. L. 107–228, §202(b), substituted “Agreements with Attorney General and Secretary of the Treasury and firearms regulations” for “Agreement with Attorney General and firearms regulations” in heading, added pars. (1) and (2), struck out former par. (1), which related to agreement with the Attorney General, and redesignated former par. (2) as (3).
+Subsec. (b). Pub. L. 107–228, §202(b), substituted "Agreements with Attorney General and Secretary of the Treasury and firearms regulations" for "Agreement with Attorney General and firearms regulations" in heading, added pars. (1) and (2), struck out former par. (1), which related to agreement with the Attorney General, and redesignated former par. (2) as (3).
 
 <b>2000</b>—Subsec. (a)(3)(E), (F). Pub. L. 106–553, as renumbered by Pub. L. 106–554, added subpars. (E) and (F).
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–236 struck out subsec. (d) which read as follows: “The Secretary of State shall transmit the regulations prescribed under this section to the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives and the Committee on Foreign Relations of the Senate not less than 20 days before the date on which such regulations take effect.”
+<b>1994</b>—Subsec. (d). Pub. L. 103–236 struck out subsec. (d) which read as follows: "The Secretary of State shall transmit the regulations prescribed under this section to the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives and the Committee on Foreign Relations of the Senate not less than 20 days before the date on which such regulations take effect."
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–246, §113(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (a)(5). Pub. L. 101–246, §113(2), amended introductory provisions generally, substituting “970, or 1028” for “911, 970, 1001, 1028, 1541, 1542, 1543, 1544, 1545, or 1546”.
+Subsec. (a)(5). Pub. L. 101–246, §113(2), amended introductory provisions generally, substituting "970, or 1028" for "911, 970, 1001, 1028, 1541, 1542, 1543, 1544, 1545, or 1546".
 
 #### Transfer of Functions
 
@@ -96,15 +96,15 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 Pub. L. 107–228, div. A, title II, §202(c), Sept. 30, 2002, 116 Stat. 1362, provided that:
 
-“(1) The authority conferred by paragraphs (2) and (5) of section 37(a) of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2709(a)(2), (5)\], as amended by subsection (a), may not be exercised until the date on which the Secretary—
+"(1) The authority conferred by paragraphs (2) and (5) of section 37(a) of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2709(a)(2), (5)\], as amended by subsection (a), may not be exercised until the date on which the Secretary—
 
-&emsp;“(A) submits the agreement required by subsection (b)(2) of section 37 of such Act \[22 U.S.C. 2709(b)(2)\] to the appropriate congressional committees; and
+&emsp;"(A) submits the agreement required by subsection (b)(2) of section 37 of such Act \[22 U.S.C. 2709(b)(2)\] to the appropriate congressional committees; and
 
-&emsp;“(B) publishes in the Federal Register a notice that the agreement has been submitted in accordance with the requirements of subparagraph (A).
+&emsp;"(B) publishes in the Federal Register a notice that the agreement has been submitted in accordance with the requirements of subparagraph (A).
 
-“(2) The authority conferred by paragraphs (2) and (5) of subsection (a) of section 37 of the State Department Basic Authorities Act of 1956, as in effect on the day before the date of the enactment of this Act \[Sept. 30, 2002\], may continue to be exercised until the date on which the notice described in paragraph (1)(B) is published in the Federal Register.”
+"(2) The authority conferred by paragraphs (2) and (5) of subsection (a) of section 37 of the State Department Basic Authorities Act of 1956, as in effect on the day before the date of the enactment of this Act \[Sept. 30, 2002\], may continue to be exercised until the date on which the notice described in paragraph (1)(B) is published in the Federal Register."
 
-\[For definitions of “Secretary” and “appropriate congressional committees” as used in section 202(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definitions of "Secretary" and "appropriate congressional committees" as used in section 202(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

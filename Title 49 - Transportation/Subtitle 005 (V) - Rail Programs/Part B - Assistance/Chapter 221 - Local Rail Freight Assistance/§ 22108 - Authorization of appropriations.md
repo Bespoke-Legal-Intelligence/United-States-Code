@@ -48,7 +48,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(h), (q); added Feb. 5, 1976, 
 
 (no source).
 
-In subsection (a), the words “to carry out this chapter” are substituted for “for the purposes of this section” and “under this section” for clarity. The reference to fiscal years 1991 and 1992 is omitted as obsolete.
+In subsection (a), the words "to carry out this chapter" are substituted for "for the purposes of this section" and "under this section" for clarity. The reference to fiscal years 1991 and 1992 is omitted as obsolete.
 
 Subsection (c) is added because section 2(b)(1) of the Local Rail Service Reauthorizing Act (Public Law 101–213, 103 Stat. 1843) provided that amounts available for fiscal year 1990 to carry out section 5(i) of the Department of Transportation Act that were not applied for or remained unobligated are available to the Secretary in carrying out projects under this chapter, as in effect on October 1, 1990.
 
@@ -62,9 +62,9 @@ Section 5(i) of the Department of Transportation Act, referred to in subsec. (c)
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–287 substituted “Committee on Transportation and Infrastructure” for “Committee on Energy and Commerce”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–287 substituted "Committee on Transportation and Infrastructure" for "Committee on Energy and Commerce".
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–429 inserted “under this subsection” after “appropriated”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–429 inserted "under this subsection" after "appropriated".
 
 #### Effective Date of 1994 Amendment
 

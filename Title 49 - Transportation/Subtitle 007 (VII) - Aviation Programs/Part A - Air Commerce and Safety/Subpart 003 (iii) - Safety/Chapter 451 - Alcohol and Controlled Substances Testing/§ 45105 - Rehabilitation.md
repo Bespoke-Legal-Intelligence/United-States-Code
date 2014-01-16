@@ -32,7 +32,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §614(c); added Oct. 28, 1991, Pu
 
 49 App.:1434(c)(2).
 
-In subsection (a), the words “of air carriers and foreign air carriers” are added for clarity.
+In subsection (a), the words "of air carriers and foreign air carriers" are added for clarity.
 
 #### Pub. L. 103–429
 
@@ -40,7 +40,7 @@ This amends 49:45105(a) to correct an error in the codification enacted by secti
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–429 substituted “section 45102(a)(1)” for “section 45102(a)(1)(A)” in second sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–429 substituted "section 45102(a)(1)" for "section 45102(a)(1)(A)" in second sentence.
 
 #### Effective Date of 1994 Amendment
 
@@ -48,5 +48,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Human Intervention Motivation Study
 
-Pub. L. 112–95, title VIII, §819, Feb. 14, 2012, 126 Stat. 127, provided that: “Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall develop a Human Intervention Motivation Study program for cabin crew members employed by commercial air carriers in the United States.”
+Pub. L. 112–95, title VIII, §819, Feb. 14, 2012, 126 Stat. 127, provided that: "Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall develop a Human Intervention Motivation Study program for cabin crew members employed by commercial air carriers in the United States."
 

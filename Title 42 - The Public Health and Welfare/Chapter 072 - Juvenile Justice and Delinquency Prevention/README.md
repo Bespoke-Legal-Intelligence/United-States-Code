@@ -177,7 +177,7 @@
 | [5774\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005774%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93690%2C%20title%20VII%2C%20%C2%A77286%2C%20Nov.%2018%2C%201988%2C%20102%20Stat.%204460.md) | Repealed. |
 | [5775\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005775%20-%20Grants.md) | Grants. |
 | [5776\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005776%20-%20Criteria%20for%20grants.md) | Criteria for grants. |
-| [5776a.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005776a%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93240%2C%20%C2%A75%281%29%2C%20June%203%2C%202008%2C%20122%20Stat.%201564.md) | Repealed. |
+| [5776a.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005776a%20-%20Oversight%20and%20accountability.md) | Oversight and accountability. |
 | [5777\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005777%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [5778\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005778%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93235%2C%20title%20II%2C%20%C2%A7231%28b%29%2C%20Oct.%203%2C%201996%2C%20110%20Stat.%203092.md) | Repealed. |
 | [5779\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005779%20-%20Reporting%20requirement.md) | Reporting requirement. |

@@ -16,7 +16,7 @@ In developing the Space Launch System pursuant to section 18322 of this title an
 
 In meeting the requirements of subsection (a), the Administrator—
 
-&emsp;(1) shall, to the extent practicable, utilize ground-based manufacturing capability, ground testing activities, launch and operations infrastructure, and workforce expertise;
+&emsp;(1) shall, to the extent practicable, utilize ground-based manufacturing capability,ground testing activities, launch and operations infrastructure, and workforce expertise;
 
 &emsp;(2) shall, to the extent practicable, minimize the modification and development of ground infrastructure and maximize the utilization of existing software, vehicle, and mission operations processes;
 

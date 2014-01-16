@@ -6,7 +6,7 @@ The Commission is authorized to appear in and defend against any action filed un
 
 #### (b) Recovery of certain payments
 
-The Commission is authorized through attorneys and counsel described in subsection (a) toappear in the district courts of the United States to seek recovery of any amounts determined to be payable to the Secretary of the Treasury as a result of examination and audit made pursuant to section 9007.
+The Commission is authorized through attorneys and counsel described in subsection (a) to appear in the district courts of the United States to seek recovery of any amounts determined to be payable to the Secretary of the Treasury as a result of examination and audit made pursuant to section 9007.
 
 #### (c) Declaratory and injunctive relief
 
@@ -22,15 +22,15 @@ The Commission is authorized on behalf of the United States to appeal from, and 
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–620 struck out provision requiring the judges designated to hear the case to assign the case for hearing at the earliest practicable date, to participate in the hearing and determination thereof, and to cause the case to be in every way expedited.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted “to the Secretary of the Treasury” for “to the Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted "to the Secretary of the Treasury" for "to the Secretary".
 
-<b>1974</b>—Pub. L. 93–443, §404(c)(14), substituted “Commission” for “Comptroller General” in section catchline.
+<b>1974</b>—Pub. L. 93–443, §404(c)(14), substituted "Commission" for "Comptroller General" in section catchline.
 
-Subsec. (a). Pub. L. 93–443, §404(c)(15), substituted “Commission” for “Comptroller General”, “its” for “his”, and “it” for “he” wherever appearing.
+Subsec. (a). Pub. L. 93–443, §404(c)(15), substituted "Commission" for "Comptroller General", "its" for "his", and "it" for "he" wherever appearing.
 
-Subsecs. (b), (c). Pub. L. 93–443, §404(c)(16), (17), substituted “Commission” for “Comptroller General” wherever appearing.
+Subsecs. (b), (c). Pub. L. 93–443, §404(c)(16), (17), substituted "Commission" for "Comptroller General" wherever appearing.
 
-Subsec. (d). Pub. L. 93–443, §404(c)(18), substituted “Commission” and “it” for “Comptroller General” and “he”.
+Subsec. (d). Pub. L. 93–443, §404(c)(18), substituted "Commission" and "it" for "Comptroller General" and "he".
 
 #### Effective Date of 1984 Amendment
 

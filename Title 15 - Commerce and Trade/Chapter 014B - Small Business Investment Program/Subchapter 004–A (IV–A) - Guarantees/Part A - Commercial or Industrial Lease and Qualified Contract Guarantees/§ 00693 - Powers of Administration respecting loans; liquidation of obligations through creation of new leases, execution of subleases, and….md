@@ -6,5 +6,5 @@ Without limiting the authority conferred upon the Administrator and the Administ
 
 #### Amendments
 
-<b>1970</b>—Pub. L. 91–609 substituted “part” for “title”.
+<b>1970</b>—Pub. L. 91–609 substituted "part" for "title".
 

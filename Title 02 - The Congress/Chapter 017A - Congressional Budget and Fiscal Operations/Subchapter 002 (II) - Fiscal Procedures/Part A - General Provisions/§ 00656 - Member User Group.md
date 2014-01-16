@@ -2,7 +2,7 @@
 
 The Speaker of the House of Representatives, after consulting with the Minority Leader of the House, may appoint a Member User Group for the purpose of reviewing budgetary scorekeeping rules and practices of the House and advising the Speaker from time to time on the effect and impact of such rules and practices.
 
-(Pub. L. 93–344, title IV, §406, formerly §407, as added Pub. L. 99–177, title II, §214, Dec. 12, 1985, 99 Stat. 1060; renumbered §406, Pub. L. 105–33, title X, §10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
+(Pub. L. 93–344, title IV, §406, formerly §407, as added Pub. L. 99–177, title II, §214, Dec. 12, 1985,99 Stat. 1060; renumbered §406, Pub. L. 105–33, title X, §10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
 
 #### Prior Provisions
 

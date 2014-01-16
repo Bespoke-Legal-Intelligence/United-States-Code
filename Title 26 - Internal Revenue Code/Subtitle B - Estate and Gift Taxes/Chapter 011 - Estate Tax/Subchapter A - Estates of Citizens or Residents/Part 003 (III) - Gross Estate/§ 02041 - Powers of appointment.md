@@ -38,7 +38,7 @@ For purposes of subsection (a)—
 
 #### (1) General power of appointment
 
-&emsp;The term “general power of appointment” means a power which is exercisable in favor of the decedent, his estate, his creditors, or the creditors of his estate; except that—
+&emsp;The term "general power of appointment" means a power which is exercisable in favor of the decedent, his estate, his creditors, or the creditors of his estate; except that—
 
 &emsp;&emsp;(A) A power to consume, invade, or appropriate property for the benefit of the decedent which is limited by an ascertainable standard relating to the health, education, support, or maintenance of the decedent shall not be deemed a general power of appointment.
 

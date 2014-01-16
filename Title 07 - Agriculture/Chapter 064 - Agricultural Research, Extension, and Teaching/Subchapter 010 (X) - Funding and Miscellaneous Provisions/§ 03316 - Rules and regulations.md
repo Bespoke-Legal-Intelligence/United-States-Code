@@ -6,5 +6,5 @@ The Secretary is authorized to issue such rules and regulations as the Secretary
 
 #### References in Text
 
-For definition of “this chapter”, referred to in text, see note set out under section 3102 of this title.
+For definition of "this chapter", referred to in text, see note set out under section 3102 of this title.
 

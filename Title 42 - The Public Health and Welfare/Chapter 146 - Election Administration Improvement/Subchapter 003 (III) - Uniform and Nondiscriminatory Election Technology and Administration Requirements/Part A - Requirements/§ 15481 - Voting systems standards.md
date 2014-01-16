@@ -58,7 +58,7 @@ Each voting system used in an election for Federal office shall meet the followi
 
 #### (5) Error rates
 
-&emsp;The error rate of the voting system in counting ballots (determined by taking into accountonly those errors which are attributable to the voting system and not attributable to an act of the voter) shall comply with the error rate standards established under section 3.2.1 of the voting systems standards issued by the Federal Election Commission which are in effect on October 29, 2002.
+&emsp;The error rate of the voting system in counting ballots (determined by taking into account only those errors which are attributable to the voting system and not attributable to an act of the voter) shall comply with the error rate standards established under section 3.2.1 of the voting systems standards issued by the Federal Election Commission which are in effect on October 29, 2002.
 
 #### (6) Uniform definition of what constitutes a vote
 
@@ -66,7 +66,7 @@ Each voting system used in an election for Federal office shall meet the followi
 
 #### (b) Voting system defined
 
-In this section, the term “voting system” means—
+In this section, the term "voting system" means—
 
 &emsp;(1) the total combination of mechanical, electromechanical, or electronic equipment (including the software, firmware, and documentation required to program, control, and support the equipment) that is used—
 
@@ -98,7 +98,7 @@ In this section, the term “voting system” means—
 
 #### (2) Protection of paper ballot voting systems
 
-&emsp;For purposes of subsection (a)(1)(A)(i) of this section, the term “verify” may not be defined in a manner that makes it impossible for a paper ballot voting system to meet the requirements of such subsection or to be modified to meet such requirements.
+&emsp;For purposes of subsection (a)(1)(A)(i) of this section, the term "verify" may not be defined in a manner that makes it impossible for a paper ballot voting system to meet the requirements of such subsection or to be modified to meet such requirements.
 
 #### (d) Effective date
 

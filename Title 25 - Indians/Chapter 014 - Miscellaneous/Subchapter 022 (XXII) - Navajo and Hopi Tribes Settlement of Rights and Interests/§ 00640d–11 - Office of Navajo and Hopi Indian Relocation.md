@@ -2,7 +2,7 @@
 
 #### (a) Establishment; Commissioner
 
-There is hereby established as an independent entity in the executive branch the Office of Navajo and Hopi Indian Relocation which shall be under the direction of the Commissioner on Navajo and Hopi Relocation (hereinafter in this subchapter referred to as the “Commissioner”).
+There is hereby established as an independent entity in the executive branch the Office of Navajo and Hopi Indian Relocation which shall be under the direction of the Commissioner on Navajo and Hopi Relocation (hereinafter in this subchapter referred to as the "Commissioner").
 
 #### (b) Appointment; term of office; compensation
 
@@ -28,7 +28,7 @@ There is hereby established as an independent entity in the executive branch the
 
 (1) Subject to such rules and regulations as may be adopted by the Office of Navajo and Hopi Indian Relocation, the Commissioner shall have the power to—
 
-&emsp;(A) appoint and fix the compensation of such staff and personnel as the Commissioner deems necessary in accordance with the provisions of title 5 governing appointments in the competitive service, but at rates not in excess of a position classified above a GS–15 of the General Schedule under section 5108 of such title; and
+&emsp;(A) appoint and fix the compensation of such staff and personnel as the Commissioner deems necessary in accordance with the provisions of title 5 governing appointments in thecompetitive service, but at rates not in excess of a position classified above a GS–15 of the General Schedule under section 5108 of such title; and
 
 &emsp;(B) procure temporary and intermittent services to the same extent as is authorized by section 3109 of title 5, but at rates not to exceed $200 a day for individuals.
 
@@ -58,21 +58,21 @@ Public Law 99–190, referred to in subsec. (c)(2), is Pub. L. 99–190, Dec. 19
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(1). Pub. L. 112–166 struck out “by and with the advice and consent of the Senate” before period at end.
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–166 struck out "by and with the advice and consent of the Senate" before period at end.
 
-<b>1991</b>—Subsec. (b)(2). Pub. L. 102–180, §3(a), inserted at end “The Commissioner serving at the end of a term shall continue to serve until his or her successor has been confirmed in accordance with paragraph (1) of this subsection.”
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–180, §3(a), inserted at end "The Commissioner serving at the end of a term shall continue to serve until his or her successor has been confirmed in accordance with paragraph (1) of this subsection."
 
-Subsec. (b)(3). Pub. L. 102–180, §3(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Commissioner shall be a full time employee of the United States and shall be paid at the rate of GS–18 of the General Schedule under section 5332 of title 5.”
+Subsec. (b)(3). Pub. L. 102–180, §3(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Commissioner shall be a full time employee of the United States and shall be paid at the rate of GS–18 of the General Schedule under section 5332 of title 5."
 
-Subsec. (d)(1). Pub. L. 102–180, §3(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Commissioner shall have the power to—
+Subsec. (d)(1). Pub. L. 102–180, §3(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Commissioner shall have the power to—
 
-&emsp;“(A) appoint and fix the compensation of such staff and personnel as he deems necessary, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, but at rates not in excess of the maximum rate for GS–18 of the General Schedule under section 5332 of such title; and
+&emsp;"(A) appoint and fix the compensation of such staff and personnel as he deems necessary, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, but at rates not in excess of the maximum rate for GS–18 of the General Schedule under section 5332 of such title; and
 
-&emsp;“(B) procure temporary and intermittent services to the same extent as is authorized by section 3109 of title 5, but at rates not to exceed $200 a day for individuals.”
+&emsp;"(B) procure temporary and intermittent services to the same extent as is authorized by section 3109 of title 5, but at rates not to exceed $200 a day for individuals."
 
 <b>1988</b>—Pub. L. 100–666 amended section generally, substituting subsecs. (a) to (f) relating to the Office of Navajo and Hopi Indian Relocation, for former subsecs. (a) to (j) which related to the Navajo and Hopi Relocation Commission.
 
-<b>1980</b>—Subsec. (g)(1). Pub. L. 96–305, §5(1), inserted “an independent legal counsel,” after “an Executive Director,”.
+<b>1980</b>—Subsec. (g)(1). Pub. L. 96–305, §5(1), inserted "an independent legal counsel," after "an Executive Director,".
 
 Subsec. (h). Pub. L. 96–305, §5(2), substituted provision authorizing Commission to provide for its own administrative, fiscal, and housekeeping services for provision authorizing Department of the Interior, on a nonreimbursable basis, to furnish necessary administrative and housekeeping services for Commission.
 
@@ -84,35 +84,35 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 #### Separation or Reduction in Grade or Compensation of Employee
 
-Pub. L. 102–180, §3(d), Dec. 2, 1991, 105 Stat. 1230, provided that: “The amendments made by this section \[amending this section and section 5315 of Title 5, Government Organization and Employees\] shall not cause any employee of the Office of Navajo and Hopi Indian Relocation to be separated or reduced in grade or compensation for 12 months after the date of enactment of this Act \[Dec. 2, 1991\].”
+Pub. L. 102–180, §3(d), Dec. 2, 1991, 105 Stat. 1230, provided that: "The amendments made by this section \[amending this section and section 5315 of Title 5, Government Organization and Employees\] shall not cause any employee of the Office of Navajo and Hopi Indian Relocation to be separated or reduced in grade or compensation for 12 months after the date of enactment of this Act \[Dec. 2, 1991\]."
 
 #### Positions in Senior Executive Service
 
-Pub. L. 102–180, §3(e), Dec. 2, 1991, 105 Stat. 1230, provided that: “The position of Executive Director of the Office of Navajo and Hopi Indian Relocation and Deputy Executive Director of such Office shall on and after the date of the enactment of this Act \[Dec. 2, 1991\], be in the Senior Executive Service.”
+Pub. L. 102–180, §3(e), Dec. 2, 1991, 105 Stat. 1230, provided that: "The position of Executive Director of the Office of Navajo and Hopi Indian Relocation and Deputy Executive Director of such Office shall on and after the date of the enactment of this Act \[Dec. 2, 1991\], be in the Senior Executive Service."
 
 #### Employees of Office as Government Employees
 
-Pub. L. 102–180, §3(f), Dec. 2, 1991, 105 Stat. 1231, provided that: “Any employee of the Office of Navajo and Hopi Indian Relocation on the date of the enactment of this Act \[Dec. 2, 1991\], shall be considered an employee as defined in section 2105 of title 5, United States Code.”
+Pub. L. 102–180, §3(f), Dec. 2, 1991, 105 Stat. 1231, provided that: "Any employee of the Office of Navajo and Hopi Indian Relocation on the date of the enactment ofthis Act \[Dec. 2, 1991\], shall be considered an employee as defined in section 2105 of title 5, United States Code."
 
 #### Continuation of Relocation Commission and Retention of Existing Commissioners Pending Confirmation of Commissioner; Transfer of Existing Personnel; Change of Name
 
 Pub. L. 100–666, §4(c), Nov. 16, 1988, 102 Stat. 3930, provided that:
 
-“(1) Notwithstanding any other provisions of law or any amendment made by this Act \[see Short Title of 1988 Amendment note under section 640d of this title\]—
+"(1) Notwithstanding any other provisions of law or any amendment made by this Act \[see Short Title of 1988 Amendment note under section 640d of this title\]—
 
-&emsp;“(A) the Navajo and Hopi Indian Relocation Commission shall—
+&emsp;"(A) the Navajo and Hopi Indian Relocation Commission shall—
 
-&emsp;&emsp;“(i) continue to exist until the date on which the first Commissioner is confirmed by the Senate,
+&emsp;&emsp;"(i) continue to exist until the date on which the first Commissioner is confirmed by the Senate,
 
-&emsp;&emsp;“(ii) have the same structure, powers and responsibilities such Commission had before the enactment of this Act \[Nov. 16, 1988\], and
+&emsp;&emsp;"(ii) have the same structure, powers and responsibilities such Commission had before the enactment of this Act \[Nov. 16, 1988\], and
 
-&emsp;&emsp;“(iii) assume responsibility for the powers and duties transferred to such Commissioner under section 12(c)(2) of Public Law 93–531 \[25 U.S.C. 640d–11(c)(2)\], as amended by this Act, until the Commissioner is confirmed,
+&emsp;&emsp;"(iii) assume responsibility for the powers and duties transferred to such Commissioner under section 12(c)(2) of Public Law 93–531 \[25 U.S.C. 640d–11(c)(2)\], as amended by this Act, until the Commissioner is confirmed,
 
-&emsp;“(B) the existing Commissioners shall serve until the new Commissioner is confirmed by the Senate, and
+&emsp;"(B) the existing Commissioners shall serve until the new Commissioner is confirmed by the Senate, and
 
-&emsp;“(C) the existing personnel of the Commission shall be transferred to the new Office of Navajo and Hopi Indian Relocation.
+&emsp;"(C) the existing personnel of the Commission shall be transferred to the new Office of Navajo and Hopi Indian Relocation.
 
-“(2) The Navajo and Hopi Relocation Commission shall become known as the Office of Navajo and Hopi Indian Relocation on the date on which the first Commissioner is confirmed by the Senate.”
+"(2) The Navajo and Hopi Relocation Commission shall become known as the Office of Navajo and Hopi Indian Relocation on the date on which the first Commissioner is confirmed by the Senate."
 
-<i><sup>1</sup></i><i> So in original. The period followed by the designation “(B)” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The period and designation "(B)" probably should not appear.</i>
 

@@ -6,7 +6,7 @@ The Federal credit unions organized hereunder, their property, their franchises,
 
 #### Amendments
 
-<b>1959</b>—Pub. L. 86–354 substituted “but” for “<i>Provided, however</i>, That” and inserted “a” before “tax”.
+<b>1959</b>—Pub. L. 86–354 substituted "but" for "<i>Provided, however</i>, That" and inserted "a" before "tax".
 
 <b>1937</b>—Act Dec. 6, 1937, inserted tax exemption provision, the real and tangible personal property proviso, provided that responsibility of tax collection would not be imposed upon Federal credit unions, and that tax rate would not exceed that of domestic credit unions.
 

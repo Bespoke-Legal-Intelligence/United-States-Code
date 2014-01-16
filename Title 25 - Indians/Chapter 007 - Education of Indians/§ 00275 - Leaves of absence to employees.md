@@ -6,7 +6,7 @@ On and after August 24, 1912 teachers in schools operated by the Bureau of India
 
 #### Amendments
 
-<b>1957</b>—Pub. L. 85–89 substituted “Teachers in schools operated by the Bureau of Indian Affairs” for “Teachers of the Indian schools and physicians of the Indian Service”.
+<b>1957</b>—Pub. L. 85–89 substituted "Teachers in schools operated by the Bureau of Indian Affairs" for "Teachers of the Indian schools and physicians of the Indian Service".
 
 <b>1928</b>—Act May 8, 1928, made section applicable to physicians of the Indian Service.
 

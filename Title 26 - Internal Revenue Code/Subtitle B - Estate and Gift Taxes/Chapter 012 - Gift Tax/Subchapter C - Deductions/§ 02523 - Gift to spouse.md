@@ -30,7 +30,7 @@ Where the donor transfers an interest in property, if by such transfer his spous
 
 &emsp;(2) no part of the interest, or such portion, so transferred shall, for purposes of subsection (b)(1), be considered as retained in the donor or transferred to any person other than the donee spouse.
 
-> This subsection shall apply only if, by such transfer, such power in the donee spouse to appoint the interest, or such portion, whether exercisable by will or during life, is exercisable by such spouse alone and in all events. For purposes of this subsection, the term “specific portion” only includes a portion determined on a fractional or percentage basis.
+> This subsection shall apply only if, by such transfer, such power in the donee spouse to appoint the interest, or such portion, whether exercisable by will or during life, is exercisable by such spouse alone and in all events. For purposes of this subsection, the term "specific portion" only includes a portion determined on a fractional or percentage basis.
 
 #### (f) Election with respect to life estate for donee spouse
 
@@ -44,7 +44,7 @@ Where the donor transfers an interest in property, if by such transfer his spous
 
 #### (2) Qualified terminable interest property
 
-&emsp;For purposes of this subsection, the term “qualified terminable interest property” means any property—
+&emsp;For purposes of this subsection, the term "qualified terminable interest property" means any property—
 
 &emsp;&emsp;(A) which is transferred by the donor spouse,
 
@@ -102,7 +102,7 @@ Where the donor transfers an interest in property, if by such transfer his spous
 
 #### (2) Definitions
 
-&emsp;For purposes of paragraph (1), the term “noncharitable beneficiary” and “qualified charitable remainder trust” have the meanings given to such terms by section 2056(b)(8)(B).<sup>1</sup>
+&emsp;For purposes of paragraph (1), the term "noncharitable beneficiary" and "qualified charitable remainder trust" have the meanings given to such terms by section 2056(b)(8)(B).<sup>1</sup>
 
 #### (h) Denial of double deduction
 
@@ -114,7 +114,7 @@ If the spouse of the donor is not a citizen of the United States—
 
 &emsp;(1) no deduction shall be allowed under this section,
 
-&emsp;(2) section 2503(b) shall be applied with respect to gifts which are made by the donor to such spouse and with respect to which a deduction would be allowable under this section but for paragraph (1) by substituting “$100,000” for “$10,000”, and
+&emsp;(2) section 2503(b) shall be applied with respect to gifts which are made by the donor to such spouse and with respect to which a deduction would be allowable under this section but for paragraph (1) by substituting "$100,000" for "$10,000", and
 
 &emsp;(3) the principles of sections 2515 and 2515A (as such sections were in effect before their repeal by the Economic Recovery Tax Act of 1981) shall apply, except that the provisions of such section 2515 providing for an election shall not apply.
 
@@ -128,49 +128,49 @@ If the spouse of the donor is not a citizen of the United States—
 
 #### References in Text
 
-Section 2056 of this title, referred to in subsec. (g)(2), was subsequently amended, and section 2056(b)(8)(B) no longer defines the term “noncharitable beneficiary”.
+Section 2056 of this title, referred to in subsec. (g)(2), was subsequently amended, and section 2056(b)(8)(B) no longer defines the term "noncharitable beneficiary".
 
 Sections 2515 and 2515A, referred to in subsec. (i)(3), were repealed by Pub. L. 97–34, title IV, §403(c)(3)(B), Aug. 13, 1981, 95 Stat. 302.
 
 #### Amendments
 
-<b>1997</b>—Subsec. (g)(1). Pub. L. 105–34 substituted “qualified charitable remainder trust” for “qualified remainder trust”.
+<b>1997</b>—Subsec. (g)(1). Pub. L. 105–34 substituted "qualified charitable remainder trust" for "qualified remainder trust".
 
-<b>1992</b>—Subsec. (e). Pub. L. 102–486, §1941(b)(1), in closing provisions, inserted at end “For purposes of this subsection, the term ‘specific portion’ only includes a portion determined on a fractional or percentage basis.”
+<b>1992</b>—Subsec. (e). Pub. L. 102–486, §1941(b)(1), in closing provisions, inserted at end "For purposes of this subsection, the term 'specific portion' only includes a portion determined on a fractional or percentage basis."
 
-Subsec. (f)(3). Pub. L. 102–486, §1941(b)(2), inserted before period at end “and the rules of section 2056(b)(10) shall apply”.
+Subsec. (f)(3). Pub. L. 102–486, §1941(b)(2), inserted before period at end "and the rules of section 2056(b)(10) shall apply".
 
-<b>1990</b>—Subsec. (i). Pub. L. 101–508 inserted at end “This subsection shall not apply to any transfer resulting from the acquisition of rights under a joint and survivor annuity described in subsection (f)(6).”
+<b>1990</b>—Subsec. (i). Pub. L. 101–508 inserted at end "This subsection shall not apply to any transfer resulting from the acquisition of rights under a joint and survivor annuity described in subsection (f)(6)."
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7815(d)(2), struck out “who is a citizen or resident” after “Where a donor”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7815(d)(2), struck out "who is a citizen or resident" after "Where a donor".
 
-Subsec. (i)(2). Pub. L. 101–239, §7815(d)(1)(A), substituted “which are made by the donor to such spouse and with respect to which a deduction would be allowable under this section but for paragraph (1)” for “made by the donor to such spouse”.
+Subsec. (i)(2). Pub. L. 101–239, §7815(d)(1)(A), substituted "which are made by the donor to such spouse and with respect to which a deduction would be allowable under this section but for paragraph (1)" for "made by the donor to such spouse".
 
 <b>1988</b>—Subsec. (f)(6). Pub. L. 100–647, §6152(b), added par. (6).
 
 Subsec. (i). Pub. L. 100–647, §5033(b), added subsec. (i).
 
-<b>1986</b>—Subsec. (f)(4)(A). Pub. L. 99–514 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “An election under this subsection with respect to any property shall be made on or before the first April 15th after the calendar year in which the interest was transferred and shall be made in such manner as the Secretary shall by regulations prescribe.”
+<b>1986</b>—Subsec. (f)(4)(A). Pub. L. 99–514 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "An election under this subsection with respect to any property shall be made on or before the first April 15th after the calendar year in which the interest was transferred and shall be made in such manner as the Secretary shall by regulations prescribe."
 
-<b>1983</b>—Subsec. (f)(3). Pub. L. 97–448, §104(a)(6), substituted “rules similar to the rules of clauses (ii)” for “the rules of clauses (ii)”.
+<b>1983</b>—Subsec. (f)(3). Pub. L. 97–448, §104(a)(6), substituted "rules similar to the rules of clauses (ii)" for "the rules of clauses (ii)".
 
-Subsec. (f)(4). Pub. L. 97–448, §104(a)(4), divided existing provisions into subpars. (A) and (B), in subpar. (A) as so designated substituted “shall be made on or before the first April 15th after the calendar year in which the interest was transferred and shall be made in such manner as the Secretary shall by regulations prescribe” for “shall be made on the return of the tax imposed by section 2501 for the calendar year in which the interest was transferred”, and in subpar. (B) as so designated substituted “An election under this subsection” for “Such an election”.
+Subsec. (f)(4). Pub. L. 97–448, §104(a)(4), divided existing provisions into subpars. (A) and (B), in subpar. (A) as so designated substituted "shall be made on or before the first April 15th after the calendar year in which the interest was transferred and shall be made in such manner as the Secretary shall by regulations prescribe" for "shall be made on the return of the tax imposed by section 2501 for the calendar year in which the interest was transferred", and in subpar. (B) as so designated substituted "An election under this subsection" for "Such an election".
 
 Subsec. (f)(5). Pub. L. 97–448, §104(a)(5), added par. (5).
 
 Subsec. (h). Pub. L. 97–448, §104(a)(2)(B), added subsec. (h).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–34, §403(b)(1), struck out “(1) In general” designation for existing text and struck out par. (2) which declared that the aggregate of the allowed deductions for any calendar quarter should not exceed the sum of $100,000 reduced, but not below zero, by the aggregate of the allowed deductions for preceding calendar quarters beginning after Dec. 31, 1976, plus 50 percent of the lesser of the amount of the allowed deductions for such calendar quarter, determined without regard to par. (2), or the amount, if any, by which the aggregate determined under cl. (i) of par. (2) for the calendar quarter and for each preceding calendar quarter beginning after Dec. 31, 1976, exceeds $200,000.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §403(b)(1), struck out "(1) In general" designation for existing text and struck out par. (2) which declared that the aggregate of the allowed deductions for any calendar quarter should not exceed the sum of $100,000 reduced, but not below zero, by the aggregate of the allowed deductions for preceding calendar quarters beginning after Dec. 31, 1976, plus 50 percent of the lesser of the amount of the allowed deductions for such calendar quarter, determined without regard to par. (2), or the amount, if any, by which the aggregate determined under cl. (i) of par. (2) for the calendar quarter and for each preceding calendar quarter beginning after Dec. 31, 1976, exceeds $200,000.
 
 Subsec. (f). Pub. L. 97–34, §403(b)(2), (d)(2), substituted provision relating to election with respect to life estate for donee spouse for provision relating to community property.
 
 Subsec. (g). Pub. L. 97–34, §403(d)(2), added subsec. (g).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 designated existing provisions as par. (1), struck out “one-half of” after “interest equal to”, and added par. (2) relating to limitations on aggregate amount of deductions.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 designated existing provisions as par. (1), struck out "one-half of" after "interest equal to", and added par. (2) relating to limitations on aggregate amount of deductions.
 
-Subsec. (f)(1). Pub. L. 94–455, §1902(a)(12)(E), struck out “Territory” after “any State”.
+Subsec. (f)(1). Pub. L. 94–455, §1902(a)(12)(E), struck out "Territory" after "any State".
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–614 substituted “quarter” for “year” in two places.
+<b>1970</b>—Subsec. (a). Pub. L. 91–614 substituted "quarter" for "year" in two places.
 
 #### Effective Date of 1992 Amendment
 
@@ -182,19 +182,19 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7815(d)(1)(B), Dec. 19, 1989, 103 Stat. 2415, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to gifts made after June 29, 1989.”
+Pub. L. 101–239, title VII, §7815(d)(1)(B), Dec. 19, 1989, 103 Stat. 2415, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to gifts made after June 29, 1989."
 
 Amendment by section 7815(d)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title V, §5033(d)(2), Nov. 10, 1988, 102 Stat. 3673, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to gifts on or after July 14, 1988.”
+Pub. L. 100–647, title V, §5033(d)(2), Nov. 10, 1988, 102 Stat. 3673, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to gifts on or after July 14, 1988."
 
 Amendment by section 6152(b) of Pub. L. 100–647 applicable to transfers after Dec. 31, 1981, and, in the case of any estate or gift tax return filed before Nov. 10, 1988, such amendment inapplicable to the extent it would be inconsistent with the treatment of the annuity on such return unless executor or donor otherwise elects before the day 2 years after Nov. 10, 1988, the time for making such an election not to expire before such date, see section 6152(c), of Pub. L. 100–647, set out as a note under section 2056 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XVIII, §1879(n)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to transfers made after December 31, 1985.”
+Pub. L. 99–514, title XVIII, §1879(n)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to transfers made after December 31, 1985."
 
 #### Effective Date of 1983 Amendment
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 97–34 applicable to gifts made after Dec. 31, 1981, see s
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XX, §2002(d)(2), Oct. 4, 1976, 90 Stat. 1856, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to gifts made after December 31, 1976.”
+Pub. L. 94–455, title XX, §2002(d)(2), Oct. 4, 1976, 90 Stat. 1856, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply to gifts made after December 31, 1976."
 
 #### Effective Date of 1970 Amendment
 
@@ -222,13 +222,13 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Special Rule for Certain Transfers in October 1984
 
-Pub. L. 99–514, title XVIII, §1879(n)(3), Oct. 22, 1986, 100 Stat. 2910, provided that: “An election under section2523(f) of the Internal Revenue Code of 1954 \[now 1986\] with respect to an interest in property which—
+Pub. L. 99–514, title XVIII, §1879(n)(3), Oct. 22, 1986, 100 Stat. 2910, provided that: "An election under section2523(f) of the Internal Revenue Code of 1954 \[now 1986\] with respect to an interest in property which—
 
-&emsp;“(A) was transferred during October 1984, and
+&emsp;"(A) was transferred during October 1984, and
 
-&emsp;“(B) was transferred pursuant to a trust instrument stating that the grantor's intention was that the property of the trust would constitute qualified terminable interest property as to which a Federal gift tax marital deduction would be allowed upon the grantor's election,
+&emsp;"(B) was transferred pursuant to a trust instrument stating that the grantor's intention was that the property of the trust would constitute qualified terminable interest property as to which a Federal gift tax marital deduction would be allowed upon the grantor's election,
 
-> shall be made on the return of tax imposed by section 2501 of such Code for the calendar year 1984 which is filed on or before the due date of such return or, if a timely return is not filed, on the first such return filed after the due date of such return and before December 31, 1986.”
+> shall be made on the return of tax imposed by section 2501 of such Code for the calendar year 1984 which is filed on or before the due date of such return or, if a timely return is not filed, on the first such return filed after the due date of such return and before December 31, 1986."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

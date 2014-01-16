@@ -8,7 +8,7 @@
 
 #### References in Text
 
-Section 321 of chapter 314 of the Act of June 30, 1932 (40 U.S.C. 303b), referred to in subsec. (a), is section 321 of act June 30, 1932, ch. 314, title III, 47 Stat. 412, which was classified to section 303b of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 1302 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+Section 321 of chapter 314 of the Act of June 30, 1932 (40 U.S.C. 303b), referred to in subsec. (a), is section 321 of act June 30, 1932, ch. 314, pt. II, title III, 47 Stat. 412, which was classified to section 303b of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 1302 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

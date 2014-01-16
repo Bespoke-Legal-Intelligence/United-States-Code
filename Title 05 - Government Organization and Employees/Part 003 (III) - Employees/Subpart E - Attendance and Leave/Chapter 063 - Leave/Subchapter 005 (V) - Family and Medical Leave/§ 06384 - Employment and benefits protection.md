@@ -16,7 +16,7 @@
 
 (d) As a condition to restoration under subsection (a) for an employee who takes leave under section 6382(a)(1)(D), the employing agency may have a uniformly applied practice or policy that requires each such employee to receive certification from the health care provider of the employee that the employee is able to resume work.
 
-(e) Nothing in this section shall be construed to prohibit an employing agency from requiring an employee on leave under section 6382 to report periodically to the employing agency on the status and intention of the employee to return to work.
+(e) Nothing in this section shall be construed to prohibit an employing agency from requiringan employee on leave under section 6382 to report periodically to the employing agency on the status and intention of the employee to return to work.
 
 (Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 22.)
 

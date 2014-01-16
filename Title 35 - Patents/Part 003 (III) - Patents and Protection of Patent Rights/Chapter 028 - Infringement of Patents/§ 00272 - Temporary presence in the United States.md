@@ -10,7 +10,7 @@ This section follows the requirement of the International Convention for the Pro
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–465 substituted “not offered for sale or sold” for “not sold”.
+<b>1994</b>—Pub. L. 103–465 substituted "not offered for sale or sold" for "not sold".
 
 #### Effective Date of 1994 Amendment
 

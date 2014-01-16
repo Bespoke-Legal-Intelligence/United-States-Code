@@ -122,11 +122,11 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, the term “local commercial television station” means any full power television broadcast station, other than a qualified noncommercial educational television station within the meaning of section 535(l)(1) of this title, licensed and operating on a channel regularly assigned to its community by the Commission that, with respect to a particular cable system, is within the same television market as the cable system.
+&emsp;&emsp;For purposes of this section, the term "local commercial television station" means any full power television broadcast station, other than a qualified noncommercial educational television station within the meaning of section 535(l)(1) of this title, licensed and operating on a channel regularly assigned to its community by the Commission that, with respect to a particular cable system, is within the same television market as the cable system.
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “local commercial television station” shall not include—
+&emsp;&emsp;The term "local commercial television station" shall not include—
 
 &emsp;&emsp;&emsp;(i) low power television stations, television translator stations, and passive repeaters which operate pursuant to part 74 of title 47, Code of Federal Regulations, or any successor regulations thereto;
 
@@ -154,7 +154,7 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 #### (2) Qualified low power station
 
-&emsp;The term “qualified low power station” means any television broadcast station conforming to the rules established for Low Power Television Stations contained in part 74 of title 47, Code of Federal Regulations, only if—
+&emsp;The term "qualified low power station" means any television broadcast station conforming to the rules established for Low Power Television Stations contained in part 74 of title 47, Code of Federal Regulations, only if—
 
 &emsp;&emsp;(A) such station broadcasts for at least the minimum number of hours of operation required by the Commission for television broadcast stations under part 73 of title 47, Code of Federal Regulations;
 
@@ -174,13 +174,13 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 #### References in Text
 
-This chapter, referred to in subsec. (g)(1), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (g)(1), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (h)(1)(C)(i). Pub. L. 104–104, §301(d)(1)(A), substituted “by the Commission by regulation or order using, where available, commercial publications which delineate television markets based on viewing patterns,” for “in the manner provided in section 73.3555(d)(3)(i) of title 47, Code of Federal Regulations, as in effect on May 1, 1991,”.
+<b>1996</b>—Subsec. (h)(1)(C)(i). Pub. L. 104–104, §301(d)(1)(A), substituted "by the Commission by regulation or order using, where available, commercial publications which delineate television markets based on viewing patterns," for "in the manner provided in section 73.3555(d)(3)(i) of title 47, Code of Federal Regulations, as in effect on May 1, 1991,".
 
-Subsec. (h)(1)(C)(iv). Pub. L. 104–104, §301(d)(1)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: “In the rulemaking proceeding required by subsection (f) of this section, the Commission shall provide for expedited consideration of requests filed under this subparagraph.”
+Subsec. (h)(1)(C)(iv). Pub. L. 104–104, §301(d)(1)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: "In the rulemaking proceeding required by subsection (f) of this section, the Commission shall provide for expedited consideration of requests filed under this subparagraph."
 
 #### Effective Date
 
@@ -188,9 +188,9 @@ Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–38
 
 #### Application to Pending Requests
 
-Pub. L. 104–104, title III, §301(d)(2), Feb. 8, 1996, 110 Stat. 116, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to—
+Pub. L. 104–104, title III, §301(d)(2), Feb. 8, 1996, 110 Stat. 116, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to—
 
-&emsp;“(A) any request pending under section 614(h)(1)(C) of the Communications Act of 1934 (47 U.S.C. 534(h)(1)(C)) on the date of enactment of this Act \[Feb. 8, 1996\]; and
+&emsp;"(A) any request pending under section 614(h)(1)(C) of the Communications Act of 1934 (47 U.S.C. 534(h)(1)(C)) on the date of enactment of this Act \[Feb. 8, 1996\]; and
 
-&emsp;“(B) any request filed under that section after that date.”
+&emsp;"(B) any request filed under that section after that date."
 

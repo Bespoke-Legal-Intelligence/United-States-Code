@@ -14,21 +14,21 @@ From the sums appropriated for any fiscal year for the purpose of the program au
 
 #### Prior Provisions
 
-A prior section 1096, Pub. L. 89–329, title IV, §489, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1453; amended Pub. L. 97–35, title V, §537(a)(2), Aug. 13, 1981, 95 Stat. 456, related to administrative expenses, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1096, Pub. L. 89–329, title IV, §489, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1453; amended Pub. L. 97–35, title V, §537(a)(2), Aug. 13, 1981, 95 Stat. 456, related to administrative expenses, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–39 substituted “has referred under section 1087cc(a)(4)(B)” for “has agreed to assign under section 1087cc(a)(6)(B)” and “1091(g)” for “1091(h)”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–39 substituted "has referred under section 1087cc(a)(4)(B)" for "has agreed to assign under section 1087cc(a)(6)(B)" and "1091(g)" for "1091(h)".
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315 substituted “administering” for “offsetting the administrative costs of”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315 substituted "administering" for "offsetting the administrative costs of".
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–208, §2(k)(6), repealed Pub. L. 102–325, §446(c). See 1992 Amendment note below.
 
-Pub. L. 103–208, §2(h)(44), substituted “1091(h) of this title” for “1091(c) of this title”.
+Pub. L. 103–208, §2(h)(44), substituted "1091(h) of this title" for "1091(c) of this title".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–325, §493(a)(3), substituted “subpart 3” for “subpart 2” in two places.
+<b>1992</b>—Subsec. (a). Pub. L. 102–325, §493(a)(3), substituted "subpart 3" for "subpart 2" in two places.
 
-Pub. L. 102–325, §493(a)(1), (2), struck out “(other than section 2756a of title 42)” before “, or under part D” in second sentence and struck out fourth sentence which read as follows: “The payment for a fiscal year for the purpose of subsection (b) of this section with respect to section 2756a of title 42 shall be payable from each allotment under part C of subchapter I of chapter 34 of title 42 in accordance with regulations of the Secretary, and shall be 10 percent of the institution's expenditures during such fiscal year under such section.”
+Pub. L. 102–325, §493(a)(1), (2), struck out "(other than section 2756a of title 42)" before ", or under part D" in second sentence and struck out fourth sentence which read as follows: "The payment for a fiscal year for the purpose of subsection (b) of this section with respect to section 2756a of title 42 shall be payable from each allotment under part C of subchapter I of chapter 34 of title 42 in accordance with regulations of the Secretary, and shall be 10 percent of the institution's expenditures during such fiscal year under such section."
 
 Pub. L. 102–325, §446(c), which directed amendment identical to amendment by Pub. L. 102–325, §493(a)(1), (2), above, was repealed by Pub. L. 103–208, §2(k)(6).
 

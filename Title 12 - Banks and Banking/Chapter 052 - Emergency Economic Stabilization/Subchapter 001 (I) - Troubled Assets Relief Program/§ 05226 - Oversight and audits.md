@@ -4,7 +4,7 @@
 
 #### (1) Scope of oversight
 
-&emsp;The Comptroller General of the United States shall, upon establishment of the troubled assets relief program <sup>1</sup> under this chapter (in this section referred to as the “TARP”), commence ongoing oversight of the activities and performance of the TARP and of any agents and representatives of the TARP (as related to the agent or representative's activities on behalf of or under the authority of the TARP), including vehicles established by the Secretary under this chapter. The subjects of such oversight shall include the following:
+&emsp;The Comptroller General of the United States shall, upon establishment of the troubled assets relief program <sup>1</sup> under this chapter (in this section referred to as the "TARP"), commence ongoing oversight of the activities and performance of the TARP and of any agents and representatives of the TARP (as related to the agent or representative's activities on behalf of or under the authority of the TARP), including vehicles established by the Secretary under this chapter. The subjects of such oversight shall include the following:
 
 &emsp;&emsp;(A) The performance of the TARP in meeting the purposes of this chapter, particularly those involving—
 
@@ -36,7 +36,7 @@
 
 #### (A) Definition
 
-&emsp;&emsp;In this paragraph, the term “governmental unit” has the meaning given under section 101(27) of title 11, and does not include any insured depository institution as defined under section 1813 of this title.
+&emsp;&emsp;In this paragraph, the term "governmental unit" has the meaning given under section 101(27) of title 11, and does not include any insured depository institution as defined under section 1813 of this title.
 
 #### (B) GAO presence
 
@@ -76,7 +76,7 @@
 
 #### (F) Reimbursement of costs
 
-&emsp;&emsp;The Treasury shall reimburse the Government Accountability Office for the full cost of any such oversight activities as billed therefor by the Comptroller General of the United States. Such reimbursements shall be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received and remain available until expended.
+&emsp;&emsp;The Treasury shall reimburse the Government Accountability Office for the full cost of any such oversight activities as billed therefor by the Comptroller General of the United States. Such reimbursements shall be credited to the appropriation account "Salaries and Expenses, Government Accountability Office" current when the payment is received and remain available until expended.
 
 #### (3) Reporting
 
@@ -86,7 +86,7 @@
 
 #### (1) Annual audit
 
-&emsp;The TARP shall annually prepare and issue to the appropriate committees of Congress and the public audited financial statements prepared in accordance with generally accepted accounting principles, and the Comptroller General shall annually audit such statements in accordance with generally accepted auditing standards. The Treasury shall reimburse the Government Accountability Office for the full cost of any such audit as billed therefor by the Comptroller General. Such reimbursements shall be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received and remain available until expended. The financial statements prepared under this paragraph shall be on the fiscal year basis prescribed under section 1102 of title 31.
+&emsp;The TARP shall annually prepare and issue to the appropriate committees of Congress and the public audited financial statements prepared in accordance with generally accepted accounting principles, and the Comptroller General shall annually audit such statements in accordance with generally accepted auditing standards. The Treasury shall reimburse the Government Accountability Office for the full cost of any such audit as billed therefor by the Comptroller General. Such reimbursements shall be credited to the appropriation account "Salaries and Expenses, Government Accountability Office" current when the payment is received and remain available until expended. The financial statements prepared under this paragraph shall be on the fiscal year basis prescribed under section 1102 of title 31.
 
 #### (2) Authority
 
@@ -136,7 +136,7 @@ Any oversight, reporting, or audit requirement under this section shall terminat
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(2), was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(2), was in the original "this Act" and was translated as reading "this division", meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
 Section 1204 of the Financial Institutions Reform, Recovery, and Enhancement Act of 1989, referred to in subsec. (a)(1)(H), probably means section 1204 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, Pub. L. 101–73, which is set out as a note under section 1811 of this title.
 
@@ -150,9 +150,9 @@ Section 5230 of this title, referred to in subsec. (a)(2)(B), was so in the orig
 
 Subsec. (a)(2). Pub. L. 111–22, §601(2), added subpars. (A) to (E), redesignated former subpar. (C) as (F), and struck out former subpars. (A) and (B) which related to GAO presence and access to records, respectively.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Troubled Asset Relief Program”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Troubled Asset Relief Program".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 

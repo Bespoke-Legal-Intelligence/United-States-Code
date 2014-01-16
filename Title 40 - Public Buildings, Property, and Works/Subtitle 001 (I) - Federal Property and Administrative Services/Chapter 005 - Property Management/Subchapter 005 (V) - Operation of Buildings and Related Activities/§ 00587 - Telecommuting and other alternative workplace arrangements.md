@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “telecommuting centers” means flexiplace work telecommuting centers.
+Definition.—In this section, the term "telecommuting centers" means flexiplace work telecommuting centers.
 
 (b)
 
@@ -34,7 +34,7 @@ Development of Alternative Workplace Arrangements by Executive Agencies and Othe
 
 &emsp;(1)
 
-Definition.—In this subsection, the term “alternative workplace arrangements” includes telecommuting, hoteling, virtual offices, and other distributive work arrangements.
+Definition.—In this subsection, the term "alternative workplace arrangements" includes telecommuting, hoteling, virtual offices, and other distributive work arrangements.
 
 &emsp;(2)
 
@@ -50,7 +50,7 @@ Amounts Available for Flexiplace Work Telecommuting Programs.—
 
 &emsp;(1)
 
-Definition.—In this subsection, the term “flexiplace work telecommuting program” means a program under which employees of a department or agency set out in paragraph (2) are permitted to perform all or a portion of their duties at a telecommuting center established under this section or other federal law.
+Definition.—In this subsection, the term "flexiplace work telecommuting program" means a program under which employees of a department or agency set out in paragraph (2) are permitted to perform all or a portion of their duties at a telecommuting center established under this section or other federal law.
 
 &emsp;(2)
 

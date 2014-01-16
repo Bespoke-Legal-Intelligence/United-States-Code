@@ -22,9 +22,9 @@ Violations of subsection (a) of this section shall be punishable by such civil p
 
 As used in this section—
 
-&emsp;(1) the term “permanent resident alien” means an alien lawfully admitted for permanent residence into the United States; and
+&emsp;(1) the term "permanent resident alien" means an alien lawfully admitted for permanent residence into the United States; and
 
-&emsp;(2) the term “United States agency” has the meaning given the term “agency” in section 551(1) of title 5.
+&emsp;(2) the term "United States agency" has the meaning given the term "agency" in section 551(1) of title 5.
 
 (Pub. L. 104–114, title I, §103, Mar. 12, 1996, 110 Stat. 794.)
 

@@ -22,13 +22,13 @@ The laws governing appointments in the civil service, referred to in par. (4), a
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–497 amended section generally. Prior to amendment, section read as follows: “In carrying out the purposes of this chapter, the Board may—
+<b>1984</b>—Pub. L. 98–497 amended section generally. Prior to amendment, section read as follows: "In carrying out the purposes of this chapter, the Board may—
 
-&emsp;“(1) adopt an official seal, which shall be judicially noticed;
+&emsp;"(1) adopt an official seal, which shall be judicially noticed;
 
-&emsp;“(2) appoint, or authorize the Chairman to appoint, without regard to the civil-service laws, necessary employees, and fix their duties; and
+&emsp;"(2) appoint, or authorize the Chairman to appoint, without regard to the civil-service laws, necessary employees, and fix their duties; and
 
-&emsp;“(3) adopt bylaws, rules, and regulations necessary for the administration of its functions under this chapter.”
+&emsp;"(3) adopt bylaws, rules, and regulations necessary for the administration of its functions under this chapter."
 
 #### Effective Date of 1984 Amendment
 

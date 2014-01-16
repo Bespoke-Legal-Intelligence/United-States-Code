@@ -17,7 +17,7 @@
 - [&sect; 00597 - Riverton project, Wyoming](%C2%A7%2000597%20-%20Riverton%20project%2C%20Wyoming.md)
 - [&sect; 00597a - Easements for Bull Lake Dam and Reservoir](%C2%A7%2000597a%20-%20Easements%20for%20Bull%20Lake%20Dam%20and%20Reservoir.md)
 - [&sect; 00597b - Compensation for easements](%C2%A7%2000597b%20-%20Compensation%20for%20easements.md)
-- [&sect; 00597c - Reservation of Indians&#8217; right to use lands](%C2%A7%2000597c%20-%20Reservation%20of%20Indians%E2%80%99%20right%20to%20use%20lands.md)
+- [&sect; 00597c - Reservation of Indians' right to use lands](%C2%A7%2000597c%20-%20Reservation%20of%20Indians%27%20right%20to%20use%20lands.md)
 - [&sect; 00597d - Regulations](%C2%A7%2000597d%20-%20Regulations.md)
 - [&sect; 00598 - Salt River project, Arizona; sale of water power](%C2%A7%2000598%20-%20Salt%20River%20project%2C%20Arizona%3B%20sale%20of%20water%20power.md)
 - [&sect; 00599 - Omitted](%C2%A7%2000599%20-%20Omitted.md)

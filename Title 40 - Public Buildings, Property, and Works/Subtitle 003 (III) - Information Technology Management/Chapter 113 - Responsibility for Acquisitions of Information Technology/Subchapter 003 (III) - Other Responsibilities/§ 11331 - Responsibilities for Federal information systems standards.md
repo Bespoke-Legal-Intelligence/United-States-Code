@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “information security” has the meaning given that term in section 3532(b)(1) of title 44.
+Definition.—In this section, the term "information security" has the meaning given that term in section 3532(b)(1) of title 44.
 
 (b)
 
@@ -74,121 +74,121 @@ Pub. L. 104–106, div. E, title LI, §5131(a)–(d), Feb. 10, 1996, 110 Stat. 6
 
 <b>2002</b>—Pub. L. 107–296 amended text generally. Prior to amendment, text, as amended generally by Pub. L. 107–347, read as follows:
 
-“(a)
+"(a)
 
 Standards and Guidelines.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Authority to prescribe.—Except as provided under paragraph (2), the Secretary of Commerce shall, on the basis of standards and guidelines developed by the National Institute of Standards and Technology pursuant to paragraphs (2) and (3) of section 20(a) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(a)), prescribe standards and guidelines pertaining to Federal information systems.
 
-&emsp;“(2)
+&emsp;"(2)
 
 National security systems.—Standards and guidelines for national security systems (as defined under this section) shall be developed, prescribed, enforced, and overseen as otherwise authorized by law and as directed by the President.
 
-“(b)
+"(b)
 
 Mandatory Requirements.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Authority to make mandatory.—Except as provided under paragraph (2), the Secretary shall make standards prescribed under subsection (a)(1) compulsory and binding to the extent determined necessary by the Secretary to improve the efficiency of operation or security of Federal information systems.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Required mandatory standards.—(A) Standards prescribed under subsection (a)(1) shall include information security standards that—
 
-&emsp;&emsp;“(i) provide minimum information security requirements as determined under section 20(b) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(b)); and
+&emsp;&emsp;"(i) provide minimum information security requirements as determined under section 20(b) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(b)); and
 
-&emsp;&emsp;“(ii) are otherwise necessary to improve the security of Federal information and information systems.
+&emsp;&emsp;"(ii) are otherwise necessary to improve the security of Federal information and information systems.
 
-&emsp;“(B) Information security standards described in subparagraph (A) shall be compulsory and binding.
+&emsp;"(B) Information security standards described in subparagraph (A) shall be compulsory and binding.
 
-“(c)
+"(c)
 
 Authority to Disapprove or Modify.—The President may disapprove or modify the standards and guidelines referred to in subsection (a)(1) if the President determines such action to be in the public interest. The President's authority to disapprove or modify such standards and guidelines may not be delegated. Notice of such disapproval or modification shall be published promptly in the Federal Register. Upon receiving notice of such disapproval or modification, the Secretary of Commerce shall immediately rescind or modify such standards or guidelines as directed by the President.
 
-“(d)
+"(d)
 
 Exercise of Authority.—To ensure fiscal and policy consistency, the Secretary shall exercise the authority conferred by this section subject to direction by the President and in coordination with the Director of the Office of Management and Budget.
 
-“(e)
+"(e)
 
 Application of More Stringent Standards.—The head of an executive agency may employ standards for the cost-effective information security for information systems within or under the supervision of that agency that are more stringent than the standards the Secretary prescribes under this section if the more stringent standards—
 
-&emsp;“(1) contain at least the applicable standards made compulsory and binding by the Secretary; and
+&emsp;"(1) contain at least the applicable standards made compulsory and binding by the Secretary; and
 
-&emsp;“(2) are otherwise consistent with policies and guidelines issued under section 3543 of title 44.
+&emsp;"(2) are otherwise consistent with policies and guidelines issued under section 3543 of title 44.
 
-“(f)
+"(f)
 
 Decisions on Promulgation of Standards.—The decision by the Secretary regarding the promulgation of any standard under this section shall occur not later than 6 months after the submission of the proposed standard to the Secretary by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3).
 
-“(g)
+"(g)
 
 Definitions.—In this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Federal information system.—The term ‘Federal information system’ means an information system used or operated by an executive agency, by a contractor of an executive agency, or by another organization on behalf of an executive agency.
+Federal information system.—The term 'Federal information system' means an information system used or operated by an executive agency, by a contractor of an executive agency, or by another organization on behalf of an executive agency.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Information security.—The term ‘information security’ has the meaning given that term in section 3542(b)(1) of title 44.
+Information security.—The term 'information security' has the meaning given that term in section 3542(b)(1) of title 44.
 
-&emsp;“(3)
+&emsp;"(3)
 
-National security system.—The term ‘national security system’ has the meaning given that term in section 3542(b)(2) of title 44.”
+National security system.—The term 'national security system' has the meaning given that term in section 3542(b)(2) of title 44."
 
-Pub. L. 107–347 substituted “Responsibilities for Federal information systems standards” for “Responsibilities regarding efficiency, security, and privacy of federal computer systems” in section catchline and amended text generally. Prior to amendment, text read as follows:
+Pub. L. 107–347 substituted "Responsibilities for Federal information systems standards" for "Responsibilities regarding efficiency, security, and privacy of federal computer systems" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
-“(a)
+"(a)
 
-Definitions.—In this section, the terms ‘federal computer system’ and ‘operator of a federal computer system’ have the meanings given those terms in section 20(d) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(d)).
+Definitions.—In this section, the terms 'federal computer system' and 'operator of a federal computer system' have the meanings given those terms in section 20(d) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(d)).
 
-“(b)
+"(b)
 
 Standards and Guidelines.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Authority to prescribe and disapprove or modify.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Authority to prescribe.—On the basis of standards and guidelines developed by the National Institute of Standards and Technology pursuant to paragraphs (2) and (3) of section 20(a) of the Act (15 U.S.C. 278g–3(a)(2), (3)), the Secretary of Commerce shall prescribe standards and guidelines pertaining to federal computer systems. The Secretary shall make those standards compulsory and binding to the extent the Secretary determines necessary to improve the efficiency of operation or security and privacy of federal computer systems.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Authority to disapprove or modify.—The President may disapprove or modify those standards and guidelines if the President determines that action to be in the public interest. The President's authority to disapprove or modify those standards and guidelines may not be delegated. Notice of disapproval or modification shall be published promptly in the Federal Register. On receiving notice of disapproval or modification, the Secretary shall immediately rescind or modify those standards or guidelines as directed by the President.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Exercise of authority.—To ensure fiscal and policy consistency, the Secretary shall exercise the authority conferred by this section subject to direction by the President and in coordination with the Director of the Office of Management and Budget.
 
-“(c)
+"(c)
 
 Application of More Stringent Standards.—The head of a federal agency may employ standards for the cost-effective security and privacy of sensitive information in a federal computer system in or under the supervision of that agency that are more stringent than the standards the Secretary prescribes under this section if the more stringent standards contain at least the applicable standards the Secretary makes compulsory and binding.
 
-“(d)
+"(d)
 
 Waiver of Standards.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Authority of the secretary.—The Secretary may waive in writing compulsory and binding standards under subsection (b) if the Secretary determines that compliance would—
 
-&emsp;&emsp;“(A) adversely affect the accomplishment of the mission of an operator of a federal computer system; or
+&emsp;&emsp;"(A) adversely affect the accomplishment of the mission of an operator of a federal computer system; or
 
-&emsp;&emsp;“(B) cause a major adverse financial impact on the operator that is not offset by Federal Government-wide savings.
+&emsp;&emsp;"(B) cause a major adverse financial impact on the operator that is not offset by Federal Government-wide savings.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Delegation of waiver authority.—The Secretary may delegate to the head of one or more federal agencies authority to waive those standards to the extent the Secretary determines that action to be necessary and desirable to allow for timely and effective implementation of federal computer system standards. The head of the agency may redelegate that authority only to a chief information officer designated pursuant to section 3506 of title 44.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Notice.—Notice of each waiver and delegation shall be transmitted promptly to Congress and published promptly in the Federal Register.”
+Notice.—Notice of each waiver and delegation shall be transmitted promptly to Congress and published promptly in the Federal Register."
 
 #### Effective Date of 2002 Amendments
 

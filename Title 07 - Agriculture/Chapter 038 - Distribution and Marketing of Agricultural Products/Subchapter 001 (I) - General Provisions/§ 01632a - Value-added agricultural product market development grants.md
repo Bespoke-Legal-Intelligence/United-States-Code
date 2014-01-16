@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Beginning farmer or rancher
 
-&emsp;The term “beginning farmer or rancher” has the meaning given the term in section 1991(a) of this title.
+&emsp;The term "beginning farmer or rancher" has the meaning given the term in section 1991(a) of this title.
 
 #### (2) Family farm
 
-&emsp;The term “family farm” has the meaning given the term in section 761.2 of title 7, Code of Federal Regulations (as in effect on December 30, 2007).
+&emsp;The term "family farm" has the meaning given the term in section 761.2 of title 7, Code of Federal Regulations (as in effect on December 30, 2007).
 
 #### (3) Mid-tier value chain
 
-&emsp;The term “mid-tier value chain” means local and regional supply networks that link independent producers with businesses and cooperatives that market value-added agricultural products in a manner that—
+&emsp;The term "mid-tier value chain" means local and regional supply networks that link independent producers with businesses and cooperatives that market value-added agricultural products in a manner that—
 
 &emsp;&emsp;(A) targets and strengthens the profitability and competitiveness of small and medium-sized farms and ranches that are structured as a family farm; and
 
@@ -22,11 +22,11 @@ In this section:
 
 #### (4) Socially disadvantaged farmer or rancher
 
-&emsp;The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2003(e) of this title.
+&emsp;The term "socially disadvantaged farmer or rancher" has the meaning given the term in section 2003(e) of this title.
 
 #### (5) Value-added agricultural product
 
-&emsp;The term “value-added agricultural product” means any agricultural commodity or product that—
+&emsp;The term "value-added agricultural product" means any agricultural commodity or product that—
 
 &emsp;&emsp;(A)(i) has undergone a change in physical state;
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (1) Establishment
 
-&emsp;Notwithstanding the limitation on grants in subsection (b)(2), the Secretary shall not use more than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the “Agricultural Marketing Resource Center”) at an eligible institution described in paragraph (2) that will—
+&emsp;Notwithstanding the limitation on grants in subsection (b)(2), the Secretary shall not use more than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the "Agricultural Marketing Resource Center") at an eligible institution described in paragraph (2) that will—
 
 &emsp;&emsp;(A) develop a resource center with electronic capabilities to coordinate and provide to independent producers and processors (as determined by the Secretary) of value-added agricultural commodities and products of agricultural commodities information regarding research, business, legal, financial, or logistical assistance; and
 
@@ -166,17 +166,17 @@ Section was formerly set out as a note under section 1621 of this title.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §6202(a), added subsec. (a) and struck out former subsec. (a) which defined “value-added agricultural product”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §6202(a), added subsec. (a) and struck out former subsec. (a) which defined "value-added agricultural product".
 
-Subsec. (b)(1). Pub. L. 110–246, §6202(b)(1), substituted “paragraph (7)” for “paragraph (4)” in introductory provisions.
+Subsec. (b)(1). Pub. L. 110–246, §6202(b)(1), substituted "paragraph (7)" for "paragraph (4)" in introductory provisions.
 
-Subsec. (b)(4) to (7). Pub. L. 110–246, §6202(b)(2), added pars. (4) to (7) and struck out former par. (4). Prior to amendment, text read as follows: “Not later than 30 days after May 13, 2002, on October 1, 2002, and on each October 1 thereafter through October 1, 2006, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $40,000,000, to remain available until expended.”
+Subsec. (b)(4) to (7). Pub. L. 110–246, §6202(b)(2), added pars. (4) to (7) and struck out former par. (4). Prior to amendment, text read as follows: "Not later than 30 days after May 13, 2002, on October 1, 2002, and on each October 1 thereafter through October 1, 2006, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $40,000,000, to remain available until expended."
 
 <b>2002</b>—Subsecs. (a), (b). Pub. L. 107–171, §6401(a)(2), added subsecs. (a) and (b) and struck out former subsec. (a) which related to establishment of grant program, maximum amount per grant recipient, and producer strategies. Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 107–171, §6401(a)(1), (3), redesignated subsec. (b) as (c) and, in par. (1), substituted “subsection (b)(2)” for “subsection (a)(2)”, “5 percent” for “$5,000,000”, and “subsection (b)” for “subsection (a)” in introductory provisions. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 107–171, §6401(a)(1), (3), redesignated subsec. (b) as (c) and, in par. (1), substituted "subsection (b)(2)" for "subsection (a)(2)", "5 percent" for "$5,000,000", and "subsection (b)" for "subsection (a)" in introductory provisions. Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 107–171, §6401(a)(4), which directed amendment of subsec. (d) by substituting “subsections (b) and (c)” for “subsections (a) and (b)”, could not be executed because that phrase does not appear.
+Subsec. (d). Pub. L. 107–171, §6401(a)(4), which directed amendment of subsec. (d) by substituting "subsections (b) and (c)" for "subsections (a) and (b)", could not be executed because that phrase does not appear.
 
 Pub. L. 107–171, §6401(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
@@ -190,11 +190,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 107–171, title VI, §6401(b), May 13, 2002, 116 Stat. 426, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] apply beginning on October 1, 2002.
 
-“(2)
+"(2)
 
-Funding.—Funds made available under section 231(b)(4)(A)(i) \[probably should be 231(b)(4)\] of the Agricultural Risk Protection Act of 2000 \[7 U.S.C. 1632a(b)(4)\] (as amended by subsection (a)(2)) shall be made available not later than 30 days after the date of enactment of this Act \[May 13, 2002\].”
+Funding.—Funds made available under section 231(b)(4)(A)(i) \[probably should be 231(b)(4)\] of the Agricultural Risk Protection Act of 2000 \[7 U.S.C. 1632a(b)(4)\] (as amended by subsection (a)(2)) shall be made available not later than 30 days after the date of enactment of this Act \[May 13, 2002\]."
 

@@ -4,45 +4,45 @@ In this chapter:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere in the Under Secretary's capacity as Administrator of the National Oceanic and Atmospheric Administration.
+&emsp;The term "Administrator" means the Under Secretary of Commerce for Oceans and Atmosphere in the Under Secretary's capacity as Administrator of the National Oceanic and Atmospheric Administration.
 
 #### (2) Council
 
-&emsp;The term “Council” means the National Ocean Research Leadership Council established by section 7902 of title 10.
+&emsp;The term "Council" means the National Ocean Research Leadership Council established by section 7902 of title 10.
 
 #### (3) Federal assets
 
-&emsp;The term “Federal assets” means all relevant non-classified civilian coastal and ocean observations, technologies, and related modeling, research, data management, basic and applied technology research and development, and public education and outreach programs, that are managed by member agencies of the Council.
+&emsp;The term "Federal assets" means all relevant non-classified civilian coastal and ocean observations, technologies, and related modeling, research, data management, basic and applied technology research and development, and public education and outreach programs, that are managed by member agencies of the Council.
 
 #### (4) Interagency Ocean Observation Committee
 
-&emsp;The term “Interagency Ocean Observation Committee” means the committee established under section 3603(c)(2) of this title.
+&emsp;The term "Interagency Ocean Observation Committee" means the committee established under section 3603(c)(2) of this title.
 
 #### (5) Non-Federal assets
 
-&emsp;The term “non-Federal assets” means all relevant coastal and ocean observation technologies, related basic and applied technology research and development, and public education and outreach programs that are integrated into the System and are managed through States, regional organizations, universities, nongovernmental organizations, or the private sector.
+&emsp;The term "non-Federal assets" means all relevant coastal and ocean observation technologies, related basic and applied technology research and development, and public education and outreach programs that are integrated into the System and are managed through States, regional organizations, universities, nongovernmental organizations, or the private sector.
 
 #### (6) Regional information coordination entities
 
 #### (A) In general
 
-&emsp;&emsp;The term “regional information coordination entity” means an organizational body that is certified or established by contract or memorandum by the lead Federal agency designated in section 3603(c)(3) of this title and coordinates State, Federal, local, and private interests at a regional level with the responsibility of engaging the private and public sectors in designing, operating, and improving regional coastal and ocean observing systems in order to ensure the provision of data and information that meet the needs of user groups from the respective regions.
+&emsp;&emsp;The term "regional information coordination entity" means an organizational body that is certified or established by contract or memorandum by the lead Federal agency designated in section 3603(c)(3) of this title and coordinates State, Federal, local, and private interests at a regional level with the responsibility of engaging the private and public sectors in designing, operating, and improving regional coastal and ocean observing systems in order to ensure the provision of data and information that meet the needs of user groups from the respective regions.
 
 #### (B) Certain included associations
 
-&emsp;&emsp;The term “regional information coordination entity” includes regional associations described in the System Plan.
+&emsp;&emsp;The term "regional information coordination entity" includes regional associations described in the System Plan.
 
 #### (7) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Commerce, acting through the National Oceanic and Atmospheric Administration.
+&emsp;The term "Secretary" means the Secretary of Commerce, acting through the National Oceanic and Atmospheric Administration.
 
 #### (8) System
 
-&emsp;The term “System” means the National Integrated Coastal and Ocean Observation System established under section 3603 of this title.
+&emsp;The term "System" means the National Integrated Coastal and Ocean Observation System established under section 3603 of this title.
 
 #### (9) System Plan
 
-&emsp;The term “System Plan” means the plan contained in the document entitled “Ocean. US Publication No. 9, The First Integrated Ocean Observing System (IOOS) Development Plan”, as updated by the Council under this chapter.
+&emsp;The term "System Plan" means the plan contained in the document entitled "Ocean. US Publication No. 9, The First Integrated Ocean Observing System (IOOS) Development Plan", as updated by the Council under this chapter.
 
 (Pub. L. 111–11, title XII, §12303, Mar. 30, 2009, 123 Stat. 1428.)
 

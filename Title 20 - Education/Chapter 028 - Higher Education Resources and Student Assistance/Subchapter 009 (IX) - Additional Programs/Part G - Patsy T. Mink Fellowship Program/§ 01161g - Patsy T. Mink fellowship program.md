@@ -8,11 +8,11 @@
 
 #### (2) Designation
 
-&emsp;Each recipient of a fellowship award from an eligible institution receiving a grant under this section shall be known as a “Patsy T. Mink Graduate Fellow”.
+&emsp;Each recipient of a fellowship award from an eligible institution receiving a grant under this section shall be known as a "Patsy T. Mink Graduate Fellow".
 
 #### (b) Eligible institution
 
-In this section, the term “eligible institution” means an institution of higher education, or a consortium of such institutions, that offers a program of postbaccalaureate study leading to a graduate degree.
+In this section, the term "eligible institution" means an institution of higher education, or a consortium of such institutions, that offers a program of postbaccalaureate study leading to a graduate degree.
 
 #### (c) Program authorized
 

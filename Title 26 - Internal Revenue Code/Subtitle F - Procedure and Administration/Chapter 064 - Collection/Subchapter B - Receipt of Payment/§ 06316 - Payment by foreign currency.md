@@ -6,5 +6,5 @@ The Secretary is authorized in his discretion to allow payment of taxes in the c
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” in two places.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" in two places.
 

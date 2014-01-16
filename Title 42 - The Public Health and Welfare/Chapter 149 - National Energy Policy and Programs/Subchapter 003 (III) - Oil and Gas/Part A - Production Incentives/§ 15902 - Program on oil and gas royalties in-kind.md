@@ -22,7 +22,7 @@ All royalty accruing to the United States shall, on the demand of the Secretary,
 
 #### (A) Definition of marketable condition
 
-&emsp;&emsp;In this paragraph, the term “in marketable condition” means sufficiently free from impurities and otherwise in a condition that the royalty production will be accepted by a purchaser under a sales contract typical of the field or area in which the royalty production was produced.
+&emsp;&emsp;In this paragraph, the term "in marketable condition" means sufficiently free from impurities and otherwise in a condition that the royalty production will be accepted by a purchaser under a sales contract typical of the field or area in which the royalty production was produced.
 
 #### (B) Requirement
 
@@ -38,7 +38,7 @@ All royalty accruing to the United States shall, on the demand of the Secretary,
 
 #### (4) Retention by the Secretary
 
-&emsp;The Secretary may, notwithstanding section 3302 of title 31, retain and use a portion of the revenues from the sale of oil and gas taken in-kind that otherwise would be deposited to miscellaneous receipts, without regard to fiscal year limitation, or may use oil or gas received as royalty taken in-kind (referred to in this paragraph as “royalty production”) to pay the cost of—
+&emsp;The Secretary may, notwithstanding section 3302 of title 31, retain and use a portion of the revenues from the sale of oil and gas taken in-kind that otherwise would be deposited to miscellaneous receipts, without regard to fiscal year limitation, or may use oil or gas received as royalty taken in-kind (referred to in this paragraph as "royalty production") to pay the cost of—
 
 &emsp;&emsp;(A) transporting the royalty production;
 
@@ -150,7 +150,7 @@ The Secretary—
 
 #### References in Text
 
-This part, referred to in subsec. (g)(1), was in the original “this subtitle”, meaning subtitle E (§§341–357) of title III of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 697, which enacted this part, amended sections 6504, 6506a, 6507, and 6508 of this title, sections 184 and 226 of Title 30, Mineral Lands and Mining, and section 1337 of Title 43, Public Lands, and enacted provisions set out as a note under section 226 of Title 30. For complete classification of subtitle E to the Code, see Tables.
+This part, referred to in subsec. (g)(1), was in the original "this subtitle", meaning subtitle E (§§341–357) of title III of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 697, which enacted this part, amended sections 6504, 6506a, 6507, and 6508 of this title, sections 184 and 226 of Title 30, Mineral Lands and Mining, and section 1337 of Title 43, Public Lands, and enacted provisions set out as a note under section 226 of Title 30. For complete classification of subtitle E to the Code, see Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

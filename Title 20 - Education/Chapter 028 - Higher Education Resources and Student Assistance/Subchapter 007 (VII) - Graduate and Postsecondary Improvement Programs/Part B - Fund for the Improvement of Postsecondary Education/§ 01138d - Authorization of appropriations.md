@@ -10,9 +10,9 @@ A prior section 1138d, Pub. L. 89–329, title XI, §1145, as added Pub. L. 102�
 
 A prior section 745 of Pub. L. 89–329 was classified to section 1132c–4 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 1138e, Pub. L. 89–329, title XI, §1146, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 791, defined terms “institution of higher education” and “public community agency”, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
+A prior section 1138e, Pub. L. 89–329, title XI, §1146, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 791, defined terms "institution of higher education" and "public community agency", prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–315 substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$30,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+<b>2008</b>—Pub. L. 110–315 substituted "such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years" for "$30,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years".
 

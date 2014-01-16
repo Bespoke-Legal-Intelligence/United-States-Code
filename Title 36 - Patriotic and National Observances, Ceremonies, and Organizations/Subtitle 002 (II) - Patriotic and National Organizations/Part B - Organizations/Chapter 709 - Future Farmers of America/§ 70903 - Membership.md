@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 Aug. 30, 1950, ch. 823, §6, 64 Stat. 565.
 
-In subsection (b), the words “In matters of” are substituted for “In the conduct of” for clarity and to eliminate unnecessary words.
+In subsection (b), the words "In matters of" are substituted for "In the conduct of" for clarity and to eliminate unnecessary words.
 

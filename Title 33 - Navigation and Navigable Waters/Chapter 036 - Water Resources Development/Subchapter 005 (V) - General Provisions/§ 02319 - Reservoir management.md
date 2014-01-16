@@ -10,13 +10,13 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–303, §233(1), struck out heading and text of subsec. (a). Text read as follows: “Not later than 2 years after November 28, 1990, the Secretary shall establish for major reservoirs under the jurisdiction of the Corps of Engineers a technical advisory committee to provide to the Secretary and Corps of Engineers recommendations on reservoir monitoring and options for reservoir research. The Secretary shall determine the membership of the committee, except that the Secretary may not appoint more than 6 members and shall ensure a predominance of members with appropriate academic, technical, or scientific qualifications. Members shall serve without pay, and the Secretary shall provide any necessary facilities, staff, and other support services in accordance with the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.).”
+<b>1996</b>—Subsec. (a). Pub. L. 104–303, §233(1), struck out heading and text of subsec. (a). Text read as follows: "Not later than 2 years after November 28, 1990, the Secretary shall establish for major reservoirs under the jurisdiction of the Corps of Engineers a technical advisory committee to provide to the Secretary and Corps of Engineers recommendations on reservoir monitoring and options for reservoir research. The Secretary shall determine the membership of the committee, except that the Secretary may not appoint more than 6 members and shall ensure a predominance of members with appropriate academic, technical, or scientific qualifications. Members shall serve without pay, and the Secretary shall provide any necessary facilities, staff, and other support services in accordance with the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.)."
 
-Subsec. (b). Pub. L. 104–303, §233(2), struck out “(b)
+Subsec. (b). Pub. L. 104–303, §233(2), struck out "(b)
 
-Public Participation.—” before “The Secretary shall ensure”, and substituted “section” for “subsection” in two places.
+Public Participation.—" before "The Secretary shall ensure", and substituted "section" for "subsection" in two places.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 

@@ -10,5 +10,5 @@ Each State or unit of local government which receives a grant under this subchap
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–189 struck out subsec. (a) designation and heading “Reports to Attorney General” before “Each State” and struck out subsec. (b) which required the Attorney General to submit reports to Congress on grant amounts and activities.
+<b>2012</b>—Pub. L. 112–189 struck out subsec. (a) designation and heading "Reports to Attorney General" before "Each State" and struck out subsec. (b) which required the Attorney General to submit reports to Congress on grant amounts and activities.
 

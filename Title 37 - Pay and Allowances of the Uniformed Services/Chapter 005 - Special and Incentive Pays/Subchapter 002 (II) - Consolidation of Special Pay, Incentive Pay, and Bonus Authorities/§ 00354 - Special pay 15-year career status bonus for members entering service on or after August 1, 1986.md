@@ -10,7 +10,7 @@ Availability of Bonus.—The Secretary concerned shall pay a bonus under this se
 
 (b)
 
-Eligible Career Bonus Member Defined.—In this section, the term “eligible career bonus member” means a member of a uniformed service serving on active duty who—
+Eligible Career Bonus Member Defined.—In this section, the term "eligible career bonus member" means a member of a uniformed service serving on active duty who—
 
 &emsp;(1) first became a member on or after August 1, 1986; and
 
@@ -42,7 +42,7 @@ Amount of Bonus; Payment.—(1) A bonus under this section shall be equal to $30
 
 &emsp;(B) January 15 of each succeeding calendar year.
 
-(4) The lump sum payment of the bonus, and the first installment payment in the case of members who elect to receive the bonus in installments, shall be paid to an eligible career bonus member not later than the first month that begins on or after the date that is 60 days after the date on which the Secretary concernedreceives from the member the election required under subsection (a)(1) and the written agreement required under subsection (a)(2), if applicable.
+(4) The lump sum payment of the bonus, and the first installment payment in the case of members who elect to receive the bonus in installments, shall be paid to an eligible career bonus member not later than the first month that begins on or after the date that is 60 days after the date on which the Secretary concerned receives from the member the election required under subsection (a)(1) and the written agreement required under subsection (a)(2), if applicable.
 
 (e)
 
@@ -64,13 +64,13 @@ Repayment.—If a person paid a bonus under this section does not complete a per
 
 <b>2008</b>—Pub. L. 110–181, §661(b)(1), renumbered section 322 of this title as this section.
 
-Subsec. (f). Pub. L. 110–181, §661(b)(2), substituted “section 373” for “section 303a(e)”.
+Subsec. (f). Pub. L. 110–181, §661(b)(2), substituted "section 373" for "section 303a(e)".
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–163, amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when person elects to receive bonus to remain continuously on active duty until completion of 20 years but fails to complete total period.
 
-<b>2001</b>—Subsec. (d)(1). Pub. L. 107–107, §620(a)(1), substituted “equal to $30,000” for “paid in a single lump sum of $30,000”.
+<b>2001</b>—Subsec. (d)(1). Pub. L. 107–107, §620(a)(1), substituted "equal to $30,000" for "paid in a single lump sum of $30,000".
 
-Subsec. (d)(2) to (4). Pub. L. 107–107, §620(a)(2), (3), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted therein “The lump sum payment of the bonus, and the first installment payment in the case of members who elect to receive the bonus in installments,” for “The bonus”.
+Subsec. (d)(2) to (4). Pub. L. 107–107, §620(a)(2), (3), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted therein "The lump sum payment of the bonus, and the first installment payment in the case of members who elect to receive the bonus in installments," for "The bonus".
 
 #### Effective Date
 
@@ -82,5 +82,5 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 #### Application to Existing Agreements
 
-Pub. L. 107–107, div. A, title VI, §620(b), Dec. 28, 2001, 115 Stat. 1139, provided that: “The Secretary concerned (as defined in section 101(5) of title 37, United States Code) shall extend to each member of the uniformed services who has executed the written agreement required by subsection (a)(2) of section 322 \[now 354\] of such title before the date of the enactment of this Act \[Dec. 28, 2001\], but who has not received the lump sum payment by that date, an opportunity to make the election authorized by subsection (d) of such section, as amended by this section.”
+Pub. L. 107–107, div. A, title VI, §620(b), Dec. 28, 2001, 115 Stat. 1139, provided that: "The Secretary concerned (as defined in section 101(5) of title 37, United States Code) shall extend to each member of the uniformed services who has executed the written agreement required by subsection (a)(2) of section 322 \[now 354\] of such title before the date of the enactment of this Act \[Dec. 28, 2001\], but who has not received the lump sum payment by that date, an opportunity to make the election authorized by subsection (d) of such section, as amended by this section."
 

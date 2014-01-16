@@ -52,7 +52,7 @@ The Secretary is authorized—
 
 #### (4) Definition of eligible school
 
-&emsp;In this subsection, the term “eligible school” means a public middle school or secondary school, including a charter school, that has implemented comprehensive reforms that have been effective in lowering school dropout rates for all students—
+&emsp;In this subsection, the term "eligible school" means a public middle school or secondary school, including a charter school, that has implemented comprehensive reforms that have been effective in lowering school dropout rates for all students—
 
 &emsp;&emsp;(A) in that secondary school or charter school; or
 
@@ -82,7 +82,7 @@ The Secretary is authorized—
 
 #### (2) Definition of eligible entity
 
-&emsp;In this subsection, the term “eligible entity” means an entity that, prior to January 8, 2002—
+&emsp;In this subsection, the term "eligible entity" means an entity that, prior to January 8, 2002—
 
 &emsp;&emsp;(A) provided training, technical assistance, and materials related to school dropout prevention or reentry to 100 or more elementary schools or secondary schools; and
 

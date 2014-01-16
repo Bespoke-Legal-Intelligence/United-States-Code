@@ -4,7 +4,7 @@
 
 A State or unit of local government that receives a grant under this subchapter shall use the grant to do any one or more of the following:
 
-&emsp;(1) To carry out all or a substantial part of a program intended to improve the quality and timeliness of forensic science or medical examiner services in the State, including such services provided by the laboratories operated by the State and those operated by units of local government within the State.
+&emsp;(1) To carry out all or a substantial part of a program intended to improve the qualityand timeliness of forensic science or medical examiner services in the State, including such services provided by the laboratories operated by the State and those operated by units of local government within the State.
 
 &emsp;(2) To eliminate a backlog in the analysis of forensic science evidence, including firearms examination, latent prints, toxicology, controlled substances, forensic pathology, questionable documents, and trace evidence.
 
@@ -48,17 +48,17 @@ For purposes of this section, a backlog in the analysis of forensic science evid
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–405, §311(a)(1), substituted “shall use the grant to do any one or more of the following:
+<b>2004</b>—Subsec. (a). Pub. L. 108–405, §311(a)(1), substituted "shall use the grant to do any one or more of the following:
 
-&emsp;“(1) To carry out”
+&emsp;"(1) To carry out"
 
-> for “shall use the grant to carry out” and added pars. (2) and (3).
+> for "shall use the grant to carry out" and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 108–405, §311(a)(2), substituted “for the purpose set forth in subsection (a)(1) of this section” for “under this subchapter” in introductory provisions.
+Subsec. (b). Pub. L. 108–405, §311(a)(2), substituted "for the purpose set forth in subsection (a)(1) of this section" for "under this subchapter" in introductory provisions.
 
 Subsec. (e). Pub. L. 108–405, §311(a)(3), added subsec. (e).
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–273, §5001(b)(4)(A), inserted “or unit of local government” after “A State”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, §5001(b)(4)(A), inserted "or unit of local government" after "A State".
 
-Subsec. (c)(1). Pub. L. 107–273, §5001(b)(4)(B), inserted “(including grants received by units of local government within a State)” after “under this subchapter”.
+Subsec. (c)(1). Pub. L. 107–273, §5001(b)(4)(B), inserted "(including grants received by units of local government within a State)" after "under this subchapter".
 

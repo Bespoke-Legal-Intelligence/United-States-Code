@@ -76,7 +76,7 @@ In this section:
 
 &emsp;&emsp;&emsp;The Secretary may require a recipient of a grant under this section—
 
-&emsp;&emsp;&emsp;&emsp;(I) to make a matching contribution of not more than 50 percent of the total cost of the proposed project for which the grant is awarded; and
+&emsp;&emsp;&emsp;&emsp;(I) to make a matching contribution of not more than 50 percent of the totalcost of the proposed project for which the grant is awarded; and
 
 &emsp;&emsp;&emsp;&emsp;(II) to repay to the Secretary the amount of the grant (or a portion thereof), interest on such amount at an appropriate rate, and such charges for administration of the grant as the Secretary determines appropriate.
 

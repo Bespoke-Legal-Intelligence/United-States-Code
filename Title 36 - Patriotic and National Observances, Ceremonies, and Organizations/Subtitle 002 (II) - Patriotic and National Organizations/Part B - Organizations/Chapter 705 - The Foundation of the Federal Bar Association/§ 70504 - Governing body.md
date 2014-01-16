@@ -40,5 +40,5 @@ Aug. 24, 1954, ch. 911, §§7, 8, 68 Stat. 798.
 
 &nbsp;
 
-In subsection (a), the names of the directors for 1954 and the language about their initial terms are omitted as obsolete. In paragraph (2), the words “caused by expiration of the members’ terms or otherwise” are omitted as unnecessary.
+In subsection (a), the names of the directors for 1954 and the language about their initial terms are omitted as obsolete. In paragraph (2), the words "caused by expiration of the members' terms or otherwise" are omitted as unnecessary.
 

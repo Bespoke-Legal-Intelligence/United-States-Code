@@ -42,9 +42,9 @@ Aug. 8, 1985, Pub. L. 99–83, §552, 99 Stat. 226.
 
 49 App.:1515a(c), (d).
 
-In subsection (a)(3), the words “take the necessary steps to” are omitted as surplus.
+In subsection (a)(3), the words "take the necessary steps to" are omitted as surplus.
 
-In subsection (b), the words “all” and “the requirements of” are omitted as surplus.
+In subsection (b), the words "all" and "the requirements of" are omitted as surplus.
 
 Subsection (c) is substituted for 49 App.:1515a(c) and (d) to eliminate unnecessary words.
 
@@ -56,5 +56,5 @@ The Arms Export Control Act, referred to in subsec. (b), is Pub. L. 90–629, Oc
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “shall publish the advisory in the Federal Register; and”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted "and" at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "shall publish the advisory in the Federal Register; and".
 

@@ -42,11 +42,11 @@ United States Court of Military Commission Review.—(1) No person may attempt t
 
 &emsp;(C) The appellate military judge is reassigned to other duties by the Secretary of Defense, or the designee of the Secretary, in consultation with the Judge Advocate General of the armed force of which the appellate military judge is a member, based on military necessity and such reassignment is consistent with service rotation regulations (to the extent such regulations are applicable).
 
-&emsp;(D) The appellate military judge is withdrawn by the Secretary of Defense, or the designee of the Secretary, in consultation with the Judge Advocate General of the armed force of which the appellate military judge is a member, for good cause consistent with applicable procedures under chapter 47 of this title (the Uniform Code of Military Justice).
+&emsp;(D) The appellate military judge is withdrawn by the Secretary of Defense, or the designee of the Secretary, in consultation with the Judge Advocate General of the armedforce of which the appellate military judge is a member, for good cause consistent with applicable procedures under chapter 47 of this title (the Uniform Code of Military Justice).
 
 (c)
 
-Prohibition on Consideration of Actions on Commission in Evaluation of Fitness.—In the preparation of an effectiveness, fitness, orefficiency report or any other report or document used in whole or in part for the purpose of determining whether a commissioned officer of the armed forces is qualified to be advanced in grade, or in determining the assignment or transfer of any such officer or whether any such officer should be retained on active duty, no person may—
+Prohibition on Consideration of Actions on Commission in Evaluation of Fitness.—In the preparation of an effectiveness, fitness, or efficiency report or any other report or document used in whole or in part for the purpose of determining whether a commissioned officer of the armed forces is qualified to be advanced in grade, or in determining the assignment or transfer of any such officer or whether any such officer should be retained on active duty, no person may—
 
 &emsp;(1) consider or evaluate the performance of duty of any member of a military commission under this chapter; or
 
@@ -60,9 +60,9 @@ A prior section 949b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1)(A). Pub. L. 112–81, §1034(b)(1), substituted “a judge on” for “a military appellate judge or other duly appointed judge under this chapter on”.
+<b>2011</b>—Subsec. (b)(1)(A). Pub. L. 112–81, §1034(b)(1), substituted "a judge on" for "a military appellate judge or other duly appointed judge under this chapter on".
 
-Subsec. (b)(2). Pub. L. 112–81, §1034(b)(2), substituted “a judge on” for “a military appellate judge on”.
+Subsec. (b)(2). Pub. L. 112–81, §1034(b)(2), substituted "a judge on" for "a military appellate judge on".
 
-Subsec. (b)(3)(B). Pub. L. 112–81, §1034(b)(3), substituted “a judge on” for “an appellate military judge or a duly appointed appellate judge on”.
+Subsec. (b)(3)(B). Pub. L. 112–81, §1034(b)(3), substituted "a judge on" for "an appellate military judge or a duly appointed appellate judge on".
 

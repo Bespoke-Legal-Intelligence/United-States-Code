@@ -6,25 +6,25 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “applied silvicultural assessment” means any vegetative or other treatment carried out for information gathering and research purposes.
+&emsp;&emsp;The term "applied silvicultural assessment" means any vegetative or other treatment carried out for information gathering and research purposes.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “applied silvicultural assessment” includes timber harvesting, thinning, prescribed burning, pruning, and any combination of those activities.
+&emsp;&emsp;The term "applied silvicultural assessment" includes timber harvesting, thinning, prescribed burning, pruning, and any combination of those activities.
 
 #### (2) 1890 Institution
 
 #### (A) In general
 
-&emsp;&emsp;The term “1890 Institution” means a college or university that is eligible to receivefunds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.).
+&emsp;&emsp;The term "1890 Institution" means a college or university that is eligible to receive funds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.).
 
 #### (B) Inclusion
 
-&emsp;&emsp;The term “1890 Institution” includes Tuskegee University.
+&emsp;&emsp;The term "1890 Institution" includes Tuskegee University.
 
 #### (3) Forest-damaging insect
 
-&emsp;The term “forest-damaging insect” means—
+&emsp;The term "forest-damaging insect" means—
 
 &emsp;&emsp;(A) a Southern pine beetle;
 
@@ -46,7 +46,7 @@ In this subchapter:
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means—
+&emsp;The term "Secretary" means—
 
 &emsp;&emsp;(A) the Secretary of Agriculture, acting through the Forest Service, with respect to National Forest System land; and
 

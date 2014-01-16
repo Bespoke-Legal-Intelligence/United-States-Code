@@ -24,5 +24,5 @@ Nothing in this chapter shall be construed to limit the authority of the Secreta
 
 (Pub. L. 101–630, title III, §316, Nov. 28, 1990, 104 Stat. 4543.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

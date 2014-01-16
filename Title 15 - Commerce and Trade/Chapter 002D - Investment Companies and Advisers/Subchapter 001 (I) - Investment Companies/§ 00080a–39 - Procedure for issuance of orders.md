@@ -16,7 +16,7 @@ In any proceeding before the Commission, the Commission, in accordance with such
 
 #### Amendments
 
-<b>1960</b>—Subsec. (a). Pub. L. 86–507 inserted “or certified mail” after “registered mail”.
+<b>1960</b>—Subsec. (a). Pub. L. 86–507 inserted "or certified mail" after "registered mail".
 
 #### Transfer of Functions
 

@@ -23,17 +23,17 @@ Subpart E—Rules for Computing Investment Credit
 
 <b>2005</b>—Pub. L. 109–58, title XIII, §1307(c)(2), Aug. 8, 2005, 119 Stat. 1006, added items 48A and 48B.
 
-<b>2004</b>—Pub. L. 108–357, title III, §322(d)(2)(C), Oct. 22, 2004, 118 Stat. 1475, which directed amendment of item 48 by striking out “, reforestation credit”, was executed by striking out “; reforestation credit” after “Energy credit” to reflect the probable intent of Congress.
+<b>2004</b>—Pub. L. 108–357, title III, §322(d)(2)(C), Oct. 22, 2004, 118 Stat. 1475, which directed amendment of item 48 by striking out ", reforestation credit", was executed by striking out "; reforestation credit" after "Energy credit" to reflect the probable intent of Congress.
 
-<b>1990</b>—Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–536, amended heading and analysis generally, substituting in heading “Investment Credit” for “Credit for Investment in Certain Depreciable Property”, in item 47 “Rehabilitation Credit” for “Certain dispositions, etc., of section 38 property”, in item 48 “Energy credit; reforestation credit” for “Definitions; special rules”, in item 49 “At-risk rules” for “Termination of regular percentage”, and adding item 50.
+<b>1990</b>—Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–536, amended heading and analysis generally, substituting in heading "Investment Credit" for "Credit for Investment in Certain Depreciable Property", in item 47 "Rehabilitation Credit" for "Certain dispositions, etc., of section 38 property", in item 48 "Energy credit; reforestation credit" for "Definitions; special rules", in item 49 "At-risk rules" for "Termination of regular percentage", and adding item 50.
 
 <b>1986</b>—Pub. L. 99–514, title II, §211(c), Oct. 22, 1986, 100 Stat. 2168, added item 49.
 
-<b>1984</b>—Pub. L. 98–369, div. A, title IV, §474(n)(1), July 18, 1984, 98 Stat. 833, substituted “E” for “B” as subpart designation.
+<b>1984</b>—Pub. L. 98–369, div. A, title IV, §474(n)(1), July 18, 1984, 98 Stat. 833, substituted "E" for "B" as subpart designation.
 
-<b>1978</b>—Pub. L. 95–600, title III, §312(c)(5), Nov. 6, 1978, 92 Stat. 2826, struck out item 49 “Termination for period beginning April 19, 1969, and ending during 1971” and item 50 “Restoration of credit”.
+<b>1978</b>—Pub. L. 95–600, title III, §312(c)(5), Nov. 6, 1978, 92 Stat. 2826, struck out item 49 "Termination for period beginning April 19, 1969, and ending during 1971" and item 50 "Restoration of credit".
 
-<b>1971</b>—Pub. L. 92–178, title I, §101(b)(5), Dec. 10, 1971, 85 Stat. 499, substituted “Termination for period beginning April 19, 1969, and ending during 1971” for “Termination of credit” in item 49 and added item 50.
+<b>1971</b>—Pub. L. 92–178, title I, §101(b)(5), Dec. 10, 1971, 85 Stat. 499, substituted "Termination for period beginning April 19, 1969, and ending during 1971" for "Termination of credit" in item 49 and added item 50.
 
 <b>1969</b>—Pub. L. 91–172, title VII, §703(d), Dec. 30, 1969, 83 Stat. 667, added item 49.
 

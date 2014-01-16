@@ -14,7 +14,7 @@ Purposes.—The purposes of the policy and plans required under subsection (a) a
 
 &emsp;(3) To ensure that the military family readiness programs and activities of the Department of Defense are available to all military families, including military families of members of the regular components and military families of members of the reserve components.
 
-&emsp;(4) To make military family readiness an explicit element of applicable Department of Defense plans, programs, and budgeting activities, and that achievement of military family readiness is expressed through Department-wide goals that are identifiable and measurable.
+&emsp;(4) To make military family readiness an explicit element of applicable Department of Defense plans, programs, and budgeting activities, and that achievement of military familyreadiness is expressed through Department-wide goals that are identifiable and measurable.
 
 &emsp;(5) To ensure that the military family readiness programs and activities of the Department of Defense undergo continuous evaluation in order to ensure that resources are allocated and expended for such programs and activities to achieve Department-wide family readiness goals.
 
@@ -40,5 +40,5 @@ Annual Report.—Not later than March 1 each year, the Secretary of Defense shal
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d). Pub. L. 111–383 substituted “March 1 each year” for “March 1, 2008, and each year thereafter”.
+<b>2011</b>—Subsec. (d). Pub. L. 111–383 substituted "March 1 each year" for "March 1, 2008, and each year thereafter".
 

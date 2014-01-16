@@ -2,7 +2,7 @@
 
 #### (a) Establishment; appointment of Ombudsman; functions
 
-There is established within the Commission an Office of Ombudsman, to be directed by an Ombudsman, who shall be appointed by the Commission. It shall be the function of the Office of Ombudsman to receive individual complaints, grievances, requests, and suggestions of employees (and their dependents) of the Commissionand other departments and agencies of the United States, including the Smithsonian Institution, conducting operations before October 1, 1979, in the area then comprising the Canal Zone concerning administrative problems, inefficiencies, and conflicts caused within departments and agencies of the United States, including the Smithsonian Institution, as a result of the implementation of the Panama Canal Treaty of 1977 and related agreements.
+There is established within the Commission an Office of Ombudsman, to be directed by an Ombudsman, who shall be appointed by the Commission. It shall be the function of the Office of Ombudsman to receive individual complaints, grievances, requests, and suggestions of employees (and their dependents) of the Commission and other departments and agencies of the United States, including the Smithsonian Institution, conducting operations before October 1, 1979, in the area then comprising the Canal Zone concerning administrative problems, inefficiencies, and conflicts caused within departments and agencies of the United States, including the Smithsonian Institution, as a result of the implementation of the Panama Canal Treaty of 1977 and related agreements.
 
 #### (b) Authority to make findings, render assistance, and offer recommendations
 
@@ -20,9 +20,9 @@ The Office of Ombudsman shall terminate upon the termination of the Panama Canal
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (d), (e). Pub. L. 104–201 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Ombudsman shall be a citizen of the United States.”
+<b>1996</b>—Subsecs. (d), (e). Pub. L. 104–201 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "The Ombudsman shall be a citizen of the United States."
 

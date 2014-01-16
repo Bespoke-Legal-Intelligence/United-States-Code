@@ -46,19 +46,19 @@ Section is comprised of section 232 of Pub. L. 103–354. Subsec. (b)(2), former
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(1). Pub. L. 112–166, §2(a)(2)(A), struck out “, by and with the advice and consent of the Senate” before period at end.
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–166, §2(a)(2)(A), struck out ", by and with the advice and consent of the Senate" before period at end.
 
-Subsec. (b)(2). Pub. L. 112–166, §2(a)(2)(B), (C), which directed that subsec. (b)(1) of this section be amended by striking out par. (2) and redesignating par. (3) as (2), was executed by making the amendment to subsec. (b) of this section, to reflect the probable intent of Congress. See Codification note above. Prior to amendment, text of par. (2) read as follows: “Any official who is serving as Administrator of the Rural Electrification Administration on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate—
+Subsec. (b)(2). Pub. L. 112–166, §2(a)(2)(B), (C), which directed that subsec. (b)(1) of this section be amended by striking out par. (2) and redesignating par. (3) as (2), was executed by making the amendment to subsec. (b) of this section, to reflect the probable intent of Congress. See Codification note above. Prior to amendment, text of par. (2) read as follows: "Any official who is serving as Administrator of the Rural Electrification Administration on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate—
 
-&emsp;“(A) may be considered to be serving in the successor position established under paragraph (1); and
+&emsp;"(A) may be considered to be serving in the successor position established under paragraph (1); and
 
-&emsp;“(B) shall not be required to be reappointed to that position by reason of the enactment of this Act.”
+&emsp;"(B) shall not be required to be reappointed to that position by reason of the enactment of this Act."
 
-<b>1996</b>—Subsec. (c)(2)(A). Pub. L. 104–127 substituted “section 1932(b)” for “section 1932(b)(2)”.
+<b>1996</b>—Subsec. (c)(2)(A). Pub. L. 104–127 substituted "section 1932(b)" for "section 1932(b)(2)".
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made onand after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

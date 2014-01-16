@@ -30,49 +30,49 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-State.—The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
+State.—The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
 
 &emsp;(2)
 
-Firefighting agency.—The term “firefighting agency” means any volunteer, paid, or combined departments that provide fire and emergency medical services.
+Firefighting agency.—The term "firefighting agency" means any volunteer, paid, or combined departments that provide fire and emergency medical services.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1706(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–367; amended Pub. L. 108–375, div. A, title III, §354, Oct. 28, 2004, 118 Stat. 1861.)
 
 #### Amendments
 
-<b>2004</b>—Subsecs. (a), (b). Pub. L. 108–375 substituted “shall” for “may” in introductory provisions.
+<b>2004</b>—Subsecs. (a), (b). Pub. L. 108–375 substituted "shall" for "may" in introductory provisions.
 
 #### Identification of Defense Technologies Suitable for Use, or Conversion for Use, in Providing Fire and Emergency Medical Services
 
 Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1707\], Oct. 30, 2000, 114 Stat. 1654, 1654A–367, provided that:
 
-“(a)
+"(a)
 
 Appointment of Task Force; Purpose.—The Secretary of Defense shall appoint a task force consisting of representatives from the Department of Defense and each of the seven major fire organizations identified in subsection (b) to identify defense technologies and equipment that—
 
-&emsp;“(1) can be readily put to civilian use by fire service and the emergency response agencies; and
+&emsp;"(1) can be readily put to civilian use by fire service and the emergency response agencies; and
 
-&emsp;“(2) can be transferred to these agencies using the authority provided by section 2576b of title 10, United States Code, as added by section 1706 of this Act.
+&emsp;"(2) can be transferred to these agencies using the authority provided by section 2576b of title 10, United States Code, as added by section 1706 of this Act.
 
-“(b)
+"(b)
 
 Participating Major Fire Organizations.—Members of the task force shall be appointed from each of the following:
 
-&emsp;“(1) The International Association of Fire Chiefs.
+&emsp;"(1) The International Association of Fire Chiefs.
 
-&emsp;“(2) The International Association of Fire Fighters.
+&emsp;"(2) The International Association of Fire Fighters.
 
-&emsp;“(3) The National Volunteer Fire Council.
+&emsp;"(3) The National Volunteer Fire Council.
 
-&emsp;“(4) The International Association of Arson Investigators.
+&emsp;"(4) The International Association of Arson Investigators.
 
-&emsp;“(5) The International Society of Fire Service Instructors.
+&emsp;"(5) The International Society of Fire Service Instructors.
 
-&emsp;“(6) The National Association of State Fire Marshals.
+&emsp;"(6) The National Association of State Fire Marshals.
 
-&emsp;“(7) The National Fire Protection Association.
+&emsp;"(7) The National Fire Protection Association.
 
-“(c)
+"(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Defense for activities of the task force $1,000,000 for fiscal year 2001.”
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Defense for activities of the task force $1,000,000 for fiscal year 2001."
 

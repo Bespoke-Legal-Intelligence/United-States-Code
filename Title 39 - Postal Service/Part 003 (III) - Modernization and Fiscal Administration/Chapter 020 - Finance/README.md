@@ -21,7 +21,7 @@
 
 <b>2006</b>—Pub. L. 109–435, title IV, §401(a)(2), Dec. 20, 2006, 120 Stat. 3225, added item 2011.
 
-<b>1997</b>—Pub. L. 105–33, title VII, §7003(a)(2)(A), Aug. 5, 1997, 111 Stat. 663, struck out item 2004 “Transitional appropriations”.
+<b>1997</b>—Pub. L. 105–33, title VII, §7003(a)(2)(A), Aug. 5, 1997, 111 Stat. 663, struck out item 2004 "Transitional appropriations".
 
 <b>1989</b>—Pub. L. 101–239, title IV, §4001(a)(2), Dec. 19, 1989, 103 Stat. 2133, added item 2009a.
 

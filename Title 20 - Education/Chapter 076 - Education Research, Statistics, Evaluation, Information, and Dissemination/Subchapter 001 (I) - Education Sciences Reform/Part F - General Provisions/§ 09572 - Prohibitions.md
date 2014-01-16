@@ -16,7 +16,7 @@ Notwithstanding any other provision of Federal law, no funds provided under this
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), no funds provided under this subchapter to the Secretary or tothe recipient of any award may be used to develop, pilot test, field test, implement, administer, or distribute any federally sponsored national test in reading, mathematics, or any other subject, unless specifically and explicitly authorized by law.
+&emsp;Subject to paragraph (2), no funds provided under this subchapter to the Secretary or to the recipient of any award may be used to develop, pilot test, field test, implement, administer, or distribute any federally sponsored national test in reading, mathematics, or any other subject, unless specifically and explicitly authorized by law.
 
 #### (2) Exceptions
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Feb. 24, 1925, ch. 303, §6 (less proviso), 43 Stat. 967.
 
-The words “so long as held or used only to carry out the purposes of the corporation” are substituted for “held or used for the purposes hereof, pursuant to the provisions of this chapter . . . so long as the same shall be so used” to eliminate unnecessary words. The words “the United States Government, the District of Columbia, and the territories and possessions of the United States” are substituted for “the United States or any Territory or District thereof” for clarity.
+The words "so long as held or used only to carry out the purposes of the corporation" are substituted for "held or used for the purposes hereof, pursuant to the provisions of this chapter . . . so long as the same shall be so used" to eliminate unnecessary words. The words "the United States Government, the District of Columbia, and the territories and possessions of the United States" are substituted for "the United States or any Territory or District thereof" for clarity.
 

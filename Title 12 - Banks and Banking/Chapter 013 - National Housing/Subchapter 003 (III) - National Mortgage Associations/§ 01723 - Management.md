@@ -8,7 +8,7 @@ All the powers and duties of the Government National Mortgage Association shall 
 
 The Federal National Mortgage Association shall have a board of directors, which shall consist of 13 persons, or such other number that the Director determines appropriate, who shall be elected annually by the common stockholders. Except to the extent that action under section 4636a of this title temporarily results in a lesser number, the board shall at all times have as members at least one person from the homebuilding industry, at least one person from the mortgage lending industry, at least one person from the real estate industry, and at least one person from an organization that has represented consumer or community interests for not less than 2 years or one person who has demonstrated a career commitment to the provision of housing for low-income households. Each member of the board of directors shall be elected for a term ending on the date of the next annual meeting of the stockholders. Any seat on the board which becomes vacant after the annual election of the directors shall be filled by the board, but only for the unexpired portion of the term. Within the limitations of law and regulation, the board shall determine the general policies which shall govern the operations of the corporation, and shall have power to adopt, amend, and repeal bylaws governing the performance of the powers and duties granted to or imposed upon it by law. The board of directors shall select and effect the appointment of qualified persons to fill the offices of president and vice president, and such other offices as may be provided for in the bylaws. Any member of the board who is a full-time officer or employee of the Federal Government shall not, as such member, receive compensation for his services.
 
-(June 27, 1934, ch. 847, title III, §308, as added Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 620; amended Pub. L. 89–174, §5(b), Sept. 9, 1965, 79 Stat. 669; Pub. L. 89–754, title X, §1020(d), Nov. 3, 1966, 80 Stat. 1296; Pub. L. 90–19, §1(l), (m), May 25, 1967, 81 Stat. 18, 19; Pub. L. 90–448, title VIII, §802(y), Aug. 1, 1968, 82 Stat. 539; Pub. L. 94–375,§17(a), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 98–440, title II, §207, Oct. 3, 1984, 98 Stat. 1696; Pub. L. 102–550, title XIII, §1381(h)(1), (i), Oct. 28, 1992, 106 Stat. 3996; Pub. L. 110–289, div. A, title I, §§1153(b)(2), 1162(a)(1), July 30, 2008, 122 Stat. 2775, 2781.)
+(June 27, 1934, ch. 847, title III, §308, as added Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 620; amended Pub. L. 89–174, §5(b), Sept. 9, 1965, 79 Stat. 669; Pub. L. 89–754, title X, §1020(d), Nov. 3, 1966, 80 Stat. 1296; Pub. L. 90–19, §1(l), (m), May 25, 1967, 81 Stat. 18, 19; Pub. L. 90–448, title VIII, §802(y), Aug. 1, 1968, 82 Stat. 539; Pub. L. 94–375, §17(a), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 98–440, title II, §207, Oct. 3, 1984, 98 Stat. 1696; Pub. L. 102–550, title XIII, §1381(h)(1), (i), Oct. 28, 1992, 106 Stat. 3996; Pub. L. 110–289, div. A, title I, §§1153(b)(2), 1162(a)(1), July 30, 2008, 122 Stat. 2775, 2781.)
 
 #### Prior Provisions
 
@@ -18,13 +18,13 @@ Prior provisions on the subject of this section were contained in section 1716 o
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–289, §1162(a)(1), in first sentence, substituted “13 persons, or such other number that the Director determines appropriate, who” for “eighteen persons, five of whom shall be appointed annually by the President of the United States, and the remainder of whom”, in second sentence, struck out “appointed by the President” after “as members”, in third sentence, struck out “appointed or” after “directors shall be” and “, except that any such appointed member may be removed from office by the President for good cause” after “the stockholders”, in fourth sentence, struck out “elective” after “Any”, and struck out fifth sentence which read as follows: “Any appointive seat which becomes vacant shall be filled by appointment of the President, but only for the unexpired portion of the term.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–289, §1162(a)(1), in first sentence, substituted "13 persons, or such other number that the Director determines appropriate, who" for "eighteen persons, five of whom shall be appointed annually by the President of the United States, and the remainder of whom", in second sentence, struck out "appointed by the President" after "as members", in third sentence, struck out "appointed or" after "directors shall be" and ", except that any such appointed member may be removed from office by the President for good cause" after "the stockholders", in fourth sentence, struck out "elective" after "Any", and struck out fifth sentence which read as follows: "Any appointive seat which becomes vacant shall be filled by appointment of the President, but only for the unexpired portion of the term."
 
-Pub. L. 110–289, §1153(b)(2), in second sentence, substituted “Except to the extent that action under section 4636a of this title temporarily results in a lesser number, the” for “The”.
+Pub. L. 110–289, §1153(b)(2), in second sentence, substituted "Except to the extent that action under section 4636a of this title temporarily results in a lesser number, the" for "The".
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–550, in second sentence, struck out “and” after “mortgage lending industry,” and inserted “, and at least one person from an organization that has represented consumer or community interests for not less than 2 years or one person who has demonstrated a career commitment to the provision of housing for low-income households” and in third sentence, substituted “any such appointed member” for “any such member”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–550, in second sentence, struck out "and" after "mortgage lending industry," and inserted ", and at least one person from an organization that has represented consumer or community interests for not less than 2 years or one person who has demonstrated a career commitment to the provision of housing for low-income households" and in third sentence, substituted "any such appointed member" for "any such member".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–440 substituted “, which shall consist of eighteen persons, five of whom” for “which shall consist of fifteen persons, one-third of whom”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–440 substituted ", which shall consist of eighteen persons, five of whom" for "which shall consist of fifteen persons, one-third of whom".
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–375 substituted provision establishing, in the Department of Housing and Urban Development, the position of president of the Government National Mortgage Association, to be filled by the President, by and with the consent of the Senate, for provision that the Secretary appoint the president of the Association.
 
@@ -32,7 +32,7 @@ Pub. L. 110–289, §1153(b)(2), in second sentence, substituted “Except to th
 
 Subsec. (b). Pub. L. 90–448, §802(y)(7), added subsec. (b).
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” for “Housing and Home Finance Administrator”, and “the Secretary” for “said Administrator”, wherever appearing.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary of Housing and Urban Development" for "Housing and Home Finance Administrator", and "the Secretary" for "said Administrator", wherever appearing.
 
 <b>1966</b>—Pub. L. 89–754 struck out subsec. (a) designation.
 
@@ -40,7 +40,7 @@ Subsec. (b). Pub. L. 90–448, §802(y)(7), added subsec. (b).
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–550, title XIII, §1381(h)(2), Oct. 28, 1992, 106 Stat. 3996, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to the first annual appointment by the President of members to the board of directors of the Federal National Mortgage Association that occurs after the date of the enactment of this Act \[Oct. 28, 1992\].”
+Pub. L. 102–550, title XIII, §1381(h)(2), Oct. 28, 1992, 106 Stat. 3996, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to the first annual appointment by the President of members to the board of directors of the Federal National Mortgage Association that occurs after the date of the enactment of this Act \[Oct. 28, 1992\]."
 
 #### Effective Date of 1968 Amendment
 
@@ -52,7 +52,7 @@ For effective date of amendment by Pub. L. 89–174, see section 11(a) of Pub. L
 
 #### Transitional Provision
 
-Pub. L. 110–289, div. A , title I, §1162(a)(2), July 30, 2008, 122 Stat. 2781, provided that: “The amendments made by paragraph (1) \[amending this section\] shall not apply to any appointed position of the board of directors of the Federal National Mortgage Association until the expiration of the annual term for such position during which the effective date under section 1163 \[set out as an Effective Date of 2008 Amendment note under section 3132 of Title 5, Government Organization and Employees\] occurs.”
+Pub. L. 110–289, div. A , title I, §1162(a)(2), July 30, 2008, 122 Stat. 2781, provided that: "The amendments made by paragraph (1) \[amending this section\] shall not apply to any appointed position of the board of directors of the Federal National Mortgage Association until the expiration of the annual term for such position during which the effective date under section 1163 \[set out as an Effective Date of 2008 Amendment note under section 3132 of Title 5, Government Organization and Employees\] occurs."
 
 #### Powers and Duties of Position of GNMA President To Remain in Effect Until Position Filled
 

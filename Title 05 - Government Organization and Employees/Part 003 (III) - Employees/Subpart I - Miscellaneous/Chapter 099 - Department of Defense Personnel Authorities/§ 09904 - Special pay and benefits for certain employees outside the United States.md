@@ -8,7 +8,7 @@ The Secretary may provide to certain civilian employees of the Department of Def
 
 &emsp;&emsp;(B) comparable to those provided by the Director of Central Intelligence to personnel of the Central Intelligence Agency; and
 
-&emsp;(2) special retirement accrual benefits and disability in the same manner provided for by the Central Intelligence Agency Retirement Act (50 U.S.C. 2001 et seq.) and in section 18 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403r).
+&emsp;(2) special retirement accrual benefits and disability in the same manner provided for by the Central Intelligence Agency Retirement Act (50 U.S.C. 2001 et seq.) and in section 18 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403r).<sup>1</sup>
 
 (Added Pub. L. 108–136, div. A, title XI, §1101(a)(1), Nov. 24, 2003, 117 Stat. 1633.)
 
@@ -16,9 +16,11 @@ The Secretary may provide to certain civilian employees of the Department of Def
 
 The Foreign Service Act of 1980, referred to in par. (1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 9 of title I of the Act is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
-The Central Intelligence Agency Retirement Act, referred to in par. (2), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, which is classified generally to chapter 38 (§2001 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50 and Tables.
+The Central Intelligence Agency Act of 1949, referred to in par. (2), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§3501 et seq.) of Title 50. Section 18 of the Act is now classified to section 3518 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

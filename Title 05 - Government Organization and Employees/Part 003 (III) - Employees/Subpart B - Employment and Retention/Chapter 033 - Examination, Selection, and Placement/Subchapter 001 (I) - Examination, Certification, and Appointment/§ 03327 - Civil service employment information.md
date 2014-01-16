@@ -1,6 +1,6 @@
 ### §3327. Civil service employment information
 
-(a) The Office of Personnel Management shall provide that information concerning opportunities to participate in competitive examinations conducted by, or under authority delegated by, the Office of Personnel Management shall be made available to the employment offices of the United States Employment Service.
+(a) The Office of Personnel Management shall provide that information concerning opportunities to participate in competitive examinationsconducted by, or under authority delegated by, the Office of Personnel Management shall be made available to the employment offices of the United States Employment Service.
 
 (b) Subject to such regulations as the Office may issue, each agency shall promptly notify the Office and the employment offices of the United States Employment Service of—
 

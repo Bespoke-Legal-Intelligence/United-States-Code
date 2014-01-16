@@ -14,7 +14,7 @@ Section 3911 of this title is repealed.
 
 #### (d) National park passport, Golden Eagle Passport, Golden Age Passport, and Golden Access Passport
 
-Effective on the date the notice required by section 6804(a)(3) of this title is published in the Federal Register, the following provisions of law authorizing the establishment of a national park passport program or the establishment and sale of a national park passport, Golden Eagle Passport, Golden Age Passport, or Golden Access Passport are repealed:
+Effective on the date the notice required by section 6804(a)(3) of this title is published in theFederal Register, the following provisions of law authorizing the establishment of a national park passport program or the establishment and sale of a national park passport, Golden Eagle Passport, Golden Age Passport, or Golden Access Passport are repealed:
 
 &emsp;(1) Section 502 of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; 16 U.S.C. 5982).
 
@@ -40,7 +40,7 @@ Effective on the date the notice required by section 6804(a)(3) of this title is
 
 #### (f) Effect of regulations
 
-A regulation or policy issued under a provision of law repealed by this section shall remain in effect to the extent such a regulation or policy is consistent with the provisions of this chapteruntil the Secretary issues a regulation, guideline, or policy under this chapter that supersedes the earlier regulation.
+A regulation or policy issued under a provision of law repealed by this section shall remain in effect to the extent such a regulation or policy is consistent with the provisions of this chapter until the Secretary issues a regulation, guideline, or policy under this chapter that supersedes the earlier regulation.
 
 (Pub. L. 108–447, div. J, title VIII, §813, Dec. 8, 2004, 118 Stat. 3390; Pub. L. 109–54, title I, §132(a), Aug. 2, 2005, 119 Stat. 526.)
 
@@ -54,11 +54,11 @@ Section 315 of the Department of the Interior and Related Agencies Appropriation
 
 The National Parks Omnibus Management Act of 1998, referred to in subsecs. (d)(2) and (e)(2), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497, as amended. Title VI of the Act was classified generally to subchapter V (§5991 et seq.) of chapter 79 of this title, prior to repeal by subsec. (d)(2) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
-This chapter, referred to in subsecs. (e) and (f), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
+This chapter, referred to in subsecs. (e) and (f), was in the original "this Act", and was translated as reading "this title", meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–54 inserted “(except for paragraph (1)(C))” after “and (i)”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–54 inserted "(except for paragraph (1)(C))" after "and (i)".
 
 #### Effective Date of 2005 Amendment
 

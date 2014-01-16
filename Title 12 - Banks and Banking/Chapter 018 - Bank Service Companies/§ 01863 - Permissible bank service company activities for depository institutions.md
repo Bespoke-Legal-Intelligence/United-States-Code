@@ -6,9 +6,9 @@ Without regard to the provisions of sections 1864 and 1865 of this title, an ins
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–351 substituted “insured depository institution” for “insured bank”.
+<b>2006</b>—Pub. L. 109–351 substituted "insured depository institution" for "insured bank".
 
-<b>1996</b>—Pub. L. 104–208 substituted “company” for “corporation” wherever appearing in section catchline and text.
+<b>1996</b>—Pub. L. 104–208 substituted "company" for "corporation" wherever appearing in section catchline and text.
 
 <b>1982</b>—Pub. L. 97–320 substituted provisions relating to permissible bank service corporation activities for depository institutions for provisions that a bank service corporation must provide bank services to a bank that applied for them if the applying bank competed with a bank which held stock in the corporation unless comparable services were available elsewhere at competitive cost or furnishing the services would be beyond the practical capacity of the corporation.
 

@@ -6,7 +6,7 @@ A homeownership program under this subchapter shall provide for acquisition by e
 
 #### (b) Affordability
 
-A homeownership program under this subchapter shall provide for the establishment ofsales prices (including principal, insurance, taxes, and interest and closing costs) for initial acquisition of the property from the public housing agency if the applicant is not a public housing agency, and for sales to eligible families, such that an eligible family shall not be required to expend more than 30 percent of the adjusted income of the family per month to complete a sale under the homeownership program.
+A homeownership program under this subchapter shall provide for the establishment of sales prices (including principal, insurance, taxes, and interest and closing costs) for initial acquisition of the property from the public housing agency if the applicant is not a public housing agency, and for sales to eligible families, such that an eligible family shall not be required to expend more than 30 percent of the adjusted income of the family per month to complete a sale under the homeownership program.
 
 #### (c) Plan
 
@@ -42,7 +42,7 @@ Acquisition or rehabilitation of public housing projects under a homeownership p
 
 &emsp;&emsp;(C) any debt obligation can be serviced from project income, including operating assistance; and
 
-&emsp;&emsp;(D) the proceeds of such encumbrance will be used only to meet housing standards in accordance with subsection (f) of this section or to make such additional capital improvements as the Secretary determines to be consistent with the purposes of this subchapter.
+&emsp;&emsp;(D) the proceeds of such encumbrance will be used only to meet housing standards inaccordance with subsection (f) of this section or to make such additional capital improvements as the Secretary determines to be consistent with the purposes of this subchapter.
 
 #### (3) Opportunity to cure
 
@@ -76,13 +76,13 @@ The application shall include a plan ensuring that the unit—
 
 &emsp;Tenants renting a unit in a project transferred under this subchapter shall have all rights provided to tenants of public housing under this chapter.
 
-(Sept. 1, 1937, ch. 896, title III, §304, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4153; amended Pub. L. 102–550, title I,§181(g)(1)(A), Oct. 28, 1992, 106 Stat. 3736; Pub. L. 104–19, title I, §1002(b), July 27, 1995, 109 Stat. 236; Pub. L. 105–276, title V, §531(b)(1), Oct. 21, 1998, 112 Stat. 2573.)
+(Sept. 1, 1937, ch. 896, title III, §304, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4153; amended Pub. L. 102–550, title I, §181(g)(1)(A), Oct. 28, 1992, 106 Stat. 3736; Pub. L. 104–19, title I, §1002(b), July 27, 1995, 109 Stat. 236; Pub. L. 105–276, title V, §531(b)(1), Oct. 21, 1998, 112 Stat. 2573.)
 
 #### References in Text
 
 The National Housing Act, referred to in subsec. (e)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-This subchapter, referred to in subsec. (e)(3), was in the original “this subtitle”, and was translated as reading “this title”, meaning title III of act Sept. 1, 1937, ch. 896, as added by Pub. L. 101–625, to reflect the probable intent of Congress, because title III of act Sept. 1, 1937, does not contain subtitles.
+This subchapter, referred to in subsec. (e)(3), was in the original "this subtitle", and was translated as reading "this title", meaning title III of act Sept. 1, 1937, ch. 896, as added by Pub. L. 101–625, to reflect the probable intent of Congress, because title III of act Sept. 1, 1937, does not contain subtitles.
 
 #### Amendments
 
@@ -90,7 +90,7 @@ This subchapter, referred to in subsec. (e)(3), was in the original “this subt
 
 <b>1995</b>—Subsec. (g). Pub. L. 104–19 struck out subsec. (g) which prohibited transfer of projects without plan for replacement housing.
 
-<b>1992</b>—Subsec. (d). Pub. L. 102–550 struck out “(not including scattered site single family housing of a public housing agency)” after “housing project”.
+<b>1992</b>—Subsec. (d). Pub. L. 102–550 struck out "(not including scattered site single family housing of a public housing agency)" after "housing project".
 
 #### Effective Date of 1998 Amendment
 
@@ -104,11 +104,11 @@ Amendment by Pub. L. 104–19 effective for applications for demolition, disposi
 
 Pub. L. 105–276, title V, §531(b), Oct. 21, 1998, 112 Stat. 2573, provided that:
 
-“(1)
+"(1)
 
 In general.—Notwithstanding subsections (b) and (c) of section 1002 of the Emergency Supplemental Appropriations for Additional Disaster Assistance, for Anti-terrorism Initiatives, for Assistance in the Recovery from the Tragedy that Occurred At Oklahoma City, and Rescissions Act, 1995 \[amending this section and enacting provision set out as a note under section 1437c of this title\] (Public Law 104–19; 109 Stat. 236), subsection (g) of section 304 of the United States Housing Act of 1937 (42 U.S.C. 1437aaa–3(g)) is repealed.
 
-“(2)
+"(2)
 
-Effective date.—The amendment made by paragraph (1) shall be effective with respect to any plan for the demolition, disposition, or conversion to homeownership of public housing that is approved by the Secretary after September 30, 1995.”
+Effective date.—The amendment made by paragraph (1) shall be effective with respect to any plan for the demolition, disposition, or conversion to homeownership of public housing that is approved by the Secretary after September 30, 1995."
 

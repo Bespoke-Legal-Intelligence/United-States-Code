@@ -6,5 +6,5 @@ After September 30, 1964, the portion of borrowings from Treasury equal to the u
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–273 substituted “September” for “June”.
+<b>1976</b>—Pub. L. 94–273 substituted "September" for "June".
 

@@ -24,7 +24,7 @@ Any applicant for credit may refuse to provide any information requested pursuan
 
 #### (2) Limited access
 
-&emsp;If a financial institution determines that a loan underwriter or other officer or employeeof a financial institution, or any affiliate of a financial institution, involved in making any determination concerning an application for credit should have access to any information provided by the applicant pursuant to a request under subsection (b), the financial institution shall provide notice to the applicant of the access of the underwriter to such information, along with notice that the financial institution may not discriminate on the basis of such information.
+&emsp;If a financial institution determines that a loan underwriter or other officer or employee of a financial institution, or any affiliate of a financial institution, involved in making any determination concerning an application for credit should have access to any information provided by the applicant pursuant to a request under subsection (b), the financial institution shall provide notice to the applicant of the access of the underwriter to such information, along with notice that the financial institution may not discriminate on the basis of such information.
 
 #### (e) Form and manner of information
 
@@ -104,23 +104,23 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Financial institution
 
-&emsp;The term “financial institution” means any partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity that engages in any financial activity.
+&emsp;The term "financial institution" means any partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity that engages in any financial activity.
 
 #### (2) Small business
 
-&emsp;The term “small business” has the same meaning as the term “small business concern” in section 632 of this title.
+&emsp;The term "small business" has the same meaning as the term "small business concern" in section 632 of this title.
 
 #### (3) Small business loan
 
-&emsp;The term “small business loan” means a loan made to a small business.
+&emsp;The term "small business loan" means a loan made to a small business.
 
 #### (4) Minority
 
-&emsp;The term “minority” has the same meaning as in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
+&emsp;The term "minority" has the same meaning as in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
 
 #### (5) Minority-owned business
 
-&emsp;The term “minority-owned business” means a business—
+&emsp;The term "minority-owned business" means a business—
 
 &emsp;&emsp;(A) more than 50 percent of the ownership or control of which is held by 1 or more minority individuals; and
 
@@ -128,7 +128,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (6) Women-owned business
 
-&emsp;The term “women-owned business” means a business—
+&emsp;The term "women-owned business" means a business—
 
 &emsp;&emsp;(A) more than 50 percent of the ownership or control of which is held by 1 or more women; and
 
@@ -144,5 +144,5 @@ Section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforceme
 
 Section effective on the designated transfer date, see section 1071(d) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1691 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(2)(E)),”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(2)(E)),".</i>
 

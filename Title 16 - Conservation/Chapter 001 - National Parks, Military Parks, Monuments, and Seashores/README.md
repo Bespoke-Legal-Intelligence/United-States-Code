@@ -51,7 +51,7 @@
 | [8c.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000008c%20-%20National-park%20approach%20roads%20across%20or%20within%20national%20forests%3B%20approval%20of%20Secretary%20of%20Agriculture.md) | National-park approach roads across or within national forests; approval of Secretary of Agriculture. |
 | [8d.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000008d%20-%20National-monument%20approach%20roads.md) | National-monument approach roads. |
 | [8e.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000008e%20-%20Conveyance%20to%20States%20of%20roads%20leading%20to%20certain%20historical%20areas%3B%20conditions%3B%20jurisdiction.md) | Conveyance to States of roads leading to certain historical areas; conditions; jurisdiction. |
-| [8f.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000008f%20-%20Roads%20leading%20to%20certain%20historical%20areas%3B%20%E2%80%9CState%E2%80%9D%20defined.md) | Roads leading to certain historical areas; “State” defined. |
+| [8f.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000008f%20-%20Roads%20leading%20to%20certain%20historical%20areas%3B%20State%20defined.md) | Roads leading to certain historical areas; "State" defined. |
 | [9\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000009%20-%20Repealed.%20June%2030%2C%201949%2C%20ch.%20288%2C%20title%20VI%2C%20%C2%A7602%28a%29%2812%29%2C%2063%20Stat.%20400%2C%20eff.%20July%201%2C%201949%3B%20renumbered%20Sept.%205%2C%201950%2C%20ch.%20849%2C%20%C2%A76%28a%29%2C%20%28b%29%E2%80%A6.md) | Repealed. |
 | [9a.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000009a%20-%20Government%20of%20parks%2C%20etc.%3B%20violation%20of%20regulations%20as%20misdemeanor.md) | Government of parks, etc.; violation of regulations as misdemeanor. |
 | 10, 10a. | Repealed. |
@@ -83,7 +83,7 @@
 | [17k.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017k%20-%20Park%2C%20parkway%20and%20recreational-area%20programs%3B%20study%20by%20National%20Park%20Service%3B%20consent%20of%20States%3B%20purpose%3B%20cooperation%20of%20government%E2%80%A6.md) | Park, parkway and recreational-area programs; study by National Park Service; consent of States; purpose; cooperation of government agencies. |
 | 17<i>l.</i> | Coordination; planning by States with aid of National Park Service. |
 | [17m.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017m%20-%20Consent%20of%20Congress%20to%20agreements%20between%20States%3B%20when%20agreements%20effective.md) | Consent of Congress to agreements between States; when agreements effective. |
-| [17n.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017n%20-%20%E2%80%9CState%E2%80%9D%20defined.md) | “State” defined. |
+| [17n.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017n%20-%20State%20defined.md) | "State" defined. |
 | 17<i>o.</i> | National Park Service housing improvement. |
 | [18\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000018%20-%20Promotion%20of%20tourist%20travel.md) | Promotion of tourist travel. |
 | [18a.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000018a%20-%20Cooperation%20with%20travel%20agencies%3B%20publication%20of%20information.md) | Cooperation with travel agencies; publication of information. |
@@ -635,7 +635,7 @@
 | :--- | ---: |
 | [230\.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230%20-%20Establishment%3B%20description%20of%20area.md) | Establishment; description of area. |
 | [230a.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230a%20-%20Acquisition%20of%20property.md) | Acquisition of property. |
-| [230b.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230b%20-%20Owner%27s%20retention%20of%20right%20of%20use%20and%20occupancy%20for%20residential%20purposes%20for%20life%20or%20fixed%20term%20of%20years%3B%20election%20of%20term%3B%20fair%20market%E2%80%A6.md) | Owner's retention of right of use and occupancy for residential purposes for life or fixed term of years; election of term; fair market value; transfer, assignment or termination; “improved property” defined. |
+| [230b.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230b%20-%20Owner%27s%20retention%20of%20right%20of%20use%20and%20occupancy%20for%20residential%20purposes%20for%20life%20or%20fixed%20term%20of%20years%3B%20election%20of%20term%3B%20fair%20market%E2%80%A6.md) | Owner's retention of right of use and occupancy for residential purposes for life or fixed term of years; election of term; fair market value; transfer, assignment or termination; "improved property" defined. |
 | [230c.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230c%20-%20Cooperative%20agreements%3B%20specific%20provisions.md) | Cooperative agreements; specific provisions. |
 | [230d.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230d%20-%20Hunting%2C%20fishing%2C%20and%20trapping%3B%20public%20safety%3B%20consultation.md) | Hunting, fishing, and trapping; public safety; consultation. |
 | [230e.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230e%20-%20Establishment%3B%20notice%20in%20Federal%20Register%3B%20administration.md) | Establishment; notice in Federal Register; administration. |
@@ -691,7 +691,7 @@
 | [251e.](Subchapter%20027%20%28XXVII%29%20-%20Olympic%20National%20Park/%C2%A7%2000251e%20-%20Boundary%20revision.md) | Boundary revision. |
 | [251f.](Subchapter%20027%20%28XXVII%29%20-%20Olympic%20National%20Park/%C2%A7%2000251f%20-%20Consultation%20by%20Secretary%20with%20Governor%2C%20local%20officials%2C%20and%20affected%20landowners%3B%20notice%20to%20Congressional%20committees%3B%20publication%20in%E2%80%A6.md) | Consultation by Secretary with Governor, local officials, and affected landowners; notice to Congressional committees; publication in Federal Register. |
 | [251g.](Subchapter%20027%20%28XXVII%29%20-%20Olympic%20National%20Park/%C2%A7%2000251g%20-%20Land%20acquisition%3B%20study%20and%20investigation%20of%20use%20of%20private%20lands%3B%20transmittal%20to%20President%20and%20Congress%3B%20transfer%20of%20lands%20to%20Secretary%E2%80%A6.md) | Land acquisition; study and investigation of use of private lands; transmittal to President and Congress; transfer of lands to Secretary of Agriculture; excluded property within Indian reservation; continuation of concession contracts; termination of concession contracts and purchase of possessory interest; Indian hunting and fishing rights. |
-| [251h.](Subchapter%20027%20%28XXVII%29%20-%20Olympic%20National%20Park/%C2%A7%2000251h%20-%20Property%20retention%20rights%3B%20compensation%20at%20fair%20market%20value%3B%20%E2%80%9Cimproved%20property%E2%80%9D%20defined.md) | Property retention rights; compensation at fair market value; “improved property” defined. |
+| [251h.](Subchapter%20027%20%28XXVII%29%20-%20Olympic%20National%20Park/%C2%A7%2000251h%20-%20Property%20retention%20rights%3B%20compensation%20at%20fair%20market%20value%3B%20improved%20property%20defined.md) | Property retention rights; compensation at fair market value; "improved property" defined. |
 | [251i.](Subchapter%20027%20%28XXVII%29%20-%20Olympic%20National%20Park/%C2%A7%2000251i%20-%20Land%20acquisition%20of%20privately%20owned%20land%3B%20report%20to%20Congress%3B%20condemnation%20proceedings%3B%20compensation.md) | Land acquisition of privately owned land; report to Congress; condemnation proceedings; compensation. |
 | [251j.](Subchapter%20027%20%28XXVII%29%20-%20Olympic%20National%20Park/%C2%A7%2000251j%20-%20Property%20retention%20rights%20of%20landowners%3B%20use%20and%20occupancy%20improvements%3B%20plan%20to%20be%20submitted%20to%20Secretary%3B%20approval%20evidenced%20by%E2%80%A6.md) | Property retention rights of landowners; use and occupancy improvements; plan to be submitted to Secretary; approval evidenced by issuance of permit and certificate; limitation on acquisition power of Secretary. |
 | [251k.](Subchapter%20027%20%28XXVII%29%20-%20Olympic%20National%20Park/%C2%A7%2000251k%20-%20Economic%20dislocation%20in%20land%20acquisition%3B%20exchange%20of%20lands%3B%20transfers%20of%20land%20within%20a%20national%20forest%3B%20concurrence%20of%20Secretary%20of%E2%80%A6.md) | Economic dislocation in land acquisition; exchange of lands; transfers of land within a national forest; concurrence of Secretary of Agriculture. |
@@ -1206,12 +1206,12 @@
 | [410e.](Subchapter%20054%20%28LIV%29%20-%20Everglades%20National%20Park/%C2%A7%2000410e%20-%20Acquisition%20of%20additional%20lands%3B%20reservation%20of%20oil%2C%20gas%2C%20and%20mineral%20rights%3B%20reservation%20of%20royalty%20rights.md) | Acquisition of additional lands; reservation of oil, gas, and mineral rights; reservation of royalty rights. |
 | [410f.](Subchapter%20054%20%28LIV%29%20-%20Everglades%20National%20Park/%C2%A7%2000410f%20-%20Limitation%20of%20Federal%20action%20during%20reservation%20period.md) | Limitation of Federal action during reservation period. |
 | [410g.](Subchapter%20054%20%28LIV%29%20-%20Everglades%20National%20Park/%C2%A7%2000410g%20-%20Rules%20and%20regulations%20governing%20reservation%20rights.md) | Rules and regulations governing reservation rights. |
-| [410h.](Subchapter%20054%20%28LIV%29%20-%20Everglades%20National%20Park/%C2%A7%2000410h%20-%20Ascertainment%20of%20owners%E2%80%99%20election%20regarding%20reservation%20rights.md) | Ascertainment of owners’ election regarding reservation rights. |
+| [410h.](Subchapter%20054%20%28LIV%29%20-%20Everglades%20National%20Park/%C2%A7%2000410h%20-%20Ascertainment%20of%20owners%27%20election%20regarding%20reservation%20rights.md) | Ascertainment of owners' election regarding reservation rights. |
 | [410i.](Subchapter%20054%20%28LIV%29%20-%20Everglades%20National%20Park/%C2%A7%2000410i%20-%20Exterior%20boundaries%3B%20administration.md) | Exterior boundaries; administration. |
 | [410j.](Subchapter%20054%20%28LIV%29%20-%20Everglades%20National%20Park/%C2%A7%2000410j%20-%20Acquisition%20of%20land%2C%20water%2C%20and%20interests%20therein%3B%20consent%20of%20owner%3B%20reservations.md) | Acquisition of land, water, and interests therein; consent of owner; reservations. |
 | [410k.](Subchapter%20054%20%28LIV%29%20-%20Everglades%20National%20Park/%C2%A7%2000410k%20-%20Limitation%20of%20Federal%20action%20during%20reservation%20period.md) | Limitation of Federal action during reservation period. |
 | 410<i>l.</i> | Rules and regulations governing reservation rights. |
-| [410m.](Subchapter%20054%20%28LIV%29%20-%20Everglades%20National%20Park/%C2%A7%2000410m%20-%20Ascertainment%20of%20owners%E2%80%99%20election%20regarding%20reservation%20rights.md) | Ascertainment of owners’ election regarding reservation rights. |
+| [410m.](Subchapter%20054%20%28LIV%29%20-%20Everglades%20National%20Park/%C2%A7%2000410m%20-%20Ascertainment%20of%20owners%27%20election%20regarding%20reservation%20rights.md) | Ascertainment of owners' election regarding reservation rights. |
 | [410n.](Subchapter%20054%20%28LIV%29%20-%20Everglades%20National%20Park/%C2%A7%2000410n%20-%20Drainage%20of%20lands%3B%20right-of-way.md) | Drainage of lands; right-of-way. |
 | 410<i>o.</i> | Exchange of land, water, and interests therein. |
 | [410p.](Subchapter%20054%20%28LIV%29%20-%20Everglades%20National%20Park/%C2%A7%2000410p%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
@@ -1240,7 +1240,7 @@
 | [410w.](Subchapter%20055%20%28LV%29%20-%20Minute%20Man%20National%20Historical%20Park/%C2%A7%2000410w%20-%20Administration%2C%20protection%2C%20and%20development.md) | Administration, protection, and development. |
 | [410x.](Subchapter%20055%20%28LV%29%20-%20Minute%20Man%20National%20Historical%20Park/%C2%A7%2000410x%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 410x–1. | Residential occupancy. |
-| 410x–2. | “Residential property” defined. |
+| 410x–2. | "Residential property" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1495,7 +1495,7 @@
 | [410qq.](Subchapter%20059%E2%80%93O%20%28LIX%E2%80%93O%29%20-%20National%20Park%20of%20American%20Samoa/%C2%A7%2000410qq%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
 | 410qq–1. | Establishment. |
 | 410qq–2. | Administration. |
-| 410qq–3. | “Native American Samoan” defined. |
+| 410qq–3. | "Native American Samoan" defined. |
 | 410qq–4. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2740,7 +2740,7 @@
 | [460u.](Subchapter%20079%20%28LXXIX%29%20-%20Indiana%20Dunes%20National%20Lakeshore/%C2%A7%2000460u%20-%20Establishment%3B%20description%20of%20area.md) | Establishment; description of area. |
 | 460u–1. | Acquisition of property. |
 | 460u–2. | Direction for establishment; publication in Federal Register; continuing acquisition of lands. |
-| 460u–3. | “Improved property” and “appropriate map” defined; terms and conditions for rights of use and occupancy. |
+| 460u–3. | "Improved property" and "appropriate map" defined; terms and conditions for rights of use and occupancy. |
 | 460u–4. | Repealed. |
 | 460u–5. | Owner's retention of right of use and occupancy for residential purposes. |
 | 460u–6. | Administration. |

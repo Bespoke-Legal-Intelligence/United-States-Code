@@ -22,7 +22,7 @@
 
 Based on title 28, U.S.C., 1940 ed., §41(12), (13), and (14) (Mar. 3, 1911, ch. 231, §24, pars. 12, 13, 14, 36 Stat. 1092).
 
-Words “civil action” were substituted for “suits,” “suits at law or in equity” in view of Rule 2 of the Federal Rules of Civil Procedure.
+Words "civil action" were substituted for "suits," "suits at law or in equity" in view of Rule 2 of the Federal Rules of Civil Procedure.
 
 Numerous changes were made in arrangement and phraseology.
 
@@ -30,11 +30,11 @@ Numerous changes were made in arrangement and phraseology.
 
 <b>1979</b>—Pub. L. 96–170 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1957</b>—Pub. L. 85–315 inserted “and elective franchise” in section catchline and added par. (4).
+<b>1957</b>—Pub. L. 85–315 inserted "and elective franchise" in section catchline and added par. (4).
 
-<b>1954</b>—Act Sept. 3, 1954, substituted “section 1985 of Title 42” for “section 47 of Title 8” wherever appearing.
+<b>1954</b>—Act Sept. 3, 1954, substituted "section 1985 of Title 42" for "section 47 of Title 8" wherever appearing.
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–170, §3, Dec. 29, 1979, 93 Stat. 1284, provided that: “The amendments made by this Act \[amending this section and section 1983 of Title 42, The Public Health and Welfare\] shall apply with respect to any deprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after the date of the enactment of this Act \[Dec. 29, 1979\].”
+Pub. L. 96–170, §3, Dec. 29, 1979, 93 Stat. 1284, provided that: "The amendments made by this Act \[amending this section and section 1983 of Title 42, The Public Health and Welfare\] shall apply with respect to any deprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after the date of the enactment of this Act \[Dec. 29, 1979\]."
 

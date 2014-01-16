@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) be submitted not later than 12 months after the eligible entities receiving funds under this division are required to report their performance to the Secretary;
 
-&emsp;&emsp;(B) focus on the programs’ performance on the relevant outcome criteria determined under section 1070a–11(f)(4) of this title;
+&emsp;&emsp;(B) focus on the programs' performance on the relevant outcome criteria determined under section 1070a–11(f)(4) of this title;
 
 &emsp;&emsp;(C) aggregate individual project performance data on the outcome criteria in order to provide national performance data for each program;
 
@@ -74,7 +74,7 @@
 
 #### (c) Grants
 
-The Secretary may award grants to institutions of higher education or other private and public institutions and organizations, that are carrying out a program or project assisted under this division prior to October 7, 1998, to enable the institutions and organizations to expand and leverage the success of such programs orprojects by working in partnership with other institutions, community-based organizations, or combinations of such institutions and organizations, that are not receiving assistance under this division and are serving low-income students and first generation college students, in order to—
+The Secretary may award grants to institutions of higher education or other private and public institutions and organizations, that are carrying out a program or project assisted under this division prior to October 7, 1998, to enable the institutions and organizations to expand and leverage the success of such programs or projects by working in partnership with other institutions, community-based organizations, or combinations of such institutions and organizations, that are not receiving assistance under this division and are serving low-income students and first generation college students, in order to—
 
 &emsp;(1) disseminate and replicate best practices of programs or projects assisted under this division; and
 
@@ -88,19 +88,19 @@ In order to improve overall program or project effectiveness, the results of eva
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–315, §403(h)(1), substituted “Reports, evaluations, and grants for project improvement and dissemination” for “Evaluations and grants for project improvement and dissemination partnership projects” in section catchline.
+<b>2008</b>—Pub. L. 110–315, §403(h)(1), substituted "Reports, evaluations, and grants for project improvement and dissemination" for "Evaluations and grants for project improvement and dissemination partnership projects" in section catchline.
 
 Subsec. (a). Pub. L. 110–315, §403(h)(3), added subsec. (a). Former subsec. (a) redesignated (b).
 
 Subsec. (b). Pub. L. 110–315, §403(h)(2), (4), redesignated subsec. (a) as (b), added pars. (1) to (4), and struck out former pars. (1) and (2) which read as follows:
 
-“(1)
+"(1)
 
 In general.—For the purpose of improving the effectiveness of the programs and projects assisted under this division, the Secretary may make grants to or enter into contracts with institutions of higher education and other public and private institutions and organizations to evaluate the effectiveness of the programs and projects assisted under this division.
 
-“(2)
+"(2)
 
-Practices.—The evaluations described in paragraph (1) shall identify institutional, community, and program or project practices that are particularly effective in enhancing the access of low-income individuals and first-generation college students to postsecondary education, the preparation of the individuals and students for postsecondary education, and the success of the individuals and students in postsecondary education. Such evaluations shall also investigate the effectiveness of alternative and innovative methods within Federal TRIO programs of increasing access to, and retention of, students in postsecondary education.”
+Practices.—The evaluations described in paragraph (1) shall identify institutional, community, and program or project practices that are particularly effective in enhancing the access of low-income individuals and first-generation college students to postsecondary education, the preparation of the individuals and students for postsecondary education, and the success of the individuals and students in postsecondary education. Such evaluations shall also investigate the effectiveness of alternative and innovative methods within Federal TRIO programs of increasing access to, and retention of, students in postsecondary education."
 
 Former subsec. (b) redesignated (c).
 

@@ -30,5 +30,5 @@ June 29, 1936, ch. 858, title VII, §703(a), (c) (related to construction, recon
 
 46 App.:1193(c) (related to construction, reconstruction, or reconditioning).
 
-In subsection (b), the words “Bids required under this section” are substituted for “All bids required by the Secretary of Transportation for the construction, reconstruction, or reconditioning of vessels” to eliminate unnecessary words. The word “hour” is omitted as covered by “time”.
+In subsection (b), the words "Bids required under this section" are substituted for "All bids required by the Secretary of Transportation for the construction, reconstruction, or reconditioning of vessels" to eliminate unnecessary words. The word "hour" is omitted as covered by "time".
 

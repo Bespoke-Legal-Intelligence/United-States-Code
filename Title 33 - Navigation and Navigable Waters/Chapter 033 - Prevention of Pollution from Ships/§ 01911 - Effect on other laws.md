@@ -6,5 +6,5 @@ Authorities, requirements, and remedies of this chapter supplement and neither a
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–280 amended section generally. Prior to amendment, section read as follows: “Nothing in this chapter shall be construed as limiting, diminishing, or otherwise restricting any of the authority of the Secretary under the Port and Tanker Safety Act of 1978.”
+<b>2008</b>—Pub. L. 110–280 amended section generally. Prior to amendment, section read as follows: "Nothing in this chapter shall be construed as limiting, diminishing, or otherwise restricting any of the authority of the Secretary under the Port and Tanker Safety Act of 1978."
 

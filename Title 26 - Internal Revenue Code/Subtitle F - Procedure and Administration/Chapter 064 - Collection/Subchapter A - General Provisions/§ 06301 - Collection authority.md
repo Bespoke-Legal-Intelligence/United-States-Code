@@ -6,39 +6,39 @@ The Secretary shall collect the taxes imposed by the internal revenue laws.
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Approval Process for Liens, Levies, and Seizures
 
 Pub. L. 105–206, title III, §3421, July 22, 1998, 112 Stat. 758, provided that:
 
-“(a)
+"(a)
 
 In General.—The Commissioner of Internal Revenue shall develop and implement procedures under which—
 
-&emsp;“(1) a determination by an employee to file a notice of lien or levy with respect to, or to levy or seize, anyproperty or right to property would, where appropriate, be required to be reviewed by a supervisor of the employee before the action was taken; and
+&emsp;"(1) a determination by an employee to file a notice of lien or levy with respect to, or to levy or seize, any property or right to property would, where appropriate, be required to be reviewed by a supervisor of the employee before the action was taken; and
 
-&emsp;“(2) appropriate disciplinary action would be taken against the employee or supervisor where the procedures under paragraph (1) were not followed.
+&emsp;"(2) appropriate disciplinary action would be taken against the employee or supervisor where the procedures under paragraph (1) were not followed.
 
-“(b)
+"(b)
 
 Review Process.—The review process under subsection (a)(1) may include a certification that the employee has—
 
-&emsp;“(1) reviewed the taxpayer's information;
+&emsp;"(1) reviewed the taxpayer's information;
 
-&emsp;“(2) verified that a balance is due; and
+&emsp;"(2) verified that a balance is due; and
 
-&emsp;“(3) affirmed that the action proposed to be taken is appropriate given the taxpayer's circumstances, considering the amount due and the value of the property or right to property.
+&emsp;"(3) affirmed that the action proposed to be taken is appropriate given the taxpayer's circumstances, considering the amount due and the value of the property or right to property.
 
-“(c)
+"(c)
 
 Effective Dates.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Except as provided in paragraph (2), this section shall take effect on the date of the enactment of this Act \[July 22, 1998\].
 
-&emsp;“(2)
+&emsp;"(2)
 
-Automated collection system actions.—In the case of any action under an automated collection system, this section shall apply to actions initiated after December 31, 2000.”
+Automated collection system actions.—In the case of any action under an automated collection system, this section shall apply to actions initiated after December 31, 2000."
 

@@ -24,7 +24,7 @@ No Governor of a State may issue any order or rule pursuant to section 7425 of t
 
 #### (c) Action to be taken by President
 
-Within 90 days after the submission of a Governor's petition under subsection (b) of this section, the President shall either issue an order or rule pursuant to section 7425 of this title or deny such petition, stating in writing his reasons for such denial. In making his determination to issue such an order or rule pursuant to this subsection, the President must find that such order or rule would—
+Within 90 days after the submission of a Governor's petition under subsection (b) of this section, the President shall either issue an order or rule pursuant to section 7425 of this title or deny such petition, stating in writing his reasons for such denial. In making his determination toissue such an order or rule pursuant to this subsection, the President must find that such order or rule would—
 
 &emsp;(1) be consistent with section 7425 of this title;
 
@@ -40,7 +40,7 @@ Nothing in subsection (a) or (b) of this section shall affect the authority of t
 
 #### (e) Definitions
 
-The terms “major fuel burning stationary source (or class or category thereof)” and “locally or regionally available coal or coal derivatives” shall have the meanings assigned to them for the purposes of section 7425 of this title.
+The terms "major fuel burning stationary source (or class or category thereof)" and "locally or regionally available coal or coal derivatives" shall have the meanings assigned to them for the purposes of section 7425 of this title.
 
 (Pub. L. 94–163, title I, §107, as added Pub. L. 95–619, title VI, §661, Nov. 9, 1978, 92 Stat. 3285; amended Pub. L. 106–469, title VI, §605(b)(2), Nov. 9, 2000, 114 Stat. 2043.)
 

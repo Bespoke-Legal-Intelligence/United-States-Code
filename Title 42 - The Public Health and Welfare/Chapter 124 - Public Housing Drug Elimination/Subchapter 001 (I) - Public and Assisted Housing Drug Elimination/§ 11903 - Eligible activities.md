@@ -44,41 +44,41 @@ Section 1504 of title 21, referred to in subsec. (b)(1), was repealed by Pub. L.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(4)(A). Pub. L. 105–276, §586(d)(1)(A), substituted “drug-related or violent crime in and around” for “drug-related crime on or about”.
+<b>1998</b>—Subsec. (a)(4)(A). Pub. L. 105–276, §586(d)(1)(A), substituted "drug-related or violent crime in and around" for "drug-related crime on or about".
 
-Subsec. (a)(7). Pub. L. 105–276, §586(d)(1)(C)(i), substituted “recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entity”.
+Subsec. (a)(7). Pub. L. 105–276, §586(d)(1)(C)(i), substituted "recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996" for "tribally designated housing entity".
 
-Pub. L. 105–276, §220(2), inserted “, an Indian tribe,” after “public housing agency”.
+Pub. L. 105–276, §220(2), inserted ", an Indian tribe," after "public housing agency".
 
 Subsec. (a)(8). Pub. L. 105–276, §586(d)(1)(B), (C)(ii), (8)\[(D)\], added par. (8).
 
-Subsec. (b). Pub. L. 105–276, §586(d)(2)(A), substituted “drug-related crime in and around” for “drug-related crime in” in introductory provisions.
+Subsec. (b). Pub. L. 105–276, §586(d)(2)(A), substituted "drug-related crime in and around" for "drug-related crime in" in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 105–276, §586(d)(2)(B), substituted “drug-related or violent activity in or around” for “drug-related activity at”.
+Subsec. (b)(2). Pub. L. 105–276, §586(d)(2)(B), substituted "drug-related or violent activity in or around" for "drug-related activity at".
 
-<b>1996</b>—Subsec. (a)(7). Pub. L. 104–330 inserted “or tribally designated housing entity” after “public housing agency” and struck out “public housing” after “nonprofit”.
+<b>1996</b>—Subsec. (a)(7). Pub. L. 104–330 inserted "or tribally designated housing entity" after "public housing agency" and struck out "public housing" after "nonprofit".
 
-<b>1992</b>—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, inserted “where a public housing agency receives a grant,” in par. (7), and added subsec. (b).
+<b>1992</b>—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, inserted "where a public housing agency receives a grant," in par. (7), and added subsec. (b).
 
-<b>1990</b>—Pub. L. 101–625 amended section generally. Prior to amendment, section read as follows: “A public housing agency may use a grant under this subchapter for—
+<b>1990</b>—Pub. L. 101–625 amended section generally. Prior to amendment, section read as follows: "A public housing agency may use a grant under this subchapter for—
 
-&emsp;“(1) the employment of security personnel in public housing projects;
+&emsp;"(1) the employment of security personnel in public housing projects;
 
-&emsp;“(2) reimbursement of local law enforcement agencies for additional security and protective services for public housing projects;
+&emsp;"(2) reimbursement of local law enforcement agencies for additional security and protective services for public housing projects;
 
-&emsp;“(3) physical improvements in public housing projects which are specifically designed to enhance security;
+&emsp;"(3) physical improvements in public housing projects which are specifically designed to enhance security;
 
-&emsp;“(4) the employment of 1 or more individuals—
+&emsp;"(4) the employment of 1 or more individuals—
 
-&emsp;&emsp;“(A) to investigate drug-related crime on or about the real property comprising any public housing project; and
+&emsp;&emsp;"(A) to investigate drug-related crime on or about the real property comprising any public housing project; and
 
-&emsp;&emsp;“(B) to provide evidence relating to any such crime in any administrative or judicial proceeding;
+&emsp;&emsp;"(B) to provide evidence relating to any such crime in any administrative or judicial proceeding;
 
-&emsp;“(5) the provision of training, communications equipment, and other related equipment for use by voluntary public housing tenant patrols acting in cooperation with local law enforcement officials;
+&emsp;"(5) the provision of training, communications equipment, and other related equipment for use by voluntary public housing tenant patrols acting in cooperation with local law enforcement officials;
 
-&emsp;“(6) innovative programs designed to reduce use of drugs in and around public housing projects; and
+&emsp;"(6) innovative programs designed to reduce use of drugs in and around public housing projects; and
 
-&emsp;“(7) providing funding to nonprofit public housing resident management corporation and tenant councils to develop security and drug abuse prevention programs involving site residents.”
+&emsp;"(7) providing funding to nonprofit public housing resident management corporation and tenant councils to develop security and drug abuse prevention programs involving site residents."
 
 #### Effective Date of 1998 Amendment
 

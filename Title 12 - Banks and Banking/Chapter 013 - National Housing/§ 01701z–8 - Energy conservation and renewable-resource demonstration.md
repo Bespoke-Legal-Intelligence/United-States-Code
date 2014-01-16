@@ -20,7 +20,7 @@ In carrying out the demonstration program required by this section, the Secretar
 
 &emsp;(4) make use of such State and local instrumentalities or other public or private entities as may be appropriate in carrying out the purposes of this section in coordination with the provisions of part C of title III of the Energy Policy and Conservation Act \[42 U.S.C. 6321 et seq.\];
 
-&emsp;(5) consider, with respect to various forms of assistance and procedures for their application, (A) the extent to which energy conservation measures and renewable-resource energymeasures are encouraged which would otherwise not have been undertaken, (B) the minimum amount of Federal subsidy necessary to achieve the objectives of a national program, (C) the costs of administering the assistance, (D) the extent to which the assistance may be encumbered by delays, redtape, and uncertainty as to its availability with respect to any particular applicant, (E) the factors which may prevent the assistance from being available in certain areas or for certain classes of persons, and (F) the extent to which fraudulent practices can be prevented; and
+&emsp;(5) consider, with respect to various forms of assistance and procedures for their application, (A) the extent to which energy conservation measures and renewable-resource energy measures are encouraged which would otherwise not have been undertaken, (B) the minimum amount of Federal subsidy necessary to achieve the objectives of a national program, (C) the costs of administering the assistance, (D) the extent to which the assistance may be encumbered by delays, redtape, and uncertainty as to its availability with respect to any particular applicant, (E) the factors which may prevent the assistance from being available in certain areas or for certain classes of persons, and (F) the extent to which fraudulent practices can be prevented; and
 
 &emsp;(6) consult with the Administrator, the Secretary of Housing and Urban Development, and the heads of such other Federal agencies as may be appropriate.
 
@@ -32,7 +32,7 @@ In carrying out the demonstration program required by this section, the Secretar
 
 &emsp;(B) with respect to an approved renewable-resource energy measure, (i) $2,000, or (ii) 25 per centum of the cost of installing or otherwise implementing such measure.
 
-> The Secretary may, by rule, increase such percentages and amounts in the case of an applicant whose annual gross family income for the preceding taxable year is less than the median family income for the housing market area in which the dwelling unit which is to be modified by such measure is located, as determined by the Secretary. The Secretary may also modify the limitations specified in this paragraph if necessary in order to achieve the purposes of this section.
+> The Secretary may, by rule, increase such percentages and amounts in the case of an applicant whose annual gross family income for the preceding taxable year is less than the medianfamily income for the housing market area in which the dwelling unit which is to be modified by such measure is located, as determined by the Secretary. The Secretary may also modify the limitations specified in this paragraph if necessary in order to achieve the purposes of this section.
 
 (2) No person shall be eligible for both financial assistance under this section and a credit against income tax for the same energy conservation measure or renewable-resource energy measure.
 
@@ -56,11 +56,11 @@ Prior to undertaking any demonstration project under this section, the Secretary
 
 As used in this section:
 
-&emsp;(1) The term “Administrator” means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this section.
+&emsp;(1) The term "Administrator" means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this section.
 
-&emsp;(2) The term “approved”, with respect to an energy conservation measure or a renewable-resource energy measure, means any such measure which is included on a list of such measures which is published by the Administrator of the Federal Energy Administration pursuant to section 365(e)(1) of the Energy Policy and Conservation Act \[42 U.S.C. 6325(e)(1)\]. The Administrator may, by rule, require that an energy audit be conducted as a condition of obtaining assistance under this section for a renewable-resource energy measure.
+&emsp;(2) The term "approved", with respect to an energy conservation measure or a renewable-resource energy measure, means any such measure which is included on a list of such measures which is published by the Administrator of the Federal Energy Administration pursuant to section 365(e)(1) of the Energy Policy and Conservation Act \[42 U.S.C. 6325(e)(1)\]. The Administrator may, by rule, require that an energy audit be conducted as a condition of obtaining assistance under this section for a renewable-resource energy measure.
 
-&emsp;(3) The terms “energy audit”, “energy conservation measure”, and “renewable-resource energy measure” have the meanings prescribed for such terms in section 366 of the Energy Policy and Conservation Act \[42 U.S.C. 6326\].
+&emsp;(3) The terms "energy audit", "energy conservation measure", and "renewable-resource energy measure" have the meanings prescribed for such terms in section 366 of the Energy Policy and Conservation Act \[42 U.S.C. 6326\].
 
 #### (j) Authorization of appropriations
 
@@ -70,7 +70,7 @@ There is authorized to be appropriated, for purposes of this section, not to exc
 
 #### References in Text
 
-The Energy Policy and Conservation Act, referred to in subsecs. (c)(4) and (f), is Pub. L. 94–163, Dec. 22, 1975,89 Stat. 871, as amended. Part C of title III of such act is classified generally to part B (§6321 et seq.) of subchapter III of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
+The Energy Policy and Conservation Act, referred to in subsecs. (c)(4) and (f), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part C of title III of such act is classified generally to part B (§6321 et seq.) of subchapter III of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
 
 #### Codification
 
@@ -78,7 +78,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 #### Amendments
 
-<b>1977</b>—Subsecs. (c)(6), (e). Pub. L. 95–91 inserted “, the Secretary of Housing and Urban Development,” after “the Administrator”.
+<b>1977</b>—Subsecs. (c)(6), (e). Pub. L. 95–91 inserted ", the Secretary of Housing and Urban Development," after "the Administrator".
 
 #### Transfer of Functions
 

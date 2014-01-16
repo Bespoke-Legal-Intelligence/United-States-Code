@@ -48,7 +48,7 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 &emsp;&emsp;(D) the name of each Federal candidate or officeholder, leadership PAC, or political party committee, to whom aggregate contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization within the semiannual period, and the date and amount of each such contribution made within the semiannual period;
 
-&emsp;&emsp;(E) the date, recipient, and amount of funds contributed or disbursed during the semiannual period by the person or organization or a political committee established or controlled by the person or organization—
+&emsp;&emsp;(E) the date, recipient, and amount of funds contributed or disbursed during thesemiannual period by the person or organization or a political committee established or controlled by the person or organization—
 
 &emsp;&emsp;&emsp;(i) to pay the cost of an event to honor or recognize a covered legislative branch official or covered executive branch official;
 

@@ -24,7 +24,7 @@ Recording.—An ice patrol vessel shall record the name of a vessel and the fact
 
 &emsp;(2)
 
-Reporting.—The name of the vessel and all pertinent information about the incident shall be reported to the government of the country to which the vessel belongs if that government requests.
+Reporting.—The name of the vessel and all pertinent information about the incident shall be reported to the government of thecountry to which the vessel belongs if that government requests.
 
 (d)
 
@@ -52,5 +52,5 @@ Historical and Revision Notes
 
 June 25, 1936, ch. 807, §2, 49 Stat. 1922; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.
 
-In subsection (d), the words “Secretary of the department in which the Coast Guard is operating” are substituted for “Secretary of Transportation” because of the transfer of the Coast Guard to the Department of Homeland Security (except when operating as a service in the Navy) by section 888 of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2249). See also sections 1 and 3 of title 14, as amended by section 1704(a) of such Act (116 Stat. 2314).
+In subsection (d), the words "Secretary of the department in which the Coast Guard is operating" are substituted for "Secretary of Transportation" because of the transfer of the Coast Guard to the Department of Homeland Security (except when operating as a service in the Navy) by section 888 of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2249). See also sections 1 and 3 of title 14, as amended by section 1704(a) of such Act (116 Stat. 2314).
 

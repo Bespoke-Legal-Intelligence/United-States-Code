@@ -6,11 +6,11 @@ In General.—In this chapter:
 
 &emsp;(1)
 
-Construction contract.—The term “construction contract” includes, for a taxpayer constructing a new vessel in a shipyard owned by that taxpayer, an agreement between the taxpayer and the Secretary of Transportation for that construction containing provisions the Secretary considers advisable to carry out this chapter.
+Construction contract.—The term "construction contract" includes, for a taxpayer constructing a new vessel in a shipyard owned by that taxpayer, an agreement between the taxpayer and the Secretary of Transportation for that construction containing provisions the Secretary considers advisable to carry out this chapter.
 
 &emsp;(2)
 
-New vessel.—The term “new vessel” means—
+New vessel.—The term "new vessel" means—
 
 &emsp;&emsp;(A) a vessel—
 
@@ -64,11 +64,11 @@ June 29, 1936, ch. 858, title V, §511(<i>o</i>), as added July 17, 1952, ch. 93
 
 June 29, 1936, ch. 858, title V, §511(m), as added Oct. 10, 1940, ch. 849, 54 Stat. 1108.
 
-In subsection (a)(2)(A)(i), the words “constructed with a construction-differential subsidy under title V of the Merchant Marine Act, 1936, or constructed with financing or a financing guarantee under chapter 537 or 575 of this title” are substituted for “the construction of which has been financed under subchapters V or VII of this chapter, or the construction of which has been aided by a mortgage insured under subchapter XI of this chapter” because of the reorganization of the material and the omission from the revised title of the provisions relating to the construction-differential subsidy program.
+In subsection (a)(2)(A)(i), the words "constructed with a construction-differential subsidy under title V of the Merchant Marine Act, 1936, or constructed with financing or a financing guarantee under chapter 537 or 575 of this title" are substituted for "the construction of which has been financed under subchapters V or VII of this chapter, or the construction of which has been aided by a mortgage insured under subchapter XI of this chapter" because of the reorganization of the material and the omission from the revised title of the provisions relating to the construction-differential subsidy program.
 
 Subsection (a)(2)(B) is substituted for the source provision to state more directly that a vessel described in the source provision is a new vessel for purposes of this chapter.
 
 #### References in Text
 
-The Merchant Marine Act, 1936, referred to in subsec. (a)(2)(A)(i), is act June 29, 1936, ch. 858, 49 Stat. 1985. Title V of the Act enacted provisions set out as notes under section 53101 of this title. For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under section 101 of this title and Tables.
+The Merchant Marine Act, 1936, referred to in subsec. (a)(2)(A)(i), is act June 29, 1936, ch. 858, 49 Stat. 1985. Title V of the Act enacted provisions set out as notes under section 53101 of this title. For complete classification of this Act to the Code, see Short Title of 1936Amendment note set out under section 101 of this title and Tables.
 

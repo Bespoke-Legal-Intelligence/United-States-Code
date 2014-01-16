@@ -30,7 +30,7 @@ In carrying out his duties under this chapter, the Secretary shall, within six m
 
 #### (f) Procedure for loans for small or large systems; limitation of amount; term; interest; prepayment; other terms and conditions
 
-(1) In carrying out his duties under this chapter, the Secretary shall, within six months of September 8, 1980, establish procedures to allow public or private entities wishing to install asmall or large wind energy system to apply for and, upon meeting such terms and conditions as the Secretary may prescribe, to receive loans for up to 75 per centum of the total purchase and installation costs of wind energy systems providing in the aggregate up to three hundred and twenty megawatts peak generating capacity involving at a minimum four projects: <i>Provided</i>, That no such loan in any fiscal year shall be for more than 50 per centum of the amount appropriated under this chapter for such fiscal year.
+(1) In carrying out his duties under this chapter, the Secretary shall, within six months of September 8, 1980, establish procedures to allow public or private entities wishing to install a small or large wind energy system to apply for and, upon meeting such terms and conditions as the Secretary may prescribe, to receive loans for up to 75 per centum of the total purchase and installation costs of wind energy systems providing in the aggregate up to three hundred and twenty megawatts peak generating capacity involving at a minimum four projects: <i>Provided</i>, That no such loan in any fiscal year shall be for more than 50 per centum of the amount appropriated under this chapter for such fiscal year.
 
 (2) Each loan shall be for a term which the Secretary deems appropriate, but no loan shall exceed twenty years beyond the date the wind energy system becomes operational.
 
@@ -54,7 +54,7 @@ New Federal assistance for technology applications systems shall terminate upon 
 
 #### References in Text
 
-Section 1962d–17 of this title, referred to in subsec. (f)(3), was in the original “section 80 of the Water Resources Development Act of 1974 (42 U.S.C. 1962(d)–17(a))”. Section 80 of the Water Resources Development Act of 1974 is classified to section 1962d–17 of this title.
+Section 1962d–17 of this title, referred to in subsec. (f)(3), was in the original "section 80 of the Water Resources Development Act of 1974 (42 U.S.C. 1962(d)–17(a))". Section 80 of the Water Resources Development Act of 1974 is classified to section 1962d–17 of this title.
 
 #### Change of Name
 

@@ -2,7 +2,7 @@
 
 #### (a) Short title; Congressional declaration of intent
 
-(1) This section may be cited as the “Upper Mississippi River Management Act of 1986”.
+(1) This section may be cited as the "Upper Mississippi River Management Act of 1986".
 
 (2) To ensure the coordinated development and enhancement of the Upper Mississippi River system, it is hereby declared to be the intent of Congress to recognize that system as a nationally significant ecosystem and a nationally significant commercial navigation system. Congress further recognizes that the system provides a diversity of opportunities and experiences. The system shall be administered and regulated in recognition of its several purposes.
 
@@ -10,13 +10,13 @@
 
 For purposes of this section—
 
-&emsp;(1) the terms “Upper Mississippi River system” and “system” mean those river reaches having commercial navigation channels on the Mississippi River main stem north of Cairo, Illinois; the Minnesota River, Minnesota; Black River, Wisconsin; Saint Croix River, Minnesota and Wisconsin; Illinois River and Waterway, Illinois; and Kaskaskia River, Illinois;
+&emsp;(1) the terms "Upper Mississippi River system" and "system" mean those river reaches having commercial navigation channels on the Mississippi River main stem north of Cairo, Illinois; the Minnesota River, Minnesota; Black River, Wisconsin; Saint Croix River, Minnesota and Wisconsin; Illinois River and Waterway, Illinois; and Kaskaskia River, Illinois;
 
-&emsp;(2) the term “Master Plan” means the comprehensive master plan for the management of the Upper Mississippi River system, dated January 1, 1982, prepared by the Upper Mississippi River Basin Commission and submitted to Congress pursuant to Public Law 95–502;
+&emsp;(2) the term "Master Plan" means the comprehensive master plan for the management of the Upper Mississippi River system, dated January 1, 1982, prepared by the Upper Mississippi River Basin Commission and submitted to Congress pursuant to Public Law 95–502;
 
-&emsp;(3) the term “GREAT I, GREAT II, and GRRM studies” means the studies entitled “GREAT Environmental Action Team—GREAT I—A Study of the Upper Mississippi River”, dated September 1980, “GREAT River Environmental Action Team—GREAT II—A Study of the Upper Mississippi River”, dated December 1980, and “GREAT River Resource Management Study”, dated September 1982; and
+&emsp;(3) the term "GREAT I, GREAT II, and GRRM studies" means the studies entitled "GREAT Environmental Action Team—GREAT I—A Study of the Upper Mississippi River", dated September 1980, "GREAT River Environmental Action Team—GREAT II—A Study of the Upper Mississippi River", dated December 1980, and "GREAT River Resource Management Study", dated September 1982; and
 
-&emsp;(4) the term “Upper Mississippi River Basin Association” means an association of the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, formed for the purposes of cooperative effort and united assistance in the comprehensive planning for the use, protection, growth, and development of the Upper Mississippi River System.
+&emsp;(4) the term "Upper Mississippi River Basin Association" means an association of the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, formed for the purposes of cooperative effort and united assistance in the comprehensive planning for the use, protection, growth, and development of the Upper Mississippi River System.
 
 #### (c) Congressional approval of Master Plan
 
@@ -138,457 +138,457 @@ Subsec. (c)(2) of this section amended section 101 of Pub. L. 95–502, which is
 
 #### Amendments
 
-<b>2007</b>—Subsec. (e)(1)(A)(ii). Pub. L. 110–114 inserted “, including research on water quality issues affecting the Mississippi River (including elevated nutrient levels) and the development of remediation strategies” before period at end.
+<b>2007</b>—Subsec. (e)(1)(A)(ii). Pub. L. 110–114 inserted ", including research on water quality issues affecting the Mississippi River (including elevated nutrient levels) and the development of remediation strategies" before period at end.
 
-<b>1999</b>—Subsec. (e). Pub. L. 106–53, §509(a), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, is authorized to undertake, as identified in the master plan—
+<b>1999</b>—Subsec. (e). Pub. L. 106–53, §509(a), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: "The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, is authorized to undertake, as identified in the master plan—
 
-&emsp;“(A) a program for the planning, construction, and evaluation of measures for fish and wildlife habitat rehabilitation and enhancement;
+&emsp;"(A) a program for the planning, construction, and evaluation of measures for fish and wildlife habitat rehabilitation and enhancement;
 
-&emsp;“(B) implementation of a long-term resource monitoring program; and
+&emsp;"(B) implementation of a long-term resource monitoring program; and
 
-&emsp;“(C) implementation of a computerized inventory and analysis system.”
+&emsp;"(C) implementation of a computerized inventory and analysis system."
 
-Subsec. (e)(2). Pub. L. 106–53, §509(b), added par. (2) and struck out former par. (2) which read as follows: “Each program referred to in paragraph (1) shall be carried out for 15 years. Before the last day of such 15-year period, the Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall conduct an evaluation of such programs and submit a report on the results of such evaluation to Congress. Such evaluation shall determine each such program's effectiveness, strengths, and weaknesses and contain recommendations for the modification and continuance or termination of such program.”
+Subsec. (e)(2). Pub. L. 106–53, §509(b), added par. (2) and struck out former par. (2) which read as follows: "Each program referred to in paragraph (1) shall be carried out for 15 years. Before the last day of such 15-year period, the Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall conduct an evaluation of such programs and submit a report on the results of such evaluation to Congress. Such evaluation shall determine each such program's effectiveness, strengths, and weaknesses and contain recommendations for the modification and continuance or termination of such program."
 
-Subsec. (e)(3). Pub. L. 106–53, §509(c)(1), substituted “(1)(A)(i)” for “(1)(A)” and “Secretary $22,750,000 for fiscal year 1999 and each fiscal year thereafter” for “Secretary not to exceed $8,200,000 for the first fiscal year beginning after November 17, 1986, not to exceed $12,400,000 for the second fiscal year beginning after November 17, 1986, and not to exceed $13,000,000 per fiscal year for each of the succeeding 13 fiscal years”.
+Subsec. (e)(3). Pub. L. 106–53, §509(c)(1), substituted "(1)(A)(i)" for "(1)(A)" and "Secretary $22,750,000 for fiscal year 1999 and each fiscal year thereafter" for "Secretary not to exceed $8,200,000 for the first fiscal year beginning after November 17, 1986, not to exceed $12,400,000 for the second fiscal year beginning after November 17, 1986, and not to exceed $13,000,000 per fiscal year for each of the succeeding 13 fiscal years".
 
-Subsec. (e)(4). Pub. L. 106–53, §509(c)(2), substituted “(1)(A)(ii)” for “(1)(B)” and “Secretary $10,420,000 for fiscal year 1999 and each fiscal year thereafter” for “Secretary not to exceed $7,680,000 for the first fiscal year beginning after November 17, 1986, and not to exceed $5,080,000 per fiscal year for each of the succeeding 14 fiscal years”.
+Subsec. (e)(4). Pub. L. 106–53, §509(c)(2), substituted "(1)(A)(ii)" for "(1)(B)" and "Secretary $10,420,000 for fiscal year 1999 and each fiscal year thereafter" for "Secretary not to exceed $7,680,000 for the first fiscal year beginning after November 17, 1986, and not to exceed $5,080,000 per fiscal year for each of the succeeding 14 fiscal years".
 
-Subsec. (e)(5). Pub. L. 106–109 substituted “paragraph (1)(B)” for “paragraph (1)(A)(i)”.
+Subsec. (e)(5). Pub. L. 106–109 substituted "paragraph (1)(B)" for "paragraph (1)(A)(i)".
 
-Pub. L. 106–53, §509(c)(3), added par. (5) and struck out former par. (5) which read as follows: “For purposes of carrying out paragraph (1)(C) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $40,000 for the first fiscal year beginning after November 17, 1986, not to exceed $280,000 for the second fiscal year beginning after November 17, 1986, not to exceed $1,220,000 for the third fiscal year beginning after November 17, 1986, and not to exceed $875,000 per fiscal year for each of the succeeding 12 fiscal years”.
+Pub. L. 106–53, §509(c)(3), added par. (5) and struck out former par. (5) which read as follows: "For purposes of carrying out paragraph (1)(C) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $40,000 for the first fiscal year beginning after November 17, 1986, not to exceed $280,000 for the second fiscal year beginning after November 17, 1986, not to exceed $1,220,000 for the third fiscal year beginning after November 17, 1986, and not to exceed $875,000 per fiscal year for each of the succeeding 12 fiscal years".
 
 Subsec. (e)(6). Pub. L. 106–53, §509(d), added par. (6) and struck out former par. (6) which contained provisions limiting transfers to 20% of appropriated amounts and setting out specific maximum monetary amounts.
 
-Subsec. (e)(7)(A). Pub. L. 106–53, §509(e), (g)(1)(A), substituted “(1)(A)(i)” for “(1)(A)” and inserted before period at end “and, in the case of any project requiring non-Federal cost sharing, the non-Federal share of the cost of the project shall be 35 percent”.
+Subsec. (e)(7)(A). Pub. L. 106–53, §509(e), (g)(1)(A), substituted "(1)(A)(i)" for "(1)(A)" and inserted before period at end "and, in the case of any project requiring non-Federal cost sharing, the non-Federal share of the cost of the project shall be 35 percent".
 
-Subsec. (e)(7)(B). Pub. L. 106–53, §509(g)(1)(B), substituted “paragraph (1)(A)(ii)” for “paragraphs (1)(B) and (1)(C)”.
+Subsec. (e)(7)(B). Pub. L. 106–53, §509(g)(1)(B), substituted "paragraph (1)(A)(ii)" for "paragraphs (1)(B) and (1)(C)".
 
-Subsec. (f)(2). Pub. L. 106–53, §509(g)(2), struck out “(A)” after “(2)” and struck out subpar. (B) which read as follows: “For purposes of carrying out the assessment of the economic benefits of recreational activities as authorized in paragraph (1) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $300,000 per fiscal year for the first and second fiscal years beginning after the computerized inventory and analysis system implemented pursuant to subsection (e)(1)(C) of this section is fully functional and $150,000 for the third such fiscal year”.
+Subsec. (f)(2). Pub. L. 106–53, §509(g)(2), struck out "(A)" after "(2)" and struck out subpar. (B) which read as follows: "For purposes of carrying out the assessment of the economic benefits of recreational activities as authorized in paragraph (1) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $300,000 per fiscal year for the first and second fiscal years beginning after the computerized inventory and analysis system implemented pursuant to subsection (e)(1)(C) of this section is fully functional and $150,000 for the third such fiscal year".
 
 Subsec. (h)(2). Pub. L. 106–53, §509(f), inserted par. heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
 
-<b>1992</b>—Subsec. (e)(2). Pub. L. 102–580, §107(a)(1), which directed the substitution of “15” for “ten” each place it appears, could not be executed because “ten” did not appear subsequent to amendment by Pub. L. 101–640, §405(1). See 1990 Amendment note below.
+<b>1992</b>—Subsec. (e)(2). Pub. L. 102–580, §107(a)(1), which directed the substitution of "15" for "ten" each place it appears, could not be executed because "ten" did not appear subsequent to amendment by Pub. L. 101–640, §405(1). See 1990 Amendment note below.
 
 Subsec. (e)(6). Pub. L. 102–580, §107(a)(3), added par. (6). Former par. (6) redesignated (7).
 
 Subsec. (e)(7). Pub. L. 102–580, §107(a)(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Subsec. (e)(7)(A). Pub. L. 102–580, §107(b), added subpar. (A) and struck out former subpar. (A) which read as follows: “Notwithstanding the provisions of subsection (a)(2) of this section, the costs of each project carried out pursuant to paragraph (1)(A) of this subsection shall be allocated between the Secretary and the appropriate non-Federal sponsor in accordance with the provisions of section 2283 of this title.”
+Subsec. (e)(7)(A). Pub. L. 102–580, §107(b), added subpar. (A) and struck out former subpar. (A) which read as follows: "Notwithstanding the provisions of subsection (a)(2) of this section, the costs of each project carried out pursuant to paragraph (1)(A) of this subsection shall be allocated between the Secretary and the appropriate non-Federal sponsor in accordance with the provisions of section 2283 of this title."
 
 Subsec. (e)(8). Pub. L. 102–580, §107(a)(2), redesignated par. (7) as (8).
 
-<b>1990</b>—Subsec. (e)(2). Pub. L. 101–640, §405(1), substituted “15” for “ten” in two places.
+<b>1990</b>—Subsec. (e)(2). Pub. L. 101–640, §405(1), substituted "15" for "ten" in two places.
 
-Subsec. (e)(3). Pub. L. 101–640, §405(2), substituted “13” for “eight”.
+Subsec. (e)(3). Pub. L. 101–640, §405(2), substituted "13" for "eight".
 
-Subsec. (e)(4). Pub. L. 101–640, §405(3), substituted “14” for “nine”.
+Subsec. (e)(4). Pub. L. 101–640, §405(3), substituted "14" for "nine".
 
-Subsec. (e)(5). Pub. L. 101–640, §405(4), substituted “12” for “seven”.
+Subsec. (e)(5). Pub. L. 101–640, §405(4), substituted "12" for "seven".
 
-Subsec. (f)(2)(A). Pub. L. 101–640, §405(5), substituted “15” for “ten”.
+Subsec. (f)(2)(A). Pub. L. 101–640, §405(5), substituted "15" for "ten".
 
 #### Upper Mississippi River and Illinois Water-way System
 
 Pub. L. 110–114, title VIII, Nov. 8, 2007, 121 Stat. 1283, provided that:
 
-#### “SEC. 8001. DEFINITIONS.
+#### "SEC. 8001. DEFINITIONS.
 
-“In this title, the following definitions apply:
+"In this title, the following definitions apply:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Plan.—The term ‘Plan’ means the project for navigation and ecosystem improvements for the Upper Mississippi River and Illinois Waterway System: Report of the Chief of Engineers, dated December 15, 2004.
+Plan.—The term 'Plan' means the project for navigation and ecosystem improvements for the Upper Mississippi River and Illinois Waterway System: Report of the Chief of Engineers, dated December 15, 2004.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Upper mississippi river and illinois waterway system.—The term ‘Upper Mississippi River and Illinois Waterway System’ means the projects for navigation and ecosystem restoration authorized by Congress for—
+Upper mississippi river and illinois waterway system.—The term 'Upper Mississippi River and Illinois Waterway System' means the projects for navigation and ecosystem restoration authorized by Congress for—
 
-&emsp;&emsp;“(A) the segment of the Mississippi River from the confluence with the Ohio River, River Mile 0.0, to Upper St. Anthony Falls Lock in Minneapolis-St. Paul, Minnesota, River Mile 854.0; and
+&emsp;&emsp;"(A) the segment of the Mississippi River from the confluence with the Ohio River, River Mile 0.0, to Upper St. Anthony Falls Lock in Minneapolis-St. Paul, Minnesota, River Mile 854.0; and
 
-&emsp;&emsp;“(B) the Illinois Waterway from its confluence with the Mississippi River at Grafton, Illinois, River Mile 0.0, to T.J. O'Brien Lock in Chicago, Illinois, River Mile 327.0.
+&emsp;&emsp;"(B) the Illinois Waterway from its confluence with the Mississippi River at Grafton, Illinois, River Mile 0.0, to T.J. O'Brien Lock in Chicago, Illinois, River Mile 327.0.
 
-#### “SEC. 8002. NAVIGATION IMPROVEMENTS AND RESTORATION.
+#### "SEC. 8002. NAVIGATION IMPROVEMENTS AND RESTORATION.
 
-“Except as modified by this title, the Secretary \[of the Army\] shall undertake navigation improvements and restoration of the ecosystem for the Upper Mississippi River and Illinois Waterway System substantially in accordance with the Plan and subject to the conditions described therein.
+"Except as modified by this title, the Secretary \[of the Army\] shall undertake navigation improvements and restoration of the ecosystem for the Upper Mississippi River and Illinois Waterway System substantially in accordance with the Plan and subject to the conditions described therein.
 
-#### “SEC. 8003. AUTHORIZATION OF CONSTRUCTION OF NAVIGATION IMPROVEMENTS.
+#### "SEC. 8003. AUTHORIZATION OF CONSTRUCTION OF NAVIGATION IMPROVEMENTS.
 
-“(a)
+"(a)
 
 Small Scale and Nonstructural Measures.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary \[of the Army\] shall—
 
-&emsp;&emsp;“(A) construct mooring facilities at Locks 12, 14, 18, 20, 22, 24, and LaGrange Lock or other alternative locations that are economically and environmentally feasible;
+&emsp;&emsp;"(A) construct mooring facilities at Locks 12, 14, 18, 20, 22, 24, and LaGrange Lock or other alternative locations that are economically and environmentally feasible;
 
-&emsp;&emsp;“(B) provide switchboats at Locks 20 through 25; and
+&emsp;&emsp;"(B) provide switchboats at Locks 20 through 25; and
 
-&emsp;&emsp;“(C) conduct development and testing of an appointment scheduling system.
+&emsp;&emsp;"(C) conduct development and testing of an appointment scheduling system.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Authorization of appropriations.—The total cost of projects authorized under this subsection shall be $256,000,000. Such costs are to be paid half from amounts appropriated from the general fund of the Treasury and half from amounts appropriated from the Inland Waterways Trust Fund. Such sums shall remain available until expended.
 
-“(b)
+"(b)
 
 New Locks.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary \[of the Army\] shall construct new 1,200-foot locks at Locks 20, 21, 22, 24, and 25 on the Upper Mississippi River and at LaGrange Lock and Peoria Lock on the Illinois Waterway.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Authorization of appropriations.—The total cost of projects authorized under this subsection shall be $1,948,000,000. Such costs are to be paid half from amounts appropriated from the general fund of the Treasury and half from amounts appropriated from the Inland Waterways Trust Fund. Such sums shall remain available until expended.
 
-“(c)
+"(c)
 
 Concurrence.—The mitigation required for the projects authorized under subsections (a) and (b), including any acquisition of lands or interests in lands, shall be undertaken or acquired concurrently with lands and interests in lands for the projects authorized under subsections (a) and (b), and physical construction required for the purposes of mitigation shall be undertaken concurrently with the physical construction of such projects.
 
-#### “SEC. 8004. ECOSYSTEM RESTORATION AUTHORIZATION.
+#### "SEC. 8004. ECOSYSTEM RESTORATION AUTHORIZATION.
 
-“(a)
+"(a)
 
 Operation.—To ensure the environmental sustainability of the existing Upper Mississippi River and Illinois Waterway System, the Secretary \[of the Army\] shall modify, consistent with requirements to avoid adverse effects on navigation, the operation of the Upper Mississippi River and Illinois Waterway System to address the cumulative environmental impacts of operation of the system and improve the ecological integrity of the Upper Mississippi River and Illinois River.
 
-“(b)
+"(b)
 
 Ecosystem Restoration Projects.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary \[of the Army\] shall carry out, consistent with requirements to avoid adverse effects on navigation, ecosystem restoration projects to attain and maintain the sustainability of the ecosystem of the Upper Mississippi River and Illinois River in accordance with the general framework outlined in the Plan.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Projects included.—Ecosystem restoration projects may include—
 
-&emsp;&emsp;“(A) island building;
+&emsp;&emsp;"(A) island building;
 
-&emsp;&emsp;“(B) construction of fish passages;
+&emsp;&emsp;"(B) construction of fish passages;
 
-&emsp;&emsp;“(C) floodplain restoration;
+&emsp;&emsp;"(C) floodplain restoration;
 
-&emsp;&emsp;“(D) water level management (including water drawdown);
+&emsp;&emsp;"(D) water level management (including water drawdown);
 
-&emsp;&emsp;“(E) backwater restoration;
+&emsp;&emsp;"(E) backwater restoration;
 
-&emsp;&emsp;“(F) side channel restoration;
+&emsp;&emsp;"(F) side channel restoration;
 
-&emsp;&emsp;“(G) wing dam and dike restoration and modification;
+&emsp;&emsp;"(G) wing dam and dike restoration and modification;
 
-&emsp;&emsp;“(H) island and shoreline protection;
+&emsp;&emsp;"(H) island and shoreline protection;
 
-&emsp;&emsp;“(I) topographical diversity;
+&emsp;&emsp;"(I) topographical diversity;
 
-&emsp;&emsp;“(J) dam point control;
+&emsp;&emsp;"(J) dam point control;
 
-&emsp;&emsp;“(K) use of dredged material for environmental purposes;
+&emsp;&emsp;"(K) use of dredged material for environmental purposes;
 
-&emsp;&emsp;“(L) tributary confluence restoration;
+&emsp;&emsp;"(L) tributary confluence restoration;
 
-&emsp;&emsp;“(M) spillway, dam, and levee modification to benefit the environment; and
+&emsp;&emsp;"(M) spillway, dam, and levee modification to benefit the environment; and
 
-&emsp;&emsp;“(N) land and easement acquisition.
+&emsp;&emsp;"(N) land and easement acquisition.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Cost sharing.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Except as provided in subparagraphs (B) and (C), the Federal share of the cost of carrying out an ecosystem restoration project under this subsection shall be 65 percent.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Exception for certain restoration projects.—In the case of a project under this section for ecosystem restoration, the Federal share of the cost of carrying out the project shall be 100 percent if the project—
 
-&emsp;&emsp;&emsp;“(i) is located below the ordinary high water mark or in a connected backwater;
+&emsp;&emsp;&emsp;"(i) is located below the ordinary high water mark or in a connected backwater;
 
-&emsp;&emsp;&emsp;“(ii) modifies the operation of structures for navigation; or
+&emsp;&emsp;&emsp;"(ii) modifies the operation of structures for navigation; or
 
-&emsp;&emsp;&emsp;“(iii) is located on federally owned land.
+&emsp;&emsp;&emsp;"(iii) is located on federally owned land.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Savings clause.—Nothing in this subsection affects the applicability of section 906(e) of the Water Resources Development Act of 1986 (33 U.S.C. 2283(e)).
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Nongovernmental organizations.—In accordance with section 221 of the Flood Control Act of 1970 (42 U.S.C. 1962d–5b), for any project carried out under this title, a non-Federal sponsor may include a nonprofit entity, with the consent of the affected local government.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Land acquisition.—The Secretary \[of the Army\] may acquire land or an interest in land for an ecosystem restoration project from a willing seller through conveyance of—
 
-&emsp;&emsp;“(A) fee title to the land; or
+&emsp;&emsp;"(A) fee title to the land; or
 
-&emsp;&emsp;“(B) a flood plain conservation easement.
+&emsp;&emsp;"(B) a flood plain conservation easement.
 
-“(c)
+"(c)
 
 Monitoring.—The Secretary \[of the Army\] shall carry out a long term resource monitoring, computerized data inventory and analysis, and applied research program for the Upper Mississippi River and Illinois River to determine trends in ecosystem health, to understand systemic changes, and to help identify restoration needs. The program shall consider and adopt the monitoring program established under section 1103(e)(1)(A)(ii) of the Water Resources Development Act of 1986 (33 U.S.C. 652(e)(1)(A)(ii)).
 
-“(d)
+"(d)
 
 Ecosystem Restoration Preconstruction Engineering and Design.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Restoration design.—Before initiating the construction of any individual ecosystem restoration project, the Secretary \[of the Army\] shall—
 
-&emsp;&emsp;“(A) establish ecosystem restoration goals and identify specific performance measures designed to demonstrate ecosystem restoration;
+&emsp;&emsp;"(A) establish ecosystem restoration goals and identify specific performance measures designed to demonstrate ecosystem restoration;
 
-&emsp;&emsp;“(B) establish the without-project condition or baseline for each performance indicator; and
+&emsp;&emsp;"(B) establish the without-project condition or baseline for each performance indicator; and
 
-&emsp;&emsp;“(C) for each separable element of the ecosystem restoration, identify specific target goals for each performance indicator.
+&emsp;&emsp;"(C) for each separable element of the ecosystem restoration, identify specific target goals for each performance indicator.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Outcomes.—Performance measures identified under paragraph (1)(A) shall include specific measurable environmental outcomes, such as changes in water quality, hydrology, or the well-being of indicator species the population and distribution of which are representative of the abundance and diversity of ecosystem-dependent aquatic and terrestrial species.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Restoration design.—Restoration design carried out as part of ecosystem restoration shall include a monitoring plan for the performance measures identified under paragraph (1)(A), including—
 
-&emsp;&emsp;“(A) a timeline to achieve the identified target goals; and
+&emsp;&emsp;"(A) a timeline to achieve the identified target goals; and
 
-&emsp;&emsp;“(B) a timeline for the demonstration of project completion.
+&emsp;&emsp;"(B) a timeline for the demonstration of project completion.
 
-“(e)
+"(e)
 
 Consultation and Funding Agreements.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—In carrying out the environmental sustainability, ecosystem restoration, and monitoring activities authorized in this section, the Secretary \[of the Army\] shall consult with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Funding agreements.—The Secretary is authorized to enter into agreements with the Secretary of the Interior, the Upper Mississippi River Basin Association, and natural resource and conservation agencies of the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin to provide for the direct participation of and transfer of funds to such entities for the planning, implementation, and evaluation of projects and programs established by this section.
 
-“(f)
+"(f)
 
 Specific Projects Authorization.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—There is authorized to be appropriated to carry out this subsection $1,717,000,000, of which not more than $245,000,000 shall be available for projects described in subsection (b)(2)(B) and not more than $48,000,000 shall be available for projects described in subsection (b)(2)(J). Such sums shall remain available until expended.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Limitation on available funds.—Of the amounts made available under paragraph (1), not more than $35,000,000 in any fiscal year may be used for land acquisition under subsection (b)(4).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Individual project limit.—Other than for projects described in subparagraphs (B) and (J) of subsection (b)(2), the total cost of any single project carried out under this subsection shall not exceed $25,000,000.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Monitoring.—In addition to amounts authorized under paragraph (1), there are authorized $10,420,000 per fiscal year to carry out the monitoring program under subsection (c) if such sums are not appropriated pursuant to section 1103(e)(4) the Water Resources Development Act of 1986 (33 U.S.C. 652(e)(4)).
 
-“(g)
+"(g)
 
 Implementation Reports.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than June 30, 2009, and every 4 years thereafter, the Secretary \[of the Army\] shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an implementation report that—
 
-&emsp;&emsp;“(A) includes baselines, milestones, goals, and priorities for ecosystem restoration projects; and
+&emsp;&emsp;"(A) includes baselines, milestones, goals, and priorities for ecosystem restoration projects; and
 
-&emsp;&emsp;“(B) measures the progress in meeting the goals.
+&emsp;&emsp;"(B) measures the progress in meeting the goals.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Advisory panel.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The Secretary shall appoint and convene an advisory panel to provide independent guidance in the development of each implementation report under paragraph (1).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Panel members.—Panel members shall include—
 
-&emsp;&emsp;&emsp;“(i) one representative of each of the State resource agencies (or a designee of the Governor of the State) from each of the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin;
+&emsp;&emsp;&emsp;"(i) one representative of each of the State resource agencies (or a designee of the Governor of the State) from each of the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin;
 
-&emsp;&emsp;&emsp;“(ii) one representative of the Department of Agriculture;
+&emsp;&emsp;&emsp;"(ii) one representative of the Department of Agriculture;
 
-&emsp;&emsp;&emsp;“(iii) one representative of the Department of Transportation;
+&emsp;&emsp;&emsp;"(iii) one representative of the Department of Transportation;
 
-&emsp;&emsp;&emsp;“(iv) one representative of the United States Geological Survey;
+&emsp;&emsp;&emsp;"(iv) one representative of the United States Geological Survey;
 
-&emsp;&emsp;&emsp;“(v) one representative of the United States Fish and Wildlife Service;
+&emsp;&emsp;&emsp;"(v) one representative of the United States Fish and Wildlife Service;
 
-&emsp;&emsp;&emsp;“(vi) one representative of the Environmental Protection Agency;
+&emsp;&emsp;&emsp;"(vi) one representative of the Environmental Protection Agency;
 
-&emsp;&emsp;&emsp;“(vii) one representative of affected landowners;
+&emsp;&emsp;&emsp;"(vii) one representative of affected landowners;
 
-&emsp;&emsp;&emsp;“(viii) two representatives of conservation and environmental advocacy groups; and
+&emsp;&emsp;&emsp;"(viii) two representatives of conservation and environmental advocacy groups; and
 
-&emsp;&emsp;&emsp;“(ix) two representatives of agriculture and industry advocacy groups.
+&emsp;&emsp;&emsp;"(ix) two representatives of agriculture and industry advocacy groups.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Chairperson.—The Secretary shall serve as chairperson of the advisory panel.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Application of federal advisory committee act.—The Advisory Panel and any working group established by the Advisory Panel shall not be considered an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.).
 
-“(h)
+"(h)
 
 Ranking System.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary \[of the Army\], in consultation with the Advisory Panel, shall develop a system to rank proposed projects.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Priority.—The ranking system shall give greater weight to projects that restore natural river processes, including those projects listed in subsection (b)(2).
 
-#### “SEC. 8005. COMPARABLE PROGRESS.
+#### "SEC. 8005. COMPARABLE PROGRESS.
 
-“(a)
+"(a)
 
 In General.—As the Secretary \[of the Army\] conducts pre-engineering, design, and construction for projects authorized under this title, the Secretary shall—
 
-&emsp;“(1) select appropriate milestones;
+&emsp;"(1) select appropriate milestones;
 
-&emsp;“(2) determine, at the time of such selection, whether the projects are being carried out at comparable rates; and
+&emsp;"(2) determine, at the time of such selection, whether the projects are being carried out at comparable rates; and
 
-&emsp;“(3) make an annual report to Congress, beginning in fiscal year 2009, regarding whether the projects are being carried out at a comparable rate.
+&emsp;"(3) make an annual report to Congress, beginning in fiscal year 2009, regarding whether the projects are being carried out at a comparable rate.
 
-“(b)
+"(b)
 
-No Comparable Rate.—If the Secretary \[of the Army\] or Congress determines under subsection (a)(2) that projects authorized under this title are not moving toward completion at a comparable rate, annual funding requests for the projects shall be adjusted to ensure that the projects move toward completion at a comparable rate in the future.”
+No Comparable Rate.—If the Secretary \[of the Army\] or Congress determines under subsection (a)(2) that projects authorized under this title are not moving toward completion at a comparable rate, annual funding requests for the projects shall be adjusted to ensure that the projects move toward completion at a comparable rate in the future."
 
 #### Upper Mississippi River Basin Sediment and Nutrient Study
 
 Pub. L. 106–541, title IV, §403, Dec. 11, 2000, 114 Stat. 2634, provided that:
 
-“(a)
+"(a)
 
 In General.—In conjunction with the Secretary of Agriculture and the Secretary of the Interior, the Secretary \[of the Army\] shall conduct a study to—
 
-&emsp;“(1) identify and evaluate significant sources of sediment and nutrients in the upper Mississippi River basin;
+&emsp;"(1) identify and evaluate significant sources of sediment and nutrients in the upper Mississippi River basin;
 
-&emsp;“(2) quantify the processes affecting mobilization, transport, and fate of those sediments and nutrients on land and in water; and
+&emsp;"(2) quantify the processes affecting mobilization, transport, and fate of those sediments and nutrients on land and in water; and
 
-&emsp;“(3) quantify the transport of those sediments and nutrients to the upper Mississippi River and the tributaries of the upper Mississippi River.
+&emsp;"(3) quantify the transport of those sediments and nutrients to the upper Mississippi River and the tributaries of the upper Mississippi River.
 
-“(b)
+"(b)
 
 Study Components.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Computer modeling.—In carrying out the study under this section, the Secretary shall develop computer models of the upper Mississippi River basin, at the subwatershed and basin scales, to—
 
-&emsp;&emsp;“(A) identify and quantify sources of sediment and nutrients; and
+&emsp;&emsp;"(A) identify and quantify sources of sediment and nutrients; and
 
-&emsp;&emsp;“(B) examine the effectiveness of alternative management measures.
+&emsp;&emsp;"(B) examine the effectiveness of alternative management measures.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Research.—In carrying out the study under this section, the Secretary shall conduct research to improve the understanding of—
 
-&emsp;&emsp;“(A) fate processes and processes affecting sediment and nutrient transport, with emphasis on nitrogen and phosphorus cycling and dynamics;
+&emsp;&emsp;"(A) fate processes and processes affecting sediment and nutrient transport, with emphasis on nitrogen and phosphorus cycling and dynamics;
 
-&emsp;&emsp;“(B) the influences on sediment and nutrient losses of soil type, slope, climate, vegetation cover, and modifications to the stream drainage network; and
+&emsp;&emsp;"(B) the influences on sediment and nutrient losses of soil type, slope, climate, vegetation cover, and modifications to the stream drainage network; and
 
-&emsp;&emsp;“(C) river hydrodynamics, in relation to sediment and nutrient transformations, retention, and transport.
+&emsp;&emsp;"(C) river hydrodynamics, in relation to sediment and nutrient transformations, retention, and transport.
 
-“(c)
+"(c)
 
 Use of Information.—On request of a Federal agency, the Secretary may provide information for use in applying sediment and nutrient reduction programs associated with land-use improvements and land management practices.
 
-“(d)
+"(d)
 
 Reports.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Preliminary report.—Not later than 2 years after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary shall transmit to Congress a preliminary report that outlines work being conducted on the study components described in subsection (b).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Final report.—Not later than 5 years after the date of enactment of this Act, the Secretary shall transmit to Congress a report describing the results of the study under this section, including any findings and recommendations of the study.
 
-“(e)
+"(e)
 
 Funding.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Authorization of appropriations.—There is authorized to be appropriated to carry out this section $4,000,000 for each of fiscal years 2001 through 2005.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Federal share.—The Federal share of the cost of carrying out this section shall be 50 percent.”
+Federal share.—The Federal share of the cost of carrying out this section shall be 50 percent."
 
 #### Upper Mississippi River Comprehensive Plan
 
 Pub. L. 106–53, title IV, §459, Aug. 17, 1999, 113 Stat. 332, as amended by Pub. L. 106–541, title IV, §404, Dec. 11, 2000, 114 Stat. 2635, provided that:
 
-“(a)
+"(a)
 
 Development.—The Secretary \[of the Army\] shall develop a plan to address water resource and related land resource problems and opportunities in the upper Mississippi and Illinois River basins, from Cairo, Illinois, to the headwaters of the Mississippi River, in the interest of systemic flood damage reduction by means of—
 
-&emsp;“(1) structural and nonstructural flood control and floodplain management strategies;
+&emsp;"(1) structural and nonstructural flood control and floodplain management strategies;
 
-&emsp;“(2) continued maintenance of the navigation project;
+&emsp;"(2) continued maintenance of the navigation project;
 
-&emsp;“(3) management of bank caving and erosion;
+&emsp;"(3) management of bank caving and erosion;
 
-&emsp;“(4) watershed nutrient and sediment management;
+&emsp;"(4) watershed nutrient and sediment management;
 
-&emsp;“(5) habitat management;
+&emsp;"(5) habitat management;
 
-&emsp;“(6) recreation needs; and
+&emsp;"(6) recreation needs; and
 
-&emsp;“(7) other related purposes.
+&emsp;"(7) other related purposes.
 
-“(b)
+"(b)
 
 Contents.—The plan under subsection (a) shall—
 
-&emsp;“(1) contain recommendations on management plans and actions to be carried out by the responsible Federal and non-Federal entities;
+&emsp;"(1) contain recommendations on management plans and actions to be carried out by the responsible Federal and non-Federal entities;
 
-&emsp;“(2) specifically address recommendations to authorize construction of a systemic flood control project for the upper Mississippi River; and
+&emsp;"(2) specifically address recommendations to authorize construction of a systemic flood control project for the upper Mississippi River; and
 
-&emsp;“(3) include recommendations for Federal action where appropriate and recommendations for follow-on studies for problem areas for which data or current technology does not allow immediate solutions.
+&emsp;"(3) include recommendations for Federal action where appropriate and recommendations for follow-on studies for problem areas for which data or current technology does not allow immediate solutions.
 
-“(c)
+"(c)
 
 Consultation and Use of Existing Data.—In carrying out this section, the Secretary shall—
 
-&emsp;“(1) consult with appropriate Federal and State agencies; and
+&emsp;"(1) consult with appropriate Federal and State agencies; and
 
-&emsp;“(2) make maximum use of data in existence on the date of enactment of this Act \[Aug. 17, 1999\] and ongoing programs and efforts of Federal agencies and States in developing the plan under subsection (a).
+&emsp;"(2) make maximum use of data in existence on the date of enactment of this Act \[Aug. 17, 1999\] and ongoing programs and efforts of Federal agencies and States in developing the plan under subsection (a).
 
-“(d)
+"(d)
 
 Cost Sharing.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Development.—Development of the plan under subsection (a) shall be at Federal expense.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Feasibility studies.—Feasibility studies resulting from development of the plan shall be subject to cost sharing under section 105 of the Water Resources Development Act of 1986 (33 U.S.C. 2215).
 
-“(e)
+"(e)
 
-Report.—Not later than 3 years after the first date on which funds are appropriated to carry out this section, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes the plan under subsection (a).”
+Report.—Not later than 3 years after the first date on which funds are appropriated to carry out this section, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes the plan under subsection (a)."
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 

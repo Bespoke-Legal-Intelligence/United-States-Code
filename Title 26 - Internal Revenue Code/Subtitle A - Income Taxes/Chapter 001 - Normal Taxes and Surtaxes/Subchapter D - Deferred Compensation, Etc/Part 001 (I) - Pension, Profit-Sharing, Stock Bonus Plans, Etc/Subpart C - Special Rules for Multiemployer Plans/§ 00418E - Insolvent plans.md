@@ -14,15 +14,15 @@ For purposes of this section, for a plan year—
 
 #### (2) Resource benefit level
 
-&emsp;The term “resource benefit level” means the level of monthly benefits determined under subsections (c)(1) and (3) and (d)(3) to be the highest level which can be paid out of the plan's available resources.
+&emsp;The term "resource benefit level" means the level of monthly benefits determined under subsections (c)(1) and (3) and (d)(3) to be the highest level which can be paid out of the plan's available resources.
 
 #### (3) Available resources
 
-&emsp;The term “available resources” means the plan's cash, marketable assets, contributions, withdrawal liability payments, and earnings, less reasonable administrative expenses and amounts owed for such plan year to the Pension Benefit Guaranty Corporation under section 4261(b)(2) of the Employee Retirement Income Security Act of 1974.
+&emsp;The term "available resources" means the plan's cash, marketable assets, contributions, withdrawal liability payments, and earnings, less reasonable administrative expenses and amounts owed for such plan year to the Pension Benefit Guaranty Corporation under section 4261(b)(2) of the Employee Retirement Income Security Act of 1974.
 
 #### (4) Insolvency year
 
-&emsp;The term “insolvency year” means a plan year in which a plan is insolvent.
+&emsp;The term "insolvency year" means a plan year in which a plan is insolvent.
 
 #### (c) Benefit payments under insolvent plans
 
@@ -46,7 +46,7 @@ For purposes of this section, for a plan year—
 
 #### (B) Excess resources
 
-&emsp;&emsp;For purposes of this paragraph, the term “excess resources” means available resources above the amount necessary to support the resource benefit level, but no greater than the amount necessary to pay benefits for the plan year at the benefit levels under the plan.
+&emsp;&emsp;For purposes of this paragraph, the term "excess resources" means available resources above the amount necessary to support the resource benefit level, but no greater than the amount necessary to pay benefits for the plan year at the benefit levels under the plan.
 
 #### (5) Unpaid benefits
 
@@ -120,9 +120,9 @@ Section 4261 of the Employee Retirement Income Security Act of 1974, referred to
 
 #### Amendments
 
-<b>2006</b>—Subsec. (d)(1). Pub. L. 109–280 substituted “5 plan years” for “3 plan years” the second place it appeared and inserted at end “If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.”
+<b>2006</b>—Subsec. (d)(1). Pub. L. 109–280 substituted "5 plan years" for "3 plan years" the second place it appeared and inserted at end "If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years."
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title II, §213(b), Aug. 17, 2006, 120 Stat. 918, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to the determinations made in plan years beginning after 2007.”
+Pub. L. 109–280, title II, §213(b), Aug. 17, 2006, 120 Stat. 918, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to the determinations made in plan years beginning after 2007."
 

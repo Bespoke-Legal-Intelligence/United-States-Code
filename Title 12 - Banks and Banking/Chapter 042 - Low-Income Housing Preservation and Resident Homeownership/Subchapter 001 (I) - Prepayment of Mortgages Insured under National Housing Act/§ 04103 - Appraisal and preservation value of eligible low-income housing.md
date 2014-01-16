@@ -50,5 +50,5 @@ The Secretary shall provide written guidelines for appraisals of preservation va
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–550 inserted “simultaneous termination of any Federal rental assistance,” before “and costs” in first sentence.
+<b>1992</b>—Subsec. (c). Pub. L. 102–550 inserted "simultaneous termination of any Federal rental assistance," before "and costs" in first sentence.
 

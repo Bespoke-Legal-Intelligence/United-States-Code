@@ -74,7 +74,7 @@
 
 #### (3) World-wide operations
 
-&emsp;For purposes of this subsection, the term “world-wide operations” means operations in or related to countries other than the United States.
+&emsp;For purposes of this subsection, the term "world-wide operations" means operations in or related to countries other than the United States.
 
 #### (d) Determination with respect to particular operations
 
@@ -96,17 +96,17 @@ Any person (within the meaning of section 6671(b)) required to report under this
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(1). Pub. L. 108–357 struck out “941(a)(5),” after “sections 908(a),”.
+<b>2004</b>—Subsec. (c)(1). Pub. L. 108–357 struck out "941(a)(5)," after "sections 908(a),".
 
-<b>2000</b>—Subsec. (c)(1). Pub. L. 106–519 inserted “941(a)(5),” after “908(a),”.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–519 inserted "941(a)(5)," after "908(a),".
 
 <b>1986</b>—Subsec. (c)(1), (2). Pub. L. 99–514 repealed section 802(c)(3) of Pub. L. 98–369 thereby restoring former text. See 1984 Amendment note below.
 
-<b>1984</b>—Subsec. (c)(1), (2). Pub. L. 98–369 which substituted “995(b)(1)(F)(i)” for “995(b)(1)(F)(ii)” wherever appearing was repealed. See 1986 Amendment note above.
+<b>1984</b>—Subsec. (c)(1), (2). Pub. L. 98–369 which substituted "995(b)(1)(F)(i)" for "995(b)(1)(F)(ii)" wherever appearing was repealed. See 1986 Amendment note above.
 
-<b>1978</b>—Subsec. (c)(1). Pub. L. 95–600, §703(h)(2), substituted “995(b)(1)(F)(ii)” for “995(b)(3)”.
+<b>1978</b>—Subsec. (c)(1). Pub. L. 95–600, §703(h)(2), substituted "995(b)(1)(F)(ii)" for "995(b)(3)".
 
-Subsec. (c)(2). Pub. L. 95–600, §703(h)(3), substituted “995(b)(1)(F)(ii)” for “995(b)(1)(D)(ii)”.
+Subsec. (c)(2). Pub. L. 95–600, §703(h)(3), substituted "995(b)(1)(F)(ii)" for "995(b)(1)(D)(ii)".
 
 #### Effective Date of 2004 Amendment
 

@@ -40,7 +40,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 #### (2) Renewal of leases with discoveries
 
-&emsp;At the end of the primary term of a lease the Secretary shall renew for an additional 10-year term a lease that does not meet the requirements of paragraph (1) if the lessee submits to the Secretary an application for renewal not later than 60 days before the expiration of the primary lease and the lessee certifies, and the Secretary agrees, that hydrocarbon resources were discovered on one or more wells drilled on the leased land in such quantities that a prudent operator would hold the lease for potential future development.
+&emsp;At the end of the primary term of a lease the Secretary shall renew for an additional 10-year term a lease that does not meet the requirements of paragraph (1) if the lessee submits to the Secretary an application for renewal not later than 60 days before the expiration of the primary lease and the lessee certifies, and the Secretary agrees, that hydrocarbon resources were discovered on one or more wells drilledon the leased land in such quantities that a prudent operator would hold the lease for potential future development.
 
 #### (3) Renewal of leases without discoveries
 
@@ -74,7 +74,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 #### (2) Consultation
 
-&emsp;In making a determination under paragraph (1), the Secretary shall consult with and provide opportunities for participation by the State of Alaska or a Regional Corporation (as defined in section 1602 of title 43) with respect to the creation or expansion of units that include acreage in which the State of Alaska orthe Regional Corporation has an interest in the mineral estate.
+&emsp;In making a determination under paragraph (1), the Secretary shall consult with and provide opportunities for participation by the State of Alaska or a Regional Corporation (as defined in section 1602 of title 43) with respect to the creation or expansion of units that include acreage in which the State of Alaska or the Regional Corporation has an interest in the mineral estate.
 
 #### (3) Production allocation methodology
 
@@ -126,7 +126,7 @@ Any agency of the United States and any person authorized by the Secretary may c
 
 #### (2) Initial lease sales
 
-&emsp;The detailed environmental studies and assessments that have been conducted on the exploration program and the comprehensive land-use studies carried out in response to sections <sup>3</sup> 6505(b) and (c) of this title shall be deemed to have fulfilled the requirements of section 102(2)(c) <sup>4</sup> of the National Environmental Policy Act (Public Law 91–190) \[42 U.S.C. 4332(2)(C)\], with regard to the first two oil and gas lease sales in the National Petroleum Reserve-Alaska: <i>Provided</i>, That not morethan a total of 2,000,000 acres may be leased in these two sales: <i>Provided further</i>, That any exploration or production undertaken pursuant to this section shall be in accordance with section 6504(a) of this title.
+&emsp;The detailed environmental studies and assessments that have been conducted on the exploration program and the comprehensive land-use studies carried out in response to sections <sup>3</sup> 6505(b) and (c) of this title shall be deemed to have fulfilled the requirements of section 102(2)(c) <sup>4</sup> of the National Environmental Policy Act (Public Law 91–190) \[42 U.S.C. 4332(2)(C)\], with regard to the first two oil and gas lease sales in the National Petroleum Reserve-Alaska: <i>Provided</i>, That not more than a total of 2,000,000 acres may be leased in these two sales: <i>Provided further</i>, That any exploration or production undertaken pursuant to this section shall be in accordance with section 6504(a) of this title.
 
 #### (o) Regulations
 
@@ -138,7 +138,7 @@ As soon as practicable after August 8, 2005, the Secretary shall issue regulatio
 
 &emsp;Notwithstanding section 1613(g) of title 43—
 
-&emsp;&emsp;(A) the Secretary of the Interior shall waive administration of any oil and gas lease to the extent that the lease covers any land in the Reserve in which all of the subsurface estate is conveyed to the Arctic Slope Regional Corporation (referred to in this subsection as the “Corporation”);
+&emsp;&emsp;(A) the Secretary of the Interior shall waive administration of any oil and gas lease to the extent that the lease covers any land in the Reserve in which all of the subsurface estate is conveyed to the Arctic Slope Regional Corporation (referred to in this subsection as the "Corporation");
 
 &emsp;&emsp;(B)(i) in a case in which a conveyance of a subsurface estate described in subparagraph (A) does not include all of the land covered by the oil and gas lease, the person that owns the subsurface estate in any particular portion of the land covered by the lease shall be entitled to all of the revenues reserved under the lease as to that portion, including, without limitation, all the royalty payable with respect to oil or gas produced from or allocated to that portion;
 
@@ -158,7 +158,7 @@ As soon as practicable after August 8, 2005, the Secretary shall issue regulatio
 
 This Act, referred to in subsecs. (a), (b), (i)(5), and (l) is Pub. L. 94–258, Apr. 5, 1976, 90 Stat. 303, known as the Naval Petroleum Reserves Production Act of 1976, which enacted this chapter and section 7420 of Title 10, Armed Forces, and amended section 6244 of this title and sections 7421 to 7436 and 7438 of Title 10. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
-December 12, 1980, referred to in subsec. (d), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 96–514, which enacted this section, to reflect the probable intent of Congress.
+December 12, 1980, referred to in subsec. (d), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment ofPub. L. 96–514, which enacted this section, to reflect the probable intent of Congress.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
@@ -168,7 +168,7 @@ Section 1431(o) of the Alaska National Interest Lands Conservation Act, referred
 
 #### Codification
 
-Section, which consisted of the matter under the heading “Exploration of National Petroleum Reserve in Alaska” in title I of Pub. L. 96–514, as amended, prior to being renumbered section 107 of Pub. L. 94–258, was formerly classified to section 6508 of this title.
+Section, which consisted of the matter under the heading "Exploration of National Petroleum Reserve in Alaska" in title I of Pub. L. 96–514, as amended, prior to being renumbered section 107 of Pub. L. 94–258, was formerly classified to section 6508 of this title.
 
 #### Prior Provisions
 
@@ -178,7 +178,7 @@ A prior section 107 of Pub. L. 94–258 was renumbered 108 and is classified to 
 
 <b>2005</b>—Pub. L. 109–58 amended section catchline and revised and restructured text into subsecs. (a) to (p). Amendments by Pub. L. 109–58, §347(b)(2) to (7), were executed by disregarding the second set of closed quotation marks in each such paragraph to reflect the probable intent of Congress. Prior to amendment, text related to competitive leasing of oil and gas and consisted of four undesignated pars.
 
-<b>1997</b>—Pub. L. 105–83, in first par., substituted cls. (8) to (11) and two concluding provisos for “(8) each lease shall be issued for an initial period of up to ten years, and shall be extended for so long thereafter as oil or gas is produced from the lease in paying quantities, or as drilling or reworking operations, as approved by the Secretary, are conducted thereon; and (9) all receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this Act shall be paid into the Treasury of the United States: <i>Provided</i>, That 50 per centum thereof shall be paid by the Secretary of the Treasury semiannually, as soon as practicable after March 30 and September 30 each year, to the State of Alaska for (a) planning, (b) construction, maintenance, and operation of essential public facilities, and (c) other necessary provisions of public service: <i>Provided further</i>, That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act.”
+<b>1997</b>—Pub. L. 105–83, in first par., substituted cls. (8) to (11) and two concluding provisos for "(8) each lease shall be issued for an initial period of up to ten years, and shall be extended for so long thereafter as oil or gas is produced from the lease in paying quantities, or as drilling or reworking operations, as approved by the Secretary, are conducted thereon; and (9) all receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this Act shall be paid into the Treasury of the United States: <i>Provided</i>, That 50 per centum thereof shall be paid by the Secretary of the Treasury semiannually, as soon as practicable after March 30 and September 30 each year, to the State of Alaska for (a) planning, (b) construction, maintenance, and operation of essential public facilities, and (c) other necessary provisions of public service: <i>Provided further</i>, That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act."
 
 <b>1984</b>—Pub. L. 98–620 struck out provision in third par. that required that any proceeding on such action be assigned for hearing at the earliest possible date and be expedited by the Court.
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "section".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “102(2)(C)”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "102(2)(C)".</i>
 

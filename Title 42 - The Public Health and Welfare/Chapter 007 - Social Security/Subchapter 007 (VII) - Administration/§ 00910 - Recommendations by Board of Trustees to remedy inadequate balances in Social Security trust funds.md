@@ -4,15 +4,15 @@
 
 If the Board of Trustees of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, or the Federal Supplementary Medical Insurance Trust Fund determines at any time that the balance ratio of any such Trust Fund for any calendar year may become less than 20 percent, the Board shall promptly submit to each House of the Congress a report setting forth its recommendations for statutory adjustments affecting the receipts and disbursements of such Trust Fund necessary to maintain the balance ratio of such Trust Fund at not less than 20 percent, with due regard to the economic conditions which created such inadequacy in the balance ratio and the amount of time necessary to alleviate such inadequacy in a prudent manner. The report shall set forth specifically the extent to which benefits would have to be reduced, taxes under section 1401, 3101, or 3111 of the Internal Revenue Code of 1986 would have to be increased, or a combination thereof, in order to obtain the objectives referred to in the preceding sentence.
 
-#### (b) “Balance ratio” defined
+#### (b) "Balance ratio" defined
 
-For purposes of this section, the term “balance ratio” means, with respect to any calendar year in connection with any Trust Fund referred to in subsection (a) of this section, the ratio of—
+For purposes of this section, the term "balance ratio" means, with respect to any calendar year in connection with any Trust Fund referred to in subsection (a) of this section, the ratio of—
 
 &emsp;(1) the balance in such Trust Fund as of the beginning of such year, including the taxes transferred under section 401(a) of this title on the first day of such year and reduced by the outstanding amount of any loan (including interest thereon) theretofore made to such Trust Fund under section 401(l) or 1395i(j) of this title, to
 
 &emsp;(2) the total amount which (for amounts which will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, as estimated by the Commissioner, and for amounts which will be paid from the Federal Hospital Insurance Trust and the Federal Supplementary Medical Insurance Trust Fund, as estimated by the Secretary) will be paid from such Trust Fund during such calendar year for all purposes authorized by section 401, 1395i, or 1395t of this title (as applicable), other than payments of interest on, or repayments of, loans under section 401(l) or 1395i(j) of this title, but excluding any transfer payments between such Trust Fund and any other Trust Fund referred to in subsection (a) of this section and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into such Trust Fund from that Account.
 
-(Aug. 14, 1935, ch. 531, title VII, §709, as added Pub. L. 98–21, title I, §143, Apr. 20, 1983, 97 Stat. 102; amended Pub. L. 99–272, title XII, §12106, Apr. 7, 1986, 100 Stat. 286; Pub. L. 99–514, §2, Oct.22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, §108(a)(3), Aug. 15, 1994, 108 Stat. 1481.)
+(Aug. 14, 1935, ch. 531, title VII, §709, as added Pub. L. 98–21, title I, §143, Apr. 20, 1983, 97 Stat. 102; amended Pub. L. 99–272, title XII, §12106, Apr. 7, 1986, 100 Stat. 286; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, §108(a)(3), Aug. 15, 1994, 108 Stat. 1481.)
 
 #### References in Text
 
@@ -20,11 +20,11 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified gen
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(2). Pub. L. 103–296 substituted “(for amounts which will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, as estimated by the Commissioner, and for amounts which will be paid from the Federal Hospital Insurance Trust and the Federal Supplementary Medical Insurance Trust Fund, as estimated by the Secretary)” for “(as estimated by the Secretary)”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–296 substituted "(for amounts which will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, as estimated by the Commissioner, and for amounts which will be paid from the Federal Hospital Insurance Trust and the Federal Supplementary Medical Insurance Trust Fund, as estimated by the Secretary)" for "(as estimated by the Secretary)".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
-Subsec. (b)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the balance in such Trust Fund, reduced by the outstanding amount of any loan (including interest thereon) theretofore made to such Trust Fund under section 401(l) or 1395i(j) of this title, as of the beginning of such year, to”.
+Subsec. (b)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "thebalance in such Trust Fund, reduced by the outstanding amount of any loan (including interest thereon) theretofore made to such Trust Fund under section 401(l) or 1395i(j) of this title, as of the beginning of such year, to".
 
 #### Effective Date of 1994 Amendment
 

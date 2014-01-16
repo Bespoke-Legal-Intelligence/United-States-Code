@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 Apr. 3, 1952, ch. 131, §2, 66 Stat. 38.
 
-In clause (1), the word “various” is omitted as unnecessary.
+In clause (1), the word "various" is omitted as unnecessary.
 

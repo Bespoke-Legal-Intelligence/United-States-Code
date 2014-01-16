@@ -6,7 +6,7 @@ Notwithstanding the provision of section 3727 of title 31, the Secretary is auth
 
 #### (b) Nonrecognition by Secretary
 
-The Secretary shall not recognize any assignment under this section which does not provide that the United States reserves the right to assert against the assignee and successors of the assignee, any setoff or counterclaim which the United States has against the assignor Corporation.
+The Secretary shall not recognize any assignment under this section which does not providethat the United States reserves the right to assert against the assignee and successors of the assignee, any setoff or counterclaim which the United States has against the assignor Corporation.
 
 #### (c) Claims against Secretary by stockholders of Regional or Village Corporation for recognition of assignment
 
@@ -16,5 +16,5 @@ No stockholder of any Regional or Village Corporation shall have any claim again
 
 #### Codification
 
-In subsec. (a), “section 3727 of title 31” substituted for “section 3477 of the Revised Statutes, as amended (31 U.S.C. 203)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a), "section 3727 of title 31" substituted for "section 3477 of the Revised Statutes, as amended (31 U.S.C. 203)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 

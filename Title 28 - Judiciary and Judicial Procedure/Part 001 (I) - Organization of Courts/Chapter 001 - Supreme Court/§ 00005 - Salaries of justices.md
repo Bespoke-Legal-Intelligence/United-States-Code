@@ -8,7 +8,7 @@ The Chief Justice and each associate justice shall each receive a salary at annu
 
 Based on title 28, U.S.C., 1940 ed., §324 (Mar. 3, 1911, ch. 231, §218, 36 Stat. 1152; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; July 31, 1946, ch. 704, §1, 60 Stat. 716).
 
-The provision “to be paid monthly” was omitted since the time of payment of salaries is a matter of administrative convenience. (See 20 Comp. Gen. 834.)
+The provision "to be paid monthly" was omitted since the time of payment of salaries is a matter of administrative convenience. (See 20 Comp. Gen. 834.)
 
 Minor changes in phraseology were made.
 
@@ -30,7 +30,7 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 
 #### Effective Date of 1955 Amendment
 
-Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under section 31 of Title 2, The Congress.
+Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under section 4501 of Title 2, The Congress.
 
 #### Salary Increases
 

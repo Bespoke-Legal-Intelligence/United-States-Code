@@ -6,7 +6,7 @@ Civil Penalties.—
 
 &emsp;(1)
 
-In general.—A person that violates any of section 30112, 30115, 30117 through 30122, 30123(d),<sup>1</sup> 30125(c), 30127, 30141 through 30147, or 31137, or a regulation prescribed thereunder, is liable to the United States Government for a civil penalty of not more than $5,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $15,000,000.
+In general.—A person that violates any of section 30112, 30115, 30117 through 30122, 30123(a), 30125(c), 30127, 30141 through 30147, or 31137, or a regulation prescribed thereunder, is liable to the United States Government for a civil penalty of not more than $5,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $35,000,000.
 
 &emsp;(2)
 
@@ -26,11 +26,11 @@ Related series of violations.—A separate violation occurs for each motor vehic
 
 &emsp;(3)
 
-Section 30166.—Except as provided in paragraph (4), a person who violates section 30166 or a regulation prescribed under that section is liable to the United States Government for a civil penalty for failing or refusing to allow or perform an act required under that section or regulation. The maximum penalty under this paragraph is $5,000 per violation per day. The maximum penalty under this paragraph for a related series of daily violations is $15,000,000.
+Section 30166.—Except as provided in paragraph (4), a person who violates section 30166 or a regulation prescribed under that section is liable to the United States Government for a civil penalty for failing or refusing to allow or perform an act required under that section or regulation. The maximum penalty under this paragraph is $5,000 per violation per day. The maximum penalty under this paragraph for a related series of daily violations is $35,000,000.
 
 &emsp;(4)
 
-False or misleading reports.—A person who knowingly and willfully submits materially false or misleading information to the Secretary, after certifying the same information as accurate under the certification process established pursuant to section 30166(o), shall be subject to a civil penalty of not more than $5,000 per day. The maximum penaltyunder this paragraph for a related series of daily violations is $1,000,000.
+False or misleading reports.—A person who knowingly and willfully submits materially false or misleading information to the Secretary, after certifying the same information as accurate under the certification process established pursuant to section 30166(o), shall be subject to a civil penalty of not more than $5,000 per day. The maximum penalty under this paragraph for a related series of daily violations is $1,000,000.
 
 (b)
 
@@ -40,49 +40,31 @@ Compromise and Setoff.—(1) The Secretary of Transportation may compromise the 
 
 (c)
 
-Considerations.—In determining the amount of a civil penalty or compromise, the appropriateness of the penalty or compromise to the size of the business of the person charged and the gravity of the violation shall be considered.
+Relevant Factors in Determining Amount of Penalty or Compromise.—In determining the amount of a civil penalty or compromise under this section, the Secretary of Transportation shall consider the nature, circumstances, extent, and gravity of the violation. Such determination shall include, as appropriate—
+
+&emsp;(1) the nature of the defect or noncompliance;
+
+&emsp;(2) knowledge by the person charged of its obligations under this chapter;
+
+&emsp;(3) the severity of the risk of injury;
+
+&emsp;(4) the occurrence or absence of injury;
+
+&emsp;(5) the number of motor vehicles or items of motor vehicle equipment distributed with the defect or noncompliance;
+
+&emsp;(6) actions taken by the person charged to identify, investigate, or mitigate the condition;
+
+&emsp;(7) the appropriateness of such penalty in relation to the size of the business of the person charged, including the potential for undue adverse economic impacts;
+
+&emsp;(8) whether the person has been assessed civil penalties under this section during the most recent 5 years; and
+
+&emsp;(9) other appropriate factors.
 
 (d)
 
 Subpenas for Witnesses.—In a civil action brought under this section, a subpena for a witness may be served in any judicial district.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 968; Pub. L. 103–429, §6(23), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 106–414, §5(a), Nov. 1, 2000, 114 Stat. 1803; Pub. L. 109–59, title X, §10309(c), Aug. 10, 2005, 119 Stat. 1942; Pub. L. 112–141, div. C, title I, §§31203(a), 31304(b), title II, §32301(c), July 6, 2012, 126 Stat. 758, 764, 788.)
-
-#### Amendment of Subsections (a) and (c)
-
-<i>Pub. L. 112–141, §3, div. C, title I, §31203(a), (c), July 6, 2012, 126 Stat. 413, 758, provided that, effective on the date that is the earlier of the date on which final regulations are issued under section 31203(b) of Pub. L. 112–141 (set out as a note below) or 1 year after the date of enactment of this Act (see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways), this section is amended as follows:</i>
-
-<i>(1) in subsection (a)—</i>
-
-<i>(A) in paragraph (1), by striking “30123(d)” and inserting “30123(a)” and by striking “$15,000,000” and inserting “$35,000,000”; and</i>
-
-<i>(B) in paragraph (3), by striking “$15,000,000” and inserting “$35,000,000”; and</i>
-
-<i>(2) by amending subsection (c) to read as follows:</i>
-
-<i>(c)</i>
-
-<i>Relevant Factors in Determining Amount of Penalty or Compromise.—In determining the amount of a civil penalty or compromise under this section, the Secretary of Transportation shall consider the nature, circumstances, extent, and gravity of the violation. Such determination shall include, as appropriate—</i>
-
-&emsp;<i>(1) the nature of the defect or noncompliance;</i>
-
-&emsp;<i>(2) knowledge by the person charged of its obligations under this chapter;</i>
-
-&emsp;<i>(3) the severity of the risk of injury;</i>
-
-&emsp;<i>(4) the occurrence or absence of injury;</i>
-
-&emsp;<i>(5) the number of motor vehicles or items of motor vehicle equipment distributed with the defect or noncompliance;</i>
-
-&emsp;<i>(6) actions taken by the person charged to identify, investigate, or mitigate the condition;</i>
-
-&emsp;<i>(7) the appropriateness of such penalty in relation to the size of the business of the person charged, including the potential for undue adverse economic impacts;</i>
-
-&emsp;<i>(8) whether the person has been assessed civil penalties under this section during the most recent 5 years; and</i>
-
-&emsp;<i>(9) other appropriate factors.</i>
-
-<i>See 2012 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -120,43 +102,39 @@ Sept. 9, 1966, Pub. L. 89–563, §§109(b), 110(d) (related to §109), 204(b) (
 
 15:1399(d) (related to 15:1398).
 
-In subsection (a), the text of 15:1424(b) (related to civil penalty) is omitted because of the restatement. The words “is liable to the United States Government for” are substituted for “shall be subject to” for consistency. The words “A separate violation occurs for” are substituted for “Such violation of a provision of section 1397 of this title, or regulations issued thereunder, shall constitute a separate violation with respect to” to eliminate unnecessary words.
+In subsection (a), the text of 15:1424(b) (related to civil penalty) is omitted because of the restatement. The words "is liable to the United States Government for" are substituted for "shall be subject to" for consistency. The words "A separate violation occurs for" are substituted for "Such violation of a provision of section 1397 of this title, or regulations issued thereunder, shall constitute a separate violation with respect to" to eliminate unnecessary words.
 
-In subsection (b)(2), the words “amount of a civil penalty imposed or compromised” are substituted for “amount of such penalty, when finally determined, or the amount agreed upon in compromise” to eliminate unnecessary words.
+In subsection (b)(2), the words "amount of a civil penalty imposed or compromised" are substituted for "amount of such penalty, when finally determined, or the amount agreed upon in compromise" to eliminate unnecessary words.
 
-In subsection (d), the words “who are required to attend a United States district court” are omitted as surplus. The words “be served in” are substituted for “run into” for clarity.
+In subsection (d), the words "who are required to attend a United States district court" are omitted as surplus. The words "be served in" are substituted for "run into" for clarity.
 
 #### Pub. L. 103–429
 
 This amends 49:30141(c)(4)(A) and 30165(a) to correct erroneous cross-references.
 
-#### References in Text
-
-Section 30123(d) of this title, referred to in subsec. (a)(1), was redesignated section 30123(a) of this title by Pub. L. 105–178, title VII, §7106(b), June 9, 1998, 112 Stat. 467.
-
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32301(c), substituted “30141 through 30147, or 31137” for “or 30141 through 30147”.
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32301(c), substituted "30141 through 30147, or 31137" for "or 30141 through 30147".
 
-Pub. L. 112–141, §31203(a)(1)(A), substituted “30123(a)” for “30123(d)” and “$35,000,000” for “$15,000,000”.
+Pub. L. 112–141, §31203(a)(1)(A), substituted "30123(a)" for "30123(d)" and "$35,000,000" for "$15,000,000".
 
-Subsec. (a)(3). Pub. L. 112–141, §31304(b)(1), substituted “Except as provided in paragraph (4), a person” for “A person”.
+Subsec. (a)(3). Pub. L. 112–141, §31304(b)(1), substituted "Except as provided in paragraph (4), a person" for "A person".
 
-Pub. L. 112–141, §31203(a)(1)(B), substituted “$35,000,000” for “$15,000,000”.
+Pub. L. 112–141, §31203(a)(1)(B), substituted "$35,000,000" for "$15,000,000".
 
 Subsec. (a)(4). Pub. L. 112–141, §31304(b)(2), added par. (4).
 
-Subsec. (c). Pub. L. 112–141, §31203(a)(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “In determining the amount of a civil penalty or compromise, the appropriateness of the penalty or compromise to the size of the business of the person charged and the gravity of the violation shall be considered.”
+Subsec. (c). Pub. L. 112–141, §31203(a)(2), amended subsec. (c) generally. Prior to amendment, text read as follows: "In determining the amount of a civil penalty or compromise, the appropriateness of the penalty or compromise to the size of the business of the person charged and the gravity of the violation shall be considered."
 
 <b>2005</b>—Subsec. (a)(2), (3). Pub. L. 109–59, which directed amendment of section 30165(a), without specifying the title to be amended, by adding par. (2) and redesignating former par. (2) as (3), was executed to this section, to reflect the probable intent of Congress.
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–414 amended heading and text generally. Prior to amendment, text read as follows: “A person that violates any of sections 30112, 30115, 30117–30122, 30123(d), 30125(c), 30127, 30141–30147, or30166 of this title or a regulation prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $800,000.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–414 amended heading and text generally. Prior to amendment, text read as follows: "A person that violates any of sections 30112, 30115, 30117–30122, 30123(d), 30125(c), 30127, 30141–30147, or 30166 of this title or a regulation prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $800,000."
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–429 substituted “any of sections 30112” for “section 30112” and inserted “any of” before “those sections” in two places.
+<b>1994</b>—Subsec. (a). Pub. L. 103–429 substituted "any of sections 30112" for "section 30112" and inserted "any of" before "those sections" in two places.
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–141, div. C, title I, §31203(c), July 6, 2012, 126 Stat. 758, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b) \[set out as a note below\] or 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\].”
+Pub. L. 112–141, div. C, title I, §31203(c), July 6, 2012, 126 Stat. 758, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b) \[set out as a note below\] or 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\]."
 
 Amendment by sections 31304(b) and 32301(c) of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
@@ -166,7 +144,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Civil Penalty Criteria
 
-Pub. L. 112–141, div. C, title I, §31203(b), July 6, 2012, 126 Stat. 758, provided that: “Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall issue a final rule, in accordance with the procedures of section 553 of title 5, United States Code, which provides an interpretation of the penalty factors described in section 30165(c) of title 49, United States Code.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Pub. L. 112–141, div. C, title I, §31203(b), July 6, 2012, 126 Stat. 758, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall issue a final rule, in accordance with the procedures of section 553 of title 5, United States Code, which provides an interpretation of the penalty factors described in section 30165(c) of title 49, United States Code."
 

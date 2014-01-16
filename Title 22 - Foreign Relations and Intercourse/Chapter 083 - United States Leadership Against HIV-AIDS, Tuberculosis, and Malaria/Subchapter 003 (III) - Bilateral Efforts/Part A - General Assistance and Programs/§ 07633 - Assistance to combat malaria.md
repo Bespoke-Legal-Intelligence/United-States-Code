@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under any other provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, $5,000,000,000 during the 5-year period beginning on October 1, 2008 to carry out section 104C of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–4\], including for the development of anti-malarial pharmaceuticals by the Medicines for Malaria Venture.
+In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22U.S.C. 2151b(c)) for such purpose or under any other provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, $5,000,000,000 during the 5-year period beginning on October 1, 2008 to carry out section 104C of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–4\], including for the development of anti-malarial pharmaceuticals by the Medicines for Malaria Venture.
 
 #### (2) Availability of funds
 
@@ -34,7 +34,7 @@ The President shall establish a comprehensive, 5-year strategy to combat global 
 
 &emsp;(3) includes specific objectives and multisectoral approaches and strategies to reduce the prevalence, mortality, incidence, and spread of malaria;
 
-&emsp;(4) describes how this strategy would contribute to the United States’ overall global health and development goals;
+&emsp;(4) describes how this strategy would contribute to the United States' overall global health and development goals;
 
 &emsp;(5) clearly explains how outlined activities will interact with other United States Government global health activities, including the 5-year global AIDS strategy required under this chapter;
 
@@ -62,7 +62,7 @@ The President shall establish a comprehensive, 5-year strategy to combat global 
 
 The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-This chapter, referred to in subsec. (d)(5), was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
+This chapter, referred to in subsec. (d)(5), was in the original "this Act", meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
 #### Codification
 
@@ -70,13 +70,13 @@ Section is comprised of section 303 of Pub. L. 108–25. Subsec. (a) and another
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–293, §303(b)(1)(A), substituted “$5,000,000,000 during the 5-year period beginning on October 1, 2008” for “such sums as may be necessary for fiscal years 2004 through 2008”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–293, §303(b)(1)(A), substituted "$5,000,000,000 during the 5-year period beginning on October 1, 2008" for "such sums as may be necessary for fiscal years 2004 through 2008".
 
-Subsec. (b)(3). Pub. L. 110–293, §303(b)(1)(B), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+Subsec. (b)(3). Pub. L. 110–293, §303(b)(1)(B), substituted "fiscal years 2009 through 2013" for "fiscal years 2004 through 2008".
 
 Subsecs. (c), (d). Pub. L. 110–293, §303(b)(2), added subsecs. (c) relating to statement of policy and (d).
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “the”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "the".</i>
 

@@ -12,7 +12,7 @@
 - [&sect; 02286d - Board recommendations](%C2%A7%2002286d%20-%20Board%20recommendations.md)
 - [&sect; 02286e - Reports](%C2%A7%2002286e%20-%20Reports.md)
 - [&sect; 02286f - Judicial review](%C2%A7%2002286f%20-%20Judicial%20review.md)
-- [&sect; 02286g - &#8220;Department of Energy defense nuclear facility&#8221; defined](%C2%A7%2002286g%20-%20%E2%80%9CDepartment%20of%20Energy%20defense%20nuclear%20facility%E2%80%9D%20defined.md)
+- [&sect; 02286g - Department of Energy defense nuclear facility defined](%C2%A7%2002286g%20-%20Department%20of%20Energy%20defense%20nuclear%20facility%20defined.md)
 - [&sect; 02286h - Contract authority subject to appropriations](%C2%A7%2002286h%20-%20Contract%20authority%20subject%20to%20appropriations.md)
 - [&sect; 02286h&#8211;1 - Transmittal of certain information to Congress](%C2%A7%2002286h%E2%80%931%20-%20Transmittal%20of%20certain%20information%20to%20Congress.md)
 - [&sect; 02286i - Annual authorization of appropriations](%C2%A7%2002286i%20-%20Annual%20authorization%20of%20appropriations.md)

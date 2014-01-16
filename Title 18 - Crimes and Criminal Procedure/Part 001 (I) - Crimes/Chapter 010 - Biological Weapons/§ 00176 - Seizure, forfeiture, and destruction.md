@@ -26,7 +26,7 @@ Affirmative Defense.—It is an affirmative defense against a forfeiture under s
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–188 substituted “pertains to” for “exists by reason of”.
+<b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–188 substituted "pertains to" for "exists by reason of".
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted “the Government” for “the government”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted "the Government" for "the government".
 

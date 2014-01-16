@@ -140,7 +140,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;In determining the amount under paragraph (1), the Secretary shall—
 
-&emsp;&emsp;(A) take into account variations in case mix among children's hospitals and the ratio of the number of full-time equivalent residents in the hospitals’ approved graduate medical residency training programs to beds (but excluding beds or bassinets assigned to healthy newborn infants); and
+&emsp;&emsp;(A) take into account variations in case mix among children's hospitals and the ratio of the number of full-time equivalent residents in the hospitals' approved graduate medical residency training programs to beds (but excluding beds or bassinets assigned to healthy newborn infants); and
 
 &emsp;&emsp;(B) assure that the aggregate of the payments for indirect expenses associated with the treatment of more severely ill patients and the additional costs related to the teaching of residents under this section in a fiscal year are equal to the amount appropriated for such expenses for the fiscal year involved under subsection (f)(2) of this section.
 
@@ -148,7 +148,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (1) Interim payments
 
-&emsp;The Secretary shall determine, before the beginning of each fiscal year involved for which payments may be made for a hospital under this section, the amounts of the payments for direct graduate medical education and indirect medical education for such fiscal year and shall (subject to paragraph (2)) make the payments of such amounts in 12 equal interim installments during such period. Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital's most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interimpayments shall be based on the number of residents trained during the hospital's most recently completed Medicare cost report filing period.
+&emsp;The Secretary shall determine, before the beginning of each fiscal year involved for which payments may be made for a hospital under this section, the amounts of the payments for direct graduate medical education and indirect medical education for such fiscal year and shall (subject to paragraph (2)) make the payments of such amounts in 12 equal interim installments during such period. Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital's most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital's most recently completed Medicare cost report filing period.
 
 #### (2) Withholding
 
@@ -180,7 +180,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (2) Indirect medical education
 
-&emsp;There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for payments under subsection (b)(1)(B) of this section—
+&emsp;There are hereby authorized to be appropriated, out of any money in the Treasury nototherwise appropriated, for payments under subsection (b)(1)(B) of this section—
 
 &emsp;&emsp;(A) for fiscal year 2000, $190,000,000;
 
@@ -196,67 +196,67 @@ In this section:
 
 #### (1) Approved graduate medical residency training program
 
-&emsp;The term “approved graduate medical residency training program” has the meaning given the term “approved medical residency training program” in section 1395ww(h)(5)(A) of this title.
+&emsp;The term "approved graduate medical residency training program" has the meaning given the term "approved medical residency training program" in section 1395ww(h)(5)(A) of this title.
 
 #### (2) Children's hospital
 
-&emsp;The term “children's hospital” means a hospital with a Medicare payment agreement and which is excluded from the Medicare inpatient prospective payment system pursuant to section 1395ww(d)(1)(B)(iii) of this title and its accompanying regulations.
+&emsp;The term "children's hospital" means a hospital with a Medicare payment agreement and which is excluded from the Medicare inpatient prospective payment system pursuant to section 1395ww(d)(1)(B)(iii) of this title and its accompanying regulations.
 
 #### (3) Direct graduate medical education costs
 
-&emsp;The term “direct graduate medical education costs” has the meaning given such term in section 1395ww(h)(5)(C) of this title.
+&emsp;The term "direct graduate medical education costs" has the meaning given such term in section 1395ww(h)(5)(C) of this title.
 
 (July 1, 1944, ch. 373, title III, §340E, as added Pub. L. 106–129, §4, Dec. 6, 1999, 113 Stat. 1671; amended Pub. L. 106–310, div. A, title XX, §2001, Oct. 17, 2000, 114 Stat. 1155; Pub. L. 108–490, §1(a), Dec. 23, 2004, 118 Stat. 3972; Pub. L. 109–307, §2, Oct. 6, 2006, 120 Stat. 1721.)
 
 #### References in Text
 
-Section 1395ww(d) of this title, referred to in subsec. (e)(3), was in the original “section 1186(d) of such Act” and was translated as reading “section 1886(d) of such Act”, meaning section 1886(d) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1186 and section 1395ww(d) of this title relates to review of inpatient hospital service payments.
+Section 1395ww(d) of this title, referred to in subsec. (e)(3), was in the original "section 1186(d) of such Act" and was translated as reading "section 1886(d) of such Act", meaning section 1886(d) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1186 and section 1395ww(d) of this title relates to review of inpatient hospital service payments.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–307, §2(a)(1), inserted “and each of fiscal years 2007 through 2011” after “for each of fiscal years 2000 through 2005”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–307, §2(a)(1), inserted "and each of fiscal years 2007 through 2011" after "for each of fiscal years 2000 through 2005".
 
-Subsec. (b)(1). Pub. L. 109–307, §2(b)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+Subsec. (b)(1). Pub. L. 109–307, §2(b)(1), substituted "paragraphs (2) and (3)" for "paragraph (2)" in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 109–307, §2(b)(2), added par. (3).
 
-Subsec. (c)(2)(E)(ii). Pub. L. 109–307, §2(c)(1), substituted “applied under section 1395ww(d)(3)(E) of this title for discharges occurring during the preceding fiscal year” for “described in subparagraph (C)(ii)”.
+Subsec. (c)(2)(E)(ii). Pub. L. 109–307, §2(c)(1), substituted "applied under section 1395ww(d)(3)(E) of this title for discharges occurring during the preceding fiscal year" for "described in subparagraph (C)(ii)".
 
-Subsec. (e)(1). Pub. L. 109–307, §2(a)(2), substituted “12” for “26”.
+Subsec. (e)(1). Pub. L. 109–307, §2(a)(2), substituted "12" for "26".
 
-Subsec. (e)(2). Pub. L. 109–307, §2(c)(2), struck out first sentence which read as follows: “The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1).”
+Subsec. (e)(2). Pub. L. 109–307, §2(c)(2), struck out first sentence which read as follows: "The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1)."
 
-Subsec. (e)(3). Pub. L. 109–307, §2(c)(3), substituted “made and pay” for “made to pay”.
+Subsec. (e)(3). Pub. L. 109–307, §2(c)(3), substituted "made and pay" for "made to pay".
 
 Subsec. (f)(1)(A)(iv). Pub. L. 109–307, §2(a)(3), added cl. (iv).
 
-Subsec. (f)(2). Pub. L. 109–307, §2(a)(4)(A), substituted “subsection (b)(1)(B)” for “subsection (b)(1)(A)” in introductory provisions.
+Subsec. (f)(2). Pub. L. 109–307, §2(a)(4)(A), substituted "subsection (b)(1)(B)" for "subsection (b)(1)(A)" in introductory provisions.
 
 Subsec. (f)(2)(D). Pub. L. 109–307, §2(a)(4)(B)–(D), added subpar. (D).
 
-<b>2004</b>—Subsec. (d)(1). Pub. L. 108–490, §1(a)(1), substituted “costs associated with” for “costs related to”.
+<b>2004</b>—Subsec. (d)(1). Pub. L. 108–490, §1(a)(1), substituted "costs associated with" for "costs related to".
 
-Subsec. (d)(2)(A). Pub. L. 108–490, §1(a)(2), inserted “ratio of the” after “hospitals and the” and “to beds (but excluding beds or bassinets assigned to healthy newborn infants)” before semicolon.
+Subsec. (d)(2)(A). Pub. L. 108–490, §1(a)(2), inserted "ratio of the" after "hospitals and the" and "to beds (but excluding beds or bassinets assigned to healthy newborn infants)" before semicolon.
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–310, §2001(a), substituted “2000 through 2005” for “2000 and 2001” and inserted at end “The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–310, §2001(a), substituted "2000 through 2005" for "2000 and 2001" and inserted at end "The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.".
 
-Subsec. (c)(2)(F). Pub. L. 106–310, §2001(b), substituted “Federal fiscal year for which payments are made” for “hospital's cost reporting period that begins during fiscal year 2000”.
+Subsec. (c)(2)(F). Pub. L. 106–310, §2001(b), substituted "Federal fiscal year for which payments are made" for "hospital's cost reporting period that begins during fiscal year 2000".
 
-Subsec. (e)(1). Pub. L. 106–310, §2001(c), inserted at end “Such interim payments to each individual hospitalshall be based on the number of residents reported in the hospital's most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital's most recently completed Medicare cost report filing period.”
+Subsec. (e)(1). Pub. L. 106–310, §2001(c), inserted at end "Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital's most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital's most recently completed Medicare cost report filing period."
 
-Subsec. (e)(2). Pub. L. 106–310, §2001(d), inserted “and indirect” after “interim installment for direct” and inserted at end “The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1) as necessary to ensure a hospital will not be overpaid on an interim basis.”
+Subsec. (e)(2). Pub. L. 106–310, §2001(d), inserted "and indirect" after "interim installment for direct" and inserted at end "The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1) as necessary to ensure a hospital will not be overpaid on an interim basis."
 
-Subsec. (e)(3). Pub. L. 106–310, §2001(e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “At the end of each fiscal year for which payments may be made under this section, the hospital shall submit to the Secretary such information as the Secretary determines to be necessary to determine the percent (if any) of the total amount withheld under paragraph (2) that is due under this section for the hospital for the fiscal year. Based on such determination, the Secretary shall recoup any overpayments made, or pay any balance due. The amount so determined shall be considered a final intermediary determination for purposes of applying section 1395oo of this title and shall be subject to review under that section in the same manner as the amount of payment under section 1395ww(d) of this title is subject to review under such section.”
+Subsec. (e)(3). Pub. L. 106–310, §2001(e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "At the end of each fiscal year for which payments may be made under this section, the hospital shall submit to the Secretary such information as the Secretary determines to be necessary to determine the percent (if any) of the total amount withheld under paragraph (2) that is due under this section for the hospital for the fiscal year. Based on such determination, the Secretary shall recoup any overpayments made, or pay any balance due. The amount so determined shall be considered a final intermediary determination for purposes of applying section 1395oo of this title and shall be subject to review under that section in the same manner as the amount of payment under section 1395ww(d) of this title is subject to review under such section."
 
 Subsec. (f)(1)(A)(iii). Pub. L. 106–310, §2001(f)(1), added cl. (iii).
 
 Subsec. (f)(2)(C). Pub. L. 106–310, §2001(f)(2), added subpar. (C).
 
-Subsec. (g)(2). Pub. L. 106–310, §2001(g), substituted “with a Medicare payment agreement and which is excluded from the Medicare inpatient prospective payment system pursuant to section 1395ww(d)(1)(B)(iii) of this title and its accompanying regulations” for “described in section 1395ww(d)(1)(B)(iii) of this title”.
+Subsec. (g)(2). Pub. L. 106–310, §2001(g), substituted "with a Medicare payment agreement and which is excluded from the Medicare inpatient prospective payment system pursuant to section 1395ww(d)(1)(B)(iii) of this title and its accompanying regulations" for "described in section 1395ww(d)(1)(B)(iii) of this title".
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–490, §1(b), Dec. 23, 2004, 118 Stat. 3972, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payments for periods beginning with fiscal year 2005.”
+Pub. L. 108–490, §1(b), Dec. 23, 2004, 118 Stat. 3972, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to payments for periods beginning with fiscal year 2005."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

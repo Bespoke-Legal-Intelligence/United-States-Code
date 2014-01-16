@@ -28,7 +28,7 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3527(b)(2), Jan. 28, 2008, 122 Stat. 602, inserted “valueless material or” before “dredged material” in item 55110.
+<b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3527(b)(2), Jan. 28, 2008, 122 Stat. 602, inserted "valueless material or" before "dredged material" in item 55110.
 
 
 ---

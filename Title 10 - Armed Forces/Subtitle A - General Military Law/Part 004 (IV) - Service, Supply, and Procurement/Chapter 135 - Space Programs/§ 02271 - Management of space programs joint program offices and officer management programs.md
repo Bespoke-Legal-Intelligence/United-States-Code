@@ -22,133 +22,137 @@ A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to com
 
 #### Integrated Space Architectures
 
-Pub. L. 111–383, div. A, title IX, §911, Jan. 7, 2011, 124 Stat. 4328, provided that: “The Secretary of Defense and the Director of National Intelligence shall develop an integrated process for national security space architecture planning, development, coordination, and analysis that—
+Pub. L. 111–383, div. A, title IX, §911, Jan. 7, 2011, 124 Stat. 4328, provided that: "The Secretary of Defense and the Director of National Intelligence shall develop an integrated process for national security space architecture planning, development, coordination, and analysis that—
 
-&emsp;“(1) encompasses defense and intelligence space plans, programs, budgets, and organizations;
+&emsp;"(1) encompasses defense and intelligence space plans, programs, budgets, and organizations;
 
-&emsp;“(2) provides mid-term to long-term recommendations to guide space-related defense and intelligence acquisitions, requirements, and investment decisions;
+&emsp;"(2) provides mid-term to long-term recommendations to guide space-related defense and intelligence acquisitions, requirements, and investment decisions;
 
-&emsp;“(3) is independent of, but coordinated with, the space architecture planning, development, coordination, and analysis activities of each military department and each element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))); and
+&emsp;"(3) is independent of, but coordinated with, the space architecture planning, development, coordination, and analysis activities of each military department and each element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) \[now 50 U.S.C. 3003(4)\]); and
 
-&emsp;“(4) makes use of, to the maximum extent practicable, joint duty assignment (as defined in section 668 of title 10, United States Code) positions.”
+&emsp;"(4) makes use of, to the maximum extent practicable, joint duty assignment (as defined in section 668 of title 10, United States Code) positions."
 
 #### Space Protection Strategy
 
-Pub. L. 110–181, div. A, title IX, §911(a)–(f), Jan. 28, 2008, 122 Stat. 279, 280, provided that:
+Pub. L. 110–181, div. A, title IX, §911(a)–(f), Jan. 28, 2008, 122 Stat. 279, 280, as amended by Pub. L. 113–66, div. A, title IX, §912(c), Dec. 26, 2013, 127 Stat. 824, provided that:
 
-“(a)
+"(a)
 
 Sense of Congress.—It is the Sense of Congress that the United States should place greater priority on the protection of national security space systems.
 
-“(b)
+"(b)
 
 Strategy.—The Secretary of Defense, in conjunction with the Director of National Intelligence, shall develop a strategy, to be known as the Space Protection Strategy, for the development and fielding by the United States of the capabilities that are necessary to ensure freedom of action in space for the United States.
 
-“(c)
+"(c)
 
 Matters Included.—The strategy required by subsection (b) shall include each of the following:
 
-&emsp;“(1) An identification of the threats to, and the vulnerabilities of, the national security space systems of the United States.
+&emsp;"(1) An identification of the threats to, and the vulnerabilities of, the national security space systems of the United States.
 
-&emsp;“(2) A description of the capabilities currently contained in the program of record of the Department of Defense and the intelligence community that ensure freedom of action in space.
+&emsp;"(2) A description of the capabilities currently contained in the program of record of the Department of Defense and the intelligence community that ensure freedom of action in space.
 
-&emsp;“(3) For each period covered by the strategy, a description of the capabilities that are needed for the period, including—
+&emsp;"(3) For each period covered by the strategy, a description of the capabilities that are needed for the period, including—
 
-&emsp;&emsp;“(A) the hardware, software, and other materials or services to be developed or procured;
+&emsp;&emsp;"(A) the hardware, software, and other materials or services to be developed or procured;
 
-&emsp;&emsp;“(B) the management and organizational changes to be achieved; and
+&emsp;&emsp;"(B) the management and organizational changes to be achieved; and
 
-&emsp;&emsp;“(C) concepts of operations, tactics, techniques, and procedures to be employed.
+&emsp;&emsp;"(C) concepts of operations, tactics, techniques, and procedures to be employed.
 
-&emsp;“(4) For each period covered by the strategy, an assessment of the gaps and shortfalls between the capabilities that are needed for the period and the capabilities currently contained in the program of record.
+&emsp;"(4) For each period covered by the strategy, an assessment of the gaps and shortfalls between the capabilities that are needed for the period and the capabilities currently contained in the program of record.
 
-&emsp;“(5) For each period covered by the strategy, a comprehensive plan for investment in capabilities that identifies specific program and technology investments to be made in that period.
+&emsp;"(5) For each period covered by the strategy, a comprehensive plan for investment in capabilities that identifies specific program and technology investments to be made in that period.
 
-&emsp;“(6) A description of the current processes by which the systems protection requirements of the Department of Defense and the intelligence community are addressed in space acquisition programs and during key milestone decisions, an assessment of the adequacy of those processes, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in those processes.
+&emsp;"(6) A description of the current processes by which the systems protection requirements of the Department of Defense and the intelligence community are addressed in space acquisition programs and during key milestone decisions, an assessment of the adequacy of those processes, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in those processes.
 
-&emsp;“(7) A description of the current processes by which the Department of Defense and the intelligence community program and budget for capabilities (including capabilities that are incorporated into single programs and capabilities that span multiple programs), an assessment of the adequacy of those processes, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in those processes.
+&emsp;"(7) A description of the current processes by which the Department of Defense and the intelligence community program and budget for capabilities (including capabilities that are incorporated into single programs and capabilities that span multiple programs), an assessment of the adequacy of those processes, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in those processes.
 
-&emsp;“(8) A description of the organizational and management structure of the Department of Defense and the intelligence community for addressing policy, planning, acquisition, and operations with respect to capabilities, a description of the roles and responsibilities of each organization, and an identificationof the actions of the Department and the intelligence community for addressing any inadequacies in that structure.
+&emsp;"(8) A description of the organizational and management structure of the Department of Defense and the intelligence community for addressing policy, planning, acquisition, and operations with respect to capabilities, a description of the roles and responsibilities of each organization, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in that structure.
 
-“(d)
+"(d)
 
 Periods Covered.—The strategy required by subsection (b) shall cover the following periods:
 
-&emsp;“(1) Fiscal years 2008 through 2013.
+&emsp;"(1) Fiscal years 2008 through 2013.
 
-&emsp;“(2) Fiscal years 2014 through 2019.
+&emsp;"(2) Fiscal years 2014 through 2019.
 
-&emsp;“(3) Fiscal years 2020 through 2025.
+&emsp;"(3) Fiscal years 2020 through 2025.
 
-“(e)
+"(e)
 
 Definitions.—In this section—
 
-&emsp;“(1) the term ‘capabilities’ means space, airborne, and ground systems and capabilities for space situational awareness and for space systems protection; and
+&emsp;"(1) the term 'capabilities' means space, airborne, and ground systems and capabilities for space situational awareness and for space systems protection; and
 
-&emsp;“(2) the term ‘intelligence community’ has the meaning given such term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
+&emsp;"(2) the term 'intelligence community' has the meaning given such term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) \[now 50 U.S.C 3003(4)\].
 
-“(f)
+"(f)
 
 Report; Biennial Update.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-Report.—Not later than six months after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, in conjunction with the Director of National Intelligence, shall submit to Congress a report on the strategy required by subsection (b), including each of the matters required by subsection (c).
+Report.—Not later than six months after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, in conjunction with the Director of National Intelligence, shall submit to Congress a report on the strategy required by subsection (b), including—
 
-&emsp;“(2)
+&emsp;&emsp;"(A) each of the matters required by subsection (c); and
+
+&emsp;&emsp;"(B) a description of how the Department of Defense and the intelligence community plan to provide necessary national security capabilities, through alternative space, airborne, or ground systems, if a foreign actor degrades, denies access to, or destroys United States national security space capabilities.
+
+&emsp;"(2)
 
 Biennial update.—Not later than March 15 of each even-numbered year after 2008, the Secretary of Defense, in conjunction with the Director of National Intelligence, shall submit to Congress an update to the report required by paragraph (1).
 
-&emsp;“(3)
+&emsp;"(3)
 
-Classification.—The report required by paragraph (1), and each update required by paragraph (2), shall be in unclassified form, but may include a classified annex.”
+Classification.—The report required by paragraph (1), and each update required by paragraph (2), shall be in unclassified form, but may include a classified annex."
 
 #### Maintenance of Capability for Space-Based Nuclear Detection
 
-Pub. L. 110–181, div. A, title X, §1065, Jan. 28, 2008, 122 Stat. 324, provided that: “The Secretary of Defense shall maintain the capability for space-based nuclear detection at a level that meets or exceeds the level of capability as of the date of the enactment of this Act \[Jan. 28, 2008\].”
+Pub. L. 110–181, div. A, title X, §1065, Jan. 28, 2008, 122 Stat. 324, provided that: "The Secretary of Defense shall maintain the capability for space-based nuclear detection at a level that meets or exceeds the level of capability as of the date of the enactment of this Act \[Jan. 28, 2008\]."
 
 #### Space Situational Awareness Strategy and Space Control Mission Review
 
-Pub. L. 109–163, div. A, title IX, §911, Jan. 6, 2006, 119 Stat. 3405, required the Secretary of Defense to develop a “Space Situational Awareness Strategy” for ensuring freedom to operate United States space assets affecting national security, and to provide for a review and assessment of the requirements of the Department of Defense for the space control mission, prior to repeal by Pub. L. 110–181, div. A, title IX, §911(g), Jan. 28, 2008, 122 Stat. 280.
+Pub. L. 109–163, div. A, title IX, §911, Jan. 6, 2006, 119 Stat. 3405, required the Secretary of Defense to develop a "Space Situational Awareness Strategy" for ensuring freedom to operate United States space assets affecting national security, and to provide for a review and assessment of the requirements of the Department of Defense for the space control mission, prior to repeal by Pub. L. 110–181, div. A, title IX, §911(g), Jan. 28, 2008, 122 Stat. 280.
 
 #### Space Personnel Career Fields
 
 Pub. L. 108–136, div. A, title V, §547, Nov. 24, 2003, 117 Stat. 1480, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
-“(a)
+"(a)
 
 Strategy Required.—The Secretary of Defense shall develop a strategy for the Department of Defense that will—
 
-&emsp;“(1) promote the development of space personnel career fields within each of the military departments; and
+&emsp;"(1) promote the development of space personnel career fields within each of the military departments; and
 
-&emsp;“(2) ensure that the space personnel career fields developed by the military departments are integrated with each other to the maximum extent practicable.
+&emsp;"(2) ensure that the space personnel career fields developed by the military departments are integrated with each other to the maximum extent practicable.
 
-“(b)
+"(b)
 
 Report.—Not later than February 1, 2004, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the strategy developed under subsection (a). The report shall include the following:
 
-&emsp;“(1) A statement of the strategy developed under subsection (a), together with an explanation of that strategy.
+&emsp;"(1) A statement of the strategy developed under subsection (a), together with an explanation of that strategy.
 
-&emsp;“(2) An assessment of the measures required for the Department of Defense and the military departments to integrate the space personnel career fields of the military departments.
+&emsp;"(2) An assessment of the measures required for the Department of Defense and the military departments to integrate the space personnel career fields of the military departments.
 
-&emsp;“(3) A comprehensive assessment of the adequacy of the actions of the Secretary of Air Force pursuant to section 8084 of title 10, United States Code, to establish for Air Force officers a career field for space.
+&emsp;"(3) A comprehensive assessment of the adequacy of the actions of the Secretary of Air Force pursuant to section 8084 of title 10, United States Code, to establish for Air Force officers a career field for space.
 
-“(c)
+"(c)
 
 Government Accountability Office Review and Reports.—(1) The Comptroller General shall review the strategy developed under subsection (a) and the status of efforts by the military departments in developing space personnel career fields.
 
-“(2) The Comptroller General shall submit to the committees referred to in subsection (b) two reports on the review under paragraph (1), as follows:
+"(2) The Comptroller General shall submit to the committees referred to in subsection (b) two reports on the review under paragraph (1), as follows:
 
-&emsp;“(A) Not later than June 15, 2004, the Comptroller General shall submit a report that assesses how effective that Department of Defense strategy and the efforts by the military departments, when implemented, are likely to be for developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and operation of space systems.
+&emsp;"(A) Not later than June 15, 2004, the Comptroller General shall submit a report that assesses how effective that Department of Defense strategy and the efforts by the military departments, when implemented, are likely to be for developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and operation of space systems.
 
-&emsp;“(B) Not later than March 15, 2005, the Comptroller General shall submit a report that assesses, as of the date of the report—
+&emsp;"(B) Not later than March 15, 2005, the Comptroller General shall submit a report that assesses, as of the date of the report—
 
-&emsp;&emsp;“(i) the effectiveness of that Department of Defense strategy and the efforts by the military departments in developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and in operation of space systems; and
+&emsp;&emsp;"(i) the effectiveness of that Department of Defense strategy and the efforts by the military departments in developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and in operation of space systems; and
 
-&emsp;&emsp;“(ii) progress made in integrating the space career fields of the military departments.”
+&emsp;&emsp;"(ii) progress made in integrating the space career fields of the military departments."
 
 #### Comptroller General Assessment of Implementation of Recommendations of Space Commission
 
-Pub. L. 107–107, div. A, title IX, §914, Dec. 28, 2001, 115 Stat. 1197, directed the Comptroller General to carry out an assessment through Feb. 15, 2003, of the actions taken by the Secretary of Defense in implementing the recommendations in the report of the Space Commission submitted to Congress pursuant to Pub. L. 106–65, §1623, formerly set out as a note under section 111 of this title, that were applicable to the Department of Defense, and to submit reports to committees of Congress, not later than Feb. 15, 2002, and Feb. 15, 2003, setting forth the results of the assessment.
+Pub. L. 107–107, div. A, title IX, §914, Dec. 28, 2001, 115 Stat. 1197, directed the Comptroller General to carryout an assessment through Feb. 15, 2003, of the actions taken by the Secretary of Defense in implementing the recommendations in the report of the Space Commission submitted to Congress pursuant to Pub. L. 106–65, §1623, formerly set out as a note under section 111 of this title, that were applicable to the Department of Defense, and to submit reports to committees of Congress, not later than Feb. 15, 2002, and Feb. 15, 2003, setting forth the results of the assessment.
 

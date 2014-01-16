@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To improve the quality, effectiveness, and efficiency of health care delivered pursuant to the programs established under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], the Secretary <sup>1</sup> acting through the Director of the Agency for Healthcare Research and Quality (in this section referred to as the “Director”), shall conduct and support research to meet the priorities and requests for scientific evidence and information identified by such programs with respect to—
+&emsp;&emsp;To improve the quality, effectiveness, and efficiency of health care delivered pursuant to the programs established under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], the Secretary <sup>1</sup> acting through the Director of the Agency for Healthcare Research and Quality (in this section referred to as the "Director"), shall conduct and support research to meet the priorities and requests for scientific evidence and information identified by such programs with respect to—
 
 &emsp;&emsp;&emsp;(i) the outcomes, comparative clinical effectiveness, and appropriateness of health care items and services (including prescription drugs); and
 
@@ -14,7 +14,7 @@
 
 #### (B) Specification
 
-&emsp;&emsp;To respond to priorities and information requests in subparagraph (A), the Secretary may conduct or support, by grant, contract,or interagency agreement, research, demonstrations, evaluations, technology assessments, or other activities, including the provision of technical assistance, scientific expertise, or methodological assistance.
+&emsp;&emsp;To respond to priorities and information requests in subparagraph (A), the Secretary may conduct or support, by grant, contract, or interagency agreement, research, demonstrations, evaluations, technology assessments, or other activities, including the provision of technical assistance, scientific expertise, or methodological assistance.
 
 #### (2) Priorities
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(iii) disseminate to prescription drug plans and MA–PD plans under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\], other health plans, and the public the findings made under clauses (i) and (ii); and
 
-&emsp;&emsp;&emsp;(iv) work in voluntary collaboration with public and private sector entities to facilitate the development of new scientific knowledge regarding health care items and services (including prescription drugs).
+&emsp;&emsp;&emsp;(iv) work in voluntary collaboration with public and private sector entities tofacilitate the development of new scientific knowledge regarding health care items and services (including prescription drugs).
 
 #### (B) Initial research
 
@@ -152,11 +152,11 @@ The Public Health Service Act, referred to in subsec. (a)(3)(C)(ii)(I), (4)(A), 
 
 #### Codification
 
-Section was enacted as part of the Medicare Prescription Drug, Improvement, and Modernization Act of2003, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, and not as part of the Public Health Service Act which comprises this chapter.
 
-#### Definition of “Secretary”
+#### Definition of "Secretary"
 
-“Secretary” as meaning the Secretary of Health and Human Services, see section 1(c)(2) of Pub. L. 108–173, set out as a note under section 1301 of this title.
+"Secretary" as meaning the Secretary of Health and Human Services, see section 1(c)(2) of Pub. L. 108–173, set out as a note under section 1301 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

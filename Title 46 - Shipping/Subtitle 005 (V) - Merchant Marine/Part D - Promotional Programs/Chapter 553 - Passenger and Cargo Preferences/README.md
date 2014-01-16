@@ -21,8 +21,7 @@
 | [55313\.](Subchapter%20002%20%28II%29%20-%20Export%20Transportation%20of%20Agricultural%20Commodities/%C2%A7%2055313%20-%20Exemption%20of%20certain%20agricultural%20exports%20from%20cargo%20preference%20provisions.md) | Exemption of certain agricultural exports from cargo preference provisions. |
 | [55314\.](Subchapter%20002%20%28II%29%20-%20Export%20Transportation%20of%20Agricultural%20Commodities/%C2%A7%2055314%20-%20Transportation%20requirements%20for%20certain%20exports%20sponsored%20by%20the%20Secretary%20of%20Agriculture.md) | Transportation requirements for certain exports sponsored by the Secretary of Agriculture. |
 | [55315\.](Subchapter%20002%20%28II%29%20-%20Export%20Transportation%20of%20Agricultural%20Commodities/%C2%A7%2055315%20-%20Minimum%20tonnage.md) | Minimum tonnage. |
-| [55316\.](Subchapter%20002%20%28II%29%20-%20Export%20Transportation%20of%20Agricultural%20Commodities/%C2%A7%2055316%20-%20Financing%20the%20transportation%20of%20agricultural%20commodities.md) | Financing the transportation of agricultural commodities. |
-| [55317\.](Subchapter%20002%20%28II%29%20-%20Export%20Transportation%20of%20Agricultural%20Commodities/%C2%A7%2055317%20-%20Termination%20of%20subchapter.md) | Termination of subchapter. |
+| \[55316, 55317. Repealed.\] |  |
 | [55318\.](Subchapter%20002%20%28II%29%20-%20Export%20Transportation%20of%20Agricultural%20Commodities/%C2%A7%2055318%20-%20Effect%20on%20other%20law.md) | Effect on other law. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,6 +38,10 @@
 | [55336\.](Subchapter%20003%20%28III%29%20-%20American%20Great%20Lakes%20Vessels/%C2%A7%2055336%20-%20Civil%20penalty.md) | Civil penalty. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2013</b>—Pub. L. 113–67, div. A, title VI, §602(b), Dec. 26, 2013, 127 Stat. 1188, struck out items 55316 "Financing the transportation of agricultural commodities" and 55317 "Termination of subchapter".
 
 
 ---

@@ -14,7 +14,7 @@ The Secretary may enter into contracts with appropriate persons and entities to 
 
 (B) In providing records, files, and other data under this paragraph, the Secretary of Energy shall preserve the current organization of such records, files, and other data, and shall provide such description and indexing of such records, files, and other data as the Secretary considers appropriate to facilitate their use by the Secretary.
 
-(2) The Secretary of Energy and the Secretary shall jointly undertake such actions as are appropriate to retrieve records applicable to the claims of Department of Energy contractor employees for contractor employee compensation under this part, including employment records, records of exposure to beryllium, radiation, silica, or other toxic substances, and records regarding medical treatment.
+(2) The Secretary of Energy and the Secretary shall jointly undertake such actions as are appropriate to retrieve records applicable to the claims of Department of Energy contractor employees for contractor employee compensation under this part, including employment records,records of exposure to beryllium, radiation, silica, or other toxic substances, and records regarding medical treatment.
 
 #### (d) Information
 

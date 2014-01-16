@@ -18,7 +18,7 @@ If, in connection with an audit of any person, there is an actual controversy in
 
 #### (2) Time for filing action
 
-&emsp;If the Secretary sends by certified or registered mail notice to the petitioner of a determination by the Secretary described in subsection (a), no proceeding may be initiated under this section with respect to such determination unless the pleading is filed before the 91st day after the date of such mailing.
+&emsp;If the Secretary sends by certified or registered mail notice to the petitioner of a determination by the Secretary described in subsection (a), no proceeding may be initiatedunder this section with respect to such determination unless the pleading is filed before the 91st day after the date of such mailing.
 
 #### (3) No adverse inference from treatment while action is pending
 
@@ -42,7 +42,7 @@ If, in connection with an audit of any person, there is an actual controversy in
 
 #### (1) Restrictions on assessment and collection pending action, etc.
 
-&emsp;The principles of subsections (a), (b), (c), (d), and (f) of section 6213, section 6214(a), section6215, section 6503(a), section 6512, and section 7481 shall apply to proceedings brought under this section in the same manner as if the Secretary's determination described in subsection (a) were a notice of deficiency.
+&emsp;The principles of subsections (a), (b), (c), (d), and (f) of section 6213, section 6214(a), section 6215, section 6503(a), section 6512, and section 7481 shall apply to proceedings brought under this section in the same manner as if the Secretary's determination described in subsection (a) were a notice of deficiency.
 
 #### (2) Awarding of costs and certain fees
 
@@ -50,7 +50,7 @@ If, in connection with an audit of any person, there is an actual controversy in
 
 #### (e) Employment tax
 
-The term “employment tax” means any tax imposed by subtitle C.
+The term "employment tax" means any tax imposed by subtitle C.
 
 (Added Pub. L. 105–34, title XIV, §1454(a), Aug. 5, 1997, 111 Stat. 1055; amended Pub. L. 105–206, title III, §3103(b)(1), July 22, 1998, 112 Stat. 731; Pub. L. 106–554, §1(a)(7) \[title III, §314(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643.)
 
@@ -64,9 +64,9 @@ A prior section 7436 was renumbered section 7437 of this title.
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–554 inserted “and the proper amount of employment tax under such determination” before period at end of first sentence.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554 inserted "and the proper amount of employment tax under such determination" before period at end of first sentence.
 
-<b>1998</b>—Subsec. (c)(1). Pub. L. 105–206 substituted “$50,000” for “$10,000”.
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–206 substituted "$50,000" for "$10,000".
 
 #### Effective Date of 2000 Amendment
 
@@ -74,5 +74,5 @@ Amendment by Pub. L. 106–554 effective as if included in the provisions of the
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3103(c), July 22, 1998, 112 Stat. 731, provided that: “The amendments made by this section \[amending this section and sections 7443A and 7463 of this title\] shall apply to proceedings commenced after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3103(c), July 22, 1998, 112 Stat. 731, provided that: "The amendments made by this section \[amending this section and sections 7443A and 7463 of this title\] shall apply to proceedings commenced after the date of the enactment of this Act \[July 22, 1998\]."
 

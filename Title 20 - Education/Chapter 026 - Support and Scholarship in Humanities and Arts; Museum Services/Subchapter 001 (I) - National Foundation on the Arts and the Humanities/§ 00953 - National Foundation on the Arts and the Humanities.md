@@ -2,7 +2,7 @@
 
 #### (a) Establishment; composition
 
-There is established a National Foundation on the Arts and the Humanities (hereinafter referred to as the “Foundation”), which shall be composed of a National Endowment for the Arts, a National Endowment for the Humanities, a Federal Council on the Arts and the Humanities, and an Institute of Museum and Library Services.
+There is established a National Foundation on the Arts and the Humanities (hereinafter referred to as the "Foundation"), which shall be composed of a National Endowment for the Arts, a National Endowment for the Humanities, a Federal Council on the Arts and the Humanities, and an Institute of Museum and Library Services.
 
 #### (b) Purpose
 
@@ -16,11 +16,11 @@ In the administration of this subchapter no department, agency, officer, or empl
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–340 substituted “Institute of Museum and Library Services” for “Institute of Museum Services”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–340 substituted "Institute of Museum and Library Services" for "Institute of Museum Services".
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–194, §104, struck out a second comma after “a National Endowment for the Humanities” and “(hereinafter established)” after “Institute of Museum Services”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–194, §104, struck out a second comma after "a National Endowment for the Humanities" and "(hereinafter established)" after "Institute of Museum Services".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–306, §4(a), substituted “, a Federal Council” for “and a Federal Council” and inserted “, and an Institute of Museum Services”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–306, §4(a), substituted ", a Federal Council" for "and a Federal Council" and inserted ", and an Institute of Museum Services".
 
-Subsec. (b). Pub. L. 98–306, §4(b), inserted “, and for institutions which preserve the cultural heritage of the United States”.
+Subsec. (b). Pub. L. 98–306, §4(b), inserted ", and for institutions which preserve the cultural heritage of the United States".
 

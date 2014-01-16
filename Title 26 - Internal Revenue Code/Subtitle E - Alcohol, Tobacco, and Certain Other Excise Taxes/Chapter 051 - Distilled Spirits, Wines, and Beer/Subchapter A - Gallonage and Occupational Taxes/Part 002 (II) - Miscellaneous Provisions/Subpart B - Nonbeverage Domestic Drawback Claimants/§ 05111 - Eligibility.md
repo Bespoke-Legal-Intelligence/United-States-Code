@@ -1,6 +1,6 @@
 ### §5111. Eligibility
 
-Any person using distilled spirits on which the tax has been determined, in the manufacture or production of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume, which are unfit for beverage purposes shall be eligible for drawback at the timewhen such distilled spirits are used in the manufacture of such products as provided for in this subpart.
+Any person using distilled spirits on which the tax has been determined, in the manufacture or production of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume, which are unfit for beverage purposes shall be eligible for drawback at the time when such distilled spirits are used in the manufacture of such products as provided for in this subpart.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1345, §5131; amended Pub. L. 94–455, title XIX, §1905(a)(11), Oct. 4, 1976, 90 Stat. 1819; Pub. L. 100–203, title X, §10512(d), Dec. 22, 1987, 101 Stat. 1330–448; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; renumbered §5111 and amended Pub. L. 109–59, title XI, §11125(a)(2), (b)(3)(A), (C), Aug. 10, 2005, 119 Stat. 1953, 1954.)
 
@@ -12,17 +12,17 @@ Another prior section 5111, act Aug. 16, 1954, ch. 736, 68A Stat. 618, related t
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–59, §11125(b)(3)(C), struck out “and rate of tax” after “Eligibility” in section catchline, struck out “(a) Eligibility for drawback” before “Any person”, and struck out subsec. (b). Text read as follows: “The special tax imposed by subsection (a) shall be $500 per year.”
+<b>2005</b>—Pub. L. 109–59, §11125(b)(3)(C), struck out "and rate of tax" after "Eligibility" in section catchline, struck out "(a) Eligibility for drawback" before "Any person", and struck out subsec. (b). Text read as follows: "The special tax imposed by subsection (a) shall be $500 per year."
 
 Pub. L. 109–59, §11125(b)(3)(A), renumbered section 5131 of this title as this section.
 
-Subsec. (a). Pub. L. 109–59, §11125(a)(2), struck out “, on payment of a special tax per annum,” after “beverage purposes”.
+Subsec. (a). Pub. L. 109–59, §11125(a)(2), struck out ", on payment of a special tax per annum," after "beverage purposes".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–465 substituted “flavoring extracts, or perfume” for “or flavoring extracts”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465 substituted "flavoring extracts, or perfume" for "or flavoring extracts".
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The special tax imposed by subsection (a) shall be graduated in amount as follows: (1) for total annual use not exceeding 25 proof gallons, $25 a year; (2) for total annual use not exceeding 50 proof gallons, $50 a year; (3) for total annual use of more than 50 proof gallons, $100 a year.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The special tax imposed by subsection (a) shall be graduated in amount as follows: (1) for total annual use not exceeding 25 proof gallons, $25 a year; (2) for total annual use not exceeding 50 proof gallons, $50 a year; (3) for total annual use of more than 50 proof gallons, $100 a year."
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “produced in a domestic registered distillery or industrial alcohol plant and withdrawn from bond, or using distilled spirits withdrawn from the bonded premises of a distilled spirits plant,” after “Any person using distilled spirits”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "produced in a domestic registered distillery or industrial alcohol plant and withdrawn from bond, or using distilled spirits withdrawn from the bonded premises of a distilled spirits plant," after "Any person using distilled spirits".
 
 #### Effective Date of 2005 Amendment
 
@@ -36,33 +36,33 @@ Amendment by Pub. L. 103–465 effective Jan. 1, 1995, see section 136(d) of Pub
 
 Pub. L. 100–203, title X, §10512(h), Dec. 22, 1987, 101 Stat. 1330–450, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting sections 5081, 5276, and 5731 of this title and amending this section and sections 5091, 5121, 5131, 5691, and 5801 of this title\] shall take effect on January 1, 1988.
 
-“(2)
+"(2)
 
 All taxpayers treated as commencing in business on january 1, 1988.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Any person engaged on January 1, 1988, in any trade or business which is subject to an occupational tax shall be treated for purposes of such tax as having 1st engaged in such trade or business on such date.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Limitation on amount of tax.—In the case of a taxpayer who paid an occupational tax in respect of any premises for any taxable period which began before January 1, 1988, and includes such date, the amount of the occupational tax imposed by reason of subparagraph (A) in respect of such premises shall not exceed an amount equal to ½ the excess (if any) of—
 
-&emsp;&emsp;“(i) the rate of such tax as in effect on January 1, 1988, over
+&emsp;&emsp;"(i) the rate of such tax as in effect on January 1, 1988, over
 
-&emsp;&emsp;“(ii) the rate of such tax as in effect on December 31, 1987.
+&emsp;&emsp;"(ii) the rate of such tax as in effect on December 31, 1987.
 
-&emsp;“(C)
+&emsp;"(C)
 
-Occupational tax.—For purposes of this paragraph, the term ‘occupational tax’ means any tax imposed under part II of subchapter A of chapter 51, section 5276, section 5731, or section 5801 of the Internal Revenue Code of 1986 (as amended by this section).
+Occupational tax.—For purposes of this paragraph, the term 'occupational tax' means any tax imposed under part II of subchapter A of chapter 51, section 5276, section 5731, or section 5801 of the Internal Revenue Code of 1986 (as amended by this section).
 
-&emsp;“(D)
+&emsp;"(D)
 
-Due date of tax.—The amount of any tax required to be paid by reason of this paragraph shall be due on April 1, 1988.”
+Due date of tax.—The amount of any tax required to be paid by reason of this paragraph shall be due on April 1, 1988."
 
 #### Effective Date of 1976 Amendment
 

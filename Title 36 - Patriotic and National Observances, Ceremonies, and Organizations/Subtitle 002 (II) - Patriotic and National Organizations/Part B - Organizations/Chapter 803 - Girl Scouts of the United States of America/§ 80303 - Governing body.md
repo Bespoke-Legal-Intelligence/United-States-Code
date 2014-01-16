@@ -88,9 +88,9 @@ Mar. 16, 1950, ch. 62, §§4 (1st–7th sentences), 5, 64 Stat. 23, 24; Aug. 14,
 
 &nbsp;
 
-In subsection (a)(1), the words “(hereinafter referred to as the ‘national council’)” are omitted as unnecessary.
+In subsection (a)(1), the words "(hereinafter referred to as the 'national council')" are omitted as unnecessary.
 
-In subsection (a)(3), the words “entire Council” are substituted for “whole number” for clarity.
+In subsection (a)(3), the words "entire Council" are substituted for "whole number" for clarity.
 
-In subsection (b)(1), the first sentence is substituted for “The affairs of the corporation between meetings of the national council shall be managed by a board of directors” and “The board of directors, to the extent provided in the constitution and bylaws, shall have the powers of the national council, in the interim between its meetings” to eliminate unnecessary words.
+In subsection (b)(1), the first sentence is substituted for "The affairs of the corporation between meetings of the national council shall be managed by a board of directors" and "The board of directors, to the extent provided in the constitution and bylaws, shall have the powers of the national council, in the interim between its meetings" to eliminate unnecessary words.
 

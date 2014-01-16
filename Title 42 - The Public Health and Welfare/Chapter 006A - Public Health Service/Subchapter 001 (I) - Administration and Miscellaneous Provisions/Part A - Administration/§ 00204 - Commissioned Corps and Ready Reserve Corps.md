@@ -56,13 +56,13 @@ The Classification Act of 1923, as amended, referred to in subsec. (a)(2), is ac
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(3). Pub. L. 112–166 struck out “with the advice and consent of the Senate” before period at end.
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–166 struck out "with the advice and consent of the Senate" before period at end.
 
-<b>2010</b>—Pub. L. 111–148 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “There shall be in the Service a commissioned Regular Corps and, for the purpose of securing areserve for duty in the Service in time of national emergency, a Reserve Corps. All commissioned officers shall be citizens and shall be appointed without regard to the civil-service laws and compensated without regard to chapter 51 and subchapter III of chapter 53 of title 5. Commissioned officers of the Reserve Corps shall be appointed by the President and commissioned officers of the Regular Corps shall be appointed by him by and with the advice and consent of the Senate. Commissioned officers of the Reserve Corps shall at all times be subject to call to active duty by the Surgeon General, including active duty for the purpose of training and active duty for the purpose of determining their fitness for appointment in the Regular Corps. Warrant officers may be appointed to the Service for the purpose of providing support to the health and delivery systems maintained by the Service and any warrant officer appointed to the Service shall be considered for purposes of this chapter and title 37 to be a commissioned officer within the commissioned corps of the Service.”
+<b>2010</b>—Pub. L. 111–148 inserted section catchline and amended text generally. Prior to amendment, text read as follows: "There shall be in the Service a commissioned Regular Corps and, for the purpose of securing a reserve for duty in the Service in time of national emergency, a Reserve Corps. All commissioned officers shall be citizens and shall be appointed without regard to the civil-service laws and compensated without regard to chapter 51 and subchapter III of chapter 53 of title 5. Commissioned officers of the Reserve Corps shall be appointed by the President and commissioned officers of the Regular Corps shall be appointed by him by and with the advice and consent of the Senate. Commissioned officers of the Reserve Corps shall at all times be subject to call to active duty by the Surgeon General, including active duty for the purpose of training and active duty for the purpose of determining their fitness for appointment in the Regular Corps. Warrant officers may be appointed to the Service for the purpose of providing support to the health and delivery systems maintained by the Service and any warrant officer appointed to the Service shall be considered for purposes of this chapter and title 37 to be a commissioned officer within the commissioned corps of the Service."
 
 <b>1979</b>—Pub. L. 96–76 inserted provisions relating to appointment and status of warrant officers.
 
-<b>1949</b>—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
 <b>1948</b>—Act Feb. 28, 1948, struck out provision that all active service in Reserve Corps, as well as service in Regular Corps, shall be credited for purpose of promotion in Regular Corps.
 
@@ -78,13 +78,13 @@ Act Oct. 28, 1949, cited as a credit to this section, was repealed (subject to a
 
 Pub. L. 111–148, title V, §5701, Mar. 23, 2010, 124 Stat. 684, provided that:
 
-“(a)
+"(a)
 
 Reports by Secretary of Health and Human Services.—On an annual basis, the Secretary of Health and Human Services shall submit to the appropriate Committees of Congress a report on the activities carried out under the amendments made by this title \[see Tables for classification\], and the effectiveness of such activities.
 
-“(b)
+"(b)
 
-Reports by Recipients of Funds.—The Secretary of Health and Human Services may require, as a condition of receiving funds under the amendments made by this title, that the entity receiving such award submit to such Secretary such reports as the such Secretary may require on activities carried out with such award, and the effectiveness of such activities.”
+Reports by Recipients of Funds.—The Secretary of Health and Human Services may require, as a condition of receiving funds under the amendments made by this title, that the entity receiving such award submit to such Secretary such reports as the such Secretary may require on activities carried out with such award, and the effectiveness of such activities."
 
 #### Osteopaths as Reserve Officers
 
@@ -102,11 +102,15 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Memorandum of President of the United States, May 31, 2011, 76 F.R. 33117, provided:
+Memorandum of President of the United States, May 31, 2011, 76 F.R. 33117, which delegated functions of the President under section 203 of the Public Health Service Act to the Secretary of Health and Human Services, was revoked by Memorandum of President of the United States, Mar. 29, 2013, 78 F.R. 20225, set out below.
+
+Memorandum of President of the United States, Mar. 29, 2013, 78 F.R. 20225, provided:
 
 Memorandum for the Secretary of Health and Human Services
 
-By virtue of the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 203 of the Public Health Service Act, as amended by Public Law 111–148, to appoint commissioned officers of the Ready Reserve Corps of the Public Health Service. Commissions issued under this delegation of authority may not be for a term longer than 6 months. Officers appointed pursuant to this delegation may not be appointed to the Ready Reserve Corps of the Public Health Service for a term greater than 6 months other than by the President or to the Regular Corps of the Public Health Service other than by the President with the advice and consent of the Senate. This authority may not be redelegated.
+By virtue of the authority vested in me as President by the Constitution and the laws of the United States,including section 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 203 of the Public Health Service Act, as amended by Public Law 111–148, to appoint commissioned officers of the Ready Reserve Corps of the Public Health Service. Commissions issued under this delegation of authority may not be for a term longer than 6 months except for commissions that place officers in the Centers for Disease Control and Prevention's Epidemiological Intelligence Service, the Senior Commissioned Officer Student Training and Extern Program, the Indian Health Service Pharmacy Residency Program, the Indian Health Service Health Professions Scholarship Program, or the National Health Service Corps Scholarship Program, which may not be for a term longer than 2 years. Officers appointed pursuant to this delegation may not be appointed to the Ready Reserve Corps of the Public Health Service for a term greater than those outlined in this memorandum other than by the President. This authority may not be re-delegated.
+
+My memorandum of May 31, 2011 (Delegation of Authority to Appoint Commissioned Officers of the Ready Reserve Corps of the Public Health Service), is hereby revoked.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

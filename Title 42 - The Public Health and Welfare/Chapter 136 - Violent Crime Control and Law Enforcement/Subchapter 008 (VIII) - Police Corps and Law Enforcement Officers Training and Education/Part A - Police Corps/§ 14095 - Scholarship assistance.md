@@ -18,7 +18,7 @@
 
 (4)(A) The Director shall make scholarship payments under this section directly to the institution of higher education that the student is attending.
 
-(B) Each institution of higher education receiving a payment on behalf of a participant pursuant to subparagraph (A) shall remit to such student any funds in excess of the costs oftuition, fees, and room and board payable to the institution.
+(B) Each institution of higher education receiving a payment on behalf of a participant pursuant to subparagraph (A) shall remit to such student any funds in excess of the costs of tuition, fees, and room and board payable to the institution.
 
 #### (b) Reimbursement authorized
 
@@ -90,9 +90,9 @@ Each participant desiring a scholarship or payment under this section shall subm
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (a)(2), (b)(2). Pub. L. 107–273 substituted “$10,000” for “$7,500” in subpar. (A)(i), “$13,333” for “$10,000” in subpar. (B), and “$40,000” for “$30,000” in subpar. (C).
+<b>2002</b>—Subsecs. (a)(2), (b)(2). Pub. L. 107–273 substituted "$10,000" for "$7,500" in subpar. (A)(i), "$13,333" for "$10,000" in subpar. (B), and "$40,000" for "$30,000" in subpar. (C).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be paragraph “(1)(B)(iii)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be paragraph "(1)(B)(iii)".</i>
 

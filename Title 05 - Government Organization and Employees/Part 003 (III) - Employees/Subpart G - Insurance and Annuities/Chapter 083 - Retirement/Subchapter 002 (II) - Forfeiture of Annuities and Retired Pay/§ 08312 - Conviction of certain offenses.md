@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(B) section 2274 (communication of restricted data), 2275 (receipt of restricted data), or 2276 (tampering with restricted data) of title 42; or
 
-&emsp;&emsp;(C) section 783 (conspiracy and communication or receipt of classified information) of title 50 or section 601 of the National Security Act of 1947 (50 U.S.C. 421) (relating to intelligence identities).
+&emsp;&emsp;(C) section 783 (conspiracy and communication or receipt of classified information) of title 50 or section 601 of the National Security Act of 1947 (50 U.S.C. 421) <sup>1</sup> (relating to intelligence identities).
 
 &emsp;(2) An offense within the purview of a current article of the Uniform Code of Military Justice (chapter 47 of title 10) or an earlier article on which the current article is based, as the case may be, on the basis of charges and specifications describing a violation of a statute named by paragraph (1), (3), or (4) of this subsection, if the executed sentence includes death, dishonorable discharge, or dismissal from the service, or if the defendant dies before execution of that sentence as finally approved.
 
@@ -68,11 +68,11 @@
 
 &emsp;(A) that an individual subject to this chapter has been convicted by an impartial court of appropriate jurisdiction within a foreign country in circumstances in which the conduct violates the provisions of law enumerated in subsections (b)(1) and (c)(1), or would violate such provisions had such conduct taken place within the United States, and that such conviction is not being appealed or that final action has been taken on such appeal;
 
-&emsp;(B) that such conviction was obtained in accordance with procedures that provided the defendant due process rights comparable to such rights provided by the United States Constitution, and such conviction was based uponevidence which would have been admissible in the courts of the United States; and
+&emsp;(B) that such conviction was obtained in accordance with procedures that provided the defendant due process rights comparable tosuch rights provided by the United States Constitution, and such conviction was based upon evidence which would have been admissible in the courts of the United States; and
 
 &emsp;(C) that such conviction occurred after the date of enactment of this subsection.
 
-(2) Any certification made pursuant to this subsection shall be subject to review by the United States Court of Claims based upon the application of the individual concerned, or his or her attorney, alleging that any of the conditions set forth in subparagraphs <sup>1</sup> (A), (B), or (C) of paragraph (1), as certified by the Attorney General, have not been satisfied in his or her particular circumstances. Should the court determine that any of these conditions has not been satisfied in such case, the court shall order any annuity or retirement benefit to which the person concerned is entitled to be restored and shall order that any payments which may have been previously denied or withheld to be paid by the department or agency concerned.
+(2) Any certification made pursuant to this subsection shall be subject to review by the United States Court of Claims based upon the application of the individual concerned, or his or her attorney, alleging that any of the conditions set forth in subparagraphs <sup>2</sup> (A), (B), or (C) of paragraph (1), as certified by the Attorney General, have not been satisfied in his or her particular circumstances. Should the court determine that any of these conditions has not been satisfied in such case, the court shall order any annuity or retirement benefit to which the person concerned is entitled to be restored and shall order that any payments which may have been previously denied or withheld to be paid by the department or agency concerned.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 559; Pub. L. 92–128, §2(b), Sept. 25, 1971, 85 Stat. 348; Pub. L. 99–569, title VI, §603, Oct. 27, 1986, 100 Stat. 3204; Pub. L. 103–337, div. A, title VI, §639(a), Oct. 5, 1994, 108 Stat. 2791; Pub. L. 103–359, title VIII, §805, Oct. 14, 1994, 108 Stat. 3441.)
 
@@ -100,6 +100,8 @@ Subsecs. (a) and (b) of section 16 of the Atomic Energy Act of 1946 (60 Stat. 77
 
 Articles 104, 106, and 106a of the Uniform Code of Military Justice, referred to in subsec. (b)(2)(A), are sections 904, 906, and 906a, respectively, of Title 10, Armed Forces. The Uniform Code of Military Justice, in its entirety, is set out in section 801 et seq. of Title 10.
 
+The National Security Act of 1947, referred to in subsec. (c)(1)(C), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 601 of the Act is now classified to section 3121 of Title 50. For complete classification of this Act to the Code, see Tables.
+
 The date of enactment of this subsection, referred to in subsec. (d)(1)(C), is the date of enactment of Pub. L. 103–359, which was approved Oct. 14, 1994.
 
 #### Amendments
@@ -116,5 +118,7 @@ Subsec. (d). Pub. L. 103–359 added subsec. (d).
 
 Section 639(b) of Pub. L. 103–337 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1994\] and shall apply to persons convicted of espionage under section 906a of title 10, United States Code (article 106a of the Uniform Code of Military Justice), on or after the date of the enactment of this Act.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

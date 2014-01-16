@@ -2,7 +2,7 @@
 
 The Congress makes the following findings:
 
-&emsp;(1) Pinnacles National Monument was established by Presidential Proclamation 796 on January 16, 1908, for the purposes of protectingits rock formations, and expanded by Presidential Proclamation 1660 of May 7, 1923; Presidential Proclamation 1704 of July 2, 1924; Presidential Proclamation 1948 of April 13, 1931; Presidential Proclamation 2050 of July 11, 1933; Presidential Proclamation 2528 of December 5, 1941; Public Law 94–567; and Presidential Proclamation 7266 of January 11, 2000.
+&emsp;(1) Pinnacles National Monument was established by Presidential Proclamation 796 on January 16, 1908, for the purposes of protecting its rock formations, and expanded by Presidential Proclamation 1660 of May 7, 1923; Presidential Proclamation 1704 of July 2, 1924; Presidential Proclamation 1948 of April 13, 1931; Presidential Proclamation 2050 of July 11, 1933; Presidential Proclamation 2528 of December 5, 1941; Public Law 94–567; and Presidential Proclamation 7266 of January 11, 2000.
 
 &emsp;(2) While the extraordinary geology of Pinnacles National Monument has attracted and enthralled visitors for well over a century, the expanded Monument now serves a critical role in protecting other important natural and cultural resources and ecological processes. This expanded role merits recognition through legislation.
 
@@ -18,5 +18,5 @@ The Congress makes the following findings:
 
 #### Short Title
 
-Pub. L. 112–245, §1, Jan. 10, 2013, 126 Stat. 2385, provided that: “This Act \[enacting this subchapter and amending provisions listed in a table of Wilderness Areas under section 1132 of this title\] may be cited as the ‘Pinnacles National Park Act’.”
+Pub. L. 112–245, §1, Jan. 10, 2013, 126 Stat. 2385, provided that: "This Act \[enacting this subchapter and amending provisions listed in a table of Wilderness Areas under section 1132 of this title\] may be cited as the 'Pinnacles National Park Act'."
 

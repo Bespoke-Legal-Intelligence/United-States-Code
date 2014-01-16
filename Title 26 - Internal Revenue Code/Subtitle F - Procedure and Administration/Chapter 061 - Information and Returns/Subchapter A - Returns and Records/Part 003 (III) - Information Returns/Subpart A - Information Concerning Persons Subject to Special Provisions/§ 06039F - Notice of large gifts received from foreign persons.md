@@ -6,7 +6,7 @@ If the value of the aggregate foreign gifts received by a United States person (
 
 #### (b) Foreign gift
 
-For purposes of this section, the term “foreign gift” means any amount received from a person other than a United States person which the recipient treats as a gift or bequest. Such term shall not include any qualified transfer (within the meaning of section 2503(e)(2)) or any distribution properly disclosed in a return under section 6048(c).
+For purposes of this section, the term "foreign gift" means any amount received from a person other than a United States person which the recipient treats as a gift or bequest. Such term shall not include any qualified transfer (within the meaning of section 2503(e)(2)) or any distribution properly disclosed in a return under section 6048(c).
 
 #### (c) Penalty for failure to file information
 
@@ -16,7 +16,7 @@ For purposes of this section, the term “foreign gift” means any amount recei
 
 &emsp;&emsp;(A) the tax consequences of the receipt of such gift shall be determined by the Secretary, and
 
-&emsp;&emsp;(B) such United States person shall pay (upon notice and demand by the Secretary and in the same manner as tax) an amount equal to 5 percent of the amount of such foreign gift for each month for which the failure continues (not to exceed 25 percent of such amount in the aggregate).
+&emsp;&emsp;(B) such United States person shall pay (upon notice and demand by the Secretary and in the same manner as tax) an amountequal to 5 percent of the amount of such foreign gift for each month for which the failure continues (not to exceed 25 percent of such amount in the aggregate).
 
 #### (2) Reasonable cause exception
 
@@ -24,7 +24,7 @@ For purposes of this section, the term “foreign gift” means any amount recei
 
 #### (d) Cost-of-living adjustment
 
-In the case of any taxable year beginning after December 31, 1996, the $10,000 amount under subsection (a) shall be increased by an amount equal to the product of such amount and the cost-of-living adjustment for such taxable year under section 1(f)(3), except that subparagraph (B) thereof shall be applied by substituting “1995” for “1992”.
+In the case of any taxable year beginning after December 31, 1996, the $10,000 amount under subsection (a) shall be increased by an amount equal to the product of such amount and the cost-of-living adjustment for such taxable year under section 1(f)(3), except that subparagraph (B) thereof shall be applied by substituting "1995" for "1992".
 
 #### (e) Regulations
 
@@ -42,5 +42,5 @@ Another section 6039F was renumbered section 6039G of this title.
 
 #### Effective Date
 
-Pub. L. 104–188, title I, §1905(c), Aug. 20, 1996, 110 Stat. 1913, provided that: “The amendments made by this section \[enacting this section\] shall apply to amounts received after the date of the enactment of this Act \[Aug. 20, 1996\] in taxable years ending after such date.”
+Pub. L. 104–188, title I, §1905(c), Aug. 20, 1996, 110 Stat. 1913, provided that: "The amendments made by this section \[enacting this section\] shall apply to amounts received after the date of the enactment of this Act \[Aug. 20, 1996\] in taxable years ending after such date."
 

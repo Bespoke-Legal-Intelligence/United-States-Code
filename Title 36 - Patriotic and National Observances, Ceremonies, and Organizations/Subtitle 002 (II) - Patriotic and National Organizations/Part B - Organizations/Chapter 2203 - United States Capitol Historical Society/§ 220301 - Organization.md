@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—United States Capitol Historical Society (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—United States Capitol Historical Society (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

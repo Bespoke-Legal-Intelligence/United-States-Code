@@ -18,9 +18,9 @@ Historical and Revision Notes
 
 41:23.
 
-June 5, 1920, ch. 240, (last par. under heading “Purchase of Articles Manufactured at Government Arsenals”), 41 Stat. 975.
+June 5, 1920, ch. 240, (last par. under heading "Purchase of Articles Manufactured at Government Arsenals"), 41 Stat. 975.
 
 July 1, 1922, ch. 259, (1st proviso on p. 812), 42 Stat. 812.
 
-The words “heretofore or” are omitted as obsolete. The word “hereafter” is omitted as unnecessary because the provision is restated as permanent law rather than as part of a fiscal year appropriation.
+The words "heretofore or" are omitted as obsolete. The word "hereafter" is omitted as unnecessary because the provision is restated as permanent law rather than as part of a fiscal year appropriation.
 

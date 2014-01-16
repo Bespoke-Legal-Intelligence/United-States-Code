@@ -4,7 +4,7 @@ The purposes of this chapter are—
 
 &emsp;(1) to promote the restoration of estuary habitat by implementing a coordinated Federal approach to estuary habitat restoration activities, including the use of common monitoring standards and a common system for tracking restoration acreage;
 
-&emsp;(2) to develop and implement a national estuary habitat restoration strategy for creating and maintaining effective estuary habitat restoration partnerships among public agencies at all levels of government and to establish new partnerships between the public and private sectors;
+&emsp;(2) to develop and implement a national estuary habitat restoration strategy for creating and maintaining effective estuary habitat restoration partnerships among public agencies at all levels of government and to establishnew partnerships between the public and private sectors;
 
 &emsp;(3) to provide Federal assistance for estuary habitat restoration projects through cooperative agreements and to promote efficient financing of such projects; and
 
@@ -14,53 +14,53 @@ The purposes of this chapter are—
 
 #### Amendments
 
-<b>2007</b>—Par. (1). Pub. L. 110–114, §5017(a)(1), inserted “by implementing a coordinated Federal approach to estuary habitat restoration activities, including the use of common monitoring standards and a common system for tracking restoration acreage” before semicolon at end.
+<b>2007</b>—Par. (1). Pub. L. 110–114, §5017(a)(1), inserted "by implementing a coordinated Federal approach to estuary habitat restoration activities, including the use of common monitoring standards and a common system for tracking restoration acreage" before semicolon at end.
 
-Par. (2). Pub. L. 110–114, §5017(a)(2), inserted “and implement” after “to develop”.
+Par. (2). Pub. L. 110–114, §5017(a)(2), inserted "and implement" after "to develop".
 
-Par. (3). Pub. L. 110–114, §5017(a)(3), inserted “through cooperative agreements” after “restoration projects”.
+Par. (3). Pub. L. 110–114, §5017(a)(3), inserted "through cooperative agreements" after "restoration projects".
 
 #### Short Title
 
-Pub. L. 106–457, §1(a), Nov. 7, 2000, 114 Stat. 1957, provided that: “This Act \[enacting this chapter, sections 1273 and 1300 of this title, and sections 277d–43 to 277d–46 of Title 22, Foreign Relations and Intercourse, amending sections 1263a, 1267, 1269, 1324, and 1330 of this title, and enacting provisions set out as notes under this section, sections 1251 and 1267 of this title, and section 277d–43 of Title 22\] may be cited as the ‘Estuaries and Clean Waters Act of 2000’.”
+Pub. L. 106–457, §1(a), Nov. 7, 2000, 114 Stat. 1957, provided that: "This Act \[enacting this chapter, sections 1273 and 1300 of this title, and sections 277d–43 to 277d–46 of Title 22, Foreign Relations and Intercourse, amending sections 1263a, 1267, 1269, 1324, and 1330 of this title, and enacting provisions set out as notes under this section, sections 1251 and 1267 of this title, and section 277d–43 of Title 22\] may be cited as the 'Estuaries and Clean Waters Act of 2000'."
 
-Pub. L. 106–457, title I, §101, Nov. 7, 2000, 114 Stat. 1958, provided that: “This title \[enacting this chapter\] may be cited as the ‘Estuary Restoration Act of 2000’.”
+Pub. L. 106–457, title I, §101, Nov. 7, 2000, 114 Stat. 1958, provided that: "This title \[enacting this chapter\] may be cited as the 'Estuary Restoration Act of 2000'."
 
 #### Purchase of American-Made Equipment and Products
 
 Pub. L. 106–457, title IX, §901, Nov. 7, 2000, 114 Stat. 1981, provided that:
 
-“(a)
+"(a)
 
 In General.—It is the sense of Congress that, to the extent practicable, all equipment and products purchased with funds made available under this Act \[see Short Title note above\] should be American made.
 
-“(b)
+"(b)
 
-Notice to Recipients of Assistance.—The head of each Federal Agency \[sic\] providing financial assistance under this Act, to the extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
+Notice to Recipients of Assistance.—The head of each Federal Agency \[sic\] providing financial assistance under this Act, to the extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a)."
 
 #### Long-Term Estuary Assessment
 
 Pub. L. 106–457, title IX, §902, Nov. 7, 2000, 114 Stat. 1981, provided that:
 
-“(a)
+"(a)
 
-In General.—The Secretary of Commerce (acting through the Under Secretary for Oceans and Atmosphere) and the Secretary of the Interior (acting through the Director of the Geological Survey) may carry out a long-term estuary assessment project (in this section referred to as the ‘project’) in accordance with the requirements of this section.
+In General.—The Secretary of Commerce (acting through the Under Secretary for Oceans and Atmosphere) and the Secretary of the Interior (acting through the Director of the Geological Survey) may carry out a long-term estuary assessment project (in this section referred to as the 'project') in accordance with the requirements of this section.
 
-“(b)
+"(b)
 
 Purpose.—The purpose of the project shall be to establish a network of strategic environmental assessment and monitoring projects for the Mississippi River south of Vicksburg, Mississippi, and the Gulf of Mexico, in order to develop advanced long-term assessment and monitoring systems and models relating to the Mississippi River and other aquatic ecosystems, including developing equipment and techniques necessary to implement the project.
 
-“(c)
+"(c)
 
 Management Agreement.—To establish, operate, and implement the project, the Secretary of Commerce and the Secretary of the Interior may enter into a management agreement with a university-based consortium.
 
-“(d)
+"(d)
 
 Authorization of Appropriations.—There is authorized to be appropriated—
 
-&emsp;“(1) $1,000,000 for fiscal year 2001 to develop the management agreement under subsection (c); and
+&emsp;"(1) $1,000,000 for fiscal year 2001 to develop the management agreement under subsection (c); and
 
-&emsp;“(2) $4,000,000 for each of fiscal years 2002, 2003, 2004, and 2005 to carry out the project.
+&emsp;"(2) $4,000,000 for each of fiscal years 2002, 2003, 2004, and 2005 to carry out the project.
 
-> Such sums shall remain available until expended.”
+> Such sums shall remain available until expended."
 

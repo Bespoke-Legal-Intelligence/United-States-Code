@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to establish a demonstration program to test the effectiveness of combining housing certificates and vouchers with supportive services to assist frail elderly persons to continue to live independently. The demonstration program under this section shall terminate upon the expiration of the 5-year period determined by the Secretary.
+The purpose of this section is to establish a demonstration program to test the effectivenessof combining housing certificates and vouchers with supportive services to assist frail elderly persons to continue to live independently. The demonstration program under this section shall terminate upon the expiration of the 5-year period determined by the Secretary.
 
 #### (b) Housing assistance
 
@@ -92,7 +92,7 @@ The Secretary may not approve any assistance for any program under this section 
 
 &emsp;(2) to conduct an ongoing assessment of the housing assistance and supportive services required by each frail elderly person participating in the program;
 
-&emsp;(3) to ensure the adequate provision of supportive services, at a reasonable cost, to eachfrail elderly person participating in the program; and
+&emsp;(3) to ensure the adequate provision of supportive services, at a reasonable cost, to each frail elderly person participating in the program; and
 
 &emsp;(4) to comply with such other terms and conditions as the Secretary may establish for purposes of carrying out the program in an effective and efficient manner.
 
@@ -100,19 +100,19 @@ The Secretary may not approve any assistance for any program under this section 
 
 For purposes of this section:
 
-&emsp;(1) The term “demonstration period” means the 5-year period referred to in subsection (a) of this section.
+&emsp;(1) The term "demonstration period" means the 5-year period referred to in subsection (a) of this section.
 
-&emsp;(2) The term “elderly person” means a person who is at least 62 years of age.
+&emsp;(2) The term "elderly person" means a person who is at least 62 years of age.
 
-&emsp;(3) The term “frail elderly person” means an elderly person who is unable to perform at least 3 activities of daily living adopted by the Secretary for purposes of this program. Owners may establish additional eligibility requirements (acceptable to the Secretary) based on the standards in local supportive services programs.
+&emsp;(3) The term "frail elderly person" means an elderly person who is unable to perform at least 3 activities of daily living adopted by the Secretary for purposes of this program. Owners may establish additional eligibility requirements (acceptable to the Secretary) based on the standards in local supportive services programs.
 
-&emsp;(4) The term “professional assessment committee” means a group of at least 3 persons appointed by a public housing agency which shall include at least 1 qualified medical professional and other persons professionally competent to appraise the functional abilities of the frail elderly in relation to the performance of activities of daily living.
+&emsp;(4) The term "professional assessment committee" means a group of at least 3 persons appointed by a public housing agency which shall include at least 1 qualified medical professional and other persons professionally competent to appraise the functional abilities of the frail elderly in relation to the performance of activities of daily living.
 
-&emsp;(5) The term “public housing agency” has the meaning given such term in section 1437a(b)(6) of this title. The term includes an Indian Housing Authority, as defined in section 1437a(b)(11) <sup>2</sup> of this title.
+&emsp;(5) The term "public housing agency" has the meaning given such term in section 1437a(b)(6) of this title. The term includes an Indian Housing Authority, as defined in section 1437a(b)(11) <sup>2</sup> of this title.
 
-&emsp;(6) The term “Secretary” means the Secretary of Housing and Urban Development.
+&emsp;(6) The term "Secretary" means the Secretary of Housing and Urban Development.
 
-&emsp;(7) The term “supportive services”—
+&emsp;(7) The term "supportive services"—
 
 &emsp;&emsp;(A) means assistance, that the Secretary determines—
 
@@ -160,7 +160,7 @@ For purposes of this section:
 
 #### (i) Report
 
-The Secretary shall submit to Congress an annual report evaluating the effectiveness of the demonstrations under this section. The report shall include a statement of the number of persons served, the types of services provided, the cost of providing such services, and any otherinformation the Secretary considers appropriate in evaluating the demonstration.
+The Secretary shall submit to Congress an annual report evaluating the effectiveness of the demonstrations under this section. The report shall include a statement of the number of persons served, the types of services provided, the cost of providing such services, and any other information the Secretary considers appropriate in evaluating the demonstration.
 
 #### (j) Section 1437f funding
 
@@ -180,7 +180,7 @@ Not later than the expiration of the 180-day period beginning on the date that f
 
 The Older Americans Act of 1965, referred to in subsec. (d)(12), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title III of the Act is classified generally to subchapter III (§3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-Section 1437a(b)(11) of this title, referred to in subsec. (g)(5), was repealed by Pub. L. 104–330, title V, §501(b)(1)(D), Oct. 26, 1996, 110 Stat. 4041, and a new section 1437a(b)(11), defining “public housing agency plan”, was enacted by Pub. L. 105–276, title V, §506(4), Oct. 21, 1998, 112 Stat. 2524.
+Section 1437a(b)(11) of this title, referred to in subsec. (g)(5), was repealed by Pub. L. 104–330, title V, §501(b)(1)(D), Oct. 26, 1996, 110 Stat. 4041, and a new section 1437a(b)(11), defining "public housing agency plan", was enacted by Pub. L. 105–276, title V, §506(4), Oct. 21, 1998, 112 Stat. 2524.
 
 #### Codification
 
@@ -188,15 +188,15 @@ Section was enacted as part of the Cranston-Gonzalez National Affordable Housing
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–550, §605(c)(1), substituted “determined by the Secretary” for “beginning on November 28, 1990”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §605(c)(1), substituted "determined by the Secretary" for "beginning on November 28, 1990".
 
-Subsec. (g)(1). Pub. L. 102–550, §605(c)(2), added par. (1) and struck out former par. (1) which read as follows: “The term ‘demonstration period’ means the period beginning on November 28, 1990, and ending upon the termination date under subsection (a) of this section.”
+Subsec. (g)(1). Pub. L. 102–550, §605(c)(2), added par. (1) and struck out former par. (1) which read as follows: "The term 'demonstration period' means the period beginning on November 28, 1990, and ending upon the termination date under subsection (a) of this section."
 
-Subsec. (j). Pub. L. 102–550, §605(a), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The Secretary may provide assistance under sections 1437f(b) and 1437f(o) of this title in connection with the demonstrations under this section, in an amount not to exceed $34,000,000 for fiscal year 1991, and $35,500,000 for fiscal year 1992, subject to the approval of sufficient amounts in appropriations Acts under section 1437c of this title.”
+Subsec. (j). Pub. L. 102–550, §605(a), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "The Secretary may provide assistance under sections 1437f(b) and 1437f(o) of this title in connection with the demonstrations under this section, in an amount not to exceed $34,000,000 for fiscal year 1991, and $35,500,000 for fiscal year 1992, subject to the approval of sufficient amounts in appropriations Acts under section 1437c of this title."
 
-Subsec. (k). Pub. L. 102–550, §605(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “There are authorized to be appropriated for the Secretary to carry out the responsibilities for supportive services under the demonstrations under this section, $10,000,000 to become available in fiscal year 1991, and $10,400,000 to become available in fiscal year 1992, and remain available until expended.”
+Subsec. (k). Pub. L. 102–550, §605(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: "There are authorized to be appropriated for the Secretary to carry out the responsibilities for supportive services under the demonstrations under this section, $10,000,000 to become available in fiscal year 1991, and $10,400,000 to become available in fiscal year 1992, and remain available until expended."
 
-<i><sup>1</sup></i><i> So in original. The comma probably should precede “and”.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should precede "and".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

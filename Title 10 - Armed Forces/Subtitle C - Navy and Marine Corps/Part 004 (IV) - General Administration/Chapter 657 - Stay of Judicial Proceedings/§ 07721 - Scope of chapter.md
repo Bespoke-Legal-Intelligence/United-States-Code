@@ -6,7 +6,7 @@
 
 &emsp;(2) compensation for towage or salvage services, including contract salvage, rendered to a vessel in the naval service.
 
-(b) In this chapter, the term “vessel in the naval service” means—
+(b) In this chapter, the term "vessel in the naval service" means—
 
 &emsp;(1) any vessel of the Navy, manned by the Navy, or chartered on bareboat charter to the Navy; or
 
@@ -34,19 +34,19 @@ July 3, 1944, ch. 399, §1 (2d sentence), 58 Stat. 723.
 
 July 3, 1944, ch. 399, §3, 58 Stat. 724.
 
-In subsection (a) the words “wherein a claim is made” are omitted as surplusage. The words “vessel in the naval service” are substituted for the words “vessel in the Navy, or in the naval service” for brevity. No change in meaning results, since the term used in subsection (a) is defined in subsection (b).
+In subsection (a) the words "wherein a claim is made" are omitted as surplusage. The words "vessel in the naval service" are substituted for the words "vessel in the Navy, or in the naval service" for brevity. No change in meaning results, since the term used in subsection (a) is defined in subsection (b).
 
-In subsection (b) the words “service in” are substituted for the words “part of” to conform to the terminology used in 14 U.S.C. 3.
+In subsection (b) the words "service in" are substituted for the words "part of" to conform to the terminology used in 14 U.S.C. 3.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted “chapter 311 of title 46” for “the Act of March 3, 1925 (commonly referred to as the ‘Public Vessels Act’) (46 U.S.C. App. 781–790)”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted "chapter 311 of title 46" for "the Act of March 3, 1925 (commonly referred to as the 'Public Vessels Act') (46 U.S.C. App. 781–790)".
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–35 substituted “(46 U.S.C. App. 781–790)” for “(46 U.S.C. 781–790)”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–35 substituted "(46 U.S.C. App. 781–790)" for "(46 U.S.C. 781–790)".
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–26 inserted “, the term” after “In this chapter”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–26 inserted ", the term" after "In this chapter".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “the Act of March 3, 1925 (commonly referred to as the ‘Public Vessels Act’) (46 U.S.C. 781–790)” for “sections 781–790 of title 46”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "the Act of March 3, 1925 (commonly referred to as the 'Public Vessels Act') (46 U.S.C. 781–790)" for "sections 781–790 of title 46".
 
 #### Effective Date of 1980 Amendment
 

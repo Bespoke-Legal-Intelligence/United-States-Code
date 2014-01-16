@@ -6,7 +6,7 @@ In this subchapter the definitions and grant conditions in section 13925 of this
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–162 amended section generally. Prior to amendment, section consisted of pars. (1) to (3) defining for purposes of this subchapter “domestic violence”, “protection order”, and “dating violence”.
+<b>2006</b>—Pub. L. 109–162 amended section generally. Prior to amendment, section consisted of pars. (1) to (3) defining for purposes of this subchapter "domestic violence", "protection order", and "dating violence".
 
 <b>2000</b>—Par. (3). Pub. L. 106–386 added par. (3).
 

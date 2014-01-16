@@ -8,11 +8,11 @@
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 Title II, referred to in subsec. (a), is title II (§§201–209) of Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3033, as amended, which enacted sections 2022, 2113, 2114 of this title, amended sections 2014, 2021, 2111, and 2201 of this title, and enacted provisions set out as notes under sections 2014, 2021, and 2113 of this title. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–259 inserted at end “This subsection does not prohibit the disposal of residual radioactive material from a processing site under this subchapter at a site licensed under title II or the expenditure of funds under this subchapter for such disposal.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–259 inserted at end "This subsection does not prohibit the disposal of residual radioactive material from a processing site under this subchapter at a site licensed under title II or the expenditure of funds under this subchapter for such disposal."
 

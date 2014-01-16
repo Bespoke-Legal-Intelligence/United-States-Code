@@ -36,7 +36,7 @@
 
 &emsp;(G) Public affairs.
 
-(2) The Secretary of the Navy shall establish or designate a single office or other entity within the Office of the Secretary of the Navy to conduct each function specified in paragraph (1). No office or other entity may be established or designated within the Office of the Chief of Naval Operations or the Headquarters, Marine Corps, to conduct any of the functions specified in paragraph (1).
+(2) The Secretary of the Navy shall establish or designate a single office or other entity within the Office of the Secretary of the Navy to conduct each function specified in paragraph (1).No office or other entity may be established or designated within the Office of the Chief of Naval Operations or the Headquarters, Marine Corps, to conduct any of the functions specified in paragraph (1).
 
 (3) The Secretary shall—
 
@@ -48,7 +48,7 @@
 
 &emsp;(B) ensure that each such office or entity provides the Chief of Naval Operations and the Commandant of the Marine Corps such staff support as each considers necessary to perform his duties and responsibilities.
 
-(4) The vesting in the Office of the Secretary of the Navy of the responsibility for the conductof a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Navy (including the Office of the Chief of Naval Operations and the Headquarters, Marine Corps) from providing advice or assistance to the Chief of Naval Operations and the Commandant of the Marine Corps or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Navy.
+(4) The vesting in the Office of the Secretary of the Navy of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Navy (including the Office of the Chief of Naval Operations and the Headquarters, Marine Corps) from providing advice or assistance to the Chief of Naval Operations and the Commandant of the Marine Corps or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Navy.
 
 (5)(A) The head of the office or other entity established or designated by the Secretary to conduct the auditing function shall have at least five years of professional experience in accounting or auditing. The position shall be considered to be a career reserved position as defined in section 3132(a)(8) of title 5.
 
@@ -90,21 +90,21 @@ A prior section 5014, added Pub. L. 85–861, §1(106)(A), Sept. 2, 1958, 72 Sta
 
 <b>2002</b>—Subsec. (b)(6) to (8). Pub. L. 107–314 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
-<b>2001</b>—Subsec. (f)(3). Pub. L. 107–107 substituted “74” for “the number equal to 85 percent of the number of general and flag officers assigned or detailed to such duty on the date of the enactment of this subsection”.
+<b>2001</b>—Subsec. (f)(3). Pub. L. 107–107 substituted "74" for "the number equal to 85 percent of the number of general and flag officers assigned or detailed to such duty on the date of the enactment of this subsection".
 
-<b>1989</b>—Subsec. (f)(5). Pub. L. 101–189 struck out par. (5) which read as follows: “The limitations in paragraphs (1), (2), and (3) do not apply before October 1, 1988.”
+<b>1989</b>—Subsec. (f)(5). Pub. L. 101–189 struck out par. (5) which read as follows: "The limitations in paragraphs (1), (2), and (3) do not apply before October 1, 1988."
 
 <b>1988</b>—Subsec. (c)(5). Pub. L. 100–456 added par. (5).
 
-<b>1987</b>—Subsec. (f)(4). Pub. L. 100–180 inserted “the President or” after “declared by”.
+<b>1987</b>—Subsec. (f)(4). Pub. L. 100–180 inserted "the President or" after "declared by".
 
 #### Effective Date of 1988 Amendment
 
 Pub. L. 100–456, div. A, title III, §325(d), Sept. 29, 1988, 102 Stat. 1955, provided that:
 
-“(1) The requirements of sections 3014(c)(5), 5014(c)(5)(A), and 8014(c)(5) of title 10, United States Code (as added by subsections (a), (b), and (c), respectively), shall apply with respect to any person appointed on or after the date of the enactment of this Act \[Sept. 29, 1988\] as the head of the office or other entity designated for conducting the auditing function in a military department.
+"(1) The requirements of sections 3014(c)(5), 5014(c)(5)(A), and 8014(c)(5) of title 10, United States Code (as added by subsections (a), (b), and (c), respectively), shall apply with respect to any person appointed on or after the date of the enactment of this Act \[Sept. 29, 1988\] as the head of the office or other entity designated for conducting the auditing function in a military department.
 
-“(2) Subparagraph (B) of section 5014(c)(5) of title 10, United States Code (as added by subsection (b)), shall take effect at the end of the one-year period beginning on the date of the enactment of this Act.”
+"(2) Subparagraph (B) of section 5014(c)(5) of title 10, United States Code (as added by subsection (b)), shall take effect at the end of the one-year period beginning on the date of the enactment of this Act."
 
 #### Effective Date
 

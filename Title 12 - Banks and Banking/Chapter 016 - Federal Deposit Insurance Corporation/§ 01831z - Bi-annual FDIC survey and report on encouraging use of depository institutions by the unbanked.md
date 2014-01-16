@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Corporation shall conduct a bi-annual survey on efforts by insured depository institutions to bring those individuals and families who have rarely, if ever, held a checking account, a savings account or other type of transaction or check cashing account at an insured depository institution (hereafter in this section referred to as the “unbanked”) into the conventional finance system.
+&emsp;The Corporation shall conduct a bi-annual survey on efforts by insured depository institutions to bring those individuals and families who have rarely, if ever, held a checking account, a savings account or other type of transaction or check cashing account at an insured depository institution (hereafter in this section referred to as the "unbanked") into the conventional finance system.
 
 #### (2) Factors and questions to consider
 
@@ -12,13 +12,13 @@
 
 &emsp;&emsp;(A) To what extent do insured depository institutions promote financial education and financial literacy outreach?
 
-&emsp;&emsp;(B) Which financial education efforts appear to be the most effective in bringing “unbanked” individuals and families into the conventional finance system?
+&emsp;&emsp;(B) Which financial education efforts appear to be the most effective in bringing "unbanked" individuals and families into the conventional finance system?
 
-&emsp;&emsp;(C) What efforts are insured institutions making at converting “unbanked” money order, wire transfer, and international remittance customers into conventional account holders?
+&emsp;&emsp;(C) What efforts are insured institutions making at converting "unbanked" money order, wire transfer, and international remittance customers into conventional account holders?
 
-&emsp;&emsp;(D) What cultural, language and identification issues as well as transaction costs appear to most prevent “unbanked” individuals from establishing conventional accounts?
+&emsp;&emsp;(D) What cultural, language and identification issues as well as transaction costs appear to most prevent "unbanked" individuals from establishing conventional accounts?
 
-&emsp;&emsp;(E) What is a fair estimate of the size and worth of the “unbanked” market in the United States?
+&emsp;&emsp;(E) What is a fair estimate of the size and worth of the "unbanked" market in the United States?
 
 #### (b) Reports
 

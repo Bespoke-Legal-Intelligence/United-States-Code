@@ -12,5 +12,5 @@ Proof of Reason for Travel.—The Secretary shall include in the regulations the
 
 #### Effective Date
 
-Pub. L. 106–398, §1 \[\[div. A\], title VI, §663(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–168, provided that: “Section 12604 of title 10, United States Code, as added by subsection (a), shall apply with respect to periods of inactive-duty training beginning more than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].”
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §663(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–168, provided that: "Section 12604 of title 10, United States Code, as added by subsection (a), shall apply with respect to periods of inactive-duty training beginning more than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\]."
 

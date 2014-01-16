@@ -18,11 +18,11 @@ In this chapter, the following definitions apply:
 
 &emsp;(8) The term “functions” includes authorities, powers, rights, privileges, immunities, programs, projects, activities, duties, and responsibilities.
 
-&emsp;(9) The term “intelligence component of the Department” means any element or entity of the Department that collects, gathers, processes, analyzes, produces, or disseminates intelligence information within the scope of the information sharing environment, includinghomeland security information, terrorism information, and weapons of mass destruction information, or national intelligence, as defined under section 401a(5) of title 50, except—
+&emsp;(9) The term “intelligence component of the Department” means any element or entity of the Department that collects, gathers, processes, analyzes, produces, or disseminates intelligence information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, or national intelligence, as defined under section 3003(5) of title 50, except—
 
 &emsp;&emsp;(A) the United States Secret Service; and
 
-&emsp;&emsp;(B) the Coast Guard, when operating under the direct authority of the Secretary of Defense or Secretary of the Navy pursuant to section 3 of title 14, except that nothing in this paragraph shall affect or diminish the authority and responsibilities of the Commandant of the Coast Guard to command or control the Coast Guard as an armed force or the authority of the Director of National Intelligence with respect to the Coast Guard as an element of the intelligence community (as defined under section 401a(4) of title 50.<sup>1</sup>
+&emsp;&emsp;(B) the Coast Guard, when operating under the direct authority of the Secretary of Defense or Secretary of the Navy pursuant to section 3 of title 14, except that nothing in this paragraph shall affect or diminish the authority and responsibilities of the Commandant of the Coast Guard to command or control the Coast Guard as an armed force or the authority of the Director of National Intelligence with respect to the Coast Guard as an element of the intelligence community (as defined under section 3003(4) of title 50.<sup>1</sup>
 
 &emsp;(10) The term “key resources” means publicly or privately controlled resources essential to the minimal operations of the economy and government.
 
@@ -96,7 +96,7 @@ Pub. L. 112–205, §1, Dec. 7, 2012, 126 Stat. 1487, provided that: “This Act
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 111–376, §1, Jan. 4, 2011, 124 Stat. 4104, provided that: “This Act \[enacting section 221 of this title andprovisions set out as a note under section 221 of this title\] may be cited as the ‘Anti-Border Corruption Act of 2010’.”
+Pub. L. 111–376, §1, Jan. 4, 2011, 124 Stat. 4104, provided that: “This Act \[enacting section 221 of this title and provisions set out as a note under section 221 of this title\] may be cited as the ‘Anti-Border Corruption Act of 2010’.”
 
 #### Short Title of 2010 Amendment
 
@@ -164,7 +164,7 @@ Pub. L. 107–306, title VI, Nov. 27, 2002, 116 Stat. 2408, as amended by Pub. L
 
 &emsp;“(3) build upon the investigations of other entities, and avoid unnecessary duplication, by reviewing the findings, conclusions, and recommendations of—
 
-&emsp;&emsp;“(A) the Joint Inquiry of the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives regarding the terrorist attacks ofSeptember 11, 2001, (hereinafter in this title referred to as the ‘Joint Inquiry’); and
+&emsp;&emsp;“(A) the Joint Inquiry of the Select Committee on Intelligence of the Senate and the PermanentSelect Committee on Intelligence of the House of Representatives regarding the terrorist attacks of September 11, 2001, (hereinafter in this title referred to as the ‘Joint Inquiry’); and
 
 &emsp;&emsp;“(B) other executive branch, congressional, or independent commission investigations into the terrorist attacks of September 11, 2001, other terrorist attacks, and terrorism generally;
 
@@ -304,7 +304,7 @@ Enforcement.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—In the case of contumacy or failure to obey a subpoena issued under subsection (a), the United States district court for the judicial district in which the subpoenaed person resides, is served, or may be found, or wherethe subpoena is returnable, may issue an order requiring such person to appear at any designated place to testify or to produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt of that court.
+In general.—In the case of contumacy or failure to obey a subpoena issued under subsection (a), the United States district court for the judicial district in which the subpoenaed person resides, is served, or may be found, or where the subpoena is returnable, may issue an order requiring such person to appear at any designated place to testify or to produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt of that court.
 
 &emsp;&emsp;&emsp;“(ii)
 

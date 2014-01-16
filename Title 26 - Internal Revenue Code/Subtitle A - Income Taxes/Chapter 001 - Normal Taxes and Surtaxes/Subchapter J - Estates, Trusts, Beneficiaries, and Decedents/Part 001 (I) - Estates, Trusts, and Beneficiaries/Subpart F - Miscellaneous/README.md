@@ -14,11 +14,11 @@ Subpart F—Miscellaneous
 
 <b>2010</b>—Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300, amended analysis to read as if amendment by Pub. L. 107–16, §542(e)(1)(D), had never been enacted. See 2001 Amendment note below.
 
-<b>2001</b>—Pub. L. 107–16, title V, §542(e)(1)(D), June 7, 2001, 115 Stat. 85, inserted “and nonresident aliens” after “estates” in item 684.
+<b>2001</b>—Pub. L. 107–16, title V, §542(e)(1)(D), June 7, 2001, 115 Stat. 85, inserted "and nonresident aliens" after "estates" in item 684.
 
 <b>1997</b>—Pub. L. 105–34, title XI, §1131(c)(6), title XIII, §1309(b), Aug. 5, 1997, 111 Stat. 980, 1043, added items 684 and 685.
 
-<b>1976</b>—Pub. L. 94–455, title XXI, §2131(e)(2), Oct. 4, 1976, 90 Stat. 1924, substituted “Use of trust as an exchange fund” for “Applicability of provisions” in item 683.
+<b>1976</b>—Pub. L. 94–455, title XXI, §2131(e)(2), Oct. 4, 1976, 90 Stat. 1924, substituted "Use of trust as an exchange fund" for "Applicability of provisions" in item 683.
 
 
 ---

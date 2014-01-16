@@ -18,5 +18,5 @@ Nothing in this section shall be construed to require that a private or governme
 
 (July 1, 1944, ch. 373, title XXX, §3007, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 241.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsections".</i>
 

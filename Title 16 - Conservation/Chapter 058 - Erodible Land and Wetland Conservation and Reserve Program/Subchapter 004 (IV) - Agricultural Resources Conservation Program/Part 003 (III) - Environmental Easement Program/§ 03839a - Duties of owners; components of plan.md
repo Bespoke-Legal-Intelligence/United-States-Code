@@ -30,7 +30,7 @@
 
 #### (b) Components of plan
 
-The natural resource conservation management plan referred to in subsection (a)(1) of this section (hereafter referred to as the “plan”)—
+The natural resource conservation management plan referred to in subsection (a)(1) of this section (hereafter referred to as the "plan")—
 
 &emsp;(1) shall set forth—
 

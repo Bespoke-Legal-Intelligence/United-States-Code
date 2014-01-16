@@ -24,9 +24,9 @@ Subsec. (b). Pub. L. 89–554 repealed subsec. (b) which provided for the princi
 
 Subsec. (d). Pub. L. 89–554 repealed subsec. (d) which related to a limitation on additional appointments to the Commission.
 
-<b>1955</b>—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
+<b>1955</b>—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as "title I".
 
-Subsec. (c). Act Aug. 9, 1955, §2, substituted “subchapter” for “chapter”.
+Subsec. (c). Act Aug. 9, 1955, §2, substituted "subchapter" for "chapter".
 
 <b>1953</b>—Act Aug. 8, 1953, added par. at end which was editorially designated as subsec. (d).
 
@@ -100,7 +100,7 @@ The reorganization plan establishes a new Government agency, the Foreign Claims 
 
 The Foreign Claims Settlement Commission will be composed of three members appointed by the President by and with the advice and consent of the Senate. The President will designate one of the members as Chairman of the Commission. The Chairman will be responsible for the internal management of the affairs of the Commission. The reorganization plan contains provisions designed to assure smooth administration of functions during the period of transition to the new organization.
 
-The War Claims Commission was created as a temporary agency by the War Claims Act of 1948. The Commission was made responsible for settling certain claims of former United States World War II prisoners of war, civilian internees captured or in hiding to avoid capture in the Philippines, Guam, Wake Island, and the Midway Islands, and certain religious organizations inthe Philippines which had aided American forces during the war. In 1952, the Commission was assigned, additionally, the administration of claims of Philippine religious organizations which sustained losses of their educational, medical, and welfare facilities in the war, and of benefits to United States prisoners of war for inhumane treatment during internment by the enemy.
+The War Claims Commission was created as a temporary agency by the War Claims Act of 1948. The Commission was made responsible for settling certain claims of former United States World War II prisoners of war, civilian internees captured or in hiding to avoid capture in the Philippines, Guam, Wake Island, and the Midway Islands, and certain religious organizations in the Philippines which had aided American forces during the war. In 1952, the Commission was assigned, additionally, the administration of claims of Philippine religious organizations which sustained losses of their educational, medical, and welfare facilities in the war, and of benefits to United States prisoners of war for inhumane treatment during internment by the enemy.
 
 From its inception in 1949 to April 1, 1954, approximately 500,000 claims were filed with the War Claims Commission, and approximately $134 million was paid to claimants. Approximately 96,000 remaining claims are in the process of settlement, and the Commission must complete action on them, together with such appeals as may be filed, by March 31, 1955.
 

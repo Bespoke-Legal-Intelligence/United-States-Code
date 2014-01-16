@@ -22,7 +22,7 @@ A funding agreement for a grant under section 300x–21 of this title is that, i
 
 &emsp;Subject to paragraph (2), a funding agreement for a grant under section 300x–21 of this title for a fiscal year is that—
 
-&emsp;&emsp;(A) in the case of a grant for fiscal year 1993, the State involved will expend not lessthan 5 percent of the grant to increase (relative to fiscal year 1992) the availability of treatment services designed for pregnant women and women with dependent children (either by establishing new programs or expanding the capacity of existing programs);
+&emsp;&emsp;(A) in the case of a grant for fiscal year 1993, the State involved will expend not less than 5 percent of the grant to increase (relative to fiscal year 1992) the availability of treatment services designed for pregnant women and women with dependent children (either by establishing new programs or expanding the capacity of existing programs);
 
 &emsp;&emsp;(B) in the case of a grant for fiscal year 1994, the State will expend not less than 5 percent of the grant to so increase (relative to fiscal year 1993) the availability of such services for such women; and
 
@@ -38,7 +38,7 @@ A funding agreement for a grant under section 300x–21 of this title is that, i
 
 #### (3) Childcare and prenatal care
 
-&emsp;A funding agreement for a grant under section 300x–21 of this title for a State is that each entity providing treatment services with amounts reserved under paragraph (1) by the State will, directly or through arrangements with other public or nonprofit private entities, make available prenatal care to women receiving such services and, while the women are receiving the services, childcare.
+&emsp;A funding agreement for a grant under section 300x–21 of this title for a State is thateach entity providing treatment services with amounts reserved under paragraph (1) by the State will, directly or through arrangements with other public or nonprofit private entities, make available prenatal care to women receiving such services and, while the women are receiving the services, childcare.
 
 (July 1, 1944, ch. 373, title XIX, §1922, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 389; amended Pub. L. 106–310, div. B, title XXXIII, §3303(a), (f)(2)(A), Oct. 17, 2000, 114 Stat. 1210, 1211.)
 
@@ -54,11 +54,11 @@ Another prior section 1922 of act July 1, 1944, was classified to section 300y�
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–310, §3303(a), redesignated subsec. (b) as (a) and struck out heading and text of former subsec. (a). Text read as follows: “A funding agreement for a grant under section 300x–21 of this title is that, in expending the grant, the State involved will expend—
+<b>2000</b>—Subsec. (a). Pub. L. 106–310, §3303(a), redesignated subsec. (b) as (a) and struck out heading and text of former subsec. (a). Text read as follows: "A funding agreement for a grant under section 300x–21 of this title is that, in expending the grant, the State involved will expend—
 
-&emsp;“(1) not less than 35 percent for prevention and treatment activities regarding alcohol; and
+&emsp;"(1) not less than 35 percent for prevention and treatment activities regarding alcohol; and
 
-&emsp;“(2) not less than 35 percent for prevention and treatment activities regarding other drugs.”
+&emsp;"(2) not less than 35 percent for prevention and treatment activities regarding other drugs."
 
 Subsec. (b). Pub. L. 106–310, §3303(a)(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 

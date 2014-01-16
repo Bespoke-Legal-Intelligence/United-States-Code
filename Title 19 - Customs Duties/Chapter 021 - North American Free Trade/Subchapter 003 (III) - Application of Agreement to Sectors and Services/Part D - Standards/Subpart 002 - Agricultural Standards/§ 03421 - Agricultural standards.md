@@ -16,7 +16,7 @@
 
 #### (1) Grant for construction
 
-&emsp;The Secretary of Agriculture shall make a grant to a land grant college or university described in paragraph (2) for the construction of a facility at the college or university for the conduct of research in animal health, disease-transmitting insects, and toxic chemicals that requires the use of biocontainment facilities and equipment. The facility to be constructed with the grant shall be known as the “Southwest Regional Animal Health Biocontainment Facility”.
+&emsp;The Secretary of Agriculture shall make a grant to a land grant college or university described in paragraph (2) for the construction of a facility at the college or university for the conduct of research in animal health, disease-transmitting insects, and toxic chemicals that requires the use of biocontainment facilities and equipment. The facility to be constructed with the grant shall be known as the "Southwest Regional Animal Health Biocontainment Facility".
 
 #### (2) Grant recipient described
 
@@ -50,11 +50,11 @@
 
 #### (A) Imports
 
-&emsp;&emsp;The term “imports” means any meat, poultry, other food, animal, or plant that is imported into the United States in commercially significant quantities.
+&emsp;&emsp;The term "imports" means any meat, poultry, other food, animal, or plant that is imported into the United States in commercially significant quantities.
 
 #### (B) Secretary
 
-&emsp;&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 #### (2) In general
 

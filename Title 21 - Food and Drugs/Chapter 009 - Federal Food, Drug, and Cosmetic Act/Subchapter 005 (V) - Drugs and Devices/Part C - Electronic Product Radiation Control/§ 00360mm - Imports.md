@@ -26,13 +26,13 @@ Section was classified to section 263h of Title 42, The Public Health and Welfar
 
 <b>1993</b>—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263h of Title 42, The Public Health and Welfare, as this section.
 
-<b>1992</b>—Subsecs. (a), (b). Pub. L. 102–300 substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
+<b>1992</b>—Subsecs. (a), (b). Pub. L. 102–300 substituted "Health and Human Services" for "Health, Education, and Welfare" wherever appearing.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–629, §19(a)(1)(B), (2)(D), substituted “this part” for “this subpart”, “section 360kk(h)” for “section 263f(h)”, and “section 360kk” for “section 263f”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–629, §19(a)(1)(B), (2)(D), substituted "this part" for "this subpart", "section 360kk(h)" for "section 263f(h)", and "section 360kk" for "section 263f".
 
-Subsec. (b). Pub. L. 101–629, §19(a)(2)(D), substituted “section 360kk” for “section 263f”.
+Subsec. (b). Pub. L. 101–629, §19(a)(2)(D), substituted "section 360kk" for "section 263f".
 
-Subsec. (d). Pub. L. 101–629, §19(a)(1)(B), substituted “this part” for “this subpart” in two places.
+Subsec. (d). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart" in two places.
 
 #### Noninterference With Other Federal Agencies
 

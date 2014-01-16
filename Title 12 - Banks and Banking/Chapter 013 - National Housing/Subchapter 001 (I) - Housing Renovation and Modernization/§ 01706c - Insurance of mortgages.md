@@ -10,7 +10,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;(1) have been made to, and be held by, a mortgagee approved by the Secretary as responsible and able to service the mortgage properly;
 
-&emsp;(2) involve a principal obligation (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in an amount not to exceed $5,700, and not to exceed 95 per centum of the appraised value, as of the date the mortgage is accepted for insurance, of a property upon which there is located a dwelling designed principally for a single-family residence, and which is approved for mortgage insurance prior to the beginning of construction: <i>Provided</i>, That the mortgagor shall be the owner and occupant of the property at the time of insurance and shall have paid on account of the property at least 5 per centum of the Secretary's estimate of the cost of acquisition in cash or its equivalent, or shall be the builder constructing the dwelling, in which case the principal obligation shall not exceed 85 per centum of the appraised value of the property or $5,100: <i>Provided further</i>, That the Secretary finds that the project with respect to which the mortgage is executed is an acceptable risk, giving consideration to the need for providing adequate housing for families of low and moderate income particularly in suburban and outlying areas: <i>And provided further</i>, That, where the mortgagor is the owner and occupant of the property and establishes (to the satisfaction of the Secretary) that his home, which he occupied as an owner or as a tenant, was destroyed or damaged to such an extent that reconstruction is required as a result of a flood, fire, hurricane, earthquake, storm or other catastrophe, which the President, pursuant to sections 5122(2) and 5170 of title 42, has determined to be a major disaster, such maximum dollar limitation may be increased by the Secretary from $5,700 to $7,000, and the percentage limitation may be increased by the Secretary from 95 per centum to 100 per centum of the appraised value;
+&emsp;(2) involve a principal obligation (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in an amount not to exceed $5,700, and not to exceed 95 per centum of the appraised value, as of the date the mortgage is accepted for insurance, of a property upon which there is located a dwelling designed principally for a single-family residence, and which is approved for mortgage insurance prior to the beginning of construction: <i>Provided</i>, That the mortgagorshall be the owner and occupant of the property at the time of insurance and shall have paid on account of the property at least 5 per centum of the Secretary's estimate of the cost of acquisition in cash or its equivalent, or shall be the builder constructing the dwelling, in which case the principal obligation shall not exceed 85 per centum of the appraised value of the property or $5,100: <i>Provided further</i>, That the Secretary finds that the project with respect to which the mortgage is executed is an acceptable risk, giving consideration to the need for providing adequate housing for families of low and moderate income particularly in suburban and outlying areas: <i>And provided further</i>, That, where the mortgagor is the owner and occupant of the property and establishes (to the satisfaction of the Secretary) that his home, which he occupied as an owner or as a tenant, was destroyed or damaged to such an extent that reconstruction is required as a result of a flood, fire, hurricane, earthquake, storm or other catastrophe, which the President, pursuant to sections 5122(2) and 5170 of title 42, has determined to be a major disaster, such maximum dollar limitation may be increased by the Secretary from $5,700 to $7,000, and the percentage limitation may be increased by the Secretary from 95 per centum to 100 per centum of the appraised value;
 
 &emsp;(3) have a maturity satisfactory to the Secretary but not to exceed thirty years from the date of insurance of the mortgage;
 
@@ -46,7 +46,7 @@ Subsections (c), (d), (e), (f), (g), (h),<sup>1</sup> (j), and (k) <sup>1</sup>
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
 Section 203(b)(2)(D) of this Act, referred to in subsec. (f), which was formerly classified to section 1709(b)(2)(D) of this title, was repealed by act Aug. 2, 1954, ch. 649, title I, §104, 68 Stat. 591.
 
@@ -58,17 +58,17 @@ The General Insurance Fund, referred to in subsec. (g), was established by secti
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–707 substituted “5170 of title 42” for “5141 of title 42”.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–707 substituted "5170 of title 42" for "5141 of title 42".
 
-<b>1974</b>—Subsec. (b)(2). Pub. L. 93–288 substituted “sections 5122(2) and 5141 of title 42” for “section 4402(1) of title 42”.
+<b>1974</b>—Subsec. (b)(2). Pub. L. 93–288 substituted "sections 5122(2) and 5141 of title 42" for "section 4402(1) of title 42".
 
-<b>1970</b>—Subsec. (b)(2). Pub. L. 91–606 substituted reference to section “4402(1)” for “1855a(a)” of title 42.
+<b>1970</b>—Subsec. (b)(2). Pub. L. 91–606 substituted reference to section "4402(1)" for "1855a(a)" of title 42.
 
-<b>1967</b>—Pub. L. 90–19, §1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1) to (4), (6), (7), and (c) to (f).
+<b>1967</b>—Pub. L. 90–19, §1(a)(3), substituted "Secretary" for "Commissioner" wherever appearing in subsecs. (a), (b)(1) to (4), (6), (7), and (c) to (f).
 
-Subsec. (b)(2). Pub. L. 90–19, §1(a)(4), substituted “Secretary's” for “Commissioner's”.
+Subsec. (b)(2). Pub. L. 90–19, §1(a)(4), substituted "Secretary's" for "Commissioner's".
 
-<b>1965</b>—Subsec. (g). Pub. L. 89–117, §1108(b)(1), substituted “General Insurance Fund” for “Title I Housing Insurance Fund”.
+<b>1965</b>—Subsec. (g). Pub. L. 89–117, §1108(b)(1), substituted "General Insurance Fund" for "Title I Housing Insurance Fund".
 
 Subsec. (h). Pub. L. 89–117, §1108(b)(2), repealed subsec. (h) which created the Title I Housing Insurance Fund.
 

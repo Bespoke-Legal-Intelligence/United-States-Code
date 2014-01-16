@@ -22,7 +22,7 @@
 | [1318\.](%C2%A7%2001318%20-%20Geological%20Survey%20classes%20and%20sizes%20of%20publications%3B%20report%20of%20mineral%20resources%3B%20number%20of%20copies%3B%20reprints%3B%20distribution.md) | Geological Survey: classes and sizes of publications; report of mineral resources; number of copies; reprints; distribution. |
 | [1319\.](%C2%A7%2001319%20-%20Geological%20Survey%20specific%20appropriations%20required%20for%20monographs%20and%20bulletins.md) | Geological Survey: specific appropriations required for monographs and bulletins. |
 | [1320\.](%C2%A7%2001320%20-%20Geological%20Survey%20distribution%20of%20publications%20to%20public%20libraries.md) | Geological Survey: distribution of publications to public libraries. |
-| [1320A.](%C2%A7%2001320A%20-%20Historical%20societies%E2%80%99%20publications.md) | Historical societies’ publications. |
+| [1320A.](%C2%A7%2001320A%20-%20Historical%20societies%27%20publications.md) | Historical societies' publications. |
 | [1321\.](%C2%A7%2001321%20-%20Hydrographic%20Surveys%3B%20foreign%20surveys.md) | Hydrographic Surveys; foreign surveys. |
 | [1322\.](%C2%A7%2001322%20-%20Immigration%20and%20Naturalization%20Service%20report.md) | Immigration and Naturalization Service: report. |
 | [1323\.](%C2%A7%2001323%20-%20Interstate%20Commerce%20Commission%20report.md) | Interstate Commerce Commission: report. |
@@ -34,7 +34,7 @@
 | [1329\.](%C2%A7%2001329%20-%20Mint%20reports%20of%20Director.md) | Mint: reports of Director. |
 | [1330\.](%C2%A7%2001330%20-%20Monthly%20Summary%20Statement%20of%20Imports%20and%20Exports.md) | Monthly Summary Statement of Imports and Exports. |
 | [1331\.](%C2%A7%2001331%20-%20National%20Academy%20of%20Sciences%20report.md) | National Academy of Sciences: report. |
-| [1332\.](%C2%A7%2001332%20-%20National%20encampments%20of%20Veterans%E2%80%99%20organizations%3B%20proceedings%20printed%20annually%20for%20Congress.md) | National encampments of Veterans’ organizations; proceedings printed annually for Congress. |
+| [1332\.](%C2%A7%2001332%20-%20National%20encampments%20of%20Veterans%27%20organizations%3B%20proceedings%20printed%20annually%20for%20Congress.md) | National encampments of Veterans' organizations; proceedings printed annually for Congress. |
 | [1333\.](%C2%A7%2001333%20-%20National%20high%20school%20and%20college%20debate%20topics.md) | National high school and college debate topics. |
 | [1334\.](%C2%A7%2001334%20-%20Naval%20Intelligence%20Office%20additional%20copies%20of%20publications.md) | Naval Intelligence Office: additional copies of publications. |
 | [1335\.](%C2%A7%2001335%20-%20Naval%20Observatory%20Observations.md) | Naval Observatory Observations. |
@@ -61,17 +61,17 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–417, \[div. A\], title IX, §931(a)(2), Oct. 14, 2008, 122 Stat. 4575, substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in item 1336.
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title IX, §931(a)(2), Oct. 14, 2008, 122 Stat. 4575, substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in item 1336.
 
-<b>2000</b>—Pub. L. 106–181, title VI, §606(d), Apr. 5, 2000, 114 Stat. 154, struck out “and aeronautical” after “nautical” in item 1307.
+<b>2000</b>—Pub. L. 106–181, title VI, §606(d), Apr. 5, 2000, 114 Stat. 154, struck out "and aeronautical" after "nautical" in item 1307.
 
-<b>1999</b>—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(25)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–585, struck out items 1337 “Patent Office: publications authorized to be printed” and 1338 “Patent Office: limitations and conditions concerning printing and lithographing”.
+<b>1999</b>—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(25)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–585, struck out items 1337 "Patent Office: publications authorized to be printed" and 1338 "Patent Office: limitations and conditions concerning printing and lithographing".
 
-<b>1996</b>—Pub. L. 104–316, title I, §123(b)(2), Oct. 19, 1996, 110 Stat. 3839, struck out item 1311 “Comptroller General: decisions”.
+<b>1996</b>—Pub. L. 104–316, title I, §123(b)(2), Oct. 19, 1996, 110 Stat. 3839, struck out item 1311 "Comptroller General: decisions".
 
-Pub. L. 104–201, div. A, title XI, §1123(b)(2), Sept. 23, 1996, 110 Stat. 2688, substituted “National Imagery and Mapping Agency” for “Naval Oceanographic Office” in item 1336.
+Pub. L. 104–201, div. A, title XI, §1123(b)(2), Sept. 23, 1996, 110 Stat. 2688, substituted "National Imagery and Mapping Agency" for "Naval Oceanographic Office" in item 1336.
 
-<b>1986</b>—Pub. L. 99–272, title VI, §6011(b), Apr. 7, 1986, 100 Stat. 122, substituted “National Oceanic and Atmospheric Administration: nautical and aeronautical products, sale and distribution” for “Environmental Science Service Administration: charts; sale and distribution” in item 1307.
+<b>1986</b>—Pub. L. 99–272, title VI, §6011(b), Apr. 7, 1986, 100 Stat. 122, substituted "National Oceanic and Atmospheric Administration: nautical and aeronautical products, sale and distribution" for "Environmental Science Service Administration: charts; sale and distribution" in item 1307.
 
 <b>1980</b>—Pub. L. 96–536, §101(c), Dec. 16, 1980, 94 Stat. 3167, added item 1320A.
 
@@ -108,7 +108,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 - [&sect; 01318 - Geological Survey classes and sizes of publications; report of mineral resources; number of copies; reprints; distribution](%C2%A7%2001318%20-%20Geological%20Survey%20classes%20and%20sizes%20of%20publications%3B%20report%20of%20mineral%20resources%3B%20number%20of%20copies%3B%20reprints%3B%20distribution.md)
 - [&sect; 01319 - Geological Survey specific appropriations required for monographs and bulletins](%C2%A7%2001319%20-%20Geological%20Survey%20specific%20appropriations%20required%20for%20monographs%20and%20bulletins.md)
 - [&sect; 01320 - Geological Survey distribution of publications to public libraries](%C2%A7%2001320%20-%20Geological%20Survey%20distribution%20of%20publications%20to%20public%20libraries.md)
-- [&sect; 01320A - Historical societies&#8217; publications](%C2%A7%2001320A%20-%20Historical%20societies%E2%80%99%20publications.md)
+- [&sect; 01320A - Historical societies' publications](%C2%A7%2001320A%20-%20Historical%20societies%27%20publications.md)
 - [&sect; 01321 - Hydrographic Surveys; foreign surveys](%C2%A7%2001321%20-%20Hydrographic%20Surveys%3B%20foreign%20surveys.md)
 - [&sect; 01322 - Immigration and Naturalization Service report](%C2%A7%2001322%20-%20Immigration%20and%20Naturalization%20Service%20report.md)
 - [&sect; 01323 - Interstate Commerce Commission report](%C2%A7%2001323%20-%20Interstate%20Commerce%20Commission%20report.md)
@@ -120,7 +120,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 - [&sect; 01329 - Mint reports of Director](%C2%A7%2001329%20-%20Mint%20reports%20of%20Director.md)
 - [&sect; 01330 - Monthly Summary Statement of Imports and Exports](%C2%A7%2001330%20-%20Monthly%20Summary%20Statement%20of%20Imports%20and%20Exports.md)
 - [&sect; 01331 - National Academy of Sciences report](%C2%A7%2001331%20-%20National%20Academy%20of%20Sciences%20report.md)
-- [&sect; 01332 - National encampments of Veterans&#8217; organizations; proceedings printed annually for Congress](%C2%A7%2001332%20-%20National%20encampments%20of%20Veterans%E2%80%99%20organizations%3B%20proceedings%20printed%20annually%20for%20Congress.md)
+- [&sect; 01332 - National encampments of Veterans' organizations; proceedings printed annually for Congress](%C2%A7%2001332%20-%20National%20encampments%20of%20Veterans%27%20organizations%3B%20proceedings%20printed%20annually%20for%20Congress.md)
 - [&sect; 01333 - National high school and college debate topics](%C2%A7%2001333%20-%20National%20high%20school%20and%20college%20debate%20topics.md)
 - [&sect; 01334 - Naval Intelligence Office additional copies of publications](%C2%A7%2001334%20-%20Naval%20Intelligence%20Office%20additional%20copies%20of%20publications.md)
 - [&sect; 01335 - Naval Observatory Observations](%C2%A7%2001335%20-%20Naval%20Observatory%20Observations.md)

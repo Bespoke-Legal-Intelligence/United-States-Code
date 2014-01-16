@@ -18,7 +18,7 @@ Regulations.—Not later than April 1, 2010, the Secretary of Transportation, in
 
 (d)
 
-Compliance and Enforcement.—The Secretary shall determine whether a railroad carrier has fully retrofitted or replaced a camp car pursuant to subsection (b) and shall prohibit the use of any non-compliant camp car. The Secretary may assess civil penalties pursuant to chapter 213 for violations of this section.
+Compliance and Enforcement.—The Secretary shall determine whether a railroad carrier has fully retrofitted or replaced a camp carpursuant to subsection (b) and shall prohibit the use of any non-compliant camp car. The Secretary may assess civil penalties pursuant to chapter 213 for violations of this section.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 891; Pub. L. 110–432, div. A, title IV, §420, Oct. 16, 2008, 122 Stat. 4893.)
 
@@ -50,9 +50,9 @@ Mar. 4, 1907, ch. 2939, 34 Stat. 1415, §2(e); added June 22, 1988, Pub. L. 100�
 
 Mar. 4, 1907, ch. 2939, 34 Stat. 1415, §3A(d) (related to §2(a)(3)); added July 8, 1976, Pub. L. 94–348, §4(d), 90 Stat. 819; June 22, 1988, Pub. L. 100–342, §16(4), 102 Stat. 635.
 
-In this section, before clause (1), the words “and any individuals employed to maintain the right of way of a railroad carrier” are substituted for 45:62(e) because of the restatement.
+In this section, before clause (1), the words "and any individuals employed to maintain the right of way of a railroad carrier" are substituted for 45:62(e) because of the restatement.
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–432 designated existing provisions as subsec. (a), inserted heading, in par. (1), substituted “sanitary, give those employees and individuals an opportunity for rest free from the interruptions caused by noise under the control of the carrier, and provide indoor toilet facilities, potable water, and other features to protect the health of employees;” for “sanitary and give those employees and individuals an opportunity for rest free from the interruptions caused by noise under the control of the carrier;”, and added subsecs. (b) to (d).
+<b>2008</b>—Pub. L. 110–432 designated existing provisions as subsec. (a), inserted heading, in par. (1), substituted "sanitary, give those employees and individuals an opportunity for rest free from the interruptions caused by noise under the control of the carrier, and provide indoor toilet facilities, potable water, and other features to protect the health of employees;" for "sanitary and give those employees and individuals an opportunity for rest free from the interruptions caused by noise under the control of the carrier;", and added subsecs. (b) to (d).
 

@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [4151\.](%C2%A7%2004151%20-%20%E2%80%9CBuilding%E2%80%9D%20defined.md) | “Building” defined. |
+| [4151\.](%C2%A7%2004151%20-%20Building%20defined.md) | "Building" defined. |
 | [4152\.](%C2%A7%2004152%20-%20Standards%20for%20design%2C%20construction%2C%20and%20alteration%20of%20buildings%3B%20Administrator%20of%20General%20Services.md) | Standards for design, construction, and alteration of buildings; Administrator of General Services. |
 | [4153\.](%C2%A7%2004153%20-%20Standards%20for%20design%2C%20construction%2C%20and%20alteration%20of%20buildings%3B%20Secretary%20of%20Housing%20and%20Urban%20Development.md) | Standards for design, construction, and alteration of buildings; Secretary of Housing and Urban Development. |
 | [4154\.](%C2%A7%2004154%20-%20Standards%20for%20design%2C%20construction%2C%20and%20alteration%20of%20buildings%3B%20Secretary%20of%20Defense.md) | Standards for design, construction, and alteration of buildings; Secretary of Defense. |
@@ -18,7 +18,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 04151 - &#8220;Building&#8221; defined](%C2%A7%2004151%20-%20%E2%80%9CBuilding%E2%80%9D%20defined.md)
+- [&sect; 04151 - Building defined](%C2%A7%2004151%20-%20Building%20defined.md)
 - [&sect; 04152 - Standards for design, construction, and alteration of buildings; Administrator of General Services](%C2%A7%2004152%20-%20Standards%20for%20design%2C%20construction%2C%20and%20alteration%20of%20buildings%3B%20Administrator%20of%20General%20Services.md)
 - [&sect; 04153 - Standards for design, construction, and alteration of buildings; Secretary of Housing and Urban Development](%C2%A7%2004153%20-%20Standards%20for%20design%2C%20construction%2C%20and%20alteration%20of%20buildings%3B%20Secretary%20of%20Housing%20and%20Urban%20Development.md)
 - [&sect; 04154 - Standards for design, construction, and alteration of buildings; Secretary of Defense](%C2%A7%2004154%20-%20Standards%20for%20design%2C%20construction%2C%20and%20alteration%20of%20buildings%3B%20Secretary%20of%20Defense.md)

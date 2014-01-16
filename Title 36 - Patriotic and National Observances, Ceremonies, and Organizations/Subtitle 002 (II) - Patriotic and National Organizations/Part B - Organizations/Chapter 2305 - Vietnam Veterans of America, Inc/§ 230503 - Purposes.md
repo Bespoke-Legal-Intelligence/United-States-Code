@@ -42,5 +42,5 @@ Historical and Revision Notes
 
 May 23, 1986, Pub. L. 99–318, §3, 100 Stat. 474.
 
-Before clause (1), the word “objects” is omitted as included in “purposes”.
+Before clause (1), the word "objects" is omitted as included in "purposes".
 

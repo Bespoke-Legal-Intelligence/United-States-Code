@@ -4,7 +4,7 @@
 
 (b) As used in this section—
 
-&emsp;(1) “illegal gambling business” means a gambling business which—
+&emsp;(1) "illegal gambling business" means a gambling business which—
 
 &emsp;&emsp;(i) is a violation of the law of a State or political subdivision in which it is conducted;
 
@@ -12,9 +12,9 @@
 
 &emsp;&emsp;(iii) has been or remains in substantially continuous operation for a period in excess of thirty days or has a gross revenue of $2,000 in any single day.
 
-&emsp;(2) “gambling” includes but is not limited to pool-selling, bookmaking, maintaining slot machines, roulette wheels or dice tables, and conducting lotteries, policy, bolita or numbers games, or selling chances therein.
+&emsp;(2) "gambling" includes but is not limited to pool-selling, bookmaking, maintaining slot machines, roulette wheels or dice tables, and conducting lotteries, policy, bolita or numbers games, or selling chances therein.
 
-&emsp;(3) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+&emsp;(3) "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
 (c) If five or more persons conduct, finance, manage, supervise, direct, or own all or part of a gambling business and such business operates for two or more successive days, then, for the purpose of obtaining warrants for arrests, interceptions, and other searches and seizures, probable cause that the business receives gross revenue in excess of $2,000 in any single day shall be deemed to have been established.
 
@@ -30,9 +30,9 @@ Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $20,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $20,000".
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
 #### Transfer of Functions
 

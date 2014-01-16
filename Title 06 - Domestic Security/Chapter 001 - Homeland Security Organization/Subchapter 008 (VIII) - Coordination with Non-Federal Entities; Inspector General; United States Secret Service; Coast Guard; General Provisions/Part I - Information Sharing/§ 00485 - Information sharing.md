@@ -90,7 +90,7 @@ In this section:
 
 Not later than 180 days after December 17, 2004, the program manager shall, in consultation with the Information Sharing Council—
 
-&emsp;(1) submit to the President and Congress a description of the technological, legal, andpolicy issues presented by the creation of the ISE, and the way in which these issues will be addressed;
+&emsp;(1) submit to the President and Congress a description of the technological, legal, and policy issues presented by the creation of the ISE, and the way in which these issues will be addressed;
 
 &emsp;(2) establish an initial capability to provide electronic directory services, or the functional equivalent, to assist in locating in the Federal Government intelligence and terrorism information and people with relevant knowledge about intelligence and terrorism information; and
 
@@ -316,13 +316,13 @@ There is authorized to be appropriated to carry out this section $30,000,000 for
 
 Executive Order 13356, referred to in subsec. (a)(2), which was formerly set out as a note below, was revoked by Ex. Ord. No. 13388, set out as a note below, which established an Information Sharing Council consistent with subsec. (g) of this section.
 
-This title, referred to in subsec. (e)(10)(A), is title I of Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3643, known as the National Security Intelligence Reform Act of 2004. For complete classification of title I to the Code, see Short Title of 2004 Amendment note set out under section 401 of Title 50, War and National Defense, and Tables.
+This title, referred to in subsec. (e)(10)(A), is title I of Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3643, known as the National Security Intelligence Reform Act of 2004. For complete classification of title I to the Code, see Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (g)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
-Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Actof 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 #### Amendments
 
@@ -370,9 +370,9 @@ Subsecs. (j) to (l). Pub. L. 110–53, §504(6), added subsecs. (j) to (l) and s
 
 #### Effective Date
 
-For Determination by President that section takes effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of Title 50, War and National Defense.
+For Determination by President that section takes effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
 
-Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
+Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of Title 50, War and National Defense.
 
 #### Procedures To Clear Individuals From Terrorist Database Lists
 
@@ -396,7 +396,7 @@ Section 1. <i>Policy</i>. To the maximum extent consistent with applicable law, 
 
 Sec. 2. <i>Duties of Heads of Agencies Possessing or Acquiring Terrorism Information</i>. To implement the policy set forth in section 1 of this order, the head of each agency that possesses or acquires terrorism information:
 
-(a) shall promptly give access to the terrorism information to the head of each other agency that has counterterrorism functions, and provide the terrorism information to each such agency, unless otherwise directed by the President, and consistent with (i) the statutory responsibilities of the agencies providing and receiving the information; (ii) any guidance issued by the Attorney General to fulfill the policy set forth in subsection 1(b) of this order; and (iii) other applicable law, including sections 102A(g) and (i) of the National Security Act of 1947 \[50 U.S.C. 403–1(g), (i)\], section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 \[6 U.S.C. 485\] (including any policies, procedures, guidelines, rules, and standards issued pursuant thereto), sections 202 and 892 of the Homeland Security Act of 2002 \[6 U.S.C. 122, 482\], Executive Order 12958 of April 17, 1995, as amended \[50 U.S.C. 435 note\], and Executive Order 13311 of July 29, 2003 \[6 U.S.C. 482 note\]; and
+(a) shall promptly give access to the terrorism information to the head of each other agency that hascounterterrorism functions, and provide the terrorism information to each such agency, unless otherwise directed by the President, and consistent with (i) the statutory responsibilities of the agencies providing and receiving the information; (ii) any guidance issued by the Attorney General to fulfill the policy set forth in subsection 1(b) of this order; and (iii) other applicable law, including sections 102A(g) and (i) of the National Security Act of 1947 \[50 U.S.C. 3024(g), (i)\], section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 \[6 U.S.C. 485\] (including any policies, procedures, guidelines, rules, and standards issued pursuant thereto), sections 202 and 892 of the Homeland Security Act of 2002 \[6 U.S.C. 122, 482\], \[former\] Executive Order 12958 of April 17, 1995, as amended, and Executive Order 13311 of July 29, 2003 \[6 U.S.C. 482 note\]; and
 
 (b) shall cooperate in and facilitate production of reports based on terrorism information with contents and formats that permit dissemination that maximizes the utility of the information in protecting the territory, people, and interests of the United States.
 
@@ -420,13 +420,13 @@ Sec. 7. <i>General Provisions</i>. (a) This order:
 
 (i) shall be implemented in a manner consistent with applicable law, including Federal law protecting the information privacy and other legal rights of Americans, and subject to the availability of appropriations;
 
-(ii) shall be implemented in a manner consistent with the authority of the principal officers of agencies as heads of their respective agencies, including under section 199 of the Revised Statutes (22 U.S.C. 2651), section 201 of the Department of Energy Organization Act (42 U.S.C. 7131), section 103 of the National Security Act of 1947 (50 U.S.C. 403–3), section 102(a) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)), and sections 301 oftitle 5, 113(b) and 162(b) of title 10, 1501 of title 15, 503 of title 28, and 301(b) of title 31, United States Code;
+(ii) shall be implemented in a manner consistent with the authority of the principal officers of agencies as heads of their respective agencies, including under section 199 of the Revised Statutes (22 U.S.C. 2651), section 201 of the Department of Energy Organization Act (42 U.S.C. 7131), section 103 of the National Security Act of 1947 (50 U.S.C. 403–3) \[now 50 U.S.C. 3025\], section 102(a) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)), and sections 301 of title 5, 113(b) and 162(b) of title 10, 1501 of title 15, 503 of title 28, and 301(b) of title 31, United States Code;
 
 (iii) shall be implemented consistent with the Presidential Memorandum of June 2, 2005, on “Strengthening Information Sharing, Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment;” \[not set out in the Code\]
 
 (iv) shall not be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, and legislative proposals; and
 
-(v) shall be implemented in a manner consistent with section 102A of the National Security Act of 1947 \[50 U.S.C. 403–1\].
+(v) shall be implemented in a manner consistent with section 102A of the National Security Act of 1947 \[50 U.S.C. 3024\].
 
 (b) This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any rights or benefits, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
 

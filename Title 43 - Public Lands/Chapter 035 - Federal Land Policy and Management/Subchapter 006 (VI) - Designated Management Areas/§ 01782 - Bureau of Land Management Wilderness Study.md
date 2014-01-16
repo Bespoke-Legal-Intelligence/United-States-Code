@@ -16,15 +16,15 @@ During the period of review of such areas and until Congress has determined othe
 
 #### References in Text
 
-The Wilderness Act of September 3, 1964, referred to in subsecs. (a) and (c), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of Title 16 and Tables.
+The Wilderness Act of September 3, 1964, referred to in subsecs. (a) and (c), is Pub. L. 88–577, Sept. 3, 1964, 78Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of Title 16 and Tables.
 
 This Act, referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 
-“United States Geological Survey” substituted for “Geological Survey” in subsec. (a) pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+"United States Geological Survey" substituted for "Geological Survey" in subsec. (a) pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (a) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30.
+"United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (a) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30.
 
-Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–165; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That the authority granted to the United States Bureau of Mines to conduct mineral surveys and to determine mineral values by section 603 of Public Law 94–579 \[43 U.S.C. 1782\] is hereby transferred to, and vested in, the Director of the United States Geological Survey.”
+Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–165; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That the authority granted to the United States Bureau of Mines to conduct mineral surveys and to determine mineral values by section 603 of Public Law 94–579 \[43 U.S.C. 1782\] is hereby transferred to, and vested in, the Director of the United States Geological Survey."
 

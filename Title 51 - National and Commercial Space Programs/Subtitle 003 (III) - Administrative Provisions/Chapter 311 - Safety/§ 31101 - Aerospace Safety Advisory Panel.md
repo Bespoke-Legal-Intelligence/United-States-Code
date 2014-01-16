@@ -82,7 +82,7 @@ Pub. L. 90–67, §6, Aug. 21, 1967, 81 Stat. 170; Pub. L. 94–307, §8, June 4
 
 42 U.S.C. 2477(b).
 
-In subsection (d)(1)(B), the words “maximum rate payable under section 5376 of title 5” are substituted for “rate for GS–18” because of section 101(c) of the Federal Employees Pay Comparability Act of 1990 (Public Law 101–509, 5 U.S.C. 5376 note).
+In subsection (d)(1)(B), the words "maximum rate payable under section 5376 of title 5" are substituted for "rate for GS–18" because of section 101(c) of the Federal Employees Pay Comparability Act of 1990 (Public Law 101–509, 5 U.S.C. 5376 note).
 
-In subsection (e), the date “December 30, 2005” is substituted for “the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).
+In subsection (e), the date "December 30, 2005" is substituted for "the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).
 

@@ -12,15 +12,15 @@ Notwithstanding section 263, all expenditures (other than expenditures for the p
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted “section 59(e)” for “section 59(d)”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted "section 59(e)" for "section 59(d)".
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “section 59(d)” for “section 58(i)”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted "section 59(d)" for "section 58(i)".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “3-year” for “10-year”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted "3-year" for "10-year".
 
 <b>1982</b>—Pub. L. 97–248, §201(d)(9)(A), designated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” in two places.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" in two places.
 
 #### Effective Date of 1988 Amendment
 

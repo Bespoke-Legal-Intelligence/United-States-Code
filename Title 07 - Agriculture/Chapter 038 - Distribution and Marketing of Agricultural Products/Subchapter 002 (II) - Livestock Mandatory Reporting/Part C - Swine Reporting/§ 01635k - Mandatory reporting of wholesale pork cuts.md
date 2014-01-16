@@ -14,35 +14,35 @@ The Secretary shall publish information reported under subsection (a) as the Sec
 
 Pub. L. 111–239, §2(b)(2)–(4), Sept. 27, 2010, 124 Stat. 2501, provided that:
 
-“(2)
+"(2)
 
 Negotiated rulemaking.—The Secretary of Agriculture shall establish a negotiated rulemaking process pursuant to subchapter III of chapter 5 of title 5, United States Code, to negotiate and develop a proposed rule to implement the amendment made by paragraph (1) \[enacting this section\].
 
-“(3)
+"(3)
 
 Negotiated rulemaking committee.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Representation.—Any negotiated rulemaking committee established by the Secretary of Agriculture pursuant to paragraph (2) shall include representatives from—
 
-&emsp;&emsp;“(i) organizations representing swine producers;
+&emsp;&emsp;"(i) organizations representing swine producers;
 
-&emsp;&emsp;“(ii) organizations representing packers of pork, processors of pork, retailers of pork, and buyers of wholesale pork;
+&emsp;&emsp;"(ii) organizations representing packers of pork, processors of pork, retailers of pork, and buyers of wholesale pork;
 
-&emsp;&emsp;“(iii) the Department of Agriculture; and
+&emsp;&emsp;"(iii) the Department of Agriculture; and
 
-&emsp;&emsp;“(iv) among interested parties that participate in swine or pork production.
+&emsp;&emsp;"(iv) among interested parties that participate in swine or pork production.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Inapplicability of federal advisory committee act.—Any negotiated rulemaking committee established by the Secretary of Agriculture pursuant to paragraph (2) shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
-“(4)
+"(4)
 
 Timing of proposed and final rules.—In carrying out the negotiated rulemaking process under paragraph (2), the Secretary of Agriculture shall ensure that—
 
-&emsp;“(A) any recommendation for a proposed rule or report is provided to the Secretary of Agriculture not later than 180 days after the date of the enactment of this Act \[Sept. 27, 2010\]; and
+&emsp;"(A) any recommendation for a proposed rule or report is provided to the Secretary of Agriculture not later than 180 days after the date of the enactment of this Act \[Sept. 27, 2010\]; and
 
-&emsp;“(B) a final rule is promulgated not later than one and a half years after the date of the enactment of this Act.”
+&emsp;"(B) a final rule is promulgated not later than one and a half years after the date of the enactment of this Act."
 

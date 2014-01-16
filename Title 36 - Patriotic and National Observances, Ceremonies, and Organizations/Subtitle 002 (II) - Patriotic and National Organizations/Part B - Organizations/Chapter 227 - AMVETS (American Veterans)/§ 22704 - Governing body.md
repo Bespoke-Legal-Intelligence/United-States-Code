@@ -60,9 +60,9 @@ July 23, 1947, ch. 298, §6 (words after 3d comma related to discrimination in h
 
 In subsection (b), the text of 36:67d(3) is omitted as obsolete.
 
-In subsection (c), the words “each official delegate casting one vote” are omitted as unnecessary because of subsection (a) of this section.
+In subsection (c), the words "each official delegate casting one vote" are omitted as unnecessary because of subsection (a) of this section.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c)(1). Pub. L. 107–241 substituted “two national vice commanders, a finance officer, a judge advocate, a chaplain, six national district commanders,” for “seven national vice commanders, one of whom shall be a woman, a finance officer, an adjutant, a judge advocate,”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–241 substituted "two national vice commanders, a finance officer, a judge advocate, a chaplain, six national district commanders," for "seven national vice commanders, one of whom shall be a woman, a finance officer, an adjutant, a judge advocate,".
 

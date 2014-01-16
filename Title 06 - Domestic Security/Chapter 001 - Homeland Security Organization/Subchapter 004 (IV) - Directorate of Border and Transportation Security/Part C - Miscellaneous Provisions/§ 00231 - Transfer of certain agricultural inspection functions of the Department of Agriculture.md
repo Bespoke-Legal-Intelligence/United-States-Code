@@ -80,7 +80,7 @@ Not later than the completion of the transition period defined under section 541
 
 #### References in Text
 
-The Virus-Serum-Toxin Act, referred to in subsec. (b)(1), is the eighth paragraph under the heading “Bureau of Animal Industry” in act Mar. 4, 1913, ch. 145, 37 Stat. 832, 833, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
+The Virus-Serum-Toxin Act, referred to in subsec. (b)(1), is the eighth paragraph under the heading “Bureau of Animal Industry” in act Mar. 4, 1913, ch. 145, 37 Stat. 832, 833, as amended, which is classified generallyto chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
 The Federal Seed Act, referred to in subsec. (b)(3), is act Aug. 9, 1939, ch. 615, 53 Stat. 1275, as amended. Title III of the Act is classified generally to subchapter III (§1581 et seq.) of chapter 37 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1551 of Title 7 and Tables.
 

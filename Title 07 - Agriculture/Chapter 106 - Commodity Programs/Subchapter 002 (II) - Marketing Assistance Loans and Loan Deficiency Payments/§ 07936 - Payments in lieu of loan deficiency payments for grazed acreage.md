@@ -44,7 +44,7 @@
 
 #### (2) Availability
 
-&emsp;The Secretary shall establish an availability period for the payments authorized by thissection. In the case of wheat, barley, and oats, the availability period shall be consistent with the availability period for the commodity established by the Secretary for marketing assistance loans authorized by this subchapter.
+&emsp;The Secretary shall establish an availability period for the payments authorized by this section. In the case of wheat, barley, and oats, the availability period shall be consistent with the availability period for the commodity established by the Secretary for marketing assistance loans authorized by this subchapter.
 
 #### (d) Prohibition on crop insurance indemnity or noninsured crop assistance
 
@@ -54,7 +54,7 @@ A 2002 through 2007 crop of wheat, barley, oats, or triticale planted on acreage
 
 #### References in Text
 
-This subchapter, referred to in subsec. (c)(2), was in the original “this subtitle”, meaning subtitle B (§§1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 155, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
+This subchapter, referred to in subsec. (c)(2), was in the original "this subtitle", meaning subtitle B (§§1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 155, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (d), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 

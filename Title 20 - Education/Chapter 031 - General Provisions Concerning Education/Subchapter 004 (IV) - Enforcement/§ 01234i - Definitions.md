@@ -2,9 +2,9 @@
 
 For purposes of this subchapter:
 
-&emsp;(1) The term “recipient” means a recipient of a grant or cooperative agreement under an applicable program.
+&emsp;(1) The term "recipient" means a recipient of a grant or cooperative agreement under an applicable program.
 
-&emsp;(2) The term “applicable program” excludes programs authorized by the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] and assistance programs provided under the Act of September 30, 1950 <sup>1</sup> (Public Law 874, 81st Congress), and the Act of September 23, 1950 <sup>1</sup> (Public Law 815, 81st Congress).
+&emsp;(2) The term "applicable program" excludes programs authorized by the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] and assistance programs provided under the Act of September 30, 1950 <sup>1</sup> (Public Law 874, 81st Congress), and the Act of September 23, 1950 <sup>1</sup> (Public Law 815, 81st Congress).
 
 (Pub. L. 90–247, title IV, §460, as added Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 357.)
 

@@ -7,7 +7,7 @@
 | [6003\.](%C2%A7%2006003%20-%20Report%20to%20Congress.md) | Report to Congress. |
 | [6004\.](%C2%A7%2006004%20-%20Standards.md) | Standards. |
 | [6005\.](%C2%A7%2006005%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [6006\.](%C2%A7%2006006%20-%20%E2%80%9CApproved%20bicycle%20helmet%E2%80%9D%20defined.md) | “Approved bicycle helmet” defined. |
+| [6006\.](%C2%A7%2006006%20-%20Approved%20bicycle%20helmet%20defined.md) | "Approved bicycle helmet" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -21,4 +21,4 @@
 - [&sect; 06003 - Report to Congress](%C2%A7%2006003%20-%20Report%20to%20Congress.md)
 - [&sect; 06004 - Standards](%C2%A7%2006004%20-%20Standards.md)
 - [&sect; 06005 - Authorization of appropriations](%C2%A7%2006005%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 06006 - &#8220;Approved bicycle helmet&#8221; defined](%C2%A7%2006006%20-%20%E2%80%9CApproved%20bicycle%20helmet%E2%80%9D%20defined.md)
+- [&sect; 06006 - Approved bicycle helmet defined](%C2%A7%2006006%20-%20Approved%20bicycle%20helmet%20defined.md)

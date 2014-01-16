@@ -16,13 +16,13 @@ Historical and Revision Notes
 
 10:1319.
 
-May 12, 1917, ch. 12 (proviso under “Washington-Alaska Military Cable and Telegraph System”), 40 Stat. 43.
+May 12, 1917, ch. 12 (proviso under "Washington-Alaska Military Cable and Telegraph System"), 40 Stat. 43.
 
-The words “members of the Air Force” are substituted for the words “Signal Corps”, since the Air Force does not have organic corps created by statute. The words “Government”, “and to this end”, “as may be”, and “amount of such” are omitted as surplusage.
+The words "members of the Air Force" are substituted for the words "Signal Corps", since the Air Force does not have organic corps created by statute. The words "Government", "and to this end", "as may be", and "amount of such" are omitted as surplusage.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–316 substituted “of the forwarding” for “, or may file a claim with the General Accounting Office for the forwarding” in second sentence.
+<b>1996</b>—Pub. L. 104–316 substituted "of the forwarding" for ", or may file a claim with the General Accounting Office for the forwarding" in second sentence.
 
-<b>1982</b>—Pub. L. 97–258 substituted “official” for “officer”.
+<b>1982</b>—Pub. L. 97–258 substituted "official" for "officer".
 

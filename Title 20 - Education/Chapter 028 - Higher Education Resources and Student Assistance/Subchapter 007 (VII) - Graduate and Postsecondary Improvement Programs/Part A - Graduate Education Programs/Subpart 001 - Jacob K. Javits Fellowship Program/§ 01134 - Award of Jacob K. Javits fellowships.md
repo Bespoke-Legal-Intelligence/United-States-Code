@@ -6,7 +6,7 @@ The Secretary is authorized to award fellowships in accordance with the provisio
 
 #### (b) Designation of fellows
 
-Students receiving awards under this subpart shall be known as “Jacob K. Javits Fellows”.
+Students receiving awards under this subpart shall be known as "Jacob K. Javits Fellows".
 
 #### (c) Interruptions of study
 
@@ -26,7 +26,7 @@ The Secretary is authorized to enter into a contract with a nongovernmental agen
 
 Provisions similar to this section were contained in section 1134h of this title, prior to repeal by Pub. L. 105–244.
 
-A prior section 1134, Pub. L. 89–329, title IX, §901, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1549; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 760; Pub. L. 103–208, §2(j)(27), Dec. 20, 1993, 107 Stat. 2482, stated purpose of former subchapter IX of this chapter and contained administrative provisions, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
+A prior section 1134, Pub. L. 89–329, title IX, §901, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1549; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 760; Pub. L. 103–208, §2(j)(27), Dec. 20, 1993, 107 Stat. 2482, stated purpose of former subchapterIX of this chapter and contained administrative provisions, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
 Another prior section 1134, Pub. L. 89–329, title IX, §901, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 304; amended Pub. L. 94–482, title I, §171(a)(1), (2), Oct. 12, 1976, 90 Stat. 2159; Pub. L. 96–49, §9(a), Aug. 13, 1979, 93 Stat. 353; Pub. L. 96–374, title IX, §901(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1482, 1503, set forth Congressional declaration of purpose and authorized appropriations for grants to institutions of higher education, prior to the general amendment of subchapter IX of this chapter by Pub. L. 99–498.
 
@@ -40,5 +40,5 @@ Another prior section 701 of Pub. L. 89–329 was classified to section 1132a of
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–315 inserted at end “In the case of other exceptional circumstances, such as active duty military service or personal or family member illness, the institution of higher education may also permit the fellowship recipient to interrupt periods of study for the duration of the tour of duty (in the case of military service) or for not more than 12 months (in any other case), but without payment of the stipend.”
+<b>2008</b>—Subsec. (c). Pub. L. 110–315 inserted at end "In the case of other exceptional circumstances, such as active duty military service or personal or family member illness, the institution of higher education may also permit the fellowship recipient to interrupt periods of study for the duration of the tour of duty (in the case of military service) or for not more than 12 months (in any other case), but without payment of the stipend."
 

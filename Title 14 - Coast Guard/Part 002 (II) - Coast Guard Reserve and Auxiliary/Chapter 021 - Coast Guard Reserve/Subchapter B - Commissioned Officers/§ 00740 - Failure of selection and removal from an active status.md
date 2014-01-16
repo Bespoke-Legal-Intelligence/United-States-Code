@@ -24,13 +24,13 @@ Provisions similar to those in this section were contained in section 787 of thi
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d). Pub. L. 112–213 substituted “that appointment to the Reserve” for “that appointment”.
+<b>2012</b>—Subsec. (d). Pub. L. 112–213 substituted "that appointment to the Reserve" for "that appointment".
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted “section 12646 of title 10” for “section 1006 of title 10”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted "section 12646 of title 10" for "section 1006 of title 10".
 
-<b>1985</b>—Subsec. (a)(2). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (a)(2). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore".
 
-<b>1983</b>—Subsec. (a)(2). Pub. L. 97–417 substituted “commodore” for “rear admiral”.
+<b>1983</b>—Subsec. (a)(2). Pub. L. 97–417 substituted "commodore" for "rear admiral".
 
 #### Effective Date of 1994 Amendment
 

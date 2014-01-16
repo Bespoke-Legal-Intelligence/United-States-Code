@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 100–690, title V, §5156, Nov. 18, 1988, 102 Stat. 4308.
 
-The words “Not later than 90 days after November 18, 1988, the” are omitted as obsolete.
+The words "Not later than 90 days after November 18, 1988, the" are omitted as obsolete.
 

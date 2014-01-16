@@ -38,5 +38,5 @@ The purposes of the Conference shall be—
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (c)(1)(A). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 

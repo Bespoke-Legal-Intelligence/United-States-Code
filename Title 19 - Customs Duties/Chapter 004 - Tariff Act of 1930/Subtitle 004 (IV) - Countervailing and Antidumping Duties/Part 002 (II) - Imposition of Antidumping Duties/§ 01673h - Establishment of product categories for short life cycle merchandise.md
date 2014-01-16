@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (1) Eligible domestic entity
 
-&emsp;The term “eligible domestic entity” means a manufacturer or producer in the United States, or a certified union or recognized union or group of workers which is representative of an industry in the United States, that manufactures or produces short life cycle merchandise that is—
+&emsp;The term "eligible domestic entity" means a manufacturer or producer in the United States, or a certified union or recognized union or group of workers which is representative of an industry in the United States, that manufactures or produces short life cycle merchandise that is—
 
 &emsp;&emsp;(A) like or directly competitive with other merchandise that is the subject of 2 or more affirmative dumping determinations, or
 
@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (2) Affirmative dumping determination
 
-&emsp;The term “affirmative dumping determination” means—
+&emsp;The term "affirmative dumping determination" means—
 
 &emsp;&emsp;(A) any affirmative final determination made by the administering authority under section 1673d(a) of this title during the 8-year period preceding the filing of the petition under this section that results in the issuance of an antidumping duty order under section 1673e of this title which requires the deposit of estimated antidumping duties at a rate of not less than 15 percent ad valorem, or
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (4) Short life cycle merchandise
 
-&emsp;The term “short life cycle merchandise” means any product that the Commission determines is likely to become outmoded within 4 years, by reason of technological advances, after the product is commercially available. For purposes of this paragraph, the term “outmoded” refers to a kind of style that is no longer state-of-the-art.
+&emsp;The term "short life cycle merchandise" means any product that the Commission determines is likely to become outmoded within 4 years, by reason of technological advances, after the product is commercially available. For purposes of this paragraph, the term "outmoded" refers to a kind of style that is no longer state-of-the-art.
 
 #### (c) Transitional rules
 
@@ -132,9 +132,9 @@ A prior section, act June 17, 1930, ch. 497, title VII, §739, as added July 26,
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(2)(B)(ii), (3)(A)(i), (B)(i). Pub. L. 103–465 substituted “normal value” for “foreign market value” and “export price (or the constructed export price)” for “United States price”.
+<b>1994</b>—Subsec. (b)(2)(B)(ii), (3)(A)(i), (B)(i). Pub. L. 103–465 substituted "normal value" for "foreign market value" and "export price (or the constructed export price)" for "United States price".
 
-<b>1990</b>—Subsec. (a)(1)(B)(v). Pub. L. 101–382 substituted “Harmonized Tariff Schedule” for “Tariff Schedules”.
+<b>1990</b>—Subsec. (a)(1)(B)(v). Pub. L. 101–382 substituted "Harmonized Tariff Schedule" for "Tariff Schedules".
 
 #### Effective Date of 1994 Amendment
 

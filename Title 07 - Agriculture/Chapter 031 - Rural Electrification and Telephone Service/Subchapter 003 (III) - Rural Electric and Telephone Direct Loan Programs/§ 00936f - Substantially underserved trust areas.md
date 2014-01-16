@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible program
 
-&emsp;The term “eligible program” means a program administered by the Rural Utilities Service and authorized in—
+&emsp;The term "eligible program" means a program administered by the Rural Utilities Service and authorized in—
 
 &emsp;&emsp;(A) this chapter; or
 
@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Substantially underserved trust area
 
-&emsp;The term “substantially underserved trust area” means a community in “trust land” (as defined in section 3765 of title 38) with respect to which the Secretary determines has a high need for the benefits of an eligible program.
+&emsp;The term "substantially underserved trust area" means a community in "trust land" (as defined in section 3765 of title 38) with respect to which the Secretary determines has a high need for the benefits of an eligible program.
 
 #### (b) Initiative
 
@@ -24,7 +24,7 @@ The Secretary, in consultation with local governments and Federal agencies, may 
 
 In carrying out subsection (b), the Secretary—
 
-&emsp;(1) may make available from loan or loan guarantee programs administered by the Rural Utilities Service to qualified utilities or applicants financing with an interest rate as low as 2 percent, and with extended repayment terms;
+&emsp;(1) may make available from loan or loan guarantee programs administered by the Rural Utilities Service to qualified utilities or applicants financing with an interest rate aslow as 2 percent, and with extended repayment terms;
 
 &emsp;(2) may waive nonduplication restrictions, matching fund requirements, or credit support requirements from any loan or grant program administered by the Rural Utilities Service to facilitate the construction, acquisition, or improvement of infrastructure;
 

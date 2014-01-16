@@ -24,9 +24,9 @@ Section 1602(f) of this title, referred to in subsec. (b), was redesignated sect
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (b) to (d). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Subsecs. (b) to (d). Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
-<b>1995</b>—Subsec. (c). Pub. L. 104–29 inserted at end “In the case of any consumer credit transaction a portion of the interest on which is determined on a per diem basis and is to be collected upon the consummation of such transaction, any disclosure with respect to such portion of interest shall be deemed to be accurate for purposes of this subchapter if the disclosure is based on information actually known to the creditor at the time that the disclosure documents are being prepared for the consummation of the transaction.”
+<b>1995</b>—Subsec. (c). Pub. L. 104–29 inserted at end "In the case of any consumer credit transaction a portion of the interest on which is determined on a per diem basis and is to be collected upon the consummation of such transaction, any disclosure with respect to such portion of interest shall be deemed to be accurate for purposes of this subchapter if the disclosure is based on information actually known to the creditor at the time that the disclosure documents are being prepared for the consummation of the transaction."
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–221 substituted provisions respecting to which obligor duty of creditor or lessor, where one or more than one obligor is involved, is owed, for provisions setting forth clear and conspicuous disclosure requirements for creditors to persons extended consumer credit.
 
@@ -36,7 +36,7 @@ Subsecs. (c), (d). Pub. L. 96–221 added subsecs. (c) and (d).
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–205 struck out subsec. (c) which related to disclosure including a full statement of closing costs incurred and permitted estimates of such information where the lender was not in a position to know exact information.
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–495, §307(c), inserted reference to part D of this subchapter and struck out “and upon whom a finance charge is or may be imposed” after “extended”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–495, §307(c), inserted reference to part D of this subchapter and struck out "and upon whom a finance charge is or may be imposed" after "extended".
 
 Subsec. (b). Pub. L. 93–495, §307(d), inserted reference to part D of this subchapter.
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 94–205 effective Jan. 2, 1976, see section 12 of Pub. L. 
 
 For effective date of amendment by section 307(c), (d) of Pub. L. 93–495, see section 308 of Pub. L. 93–495, set out as an Effective Date note under section 1666 of this title.
 
-For effective date of amendment by section 409 of Pub. L. 93–495, see section 416 of Pub. L. 93–495, set outas an Effective Date note under section 1665a of this title.
+For effective date of amendment by section 409 of Pub. L. 93–495, see section 416 of Pub. L. 93–495, set out as an Effective Date note under section 1665a of this title.
 
 #### Effective Date
 

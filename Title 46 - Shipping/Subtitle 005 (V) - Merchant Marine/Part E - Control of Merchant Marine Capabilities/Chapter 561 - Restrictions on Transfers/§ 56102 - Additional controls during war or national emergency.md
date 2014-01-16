@@ -4,7 +4,7 @@
 
 In General.—During war, or a national emergency declared by Presidential proclamation, a person may not, without the approval of the Secretary of Transportation—
 
-&emsp;(1) place under foreign registry a vessel owned in whole or in part by a citizen of the United States or a corporation incorporated under the laws of the United States or of a State;
+&emsp;(1) place under foreign registry a vessel owned in whole or in part by a citizen of the United States or a corporation incorporatedunder the laws of the United States or of a State;
 
 &emsp;(2) sell, mortgage, lease, charter, deliver, or in any other manner transfer, or agree to sell, mortgage, lease, charter, deliver, or in any other manner transfer, to a person not a citizen of the United States—
 
@@ -76,7 +76,7 @@ Criminal penalty.—A person that violates, or attempts or conspires to violate,
 
 Forfeiture.—The following shall be forfeited to the Government:
 
-&emsp;&emsp;(A) A vessel, a facility for building or repairing vessels, or an interest in a vessel or such a facility, that is sold, mortgaged,leased, chartered, delivered, transferred, or documented, or agreed to be sold, mortgaged, leased, chartered, delivered, transferred, or documented, in violation of this section.
+&emsp;&emsp;(A) A vessel, a facility for building or repairing vessels, or an interest in a vessel or such a facility, that is sold, mortgaged, leased, chartered, delivered, transferred, or documented, or agreed to be sold, mortgaged, leased, chartered, delivered, transferred, or documented, in violation of this section.
 
 &emsp;&emsp;(B) Stock and other securities sold or transferred, or agreed to be sold or transferred, in violation of this section.
 
@@ -116,17 +116,17 @@ Sept. 7, 1916, ch. 451, §37, as added July 15, 1918, ch. 152, §4, 40 Stat. 901
 
 46 App.:835 (1st, 3d pars. after cl. (f)).
 
-In this section, the words “facility for building or repairing vessels” are substituted for “shipyard, dry dock, shipbuilding or ship-repairing plant or facility” (or similar language) to eliminate unnecessary words.
+In this section, the words "facility for building or repairing vessels" are substituted for "shipyard, dry dock, shipbuilding or ship-repairing plant or facility" (or similar language) to eliminate unnecessary words.
 
-In subsection (a)(1), the words “transfer to” and “or flag” are omitted as surplus. The words “Territory, District, or possession thereof” are omitted as unnecessary because of the definition of “State” in chapter 1 of the revised title.
+In subsection (a)(1), the words "transfer to" and "or flag" are omitted as surplus. The words "Territory, District, or possession thereof" are omitted as unnecessary because of the definition of "State" in chapter 1 of the revised title.
 
-In subsection (a)(3), the words “instrument of indebtedness” are substituted for “bond, note, or other evidence of indebtedness” to eliminate unnecessary words. The words “right, title, or” are omitted as unnecessary.
+In subsection (a)(3), the words "instrument of indebtedness" are substituted for "bond, note, or other evidence of indebtedness" to eliminate unnecessary words. The words "right, title, or" are omitted as unnecessary.
 
-In subsection (a)(5), the words “or the majority of the voting power” are omitted as covered by “controlling interest”.
+In subsection (a)(5), the words "or the majority of the voting power" are omitted as covered by "controlling interest".
 
-In subsection (b)(1), before subparagraph (A), the words “and only if” are added for clarity because the Secretary is required to disapprove a trustee that ceases to meet the specified conditions.
+In subsection (b)(1), before subparagraph (A), the words "and only if" are added for clarity because the Secretary is required to disapprove a trustee that ceases to meet the specified conditions.
 
 Subsections (c) and (d) are substituted for the source provisions to eliminate unnecessary words.
 
-In subsection (e)(1), the words “guilty of a misdemeanor” are omitted, and the words “fined under title 18” are substituted for “punishable by a fine of not more than $5000”, because of chapter 227 of title 18.
+In subsection (e)(1), the words "guilty of a misdemeanor" are omitted, and the words "fined under title 18" are substituted for "punishable by a fine of not more than $5000", because of chapter 227 of title 18.
 

@@ -62,7 +62,7 @@ The following agencies of the National Institutes of Health are national researc
 
 #### (1) In general
 
-&emsp;Within the Office of the Director of the National Institutes of Health, there shall be a Division of Program Coordination, Planning, and Strategic Initiatives (referred to in this subsection as the “Division”).
+&emsp;Within the Office of the Director of the National Institutes of Health, there shall be a Division of Program Coordination, Planning, and Strategic Initiatives (referred to in this subsection as the "Division").
 
 #### (2) Offices within Division
 
@@ -110,13 +110,13 @@ The following agencies of the National Institutes of Health are national researc
 
 #### (1) In general
 
-&emsp;Not later than 60 days after January 15, 2007, the Secretary shall establish an advisory council within the National Institutes of Health to be known as the Scientific Management Review Board (referred to in this subsection as the “Board”).
+&emsp;Not later than 60 days after January 15, 2007, the Secretary shall establish an advisory council within the National Institutes of Health to be known as the Scientific Management Review Board (referred to in this subsection as the "Board").
 
 #### (2) Duties
 
 #### (A) Reports on organizational issues
 
-&emsp;&emsp;The Board shall provide advice to the appropriate officials under subsection (d) regarding the use of the authorities established in paragraphs (2), (3), and (4) of such subsection to reorganize the National Institutes of Health (referred to in this subsection as “organizational authorities”). Not less frequently than once each 7 years, the Board shall—
+&emsp;&emsp;The Board shall provide advice to the appropriate officials under subsection (d) regarding the use of the authorities established in paragraphs (2), (3), and (4) of such subsection to reorganize the National Institutes of Health (referred to in this subsection as "organizational authorities"). Not less frequently than once each 7 years, the Board shall—
 
 &emsp;&emsp;&emsp;(i) determine whether and to what extent the organizational authorities should be used; and
 
@@ -126,7 +126,7 @@ The following agencies of the National Institutes of Health are national researc
 
 &emsp;&emsp;The activities of the Board with respect to a report under subparagraph (A) shall include the following:
 
-&emsp;&emsp;&emsp;(i) Reviewing the research portfolio of the National Institutes of Health (referred to in this subsection as “NIH”) in order to determine the progress and effectiveness and value of the portfolio and the allocation among the portfolio activities of the resources of NIH.
+&emsp;&emsp;&emsp;(i) Reviewing the research portfolio of the National Institutes of Health (referred to in this subsection as "NIH") in order to determine the progress and effectiveness and value of the portfolio and the allocation among the portfolio activities of the resources of NIH.
 
 &emsp;&emsp;&emsp;(ii) Determining pending scientific opportunities, and public health needs, with respect to research within the jurisdiction of NIH.
 
@@ -158,7 +158,7 @@ The following agencies of the National Institutes of Health are national researc
 
 #### (3) Composition of Board
 
-&emsp;The Board shall consist of the Director of NIH, who shall be a permanent nonvotingmember on an ex officio basis, and an odd number of additional members, not to exceed 21, all of whom shall be voting members. The voting members of the Board shall be the following:
+&emsp;The Board shall consist of the Director of NIH, who shall be a permanent nonvoting member on an ex officio basis, and an odd number of additional members, not to exceed 21, all of whom shall be voting members. The voting members of the Board shall be the following:
 
 &emsp;&emsp;(A) Not fewer than 9 officials who are directors of national research institutes or national centers. The Secretary shall designate such officials for membership and shall ensure that the group of officials so designated includes directors of—
 
@@ -262,9 +262,9 @@ The following agencies of the National Institutes of Health are national researc
 
 For purposes of this subchapter:
 
-&emsp;(1) The term “Director of NIH” means the Director of the National Institutes of Health.
+&emsp;(1) The term "Director of NIH" means the Director of the National Institutes of Health.
 
-&emsp;(2) The terms “national research institute” and “national center” mean an agency of the National Institutes of Health that is—
+&emsp;(2) The terms "national research institute" and "national center" mean an agency of the National Institutes of Health that is—
 
 &emsp;&emsp;(A) listed in subsection (b) and not terminated under subsection (d)(2)(A); or
 
@@ -278,17 +278,17 @@ For purposes of this subchapter, a reference to the National Institutes of Healt
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(21). Pub. L. 112–74, §221(a)(2), substituted “National Center for Advancing Translational Sciences” for “National Center for Research Resources”.
+<b>2011</b>—Subsec. (b)(21). Pub. L. 112–74, §221(a)(2), substituted "National Center for Advancing Translational Sciences" for "National Center for Research Resources".
 
-Subsec. (c)(2)(A). Pub. L. 112–74, §221(c)(2)(B), struck out “the Office of Rare Diseases,” after “the Office of Dietary Supplements,”.
+Subsec. (c)(2)(A). Pub. L. 112–74, §221(c)(2)(B), struck out "the Office of Rare Diseases," after "the Office of Dietary Supplements,".
 
-<b>2010</b>—Subsec. (b)(24). Pub. L. 111–148 substituted “Institute” for “Center”.
+<b>2010</b>—Subsec. (b)(24). Pub. L. 111–148 substituted "Institute" for "Center".
 
-<b>2007</b>—Subsec. (b)(7). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+<b>2007</b>—Subsec. (b)(7). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute of Child Health and Human Development".
 
-Pub. L. 109–482, §101(a), reenacted section catchline without change and amended text generally, substituting provisions consisting of subsecs. (a) to (d)(1) for former subsecs. (a) to (d) which related to: in subsec. (a), relationship to Public Health Service; in subsec. (b), list of national research institutes that were agencies; in subsec. (c), establishment of additional institutes and reorganization or abolition of institutes; and, in subsec. (d), definition of “national research institute”. See below.
+Pub. L. 109–482, §101(a), reenacted section catchline without change and amended text generally, substituting provisions consisting of subsecs. (a) to (d)(1) for former subsecs. (a) to (d) which related to: in subsec. (a), relationship to Public Health Service; in subsec. (b), list of national research institutes that were agencies; in subsec. (c), establishment of additional institutes and reorganization or abolition of institutes; and, in subsec. (d), definition of "national research institute". See below.
 
-Subsec. (d)(2). Pub. L. 109–482, §108(a), added after subsec. (d)(1) provisions identical to text of subsec. (c) prior to amendment by Pub. L. 109–482, §101(a), redesignated such provisions as par. (2), added par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, added subpar. headings, in subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, in cl. (ii), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources” and “clause (i)” for “subparagraph (A)”, and, in subpar. (B), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
+Subsec. (d)(2). Pub. L. 109–482, §108(a), added after subsec. (d)(1) provisions identical to text of subsec. (c) prior to amendment by Pub. L. 109–482, §101(a), redesignated such provisions as par. (2), added par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, added subpar. headings, in subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, in cl. (ii), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources" and "clause (i)" for "subparagraph (A)", and, in subpar. (B), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources".
 
 Subsec. (d)(3), (4). Pub. L. 109–482, §101(b)(1), added pars. (3) and (4).
 
@@ -300,7 +300,7 @@ Subsec. (b)(2)(F). Pub. L. 106–525, §101(b)(1)(A), realigned margins.
 
 Subsec. (b)(2)(G). Pub. L. 106–525, §101(b)(1)(B), added subpar. (G).
 
-<b>1998</b>—Subsec. (b)(1)(H). Pub. L. 105–277, §101(f) \[title II, §212\], substituted “National Institute of Dental and Craniofacial Research” for “National Institute of Dental Research”.
+<b>1998</b>—Subsec. (b)(1)(H). Pub. L. 105–277, §101(f) \[title II, §212\], substituted "National Institute of Dental and Craniofacial Research" for "National Institute of Dental Research".
 
 Subsec. (b)(2)(F). Pub. L. 105–277, §101(f) \[title VI, §601(k)\], added subpar. (F).
 
@@ -308,21 +308,21 @@ Subsec. (b)(2)(F). Pub. L. 105–277, §101(f) \[title VI, §601(k)\], added sub
 
 <b>1993</b>—Subsec. (b)(1)(Q). Pub. L. 103–43, §1511(b)(1)(A), added subpar. (Q).
 
-Subsec. (b)(2)(B). Pub. L. 103–43, §1501(1), amended subpar. (B) generally, substituting “National Center for Research Resources” for “Division of Research Resources”.
+Subsec. (b)(2)(B). Pub. L. 103–43, §1501(1), amended subpar. (B) generally, substituting "National Center for Research Resources" for "Division of Research Resources".
 
-Subsec. (b)(2)(D). Pub. L. 103–43, §§1511(b)(1)(B), 1521(1), added subpar. (D) and struck out former subpar. (D) which read as follows: “The National Center for Nursing Research.”
+Subsec. (b)(2)(D). Pub. L. 103–43, §§1511(b)(1)(B), 1521(1), added subpar. (D) and struck out former subpar. (D) which read as follows: "The National Center for Nursing Research."
 
 <b>1992</b>—Subsec. (b)(1)(N) to (P). Pub. L. 102–321 added subpars. (N) to (P).
 
-<b>1988</b>—Subsec. (b)(1)(J), (M). Pub. L. 100–553 and Pub. L. 100–607 made identical amendments, striking out “and Communicative” after “Neurological” in subpar. (J), and adding subpar. (M). Pub. L. 100–690 amended subsec. (b)(1) to read as if the amendments by Pub. L. 100–607 had not been enacted.
+<b>1988</b>—Subsec. (b)(1)(J), (M). Pub. L. 100–553 and Pub. L. 100–607 made identical amendments, striking out "and Communicative" after "Neurological" in subpar. (J), and adding subpar. (M). Pub. L. 100–690 amended subsec. (b)(1) to read as if the amendments by Pub. L. 100–607 had not been enacted.
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 109–482, title I, §109, Jan. 15, 2007, 120 Stat. 3697, provided that: “This title \[see Tables for classification\] and the amendments made by this title apply only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years.”
+Pub. L. 109–482, title I, §109, Jan. 15, 2007, 120 Stat. 3697, provided that: "This title \[see Tables for classification\] and the amendments made by this title apply only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years."
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–525, title VI, §603, Nov. 22, 2000, 114 Stat. 2511, provided that: “This Act \[enacting subpart 6 (§287c–31 et seq.) of part E of this subchapter and sections 293e, 296e–1, and 299a–1 of this title, amending sections 281, 296f, 299a, 299c–6, and 300u–6 of this title, repealing section 283b of this title, and enacting provisions set out as notes under sections 201, 287c–31, 293e, and 3501 of this title\] and the amendments made by this Act take effect October 1, 2000, or upon the date of the enactment of this Act \[Nov. 22, 2000\], whichever occurs later.”
+Pub. L. 106–525, title VI, §603, Nov. 22, 2000, 114 Stat. 2511, provided that: "This Act \[enacting subpart 6 (§287c–31 et seq.) of part E of this subchapter and sections 293e, 296e–1, and 299a–1 of this title, amending sections 281, 296f, 299a, 299c–6, and 300u–6 of this title, repealing section 283b of this title, and enacting provisions set out as notes under sections 201, 287c–31, 293e, and 3501 of this title\] and the amendments made by this Act take effect October 1, 2000, or upon the date of the enactment of this Act \[Nov. 22, 2000\], whichever occurs later."
 
 #### Effective Date of 1992 Amendment
 
@@ -334,7 +334,7 @@ For effective date of amendment by Pub. L. 100–690, see section 2613(b)(1) of 
 
 #### Construction of 2007 Amendment
 
-Pub. L. 109–482, title I, §102(g), Jan. 15, 2007, 120 Stat. 3685, provided that: “This Act \[see Tables for classification\] and the amendments made by this Act may not be construed as affecting the authorities of the national research institutes and national centers that were in effect under the Public Health Service Act \[this chapter\] on the day before the date of the enactment of this Act \[Jan. 15, 2007\], subject to the authorities of the Secretary of Health and Human Services and the Director of NIH under section 401 of the Public Health Service Act \[this section\] (as amended by section 101 of this Act). For purposes of the preceding sentence, the terms ‘national research institute’, ‘national center’, and ‘Director of NIH’ have the meanings given such terms in such section 401.”
+Pub. L. 109–482, title I, §102(g), Jan. 15, 2007, 120 Stat. 3685, provided that: "This Act \[see Tables for classification\] and the amendments made by this Act may not be construed as affecting the authorities of the national research institutes and national centers that were in effect under the Public Health Service Act \[42 U.S.C. 201 et seq.\] on the day before the date of the enactment of this Act \[Jan. 15, 2007\], subject to the authorities of the Secretary of Health and Human Services and the Director of NIH under section 401 of the Public Health Service Act \[42 U.S.C. 281\] (as amended by section 101 of this Act). For purposes of the preceding sentence, the terms 'national research institute', 'national center', and 'Director of NIH' have the meanings given such terms in such section 401."
 
 #### Study of the Use of Centers of Excellence at the National Institutes of Health
 
@@ -342,13 +342,13 @@ Pub. L. 107–84, §7, Dec. 18, 2001, 115 Stat. 829, required the Secretary of H
 
 #### Report on Medical Uses of Biological Agents in Development of Defenses Against Biological Warfare
 
-Section 1904 of Pub. L. 103–43 directed Secretary of Health and Human Services, in consultation with Secretary of Defense and with heads of other appropriate executive agencies, to report to Congress, not later than 12 months after June 10, 1993, on the appropriateness and impact of the National Institutes of Health assuming responsibility for the conduct of all Federal research, development, testing, and evaluation functions relating to medical countermeasures against biowarfare threat agents.
+Pub. L. 103–43, title XIX, §1904, June 10, 1993, 107 Stat. 203, directed Secretary of Health and Human Services, in consultation with Secretary of Defense and with heads of other appropriate executive agencies, to report to Congress, not later than 12 months after June 10, 1993, on the appropriateness and impact of the National Institutes of Health assuming responsibility for the conduct of all Federal research, development, testing, and evaluation functions relating to medical countermeasures against biowarfare threat agents.
 
 #### Research on Lupus Erythematosus
 
-Section 5 of Pub. L. 99–158, as amended by Pub. L. 102–531, title III, §312(f), Oct. 27, 1992, 106 Stat. 3506, directed Secretary of Health and Human Resources to establish a Lupus Erythematosus Coordinating Committee to plan, develop, coordinate, and implement comprehensive Federal initiatives in research on Lupus Erythematosus, provided for composition of committee and meetings, and directed Committee to prepare a report for Congress on its activities, to be submitted not later than 18 months after Nov. 20, 1985, with Committee to terminate one month after the report was submitted.
+Pub. L. 99–158, §5, Nov. 20, 1985, 99 Stat. 880, as amended by Pub. L. 102–531, title III, §312(f), Oct. 27, 1992, 106 Stat. 3506, directed Secretary of Health and Human Resources to establish a Lupus Erythematosus Coordinating Committee to plan, develop, coordinate, and implement comprehensive Federal initiatives in research on Lupus Erythematosus, provided for composition of committee and meetings, and directed Committee to prepare a report for Congress on its activities, to be submitted not later than 18 months after Nov. 20, 1985, with Committee to terminate one month after the report was submitted.
 
 #### Interagency Committee on Learning Disabilities
 
-Section 9 of Pub. L. 99–158 directed Director of the National Institutes of Health, not later than 90 days after Nov. 20, 1985, to establish an Interagency Committee on Learning Disabilities to review and assess Federal research priorities, activities, and findings regarding learning disabilities (including central nervous system dysfunction in children), provided for composition of the Committee, directed Committee to report to Congress on its activities not later than 18 months after Nov. 20, 1985, and provided that the Committee terminate 90 days after submission of the report.
+Pub. L. 99–158, §9, Nov. 20, 1985, 99 Stat. 882, directed Director of the National Institutes of Health, not later than 90 days after Nov. 20, 1985, to establish an Interagency Committee on Learning Disabilities to review and assess Federal research priorities, activities, and findings regarding learning disabilities (including central nervous system dysfunction in children), provided for composition of the Committee, directed Committee to report to Congress on its activities not later than 18 months after Nov. 20, 1985, and provided that the Committee terminate 90 days after submission of the report.
 

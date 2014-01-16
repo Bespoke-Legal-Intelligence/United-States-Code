@@ -32,7 +32,7 @@ Congress declares a commitment to the policies described in this section and sup
 
 #### (f) Termination
 
-Congress repudiates and rejects House Concurrent Resolution 108 of the 83d Congress and any policy of unilateral termination of Federal relations with any Indian nation.
+Congress repudiates and rejects House Concurrent Resolution 108 of the 83d Congress and anypolicy of unilateral termination of Federal relations with any Indian nation.
 
 (Pub. L. 100–297, title V, §5202, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063.)
 
@@ -52,79 +52,79 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 #### Short Title
 
-Pub. L. 100–297, title V, §5201, Apr. 28, 1988, 102 Stat. 385, provided that: “This part \[part B (§§5201–5212) of title V of Pub. L. 100–297, enacting this chapter\] may be cited as the ‘Tribally Controlled Schools Act of 1988’.”
+Pub. L. 100–297, title V, §5201, Apr. 28, 1988, 102 Stat. 385, provided that: "This part \[part B (§§5201–5212) of title V of Pub. L. 100–297, enacting this chapter\] may be cited as the 'Tribally Controlled Schools Act of 1988'."
 
 #### Tribal School Construction Demonstration Program
 
 Pub. L. 108–7, div. F, title I, §122, Feb. 20, 2003, 117 Stat. 241, as amended by Pub. L. 108–108, title I, §136(a), Nov. 10, 2003, 117 Stat. 1270, provided that:
 
-“(a)
+"(a)
 
 Definitions.—In this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Construction.—The term ‘construction’, with respect to a tribally controlled school, includes the construction or renovation of that school.
+Construction.—The term 'construction', with respect to a tribally controlled school, includes the construction or renovation of that school.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Indian tribe.—The term ‘Indian tribe’ has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
+Indian tribe.—The term 'Indian tribe' has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
 
-&emsp;“(3)
+&emsp;"(3)
 
-Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+Secretary.—The term 'Secretary' means the Secretary of the Interior.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Tribally controlled school.—The term ‘tribally controlled school’ means a school that currently receives a grant under the Tribally Controlled Schools Act of 1988, as amended (25 U.S.C. 2501 et seq.) or is determined by the Secretary to meet the eligibility criteria of section 5205 of the Tribally Controlled Schools Act of 1988, as amended (25 U.S.C. 2504).
+Tribally controlled school.—The term 'tribally controlled school' means a school that currently receives a grant under the Tribally Controlled Schools Act of 1988, as amended (25 U.S.C. 2501 et seq.) or is determined by the Secretary to meet the eligibility criteria of section 5205 of the Tribally Controlled Schools Act of 1988, as amended (25 U.S.C. 2504).
 
-&emsp;“(5)
+&emsp;"(5)
 
-Department.—The term ‘Department’ means the Department of the Interior.
+Department.—The term 'Department' means the Department of the Interior.
 
-&emsp;“(6)
+&emsp;"(6)
 
-Demonstration program.—The term ‘demonstration program’ means the Tribal School Construction Demonstration Program.
+Demonstration program.—The term 'demonstration program' means the Tribal School Construction Demonstration Program.
 
-“(b)
+"(b)
 
 In General.—The Secretary shall carry out a demonstration program for fiscal years 2003 through 2007 to provide grants to Indian tribes for the construction of tribally controlled schools.
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Subject to the availability of appropriations, in carrying out the demonstration program under subsection (b), the Secretary shall award a grant to each Indian tribe that submits an application that is approved by the Secretary under paragraph (2). The Secretary shall ensure that applications for funding to replace schools currently receiving funding for facility operation and maintenance from the Bureau of Indian Affairs receive the highest priority for grants under this section. Among such applications, the Secretary shall give priority to applications of Indian tribes that agree to fund all future facility operation and maintenance costs of the tribally controlled school funded under the demonstration program from other than Federal funds.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Grant applications.—An application for a grant under the section shall—
 
-&emsp;&emsp;“(A) include a proposal for the construction of a tribally controlled school of the Indian tribe that submits the application; and
+&emsp;&emsp;"(A) include a proposal for the construction of a tribally controlled school of the Indian tribe that submits the application; and
 
-&emsp;&emsp;“(B) be in such form as the Secretary determines appropriate.
+&emsp;&emsp;"(B) be in such form as the Secretary determines appropriate.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Grant agreement.—As a condition to receiving a grant under this section, the Indian tribe shall enter into an agreement with the Secretary that specifies—
 
-&emsp;&emsp;“(A) the costs of construction under the grant;
+&emsp;&emsp;"(A) the costs of construction under the grant;
 
-&emsp;&emsp;“(B) that the Indian tribe shall be required to contribute towards the cost of the construction a tribal share equal to 50 percent of the costs; and
+&emsp;&emsp;"(B) that the Indian tribe shall be required to contribute towards the cost of the construction a tribal share equal to 50 percent of the costs; and
 
-&emsp;&emsp;“(C) any other term or condition that the Secretary determines to be appropriate.
+&emsp;&emsp;"(C) any other term or condition that the Secretary determines to be appropriate.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Eligibility.—Grants awarded under the demonstration program shall be used only for construction or replacement of a tribally controlled school.
 
-“(c)
+"(c)
 
 Effect of Grant.—(1) Except as provided in paragraph (2) of this subsection, A \[sic\] grant received under this section shall be in addition to any other funds received by an Indian tribe under any other provision of law. The receipt of a grant under this section shall not affect the eligibility of an Indian tribe receiving funding, or the amount of funding received by the Indian tribe, under the Tribally Controlled Schools Act of 1988 (25 U.S.C. 2501 et seq.) or the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
-“(2) A tribe receiving a grant for construction of a tribally controlled school under this section shall not be eligible to receive funding from the Bureau of Indian Affairs for that school for education operations or facility operation and maintenance if the school that was not at the time of the grant: (i) a school receiving funding for education operations or facility operation andmaintenance under the Tribally Controlled Schools Act \[25 U.S.C. 2501 et seq.\] or the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] or (ii) a school operated by the Bureau of Indian Affairs.
+"(2) A tribe receiving a grant for construction of a tribally controlled school under this section shall not be eligible to receive funding from the Bureau of Indian Affairs for that school for education operations or facility operation and maintenance if the school that was not at the time of the grant: (i) a school receiving funding for education operations or facility operation and maintenance under the Tribally Controlled Schools Act \[25 U.S.C. 2501 et seq.\] or the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] or (ii) a school operated by the Bureau of Indian Affairs.
 
-“(d)
+"(d)
 
-Report.—At the conclusion of the five-year demonstration program, the Secretary shall report to Congress as to whether the demonstration program has achieved its purposes of providing additional tribes fair opportunities to construct tribally controlled schools, accelerating construction of needed educational facilities in Indian Country, and permitting additional funds to be provided for the Department's priority list for construction of replacement educational facilities.”
+Report.—At the conclusion of the five-year demonstration program, the Secretary shall report to Congress as to whether the demonstration program has achieved its purposes of providing additional tribes fair opportunities to construct tribally controlled schools, accelerating construction of needed educational facilities in Indian Country, and permitting additional funds to be provided for the Department's priority list for construction of replacement educational facilities."
 
 Similar provisions were contained in the following prior appropriation acts:
 

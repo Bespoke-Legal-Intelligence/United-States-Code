@@ -4,15 +4,15 @@ In this chapter:
 
 #### (1) Ocean acidification
 
-&emsp;The term “ocean acidification” means the decrease in pH of the Earth's oceans and changes in ocean chemistry caused by chemical inputs from the atmosphere, including carbon dioxide.
+&emsp;The term "ocean acidification" means the decrease in pH of the Earth's oceans and changes in ocean chemistry caused by chemical inputs from the atmosphere, including carbon dioxide.
 
 #### (2) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
+&emsp;The term "Secretary" means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
 
 #### (3) Subcommittee
 
-&emsp;The term “Subcommittee” means the Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council.
+&emsp;The term "Subcommittee" means the Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council.
 
 (Pub. L. 111–11, title XII, §12403, Mar. 30, 2009, 123 Stat. 1437.)
 

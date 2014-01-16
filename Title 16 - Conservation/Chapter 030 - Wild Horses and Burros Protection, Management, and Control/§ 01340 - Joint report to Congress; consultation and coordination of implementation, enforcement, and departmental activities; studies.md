@@ -8,5 +8,5 @@ The Secretary of the Interior and the Secretary of Agriculture shall consult wit
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of this section relating to the Secretaries of the Interior and Agriculture submitting a joint report to Congress every twenty-four months on the administration of this chapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 147 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions of this section relating to the Secretaries of the Interior and Agriculture submitting a joint report to Congress every twenty-four months on the administration of this chapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title31, Money and Finance, and page 147 of House Document No. 103–7.
 

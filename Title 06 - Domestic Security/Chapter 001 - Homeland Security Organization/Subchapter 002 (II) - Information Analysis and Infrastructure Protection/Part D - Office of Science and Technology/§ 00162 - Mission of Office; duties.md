@@ -82,7 +82,7 @@ The Office may transfer funds to other Federal agencies or provide funding to no
 
 #### (g) Annual report
 
-The Director of the Office shall include with the budget justification materials submitted toCongress in support of the Department of Justice budget for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report on the activities of the Office. Each such report shall include the following:
+The Director of the Office shall include with the budget justification materials submitted to Congress in support of the Department of Justice budget for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report on the activities of the Office. Each such report shall include the following:
 
 &emsp;(1) For the period of 5 fiscal years beginning with the fiscal year for which the budget is submitted—
 

@@ -1,6 +1,6 @@
 ### §6711. Definition
 
-In this subchapter, the term “development area” means the area to be developed, maintained, and used in accordance with this subchapter and the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1266) and is the area bounded as follows:
+In this subchapter, the term "development area" means the area to be developed, maintained, and used in accordance with this subchapter and the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1266) and is the area bounded as follows:
 
 &emsp;Beginning at a point on the southwest corner of the intersection of Fifteenth Street and E Street Northwest;
 
@@ -56,7 +56,7 @@ Pub. L. 92–578, §2, Oct. 27, 1972, 86 Stat. 1266.
 
 The text of 40:871(a)–(e) is omitted as obsolete.
 
-The words “being the southwest corner of the intersection of Fifteenth Street and E Street Northwest” are omitted as unnecessary.
+The words "being the southwest corner of the intersection of Fifteenth Street and E Street Northwest" are omitted as unnecessary.
 
 #### References in Text
 

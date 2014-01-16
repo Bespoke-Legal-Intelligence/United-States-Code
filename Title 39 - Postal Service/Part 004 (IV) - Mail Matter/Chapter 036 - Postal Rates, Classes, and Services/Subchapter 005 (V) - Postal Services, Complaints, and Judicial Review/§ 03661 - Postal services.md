@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
 #### Effective Date
 

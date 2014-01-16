@@ -6,5 +6,5 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–356 struck out “: <i>Provided</i>, That the amount to be appropriated for the operation, development or restoration of non-federally owned properties within the boundaries of the park shall not exceed $200,000” after “this part”.
+<b>2000</b>—Pub. L. 106–356 struck out ": <i>Provided</i>, That the amount to be appropriated for the operation, development or restoration of non-federally owned properties within the boundaries of the park shall not exceed $200,000" after "this part".
 

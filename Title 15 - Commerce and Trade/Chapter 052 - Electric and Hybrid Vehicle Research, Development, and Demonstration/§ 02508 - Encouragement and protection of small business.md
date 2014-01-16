@@ -12,7 +12,7 @@ To assist in accomplishing the objectives of subsection (a) of this section, the
 
 The Secretary of Energy shall, in addition to the requirements set forth in subsections (a) and (b) of this section—
 
-&emsp;(1) include in all contracts for research, development, or demonstration of electric or hybrid vehicles such terms, conditions, and payment schedules as may assist in meeting the needs of small business concerns, and shall take steps to avoid the inclusion in such contracts of any terms, conditions, or penaltieswhich would tend to prevent such concerns from participating in the program under this chapter; and
+&emsp;(1) include in all contracts for research, development, or demonstration of electric or hybrid vehicles such terms, conditions, and payment schedules as may assist in meeting the needs of small business concerns, and shall take steps to avoid the inclusion in such contracts of any terms, conditions, or penalties which would tend to prevent such concerns from participating in the program under this chapter; and
 
 &emsp;(2) make planning grants available to qualified small business concerns which require assistance in developing, submitting, and entering into such contracts.
 
@@ -20,5 +20,5 @@ The Secretary of Energy shall, in addition to the requirements set forth in subs
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
+"Secretary of Energy" substituted in text for "Administrator" pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 

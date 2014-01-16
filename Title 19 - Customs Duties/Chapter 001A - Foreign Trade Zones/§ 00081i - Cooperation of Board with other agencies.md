@@ -6,7 +6,7 @@ The Board shall cooperate with the State, subdivision, and municipality in which
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–36 substituted “United States Postal Service, the Public Health Service, the Immigration and Naturalization Service” for “Post Office Department, the Public Health Service, the Bureau of Immigration”.
+<b>1999</b>—Pub. L. 106–36 substituted "United States Postal Service, the Public Health Service, the Immigration and Naturalization Service" for "Post Office Department, the Public Health Service, the Bureau of Immigration".
 
 #### Transfer of Functions
 

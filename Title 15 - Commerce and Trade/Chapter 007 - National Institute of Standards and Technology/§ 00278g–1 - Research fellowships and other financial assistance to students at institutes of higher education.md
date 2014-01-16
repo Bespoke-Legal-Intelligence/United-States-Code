@@ -34,17 +34,17 @@ A prior section 18 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and i
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–358, §407(b), struck out “up to 1.5 percent of the” after “expend”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–358, §407(b), struck out "up to 1.5 percent of the" after "expend".
 
 Subsec. (c). Pub. L. 111–358, §406(a), added subsec. (c).
 
-<b>2007</b>—Pub. L. 110–69 designated existing provisions as subsec. (a), inserted heading, substituted “up to 1.5 percent of the” for “up to 1 per centum of the”, and added subsec. (b).
+<b>2007</b>—Pub. L. 110–69 designated existing provisions as subsec. (a), inserted heading, substituted "up to 1.5 percent of the" for "up to 1 per centum of the", and added subsec. (b).
 
-<b>1992</b>—Pub. L. 102–245 inserted before period at end of first sentence “, and to United States citizens for research and technical activities on Institute programs”.
+<b>1992</b>—Pub. L. 102–245 inserted before period at end of first sentence ", and to United States citizens for research and technical activities on Institute programs".
 
-<b>1988</b>—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” the first place appearing, and for “Bureau” wherever subsequently appearing.
+<b>1988</b>—Pub. L. 100–418 substituted "Institute" for "National Bureau of Standards" the first place appearing, and for "Bureau" wherever subsequently appearing.
 
 #### Effective Date
 
-Pub. L. 99–574, §6(b), Oct. 28, 1986, 100 Stat. 3237, provided that: “The amendments made by subsection (a) \[enacting this section\] shall be effective October 1, 1986.”
+Pub. L. 99–574, §6(b), Oct. 28, 1986, 100 Stat. 3237, provided that: "The amendments made by subsection (a) \[enacting this section\] shall be effective October 1, 1986."
 

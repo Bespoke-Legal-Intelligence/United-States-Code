@@ -184,7 +184,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;(F) A description of the strategy—
 
-&emsp;&emsp;&emsp;(i) to promote harmonization of United States assistance with that of other international, national, and private actors as elucidated in the “Three Ones”; and
+&emsp;&emsp;&emsp;(i) to promote harmonization of United States assistance with that of other international, national, and private actors as elucidated in the "Three Ones"; and
 
 &emsp;&emsp;&emsp;(ii) to address existing challenges in harmonization and alignment.
 
@@ -304,7 +304,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;&emsp;(i) an assessment of progress toward prevention, treatment, and care targets;
 
-&emsp;&emsp;&emsp;(ii) an assessment of the effects on health systems, including on the financingand management of health systems and the quality of service delivery and staffing;
+&emsp;&emsp;&emsp;(ii) an assessment of the effects on health systems, including on the financing and management of health systems and the quality of service delivery and staffing;
 
 &emsp;&emsp;&emsp;(iii) an assessment of efforts to address gender-specific aspects of HIV/AIDS, including gender related constraints to accessing services and addressing underlying social and economic vulnerabilities of women and men;
 
@@ -374,7 +374,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (A) Development
 
-&emsp;&emsp;The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop 5 coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2013, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
+&emsp;&emsp;The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2018, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
 
 #### (B) Contents
 
@@ -390,13 +390,21 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;&emsp;&emsp;(II) 60 days after July 30, 2008.
 
-#### (ii) Subsequent plans
+#### (ii) 2010 through 2013 plans
 
-&emsp;&emsp;&emsp;Each of the last four plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2010 through 2013, respectively.
+&emsp;&emsp;&emsp;Each of the plans for fiscal years 2010 through 2013 developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2010 through 2013, respectively.
+
+#### (iii) 2014 plan
+
+&emsp;&emsp;&emsp;The plan developed under subparagraph (A) for fiscal year 2014 shall be completed not later than 60 days after December 2, 2013.
+
+#### (iv) Subsequent plans
+
+&emsp;&emsp;&emsp;Each of the last four plans developed under subparagraph (A) shall be completednot later than 30 days before each of the fiscal years 2015 through 2018, respectively.
 
 #### (2) Coordination
 
-&emsp;In order to avoid duplication and maximize efficiency, the Inspectors General described inparagraph (1) shall coordinate their activities with—
+&emsp;In order to avoid duplication and maximize efficiency, the Inspectors General described in paragraph (1) shall coordinate their activities with—
 
 &emsp;&emsp;(A) the Government Accountability Office; and
 
@@ -410,7 +418,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (1) In general
 
-&emsp;Not later than September 30, 2009, and annually thereafter through September 30, 2013, the Global AIDS Coordinator shall complete a study of treatment providers that—
+&emsp;Not later than September 30, 2009, and annually thereafter through September 30, 2019, the Global AIDS Coordinator shall complete a study of treatment providers that—
 
 &emsp;&emsp;(A) represents a range of countries and service environments;
 
@@ -424,9 +432,25 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;&emsp;(iii) other subcategories, as appropriate.
 
-#### (2) Publication
+#### (2) 2013 through 2018 studies
+
+&emsp;The studies required to be submitted by September 30, 2014, and annually thereafter through September 30, 2018, shall include, in addition to the elements set forth under paragraph (1), the following elements:
+
+&emsp;&emsp;(A) A plan for conducting cost studies of United States assistance under section 2151b–2 of this title in partner countries, taking into account the goal for more systematic collection of data, as well as the demands of such analysis on available human and fiscal resources.
+
+&emsp;&emsp;(B) A comprehensive and harmonized expenditure analysis by partner country, including—
+
+&emsp;&emsp;&emsp;(i) an analysis of Global Fund and national partner spending and comparable data across United States, Global Fund, and national partner spending; or
+
+&emsp;&emsp;&emsp;(ii) where providing such comparable data is not currently practicable, an explanation of why it is not currently practicable, and when it will be practicable.
+
+#### (3) Publication
 
 &emsp;Not later than 90 days after the completion of each study under paragraph (1), the Global AIDS Coordinator shall make the results of such study available on a publicly accessible Web site.
+
+#### (4) Partner country defined
+
+&emsp;In this subsection, the term "partner country" means a country with a minimum United States Government investment of HIV/AIDS assistance of at least $5,000,000 in the prior fiscal year.
 
 #### (h) Message
 
@@ -436,13 +460,25 @@ The Global AIDS Coordinator shall develop a message, to be prominently displayed
 
 &emsp;(2) enhances awareness by program recipients that the program is an effort on behalf of the citizens of the United States.
 
-(Pub. L. 108–25, title I, §101, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, title I, §101, July 30, 2008, 122 Stat. 2923.)
+(Pub. L. 108–25, title I, §101, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, title I, §101, July 30, 2008, 122 Stat. 2923; Pub. L. 113–56, §§2, 3(a), Dec. 2, 2013, 127 Stat. 648.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c)(2)(B)(vi), (vii), (f)(1)(A), (g)(1)(B), and (h), was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
+This chapter, referred to in subsecs. (c)(2)(B)(vi), (vii), (f)(1)(A), (g)(1)(B), and (h), was in the original "this Act", meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f)(1)(A). Pub. L. 113–56, §2(1), substituted "coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2018" for "5 coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2013".
+
+Subsec. (f)(1)(C)(ii). Pub. L. 113–56, §2(2)(A), substituted "2010 through 2013 plans" for "Subsequent plans" in heading and "the plans for fiscal years 2010 through 2013" for "the last four plans" in text.
+
+Subsec. (f)(1)(C)(iii), (iv). Pub. L. 113–56, §2(2)(B), added cls. (iii) and (iv).
+
+Subsec. (g)(1). Pub. L. 113–56, §3(a)(1), substituted "through September 30, 2019" for "through September 30, 2013" in introductory provisions.
+
+Subsec. (g)(2), (3). Pub. L. 113–56, §3(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (g)(4). Pub. L. 113–56, §3(a)(4), added par. (4).
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–293, §101(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) required the President to establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthened the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS and set out standards in pars. (1) to (10) for this strategy.
 

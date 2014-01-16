@@ -4,11 +4,11 @@
 
 &emsp;(1) The Secretary of Defense shall settle—
 
-&emsp;&emsp;(A) claims involving uniformed service members’ pay, allowances, travel, transportation, payments for unused accrued leave, retired pay, and survivor benefits; and
+&emsp;&emsp;(A) claims involving uniformed service members' pay, allowances, travel, transportation, payments for unused accrued leave, retired pay, and survivor benefits; and
 
 &emsp;&emsp;(B) claims by transportation carriers involving amounts collected from them for loss or damage incurred to property incident to shipment at Government expense.
 
-&emsp;(2) The Director of the Office of Personnel Management shall settle claims involving Federal civilian employees’ compensation and leave.
+&emsp;(2) The Director of the Office of Personnel Management shall settle claims involving Federal civilian employees' compensation and leave.
 
 &emsp;(3) The Administrator of General Services shall settle claims involving expenses incurred by Federal civilian employees for official travel and transportation, and for relocation expenses incident to transfers of official duty station.
 
@@ -28,7 +28,7 @@
 
 One-Year Limit for Check Claims.—(1) Any claim on account of a Treasury check shall be barred unless it is presented to the agency that authorized the issuance of such check within 1 year after the date of issuance of the check or the effective date of this subsection, whichever is later.
 
-(2) Nothing in this subsection affects the underlying obligation of the United States, or any agency thereof, for which a Treasury check was issued.
+(2) Nothing in this subsection affects the underlying obligation of the United States, or anyagency thereof, for which a Treasury check was issued.
 
 (d) The official responsible under subsection (a) for settling the claim shall report to Congress on a claim against the Government that is timely presented under this section that may not be adjusted by using an existing appropriation, and that the official believes Congress should consider for legal or equitable reasons. The report shall include recommendations of the official.
 
@@ -106,19 +106,19 @@ June 22, 1926, ch. 650, §2, 44 Stat. 761; Aug. 28, 1957, Pub. L. 85–183, §3(
 
 Apr. 10, 1928, ch. 334, 45 Stat. 413.
 
-In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
+In the section, the words "Comptroller General" are substituted for "General Accounting Office" for consistency.
 
-In subsection (a), the words “Except as provided in this chapter or another law” are added for clarity. The words “and demands whatever” and “and adjusted” are omitted as surplus. The words “officers or employees of the General Accounting Office” are substituted for “of his subordinates” for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words "Except as provided in this chapter or another law" are added for clarity. The words "and demands whatever" and "and adjusted" are omitted as surplus. The words "officers or employees of the General Accounting Office" are substituted for "of his subordinates" for clarity and consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b)(1), before clause (A), the words “or demand” are omitted as surplus. The word “Government” is substituted for “United States” for consistency in the revised title and with other titles of the Code. The word “representative” is substituted for “agent or attorney” to eliminate unnecessary words. The words “received by the Comptroller General” are substituted for “received in said office” for clarity and consistency. The words “the date” are omitted as surplus. Clause (A) is added for clarity. In clause (B), the words “cognizable by the General Accounting Office under sections 71 and 236 of this title” are omitted as unnecessary because of the restatement.
+In subsection (b)(1), before clause (A), the words "or demand" are omitted as surplus. The word "Government" is substituted for "United States" for consistency in the revised title and with other titles of the Code. The word "representative" is substituted for "agent or attorney" to eliminate unnecessary words. The words "received by the Comptroller General" are substituted for "received in said office" for clarity and consistency. The words "the date" are omitted as surplus. Clause (A) is added for clarity. In clause (B), the words "cognizable by the General Accounting Office under sections 71 and 236 of this title" are omitted as unnecessary because of the restatement.
 
-In subsection (b)(2), the words “member of the armed forces” are substituted for “person serving in the military or naval forces of the United States” for consistency with title 10. The words “to the Comptroller General” are added for clarity.
+In subsection (b)(2), the words "member of the armed forces" are substituted for "person serving in the military or naval forces of the United States" for consistency with title 10. The words "to the Comptroller General" are added for clarity.
 
-In subsection (b)(3), the words “to the claimant” are omitted as surplus. The words “not received in the time required” are substituted for “barred by” because of the restatement. The words “no further communication is required” are substituted for “such action shall be a complete response without further communication” to eliminate unnecessary words.
+In subsection (b)(3), the words "to the claimant" are omitted as surplus. The words "not received in the time required" are substituted for "barred by" because of the restatement. The words "no further communication is required" are substituted for "such action shall be a complete response without further communication" to eliminate unnecessary words.
 
-In subsection (c), the text of 31:122(1st sentence words before 2d comma and last sentence) is omitted as executed. The words “Secretary of the Treasury” are substituted for “Treasury Department” for consistency. The word “Secretary” is substituted for “Treasurer of the United States” because of Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280).
+In subsection (c), the text of 31:122(1st sentence words before 2d comma and last sentence) is omitted as executed. The words "Secretary of the Treasury" are substituted for "Treasury Department" for consistency. The word "Secretary" is substituted for "Treasurer of the United States" because of Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280).
 
-In subsection (d), the words “report . . . on” are substituted for “submit the same . . . by a special report . . . the material facts” to eliminate unnecessary words. The words “or demand” are omitted as surplus. The word “Government” is substituted for “United States”, and the words “presented under this section” are substituted for “filed in the General Accounting Office” for consistency. The words “lawfully”, “the use of”, and “thereon” are omitted as surplus.
+In subsection (d), the words "report . . . on" are substituted for "submit the same . . . by a special report . . . the material facts" to eliminate unnecessary words. The words "or demand" are omitted as surplus. The word "Government" is substituted for "United States", and the words "presented under this section" are substituted for "filed in the General Accounting Office" for consistency. The words "lawfully", "the use of", and "thereon" are omitted as surplus.
 
 #### 1983 Act
 
@@ -132,37 +132,37 @@ The effective date of this subsection, referred to in subsec. (c)(1), probably m
 
 <b>2006</b>—Subsec. (e)(1). Pub. L. 109–163 amended directory language of Pub. L. 107–314, §635(a). See 2002 Amendment note below.
 
-<b>2002</b>—Subsec. (e)(1). Pub. L. 107–314, §635(b)(1), substituted “The Secretary of Defense” for “Upon the request of the Secretary concerned (as defined in section 101 of title 37, United States Code), the Secretary of Defense”, struck out “and, subject to paragraph (2), settle the claim” before period at end of first sentence, and inserted at end “In the case of a claim by or with respect to a member of the uniformed services who is not under the jurisdiction of the Secretary of a military department, such a waiver may be made only upon the request of the Secretary concerned (as defined in section 101 of title 37).”
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–314, §635(b)(1), substituted "The Secretary of Defense" for "Upon the request of the Secretary concerned (as defined in section 101 of title 37, United States Code), the Secretary of Defense", struck out "and, subject to paragraph (2), settle the claim" before period at end of first sentence, and inserted at end "In the case of a claim by or with respect to a member of the uniformed services who is not under the jurisdiction of the Secretary of a military department, such a waiver may be made only upon the request of the Secretary concerned (as defined in section 101 of title 37)."
 
-Pub. L. 107–314, §635(a), as amended by Pub. L. 109–163, substituted “a claim referred to in subsection (a)(1)(A)” for “a claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10”.
+Pub. L. 107–314, §635(a), as amended by Pub. L. 109–163, substituted "a claim referred to in subsection (a)(1)(A)"for "a claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10".
 
-Subsec. (e)(2). Pub. L. 107–314, §635(b)(2), substituted “under subsection (a)(1)(A)” for “under paragraph (1)” and inserted before period at end “, except that in the case of a claim for retired pay or survivor benefits, if the obligation claimed would have been paid from a trust fund if timely paid, the payment of the claim shall be made from that trust fund”.
+Subsec. (e)(2). Pub. L. 107–314, §635(b)(2), substituted "under subsection (a)(1)(A)" for "under paragraph (1)" and inserted before period at end ", except that in the case of a claim for retired pay or survivor benefits, if the obligation claimed would have been paid from a trust fund if timely paid, the payment of the claim shall be made from that trust fund".
 
-<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(a)\], inserted “payments for unused accrued leave,” after “transportation,”.
+<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(a)\], inserted "payments for unused accrued leave," after "transportation,".
 
-Subsec. (e)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(b)\], substituted “claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10” for “claim for pay or allowances provided under title 37”.
+Subsec. (e)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(b)\], substituted "claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10" for "claim for pay or allowances provided under title 37".
 
-<b>1997</b>—Subsec. (e)(1). Pub. L. 105–85, §1012(1), substituted “Secretary of Defense” for “Comptroller General”.
+<b>1997</b>—Subsec. (e)(1). Pub. L. 105–85, §1012(1), substituted "Secretary of Defense" for "Comptroller General".
 
-Subsec. (e)(2). Pub. L. 105–85, §1012(2), added par. (2) and struck out former par. (2) which read as follows: “Payment of a claim settled under paragraph (1) shall be subject to the availability of appropriations for payment of that particular claim.”
+Subsec. (e)(2). Pub. L. 105–85, §1012(2), added par. (2) and struck out former par. (2) which read as follows: "Payment of a claim settled under paragraph (1) shall be subject to the availability of appropriations for payment of that particular claim."
 
-<b>1996</b>—Pub. L. 104–316, §202(n)(1)(A), struck out “of the Comptroller General” after “Authority” in section catchline.
+<b>1996</b>—Pub. L. 104–316, §202(n)(1)(A), struck out "of the Comptroller General" after "Authority" in section catchline.
 
-Subsec. (a). Pub. L. 104–316, §202(n)(1)(B), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as provided in this chapter or another law, the Comptroller General shall settle all claims of or against the United States Government. A claim that was not administratively examined before submission to the Comptroller General shall be examined by 2 officers or employees of the General Accounting Office independently of each other.”
+Subsec. (a). Pub. L. 104–316, §202(n)(1)(B), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Except as provided in this chapter or another law, the Comptroller General shall settle all claims of or against the United States Government. A claim that was not administratively examined before submission to the Comptroller General shall be examined by 2 officers or employees of the General Accounting Office independently of each other."
 
-Subsec. (b)(1). Pub. L. 104–316, §202(n)(1)(C), in introductory provisions substituted “The claim must be received by the official responsible under subsection (a) for settling the claim or by the agency that conducts the activity from which the claim arises within 6 years after the claim accrues except—” for “The claim must be received by the Comptroller General within 6 years after the claim accrues except—”.
+Subsec. (b)(1). Pub. L. 104–316, §202(n)(1)(C), in introductory provisions substituted "The claim must be received by the official responsible under subsection (a) for settling the claim or by the agency that conducts the activity from which the claim arises within 6 years after the claim accrues except—" for "The claim must be received by the Comptroller General within 6 years after the claim accrues except—".
 
-Subsec. (b)(2). Pub. L. 104–316, §202(n)(1)(D), substituted “received” for “presented to the Comptroller General” and “in paragraph” for “in clause”.
+Subsec. (b)(2). Pub. L. 104–316, §202(n)(1)(D), substituted "received" for "presented to the Comptroller General" and "in paragraph" for "in clause".
 
-Subsec. (b)(3). Pub. L. 104–316, §202(n)(1)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Comptroller General shall return a claim not received in the time required under this subsection with a copy of this subsection and no further communication is required.”
+Subsec. (b)(3). Pub. L. 104–316, §202(n)(1)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Comptroller General shall return a claim not received in the time required under this subsection with a copy of this subsection and no further communication is required."
 
-Subsec. (d). Pub. L. 104–316, §202(n)(1)(F), substituted “official responsible under subsection (a) for settling the claim” for “Comptroller General” before “shall report to Congress” and “official” for “Comptroller General” before “believes” and before period at end.
+Subsec. (d). Pub. L. 104–316, §202(n)(1)(F), substituted "official responsible under subsection (a) for settling the claim" for "Comptroller General" before "shall report to Congress" and "official" for "Comptroller General" before "believes" and before period at end.
 
 Subsec. (e). Pub. L. 104–201 added subsec. (e).
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–86 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A claim on a check or warrant that the records of the Comptroller General or the Secretary of the Treasury show as being paid must be presented to the Comptroller General or the Secretary within 6 years after the check or warrant was issued.”
+<b>1987</b>—Subsec. (c). Pub. L. 100–86 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "A claim on a check or warrant that the records of the Comptroller General or the Secretary of the Treasury show as being paid must be presented to the Comptroller General or the Secretary within 6 years after the check or warrant was issued."
 
-<b>1983</b>—Subsec. (b)(2). Pub. L. 97–452 inserted “this” before “subsection”.
+<b>1983</b>—Subsec. (b)(2). Pub. L. 97–452 inserted "this" before "subsection".
 
 #### Effective Date of 2006 Amendment
 
@@ -170,7 +170,7 @@ Pub. L. 109–163, div. A, title X, §1056(e)(2), Jan. 6, 2006, 119 Stat. 3440, 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VI, §635(c), Dec. 2, 2002, 116 Stat. 2574, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to claims against the United States presented to the Secretary of Defense under section 3702 of title 31, United States Code, on or after the date of the enactment of this Act \[Dec. 2, 2002\].”
+Pub. L. 107–314, div. A, title VI, §635(c), Dec. 2, 2002, 116 Stat. 2574, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to claims against the United States presented to the Secretary of Defense under section 3702 of title 31, United States Code, on or after the date of the enactment of this Act \[Dec. 2, 2002\]."
 
 #### Effective Date of 1987 Amendment
 

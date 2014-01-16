@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [10501\.](%C2%A7%2010501%20-%20Application.md) | Application. |
 | [10502\.](%C2%A7%2010502%20-%20Shipping%20articles%20agreements.md) | Shipping articles agreements. |
-| [10503\.](%C2%A7%2010503%20-%20Exhibiting%20merchant%20mariners%E2%80%99%20documents.md) | Exhibiting merchant mariners’ documents. |
+| [10503\.](%C2%A7%2010503%20-%20Exhibiting%20merchant%20mariners%27%20documents.md) | Exhibiting merchant mariners' documents. |
 | [10504\.](%C2%A7%2010504%20-%20Wages.md) | Wages. |
 | [10505\.](%C2%A7%2010505%20-%20Advances.md) | Advances. |
 | [10506\.](%C2%A7%2010506%20-%20Trusts.md) | Trusts. |
@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–206, title IV, §415(b), Dec. 20, 1993, 107 Stat. 2438, struck out item 10507 “Duties of shipping commissioners”.
+<b>1993</b>—Pub. L. 103–206, title IV, §415(b), Dec. 20, 1993, 107 Stat. 2438, struck out item 10507 "Duties of shipping commissioners".
 
 
 ---
@@ -25,7 +25,7 @@
 
 - [&sect; 10501 - Application](%C2%A7%2010501%20-%20Application.md)
 - [&sect; 10502 - Shipping articles agreements](%C2%A7%2010502%20-%20Shipping%20articles%20agreements.md)
-- [&sect; 10503 - Exhibiting merchant mariners&#8217; documents](%C2%A7%2010503%20-%20Exhibiting%20merchant%20mariners%E2%80%99%20documents.md)
+- [&sect; 10503 - Exhibiting merchant mariners' documents](%C2%A7%2010503%20-%20Exhibiting%20merchant%20mariners%27%20documents.md)
 - [&sect; 10504 - Wages](%C2%A7%2010504%20-%20Wages.md)
 - [&sect; 10505 - Advances](%C2%A7%2010505%20-%20Advances.md)
 - [&sect; 10506 - Trusts](%C2%A7%2010506%20-%20Trusts.md)

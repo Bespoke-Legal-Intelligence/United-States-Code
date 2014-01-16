@@ -6,15 +6,15 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Contract.—The term “contract” means a contract awarded by the head of an executive agency.
+Contract.—The term "contract" means a contract awarded by the head of an executive agency.
 
 &emsp;(2)
 
-Contractor.—The term “contractor” means a person awarded a contract with an executive agency.
+Contractor.—The term "contractor" means a person awarded a contract with an executive agency.
 
 &emsp;(3)
 
-Inspector general.—The term “Inspector General” means an Inspector General appointed under the Inspector General Act of 1978 (5 U.S.C. App.).
+Inspector general.—The term "Inspector General" means an Inspector General appointed under the Inspector General Act of 1978 (5 U.S.C. App.).
 
 (b)
 
@@ -42,11 +42,11 @@ Reinstatement.—Order the contractor to reinstate the individual to the positio
 
 &emsp;&emsp;(C)
 
-Payment.—Order the contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that the complainant reasonably incurred for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.
+Payment.—Order the contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys' fees and expert witnesses' fees) that the complainant reasonably incurred for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.
 
 &emsp;(2)
 
-Enforcement order.—When a contractor fails to comply with an order issued under paragraph (1), the head of the executive agency shall file an action for enforcement of the order in the United States district court for a district in which the reprisal was found to have occurred. In an action brought under this paragraph, the court may grant appropriaterelief, including injunctive relief and compensatory and exemplary damages.
+Enforcement order.—When a contractor fails to comply with an order issued under paragraph (1), the head of the executive agency shall file an action for enforcement of the order in the United States district court for a district in which the reprisal was found to have occurred. In an action brought under this paragraph, the court may grant appropriate relief, including injunctive relief and compensatory and exemplary damages.
 
 &emsp;(3)
 
@@ -98,7 +98,7 @@ June 30, 1949, ch. 288, title III, §315, as added Pub. L. 103–355, title VI, 
 
 41:265(d).
 
-In subsection (d)(2), the word “contractor” is substituted for “person” for clarity and for consistency with subsection (d)(1).
+In subsection (d)(2), the word "contractor" is substituted for "person" for clarity and for consistency with subsection (d)(1).
 
 #### References in Text
 

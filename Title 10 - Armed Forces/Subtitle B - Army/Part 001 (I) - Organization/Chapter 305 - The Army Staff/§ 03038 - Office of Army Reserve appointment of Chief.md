@@ -24,7 +24,7 @@ Appointment.—(1) The President, by and with the advice and consent of the Sena
 
 (c)
 
-Term; Reappointment; Grade.—(1) The Chief of Army Reserve is appointed for a period of four years, but may be removed for cause atany time. An officer serving as Chief of Army Reserve may be reappointed for one additional four-year period.
+Term; Reappointment; Grade.—(1) The Chief of Army Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Army Reserve may be reappointed for one additional four-year period.
 
 (2) The Chief of Army Reserve, while so serving, holds the grade of lieutenant general.
 
@@ -50,47 +50,47 @@ A prior section 3038, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, charged Chief 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004” in introductory provisions.
+<b>2004</b>—Subsec. (b)(4). Pub. L. 108–375 substituted "December 31, 2006" for "December 31, 2004" in introductory provisions.
 
-<b>2002</b>—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003” in introductory provisions.
+<b>2002</b>—Subsec. (b)(4). Pub. L. 107–314 substituted "December 31, 2004" for "October 1, 2003" in introductory provisions.
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–398 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Army Reserve from officers of the Army Reserve not on active duty, or on active duty under section 10211 of this title, who—
+<b>2000</b>—Subsec. (b). Pub. L. 106–398 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The President, by and with the advice and consent of the Senate, shall appoint the Chief of Army Reserve from officers of the Army Reserve not on active duty, or on active duty under section 10211 of this title, who—
 
-&emsp;“(1) have had at least 10 years of commissioned service in the Army Reserve;
+&emsp;"(1) have had at least 10 years of commissioned service in the Army Reserve;
 
-&emsp;“(2) are in grade of brigadier general and above; and
+&emsp;"(2) are in grade of brigadier general and above; and
 
-&emsp;“(3) have been recommended by the Secretary of the Army.”
+&emsp;"(3) have been recommended by the Secretary of the Army."
 
-Subsec. (c). Pub. L. 106–398 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Chief of Army Reserve holds office for four years but may be removed for cause at any time. He is eligible to succeed himself. If he holds a lower reserve grade, he shall be appointed in the grade of major general for service in the Army Reserve. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
+Subsec. (c). Pub. L. 106–398 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Chief of Army Reserve holds office for four years but may be removed for cause at any time. He is eligible to succeed himself. If he holds a lower reserve grade, he shall be appointed in the grade of major general for service in the Army Reserve. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general."
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–65 inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 inserted at end "However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general."
 
 <b>1996</b>—Subsecs. (d) to (f). Pub. L. 104–201 added subsecs. (d) to (f).
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–337 substituted “10211” for “265”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–337 substituted "10211" for "265".
 
 <b>1986</b>—Pub. L. 99–433, §501(a)(4), renumbered section 3019 of this title as this section.
 
-Subsec. (c). Pub. L. 99–433, §502(g)(1), substituted “service” for “services”.
+Subsec. (c). Pub. L. 99–433, §502(g)(1), substituted "service" for "services".
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 
 Pub. L. 106–65, div. A, title V, §554(g), (h), Oct. 5, 1999, 113 Stat. 617, provided that:
 
-“(g)
+"(g)
 
 Effective Date.—The amendments made by this section \[enacting section 12505 of this title and amending this section and sections 5143, 5144, 8038, and 10506 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 5, 1999\].
 
-“(h)
+"(h)
 
 Applicability to Incumbents.—(1) If an officer who is a covered position incumbent is appointed under the amendments made by this section to the grade of lieutenant general or vice admiral, the term of service of that officer in that covered position shall not be extended by reason of such appointment.
 
-“(2) For purposes of this subsection:
+"(2) For purposes of this subsection:
 
-&emsp;“(A) The term ‘covered position incumbent’ means a reserve component officer who on the effective date specified in subsection (g) is serving in a covered position.
+&emsp;"(A) The term 'covered position incumbent' means a reserve component officer who on the effective date specified in subsection (g) is serving in a covered position.
 
-&emsp;“(B) The term ‘covered position’ means a position specified in section 12505 of title 10, United States Code, as added by subsection (a).”
+&emsp;"(B) The term 'covered position' means a position specified in section 12505 of title 10, United States Code, as added by subsection (a)."
 
 #### Effective Date of 1994 Amendment
 

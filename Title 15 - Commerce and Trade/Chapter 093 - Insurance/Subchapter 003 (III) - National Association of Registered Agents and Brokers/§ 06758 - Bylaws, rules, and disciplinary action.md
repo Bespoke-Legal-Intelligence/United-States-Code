@@ -76,7 +76,7 @@
 
 #### (B) Approval before end of notice period
 
-&emsp;&emsp;The NAIC shall not approve any proposed rule before the end of the 30-day period beginning on the date on which the Association files proposed rules or amendments in accordance with paragraph (1), unless theNAIC finds good cause for so doing and sets forth the reasons for so finding.
+&emsp;&emsp;The NAIC shall not approve any proposed rule before the end of the 30-day period beginning on the date on which the Association files proposed rules or amendments in accordance with paragraph (1), unless the NAIC finds good cause for so doing and sets forth the reasons for so finding.
 
 #### (5) Alternate procedure
 
@@ -110,7 +110,7 @@ The NAIC may, in accordance with such rules as the NAIC determines to be necessa
 
 #### (1) Specification of charges
 
-&emsp;In any proceeding to determine whether membership shall be denied, suspended, revoked, or not renewed (hereafter in this section referred to as a “disciplinary action”), the Association shall bring specific charges, notify such member of such charges, give the member an opportunity to defend against the charges, and keep a record.
+&emsp;In any proceeding to determine whether membership shall be denied, suspended, revoked, or not renewed (hereafter in this section referred to as a "disciplinary action"), the Association shall bring specific charges, notify such member of such charges, give the member an opportunity to defend against the charges, and keep a record.
 
 #### (2) Supporting statement
 

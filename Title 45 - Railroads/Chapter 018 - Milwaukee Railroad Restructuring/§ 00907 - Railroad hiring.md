@@ -6,7 +6,7 @@ Each person who is an employee of the Milwaukee Railroad on September 30, 1979, 
 
 #### Amendments
 
-<b>1983</b>—Pub. L. 97–468 substituted “April 1, 1984” for “April 1, 1981”.
+<b>1983</b>—Pub. L. 97–468 substituted "April 1, 1984" for "April 1, 1981".
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

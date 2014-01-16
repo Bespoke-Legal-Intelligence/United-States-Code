@@ -89,43 +89,43 @@ Oct. 12, 1949, ch. 681, §201(e); added Mar. 31, 1955, ch. 20, §2(3), 69 Stat. 
 
 37:232(c) (less last sentence).
 
-Oct. 12, 1949, ch. 681, §201(c) (less last sentence), 63 Stat. 807; redesignated as “(c)” by Mar. 31, 1955, ch. 20, §2(2), 69 Stat. 19; May 20, 1958, Pub. L. 85–422, §1(3) (first sentence), 72 Stat. 124.
+Oct. 12, 1949, ch. 681, §201(c) (less last sentence), 63 Stat. 807; redesignated as "(c)" by Mar. 31, 1955, ch. 20, §2(2), 69 Stat. 19; May 20, 1958, Pub. L. 85–422, §1(3) (first sentence), 72 Stat. 124.
 
-In subsection (a), the words “whether under temporary or permanent appointment” are omitted as surplusage. The words “the following pay grades” are substituted for the words “the various pay grades prescribed for commissioned officers by subsection (a) of this section, as follows”. The words “(other than a commissioned warrant officer)” are inserted to conform to the definition of “warrant officer” in section 101(13) of this revised title.
+In subsection (a), the words "whether under temporary or permanent appointment" are omitted as surplusage. The words "the following pay grades" are substituted for the words "the various pay grades prescribed for commissioned officers by subsection (a) of this section, as follows". The words "(other than a commissioned warrant officer)" are inserted to conform to the definition of "warrant officer" in section 101(13) of this revised title.
 
-In subsection (b), the words “with two or less years of service computed under section 205 of this title” are substituted for the word “minimum”.
+In subsection (b), the words "with two or less years of service computed under section 205 of this title" are substituted for the word "minimum".
 
-In subsections (c) and (e), the words “with two or less years of service computed under section 205 of this title” are substituted for the words “with under two cumulative years’ service” and “with under two cumulative years of service”, in sections 308 and 232(e), respectively, of existing title 37.
+In subsections (c) and (e), the words "with two or less years of service computed under section 205 of this title" are substituted for the words "with under two cumulative years' service" and "with under two cumulative years of service", in sections 308 and 232(e), respectively, of existing title 37.
 
-In subsection (e), the words “enlisted or appointed under the Army Aviation Cadet Act, as amended, or under the Naval Aviation Cadet Act of 1942, as amended” are omitted as obsolete and surplusage. Both of the cited acts were repealed by section 53 of the Act of August 10, 1956, ch. 1041 (70A Stat. 641), and replaced by various sections of title 10. Further reference is surplusage, however, since aviation cadets are not appointed or enlisted under any provision of law other than the sections of title 10 embodying the former Army Aviation Cadet Act and the Naval Aviation Cadet Act of 1942. The word “basic” is inserted for clarity, since the word “pay” as defined in section 101(21) of this revised title includes special and incentive pays. Incentive pay for aviation cadets is provided in section 301(b) of this revised title.
+In subsection (e), the words "enlisted or appointed under the Army Aviation Cadet Act, as amended, or under the Naval Aviation Cadet Act of 1942, as amended" are omitted as obsolete and surplusage. Both of the cited acts were repealed by section 53 of the Act of August 10, 1956, ch. 1041 (70A Stat. 641), and replaced by various sections of title 10. Further reference is surplusage, however, since aviation cadets are not appointed or enlisted under any provision of law other than the sections of title 10 embodying the former Army Aviation Cadet Act and the Naval Aviation Cadet Act of 1942. The word "basic" is inserted for clarity, since the word "pay" as defined in section 101(21) of this revised title includes special and incentive pays. Incentive pay for aviation cadets is provided in section 301(b) of this revised title.
 
-In subsection (f), the words “While on active duty”, in section 6915(f) of title 10 and section 758a(f) of title 14, are omitted as covered by section 204 of this title which prescribes the conditions under which members of the uniformed services are entitled to basic pay. The words “Unless he is entitled to the basic pay of a higher pay grade” are substituted for the words “or that of his grade, whichever is greater” in section 6915(f) of title 10 and section 758a(f) of title 14.
+In subsection (f), the words "While on active duty", in section 6915(f) of title 10 and section 758a(f) of title 14, are omitted as covered by section 204 of this title which prescribes the conditions under which members of the uniformed services are entitled to basic pay. The words "Unless he is entitled to the basic pay of a higher pay grade" are substituted for the words "or that of his grade, whichever is greater" in section 6915(f) of title 10 and section 758a(f) of title 14.
 
-In subsection (g), the words “Except as provided by subsections (e) and (f)” are inserted to reflect those subsections relating to enlisted aviation cadets or aviation pilots.
+In subsection (g), the words "Except as provided by subsections (e) and (f)" are inserted to reflect those subsections relating to enlisted aviation cadets or aviation pilots.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–190, §1111(b), amended table generally, adding provisions relating to Chief Warrant Officer at grade W–5.
 
-Subsec. (c). Pub. L. 102–190, §605, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “An aviation cadet of the Navy, Air Force, Marine Corps, or Coast Guard is entitled to monthly basic pay at the rate of 50 percent of the basic pay of a commissioned officer in pay grade O–1 with two or less years of service computed under section 205 of this title.”
+Subsec. (c). Pub. L. 102–190, §605, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "An aviation cadet of the Navy, Air Force, Marine Corps, or Coast Guard is entitled to monthly basic pay at the rate of 50 percent of the basic pay of a commissioned officer in pay grade O–1 with two or less years of service computed under section 205 of this title."
 
-Subsec. (e). Pub. L. 102–25 struck out “of this section” after “subsections (c) and (d)”.
+Subsec. (e). Pub. L. 102–25 struck out "of this section" after "subsections (c) and (d)".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–502 inserted “Assistant Secretary for Health” in fourth column of table in pay grade O–10.
+<b>1990</b>—Subsec. (a). Pub. L. 101–502 inserted "Assistant Secretary for Health" in fourth column of table in pay grade O–10.
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “Rear admiral (lower half)” for “Commodore” in third column of table in pay grade O–7.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted "Rear admiral (lower half)" for "Commodore" in third column of table in pay grade O–7.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–557 substituted “Rear admiral” for “Rear admiral (Navy) and Rear admiral (upper half)(Coast Guard and National Oceanic and Atmospheric Administration)” in third column of table in pay grade O–8, and in pay grade O–7 substituted “Commodore” for “Commodore (Navy) and Rear admiral (lower half) and commodore (Coast Guard and National Oceanic and Atmospheric Administration”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–557 substituted "Rear admiral" for "Rear admiral (Navy) and Rear admiral (upper half)(Coast Guard and National Oceanic and Atmospheric Administration)" in third column of table in pay grade O–8, and in pay grade O–7 substituted "Commodore" for "Commodore (Navy) and Rear admiral (lower half) and commodore (Coast Guard and National Oceanic and Atmospheric Administration".
 
-<b>1983</b>—Subsecs. (b) to (f). Pub. L. 98–94 struck out subsec. (b) which related to basic pay for contract surgeons, redesignated subsecs. (c) to (f) as (b) to (e), respectively, and in subsec. (e), as so redesignated, substituted “subsections (c) and (d)” for “subsections (d) and (e)”.
+<b>1983</b>—Subsecs. (b) to (f). Pub. L. 98–94 struck out subsec. (b) which related to basic pay for contract surgeons, redesignated subsecs. (c) to (f) as (b) to (e), respectively, and in subsec. (e), as so redesignated, substituted "subsections (c) and (d)" for "subsections (d) and (e)".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–86 substituted “Commodore” for “Commodore admiral” in third column of table in pay grade O–7.
+<b>1981</b>—Subsec. (a). Pub. L. 97–86 substituted "Commodore" for "Commodore admiral" in third column of table in pay grade O–7.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513, §506(3), substituted in heading of third column of table “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration” and in third column “Rear admiral (Navy) and Rear admiral (upper half) (Coast Guard and National Oceanic and Atmospheric Administration)” for “Rear admiral (upper half)” and “Commodore admiral (Navy) and Rear admiral (lower half) and commodore (Coast Guard and National Oceanic and Atmospheric Administration)” for “Rear admiral (lower half) and commodore”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §506(3), substituted in heading of third column of table "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration" and in third column "Rear admiral (Navy) and Rear admiral (upper half) (Coast Guard and National Oceanic and Atmospheric Administration)" for "Rear admiral (upper half)" and "Commodore admiral (Navy) and Rear admiral (lower half) and commodore (Coast Guard and National Oceanic and Atmospheric Administration)" for "Rear admiral (lower half) and commodore".
 
-Subsec. (f). Pub. L. 96–513, §516(2), substituted “subsection (d)” for “subsection (f)”.
+Subsec. (f). Pub. L. 96–513, §516(2), substituted "subsection (d)" for "subsection (f)".
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–76 transferred the Surgeon General from pay grade O–8 to pay grade O–9 in fourth column of table.
 
@@ -133,9 +133,9 @@ Subsec. (f). Pub. L. 96–513, §516(2), substituted “subsection (d)” for �
 
 <b>1970</b>—Subsec. (e). Pub. L. 91–278 entitled aviation cadets of Coast Guard to basic pay rate.
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in heading of third column of table.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey" in heading of third column of table.
 
-<b>1963</b>—Subsec. (b). Pub. L. 88–132 substituted “O–3 with over four, but not more than six,” for “O–2 with two or less”.
+<b>1963</b>—Subsec. (b). Pub. L. 88–132 substituted "O–3 with over four, but not more than six," for "O–2 with two or less".
 
 #### Effective Date of 1991 Amendment
 
@@ -143,7 +143,7 @@ Amendment by section 1111(b) of Pub. L. 102–190 effective Feb. 1, 1992, see se
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–502, §5(k)(3), Nov. 3, 1990, 104 Stat. 1289, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 207 of Title 42, The Public Health and Welfare\] shall take effect on the first day of the month immediately following the month in which this Act was enacted \[November 1990\].”
+Pub. L. 101–502, §5(k)(3), Nov. 3, 1990, 104 Stat. 1289, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section and section 207 of Title 42, The Public Health and Welfare\] shall take effect on the first day of the month immediately following the month in which this Act was enacted \[November 1990\]."
 
 #### Effective Date of 1983 Amendment
 
@@ -163,7 +163,7 @@ Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 
 
 #### Effective Date of 1963 Amendment
 
-Pub. L. 88–132, §14, Oct. 2, 1963, 77 Stat. 218, provided that: “This Act \[see Short Title of 1963 Amendment note set out under section 101 of this title\] becomes effective on October 1, 1963.”
+Pub. L. 88–132, §14, Oct. 2, 1963, 77 Stat. 218, provided that: "This Act \[see Short Title of 1963 Amendment note set out under section 101 of this title\] becomes effective on October 1, 1963."
 
 #### Transfer of Functions
 

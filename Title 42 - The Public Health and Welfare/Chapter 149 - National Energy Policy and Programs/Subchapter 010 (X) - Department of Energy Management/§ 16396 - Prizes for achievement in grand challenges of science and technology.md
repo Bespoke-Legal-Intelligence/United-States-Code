@@ -44,7 +44,7 @@ There are authorized to be appropriated—
 
 #### (C) Administering the competitions
 
-&emsp;&emsp;The Secretary shall enter into an agreement with a private, nonprofit entity to administer the prize competitions under this subsection, subject to the provisions of this subsection (in this subsection referred to as the “administering entity”). The duties of the administering entity under the agreement shall include—
+&emsp;&emsp;The Secretary shall enter into an agreement with a private, nonprofit entity to administer the prize competitions under this subsection, subject to the provisions of this subsection (in this subsection referred to as the "administering entity"). The duties of the administering entity under the agreement shall include—
 
 &emsp;&emsp;&emsp;(i) advertising prize competitions under this subsection and their results;
 
@@ -54,7 +54,7 @@ There are authorized to be appropriated—
 
 &emsp;&emsp;&emsp;(iv) determining, in consultation with the Secretary, the appropriate amount and funding sources for each prize to be awarded under this subsection, subject to the final approval of the Secretary with respect to Federal funding;
 
-&emsp;&emsp;&emsp;(v) providing advice and consultation to the Secretary on the selection of judges in accordance with paragraph (2)(D), using criteria developed in consultation with and subject to the final approval of the Secretary; and
+&emsp;&emsp;&emsp;(v) providing advice and consultation to the Secretary on the selection of judges inaccordance with paragraph (2)(D), using criteria developed in consultation with and subject to the final approval of the Secretary; and
 
 &emsp;&emsp;&emsp;(vi) protecting against the administering entity's unauthorized use or disclosure of a registered participant's trade secrets and confidential business information. Any information properly identified as trade secrets or confidential business information that is submitted by a participant as part of a competitive program under this subsection may be withheld from public disclosure.
 
@@ -106,7 +106,7 @@ There are authorized to be appropriated—
 
 #### (iii) Transformational technologies
 
-&emsp;&emsp;&emsp;To the extent permitted under paragraph (1)(E), the Secretary shall announce one prize competition authorized under subparagraph (A)(iii) as soon after December 19, 2007, as is practicable. A prize offered under this clause shall be not less than $10,000,000, paid to the winner in a lump sum, and an additional amount paid to the winner as a match for each dollar of private funding raised by the winner for the hydrogen technology beginning on the date the winner was named. The match shall be provided for 3 years after the date the prize winner is named or until the full amount of the prize has been paid out, whichever occurs first. A prize winner may elect to have the match amount paid to another entity that is continuing the development of the winning technology. The Secretary shall announce the rules for receiving the match in the notice required by paragraph (1)(B)(ii). The Secretary shall award a prize under this clause only when a registered participant has met the objective criteria established for the prize pursuant to subparagraph (C) and announced pursuant to paragraph (1)(B)(ii). Not more than $10,000,000 in Federal funds may be used for the prize award under this clause. The administering entity shall seek to raise $40,000,000 toward the matching award under this clause.
+&emsp;&emsp;&emsp;To the extent permitted under paragraph (1)(E), the Secretary shall announce one prize competition authorized under subparagraph (A)(iii) as soon after December 19, 2007, as is practicable. A prize offered under this clause shall be not less than $10,000,000, paid to the winner in a lump sum, and an additional amount paid to the winner as a match for each dollar of private funding raised by the winner for the hydrogen technology beginning on the date the winner was named. The match shall be provided for 3 years after the date the prize winner is named or until the full amount of the prize has been paid out, whichever occurs first. A prize winner may elect to have the match amount paid to another entity that is continuing the development of the winning technology. The Secretary shall announce the rules for receiving the match in the notice required by paragraph (1)(B)(ii). The Secretary shall award a prize under this clause only when a registered participant has met the objective criteria established for the prize pursuant to subparagraph (C) and announced pursuant to paragraph (1)(B)(ii). Not more than $10,000,000 in Federal funds may beused for the prize award under this clause. The administering entity shall seek to raise $40,000,000 toward the matching award under this clause.
 
 #### (C) Criteria
 
@@ -144,7 +144,7 @@ There are authorized to be appropriated—
 
 #### (A) Waiver of liability
 
-&emsp;&emsp;The Secretary may require registered participants to waive claims against the Federal Government and the administering entity (except claims for willful misconduct) for any injury, death, damage, or loss of property, revenue, or profits arising from the registered participants’ participation in a competition under this subsection. The Secretary shall give notice of any waiver required under this subparagraph in the notice required by paragraph (1)(B)(ii). The Secretary may not require a registered participant to waive claims against the administering entity arising out of the unauthorized use or disclosure by the administering entity of the registered participant's trade secrets or confidential business information.
+&emsp;&emsp;The Secretary may require registered participants to waive claims against the Federal Government and the administering entity (except claims for willful misconduct) for any injury, death, damage, or loss of property, revenue, or profits arising from the registered participants' participation in a competition under this subsection. The Secretary shall give notice of any waiver required under this subparagraph in the notice required by paragraph (1)(B)(ii). The Secretary may not require a registered participant to waive claims against the administering entity arising out of the unauthorized use or disclosure by the administering entity of the registered participant's trade secrets or confidential business information.
 
 #### (B) Liability insurance
 

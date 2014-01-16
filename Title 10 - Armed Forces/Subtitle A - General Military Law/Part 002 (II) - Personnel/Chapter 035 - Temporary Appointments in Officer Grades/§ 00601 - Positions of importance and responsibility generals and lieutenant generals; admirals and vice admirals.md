@@ -18,7 +18,7 @@
 
 (2) An officer serving in a grade above major general or rear admiral who holds the permanent grade of brigadier general or rear admiral (lower half) shall be considered for promotion to the permanent grade of major general or rear admiral, as appropriate, as if he were serving in his permanent grade.
 
-(d)(1) When an officer is recommended to the President for an initial appointment to the grade of lieutenant general or vice admiral, or for an initial appointment to the grade of general or admiral, the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense the Chairman's evaluation of the performance of that officer as a member of the Joint Staff and in other joint duty assignments. The Secretary of Defense shall submit the Chairman's evaluation to the President at the same time the recommendation for the appointment is submitted to the President.
+(d)(1) When an officer is recommended to the President for an initial appointment to the grade of lieutenant general or vice admiral, orfor an initial appointment to the grade of general or admiral, the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense the Chairman's evaluation of the performance of that officer as a member of the Joint Staff and in other joint duty assignments. The Secretary of Defense shall submit the Chairman's evaluation to the President at the same time the recommendation for the appointment is submitted to the President.
 
 (2) Whenever a vacancy occurs in a position within the Department of Defense that the President has designated as a position of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral or in an office that is designated by law to carry such a grade, the Secretary of Defense shall inform the President of the qualifications needed by an officer serving in that position or office to carry out effectively the duties and responsibilities of that position or office.
 
@@ -28,27 +28,27 @@
 
 <b>2008</b>—Subsec. (b)(4), (5). Pub. L. 110–181 added par. (4) and redesignated former par. (4) as (5).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106, §403(c)(1), in introductory provisions substituted “designated under subsection (a) or by law” for “of importance and responsibility designated”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §403(c)(1), in introductory provisions substituted "designated under subsection (a) or by law" for "of importance and responsibility designated".
 
-Subsec. (b)(1). Pub. L. 104–106, §403(c)(2), struck out “of importance and responsibility” after “position”.
+Subsec. (b)(1). Pub. L. 104–106, §403(c)(2), struck out "of importance and responsibility" after "position".
 
-Subsec. (b)(2). Pub. L. 104–106, §403(c)(3), substituted “designated under subsection (a) or by law” for “designating”.
+Subsec. (b)(2). Pub. L. 104–106, §403(c)(3), substituted "designated under subsection (a) or by law" for "designating".
 
-Subsec. (b)(4). Pub. L. 104–106, §403(c)(4), inserted “under subsection (a) or by law” after “designated”.
+Subsec. (b)(4). Pub. L. 104–106, §403(c)(4), inserted "under subsection (a) or by law" after "designated".
 
-<b>1991</b>—Subsec. (b)(4). Pub. L. 102–190 substituted “60 days” for “90 days”.
+<b>1991</b>—Subsec. (b)(4). Pub. L. 102–190 substituted "60 days" for "90 days".
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–433 added subsec. (d).
 
-<b>1985</b>—Subsec. (c)(2). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (c)(2). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore".
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–525 amended subsec. (b) generally, which prior to amendment had provided that if the assignment of an officer who was serving in a position designated to carry the grade of general, admiral, lieutenant general, or vice admiral was terminated (1) by the assignment of such officer to another position designated to carry one of those grades, such officers would hold, during the period beginning on the day of that termination and ending on the day before the day on which he assumed the other position, the grade that he had held on the day before the termination; (2) by the hospitalization of such officer, such officer would hold, during the period beginning on the day of that termination and ending on the day he was discharged from the hospital, but not for more than 180 days, the grade that he had held on the day before the termination; or (3) by the retirement of such officer, such officer would hold, during the period beginning on the day of that termination and ending on the day before his retirement, but not for more than 90 days, the grade that he had held on the day before the termination.
 
-<b>1981</b>—Subsec. (c)(2). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+<b>1981</b>—Subsec. (c)(2). Pub. L. 97–86 substituted "commodore" for "commodore admiral".
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–190, div. A, title V, §502(b), Dec. 5, 1991, 105 Stat. 1355, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month that begins more than 90 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div. A, title V, §502(b), Dec. 5, 1991, 105 Stat. 1355, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month that begins more than 90 days after the date of the enactment of this Act \[Dec. 5, 1991\]."
 
 #### Effective Date of 1981 Amendment
 

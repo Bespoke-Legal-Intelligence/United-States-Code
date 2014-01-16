@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 46:1465(b)
 
-Section 2303 requires a master or anyone in charge of a vessel to provide assistance and render aid to those involved in a marine casualty and to exchange information in a manner similar to automobile accident cases. It also includes a “Good Samaritan” clause that exonerates anyone from liability when rendering assistance in an ordinary, reasonable, or prudent manner.
+Section 2303 requires a master or anyone in charge of a vessel to provide assistance and render aid to those involved in a marine casualty and to exchange information in a manner similar to automobile accident cases. It also includes a "Good Samaritan" clause that exonerates anyone from liability when rendering assistance in an ordinary, reasonable, or prudent manner.
 

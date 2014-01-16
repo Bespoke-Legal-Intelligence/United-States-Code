@@ -22,7 +22,7 @@ A creditor may not extend credit in the form of a higher-risk mortgage to any co
 
 #### (3) Certified or licensed appraiser defined
 
-&emsp;For purposes of this section, the term “certified or licensed appraiser” means a person who—
+&emsp;For purposes of this section, the term "certified or licensed appraiser" means a person who—
 
 &emsp;&emsp;(A) is, at a minimum, certified or licensed by the State in which the property to be appraised is located; and
 
@@ -52,7 +52,7 @@ In addition to any other liability to any person under this subchapter, a credit
 
 #### (f) Higher-risk mortgage defined
 
-For purposes of this section, the term “higher-risk mortgage” means a residential mortgage loan, other than a reverse mortgage loan that is a qualified mortgage, as defined in section 1639c of this title, secured by a principal dwelling—
+For purposes of this section, the term "higher-risk mortgage" means a residential mortgage loan, other than a reverse mortgage loan that is a qualified mortgage, as defined in section 1639c of this title, secured by a principal dwelling—
 
 &emsp;(1) that is not a qualified mortgage, as defined in section 1639c of this title; and
 
@@ -60,7 +60,7 @@ For purposes of this section, the term “higher-risk mortgage” means a reside
 
 &emsp;&emsp;(A) by 1.5 or more percentage points, in the case of a first lien residential mortgage loan having an original principal obligation amount that does not exceed the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date of such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12;
 
-&emsp;&emsp;(B) by 2.5 or more percentage points, in the case of a first lien residential mortgage loanhaving an original principal obligation amount that exceeds the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date of such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12; and
+&emsp;&emsp;(B) by 2.5 or more percentage points, in the case of a first lien residential mortgage loan having an original principal obligation amount that exceeds the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date of such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12; and
 
 &emsp;&emsp;(C) by 3.5 or more percentage points for a subordinate lien residential mortgage loan.
 

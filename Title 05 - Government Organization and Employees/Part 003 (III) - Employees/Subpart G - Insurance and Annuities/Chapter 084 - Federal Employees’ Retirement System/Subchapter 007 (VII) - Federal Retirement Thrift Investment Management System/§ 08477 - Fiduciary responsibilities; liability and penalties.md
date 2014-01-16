@@ -80,7 +80,7 @@
 
 &emsp;(A) deal with any assets of the Thrift Savings Fund in his own interest or for his own account;
 
-&emsp;(B) act, in an individual capacity or any other capacity, in any transaction involving the Thrift Savings Fund on behalf of a party, or representing a party, whose interests are adverse to the interests of the Thrift Savings Fund or the interests of its participants or beneficiaries; or
+&emsp;(B) act, in an individual capacity or any other capacity, in any transaction involving the Thrift Savings Fund on behalf of a party,or representing a party, whose interests are adverse to the interests of the Thrift Savings Fund or the interests of its participants or beneficiaries; or
 
 &emsp;(C) receive any consideration for his own personal account from any party dealing with sums credited to the Thrift Savings Fund in connection with a transaction involving assets of the Thrift Savings Fund.
 
@@ -276,7 +276,7 @@ Subsec. (e)(1)(E)(i). Pub. L. 99–556, §114(b), substituted “Secretary of La
 
 #### Effective Date of 1988 Amendments
 
-Pub. L. 100–366, §3(b), July 13, 1988, 102 Stat. 826, provided that: “Section 8477(e) of title 5, United States Code, as amended by subsection (a), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986.”
+Pub. L. 100–366, §3(b), July 13, 1988, 102 Stat. 826, provided that: “Section 8477(e) of title 5, United StatesCode, as amended by subsection (a), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986.”
 
 Pub. L. 100–238, title I, §133(b), Jan. 8, 1988, 101 Stat. 1762, provided that: “The provisions of section 8477(e)(1), (2), (3), (4), (5), and (6) of title 5, United States Code (as amended by subsection (a) of this section), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986.”
 

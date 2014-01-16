@@ -22,9 +22,9 @@ The Indian Self-Determination and Education Assistance Act (Public Law 93–638,
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–284, §10(1), (2), in provisions preceding cl. (a) substituted “this subchapter” for “this section” and struck out “, acting through the Regional Commissions or otherwise,” after “the Secretary of Commerce”.
+<b>1984</b>—Pub. L. 98–284, §10(1), (2), in provisions preceding cl. (a) substituted "this subchapter" for "this section" and struck out ", acting through the Regional Commissions or otherwise," after "the Secretary of Commerce".
 
-Cl. (b). Pub. L. 98–284, §10(3), inserted “having expertise in native agricultural crops which could supply critical agricultural materials”.
+Cl. (b). Pub. L. 98–284, §10(3), inserted "having expertise in native agricultural crops which could supply critical agricultural materials".
 
-Cl. (f). Pub. L. 98–284, §10(4), substituted “the activities authorized by this subchapter” for “natural rubber manufacture”.
+Cl. (f). Pub. L. 98–284, §10(4), substituted "the activities authorized by this subchapter" for "natural rubber manufacture".
 

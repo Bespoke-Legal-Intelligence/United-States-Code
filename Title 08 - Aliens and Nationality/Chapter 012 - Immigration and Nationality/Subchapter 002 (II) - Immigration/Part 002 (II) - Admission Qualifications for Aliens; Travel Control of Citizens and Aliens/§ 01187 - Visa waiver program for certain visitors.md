@@ -122,7 +122,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (E) Repatriation of aliens
 
-&emsp;&emsp;The government of the country accepts for repatriation any citizen, former citizen, or national of the country against whom a final executable order of removal is issued not later than three weeks after the issuance of the final order of removal. Nothing in this subparagraph creates any duty for the United States or any right for any alien with respect to removal or release. Nothing in this subparagraph gives rise to any cause of action or claim under this paragraph or any other law against any official of the United States or of any State to compel the release, removal, or consideration for release or removal of any alien.
+&emsp;&emsp;The government of the country accepts for repatriation any citizen, former citizen, or national of the country against whom a final executable order of removal is issued not later than three weeks after the issuance ofthe final order of removal. Nothing in this subparagraph creates any duty for the United States or any right for any alien with respect to removal or release. Nothing in this subparagraph gives rise to any cause of action or claim under this paragraph or any other law against any official of the United States or of any State to compel the release, removal, or consideration for release or removal of any alien.
 
 #### (F) Passenger information exchange
 
@@ -144,7 +144,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (B) New countries
 
-&emsp;&emsp;In the case of another country, the country may not be designated as a programcountry unless the following requirements are met:
+&emsp;&emsp;In the case of another country, the country may not be designated as a program country unless the following requirements are met:
 
 #### (i) Low nonimmigrant visa refusal rate in previous 2-year period
 
@@ -210,7 +210,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;&emsp;(II) the emergency that caused the termination has ended; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the average number of refusals of nonimmigrant visitor visas for nationalsof that country during the period of termination under this subparagraph was less than 3.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during such period.
+&emsp;&emsp;&emsp;&emsp;(III) the average number of refusals of nonimmigrant visitor visas for nationals of that country during the period of termination under this subparagraph was less than 3.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during such period.
 
 #### (iv) Program suspension authority
 
@@ -252,7 +252,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;(iv) the total number of such nationals who were refused United States visas during the previous calendar year under each provision of this chapter under which the visas were refused; and
 
-&emsp;&emsp;&emsp;(v) the number of such nationals that were refused under section 1184(b) of this title as a percentage of the visas that were issued to such nationals.
+&emsp;&emsp;&emsp;(v) the number of such nationals that were refused under section 1184(b) of thistitle as a percentage of the visas that were issued to such nationals.
 
 #### (C) Certification
 
@@ -334,7 +334,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (10) Technical assistance
 
-&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, shall provide technical assistance to program countries to assist those countries in meeting the requirements under this section. The Secretary of Homeland Security shall ensure that the program office within the Department of Homeland Security is adequately staffed and has resources to be able to provide such technical assistance, in addition to its duties to effectively monitor compliance of the countriesparticipating in the program with all the requirements of the program.
+&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, shall provide technical assistance to program countries to assist those countries in meeting the requirements under this section. The Secretary of Homeland Security shall ensure that the program office within the Department of Homeland Security is adequately staffed and has resources to be able to provide such technical assistance, in addition to its duties to effectively monitor compliance of the countries participating in the program with all the requirements of the program.
 
 #### (11) Independent review
 
@@ -380,7 +380,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (2) Termination of agreements
 
-&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days’ notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
+&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days’notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
 
 #### (3) Business aircraft requirements
 
@@ -390,7 +390,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (B) Collections
 
-&emsp;&emsp;In addition to any other fee authorized by law, the Attorney General is authorized to charge and collect, on a periodic basis, an amount from each domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, for nonimmigrant visa waiver admissions on noncommercial aircraft owned or operated by such domestic corporation equal to the totalamount of fees assessed for issuance of nonimmigrant visa waiver arrival/departure forms at land border ports of entry. All fees collected under this paragraph shall be deposited into the Immigration User Fee Account established under section 1356(h) of this title.
+&emsp;&emsp;In addition to any other fee authorized by law, the Attorney General is authorized to charge and collect, on a periodic basis, an amount from each domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, for nonimmigrant visa waiver admissions on noncommercial aircraft owned or operated by such domestic corporation equal to the total amount of fees assessed for issuance of nonimmigrant visa waiver arrival/departure forms at land border ports of entry. All fees collected under this paragraph shall be deposited into the Immigration User Fee Account established under section 1356(h) of this title.
 
 #### (f) Duration and termination of designation
 
@@ -460,7 +460,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (ii) Data provision by carriers
 
-&emsp;&emsp;&emsp;Not later than October 1, 2002, no waiver may be provided under this section to analien arriving by sea or air at a port of entry into the United States on a carrier unless the carrier is electronically transmitting to the automated entry and exit control system passenger data determined by the Attorney General to be sufficient to permit the Attorney General to carry out this paragraph.
+&emsp;&emsp;&emsp;Not later than October 1, 2002, no waiver may be provided under this section to an alien arriving by sea or air at a port of entry into the United States on a carrier unless the carrier is electronically transmitting to the automated entry and exit control system passenger data determined by the Attorney General to be sufficient to permit the Attorney General to carry out this paragraph.
 
 #### (iii) Calculation
 
@@ -532,7 +532,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (ii) Disposition of amounts collected
 
-&emsp;&emsp;&emsp;Amounts collected under clause (i)(I) shall be credited to the Travel PromotionFund established by subsection (d) of section 2131 of title 22. Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
+&emsp;&emsp;&emsp;Amounts collected under clause (i)(I) shall be credited to the Travel Promotion Fund established by subsection (d) of section 2131 of title 22. Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
 
 #### (iii) Sunset of Travel Promotion Fund fee
 
@@ -610,7 +610,7 @@ This chapter, referred to in subsecs. (b)(1) and (c)(7)(B)(iv), was in the origi
 
 #### Amendments
 
-<b>2010</b>—Subsec. (h)(3)(B). Pub. L. 111–145 amended subpar. (B) generally. Prior to amendment, text read asfollows: “The Secretary of Homeland Security may charge a fee for the use of the System, which shall be—
+<b>2010</b>—Subsec. (h)(3)(B). Pub. L. 111–145 amended subpar. (B) generally. Prior to amendment, text read as follows: “The Secretary of Homeland Security may charge a fee for the use of the System, which shall be—
 
 &emsp;“(i) set at a level that will ensure recovery of the full costs of providing and administering the System; and
 

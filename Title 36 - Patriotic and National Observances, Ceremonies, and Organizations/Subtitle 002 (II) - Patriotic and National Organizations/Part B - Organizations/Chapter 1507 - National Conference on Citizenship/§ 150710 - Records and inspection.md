@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 Aug. 13, 1953, ch. 427, §13, 67 Stat. 565.
 
-The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
+The word "records" is substituted for "books and records" for consistency in the revised title and with other titles of the United States Code.
 

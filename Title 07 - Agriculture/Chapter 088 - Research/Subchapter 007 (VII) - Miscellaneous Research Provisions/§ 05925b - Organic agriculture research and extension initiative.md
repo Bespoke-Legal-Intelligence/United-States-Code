@@ -2,7 +2,7 @@
 
 #### (a) Competitive specialized research and extension grants authorized
 
-In consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, the Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities regarding organically grown and processed agricultural commodities for the purposes of—
+In consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, the Secretary of Agriculture (referred to in this section as the "Secretary") may make competitive grants to support research and extension activities regarding organically grown and processed agricultural commodities for the purposes of—
 
 &emsp;(1) facilitating the development of organic agriculture production, breeding, and processing methods;
 
@@ -72,23 +72,23 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2013</b>—Subsec. (f)(1). Pub. L. 112–240, §701(e)(1)(A), substituted “Mandatory funding for fiscal years 2009 through 2012” for “In general” in heading.
+<b>2013</b>—Subsec. (f)(1). Pub. L. 112–240, §701(e)(1)(A), substituted "Mandatory funding for fiscal years 2009 through 2012" for "In general" in heading.
 
-Subsec. (f)(2). Pub. L. 112–240, §701(e)(1)(B), substituted “Discretionary funding for fiscal years 2009 through 2012” for “Additional funding” in heading.
+Subsec. (f)(2). Pub. L. 112–240, §701(e)(1)(B), substituted "Discretionary funding for fiscal years 2009 through 2012" for "Additional funding" in heading.
 
 Subsec. (f)(3). Pub. L. 112–240, §701(e)(1)(C), added par. (3).
 
 <b>2008</b>—Subsec. (a)(7), (8). Pub. L. 110–246, §7206(a)(1), added pars. (7) and (8).
 
-Subsec. (b). Pub. L. 110–246, §7406(d)(3), substituted “Paragraphs (4), (7), (8), and (11)(B)” for “Paragraphs (1), (6), (7), and (11)”.
+Subsec. (b). Pub. L. 110–246, §7406(d)(3), substituted "Paragraphs (4), (7), (8), and (11)(B)" for "Paragraphs (1), (6), (7), and (11)".
 
 Subsec. (f). Pub. L. 110–246, §7206(a)(2), added subsec. (f).
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §7218(1)(A), inserted “, breeding,” after “production”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §7218(1)(A), inserted ", breeding," after "production".
 
 Subsec. (a)(4) to (6). Pub. L. 107–171, §7218(1)(B)–(D), added pars. (4) to (6).
 
-Subsec. (e). Pub. L. 107–171, §7218(2), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002.”
+Subsec. (e). Pub. L. 107–171, §7218(2), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002."
 
 #### Effective Date of 2013 Amendment
 
@@ -102,23 +102,23 @@ Amendment by section 7406(d)(3) of Pub. L. 110–246 inapplicable to any solicit
 
 #### Coordination of Projects and Activities
 
-Pub. L. 110–234, title VII, §7206(b), May 22, 2008, 122 Stat. 1239, and Pub. L. 110–246, §4(a), title VII, §7206(b), June 18, 2008, 122 Stat. 1664, 2000, provided that: “In carrying out the amendment made by this section \[amending this section\], the Secretary \[of Agriculture\] shall ensure that the Division Chief of the applicable Research, Education, and Extension Office established under section 251 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6971) coordinates projects and activities under this section to ensure, to the maximum extent practicable, that unnecessary duplication of effort is eliminated or minimized.”
+Pub. L. 110–234, title VII, §7206(b), May 22, 2008, 122 Stat. 1239, and Pub. L. 110–246, §4(a), title VII, §7206(b), June 18, 2008, 122 Stat. 1664, 2000, provided that: "In carrying out the amendment made by this section \[amending this section\], the Secretary \[of Agriculture\] shall ensure that the Division Chief of the applicable Research, Education, and Extension Office established under section 251 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6971) coordinates projects and activities under this section to ensure, to the maximum extent practicable, that unnecessary duplication of effort is eliminated or minimized."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 #### Report on Producers and Handlers of Organic Agricultural Products
 
-Pub. L. 107–171, title VII, §7409, May 13, 2002, 116 Stat. 461, provided that: “Not later than 1 year after funds are made available to carry out this section, the Secretary \[of Agriculture\] shall submit to Congress a report that—
+Pub. L. 107–171, title VII, §7409, May 13, 2002, 116 Stat. 461, provided that: "Not later than 1 year after funds are made available to carry out this section, the Secretary \[of Agriculture\] shall submit to Congress a report that—
 
-&emsp;“(1) describes—
+&emsp;"(1) describes—
 
-&emsp;&emsp;“(A) the extent to which producers and handlers of organic agricultural products are contributing to research and promotion programs of the Department \[of Agriculture\];
+&emsp;&emsp;"(A) the extent to which producers and handlers of organic agricultural products are contributing to research and promotion programs of the Department \[of Agriculture\];
 
-&emsp;&emsp;“(B) the extent to which producers and handlers of organic agricultural products are surveyed for ideas for research and promotion;
+&emsp;&emsp;"(B) the extent to which producers and handlers of organic agricultural products are surveyed for ideas for research and promotion;
 
-&emsp;&emsp;“(C) ways in which the programs reflect the contributions made by producers and handlers of organic agricultural products and directly benefit the producers and handlers; and
+&emsp;&emsp;"(C) ways in which the programs reflect the contributions made by producers and handlers of organic agricultural products and directly benefit the producers and handlers; and
 
-&emsp;&emsp;“(D) the implementation of initiatives that directly benefit organic producers and handlers; and
+&emsp;&emsp;"(D) the implementation of initiatives that directly benefit organic producers and handlers; and
 
-&emsp;“(2) evaluates industry and other proposals for improving the treatment of certified organic agricultural products under Federal marketing orders, including proposals to target additional resources for research and promotion of organic products and to differentiate between certified organic and other products in new or existing volume limitations or other orderly marketing requirements.”
+&emsp;"(2) evaluates industry and other proposals for improving the treatment of certified organic agricultural products under Federal marketing orders, including proposals to target additional resources for research and promotion of organic products and to differentiate between certified organic and other products in new or existing volume limitations or other orderly marketing requirements."
 

@@ -28,11 +28,11 @@ Section was formerly classified to sections 2292e and 2399–1b of this title.
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–424 struck out subsec. (d) authorizing appropriations for development of a long-term African Sahel development program.
 
-<b>1977</b>—Pub. L. 95–88, §115(2), substituted “Sahel” for “African” in section catchline.
+<b>1977</b>—Pub. L. 95–88, §115(2), substituted "Sahel" for "African" in section catchline.
 
-<b>1975</b>—Pub. L. 94–161, §101(7)(A), struck out “Sahel” after “African” in section catchline.
+<b>1975</b>—Pub. L. 94–161, §101(7)(A), struck out "Sahel" after "African" in section catchline.
 
-Subsec. (a). Pub. L. 94–161, §101(7)(B), (C), designated existing provisions as subsec. (a) and substituted “Congress reaffirms its support of” for “Congress supports”.
+Subsec. (a). Pub. L. 94–161, §101(7)(B), (C), designated existing provisions as subsec. (a) and substituted "Congress reaffirms its support of" for "Congress supports".
 
 Subsecs. (b) to (d). Pub. L. 94–161, §101(7)(D), added subsecs. (b) to (d).
 

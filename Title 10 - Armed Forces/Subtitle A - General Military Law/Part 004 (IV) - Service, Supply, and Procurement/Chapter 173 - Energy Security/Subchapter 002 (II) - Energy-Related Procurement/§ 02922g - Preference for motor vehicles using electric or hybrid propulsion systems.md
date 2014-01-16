@@ -6,7 +6,7 @@ Preference.—In leasing or procuring motor vehicles for use by a military depar
 
 &emsp;(1) will meet the requirements or needs of the Department of Defense; and
 
-&emsp;(2) are commercially available at a cost, including operating cost, reasonably comparableto motor vehicles containing only an internal combustion or heat engine using combustible fuel.
+&emsp;(2) are commercially available at a cost, including operating cost, reasonably comparable to motor vehicles containing only an internal combustion or heat engine using combustible fuel.
 
 (b)
 
@@ -20,9 +20,9 @@ Relation to Other Vehicle Technologies That Reduce Consumption of Fossil Fuels.�
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d). Pub. L. 112–81 struck out subsec. (d), which defined “hybrid”.
+<b>2011</b>—Subsec. (d). Pub. L. 112–81 struck out subsec. (d), which defined "hybrid".
 
 #### Regulations
 
-Pub. L. 111–84, div. B, title XXVIII, §2844(c), Oct. 28, 2009, 123 Stat. 2682, provided that: “The Secretary of Defense shall prescribe regulations to implement section 2922g of title 10, United States Code, as added by subsection (a), within one year after the date of the enactment of this Act \[Oct. 28, 2009\].”
+Pub. L. 111–84, div. B, title XXVIII, §2844(c), Oct. 28, 2009, 123 Stat. 2682, provided that: "The Secretary of Defense shall prescribe regulations to implement section 2922g of title 10, United States Code, as added by subsection (a), within one year after the date of the enactment of this Act \[Oct. 28, 2009\]."
 

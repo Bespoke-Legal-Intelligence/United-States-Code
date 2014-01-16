@@ -22,9 +22,9 @@ The second paragraph is new and provides for the disclaiming or dedication of an
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 designated first and second pars. as subsecs. (a) and (b), respectively, inserted headings, in subsec. (a), substituted “Whenever” for “Whenever, without any deceptive intention,”, and, in subsec. (b), substituted “In the manner set forth in subsection (a),” for “In like manner”.
+<b>2011</b>—Pub. L. 112–29 designated first and second pars. as subsecs. (a) and (b), respectively, inserted headings, in subsec. (a), substituted "Whenever" for "Whenever, without any deceptive intention,", and, in subsec. (b), substituted "In the manner set forth in subsection (a)," for "In like manner".
 
-<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 2011 Amendment
 

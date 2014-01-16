@@ -16,7 +16,7 @@ No loan may be provided under this section to a qualifying hospital except pursu
 
 #### (2) Qualifying hospital defined
 
-&emsp;For purposes of this section, the term “qualifying hospital” means a hospital or an entity described in paragraph (3) that—
+&emsp;For purposes of this section, the term "qualifying hospital" means a hospital or an entity described in paragraph (3) that—
 
 &emsp;&emsp;(A) is engaged in research in the causes, prevention, and treatment of cancer; and
 
@@ -48,7 +48,7 @@ The provision of a loan under this section with respect to a project shall not�
 
 #### (f) Forgiveness of indebtedness
 
-The Secretary may forgive a loan provided to a qualifying hospital under this section under terms and conditions that are analogous to the loan forgiveness provision for student loans under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.), except that the Secretary shall condition such forgiveness on the establishment by the hospital of—
+The Secretary may forgive a loan provided to a qualifying hospital under this section under terms and conditions that are analogous to theloan forgiveness provision for student loans under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.), except that the Secretary shall condition such forgiveness on the establishment by the hospital of—
 
 &emsp;(A) an outreach program for cancer prevention, early diagnosis, and treatment that provides services to a substantial majority of the residents of a State or region, including residents of rural areas;
 
@@ -74,7 +74,7 @@ The Secretary may forgive a loan provided to a qualifying hospital under this se
 
 #### (h) Report to Congress
 
-Not later than 4 years after December 8, 2003, the Secretary shall submit to Congress a report on the projects for which loans are provided under this section and a recommendation as towhether the Congress should authorize the Secretary to continue loans under this section beyond fiscal year 2008.
+Not later than 4 years after December 8, 2003, the Secretary shall submit to Congress a report on the projects for which loans are provided under this section and a recommendation as to whether the Congress should authorize the Secretary to continue loans under this section beyond fiscal year 2008.
 
 #### (i) Limitation on review
 
@@ -90,9 +90,9 @@ The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–32
 
 #### Amendments
 
-<b>2005</b>—Subsec. (c)(2). Pub. L. 109–13, §6045(a)(1)(A), inserted “or an entity described in paragraph (3)” after “means a hospital” in introductory provisions.
+<b>2005</b>—Subsec. (c)(2). Pub. L. 109–13, §6045(a)(1)(A), inserted "or an entity described in paragraph (3)" after "means a hospital" in introductory provisions.
 
-Subsec. (c)(2)(B). Pub. L. 109–13, §6045(a)(1)(B), inserted “legislature” after “designated by the State” and “and such designation by the State legislature occurred prior to December 8, 2003” before period at end.
+Subsec. (c)(2)(B). Pub. L. 109–13, §6045(a)(1)(B), inserted "legislature" after "designated by the State" and "and such designation by the State legislature occurred prior to December 8, 2003" before period at end.
 
 Subsec. (c)(3). Pub. L. 109–13, §6045(a)(2), added par. (3).
 
@@ -100,5 +100,5 @@ Subsec. (i). Pub. L. 109–13, §6045(b), added subsec. (i).
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–13, div. A, title VI, §6045(c), May 11, 2005, 119 Stat. 295, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of section 1016 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2447).”
+Pub. L. 109–13, div. A, title VI, §6045(c), May 11, 2005, 119 Stat. 295, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of section 1016 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2447)."
 

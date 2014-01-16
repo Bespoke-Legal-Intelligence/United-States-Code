@@ -18,7 +18,7 @@ The Commission shall establish a Panama Canal Employment System and prescribe th
 
 (1) The head of any Executive agency (other than the Commission) and the Smithsonian Institution may elect to have the Panama Canal Employment System made applicable in whole or in part to personnel of that agency in the Republic of Panama.
 
-(2) Any Executive agency (other than the Commission) and the Smithsonian Institution, to the extent of any election under paragraph (1), shall conduct its employment and pay practices relating to employees in accordance with the Panama Canal Employment System.
+(2) Any Executive agency (other than the Commission) and the Smithsonian Institution,to the extent of any election under paragraph (1), shall conduct its employment and pay practices relating to employees in accordance with the Panama Canal Employment System.
 
 (3) Notwithstanding any other provision of this chapter, the Panama Canal Act Amendments of 1996 (subtitle B of title XXXV of Public Law 104–201; 110 Stat. 2860), or the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 <sup>1</sup> Stat. 2062), or the Panama Canal Commission Authorization Act for Fiscal Year 1999, this subpart, as in effect on September 22, 1996, shall continue to apply to an Executive agency or the Smithsonian Institution to the extent of an election under paragraph (1) by the head of the agency or the Institution, respectively.
 
@@ -30,7 +30,7 @@ The Commission may exclude any employee or position from coverage under any prov
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(3), (5) and (b)(3), was in the original “this Act”, meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This chapter, referred to in subsecs. (a)(3), (5) and (b)(3), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 The Panama Canal Act Amendments of 1996, referred to in subsec. (b)(3), is subtitle B of title XXXV of div. C of Pub. L. 104–201, Sept. 23, 1996, 110 Stat. 2860. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 3601 of this title and Tables.
 
@@ -40,23 +40,23 @@ The Panama Canal Commission Authorization Act for Fiscal Year 1999, referred to 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(3). Pub. L. 105–261, §3512(a)(2), inserted “the” after “by the head of”.
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–261, §3512(a)(2), inserted "the" after "by the head of".
 
-Pub. L. 105–261, §3507(c), substituted “the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 Stat. 2062), or the Panama Canal Commission Authorization Act for Fiscal Year 1999” for “the Panama Canal Transition Facilitation Act of 1997”.
+Pub. L. 105–261, §3507(c), substituted "the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 Stat. 2062), or the Panama Canal Commission Authorization Act for Fiscal Year 1999" for "the Panama Canal Transition Facilitation Act of 1997".
 
-<b>1997</b>—Subsec. (b)(3). Pub. L. 105–85, §3550(d)(5), substituted “as in effect on September 22, 1996” for “as last in effect before September 23, 1996”.
+<b>1997</b>—Subsec. (b)(3). Pub. L. 105–85, §3550(d)(5), substituted "as in effect on September 22, 1996" for "as last in effect before September 23, 1996".
 
-Pub. L. 105–85, §3523(d), substituted “, the Panama Canal Act Amendments of 1996 (subtitle B of title XXXV of Public Law 104–201; 110 Stat. 2860), or the Panama Canal Transition Facilitation Act of 1997” for “or the Panama Canal Act Amendments of 1996”.
+Pub. L. 105–85, §3523(d), substituted ", the Panama Canal Act Amendments of 1996 (subtitle B of title XXXV of Public Law 104–201; 110 Stat. 2860), or the Panama Canal Transition Facilitation Act of 1997" for "or the Panama Canal Act Amendments of 1996".
 
 <b>1996</b>—Pub. L. 104–201 amended section generally, substituting subsecs. (a) to (c) requiring the Commission to establish a Panama Canal Employment System for former subsecs. (a) to (d) requiring the President to establish such a System.
 
 #### Savings Provision
 
-Pub. L. 104–201, div. C, title XXXV, §3530(b), Sept. 23, 1996, 110 Stat. 2863, provided that: “The Panama Canal Employment System and all elections, rules, regulations, and orders relating thereto, as last in effect before the amendment made by subsection (a) \[amending this section\] takes effect, shall continue in effect, according to their terms, until modified, terminated, or superseded under section 1212 of the Panama Canal Act of 1979 \[this section\], as amended by subsection (a).”
+Pub. L. 104–201, div. C, title XXXV, §3530(b), Sept. 23, 1996, 110 Stat. 2863, provided that: "The Panama Canal Employment System and all elections, rules, regulations, and orders relating thereto, as last in effect before the amendment made by subsection (a) \[amending this section\] takes effect, shall continue in effect, according to their terms, until modified, terminated, or superseded under section 1212 of the Panama Canal Act of 1979 \[this section\], as amended by subsection (a)."
 
 #### Coordination of Pay and Employment Practices
 
-For provisions requiring consultations with the Secretary of Defense for agencies under this subpart withrespect to the establishment of rates of pay and other matters deemed appropriate by the Secretary in order to develop compatible or unified systems of basic pay and employment practices, see section 1–201 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
+For provisions requiring consultations with the Secretary of Defense for agencies under this subpart with respect to the establishment of rates of pay and other matters deemed appropriate by the Secretary in order to develop compatible or unified systems of basic pay and employment practices, see section 1–201 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “111”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "111".</i>
 

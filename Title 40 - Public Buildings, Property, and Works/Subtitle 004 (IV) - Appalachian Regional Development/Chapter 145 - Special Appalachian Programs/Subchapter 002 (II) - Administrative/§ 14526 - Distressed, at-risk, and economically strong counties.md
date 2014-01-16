@@ -8,15 +8,15 @@ Designations.—
 
 In general.—The Appalachian Regional Commission, in accordance with criteria the Commission may establish, each year shall—
 
-&emsp;&emsp;(A) designate as “distressed counties” those counties in the Appalachian region that are the most severely and persistently distressed;
+&emsp;&emsp;(A) designate as "distressed counties" those counties in the Appalachian region that are the most severely and persistently distressed;
 
-&emsp;&emsp;(B) designate as “at-risk counties” those counties in the Appalachian region that are most at risk of becoming economically distressed; and
+&emsp;&emsp;(B) designate as "at-risk counties" those counties in the Appalachian region that are most at risk of becoming economically distressed; and
 
 &emsp;&emsp;(C) designate two categories of economically strong counties, consisting of—
 
-&emsp;&emsp;&emsp;(i) “competitive counties”, which shall be those counties in the region that are approaching economic parity with the rest of the United States; and
+&emsp;&emsp;&emsp;(i) "competitive counties", which shall be those counties in the region that are approaching economic parity with the rest of the United States; and
 
-&emsp;&emsp;&emsp;(ii) “attainment counties”, which shall be those counties in the region that have attained or exceeded economic parity with the rest of the United States.
+&emsp;&emsp;&emsp;(ii) "attainment counties", which shall be those counties in the region that have attained or exceeded economic parity with the rest of the United States.
 
 &emsp;(2)
 
@@ -90,11 +90,11 @@ Historical and Revision Notes
 
 Pub. L. 89–4, title II, §226, as added Pub. L. 105–393, title II, §219, Nov. 13, 1998, 112 Stat. 3623.
 
-In subsection (a)(1), before clause (A), the words “Not later than 90 days after November 13, 1988” are omitted as obsolete.
+In subsection (a)(1), before clause (A), the words "Not later than 90 days after November 13, 1988" are omitted as obsolete.
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–371, §4(a)(1), inserted “, at-risk,” after “Distressed” in section catchline.
+<b>2008</b>—Pub. L. 110–371, §4(a)(1), inserted ", at-risk," after "Distressed" in section catchline.
 
 Subsec. (a)(1)(B), (C). Pub. L. 110–371, §4(a)(2), added subpar. (B) and redesignated former subpar. (B) as (C).
 

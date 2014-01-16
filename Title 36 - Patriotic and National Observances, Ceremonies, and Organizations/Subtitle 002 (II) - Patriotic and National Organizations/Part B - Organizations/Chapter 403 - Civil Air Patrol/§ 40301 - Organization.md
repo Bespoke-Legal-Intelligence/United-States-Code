@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Civil Air Patrol (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—Civil Air Patrol (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

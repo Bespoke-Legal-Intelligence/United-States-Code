@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—A participant in the Plan may, subject to the provisions of this section, elect to discontinue participation in the Plan atany time during the one-year period beginning on the second anniversary of the date on which payment of retired pay to the participant commences.
+Authority.—A participant in the Plan may, subject to the provisions of this section, elect to discontinue participation in the Plan at any time during the one-year period beginning on the second anniversary of the date on which payment of retired pay to the participant commences.
 
 (b)
 
@@ -34,7 +34,7 @@ Consequences of Discontinuation.—Section 1448(b)(1)(E) of this title applies t
 
 (f)
 
-Notice to Affected Beneficiaries.—The Secretary concerned shall notify any former spouse or other natural person previously designated under section 1448(b) of this title of an election to discontinue participation under subsection (a).
+Notice to Affected Beneficiaries.—The Secretary concerned shall notify any formerspouse or other natural person previously designated under section 1448(b) of this title of an election to discontinue participation under subsection (a).
 
 (g)
 
@@ -48,9 +48,9 @@ Inapplicability of Irrevocability Provisions.—Paragraphs (4)(B) and (5)(C) of 
 
 #### Effective Date
 
-Pub. L. 105–85, div. A, title VI, §641(c), Nov. 18, 1997, 111 Stat. 1799, provided that: “Section 1448a of title 10, United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\].”
+Pub. L. 105–85, div. A, title VI, §641(c), Nov. 18, 1997, 111 Stat. 1799, provided that: "Section 1448a of title 10, United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\]."
 
 #### Transition Provision for Current Participants
 
-Pub. L. 105–85, div. A, title VI, §641(b), Nov. 18, 1997, 111 Stat. 1798, provided that: “Notwithstanding the limitation on the time for making an election under section 1448a of title 10, United States Code (as added by subsection (a)), that is specified in subsection (a) of such section, a participant in the Survivor Benefit Plan under subchapter II of chapter 73 of such title may make an election in accordance with that section within one year after the effective date of that section under subsection (c) \[set out as an Effective Date note above\] if the second anniversary of the commencement of payment of retired pay to the participant precedes that effective date.”
+Pub. L. 105–85, div. A, title VI, §641(b), Nov. 18, 1997, 111 Stat. 1798, provided that: "Notwithstanding the limitation on the time for making an election under section 1448a of title 10, United States Code (as added by subsection (a)), that is specified in subsection (a) of such section, a participant in the Survivor Benefit Plan under subchapter II of chapter 73 of such title may make an election in accordance with that section within one year after the effective date of that section under subsection (c) \[set out as an Effective Date note above\] if the second anniversary of the commencement of payment of retired pay to the participant precedes that effective date."
 

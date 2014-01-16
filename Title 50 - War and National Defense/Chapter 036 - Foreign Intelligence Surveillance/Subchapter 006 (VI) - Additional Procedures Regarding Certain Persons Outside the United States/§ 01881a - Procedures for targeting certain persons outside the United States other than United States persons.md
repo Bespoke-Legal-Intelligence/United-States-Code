@@ -42,7 +42,7 @@ An acquisition authorized under subsection (a)—
 
 #### (4) Construction
 
-&emsp;Nothing in subchapter I shall be construed to require an application for a court orderunder such subchapter for an acquisition that is targeted in accordance with this section at a person reasonably believed to be located outside the United States.
+&emsp;Nothing in subchapter I shall be construed to require an application for a court order under such subchapter for an acquisition that is targeted in accordance with this section at a person reasonably believed to be located outside the United States.
 
 #### (d) Targeting procedures
 
@@ -120,7 +120,7 @@ An acquisition authorized under subsection (a)—
 
 &emsp;&emsp;&emsp;(iii) guidelines have been adopted in accordance with subsection (f) to ensure compliance with the limitations in subsection (b) and to ensure that an application for a court order is filed as required by this chapter;
 
-&emsp;&emsp;&emsp;(iv) the procedures and guidelines referred to in clauses (i), (ii), and (iii) are consistent with the requirements of the fourth amendment to the Constitution of the United States;
+&emsp;&emsp;&emsp;(iv) the procedures and guidelines referred to in clauses (i), (ii), and (iii) areconsistent with the requirements of the fourth amendment to the Constitution of the United States;
 
 &emsp;&emsp;&emsp;(v) a significant purpose of the acquisition is to obtain foreign intelligence information;
 
@@ -194,7 +194,7 @@ An acquisition authorized under subsection (a)—
 
 #### (D) Procedures for initial review
 
-&emsp;&emsp;A judge shall conduct an initial review of a petition filed under subparagraph (A) not later than 5 days after being assigned such petition. If the judge determines that such petition does not consist of claims, defenses, or other legal contentions that are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law, the judge shall immediately deny such petition and affirm the directive or any part of the directive that is the subject of such petition and order the recipient to comply with the directive or any part of it. Upon making a determination under this subparagraph or promptly thereafter, the judge shall provide a written statement for the record of the reasons for such determination.
+&emsp;&emsp;A judge shall conduct an initial review of a petition filed under subparagraph (A) not later than 5 days after being assigned such petition. If the judge determines that such petition does not consist of claims, defenses, or other legal contentions that are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law, the judge shall immediately deny such petition and affirm the directive or any part of the directive that is the subject of such petition and order the recipient to comply with the directive or any part of it. Upon making a determination under this subparagraph or promptly thereafter, the judge shall provide a written statement for therecord of the reasons for such determination.
 
 #### (E) Procedures for plenary review
 
@@ -324,7 +324,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Reauthorization of orders, authorizations, and directives
 
-&emsp;&emsp;If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a) by filing a certification pursuant to subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a), until the Court issues an order with respect to such certification under paragraph (3) at which time the provisions of that paragraph and paragraph (4) shall apply with respect to such certification.
+&emsp;&emsp;If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a) by filing a certification pursuant to subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect,notwithstanding the expiration provided for in subsection (a), until the Court issues an order with respect to such certification under paragraph (3) at which time the provisions of that paragraph and paragraph (4) shall apply with respect to such certification.
 
 #### (j) Judicial proceedings
 
@@ -402,7 +402,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Use of review
 
-&emsp;&emsp;The head of each element of the intelligence community that conducts an annual review under subparagraph (A) shall use each such review to evaluate the adequacy of the minimization procedures utilized by such element and, as appropriate, the application of the minimization procedures to aparticular acquisition authorized under subsection (a).
+&emsp;&emsp;The head of each element of the intelligence community that conducts an annual review under subparagraph (A) shall use each such review to evaluate the adequacy of the minimization procedures utilized by such element and, as appropriate, the application of the minimization procedures to a particular acquisition authorized under subsection (a).
 
 #### (C) Provision of review
 
@@ -428,7 +428,7 @@ An acquisition authorized under subsection (a)—
 
 #### References in Text
 
-This chapter, referred to in subsecs. (f)(1)(B) and (g)(2)(A)(iii), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (f)(1)(B) and (g)(2)(A)(iii), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Senate Resolution 400 of the 94th Congress, referred to in subsec. (l), was agreed to May 19, 1976, and was subsequently amended by both Senate resolution and public law. The Resolution, which established the Senate Select Committee on Intelligence, is not classified to the Code.
 

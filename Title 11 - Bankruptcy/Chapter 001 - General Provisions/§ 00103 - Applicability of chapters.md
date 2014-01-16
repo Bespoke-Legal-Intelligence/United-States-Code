@@ -44,9 +44,9 @@ Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–327 substituted “362(o)” for “362(n)”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–327 substituted "362(o)" for "362(n)".
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–8, §802(a)(1), inserted “, and this chapter, sections 307, 362(n), 555 through 557, and 559 through 562 apply in a case under chapter 15” before period.
+<b>2005</b>—Subsec. (a). Pub. L. 109–8, §802(a)(1), inserted ", and this chapter, sections 307, 362(n), 555 through 557, and 559 through 562 apply in a case under chapter 15" before period.
 
 Subsec. (k). Pub. L. 109–8, §802(a)(2), added subsec. (k).
 
@@ -56,9 +56,9 @@ Subsec. (k). Pub. L. 109–8, §802(a)(2), added subsec. (k).
 
 Subsec. (i). Pub. L. 99–554, §252(2), added subsec. (i).
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–353 substituted “stockbroker” for “stockholder”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–353 substituted "stockbroker" for "stockholder".
 
-<b>1982</b>—Subsec. (d). Pub. L. 97–222 struck out “except with respect to section 746(c) which applies to margin payments made by any debtor to a commodity broker or forward contract merchant” after “concerning a commodity broker”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–222 struck out "except with respect to section 746(c) which applies to margin payments made by any debtor to a commodity broker or forward contract merchant" after "concerning a commodity broker".
 
 #### Effective Date of 2005 Amendment
 

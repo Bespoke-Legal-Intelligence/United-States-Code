@@ -12,9 +12,9 @@
 
 > &emsp;A State may establish a numerical limit on the number of individuals who may be enrolled in a PACE program under a PACE program agreement.
 
-#### (2) “PACE program” defined
+#### (2) "PACE program" defined
 
-&emsp;For purposes of this section, the term “PACE program” means a program of all-inclusive care for the elderly that meets the following requirements:
+&emsp;For purposes of this section, the term "PACE program" means a program of all-inclusive care for the elderly that meets the following requirements:
 
 #### (A) Operation
 
@@ -28,11 +28,11 @@
 
 &emsp;&emsp;In the case of an individual who is enrolled under the program under this section and whose enrollment ceases for any reason (including that the individual no longer qualifies as a PACE program eligible individual, the termination of a PACE program agreement, or otherwise), the program provides assistance to the individual in obtaining necessary transitional care through appropriate referrals and making the individual's medical records available to new providers.
 
-#### (3) “PACE provider” defined
+#### (3) "PACE provider" defined
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, the term “PACE provider” means an entity that—
+&emsp;&emsp;For purposes of this section, the term "PACE provider" means an entity that—
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (B), is (or is a distinct part of) a public entity or a private, nonprofit entity organized for charitable purposes under section 501(c)(3) of the Internal Revenue Code of 1986, and
 
@@ -46,13 +46,13 @@
 
 &emsp;&emsp;&emsp;(ii) after the date the report under section 4804(b) of the Balanced Budget Act of 1997 is submitted, unless the Secretary determines that any of the findings described in subparagraph (A), (B), (C), or (D) of paragraph (2) of such section are true.
 
-#### (4) “PACE program agreement” defined
+#### (4) "PACE program agreement" defined
 
-&emsp;For purposes of this section, the term “PACE program agreement” means, with respect to a PACE provider, an agreement, consistent with this section, section 1395eee of this title (if applicable), and regulations promulgated to carry out such sections, among the PACE provider, the Secretary, and a State administering agency for the operation of a PACE program by the provider under such sections.
+&emsp;For purposes of this section, the term "PACE program agreement" means, with respect to a PACE provider, an agreement, consistent with this section, section 1395eee of this title (if applicable), and regulations promulgated to carry out such sections, among the PACE provider, the Secretary, and a State administering agency for the operation of a PACE program by the provider under such sections.
 
-#### (5) “PACE program eligible individual” defined
+#### (5) "PACE program eligible individual" defined
 
-&emsp;For purposes of this section, the term “PACE program eligible individual” means, with respect to a PACE program, an individual who—
+&emsp;For purposes of this section, the term "PACE program eligible individual" means, with respect to a PACE program, an individual who—
 
 &emsp;&emsp;(A) is 55 years of age or older;
 
@@ -62,35 +62,35 @@
 
 &emsp;&emsp;(D) meets such other eligibility conditions as may be imposed under the PACE program agreement for the program under subsection (e)(2)(A)(ii) of this section.
 
-#### (6) “PACE protocol” defined
+#### (6) "PACE protocol" defined
 
-&emsp;For purposes of this section, the term “PACE protocol” means the Protocol for the Program of All-inclusive Care for the Elderly (PACE), as published by On Lok, Inc., as of April 14, 1995, or any successor protocol that may be agreed upon between the Secretary and On Lok, Inc.
+&emsp;For purposes of this section, the term "PACE protocol" means the Protocol for the Program of All-inclusive Care for the Elderly (PACE), as published by On Lok, Inc., as of April 14, 1995, or any successor protocol that may be agreed upon between the Secretary and On Lok, Inc.
 
-#### (7) “PACE demonstration waiver program” defined
+#### (7) "PACE demonstration waiver program" defined
 
-&emsp;For purposes of this section, the term “PACE demonstration waiver program” means a demonstration program under either of the following sections (as in effect before the date of their repeal):
+&emsp;For purposes of this section, the term "PACE demonstration waiver program" means a demonstration program under either of the following sections (as in effect before the date of their repeal):
 
 &emsp;&emsp;(A) Section 603(c) of the Social Security Amendments of 1983 (Public Law 98–21), as extended by section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272).
 
 &emsp;&emsp;(B) Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 (Public Law 99–509).
 
-#### (8) “State administering agency” defined
+#### (8) "State administering agency" defined
 
-&emsp;For purposes of this section, the term “State administering agency” means, with respect to the operation of a PACE program in a State, the agency of that State (which may be the single agency responsible for administration of the State plan under this subchapter in the State) responsible for administering PACE program agreements under this section and section 1395eee of this title in the State.
+&emsp;For purposes of this section, the term "State administering agency" means, with respect to the operation of a PACE program in a State, the agency of that State (which may be the single agency responsible for administration of the State plan under this subchapter in the State) responsible for administering PACE program agreements under this section and section 1395eee of this title in the State.
 
-#### (9) “Trial period” defined
+#### (9) "Trial period" defined
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, the term “trial period” means, with respect to a PACE program operated by a PACE provider under a PACE program agreement, the first 3 contract years under such agreement with respect to such program.
+&emsp;&emsp;For purposes of this section, the term "trial period" means, with respect to a PACE program operated by a PACE provider under a PACE program agreement, the first 3 contract years under such agreement with respect to such program.
 
 #### (B) Treatment of entities previously operating PACE demonstration waiver programs
 
 &emsp;&emsp;Each contract year (including a year occurring before the effective date of this section) during which an entity has operated a PACE demonstration waiver program shall be counted under subparagraph (A) as a contract year during which the entity operated a PACE program as a PACE provider under a PACE program agreement.
 
-#### (10) “Regulations” defined
+#### (10) "Regulations" defined
 
-&emsp;For purposes of this section, the term “regulations” refers to interim final or final regulations promulgated under subsection (f) of this section to carry out this section and section 1395eee of this title.
+&emsp;For purposes of this section, the term "regulations" refers to interim final or final regulations promulgated under subsection (f) of this section to carry out this section and section 1395eee of this title.
 
 #### (b) Scope of benefits; beneficiary safeguards
 
@@ -126,7 +126,7 @@
 
 #### (B) Reference to related provision for noncontract providers of services
 
-&emsp;&emsp;For the provision relating to limitations on balance billing against PACE providersfor services covered under subchapter XVIII of this chapter furnished by noncontract providers of services, see section 1395cc(a)(1)(O) of this title.
+&emsp;&emsp;For the provision relating to limitations on balance billing against PACE providers for services covered under subchapter XVIII of this chapter furnished by noncontract providers of services, see section 1395cc(a)(1)(O) of this title.
 
 #### (4) Reference to related provision for services covered under this subchapter but not under subchapter XVIII
 
@@ -178,7 +178,7 @@
 
 #### (ii) No disenrollment for noncompliant behavior
 
-&emsp;&emsp;&emsp;Except as allowed under regulations promulgated to carry out clause (i)(II), a PACE program may not disenroll a PACE program eligible individual on the ground that the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term “noncompliant behavior” includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
+&emsp;&emsp;&emsp;Except as allowed under regulations promulgated to carry out clause (i)(II), a PACE program may not disenroll a PACE program eligible individual on the ground that the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term "noncompliant behavior" includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
 
 #### (iii) Timely review of proposed nonvoluntary disenrollment
 
@@ -192,7 +192,7 @@
 
 #### (2) Capitation amount
 
-&emsp;The capitation amount to be applied under this subsection for a provider for a contractyear shall be an amount specified in the PACE program agreement for the year. Such amount shall be an amount, specified under the PACE agreement, which is less than the amount that would otherwise have been made under the State plan if the individuals were not so enrolled and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. The payment under this section shall be in addition to any payment made under section 1395eee of this title for individuals who are enrolled in a PACE program under such section.
+&emsp;The capitation amount to be applied under this subsection for a provider for a contract year shall be an amount specified in the PACE program agreement for the year. Such amount shall be an amount, specified under the PACE agreement, which is less than the amount that would otherwise have been made under the State plan if the individuals were not so enrolled and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. The payment under this section shall be in addition to any payment made under section 1395eee of this title for individuals who are enrolled in a PACE program under such section.
 
 #### (e) PACE program agreement
 
@@ -258,7 +258,7 @@
 
 #### (ii) Requirements during trial period
 
-&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this section or under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
+&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this sectionor under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
 
 #### (B) Development of outcome measures
 
@@ -332,7 +332,7 @@
 
 #### (7) Procedures for termination or imposition of sanctions
 
-&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods before January 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
+&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods beforeJanuary 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
 
 #### (8) Timely consideration of applications for PACE program provider status
 
@@ -392,7 +392,7 @@
 
 With respect to carrying out a PACE program under this section, the following requirements of this subchapter (and regulations relating to such requirements) shall not apply:
 
-&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs or PACE program services be provided in all areas of a State.
+&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs orPACE program services be provided in all areas of a State.
 
 &emsp;(2) Section 1396a(a)(10) of this title, insofar as such section relates to comparability of services among different population groups.
 

@@ -12,7 +12,7 @@ The Secretary shall award grants in accordance with the provisions of this secti
 
 #### (2) Emergency services personnel
 
-&emsp;In this subsection, the term “emergency services personnel” includes paramedics, firefighters, and emergency medical technicians.
+&emsp;In this subsection, the term "emergency services personnel" includes paramedics, firefighters, and emergency medical technicians.
 
 #### (3) Distribution of awards
 

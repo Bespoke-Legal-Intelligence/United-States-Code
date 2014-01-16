@@ -12,11 +12,11 @@ Bicycle helmets manufactured 9 months or more after June 16, 1994, shall conform
 
 The interim standards are as follows:
 
-&emsp;(1) The American National Standards Institute standard designated as “Z90.4–1984”.
+&emsp;(1) The American National Standards Institute standard designated as "Z90.4–1984".
 
-&emsp;(2) The Snell Memorial Foundation standard designated as “B–90”.
+&emsp;(2) The Snell Memorial Foundation standard designated as "B–90".
 
-&emsp;(3) The American Society for Testing and Materials (ASTM) standard designated as “F 1447”.
+&emsp;(3) The American Society for Testing and Materials (ASTM) standard designated as "F 1447".
 
 &emsp;(4) Any other standard that the Commission determines is appropriate.
 

@@ -46,7 +46,7 @@
 
 #### (C) Review of standards
 
-&emsp;&emsp;Concurrent with such action, the Secretary shall review the standards established under section 2002 of this title to be certain that adequate provision is made for parental notification regarding, and consent for, such counseling and therapeutic programs.
+&emsp;&emsp;Concurrent with such action, the Secretary shall review the standards establishedunder section 2002 of this title to be certain that adequate provision is made for parental notification regarding, and consent for, such counseling and therapeutic programs.
 
 #### (b) Pro rata allotment
 
@@ -132,7 +132,7 @@ Supplemental appropriations enacted to meet increased pay costs attributable to 
 
 #### (f) Eligible Indian student defined
 
-In this section, the term “eligible Indian student” means a student who—
+In this section, the term "eligible Indian student" means a student who—
 
 &emsp;(1) is a member of, or is at least one-fourth degree Indian blood descendant of a member of, a tribe that is eligible for the special programs and services provided by the United States through the Bureau to Indians because of their status as Indians;
 
@@ -170,7 +170,7 @@ Notwithstanding any other provision of law, at the election of the school board 
 
 #### (1) In general
 
-&emsp;Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 <sup>2</sup> of this title, at a rate not to exceedthe weighted amount provided for under subsection (b) of this section for a student for that year.
+&emsp;Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 <sup>2</sup> of this title, at a rate not to exceed the weighted amount provided for under subsection (b) of this section for a student for that year.
 
 #### (2) No administrative cost funds
 
@@ -184,7 +184,7 @@ A prior section 2007, Pub. L. 95–561, title XI, §1127, as added Pub. L. 103�
 
 Another prior section 2007, Pub. L. 95–561, title XI, §1127, Nov. 1, 1978, 92 Stat. 2320, related to policies and procedures for implementation of transferred administrative functions, prior to the general amendment of this chapter by Pub. L. 103–382.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “2502(c)(2)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "2502(c)(2)".</i>
 
-<i> </i><i><sup>2</sup></i><i> So in original. Probably should be section “2010”.</i>
+<i> </i><i><sup>2</sup></i><i> So in original. Probably should be section "2010".</i>
 

@@ -10,7 +10,7 @@ Commercial motor vehicle.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), the term “commercial motor vehicle”—
+In general.—Except as provided in subparagraph (B), the term "commercial motor vehicle"—
 
 &emsp;&emsp;&emsp;(i) for calendar years 2008 and 2009, has the meaning given the term in section 31101; and
 
@@ -18,7 +18,7 @@ In general.—Except as provided in subparagraph (B), the term “commercial mot
 
 &emsp;&emsp;(B)
 
-Exception.—With respect to determining the size of a motor carrier or motor private carrier's fleet in calculating the fee to be paid by a motor carrier or motor private carrier pursuant to subsection (f)(1), the motor carrier or motor private carrier shall have the option to include, in addition tocommercial motor vehicles as defined in subparagraph (A), any self-propelled vehicle used on the highway in commerce to transport passengers or property for compensation regardless of the gross vehicle weight rating of the vehicle or the number of passengers transported by such vehicle.
+Exception.—With respect to determining the size of a motor carrier or motor private carrier's fleet in calculating the fee to be paid by a motor carrier or motor private carrier pursuant to subsection (f)(1), the motor carrier or motor private carrier shall have the option to include, in addition to commercial motor vehicles as defined in subparagraph (A), any self-propelled vehicle used on the highway in commerce to transport passengers or property for compensation regardless of the gross vehicle weight rating of the vehicle or the number of passengers transported by such vehicle.
 
 &emsp;(2)
 
@@ -26,7 +26,7 @@ Base-state.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraph (B), the term “base-State” means, with respect to a unified carrier registration agreement, a State—
+In general.—Subject to subparagraph (B), the term "base-State" means, with respect to a unified carrier registration agreement, a State—
 
 &emsp;&emsp;&emsp;(i) that is in compliance with the requirements of subsection (e); and
 
@@ -42,11 +42,11 @@ Designation of base-state.—A motor carrier, motor private carrier, broker, fre
 
 &emsp;(3)
 
-Intrastate fee.—The term “intrastate fee” means any fee, tax, or other type of assessment, including per vehicle fees and gross receipts taxes, imposed on a motor carrier or motor private carrier for the renewal of the intrastate authority or insurance filings of such carrier with a State.
+Intrastate fee.—The term "intrastate fee" means any fee, tax, or other type of assessment, including per vehicle fees and gross receipts taxes, imposed on a motor carrier or motor private carrier for the renewal of the intrastate authority or insurance filings of such carrier with a State.
 
 &emsp;(4)
 
-Leasing company.—The term “leasing company” means a lessor that is engaged in the business of leasing or renting for compensation motor vehicles without drivers to a motor carrier, motor private carrier, or freight forwarder.
+Leasing company.—The term "leasing company" means a lessor that is engaged in the business of leasing or renting for compensation motor vehicles without drivers to a motor carrier, motor private carrier, or freight forwarder.
 
 &emsp;(5)
 
@@ -58,7 +58,7 @@ This section.—In this section:
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The term “motor carrier” includes all carriers that are otherwise exempt from this part—
+In general.—The term "motor carrier" includes all carriers that are otherwise exempt from this part—
 
 &emsp;&emsp;&emsp;&emsp;(I) under subchapter I of chapter 135; or
 
@@ -66,7 +66,7 @@ In general.—The term “motor carrier” includes all carriers that are otherw
 
 &emsp;&emsp;&emsp;(ii)
 
-Exclusions.—In this section, the term “motor carrier” does not include—
+Exclusions.—In this section, the term "motor carrier" does not include—
 
 &emsp;&emsp;&emsp;&emsp;(I) any carrier subject to section 13504; or
 
@@ -74,7 +74,7 @@ Exclusions.—In this section, the term “motor carrier” does not include—
 
 &emsp;&emsp;(B)
 
-Section 14506.—In section 14506, the term “motor carrier” includes all carriers that are otherwise exempt from this part—
+Section 14506.—In section 14506, the term "motor carrier" includes all carriers that are otherwise exempt from this part—
 
 &emsp;&emsp;&emsp;(i) under subchapter I of chapter 135; or
 
@@ -82,21 +82,21 @@ Section 14506.—In section 14506, the term “motor carrier” includes all car
 
 &emsp;(6)
 
-Participating state.—The term “participating State” means a State that has complied with the requirements of subsection (e).
+Participating state.—The term "participating State" means a State that has complied with the requirements of subsection (e).
 
-&emsp;(7) SSRS.—The term “SSRS” means the single state registration system in effect on the date of enactment of this section.
+&emsp;(7) SSRS.—The term "SSRS" means the single state registration system in effect on the date of enactment of this section.
 
 &emsp;(8)
 
-Unified carrier registration agreement.—The terms “unified carrier registration agreement” and “UCR agreement” mean the interstate agreement developed under the unified carrier registration plan governing the collection and distribution of registration and financial responsibility information provided and fees paid by motor carriers, motor private carriers, brokers, freight forwarders, and leasing companies pursuant to this section.
+Unified carrier registration agreement.—The terms "unified carrier registration agreement" and "UCR agreement" mean the interstate agreement developed under the unified carrier registration plan governing the collection and distribution of registration and financial responsibility information provided and fees paid by motor carriers, motor private carriers, brokers, freight forwarders, and leasing companies pursuant to this section.
 
 &emsp;(9)
 
-Unified carrier registration plan.—The terms “unified carrier registration plan” and “UCR plan” mean the organization of State, Federal, and industry representatives responsible for developing, implementing, and administering the unified carrier registration agreement.
+Unified carrier registration plan.—The terms "unified carrier registration plan" and "UCR plan" mean the organization of State, Federal, and industry representatives responsible for developing, implementing, and administering the unified carrier registration agreement.
 
 &emsp;(10)
 
-Vehicle registration.—The term “vehicle registration” means the registration of any commercial motor vehicle under the International Registration Plan (as defined in section 31701) or any other registration law or regulation of a jurisdiction.
+Vehicle registration.—The term "vehicle registration" means the registration of any commercial motor vehicle under the International Registration Plan (as defined in section 31701) or any other registration law or regulation of a jurisdiction.
 
 (b)
 
@@ -106,7 +106,7 @@ Applicability of Provisions to Freight Forwarders.—A freight forwarder that op
 
 Unreasonable Burden.—For purposes of this section, it shall be considered an unreasonable burden upon interstate commerce for any State or any political subdivision of a State, or any political authority of two or more States—
 
-&emsp;(1) to enact, impose, or enforce any requirement or standards with respect to, or levy any fee or charge on, any motor carrier or motor private carrier providing transportation or service subject to jurisdiction under subchapter I of chapter 135 (in this section referred to as an “interstate motor carrier” and an “interstate motor private carrier”, respectively) in connection with—
+&emsp;(1) to enact, impose, or enforce any requirement or standards with respect to, or levy any fee or charge on, any motor carrier or motor private carrier providing transportation or service subject to jurisdiction under subchapter I of chapter 135 (in this section referred to as an "interstate motor carrier" and an "interstate motor private carrier", respectively) in connection with—
 
 &emsp;&emsp;(A) the registration with the State of the interstate operations of the motor carrier or motor private carrier;
 
@@ -210,7 +210,7 @@ Compensation and expenses.—
 
 &emsp;&emsp;(A)
 
-In general.—Except for the representative of the Department appointed underparagraph (1)(B)(iv), no director shall receive any compensation or other benefits from the Federal Government for serving on the board or be considered a Federal employee as a result of such service.
+In general.—Except for the representative of the Department appointed under paragraph (1)(B)(iv), no director shall receive any compensation or other benefits from the Federal Government for serving on the board or be considered a Federal employee as a result of such service.
 
 &emsp;&emsp;(B)
 
@@ -230,7 +230,7 @@ Quorum.—A majority of directors shall constitute a quorum.
 
 &emsp;&emsp;(C)
 
-Voting.—Approval of any matter before the board shall require the approval of a majority of all directors present at the meeting, except that a decision to approve the exclusion of carriers from the definition of the term “motor carrier” under subsection (a)(5) shall require an affirmative vote of ¾ of all such directors..<sup>2</sup>
+Voting.—Approval of any matter before the board shall require the approval of a majority of all directors present at the meeting, except that a decision to approve the exclusion of carriers from the definition of the term "motor carrier" under subsection (a)(5) shall require an affirmative vote of ¾ of all such directors..<sup>2</sup>
 
 &emsp;&emsp;(D)
 
@@ -308,7 +308,7 @@ State plan.—No State shall be eligible to participate in the unified carrier r
 
 &emsp;&emsp;(A) identifying the State agency that has or will have the legal authority, resources, and qualified personnel necessary to administer the agreement in accordance with the rules and regulations promulgated by the board of directors; and
 
-&emsp;&emsp;(B) demonstrating that an amount at least equal to the revenue derived by the Statefrom the unified carrier registration agreement shall be used for motor carrier safety programs, enforcement, or the administration of the UCR plan and UCR agreement.
+&emsp;&emsp;(B) demonstrating that an amount at least equal to the revenue derived by the State from the unified carrier registration agreement shall be used for motor carrier safety programs, enforcement, or the administration of the UCR plan and UCR agreement.
 
 &emsp;(2)
 
@@ -444,27 +444,27 @@ The date of enactment of the Unified Carrier Registration Act of 2005, referred 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c)(1)(C). Pub. L. 112–141, §32933(b)(1), substituted “section” for “sections”.
+<b>2012</b>—Subsec. (c)(1)(C). Pub. L. 112–141, §32933(b)(1), substituted "section" for "sections".
 
-Subsec. (c)(1)(D)(ii)(II). Pub. L. 112–141, §32933(b)(2), substituted “; and” for period at end.
+Subsec. (c)(1)(D)(ii)(II). Pub. L. 112–141, §32933(b)(2), substituted "; and" for period at end.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–432, §701(d)(1)(A), inserted “(except as provided in paragraph (5))” after “14506” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–432, §701(d)(1)(A), inserted "(except as provided in paragraph (5))" after "14506" in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 110–432, §701(d)(1)(B), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Except as provided in subparagraph (B), the term ‘commercial motor vehicle’ has the meaning such term has under section 31101.”
+Subsec. (a)(1)(A). Pub. L. 110–432, §701(d)(1)(B), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "Except as provided in subparagraph (B), the term 'commercial motor vehicle' has the meaning such term has under section 31101."
 
-Subsec. (a)(1)(B). Pub. L. 110–244, §301(m), substituted “determining the size of a motor carrier or motor private carrier's fleet in calculating the fee to be paid by a motor carrier or motor private carrier pursuant to subsection (f)(1), the motor carrier or motor private carrier” for “a motor carrier required to make any filing or pay any fee to a State with respect to the motor carrier's authority or insurance related to operation within such State, the motor carrier”.
+Subsec. (a)(1)(B). Pub. L. 110–244, §301(m), substituted "determining the size of a motor carrier or motor private carrier's fleet in calculating the fee to be paid by a motor carrier or motor private carrier pursuant to subsection (f)(1), the motor carrier or motor private carrier" for "a motor carrier required to make any filing or pay any fee to a State with respect to the motor carrier's authority or insurance related to operation within such State, the motor carrier".
 
-Subsec. (a)(5). Pub. L. 110–432, §701(d)(1)(C), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The term ‘motor carrier’ includes all carriers that are otherwise exempt from this part under subchapter I of chapter 135 or exemption actions by the former Interstate Commerce Commission under this title.”
+Subsec. (a)(5). Pub. L. 110–432, §701(d)(1)(C), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "The term 'motor carrier' includes all carriers that are otherwise exempt from this part under subchapter I of chapter 135 or exemption actions by the former Interstate Commerce Commission under this title."
 
-Subsec. (c)(1)(B). Pub. L. 110–244, §301(p)(1), substituted “a” for “the a”.
+Subsec. (c)(1)(B). Pub. L. 110–244, §301(p)(1), substituted "a" for "the a".
 
-Subsec. (c)(2). Pub. L. 110–244, §301(n), substituted “exclusively in intrastate operations” for “exclusively in interstate operations”.
+Subsec. (c)(2). Pub. L. 110–244, §301(n), substituted "exclusively in intrastate operations" for "exclusively in interstate operations".
 
-Subsec. (d)(4)(C). Pub. L. 110–432, §701(d)(2), inserted before period “, except that a decision to approve the exclusion of carriers from the definition of the term ‘motor carrier’ under subsection (a)(5) shall require an affirmative vote of ¾ of all such directors.”
+Subsec. (d)(4)(C). Pub. L. 110–432, §701(d)(2), inserted before period ", except that a decision to approve the exclusion of carriers from the definition of the term 'motor carrier' under subsection (a)(5) shall require an affirmative vote of ¾ of all such directors."
 
-Subsec. (f)(1)(A)(i). Pub. L. 110–244, §301(p)(2), struck out “in connection with the filing of proof of financial responsibility” before “under the UCR agreement”.
+Subsec. (f)(1)(A)(i). Pub. L. 110–244, §301(p)(2), struck out "in connection with the filing of proof of financial responsibility" before "under the UCR agreement".
 
-Subsec. (f)(1)(A)(ii). Pub. L. 110–244, §301(o), (p)(3), substituted “under the UCR agreement” for “in connection with such a filing” and struck out “or” before “under this paragraph.”
+Subsec. (f)(1)(A)(ii). Pub. L. 110–244, §301(o), (p)(3), substituted "under the UCR agreement" for "in connection with such a filing" and struck out "or" before "under this paragraph."
 
 #### Effective Date of 2012 Amendment
 
@@ -472,7 +472,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

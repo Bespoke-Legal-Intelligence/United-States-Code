@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-Under authority of section 13 of this title, the Secretary, through the Service, shall enter intocontracts with, or make grants to, urban Indian organizations for the provision of health care and referral services for urban Indians residing in the urban centers in which such organizations are situated. Any such contract or grant shall include requirements that the urban Indian organization successfully undertake to—
+Under authority of section 13 of this title, the Secretary, through the Service, shall enter into contracts with, or make grants to, urban Indian organizations for the provision of health care and referral services for urban Indians residing in the urban centers in which such organizations are situated. Any such contract or grant shall include requirements that the urban Indian organization successfully undertake to—
 
 &emsp;(1) estimate the population of urban Indians residing in the urban center in which such organization is situated who are or could be recipients of health care or referral services;
 
@@ -44,7 +44,7 @@ The Secretary, through the Service, shall by regulation prescribe the criteria f
 
 &emsp;&emsp;(B) any project funded under this subchapter;
 
-&emsp;(5) the capability of an urban Indian organization to perform the activities set forth in subsection (a) of this section and to enter into a contract with the Secretary or to meet the requirements for receiving a grant under this section;
+&emsp;(5) the capability of an urban Indian organization to perform the activities set forth insubsection (a) of this section and to enter into a contract with the Secretary or to meet the requirements for receiving a grant under this section;
 
 &emsp;(6) the satisfactory performance and successful completion by an urban Indian organization of other contracts with the Secretary under this subchapter;
 
@@ -70,13 +70,13 @@ The Secretary, acting through the Service, shall facilitate access to, or provid
 
 &emsp;(D) the capability of the urban Indian organization to carry out services pursuant to this subsection.
 
-(3) For purposes of this subsection, the term “immunization services” means services to provide without charge immunizations against vaccine-preventable diseases.
+(3) For purposes of this subsection, the term "immunization services" means services to provide without charge immunizations against vaccine-preventable diseases.
 
 #### (e) Grants for mental health services
 
 (1) The Secretary, acting through the Service, shall facilitate access to, or provide, mental health services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section.
 
-(2) A grant may not be made under this subsection to an urban Indian organization until that organization has prepared, and the Service has approved, an assessment of the mental health needs of the urban Indian population concerned, the mental health services and other related resources available to that population, thebarriers to obtaining those services and resources, and the needs that are unmet by such services and resources.
+(2) A grant may not be made under this subsection to an urban Indian organization until that organization has prepared, and the Service has approved, an assessment of the mental health needs of the urban Indian population concerned, the mental health services and other related resources available to that population, the barriers to obtaining those services and resources, and the needs that are unmet by such services and resources.
 
 (3) Grants may be made under this subsection—
 
@@ -122,25 +122,25 @@ A prior section 1653, Pub. L. 94–437, title V, §503, Sept. 30, 1976, 90 Stat.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–573, §501(b)(1)(G), inserted “and grants” in section catchline.
+<b>1992</b>—Pub. L. 102–573, §501(b)(1)(G), inserted "and grants" in section catchline.
 
-Subsec. (a). Pub. L. 102–573, §501(b)(1)(A), inserted “, or make grants to,” after “contracts with” and “or grant” after “such contract”.
+Subsec. (a). Pub. L. 102–573, §501(b)(1)(A), inserted ", or make grants to," after "contracts with" and "or grant" after "such contract".
 
-Subsec. (b). Pub. L. 102–573, §501(b)(1)(B), inserted “or receive grants” after “enter into contracts” in introductory provisions and “or to meet the requirements for receiving a grant” after “Secretary” in par. (5).
+Subsec. (b). Pub. L. 102–573, §501(b)(1)(B), inserted "or receive grants" after "enter into contracts" in introductory provisions and "or to meet the requirements for receiving a grant" after "Secretary" in par. (5).
 
-Subsec. (c). Pub. L. 102–573, §505(b)(1)(A), struck out par. (1) designation before “The Secretary, acting” and struck out par. (2) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
+Subsec. (c). Pub. L. 102–573, §505(b)(1)(A), struck out par. (1) designation before "The Secretary, acting" and struck out par. (2) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
 
-Subsec. (c)(1). Pub. L. 102–573, §501(b)(1)(C), inserted before period at end “or receiving grants under subsection (a) of this section”.
+Subsec. (c)(1). Pub. L. 102–573, §501(b)(1)(C), inserted before period at end "or receiving grants under subsection (a) of this section".
 
-Subsec. (d)(1). Pub. L. 102–573, §501(b)(1)(D), inserted before period at end “or receiving grants under subsection (a) of this section”.
+Subsec. (d)(1). Pub. L. 102–573, §501(b)(1)(D), inserted before period at end "or receiving grants under subsection (a) of this section".
 
 Subsec. (d)(4). Pub. L. 102–573, §505(b)(1)(B), struck out par. (4) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
 
-Subsec. (e)(1). Pub. L. 102–573, §501(b)(1)(E), inserted before period at end “or receiving grants under subsection (a) of this section”.
+Subsec. (e)(1). Pub. L. 102–573, §501(b)(1)(E), inserted before period at end "or receiving grants under subsection (a) of this section".
 
 Subsec. (e)(4). Pub. L. 102–573, §505(b)(1)(C), struck out par. (4) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
 
-Subsec. (f)(1). Pub. L. 102–573, §501(b)(1)(F), inserted “or receiving grants under subsection (a) of this section” after “pursuant to this section”.
+Subsec. (f)(1). Pub. L. 102–573, §501(b)(1)(F), inserted "or receiving grants under subsection (a) of this section" after "pursuant to this section".
 
 Subsec. (f)(5). Pub. L. 102–573, §505(b)(1)(D), struck out par. (5) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
 
@@ -150,21 +150,21 @@ Subsec. (f)(5). Pub. L. 102–573, §505(b)(1)(D), struck out par. (5) which aut
 
 Pub. L. 101–630, title V, §506(a), (b), Nov. 28, 1990, 104 Stat. 4566, provided that:
 
-“(a)
+"(a)
 
 Survey.—The Secretary shall conduct a survey of all facilities used by contractors under title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\] and shall submit a report to the Congress on such survey not later than one year after the date of enactment of this Act \[Nov. 28, 1990\]. The report shall, at a minimum, contain the following information for each location:
 
-&emsp;“(1) The extent to which the facility meets safety and building codes and, if direct care is provided, the extent of compliance with Joint Commission for Accreditation of Health Care Organizations (JCAHO) standards.
+&emsp;"(1) The extent to which the facility meets safety and building codes and, if direct care is provided, the extent of compliance with Joint Commission for Accreditation of Health Care Organizations (JCAHO) standards.
 
-&emsp;“(2) The extent to which improvements, expansion, or relocation is necessary to meet program requirements, provide adequate services, or achieve building code compliance.
+&emsp;"(2) The extent to which improvements, expansion, or relocation is necessary to meet program requirements, provide adequate services, or achieve building code compliance.
 
-&emsp;“(3) Any lease restriction that would hamper accomplishment of needed improvement, expansion, or relocation.
+&emsp;"(3) Any lease restriction that would hamper accomplishment of needed improvement, expansion, or relocation.
 
-&emsp;“(4) The term of the lease, if appropriate, the age of the structure, and the structure's life expectancy with and without improvement.
+&emsp;"(4) The term of the lease, if appropriate, the age of the structure, and the structure's life expectancy with and without improvement.
 
-&emsp;“(5) An assessment of the deficiencies of the facility.
+&emsp;"(5) An assessment of the deficiencies of the facility.
 
-“(b)
+"(b)
 
-Report.—The report shall contain general recommendations for addressing the deficiencies of facilities in which programs funded under title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\] are located and shall propose specific policies for accomplishing those recommendations.”
+Report.—The report shall contain general recommendations for addressing the deficiencies of facilities in which programs funded under title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\] are located and shall propose specific policies for accomplishing those recommendations."
 

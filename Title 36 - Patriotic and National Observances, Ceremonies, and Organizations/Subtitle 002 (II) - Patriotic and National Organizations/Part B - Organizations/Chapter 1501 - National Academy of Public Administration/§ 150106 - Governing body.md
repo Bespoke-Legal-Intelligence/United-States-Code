@@ -32,5 +32,5 @@ Apr. 10, 1984, Pub. L. 98–257, §§6, 7, 98 Stat. 128.
 
 &nbsp;
 
-The words “and in conformity with the laws of the State or States in which it is incorporated” in 36:2306 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:2307 are omitted as unnecessary.
+The words "and in conformity with the laws of the State or States in which it is incorporated" in 36:2306 and "and in conformity with the laws of the State or States wherein it is incorporated" in 36:2307 are omitted as unnecessary.
 

@@ -38,9 +38,9 @@
 
 (2) For the purpose of this subsection—
 
-&emsp;(A) the term “cost of living adjustment” means the percentage by which the Consumer Price Index for the month of June of the calendar year preceding the adjustment exceeds the Consumer Price Index for the month of June of the calendar year in which the claim was determined or last adjusted; and
+&emsp;(A) the term "cost of living adjustment" means the percentage by which the Consumer Price Index for the month of June of the calendar year preceding the adjustment exceeds the Consumer Price Index for the month of June of the calendar year in which the claim was determined or last adjusted; and
 
-&emsp;(B) the term “administrative claim” includes all debt that is not based on an extension of Government credit through direct loans, loan guarantees, or insurance, including fines, penalties, and overpayments.
+&emsp;(B) the term "administrative claim" includes all debt that is not based on an extension of Government credit through direct loans, loan guarantees, or insurance, including fines, penalties, and overpayments.
 
 (Added Pub L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2472; amended Pub. L. 104–134, title III, §31001(c)(1), (g)(1)(C), (q), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–372.)
 
@@ -86,29 +86,29 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, §3(e)(1) (1st–3d sentences), (
 
 31 App.:952(e)(3) (2d, last sentences).
 
-In subsection (a), the words “percentage point” and “percentage points” are substituted for “per centum” for clarity.
+In subsection (a), the words "percentage point" and "percentage points" are substituted for "per centum" for clarity.
 
-In subsections (a)(1) and (e), the words “Except as provided in paragraph (3)” are omitted as surplus.
+In subsections (a)(1) and (e), the words "Except as provided in paragraph (3)" are omitted as surplus.
 
-In subsection (a)(2), the words “for a calendar quarter” are substituted for “quarterly”, and the words “prior calendar quarter” are substituted for “that calendar quarter”, for clarity.
+In subsection (a)(2), the words "for a calendar quarter" are substituted for "quarterly", and the words "prior calendar quarter" are substituted for "that calendar quarter", for clarity.
 
-In subsection (b), before clause (1), the words “Subject to paragraph (6)” and “except as provided in subparagraph (B)” are omitted as surplus. In clause (2), the words “on the claim” are omitted as surplus. The words “if notice is first mailed after October 24, 1982” are added for clarity.
+In subsection (b), before clause (1), the words "Subject to paragraph (6)" and "except as provided in subparagraph (B)" are omitted as surplus. In clause (2), the words "on the claim" are omitted as surplus. The words "if notice is first mailed after October 24, 1982" are added for clarity.
 
-In subsection (c), the words “on a claim” are omitted as surplus.
+In subsection (c), the words "on a claim" are omitted as surplus.
 
-In subsection (g)(1), the words “applicable” and “either” are omitted as surplus. The word “assessing” is added for clarity. The words “that apply to claims involved” are omitted as surplus.
+In subsection (g)(1), the words "applicable" and "either" are omitted as surplus. The word "assessing" is added for clarity. The words "that apply to claims involved" are omitted as surplus.
 
-In subsection (h), the words “under this section” are added for clarity.
+In subsection (h), the words "under this section" are added for clarity.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency”wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting "the head of an executive, judicial, or legislative agency" for "the head of an executive or legislative agency" wherever appearing, was executed by substituting "The head of an executive, judicial, or legislative agency" for "The head of an executive or legislative agency", to reflect the probable intent of Congress.
 
-Subsecs. (d), (e). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+Subsecs. (d), (e). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting "the head of an executive, judicial, or legislative agency" for "the head of an executive or legislative agency" wherever appearing, was executed by substituting "The head of an executive, judicial, or legislative agency" for "The head of an executive or legislative agency", to reflect the probable intent of Congress.
 
-Subsec. (h). Pub. L. 104–134, §31001(c)(1), (g)(1)(C), inserted “, the Secretary of the Treasury,” after “Attorney General” and substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency”.
+Subsec. (h). Pub. L. 104–134, §31001(c)(1), (g)(1)(C), inserted ", the Secretary of the Treasury," after "Attorney General" and substituted "the head of an executive, judicial, or legislative agency" for "the head of an executive or legislative agency".
 
 Subsec. (i). Pub. L. 104–134, §31001(q), added subsec. (i).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “, judicial, or”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be ", judicial, or".</i>
 

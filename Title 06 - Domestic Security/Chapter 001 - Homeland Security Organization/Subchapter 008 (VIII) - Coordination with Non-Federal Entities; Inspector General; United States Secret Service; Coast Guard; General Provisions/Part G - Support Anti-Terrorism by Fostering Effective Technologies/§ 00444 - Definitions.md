@@ -22,7 +22,7 @@ Requirements.—An act meets the requirements of this subparagraph if the act—
 
 #### (3) Insurance carrier
 
-&emsp;The term “insurance carrier” means any corporation, association, society, order, firm,company, mutual, partnership, individual aggregation of individuals, or any other legal entity that provides commercial property and casualty insurance. Such term includes any affiliates of a commercial insurance carrier.
+&emsp;The term “insurance carrier” means any corporation, association, society, order, firm, company, mutual, partnership, individual aggregation of individuals, or any other legal entity that provides commercial property and casualty insurance. Such term includes any affiliates of a commercial insurance carrier.
 
 #### (4) Liability insurance
 

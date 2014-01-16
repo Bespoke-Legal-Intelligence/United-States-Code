@@ -4,11 +4,11 @@ Notwithstanding section 2571 of this title, for purposes of this part—
 
 #### (1) NAFTA
 
-&emsp;The term “NAFTA” means the North American Free Trade Agreement.
+&emsp;The term "NAFTA" means the North American Free Trade Agreement.
 
 #### (2) State
 
-&emsp;The term “State” means any of the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;The term "State" means any of the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (Pub. L. 96–39, title IV, §481, as added Pub. L. 103–182, title III, §351(a), Dec. 8, 1993, 107 Stat. 2122.)
 

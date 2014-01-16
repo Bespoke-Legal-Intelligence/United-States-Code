@@ -12,15 +12,15 @@ In the case of any State plan which has been approved under this subchapter by t
 
 #### Repeal of Section
 
-<i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is</i><i>repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
+<i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–248 inserted “(or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure)” after “further payments will not be made to the State” and substituted in last sentence “further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure)” for “further certification to the Secretary of the Treasury with respect to such State”.
+<b>1968</b>—Pub. L. 90–248 inserted "(or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure)" after "further payments will not be made to the State" and substituted in last sentence "further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure)" for "further certification to the Secretary of the Treasury with respect to such State".
 
-<b>1960</b>—Pub. L. 86–778 substituted “State plan which has been approved under this subchapter” for “State plan for old-age assistance which has been approved”.
+<b>1960</b>—Pub. L. 86–778 substituted "State plan which has been approved under this subchapter" for "State plan for old-age assistance which has been approved".
 
-<b>1950</b>—Act Aug. 28, 1950, substituted “Administrator” for “Board”, and “he”, “him”, or “his” for “it”, or “its”, wherever appearing.
+<b>1950</b>—Act Aug. 28, 1950, substituted "Administrator" for "Board", and "he", "him", or "his" for "it", or "its", wherever appearing.
 
 #### Effective Date of 1960 Amendment
 

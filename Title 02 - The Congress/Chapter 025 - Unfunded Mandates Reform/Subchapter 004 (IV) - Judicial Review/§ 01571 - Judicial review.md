@@ -22,7 +22,7 @@
 
 #### (5) Application of other Federal law
 
-&emsp;For any petition under paragraph (2) the provisions of such other Federal law shall control all other matters, such as exhaustion of administrative remedies, the time for and manner of seeking review and venue, except that if such other Federal law does not provide a limitation on the time for filing a petition for judicial review that is less than 180 days, such limitation shall be 180 days after a final rule is promulgated by the appropriate agency.
+&emsp;For any petition under paragraph (2) the provisions of such other Federal law shall control all other matters, such as exhaustion ofadministrative remedies, the time for and manner of seeking review and venue, except that if such other Federal law does not provide a limitation on the time for filing a petition for judicial review that is less than 180 days, such limitation shall be 180 days after a final rule is promulgated by the appropriate agency.
 
 #### (6) Effective date
 

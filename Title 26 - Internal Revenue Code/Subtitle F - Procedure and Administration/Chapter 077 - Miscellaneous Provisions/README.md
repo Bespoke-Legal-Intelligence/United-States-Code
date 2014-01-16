@@ -41,13 +41,13 @@
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–121, title I, §104(b)(3), Nov. 11, 2003, 117 Stat. 1338, inserted “or contingency operation” after “combat zone” in item 7508.
+<b>2003</b>—Pub. L. 108–121, title I, §104(b)(3), Nov. 11, 2003, 117 Stat. 1338, inserted "or contingency operation" after "combat zone" in item 7508.
 
 Pub. L. 108–89, title II, §202(b)(1), Oct. 1, 2003, 117 Stat. 1133, added item 7528.
 
 <b>2002</b>—Pub. L. 107–210, div. A, title II, §202(d)(1), Aug. 6, 2002, 116 Stat. 963, added item 7527.
 
-Pub. L. 107–134, title I, §112(e)(1), Jan. 23, 2002, 115 Stat. 2435, substituted “Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions” for “Authority to postpone certain tax-related deadlines by reason of presidentially declared disaster” in item 7508A.
+Pub. L. 107–134, title I, §112(e)(1), Jan. 23, 2002, 115 Stat. 2435, substituted "Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions" for "Authority to postpone certain tax-related deadlines by reason of presidentially declared disaster" in item 7508A.
 
 <b>1998</b>—Pub. L. 105–206, title III, §§3411(b), 3601(b), July 22, 1998, 112 Stat. 751, 776, added items 7525 and 7526.
 
@@ -55,7 +55,7 @@ Pub. L. 107–134, title I, §112(e)(1), Jan. 23, 2002, 115 Stat. 2435, substitu
 
 <b>1996</b>—Pub. L. 104–168, title XII, §1204(b), July 30, 1996, 110 Stat. 1471, added item 7524.
 
-<b>1990</b>—Pub. L. 101–508, title XI, §§11622(b), 11704(a)(31), Nov. 5, 1990, 104 Stat. 1388–505, 1388–519, substituted “7522. Content of tax due, deficiency, and other notices.” for “7521. Content of tax due, deficiency, and other notices.” and added item 7523.
+<b>1990</b>—Pub. L. 101–508, title XI, §§11622(b), 11704(a)(31), Nov. 5, 1990, 104 Stat. 1388–505, 1388–519, substituted "7522. Content of tax due, deficiency, and other notices." for "7521. Content of tax due, deficiency, and other notices." and added item 7523.
 
 <b>1989</b>—Pub. L. 101–239, title VII, §7816(u)(2), Dec. 19, 1989, 103 Stat. 2423, redesignated item 7520, relating to procedures involving taxpayer interviews, as 7521.
 
@@ -69,17 +69,17 @@ Pub. L. 100–647, title V, §5031(b), Nov. 10, 1988, 102 Stat. 3669, added item
 
 <b>1986</b>—Pub. L. 99–514, title II, §261(f), Oct. 22, 1986, 100 Stat. 2216, added item 7518.
 
-<b>1976</b>—Pub. L. 94–455, title XIX, §1906(b)(11), (12), Oct. 4, 1976, 90 Stat. 1834, substituted “Time for performing certain acts postponed by reason of service in combat zone” for “Time for performing certain acts postponed by reason of war” in item 7508, and “Expenditures incurred by the United States Postal Service” for “Expenditures incurred by the Post Office Department” in item 7509.
+<b>1976</b>—Pub. L. 94–455, title XIX, §1906(b)(11), (12), Oct. 4, 1976, 90 Stat. 1834, substituted "Time for performing certain acts postponed by reason of service in combat zone" for "Time for performing certain acts postponed by reason of war" in item 7508, and "Expenditures incurred by the United States Postal Service" for "Expenditures incurred by the Post Office Department" in item 7509.
 
 Pub. L. 94–455, title XX, §2008(a)(2)(C), Oct. 4, 1976, 90 Stat. 1891, added item 7517 relating to statement explaining estate or gift valuation.
 
-<b>1966</b>—Pub. L. 89–719, title I, §111(c)(2), Nov. 2, 1966, 80 Stat. 1145, substituted “acquired” for “purchased” in item 7505.
+<b>1966</b>—Pub. L. 89–719, title I, §111(c)(2), Nov. 2, 1966, 80 Stat. 1145, substituted "acquired" for "purchased" in item 7505.
 
-Pub. L. 89–713, §5(b), Nov. 2, 1966, 80 Stat. 1111, inserted “and paying” in item 7502.
+Pub. L. 89–713, §5(b), Nov. 2, 1966, 80 Stat. 1111, inserted "and paying" in item 7502.
 
 <b>1962</b>—Pub. L. 87–870, §3(a)(2), Oct. 23, 1962, 76 Stat. 1161, added items 7515 and 7516.
 
-Pub. L. 87–456, title III, §302(d), May 24, 1962, 76 Stat. 77, struck out item 7511 “Exemption of consular officers and employees of foreign states from payment of internal revenue taxes on imported articles”.
+Pub. L. 87–456, title III, §302(d), May 24, 1962, 76 Stat. 77, struck out item 7511 "Exemption of consular officers and employees of foreign states from payment of internal revenue taxes on imported articles".
 
 <b>1958</b>—Pub. L. 85–866, title I, §§90(b), 91(b), Sept. 2, 1958, 72 Stat. 1666, 1667, added items 7513 and 7514.
 

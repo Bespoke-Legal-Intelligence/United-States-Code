@@ -24,7 +24,7 @@ For the purpose of carrying out this section,<sup>1</sup> there is authorized to
 
 #### (b) Scholarships for new participants
 
-Of the amounts appropriated under subsection (a) of this section for a fiscal year, the Secretary shall obligate not less than 10 percent for the purpose of providing contracts for—
+Of the amounts appropriated under subsection (a) of this section for a fiscal year, the Secretaryshall obligate not less than 10 percent for the purpose of providing contracts for—
 
 &emsp;(1) scholarships under this subpart to individuals who have not previously received such scholarships; or
 
@@ -46,13 +46,13 @@ A prior section 338H of act July 1, 1944, was renumbered section 338I by Pub. L.
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to authorization of appropriations for the purposes of carrying out this subpart as follows: for fiscal year 2008, $131,500,000; for fiscal year 2009, $143,335,000; for fiscal year 2010, $156,235,150; for fiscal year 2011, $170,296,310; and for fiscal year 2012, $185,622,980.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–355 substituted “appropriated—” for “appropriated $146,250,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.” and added pars. (1) to (5).
+<b>2008</b>—Subsec. (a). Pub. L. 110–355 substituted "appropriated—" for "appropriated $146,250,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006." and added pars. (1) to (5).
 
 <b>2002</b>—Pub. L. 107–251 amended section generally. Prior to amendment, section related to annual report to Congress, authorization of appropriations for fiscal years 1991 through 2000, and reservation of percentage of appropriated amounts for scholarships for new participants and for first-year study in certain fields.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–597, §205(a), substituted “March 1” for “January 20” and “5 fiscal years” for “3 fiscal years” wherever appearing.
+<b>1990</b>—Subsec. (a). Pub. L. 101–597, §205(a), substituted "March 1" for "January 20" and "5 fiscal years" for "3 fiscal years" wherever appearing.
 
-Subsec. (b). Pub. L. 101–597, §205(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated such sums as may be necessary for scholarships and loan repayments under this subpart.”
+Subsec. (b). Pub. L. 101–597, §205(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "There are authorized to be appropriated such sums as may be necessary for scholarships and loan repayments under this subpart."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subpart,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subpart,".</i>
 

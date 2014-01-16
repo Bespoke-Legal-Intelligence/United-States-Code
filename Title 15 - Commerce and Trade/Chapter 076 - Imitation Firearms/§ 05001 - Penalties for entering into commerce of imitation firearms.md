@@ -6,15 +6,15 @@ It shall be unlawful for any person to manufacture, enter into commerce, ship, t
 
 #### (b) Distinctive marking or device; exception; waiver; adjustments and changes
 
-(1) Except as provided in paragraph (2) or (3), each toy, look-alike, or imitation firearm shall have as an integral part, permanently affixed, a blaze orange plug inserted in the barrel of such toy, look-alike, or imitation firearm. Such plug shall be recessed no more than 6 millimeters from the muzzle end of the barrel of such firearm.
+(1) Except as provided in paragraph (2) or (3), each toy, look-alike, or imitation firearm shall have as an integral part, permanently affixed, a blaze orange plug inserted in the barrel of such toy, look-alike, or imitation firearm. Such plugshall be recessed no more than 6 millimeters from the muzzle end of the barrel of such firearm.
 
 (2) The Secretary of Commerce may provide for an alternate marking or device for any toy, look-alike, or imitation firearm not capable of being marked as provided in paragraph (1) and may waive the requirement of any such marking or device for any toy, look-alike, or imitation firearm that will only be used in the theatrical, movie or television industry.
 
 (3) The Secretary is authorized to make adjustments and changes in the marking system provided for by this section, after consulting with interested persons.
 
-#### (c) “Look-alike firearm” defined
+#### (c) "Look-alike firearm" defined
 
-For purposes of this section, the term “look-alike firearm” means any imitation of any original firearm which was manufactured, designed, and produced since 1898, including and limited to toy guns, water guns, replica nonguns, and air-soft guns firing nonmetallic projectiles. Such term does not include any look-alike, nonfiring, collector replica of an antique firearm developed prior to 1898, or traditional B–B, paint-ball, or pellet-firing air guns that expel a projectile through the force of air pressure.
+For purposes of this section, the term "look-alike firearm" means any imitation of any original firearm which was manufactured, designed, and produced since 1898, including and limited to toy guns, water guns, replica nonguns, and air-soft guns firing nonmetallic projectiles. Such term does not include any look-alike, nonfiring, collector replica of an antique firearm developed prior to 1898, or traditional B–B, paint-ball, or pellet-firing air guns that expel a projectile through the force of air pressure.
 
 #### (d) Study and report
 
@@ -38,7 +38,7 @@ The provisions of this section shall supersede any provision of State or local l
 
 (Pub. L. 100–615, §4, Nov. 5, 1988, 102 Stat. 3190.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(e)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(e)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “of the”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "of the".</i>
 

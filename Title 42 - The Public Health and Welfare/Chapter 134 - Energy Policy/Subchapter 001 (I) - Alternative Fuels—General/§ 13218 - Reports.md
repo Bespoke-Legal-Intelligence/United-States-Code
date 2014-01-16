@@ -52,7 +52,7 @@ Subsec. (a) of this section, which required the Administrator of General Service
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58 substituted “February 15, 2006” for “1 year after November 13, 1998” in introductory provisions.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58 substituted "February 15, 2006" for "1 year after November 13, 1998" in introductory provisions.
 
-<b>1998</b>—Pub. L. 105–388 substituted “Reports” for “General Services Administration report” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+<b>1998</b>—Pub. L. 105–388 substituted "Reports" for "General Services Administration report" in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 

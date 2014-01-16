@@ -20,27 +20,27 @@ Notwithstanding subsection (a) of this section, if the legislature of American S
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–376, §2(1), substituted “plurality of the votes cast” for “majority of the votes cast” and struck out “If no candidate receives such majority, on the fourteenth day following such election a runoff election shall be held between the candidates receiving the highest and the second highest number of votes cast for the office of Delegate.” before “In case of”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–376, §2(1), substituted "plurality of the votes cast" for "majority of the votes cast" and struck out "If no candidate receives such majority, on the fourteenth day following such election a runoff election shall be held between the candidates receiving the highest and the second highest number of votes cast for the office of Delegate." before "In case of".
 
 Subsecs. (c), (d). Pub. L. 108–376, §2(2), added subsecs. (c) and (d).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–376, §3, Oct. 30, 2004, 118 Stat. 2201, provided that: “The amendments made by paragraph (1) of section 2 \[amending subsec. (a) of this section\] shall take effect on January 1, 2006. The amendment made by paragraph (2) of section 2 \[adding subsecs. (c) and (d) of this section\] shall take effect on January 1, 2005.”
+Pub. L. 108–376, §3, Oct. 30, 2004, 118 Stat. 2201, provided that: "The amendments made by paragraph (1) of section 2 \[amending subsec. (a) of this section\] shall take effect on January 1, 2006. The amendment made by paragraph (2) of section 2 \[adding subsecs. (c) and (d) of this section\] shall take effect on January 1, 2005."
 
 #### Findings
 
-Pub. L. 108–376, §1, Oct. 30, 2004, 118 Stat. 2200, provided that: “Congress finds the following:
+Pub. L. 108–376, §1, Oct. 30, 2004, 118 Stat. 2200, provided that: "Congress finds the following:
 
-&emsp;“(1) It is in the national interest that qualifying members of the Armed Forces on active duty and other overseas voters be allowed to vote in Federal elections.
+&emsp;"(1) It is in the national interest that qualifying members of the Armed Forces on active duty and other overseas voters be allowed to vote in Federal elections.
 
-&emsp;“(2) Since 1980, when the first election for the Congressional Delegate from American Samoa was held, general elections have been held in the first week of November in even-numbered years and runoff elections have been held 2 weeks later.
+&emsp;"(2) Since 1980, when the first election for the Congressional Delegate from American Samoa was held, general elections have been held in the first week of November in even-numbered years and runoff elections have been held 2 weeks later.
 
-&emsp;“(3) This practice of holding a run-off election 2 weeks after a general election deprives members of the Armed Forces on active duty and other overseas voters of the opportunity to participate in the Federal election process in American Samoa.
+&emsp;"(3) This practice of holding a run-off election 2 weeks after a general election deprives members of the Armed Forces on active duty and other overseas voters of the opportunity to participate in the Federal election process in American Samoa.
 
-&emsp;“(4) Prior to and since September 11, 2001, and due to limited air service, mail delays, and other considerations, it has been and remains impossible for absentee ballots to be prepared and returned within a 2-week period.
+&emsp;"(4) Prior to and since September 11, 2001, and due to limited air service, mail delays, and other considerations, it has been and remains impossible for absentee ballots to be prepared and returned within a 2-week period.
 
-&emsp;“(5) American Samoa law requiring members of the Armed Forces on active duty and other overseas voters to register in person also prevents participation in the Federal election process and is contrary to the Uniformed and Overseas Citizens Absentee Voting Act \[42 U.S.C. 1973ff et seq.\].
+&emsp;"(5) American Samoa law requiring members of the Armed Forces on active duty and other overseas voters to register in person also prevents participationin the Federal election process and is contrary to the Uniformed and Overseas Citizens Absentee Voting Act \[42 U.S.C. 1973ff et seq.\].
 
-&emsp;“(6) Given that 49 states elect their Representatives to the United States House of Representatives by plurality, it is in the national interest for American Samoa to do the same until such time as the American Samoa Legislature establishes primary elections and declares null and void the local practice of requiring members of the Armed Forces on active duty and other overseas voters to register in person which is contrary to the federal Uniformed and Overseas Citizens Absentee Voting Act.”
+&emsp;"(6) Given that 49 states elect their Representatives to the United States House of Representatives by plurality, it is in the national interest for American Samoa to do the same until such time as the American Samoa Legislature establishes primary elections and declares null and void the local practice of requiring members of the Armed Forces on active duty and other overseas voters to register in person which is contrary to the federal Uniformed and Overseas Citizens Absentee Voting Act."
 

@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This subpart may be cited as the “Gun-Free Schools Act”.
+This subpart may be cited as the "Gun-Free Schools Act".
 
 #### (b) Requirements
 
@@ -12,11 +12,11 @@ This subpart may be cited as the “Gun-Free Schools Act”.
 
 #### (2) Construction
 
-&emsp;Nothing in this subpart shall be construed to prevent a State from allowing a local educational agency that has expelled a student from such a student's regular school settingfrom providing educational services to such student in an alternative setting.
+&emsp;Nothing in this subpart shall be construed to prevent a State from allowing a local educational agency that has expelled a student from such a student's regular school setting from providing educational services to such student in an alternative setting.
 
 #### (3) Definition
 
-&emsp;For the purpose of this section, the term “firearm” has the same meaning given such term in section 921(a) of title 18.
+&emsp;For the purpose of this section, the term "firearm" has the same meaning given such term in section 921(a) of title 18.
 
 #### (c) Special rule
 
@@ -42,7 +42,7 @@ Each State shall report the information described in subsection (d) of this sect
 
 #### (f) Definition
 
-For the purpose of subsection (d) of this section, the term “school” means any setting that is under the control and supervision of the local educational agency for the purpose of student activities approved and authorized by the local educational agency.
+For the purpose of subsection (d) of this section, the term "school" means any setting that is under the control and supervision of the local educational agency for the purpose of student activities approved and authorized by the local educational agency.
 
 #### (g) Exception
 
@@ -56,11 +56,11 @@ Nothing in this section shall apply to a firearm that is lawfully stored inside 
 
 #### (2) Definition
 
-&emsp;For the purpose of this subsection, the term “school” has the same meaning given to such term by section 921(a) of title 18.
+&emsp;For the purpose of this subsection, the term "school" has the same meaning given to such term by section 921(a) of title 18.
 
 (Pub. L. 89–10, title IV, §4141, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1762.)
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c), is title VI of Pub. L. 91–230, Apr.13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 

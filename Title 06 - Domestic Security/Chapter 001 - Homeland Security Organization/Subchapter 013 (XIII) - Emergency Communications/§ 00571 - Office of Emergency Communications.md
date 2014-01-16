@@ -34,7 +34,7 @@ The Director for Emergency Communications shall—
 
 &emsp;(11) establish, in coordination with the Director of the Office for Interoperability and Compatibility, requirements for interoperable emergency communications capabilities, which shall be nonproprietary where standards for such capabilities exist, for all public safety radio and data communications systems and equipment purchased using homeland security assistance administered by the Department, excluding any alert and warning device, technology, or system;
 
-&emsp;(12) review, in consultation with the Assistant Secretary for Grants and Training, all interoperable emergency communications plans of Federal, State, local, and tribal governments, including Statewide and tactical interoperability plans, developed pursuant to homeland security assistance administered bythe Department, but excluding spectrum allocation and management related to such plans;
+&emsp;(12) review, in consultation with the Assistant Secretary for Grants and Training, all interoperable emergency communications plans of Federal, State, local, and tribal governments, including Statewide and tactical interoperability plans, developed pursuant to homeland security assistance administered by the Department, but excluding spectrum allocation and management related to such plans;
 
 &emsp;(13) develop and update periodically, as appropriate, a National Emergency Communications Plan under section 572 of this title;
 

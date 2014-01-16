@@ -46,9 +46,9 @@ Aug. 29, 1916, ch. 415, §§31, 39, 40, 39 Stat. 543, 544.
 
 49 App.:120.
 
-In subsection (a)(1), before subclause (A), the word “duly” is omitted as surplus.
+In subsection (a)(1), before subclause (A), the word "duly" is omitted as surplus.
 
-In subsection (b), the words “right . . . is superior” are substituted for “no . . . shall defeat the rights of” for clarity. The words “right to stop the transportation” are substituted for “right of stoppage in transitu” for clarity.
+In subsection (b), the words "right . . . is superior" are substituted for "no . . . shall defeat the rights of" for clarity. The words "right to stop the transportation" are substituted for "right of stoppage in transitu" for clarity.
 
-In subsection (c), the word “remedies” is omitted as being included in “right”. The words “whose mortgage or lien on goods would be valid, apart from this chapter” are omitted as unnecessary because of the restatement. The words “which are subject to the mortgage or lien” are omitted as unnecessary.
+In subsection (c), the word "remedies" is omitted as being included in "right". The words "whose mortgage or lien on goods would be valid, apart from this chapter" are omitted as unnecessary because of the restatement. The words "which are subject to the mortgage or lien" are omitted as unnecessary.
 

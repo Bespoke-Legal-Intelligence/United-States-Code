@@ -34,7 +34,7 @@
 
 #### (c) Definition
 
-For the purpose of this section, the term “average per pupil expenditure”, used with respect to a State, means an amount equal to—
+For the purpose of this section, the term "average per pupil expenditure", used with respect to a State, means an amount equal to—
 
 &emsp;(1) the sum of the aggregate current expenditures of all the local educational agencies in the State, plus any direct current expenditures by the State for the operation of such agencies, without regard to the sources of funds from which such local or State expenditures were made, during the second fiscal year preceding the fiscal year for which the computation is made; divided by
 
@@ -70,7 +70,7 @@ If the sums appropriated for any fiscal year under section 7492(a) of this title
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (d)(1)(A)(ii), is title I of Pub. L. 93–638, Jan. 4,1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (d)(1)(A)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 The Tribally Controlled Schools Act of 1988, referred to in subsec. (d)(1)(A)(ii), is part B (§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 25 and Tables.
 

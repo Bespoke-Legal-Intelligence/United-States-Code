@@ -8,5 +8,5 @@ The Secretary shall request the National Association of Insurance Commissioners 
 
 Another section 2794 of act July 1, 1944, is classified to section 300gg–94 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “issuers”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "issuers".</i>
 

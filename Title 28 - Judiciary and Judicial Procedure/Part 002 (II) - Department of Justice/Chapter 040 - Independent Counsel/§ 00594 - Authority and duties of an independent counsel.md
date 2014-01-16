@@ -70,7 +70,7 @@ In carrying out functions.—An independent counsel may request assistance from 
 
 &emsp;(2)
 
-Payment of and reports on expenditures of independent counsel.—The Department of Justice shall pay all costs relating to the establishment and operation of any office of independent counsel. The Attorney General shall submit to the Congress, not later than 30 days after the end of each fiscal year, a report on amounts paid during that fiscal year for expenses of investigations and prosecutions by independent counsel. Each such report shall include a statement of all payments made for activities of independent counsel but may not reveal the identity or prosecutorial jurisdiction of any independent counsel which has not been disclosed under section 593(b)(4).
+Payment of and reports on expenditures of independent counsel.—The Department of Justice shall pay all costs relating to the establishment and operation of any office of independent counsel. The Attorney General shall submit to the Congress, not later than 30days after the end of each fiscal year, a report on amounts paid during that fiscal year for expenses of investigations and prosecutions by independent counsel. Each such report shall include a statement of all payments made for activities of independent counsel but may not reveal the identity or prosecutorial jurisdiction of any independent counsel which has not been disclosed under section 593(b)(4).
 
 (e)
 
@@ -82,7 +82,7 @@ Compliance With Policies of the Department of Justice.—
 
 &emsp;(1)
 
-In general.—An independent counsel shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply with the written or other established policies of the Department of Justice respecting enforcement of the criminal laws. To determine these policies and policies under subsection (l)(1)(B), the independent counsel shall, except to the extent that doing so wouldbe inconsistent with the purposes of this chapter, consult with the Department of Justice.
+In general.—An independent counsel shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply with the written or other established policies of the Department of Justice respecting enforcement of the criminal laws. To determine these policies and policies under subsection (l)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.
 
 &emsp;(2)
 
@@ -134,7 +134,7 @@ Restrictions on employment while independent counsel and appointees are serving.
 
 &emsp;(2)
 
-Post employment restrictions on independent counsel and appointees.—(A) Each independent counsel and each person appointed by that independent counsel under subsection (c) may not, for 3 years following the termination of the service under this chapter of that independent counsel or appointed person, as the case may be, represent any person in any matter if that individual was the subject of an investigation or prosecution under this chapter that was conducted by that independent counsel.
+Post employment restrictions on independent counsel and appointees.—(A) Eachindependent counsel and each person appointed by that independent counsel under subsection (c) may not, for 3 years following the termination of the service under this chapter of that independent counsel or appointed person, as the case may be, represent any person in any matter if that individual was the subject of an investigation or prosecution under this chapter that was conducted by that independent counsel.
 
 &emsp;(B) Each independent counsel and each person appointed by that independent counsel under subsection (c) may not, for 1 year following the termination of the service under this chapter of that independent counsel or appointed person, as the case may be, represent any person in any matter involving any investigation or prosecution under this chapter.
 
@@ -146,9 +146,9 @@ One-year ban on representation by members of firms of independent counsel.—Any
 
 Definitions.—For purposes of this subsection—
 
-&emsp;&emsp;(A) the term “firm” means a law firm whether organized as a partnership or corporation; and
+&emsp;&emsp;(A) the term "firm" means a law firm whether organized as a partnership or corporation; and
 
-&emsp;&emsp;(B) a person is “associated” with a firm if that person is an officer, director, partner, or other member or employee of that firm.
+&emsp;&emsp;(B) a person is "associated" with a firm if that person is an officer, director, partner, or other member or employee of that firm.
 
 &emsp;(5)
 
@@ -218,7 +218,7 @@ Department of justice policies.—An independent counsel shall comply with the e
 
 &emsp;(2)
 
-Administrative support.—The Director of the Administrative Office of the United States Courts shall provide administrative support and guidance to each independent counsel. No officer or employee of the Administrative Office of the United States Courts shall disclose information related to an independent counsel's expenditures, personnel, or administrative acts or arrangements without the authorization of the independent counsel.
+Administrative support.—The Director of the Administrative Office of the UnitedStates Courts shall provide administrative support and guidance to each independent counsel. No officer or employee of the Administrative Office of the United States Courts shall disclose information related to an independent counsel's expenditures, personnel, or administrative acts or arrangements without the authorization of the independent counsel.
 
 &emsp;(3)
 
@@ -236,19 +236,19 @@ The enactment of the Independent Counsel Reauthorization Act of 1987, referred t
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(3)(A). Pub. L. 104–208, §101(a) \[title I, §118(a), (b)\], in second sentence substituted “for successive 6-month periods” for “by 6-months” and “independent counsel and the division of the court certify” for “employee assigned duties under subsection (l)(1)(A)(iii) certifies”.
+<b>1996</b>—Subsec. (b)(3)(A). Pub. L. 104–208, §101(a) \[title I, §118(a), (b)\], in second sentence substituted "for successive 6-month periods" for "by 6-months" and "independent counsel and the division of the court certify" for "employee assigned duties under subsection (l)(1)(A)(iii) certifies".
 
-Subsec. (b)(3)(B). Pub. L. 104–208, §101(a) \[title I, §118(c)\], which directed the amendment of second sentence of subsec. (b)(3)(A) by striking “such employee” and inserting “the independent counsel” and “the division of the court”, was executed to introductory provisions of subsec. (b)(3)(B) by substituting “the independent counsel and the division of the court” for “such employee” to reflect the probable intent of Congress.
+Subsec. (b)(3)(B). Pub. L. 104–208, §101(a) \[title I, §118(c)\], which directed the amendment of second sentence of subsec. (b)(3)(A) by striking "such employee" and inserting "the independent counsel" and "the division of the court", was executed to introductory provisions of subsec. (b)(3)(B) by substituting "the independent counsel and the division of the court" for "such employee" to reflect the probable intent of Congress.
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–270, §3(b), designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
-Subsec. (c). Pub. L. 103–270, §3(c), substituted last sentence for former last sentence which read as follows: “No such employee may be compensated at a rate exceeding the maximum rate of pay payable for GS–18 of the General Schedule under section 5332 of title 5.”
+Subsec. (c). Pub. L. 103–270, §3(c), substituted last sentence for former last sentence which read as follows: "No such employee may be compensated at a rate exceeding the maximum rate of pay payable for GS–18 of the General Schedule under section 5332 of title 5."
 
-Subsec. (d)(1). Pub. L. 103–270, §3(m), inserted at end “At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel.”
+Subsec. (d)(1). Pub. L. 103–270, §3(m), inserted at end "At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel."
 
-Subsec. (f). Pub. L. 103–270, §3(e), designated existing provisions as par. (1) and inserted heading, substituted “shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply” for “shall, except where not possible, comply”, inserted at end “To determine these policies and policies under subsection (l)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.”, and added par. (2).
+Subsec. (f). Pub. L. 103–270, §3(e), designated existing provisions as par. (1) and inserted heading, substituted "shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply" for "shall, except where not possible, comply", inserted at end "To determine these policies and policies under subsection (l)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.", and added par. (2).
 
-Subsec. (h)(1)(B). Pub. L. 103–270, §3(o), struck out before period at end “, and the reasons for not prosecuting any matter within the prosecutorial jurisdiction of such independent counsel”.
+Subsec. (h)(1)(B). Pub. L. 103–270, §3(o), struck out before period at end ", and the reasons for not prosecuting any matter within the prosecutorial jurisdiction of such independent counsel".
 
 Subsec. (h)(3). Pub. L. 103–270, §3(f), added par. (3).
 
@@ -258,19 +258,19 @@ Subsec. (l). Pub. L. 103–270, §3(a), added subsec. (l).
 
 <b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (k) for former subsecs. (a) to (g) which related to similar subject matter.
 
-<b>1986</b>—Subsec. (a)(8). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a)(8). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
-<b>1983</b>—Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
+<b>1983</b>—Pub. L. 97–409, §2(a)(1)(A), substituted "independent counsel" for "special prosecutor" in section catchline.
 
-Subsec. (a). Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” wherever appearing and “independent counsel's” for “special prosecutor's”.
+Subsec. (a). Pub. L. 97–409, §2(a)(1), substituted "independent counsel" for "special prosecutor" wherever appearing and "independent counsel's" for "special prosecutor's".
 
 Subsec. (a)(10). Pub. L. 97–409, §6(a), added par. (10).
 
-Subsecs. (b), (c). Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
+Subsecs. (b), (c). Pub. L. 97–409, §2(a)(1)(A), substituted "independent counsel" for "special prosecutor" wherever appearing.
 
-Subsecs. (d), (e). Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel's” for “special prosecutor's” wherever appearing.
+Subsecs. (d), (e). Pub. L. 97–409, §2(a)(1), substituted "independent counsel" for "special prosecutor" and "independent counsel's" for "special prosecutor's" wherever appearing.
 
-Subsec. (f). Pub. L. 97–409, §§2(a)(1)(A), 6(b), substituted “independent counsel” for “special prosecutor”, “except where not possible” for “to the extent that such special prosecutor deems appropriate”, and “written or other established policies” for “written policies”.
+Subsec. (f). Pub. L. 97–409, §§2(a)(1)(A), 6(b), substituted "independent counsel" for "special prosecutor", "except where not possible" for "to the extent that such special prosecutor deems appropriate", and "written or other established policies" for "written policies".
 
 Subsec. (g). Pub. L. 97–409, §6(c), added subsec. (g).
 

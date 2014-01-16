@@ -16,5 +16,5 @@ The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Se
 
 Chapter effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Assistance”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Assistance".</i>
 

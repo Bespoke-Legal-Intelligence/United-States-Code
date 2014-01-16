@@ -16,9 +16,9 @@ Presidential Waiver.—The President may waive the operation of subsection (a) i
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 102–484, div. A, title XIII, §1302, Oct. 23, 1992, 106 Stat. 2545, which was set out as a noteunder section 113 of this title, prior to repeal by Pub. L. 103–337, §1312(c).
+Provisions similar to those in this section were contained in Pub. L. 102–484, div. A, title XIII, §1302, Oct. 23, 1992, 106 Stat. 2545, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 103–337, §1312(c).
 
 #### Effective Date
 
-Pub. L. 103–337, div. A, title XIII, §1312(b), Oct. 5, 1994, 108 Stat. 2894, provided that: “Section 123b of title 10, United States Code, as added by subsection (a), does not apply with respect to a fiscal year before fiscal year 1996.”
+Pub. L. 103–337, div. A, title XIII, §1312(b), Oct. 5, 1994, 108 Stat. 2894, provided that: "Section 123b of title 10, United States Code, as added by subsection (a), does not apply with respect to a fiscal year before fiscal year 1996."
 

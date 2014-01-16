@@ -1,6 +1,6 @@
 ### §5562. Pay and allowances; continuance while in a missing status; limitations
 
-(a) An employee in a missing status is entitled to receive or have credited to his account, forthe period he is in that status, the same pay and allowances to which he was entitled at the beginning of that period or may become entitled thereafter. Notwithstanding any other provision of law, an employee in a missing status on or after January 1, 1965, is entitled—
+(a) An employee in a missing status is entitled to receive or have credited to his account, for the period he is in that status, the same pay and allowances to which he was entitled at the beginning of that period or may become entitled thereafter. Notwithstanding any other provision of law, an employee in a missing status on or after January 1, 1965, is entitled—
 
 &emsp;(1) to payment for annual leave which accrued to his account on or after January 1, 1965, but which was forfeited under section 6304 of this title because he was unable to use that leave by virtue of his missing status; or
 

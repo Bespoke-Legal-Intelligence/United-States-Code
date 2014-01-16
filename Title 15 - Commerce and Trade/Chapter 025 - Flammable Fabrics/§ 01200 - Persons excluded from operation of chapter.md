@@ -6,9 +6,9 @@ The provisions of this chapter shall not apply (a) to any common carrier, contra
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–189 substituted “in transporting a product, fabric, or related material” for “with respect to an article of wearing apparel or fabric”, “product, fabric, or related material” for “article of wearing apparel or fabric” in two places, and “such product, fabric, or related material so that it conforms with applicable flammability standards issued or amended under the provisions of section 1193 of this title” for “to render such article or fabric not so highly flammable, under the provisions of section 1193 of this title, as to be dangerous when worn by individuals”.
+<b>1967</b>—Pub. L. 90–189 substituted "in transporting a product, fabric, or related material" for "with respect to an article of wearing apparel or fabric", "product, fabric, or related material" for "article of wearing apparel or fabric" in two places, and "such product, fabric, or related material so that it conforms with applicable flammability standards issued or amended under the provisions of section 1193 of this title" for "to render such article or fabric not so highly flammable, under the provisions of section 1193 of this title, as to be dangerous when worn by individuals".
 
 #### Transfer of Functions
 
-Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal TradeCommission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
+Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
 

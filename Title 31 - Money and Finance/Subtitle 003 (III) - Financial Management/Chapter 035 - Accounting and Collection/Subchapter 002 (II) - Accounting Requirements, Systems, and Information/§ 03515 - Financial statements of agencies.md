@@ -20,7 +20,7 @@
 
 (2) The Director shall annually notify the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate of each agency the Director has exempted under this subsection and the reasons for each exemption.
 
-(f) The term “covered executive agency”—
+(f) The term "covered executive agency"—
 
 &emsp;(1) means an executive agency that is not required by another provision of Federal law to prepare and submit to the Congress and the Director of the Office of Management and Budget an audited financial statement for each fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency; and
 
@@ -30,31 +30,31 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–289, §2(a)(1), substituted “(1) Except as provided in subsection (e), not later” for “Not later”, “2003” for “1997”, and “each covered executive agency” for “each executive agency identified in section 901(b) of this title”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–289, §2(a)(1), substituted "(1) Except as provided in subsection (e), not later" for "Not later", "2003" for "1997", and "each covered executive agency" for "each executive agency identified in section 901(b) of this title".
 
-Subsec. (b). Pub. L. 107–289, §2(a)(2), substituted “a covered executive agency” for “an executive agency” in introductory provisions.
+Subsec. (b). Pub. L. 107–289, §2(a)(2), substituted "a covered executive agency" for "an executive agency" in introductory provisions.
 
-Subsecs. (c), (d). Pub. L. 107–289, §2(a)(3), substituted “covered executive agencies” for “executive agencies”.
+Subsecs. (c), (d). Pub. L. 107–289, §2(a)(3), substituted "covered executive agencies" for "executive agencies".
 
 Subsecs. (e), (f). Pub. L. 107–289, §2(a)(4), added subsecs. (e) and (f).
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–531, §4(a)(1), inserted “Congress and the” before “Director”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–531, §4(a)(1), inserted "Congress and the" before "Director".
 
 Subsecs. (e) to (h). Pub. L. 106–531, §4(a)(2), struck out subsecs. (e) to (h) which read as follows:
 
-“(e) The Director of the Office of Management and Budget may waive the application of all or part of subsection (a) for financial statements required for fiscal years 1996 and 1997.
+"(e) The Director of the Office of Management and Budget may waive the application of all or part of subsection (a) for financial statements required for fiscal years 1996 and 1997.
 
-“(f) Not later than March 1 of 1995 and 1996, the head of each executive agency identified in section 901(b) of this title and designated by the Director of the Office of Management and Budget shall prepare and submit to the Director of the Office of Management and Budget an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency.
+"(f) Not later than March 1 of 1995 and 1996, the head of each executive agency identified in section 901(b) of this title and designated by the Director of the Office of Management and Budget shall prepare and submit to the Director of the Office of Management and Budget an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency.
 
-“(g) Not later than March 31 of 1995 and 1996, for executive agencies not designated by the Director of the Office of Management and Budget under subsection (f), the head of each executive agency identified in section 901(b) of this title shall prepare and submit to the Director of the Office of Management and Budget a financial statement for the preceding fiscal year, covering—
+"(g) Not later than March 31 of 1995 and 1996, for executive agencies not designated by the Director of the Office of Management and Budget under subsection (f), the head of each executive agency identified in section 901(b) of this title shall prepare and submit to the Director of the Office of Management and Budget a financial statement for the preceding fiscal year, covering—
 
-&emsp;“(1) each revolving fund and trust fund of the agency; and
+&emsp;"(1) each revolving fund and trust fund of the agency; and
 
-&emsp;“(2) to the extent practicable, the accounts of each office, bureau, and activity of the agency which performed substantial commercial functions during the preceding fiscal year.
+&emsp;"(2) to the extent practicable, the accounts of each office, bureau, and activity of the agency which performed substantial commercial functions during the preceding fiscal year.
 
-“(h) For purposes of subsection (g), the term ‘commercial functions’ includes buying and leasing of real estate, providing insurance, making loans and loan guarantees, and other credit programs and any activity involving the provision of a service or thing for which a fee, royalty, rent, or other charge is imposed by an agency for services and things of value it provides.”
+"(h) For purposes of subsection (g), the term 'commercial functions' includes buying and leasing of real estate, providing insurance, making loans and loan guarantees, and other credit programs and any activity involving the provision of a service or thing for which a fee, royalty, rent, or other charge is imposed by an agency for services and things of value it provides."
 
-<b>1994</b>—Pub. L. 103–356 amended section generally, revising and restating as subsecs. (a) to (h) provisions of former subsecs. (a) to (e) which required agency preparation and submission of annual financial statements, provided for form and contents of such statements, and defined term “commercial functions” for purposes of section.
+<b>1994</b>—Pub. L. 103–356 amended section generally, revising and restating as subsecs. (a) to (h) provisions of former subsecs. (a) to (e) which required agency preparation and submission of annual financial statements, provided for form and contents of such statements, and defined term "commercial functions" for purposes of section.
 
 #### Change of Name
 
@@ -70,13 +70,13 @@ Pub. L. 101–576, title III, §303(a)(2), (3), (b), Nov. 15, 1990, 104 Stat. 28
 
 Pub. L. 107–289, §2(b), Nov. 7, 2002, 116 Stat. 2050, provided that:
 
-“(1)
+"(1)
 
 In general.—The Director of the Office of Management and Budget may waive the application of all or part of section 3515(a) of title 31, United States Code, as amended by this section, for financial statements required for the first 2 fiscal years beginning after the date of the enactment of this Act \[Nov. 7, 2002\] for an agency described in paragraph (2) of this subsection.
 
-“(2)
+"(2)
 
-Agencies described.—An agency referred to in paragraph (1) is any covered executive agency (as that term is defined by section 3515(f) of title 31, United States Code, as amended by subsection (a) of this section) that is not an executive agency identified in section 901(b) of title 31, United States Code.”
+Agencies described.—An agency referred to in paragraph (1) is any covered executive agency (as that term is defined by section 3515(f) of title 31, United States Code, as amended by subsection (a) of this section) that is not an executive agency identified in section 901(b) of title 31, United States Code."
 
 #### Report on Substantial Commercial Functions
 
@@ -84,7 +84,7 @@ Pub. L. 101–576, title III, §303(c), Nov. 15, 1990, 104 Stat. 2851, directed 
 
 #### Pilot Project for Preparation and Audit of Financial Statements; Report to Congress
 
-Pub. L. 101–576, title III, §303(d), (e), Nov. 15, 1990, 104 Stat. 2851, 2852, directed specific departments, administrations, and services by Mar. 31 of 1991, 1992, and 1993 to prepare and submit to Director of Office of Management and Budget financial statements for the preceding fiscal year for the accounts of all of the offices, bureaus, and activities, required each financial statement to be audited in accordance with 31 U.S.C. section 3521(e), (f), (g), and (h), and directed Director of Office of Management and Budget, not later than June 30, 1993, to report to Congress on the financial statements including an analysis of the accuracy of the data, the difficulties encountered in preparing the data, the benefits derived from preparation of the financial statements, and the cost associated with preparing and auditing the financial statements.
+Pub. L. 101–576, title III, §303(d), (e), Nov. 15, 1990, 104 Stat. 2851, 2852, directed specific departments, administrations, and services by Mar. 31 of 1991, 1992, and 1993 to prepare and submit to Director of Office of Management and Budget financial statements for the preceding fiscal year for the accounts of all of the offices, bureaus, and activities, required each financial statement to be audited in accordance with 31 U.S.C. section 3521(e), (f), (g), and (h), and directed Director of Office of Management and Budget, not later than June 30, 1993, to report to Congress on the financial statements including an analysis of the accuracy of the data, thedifficulties encountered in preparing the data, the benefits derived from preparation of the financial statements, and the cost associated with preparing and auditing the financial statements.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted</i>
 

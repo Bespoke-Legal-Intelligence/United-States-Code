@@ -4,21 +4,21 @@ For purposes of sections 263a–1 to 263a–7 of this title:
 
 #### (1) Assisted reproductive technology
 
-&emsp;The term “assisted reproductive technology” means all treatments or procedures which include the handling of human oocytes or embryos, including in vitro fertilization, gamete intrafallopian transfer, zygote intrafallopian transfer, and such other specific technologies as the Secretary may include in this definition, after making public any proposed definition in such manner as to facilitate comment from any person (including any Federal or other public agency).
+&emsp;The term "assisted reproductive technology" means all treatments or procedures which include the handling of human oocytes or embryos, including in vitro fertilization, gamete intrafallopian transfer, zygote intrafallopian transfer, and such other specific technologies as the Secretary may include in this definition, after making public any proposed definition in such manner as to facilitate comment from any person (including any Federal or other public agency).
 
 #### (2) Embryo laboratory
 
-&emsp;The term “embryo laboratory” means a facility in which human oocytes are subject to assisted reproductive technology treatment or procedures based on manipulation of oocytes or embryos which are subject to implantation.
+&emsp;The term "embryo laboratory" means a facility in which human oocytes are subject toassisted reproductive technology treatment or procedures based on manipulation of oocytes or embryos which are subject to implantation.
 
 #### (3) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services.
 
 (Pub. L. 102–493, §8, Oct. 24, 1992, 106 Stat. 3151.)
 
 #### References in Text
 
-Sections 263a–1 to 263a–7 of this title, referred to in text, was in the original “this Act”, meaning Pub. L. 102–493, Oct. 24, 1992, 106 Stat. 3146, known as the Fertility Clinic Success Rate and Certification Act of 1992, which enacted sections 263a–1 to 263a–7 of this title and provisions set out as notes under sections 201 and 263a–1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+Sections 263a–1 to 263a–7 of this title, referred to in text, was in the original "this Act", meaning Pub. L. 102–493, Oct. 24, 1992, 106 Stat. 3146, known as the Fertility Clinic Success Rate and Certification Act of 1992, which enacted sections 263a–1 to 263a–7 of this title and provisions set out as notes under sections 201 and 263a–1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Codification
 

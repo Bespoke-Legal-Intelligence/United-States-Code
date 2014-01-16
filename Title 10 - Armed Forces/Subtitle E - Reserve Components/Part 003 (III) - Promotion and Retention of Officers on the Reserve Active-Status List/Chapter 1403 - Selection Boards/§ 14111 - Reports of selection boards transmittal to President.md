@@ -22,7 +22,7 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–364 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and added par. (2).
+<b>2006</b>—Subsec. (b). Pub. L. 109–364 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), the" for "The", and added par. (2).
 
 #### Effective Date of 2006 Amendment
 

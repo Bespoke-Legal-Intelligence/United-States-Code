@@ -2,7 +2,7 @@
 
 In this chapter:
 
-&emsp;(1) The term “eligible entity” means any of the following:
+&emsp;(1) The term "eligible entity" means any of the following:
 
 &emsp;&emsp;(A) A State.
 
@@ -12,7 +12,7 @@ In this chapter:
 
 &emsp;&emsp;(D) A tribal organization, as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act (Public Law 93–638; 25 U.S.C. 450b(l)), or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 (Public Law 93–262; 25 U.S.C. 1452(e)), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
 
-&emsp;(2) The term “distressed area” means—
+&emsp;(2) The term "distressed area" means—
 
 &emsp;&emsp;(A) the area of a unit of local government (or such area excluding the area of any defined political jurisdiction within the area of such unit of local government) that—
 
@@ -22,9 +22,9 @@ In this chapter:
 
 &emsp;&emsp;(B) a reservation, as defined in section 3(d) of the Indian Financing Act of 1974 (Public Law 93–262; 25 U.S.C. 1452(d)).
 
-&emsp;(3) The term “Secretary” means the Secretary of Defense acting through the Director of the Defense Logistics Agency.
+&emsp;(3) The term "Secretary" means the Secretary of Defense acting through the Director of the Defense Logistics Agency.
 
-&emsp;(4) The terms “State” and “local government” have the meaning given those terms in section 6302 of title 31.
+&emsp;(4) The terms "State" and "local government" have the meaning given those terms in section 6302 of title 31.
 
 (Added Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; amended Pub. L. 99–145, title IX, §919(a), Nov. 8, 1985, 99 Stat. 691; Pub. L. 99–500, §101(c) \[title X, §956(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, §101(c) \[title X, §956(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, §956(a), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, §807(b), Dec. 4, 1987, 101 Stat. 1128; Pub. L. 100–456, div. A, title VIII, §841(b)(2), Sept. 29, 1988, 102 Stat. 2025; Pub. L. 101–189, div. A, title VIII, §853(e), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 102–25, title VII, §701(j)(5), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(31), Oct. 23, 1992, 106 Stat. 2501.)
 
@@ -34,27 +34,27 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>1992</b>—Par. (1)(D). Pub. L. 102–484 substituted “organized for profit purposes or nonprofit purposes” for “organized for-profit, or nonprofit purposes”.
+<b>1992</b>—Par. (1)(D). Pub. L. 102–484 substituted "organized for profit purposes or nonprofit purposes" for "organized for-profit, or nonprofit purposes".
 
-<b>1991</b>—Par. (1)(D). Pub. L. 102–25, which directed the substitution of “for profit purposes or nonprofit” for“for-profit and nonprofit”, could not be executed because the words “for-profit and nonprofit” did not appear.
+<b>1991</b>—Par. (1)(D). Pub. L. 102–25, which directed the substitution of "for profit purposes or nonprofit" for "for-profit and nonprofit", could not be executed because the words "for-profit and nonprofit" did not appear.
 
-<b>1989</b>—Par. (1)(D). Pub. L. 101–189 substituted “section 4(l)” for “section 4(c)” and “25 U.S.C. 450b(l)” for “25 U.S.C. 450(c)”.
+<b>1989</b>—Par. (1)(D). Pub. L. 101–189 substituted "section 4(l)" for "section 4(c)" and "25 U.S.C. 450b(l)" for "25 U.S.C. 450(c)".
 
-<b>1988</b>—Par. (1)(D). Pub. L. 100–456 inserted “, whether or not such economic enterprise is organized for-profit, or nonprofit purposes” before period at end.
+<b>1988</b>—Par. (1)(D). Pub. L. 100–456 inserted ", whether or not such economic enterprise is organized for-profit, or nonprofit purposes" before period at end.
 
 <b>1987</b>—Par. (1)(D). Pub. L. 100–180, §807(b)(1), added subpar. (D).
 
-Par. (2). Pub. L. 100–180, §807(b)(2), substituted “means—” for “means”, designated existing text beginning with “the area of a unit” as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted “are available; or” for “are available.”, and added subpar. (B).
+Par. (2). Pub. L. 100–180, §807(b)(2), substituted "means—" for "means", designated existing text beginning with "the area of a unit" as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted "are available; or" for "are available.", and added subpar. (B).
 
-<b>1986</b>—Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section generally identically, striking out in par. (1) reference to section 6302(5) and 6302(2) of title 31, in par. (2) substituting “The term ‘distressed area’ means the area of a unit of local government (or such area excluding the area of any defined political jurisdiction within the area of such unit of local government)” for “ ‘Distressed entity’ means an eligible entity (within the meaning of paragraph (1)(B))”, and adding par. (4).
+<b>1986</b>—Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section generally identically, striking out inpar. (1) reference to section 6302(5) and 6302(2) of title 31, in par. (2) substituting "The term 'distressed area' means the area of a unit of local government (or such area excluding the area of any defined political jurisdiction within the area of such unit of local government)" for " 'Distressed entity' means an eligible entity (within the meaning of paragraph (1)(B))", and adding par. (4).
 
-<b>1985</b>—Pub. L. 99–145 amended section generally. Prior to amendment, section read as follows: “In this chapter:
+<b>1985</b>—Pub. L. 99–145 amended section generally. Prior to amendment, section read as follows: "In this chapter:
 
-&emsp;“(1) ‘Eligible entity’ means a State (as defined in section 6302(5) of title 31), a local government (as defined in section 6302(2) of that title), or a private, nonprofit organization that enters into a cooperative agreement with the Secretary under this chapter to furnish procurement technical assistance to business entities and to defray at least one-half of the costs of furnishing such assistance.
+&emsp;"(1) 'Eligible entity' means a State (as defined in section 6302(5) of title 31), a local government (as defined in section 6302(2) of that title), or a private, nonprofit organization that enters into a cooperative agreement with the Secretary under this chapter to furnish procurement technical assistance to business entities and to defray at least one-half of the costs of furnishing such assistance.
 
-&emsp;“(2) ‘Secretary’ means the Secretary of Defense acting through the Director of the Defense Logistics Agency.”
+&emsp;"(2) 'Secretary' means the Secretary of Defense acting through the Director of the Defense Logistics Agency."
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–145, title IX, §919(d), Nov. 8, 1985, 99 Stat. 693, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 2412 to 2415 of this title\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title IX, §919(d), Nov. 8, 1985, 99 Stat. 693, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 2412 to 2415 of this title\] shall take effect on October 1, 1985."
 

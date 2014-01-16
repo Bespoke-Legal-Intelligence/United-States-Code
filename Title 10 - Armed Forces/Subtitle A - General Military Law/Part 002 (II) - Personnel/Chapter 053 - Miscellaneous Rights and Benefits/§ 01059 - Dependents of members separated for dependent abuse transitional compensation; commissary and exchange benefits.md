@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Pay Compensation.—The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy), and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may each establish a program to pay monthly transitional compensation in accordance with this section to dependents or former dependents of a member of the armed forces described in subsection (b). Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.
+Authority To Pay Compensation.—The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy), and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may each establish a program to pay monthly transitional compensation in accordance with this section to dependents or former dependents of a member of the armedforces described in subsection (b). Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.
 
 (b)
 
@@ -34,7 +34,7 @@ Recipients of Payments.—In the case of any individual described in subsection 
 
 &emsp;(3) If there is no spouse or former spouse who is (or but for subsection (g) would be) eligible under paragraph (1), such compensation shall be paid to the dependent children of the individual described in subsection (b).
 
-&emsp;(4) For purposes of this subsection, an individual's status as a “dependent child” shall be determined as of the date on which the individual described in subsection (b) is convicted of the dependent-abuse offense or, in a case described in subsection (b)(2), as of the date on which the individual described in subsection (b) is separated from active duty.
+&emsp;(4) For purposes of this subsection, an individual's status as a "dependent child" shall be determined as of the date on which the individual described in subsection (b) is convicted of the dependent-abuse offense or, in a case described in subsection (b)(2), as of the date on which the individual described in subsection (b) is separated from active duty.
 
 (e)
 
@@ -70,7 +70,7 @@ Amount of Payment.—(1) Payment to a spouse or former spouse under this section
 
 Spouse and Former Spouse Forfeiture Provisions.—(1) If a former spouse receiving compensation under this section remarries, the Secretary shall terminate payment of such compensation, effective as of the date of such marriage. The Secretary may not renew payment of compensation under this section to such former spouse in the event of the termination of such subsequent marriage.
 
-(2) If after a punitive or other adverse action is executed in the case of a former member as described in subsection (b) the former member resides in the same household as the spouse orformer spouse, or dependent child, to whom compensation is otherwise payable under this section, the Secretary shall terminate payment of such compensation, effective as of the time the former member begins residing in such household. Compensation paid for a period after the former member's separation, but before the former member resides in the household, shall not be recouped. If the former member subsequently ceases to reside in such household before the end of the period of eligibility for such payments, the Secretary may not resume such payments.
+(2) If after a punitive or other adverse action is executed in the case of a former member as described in subsection (b) the former member resides in the same household as the spouse or former spouse, or dependent child, to whom compensation is otherwise payable under this section, the Secretary shall terminate payment of such compensation, effective as of the time the former member begins residing in such household. Compensation paid for a period after the former member's separation, but before the former member resides in the household, shall not be recouped. If the former member subsequently ceases to reside in such household before the end of the period of eligibility for such payments, the Secretary may not resume such payments.
 
 (3) In a case in which the victim of the dependent-abuse offense resulting in a punitive or other adverse action described in subsection (b) was a dependent child, the Secretary concerned may not pay compensation under this section to a spouse or former spouse who would otherwise be eligible to receive such compensation if the Secretary determines (under regulations prescribed under subsection (k)) that the spouse or former spouse was an active participant in the conduct constituting the dependent-abuse offense.
 
@@ -100,11 +100,11 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry
 
 (l)
 
-Dependent Child Defined.—In this section, the term “dependent child”, with respect to a member or former member of the armed forces referred to in subsection (b), means an unmarried child, including an adopted child or a stepchild, who was residing with the member or eligible spouse at the time of the dependent-abuse offense resulting in the separation of the former member or who was carried during pregnancy at the time of the dependent-abuse offense resulting in the separation of the former member and was subsequently born alive to the eligible spouse or former spouse and—
+Dependent Child Defined.—In this section, the term "dependent child", with respect to a member or former member of the armed forces referred to in subsection (b), means an unmarried child, including an adopted child or a stepchild, who was residing with the member or eligible spouse at the time of the dependent-abuse offense resulting in the separation of the former member or who was carried during pregnancy at the time of the dependent-abuse offense resulting in the separation of the former member and was subsequently born alive to the eligible spouse or former spouse and—
 
 &emsp;(1) who is under 18 years of age;
 
-&emsp;(2) who is 18 years of age or older and is incapable of self-support because of a mental or physical incapacity that existed before the age of 18 and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child's support; or
+&emsp;(2) who is 18 years of age or older and is incapable of self-support because of a mental or physical incapacity that existed before the age of 18 and who is (or, at the time a punitive or other adverse action was executed in the caseof the former member as described in subsection (b), was) dependent on the former member for over one-half of the child's support; or
 
 &emsp;(3) who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child's support.
 
@@ -122,75 +122,75 @@ Exceptional Eligibility for Dependents of Former Members.—(1) The Secretary co
 
 <b>2013</b>—Subsec. (f)(4). Pub. L. 112–239, §564(a)(1), added par. (4).
 
-Subsec. (l). Pub. L. 112–239, §564(a)(2), substituted “or eligible spouse at the time of the dependent-abuse offense resulting in the separation of the former member or who was carried during pregnancy at the time of the dependent-abuse offense resulting in the separation of the former member and was subsequently born alive to the eligible spouse or former spouse” for “at the time of the dependent-abuse offense resulting in the separation of the former member” in introductory provisions.
+Subsec. (l). Pub. L. 112–239, §564(a)(2), substituted "or eligible spouse at the time of the dependent-abuse offense resulting in the separation of the former member or who was carried during pregnancy at the time of the dependent-abuse offense resulting in the separation of the former member and was subsequently born alive to the eligible spouse or former spouse" for "at the time of the dependent-abuse offense resulting in the separation of the former member" in introductory provisions.
 
-<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136, §574, inserted “, voluntarily or involuntarily,” after “administratively separated”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136, §574, inserted ", voluntarily or involuntarily," after "administratively separated".
 
-Subsec. (e)(1)(A). Pub. L. 108–136, §572(a), substituted “shall commence—” and cls. (i) and (ii) for “shall commence as of the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and”.
+Subsec. (e)(1)(A). Pub. L. 108–136, §572(a), substituted "shall commence—" and cls. (i) and (ii) for "shall commence as of the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and".
 
-Subsec. (e)(2). Pub. L. 108–136, §572(b)(1), substituted “a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned” for “a period of 36 months, except that, if as of the date on which payment of transitional compensation commences the unserved portion of the member's period of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
+Subsec. (e)(2). Pub. L. 108–136, §572(b)(1), substituted "a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned" for "a period of 36 months, except that, if as of the date on which payment of transitional compensation commences the unserved portion of the member's period of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
 
-&emsp;“(A) the unserved portion of the member's period of obligated active duty service; or
+&emsp;"(A) the unserved portion of the member's period of obligated active duty service; or
 
-&emsp;“(B) 12 months”.
+&emsp;"(B) 12 months".
 
-Subsec. (e)(3)(A). Pub. L. 108–136, §572(c), substituted “conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated” for “punishment applicable to the member under the sentence is remitted, set aside, or mitigated”.
+Subsec. (e)(3)(A). Pub. L. 108–136, §572(c), substituted "conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated" for "punishment applicable to the member under the sentence is remitted, set aside, or mitigated".
 
 Subsec. (m). Pub. L. 108–136, §573(a), added subsec. (m).
 
-<b>2002</b>—Subsecs. (a), (k)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a), (k)(1). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261, §570(a)(1), struck out “(except as otherwise provided in this subsection)” after “such compensation shall” and inserted before period at end “, including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse”.
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261, §570(a)(1), struck out "(except as otherwise provided in this subsection)" after "such compensation shall" and inserted before period at end ", including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse".
 
-Subsec. (d)(2). Pub. L. 105–261, §570(a)(2), substituted “is or, but for subsection (g), would be eligible” for “(but for subsection (g)) would be eligible” and “compensation under this section shall” for “such compensation shall”.
+Subsec. (d)(2). Pub. L. 105–261, §570(a)(2), substituted "is or, but for subsection (g), would be eligible" for "(but for subsection (g)) would be eligible" and "compensation under this section shall" for "such compensation shall".
 
-Subsec. (d)(4). Pub. L. 105–261, §570(a)(3), substituted “For purposes of this subsection” for “For purposes of paragraphs (2) and (3)”.
+Subsec. (d)(4). Pub. L. 105–261, §570(a)(3), substituted "For purposes of this subsection" for "For purposes of paragraphs (2) and (3)".
 
-Subsec. (f)(2). Pub. L. 105–261, §570(b), substituted “has custody of a dependent child of the member who resides in the same household as that spouse or former spouse” for “has custody of a dependent child or children of the member”.
+Subsec. (f)(2). Pub. L. 105–261, §570(b), substituted "has custody of a dependent child of the member who resides in the same household as that spouse or former spouse" for "has custody of a dependent child or children of the member".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106, §636(a), inserted at end “Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §636(a), inserted at end "Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program."
 
-Subsec. (c)(2). Pub. L. 104–106, §1503(a)(8), substituted “subsection (k)” for “subsection (j)”.
+Subsec. (c)(2). Pub. L. 104–106, §1503(a)(8), substituted "subsection (k)" for "subsection (j)".
 
-Subsec. (d). Pub. L. 104–106, §636(b)(1), in introductory provisions, substituted “the case of any individual described in subsection (b)” for “any case of a separation from active duty as described in subsection (b)” and “dependents of the individual” for “dependents of the former member”.
+Subsec. (d). Pub. L. 104–106, §636(b)(1), in introductory provisions, substituted "the case of any individual described in subsection (b)" for "any case of a separation from active duty as described in subsection (b)" and "dependents of the individual" for "dependents of the former member".
 
-Subsec. (d)(1). Pub. L. 104–106, §636(b)(2), substituted “If the individual” for “If the former member” and “to whom the individual” for “to whom the member”.
+Subsec. (d)(1). Pub. L. 104–106, §636(b)(2), substituted "If the individual" for "If the former member" and "to whom the individual" for "to whom the member".
 
-Subsec. (d)(2). Pub. L. 104–106, §636(b)(3), substituted “individual described in subsection (b)” for “former member” in two places.
+Subsec. (d)(2). Pub. L. 104–106, §636(b)(3), substituted "individual described in subsection (b)" for "former member" in two places.
 
-Subsec. (d)(3). Pub. L. 104–106, §636(b)(4), substituted “individual described in subsection (b)” for “former member”.
+Subsec. (d)(3). Pub. L. 104–106, §636(b)(4), substituted "individual described in subsection (b)" for "former member".
 
-Subsec. (d)(4). Pub. L. 104–106, §636(b)(5), substituted “individual described in subsection (b)” for “member” in two places.
+Subsec. (d)(4). Pub. L. 104–106, §636(b)(5), substituted "individual described in subsection (b)" for "member" in two places.
 
-Subsec. (g)(3). Pub. L. 104–106, §1503(a)(8), substituted “subsection (k))” for “subsection (j))”.
+Subsec. (g)(3). Pub. L. 104–106, §1503(a)(8), substituted "subsection (k))" for "subsection (j))".
 
 <b>1994</b>—Pub. L. 103–337, §1070(a)(5)(A), renumbered section 1058 of this title as this section.
 
-Pub. L. 103–337, §535(c)(1), inserted “; commissary and exchange benefits” at end of section catchline.
+Pub. L. 103–337, §535(c)(1), inserted "; commissary and exchange benefits" at end of section catchline.
 
 Subsec. (e). Pub. L. 103–337, §535(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 
-“(e)
+"(e)
 
 Commencement and Duration of Payment.—(1) Payment of transitional compensation under this section shall commence as of the date of the discontinuance of the member's pay and allowances pursuant to the separation or sentencing of the member and, except as provided in paragraph (2), shall be paid for a period of 36 months.
 
-“(2) If as of the date on which payment of transitional compensation commences the unserved portion of the member's period of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
+"(2) If as of the date on which payment of transitional compensation commences the unserved portion of the member's period of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
 
-&emsp;“(A) the unserved portion of the member's period of obligated active duty service; or
+&emsp;"(A) the unserved portion of the member's period of obligated active duty service; or
 
-&emsp;“(B) 12 months.”
+&emsp;"(B) 12 months."
 
 Subsecs. (j) to (l). Pub. L. 103–337, §535(b), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title V, §564(b), Jan. 2, 2013, 126 Stat. 1749, provided that: “No benefits shall accrue by reason of the amendments made by this section \[amending this section\] for any month that begins before the date of the enactment of this Act \[Jan. 2, 2013\].”
+Pub. L. 112–239, div. A, title V, §564(b), Jan. 2, 2013, 126 Stat. 1749, provided that: "No benefits shall accrue by reason of the amendments made by this section \[amending this section\] for any month that begins before the date of the enactment of this Act \[Jan. 2, 2013\]."
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title V, §572(d), Nov. 24, 2003, 117 Stat. 1485, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to cases in which a court-martial sentence is adjudged on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
+Pub. L. 108–136, div. A, title V, §572(d), Nov. 24, 2003, 117 Stat. 1485, provided that: "The amendments made by this section \[amending this section\] shall apply only with respect to cases in which a court-martial sentence is adjudged on or after the date of the enactment of this Act \[Nov. 24, 2003\]."
 
-Pub. L. 108–136, div. A, title V, §573(b), Nov. 24, 2003, 117 Stat. 1485, provided that: “The authority under subsection (m) of section 1059 of title 10, United States Code, as added by subsection (a), may be exercised with respect to eligibility for benefits under that section only for dependents and former dependents of individuals who are separated from active duty in the Armed Forces on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
+Pub. L. 108–136, div. A, title V, §573(b), Nov. 24, 2003, 117 Stat. 1485, provided that: "The authority under subsection (m) of section 1059 of title 10, United States Code, as added by subsection (a), may be exercised with respect to eligibility for benefits under that section only for dependents and former dependents of individuals who are separated from active duty in the Armed Forces on or after the date of the enactment of this Act \[Nov. 24, 2003\]."
 
 #### Effective Date of 2002 Amendment
 
@@ -198,21 +198,21 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title V, §570(c), Oct. 17, 1998, 112 Stat. 2032, provided that: “No benefits shall accrue by reason of the amendments made by this section \[amending this section\] for any month that begins before the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title V, §570(c), Oct. 17, 1998, 112 Stat. 2032, provided that: "No benefits shall accrue by reason of the amendments made by this section \[amending this section\] for any month that begins before the date of the enactment of this Act \[Oct. 17, 1998\]."
 
 #### Effective Date
 
 Pub. L. 103–160, div. A, title V, §554(b), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(5), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title VI, §636(c), Feb. 10, 1996, 110 Stat. 367, provided that:
 
-“(1) The section of title 10, United States Code, added by subsection (a)(1) \[this section\] shall apply with respect to a member of the Armed Forces who, after November 29, 1993—
+"(1) The section of title 10, United States Code, added by subsection (a)(1) \[this section\] shall apply with respect to a member of the Armed Forces who, after November 29, 1993—
 
-&emsp;“(A) is separated from active duty as described in subsection (b) of such section; or
+&emsp;"(A) is separated from active duty as described in subsection (b) of such section; or
 
-&emsp;“(B) forfeits all pay and allowances as described in such subsection.
+&emsp;"(B) forfeits all pay and allowances as described in such subsection.
 
-“(2) Payments of transitional compensation under that section in the case of any person eligible to receive payments under that section shall be made for each month after November 1993 for which that person may be paid transitional compensation in accordance with that section.”
+"(2) Payments of transitional compensation under that section in the case of any person eligible to receive payments under that section shall be made for each month after November 1993 for which that person may be paid transitional compensation in accordance with that section."
 
 #### Duration of Transitional Compensation Payments
 
-Pub. L. 108–136, div. A, title V, §572(b)(2), Nov. 24, 2003, 117 Stat. 1485, provided that: “Policies under subsection (e)(2) of section 1059 of title 10, United States Code, as amended by paragraph (1), for the duration of transitional compensation payments under that section shall be prescribed under such subsection not later than six months after the date of the enactment of this Act \[Nov. 24, 2003\].”
+Pub. L. 108–136, div. A, title V, §572(b)(2), Nov. 24, 2003, 117 Stat. 1485, provided that: "Policies under subsection (e)(2) of section 1059 of title 10, United States Code, as amended by paragraph (1), for the duration of transitional compensation payments under that section shall be prescribed under such subsection not later than six months after the date of the enactment of this Act \[Nov. 24, 2003\]."
 

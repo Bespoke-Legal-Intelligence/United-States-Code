@@ -18,7 +18,7 @@
 
 #### Amendments
 
-<b>1987</b>—Subsec. (b)(4). Pub. L. 100–203 substituted “available” for “appropriated to or” and “Panama Canal Revolving Fund” for “Panama Canal Commission Fund”.
+<b>1987</b>—Subsec. (b)(4). Pub. L. 100–203 substituted "available" for "appropriated to or" and "Panama Canal Revolving Fund" for "Panama Canal Commission Fund".
 
 #### Effective Date of 1987 Amendment
 

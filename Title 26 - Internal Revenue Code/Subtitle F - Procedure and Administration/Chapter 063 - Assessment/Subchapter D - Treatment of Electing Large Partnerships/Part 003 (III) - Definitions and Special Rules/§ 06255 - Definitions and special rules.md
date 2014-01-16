@@ -6,11 +6,11 @@ For purposes of this subchapter—
 
 #### (1) Electing large partnership
 
-&emsp;The term “electing large partnership” has the meaning given to such term by section 775.
+&emsp;The term "electing large partnership" has the meaning given to such term by section 775.
 
 #### (2) Partnership item
 
-&emsp;The term “partnership item” has the meaning given to such term by section 6231(a)(3).
+&emsp;The term "partnership item" has the meaning given to such term by section 6231(a)(3).
 
 #### (b) Partners bound by actions of partnership, etc.
 

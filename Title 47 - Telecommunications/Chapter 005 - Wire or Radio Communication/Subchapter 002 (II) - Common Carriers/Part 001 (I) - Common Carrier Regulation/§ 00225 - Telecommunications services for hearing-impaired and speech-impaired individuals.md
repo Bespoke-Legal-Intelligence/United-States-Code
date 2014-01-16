@@ -6,15 +6,15 @@ As used in this section—
 
 #### (1) Common carrier or carrier
 
-&emsp;The term “common carrier” or “carrier” includes any common carrier engaged in interstate communication by wire or radio as defined in section 153 of this title and any common carrier engaged in intrastate communication by wire or radio, notwithstanding sections 152(b) and 221(b) of this title.
+&emsp;The term "common carrier" or "carrier" includes any common carrier engaged in interstate communication by wire or radio as defined in section 153 of this title and any common carrier engaged in intrastate communication by wire or radio, notwithstanding sections 152(b) and 221(b) of this title.
 
 #### (2) TDD
 
-&emsp;The term “TDD” means a Telecommunications Device for the Deaf, which is a machine that employs graphic communication in the transmission of coded signals through a wire or radio communication system.
+&emsp;The term "TDD" means a Telecommunications Device for the Deaf, which is a machine that employs graphic communication in the transmission of coded signals through a wire or radio communication system.
 
 #### (3) Telecommunications relay services
 
-&emsp;The term “telecommunications relay services” means telephone transmission services that provide the ability for an individual who is deaf, hard of hearing, deaf-blind, or who has a speech disability to engage in communication by wire or radio with one or more individuals, in a manner that is functionally equivalent to the ability of a hearing individual who does not have a speech disability to communicate using voice communication services by wire or radio.
+&emsp;The term "telecommunications relay services" means telephone transmission services that provide the ability for an individual who is deaf, hard of hearing, deaf-blind, or who has a speech disability to engage in communication by wire or radio with one or more individuals, in a manner that is functionally equivalent to the ability of a hearing individual who does not have a speech disability to communicate using voice communication services by wire or radio.
 
 #### (b) Availability of telecommunications relay services
 
@@ -28,7 +28,7 @@ As used in this section—
 
 #### (c) Provision of services
 
-Each common carrier providing telephone voice transmission services shall, not later than 3 years after July 26, 1990, provide in compliance with the regulations prescribed under this section, throughout the area in which it offers service, telecommunications relay services, individually, through designees, through a competitively selected vendor, or in concert with other carriers. A common carrier shall be considered to be in compliance with such regulations—
+Each common carrier providing telephone voice transmission services shall, not later than 3 years after July 26, 1990, provide in compliance with the regulations prescribed under this section, throughout the area in which it offers service, telecommunications relay services, individually, through designees, through a competitively selected vendor, or in concert with othercarriers. A common carrier shall be considered to be in compliance with such regulations—
 
 &emsp;(1) with respect to intrastate telecommunications relay services in any State that does not have a certified program under subsection (f) of this section and with respect to interstate telecommunications relay services, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the Commission's regulations under subsection (d) of this section; or
 
@@ -122,11 +122,11 @@ Each common carrier providing telephone voice transmission services shall, not l
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(3). Pub. L. 111–260 amended par. (3) generally. Prior to amendment, text read as follows: “The term ‘telecommunications relay services’ means telephone transmission services that provide the ability for an individual who has a hearing impairment or speech impairment to engage in communication by wire or radio with a hearing individual in a manner that is functionally equivalent to the ability of an individual who does not have a hearing impairment or speech impairment to communicate using voice communication services by wire or radio. Such term includes services that enable two-way communication between an individual who uses a TDD or other nonvoice terminal device and an individual who does not use such a device.”
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–260 amended par. (3) generally. Prior to amendment, text read as follows: "The term 'telecommunications relay services' means telephone transmission services that provide the ability for an individual who has a hearing impairment or speech impairment to engage in communication by wire or radio with a hearing individual in a manner that is functionally equivalent to the ability of an individual who does not have a hearing impairment or speech impairment to communicate using voice communication services by wire or radio. Such term includes services that enable two-way communication between an individual who uses a TDD or other nonvoice terminal device and an individual who does not use such a device."
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–104 substituted “section 153” for “section 153(h)”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–104 substituted "section 153" for "section 153(h)".
 

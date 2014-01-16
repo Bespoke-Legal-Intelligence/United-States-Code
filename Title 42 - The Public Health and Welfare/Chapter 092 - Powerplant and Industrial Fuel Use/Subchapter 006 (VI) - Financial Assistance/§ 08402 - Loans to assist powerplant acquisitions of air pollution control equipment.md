@@ -14,7 +14,7 @@ A loan made under this section shall—
 
 &emsp;(3) bear interest at a rate not less than (A) a rate determined by the Secretary of the Treasury, taking into consideration the average market yield of outstanding Treasury obligations of comparable maturity, plus (B) 1 percent;
 
-&emsp;(4) be made on the condition of payment to the Secretary of a loan fee in an amount equal to (A) such insurance fee as the Secretary determines is necessary to avoid a Federal revenue loss under this section, plus (B) 1 percent of the loan amount; and
+&emsp;(4) be made on the condition of payment to the Secretary of a loan fee in an amount equalto (A) such insurance fee as the Secretary determines is necessary to avoid a Federal revenue loss under this section, plus (B) 1 percent of the loan amount; and
 
 &emsp;(5) be made only if the Secretary finds that—
 
@@ -38,7 +38,7 @@ In making loans or commitments to loan pursuant to this section, the Secretary s
 
 For purposes of this section—
 
-&emsp;(1) The term “certified pollution control device” means a new identifiable device which—
+&emsp;(1) The term "certified pollution control device" means a new identifiable device which—
 
 &emsp;&emsp;(A) is used, in connection with a powerplant, to abate or control atmospheric pollution by removing, altering, disposing, storing, or preventing the emission of pollutants;
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;&emsp;(E) the construction of which began after the effective date of this chapter.
 
-&emsp;(2) The term “small municipal or rural cooperative electric powerplant” means an electric generating unit, which—
+&emsp;(2) The term "small municipal or rural cooperative electric powerplant" means an electric generating unit, which—
 
 &emsp;&emsp;(A) by design is not capable of consuming fuel at a fuel heat input rate in excess of a rate determined appropriate by the Secretary by rule; and
 

@@ -8,15 +8,15 @@
 
 #### (A) Average adjusted gross income
 
-&emsp;&emsp;The term “average adjusted gross income”, with respect to a person or legal entity, means the average of the adjusted gross income or comparable measure of the person or legal entity over the 3 taxable years preceding the most immediately preceding complete taxable year, as determined by the Secretary.
+&emsp;&emsp;The term "average adjusted gross income", with respect to a person or legal entity, means the average of the adjusted gross income or comparable measure of the person or legal entity over the 3 taxable years preceding the most immediately preceding complete taxable year, as determined by the Secretary.
 
 #### (B) Average adjusted gross farm income
 
-&emsp;&emsp;The term “average adjusted gross farm income”, with respect to a person or legal entity, means the average of the portion of adjusted gross income of the person or legal entity that is attributable to activities related to farming, ranching, or forestry for the 3 taxable years described in subparagraph (A), as determined by the Secretary in accordance with subsection (c).
+&emsp;&emsp;The term "average adjusted gross farm income", with respect to a person or legal entity, means the average of the portion of adjusted gross income of the person or legal entity that is attributable to activities related to farming, ranching, or forestry for the 3 taxable years described in subparagraph (A), as determined by the Secretary in accordance with subsection (c).
 
 #### (C) Average adjusted gross nonfarm income
 
-&emsp;&emsp;The term “average adjusted gross nonfarm income”, with respect to a person or legal entity, means the difference between—
+&emsp;&emsp;The term "average adjusted gross nonfarm income", with respect to a person or legal entity, means the difference between—
 
 &emsp;&emsp;&emsp;(i) the average adjusted gross income of the person or legal entity; and
 
@@ -30,7 +30,7 @@
 
 &emsp;On the request of any person filing a joint tax return, the Secretary shall provide for the allocation of average adjusted gross income, average adjusted gross farm income, and average adjusted gross nonfarm income among the persons filing the return if—
 
-&emsp;&emsp;(A) the person provides a certified statement by a certified public accountant or attorney that specifies the method by which the average adjusted gross income, average adjusted gross farm income, and average adjusted gross nonfarm income would have been declared and reported had the persons filed 2 separate returns; and
+&emsp;&emsp;(A) the person provides a certified statement by a certified public accountant or attorney that specifies the method by which the average adjusted gross income, averageadjusted gross farm income, and average adjusted gross nonfarm income would have been declared and reported had the persons filed 2 separate returns; and
 
 &emsp;&emsp;(B) the Secretary determines that the method described in the statement is consistent with the information supporting the filed joint tax return.
 
@@ -140,7 +140,7 @@
 
 #### (2) Denial of program benefits
 
-&emsp;If the Secretary determines that a person or legal entity has failed to comply with this section, the Secretary shall deny the issuance of applicable payments and benefits specified in paragraphs (1)(C) and (2)(B) of subsection (b) to the person or legal entity, under similar termsand conditions as described in section 1308–2 of this title.
+&emsp;If the Secretary determines that a person or legal entity has failed to comply with this section, the Secretary shall deny the issuance of applicable payments and benefits specified in paragraphs (1)(C) and (2)(B) of subsection (b) to the person or legal entity, under similar terms and conditions as described in section 1308–2 of this title.
 
 #### (3) Audit
 
@@ -164,9 +164,9 @@ The Trade Act of 1974, referred to in subsecs. (b)(1)(C)(v) and (c)(1)(L), is Pu
 
 The Federal Crop Insurance Act, referred to in subsecs. (b)(1)(C)(v) and (c)(1)(L), (M), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. Subtitle B of the Federal Crop Insurance Act probably means subtitle B (§531) of title V of act Feb. 16, 1938, which is classified generally to subchapter II (§1531) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
-Title XII of this Act, referred to in subsecs. (b)(2)(B)(i) and (c)(1)(J), is title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, popularly known as the “Sodbuster Law”, which is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. For complete classification of title XII to the Code, see Tables.
+Title XII of this Act, referred to in subsecs. (b)(2)(B)(i) and (c)(1)(J), is title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, popularly known as the "Sodbuster Law", which is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. For complete classification of title XII to the Code, see Tables.
 
-The Farm Security and Rural Investment Act of 2002, referred to in subsecs. (b)(2)(B)(ii) and (c)(1)(I), (J), is Pub. L. 107–171, May 13, 2002, 116 Stat. 134. Title I of the Act is classified principally to chapter 106 (§7901 et seq.) of this title. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in this title, Title 16, Conservation, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
+The Farm Security and Rural Investment Act of 2002, referred to in subsecs. (b)(2)(B)(ii) and (c)(1)(I), (J), isPub. L. 107–171, May 13, 2002, 116 Stat. 134. Title I of the Act is classified principally to chapter 106 (§7901 et seq.) of this title. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in this title, Title 16, Conservation, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
 
 #### Codification
 
@@ -180,7 +180,7 @@ A prior section 1001D of Pub. L. 99–198 was renumbered section 1001E and is cl
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §1604(a), amended section generally, substituting subsecs. (a) to (f) for former provisions which related to: in subsec. (a), definition of “average adjusted gross income”; in subsec. (b), limitation on benefits if average adjusted gross income exceeded $2,500,000; in subsec. (c), certification that average adjusted gross income did not exceed limitation; in subsec. (d), reduction of benefits commensurate with ownership interest; and in subsec. (e), applicability of section during 2003 through 2007 crop years.
+<b>2008</b>—Pub. L. 110–246, §1604(a), amended section generally, substituting subsecs. (a) to (f) for former provisions which related to: in subsec. (a), definition of "average adjusted gross income"; in subsec. (b), limitation on benefits if average adjusted gross income exceeded $2,500,000; in subsec. (c), certification that average adjusted gross income did not exceed limitation; in subsec. (d), reduction of benefits commensurate with ownership interest; and in subsec. (e), applicability of section during 2003 through 2007 crop years.
 
 #### Effective Date of 2008 Amendment
 
@@ -188,7 +188,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Transition Provisions
 
-Pub. L. 110–234, title I, §1604(b), May 22, 2008, 122 Stat. 1016, and Pub. L. 110–246, §4(a), title I, §1604(b), June 18, 2008, 122 Stat. 1664, 1744, provided that: “Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as amended by subsection (a)).”
+Pub. L. 110–234, title I, §1604(b), May 22, 2008, 122 Stat. 1016, and Pub. L. 110–246, §4(a), title I, §1604(b), June 18, 2008, 122 Stat. 1664, 1744, provided that: "Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as amended by subsection (a))."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

@@ -20,7 +20,7 @@ The non-Federal share of the cost of assistance under subsection (a) of this sec
 
 #### (d) Effect on authority of Secretary of the Interior
 
-Nothing in this section affects the authority of the Secretary of the Interior under title IV ofthe Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1231 et seq.).
+Nothing in this section affects the authority of the Secretary of the Interior under title IV of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1231 et seq.).
 
 #### (e) Technology database for reclamation of abandoned mines
 
@@ -42,11 +42,11 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (f). Pub. L. 110–114 substituted “$20,000,000” for “$7,500,000”.
+<b>2007</b>—Subsec. (f). Pub. L. 110–114 substituted "$20,000,000" for "$7,500,000".
 
-<b>2003</b>—Subsec. (f). Pub. L. 108–137 substituted “$7,500,000” for “$5,000,000”.
+<b>2003</b>—Subsec. (f). Pub. L. 108–137 substituted "$7,500,000" for "$5,000,000".
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under section 2201 of this title.
 

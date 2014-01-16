@@ -6,7 +6,7 @@
 
 (c)(1) In carrying out subsection (a), the Secretary of Defense may transfer periodically from the Fund to applicable appropriations of the Department of Defense, or to applicable appropriations of other departments or agencies, such amounts as the Secretary determines necessary to cover the costs chargeable to those appropriations for uniformed service retiree health care programs for beneficiaries under those programs who are medicare-eligible. Such transfers may include amounts necessary for the administration of such programs. Amounts so transferred shall be merged with and be available for the same purposes and for the same time period as the appropriation to which transferred. Upon a determination that all or part of the funds transferred from the Fund are not necessary for the purposes for which transferred, such amounts may be transferred back to the Fund. This transfer authority is in addition to any other transfer authority that may be available to the Secretary.
 
-(2) A transfer from the Fund under paragraph (1) may not be made to an appropriation after the end of the second fiscal year after the fiscal year that the appropriation is available for obligation. A transfer back to the Fund under paragraph (1) may not be made after the end of the second fiscal year after the fiscal year for which the appropriation to which the funds were originally transferred is available for obligation.
+(2) A transfer from the Fund under paragraph (1) may not be made to an appropriation afterthe end of the second fiscal year after the fiscal year that the appropriation is available for obligation. A transfer back to the Fund under paragraph (1) may not be made after the end of the second fiscal year after the fiscal year for which the appropriation to which the funds were originally transferred is available for obligation.
 
 (d) The Secretary of Defense shall by regulation establish the method or methods for calculating amounts to be transferred under subsection (c). Such method or methods may be based (in whole or in part) on a proportionate share of the volume (measured as the Secretary determines appropriate) of health care services provided or paid for under uniformed service retiree health care programs for beneficiaries under those programs who are medicare-eligible in relation to the total volume of health care services provided or paid for under Department of Defense health care programs.
 
@@ -18,7 +18,7 @@
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107, §711(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There shall be paid from the Fund amounts payable for Department of Defense retiree health care programs for medicare-eligible beneficiaries.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §711(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "There shall be paid from the Fund amounts payable for Department of Defense retiree health care programs for medicare-eligible beneficiaries."
 
 Subsecs. (c) to (f). Pub. L. 107–107, §711(c)(2), added subsecs. (c) to (f).
 
@@ -28,5 +28,5 @@ Amendment by Pub. L. 107–107 effective as if included in the enactment of this
 
 #### Effective Date
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, provided that: “Sections 1113 and 1116 of title 10, United States Code (as added by subsection (a)), shall take effect on October 1, 2002.”
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, provided that: "Sections 1113 and 1116 of title 10, United States Code (as added by subsection (a)), shall take effect on October 1, 2002."
 

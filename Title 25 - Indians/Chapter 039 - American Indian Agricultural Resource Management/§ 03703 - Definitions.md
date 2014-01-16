@@ -2,9 +2,9 @@
 
 For the purposes of this chapter:
 
-&emsp;(1) The term “Indian agricultural lands” means Indian land, including farmland and rangeland, but excluding Indian forest land, that is used for the production of agricultural products, and Indian lands occupied by industries that support the agricultural community, regardless of whether a formal inspection and land classification has been conducted.
+&emsp;(1) The term "Indian agricultural lands" means Indian land, including farmland and rangeland, but excluding Indian forest land, that is used for the production of agricultural products, and Indian lands occupied by industries that support the agricultural community, regardless of whether a formal inspection and land classification has been conducted.
 
-&emsp;(2) The term “agricultural product” means—
+&emsp;(2) The term "agricultural product" means—
 
 &emsp;&emsp;(A) crops grown under cultivated conditions whether used for personal consumption, subsistence, or sold for commercial benefit;
 
@@ -14,33 +14,33 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(D) other marketable or traditionally used materials authorized for removal from Indian agricultural lands.
 
-&emsp;(3) The term “agricultural resource” means—
+&emsp;(3) The term "agricultural resource" means—
 
 &emsp;&emsp;(A) all the primary means of production, including the land, soil, water, air, plant communities, watersheds, human resources, natural and physical attributes, and man-made developments, which together comprise the agricultural community; and
 
 &emsp;&emsp;(B) all the benefits derived from Indian agricultural lands and enterprises, including cultivated and gathered food products, fibers, horticultural products, dyes, cultural or religious condiments, medicines, water, aesthetic, and other traditional values of agriculture.
 
-&emsp;(4) The term “agricultural resource management plan” means a plan developed under section 3711(b) of this title.
+&emsp;(4) The term "agricultural resource management plan" means a plan developed under section 3711(b) of this title.
 
-&emsp;(5) The term “Bureau” means the Bureau of Indian Affairs of the Department of the Interior.
+&emsp;(5) The term "Bureau" means the Bureau of Indian Affairs of the Department of the Interior.
 
-&emsp;(6) The term “farmland” means Indian land excluding Indian forest land that is used for production of food, feed, fiber, forage and seed oil crops, or other agricultural products, and may be either dryland, irrigated, or irrigated pasture.
+&emsp;(6) The term "farmland" means Indian land excluding Indian forest land that is used for production of food, feed, fiber, forage and seed oil crops, or other agricultural products, and may be either dryland, irrigated, or irrigated pasture.
 
-&emsp;(7) The term “Indian forest land” means forest land as defined in section 3103(3) of this title.
+&emsp;(7) The term "Indian forest land" means forest land as defined in section 3103(3) of this title.
 
-&emsp;(8) The term “Indian” means an individual who is a member of an Indian tribe.
+&emsp;(8) The term "Indian" means an individual who is a member of an Indian tribe.
 
-&emsp;(9) The term “Indian land” means land that is—
+&emsp;(9) The term "Indian land" means land that is—
 
 &emsp;&emsp;(A) held in trust by the United States for an Indian tribe; or
 
 &emsp;&emsp;(B) owned by an Indian or Indian tribe and is subject to restrictions against alienation.
 
-&emsp;(10) The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;(10) The term "Indian tribe" means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-&emsp;(11) The term “integrated resource management plan” means the plan developed pursuant to the process used by tribal governments to assess available resources and to provide identified holistic management objectives that include quality of life, production goals and landscape descriptions of all designated resources that may include (but not be limited to) water, fish, wildlife, forestry, agriculture, minerals, and recreation, as well as community and municipal resources, and may include any previously adopted tribal codes and plans related to such resources.
+&emsp;(11) The term "integrated resource management plan" means the plan developed pursuant to the process used by tribal governments to assess available resources and to provide identified holistic management objectives that include quality of life, production goals and landscape descriptions of all designated resources that may include (but not be limited to) water, fish, wildlife, forestry, agriculture, minerals, and recreation, as well as community and municipal resources, and may include any previously adopted tribal codes and plans related to such resources.
 
-&emsp;(12) The term “land management activity” means all activities, accomplished in support of the management of Indian agricultural lands, including (but not limited to)—
+&emsp;(12) The term "land management activity" means all activities, accomplished in support of the management of Indian agricultural lands, including (but not limited to)—
 
 &emsp;&emsp;(A) preparation of soil and range inventories, farmland and rangeland management plans, and monitoring programs to evaluate management plans;
 
@@ -54,15 +54,15 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(F) educational assistance in agriculture, natural resources, land management and related fields of study, including direct assistance to tribally-controlled community colleges in developing and implementing curriculum for vocational, technical, and professional course work.
 
-&emsp;(13) The term “Indian landowner” means the Indian or Indian tribe that—
+&emsp;(13) The term "Indian landowner" means the Indian or Indian tribe that—
 
 &emsp;&emsp;(A) owns such Indian land, or
 
 &emsp;&emsp;(B) is the beneficiary of the trust under which such Indian land is held by the United States.
 
-&emsp;(14) The term “rangeland” means Indian land, excluding Indian forest land, on which the native vegetation is predominantly grasses, grass-like plants, forbs, half-shrubs or shrubs suitable for grazing or browsing use, and includes lands revegetated naturally or artificially to provide a forage cover that is managed as native vegetation.
+&emsp;(14) The term "rangeland" means Indian land, excluding Indian forest land, on which the native vegetation is predominantly grasses, grass-like plants, forbs, half-shrubs or shrubs suitable for grazing or browsing use, and includes lands revegetated naturally or artificially to provide a forage cover that is managed as native vegetation.
 
-&emsp;(15) The term “Secretary” means the Secretary of the Interior.
+&emsp;(15) The term "Secretary" means the Secretary of the Interior.
 
 (Pub. L. 103–177, §4, Dec. 3, 1993, 107 Stat. 2012.)
 

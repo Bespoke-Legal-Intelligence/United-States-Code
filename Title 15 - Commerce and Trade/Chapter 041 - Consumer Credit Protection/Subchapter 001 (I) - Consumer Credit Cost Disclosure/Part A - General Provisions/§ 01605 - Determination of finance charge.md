@@ -1,6 +1,6 @@
 ### §1605. Determination of finance charge
 
-#### (a) “Finance charge” defined
+#### (a) "Finance charge" defined
 
 Except as otherwise provided in this section, the amount of the finance charge in connection with any consumer credit transaction shall be determined as the sum of all charges, payable directly or indirectly by the person to whom the credit is extended, and imposed directly or indirectly by the creditor as an incident to the extension of credit. The finance charge does not include charges of a type payable in a comparable cash transaction. The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges. Examples of charges which are included in the finance charge include any of the following types of charges which are applicable:
 
@@ -34,7 +34,7 @@ If any of the following items is itemized and disclosed in accordance with the r
 
 &emsp;(1) Fees and charges prescribed by law which actually are or will be paid to public officials for determining the existence of or for perfecting or releasing or satisfying any security related to the credit transaction.
 
-&emsp;(2) The premium payable for any insurance in lieu of perfecting any security interest otherwise required by the creditor in connection with the transaction, if the premium does not exceed the fees and charges described in paragraph (1) which would otherwise be payable.
+&emsp;(2) The premium payable for any insurance in lieu of perfecting any security interestotherwise required by the creditor in connection with the transaction, if the premium does not exceed the fees and charges described in paragraph (1) which would otherwise be payable.
 
 &emsp;(3) Any tax levied on security instruments or on documents evidencing indebtedness if the payment of such taxes is a precondition for recording the instrument securing the evidence of indebtedness.
 
@@ -84,17 +84,17 @@ Subsecs. (aa) and (w) of section 1602 of this title, referred to in subsec. (f)(
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d). Pub. L. 111–203 substituted “Bureau” for “Board” in introductory provisions.
+<b>2010</b>—Subsec. (d). Pub. L. 111–203 substituted "Bureau" for "Board" in introductory provisions.
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–29, §2(a), in introductory provisions inserted after second sentence “The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges.”
+<b>1995</b>—Subsec. (a). Pub. L. 104–29, §2(a), in introductory provisions inserted after second sentence "The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges."
 
 Subsec. (a)(6). Pub. L. 104–29, §2(b)(1), added par. (6).
 
 Subsec. (d)(3). Pub. L. 104–29, §2(c), added par. (3).
 
-Subsec. (e)(2). Pub. L. 104–29, §2(d), amended par. (2) generally, substituting “loan-related” for “a deed, settlement statement, or other”.
+Subsec. (e)(2). Pub. L. 104–29, §2(d), amended par. (2) generally, substituting "loan-related" for "a deed, settlement statement, or other".
 
-Subsec. (e)(5). Pub. L. 104–29, §2(e), inserted before period “, including fees related to any pest infestation or flood hazard inspections conducted prior to closing”.
+Subsec. (e)(5). Pub. L. 104–29, §2(e), inserted before period ", including fees related to any pest infestation or flood hazard inspections conducted prior to closing".
 
 Subsec. (f). Pub. L. 104–29, §3(a), added subsec. (f).
 
@@ -108,47 +108,47 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–29, §2(b)(2), Sept. 30, 1995, 109 Stat. 271, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the earlier of—
+Pub. L. 104–29, §2(b)(2), Sept. 30, 1995, 109 Stat. 271, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the earlier of—
 
-&emsp;“(A) 60 days after the date on which the Board of Governors of the Federal Reserve System issues final regulations under paragraph (3) \[set out below\]; or
+&emsp;"(A) 60 days after the date on which the Board of Governors of the Federal Reserve System issues final regulations under paragraph (3) \[set out below\]; or
 
-&emsp;“(B) the date that is 12 months after the date of the enactment of this Act \[Sept. 30, 1995\].”
+&emsp;"(B) the date that is 12 months after the date of the enactment of this Act \[Sept. 30, 1995\]."
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Regulations
 
-Pub. L. 104–29, §2(b)(3), Sept. 30, 1995, 109 Stat. 271, provided that: “The Board of Governors of the Federal Reserve System shall promulgate regulations implementing the amendment made by paragraph (1) \[amending this section\] by no later than 6 months after the date of the enactment of this Act \[Sept. 30, 1995\].”
+Pub. L. 104–29, §2(b)(3), Sept. 30, 1995, 109 Stat. 271, provided that: "The Board of Governors of the Federal Reserve System shall promulgate regulations implementing the amendment made by paragraph (1) \[amending this section\] by no later than 6 months after the date of the enactment of this Act \[Sept. 30, 1995\]."
 
 #### Ensuring That Finance Charges Reflect Cost of Credit
 
 Pub. L. 104–29, §2(f), Sept. 30, 1995, 109 Stat. 272, provided that:
 
-“(1)
+"(1)
 
 Report.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Not later than 6 months after the date of the enactment of this Act \[Sept. 30, 1995\], the Board of Governors of the Federal Reserve System shall submit to the Congress a report containing recommendations on any regulatory or statutory changes necessary—
 
-&emsp;&emsp;“(i) to ensure that finance charges imposed in connection with consumer credit transactions more accurately reflect the cost of providing credit; and
+&emsp;&emsp;"(i) to ensure that finance charges imposed in connection with consumer credit transactions more accurately reflect the cost of providing credit; and
 
-&emsp;&emsp;“(ii) to address abusive refinancing practices engaged in for the purpose of avoiding rescission.
+&emsp;&emsp;"(ii) to address abusive refinancing practices engaged in for the purpose of avoiding rescission.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Report requirements.—In preparing the report under this paragraph, the Board shall—
 
-&emsp;&emsp;“(i) consider the extent to which it is feasible to include in finance charges all charges payable directly or indirectly by the consumer to whom credit is extended, and imposed directly or indirectly by the creditor as an incident to the extension of credit (especially those charges excluded from finance charges under section 106 of the Truth in Lending Act \[15 U.S.C. 1605\] as of the date of the enactment of this Act), excepting only those charges which are payable in a comparable cash transaction; and
+&emsp;&emsp;"(i) consider the extent to which it is feasible to include in finance charges all charges payable directly or indirectly by the consumer to whom credit is extended, and imposed directly or indirectly by the creditor as an incident to the extension of credit (especially those charges excluded from finance charges under section 106 of the Truth in Lending Act \[15 U.S.C. 1605\] as of the date of the enactment of this Act), excepting only those charges which are payable in a comparable cash transaction; and
 
-&emsp;&emsp;“(ii) consult with and consider the views of affected industries and consumer groups.
+&emsp;&emsp;"(ii) consult with and consider the views of affected industries and consumer groups.
 
-“(2)
+"(2)
 
-Regulations.—The Board of Governors of the Federal Reserve System shall prescribe any appropriate regulation in order to effect any change included in the report under paragraph (1), and shall publish the regulation in the Federal Register before the end of the 1-year period beginning on the date of enactment of this Act.”
+Regulations.—The Board of Governors of the Federal Reserve System shall prescribe any appropriate regulation in order to effect any change included in the report under paragraph (1), and shall publish the regulation in the Federal Register before the end of the 1-year period beginning on the date of enactment of this Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

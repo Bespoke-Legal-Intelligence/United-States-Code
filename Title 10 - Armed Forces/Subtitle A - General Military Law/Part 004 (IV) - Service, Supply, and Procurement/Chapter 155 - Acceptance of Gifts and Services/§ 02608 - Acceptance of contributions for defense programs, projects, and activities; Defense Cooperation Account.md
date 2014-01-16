@@ -6,7 +6,7 @@ Acceptance Authority.—The Secretary of Defense may accept from any person, for
 
 (b)
 
-Establishment of Defense Cooperation Account.—(1) There is established in the Treasury of the United States a special account to be known as the “Defense Cooperation Account”.
+Establishment of Defense Cooperation Account.—(1) There is established in the Treasury of the United States a special account to be known as the "Defense Cooperation Account".
 
 (2) Contributions of money and proceeds from the sale of any property accepted by the Secretary of Defense under subsection (a) shall be credited to the Defense Cooperation Account.
 
@@ -56,7 +56,7 @@ Periodic Audits by GAO.—The Comptroller General of the United States shall mak
 
 (j)
 
-Items Included as Contributions.—In this section, the term “contribution” includes a devise of real property or a bequest of personal property.
+Items Included as Contributions.—In this section, the term "contribution" includes a devise of real property or a bequest of personal property.
 
 (k)
 
@@ -66,13 +66,13 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 #### Amendments
 
-<b>2011</b>—Subsec. (e)(1). Pub. L. 112–81 substituted “the second quarter and the fourth quarter” for “each quarter” and “the preceding two quarters” for “the preceding quarter”.
+<b>2011</b>—Subsec. (e)(1). Pub. L. 112–81 substituted "the second quarter and the fourth quarter" for "each quarter" and "the preceding two quarters" for "the preceding quarter".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201 inserted before period at end “and may accept from any foreign government or international organization any contribution of services made by such foreign government or international organization for use by the Department of Defense”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 inserted before period at end "and may accept from any foreign government or international organization any contribution of services made by such foreign government or international organization for use by the Department of Defense".
 
-<b>1993</b>—Pub. L. 103–160, §1105(b)(2), inserted “; Defense Cooperation Account” in section catchline.
+<b>1993</b>—Pub. L. 103–160, §1105(b)(2), inserted "; Defense Cooperation Account" in section catchline.
 
-Subsec. (i). Pub. L. 103–160, §1105(b)(1), substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall conduct an annual audit of money and property accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
+Subsec. (i). Pub. L. 103–160, §1105(b)(1), substituted "Periodic Audits" for "Annual Audit" in heading and amended text generally. Prior to amendment, text read as follows: "The Comptroller General of the United States shall conduct an annual audit of money and property accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress."
 
-<b>1991</b>—Subsec. (g)(1). Pub. L. 102–190 inserted “(1)” before “Upon request”.
+<b>1991</b>—Subsec. (g)(1). Pub. L. 102–190 inserted "(1)" before "Upon request".
 

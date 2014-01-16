@@ -12,7 +12,7 @@ In carrying out the provisions of sections 634a to 634g of this title, the Chief
 
 &emsp;(5) hold hearings and sit and act at such times and places as he may deem advisable.
 
-(Pub. L. 94–305, title II, §204, June 4, 1976, 90 Stat. 669; Pub. L. 96–302, title IV, §402, July 2, 1980, 94 Stat. 850; Pub. L. 103–403, title VI, §§605(b), 610, Oct. 22, 1994, 108 Stat. 4203, 4204.)
+(Pub. L. 94–305, title II, §204, June 4, 1976, 90 Stat. 669; Pub. L. 96–302, title IV, §402, July 2,1980, 94 Stat. 850; Pub. L. 103–403, title VI, §§605(b), 610, Oct. 22, 1994, 108 Stat. 4203, 4204.)
 
 #### References in Text
 
@@ -24,9 +24,9 @@ Section was not enacted as part of the Small Business Act which comprises this c
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–403, §§605(b), 610(1), in introductory provisions substituted “provisions of sections 634a to 634g of this title, the Chief” for “provisions of section 634b of this title, after consultation with and subject to the approval of the Administrator, the Chief”.
+<b>1994</b>—Pub. L. 103–403, §§605(b), 610(1), in introductory provisions substituted "provisions of sections 634a to 634g of this title, the Chief" for "provisions of section 634b of this title, after consultation with and subject to the approval of the Administrator, the Chief".
 
-Par. (1). Pub. L. 103–403, §610(2), substituted “14” for “ten” before “staff personnel”.
+Par. (1). Pub. L. 103–403, §610(2), substituted "14" for "ten" before "staff personnel".
 
 <b>1980</b>—Par. (1). Pub. L. 96–302 authorized employment at any one time of ten staff personnel at rate of compensation not in excess of GS–15, step 10, of the General Schedule.
 

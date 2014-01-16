@@ -4,55 +4,55 @@ As used in this Act, the following definitions shall apply, except as the contex
 
 #### (1) Affiliate
 
-&emsp;The term “affiliate” has the same meaning as in section 1813 of this title.
+&emsp;The term "affiliate" has the same meaning as in section 1813 of this title.
 
 #### (2) Appropriate Federal banking agency
 
-&emsp;On and after the transfer date, the term “appropriate Federal banking agency” has the same meaning as in section 1813(q) of this title, as amended by title III.<sup>1</sup>
+&emsp;On and after the transfer date, the term "appropriate Federal banking agency" has the same meaning as in section 1813(q) of this title, as amended by title III.<sup>1</sup>
 
 #### (3) Board of Governors
 
-&emsp;The term “Board of Governors” means the Board of Governors of the Federal Reserve System.
+&emsp;The term "Board of Governors" means the Board of Governors of the Federal Reserve System.
 
 #### (4) Bureau
 
-&emsp;The term “Bureau” means the Bureau of Consumer Financial Protection established under title X.<sup>1</sup>
+&emsp;The term "Bureau" means the Bureau of Consumer Financial Protection established under title X.<sup>1</sup>
 
 #### (5) Commission
 
-&emsp;The term “Commission” means the Securities and Exchange Commission, except in the context of the Commodity Futures Trading Commission.
+&emsp;The term "Commission" means the Securities and Exchange Commission, except in the context of the Commodity Futures Trading Commission.
 
 #### (6) Commodity futures terms
 
-&emsp;The terms “futures commission merchant”, “swap”, “swap dealer”, “swap execution facility”, “derivatives clearing organization”, “board of trade”, “commodity trading advisor”, “commodity pool”, and “commodity pool operator” have the same meanings as given the terms in section 1a of the Commodity Exchange Act (7 U.S.C. 1 et seq.) \[7 U.S.C. 1a\].
+&emsp;The terms "futures commission merchant", "swap", "swap dealer", "swap execution facility", "derivatives clearing organization", "board of trade", "commodity trading advisor", "commodity pool", and "commodity pool operator" have the same meanings as given the terms in section 1a of the Commodity Exchange Act (7 U.S.C. 1 et seq.) \[7 U.S.C. 1a\].
 
 #### (7) Corporation
 
-&emsp;The term “Corporation” means the Federal Deposit Insurance Corporation.
+&emsp;The term "Corporation" means the Federal Deposit Insurance Corporation.
 
 #### (8) Council
 
-&emsp;The term “Council” means the Financial Stability Oversight Council established under subchapter I.
+&emsp;The term "Council" means the Financial Stability Oversight Council established under subchapter I.
 
 #### (9) Credit union
 
-&emsp;The term “credit union” means a Federal credit union, State credit union, or State-chartered credit union, as those terms are defined in section 1752 of this title.
+&emsp;The term "credit union" means a Federal credit union, State credit union, or State-chartered credit union, as those terms are defined in section 1752 of this title.
 
 #### (10) Federal banking agency
 
 &emsp;The term—
 
-&emsp;&emsp;(A) “Federal banking agency” means, individually, the Board of Governors, the Office of the Comptroller of the Currency, and the Corporation; and
+&emsp;&emsp;(A) "Federal banking agency" means, individually, the Board of Governors, the Office of the Comptroller of the Currency, and the Corporation; and
 
-&emsp;&emsp;(B) “Federal banking agencies” means all of the agencies referred to in subparagraph (A), collectively.
+&emsp;&emsp;(B) "Federal banking agencies" means all of the agencies referred to in subparagraph (A), collectively.
 
 #### (11) Functionally regulated subsidiary
 
-&emsp;The term “functionally regulated subsidiary” has the same meaning as in section 1844(c)(5) of this title.
+&emsp;The term "functionally regulated subsidiary" has the same meaning as in section 1844(c)(5) of this title.
 
 #### (12) Primary financial regulatory agency
 
-&emsp;The term “primary financial regulatory agency” means—
+&emsp;The term "primary financial regulatory agency" means—
 
 &emsp;&emsp;(A) the appropriate Federal banking agency, with respect to institutions described in section 1813(q) of this title, except to the extent that an institution is or the activities of an institution are otherwise described in subparagraph (B), (C), (D), or (E);
 
@@ -110,45 +110,45 @@ As used in this Act, the following definitions shall apply, except as the contex
 
 #### (13) Prudential standards
 
-&emsp;The term “prudential standards” means enhanced supervision and regulatory standards developed by the Board of Governors under section 5365 of this title.
+&emsp;The term "prudential standards" means enhanced supervision and regulatory standards developed by the Board of Governors under section 5365 of this title.
 
 #### (14) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Treasury.
+&emsp;The term "Secretary" means the Secretary of the Treasury.
 
 #### (15) Securities terms
 
 &emsp;The—
 
-&emsp;&emsp;(A) terms “broker”, “dealer”, “issuer”, “nationally recognized statistical rating organization”, “security”, and “securities laws” have the same meanings as in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c);
+&emsp;&emsp;(A) terms "broker", "dealer", "issuer", "nationally recognized statistical rating organization", "security", and "securities laws" have the same meanings as in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c);
 
-&emsp;&emsp;(B) term “investment adviser” has the same meaning as in section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2); and
+&emsp;&emsp;(B) term "investment adviser" has the same meaning as in section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2); and
 
-&emsp;&emsp;(C) term “investment company” has the same meaning as in section 3 of the Investment Company Act of 1940 (15 U.S.C. 80a–3).
+&emsp;&emsp;(C) term "investment company" has the same meaning as in section 3 of the Investment Company Act of 1940 (15 U.S.C. 80a–3).
 
 #### (16) State
 
-&emsp;The term “State” means any State, commonwealth, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, or the United States Virgin Islands.
+&emsp;The term "State" means any State, commonwealth, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, or the United States Virgin Islands.
 
 #### (17) Transfer date
 
-&emsp;The term “transfer date” means the date established under section 5411 of this title.
+&emsp;The term "transfer date" means the date established under section 5411 of this title.
 
 #### (18) Other incorporated definitions
 
 #### (A) Federal Deposit Insurance Act
 
-&emsp;&emsp;The terms “bank”, “bank holding company”, “control”, “deposit”, “depository institution”, “Federal depository institution”, “Federal savings association”, “foreign bank”, “including”, “insured branch”, “insured depository institution”, “national member bank”, “national nonmember bank”, “savings association”, “State bank”, “State depository institution”, “State member bank”, “State nonmember bank”, “State savings association”, and “subsidiary” have the same meanings as in section 1813 of this title.
+&emsp;&emsp;The terms "bank", "bank holding company", "control", "deposit", "depository institution", "Federal depository institution", "Federal savings association", "foreign bank", "including", "insured branch", "insured depository institution", "national member bank", "national nonmember bank", "savings association", "State bank", "State depository institution", "State member bank", "State nonmember bank", "State savings association", and "subsidiary" have the same meanings as in section 1813 of this title.
 
 #### (B) Holding companies
 
 &emsp;&emsp;The term—
 
-&emsp;&emsp;&emsp;(i) “bank holding company” has the same meaning as in section 1841 of this title;
+&emsp;&emsp;&emsp;(i) "bank holding company" has the same meaning as in section 1841 of this title;
 
-&emsp;&emsp;&emsp;(ii) “financial holding company” has the same meaning as in section 1841(p) of this title; and
+&emsp;&emsp;&emsp;(ii) "financial holding company" has the same meaning as in section 1841(p) of this title; and
 
-&emsp;&emsp;&emsp;(iii) “savings and loan holding company” has the same meaning as in section 1467a(a) of this title.
+&emsp;&emsp;&emsp;(iii) "savings and loan holding company" has the same meaning as in section 1467a(a) of this title.
 
 (Pub. L. 111–203, §2, July 21, 2010, 124 Stat. 1386.)
 
@@ -160,7 +160,7 @@ Title III, referred to in par. (2), is title III of Pub. L. 111–203, July 21, 
 
 Title X, referred to in par. (4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§5481 et seq.) of this chapter, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note below and Tables.
 
-Subchapter I, referred to in par. (8), was in the original “title I”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, known as the Financial Stability Act of 2010, which is classified principally to subchapter I (§5311 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note below and Tables.
+Subchapter I, referred to in par. (8), was in the original "title I", meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, known as the Financial Stability Act of 2010, which is classified principally to subchapter I (§5311 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note below and Tables.
 
 The Securities Exchange Act of 1934, referred to in par. (12)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
@@ -176,21 +176,21 @@ The Commodity Exchange Act, referred to in par. (12)(C), is act Sept. 21, 1922, 
 
 #### Effective Date
 
-Pub. L. 111–203, §4, July 21, 2010, 124 Stat. 1390, provided that: “Except as otherwise specifically provided in this Act \[see Short Title note below\] or the amendments made by this Act, this Act and such amendments shall take effect 1 day after the date of enactment of this Act \[July 21, 2010\].”
+Pub. L. 111–203, §4, July 21, 2010, 124 Stat. 1390, provided that: "Except as otherwise specifically provided in this Act \[see Short Title note below\] or the amendments made by this Act, this Act and such amendments shall take effect 1 day after the date of enactment of this Act \[July 21, 2010\]."
 
 #### Short Title
 
-Pub. L. 111–203, §1(a), July 21, 2010, 124 Stat. 1376, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Dodd-Frank Wall Street Reform and Consumer Protection Act’.”
+Pub. L. 111–203, §1(a), July 21, 2010, 124 Stat. 1376, provided that: "This Act \[see Tables for classification\] may be cited as the 'Dodd-Frank Wall Street Reform and Consumer Protection Act'."
 
-Pub. L. 111–203, title I, §101, July 21, 2010, 124 Stat. 1391, provided that: “This title \[enacting subchapter I of this chapter and amending sections 1818, 1820, 1833b, and 3105 of this title, sections 3132 and 5314 of Title 5, Government Organization and Employees, and section 78o of Title 15, Commerce and Trade\] may be cited as the ‘Financial Stability Act of 2010’.”
+Pub. L. 111–203, title I, §101, July 21, 2010, 124 Stat. 1391, provided that: "This title \[enacting subchapter I of this chapter and amending sections 1818, 1820, 1833b, and 3105 of this title, sections 3132 and 5314 of Title 5, Government Organization and Employees, and section 78o of Title 15, Commerce and Trade\] may be cited as the 'Financial Stability Act of 2010'."
 
-Pub. L. 111–203, title III, §300, July 21, 2010, 124 Stat. 1520, provided that: “This title \[enacting subchapter III of this chapter and sections 4b and 16 of this title, amending sections 1, 11, 248, 461, 481, 482, 1438, 1462 to 1464, 1466a to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, section 906 of Title 2, The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and section 3502 of Title 44, Public Printing and Documents, repealing section 1441a of this title, enacting provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and section 906 of Title 2, and amending provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and section 509 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Enhancing Financial Institution Safety and Soundness Act of 2010’.”
+Pub. L. 111–203, title III, §300, July 21, 2010, 124 Stat. 1520, provided that: "This title \[enacting subchapter III of this chapter and sections 4b and 16 of this title, amending sections 1, 11, 248, 461, 481, 482, 1438, 1462 to 1464, 1466a to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, section 906 of Title 2, The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and section 3502 of Title 44, Public Printing and Documents, repealing section 1441a of this title, enacting provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and section 906 of Title 2, and amending provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and section 509 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Enhancing Financial Institution Safety and Soundness Act of 2010'."
 
-Pub. L. 111–203, title VIII, §801, July 21, 2010, 124 Stat. 1802, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Payment, Clearing, and Settlement Supervision Act of 2010’.”
+Pub. L. 111–203, title VIII, §801, July 21, 2010, 124 Stat. 1802, provided that: "This title \[enacting subchapter IV of this chapter\] may be cited as the 'Payment, Clearing, and Settlement Supervision Act of 2010'."
 
-Pub. L. 111–203, title X, §1001, July 21, 2010, 124 Stat. 1955, provided that: “This title \[see Tables for classification\] may be cited as the ‘Consumer Financial Protection Act of 2010’.”
+Pub. L. 111–203, title X, §1001, July 21, 2010, 124 Stat. 1955, provided that: "This title \[see Tables for classification\] may be cited as the 'Consumer Financial Protection Act of 2010'."
 
-Pub. L. 111–203, title XII, §1201, July 21, 2010, 124 Stat. 2129, provided that: “This title \[enacting subchapter VII of this chapter and section 4719 of this title\] may be cited as the ‘Improving Access to Mainstream Financial Institutions Act of 2010’.”
+Pub. L. 111–203, title XII, §1201, July 21, 2010, 124 Stat. 2129, provided that: "This title \[enacting subchapter VII of this chapter and section 4719 of this title\] may be cited as the 'Improving Access to Mainstream Financial Institutions Act of 2010'."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

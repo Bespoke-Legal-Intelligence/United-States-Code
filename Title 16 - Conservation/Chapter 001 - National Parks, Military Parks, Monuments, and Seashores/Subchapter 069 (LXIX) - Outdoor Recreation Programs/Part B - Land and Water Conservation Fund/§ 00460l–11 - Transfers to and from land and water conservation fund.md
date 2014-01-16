@@ -16,75 +16,75 @@ There shall be paid from time to time from the land and water conservation fund 
 
 #### References in Text
 
-Section 6412(a)(2) of title 26, referred to in subsec. (b)(2), was redesignated as “section 6412(a)(1) of title 26” by Pub. L. 94–455, §1906(22), Oct. 4, 1976, 90 Stat. 1827.
+Section 6412(a)(2) of title 26, referred to in subsec. (b)(2), was redesignated as "section 6412(a)(1) of title 26" by Pub. L. 94–455, §1906(22), Oct. 4, 1976, 90 Stat. 1827.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(1). Pub. L. 112–141, §40102(e)(2)(B), substituted “October 1, 2017” for “July 1, 2013” and “October 1, 2016” for “July 1, 2012”.
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–141, §40102(e)(2)(B), substituted "October 1, 2017" for "July 1, 2013" and "October 1, 2016" for "July 1, 2012".
 
-Pub. L. 112–140, §§1(c), 402(d)(2)(B), temporarily substituted “July 7, 2013” for “July 1, 2013” and “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§1(c), 402(d)(2)(B), temporarily substituted "July 7, 2013" for "July 1, 2013" and "July 7, 2012" for "July 1, 2012". See Effective and Termination Dates of 2012 Amendment note below.
 
-Pub. L. 112–102, §402(e)(2)(B), substituted “July 1, 2013” for “April 1, 2013” and “July 1, 2012” for “April 1, 2012”.
+Pub. L. 112–102, §402(e)(2)(B), substituted "July 1, 2013" for "April 1, 2013" and "July 1, 2012" for "April 1, 2012".
 
-Subsec. (b)(2). Pub. L. 112–141, §40102(e)(2)(B)(i), substituted “October 1, 2017” for “July 1, 2013”.
+Subsec. (b)(2). Pub. L. 112–141, §40102(e)(2)(B)(i), substituted "October 1, 2017" for "July 1, 2013".
 
-Pub. L. 112–140, §§1(c), 402(d)(2)(B)(i), temporarily substituted “July 7, 2013” for “July 1, 2013”. See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§1(c), 402(d)(2)(B)(i), temporarily substituted "July 7, 2013" for "July 1, 2013". See Effective and Termination Dates of 2012 Amendment note below.
 
-Pub. L. 112–102, §402(e)(2)(B)(i), substituted “July 1, 2013” for “April 1, 2013”.
+Pub. L. 112–102, §402(e)(2)(B)(i), substituted "July 1, 2013" for "April 1, 2013".
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–30, §142(e)(2)(B)(ii)(I), substituted “section 9503(c)(3)(A) of title 26 (relating to transfer to Land and Water Conservation Fund)” for “section 9503(c)(4)(B) of title 26 (relating to special motor fuels and gasoline used in motorboats)”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–30, §142(e)(2)(B)(ii)(I), substituted "section 9503(c)(3)(A) of title 26 (relating to transfer to Land and Water Conservation Fund)" for "section 9503(c)(4)(B) of title 26 (relating to special motor fuels and gasoline used in motorboats)".
 
-Subsec. (b)(1). Pub. L. 112–30, §142(e)(2)(B)(i), substituted “April 1, 2013” for “October 1, 2012” and “April 1, 2012” for “October 1, 2011”.
+Subsec. (b)(1). Pub. L. 112–30, §142(e)(2)(B)(i), substituted "April 1, 2013" for "October 1, 2012" and "April 1, 2012" for "October 1, 2011".
 
-Subsec. (b)(2). Pub. L. 112–30, §142(e)(2)(B)(i)(I), (ii)(II), substituted “April 1, 2013” for “October 1, 2012” and “section 6412” for “section 6412(a)(2)”.
+Subsec. (b)(2). Pub. L. 112–30, §142(e)(2)(B)(i)(I), (ii)(II), substituted "April 1, 2013" for "October 1, 2012" and "section 6412" for "section 6412(a)(2)".
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–59 substituted “2011” for “2003” in par. (1) and “2012” for “2004” in pars. (1) and (2).
+<b>2005</b>—Subsec. (b). Pub. L. 109–59 substituted "2011" for "2003" in par. (1) and "2012" for "2004" in pars. (1) and (2).
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–178 substituted “2003” for “1997” in par. (1) and “2004” for “1998” in pars. (1) and (2).
+<b>1998</b>—Subsec. (b). Pub. L. 105–178 substituted "2003" for "1997" in par. (1) and "2004" for "1998" in pars. (1) and (2).
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–240 substituted “1997” for “1995” and “1998” for “1996” wherever appearing.
+<b>1991</b>—Subsec. (b). Pub. L. 102–240 substituted "1997" for "1995" and "1998" for "1996" wherever appearing.
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–508 substituted “1995” for “1993” and “1996” for “1994” wherever appearing.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508 substituted "1995" for "1993" and "1996" for "1994" wherever appearing.
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–17 substituted “1993” for “1988” and “1994” for “1989” wherever appearing.
+<b>1987</b>—Subsec. (b). Pub. L. 100–17 substituted "1993" for "1988" and "1994" for "1989" wherever appearing.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §2, substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-Pub. L. 99–514, §1875(e), substituted “section 9503(c)(4)(B) of title 26” for “section 209(f)(5) of the Highway Revenue Act of 1956”.
+Pub. L. 99–514, §1875(e), substituted "section 9503(c)(4)(B) of title 26" for "section 209(f)(5) of the Highway Revenue Act of 1956".
 
-Subsec. (b)(1). Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (b)(1). Pub. L. 99–514, §2, substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1983</b>—Subsec. (b). Pub. L. 97–424 substituted “1989” for “1985” and “1988” for “1984” wherever appearing.
+<b>1983</b>—Subsec. (b). Pub. L. 97–424 substituted "1989" for "1985" and "1988" for "1984" wherever appearing.
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–599 substituted “1984” for “1979” and “1985” for “1980” wherever appearing.
+<b>1978</b>—Subsec. (b). Pub. L. 95–599 substituted "1984" for "1979" and "1985" for "1980" wherever appearing.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–280 substituted “1979” for “1977” and “1980” for “1978” wherever appearing.
+<b>1976</b>—Subsec. (b). Pub. L. 94–280 substituted "1979" for "1977" and "1980" for "1978" wherever appearing.
 
-Pub. L. 94–273 substituted “October” for “July” wherever appearing.
+Pub. L. 94–273 substituted "October" for "July" wherever appearing.
 
-<b>1970</b>—Subsec. (b). Pub. L. 91–605 substituted “1977” for “1972” and “1978” for “1973” wherever appearing.
+<b>1970</b>—Subsec. (b). Pub. L. 91–605 substituted "1977" for "1972" and "1978" for "1973" wherever appearing.
 
 #### Effective and Termination Dates of 2012 Amendment
 
-Pub. L. 112–141, div. D, title I, §40102(f), July 6, 2012, 126 Stat. 845, provided that: “Except as otherwise provided in this section, the amendments made by this section \[amending this section and sections 4041, 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of Title 26, Internal Revenue Code\] shall take effect on July 1, 2012.”
+Pub. L. 112–141, div. D, title I, §40102(f), July 6, 2012, 126 Stat. 845, provided that: "Except as otherwise provided in this section, the amendments made by this section \[amending this section and sections 4041, 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of Title 26, Internal Revenue Code\] shall take effect on July 1, 2012."
 
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
 
 Pub. L. 112–140, title IV, §402(f), June 29, 2012, 126 Stat. 403, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 4041, 4051, 4071, 4081, 4221, 4482, 4483, 6412, and 9503 of Title 26, Internal Revenue Code\] shall take effect on July 1, 2012.
 
-“(2)
+"(2)
 
-Technical correction.—The amendment made by subsection (e) \[amending section 4482 of Title 26\] shall take effect as if included in section 402 of the Surface Transportation Extension Act of 2012 \[Pub. L. 112–102\].”
+Technical correction.—The amendment made by subsection (e) \[amending section 4482 of Title 26\] shall take effect as if included in section 402 of the Surface Transportation Extension Act of 2012 \[Pub. L. 112–102\]."
 
-Pub. L. 112–102, title IV, §402(f), Mar. 30, 2012, 126 Stat. 283, provided that: “The amendments made by this section \[amending this section and sections 4041, 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of Title 26, Internal Revenue Code\] shall take effect on April 1, 2012.”
+Pub. L. 112–102, title IV, §402(f), Mar. 30, 2012, 126 Stat. 283, provided that: "The amendments made by this section \[amending this section and sections 4041, 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of Title 26, Internal Revenue Code\] shall take effect on April 1, 2012."
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–30, title I, §142(f), Sept. 16, 2011, 125 Stat. 357, provided that: “The amendments made by this section \[amending this section and sections 4041, 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of Title 26, Internal Revenue Code\] shall take effect on October 1, 2011.”
+Pub. L. 112–30, title I, §142(f), Sept. 16, 2011, 125 Stat. 357, provided that: "The amendments made by this section \[amending this section and sections 4041, 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of Title 26, Internal Revenue Code\] shall take effect on October 1, 2011."
 
 #### Effective Date of 1986 Amendment
 
@@ -100,5 +100,5 @@ Section effective Jan. 1, 1965, see note set out under section 460l–4 of this 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] of title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] of title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 July 15, 1954, ch. 507, §9 (as applicable to armed forces), 68 Stat. 480.
 
-The words “as authorized by this chapter, section 103a(c) of this Title, and section 224 of Title 42”, “by purchase or otherwise”, “care and”, and “single or multiple” are omitted as surplusage. The word “continental” is omitted as covered by the definition of “United States” in section 101(1) of this title.
+The words "as authorized by this chapter, section 103a(c) of this Title, and section 224 of Title 42", "by purchase or otherwise", "care and", and "single or multiple" are omitted as surplusage. The word "continental" is omitted as covered by the definition of "United States" in section 101(1) of this title.
 

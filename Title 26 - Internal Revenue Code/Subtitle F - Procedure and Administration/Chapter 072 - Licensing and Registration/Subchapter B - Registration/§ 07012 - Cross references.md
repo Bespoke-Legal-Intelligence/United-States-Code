@@ -12,15 +12,15 @@
 
 &emsp;&emsp;<b>(6) For other penalties for failure to register with respect to wagering, see section 7262.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 846; Pub. L. 85–475, §4(b)(7), June 30, 1958, 72 Stat. 260; Pub. L. 89–44, title VI, §601(g), June 21, 1965, 79 Stat. 155;Pub. L. 91–513, title III, §1102(d), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §§1904(b)(8)(C), 1906(a)(39), Oct. 4, 1976, 90 Stat. 1816, 1830; Pub. L. 104–188, title I, §1702(b)(4), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 109–59, title XI, §11125(b)(9), Aug. 10, 2005, 119 Stat. 1955.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 846; Pub. L. 85–475, §4(b)(7), June 30, 1958, 72 Stat. 260; Pub. L. 89–44, title VI, §601(g), June 21, 1965, 79 Stat. 155; Pub. L. 91–513, title III, §1102(d), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §§1904(b)(8)(C), 1906(a)(39), Oct. 4, 1976, 90 Stat. 1816, 1830; Pub. L. 104–188, title I, §1702(b)(4), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 109–59, title XI, §11125(b)(9), Aug. 10, 2005, 119 Stat. 1955.)
 
 #### Amendments
 
 <b>2005</b>—Pars. (4) to (6). Pub. L. 109–59 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-<b>1996</b>—Par. (3). Pub. L. 104–188, §1702(b)(4)(A), substituted “taxes on gasoline and diesel fuel” for “production or importation of gasoline”.
+<b>1996</b>—Par. (3). Pub. L. 104–188, §1702(b)(4)(A), substituted "taxes on gasoline and diesel fuel" for "production or importation of gasoline".
 
-Pars. (4) to (6). Pub. L. 104–188, §1702(b)(4)(B), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “For provisions relating to registration in relation to the manufacture or production of lubricating oils, see section 4101.”
+Pars. (4) to (6). Pub. L. 104–188, §1702(b)(4)(B), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: "For provisions relating to registration in relation to the manufacture or production of lubricating oils, see section 4101."
 
 <b>1976</b>—Pub. L. 94–455 revised section generally, striking out cross reference to section 4804(d) relating to registration in relation to manufacture of white phosphorus matches and substituted reference to section 5861 for reference to section 5854 in cross reference covering registration in connection with firearms.
 

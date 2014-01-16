@@ -2,7 +2,7 @@
 
 #### (a) Authorization and appropriation
 
-There are authorized to be appropriated, and there are appropriated, to carry out this section $150,000,000 for each of the fiscal years 2010through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+There are authorized to be appropriated, and there are appropriated, to carry out this section $150,000,000 for each of the fiscal years 2010 through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
 #### (b) Program authorized
 
@@ -62,7 +62,7 @@ There are authorized to be appropriated, and there are appropriated, to carry ou
 
 &emsp;An application submitted under paragraph (1) shall include the following:
 
-&emsp;&emsp;(A) A description of the grantee's capacity to administer the grant under this section and report annually to the Secretary on the activities and services described in subsection (f).
+&emsp;&emsp;(A) A description of the grantee's capacity to administer the grant under this sectionand report annually to the Secretary on the activities and services described in subsection (f).
 
 &emsp;&emsp;(B) A description of the grantee's plan for using the grant funds to meet the requirements of subsections (f) and (g), including plans for how the grantee will make special efforts to—
 
@@ -110,7 +110,7 @@ A State receiving a payment under this section may elect to make a subgrant to o
 
 &emsp;&emsp;(E) Need-based grant aid for students.
 
-&emsp;&emsp;(F) Professional development for guidance counselors at middle schools and secondary schools, and financial aid administrators and college admissions counselors at institutions of higher education, to improve such individuals’ capacity to assist students and parents with—
+&emsp;&emsp;(F) Professional development for guidance counselors at middle schools and secondary schools, and financial aid administrators and college admissions counselors at institutions of higher education, to improve such individuals' capacity to assist students and parents with—
 
 &emsp;&emsp;&emsp;(i) understanding—
 
@@ -122,9 +122,9 @@ A State receiving a payment under this section may elect to make a subgrant to o
 
 &emsp;&emsp;&emsp;(iii) applying for Federal student financial assistance and other State, local, and private student financial assistance and scholarships;
 
-&emsp;&emsp;&emsp;(iv) activities that increase students’ ability to successfully complete the coursework required for a postsecondary degree, including activities such as tutoring or mentoring; and
+&emsp;&emsp;&emsp;(iv) activities that increase students' ability to successfully complete the coursework required for a postsecondary degree, including activities such as tutoring or mentoring; and
 
-&emsp;&emsp;&emsp;(v) activities to improve secondary school students’ preparedness for postsecondary entrance examinations.
+&emsp;&emsp;&emsp;(v) activities to improve secondary school students' preparedness for postsecondary entrance examinations.
 
 &emsp;&emsp;(G) Student loan cancellation or repayment (as applicable), or interest rate reductions, for borrowers who are employed in a high-need geographical area or a high-need profession in the State, as determined by the State.
 
@@ -172,7 +172,7 @@ A State receiving a payment under this section may elect to make a subgrant to o
 
 &emsp;&emsp;Any information about financing options for higher education provided through an activity or service funded under this section shall—
 
-&emsp;&emsp;&emsp;(i) include information to students and the students’ parents of the availability of Federal, State, local, institutional, and other grants and loans for postsecondary education; and
+&emsp;&emsp;&emsp;(i) include information to students and the students' parents of the availability of Federal, State, local, institutional, and other grants and loans for postsecondary education; and
 
 &emsp;&emsp;&emsp;(ii) present information on financial assistance for postsecondary education that is not provided under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in a manner that is clearly distinct from information on student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
@@ -198,7 +198,7 @@ In this section:
 
 #### (1) Philanthropic organization
 
-&emsp;The term “philanthropic organization” means a non-profit organization—
+&emsp;The term "philanthropic organization" means a non-profit organization—
 
 &emsp;&emsp;(A) that does not receive funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 or under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\];
 
@@ -212,7 +212,7 @@ In this section:
 
 #### (2) Eligible consortium
 
-&emsp;The term “eligible consortium” means a partnership of 2 or more entities that have agreed to work together to carry out this section that—
+&emsp;The term "eligible consortium" means a partnership of 2 or more entities that have agreed to work together to carry out this section that—
 
 &emsp;&emsp;(A) includes—
 
@@ -238,7 +238,7 @@ In this section:
 
 #### (3) Grantee
 
-&emsp;The term “grantee” means—
+&emsp;The term "grantee" means—
 
 &emsp;&emsp;(A) a State awarded a grant under this section; or
 
@@ -290,7 +290,7 @@ Another prior section 1145a, Pub. L. 89–329, title XII, §1206, as added Pub. 
 
 Section 1145b, Pub. L. 89–329, title XII, §1207, as added Pub. L. 99–498, title XII, §1204, Oct. 17, 1986, 100 Stat. 1576, related to student representation in connection with administration of this chapter.
 
-Another prior section 1145b, Pub. L. 89–329, title XII, §1202, formerly §1207, as added Pub. L. 94–482, title I, §182, Oct. 12, 1976, 90 Stat. 2167; renumbered title XII, §1202, Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, which related to antidiscrimination requirements for institutions of higher education receiving Federal assistance, was transferred to section 1142 of this title and subsequently repealed by Pub. L. 105–244.
+Another prior section 1145b, Pub. L. 89–329, title XII, §1202, formerly §1207, as added Pub. L. 94–482, title I,§182, Oct. 12, 1976, 90 Stat. 2167; renumbered title XII, §1202, Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, which related to antidiscrimination requirements for institutions of higher education receiving Federal assistance, was transferred to section 1142 of this title and subsequently repealed by Pub. L. 105–244.
 
 Section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 99–498, title XII, §1205, Oct. 17, 1986, 100 Stat. 1577, related to financial responsibility of foreign students.
 
@@ -320,23 +320,23 @@ Prior sections 1147 to 1150, Pub. L. 89–329, title XII, §§1207–1210, as ad
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–152, §2102(1), substituted “$150,000,000 for each of the fiscal years 2010 through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014.” for “$66,000,000 for each of the fiscal years 2008 and 2009.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–152, §2102(1), substituted "$150,000,000 for each of the fiscal years 2010 through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014." for "$66,000,000 for each of the fiscal years 2008 and 2009."
 
-Subsec. (c)(2). Pub. L. 111–152, §2102(2), substituted “1.0 percent” for “0.5 percent”.
+Subsec. (c)(2). Pub. L. 111–152, §2102(2), substituted "1.0 percent" for "0.5 percent".
 
 <b>2009</b>—Subsec. (c)(1). Pub. L. 111–39, §701(6)(A), made technical amendment to reference in original act which appears in two places in text as reference to section 9902(2) of title 42.
 
-Subsec. (e). Pub. L. 111–39, §701(6)(B), substituted “(as described in section 1085(p) of this title)” for “(as defined in section 1085(p) of this title, as amended by section 303 of this Act)” and “1078(b)” for “1085(j)” in introductory provisions.
+Subsec. (e). Pub. L. 111–39, §701(6)(B), substituted "(as described in section 1085(p) of this title)" for "(as defined in section 1085(p) of this title, as amended by section 303 of this Act)" and "1078(b)" for "1085(j)" in introductory provisions.
 
 Subsec. (g)(2). Pub. L. 111–39, §701(6)(C), made technical amendment to reference in original act which appears in text as reference to section 9902(2) of title 42.
 
-Subsec. (i). Pub. L. 111–39, §701(6)(D), substituted “consortium” for “consortia” in par. (1)(D) and in par. (2) in heading and wherever appearing in text.
+Subsec. (i). Pub. L. 111–39, §701(6)(D), substituted "consortium" for "consortia" in par. (1)(D) and in par. (2) in heading and wherever appearing in text.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315, §710(1), substituted “In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.” for “The authority to award grants under this section shall expire at the end of fiscal year 2009.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §710(1), substituted "In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years." for "The authority to award grants under this section shall expire at the end of fiscal year 2009."
 
-Subsec. (b)(1). Pub. L. 110–315, §710(2), inserted “, subject to the availability of appropriations,” after “the Secretary shall”.
+Subsec. (b)(1). Pub. L. 110–315, §710(2), inserted ", subject to the availability of appropriations," after "the Secretary shall".
 
-Subsec. (e). Pub. L. 110–315, §710(3), inserted “, or those nonprofit organizations that have agreements with the Secretary under section 1085(j) of this title” before “, or a partnership”.
+Subsec. (e). Pub. L. 110–315, §710(3), inserted ", or those nonprofit organizations that have agreements with the Secretary under section 1085(j) of this title" before ", or a partnership".
 
 #### Effective Date of 2009 Amendment
 
@@ -346,5 +346,5 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 Section effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as an Effective Date of 2007 Amendment note under section 1070a of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “organizations,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "organizations,".</i>
 

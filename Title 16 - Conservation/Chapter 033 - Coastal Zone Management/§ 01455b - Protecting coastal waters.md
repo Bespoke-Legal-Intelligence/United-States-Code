@@ -168,7 +168,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (5) Management measures
 
-&emsp;For purposes of this subsection, the term “management measures” means economically achievable measures for the control of the addition of pollutants from existing and new categories and classes of nonpoint sources of pollution, which reflect the greatest degree of pollutant reduction achievable through the application of the best available nonpoint pollution control practices, technologies, processes, siting criteria, operating methods, or other alternatives.
+&emsp;For purposes of this subsection, the term "management measures" means economically achievable measures for the control of the addition of pollutants from existing and new categories and classes of nonpoint sources of pollution, which reflect the greatest degree of pollutant reduction achievable through the application of the best available nonpoint pollution control practices, technologies, processes, siting criteria, operating methods, or other alternatives.
 
 #### (h) Authorization of appropriations
 
@@ -194,17 +194,17 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 In this section—
 
-&emsp;(1) the term “Administrator” means the Administrator of the Environmental Protection Agency;
+&emsp;(1) the term "Administrator" means the Administrator of the Environmental Protection Agency;
 
-&emsp;(2) the term “coastal State” has the meaning given the term “coastal state” under section 304 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1453);
+&emsp;(2) the term "coastal State" has the meaning given the term "coastal state" under section 304 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1453);
 
-&emsp;(3) each of the terms “coastal waters” and “coastal zone” has the meaning that term has in the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\];
+&emsp;(3) each of the terms "coastal waters" and "coastal zone" has the meaning that term has in the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\];
 
-&emsp;(4) the term “coastal management agency” means a State agency designated pursuant to section 306(d)(6) of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455(d)(6)\];
+&emsp;(4) the term "coastal management agency" means a State agency designated pursuant to section 306(d)(6) of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455(d)(6)\];
 
-&emsp;(5) the term “land use” includes a use of waters adjacent to coastal waters; and
+&emsp;(5) the term "land use" includes a use of waters adjacent to coastal waters; and
 
-&emsp;(6) the term “Secretary” means the Secretary of Commerce.
+&emsp;(6) the term "Secretary" means the Secretary of Commerce.
 
 (Pub. L. 101–508, title VI, §6217, Nov. 5, 1990, 104 Stat. 1388–314; Pub. L. 102–587, title II, §2205(b)(24), Nov. 4, 1992, 106 Stat. 5052.)
 
@@ -222,7 +222,7 @@ Section was enacted as part of the Coastal Zone Act Reauthorization Amendments o
 
 #### Amendments
 
-<b>1992</b>—Subsec. (i)(3). Pub. L. 102–587 struck out comma after “ ‘coastal waters’ ” and inserted “Zone” before “Management”.
+<b>1992</b>—Subsec. (i)(3). Pub. L. 102–587 struck out comma after " 'coastal waters' " and inserted "Zone" before "Management".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 (2)(A) After the expiration of—
 
-&emsp;(i) 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section, in thecase of a facility which is sold or transferred or the use of which changes after July 18, 1984, or
+&emsp;(i) 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section, in the case of a facility which is sold or transferred or the use of which changes after July 18, 1984, or
 
 &emsp;(ii) thirty days after July 18, 1984, or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section, in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984.<sup>1</sup>
 
@@ -64,23 +64,23 @@ Provisions similar to those comprising this section were contained in section 29
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–369 amended section generally. Prior to amendment, section read as follows: “If any facility with respect to which funds have been paid under section 291f of this title shall, at any time within twenty years after the completion of construction—
+<b>1984</b>—Pub. L. 98–369 amended section generally. Prior to amendment, section read as follows: "If any facility with respect to which funds have been paid under section 291f of this title shall, at any time within twenty years after the completion of construction—
 
-&emsp;“(a) be sold or transferred to any person, agency, or organization (1) which is not qualified to file an application under section 291e of this title, or (2) which is not approved as a transferee by the State agency designated pursuant to section 291d of this title, or its successor, or
+&emsp;"(a) be sold or transferred to any person, agency, or organization (1) which is not qualified to file an application under section 291e of this title, or (2) which is not approved as a transferee by the State agency designated pursuant to section 291d of this title, or its successor, or
 
-&emsp;“(b) cease to be a public health center or a public or other nonprofit hospital, outpatient facility, facility for long-term care, or rehabilitation facility, unless the Surgeon General determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from this obligation,
+&emsp;"(b) cease to be a public health center or a public or other nonprofit hospital, outpatient facility, facility for long-term care, or rehabilitation facility, unless the Surgeon General determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from this obligation,
 
-> the United States shall be entitled to recover from either the transferor or the transferee (or, in the case of a facility which has ceased to be public or nonprofit, from the owners thereof) an amount bearing the same ratio to the then value (as determined by the agreement of the parties or by action brought in the district court of the United States for the district in which the facility is situated) of so much of the facility as constituted an approved project or projects, as the amount of the Federal participation bore to the cost of the construction or modernization under such project or projects. Such right of recovery shall not constitute a lien upon said facility prior to judgment.”
+> the United States shall be entitled to recover from either the transferor or the transferee (or, in the case of a facility which has ceased to be public or nonprofit, from the owners thereof) an amount bearing the same ratio to the then value (as determined by the agreement of the parties or by action brought in the district court of the United States for the district in which the facility is situated) of so much of the facility as constituted an approved project or projects, as the amount of the Federal participation bore to the cost of the construction or modernization under such project or projects. Such right of recovery shall not constitute a lien upon said facility prior to judgment."
 
-<b>1970</b>—Cl. (b). Pub. L. 91–296 substituted “outpatient facility” for “diagnostic or treatment center”.
+<b>1970</b>—Cl. (b). Pub. L. 91–296 substituted "outpatient facility" for "diagnostic or treatment center".
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Regulations and Personnel
 
-Pub. L. 98–369, div. B, title III, §2381(c), July 18, 1984, 98 Stat. 1116, provided that: “Not later than the expiration of the one-hundred-and-eighty-day period beginning on the date of the enactment of this section \[July 18, 1984\], the Secretary shall have in effect regulations and personnel to place in effect the amendments made by this section \[amending sections 291i and 300s–1a of this title\].”
+Pub. L. 98–369, div. B, title III, §2381(c), July 18, 1984, 98 Stat. 1116, provided that: "Not later than the expiration of the one-hundred-and-eighty-day period beginning on the date of the enactment of this section \[July 18, 1984\], the Secretary shall have in effect regulations and personnel to place in effect the amendments made by this section \[amending sections 291i and 300s–1a of this title\]."
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

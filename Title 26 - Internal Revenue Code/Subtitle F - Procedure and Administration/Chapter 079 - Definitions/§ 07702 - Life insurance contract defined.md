@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of this title, the term “life insurance contract” means any contract which is a life insurance contract under the applicable law, but only if such contract—
+For purposes of this title, the term "life insurance contract" means any contract which is a life insurance contract under the applicable law, but only if such contract—
 
 &emsp;(1) meets the cash value accumulation test of subsection (b), or
 
@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (2) Guideline premium limitation
 
-&emsp;The term “guideline premium limitation” means, as of any date, the greater of—
+&emsp;The term "guideline premium limitation" means, as of any date, the greater of—
 
 &emsp;&emsp;(A) the guideline single premium, or
 
@@ -46,13 +46,13 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “guideline single premium” means the premium at issue with respect to future benefits under the contract.
+&emsp;&emsp;The term "guideline single premium" means the premium at issue with respect to future benefits under the contract.
 
 #### (B) Basis on which determination is made
 
 &emsp;&emsp;The determination under subparagraph (A) shall be based on—
 
-&emsp;&emsp;&emsp;(i) reasonable mortality charges which meet the requirements (if any) prescribed in regulations and which (except as provided in regulations) do not exceed the mortality charges specified in the prevailing commissioners’ standard tables (as defined in section 807(d)(5)) as of the time the contract is issued,
+&emsp;&emsp;&emsp;(i) reasonable mortality charges which meet the requirements (if any) prescribed in regulations and which (except as provided in regulations) do not exceed the mortality charges specified in the prevailing commissioners' standard tables (as defined in section 807(d)(5)) as of the time the contract is issued,
 
 &emsp;&emsp;&emsp;(ii) any reasonable charges (other than mortality charges) which (on the basis of the company's experience, if any, with respect to similar contracts) are reasonably expected to be actually paid, and
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (4) Guideline level premium
 
-&emsp;The term “guideline level premium” means the level annual amount, payable over a period not ending before the insured attains age 95, computed on the same basis as the guideline single premium, except that paragraph (3)(B)(iii) shall be applied by substituting “4 percent” for “6 percent”.
+&emsp;The term "guideline level premium" means the level annual amount, payable over a period not ending before the insured attains age 95, computed on the same basis as the guideline single premium, except that paragraph (3)(B)(iii) shall be applied by substituting "4 percent" for "6 percent".
 
 #### (d) Cash value corridor for purposes of subsection (a)(2)(B)
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “premiums paid” means the premiums paid under the contract less amounts (other than amounts includible in gross income) to which section 72(e) applies and less any excess premiums with respect to which there is a distribution described in subparagraph (B) or (E) of paragraph (7) and any other amounts received with respect to the contract which are specified in regulations.
+&emsp;&emsp;The term "premiums paid" means the premiums paid under the contract less amounts (other than amounts includible in gross income) to which section 72(e) applies and less any excess premiums with respect to which there is a distribution described in subparagraph (B) or (E) of paragraph (7) and any other amounts received with respect to the contract which are specified in regulations.
 
 #### (B) Treatment of certain premiums returned to policyholder
 
@@ -164,17 +164,17 @@ For purposes of this section—
 
 #### (3) Death benefit
 
-&emsp;The term “death benefit” means the amount payable by reason of the death of the insured (determined without regard to any qualified additional benefits).
+&emsp;The term "death benefit" means the amount payable by reason of the death of the insured (determined without regard to any qualified additional benefits).
 
 #### (4) Future benefits
 
-&emsp;The term “future benefits” means death benefits and endowment benefits.
+&emsp;The term "future benefits" means death benefits and endowment benefits.
 
 #### (5) Qualified additional benefits
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified additional benefits” means any—
+&emsp;&emsp;The term "qualified additional benefits" means any—
 
 &emsp;&emsp;&emsp;(i) guaranteed insurability,
 
@@ -268,7 +268,7 @@ For purposes of this section—
 
 #### (B) Income on the contract
 
-&emsp;&emsp;For purposes of this paragraph, the term “income on the contract” means, with respect to any taxable year of the policyholder, the excess of—
+&emsp;&emsp;For purposes of this paragraph, the term "income on the contract" means, with respect to any taxable year of the policyholder, the excess of—
 
 &emsp;&emsp;&emsp;(i) the sum of—
 
@@ -306,17 +306,17 @@ For purposes of this section—
 
 #### (2) Definition of endowment contract
 
-&emsp;For purposes of this title (other than paragraph (1)), the term “endowment contract” means a contract which is an endowment contract under the applicable law and which meets the requirements of subsection (a).
+&emsp;For purposes of this title (other than paragraph (1)), the term "endowment contract"means a contract which is an endowment contract under the applicable law and which meets the requirements of subsection (a).
 
 #### (i) Transitional rule for certain 20-pay contracts
 
 #### (1) In general
 
-&emsp;In the case of a qualified 20-pay contract, this section shall be applied by substituting “3 percent” for “4 percent” in subsection (b)(2).
+&emsp;In the case of a qualified 20-pay contract, this section shall be applied by substituting "3 percent" for "4 percent" in subsection (b)(2).
 
 #### (2) Qualified 20-pay contract
 
-&emsp;For purposes of paragraph (1), the term “qualified 20-pay contract” means any contract which—
+&emsp;For purposes of paragraph (1), the term "qualified 20-pay contract" means any contract which—
 
 &emsp;&emsp;(A) requires at least 20 nondecreasing annual premium payments, and
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (3) Existing plan of insurance
 
-&emsp;For purposes of this subsection, the term “existing plan of insurance” means, with respect to any contract, any plan of insurance which was filed by the company issuing such contract in 1 or more States before September 28, 1983, and is on file in the appropriate State for such contract.
+&emsp;For purposes of this subsection, the term "existing plan of insurance" means, with respect to any contract, any plan of insurance which was filed by the company issuing such contract in 1 or more States before September 28, 1983, and is on file in the appropriate State for such contract.
 
 #### (j) Certain church self-funded death benefit plans treated as life insurance
 
@@ -346,11 +346,11 @@ For purposes of this section—
 
 #### (A) Church
 
-&emsp;&emsp;The term “church” means a church or a convention or association of churches.
+&emsp;&emsp;The term "church" means a church or a convention or association of churches.
 
 #### (B) Employee
 
-&emsp;&emsp;The term “employee” includes an employee described in section 414(e)(3)(B).
+&emsp;&emsp;The term "employee" includes an employee described in section 414(e)(3)(B).
 
 #### (k) Regulations
 
@@ -362,37 +362,37 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 <b>1988</b>—Subsec. (c)(3)(B)(i), (ii). Pub. L. 100–647, §5011(a), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
-“(i) the mortality charges specified in the contract (or, if none is specified, the mortality charges used in determining the statutory reserves for such contract),
+"(i) the mortality charges specified in the contract (or, if none is specified, the mortality charges used in determining the statutory reserves for such contract),
 
-“(ii) any charges (not taken into account under clause (i)) specified in the contract (the amount of any charge not so specified shall be treated as zero), and”.
+"(ii) any charges (not taken into account under clause (i)) specified in the contract (the amount of any charge not so specified shall be treated as zero), and".
 
 Subsec. (c)(3)(D). Pub. L. 100–647, §5011(b), added subpar. (D).
 
 Subsecs. (j), (k). Pub. L. 100–647, §6078(a), added subsec. (j) and redesignated former subsec. (j) as (k).
 
-<b>1986</b>—Subsec. (b)(2)(C). Pub. L. 99–514, §1825(a)(2), substituted “subparagraphs (A) and (D)” for “subparagraphs (A) and (C)”.
+<b>1986</b>—Subsec. (b)(2)(C). Pub. L. 99–514, §1825(a)(2), substituted "subparagraphs (A) and (D)" for "subparagraphs (A) and (C)".
 
-Subsec. (e)(1). Pub. L. 99–514, §1825(a)(3), inserted “(other than subsection (d))” after “section”.
+Subsec. (e)(1). Pub. L. 99–514, §1825(a)(3), inserted "(other than subsection (d))" after "section".
 
-Subsec. (e)(1)(B). Pub. L. 99–514, §1825(a)(1)(A), substituted “shall be deemed to be no earlier than” for “shall be no earlier than”.
+Subsec. (e)(1)(B). Pub. L. 99–514, §1825(a)(1)(A), substituted "shall be deemed to be no earlier than" for "shall be no earlier than".
 
 Subsec. (e)(1)(C). Pub. L. 99–514, §1821(a)(1)(C), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Subsec. (e)(1)(D). Pub. L. 99–514, §1821(a)(1)(C), (D), redesignated subpar. (C) as (D) and substituted “the maturity date determined by taking into account subparagraph (B)” for “the maturity date described in subparagraph (B)”.
+Subsec. (e)(1)(D). Pub. L. 99–514, §1821(a)(1)(C), (D), redesignated subpar. (C) as (D) and substituted "the maturity date determined by taking into account subparagraph (B)" for "the maturity date described in subparagraph (B)".
 
 Subsec. (e)(2)(C). Pub. L. 99–514, §1825(a)(4), added subpar. (C).
 
-Subsec. (f)(1)(A). Pub. L. 99–514, §1825(b)(2), substituted “less any excess premiums with respect to which there is a distribution described in subparagraph (B) or (E) of paragraph (7) and any other amounts received” for “less any other amounts received”.
+Subsec. (f)(1)(A). Pub. L. 99–514, §1825(b)(2), substituted "less any excess premiums with respect to which there is a distribution described in subparagraph (B) or (E) of paragraph (7) and any other amounts received" for "less any other amounts received".
 
-Subsec. (f)(7). Pub. L. 99–514, §1825(b)(1), amended par. (7) generally. Prior to amendment, par. (7)(A), in general, read as follows: “In the event of a change in the future benefits or any qualified additional benefit (or in any other terms) under the contract which was not reflected in any previous determination made under this section, under regulations prescribed by the Secretary, there shall be proper adjustments in future determinations made under this section.”, and par. (7)(B), certain changes treated as exchange, read as follows: “In the case of any change which reduces the future benefits under the contract, such change shall be treated as an exchange of the contract for another contract.”
+Subsec. (f)(7). Pub. L. 99–514, §1825(b)(1), amended par. (7) generally. Prior to amendment, par. (7)(A), in general, read as follows: "In the event of a change in the future benefits or any qualified additional benefit (or in any other terms) under the contract which was not reflected in any previous determination made under this section, under regulations prescribed by the Secretary, there shall be proper adjustments in future determinations made under this section.", and par. (7)(B), certain changes treated as exchange, read as follows: "In the case of any change which reduces the future benefits under the contract, such change shall be treated as an exchange of the contract for another contract."
 
-Subsec. (g)(1)(B)(ii). Pub. L. 99–514, §1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year.”
+Subsec. (g)(1)(B)(ii). Pub. L. 99–514, §1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year."
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title V, §5011(d), Nov. 10, 1988, 102 Stat. 3661, provided that: “The amendments made by this section \[amending this section\] shall apply to contracts entered into on or after October 21, 1988.”
+Pub. L. 100–647, title V, §5011(d), Nov. 10, 1988, 102 Stat. 3661, provided that: "The amendments made by this section \[amending this section\] shall apply to contracts entered into on or after October 21, 1988."
 
-Pub. L. 100–647, title VI, §6078(b), Nov. 10, 1988, 102 Stat. 3709, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 221(a) of the Tax Reform Act of 1984 \[Pub. L. 98–369, which enacted this section\].”
+Pub. L. 100–647, title VI, §6078(b), Nov. 10, 1988, 102 Stat. 3709, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 221(a) of the Tax Reform Act of 1984 \[Pub. L. 98–369, which enacted this section\]."
 
 #### Effective Date of 1986 Amendment
 
@@ -402,85 +402,85 @@ Amendment by section 1825(a)(1)–(3), (b), (c) of Pub. L. 99–514 effective, e
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title II, §221(d), July 18, 1984, 98 Stat. 772, as amended by Pub. L. 99–514, §2, title XVIII, §§1825(e), 1899A(69), Oct. 22, 1986, 100 Stat. 2095, 2848, 2962, provided that:
+Pub. L. 98–369, div. A, title II, §221(d), July 18, 1984, 98 Stat. 772, as amended by Pub. L. 99–514, §2, title XVIII,§§1825(e), 1899A(69), Oct. 22, 1986, 100 Stat. 2095, 2848, 2962, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending section 101 of this title and provisions set out as a note under section 101 of this title\] shall apply to contracts issued after December 31, 1984, in taxable years ending after such date.
 
-“(2)
+"(2)
 
 Special rule for certain contracts issued after june 30, 1984.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 General rule.—Except as otherwise provided in this paragraph, the amendments made by this section shall apply also to any contract issued after June 30, 1984, which provides an increasing death benefit and has premium funding more rapid than 10-year level premium payments.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Exception for certain contracts.—Subparagraph (A) shall not apply to any contract if—
 
-&emsp;&emsp;“(i) such contract (whether or not a flexible premium contract) would meet the requirements of section 101(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\],
+&emsp;&emsp;"(i) such contract (whether or not a flexible premium contract) would meet the requirements of section 101(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\],
 
-&emsp;&emsp;“(ii) such contract is not a flexible premium life insurance contract (within the meaning of section 101(f) of such Code) and would meet the requirements of section 7702 of such Code determined by—
+&emsp;&emsp;"(ii) such contract is not a flexible premium life insurance contract (within the meaning of section 101(f) of such Code) and would meet the requirements of section 7702 of such Code determined by—
 
-&emsp;&emsp;&emsp;“(I) substituting ‘3 percent’ for ‘4 percent’ in section 7702(b)(2) of such Code, and
+&emsp;&emsp;&emsp;"(I) substituting '3 percent' for '4 percent' in section 7702(b)(2) of such Code, and
 
-&emsp;&emsp;&emsp;“(II) treating subparagraph (B) of section 7702(e)(1) of such Code as if it read as follows: ‘the maturity date shall be the latest maturity date permitted under the contract, but not less than 20 years after the date of issue or (if earlier) age 95’, or
+&emsp;&emsp;&emsp;"(II) treating subparagraph (B) of section 7702(e)(1) of such Code as if it read as follows: 'the maturity date shall be the latest maturity date permitted under the contract, but not less than 20 years after the date of issue or (if earlier) age 95', or
 
-&emsp;&emsp;“(iii) under such contract—
+&emsp;&emsp;"(iii) under such contract—
 
-&emsp;&emsp;&emsp;“(I) the premiums (including any policy fees) will be adjusted from time-to-time to reflect the level amount necessary (but not less than zero) at the time of such adjustment to provide a level death benefit assuming interest crediting and an annual effective interest rate of not less than 3 percent, or
+&emsp;&emsp;&emsp;"(I) the premiums (including any policy fees) will be adjusted from time-to-time to reflect the level amount necessary (but not less than zero) at the time of such adjustment to provide a level death benefit assuming interest crediting and an annual effective interest rate of not less than 3 percent, or
 
-&emsp;&emsp;&emsp;“(II) at the option of the insured, in lieu of an adjustment under subclause (I) there will be a comparable adjustment in the amount of the death benefit.
+&emsp;&emsp;&emsp;"(II) at the option of the insured, in lieu of an adjustment under subclause (I) there will be a comparable adjustment in the amount of the death benefit.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Certain contracts issued before october 1, 1984.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
-In general.—Subparagraph (A) shall be applied by substituting ‘September 30, 1984’ for ‘June 30, 1984’ in the case of a contract—
+In general.—Subparagraph (A) shall be applied by substituting 'September 30, 1984' for 'June 30, 1984' in the case of a contract—
 
-&emsp;&emsp;&emsp;“(I) which would meet the requirements of section 7702 of such Code if ‘3 percent’ were substituted for ‘4 percent’ in section 7702(b)(2) of suchCode, and the rate or rates guaranteed on issuance of the contract were determined without regard to any mortality charges and any initial excess interest guarantees, and
+&emsp;&emsp;&emsp;"(I) which would meet the requirements of section 7702 of such Code if '3 percent' were substituted for '4 percent' in section 7702(b)(2) of such Code, and the rate or rates guaranteed on issuance of the contract were determined without regard to any mortality charges and any initial excess interest guarantees, and
 
-&emsp;&emsp;&emsp;“(II) the cash surrender value of which does not at any time exceed the net single premium which would have to be paid at such time to fund future benefits under the contract.
+&emsp;&emsp;&emsp;"(II) the cash surrender value of which does not at any time exceed the net single premium which would have to be paid at such time to fund future benefits under the contract.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
 Definitions.—For purposes of clause (i)—
 
-&emsp;&emsp;&emsp;“(I)
+&emsp;&emsp;&emsp;"(I)
 
 In general.—Except as provided in subclause (II), terms used in clause (i) shall have the same meanings as when used in section 7702 of such Code.
 
-&emsp;&emsp;&emsp;“(II)
+&emsp;&emsp;&emsp;"(II)
 
-Net single premium.—The term ‘net single premium’ shall be determined by substituting ‘3 percent’ for ‘4 percent’ in section 7702(b)(2) of such Code, by using the 1958 standard ordinary mortality and morbidity tables of the National Association of Insurance Commissioners, and by assuming a level death benefit.
+Net single premium.—The term 'net single premium' shall be determined by substituting '3 percent' for '4 percent' in section 7702(b)(2) of such Code, by using the 1958 standard ordinary mortality and morbidity tables of the National Association of Insurance Commissioners, and by assuming a level death benefit.
 
-“(3)
+"(3)
 
 Transitional rule for certain existing plans of insurance.—A plan of insurance on file in 1 or more States before September 28, 1983, shall be treated for purposes of section 7702(i)(3) of such Code as a plan of insurance on file in 1 or more States before September 28, 1983, without regard to whether such plan of insurance is modified after September 28, 1983, to permit the crediting of excess interest or similar amounts annually and not monthly under contracts issued pursuant to such plan of insurance.
 
-“(4)
+"(4)
 
 Extension of flexible premium contract provisions.—The amendments made by subsection (b) \[amending section 101 of this title and provisions set out as a note under section 101 of this title\] shall take effect on January 1, 1984.
 
-“(5)
+"(5)
 
-Special rule for master contract.—For purposes of this subsection, in the case of a master contract, the date taken into account with respect to any insured shall be the first date on which such insured is covered under such contract.”
+Special rule for master contract.—For purposes of this subsection, in the case of a master contract, the date taken into account with respect to any insured shall be the first date on which such insured is covered under such contract."
 
 #### Interim Rules; Regulations; Standards Before Regulations Take Effect
 
 Pub. L. 100–647, title V, §5011(c), Nov. 10, 1988, 102 Stat. 3661, provided that:
 
-“(1)
+"(1)
 
 Regulations.—Not later than January 1, 1990, the Secretary of the Treasury (or his delegate) shall issue regulations under section 7702(c)(3)(B)(i) of the 1986 Code (as amended by subsection (a)).
 
-“(2)
+"(2)
 
-Standards before regulations take effect.—In the case of any contract to which the amendments made by this section \[amending this section\] apply and which is issued before the effective date of the regulations required under paragraph (1), mortality charges which do not differ materially from the charges actually expected to be imposed by the company (taking into account any relevant characteristic of the insured of which the company is aware) shall be treated as meeting the requirements of clause (i) of section 7702(c)(3)(B) of the 1986 Code (as amended by subsection (a)).”
+Standards before regulations take effect.—In the case of any contract to which the amendments made by this section \[amending this section\] apply and which is issued before the effective date of the regulations required under paragraph (1), mortality charges which do not differ materially from the charges actually expected to be imposed by the company (taking into account any relevant characteristic of the insured of which the company is aware) shall be treated as meeting the requirements of clause (i) of section 7702(c)(3)(B) of the 1986 Code (as amended by subsection (a))."
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -488,5 +488,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treatment of Flexible Premium Contracts Issued During 1984 Which Meet New Requirements
 
-Pub. L. 98–369, div. A, title II, §221(b)(3), as added by Pub. L. 99–514, title XVIII, §1825(d), Oct. 22, 1986, 100 Stat. 2848, provided that: “Any flexible premium contract issued during 1984 which meets the requirements of section 7702 of the Internal Revenue Code of 1954 \[now 1986\] (as added by this section) shall be treated as meeting the requirements of section 101(f) of such Code.”
+Pub. L. 98–369, div. A, title II, §221(b)(3), as added by Pub. L. 99–514, title XVIII, §1825(d), Oct. 22, 1986, 100 Stat. 2848, provided that: "Any flexible premium contract issued during 1984 which meets the requirements of section 7702 of the Internal Revenue Code of 1954 \[now 1986\] (as added by this section) shall be treated as meeting the requirements of section 101(f) of such Code."
 

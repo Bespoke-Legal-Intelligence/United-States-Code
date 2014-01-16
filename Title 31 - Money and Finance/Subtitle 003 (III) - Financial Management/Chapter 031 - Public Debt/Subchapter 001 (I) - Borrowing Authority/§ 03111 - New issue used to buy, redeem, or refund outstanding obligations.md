@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Sept. 24, 1917, ch. 56, 40 Stat. 288, §19; added Jan. 30, 1934, ch. 6, §14(a)(4), 48 Stat. 343; restated Mar. 28, 1942, ch. 205, §4, 56 Stat. 189.
 
-The words “regulations of” are substituted for “rules, regulations, terms, and conditions . . . may prescribe” to eliminate unnecessary words.
+The words "regulations of" are substituted for "rules, regulations, terms, and conditions . . . may prescribe" to eliminate unnecessary words.
 

@@ -12,7 +12,7 @@
 
 #### (b) Amount of wager
 
-In determining the amount of any wager for the purposes of this subchapter, all charges incident to the placing of such wager shall be included; except that if the taxpayer establishes, in accordance with regulations prescribed by the Secretary, that an amount equal to the tax imposed by this subchapter has been collected as a separate charge from the person placing such wager, the amount so collected shall be excluded.
+In determining the amount of any wager for the purposes of this subchapter, all charges incident to the placing of such wager shall be included; except that if the taxpayer establishes, in accordance with regulations prescribed by the Secretary, that an amount equal to the tax imposed by this subchapter has been collected as a separate charge from the person placing suchwager, the amount so collected shall be excluded.
 
 #### (c) Persons liable for tax
 
@@ -24,21 +24,21 @@ Each person who is engaged in the business of accepting wagers shall be liable f
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–362 substituted provision that there shall be imposed on any wager authorized under the law of the State in which accepted an excise tax equal to 0.25 percent of the amount of such wager and that there shall be imposed on any other wager an excise tax equal to 2 percent of the amount of such wager for provision that there be imposed on wagers, as defined in section 4421, an excise tax equal to 2 percent of the amount thereof.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–499 substituted “2 percent” for “10 percent”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–499 substituted "2 percent" for "10 percent".
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–859 made all persons required to register under section 4412 of this title who receive wagers for or on behalf of another person without having registered under section 4412 of this title the name and place of residence of such other person liable for the tax on all such wagers received by them.
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–362, title I, §109(c)(1), Oct. 25, 1982, 96 Stat. 1731, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1983.”
+Pub. L. 97–362, title I, §109(c)(1), Oct. 25, 1982, 96 Stat. 1731, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1983."
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–499, §3(d)(1), Oct. 29, 1974, 88 Stat. 1551, provided that: “The amendments made by this section \[enacting section 4424 and amending this section and section 4411 of this title\] take effect on December 1, 1974, and shall apply only with respect to wagers placed on or after such date.”
+Pub. L. 93–499, §3(d)(1), Oct. 29, 1974, 88 Stat. 1551, provided that: "The amendments made by this section \[enacting section 4424 and amending this section and section 4411 of this title\] take effect on December 1, 1974, and shall apply only with respect to wagers placed on or after such date."
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–859, title I, §151(b), Sept. 2, 1958, 72 Stat. 1304, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to wagers received after the date of the enactment of this Act \[Sept. 2, 1958\].”
+Pub. L. 85–859, title I, §151(b), Sept. 2, 1958, 72 Stat. 1304, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to wagers received after the date of the enactment of this Act \[Sept. 2, 1958\]."
 

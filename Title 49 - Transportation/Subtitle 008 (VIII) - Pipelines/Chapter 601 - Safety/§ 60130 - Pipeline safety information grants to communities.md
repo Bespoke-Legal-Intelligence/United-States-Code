@@ -22,7 +22,7 @@ Dissemination of technical findings.—Each recipient of a grant under this sect
 
 &emsp;(4)
 
-Technical assistance defined.—In this subsection, the term “technical assistance” means engineering and other scientific analysis of pipeline safety issues, including the promotion of public participation in official proceedings conducted under this chapter.
+Technical assistance defined.—In this subsection, the term "technical assistance" means engineering and other scientific analysis of pipeline safety issues, including the promotion of public participation in official proceedings conducted under this chapter.
 
 (b)
 
@@ -58,15 +58,15 @@ Public Law 93–153, referred to in subsec. (a)(1), is Pub. L. 93–153, Nov. 16
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–90, §32(e)(1), substituted “$100,000” for “$50,000”.
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–90, §32(e)(1), substituted "$100,000" for "$50,000".
 
-Subsec. (b). Pub. L. 112–90, §32(e)(2), inserted “to grant recipients and their contractors” after “this section” and “, for direct advocacy for or against a pipeline construction or expansion project,” after “for lobbying”.
+Subsec. (b). Pub. L. 112–90, §32(e)(2), inserted "to grant recipients and their contractors" after "this section" and ", for direct advocacy for or against a pipeline construction or expansion project," after "for lobbying".
 
-Subsec. (d). Pub. L. 112–90, §32(e)(3), substituted “$1,500,000 for each of fiscal years 2012 through 2015” for “$1,000,000 for each of the fiscal years 2003 through 2010”.
+Subsec. (d). Pub. L. 112–90, §32(e)(3), substituted "$1,500,000 for each of fiscal years 2012 through 2015" for "$1,000,000 for each of the fiscal years 2003 through 2010".
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–468, §5(1), substituted “No grants may be awarded under section 60114(g) until the Secretary has established competitive” for “The Secretary shall establish competitive”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–468, §5(1), substituted "No grants may be awarded under section 60114(g) until the Secretary has established competitive" for "The Secretary shall establish competitive".
 
 Subsec. (a)(2) to (4). Pub. L. 109–468, §5(2), (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-Subsec. (d). Pub. L. 109–468, §5(4), substituted “2010” for “2006”.
+Subsec. (d). Pub. L. 109–468, §5(4), substituted "2010" for "2006".
 

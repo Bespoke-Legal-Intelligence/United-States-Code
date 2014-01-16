@@ -4,5 +4,5 @@ Notwithstanding subsection <sup>1</sup> 5901(a) of title 5, the uniform allowan
 
 (Aug. 8, 1956, ch. 1036, §14, as added Pub. L. 96–291, §2, June 28, 1980, 94 Stat. 608.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

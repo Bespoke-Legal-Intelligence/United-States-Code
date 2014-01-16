@@ -2,9 +2,9 @@
 
 In this subchapter:
 
-&emsp;(1) The term “Director” means the Director of the Institute of Education Sciences.
+&emsp;(1) The term "Director" means the Director of the Institute of Education Sciences.
 
-&emsp;(2) The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;(2) The term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (Pub. L. 107–279, title III, §304, formerly §302, Nov. 5, 2002, 116 Stat. 1982; renumbered §304, Pub. L. 107–279, title IV, §401(b), Nov. 5, 2002, 116 Stat. 1983.)
 

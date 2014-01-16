@@ -22,13 +22,13 @@ The Attorney General shall have the authority to specify the applicability of th
 
 #### (e) State penalty for failure to comply
 
-Each jurisdiction, other than a Federally recognized Indian tribe, shall provide a criminal penalty that includes a maximum term of imprisonment that is greater than 1 year for the failure of a sex offender to comply with the requirements of this subchapter.
+Each jurisdiction, other than a Federally recognized Indian tribe, shall provide a criminalpenalty that includes a maximum term of imprisonment that is greater than 1 year for the failure of a sex offender to comply with the requirements of this subchapter.
 
 (Pub. L. 109–248, title I, §113, July 27, 2006, 120 Stat. 593.)
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (d) and (e), was in the original “this title”, meaning title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title note set out under section 16901 of this title and Tables.
+This subchapter, referred to in subsecs. (d) and (e), was in the original "this title", meaning title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title note set out under section 16901 of this title and Tables.
 
-This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 109–248, July 27, 2006, 120 Stat. 587, known as the Adam Walsh Child Protection and Safety Act of 2006, which was approved July 27, 2006. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of this title and Tables.
+This chapter, referred to in subsec. (d), was in the original "this Act", meaning Pub. L. 109–248, July 27, 2006, 120 Stat. 587, known as the Adam Walsh Child Protection and Safety Act of 2006, which was approved July 27, 2006. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of this title and Tables.
 

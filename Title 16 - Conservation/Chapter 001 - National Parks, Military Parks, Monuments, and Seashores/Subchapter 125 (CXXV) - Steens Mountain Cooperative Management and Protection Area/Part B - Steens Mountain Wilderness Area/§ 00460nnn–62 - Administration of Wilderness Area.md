@@ -6,7 +6,7 @@ The Secretary shall administer the Wilderness Area in accordance with this part 
 
 #### (b) Wilderness boundaries along roads
 
-Where a wilderness boundary exists along a road, the wilderness boundary shall be set backfrom the centerline of the road, consistent with the Bureau of Land Management's guidelines as established in its Wilderness Management Policy.
+Where a wilderness boundary exists along a road, the wilderness boundary shall be set back from the centerline of the road, consistent with the Bureau of Land Management's guidelines as established in its Wilderness Management Policy.
 
 #### (c) Access to non-Federal lands
 
@@ -30,7 +30,7 @@ The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 19
 
 The effective date of the Wilderness Act, referred to in subsec. (a), means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title.
 
-This subchapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460nnn of this title and Tables.
+This subchapter, referred to in subsec. (d)(1), was in the original "this Act", meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, known as the Steens Mountain Cooperative Management and Protection Act of 2000, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460nnn of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “460nnn–22(e)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "460nnn–22(e)".</i>
 

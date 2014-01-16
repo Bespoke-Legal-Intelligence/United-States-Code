@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 24, 1954, ch. 911, §15, 68 Stat. 800.
 
-The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary.
+The word "satisfaction" is omitted as included in "discharge", and the word "obligations" is omitted as included in "liabilities". The word "outstanding" is omitted as unnecessary.
 

@@ -26,7 +26,7 @@ The prohibition under subsection (a) shall not apply to—
 
 &emsp;(4) an increase due solely to the fact that a minimum payment by the obligor has not been received by the creditor within 60 days after the due date for such payment, provided that the creditor shall—
 
-&emsp;&emsp;(A) include, together with the notice of such increase required under section 1637(i) of this title, a clear and conspicuous written statement of the reason for the increase andthat the increase will terminate not later than 6 months after the date on which it is imposed, if the creditor receives the required minimum payments on time from the obligor during that period; and
+&emsp;&emsp;(A) include, together with the notice of such increase required under section 1637(i) of this title, a clear and conspicuous written statement of the reason for the increase and that the increase will terminate not later than 6 months after the date on which it is imposed, if the creditor receives the required minimum payments on time from the obligor during that period; and
 
 &emsp;&emsp;(B) terminate such increase not later than 6 months after the date on which it is imposed, if the creditor receives the required minimum payments on time during that period.
 
@@ -46,7 +46,7 @@ The prohibition under subsection (a) shall not apply to—
 
 #### (d) Outstanding balance defined
 
-For purposes of this section, the term “outstanding balance” means the amount owed on a credit card account under an open end consumer credit plan as of the end of the 14th day after the date on which the creditor provides notice of an increase in the annual percentage rate, fee, or finance charge in accordance with section 1637(i) of this title.
+For purposes of this section, the term "outstanding balance" means the amount owed on a credit card account under an open end consumer credit plan as of the end of the 14th day after the date on which the creditor provides notice of an increase in the annual percentage rate, fee, or finance charge in accordance with section 1637(i) of this title.
 
 (Pub. L. 90–321, title I, §171, as added Pub. L. 111–24, title I, §101(b)(2), May 22, 2009, 123 Stat. 1736.)
 

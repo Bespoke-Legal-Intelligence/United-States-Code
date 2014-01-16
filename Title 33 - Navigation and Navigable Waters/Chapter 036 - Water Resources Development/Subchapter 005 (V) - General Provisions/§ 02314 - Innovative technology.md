@@ -36,15 +36,15 @@ The Secretary shall, whenever feasible, seek to promote long- and short-term cos
 
 Within 2 years after November 17, 1988, and thereafter at the Secretary's discretion, the Secretary shall provide Congress with a report on the results of, and recommendations to increase, the development and use of innovative technology in water resources development projects under the Secretary's jurisdiction. Such report shall also contain information regarding innovative technologies which the Secretary has considered and rejected for use in water resources development projects under the Secretary's jurisdiction.
 
-#### (d) “Innovative technology” defined
+#### (d) "Innovative technology" defined
 
-For the purpose of this section, the term “innovative technology” means designs, materials, or methods which the Secretary determines are previously undemonstrated or are too new to be considered standard practice.
+For the purpose of this section, the term "innovative technology" means designs, materials, or methods which the Secretary determines are previously undemonstrated or are too new to be considered standard practice.
 
 (Pub. L. 100–676, §8, Nov. 17, 1988, 102 Stat. 4023; Pub. L. 106–53, title V, §503(b), Aug. 17, 1999, 113 Stat. 337.)
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 1988, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1988, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 
@@ -54,59 +54,59 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 
 Pub. L. 106–541, title II, §221, Dec. 11, 2000, 114 Stat. 2596, provided that:
 
-“(a)
+"(a)
 
 Pilot Program.—The Secretary \[of the Army\] may conduct a pilot program consisting of not more than 5 authorized projects to test the design-build method of project delivery on various authorized civil works projects of the Corps of Engineers, including levees, pumping plants, revetments, dikes, dredging, weirs, dams, retaining walls, generation facilities, mattress laying, recreation facilities, and other water resources facilities.
 
-“(b)
+"(b)
 
-Design-Build Defined.—In this section, the term ‘design-build’ means an agreement between the Federal Government and a contractor that provides for both the design and construction of a project by a single contract.
+Design-Build Defined.—In this section, the term 'design-build' means an agreement between the Federal Government and a contractor that provides for both the design and construction of a project by a single contract.
 
-“(c)
+"(c)
 
-Report.—Not later than 4 years after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary shall transmit to Congress a report on the results of the pilot program.”
+Report.—Not later than 4 years after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary shall transmit to Congress a report on the results of the pilot program."
 
 #### Review of Innovative Dredging Technologies
 
 Pub. L. 106–53, title V, §503(a), Aug. 17, 1999, 113 Stat. 337, provided that:
 
-“(1)
+"(1)
 
 In general.—Not later than June 1, 2001, the Secretary shall complete a review of innovative dredging technologies designed to minimize or eliminate contamination of a water column upon removal of contaminated sediments.
 
-“(2)
+"(2)
 
 Testing.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Selection of technology.—After completion of the review under paragraph (1), the Secretary shall select, from among the technologies reviewed, the technology that the Secretary determines will best increase the effectiveness of removing contaminated sediments and significantly reduce contamination of the water column.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Agreement.—Not later than December 31, 2001, the Secretary shall enter into an agreement with a public or private entity to test the selected technology in the vicinity of Peoria Lakes, Illinois.
 
-“(3)
+"(3)
 
-Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $2,000,000.”
+Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $2,000,000."
 
 #### Beneficial Use of Waste Tire Rubber
 
 Pub. L. 106–53, title V, §561, Aug. 17, 1999, 113 Stat. 355, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary shall, when appropriate, encourage the beneficial use of waste tire rubber (including crumb rubber and baled tire products) recycled from tires.
 
-“(b)
+"(b)
 
 Included Beneficial Uses.—Beneficial uses under subsection (a) may include marine pilings, underwater framing, floating docks with built-in flotation, utility poles, and other uses associated with transportation and infrastructure projects receiving Federal funds.
 
-“(c)
+"(c)
 
-Use of Waste Tire Rubber.—The Secretary shall encourage the use, when appropriate, of waste tire rubber (including crumb rubber) in projects described in subsection (b).”
+Use of Waste Tire Rubber.—The Secretary shall encourage the use, when appropriate, of waste tire rubber (including crumb rubber) in projects described in subsection (b)."
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under section 2201 of this title.
 

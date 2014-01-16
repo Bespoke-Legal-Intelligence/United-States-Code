@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) is not refused for leasing to a holder of a voucher or certificate of eligibility under section 1437f of this title because of the status of the prospective tenant as a holder of such voucher or certificate of eligibility;
 
-&emsp;&emsp;(E) will remain affordable, according to binding commitments satisfactory to the Secretary, for the remaining useful life of the property, as determined by the Secretary, without regard to the term of the mortgage or to transfer of ownership, or for such other period that the Secretary determines is the longest feasible period of time consistent with sound economics and the purposes of this Act, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary; and
+&emsp;&emsp;(E) will remain affordable, according to binding commitments satisfactory to the Secretary, for the remaining useful life of the property, as determined by the Secretary, without regard to the term of themortgage or to transfer of ownership, or for such other period that the Secretary determines is the longest feasible period of time consistent with sound economics and the purposes of this Act, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary; and
 
 &emsp;&emsp;(F) if newly constructed, meets the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of this title.
 
@@ -76,7 +76,7 @@ Housing that is for homeownership shall qualify as affordable housing under this
 
 &emsp;(4) if newly constructed, meets the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of this title.
 
-(Pub. L. 101–625, title II, §215, Nov. 28, 1990, 104 Stat. 4101; Pub. L. 102–550, title II, §§208, 209, Oct. 28, 1992, 106 Stat. 3754; Pub. L. 103–233, title II, §203, Apr. 11, 1994, 108 Stat. 364; Pub. L. 105–276, title V, §599B(b), Oct. 21, 1998, 112 Stat. 2660; Pub.L. 106–569, title IX, §904, Dec. 27, 2000, 114 Stat. 3027.)
+(Pub. L. 101–625, title II, §215, Nov. 28, 1990, 104 Stat. 4101; Pub. L. 102–550, title II, §§208, 209, Oct. 28, 1992, 106 Stat. 3754; Pub. L. 103–233, title II, §203, Apr. 11, 1994, 108 Stat. 364; Pub. L. 105–276, title V, §599B(b), Oct. 21, 1998, 112 Stat. 2660; Pub. L. 106–569, title IX, §904, Dec. 27, 2000, 114 Stat. 3027.)
 
 #### References in Text
 
@@ -86,29 +86,29 @@ This Act, referred to in subsec. (a)(1)(E), (3), is Pub. L. 101–625, Nov. 28, 
 
 <b>2000</b>—Subsec. (a)(6). Pub. L. 106–569 added par. (6).
 
-<b>1998</b>—Subsec. (b)(2). Pub. L. 105–276 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is the principal residence of an owner whose family qualifies as a low-income family at the time of purchase;”.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–276 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "is the principal residence of an owner whose family qualifies as a low-income family at the time of purchase;".
 
-<b>1994</b>—Subsec. (b)(3). Pub. L. 103–233, §203(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “is made available for initial purchase only to first-time homebuyers;”.
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–233, §203(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "is made available for initial purchase only to first-time homebuyers;".
 
-Subsec. (b)(3)(B). Pub. L. 103–233, §203(b), substituted “subchapter” for “subsection” after “requirements of this”.
+Subsec. (b)(3)(B). Pub. L. 103–233, §203(b), substituted "subchapter" for "subsection" after "requirements of this".
 
 Subsec. (b)(4), (5). Pub. L. 103–233, §203(a)(2), redesignated pars. (4) and (5) as (3) and (4), respectively.
 
-<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–550, §208(a)(1), substituted “number of bedrooms in the unit” for “smaller and larger families”.
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–550, §208(a)(1), substituted "number of bedrooms in the unit" for "smaller and larger families".
 
-Subsec. (a)(1)(E). Pub. L. 102–550, §208(b), inserted before semicolon “, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary”.
+Subsec. (a)(1)(E). Pub. L. 102–550, §208(b), inserted before semicolon ", except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary".
 
-Subsec. (a)(3). Pub. L. 102–550, §208(a)(2), (3), substituted “the lesser of the amount payable by the tenant under State or local law or” for “not less than” in second sentence and inserted at end “The preceding sentence shall not apply with respect to funds made available under this Act for units that have been allocated a low-income housing tax credit by a housing credit agency pursuant to section 42 of title 26.”
+Subsec. (a)(3). Pub. L. 102–550, §208(a)(2), (3), substituted "the lesser of the amount payable by the tenant under State or local law or" for "not less than" in second sentence and inserted at end "The preceding sentence shall not apply with respect to funds made available under this Act for units that have been allocated a low-income housing tax credit by a housing credit agency pursuant to section 42 of title 26."
 
-Subsec. (b)(4). Pub. L. 102–550, §209, added par. (4) and struck out former par. (4) which read as follows: “is made available for subsequent purchase only—
+Subsec. (b)(4). Pub. L. 102–550, §209, added par. (4) and struck out former par. (4) which read as follows: "is made available for subsequent purchase only—
 
-&emsp;“(A) to persons who meet the qualifications specified under paragraph (2), and
+&emsp;"(A) to persons who meet the qualifications specified under paragraph (2), and
 
-&emsp;“(B) at a price consistent with guidelines that are established by the participating jurisdiction and determined by the Secretary to be appropriate—
+&emsp;"(B) at a price consistent with guidelines that are established by the participating jurisdiction and determined by the Secretary to be appropriate—
 
-&emsp;&emsp;“(i) to provide the owner with a fair return on investment, including any improvements, and
+&emsp;&emsp;"(i) to provide the owner with a fair return on investment, including any improvements, and
 
-&emsp;&emsp;“(ii) to ensure that the housing will remain affordable to a reasonable range of low income homebuyers; and”.
+&emsp;&emsp;"(ii) to ensure that the housing will remain affordable to a reasonable range of low income homebuyers; and".
 
 #### Effective Date of 1998 Amendment
 
@@ -124,5 +124,5 @@ Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under su
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “grandchildren”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "grandchildren".</i>
 

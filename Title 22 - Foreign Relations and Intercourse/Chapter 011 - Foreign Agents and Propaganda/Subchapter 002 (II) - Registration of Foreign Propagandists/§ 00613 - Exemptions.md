@@ -46,17 +46,17 @@ Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section re
 
 #### Amendments
 
-<b>1998</b>—Subsec. (h). Pub. L. 105–166 substituted “has engaged in lobbying activities and has registered” for “is required to register and does register”.
+<b>1998</b>—Subsec. (h). Pub. L. 105–166 substituted "has engaged in lobbying activities and has registered" for "is required to register and does register".
 
-<b>1995</b>—Subsec. (g). Pub. L. 104–65, §9(2), substituted “judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record” for “established agency proceedings, whether formal or informal”.
+<b>1995</b>—Subsec. (g). Pub. L. 104–65, §9(2), substituted "judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record" for "established agency proceedings, whether formal or informal".
 
 Subsec. (h). Pub. L. 104–65, §9(3), added subsec. (h).
 
-<b>1966</b>—Subsec. (d). Pub. L. 89–486, §3(a), designated existing provisions as cls. (1) and (3), struck out “financial or mercantile” before “activities” in cl. (1), and inserted the cl. (2) exemption of any person engaging or agreeing to engage in other activities not serving predominantly a foreign interest.
+<b>1966</b>—Subsec. (d). Pub. L. 89–486, §3(a), designated existing provisions as cls. (1) and (3), struck out "financial or mercantile" before "activities" in cl. (1), and inserted the cl. (2) exemption of any person engaging or agreeing to engage in other activities not serving predominantly a foreign interest.
 
 Subsec. (g). Pub. L. 89–486, §3(b), added subsec. (g).
 
-<b>1961</b>—Subsec. (d). Pub. L. 87–366 substituted “private and nonpolitical financial or mercantile activities in furtherance” for “private, non-political, financial, mercantile, or other activities in furtherance”.
+<b>1961</b>—Subsec. (d). Pub. L. 87–366 substituted "private and nonpolitical financial or mercantile activities in furtherance" for "private, non-political, financial, mercantile, or other activities in furtherance".
 
 <b>1942</b>—Act Apr. 29, 1942, amended section generally.
 

@@ -16,7 +16,7 @@ Section 3769b, Pub. L. 90–351, title I, §603, as added Pub. L. 98–473, titl
 
 A prior section 603 of Pub. L. 90–351 was renumbered section 503 and classified to section 3763 of this title. See note set out preceding section 3750 of this title.
 
-Section 3769c, Pub. L. 90–351, title I, §605, as added Pub. L. 98–473, title II, §609, Oct. 12, 1984, 98 Stat. 2089;amended Pub. L. 103–322, title XXXIII, §330001(h)(5), Sept. 13, 1994, 108 Stat. 2139, related to recapture of funds from recipient of assistance.
+Section 3769c, Pub. L. 90–351, title I, §605, as added Pub. L. 98–473, title II, §609, Oct. 12, 1984, 98 Stat. 2089; amended Pub. L. 103–322, title XXXIII, §330001(h)(5), Sept. 13, 1994, 108 Stat. 2139, related to recapture of funds from recipient of assistance.
 
 A prior section 605 of Pub. L. 90–351 was renumbered section 505 and classified to section 3765 of this title. See note set out preceding section 3750 of this title.
 

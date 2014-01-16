@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;From amounts made available for each fiscal year under subsection (a)(2) of this section that are equal to or less than the amount described in section 6311(b)(3)(D) of this title (hereinafter in this subsection referred to as the “trigger amount”), the Secretary shall—
+&emsp;From amounts made available for each fiscal year under subsection (a)(2) of this section that are equal to or less than the amount described in section 6311(b)(3)(D) of this title (hereinafter in this subsection referred to as the "trigger amount"), the Secretary shall—
 
 &emsp;&emsp;(A) reserve one-half of 1 percent for the Bureau of Indian Affairs;
 
@@ -32,13 +32,13 @@
 
 &emsp;&emsp;(A)(i) To award funds under section 7301a of this title to States according to the quality, needs, and scope of the State application under that section.
 
-&emsp;&emsp;(ii) In determining the grant amount under clause (i), the Secretary shall ensure that a State's grant shall include an amount that bears the same relationship to the totalfunds available under this paragraph for the fiscal year as the number of students ages 5 through 17 in the State (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
+&emsp;&emsp;(ii) In determining the grant amount under clause (i), the Secretary shall ensure that a State's grant shall include an amount that bears the same relationship to the total funds available under this paragraph for the fiscal year as the number of students ages 5 through 17 in the State (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
 
 &emsp;&emsp;(B) Any amounts remaining after the Secretary awards funds under subparagraph (A) shall be allocated to each State that did not receive a grant under such subparagraph, in an amount that bears the same relationship to the total funds available under this subparagraph as the number of students ages 5 through 17 in the State (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
 
 #### (c) State defined
 
-In this section, the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+In this section, the term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (Pub. L. 89–10, title VI, §6113, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1875.)
 
@@ -48,5 +48,5 @@ Prior sections 7302 and 7303 were omitted in the general amendment of this subch
 
 Section 7302, Pub. L. 89–10, title VI, §6002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3707, related to authorization of appropriations and duration of assistance. See section 7217e of this title.
 
-Section 7303, Pub. L. 89–10, title VI, §6003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3707, defined “effective schools programs”.
+Section 7303, Pub. L. 89–10, title VI, §6003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3707, defined "effective schools programs".
 

@@ -6,7 +6,7 @@ There is established within the Public Health Service an agency to be known as t
 
 #### (b) Mission
 
-The purpose of the Agency is to enhance the quality, appropriateness, and effectiveness of health services, and access to such services, through the establishment of a broad base of scientific research and through the promotion of improvements in clinical and health system practices, including the prevention of diseases and other health conditions. The Agency shall promote health care quality improvement by conducting and supporting—
+The purpose of the Agency is to enhance the quality, appropriateness, and effectiveness of health services, and access to such services, through the establishment of a broad base of scientific research and through the promotion of improvements in clinical and health system practices, including the prevention of diseasesand other health conditions. The Agency shall promote health care quality improvement by conducting and supporting—
 
 &emsp;(1) research that develops and presents scientific evidence regarding all aspects of health care, including—
 
@@ -52,7 +52,7 @@ The purpose of the Agency is to enhance the quality, appropriateness, and effect
 
 #### (2) Process to ensure appropriate research
 
-&emsp;The Director shall establish a process to ensure that the requirements of paragraph (1)are reflected in the overall portfolio of research conducted and supported by the Agency.
+&emsp;The Director shall establish a process to ensure that the requirements of paragraph (1) are reflected in the overall portfolio of research conducted and supported by the Agency.
 
 #### (3) Office of Priority Populations
 
@@ -72,13 +72,13 @@ A prior section 901 of act July 1, 1944, was classified to section 299a of this 
 
 Pub. L. 106–129, §2(b), Dec. 6, 1999, 113 Stat. 1670, provided that:
 
-“(1)
+"(1)
 
-In general.—Section 901(a) of the Public Health Service Act \[subsec. (a) of this section\] (as added by subsection (a) of this section) applies as a redesignation of the agency that carried out title IX of such Act \[this subchapter\] on the day before the date of the enactment of this Act \[Dec. 6, 1999\], and not as the termination of such agency and the establishment of a different agency. The amendment made by subsection (a) of this section \[enacting this subchapter\] does not affect appointments of the personnel of such agency who were employed at the agency on the day before such date, including the appointments of members of advisory councils or study sections of the agency who were serving on the day before such date of enactment.
+In general.—Section 901(a) of the Public Health Service Act \[42 U.S.C. 299(a)\] (as added by subsection (a) of this section) applies as a redesignation of the agency that carried out title IX of such Act \[42 U.S.C. 299 et seq.\] on the day before the date of the enactment of this Act \[Dec. 6, 1999\], and not as the termination of such agency and the establishment of a different agency. The amendment made by subsection (a) of this section \[enacting this subchapter\] does not affect appointments of the personnel of such agency who were employed at the agency on the day before such date, including the appointments of members of advisory councils or study sections of the agency who were serving on the day before such date of enactment.
 
-“(2)
+"(2)
 
-References.—Any reference in law to the Agency for Health Care Policy and Research is deemed to be a reference to the Agency for Healthcare Research and Quality, and any reference in law to the Administrator for Health Care Policy and Research is deemed to be a reference to the Director of the Agency for Healthcare Research and Quality.”
+References.—Any reference in law to the Agency for Health Care Policy and Research is deemed to be a reference to the Agency for Healthcare Research and Quality, and any reference in law to the Administrator for Health Care Policy and Research is deemed to be a reference to the Director of the Agency for Healthcare Research and Quality."
 
 #### Transitional and Savings Provisions
 
@@ -88,77 +88,77 @@ Pub. L. 101–239, title VI, §6103(f), Dec. 19, 1989, 103 Stat. 2208, provided 
 
 Pub. L. 110–275, title III, §304(b), July 15, 2008, 122 Stat. 2595, as amended by Pub. L. 111–148, title X, §10303(c), Mar. 23, 2010, 124 Stat. 938, provided that:
 
-“(1)
+"(1)
 
-Study.—Not later than 60 days after the date of the enactment of this Act \[July 15, 2008\], the Secretary of Health and Human Services shall enter into a contract with the Institute of Medicine of the National Academies (in this section \[this note\] referred to as the ‘Institute’) under which the Institute shall conduct a study on the best methods used in developing clinical practice guidelines in order to ensure that organizations developing such guidelines have information on approaches that are objective, scientifically valid, and consistent.
+Study.—Not later than 60 days after the date of the enactment of this Act \[July 15, 2008\], the Secretary of Health and Human Services shall enter into a contract with the Institute of Medicine of the National Academies (in this section \[this note\] referred to as the 'Institute') under which the Institute shall conduct a study on the best methods used in developing clinical practice guidelines in order to ensure that organizations developing such guidelines have information on approaches that are objective, scientifically valid, and consistent.
 
-“(2)
+"(2)
 
-Report.—Not later than 18 months after the effective date of the contract under paragraph (1), the Institute, as part of such contract, shall submit to the Secretary of Health and Human Services and the appropriate committees of jurisdiction of Congress a report containing the results of the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Institute determines appropriate.
+Report.—Not later than 18 months after the effective date of the contract under paragraph (1), the Institute, as part of such contract, shall submit to theSecretary of Health and Human Services and the appropriate committees of jurisdiction of Congress a report containing the results of the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Institute determines appropriate.
 
-“(3)
+"(3)
 
 Participation.—The contract under paragraph (1) shall require that stakeholders with expertise in making clinical recommendations participate on the panel responsible for conducting the study under paragraph (1) and preparing the report under paragraph (2).
 
-“(4)
+"(4)
 
 Identification.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Following receipt of the report submitted under paragraph (2), and not less than every 3 years thereafter, the Secretary shall contract with the Institute to employ the results of the study performed under paragraph (1) and the best methods identified by the Institute for the purpose of identifying existing and new clinical practice guidelines that were developed using such best methods, including guidelines listed in the National Guideline Clearinghouse.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Consultation.—In carrying out the identification process under subparagraph (A), the Secretary shall allow for consultation with professional societies, voluntary health care organizations, and expert panels.”
+Consultation.—In carrying out the identification process under subparagraph (A), the Secretary shall allow for consultation with professional societies, voluntary health care organizations, and expert panels."
 
 #### IOM Study on Drug Safety and Quality
 
 Pub. L. 108–173, title I, §107(c), Dec. 8, 2003, 117 Stat. 2170, provided that:
 
-“(1)
+"(1)
 
-In general.—The Secretary \[of Health and Human Services\] shall enter into a contract with the Institutes of Medicine of the National Academies of Science (such Institutes referred to in this subsection as the ‘IOM’) to carry out a comprehensive study (in this subsection referred to as the ‘study’) of drug safety and quality issues in order to provide a blueprint for system-wide change.
+In general.—The Secretary \[of Health and Human Services\] shall enter into a contract with the Institutes of Medicine of the National Academies of Science (such Institutes referred to in this subsection as the 'IOM') to carry out a comprehensive study (in this subsection referred to as the 'study') of drug safety and quality issues in order to provide a blueprint for system-wide change.
 
-“(2)
+"(2)
 
 Objectives.—
 
-&emsp;“(A) The study shall develop a full understanding of drug safety and quality issues through an evidence-based review of literature, case studies, and analysis. This review will consider the nature and causes of medication errors, their impact on patients, the differences in causation, impact, and prevention across multiple dimensions of health care delivery-including patient populations, care settings, clinicians, and institutional cultures.
+&emsp;"(A) The study shall develop a full understanding of drug safety and quality issues through an evidence-based review of literature, case studies, and analysis. This review will consider the nature and causes of medication errors, their impact on patients, the differences in causation, impact, and prevention across multiple dimensions of health care delivery-including patient populations, care settings, clinicians, and institutional cultures.
 
-&emsp;“(B) The study shall attempt to develop credible estimates of the incidence, severity, costs of medication errors that can be useful in prioritizing resources for national quality improvement efforts and influencing national health care policy.
+&emsp;"(B) The study shall attempt to develop credible estimates of the incidence, severity, costs of medication errors that can be useful in prioritizing resources for national quality improvement efforts and influencing national health care policy.
 
-&emsp;“(C) The study shall evaluate alternative approaches to reducing medication errors in terms of their efficacy, cost-effectiveness, appropriateness in different settings and circumstances, feasibility, institutional barriers to implementation, associated risks, and the quality of evidence supporting the approach.
+&emsp;"(C) The study shall evaluate alternative approaches to reducing medication errors in terms of their efficacy, cost-effectiveness, appropriateness in different settings and circumstances, feasibility, institutional barriers to implementation, associated risks, and the quality of evidence supporting the approach.
 
-&emsp;“(D) The study shall provide guidance to consumers, providers, payers, and other key stakeholders on high-priority strategies to achieve both short-term and long-term drug safety goals, to elucidate the goals and expected results of such initiatives and support the business case for them, and to identify critical success factors and key levers for achieving success.
+&emsp;"(D) The study shall provide guidance to consumers, providers, payers, and other key stakeholders on high-priority strategies to achieve both short-term and long-term drug safety goals, to elucidate the goals and expected results of such initiatives and support the business case for them, and to identify critical success factors and key levers for achieving success.
 
-&emsp;“(E) The study shall assess the opportunities and key impediments to broad nationwide implementation of medication error reductions, and to provide guidance to policy-makers and government agencies (including the Food and Drug Administration, the Centers for Medicare \& Medicaid Services, and the National Institutes of Health) in promoting a national agenda for medication error reduction.
+&emsp;"(E) The study shall assess the opportunities and key impediments to broad nationwide implementation of medication error reductions, and to provide guidance to policy-makers and government agencies (including the Food and Drug Administration, the Centers for Medicare \& Medicaid Services, and the National Institutes of Health) in promoting a national agenda for medication error reduction.
 
-&emsp;“(F) The study shall develop an applied research agenda to evaluate the health and cost impacts of alternative interventions, and to assess collaborative public and private strategies for implementing the research agenda through AHRQ and other government agencies.
+&emsp;"(F) The study shall develop an applied research agenda to evaluate the health and cost impacts of alternative interventions, and to assess collaborative public and private strategies for implementing the research agenda through AHRQ and other government agencies.
 
-“(3)
+"(3)
 
 Conduct of study.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Expert committee.—In conducting the study, the IOM shall convene a committee of leading experts and key stakeholders in pharmaceutical management and drug safety, including clinicians, health services researchers, pharmacists, system administrators, payer representatives, and others.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Completion.—The study shall be completed within an 18-month period.
 
-“(4)
+"(4)
 
 Report.—A report on the study shall be submitted to Congress upon the completion of the study.
 
-“(5)
+"(5)
 
-Authorization of appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary.”
+Authorization of appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary."
 
 #### Health Care That Works for All Americans: Citizens Health Care Working Group
 
-Pub. L. 108–173, title X, §1014, Dec. 8, 2003, 117 Stat. 2441, directed the Secretary of Health and Human Services to establish the Citizens’ Health Care Working Group, composed of the Secretary and 14 other members, which was to hold hearings to examine various public and private health care coverage issues, make final recommendations to the President and Congress, and terminate 2 years after the members were chosen (Feb. 28, 2005) and appropriations were first made available.
+Pub. L. 108–173, title X, §1014, Dec. 8, 2003, 117 Stat. 2441, directed the Secretary of Health and Human Services to establish the Citizens' Health Care Working Group, composed of the Secretary and 14 other members, which was to hold hearings to examine various public and private health care coverage issues, make final recommendations to the President and Congress, and terminate 2 years after the members were chosen (Feb. 28, 2005) and appropriations were first made available.
 
 #### Executive Order No. 13017
 

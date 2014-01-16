@@ -278,7 +278,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;&emsp;(II) nuclear explosive devices;
 
-&emsp;&emsp;(I) an estimate of the amount of electricity India's nuclear reactors produced for civil purposes during the previous year and the proportion of such production that can be attributed to India's declared civil reactors;
+&emsp;&emsp;(I) an estimate of the amount of electricity India's nuclear reactors produced for civil purposes during the previous year and the proportion of such production that canbe attributed to India's declared civil reactors;
 
 &emsp;&emsp;(J) an analysis as to whether imported uranium has affected the rate of production in India of nuclear explosive devices;
 
@@ -294,7 +294,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;(L) the disposal during the previous year of spent nuclear fuel from India's civilian nuclear program, and any plans or activities relating to future disposal of such spent nuclear fuel; and
 
-&emsp;&emsp;(M) with respect to the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy (hereinafter in this subparagraph referred to as the “Agreement”) approved under section 101(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act—
+&emsp;&emsp;(M) with respect to the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy (hereinafter in this subparagraph referred to as the "Agreement") approved under section 101(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act—
 
 &emsp;&emsp;&emsp;(i) a listing of—
 
@@ -348,7 +348,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1), (2), (3)(A), was in the original “this title”, meaning title I of Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 8001 of this title and Tables.
+This chapter, referred to in subsec. (d)(1), (2), (3)(A), was in the original "this title", meaning title I of Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 8001 of this title and Tables.
 
 Section 101(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act, referred to in subsec. (g)(2)(M), is section 101(a) of Pub. L. 110–369, which is set out in a note under section 8001 of this title.
 
@@ -358,7 +358,7 @@ Section is comprised of section 104 of Pub. L. 109–401. Subsec. (e) of section
 
 #### Amendments
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–369, §101(c), substituted “October 8, 2008” for “the enactment of a joint resolution under section 2153(d) of title 42 approving such an agreement”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–369, §101(c), substituted "October 8, 2008" for "the enactment of a joint resolution under section 2153(d) of title 42 approving such an agreement".
 
 Subsec. (g)(1)(B) to (E). Pub. L. 110–369, §105(a), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
@@ -412,5 +412,5 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Regulations,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Regulations,".</i>
 

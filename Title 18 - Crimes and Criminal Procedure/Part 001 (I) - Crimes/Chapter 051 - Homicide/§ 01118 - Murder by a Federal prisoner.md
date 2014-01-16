@@ -8,11 +8,11 @@ Offense.—A person who, while confined in a Federal correctional institution un
 
 Definitions.—In this section—
 
-&emsp;“Federal correctional institution” means any Federal prison, Federal correctional facility, Federal community program center, or Federal halfway house.
+&emsp;"Federal correctional institution" means any Federal prison, Federal correctional facility, Federal community program center, or Federal halfway house.
 
-&emsp;“murder” means a first degree or second degree murder (as defined in section 1111).
+&emsp;"murder" means a first degree or second degree murder (as defined in section 1111).
 
-&emsp;“term of life imprisonment” means a sentence for the term of natural life, a sentence commuted to natural life, an indeterminate term of a minimum of at least fifteen years and a maximum of life, or an unexecuted sentence of death.
+&emsp;"term of life imprisonment" means a sentence for the term of natural life, a sentence commuted to natural life, an indeterminate term of a minimum of at least fifteen years and a maximum of life, or an unexecuted sentence of death.
 
 (Added Pub. L. 103–322, title VI, §60005(a), Sept. 13, 1994, 108 Stat. 1970.)
 

@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Oct. 15, 1966, Pub. L. 89–670, §4(d), 80 Stat. 934.
 
-The words “force and” are omitted as surplus.
+The words "force and" are omitted as surplus.
 
 #### References in Text
 
@@ -28,5 +28,5 @@ The Department of Transportation Act, referred to in text, is Pub. L. 89–670, 
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–59 substituted “Federal Motor Carrier Safety Administration” for “Federal Highway Administration”.
+<b>2005</b>—Pub. L. 109–59 substituted "Federal Motor Carrier Safety Administration" for "Federal Highway Administration".
 

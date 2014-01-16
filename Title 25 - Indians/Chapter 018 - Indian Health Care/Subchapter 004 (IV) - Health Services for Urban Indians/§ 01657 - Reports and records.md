@@ -48,9 +48,9 @@ A prior section 1657, Pub. L. 94–437, title V, §507, Sept. 30, 1976, 90 Stat.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–573, §501(b)(5)(A), inserted “, or a grant received,” after “entered into” in introductory provisions and “or grant” after “contract” in pars. (1) and (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–573, §501(b)(5)(A), inserted ", or a grant received," after "entered into" inintroductory provisions and "or grant" after "contract" in pars. (1) and (2).
 
-Subsecs. (b), (c). Pub. L. 102–573, §501(b)(5)(B), inserted “or grant” after “contract”.
+Subsecs. (b), (c). Pub. L. 102–573, §501(b)(5)(B), inserted "or grant" after "contract".
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–630 added subsec. (d).
 

@@ -8,9 +8,9 @@ The Secretary is authorized to make grants, from allotments made under subsectio
 
 The sums appropriated to carry out the provisions of this section shall be allotted to the States by the Secretary on the basis of the population and the financial need of the respective States.
 
-#### (c) “State” defined
+#### (c) "State" defined
 
-For the purposes of this section, the term “State” includes the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands, the District of Columbia, and the Trust Territory of the Pacific Islands.
+For the purposes of this section, the term "State" includes the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands, the District of Columbia, and the Trust Territory of the Pacific Islands.
 
 #### (d) Authorization of appropriations
 
@@ -20,7 +20,7 @@ For the purpose of making grants under this section, there are authorized to be 
 
 #### Amendments
 
-<b>1976</b>—Subsec. (c). Pub. L. 94–484 defined “State” to include Northern Mariana Islands.
+<b>1976</b>—Subsec. (c). Pub. L. 94–484 defined "State" to include Northern Mariana Islands.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -28,5 +28,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Study of State Delivery of Services; Report to Congress
 
-Pub. L. 97–35, title IX, §931(c), Aug. 13, 1981, 95 Stat. 570, directed Secretary of Health and Human Services to conduct a study of possible ways of State delivery of services for which assistance is authorized by title X of the Public Health Service Act \[this subchapter\] and toreport to Congress on results of such study 18 months after Aug. 13, 1981.
+Pub. L. 97–35, title IX, §931(c), Aug. 13, 1981, 95 Stat. 570, directed Secretary of Health and Human Services to conduct a study of possible ways of State delivery of services for which assistance is authorized by title X of the Public Health Service Act \[42 U.S.C. 300 et seq.\] and to report to Congress on results of such study 18 months after Aug. 13, 1981.
 

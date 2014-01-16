@@ -52,11 +52,11 @@ June 13, 1949, ch. 199, §3, 63 Stat. 175.
 
 10:299 (2d sentence).
 
-In subsection (b), the words “Under such regulations as the Secretary of the Army may prescribe” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
+In subsection (b), the words "Under such regulations as the Secretary of the Army may prescribe" are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
-In subsection (c), the words “who is otherwise qualified” and “with his consent” are substituted for 10: 291f–2 (less 1st 55 words of 1st proviso).
+In subsection (c), the words "who is otherwise qualified" and "with his consent" are substituted for 10: 291f–2 (less 1st 55 words of 1st proviso).
 
-In subsection (d), the first sentence is substituted for 10:291f–2 (proviso). The words “after June 13, 1940” (the date of enactment of the source statute) are substituted for the word “hereafter”, in 10:291f–2. The words “after June 13, 1949”, in 10:291f–2, are omitted as executed. The first 17 words of the last sentence are substituted for 10:299 (1st 20 words of 2d sentence). Clause (2) is substituted for 10:299 (proviso of 2d sentence).
+In subsection (d), the first sentence is substituted for 10:291f–2 (proviso). The words "after June 13, 1940" (the date of enactment of the source statute) are substituted for the word "hereafter", in 10:291f–2. The words "after June 13, 1949", in 10:291f–2, are omitted as executed. The first 17 words of the last sentence are substituted for 10:299 (1st 20 words of 2d sentence). Clause (2) is substituted for 10:299 (proviso of 2d sentence).
 
 #### 1958 Act
 
@@ -64,9 +64,9 @@ The new subsection (e) is necessary to reflect the last 11 words of the second s
 
 #### Amendments
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted “Any citizen” for “Any male citizen”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted "Any citizen" for "Any male citizen".
 
-Subsec. (c). Pub. L. 96–513 substituted “Any enlisted member” for “Any male enlisted member”.
+Subsec. (c). Pub. L. 96–513 substituted "Any enlisted member" for "Any male enlisted member".
 
 <b>1958</b>—Subsec. (e). Pub. L. 85–861 added subsec. (e).
 

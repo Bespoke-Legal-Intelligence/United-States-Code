@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) The Secretary of Commerce shall establish, within the National Oceanic and Atmospheric Administration, an office to be known as the Chesapeake Bay Office (in this section referred to as the “Office”).
+(1) The Secretary of Commerce shall establish, within the National Oceanic and Atmospheric Administration, an office to be known as the Chesapeake Bay Office (in this section referred to as the "Office").
 
 (2) The Office shall be headed by a Director who shall be appointed by the Secretary of Commerce, in consultation with the Chesapeake Executive Council. Any individual appointed as Director shall have knowledge and experience in research or resource management efforts in the Chesapeake Bay.
 
@@ -20,7 +20,7 @@ The Office, in consultation with the Chesapeake Executive Council, shall—
 
 &emsp;&emsp;(C) monitoring the implementation and effectiveness of management plans;
 
-&emsp;(2) develop and implement a strategy for the National Oceanic and Atmospheric Administration that integrates the science, research,monitoring, data collection, regulatory, and management responsibilities of the Secretary of Commerce in such a manner as to assist the cooperative, intergovernmental Chesapeake Bay Program to meet the commitments of the Chesapeake Bay Agreement;
+&emsp;(2) develop and implement a strategy for the National Oceanic and Atmospheric Administration that integrates the science, research, monitoring, data collection, regulatory, and management responsibilities of the Secretary of Commerce in such a manner as to assist the cooperative, intergovernmental Chesapeake Bay Program to meet the commitments of the Chesapeake Bay Agreement;
 
 &emsp;(3) coordinate the programs and activities of the various organizations within the National Oceanic and Atmospheric Administration, the Chesapeake Bay Regional Sea Grant Programs, and the Chesapeake Bay units of the National Estuarine Research Reserve System, including—
 
@@ -70,7 +70,7 @@ The Office, in consultation with the Chesapeake Executive Council, shall—
 
 #### (1) In general
 
-&emsp;The Director of the Chesapeake Bay Office of the National Oceanic and Atmospheric Administration (in this section referred to as the “Director”), in cooperation with the Chesapeake Executive Council, shall carry out a community-based fishery and habitat restoration small grants and technical assistance program in the Chesapeake Bay watershed.
+&emsp;The Director of the Chesapeake Bay Office of the National Oceanic and Atmospheric Administration (in this section referred to as the "Director"), in cooperation with the Chesapeake Executive Council, shall carry out a community-based fishery and habitat restoration small grants and technical assistance program in the Chesapeake Bay watershed.
 
 #### (2) Projects
 
@@ -114,37 +114,37 @@ The Office, in consultation with the Chesapeake Executive Council, shall—
 
 #### (d) Chesapeake Executive Council
 
-For purposes of this section, “Chesapeake Executive Council” means the representatives from the Commonwealth of Virginia, the State of Maryland, the Commonwealth of Pennsylvania, the Environmental Protection Agency, the District of Columbia, and the Chesapeake Bay Commission, who are signatories to the Chesapeake Bay Agreement, and any future signatories to that Agreement.
+For purposes of this section, "Chesapeake Executive Council" means the representatives from the Commonwealth of Virginia, the State of Maryland, the Commonwealth of Pennsylvania, the Environmental Protection Agency, the District of Columbia, and the Chesapeake Bay Commission, who are signatories to the Chesapeake Bay Agreement, and any future signatories to that Agreement.
 
 #### (e) Authorization of appropriations
 
-There is authorized to be appropriated to the Department of Commerce for the ChesapeakeBay Office $6,000,000 for each of fiscal years 2002 through 2006.
+There is authorized to be appropriated to the Department of Commerce for the Chesapeake Bay Office $6,000,000 for each of fiscal years 2002 through 2006.
 
 (Pub. L. 102–567, title III, §307, Oct. 29, 1992, 106 Stat. 4284; Pub. L. 107–372, title IV, §401(a), Dec. 19, 2002, 116 Stat. 3096.)
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–372 substituted “Chesapeake Bay Office” for “Chesapeake Bay Estuarine Resources Office” in section catchline and amended text generally, substituting provisions establishing Office, describing functions, establishing habitat restoration small watershed grants program, and authorizing appropriations, for provisions establishing Office, describing functions, and requiring identification of funding request in President's annual budget.
+<b>2002</b>—Pub. L. 107–372 substituted "Chesapeake Bay Office" for "Chesapeake Bay Estuarine Resources Office" in section catchline and amended text generally, substituting provisions establishing Office, describing functions, establishing habitat restoration small watershed grants program, and authorizing appropriations, for provisions establishing Office, describing functions, and requiring identification of funding request in President's annual budget.
 
 #### Multiple Species Management Strategy
 
 Pub. L. 107–372, title IV, §401(c), Dec. 19, 2002, 116 Stat. 3099, provided that:
 
-“(1)
+"(1)
 
 In general.—Not later than 180 days after the date of enactment of this Act \[Dec. 19, 2002\], the Director of the Chesapeake Bay Office of the National Oceanic and Atmospheric Administration shall begin a 5-year study, in cooperation with the scientific community of the Chesapeake Bay, appropriate State and interstate resource management entities, and appropriate Federal agencies—
 
-&emsp;“(A) to determine and expand the understanding of the role and response of living resources in the Chesapeake Bay ecosystem; and
+&emsp;"(A) to determine and expand the understanding of the role and response of living resources in the Chesapeake Bay ecosystem; and
 
-&emsp;“(B) to develop a multiple species management strategy for the Chesapeake Bay.
+&emsp;"(B) to develop a multiple species management strategy for the Chesapeake Bay.
 
-“(2)
+"(2)
 
 Required elements of study.—In order to improve the understanding necessary for the development of the strategy under paragraph (1)(B), the study shall—
 
-&emsp;“(A) determine the current status and trends of fish and shellfish that live in the Chesapeake Bay and its tributaries and are selected for study;
+&emsp;"(A) determine the current status and trends of fish and shellfish that live in the Chesapeake Bay and its tributaries and are selected for study;
 
-&emsp;“(B) evaluate and assess interactions among the fish and shellfish referred to in subparagraph (A) and other living resources, with particular attention to the impact of changes within and among trophic levels; and
+&emsp;"(B) evaluate and assess interactions among the fish and shellfish referred to in subparagraph (A) andother living resources, with particular attention to the impact of changes within and among trophic levels; and
 
-&emsp;“(C) recommend management actions to optimize the return of a healthy and balanced ecosystem for the Chesapeake Bay.”
+&emsp;"(C) recommend management actions to optimize the return of a healthy and balanced ecosystem for the Chesapeake Bay."
 

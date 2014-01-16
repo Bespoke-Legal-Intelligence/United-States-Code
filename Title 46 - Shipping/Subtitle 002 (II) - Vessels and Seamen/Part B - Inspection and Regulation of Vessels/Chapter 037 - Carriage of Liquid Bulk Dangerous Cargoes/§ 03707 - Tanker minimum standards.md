@@ -46,7 +46,7 @@ Section 3707(b) requires existing tankers of 10,000 gross tons or above, to have
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–324, §716(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “10,000 gross tons” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–324, §716(1), inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "10,000 gross tons" in introductory provisions.
 
-Subsec. (b). Pub. L. 104–324, §716(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “10,000 gross tons”.
+Subsec. (b). Pub. L. 104–324, §716(2), inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "10,000 gross tons".
 

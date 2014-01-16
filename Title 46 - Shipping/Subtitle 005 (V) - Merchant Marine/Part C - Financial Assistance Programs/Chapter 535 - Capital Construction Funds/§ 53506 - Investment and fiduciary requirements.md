@@ -12,7 +12,7 @@ Stock Investments.—
 
 In general.—With the approval of the Secretary, an agreed percentage (but not more than 60 percent) of the assets of the fund may be invested in the stock of domestic corporations that—
 
-&emsp;&emsp;(A) is fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange; and
+&emsp;&emsp;(A) is fully listed and registered on an exchange registered with the Securities andExchange Commission as a national securities exchange; and
 
 &emsp;&emsp;(B) would be acquired by a prudent investor seeking a reasonable income and the preservation of capital.
 
@@ -42,5 +42,5 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title VI, §607(c), 49 Stat. 2005; June 23, 1938, ch. 600, §§23–28, 52 Stat. 960; Aug. 4, 1939, ch. 417, §10, 53 Stat. 1185; July 17, 1952, ch. 939, §§17–19, 66 Stat. 764; Pub. L. 85–637, Aug. 14, 1958, 72 Stat. 216; Pub. L. 86–518, §1, June 12, 1960, 74 Stat. 216; Pub. L. 87–45, §6, May 27, 1961, 75 Stat. 91; Pub. L. 87–271, Sept. 21, 1961, 75 Stat. 570; restated Pub. L. 91–469, §21(a), Oct. 21, 1970, 84 Stat. 1027; Pub. L. 97–31, §12(97)(A), Aug. 6, 1981, 95 Stat. 162.
 
-In subsection (b)(1)(B), the words “prudent investor” are substituted for “prudent men of discretion and intelligence in such matters” to eliminate unnecessary words.
+In subsection (b)(1)(B), the words "prudent investor" are substituted for "prudent men of discretion and intelligence in such matters" to eliminate unnecessary words.
 

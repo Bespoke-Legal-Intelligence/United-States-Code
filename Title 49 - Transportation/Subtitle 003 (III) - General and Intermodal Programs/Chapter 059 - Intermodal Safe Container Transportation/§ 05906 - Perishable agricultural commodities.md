@@ -24,5 +24,5 @@ The Perishable Agricultural Commodities Act, 1930, referred to in text, is act J
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–291 substituted “Section 5905 of this title does” for “Sections 5904(a)(2) and 5905 of this title do”.
+<b>1996</b>—Pub. L. 104–291 substituted "Section 5905 of this title does" for "Sections 5904(a)(2) and 5905 of this title do".
 

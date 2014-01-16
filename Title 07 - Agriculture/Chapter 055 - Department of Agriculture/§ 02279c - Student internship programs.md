@@ -2,17 +2,17 @@
 
 #### (a) Student intern subsistence program
 
-#### (1) “Student intern” defined
+#### (1) "Student intern" defined
 
-&emsp;In this subsection, the term “student intern” means a person who—
+&emsp;In this subsection, the term "student intern" means a person who—
 
-&emsp;&emsp;(A) is employed by the Department of Agriculture (referred to in this section as the “Department”) to assist scientific, professional, administrative, or technical employees of the Department; and
+&emsp;&emsp;(A) is employed by the Department of Agriculture (referred to in this section as the "Department") to assist scientific, professional, administrative, or technical employees of the Department; and
 
 &emsp;&emsp;(B) is a student in good standing at an institution of higher education (as defined in section 1001 of title 20) pursuing a course of study related to the field in which the person is employed by the Department.
 
 #### (2) Payment of certain expenses by the Secretary
 
-&emsp;The Secretary of Agriculture (referred to in this section as the “Secretary”) may, out of user fee funds or funds appropriated to any agency of the Department, pay for lodging expenses, subsistence expenses, and transportation expenses of a student intern at the agency (including expenses of transportation to and from the student intern's residence at or near the institution of higher education attended by the student intern and the official duty station at which the student intern is employed).
+&emsp;The Secretary of Agriculture (referred to in this section as the "Secretary") may, out of user fee funds or funds appropriated to any agency of the Department, pay for lodging expenses, subsistence expenses, and transportation expenses of a student intern at the agency (including expenses of transportation to and from the student intern's residence at or near the institution of higher education attended by the student intern and the official duty station at which the student intern is employed).
 
 #### (b) Cooperation with associations of colleges and universities
 
@@ -22,7 +22,7 @@
 
 #### (2) Internship program
 
-&emsp;An internship program supported under this subsection (referred to in this subsection as an “internship program”) shall provide work assignments for students within the Department and such other activities as the association that enters into the cooperative agreement under paragraph (1) with respect to the internship program (referred to in this subsection as the “cooperating association”) and the Secretary shall determine. The nature of Department participation in an internship program shall be developed jointly by the Secretary and the cooperating association.
+&emsp;An internship program supported under this subsection (referred to in this subsection as an "internship program") shall provide work assignments for students within the Department and such other activities as the association that enters into the cooperative agreement under paragraph (1) with respect to the internship program (referred to in this subsection as the "cooperating association") and the Secretary shall determine. The nature of Department participation in an internship program shall be developed jointly by the Secretary and the cooperating association.
 
 #### (3) Program coordination
 
@@ -70,7 +70,7 @@
 
 #### Amendments
 
-<b>1998</b>—Subsecs. (a)(1)(B), (b)(1). Pub. L. 105–244 substituted “section 1001 of title 20)” for “section 1141 of title 20)”.
+<b>1998</b>—Subsecs. (a)(1)(B), (b)(1). Pub. L. 105–244 substituted "section 1001 of title 20)" for "section 1141 of title 20)".
 
 #### Effective Date of 1998 Amendment
 

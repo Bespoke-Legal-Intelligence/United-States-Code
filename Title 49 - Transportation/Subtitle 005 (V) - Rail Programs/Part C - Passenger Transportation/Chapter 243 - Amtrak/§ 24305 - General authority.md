@@ -62,7 +62,7 @@ Rail Police.—Amtrak may employ rail police to provide security for rail passen
 
 (f)
 
-Domestic Buying Preferences.—(1) In this subsection, “United States” means the States, territories, and possessions of the United States and the District of Columbia.
+Domestic Buying Preferences.—(1) In this subsection, "United States" means the States, territories, and possessions of the United States and the District of Columbia.
 
 (2) Amtrak shall buy only—
 
@@ -180,29 +180,29 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §305(j); added Oct. 19, 1976, P
 
 Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §305(k); added Oct. 5, 1978, Pub. L. 95–421, §10, 92 Stat. 928; Sept. 29, 1979, Pub. L. 96–73, §§106, 109, 93 Stat. 539, 540.
 
-In subsection (a)(1), the text of 45:545(e)(5) is omitted as obsolete. The words “acquire, operate, maintain, and make contracts for the operation and maintenance of” are substituted for “own, manage, operate, or contract for the operation of”, “acquire by construction, purchase, or gift, or to contract for the use of”, “acquire, lease, modify, or develop”, and “or to enter into contracts for the provision of such service” to eliminate unnecessary words. The word “physical” is omitted as surplus. The words “intercity and commuter trains” are omitted as being included in “equipment”. The words “the transportation of mail and express” are substituted for “mail, express . . . service” for consistency in this chapter.
+In subsection (a)(1), the text of 45:545(e)(5) is omitted as obsolete. The words "acquire, operate, maintain, and make contracts for the operation and maintenance of" are substituted for "own, manage, operate, or contract for the operation of", "acquire by construction, purchase, or gift, or to contract for the use of", "acquire, lease, modify, or develop", and "or to enter into contracts for the provision of such service" to eliminate unnecessary words. The word "physical" is omitted as surplus. The words "intercity and commuter trains" are omitted as being included in "equipment". The words "the transportation of mail and express" are substituted for "mail, express . . . service" for consistency in this chapter.
 
-In subsection (b), before clause (1), the words “service” and “repair” are omitted as surplus. The words “not later than January 1, 1980” are omitted as executed. In clause (1), the words “principal office of Amtrak” are substituted for “corporate headquarters” for clarity and consistency. In clauses (3) and (4), the words “establishment of” are omitted as executed.
+In subsection (b), before clause (1), the words "service" and "repair" are omitted as surplus. The words "not later than January 1, 1980" are omitted as executed. In clause (1), the words "principal office of Amtrak" are substituted for "corporate headquarters" for clarity and consistency. In clauses (3) and (4), the words "establishment of" are omitted as executed.
 
-In subsection (c)(1), the words “contracts and” and “necessary or . . . in the conduct of its functions” are omitted as surplus.
+In subsection (c)(1), the words "contracts and" and "necessary or . . . in the conduct of its functions" are omitted as surplus.
 
-In subsection (c)(2), the words “on such trains” in 45:545(a), and the words “including taking into account the needs of the United States Postal Service in establishing schedules” and “and service” in 45:545a, are omitted as surplus.
+In subsection (c)(2), the words "on such trains" in 45:545(a), and the words "including taking into account the needs of the United States Postal Service in establishing schedules" and "and service" in 45:545a, are omitted as surplus.
 
-In subsection (c)(4), the text of 45:545(n) (1st sentence) and the words “Beginning October 1, 1982” are omitted as executed.
+In subsection (c)(4), the text of 45:545(n) (1st sentence) and the words "Beginning October 1, 1982" are omitted as executed.
 
-In subsection (d)(1), the words “rail passenger carriers” are substituted for “common carriers of passengers by rail” for consistency in the revised title. The words “establishing those routes and fares” are substituted for “the making of such arrangements” for clarity.
+In subsection (d)(1), the words "rail passenger carriers" are substituted for "common carriers of passengers by rail" for consistency in the revised title. The words "establishing those routes and fares" are substituted for "the making of such arrangements" for clarity.
 
-In subsection (e), the words “and protection” and “licensing, residency, or related” are omitted as surplus.
+In subsection (e), the words "and protection" and "licensing, residency, or related" are omitted as surplus.
 
-In subsection (f)(1), the words “several” and “the Commonwealth of Puerto Rico” are omitted as surplus.
+In subsection (f)(1), the words "several" and "the Commonwealth of Puerto Rico" are omitted as surplus.
 
-In subsection (f)(2), the words “Except as provided in paragraph (2) or (3) of this subsection”, “which have been”, “all”, and “as the case may be” are omitted as surplus.
+In subsection (f)(2), the words "Except as provided in paragraph (2) or (3) of this subsection", "which have been", "all", and "as the case may be" are omitted as surplus.
 
 In subsection (f)(3), the text of 45:545(k)(4)(B) is omitted as executed.
 
-In subsection (f)(4)(A) and (B), the words “the purchase of” are omitted as surplus.
+In subsection (f)(4)(A) and (B), the words "the purchase of" are omitted as surplus.
 
-In subsection (f)(4)(A)(i), the words “imposing” and “with respect to such articles, materials, and supplies” are omitted as surplus.
+In subsection (f)(4)(A)(i), the words "imposing" and "with respect to such articles, materials, and supplies" are omitted as surplus.
 
 #### Amendments
 
@@ -214,79 +214,79 @@ Subsec. (d)(3). Pub. L. 105–134, §107(b), added par. (3).
 
 Pub. L. 111–117, div. A, title I, §159, Dec. 16, 2009, 123 Stat. 3061, as amended by Pub. L. 111–212, title III, §3009, July 29, 2010, 124 Stat. 2340, provided that:
 
-“(a)
+"(a)
 
 Amtrak Security Evaluation.—No later than 180 days after the enactment of this Act \[Dec. 16, 2009\], Amtrak, in consultation with the Assistant Secretary of Homeland Security (Transportation Security Administration), shall submit a report to Congress that contains—
 
-&emsp;“(1) a comprehensive, system-wide, security evaluation; and
+&emsp;"(1) a comprehensive, system-wide, security evaluation; and
 
-&emsp;“(2) proposed guidance and procedures necessary to implement a new checked firearms program.
+&emsp;"(2) proposed guidance and procedures necessary to implement a new checked firearms program.
 
-“(b)
+"(b)
 
 Developement and Implementation of Guidance and Procedures.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In General.—Not later than one year after the enactment of this Act \[Dec. 16, 2009\], Amtrak, in consultation with the Assistant Secretary, shall develop and implement guidance and procedures to carry out the duties and responsibilities of firearm storage and carriage in checked baggage cars and at Amtrak stations that accept checked baggage.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Scope.—The guidance and procedures developed under paragraph (1) shall—
 
-&emsp;&emsp;“(A) permit Amtrak passengers holding a ticket for a specific Amtrak route to place an unloaded firearm or starter pistol in a checked bag on such route if—
+&emsp;&emsp;"(A) permit Amtrak passengers holding a ticket for a specific Amtrak route to place an unloaded firearm or starter pistol in a checked bag on such route if—
 
-&emsp;&emsp;&emsp;“(i) the Amtrak station accepts checked baggage for such route;
+&emsp;&emsp;&emsp;"(i) the Amtrak station accepts checked baggage for such route;
 
-&emsp;&emsp;&emsp;“(ii) the passenger declares to Amtrak, either orally or in writing, at the time the reservation is made or not later than 24 hours before departure, that the firearm will be placed in his or her bag and will be unloaded;
+&emsp;&emsp;&emsp;"(ii) the passenger declares to Amtrak, either orally or in writing, at the time the reservation is made or not later than 24 hours before departure, that the firearm will be placed in his or her bag and will be unloaded;
 
-&emsp;&emsp;&emsp;“(iii) the firearm is in a hard-sided container;
+&emsp;&emsp;&emsp;"(iii) the firearm is in a hard-sided container;
 
-&emsp;&emsp;&emsp;“(iv) such container is locked; and
+&emsp;&emsp;&emsp;"(iv) such container is locked; and
 
-&emsp;&emsp;&emsp;“(v) only the passenger has the key or combination for such container;
+&emsp;&emsp;&emsp;"(v) only the passenger has the key or combination for such container;
 
-&emsp;&emsp;“(B) permit Amtrak passengers holding a ticket for a specific Amtrak route to place small arms ammunition for personal use in a checked bag on such route if the ammunition is securely packed—
+&emsp;&emsp;"(B) permit Amtrak passengers holding a ticket for a specific Amtrak route to place small arms ammunition for personal use in a checked bag on such route if the ammunition is securely packed—
 
-&emsp;&emsp;&emsp;“(i) in fiber, wood, or metal boxes; or
+&emsp;&emsp;&emsp;"(i) in fiber, wood, or metal boxes; or
 
-&emsp;&emsp;&emsp;“(ii) in other packaging specifically designed to carry small amounts of ammunition; and
+&emsp;&emsp;&emsp;"(ii) in other packaging specifically designed to carry small amounts of ammunition; and
 
-&emsp;&emsp;“(C) include any other measures needed to ensure the safety and security of Amtrak employees, passengers, and infrastructure, including—
+&emsp;&emsp;"(C) include any other measures needed to ensure the safety and security of Amtrak employees, passengers, and infrastructure, including—
 
-&emsp;&emsp;&emsp;“(i) requiring inspections of any container containing a firearm or ammunition; and
+&emsp;&emsp;&emsp;"(i) requiring inspections of any container containing a firearm or ammunition; and
 
-&emsp;&emsp;&emsp;“(ii) the temporary suspension of firearm carriage service if credible intelligence information indicates a threat related to the national rail system or specific routes or trains.
+&emsp;&emsp;&emsp;"(ii) the temporary suspension of firearm carriage service if credible intelligence information indicates a threat related to the national rail system or specific routes or trains.
 
-“(c)
+"(c)
 
 Definitions.—
 
-&emsp;“(1) \[sic\] For purposes of this section, the term ‘checked baggage’ refers to baggage transported that is accessible only to select Amtrak employees.”
+&emsp;"(1) \[sic\] For purposes of this section, the term 'checked baggage' refers to baggage transported that is accessible only to select Amtrak employees."
 
 #### General Services Administration Services
 
-Pub. L. 110–432, div. B, title II, §218(b), Oct. 16, 2008, 122 Stat. 4930, provided that: “Amtrak may obtain from the Administrator of General Services, and the Administrator may provide to Amtrak, services under sections 502(a) and 602 of title 40, United States Code.”
+Pub. L. 110–432, div. B, title II, §218(b), Oct. 16, 2008, 122 Stat. 4930, provided that: "Amtrak may obtain from the Administrator of General Services, and the Administrator may provide to Amtrak, services under sections 502(a) and 602 of title 40, United States Code."
 
-Pub. L. 106–554, §1(a)(4) \[div. A, §1110\], Dec. 21, 2000, 114 Stat. 2763, 2763A–202, provided that: “Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b) and 211(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(b) and 491(b)) \[now 40 U.S.C. 502, 602, 603(a)(1)\] for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and 24104(a) of title 49, United States Code.”
+Pub. L. 106–554, §1(a)(4) \[div. A, §1110\], Dec. 21, 2000, 114 Stat. 2763, 2763A–202, provided that: "Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b) and 211(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(b) and 491(b)) \[now 40 U.S.C. 502, 602, 603(a)(1)\] for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and 24104(a) of title 49, United States Code."
 
 #### Rail and Motor Carrier Passenger Service
 
 Pub. L. 105–134, title I, §108, Dec. 2, 1997, 111 Stat. 2574, provided that:
 
-“(a)
+"(a)
 
 In General.—Notwithstanding any other provision of law (other than section 24305(a)(3) of title 49, United States Code), Amtrak and motor carriers of passengers are authorized—
 
-&emsp;“(1) to combine or package their respective services and facilities to the public as a means of increasing revenues; and
+&emsp;"(1) to combine or package their respective services and facilities to the public as a means of increasing revenues; and
 
-&emsp;“(2) to coordinate schedules, routes, rates, reservations, and ticketing to provide for enhanced intermodal surface transportation.
+&emsp;"(2) to coordinate schedules, routes, rates, reservations, and ticketing to provide for enhanced intermodal surface transportation.
 
-“(b)
+"(b)
 
-Review.—The authority granted by subsection (a) is subject to review by the Surface Transportation Board and may be modified or revoked by the Board if modification or revocation is in the public interest.”
+Review.—The authority granted by subsection (a) is subject to review by the Surface Transportation Board and may be modified or revoked by the Board if modification or revocation is in the public interest."
 
 #### Educational Participation
 
-Pub. L. 105–134, title IV, §412, Dec. 2, 1997, 111 Stat. 2589, provided that: “Amtrak shall participate in educational efforts with elementary and secondary schools to inform students on the advantages of rail travel and the need for rail safety.”
+Pub. L. 105–134, title IV, §412, Dec. 2, 1997, 111 Stat. 2589, provided that: "Amtrak shall participate in educational efforts with elementary and secondary schools to inform students on the advantages of rail travel and the need for rail safety."
 

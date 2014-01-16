@@ -24,7 +24,7 @@ Pub. L. 109–228, §3(b), May 29, 2006, 120 Stat. 389, added item 1387.
 
 <b>1991</b>—Pub. L. 102–190, div. A, title X, §1090(b), Dec. 5, 1991, 105 Stat. 1486, added item 1386.
 
-<b>1990</b>—Pub. L. 101–647, title XXXV, §3547, Nov. 29, 1990, 104 Stat. 4926, struck out item 1383 “Restrictions in military areas and zones”.
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3547, Nov. 29, 1990, 104 Stat. 4926, struck out item 1383 "Restrictions in military areas and zones".
 
 <b>1956</b>—Act Aug. 10, 1956, ch. 1041, §18(b), 70A Stat. 626, inserted item 1385.
 

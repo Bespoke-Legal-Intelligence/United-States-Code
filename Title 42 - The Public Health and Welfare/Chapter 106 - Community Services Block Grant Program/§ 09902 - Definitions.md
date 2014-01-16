@@ -6,7 +6,7 @@ In this chapter:
 
 #### (A) Eligible entity
 
-&emsp;&emsp;The term “eligible entity” means an entity—
+&emsp;&emsp;The term "eligible entity" means an entity—
 
 &emsp;&emsp;&emsp;(i) that is an eligible entity described in paragraph (1) of this section (as in effect on the day before October 27, 1998) as of the day before October 27, 1998, or is designated by the process described in section 9909 of this title (including an organization serving migrant or seasonal farmworkers that is so described or designated); and
 
@@ -14,23 +14,23 @@ In this chapter:
 
 #### (B) Family literacy services
 
-&emsp;&emsp;The term “family literacy services” has the meaning given the term in section 9832 of this title.
+&emsp;&emsp;The term "family literacy services" has the meaning given the term in section 9832 of this title.
 
 #### (2) Poverty line
 
-&emsp;The term “poverty line” means the official poverty line defined by the Office of Management and Budget based on the most recent data available from the Bureau of the Census. The Secretary shall revise annually (or at any shorter interval the Secretary determines to be feasible and desirable) the poverty line, which shall be used as a criterion of eligibility in the community services block grant program established under this chapter. The required revision shall be accomplished by multiplying the official poverty line by the percentage change in the Consumer Price Index for All Urban Consumers during the annual or other interval immediately preceding the time at which the revision is made. Whenever a State determines that it serves the objectives of the block grant program established underthis chapter, the State may revise the poverty line to not to exceed 125 percent of the official poverty line otherwise applicable under this paragraph.
+&emsp;The term "poverty line" means the official poverty line defined by the Office of Management and Budget based on the most recent data available from the Bureau of the Census. The Secretary shall revise annually (or at any shorter interval the Secretary determines to be feasible and desirable) the poverty line, which shall be used as a criterion of eligibility in the community services block grant program established under this chapter. The required revision shall be accomplished by multiplying the official poverty line by the percentage change in the Consumer Price Index for All Urban Consumers during the annual or other interval immediately preceding the time at which the revision is made. Whenever a State determines that it serves the objectives of the block grant program established under this chapter, the State may revise the poverty line to not to exceed 125 percent of the official poverty line otherwise applicable under this paragraph.
 
 #### (3) Private, nonprofit organization
 
-&emsp;The term “private, nonprofit organization” includes a religious organization, to which the provisions of section 9920 of this title shall apply.
+&emsp;The term "private, nonprofit organization" includes a religious organization, to which the provisions of section 9920 of this title shall apply.
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services.
 
 #### (5) State
 
-&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 (Pub. L. 97–35, title VI, §673, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2729.)
 

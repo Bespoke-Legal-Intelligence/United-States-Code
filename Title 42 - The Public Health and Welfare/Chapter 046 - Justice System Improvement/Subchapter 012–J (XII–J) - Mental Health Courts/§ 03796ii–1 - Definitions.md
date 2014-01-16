@@ -2,13 +2,13 @@
 
 In this subchapter—
 
-&emsp;(1) the term “mental illness” means a diagnosable mental, behavioral, or emotional disorder—
+&emsp;(1) the term "mental illness" means a diagnosable mental, behavioral, or emotional disorder—
 
 &emsp;&emsp;(A) of sufficient duration to meet diagnostic criteria within the most recent edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association; and
 
 &emsp;&emsp;(B) that has resulted in functional impairment that substantially interferes with or limits 1 or more major life activities; and
 
-&emsp;(2) the term “preliminarily qualified offender with mental illness, mental retardation, or co-occurring mental and substance abuse disorders” means a person who—
+&emsp;(2) the term "preliminarily qualified offender with mental illness, mental retardation, or co-occurring mental and substance abuse disorders" means a person who—
 
 &emsp;&emsp;(A)(i) previously or currently has been diagnosed by a qualified mental health professional as having a mental illness, mental retardation, or co-occurring mental illness and substance abuse disorders; or
 

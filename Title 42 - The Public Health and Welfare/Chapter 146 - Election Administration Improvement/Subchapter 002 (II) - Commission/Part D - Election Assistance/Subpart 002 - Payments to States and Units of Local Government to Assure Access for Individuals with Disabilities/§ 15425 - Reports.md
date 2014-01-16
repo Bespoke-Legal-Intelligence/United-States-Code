@@ -6,7 +6,7 @@ Not later than the <sup>1</sup> 6 months after the end of each fiscal year for 
 
 #### (b) Report by Secretary to Committees
 
-With respect to each fiscal year for which the Secretary makes payments under this subpart,the Secretary shall submit a report on the activities carried out under this subpart to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate.
+With respect to each fiscal year for which the Secretary makes payments under this subpart, the Secretary shall submit a report on the activities carried out under this subpart to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate.
 
 (Pub. L. 107–252, title II, §265, Oct. 29, 2002, 116 Stat. 1699.)
 

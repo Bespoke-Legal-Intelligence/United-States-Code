@@ -26,21 +26,21 @@
 
 #### Amendments
 
-<b>2004</b>—Subsec. (d). Pub. L. 108–383 struck out at end “A Federal agency may request changes in such schedules for its records pursuant to section 2909 of this title.”
+<b>2004</b>—Subsec. (d). Pub. L. 108–383 struck out at end "A Federal agency may request changes in such schedules for its records pursuant to section 2909 of this title."
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–186 substituted "House Oversight" for "House Administration".
 
-<b>1984</b>—Pub. L. 98–497, §107(b)(25)(B), substituted “Archivist” for “Administrator of General Services” in section catchline.
+<b>1984</b>—Pub. L. 98–497, §107(b)(25)(B), substituted "Archivist" for "Administrator of General Services" in section catchline.
 
-Subsec. (a). Pub. L. 98–497, §107(b)(24), substituted “Archivist” for “Administrator of General Services” and “Archivist” for “Administrator”.
+Subsec. (a). Pub. L. 98–497, §107(b)(24), substituted "Archivist" for "Administrator of General Services" and "Archivist" for "Administrator".
 
-Pub. L. 98–497, §204, inserted “, after publication of notice in the Federal Register and an opportunity for interested persons to submit comment thereon” after “may” in second sentence.
+Pub. L. 98–497, §204, inserted ", after publication of notice in the Federal Register and an opportunity for interested persons to submit comment thereon" after "may" in second sentence.
 
-Subsecs. (b) to (f). Pub. L. 98–497, §107(b)(24)(B), substituted “Archivist” for “Administrator” wherever appearing.
+Subsecs. (b) to (f). Pub. L. 98–497, §107(b)(24)(B), substituted "Archivist" for "Administrator" wherever appearing.
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–440, §1(a), made schedules promulgated by Administrator under subsec. (d) of this section mandatory; inserted provision for application of authorization providing for shorter retention period as between an authorization granted under lists and schedules submitted under section 3303 of this title and an authorization in a schedule promulgated under subsec. (d) of this section; and struck out provision making permissive authorizations granted under subsec. (d) schedules.
 
-Subsec. (d). Pub. L. 95–440, §1(b), (c), substituted “shall” for “may” in first sentence and authorized Federal agencies to request changes in disposal schedules for its records pursuant to section 2909 of this title.
+Subsec. (d). Pub. L. 95–440, §1(b), (c), substituted "shall" for "may" in first sentence and authorized Federal agencies to request changes in disposal schedules for its records pursuant to section 2909 of this title.
 
 #### Change of Name
 

@@ -10,7 +10,7 @@ Provisions similar to this section were contained in former section 3793 of this
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–473 substituted “Office of Justice Programs, Bureau of Justice Assistance” for “Law Enforcement Assistance Administration”.
+<b>1984</b>—Pub. L. 98–473 substituted "Office of Justice Programs, Bureau of Justice Assistance" for "Law Enforcement Assistance Administration".
 
 #### Effective Date of 1984 Amendment
 

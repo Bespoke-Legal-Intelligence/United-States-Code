@@ -2,7 +2,7 @@
 
 #### (a) Eligibility; percentage of benefits
 
-Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b) of this section, to benefits—
+Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent suchformer spouse is disqualified under subsection (b) of this section, to benefits—
 
 &emsp;(1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the benefits of the participant; or
 
@@ -42,11 +42,11 @@ A former spouse shall not be entitled to benefits under this section if—
 
 (4)(A) Benefits under this section shall not be payable unless appropriate written application is provided to the Secretary, complete with any supporting documentation which the Secretary may by regulation require, within 30 months after December 22, 1987. The Secretary may waive the 30-month application requirement under this subparagraph in any case in which the Secretary determines that the circumstances so warrant.
 
-(B) Upon approval of an application provided under subparagraph (A), the appropriate benefitsshall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to such benefits under this section, but in no event shall benefits be payable under this section with respect to any period before December 22, 1987.
+(B) Upon approval of an application provided under subparagraph (A), the appropriate benefits shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to such benefits under this section, but in no event shall benefits be payable under this section with respect to any period before December 22, 1987.
 
-#### (d) “Benefits” defined
+#### (d) "Benefits" defined
 
-For the purposes of this section, the term “benefits” means—
+For the purposes of this section, the term "benefits" means—
 
 &emsp;(1) with respect to a participant or former participant subject to this part, the annuity of the participant or former participant; and
 

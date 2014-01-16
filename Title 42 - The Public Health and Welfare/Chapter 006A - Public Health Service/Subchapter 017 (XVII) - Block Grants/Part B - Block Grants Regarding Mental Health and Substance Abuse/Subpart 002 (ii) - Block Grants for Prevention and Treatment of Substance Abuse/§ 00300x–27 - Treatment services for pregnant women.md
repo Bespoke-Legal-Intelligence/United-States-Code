@@ -30,11 +30,11 @@ Another prior section 1927 of act July 1, 1944, was classified to section 300y�
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b)(2)(B). Pub. L. 102–352 struck out “available” before “interim services available”.
+<b>1992</b>—Subsec. (b)(2)(B). Pub. L. 102–352 struck out "available" before "interim services available".
 
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L. 102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “woman”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "woman".</i>
 

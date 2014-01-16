@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This chapter may be cited as the “David L. Boren National Security Education Act of 1991”.
+This chapter may be cited as the "David L. Boren National Security Education Act of 1991".
 
 #### (b) Findings
 
@@ -32,7 +32,7 @@ The purposes of this chapter are as follows:
 
 &emsp;(3) To produce an increased pool of applicants for work in the departments and agencies of the United States Government with national security responsibilities.
 
-&emsp;(4) To expand, in conjunction with other Federal programs, the international experience, knowledge base, and perspectives onwhich the United States citizenry, Government employees, and leaders rely.
+&emsp;(4) To expand, in conjunction with other Federal programs, the international experience, knowledge base, and perspectives on which the United States citizenry, Government employees, and leaders rely.
 
 &emsp;(5) To permit the Federal Government to advocate the cause of international education.
 
@@ -40,7 +40,7 @@ The purposes of this chapter are as follows:
 
 #### Amendments
 
-<b>1998</b>—Subsecs. (b)(7), (c)(2). Pub. L. 105–272 inserted “counterproliferation studies,” after “area studies,”.
+<b>1998</b>—Subsecs. (b)(7), (c)(2). Pub. L. 105–272 inserted "counterproliferation studies," after "area studies,".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–496 amended subsec. (a) generally, inserting “David L. Boren”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–496 amended subsec. (a) generally, inserting "David L. Boren".
 

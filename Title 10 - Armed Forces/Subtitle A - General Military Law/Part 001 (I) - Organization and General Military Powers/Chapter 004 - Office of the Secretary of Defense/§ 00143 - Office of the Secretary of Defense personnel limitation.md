@@ -6,7 +6,7 @@ Permanent Limitation on OSD Personnel.—The number of OSD personnel may not exc
 
 (b) OSD
 
-Personnel Defined.—For purposes of this section, the term “OSD personnel” means military and civilian personnel of the Department of Defense who are assigned to, or employed in, functions in the Office of the Secretary of Defense (including Direct Support Activities of that Office and the Washington Headquarters Services of the Department of Defense).
+Personnel Defined.—For purposes of this section, the term "OSD personnel" means military and civilian personnel of the Department of Defense who are assigned to, or employed in, functions in the Office of the Secretary of Defense (including Direct Support Activities of that Office and the Washington Headquarters Services of the Department of Defense).
 
 (c)
 
@@ -20,19 +20,19 @@ Section, as added by Pub. L. 105–85, consists of text of Pub. L. 104–201, di
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–65, §921(c)(1), substituted “The number” for “Effective October 1, 1999, the number” and “3,767” for “75 percent of the baseline number”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §921(c)(1), substituted "The number" for "Effective October 1, 1999, the number" and "3,767" for "75 percent of the baseline number".
 
-Subsec. (b). Pub. L. 106–65, §921(c)(2), (3), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “The number of OSD personnel—
+Subsec. (b). Pub. L. 106–65, §921(c)(2), (3), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: "The number of OSD personnel—
 
-&emsp;“(1) as of October 1, 1997, may not exceed 85 percent of the baseline number; and
+&emsp;"(1) as of October 1, 1997, may not exceed 85 percent of the baseline number; and
 
-&emsp;“(2) as of October 1, 1998, may not exceed 80 percent of the baseline number.”
+&emsp;"(2) as of October 1, 1998, may not exceed 80 percent of the baseline number."
 
-Subsec. (c). Pub. L. 106–65, §921(c)(2), (3), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of this section, the term ‘baseline number’ means the number of OSD personnel as of October 1, 1994.”
+Subsec. (c). Pub. L. 106–65, §921(c)(2), (3), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: "For purposes of this section, the term 'baseline number' means the number of OSD personnel as of October 1, 1994."
 
 Subsecs. (d), (e). Pub. L. 106–65, §921(c)(3), redesignated subsecs. (d) and (e) as (b) and (c), respectively.
 
-Subsec. (f). Pub. L. 106–65, §921(c)(2), struck out heading and text of subsec. (f). Text read as follows: “If the Secretary of Defense determines, and certifies to Congress, that the limitation in subsection (b) with respect to any fiscal year would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. If the Secretary of Defense determines, and certifies to Congress, that the limitation in subsection (a) during fiscal year 1999 would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. The authority under this subsection may be used only once, with respect to a single fiscal year.”
+Subsec. (f). Pub. L. 106–65, §921(c)(2), struck out heading and text of subsec. (f). Text read as follows: "If the Secretary of Defense determines, and certifies to Congress, that the limitation in subsection (b) with respect to any fiscal year would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. If the Secretary of Defense determines, and certifies to Congress, that the limitation in subsection (a) during fiscal year 1999 would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. The authority under this subsection may be used only once, with respect to a single fiscal year."
 
 #### Effective Date of 1999 Amendment
 
@@ -42,27 +42,27 @@ Pub. L. 106–65, div. A, title IX, §921(c), Oct. 5, 1999, 113 Stat. 723, provi
 
 Pub. L. 110–417, \[div. A\], title XI, §1111, Oct. 14, 2008, 122 Stat. 4619, as amended by Pub. L. 111–84, div. A, title XI, §1109(a), Oct. 28, 2009, 123 Stat. 2492; Pub. L. 111–383, div. A, title X, §1075(e)(17), Jan. 7, 2011, 124 Stat. 4375, provided that:
 
-“(a)
+"(a)
 
 Exception to Limitations on Personnel.—For fiscal year 2009 and fiscal years thereafter, the baseline personnel limitations in sections 143, 194, 3014, 5014, and 8014 of title 10, United States Code (as adjusted pursuant to subsection (b)), shall not apply to—
 
-&emsp;“(1) acquisition personnel hired pursuant to the expedited hiring authority provided in section 1705(h) of title 10, United States Code, as amended by section 833 of this Act, or otherwise hired with funds in the Department of Defense Acquisition Workforce Development Fund established in accordance with section 1705(a) of such title; or
+&emsp;"(1) acquisition personnel hired pursuant to the expedited hiring authority provided in section 1705(h) of title 10, United States Code, as amended by section 833 of this Act, or otherwise hired with funds in the Department of Defense Acquisition Workforce Development Fund established in accordance with section 1705(a) of such title; or
 
-&emsp;“(2) personnel hired pursuant to a shortage category designation by the Secretary of Defense or the Director of the Office of Personnel Management.
+&emsp;"(2) personnel hired pursuant to a shortage category designation by the Secretary of Defense or the Director of the Office of Personnel Management.
 
-“(b)
+"(b)
 
 Authority to Adjust Limitations on Personnel.—For fiscal year 2009 and fiscal years thereafter, the Secretary of Defense or a Secretary of a military department may adjust the baseline personnel limitations in sections 143, 194, 3014, 5014 and 8014 of title 10, United States Code, to—
 
-&emsp;“(1) fill a gap in the civilian workforce of the Department of Defense identified by the Secretary of Defense in a strategic human capital plan submitted to Congress in accordance with the requirements of section 115b of such title; or
+&emsp;"(1) fill a gap in the civilian workforce of the Department of Defense identified by the Secretary of Defense in a strategic human capital plan submitted to Congress in accordance with the requirements of section 115b of such title; or
 
-&emsp;“(2) accommodate increases in workload or modify the type of personnel required to accomplish work, for any of the following purposes:
+&emsp;"(2) accommodate increases in workload or modify the type of personnel required to accomplish work, for any of the following purposes:
 
-&emsp;&emsp;“(A) Performance of inherently governmental functions.
+&emsp;&emsp;"(A) Performance of inherently governmental functions.
 
-&emsp;&emsp;“(B) Performance of work pursuant to section 2463 of title 10, United States Code.
+&emsp;&emsp;"(B) Performance of work pursuant to section 2463 of title 10, United States Code.
 
-&emsp;&emsp;“(C) Ability to maintain sufficient organic expertise and technical capability.
+&emsp;&emsp;"(C) Ability to maintain sufficient organic expertise and technical capability.
 
-&emsp;&emsp;“(D) Performance of work that, while the position may not exercise an inherently governmental function, nevertheless should be performed only by officers or employees of the Federal Government or members of the Armed Forces because of the critical nature of the work.”
+&emsp;&emsp;"(D) Performance of work that, while the position may not exercise an inherently governmental function, nevertheless should be performed only by officers or employees of the Federal Government or members of the Armed Forces because of the critical nature of the work."
 

@@ -6,11 +6,11 @@ In order to simplify the organization of Federal credit unions the Board shall f
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator” in two places, and “its approval” for “his approval”.
+<b>1978</b>—Pub. L. 95–630 substituted "Board" for "Administrator" in two places, and "its approval" for "his approval".
 
-<b>1970</b>—Pub. L. 91–206 substituted “Administrator” for “Director” in two places.
+<b>1970</b>—Pub. L. 91–206 substituted "Administrator" for "Director" in two places.
 
-<b>1959</b>—Pub. L. 86–354 substituted “from time to time” for “, upon the passage of this Act,”.
+<b>1959</b>—Pub. L. 86–354 substituted "from time to time" for ", upon the passage of this Act,".
 
 #### Effective Date of 1978 Amendment
 

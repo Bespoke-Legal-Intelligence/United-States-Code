@@ -38,7 +38,7 @@ Used Fishing Vessels and Facilities.—The Secretary may not guarantee or make a
 
 &emsp;&emsp;(A) in the harvesting of fish from an underused fishery; or
 
-&emsp;&emsp;(B) for a purpose described in the definition of “fishery facility” in section 53701 of this title with respect to an underused fishery.
+&emsp;&emsp;(B) for a purpose described in the definition of "fishery facility" in section 53701 of this title with respect to an underused fishery.
 
 (d)
 
@@ -46,7 +46,7 @@ Independent Analysis.—The Secretary or Administrator may make a determination 
 
 (e)
 
-Additional Equity Because of Increased Risks.—Notwithstanding any other provision of this chapter, the Secretary or Administratormay make a determination that an application under this title requires additional equity because of increased risk factors associated with markets, technology, or financial structures.
+Additional Equity Because of Increased Risks.—Notwithstanding any other provision of this chapter, the Secretary or Administrator may make a determination that an application under this title requires additional equity because of increased risk factors associated with markets, technology, or financial structures.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1608; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 110–181, div. C, title XXXV, §3522(a)(4), (b), Jan. 28, 2008, 122 Stat. 597, 598.)
 
@@ -88,15 +88,15 @@ June 29, 1936, ch. 858, title XI, §1104A(f)(2), (3), as added Pub. L. 108–136
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4). See 2006 Amendment note below.
 
-Subsec. (a). Pub. L. 110–181, §3522(a)(4)(A), (B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(D), (b)(3)(A), into this section by substituting in the heading, “Administrator” for “Secretary of Transportation” and, in introductory provisions, “Administrator may” for “Secretary of Transportation may”, “Administrator finds” for “Secretary finds”, and “Administrator shall” for “Secretary shall”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (a). Pub. L. 110–181, §3522(a)(4)(A), (B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(D), (b)(3)(A), into this section by substituting in the heading, "Administrator" for "Secretary of Transportation" and, in introductory provisions, "Administrator may" for "Secretary of Transportation may", "Administrator finds" for "Secretary finds", and "Administrator shall" for "Secretary shall". See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-Subsec. (b). Pub. L. 110–181, §3522(a)(4)(C), (D), struck out “of Commerce” after “Secretary” in heading and the first time appearing in introductory provisions.
+Subsec. (b). Pub. L. 110–181, §3522(a)(4)(C), (D), struck out "of Commerce" after "Secretary" in heading and the first time appearing in introductory provisions.
 
-Subsec. (c). Pub. L. 110–181, §3522(a)(4)(D), struck out “of Commerce” after “Secretary”.
+Subsec. (c). Pub. L. 110–181, §3522(a)(4)(D), struck out "of Commerce" after "Secretary".
 
-Subsec. (d). Pub. L. 110–181, §3522(a)(4)(E), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), (b)(4)(A), (C), into this section by inserting “or Administrator” after “The Secretary” and substituting “or financial structures. A third party independent analysis conducted under this subsection shall be performed by a private sector expert in assessing such risk factors who is selected by the Secretary or Administrator.” for “financial structures, or other risk factors identified by the Secretary. Any independent analysis conducted under this subsection shall be performed by a party chosen by the Secretary.” See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (d). Pub. L. 110–181, §3522(a)(4)(E), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), (b)(4)(A), (C), into this section by inserting "or Administrator" after "The Secretary" and substituting "or financial structures. A third party independent analysis conducted under this subsection shall be performed by a private sector expert in assessing such risk factors who is selected by the Secretary or Administrator." for "financial structures, or other risk factors identified by the Secretary. Any independent analysis conducted under this subsection shall be performed by a party chosen by the Secretary." See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-Subsec. (e). Pub. L. 110–181, §3522(a)(4)(F), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), (b)(4)(B), into this section by inserting “or Administrator” after “chapter, the Secretary” and substituting “or financial structures” for “financial structures, or other risk factors identified by the Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (e). Pub. L. 110–181, §3522(a)(4)(F), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), (b)(4)(B), into this section by inserting "or Administrator" after "chapter, the Secretary" and substituting "or financial structures" for "financial structures, or other risk factors identified by the Secretary". See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 <b>2006</b>—Pub. L. 109–163, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4), which directed the amendment of section 1274(d)(1)(A), (f)(2), (3) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes for subsecs. (a), (d), and (e) and Historical and Revision notes above.
 

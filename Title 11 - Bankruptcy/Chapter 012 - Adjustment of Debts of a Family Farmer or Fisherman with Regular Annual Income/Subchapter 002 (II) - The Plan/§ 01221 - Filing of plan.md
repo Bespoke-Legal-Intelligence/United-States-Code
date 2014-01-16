@@ -10,17 +10,17 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–65 substituted “the need for an extension is attributable to circumstances for which the debtor should not justly be held accountable” for “an extension is substantially justified”.
+<b>1993</b>—Pub. L. 103–65 substituted "the need for an extension is attributable to circumstances for which the debtor should not justly be held accountable" for "an extension is substantially justified".
 
 #### Effective Date of 1993 Amendment
 
 Pub. L. 103–65, §3, Aug. 6, 1993, 107 Stat. 311, provided that:
 
-“(a)
+"(a)
 
 Effective Date.—Except as provided in subsection (b), this Act \[amending this section and provisions set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure\] and the amendmentsmade by this Act shall take effect on the date of the enactment of this Act \[Aug. 6, 1993\].
 
-“(b)
+"(b)
 
-Application of Amendment Made by Section 2.—The amendment made by section 2 \[amending this section\] shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act.”
+Application of Amendment Made by Section 2.—The amendment made by section 2 \[amending this section\] shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act."
 

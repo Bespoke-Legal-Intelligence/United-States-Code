@@ -52,105 +52,105 @@ Pub. L. 102–580, title III, §327, Oct. 31, 1992, 106 Stat. 4851, directed Sec
 
 Pub. L. 102–580, title V, §§501, 502, Oct. 31, 1992, 106 Stat. 4864, provided that:
 
-#### “SEC. 501. SHORT TITLE AND DEFINITIONS.
+#### "SEC. 501. SHORT TITLE AND DEFINITIONS.
 
-“(a)
+"(a)
 
-Short Title.—This title \[enacting this section, amending sections 1412 to 1416, 1420, and 1421 of this title, and enacting provisions set out below\] may be cited as the ‘National Contaminated Sediment Assessment and Management Act’.
+Short Title.—This title \[enacting this section, amending sections 1412 to 1416, 1420, and 1421 of this title, and enacting provisions set out below\] may be cited as the 'National Contaminated Sediment Assessment and Management Act'.
 
-“(b)
+"(b)
 
 Definitions.—For the purposes of sections 502 and 503 of this title \[enacting this section and provisions set out below\]—
 
-&emsp;“(1) the term ‘aquatic sediment’ means sediment underlying the navigable waters of the United States;
+&emsp;"(1) the term 'aquatic sediment' means sediment underlying the navigable waters of the United States;
 
-&emsp;“(2) the term ‘navigable waters’ has the same meaning as in section 502(7) of the Federal Water Pollution Control Act (33 U.S.C. 1362(7));
+&emsp;"(2) the term 'navigable waters' has the same meaning as in section 502(7) of the Federal Water Pollution Control Act (33 U.S.C. 1362(7));
 
-&emsp;“(3) the term ‘pollutant’ has the same meaning as in section 502(6) of the Federal Water Pollution Control Act (33 U.S.C. 1362(6)); except that such term does not include dredge spoil, rock, sand, or cellar dirt;
+&emsp;"(3) the term 'pollutant' has the same meaning as in section 502(6) of the Federal Water Pollution Control Act (33 U.S.C. 1362(6)); except that such term does not include dredge spoil, rock, sand, or cellar dirt;
 
-&emsp;“(4) the term ‘contaminated sediment’ means aquatic sediment which—
+&emsp;"(4) the term 'contaminated sediment' means aquatic sediment which—
 
-&emsp;&emsp;“(A) contains chemical substances in excess of appropriate geochemical, toxicological or sediment quality criteria or measures; or
+&emsp;&emsp;"(A) contains chemical substances in excess of appropriate geochemical, toxicological or sediment quality criteria or measures; or
 
-&emsp;&emsp;“(B) is otherwise considered by the Administrator to pose a threat to human health or the environment; and
+&emsp;&emsp;"(B) is otherwise considered by the Administrator to pose a threat to human health or the environment; and
 
-&emsp;“(5) the term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
+&emsp;"(5) the term 'Administrator' means the Administrator of the Environmental Protection Agency.
 
-#### “SEC. 502. NATIONAL CONTAMINATED SEDIMENT TASK FORCE.
+#### "SEC. 502. NATIONAL CONTAMINATED SEDIMENT TASK FORCE.
 
-“(a)
+"(a)
 
-Establishment.—There is established a National Contaminated Sediment Task Force (hereinafter referred to in this section as the ‘Task Force’). The Task Force shall—
+Establishment.—There is established a National Contaminated Sediment Task Force (hereinafter referred to in this section as the 'Task Force'). The Task Force shall—
 
-&emsp;“(1) advise the Administrator and the Secretary in the implementation of this title;
+&emsp;"(1) advise the Administrator and the Secretary in the implementation of this title;
 
-&emsp;“(2) review and comment on reports concerning aquatic sediment quality and the extent and seriousness of aquatic sediment contamination throughout the Nation;
+&emsp;"(2) review and comment on reports concerning aquatic sediment quality and the extent and seriousness of aquatic sediment contamination throughout the Nation;
 
-&emsp;“(3) review and comment on programs for the research and development of aquatic sediment restoration methods, practices, and technologies;
+&emsp;"(3) review and comment on programs for the research and development of aquatic sediment restoration methods, practices, and technologies;
 
-&emsp;“(4) review and comment on the selection of pollutants for development of aquatic sediment criteria and the schedule for the development of such criteria;
+&emsp;"(4) review and comment on the selection of pollutants for development of aquatic sediment criteria and the schedule for the development of such criteria;
 
-&emsp;“(5) advise appropriate officials in the development of guidelines for restoration of contaminated sediment;
+&emsp;"(5) advise appropriate officials in the development of guidelines for restoration of contaminated sediment;
 
-&emsp;“(6) make recommendations to appropriate officials concerning practices and measures—
+&emsp;"(6) make recommendations to appropriate officials concerning practices and measures—
 
-&emsp;&emsp;“(A) to prevent the contamination of aquatic sediments; and
+&emsp;&emsp;"(A) to prevent the contamination of aquatic sediments; and
 
-&emsp;&emsp;“(B) to control sources of sediment contamination; and
+&emsp;&emsp;"(B) to control sources of sediment contamination; and
 
-&emsp;“(7) review and assess the means and methods for locating and constructing permanent, cost-effective long-term disposal sites for the disposal of dredged material that is not suitable for ocean dumping (as determined under the Marine Protection, Research, and Sanctuaries Act of 1972 (33 U.S.C. 1401 et seq.) \[also 16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 2801 et seq.\]).
+&emsp;"(7) review and assess the means and methods for locating and constructing permanent, cost-effective long-term disposal sites for the disposal of dredged material that is not suitable for ocean dumping (as determined under the Marine Protection, Research, and Sanctuaries Act of 1972 (33 U.S.C. 1401 et seq.) \[also 16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 2801 et seq.\]).
 
-“(b)
+"(b)
 
 Membership.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The membership of the Task Force shall include 1 representative of each of the following:
 
-&emsp;&emsp;“(A) The Administrator.
+&emsp;&emsp;"(A) The Administrator.
 
-&emsp;&emsp;“(B) The Secretary.
+&emsp;&emsp;"(B) The Secretary.
 
-&emsp;&emsp;“(C) The National Oceanic and Atmospheric Administration.
+&emsp;&emsp;"(C) The National Oceanic and Atmospheric Administration.
 
-&emsp;&emsp;“(D) The United States Fish and Wildlife Service.
+&emsp;&emsp;"(D) The United States Fish and Wildlife Service.
 
-&emsp;&emsp;“(E) The Geological Survey \[now United States Geological Survey\].
+&emsp;&emsp;"(E) The Geological Survey \[now United States Geological Survey\].
 
-&emsp;&emsp;“(F) The Department of Agriculture.
+&emsp;&emsp;"(F) The Department of Agriculture.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Additional members.—Additional members of the Task Force shall be jointly selected by the Administrator and the Secretary, and shall include—
 
-&emsp;&emsp;“(A) not more than 3 representatives of States;
+&emsp;&emsp;"(A) not more than 3 representatives of States;
 
-&emsp;&emsp;“(B) not more than 3 representatives of ports, agriculture, and manufacturing; and
+&emsp;&emsp;"(B) not more than 3 representatives of ports, agriculture, and manufacturing; and
 
-&emsp;&emsp;“(C) not more than 3 representatives of public interest organizations with a demonstrated interest in aquatic sediment contamination.
+&emsp;&emsp;"(C) not more than 3 representatives of public interest organizations with a demonstrated interest in aquatic sediment contamination.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Cochairmen.—The Administrator and the Secretary shall serve as cochairmen of the Task Force.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Clerical and technical assistance.—Such clerical and technical assistance as may be necessary to discharge the duties of the Task Force shall be provided by the personnel of the Environmental Protection Agency and the Army Corps of Engineers.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Compensation for additional members.—The additional members of the Task Force selected under paragraph (2) shall, while attending meetings or conferences of the Task Force, be compensated at a rate to be fixed by the cochairmen, but not to exceed the daily equivalent of the base rate of pay in effect for grade GS–15 of the General Schedule under section 5332 of title 5, United States Code, for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Task Force. While away from their homes or regular places of business in the performance of services for the Task Force, such members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5, United States Code.
 
-“(c)
+"(c)
 
-Report.—Within 2 years after the date of the enactment of this Act \[Oct. 31, 1992\], the Task Force shall submit to Congress a report stating the findings and recommendations of the Task Force.”
+Report.—Within 2 years after the date of the enactment of this Act \[Oct. 31, 1992\], the Task Force shall submit to Congress a report stating the findings and recommendations of the Task Force."
 
 #### Authorization of Appropriations
 
-Pub. L. 102–580, title V, §509(b), Oct. 31, 1992, 106 Stat. 4870, provided that: “There is authorized to be appropriated to the Administrator to carry out sections 502 and 503 \[enacting this section and provisions set out above\] such sums as may be necessary.”
+Pub. L. 102–580, title V, §509(b), Oct. 31, 1992, 106 Stat. 4870, provided that: "There is authorized to be appropriated to the Administrator to carry out sections 502 and 503 \[enacting this section and provisions set out above\] such sums as may be necessary."
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 

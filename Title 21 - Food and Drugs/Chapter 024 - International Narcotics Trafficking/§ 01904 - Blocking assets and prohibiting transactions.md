@@ -46,9 +46,9 @@ Nothing in this chapter prohibits or otherwise limits the authorized law enforce
 
 #### Amendments
 
-<b>2001</b>—Subsec. (f). Pub. L. 107–108 struck out heading and text of subsec. (f). Text read as follows: “The determinations, identifications, findings, and designations made pursuant to section 1903 of this title and subsection (b) of this section shall not be subject to judicial review.”
+<b>2001</b>—Subsec. (f). Pub. L. 107–108 struck out heading and text of subsec. (f). Text read as follows: "The determinations, identifications, findings, and designations made pursuant to section 1903 of this title and subsection (b) of this section shall not be subject to judicial review."
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 

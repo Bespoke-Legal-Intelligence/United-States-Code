@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after May 14, 2002, the Attorney General, the Secretary of State,and the National Institute of Standards and Technology (NIST), acting jointly, shall submit to the appropriate committees of Congress a comprehensive report assessing the actions that will be necessary, and the considerations to be taken into account, to achieve fully, not later than October 26, 2004—
+&emsp;Not later than 180 days after May 14, 2002, the Attorney General, the Secretary of State, and the National Institute of Standards and Technology (NIST), acting jointly, shall submit to the appropriate committees of Congress a comprehensive report assessing the actions that will be necessary, and the considerations to be taken into account, to achieve fully, not later than October 26, 2004—
 
 &emsp;&emsp;(A) implementation of the requirements of subsections (b) and (c) of this section; and
 

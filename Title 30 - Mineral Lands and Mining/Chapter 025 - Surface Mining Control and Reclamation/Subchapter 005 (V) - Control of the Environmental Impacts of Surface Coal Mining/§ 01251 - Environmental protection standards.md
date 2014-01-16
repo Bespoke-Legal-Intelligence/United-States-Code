@@ -1,6 +1,6 @@
 ### §1251. Environmental protection standards
 
-(a) Not later than the end of the ninety-day period immediately following August 3, 1977, the Secretary shall promulgate and publish in the Federal Register regulations covering an interim regulatory procedure for surface coal mining and reclamation operations setting mining and reclamation performance standards based on and incorporating the provisions set out in section 1252(c) of this title. The issuance of the interim regulations shall be deemed not to be a major Federal action within the meaning of section 4332(2)(c) <sup>1</sup> of title 42. Such regulations,which shall be concise and written in plain, understandable language shall not be promulgated and published by the Secretary until he has—
+(a) Not later than the end of the ninety-day period immediately following August 3, 1977, the Secretary shall promulgate and publish in the Federal Register regulations covering an interim regulatory procedure for surface coal mining and reclamation operations setting mining and reclamation performance standards based on and incorporating the provisions set out in section 1252(c) of this title. The issuance of the interim regulations shall be deemed not to be a major Federal action within the meaning of section 4332(2)(c) <sup>1</sup> of title 42. Such regulations, which shall be concise and written in plain, understandable language shall not be promulgated and published by the Secretary until he has—
 
 &emsp;(A) published proposed regulations in the Federal Register and afforded interested persons and State and local governments a period of not less than thirty days after such publication to submit written comments thereon;
 
@@ -20,5 +20,5 @@ The Federal Water Pollution Control Act, referred to in subsec. (a)(B), is act J
 
 The Clean Air Act, referred to in subsec. (a)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “4332(2)(C)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "4332(2)(C)".</i>
 

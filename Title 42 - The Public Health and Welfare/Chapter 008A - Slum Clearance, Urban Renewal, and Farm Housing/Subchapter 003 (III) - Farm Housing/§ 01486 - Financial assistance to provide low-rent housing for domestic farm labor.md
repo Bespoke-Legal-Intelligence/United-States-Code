@@ -42,13 +42,13 @@ All laborers and mechanics employed by contractors or subcontractors on projects
 
 As used in this section—
 
-&emsp;(1) the term “low-rent housing” means rental housing within the financial reach of families of low income consisting of (A) new structures (including household furnishings) suitable for dwelling use by domestic farm labor, and (B) existing structures (including household furnishings) which can be made suitable for dwelling use by domestic farm labor by rehabilitation, alteration, conversion, or improvement;
+&emsp;(1) the term "low-rent housing" means rental housing within the financial reach of families of low income consisting of (A) new structures (including household furnishings) suitable for dwelling use by domestic farm labor, and (B) existing structures (including household furnishings) which can be made suitable for dwelling use by domestic farm labor by rehabilitation, alteration, conversion, or improvement;
 
-&emsp;(2) the terms “related facilities” and “domestic farm labor” shall have the meaning assigned to them in section 1484(f) of this title;
+&emsp;(2) the terms "related facilities" and "domestic farm labor" shall have the meaning assigned to them in section 1484(f) of this title;
 
-&emsp;(3) the term “development cost” shall have the meaning assigned to it in section 1485(d)(4) <sup>1</sup> of this title; and
+&emsp;(3) the term "development cost" shall have the meaning assigned to it in section 1485(d)(4) <sup>1</sup> of this title; and
 
-&emsp;(4) the term “domestic farm labor” has the meaning given such term in section 1484(f)(3) of this title.
+&emsp;(4) the term "domestic farm labor" has the meaning given such term in section 1484(f)(3) of this title.
 
 #### (h) Migrant farmworker housing
 
@@ -78,7 +78,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;The Secretary may provide the following assistance for housing under this subsection:
 
-&emsp;&emsp;&emsp;(i) An advance, in an amount not to exceed $400,000, of the cost of acquisition, substantial rehabilitation, or acquisition and rehabilitation of an existing structure or construction of a new structure for use in the provision of housing under this subsection. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for an advance under this subparagraph if the structure was not used for the purposes under this subsection prior to the receipt of assistance.
+&emsp;&emsp;&emsp;(i) An advance, in an amount not to exceed $400,000, of the cost of acquisition, substantial rehabilitation, or acquisitionand rehabilitation of an existing structure or construction of a new structure for use in the provision of housing under this subsection. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for an advance under this subparagraph if the structure was not used for the purposes under this subsection prior to the receipt of assistance.
 
 &emsp;&emsp;&emsp;(ii) A grant, in an amount not to exceed $400,000, for moderate rehabilitation of an existing structure for use in the provision of housing under this subsection.
 
@@ -160,19 +160,19 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;For purposes of this subsection:
 
-&emsp;&emsp;(A) The term “applicant” means a State, political subdivision thereof, Indian tribe, any private nonprofit organization incorporated within the State that has applied for a grant under this subsection.
+&emsp;&emsp;(A) The term "applicant" means a State, political subdivision thereof, Indian tribe, any private nonprofit organization incorporated within the State that has applied for a grant under this subsection.
 
-&emsp;&emsp;(B) The term “homeless individual” has the same meaning given the term under section 11302 of this title.
+&emsp;&emsp;(B) The term "homeless individual" has the same meaning given the term under section 11302 of this title.
 
-&emsp;&emsp;(C) The term “migrant farmworker”—
+&emsp;&emsp;(C) The term "migrant farmworker"—
 
 &emsp;&emsp;&emsp;(i) means any person (and the family of such person) who (I) receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities, the handling of such commodities in the unprocessed stage, or the processing of such commodities, without respect to the source of employment, and (II) establishes residence in a location on a seasonal or temporary basis, in an attempt to receive an income as described in subclause (I); and
 
 &emsp;&emsp;&emsp;(ii) includes any person (and the family of such person) who is retired or disabled, but who met the requirements of clause (i) at the time of retirement or becoming disabled.
 
-&emsp;&emsp;(D) The term “operating costs” means expenses incurred by a recipient providing housing under this subsection with respect to the administration, maintenance, repair, and security of such housing and utilities, fuel, furnishings, and equipment for such housing.
+&emsp;&emsp;(D) The term "operating costs" means expenses incurred by a recipient providing housing under this subsection with respect to the administration, maintenance, repair, and security of such housing and utilities, fuel, furnishings, and equipment for such housing.
 
-(July 15, 1949, ch. 338, title V, §516, as added Pub. L. 88–560, title V, §503(a), Sept. 2, 1964, 78 Stat. 796; amended Pub. L. 91–609, title VIII, §801(c),\(d), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 95–557, title V, §505, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §509, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §507(d), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title I \[title V, §513\], Nov. 30, 1983, 97 Stat. 1247; Pub. L. 100–242, title III, §305(b), Feb. 5, 1988, 101 Stat. 1895; Pub. L. 100–628, title X, §1043(b), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §714(a), Nov. 28, 1990, 104 Stat. 4292; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(July 15, 1949, ch. 338, title V, §516, as added Pub. L. 88–560, title V, §503(a), Sept. 2, 1964, 78 Stat. 796; amended Pub. L. 91–609, title VIII, §801(c), (d), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 95–557, title V, §505, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §509, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §507(d), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title I \[title V, §513\], Nov. 30, 1983, 97 Stat. 1247; Pub. L. 100–242, title III, §305(b), Feb. 5, 1988, 101 Stat. 1895; Pub. L. 100–628, title X, §1043(b), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §714(a), Nov. 28, 1990, 104 Stat. 4292; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
@@ -182,7 +182,7 @@ Section 1485(d)(4) of this title, referred to in subsec. (g)(3), was redesignate
 
 #### Codification
 
-In subsec. (f), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (f), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)" and "section 3145 of title 40" substituted for "section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Subsec. (k)(6) of this section, which required the Secretary to submit an annual report to Congress summarizing the activities carried out under subsec. (k) and setting forth the findings, conclusions, and recommendations of the Secretary as a result of the activities, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 18 on page 103 of House Document No. 103–7.
 
@@ -202,17 +202,17 @@ Subsec. (j). Pub. L. 100–628 added subsec. (j).
 
 <b>1979</b>—Subsec. (h). Pub. L. 96–153 added subsec. (h).
 
-<b>1978</b>—Subsec. (e). Pub. L. 95–557 inserted “The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) of this section over any of the others so listed”.
+<b>1978</b>—Subsec. (e). Pub. L. 95–557 inserted "The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) of this section over any of the others so listed".
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–609, §801(d)(1), authorized financial assistance for broad-based nonprofit organizations incorporated within the State and nonprofit organizations of farmworkers incorporated within the State and provided for low-rent housing and related facilities “(which may be located within the State)”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–609, §801(d)(1), authorized financial assistance for broad-based nonprofit organizations incorporated within the State and nonprofit organizations of farmworkers incorporated within the State and provided for low-rent housing and related facilities "(which may be located within the State)".
 
-Subsec. (a)(2). Pub. L. 91–609, §801(d)(2), substituted “10 per centum” for “one-third”.
+Subsec. (a)(2). Pub. L. 91–609, §801(d)(2), substituted "10 per centum" for "one-third".
 
-Subsec. (a)(3). Pub. L. 91–609, §801(d)(3), inserted “, and such housing and facilities shall be durable and suitable for year-around occupancy or use, unless the Secretary finds that there is no need for such year-around occupancy or use in that area;”.
+Subsec. (a)(3). Pub. L. 91–609, §801(d)(3), inserted ", and such housing and facilities shall be durable and suitable for year-around occupancy or use, unless the Secretary finds that there is no need for such year-around occupancy or use in that area;".
 
-Subsec. (b). Pub. L. 91–609, §801(d)(4), substituted “90 per centum” for “two-thirds”.
+Subsec. (b). Pub. L. 91–609, §801(d)(4), substituted "90 per centum" for "two-thirds".
 
-Subsec. (g)(1). Pub. L. 91–609, §801(c), substituted “structures (including household furnishings)” for “structures” in cls. (A) and (B).
+Subsec. (g)(1). Pub. L. 91–609, §801(c), substituted "structures (including household furnishings)" for "structures" in cls. (A) and (B).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

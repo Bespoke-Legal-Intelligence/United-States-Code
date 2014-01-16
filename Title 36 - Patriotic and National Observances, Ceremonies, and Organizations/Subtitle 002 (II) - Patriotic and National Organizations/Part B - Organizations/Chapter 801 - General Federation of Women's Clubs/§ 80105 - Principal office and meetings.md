@@ -32,5 +32,5 @@ Mar. 3, 1901, ch. 860, §3 (last sentence), 31 Stat. 1439.
 
 Mar. 3, 1901, ch. 860, §4, as added Apr. 28, 1904, ch. 1790, 33 Stat. 542; June 7, 1934, ch. 425, 48 Stat. 925.
 
-In subsection (b), the word “may” is substituted for “be, and it is hereby, authorized to”, and the words “as it from time to time may deem best” are omitted, to eliminate unnecessary words.
+In subsection (b), the word "may" is substituted for "be, and it is hereby, authorized to", and the words "as it from time to time may deem best" are omitted, to eliminate unnecessary words.
 

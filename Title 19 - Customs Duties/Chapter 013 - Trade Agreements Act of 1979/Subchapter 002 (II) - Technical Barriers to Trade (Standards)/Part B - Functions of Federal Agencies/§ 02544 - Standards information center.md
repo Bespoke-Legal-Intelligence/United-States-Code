@@ -42,9 +42,9 @@ The standards information center shall—
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–295 struck out comma after “procedures,” in two places.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–295 struck out comma after "procedures," in two places.
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–465, §351(d), inserted “(A)” after “relating to”, substituted “technical regulations, conformity assessment procedures,” for “certification systems” and “such standards, technical regulations, conformity assessment procedures,” for “such standards, systems”, and inserted “and” and cl. (B) before semicolon at end.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–465, §351(d), inserted "(A)" after "relating to", substituted "technical regulations, conformity assessment procedures," for "certification systems" and "such standards, technical regulations, conformity assessment procedures," for "such standards, systems", and inserted "and" and cl. (B) before semicolon at end.
 
 Subsec. (c). Pub. L. 103–465, §431(a), added subsec. (c).
 

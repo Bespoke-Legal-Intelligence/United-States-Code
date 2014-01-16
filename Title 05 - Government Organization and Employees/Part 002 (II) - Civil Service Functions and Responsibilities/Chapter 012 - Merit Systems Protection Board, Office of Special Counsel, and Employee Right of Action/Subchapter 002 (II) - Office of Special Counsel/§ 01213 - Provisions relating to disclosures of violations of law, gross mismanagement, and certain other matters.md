@@ -68,7 +68,7 @@
 
 &emsp;(2) the agency shall notify the Office of Personnel Management and the Office of Management and Budget of the referral.
 
-(g)(1) If the Special Counsel receives information of a type described in subsection (a) from an individual other than an individual described in subparagraph (A) or (B) of subsection (c)(2), the Special Counsel may transmit the information to the head of the agency which the information concerns. The head of such agency shall, within a reasonable time after the information is transmitted, inform the Special Counsel in writing of what action has been or is being taken and when such action shall be completed. The Special Counsel shall inform the individual of the report of the agency head.
+(g)(1) If the Special Counsel receives information of a type described in subsection (a) from an individual other than an individual described in subparagraph (A) or (B) of subsection (c)(2), the Special Counsel may transmit the information to the head of the agency which the information concerns. The head of such agency shall, within a reasonable time after the informationis transmitted, inform the Special Counsel in writing of what action has been or is being taken and when such action shall be completed. The Special Counsel shall inform the individual of the report of the agency head.
 
 (2) If the Special Counsel receives information of a type described in subsection (a) from an individual described in subparagraph (A) or (B) of subsection (c)(2), but does not make a positive determination under subsection (b), the Special Counsel may transmit the information to the head of the agency which the information concerns, except that the information may not be transmitted to the head of the agency without the consent of the individual. The head of such agency shall, within a reasonable time after the information is transmitted, inform the Special Counsel in writing of what action has been or is being taken and when such action will be completed. The Special Counsel shall inform the individual of the report of the agency head.
 
@@ -94,7 +94,7 @@
 
 <b>2002</b>—Subsec. (g)(1). Pub. L. 107–304, §3(1), struck out at end “If the Special Counsel does not transmit the information to the head of the agency, the Special Counsel shall return any documents and other matter provided by the individual who made the disclosure.”
 
-Subsec. (g)(3). Pub. L. 107–304, §3(2), added par. (3) and struck out former par. (3) which read as follows: “If theSpecial Counsel does not transmit the information to the head of the agency under paragraph (2), the Special Counsel shall—
+Subsec. (g)(3). Pub. L. 107–304, §3(2), added par. (3) and struck out former par. (3) which read as follows: “If the Special Counsel does not transmit the information to the head of the agency under paragraph (2), the Special Counsel shall—
 
 &emsp;“(A) return any documents and other matter provided by the individual who made the disclosure; and
 

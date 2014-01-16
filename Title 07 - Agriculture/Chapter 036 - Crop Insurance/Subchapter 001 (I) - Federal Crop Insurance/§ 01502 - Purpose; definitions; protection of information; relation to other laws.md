@@ -10,39 +10,39 @@ As used in this subchapter:
 
 #### (1) Additional coverage
 
-&emsp;The term “additional coverage” means a plan of crop insurance coverage providing a level of coverage greater than the level available under catastrophic risk protection.
+&emsp;The term "additional coverage" means a plan of crop insurance coverage providing a level of coverage greater than the level available under catastrophic risk protection.
 
 #### (2) Approved insurance provider
 
-&emsp;The term “approved insurance provider” means a private insurance provider that has been approved by the Corporation to provide insurance coverage to producers participating in the Federal crop insurance program established under this subchapter.
+&emsp;The term "approved insurance provider" means a private insurance provider that has been approved by the Corporation to provide insurance coverage to producers participating in the Federal crop insurance program established under this subchapter.
 
 #### (3) Board
 
-&emsp;The term “Board” means the Board of Directors of the Corporation established under section 1505(a) of this title.
+&emsp;The term "Board" means the Board of Directors of the Corporation established under section 1505(a) of this title.
 
 #### (4) Corporation
 
-&emsp;The term “Corporation” means the Federal Crop Insurance Corporation established under section 1503 of this title.
+&emsp;The term "Corporation" means the Federal Crop Insurance Corporation established under section 1503 of this title.
 
 #### (5) Department
 
-&emsp;The term “Department” means the United States Department of Agriculture.
+&emsp;The term "Department" means the United States Department of Agriculture.
 
 #### (6) Loss ratio
 
-&emsp;The term “loss ratio” means the ratio of all sums paid by the Corporation as indemnities under any eligible crop insurance policy to that portion of the premium designated for anticipated losses and a reasonable reserve, other than that portion of the premium designated for operating and administrative expenses.
+&emsp;The term "loss ratio" means the ratio of all sums paid by the Corporation as indemnities under any eligible crop insurance policy to that portion of the premium designated for anticipated losses and a reasonable reserve, other than that portion of the premium designated for operating and administrative expenses.
 
 #### (7) Organic crop
 
-&emsp;The term “organic crop” means an agricultural commodity that is organically produced consistent with section 6502 of this title.
+&emsp;The term "organic crop" means an agricultural commodity that is organically produced consistent with section 6502 of this title.
 
 #### (8) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 #### (9) Transitional yield
 
-&emsp;The term “transitional yield” means the maximum average production per acre or equivalent measure that is assigned to acreage for a crop year by the Corporation in accordance with the regulations of the Corporation whenever the producer fails—
+&emsp;The term "transitional yield" means the maximum average production per acre or equivalent measure that is assigned to acreage for a crop year by the Corporation in accordance with the regulations of the Corporation whenever the producer fails—
 
 &emsp;&emsp;(A) to certify that acceptable documentation of production and acreage for the crop year is in the possession of the producer; or
 
@@ -76,7 +76,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(A) be subject to the jurisdiction of the Commodity Futures Trading Commission or the Securities and Exchange Commission; or
 
-&emsp;&emsp;(B) be considered to be accounts, agreements (including any transaction that is of the character of, or is commonly known to the trade as, an “option”, “privilege”, “indemnity”, “bid”, “offer”, “put”, “call”, “advance guaranty”, or “decline guaranty”), or transactions involving contracts of sale of a commodity for future delivery, traded or executed on a contract market for the purposes of the Commodity Exchange Act (7 U.S.C. 1 et seq.).
+&emsp;&emsp;(B) be considered to be accounts, agreements (including any transaction that is of the character of, or is commonly known to the trade as, an "option", "privilege", "indemnity", "bid", "offer", "put", "call", "advance guaranty", or "decline guaranty"), or transactions involving contracts of sale of a commodity for future delivery, traded or executed on a contract market for the purposes of the Commodity Exchange Act (7 U.S.C. 1 et seq.).
 
 #### (2) Effect on CFTC and Commodity Exchange Act
 
@@ -94,7 +94,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
+<b>2008</b>—Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter" wherever appearing.
 
 Subsec. (b)(7) to (9). Pub. L. 110–246, §12001, added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
@@ -102,11 +102,11 @@ Subsec. (b)(7) to (9). Pub. L. 110–246, §12001, added par. (7) and redesignat
 
 Subsec. (d). Pub. L. 106–224, §141, added subsec. (d).
 
-<b>1994</b>—Pub. L. 103–354 substituted “Purpose and definitions” for “Declaration of purpose” in section catchline, designated existing text as subsec. (a) and added heading, and added subsec. (b).
+<b>1994</b>—Pub. L. 103–354 substituted "Purpose and definitions" for "Declaration of purpose" in section catchline, designated existing text as subsec. (a) and added heading, and added subsec. (b).
 
 <b>1947</b>—Act Aug. 1, 1947, amended section generally, restating purpose of chapter to improve all agriculture by crop insurance instead of being limited only to wheat.
 
-<b>1941</b>—Act June 21, 1941, substituted “crop” for “wheat-crop” and “agricultural commodities” for “wheat”.
+<b>1941</b>—Act June 21, 1941, substituted "crop" for "wheat-crop" and "agricultural commodities" for "wheat".
 
 #### Effective Date of 2008 Amendment
 
@@ -114,5 +114,5 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–354, title I, §120, Oct. 13, 1994, 108 Stat. 3208, provided that: “Except as otherwise provided in this title, this title \[enacting sections 1433f, 1515, 1521, and 2008f of this title, amending this section and sections 1441–2, 1444–2, 1444f, 1445b–3a, 1503 to 1509, 1511, 1513, 1516, and 1518 to 1520 of this title, sections 901 and 902 of Title 2, The Congress, and section 1014 of Title 18, Crimes and Criminal Procedure, repealing sections 1446i and 1508a of this title, enacting provisions set out as notes under sections 1501, 1506, and 1508 of this title and sections 901 and 902 of Title 2, and repealing provisions set out as a note under section 1421 of this title\] and the amendments made by this title shall become effective on the date of enactment of this Act \[Oct. 13, 1994\] and shall apply to the provision of crop insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with the 1995 crop year. With respect to the 1994 crop year, the Federal Crop Insurance Act (as in effect on the day before the date of enactment of this Act) shall continue to apply.”
+Pub. L. 103–354, title I, §120, Oct. 13, 1994, 108 Stat. 3208, provided that: "Except as otherwise provided in this title, this title \[enacting sections 1433f, 1515, 1521, and 2008f of this title, amending this section and sections 1441–2, 1444–2, 1444f, 1445b–3a, 1503 to 1509, 1511, 1513, 1516, and 1518 to 1520 of this title, sections 901 and 902 of Title 2, The Congress, and section 1014 of Title 18, Crimes and Criminal Procedure, repealing sections 1446i and 1508a of this title, enacting provisions set out as notes under sections 1501, 1506, and 1508 of this title and sections 901 and 902 of Title 2, and repealing provisions set out as a note under section 1421 of this title\] and the amendments made by this title shall become effective on the date of enactment of this Act \[Oct. 13, 1994\] and shall apply to the provision of crop insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with the 1995 crop year. With respect to the 1994 crop year, the Federal Crop Insurance Act (as in effect on the day before the date of enactment of this Act) shall continue to apply."
 

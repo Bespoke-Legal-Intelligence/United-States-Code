@@ -62,7 +62,7 @@ Upon the request of a majority of the Congressional Oversight Group, the Preside
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(4). Pub. L. 109–280 substituted “paragraphs” for “paragraph” in two places.
+<b>2006</b>—Subsec. (a)(4). Pub. L. 109–280 substituted "paragraphs" for "paragraph" in two places.
 
 #### Effective Date of 2006 Amendment
 

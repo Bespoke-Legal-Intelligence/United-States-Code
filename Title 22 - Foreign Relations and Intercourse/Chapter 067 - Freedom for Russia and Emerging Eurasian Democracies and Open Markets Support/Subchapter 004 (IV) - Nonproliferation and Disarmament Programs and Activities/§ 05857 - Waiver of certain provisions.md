@@ -10,7 +10,7 @@ Subsection (a) of this section does not apply with respect to—
 
 &emsp;(1) this subchapter; and
 
-&emsp;(2) section 1341 of title 31 (commonly referred to as the “Anti-Deficiency Act”), the Congressional Budget and Impoundment Control Act of 1974, the Balanced Budget and Emergency Deficit Control Act of 1985, and the Budget Enforcement Act of 1990.
+&emsp;(2) section 1341 of title 31 (commonly referred to as the "Anti-Deficiency Act"), the Congressional Budget and Impoundment Control Act of 1974, the Balanced Budget and Emergency Deficit Control Act of 1985, and the Budget Enforcement Act of 1990.
 
 (Pub. L. 102–511, title V, §507, Oct. 24, 1992, 106 Stat. 3341.)
 

@@ -14,7 +14,7 @@ The report required under subsection (a) shall include—
 
 #### (c) Availability to testify
 
-The members of the Board and employees of the First Responder Network Authority shall beavailable to testify before the appropriate committees of the Congress with respect to—
+The members of the Board and employees of the First Responder Network Authority shall be available to testify before the appropriate committees of the Congress with respect to—
 
 &emsp;(1) the report required under subsection (a);
 

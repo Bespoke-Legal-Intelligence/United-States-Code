@@ -46,7 +46,7 @@
 | :--- | ---: |
 | [13741\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20A%20-%20Ounce%20of%20Prevention%20Council/%C2%A7%2013741%20-%20Ounce%20of%20Prevention%20Council.md) | Ounce of Prevention Council. |
 | [13742\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20A%20-%20Ounce%20of%20Prevention%20Council/%C2%A7%2013742%20-%20Ounce%20of%20prevention%20grant%20program.md) | Ounce of prevention grant program. |
-| [13743\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20A%20-%20Ounce%20of%20Prevention%20Council/%C2%A7%2013743%20-%20%E2%80%9CIndian%20tribe%E2%80%9D%20defined.md) | “Indian tribe” defined. |
+| [13743\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20A%20-%20Ounce%20of%20Prevention%20Council/%C2%A7%2013743%20-%20Indian%20tribe%20defined.md) | "Indian tribe" defined. |
 | [13744\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20A%20-%20Ounce%20of%20Prevention%20Council/%C2%A7%2013744%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -254,15 +254,15 @@
 
 |  |  |
 | :--- | ---: |
-| [13973\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20B%20-%20Safe%20Homes%20for%20Women/Subpart%20003a%20-%20Research%20on%20Effective%20Interventions%20to%20Address%20Violence%20Against%20Women/%C2%A7%2013973%20-%20Research%20on%20effective%20interventions%20in%20the%20health%20care%20setting.md) | Research on effective interventions in the health care setting. |
+| [13973\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20B%20-%20Safe%20Homes%20for%20Women/Subpart%20003a%20-%20Research%20on%20Effective%20Interventions%20to%20Address%20Violence%20Against%20Women/%C2%A7%2013973%20-%20Repealed.%20Pub.%20L.%20113%E2%80%934%2C%20title%20V%2C%20%C2%A7501%28b%29%281%29%2C%20Mar.%207%2C%202013%2C%20127%20Stat.%20101.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart 4—transitional housing assistance grants for child victims of domestic violence, stalking, or sexual assault
+#### subpart 4—transitional housing assistance grants for victims of domestic violence, dating violence, sexual assault, or stalking
 
 |  |  |
 | :--- | ---: |
-| [13975\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20B%20-%20Safe%20Homes%20for%20Women/Subpart%20004%20-%20Transitional%20Housing%20Assistance%20Grants%20for%20Child%20Victims%20of%20Domestic%20Violence%2C%20Stalking%2C%20or%20Sexual%20Assault/%C2%A7%2013975%20-%20Transitional%20housing%20assistance%20grants%20for%20child%20victims%20of%20domestic%20violence%2C%20stalking%2C%20or%20sexual%20assault.md) | Transitional housing assistance grants for child victims of domestic violence, stalking, or sexual assault. |
+| [13975\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20B%20-%20Safe%20Homes%20for%20Women/Subpart%20004%20-%20Transitional%20Housing%20Assistance%20Grants%20for%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20or%20Stalking/%C2%A7%2013975%20-%20Transitional%20housing%20assistance%20grants%20for%20victims%20of%20domestic%20violence%2C%20dating%20violence%2C%20sexual%20assault%2C%20or%20stalking.md) | Transitional housing assistance grants for victims of domestic violence, dating violence, sexual assault, or stalking. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -326,13 +326,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part G—Elder Abuse, Neglect, and Exploitation, Including Domestic Violence and Sexual Assault Against Older or Disabled Individuals
+#### Part G—Enhanced Training and Services To End Abuse Later in Life
 
 |  |  |
 | :--- | ---: |
-| [14041\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20G%20-%20Elder%20Abuse%2C%20Neglect%2C%20and%20Exploitation%2C%20Including%20Domestic%20Violence%20and%20Sexual%20Assault%20Against%20Older%20or%20Disabled%20Individuals/%C2%A7%2014041%20-%20Definitions.md) | Definitions. |
-| [14041a.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20G%20-%20Elder%20Abuse%2C%20Neglect%2C%20and%20Exploitation%2C%20Including%20Domestic%20Violence%20and%20Sexual%20Assault%20Against%20Older%20or%20Disabled%20Individuals/%C2%A7%2014041a%20-%20Enhanced%20training%20and%20services%20to%20end%20violence%20against%20and%20abuse%20of%20women%20later%20in%20life.md) | Enhanced training and services to end violence against and abuse of women later in life. |
-| [14041b.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20G%20-%20Elder%20Abuse%2C%20Neglect%2C%20and%20Exploitation%2C%20Including%20Domestic%20Violence%20and%20Sexual%20Assault%20Against%20Older%20or%20Disabled%20Individuals/%C2%A7%2014041b%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [14041\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20G%20-%20Enhanced%20Training%20and%20Services%20to%20End%20Abuse%20Later%20in%20Life/%C2%A7%2014041%20-%20Enhanced%20training%20and%20services%20to%20end%20abuse%20in%20later%20life.md) | Enhanced training and services to end abuse in later life. |
+| 14041a, 14041b. Omitted. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -346,13 +345,9 @@
 
 #### Part I—Violence Against Women Act Court Training and Improvements
 
-|  |  |
-| :--- | ---: |
-| [14043\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20I%20-%20Violence%20Against%20Women%20Act%20Court%20Training%20and%20Improvements/%C2%A7%2014043%20-%20Purpose.md) | Purpose. |
-| [14043a.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20I%20-%20Violence%20Against%20Women%20Act%20Court%20Training%20and%20Improvements/%C2%A7%2014043a%20-%20Grant%20requirements.md) | Grant requirements. |
-| 14043a–1. | National education curricula. |
-| 14043a–2. | Tribal curricula. |
-| 14043a–3. | Authorization of appropriations. |
+|  |
+| :--- |
+| 14043 to 14043a–3. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -372,10 +367,8 @@
 
 |  |  |
 | :--- | ---: |
-| [14043c.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20K%20-%20Services%2C%20Education%2C%20Protection%20and%20Justice%20for%20Young%20Victims%20of%20Violence/%C2%A7%2014043c%20-%20Services%20to%20advocate%20for%20and%20respond%20to%20youth.md) | Services to advocate for and respond to youth. |
-| 14043c–1. | Access to justice for youth. |
-| 14043c–2. | Grants for training and collaboration on the intersection between domestic violence and child maltreatment. |
-| 14043c–3. | Grants to combat domestic violence, dating violence, sexual assault, and stalking in middle and high schools. |
+| [14043c.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20K%20-%20Services%2C%20Education%2C%20Protection%20and%20Justice%20for%20Young%20Victims%20of%20Violence/%C2%A7%2014043c%20-%20Creating%20hope%20through%20outreach%2C%20options%2C%20services%2C%20and%20education%20for%20children%20and%20youth%20%28CHOOSE%20Children%20%26%20Youth%29.md) | Creating hope through outreach, options, services, and education for children and youth ("CHOOSE Children \& Youth"). |
+| 14043c–1 to 14043c–3. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -385,21 +378,30 @@
 | :--- | ---: |
 | [14043d.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20L%20-%20Strengthening%20America%27s%20Families%20by%20Preventing%20Violence%20Against%20Women%20and%20Children/%C2%A7%2014043d%20-%20Findings.md) | Findings. |
 | 14043d–1. | Purpose. |
-| 14043d–2. | Grants to assist children and youth exposed to violence. |
-| 14043d–3. | Development of curricula and pilot programs for home visitation projects. |
-| 14043d–4. | Engaging men and youth in preventing domestic violence, dating violence, sexual assault, and stalking. |
+| 14043d–2. | Saving money and reducing tragedies through prevention (SMART Prevention). |
+| 14043d–3, 14043d–4. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part M—Addressing the Housing Needs of Victims of Domestic Violence, Dating Violence, Sexual Assault, and Stalking
 
+#### subpart 1—grant programs
+
 |  |  |
 | :--- | ---: |
-| [14043e.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20M%20-%20Addressing%20the%20Housing%20Needs%20of%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2014043e%20-%20Findings.md) | Findings. |
+| [14043e.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20M%20-%20Addressing%20the%20Housing%20Needs%20of%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/Subpart%20001%20-%20Grant%20Programs/%C2%A7%2014043e%20-%20Findings.md) | Findings. |
 | 14043e–1. | Purpose. |
 | 14043e–2. | Definitions. |
 | 14043e–3. | Collaborative grants to increase the long-term stability of victims. |
 | 14043e–4. | Grants to combat violence against women in public and assisted housing. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 2—housing rights
+
+|  |  |
+| :--- | ---: |
+| 14043e–11. | Housing protections for victims of domestic violence, dating violence, sexual assault, and stalking. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -424,7 +426,7 @@
 |  |  |
 | :--- | ---: |
 | [14044\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044%20-%20Prevention%20of%20domestic%20trafficking%20in%20persons.md) | Prevention of domestic trafficking in persons. |
-| [14044a.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044a%20-%20Establishment%20of%20grant%20program%20to%20develop%2C%20expand%2C%20and%20strengthen%20assistance%20programs%20for%20certain%20persons%20subject%20to%20trafficking.md) | Establishment of grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking. |
+| [14044a.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044a%20-%20Establishment%20of%20a%20grant%20program%20to%20develop%2C%20expand%2C%20and%20strengthen%20assistance%20programs%20for%20certain%20persons%20subject%20to%20trafficking.md) | Establishment of a grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking. |
 | [14044b.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044b%20-%20Protection%20of%20juvenile%20victims%20of%20trafficking%20in%20persons.md) | Protection of juvenile victims of trafficking in persons. |
 | [14044c.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044c%20-%20Enhancing%20State%20and%20local%20efforts%20to%20combat%20trafficking%20in%20persons.md) | Enhancing State and local efforts to combat trafficking in persons. |
 | [14044d.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044d%20-%20Senior%20Policy%20Operating%20Group.md) | Senior Policy Operating Group |
@@ -437,10 +439,10 @@
 
 |  |  |
 | :--- | ---: |
-| [14045\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Miscellaneous%20Authorities/%C2%A7%2014045%20-%20Grants%20for%20outreach%20to%20underserved%20populations.md) | Grants for outreach to underserved populations. |
-| [14045a.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Miscellaneous%20Authorities/%C2%A7%2014045a%20-%20Enhancing%20culturally%20and%20linguistically%20specific%20services%20for%20victims%20of%20domestic%20violence%2C%20dating%20violence%2C%20sexual%20assault%2C%20and%20stalking.md) | Enhancing culturally and linguistically specific services for victims of domestic violence, dating violence, sexual assault, and stalking. |
+| [14045\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Miscellaneous%20Authorities/%C2%A7%2014045%20-%20Grants%20for%20outreach%20and%20services%20to%20underserved%20populations.md) | Grants for outreach and services to underserved populations. |
+| [14045a.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Miscellaneous%20Authorities/%C2%A7%2014045a%20-%20Enhancing%20culturally%20specific%20services%20for%20victims%20of%20domestic%20violence%2C%20dating%20violence%2C%20sexual%20assault%2C%20and%20stalking.md) | Enhancing culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking. |
 | [14045b.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Miscellaneous%20Authorities/%C2%A7%2014045b%20-%20Grants%20to%20combat%20violent%20crimes%20on%20campuses.md) | Grants to combat violent crimes on campuses. |
-| [14045c.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Miscellaneous%20Authorities/%C2%A7%2014045c%20-%20Public%20awareness%20campaign.md) | Public awareness campaign. |
+| [14045c.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Miscellaneous%20Authorities/%C2%A7%2014045c%20-%20Repealed.%20Pub.%20L.%20113%E2%80%934%2C%20title%20IV%2C%20%C2%A7402%28b%29%282%29%2C%20Mar.%207%2C%202013%2C%20127%20Stat.%2095.md) | Repealed. |
 | [14045d.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Miscellaneous%20Authorities/%C2%A7%2014045d%20-%20Consultation.md) | Consultation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -449,7 +451,7 @@
 
 |  |  |
 | :--- | ---: |
-| [14051\.](Subchapter%20004%20%28IV%29%20-%20Drug%20Control/%C2%A7%2014051%20-%20Increased%20penalties%20for%20drug-dealing%20in%20%E2%80%9Cdrug-free%E2%80%9D%20zones.md) | Increased penalties for drug-dealing in “drug-free” zones. |
+| [14051\.](Subchapter%20004%20%28IV%29%20-%20Drug%20Control/%C2%A7%2014051%20-%20Increased%20penalties%20for%20drug-dealing%20in%20drug-free%20zones.md) | Increased penalties for drug-dealing in "drug-free" zones. |
 | [14052\.](Subchapter%20004%20%28IV%29%20-%20Drug%20Control/%C2%A7%2014052%20-%20Enhanced%20penalties%20for%20illegal%20drug%20use%20in%20Federal%20prisons%20and%20for%20smuggling%20drugs%20into%20Federal%20prisons.md) | Enhanced penalties for illegal drug use in Federal prisons and for smuggling drugs into Federal prisons. |
 | [14053\.](Subchapter%20004%20%28IV%29%20-%20Drug%20Control/%C2%A7%2014053%20-%20Violent%20crime%20and%20drug%20emergency%20areas.md) | Violent crime and drug emergency areas. |
 

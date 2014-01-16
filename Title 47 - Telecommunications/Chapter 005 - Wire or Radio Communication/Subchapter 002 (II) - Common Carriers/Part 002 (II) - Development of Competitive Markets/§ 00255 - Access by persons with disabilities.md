@@ -6,11 +6,11 @@ As used in this section—
 
 #### (1) Disability
 
-&emsp;The term “disability” has the meaning given to it by section 12102(2)(A) <sup>1</sup> of title 42.
+&emsp;The term "disability" has the meaning given to it by section 12102(2)(A) <sup>1</sup> of title 42.
 
 #### (2) Readily achievable
 
-&emsp;The term “readily achievable” has the meaning given to it by section 12181(9) of title 42.
+&emsp;The term "readily achievable" has the meaning given to it by section 12181(9) of title 42.
 
 #### (b) Manufacturing
 

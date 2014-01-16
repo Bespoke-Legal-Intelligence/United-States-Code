@@ -14,7 +14,7 @@ No provision of this chapter shall be construed as affecting the authority of an
 
 <b>1994</b>—Pub. L. 103–328 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1987</b>—Pub. L. 100–86 substituted “No provision of this chapter shall” for “The enactment by the Congress of this chapter shall not” and inserted “companies,” before “banks,”.
+<b>1987</b>—Pub. L. 100–86 substituted "No provision of this chapter shall" for "The enactment by the Congress of this chapter shall not" and inserted "companies," before "banks,".
 
 #### Effective Date of 1994 Amendment
 

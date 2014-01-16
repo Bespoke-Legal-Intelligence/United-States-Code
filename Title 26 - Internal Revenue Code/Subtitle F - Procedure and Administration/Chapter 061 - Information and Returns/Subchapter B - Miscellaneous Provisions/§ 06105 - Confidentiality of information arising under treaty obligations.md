@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (1) Tax convention information
 
-&emsp;The term “tax convention information” means any—
+&emsp;The term "tax convention information" means any—
 
 &emsp;&emsp;(A) agreement entered into with the competent authority of one or more foreign governments pursuant to a tax convention,
 
@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (2) Tax convention
 
-&emsp;The term “tax convention” means—
+&emsp;The term "tax convention" means—
 
 &emsp;&emsp;(A) any income tax or gift and estate tax convention, or
 
@@ -54,15 +54,15 @@ A prior section 6105, act Aug. 16, 1954, ch. 736, 68A Stat. 755, authorized the 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–134, §201(c)(9)(A), struck out “or” at end.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–134, §201(c)(9)(A), struck out "or" at end.
 
 Subsec. (b)(3). Pub. L. 107–134, §201(c)(9)(D), added par. (3). Former par. (3) redesignated (4).
 
-Pub. L. 107–134, §201(c)(9)(B), substituted “paragraph (1), (2), or (3)” for “paragraphs (1) or (2)”.
+Pub. L. 107–134, §201(c)(9)(B), substituted "paragraph (1), (2), or (3)" for "paragraphs (1) or (2)".
 
 Subsec. (b)(4). Pub. L. 107–134, §201(c)(9)(C), redesignated par. (3) as (4).
 
-Subsec. (c)(1)(C), (E). Pub. L. 107–147 struck out “any” after subpar. designation.
+Subsec. (c)(1)(C), (E). Pub. L. 107–147 struck out "any" after subpar. designation.
 
 #### Effective Date of 2002 Amendment
 

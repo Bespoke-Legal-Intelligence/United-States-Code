@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The requirements of section 300gg–41 of this title shall not apply with respect to health insurance coverage offered in the individual market in the State so long as a State is found to be implementing, in accordance with this section and consistent with section 300gg–62(b) of this title, an alternative mechanism (in this section referred to as an “acceptable alternative mechanism”)—
+&emsp;The requirements of section 300gg–41 of this title shall not apply with respect to health insurance coverage offered in the individual market in the State so long as a State is found to be implementing, in accordance with this section and consistent with section 300gg–62(b) of this title, an alternative mechanism (in this section referred to as an "acceptable alternative mechanism")—
 
 &emsp;&emsp;(A) under which all eligible individuals are provided a choice of health insurance coverage;
 
@@ -22,7 +22,7 @@
 
 #### (2) Permissible forms of mechanisms
 
-&emsp;A private or public individual health insurance mechanism (such as a health insurance coverage pool or programs, mandatory group conversion policies, guaranteed issue of one or more plans of individual health insurance coverage, or open enrollment by one or more health insurance issuers), or combination of such mechanisms, that is designed to provide access to health benefits for individuals in the individual market in the State in accordance with this section may constitute an acceptable alternative mechanism.
+&emsp;A private or public individual health insurance mechanism (such as a health insurancecoverage pool or programs, mandatory group conversion policies, guaranteed issue of one or more plans of individual health insurance coverage, or open enrollment by one or more health insurance issuers), or combination of such mechanisms, that is designed to provide access to health benefits for individuals in the individual market in the State in accordance with this section may constitute an acceptable alternative mechanism.
 
 #### (b) Application of acceptable alternative mechanisms
 
@@ -82,11 +82,11 @@
 
 #### (1) Adoption of NAIC models
 
-&emsp;The model act referred to in subsection (a)(1)(D)(i) of this section is the Small Employer and Individual Health Insurance Availability Model Act (adopted by the NationalAssociation of Insurance Commissioners on June 3, 1996) insofar as it applies to individual health insurance coverage or the Individual Health Insurance Portability Model Act (also adopted by such Association on such date).
+&emsp;The model act referred to in subsection (a)(1)(D)(i) of this section is the Small Employer and Individual Health Insurance Availability Model Act (adopted by the National Association of Insurance Commissioners on June 3, 1996) insofar as it applies to individual health insurance coverage or the Individual Health Insurance Portability Model Act (also adopted by such Association on such date).
 
 #### (2) Qualified high risk pool
 
-&emsp;For purposes of subsection (a)(1)(D)(ii) of this section, a “qualified high risk pool” described in this paragraph is a high risk pool that—
+&emsp;For purposes of subsection (a)(1)(D)(ii) of this section, a "qualified high risk pool" described in this paragraph is a high risk pool that—
 
 &emsp;&emsp;(A) provides to all eligible individuals health insurance coverage (or comparable coverage) that does not impose any preexisting condition exclusion with respect to such coverage for all eligible individuals, and
 
@@ -104,7 +104,7 @@
 
 #### Codification
 
-August 21, 1996, referred to in subsec. (b)(1)(B)(ii), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–191, which enacted this subchapter, to reflect the probable intent of Congress.
+August 21, 1996, referred to in subsec. (b)(1)(B)(ii), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 104–191, which enacted this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -112,7 +112,7 @@ August 21, 1996, referred to in subsec. (b)(1)(B)(ii), was in the original “th
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–204, title VI, §605(c), Sept. 26, 1996, 110 Stat. 2942, provided that: “The amendments made by this section \[enacting section 300gg–51 of this title and amending this section and sections 300gg–61 and 300gg–62 of this title\] shall apply with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market on or after January 1, 1998.”
+Pub. L. 104–204, title VI, §605(c), Sept. 26, 1996, 110 Stat. 2942, provided that: "The amendments made by this section \[enacting section 300gg–51 of this title and amending this section and sections 300gg–61 and 300gg–62 of this title\] shall apply with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market on or after January 1, 1998."
 
 #### Effective Date
 

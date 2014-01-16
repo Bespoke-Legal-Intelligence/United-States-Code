@@ -2,7 +2,7 @@
 
 #### (a) Dissemination prohibited; rules and regulations; determinations of Secretary prerequisite to issuance of prohibiting regulations or orders; criteria
 
-(1) In addition to any other authority or requirement regarding protection from dissemination of information, and subject to section 552(b)(3) of title 5, the Secretary of Energy (hereinafter in this section referred to as the “Secretary”), with respect to atomic energy defense programs, shall prescribe such regulations, after notice and opportunity for public comment thereon, or issue such orders as may be necessary to prohibit the unauthorized dissemination of unclassified information pertaining to—
+(1) In addition to any other authority or requirement regarding protection from dissemination of information, and subject to section 552(b)(3) of title 5, the Secretary of Energy (hereinafter in this section referred to as the "Secretary"), with respect to atomic energy defense programs, shall prescribe such regulations, after notice and opportunity for public comment thereon, or issue such orders as may be necessary to prohibit the unauthorized dissemination of unclassified information pertaining to—
 
 &emsp;(A) the design of production facilities or utilization facilities;
 
@@ -42,7 +42,7 @@ Any determination by the Secretary concerning the applicability of this section 
 
 <b>2013</b>—Subsec. (e). Pub. L. 112–239 struck out subsec. (e), which related to quarterly reports for interested persons.
 
-<b>1983</b>—Subsec. (a)(1). Pub. L. 97–415, §17(a), inserted “, with respect to atomic energy defense programs,” after “(hereinafter in this section referred to as the ‘Secretary’)”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 97–415, §17(a), inserted ", with respect to atomic energy defense programs," after "(hereinafter in this section referred to as the 'Secretary')".
 
 Subsecs. (d), (e). Pub. L. 97–415, §17(b), added subsecs. (d) and (e).
 

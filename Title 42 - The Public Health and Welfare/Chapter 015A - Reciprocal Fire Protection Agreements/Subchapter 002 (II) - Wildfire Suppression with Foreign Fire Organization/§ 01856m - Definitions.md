@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Assume any and all liability
 
-&emsp;The term “assume any and all liability” means—
+&emsp;The term "assume any and all liability" means—
 
 &emsp;&emsp;(A) the payment of—
 
@@ -16,23 +16,23 @@ In this subchapter:
 
 #### (2) Federal firefighter
 
-&emsp;The term “Federal firefighter” means an individual furnished by the Secretary of Agriculture or the Secretary of the Interior under an agreement entered into under section 1856n of this title.
+&emsp;The term "Federal firefighter" means an individual furnished by the Secretary of Agriculture or the Secretary of the Interior under an agreement entered into under section 1856n of this title.
 
 #### (3) Foreign fire organization
 
-&emsp;The term “foreign fire organization” means any foreign governmental, public, or private entity that has wildfire protection resources.
+&emsp;The term "foreign fire organization" means any foreign governmental, public, or private entity that has wildfire protection resources.
 
 #### (4) Foreign firefighter
 
-&emsp;The term “foreign firefighter” means an individual furnished by a foreign fire organization under an agreement entered into under section 1856n of this title.
+&emsp;The term "foreign firefighter" means an individual furnished by a foreign fire organization under an agreement entered into under section 1856n of this title.
 
 #### (5) Wildfire
 
-&emsp;The term “wildfire” means any forest or range fire.
+&emsp;The term "wildfire" means any forest or range fire.
 
 #### (6) Wildfire protection resources
 
-&emsp;The term “wildfire protection resources” means any personnel, supplies, equipment, or other resources required for wildfire presuppression and suppression activities.
+&emsp;The term "wildfire protection resources" means any personnel, supplies, equipment, or other resources required for wildfire presuppression and suppression activities.
 
 (Pub. L. 100–428, §2, as added Pub. L. 112–74, div. E, title IV, §411(2), Dec. 23, 2011, 125 Stat. 1039.)
 
@@ -42,9 +42,9 @@ A prior section 1856m, Pub. L. 100–428, §2, Sept. 9, 1988, 102 Stat. 1615, re
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–11, §1, Apr. 7, 1989, 103 Stat. 15, provided that: “This Act \[repealing section 1856p of this title\] may be cited as the ‘Wildfire Suppression Assistance Act’.”
+Pub. L. 101–11, §1, Apr. 7, 1989, 103 Stat. 15, provided that: "This Act \[repealing section 1856p of this title\] may be cited as the 'Wildfire Suppression Assistance Act'."
 
 #### Short Title
 
-Pub. L. 100–428, §1, Sept. 9, 1988, 102 Stat. 1615, as amended by Pub. L. 112–74, div. E, title IV, §411(1), Dec. 23, 2011, 125 Stat. 1039, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Emergency Wildfire Suppression Act’.”
+Pub. L. 100–428, §1, Sept. 9, 1988, 102 Stat. 1615, as amended by Pub. L. 112–74, div. E, title IV, §411(1), Dec. 23, 2011, 125 Stat. 1039, provided that: "This Act \[enacting this subchapter\] may be cited as the 'Emergency Wildfire Suppression Act'."
 

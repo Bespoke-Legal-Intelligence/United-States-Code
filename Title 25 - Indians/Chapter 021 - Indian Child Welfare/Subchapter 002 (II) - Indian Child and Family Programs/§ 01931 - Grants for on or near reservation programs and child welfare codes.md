@@ -16,7 +16,7 @@ The Secretary is authorized to make grants to Indian tribes and organizations in
 
 &emsp;(6) education and training of Indians, including tribal court judges and staff, in skills relating to child and family assistance and service programs;
 
-&emsp;(7) a subsidy program under which Indian adoptive children may be provided support comparable to that for which they would be eligible as foster children, taking into account the appropriate State standards of support for maintenance and medical needs; and
+&emsp;(7) a subsidy program under which Indian adoptive children may be provided supportcomparable to that for which they would be eligible as foster children, taking into account the appropriate State standards of support for maintenance and medical needs; and
 
 &emsp;(8) guidance, legal representation, and advice to Indian families involved in tribal, State, or Federal child custody proceedings.
 

@@ -24,7 +24,7 @@
 
 #### (2) Definition of State law
 
-&emsp;For purposes of this subsection, the term “State law” includes—
+&emsp;For purposes of this subsection, the term "State law" includes—
 
 &emsp;&emsp;(A) any law of a political subdivision of a State; and
 
@@ -46,7 +46,7 @@ No person other than the United States—
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (a)(2), was in the original "this Act", meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Effective and Termination Dates
 

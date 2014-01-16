@@ -28,5 +28,5 @@ Repeal effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as
 
 #### Preservation of Existing Law for Coast Guard
 
-Pub. L. 102–190, div. A, title XI, §1125(a), Dec. 5, 1991, 105 Stat. 1505, provided that sections 555 to 565 of this title, as in effect on the day before Feb. 1, 1992, would continue to apply to the Coast Guard on and after that date, prior to repeal by Pub. L. 103–337, div. A, title V, §541(f)(1), Oct. 5, 1994, 108 Stat. 2766.
+Pub. L. 102–190, div. A, title XI, §1125(a), Dec. 5, 1991, 105 Stat. 1505, provided that sections 555 to 565 of thistitle, as in effect on the day before Feb. 1, 1992, would continue to apply to the Coast Guard on and after that date, prior to repeal by Pub. L. 103–337, div. A, title V, §541(f)(1), Oct. 5, 1994, 108 Stat. 2766.
 

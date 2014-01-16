@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “controlled substance” means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) specified by the Secretary of Transportation.
+Definition.—In this section, "controlled substance" means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) specified by the Secretary of Transportation.
 
 (b)
 
@@ -36,7 +36,7 @@ Testing and Laboratory Requirements.—In carrying out this section, the Secreta
 
 &emsp;(4) provide that all tests indicating the use of alcohol or a controlled substance in violation of law or a Government regulation be confirmed by a scientifically recognized method of testing capable of providing quantitative information about alcohol or a controlled substance;
 
-&emsp;(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual's confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days afterbeing advised of the results of the first confirmation test;
+&emsp;(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual's confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days after being advised of the results of the first confirmation test;
 
 &emsp;(6) ensure appropriate safeguards for testing to detect and quantify alcohol in breath and body fluid samples, including urine and blood, through the development of regulations that may be necessary and in consultation with the Secretary of Health and Human Services;
 
@@ -98,21 +98,21 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §202(r); added Oct. 28, 1991, Pu
 
 45:431(r)(1) (last sentence).
 
-In subsection (b)(1), before clause (A), the words “controlled substances” are substituted for “drug” for consistency in this section. In clauses (B) and (C), the word “found” is substituted for “determined” for consistency in the revised title.
+In subsection (b)(1), before clause (A), the words "controlled substances" are substituted for "drug" for consistency in this section. In clauses (B) and (C), the word "found" is substituted for "determined" for consistency in the revised title.
 
-In subsection (c)(3), the words “of any employee” are omitted as surplus.
+In subsection (c)(3), the words "of any employee" are omitted as surplus.
 
-In subsection (c)(4), the words “by any employee” are omitted as surplus.
+In subsection (c)(4), the words "by any employee" are omitted as surplus.
 
-In subsection (c)(5), the word “tested” is substituted for “assayed” for consistency. The words “2d confirmation test” are substituted for “independent test” for clarity and consistency.
+In subsection (c)(5), the word "tested" is substituted for "assayed" for consistency. The words "2d confirmation test" are substituted for "independent test" for clarity and consistency.
 
 #### Amendments
 
-<b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–59 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a railroad carrier to conduct preemployment, reasonable suspicion, random, and post-accident testing of all railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation; and”.
+<b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–59 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "a railroad carrier to conduct preemployment, reasonable suspicion, random, and post-accident testing of all railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation; and".
 
 #### Alcohol and Controlled Substance Testing for Maintenance-of-Way Employees
 
-Pub. L. 110–432, div. A, title IV, §412, Oct. 16, 2008, 122 Stat. 4889, provided that: “Not later than 2 years following the date of enactment of this Act \[Oct. 16, 2008\], the Secretary of Transportation shall complete a rulemaking proceeding to revise the regulations prescribed under section 20140 of title 49, United States Code, to cover all employees of railroad carriers and contractors or subcontractors to railroad carriers who perform maintenance-of-way activities.”
+Pub. L. 110–432, div. A, title IV, §412, Oct. 16, 2008, 122 Stat. 4889, provided that: "Not later than 2 years following the date of enactment of this Act \[Oct. 16, 2008\], the Secretary of Transportation shall complete a rulemaking proceeding to revise the regulations prescribed under section 20140 of title 49, United States Code, to cover all employees of railroad carriers and contractors or subcontractors to railroad carriers who perform maintenance-of-way activities."
 
-\[For definition of “railroad carrier”, as used in section 412 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+\[For definition of "railroad carrier", as used in section 412 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 

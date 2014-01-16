@@ -10,5 +10,5 @@ Section was enacted as part of the Senior Citizens Housing Act of 1962, and not 
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19 substituted “Department of Housing and Urban Development” for “Housing and Home Finance Agency” in second sentence.
+<b>1967</b>—Pub. L. 90–19 substituted "Department of Housing and Urban Development" for "Housing and Home Finance Agency" in second sentence.
 

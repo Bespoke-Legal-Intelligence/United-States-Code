@@ -104,7 +104,7 @@ The provisions of this chapter shall not apply to the Corporation and to activit
 
 &emsp;(24) section 797c of this title;
 
-&emsp;(25) sections 797e(a), 797f, and 797g(a) of this title, but only insofar as they establish part of the prevailing status quo for the Corporation's employees’ rates of pay, rules, and working conditions, such provisions to continue to apply unless changed pursuant to section 156 of this title;
+&emsp;(25) sections 797e(a), 797f, and 797g(a) of this title, but only insofar as they establish part of the prevailing status quo for the Corporation's employees' rates of pay, rules, and working conditions, such provisions to continue to apply unless changed pursuant to section 156 of this title;
 
 &emsp;(26) section 797h of this title;
 
@@ -124,25 +124,25 @@ The Conrail Privatization Act, referred to in subsec. (k)(7), is subtitle A (§�
 
 #### Codification
 
-In subsec. (b), “such Act and subtitle IV of title 49” substituted for “such Acts”, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation.
+In subsec. (b), "such Act and subtitle IV of title 49" substituted for "such Acts", on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation.
 
 The last sentence of subsec. (f) of this section as originally enacted, which amended section 856 of former Title 31, Money and Finance, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
 #### Amendments
 
-<b>1995</b>—Subsec. (b). Pub. L. 104–88, §327(2), substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by railroad under section 1(3) of the Interstate Commerce Act (49 U.S.C. 1(3))”.
+<b>1995</b>—Subsec. (b). Pub. L. 104–88, §327(2), substituted "rail carrier subject to part A of subtitle IV of title 49" for "common carrier by railroad under section 1(3) of the Interstate Commerce Act (49 U.S.C. 1(3))".
 
 <b>1986</b>—Subsec. (k). Pub. L. 99–509 added subsec. (k).
 
 <b>1981</b>—Subsec. (d)(2). Pub. L. 97–35, §1141(a), struck out provisions respecting resignations.
 
-Subsec. (e)(1). Pub. L. 97–35, §1141(b), substituted “The” for “In order to carry out the final system plan, the”.
+Subsec. (e)(1). Pub. L. 97–35, §1141(b), substituted "The" for "In order to carry out the final system plan, the".
 
 Subsec. (j). Pub. L. 97–35, §1141(c), substituted provisions relating to signal systems for provisions relating to corporate simplification.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–210, §612(j)(1), inserted “or such other corporate name as may be duly adopted by the Corporation” after “Corporation”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–210, §612(j)(1), inserted "or such other corporate name as may be duly adopted by the Corporation" after "Corporation".
 
-Subsec. (b). Pub. L. 94–210, §612(j)(3), inserted “or of its principal railroad operating subsidiary” after “of the Corporation”.
+Subsec. (b). Pub. L. 94–210, §612(j)(3), inserted "or of its principal railroad operating subsidiary" after "of the Corporation".
 
 Subsec. (c). Pub. L. 94–210, §611(a), designated existing provisions as par. (1), struck out provision relating to service of the incorporators as the Board of Directors, and added par. (2).
 
@@ -154,17 +154,17 @@ Subsec. (e)(2). Pub. L. 94–248 inserted provisions relating to initial authori
 
 Subsec. (f). Pub. L. 94–210, §611(c), added subsec. (f). Former subsec. (f), which related to a Federal Government audit of the Corporation, was struck out.
 
-Subsec. (g). Pub. L. 94–210, §611(c), added subsec. (g). Former subsec. (g) redesignated (h) “Annual report”.
+Subsec. (g). Pub. L. 94–210, §611(c), added subsec. (g). Former subsec. (g) redesignated (h) "Annual report".
 
-Subsec. (h). Pub. L. 94–216, §1, redesignated subsec. (h) “Liability of directors” as (i).
+Subsec. (h). Pub. L. 94–216, §1, redesignated subsec. (h) "Liability of directors" as (i).
 
-Pub. L. 94–210, §§611(c), 612(m), redesignated former subsec. (g) as (h) “Annual report” and added subsec. (h) “Liability of directors”.
+Pub. L. 94–210, §§611(c), 612(m), redesignated former subsec. (g) as (h) "Annual report" and added subsec. (h) "Liability of directors".
 
-Subsec. (i). Pub. L. 94–216, §§1, 3, redesignated former subsec. (h) “Liability of directors” as (i) and substituted “a director of the Association” for “a director of the Corporation”. Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 94–216, §§1, 3, redesignated former subsec. (h) "Liability of directors" as (i) and substituted "a director of the Association" for "a director of the Corporation". Former subsec. (i) redesignated (j).
 
-Pub. L. 94–210, §612(m), added subsec. (i) “Corporate simplification”.
+Pub. L. 94–210, §612(m), added subsec. (i) "Corporate simplification".
 
-Subsec. (j). Pub. L. 94–216, §1, redesignated former subsec. (i) “Corporate simplification” as (j).
+Subsec. (j). Pub. L. 94–216, §1, redesignated former subsec. (i) "Corporate simplification" as (j).
 
 #### Effective Date of 1995 Amendment
 
@@ -190,5 +190,5 @@ See section 1341 of this title.
 
 Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “719(c)(3)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "719(c)(3)".</i>
 

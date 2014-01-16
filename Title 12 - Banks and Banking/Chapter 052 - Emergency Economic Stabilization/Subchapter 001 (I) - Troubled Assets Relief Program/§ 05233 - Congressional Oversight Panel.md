@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Congressional Oversight Panel (hereafter in this section referred to as the “Oversight Panel”) as an establishment in the legislative branch.
+There is hereby established the Congressional Oversight Panel (hereafter in this section referred to as the "Oversight Panel") as an establishment in the legislative branch.
 
 #### (b) Duties
 
@@ -128,7 +128,7 @@ The Oversight Panel shall terminate 6 months after the termination date specifie
 
 #### References in Text
 
-This chapter and the chapter, referred to in text, were in the original “this Act” and “the Act”, respectively, and were translated as reading “this division” and “the division”, respectively, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
+This chapter and the chapter, referred to in text, were in the original "this Act" and "the Act", respectively, and were translated as reading "this division" and "the division", respectively, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
 Level I of the Executive Schedule, referred to in subsec. (c)(2), is set out in section 5312 of Title 5, Government Organization and Employees.
 
@@ -136,7 +136,7 @@ Level I of the Executive Schedule, referred to in subsec. (c)(2), is set out in 
 
 <b>2009</b>—Subsec. (b)(3). Pub. L. 111–22 added par. (3).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 

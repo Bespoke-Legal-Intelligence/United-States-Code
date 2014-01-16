@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 42 U.S.C. 1368(a).
 
-Sept. 1, 1954, ch. 1212, §4(a) “Sec. 1508(a)”, 68 Stat. 1135.
+Sept. 1, 1954, ch. 1212, §4(a) "Sec. 1508(a)", 68 Stat. 1135.
 
-The words “under chapter 85 of title 5” are substituted for “under this title” (Title XV of the Social Security Act, as amended) to reflect the codification of the Title in title 5, United States Code.
+The words "under chapter 85 of title 5" are substituted for "under this title" (Title XV of the Social Security Act, as amended) to reflect the codification of the Title in title 5, United States Code.
 

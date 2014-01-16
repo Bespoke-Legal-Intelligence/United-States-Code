@@ -2,7 +2,7 @@
 
 (a)(1) Subject to paragraphs (2), (3), and (4) of this subsection, the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule, regulation, or order having the applicability and effect of a rule as defined in section 551(4) of title 5 issued under title I (other than section 103 thereof \[42 U.S.C. 6212\]) and title II of this Act, or this title <sup>1</sup> (other than any provision of such titles which amends another law).
 
-(2)(A) Notice of any proposed rule, regulation, or order described in paragraph (1) which is substantive and of general applicability shall be given by publication of such proposed rule, regulation, or order in the Federal Register. In each case, a minimum of 30 days following the date of such publication and prior to the effective dateof the rule shall be provided for opportunity to comment; except that the 30-day period for opportunity to comment prior to the effective date of the rule may be—
+(2)(A) Notice of any proposed rule, regulation, or order described in paragraph (1) which is substantive and of general applicability shall be given by publication of such proposed rule, regulation, or order in the Federal Register. In each case, a minimum of 30 days following the date of such publication and prior to the effective date of the rule shall be provided for opportunity to comment; except that the 30-day period for opportunity to comment prior to the effective date of the rule may be—
 
 &emsp;(i) reduced to no less than 10 days if the President finds that strict compliance would seriously impair the operation of the program to which such rule, regulation, or order relates and such findings are set out in such rule, regulation, or order, or
 
@@ -14,7 +14,7 @@
 
 (4) Any officer or agency authorized to issue rules, regulations, or orders described in paragraph (1) shall provide for the making of such adjustments, consistent with the other purposes of this Act as may be necessary to prevent special hardship, inequity, or an unfair distribution of burdens and shall in rules prescribed by it establish procedures which are available to any person for the purpose of seeking an interpretation, modification, or rescission of, or an exception to or exemption from, such rules, regulations and orders. If such person is aggrieved or adversely affected by the denial of a request for such action under the preceding sentence, he may request a review of such denial by the officer or agency and may obtain judicial review in accordance with subsection (b) of this section or other applicable law when such denial becomes final. The officer or agency shall, by rule, establish appropriate procedures, including a hearing where deemed advisable, for considering such requests for action under this paragraph.
 
-(b) The procedures for judicial review established by section 211 of the Economic Stabilization Act of 1970 shall apply to proceedings to which subsection (a) of this section applies, as if such proceedings took place under such Act. Such procedures for judicial review shall apply notwithstanding the expiration of the Economic Stabilization Act of 1970.
+(b) The procedures for judicial review established by section 211 of the Economic Stabilization Act of 1970 shall apply to proceedings to which subsection (a) of this section applies, as if such proceedings took place under such Act. Such procedures for judicial review shall applynotwithstanding the expiration of the Economic Stabilization Act of 1970.
 
 (c) Any agency authorized to issue any rule, regulation, or order described in subsection (a)(1) of this section shall, upon written request of any person, which request is filed after any grant or denial of a request for exception or exemption from any such rule, regulation, or order, furnish such person, within 30 days after the date on which such request is filed, with a written opinion setting forth applicable facts and the legal basis in support of such grant or denial.
 
@@ -30,7 +30,7 @@ The Economic Stabilization Act of 1970, referred to in subsec. (b), is title II 
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The closing parenthesis probably should follow “another law”.</i>
+<i><sup>2</sup></i><i> So in original. The closing parenthesis probably should follow "another law".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “amends”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "amends".</i>
 

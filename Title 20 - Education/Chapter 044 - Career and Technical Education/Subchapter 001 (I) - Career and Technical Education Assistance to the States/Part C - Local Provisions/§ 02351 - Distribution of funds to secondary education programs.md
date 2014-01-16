@@ -6,7 +6,7 @@ Except as provided in section 2353 of this title and as otherwise provided in th
 
 #### (1) Thirty percent
 
-&emsp;Thirty percent shall be allocated to such local educational agencies in proportion to the number of individuals aged 5 through 17, inclusive, who reside in the school district served by such local educational agency for the preceding fiscal year compared to the total number of such individuals who reside in the school districts served by all local educational agencies in the State for such preceding fiscal year, as determined on the basis of the most recent satisfactory—
+&emsp;Thirty percent shall be allocated to such local educational agencies in proportion to the number of individuals aged 5 through 17, inclusive, who reside in the school district servedby such local educational agency for the preceding fiscal year compared to the total number of such individuals who reside in the school districts served by all local educational agencies in the State for such preceding fiscal year, as determined on the basis of the most recent satisfactory—
 
 &emsp;&emsp;(A) data provided to the Secretary by the Bureau of the Census for the purpose of determining eligibility under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\]; or
 
@@ -28,7 +28,7 @@ Except as provided in section 2353 of this title and as otherwise provided in th
 
 The Secretary may waive the application of subsection (a) in the case of any eligible agency that submits to the Secretary an application for such a waiver that—
 
-&emsp;(1) demonstrates that a proposed alternative formula more effectively targets funds on the basis of poverty (as defined by the Office of Management and Budget and revised annuallyin accordance with section 9902(2) of title 42) to local educational agencies within the State than the formula described in subsection (a); and
+&emsp;(1) demonstrates that a proposed alternative formula more effectively targets funds on the basis of poverty (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) to local educational agencies within the State than the formula described in subsection (a); and
 
 &emsp;(2) includes a proposal for such an alternative formula.
 
@@ -74,7 +74,7 @@ The Secretary may waive the application of subsection (a) in the case of any eli
 
 #### (2) Allocation basis
 
-&emsp;If an area career and technical education school or educational service agency meets the requirements of paragraph (1), then the amount that would otherwise be distributed to the local educational agency shall be allocated to the area career and technical education school, the educational service agency, and the local educational agency based on each school, agency or entity's relative share of students who are attending career and technical education programs (based, if practicable, on the average enrollment for the preceding 3 years).
+&emsp;If an area career and technical education school or educational service agency meets the requirements of paragraph (1), then the amount that would otherwise be distributed to the local educational agency shall be allocated to the area career and technical education school, the educational service agency, andthe local educational agency based on each school, agency or entity's relative share of students who are attending career and technical education programs (based, if practicable, on the average enrollment for the preceding 3 years).
 
 #### (3) Appeals procedure
 
@@ -98,7 +98,7 @@ The Secretary may waive the application of subsection (a) in the case of any eli
 
 #### (g) Data
 
-The Secretary shall collect information from eligible agencies regarding the specific dollar allocations made available by the eligible agency for career and technical education programs under subsections (a), (b), (c), (d), and (e) and how these allocations are distributed to localeducational agencies, area career and technical education schools, and educational service agencies, within the State in accordance with this section.
+The Secretary shall collect information from eligible agencies regarding the specific dollar allocations made available by the eligible agency for career and technical education programs under subsections (a), (b), (c), (d), and (e) and how these allocations are distributed to local educational agencies, area career and technical education schools, and educational service agencies, within the State in accordance with this section.
 
 #### (h) Special rule
 

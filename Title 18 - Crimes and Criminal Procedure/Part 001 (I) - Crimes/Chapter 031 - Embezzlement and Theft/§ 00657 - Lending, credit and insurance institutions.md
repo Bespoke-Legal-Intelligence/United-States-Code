@@ -8,7 +8,7 @@ Whoever, being an officer, agent or employee of or connected in any capacity wit
 
 #### 1948 Act
 
-Based on sections 1026(b) and 1514(c) of title 7, U.S.C., 1940 ed., Agriculture, and sections 264(u), 984, 1121, 1138d(c), 1311, 1441(c), 1467(c), and 1731(c) of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(c) of title 15, U.S.C., 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, §12B(u), as added June 16, 1933, ch. 89, §8, 48 Stat. 178; July 17, 1916, ch. 245, §31, fourth paragraph, 39 Stat. 382; July 17, 1916, ch. 245, §211(a), as added Mar. 4, 1923, ch. 252, §2, 42 Stat. 1459; Mar. 4, 1923, ch. 252,title II, §216(a), 42 Stat. 1471; Jan. 22, 1932, ch. 8, §16(c), 47 Stat. 11; July 22, 1932, ch. 522, §21(c), 47 Stat. 738; Mar. 27, 1933, Ex. Ord. No. 6084; June 13, 1933, ch. 64, §8(c), 48 Stat. 135; June 16, 1933, ch. 98, §64(c), 48 Stat. 268; Jan. 31, 1934, ch. 7, §13, 48 Stat. 347; June 27, 1934, ch. 847, §512(c), 48 Stat. 1265; Aug. 23, 1935, ch. 614, §101, 49 Stat. 701; July 22, 1937, ch. 517, title IV, §52(b), 50 Stat. 532; Feb. 16, 1938, ch. 30, title V, §514(c), 52 Stat. 76; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064).
+Based on sections 1026(b) and 1514(c) of title 7, U.S.C., 1940 ed., Agriculture, and sections 264(u), 984, 1121, 1138d(c), 1311, 1441(c), 1467(c), and 1731(c) of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(c) of title 15, U.S.C., 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, §12B(u), as added June 16, 1933, ch. 89, §8, 48 Stat. 178; July 17, 1916, ch. 245, §31, fourth paragraph, 39 Stat. 382; July 17, 1916, ch. 245, §211(a), as added Mar. 4, 1923, ch. 252, §2, 42 Stat. 1459; Mar. 4, 1923, ch. 252, title II, §216(a), 42 Stat. 1471; Jan. 22, 1932, ch. 8, §16(c), 47 Stat. 11; July 22, 1932, ch. 522, §21(c), 47 Stat. 738; Mar. 27, 1933, Ex. Ord. No. 6084; June 13, 1933, ch. 64, §8(c), 48 Stat. 135; June 16, 1933, ch. 98, §64(c), 48 Stat. 268; Jan. 31, 1934, ch. 7, §13, 48 Stat. 347; June 27, 1934, ch. 847, §512(c), 48 Stat. 1265; Aug. 23, 1935, ch. 614, §101, 49 Stat. 701; July 22, 1937, ch. 517, title IV, §52(b), 50 Stat. 532; Feb. 16, 1938, ch. 30, title V, §514(c), 52 Stat. 76; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064).
 
 Each of the eleven sections from which this section was derived contained similar provisions relating to embezzlement, false entries, and fraudulent issuance or assignment of obligations with respect to one or more named agencies or corporations.
 
@@ -20,15 +20,15 @@ The punishment in each section was the same except that in section 1026(b) of ti
 
 The smaller punishment for an offense involving $100 or less was added. (See reviser's notes to sections 641–645 of this title.)
 
-The enumeration of “moneys, funds, credits, securities, or other things of value” does not occur in any one of the original sections but is an adequate, composite enumeration of the instruments mentioned in each.
+The enumeration of "moneys, funds, credits, securities, or other things of value" does not occur in any one of the original sections but is an adequate, composite enumeration of the instruments mentioned in each.
 
 References to persons aiding and abetting contained in sections 984, 1121, 1311 of title 12, U.S.C., 1940 ed., Banks and Banking, were omitted as unnecessary, such persons being made principals by section 2 of this title.
 
-The term “receiver” is used in sections 1121 and 1311 of title 12, U.S.C., 1940 ed., Banks and Banking, with reference to Federal intermediate banks and agricultural credit corporations, and is undoubtedly embraced in the term “connected in any capacity with,” but the phrase “and whoever, being a receiver of any such institution” was inserted in this section to obviate all doubt as to its comprehensive scope.
+The term "receiver" is used in sections 1121 and 1311 of title 12, U.S.C., 1940 ed., Banks and Banking, with reference to Federal intermediate banks and agricultural credit corporations, and is undoubtedly embraced in the term "connected in any capacity with," but the phrase "and whoever, being a receiver of any such institution" was inserted in this section to obviate all doubt as to its comprehensive scope.
 
-The suggestion has been made that “private examiners” should be included. These undoubtedly are covered by the words “connected in any capacity with.” (See also section 655 of this title.)
+The suggestion has been made that "private examiners" should be included. These undoubtedly are covered by the words "connected in any capacity with." (See also section 655 of this title.)
 
-The term “or any department or agency of the United States” was inserted in each revised section in order to clarify the sweeping provisions against fraudulent acts and to obviate any possibility of ambiguity by reason of the omission of specific agencies named in the constituent sections. (See section 6 of this title defining “department and agency.” For other verbal changes and deletions see reviser's note under section 656 of this title.)
+The term "or any department or agency of the United States" was inserted in each revised section in order to clarify the sweeping provisions against fraudulent acts and to obviate any possibility of ambiguity by reason of the omission of specific agencies named in the constituent sections. (See section 6 of this title defining "department and agency." For other verbal changes and deletions see reviser's note under section 656 of this title.)
 
 #### Senate Revision Amendment
 
@@ -36,7 +36,7 @@ Certain words were stricken from the section as being unnecessary and inconsiste
 
 #### 1949 Act
 
-\[Section 11\] conforms section 657 of title 18, U.S.C., to administrative practice which in turn was modified to comply with congressional policy “not to use the Farmers Home Corporation to carry out the functions and duties provided for in H.R. 5991 \[Farmers Home Administration Act of 1946\] but to vest the authority in the Secretary of Agriculture to be administered through the Farmers Home Administration as an agency of the Department of Agriculture” (H. Rept. No. 2683, to accompany H.R. 5991, 79th Cong., 2d sess.).
+\[Section 11\] conforms section 657 of title 18, U.S.C., to administrative practice which in turn was modified to comply with congressional policy "not to use the Farmers Home Corporation to carry out the functions and duties provided for in H.R. 5991 \[Farmers Home Administration Act of 1946\] but to vest the authority in the Secretary of Agriculture to be administeredthrough the Farmers Home Administration as an agency of the Department of Agriculture" (H. Rept. No. 2683, to accompany H.R. 5991, 79th Cong., 2d sess.).
 
 #### References in Text
 
@@ -44,35 +44,35 @@ The Riegle Community Development and Regulatory Improvement Act of 1994, referre
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 struck out “Office of Thrift Supervision, the Resolution Trust Corporation,” after “National Credit Union Administration,”.
+<b>2010</b>—Pub. L. 111–203 struck out "Office of Thrift Supervision, the Resolution Trust Corporation," after "National Credit Union Administration,".
 
-<b>2008</b>—Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
+<b>2008</b>—Pub. L. 110–289 substituted "Federal Housing Finance Agency" for "Federal Housing Finance Board".
 
-<b>1999</b>—Pub. L. 106–78 inserted “or successor agency” after “Farmers Home Administration” and after “Rural Development Administration”.
+<b>1999</b>—Pub. L. 106–78 inserted "or successor agency" after "Farmers Home Administration" and after "Rural Development Administration".
 
-<b>1996</b>—Pub. L. 104–294 substituted “$1,000” for “$100”.
+<b>1996</b>—Pub. L. 104–294 substituted "$1,000" for "$100".
 
-<b>1994</b>—Pub. L. 103–325 inserted “or any community development financial institution receiving financial assistance under the Riegle Community Development and Regulatory Improvement Act of 1994,” after “small business investment company,”.
+<b>1994</b>—Pub. L. 103–325 inserted "or any community development financial institution receiving financial assistance under the Riegle Community Development and Regulatory Improvement Act of 1994," after "small business investment company,".
 
-Pub. L. 103–322 struck out “Reconstruction Finance Corporation,” before “Federal Deposit Insurance Corporation” and “Farmers’ Home Corporation,” before “the Secretary of Agriculture”, and substituted “under this title” for “not more than $1,000” before “or imprisoned not more than one year, or both”.
+Pub. L. 103–322 struck out "Reconstruction Finance Corporation," before "Federal Deposit Insurance Corporation" and "Farmers' Home Corporation," before "the Secretary of Agriculture", and substituted "under this title" for "not more than $1,000" before "or imprisoned not more than one year, or both".
 
-<b>1990</b>—Pub. L. 101–647, §2595(a)(2), substituted “Office of Thrift Supervision, the Resolution Trust Corporation, any Federal home loan bank, the Federal Housing Finance Board,” for “Home Owners’ Loan Corporation,”, and directed substitution of “institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation” for “institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” which was executed by making the substitution for “institution the accounts of which are insured by the Federal Deposit Insurance Corporation” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 101–647, §1603, see below.
+<b>1990</b>—Pub. L. 101–647, §2595(a)(2), substituted "Office of Thrift Supervision, the Resolution Trust Corporation, any Federal home loan bank, the Federal Housing Finance Board," for "Home Owners' Loan Corporation,", and directed substitution of "institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation" for "institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation" which was executed by making the substitution for "institution the accounts of which are insured by the Federal Deposit Insurance Corporation" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 101–647, §1603, see below.
 
-Pub. L. 101–647, §2504(c), substituted “30” for “20” before “years”.
+Pub. L. 101–647, §2504(c), substituted "30" for "20" before "years".
 
-Pub. L. 101–647, §1603, substituted “the Federal Deposit Insurance Corporation” for “the Federal Savings and Loan Insurance Corporation”.
+Pub. L. 101–647, §1603, substituted "the Federal Deposit Insurance Corporation" for "the Federal Savings and Loan Insurance Corporation".
 
-Pub. L. 101–624 substituted “Farmers Home Administration, the Rural Development Administration” for “Farmers’ Home Administration”.
+Pub. L. 101–624 substituted "Farmers Home Administration, the Rural Development Administration" for "Farmers' Home Administration".
 
-<b>1989</b>—Pub. L. 101–73, §962(a)(8)(A), substituted “the Farm Credit System Insurance Corporation, a Farm Credit Bank, a” for “any land bank, intermediate credit bank,”.
+<b>1989</b>—Pub. L. 101–73, §962(a)(8)(A), substituted "the Farm Credit System Insurance Corporation, a Farm Credit Bank, a" for "any land bank, intermediate credit bank,".
 
-Pub. L. 101–73, §962(a)(7), substituted “National Credit Union Administration Board” for “Administrator of the National Credit Union Administration”.
+Pub. L. 101–73, §962(a)(7), substituted "National Credit Union Administration Board" for "Administrator of the National Credit Union Administration".
 
-Pub. L. 101–73, §961(c), substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
+Pub. L. 101–73, §961(c), substituted "$1,000,000" for "$5,000" and "20 years" for "five years".
 
 <b>1970</b>—Pub. L. 91–468 inserted reference to National Credit Union Administration and its Administrator.
 
-<b>1967</b>—Pub. L. 90–19 substituted “Department of Housing and Urban Development” for “Federal Housing Administration”.
+<b>1967</b>—Pub. L. 90–19 substituted "Department of Housing and Urban Development" for "Federal Housing Administration".
 
 <b>1961</b>—Pub. L. 87–353 struck out reference to Federal Farm Mortgage Corporation.
 
@@ -80,7 +80,7 @@ Pub. L. 101–73, §961(c), substituted “$1,000,000” for “$5,000” and �
 
 <b>1956</b>—Act July 28, 1956, inserted reference to any institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation.
 
-<b>1949</b>—Act May 24, 1949, inserted reference to Secretary of Agriculture acting through the Farmers’ Home Administration.
+<b>1949</b>—Act May 24, 1949, inserted reference to Secretary of Agriculture acting through the Farmers' Home Administration.
 
 #### Effective Date of 2010 Amendment
 

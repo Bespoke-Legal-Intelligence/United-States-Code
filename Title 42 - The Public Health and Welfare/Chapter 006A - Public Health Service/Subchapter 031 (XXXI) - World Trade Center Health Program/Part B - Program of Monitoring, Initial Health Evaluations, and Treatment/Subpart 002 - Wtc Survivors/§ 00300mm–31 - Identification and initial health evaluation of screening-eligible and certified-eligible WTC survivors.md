@@ -6,7 +6,7 @@
 
 #### (A) Definition
 
-&emsp;&emsp;In this subchapter, the term “screening-eligible WTC survivor” means, subject to subparagraph (C) and paragraph (3), an individual who is described in any of the following clauses:
+&emsp;&emsp;In this subchapter, the term "screening-eligible WTC survivor" means, subject to subparagraph (C) and paragraph (3), an individual who is described in any of the following clauses:
 
 #### (i) Currently identified survivor
 
@@ -18,7 +18,7 @@
 
 #### (iii) Survivor who meets modified eligibility criteria
 
-&emsp;&emsp;&emsp;An individual who is not a WTC responder, for purposes of the initial healthevaluation under subsection (b), claims symptoms of a WTC-related health condition and meets such eligibility criteria relating to exposure to airborne toxins, other hazards, or adverse conditions resulting from the September 11, 2001, terrorist attacks as the WTC Administrator determines, after consultation with the Data Centers described in section 300mm–4 of this title and the WTC Scientific/Technical Advisory Committee and WTC Health Program Steering Committees under section 300mm–1 of this title.
+&emsp;&emsp;&emsp;An individual who is not a WTC responder, for purposes of the initial health evaluation under subsection (b), claims symptoms of a WTC-related health condition and meets such eligibility criteria relating to exposure to airborne toxins, other hazards, or adverse conditions resulting from the September 11, 2001, terrorist attacks as the WTC Administrator determines, after consultation with the Data Centers described in section 300mm–4 of this title and the WTC Scientific/Technical Advisory Committee and WTC Health Program Steering Committees under section 300mm–1 of this title.
 
 > &emsp;&emsp;The Administrator shall not modify such criteria under clause (iii) on or after the date that the number of certifications for certified-eligible WTC survivors under paragraph (2)(B) has reached 80 percent of the limit described in paragraph (3) or on or after the date that the number of enrollments of WTC responders has reached 80 percent of the limit described in section 300mm–21(a)(4) of this title.
 
@@ -82,7 +82,7 @@
 
 #### (A) Definition
 
-&emsp;&emsp;The term “certified-eligible WTC survivor” means, subject to paragraph (3), ascreening-eligible WTC survivor who the WTC Program Administrator certifies under subparagraph (B) to be eligible for followup monitoring and treatment under this subpart.
+&emsp;&emsp;The term "certified-eligible WTC survivor" means, subject to paragraph (3), a screening-eligible WTC survivor who the WTC Program Administrator certifies under subparagraph (B) to be eligible for followup monitoring and treatment under this subpart.
 
 #### (B) Certification of eligibility for monitoring and treatment
 
@@ -138,5 +138,5 @@
 
 (July 1, 1944, ch. 373, title XXXIII, §3321, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3648.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “certified-eligible”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "certified-eligible".</i>
 

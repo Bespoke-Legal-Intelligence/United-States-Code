@@ -28,7 +28,7 @@ Revocation or Suspension of Registration.—The Secretary shall revoke the regis
 
 (d)
 
-Periodic Registration Update.—The Secretary may require an employer to update a registration under this section not later than 30 days after a change in the employer's address,other contact information, officers, process agent, or other essential information, as determined by the Secretary.
+Periodic Registration Update.—The Secretary may require an employer to update a registration under this section not later than 30 days after a change in the employer's address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
 
 (e)
 
@@ -46,5 +46,5 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 <i><sup>1</sup></i><i> So in original. There is no subpar. (B).</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "section".</i>
 

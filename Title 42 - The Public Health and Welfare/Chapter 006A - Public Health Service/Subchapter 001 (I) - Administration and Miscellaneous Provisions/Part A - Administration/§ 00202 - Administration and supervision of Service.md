@@ -6,7 +6,7 @@ The Public Health Service in the Department of Health and Human Services shall b
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–43 substituted “Health and Human Services” for “Health, Education, and Welfare” and “Assistant Secretary for Health” for “Surgeon General”.
+<b>1993</b>—Pub. L. 103–43 substituted "Health and Human Services" for "Health, Education, and Welfare" and "Assistant Secretary for Health" for "Surgeon General".
 
 #### Transfer of Functions
 
@@ -128,7 +128,7 @@ To secure the highest possible level of health services for the American people 
 
 He must also have the authority to coordinate health functions throughout the Department. The reorganization plan I propose will accomplish these purposes. It will provide the Secretary with the flexibility to create new and responsive organizational arrangements to keep pace with the changing and dynamic nature of our health programs.
 
-My views in this respect follow a basic principle of good government set by the Hoover Commission in 1949 when it recommended that “the Department head should be given authority to determine the organization within his Department.”
+My views in this respect follow a basic principle of good government set by the Hoover Commission in 1949 when it recommended that "the Department head should be given authority to determine the organization within his Department."
 
 #### IV
 
@@ -152,7 +152,7 @@ In summary, the reorganization plan would:
 
 I have found, after investigation, that each reorganization included in the accompanying reorganization plan is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
 
-Should the reorganizations in the accompanying reorganization plan take effect, they will make possiblemore effective and efficient administration of the affected health programs. It is, however, not practicable at this time to itemize the reductions in expenditures which may result.
+Should the reorganizations in the accompanying reorganization plan take effect, they will make possible more effective and efficient administration of the affected health programs. It is, however, not practicable at this time to itemize the reductions in expenditures which may result.
 
 I strongly recommend that the Congress allow the reorganization plan to become effective.
 
@@ -170,7 +170,7 @@ Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended by Ex. Ord. No. 1260
 
 By virtue of the authority vested in me by Section 301 of Title 3 of the United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. The Secretary of Health and Human Services is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the following-described functions vested in the President under the Public Health Service Act (58 Stat. 682), as amended \[this chapter\]:
+Section 1. The Secretary of Health and Human Services is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the following-described functions vested in the President under the Public Health Service Act (58 Stat. 682), as amended \[42 U.S.C. 201 et seq.\]:
 
 (a) The authority under Section 203 (42 U.S.C. 204): to appoint commissioned officers of the Reserve Corps.
 
@@ -194,9 +194,9 @@ Sec. 4. The Secretary of Health and Human Services is hereby authorized to redel
 
 Sec. 5. All actions heretofore taken by appropriate authority with respect to the matters affected by this order and in force at the time of the issuance of this order, including any regulations prescribed or approved with respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
-Sec. 6. As used in this order, the term “functions” embraces duties, powers, responsibilities, authority, or discretion, and the term “perform” may be construed to mean “exercise”.
+Sec. 6. As used in this order, the term "functions" embraces duties, powers, responsibilities, authority, or discretion, and the term "perform" may be construed to mean "exercise".
 
-Sec. 7. (a) Executive Order No. 10506 of December 10, 1953, entitled “Delegating Certain Functions of the President under the Public Health Service Act,” is hereby superseded.
+Sec. 7. (a) Executive Order No. 10506 of December 10, 1953, entitled "Delegating Certain Functions of the President under the Public Health Service Act," is hereby superseded.
 
 (b) Executive Orders Nos. 9993 of August 31, 1948, 10031 of January 26, 1949, 10280 of August 16, 1951, 10354 of May 26, 1952, and 10497 of October 27, 1953, which prescribed regulations relating to commissioned officers and employees of the Public Health Service, are hereby revoked. Nothing in this subsection shall be deemed to alter or otherwise affect the regulations prescribed by the Surgeon General (42 CFR Parts 21 and 22) to replace the regulations prescribed by the orders described in the preceding sentence.
 

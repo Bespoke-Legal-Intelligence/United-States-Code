@@ -10,7 +10,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (c) Biennial report
 
-Not later than February 1 of 1995 and of every second year thereafter, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this part during the preceding 2 fiscal years. Such report shall include a description of such activities that were carried out with respect to interpersonal violence within families and among acquaintances and with respect to rural areas.
+Not later than February 1 of 1995 and of every second year thereafter, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to theCommittee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this part during the preceding 2 fiscal years. Such report shall include a description of such activities that were carried out with respect to interpersonal violence within families and among acquaintances and with respect to rural areas.
 
 (July 1, 1944, ch. 373, title III, §394, formerly §393, as added Pub. L. 99–649, §3, Nov. 10, 1986, 100 Stat. 3634; amended Pub. L. 101–558, §2(c), Nov. 15, 1990, 104 Stat. 2772; Pub. L. 102–531, title III, §312(d)(5), Oct. 27, 1992, 106 Stat. 3504; renumbered §394 and amended Pub. L. 103–183, title II, §§201(1), 202, Dec. 14, 1993, 107 Stat. 2231, 2232.)
 
@@ -22,15 +22,15 @@ A prior section 394 of act July 1, 1944, was renumbered section 394A and is clas
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–183, §202, amended section generally. Prior to amendment, section read as follows: “By not later than September 30, 1992, the Secretary, through the Director of the Centers for Disease Control and Prevention, shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities conducted or supported under this part. The report shall include—
+<b>1993</b>—Pub. L. 103–183, §202, amended section generally. Prior to amendment, section read as follows: "By not later than September 30, 1992, the Secretary, through the Director of the Centers for Disease Control and Prevention, shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities conducted or supported under this part. The report shall include—
 
-&emsp;“(1) information regarding the practical applications of research conducted pursuant to subsection (a) of section 280b of this title, including information that has not been disseminated under subsection (b) of such section; and
+&emsp;"(1) information regarding the practical applications of research conducted pursuant to subsection (a) of section 280b of this title, including information that has not been disseminated under subsection (b) of such section; and
 
-&emsp;“(2) information on such activities regarding the prevention and control of injuries in rural areas, including information regarding injuries that are particular to rural areas.”
+&emsp;"(2) information on such activities regarding the prevention and control of injuries in rural areas, including information regarding injuries that are particular to rural areas."
 
-<b>1992</b>—Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control” in introductory provisions.
+<b>1992</b>—Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control" in introductory provisions.
 
-<b>1990</b>—Pub. L. 101–558 amended section generally. Prior to amendment, section read as follows: “By January 1, 1989, the Secretary, through the Director of the Centers for Disease Control, shall prepare and transmit to the Congress a report analyzing the incidence and causes of childhood injuries in the United States and containing recommendations for such legislation with respect to injury control as the Secretary considers appropriate.”
+<b>1990</b>—Pub. L. 101–558 amended section generally. Prior to amendment, section read as follows: "By January 1, 1989, the Secretary, through the Director of the Centers for Disease Control, shall prepare and transmit to the Congress a report analyzing the incidence and causes of childhood injuries in the United States and containing recommendations for such legislation with respect to injury control as the Secretary considers appropriate."
 
 #### Change of Name
 
@@ -40,7 +40,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment,unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

@@ -1,6 +1,6 @@
 ### §1448. Price support levels for storable nonbasic agricultural commodities
 
-Without restricting price support to those commodities for which a marketing quota ormarketing agreement or order program is in effect, price support shall, insofar as feasible, be made available to producers of any storable nonbasic agricultural commodity for which such a program is in effect and who are complying with such program. The level of such support shall not be in excess of 90 per centum of the parity price of such commodity nor less than the level provided in the following table:
+Without restricting price support to those commodities for which a marketing quota or marketing agreement or order program is in effect, price support shall, insofar as feasible, be made available to producers of any storable nonbasic agricultural commodity for which such a program is in effect and who are complying with such program. The level of such support shall not be in excess of 90 per centum of the parity price of such commodity nor less than the level provided in the following table:
 
 &nbsp;
 

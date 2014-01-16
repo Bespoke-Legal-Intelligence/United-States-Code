@@ -6,11 +6,11 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Capital project.—The term “capital project” has the meaning such term has under section 5302 of title 49.
+Capital project.—The term "capital project" has the meaning such term has under section 5302 of title 49.
 
 &emsp;(2)
 
-Other forms of credit assistance.—The term “other forms of credit assistance” includes any use of funds in an infrastructure bank—
+Other forms of credit assistance.—The term "other forms of credit assistance" includes any use of funds in an infrastructure bank—
 
 &emsp;&emsp;(A) to provide credit enhancements;
 
@@ -28,35 +28,35 @@ Other forms of credit assistance.—The term “other forms of credit assistance
 
 &emsp;(3)
 
-State.—The term “State” has the meaning such term has under section 401.
+State.—The term "State" has the meaning such term has under section 401.
 
 &emsp;(4)
 
-Capitalization.—The term “capitalization” means the process used for depositing funds as initial capital into a State infrastructure bank to establish the infrastructure bank.
+Capitalization.—The term "capitalization" means the process used for depositing funds as initial capital into a State infrastructure bank to establish the infrastructure bank.
 
 &emsp;(5)
 
-Cooperative agreement.—The term “cooperative agreement” means written consent between a State and the Secretary which sets forth the manner in which the infrastructure bank established by the State in accordance with this section will be administered.
+Cooperative agreement.—The term "cooperative agreement" means written consent between a State and the Secretary which sets forth the manner in which the infrastructure bank established by the State in accordance with this section will be administered.
 
 &emsp;(6)
 
-Loan.—The term “loan” means any form of direct financial assistance from a State infrastructure bank that is required to be repaid over a period of time and that is provided to a project sponsor for all or part of the costs of the project.
+Loan.—The term "loan" means any form of direct financial assistance from a State infrastructure bank that is required to be repaid over a period of time and that is provided to a project sponsor for all or part of the costs of the project.
 
 &emsp;(7)
 
-Guarantee.—The term “guarantee” means a contract entered into by a State infrastructure bank in which the bank agrees to take responsibility for all or a portion of a project sponsor's financial obligations for a project under specified conditions.
+Guarantee.—The term "guarantee" means a contract entered into by a State infrastructure bank in which the bank agrees to take responsibility for all or a portion of a project sponsor's financial obligations for a project under specified conditions.
 
 &emsp;(8)
 
-Initial assistance.—The term “initial assistance” means the first round of funds that are loaned or used for credit enhancement by a State infrastructure bank for projects eligible for assistance under this section.
+Initial assistance.—The term "initial assistance" means the first round of funds that are loaned or used for credit enhancement by a State infrastructure bank for projects eligible for assistance under this section.
 
 &emsp;(9)
 
-Leverage.—The term “leverage” means a financial structure used to increase funds in a State infrastructure bank through the issuance of debt instruments.
+Leverage.—The term "leverage" means a financial structure used to increase funds in a State infrastructure bank through the issuance of debt instruments.
 
 &emsp;(10)
 
-Leveraged.—The term “leveraged”, as used with respect to a State infrastructure bank, means that the bank has total potential liabilities that exceed the capital of the bank.
+Leveraged.—The term "leveraged", as used with respect to a State infrastructure bank, means that the bank has total potential liabilities that exceed the capital of the bank.
 
 (b)
 
@@ -190,7 +190,7 @@ Subsec. (d) of section 133, referred to in subsec. (d)(5), was struck out and a 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d)(1)(B). Pub. L. 112–141 struck out “under section 105” before period at end.
+<b>2012</b>—Subsec. (d)(1)(B). Pub. L. 112–141 struck out "under section 105" before period at end.
 
 <b>2008</b>—Pub. L. 110–244 amended Pub. L. 109–59, §1602(d). See 2005 Amendment note below.
 

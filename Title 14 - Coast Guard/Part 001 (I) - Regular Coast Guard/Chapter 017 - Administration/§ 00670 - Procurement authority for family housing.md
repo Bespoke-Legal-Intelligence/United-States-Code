@@ -10,7 +10,7 @@
 
 (2) The Secretary may enter into multiyear contracts under subsection (a) of this section whenever the Coast Guard finds that—
 
-&emsp;(A) the use of a contract will promote the efficiency of the Coast Guard family housing program and will result in reduced total costs under the contract; and
+&emsp;(A) the use of a contract will promote the efficiency of the Coast Guard family housingprogram and will result in reduced total costs under the contract; and
 
 &emsp;(B) there are realistic estimates of both the cost of the contract and the anticipated cost avoidance through the use of a multiyear contract.
 

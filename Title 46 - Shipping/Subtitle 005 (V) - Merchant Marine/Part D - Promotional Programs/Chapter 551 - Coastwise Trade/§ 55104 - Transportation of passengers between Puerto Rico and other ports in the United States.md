@@ -6,11 +6,11 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Certificate.—The term “certificate” means a certificate of financial responsibility for indemnification of passengers for nonperformance of transportation issued by the Federal Maritime Commission under section 44102 of this title.
+Certificate.—The term "certificate" means a certificate of financial responsibility for indemnification of passengers for nonperformance of transportation issued by the Federal Maritime Commission under section 44102 of this title.
 
 &emsp;(2)
 
-Passenger vessel.—The term “passenger vessel” means a vessel of similar size, or offering similar service, as any other vessel transporting passengers under subsection (b).
+Passenger vessel.—The term "passenger vessel" means a vessel of similar size, or offering similar service, as any other vessel transporting passengers under subsection (b).
 
 (b)
 
@@ -74,7 +74,7 @@ Pub. L. 98–563, Oct. 30, 1984, 98 Stat. 2916.
 
 46 App.:289c(d).
 
-In subsection (a), the definition of “certificate” is added based on the language in 46 App. U.S.C. 289c(b)(1)and (2) to avoid repeating the substance of the definition twice in the section.
+In subsection (a), the definition of "certificate" is added based on the language in 46 App. U.S.C. 289c(b)(1) and (2) to avoid repeating the substance of the definition twice in the section.
 
-In subsection (b), the words “Notwithstanding any other provision of law” and “directly or by way of a foreign port” are omitted as unnecessary.
+In subsection (b), the words "Notwithstanding any other provision of law" and "directly or by way of a foreign port" are omitted as unnecessary.
 

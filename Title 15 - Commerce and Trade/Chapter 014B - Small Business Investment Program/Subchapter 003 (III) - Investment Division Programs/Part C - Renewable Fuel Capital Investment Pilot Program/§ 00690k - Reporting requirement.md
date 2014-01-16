@@ -8,5 +8,5 @@ Each Renewable Fuel Capital Investment company that participates in the program 
 
 (Pub. L. 85–699, title III, §392, as added Pub. L. 110–140, title XII, §1207, Dec. 19, 2007, 121 Stat. 1782.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

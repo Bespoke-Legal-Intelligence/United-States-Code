@@ -50,5 +50,5 @@ As soon as practicable and subject to the availability of funds the Secretary sh
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–128 substituted “Map or the map described in section 410fff–2(a)(2) of this title” for “Map”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–128 substituted "Map or the map described in section 410fff–2(a)(2) of this title" for "Map".
 

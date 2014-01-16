@@ -2,7 +2,7 @@
 
 #### (a) Qualified school construction bond
 
-For purposes of this subchapter, the term “qualified school construction bond” means any bond issued as part of an issue if—
+For purposes of this subchapter, the term "qualified school construction bond" means any bond issued as part of an issue if—
 
 &emsp;(1) 100 percent of the available project proceeds of such issue are to be used for the construction, rehabilitation, or repair of a public school facility or for the acquisition of land on which such a facility is to be constructed with part of the proceeds of such issue,
 
@@ -50,7 +50,7 @@ There is a national qualified school construction bond limitation for each calen
 
 #### (E) Large local educational agency
 
-&emsp;&emsp;For purposes of this paragraph, the term “large local educational agency” means, with respect to a calendar year, any local educational agency if such agency is—
+&emsp;&emsp;For purposes of this paragraph, the term "large local educational agency" means, with respect to a calendar year, any local educational agency if such agency is—
 
 &emsp;&emsp;&emsp;(i) among the 100 local educational agencies with the largest numbers of children aged 5 through 17 from families living below the poverty level, as determined by the Secretary using the most recent data available from the Department of Commerce that are satisfactory to the Secretary, or
 
@@ -78,13 +78,13 @@ If for any calendar year—
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(1). Pub. L. 111–147, §301(b)(1), substituted “by the State education agency (or such other agency as is authorized under State law to make such allocation)” for “by the State”.
+<b>2010</b>—Subsec. (d)(1). Pub. L. 111–147, §301(b)(1), substituted "by the State education agency (or such other agency as is authorized under State law to make such allocation)" for "by the State".
 
-Subsec. (e). Pub. L. 111–147, §301(b)(2), substituted “paragraphs (2) and (4) of subsection (d)” for “subsection (d)(4)” in concluding provisions.
+Subsec. (e). Pub. L. 111–147, §301(b)(2), substituted "paragraphs (2) and (4) of subsection (d)" for "subsection (d)(4)" in concluding provisions.
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–147, title III, §301(c)(2), Mar. 18, 2010, 124 Stat. 78, provided that: “The amendments made by subsection (b) \[amending this section\] shall take effect as if included in section 1521 of the American Recovery and Reinvestment Tax Act of 2009 \[Pub. L. 111–5\].”
+Pub. L. 111–147, title III, §301(c)(2), Mar. 18, 2010, 124 Stat. 78, provided that: "The amendments made by subsection (b) \[amending this section\] shall take effect as if included in section 1521 of the American Recovery and Reinvestment Tax Act of 2009 \[Pub. L. 111–5\]."
 
 #### Effective Date
 

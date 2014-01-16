@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Until the concurrent resolution on the budget for a fiscal year has been agreed to, it shall not be in order in the House of Representatives, with respect to the first fiscal year covered by that resolution, or the Senate, with respect to any fiscal year covered by that resolution, to consider any bill or joint resolution, amendment or motion thereto, or conference report thereon that—
+Until the concurrent resolution on the budget for a fiscal year has been agreed to, it shall not be in order in the House of Representatives, with respect to the first fiscal year covered by that resolution, or the Senate, with respect to any fiscal year covered by that resolution, to consider any bill or joint resolution, amendment ormotion thereto, or conference report thereon that—
 
 &emsp;(1) first provides new budget authority for that fiscal year;
 
@@ -64,5 +64,5 @@ Subsec. (c). Pub. L. 99–177 amended subsec. (c) generally, inserting reference
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title priorto repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 

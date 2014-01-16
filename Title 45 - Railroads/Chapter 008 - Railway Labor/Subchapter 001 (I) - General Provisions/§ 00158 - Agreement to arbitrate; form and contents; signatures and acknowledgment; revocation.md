@@ -36,9 +36,9 @@ The said agreement to arbitrate, when properly signed and acknowledged as herein
 
 #### Codification
 
-As originally enacted, par. (d) contained a reference to the “circuit court of appeals”. Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
+As originally enacted, par. (d) contained a reference to the "circuit court of appeals". Act June 25, 1948, as amended by act May 24, 1949, substituted "court of appeals" for "circuit court of appeals".
 
 #### Amendments
 
-<b>1934</b>—Act June 21, 1934, substituted “Mediation Board” for “Board of Mediation” wherever appearing.
+<b>1934</b>—Act June 21, 1934, substituted "Mediation Board" for "Board of Mediation" wherever appearing.
 

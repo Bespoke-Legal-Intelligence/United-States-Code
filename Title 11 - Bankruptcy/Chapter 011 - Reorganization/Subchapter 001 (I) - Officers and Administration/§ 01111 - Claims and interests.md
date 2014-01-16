@@ -30,5 +30,5 @@ This section dispenses with the need for every creditor and equity security hold
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–327 substituted “521(a)(1)” for “521(1)”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–327 substituted "521(a)(1)" for "521(1)".
 

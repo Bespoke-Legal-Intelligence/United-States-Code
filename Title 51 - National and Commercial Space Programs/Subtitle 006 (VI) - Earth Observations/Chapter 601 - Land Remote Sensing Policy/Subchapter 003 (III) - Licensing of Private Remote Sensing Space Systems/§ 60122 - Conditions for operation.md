@@ -48,5 +48,5 @@ Historical and Revision Notes
 
 Pub. L. 102–555, title II, §202, Oct. 28, 1992, 106 Stat. 4172; Pub. L. 105–303, title I, §107(f)(2), Oct. 28, 1998, 112 Stat. 2854.
 
-In subsection (c), in the matter before paragraph (1), the words “subsection (b)” are substituted for “paragraph (b)” to correct an error in the law.
+In subsection (c), in the matter before paragraph (1), the words "subsection (b)" are substituted for "paragraph (b)" to correct an error in the law.
 

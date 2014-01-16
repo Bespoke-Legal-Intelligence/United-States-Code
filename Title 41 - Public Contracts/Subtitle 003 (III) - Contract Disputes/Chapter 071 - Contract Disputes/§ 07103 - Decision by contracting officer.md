@@ -254,11 +254,11 @@ Pub. L. 95–563, §6(e), as added Pub. L. 101–552, §6(a), Nov. 15, 1990, 104
 
 41:605(e) (last sentence).
 
-In subsection (b)(1)(D) and (2), the word “duly” is omitted as unnecessary.
+In subsection (b)(1)(D) and (2), the word "duly" is omitted as unnecessary.
 
-In subsection (b)(3), the words “of contract appeals” are omitted as unnecessary because of the definition of “agency board” in section 7101 of the revised title.
+In subsection (b)(3), the words "of contract appeals" are omitted as unnecessary because of the definition of "agency board" in section 7101 of the revised title.
 
-In subsection (c)(2), the words “this subsection”, which appear in section 5 of the Contract Disputes Act of 1978 (Pub. L. 95–563, 92 Stat. 2384), and which were probably intended to mean “this section”, are translated as “this paragraph” in accordance with the probable intent of Congress.
+In subsection (c)(2), the words "this subsection", which appear in section 5 of the Contract Disputes Act of 1978 (Pub. L. 95–563, 92 Stat. 2384), and which were probably intended to mean "this section", are translated as "this paragraph" in accordance with the probable intent of Congress.
 
-In subsection (f)(5), the words “the commencement of” are omitted as unnecessary. The words “of the appeal or action” are substituted for “in the event an appeal or suit is so commenced in the absence of a prior decision by the contracting officer” to eliminate unnecessary words.
+In subsection (f)(5), the words "the commencement of" are omitted as unnecessary. The words "of the appeal or action" are substituted for "in the event an appeal or suit is so commenced in the absence of a prior decision by the contracting officer" to eliminate unnecessary words.
 

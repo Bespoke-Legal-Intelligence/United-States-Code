@@ -8,13 +8,13 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “partnership” means any partnership required to file a return under section 6031(a).
+&emsp;&emsp;Except as provided in subparagraph (B), the term "partnership" means any partnership required to file a return under section 6031(a).
 
 #### (B) Exception for small partnerships
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “partnership” shall not include any partnership having 10 or fewer partners each of whom is an individual (other than a nonresident alien), a C corporation, or an estate of a deceased partner. For purposes of the preceding sentence, a husband and wife (and their estates) shall be treated as 1 partner.
+&emsp;&emsp;&emsp;The term "partnership" shall not include any partnership having 10 or fewer partners each of whom is an individual (other than a nonresident alien), a C corporation, or an estate of a deceased partner. For purposes of the preceding sentence, a husband and wife (and their estates) shall be treated as 1 partner.
 
 #### (ii) Election to have subchapter apply
 
@@ -22,7 +22,7 @@ For purposes of this subchapter—
 
 #### (2) Partner
 
-&emsp;The term “partner” means—
+&emsp;The term "partner" means—
 
 &emsp;&emsp;(A) a partner in the partnership, and
 
@@ -30,19 +30,19 @@ For purposes of this subchapter—
 
 #### (3) Partnership item
 
-&emsp;The term “partnership item” means, with respect to a partnership, any item required to be taken into account for the partnership's taxable year under any provision of subtitle A to the extent regulations prescribed by the Secretary provide that, for purposes of this subtitle, such item is more appropriately determined at the partnership level than at the partner level.
+&emsp;The term "partnership item" means, with respect to a partnership, any item required to be taken into account for the partnership's taxable year under any provision of subtitle A to the extent regulations prescribed by the Secretary provide that, for purposes of this subtitle, such item is more appropriately determined at the partnership level than at the partner level.
 
 #### (4) Nonpartnership item
 
-&emsp;The term “nonpartnership item” means an item which is (or is treated as) not a partnership item.
+&emsp;The term "nonpartnership item" means an item which is (or is treated as) not a partnership item.
 
 #### (5) Affected item
 
-&emsp;The term “affected item” means any item to the extent such item is affected by a partnership item.
+&emsp;The term "affected item" means any item to the extent such item is affected by a partnership item.
 
 #### (6) Computational adjustment
 
-&emsp;The term “computational adjustment” means the change in the tax liability of a partner which properly reflects the treatment under this subchapter of a partnership item. All adjustments required to apply the results of a proceeding with respect to a partnership under this subchapter to an indirect partner shall be treated as computational adjustments.
+&emsp;The term "computational adjustment" means the change in the tax liability of a partner which properly reflects the treatment under this subchapter of a partnership item. All adjustments required to apply the results of a proceeding with respect to a partnership under this subchapter to an indirect partner shall be treated as computational adjustments.
 
 #### (7) Tax matters partner
 
@@ -56,15 +56,15 @@ For purposes of this subchapter—
 
 #### (8) Notice partner
 
-&emsp;The term “notice partner” means a partner who, at the time in question, would be entitled to notice under subsection (a) of section 6223 (determined without regard to subsections (b)(2) and (e)(1)(B) thereof).
+&emsp;The term "notice partner" means a partner who, at the time in question, would be entitled to notice under subsection (a) of section 6223 (determined without regard to subsections (b)(2) and (e)(1)(B) thereof).
 
 #### (9) Pass-thru partner
 
-&emsp;The term “pass-thru partner” means a partnership, estate, trust, S corporation, nominee, or other similar person through whom other persons hold an interest in the partnership with respect to which proceedings under this subchapter are conducted.
+&emsp;The term "pass-thru partner" means a partnership, estate, trust, S corporation, nominee, or other similar person through whom other persons hold an interest in the partnership with respect to which proceedings under this subchapter are conducted.
 
 #### (10) Indirect partner
 
-&emsp;The term “indirect partner” means a person holding an interest in a partnership through 1 or more pass-thru partners.
+&emsp;The term "indirect partner" means a person holding an interest in a partnership through 1 or more pass-thru partners.
 
 #### (11) 5-percent group
 
@@ -96,7 +96,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(i) has complied with subparagraph (B) of section 6222(b)(1) (relating to notification of inconsistent treatment) with respect to one or more of such items, and
 
-&emsp;&emsp;&emsp;(ii) has not, as of the date on which the Secretary mails the notice, filed a request for administrative adjustments which would make the partner's treatment of the item or items with respect to which the partner complied with subparagraph (B) of section 6222(b)(1) consistent with the treatment of such item or items on the partnership return, or
+&emsp;&emsp;&emsp;(ii) has not, as of the date on which the Secretary mails the notice, filed a requestfor administrative adjustments which would make the partner's treatment of the item or items with respect to which the partner complied with subparagraph (B) of section 6222(b)(1) consistent with the treatment of such item or items on the partnership return, or
 
 &emsp;&emsp;(B)(i) such partner has filed a request under section 6227(d) for administrative adjustment of one or more of such items, and
 
@@ -136,7 +136,7 @@ For purposes of this subchapter—
 
 &emsp;For purposes of section 6223(b) (relating to special rules for partnerships with more than 100 partners) and paragraph (11) of subsection (a) (relating to 5-percent group), the interest of a partner in the profits of a partnership for a partnership taxable year shall be determined—
 
-&emsp;&emsp;(A) in the case of a partner whose entire interest in the partnership is disposed of during such partnership taxable year, as ofthe moment immediately before such disposition, or
+&emsp;&emsp;(A) in the case of a partner whose entire interest in the partnership is disposed of during such partnership taxable year, as of the moment immediately before such disposition, or
 
 &emsp;&emsp;(B) in the case of any other partner, as of the close of the partnership taxable year.
 
@@ -176,35 +176,35 @@ Except to the extent otherwise provided in regulations, in the case of any partn
 
 &emsp;If, on the basis of a partnership return for a taxable year, the Secretary reasonably determines that this subchapter does not apply to such partnership for such year but such determination is erroneous, then the provisions of this subchapter shall not apply to such partnership (and its items) for such taxable year or to partners of such partnership.
 
-(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 663; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(B)–(D), (I), July 18, 1984, 98 Stat. 964, 965; Pub. L. 105–34, title XI, §1141(b), title XII, §§1232(a), 1234(a), Aug. 5, 1997, 111 Stat. 981, 1023, 1024; Pub. L. 105–206, title III, §3507(a), July 22, 1998, 112 Stat. 772; Pub. L. 107–147, title IV, §§416(d)(1)(C), 417(19)(C), Mar. 9, 2002, 116 Stat. 55, 57.)
+(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 663; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(B)–(D), (I), July 18, 1984, 98Stat. 964, 965; Pub. L. 105–34, title XI, §1141(b), title XII, §§1232(a), 1234(a), Aug. 5, 1997, 111 Stat. 981, 1023, 1024; Pub. L. 105–206, title III, §3507(a), July 22, 1998, 112 Stat. 772; Pub. L. 107–147, title IV, §§416(d)(1)(C), 417(19)(C), Mar. 9, 2002, 116 Stat. 55, 57.)
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(1)(C). Pub. L. 107–147, §416(d)(1)(C), inserted “or the Attorney General (or his delegate)” after “Secretary”.
+<b>2002</b>—Subsec. (b)(1)(C). Pub. L. 107–147, §416(d)(1)(C), inserted "or the Attorney General (or his delegate)" after "Secretary".
 
-Subsec. (b)(2)(B)(i). Pub. L. 107–147, §417(19)(C), substituted “section 6227(d)” for “section 6227(c)”.
+Subsec. (b)(2)(B)(i). Pub. L. 107–147, §417(19)(C), substituted "section 6227(d)" for "section 6227(c)".
 
-<b>1998</b>—Subsec. (a)(7). Pub. L. 105–206 inserted at end “The Secretary shall, within 30 days of selecting a tax matters partner under the preceding sentence, notify all partners required to receive notice under section 6223(a) of the name and address of the person selected.”
+<b>1998</b>—Subsec. (a)(7). Pub. L. 105–206 inserted at end "The Secretary shall, within 30 days of selecting a tax matters partner under the preceding sentence, notify all partners required to receive notice under section 6223(a) of the name and address of the person selected."
 
-<b>1997</b>—Subsec. (a)(1)(B)(i). Pub. L. 105–34, §1234(a), reenacted heading of cl. (i) without change and amended text generally. Prior to amendment, text read as follows: “The term ‘partnership’ shall not include any partnership if—
+<b>1997</b>—Subsec. (a)(1)(B)(i). Pub. L. 105–34, §1234(a), reenacted heading of cl. (i) without change and amended text generally. Prior to amendment, text read as follows: "The term 'partnership' shall not include any partnership if—
 
-&emsp;“(I) such partnership has 10 or fewer partners each of whom is a natural person (other than a nonresident alien) or an estate, and
+&emsp;"(I) such partnership has 10 or fewer partners each of whom is a natural person (other than a nonresident alien) or an estate, and
 
-&emsp;“(II) each partner's share of each partnership item is the same as his share of every other item.
+&emsp;"(II) each partner's share of each partnership item is the same as his share of every other item.
 
-> For purposes of the preceding sentence, a husband and wife (and their estates) shall be treated as 1 partner.”
+> For purposes of the preceding sentence, a husband and wife (and their estates) shall be treated as 1 partner."
 
-Subsec. (f). Pub. L. 105–34, §1141(b), substituted “deductions, losses, and” for “losses and” in subsec. heading and “deduction, loss, or” for “loss or” in two places in text.
+Subsec. (f). Pub. L. 105–34, §1141(b), substituted "deductions, losses, and" for "losses and" in subsec. heading and "deduction, loss, or" for "loss or" in two places in text.
 
 Subsec. (g). Pub. L. 105–34, §1232(a), added subsec. (g).
 
-<b>1984</b>—Subsec. (a)(9). Pub. L. 98–369, §714(p)(2)(B), substituted “S corporation” for “electing small business corporation”.
+<b>1984</b>—Subsec. (a)(9). Pub. L. 98–369, §714(p)(2)(B), substituted "S corporation" for "electing small business corporation".
 
-Subsec. (b)(2)(B). Pub. L. 98–369, §714(p)(2)(I), substituted section “6227(c)” for “6227(b)”.
+Subsec. (b)(2)(B). Pub. L. 98–369, §714(p)(2)(I), substituted section "6227(c)" for "6227(b)".
 
-Subsec. (d)(1)(A). Pub. L. 98–369, §714(p)(2)(C), amended subpar. (A) generally, substituting “disposed of” and “disposition” for “liquidated, sold, or exchanged” and “liquidation, sale, or exchange”, respectively.
+Subsec. (d)(1)(A). Pub. L. 98–369, §714(p)(2)(C), amended subpar. (A) generally, substituting "disposed of" and "disposition" for "liquidated, sold, or exchanged" and "liquidation, sale, or exchange", respectively.
 
-Subsec. (f). Pub. L. 98–369, §714(p)(2)(D), substituted “such loss or credit” for “such deduction or credit”.
+Subsec. (f). Pub. L. 98–369, §714(p)(2)(D), substituted "such loss or credit" for "such deduction or credit".
 
 #### Effective Date of 2002 Amendment
 
@@ -212,15 +212,15 @@ Amendment by section 416(d)(1)(C) of Pub. L. 107–147 applicable with respect t
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3507(b), July 22, 1998, 112 Stat. 772, provided that: “The amendment made by this section \[amending this section\] shall apply to selections of tax matters partners made by the Secretary of the Treasury after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3507(b), July 22, 1998, 112 Stat. 772, provided that: "The amendment made by this section \[amending this section\] shall apply to selections of tax matters partners made by the Secretary of the Treasury after the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Effective Date of 1997 Amendment
 
 Amendment by section 1141(b) of Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1141(c) of Pub. L. 105–34, set out as a note under section 6031 of this title.
 
-Pub. L. 105–34, title XII, §1232(b), Aug. 5, 1997, 111 Stat. 1023, provided that: “The amendment made by this section \[amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1232(b), Aug. 5, 1997, 111 Stat. 1023, provided that: "The amendment made by this section \[amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
-Pub. L. 105–34, title XII, §1234(b), Aug. 5, 1997, 111 Stat. 1024, provided that: “The amendment made by this section \[amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1234(b), Aug. 5, 1997, 111 Stat. 1024, provided that: "The amendment made by this section \[amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1984 Amendment
 
@@ -228,5 +228,5 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Special Rule for Certain International Satellite Partnerships
 
-Pub. L. 97–248, title IV, §406, Sept. 3, 1982, 96 Stat. 670, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subchapter C of chapter 63 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to tax treatment of partnership items), section 6031 of such Code (relating to returns of partnership income), and section 6046A of such Code (relating to returns as to interest in foreign partnerships) shall not apply to the International Telecommunications Satellite Organization, the International Maritime Satellite Organization, and any organization which is a successor of either of such organizations.”
+Pub. L. 97–248, title IV, §406, Sept. 3, 1982, 96 Stat. 670, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Subchapter C of chapter 63 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to tax treatment of partnership items), section 6031 of such Code (relating to returns of partnership income), and section 6046A of such Code (relating to returns as to interest in foreign partnerships) shall not apply to the International Telecommunications Satellite Organization, the International Maritime Satellite Organization, and any organization which is a successor of either of such organizations."
 

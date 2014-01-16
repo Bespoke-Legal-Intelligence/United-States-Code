@@ -46,9 +46,9 @@ Aug. 6, 1956, ch. 976, §6, 70 Stat. 1053.
 
 &nbsp;
 
-In subsection (a), the words “are as provided in the constitution and bylaws of the corporation” are substituted for “shall . . . be determined as the constitution and bylaws of the corporation may provide” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (a), the words "are as provided in the constitution and bylaws of the corporation" are substituted for "shall . . . be determined as the constitution and bylaws of the corporation may provide" for consistency in the revised title and to eliminate unnecessary words.
 
-In subsection (b), the words “the right to” are omitted as unnecessary.
+In subsection (b), the words "the right to" are omitted as unnecessary.
 
-In subsection (c), the words “on termination of membership, whether by” are substituted for “either upon” for clarity. The words “in the event that” and “canceled or otherwise” are omitted as unnecessary.
+In subsection (c), the words "on termination of membership, whether by" are substituted for "either upon" for clarity. The words "in the event that" and "canceled or otherwise" are omitted as unnecessary.
 

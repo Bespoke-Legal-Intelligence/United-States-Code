@@ -118,7 +118,7 @@ A prior section 522 of act July 1, 1944, was renumbered section 543 by section 6
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(7)(C). Pub. L. 110–246, §4002(b)(1)(E), (2)(U), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+<b>2008</b>—Subsec. (b)(7)(C). Pub. L. 110–246, §4002(b)(1)(E), (2)(U), substituted "supplemental nutrition assistance program benefits" for "food stamps".
 
 <b>2000</b>—Subsec. (i). Pub. L. 106–310 added subsec. (i).
 

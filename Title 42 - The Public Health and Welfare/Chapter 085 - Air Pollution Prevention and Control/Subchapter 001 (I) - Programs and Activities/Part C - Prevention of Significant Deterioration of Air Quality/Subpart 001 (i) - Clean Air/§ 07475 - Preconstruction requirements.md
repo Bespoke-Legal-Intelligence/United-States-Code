@@ -30,7 +30,7 @@ Any completed permit application under section 7410 of this title for a major em
 
 #### (d) Action taken on permit applications; notice; adverse impact on air quality related values; variance; emission limitations
 
-(1) Each State shall transmit to the Administrator a copy of each permit application relating to a major emitting facility received by suchState and provide notice to the Administrator of every action related to the consideration of such permit.
+(1) Each State shall transmit to the Administrator a copy of each permit application relating to a major emitting facility received by such State and provide notice to the Administrator of every action related to the consideration of such permit.
 
 (2)(A) The Administrator shall provide notice of the permit application to the Federal Land Manager and the Federal official charged with direct responsibility for management of any lands within a class I area which may be affected by emissions from the proposed facility.
 
@@ -87,7 +87,7 @@ MAXIMUM ALLOWABLE INCREASE<br>(In micrograms per cubic meter)
 | 24-hr maximum | 36 | 62 |
 | 3-hr maximum | 130 | 221 |
 
-(iv) For purposes of clause (iii), the term “high terrain area” means with respect to any facility, any area having an elevation of 900 feet or more above the base of the stack of such facility, and the term “low terrain area” means any area other than a high terrain area.
+(iv) For purposes of clause (iii), the term "high terrain area" means with respect to any facility, any area having an elevation of 900 feet or more above the base of the stack of such facility, and the term "low terrain area" means any area other than a high terrain area.
 
 #### (e) Analysis; continuous air quality monitoring data; regulations; model adjustments
 
@@ -103,7 +103,7 @@ MAXIMUM ALLOWABLE INCREASE<br>(In micrograms per cubic meter)
 
 &emsp;(C) shall require the results of such analysis shall be available at the time of the public hearing on the application for such permit, and
 
-&emsp;(D) shall specify with reasonable particularity each air quality model or models to be used under specified sets of conditions for purposes of this part.
+&emsp;(D) shall specify with reasonable particularity each air quality model or models to beused under specified sets of conditions for purposes of this part.
 
 > Any model or models designated under such regulations may be adjusted upon a determination, after notice and opportunity for public hearing, by the Administrator that such adjustment is necessary to take into account unique terrain or meteorological characteristics of an area potentially affected by emissions from a source applying for a permit required under this part.
 
@@ -111,13 +111,13 @@ MAXIMUM ALLOWABLE INCREASE<br>(In micrograms per cubic meter)
 
 #### Amendments
 
-<b>1977</b>—Subsec. (a)(1). Pub. L. 95–190, §14(a)(44), substituted “part;” for “part:”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–190, §14(a)(44), substituted "part;" for "part:".
 
 Subsec. (a)(3). Pub. L. 95–190, §14(a)(45), inserted provision making applicable requirement of section 7410(j) of this title.
 
-Subsec. (b). Pub. L. 95–190, §14(a)(46), inserted “cause or” before “contribute” and struck out “actual” before “allowable emissions”.
+Subsec. (b). Pub. L. 95–190, §14(a)(46), inserted "cause or" before "contribute" and struck out "actual" before "allowable emissions".
 
-Subsec. (d)(2)(C). Pub. L. 95–190, §14(a)(47)–(49), in cl. (ii) substituted “contribute” for “contrbute”, in cl. (iii) substituted “quality-related” for “quality related” and “concentrations which” for “concentrations, which”, and in cl. (iv) substituted “such facility” for “such sources” and “will not cause or contribute to concentrations of such pollutant which exceed” for “together with all other sources, will not exceed”.
+Subsec. (d)(2)(C). Pub. L. 95–190, §14(a)(47)–(49), in cl. (ii) substituted "contribute" for "contrbute", in cl. (iii) substituted "quality-related" for "quality related" and "concentrations which" for "concentrations, which", and in cl. (iv) substituted "such facility" for "such sources" and "will not cause or contribute to concentrations of such pollutant which exceed" for "together with all other sources, will not exceed".
 
 Subsec. (d)(2)(D). Pub. L. 95–190, §14(a)(50), (51), in cl. (iii) substituted provisions relating to determinations of amounts of emissions of sulfur oxides from facilities, for provisions relating to determinations of amounts of emissions of sulfur oxides from sources operating under permits issued pursuant to this subpar., together with all other sources, and added cl. (iv).
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Apr. 17, 1916, ch. 77, §3 (words before 1st comma), 39 Stat. 51.
 
-The words “may have not more than” are substituted for “shall consist of not more than” for clarity and consistency.
+The words "may have not more than" are substituted for "shall consist of not more than" for clarity and consistency.
 

@@ -36,7 +36,7 @@
 | 767 to 769. Repealed. |  |
 | [770\.](%C2%A7%2000770%20-%20Regulations%20for%20expenditure%20of%20moneys%20accruing%20from%20commutation%20of%20rations%20and%20provisions.md) | Regulations for expenditure of moneys accruing from commutation of rations and provisions. |
 | [771\.](%C2%A7%2000771%20-%20Benefits%20for%20surviving%20spouses%20of%20Lighthouse%20Service%20employees%3B%20death%20of%20employee%20during%20retirement%3B%20amount%20of%20payment.md) | Benefits for surviving spouses of Lighthouse Service employees; death of employee during retirement; amount of payment. |
-| [772\.](%C2%A7%2000772%20-%20Death%20of%20employee%20due%20to%20non-service-connected%20causes%20after%2015%20years%E2%80%99%20service%3B%20amount%20of%20payment.md) | Death of employee due to non-service-connected causes after 15 years’ service; amount of payment. |
+| [772\.](%C2%A7%2000772%20-%20Death%20of%20employee%20due%20to%20non-service-connected%20causes%20after%2015%20years%27%20service%3B%20amount%20of%20payment.md) | Death of employee due to non-service-connected causes after 15 years' service; amount of payment. |
 | [773\.](%C2%A7%2000773%20-%20Application%20for%20benefits.md) | Application for benefits. |
 | [774\.](%C2%A7%2000774%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [775\.](%C2%A7%2000775%20-%20Payments%20nonassignable%20and%20exempt%20from%20process.md) | Payments nonassignable and exempt from process. |
@@ -102,7 +102,7 @@
 - [&sect; 00767 to 769 - Repealed. Aug. 4, 1949, ch. 393, &sect;20, 63 Stat. 561](%C2%A7%2000767%20to%20769%20-%20Repealed.%20Aug.%204%2C%201949%2C%20ch.%20393%2C%20%C2%A720%2C%2063%20Stat.%20561.md)
 - [&sect; 00770 - Regulations for expenditure of moneys accruing from commutation of rations and provisions](%C2%A7%2000770%20-%20Regulations%20for%20expenditure%20of%20moneys%20accruing%20from%20commutation%20of%20rations%20and%20provisions.md)
 - [&sect; 00771 - Benefits for surviving spouses of Lighthouse Service employees; death of employee during retirement; amount of payment](%C2%A7%2000771%20-%20Benefits%20for%20surviving%20spouses%20of%20Lighthouse%20Service%20employees%3B%20death%20of%20employee%20during%20retirement%3B%20amount%20of%20payment.md)
-- [&sect; 00772 - Death of employee due to non-service-connected causes after 15 years&#8217; service; amount of payment](%C2%A7%2000772%20-%20Death%20of%20employee%20due%20to%20non-service-connected%20causes%20after%2015%20years%E2%80%99%20service%3B%20amount%20of%20payment.md)
+- [&sect; 00772 - Death of employee due to non-service-connected causes after 15 years' service; amount of payment](%C2%A7%2000772%20-%20Death%20of%20employee%20due%20to%20non-service-connected%20causes%20after%2015%20years%27%20service%3B%20amount%20of%20payment.md)
 - [&sect; 00773 - Application for benefits](%C2%A7%2000773%20-%20Application%20for%20benefits.md)
 - [&sect; 00774 - Rules and regulations](%C2%A7%2000774%20-%20Rules%20and%20regulations.md)
 - [&sect; 00775 - Payments nonassignable and exempt from process](%C2%A7%2000775%20-%20Payments%20nonassignable%20and%20exempt%20from%20process.md)

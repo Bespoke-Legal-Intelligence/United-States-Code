@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An affidavit of support is not enforceable after such time as the alien (i) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under subparagraph (B), and (ii) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, didnot receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
+&emsp;&emsp;An affidavit of support is not enforceable after such time as the alien (i) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under subparagraph (B), and (ii) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
 
 #### (B) Qualifying quarters
 
@@ -196,7 +196,7 @@ The Social Security Act, referred to in subsec. (a)(3)(A), (B), is act Aug. 14, 
 
 Subsec. (f)(5). Pub. L. 107–150, §2(a)(1), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “Such term also includes an individual who does not meet the requirement of paragraph (1)(D) but who accepts joint and several liability with a petitioning sponsor under paragraph (2) or relative of an employment-based immigrant under paragraph (4) and who demonstrates (as provided under paragraph (6)) the means to maintain an annual income equal to at least 125 percent of the Federal poverty line.”
 
-<b>1996</b>—Pub. L. 104–208 amended section generally, substituting subsecs. (a) to (i) for former subsecs. (a) to (f) relating to requirements for sponsor's affidavits of support.
+<b>1996</b>—Pub. L. 104–208 amended section generally, substituting subsecs. (a) to (i) for former subsecs. (a) to (f)relating to requirements for sponsor's affidavits of support.
 
 #### Effective Date of 2002 Amendment
 

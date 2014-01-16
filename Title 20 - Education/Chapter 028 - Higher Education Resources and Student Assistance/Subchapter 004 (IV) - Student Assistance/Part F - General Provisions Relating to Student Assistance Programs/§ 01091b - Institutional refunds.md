@@ -42,7 +42,7 @@
 
 #### (C) Percentage and amount not earned
 
-&emsp;&emsp;For purposes of subsection (b) of this section, the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student shall be calculated by—
+&emsp;&emsp;For purposes of subsection (b) of this section, the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42that has not been earned by the student shall be calculated by—
 
 &emsp;&emsp;&emsp;(i) determining the complement of the percentage of grant assistance under subparts 1 and 3 of part A, or loan assistance under parts B, C, and D, that has been earned by the student described in subparagraph (B); and
 
@@ -64,7 +64,7 @@
 
 &emsp;The institution shall return not later than 45 days from the determination of withdrawal, in the order specified in paragraph (3), the lesser of—
 
-&emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter and partC of subchapter I of chapter 34 of title 42 that has not been earned by the student, as calculated under subsection (a)(3)(C) of this section; or
+&emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as calculated under subsection (a)(3)(C) of this section; or
 
 &emsp;&emsp;(B) an amount equal to—
 
@@ -116,7 +116,7 @@
 
 #### (E) Waivers of grant assistance repayment by students affected by disasters
 
-&emsp;&emsp;In addition to the waivers authorized by subparagraph (D), the Secretary may waive the amounts that students are required to return under this section with respect to any other grant assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 if the withdrawals on which the returns are based are withdrawals by students—
+&emsp;&emsp;In addition to the waivers authorized by subparagraph (D), the Secretary may waivethe amounts that students are required to return under this section with respect to any other grant assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 if the withdrawals on which the returns are based are withdrawals by students—
 
 &emsp;&emsp;&emsp;(i) who were residing in, employed in, or attending an institution of higher education that is located in an area in which the President has declared that a major disaster exists, in accordance with section 5170 of title 42;
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;&emsp;(iv) To outstanding balances on subsidized loans made under part C of this subchapter for the payment period or period of enrollment for which a return of funds is required.
 
-&emsp;&emsp;&emsp;(v) To outstanding balances on loans made under part D of this subchapter forthe payment period or period of enrollment for which a return of funds is required.
+&emsp;&emsp;&emsp;(v) To outstanding balances on loans made under part D of this subchapter for the payment period or period of enrollment for which a return of funds is required.
 
 &emsp;&emsp;&emsp;(vi) To outstanding balances on loans made under section 1078–2 of this title for the payment period or period of enrollment for which a return of funds is required.
 
@@ -158,7 +158,7 @@
 
 #### (1) In general
 
-&emsp;In this section, the term “day the student withdrew”—
+&emsp;In this section, the term "day the student withdrew"—
 
 &emsp;&emsp;(A) is the date that the institution determines—
 
@@ -184,7 +184,7 @@ For purposes of subsection (a)(3)(B) of this section, the percentage of the paym
 
 #### (e) Effective date
 
-The provisions of this section shall take effect 2 years after October 7, 1998. An institution of higher education may choose to implement such provisions prior to that date.
+The provisions of this section shall take effect 2 years after October 7, 1998. An institution ofhigher education may choose to implement such provisions prior to that date.
 
 (Pub. L. 89–329, title IV, §484B, as added Pub. L. 102–325, title IV, §485(a), July 23, 1992, 106 Stat. 619; amended Pub. L. 103–208, §2(h)(26), (27), Dec. 20, 1993, 107 Stat. 2477; Pub. L. 105–244, title IV, §485, Oct. 7, 1998, 112 Stat. 1737; Pub. L. 109–66, §2, Sept. 21, 2005, 119 Stat. 1999; Pub. L. 109–67, §2, Sept. 21, 2005, 119 Stat. 2001; Pub. L. 109–171, title VIII, §8022, Feb. 8, 2006, 120 Stat. 178.)
 
@@ -198,23 +198,23 @@ A prior section 1091b, Pub. L. 89–329, title V, §503, as added Pub. L. 90–3
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(2)(A). Pub. L. 109–171, §8022(1), substituted “1 or more leaves of” for “a leave of” in introductory provisions.
+<b>2006</b>—Subsec. (a)(2)(A). Pub. L. 109–171, §8022(1), substituted "1 or more leaves of" for "a leave of" in introductory provisions.
 
-Subsec. (a)(3)(B)(ii). Pub. L. 109–171, §8022(2), inserted “(as determined in accordance with subsection (d))” after “student has completed”.
+Subsec. (a)(3)(B)(ii). Pub. L. 109–171, §8022(2), inserted "(as determined in accordance with subsection (d))" after "student has completed".
 
-Subsec. (a)(3)(C)(i). Pub. L. 109–171, §8022(3), substituted “grant assistance under subparts 1 and 3 of part A, or loan assistance under parts B, C, and D,” for “grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42”.
+Subsec. (a)(3)(C)(i). Pub. L. 109–171, §8022(3), substituted "grant assistance under subparts 1 and 3 of part A, or loan assistance under parts B, C, and D," for "grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42".
 
-Subsec. (a)(4)(A). Pub. L. 109–171, §8022(4), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “If the student has received less grant or loan assistance than the amount earned as calculated under subparagraph (A) of paragraph (3), the institution of higher education shall comply with the procedures for late disbursement specified by the Secretary in regulations.”
+Subsec. (a)(4)(A). Pub. L. 109–171, §8022(4), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "If the student has received less grant or loan assistance than the amount earned as calculated under subparagraph (A) of paragraph (3), the institution of higher education shall comply with the procedures for late disbursement specified by the Secretary in regulations."
 
-Subsec. (b)(1). Pub. L. 109–171, §8022(5), inserted “not later than 45 days from the determination of withdrawal” after “return” in introductory provisions.
+Subsec. (b)(1). Pub. L. 109–171, §8022(5), inserted "not later than 45 days from the determination of withdrawal" after "return" in introductory provisions.
 
-Subsec. (b)(2)(C). Pub. L. 109–171, §8022(6), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “Notwithstanding subparagraphs (A) and (B), a student shall not be required to return 50 percent of the grant assistance received by the student under this subchapter and part C of subchapter I of chapter 34 of title 42, for a payment period or period of enrollment, that is the responsibility of the student to repay under this section.”
+Subsec. (b)(2)(C). Pub. L. 109–171, §8022(6), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: "Notwithstanding subparagraphs (A) and (B), a student shall not be required to return 50 percent of the grant assistance received by the student under this subchapter and part C of subchapter I of chapter 34 of title 42, for a payment period or period of enrollment, that is the responsibility of the student to repay under this section."
 
-Subsec. (d). Pub. L. 109–171, §8022(7), (8), in introductory provisions, substituted “(a)(3)(B)” for “(a)(3)(B)(i)” and, in par. (2), substituted “clock hours scheduled to be completed by the student in that period as of the day the student withdrew.” for “clock hours—
+Subsec. (d). Pub. L. 109–171, §8022(7), (8), in introductory provisions, substituted "(a)(3)(B)" for "(a)(3)(B)(i)" and, in par. (2), substituted "clock hours scheduled to be completed by the student in that period as of the day the student withdrew." for "clock hours—
 
-&emsp;“(A) completed by the student in that period as of the day the student withdrew; or
+&emsp;"(A) completed by the student in that period as of the day the student withdrew; or
 
-&emsp;“(B) scheduled to be completed as of the day the student withdrew, if the clock hours completed in the period are not less than a percentage, to be determined by the Secretary in regulations, of the hours that were scheduled to be completed by the student in the period.”
+&emsp;"(B) scheduled to be completed as of the day the student withdrew, if the clock hours completed in the period are not less than a percentage, to be determined by the Secretary in regulations, of the hours that were scheduled to be completed by the student in the period."
 
 <b>2005</b>—Subsec. (b)(2)(D). Pub. L. 109–66 added subpar. (D).
 
@@ -222,9 +222,9 @@ Subsec. (b)(2)(E). Pub. L. 109–67 added subpar. (E).
 
 <b>1998</b>—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (c) requiring each institution of higher education participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42 to have in effect a fair and equitable refund policy for refunding unearned tuition, fees, room and board, and other charges to students or parents who received grant or loan assistance under this subchapter or part C of subchapter I of chapter 34 of title 42.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–208, §2(h)(26), substituted “grant or loan assistance” for “grant, loan, or work assistance” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–208, §2(h)(26), substituted "grant or loan assistance" for "grant, loan, or work assistance" in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 103–208, §2(h)(27), substituted “subsection (c) of this section” for “subsection (d) of this section”.
+Subsec. (b)(3). Pub. L. 103–208, §2(h)(27), substituted "subsection (c) of this section" for "subsection (d) of this section".
 
 #### Effective Date of 2006 Amendment
 

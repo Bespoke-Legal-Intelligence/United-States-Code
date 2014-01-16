@@ -92,11 +92,11 @@ Activities that may be supported by assistance under subsection (a) include the 
 
 #### (4) Use of direct expenditures
 
-&emsp;Amounts appropriated for each fiscal year pursuant to the authorization of appropriations under section 8412 of this title or otherwise made available to carry out this sectionshall be utilized to the maximum extent possible as direct expenditures for projects and programs, subject to existing reporting and notification requirements.
+&emsp;Amounts appropriated for each fiscal year pursuant to the authorization of appropriations under section 8412 of this title or otherwise made available to carry out this section shall be utilized to the maximum extent possible as direct expenditures for projects and programs, subject to existing reporting and notification requirements.
 
 #### (5) Chief of Mission Fund
 
-&emsp;Of the amounts appropriated for each fiscal year pursuant to the authorization of appropriations under section 8412 of this title, up to $5,000,000 may be used by the Secretary of State to establish a fund for use by the Chief of Mission in Pakistan to provide assistance to Pakistan under this subchapter or the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) to address urgent needs or opportunities, consistent with the purposes of this section, or for purposes of humanitarian relief. The fund established pursuant to this paragraph may be referred to as the “Chief of Mission Fund”.
+&emsp;Of the amounts appropriated for each fiscal year pursuant to the authorization of appropriations under section 8412 of this title, up to $5,000,000 may be used by the Secretary of State to establish a fund for use by the Chief of Mission in Pakistan to provide assistance to Pakistan under this subchapter or the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) to address urgent needs or opportunities, consistent with the purposes of this section, or for purposes of humanitarian relief. The fund established pursuant to this paragraph may be referred to as the "Chief of Mission Fund".
 
 #### (6) Sense of Congress
 

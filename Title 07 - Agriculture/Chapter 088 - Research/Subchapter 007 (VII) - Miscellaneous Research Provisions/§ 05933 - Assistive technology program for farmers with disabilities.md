@@ -58,23 +58,23 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(1). Pub. L. 110–246, §7210, substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–246, §7210, substituted "2012" for "2007".
 
 <b>2002</b>—Subsec. (a)(6). Pub. L. 107–171, §7208(c), added par. (6).
 
-Subsec. (c)(1). Pub. L. 107–171, §7122, substituted “2007” for “2002”.
+Subsec. (c)(1). Pub. L. 107–171, §7122, substituted "2007" for "2002".
 
-<b>1998</b>—Subsec. (a)(6). Pub. L. 105–185, §246(1), struck out heading and text of par. (6). Text read as follows: “There are authorized to be appropriated to carry out this subsection—
+<b>1998</b>—Subsec. (a)(6). Pub. L. 105–185, §246(1), struck out heading and text of par. (6). Text read as follows: "There are authorized to be appropriated to carry out this subsection—
 
-&emsp;“(A) not less than $3,000,000 for each of the fiscal years 1991 and 1992; and
+&emsp;"(A) not less than $3,000,000 for each of the fiscal years 1991 and 1992; and
 
-&emsp;“(B) not less than $5,000,000 for each of the fiscal years 1993 through 1997.”
+&emsp;"(B) not less than $5,000,000 for each of the fiscal years 1993 through 1997."
 
-Subsec. (b). Pub. L. 105–185, §246(2), struck out par. (1) designation and heading and struck out heading and text of par. (2). Text read as follows: “There are authorized to be appropriated $1,000,000 to carry out this subsection for each of the fiscal years 1991 through 1997.”
+Subsec. (b). Pub. L. 105–185, §246(2), struck out par. (1) designation and heading and struck out heading and text of par. (2). Text read as follows: "There are authorized to be appropriated $1,000,000 to carry out this subsection for each of the fiscal years 1991 through 1997."
 
 Subsec. (c). Pub. L. 105–185, §246(3), added subsec. (c).
 
-<b>1996</b>—Subsecs. (a)(6)(B), (b)(2). Pub. L. 104–127 substituted “1997” for “1996”.
+<b>1996</b>—Subsecs. (a)(6)(B), (b)(2). Pub. L. 104–127 substituted "1997" for "1996".
 
 #### Effective Date of 2008 Amendment
 

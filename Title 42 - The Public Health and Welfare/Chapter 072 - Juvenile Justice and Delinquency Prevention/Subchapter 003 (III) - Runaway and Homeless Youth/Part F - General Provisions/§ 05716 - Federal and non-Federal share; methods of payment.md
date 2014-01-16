@@ -1,6 +1,6 @@
 ### §5716. Federal and non-Federal share; methods of payment
 
-(a) The Federal share for the renovation of existing structures, the provision of counseling services, staff training, and the general costs of operations of such facility's budget for any fiscal year shall be 90 per centum. The non-Federal share may be in cash or in kind, fairly evaluated by the Secretary, including plant, equipment, or services.
+(a) The Federal share for the renovation of existing structures, the provision of counseling services, staff training, and the general costs of operations of such facility's budget for any fiscal year shall be 90 per centum. The non-Federalshare may be in cash or in kind, fairly evaluated by the Secretary, including plant, equipment, or services.
 
 (b) Payments under this section may be made in installments, in advance, or by way of reimbursement, with necessary adjustments on account of overpayments or underpayments.
 
@@ -12,7 +12,7 @@ A prior section 383 of Pub. L. 93–415 was renumbered section 384 and is classi
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7271(c)(6), struck out “acquisition and” before “renovation”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7271(c)(6), struck out "acquisition and" before "renovation".
 
 #### Effective Date of 1988 Amendment
 

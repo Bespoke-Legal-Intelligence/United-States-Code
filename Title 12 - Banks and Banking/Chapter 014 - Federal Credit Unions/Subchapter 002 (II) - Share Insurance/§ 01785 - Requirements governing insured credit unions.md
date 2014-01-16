@@ -76,7 +76,7 @@ In general.—No director or senior management official of an insured credit uni
 
 &emsp;&emsp;(ii)
 
-Senior management official.—For purposes of this subparagraph, the term “senior management official” means a chief executive officer, an assistant chief executive officer, a chief financial officer, and any other senior executive officer (as defined by the appropriate Federal banking agency pursuant to section 1831i(f) of this title).
+Senior management official.—For purposes of this subparagraph, the term "senior management official" means a chief executive officer, an assistant chief executive officer, a chief financial officer, and any other senior executive officer (as defined by the appropriate Federal banking agency pursuant to section 1831i(f) of this title).
 
 &emsp;(G)
 
@@ -170,7 +170,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 (1) If the applicable rate prescribed in this subsection exceeds the rate an insured credit union would be permitted to charge in the absence of this subsection, such credit union may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this subsection, take, receive, reserve, and charge on any loan, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such insured credit union is located or at the rate allowed by the laws of the State, territory, or district where such credit union is located, whichever may be greater.
 
-(2) If the rate prescribed in paragraph (1) exceeds the rate such credit union would be permitted to charge in the absence of this subsection, and such State fixed rate is thereby preempted by the rate described in paragraph (1),the taking, receiving, reserving, or charging a greater rate than is allowed by paragraph (1), when knowingly done, shall be deemed a forfeiture of the entire interest which the loan carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has been paid, the person who paid it may recover, in a civil action commenced in a court of appropriate jurisdiction not later than two years after the date of such payment, an amount equal to twice the amount of interest paid from the credit union taking or receiving such interest.
+(2) If the rate prescribed in paragraph (1) exceeds the rate such credit union would be permitted to charge in the absence of this subsection, and such State fixed rate is thereby preempted by the rate described in paragraph (1), the taking, receiving, reserving, or charging a greater rate than is allowed by paragraph (1), when knowingly done, shall be deemed a forfeiture of the entire interest which the loan carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has been paid, the person who paid it may recover, in a civil action commenced in a court of appropriate jurisdiction not later than two years after the date of such payment, an amount equal to twice the amount of interest paid from the credit union taking or receiving such interest.
 
 #### (h) Emergency merger
 
@@ -210,33 +210,33 @@ Section 1008 of title 18, referred to in subsec. (d)(2)(A)(i)(I), was repealed b
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(2)(G)(i). Pub. L. 111–203, §362(2)(A), struck out “the Office of Thrift Supervision and” before “the Office of the Comptroller”.
+<b>2010</b>—Subsec. (b)(2)(G)(i). Pub. L. 111–203, §362(2)(A), struck out "the Office of Thrift Supervision and" before "the Office of the Comptroller".
 
-Subsec. (i)(1). Pub. L. 111–203, §362(2)(B), struck out “or the Federal Savings and Loan Insurance Corporation” before “to purchase”.
+Subsec. (i)(1). Pub. L. 111–203, §362(2)(B), struck out "or the Federal Savings and Loan Insurance Corporation" before "to purchase".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–173 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Every insured credit union shall display at each place of business maintained by it a sign or signs indicating that its member accounts are insured by the Board and shall include in all of its advertisements a statement to the effect that its member accounts are insured by the Board. The Board may exempt from this requirement advertisements which do not relate to member accounts or advertisements in which it is impractical to include such a statement. The Board shall prescribe by regulation the forms of such signs, the manner of display, the substance of any such statement, and the manner of use.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–173 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "Every insured credit union shall display at each place of business maintained by it a sign or signs indicating that its member accounts are insured by the Board and shall include in all of its advertisements a statement to the effect that its member accounts are insured by the Board. The Board may exempt from this requirement advertisements which do not relate to member accounts or advertisements in which it is impractical to include such a statement. The Board shall prescribe by regulation the forms of such signs, the manner of display, the substance of any such statement, and the manner of use."
 
 Subsec. (j). Pub. L. 109–351 added subsec. (j).
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–219, §202(1), substituted “Except as provided in paragraph (2), no insured credit union shall, without the prior approval of the Board” for “Except with the prior written approval of the Board, no insured credit union shall”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–219, §202(1), substituted "Except as provided in paragraph (2), no insured credit union shall, without the prior approval of the Board" for "Except with the prior written approval of the Board, no insured credit union shall".
 
 Subsec. (b)(2), (3). Pub. L. 105–219, §202(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–322 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
-“(1)
+"(1)
 
 Prohibition.—Except with the prior written consent of the Board—
 
-&emsp;“(A) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust may not participate, directly or indirectly, in any manner in the conduct of the affairs of an insured credit union; and
+&emsp;"(A) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust may not participate, directly or indirectly, in any manner in the conduct of the affairs of an insured credit union; and
 
-&emsp;“(B) an insured credit union may not permit such participation.
+&emsp;"(B) an insured credit union may not permit such participation.
 
-“(2)
+"(2)
 
-Penalty.—Whoever knowingly violates paragraph (1) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.”
+Penalty.—Whoever knowingly violates paragraph (1) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both."
 
-<b>1989</b>—Subsec. (d). Pub. L. 101–73 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Except with the written consent of the Board, no person shall serve as a director, officer, committee member, or employee of an insured credit union who has been convicted, or who is hereafter convicted, of any criminal offense involving dishonesty or a breach of trust. For each willful violation of this prohibition, the credit union involved shall be subject to a penalty of not more than $100 for each day this prohibition is violated, which the Board may recover for its use.”
+<b>1989</b>—Subsec. (d). Pub. L. 101–73 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Except with the written consent of the Board, no person shall serve as a director, officer, committee member, or employee of an insured credit union who has been convicted, or who is hereafter convicted, of any criminal offense involving dishonesty or a breach of trust. For each willful violation of this prohibition, the credit union involved shall be subject to a penalty of not more than $100 for each day this prohibition is violated, which the Board may recover for its use."
 
 <b>1987</b>—Pub. L. 100–86 repealed Pub. L. 97–320, §141. See 1982 Amendment note below.
 
@@ -250,7 +250,7 @@ Pub. L. 97–320, §141(a)(8), which directed that, effective Oct. 13, 1986, the
 
 Subsec. (g). Pub. L. 96–221, §523, added subsec. (g).
 
-<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, and “its” for “his” where appropriate.
+<b>1978</b>—Pub. L. 95–630 substituted "Board" for "Administrator" wherever appearing, and "its" for "his" where appropriate.
 
 #### Effective Date of 2010 Amendment
 
@@ -258,13 +258,13 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–173, §2(e), Feb. 15, 2006, 119 Stat. 3605, provided that: “This section \[amending this section and sections 1787, 1817, 1821, 1828, 1831t, and 3104 of this title\] and the amendments made by this section shall take effect on the date on which the final regulations required under section 2109(a)(2) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, set out as a Regulations note under section 1817 of this title\] take effect \[Apr. 1, 2006, see 71 F.R. 14629\].”
+Pub. L. 109–173, §2(e), Feb. 15, 2006, 119 Stat. 3605, provided that: "This section \[amending this section and sections 1787, 1817, 1821, 1828, 1831t, and 3104 of this title\] and the amendments made by this section shall take effect on the date on which the final regulations required under section 2109(a)(2) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, set out as a Regulations note under section 1817 of this title\] take effect \[Apr. 1, 2006, see 71 F.R. 14629\]."
 
 #### Effective Date of 1980 Amendment
 
 Enactment of subsec. (f) by Pub. L. 96–221 effective at the close of Mar. 31, 1980, see section 306 of Pub. L. 96–221, set out as a note under section 1464 of this title.
 
-Pub. L. 96–221, title V, §525, Mar. 31, 1980, 94 Stat. 167, provided that: “The amendments made by sections 521 through 523 of this title \[amending this section and enacting sections 1730g and 1831d of this title\] shall apply only with respect to loans made in any State during the period beginning on April 1, 1980, and ending on the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the amendments made by such sections to apply with respect to loans made in such State, except that such amendments shall apply to a loan made on or after the date such law is adopted or such certification is made if such loan is made pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.”
+Pub. L. 96–221, title V, §525, Mar. 31, 1980, 94 Stat. 167, provided that: "The amendments made by sections 521 through 523 of this title \[amending this section and enacting sections 1730g and 1831d of this title\] shall apply only with respect to loans made in any State during the period beginning on April 1, 1980, and ending on the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the amendments made by such sections to apply with respect to loans made in such State, except that such amendments shall apply to a loan made on or after the date such law is adopted or such certification is made if such loan is made pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made."
 
 #### Effective Date of 1978 Amendment
 
@@ -278,9 +278,9 @@ No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under
 
 Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day after Aug. 27, 1986, applicable as if included in Pub. L. 97–320 on Oct. 15, 1982, with no amendment made by such section to any other provision of law to be deemed to have taken effect before Aug. 27, 1986, and any such provision of law to be in effect as if no such amendment had taken effect before Aug. 27, 1986, see section 1(c) of Pub. L. 99–400, set out as a note under section 1464 of this title.
 
-#### Definition of “State”
+#### Definition of "State"
 
-For purposes of subsec. (g) of this section, the term “State” to include the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands, see section 527 of Pub. L. 96–221, set out as a note under section 1735f–7a of this title.
+For purposes of subsec. (g) of this section, the term "State" to include the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands, see section 527 of Pub. L. 96–221, set out as a note under section 1735f–7a of this title.
 
 #### Choice of Highest Applicable Interest Rate
 

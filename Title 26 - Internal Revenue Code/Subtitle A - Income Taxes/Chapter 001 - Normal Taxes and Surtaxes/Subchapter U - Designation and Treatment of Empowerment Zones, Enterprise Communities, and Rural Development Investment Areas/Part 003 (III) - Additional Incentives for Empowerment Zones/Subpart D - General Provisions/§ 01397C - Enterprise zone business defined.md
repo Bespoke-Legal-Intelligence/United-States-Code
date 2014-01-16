@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of this part, the term “enterprise zone business” means—
+For purposes of this part, the term "enterprise zone business" means—
 
 &emsp;(1) any qualified business entity, and
 
@@ -10,7 +10,7 @@ For purposes of this part, the term “enterprise zone business” means—
 
 #### (b) Qualified business entity
 
-For purposes of this section, the term “qualified business entity” means, with respect to any taxable year, any corporation or partnership if for such year—
+For purposes of this section, the term "qualified business entity" means, with respect to any taxable year, any corporation or partnership if for such year—
 
 &emsp;(1) every trade or business of such entity is the active conduct of a qualified business within an empowerment zone,
 
@@ -30,7 +30,7 @@ For purposes of this section, the term “qualified business entity” means, wi
 
 #### (c) Qualified proprietorship
 
-For purposes of this section, the term “qualified proprietorship” means, with respect to any taxable year, any qualified business carried on by an individual as a proprietorship if for such year—
+For purposes of this section, the term "qualified proprietorship" means, with respect to any taxable year, any qualified business carried on by an individual as a proprietorship if for such year—
 
 &emsp;(1) at least 50 percent of the total gross income of such individual from such business is derived from the active conduct of such business in an empowerment zone,
 
@@ -46,7 +46,7 @@ For purposes of this section, the term “qualified proprietorship” means, wit
 
 &emsp;(7) less than 5 percent of the average of the aggregate unadjusted bases of the property of such individual which is used in such business is attributable to nonqualified financial property.
 
-> For purposes of this subsection, the term “employee” includes the proprietor.
+> For purposes of this subsection, the term "employee" includes the proprietor.
 
 #### (d) Qualified business
 
@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the term “qualified business” means any trade or business.
+&emsp;Except as otherwise provided in this subsection, the term "qualified business" means any trade or business.
 
 #### (2) Rental of real property
 
@@ -72,11 +72,11 @@ For purposes of this section—
 
 #### (4) Treatment of business holding intangibles
 
-&emsp;The term “qualified business” shall not include any trade or business consisting predominantly of the development or holding of intangibles for sale or license.
+&emsp;The term "qualified business" shall not include any trade or business consisting predominantly of the development or holding of intangibles for sale or license.
 
 #### (5) Certain businesses excluded
 
-&emsp;The term “qualified business” shall not include—
+&emsp;The term "qualified business" shall not include—
 
 &emsp;&emsp;(A) any trade or business consisting of the operation of any facility described in section 144(c)(6)(B), and
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (e) Nonqualified financial property
 
-For purposes of this section, the term “nonqualified financial property” means debt, stock, partnership interests, options, futures contracts, forward contracts, warrants, notional principal contracts, annuities, and other similar property specified in regulations; except that such term shall not include—
+For purposes of this section, the term "nonqualified financial property" means debt, stock, partnership interests, options, futures contracts, forward contracts, warrants, notional principal contracts, annuities, and other similar property specified in regulations; except that such term shall not include—
 
 &emsp;(1) reasonable amounts of working capital held in cash, cash equivalents, or debt instruments with a term of 18 months or less, or
 
@@ -122,31 +122,31 @@ A prior section 1397C was renumbered section 1397D of this title.
 
 <b>2000</b>—Pub. L. 106–554 renumbered section 1397B of this title as this section.
 
-<b>1999</b>—Subsec. (e)(2). Pub. L. 106–170 substituted “section 1221(a)(4)” for “section 1221(4)”.
+<b>1999</b>—Subsec. (e)(2). Pub. L. 106–170 substituted "section 1221(a)(4)" for "section 1221(4)".
 
-<b>1997</b>—Subsec. (b)(2). Pub. L. 105–34, §956(a)(1), substituted “50 percent” for “80 percent”.
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–34, §956(a)(1), substituted "50 percent" for "80 percent".
 
-Subsec. (b)(3). Pub. L. 105–34, §956(a)(2), substituted “a substantial portion” for “substantially all”.
+Subsec. (b)(3). Pub. L. 105–34, §956(a)(2), substituted "a substantial portion" for "substantially all".
 
-Subsec. (b)(4). Pub. L. 105–34, §956(a)(2), (3), substituted “a substantial portion” for “substantially all” and struck out “, and exclusively related to,” after “entity is used in”.
+Subsec. (b)(4). Pub. L. 105–34, §956(a)(2), (3), substituted "a substantial portion" for "substantially all" and struck out ", and exclusively related to," after "entity is used in".
 
-Subsec. (b)(5). Pub. L. 105–34, §956(a)(2), substituted “a substantial portion” for “substantially all”.
+Subsec. (b)(5). Pub. L. 105–34, §956(a)(2), substituted "a substantial portion" for "substantially all".
 
-Subsec. (c)(1). Pub. L. 105–34, §956(a)(1), substituted “50 percent” for “80 percent”.
+Subsec. (c)(1). Pub. L. 105–34, §956(a)(1), substituted "50 percent" for "80 percent".
 
-Subsec. (c)(2). Pub. L. 105–34, §956(a)(2), substituted “a substantial portion” for “substantially all”.
+Subsec. (c)(2). Pub. L. 105–34, §956(a)(2), substituted "a substantial portion" for "substantially all".
 
-Subsec. (c)(3). Pub. L. 105–34, §956(a)(2), (3), substituted “a substantial portion” for “substantially all” and struck out “, and exclusively related to,” after “business is used in”.
+Subsec. (c)(3). Pub. L. 105–34, §956(a)(2), (3), substituted "a substantial portion" for "substantially all" and struck out ", and exclusively related to," after "business is used in".
 
-Subsec. (c)(4). Pub. L. 105–34, §956(a)(2), substituted “a substantial portion” for “substantially all”.
+Subsec. (c)(4). Pub. L. 105–34, §956(a)(2), substituted "a substantial portion" for "substantially all".
 
 Subsec. (d)(2). Pub. L. 105–34, §956(a)(4), inserted concluding provisions.
 
-Subsec. (d)(3). Pub. L. 105–34, §956(a)(5), substituted “at least 50 percent” for “substantially all”.
+Subsec. (d)(3). Pub. L. 105–34, §956(a)(5), substituted "at least 50 percent" for "substantially all".
 
 Subsec. (f). Pub. L. 105–34, §956(a)(6), added subsec. (f).
 
-<b>1996</b>—Subsec. (d)(5)(B). Pub. L. 104–188 struck out “preceding” before “taxable year” in introductory provisions.
+<b>1996</b>—Subsec. (d)(5)(B). Pub. L. 104–188 struck out "preceding" before "taxable year" in introductory provisions.
 
 #### Effective Date of 1999 Amendment
 
@@ -156,17 +156,17 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 Pub. L. 105–34, title IX, §956(b), Aug. 5, 1997, 111 Stat. 891, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section\] shall apply to taxable years beginning on or after the date of the enactment of this Act \[Aug. 5, 1997\].
 
-“(2)
+"(2)
 
-Special rule for enterprise zone facility bonds.—For purposes of section 1394(b) of the Internal Revenue Code of 1986, the amendments made by this section shall apply to obligations issued after the date of the enactment of this Act.”
+Special rule for enterprise zone facility bonds.—For purposes of section 1394(b) of the Internal Revenue Code of 1986, the amendments made by this section shall apply to obligations issued after the date of the enactment of this Act."
 
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

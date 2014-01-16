@@ -13,4 +13,4 @@
 - [&sect; 00264 - Part of Idaho in fourth zone](%C2%A7%2000264%20-%20Part%20of%20Idaho%20in%20fourth%20zone.md)
 - [&sect; 00265 - Transfer of certain territory to standard central-time zone](%C2%A7%2000265%20-%20Transfer%20of%20certain%20territory%20to%20standard%20central-time%20zone.md)
 - [&sect; 00266 - Applicability of administrative procedure provisions](%C2%A7%2000266%20-%20Applicability%20of%20administrative%20procedure%20provisions.md)
-- [&sect; 00267 - &#8220;State&#8221; defined](%C2%A7%2000267%20-%20%E2%80%9CState%E2%80%9D%20defined.md)
+- [&sect; 00267 - State defined](%C2%A7%2000267%20-%20State%20defined.md)

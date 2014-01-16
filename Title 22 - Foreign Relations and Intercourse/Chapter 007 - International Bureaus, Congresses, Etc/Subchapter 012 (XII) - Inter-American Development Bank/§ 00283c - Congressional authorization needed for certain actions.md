@@ -6,9 +6,9 @@ Unless Congress by law authorizes such action, neither the President nor any per
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–302 inserted “, or article IIA, section 2,” after “article II, section 3” and “or article IIA, section 1,” after “article II, section 2,”.
+<b>1976</b>—Pub. L. 94–302 inserted ", or article IIA, section 2," after "article II, section 3" and "or article IIA, section 1," after "article II, section 2,".
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–302, title I, §103(b), May 31, 1976, 90 Stat. 593, provided that: “The amendments made by paragraphs (2) and (3) of this section \[amending this section and section 283h of this title\] shall become effective upon approval by the Board of Governors of the Bank of the resolutions referred to in section 23 of the Inter-American Development Bank Act (22 U.S.C. 283 et seq.).”
+Pub. L. 94–302, title I, §103(b), May 31, 1976, 90 Stat. 593, provided that: "The amendments made by paragraphs (2) and (3) of this section \[amending this section and section 283h of this title\] shall become effective upon approval by the Board of Governors of the Bank of the resolutions referred to in section 23 of the Inter-American Development Bank Act (22 U.S.C. 283 et seq.)."
 

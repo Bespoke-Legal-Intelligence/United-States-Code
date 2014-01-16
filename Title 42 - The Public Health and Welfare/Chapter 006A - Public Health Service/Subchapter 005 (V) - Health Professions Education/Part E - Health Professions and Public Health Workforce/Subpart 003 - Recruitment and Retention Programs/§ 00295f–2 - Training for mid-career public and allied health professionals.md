@@ -2,17 +2,17 @@
 
 #### (a) In general
 
-The Secretary may make grants to, or enter into contracts with, any eligible entity to award scholarships to eligible individuals to enroll in degree or professional training programs for the purpose of enabling mid-career professionals inthe public health and allied health workforce to receive additional training in the field of public health and allied health.
+The Secretary may make grants to, or enter into contracts with, any eligible entity to award scholarships to eligible individuals to enroll in degree or professional training programs for the purpose of enabling mid-career professionals in the public health and allied health workforce to receive additional training in the field of public health and allied health.
 
 #### (b) Eligibility
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” indicates an accredited educational institution that offers a course of study, certificate program, or professional training program in public or allied health or a related discipline, as determined by the Secretary <sup>1</sup>
+&emsp;The term "eligible entity" indicates an accredited educational institution that offers a course of study, certificate program, or professional training program in public or allied health or a related discipline, as determined by the Secretary <sup>1</sup>
 
 #### (2) Eligible individuals
 
-&emsp;The term “eligible individuals” includes those individuals employed in public and allied health positions at the Federal, State, tribal, or local level who are interested in retaining or upgrading their education.
+&emsp;The term "eligible individuals" includes those individuals employed in public and allied health positions at the Federal, State, tribal, or local level who are interested in retaining or upgrading their education.
 
 #### (c) Authorization of appropriations
 

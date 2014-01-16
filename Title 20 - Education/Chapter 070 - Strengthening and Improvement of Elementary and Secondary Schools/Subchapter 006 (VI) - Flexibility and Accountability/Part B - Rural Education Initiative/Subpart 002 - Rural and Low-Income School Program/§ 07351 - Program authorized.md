@@ -22,7 +22,7 @@
 
 #### (C) Specially qualified agency defined
 
-&emsp;&emsp;In this subpart, the term “specially qualified agency” means an eligible local educational agency served by a State educational agency that does not participate in a program under this subpart in a fiscal year, that may apply directly to the Secretary for a grant in such year under this subsection.
+&emsp;&emsp;In this subpart, the term "specially qualified agency" means an eligible local educational agency served by a State educational agency that does not participate in a program under this subpart in a fiscal year, that may apply directly to the Secretary for a grant in such year under this subsection.
 
 #### (b) Local awards
 

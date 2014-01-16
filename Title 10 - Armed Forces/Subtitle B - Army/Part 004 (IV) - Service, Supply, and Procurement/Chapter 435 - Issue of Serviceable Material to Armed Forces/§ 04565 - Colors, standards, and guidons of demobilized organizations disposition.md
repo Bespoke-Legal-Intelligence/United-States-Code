@@ -36,7 +36,7 @@ Mar. 4, 1921, ch. 166, §2, 41 Stat. 1438.
 
 5:202 (last sentence).
 
-In subsection (a), the words “Any which were used during their service by such organizations and” are omitted as surplusage. The first 15 words of the last sentence are substituted for 5:202 (1st 45 words of 2d sentence).
+In subsection (a), the words "Any which were used during their service by such organizations and" are omitted as surplusage. The first 15 words of the last sentence are substituted for 5:202 (1st 45 words of 2d sentence).
 
 #### Amendments
 

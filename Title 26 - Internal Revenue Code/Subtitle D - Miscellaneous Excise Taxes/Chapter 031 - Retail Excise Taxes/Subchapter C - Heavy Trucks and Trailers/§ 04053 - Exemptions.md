@@ -56,7 +56,7 @@ No tax shall be imposed by section 4051 on any of the following articles:
 
 &emsp;Any vehicle which consists of a chassis—
 
-&emsp;&emsp;(A) to which there has been permanently mounted (by welding, bolting, riveting, or other means) machinery or equipment to perform a construction, manufacturing, processing, farming, mining, drilling, timbering, or similar operation if the operation of the machinery or equipment is unrelated to transportation on or off the public highways,
+&emsp;&emsp;(A) to which there has been permanently mounted (by welding, bolting, riveting, orother means) machinery or equipment to perform a construction, manufacturing, processing, farming, mining, drilling, timbering, or similar operation if the operation of the machinery or equipment is unrelated to transportation on or off the public highways,
 
 &emsp;&emsp;(B) which has been specially designed to serve only as a mobile carriage and mount (and a power source, where applicable) for the particular machinery or equipment involved, whether or not such machinery or equipment is in operation, and
 
@@ -92,11 +92,11 @@ For provisions of prior sections 4054 to 4058 of this title, see Prior Provision
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. B, title II, §206(b), Oct. 3, 2008, 122 Stat. 3839, provided that: “The amendment made bythis section \[amending this section\] shall apply to sales or installations after the date of the enactment of this Act \[Oct. 3, 2008\].”
+Pub. L. 110–343, div. B, title II, §206(b), Oct. 3, 2008, 122 Stat. 3839, provided that: "The amendment made by this section \[amending this section\] shall apply to sales or installations after the date of the enactment of this Act \[Oct. 3, 2008\]."
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §851(a)(2), Oct. 22, 2004, 118 Stat. 1607, provided that: “The amendment made by this subsection \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §851(a)(2), Oct. 22, 2004, 118 Stat. 1607, provided that: "The amendment made by this subsection \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 1984 Amendment
 

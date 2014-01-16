@@ -26,7 +26,7 @@
 
 (2) Upon completion of the arbitration proceedings in favor of one of the parties, any party thereto may bring an action, no later than 30 days after the issuance of an arbitrator's award, in an appropriate United States district court in accordance with section 1451 of this title to enforce, vacate, or modify the arbitrator's award.
 
-(3) Any arbitration proceedings under this section shall, to the extent consistent with this subchapter, be conducted in the same manner, subject to the same limitations, carried out with the same powers (including subpena power), and enforced in United States courts as an arbitration proceeding carried out under title 9.
+(3) Any arbitration proceedings under this section shall, to the extent consistent with thissubchapter, be conducted in the same manner, subject to the same limitations, carried out with the same powers (including subpena power), and enforced in United States courts as an arbitration proceeding carried out under title 9.
 
 #### (c) Presumption respecting finding of fact by arbitrator
 
@@ -92,7 +92,7 @@ Special rule.—Notwithstanding subsection (d) and section 1399(c) of this title
 
 &emsp;(A) provides notice to the plan sponsor of its election to apply the special rule in this paragraph within 90 days after the plan sponsor notifies the electing person of its liability by reason of the application of section 1392(c) of this title; and
 
-&emsp;(B) if a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute has not been rendered within 12 months from the date of such notice, the electing person provides to the plan, effective as of the first day following the 12-month period, a bond issued by a corporate surety company that is an acceptable surety for purposes of section 1112 of this title, or an amount held in escrow by a bank or similar financial institution satisfactory to the plan, in an amount equal to the sum of the withdrawal liability payments that would otherwise be due under subsection (d) and section 1399(c) of this title for the 12-month period beginning with the first anniversary of such notice. Such bond or escrow shall remain in effect until there is a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute, at which time such bond or escrow shall be paid to the plan if such final decision upholds the plan sponsor's determination.
+&emsp;(B) if a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute has not been rendered within 12 months from the date of such notice, the electing person provides to the plan, effective as of the first day following the 12-month period, a bond issued by a corporate surety company that is an acceptable surety for purposesof section 1112 of this title, or an amount held in escrow by a bank or similar financial institution satisfactory to the plan, in an amount equal to the sum of the withdrawal liability payments that would otherwise be due under subsection (d) and section 1399(c) of this title for the 12-month period beginning with the first anniversary of such notice. Such bond or escrow shall remain in effect until there is a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute, at which time such bond or escrow shall be paid to the plan if such final decision upholds the plan sponsor's determination.
 
 (3)
 
@@ -100,7 +100,7 @@ Definition of small employer.—For purposes of this subsection—
 
 &emsp;(A)
 
-In general.—The term “small employer” means any employer which, for the calendar year in which the transaction referred to in paragraph (1)(B) occurred and for each of the 3 preceding years, on average—
+In general.—The term "small employer" means any employer which, for the calendar year in which the transaction referred to in paragraph (1)(B) occurred and for each of the 3 preceding years, on average—
 
 &emsp;&emsp;(i) employs not more than 500 employees, and
 
@@ -120,7 +120,7 @@ Additional security pending resolution of dispute.—If a withdrawal liability d
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (e) to (g). Pub. L. 110–458 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e). Prior to amendment, text read as follows: “If any employer requests in writing that the plan sponsor make available to the employer general information necessary for the employer to compute its withdrawal liability with respect to the plan (other than information which is unique to that employer), the plan sponsor shall furnish the information to the employer without charge. If any employer requests in writing that the plan sponsor make an estimate of such employer's potential withdrawal liability with respect to the plan or to provide information unique to that employer, the plan sponsor may require the employer to pay the reasonable cost of making such estimate or providing such information.”
+<b>2008</b>—Subsecs. (e) to (g). Pub. L. 110–458 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e). Prior to amendment, text read as follows: "If any employer requests in writing that the plan sponsor make available to the employer general information necessary for the employer to compute its withdrawal liability with respect to the plan (other than information which is unique to that employer), the plan sponsor shall furnish the information to the employer without charge. If any employer requests in writing that the plan sponsor make an estimate of such employer's potential withdrawal liability with respect to the plan or to provide information unique to that employer, the plan sponsor may require the employer to pay the reasonable cost of making such estimate or providing such information."
 
 <b>2006</b>—Subsec. (g). Pub. L. 109–280 added subsec. (g).
 
@@ -132,9 +132,9 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title II, §204(d)(2), Aug. 17, 2006, 120 Stat. 889, provided that: “The amendments made by this subsection \[amending this section\] shall apply to any person that receives a notification under section 4219(b)(1) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1399(b)(1)\] on or after the date of enactment of this Act \[Aug. 17, 2006\] with respect to a transaction that occurred after December 31, 1998.”
+Pub. L. 109–280, title II, §204(d)(2), Aug. 17, 2006, 120 Stat. 889, provided that: "The amendments made by this subsection \[amending this section\] shall apply to any person that receives a notification under section 4219(b)(1) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1399(b)(1)\] on or after the date of enactment of this Act \[Aug. 17, 2006\] with respect to a transaction that occurred after December 31, 1998."
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–218, title II, §202(b), Apr. 10, 2004, 118 Stat. 609, provided that: “The amendments made by this section \[amending this section\] shall apply to any employer that receives a notification under section 4219(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1399(b)(1)) after October 31, 2003.”
+Pub. L. 108–218, title II, §202(b), Apr. 10, 2004, 118 Stat. 609, provided that: "The amendments made by this section \[amending this section\] shall apply to any employer that receives a notification under section 4219(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1399(b)(1)) after October 31, 2003."
 

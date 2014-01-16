@@ -2,7 +2,7 @@
 
 #### (a) Nonenforceability of contract
 
-Whenever any person who is liable to pay any tax imposed by this title upon, for, or in respectof, any property sells or causes or allows the same to be sold before such tax is paid, with intent to avoid such tax, or in fraud of the internal revenue laws, any debt contracted in such sale, and any security given therefor, unless the same shall have been bona fide transferred to an innocent holder, shall be void, and the collection thereof shall not be enforced in any court.
+Whenever any person who is liable to pay any tax imposed by this title upon, for, or in respect of, any property sells or causes or allows the same to be sold before such tax is paid, with intent to avoid such tax, or in fraud of the internal revenue laws, any debt contracted in such sale, and any security given therefor, unless the same shall have been bona fide transferred to an innocent holder, shall be void, and the collection thereof shall not be enforced in any court.
 
 #### (b) Forfeiture of sum paid on contract
 

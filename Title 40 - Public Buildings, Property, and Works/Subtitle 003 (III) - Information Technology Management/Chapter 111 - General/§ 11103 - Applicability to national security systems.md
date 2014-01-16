@@ -6,7 +6,7 @@ Definition.—
 
 &emsp;(1)
 
-National security system.—In this section, the term “national security system” means a telecommunications or information system operated by the Federal Government, the function, operation, or use of which—
+National security system.—In this section, the term "national security system" means a telecommunications or information system operated by the Federal Government, the function, operation, or use of which—
 
 &emsp;&emsp;(A) involves intelligence activities;
 

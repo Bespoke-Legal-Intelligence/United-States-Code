@@ -6,11 +6,11 @@ As used in this section:
 
 #### (1) Participate and participation
 
-&emsp;The terms “participate” and “participation” shall have the meaning provided in section 2122(11)(B)(iii) of this title.
+&emsp;The terms "participate" and "participation" shall have the meaning provided in section 2122(11)(B)(iii) of this title.
 
 #### (2) Similar entity
 
-&emsp;The term “similar entity” means a person that—
+&emsp;The term "similar entity" means a person that—
 
 &emsp;&emsp;(A) is not eligible for a loan from the Farm Credit Bank or association; and
 
@@ -32,19 +32,19 @@ Notwithstanding any other provision of this chapter, any Farm Credit Bank or dir
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §5401(b)(1), substituted “2122(11)(B)(iii) of this title” for “2122(11)(B)(iv) of this title”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §5401(b)(1), substituted "2122(11)(B)(iii) of this title" for "2122(11)(B)(iv) of this title".
 
 Subsec. (c). Pub. L. 107–171, §5401(b)(2), struck out heading and text of subsec. (c). Text read as follows:
 
-“(1)
+"(1)
 
 In general.—With respect to a similar entity that is eligible to borrow from a bank for cooperatives under subchapter III of this chapter, the authority of a Farm Credit Bank or association to participate in a loan to the entity under this section shall be subject to the prior approval of the bank for cooperatives having, at the time the loan is made, the greatest loan volume in the State in which the headquarters office of the similar entity is located.
 
-“(2)
+"(2)
 
 Terms and conditions.—Approval under paragraph (1) may be granted on an annual basis and under such terms and conditions as may be agreed on between the Farm Credit Bank or association, as the case may be, and the bank for cooperatives granting the approval.
 
-“(3)
+"(3)
 
-Approval by supervising farm credit bank.—An association may not participate in a loan to a similar entity under this section without the approval of the supervising Farm Credit Bank of the association.”
+Approval by supervising farm credit bank.—An association may not participate in a loan to a similar entity under this section without the approval of the supervising Farm Credit Bank of the association."
 

@@ -70,9 +70,9 @@ Another prior section 8013 was renumbered section 8014 of this title and subsequ
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c)(4). Pub. L. 108–136 struck out “(to the maximum extent practicable)” after “fulfill”.
+<b>2003</b>—Subsec. (c)(4). Pub. L. 108–136 struck out "(to the maximum extent practicable)" after "fulfill".
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–661 substituted "five years" for "10 years".
 
 #### Order of Succession
 
@@ -80,5 +80,5 @@ For order of succession in event of death, permanent disability, or resignation 
 
 #### Rating Chains for System Program Managers
 
-Pub. L. 112–239, div. A, title III, §323, Jan. 2, 2013, 126 Stat. 1696, provided that: “The Secretary of the Air Force, in managing system program management responsibilities for sustainment programs not assigned to a program executive officer or a direct reporting program manager, shall comply with the Department of Defense Instructions regarding assignment of program responsibility.”
+Pub. L. 112–239, div. A, title III, §323, Jan. 2, 2013, 126 Stat. 1696, provided that: "The Secretary of the Air Force, in managing system program management responsibilities for sustainment programs not assigned to a program executive officer or a direct reporting program manager, shall comply with the Department of Defense Instructions regarding assignment of program responsibility."
 

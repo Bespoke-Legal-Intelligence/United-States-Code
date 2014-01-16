@@ -10,17 +10,17 @@
 
 Based on section 105 of title 50, U.S.C., 1940 ed., War and National Defense (Apr. 20, 1918, ch. 59, §5, as added Nov. 30, 1940, ch. 926, 54 Stat. 1221).
 
-Words “upon conviction thereof” were omitted as unnecessary, since punishment cannot be imposed until a conviction is secured.
+Words "upon conviction thereof" were omitted as unnecessary, since punishment cannot be imposed until a conviction is secured.
 
 Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–56 substituted “20 years” for “ten years” and inserted “, and, if death results to any person, shall be imprisoned for any term of years or for life” before period at end.
+<b>2001</b>—Subsec. (a). Pub. L. 107–56 substituted "20 years" for "ten years" and inserted ", and, if death results to any person, shall be imprisoned for any term of years or for life" before period at end.
 
-<b>1996</b>—Pub. L. 104–294 substituted “, or” for “or” in section catchline.
+<b>1996</b>—Pub. L. 104–294 substituted ", or" for "or" in section catchline.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
 
 <b>1954</b>—Act Sept. 3, 1954, inserted conspiracy provisions.
 

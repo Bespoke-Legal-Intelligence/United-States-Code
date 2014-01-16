@@ -6,7 +6,7 @@ Appropriations for any fiscal year for grants, loans, contracts, or other paymen
 
 #### (b) Succeeding fiscal year
 
-(1) Notwithstanding any other provision of law, unless enacted in specific limitation of the provisions of this subsection, any funds from appropriations to carry out any programs to which this chapter is applicable during any fiscal year,which are not obligated and expended by educational agencies or institutions prior to the beginning of the fiscal year succeeding the fiscal year for which such funds were appropriated shall remain available for obligation and expenditure by such agencies and institutions during such succeeding fiscal year.
+(1) Notwithstanding any other provision of law, unless enacted in specific limitation of the provisions of this subsection, any funds from appropriations to carry out any programs to which this chapter is applicable during any fiscal year, which are not obligated and expended by educational agencies or institutions prior to the beginning of the fiscal year succeeding the fiscal year for which such funds were appropriated shall remain available for obligation and expenditure by such agencies and institutions during such succeeding fiscal year.
 
 (2) Any funds under any applicable program which, pursuant to paragraph (1), are available for obligation and expenditure in the year succeeding the fiscal year for which they were appropriated shall be obligated and expended in accordance with—
 
@@ -32,23 +32,23 @@ Another prior section 421 of Pub. L. 90–247 was renumbered section 437, and is
 
 <b>1994</b>—Pub. L. 103–382, §232(a), amended section catchline generally.
 
-Subsec. (a). Pub. L. 103–382, §232(b)(1), struck out “to educational agencies or institutions” after “other payments” and substituted “obligation” for “expenditure” and “recipient” for “agency or institution concerned”.
+Subsec. (a). Pub. L. 103–382, §232(b)(1), struck out "to educational agencies or institutions" after "other payments" and substituted "obligation" for "expenditure" and "recipient" for "agency or institution concerned".
 
-Subsec. (b). Pub. L. 103–382, §232(b)(2), which directed the substitution in the original of “(b)(1) Notwithstanding” for “(b) Notwithstanding”, could not be executed because the original already reads “(b)(1) Notwithstanding”.
+Subsec. (b). Pub. L. 103–382, §232(b)(2), which directed the substitution in the original of "(b)(1) Notwithstanding" for "(b) Notwithstanding", could not be executed because the original already reads "(b)(1) Notwithstanding".
 
 Subsec. (c). Pub. L. 103–382, §232(b)(3), substituted reference to section 1341(a) of title 31 for reference to section 3679(d)(2) of the Revised Statutes.
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–561 struck out “ending prior to October 1, 1979,” after “applicable during any fiscal year,” in existing provisions, designated existing provisions as thus amended as par. (1), and added par. (2).
+<b>1978</b>—Subsec. (b). Pub. L. 95–561 struck out "ending prior to October 1, 1979," after "applicable during any fiscal year," in existing provisions, designated existing provisions as thus amended as par. (1), and added par. (2).
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–112 substituted “October 1, 1979” for “October 1, 1978”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–112 substituted "October 1, 1979" for "October 1, 1978".
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–273 substituted “October” for “July”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–273 substituted "October" for "July".
 
-<b>1974</b>—Subsec. (b). Pub. L. 93–380, §506(a)(1)(E), substituted “1978” for “1973” and inserted “by educational agencies or institutions” and “by such agencies and institutions” after “obligated and expended” and “obligation and expenditure”, respectively.
+<b>1974</b>—Subsec. (b). Pub. L. 93–380, §506(a)(1)(E), substituted "1978" for "1973" and inserted "by educational agencies or institutions" and "by such agencies and institutions" after "obligated and expended" and "obligation and expenditure", respectively.
 
 Subsec. (c). Pub. L. 93–380, §506(a)(1)(E), added subsec. (c).
 
-<b>1970</b>—Pub. L. 91–230 substituted “applicable program” for “Act referred to in section 1221 of this title”, inserted “loans,” after “grants,” designated existing provisions as thus amended as subsec. (a), and added subsec. (b).
+<b>1970</b>—Pub. L. 91–230 substituted "applicable program" for "Act referred to in section 1221 of this title", inserted "loans," after "grants," designated existing provisions as thus amended as subsec. (a), and added subsec. (b).
 
 #### Effective Date of 1978 Amendment
 
@@ -56,9 +56,9 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, but the provisions of subs
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–380, title V, §506(b), Aug. 21, 1974, 88 Stat. 565, provided that: “The amendments made by subsection (a) of this section \[enacting sections 1226a to 1226d of this title, amending this section and section 1227 of this title, and repealing sections 1222 and 1224 of this title\] shall become effective on the date of enactment of this Act \[Aug. 21, 1974\].”
+Pub. L. 93–380, title V, §506(b), Aug. 21, 1974, 88 Stat. 565, provided that: "The amendments made by subsection (a) of this section \[enacting sections 1226a to 1226d of this title, amending this section and section 1227 of this title, and repealing sections 1222 and 1224 of this title\] shall become effective on the date of enactment of this Act \[Aug. 21, 1974\]."
 
 #### Indochinese Refugee Children Education Assistance Programs; Applicability of Contingent Extension Provisions
 
-Pub. L. 94–482, title III, §327, Oct. 12, 1976, 90 Stat. 2220, provided that: “The provisions of section 414 \[now 422\] of the General Education Provisions Act \[section 1226a of this title\], relating to the contingent extension of applicable programs, shall not apply to the Indochina Refugee Children Assistance Act of 1976 \[former section 1211b of this title\], or to any program of financial assistance for educational purposes for Indochinese refugee children.”
+Pub. L. 94–482, title III, §327, Oct. 12, 1976, 90 Stat. 2220, provided that: "The provisions of section 414 \[now422\] of the General Education Provisions Act \[section 1226a of this title\], relating to the contingent extension of applicable programs, shall not apply to the Indochina Refugee Children Assistance Act of 1976 \[former section 1211b of this title\], or to any program of financial assistance for educational purposes for Indochinese refugee children."
 

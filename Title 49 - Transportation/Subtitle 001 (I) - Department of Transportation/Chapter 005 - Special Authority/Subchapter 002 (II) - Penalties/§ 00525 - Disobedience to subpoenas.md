@@ -16,15 +16,15 @@ Historical and Revision Notes
 
 525
 
-49:304(a)(3) (last sentence) (related to “Sec. 305(d) (related to liability)”).
+49:304(a)(3) (last sentence) (related to "Sec. 305(d) (related to liability)").
 
-Feb. 4, 1887, ch. 104, 24 Stat., 379, §204(a)(3) (last sentence) (related to “Sec. 205(d) (related to liability)”); added Aug. 9, 1935, ch. 498, 49 Stat. 546.
+Feb. 4, 1887, ch. 104, 24 Stat., 379, §204(a)(3) (last sentence) (related to "Sec. 205(d) (related to liability)"); added Aug. 9, 1935, ch. 498, 49 Stat. 546.
 
 &nbsp;
 
-49:304(a)(3a) (last sentence) (related to “Sec. 305(d) (related to liability)”).
+49:304(a)(3a) (last sentence) (related to "Sec. 305(d) (related to liability)").
 
-Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3a) (last sentence) (related to “Sec. 205(d) (related to liability)”); added Aug. 3, 1956, ch. 905, §2, 70 Stat. 958.
+Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3a) (last sentence) (related to "Sec. 205(d) (related to liability)"); added Aug. 3, 1956, ch. 905, §2, 70 Stat. 958.
 
 &nbsp;
 
@@ -42,11 +42,11 @@ The section is included because 49:1655(f)(2) gave the same administrative power
 
 See the revision notes for the revised section for an explanation of changes made in the text. Changes not accounted for in those revision notes are as follows:
 
-The section does not apply to the liability of a rail carrier because 49:46 is not included in the specific enumeration of 49:1655(f)(2)(B)(ii). The text of 49:304(a)(3) (last sentence 1st–7th words) and (3a) (last sentence 1st–5th words) is omitted as executed. The words “under this chapter” are added for clarity.
+The section does not apply to the liability of a rail carrier because 49:46 is not included in the specific enumeration of 49:1655(f)(2)(B)(ii). The text of 49:304(a)(3) (last sentence 1st–7th words) and (3a) (last sentence 1st–5th words) is omitted as executed. The words "under this chapter" are added for clarity.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “subpoenas” for “subpenas” in section catchline, and, in text, substituted “subpoena” for “subpena”, “$1,000” for “$100”, and “$10,000” for “$5,000” and inserted at end “The Secretary may withhold, suspend, amend, or revoke any part of the registration of a person required to register under chapter 139 for failing to obey a subpoena or requirement of the Secretary under this chapter to appear and testify or produce records.”
+<b>2012</b>—Pub. L. 112–141 substituted "subpoenas" for "subpenas" in section catchline, and, in text, substituted "subpoena" for "subpena", "$1,000" for "$100", and "$10,000" for "$5,000" and inserted at end "The Secretary may withhold, suspend, amend, or revoke any part of the registration of a person required to register under chapter 139 for failing to obey a subpoena or requirement of the Secretary under this chapter to appear and testify or produce records."
 
 #### Effective Date of 2012 Amendment
 

@@ -20,7 +20,7 @@ Waiver.—A party that is an accused infringer may waive the limitations set for
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–274 substituted “only if” for “or counterclaim defendants only if” in introductory provisions.
+<b>2013</b>—Subsec. (a). Pub. L. 112–274 substituted "only if" for "or counterclaim defendants only if" in introductory provisions.
 
 #### Effective Date of 2013 Amendment
 

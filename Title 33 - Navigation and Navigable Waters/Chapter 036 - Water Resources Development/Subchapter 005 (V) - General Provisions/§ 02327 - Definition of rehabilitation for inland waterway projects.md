@@ -1,6 +1,6 @@
 ### §2327. Definition of rehabilitation for inland waterway projects
 
-For purposes of laws relating to navigation on inland and intracoastal waterways of the United States, the term “rehabilitation” means—
+For purposes of laws relating to navigation on inland and intracoastal waterways of the United States, the term "rehabilitation" means—
 
 &emsp;(1) major project feature restoration—
 

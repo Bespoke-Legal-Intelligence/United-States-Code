@@ -32,9 +32,9 @@ The Social Security Act, referred to in subsec. (g)(2)(B) to (E), is act Aug. 14
 
 #### Amendments
 
-<b>1992</b>—Subsec. (e). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (e). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 

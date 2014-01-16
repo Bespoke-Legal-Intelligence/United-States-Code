@@ -44,11 +44,11 @@
 
 (4) Each foreign country from which a student is permitted to receive instruction at the University under this subsection shall reimburse the United States for the cost of providing such instruction, unless such reimbursement is waived by the Secretary of Defense. The Secretary of Defense shall prescribe the rates for reimbursement under this paragraph.
 
-(5) Except as the President determines, a person receiving instruction at the University under this subsection is subject to the same regulations governing attendance, discipline, discharge, and dismissal as a student enrolled in the University. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this subsection that differ from the regulations that apply to a student enrolled in the University.
+(5) Except as the President determines, a person receiving instruction at the Universityunder this subsection is subject to the same regulations governing attendance, discipline, discharge, and dismissal as a student enrolled in the University. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this subsection that differ from the regulations that apply to a student enrolled in the University.
 
-(g) In this section, the term “commissioned service obligation” means, with respect to an officer who is a graduate of the University, the period beginning on the date of the appointment of the officer in a regular component after graduation and ending on the tenth anniversary of that appointment.
+(g) In this section, the term "commissioned service obligation" means, with respect to an officer who is a graduate of the University, the period beginning on the date of the appointment of the officer in a regular component after graduation and ending on the tenth anniversary of that appointment.
 
-(h) The Secretary of Defense shall establish such selection procedures, service obligations, and other requirements as the Secretary considers appropriate for graduate students (otherthan medical students) in a postdoctoral, postgraduate, or technological institute established pursuant to section 2113(e) of this title.
+(h) The Secretary of Defense shall establish such selection procedures, service obligations, and other requirements as the Secretary considers appropriate for graduate students (other than medical students) in a postdoctoral, postgraduate, or technological institute established pursuant to section 2113(e) of this title.
 
 (i) A graduate of the University who is relieved of the graduate's active-duty service obligation under subsection (c) before the completion of that active-duty service obligation may be given, with or without the consent of the graduate, an alternative obligation in the same manner as provided in subparagraphs (A) and (B) of paragraph (1) of section 2123(e) of this title or paragraph (2) of such section for members of the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
@@ -56,55 +56,55 @@
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (b), (c). Pub. L. 110–181, §524(a)(1)(B), (2)(A), designated first 3 sentences of subsec. (b) as subsec. (b)(1), added subsec. (b)(2), designated last 3 sentences of subsec. (b) as subsec. (c), and substituted “Medical students who graduate” for “Upon graduation they”. Former subsec. (c) redesignated (d).
+<b>2008</b>—Subsecs. (b), (c). Pub. L. 110–181, §524(a)(1)(B), (2)(A), designated first 3 sentences of subsec. (b) as subsec. (b)(1), added subsec. (b)(2), designated last 3 sentences of subsec. (b) as subsec. (c), and substituted "Medical students who graduate" for "Upon graduation they". Former subsec. (c) redesignated (d).
 
 Subsecs. (d) to (f). Pub. L. 110–181, §524(a)(1)(A), redesignated subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
 
-Subsec. (f)(3), (5). Pub. L. 110–181, §954(b)(2), as amended by Pub. L. 110–417, §1061(b)(9), substituted “President” for “Dean” wherever appearing.
+Subsec. (f)(3), (5). Pub. L. 110–181, §954(b)(2), as amended by Pub. L. 110–417, §1061(b)(9), substituted "President" for "Dean" wherever appearing.
 
 Subsec. (g). Pub. L. 110–181, §524(a)(1)(A), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 110–181, §954(a)(3)(B), as amended by Pub. L. 110–417, §1061(b)(8), substituted “2113(e)” for “2113(h)”.
+Subsec. (h). Pub. L. 110–181, §954(a)(3)(B), as amended by Pub. L. 110–417, §1061(b)(8), substituted "2113(e)" for "2113(h)".
 
 Pub. L. 110–181, §524(a)(1)(A), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 110–181, §524(a)(2)(B), substituted “subsection (c)” for “subsection (b)”.
+Subsec. (i). Pub. L. 110–181, §524(a)(2)(B), substituted "subsection (c)" for "subsection (b)".
 
 Pub. L. 110–181, §524(a)(1)(A), redesignated subsec. (h) as (i).
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–375, in introductory provisions, substituted “They shall be appointed as regular officers in the grade of second lieutenant or ensign and shall serve on active duty in that grade. Upon graduation they shall be required to serve on active duty” for “Notwithstanding any other provision of law, they shall serve on active duty in pay grade O–1 with full pay and allowances of that grade. Upon graduation they shall be appointed in a regular component, if qualified,”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–375, in introductory provisions, substituted "They shall be appointed as regular officers in the grade of second lieutenant or ensign and shall serve on active duty in that grade. Upon graduation they shall be required to serve on active duty" for "Notwithstanding any other provision of law, they shall serve on active duty in pay grade O–1 with full pay and allowances of that grade. Upon graduation they shall be appointed in a regular component, if qualified,".
 
-<b>1997</b>—Subsec. (h). Pub. L. 105–85 substituted “section 2123(e)” for “section 2123(e)(1)”.
+<b>1997</b>—Subsec. (h). Pub. L. 105–85 substituted "section 2123(e)" for "section 2123(e)(1)".
 
-<b>1996</b>—Subsec. (e)(1). Pub. L. 104–106 substituted “The Secretary of Defense” for “The Board, upon approval of the Secretary of Defense,”.
+<b>1996</b>—Subsec. (e)(1). Pub. L. 104–106 substituted "The Secretary of Defense" for "The Board, upon approval of the Secretary of Defense,".
 
 Subsec. (h). Pub. L. 104–201 added subsec. (h).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–160, §732(a)(1), substituted “Medical students” for “Students” in first sentence.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, §732(a)(1), substituted "Medical students" for "Students" in first sentence.
 
-Subsec. (b). Pub. L. 103–160, §732(a)(2), substituted “Medical students” for “Students” in two places.
+Subsec. (b). Pub. L. 103–160, §732(a)(2), substituted "Medical students" for "Students" in two places.
 
-Subsec. (d). Pub. L. 103–160, §732(a)(3), substituted “medical student” for “member of the program” in first sentence and “any such student” for “any such member” in two places in second sentence.
+Subsec. (d). Pub. L. 103–160, §732(a)(3), substituted "medical student" for "member of the program" in first sentence and "any such student" for "any such member" in two places in second sentence.
 
 Subsec. (g). Pub. L. 103–160, §732(a)(4), added subsec. (g).
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–510, §533(b)(1), after fourth sentence inserted provisions relating to the time obligation to be served in the Ready Reserve upon completion of, or release from, the active-duty service obligation for members of the program who served on active duty for less than 10 years.
 
-Pub. L. 101–510, §533(a), substituted “seven years” for “10 years” in fourth sentence.
+Pub. L. 101–510, §533(a), substituted "seven years" for "10 years" in fourth sentence.
 
-Subsec. (c). Pub. L. 101–510, §533(b)(2), substituted “a commissioned service obligation” for “an active duty obligation”.
+Subsec. (c). Pub. L. 101–510, §533(b)(2), substituted "a commissioned service obligation" for "an active duty obligation".
 
 Subsec. (f). Pub. L. 101–510, §533(b)(3), added subsec. (f).
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–189 substituted “10 years” for “seven years” in fourth sentence.
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 substituted "10 years" for "seven years" in fourth sentence.
 
 <b>1984</b>—Subsec. (e). Pub. L. 98–525 added subsec. (e).
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–513, §511(65), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” wherever appearing.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513, §511(65), substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare" wherever appearing.
 
 Pub. L. 96–513, §114, struck out provision under which officers attending the Uniformed Services University of Health Sciences were not counted against authorized military strengths.
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–107 substituted “uniformed” for “uniform”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–107 substituted "uniformed" for "uniform".
 
 #### Effective Date of 2008 Amendment
 
@@ -116,19 +116,19 @@ Amendment by Pub. L. 108–375 effective on the first day of the first month beg
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–201, div. A, title VII, §741(c), Sept. 23, 1996, 110 Stat. 2600, provided that: “The amendments made by this section \[amending this section and section 2123 of this title\] shall apply with respect to individuals who first become members of the Armed Forces Health Professions Scholarship and Financial Assistance program or students of the Uniformed Services University of the Health Sciences on or after October 1, 1996.”
+Pub. L. 104–201, div. A, title VII, §741(c), Sept. 23, 1996, 110 Stat. 2600, provided that: "The amendments made by this section \[amending this section and section 2123 of this title\] shall apply with respect to individuals who first become members of the Armed Forces Health Professions Scholarship and Financial Assistance program or students of the Uniformed Services University of the Health Sciences on or after October 1, 1996."
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–160, div. A, title VII, §732(b), Nov. 30, 1993, 107 Stat. 1697, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to students attending the Uniformed Services University of the Health Sciences on or after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title VII, §732(b), Nov. 30, 1993, 107 Stat. 1697, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to students attending the Uniformed Services University of the Health Sciences on or after the date of the enactment of this Act \[Nov. 30, 1993\]."
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–510, div. A, title V, §533(d), Nov. 5, 1990, 104 Stat. 1564, provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on December 31, 1991, and shall apply to persons who are first admitted to the Uniformed Services University of the Health Sciences after that date.”
+Pub. L. 101–510, div. A, title V, §533(d), Nov. 5, 1990, 104 Stat. 1564, provided that: "The amendment made by subsection (b) \[amending this section\] shall take effect on December 31, 1991, and shall apply to persons who are first admitted to the Uniformed Services University of the Health Sciences after that date."
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–189, div. A, title V, §511(e), Nov. 29, 1989, 103 Stat. 1439, as amended by Pub. L. 101–510, div. A,title V, §533(c), Nov. 5, 1990, 104 Stat. 1564, provided that: “The amendments made by this section \[amending this section and sections 4348, 6959, and 9348 of this title\] shall apply to persons who are first admitted to one of the military service academies after December 31, 1991.”
+Pub. L. 101–189, div. A, title V, §511(e), Nov. 29, 1989, 103 Stat. 1439, as amended by Pub. L. 101–510, div. A, title V, §533(c), Nov. 5, 1990, 104 Stat. 1564, provided that: "The amendments made by this section \[amending this section and sections 4348, 6959, and 9348 of this title\] shall apply to persons who are first admitted to one of the military service academies after December 31, 1991."
 
 #### Effective Date of 1980 Amendment
 
@@ -142,5 +142,5 @@ For transfer of authority of Board of Regents of Uniformed Services University o
 
 #### Transition Provisions
 
-Pub. L. 104–201, div. A, title VII, §741(d)(2), Sept. 23, 1996, 110 Stat. 2600, provided that: “In the case of any person who, as of October 1, 1996, is serving an active-duty service obligation as a graduate of the Uniformed Services University of the Health Sciences or is incurring an active-duty service obligation as a student of the University, and who is subsequently relieved of the active-duty service obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (b) \[amending this section\] may be implemented by the Secretary of Defense with the agreement of the person.”
+Pub. L. 104–201, div. A, title VII, §741(d)(2), Sept. 23, 1996, 110 Stat. 2600, provided that: "In the case of any person who, as of October 1, 1996, is serving an active-duty service obligation as a graduate of the Uniformed Services University of the Health Sciences or is incurring an active-duty service obligation as a student of the University, and who is subsequently relieved of the active-duty service obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (b) \[amending this section\] may be implemented by the Secretary of Defense with the agreement of the person."
 

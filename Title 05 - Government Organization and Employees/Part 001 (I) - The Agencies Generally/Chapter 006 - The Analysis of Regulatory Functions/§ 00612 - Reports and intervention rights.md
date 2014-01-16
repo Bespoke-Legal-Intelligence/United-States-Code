@@ -2,7 +2,7 @@
 
 (a) The Chief Counsel for Advocacy of the Small Business Administration shall monitor agency compliance with this chapter and shall report at least annually thereon to the President and to the Committees on the Judiciary and Small Business of the Senate and House of Representatives.
 
-(b) The Chief Counsel for Advocacy of the Small Business Administration is authorized to appear as amicus curiae in any action broughtin a court of the United States to review a rule. In any such action, the Chief Counsel is authorized to present his or her views with respect to compliance with this chapter, the adequacy of the rulemaking record with respect to small entities and the effect of the rule on small entities.
+(b) The Chief Counsel for Advocacy of the Small Business Administration is authorized to appear as amicus curiae in any action brought in a court of the United States to review a rule. In any such action, the Chief Counsel is authorized to present his or her views with respect to compliance with this chapter, the adequacy of the rulemaking record with respect to small entities and the effect of the rule on small entities.
 
 (c) A court of the United States shall grant the application of the Chief Counsel for Advocacy of the Small Business Administration to appear in any such action for the purposes described in subsection (b).
 
@@ -21,4 +21,8 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under section 601 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 191 of House Document No. 103–7.
 

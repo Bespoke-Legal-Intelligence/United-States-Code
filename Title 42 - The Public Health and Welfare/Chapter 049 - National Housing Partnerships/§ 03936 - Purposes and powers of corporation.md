@@ -38,7 +38,7 @@ Nothing in this chapter shall have the effect of waiving or otherwise affecting 
 
 #### (e) Maximum combined outstanding equity commitment
 
-The combined outstanding equity commitment of the corporation and the partnership with respect to activities undertaken under subsection (a)(4) of this section may not exceed (1) 7 percent of their total combined equity commitment outstanding during the first 12-month period following October 17, 1984; (2) 14 percent of their total combined equity commitment outstanding during the second 12-month period following October 17, 1984; or (3) 20 percent of theirtotal combined equity commitment outstanding at any time thereafter.
+The combined outstanding equity commitment of the corporation and the partnership with respect to activities undertaken under subsection (a)(4) of this section may not exceed (1) 7 percent of their total combined equity commitment outstanding during the first 12-month period following October 17, 1984; (2) 14 percent of their total combined equity commitment outstanding during the second 12-month period following October 17, 1984; or (3) 20 percent of their total combined equity commitment outstanding at any time thereafter.
 
 (Pub. L. 90–448, title IX, §906, Aug. 1, 1968, 82 Stat. 548; Pub. L. 98–181, title I \[title IV, §467\], Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title I, §104(c)(1), (2), Oct. 17, 1984, 98 Stat. 2225.)
 
@@ -48,7 +48,7 @@ The District of Columbia Business Corporation Act, referred to in subsec. (c), i
 
 #### Codification
 
-In subsec. (d), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act (40 U.S.C. 267a—276a–5)”, meaning 40 U.S.C. 276a—276a–5, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (d), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Davis-Bacon Act (40 U.S.C. 267a—276a–5)", meaning 40 U.S.C. 276a—276a–5, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

@@ -20,9 +20,9 @@ Exception.—Paragraphs (1) and (2) of subsection (b) do not apply to contracts 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted “$100,000” for “$50,000”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted "$100,000" for "$50,000".
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–106 inserted heading and substituted “particular beverage” for “particular drink” and “beverage was” for “drink was”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–106 inserted heading and substituted "particular beverage" for "particular drink" and "beverage was" for "drink was".
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–355 added subsec. (c).
 
@@ -34,11 +34,11 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 Pub. L. 103–160, div. A, title III, §353, Nov. 30, 1993, 107 Stat. 1627, provided that:
 
-“(a)
+"(a)
 
 Requirement.—The Secretary of Defense shall provide for the commencement, not later than October 1, 1994, of the operation of Stars and Stripes bookstores outside of the United States by the military exchanges.
 
-“(b)
+"(b)
 
-Regulations.—The Secretary of Defense shall prescribe regulations to carry out subsection (a).”
+Regulations.—The Secretary of Defense shall prescribe regulations to carry out subsection (a)."
 

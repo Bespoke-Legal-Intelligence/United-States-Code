@@ -32,7 +32,7 @@ In awarding grants under this section, the Secretary shall—
 
 &emsp;&emsp;(B) In the case of an institution of higher education that provides institutionally owned or operated housing for students attending the institution, the integration of students with intellectual disabilities into the housing offered to nondisabled students.
 
-&emsp;&emsp;(C) The involvement of students attending the institution of higher education who arestudying special education, general education, vocational rehabilitation, assistive technology, or related fields in the model program.
+&emsp;&emsp;(C) The involvement of students attending the institution of higher education who are studying special education, general education, vocational rehabilitation, assistive technology, or related fields in the model program.
 
 #### (d) Use of funds
 

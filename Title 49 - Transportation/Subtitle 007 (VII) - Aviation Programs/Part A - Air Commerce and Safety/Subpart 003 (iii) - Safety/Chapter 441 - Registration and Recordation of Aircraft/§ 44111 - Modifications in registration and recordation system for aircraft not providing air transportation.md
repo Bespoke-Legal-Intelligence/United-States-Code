@@ -28,7 +28,7 @@ Nature of Modifications.—Modifications made under subsection (b) of this secti
 
 &emsp;&emsp;(B) the use of false or nonexistent addresses by persons registering aircraft.
 
-&emsp;&emsp;(C) the use by a person registering an aircraft of a post office box or “mail drop” as a return address to evade identification of the person's address.
+&emsp;&emsp;(C) the use by a person registering an aircraft of a post office box or "mail drop" as a return address to evade identification of the person's address.
 
 &emsp;&emsp;(D) the registration of aircraft to entities established to facilitate unlawful activities.
 
@@ -38,9 +38,9 @@ Nature of Modifications.—Modifications made under subsection (b) of this secti
 
 &emsp;&emsp;(G) the use of false registration markings on aircraft.
 
-&emsp;&emsp;(H) the illegal use of “reserved” registration markings on aircraft.
+&emsp;&emsp;(H) the illegal use of "reserved" registration markings on aircraft.
 
-&emsp;&emsp;(I) the large number of aircraft classified as being in “self-reported status”.
+&emsp;&emsp;(I) the large number of aircraft classified as being in "self-reported status".
 
 &emsp;&emsp;(J) the lack of a system to ensure timely and adequate notice of the transfer of ownership of aircraft.
 
@@ -90,9 +90,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §501(h); added Nov. 11, 1988, Pu
 
 Nov. 18, 1988, Pub. L. 100–690, §7207(a), (b), 102 Stat. 4427.
 
-In subsection (c)(3)(D), the words “corporations and others” are omitted as surplus.
+In subsection (c)(3)(D), the words "corporations and others" are omitted as surplus.
 
-In subsection (d)(1), the words “Not later than September 18, 1989” and “final” are omitted as obsolete. The words “Administrator of Drug Enforcement” are substituted for “Drug Enforcement Administration of the Department of Justice” because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092).
+In subsection (d)(1), the words "Not later than September 18, 1989" and "final" are omitted as obsolete. The words "Administrator of Drug Enforcement" are substituted for "Drug Enforcement Administration of the Department of Justice" because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092).
 
 #### Transfer of Functions
 
@@ -102,45 +102,45 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 Pub. L. 100–690, title VII, §7207(d), (e), Nov. 18, 1988, 102 Stat. 4428, provided that:
 
-“(d)
+"(d)
 
 Report.—Not later than 180 days after the date of the enactment of this subtitle \[Nov. 18, 1988\] and annually thereafter during the 5-year period beginning on such 180th day, the Administrator shall prepare and transmit to Congress a report on the following:
 
-&emsp;“(1) The status of the rulemaking process, issuance of regulations, and implementation of regulations in accordance with this section \[see subsec. (d) of this section\].
+&emsp;"(1) The status of the rulemaking process, issuance of regulations, and implementation of regulations in accordance with this section \[see subsec. (d) of this section\].
 
-&emsp;“(2) The progress being made in reducing the number of aircraft classified by the Federal Aviation Administration as being in ‘sale-reported status’.
+&emsp;"(2) The progress being made in reducing the number of aircraft classified by the Federal Aviation Administration as being in 'sale-reported status'.
 
-&emsp;“(3) The progress being made in expediting the filing and processing of forms for major repairs and alterations of fuel tanks and fuel systems of aircraft.
+&emsp;"(3) The progress being made in expediting the filing and processing of forms for major repairs and alterations of fuel tanks and fuel systems of aircraft.
 
-&emsp;“(4) The status of establishing and collecting fees under section 313(f) of the Federal Aviation Act \[see section 45302(b) of this title\].
+&emsp;"(4) The status of establishing and collecting fees under section 313(f) of the Federal Aviation Act \[see section 45302(b) of this title\].
 
-“(e)
+"(e)
 
 Definitions.—For purposes of this subtitle \[subtitle E (§§7201–7214) of title VII of Pub. L. 100–690, see Tables for classification\]—
 
-&emsp;“(1)
+&emsp;"(1)
 
-Administrator.—The term ‘Administrator’ means the Administrator of the Federal Aviation Administration.
+Administrator.—The term 'Administrator' means the Administrator of the Federal Aviation Administration.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Aircraft.—The term ‘aircraft’ has the meaning such term has under section 101 of the Federal Aviation Act of 1958 \[see section 40102 of this title\].”
+Aircraft.—The term 'aircraft' has the meaning such term has under section 101 of the Federal Aviation Act of 1958 \[see section 40102 of this title\]."
 
 #### Information Coordination
 
-Pub. L. 100–690, title VII, §7210, Nov. 18, 1988, 102 Stat. 4432, provided that: “Not later than 180 days after the date of the enactment of this subtitle \[Nov. 18, 1988\] and annually thereafter during the 3-year period beginning on such 180th day, the Administrator shall prepare and transmit to Congress a report on the following:
+Pub. L. 100–690, title VII, §7210, Nov. 18, 1988, 102 Stat. 4432, provided that: "Not later than 180 days after the date of the enactment of this subtitle \[Nov. 18, 1988\] and annually thereafter during the 3-year period beginning on such 180th day, the Administrator shall prepare and transmit to Congress a report on the following:
 
-&emsp;“(1) The progress made in establishing a process for provision of informational assistance by such Administration to officials of Federal, State, and local law enforcement agencies.
+&emsp;"(1) The progress made in establishing a process for provision of informational assistance by such Administration to officials of Federal, State, and local law enforcement agencies.
 
-&emsp;“(2) The progress made in establishing a process for effectively pursuing suspensions and revocations of certificates of registration and airman certificates in accordance with the amendments made to the Federal Aviation Act of 1958 by the Aviation Drug-Trafficking Control Act \[Pub. L. 98–499, see Tables for classification\], section 3401 of the Anti-Drug Abuse Act of 1986 \[Pub. L. 99–570\], and this subtitle \[subtitle E (§§7201–7214) of title VII of Pub. L. 100–690\].
+&emsp;"(2) The progress made in establishing a process for effectively pursuing suspensions and revocations of certificates of registration and airman certificates in accordance with the amendments made to the Federal Aviation Act of 1958 by the Aviation Drug-Trafficking Control Act \[Pub. L. 98–499, see Tables for classification\], section 3401 of the Anti-Drug Abuse Act of 1986 \[Pub. L. 99–570\], and this subtitle \[subtitle E (§§7201–7214) of title VII of Pub. L. 100–690\].
 
-&emsp;“(3) The efforts of such Administration in assessing and defining the appropriate relationship of such Administration's informational assistance resources (including the El Paso Intelligence Center and the Law Enforcement Assistance Unit of the Aeronautical Center of such Administration).
+&emsp;"(3) The efforts of such Administration in assessing and defining the appropriate relationship of such Administration's informational assistance resources (including the El Paso Intelligence Center and the Law Enforcement Assistance Unit of the Aeronautical Center of such Administration).
 
-&emsp;“(4) The progress made in issuing guidelines on (A) the reporting of aviation sensitive drug-related information, and (B) the development, in coordination with the Drug Enforcement Administration of the Department of Justice and the United States Customs Service, of training and educational policies to assist employees of such Administration to better understand (i) the trafficking of controlled substances (as defined in section 102 of the Controlled Substances Act \[21 U.S.C. 802\]), and (ii) the role of such Administration with respect to such trafficking.
+&emsp;"(4) The progress made in issuing guidelines on (A) the reporting of aviation sensitive drug-related information, and (B) the development, in coordination with the Drug Enforcement Administration of the Department of Justice and the United States Customs Service, of training and educational policies to assist employees of such Administration to better understand (i) the trafficking of controlled substances (as defined in section 102 of the Controlled Substances Act \[21 U.S.C. 802\]), and (ii) the role of such Administration with respect to such trafficking.
 
-&emsp;“(5) The progress made in improving and expanding such Administration's role in the El Paso Intelligence Center.”
+&emsp;"(5) The progress made in improving and expanding such Administration's role in the El Paso Intelligence Center."
 
 #### Applicability of Paperwork Reduction Act
 
-Pub. L. 100–690, title VII, §7211(b), Nov. 18, 1988, 102 Stat. 4433, provided that: “No information collection requests necessary to carry out the objectives of this subtitle \[subtitle E (§§7201–7214) of title VI of Pub. L. 100–690, see Tables for classification\] (including the amendments made by this subtitle) shall be subject to or affect, directly or indirectly, the annual information collection budget goals established for the Federal Aviation Administration and the Department of Transportation under chapter 35 of title 44, United States Code.”
+Pub. L. 100–690, title VII, §7211(b), Nov. 18, 1988, 102 Stat. 4433, provided that: "No information collection requests necessary to carry out the objectives of this subtitle \[subtitle E (§§7201–7214) of title VI of Pub. L. 100–690, see Tables for classification\] (including the amendments made by this subtitle) shall be subject to or affect, directly or indirectly, the annual information collection budget goals established for the Federal Aviation Administration and the Department of Transportation under chapter 35 of title 44, United States Code."
 

@@ -20,5 +20,5 @@ The Administrator of the Agency for International Development shall assess the l
 
 Another section 466 of Pub. L. 87–195 is classified to section 2276 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1)".</i>
 

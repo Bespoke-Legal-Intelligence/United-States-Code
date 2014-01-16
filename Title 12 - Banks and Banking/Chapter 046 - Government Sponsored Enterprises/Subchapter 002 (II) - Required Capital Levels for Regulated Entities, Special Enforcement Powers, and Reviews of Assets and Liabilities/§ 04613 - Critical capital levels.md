@@ -28,5 +28,5 @@ For purposes of this subchapter, the critical capital level for each enterprise 
 
 #### Regulations
 
-Pub. L. 110–289, div. A, title I, §1141(b), July 30, 2008, 122 Stat. 2730, provided that: “Not later than the expiration of the 180-day period beginning on the date of enactment of this Act \[July 30, 2008\], the Director of the Federal Housing Finance Agency shall issue regulations pursuant to section 1363(b) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4613(b)\] (as added by this section) establishing the critical capital level under such section.”
+Pub. L. 110–289, div. A, title I, §1141(b), July 30, 2008, 122 Stat. 2730, provided that: "Not later than the expiration of the 180-day period beginning on the date of enactment of this Act \[July 30, 2008\], the Director of the Federal Housing Finance Agency shall issue regulations pursuant to section 1363(b) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4613(b)\] (as added by this section) establishing the critical capital level under such section."
 

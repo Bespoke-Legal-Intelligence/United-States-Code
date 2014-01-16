@@ -6,7 +6,7 @@ Requirement.—(1)(A) Before the Secretary of Defense enters into a contract des
 
 (B) Subparagraph (A) applies to any contract of the Department of Defense for advisory and assistance services that is expected to have a value in excess of $100,000.
 
-(2) If the Secretary determines that Department of Defense personnel have the capability to perform the services to be covered by the contract, the Secretary shall conduct a study comparing the cost of performing the services with Department of Defense personnel and the cost of performing the services with contractor personnel.
+(2) If the Secretary determines that Department of Defense personnel have the capabilityto perform the services to be covered by the contract, the Secretary shall conduct a study comparing the cost of performing the services with Department of Defense personnel and the cost of performing the services with contractor personnel.
 
 (b)
 
@@ -16,13 +16,13 @@ Waiver.—The Secretary of Defense may, pursuant to guidelines prescribed by the
 
 #### Effective Date
 
-Pub. L. 103–337, div. A, title III, §363(c), Oct. 5, 1994, 108 Stat. 2734, provided that: “Section 2410l of title 10, United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act \[Oct. 5, 1994\].”
+Pub. L. 103–337, div. A, title III, §363(c), Oct. 5, 1994, 108 Stat. 2734, provided that: "Section 2410l of title 10, United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act \[Oct. 5, 1994\]."
 
 #### Procedures for Conduct of Studies
 
-Pub. L. 103–337, div. A, title III, §363(b), Oct. 5, 1994, 108 Stat. 2734, provided that: “The Secretary of Defense shall prescribe the following procedures:
+Pub. L. 103–337, div. A, title III, §363(b), Oct. 5, 1994, 108 Stat. 2734, provided that: "The Secretary of Defense shall prescribe the following procedures:
 
-&emsp;“(1) Procedures for carrying out a cost comparison study under subsection (a)(2) of section 2410l of title 10, United States Code, as added by subsection (a), which may contain a requirement that the cost comparison study include consideration of factors that are not related to cost, including the quality of the service required to be performed, the availability of Department of Defense personnel, the duration and recurring nature of the services to be performed, and the consistency of the workload.
+&emsp;"(1) Procedures for carrying out a cost comparison study under subsection (a)(2) of section 2410l of title 10, United States Code, as added by subsection (a), which may contain a requirement that the cost comparison study include consideration of factors that are not related to cost, including the quality of the service required to be performed, the availability of Department of Defense personnel, the duration and recurring nature of the services to be performed, and the consistency of the workload.
 
-&emsp;“(2) Procedures for reviewing contracts entered into after a waiver under subsection (b) of such section to determine whether the contract is justified and sufficiently documented.”
+&emsp;"(2) Procedures for reviewing contracts entered into after a waiver under subsection (b) of such section to determine whether the contract is justified and sufficiently documented."
 

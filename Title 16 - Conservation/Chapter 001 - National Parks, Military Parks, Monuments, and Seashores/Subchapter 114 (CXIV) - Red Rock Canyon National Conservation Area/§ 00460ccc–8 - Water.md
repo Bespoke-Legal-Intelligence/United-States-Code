@@ -18,13 +18,13 @@ The Federal water rights reserved by this subchapter shall be in addition to any
 
 #### (e) Scope and construction of rights
 
-The Federal water rights reserved by this subchapter are specific to the conservation areadesignated by this subchapter. Nothing in this subchapter shall be construed as establishing a precedent with regard to any future designations, nor shall it constitute an interpretation of any other Act or any designation.
+The Federal water rights reserved by this subchapter are specific to the conservation area designated by this subchapter. Nothing in this subchapter shall be construed as establishing a precedent with regard to any future designations, nor shall it constitute an interpretation of any other Act or any designation.
 
 (Pub. L. 101–621, §10, Nov. 16, 1990, 104 Stat. 3345; Pub. L. 103–450, §2(c), Nov. 2, 1994, 108 Stat. 4766.)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–450 inserted before period at end “, except that as related to rights associated with lands added to the conservation area after November 16, 1990, the priority date shall be the date of enactment of the Act adding such lands to the conservation area”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–450 inserted before period at end ", except that as related to rights associated with lands added to the conservation area after November 16, 1990, the priority date shall be the date of enactment of the Act adding such lands to the conservation area".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

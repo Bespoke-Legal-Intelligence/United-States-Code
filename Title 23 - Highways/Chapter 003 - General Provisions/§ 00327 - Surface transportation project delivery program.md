@@ -6,7 +6,7 @@ Establishment.—
 
 &emsp;(1)
 
-In general.—The Secretary shall carry out a surface transportation project delivery program (referred to in this section as the “program”).
+In general.—The Secretary shall carry out a surface transportation project delivery program (referred to in this section as the "program").
 
 &emsp;(2)
 
@@ -50,7 +50,7 @@ Preservation of flexibility.—The Secretary may not require a State, as a condi
 
 &emsp;&emsp;(G)
 
-Legal fees.—A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorneys’ fees directly attributable to eligible activities associated with the project.
+Legal fees.—A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorneys' fees directly attributable to eligible activities associated with the project.
 
 (b)
 
@@ -68,7 +68,7 @@ Application.—Not later than 270 days after the date on which amendments to thi
 
 &emsp;&emsp;(B) verification of the financial resources necessary to carry out the authority that may be granted under the program; and
 
-&emsp;&emsp;(C) evidence of the notice and solicitation of public comment by the State relating to participation of the State in the program, including copies of comments received from that solicitation.
+&emsp;&emsp;(C) evidence of the notice and solicitation of public comment by the State relating to participation of the State in the program,including copies of comments received from that solicitation.
 
 &emsp;(3)
 
@@ -194,7 +194,7 @@ Termination by the secretary.—The Secretary may terminate the participation of
 
 &emsp;&emsp;&emsp;(i) notification of the determination of noncompliance; and
 
-&emsp;&emsp;&emsp;(ii) a period of at least 30 days during which to take such corrective action as the Secretary determines is necessary to comply with the applicable agreement; and
+&emsp;&emsp;&emsp;(ii) a period of at least 30 days during which to take such corrective action asthe Secretary determines is necessary to comply with the applicable agreement; and
 
 &emsp;&emsp;(C) the State, after the notification and period provided under subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.
 
@@ -212,45 +212,45 @@ The date on which amendments to this section by the MAP-21 take effect, referred
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141, §1313(a)(1), struck out “pilot” before “program” in section catchline.
+<b>2012</b>—Pub. L. 112–141, §1313(a)(1), struck out "pilot" before "program" in section catchline.
 
-Subsec. (a)(1). Pub. L. 112–141, §1313(a)(2), struck out “pilot” before “program (referred to”.
+Subsec. (a)(1). Pub. L. 112–141, §1313(a)(2), struck out "pilot" before "program (referred to".
 
-Subsec. (a)(2)(B)(ii) to (iv). Pub. L. 112–141, §1313(b)(1), added cls. (ii) to (iv) and struck out former cl. (ii) which read as follows: “the Secretary may not assign—
+Subsec. (a)(2)(B)(ii) to (iv). Pub. L. 112–141, §1313(b)(1), added cls. (ii) to (iv) and struck out former cl. (ii) which read as follows: "the Secretary may not assign—
 
-&emsp;“(I) responsibility for any conformity determination required under section 176 of the Clean Air Act (42 U.S.C. 7506); or
+&emsp;"(I) responsibility for any conformity determination required under section 176 of the Clean Air Act (42 U.S.C. 7506); or
 
-&emsp;“(II) any responsibility imposed on the Secretary by section 134 or 135.”
+&emsp;"(II) any responsibility imposed on the Secretary by section 134 or 135."
 
 Subsec. (a)(2)(F), (G). Pub. L. 112–141, §1313(b)(2), added subpars. (F) and (G).
 
-Subsec. (b)(1). Pub. L. 112–141, §1313(c)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may permit not more than 5 States (including the States of Alaska, California, Ohio, Oklahoma, and Texas) to participate in the program.”
+Subsec. (b)(1). Pub. L. 112–141, §1313(c)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Secretary may permit not more than 5 States (including the States of Alaska, California, Ohio, Oklahoma, and Texas) to participate in the program."
 
-Subsec. (b)(2). Pub. L. 112–141, §1313(c)(2), substituted “date on which amendments to this section by the MAP-21 take effect, the Secretary shall amend, as appropriate,” for “date of enactment of this section, the Secretary shall promulgate” in introductory provisions.
+Subsec. (b)(2). Pub. L. 112–141, §1313(c)(2), substituted "date on which amendments to this section by the MAP-21 take effect, the Secretary shall amend, as appropriate," for "date of enactment of this section, the Secretary shall promulgate" in introductory provisions.
 
 Subsec. (c)(4) to (6). Pub. L. 112–141, §1313(d), added pars. (4) to (6).
 
-Subsec. (e). Pub. L. 112–141, §1313(e), substituted “subsection (j)” for “subsection (i)”.
+Subsec. (e). Pub. L. 112–141, §1313(e), substituted "subsection (j)" for "subsection (i)".
 
-Subsec. (g)(1)(B). Pub. L. 112–141, §1313(f), substituted “of the third and fourth years” for “subsequent year”.
+Subsec. (g)(1)(B). Pub. L. 112–141, §1313(f), substituted "of the third and fourth years" for "subsequent year".
 
 Subsec. (h). Pub. L. 112–141, §1313(g)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 112–141, §1313(g)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (i)(1). Pub. L. 112–140 substituted “September 30, 2012” for “the date that is 7 years after the date of enactment of this section”.
+Subsec. (i)(1). Pub. L. 112–140 substituted "September 30, 2012" for "the date that is 7 years after the date of enactment of this section".
 
 Subsec. (j). Pub. L. 112–141, §1313(h), amended subsec. (j) generally. Prior to amendment, subsec. (j) related to termination of the original pilot program on Sept. 30, 2012, and termination of State participation by the Secretary.
 
 Pub. L. 112–141, §1313(g)(1), redesignated subsec. (i) as (j).
 
-<b>2010</b>—Subsec. (i)(1). Pub. L. 111–322 substituted “7 years after” for “6 years after”.
+<b>2010</b>—Subsec. (i)(1). Pub. L. 111–322 substituted "7 years after" for "6 years after".
 
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-Pub. L. 112–140, title I, §101(e)(2), June 29, 2012, 126 Stat. 392, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in section 101 of the Surface Transportation Extension Act of 2012 \[Pub. L. 112–102\] and shall not be subject to the special rule in section 1(c) of this Act \[set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title\].”
+Pub. L. 112–140, title I, §101(e)(2), June 29, 2012, 126 Stat. 392, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in section 101 of the Surface Transportation Extension Act of 2012 \[Pub. L. 112–102\] and shall not be subject to the special rule in section 1(c) of this Act \[set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title\]."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

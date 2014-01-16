@@ -30,7 +30,7 @@ Transition From Prior Register.—(1) The Secretary shall provide by regulation 
 
 (B) The report or information shall be disposed of under chapter 33 of title 44.
 
-(3) If the chief driver licensing official of a participating State finds that information provided for inclusion in the Register is erroneous or is related to a conviction of a traffic offense that subsequently is reversed, the official immediately shall notify the Secretary. The Secretary shall provide for the immediate deletion of the information from the Register.
+(3) If the chief driver licensing official of a participating State finds that information provided for inclusion in the Register is erroneous or is related to a conviction of a traffic offensethat subsequently is reversed, the official immediately shall notify the Secretary. The Secretary shall provide for the immediate deletion of the information from the Register.
 
 (d)
 
@@ -46,7 +46,7 @@ Agreement.—The Secretary may enter into an agreement with an organization that
 
 &emsp;(2)
 
-Required demonstration.—Any transfer of the National Driver Register's computer timeshare and user assistance functions to an organization that represents the interests of the States shall begin only after a determination is made by the Secretary that all Statesare participating in the National Driver Register's “Problem Driver Pointer System” (the system used by the Register to effect the exchange of motor vehicle driving records) and that the system is functioning properly.
+Required demonstration.—Any transfer of the National Driver Register's computer timeshare and user assistance functions to an organization that represents the interests of the States shall begin only after a determination is made by the Secretary that all States are participating in the National Driver Register's "Problem Driver Pointer System" (the system used by the Register to effect the exchange of motor vehicle driving records) and that the system is functioning properly.
 
 &emsp;(3)
 
@@ -78,9 +78,9 @@ Historical and Revision Notes
 
 Oct. 25, 1982, Pub. L. 97–364, §203, 96 Stat. 1741.
 
-In subsection (a), before clause (1), the words “after the date of enactment of this title \[Oct. 25, 1982\]” are omitted as obsolete.
+In subsection (a), before clause (1), the words "after the date of enactment of this title \[Oct. 25, 1982\]" are omitted as obsolete.
 
-In subsection (c)(1), the words “The Secretary shall provide by regulation” are substituted for “The Secretary shall, within eighteen months after the date of enactment of this title \[Oct. 25, 1982\], promulgate a final rule which provides” to eliminate executed language, for consistency in the revised title, and because “rule” and “regulation” are synonymous.
+In subsection (c)(1), the words "The Secretary shall provide by regulation" are substituted for "The Secretary shall, within eighteen months after the date of enactment of this title \[Oct. 25, 1982\], promulgate a final rule which provides" to eliminate executed language, for consistency in the revised title, and because "rule" and "regulation" are synonymous.
 
 The text of section 203(e) of the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1742) is omitted as unnecessary because of 49:322(a).
 
@@ -90,7 +90,7 @@ Act of July 14, 1960, referred to in subsec. (c)(1), (2)(A), is set out below.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–141 inserted at end “The Secretary shall make continual improvements to modernize the Register's data processing system.”
+<b>2012</b>—Subsec. (b). Pub. L. 112–141 inserted at end "The Secretary shall make continual improvements to modernize the Register's data processing system."
 
 <b>1998</b>—Subsec. (e). Pub. L. 105–178 added subsec. (e).
 
@@ -100,13 +100,13 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Register of Revocations of Motor Vehicle Operator's Licenses
 
-Pub. L. 86–660, July 14, 1960, 74 Stat. 526, as amended by Pub. L. 87–359, Oct. 4, 1961, 75 Stat. 779; Pub. L. 89–563, title IV, §401, Sept. 9, 1966, 80 Stat. 730, provided: “That the Secretary of Commerce shall establish and maintain a register identifying each individual reported to him by a State, or political subdivision thereof, as an individual with respect to whom such State or political subdivision has denied, terminated, or temporarily withdrawn (except a withdrawal for less than six months based on a series of nonmoving violations) an individual's license or privilege to operate a motor vehicle.
+Pub. L. 86–660, July 14, 1960, 74 Stat. 526, as amended by Pub. L. 87–359, Oct. 4, 1961, 75 Stat. 779; Pub. L. 89–563, title IV, §401, Sept. 9, 1966, 80 Stat. 730, provided: "That the Secretary of Commerce shall establish and maintain a register identifying each individual reported to him by a State, or political subdivision thereof, as an individual with respect to whom such State or political subdivision has denied, terminated, or temporarily withdrawn (except a withdrawal for less than six months based on a series of nonmoving violations) an individual's license or privilege to operate a motor vehicle.
 
-“
+"
 
 Sec. 2. Only at the request of a State, a political subdivision thereof, or a Federal department or agency, shall the Secretary furnish information contained in the register established under the first section of this Act, and such information shall be furnished only to the requesting party and only with respect to an individual applicant for a motor vehicle operator's license or permit.
 
-“
+"
 
-Sec. 3. As used in this Act, the term ‘State’ includes each of the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Virgin Islands, the Canal Zone, and American Samoa.”
+Sec. 3. As used in this Act, the term 'State' includes each of the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Virgin Islands, the Canal Zone, and American Samoa."
 

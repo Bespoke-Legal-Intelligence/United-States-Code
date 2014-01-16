@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Individual with a disability
 
-&emsp;The term “individual with a disability” means an individual with a disability (as defined in section 12102 of title 42).
+&emsp;The term "individual with a disability" means an individual with a disability (as defined in section 12102 of title 42).
 
 #### (2) Individuals with disabilities
 
-&emsp;The term “individuals with disabilities” means more than 1 individual with a disability.
+&emsp;The term "individuals with disabilities" means more than 1 individual with a disability.
 
 #### (b) Grants
 

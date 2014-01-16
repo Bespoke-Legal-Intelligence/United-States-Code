@@ -4,11 +4,11 @@ In this chapter, the following definitions apply:
 
 &emsp;(1)
 
-Unit of general local government.—The term “unit of general local government” means a city, county, town, parish, village, or other general-purpose political subdivision of a State.
+Unit of general local government.—The term "unit of general local government" means a city, county, town, parish, village, or other general-purpose political subdivision of a State.
 
 &emsp;(2)
 
-Urban area.—The term “urban area” means—
+Urban area.—The term "urban area" means—
 
 &emsp;&emsp;(A) a geographical area within the jurisdiction of an incorporated city, town, borough, village, or other unit of general local government, except a county or parish, having a population of at least 10,000 inhabitants;
 

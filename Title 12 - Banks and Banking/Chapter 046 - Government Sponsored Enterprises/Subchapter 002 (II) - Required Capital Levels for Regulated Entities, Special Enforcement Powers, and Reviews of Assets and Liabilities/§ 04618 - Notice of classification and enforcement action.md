@@ -50,7 +50,7 @@ Section 4616(b)(6) of this title, referred to in subsec. (b)(3), was repealed an
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–289 substituted “a regulated entity” for “an enterprise” and “the regulated entity” for “the enterprise” wherever appearing.
+<b>2008</b>—Pub. L. 110–289 substituted "a regulated entity" for "an enterprise" and "the regulated entity" for "the enterprise" wherever appearing.
 
 #### Change of Name
 

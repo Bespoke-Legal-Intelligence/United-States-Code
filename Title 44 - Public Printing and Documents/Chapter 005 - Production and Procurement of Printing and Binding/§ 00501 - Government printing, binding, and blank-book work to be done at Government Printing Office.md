@@ -20,103 +20,103 @@ This section incorporates only the first sentence of former section 116. The bal
 
 Pub. L. 103–348, Oct. 6, 1994, 108 Stat. 3133, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘Vegetable Ink Printing Act of 1994’.”
+"This Act may be cited as the 'Vegetable Ink Printing Act of 1994'."
 
-#### “SEC. 2. FINDINGS AND PURPOSES.
+#### "SEC. 2. FINDINGS AND PURPOSES.
 
-“(a)
+"(a)
 
 Findings.—The Congress finds the following:
 
-&emsp;“(1) More than 95 percent of Federal printing involving documents or publications is performed using lithographic inks.
+&emsp;"(1) More than 95 percent of Federal printing involving documents or publications is performed using lithographic inks.
 
-&emsp;“(2) Various types of oil, including petroleum and vegetable oil, are used in lithographic ink.
+&emsp;"(2) Various types of oil, including petroleum and vegetable oil, are used in lithographic ink.
 
-&emsp;“(3) Increasing the amount of vegetable oil used in a lithographic ink would—
+&emsp;"(3) Increasing the amount of vegetable oil used in a lithographic ink would—
 
-&emsp;&emsp;“(A) help reduce the Nation's use of nonrenewable energy resources;
+&emsp;&emsp;"(A) help reduce the Nation's use of nonrenewable energy resources;
 
-&emsp;&emsp;“(B) result in the use of products that are less damaging to the environment;
+&emsp;&emsp;"(B) result in the use of products that are less damaging to the environment;
 
-&emsp;&emsp;“(C) result in a reduction of volatile organic compound emissions; and
+&emsp;&emsp;"(C) result in a reduction of volatile organic compound emissions; and
 
-&emsp;&emsp;“(D) increase the use of renewable agricultural products.
+&emsp;&emsp;"(D) increase the use of renewable agricultural products.
 
-&emsp;“(4) The technology exists to use vegetable oil in lithographic ink and, in some applications, to use lithographic ink that uses no petroleum distillates in the liquid portion of the ink.
+&emsp;"(4) The technology exists to use vegetable oil in lithographic ink and, in some applications, to use lithographic ink that uses no petroleum distillates in the liquid portion of the ink.
 
-&emsp;“(5) Some lithographic inks have contained vegetable oils for many years; other lithographic inks have more recently begun to use vegetable oil.
+&emsp;"(5) Some lithographic inks have contained vegetable oils for many years; other lithographic inks have more recently begun to use vegetable oil.
 
-&emsp;“(6) According to the Government Printing Office, using vegetable oil-based ink appears to add little if any additional cost to Government printing.
+&emsp;"(6) According to the Government Printing Office, using vegetable oil-based ink appears to add little if any additional cost to Government printing.
 
-&emsp;“(7) Use of vegetable oil-based ink in Federal Government printing should further develop—
+&emsp;"(7) Use of vegetable oil-based ink in Federal Government printing should further develop—
 
-&emsp;&emsp;“(A) the commercial viability of vegetable oil-based ink, which could result in demand, for domestic use alone, for 2,500,000,000 pounds of vegetable crops or 500,000,000 pounds of vegetable oil; and
+&emsp;&emsp;"(A) the commercial viability of vegetable oil-based ink, which could result in demand, for domestic use alone, for 2,500,000,000 pounds of vegetable crops or 500,000,000 pounds of vegetable oil; and
 
-&emsp;&emsp;“(B) a product that could help the United States retain or enlarge its share of the world market for vegetable oil-ink.
+&emsp;&emsp;"(B) a product that could help the United States retain or enlarge its share of the world market for vegetable oil-ink.
 
-“(b)
+"(b)
 
 Purpose.—The purpose of this Act is to require that all lithographic printing using ink containing oil that is performed or procured by a Federal agency shall use ink containing the maximum amounts of vegetable oil and materials derived from other renewable resources that—
 
-&emsp;“(1) are technologically feasible, and
+&emsp;"(1) are technologically feasible, and
 
-&emsp;“(2) result in printing costs that are competitive with printing using petroleum-based inks.
+&emsp;"(2) result in printing costs that are competitive with printing using petroleum-based inks.
 
-#### “SEC. 3. FEDERAL PRINTING REQUIREMENTS.
+#### "SEC. 3. FEDERAL PRINTING REQUIREMENTS.
 
-“(a)
+"(a)
 
 General Rule.—Notwithstanding any other law, and except as provided in subsection (b), a Federal agency may not perform or procure lithographic printing that uses ink containing oil if the ink contains less than the following percentage of vegetable oil:
 
-&emsp;“(1) In the case of news ink, 40 percent.
+&emsp;"(1) In the case of news ink, 40 percent.
 
-&emsp;“(2) In the case of sheet-fed ink, 20 percent.
+&emsp;"(2) In the case of sheet-fed ink, 20 percent.
 
-&emsp;“(3) In the case of forms ink, 20 percent.
+&emsp;"(3) In the case of forms ink, 20 percent.
 
-&emsp;“(4) In the case of heat-set ink, 10 percent.
+&emsp;"(4) In the case of heat-set ink, 10 percent.
 
-“(b)
+"(b)
 
 Exceptions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Exceptions.—Subsection (a) shall not apply to lithographic printing performed or procured by a Federal agency, if—
 
-&emsp;&emsp;“(A) the head of the agency determines, after consultation with the Public Printer and within the 3-year period ending on the date of the commencement of the printing or the date of that procurement, respectively, that vegetable oil-based ink is not suitable to meet specific, identified requirements of the agency related to the printing; or
+&emsp;&emsp;"(A) the head of the agency determines, after consultation with the Public Printer and within the 3-year period ending on the date of the commencement of the printing or the date of that procurement, respectively, that vegetable oil-based ink is not suitable to meet specific, identified requirements of the agency related to the printing; or
 
-&emsp;&emsp;“(B) the Public Printer determines—
+&emsp;&emsp;"(B) the Public Printer determines—
 
-&emsp;&emsp;&emsp;“(i) within the 3-month period ending on the date of the commencement of the printing, in the case of printing of materials that are printed at intervals of less than 6 months, or
+&emsp;&emsp;&emsp;"(i) within the 3-month period ending on the date of the commencement of the printing, in the case of printing of materials that are printed at intervals of less than 6 months, or
 
-&emsp;&emsp;&emsp;“(ii) before the date of the commencement of the printing, in the case of printing of materials that are printed at intervals of 6 months or more;
+&emsp;&emsp;&emsp;"(ii) before the date of the commencement of the printing, in the case of printing of materials that are printed at intervals of 6 months or more;
 
 &nbsp;&nbsp;that the cost of performing the printing using vegetable oil-based ink is significantly greater than the cost of performing the printing using other available ink.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Notice to congress.—Not later than 30 days after making a determination under paragraph (1)(A), the head of a Federal agency shall report the determination to the Committee on Government Operations \[now Committee on Oversight and Government Reform\] and the Committee on House Administration of the House of Representatives, and the Committee on Rules of the Senate.
 
-“(c)
+"(c)
 
-Federal Agency Defined.—In this Act, the term ‘Federal agency’ means—
+Federal Agency Defined.—In this Act, the term 'Federal agency' means—
 
-&emsp;“(1) an executive department, military department, Government corporation, Government-controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency; and
+&emsp;"(1) an executive department, military department, Government corporation, Government-controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency; and
 
-&emsp;“(2) an establishment or component of the legislative or judicial branch of the Government.”
+&emsp;"(2) an establishment or component of the legislative or judicial branch of the Government."
 
-#### Government Publications: Printing; GPO Procurement; Executive Branch Procurement of Certain Kinds of Printing; “Printing” Defined
+#### Government Publications: Printing; GPO Procurement; Executive Branch Procurement of Certain Kinds of Printing; "Printing" Defined
 
 Pub. L. 102–392, title II, §207(a), Oct. 6, 1992, 106 Stat. 1719, as amended by Pub. L. 103–283, title II, §207, July 22, 1994, 108 Stat. 1440; Pub. L. 104–201, div. A, title XI, §1112(e)(1), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 110–417, \[div. A\], title IX, §931(b)(4), Oct. 14, 2008, 122 Stat. 4575, provided that:
 
-“(1) None of the funds appropriated for any fiscal year may be obligated or expended by any entity of the executive branch for the procurement of any printing related to the production of Government publications (including printed forms), unless such procurement is by or through the Government Printing Office.
+"(1) None of the funds appropriated for any fiscal year may be obligated or expended by any entity of the executive branch for the procurement of any printing related to the production of Government publications (including printed forms), unless such procurement is by or through the Government Printing Office.
 
-“(2) Paragraph (1) does not apply to (A) individual printing orders costing not more than $1,000, if the work is not of a continuing or repetitive nature, and, as certified by the Public Printer, if the work is included in a class of work which cannot be provided more economically through the Government Printing Office, (B) printing for the Central Intelligence Agency, the Defense Intelligence Agency, National Geospatial-Intelligence Agency, or the National Security Agency, or (C) printing from other sources that is specifically authorized by law.
+"(2) Paragraph (1) does not apply to (A) individual printing orders costing not more than $1,000, if the work is not of a continuing or repetitive nature, and, as certified by the Public Printer, if the work is included in a class of work which cannot be provided more economically through the Government Printing Office, (B) printing for the Central Intelligence Agency, the Defense Intelligence Agency, National Geospatial-Intelligence Agency, or the National Security Agency, or (C) printing from other sources that is specifically authorized by law.
 
-“(3) As used in this section, the term ‘printing’ includes the processes of composition, platemaking, presswork, duplicating, silk screen processes, binding, microform, and the end items of such processes.”
+"(3) As used in this section, the term 'printing' includes the processes of composition, platemaking, presswork, duplicating, silk screen processes, binding, microform, and the end items of such processes."
 
 Similar provisions were contained in the following prior appropriation acts:
 

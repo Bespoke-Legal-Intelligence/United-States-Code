@@ -8,7 +8,7 @@
 
 #### (2) Definition of parent organization
 
-&emsp;In this section, the term “parent organization” means a private nonprofit organization (other than an institution of higher education) that—
+&emsp;In this section, the term "parent organization" means a private nonprofit organization (other than an institution of higher education) that—
 
 &emsp;&emsp;(A) has a board of directors—
 
@@ -104,7 +104,7 @@ Each application for assistance under this section shall identify with specifici
 
 &emsp;&emsp;(A) make not less than 1 award to a parent organization in each State for a parent training and information center that is designated as the statewide parent training and information center; or
 
-&emsp;&emsp;(B) in the case of a large State, make awards to multiple parent training and information centers, but only if the centers demonstrate that coordinated services and supports will occur among the multiple centers.
+&emsp;&emsp;(B) in the case of a large State, make awards to multiple parent training and information centers, but only if the centers demonstrate that coordinated services andsupports will occur among the multiple centers.
 
 #### (2) Selection requirement
 

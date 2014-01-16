@@ -18,7 +18,7 @@ Building Codes.—Each building constructed or altered by the General Services A
 
 (c)
 
-Zoning Laws.—Each building constructed or altered by the Administration or any otherfederal agency shall be constructed or altered only after consideration of all requirements (except procedural requirements) of the following laws of a State or a political subdivision of a State, which would apply to the building if it were not a building constructed or altered by a federal agency:
+Zoning Laws.—Each building constructed or altered by the Administration or any other federal agency shall be constructed or altered only after consideration of all requirements (except procedural requirements) of the following laws of a State or a political subdivision of a State, which would apply to the building if it were not a building constructed or altered by a federal agency:
 
 &emsp;(1) Zoning laws.
 

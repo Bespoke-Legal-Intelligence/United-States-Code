@@ -21,9 +21,9 @@
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–201, div. A, title XVI, §1632(a)(3), Sept. 23, 1996, 110 Stat. 2745, added table of sections for subchapter and struck out former table of sections consisting of items 1601 “Defense Intelligence Senior Executive Service”, 1602 “Defense Intelligence Agency merit pay system”, 1603 “Limit on pay”, 1604 “Civilian personnel management”, 1605 “Benefits for certain employees of the Defense Intelligence Agency”, 1606 “Uniform allowance: civilian employees”, and 1608 “Financial assistance to certain employees in acquisition of critical skills”.
+<b>1996</b>—Pub. L. 104–201, div. A, title XVI, §1632(a)(3), Sept. 23, 1996, 110 Stat. 2745, added table of sections for subchapter and struck out former table of sections consisting of items 1601 "Defense Intelligence Senior Executive Service", 1602 "Defense Intelligence Agency merit pay system", 1603 "Limit on pay", 1604 "Civilian personnel management", 1605 "Benefits for certain employees of the Defense Intelligence Agency", 1606 "Uniform allowance: civilian employees", and 1608 "Financial assistance to certain employees in acquisition of critical skills".
 
-<b>1994</b>—Pub. L. 103–359, title V, §501(b)(1)(A), Oct. 14, 1994, 108 Stat. 3428, amended chapter heading generally, inserting “AND CENTRAL IMAGERY OFFICE”.
+<b>1994</b>—Pub. L. 103–359, title V, §501(b)(1)(A), Oct. 14, 1994, 108 Stat. 3428, amended chapter heading generally, inserting "AND CENTRAL IMAGERY OFFICE".
 
 <b>1989</b>—Pub. L. 101–193, title V, §507(a)(2), Nov. 30, 1989, 103 Stat. 1710, added item 1608.
 

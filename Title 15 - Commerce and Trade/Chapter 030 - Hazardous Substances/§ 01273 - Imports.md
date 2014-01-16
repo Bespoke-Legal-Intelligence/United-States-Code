@@ -2,11 +2,11 @@
 
 #### (a) Delivery of samples to Commission; examination; refusal of admission
 
-The Secretary of the Treasury shall deliver to the Commission, upon its request, samples ofhazardous substances which are being imported or offered for import into the United States, giving notice thereof to the owner or consignee, who may appear before the Commission and have the right to introduce testimony. If it appears from the examination of such samples or otherwise that such hazardous substance is a misbranded hazardous substance or banned hazardous substance or in violation of section 1263(f) of this title, then such hazardous substance shall be refused admission, except as provided in subsection (b) of this section. The Secretary of the Treasury shall cause the destruction of any such hazardous substance refused admission unless such hazardous substance is exported, under regulations prescribed by the Secretary of the Treasury, within ninety days of the date of notice of such refusal or within such additional time as may be permitted pursuant to such regulations.
+The Secretary of the Treasury shall deliver to the Commission, upon its request, samples of hazardous substances which are being imported or offered for import into the United States, giving notice thereof to the owner or consignee, who may appear before the Commission and have the right to introduce testimony. If it appears from the examination of such samples or otherwise that such hazardous substance is a misbranded hazardous substance or banned hazardous substance or in violation of section 1263(f) of this title, then such hazardous substance shall be refused admission, except as provided in subsection (b) of this section. The Secretary of the Treasury shall cause the destruction of any such hazardous substance refused admission unless such hazardous substance is exported, under regulations prescribed by the Secretary of the Treasury, within ninety days of the date of notice of such refusal or within such additional time as may be permitted pursuant to such regulations.
 
 #### (b) Disposition of refused articles
 
-Pending decision as to the admission of a hazardous substance being imported or offered for import, the Secretary of the Treasury may authorize delivery of such hazardous substance to the owner or consignee upon the execution by him of a good and sufficient bond providing for the payment of such liquidated damages in the event of default as may be required pursuant to regulations of the Secretary of the Treasury. If it appears to the Commission that the hazardous substance can, by relabeling or other action, be brought into compliance with this chapter, final determination as to admission of such hazardous substance may be deferred and, upon filing of timely written application by the owner or consignee and the execution by him of a bond as provided in the preceding provisions of this subsection, the Secretary <sup>1</sup> may, in accordance with regulations, authorize the applicant to perform such relabeling or other action specified in such authorization (including destruction or export of rejected hazardous substances or portions thereof, as may be specified in the Secretary's <sup>2</sup> authorization). All such relabeling or other action pursuant to such authorization shall, in accordance with regulations, be under the supervision of an officer or employee of the Commission designated by the Secretary <sup>1</sup>, or an officer or employee of the Department of the Treasury designated by the Secretary of the Treasury.
+Pending decision as to the admission of a hazardous substance being imported or offered for import, the Secretary of the Treasury may authorize delivery of such hazardous substance to the owner or consignee upon the execution by him of a good and sufficient bond providing for the payment of such liquidated damages in the event of default as may be required pursuant to regulations of the Secretary of the Treasury. If it appears to the Commission that the hazardous substance can, by relabeling or other action, be brought into compliance with this chapter, final determination as to admission of such hazardous substance may be deferred and, upon filing of timely written application by the owner or consignee and the execution by him of a bond as provided in the preceding provisions of this subsection, the Secretary <sup>1</sup> may, in accordance withregulations, authorize the applicant to perform such relabeling or other action specified in such authorization (including destruction or export of rejected hazardous substances or portions thereof, as may be specified in the Secretary's <sup>2</sup> authorization). All such relabeling or other action pursuant to such authorization shall, in accordance with regulations, be under the supervision of an officer or employee of the Commission designated by the Secretary <sup>1</sup>, or an officer or employee of the Department of the Treasury designated by the Secretary of the Treasury.
 
 #### (c) Expenses in connection with refused articles
 
@@ -20,17 +20,17 @@ Not less than thirty days before any person exports to a foreign country any mis
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(4)(D), (F), substituted “upon its request” for “upon his request” and substituted “Commission” for “Secretary of Health, Education, and Welfare” in two places.
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(4)(D), (F), substituted "upon its request" for "upon his request" and substituted "Commission" for "Secretary of Health, Education, and Welfare" in two places.
 
-Subsec. (b). Pub. L. 110–314, §204(b)(4)(F), (G), substituted “appears to the Commission” for “appears to the Secretary of Health, Education, and Welfare” and “Commission designated by” for “Department of Health, Education, and Welfare designated by”.
+Subsec. (b). Pub. L. 110–314, §204(b)(4)(F), (G), substituted "appears to the Commission" for "appears to the Secretary of Health, Education, and Welfare" and "Commission designated by" for "Department of Health, Education, and Welfare designated by".
 
-Subsec. (d). Pub. L. 110–314, §204(b)(4)(H), (I), substituted “statement with the Commission” for “statement with the Consumer Product Safety Commission” and struck out “(hereinafter in this section referred to as the ‘Commission’)” before “notifying”.
+Subsec. (d). Pub. L. 110–314, §204(b)(4)(H), (I), substituted "statement with the Commission" for "statement with the Consumer Product Safety Commission" and struck out "(hereinafter in this section referred to as the 'Commission')" before "notifying".
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–631 added subsec. (d).
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–756 substituted “a misbranded hazardous substance or banned hazardous substance” for “in misbranded packages”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–756 substituted "a misbranded hazardous substance or banned hazardous substance" for "in misbranded packages".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Commission”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Commission".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Commission's”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Commission's".</i>
 

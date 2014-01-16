@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 20, 1978, Pub. L. 95–493, §16 (last sentence), 92 Stat. 1647.
 
-The word “retain” is omitted as unnecessary.
+The word "retain" is omitted as unnecessary.
 

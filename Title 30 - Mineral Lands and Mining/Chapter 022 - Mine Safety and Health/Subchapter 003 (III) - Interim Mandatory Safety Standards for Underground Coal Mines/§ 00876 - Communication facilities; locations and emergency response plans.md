@@ -14,7 +14,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after June 15, 2006, each underground coal mine operator shall develop and adopt a written accident response plan that complies with this subsection with respect to each mine of the operator, and periodically update such plans to reflect changes in operations in the mine, advances in technology, or other relevant considerations. Each such operator shall make the accident response plan available to the miners and the miners’ representatives.
+&emsp;&emsp;Not later than 60 days after June 15, 2006, each underground coal mine operator shall develop and adopt a written accident response plan that complies with this subsection with respect to each mine of the operator, and periodically update such plans to reflect changes in operations in the mine, advances in technology, or other relevant considerations. Each such operator shall make the accident response plan available to the miners and the miners' representatives.
 
 #### (B) Plan requirements
 
@@ -38,7 +38,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (D) Plan review
 
-&emsp;&emsp;The accident response plan under subparagraph (A) shall be reviewed periodically, but at least every 6 months, by the Secretary. In such periodic reviews, the Secretary shall consider all comments submitted by miners or miners’ representatives and intervening advancements in science and technology that could be implemented to enhance miners’ ability to evacuate or otherwise survive in an emergency.
+&emsp;&emsp;The accident response plan under subparagraph (A) shall be reviewed periodically, but at least every 6 months, by the Secretary. In such periodic reviews, the Secretary shall consider all comments submitted by miners or miners' representatives and intervening advancements in science and technology that could be implemented to enhance miners' ability to evacuate or otherwise survive in an emergency.
 
 #### (E) Plan content-general requirements
 
@@ -66,7 +66,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (iv) Post-accident lifelines
 
-&emsp;&emsp;&emsp;The plan shall provide for the use of flame-resistant directional lifelines orequivalent systems in escapeways to enable evacuation. The flame-resistance requirement of this clause shall apply upon the replacement of existing lifelines, or, in the case of lifelines in working sections, upon the earlier of the replacement of such lifelines or 3 years after June 15, 2006.
+&emsp;&emsp;&emsp;The plan shall provide for the use of flame-resistant directional lifelines or equivalent systems in escapeways to enable evacuation. The flame-resistance requirement of this clause shall apply upon the replacement of existing lifelines, or, in the case of lifelines in working sections, upon the earlier of the replacement of such lifelines or 3 years after June 15, 2006.
 
 #### (v) Training
 
@@ -108,11 +108,11 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2)(C)(iv), (H), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (b)(2)(C)(iv), (H), was in the original "this Act", meaning Pub. L. 91–173,Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–236 inserted “and emergency response plans” after “locations” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–236 inserted "and emergency response plans" after "locations" in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

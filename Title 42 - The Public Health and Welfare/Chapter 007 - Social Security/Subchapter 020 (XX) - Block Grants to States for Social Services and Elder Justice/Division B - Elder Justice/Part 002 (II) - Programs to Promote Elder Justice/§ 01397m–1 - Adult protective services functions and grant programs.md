@@ -40,7 +40,7 @@
 
 #### (ii) Territories
 
-&emsp;&emsp;&emsp;In the case of a State other than 1 of the 50 States, clause (i) shall be applied as if each reference to “0.75” were a reference to “0.1”.
+&emsp;&emsp;&emsp;In the case of a State other than 1 of the 50 States, clause (i) shall be applied as if each reference to "0.75" were a reference to "0.1".
 
 #### (C) Pro rata reductions
 

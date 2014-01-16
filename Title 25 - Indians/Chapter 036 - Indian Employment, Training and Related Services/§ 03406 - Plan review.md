@@ -6,5 +6,5 @@ Upon receipt of the plan from a tribal government, the Secretary of the Interior
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–568 substituted “Federal agency” for “Federal department” and “Federal agency regulations” for “Federal departmental regulations”, substituted “agency” for “department” wherever appearing, and inserted “statutory requirement,” after “to waive any”.
+<b>2000</b>—Pub. L. 106–568 substituted "Federal agency" for "Federal department" and "Federal agency regulations" for "Federal departmental regulations", substituted "agency" for "department" wherever appearing, and inserted "statutory requirement," after "to waive any".
 

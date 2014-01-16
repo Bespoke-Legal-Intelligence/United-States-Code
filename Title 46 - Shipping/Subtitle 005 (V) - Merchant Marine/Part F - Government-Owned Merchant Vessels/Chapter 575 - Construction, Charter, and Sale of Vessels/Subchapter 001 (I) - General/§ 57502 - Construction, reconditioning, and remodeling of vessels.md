@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation may have new vessels constructed, and have old vessels reconditioned or remodeled, as the Secretary determines necessary to carry out the objectives of this subtitle.
+In General.—The Secretary of Transportation may have new vessels constructed, andhave old vessels reconditioned or remodeled, as the Secretary determines necessary to carry out the objectives of this subtitle.
 
 (b)
 
@@ -36,7 +36,7 @@ June 29, 1936, ch. 858, title VII, §702, 49 Stat. 2008; Pub. L. 85–191, Aug. 
 
 June 29, 1936, ch. 858, title VII, §703(b), 49 Stat. 2008.
 
-In subsection (b), the words “for such new construction or reconstruction, in accordance with the provisions of this chapter” are omitted as unnecessary.
+In subsection (b), the words "for such new construction or reconstruction, in accordance with the provisions of this chapter" are omitted as unnecessary.
 
 #### References in Text
 

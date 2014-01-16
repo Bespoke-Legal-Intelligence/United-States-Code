@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Feb. 26, 1946, ch. 36, 60 Stat. 31.
 
-The word “Laws” is substituted for the words “Statutory provisions” for clarity. The words “armed forces” are substituted for the words “military services of the United States” for uniformity. The words “of the United States” at the end of the section are omitted as surplusage.
+The word "Laws" is substituted for the words "Statutory provisions" for clarity. The words "armed forces" are substituted for the words "military services of the United States" for uniformity. The words "of the United States" at the end of the section are omitted as surplusage.
 

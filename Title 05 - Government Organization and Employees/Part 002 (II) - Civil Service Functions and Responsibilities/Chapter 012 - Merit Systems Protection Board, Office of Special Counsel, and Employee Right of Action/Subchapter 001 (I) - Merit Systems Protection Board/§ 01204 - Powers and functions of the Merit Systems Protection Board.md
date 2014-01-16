@@ -4,7 +4,7 @@
 
 &emsp;(1) hear, adjudicate, or provide for the hearing or adjudication, of all matters within the jurisdiction of the Board under this title, chapter 43 of title 38, or any other law, rule, or regulation, and, subject to otherwise applicable provisions of law, take final action on any such matter;
 
-&emsp;(2) order any Federal agency or employee to comply with any order or decision issued bythe Board under the authority granted under paragraph (1) of this subsection and enforce compliance with any such order;
+&emsp;(2) order any Federal agency or employee to comply with any order or decision issued by the Board under the authority granted under paragraph (1) of this subsection and enforce compliance with any such order;
 
 &emsp;(3) conduct, from time to time, special studies relating to the civil service and to other merit systems in the executive branch, and report to the President and to the Congress as to whether the public interest in a civil service free of prohibited personnel practices is being adequately protected; and
 
@@ -26,7 +26,7 @@
 
 (e)(1)(A) In any proceeding under subsection (a)(1), any member of the Board may request from the Director of the Office of Personnel Management an advisory opinion concerning the interpretation of any rule, regulation, or other policy directive promulgated by the Office of Personnel Management.
 
-(B)(i) The Merit Systems Protection Board may, during an investigation by the Office of Special Counsel or during the pendency of any proceeding before the Board, issue any order which may be necessary to protect a witness or other individual from harassment, except that an agency (other than the Office of Special Counsel) may not request any such order with regard to an investigation by the Office of Special Counsel from the Board during such investigation.
+(B)(i) The Merit Systems Protection Board may, during an investigation by the Office ofSpecial Counsel or during the pendency of any proceeding before the Board, issue any order which may be necessary to protect a witness or other individual from harassment, except that an agency (other than the Office of Special Counsel) may not request any such order with regard to an investigation by the Office of Special Counsel from the Board during such investigation.
 
 (ii) An order issued under this subparagraph may be enforced in the same manner as provided for under paragraph (2) with respect to any order under subsection (a)(2).
 
@@ -72,7 +72,7 @@
 
 (m)(1) Except as provided in paragraph (2) of this subsection, the Board, or an administrative law judge or other employee of the Board designated to hear a case arising under section 1215, may require payment by the agency where the prevailing party was employed or had applied for employment at the time of the events giving rise to the case of reasonable attorney fees incurred by an employee or applicant for employment if the employee or applicant is the prevailing party and the Board, administrative law judge, or other employee (as the case may be) determines that payment by the agency is warranted in the interest of justice, including any case in which a prohibited personnel practice was engaged in by the agency or any case in which the agency's action was clearly without merit.
 
-(2) If an employee or applicant for employment is the prevailing party of a case arising under section 1215 and the decision is based on a finding of discrimination prohibited under section 2302(b)(1) of this title, the payment of attorney fees shall be in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(k)).
+(2) If an employee or applicant for employment is the prevailing party of a case arisingunder section 1215 and the decision is based on a finding of discrimination prohibited under section 2302(b)(1) of this title, the payment of attorney fees shall be in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(k)).
 
 (Added Pub. L. 95–454, title II, §202(a), Oct. 13, 1978, 92 Stat. 1122, §1205; amended Pub. L. 97–258, §3(a)(2), Sept. 13, 1982, 96 Stat. 1063; renumbered §1204 and amended Pub. L. 101–12, §3(a)(7), Apr. 10, 1989, 103 Stat. 17; Pub. L. 102–568, title V, §506(c)(4), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–353, §2(b)(2)(A), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 103–424, §2, Oct. 29, 1994, 108 Stat. 4361; Pub. L. 103–446, title XII, §1203(c)(1), Nov. 2, 1994, 108 Stat. 4690; Pub. L. 112–199, title I, §107(a), Nov. 27, 2012, 126 Stat. 1469.)
 
@@ -112,7 +112,7 @@ Subsec. (b)(2). Pub. L. 101–12, §3(a)(7)(D), amended par. (2) generally. Prio
 
 Subsec. (b)(3). Pub. L. 101–12, §3(a)(7)(B), substituted “subpoena” for “subpena” and “subpoenaed” for “subpenaed”.
 
-Subsec. (c). Pub. L. 101–12, §3(a)(7)(B), (E), substituted “subpoena” for “subpena” in two places, “(b)(2)(A) orsection 1214(b), upon application by the Board” for “(b)(2) of this section”, and “for the district” for “for the judicial district”.
+Subsec. (c). Pub. L. 101–12, §3(a)(7)(B), (E), substituted “subpoena” for “subpena” in two places, “(b)(2)(A) or section 1214(b), upon application by the Board” for “(b)(2) of this section”, and “for the district” for “for the judicial district”.
 
 Subsec. (d). Pub. L. 101–12, §3(a)(7)(F), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -153,4 +153,8 @@ Amendment by Pub. L. 103–353 effective with respect to reemployments initiated
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as a note under section 1201 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsecs. (a)(3) and (l) of this section (formerly 5 U.S.C. 1205(a)(3) and (k)), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 176 of House Document No. 103–7.
 

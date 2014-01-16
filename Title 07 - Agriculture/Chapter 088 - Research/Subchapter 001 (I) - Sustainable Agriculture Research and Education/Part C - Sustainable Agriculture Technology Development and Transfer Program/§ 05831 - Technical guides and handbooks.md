@@ -36,19 +36,19 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a), (c), and (d), was in the original “this subtitle”, meaning subtitle B (§§1619–1629) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3733, which enacted this subchapter, repealed sections 4701 to 4710 of this title, and repealed provisions set out as a note under section 4701 of this title. For complete classification of subtitle B to the Code, see Tables.
+This subchapter, referred to in subsecs. (a), (c), and (d), was in the original "this subtitle", meaning subtitle B (§§1619–1629) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3733, which enacted this subchapter, repealed sections 4701 to 4710 of this title, and repealed provisions set out as a note under section 4701 of this title. For complete classification of subtitle B to the Code, see Tables.
 
-Chapter 86 of this title, referred to in subsecs. (a) and (d), was in the original “subtitle G of title XIV”, meaning subtitle G (§§1481–1485) of title XIV of Pub. L. 101–624, which was repealed by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
+Chapter 86 of this title, referred to in subsecs. (a) and (d), was in the original "subtitle G of title XIV", meaning subtitle G (§§1481–1485) of title XIV of Pub. L. 101–624, which was repealed by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127, §862(b)(3), struck out “section 5881 of this title,” before “and other appropriate”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §862(b)(3), struck out "section 5881 of this title," before "and other appropriate".
 
-Subsec. (b). Pub. L. 104–127, §860(c)(3), substituted “Natural Resources Conservation Service” for “Advisory Council, the Soil Conservation Service,”.
+Subsec. (b). Pub. L. 104–127, §860(c)(3), substituted "Natural Resources Conservation Service" for "Advisory Council, the Soil Conservation Service,".
 
-Subsec. (d). Pub. L. 104–127, §862(b)(3), struck out “section 5881 of this title,” before “and other appropriate” in introductory provisions.
+Subsec. (d). Pub. L. 104–127, §862(b)(3), struck out "section 5881 of this title," before "and other appropriate" in introductory provisions.
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–237 substituted “educational” for “education”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–237 substituted "educational" for "education".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

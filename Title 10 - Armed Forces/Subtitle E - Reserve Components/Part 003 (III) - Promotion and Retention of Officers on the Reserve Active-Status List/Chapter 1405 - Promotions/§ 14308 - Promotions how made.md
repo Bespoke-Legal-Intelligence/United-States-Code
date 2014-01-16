@@ -8,7 +8,7 @@ Promotion List.—When the report of a selection board convened under section 14
 
 Promotion; How Made; Order.—(1) Officers on a promotion list for a competitive category shall be promoted in the manner specified in section 12203 of this title.
 
-(2) Officers on a promotion list for a competitive category shall be promoted to the next higher grade in accordance with regulations prescribed by the Secretary of the military department concerned. Except as provided in section 14311, 14312, or 14502(e) of this title or in subsection (d) or (e), promotions shall be made in the order in which the names of officers appear on the promotion list and after officers previously selected for promotion in that competitive category have been promoted.
+(2) Officers on a promotion list for a competitive category shall be promoted to the next higher grade in accordance with regulations prescribed by the Secretary of the military department concerned. Except as provided in section 14311, 14312, or 14502(e) of this title or in subsection (d) or (e), promotions shall be made inthe order in which the names of officers appear on the promotion list and after officers previously selected for promotion in that competitive category have been promoted.
 
 (3) Officers to be promoted to the grade of first lieutenant or lieutenant (junior grade) shall be promoted in accordance with regulations prescribed by the Secretary of the military department concerned.
 
@@ -28,7 +28,7 @@ Promotion; How Made; Order.—(1) Officers on a promotion list for a competitive
 
 Date of Rank.—(1) The date of rank of an officer appointed to a higher grade under this section is determined under section 741(d)(2) of this title.
 
-(2) The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under section 741(d)(4) of this title in the date of rank of an officer appointed to a higher grade under section 624(a) of this title. In any use of the authority under the preceding sentence, subparagraph (C)(ii) of such section shall be applied by substituting “reserve active-status list” for “active-duty list”.
+(2) The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under section 741(d)(4) of this title in the date of rank of an officer appointed to a higher grade under section 624(a) of this title. In any use of the authority under the preceding sentence, subparagraph (C)(ii) of such section shall be applied by substituting "reserve active-status list" for "active-duty list".
 
 (3) Except as provided in paragraph (2) or as otherwise specifically authorized by law, a reserve officer is not entitled to additional pay or allowances if the effective date of the officer's promotion is adjusted to reflect a date earlier than the actual date of the officer's promotion.
 
@@ -40,7 +40,7 @@ Officers With Running Mates.—An officer to whom a running mate system applies 
 
 Army Reserve and Air Force Reserve Promotions To Fill Vacancies.—Subject to this section and to section 14311(e) of this title, and under regulations prescribed by the Secretary of the military department concerned—
 
-&emsp;(1) an officer in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section14101(a) of this title or a board convened under section 14502 or chapter 36 of this title may be promoted at any time to fill a vacancy in a position to which the officer is assigned; and
+&emsp;(1) an officer in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section 14101(a) of this title or a board convened under section 14502 or chapter 36 of this title may be promoted at any time to fill a vacancy in a position to which the officer is assigned; and
 
 &emsp;(2) an officer in a grade below colonel in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a vacancy promotion board convened under section 14101(a) of this title may be promoted at any time to fill the vacancy for which the officer was selected.
 
@@ -60,17 +60,17 @@ Provisions similar to those in subsecs. (a), (d), and (f) of this section were c
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–364 inserted at end “A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–364 inserted at end "A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence."
 
 <b>2001</b>—Subsec. (b)(4). Pub. L. 107–107, §505(b)(1), added par. (4).
 
 Subsec. (c)(2). Pub. L. 107–107, §506(b)(1)(B), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (c)(3). Pub. L. 107–107, §506(b)(1)(A), (2), redesignated par. (2) as (3) and inserted “provided in paragraph (2) or as otherwise” after “Except as”.
+Subsec. (c)(3). Pub. L. 107–107, §506(b)(1)(A), (2), redesignated par. (2) as (3) and inserted "provided in paragraph (2) or as otherwise" after "Except as".
 
-<b>1997</b>—Subsec. (e)(2). Pub. L. 105–85, §514(c)(1), inserted “a grade below colonel in” after “an officer in”.
+<b>1997</b>—Subsec. (e)(2). Pub. L. 105–85, §514(c)(1), inserted "a grade below colonel in" after "an officer in".
 
-Subsec. (g). Pub. L. 105–85, §514(c)(2), inserted “or the Air Force” after “A reserve officer of the Army”, substituted “in the Army Reserve or the Air Force Reserve, as the case may be, in that grade” for “in that grade in a unit of the Army Reserve that is organized to serve as a unit and that has attained the strength prescribed by the Secretary of the Army”, and struck out at end “A reserve officer of the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Air Force Reserve in that grade.”
+Subsec. (g). Pub. L. 105–85, §514(c)(2), inserted "or the Air Force" after "A reserve officer of the Army", substituted "in the Army Reserve or the Air Force Reserve, as the case may be, in that grade" for "in that grade in a unit of the Army Reserve that is organized to serve as a unit and that has attained the strength prescribed by the Secretary of the Army", and struckout at end "A reserve officer of the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Air Force Reserve in that grade."
 
 #### Effective Date of 2006 Amendment
 

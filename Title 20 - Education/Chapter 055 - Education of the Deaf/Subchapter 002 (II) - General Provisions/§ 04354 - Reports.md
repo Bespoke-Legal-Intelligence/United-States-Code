@@ -1,6 +1,6 @@
 ### §4354. Reports
 
-The Board of Trustees of Gallaudet University and the Board of Trustees or other governing body of the institution of higher education with which the Secretary has an agreement under section 4332 of this title shall prepare and submit an annual report to the Secretary, and to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than 100 days after the end of each fiscal year, which shall include the following:
+The Board of Trustees of Gallaudet University and the Board of Trustees or other governingbody of the institution of higher education with which the Secretary has an agreement under section 4332 of this title shall prepare and submit an annual report to the Secretary, and to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than 100 days after the end of each fiscal year, which shall include the following:
 
 &emsp;(1) The number of students during the preceding academic year who enrolled and whether these were first-time enrollments, who graduated, who found employment, or who left without completing a program of study, reported under each of the programs of the University (elementary, secondary, undergraduate, and graduate) and of NTID.
 
@@ -38,23 +38,23 @@ Provisions similar to this section were contained in section 691f of this title 
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–315, §906(1), substituted “Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate” in introductory provisions.
+<b>2008</b>—Pub. L. 110–315, §906(1), substituted "Committee on Health, Education, Labor, and Pensions of the Senate" for "Committee on Labor and Human Resources of the Senate" in introductory provisions.
 
-Par. (1). Pub. L. 110–315, §906(2), struck out “preparatory,” after “secondary,”.
+Par. (1). Pub. L. 110–315, §906(2), struck out "preparatory," after "secondary,".
 
-Par. (2)(C). Pub. L. 110–315, §906(3), substituted “on the date that is one year after the date of graduation or completion” for “upon graduation/completion”.
+Par. (2)(C). Pub. L. 110–315, §906(3), substituted "on the date that is one year after the date of graduation or completion" for "upon graduation/completion".
 
-Par. (3)(B). Pub. L. 110–315, §906(4), substituted “of NTID programs and activities” for “of the institution of higher education with which the Secretary has an agreement under section 4332 of this title, including specific schedules and analyses for all NTID funds, as required under section 4353 of this title”.
+Par. (3)(B). Pub. L. 110–315, §906(4), substituted "of NTID programs and activities" for "of the institution of higher education with which the Secretary has an agreement under section 4332 of this title, including specific schedules and analyses for all NTID funds, as required under section 4353 of this title".
 
-<b>1998</b>—Par. (3). Pub. L. 105–244 substituted “A summary of the annual” for “The annual” in subpar. (A) and substituted “a summary of the annual” for “the annual” in subpar. (B).
+<b>1998</b>—Par. (3). Pub. L. 105–244 substituted "A summary of the annual" for "The annual" in subpar. (A) and substituted "a summary of the annual" for "the annual" in subpar. (B).
 
-<b>1993</b>—Par. (1). Pub. L. 103–73, §204(c)(1), substituted “first-time” for “first time”.
+<b>1993</b>—Par. (1). Pub. L. 103–73, §204(c)(1), substituted "first-time" for "first time".
 
-Par. (2)(G). Pub. L. 103–73, §204(c)(2), substituted “individualized education programs” for “Individualized Education Programs” and “children who are deaf or hard of hearing” for “children who are deaf”.
+Par. (2)(G). Pub. L. 103–73, §204(c)(2), substituted "individualized education programs" for "Individualized Education Programs" and "children who are deaf or hard of hearing" for "children who are deaf".
 
-Par. (3). Pub. L. 103–73, §204(c)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The annual audited financial statements of the University and NTID, respectively, together with the auditor's report.”
+Par. (3). Pub. L. 103–73, §204(c)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The annual audited financial statements of the University and NTID, respectively, together with the auditor's report."
 
-Par. (6). Pub. L. 103–73, §204(c)(4), substituted “Program funds are” for “Program is”.
+Par. (6). Pub. L. 103–73, §204(c)(4), substituted "Program funds are" for "Program is".
 
 <b>1992</b>—Pub. L. 102–421, §134, amended section generally, substituting present provisions for provisions requiring annual reports from Board of Trustees of Gallaudet University and National Technical Institute for the Deaf and providing for an annual monitoring and evaluation report.
 

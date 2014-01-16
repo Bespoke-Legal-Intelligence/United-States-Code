@@ -2,7 +2,7 @@
 
 #### (a) Definition of Hispanic-serving institution
 
-In this section, the term “Hispanic-serving institution” has the meaning given that term in section 1101a(a)(5) of title 20.
+In this section, the term "Hispanic-serving institution" has the meaning given that term in section 1101a(a)(5) of title 20.
 
 #### (b) Grant authority
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) is subsequently restored to or reemployed in a position which is subject to this chapter, pursuant to chapter 43 of title 38.
 
-(b)(1) Each employee to whom this section applies may contribute to the Thrift Savings Fund, in accordance with this subsection, an amount not to exceed the amount described in paragraph (2).
+(b)(1) Each employee to whom this section applies may contribute to the Thrift SavingsFund, in accordance with this subsection, an amount not to exceed the amount described in paragraph (2).
 
 (2) The maximum amount which an employee may contribute under this subsection is equal to—
 

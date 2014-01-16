@@ -6,7 +6,7 @@ Any vessel subject to the provisions of sections 1464 and 1465 of this title, in
 
 #### (b) Jurisdiction of courts
 
-Any district court of the United States which has jurisdiction under section 1467 of this titleshall have jurisdiction, upon application by the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) of this section and any action provided for under subsection (d) of this section.
+Any district court of the United States which has jurisdiction under section 1467 of this title shall have jurisdiction, upon application by the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) of this section and any action provided for under subsection (d) of this section.
 
 #### (c) Judgment
 

@@ -6,11 +6,11 @@ In this subpart:
 
 #### (1) Child
 
-&emsp;The term “child” means an individual who is not more than 18 years of age or who is an individual with a disability.
+&emsp;The term "child" means an individual who is not more than 18 years of age or who is an individual with a disability.
 
 #### (2) Grandparent or older individual who is a relative caregiver
 
-&emsp;The term “grandparent or older individual who is a relative caregiver” means a grandparent or stepgrandparent of a child, or a relative of a child by blood, marriage, or adoption, who is 55 years of age or older and—
+&emsp;The term "grandparent or older individual who is a relative caregiver" means a grandparent or stepgrandparent of a child, or a relative of a child by blood, marriage, or adoption, who is 55 years of age or older and—
 
 &emsp;&emsp;(A) lives with the child;
 
@@ -30,9 +30,9 @@ In providing services under this subpart—
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–365 designated existing provisions as subsec. (a) and inserted heading, inserted “or who is an individual with a disability” after “age” in par. (1), substituted “a child by blood, marriage, or adoption” for “a child by blood or marriage” and “55 years” for “60 years” in par. (3), redesignated par. (3) as (2), struck out former par. (2) which defined term “family caregiver”, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–365 designated existing provisions as subsec. (a) and inserted heading, inserted "or who is an individual with a disability" after "age" in par. (1), substituted "a child by blood, marriage, or adoption" for "a child by blood or marriage" and "55 years" for "60 years" in par. (3), redesignated par. (3) as (2), struck out former par. (2) which defined term "family caregiver", and added subsec. (b).
 
 #### Short Title
 
-For short title of this part as the “National Family Caregiver Support Act”, see section 371 of Pub. L. 89–73, set out as a Short Title note under section 3001 of this title.
+For short title of this part as the "National Family Caregiver Support Act", see section 371 of Pub. L. 89–73, set out as a Short Title note under section 3001 of this title.
 

@@ -12,7 +12,7 @@ The Secretary and the Secretary of Health and Human Services shall—
 
 #### (b) Criminal records
 
-The minimum standards of character that are to be prescribed under this section shall ensure that none of the individuals appointed to positions described in subsection (a) of this section have been found guilty of, or entered a plea ofnolo contendere or guilty to, any felonious offense, or any of two or more misdemeanor offenses, under Federal, State, or tribal law involving crimes of violence; sexual assault, molestation, exploitation, contact or prostitution; crimes against persons; or offenses committed against children.
+The minimum standards of character that are to be prescribed under this section shall ensure that none of the individuals appointed to positions described in subsection (a) of this section have been found guilty of, or entered a plea of nolo contendere or guilty to, any felonious offense, or any of two or more misdemeanor offenses, under Federal, State, or tribal law involving crimes of violence; sexual assault, molestation, exploitation, contact or prostitution; crimes against persons; or offenses committed against children.
 
 #### (c) Investigations by Indian tribes and tribal organizations
 
@@ -32,5 +32,5 @@ The Tribally Controlled Schools Act of 1988, referred to in subsec. (c), is part
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–568 substituted “any felonious offense, or any of two or more misdemeanor offenses,” for “any offense” and “crimes against persons; or offenses committed against children” for “or crimes against persons”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–568 substituted "any felonious offense, or any of two or more misdemeanor offenses," for "any offense" and "crimes against persons; or offenses committed against children" for "or crimes against persons".
 

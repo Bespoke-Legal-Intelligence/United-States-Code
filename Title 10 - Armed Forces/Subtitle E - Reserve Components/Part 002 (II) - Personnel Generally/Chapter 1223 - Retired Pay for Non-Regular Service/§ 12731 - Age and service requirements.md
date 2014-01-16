@@ -20,15 +20,15 @@
 
 (2) In this subsection:
 
-&emsp;(A) The term “World War I” means the period beginning on April 6, 1917, and ending on November 11, 1918.
+&emsp;(A) The term "World War I" means the period beginning on April 6, 1917, and ending on November 11, 1918.
 
-&emsp;(B) The term “World War II” means the period beginning on September 9, 1940, and ending on December 31, 1946.
+&emsp;(B) The term "World War II" means the period beginning on September 9, 1940, and ending on December 31, 1946.
 
-&emsp;(C) The term “Korean conflict” means the period beginning on June 27, 1950, and ending on July 27, 1953.
+&emsp;(C) The term "Korean conflict" means the period beginning on June 27, 1950, and ending on July 27, 1953.
 
-&emsp;(D) The term “Berlin crisis” means the period beginning on August 14, 1961, and ending on May 30, 1963.
+&emsp;(D) The term "Berlin crisis" means the period beginning on August 14, 1961, and ending on May 30, 1963.
 
-&emsp;(E) The term “Vietnam era” means the period beginning on August 5, 1964, and ending on March 27, 1973.
+&emsp;(E) The term "Vietnam era" means the period beginning on August 5, 1964, and ending on March 27, 1973.
 
 (d) The Secretary concerned shall notify each person who has completed the years of service required for eligibility for retired pay under this chapter. The notice shall be sent, in writing, to the person concerned within one year after the person completes that service. The notice shall include notice of the elections available to such person under the Survivor Benefit Plan established under subchapter II of chapter 73 of this title and the Supplemental Survivor Benefit Plan established under subchapter III of that chapter, and the effects of such elections.
 
@@ -48,7 +48,9 @@
 
 (C) The eligibility age for purposes of subsection (a)(1) may not be reduced below 50 years of age for any person under subparagraph (A).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Pub. L. 85–704, Aug. 21, 1958, 72 Stat. 702; Pub. L. 85–861, §33(a)(8), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 89–652, §1, Oct. 14, 1966, 80 Stat. 902; Pub. L. 90–485, §2, Aug. 13, 1968, 82 Stat. 754; Pub. L. 95–397, title II, §206, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–513, title V, §511(47), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §924(a), Sept. 24, 1983, 97 Stat. 644; Pub. L. 101–189, div. A, title XIV, §1404(b)(1), Nov. 29, 1989, 103 Stat. 1586; renumbered §12731 and amended Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2790, 2999; Pub. L. 104–106, div. A, title XV, §1501(b)(20), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(1), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §631(a), (b), Dec. 2, 2002, 116 Stat. 2571, 2572; Pub. L. 108–375, div. A, title V, §501(f), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 109–364, div. A, title X, §1071(a)(40), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 110–181, div. A, title VI, §647(a), Jan. 28, 2008, 122 Stat. 160; Pub. L. 111–84, div. A, title X, §1073(a)(35), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title VI, §633, Jan. 7, 2011, 124 Stat. 4240; Pub. L. 112–239, div. A, title VI, §681(b), Jan. 2, 2013, 126 Stat. 1795.)
+(3) The Secretary concerned shall periodically notify each member of the Ready Reserve described by paragraph (2) of the current eligibility age for retired pay of such member under this section, including any reduced eligibility age by reason of the operation of that paragraph. Notice shall be provided by such means as the Secretary considers appropriate taking into account the cost of provision of notice and the convenience of members.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Pub. L. 85–704, Aug. 21, 1958, 72 Stat. 702; Pub. L. 85–861, §33(a)(8), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 89–652, §1, Oct. 14, 1966, 80 Stat. 902; Pub. L. 90–485, §2, Aug. 13, 1968, 82 Stat. 754; Pub. L. 95–397, title II, §206, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–513, title V, §511(47), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §924(a), Sept. 24, 1983, 97 Stat. 644; Pub. L. 101–189, div. A, title XIV, §1404(b)(1), Nov. 29, 1989, 103 Stat. 1586; renumbered §12731 and amended Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2790, 2999; Pub. L. 104–106, div. A, title XV, §1501(b)(20), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(1), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §631(a), (b), Dec. 2, 2002, 116 Stat. 2571, 2572; Pub. L. 108–375, div. A, title V, §501(f), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 109–364, div. A, title X, §1071(a)(40), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 110–181, div. A, title VI, §647(a), Jan. 28, 2008, 122 Stat. 160; Pub. L. 111–84, div. A, title X, §1073(a)(35), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title VI, §633, Jan. 7, 2011, 124 Stat. 4240; Pub. L. 112–239, div. A, title VI, §681(b), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 113–66, div. A, title VI, §632, Dec. 26, 2013, 127 Stat. 785.)
 
 Historical and Revision Notes<br>1956
 
@@ -90,9 +92,9 @@ June 29, 1948, ch. 708, §§302(a), (d), 305 (1st sentence), 62 Stat. 1087–108
 
 34:440i(a) (last proviso).
 
-In subsection (a), the words “is entitled” are substituted for the words “shall \* \* \* be granted”. The words “in the status of a commissioned officer, warrant officer, flight officer, or enlisted person” and the references to reserve components are omitted as surplusage. Reference to the Army and the Air Force without component is inserted, since the words “reserve component”, as used in 10:1036a(a), include all members of the Army and the Air Force except members of the regular components thereof. The words “service, computed under section 1332 of this title” are substituted for the words “satisfactory Federal service” to make it clear that some service that is not normally covered by the latter term may be counted in determining rights to retired pay under this chapter. Section 311 of the source statute, which made title III of that act applicable to the Coast Guard, was expressly repealed by the Act of August 4, 1949, ch. 393, §20, 63 Stat. 565, the act which codified Title 14 of the United States Code. 14 U.S.C. 755(e) provides for Coast Guard Reservists the same retirement benefits as those prescribed by law for the Naval Reserve, and, for this purpose, confers upon the Secretary of the Treasury the same authority as that conferred upon the Secretary of the Navy, when the Coast Guard is operating under the Treasury Department. Accordingly, the revised chapter is made expressly applicable to the Coast Guard.
+In subsection (a), the words "is entitled" are substituted for the words "shall \* \* \* be granted". The words "in the status of a commissioned officer, warrant officer, flight officer, or enlisted person" and the references to reserve components are omitted as surplusage. Reference to the Army and the Air Force without component is inserted, since the words "reserve component", as used in 10:1036a(a), include all members of the Army and the Air Force except members of the regular components thereof. The words "service, computed under section 1332 of this title" are substituted for thewords "satisfactory Federal service" to make it clear that some service that is not normally covered by the latter term may be counted in determining rights to retired pay under this chapter. Section 311 of the source statute, which made title III of that act applicable to the Coast Guard, was expressly repealed by the Act of August 4, 1949, ch. 393, §20, 63 Stat. 565, the act which codified Title 14 of the United States Code. 14 U.S.C. 755(e) provides for Coast Guard Reservists the same retirement benefits as those prescribed by law for the Naval Reserve, and, for this purpose, confers upon the Secretary of the Treasury the same authority as that conferred upon the Secretary of the Navy, when the Coast Guard is operating under the Treasury Department. Accordingly, the revised chapter is made expressly applicable to the Coast Guard.
 
-In subsection (c), the words “the Army without component or other category covered by section 1332(a)(1) of this title” are inserted, since the words “reserve component”, as used in 10:1036a(a), also cover members without component and members of the other special categories listed. The words “annual training duty, or attendance at a school designated as a service school by law or by the Secretary of the appropriate military department” are inserted since the words “active Federal service”, as used in 10:1036a(a), also cover the additional service listed. The words “active duty” are substituted for the words “active Federal service” for uniformity.
+In subsection (c), the words "the Army without component or other category covered by section 1332(a)(1) of this title" are inserted, since the words "reserve component", as used in 10:1036a(a), also cover members without component and members of the other special categories listed. The words "annual training duty, or attendance at a school designated as a service school by law or by the Secretary of the appropriate military department" are inserted since the words "active Federal service", as used in 10:1036a(a), also cover the additional service listed. The words "active duty" are substituted for the words "active Federal service" for uniformity.
 
 #### 1958 Act
 
@@ -102,47 +104,49 @@ The change makes clear that in the determination of eligibility for retired pay 
 
 <b>2013</b>—Subsec. (f)(2)(B)(iv). Pub. L. 112–239 added cl. (iv).
 
+Subsec. (f)(3). Pub. L. 113–66 added par. (3).
+
 <b>2011</b>—Subsec. (f)(2)(B)(iii). Pub. L. 111–383 added cl. (iii).
 
-<b>2009</b>—Subsec. (f)(2)(A). Pub. L. 111–84 substituted “January 28, 2008” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008”.
+<b>2009</b>—Subsec. (f)(2)(A). Pub. L. 111–84 substituted "January 28, 2008" for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008".
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–181, §647(a)(1), added par. (1) and struck out former par. (1) which read as follows: “is at least 60 years of age;”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–181, §647(a)(1), added par. (1) and struck out former par. (1) which read as follows: "is at least 60 years of age;".
 
 Subsec. (f). Pub. L. 110–181, §647(a)(2), added subsec. (f).
 
-<b>2006</b>—Subsec. (a)(3). Pub. L. 109–364 substituted “before April 25, 2005” for “before the end of the 180-day period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2005”.
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–364 substituted "before April 25, 2005" for "before the end of the 180-day period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2005".
 
-<b>2004</b>—Subsec. (a)(3). Pub. L. 108–375 inserted after par. (3) designation “in the case of a person who completed the service requirements of paragraph (2) before the end of the 180-day period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2005,”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–375 inserted after par. (3) designation "in the case of a person who completed the service requirements of paragraph (2) before the end of the 180-day period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2005,".
 
-<b>2002</b>—Subsec. (a)(3). Pub. L. 107–314, §631(a), substituted “six years” for “eight years” and inserted before semicolon “, except that in the case of a person who completed the service requirements of paragraph (2) before October 5, 1994, the number of years of such qualifying service under this paragraph shall be eight”.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–314, §631(a), substituted "six years" for "eight years" and inserted before semicolon ", except that in the case of a person who completed the service requirements of paragraph (2) before October 5, 1994, the number of years of such qualifying service under this paragraph shall be eight".
 
-Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+Subsec. (b). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-Subsec. (f). Pub. L. 107–314, §631(b), struck out subsec. (f) which read as follows: “In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on October 5, 1994, and ending on December 31, 2001, the provisions of subsection (a)(3) shall be applied by substituting ‘the last six years’ for ‘the last eight years’.”
+Subsec. (f). Pub. L. 107–314, §631(b), struck out subsec. (f) which read as follows: "In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on October 5, 1994, and ending on December 31, 2001, the provisions of subsection (a)(3) shall be applied by substituting 'the last six years' for 'the last eight years'."
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
+<b>2000</b>—Subsec. (f). Pub. L. 106–398 substituted "December 31, 2001" for "September 30, 2001".
 
-<b>1998</b>—Subsec. (f). Pub. L. 105–261 substituted “September 30, 2001” for “September 30, 1999”.
+<b>1998</b>—Subsec. (f). Pub. L. 105–261 substituted "September 30, 2001" for "September 30, 1999".
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–106 substituted “October 5, 1994,” for “the date of the enactment of this subsection”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–106 substituted "October 5, 1994," for "the date of the enactment of this subsection".
 
 <b>1994</b>—Pub. L. 103–337, §1662(j)(1), renumbered section 1331 of this title as this section and amended text generally, making changes in style and in references to other sections.
 
-Subsec. (f). Pub. L. 103–337, §636, added subsec. (f) which read as follows: “In the case of a person who completes the service requirements of subsection (a)(2)during the period beginning on the date of the enactment of this subsection and ending on September 30, 1999, the provisions of subsection (a)(3) shall be applied by substituting ‘the last six years’ for ‘the last eight years’.”
+Subsec. (f). Pub. L. 103–337, §636, added subsec. (f) which read as follows: "In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on the date of the enactment of this subsection and ending on September 30, 1999, the provisions of subsection (a)(3) shall be applied by substituting 'the last six years' for 'the last eight years'."
 
-<b>1989</b>—Subsec. (d). Pub. L. 101–189 inserted “and the Supplemental Survivor Benefit Plan established under subchapter III of that chapter,” after “this title”.
+<b>1989</b>—Subsec. (d). Pub. L. 101–189 inserted "and the Supplemental Survivor Benefit Plan established under subchapter III of that chapter," after "this title".
 
-<b>1983</b>—Subsec. (c). Pub. L. 98–94 substituted “unless—
+<b>1983</b>—Subsec. (c). Pub. L. 98–94 substituted "unless—
 
-&emsp;“(1) he performed active duty after April 5, 1917, and before November 12, 1918, or after September 8, 1940, and before January 1, 1947; or
+&emsp;"(1) he performed active duty after April 5, 1917, and before November 12, 1918, or after September 8, 1940, and before January 1, 1947; or
 
-&emsp;“(2) he performed active duty (other than for training) after June 26, 1950, and before July 28, 1953, after August 13, 1961, and before May 31, 1963, or after August 4, 1964, and before March 28, 1973.”,
+&emsp;"(2) he performed active duty (other than for training) after June 26, 1950, and before July 28, 1953, after August 13, 1961, and before May 31, 1963, or after August 4, 1964, and before March 28, 1973.",
 
-> for “unless he performed active duty after April 5, 1917, and before November 12, 1918, or after September 8, 1940, and before January 1, 1947, or unless he performed active duty (other than for training) after June 26, 1950, and before July 28, 1953”.
+> for "unless he performed active duty after April 5, 1917, and before November 12, 1918, or after September 8, 1940, and before January 1, 1947, or unless he performed active duty (other than for training) after June 26, 1950, and before July 28, 1953".
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–513, §511(47)(A), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513, §511(47)(A), substituted "Secretary of Transportation" for "Secretary of the Treasury".
 
-Subsec. (e). Pub. L. 96–513, §511(47)(B), struck out “United States Code,” after “title 5,”.
+Subsec. (e). Pub. L. 96–513, §511(47)(B), struck out "United States Code," after "title 5,".
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–397 inserted provisions requiring that notice include notification of elections available under the Survivor Benefit Plan and the effects thereof.
 
@@ -164,7 +168,7 @@ Amendment by Pub. L. 108–375 effective on the first day of the first month beg
 
 #### Effective Date of 2002 Amendments
 
-Pub. L. 107–314, div. A, title VI, §631(c), Dec. 2, 2002, 116 Stat. 2572, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2002. No benefit shall accrue to any person for any period before that date by reason of the enactment of those amendments.”
+Pub. L. 107–314, div. A, title VI, §631(c), Dec. 2, 2002, 116 Stat. 2572, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2002. No benefit shall accrue to any person for any period before that date by reason of the enactment of those amendments."
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
@@ -178,11 +182,11 @@ Amendment by section 1662(j)(1) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–189, div. A, title XIV, §1404(b)(3), Nov. 29, 1989, 103 Stat. 1586, as amended by Pub. L. 101–510, div. A, title VI, §631(1), Nov. 5, 1990, 104 Stat. 1580, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 3101 \[now 5301\] of Title 38, Veterans’ Benefits\] shall take effect on April 1, 1992.”
+Pub. L. 101–189, div. A, title XIV, §1404(b)(3), Nov. 29, 1989, 103 Stat. 1586, as amended by Pub. L. 101–510, div. A, title VI, §631(1), Nov. 5, 1990, 104 Stat. 1580, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section and section 3101 \[now 5301\] of Title 38, Veterans' Benefits\] shall take effect on April 1, 1992."
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 98–94, title IX, §924(b), Sept. 24, 1983, 97 Stat. 644, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to retired pay payable for months beginning after September 30, 1983, or the date of the enactment of this Act \[Sept. 24, 1983\], whichever is later.”
+Pub. L. 98–94, title IX, §924(b), Sept. 24, 1983, 97 Stat. 644, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to retired pay payable for months beginning after September 30, 1983, or the date of the enactment of this Act \[Sept. 24, 1983\], whichever is later."
 
 #### Effective Date of 1980 Amendment
 
@@ -202,7 +206,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 #### Administration of Related Provisions of Law or Policy
 
-Pub. L. 110–181, div. A, title VI, §647(c), Jan. 28, 2008, 122 Stat. 161, provided that: “With respect to any provision of law, or of any policy, regulation, or directive of the executive branch that refers to a member or former member of the uniformed services as being eligible for, or entitled to, retired pay under chapter 1223 of title 10, United States Code, but for the fact that the member or former member is under 60 years of age, such provision shall be carried out with respect to that member or former member by substituting for the reference to being 60 years of age a reference to having attained the eligibility age applicable under subsection (f) of section 12731 of title 10, United States Code (as added by subsection (a)), to such member or former member for qualification for such retired pay under subsection (a) of such section.”
+Pub. L. 110–181, div. A, title VI, §647(c), Jan. 28, 2008, 122 Stat. 161, provided that: "With respect to any provision of law, or of any policy, regulation, or directive of the executive branch that refers to a member or former member of the uniformed services as being eligible for, or entitled to, retired pay under chapter 1223 of title 10, United States Code, but for the fact that the member or former member is under 60 years of age, such provision shall be carried out with respect to that member or former member by substituting for the reference to being 60 years of age a reference to having attained the eligibility age applicable under subsection (f) of section 12731 of title 10, United States Code (as added by subsection (a)), to such member or former member for qualification for such retired pay under subsection (a) of such section."
 
 #### Reserve Retirement System; Report to Congress
 
@@ -210,11 +214,11 @@ Pub. L. 99–348, title III, §302, July 1, 1986, 100 Stat. 702, directed Secret
 
 #### Survivor Annuities; Effective Date
 
-Pub. L. 94–448, §1, Oct. 1, 1976, 90 Stat. 1499, provided: “That for the purposes of survivor annuities under subchapter I of chapter 73 of title 10, United States Code \[section 1431 et seq. of this title\], and under prior corresponding provisions of law, the provisions of section 1331(e) \[now 12731(e)\] of such title 10, relating to the date of entitlement to retired pay under chapter 67 \[now 1223\] of such title 10, shall be effective as of November 1, 1953.”
+Pub. L. 94–448, §1, Oct. 1, 1976, 90 Stat. 1499, provided: "That for the purposes of survivor annuities under subchapter I of chapter 73 of title 10, United States Code \[section 1431 et seq. of this title\], and under prior corresponding provisions of law, the provisions of section 1331(e) \[now 12731(e)\] of such title 10, relating to the date of entitlement to retired pay under chapter 67 \[now 1223\] of such title 10, shall be effective as of November 1, 1953."
 
 #### Payment of Survivor Annuities Benefits Prior to October 1, 1976
 
-Pub. L. 94–448, §2, Oct. 1, 1976, 90 Stat. 1499, provided that: “No benefits shall be paid to any person for anyperiod prior to the date of enactment of this Act \[Oct. 1, 1976\] as a result of the enactment of this Act.”
+Pub. L. 94–448, §2, Oct. 1, 1976, 90 Stat. 1499, provided that: "No benefits shall be paid to any person for any period prior to the date of enactment of this Act \[Oct. 1, 1976\] as a result of the enactment of this Act."
 
 #### Entitlement to Retirement Pay After October 14, 1966; Conclusiveness
 

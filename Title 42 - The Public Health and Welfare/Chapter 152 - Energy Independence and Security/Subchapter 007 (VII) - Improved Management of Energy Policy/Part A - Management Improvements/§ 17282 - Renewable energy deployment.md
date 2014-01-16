@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Alaska small hydroelectric power
 
-&emsp;The term “Alaska small hydroelectric power” means power that—
+&emsp;The term "Alaska small hydroelectric power" means power that—
 
 &emsp;&emsp;(A) is generated—
 
@@ -24,7 +24,7 @@ In this section:
 
 #### (2) Eligible applicant
 
-&emsp;The term “eligible applicant” means any—
+&emsp;The term "eligible applicant" means any—
 
 &emsp;&emsp;(A) governmental entity;
 
@@ -44,15 +44,15 @@ In this section:
 
 #### (A) Inclusions
 
-&emsp;&emsp;The term “ocean energy” includes current, wave, and tidal energy.
+&emsp;&emsp;The term "ocean energy" includes current, wave, and tidal energy.
 
 #### (B) Exclusion
 
-&emsp;&emsp;The term “ocean energy” excludes thermal energy.
+&emsp;&emsp;The term "ocean energy" excludes thermal energy.
 
 #### (4) Renewable energy project
 
-&emsp;The term “renewable energy project” means a project—
+&emsp;The term "renewable energy project" means a project—
 
 &emsp;&emsp;(A) for the commercial generation of electricity; and
 

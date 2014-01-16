@@ -42,7 +42,7 @@ A consumer reporting agency may not prohibit a user of a consumer report furnish
 
 &emsp;A person who procures a consumer report for purposes of reselling the report (or any information in the report) shall—
 
-&emsp;&emsp;(A) establish and comply with reasonable procedures designed to ensure that the report (or information) is resold by the person only for a purpose for which the report may be furnished under section 1681b of this title, including by requiring that each person to which the report (or information) is resold and that resells or provides the report (or information) to any other person—
+&emsp;&emsp;(A) establish and comply with reasonable procedures designed to ensure that the report (or information) is resold by the person only for a purpose for which the report may be furnished under section 1681b of this title, including by requiring that each person to which the report (or information) is resoldand that resells or provides the report (or information) to any other person—
 
 &emsp;&emsp;&emsp;(i) identifies each end user of the resold report (or information);
 
@@ -64,11 +64,11 @@ A consumer reporting agency may not prohibit a user of a consumer report furnish
 
 #### References in Text
 
-Section 1681b(b)(4) of this title, referred to in subsec. (e)(3)(A), was subsequently amended, and section 1681b(b)(4)(E) no longer defines the term “classified information”. However, such term is defined elsewhere in that section.
+Section 1681b(b)(4) of this title, referred to in subsec. (e)(3)(A), was subsequently amended, and section 1681b(b)(4)(E) no longer defines the term "classified information". However, such term is defined elsewhere in that section.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(2). Pub. L. 111–203 substituted “Bureau” for “Federal Trade Commission” in two places.
+<b>2010</b>—Subsec. (d)(2). Pub. L. 111–203 substituted "Bureau" for "Federal Trade Commission" in two places.
 
 <b>1997</b>—Subsec. (e)(3). Pub. L. 105–107 added par. (3).
 

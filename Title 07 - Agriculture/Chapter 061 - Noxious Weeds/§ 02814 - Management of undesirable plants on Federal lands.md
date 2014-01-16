@@ -42,19 +42,19 @@ As used in this section:
 
 #### (1) Cooperative agreement
 
-&emsp;The term “cooperative agreement” means a written agreement between a Federal agency and a State agency entered into pursuant to this section.
+&emsp;The term "cooperative agreement" means a written agreement between a Federal agency and a State agency entered into pursuant to this section.
 
 #### (2) Federal agency
 
-&emsp;The term “Federal agency” means a department, agency, or bureau of the Federal Government responsible for administering or managing Federal lands under its jurisdiction.
+&emsp;The term "Federal agency" means a department, agency, or bureau of the Federal Government responsible for administering or managing Federal lands under its jurisdiction.
 
 #### (3) Federal lands
 
-&emsp;The term “Federal lands” means lands managed by or under the jurisdiction of the Federal Government.
+&emsp;The term "Federal lands" means lands managed by or under the jurisdiction of the Federal Government.
 
 #### (4) Integrated management system
 
-&emsp;The term “integrated management systems” means a system for the planning and implementation of a program, using an interdisciplinary approach, to select a method for containing or controlling an undesirable plant species or group of species using all available methods, including—
+&emsp;The term "integrated management systems" means a system for the planning and implementation of a program, using an interdisciplinary approach, to select a method for containing or controlling an undesirable plant species or group of species using all available methods, including—
 
 &emsp;&emsp;(A) education;
 
@@ -72,7 +72,7 @@ As used in this section:
 
 #### (5) Interdisciplinary approach
 
-&emsp;The term “interdisciplinary approach” means an approach to making decisions regarding the containment or control of an undesirable plant species or group of species, which—
+&emsp;The term "interdisciplinary approach" means an approach to making decisions regarding the containment or control of an undesirable plant species or group of species, which—
 
 &emsp;&emsp;(A) includes participation by personnel of Federal or State agencies with experience in areas including weed science, range science, wildlife biology, land management, and forestry; and
 
@@ -88,11 +88,11 @@ As used in this section:
 
 #### (6) State agencies
 
-&emsp;The term “State agency” means a State department of agriculture, or other State agency or political subdivision thereof, responsible for the administration or implementation of undesirable plants laws of a State.
+&emsp;The term "State agency" means a State department of agriculture, or other State agency or political subdivision thereof, responsible for the administration or implementation of undesirable plants laws of a State.
 
 #### (7) Undesirable plant species
 
-&emsp;The term “undesirable plants” means plant species that are classified as undesirable, noxious, harmful, exotic, injurious, or poisonous, pursuant to State or Federal law. Species listed as endangered by the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] shall not be designated as undesirable plants under this section and shall not include plants indigenous to an area where control measures are to be taken under this section.
+&emsp;The term "undesirable plants" means plant species that are classified as undesirable, noxious, harmful, exotic, injurious, or poisonous, pursuant to State or Federal law. Species listed as endangered by the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] shall not be designated as undesirable plants under this section and shall not include plants indigenous to an area where control measures are to be taken under this section.
 
 #### (f) Coordination
 

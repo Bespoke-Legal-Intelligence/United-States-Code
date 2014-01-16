@@ -14,5 +14,5 @@ Section is based on section 408 of title IV of H.R. 3750, One Hundredth Congress
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–240 struck out at end “Reports with respect to the Agency under paragraphs (5) and (6) of section 286b(b) of this title shall be included in the reports made thereunder after the United States accepts membership in the Agency.”
+<b>1989</b>—Pub. L. 101–240 struck out at end "Reports with respect to the Agency under paragraphs (5) and (6) of section 286b(b) of this title shall be included in the reports made thereunder after the United States accepts membership in the Agency."
 

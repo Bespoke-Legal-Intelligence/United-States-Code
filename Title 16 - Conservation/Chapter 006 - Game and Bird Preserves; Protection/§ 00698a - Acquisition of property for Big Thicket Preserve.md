@@ -16,15 +16,15 @@ Within one year after October 11, 1974, the Secretary shall submit, in writing, 
 
 #### (c) Completion of land acquisition program; time
 
-It is the express intent of the Congress that the Secretary should substantially complete the land acquisition program contemplated by sections 698 to 698e of this title within six years after October 11, 1974.
+It is the express intent of the Congress that the Secretary should substantially complete theland acquisition program contemplated by sections 698 to 698e of this title within six years after October 11, 1974.
 
 (Pub. L. 93–439, §2, Oct. 11, 1974, 88 Stat. 1256.)
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Committees”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Committees".</i>
 

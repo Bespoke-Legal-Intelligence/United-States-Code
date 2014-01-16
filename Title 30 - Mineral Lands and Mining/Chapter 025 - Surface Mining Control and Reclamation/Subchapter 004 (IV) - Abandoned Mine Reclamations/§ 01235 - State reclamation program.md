@@ -40,7 +40,7 @@ On an annual basis, each State having an approved State Reclamation Plan may sub
 
 #### (g) Costs
 
-The costs for each proposed project under this section shall include: actual construction costs, actual operation and maintenance costs of permanent facilities, planning and engineering costs, construction inspection costs, and other necessary administrative expenses.
+The costs for each proposed project under this section shall include: actual construction costs, actual operation and maintenance costs of permanent facilities, planning and engineeringcosts, construction inspection costs, and other necessary administrative expenses.
 
 #### (h) Grant of funds
 
@@ -56,23 +56,23 @@ The Secretary shall require annual and other reports as may be necessary to be s
 
 #### (k) Eligible lands of Indian tribes
 
-Indian tribes having within their jurisdiction eligible lands pursuant to section 1234 of this title or from which coal is produced, shall be considered as a “State” for the purposes of this subchapter except for purposes of subsection (c) of this section with respect to the Navajo, Hopi and Crow Indian Tribes.
+Indian tribes having within their jurisdiction eligible lands pursuant to section 1234 of this title or from which coal is produced, shall be considered as a "State" for the purposes of this subchapter except for purposes of subsection (c) of this section with respect to the Navajo, Hopi and Crow Indian Tribes.
 
 #### (l) State liability
 
-No State shall be liable under any provision of Federal law for any costs or damages as a resultof action taken or omitted in the course of carrying out a State abandoned mine reclamation plan approved under this section. This subsection shall not preclude liability for cost or damages as a result of gross negligence or intentional misconduct by the State. For purposes of the preceding sentence, reckless, willful, or wanton misconduct shall constitute gross negligence.
+No State shall be liable under any provision of Federal law for any costs or damages as a result of action taken or omitted in the course of carrying out a State abandoned mine reclamation plan approved under this section. This subsection shall not preclude liability for cost or damages as a result of gross negligence or intentional misconduct by the State. For purposes of the preceding sentence, reckless, willful, or wanton misconduct shall constitute gross negligence.
 
 (Pub. L. 95–87, title IV, §405, Aug. 3, 1977, 91 Stat. 459; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 416; Pub. L. 101–508, title VI, §§6007, 6012(d)(1), (2), Nov. 5, 1990, 104 Stat. 1388–295, 1388–298.)
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §6012(d)(1), substituted “preparation” for “perparation”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §6012(d)(1), substituted "preparation" for "perparation".
 
-Subsec. (h). Pub. L. 101–508, §6012(d)(2), substituted “Upon approval” for “Upon approved”.
+Subsec. (h). Pub. L. 101–508, §6012(d)(2), substituted "Upon approval" for "Upon approved".
 
 Subsec. (l). Pub. L. 101–508, §6007, added subsec. (l).
 
-<b>1987</b>—Subsec. (k). Pub. L. 100–71, which directed the amendment of subsec. (k) by inserting “except for purposes of subsection (c) of this section with respect to the Navajo, Hopi and Crow Indian Tribes” at the end thereof, was executed by making the insertion before the period to reflect the probable intent of Congress.
+<b>1987</b>—Subsec. (k). Pub. L. 100–71, which directed the amendment of subsec. (k) by inserting "except for purposes of subsection (c) of this section with respect to the Navajo, Hopi and Crow Indian Tribes" at the end thereof, was executed by making the insertion before the period to reflect the probable intent of Congress.
 
 #### Effective Date of 1990 Amendment
 
@@ -80,5 +80,5 @@ Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. 
 
 #### Grant of Funds to States Under Surface Mining Control and Reclamation Act
 
-Pub. L. 97–377, title I, §150, Dec. 21, 1982, 96 Stat. 1918, provided that: “Within 60 days of receipt of a complete abandoned mine reclamation fund grant application from any eligible State under the provisions of the Surface Mining Control and Reclamation Act (91 Stat. 460) \[Pub. L. 95–87, see Short Title note set out under section 1201 of this title\] the Secretary of Interior shall grant to such State any and all funds available for such purposes in the applicable appropriations Act.”
+Pub. L. 97–377, title I, §150, Dec. 21, 1982, 96 Stat. 1918, provided that: "Within 60 days of receipt of a complete abandoned mine reclamation fund grant application from any eligible State under the provisions of the Surface Mining Control and Reclamation Act (91 Stat. 460) \[Pub. L. 95–87, see Short Title note set out under section 1201 of this title\] the Secretary of Interior shall grant to such State any and all funds available for such purposes in the applicable appropriations Act."
 

@@ -153,7 +153,7 @@
 | :--- | ---: |
 | [2799aa.](Subchapter%20010%20%28X%29%20-%20Nuclear%20Nonproliferation%20Controls/%C2%A7%2002799aa%20-%20Nuclear%20enrichment%20transfers.md) | Nuclear enrichment transfers. |
 | 2799aa–1. | Nuclear reprocessing transfers, illegal exports for nuclear explosive devices, transfers of nuclear explosive devices, and nuclear detonations. |
-| 2799aa–2. | “Nuclear explosive device” defined. |
+| 2799aa–2. | "Nuclear explosive device" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

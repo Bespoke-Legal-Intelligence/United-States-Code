@@ -42,7 +42,7 @@ Amendment of the Patent.—
 
 &emsp;(1)
 
-In general.—During a post-grant review instituted under this chapter, the patentowner may file 1 motion to amend the patent in 1 or more of the following ways:
+In general.—During a post-grant review instituted under this chapter, the patent owner may file 1 motion to amend the patent in 1 or more of the following ways:
 
 &emsp;&emsp;(A) Cancel any challenged patent claim.
 

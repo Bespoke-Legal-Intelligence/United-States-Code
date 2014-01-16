@@ -26,7 +26,7 @@ Maps, Charts, Etc.—The National Geospatial-Intelligence Agency shall prepare a
 
 (d)
 
-National Missions.—The National Geospatial-Intelligence Agency also has national missions as specified in section 110(a) of the National Security Act of 1947 (50 U.S.C. 404e(a)).
+National Missions.—The National Geospatial-Intelligence Agency also has national missions as specified in section 110(a) of the National Security Act of 1947 (50 U.S.C. 404e(a)).<sup>1</sup>
 
 (e)
 
@@ -38,19 +38,25 @@ Systems.—The National Geospatial-Intelligence Agency may, in furtherance of a 
 
 (Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2678; amended Pub. L. 108–136, div. A, title IX, §921(c)(1), (d)(2)(A), (f), Nov. 24, 2003, 117 Stat. 1568, 1570; Pub. L. 111–259, title IV, §432, Oct. 7, 2010, 124 Stat. 2732.)
 
+#### References in Text
+
+The National Security Act of 1947, referred to in subsec. (d), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 110 of the Act is now classified to section 3045 of Title 50. For complete classification of this Act to the Code, see Tables.
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(2). Pub. L. 111–259, §432(2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 111–259, §432(1), (3), redesignated par. (2) as (3) and substituted “paragraphs (1) and (2)” for “paragraph (1)”.
+Subsec. (a)(3). Pub. L. 111–259, §432(1), (3), redesignated par. (2) as (3) and substituted "paragraphs (1) and (2)" for "paragraph (1)".
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §921(c)(1)(A), (d)(2)(A), in introductory provisions, substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” and inserted “geospatial intelligence consisting of” after “provide”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §921(c)(1)(A), (d)(2)(A), in introductory provisions, substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" and inserted "geospatial intelligence consisting of" after "provide".
 
-Subsec. (a)(2). Pub. L. 108–136, §921(c)(1)(B), substituted “Geospatial intelligence” for “Imagery, intelligence, and information”.
+Subsec. (a)(2). Pub. L. 108–136, §921(c)(1)(B), substituted "Geospatial intelligence" for "Imagery, intelligence, and information".
 
-Subsecs. (b), (c). Pub. L. 108–136, §921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+Subsecs. (b), (c). Pub. L. 108–136, §921(d)(2)(A), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
-Subsec. (d). Pub. L. 108–136, §921(d)(2)(A), (f), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” and “section 110(a) of the National Security Act of 1947 (50 U.S.C. 404e(a))” for “section 120(a) of the National Security Act of 1947”.
+Subsec. (d). Pub. L. 108–136, §921(d)(2)(A), (f), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" and "section 110(a) of the National Security Act of 1947 (50 U.S.C. 404e(a))" for "section 120(a) of the National Security Act of 1947".
 
-Subsec. (e). Pub. L. 108–136, §921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in introductory provisions.
+Subsec. (e). Pub. L. 108–136, §921(d)(2)(A), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in introductory provisions.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

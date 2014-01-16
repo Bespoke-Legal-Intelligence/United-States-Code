@@ -10,13 +10,13 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;(1) conduct surface coal mining operations so as to maximize the utilization and conservation of the solid fuel resource being recovered so that reaffecting the land in the future through surface coal mining can be minimized;
 
-&emsp;(2) restore the land affected to a condition capable of supporting the uses which it was capable of supporting prior to any mining, or higher or better uses of which there is reasonable likelihood, so long as such use or uses do not present any actual or probable hazard to public health or safety or pose any actual or probable threat of water diminution or pollution, and the permit applicants’ declared proposed land use following reclamation is not deemed to be impractical or unreasonable, inconsistent with applicable land use policies and plans, involves unreasonable delay in implementation, or is violative of Federal, State, or local law;
+&emsp;(2) restore the land affected to a condition capable of supporting the uses which it was capable of supporting prior to any mining, or higher or better uses of which there is reasonable likelihood, so long as such use or uses do not present any actual or probable hazard to public health or safety or pose any actual or probable threat of water diminution or pollution, and the permit applicants' declared proposed land use following reclamation is not deemed to be impractical or unreasonable, inconsistent with applicable land use policies and plans, involves unreasonable delay in implementation, or is violative of Federal, State, or local law;
 
 &emsp;(3) except as provided in subsection (c) of this section with respect to all surface coal mining operations backfill, compact (where advisable to insure stability or to prevent leaching of toxic materials), and grade in order to restore the approximate original contour of the land with all highwalls, spoil piles, and depressions eliminated (unless small depressions are needed in order to retain moisture to assist revegetation or as otherwise authorized pursuant to this chapter): <i>Provided, however</i>, That in surface coal mining which is carried out at the same location over a substantial period of time where the operation transects the coal deposit, and the thickness of the coal deposits relative to the volume of the overburden is large and where the operator demonstrates that the overburden and other spoil and waste materials at a particular point in the permit area or otherwise available from the entire permit area is insufficient, giving due consideration to volumetric expansion, to restore the approximate original contour, the operator, at a minimum, shall backfill, grade, and compact (where advisable) using all available overburden and other spoil and waste materials to attain the lowest practicable grade but not more than the angle of repose, to provide adequate drainage and to cover all acid-forming and other toxic materials, in order to achieve an ecologically sound land use compatible with the surrounding region: <i>And provided further</i>, That in surface coal mining where the volume of overburden is large relative to the thickness of the coal deposit and where the operator demonstrates that due to volumetric expansion the amount of overburden and other spoil and waste materials removed in the course of the mining operation is more than sufficient to restore the approximate original contour, the operator shall after restoring the approximate contour, backfill, grade, and compact (where advisable) the excess overburden and other spoil and waste materials to attain the lowest grade but not more than the angle of repose, and to cover all acid-forming and other toxic materials, in order to achieve an ecologically sound land use compatible with the surrounding region and that such overburden or spoil shall be shaped and graded in such a way as to prevent slides, erosion, and water pollution and is revegetated in accordance with the requirements of this chapter;
 
 &emsp;(4) stabilize and protect all surface areas including spoil piles affected by the surface coal mining and reclamation operation to effectively control erosion and attendant air and water pollution;
 
-&emsp;(5) remove the topsoil from the land in a separate layer, replace it on the backfill area, orif not utilized immediately, segregate it in a separate pile from other spoil and when the topsoil is not replaced on a backfill area within a time short enough to avoid deterioration of the topsoil, maintain a successful cover by quick growing plant or other means thereafter so that the topsoil is preserved from wind and water erosion, remains free of any contamination by other acid or toxic material, and is in a usable condition for sustaining vegetation when restored during reclamation, except if topsoil is of insufficient quantity or of poor quality for sustaining vegetation, or if other strata can be shown to be more suitable for vegetation requirements, then the operator shall remove, segregate, and preserve in a like manner such other strata which is best able to support vegetation;
+&emsp;(5) remove the topsoil from the land in a separate layer, replace it on the backfill area, or if not utilized immediately, segregate it in a separate pile from other spoil and when the topsoil is not replaced on a backfill area within a time short enough to avoid deterioration of the topsoil, maintain a successful cover by quick growing plant or other means thereafter so that the topsoil is preserved from wind and water erosion, remains free of any contamination by other acid or toxic material, and is in a usable condition for sustaining vegetation when restored during reclamation, except if topsoil is of insufficient quantity or of poor quality for sustaining vegetation, or if other strata can be shown to be more suitable for vegetation requirements, then the operator shall remove, segregate, and preserve in a like manner such other strata which is best able to support vegetation;
 
 &emsp;(6) restore the topsoil or the best available subsoil which is best able to support vegetation;
 
@@ -58,7 +58,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(B)(i) conducting surface coal mining operations so as to prevent, to the extent possible using the best technology currently available, additional contributions of suspended solids to streamflow, or runoff outside the permit area, but in no event shall contributions be in excess of requirements set by applicable State or Federal law;
 
-&emsp;&emsp;(ii) constructing any siltation structures pursuant to subparagraph (B)(i) of this subsection prior to commencement of surfacecoal mining operations, such structures to be certified by a qualified registered engineer or a qualified registered professional land surveyor in any State which authorizes land surveyors to prepare and certify such maps or plans to be constructed as designed and as approved in the reclamation plan;
+&emsp;&emsp;(ii) constructing any siltation structures pursuant to subparagraph (B)(i) of this subsection prior to commencement of surface coal mining operations, such structures to be certified by a qualified registered engineer or a qualified registered professional land surveyor in any State which authorizes land surveyors to prepare and certify such maps or plans to be constructed as designed and as approved in the reclamation plan;
 
 &emsp;&emsp;(C) cleaning out and removing temporary or large settling ponds or other siltation structures from drainways after disturbed areas are revegetated and stabilized; and depositing the silt and debris at a site and in a manner approved by the regulatory authority;
 
@@ -76,7 +76,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;(13) design, locate, construct, operate, maintain, enlarge, modify, and remove or abandon, in accordance with the standards and criteria developed pursuant to subsection (f) of this section, all existing and new coal mine waste piles consisting of mine wastes, tailings, coal processing wastes, or other liquid and solid wastes, and used either temporarily or permanently as dams or embankments;
 
-&emsp;(14) insure that all debris, acid-forming materials, toxic materials, or materials constituting a fire hazard are treated or buried and compacted or otherwise disposed of in a manner designed to prevent contamination of ground or surface waters and that contingency plans are developed to prevent sustained combustion;
+&emsp;(14) insure that all debris, acid-forming materials, toxic materials, or materials constituting a fire hazard are treated or buried and compacted or otherwise disposed of in a manner designed to prevent contamination ofground or surface waters and that contingency plans are developed to prevent sustained combustion;
 
 &emsp;(15) insure that explosives are used only in accordance with existing State and Federal law and the regulations promulgated by the regulatory authority, which shall include provisions to—
 
@@ -94,7 +94,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(A) if the regulatory authority finds in writing that:
 
-&emsp;&emsp;&emsp;(i) the applicant has presented, as part of the permit application, specific, feasibleplans for the proposed underground mining operations;
+&emsp;&emsp;&emsp;(i) the applicant has presented, as part of the permit application, specific, feasible plans for the proposed underground mining operations;
 
 &emsp;&emsp;&emsp;(ii) the proposed underground mining operations are necessary or desirable to assure maximum practical recovery of the mineral resource and will avoid multiple disturbance of the surface;
 
@@ -118,7 +118,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;(19) establish on the regraded areas, and all other lands affected, a diverse, effective, and permanent vegetative cover of the same seasonal variety native to the area of land to be affected and capable of self-regeneration and plant succession at least equal in extent of cover to the natural vegetation of the area; except, that introduced species may be used in the revegetation process where desirable and necessary to achieve the approved postmining land use plan;
 
-&emsp;(20)(A) assume the responsibility for successful revegetation, as required by paragraph (19) above, for a period of five full years after the last year of augmented seeding, fertilizing, irrigation, or other work in order to assure compliance with paragraph (19) above, except in those areas or regions of the country where the annual average precipitation is twenty-six inches or less, then the operator's assumption of responsibility and liability will extend for a period of ten full years after the last year of augmented seeding, fertilizing, irrigation, or other work: <i>Provided</i>, That when the regulatory authority approves a long-term intensive agricultural postmining land use, the applicable five- or ten-year period of responsibility for revegetation shall commence at the date of initial planting for such long-term intensive agricultural postmining land use: <i>Provided further</i>, That when the regulatory authority issues a written finding approving a long-term, intensive, agricultural postmining land use as part of the mining and reclamation plan, the authority may grant exception to the provisions of paragraph (19) above;
+&emsp;(20)(A) assume the responsibility for successful revegetation, as required by paragraph (19) above, for a period of five full years after the last year of augmented seeding, fertilizing, irrigation, or other work in order to assure compliance with paragraph (19) above, except inthose areas or regions of the country where the annual average precipitation is twenty-six inches or less, then the operator's assumption of responsibility and liability will extend for a period of ten full years after the last year of augmented seeding, fertilizing, irrigation, or other work: <i>Provided</i>, That when the regulatory authority approves a long-term intensive agricultural postmining land use, the applicable five- or ten-year period of responsibility for revegetation shall commence at the date of initial planting for such long-term intensive agricultural postmining land use: <i>Provided further</i>, That when the regulatory authority issues a written finding approving a long-term, intensive, agricultural postmining land use as part of the mining and reclamation plan, the authority may grant exception to the provisions of paragraph (19) above;
 
 &emsp;(B) on lands eligible for remining assume the responsibility for successful revegetation for a period of two full years after the last year of augmented seeding, fertilizing, irrigation, or other work in order to assure compliance with the applicable standards, except in those areas or regions of the country where the annual average precipitation is twenty-six inches or less, then the operator's assumption of responsibility and liability will be extended for a period of five full years after the last year of augmented seeding, fertilizing, irrigation, or other work in order to assure compliance with the applicable standards.<sup>4</sup>
 
@@ -136,7 +136,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(E) if placed on a slope, the spoil is placed upon the most moderate slope among those upon which, in the judgment of the regulatory authority, the spoil could be placed in compliance with all the requirements of this chapter, and shall be placed, where possible, upon, or above, a natural terrace, bench, or berm, if such placement provides additional stability and prevents mass movement;
 
-&emsp;&emsp;(F) where the toe of the spoil rests on a downslope, a rock toe buttress, of sufficientsize to prevent mass movement, is constructed;
+&emsp;&emsp;(F) where the toe of the spoil rests on a downslope, a rock toe buttress, of sufficient size to prevent mass movement, is constructed;
 
 &emsp;&emsp;(G) the final configuration is compatible with the natural drainage pattern and surroundings and suitable for intended uses;
 
@@ -202,7 +202,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 #### (d) Steep-slope surface coal mining standards
 
-The following performance standards shall be applicable to steep-slope surface coal miningand shall be in addition to those general performance standards required by this section: <i>Provided, however</i>, That the provisions of this subsection (d) shall not apply to those situations in which an operator is mining on flat or gently rolling terrain, on which an occasional steep slope is encountered through which the mining operation is to proceed, leaving a plain or predominantly flat area or where an operator is in compliance with provisions of subsection (c) hereof:
+The following performance standards shall be applicable to steep-slope surface coal mining and shall be in addition to those general performance standards required by this section: <i>Provided, however</i>, That the provisions of this subsection (d) shall not apply to those situations in which an operator is mining on flat or gently rolling terrain, on which an occasional steep slope is encountered through which the mining operation is to proceed, leaving a plain or predominantly flat area or where an operator is in compliance with provisions of subsection (c) hereof:
 
 (1) Insure that when performing surface coal mining on steep slopes, no debris, abandoned or disabled equipment, spoil material, or waste mineral matter be placed on the downslope below the bench or mining cut: <i>Provided</i>, That spoil material in excess of that required for the reconstruction of the approximate original contour under the provisions of subsection (b)(3) or (d)(2) of this section shall be permanently stored pursuant to subsection (b)(22) of this section.
 
@@ -210,7 +210,7 @@ The following performance standards shall be applicable to steep-slope surface c
 
 (3) The operator may not disturb land above the top of the highwall unless the regulatory authority finds that such disturbance will facilitate compliance with the environmental protection standards of this section: <i>Provided, however</i>, That the land disturbed above the highwall shall be limited to that amount necessary to facilitate said compliance.
 
-(4) For the purposes of this subsection (d), the term “steep slope” is any slope above twenty degrees or such lesser slope as may be defined by the regulatory authority after consideration of soil, climate, and other characteristics of a region or State.
+(4) For the purposes of this subsection (d), the term "steep slope" is any slope above twenty degrees or such lesser slope as may be defined by the regulatory authority after consideration of soil, climate, and other characteristics of a region or State.
 
 #### (e) Variances to original contour restoration requirements
 
@@ -220,7 +220,7 @@ The following performance standards shall be applicable to steep-slope surface c
 
 (3)(A) After consultation with the appropriate land use planning agencies, if any, the potential use of the affected land is deemed to constitute an equal or better economic or public use;
 
-(B) is designed and certified by a qualified registered professional engineer in conformance with professional standards established to assure the stability, drainage, and configuration necessary for the intended use of the site; and
+(B) is designed and certified by a qualified registered professional engineer in conformancewith professional standards established to assure the stability, drainage, and configuration necessary for the intended use of the site; and
 
 (C) after approval of the appropriate State environmental agencies, the watershed of the affected land is deemed to be improved.
 
@@ -248,19 +248,19 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 <b>1992</b>—Subsec. (b)(20). Pub. L. 102–486 designated existing provisions as subpar. (A) and added subpar. (B).
 
-<b>1986</b>—Subsec. (b)(10)(B)(ii). Pub. L. 99–500 and Pub. L. 99–591 inserted “or a qualified registered professional land surveyor in any State which authorizes land surveyors to prepare and certify such maps or plans”.
+<b>1986</b>—Subsec. (b)(10)(B)(ii). Pub. L. 99–500 and Pub. L. 99–591 inserted "or a qualified registered professional land surveyor in any State which authorizes land surveyors to prepare and certify such maps or plans".
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “conduct”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "conduct".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “keeping”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "keeping".</i>
 
 <i><sup>4</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>5</sup></i><i> So in original. The word “and” probably should appear at end of par. (24).</i>
+<i><sup>5</sup></i><i> So in original. The word "and" probably should appear at end of par. (24).</i>
 
-<i><sup>6</sup></i><i> So in original. Probably should be “for”.</i>
+<i><sup>6</sup></i><i> So in original. Probably should be "for".</i>
 
 <i><sup>7</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

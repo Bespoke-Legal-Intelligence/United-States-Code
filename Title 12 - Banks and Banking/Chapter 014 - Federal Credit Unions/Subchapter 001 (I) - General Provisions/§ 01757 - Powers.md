@@ -16,7 +16,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;&emsp;&emsp;(i) a residential real estate loan on a one-to-four-family dwelling, including an individual cooperative unit, that is or will be the principal residence of a credit union member, and which is secured by a first lien upon such dwelling, may have a maturity not exceeding thirty years or such other limits as shall be set by the National Credit Union Administration Board (except that a loan on an individual cooperative unit shall be adequately secured as defined by the Board), subject to the rules and regulations of the Board;
 
-&emsp;&emsp;&emsp;(ii) a loan to finance the purchase of a mobile home, which shall be secured by a first lien on such mobile home, to be used by the credit union member as his residence, a loan for the repair, alteration, or improvement of a residential dwelling which is the residence of a credit union member, or a second mortgage loan secured by a residential dwelling which is the residence of a credit union member,shall have a maturity not to exceed 15 years or any longer term which the Board may allow;
+&emsp;&emsp;&emsp;(ii) a loan to finance the purchase of a mobile home, which shall be secured by a first lien on such mobile home, to be used by the credit union member as his residence, a loan for the repair, alteration, or improvement of a residential dwelling which is the residence of a credit union member, or a second mortgage loan secured by a residential dwelling which is the residence of a credit union member, shall have a maturity not to exceed 15 years or any longer term which the Board may allow;
 
 &emsp;&emsp;&emsp;(iii) a loan secured by the insurance or guarantee of, or with advance commitment to purchase the loan by, the Federal Government, a State government, or any agency of either may be made for the maturity and under the terms and conditions specified in the law under which such insurance, guarantee, or commitment is provided;
 
@@ -56,7 +56,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 > &emsp;subject to such terms, rates, and conditions as may be established by the board of directors, within limitations prescribed by the Board;
 
-&emsp;(7) to invest its funds (A) in loans exclusively to members; (B) in obligations of the United States of America, or securities fully guaranteed as to principal and interest thereby; (C) in accordance with rules and regulations prescribed by the Board, in loans to other credit unions in the total amount not exceeding 25 per centum of its paid-in and unimpaired capital and surplus; (D) in shares or accounts of savings and loan associations or mutual savings banks, the accounts of which are insured by the Federal Deposit Insurance Corporation; (E) in obligations issued by banks for cooperatives, Federal land banks, Federal intermediate credit banks, Federal home loan banks, the Federal Housing Finance Board, or any corporation designated in section 9101(3) of title 31 as a wholly owned Government corporation; or in obligations, participations, or other instruments of or issued by, or fully guaranteed as to principal and interest by, the Federal National Mortgage Association or the Government National Mortgage Association; or in mortgages, obligations, or other securities which are or ever have been sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or 1455 of this title; or in obligations or other instruments or securities of the Student Loan Marketing Association; or in obligations, participations, securities, or other instruments of, or issued by, or fully guaranteed as to principal and interest by any other agency of the United States and a Federal credit union may issue and sell securities which are guaranteed pursuant to section 1721(g) of this title; (F) in participation certificates evidencing beneficial interests in obligations, or in the right to receive interest and principal collections therefrom, which obligations have been subjected by one or more Government agencies to a trust or trusts for which any executive department, agency, or instrumentality of the United States (or the head thereof) has been named to act as trustee; (G) in shares or deposits of any central credit union in which such investments are specifically authorized by the board of directors of the Federal credit union making the investment; (H) in shares, share certificates, or share deposits of federally insured credit unions; (I) in the shares, stocks, or obligations of any other organization, providing services which are associated with the routine operations of credit unions, up to 1 per centum of the total paid in and unimpaired capital and surplus of the credit union with the approval of the Board: <i>Provided, however</i>, That such authority does not include the power to acquire control directly or indirectly, of another financial institution, nor invest in shares, stocks or obligations of an insurance company, trade association, liquidity facility or any other similar organization, corporation, or association, except as otherwise expressly provided by this chapter; (J) in the capital stock of the National Credit Union Central Liquidity Facility; (K) investments in obligations of, or issued by, any State or political subdivision thereof (including any agency, corporation, or instrumentality of a State or political subdivision), except that no credit union may invest more than 10 per centum of its unimpaired capital and surplus in the obligations of any one issuer (exclusive of general obligations of the issuer);
+&emsp;(7) to invest its funds (A) in loans exclusively to members; (B) in obligations of the United States of America, or securities fully guaranteed as to principal and interest thereby; (C) in accordance with rules and regulations prescribed by the Board, in loans to other credit unions in the total amount notexceeding 25 per centum of its paid-in and unimpaired capital and surplus; (D) in shares or accounts of savings and loan associations or mutual savings banks, the accounts of which are insured by the Federal Deposit Insurance Corporation; (E) in obligations issued by banks for cooperatives, Federal land banks, Federal intermediate credit banks, Federal home loan banks, the Federal Housing Finance Board, or any corporation designated in section 9101(3) of title 31 as a wholly owned Government corporation; or in obligations, participations, or other instruments of or issued by, or fully guaranteed as to principal and interest by, the Federal National Mortgage Association or the Government National Mortgage Association; or in mortgages, obligations, or other securities which are or ever have been sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or 1455 of this title; or in obligations or other instruments or securities of the Student Loan Marketing Association; or in obligations, participations, securities, or other instruments of, or issued by, or fully guaranteed as to principal and interest by any other agency of the United States and a Federal credit union may issue and sell securities which are guaranteed pursuant to section 1721(g) of this title; (F) in participation certificates evidencing beneficial interests in obligations, or in the right to receive interest and principal collections therefrom, which obligations have been subjected by one or more Government agencies to a trust or trusts for which any executive department, agency, or instrumentality of the United States (or the head thereof) has been named to act as trustee; (G) in shares or deposits of any central credit union in which such investments are specifically authorized by the board of directors of the Federal credit union making the investment; (H) in shares, share certificates, or share deposits of federally insured credit unions; (I) in the shares, stocks, or obligations of any other organization, providing services which are associated with the routine operations of credit unions, up to 1 per centum of the total paid in and unimpaired capital and surplus of the credit union with the approval of the Board: <i>Provided, however</i>, That such authority does not include the power to acquire control directly or indirectly, of another financial institution, nor invest in shares, stocks or obligations of an insurance company, trade association, liquidity facility or any other similar organization, corporation, or association, except as otherwise expressly provided by this chapter; (J) in the capital stock of the National Credit Union Central Liquidity Facility; (K) investments in obligations of, or issued by, any State or political subdivision thereof (including any agency, corporation, or instrumentality of a State or political subdivision), except that no credit union may invest more than 10 per centum of its unimpaired capital and surplus in the obligations of any one issuer (exclusive of general obligations of the issuer);
 
 &emsp;(8) to make deposits in national banks and in State banks, trust companies, and mutual savings banks operating in accordance with the laws of the State in which the Federal credit union does business, or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation, and for Federal credit unions or credit unions authorized by the Department of Defense operating suboffices on American military installations in foreign countries or trust territories of the United States to maintain demand deposit accounts in banks located in those countries or trust territories, subject to such regulations as may be issued by the Board and provided such banks are correspondents of banks described in this paragraph;
 
@@ -72,7 +72,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;&emsp;(B) to cash checks and money orders for persons in the field of membership for a fee;
 
-&emsp;(13) in accordance with rules and regulations prescribed by the Board, to purchase, sell, pledge, or discount or otherwise receive or dispose of, in whole or in part, any eligible obligations (as defined by the Board) of its members and to purchase from any liquidating credit union notes made by individual members of the liquidating credit union at such prices as may be agreed upon by the board of directors of the liquidating credit union and the board of directors of the purchasing credit union, but no purchase may be made under authority of this paragraph if, upon the making of that purchase, the aggregate of the unpaid balances of notes purchased under authority of this paragraph would exceed 5 per centum ofthe unimpaired capital and surplus of the credit union;
+&emsp;(13) in accordance with rules and regulations prescribed by the Board, to purchase, sell, pledge, or discount or otherwise receive or dispose of, in whole or in part, any eligible obligations (as defined by the Board) of its members and to purchase from any liquidating credit union notes made by individual members of the liquidating credit union at such prices as may be agreed upon by the board of directors of the liquidating credit union and the board of directors of the purchasing credit union, but no purchase may be made under authority of this paragraph if, upon the making of that purchase, the aggregate of the unpaid balances of notes purchased under authority of this paragraph would exceed 5 per centum of the unimpaired capital and surplus of the credit union;
 
 &emsp;(14) to sell all or a part of its assets to another credit union, to purchase all or part of the assets of another credit union and to assume the liabilities of the selling credit union and those of its members subject to regulations of the Board;
 
@@ -96,19 +96,19 @@ Section 77d(5) of title 15, referred to in par. (15)(A), was redesignated sectio
 
 #### Codification
 
-In par. (7), “section 9101(3) of title 31” substituted for “section 101 of the Government Corporation Control Act \[31 U.S.C. 846\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In par. (7), "section 9101(3) of title 31" substituted for "section 101 of the Government Corporation Control Act \[31 U.S.C. 846\]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>2010</b>—Par. (8). Pub. L. 111–203, §362(1), struck out “or the Federal Savings and Loan Insurance Corporation” after “Federal Deposit Insurance Corporation”.
+<b>2010</b>—Par. (8). Pub. L. 111–203, §362(1), struck out "or the Federal Savings and Loan Insurance Corporation" after "Federal Deposit Insurance Corporation".
 
-Par. (12). Pub. L. 111–203, §1073(d), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “in accordance with regulations prescribed by the Board—
+Par. (12). Pub. L. 111–203, §1073(d), amended par. (12) generally. Prior to amendment, par. (12) read as follows: "in accordance with regulations prescribed by the Board—
 
-&emsp;“(A) to sell, to persons in the field of membership, negotiable checks (including travelers checks), money orders, and other similar money transfer instruments (including international and domestic electronic fund transfers); and
+&emsp;"(A) to sell, to persons in the field of membership, negotiable checks (including travelers checks), money orders, and other similar money transfer instruments (including international and domestic electronic fund transfers); and
 
-&emsp;“(B) to cash checks and money orders and receive international and domestic electronic fund transfers for persons in the field of membership for a fee;”.
+&emsp;"(B) to cash checks and money orders and receive international and domestic electronic fund transfers for persons in the field of membership for a fee;".
 
-<b>2006</b>—Par. (5). Pub. L. 109–351, §502, substituted “to make loans, the maturities of which shall not exceed 15 years,” for “to make loans, the maturities of which shall not exceed twelve years” in introductory provisions.
+<b>2006</b>—Par. (5). Pub. L. 109–351, §502, substituted "to make loans, the maturities of which shall not exceed 15 years," for "to make loans, the maturities of which shall not exceed twelve years" in introductory provisions.
 
 Par. (5)(E). Pub. L. 109–351, §726(3), substituted semicolon for period at end.
 
@@ -116,41 +116,41 @@ Par. (6). Pub. L. 109–351, §726(4), substituted semicolon for period at end.
 
 Par. (7). Pub. L. 109–351, §726(4), substituted semicolon for period at end.
 
-Par. (7)(D). Pub. L. 109–351, §726(5), struck out “the Federal Savings and Loan Insurance Corporation or” before “the Federal Deposit Insurance Corporation”.
+Par. (7)(D). Pub. L. 109–351, §726(5), struck out "the Federal Savings and Loan Insurance Corporation or" before "the Federal Deposit Insurance Corporation".
 
-Par. (7)(E). Pub. L. 109–351, §726(6), substituted “the Federal Housing Finance Board,” for “the Federal Home Loan Bank Board,”.
+Par. (7)(E). Pub. L. 109–351, §726(6), substituted "the Federal Housing Finance Board," for "the Federal Home Loan Bank Board,".
 
 Par. (9). Pub. L. 109–351, §726(7), made technical amendment to reference in original act which appears in text as reference to subchapter III.
 
-Par. (12). Pub. L. 109–351, §503, amended par. (12) generally. Prior to amendment, par. (12) read as follows: “in accordance with rules and regulations prescribed by the Board, to sell to members negotiable checks (including travelers checks), money orders, and other similar money transfer instruments, and to cash checks and money orders for members, for a fee;”.
+Par. (12). Pub. L. 109–351, §503, amended par. (12) generally. Prior to amendment, par. (12) read as follows: "in accordance with rules and regulations prescribed by the Board, to sell to members negotiable checks (including travelers checks), money orders, and other similar money transfer instruments, and to cash checks and money orders for members, for a fee;".
 
-Par. (13). Pub. L. 109–351, §726(8), struck out “and” after semicolon at end.
+Par. (13). Pub. L. 109–351, §726(8), struck out "and" after semicolon at end.
 
-<b>1996</b>—Par. (5)(A)(iv), (v). Pub. L. 104–208 substituted “$20,000” for “$10,000”.
+<b>1996</b>—Par. (5)(A)(iv), (v). Pub. L. 104–208 substituted "$20,000" for "$10,000".
 
 <b>1994</b>—Par. (15)(C). Pub. L. 103–325 added subpar. (C).
 
 <b>1989</b>—Pars. (16), (17). Pub. L. 101–179 added par. (16) and redesignated former par. (16) as (17).
 
-<b>1987</b>—Par. (5)(A)(ii). Pub. L. 100–86, §702, substituted “15 years or any longer term which the Board may allow” for “fifteen years unless such loan is insured or guaranteed as provided in subparagraph (iii)”.
+<b>1987</b>—Par. (5)(A)(ii). Pub. L. 100–86, §702, substituted "15 years or any longer term which the Board may allow" for "fifteen years unless such loan is insured or guaranteed as provided in subparagraph (iii)".
 
-Par. (6). Pub. L. 100–86, §703, inserted “, representing equity,” after “payments”.
+Par. (6). Pub. L. 100–86, §703, inserted ", representing equity," after "payments".
 
-<b>1984</b>—Par. (5)(A)(ii). Pub. L. 98–479 inserted “a loan for the repair, alteration, or improvement of a residential dwelling which is the residence of a credit union member,”.
+<b>1984</b>—Par. (5)(A)(ii). Pub. L. 98–479 inserted "a loan for the repair, alteration, or improvement of a residential dwelling which is the residence of a credit union member,".
 
 Pars. (15), (16). Pub. L. 98–440, §105(b), added par. (15) and redesignated former par. (15) as (16).
 
-<b>1983</b>—Par. (5)(A)(i). Pub. L. 97–457, §25, substituted “Administration” for “Association” after “National Credit Union”.
+<b>1983</b>—Par. (5)(A)(i). Pub. L. 97–457, §25, substituted "Administration" for "Association" after "National Credit Union".
 
-Par. (7)(K). Pub. L. 97–457, §26, redesignated cl. (L) as (K) and substituted a period for “; and” at end.
+Par. (7)(K). Pub. L. 97–457, §26, redesignated cl. (L) as (K) and substituted a period for "; and" at end.
 
-<b>1982</b>—Par. (5)(A)(i). Pub. L. 97–320, §§507–509, substituted “on” for “which is made to finance the acquisition of” after “real estate loan” and “that is or will be” for “for” after “cooperative unit,”, struck out “the sales price of which is not more than 150 per centum of the median sales price of residential real property situated in the geographical area (as determined by the board of directors) in which the property is located,” after “credit union member”, and inserted “or such other limits as shall be set by the National Credit Union Association Board” after “not exceeding thirty years”.
+<b>1982</b>—Par. (5)(A)(i). Pub. L. 97–320, §§507–509, substituted "on" for "which is made to finance the acquisition of" after "real estate loan" and "that is or will be" for "for" after "cooperative unit,", struck out "the sales price of which is not more than 150 per centum of the median sales price of residential real property situated in the geographical area (as determined by the board of directors) in which the property is located," after "credit union member", and inserted "or such other limits as shall be set by the National Credit Union Association Board" after "not exceeding thirty years".
 
-Par. (5)(A)(ii). Pub. L. 97–320, §510, substituted “or a second mortgage loan secured by a residential dwelling” for “or for the repair, alteration, or improvement of a residential dwelling”.
+Par. (5)(A)(ii). Pub. L. 97–320, §510, substituted "or a second mortgage loan secured by a residential dwelling" for "or for the repair, alteration, or improvement of a residential dwelling".
 
-Par. (5)(A)(iii). Pub. L. 97–320, §511, inserted “, or with advance commitment to purchase the loan by,” and substituted “insurance, guarantee, or commitment” for “insurance or guarantee”.
+Par. (5)(A)(iii). Pub. L. 97–320, §511, inserted ", or with advance commitment to purchase the loan by," and substituted "insurance, guarantee, or commitment" for "insurance or guarantee".
 
-Par. (5)(A)(iv), (v). Pub. L. 97–320, §512, substituted “$10,000” for “$5,000”.
+Par. (5)(A)(iv), (v). Pub. L. 97–320, §512, substituted "$10,000" for "$5,000".
 
 Par. (5)(A)(viii). Pub. L. 97–320, §513, inserted condition relating to partial prepayments of first or second mortgage loans.
 
@@ -160,9 +160,9 @@ Par. (7)(E). Pub. L. 97–320, §516, inserted provisions relating to instrument
 
 Par. (7)(L). Pub. L. 97–320, §514, added cl. (L).
 
-Par. (8). Pub. L. 97–320, §517, inserted “or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation,” after “in which the Federal Credit Union does business,”.
+Par. (8). Pub. L. 97–320, §517, inserted "or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation," after "in which the Federal Credit Union does business,".
 
-Par. (12). Pub. L. 97–320, §518, substituted “, money orders, and other similar money transfer instruments” for “and money orders”, and struck out “which does not exceed the direct and indirect costs incident to providing such service” after “for a fee”.
+Par. (12). Pub. L. 97–320, §518, substituted ", money orders, and other similar money transfer instruments" for "and money orders", and struck out "which does not exceed the direct and indirect costs incident to providing such service" after "for a fee".
 
 <b>1980</b>—Par. (5)(A)(i). Pub. L. 96–221, §309(a)(1), inserted provisions relating to an individual cooperative unit.
 
@@ -170,21 +170,21 @@ Par. (5)(A)(vi). Pub. L. 96–221, §310, substituted provisions setting forth m
 
 Par. (6). Pub. L. 96–221, §§305(b), 307, revised existing provisions respecting credit unions serving predominately low-income members including provisions added by Pub. L. 96–161, and repealed the amendment made by Pub. L. 96–161. See Repeals and Effective Date of 1980 Amendment notes below.
 
-<b>1979</b>—Par. (6). Pub. L. 96–161 inserted “, and to issue, deal in, and accept share drafts as orders of withdrawal against shares, subject to such terms, rates, and conditions as may be prescribed by the Board” after “within limitations prescribed by the Board”.
+<b>1979</b>—Par. (6). Pub. L. 96–161 inserted ", and to issue, deal in, and accept share drafts as orders of withdrawal against shares, subject to such terms, rates, and conditions as may be prescribed by the Board" after "within limitations prescribed by the Board".
 
-Pub. L. 96–153 substituted “Federal, Indian tribal, State” for “Federal, State”.
+Pub. L. 96–153 substituted "Federal, Indian tribal, State" for "Federal, State".
 
-<b>1978</b>—Par. (5). Pub. L. 95–630, §502(b), substituted “Board” for “Administrator” wherever appearing.
+<b>1978</b>—Par. (5). Pub. L. 95–630, §502(b), substituted "Board" for "Administrator" wherever appearing.
 
-Par. (6). Pub. L. 95–630, §§502(b), 1803(a), inserted “from the Central Liquidity Facility,” after “in the manner so prescribed,” and substituted “Board” for “Administrator” in two places.
+Par. (6). Pub. L. 95–630, §§502(b), 1803(a), inserted "from the Central Liquidity Facility," after "in the manner so prescribed," and substituted "Board" for "Administrator" in two places.
 
-Par. (7). Pub. L. 95–630, §§502(b), 1803(b), substituted “Board” for “Administrator” wherever appearing and added cl. (J).
+Par. (7). Pub. L. 95–630, §§502(b), 1803(b), substituted "Board" for "Administrator" wherever appearing and added cl. (J).
 
-Par. (8). Pub. L. 95–630, §502(b), substituted “Board” for “Administrator”.
+Par. (8). Pub. L. 95–630, §502(b), substituted "Board" for "Administrator".
 
-Par. (9). Pub. L. 95–630, §§502(b), 1803(c), substituted “Board” for “Administrator” and inserted “, except as authorized by the Board in carrying out the provisions of subchapter III of this chapter,” after “amount not exceeding”.
+Par. (9). Pub. L. 95–630, §§502(b), 1803(c), substituted "Board" for "Administrator" and inserted ", except as authorized by the Board in carrying out the provisions of subchapter III of this chapter," after "amount not exceeding".
 
-Pars. (12) to (14). Pub. L. 95–630, §502(b), substituted “Board” for “Administrator” wherever appearing.
+Pars. (12) to (14). Pub. L. 95–630, §502(b), substituted "Board" for "Administrator" wherever appearing.
 
 <b>1977</b>—Par. (5). Pub. L. 95–22, §302(a), among other changes, inserted provisions permitting Federal credit unions to establish lines of credit for their members, to raise the maximum loan maturity for most loans to twelve years, and to make loans secured by a first lien and made for the purchase of a one-to-four-family dwelling for the principal residence of a credit union member.
 
@@ -198,7 +198,7 @@ Par. (13). Pub. L. 95–22, §303(c), (d), redesignated par. (14) as (13) and in
 
 Par. (14). Pub. L. 95–22, §303(e), added par. (14).
 
-<b>1974</b>—Par. (5). Pub. L. 93–569 inserted “except that loans made in accordance with section 1703(b) of this title and section 1819 of title 38, may be for the maturities specified therein,” after “ten years”.
+<b>1974</b>—Par. (5). Pub. L. 93–569 inserted "except that loans made in accordance with section 1703(b) of this title and section 1819 of title 38, may be for the maturities specified therein," after "ten years".
 
 Par. (6). Pub. L. 93–383, §721(a), substituted provisions relating to approval of loans by the board of directors for provisions requiring annual reports to the Administrator with respect to loans and setting forth conditions for the making of loans.
 
@@ -210,7 +210,7 @@ Par. (9). Pub. L. 93–383, §721(b), inserted provisions relating to Federal cr
 
 <b>1972</b>—Par. (8)(E). Pub. L. 92–318 authorized investments in obligations or other instruments or securities of the Student Loan Marketing Association.
 
-<b>1970</b>—Pars. (5), (6), (8), (10), (13), (14), Pub. L. 91–206 substituted “Administrator” for “Director” wherever appearing.
+<b>1970</b>—Pars. (5), (6), (8), (10), (13), (14), Pub. L. 91–206 substituted "Administrator" for "Director" wherever appearing.
 
 Par. (7). Pub. L. 91–468, §10(1), permitted a Federal credit union to not only receive from members but also from other federally insured credit unions, payments on shares as well as share certificates or share deposits and, in the case of credit unions serving predominantly low-income members, to receive payments on shares, share certificates or share deposits from nonmembers.
 
@@ -224,7 +224,7 @@ Pub. L. 90–375, §1(2), added cl. (G).
 
 Pars. (14), (15). Pub. L. 90–375, §1(3), added par. (14) and redesignated former par. (14) as (15).
 
-<b>1967</b>—Par. (5). Pub. L. 90–44, §2(1), substituted “may be made except as authorized under paragraph (6) of this section” for “shall exceed the amount of his holdings in the Federal Credit Union as represented by shares thereof plus the total unencumbered and unpledged shareholdings in the Federal Credit Union of any member pledged as security for the obligation of such director or committee member”.
+<b>1967</b>—Par. (5). Pub. L. 90–44, §2(1), substituted "may be made except as authorized under paragraph (6) of this section" for "shall exceed the amount of his holdings in the Federal Credit Union as represented by shares thereof plus the total unencumbered and unpledged shareholdings in the Federal Credit Union of any member pledged as security for the obligation of such director or committee member".
 
 Pars. (6), (7). Pub. L. 90–44, §2(3), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
@@ -234,7 +234,7 @@ Pars. (8) to (14). Pub. L. 90–44, §§2(2), (3), redesignated former par. (7) 
 
 <b>1964</b>—Par. (7)(E). Pub. L. 88–353 added cl. (E).
 
-<b>1959</b>—Pub. L. 86–354 made numerous capitalization, punctuation and phraseological changes throughout text; increased maturities limits for loans from three to five years, authorized approval of loans by a loan officer and authorized loans in an amount which shall include total unencumbered and unpledged shareholdings in the Federal credit union of any member pledged as security for the obligation of the director or committee member, provided for payment and amortization of loans, redesignated provisions (a) to (d) as (A) to (D) in par. (7), substituted “levy late charges” for “fine members” and inserted “of members” in par. (10), substituted “charges” for “fines” in par. (11), added par. (12); and redesignated former par. (12) as par. (13).
+<b>1959</b>—Pub. L. 86–354 made numerous capitalization, punctuation and phraseological changes throughout text; increased maturities limits for loans from three to five years, authorized approval of loans by a loan officer and authorized loans in an amount which shall include total unencumbered and unpledged shareholdings in the Federal credit union of any member pledged as security for the obligation of the director or committee member, provided for payment and amortization of loans, redesignated provisions (a) to (d) as (A) to (D) in par. (7), substituted "levy late charges" for "fine members" and inserted "of members" in par. (10), substituted "charges" for "fines" in par. (11), added par. (12); and redesignated former par. (12) as par. (13).
 
 <b>1952</b>—Par. (7)(d). Act May 13, 1952, authorized investment of funds in shares or accounts of any other institutions whose accounts are insured by the Federal Savings and Loan Insurance Corporation.
 
@@ -258,7 +258,7 @@ Amendment by section 305(b) of Pub. L. 96–221 effective at close of Mar. 31, 1
 
 Amendment by Pub. L. 96–161 effective Dec. 31, 1979, with that amendment to remain in effect until the close of Mar. 31, 1980, see section 104 of Pub. L. 96–161, formerly set out as a note under section 371a of this title.
 
-Pub. L. 96–153, title III, §323(e), Dec. 21, 1979, 93 Stat. 1120, provided that: “The amendments made by subsections (a) through (d) \[amending this section and sections 1728, 1787, and 1821 of this title\] are not applicable to any claim arising out of the closing of a bank, savings and loan association, or credit union prior to the date of enactment of this Act \[Dec. 21, 1979\], but shall be applicable to any such claim arising on or after such date.”
+Pub. L. 96–153, title III, §323(e), Dec. 21, 1979, 93 Stat. 1120, provided that: "The amendments made by subsections (a) through (d) \[amending this section and sections 1728, 1787, and 1821 of this title\] are not applicable to any claim arising out of the closing of a bank, savings and loan association, or credit union prior to the date of enactment of this Act \[Dec. 21, 1979\], but shall be applicable to any such claim arising on or after such date."
 
 #### Effective Date of 1978 Amendment
 
@@ -268,7 +268,7 @@ Amendment by section 1803 of Pub. L. 95–630 effective Oct. 1, 1979, see sectio
 
 #### Effective Date of 1974 Amendments
 
-Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L. 93–569, set out as a note under section 3702 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L. 93–569, set out as a note under section 3702 of Title 38, Veterans' Benefits.
 
 Amendment by Pub. L. 93–495 effective on 30th day beginning after Oct. 28, 1974, see section 101(g) of Pub. L. 93–495, set out as a note under section 1813 of this title.
 
@@ -280,7 +280,7 @@ For effective date of amendment by title VIII of Pub. L. 90–448, see section 8
 
 Amendment by section 103 of Pub. L. 96–161, cited as a credit to this section, was repealed at the close of Mar. 31, 1980, by section 307 of Pub. L. 96–221, and substantially identical provisions were enacted by section 305 of Pub. L. 96–221, such amendments to take effect at the close of Mar. 31, 1980.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

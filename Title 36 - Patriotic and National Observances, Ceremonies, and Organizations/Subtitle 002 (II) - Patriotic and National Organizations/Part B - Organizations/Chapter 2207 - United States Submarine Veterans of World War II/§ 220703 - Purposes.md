@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 Nov. 20, 1981, Pub. L. 97–83, §3, 95 Stat. 1094.
 
-Before clause (1), the words “objects” is omitted as included in “purposes”.
+Before clause (1), the words "objects" is omitted as included in "purposes".
 
-In clause (1), the words “preserving and promoting” are added for clarity.
+In clause (1), the words "preserving and promoting" are added for clarity.
 

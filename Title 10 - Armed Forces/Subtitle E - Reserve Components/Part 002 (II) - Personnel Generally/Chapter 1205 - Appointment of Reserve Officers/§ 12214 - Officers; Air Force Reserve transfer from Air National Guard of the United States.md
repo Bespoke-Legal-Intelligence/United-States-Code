@@ -30,9 +30,9 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §§706 (less last 15 words of 1st sentence, and less applicability to enlistments), 707 (less applicability to enlistments), 66 Stat. 503.
 
-In subsection (a), the words “at any time”, “of any person”, and “from the National Guard of the United States or from the Air National Guard of the United States” are omitted as surplusage. The words “highest regular or reserve grade ever held by him in the Air Force” are substituted for the words “highest permanent grade previously held in \* \* \* the Air Force or any component thereof”, since “permanent” grades are held only in a component and there are no “nonpermanent” grades held in a component.
+In subsection (a), the words "at any time", "of any person", and "from the National Guard of the United States or from the Air National Guard of the United States" are omitted as surplusage. The words "highest regular or reserve grade ever held by him in the Air Force" are substituted for the words "highest permanent grade previously held in \* \* \* the Air Force or any component thereof", since "permanent" grades are held only in a component and there are no "nonpermanent" grades held in a component.
 
-In subsection (b), the words “appointment as a Reserve” are substituted for the words “appointment or \* \* \* as a Reserve officer or”. The words “whose Federal recognition as a member \* \* \* is withdrawn” are substituted for the words “ceases to hold a status as a federally recognized member”.
+In subsection (b), the words "appointment as a Reserve" are substituted for the words "appointment or \* \* \* as a Reserve officer or". The words "whose Federal recognition as a member \* \* \* is withdrawn" are substituted for the words "ceases to hold a status as a federally recognized member".
 
 #### 1962 Act
 
@@ -40,13 +40,13 @@ The change reflects the implied repeal of the second sentence of section 8352(a)
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–106 inserted “the” after “National Guard of” in section catchline.
+<b>1996</b>—Pub. L. 104–106 inserted "the" after "National Guard of" in section catchline.
 
 <b>1994</b>—Pub. L. 103–337, §1662(c)(3), renumbered section 8352 of this title as this section.
 
-Subsec. (a). Pub. L. 103–337, §1675(b)(2), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
+Subsec. (a). Pub. L. 103–337, §1675(b)(2), struck out "or Territory, Puerto Rico, or the District of Columbia, whichever is" after "authority of the State".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–651 struck out sentence which provided that upon transfer, an officer is eligible for promotion to the highest regular or reserve grade ever held by him in the Air Force, if his service has been honorable.
 

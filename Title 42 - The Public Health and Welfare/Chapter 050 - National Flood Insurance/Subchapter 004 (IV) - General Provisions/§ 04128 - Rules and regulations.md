@@ -8,7 +8,7 @@
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, known as theFlood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
+This Act, referred to in text, means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, known as the Flood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
 
 #### Codification
 
@@ -16,9 +16,9 @@ Section was enacted as part of the Flood Disaster Protection Act of 1973, and no
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director” in subsecs (a) and (b).
+<b>2012</b>—Pub. L. 112–141 substituted "Administrator" for "Director" in subsecs (a) and (b).
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” in subsecs. (a) and (b).
+<b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" in subsecs. (a) and (b).
 
 #### Transfer of Functions
 

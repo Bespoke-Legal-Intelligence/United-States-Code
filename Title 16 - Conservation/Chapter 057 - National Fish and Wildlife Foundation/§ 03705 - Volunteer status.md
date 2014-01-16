@@ -6,5 +6,5 @@ The Secretary of the Interior or the Secretary of Commerce may accept, without r
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–408 substituted “Secretary of the Interior or the Secretary of Commerce” for “Secretary” and inserted “or the Department of Commerce” after “Department of the Interior”.
+<b>2000</b>—Pub. L. 106–408 substituted "Secretary of the Interior or the Secretary of Commerce" for "Secretary" and inserted "or the Department of Commerce" after "Department of the Interior".
 

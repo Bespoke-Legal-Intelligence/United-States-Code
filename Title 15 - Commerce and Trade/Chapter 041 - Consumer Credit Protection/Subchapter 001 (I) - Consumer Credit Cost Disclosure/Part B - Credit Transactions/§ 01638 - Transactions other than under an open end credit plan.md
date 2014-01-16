@@ -6,7 +6,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(1) The identity of the creditor required to make disclosure.
 
-&emsp;(2)(A) The “amount financed”, using that term, which shall be the amount of credit of which the consumer has actual use. This amount shall be computed as follows, but the computations need not be disclosed and shall not be disclosed with the disclosures conspicuously segregated in accordance with subsection (b)(1) of this section:
+&emsp;(2)(A) The "amount financed", using that term, which shall be the amount of credit of which the consumer has actual use. This amount shall be computed as follows, but the computations need not be disclosed and shall not be disclosed with the disclosures conspicuously segregated in accordance with subsection (b)(1) of this section:
 
 &emsp;&emsp;(i) take the principal amount of the loan or the cash price less downpayment and trade-in;
 
@@ -14,7 +14,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;&emsp;(iii) subtract any charges which are part of the finance charge but which will be paid by the consumer before or at the time of the consummation of the transaction, or have been withheld from the proceeds of the credit.
 
-&emsp;(B) In conjunction with the disclosure of the amount financed, a creditor shall provide a statement of the consumer's right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a “yes” and “no” indication to be initialed by the consumer to indicate whether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, “itemization of the amount financed” means a disclosure of the following items, to the extent applicable:
+&emsp;(B) In conjunction with the disclosure of the amount financed, a creditor shall provide a statement of the consumer's right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a "yes" and "no" indication to be initialed by the consumer to indicate whether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, "itemization of the amount financed" means a disclosure of the following items, to the extent applicable:
 
 &emsp;&emsp;(i) the amount that is or will be paid directly to the consumer;
 
@@ -24,21 +24,21 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;&emsp;(iv) the total amount of any charges described in the preceding subparagraph (A)(iii).
 
-&emsp;(3) The “finance charge”, not itemized, using that term.
+&emsp;(3) The "finance charge", not itemized, using that term.
 
-&emsp;(4) The finance charge expressed as an “annual percentage rate”, using that term. This shall not be required if the amount financed does not exceed $75 and the finance charge does not exceed $5, or if the amount financed exceeds $75 and the finance charge does not exceed $7.50.
+&emsp;(4) The finance charge expressed as an "annual percentage rate", using that term. This shall not be required if the amount financed does not exceed $75 and the finance charge does not exceed $5, or if the amount financed exceeds $75 and the finance charge does not exceed $7.50.
 
-&emsp;(5) The sum of the amount financed and the finance charge, which shall be termed the “total of payments”.
+&emsp;(5) The sum of the amount financed and the finance charge, which shall be termed the "total of payments".
 
 &emsp;(6) The number, amount, and due dates or period of payments scheduled to repay the total of payments.
 
-&emsp;(7) In a sale of property or services in which the seller is the creditor required to disclose pursuant to section 1631(b) of this title, the “total sale price”, using that term, which shall be the total of the cash price of the property or services, additional charges, and the finance charge.
+&emsp;(7) In a sale of property or services in which the seller is the creditor required to disclose pursuant to section 1631(b) of this title, the "total sale price", using that term, which shall be the total of the cash price of the property or services, additional charges, and the finance charge.
 
-&emsp;(8) Descriptive explanations of the terms “amount financed”, “finance charge”, “annual percentage rate”, “total of payments”, and “total sale price” as specified by the Bureau. The descriptive explanation of “total sale price” shall include reference to the amount of the downpayment.
+&emsp;(8) Descriptive explanations of the terms "amount financed", "finance charge", "annual percentage rate", "total of payments", and "total sale price" as specified by the Bureau. The descriptive explanation of "total sale price" shall include reference to the amount of the downpayment.
 
 &emsp;(9) Where the credit is secured, a statement that a security interest has been taken in (A) the property which is purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
-&emsp;(10) Any dollar charge or percentage amount which may be imposed by a creditor solely on account of a late payment, other than a deferral or extension charge.
+&emsp;(10) Any dollar charge or percentage amount which may be imposed by a creditor solely onaccount of a late payment, other than a deferral or extension charge.
 
 &emsp;(11) A statement indicating whether or not the consumer is entitled to a rebate of any finance charge upon refinancing or prepayment in full pursuant to acceleration or otherwise, if the obligation involves a precomputed finance charge. A statement indicating whether or not a penalty will be imposed in those same circumstances if the obligation involves a finance charge computed from time to time by application of a rate to the unpaid principal balance.
 
@@ -72,15 +72,15 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 (2)(A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures required under subsection (a) of this section shall be made in accordance with regulations of the Bureau under section 1631(c) of this title and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which shall be at least 7 business days before consummation of the transaction.
 
-(B) In the case of an extension of credit that is secured by the dwelling of a consumer, thedisclosures provided under subparagraph (A),<sup>1</sup> shall be in addition to the other disclosures required by subsection (a), and shall—
+(B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A),<sup>1</sup> shall be in addition to the other disclosures required by subsection (a), and shall—
 
-&emsp;(i) state in conspicuous type size and format, the following: “You are not required to complete this agreement merely because you have received these disclosures or signed a loan application.”; and
+&emsp;(i) state in conspicuous type size and format, the following: "You are not required to complete this agreement merely because you have received these disclosures or signed a loan application."; and
 
 &emsp;(ii) be provided in the form of final disclosures at the time of consummation of the transaction, in the form and manner prescribed by this section.
 
 (C) In the case of an extension of credit that is secured by the dwelling of a consumer, under which the annual rate of interest is variable, or with respect to which the regular payments may otherwise be variable, in addition to the other disclosures required by subsection (a), the disclosures provided under this subsection shall do the following:
 
-&emsp;(i) Label the payment schedule as follows: “Payment Schedule: Payments Will Vary Based on Interest Rate Changes”.
+&emsp;(i) Label the payment schedule as follows: "Payment Schedule: Payments Will Vary Based on Interest Rate Changes".
 
 &emsp;(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of credit based on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Bureau. Prior to issuing any rules pursuant to this clause, the Bureau shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee that the borrower will be able to refinance to a lower amount.
 
@@ -92,7 +92,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 Waiver of timeliness of disclosures.—To expedite consummation of a transaction, if the consumer determines that the extension of credit is needed to meet a bona fide personal financial emergency, the consumer may waive or modify the timing requirements for disclosures under subparagraph (A), provided that—
 
-&emsp;(i) the term “bona fide personal emergency” may be further defined in regulations issued by the Bureau;
+&emsp;(i) the term "bona fide personal emergency" may be further defined in regulations issued by the Bureau;
 
 &emsp;(ii) the consumer provides to the creditor a dated, written statement describing the emergency and specifically waiving or modifying those timing requirements, which statement shall bear the signature of all consumers entitled to receive the disclosures required by this paragraph; and
 
@@ -248,7 +248,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (A) Model form
 
-&emsp;&emsp;Not later than 2 years after August 14, 2008, the Bureau shall, based on consumer testing, and in consultation with the Secretary of Education, develop and issue modelforms that may be used, at the option of the private educational lender, for the provision of disclosures required under this subsection.
+&emsp;&emsp;Not later than 2 years after August 14, 2008, the Bureau shall, based on consumer testing, and in consultation with the Secretary of Education, develop and issue model forms that may be used, at the option of the private educational lender, for the provision of disclosures required under this subsection.
 
 #### (B) Format
 
@@ -258,7 +258,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;&emsp;(ii) provide for clear and conspicuous disclosures;
 
-&emsp;&emsp;&emsp;(iii) enable borrowers easily to identify material terms of the loan and to compare such terms among private education loans; and
+&emsp;&emsp;&emsp;(iii) enable borrowers easily to identify material terms of the loan and to comparesuch terms among private education loans; and
 
 &emsp;&emsp;&emsp;(iv) be succinct, and use an easily readable type font.
 
@@ -294,7 +294,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (10) Definitions
 
-&emsp;For purposes of this subsection, the terms “covered educational institution”, “private educational lender”, and “private education loan” have the same meanings as in section 1650 of this title.
+&emsp;For purposes of this subsection, the terms "covered educational institution", "private educational lender", and "private education loan" have the same meanings as in section 1650 of this title.
 
 #### (11) Duties of lenders participating in preferred lender arrangements
 
@@ -324,13 +324,13 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (2) Development and use of standard form
 
-&emsp;The Board <sup>2</sup> shall develop and prescribe a standard form for the disclosure requiredunder this subsection, taking into account that the statements required may be transmitted in writing or electronically.
+&emsp;The Board <sup>2</sup> shall develop and prescribe a standard form for the disclosure required under this subsection, taking into account that the statements required may be transmitted in writing or electronically.
 
 #### (3) Exception
 
 &emsp;Paragraph (1) shall not apply to any fixed rate residential mortgage loan where the creditor, assignee, or servicer provides the obligor with a coupon book that provides the obligor with substantially the same information as required in paragraph (1).
 
-(Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, §1302(b)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 110–289, div. B, title V, §2502(a), July 30, 2008, 122 Stat. 2855; Pub. L. 110–315, title X, §1021(a), Aug. 14, 2008, 122 Stat. 3483; Pub. L. 110–343, div. A, title I, §130(a), Oct. 3, 2008, 122 Stat. 3797; Pub. L. 111–203, title X, §1100A(2), title XIV, §§1419, 1420, 1465, July 21, 2010, 124 Stat. 2107, 2154, 2155, 2185.)
+(Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31,1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, §1302(b)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 110–289, div. B, title V, §2502(a), July 30, 2008, 122 Stat. 2855; Pub. L. 110–315, title X, §1021(a), Aug. 14, 2008, 122 Stat. 3483; Pub. L. 110–343, div. A, title I, §130(a), Oct. 3, 2008, 122 Stat. 3797; Pub. L. 111–203, title X, §1100A(2), title XIV, §§1419, 1420, 1465, July 21, 2010, 124 Stat. 2107, 2154, 2155, 2185.)
 
 #### References in Text
 
@@ -340,7 +340,7 @@ The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board" wherever appearing.
 
 Subsec. (a)(16) to (19). Pub. L. 111–203, §1419, added pars. (16) to (19).
 
@@ -350,17 +350,17 @@ Subsec. (f). Pub. L. 111–203, §1420, added subsec. (f).
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–289, §2502(a)(1), designated existing provisions as subpar. (A).
 
-Subsec. (b)(2)(A). Pub. L. 110–343, §130(a)(1), substituted “Except as provided in subparagraph (G), in the case” for “In the case”.
+Subsec. (b)(2)(A). Pub. L. 110–343, §130(a)(1), substituted "Except as provided in subparagraph (G), in the case" for "In the case".
 
-Pub. L. 110–289, §2502(a)(5), (6), struck out “, whichever is earlier” after “consummation of the transaction” and “If the disclosure statement furnished within three days of the written application contains an annual percentage rate which is subsequently rendered inaccurate within the meaning of section 1606(c) of this title, the creditor shall furnish another statement at the time of settlement or consummation.” at the end.
+Pub. L. 110–289, §2502(a)(5), (6), struck out ", whichever is earlier" after "consummation of the transaction" and "If the disclosure statement furnished within three days of the written application contains an annual percentage rate which is subsequently rendered inaccurate within the meaning of section 1606(c) of this title, the creditor shall furnish another statement at the time of settlement or consummation." at the end.
 
-Pub. L. 110–289, §2502(a)(4), which directed insertion of “, which shall be at least 7 business days before consummation of the transaction” after “written application”, was executed by making the insertion after “written application” the first place appearing.
+Pub. L. 110–289, §2502(a)(4), which directed insertion of ", which shall be at least 7 business days before consummation of the transaction" after "written application", was executed by making the insertion after "written application" the first place appearing.
 
-Pub. L. 110–289, §2502(a)(2), (3), substituted “any extension of credit that is secured by the dwelling of a consumer” for “a residential mortgage transaction, as defined in section 1602(w) of this title” and “and” for “before the credit is extended, or”.
+Pub. L. 110–289, §2502(a)(2), (3), substituted "any extension of credit that is secured by the dwelling of a consumer" for "a residential mortgage transaction, as defined in section 1602(w) of this title" and "and" for "before the credit is extended, or".
 
 Subsec. (b)(2)(B) to (F). Pub. L. 110–289, §2502(a)(6), added subpars. (B) to (F).
 
-Subsec. (b)(2)(G). Pub. L. 110–343, §130(a)(2), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “The requirements of subparagraphs (B), (C), (D) and (E) shall not apply to extensions of credit relating to plans described in section 101(53D) of title 11.”
+Subsec. (b)(2)(G). Pub. L. 110–343, §130(a)(2), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: "The requirements of subparagraphs (B), (C), (D) and (E) shall not apply to extensions of credit relating to plans described in section 101(53D) of title 11."
 
 Pub. L. 110–289, §2502(a)(6), added subpar. (G).
 
@@ -376,7 +376,7 @@ Subsec. (b)(3). Pub. L. 109–8, §1302(b)(1)(B), added par. (3).
 
 Subsec. (b). Pub. L. 96–221, §614(b), designated existing provisions as par. (1), inserted provisions relating to the conspicuous segregation of required disclosures, and struck out provisions authorizing the required information to be disclosed in the signed evidence of indebtedness, and added par. (2).
 
-Subsec. (c). Pub. L. 96–221, §614(c), designated existing provisions as par. (1), substituted “total sale” for “deferred payment”, and added par. (2).
+Subsec. (c). Pub. L. 96–221, §614(c), designated existing provisions as par. (1), substituted "total sale" for "deferred payment", and added par. (2).
 
 #### Effective Date of 2010 Amendment
 
@@ -386,31 +386,31 @@ Amendment by sections 1419, 1420, and 1465 of Pub. L. 111–203 effective on the
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. A, title I, §130(b), Oct. 3, 2008, 122 Stat. 3797, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 2502 of the Mortgage Disclosure Improvement Act of 2008 (Public Law 110–289) \[amending this section and section 1640 of this title\].”
+Pub. L. 110–343, div. A, title I, §130(b), Oct. 3, 2008, 122 Stat. 3797, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 2502 of the Mortgage Disclosure Improvement Act of 2008 (Public Law 110–289) \[amending this section and section 1640 of this title\]."
 
 Pub. L. 110–315, title X, §1003, Aug. 14, 2008, 122 Stat. 3478, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as provided in subsection (b) and as otherwise provided in this title \[see Short Title of 2008 Amendment note set out under section 1601 of this title\], this title and the amendments made by this title shall become effective on the date of enactment of this Act \[Aug. 14, 2008\].
 
-“(b)
+"(b)
 
-Effect Notwithstanding Regulations.—Paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) \[15 U.S.C. 1638(e)\] and section 140(c) of the Truth in Lending Act \[15 U.S.C. 1650(c)\], as added by this title, shall become effective on the earlier of the date on which regulations issued under section 1002 \[set out as a note below\] become effective \[Such regulations were issued effective Sept. 14, 2009, with compliance optional until Feb. 14, 2010. See 74 F.R. 41194.\] or 18 months after the date of enactment of this Act \[Aug. 14, 2008\].”
+Effect Notwithstanding Regulations.—Paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) \[15 U.S.C. 1638(e)\] and section 140(c) of the Truth in Lending Act \[15 U.S.C. 1650(c)\], as added by this title, shall become effective on the earlier of the date on which regulations issued under section 1002 \[set out as a note below\] become effective \[Such regulations were issued effective Sept. 14, 2009, with compliance optional until Feb. 14, 2010. See 74 F.R. 41194.\] or 18 months after the date of enactment of this Act \[Aug. 14, 2008\]."
 
 Pub. L. 110–289, div. B, title V, §2502(c), July 30, 2008, 122 Stat. 2857, provided that:
 
-“(1)
+"(1)
 
 General disclosures.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall become effective 12 months after the date of enactment of this Act \[July 30, 2008\].
 
-“(2)
+"(2)
 
 Variable interest rates.—Subparagraph (C) of section 128(b)(2) of the Truth in Lending Act (15 U.S.C. 1638(b)(2)(C)), as added by subsection (a) of this section, shall become effective on the earlier of—
 
-&emsp;“(A) the compliance date established by the Board for such purpose, by regulation; or
+&emsp;"(A) the compliance date established by the Board for such purpose, by regulation; or
 
-&emsp;“(B) 30 months after the date of enactment of this Act \[July 30, 2008\].”
+&emsp;"(B) 30 months after the date of enactment of this Act \[July 30, 2008\]."
 
 #### Effective Date of 2005 Amendment
 
@@ -418,13 +418,13 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Regulations
 
-Pub. L. 110–315, title X, §1002, Aug. 14, 2008, 122 Stat. 3478, provided that: “Not later than 365 days after the date of enactment of this Act \[Aug. 14, 2008\], the Board of Governors of the Federal Reserve System shall issue regulations in final form to implement paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) \[15 U.S.C. 1638(e)\] and section 140(c) of the Truth in Lending Act \[15 U.S.C. 1650(c)\], as added by this title, which regulations shall become effective not later than 6 months after their date of issuance.”
+Pub. L. 110–315, title X, §1002, Aug. 14, 2008, 122 Stat. 3478, provided that: "Not later than 365 days after the date of enactment of this Act \[Aug. 14, 2008\], the Board of Governors of the Federal Reserve System shall issue regulations in final form to implement paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) \[15 U.S.C. 1638(e)\] and section 140(c) of the Truth in Lending Act \[15 U.S.C. 1650(c)\], as added by this title, which regulations shall become effective not later than 6 months after their date of issuance."
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Bureau”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Bureau".</i>
 

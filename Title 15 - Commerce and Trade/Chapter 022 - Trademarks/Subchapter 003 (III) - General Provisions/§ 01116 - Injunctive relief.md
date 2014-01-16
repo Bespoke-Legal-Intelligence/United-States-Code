@@ -6,7 +6,7 @@ The several courts vested with jurisdiction of civil actions arising under this 
 
 #### (b) Transfer of certified copies of court papers
 
-The said courts shall have jurisdiction to enforce said injunction, as provided in this chapter, as fully as if the injunction had been granted by the district court in which it is sought to be enforced. The clerk of the court or judge granting the injunction shall, when required to do so by the court before which application to enforce said injunction is made, transfer without delay to said court a certified copy of all papers on file in his office upon which said injunction was granted.
+The said courts shall have jurisdiction to enforce said injunction, as provided in this chapter, as fully as if the injunction had been granted by the district court in which it is sought to be enforced. The clerk of the court or judge granting the injunction shall, when required to do so by the court before which application toenforce said injunction is made, transfer without delay to said court a certified copy of all papers on file in his office upon which said injunction was granted.
 
 #### (c) Notice to Director
 
@@ -16,7 +16,7 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 (1)(A) In the case of a civil action arising under section 1114(1)(a) of this title or section 220506 of title 36 with respect to a violation that consists of using a counterfeit mark in connection with the sale, offering for sale, or distribution of goods or services, the court may, upon ex parte application, grant an order under subsection (a) of this section pursuant to this subsection providing for the seizure of goods and counterfeit marks involved in such violation and the means of making such marks, and records documenting the manufacture, sale, or receipt of things involved in such violation.
 
-(B) As used in this subsection the term “counterfeit mark” means—
+(B) As used in this subsection the term "counterfeit mark" means—
 
 &emsp;(i) a counterfeit of a mark that is registered on the principal register in the United States Patent and Trademark Office for such goods or services sold, offered for sale, or distributed and that is in use, whether or not the person against whom relief is sought knew such mark was so registered; or
 
@@ -64,7 +64,7 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 &emsp;(E) a date for the hearing required under paragraph (10) of this subsection.
 
-(6) The court shall take appropriate action to protect the person against whom an order under this subsection is directed from publicity, by or at the behest of the plaintiff, about such order and any seizure under such order.
+(6) The court shall take appropriate action to protect the person against whom an order underthis subsection is directed from publicity, by or at the behest of the plaintiff, about such order and any seizure under such order.
 
 (7) Any materials seized under this subsection shall be taken into the custody of the court. For seizures made under this section, the court shall enter an appropriate protective order with respect to discovery and use of any records or information that has been seized. The protective order shall provide for appropriate procedures to ensure that confidential, private, proprietary, or privileged information contained in such records is not improperly disclosed or used.
 
@@ -90,29 +90,29 @@ Acts Feb. 20, 1905, ch. 592, §§19, 20, 33 Stat. 729; Mar. 3, 1911, ch. 231, §
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(7). Pub. L. 110–403 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Any materials seized under this subsection shall be taken into the custody of the court. The court shall enter an appropriate protective order with respect to discovery by the applicant of any records that have been seized. The protective order shall provide for appropriate procedures to assure that confidential information contained in such records is not improperly disclosed to the applicant.”
+<b>2008</b>—Subsec. (d)(7). Pub. L. 110–403 amended par. (7) generally. Prior to amendment, par. (7) read as follows: "Any materials seized under this subsection shall be taken into the custody of the court. The court shall enter an appropriate protective order with respect to discovery by the applicant of any records that have been seized. The protective order shall provide for appropriate procedures to assure that confidential information contained in such records is not improperly disclosed to the applicant."
 
-<b>2002</b>—Subsec. (d)(1)(A), (B)(ii). Pub. L. 107–273, §13207(b)(8), (9), substituted “section 220506 of title 36” for “section 110 of the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 380)”.
+<b>2002</b>—Subsec. (d)(1)(A), (B)(ii). Pub. L. 107–273, §13207(b)(8), (9), substituted "section 220506 of title 36" for "section 110 of the Act entitled 'An Act to incorporate the United States Olympic Association', approved September 21, 1950 (36 U.S.C. 380)".
 
-Subsec. (d)(11). Pub. L. 107–273, §13207(b)(10), substituted “6621(a)(2) of title 26” for “6621 of title 26”.
+Subsec. (d)(11). Pub. L. 107–273, §13207(b)(10), substituted "6621(a)(2) of title 26" for "6621 of title 26".
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(a)(1)\], substituted “(a), (c), or (d)” for “(a) or (c)” in first sentence.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(a)(1)\], substituted "(a), (c), or (d)" for "(a) or (c)" in first sentence.
 
-Pub. L. 106–43 substituted “subsection (a) or (c) of section 1125 of this title” for “section 1125(a) of this title” in first sentence.
+Pub. L. 106–43 substituted "subsection (a) or (c) of section 1125 of this title" for "section 1125(a) of this title" in first sentence.
 
-Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted “Director” for “Commissioner” wherever appearing.
+Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted "Director" for "Commissioner" wherever appearing.
 
-<b>1996</b>—Subsec. (d)(9). Pub. L. 104–153 inserted first sentence and struck out former first sentence which read as follows: “The court shall order that a United States marshal or other law enforcement officer is to serve a copy of the order under this subsection and then is to carry out the seizure under such order.”
+<b>1996</b>—Subsec. (d)(9). Pub. L. 104–153 inserted first sentence and struck out former first sentence which read as follows: "The court shall order that a United States marshal or other law enforcement officer is to serve a copy of the order under this subsection and then is to carry out the seizure under such order."
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–667, §128(c), inserted “or to prevent a violation under section 1125(a) of this title” after “Office” in first sentence.
+<b>1988</b>—Subsec. (a). Pub. L. 100–667, §128(c), inserted "or to prevent a violation under section 1125(a) of this title" after "Office" in first sentence.
 
-Subsec. (c). Pub. L. 100–667, §128(d), substituted “proceeding involving a mark registered” for “proceeding arising” and “judgment is entered or an appeal is taken” for “decision is rendered, appeal taken or a decree issued”.
+Subsec. (c). Pub. L. 100–667, §128(d), substituted "proceeding involving a mark registered" for "proceeding arising" and "judgment is entered or an appeal is taken" for "decision is rendered, appeal taken or a decree issued".
 
-Subsec. (d)(1)(B). Pub. L. 100–667, §128(e), inserted “on or” after “or designation used” in concluding provisions.
+Subsec. (d)(1)(B). Pub. L. 100–667, §128(e), inserted "on or" after "or designation used" in concluding provisions.
 
 <b>1984</b>—Pub. L. 98–473 designated first, second, and third undesignated pars. as subsecs. (a), (b), and (c), respectively and added subsec. (d).
 
-<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 1999 Amendment
 
@@ -140,5 +140,5 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “manufacturer”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "manufacturer".</i>
 

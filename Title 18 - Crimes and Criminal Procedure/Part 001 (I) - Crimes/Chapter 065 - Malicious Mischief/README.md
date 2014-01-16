@@ -10,7 +10,7 @@
 | [1366\.](%C2%A7%2001366%20-%20Destruction%20of%20an%20energy%20facility.md) | Destruction of an energy facility. |
 | [1367\.](%C2%A7%2001367%20-%20Interference%20with%20the%20operation%20of%20a%20satellite.md) | Interference with the operation of a satellite. |
 | [1368\.](%C2%A7%2001368%20-%20Harming%20animals%20used%20in%20law%20enforcement.md) | Harming animals used in law enforcement. |
-| [1369\.](%C2%A7%2001369%20-%20Destruction%20of%20veterans%E2%80%99%20memorials.md) | Destruction of veterans’ memorials. |
+| [1369\.](%C2%A7%2001369%20-%20Destruction%20of%20veterans%27%20memorials.md) | Destruction of veterans' memorials. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,7 +20,7 @@
 
 <b>2000</b>—Pub. L. 106–254, §2(b), Aug. 2, 2000, 114 Stat. 638, added item 1368.
 
-<b>1990</b>—Pub. L. 101–647, title XXXV, §3543, Nov. 29, 1990, 104 Stat. 4926, inserted a period after “1366”.
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3543, Nov. 29, 1990, 104 Stat. 4926, inserted a period after "1366".
 
 <b>1986</b>—Pub. L. 99–646, §29(b), Nov. 10, 1986, 100 Stat. 3598, redesignated item 1365, relating to destruction of an energy facility, as item 1366.
 
@@ -43,4 +43,4 @@ Pub. L. 99–508, title III, §303(b), Oct. 21, 1986, 100 Stat. 1873, added item
 - [&sect; 01366 - Destruction of an energy facility](%C2%A7%2001366%20-%20Destruction%20of%20an%20energy%20facility.md)
 - [&sect; 01367 - Interference with the operation of a satellite](%C2%A7%2001367%20-%20Interference%20with%20the%20operation%20of%20a%20satellite.md)
 - [&sect; 01368 - Harming animals used in law enforcement](%C2%A7%2001368%20-%20Harming%20animals%20used%20in%20law%20enforcement.md)
-- [&sect; 01369 - Destruction of veterans&#8217; memorials](%C2%A7%2001369%20-%20Destruction%20of%20veterans%E2%80%99%20memorials.md)
+- [&sect; 01369 - Destruction of veterans' memorials](%C2%A7%2001369%20-%20Destruction%20of%20veterans%27%20memorials.md)

@@ -6,5 +6,5 @@ The Secretary of Transportation, in conjunction with a university or college hav
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–287 substituted “November 2, 1994” for “the date of enactment of the Federal Railroad Safety Authorization Act of 1994”.
+<b>1996</b>—Pub. L. 104–287 substituted "November 2, 1994" for "the date of enactment of the Federal Railroad Safety Authorization Act of 1994".
 

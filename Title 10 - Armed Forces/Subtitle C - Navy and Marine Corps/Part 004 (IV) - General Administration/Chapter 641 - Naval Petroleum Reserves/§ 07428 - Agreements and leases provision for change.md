@@ -18,13 +18,13 @@ Historical and Revision Notes
 
 June 4, 1920, ch. 228 (6th par., proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, §1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 282.
 
-The words “entered into after July 1, 1937” and “entered into subsequent to July 1, 1937” are omitted as surplusage. The words “in his discretion” are omitted as surplusage.
+The words "entered into after July 1, 1937" and "entered into subsequent to July 1, 1937" are omitted as surplusage. The words "in his discretion" are omitted as surplusage.
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–398 struck out “, except a plan authorized by section 7426 of this title,” after “development and operation”.
+<b>2000</b>—Pub. L. 106–398 struck out ", except a plan authorized by section 7426 of this title," after "development and operation".
 
-<b>1976</b>—Pub. L. 94–258 substituted “within Naval Petroleum Reserve Numbered 2 and the oil shale reserves shall contain a provision authorizing the Secretary” for “within the naval petroleum and oil shale reserves shall contain a provision authorizing the Secretary of the Navy”.
+<b>1976</b>—Pub. L. 94–258 substituted "within Naval Petroleum Reserve Numbered 2 and the oil shale reserves shall contain a provision authorizing the Secretary" for "within the naval petroleum and oil shale reserves shall contain a provision authorizing the Secretary of the Navy".
 
 <b>1962</b>—Pub. L. 87–796 included leases affecting lands within oil shale reserves.
 

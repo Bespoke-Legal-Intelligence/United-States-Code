@@ -12,5 +12,5 @@ The Native American Graves Protection and Repatriation Act, referred to in text,
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “Illegal trafficking in Native American human remains and cultural items” for “Illegal Trafficking in Native American Human Remains and Cultural Items” in section catchline.
+<b>1994</b>—Pub. L. 103–322 substituted "Illegal trafficking in Native American human remains and cultural items" for "Illegal Trafficking in Native American Human Remains and Cultural Items" in section catchline.
 

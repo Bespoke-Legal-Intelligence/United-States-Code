@@ -64,7 +64,7 @@ The President shall review all activities of Government departments and agencies
 
 &emsp;&emsp;(C) the progress of those independent states of the former Soviet Union that are non-nuclear-weapon states and of the Baltic states towards achieving the objective of applying full scope safeguards to all their peaceful nuclear activities.
 
-> Portions of the information required by paragraph (6) may be submitted in classified form, asnecessary. Any such information that may not be published or disclosed under section 12(c)(1) of the Export Administration Act of 1979 \[50 U.S.C. App. 2411(c)(1)\] shall be submitted as confidential.
+> Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) of the Export Administration Act of 1979 \[50 U.S.C. App. 2411(c)(1)\] shall be submitted as confidential.
 
 #### (b) Analysis of civil agreements for cooperation
 
@@ -74,13 +74,13 @@ In the first report required by this section, the President shall analyze each c
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, known as the Nuclear Non-Proliferation Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+This chapter, referred to in subsec. (a)(4), was in the original "this Act", meaning Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, known as the Nuclear Non-Proliferation Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 The Export Administration Act of 1979, referred to in subsec. (a)(6)(A)(iii), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–236 struck out “and” after the semicolon in par. (4), substituted a semicolon for the period in par. (5), and added par. (6) and concluding provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–236 struck out "and" after the semicolon in par. (4), substituted a semicolon for the period in par. (5), and added par. (6) and concluding provisions.
 
 #### Effective Date of 1994 Amendment
 
@@ -98,7 +98,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (a) of this se
 
 For delegation of congressional reporting functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “; and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "; and".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

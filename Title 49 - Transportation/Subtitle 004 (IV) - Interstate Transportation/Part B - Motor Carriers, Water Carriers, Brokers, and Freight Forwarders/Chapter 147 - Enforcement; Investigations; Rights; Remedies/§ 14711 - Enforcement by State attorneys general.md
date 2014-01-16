@@ -76,9 +76,9 @@ Enforcement of State Law.—Nothing contained in this section shall prohibit an 
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(1). Pub. L. 109–115, §173(c), (e), temporarily inserted at end “The State may initiate a civil action under subsection (a) if it is reviewable under subsection (b)(2).” See Termination Date of 2005 Amendment note below.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–115, §173(c), (e), temporarily inserted at end "The State may initiate a civil action under subsection (a) if it is reviewable under subsection (b)(2)." See Termination Date of 2005 Amendment note below.
 
-Subsec. (b)(4). Pub. L. 109–115, §173(d), (e), temporarily inserted “that is subject to review under subsection (b)(2)” before “if the Secretary”. See Termination Date of 2005 Amendment note below.
+Subsec. (b)(4). Pub. L. 109–115, §173(d), (e), temporarily inserted "that is subject to review under subsection (b)(2)" before "if the Secretary". See Termination Date of 2005 Amendment note below.
 
 #### Termination Date of 2005 Amendment
 
@@ -86,5 +86,5 @@ Amendment by Pub. L. 109–115 to cease to be in effect after Sept. 30, 2006, se
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

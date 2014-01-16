@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 June 6, 1924, ch. 270, §10, as added July 19, 1952, ch. 949, §1, 66 Stat. 791.
 
-The words “any existing provisions of law to the contrary notwithstanding” are omitted as unnecessary.
+The words "any existing provisions of law to the contrary notwithstanding" are omitted as unnecessary.
 

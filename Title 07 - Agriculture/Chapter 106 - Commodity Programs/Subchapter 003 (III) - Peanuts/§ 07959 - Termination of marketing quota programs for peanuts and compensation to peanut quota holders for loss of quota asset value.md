@@ -6,7 +6,7 @@
 
 #### (2) Treatment of 2001 crop
 
-&emsp;Part VI of subtitle B of title III of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1357–1359a), as in effect on the day before May 13, 2002, shall continue to apply with respect to the 2001 crop of peanuts notwithstanding the amendment made by paragraph (1). Section 7958(g)(2) of this title shall also apply to the 2001 crop of peanuts.
+&emsp;Part VI of subtitle B of title III of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1357–1359a), as in effect on the day before May13, 2002, shall continue to apply with respect to the 2001 crop of peanuts notwithstanding the amendment made by paragraph (1). Section 7958(g)(2) of this title shall also apply to the 2001 crop of peanuts.
 
 #### (b) Compensation contract required
 
@@ -70,7 +70,7 @@ The provisions of section 590h(g) of title 16, relating to assignment of payment
 
 #### (1) Eligibility attaches to persons
 
-&emsp;Once a person is eligible for payments under this section, as determined under subsection (f) of this section, the continued eligibility of the person for the payments does not run with a farm, but shall remain with the person for the term of this section irrespective of whether the person sells, or continues to have an interest in, the farm that had the quota that qualified the person as an eligible peanut quota holder under subsection (f) of this section and irrespective of whether the person has a continuing interest in the production of peanuts.
+&emsp;Once a person is eligible for payments under this section, as determined under subsection\(f) of this section, the continued eligibility of the person for the payments does not run with a farm, but shall remain with the person for the term of this section irrespective of whether the person sells, or continues to have an interest in, the farm that had the quota that qualified the person as an eligible peanut quota holder under subsection (f) of this section and irrespective of whether the person has a continuing interest in the production of peanuts.
 
 #### (2) Succession
 

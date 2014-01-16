@@ -20,19 +20,19 @@
 
 (c) As used in this section—
 
-&emsp;(1) the term “secure area” means an area access to which is restricted by the airport authority, captain of the seaport, or a public agency; and
+&emsp;(1) the term "secure area" means an area access to which is restricted by the airport authority, captain of the seaport, or a public agency; and
 
-&emsp;(2) the term “airport” has the meaning given such term in section 47102 of title 49.
+&emsp;(2) the term "airport" has the meaning given such term in section 47102 of title 49.
 
 (Added Pub. L. 106–547, §2(a), Dec. 19, 2000, 114 Stat. 2738; amended Pub. L. 109–177, title III, §302(a), Mar. 9, 2006, 120 Stat. 233.)
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–177, §302(a)(4), substituted “any airport or seaport” for “any airport” in section catchline.
+<b>2006</b>—Pub. L. 109–177, §302(a)(4), substituted "any airport or seaport" for "any airport" in section catchline.
 
 Subsec. (a)(3), (4). Pub. L. 109–177, §302(a)(1), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (b)(1). Pub. L. 109–177, §302(a)(2), substituted “10 years” for “5 years”.
+Subsec. (b)(1). Pub. L. 109–177, §302(a)(2), substituted "10 years" for "5 years".
 
-Subsec. (c)(1). Pub. L. 109–177, §302(a)(3), inserted “, captain of the seaport,” after “airport authority”.
+Subsec. (c)(1). Pub. L. 109–177, §302(a)(3), inserted ", captain of the seaport," after "airport authority".
 

@@ -2,13 +2,13 @@
 
 #### (a) Energy management requirements for postal facilities
 
-(1) The Postmaster General shall, to the maximum extent practicable, ensure that each United States Postal Service facility meets the energy management requirements for Federal buildings and agencies specified in section 8253 of this title.
+(1) The Postmaster General shall, to the maximum extent practicable, ensure that each United States Postal Service facility meets theenergy management requirements for Federal buildings and agencies specified in section 8253 of this title.
 
 (2) The Postmaster General may exclude from the requirements of such section any facility or collection of facilities, and the associated energy consumption and gross square footage if the Postmaster General finds that compliance with the requirements of such section would be impracticable. A finding of impracticability shall be based on the energy intensiveness of activities carried out in such facility or collection of facilities, the type and amount of energy consumed, or the technical feasibility of making the desired changes. The Postmaster General shall identify and list in the report required under section 8262i of this title the facilities designated by it for such exclusion.
 
 #### (b) Implementation steps
 
-In carrying subsection (a) of this section, the Postmaster General shall—
+In carrying <sup>1</sup> subsection (a) of this section, the Postmaster General shall—
 
 &emsp;(1) not later than 1 year after October 24, 1992, prepare or update, as appropriate, a plan (which may be submitted as part of the first report submitted under section 8262i of this title)—
 
@@ -29,4 +29,6 @@ In carrying subsection (a) of this section, the Postmaster General shall—
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by the word "out".</i>
 

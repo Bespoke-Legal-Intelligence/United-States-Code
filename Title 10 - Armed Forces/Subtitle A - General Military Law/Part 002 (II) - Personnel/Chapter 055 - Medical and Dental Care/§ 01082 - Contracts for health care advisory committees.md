@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 June 7, 1956, ch. 374, §203, 70 Stat. 253.
 
-The word “organizations” is inserted for clarity. The words “consult” and “or plans” are omitted as surplusage.
+The word "organizations" is inserted for clarity. The words "consult" and "or plans" are omitted as surplusage.
 
 #### Prior Provisions
 
@@ -26,7 +26,7 @@ A prior section 1082, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to exte
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–614 substituted “Contracts for health care” for “Contracts for medical care for spouses and children” in section catchline and included reference to section 1086 in text.
+<b>1966</b>—Pub. L. 89–614 substituted "Contracts for health care" for "Contracts for medical care for spouses and children" in section catchline and included reference to section 1086 in text.
 
 #### Effective Date of 1966 Amendment
 

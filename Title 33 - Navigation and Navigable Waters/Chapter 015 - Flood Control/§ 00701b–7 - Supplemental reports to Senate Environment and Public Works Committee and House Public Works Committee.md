@@ -10,7 +10,7 @@ The Flood Control Act approved June 22, 1936, as amended and supplemented, refer
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437 substituted “Committee on Public Works and Transportation of the House of Representatives or the Committee on Environment and Public Works of the Senate” for “Committee on Public Works of the House of Representatives or the Committee on Public Works of the Senate”.
+<b>1994</b>—Pub. L. 103–437 substituted "Committee on Public Works and Transportation of the House of Representatives or the Committee on Environment and Public Works of the Senate" for "Committee on Public Works of the House of Representatives or the Committee on Public Works of the Senate".
 
 #### Change of Name
 

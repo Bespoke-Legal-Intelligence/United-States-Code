@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) The Secretary of Defense shall establish within the Office of the Secretary of Defense a board of review to review the disability determinations of covered individuals by Physical Evaluation Boards. The board shall be known as the “Physical Disability Board of Review”.
+In General.—(1) The Secretary of Defense shall establish within the Office of the Secretary of Defense a board of review to review the disability determinations of covered individuals by Physical Evaluation Boards. The board shall be known as the "Physical Disability Board of Review".
 
 (2) The Physical Disability Board of Review shall consist of not less than three members appointed by the Secretary.
 
@@ -20,7 +20,7 @@ Review.—(1) Upon the request of a covered individual, or a surviving spouse, n
 
 (2) The review by the Physical Disability Board of Review under paragraph (1) shall be based on the records of the armed force concerned and such other evidence as may be presented to the Physical Disability Board of Review. A witness may present evidence to the Board by affidavit or by any other means considered acceptable by the Secretary of Defense.
 
-(3) If the Physical Disability Board of Review proposes to review, upon its own motion, the findings and decisions of the Physical Evaluation Board with respect to a covered individual, the Physical Disability Board of Review shall notify the covered individual, or a surviving spouse, next of kin, or legal representative of the covered individual, of the proposed review and obtain the consent of the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual before proceeding with the review.
+(3) If the Physical Disability Board of Review proposes to review, upon its own motion, the findings and decisions of the Physical Evaluation Board with respect to a covered individual, the Physical Disability Board of Review shall notify the covered individual, or a surviving spouse, next of kin, or legal representative of the covered individual, of the proposed review and obtain the consent of the covered individualor a surviving spouse, next of kin, or legal representative of the covered individual before proceeding with the review.
 
 (4) With respect to any review by the Physical Disability Board of Review of the findings and decisions of the Physical Evaluation Board with respect to a covered individual, whether initiated at the request of the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual or initiated by the Physical Disability Board of Review, the Physical Disability Board of Review shall notify the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual that, as a result of the request or consent, the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual may not seek relief from the Board for Correction of Military Records operated by the Secretary concerned.
 
@@ -48,11 +48,11 @@ Correction of Military Records.—(1) The Secretary concerned may correct the mi
 
 (2) The regulations under paragraph (1) shall specify reasonable deadlines for the performance of reviews required by this section.
 
-(3) The regulations under paragraph (1) shall specify the effect of a determination or pendingdetermination of a Physical Evaluation Board on considerations by boards for correction of military records under section 1552 of this title.
+(3) The regulations under paragraph (1) shall specify the effect of a determination or pending determination of a Physical Evaluation Board on considerations by boards for correction of military records under section 1552 of this title.
 
 (Added Pub. L. 110–181, div. A, title XVI, §1643(a)(1), Jan. 28, 2008, 122 Stat. 465.)
 
 #### Implementation
 
-Pub. L. 110–181, div. A, title XVI, §1643(b), Jan. 28, 2008, 122 Stat. 467, provided that: “The Secretary of Defense shall establish the board of review required by section 1554a of title 10, United States Code (as added by subsection (a)), and prescribe the regulations required by such section, not later than 90 days after the date of the enactment of this Act \[Jan. 28, 2008\].”
+Pub. L. 110–181, div. A, title XVI, §1643(b), Jan. 28, 2008, 122 Stat. 467, provided that: "The Secretary of Defense shall establish the board of review required by section 1554a of title 10, United States Code (as added by subsection (a)), and prescribe the regulations required by such section, not later than 90 days after the date of the enactment of this Act \[Jan. 28, 2008\]."
 

@@ -8,7 +8,7 @@ If any provision of this chapter or the application thereof to any person or cir
 
 <b>1987</b>—Pub. L. 100–191 amended section generally, substituting provisions relating to severability for provisions relating to termination of chapter. See section 599 of this title.
 
-<b>1983</b>—Pub. L. 97–409, §§2(a)(1)(A), 7, substituted reference to the date of enactment of the Ethics in Government Act Amendments of 1982 for reference to the date of enactment of this chapter and substituted “independent counsel” for “special prosecutor” wherever appearing.
+<b>1983</b>—Pub. L. 97–409, §§2(a)(1)(A), 7, substituted reference to the date of enactment of the Ethics in Government Act Amendments of 1982 for reference to the date of enactment of this chapter and substituted "independent counsel" for "special prosecutor" wherever appearing.
 
 #### Effective Date of 1987 Amendment
 

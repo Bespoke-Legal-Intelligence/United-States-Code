@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “Council” has the meaning given that term in section 1301 of this title.
+Definition.—In this section, the term "Council" has the meaning given that term in section 1301 of this title.
 
 (b)
 
@@ -22,7 +22,7 @@ Subcontracts.—
 
 &emsp;(1)
 
-Definition.—In this subsection, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
+Definition.—In this subsection, the term "subcontract" includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
 
 &emsp;(2)
 

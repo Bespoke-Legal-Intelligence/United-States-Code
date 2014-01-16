@@ -20,13 +20,13 @@ The Administrator of the Federal Emergency Management Agency, in consultation wi
 
 #### (e) Access to inventory and database
 
-The Administrator of the Federal Emergency Management Agency shall design and maintain a system to give Federal, State, and local officials access to the inventory listing and database maintained under this section in the event of an emergency involving weapons of mass destruction or to prepare and train to respond tosuch an emergency. The system shall include a secure but accessible emergency response hotline to access information and request assistance.
+The Administrator of the Federal Emergency Management Agency shall design and maintain a system to give Federal, State, and local officials access to the inventory listing and database maintained under this section in the event of an emergency involving weapons of mass destruction or to prepare and train to respond to such an emergency. The system shall include a secure but accessible emergency response hotline to access information and request assistance.
 
 (Pub. L. 104–201, div. A, title XIV, §1417, Sept. 23, 1996, 110 Stat. 2724; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### Change of Name
 
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” wherever appearing in text on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+"Administrator of the Federal Emergency Management Agency" substituted for "Director of the Federal Emergency Management Agency" wherever appearing in text on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (b) of this section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (b) of this section".</i>
 

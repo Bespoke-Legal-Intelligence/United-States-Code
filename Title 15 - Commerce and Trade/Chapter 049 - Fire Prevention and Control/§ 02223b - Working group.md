@@ -24,11 +24,11 @@ For the purpose of carrying out section 2223a of this title, the Administrator s
 
 #### Codification
 
-Section was enacted as part of the Firefighters’ Safety Study Act, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
+Section was enacted as part of the Firefighters' Safety Study Act, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
 
 #### Amendments
 
-<b>2002</b>—Par. (1)(E). Pub. L. 107–296 substituted “the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice,” for “the Bureau of Alcohol, Tobacco, and Firearms,”.
+<b>2002</b>—Par. (1)(E). Pub. L. 107–296 substituted "the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice," for "the Bureau of Alcohol, Tobacco, and Firearms,".
 
 #### Effective Date of 2002 Amendment
 

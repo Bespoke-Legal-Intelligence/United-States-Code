@@ -16,17 +16,17 @@ Exclusion for Certain Items.—The Secretary of Defense may exclude from the rep
 
 Definitions.—In this section:
 
-&emsp;(1) The term “explosive material” means explosives, blasting agents, and detonators.
+&emsp;(1) The term "explosive material" means explosives, blasting agents, and detonators.
 
-&emsp;(2) The terms “destructive device” and “ammunition” have the meanings given those terms by paragraphs (4) and (17), respectively, of section 921(a) of title 18.
+&emsp;(2) The terms "destructive device" and "ammunition" have the meanings given those terms by paragraphs (4) and (17), respectively, of section 921(a) of title 18.
 
 (Added Pub. L. 100–456, div. A, title III, §344(a), Sept. 29, 1988, 102 Stat. 1961; amended Pub. L. 109–364, div. A, title X, §1071(a)(24), Oct. 17, 2006, 120 Stat. 2399.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c)(2). Pub. L. 109–364 substituted “921(a)” for “921”.
+<b>2006</b>—Subsec. (c)(2). Pub. L. 109–364 substituted "921(a)" for "921".
 
 #### Effective Date
 
-Pub. L. 100–456, div. A, title III, §344(c), Sept. 29, 1988, 102 Stat. 1962, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect with respect to thefts and losses discovered more than 180 days after the date of the enactment of this Act \[Sept. 29, 1988\].”
+Pub. L. 100–456, div. A, title III, §344(c), Sept. 29, 1988, 102 Stat. 1962, provided that: "The amendment made by subsection (a) \[enacting this section\] shall take effect with respect to thefts and losses discovered more than 180 days after the date of the enactment of this Act \[Sept. 29, 1988\]."
 

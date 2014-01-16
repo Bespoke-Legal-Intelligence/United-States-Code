@@ -104,7 +104,7 @@ The Commission shall review the continued need for action taken under subsection
 
 #### Amendments
 
-<b>2004</b>—Subsec. (j). Pub. L. 108–429 struck out par. (1) designation before “The Commission shall review”.
+<b>2004</b>—Subsec. (j). Pub. L. 108–429 struck out par. (1) designation before "The Commission shall review".
 
 #### Transfer of Functions
 

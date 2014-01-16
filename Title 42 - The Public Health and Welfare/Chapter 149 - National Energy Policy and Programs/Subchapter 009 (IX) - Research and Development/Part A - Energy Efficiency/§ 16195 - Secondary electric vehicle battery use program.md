@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Battery
 
-&emsp;The term “battery” means an energy storage device that previously has been used to provide motive power in a vehicle powered in whole or in part by electricity.
+&emsp;The term "battery" means an energy storage device that previously has been used to provide motive power in a vehicle powered in whole or in part by electricity.
 
 #### (2) Associated equipment
 
-&emsp;The term “associated equipment” means equipment located where the batteries will be used that is necessary to enable the use of the energy stored in the batteries.
+&emsp;The term "associated equipment" means equipment located where the batteries will be used that is necessary to enable the use of the energy stored in the batteries.
 
 #### (b) Program
 
@@ -36,7 +36,7 @@ In this section:
 
 #### (2) Additional solicitations
 
-&emsp;The Secretary may make additional solicitations for proposals if the Secretary determines that the solicitations are necessary to carry out this section.
+&emsp;The Secretary may make additional solicitations for proposals if the Secretary determinesthat the solicitations are necessary to carry out this section.
 
 #### (d) Selection of proposals
 

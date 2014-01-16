@@ -46,7 +46,7 @@ A charter school may not receive—
 
 &emsp;The criteria referred to in paragraph (1) are the following:
 
-&emsp;&emsp;(A) The State has demonstrated progress, in increasing the number of high-quality charter schools that are held accountable in the terms of the schools’ charters for meeting clear and measurable objectives for the educational progress of the students attending the schools, in the period prior to the period for which a State educational agency or eligible applicant applies for a grant under this subpart.
+&emsp;&emsp;(A) The State has demonstrated progress, in increasing the number of high-quality charter schools that are held accountable in the terms of the schools' charters for meeting clear and measurable objectives for the educational progress of the students attending the schools, in the period prior to the period for which a State educational agency or eligible applicant applies for a grant under this subpart.
 
 &emsp;&emsp;(B) The State—
 

@@ -12,7 +12,7 @@
 | [4108\.](%C2%A7%2004108%20-%20Arctic%20research%20plan.md) | Arctic research plan. |
 | [4109\.](%C2%A7%2004109%20-%20Coordination%20and%20review%20of%20budget%20requests%3B%20Office%20of%20Science%20and%20Technology%20Policy%3B%20Office%20of%20Management%20and%20Budget.md) | Coordination and review of budget requests; Office of Science and Technology Policy; Office of Management and Budget. |
 | [4110\.](%C2%A7%2004110%20-%20Authorization%20of%20appropriations%3B%20new%20spending%20authority.md) | Authorization of appropriations; new spending authority. |
-| [4111\.](%C2%A7%2004111%20-%20%E2%80%9CArctic%E2%80%9D%20defined.md) | “Arctic” defined. |
+| [4111\.](%C2%A7%2004111%20-%20Arctic%20defined.md) | "Arctic" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -31,4 +31,4 @@
 - [&sect; 04108 - Arctic research plan](%C2%A7%2004108%20-%20Arctic%20research%20plan.md)
 - [&sect; 04109 - Coordination and review of budget requests; Office of Science and Technology Policy; Office of Management and Budget](%C2%A7%2004109%20-%20Coordination%20and%20review%20of%20budget%20requests%3B%20Office%20of%20Science%20and%20Technology%20Policy%3B%20Office%20of%20Management%20and%20Budget.md)
 - [&sect; 04110 - Authorization of appropriations; new spending authority](%C2%A7%2004110%20-%20Authorization%20of%20appropriations%3B%20new%20spending%20authority.md)
-- [&sect; 04111 - &#8220;Arctic&#8221; defined](%C2%A7%2004111%20-%20%E2%80%9CArctic%E2%80%9D%20defined.md)
+- [&sect; 04111 - Arctic defined](%C2%A7%2004111%20-%20Arctic%20defined.md)

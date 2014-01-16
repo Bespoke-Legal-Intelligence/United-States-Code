@@ -12,5 +12,5 @@ Seven years after the assumption of management by the Trust, the Government Acco
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and two places in text.
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in section catchline and two places in text.
 

@@ -10,7 +10,7 @@ Based on 44 U.S. Code, 1964 ed., §374 (July 7, 1943, ch. 192, §9, 57 Stat. 382
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and text.
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in section catchline and text.
 
-<b>1970</b>—Pub. L. 91–287 substituted “under this chapter” for “under sections 3306–3308 of this title”.
+<b>1970</b>—Pub. L. 91–287 substituted "under this chapter" for "under sections 3306–3308 of this title".
 

@@ -4,11 +4,11 @@
 
 #### (1) Establishment
 
-&emsp;There is established within the Department of Commerce an office known as the Office of Native American Business Development (referred to in this chapter as the “Office”).
+&emsp;There is established within the Department of Commerce an office known as the Office of Native American Business Development (referred to in this chapter as the "Office").
 
 #### (2) Director
 
-&emsp;The Office shall be headed by a Director, appointed by the Secretary, whose title shall be the Director of Native American Business Development (referred to in this chapter as the “Director”). The Director shall be compensated at a rate not to exceed level V of the Executive Schedule under section 5316 of title 5.
+&emsp;The Office shall be headed by a Director, appointed by the Secretary, whose title shall be the Director of Native American Business Development (referred to in this chapter as the "Director"). The Director shall be compensated at a rate not to exceed level V of the Executive Schedule under section 5316 of title 5.
 
 #### (b) Duties of the Secretary
 

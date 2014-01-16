@@ -16,5 +16,5 @@ The Secretary shall, in conjunction with the Radiation Policy Council, the Secre
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” in introductory provisions.
+<b>1991</b>—Pub. L. 102–54 substituted "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs" in introductory provisions.
 

@@ -20,7 +20,7 @@ Section was enacted as part of the Comprehensive Methamphetamine Control Act of 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–211, §232(b)(1), inserted “tribal,” after “State,”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211, §232(b)(1), inserted "tribal," after "State,".
 
-Subsec. (b)(2). Pub. L. 111–211, §232(b)(2), inserted “, tribal,” after “State”.
+Subsec. (b)(2). Pub. L. 111–211, §232(b)(2), inserted ", tribal," after "State".
 

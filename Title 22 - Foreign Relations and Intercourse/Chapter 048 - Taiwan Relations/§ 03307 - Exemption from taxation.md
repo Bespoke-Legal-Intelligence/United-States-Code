@@ -16,5 +16,5 @@ The Federal Insurance Contributions Act, referred to in subsec. (a), is act Aug.
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–514 substituted in subsecs. (a) and (b) “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Pub. L. 99–514 substituted in subsecs. (a) and (b) "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 

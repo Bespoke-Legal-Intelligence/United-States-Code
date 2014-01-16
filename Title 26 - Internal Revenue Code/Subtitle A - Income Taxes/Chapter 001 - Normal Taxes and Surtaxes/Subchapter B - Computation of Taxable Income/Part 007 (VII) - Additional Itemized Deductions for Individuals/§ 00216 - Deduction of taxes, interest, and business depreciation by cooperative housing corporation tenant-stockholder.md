@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (1) Cooperative housing corporation
 
-&emsp;The term “cooperative housing corporation” means a corporation—
+&emsp;The term "cooperative housing corporation" means a corporation—
 
 &emsp;&emsp;(A) having one and only one class of stock outstanding,
 
@@ -36,13 +36,13 @@ For purposes of this section—
 
 #### (2) Tenant-stockholder
 
-&emsp;The term “tenant-stockholder” means a person who is a stockholder in a cooperative housing corporation, and whose stock is fully paid-up in an amount not less than an amount shown to the satisfaction of the Secretary as bearing a reasonable relationship to the portion of the value of the corporation's equity in the houses or apartment building and the land on which situated which is attributable to the house or apartment which such person is entitled to occupy.
+&emsp;The term "tenant-stockholder" means a person who is a stockholder in a cooperative housing corporation, and whose stock is fully paid-up in an amount not less than an amount shown to the satisfaction of the Secretary as bearing a reasonable relationship to the portion of the value of the corporation's equity in the houses or apartment building and the land on which situated which is attributable to the house or apartment which such person is entitled to occupy.
 
 #### (3) Tenant-stockholder's proportionate share
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “tenant-stockholder's proportionate share” means that proportion which the stock of the cooperative housing corporation owned by the tenant-stockholder is of the total outstanding stock of the corporation (including any stock held by the corporation).
+&emsp;&emsp;Except as provided in subparagraph (B), the term "tenant-stockholder's proportionate share" means that proportion which the stock of the cooperative housing corporation owned by the tenant-stockholder is of the total outstanding stock of the corporation (including any stock held by the corporation).
 
 #### (B) Special rule where allocation of taxes or interest reflect cost to corporation of stockholder's unit
 
@@ -54,7 +54,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) such allocations reasonably reflect the cost to such corporation of such taxes, or of such interest, attributable to the tenant-stockholder's dwelling unit (and such unit's share of the common areas),
 
-&emsp;&emsp;&nbsp;then the term “tenant-stockholder's proportionate share” means the shares determined in accordance with the allocations described in subclause (II).
+&emsp;&emsp;&nbsp;then the term "tenant-stockholder's proportionate share" means the shares determined in accordance with the allocations described in subclause (II).
 
 #### (ii) Election by corporation required
 
@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (6) Original seller defined
 
-&emsp;For purposes of paragraph (5), the term “original seller” means the person from whom the corporation has acquired the apartments or houses (or leaseholds therein).
+&emsp;For purposes of paragraph (5), the term "original seller" means the person from whom the corporation has acquired the apartments or houses (or leaseholds therein).
 
 #### (c) Treatment as property subject to depreciation
 
@@ -106,23 +106,23 @@ Except as provided in regulations no gain or loss shall be recognized on the dis
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1)(D). Pub. L. 110–142 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “80 percent or more of the gross income of which for the taxable year in which the taxes and interest described in subsection (a) are paid or incurred is derived from tenant-stockholders.”
+<b>2007</b>—Subsec. (b)(1)(D). Pub. L. 110–142 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "80 percent or more of the gross income of which for the taxable year in which the taxes and interest described in subsection (a) are paid or incurred is derived from tenant-stockholders."
 
-<b>1997</b>—Subsec. (e). Pub. L. 105–34 substituted “such dwelling unit is used as his principal residence (within the meaning of section 121)” for “such exchange qualifies for nonrecognition of gain under section 1034(f)”.
+<b>1997</b>—Subsec. (e). Pub. L. 105–34 substituted "such dwelling unit is used as his principal residence (within the meaning of section 121)" for "such exchange qualifies for nonrecognition of gain under section 1034(f)".
 
-<b>1990</b>—Subsec. (e). Pub. L. 101–508 substituted “corporations” for “associations” in heading and “corporation” for “association” after “housing” in text.
+<b>1990</b>—Subsec. (e). Pub. L. 101–508 substituted "corporations" for "associations" in heading and "corporation" for "association" after "housing" in text.
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–647 added subsec. (e).
 
-<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §644(a)(1), substituted “a person” and “such person” for “an individual” and “such individual”, respectively.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §644(a)(1), substituted "a person" and "such person" for "an individual" and "such individual", respectively.
 
-Subsec. (b)(3). Pub. L. 99–514, §644(d), added heading and amended text generally. Prior to amendment, text read as follows: “The term ‘tenant-stockholder's proportionate share’ means that proportion which the stock of the cooperative housing corporation owned by the tenant-stockholder is of the total outstanding stock of the corporation (including any stock held by the corporation).”
+Subsec. (b)(3). Pub. L. 99–514, §644(d), added heading and amended text generally. Prior to amendment, text read as follows: "The term 'tenant-stockholder's proportionate share' means that proportion which the stock of the cooperative housing corporation owned by the tenant-stockholder is of the total outstanding stock of the corporation (including any stock held by the corporation)."
 
-Subsec. (b)(5). Pub. L. 99–514, §644(a)(2), substituted “Prior approval of occupancy” for “Stock acquired through foreclosure by lending institution” in heading and amended text generally. Prior to amendment, text read as follows: “If a bank or other lending institution acquires by foreclosure (or by instrument in lieu of foreclosure) the stock of a tenant-stockholder, and a lease or the right to occupy an apartment or house to which such stock is appurtenant, such bank or other lending institution shall be treated as a tenant-stockholder for a period not to exceed three years from the date of acquisition. The preceding sentence shall apply even though, by agreement with the cooperative housing corporation, the bank (or other lending institution) or its nominee may not occupy the house or apartment without the prior approval of such corporation.”
+Subsec. (b)(5). Pub. L. 99–514, §644(a)(2), substituted "Prior approval of occupancy" for "Stock acquired through foreclosure by lending institution" in heading and amended text generally. Prior to amendment, text read as follows: "If a bank or other lending institution acquires by foreclosure (or by instrument in lieu of foreclosure) the stock of a tenant-stockholder, and a lease or the right to occupy an apartment or house to which such stock is appurtenant, such bank or other lending institution shall be treated as a tenant-stockholder for a period not to exceed three years from the date of acquisition. The preceding sentence shall apply even though, by agreement with the cooperative housing corporation, the bank (or other lending institution) or its nominee may not occupy the house or apartment without the prior approval of such corporation."
 
-Subsec. (b)(6). Pub. L. 99–514, §644(a)(2), amended par. (6) generally, substituting provisions defining “original seller” for purposes of par. (5) for provisions relating to stock owned by person from whom corporation acquired its property, subpar. (A) thereof providing for general rule, subpar. (B) providing that stock acquisition must take place not later than 1 year after transfer of dwelling units, subpar. (C) providing that original seller must have right to occupy apartment or house, and subpar. (D) defining “original seller” for purposes of former par. (6).
+Subsec. (b)(6). Pub. L. 99–514, §644(a)(2), amended par. (6) generally, substituting provisions defining "original seller" for purposes of par. (5) for provisions relating to stock owned by person from whom corporation acquired its property, subpar. (A) thereof providing for general rule, subpar. (B) providing that stock acquisition must take place not later than 1 year after transfer of dwelling units, subpar. (C) providing that original seller must have right to occupy apartment or house, and subpar. (D) defining "original seller" for purposes of former par. (6).
 
-Subsec. (c). Pub. L. 99–514, §644(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a tradeor business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.”
+Subsec. (c). Pub. L. 99–514, §644(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a tradeor business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders."
 
 Subsec. (d). Pub. L. 99–514, §644(c), added subsec. (d).
 
@@ -132,19 +132,19 @@ Subsec. (b)(6)(B) to (D). Pub. L. 96–222, §105(a)(6)(A), (B), added subpar. (
 
 <b>1978</b>—Subsec. (b)(6). Pub. L. 95–600, added par. (6).
 
-<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (b)(5). Pub. L. 94–455, §2101(f), added par. (5).
 
-Subsec. (c). Pub. L. 94–455, §§1906(b)(13)(A), 2101(b), struck out “or his delegate” after “Secretary” and inserted at end “The preceding sentence shall not be construed to limit or deny a deduction for depreciation under 167(a) by a cooperative housing corporation with respect to property owned by such corporation and leased to tenant-stockholders.”
+Subsec. (c). Pub. L. 94–455, §§1906(b)(13)(A), 2101(b), struck out "or his delegate" after "Secretary" and inserted at end "The preceding sentence shall not be construed to limit or deny a deduction for depreciation under 167(a) by a cooperative housing corporation with respect to property owned by such corporation and leased to tenant-stockholders."
 
 <b>1969</b>—Subsec. (b)(4). Pub. L. 91–172 added par. (4).
 
-<b>1962</b>—Pub. L. 87–834 substituted “Deduction of taxes, interest, and business depreciation by cooperative housing corporation tenant-stockholders” for “Amounts representing taxes and interest paid to cooperative housing corporation” in section catchline, and added subsec. (c).
+<b>1962</b>—Pub. L. 87–834 substituted "Deduction of taxes, interest, and business depreciation by cooperative housing corporation tenant-stockholders" for "Amounts representing taxes and interest paid to cooperative housing corporation" in section catchline, and added subsec. (c).
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–142, §4(b), Dec. 20, 2007, 121 Stat. 1804, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Dec. 20, 2007\].”
+Pub. L. 110–142, §4(b), Dec. 20, 2007, 121 Stat. 1804, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Dec. 20, 2007\]."
 
 #### Effective Date of 1997 Amendment
 
@@ -156,23 +156,23 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title VI, §6282(b), Nov. 10, 1988, 102 Stat. 3755, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 631 of the Tax Reform Act of 1986 \[section 631 of Pub. L. 99–514, see Tables for classification\].”
+Pub. L. 100–647, title VI, §6282(b), Nov. 10, 1988, 102 Stat. 3755, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 631 of the Tax Reform Act of 1986 \[section 631 of Pub. L. 99–514, see Tables for classification\]."
 
 #### Effective Date of 1986 Amendment
 
 Pub. L. 99–514, title VI, §644(f), Oct. 22, 1986, 100 Stat. 2289, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
-“(2)
+"(2)
 
 Subsection (e).—
 
-&emsp;“(A) Except as provided in subparagraph (B), subsection (e) \[set out below\] shall apply to taxable years beginning before January 1, 1986.
+&emsp;"(A) Except as provided in subparagraph (B), subsection (e) \[set out below\] shall apply to taxable years beginning before January 1, 1986.
 
-&emsp;“(B) Subsection (e)(7) \[set out below\] shall apply to amounts paid or incurred, and property acquired, in taxable years beginning, after December 31, 1985.”
+&emsp;"(B) Subsection (e)(7) \[set out below\] shall apply to amounts paid or incurred, and property acquired, in taxable years beginning, after December 31, 1985."
 
 #### Effective Date of 1980 Amendment
 
@@ -180,115 +180,115 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title V, §531(b), Nov. 6, 1978, 92 Stat. 2887, provided that: “The amendment made by this section \[amending this section\] shall apply to stock acquired after the date of the enactment of this Act \[Nov. 6, 1978\].”
+Pub. L. 95–600, title V, §531(b), Nov. 6, 1978, 92 Stat. 2887, provided that: "The amendment made by this section \[amending this section\] shall apply to stock acquired after the date of the enactment of this Act \[Nov. 6, 1978\]."
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XXI, §2101(f)(2), Oct. 4, 1976, 90 Stat. 1900, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to stock acquired by banks or other lending institutions after the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XXI, §2101(f)(2), Oct. 4, 1976, 90 Stat. 1900, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to stock acquired by banks or other lending institutions after the date of the enactment of this Act \[Oct. 4, 1976\]."
 
 #### Effective Date of 1969 Amendment
 
-Pub. L. 91–172, title IX, §913(b), Dec. 30, 1969, 83 Stat. 723, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title IX, §913(b), Dec. 30, 1969, 83 Stat. 723, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969."
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–834, §28(c), Oct. 16, 1962, 76 Stat. 1068, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to taxable years beginning after December 31, 1961.”
+Pub. L. 87–834, §28(c), Oct. 16, 1962, 76 Stat. 1068, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective with respect to taxable years beginning after December 31, 1961."
 
 #### Treatment of Amounts Received in Connection With Refinancing of Indebtedness of Certain Cooperative Housing Corporations; Treatment of Amounts Paid From Qualified Refinancing-Related Reserve
 
 Pub. L. 99–514, title VI, §644(e), Oct. 22, 1986, 100 Stat. 2287, provided that:
 
-“(1)
+"(1)
 
 Payment of closing costs and creation of reserve excluded from gross income.—For purposes of the Internal Revenue Code of 1954 \[now 1986\], no amount shall be included in the gross income of a qualified cooperative housing corporation by reason of the payment or reimbursement by a city housing development agency or corporation of amounts for—
 
-&emsp;“(A) closing costs, or
+&emsp;"(A) closing costs, or
 
-&emsp;“(B) the creation of reserves for the qualified cooperative housing corporation,
+&emsp;"(B) the creation of reserves for the qualified cooperative housing corporation,
 
 > in connection with a qualified refinancing.
 
-“(2)
+"(2)
 
 Income from reserve fund treated as member income.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Income from a qualified refinancing-related reserve shall be treated as derived from its members for purposes of—
 
-&emsp;&emsp;“(i) section 216 of the Internal Revenue Code of 1954 \[now 1986\] (relating to deduction of taxes, interest, and business depreciation by cooperative housing corporation tenant-stockholder), and
+&emsp;&emsp;"(i) section 216 of the Internal Revenue Code of 1954 \[now 1986\] (relating to deduction of taxes, interest, and business depreciation by cooperative housing corporation tenant-stockholder), and
 
-&emsp;&emsp;“(ii) section 277 of such Code (relating to deductions incurred by certain membership organizations in transactions with members).
+&emsp;&emsp;"(ii) section 277 of such Code (relating to deductions incurred by certain membership organizations in transactions with members).
 
-&emsp;“(B)
+&emsp;"(B)
 
 No inference.—Nothing in the provisions of this paragraph shall be construed to infer that a change in law is intended with respect to the treatment of deductions under section 277 of the Internal Revenue Code of 1954 \[now 1986\] with respect to cooperative housing corporations, and any determination of such issue shall be made as if such provisions had not been enacted.
 
-“(3)
+"(3)
 
 Treatment of certain interest claimed as deduction.—Any amount—
 
-&emsp;“(A) claimed (on a return of tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\]) as a deduction by a qualified cooperative housing corporation for interest for any taxable year beginning before January 1, 1986, on a second mortgage loan made by a city housing development agency or corporation in connection with a qualified refinancing, and
+&emsp;"(A) claimed (on a return of tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\]) as a deduction by a qualified cooperative housing corporation for interest for any taxable year beginning before January 1, 1986, on a second mortgage loan made by a city housing development agency or corporation in connection with a qualified refinancing, and
 
-&emsp;“(B) reported (before April 16, 1986) by the qualified cooperative housing corporation to its tenant-stockholders as interest described in section 216(a)(2) of such Code,
+&emsp;"(B) reported (before April 16, 1986) by the qualified cooperative housing corporation to its tenant-stockholders as interest described in section 216(a)(2) of such Code,
 
 > shall be treated for purposes of such Code as if such amount were paid by such qualified cooperative housing corporation during such taxable year.
 
-“(4)
+"(4)
 
 Qualified cooperative housing corporation.—
 
-&emsp;“(A)
+&emsp;"(A)
 
-In general.—For purposes of this subsection, the term ‘qualified cooperative housing corporation’ means any corporation if—
+In general.—For purposes of this subsection, the term 'qualified cooperative housing corporation' means any corporation if—
 
-&emsp;&emsp;“(i) such corporation is, after the application of paragraphs (1) and (2), a cooperative housing corporation (as defined in section 216(b) of the Internal Revenue Code of 1954 \[now 1986\]),
+&emsp;&emsp;"(i) such corporation is, after the application of paragraphs (1) and (2), a cooperative housing corporation (as defined in section 216(b) of the Internal Revenue Code of 1954 \[now 1986\]),
 
-&emsp;&emsp;“(ii) such corporation is subject to a qualified limited-profit housing companies law, and
+&emsp;&emsp;"(ii) such corporation is subject to a qualified limited-profit housing companies law, and
 
-&emsp;&emsp;“(iii) such corporation either—
+&emsp;&emsp;"(iii) such corporation either—
 
-&emsp;&emsp;&emsp;“(I) filed for incorporation on July 22, 1965, or
+&emsp;&emsp;&emsp;"(I) filed for incorporation on July 22, 1965, or
 
-&emsp;&emsp;&emsp;“(II) filed for incorporation on March 5, 1964.
+&emsp;&emsp;&emsp;"(II) filed for incorporation on March 5, 1964.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Qualified limited-profit housing companies law.—For purposes of subparagraph (A), the term ‘qualified limited-profit housing companies law’ means any limited-profit housing companies law which limits the resale price for a tenant-stockholder's stock in a cooperative housing corporation to the sum of his basis for such stock plus his proportionate share of part or all of the amortization of any mortgage on the building owned by such corporation.
+Qualified limited-profit housing companies law.—For purposes of subparagraph (A), the term 'qualified limited-profit housing companies law' means any limited-profit housing companies law which limits the resale price for a tenant-stockholder's stock in a cooperative housing corporation to the sum of his basis for such stock plus his proportionate share of part or all of the amortization of any mortgage on the building owned by such corporation.
 
-“(5)
+"(5)
 
-Qualified refinancing.—For purposes of this subsection, the term ‘qualified refinancing’ means any refinancing—
+Qualified refinancing.—For purposes of this subsection, the term 'qualified refinancing' means any refinancing—
 
-&emsp;“(A) which occurred—
+&emsp;"(A) which occurred—
 
-&emsp;&emsp;“(i) with respect to a qualified cooperative housing corporation described in paragraph (4)(A)(iii)(I) on September 20, 1978, or
+&emsp;&emsp;"(i) with respect to a qualified cooperative housing corporation described in paragraph (4)(A)(iii)(I) on September 20, 1978, or
 
-&emsp;&emsp;“(ii) with respect to a qualified cooperative housing corporation described in paragraph (4)(A)(iii)(II) on November 21, 1978, and
+&emsp;&emsp;"(ii) with respect to a qualified cooperative housing corporation described in paragraph (4)(A)(iii)(II) on November 21, 1978, and
 
-&emsp;“(B) in which a qualified cooperative housing corporation refinanced a first mortgage loan made to such corporation by a city housing development agency with a first mortgage loan made by a city housing development corporation and insured by an agency of the Federal Government and a second mortgage loan made by such city housing development agency, in the process of which a reserve was created (as required by such Federal agency) and closing costs were paid or reimbursed by such city housing development agency or corporation.
+&emsp;"(B) in which a qualified cooperative housing corporation refinanced a first mortgage loan made to such corporation by a city housing development agency with a first mortgage loan made by a city housing development corporation and insured by an agency of the Federal Government and a second mortgage loan made by such city housing development agency, in the process of which a reserve was created (as required by such Federal agency) and closing costs were paid or reimbursed by such city housing development agency or corporation.
 
-“(6)
+"(6)
 
-Qualified refinancing-related reserve.—For purposes of this subsection, the term ‘qualified refinancing-related reserve’ means any reserve of a qualified cooperative housing corporation with respect to the creation of which no amount was included in the gross income of such corporation by reason of paragraph (a).
+Qualified refinancing-related reserve.—For purposes of this subsection, the term 'qualified refinancing-related reserve' means any reserve of a qualified cooperative housing corporation with respect to the creation of which no amount was included in the gross income of such corporation by reason of paragraph (a).
 
-“(7)
+"(7)
 
 Treatment of amounts paid from qualified refinancing-related reserve.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—With respect to any payment from a qualified refinancing-related reserve out of amounts excluded from gross income by reason of paragraph (1)—
 
-&emsp;&emsp;“(i) no deduction shall be allowed under chapter 1 of such Code, and
+&emsp;&emsp;"(i) no deduction shall be allowed under chapter 1 of such Code, and
 
-&emsp;&emsp;“(ii) the basis of any property acquired with such payment (determined without regard to this subparagraph) shall be reduced by the amount of such payment.
+&emsp;&emsp;"(ii) the basis of any property acquired with such payment (determined without regard to this subparagraph) shall be reduced by the amount of such payment.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Ordering rules.—For purposes of subparagraph (A), payments from a reserve shall be treated as being made—
 
-&emsp;&emsp;“(i) first from amounts excluded from gross income by reason of paragraph (1) to the extent thereof, and
+&emsp;&emsp;"(i) first from amounts excluded from gross income by reason of paragraph (1) to the extent thereof, and
 
-&emsp;&emsp;“(ii) then from other amounts in the reserve.”
+&emsp;&emsp;"(ii) then from other amounts in the reserve."
 

@@ -4,7 +4,7 @@
 
 #### (1) Program
 
-&emsp;The Secretary of Agriculture shall carry out an outreach and technical assistance program to encourage and assist socially disadvantaged farmers and ranchers—
+&emsp;The Secretary of Agriculture shall carry out an outreach and technical assistance programto encourage and assist socially disadvantaged farmers and ranchers—
 
 &emsp;&emsp;(A) in owning and operating farms and ranches; and
 
@@ -146,15 +146,15 @@
 
 #### (1) Socially disadvantaged group
 
-&emsp;As used in this section, the term “socially disadvantaged group” means a group whose members have been subjected to racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities.
+&emsp;As used in this section, the term "socially disadvantaged group" means a group whose members have been subjected to racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities.
 
 #### (2) Socially disadvantaged farmer or rancher
 
-&emsp;As used in this section, the term “socially disadvantaged farmer or rancher” means a farmer or rancher who is a member of a socially disadvantaged group.
+&emsp;As used in this section, the term "socially disadvantaged farmer or rancher" means a farmer or rancher who is a member of a socially disadvantaged group.
 
 #### (3) Agriculture programs
 
-&emsp;As used in this section, the term “agriculture programs” are those established or authorized by—
+&emsp;As used in this section, the term "agriculture programs" are those established or authorized by—
 
 &emsp;&emsp;(A) the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\];
 
@@ -172,17 +172,17 @@
 
 #### (4) Department
 
-&emsp;The term “Department” means the Department of Agriculture.
+&emsp;The term "Department" means the Department of Agriculture.
 
 #### (5) Eligible entity
 
-&emsp;The term “eligible entity” means any of the following:
+&emsp;The term "eligible entity" means any of the following:
 
 &emsp;&emsp;(A) Any community-based organization, network, or coalition of community-based organizations that—
 
 &emsp;&emsp;&emsp;(i) has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers;
 
-&emsp;&emsp;&emsp;(ii) has provided to the Secretary documentary evidence of work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period preceding the submission of an application for assistance under subsection (a) of this section; and
+&emsp;&emsp;&emsp;(ii) has provided to the Secretary documentary evidence of work with, and on behalf of, socially disadvantaged farmers orranchers during the 3-year period preceding the submission of an application for assistance under subsection (a) of this section; and
 
 &emsp;&emsp;&emsp;(iii) does not engage in activities prohibited under section 501(c)(3) of title 26.
 
@@ -200,7 +200,7 @@
 
 #### (6) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 #### (f) Omitted
 
@@ -240,61 +240,61 @@ Section is comprised of section 2501 of Pub. L. 101–624. Subsec. (f) of sectio
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(4)(A). Pub. L. 112–240, §701(h)(1), substituted “Fiscal years 2009 through 2012” for “In general” in heading.
+<b>2013</b>—Subsec. (a)(4)(A). Pub. L. 112–240, §701(h)(1), substituted "Fiscal years 2009 through 2012" for "In general" in heading.
 
-Subsec. (a)(4)(B) to (D). Pub. L. 112–240, §701(h)(2)–(5), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, and substituted “subparagraph (A) or (B)” for “subparagraph (A)” in subpars. (C) and (D).
+Subsec. (a)(4)(B) to (D). Pub. L. 112–240, §701(h)(2)–(5), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, and substituted "subparagraph (A) or (B)" for "subparagraph (A)" in subpars. (C) and (D).
 
 <b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §14004(a)(1), amended par. (2) generally. Prior to amendment, par. (2) contained provisions stating that the outreach and technical assistance program was to enhance coordination of authorized outreach, technical assistance, and education efforts and include information on, and assistance with, commodity, conservation, credit, rural, and business development programs, application and bidding procedures, farm and risk management, marketing, and other activities essential to participation in Department programs.
 
-Subsec. (a)(3)(A). Pub. L. 110–246, §14004(a)(2)(A), substituted “entity that has demonstrated an ability to carry out the requirements described in paragraph (2) to provide outreach” for “entity to provide information”.
+Subsec. (a)(3)(A). Pub. L. 110–246, §14004(a)(2)(A), substituted "entity that has demonstrated an ability to carry out the requirements described in paragraph (2) to provide outreach" for "entity to provide information".
 
 Subsec. (a)(3)(D). Pub. L. 110–246, §14004(a)(2)(B), added subpar. (D).
 
-Subsec. (a)(4)(A). Pub. L. 110–246, §14004(a)(3)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2002 through 2007.”
+Subsec. (a)(4)(A). Pub. L. 110–246, §14004(a)(3)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2002 through 2007."
 
 Subsec. (a)(4)(C). Pub. L. 110–246, §14004(a)(3)(B), added subpar. (C).
 
-Subsec. (e)(5)(A)(ii). Pub. L. 110–246, §14004(b), which directed amendment of cl. (ii) by substituting “work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period” for “work with socially disadvantaged farmers or ranchers during the 2-year period”, was executed by making the substitution for “work with socially disadvantaged farmers and ranchers during the 2-year period”, to reflect the probable intent of Congress.
+Subsec. (e)(5)(A)(ii). Pub. L. 110–246, §14004(b), which directed amendment of cl. (ii) by substituting "work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period" for "work with socially disadvantaged farmers or ranchers during the 2-year period", was executed by making the substitution for "work with socially disadvantaged farmers and ranchers during the 2-year period", to reflect the probable intent of Congress.
 
-Subsec. (g)(1). Pub. L. 110–246, §14001, substituted “Farm Service Agency and Natural Resources Conservation Service” for “Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices”, inserted “where there has been a need demonstrated” after “include”, and struck out at end “The tribe shall be required to provide the necessary office space if it wishes to participate in this program.”
+Subsec. (g)(1). Pub. L. 110–246, §14001, substituted "Farm Service Agency and Natural Resources Conservation Service" for "Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices", inserted "where there has been a need demonstrated" after "include", and struck out at end "The tribe shall be required to provide the necessary office space if it wishes to participate in this program."
 
 Subsec. (h). Pub. L. 110–246, §14005, added subsec. (h).
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–171, §10707(b), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 
-“(1)
+"(1)
 
-In general.—The Secretary of Agriculture (hereafter referred to in this section as the ‘Secretary’) shall provide outreach and technical assistance to encourage and assist socially disadvantaged farmers and ranchers to own and operate farms and ranches and to participate in agricultural programs. This assistance should include information on application and bidding procedures, farm management, and other essential information to participate in agricultural programs.
+In general.—The Secretary of Agriculture (hereafter referred to in this section as the 'Secretary') shall provide outreach and technical assistance to encourage and assist socially disadvantaged farmers and ranchers to own and operate farms and ranches and to participate in agricultural programs. This assistance should include information on application and bidding procedures, farm management, and other essential information to participate in agricultural programs.
 
-“(2)
+"(2)
 
 Grants and Contracts.—The Secretary may make grants and enter into contracts and other agreements in the furtherance of this section with the following entities—
 
-&emsp;“(A) any community based organization that—
+&emsp;"(A) any community based organization that—
 
-&emsp;&emsp;“(i) has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers;
+&emsp;&emsp;"(i) has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers;
 
-&emsp;&emsp;“(ii) provides documentary evidence of its past experience of working with socially disadvantaged farmers and ranchers during the two years preceding its application for assistance under this section; and
+&emsp;&emsp;"(ii) provides documentary evidence of its past experience of working with socially disadvantaged farmers and ranchers during the two years preceding its application for assistance under this section; and
 
-&emsp;&emsp;“(iii) does not engage in activities prohibited under section 501(c)(3) of title 26; and
+&emsp;&emsp;"(iii) does not engage in activities prohibited under section 501(c)(3) of title 26; and
 
-&emsp;“(B) 1890 Land-Grant Colleges including Tuskegee Institute, Indian tribal community colleges and Alaska native cooperative colleges, Hispanic serving post-secondary educational institutions, and other post-secondary educational institutions with demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged family farmers and ranchers in their region.
+&emsp;"(B) 1890 Land-Grant Colleges including Tuskegee Institute, Indian tribal community colleges and Alaska native cooperative colleges, Hispanic serving post-secondary educational institutions, and other post-secondary educational institutions with demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged family farmers and ranchers in their region.
 
-“(3)
+"(3)
 
-Funding.—There are authorized to be appropriated $10,000,000 for each fiscal year to carry out this subsection.”
+Funding.—There are authorized to be appropriated $10,000,000 for each fiscal year to carry out this subsection."
 
-Subsec. (d)(1). Pub. L. 107–171, §10707(c)(1), struck out “of Agriculture” after “analyze within the Department”.
+Subsec. (d)(1). Pub. L. 107–171, §10707(c)(1), struck out "of Agriculture" after "analyze within the Department".
 
 Subsec. (e)(4) to (6). Pub. L. 107–171, §10707(a), added pars. (4) to (6).
 
-Subsec. (g)(1). Pub. L. 107–171, §10707(c)(2), struck out “of Agriculture” after “Department”.
+Subsec. (g)(1). Pub. L. 107–171, §10707(c)(2), struck out "of Agriculture" after "Department".
 
-<b>1991</b>—Subsec. (a)(3). Pub. L. 102–237, §1003(1), substituted “subsection” for “section”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–237, §1003(1), substituted "subsection" for "section".
 
-Subsec. (c)(1)(C). Pub. L. 102–237, §1003(2), inserted “program” after “agricultural”.
+Subsec. (c)(1)(C). Pub. L. 102–237, §1003(2), inserted "program" after "agricultural".
 
-Subsec. (d)(3). Pub. L. 102–237, §1003(3), substituted “November 28, 1991” for “1 year after the date of enactment of this Act”.
+Subsec. (d)(3). Pub. L. 102–237, §1003(3), substituted "November 28, 1991" for "1 year after the date of enactment of this Act".
 
 #### Effective Date of 2013 Amendment
 
@@ -308,41 +308,41 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 110–234, title XIV, §14008, May 22, 2008, 122 Stat. 1446, and Pub. L. 110–246, §4(a), title XIV, §14008, June 18, 2008, 122 Stat. 1664, 2208, provided that:
 
-“(a)
+"(a)
 
-Establishment.—Not later than 18 months after the date of the enactment of this Act \[June 18, 2008\], the Secretary of Agriculture shall establish an advisory committee, to be known as the ‘Advisory Committee on Minority Farmers’ (in this section referred to as the ‘Committee’).
+Establishment.—Not later than 18 months after the date of the enactment of this Act \[June 18, 2008\], the Secretary of Agriculture shall establish an advisory committee, to be known as the 'Advisory Committee on Minority Farmers' (in this section referred to as the 'Committee').
 
-“(b)
+"(b)
 
 Duties.—The Committee shall provide advice to the Secretary on—
 
-&emsp;“(1) the implementation of section 2501 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279);
+&emsp;"(1) the implementation of section 2501 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279);
 
-&emsp;“(2) methods of maximizing the participation of minority farmers and ranchers in Department of Agriculture programs; and
+&emsp;"(2) methods of maximizing the participation of minority farmers and ranchers in Department of Agriculture programs; and
 
-&emsp;“(3) civil rights activities within the Department as such activities relate to participants in such programs.
+&emsp;"(3) civil rights activities within the Department as such activities relate to participants in such programs.
 
-“(c)
+"(c)
 
 Membership.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Committee shall be composed of not more than 15 members, who shall be appointed by the Secretary, and shall include—
 
-&emsp;&emsp;“(A) not less than four socially disadvantaged farmers or ranchers (as defined in section 2501(e)(2) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279(e)(2)));
+&emsp;&emsp;"(A) not less than four socially disadvantaged farmers or ranchers (as defined in section 2501(e)(2) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279(e)(2)));
 
-&emsp;&emsp;“(B) not less than two representatives of nonprofit organizations with a history of working with minority farmers and ranchers;
+&emsp;&emsp;"(B) not less than two representatives of nonprofit organizations with a history of working with minority farmers and ranchers;
 
-&emsp;&emsp;“(C) not less than two civil rights professionals;
+&emsp;&emsp;"(C) not less than two civil rights professionals;
 
-&emsp;&emsp;“(D) not less than two representatives of institutions of higher education with demonstrated experience working with minority farmers and ranchers; and
+&emsp;&emsp;"(D) not less than two representatives of institutions of higher education with demonstrated experience working with minority farmers and ranchers; and
 
-&emsp;&emsp;“(E) such other persons as the Secretary considers appropriate.
+&emsp;&emsp;"(E) such other persons as the Secretary considers appropriate.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Ex-officio members.—The Secretary may appoint such employees of the Department of Agriculture as the Secretary considers appropriate to serve as ex-officio members of the Committee.”
+Ex-officio members.—The Secretary may appoint such employees of the Department of Agriculture as the Secretary considers appropriate to serve as ex-officio members of the Committee."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
@@ -350,35 +350,35 @@ Ex-officio members.—The Secretary may appoint such employees of the Department
 
 Pub. L. 105–277, div. A, §101(a) \[title VII, §741\], Oct. 21, 1998, 112 Stat. 2681, 2681–30, provided that:
 
-“(a) To the extent permitted by the Constitution, any civil action to obtain relief with respect to the discrimination alleged in an eligible complaint, if commenced not later than 2 years after the date of the enactment of this Act \[Oct. 21, 1998\], shall not be barred by any statute of limitations.
+"(a) To the extent permitted by the Constitution, any civil action to obtain relief with respect to the discrimination alleged in an eligible complaint, if commenced not later than 2 years after the date of the enactment of this Act \[Oct. 21, 1998\], shall not be barred by any statute of limitations.
 
-“(b) The complainant may, in lieu of filing a civil action, seek a determination on the merits of the eligiblecomplaint by the Department of Agriculture if such complaint was filed not later than 2 years after the date of enactment of this Act \[Oct. 21, 1998\]. The Department of Agriculture shall—
+"(b) The complainant may, in lieu of filing a civil action, seek a determination on the merits of the eligible complaint by the Department of Agriculture if such complaint was filed not later than 2 years after the date of enactment of this Act \[Oct. 21, 1998\]. The Department of Agriculture shall—
 
-&emsp;“(1) provide the complainant an opportunity for a hearing on the record before making that determination;
+&emsp;"(1) provide the complainant an opportunity for a hearing on the record before making that determination;
 
-&emsp;“(2) award the complainant such relief as would be afforded under the applicable statute from which the eligible complaint arose notwithstanding any statute of limitations; and
+&emsp;"(2) award the complainant such relief as would be afforded under the applicable statute from which the eligible complaint arose notwithstanding any statute of limitations; and
 
-&emsp;“(3) to the maximum extent practicable within 180 days after the date a determination of an eligible complaint is sought under this subsection conduct an investigation, issue a written determination and propose a resolution in accordance with this subsection.
+&emsp;"(3) to the maximum extent practicable within 180 days after the date a determination of an eligible complaint is sought under this subsection conduct an investigation, issue a written determination and propose a resolution in accordance with this subsection.
 
-“(c) Notwithstanding subsections (a) and (b), if an eligible claim is denied administratively, the claimant shall have at least 180 days to commence a cause of action in a Federal court of competent jurisdiction seeking a review of such denial.
+"(c) Notwithstanding subsections (a) and (b), if an eligible claim is denied administratively, the claimant shall have at least 180 days to commence a cause of action in a Federal court of competent jurisdiction seeking a review of such denial.
 
-“(d) The United States Court of Federal Claims and the United States District Court shall have exclusive original jurisdiction over—
+"(d) The United States Court of Federal Claims and the United States District Court shall have exclusive original jurisdiction over—
 
-&emsp;“(1) any cause of action arising out of a complaint with respect to which this section waives the statute of limitations; and
+&emsp;"(1) any cause of action arising out of a complaint with respect to which this section waives the statute of limitations; and
 
-&emsp;“(2) any civil action for judicial review of a determination in an administrative proceeding in the Department of Agriculture under this section.
+&emsp;"(2) any civil action for judicial review of a determination in an administrative proceeding in the Department of Agriculture under this section.
 
-“(e) As used in this section, the term ‘eligible complaint’ means a nonemployment related complaint that was filed with the Department of Agriculture before July 1, 1997 and alleges discrimination at any time during the period beginning on January 1, 1981 and ending December 31, 1996—
+"(e) As used in this section, the term 'eligible complaint' means a nonemployment related complaint that was filed with the Department of Agriculture before July 1, 1997 and alleges discrimination at any time during the period beginning on January 1, 1981 and ending December 31, 1996—
 
-&emsp;“(1) in violation of the Equal Credit Opportunity Act (15 U.S.C. 1691 et seq.) in administering—
+&emsp;"(1) in violation of the Equal Credit Opportunity Act (15 U.S.C. 1691 et seq.) in administering—
 
-&emsp;&emsp;“(A) a farm ownership, farm operating, or emergency loan funded from the Agricultural Credit Insurance Program Account; or
+&emsp;&emsp;"(A) a farm ownership, farm operating, or emergency loan funded from the Agricultural Credit Insurance Program Account; or
 
-&emsp;&emsp;“(B) a housing program established under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\]; or
+&emsp;&emsp;"(B) a housing program established under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\]; or
 
-&emsp;“(2) in the administration of a commodity program or a disaster assistance program.
+&emsp;"(2) in the administration of a commodity program or a disaster assistance program.
 
-“(f) This section shall apply in fiscal year 1999 and thereafter.
+"(f) This section shall apply in fiscal year 1999 and thereafter.
 
-“(g) The standard of review for judicial review of an agency action with respect to an eligible complaint is de novo review. Chapter 5 of title 5 of the United States Code shall apply with respect to an agency action under this section with respect to an eligible complaint, without regard to section 554(a)(1) of that title.”
+"(g) The standard of review for judicial review of an agency action with respect to an eligible complaint is de novo review. Chapter 5 of title 5 of the United States Code shall apply with respect to an agency action under this section with respect to an eligible complaint, without regard to section 554(a)(1) of that title."
 

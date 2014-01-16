@@ -14,7 +14,7 @@ This section incorporates the following changes because of the new plan for the 
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–546 substituted “grade in which permanently appointed” for “rank in which permanently appointed”.
+<b>1976</b>—Pub. L. 94–546 substituted "grade in which permanently appointed" for "rank in which permanently appointed".
 
-<b>1960</b>—Pub. L. 86–474 substituted “and instructors who are to serve” for “and commissioned instructors who are to serve”, and “civilian member of the teaching staff” for “civilian instructor”.
+<b>1960</b>—Pub. L. 86–474 substituted "and instructors who are to serve" for "and commissioned instructors who are to serve", and "civilian member of the teaching staff" for "civilian instructor".
 

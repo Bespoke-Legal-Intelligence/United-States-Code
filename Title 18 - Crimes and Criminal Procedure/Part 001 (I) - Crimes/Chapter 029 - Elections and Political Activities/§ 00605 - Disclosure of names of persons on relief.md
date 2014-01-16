@@ -1,6 +1,6 @@
 ### §605. Disclosure of names of persons on relief
 
-Whoever, for political purposes, furnishes or discloses any list or names of persons receiving compensation, employment or benefits providedfor or made possible by any Act of Congress appropriating, or authorizing the appropriation of funds for work relief or relief purposes, to a political candidate, committee, campaign manager, or to any person for delivery to a political candidate, committee, or campaign manager; and
+Whoever, for political purposes, furnishes or discloses any list or names of persons receiving compensation, employment or benefits provided for or made possible by any Act of Congress appropriating, or authorizing the appropriation of funds for work relief or relief purposes, to a political candidate, committee, campaign manager, or to any person for delivery to a political candidate, committee, or campaign manager; and
 
 Whoever receives any such list or names for political purposes—
 
@@ -14,11 +14,11 @@ Based on title 18, U.S.C., 1940 ed., §§61e, 61g (Aug. 2, 1939, 11:50 a.m., E.S
 
 This section consolidates sections 61e and 61g of title 18, U.S.C., 1940 ed.
 
-Reference to persons aiding or assisting, contained in words “or to aid or assist in furnishing or disclosing” was omitted as unnecessary as such persons are made principals by section 2 of this title.
+Reference to persons aiding or assisting, contained in words "or to aid or assist in furnishing or disclosing" was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".
 

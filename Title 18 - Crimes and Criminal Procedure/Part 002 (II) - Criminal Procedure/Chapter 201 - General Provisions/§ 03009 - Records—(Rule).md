@@ -8,9 +8,9 @@ Keeping of records by district court clerks and magistrate judges, rule 55.
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–578 substituted “magistrates” for “commissioners”.
+<b>1968</b>—Pub. L. 90–578 substituted "magistrates" for "commissioners".
 
 #### Change of Name
 
-Words “magistrate judges” substituted for “magistrates” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words "magistrate judges" substituted for "magistrates" in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 

@@ -1,6 +1,6 @@
 ### §3331. Substitute checks
 
-(a) In this section, “original check”—
+(a) In this section, "original check"—
 
 &emsp;(1) means an order for the payment of money—
 
@@ -16,7 +16,7 @@
 
 (b) When the Secretary of the Treasury is satisfied that an original check is lost, stolen, destroyed in any part, or is so defaced that the value to the owner or holder is impaired, the Secretary may issue a substitute check to the owner or holder of the original check. Except as provided in subsection (c) or (f) of this section, the substitute check is payable from the amount available to pay the original check.
 
-(c) When the Secretary is satisfied that an original check drawn on a depositary in a foreign country or a territory or possession of the United States is lost, stolen, destroyed in part, or is so defaced that its value to the owner or holder is impaired, the drawer of the original check (or another official designated by the Secretary with the approval of the head of the agency on whose behalf the original check was issued) may issue to the owner or holder of the check a substitute check. The drawer or official shall issue the substitute check by the last day of the fiscal year after the fiscal year in which the original check was issued—
+(c) When the Secretary is satisfied that an original check drawn on a depositary in a foreign country or a territory or possession of the United States is lost, stolen, destroyed in part, or is so defaced that its value to the owner or holder is impaired, the drawer of the originalcheck (or another official designated by the Secretary with the approval of the head of the agency on whose behalf the original check was issued) may issue to the owner or holder of the check a substitute check. The drawer or official shall issue the substitute check by the last day of the fiscal year after the fiscal year in which the original check was issued—
 
 &emsp;(1) using the current date; and
 
@@ -76,27 +76,27 @@ R.S. §3646(a)–(c), (f), (g); Feb. 16, 1885, ch. 123, 23 Stat. 306; Mar. 23, 1
 
 31:528(b), (c)(1st sentence 196th–236th words).
 
-In subsection (a), before clause (1), the words “The term . . . wherever used” are omitted as unnecessary. In clause (1), before subclause (A), the words “check, warrant, or other” are omitted as surplus. In subclause (C), the word “duly” is omitted as surplus. The words “disbursing official or agent” are substituted for “officer or agent” for consistency in the revised title. The words “any wholly owned or mixed-ownership Government corporation” are omitted as already being included in the restated source provisions and because of section 101 of the revised title. Therefore, the text is not meant to exclude employees of wholly owned Government corporations and mixed-ownership Government corporations. The words “the District of Columbia, or the District Unemployment Compensation Board” are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The words “or by any entity owned or controlled by the United States” are omitted as unnecessary. In subclause (D), the words “and covered . . . or deposited with the Treasurer of the United States” are omitted as surplus. The words “or another account available for payment” are added for clarity and consistency in the revised section. In clause (2), the word “money” is omitted as being covered by “coins and currency”.
+In subsection (a), before clause (1), the words "The term . . . wherever used" are omitted as unnecessary. In clause (1), before subclause (A), the words "check, warrant, or other" are omitted as surplus. In subclause (C), the word "duly" is omitted as surplus. The words "disbursing official or agent" are substituted for "officer or agent" for consistency in the revised title. The words "any wholly owned or mixed-ownership Government corporation" are omitted as already being included in the restated source provisions and because of section 101 of the revised title. Therefore, the text is not meant to exclude employees of wholly owned Government corporations and mixed-ownership Government corporations. The words "the District of Columbia, or the District Unemployment Compensation Board" are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The words "or by any entity owned or controlled by the United States" are omitted as unnecessary. In subclause (D), the words "and covered . . . or deposited with the Treasurer of the United States" are omitted as surplus. The words "or another account available for payment" are added for clarity and consistency in the revised section. In clause (2), the word "money" is omitted as being covered by "coins and currency".
 
-In subsections (b) and (c), the words “When the Secretary is satisfied” are substituted for “whenever it is clearly proved to the satisfaction of the Secretary” to eliminate unnecessary words. The words “mutilated or” are omitted as being covered by “defaced”.
+In subsections (b) and (c), the words "When the Secretary is satisfied" are substituted for "whenever it is clearly proved to the satisfaction of the Secretary" to eliminate unnecessary words. The words "mutilated or" are omitted as being covered by "defaced".
 
-In subsection (c), before clause (1), the words “Notwithstanding the provisions of subsections (a) and (b) of this section” are omitted as unnecessary. The words “including the Panama Canal Zone” are omitted because of the Panama Canal Treaty of 1977. The words “official designated” are substituted for “officer or employee of the United States as may be authorized” for consistency in the revised title and with other titles of the United States Code. The word “agency” is substituted for “department or agency” because of section 101 of the revised title and for consistency. In clause (2), the words “drawn on” are substituted for “drawn against” for consistency in the revised chapter.
+In subsection (c), before clause (1), the words "Notwithstanding the provisions of subsections (a) and (b) of this section" are omitted as unnecessary. The words "including the Panama Canal Zone" are omitted because of the Panama Canal Treaty of 1977. The words "official designated" are substituted for "officer or employee of the United States as may be authorized" for consistency in the revised title and with other titles of the United States Code. The word "agency" is substituted for "department or agency" because of section 101 of the revised title and for consistency. In clause (2), the words "drawn on" are substituted for "drawn against" for consistency in the revised chapter.
 
-In subsection (d)(3), before subclause (A), the word “Treasury” is substituted for “Treasurer of the United States” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280).
+In subsection (d)(3), before subclause (A), the word "Treasury" is substituted for "Treasurer of the United States" because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280).
 
-In subsection (d)(4), the word “official” is substituted for “officer” for consistency in the revised title and with other titles of the United States Code.
+In subsection (d)(4), the word "official" is substituted for "officer" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (e), the words “surety or” are omitted as surplus. The words “the receipt and approval by the Secretary of the Treasury of” are omitted because of the restatement.
+In subsection (e), the words "surety or" are omitted as surplus. The words "the receipt and approval by the Secretary of the Treasury of" are omitted because of the restatement.
 
 #### 1983 Act
 
 This restates, as 31:3331(f), section 3646(h) of the Revised Statutes that was inadvertently omitted from the codification of title 31 by the Act of Sept. 13, 1982 (Pub. L. 97–258, 96 Stat. 1084). It provides authority for the Secretary of the Treasury to delegate duties and powers related to issuing substitute checks to heads of other agencies.
 
-The words “terms and” are omitted as surplus. The words “duties and powers” are substituted for “power, authority, or discretion” for consistency in the revised title and with other titles of the United States Code. The words “in whole or in part” are omitted as surplus. The words “to such individuals as he may designate within the Treasury Department” are omitted because of 31:321(b)(2). The word “agency” is coextensive with and substituted for “other department or agency of the Government or of any Federal Reserve bank” because of 31:101. The words “terms and conditions” are omitted as surplus.
+The words "terms and" are omitted as surplus. The words "duties and powers" are substituted for "power, authority, or discretion" for consistency in the revised title and with other titles of the United States Code. The words "in whole or in part" are omitted as surplus. The words "to such individuals as he may designate within the Treasury Department" are omitted because of 31:321(b)(2). The word "agency" is coextensive with and substituted for "other department or agency of the Government or of any Federal Reserve bank" because of 31:101. The words "terms and conditions" are omitted as surplus.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–134, §31001(x)(2)(A), substituted “subsection (c) or (f)” for “subsection (c)”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–134, §31001(x)(2)(A), substituted "subsection (c) or (f)" for "subsection (c)".
 
 Subsecs. (f), (g). Pub. L. 104–134, §31001(x)(2)(B), (C), added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -104,5 +104,5 @@ Subsecs. (f), (g). Pub. L. 104–134, §31001(x)(2)(B), (C), added subsec. (f) a
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 97–452, §2(i), Jan. 12, 1983, 96 Stat. 2479, provided that: “The amendments made by section 1(11), (14), (19), (22), (24), (26), and (27) \[amending this section and sections 3702, 5103, 5154, 6501, 9101, 9107, and 9108 of this title\] are effective as of September 13, 1982.”
+Pub. L. 97–452, §2(i), Jan. 12, 1983, 96 Stat. 2479, provided that: "The amendments made by section 1(11), (14), (19), (22), (24), (26), and (27) \[amending this section and sections 3702, 5103, 5154, 6501, 9101, 9107, and 9108 of this title\] are effective as of September 13, 1982."
 

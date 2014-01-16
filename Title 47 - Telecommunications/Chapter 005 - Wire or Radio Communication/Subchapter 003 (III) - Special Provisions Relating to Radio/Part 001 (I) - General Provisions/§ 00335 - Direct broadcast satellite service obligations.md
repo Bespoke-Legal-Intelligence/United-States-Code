@@ -42,15 +42,15 @@ The Commission shall, within 180 days after October 5, 1992, initiate a rulemaki
 
 &emsp;For purposes of this subsection:
 
-&emsp;&emsp;(A) The term “provider of direct broadcast satellite service” means—
+&emsp;&emsp;(A) The term "provider of direct broadcast satellite service" means—
 
 &emsp;&emsp;&emsp;(i) a licensee for a Ku-band satellite system under part 100 of title 47 of the Code of Federal Regulations; or
 
 &emsp;&emsp;&emsp;(ii) any distributor who controls a minimum number of channels (as specified by Commission regulation) using a Ku-band fixed service satellite system for the provision of video programming directly to the home and licensed under part 25 of title 47 of the Code of Federal Regulations.
 
-&emsp;&emsp;(B) The term “national educational programming supplier” includes any qualifiednoncommercial educational television station, other public telecommunications entities, and public or private educational institutions.
+&emsp;&emsp;(B) The term "national educational programming supplier" includes any qualifiednoncommercial educational television station, other public telecommunications entities, and public or private educational institutions.
 
-&emsp;&emsp;(C) The term “qualified satellite provider” means any provider of direct broadcast satellite service that—
+&emsp;&emsp;(C) The term "qualified satellite provider" means any provider of direct broadcast satellite service that—
 
 &emsp;&emsp;&emsp;(i) provides the retransmission of the State public affairs networks of at least 15 different States;
 
@@ -58,7 +58,7 @@ The Commission shall, within 180 days after October 5, 1992, initiate a rulemaki
 
 &emsp;&emsp;&emsp;(iii) does not delete any noncommercial programming of an educational or informational nature in connection with the carriage of a State public affairs network.
 
-&emsp;&emsp;(D) The term “State public affairs network” means a non-commercial non-broadcast network or a noncommercial educational television station—
+&emsp;&emsp;(D) The term "State public affairs network" means a non-commercial non-broadcast network or a noncommercial educational television station—
 
 &emsp;&emsp;&emsp;(i) whose programming consists of information about State government deliberations and public policy events; and
 
@@ -74,15 +74,15 @@ The Commission shall, within 180 days after October 5, 1992, initiate a rulemaki
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–175, §209(1), inserted “State public affairs,” after “educational,” in heading.
+<b>2010</b>—Subsec. (b). Pub. L. 111–175, §209(1), inserted "State public affairs," after "educational," in heading.
 
-Subsec. (b)(1). Pub. L. 111–175, §209(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Commission shall require, as a condition of any provision, initial authorization, or authorization renewal for a provider of direct broadcast satellite service providing video programming, that the provider of such service reserve a portion of its channel capacity, equal to not less than 4 percent nor more than 7 percent, exclusively for noncommercial programming of an educational or informational nature.”
+Subsec. (b)(1). Pub. L. 111–175, §209(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Commission shall require, as a condition of any provision, initial authorization, or authorization renewal for a provider of direct broadcast satellite service providing video programming, that the provider of such service reserve a portion of its channel capacity, equal to not less than 4 percent nor more than 7 percent, exclusively for noncommercial programming of an educational or informational nature."
 
-Subsec. (b)(5). Pub. L. 111–175, §209(3), which directed substitution of “For purposes of this subsection:” for “For purposes of the subsection—”, was executed by making the substitution for “For purposes of this subsection—” in introductory provisions, to reflect the probable intent of Congress.
+Subsec. (b)(5). Pub. L. 111–175, §209(3), which directed substitution of "For purposes of this subsection:" for "For purposes of the subsection—", was executed by making the substitution for "For purposes of this subsection—" in introductory provisions, to reflect the probable intent of Congress.
 
 Subsec. (b)(5)(C), (D). Pub. L. 111–175, §209(4), added subpars. (C) and (D).
 

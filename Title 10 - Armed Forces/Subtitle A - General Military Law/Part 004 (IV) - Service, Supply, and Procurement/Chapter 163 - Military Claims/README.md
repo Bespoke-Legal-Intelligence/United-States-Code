@@ -27,21 +27,21 @@
 
 <b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1481(j)(2), Nov. 5, 1990, 104 Stat. 1708, added item 2732.
 
-<b>1984</b>—Pub. L. 98–525, title XIV, §1405(42)(B), Oct. 19, 1984, 98 Stat. 2625, substituted “in foreign countries” for “: foreign countries” in item 2734a.
+<b>1984</b>—Pub. L. 98–525, title XIV, §1405(42)(B), Oct. 19, 1984, 98 Stat. 2625, substituted "in foreign countries" for ": foreign countries" in item 2734a.
 
-<b>1968</b>—Pub. L. 90–521, §2, Sept. 26, 1968, 82 Stat. 874, substituted “advance payment” for “incident to aircraft or missile operation” in item 2736.
+<b>1968</b>—Pub. L. 90–521, §2, Sept. 26, 1968, 82 Stat. 874, substituted "advance payment" for "incident to aircraft or missile operation" in item 2736.
 
-<b>1966</b>—Pub. L. 89–718, §21(b), Nov. 2, 1966, 80 Stat. 1118, substituted “2737” for “2736” as item number for “Property loss; personal injury or death: incident to use of property of the United States and not cognizable under other law”.
+<b>1966</b>—Pub. L. 89–718, §21(b), Nov. 2, 1966, 80 Stat. 1118, substituted "2737" for "2736" as item number for "Property loss; personal injury or death: incident to use of property of the United States and not cognizable under other law".
 
-<b>1964</b>—Pub. L. 88–558, §5(2), Aug. 31, 1964, 78 Stat. 768, struck out item 2732 “Property loss: incident to service; members of Army, Navy, Air Force, or Marine Corps and civilian employees”, effective two years after Aug. 31, 1964. Pub. L. 88–558, was itself repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
+<b>1964</b>—Pub. L. 88–558, §5(2), Aug. 31, 1964, 78 Stat. 768, struck out item 2732 "Property loss: incident to service; members of Army, Navy, Air Force, or Marine Corps and civilian employees", effective two years after Aug. 31, 1964. Pub. L. 88–558, was itself repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 
-<b>1962</b>—Pub. L. 87–769, §1(1)(B), Oct. 9, 1962, 76 Stat. 768, added item 2736 “Property loss; personal injury or death: incident to use of property of the United States and not cognizable under other law”.
+<b>1962</b>—Pub. L. 87–769, §1(1)(B), Oct. 9, 1962, 76 Stat. 768, added item 2736 "Property loss; personal injury or death: incident to use of property of the United States and not cognizable under other law".
 
 Pub. L. 87–651, title I, §113(b), Sept. 7, 1962, 76 Stat. 513, added items 2734a and 2734b.
 
-<b>1961</b>—Pub. L. 87–212, §1(2), Sept. 8, 1961, 75 Stat. 488, added item 2736 “Property loss; personal injury or death: incident to aircraft or missile operation”.
+<b>1961</b>—Pub. L. 87–212, §1(2), Sept. 8, 1961, 75 Stat. 488, added item 2736 "Property loss; personal injury or death: incident to aircraft or missile operation".
 
-<b>1959</b>—Pub. L. 86–223, §1(2), Sept. 1, 1959, 73 Stat. 454, substituted “armed forces” for “Department of Army, Navy, or Air Force” in item 2734.
+<b>1959</b>—Pub. L. 86–223, §1(2), Sept. 1, 1959, 73 Stat. 454, substituted "armed forces" for "Department of Army, Navy, or Air Force" in item 2734.
 
 
 ---

@@ -30,5 +30,5 @@ Section 3311 prohibits the operation of a vessel subject to inspection without h
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–498 designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b), a vessel” for “A vessel”, struck out “valid” before “certificate of inspection”, and added subsec. (b).
+<b>1984</b>—Pub. L. 98–498 designated existing provisions as subsec. (a), substituted "Except as provided in subsection (b), a vessel" for "A vessel", struck out "valid" before "certificate of inspection", and added subsec. (b).
 

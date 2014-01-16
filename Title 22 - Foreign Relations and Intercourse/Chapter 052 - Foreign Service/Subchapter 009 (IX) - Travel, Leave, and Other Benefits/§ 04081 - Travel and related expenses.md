@@ -16,7 +16,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;&emsp;(B) a family member incapable of caring for himself or herself if he or she remained at the post at which the member of the Service is serving;
 
-&emsp;(6) rest and recuperation travel of members of the Service who are United States citizens, and members of their families, while servingat locations abroad specifically designated by the Secretary for purposes of this paragraph, to—
+&emsp;(6) rest and recuperation travel of members of the Service who are United States citizens, and members of their families, while serving at locations abroad specifically designated by the Secretary for purposes of this paragraph, to—
 
 &emsp;&emsp;(A) other locations abroad having different social, climatic, or other environmental conditions than those at the post at which the member of the Service is serving, or
 
@@ -56,7 +56,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;(15) 1 round-trip per year for each child below age 21 of a member of the Service assigned abroad—
 
-&emsp;&emsp;(A) to visit the member abroad if the child does not regularly reside with the member and the member is not receiving an education allowance or educational travel allowance for the child under section 5924(4) of title 5; or
+&emsp;&emsp;(A) to visit the member abroad if the child does not regularly reside with the memberand the member is not receiving an education allowance or educational travel allowance for the child under section 5924(4) of title 5; or
 
 &emsp;&emsp;(B) to visit the other parent of the child if the other parent resides in a country other than the country to which the member is assigned and the child regularly resides with the member and does not regularly attend school in the country in which the other parent resides,
 
@@ -66,33 +66,33 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 #### Amendments
 
-<b>2008</b>—Par. (6)(B). Pub. L. 110–321 inserted “or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands” after “United States”.
+<b>2008</b>—Par. (6)(B). Pub. L. 110–321 inserted "or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands" after "United States".
 
-<b>2006</b>—Par. (6). Pub. L. 109–234, which directed amendment of section 901(6) of the Foreign Service Act by striking out “unbroken by home leave” wherever appearing, was executed by striking out those words after “2-year tour” and “3-year tour” in concluding provisions of par. (6) of this section, which is section 901 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
+<b>2006</b>—Par. (6). Pub. L. 109–234, which directed amendment of section 901(6) of the Foreign Service Act by striking out "unbroken by home leave" wherever appearing, was executed by striking out those words after "2-year tour" and "3-year tour" in concluding provisions of par. (6) of this section, which is section 901 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
-<b>2002</b>—Par. (8). Pub. L. 107–228, §315(a), substituted “Service, and members of his or her family,” for “Service”.
+<b>2002</b>—Par. (8). Pub. L. 107–228, §315(a), substituted "Service, and members of his or her family," for "Service".
 
-Par. (15). Pub. L. 107–228, §328, in concluding provisions, substituted “residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent” for “port of entry in the contiguous 48 States which is nearest to that post”.
+Par. (15). Pub. L. 107–228, §328, in concluding provisions, substituted "residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent" for "port of entry in the contiguous 48 States which is nearest to that post".
 
-<b>1991</b>—Par. (10). Pub. L. 102–138, §146, inserted before semicolon “or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant”.
+<b>1991</b>—Par. (10). Pub. L. 102–138, §146, inserted before semicolon "or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant".
 
-Par. (12)(B). Pub. L. 102–138, §145(1), inserted before semicolon “, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days”.
+Par. (12)(B). Pub. L. 102–138, §145(1), inserted before semicolon ", except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days".
 
-Par. (12)(C). Pub. L. 102–138, §145(2), inserted before semicolon “, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days”.
+Par. (12)(C). Pub. L. 102–138, §145(2), inserted before semicolon ", except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days".
 
-<b>1990</b>—Par. (9). Pub. L. 101–246 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “round-trip travel from a location abroad for purposes of family visitation in emergency situations involving personal hardship;”.
+<b>1990</b>—Par. (9). Pub. L. 101–246 amended par. (9) generally. Prior to amendment, par. (9) read as follows: "round-trip travel from a location abroad for purposes of family visitation in emergency situations involving personal hardship;".
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–228, div. A, title III, §315(c), Sept. 30, 2002, 116 Stat. 1379, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date on which guidance for implementation of such amendment is issued by the Secretary.” \[Guidance in the form of a State Department cable was issued Nov. 5, 2002.\]
+Pub. L. 107–228, div. A, title III, §315(c), Sept. 30, 2002, 116 Stat. 1379, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date on which guidance for implementation of such amendment is issued by the Secretary." \[Guidance in the form of a State Department cable was issued Nov. 5, 2002.\]
 
-\[For definition of “Secretary” as used in section 315(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definition of "Secretary" as used in section 315(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 #### Promulgation of Guidance
 
-Pub. L. 107–228, div. A, title III, §315(b), Sept. 30, 2002, 116 Stat. 1379, provided that: “The Secretary shall promulgate guidance for the implementation of the amendment made by subsection (a) \[amending this section\] to ensure its implementation in a manner which does not substantially increase the total amount of travel expenses paid or reimbursed by the Department for travel under section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081).”
+Pub. L. 107–228, div. A, title III, §315(b), Sept. 30, 2002, 116 Stat. 1379, provided that: "The Secretary shall promulgate guidance for the implementation of the amendment made by subsection (a) \[amending this section\] to ensure its implementation in a manner which does not substantially increase the total amount of travel expenses paid or reimbursed by the Department for travel under section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081)."
 
-\[For definitions of “Secretary” and “Department” as used in section 315(b) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definitions of "Secretary" and "Department" as used in section 315(b) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

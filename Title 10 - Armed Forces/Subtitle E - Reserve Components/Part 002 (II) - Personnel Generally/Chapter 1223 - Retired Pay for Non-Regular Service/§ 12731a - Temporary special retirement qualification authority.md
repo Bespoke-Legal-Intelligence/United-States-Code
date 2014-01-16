@@ -24,7 +24,7 @@ Applicability Subject to Needs of the Service.—(1) The Secretary concerned may
 
 (2) A limitation under paragraph (1) shall be consistent with the purpose set forth in section 4414(a) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2713).
 
-(3) Notwithstanding the provisions of section 4415(2) of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 106 Stat. 2714), the Secretary concerned may, consistent with the other provisions of this section, provide the notification required by section 12731(d) of this title to a member who no longer meets the qualifications for membership in the Selected Reserve solely because the member is unfit because of physical disability. Such notification may not be made if the disability is the result of the member's intentional misconduct, willful neglect, or willful failure to comply with standards and qualifications for retention established by the Secretary concerned or was incurred during a period of unauthorized absence.
+(3) Notwithstanding the provisions of section 4415(2) of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division Dof Public Law 102–484; 106 Stat. 2714), the Secretary concerned may, consistent with the other provisions of this section, provide the notification required by section 12731(d) of this title to a member who no longer meets the qualifications for membership in the Selected Reserve solely because the member is unfit because of physical disability. Such notification may not be made if the disability is the result of the member's intentional misconduct, willful neglect, or willful failure to comply with standards and qualifications for retention established by the Secretary concerned or was incurred during a period of unauthorized absence.
 
 (d)
 
@@ -42,33 +42,33 @@ Section 4414(a) of the National Defense Authorization Act for Fiscal Year 1993 a
 
 #### Amendments
 
-<b>2002</b>—Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>2000</b>—Subsec. (a)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(2)(A)\], substituted “the end of the period described in subsection (b)” for “October 1, 2001”.
+<b>2000</b>—Subsec. (a)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(2)(A)\], substituted "the end of the period described in subsection (b)" for "October 1, 2001".
 
-Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(2)(B)\], substituted “December 31, 2001” for “October 1, 2001”.
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(2)(B)\], substituted "December 31, 2001" for "October 1, 2001".
 
-<b>1998</b>—Subsec. (a)(1)(B), (b). Pub. L. 105–261 substituted “October 1, 2001” for “October 1, 1999”.
+<b>1998</b>—Subsec. (a)(1)(B), (b). Pub. L. 105–261 substituted "October 1, 2001" for "October 1, 1999".
 
-<b>1996</b>—Subsec. (c)(3). Pub. L. 104–106 inserted comma after “Defense Conversion”.
+<b>1996</b>—Subsec. (c)(3). Pub. L. 104–106 inserted comma after "Defense Conversion".
 
 <b>1994</b>—Pub. L. 103–337, §1662(j)(1), renumbered section 1331a of this title as this section and amended text generally, changing references to other sections.
 
-Subsec. (c)(3). Pub. L. 103–337, §517, added par. (3) which read as follows: “Notwithstanding the provisions of section 4415(2) of the Defense Conversion Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 106 Stat. 2714), the Secretary concerned may, consistent with the other provisions of this section, provide the notification required by section 1331(d) of this title to a member who no longer meets the qualifications for membership in the Selected Reserve solely because the member is unfit because of physical disability. Such notification may not be made if the disability is the result of the member's intentional misconduct, willful neglect, or willful failure to comply with standards and qualifications for retention established by the Secretary concerned or was incurred during a period of unauthorized absence.”
+Subsec. (c)(3). Pub. L. 103–337, §517, added par. (3) which read as follows: "Notwithstanding the provisions of section 4415(2) of the Defense Conversion Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 106 Stat. 2714), the Secretary concerned may, consistent with the other provisions of this section, provide the notification required by section 1331(d) of this title to a member who no longer meets the qualifications for membership in the Selected Reserve solely because the member is unfit because of physical disability. Such notification may not be made if the disability is the result of the member's intentional misconduct, willful neglect, or willful failure to comply with standards and qualifications for retention established by the Secretary concerned or was incurred during a period of unauthorized absence."
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–160, §564(c)(1), substituted “Secretary concerned” for “Secretary of a military department” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, §564(c)(1), substituted "Secretary concerned" for "Secretary of a military department" in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 103–160, §561(f)(4)(A), substituted “October 1, 1999” for “October 1, 1995”.
+Subsec. (a)(1)(B). Pub. L. 103–160, §561(f)(4)(A), substituted "October 1, 1999" for "October 1, 1995".
 
-Subsec. (a)(2). Pub. L. 103–160, §561(f)(4)(B), struck out “within one year after the date of the notification referred to in paragraph (1)” after “to the Secretary”.
+Subsec. (a)(2). Pub. L. 103–160, §561(f)(4)(B), struck out "within one year after the date of the notification referred to in paragraph (1)" after "to the Secretary".
 
-Subsec. (b). Pub. L. 103–160, §561(f)(4)(C), substituted “October 1, 1999” for “October 1, 1995”.
+Subsec. (b). Pub. L. 103–160, §561(f)(4)(C), substituted "October 1, 1999" for "October 1, 1995".
 
-Pub. L. 103–35 substituted “October 23, 1992,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1993”.
+Pub. L. 103–35 substituted "October 23, 1992," for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 1993".
 
-Subsec. (c)(1). Pub. L. 103–160, §564(c)(2), struck out “of the military department” after “The Secretary”.
+Subsec. (c)(1). Pub. L. 103–160, §564(c)(2), struck out "of the military department" after "The Secretary".
 
-Subsec. (e). Pub. L. 103–160, §564(c)(3), inserted before period at end “and by the Secretary of Transportation with respect to the Coast Guard”.
+Subsec. (e). Pub. L. 103–160, §564(c)(3), inserted before period at end "and by the Secretary of Transportation with respect to the Coast Guard".
 
 #### Effective Date of 2002 Amendment
 

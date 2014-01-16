@@ -20,7 +20,7 @@ Section 11343, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1434; Pub. L. 96–296,
 
 Section 11344, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1436; Pub. L. 96–448, title II, §228(a)–(c), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 97–261, §21(f), (g), Sept. 20, 1982, 96 Stat. 1123; Pub. L. 98–216, §2(4), Feb. 14, 1984, 98 Stat. 5, related to general procedures and conditions of approval of consolidations, mergers, and acquisitions of control. See sections 11324 and 14303 of this title.
 
-Section 11345, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1436; Pub. L. 96–448, title II, §228(d), Oct. 14, 1980, 94Stat. 1932, related to rail carrier procedures in consolidations, mergers, and acquisitions of control. See section 11325 of this title.
+Section 11345, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1436; Pub. L. 96–448, title II, §228(d), Oct. 14, 1980, 94 Stat. 1932, related to rail carrier procedures in consolidations, mergers, and acquisitions of control. See section 11325 of this title.
 
 Section 11345a, added Pub. L. 96–296, §27(a), July 1, 1980, 94 Stat. 819; amended Pub. L. 97–261, §21(c), (d), Sept. 20, 1982, 96 Stat. 1123, related to motor carrier procedures in consolidations, mergers, and acquisitions of control. See section 14303 of this title.
 

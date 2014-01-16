@@ -6,7 +6,7 @@ For the purpose of encouraging and promoting the marketing of agricultural commo
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–501 substituted “agricultural commodities” for “agricultural products” in four places and substituted “such commodities” for “said products”.
+<b>1978</b>—Pub. L. 95–501 substituted "agricultural commodities" for "agricultural products" in four places and substituted "such commodities" for "said products".
 
 #### World Livestock Market Price Information
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Jan. 4, 1889, ch. 20, (last sentence), 25 Stat. 640.
 
-The words “historical material” are substituted for “material for history” for clarity. The words “at their discretion” are omitted as unnecessary.
+The words "historical material" are substituted for "material for history" for clarity. The words "at their discretion" are omitted as unnecessary.
 

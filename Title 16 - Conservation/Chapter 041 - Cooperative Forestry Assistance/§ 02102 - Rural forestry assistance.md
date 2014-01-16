@@ -14,7 +14,7 @@ The Secretary may provide financial, technical, educational, and related assista
 
 &emsp;(5) protecting forest land from damage caused by fire, insects, disease, and damaging weather;
 
-&emsp;(6) managing the rural-land and urban-land interface to balance the use of forest resources in and adjacent to urban and community areas;
+&emsp;(6) managing the rural-land and urban-land interface to balance the use of forest resourcesin and adjacent to urban and community areas;
 
 &emsp;(7) identifying and managing recreational forest land resources;
 

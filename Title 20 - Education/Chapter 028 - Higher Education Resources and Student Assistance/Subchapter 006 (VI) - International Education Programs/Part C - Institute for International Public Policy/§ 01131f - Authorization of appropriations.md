@@ -6,9 +6,9 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–315, §620, substituted “such sums as may be necessary” for “$10,000,000”, “2009” for “1999”, and “five succeeding” for “4 succeeding”.
+<b>2008</b>—Pub. L. 110–315, §620, substituted "such sums as may be necessary" for "$10,000,000", "2009" for "1999", and "five succeeding" for "4 succeeding".
 
-<b>1998</b>—Pub. L. 105–244, §603(g), substituted “1999” for “1993”.
+<b>1998</b>—Pub. L. 105–244, §603(g), substituted "1999" for "1993".
 
 #### Effective Date of 1998 Amendment
 

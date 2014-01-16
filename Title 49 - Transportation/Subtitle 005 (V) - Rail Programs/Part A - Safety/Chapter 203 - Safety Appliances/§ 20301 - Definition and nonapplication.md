@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this chapter, “vehicle” means a car, locomotive, tender, or similar vehicle.
+Definition.—In this chapter, "vehicle" means a car, locomotive, tender, or similar vehicle.
 
 (b)
 
@@ -32,7 +32,7 @@ Pub. L. 103–272
 
 20301(a)
 
-45:8 (“trains, locomotives, tenders, cars, and similar vehicles”).
+45:8 ("trains, locomotives, tenders, cars, and similar vehicles").
 
 &nbsp;
 
@@ -52,7 +52,7 @@ Mar. 2, 1903, ch. 976, §1 (words after 23d comma), 32 Stat. 943.
 
 Subsection (a) is added to avoid repeating the substance of the definition throughout this chapter.
 
-In subsection (b), the words before clause (1) are substituted for “<i>Provided</i>, That nothing in sections 1 to 7 of this title shall apply to” in 45:6 because 45:9, 11, and 16 provide that 45:9 and 11–16 apply to the same vehicles and trains as 45:1–7 apply to. In clause (1), the word “coal” is added for clarity because of the decision of the Supreme Court in <i>Baltimore \& Ohio Railway Co</i>. v. <i>Jackson</i>, 353 U.S. 325, 333 (1957) and the legislative history of 45:6 (proviso). See 24 Cong. Rec. 1477 (1893). The text of 45:8 (words after last comma) is omitted as unnecessary because of the definition of “railroad” in section 20102 of the revised title.
+In subsection (b), the words before clause (1) are substituted for "<i>Provided</i>, That nothing in sections 1 to 7 of this title shall apply to" in 45:6 because 45:9, 11, and 16 provide that 45:9 and 11–16 apply to the same vehicles and trains as 45:1–7 apply to. In clause (1), the word "coal" is added for clarity because of the decision of the Supreme Court in <i>Baltimore \& Ohio Railway Co</i>. v. <i>Jackson</i>, 353 U.S. 325, 333 (1957) and the legislative history of 45:6 (proviso). See 24 Cong. Rec. 1477 (1893). The text of 45:8 (words after last comma) is omitted as unnecessary because of the definition of "railroad" in section 20102 of the revised title.
 
 #### Pub. L. 104–287
 

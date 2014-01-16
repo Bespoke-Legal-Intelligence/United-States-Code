@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish and carry out a pediatric specialty loan repayment program under which the eligible individual agrees to be employed full-time for a specified period (which shall not be less than 2 years) in providing pediatric medical subspecialty, pediatric surgical specialty, or child and adolescent mental and behavioral health care, including substance abuse prevention and treatment services.
+The Secretary shall establish and carry out a pediatric specialty loan repayment program under which the eligible individual agrees to be employed full-time for a specified period (whichshall not be less than 2 years) in providing pediatric medical subspecialty, pediatric surgical specialty, or child and adolescent mental and behavioral health care, including substance abuse prevention and treatment services.
 
 #### (b) Program administration
 
@@ -22,7 +22,7 @@ Through the program established under this section, the Secretary shall enter in
 
 #### (A) Pediatric medical specialists and pediatric surgical specialists
 
-&emsp;&emsp;For purposes of contracts with respect to pediatric medical specialists and pediatric surgical specialists, the term “qualified health professional” means a licensed physician who—
+&emsp;&emsp;For purposes of contracts with respect to pediatric medical specialists and pediatric surgical specialists, the term "qualified health professional" means a licensed physician who—
 
 &emsp;&emsp;&emsp;(i) is entering or receiving training in an accredited pediatric medical subspecialty or pediatric surgical specialty residency or fellowship; or
 
@@ -30,7 +30,7 @@ Through the program established under this section, the Secretary shall enter in
 
 #### (B) Child and adolescent mental and behavioral health
 
-&emsp;&emsp;For purposes of contracts with respect to child and adolescent mental and behavioral health care, the term “qualified health professional” means a health care professional who—
+&emsp;&emsp;For purposes of contracts with respect to child and adolescent mental and behavioral health care, the term "qualified health professional" means a health care professional who—
 
 &emsp;&emsp;&emsp;(i) has received specialized training or clinical experience in child and adolescent mental health in psychiatry, psychology, school psychology, behavioral pediatrics, psychiatric nursing, social work, school social work, substance abuse disorder prevention and treatment, marriage and family therapy, school counseling, or professional counseling;
 

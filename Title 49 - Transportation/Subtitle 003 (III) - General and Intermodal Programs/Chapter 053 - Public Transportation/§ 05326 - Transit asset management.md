@@ -6,11 +6,11 @@ Definitions.—In this section the following definitions shall apply:
 
 &emsp;(1)
 
-Capital asset.—The term “capital asset” includes equipment, rolling stock, infrastructure, and facilities for use in public transportation and owned or leased by a recipient or subrecipient of Federal financial assistance under this chapter.
+Capital asset.—The term "capital asset" includes equipment, rolling stock, infrastructure, and facilities for use in public transportation and owned or leased by a recipient or subrecipient of Federal financial assistance under this chapter.
 
 &emsp;(2)
 
-Transit asset management plan.—The term “transit asset management plan” means a plan developed by a recipient of funding under this chapter that—
+Transit asset management plan.—The term "transit asset management plan" means a plan developed by a recipient of funding under this chapter that—
 
 &emsp;&emsp;(A) includes, at a minimum, capital asset inventories and condition assessments, decision support tools, and investment prioritization; and
 
@@ -18,13 +18,13 @@ Transit asset management plan.—The term “transit asset management plan” me
 
 &emsp;(3)
 
-Transit asset management system.—The term “transit asset management system” means a strategic and systematic process of operating, maintaining, and improving public transportation capital assets effectively throughout the life cycle of such assets.
+Transit asset management system.—The term "transit asset management system" means a strategic and systematic process of operating, maintaining, and improving public transportation capital assets effectively throughout the life cycle of such assets.
 
 (b)
 
 Transit Asset Management System.—The Secretary shall establish and implement a national transit asset management system, which shall include—
 
-&emsp;(1) a definition of the term “state of good repair” that includes objective standards for measuring the condition of capital assets of recipients, including equipment, rolling stock, infrastructure, and facilities;
+&emsp;(1) a definition of the term "state of good repair" that includes objective standards for measuring the condition of capital assets of recipients, including equipment, rolling stock, infrastructure, and facilities;
 
 &emsp;(2) a requirement that recipients and subrecipients of Federal financial assistance under this chapter develop a transit asset management plan;
 

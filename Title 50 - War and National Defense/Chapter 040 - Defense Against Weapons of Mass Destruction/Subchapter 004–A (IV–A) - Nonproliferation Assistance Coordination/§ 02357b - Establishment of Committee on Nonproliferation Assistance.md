@@ -34,5 +34,5 @@ The President shall designate an official to direct the coordination mechanism e
 
 (Pub. L. 107–228, div. B, title XIII, §1334, Sept. 30, 2002, 116 Stat. 1449.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “department's”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "department's".</i>
 

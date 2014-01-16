@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each Federal agency and each museum which has possession or control over holdings or collections of Native American human remains and associated funerary objects shall compile an inventory of such items and, to the extent possible based on information possessed by such museumor Federal agency, identify the geographical and cultural affiliation of such item.<sup>1</sup>
+Each Federal agency and each museum which has possession or control over holdings or collections of Native American human remains and associated funerary objects shall compile an inventory of such items and, to the extent possible based on information possessed by such museum or Federal agency, identify the geographical and cultural affiliation of such item.<sup>1</sup>
 
 #### (b) Requirements
 
@@ -14,7 +14,7 @@ Each Federal agency and each museum which has possession or control over holding
 
 &emsp;(C) made available both during the time they are being conducted and afterward to a review committee established under section 3006 of this title.
 
-(2) Upon request by an Indian tribe or Native Hawaiian organization which receives or should have received notice, a museum or Federal agency shall supply additional available documentation to supplement the information required by subsection (a) of this section. The term “documentation” means a summary of existing museum or Federal agency records, including inventories or catalogues, relevant studies, or other pertinent data for the limited purpose of determining the geographical origin, cultural affiliation, and basic facts surrounding acquisition and accession of Native American human remains and associated funerary objects subject to this section. Such term does not mean, and this chapter shall not be construed to be an authorization for, the initiation of new scientific studies of such remains and associated funerary objects or other means of acquiring or preserving additional scientific information from such remains and objects.
+(2) Upon request by an Indian tribe or Native Hawaiian organization which receives or should have received notice, a museum or Federal agency shall supply additional available documentation to supplement the information required by subsection (a) of this section. The term "documentation" means a summary of existing museum or Federal agency records, including inventories or catalogues, relevant studies, or other pertinent data for the limited purpose of determining the geographical origin, cultural affiliation, and basic facts surrounding acquisition and accession of Native American human remains and associated funerary objects subject to this section. Such term does not mean, and this chapter shall not be construed to be an authorization for, the initiation of new scientific studies of such remains and associated funerary objects or other means of acquiring or preserving additional scientific information from such remains and objects.
 
 #### (c) Extension of time for inventory
 
@@ -36,9 +36,13 @@ Any museum which has made a good faith effort to carry out an inventory and iden
 
 #### (e) Inventory
 
-For the purposes of this section, the term “inventory” means a simple itemized list that summarizes the information called for by this section.
+For the purposes of this section, the term "inventory" means a simple itemized list that summarizes the information called for by this section.
 
 (Pub. L. 101–601, §5, Nov. 16, 1990, 104 Stat. 3052.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “items.”</i>
+#### References in Text
+
+This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "items."</i>
 

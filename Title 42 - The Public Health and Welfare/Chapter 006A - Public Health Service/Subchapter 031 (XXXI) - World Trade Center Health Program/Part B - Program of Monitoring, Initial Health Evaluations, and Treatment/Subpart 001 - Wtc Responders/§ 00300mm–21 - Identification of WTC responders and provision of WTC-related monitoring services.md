@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this subchapter, the term “WTC responder” means any of the following individuals, subject to paragraph (4):
+&emsp;For purposes of this subchapter, the term "WTC responder" means any of the following individuals, subject to paragraph (4):
 
 #### (A) Currently identified responder
 

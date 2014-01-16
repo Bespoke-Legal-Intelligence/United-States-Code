@@ -14,7 +14,7 @@ Before opening any account under an open end consumer credit plan, the creditor 
 
 &emsp;(5) Identification of other charges which may be imposed as part of the plan, and their method of computation, in accordance with regulations of the Bureau.
 
-&emsp;(6) In cases where the credit is or will be secured, a statement that a security interest has been or will be taken in (A) the property purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
+&emsp;(6) In cases where the credit is or will be secured, a statement that a security interest hasbeen or will be taken in (A) the property purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
 &emsp;(7) A statement, in a form prescribed by regulations of the Bureau of the protection provided by sections 1666 and 1666i of this title to an obligor and the creditor's responsibilities under sections 1666a and 1666i of this title. With respect to one billing cycle per calendar year, at intervals of not less than six months or more than eighteen months, the creditor shall transmit such statement to each obligor to whom the creditor is required to transmit a statement pursuant to subsection (b) of this section for such billing cycle.
 
@@ -48,15 +48,15 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(10) The address to be used by the creditor for the purpose of receiving billing inquiries from the obligor.
 
-&emsp;(11)(A) A written statement in the following form: “Minimum Payment Warning: Making only the minimum payment will increase the amount of interest you pay and the time it takes to repay your balance.”, or such similar statement as is established by the Bureau pursuant to consumer testing.
+&emsp;(11)(A) A written statement in the following form: "Minimum Payment Warning: Making only the minimum payment will increase the amount of interest you pay and the time it takes to repay your balance.", or such similar statement as is established by the Bureau pursuant to consumer testing.
 
 &emsp;(B) Repayment information that would apply to the outstanding balance of the consumer under the credit plan, including—
 
 &emsp;&emsp;(i) the number of months (rounded to the nearest month) that it would take to pay the entire amount of that balance, if the consumer pays only the required minimum monthly payments and if no further advances are made;
 
-&emsp;&emsp;(ii) the total cost to the consumer, including interest and principal payments, of paying that balance in full, if the consumerpays only the required minimum monthly payments and if no further advances are made;
+&emsp;&emsp;(ii) the total cost to the consumer, including interest and principal payments, of paying that balance in full, if the consumer pays only the required minimum monthly payments and if no further advances are made;
 
-&emsp;&emsp;(iii) the monthly payment amount that would be required for the consumer to eliminate the outstanding balance in 36 months, if no further advances are made, and the total cost to the consumer, including interest and principal payments, of paying that balance in full if the consumer pays the balance over 36 months; and
+&emsp;&emsp;(iii) the monthly payment amount that would be required for the consumer to eliminate the outstanding balance in 36 months,if no further advances are made, and the total cost to the consumer, including interest and principal payments, of paying that balance in full if the consumer pays the balance over 36 months; and
 
 &emsp;&emsp;(iv) a toll-free telephone number at which the consumer may receive information about accessing credit counseling and debt management services.
 
@@ -118,7 +118,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (ii) Annual and other fees
 
-&emsp;&emsp;&emsp;(I) Any annual fee, other periodic fee, or membership fee imposed for the issuanceor availability of a credit card, including any account maintenance fee or other charge imposed based on activity or inactivity for the account during the billing cycle.
+&emsp;&emsp;&emsp;(I) Any annual fee, other periodic fee, or membership fee imposed for the issuance or availability of a credit card, including any account maintenance fee or other charge imposed based on activity or inactivity for the account during the billing cycle.
 
 &emsp;&emsp;&emsp;(II) Any minimum finance charge imposed for each period during which any extension of credit which is subject to a finance charge is outstanding.
 
@@ -128,7 +128,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(I) The date by which or the period within which any credit extended under such credit plan for purchases of goods or services must be repaid to avoid incurring a finance charge, and, if no such period is offered, such fact shall be clearly stated.
 
-&emsp;&emsp;&emsp;(II) If the length of such “grace period” varies, the card issuer may disclose the range of days in the grace period, the minimum number of days in the grace period, or the average number of days in the grace period, if the disclosure is identified as such.
+&emsp;&emsp;&emsp;(II) If the length of such "grace period" varies, the card issuer may disclose the range of days in the grace period, the minimum number of days in the grace period, or the average number of days in the grace period, if the disclosure is identified as such.
 
 #### (iv) Balance calculation method
 
@@ -276,11 +276,11 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(iii) a clear and conspicuous disclosure of the date the application or solicitation was printed; and
 
-&emsp;&emsp;&emsp;(iv) a disclosure, in a conspicuous and prominent location on the application or solicitation, of a toll free telephone number or a mailing address at which the applicant may contact the creditor to obtainany change in the information provided in the application or solicitation since it was printed.
+&emsp;&emsp;&emsp;(iv) a disclosure, in a conspicuous and prominent location on the application or solicitation, of a toll free telephone number or a mailing address at which the applicant may contact the creditor to obtain any change in the information provided in the application or solicitation since it was printed.
 
 #### (D) Issuers of charge cards which provide access to open end consumer credit plans
 
-&emsp;&emsp;If a charge card permits the card holder to receive an extension of credit under an open end consumer credit plan, which is not maintained by the charge card issuer, the charge card issuer may provide the information described in subparagraphs (A) and (B) in the form required by such subparagraphs in lieu of the information required to be provided under paragraph (1), (2), or (3) with respect to any credit extended under such plan, if the charge card issuer discloses clearly and conspicuously to the consumer in the application or solicitation that—
+&emsp;&emsp;If a charge card permits the card holder to receive an extension of credit under an openend consumer credit plan, which is not maintained by the charge card issuer, the charge card issuer may provide the information described in subparagraphs (A) and (B) in the form required by such subparagraphs in lieu of the information required to be provided under paragraph (1), (2), or (3) with respect to any credit extended under such plan, if the charge card issuer discloses clearly and conspicuously to the consumer in the application or solicitation that—
 
 &emsp;&emsp;&emsp;(i) the charge card issuer will make an independent decision as to whether to issue the card;
 
@@ -292,19 +292,19 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (E) Charge card defined
 
-&emsp;&emsp;For the purposes of this subsection, the term “charge card” means a card, plate, or other single credit device that may be used from time to time to obtain credit which is not subject to a finance charge.
+&emsp;&emsp;For the purposes of this subsection, the term "charge card" means a card, plate, or other single credit device that may be used from time to time to obtain credit which is not subject to a finance charge.
 
 #### (5) Regulatory authority of the Bureau
 
 &emsp;The Bureau may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d) of this section, and modify any disclosure of information required by this subsection or subsection (d) of this section, in any application to open a credit card account for any person under an open end consumer credit plan or any application to open a charge card account for any person, or a solicitation to open any such account without requiring an application, if the Bureau determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
 
-#### (6) Additional notice concerning “introductory rates”
+#### (6) Additional notice concerning "introductory rates"
 
 #### (A) In general
 
 &emsp;&emsp;Except as provided in subparagraph (B), an application or solicitation to open a credit card account and all promotional materials accompanying such application or solicitation for which a disclosure is required under paragraph (1), and that offers a temporary annual percentage rate of interest, shall—
 
-&emsp;&emsp;&emsp;(i) use the term “introductory” in immediate proximity to each listing of the temporary annual percentage rate applicable to such account, which term shall appear clearly and conspicuously;
+&emsp;&emsp;&emsp;(i) use the term "introductory" in immediate proximity to each listing of the temporary annual percentage rate applicable to such account, which term shall appear clearly and conspicuously;
 
 &emsp;&emsp;&emsp;(ii) if the annual percentage rate of interest that will apply after the end of the temporary rate period will be a fixed rate, state in a clear and conspicuous manner in a prominent location closely proximate to the first listing of the temporary annual percentage rate (other than a listing of the temporary annual percentage rate in the tabular format described in section 1632(c) of this title), the time period in which the introductory period will end and the annual percentage rate that will apply after the end of the introductory period; and
 
@@ -330,9 +330,9 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;In this paragraph—
 
-&emsp;&emsp;&emsp;(i) the terms “temporary annual percentage rate of interest” and “temporaryannual percentage rate” mean any rate of interest applicable to a credit card account for an introductory period of less than 1 year, if that rate is less than an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation; and
+&emsp;&emsp;&emsp;(i) the terms "temporary annual percentage rate of interest" and "temporary annual percentage rate" mean any rate of interest applicable to a credit card account for an introductory period of less than 1 year, if that rate is less than an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation; and
 
-&emsp;&emsp;&emsp;(ii) the term “introductory period” means the maximum time period for which the temporary annual percentage rate may be applicable.
+&emsp;&emsp;&emsp;(ii) the term "introductory period" means the maximum time period for which the temporary annual percentage rate may be applicable.
 
 #### (E) Relation to other disclosure requirements
 
@@ -360,9 +360,9 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) the term “Internet” means the international computer network of both Federal and non-Federal interoperable packet switched data networks; and
+&emsp;&emsp;&emsp;(i) the term "Internet" means the international computer network of both Federal and non-Federal interoperable packet switched data networks; and
 
-&emsp;&emsp;&emsp;(ii) the term “interactive computer service” means any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server, including specifically a service or system that provides access to the Internet and such systems operated or services offered by libraries or educational institutions.
+&emsp;&emsp;&emsp;(ii) the term "interactive computer service" means any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server, including specifically a service or system that provides access to the Internet and such systems operated or services offered by libraries or educational institutions.
 
 #### (8) Applications from underage consumers
 
@@ -432,7 +432,7 @@ If the amount of any fee required to be disclosed by a credit or charge card iss
 
 #### (5) Bureau definition of substantial decrease in coverage or service
 
-&emsp;The Bureau shall define, in regulations, what constitutes a “substantial decrease in coverage or service” for purposes of paragraph (1).
+&emsp;The Bureau shall define, in regulations, what constitutes a "substantial decrease in coverage or service" for purposes of paragraph (1).
 
 #### (h) Prohibition on certain actions for failure to incur finance charges
 
@@ -478,7 +478,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (1) In general
 
-&emsp;In the case of any credit card account under an open end consumer credit plan under which an over-the-limit fee may be imposed by the creditor for any extension of credit in excess of the amount of credit authorized to be extended under such account, no such fee shall be charged, unless the consumer has expressly elected to permit the creditor, with respect to such account, to complete transactions involving the extension of credit under such account in excess of the amount of credit authorized.
+&emsp;In the case of any credit card account under an open end consumer credit plan under which an over-the-limit fee may be imposed by the creditor for any extension of credit in excess of the amount of credit authorized to be extended under such account, no such fee shallbe charged, unless the consumer has expressly elected to permit the creditor, with respect to such account, to complete transactions involving the extension of credit under such account in excess of the amount of credit authorized.
 
 #### (2) Disclosure by creditor
 
@@ -512,11 +512,11 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 With respect to a credit card account under an open end consumer credit plan, the creditor may not impose a separate fee to allow the obligor to repay an extension of credit or finance charge, whether such repayment is made by mail, electronic transfer, telephone authorization, or other means, unless such payment involves an expedited service by a service representative of the creditor.
 
-#### (m) Use of term “fixed rate”
+#### (m) Use of term "fixed rate"
 
-With respect to the terms of any credit card account under an open end consumer credit plan, the term “fixed”, when appearing in conjunction with a reference to the annual percentage rate or interest rate applicable with respect to such account, may only be used to refer to an annual percentage rate or interest rate that will not change or vary for any reason over the period specified clearly and conspicuously in the terms of the account.
+With respect to the terms of any credit card account under an open end consumer credit plan, the term "fixed", when appearing in conjunction with a reference to the annual percentage rate or interest rate applicable with respect to such account, may only be used to refer to an annual percentage rate or interest rate that will not change or vary for any reason over the period specified clearly and conspicuously in the terms of the account.
 
-#### (n) Standards applicable to initial issuance of subprime or “fee harvester” cards
+#### (n) Standards applicable to initial issuance of subprime or "fee harvester" cards
 
 #### (1) In general
 
@@ -538,7 +538,7 @@ With respect to the terms of any credit card account under an open end consumer 
 
 #### (p) Parental approval required to increase credit lines for accounts for which parent is jointly liable
 
-No increase may be made in the amount of credit authorized to be extended under a creditcard account for which a parent, legal guardian, or spouse of the consumer, or any other individual has assumed joint liability for debts incurred by the consumer in connection with the account before the consumer attains the age of 21, unless that parent, guardian, or spouse approves in writing, and assumes joint liability for, such increase.
+No increase may be made in the amount of credit authorized to be extended under a credit card account for which a parent, legal guardian, or spouse of the consumer, or any other individual has assumed joint liability for debts incurred by the consumer in connection with the account before the consumer attains the age of 21, unless that parent, guardian, or spouse approves in writing, and assumes joint liability for, such increase.
 
 #### (r) <sup>2</sup> College card agreements
 
@@ -548,7 +548,7 @@ No increase may be made in the amount of credit authorized to be extended under 
 
 #### (A) College affinity card
 
-&emsp;&emsp;The term “college affinity card” means a credit card issued by a credit card issuer under an open end consumer credit plan in conjunction with an agreement between the issuer and an institution of higher education, or an alumni organization or foundation affiliated with or related to such institution, under which such cards are issued to college students who have an affinity with such institution, organization and—
+&emsp;&emsp;The term "college affinity card" means a credit card issued by a credit card issuer under an open end consumer credit plan in conjunction with an agreement between the issuer and an institution of higher education, or an alumni organization or foundation affiliated with or related to such institution, under which such cards are issued to college students who have an affinity with such institution, organization and—
 
 &emsp;&emsp;&emsp;(i) the creditor has agreed to donate a portion of the proceeds of the credit card to the institution, organization, or foundation (including a lump sum or 1-time payment of money for access);
 
@@ -558,15 +558,15 @@ No increase may be made in the amount of credit authorized to be extended under 
 
 #### (B) College student credit card account
 
-&emsp;&emsp;The term “college student credit card account” means a credit card account under an open end consumer credit plan established or maintained for or on behalf of any college student.
+&emsp;&emsp;The term "college student credit card account" means a credit card account under an open end consumer credit plan established or maintained for or on behalf of any college student.
 
 #### (C) College student
 
-&emsp;&emsp;The term “college student” means an individual who is a full-time or a part-time student attending an institution of higher education.
+&emsp;&emsp;The term "college student" means an individual who is a full-time or a part-time student attending an institution of higher education.
 
 #### (D) Institution of higher education
 
-&emsp;&emsp;The term “institution of higher education” has the same meaning as in section <sup>3</sup> 1001 and 1002 of title 20.
+&emsp;&emsp;The term "institution of higher education" has the same meaning as in section <sup>3</sup> 1001 and 1002 of title 20.
 
 #### (2) Reports by creditors
 
@@ -600,19 +600,19 @@ No increase may be made in the amount of credit authorized to be extended under 
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
 <b>2009</b>—Subsec. (b)(11). Pub. L. 111–24, §201(a), amended par. (11) generally, revising the minimum payment disclosures required from creditors.
 
-Subsec. (b)(12). Pub. L. 111–24, §202, amended par. (12) generally. Prior to amendment, par. (12) read as follows: “If a late payment fee is to be imposed due to the failure of the obligor to make payment on or before arequired payment due date, the following shall be stated clearly and conspicuously on the billing statement:
+Subsec. (b)(12). Pub. L. 111–24, §202, amended par. (12) generally. Prior to amendment, par. (12) read as follows: "If a late payment fee is to be imposed due to the failure of the obligor to make payment on or before a required payment due date, the following shall be stated clearly and conspicuously on the billing statement:
 
-&emsp;“(A) The date on which that payment is due or, if different, the earliest date on which a late payment fee may be charged.
+&emsp;"(A) The date on which that payment is due or, if different, the earliest date on which a late payment fee may be charged.
 
-&emsp;“(B) The amount of the late payment fee to be imposed if payment is made after such date.”
+&emsp;"(B) The amount of the late payment fee to be imposed if payment is made after such date."
 
 Subsec. (c)(8). Pub. L. 111–24, §301, added par. (8).
 
-Subsec. (d)(1). Pub. L. 111–24, §203(3), substituted “A card issuer that has changed or amended any term of the account since the last renewal that has not been previously disclosed or” for “Except as provided in paragraph (2), a card issuer” in introductory provisions.
+Subsec. (d)(1). Pub. L. 111–24, §203(3), substituted "A card issuer that has changed or amended any term ofthe account since the last renewal that has not been previously disclosed or" for "Except as provided in paragraph (2), a card issuer" in introductory provisions.
 
 Subsec. (d)(2), (3). Pub. L. 111–24, §203(1), (2), redesignated par. (3) as (2) and struck out former par. (2) which provided a special rule for certain disclosures.
 
@@ -680,39 +680,39 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 111–24 effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as a note under section 1602 of this title.
 
-Pub. L. 111–24, title I, §101(a)(2), May 22, 2009, 123 Stat. 1736, provided that: “Notwithstanding section 3 \[see Effective Date of 2009 Amendment note set out under section 1602 of this title\], section 127(i) of the Truth in Lending Act \[15 U.S.C. 1637(i)\], as added by this subsection, shall become effective 90 days after the date of enactment of this Act \[May 22, 2009\].”
+Pub. L. 111–24, title I, §101(a)(2), May 22, 2009, 123 Stat. 1736, provided that: "Notwithstanding section 3 \[see Effective Date of 2009 Amendment note set out under section 1602 of this title\], section 127(i) of the Truth in Lending Act \[15 U.S.C. 1637(i)\], as added by this subsection, shall become effective 90 days after the date of enactment of this Act \[May 22, 2009\]."
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–8, title XIII, §1301(b)(2), Apr. 20, 2005, 119 Stat. 207, provided that: “Section 127(b)(11) of the Truth in Lending Act \[subsec. (b)(11) of this section\], as added by subsection (a) of this section, and the regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
+Pub. L. 109–8, title XIII, §1301(b)(2), Apr. 20, 2005, 119 Stat. 207, provided that: "Section 127(b)(11) of the Truth in Lending Act \[subsec. (b)(11) of this section\], as added by subsection (a) of this section, and the regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
 
-&emsp;“(A) 18 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
+&emsp;"(A) 18 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
 
-&emsp;“(B) 12 months after the publication of such final regulations by the Board \[of Governors of the Federal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\].”
+&emsp;"(B) 12 months after the publication of such final regulations by the Board \[of Governors of the Federal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\]."
 
-Pub. L. 109–8, title XIII, §1303(b)(2), Apr. 20, 2005, 119 Stat. 211, provided that: “Section 127(c)(6) of the Truth in Lending Act \[subsec. (c)(6) of this section\], as added by this section, and regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
+Pub. L. 109–8, title XIII, §1303(b)(2), Apr. 20, 2005, 119 Stat. 211, provided that: "Section 127(c)(6) of the Truth in Lending Act \[subsec. (c)(6) of this section\], as added by this section, and regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
 
-&emsp;“(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
+&emsp;"(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
 
-&emsp;“(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\].”
+&emsp;"(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\]."
 
-Pub. L. 109–8, title XIII, §1304(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that: “The amendment made by subsection (a) \[amending this section\] and the regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
+Pub. L. 109–8, title XIII, §1304(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that: "The amendment made by subsection (a) \[amending this section\] and the regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
 
-&emsp;“(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
+&emsp;"(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
 
-&emsp;“(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\].”
+&emsp;"(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\]."
 
-Pub. L. 109–8, title XIII, §1305(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that: “The amendment made by subsection (a) \[amending this section\] and regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
+Pub. L. 109–8, title XIII, §1305(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that: "The amendment made by subsection (a) \[amending this section\] and regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
 
-&emsp;“(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
+&emsp;"(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
 
-&emsp;“(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\].”
+&emsp;"(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\]."
 
-Pub. L. 109–8, title XIII, §1306(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that: “The amendment made by subsection (a) \[amending this section\] and regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
+Pub. L. 109–8, title XIII, §1306(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that: "The amendment made by subsection (a) \[amending this section\] and regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
 
-&emsp;“(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
+&emsp;"(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
 
-&emsp;“(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\].”
+&emsp;"(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -734,69 +734,69 @@ Amendment by section 415 of Pub. L. 93–495 effective Oct. 28, 1974, see sectio
 
 Pub. L. 111–24, title II, §201(c), May 22, 2009, 123 Stat. 1745, provided that:
 
-“(1)
+"(1)
 
 In general.—Not later than 6 months after the date of enactment of this Act \[May 22, 2009\], the Board \[of Governors of the Federal Reserve System\] shall issue guidelines, by rule, in consultation with the Secretary of the Treasury, for the establishment and maintenance by creditors of a toll-free telephone number for purposes of providing information about accessing credit counseling and debt management services, as required under section 127(b)(11)(B)(iv) of the Truth in Lending Act \[15 U.S.C. 1637(b)(11)(B)(iv)\], as added by this section.
 
-“(2)
+"(2)
 
-Approved agencies.—Guidelines issued under this subsection shall ensure that referrals provided by the toll-free number referred to in paragraph (1) include only those nonprofit budget and credit counseling agencies approved by a United States bankruptcy trustee pursuant to section 111(a) of title 11, United States Code.”
+Approved agencies.—Guidelines issued under this subsection shall ensure that referrals provided by the toll-free number referred to in paragraph (1) include only those nonprofit budget and credit counseling agencies approved by a United States bankruptcy trustee pursuant to section 111(a) of title 11, United States Code."
 
-Pub. L. 109–8, title XIII, §1301(b)(1), Apr. 20, 2005, 119 Stat. 207, provided that: “The Board of Governors of the Federal Reserve System (hereafter in this title \[amending this section and sections 1637a, 1638, 1664, and 1665b of this title and enacting provisions set out as notes under this section and section 1637a of this title\] referred to as the ‘Board’) shall promulgate regulations implementing the requirements of section 127(b)(11) of the Truth in Lending Act \[subsec. (b)(11) of this section\], as added by subsection (a) of this section.”
+Pub. L. 109–8, title XIII, §1301(b)(1), Apr. 20, 2005, 119 Stat. 207, provided that: "The Board of Governors of the Federal Reserve System (hereafter in this title \[amending this section and sections 1637a, 1638, 1664, and 1665b of this title and enacting provisions set out as notes under this section and section 1637a of this title\] referred to as the 'Board') shall promulgate regulations implementing the requirements of section 127(b)(11) of the Truth in Lending Act \[subsec. (b)(11) of this section\], as added by subsection (a) of this section."
 
-Pub. L. 109–8, title XIII, §1303(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: “The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(c)(6) of the Truth in Lending Act \[subsec. (c)(6) of this section\], as added by this section.”
+Pub. L. 109–8, title XIII, §1303(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: "The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(c)(6) of the Truth in Lending Act \[subsec. (c)(6) of this section\], as added by this section."
 
-Pub. L. 109–8, title XIII, §1304(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: “The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(c)(7) of the Truth in Lending Act \[subsec. (c)(7) of this section\], as added by this section.”
+Pub. L. 109–8, title XIII, §1304(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: "The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(c)(7) of the Truth in Lending Act \[subsec. (c)(7) of this section\], as added by this section."
 
-Pub. L. 109–8, title XIII, §1305(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: “The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(b)(12) of the Truth in Lending Act \[subsec. (b)(12) of this section\], as added by this section.”
+Pub. L. 109–8, title XIII, §1305(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: "The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(b)(12) of the Truth in Lending Act \[subsec. (b)(12) of this section\], as added by this section."
 
-Pub. L. 109–8, title XIII, §1306(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: “The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(h) of the Truth in Lending Act \[subsec. (h) of this section\], as added by this section.”
+Pub. L. 109–8, title XIII, §1306(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: "The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(h) of the Truth in Lending Act \[subsec. (h) of this section\], as added by this section."
 
 Pub. L. 109–8, title XIII, §1309, Apr. 20, 2005, 119 Stat. 213, provided that:
 
-“(a)
+"(a)
 
-Regulations.—Not later than 6 months after the date of enactment of this Act \[Apr. 20, 2005\], the Board \[of Governors of the Federal Reserve System\], in consultation with the other Federal banking agencies (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]), the National Credit Union Administration Board, and the Federal Trade Commission, shall promulgate regulations to provide guidance regarding the meaning of the term ‘clear and conspicuous’, as used in subparagraphs (A), (B), and (C) of section 127(b)(11) and clauses (ii) and (iii) of section 127(c)(6)(A) of the Truth in Lending Act \[subsecs. (b)(11) and (c)(6)(A) of this section\].
+Regulations.—Not later than 6 months after the date of enactment of this Act \[Apr. 20, 2005\], the Board \[of Governors of the Federal Reserve System\], in consultation with the other Federal banking agencies (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]), the National Credit Union Administration Board, and the Federal Trade Commission, shall promulgate regulations to provide guidance regarding the meaning of the term 'clear and conspicuous', as used in subparagraphs (A), (B), and (C) of section 127(b)(11) and clauses (ii) and (iii) of section 127(c)(6)(A) of the Truth in Lending Act \[subsecs. (b)(11) and (c)(6)(A) of this section\].
 
-“(b)
+"(b)
 
 Examples.—Regulations promulgated under subsection (a) shall include examples of clear and conspicuous model disclosures for the purposes of disclosures required by the provisions of the Truth in Lending Act \[15 U.S.C. 1601 et seq.\] referred to in subsection (a).
 
-“(c)
+"(c)
 
-Standards.—In promulgating regulations under this section, the Board \[of Governors of the Federal Reserve System\] shall ensure that the clear and conspicuous standard required for disclosures made under the provisions of the Truth in Lending Act referred to in subsection (a) can be implemented in a manner which results in disclosures which are reasonably understandable and designed to call attention to the nature and significance of the information in the notice.”
+Standards.—In promulgating regulations under this section, the Board \[of Governors of the Federal Reserve System\] shall ensure that the clear and conspicuous standard required for disclosures made under the provisions of the Truth in Lending Act referred to in subsection (a) can be implemented in a manner which results in disclosures which are reasonably understandable and designed to call attention to the nature and significance of the information in the notice."
 
 #### Regulations; Effective Date
 
 For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
-Pub. L. 100–583, §7, Nov. 3, 1988, 102 Stat. 2968, provided that: “Any regulation required to be prescribed by the Board under the amendments made by section 2 \[amending this section and section 1632 of this title\] shall—
+Pub. L. 100–583, §7, Nov. 3, 1988, 102 Stat. 2968, provided that: "Any regulation required to be prescribed by the Board under the amendments made by section 2 \[amending this section and section 1632 of this title\] shall—
 
-&emsp;“(1) take effect not later than the end of the 150-day period beginning on the date of the enactment of this Act \[Nov. 3, 1988\]; and
+&emsp;"(1) take effect not later than the end of the 150-day period beginning on the date of the enactment of this Act \[Nov. 3, 1988\]; and
 
-&emsp;“(2) apply only with respect to applications, solicitations, and other material distributed after the end of the 150-day period beginning after the end of the period referred to in paragraph (1), except that—
+&emsp;"(2) apply only with respect to applications, solicitations, and other material distributed after the end of the 150-day period beginning after the end of the period referred to in paragraph (1), except that—
 
-&emsp;&emsp;“(A) in the case of applications and solicitations subject to paragraph (3) or (4)(C) of section 127(c) of the Truth in Lending Act \[15 U.S.C. 1637(c)(3), (4)(C)\] (as added by section 2), such period shall be 240 days; and
+&emsp;&emsp;"(A) in the case of applications and solicitations subject to paragraph (3) or (4)(C) of section 127(c) of the Truth in Lending Act \[15 U.S.C. 1637(c)(3), (4)(C)\] (as added by section 2), such period shall be 240 days; and
 
-&emsp;&emsp;“(B) any card issuer may, at its option, comply with the requirements of the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1601 of this title\] prior to the applicable effective date, in which case the amendments made by this Act shall be fully applicable to such card issuer.”
+&emsp;&emsp;"(B) any card issuer may, at its option, comply with the requirements of the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1601 of this title\] prior to the applicable effective date, in which case the amendments made by this Act shall be fully applicable to such card issuer."
 
 #### Reports to Congress
 
 Pub. L. 111–24, title III, §305(b), May 22, 2009, 123 Stat. 1750, provided that:
 
-“(1)
+"(1)
 
 Study.—The Comptroller General of the United States shall, from time to time, review the reports submitted by creditors under section 127(r) of the Truth in Lending Act \[15 U.S.C. 1637(r)\], as added by this section, and the marketing practices of creditors to determine the impact that college affinity card agreements and college student card agreements have on credit card debt.
 
-“(2)
+"(2)
 
-Report.—Upon completion of any study under paragraph (1), the Comptroller General shall periodically submit a report to the Congress on the findings and conclusions of the study, together with such recommendations for administrative or legislative action as the Comptroller General determines to be appropriate.”
+Report.—Upon completion of any study under paragraph (1), the Comptroller General shall periodically submit a report to the Congress on the findings and conclusions of the study, together with such recommendations for administrative or legislative action as the Comptroller General determines to be appropriate."
 
-Pub. L. 100–583, §8, Nov. 3, 1988, 102 Stat. 2969, provided that: “Not later than 1 year after the regulations prescribed under section 7 of this Act \[set out as a note above\] become effective and annually thereafter, the Board of Governors of the Federal Reserve System shall transmit to the Congress a report containing an assessment by the Board of the profitability of credit card operations of depository institutions, including an analysis of any impact of the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1601 of this title\] on such profitability.”
+Pub. L. 100–583, §8, Nov. 3, 1988, 102 Stat. 2969, provided that: "Not later than 1 year after the regulations prescribed under section 7 of this Act \[set out as a note above\] become effective and annually thereafter, the Board of Governors of the Federal Reserve System shall transmit to the Congress a report containing an assessment by the Board of the profitability of credit card operations of depository institutions, including an analysis of any impact of the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1601 of this title\] on such profitability."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “conspicuously”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "conspicuously".</i>
 
 <i><sup>2</sup></i><i> So in original. No subsec. (q) has been enacted.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "sections".</i>
 

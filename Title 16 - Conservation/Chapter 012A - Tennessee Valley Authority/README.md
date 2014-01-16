@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [831\.](%C2%A7%2000831%20-%20Creation%3B%20short%20title.md) | Creation; short title. |
 | [831a.](%C2%A7%2000831a%20-%20Membership%2C%20operation%2C%20and%20duties%20of%20the%20Board%20of%20Directors.md) | Membership, operation, and duties of the Board of Directors. |
-| [831b.](%C2%A7%2000831b%20-%20Officers%20and%20employees%3B%20wages%20of%20laborers%20and%20mechanics%3B%20application%20of%20employees%E2%80%99%20compensation%20provisions.md) | Officers and employees; wages of laborers and mechanics; application of employees’ compensation provisions. |
+| [831b.](%C2%A7%2000831b%20-%20Officers%20and%20employees%3B%20wages%20of%20laborers%20and%20mechanics%3B%20application%20of%20employees%27%20compensation%20provisions.md) | Officers and employees; wages of laborers and mechanics; application of employees' compensation provisions. |
 | 831b–1. | Acceptance of services of volunteers. |
 | [831c.](%C2%A7%2000831c%20-%20Corporate%20powers%20generally%3B%20eminent%20domain%3B%20construction%20of%20dams%2C%20transmission%20lines%2C%20etc.md) | Corporate powers generally; eminent domain; construction of dams, transmission lines, etc. |
 | 831c–1. | Bridges endangered or damaged by dams, etc.; compensation of and contracts with owner for protection, replacements, etc. |
@@ -13,7 +13,7 @@
 | [831d.](%C2%A7%2000831d%20-%20Directors%3B%20maintenance%20and%20operation%20of%20plant%20for%20production%2C%20sale%2C%20and%20distribution%20of%20fertilizer%20and%20power.md) | Directors; maintenance and operation of plant for production, sale, and distribution of fertilizer and power. |
 | [831e.](%C2%A7%2000831e%20-%20Officers%20and%20employees%3B%20nonpolitical%20appointment%3B%20removal%20for%20violation.md) | Officers and employees; nonpolitical appointment; removal for violation. |
 | [831f.](%C2%A7%2000831f%20-%20Control%20of%20plants%20and%20property%20vested%20in%20Corporation%3B%20transfer%20of%20other%20property%20to%20Corporation.md) | Control of plants and property vested in Corporation; transfer of other property to Corporation. |
-| [831g.](%C2%A7%2000831g%20-%20Principal%20office%20of%20Corporation%3B%20books%3B%20directors%E2%80%99%20oath.md) | Principal office of Corporation; books; directors’ oath. |
+| [831g.](%C2%A7%2000831g%20-%20Principal%20office%20of%20Corporation%3B%20books%3B%20directors%27%20oath.md) | Principal office of Corporation; books; directors' oath. |
 | [831h.](%C2%A7%2000831h%20-%20Annual%20financial%20statement%3B%20purchases%20and%20contracts%3B%20audit%20by%20Comptroller%20General.md) | Annual financial statement; purchases and contracts; audit by Comptroller General. |
 | 831h–1. | Operation of dams primarily for promotion of navigation and controlling floods; generation and sale of electricity. |
 | 831h–2. | Repealed. |
@@ -57,7 +57,7 @@
 
 - [&sect; 00831 - Creation; short title](%C2%A7%2000831%20-%20Creation%3B%20short%20title.md)
 - [&sect; 00831a - Membership, operation, and duties of the Board of Directors](%C2%A7%2000831a%20-%20Membership%2C%20operation%2C%20and%20duties%20of%20the%20Board%20of%20Directors.md)
-- [&sect; 00831b - Officers and employees; wages of laborers and mechanics; application of employees&#8217; compensation provisions](%C2%A7%2000831b%20-%20Officers%20and%20employees%3B%20wages%20of%20laborers%20and%20mechanics%3B%20application%20of%20employees%E2%80%99%20compensation%20provisions.md)
+- [&sect; 00831b - Officers and employees; wages of laborers and mechanics; application of employees' compensation provisions](%C2%A7%2000831b%20-%20Officers%20and%20employees%3B%20wages%20of%20laborers%20and%20mechanics%3B%20application%20of%20employees%27%20compensation%20provisions.md)
 - [&sect; 00831b&#8211;1 - Acceptance of services of volunteers](%C2%A7%2000831b%E2%80%931%20-%20Acceptance%20of%20services%20of%20volunteers.md)
 - [&sect; 00831c - Corporate powers generally; eminent domain; construction of dams, transmission lines, etc](%C2%A7%2000831c%20-%20Corporate%20powers%20generally%3B%20eminent%20domain%3B%20construction%20of%20dams%2C%20transmission%20lines%2C%20etc.md)
 - [&sect; 00831c&#8211;1 - Bridges endangered or damaged by dams, etc.; compensation of and contracts with owner for protection, replacement, etc](%C2%A7%2000831c%E2%80%931%20-%20Bridges%20endangered%20or%20damaged%20by%20dams%2C%20etc.%3B%20compensation%20of%20and%20contracts%20with%20owner%20for%20protection%2C%20replacement%2C%20etc.md)
@@ -66,7 +66,7 @@
 - [&sect; 00831d - Directors; maintenance and operation of plant for production, sale, and distribution of fertilizer and power](%C2%A7%2000831d%20-%20Directors%3B%20maintenance%20and%20operation%20of%20plant%20for%20production%2C%20sale%2C%20and%20distribution%20of%20fertilizer%20and%20power.md)
 - [&sect; 00831e - Officers and employees; nonpolitical appointment; removal for violation](%C2%A7%2000831e%20-%20Officers%20and%20employees%3B%20nonpolitical%20appointment%3B%20removal%20for%20violation.md)
 - [&sect; 00831f - Control of plants and property vested in Corporation; transfer of other property to Corporation](%C2%A7%2000831f%20-%20Control%20of%20plants%20and%20property%20vested%20in%20Corporation%3B%20transfer%20of%20other%20property%20to%20Corporation.md)
-- [&sect; 00831g - Principal office of Corporation; books; directors&#8217; oath](%C2%A7%2000831g%20-%20Principal%20office%20of%20Corporation%3B%20books%3B%20directors%E2%80%99%20oath.md)
+- [&sect; 00831g - Principal office of Corporation; books; directors' oath](%C2%A7%2000831g%20-%20Principal%20office%20of%20Corporation%3B%20books%3B%20directors%27%20oath.md)
 - [&sect; 00831h - Annual financial statement; purchases and contracts; audit by Comptroller General](%C2%A7%2000831h%20-%20Annual%20financial%20statement%3B%20purchases%20and%20contracts%3B%20audit%20by%20Comptroller%20General.md)
 - [&sect; 00831h&#8211;1 - Operation of dams primarily for promotion of navigation and controlling floods; generation and sale of electricity](%C2%A7%2000831h%E2%80%931%20-%20Operation%20of%20dams%20primarily%20for%20promotion%20of%20navigation%20and%20controlling%20floods%3B%20generation%20and%20sale%20of%20electricity.md)
 - [&sect; 00831h&#8211;2 - Repealed. Pub. L. 86&#8211;137, &sect;1, Aug. 6, 1959, 73 Stat. 280](%C2%A7%2000831h%E2%80%932%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93137%2C%20%C2%A71%2C%20Aug.%206%2C%201959%2C%2073%20Stat.%20280.md)

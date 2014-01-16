@@ -6,7 +6,7 @@ Each State and local government shall use payments made under this subchapter fo
 
 #### Amendments
 
-<b>1977</b>—Pub. L. 95–30 substituted “or for construction, except for normal supplies or repairs necessary to maintain basic services” for “and for construction, unless such supplies and materials or construction are to maintain basic services”.
+<b>1977</b>—Pub. L. 95–30 substituted "or for construction, except for normal supplies or repairs necessary to maintain basic services" for "and for construction, unless such supplies and materials or construction are to maintain basic services".
 
-<b>1976</b>—Pub. L. 94–447 substituted “support payments” for “support grants”.
+<b>1976</b>—Pub. L. 94–447 substituted "support payments" for "support grants".
 

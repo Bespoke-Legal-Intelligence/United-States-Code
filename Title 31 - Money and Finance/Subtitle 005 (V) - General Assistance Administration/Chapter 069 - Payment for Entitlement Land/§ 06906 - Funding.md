@@ -22,11 +22,11 @@ Historical and Revision Notes
 
 Oct. 20, 1976, Pub. L. 94–565, §7, 90 Stat. 2665.
 
-The words “to the Secretary of the Interior” are added for clarity. The words “<i>Provided</i>, That, notwithstanding any other provision of this chapter” and “in advance” are omitted as unnecessary.
+The words "to the Secretary of the Interior" are added for clarity. The words "<i>Provided</i>, That, notwithstanding any other provision of this chapter" and "in advance" are omitted as unnecessary.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “2013” for “2012” in introductory provisions.
+<b>2012</b>—Pub. L. 112–141 substituted "2013" for "2012" in introductory provisions.
 
-<b>2008</b>—Pub. L. 110–343 amended section generally. Prior to amendment, section read as follows: “Necessary amounts may be appropriated to the Secretary of the Interior to carry out this chapter. Amounts are available only as provided in appropriation laws.”
+<b>2008</b>—Pub. L. 110–343 amended section generally. Prior to amendment, section read as follows: "Necessary amounts may be appropriated to the Secretary of the Interior to carry out this chapter. Amounts are available only as provided in appropriation laws."
 

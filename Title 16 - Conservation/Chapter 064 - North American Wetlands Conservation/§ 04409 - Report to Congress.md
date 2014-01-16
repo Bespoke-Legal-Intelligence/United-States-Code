@@ -22,9 +22,9 @@ Section 4413 of this title, referred to in par. (1)(C), was in the original a re
 
 #### Amendments
 
-<b>2002</b>—Par. (1)(C). Pub. L. 107–308, §8(a)(12), substituted “Western Hemisphere” for “western hemisphere” and made technical amendment to reference in original act which appears in text as reference to section 4413 of this title.
+<b>2002</b>—Par. (1)(C). Pub. L. 107–308, §8(a)(12), substituted "Western Hemisphere" for "western hemisphere" and made technical amendment to reference in original act which appears in text as reference to section 4413 of this title.
 
-Par. (1)(D). Pub. L. 107–308, §8(a)(13), substituted “; and” for period at end.
+Par. (1)(D). Pub. L. 107–308, §8(a)(13), substituted "; and" for period at end.
 
 <b>1994</b>—Par. (1)(D). Pub. L. 103–375 added subpar. (D).
 

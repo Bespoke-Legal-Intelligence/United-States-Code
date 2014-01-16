@@ -6,5 +6,5 @@ The Secretaries, in consultation with the Secretary of State, are authorized and
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–284 inserted “, the Government of Australia, and the Government of Israel”, and substituted “extraction and processing of latex and other critical agricultural materials produced in the United States” for “latex extraction and processing”.
+<b>1984</b>—Pub. L. 98–284 inserted ", the Government of Australia, and the Government of Israel", and substituted "extraction and processing of latex and other critical agricultural materials produced in the United States" for "latex extraction and processing".
 

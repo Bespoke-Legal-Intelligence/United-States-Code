@@ -2,7 +2,7 @@
 
 #### (a) Program direction
 
-The Secretary shall initiate a 5-year program, in accordance with sections 13541 and 13542 of this title, to increase building energy efficiency, while maintaining affordability, by the year 2005. Such program shall include activities on—
+The Secretary shall initiate a 5-year program, in accordance with sections 13541 and 13542 ofthis title, to increase building energy efficiency, while maintaining affordability, by the year 2005. Such program shall include activities on—
 
 &emsp;(1) building design, design methods, and construction techniques;
 

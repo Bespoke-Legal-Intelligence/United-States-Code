@@ -36,5 +36,5 @@ No payment made pursuant to this part or the Settlement Agreement shall result i
 
 #### References in Text
 
-This part, referred to in text, was in the original “this Act” and was translated as reading “this title”, meaning title VII of Pub. L. 105–83 to reflect the probable intent of Congress.
+This part, referred to in text, was in the original "this Act" and was translated as reading "this title", meaning title VII of Pub. L. 105–83 to reflect the probable intent of Congress.
 

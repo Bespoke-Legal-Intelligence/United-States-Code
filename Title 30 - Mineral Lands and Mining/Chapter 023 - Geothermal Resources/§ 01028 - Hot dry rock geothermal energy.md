@@ -14,5 +14,5 @@ There are authorized to be appropriated such sums as may be necesary <sup>1</su
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Geothermal Steam Act of 1970 which comprises this chapter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “necessary”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "necessary".</i>
 

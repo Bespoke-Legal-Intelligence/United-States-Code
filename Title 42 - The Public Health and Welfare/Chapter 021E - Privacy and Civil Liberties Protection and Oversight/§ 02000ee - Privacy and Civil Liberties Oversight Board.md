@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established as an independent agency within the executive branch a Privacy and Civil Liberties Oversight Board (referred to in this section as the “Board”).
+There is established as an independent agency within the executive branch a Privacy and Civil Liberties Oversight Board (referred to in this section as the "Board").
 
 #### (b) Findings
 
@@ -12,7 +12,7 @@ Consistent with the report of the National Commission on Terrorist Attacks Upon 
 
 &emsp;(2) This shift of power and authority to the Government calls for an enhanced system of checks and balances to protect the precious liberties that are vital to our way of life and to ensure that the Government uses its powers for the purposes for which the powers were given.
 
-&emsp;(3) The National Commission on Terrorist Attacks Upon the United States correctly concluded that “The choice between security and liberty is a false choice, as nothing is more likely to endanger America's liberties than the success of a terrorist attack at home. Our history has shown us that insecurity threatens liberty. Yet, if our liberties are curtailed, we lose the values that we are struggling to defend.”.
+&emsp;(3) The National Commission on Terrorist Attacks Upon the United States correctly concluded that "The choice between security and liberty is a false choice, as nothing is more likely to endanger America's liberties than the success of a terrorist attack at home. Our history has shown us that insecurity threatens liberty. Yet, if our liberties are curtailed, we lose the values that we are struggling to defend.".
 
 #### (c) Purpose
 
@@ -30,7 +30,7 @@ The Board shall—
 
 &emsp;&emsp;(A) review proposed legislation, regulations, and policies related to efforts to protect the Nation from terrorism, including the development and adoption of information sharing guidelines under subsections (d) and (f) of section 485 of title 6;
 
-&emsp;&emsp;(B) review the implementation of new and existing legislation, regulations, and policies related to efforts to protect the Nation from terrorism, including the implementation of information sharing guidelines under subsections (d) and (f) of section 485 of title 6;
+&emsp;&emsp;(B) review the implementation of new and existing legislation, regulations, and policies related to efforts to protect the Nation fromterrorism, including the implementation of information sharing guidelines under subsections (d) and (f) of section 485 of title 6;
 
 &emsp;&emsp;(C) advise the President and the departments, agencies, and elements of the executive branch to ensure that privacy and civil liberties are appropriately considered in the development and implementation of such legislation, regulations, policies, and guidelines; and
 
@@ -118,13 +118,13 @@ The Board shall—
 
 &emsp;If determined by the Board to be necessary to carry out its responsibilities under this section, the Board is authorized to—
 
-&emsp;&emsp;(A) have access from any department, agency, or element of the executive branch, or any Federal officer or employee of any such department, agency, or element, to all relevant records, reports, audits, reviews, documents, papers, recommendations, or other relevant material, including classified information consistent with applicable law;
+&emsp;&emsp;(A) have access from any department, agency, or element of the executive branch,or any Federal officer or employee of any such department, agency, or element, to all relevant records, reports, audits, reviews, documents, papers, recommendations, or other relevant material, including classified information consistent with applicable law;
 
 &emsp;&emsp;(B) interview, take statements from, or take public testimony from personnel of any department, agency, or element of the executive branch, or any Federal officer or employee of any such department, agency, or element;
 
 &emsp;&emsp;(C) request information or assistance from any State, tribal, or local government; and
 
-&emsp;&emsp;(D) at the direction of a majority of the members of the Board, submit a written request to the Attorney General of the United States that the Attorney General require, by subpoena, persons (other than departments, agencies, and elements of the executivebranch) to produce any relevant information, documents, reports, answers, records, accounts, papers, and other documentary or testimonial evidence.
+&emsp;&emsp;(D) at the direction of a majority of the members of the Board, submit a written request to the Attorney General of the United States that the Attorney General require, by subpoena, persons (other than departments, agencies, and elements of the executive branch) to produce any relevant information, documents, reports, answers, records, accounts, papers, and other documentary or testimonial evidence.
 
 #### (2) Review of subpoena request
 
@@ -192,13 +192,13 @@ The Board shall—
 
 #### (2) Travel expenses
 
-&emsp;Members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for persons employed intermittently by the Government under section 5703(b) <sup>1</sup> of title 5, while away from their homes or regular places of business in the performance of services for the Board.
+&emsp;Members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for persons employed intermittently by the Government under section 5703(b) <sup>1</sup> of title 5, while awayfrom their homes or regular places of business in the performance of services for the Board.
 
 #### (j) Staff
 
 #### (1) Appointment and compensation
 
-&emsp;The chairman of the Board, in accordance with rules agreed upon by the Board, shall appoint and fix the compensation of a full-time executive director and such other personnel as may be necessary to enable the Board to carry out its functions, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsectionmay exceed the equivalent of that payable for a position at level V of the Executive Schedule under section 5316 of title 5.
+&emsp;The chairman of the Board, in accordance with rules agreed upon by the Board, shall appoint and fix the compensation of a full-time executive director and such other personnel as may be necessary to enable the Board to carry out its functions, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable for a position at level V of the Executive Schedule under section 5316 of title 5.
 
 #### (2) Detailees
 
@@ -260,47 +260,47 @@ Section was formerly set out as a note under section 601 of Title 5, Government 
 
 Pub. L. 110–53, title VIII, §801(d), Aug. 3, 2007, 121 Stat. 358, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by subsection (a) and subsection (b) \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Aug. 3, 2007\].
 
-“(2)
+"(2)
 
-Transition provisions.—Subsection (c) \[enacting provisions set out as a note under this section\] shall take effect on the date of enactment of this Act.”
+Transition provisions.—Subsection (c) \[enacting provisions set out as a note under this section\] shall take effect on the date of enactment of this Act."
 
 #### Security Rules and Procedures
 
-Pub. L. 110–53, title VIII, §801(b), Aug. 3, 2007, 121 Stat. 357, provided that: “The Privacy and Civil Liberties Oversight Board shall promptly adopt the security rules and procedures required under section 1061(k)(2) of the National Security Intelligence Reform Act of 2004 \[42 U.S.C. 2000ee(k)(2)\] (as added by subsection (a) of this section).”
+Pub. L. 110–53, title VIII, §801(b), Aug. 3, 2007, 121 Stat. 357, provided that: "The Privacy and Civil Liberties Oversight Board shall promptly adopt the security rules and procedures required under section 1061(k)(2) of the National Security Intelligence Reform Act of 2004 \[42 U.S.C. 2000ee(k)(2)\] (as added by subsection (a) of this section)."
 
 #### Transition Provisions
 
 Pub. L. 110–53, title VIII, §801(c), Aug. 3, 2007, 121 Stat. 357, provided that:
 
-“(1)
+"(1)
 
 Treatment of incumbent members of the privacy and civil liberties oversight board.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Continuation of service.—Any individual who is a member of the Privacy and Civil Liberties Oversight Board on the date of enactment of this Act \[Aug. 3, 2007\] may continue to serve on the Board until 180 days after the date of enactment of this Act.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Termination of terms.—The term of any individual who is a member of the Privacy and Civil Liberties Oversight Board on the date of enactment of this Act shall terminate 180 days after the date of enactment of this Act.
 
-“(2)
+"(2)
 
 Appointments.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The President and the Senate shall take such actions as necessary for the President, by and with the advice and consent of the Senate, to appoint members to the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a) \[amending this section\] in a timely manner to provide for the continuing operation of the Board and orderly implementation of this section \[amending this section and enacting provisions set out as notes under this section\].
 
-&emsp;“(B)
+&emsp;"(B)
 
-Designations.—In making the appointments described under subparagraph (A) of the first members of the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a), the President shall provide for the members to serve terms of 2, 3, 4, 5, and 6 years beginning on the effective date described under subsection (d)(1) \[set out above\], with the term of each such member to be designated by the President.”
+Designations.—In making the appointments described under subparagraph (A) of the first members of the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a), the President shall provide for the members to serve terms of 2, 3, 4, 5, and 6 years beginning on the effective date described under subsection (d)(1) \[set out above\], with the term of each such member to be designated by the President."
 
-#### Ex. Ord. No. 13353. Establishing the President's Board on Safeguarding Americans’ Civil Liberties
+#### Ex. Ord. No. 13353. Establishing the President's Board on Safeguarding Americans' Civil Liberties
 
 Ex. Ord. No. 13353, Aug. 27, 2004, 69 F.R. 53585, provided:
 
@@ -308,7 +308,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The United States Government has a solemn obligation, and shall continue fully, to protect the legal rights of all Americans, including freedoms, civil liberties, and information privacy guaranteed by Federal law, in the effective performance of national security and homeland security functions.
 
-Sec. 2. <i>Establishment of Board</i>. To advance the policy set forth in section 1 of this order (Policy), there is hereby established the President's Board on Safeguarding Americans’ Civil Liberties (Board). The Board shall be part of the Department of Justice for administrative purposes.
+Sec. 2. <i>Establishment of Board</i>. To advance the policy set forth in section 1 of this order (Policy), there is hereby established the President's Board on Safeguarding Americans' Civil Liberties (Board). The Board shall be part of the Department of Justice for administrative purposes.
 
 Sec. 3. <i>Functions</i>. The Board shall:
 

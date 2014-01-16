@@ -6,47 +6,47 @@ For purposes of this section, except subsection (r) of this section—
 
 #### (1) Major source
 
-&emsp;The term “major source” means any stationary source or group of stationary sources located within a contiguous area and under common control that emits or has the potential to emit considering controls, in the aggregate, 10 tons per year or more of any hazardous air pollutant or 25 tons per year or more of any combination of hazardous air pollutants. The Administrator may establish a lesser quantity, or in the case of radionuclides different criteria, for a major source than that specified in the previous sentence, on the basis of the potency of the air pollutant, persistence, potential for bioaccumulation, other characteristics of the air pollutant, or other relevant factors.
+&emsp;The term "major source" means any stationary source or group of stationary sources located within a contiguous area and under common control that emits or has the potential to emit considering controls, in the aggregate, 10 tons per year or more of any hazardous air pollutant or 25 tons per year or more of any combination of hazardous air pollutants. The Administrator may establish a lesser quantity, or in the case of radionuclides different criteria, for a major source than that specified in the previous sentence, on the basis of the potency of the air pollutant, persistence, potential for bioaccumulation, other characteristics of the air pollutant, or other relevant factors.
 
 #### (2) Area source
 
-&emsp;The term “area source” means any stationary source of hazardous air pollutants that is not a major source. For purposes of this section, the term “area source” shall not include motor vehicles or nonroad vehicles subject to regulation under subchapter II of this chapter.
+&emsp;The term "area source" means any stationary source of hazardous air pollutants that is not a major source. For purposes of this section, the term "area source" shall not include motor vehicles or nonroad vehicles subject to regulation under subchapter II of this chapter.
 
 #### (3) Stationary source
 
-&emsp;The term “stationary source” shall have the same meaning as such term has under section 7411(a) of this title.
+&emsp;The term "stationary source" shall have the same meaning as such term has under section 7411(a) of this title.
 
 #### (4) New source
 
-&emsp;The term “new source” means a stationary source the construction or reconstruction of which is commenced after the Administrator first proposes regulations under this section establishing an emission standard applicable to such source.
+&emsp;The term "new source" means a stationary source the construction or reconstruction of which is commenced after the Administrator first proposes regulations under this section establishing an emission standard applicable to such source.
 
 #### (5) Modification
 
-&emsp;The term “modification” means any physical change in, or change in the method of operation of, a major source which increases the actual emissions of any hazardous air pollutant emitted by such source by more than a de minimis amount or which results in the emission of any hazardous air pollutant not previously emitted by more than a de minimis amount.
+&emsp;The term "modification" means any physical change in, or change in the method of operation of, a major source which increases the actual emissions of any hazardous air pollutant emitted by such source by more than a de minimis amount or which results in the emission of any hazardous air pollutant not previously emitted by more than a de minimis amount.
 
 #### (6) Hazardous air pollutant
 
-&emsp;The term “hazardous air pollutant” means any air pollutant listed pursuant to subsection (b) of this section.
+&emsp;The term "hazardous air pollutant" means any air pollutant listed pursuant to subsection (b) of this section.
 
 #### (7) Adverse environmental effect
 
-&emsp;The term “adverse environmental effect” means any significant and widespread adverse effect, which may reasonably be anticipated, to wildlife, aquatic life, or other natural resources, including adverse impacts on populations of endangered or threatened species or significant degradation of environmental quality over broad areas.
+&emsp;The term "adverse environmental effect" means any significant and widespread adverse effect, which may reasonably be anticipated, to wildlife, aquatic life, or other natural resources, including adverse impacts on populations of endangered or threatened species or significant degradation of environmental quality over broad areas.
 
 #### (8) Electric utility steam generating unit
 
-&emsp;The term “electric utility steam generating unit” means any fossil fuel fired combustion unit of more than 25 megawatts that serves a generator that produces electricity for sale. A unit that cogenerates steam and electricity and supplies more than one-third of its potential electric output capacity and more than 25 megawatts electrical output to any utility power distribution system for sale shall be considered an electric utility steam generating unit.
+&emsp;The term "electric utility steam generating unit" means any fossil fuel fired combustion unit of more than 25 megawatts that serves a generator that produces electricity for sale. A unit that cogenerates steam and electricity and supplies more than one-third of its potential electric output capacity and more than 25 megawatts electrical output to any utility power distribution system for sale shall be considered an electric utility steam generating unit.
 
 #### (9) Owner or operator
 
-&emsp;The term “owner or operator” means any person who owns, leases, operates, controls, or supervises a stationary source.
+&emsp;The term "owner or operator" means any person who owns, leases, operates, controls, or supervises a stationary source.
 
 #### (10) Existing source
 
-&emsp;The term “existing source” means any stationary source other than a new source.
+&emsp;The term "existing source" means any stationary source other than a new source.
 
 #### (11) Carcinogenic effect
 
-&emsp;Unless revised, the term “carcinogenic effect” shall have the meaning provided by the Administrator under Guidelines for Carcinogenic Risk Assessment as of the date of enactment.<sup>1</sup> Any revisions in the existing Guidelines shall be subject to notice and opportunity for comment.
+&emsp;Unless revised, the term "carcinogenic effect" shall have the meaning provided by the Administrator under Guidelines for Carcinogenic Risk Assessment as of the date of enactment.<sup>1</sup> Any revisions in the existing Guidelines shall be subject to notice and opportunity for comment.
 
 #### (b) List of pollutants
 
@@ -248,7 +248,7 @@ For purposes of this section, except subsection (r) of this section—
 | 0 | Radionuclides (including radon) <sup>5</sup> |
 | 0 | Selenium Compounds |
 
-NOTE: For all listings above which contain the word “compounds” and for glycol ethers, the following applies: Unless otherwise specified, these listings are defined as including any unique chemical substance that contains the named chemical (i.e., antimony, arsenic, etc.) as part of that chemical's infrastructure.
+NOTE: For all listings above which contain the word "compounds" and for glycol ethers, the following applies: Unless otherwise specified, these listings are defined as including any unique chemical substance that contains the named chemical (i.e., antimony, arsenic, etc.) as part of that chemical's infrastructure.
 
 <sup>1</sup> X′CN where X = H′ or any other group where a formal dissociation may occur. For example KCN or Ca(CN)<sub>2</sub>.
 
@@ -324,11 +324,11 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (7) Research facilities
 
-&emsp;The Administrator shall establish a separate category covering research or laboratory facilities, as necessary to assure the equitable treatment of such facilities. For purposes of this section, “research or laboratory facility” means any stationary source whose primary purpose is to conduct research and development into new processes and products, where such source is operated under the close supervision of technically trained personnel and is not engaged in the manufacture of products for commercial sale in commerce, except in a de minimis manner.
+&emsp;The Administrator shall establish a separate category covering research or laboratory facilities, as necessary to assure the equitable treatment of such facilities. For purposes of this section, "research or laboratory facility" means any stationary source whose primary purpose is to conduct research and development into new processes and products, where such source is operated under the close supervision of technically trained personnel and is not engaged in the manufacture of products for commercial sale in commerce, except in a de minimis manner.
 
 #### (8) Boat manufacturing
 
-&emsp;When establishing emissions standards for styrene, the Administrator shall list boat manufacturing as a separate subcategory unless the Administrator finds that such listingwould be inconsistent with the goals and requirements of this chapter.
+&emsp;When establishing emissions standards for styrene, the Administrator shall list boat manufacturing as a separate subcategory unless the Administrator finds that such listing would be inconsistent with the goals and requirements of this chapter.
 
 #### (9) Deletions from the list
 
@@ -346,7 +346,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (1) In general
 
-&emsp;The Administrator shall promulgate regulations establishing emission standards for each category or subcategory of major sources and area sources of hazardous air pollutants listed for regulation pursuant to subsection (c) of this section in accordance with the schedules provided in subsections (c) and (e) of this section. The Administrator may distinguish among classes, types, and sizes of sources within a category or subcategory in establishing such standards except that, there shall be no delay in the compliance date for any standard applicable to any source under subsection (i) of this section as the result of the authority provided by this sentence.
+&emsp;The Administrator shall promulgate regulations establishing emission standards for each category or subcategory of major sources and area sources of hazardous air pollutants listed for regulation pursuant to subsection (c) of this section in accordance with the schedules provided in subsections (c) and (e) of this section. The Administrator may distinguish among classes, types, and sizes of sourceswithin a category or subcategory in establishing such standards except that, there shall be no delay in the compliance date for any standard applicable to any source under subsection (i) of this section as the result of the authority provided by this sentence.
 
 #### (2) Standards and methods
 
@@ -394,7 +394,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;&emsp;(i) the use of sodium silicate (or equivalent) luting compounds to prevent door leaks, and other operating practices and technologies for their effectiveness in reducing coke oven emissions, and their suitability for use on new and existing coke oven batteries, taking into account costs and reasonable commercial door warranties; and
 
-&emsp;&emsp;(ii) as a basis for emission standards under this subsection for new coke oven batteries that begin construction after the date of proposal of such standards, the Jewell design Thompson non-recovery coke oven batteries and other non-recovery coke oven technologies, and other appropriate emission control and coke production technologies, as to their effectiveness in reducing coke oven emissions and their capability for production of steel quality coke.
+&emsp;&emsp;(ii) as a basis for emission standards under this subsection for new coke oven batteriesthat begin construction after the date of proposal of such standards, the Jewell design Thompson non-recovery coke oven batteries and other non-recovery coke oven technologies, and other appropriate emission control and coke production technologies, as to their effectiveness in reducing coke oven emissions and their capability for production of steel quality coke.
 
 > &emsp;Such regulations shall require at a minimum that coke oven batteries will not exceed 8 per centum leaking doors, 1 per centum leaking lids, 5 per centum leaking offtakes, and 16 seconds visible emissions per charge, with no exclusion for emissions during the period after the closing of self-sealing oven doors. Notwithstanding subsection (i) of this section, the compliance date for such emission standards for existing coke oven batteries shall be December 31, 1995.
 
@@ -518,11 +518,11 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (1) In general
 
-&emsp;For purposes of this section, if it is not feasible in the judgment of the Administrator to prescribe or enforce an emission standard forcontrol of a hazardous air pollutant or pollutants, the Administrator may, in lieu thereof, promulgate a design, equipment, work practice, or operational standard, or combination thereof, which in the Administrator's judgment is consistent with the provisions of subsection (d) or (f) of this section. In the event the Administrator promulgates a design or equipment standard under this subsection, the Administrator shall include as part of such standard such requirements as will assure the proper operation and maintenance of any such element of design or equipment.
+&emsp;For purposes of this section, if it is not feasible in the judgment of the Administrator to prescribe or enforce an emission standard for control of a hazardous air pollutant or pollutants, the Administrator may, in lieu thereof, promulgate a design, equipment, work practice, or operational standard, or combination thereof, which in the Administrator's judgment is consistent with the provisions of subsection (d) or (f) of this section. In the event the Administrator promulgates a design or equipment standard under this subsection, the Administrator shall include as part of such standard such requirements as will assure the proper operation and maintenance of any such element of design or equipment.
 
 #### (2) Definition
 
-&emsp;For the purpose of this subsection, the phrase “not feasible to prescribe or enforce an emission standard” means any situation in which the Administrator determines that—
+&emsp;For the purpose of this subsection, the phrase "not feasible to prescribe or enforce an emission standard" means any situation in which the Administrator determines that—
 
 &emsp;&emsp;(A) a hazardous air pollutant or pollutants cannot be emitted through a conveyance designed and constructed to emit or capture such pollutant, or that any requirement for, or use of, such a conveyance would be inconsistent with any Federal, State or local law, or
 
@@ -540,7 +540,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (1) Preconstruction and operating requirements
 
-&emsp;After the effective date of any emission standard, limitation, or regulation under subsection (d), (f) or (h) of this section, no person may construct any new major source or reconstruct any existing major source subject to such emission standard, regulation or limitation unless the Administrator (or a State with a permit program approved under subchapter V of this chapter) determines that such source, if properly constructed, reconstructed and operated, will comply with the standard, regulation or limitation.
+&emsp;After the effective date of any emission standard, limitation, or regulation under subsection (d), (f) or (h) of this section, no person may construct any new major source or reconstruct any existing major source subject tosuch emission standard, regulation or limitation unless the Administrator (or a State with a permit program approved under subchapter V of this chapter) determines that such source, if properly constructed, reconstructed and operated, will comply with the standard, regulation or limitation.
 
 #### (2) Special rule
 
@@ -562,7 +562,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (5) Early reduction
 
-&emsp;(A) The Administrator (or a State acting pursuant to a permit program approved under subchapter V of this chapter) shall issue a permit allowing an existing source, for which the owner or operator demonstrates that the source has achieved a reduction of 90 per centum or more in emissions of hazardous air pollutants (95 per centum in the case of hazardous air pollutants which are particulates) from the source, to meet an alternative emission limitation reflecting such reduction in lieu of an emission limitation promulgated under subsection (d) of this section for a period of 6years from the compliance date for the otherwise applicable standard, provided that such reduction is achieved before the otherwise applicable standard under subsection (d) of this section is first proposed. Nothing in this paragraph shall preclude a State from requiring reductions in excess of those specified in this subparagraph as a condition of granting the extension authorized by the previous sentence.
+&emsp;(A) The Administrator (or a State acting pursuant to a permit program approved under subchapter V of this chapter) shall issue a permit allowing an existing source, for which the owner or operator demonstrates that the source has achieved a reduction of 90 per centum or more in emissions of hazardous air pollutants (95 per centum in the case of hazardous air pollutants which are particulates) from the source, to meet an alternative emission limitation reflecting such reduction in lieu of an emission limitation promulgated under subsection (d) of this section for a period of 6 years from the compliance date for the otherwise applicable standard, provided that such reduction is achieved before the otherwise applicable standard under subsection (d) of this section is first proposed. Nothing in this paragraph shall preclude a State from requiring reductions in excess of those specified in this subparagraph as a condition of granting the extension authorized by the previous sentence.
 
 &emsp;(B) An existing source which achieves the reduction referred to in subparagraph (A) after the proposal of an applicable standard but before January 1, 1994, may qualify under subparagraph (A), if the source makes an enforceable commitment to achieve such reduction before the proposal of the standard. Such commitment shall be enforceable to the same extent as a regulation under this section.
 
@@ -600,7 +600,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;&emsp;(IV) 16 seconds visible emissions per charge,
 
-> &emsp;with an exclusion for emissions during the period after the closing of self-sealing oven doors (or the total mass emissions equivalent). The rulemaking in which such emission limitations are promulgated shall also establish an appropriate measurement methodology for determining compliance with such emission limitations, and shall establish such emission limitations in terms of an equivalent level of mass emissions reduction from a coke oven battery, unless the Administrator finds that such a mass emissions standard would not be practicable or enforceable. Such measurement methodology, to the extent it measures leaking doors, shall take into consideration alternative test methods that reflect the best technology and practices actually applied in theaffected industries, and shall assure that the final test methods are consistent with the performance of such best technology and practices.
+> &emsp;with an exclusion for emissions during the period after the closing of self-sealing oven doors (or the total mass emissions equivalent). The rulemaking in which such emission limitations are promulgated shall also establish an appropriate measurement methodology for determining compliance with such emission limitations, and shall establish such emission limitations in terms of an equivalent level of mass emissions reduction from a coke oven battery, unless the Administrator finds that such a mass emissions standard would not be practicable or enforceable. Such measurement methodology, to the extent it measures leaking doors, shall take into consideration alternative test methods that reflect the best technology and practices actually applied in the affected industries, and shall assure that the final test methods are consistent with the performance of such best technology and practices.
 
 &emsp;(ii) If the Administrator fails to promulgate such emission limitations under this subparagraph prior to the effective date of such emission limitations, the emission limitations applicable to coke oven batteries under this subparagraph shall be—
 
@@ -618,9 +618,9 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;(D) At any time prior to January 1, 1998, the owner or operator of any coke oven battery may elect to comply with emission limitations promulgated under subsection (f) of this section by the date such emission limitations would otherwise apply to such coke oven battery, in lieu of the emission limitations and the compliance dates provided under subparagraphs (B) and (C) of this paragraph. Any such owner or operator shall be legally bound to comply with such emission limitations promulgated under subsection (f) of this section with respect to such coke oven battery as of January 1, 2003. If no such emission limitations have been promulgated for such coke oven battery, the Administrator shall promulgate such emission limitations in accordance with subsection (f) of this section for such coke oven battery.
 
-&emsp;(E) Coke oven batteries qualifying for an extension under subparagraph (A) shall make available not later than January 1, 2000, to the surrounding communities the results of any risk assessment performed by the Administrator to determine the appropriate level of any emission standard established by the Administrator pursuant to subsection (f) of this section.
+&emsp;(E) Coke oven batteries qualifying for an extension under subparagraph (A) shall make available not later than January 1, 2000, to thesurrounding communities the results of any risk assessment performed by the Administrator to determine the appropriate level of any emission standard established by the Administrator pursuant to subsection (f) of this section.
 
-&emsp;(F) Notwithstanding the provisions of this section, reconstruction of any source of coke oven emissions qualifying for an extension under this paragraph shall not subject such source to emission limitations under subsection (f) of this section more stringent than those established under subparagraphs (B) and (C) until January 1, 2020. For the purposes of this subparagraph, the term “reconstruction” includes the replacement of existing coke oven battery capacity with new coke oven batteries of comparable or lower capacity and lower potential emissions.
+&emsp;(F) Notwithstanding the provisions of this section, reconstruction of any source of coke oven emissions qualifying for an extension under this paragraph shall not subject such source to emission limitations under subsection (f) of this section more stringent than those established under subparagraphs (B) and (C) until January 1, 2020. For the purposes of this subparagraph, the term "reconstruction" includes the replacement of existing coke oven battery capacity with new coke oven batteries of comparable or lower capacity and lower potential emissions.
 
 #### (j) Equivalent emission limitation by permit
 
@@ -642,7 +642,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (5) Emission limitation
 
-&emsp;The permit shall be issued pursuant to subchapter V of this chapter and shall contain emission limitations for the hazardous air pollutants subject to regulation under this section and emitted by the source that the Administrator (or the State) determines, on a case-by-case basis, to be equivalent to the limitation that would apply to such source if an emission standard had been promulgated in atimely manner under subsection (d) of this section. In the alternative, if the applicable criteria are met, the permit may contain an emissions limitation established according to the provisions of subsection (i)(5) of this section. For purposes of the preceding sentence, the reduction required by subsection (i)(5)(A) of this section shall be achieved by the date on which the relevant standard should have been promulgated under subsection (d) of this section. No such pollutant may be emitted in amounts exceeding an emission limitation contained in a permit immediately for new sources and, as expeditiously as practicable, but not later than the date 3 years after the permit is issued for existing sources or such other compliance date as would apply under subsection (i) of this section.
+&emsp;The permit shall be issued pursuant to subchapter V of this chapter and shall contain emission limitations for the hazardous air pollutants subject to regulation under this section and emitted by the source that the Administrator (or the State) determines, on a case-by-case basis, to be equivalent to the limitation that would apply to such source if an emission standard had been promulgated in a timely manner under subsection (d) of this section. In the alternative, if the applicable criteria are met, the permit may contain an emissions limitation established according to the provisions of subsection (i)(5) of this section. For purposes of the preceding sentence, the reduction required by subsection (i)(5)(A) of this section shall be achieved by the date on which the relevant standard should have been promulgated under subsection (d) of this section. No such pollutant may be emitted in amounts exceeding an emission limitation contained in a permit immediately for new sources and, as expeditiously as practicable, but not later than the date 3 years after the permit is issued for existing sources or such other compliance date as would apply under subsection (i) of this section.
 
 #### (6) Applicability of subsequent standards
 
@@ -676,7 +676,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;&emsp;(ii) identify the source categories or subcategories emitting such pollutants that are or will be listed pursuant to subsection (c) of this section. When identifying categories and subcategories of sources under this subparagraph, the Administrator shall assure that sources accounting for 90 per centum or more of the aggregate emissions of each of the 30 identified hazardous air pollutants are subject to standards pursuant to subsection (d) of this section.
 
-&emsp;(C) The strategy shall include a schedule of specific actions to substantially reduce the public health risks posed by the release of hazardous air pollutants from area sources that will be implemented by the Administrator under the authority of this or other laws (including, but not limited to, the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\], the Federal Insecticide, Fungicide and Rodenticide Act \[7 U.S.C. 136 et seq.\] and the Resource Conservation and Recovery Act \[42 U.S.C. 6901 et seq.\]) or by the States. The strategy shall achieve a reduction in the incidence of cancer attributable to exposure to hazardous air pollutants emitted by stationary sources of not less than 75 per centum,considering control of emissions of hazardous air pollutants from all stationary sources and resulting from measures implemented by the Administrator or by the States under this or other laws.
+&emsp;(C) The strategy shall include a schedule of specific actions to substantially reduce the public health risks posed by the release of hazardous air pollutants from area sources that will be implemented by the Administrator under the authority of this or other laws (including, but not limited to, the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\], the Federal Insecticide, Fungicide and Rodenticide Act \[7 U.S.C. 136 et seq.\] and the Resource Conservation and Recovery Act \[42 U.S.C. 6901 et seq.\]) or by the States. The strategy shall achieve a reduction in the incidence of cancer attributable to exposure to hazardous air pollutants emitted by stationary sources of not less than 75 per centum, considering control of emissions of hazardous air pollutants from all stationary sources and resulting from measures implemented by the Administrator or by the States under this or other laws.
 
 &emsp;(D) The strategy may also identify research needs in monitoring, analytical methodology, modeling or pollution control techniques and recommendations for changes in law that would further the goals and objectives of this subsection.
 
@@ -774,7 +774,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (4) Monitoring for coastal waters
 
-&emsp;The Administrator shall design and deploy atmospheric deposition monitoring networks for coastal waters and their watersheds and shall make any information collected through such networks available to the public. As part of this effort, the Administrator shall conduct research to develop and improve deposition monitoring methods, and to determine the relative contribution of atmospheric pollutants to pollutant loadings. For purposes of this subsection, “coastal waters” shall mean estuaries selected pursuant to section 320(a)(2)(A) of the Federal Water Pollution Control Act \[33 U.S.C. 1330(a)(2)(A)\] or listed pursuant to section 320(a)(2)(B) of such Act \[33 U.S.C. 1330(a)(2)(B)\] or estuarine research reserves designated pursuant to section 1461 of title 16.
+&emsp;The Administrator shall design and deploy atmospheric deposition monitoring networks for coastal waters and their watersheds and shall make any information collected through such networks available to the public. As part of this effort, the Administrator shall conduct research to develop and improve deposition monitoring methods, and to determine the relative contribution of atmospheric pollutants to pollutant loadings. For purposes of this subsection, "coastal waters" shall mean estuaries selected pursuant to section 320(a)(2)(A) of the Federal Water Pollution Control Act \[33 U.S.C. 1330(a)(2)(A)\] or listed pursuant to section 320(a)(2)(B) of such Act \[33 U.S.C. 1330(a)(2)(B)\] or estuarine research reserves designated pursuant to section 1461 of title 16.
 
 #### (5) Report
 
@@ -864,7 +864,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (5) Assistance
 
-&emsp;The Administrator shall assist the Academy in gathering any information the Academy deems necessary to carry out this subsection. The Administrator may use any authority under this chapter to obtain information from any person, and to require any person to conduct tests, keep and produce records, and make reports respecting research or other activities conducted by such person as necessary to carry out this subsection.
+&emsp;The Administrator shall assist the Academy in gathering any information the Academydeems necessary to carry out this subsection. The Administrator may use any authority under this chapter to obtain information from any person, and to require any person to conduct tests, keep and produce records, and make reports respecting research or other activities conducted by such person as necessary to carry out this subsection.
 
 #### (6) Authorization
 
@@ -918,13 +918,13 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (2) Definitions
 
-&emsp;(A) The term “accidental release” means an unanticipated emission of a regulated substance or other extremely hazardous substance into the ambient air from a stationary source.
+&emsp;(A) The term "accidental release" means an unanticipated emission of a regulated substance or other extremely hazardous substance into the ambient air from a stationary source.
 
-&emsp;(B) The term “regulated substance” means a substance listed under paragraph (3).
+&emsp;(B) The term "regulated substance" means a substance listed under paragraph (3).
 
-&emsp;(C) The term “stationary source” means any buildings, structures, equipment, installations or substance emitting stationary activities (i) which belong to the same industrial group, (ii) which are located on one or more contiguous properties, (iii) which are under the control of the same person (or persons under commoncontrol), and (iv) from which an accidental release may occur.
+&emsp;(C) The term "stationary source" means any buildings, structures, equipment, installations or substance emitting stationary activities (i) which belong to the same industrial group, (ii) which are located on one or more contiguous properties, (iii) which are under the control of the same person (or persons under common control), and (iv) from which an accidental release may occur.
 
-&emsp;(D) The term “retail facility” means a stationary source at which more than one-half of the income is obtained from direct sales to end users or at which more than one-half of the fuel sold, by volume, is sold through a cylinder exchange program.
+&emsp;(D) The term "retail facility" means a stationary source at which more than one-half of the income is obtained from direct sales to end users or at which more than one-half of the fuel sold, by volume, is sold through a cylinder exchange program.
 
 #### (3) List of substances
 
@@ -958,7 +958,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;&emsp;(i) investigate (or cause to be investigated), determine and report to the public in writing the facts, conditions, and circumstances and the cause or probable cause of any accidental release resulting in a fatality, serious injury or substantial property damages;
 
-&emsp;&emsp;(ii) issue periodic reports to the Congress, Federal, State and local agencies, including the Environmental Protection Agency and the Occupational Safety and Health Administration, concerned with the safety of chemical production, processing, handling and storage, and other interested persons recommending measures to reduce the likelihood or the consequences of accidental releases and proposing corrective steps to make chemical production, processing, handling and storage as safe and free from risk of injury as is possible and may include in such reports proposed rules or orders which should be issued by the Administrator under the authority of this section or the Secretary of Labor under the Occupational Safety and Health Act \[29 U.S.C. 651 et seq.\]to prevent or minimize the consequences of any release of substances that may cause death, injury or other serious adverse effects on human health or substantial property damage as the result of an accidental release; and
+&emsp;&emsp;(ii) issue periodic reports to the Congress, Federal, State and local agencies, including the Environmental Protection Agency and the Occupational Safety and Health Administration, concerned with the safety of chemical production, processing, handling and storage, and other interested persons recommending measures to reduce the likelihood or the consequences of accidental releases and proposing corrective steps to make chemical production, processing, handling and storage as safe and free from risk of injury as is possible and may include in such reports proposed rules or orders which should be issued by the Administrator under the authority of this section or the Secretary of Labor under the Occupational Safety and Health Act \[29 U.S.C. 651 et seq.\] to prevent or minimize the consequences of any release of substances that may cause death, injury or other serious adverse effects on human health or substantial property damage as the result of an accidental release; and
 
 &emsp;&emsp;(iii) establish by regulation requirements binding on persons for reporting accidental releases into the ambient air subject to the Board's investigatory jurisdiction. Reporting releases to the National Response Center, in lieu of the Board directly, shall satisfy such regulations. The National Response Center shall promptly notify the Board of any releases which are within the Board's jurisdiction.
 
@@ -998,7 +998,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 > &emsp;Whenever the Administrator or the Board conducts an inspection of a facility pursuant to this subsection, employees and their representatives shall have the same rights to participate in such inspections as provided in the Occupational Safety and Health Act \[29 U.S.C. 651 et seq.\].
 
-&emsp;(M) In addition to that described in subparagraph (L), the Board may use any information gathering authority of the Administrator under this chapter, including the subpoena power provided in section 7607(a)(1) of this title.
+&emsp;(M) In addition to that described in subparagraph (L), the Board may use any information gathering authority of the Administrator under this chapter, including the subpoenapower provided in section 7607(a)(1) of this title.
 
 &emsp;(N) The Board is authorized to establish such procedural and administrative rules as are necessary to the exercise of its functions and duties. The Board is authorized without regard to section 6101 of title 41 to enter into contracts, leases, cooperative agreements or other transactions as may be necessary in the conduct of the duties and functions of the Board with any other agency, institution, or person.
 
@@ -1028,7 +1028,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 > &emsp;At the time regulations are promulgated under this subparagraph, the Administrator shall promulgate guidelines to assist stationary sources in the preparation of risk management plans. The guidelines shall, to the extent practicable, include model risk management plans.
 
-&emsp;(iii) The owner or operator of each stationary source covered by clause (ii) shall register a risk management plan prepared under this subparagraph with the Administrator before the effective date of regulations under clause (i) in such form and manner as the Administrator shall, by rule, require. Plans preparedpursuant to this subparagraph shall also be submitted to the Chemical Safety and Hazard Investigation Board, to the State in which the stationary source is located, and to any local agency or entity having responsibility for planning for or responding to accidental releases which may occur at such source, and shall be available to the public under section 7414(c) of this title. The Administrator shall establish, by rule, an auditing system to regularly review and, if necessary, require revision in risk management plans to assure that the plans comply with this subparagraph. Each such plan shall be updated periodically as required by the Administrator, by rule.
+&emsp;(iii) The owner or operator of each stationary source covered by clause (ii) shall register a risk management plan prepared under this subparagraph with the Administrator before the effective date of regulations under clause (i) in such form and manner as the Administrator shall, by rule, require. Plans prepared pursuant to this subparagraph shall also be submitted to the Chemical Safety and Hazard Investigation Board, to the State in which the stationary source is located, and to any local agency or entity having responsibility for planning for or responding to accidental releases which may occur at such source, and shall be available to the public under section 7414(c) of this title. The Administrator shall establish, by rule, an auditing system to regularly review and, if necessary, require revision in risk management plans to assure that the plans comply with this subparagraph. Each such plan shall be updated periodically as required by the Administrator, by rule.
 
 &emsp;(C) Any regulations promulgated pursuant to this subsection shall to the maximum extent practicable, consistent with this subsection, be consistent with the recommendations and standards established by the American Society of Mechanical Engineers (ASME), the American National Standards Institute (ANSI) or the American Society of Testing Materials (ASTM). The Administrator shall take into consideration the concerns of small business in promulgating regulations under this subsection.
 
@@ -1038,7 +1038,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;(F) Notwithstanding the provisions of subchapter V of this chapter or this section, no stationary source shall be required to apply for, or operate pursuant to, a permit issued under such subchapter solely because such source is subject to regulations or requirements under this subsection.
 
-&emsp;(G) In exercising any authority under this subsection, the Administrator shall not, for purposes of section 653(b)(1) of title 29, be deemed to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.
+&emsp;(G) In exercising any authority under this subsection, the Administrator shall not, forpurposes of section 653(b)(1) of title 29, be deemed to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.
 
 &emsp;(H)
 
@@ -1050,7 +1050,7 @@ Definitions.—In this subparagraph:
 
 &emsp;&emsp;&emsp;(I)
 
-Covered person.—The term “covered person” means—
+Covered person.—The term "covered person" means—
 
 &emsp;&emsp;&emsp;&emsp;(aa) an officer or employee of the United States;
 
@@ -1068,15 +1068,15 @@ Covered person.—The term “covered person” means—
 
 &emsp;&emsp;&emsp;(II)
 
-Official use.—The term “official use” means an action of a Federal, State, or local government agency or an entity referred to in subclause (I)(ee) intended to carry out a function relevant to preventing, planning for, or responding to accidental releases.
+Official use.—The term "official use" means an action of a Federal, State, or local government agency or an entity referred to in subclause (I)(ee) intended to carry out a function relevant to preventing, planning for, or responding to accidental releases.
 
 &emsp;&emsp;&emsp;(III)
 
-Off-site consequence analysis information.—The term “off-site consequence analysis information” means those portions of a risk management plan, excluding the executive summary of the plan, consisting of an evaluation of 1 or more worst-case release scenarios or alternative release scenarios, and any electronic data base created by the Administrator from those portions.
+Off-site consequence analysis information.—The term "off-site consequence analysis information" means those portions of a risk management plan, excluding the executive summary of the plan, consisting of an evaluation of 1 or more worst-case release scenarios or alternative release scenarios, and any electronic data base created by the Administrator from those portions.
 
 &emsp;&emsp;&emsp;(IV)
 
-Risk management plan.—The term “risk management plan” means a risk management plan submitted to the Administrator by an owner or operator of a stationary source under subparagraph (B)(iii).
+Risk management plan.—The term "risk management plan" means a risk management plan submitted to the Administrator by an owner or operator of a stationary source under subparagraph (B)(iii).
 
 &emsp;&emsp;(ii)
 
@@ -1094,7 +1094,7 @@ Regulations.—Not later than 1 year after August 5, 1999, the President shall�
 
 &emsp;&emsp;&emsp;&emsp;(bb) allows other public access to off-site consequence analysis information as appropriate;
 
-&emsp;&emsp;&emsp;&emsp;(cc) allows access for official use by a covered person described in any of items (cc) through (ff) of clause (i)(I) (referred to in this subclause as a “State or local covered person”) to off-site consequence analysis information relating to stationary sources located in the person's State;
+&emsp;&emsp;&emsp;&emsp;(cc) allows access for official use by a covered person described in any of items (cc) through (ff) of clause (i)(I) (referred to in this subclause as a "State or local covered person") to off-site consequence analysis information relating to stationary sources located in the person's State;
 
 &emsp;&emsp;&emsp;&emsp;(dd) allows a State or local covered person to provide, for official use, off-site consequence analysis information relating to stationary sources located in the person's State to a State or local covered person in a contiguous State; and
 
@@ -1190,7 +1190,7 @@ Report.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—Not later than 3 years after August 5, 1999, the Attorney General, in consultation with appropriate State, local, and Federal Government agencies, affected industry, and the public, shall submit to Congress a report that describes the extent to which regulations promulgated under this paragraph have resulted in actions, including the design and maintenance of safe facilities, that are effective in detecting, preventing, and minimizing the consequences of releases of regulated substances that may be caused by criminal activity. As part of this report, the Attorney General, using available data to the extent possible, and a sampling of covered stationary sources selected at the discretion of the Attorney General, and in consultation with appropriate State, local, and Federal governmental agencies, affected industry, and the public, shall review the vulnerability of covered stationary sources to criminal and terrorist activity, current industry practices regarding site security, and security of transportation of regulated substances. The Attorney General shall submit this report, containing the results of the review, together with recommendations, if any, for reducing vulnerability of covered stationary sources to criminal and terrorist activity, to the Committee on Commerce of the United States House of Representatives and the Committee on Environment and Public Works of the United States Senate and other relevant committees of Congress.
+In general.—Not later than 3 years after August 5, 1999, the Attorney General, in consultation with appropriate State, local, and Federal Government agencies, affected industry, and the public, shall submit to Congress a report that describes the extent to which regulations promulgated under this paragraph have resulted in actions, including the design and maintenance of safe facilities, that are effective in detecting, preventing, and minimizing the consequences of releases of regulated substances that may be caused by criminal activity. As part of this report, the Attorney General, using available data to the extent possible, and a sampling of covered stationary sources selected at the discretion of the Attorney General, and in consultation with appropriate State, local,and Federal governmental agencies, affected industry, and the public, shall review the vulnerability of covered stationary sources to criminal and terrorist activity, current industry practices regarding site security, and security of transportation of regulated substances. The Attorney General shall submit this report, containing the results of the review, together with recommendations, if any, for reducing vulnerability of covered stationary sources to criminal and terrorist activity, to the Committee on Commerce of the United States House of Representatives and the Committee on Environment and Public Works of the United States Senate and other relevant committees of Congress.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -1224,7 +1224,7 @@ Authorization of appropriations.—There are authorized to be appropriated to th
 
 #### (9) Order authority
 
-&emsp;(A) In addition to any other action taken, when the Administrator determines that theremay be an imminent and substantial endangerment to the human health or welfare or the environment because of an actual or threatened accidental release of a regulated substance, the Administrator may secure such relief as may be necessary to abate such danger or threat, and the district court of the United States in the district in which the threat occurs shall have jurisdiction to grant such relief as the public interest and the equities of the case may require. The Administrator may also, after notice to the State in which the stationary source is located, take other action under this paragraph including, but not limited to, issuing such orders as may be necessary to protect human health. The Administrator shall take action under section 7603 of this title rather than this paragraph whenever the authority of such section is adequate to protect human health and the environment.
+&emsp;(A) In addition to any other action taken, when the Administrator determines that there may be an imminent and substantial endangerment to the human health or welfare or the environment because of an actual or threatened accidental release of a regulated substance, the Administrator may secure such relief as may be necessary to abate such danger or threat, and the district court of the United States in the district in which the threat occurs shall have jurisdiction to grant such relief as the public interest and the equities of the case may require. The Administrator may also, after notice to the State in which the stationary source is located, take other action under this paragraph including, but not limited to, issuing such orders as may be necessary to protect human health. The Administrator shall take action under section 7603 of this title rather than this paragraph whenever the authority of such section is adequate to protect human health and the environment.
 
 &emsp;(B) Orders issued pursuant to this paragraph may be enforced in an action brought in the appropriate United States district court as if the order were issued under section 7603 of this title.
 
@@ -1232,7 +1232,7 @@ Authorization of appropriations.—There are authorized to be appropriated to th
 
 #### (10) Presidential review
 
-&emsp;The President shall conduct a review of release prevention, mitigation and response authorities of the various Federal agencies and shall clarify and coordinate agency responsibilities to assure the most effective and efficient implementation of such authorities and to identify any deficiencies in authority or resources which may exist. The President may utilize the resources and solicit the recommendations of the Chemical Safety and Hazard Investigation Board in conducting such review. At the conclusion of such review, but not later than 24 months after November 15, 1990, the President shall transmit a message to the Congress on the release prevention, mitigation and response activities of the Federal Government making such recommendations for change in law as the President may deem appropriate. Nothing in this paragraph shall be interpreted, construed or applied to authorize the President to modify or reassign release prevention, mitigation or response authorities otherwise established by law.
+&emsp;The President shall conduct a review of release prevention, mitigation and response authorities of the various Federal agencies and shall clarify and coordinate agency responsibilities to assure the most effective and efficient implementation of such authorities and to identify any deficiencies in authority or resources which may exist. The President may utilize the resources and solicit the recommendations of the Chemical Safety and Hazard Investigation Board in conducting such review. At the conclusion of such review, but not later than 24 months after November 15, 1990, the President shall transmit a message to the Congress on the release prevention, mitigation and response activities of the Federal Government making such recommendations for change in law as the President may deem appropriate. Nothing in this paragraph shall be interpreted, construed or applied to authorize the President to modify or reassign releaseprevention, mitigation or response authorities otherwise established by law.
 
 #### (11) State authority
 
@@ -1256,13 +1256,13 @@ Not later than January 15, 1993 and every 3 years thereafter, the Administrator 
 
 The date of enactment, referred to in subsec. (a)(11), probably means the date of enactment of Pub. L. 101–549, which amended this section generally and was approved Nov. 15, 1990.
 
-The Atomic Energy Act, referred to in subsec. (d)(9), probably means the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act, referred to in subsec. (d)(9), probably means the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsecs. (e)(5) and (m)(1)(D), (5)(D), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title II of the Act is classified generally to subchapter II (§1281 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Toxic Substances Control Act, referred to in subsec. (k)(3)(C), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
-The Federal Insecticide, Fungicide and Rodenticide Act, referred to in subsec. (k)(3)(C), probably means the Federal Insecticide, Fungicide, and Rodenticide Act,act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide and Rodenticide Act, referred to in subsec. (k)(3)(C), probably means the Federal Insecticide, Fungicide, and Rodenticide Act, act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Resource Conservation and Recovery Act, referred to in subsec. (k)(3)(C), probably means the Resource Conservation and Recovery Act of 1976, Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, as amended, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 6901 of this title and Tables.
 
@@ -1280,7 +1280,7 @@ The Occupational Safety and Health Act, referred to in subsec. (r)(6)(C)(ii), (K
 
 #### Codification
 
-In subsec. (r)(6)(N), “section 6101 of title 41” substituted for “section 5 of title 41 of the United States Code” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (r)(6)(N), "section 6101 of title 41" substituted for "section 5 of title 41 of the United States Code" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was formerly classified to section 1857c-7 of this title.
 
@@ -1288,25 +1288,25 @@ Section was formerly classified to section 1857c-7 of this title.
 
 <b>1999</b>—Subsec. (r)(2)(D). Pub. L. 106–40, §2(5), added subpar. (D).
 
-Subsec. (r)(4). Pub. L. 106–40, §2, substituted “Administrator—
+Subsec. (r)(4). Pub. L. 106–40, §2, substituted "Administrator—
 
-&emsp;“(A) shall consider—”
+&emsp;"(A) shall consider—"
 
-> for “Administrator shall consider each of the following criteria—” in introductory provisions, redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A) and added subpar. (B).
+> for "Administrator shall consider each of the following criteria—" in introductory provisions, redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A) and added subpar. (B).
 
 Subsec. (r)(7)(H). Pub. L. 106–40, §3(a), added subpar. (H).
 
-<b>1998</b>—Subsec. (n)(2)(C). Pub. L. 105–362 substituted “On completion of the study, the Secretary shall submit to Congress a report on the results of the study and” for “The Secretary shall prepare annual reports to Congress on the status of the research program and at the completion of the study”.
+<b>1998</b>—Subsec. (n)(2)(C). Pub. L. 105–362 substituted "On completion of the study, the Secretary shall submit to Congress a report on the results of the study and" for "The Secretary shall prepare annual reports to Congress on the status of the research program and at the completion of the study".
 
-<b>1991</b>—Subsec. (b)(1). Pub. L. 102–187 struck out “7783064 Hydrogen sulfide” from list of pollutants.
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–187 struck out "7783064 Hydrogen sulfide" from list of pollutants.
 
 <b>1990</b>—Pub. L. 101–549 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), definitions; in subsec. (b), list of hazardous air pollutants, emission standards, and pollution control techniques; in subsec. (c), prohibited acts and exemption; in subsec. (d), State implementation and enforcement; and in subsec. (e), design, equipment, work practice, and operational standards.
 
 <b>1978</b>—Subsec. (e)(5). Pub. L. 95–623 added par. (5).
 
-<b>1977</b>—Subsec. (a)(1). Pub. L. 95–95, §401(c), substituted “causes, or contributes to, air pollution which may reasonably be anticipated to result in an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness” for “may cause, or contribute to, an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–95, §401(c), substituted "causes, or contributes to, air pollution which may reasonably be anticipated to result in an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness" for "may cause, or contribute to, an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness".
 
-Subsec. (d)(1). Pub. L. 95–95, §109(d)(2), struck out “(except with respect to stationary sources owned or operated by the United States)” after “implement and enforce such standards”.
+Subsec. (d)(1). Pub. L. 95–95, §109(d)(2), struck out "(except with respect to stationary sources owned or operated by the United States)" after "implement and enforce such standards".
 
 Subsec. (e). Pub. L. 95–95, §110, added subsec. (e).
 
@@ -1328,7 +1328,7 @@ Suits, actions, and other proceedings lawfully commenced by or against the Admin
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L.95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Delegation of Authority
 
@@ -1338,7 +1338,7 @@ Memorandum for the Administrator of the Environmental Protection Agency
 
 WHEREAS, the Environmental Protection Agency, the agencies and departments that are members of the National Response Team (authorized under Executive Order No. 12580, 52 Fed. Reg. 2923 (1987) \[42 U.S.C. 9615 note\]), and other Federal agencies and departments undertake emergency release prevention, mitigation, and response activities pursuant to various authorities;
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 112(r)(10) of the Clean Air Act (the “Act”) (section 7412(r)(10) of title 42 of the United States Code) and section 301 of title 3 of the United States Code, and in order to provide for the delegation of certain functions under the Act \[42 U.S.C. 7401 et seq.\], I hereby:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 112(r)(10) of the Clean Air Act (the "Act") (section 7412(r)(10) of title 42 of the United States Code) and section 301 of title 3 of the United States Code, and in order to provide for the delegation of certain functions under the Act \[42 U.S.C. 7401 et seq.\], I hereby:
 
 (1) Authorize you, in coordination with agencies and departments that are members of the National Response Team and other appropriate agencies and departments, to conduct a review of release prevention, mitigation, and response authorities of Federal agencies in order to assure the most effective and efficient implementation of such authorities and to identify any deficiencies in authority or resources that may exist, to the extent such review is required by section 112(r)(10) of the Act; and
 
@@ -1354,9 +1354,9 @@ Memorandum of President of the United States, Jan. 27, 2000, 65 F.R. 8631, provi
 
 Memorandum for the Attorney General\[, \] the Administrator of the Environmental Protection Agency\[, and\] the Director of the Office of Management and Budget
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including section 112(r)(7)(H) of the Clean Air Act (“Act”) (42 U.S.C. 7412(r)(7)(H)), as added by section 3 of the Chemical Safety Information, Site Security and Fuels Regulatory Relief Act (Public Law 106–40), and section 301 of title 3, United States Code, I hereby delegate to:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including section 112(r)(7)(H) of the Clean Air Act ("Act") (42 U.S.C. 7412(r)(7)(H)), as added by section 3 of the Chemical Safety Information, Site Security and Fuels Regulatory Relief Act (Public Law 106–40), and section 301 of title 3, United States Code, I hereby delegate to:
 
-(1) the Attorney General the authority vested in the President under section 112(r)(7)(H)(ii)(I)(aa) of the Act to assess the increased risk of terrorist and other criminal activity associated with the posting of off-site consequence analysis information on the Internet;
+(1) the Attorney General the authority vested in the President under section 112(r)(7)(H)(ii)(I)(aa) of the Actto assess the increased risk of terrorist and other criminal activity associated with the posting of off-site consequence analysis information on the Internet;
 
 (2) the Administrator of the Environmental Protection Agency (EPA) the authority vested in the President under section 112(r)(7)(H)(ii)(I)(bb) of the Act to assess the incentives created by public disclosure of off-site consequence analysis information for reduction in the risk of accidental releases; and
 
@@ -1370,85 +1370,85 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Pub. L. 106–40, §3(b), Aug. 5, 1999, 113 Stat. 213, provided that:
 
-“(1)
+"(1)
 
-Definition of accidental release.—In this subsection, the term ‘accidental release’ has the meaning given the term in section 112(r)(2) of the Clean Air Act (42 U.S.C. 7412(r)(2)).
+Definition of accidental release.—In this subsection, the term 'accidental release' has the meaning given the term in section 112(r)(2) of the Clean Air Act (42 U.S.C. 7412(r)(2)).
 
-“(2)
+"(2)
 
 Report on status of certain amendments.—Not later than 2 years after the date of enactment of this Act \[Aug. 5, 1999\], the Comptroller General of the United States shall submit to Congress a report on the status of the development of amendments to the National Fire Protection Association Code for Liquefied Petroleum Gas that will result in the provision of information to local emergency response personnel concerning the off-site effects of accidental releases of substances exempted from listing under section 112(r)(4)(B) of the Clean Air Act (as added by section 3).
 
-“(3)
+"(3)
 
 Report on compliance with certain information submission requirements.—Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report that—
 
-&emsp;“(A) describes the level of compliance with Federal and State requirements relating to the submission to local emergency response personnel of information intended to help the local emergency response personnel respond to chemical accidents or related environmental or public health threats; and
+&emsp;"(A) describes the level of compliance with Federal and State requirements relating to the submission to local emergency response personnel of information intended to help the local emergency response personnel respond to chemical accidents or related environmental or public health threats; and
 
-&emsp;“(B) contains an analysis of the adequacy of the information required to be submitted and the efficacy of the methods for delivering the information to local emergency response personnel.”
+&emsp;"(B) contains an analysis of the adequacy of the information required to be submitted and the efficacy of the methods for delivering the information to local emergency response personnel."
 
 #### Reevaluation of Regulations
 
-Pub. L. 106–40, §3(c), Aug. 5, 1999, 113 Stat. 213, provided that: “The President shall reevaluate the regulations promulgated under this section within 6 years after the enactment of this Act \[Aug. 5, 1999\]. If the President determines not to modify such regulations, the President shall publish a notice in the Federal Register stating that such reevaluation has been completed and that a determination has been made not to modify the regulations. Such notice shall include an explanation of the basis of such decision.”
+Pub. L. 106–40, §3(c), Aug. 5, 1999, 113 Stat. 213, provided that: "The President shall reevaluate the regulations promulgated under this section within 6 years after the enactment of this Act \[Aug. 5, 1999\]. If the President determines not to modify such regulations, the President shall publish a notice in the Federal Register stating that such reevaluation has been completed and that a determination has been made not to modify the regulations. Such notice shall include an explanation of the basis of such decision."
 
 #### Public Meeting During Moratorium Period
 
 Pub. L. 106–40, §4, Aug. 5, 1999, 113 Stat. 214, provided that:
 
-“(a)
+"(a)
 
-In General.—Not later than 180 days after the date of enactment of this Act \[Aug. 5, 1999\], each owner or operator of a stationary source covered by section 112(r)(7)(B)(ii) of the Clean Air Act \[42 U.S.C. 7412(r)(7)(B)(ii)\] shall convene a public meeting, after reasonable public notice, in order to describe and discuss the local implications of the risk management plan submitted by the stationary source pursuant to section 112(r)(7)(B)(iii) of the Clean Air Act, including a summary of the off-site consequence analysis portion of the plan. Two or more stationary sources may conduct a joint meeting. In lieu of conducting such a meeting, small business stationary sources as defined in section 507(c)(1) of the Clean Air Act \[42 U.S.C. 7661f(c)(1)\] may comply with this section by publicly posting a summary of the off-site consequence analysis information for their facility not later than 180 days after the enactment of this Act. Not later than 10 months after the date of enactment of this Act, each such owner or operator shall send a certification to the director of the Federal Bureau of Investigation stating that suchmeeting has been held, or that such summary has been posted, within 1 year prior to, or within 6 months after, the date of the enactment of this Act. This section shall not apply to sources that employ only Program 1 processes within the meaning of regulations promulgated under section 112(r)(7)(B)(i) of the Clean Air Act.
+In General.—Not later than 180 days after the date of enactment of this Act \[Aug. 5, 1999\], each owner or operator of a stationary source covered by section 112(r)(7)(B)(ii) of the Clean Air Act \[42 U.S.C. 7412(r)(7)(B)(ii)\] shall convene a public meeting, after reasonable public notice, in order to describe and discuss the local implications of the risk management plan submitted by the stationary source pursuant to section 112(r)(7)(B)(iii) of the Clean Air Act, including a summary of the off-site consequence analysis portion of the plan. Two or more stationary sources may conduct a joint meeting. In lieu of conducting such a meeting, small business stationary sources as defined in section 507(c)(1) of the Clean Air Act \[42 U.S.C. 7661f(c)(1)\] may comply with this section by publicly posting a summary of the off-site consequence analysis information for their facility not later than 180 days after the enactment of this Act. Not later than 10 months after the date of enactment of this Act, each such owner or operator shall send a certification to the director of the Federal Bureau of Investigation stating that such meeting has been held, or that such summary has been posted, within 1 year prior to, or within 6 months after, the date of the enactment of this Act. This section shall not apply to sources that employ only Program 1 processes within the meaning of regulations promulgated under section 112(r)(7)(B)(i) of the Clean Air Act.
 
-“(b)
+"(b)
 
-Enforcement.—The Administrator of the Environmental Protection Agency may bring an action in the appropriate United States district court against any person who fails or refuses to comply with the requirements of this section, and such court may issue such orders, and take such other actions, as may be necessary to require compliance with such requirements.”
+Enforcement.—The Administrator of the Environmental Protection Agency may bring an action in the appropriate United States district court against any person who fails or refuses to comply with the requirements of this section, and such court may issue such orders, and take such other actions, as may be necessary to require compliance with such requirements."
 
 #### Risk Assessment and Management Commission
 
 Pub. L. 101–549, title III, §303, Nov. 15, 1990, 104 Stat. 2574, provided that:
 
-“(a)
+"(a)
 
-Establishment.—There is hereby established a Risk Assessment and Management Commission (hereafter referred to in this section as the ‘Commission’), which shall commence proceedings not later than 18 months after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\] and which shall make a full investigation of the policy implications and appropriate uses of risk assessment and risk management in regulatory programs under various Federal laws to prevent cancer and other chronic human health effects which may result from exposure to hazardous substances.
+Establishment.—There is hereby established a Risk Assessment and Management Commission (hereafter referred to in this section as the 'Commission'), which shall commence proceedings not later than 18 months after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\] and which shall make a full investigation of the policy implications and appropriate uses of risk assessment and risk management in regulatory programs under various Federal laws to prevent cancer and other chronic human health effects which may result from exposure to hazardous substances.
 
-“(b)
+"(b)
 
 Charge.—The Commission shall consider—
 
-&emsp;“(1) the report of the National Academy of Sciences authorized by section 112(o) of the Clean Air Act \[42 U.S.C. 7412(o)\], the use and limitations of risk assessment in establishing emission or effluent standards, ambient standards, exposure standards, acceptable concentration levels, tolerances or other environmental criteria for hazardous substances that present a risk of carcinogenic effects or other chronic health effects and the suitability of risk assessment for such purposes;
+&emsp;"(1) the report of the National Academy of Sciences authorized by section 112(o) of the Clean Air Act \[42 U.S.C. 7412(o)\], the use and limitations of risk assessment in establishing emission or effluent standards, ambient standards, exposure standards, acceptable concentration levels, tolerances or other environmental criteria for hazardous substances that present a risk of carcinogenic effects or other chronic health effects and the suitability of risk assessment for such purposes;
 
-&emsp;“(2) the most appropriate methods for measuring and describing cancer risks or risks of other chronic health effects from exposure to hazardous substances considering such alternative approaches as the lifetime risk of cancer or other effects to the individual or individuals most exposed to emissions from a source or sources on both an actual and worst case basis, the range of such risks, the total number of health effects avoided by exposure reductions, effluent standards, ambient standards, exposures standards, acceptable concentration levels, tolerances and other environmental criteria, reductions in the number of persons exposed at various levels of risk, the incidence of cancer, and other public health factors;
+&emsp;"(2) the most appropriate methods for measuring and describing cancer risks or risks of other chronic health effects from exposure to hazardous substances considering such alternative approaches as the lifetime risk of cancer or other effects to the individual or individuals most exposed to emissions from a source or sources on both an actual and worst case basis, the range of such risks, the total number of health effects avoided by exposure reductions, effluent standards, ambient standards, exposures standards, acceptable concentration levels, tolerances and other environmental criteria, reductions in the number of persons exposed at various levels of risk, the incidence of cancer, and other public health factors;
 
-&emsp;“(3) methods to reflect uncertainties in measurement and estimation techniques, the existence of synergistic or antagonistic effects among hazardous substances, the accuracy of extrapolating human health risks from animal exposure data, and the existence of unquantified direct or indirect effects on human health in risk assessment studies;
+&emsp;"(3) methods to reflect uncertainties in measurement and estimation techniques, the existence of synergistic or antagonistic effects among hazardous substances, the accuracy of extrapolating human health risks from animal exposure data, and the existence of unquantified direct or indirect effects on human health in risk assessment studies;
 
-&emsp;“(4) risk management policy issues including the use of lifetime cancer risks to individuals most exposed, incidence of cancer, the cost and technical feasibility of exposure reduction measures and the use of site-specific actual exposure information in setting emissions standards and other limitations applicable to sources of exposure to hazardous substances; and
+&emsp;"(4) risk management policy issues including the use of lifetime cancer risks to individuals most exposed, incidence of cancer, the cost and technical feasibility of exposure reduction measures and the use of site-specific actual exposure information in setting emissions standards and other limitations applicable to sources of exposure to hazardous substances; and
 
-&emsp;“(5) and comment on the degree to which it is possible or desirable to develop a consistent risk assessment methodology, or a consistent standard of acceptable risk, among various Federal programs.
+&emsp;"(5) and comment on the degree to which it is possible or desirable to develop a consistent risk assessment methodology, or a consistent standard of acceptable risk, among various Federal programs.
 
-“(c)
+"(c)
 
 Membership.—Such Commission shall be composed of ten members who shall have knowledge or experience in fields of risk assessment or risk management, including three members to be appointed by the President, two members to be appointed by the Speaker of the House of Representatives, one member to be appointed by the Minority Leader of the House of Representatives, two members to be appointed by the Majority Leader of the Senate, one member to be appointed by the Minority Leader of the Senate, and one member to be appointed by the President of the National Academy of Sciences. Appointments shall be made not later than 18 months after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\].
 
-“(d)
+"(d)
 
 Assistance from Agencies.—The Administrator of the Environmental Protection Agency and the heads of all other departments, agencies, and instrumentalities of the executive branch of the Federal Government shall, to the maximum extent practicable, assist the Commission in gathering such information as the Commission deems necessary to carry out this section subject to other provisions of law.
 
-“(e)
+"(e)
 
 Staff and Contracts.—
 
-&emsp;“(1) In the conduct of the study required by this section, the Commission is authorized to contract (in accordance with Federal contract law) with nongovernmental entities that are competent to perform research or investigations within the Commission's mandate, and to hold public hearings, forums, and workshops to enable full public participation.
+&emsp;"(1) In the conduct of the study required by this section, the Commission is authorized to contract (in accordance with Federal contract law) with nongovernmental entities that are competent to perform research or investigations within the Commission's mandate, and to hold public hearings, forums, and workshops to enable full public participation.
 
-&emsp;“(2) The Commission may appoint and fix the pay of such staff as it deems necessary in accordance with the provisions of title 5, United States Code. The Commission may request the temporary assignment of personnel from the Environmental Protection Agency or other Federal agencies.
+&emsp;"(2) The Commission may appoint and fix the pay of such staff as it deems necessary in accordance with the provisions of title 5, United States Code. The Commission may request the temporary assignment of personnel from the Environmental Protection Agency or other Federal agencies.
 
-&emsp;“(3) The members of the Commission who are not officers or employees of the United States, while attending conferences or meetings of the Commission or while otherwise serving at the request of the Chair, shall be entitled to receive compensation at a rate not in excess of the maximum rate of pay for Grade GS–18, as provided in the General Schedule under section 5332 of title 5 of the United States Code, including travel time, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence as authorized by law for persons in the Government service employed intermittently.
+&emsp;"(3) The members of the Commission who are not officers or employees of the United States, while attending conferences or meetings of the Commission or while otherwise serving at the request of the Chair, shall be entitled to receive compensation at a rate not in excess of the maximum rate of pay for Grade GS–18, as provided in the General Schedule under section 5332 of title 5 of the United States Code, including travel time, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence as authorized by law for persons in the Government service employed intermittently.
 
-“(f)
+"(f)
 
 Report.—A report containing the results of all Commission studies and investigations under this section, together with any appropriate legislative recommendations or administrative recommendations, shall be made available to the public for comment not later than 42 months after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\] and shall be submitted to the President and to the Congress not later than 48 months after such date of enactment. In the report, the Commission shall make recommendations with respect to the appropriate use of risk assessment and risk management in Federal regulatory programs to prevent cancer or other chronic health effects which may result from exposure to hazardous substances. The Commission shall cease to exist upon the date determined by the Commission, but not later than 9 months after the submission of such report.
 
-“(g)
+"(g)
 
-Authorization.—There are authorized to be appropriated such sums as are necessary to carry out the activities of the Commission established by this section.”
+Authorization.—There are authorized to be appropriated such sums as are necessary to carry out the activities of the Commission established by this section."
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
@@ -1458,7 +1458,7 @@ Memorandum of President of the United States, Dec. 21, 2011, 76 F.R. 80727, prov
 
 Memorandum for the Administrator of the Environmental Protection Agency
 
-Today's issuance, by the Environmental Protection Agency (EPA), of the final Mercury and Air ToxicsStandards rule for power plants (the “MATS Rule”) represents a major step forward in my Administration's efforts to protect public health and the environment.
+Today's issuance, by the Environmental Protection Agency (EPA), of the final Mercury and Air Toxics Standards rule for power plants (the "MATS Rule") represents a major step forward in my Administration's efforts to protect public health and the environment.
 
 This rule, issued after careful consideration of public comments, prescribes standards under section 112 of the Clean Air Act to control emissions of mercury and other toxic air pollutants from power plants, which collectively are among the largest sources of such pollution in the United States. The EPA estimates that by substantially reducing emissions of pollutants that contribute to neurological damage, cancer, respiratory illnesses, and other health risks, the MATS Rule will produce major health benefits for millions of Americans—including children, older Americans, and other vulnerable populations. Consistent with Executive Order 13563 (Improving Regulation and Regulatory Review), the estimated benefits of the MATS Rule far exceed the estimated costs.
 
@@ -1472,11 +1472,11 @@ The Clean Air Act provides 3 years from the effective date of the MATS Rule for 
 
 The EPA has concluded that 4 years should generally be sufficient to install the necessary emission control equipment, and DOE has issued analysis consistent with that conclusion. While more time is generally not expected to be needed, the Clean Air Act offers other important flexibilities as well. For example, section 113(a) of the Act provides the EPA with flexibility to bring sources into compliance over the course of an additional year, should unusual circumstances arise that warrant such flexibility.
 
-To address any concerns with respect to electric reliability while assuring MATS’ public health benefits, I direct you to take the following actions:
+To address any concerns with respect to electric reliability while assuring MATS' public health benefits, I direct you to take the following actions:
 
-1\. Building on the information and guidance that you have provided to the public, relevant stakeholders, and permitting authorities in the preamble of the MATS Rule, work with State and local permitting authorities to make the additional year for compliance with the MATS Rule provided under section 112(i)(3)(B) of the Clean Air Act broadly available to sources, consistent with law, and to invoke this flexibility expeditiously where justified.
+1\. Building on the information and guidance that you have provided to the public, relevant stakeholders, and permitting authorities in the preamble of the MATS Rule, work with State and local permitting authorities to make the additional year for compliance with theMATS Rule provided under section 112(i)(3)(B) of the Clean Air Act broadly available to sources, consistent with law, and to invoke this flexibility expeditiously where justified.
 
-2\. Promote early, coordinated, and orderly planning and execution of the measures needed to implement the MATS Rule while maintaining the reliability of the electric power system. Consistent with Executive Order 13563, this process should be designed to “promote predictability and reduce uncertainty,” and should include engagement and coordination with DOE, the Federal Energy Regulatory Commission, State utility regulators, Regional Transmission Organizations, the North American Electric Reliability Corporation and regional electric reliability organizations, other grid planning authorities, electric utilities, and other stakeholders, as appropriate.
+2\. Promote early, coordinated, and orderly planning and execution of the measures needed to implement the MATS Rule while maintaining the reliability of the electric power system. Consistent with Executive Order 13563, this process should be designed to "promote predictability and reduce uncertainty," and should include engagement and coordination with DOE, the Federal Energy Regulatory Commission, State utility regulators, Regional Transmission Organizations, the North American Electric Reliability Corporation and regional electric reliability organizations, other grid planning authorities, electric utilities, and other stakeholders, as appropriate.
 
 3\. Make available to the public, including relevant stakeholders, information concerning any anticipated use of authorities: (a) under section 112(i)(3)(B) of the Clean Air Act in the event that additional time to comply with the MATS Rule is necessary for the installation of technology; and (b) under section 113(a) of the Clean Air Act in the event that additional time to comply with the MATS Rule is necessary to address a specific and documented electric reliability issue. This information should describe the process for working with entities with relevant expertise to identify circumstances where electric reliability concerns might justify allowing additional time to comply.
 
@@ -1488,19 +1488,19 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “effects”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "effects".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "section".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “Right-To-Know”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "Right-To-Know".</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be paragraph “(7)(B)”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be paragraph "(7)(B)".</i>
 
-<i><sup>6</sup></i><i> So in original. The word “or” probably should appear.</i>
+<i><sup>6</sup></i><i> So in original. The word "or" probably should appear.</i>
 
-<i><sup>7</sup></i><i> So in original. The word “Administrator” probably should be “Secretary”.</i>
+<i><sup>7</sup></i><i> So in original. The word "Administrator" probably should be "Secretary".</i>
 
-<i><sup>8</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>8</sup></i><i> So in original. Probably should be "subparagraph".</i>
 
-<i><sup>9</sup></i><i> So in original. Probably should be “(i)(II)”.</i>
+<i><sup>9</sup></i><i> So in original. Probably should be "(i)(II)".</i>
 

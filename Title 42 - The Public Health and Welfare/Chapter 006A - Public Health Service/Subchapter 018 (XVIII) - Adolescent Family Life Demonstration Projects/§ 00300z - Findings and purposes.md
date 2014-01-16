@@ -18,7 +18,7 @@
 
 &emsp;(7) an unmarried adolescent who becomes pregnant once is likely to experience recurrent pregnancies and childbearing, with increased risks;
 
-&emsp;(8)(A) the problems of adolescent premarital sexual relations, pregnancy, and parenthood are multiple and complex and are frequentlyassociated with or are a cause of other troublesome situations in the family; and
+&emsp;(8)(A) the problems of adolescent premarital sexual relations, pregnancy, and parenthood are multiple and complex and are frequently associated with or are a cause of other troublesome situations in the family; and
 
 &emsp;(B) such problems are best approached through a variety of integrated and essential services provided to adolescents and their families by other family members, religious and charitable organizations, voluntary associations, and other groups in the private sector as well as services provided by publicly sponsored initiatives;
 
@@ -28,7 +28,7 @@
 
 &emsp;(B) Federal policy therefore should encourage the development of appropriate health, educational, and social services where such services are now lacking or inadequate, and the better coordination of existing services where they are available; and
 
-&emsp;(C) services encouraged by the Federal Government should promote the involvement of parents with their adolescent children, and should emphasize the provision of support by other family members, religious and charitable organizations, voluntary associations, and other groups in the private sector in order to help adolescents and their families deal with complex issues of adolescent premarital sexual relations and the consequences of such relations; and
+&emsp;(C) services encouraged by the Federal Government should promote the involvement of parents with their adolescent children, and should emphasize the provision of support by other family members, religious and charitable organizations, voluntary associations, and other groups in the private sector in order to help adolescents and their families deal with complex issues of adolescent premaritalsexual relations and the consequences of such relations; and
 
 &emsp;(11)(A) there has been limited research concerning the societal causes and consequences of adolescent pregnancy;
 
@@ -60,5 +60,5 @@
 
 <b>1984</b>—Subsec. (a)(5). Pub. L. 98–512, §2(b), struck out reference relating to developmental disabilities and inserted provision relating to importance of education, training, and job research services for adolescent parents.
 
-Subsec. (b)(3). Pub. L. 98–512, §2(c), inserted “both” before “for pregnant adolescents”.
+Subsec. (b)(3). Pub. L. 98–512, §2(c), inserted "both" before "for pregnant adolescents".
 

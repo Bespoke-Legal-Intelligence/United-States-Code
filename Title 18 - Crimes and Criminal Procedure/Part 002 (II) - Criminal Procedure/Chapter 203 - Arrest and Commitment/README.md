@@ -16,7 +16,7 @@
 | [3047\.](%C2%A7%2003047%20-%20Multiple%20warrants%20unnecessary.md) | Multiple warrants unnecessary. |
 | [3048\.](%C2%A7%2003048%20-%20Commitment%20to%20another%20district%3B%20removal%E2%80%94%28Rule%29.md) | Commitment to another district; removal—Rule. |
 | [3049\.](%C2%A7%2003049%20-%20Warrant%20for%20removal.md) | Warrant for removal. |
-| [3050\.](%C2%A7%2003050%20-%20Bureau%20of%20Prisons%20employees%E2%80%99%20powers.md) | Bureau of Prisons employees’ powers. |
+| [3050\.](%C2%A7%2003050%20-%20Bureau%20of%20Prisons%20employees%27%20powers.md) | Bureau of Prisons employees' powers. |
 | [3051\.](%C2%A7%2003051%20-%20Powers%20of%20Special%20Agents%201%20of%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives.md) | Powers of Special Agents of Bureau of Alcohol, Tobacco, Firearms, and Explosives <sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,7 @@
 | [3052\.](%C2%A7%2003052%20-%20Powers%20of%20Federal%20Bureau%20of%20Investigation.md) | Powers of Federal Bureau of Investigation. |
 | [3053\.](%C2%A7%2003053%20-%20Powers%20of%20marshals%20and%20deputies.md) | Powers of marshals and deputies. |
 | \[3054. | Repealed.\] |
-| [3055\.](%C2%A7%2003055%20-%20Officers%E2%80%99%20powers%20to%20suppress%20Indian%20liquor%20traffic.md) | Officers’ powers to suppress Indian liquor traffic. |
+| [3055\.](%C2%A7%2003055%20-%20Officers%27%20powers%20to%20suppress%20Indian%20liquor%20traffic.md) | Officers' powers to suppress Indian liquor traffic. |
 | [3056\.](%C2%A7%2003056%20-%20Powers%2C%20authorities%2C%20and%20duties%20of%20United%20States%20Secret%20Service.md) | Powers, authorities, and duties of United States Secret Service. |
 | [3056A.](%C2%A7%2003056A%20-%20Powers%2C%20authorities%2C%20and%20duties%20of%20United%20States%20Secret%20Service%20Uniformed%20Division.md) | Powers, authorities, and duties of United States Secret Service Uniformed Division. |
 | [3057\.](%C2%A7%2003057%20-%20Bankruptcy%20investigations.md) | Bankruptcy investigations. |
@@ -59,25 +59,25 @@ Pub. L. 109–162, title XI, §1172(a), Jan. 5, 2006, 119 Stat. 3123, added item
 
 <b>1994</b>—Pub. L. 103–322, title XXXIII, §330010(18), Sept. 13, 1994, 108 Stat. 2144, inserted a period at end of item 3059A.
 
-<b>1990</b>—Pub. L. 101–647, title XXXV, §3570, Nov. 29, 1990, 104 Stat. 4928, struck out item 3054 “Officer's powers involving animals and birds”.
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3570, Nov. 29, 1990, 104 Stat. 4928, struck out item 3054 "Officer's powers involving animals and birds".
 
 Pub. L. 101–647, title XXV, §2587(b), Nov. 29, 1990, 104 Stat. 4905, as amended, effective as of date section 2587(b) of Pub. L. 101–647 took effect, by Pub. L. 103–322, title XXXIII, §330011(a), Sept. 13, 1994, 108 Stat. 2144, added item 3059A.
 
-<b>1988</b>—Pub. L. 100–690, title VI, §6251(b), Nov. 18, 1988, 102 Stat. 4362, substituted “Investigative powers of Postal Service personnel” for “Powers of postal personnel” in item 3061.
+<b>1988</b>—Pub. L. 100–690, title VI, §6251(b), Nov. 18, 1988, 102 Stat. 4362, substituted "Investigative powers of Postal Service personnel" for "Powers of postal personnel" in item 3061.
 
 Pub. L. 100–582, §4(b), Nov. 1, 1988, 102 Stat. 2959, added item 3063.
 
-<b>1984</b>—Pub. L. 98–587, §1(b), Oct. 30, 1984, 98 Stat. 3111, substituted “Powers, authorities, and duties of United States Secret Service” for “Secret Service powers” in item 3056.
+<b>1984</b>—Pub. L. 98–587, §1(b), Oct. 30, 1984, 98 Stat. 3111, substituted "Powers, authorities, and duties of United States Secret Service" for "Secret Service powers" in item 3056.
 
-Pub. L. 98–473, title II, §204(e), Oct. 12, 1984, 98 Stat. 1986, substituted “Repealed” for “Security of the peace and good behavior” in item 3043 and added item 3062.
+Pub. L. 98–473, title II, §204(e), Oct. 12, 1984, 98 Stat. 1986, substituted "Repealed" for "Security of the peace and good behavior" in item 3043 and added item 3062.
 
-<b>1970</b>—Pub. L. 91–375, §6(j)(38)(B), Aug. 12, 1970, 84 Stat. 782, substituted “postal personnel” for “postal inspectors” in item 3061.
+<b>1970</b>—Pub. L. 91–375, §6(j)(38)(B), Aug. 12, 1970, 84 Stat. 782, substituted "postal personnel" for "postal inspectors" in item 3061.
 
-<b>1968</b>—Pub. L. 90–578, title III, §303(b), Oct. 17, 1968, 82 Stat. 1118, struck out reference to “Rule” in item 3060.
+<b>1968</b>—Pub. L. 90–578, title III, §303(b), Oct. 17, 1968, 82 Stat. 1118, struck out reference to "Rule" in item 3060.
 
 Pub. L. 90–560, §5(b), Oct. 12, 1968, 82 Stat. 998, added item 3061.
 
-<b>1951</b>—Act Oct. 31, 1951, ch. 655, §56(f), 65 Stat. 729, struck out item 3051 “Extradition agent's powers”.
+<b>1951</b>—Act Oct. 31, 1951, ch. 655, §56(f), 65 Stat. 729, struck out item 3051 "Extradition agent's powers".
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
@@ -99,12 +99,12 @@ Pub. L. 90–560, §5(b), Oct. 12, 1968, 82 Stat. 998, added item 3061.
 - [&sect; 03047 - Multiple warrants unnecessary](%C2%A7%2003047%20-%20Multiple%20warrants%20unnecessary.md)
 - [&sect; 03048 - Commitment to another district; removal&#8212;(Rule)](%C2%A7%2003048%20-%20Commitment%20to%20another%20district%3B%20removal%E2%80%94%28Rule%29.md)
 - [&sect; 03049 - Warrant for removal](%C2%A7%2003049%20-%20Warrant%20for%20removal.md)
-- [&sect; 03050 - Bureau of Prisons employees&#8217; powers](%C2%A7%2003050%20-%20Bureau%20of%20Prisons%20employees%E2%80%99%20powers.md)
+- [&sect; 03050 - Bureau of Prisons employees' powers](%C2%A7%2003050%20-%20Bureau%20of%20Prisons%20employees%27%20powers.md)
 - [&sect; 03051 - Powers of Special Agents 1 of Bureau of Alcohol, Tobacco, Firearms, and Explosives](%C2%A7%2003051%20-%20Powers%20of%20Special%20Agents%201%20of%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives.md)
 - [&sect; 03052 - Powers of Federal Bureau of Investigation](%C2%A7%2003052%20-%20Powers%20of%20Federal%20Bureau%20of%20Investigation.md)
 - [&sect; 03053 - Powers of marshals and deputies](%C2%A7%2003053%20-%20Powers%20of%20marshals%20and%20deputies.md)
 - [&sect; 03054 - Repealed. Pub. L. 97&#8211;79, &sect;9(b)(3), Nov. 16, 1981, 95 Stat. 1079](%C2%A7%2003054%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9379%2C%20%C2%A79%28b%29%283%29%2C%20Nov.%2016%2C%201981%2C%2095%20Stat.%201079.md)
-- [&sect; 03055 - Officers&#8217; powers to suppress Indian liquor traffic](%C2%A7%2003055%20-%20Officers%E2%80%99%20powers%20to%20suppress%20Indian%20liquor%20traffic.md)
+- [&sect; 03055 - Officers' powers to suppress Indian liquor traffic](%C2%A7%2003055%20-%20Officers%27%20powers%20to%20suppress%20Indian%20liquor%20traffic.md)
 - [&sect; 03056 - Powers, authorities, and duties of United States Secret Service](%C2%A7%2003056%20-%20Powers%2C%20authorities%2C%20and%20duties%20of%20United%20States%20Secret%20Service.md)
 - [&sect; 03056A - Powers, authorities, and duties of United States Secret Service Uniformed Division](%C2%A7%2003056A%20-%20Powers%2C%20authorities%2C%20and%20duties%20of%20United%20States%20Secret%20Service%20Uniformed%20Division.md)
 - [&sect; 03057 - Bankruptcy investigations](%C2%A7%2003057%20-%20Bankruptcy%20investigations.md)

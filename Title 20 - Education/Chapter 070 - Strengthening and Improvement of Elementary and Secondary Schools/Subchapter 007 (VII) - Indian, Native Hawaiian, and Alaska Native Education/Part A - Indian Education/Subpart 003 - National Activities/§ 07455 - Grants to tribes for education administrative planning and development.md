@@ -36,7 +36,7 @@ Each grant awarded under this section may be awarded for a period of not more th
 
 #### (3) Approval
 
-&emsp;The Secretary may approve an application submitted by a tribe or tribal organizationpursuant to this section only if the Secretary is satisfied that such application, including any documentation submitted with the application—
+&emsp;The Secretary may approve an application submitted by a tribe or tribal organization pursuant to this section only if the Secretary is satisfied that such application, including any documentation submitted with the application—
 
 &emsp;&emsp;(A) demonstrates that the applicant has consulted with other education entities, if any, within the territorial jurisdiction of the applicant who will be affected by the activities to be conducted under the grant;
 
@@ -52,7 +52,7 @@ A tribe may not receive funds under this section if such tribe receives funds un
 
 #### References in Text
 
-Section 2024 of title 25, referred to in subsec. (d), was omitted in the general amendment of chapter 22 of Title 25, Indians, by Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2007. See section 2020 of Title 25.
+Section 2024 of title 25, referred to in subsec. (d), was omitted in the general amendment of chapter 22 ofTitle 25, Indians, by Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2007. See section 2020 of Title 25.
 
 #### Prior Provisions
 

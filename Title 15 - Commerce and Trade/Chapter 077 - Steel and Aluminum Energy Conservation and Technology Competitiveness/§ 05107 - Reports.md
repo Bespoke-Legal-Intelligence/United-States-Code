@@ -6,7 +6,7 @@ The Secretary shall prepare and submit annually to the President and the Congres
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–229 inserted “, beginning with fiscal year 2008,” after “close of each fiscal year”.
+<b>2008</b>—Pub. L. 110–229 inserted ", beginning with fiscal year 2008," after "close of each fiscal year".
 
 <b>1992</b>—Pub. L. 102–486 inserted sentence at end relating to reports submitted at the close of fiscal years 1993, 1995, and 1997.
 

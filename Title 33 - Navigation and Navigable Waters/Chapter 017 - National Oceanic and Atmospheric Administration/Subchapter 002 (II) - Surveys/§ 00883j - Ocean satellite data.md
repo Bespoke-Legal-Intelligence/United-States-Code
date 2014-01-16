@@ -1,6 +1,6 @@
 ### §883j. Ocean satellite data
 
-The Administrator of the National Oceanic and Atmospheric Administration (hereinafter referred to in this subtitle <sup>1</sup> as the “Administration”) shall take such actions, including the sponsorship of applied research, as may be necessary to assure the future availability and usefulness of ocean satellite data to the maritime community.
+The Administrator of the National Oceanic and Atmospheric Administration (hereinafter referred to in this subtitle <sup>1</sup> as the "Administration") shall take such actions, including the sponsorship of applied research, as may be necessary to assure the future availability and usefulness of ocean satellite data to the maritime community.
 
 (Pub. L. 99–272, title VI, §6082, Apr. 7, 1986, 100 Stat. 135.)
 
@@ -16,23 +16,23 @@ Functions of Secretary and other officers of Department of Commerce under this s
 
 Pub. L. 102–567, title I, §116, Oct. 29, 1992, 106 Stat. 4279, provided that:
 
-“(a)
+"(a)
 
 In General.—The Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, in consultation with Federal, academic, and commercial users of remotely sensed data, shall consider and develop findings and recommendations regarding—
 
-&emsp;“(1) the most urgent current needs of oceanographic researchers within the Federal Government, the academic community, and the private sector, for remote sensing capabilities and remotely sensed data, including findings regarding the present inadequacies in these capabilities and data; and
+&emsp;"(1) the most urgent current needs of oceanographic researchers within the Federal Government, the academic community, and the private sector, for remote sensing capabilities and remotely sensed data, including findings regarding the present inadequacies in these capabilities and data; and
 
-&emsp;“(2) the major goals of satellite oceanography for the next 10 years.
+&emsp;"(2) the major goals of satellite oceanography for the next 10 years.
 
-“(b)
+"(b)
 
 Report.—Not later than one year after the date of enactment of this Act \[Oct. 29, 1992\], the Federal Coordinating Council for Science, Engineering, and Technology shall submit to the Congress a report which describes the findings and recommendations of the Committee on Earth and Environmental Sciences, including recommendations for, or a description of actions to be taken toward—
 
-&emsp;“(1) correcting the inadequacies in remote sensing capabilities;
+&emsp;"(1) correcting the inadequacies in remote sensing capabilities;
 
-&emsp;“(2) improving the availability of remotely sensed data; and
+&emsp;"(2) improving the availability of remotely sensed data; and
 
-&emsp;“(3) achieving the major goals of satellite oceanography developed pursuant to subsection (a)(2).”
+&emsp;"(3) achieving the major goals of satellite oceanography developed pursuant to subsection (a)(2)."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

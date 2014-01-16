@@ -6,7 +6,7 @@ Not later than 180 days after December 19, 2007, the Secretary, in consultation 
 
 #### (b) Material for the establishment of standards
 
-The Director of the National Institute of Standards and Technology, in consultation with the Secretary, shall make publicly available the physical property data and characterization of biodiesel and other biofuels as appropriate.
+The Director of the National Institute of Standards and Technology, in consultation withthe Secretary, shall make publicly available the physical property data and characterization of biodiesel and other biofuels as appropriate.
 
 (Pub. L. 110–140, title II, §221, Dec. 19, 2007, 121 Stat. 1533.)
 

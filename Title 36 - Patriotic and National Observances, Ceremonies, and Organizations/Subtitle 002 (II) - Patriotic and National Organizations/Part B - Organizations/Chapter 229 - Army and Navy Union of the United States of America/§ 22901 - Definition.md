@@ -1,6 +1,6 @@
 ### §22901. Definition
 
-For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
+For purposes of this chapter, "State" includes the District of Columbia and the territories and possessions of the United States.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1309.)
 
@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Nov. 6, 1986, Pub. L. 99–604, §14, 100 Stat. 3448.
 
-The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
+The words "the Commonwealth of Puerto Rico" are omitted as included in "the territories and possessions of the United States".
 

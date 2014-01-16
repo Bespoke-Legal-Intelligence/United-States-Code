@@ -12,487 +12,487 @@ Act of March 1, 1929 (45 Stat. 1443), referred to in text, is act Mar. 1, 1929, 
 
 Pub. L. 105–313, Oct. 30, 1998, 112 Stat. 2964, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘Miccosukee Reserved Area Act’.
+"This Act may be cited as the 'Miccosukee Reserved Area Act'.
 
-#### “SEC. 2. FINDINGS.
+#### "SEC. 2. FINDINGS.
 
-“Congress finds the following:
+"Congress finds the following:
 
-&emsp;“(1) Since 1964, the Miccosukee Tribe of Indians of Florida have lived and governed their own affairs on a strip of land on the northern edge of the Everglades National Park pursuant to permits from the National Park Service and other legal authority. The current permit expires in 2014.
+&emsp;"(1) Since 1964, the Miccosukee Tribe of Indians of Florida have lived and governed their own affairs on a strip of land on the northern edge of the Everglades National Park pursuant to permits from the National Park Service and other legal authority. The current permit expires in 2014.
 
-&emsp;“(2) Since the commencement of the Tribe's permitted use and occupancy of the Special Use Permit Area, the Tribe's membership has grown, as have the needs and desires of the Tribe and its members for modern housing, governmental and administrative facilities, schools and cultural amenities, and related structures.
+&emsp;"(2) Since the commencement of the Tribe's permitted use and occupancy of the Special Use Permit Area, the Tribe's membership has grown, as have the needs and desires of the Tribe and its members for modern housing, governmental and administrative facilities, schools and cultural amenities, and related structures.
 
-&emsp;“(3) The United States, the State of Florida, the Miccosukee Tribe, and the Seminole Tribe of Florida are participating in a major intergovernmental effort to restore the South Florida ecosystem, including the restoration of the environment of the Park.
+&emsp;"(3) The United States, the State of Florida, the Miccosukee Tribe, and the Seminole Tribe of Florida are participating in a major intergovernmental effort to restore the South Florida ecosystem, including the restoration of the environment of the Park.
 
-&emsp;“(4) The Special Use Permit Area is located within the northern boundary of the Park, which is critical to the protection and restoration of the Everglades, as well as to the cultural values of the Miccosukee Tribe.
+&emsp;"(4) The Special Use Permit Area is located within the northern boundary of the Park, which is critical to the protection and restoration of the Everglades, as well as to the cultural values of the Miccosukee Tribe.
 
-&emsp;“(5) The interests of both the Miccosukee Tribe and the United States would be enhanced by a further delineation of the rights and obligations of each with respect to the Special Use Permit Area and to the Park as a whole.
+&emsp;"(5) The interests of both the Miccosukee Tribe and the United States would be enhanced by a further delineation of the rights and obligations of each with respect to the Special Use Permit Area and to the Park as a whole.
 
-&emsp;“(6) The amount and location of land allocated to the Tribe fulfills the purposes of the Park.
+&emsp;"(6) The amount and location of land allocated to the Tribe fulfills the purposes of the Park.
 
-&emsp;“(7) The use of the Miccosukee Reserved Area by the Miccosukee Tribe does not constitute an abandonment of the Park.
+&emsp;"(7) The use of the Miccosukee Reserved Area by the Miccosukee Tribe does not constitute an abandonment of the Park.
 
-#### “SEC. 3. PURPOSES.
+#### "SEC. 3. PURPOSES.
 
-“The purposes of this Act are as follows:
+"The purposes of this Act are as follows:
 
-&emsp;“(1) To replace the special use permit with a legal framework under which the Tribe can live permanently and govern the Tribe's own affairs in a modern community within the Park.
+&emsp;"(1) To replace the special use permit with a legal framework under which the Tribe can live permanently and govern the Tribe's own affairs in a modern community within the Park.
 
-&emsp;“(2) To protect the Park outside the boundaries of the Miccosukee Reserved Area from adverse effects of structures or activities within that area, and to support restoration of the South Florida ecosystem, including restoring the environment of the Park.
+&emsp;"(2) To protect the Park outside the boundaries of the Miccosukee Reserved Area from adverse effects of structures or activities within that area, and to support restoration of the South Florida ecosystem, including restoring the environment of the Park.
 
-#### “SEC. 4. DEFINITIONS.
+#### "SEC. 4. DEFINITIONS.
 
-“In this Act:
+"In this Act:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
+Administrator.—The term 'Administrator' means the Administrator of the Environmental Protection Agency.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Everglades.—The term ‘Everglades’ means the areas within the Florida Water Conservation Areas, Everglades National Park, and Big Cypress National Preserve.
+Everglades.—The term 'Everglades' means the areas within the Florida Water Conservation Areas, Everglades National Park, and Big Cypress National Preserve.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Federal agency.—The term ‘Federal agency’ means an agency, as that term is defined in section 551(1) of title 5, United States Code.
+Federal agency.—The term 'Federal agency' means an agency, as that term is defined in section 551(1) of title 5, United States Code.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Miccosukee reserved area; mra.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-In general.—The term ‘Miccosukee Reserved Area’ or ‘MRA’ means, notwithstanding any other provision of law and subject to the limitations specified in section 6(d) of this Act, the portion of the Everglades National Park described in subparagraph (B) that is depicted on the map entitled ‘Miccosukee Reserved Area’ numbered NPS–160/41,038, and dated September 30, 1998, copies of which shall be kept available for public inspection in the offices of the National Park Service, Department of the Interior, and shall be filed with appropriate officers of Miami-Dade County and the Miccosukee Tribe of Indians of Florida.
+In general.—The term 'Miccosukee Reserved Area' or 'MRA' means, notwithstanding any other provision of law and subject to the limitations specified in section 6(d) of this Act, the portion of the Everglades National Park described in subparagraph (B) that is depicted on the map entitled 'Miccosukee Reserved Area' numbered NPS–160/41,038, and dated September 30, 1998, copies of which shall be kept available for public inspection in the offices of the National Park Service, Department of the Interior, and shall be filed with appropriate officers of Miami-Dade County and the Miccosukee Tribe of Indians of Florida.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Description.—The description of the lands referred to in subparagraph (A) is as follows: ‘Beginning at the western boundary of Everglades National Park at the west line of sec. 20, T. 54 S., R. 35 E., thence E. following the Northern boundary of said Park in T. 54 S., Rs. 35 and 36 E., to a point in sec. 19, T. 54 S., R. 36 E., 500 feet west of the existing road known as Seven Mile Road, thence 500 feet south from said point, thence west paralleling the Park boundary for 3,200 feet, thence south for 600 feet, thence west, paralleling the Park boundary to the west line of sec. 20, T. 54 S., R. 35 E., thence N. 1,100 feet to the point of beginning.’.
+Description.—The description of the lands referred to in subparagraph (A) is as follows: 'Beginning at the western boundary of Everglades National Park at the west line of sec. 20, T. 54 S., R. 35 E., thence E. following the Northern boundary of said Park in T. 54 S., Rs. 35 and 36 E., to a point in sec. 19, T. 54 S., R. 36 E., 500 feet west of the existing road known as Seven Mile Road, thence 500 feet south from said point, thence west paralleling the Park boundary for 3,200 feet, thence south for 600 feet, thence west, paralleling the Park boundary to the west line of sec. 20, T. 54 S., R. 35 E., thence N. 1,100 feet to the point of beginning.'.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Park.—The term ‘Park’ means the Everglades National Park, including any additions to that Park.
+Park.—The term 'Park' means the Everglades National Park, including any additions to that Park.
 
-&emsp;“(6)
+&emsp;"(6)
 
-Permit.—The term ‘permit’, unless otherwise specified, means any federally issued permit, license, certificate of public convenience and necessity, or other permission of any kind.
+Permit.—The term 'permit', unless otherwise specified, means any federally issued permit, license, certificate of public convenience and necessity, or other permission of any kind.
 
-&emsp;“(7)
+&emsp;"(7)
 
-Secretary.—The term ‘Secretary’ means the Secretary of the Interior or the designee of the Secretary.
+Secretary.—The term 'Secretary' means the Secretary of the Interior or the designee of the Secretary.
 
-&emsp;“(8)
+&emsp;"(8)
 
-South florida ecosystem.—The term ‘South Florida ecosystem’ has the meaning given that term in section 528(a)(4) of the Water Resources Development Act of 1996 (Public Law 104–303) \[110 Stat. 3767\].
+South florida ecosystem.—The term 'South Florida ecosystem' has the meaning given that term in section 528(a)(4) of the Water Resources Development Act of 1996 (Public Law 104–303) \[110 Stat. 3767\].
 
-&emsp;“(9)
+&emsp;"(9)
 
-Special use permit area.—The term ‘special use permit area’ means the area of 333.3 acres on the northern boundary of the Park reserved for the use, occupancy, and governance of the Tribe under a special use permit before the date of the enactment of this Act \[Oct. 30, 1998\].
+Special use permit area.—The term 'special use permit area' means the area of 333.3 acres on the northern boundary of the Park reserved for the use, occupancy, and governance of the Tribe under a special use permit before the date of the enactment of this Act \[Oct. 30, 1998\].
 
-&emsp;“(10)
+&emsp;"(10)
 
-Tribe.—The term ‘Tribe’, unless otherwise specified, means the Miccosukee Tribe of Indians of Florida, a tribe of American Indians recognized by the United States and organized under section 16 of the Act of June 18, 1934 (48 Stat. 987; 25 U.S.C. 476), and recognized by the State of Florida pursuant to chapter 285, Florida Statutes.
+Tribe.—The term 'Tribe', unless otherwise specified, means the Miccosukee Tribe of Indians of Florida, a tribe of American Indians recognized by the United States and organized under section 16 of the Act of June 18, 1934 (48 Stat. 987; 25 U.S.C. 476), and recognized by the State of Florida pursuant to chapter 285, Florida Statutes.
 
-&emsp;“(11)
+&emsp;"(11)
 
-Tribal.—The term ‘tribal’ means of or pertaining to the Miccosukee Tribe of Indians of Florida.
+Tribal.—The term 'tribal' means of or pertaining to the Miccosukee Tribe of Indians of Florida.
 
-&emsp;“(12)
+&emsp;"(12)
 
-Tribal chairman.—The term ‘tribal chairman’ means the duly elected chairman of the Miccosukee Tribe of Indians of Florida, or the designee of that chairman.
+Tribal chairman.—The term 'tribal chairman' means the duly elected chairman of the Miccosukee Tribe of Indians of Florida, or the designee of that chairman.
 
-#### “SEC. 5. TRIBAL RIGHTS AND AUTHORITY ON THE MICCOSUKEE RESERVED AREA.
+#### "SEC. 5. TRIBAL RIGHTS AND AUTHORITY ON THE MICCOSUKEE RESERVED AREA.
 
-“(a)
+"(a)
 
 Special Use Permit Terminated.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Termination.—The special use permit dated February 1, 1973, issued by the Secretary to the Tribe, and any amendments to that permit, are terminated.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Expansion of special use permit area.—The geographical area contained in the former special use permit area referred to in paragraph (1) shall be expanded pursuant to this Act and known as the Miccosukee Reserved Area.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Governance of affairs in miccosukee reserved area.—Subject to the provisions of this Act and other applicable Federal law, the Tribe shall govern its own affairs and otherwise make laws and apply those laws in the MRA as though the MRA were a Federal Indian reservation.
 
-“(b)
+"(b)
 
 Perpetual Use and Occupancy.—The Tribe shall have the exclusive right to use and develop the MRA in perpetuity in a manner consistent with this Act for purposes of the administration, education, housing, and cultural activities of the Tribe, including commercial services necessary to support those purposes.
 
-“(c)
+"(c)
 
 Indian Country Status.—The MRA shall be—
 
-&emsp;“(1) considered to be Indian country (as that term is defined in section 1151 of title 18, United States Code); and
+&emsp;"(1) considered to be Indian country (as that term is defined in section 1151 of title 18, United States Code); and
 
-&emsp;“(2) treated as a federally recognized Indian reservation solely for purposes of—
+&emsp;"(2) treated as a federally recognized Indian reservation solely for purposes of—
 
-&emsp;&emsp;“(A) determining the authority of the Tribe to govern its own affairs and otherwise make laws and apply those laws within the MRA; and
+&emsp;&emsp;"(A) determining the authority of the Tribe to govern its own affairs and otherwise make laws and apply those laws within the MRA; and
 
-&emsp;&emsp;“(B) the eligibility of the Tribe and its members for any Federal health, education, employment, economic assistance, revenue sharing, or social welfare programs, or any other similar Federal program for which Indians are eligible because of their—
+&emsp;&emsp;"(B) the eligibility of the Tribe and its members for any Federal health, education, employment, economic assistance, revenue sharing, or social welfare programs, or any other similar Federal program for which Indians are eligible because of their—
 
-&emsp;&emsp;&emsp;“(i) status as Indians; and
+&emsp;&emsp;&emsp;"(i) status as Indians; and
 
-&emsp;&emsp;&emsp;“(ii) residence on or near an Indian reservation.
+&emsp;&emsp;&emsp;"(ii) residence on or near an Indian reservation.
 
-“(d)
+"(d)
 
 Exclusive Federal Jurisdiction Preserved.—The exclusive Federal legislative jurisdiction as applied to the MRA as in effect on the date of the enactment of this Act \[Oct. 30, 1998\] shall be preserved. The Act of August 15, 1953, 67 Stat. 588, chapter 505 \[see Tables for classification\] and the amendments made by that Act, including section 1162 of title 18, United States Code, as added by that Act and section 1360 of title 28, United States Code, as added by that Act, shall not apply with respect to the MRA.
 
-“(e)
+"(e)
 
 Other Rights Preserved.—Nothing in this Act shall affect any rights of the Tribe under Federal law, including the right to use other lands or waters within the Park for other purposes, including, fishing, boating, hiking, camping, cultural activities, or religious observances.
 
-#### “SEC. 6. PROTECTION OF EVERGLADES NATIONAL PARK.
+#### "SEC. 6. PROTECTION OF EVERGLADES NATIONAL PARK.
 
-“(a)
+"(a)
 
 Environmental Protection and Access Requirements.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The MRA shall remain within the boundaries of the Park and be a part of the Park in a manner consistent with this Act.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Compliance with applicable laws.—The Tribe shall be responsible for compliance with all applicable laws, except as otherwise provided by this Act.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Prevention of degradation; abatement.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Prevention of degradation.—Pursuant to the requirements of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), the Tribe shall prevent and abate degradation of the quality of surface or groundwater that is released into other parts of the Park, as follows:
 
-&emsp;&emsp;&emsp;“(i) With respect to water entering the MRA which fails to meet applicable water quality standards approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), actions of the Tribe shall not further degrade water quality.
+&emsp;&emsp;&emsp;"(i) With respect to water entering the MRA which fails to meet applicable water quality standards approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), actions of the Tribe shall not further degrade water quality.
 
-&emsp;&emsp;&emsp;“(ii) With respect to water entering the MRA which meets applicable water quality standards approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), the Tribe shall not cause the water to fail to comply with applicable water quality standards.
+&emsp;&emsp;&emsp;"(ii) With respect to water entering the MRA which meets applicable water quality standards approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), the Tribe shall not cause the water to fail to comply with applicable water quality standards.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Prevention and abatement.—The Tribe shall prevent and abate disruption of the restoration or preservation of the quantity, timing, or distribution of surface or groundwater that would enter the MRA and flow, directly or indirectly, into other parts of the Park, but only to the extent that such disruption is caused by conditions, activities, or structures within the MRA.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Prevention of significant propagation of exotic plants and animals.—The Tribe shall prevent significant propagation of exotic plants or animals outside the MRA that may otherwise be caused by conditions, activities, or structures within the MRA.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Public access to certain areas of the park.—The Tribe shall not impede public access to those areas of the Park outside the boundaries of the MRA, and to and from the Big Cypress National Preserve, except that the Tribe shall not be required to allow individuals who are not members of the Tribe access to the MRA other than Federal employees, agents, officers, and officials (as provided in this Act).
 
-&emsp;&emsp;“(E)
+&emsp;&emsp;"(E)
 
 Prevention of significant cumulative adverse environmental impacts.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—The Tribe shall prevent and abate any significant cumulative adverse environmental impact on the Park outside the MRA resulting from development or other activities within the MRA.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Procedures.—Not later than 12 months after the date of the enactment of this Act \[Oct. 30, 1998\], the Tribe shall develop, publish, and implement procedures that shall ensure adequate public notice and opportunity to comment on major tribal actions within the MRA that may contribute to a significant cumulative adverse impact on the Everglades ecosystem.
 
-&emsp;&emsp;&emsp;“(iii)
+&emsp;&emsp;&emsp;"(iii)
 
 Written notice.—The procedures in clause (ii) shall include timely written notice to the Secretary and consideration of the Secretary's comments.
 
-&emsp;&emsp;“(F)
+&emsp;&emsp;"(F)
 
 Water quality standards.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—Not later than 12 months after the date of the enactment of this Act \[Oct. 30, 1998\], the Tribe shall adopt and comply with water quality standards within the MRA that are at least as protective as the water quality standards for the area encompassed by Everglades National Park approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.).
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Tribal water quality standards.—The Tribe may not adopt water quality standards for the MRA under clause (i) that are more restrictive than the water quality standards adopted by the Tribe for contiguous reservation lands that are not within the Park.
 
-&emsp;&emsp;&emsp;“(iii)
+&emsp;&emsp;&emsp;"(iii)
 
 Effect of failure to adopt or prescribe standards.—In the event the Tribe fails to adopt water quality standards referred to in clause (i), the water quality standards applicable to the Everglades National Park, approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), shall be deemed to apply by operation of Federal law to the MRA until such time as the Tribe adopts water quality standards that meet the requirements of this subparagraph.
 
-&emsp;&emsp;&emsp;“(iv)
+&emsp;&emsp;&emsp;"(iv)
 
 Modification of standards.—If, after the date of the enactment of this Act \[Oct. 30, 1998\], the standards referred to in clause (iii) are revised, not later than 1 year after those standards are revised, the Tribe shall make such revisions to water quality standards of the Tribe as are necessary to ensure that those water quality standards are at least as protective as the revised water quality standards approved by the Administrator.
 
-&emsp;&emsp;&emsp;“(v)
+&emsp;&emsp;&emsp;"(v)
 
 Effect of failure to modify water quality standards.—If the Tribe fails to revise water quality standards in accordance with clause (iv), the revised water quality standards applicable to the Everglades Park, approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) shall be deemed to apply by operation of Federal law to the MRA until such time as the Tribe adopts water quality standards that are at least as protective as the revised water quality standards approved by the Administrator.
 
-&emsp;&emsp;“(G)
+&emsp;&emsp;"(G)
 
 Natural easements.—The Tribe shall not engage in any construction, development, or improvement in any area that is designated as a natural easement.
 
-“(b)
+"(b)
 
 Height Restrictions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Restrictions.—Except as provided in paragraphs (2) through (4), no structure constructed within the MRA shall exceed the height of 45 feet or exceed 2 stories, except that a structure within the Miccosukee Government Center, as shown on the map referred to in section 4(4), shall not exceed the height of 70 feet.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Exceptions.—The following types of structures are exempt from the restrictions of this section to the extent necessary for the health, safety, or welfare of the tribal members, and for the utility of the structures:
 
-&emsp;&emsp;“(A) Water towers or standpipes.
+&emsp;&emsp;"(A) Water towers or standpipes.
 
-&emsp;&emsp;“(B) Radio towers.
+&emsp;&emsp;"(B) Radio towers.
 
-&emsp;&emsp;“(C) Utility lines.
+&emsp;&emsp;"(C) Utility lines.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Waiver.—The Secretary may waive the restrictions of this subsection if the Secretary finds that the needs of the Tribe for the structure that is taller than structures allowed under the restrictions would outweigh the adverse effects to the Park or its visitors.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Grandfather clause.—Any structure approved by the Secretary before the date of the enactment of this Act \[Oct. 30, 1998\], and for which construction commences not later than 12 months after the date of the enactment of this Act, shall not be subject to the provisions of this subsection.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Measurement.—The heights specified in this subsection shall be measured from mean sea level.
 
-“(c)
+"(c)
 
 Other Conditions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Gaming.—No class II or class III gaming (as those terms are defined in section 4(7) and (8) of the Indian Gaming Regulatory Act (25 U.S.C. 2703(7) and (8)) shall be conducted within the MRA.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Aviation.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—No commercial aviation may be conducted from or to the MRA.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Emergency operators.—Takeoffs and landings of aircraft shall be allowed for emergency operations and administrative use by the Tribe or the United States, including resource management and law enforcement.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 State agencies and officials.—The Tribe may permit the State of Florida, as agencies or municipalities of the State of Florida to provide for takeoffs or landings of aircraft on the MRA for emergency operations or administrative purposes.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Visual quality.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—In the planning, use, and development of the MRA by the Tribe, the Tribe shall consider the quality of the visual experience from the Shark River Valley visitor use area, including limitations on the height and locations of billboards or other commercial signs or other advertisements visible from the Shark Valley visitor center, tram road, or observation tower.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Exemption of markings.—The Tribe may exempt markings on a water tower or standpipe that merely identify the Tribe.
 
-“(d)
+"(d)
 
 Easements and Ranger Station.—Notwithstanding any other provision of this Act, the following provisions shall apply:
 
-&emsp;“(1)
+&emsp;"(1)
 
 Natural easements.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The use and occupancy of the MRA by the Tribe shall be perpetually subject to natural easements on parcels of land that are—
 
-&emsp;&emsp;&emsp;“(i) bounded on the north and south by the boundaries of the MRA, specified in the legal description under section 4(4); and
+&emsp;&emsp;&emsp;"(i) bounded on the north and south by the boundaries of the MRA, specified in the legal description under section 4(4); and
 
-&emsp;&emsp;&emsp;“(ii) bounded on the east and west by boundaries that run perpendicular to the northern and southern boundaries of the MRA, as provided in the description under subparagraph (B).
+&emsp;&emsp;&emsp;"(ii) bounded on the east and west by boundaries that run perpendicular to the northern and southern boundaries of the MRA, as provided in the description under subparagraph (B).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Description.—The description referred to in subparagraph (A)(ii) is as follows:
 
-&emsp;&emsp;&emsp;“(i) Easement number 1, being 445 feet wide with western boundary 525 feet, and eastern boundary 970 feet, east of the western boundary of the MRA.
+&emsp;&emsp;&emsp;"(i) Easement number 1, being 445 feet wide with western boundary 525 feet, and eastern boundary 970 feet, east of the western boundary of the MRA.
 
-&emsp;&emsp;&emsp;“(ii) Easement number 2, being 443 feet wide with western boundary 3,637 feet, and eastern boundary 4,080 feet, east of the western boundary of the MRA.
+&emsp;&emsp;&emsp;"(ii) Easement number 2, being 443 feet wide with western boundary 3,637 feet, and eastern boundary 4,080 feet, east of the western boundary of the MRA.
 
-&emsp;&emsp;&emsp;“(iii) Easement number 3, being 320 feet wide with western boundary 5,380 feet, and eastern boundary 5,700 feet, east of the western boundary of the MRA.
+&emsp;&emsp;&emsp;"(iii) Easement number 3, being 320 feet wide with western boundary 5,380 feet, and eastern boundary 5,700 feet, east of the western boundary of the MRA.
 
-&emsp;&emsp;&emsp;“(iv) Easement number 4, being 290 feet wide with western boundary 6,020 feet, and eastern boundary 6,310 feet, east of the western boundary of the MRA.
+&emsp;&emsp;&emsp;"(iv) Easement number 4, being 290 feet wide with western boundary 6,020 feet, and eastern boundary 6,310 feet, east of the western boundary of the MRA.
 
-&emsp;&emsp;&emsp;“(v) Easement number 5, being 290 feet wide with western boundary 8,170 feet, and eastern boundary 8,460 feet, east of the western boundary of the MRA.
+&emsp;&emsp;&emsp;"(v) Easement number 5, being 290 feet wide with western boundary 8,170 feet, and eastern boundary 8,460 feet, east of the western boundary of the MRA.
 
-&emsp;&emsp;&emsp;“(vi) Easement number 6, being 312 feet wide with western boundary 8,920 feet, and eastern boundary 9,232 feet, east of the western boundary of the MRA.
+&emsp;&emsp;&emsp;"(vi) Easement number 6, being 312 feet wide with western boundary 8,920 feet, and eastern boundary 9,232 feet, east of the western boundary of the MRA.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Extent of easements.—The aggregate extent of the east-west parcels of lands subject to easements under paragraph (1) shall not exceed 2,100 linear feet, as depicted on the map referred to in section 4(4).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Use of easements.—At the discretion of the Secretary, the Secretary may use the natural easements specified in paragraph (1) to fulfill a hydrological or other environmental objective of the Everglades National Park.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Additional requirements.—In addition to providing for the easements specified in paragraph (1), the Tribe shall not impair or impede the continued function of the water control structures designated as ‘S–12A’ and ‘S–12B’, located north of the MRA on the Tamiami Trail and any existing water flow ways under the Old Tamiami Trail.
+Additional requirements.—In addition to providing for the easements specified in paragraph (1), the Tribe shall not impair or impede the continued function of the water control structures designated as 'S–12A' and 'S–12B', located north of the MRA on the Tamiami Trail and any existing water flow ways under the Old Tamiami Trail.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Use by department of the interior.—The Department of the Interior shall have a right, in perpetuity, to use and occupy, and to have vehicular and airboat access to, the Tamiami Ranger Station identified on the map referred to in section 4(4), except that the pad on which such station is constructed shall not be increased in size without the consent of the Tribe.
 
-#### “SEC. 7. IMPLEMENTATION PROCESS.
+#### "SEC. 7. IMPLEMENTATION PROCESS.
 
-“(a)
+"(a)
 
 Government-to-Government Agreements.—The Secretary and the tribal chairman shall make reasonable, good faith efforts to implement the requirements of this Act. Those efforts may include government-to-government consultations, and the development of standards of performance and monitoring protocols.
 
-“(b)
+"(b)
 
 Federal Mediation and Conciliation Service.—If the Secretary and the tribal chairman concur that they cannot reach agreement on any significant issue relating to the implementation of the requirements of this Act, the Secretary and the tribal chairman may jointly request that the Federal Mediation and Conciliation Service assist them in reaching a satisfactory agreement.
 
-“(c) 60-
+"(c) 60-
 
 Day Time Limit.—The Federal Mediation and Conciliation Service may conduct mediation or other nonbinding dispute resolution activities for a period not to exceed 60 days beginning on the date on which the Federal Mediation and Conciliation Service receives the request for assistance, unless the Secretary and the tribal chairman agree to an extension of period of time.
 
-“(d)
+"(d)
 
 Other Rights Preserved.—The facilitated dispute resolution specified in this section shall not prejudice any right of the parties to—
 
-&emsp;“(1) commence an action in a court of the United States at any time; or
+&emsp;"(1) commence an action in a court of the United States at any time; or
 
-&emsp;“(2) any other resolution process that is not prohibited by law.
+&emsp;"(2) any other resolution process that is not prohibited by law.
 
-#### “SEC. 8. MISCELLANEOUS.
+#### "SEC. 8. MISCELLANEOUS.
 
-“(a)
+"(a)
 
 No General Applicability.—Nothing in this Act creates any right, interest, privilege, or immunity affecting any other Tribe or any other park or Federal lands.
 
-“(b)
+"(b)
 
 Noninterference With Federal Agents.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Federal employees, agents, officers, and officials shall have a right of access to the MRA—
 
-&emsp;&emsp;“(A) to monitor compliance with the provisions of this Act; and
+&emsp;&emsp;"(A) to monitor compliance with the provisions of this Act; and
 
-&emsp;&emsp;“(B) for other purposes, as though it were a Federal Indian reservation.
+&emsp;&emsp;"(B) for other purposes, as though it were a Federal Indian reservation.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Statutory construction.—Nothing in this Act shall authorize the Tribe or members or agents of the Tribe to interfere with any Federal employee, agent, officer, or official in the performance of official duties (whether within or outside the boundaries of the MRA) except that nothing in this paragraph may prejudice any right under the Constitution of the United States.
 
-“(c)
+"(c)
 
 Federal Permits.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—No Federal permit shall be issued to the Tribe for any activity or structure that would be inconsistent with this Act.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Consultations.—Any Federal agency considering an application for a permit for construction or activities on the MRA shall consult with, and consider the advice, evidence, and recommendations of the Secretary before issuing a final decision.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Rule of construction.—Except as otherwise specifically provided in this Act, nothing in this Act supersedes any requirement of any other applicable Federal law.
 
-“(d)
+"(d)
 
 Volunteer Programs and Tribal Involvement.—The Secretary may establish programs that foster greater involvement by the Tribe with respect to the Park. Those efforts may include internships and volunteer programs with tribal schoolchildren and with adult tribal members.
 
-“(e)
+"(e)
 
 Saving Ecosystem Restoration.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Nothing in this Act shall be construed to amend or prejudice the authority of the United States to design, construct, fund, operate, permit, remove, or degrade canals, levees, pumps, impoundments, wetlands, flow ways, or other facilities, structures, or systems, for the restoration or protection of the South Florida ecosystem pursuant to Federal laws.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Use of noneasement lands.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The Secretary may use all or any part of the MRA lands to the extent necessaryto restore or preserve the quality, quantity, timing, or distribution of surface or groundwater, if other reasonable alternative measures to achieve the same purpose are impractical.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Secretarial authority.—The Secretary may use lands referred to in subparagraph (A) either under an agreement with the tribal chairman or upon an order of the United States district court for the district in which the MRA is located, upon petition by the Secretary and finding by the court that—
 
-&emsp;&emsp;&emsp;“(i) the proposed actions of the Secretary are necessary; and
+&emsp;&emsp;&emsp;"(i) the proposed actions of the Secretary are necessary; and
 
-&emsp;&emsp;&emsp;“(ii) other reasonable alternative measures are impractical.
+&emsp;&emsp;&emsp;"(ii) other reasonable alternative measures are impractical.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Costs.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—In the event the Secretary exercises the authority granted the Secretary under paragraph (2), the United States shall be liable to the Tribe or the members of the Tribe for—
 
-&emsp;&emsp;&emsp;“(i) cost of modification, removal, relocation, or reconstruction of structures lawfully erected in good faith on the MRA; and
+&emsp;&emsp;&emsp;"(i) cost of modification, removal, relocation, or reconstruction of structures lawfully erected in good faith on the MRA; and
 
-&emsp;&emsp;&emsp;“(ii) loss of use of the affected land within the MRA.
+&emsp;&emsp;&emsp;"(ii) loss of use of the affected land within the MRA.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Payment of compensation.—Any compensation paid under subparagraph (A) shall be paid as cash payments with respect to taking structures and other fixtures and in the form of rights to occupy similar land adjacent to the MRA with respect to taking land.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Rule of construction.—Paragraphs (2) and (3) shall not apply to a natural easement described in section 6(d)(1).
 
-“(f)
+"(f)
 
 Parties Held Harmless.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 United states held harmless.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Subject to subparagraph (B) with respect to any tribal member, tribal employee, tribal contractor, tribal enterprise, or any person residing within the MRA, notwithstanding any other provision of law, the United States (including an officer, agent, or employee of the United States), shall not be liable for any action or failure to act by the Tribe (including an officer, employee, or member of the Tribe), including any failure to perform any of the obligations of the Tribe under this Act.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Rule of construction.—Nothing in this paragraph shall be construed to alter any liability or other obligation that the United States may have under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Tribe held harmless.—Notwithstanding any other provision of law, the Tribe and the members of the Tribe shall not be liable for any injury, loss, damage, or harm that—
 
-&emsp;&emsp;“(A) occurs with respect to the MRA; and
+&emsp;&emsp;"(A) occurs with respect to the MRA; and
 
-&emsp;&emsp;“(B) is caused by an action or failure to act by the United States, or the officer, agent, or employee of the United States (including the failure to perform any obligation of the United States under this Act).
+&emsp;&emsp;"(B) is caused by an action or failure to act by the United States, or the officer, agent, or employee of the United States (including the failure to perform any obligation of the United States under this Act).
 
-“(g)
+"(g)
 
 Cooperative Agreements.—Nothing in this Act shall alter the authority of the Secretary and the Tribe to enter into any cooperative agreement, including any agreement concerning law enforcement, emergency response, or resource management.
 
-“(h)
+"(h)
 
 Water Rights.—Nothing in this Act shall enhance or diminish any water rights of the Tribe, or members of the Tribe, or the United States (with respect to the Park).
 
-“(i)
+"(i)
 
 Enforcement.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Actions brought by attorney general.—The Attorney General may bring a civil action in the United States district court for the district in which the MRA is located, to enjoin the Tribe from violating any provision of this Act.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Action brought by tribe.—The Tribe may bring a civil action in the United States district court for the district in which the MRA is located to enjoin the United States from violating any provision of this Act.”
+Action brought by tribe.—The Tribe may bring a civil action in the United States district court for the district in which the MRA is located to enjoin the United States from violating any provision of this Act."
 

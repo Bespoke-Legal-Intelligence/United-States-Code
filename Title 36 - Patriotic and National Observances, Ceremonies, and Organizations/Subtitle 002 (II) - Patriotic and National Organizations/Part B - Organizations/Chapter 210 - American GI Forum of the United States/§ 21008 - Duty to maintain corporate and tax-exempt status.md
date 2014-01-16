@@ -32,5 +32,5 @@ Aug. 13, 1998, Pub. L. 105–231, §§8(e), 14 (related to duty to maintain stat
 
 &nbsp;
 
-In subsection (a), the words “organized and” are omitted as unnecessary.
+In subsection (a), the words "organized and" are omitted as unnecessary.
 

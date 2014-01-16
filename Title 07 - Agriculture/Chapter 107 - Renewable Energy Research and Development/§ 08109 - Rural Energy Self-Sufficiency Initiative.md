@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Eligible rural community
 
-&emsp;The term “eligible rural community” means a community located in a rural area (as defined in section 1991(a)(13)(A) of this title).
+&emsp;The term "eligible rural community" means a community located in a rural area (as defined in section 1991(a)(13)(A) of this title).
 
 #### (2) Initiative
 
-&emsp;The term “Initiative” means the Rural Energy Self-Sufficiency Initiative established under this section.
+&emsp;The term "Initiative" means the Rural Energy Self-Sufficiency Initiative established under this section.
 
 #### (3) Integrated renewable energy system
 
-&emsp;The term “integrated renewable energy system” means a community-wide energy system that—
+&emsp;The term "integrated renewable energy system" means a community-wide energy system that—
 
 &emsp;&emsp;(A) reduces conventional energy use; and
 
@@ -84,7 +84,7 @@ A prior section 9009 of Pub. L. 107–171 amended section 6711 of this title.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (d). Pub. L. 112–240 substituted “2013” for “2012”.
+<b>2013</b>—Subsec. (d). Pub. L. 112–240 substituted "2013" for "2012".
 
 #### Effective Date of 2013 Amendment
 

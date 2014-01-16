@@ -6,7 +6,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to require t
 
 (b)
 
-Voting Assistance Programs Defined.—In this section, the term “voting assistance programs” means—
+Voting Assistance Programs Defined.—In this section, the term "voting assistance programs" means—
 
 &emsp;(1) the Federal Voting Assistance Program carried out under the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.); and
 
@@ -36,7 +36,7 @@ Regular Military Department Assessments.—The Secretary of each military depart
 
 (f)
 
-Voting Assistance Officers.—(1) Voting assistance officers shall be appointed or assigned under Department of Defense regulations. Commanders at all levels are responsible for ensuring that unit voting officers are trained and equipped to provide information and assistance to members of the armed forces on voting matters. Performance evaluation reports pertainingto a member who has been assigned to serve as a voting assistance officer shall comment on the performance of the member as a voting assistance officer.
+Voting Assistance Officers.—(1) Voting assistance officers shall be appointed or assigned under Department of Defense regulations. Commanders at all levels are responsible for ensuring that unit voting officers are trained and equipped to provide information and assistance to members of the armed forces on voting matters. Performance evaluation reports pertaining to a member who has been assigned to serve as a voting assistance officer shall comment on the performance of the member as a voting assistance officer.
 
 (2) Under regulations and procedures (including directives) prescribed by the Secretary, a member of the armed forces appointed or assigned to duty as a voting assistance officer shall, to the maximum extent practicable, be given the time and resources needed to perform the member's duties as a voting assistance officer during the period in advance of a general election when members and their dependents are preparing and submitting absentee ballots.
 
@@ -46,7 +46,7 @@ Delivery of Mail From Overseas Preceding Federal Elections.—(1) During the fou
 
 (2) The Secretary shall ensure that voting materials are transmitted expeditiously by military postal authorities at all times. The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held.
 
-(3) In this section, the term “general Federal election month” means November in an even-numbered year.
+(3) In this section, the term "general Federal election month" means November in an even-numbered year.
 
 (h)
 
@@ -58,7 +58,7 @@ Registration and Voting Information for Members and Dependents.—(1) The Secret
 
 (2) The Secretary of each military department shall make the national voter registration form prepared for purposes of the Uniformed and Overseas Citizens Absentee Voting Act by the Federal Election Commission available so that each person who enlists shall receive such form at the time of the enlistment, or as soon thereafter as practicable.
 
-(3) Where practicable, a special day or days shall be designated at each military installation for the purpose of informing members of the armed forces and their dependents of election timing, registration requirements, and voting procedures.
+(3) Where practicable, a special day or days shall be designated at each military installationfor the purpose of informing members of the armed forces and their dependents of election timing, registration requirements, and voting procedures.
 
 (Added Pub. L. 107–107, div. A, title XVI, §1602(a)(1), Dec. 28, 2001, 115 Stat. 1274; amended Pub. L. 107–252, title VII, §701, Oct. 29, 2002, 116 Stat. 1722; Pub. L. 108–375, div. A, title X, §1084(d)(13), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, §596(a), (d), Oct. 17, 2006, 120 Stat. 2235, 2236.)
 
@@ -70,15 +70,15 @@ The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs.
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–364, §596(a), struck out subsec. (d), which required the Inspector General of the Department of Defense to periodically conduct unannounced assessments of compliance with requirements of law regarding voting by members of the armed forces at Department of Defense installations.
 
-Subsec. (g)(2). Pub. L. 109–364, §596(d), struck out at end “Not later than April 29, 2003, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.”
+Subsec. (g)(2). Pub. L. 109–364, §596(d), struck out at end "Not later than April 29, 2003, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures."
 
-<b>2004</b>—Subsec. (g)(2). Pub. L. 108–375, §1084(d)(13)(A), substituted “April 29, 2003” for “the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002”.
+<b>2004</b>—Subsec. (g)(2). Pub. L. 108–375, §1084(d)(13)(A), substituted "April 29, 2003" for "the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002".
 
-Subsecs. (h), (i)(1), (3). Pub. L. 108–375, §1084(d)(13)(B), substituted “armed forces” for “Armed Forces”.
+Subsecs. (h), (i)(1), (3). Pub. L. 108–375, §1084(d)(13)(B), substituted "armed forces" for "Armed Forces".
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–252, §701(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (g)(2). Pub. L. 107–252, §701(b), inserted at end “The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held. Not later than the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.”
+Subsec. (g)(2). Pub. L. 107–252, §701(b), inserted at end "The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held. Not later than the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures."
 
 Subsec. (h). Pub. L. 107–252, §701(c), added subsec. (h).
 

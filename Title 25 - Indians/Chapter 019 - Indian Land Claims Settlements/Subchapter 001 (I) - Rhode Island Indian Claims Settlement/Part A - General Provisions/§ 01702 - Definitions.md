@@ -2,25 +2,25 @@
 
 For the purposes of this subchapter, the term—
 
-&emsp;(a) “Indian Corporation” means the Rhode Island nonbusiness corporation known as the “Narragansett Tribe of Indians”;
+&emsp;(a) "Indian Corporation" means the Rhode Island nonbusiness corporation known as the "Narragansett Tribe of Indians";
 
-&emsp;(b) “land or natural resources” means any real property or natural resources, or any interest in or right involving any real property or natural resource, including but not limited to, minerals and mineral rights, timber and timber rights, water and water rights, and rights to hunt and fish;
+&emsp;(b) "land or natural resources" means any real property or natural resources, or any interest in or right involving any real property or natural resource, including but not limited to, minerals and mineral rights, timber and timber rights, water and water rights, and rights to hunt and fish;
 
-&emsp;(c) “lawsuits” means the actions entitled “Narragansett Tribe of Indians v. Southern Rhode Island Land Development Co., et al., C.A. No. 75–0006 (D.R.I.)” and “Narragansett Tribe of Indians v. Rhode Island Director of Environmental Management, C.A. No. 75–0005 (D.R.I.)”;
+&emsp;(c) "lawsuits" means the actions entitled "Narragansett Tribe of Indians v. Southern Rhode Island Land Development Co., et al., C.A. No. 75–0006 (D.R.I.)" and "Narragansett Tribe of Indians v. Rhode Island Director of Environmental Management, C.A. No. 75–0005 (D.R.I.)";
 
-&emsp;(d) “private settlement lands” means approximately nine hundred acres of privately held land outlined in red in the map marked “Exhibit A” attached to the Settlement Agreement that are to be acquired by the Secretary from certain private landowners pursuant to sections 1704 and 1707 of this title;
+&emsp;(d) "private settlement lands" means approximately nine hundred acres of privately held land outlined in red in the map marked "Exhibit A" attached to the Settlement Agreement that are to be acquired by the Secretary from certain private landowners pursuant to sections 1704 and 1707 of this title;
 
-&emsp;(e) “public settlement lands” means the lands described in paragraph 2 of the Settlement Agreement that are to be conveyed by the State of Rhode Island to the State Corporation pursuant to legislation as described in section 1706 of this title;
+&emsp;(e) "public settlement lands" means the lands described in paragraph 2 of the Settlement Agreement that are to be conveyed by the State of Rhode Island to the State Corporation pursuant to legislation as described in section 1706 of this title;
 
-&emsp;(f) “settlement lands” means those lands defined in subsections (d) and (e) of this section;
+&emsp;(f) "settlement lands" means those lands defined in subsections (d) and (e) of this section;
 
-&emsp;(g) “Secretary” means the Secretary of the Interior;
+&emsp;(g) "Secretary" means the Secretary of the Interior;
 
-&emsp;(h) “settlement agreement” means the document entitled “Joint Memorandum of Understanding Concerning Settlement of the Rhode Island Indian Land Claims”, executed as of February 28, 1978, by representatives of the State of Rhode Island, of the town of Charlestown, and of the parties to the lawsuits, as filed with the Secretary of the State of Rhode Island;
+&emsp;(h) "settlement agreement" means the document entitled "Joint Memorandum of Understanding Concerning Settlement of the Rhode Island Indian Land Claims", executed as of February 28, 1978, by representatives of the State of Rhode Island, of the town of Charlestown, and of the parties to the lawsuits, as filed with the Secretary of the State of Rhode Island;
 
-&emsp;(i) “State Corporation” means the corporation created or to be created by legislation enacted by the State of Rhode Island as described in section 1706 of this title; and
+&emsp;(i) "State Corporation" means the corporation created or to be created by legislation enacted by the State of Rhode Island as described in section 1706 of this title; and
 
-&emsp;(j) “transfer” includes but is not limited to any sale, grant, lease, allotment, partition, or conveyance, any transaction the purpose of which was to effect a sale, grant, lease, allotment, partition, or conveyance, or any event or events that resulted in a change of possession or control of land or natural resources.
+&emsp;(j) "transfer" includes but is not limited to any sale, grant, lease, allotment, partition, or conveyance, any transaction the purpose of which was to effect a sale, grant, lease, allotment, partition, or conveyance, or any event or events that resulted in a change of possession or control of land or natural resources.
 
 (Pub. L. 95–395, §3, Sept. 30, 1978, 92 Stat. 813.)
 

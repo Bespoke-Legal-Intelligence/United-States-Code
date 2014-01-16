@@ -6,15 +6,15 @@ The Assistant Secretary, in consultation with recognized experts in the fields o
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–365 amended section generally. Prior to amendment, text read as follows: “The Assistant Secretary, in consultation with organizations of and for the aged, blind, and disabled, and with representatives from the American Dietetic Association, the Dietary Managers Association, the National Association of Area Agencies on Aging, the National Association of Nutrition and Aging Services Programs, the National Association of Meals Programs, Incorporated, and any other appropriate group, shall develop minimum criteria of efficiency and quality for the furnishing of home delivered meal services for projects described in section 3030f of this title. The criteria required by this section shall take into account the ability of established home delivered meals programs to continue such services without major alteration in the furnishing of such services.”
+<b>2006</b>—Pub. L. 109–365 amended section generally. Prior to amendment, text read as follows: "The Assistant Secretary, in consultation with organizations of and for the aged, blind, and disabled, and with representatives from the American Dietetic Association, the Dietary Managers Association, the National Association of Area Agencies on Aging, the National Association of Nutrition and Aging Services Programs, the National Association of Meals Programs, Incorporated, and any other appropriate group, shall develop minimum criteria of efficiency and quality for the furnishing of home delivered meal services for projects described in section 3030f of this title. The criteria required by this section shall take into account the ability of established home delivered meals programs to continue such services without major alteration in the furnishing of such services."
 
-<b>1993</b>—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+<b>1993</b>—Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner".
 
-<b>1992</b>—Pub. L. 102–375 inserted “the Dietary Managers Association,” after “Dietetic Association,”.
+<b>1992</b>—Pub. L. 102–375 inserted "the Dietary Managers Association," after "Dietetic Association,".
 
-<b>1987</b>—Pub. L. 100–175 substituted “National Association of Area Agencies” for “Association of Area Agencies”.
+<b>1987</b>—Pub. L. 100–175 substituted "National Association of Area Agencies" for "Association of Area Agencies".
 
-<b>1981</b>—Pub. L. 97–115 substituted “National Association of Nutrition and Aging Services Programs” for “National Association of Title VII Project Directors”.
+<b>1981</b>—Pub. L. 97–115 substituted "National Association of Nutrition and Aging Services Programs" for "National Association of Title VII Project Directors".
 
 #### Effective Date of 1987 Amendment
 

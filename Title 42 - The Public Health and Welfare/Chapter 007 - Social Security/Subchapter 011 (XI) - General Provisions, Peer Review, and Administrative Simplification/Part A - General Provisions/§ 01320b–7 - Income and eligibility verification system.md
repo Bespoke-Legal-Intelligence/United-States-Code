@@ -74,7 +74,7 @@ The requirements of this subsection, with respect to an income and eligibility v
 
 &emsp;&emsp;(ii) any reference to an individual's eligibility for benefits under the program shall be considered a reference to the individual's eligibility to participate in the program as a member of a household, and
 
-&emsp;&emsp;(iii) the term “satisfactory immigration status” means an immigration status which does not make the individual ineligible for benefits under the applicable program.
+&emsp;&emsp;(iii) the term "satisfactory immigration status" means an immigration status which does not make the individual ineligible for benefits under the applicable program.
 
 &emsp;(2) If such an individual is not a citizen or national of the United States, there must be presented either—
 
@@ -140,41 +140,41 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2), (5)(B). Pub. L. 110–246, §4002(b)(1)(A), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program”.
+<b>2008</b>—Subsec. (a)(2), (5)(B). Pub. L. 110–246, §4002(b)(1)(A), (2)(V), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (b)(4). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+Subsec. (b)(4). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted "supplemental nutrition assistance program" for "food stamp program" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
-<b>1999</b>—Subsec. (a)(3). Pub. L. 106–170, §405(b)(2), inserted “(as defined in section 653a(a)(2)(B) of this title)” after “employers”.
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–170, §405(b)(2), inserted "(as defined in section 653a(a)(2)(B) of this title)" after "employers".
 
-Pub. L. 106–170, §405(b)(1), which directed striking out “(as defined in section 653a(a)(2)(B)(iii) of this title)” after “labor organizations”, was executed by striking “(as defined in section 653a(a)(2)(B)(ii) of this title)” to reflect the probable intent of Congress and the amendment by Pub. L. 106–169.
+Pub. L. 106–170, §405(b)(1), which directed striking out "(as defined in section 653a(a)(2)(B)(iii) of this title)" after "labor organizations", was executed by striking "(as defined in section 653a(a)(2)(B)(ii) of this title)" to reflect the probable intent of Congress and the amendment by Pub. L. 106–169.
 
-Pub. L. 106–170, §405(a), inserted before semicolon at end: “, and except that in the case of wage reports with respect to domestic service employment, a State may permit employers (as so defined) that make returns with respect to such employment on a calendar year basis pursuant to section 3510 of the Internal Revenue Code of 1986 to make such reports on an annual basis”.
+Pub. L. 106–170, §405(a), inserted before semicolon at end: ", and except that in the case of wage reports with respect to domestic service employment, a State may permit employers (as so defined) that make returns with respect to such employment on a calendar year basis pursuant to section 3510 of the Internal Revenue Code of 1986 to make such reports on an annual basis".
 
-Pub. L. 106–169, substituted “653a(a)(2)(B)(ii) of this title))” for “653a(a)(2)(B)(iii) of this title)”. See Effective Date of 1999 Amendment note below.
+Pub. L. 106–169, substituted "653a(a)(2)(B)(ii) of this title))" for "653a(a)(2)(B)(iii) of this title)". See Effective Date of 1999 Amendment note below.
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–193, §313(c), inserted “(including State and local governmental entities and labor organizations (as defined in section 653a(a)(2)(B)(iii) of this title)” after “employers” and “, and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission” before semicolon at end.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–193, §313(c), inserted "(including State and local governmental entities and labor organizations (as defined in section 653a(a)(2)(B)(iii) of this title)" after "employers" and ", and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission" before semicolon at end.
 
-Subsec. (b)(1). Pub. L. 104–193, §108(g)(8)(A), added par. (1) and struck out former par. (1) which read as follows:“the aid to families with dependent children program under part A of subchapter IV of this chapter;”.
+Subsec. (b)(1). Pub. L. 104–193, §108(g)(8)(A), added par. (1) and struck out former par. (1) which read as follows: "the aid to families with dependent children program under part A of subchapter IV of this chapter;".
 
-Subsec. (d)(1)(B). Pub. L. 104–193, §108(g)(8)(B), substituted “In this subsection, in” for “In this subsection—”, struck out “(ii) in” before “the case of the program described in subsection (b)(4)”, redesignated subcls. (I) to (III) as cls. (i) to (iii), respectively, realigned margins, and struck out former cl. (i) which read as follows: “in the case of the program described in subsection (b)(1) of this section, any reference to an individual's eligibility for benefits under the program shall be considered a reference to the individual's being considered a dependent child or to the individual's being treated as a caretaker relative or other person whose needs are to be taken into account in making the determination under section 602(a)(7) of this title,”.
+Subsec. (d)(1)(B). Pub. L. 104–193, §108(g)(8)(B), substituted "In this subsection, in" for "In this subsection—", struck out "(ii) in" before "the case of the program described in subsection (b)(4)", redesignatedsubcls. (I) to (III) as cls. (i) to (iii), respectively, realigned margins, and struck out former cl. (i) which read as follows: "in the case of the program described in subsection (b)(1) of this section, any reference to an individual's eligibility for benefits under the program shall be considered a reference to the individual's being considered a dependent child or to the individual's being treated as a caretaker relative or other person whose needs are to be taken into account in making the determination under section 602(a)(7) of this title,".
 
-Subsec. (d)(4)(B)(i). Pub. L. 104–208 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the State shall transmit to the Immigration and Naturalization Service photostatic or other similar copies of such documents for official verification,”.
+Subsec. (d)(4)(B)(i). Pub. L. 104–208 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "the State shall transmit to the Immigration and Naturalization Service photostatic or other similar copies of such documents for official verification,".
 
-<b>1994</b>—Subsec. (d)(1)(A). Pub. L. 103–432 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The State shall require, as a condition of an individual's eligibility for benefits under any program listed in subsection (b) of this section, a declaration in writing by the individual (or, in the case of an individual who is a child, by another on the individual's behalf), under penalty of perjury, stating whether or not the individual is a citizen or national of the United States, and, if that individual is not a citizen or national of the United States, that the individual is in a satisfactory immigration status.”
+<b>1994</b>—Subsec. (d)(1)(A). Pub. L. 103–432 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The State shall require, as a condition of an individual's eligibility for benefits under any program listed in subsection (b) of this section, a declaration in writing by the individual (or, in the case of an individual who is a child, by another on the individual's behalf), under penalty of perjury, stating whether or not the individual is a citizen or national of the United States, and, if that individual is not a citizen or national of the United States, that the individual is in a satisfactory immigration status."
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–360 added subsec. (f).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–603, §121(a)(1)(A), inserted “which meets the requirements of subsection (d) of this section and” after “system” in introductory text.
+<b>1986</b>—Subsec. (a). Pub. L. 99–603, §121(a)(1)(A), inserted "which meets the requirements of subsection (d) of this section and" after "system" in introductory text.
 
-Subsec. (a)(2), (4)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+Subsec. (a)(2), (4)(B). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
-Subsec. (a)(4)(C). Pub. L. 99–509 inserted before semicolon at end “, and no State shall be required to use such information to verify the eligibility of all recipients”.
+Subsec. (a)(4)(C). Pub. L. 99–509 inserted before semicolon at end ", and no State shall be required to use such information to verify the eligibility of all recipients".
 
-Subsec. (a)(5). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
+Subsec. (a)(5). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing.
 
-Subsec. (b). Pub. L. 99–603, §121(a)(1)(B), substituted “income and eligibility verification system” for “income verification system” in introductory text.
+Subsec. (b). Pub. L. 99–603, §121(a)(1)(B), substituted "income and eligibility verification system" for "income verification system" in introductory text.
 
-Subsecs. (b)(3), (c)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+Subsecs. (b)(3), (c)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
 Subsecs. (d), (e). Pub. L. 99–603, §121(a)(1)(C), added subsecs. (d) and (e).
 
@@ -190,7 +190,7 @@ Amendment by section 4002(b)(1)(A), (B), (2)(V) of Pub. L. 110–246 effective O
 
 #### Effective Date of 1999 Amendments
 
-Pub. L. 106–170, title IV, §405(c), Dec. 17, 1999, 113 Stat. 1911, provided that: “The amendments made by this section \[amending this section\] shall apply to wage reports required to be submitted on and after the date of the enactment of this Act \[Dec. 17, 1999\].”
+Pub. L. 106–170, title IV, §405(c), Dec. 17, 1999, 113 Stat. 1911, provided that: "The amendments made by this section \[amending this section\] shall apply to wage reports required to be submitted on and after the date of the enactment of this Act \[Dec. 17, 1999\]."
 
 Amendment by section 401(p) of Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
 
@@ -202,103 +202,103 @@ For effective date of amendment by section 313(c) of Pub. L. 104–193, see sect
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–360, title IV, §411(k)(15)(B), July 1, 1988, 102 Stat. 799, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply as if it were included in the enactment of section 9406 of the Omnibus Budget Reconciliation Act of 1986 \[see section 9406(c) of Pub. L. 99–509, set out as an Effective Date of 1986 Amendment note under section 1396a of this title\].”
+Pub. L. 100–360, title IV, §411(k)(15)(B), July 1, 1988, 102 Stat. 799, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply as if it were included in the enactment of section 9406 of the Omnibus Budget Reconciliation Act of 1986 \[see section 9406(c) of Pub. L. 99–509, set out as an Effective Date of 1986 Amendment note under section 1396a of this title\]."
 
 #### Effective Date of 1986 Amendment; Use of Verification System
 
 Pub. L. 99–603, title I, §121(c)(3), (4), Nov. 6, 1986, 100 Stat. 3391, 3392, provided that:
 
-“(3)
+"(3)
 
 Use of verification system required in fiscal year 1989.—Except as provided in paragraph (4), the amendments made by subsection (a) \[amending this section, section 1436a of this title, and section 1091 of Title 20, Education\] take effect on October 1, 1988. States have until that date to begin complying with the requirements imposed by those amendments.
 
-“(4)
+"(4)
 
 Use of verification system not required for a program in certain cases.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Report to respective congressional committees.—With respect to each covered program (as defined in subparagraph (D)(i)), each appropriate Secretary shall examine and report to the appropriate Committees of the House of Representatives and of the Senate, by not later than April 1, 1988, concerning whether (and the extent to which)—
 
-&emsp;&emsp;“(i) the application of the amendments made by subsection (a) to the program is cost-effective and otherwise appropriate, and
+&emsp;&emsp;"(i) the application of the amendments made by subsection (a) to the program is cost-effective and otherwise appropriate, and
 
-&emsp;&emsp;“(ii) there should be a waiver of the application of such amendments under subparagraph (B).
+&emsp;&emsp;"(ii) there should be a waiver of the application of such amendments under subparagraph (B).
 
 > &emsp;The amendments made by subsection (a) shall not apply with respect to a covered program described in subclause (II), (V), (VI), or (VII) of subparagraph (D)(i) until after the date of receipt of such report with respect to the program.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Waiver in certain cases.—If, with respect to a covered program, the appropriate Secretary determines, on the Secretary's own initiative or upon an application by an administering entity and based on such information as the Secretary deems persuasive (which may include the results of the report required under subsection (d)(1) \[set out as a note below\] and information contained in such an application), that—
 
-&emsp;&emsp;“(i) the appropriate Secretary or the administering entity has in effect an alternative system of immigration status verification which—
+&emsp;&emsp;"(i) the appropriate Secretary or the administering entity has in effect an alternative system of immigration status verification which—
 
-&emsp;&emsp;&emsp;“(I) is as effective and timely as the system otherwise required under the amendments made by subsection (a) with respect to the program, and
+&emsp;&emsp;&emsp;"(I) is as effective and timely as the system otherwise required under the amendments made by subsection (a) with respect to the program, and
 
-&emsp;&emsp;&emsp;“(II) provides for at least the hearing and appeals rights for beneficiaries that would be provided under the amendments made by subsection (a), or
+&emsp;&emsp;&emsp;"(II) provides for at least the hearing and appeals rights for beneficiaries that would be provided under the amendments made by subsection (a), or
 
-&emsp;&emsp;“(ii) the costs of administration of the system otherwise required under such amendments exceed the estimated savings,
+&emsp;&emsp;"(ii) the costs of administration of the system otherwise required under such amendments exceed the estimated savings,
 
 > &emsp;such Secretary may waive the application of such amendments to the covered program to the extent (by State or other geographic area or otherwise) that such determinations apply.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Basis for determination.—A determination under subparagraph (B)(ii) shall be based upon the appropriate Secretary's estimate of—
 
-&emsp;&emsp;“(i) the number of aliens claiming benefits under the covered program in relation to the total number of claimants seeking benefits under the program,
+&emsp;&emsp;"(i) the number of aliens claiming benefits under the covered program in relation to the total number of claimants seeking benefits under the program,
 
-&emsp;&emsp;“(ii) any savings in benefit expenditures reasonably expected to result from implementation of the verification program, and
+&emsp;&emsp;"(ii) any savings in benefit expenditures reasonably expected to result from implementation of the verification program, and
 
-&emsp;&emsp;“(iii) the labor and nonlabor costs of administration of the verification system,
+&emsp;&emsp;"(iii) the labor and nonlabor costs of administration of the verification system,
 
 > &emsp;the degree to which the Immigration and Naturalization Service is capable of providing timely and accurate information to the administering entity in order to permit a reliable determination of immigration status, and such other factors as such Secretary deems relevant.
 
-&emsp;“(D)
+&emsp;"(D)
 
 Definitions.—In this paragraph:
 
-&emsp;&emsp;“(i) The term ‘covered program’ means each of the following programs:
+&emsp;&emsp;"(i) The term 'covered program' means each of the following programs:
 
-&emsp;&emsp;&emsp;“(I) The aid to families with dependent children program under part A of title IV of the Social Security Act \[part A of subchapter IV of this chapter\].
+&emsp;&emsp;&emsp;"(I) The aid to families with dependent children program under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\].
 
-&emsp;&emsp;&emsp;“(II) The medicaid program under title XIX of the Social Security Act \[subchapter XIX of this chapter\].
+&emsp;&emsp;&emsp;"(II) The medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
 
-&emsp;&emsp;&emsp;“(III) Any State program under a plan approved under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\].
+&emsp;&emsp;&emsp;"(III) Any State program under a plan approved under title I, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\].
 
-&emsp;&emsp;&emsp;“(IV) The unemployment compensation program under section 3304 of the Internal Revenue Code of 1954 \[now 1986; 26 U.S.C. 3304\].
+&emsp;&emsp;&emsp;"(IV) The unemployment compensation program under section 3304 of the Internal Revenue Code of 1954 \[now 1986; 26 U.S.C. 3304\].
 
-&emsp;&emsp;&emsp;“(V) The food stamp program under the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2011 et seq.\].
+&emsp;&emsp;&emsp;"(V) The food stamp program under the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2011 et seq.\].
 
-&emsp;&emsp;&emsp;“(VI) The programs of financial assistance for housing subject to section 214 of the Housing and Community Development Act of 1980 \[42 U.S.C. 1436a\].
+&emsp;&emsp;&emsp;"(VI) The programs of financial assistance for housing subject to section 214 of the Housing and Community Development Act of 1980 \[42 U.S.C. 1436a\].
 
-&emsp;&emsp;&emsp;“(VII) The program of grants, loans, and work assistance under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\].
+&emsp;&emsp;&emsp;"(VII) The program of grants, loans, and work assistance under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\].
 
-&emsp;&emsp;“(ii) The term ‘appropriate Secretary’ means, with respect to the covered program described in—
+&emsp;&emsp;"(ii) The term 'appropriate Secretary' means, with respect to the covered program described in—
 
-&emsp;&emsp;&emsp;“(I) subclauses (I) through (III) of clause (i), the Secretary of Health and Human Services;
+&emsp;&emsp;&emsp;"(I) subclauses (I) through (III) of clause (i), the Secretary of Health and Human Services;
 
-&emsp;&emsp;&emsp;“(II) clause (i)(IV), the Secretary of Labor;
+&emsp;&emsp;&emsp;"(II) clause (i)(IV), the Secretary of Labor;
 
-&emsp;&emsp;&emsp;“(III) clause (i)(V), the Secretary of Agriculture;
+&emsp;&emsp;&emsp;"(III) clause (i)(V), the Secretary of Agriculture;
 
-&emsp;&emsp;&emsp;“(IV) clause (i)(VI), the Secretary of Housing and Urban Development; and
+&emsp;&emsp;&emsp;"(IV) clause (i)(VI), the Secretary of Housing and Urban Development; and
 
-&emsp;&emsp;&emsp;“(V) clause (i)(VII), the Secretary of Education.
+&emsp;&emsp;&emsp;"(V) clause (i)(VII), the Secretary of Education.
 
-&emsp;&emsp;“(iii) The term ‘administering entity’ means, with respect to the covered program described in—
+&emsp;&emsp;"(iii) The term 'administering entity' means, with respect to the covered program described in—
 
-&emsp;&emsp;&emsp;“(I) subclause (I), (II), (III), (IV), or (V) of clause (i), the State agency responsible for the administration of the program in a State;
+&emsp;&emsp;&emsp;"(I) subclause (I), (II), (III), (IV), or (V) of clause (i), the State agency responsible for the administration of the program in a State;
 
-&emsp;&emsp;&emsp;“(II) clause (i)(VI), the Secretary of Housing and Urban Development, a public housing agency, or another entity that determines the eligibility of an individual for financial assistance; and
+&emsp;&emsp;&emsp;"(II) clause (i)(VI), the Secretary of Housing and Urban Development, a public housing agency, or another entity that determines the eligibility of an individual for financial assistance; and
 
-&emsp;&emsp;&emsp;“(III) clause (i)(VII), an institution of higher education involved.”
+&emsp;&emsp;&emsp;"(III) clause (i)(VII), an institution of higher education involved."
 
 #### Effective Date
 
 Pub. L. 98–369, div. B, title VI, §2651(l), July 18, 1984, 98 Stat. 1151, provided that:
 
-“(1) The amendments made by subsections (j) and (k) \[amending section 1383 of this title and section 6103 of Title 26, Internal Revenue Code\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].
+"(1) The amendments made by subsections (j) and (k) \[amending section 1383 of this title and section 6103 of Title 26, Internal Revenue Code\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].
 
-“(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and section 2020 of Title 7, Agriculture, repealing section 611 of this title, and amending provisions set out as a note under section 1382 of this title\] shall become effective on April 1, 1985. In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, the Secretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may by waiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[subsec. (c) of this section\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986.”
+"(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and section 2020 of Title 7, Agriculture, repealing section 611 of this title, and amending provisions set out as a note under section 1382 of this title\] shall become effective on April 1, 1985. In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, the Secretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may by waiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[42 U.S.C. 1320b–7(c)\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986."
 
 #### Construction of 1999 Amendment
 
@@ -310,7 +310,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Immigration and Naturalization Service To Establish Verification System by October 1, 1987
 
-Pub. L. 99–603, title I, §121(c)(1), Nov. 6, 1986, 100 Stat. 3391, provided that: “The Commissioner of Immigration and Naturalization shall implement a system for the verification of immigration status under paragraphs (3) and (4)(B)(i) of section 1137(d) of the Social Security Act \[subsec. (d)(3) and (4)(B)(i) of this section\] (as amended by this section) so that the system is available to all the States by not later than October 1, 1987. Such system shall not be used by the Immigration and Naturalization Service for administrative (non-criminal) immigration enforcement purposes and shall be implemented in a manner that provides for verification of immigration status without regard to the sex, color, race, religion, or nationality of the individual involved.”
+Pub. L. 99–603, title I, §121(c)(1), Nov. 6, 1986, 100 Stat. 3391, provided that: "The Commissioner of Immigration and Naturalization shall implement a system for the verification of immigration status under paragraphs (3) and (4)(B)(i) of section 1137(d) of the Social Security Act \[42 U.S.C. 1320b–7(d)(3), (4)(B)(i)\] (as amended by this section) so that the system is available to all the States by not later than October 1, 1987. Such system shall not be used by the Immigration and Naturalization Service for administrative (non-criminal) immigration enforcement purposes and shall be implemented in a manner that provides for verification of immigration status without regard to the sex, color, race, religion, or nationality of the individual involved."
 
 #### General Accounting Office Reports
 

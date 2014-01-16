@@ -14,7 +14,7 @@ A System institution may terminate the status of the institution as a System ins
 
 &emsp;(5) the institution pays or makes adequate provision for payment of all outstanding debt obligations of the institution;
 
-&emsp;(6) the termination is approved by a majority of the stockholders of the institution voting, in person or by written proxy, at a duly authorized stockholders’ meeting, held prior to giving notice to the Farm Credit Administration Board; and
+&emsp;(6) the termination is approved by a majority of the stockholders of the institution voting, in person or by written proxy, at a duly authorized stockholders' meeting, held prior to giving notice to the Farm Credit Administration Board; and
 
 &emsp;(7) the institution meets such other conditions as the Farm Credit Administration Board by regulation considers appropriate.
 

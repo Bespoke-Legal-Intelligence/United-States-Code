@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Development center
 
-&emsp;The term “development center” means—
+&emsp;The term "development center" means—
 
 &emsp;&emsp;(A) the North Central Regional Center for Rural Development;
 
@@ -18,19 +18,19 @@ In this section:
 
 #### (2) Extension program
 
-&emsp;The term “extension program” means the rural electronic commerce extension program established under subsection (b) of this section.
+&emsp;The term "extension program" means the rural electronic commerce extension program established under subsection (b) of this section.
 
 #### (3) Microenterprise
 
-&emsp;The term “microenterprise” means a commercial enterprise that has 5 or fewer employees, 1 or more of whom own the enterprise.
+&emsp;The term "microenterprise" means a commercial enterprise that has 5 or fewer employees, 1 or more of whom own the enterprise.
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture, acting through the Director of the National Institute of Food and Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture, acting through the Director of the National Institute of Food and Agriculture.
 
 #### (5) Small business
 
-&emsp;The term “small business” has the meaning given the term “small-business concern” by section 632(a) of title 15.
+&emsp;The term "small business" has the meaning given the term "small-business concern" by section 632(a) of title 15.
 
 #### (b) Establishment
 
@@ -100,7 +100,7 @@ A prior section 5923, Pub. L. 101–624, title XVI, §1670, Nov. 28, 1990, 104 S
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(4). Pub. L. 110–246, §7511(c)(22), substituted “Director of the National Institute of Food and Agriculture” for “Administrator of the Cooperative State Research, Education, and Extension Service”.
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–246, §7511(c)(22), substituted "Director of the National Institute of Food and Agriculture" for "Administrator of the Cooperative State Research, Education, and Extension Service".
 
 #### Effective Date of 2008 Amendment
 

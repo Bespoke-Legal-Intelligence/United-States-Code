@@ -14,7 +14,7 @@ However, the bankruptcy court is permitted under section 306 to condition any re
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–8 struck out “, 304,” after “section 303” in two places.
+<b>2005</b>—Pub. L. 109–8 struck out ", 304," after "section 303" in two places.
 
 #### Effective Date of 2005 Amendment
 

@@ -1,6 +1,6 @@
 ### §651. Disbursing officer falsely certifying full payment
 
-Whoever, being an officer charged with the disbursement of the public moneys, accepts, receives, or transmits to the Government Accountability Office to be allowed in his favor any receipt or voucher from a creditor of the United States without having paid the full amount specified therein to such creditor in such funds as the officer received for disbursement, or in such funds as he may be authorized by law to take in exchange, shall be fined under this title or in double the amount so withheld,whichever is greater, or imprisoned not more than two years, or both; but if the amount withheld does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being an officer charged with the disbursement of the public moneys, accepts, receives, or transmits to the Government Accountability Office to be allowed in his favor any receipt or voucher from a creditor of the United States without having paid the full amount specified therein to such creditor in such funds as the officer received for disbursement, or in such funds as he may be authorized by law to take in exchange, shall be fined under this title or in double the amount so withheld, whichever is greater, or imprisoned not more than two years, or both; but if the amount withheld does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 727; Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(G), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -16,11 +16,11 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1996</b>—Pub. L. 104–294 substituted “$1,000” for “$100”.
+<b>1996</b>—Pub. L. 104–294 substituted "$1,000" for "$100".
 
-<b>1994</b>—Pub. L. 103–322, §330016(2)(G), substituted “shall be fined under this title or in double the amount so withheld, whichever is greater, or imprisoned” for “shall be fined in double the amount so withheld or imprisoned”.
+<b>1994</b>—Pub. L. 103–322, §330016(2)(G), substituted "shall be fined under this title or in double the amount so withheld, whichever is greater, or imprisoned" for "shall be fined in double the amount so withheld or imprisoned".
 
-Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
+Pub. L. 103–322, §330016(1)(H), substituted "fined under this title" for "fined not more than $1,000" after "he shall be".
 

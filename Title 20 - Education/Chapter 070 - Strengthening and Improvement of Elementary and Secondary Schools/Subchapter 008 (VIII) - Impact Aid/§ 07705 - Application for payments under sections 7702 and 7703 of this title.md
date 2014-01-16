@@ -10,7 +10,7 @@ A local educational agency desiring to receive a payment under section 7702 or 7
 
 #### (b) Contents
 
-Each such application shall be submitted in such form and manner, and shall contain such information, as the Secretary may require, including—
+Each such application shall be submitted in such form and manner, and shall contain suchinformation, as the Secretary may require, including—
 
 &emsp;(1) information to determine the eligibility of the local educational agency for a payment and the amount of such payment; and
 
@@ -60,7 +60,7 @@ A prior section 8005 of Pub. L. 89–10 was renumbered section 9005 and was clas
 
 #### Amendments
 
-<b>2000</b>—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(1)\], inserted “, or not more than 60 days after the date on which the Secretary sends written notice to the local educational agency pursuant to paragraph (3)(A), as the case may be,” after “subsection (c) of this section”.
+<b>2000</b>—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(1)\], inserted ", or not more than 60 days after the date on which the Secretary sends written notice to the local educational agency pursuant to paragraph (3)(A), as the case may be," after "subsection (c) of this section".
 
-Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(2)\], amended heading and text generally. Prior to amendment, text read as follows: “The Secretary shall not accept or approve any application that is filed more than 60 days after a deadline established under subsection (c) of this section.”
+Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(2)\], amended heading and text generally. Prior to amendment, text read as follows: "The Secretary shall not accept or approve any application that is filed more than 60 days after a deadline established under subsection (c) of this section."
 

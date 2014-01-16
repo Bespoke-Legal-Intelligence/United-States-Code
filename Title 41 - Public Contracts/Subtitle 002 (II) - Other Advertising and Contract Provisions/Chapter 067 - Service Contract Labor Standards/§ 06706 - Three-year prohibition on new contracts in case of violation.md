@@ -2,7 +2,7 @@
 
 (a)
 
-Distribution of List.—The Comptroller General shall distribute to each agency of theFederal Government a list containing the names of persons or firms that a Federal agency or the Secretary has found to have violated this chapter.
+Distribution of List.—The Comptroller General shall distribute to each agency of the Federal Government a list containing the names of persons or firms that a Federal agency or the Secretary has found to have violated this chapter.
 
 (b)
 
@@ -32,5 +32,5 @@ Pub. L. 89–286, §5(a) (1st sentence), Oct. 22, 1965, 79 Stat. 1035.
 
 Pub. L. 89–286, §5(a) (2d–last sentences), Oct. 22, 1965, 79 Stat. 1035; Pub. L. 92–473, §4, Oct. 9, 1972, 86 Stat. 790.
 
-In subsection (b), the word “entity” is substituted for “firm, corporation, partnership, or association” to use a single broad term clarifying that the prohibition applies to any kind of organization in which the person or firm has a substantial interest. The words “containing the name of such persons or firms” are omitted as unnecessary. The word “person” is substituted for “individual” for consistency in the subsection.
+In subsection (b), the word "entity" is substituted for "firm, corporation, partnership, or association" to use a single broad term clarifying that the prohibition applies to any kind of organization in which the person or firm has a substantial interest. The words "containing the name of such persons or firms" are omitted as unnecessary. The word "person" is substituted for "individual" for consistency in the subsection.
 

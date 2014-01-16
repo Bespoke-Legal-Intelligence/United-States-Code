@@ -2,7 +2,7 @@
 
 (a) There are authorized to be appropriated for the purpose of carrying out the provisions of this subchapter (other than sections 2991b(d), 2991b–1, 2991b–3 of this title, subsection (e) <sup>1</sup> of this section, and any other provision of this subchapter for which there is an express authorization of appropriations), such sums as may be necessary for each of fiscal years 1999, 2000, 2001, and 2002.
 
-(b) Not less than 90 per centum of the funds made available to carry out the provisions ofthis subchapter (other than sections 2991b(d), 2991b–1, 2991b–3, 2991c of this title, subsection (e) <sup>1</sup> of this section, and any other provision of this subchapter for which there is an express authorization of appropriations) for a fiscal year shall be expended to carry out section 2991b(a) of this title for such fiscal year.
+(b) Not less than 90 per centum of the funds made available to carry out the provisions of this subchapter (other than sections 2991b(d), 2991b–1, 2991b–3, 2991c of this title, subsection (e) <sup>1</sup> of this section, and any other provision of this subchapter for which there is an express authorization of appropriations) for a fiscal year shall be expended to carry out section 2991b(a) of this title for such fiscal year.
 
 (c) There is authorized to be appropriated $8,000,000 for each of fiscal years 1999, 2000, 2001, and 2002, for the purpose of carrying out the provisions of section 2991b(d) of this title.
 
@@ -24,41 +24,41 @@ Subsection (e) of this section, referred to in subsecs. (a) and (b), was redesig
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e). Pub. L. 109–394 substituted “2008, 2009, 2010, 2011, and 2012” for “1999, 2000, 2001, and 2002”.
+<b>2006</b>—Subsec. (e). Pub. L. 109–394 substituted "2008, 2009, 2010, 2011, and 2012" for "1999, 2000, 2001, and 2002".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–361, §2(1), substituted “for each of fiscal years 1999, 2000, 2001, and 2002.” for “for fiscal years 1992, 1993, 1994, and 1995.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–361, §2(1), substituted "for each of fiscal years 1999, 2000, 2001, and 2002." for "for fiscal years 1992, 1993, 1994, and 1995."
 
-Subsec. (c). Pub. L. 105–361, §2(2), substituted “for each of fiscal years 1999, 2000, 2001, and 2002,” for “for each of the fiscal years 1992, 1993, 1994, 1995, and 1996,”.
+Subsec. (c). Pub. L. 105–361, §2(2), substituted "for each of fiscal years 1999, 2000, 2001, and 2002," for "for each of the fiscal years 1992, 1993, 1994, 1995, and 1996,".
 
-Subsec. (e). Pub. L. 105–361, §2(3), substituted “such sums as may be necessary for each of fiscal years 1999, 2000, 2001, and 2002.” for “, $2,000,000 for fiscal year 1993 and such sums as may be necessary for fiscal years 1994, 1995, 1996, and 1997.”
+Subsec. (e). Pub. L. 105–361, §2(3), substituted "such sums as may be necessary for each of fiscal years 1999, 2000, 2001, and 2002." for ", $2,000,000 for fiscal year 1993 and such sums as may be necessary for fiscal years 1994, 1995, 1996, and 1997."
 
-<b>1993</b>—Subsecs. (a), (b). Pub. L. 103–171, §5(6)(A), substituted “2991b–1,” for “2991b–1”.
+<b>1993</b>—Subsecs. (a), (b). Pub. L. 103–171, §5(6)(A), substituted "2991b–1," for "2991b–1".
 
-Subsec. (c). Pub. L. 103–171, §5(6)(B), substituted “is” for “are”.
+Subsec. (c). Pub. L. 103–171, §5(6)(B), substituted "is" for "are".
 
 Subsec. (d). Pub. L. 103–171, §5(6)(D), redesignated subsec. (e) as (d).
 
 Subsec. (e). Pub. L. 103–171, §5(6)(D), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Pub. L. 103–171, §5(6)(C), substituted “fiscal year 1994” for “fiscal years 1992 and 1993”.
+Pub. L. 103–171, §5(6)(C), substituted "fiscal year 1994" for "fiscal years 1992 and 1993".
 
 Subsec. (f). Pub. L. 103–171, §5(6)(D), redesignated subsec. (f) as (e).
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–524, §3(1), inserted reference to section 2991b–3 of this title.
 
-Pub. L. 102–375, §822(15), substituted “, 2991b–1 of this title, subsection (e) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations” for “and 2991b–1 of this title” and “1992, 1993, 1994, and 1995” for “1988, 1989, 1990, and 1991”.
+Pub. L. 102–375, §822(15), substituted ", 2991b–1 of this title, subsection (e) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations" for "and 2991b–1 of this title" and "1992, 1993, 1994, and 1995" for "1988, 1989, 1990, and 1991".
 
 Subsec. (b). Pub. L. 102–524, §3(1), inserted reference to section 2991b–3 of this title.
 
-Pub. L. 102–375, §822(16), substituted “, 2991b–1, 2991c of this title, subsection (e) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations” for “and 2991b–1 of this title”.
+Pub. L. 102–375, §822(16), substituted ", 2991b–1, 2991c of this title, subsection (e) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations" for "and 2991b–1 of this title".
 
-Subsec. (c). Pub. L. 102–497 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “There are authorized to be appropriated $500,000 for each of the fiscal years 1992, 1993, 1994, and 1995 for the purpose of providing financial assistance to other Native American Pacific Islanders (including American Samoan Natives) under section 2991b(a) of this title.”
+Subsec. (c). Pub. L. 102–497 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: "There are authorized to be appropriated $500,000 for each of the fiscal years 1992, 1993, 1994, and 1995 for the purpose of providing financial assistance to other Native American Pacific Islanders (including American Samoan Natives) under section 2991b(a) of this title."
 
-Pub. L. 102–375, §822(17), (18), redesignated par. (1) as subsec. (c), substituted “There are” for “Except as provided in paragraph (2), there are”, substituted “1992, 1993, 1994, and 1995” for “1988, 1989, 1990, and 1991”, and struck out par. (2) which read as follows: “No funds may be appropriated under paragraph (1) for a fiscal year unless the amount appropriated under subsection (a) of this section for such fiscal year exceeds 105 percent of the amount appropriated under subsection (a) of this section for fiscal year 1987.”
+Pub. L. 102–375, §822(17), (18), redesignated par. (1) as subsec. (c), substituted "There are" for "Except as provided in paragraph (2), there are", substituted "1992, 1993, 1994, and 1995" for "1988, 1989, 1990, and 1991", and struck out par. (2) which read as follows: "No funds may be appropriated under paragraph (1) for a fiscal year unless the amount appropriated under subsection\(a) of this section for such fiscal year exceeds 105 percent of the amount appropriated under subsection (a) of this section for fiscal year 1987."
 
 Subsec. (d). Pub. L. 102–497, §9(c)(2), redesignated subsec. (d) as (c).
 
-Pub. L. 102–375, §822(19), struck out “1991,” before “1992,”.
+Pub. L. 102–375, §822(19), struck out "1991," before "1992,".
 
 Subsec. (e). Pub. L. 102–375, §822(20), added subsec. (e).
 
@@ -68,17 +68,17 @@ Subsec. (f). Pub. L. 102–524, §3(2), added subsec. (f).
 
 Subsec. (d). Pub. L. 101–408, §3(2), added subsec. (d).
 
-<b>1988</b>—Subsec. (c)(2). Pub. L. 100–581 substituted “fiscal year 1987” for “the preceding fiscal year”.
+<b>1988</b>—Subsec. (c)(2). Pub. L. 100–581 substituted "fiscal year 1987" for "the preceding fiscal year".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–175, §506(b), inserted “(other than section 2991b–1 of this title)” after “this subchapter”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–175, §506(b), inserted "(other than section 2991b–1 of this title)" after "this subchapter".
 
-Pub. L. 100–175, §505(1), substituted “1988, 1989, 1990, and 1991” for “1979 through 1986”.
+Pub. L. 100–175, §505(1), substituted "1988, 1989, 1990, and 1991" for "1979 through 1986".
 
-Subsec. (b). Pub. L. 100–175, §506(b), inserted “(other than section 2991b–1 of this title)” after “this subchapter”.
+Subsec. (b). Pub. L. 100–175, §506(b), inserted "(other than section 2991b–1 of this title)" after "this subchapter".
 
 Subsec. (c). Pub. L. 100–175, §505(2), added subsec. (c).
 
-<b>1984</b>—Pub. L. 98–558 designated existing provisions as subsec. (a), substituted “1986” for “1981”, and added subsec. (b).
+<b>1984</b>—Pub. L. 98–558 designated existing provisions as subsec. (a), substituted "1986" for "1981", and added subsec. (b).
 
 <b>1978</b>—Pub. L. 95–568 substituted appropriations authorization for fiscal years 1979 through 1981 for prior such authorization for fiscal years 1975 through 1977.
 

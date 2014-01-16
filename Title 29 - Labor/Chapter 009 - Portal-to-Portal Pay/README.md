@@ -12,7 +12,7 @@
 | [258\.](%C2%A7%2000258%20-%20Reliance%20on%20past%20administrative%20rulings%2C%20etc.md) | Reliance on past administrative rulings, etc. |
 | [259\.](%C2%A7%2000259%20-%20Reliance%20in%20future%20on%20administrative%20rulings%2C%20etc.md) | Reliance in future on administrative rulings, etc. |
 | [260\.](%C2%A7%2000260%20-%20Liquidated%20damages.md) | Liquidated damages. |
-| [261\.](%C2%A7%2000261%20-%20Applicability%20of%20%E2%80%9Carea%20of%20production%E2%80%9D%20regulations.md) | Applicability of “area of production” regulations. |
+| [261\.](%C2%A7%2000261%20-%20Applicability%20of%20area%20of%20production%20regulations.md) | Applicability of "area of production" regulations. |
 | [262\.](%C2%A7%2000262%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,5 +32,5 @@
 - [&sect; 00258 - Reliance on past administrative rulings, etc](%C2%A7%2000258%20-%20Reliance%20on%20past%20administrative%20rulings%2C%20etc.md)
 - [&sect; 00259 - Reliance in future on administrative rulings, etc](%C2%A7%2000259%20-%20Reliance%20in%20future%20on%20administrative%20rulings%2C%20etc.md)
 - [&sect; 00260 - Liquidated damages](%C2%A7%2000260%20-%20Liquidated%20damages.md)
-- [&sect; 00261 - Applicability of &#8220;area of production&#8221; regulations](%C2%A7%2000261%20-%20Applicability%20of%20%E2%80%9Carea%20of%20production%E2%80%9D%20regulations.md)
+- [&sect; 00261 - Applicability of area of production regulations](%C2%A7%2000261%20-%20Applicability%20of%20area%20of%20production%20regulations.md)
 - [&sect; 00262 - Definitions](%C2%A7%2000262%20-%20Definitions.md)

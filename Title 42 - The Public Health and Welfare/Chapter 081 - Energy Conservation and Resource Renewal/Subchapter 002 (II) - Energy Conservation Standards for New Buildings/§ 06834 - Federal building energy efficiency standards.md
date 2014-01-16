@@ -34,15 +34,14 @@
 
 (D) Not later than 1 year after December 19, 2007, the Secretary shall establish, by rule, revised Federal building energy efficiency performance standards that require that:
 
-&emsp;(i) For new Federal buildings and Federal buildings undergoing major renovations, with respect to which the Administrator of General Services is required to transmit a prospectus to Congress under section 3307 of title 40, in the case of public buildings (as defined in section 3301 of title 40), or of at least $2,500,000 in costs adjusted annually for inflation for other buildings:
+&emsp;(i) For new Federal buildings and Federal buildings undergoing major renovations, withrespect to which the Administrator of General Services is required to transmit a prospectus to Congress under section 3307 of title 40, in the case of public buildings (as defined in section 3301 of title 40), or of at least $2,500,000 in costs adjusted annually for inflation for other buildings:
 
 &emsp;&emsp;(I) The buildings shall be designed so that the fossil fuel-generated energy consumption of the buildings is reduced, as compared with such energy consumption by a similar building in fiscal year 2003 (as measured by Commercial Buildings Energy Consumption Survey or Residential Energy Consumption Survey data from the Energy Information Agency), by the percentage specified in the following table:
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
 | &nbsp;&nbsp;&nbsp;&nbsp;Fiscal Year | <b>Percentage Reduction</b> |
+| :--- | ---: |
 | &nbsp;&nbsp;2010 | 55 |
 | &nbsp;&nbsp;2015 | 65 |
 | &nbsp;&nbsp;2020 | 80 |
@@ -51,7 +50,7 @@
 
 &emsp;&emsp;(II) Upon petition by an agency subject to this subparagraph, the Secretary may adjust the applicable numeric requirement under subclause (I) downward with respect to a specific building, if the head of the agency designing the building certifies in writing that meeting such requirement would be technically impracticable in light of the agency's specified functional needs for that building and the Secretary concurs with the agency's conclusion. This subclause shall not apply to the General Services Administration.
 
-&emsp;&emsp;(III) Sustainable design principles shall be applied to the siting, design, and construction of such buildings. Not later than 90 days after December 19, 2007, the Secretary, after reviewing the findings of the Federal Director under section 17092(h) of this title, in consultation with the Administrator of General Services, and in consultation with the Secretary of Defense for considerations relating to those facilities under the custody and control of the Department of Defense, shall identify a certification system and level for green buildings that the Secretary determines to be the most likely to encourage a comprehensive and environmentally-sound approach to certification of green buildings. The identification of the certification system and level shall be based on a review of the Federal Director's findings under section 17092(h) of this title and the criteria specified in clause (iii), shall identify the highest level the Secretary determines is appropriate above the minimum level required for certification under the system selected, and shall achieve results at least comparable to the system used by and highest level referenced by the General Services Administration as of December 19, 2007. Within 90 days of the completion of each study required by clause (iv), the Secretary, in consultation with the Administrator of General Services, and in consultation with the Secretary of Defense for considerations relating to those facilities under the custodyand control of the Department of Defense, shall review and update the certification system and level, taking into account the conclusions of such study.
+&emsp;&emsp;(III) Sustainable design principles shall be applied to the siting, design, and construction of such buildings. Not later than 90 days after December 19, 2007, the Secretary, after reviewing the findings of the Federal Director under section 17092(h) of this title, in consultation with the Administrator of General Services, and in consultation with the Secretary of Defense for considerations relating to those facilities under the custody and control of the Department of Defense, shall identify a certification system and level for green buildings that the Secretary determines to be the most likely to encourage a comprehensive and environmentally-sound approach to certification of green buildings. The identification of the certification system and level shall be based on a review of the Federal Director's findings under section 17092(h) of this title and the criteria specified in clause (iii), shall identify the highest level the Secretary determines is appropriate above the minimum level required for certification under the system selected, and shall achieve results at least comparable to the system used by and highest level referenced by the General Services Administration as of December 19, 2007. Within 90 days of the completion of each study required by clause (iv), the Secretary, in consultation with the Administrator of General Services, and in consultation with the Secretary of Defense for considerations relating to those facilities under the custody and control of the Department of Defense, shall review and update the certification system and level, taking into account the conclusions of such study.
 
 &emsp;(ii) In establishing criteria for identifying major renovations that are subject to the requirements of this subparagraph, the Secretary shall take into account the scope, degree, and types of renovations that are likely to provide significant opportunities for substantial improvements in energy efficiency.
 
@@ -79,7 +78,7 @@
 
 &emsp;(v) The Secretary may by rule allow Federal agencies to develop internal certification processes, using certified professionals, in lieu of certification by the certification entity identified under clause (i)(III). The Secretary shall include in any such rule guidelines to ensure that the certification process results in buildings meeting the applicable certification system and level identified under clause (i)(III). An agency employing an internal certification process must continue to obtain external certification by the certification entity identified under clause (i)(III) for at least 5 percent of the total number of buildings certified annually by the agency.
 
-&emsp;(vi) With respect to privatized military housing, the Secretary of Defense, after consultation with the Secretary may, through rulemaking, develop alternative criteria to those established by subclauses (I) and (III) of clause (i) that achieve an equivalent result in terms of energy savings, sustainable design, and green building performance.
+&emsp;(vi) With respect to privatized military housing, the Secretary of Defense, after consultation with the Secretary may, through rulemaking, develop alternative criteria to those established by subclauses (I) and (III) ofclause (i) that achieve an equivalent result in terms of energy savings, sustainable design, and green building performance.
 
 &emsp;(vii) In addition to any use of water conservation technologies otherwise required by this section, water conservation technologies shall be applied to the extent that the technologies are life-cycle cost-effective.
 
@@ -109,7 +108,7 @@ A prior section 6834, Pub. L. 94–385, title III, §305, Aug. 14, 1976, 90 Stat
 
 Subsec. (a)(3)(D). Pub. L. 110–140, §433(a), added subpar. (D).
 
-<b>2005</b>—Subsec. (a)(2)(A). Pub. L. 109–58, §109(1), substituted “the 2004 International Energy Conservation Code (in the case of residential buildings) or ASHRAE Standard 90.1–2004” for “CABO Model Energy Code, 1992 (in the case of residential buildings) or ASHRAE Standard 90.1–1989”.
+<b>2005</b>—Subsec. (a)(2)(A). Pub. L. 109–58, §109(1), substituted "the 2004 International Energy Conservation Code (in the case of residential buildings) or ASHRAE Standard 90.1–2004" for "CABO Model Energy Code, 1992 (in the case of residential buildings) or ASHRAE Standard 90.1–1989".
 
 Subsec. (a)(3). Pub. L. 109–58, §109(2), added par. (3).
 
@@ -121,13 +120,13 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 Pub. L. 110–140, title IV, §433(c), (d), Dec. 19, 2007, 121 Stat. 1614, provided that:
 
-“(c)
+"(c)
 
 Revision of Federal Acquisition Regulation.—Not later than 2 years after the date of the enactment of this Act \[Dec. 19, 2007\], the Federal Acquisition Regulation shall be revised to require Federal officers and employees to comply with this section \[amending this section and section 6832 of this title\] and the amendments made by this section in the acquisition, construction, or major renovation of any facility. The members of the Federal Acquisition Regulatory Council (established under section 25 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421) \[see 41 U.S.C. 1302\]) shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
 
-“(d)
+"(d)
 
-Guidance.—Not later than 90 days after the date of promulgation of the revised regulations under subsection (c), the Administrator for Federal Procurement Policy shall issue guidance to all Federal procurement executives providing direction and instructions to renegotiate the design of proposed facilities and major renovations for existing facilities to incorporate improvements that are consistent with this section.”
+Guidance.—Not later than 90 days after the date of promulgation of the revised regulations under subsection (c), the Administrator for Federal Procurement Policy shall issue guidance to all Federal procurement executives providing direction and instructions to renegotiate the design of proposed facilities and major renovations for existing facilities to incorporate improvements that are consistent with this section."
 
-\[For definitions of “Federal Director” and “Commercial Director” as used in section 433(c) of Pub. L. 110–140, set out above, see section 17061 of this title.\]
+\[For definitions of "Federal Director" and "Commercial Director" as used in section 433(c) of Pub. L. 110–140, set out above, see section 17061 of this title.\]
 

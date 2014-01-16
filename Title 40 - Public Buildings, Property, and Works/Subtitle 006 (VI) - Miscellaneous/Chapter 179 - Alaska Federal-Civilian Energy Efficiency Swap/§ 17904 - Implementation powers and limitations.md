@@ -38,7 +38,7 @@ Historical and Revision Notes
 
 Pub. L. 96–571, §5, Dec. 22, 1980, 94 Stat. 3342.
 
-In subsection (a), the words “federal agency” are substituted for “department, agency, or instrumentality of the United States Government” because of the definition of “federal agency” in section 17901 of this title.
+In subsection (a), the words "federal agency" are substituted for "department, agency, or instrumentality of the United States Government" because of the definition of "federal agency" in section 17901 of this title.
 
-In subsection (d), the words “notwithstanding any other provision of law” are omitted as unnecessary.
+In subsection (d), the words "notwithstanding any other provision of law" are omitted as unnecessary.
 

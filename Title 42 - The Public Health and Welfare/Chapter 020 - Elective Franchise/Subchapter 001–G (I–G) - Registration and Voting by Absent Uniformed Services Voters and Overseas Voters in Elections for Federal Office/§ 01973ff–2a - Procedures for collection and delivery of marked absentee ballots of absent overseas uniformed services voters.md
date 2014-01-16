@@ -22,7 +22,7 @@ The Presidential designee shall establish procedures for collecting marked absen
 
 #### (B) Authority to establish alternative deadline for certain locations
 
-&emsp;&emsp;If the Presidential designee determines that the deadline described in subparagraph (A) is not sufficient to ensure timely delivery of the ballot under paragraph (1) with respect to a particular location because of remoteness or other factors, the Presidential designee may establish as an alternative deadline for that location the latest date occurring prior to the deadline described in subparagraph (A) which is sufficient to provide timely delivery of the ballot under paragraph (1).
+&emsp;&emsp;If the Presidential designee determines that the deadline described in subparagraph (A) is not sufficient to ensure timely delivery of the ballot under paragraph (1) with respect to a particular location because of remoteness or other factors, the Presidentialdesignee may establish as an alternative deadline for that location the latest date occurring prior to the deadline described in subparagraph (A) which is sufficient to provide timely delivery of the ballot under paragraph (1).
 
 #### (4) No postage requirement
 
@@ -38,7 +38,7 @@ The Presidential designee shall take appropriate actions to inform individuals w
 
 #### (d) Absent overseas uniformed services voter defined
 
-In this section, the term “absent overseas uniformed services voter” means an overseas voter described in section 1973ff–6(5)(A) of this title.
+In this section, the term "absent overseas uniformed services voter" means an overseas voter described in section 1973ff–6(5)(A) of this title.
 
 #### (e) Authorization of appropriations
 

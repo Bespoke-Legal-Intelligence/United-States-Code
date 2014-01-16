@@ -126,7 +126,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (B) Interim purchase requirements
 
-&emsp;&emsp;The capital structure plan of a Federal home loan bank may allow any member referred to in subparagraph (A) that would be required by the terms of the capital structure plan to increase its investment in the stock of the bank to do so in periodic installments during the transition period.
+&emsp;&emsp;The capital structure plan of a Federal home loan bank may allow any member referred to in subparagraph (A) that would berequired by the terms of the capital structure plan to increase its investment in the stock of the bank to do so in periodic installments during the transition period.
 
 #### (3) Disposition of shares
 
@@ -194,7 +194,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (C) Commencement of notice period
 
-&emsp;&emsp;With respect to an institution, the membership of which is terminated in accordance with subparagraph (A), the applicable notice period under subsection (a)(4) of this section for each class of redeemable stock shall commence on the earlier of—
+&emsp;&emsp;With respect to an institution, the membership of which is terminated in accordance with subparagraph (A), the applicable notice period under subsection (a)(4) of this sectionfor each class of redeemable stock shall commence on the earlier of—
 
 &emsp;&emsp;&emsp;(i) the date of such termination; or
 
@@ -212,7 +212,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (2) Excess stock
 
-&emsp;Shares of stock held by a member shall not be deemed to be “excess stock” for purposes of this subsection by virtue of a member's submission of a notice of intent to withdraw from membership or termination of its membership in any other manner.
+&emsp;Shares of stock held by a member shall not be deemed to be "excess stock" for purposes of this subsection by virtue of a member's submission of a notice of intent to withdraw from membership or termination of its membership in any other manner.
 
 #### (3) Priority
 
@@ -254,45 +254,45 @@ The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, refe
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–289, §1204(10), substituted “the Director” for “the Finance Board” wherever appearing in subsecs. (a)(1), (3)(B), (4) to (6), (b)(1)(C), (2), (c)(1), (4)(A), (C), (6), (d)(1), (f), and (g).
+<b>2008</b>—Pub. L. 110–289, §1204(10), substituted "the Director" for "the Finance Board" wherever appearing in subsecs. (a)(1), (3)(B), (4) to (6), (b)(1)(C), (2), (c)(1), (4)(A), (C), (6), (d)(1), (f), and (g).
 
-Subsec. (a)(3)(A). Pub. L. 110–289, §1110(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Each Federal home loan bank shall maintain permanent capital in an amount that is sufficient, as determined in accordance with the regulations of the Finance Board, to meet—
+Subsec. (a)(3)(A). Pub. L. 110–289, §1110(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "Each Federal home loan bank shall maintain permanent capital in an amount that is sufficient, as determined in accordance with the regulations of the Finance Board, to meet—
 
-&emsp;“(i) the credit risk to which the Federal home loan bank is subject; and
+&emsp;"(i) the credit risk to which the Federal home loan bank is subject; and
 
-&emsp;“(ii) the market risk, including interest rate risk, to which the Federal home loan bank is subject, based on a stress test established by the Finance Board that rigorously tests for changes in market variables, including changes in interest rates, rate volatility, and changes in the shape of the yield curve.”
+&emsp;"(ii) the market risk, including interest rate risk, to which the Federal home loan bank is subject, based on a stress test established by the Finance Board that rigorously tests for changes in market variables, including changes in interest rates, rate volatility, and changes in the shape of the yield curve."
 
-Subsec. (a)(3)(B). Pub. L. 110–289, §1110(b)(2), substituted “(A)” for “(A)(ii)”.
+Subsec. (a)(3)(B). Pub. L. 110–289, §1110(b)(2), substituted "(A)" for "(A)(ii)".
 
-Subsec. (b)(1). Pub. L. 110–289, §1204(4)(A), (10), substituted “the Director” for “the Finance Board” and “approval by the Director” for “Finance Board approval” in introductory provisions.
+Subsec. (b)(1). Pub. L. 110–289, §1204(4)(A), (10), substituted "the Director" for "the Finance Board" and "approval by the Director" for "Finance Board approval" in introductory provisions.
 
-Subsecs. (c)(4)(B), (d)(2)(A). Pub. L. 110–289, §1204(4)(B), substituted “regulations of the Director” for “Finance Board regulations”.
+Subsecs. (c)(4)(B), (d)(2)(A). Pub. L. 110–289, §1204(4)(B), substituted "regulations of the Director" for "Finance Board regulations".
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–569 substituted “18 months” for “1 year” in introductory provisions.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–569 substituted "18 months" for "1 year" in introductory provisions.
 
 <b>1999</b>—Pub. L. 106–102 amended section generally, substituting present provisions for provisions authorizing banks to issue capital stock and providing for minimum subscriptions, retirement of oversubscriptions, cancellation of oversubscriptions, aggregate unpaid loan principal, reports and information, payments for stock, transfer or hypothecation of stock, withdrawal or removal of members, surrender and cancellation of stock, prepayment penalties, disposal of stock, dividends, and acquisition of membership after expiration of period of withdrawal.
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (b) as (a), substituted “Board” for “board”, and struck out former subsec. (a) which related to minimum amount of capital stock and subscription books.
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (b) as (a), substituted "Board" for "board", and struck out former subsec. (a) which related to minimum amount of capital stock and subscription books.
 
-Subsec. (b). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (c) as (b) and substituted “Board may” for “Federal Home Loan Bank Board may” in par. (1), and “The Board” for “The Federal Home Loan Bank Board” in par. (5). Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (c) as (b) and substituted "Board may" for "Federal Home Loan Bank Board may" in par. (1), and "The Board" for "The Federal Home Loan Bank Board" in par. (5). Former subsec. (b) redesignated (a).
 
 Subsecs. (c), (d). Pub. L. 101–73, §706(1), redesignated subsecs. (d) and (h) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
 
-Subsec. (e). Pub. L. 101–73, §710(b)(3), which directed amendment of subsec. (e) by striking out “or deprive any nonmember borrower of the privilege of further advances,” after “remove any member from membership,” was executed by striking “or deprive any nonmember borrower of the privilege of obtaining further advances,” as the probable intent of Congress.
+Subsec. (e). Pub. L. 101–73, §710(b)(3), which directed amendment of subsec. (e) by striking out "or deprive any nonmember borrower of the privilege of further advances," after "remove any member from membership," was executed by striking "or deprive any nonmember borrower of the privilege of obtaining further advances," as the probable intent of Congress.
 
-Pub. L. 101–73, §710(b)(2), struck out “or nonmember borrower” after “such member” wherever appearing.
+Pub. L. 101–73, §710(b)(2), struck out "or nonmember borrower" after "such member" wherever appearing.
 
-Pub. L. 101–73, §706(2), substituted “If any member's membership in a Federal Home Loan Bank is terminated, the indebtedness of such member to the Federal Home Loan Bank shall be liquidated in an orderly manner (as determined by the Federal Home Loan Bank), and upon completion of such liquidation, the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled. Any such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties or other fees applicable to such prepayment.” for “In any such case, the indebtedness of such member or nonmember borrower to the Federal Home Loan Bank shall be liquidated, and the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled, except that in the case of a voluntary withdrawal, such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties applicable to such prepayment.”
+Pub. L. 101–73, §706(2), substituted "If any member's membership in a Federal Home Loan Bank is terminated, the indebtedness of such member to the Federal Home Loan Bank shall be liquidated in an orderly manner (as determined by the Federal Home Loan Bank), and upon completion of such liquidation, the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled. Any such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties or other fees applicable to such prepayment." for "In any such case, the indebtedness of such member or nonmember borrower to the Federal Home Loan Bank shall be liquidated, and the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled, except that in the case of a voluntary withdrawal, such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties applicable to such prepayment."
 
-Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (i) as (e), substituted “Board” for “board” wherever appearing, and struck out former subsec. (e) which related to loans to institutions not authorized to subscribe to stock.
+Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (i) as (e), substituted "Board" for "board" wherever appearing, and struck out former subsec. (e) which related to loans to institutions not authorized to subscribe to stock.
 
-Subsec. (f). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (j) as (f), substituted “Board” for “board”, and struck out former subsec. (f) which related to subscription by United States, maximum amounts, and payments.
+Subsec. (f). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (j) as (f), substituted "Board" for "board", and struck out former subsec. (f) which related to subscription by United States, maximum amounts, and payments.
 
 Subsec. (g). Pub. L. 101–73, §706(1), redesignated subsec. (k) as (g) and struck out former subsec. (g) which related to retirement of stock of United States.
 
-Subsec. (h). Pub. L. 101–73, §715, substituted “10” for “five”.
+Subsec. (h). Pub. L. 101–73, §715, substituted "10" for "five".
 
-Pub. L. 101–73, §706(3), substituted “charter as a Federal savings association (as defined in section 1813 of this title)” for “charter from the Federal Home Loan Bank Board”.
+Pub. L. 101–73, §706(3), substituted "charter as a Federal savings association (as defined in section 1813 of this title)" for "charter from the Federal Home Loan Bank Board".
 
 Pub. L. 101–73, §706(1), redesignated subsec. (m) as (h). Former subsec. (h) redesignated (d).
 
@@ -300,17 +300,17 @@ Subsecs. (i) to (k). Pub. L. 101–73, §706(1), redesignated former subsecs. (i
 
 Subsec. (m). Pub. L. 101–73, §706(1), redesignated former subsec. (m) as (h).
 
-<b>1983</b>—Subsec. (m). Pub. L. 97–457 substituted “banks or in connection with obtaining a charter from the Federal Home Loan Bank Board” for “Banks” after “between”.
+<b>1983</b>—Subsec. (m). Pub. L. 97–457 substituted "banks or in connection with obtaining a charter from the Federal Home Loan Bank Board" for "Banks" after "between".
 
-<b>1982</b>—Subsec. (c)(2). Pub. L. 97–320, §353, struck out cl. (i) limitations which had prohibited members from reducing stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction was made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board; and reenacted cl. (ii) limitations as par. (2), substituting “the Board defining such term” for “said Board defining said term”.
+<b>1982</b>—Subsec. (c)(2). Pub. L. 97–320, §353, struck out cl. (i) limitations which had prohibited members from reducing stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction was made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board; and reenacted cl. (ii) limitations as par. (2), substituting "the Board defining such term" for "said Board defining said term".
 
 Subsec. (i). Pub. L. 97–320, §355(a), provided for treatment of a liquidation of indebtedness, in the case of a voluntary withdrawal of an institution from membership, as a prepayment of the indebtedness, subject to applicable prepayment penalties.
 
 Subsec. (m). Pub. L. 97–320, §355(b), added subsec. (m).
 
-<b>1979</b>—Subsec. (c)(2)(ii). Pub. L. 96–153 substituted “twenty” for “twelve”.
+<b>1979</b>—Subsec. (c)(2)(ii). Pub. L. 96–153 substituted "twenty" for "twelve".
 
-<b>1961</b>—Subsec. (c). Pub. L. 87–210, §1, amended subsection generally, and among other changes, authorized the bank to adjust at the end of each calendar year, under Board regulations, the stock held by each member, to retire stock of members in excess of required amounts, prohibited members to reduce stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction is made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board, provided that no bank shall act so as to cause the aggregate outstanding advances, within the meaning of regulations of the Board defining said term, to exceed 12 times the amounts paid in by members for outstanding capital stock held by such members, defined term “aggregate unpaid loan principal” and authorized the board to require members to submit reports and information for purposes of this subsection.
+<b>1961</b>—Subsec. (c). Pub. L. 87–210, §1, amended subsection generally, and among other changes, authorized the bank to adjust at the end of each calendar year, under Board regulations, the stock held by each member, to retire stock of members in excess of required amounts, prohibited members to reduce stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction is made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board, provided that no bank shall act so as to cause the aggregate outstanding advances, within the meaning of regulations of the Board defining said term, to exceed 12 times the amounts paid in by members for outstanding capital stock held by such members, defined term "aggregate unpaid loan principal" and authorized the board to require members to submit reports and information for purposes of this subsection.
 
 Subsec. (l). Pub. L. 87–210, §2, repealed subsec. (l) which required members to acquire, hold and maintain their stock holding in an amount equal to at least 2 per centum of the aggregate of the unpaid principal of such member's home mortgage loans, home-purchase contracts, and similar obligations, but not less than $500, and provided for the retirement of Government-owned stock.
 
@@ -320,11 +320,11 @@ Subsec. (l). Pub. L. 87–210, §2, repealed subsec. (l) which required members 
 
 <b>1935</b>—Subsec. (k). Act May 28, 1935, omitted exception clause relating to stock held by the United States.
 
-<b>1934</b>—Subsecs. (c), (e). Act June 27, 1934, substituted “$500” for “$1,500”.
+<b>1934</b>—Subsecs. (c), (e). Act June 27, 1934, substituted "$500" for "$1,500".
 
 #### Effective Date of 1961 Amendment
 
-Pub. L. 87–210, §7, Sept. 8, 1961, 75 Stat. 485, provided that: “This Act \[amending this section and section 1727 of this title and enacting provisions set out as a note under section 1727 of this title\] shall become effective on January 1 next following the date of its enactment \[Sept. 8, 1961\].”
+Pub. L. 87–210, §7, Sept. 8, 1961, 75 Stat. 485, provided that: "This Act \[amending this section and section 1727 of this title and enacting provisions set out as a note under section 1727 of this title\] shall become effective on January 1 next following the date of its enactment \[Sept. 8, 1961\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Class B stock”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Class B stock".</i>
 

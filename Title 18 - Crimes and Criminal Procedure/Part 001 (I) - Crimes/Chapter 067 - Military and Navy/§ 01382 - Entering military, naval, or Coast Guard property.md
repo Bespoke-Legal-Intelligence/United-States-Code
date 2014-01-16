@@ -2,7 +2,7 @@
 
 Whoever, within the jurisdiction of the United States, goes upon any military, naval, or Coast Guard reservation, post, fort, arsenal, yard, station, or installation, for any purpose prohibited by law or lawful regulation; or
 
-Whoever reenters or is found within any such reservation, post, fort, arsenal, yard, station, orinstallation, after having been removed therefrom or ordered not to reenter by any officer or person in command or charge thereof—
+Whoever reenters or is found within any such reservation, post, fort, arsenal, yard, station, or installation, after having been removed therefrom or ordered not to reenter by any officer or person in command or charge thereof—
 
 Shall be fined under this title or imprisoned not more than six months, or both.
 
@@ -14,13 +14,13 @@ Based on title 18, U.S.C., 1940 ed., §97 (Mar. 4, 1909, ch. 321, §45, 35 Stat.
 
 Reference to territory, Canal Zone, Puerto Rico and the Philippine Islands was omitted as covered by definition of United States in section 5 of this title.
 
-Words “naval or Coast Guard” were inserted before “reservation” and words “yard, station, or installation” were inserted after “arsenal” in two places, so as to extend section to naval or Coast Guard property.
+Words "naval or Coast Guard" were inserted before "reservation" and words "yard, station, or installation" were inserted after "arsenal" in two places, so as to extend section to naval or Coast Guard property.
 
 Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500" in last par.
 
 #### Transfer of Functions
 

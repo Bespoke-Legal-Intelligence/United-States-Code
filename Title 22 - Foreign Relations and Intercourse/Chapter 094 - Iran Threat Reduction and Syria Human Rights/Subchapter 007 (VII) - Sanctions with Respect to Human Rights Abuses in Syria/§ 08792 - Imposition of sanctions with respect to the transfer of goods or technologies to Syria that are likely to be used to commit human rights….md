@@ -32,7 +32,7 @@ The President shall impose sanctions described in section 8791(c) of this title 
 
 #### (B) Applicability to contracts and other agreements
 
-&emsp;&emsp;A person engages in an activity described in subparagraph (A) without regard to whether the activity is carried out pursuant to a contract or other agreement entered into before, on, or after August 10, 2012.
+&emsp;&emsp;A person engages in an activity described in subparagraph (A) without regard towhether the activity is carried out pursuant to a contract or other agreement entered into before, on, or after August 10, 2012.
 
 #### (C) Goods or technologies described
 
@@ -46,7 +46,7 @@ The President shall impose sanctions described in section 8791(c) of this title 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (C), the term “sensitive technology” means hardware, software, telecommunications equipment, or any other technology, that thePresident determines is to be used specifically—
+&emsp;&emsp;&emsp;For purposes of subparagraph (C), the term "sensitive technology" means hardware, software, telecommunications equipment, or any other technology, that the President determines is to be used specifically—
 
 &emsp;&emsp;&emsp;&emsp;(I) to restrict the free flow of unbiased information in Syria; or
 
@@ -54,7 +54,7 @@ The President shall impose sanctions described in section 8791(c) of this title 
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The term “sensitive technology” does not include information or informational materials the exportation of which the President does not have the authority to regulate or prohibit pursuant to section 1702(b)(3) of title 50.
+&emsp;&emsp;&emsp;The term "sensitive technology" does not include information or informational materials the exportation of which the President does not have the authority to regulate or prohibit pursuant to section 1702(b)(3) of title 50.
 
 #### (3) Special rule to allow for termination of sanctionable activity
 

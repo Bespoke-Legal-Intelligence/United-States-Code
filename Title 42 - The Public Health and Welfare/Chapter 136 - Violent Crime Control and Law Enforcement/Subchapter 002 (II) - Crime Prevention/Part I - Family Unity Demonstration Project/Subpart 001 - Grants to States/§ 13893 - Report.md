@@ -22,7 +22,7 @@ A report under subsection (a) of this section shall—
 
 #### References in Text
 
-This subpart, referred to in subsec. (a), was in the original “this title” and was translated as reading “this chapter”, meaning chapter 1 of subtitle S of title III of Pub. L. 103–322, to reflect the probable intent of Congress.
+This subpart, referred to in subsec. (a), was in the original "this title" and was translated as reading "this chapter", meaning chapter 1 of subtitle S of title III of Pub. L. 103–322, to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

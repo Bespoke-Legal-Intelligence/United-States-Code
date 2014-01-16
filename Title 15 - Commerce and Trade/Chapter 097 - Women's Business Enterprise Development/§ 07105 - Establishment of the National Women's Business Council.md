@@ -1,6 +1,6 @@
 ### §7105. Establishment of the National Women's Business Council
 
-There is established a council to be known as the National Women's Business Council, which shall serve as an independent source of advice and policy recommendations to the Interagency Committee, to the Administrator through the Assistant Administrator of the Office of Women's Business Ownership, to the Congress, and to the President.
+There is established a council to be known as the National Women's Business Council, whichshall serve as an independent source of advice and policy recommendations to the Interagency Committee, to the Administrator through the Assistant Administrator of the Office of Women's Business Ownership, to the Congress, and to the President.
 
 (Pub. L. 100–533, title IV, §405, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4195.)
 

@@ -50,9 +50,9 @@
 
 &emsp;No State law, or the application thereof, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
 
-#### (3) “State law” defined
+#### (3) "State law" defined
 
-&emsp;For purposes of this subsection, the term “State law” includes—
+&emsp;For purposes of this subsection, the term "State law" includes—
 
 &emsp;&emsp;(A) any law of a political subdivision of a State; and
 

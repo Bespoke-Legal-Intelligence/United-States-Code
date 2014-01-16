@@ -34,7 +34,7 @@
 
 (f) As used in this section—
 
-&emsp;(1) the term “business of insurance” means—
+&emsp;(1) the term "business of insurance" means—
 
 &emsp;&emsp;(A) the writing of insurance, or
 
@@ -42,9 +42,9 @@
 
 > &emsp;by an insurer, including all acts necessary or incidental to such writing or reinsuring and the activities of persons who act as, or are, officers, directors, agents, or employees of insurers or who are other persons authorized to act on behalf of such persons;
 
-&emsp;(2) the term “insurer” means any entity the business activity of which is the writing of insurance or the reinsuring of risks, and includes any person who acts as, or is, an officer, director, agent, or employee of that business;
+&emsp;(2) the term "insurer" means any entity the business activity of which is the writing of insurance or the reinsuring of risks, and includes any person who acts as, or is, an officer, director, agent, or employee of that business;
 
-&emsp;(3) the term “interstate commerce” means—
+&emsp;(3) the term "interstate commerce" means—
 
 &emsp;&emsp;(A) commerce within the District of Columbia, or any territory or possession of the United States;
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(D) all other commerce over which the United States has jurisdiction; and
 
-&emsp;(4) the term “State” includes any State, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands.
+&emsp;(4) the term "State" includes any State, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands.
 
 (Added Pub. L. 103–322, title XXXII, §320603(a), Sept. 13, 1994, 108 Stat. 2115.)
 

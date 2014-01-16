@@ -2,7 +2,7 @@
 
 The purpose of this chapter is to—
 
-&emsp;(1) strengthen the competitive position of the United States commercial fishing industryin the domestic and international marketplace;
+&emsp;(1) strengthen the competitive position of the United States commercial fishing industry in the domestic and international marketplace;
 
 &emsp;(2) encourage the development and utilization of all species of fish available for harvest by the United States fishing industry;
 
@@ -20,5 +20,5 @@ The purpose of this chapter is to—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3715, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3715, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4001 of this title and Tables.
 

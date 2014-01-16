@@ -26,7 +26,7 @@ The Secretary shall emphasize the restoration of the historic fire regime in the
 
 #### (2) Area and time limitations
 
-&emsp;After consultation with the Oregon Department of Fish and Wildlife, the Secretary may designate zones where, and establish periods when, hunting, trapping or fishing is prohibited on Federal lands included in the Cooperative Management and Protection Area for reasons of public safety, administration, or public use and enjoyment.
+&emsp;After consultation with the Oregon Department of Fish and Wildlife, the Secretary maydesignate zones where, and establish periods when, hunting, trapping or fishing is prohibited on Federal lands included in the Cooperative Management and Protection Area for reasons of public safety, administration, or public use and enjoyment.
 
 #### (e) Grazing
 
@@ -36,7 +36,7 @@ The Secretary shall emphasize the restoration of the historic fire regime in the
 
 #### (2) Cancellation of certain permits
 
-&emsp;The Secretary shall cancel that portion of the permitted grazing on Federal lands in the Fish Creek/Big Indian, East Ridge, and South Steens allotments located within the area designated as the “no livestock grazing area” on the map referred to in section 460nnn–11(a) of this title. Upon cancellation, future grazing use in that designated area is prohibited. The Secretary shall be responsible for installing and maintaining any fencing required for resource protection within the designated no livestock grazing area.
+&emsp;The Secretary shall cancel that portion of the permitted grazing on Federal lands in the Fish Creek/Big Indian, East Ridge, and South Steens allotments located within the area designated as the "no livestock grazing area" on the map referred to in section 460nnn–11(a) of this title. Upon cancellation, future grazing use in that designated area is prohibited. The Secretary shall be responsible for installing and maintaining any fencing required for resource protection within the designated no livestock grazing area.
 
 #### (3) Forage replacement
 
@@ -77,4 +77,8 @@ No new facilities may be constructed on Federal lands included in the Cooperativ
 Subject to valid existing rights, the Federal lands and interests in lands included in the Cooperative Management and Protection Areas are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws, except in the case of land exchanges if the Secretary determines that the exchange furthers the purpose and objectives specified in section 460nnn–12 of this title and so certifies to Congress.
 
 (Pub. L. 106–399, title I, §113, Oct. 30, 2000, 114 Stat. 1661.)
+
+#### References in Text
+
+This subchapter, referred to in subsec. (f)(2), was in the original "this Act", meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, known as the Steens Mountain Cooperative Management and Protection Act of 2000, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460nnn of this title and Tables.
 

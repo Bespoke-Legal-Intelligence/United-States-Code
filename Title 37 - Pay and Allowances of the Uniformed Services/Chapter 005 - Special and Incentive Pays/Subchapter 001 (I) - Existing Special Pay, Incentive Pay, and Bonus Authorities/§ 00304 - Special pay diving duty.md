@@ -46,33 +46,33 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §205, 63 Stat. 810; Mar. 31, 1955, ch. 20, §2(8)–(10), 69 Stat. 21; Aug. 17, 1961, Pub. L. 87–145, §1, 75 Stat. 382.
 
-In subsection (a), the last sentence is substituted for section 236(b) of existing title 37. The word “competent” is omitted as surplusage.
+In subsection (a), the last sentence is substituted for section 236(b) of existing title 37. The word "competent" is omitted as surplusage.
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–65, §617(a), substituted “$240” for “$200” and “$340” for “$300”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65, §617(a), substituted "$240" for "$200" and "$340" for "$300".
 
-Subsec. (c). Pub. L. 106–65, §617(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A member may be paid special pay under this section and incentive pay under section 301 of this title for the same period of service only if the member is assigned by orders to a hazardous duty described in section 301(a) of this title in addition to diving duty. However, if a member is paid special pay under this section, the member is not entitled to more than one payment of incentive pay under section 301 of this title.”
+Subsec. (c). Pub. L. 106–65, §617(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "A member may be paid special pay under this section and incentive pay under section 301 of this title for the same period of service only if the member is assigned by orders to a hazardous duty described in section 301(a) of this title in addition to diving duty. However, if a member is paid special pay under this section, the member is not entitled to more than one payment of incentive pay under section 301 of this title."
 
-<b>1998</b>—Subsec. (a)(3). Pub. L. 105–261 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “actually performs diving duty.”
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–261 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "actually performs diving duty."
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–25 struck out "of this section" after "subsection (b)".
 
-Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)".
 
 <b>1987</b>—Subsecs. (d), (e). Pub. L. 100–180 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1981</b>—Pub. L. 97–60 revised provisions of subsec. (a) into new subsecs. (a), (b), and (c), redesignated subsec. (b) as (d), and, in provisions of subsec. (a) as revised, added to enumeration of conditions attached to entitlement to special pay requirement that the member maintain proficiency as a diver by frequent and regular dives, substituted a rate of $200 a month for officers and $300 a month for enlisted men for former rate of $110 a month for all members, and inserted provisions authorizing payment of both special pay under this section and incentive pay under section 301 of this title in specified circumstances.
+<b>1981</b>—Pub. L. 97–60 revised provisions of subsec. (a) into new subsecs. (a), (b), and (c), redesignated subsec. (b) as (d), and, in provisions of subsec. (a) as revised, added to enumeration of conditions attached to entitlement to special pay requirement that the member maintain proficiency as a diver by frequent and regular dives, substituted a rate of $200 a month for officers and$300 a month for enlisted men for former rate of $110 a month for all members, and inserted provisions authorizing payment of both special pay under this section and incentive pay under section 301 of this title in specified circumstances.
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title VI, §617(c), Oct. 5, 1999, 113 Stat. 652, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to special pay paid under such section for months beginning on or after that date.”
+Pub. L. 106–65, div. A, title VI, §617(c), Oct. 5, 1999, 113 Stat. 652, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to special pay paid under such section for months beginning on or after that date."
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title VI, §616(b), Oct. 17, 1998, 112 Stat. 2041, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to months beginning on or after that date.”
+Pub. L. 105–261, div. A, title VI, §616(b), Oct. 17, 1998, 112 Stat. 2041, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to months beginning on or after that date."
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–180, div. A, title VI, §624(b), Dec. 4, 1987, 101 Stat. 1104, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the fourth calendar month following the month in which this Act is enacted \[Dec. 1987\] and shall apply only with respect to diving duty performed on or after that date.”
+Pub. L. 100–180, div. A, title VI, §624(b), Dec. 4, 1987, 101 Stat. 1104, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the fourth calendar month following the month in which this Act is enacted \[Dec. 1987\] and shall apply only with respect to diving duty performed on or after that date."
 

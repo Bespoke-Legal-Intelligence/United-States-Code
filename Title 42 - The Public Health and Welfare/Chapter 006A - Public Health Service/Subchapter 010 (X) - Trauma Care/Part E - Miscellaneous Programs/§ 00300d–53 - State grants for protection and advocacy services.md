@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration (referred to in this section as the “Administrator”), shall make grants to protection and advocacy systems for the purpose of enabling such systems to provide services to individuals with traumatic brain injury.
+The Secretary, acting through the Administrator of the Health Resources and Services Administration (referred to in this section as the "Administrator"), shall make grants to protection and advocacy systems for the purpose of enabling such systems to provide services to individuals with traumatic brain injury.
 
 #### (b) Services provided
 
@@ -58,7 +58,7 @@ Any amount paid to a protection and advocacy system that serves a State or the A
 
 #### (g) Direct payment
 
-Notwithstanding any other provision of law, each fiscal year not later than October 1, the Administrator shall pay directly to any protection and advocacy system that complies with the provisions of this section, the total amount of the grant for such system, unless the system provides otherwise for such payment.
+Notwithstanding any other provision of law, each fiscal year not later than October 1, theAdministrator shall pay directly to any protection and advocacy system that complies with the provisions of this section, the total amount of the grant for such system, unless the system provides otherwise for such payment.
 
 #### (h) Annual report
 
@@ -76,7 +76,7 @@ The Administrator of the Health Resources and Services Administration and the Co
 
 #### (2) Definition
 
-&emsp;In this subsection, the term “eligible national association” means a national association with demonstrated experience in providing training and technical assistance to protection and advocacy systems.
+&emsp;In this subsection, the term "eligible national association" means a national association with demonstrated experience in providing training and technical assistance to protection and advocacy systems.
 
 #### (k) System authority
 
@@ -92,15 +92,15 @@ In this section:
 
 #### (1) American Indian consortium
 
-&emsp;The term “American Indian consortium” means a consortium established under part C of the Developmental Disabilities Assistance <sup>3</sup> Bill of Rights Act (42 U.S.C. 6042 et seq.).<sup>4</sup>
+&emsp;The term "American Indian consortium" means a consortium established under part C of the Developmental Disabilities Assistance <sup>3</sup> Bill of Rights Act (42 U.S.C. 6042 et seq.).<sup>4</sup>
 
 #### (2) Protection and advocacy system
 
-&emsp;The term “protection and advocacy system” means a protection and advocacy system established under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042 et seq.).<sup>4</sup>
+&emsp;The term "protection and advocacy system" means a protection and advocacy system established under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042 et seq.).<sup>4</sup>
 
 #### (3) State
 
-&emsp;The term “State”, unless otherwise specified, means the several States of the UnitedStates, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State", unless otherwise specified, means the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 (July 1, 1944, ch. 373, title XII, §1253, as added Pub. L. 106–310, div. A, title XIII, §1305, Oct. 17, 2000, 114 Stat. 1141; amended Pub. L. 110–206, §6(b), Apr. 28, 2008, 122 Stat. 717.)
 
@@ -112,21 +112,21 @@ The Developmental Disabilities Assistance and Bill of Rights Act, referred to in
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (d), (e). Pub. L. 110–206, §6(b)(1), substituted “subsection (l)” for “subsection (i)” wherever appearing.
+<b>2008</b>—Subsecs. (d), (e). Pub. L. 110–206, §6(b)(1), substituted "subsection (l)" for "subsection (i)" wherever appearing.
 
-Subsec. (g). Pub. L. 110–206, §6(b)(2), inserted “each fiscal year not later than October 1,” before “the Administrator shall pay”.
+Subsec. (g). Pub. L. 110–206, §6(b)(2), inserted "each fiscal year not later than October 1," before "the Administrator shall pay".
 
 Subsecs. (i) to (k). Pub. L. 110–206, §6(b)(4), added subsecs. (i) to (k). Former subsecs. (i) and (j) redesignated (l) and (m), respectively.
 
-Subsec. (l). Pub. L. 110–206, §6(b)(3), (5), redesignated subsec. (i) as (l) and substituted “2009 through 2012” for “2002 through 2005”.
+Subsec. (l). Pub. L. 110–206, §6(b)(3), (5), redesignated subsec. (i) as (l) and substituted "2009 through 2012" for "2002 through 2005".
 
 Subsec. (m). Pub. L. 110–206, §6(b)(3), redesignated subsec. (j) as (m).
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “to”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "to".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “of”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "of".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “and”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by "and".</i>
 
 <i><sup>4</sup></i><i> See References in Text note below.</i>
 

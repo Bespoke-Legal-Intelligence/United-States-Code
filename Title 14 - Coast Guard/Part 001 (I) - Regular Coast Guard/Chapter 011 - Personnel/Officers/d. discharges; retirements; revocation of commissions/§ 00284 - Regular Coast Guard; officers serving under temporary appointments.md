@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a)(1). Pub. L. 94–546 substituted “promotion year” for “fiscal year”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–546 substituted "promotion year" for "fiscal year".
 
 #### Retired Pay on or Prior to September 24, 1963
 

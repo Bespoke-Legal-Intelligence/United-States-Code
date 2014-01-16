@@ -20,7 +20,7 @@ Performance Criteria.—The Director of the Missile Defense Agency shall include
 
 (d)
 
-Testing Progress.—The Director of Operational Test and Evaluation shall make available for review by the congressional defense committees the developmental and operational test plans established to assess the effectivenessof the ballistic missile defense system and its elements with respect to the performance criteria described in subsection (c).
+Testing Progress.—The Director of Operational Test and Evaluation shall make available for review by the congressional defense committees the developmental and operational test plans established to assess the effectiveness of the ballistic missile defense system and its elements with respect to the performance criteria described in subsection (c).
 
 (Added Pub. L. 108–136, div. A, title II, §223(a)(1), Nov. 24, 2003, 117 Stat. 1420.)
 

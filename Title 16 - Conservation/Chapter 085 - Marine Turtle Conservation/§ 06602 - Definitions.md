@@ -4,11 +4,11 @@ In this chapter:
 
 #### (1) CITES
 
-&emsp;The term “CITES” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora (27 UST 1087; TIAS 8249).
+&emsp;The term "CITES" means the Convention on International Trade in Endangered Species of Wild Fauna and Flora (27 UST 1087; TIAS 8249).
 
 #### (2) Conservation
 
-&emsp;The term “conservation” means the use of all methods and procedures necessary to protect nesting habitats of marine turtles in foreign countries and of marine turtles in those habitats, including—
+&emsp;The term "conservation" means the use of all methods and procedures necessary to protect nesting habitats of marine turtles in foreign countries and of marine turtles in those habitats, including—
 
 &emsp;&emsp;(A) protection, restoration, and management of nesting habitats;
 
@@ -36,17 +36,17 @@ In this chapter:
 
 #### (3) Fund
 
-&emsp;The term “Fund” means the Marine Turtle Conservation Fund established by section 6604 of this title.
+&emsp;The term "Fund" means the Marine Turtle Conservation Fund established by section 6604 of this title.
 
 #### (4) Marine turtle
 
 #### (A) In general
 
-&emsp;&emsp;The term “marine turtle” means any member of the family Cheloniidae or Dermochelyidae.
+&emsp;&emsp;The term "marine turtle" means any member of the family Cheloniidae or Dermochelyidae.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “marine turtle” includes—
+&emsp;&emsp;The term "marine turtle" includes—
 
 &emsp;&emsp;&emsp;(i) any part, product, egg, or offspring of a turtle described in subparagraph (A); and
 
@@ -54,17 +54,17 @@ In this chapter:
 
 #### (5) Multinational Species Conservation Fund
 
-&emsp;The term “Multinational Species Conservation Fund” means the fund established under the heading “multinational species conservation fund” in title I of the Department of the Interior and Related Agencies Appropriations Act, 1999 (16 U.S.C. 4246).
+&emsp;The term "Multinational Species Conservation Fund" means the fund established under the heading "multinational species conservation fund" in title I of the Department of the Interior and Related Agencies Appropriations Act, 1999 (16 U.S.C. 4246).
 
 #### (6) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 (Pub. L. 108–266, §3, July 2, 2004, 118 Stat. 792.)
 
 #### References in Text
 
-Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (5), is Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “
+Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (5), is Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading "
 
-multinational species conservation fund” in Pub. L. 105–277, §101(e) \[title I\] appear at 112 Stat. 2681–237 and are classified in part to section 4246 of this title.
+multinational species conservation fund" in Pub. L. 105–277, §101(e) \[title I\] appear at 112 Stat. 2681–237 and are classified in part to section 4246 of this title.
 

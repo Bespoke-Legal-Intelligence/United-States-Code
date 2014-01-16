@@ -2,7 +2,7 @@
 
 #### (a) Administrator's initial submittal to President and Congress
 
-Not later than one year after the effective date of this chapter, the Administrator shall submit a report to the President and Congress which will provide a complete and independent analysis of actual oil and gas reserves and resources in the United States and its Outer Continental Shelf, as well as of the existing productive capacity and the extent to which such capacity could be increased for crude oil and each major petroleum product each year for the next ten years through full utilization of available technology and capacity. The report shall also contain the Administration's recommendations for improving the utilization and effectiveness of Federal energy data and its manner of collection. The data collection and analysis portion of this report shall be prepared by the Federal Trade Commission for the Administration. Unless specifically prohibited by law, all Federal agencies shall make available estimates, statistics, data and other information in their files which, in the judgment of the Commission or Administration, are necessary for the purposes of this subsection.
+Not later than one year after the effective date of this chapter, the Administrator shall submit a report to the President and Congress which will provide a complete and independent analysis of actual oil and gas reserves and resources in the United States and its Outer Continental Shelf, as well as of the existing productive capacity and the extent to which such capacity could be increased for crude oil and each major petroleum product each year for the next ten years through full utilization of available technology and capacity. The report shall also contain the Administration's recommendationsfor improving the utilization and effectiveness of Federal energy data and its manner of collection. The data collection and analysis portion of this report shall be prepared by the Federal Trade Commission for the Administration. Unless specifically prohibited by law, all Federal agencies shall make available estimates, statistics, data and other information in their files which, in the judgment of the Commission or Administration, are necessary for the purposes of this subsection.
 
 #### (b) Administrator's annual report to Congress; contents
 
@@ -68,7 +68,7 @@ For effective date of this chapter, referred to in subsecs. (a) and (c), see Eff
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–385, §109(a), redesignated subsec. (b) as (a) and struck out former subsec. (a) relating to submission of a report by the President to Congress with recommendations for disposition, continuation, or reorganization of Energy Administration and organization of the Federal Government for the management of energy and natural resources policies and programs.
 
-Subsec. (b). Pub. L. 94–385, §109(a)(2), (b), redesignated subsec. (c) as (b) and added par. (6) and provisions requiring Administrator to include in report a discussion on benefits of employing a utility and Btu tax as ameans for obtaining national energy goals. Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 94–385, §109(a)(2), (b), redesignated subsec. (c) as (b) and added par. (6) and provisions requiring Administrator to include in report a discussion on benefits of employing a utility and Btu tax as a means for obtaining national energy goals. Former subsec. (b) redesignated (a).
 
 Subsecs. (c) to (e). Pub. L. 94–385, §109(a)(2), (c), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and added new subsec. (e).
 

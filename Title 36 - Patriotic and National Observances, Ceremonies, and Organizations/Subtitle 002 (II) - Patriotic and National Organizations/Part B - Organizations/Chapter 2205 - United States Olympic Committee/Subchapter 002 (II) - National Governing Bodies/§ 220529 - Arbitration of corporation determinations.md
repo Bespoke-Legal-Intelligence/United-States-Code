@@ -34,7 +34,7 @@ Binding Nature of Decision.—Final decision of the arbitrators is binding on th
 
 Reopening Hearings.—(1) At any time before a final decision is made, the hearings may be reopened by the arbitrators on their own motion or on the motion of a party.
 
-(2) If the reopening is based on the motion of a party, and if the reopening would result in the arbitrators’ decision being delayed beyond the specific period agreed to at the beginning of the arbitration proceedings, all parties to the decision must agree to reopen the hearings.
+(2) If the reopening is based on the motion of a party, and if the reopening would result in the arbitrators' decision being delayed beyond the specific period agreed to at the beginning of the arbitration proceedings, all parties to the decision must agree to reopen the hearings.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1478.)
 
@@ -102,17 +102,17 @@ Sept. 21, 1950, ch. 975, title II, §205(c), as added Nov. 8, 1978, Pub. L. 95�
 
 &nbsp;
 
-In subsection (a), the reference to 36:391(c) is omitted because 36:391(c) is omitted as executed. See the revision note for section 220522 of the revised title. The words “may obtain review by” are substituted for “The right to review . . . shall be to” for clarity.
+In subsection (a), the reference to 36:391(c) is omitted because 36:391(c) is omitted as executed. See the revision note for section 220522 of the revised title. The words "may obtain review by" are substituted for "The right to review . . . shall be to" for clarity.
 
-In subsection (b)(2)(A) and (B), the word “mutually” is omitted as unnecessary.
+In subsection (b)(2)(A) and (B), the word "mutually" is omitted as unnecessary.
 
-In subsection (b)(4), the word “duly” is omitted as unnecessary.
+In subsection (b)(4), the word "duly" is omitted as unnecessary.
 
-In subsection (c), the words “in any arbitration”, “the provisions of”, “mutually”, and “to the proceeding” are omitted as unnecessary.
+In subsection (c), the words "in any arbitration", "the provisions of", "mutually", and "to the proceeding" are omitted as unnecessary.
 
-In subsection (d), the word “involved” is omitted as unnecessary.
+In subsection (d), the word "involved" is omitted as unnecessary.
 
-In subsection (e), the word “contesting” is omitted as unnecessary.
+In subsection (e), the word "contesting" is omitted as unnecessary.
 
-In subsection (e)(2), the words “the reopening is based on the motion of a party” are substituted for “any contesting party makes such a motion” for clarity.
+In subsection (e)(2), the words "the reopening is based on the motion of a party" are substituted for "any contesting party makes such a motion" for clarity.
 

@@ -16,47 +16,47 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 Pub. L. 110–404, §5, Oct. 13, 2008, 122 Stat. 4283, provided that:
 
-“(a)
+"(a)
 
 Establishment.—The Archivist of the United States may establish an advisory committee to—
 
-&emsp;“(1) review the progress of the Founding Fathers editorial projects funded by the National Historical Publications and Records Commission;
+&emsp;"(1) review the progress of the Founding Fathers editorial projects funded by the National Historical Publications and Records Commission;
 
-&emsp;“(2) develop, in consultation with the various Founding Fathers editorial projects, appropriate completion goals for the projects described in paragraph (1);
+&emsp;"(2) develop, in consultation with the various Founding Fathers editorial projects, appropriate completion goals for the projects described in paragraph (1);
 
-&emsp;“(3) annually review such goals and report to the Archivist on the progress of the various projects in meeting the goals; and
+&emsp;"(3) annually review such goals and report to the Archivist on the progress of the various projects in meeting the goals; and
 
-&emsp;“(4) recommend to the Archivist measures that would aid or encourage the projects in meeting such goals.
+&emsp;"(4) recommend to the Archivist measures that would aid or encourage the projects in meeting such goals.
 
-“(b)
+"(b)
 
 Reports to the Advisory Committee.—Each of the projects described in subsection (a)(1) shall provide annually to the advisory committee established under subsection (a) a report on the progress of the project toward accomplishing the completion goals and any assistance needed to achieve such goals, including the following:
 
-&emsp;“(1) The proportion of total project funding for the funding year in which the report is submitted from—
+&emsp;"(1) The proportion of total project funding for the funding year in which the report is submitted from—
 
-&emsp;&emsp;“(A) Federal, State, and local government sources;
+&emsp;&emsp;"(A) Federal, State, and local government sources;
 
-&emsp;&emsp;“(B) the host institution for the project;
+&emsp;&emsp;"(B) the host institution for the project;
 
-&emsp;&emsp;“(C) private or public foundations; and
+&emsp;&emsp;"(C) private or public foundations; and
 
-&emsp;&emsp;“(D) individuals.
+&emsp;&emsp;"(D) individuals.
 
-&emsp;“(2) Information on all activities carried out using nongovernmental funding.
+&emsp;"(2) Information on all activities carried out using nongovernmental funding.
 
-&emsp;“(3) Any and all information related to performance goals for the funding year in which the report is submitted.
+&emsp;"(3) Any and all information related to performance goals for the funding year in which the report is submitted.
 
-“(c)
+"(c)
 
 Composition; Meetings; Report; Sunset; Action.—The advisory committee established under subsection (a) shall—
 
-&emsp;“(1) be comprised of 3 nationally recognized historians appointed for not more than 2 consecutive 4-year terms;
+&emsp;"(1) be comprised of 3 nationally recognized historians appointed for not more than 2 consecutive 4-year terms;
 
-&emsp;“(2) meet not less frequently than once a year;
+&emsp;"(2) meet not less frequently than once a year;
 
-&emsp;“(3) provide a report on the information obtained under subsection (b) to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives not later than 1 year after the date of enactment of this Act \[Oct. 13, 2008\] and annually thereafter;
+&emsp;"(3) provide a report on the information obtained under subsection (b) to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives not later than 1 year after the date of enactment of this Act \[Oct. 13, 2008\] and annually thereafter;
 
-&emsp;“(4) terminate on the date that is 8 years after the date of enactment of this Act; and
+&emsp;"(4) terminate on the date that is 8 years after the date of enactment of this Act; and
 
-&emsp;“(5) recommend legislative or executive action that would facilitate completion of the performance goals for the Founding Fathers editorial projects.”
+&emsp;"(5) recommend legislative or executive action that would facilitate completion of the performance goals for the Founding Fathers editorial projects."
 

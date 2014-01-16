@@ -40,7 +40,7 @@ The Association shall have the authority to establish membership criteria thatâ€
 
 #### (1) In general
 
-&emsp;The Association may establish criteria for membership which shall include standards for integrity, personal qualifications, education, training, and experience.
+&emsp;The Association may establish criteria for membership which shall include standards forintegrity, personal qualifications, education, training, and experience.
 
 #### (2) Minimum standard
 

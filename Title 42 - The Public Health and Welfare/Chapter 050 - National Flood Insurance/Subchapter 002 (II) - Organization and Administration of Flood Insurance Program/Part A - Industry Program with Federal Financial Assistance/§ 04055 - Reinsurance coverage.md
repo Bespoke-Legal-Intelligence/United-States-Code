@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator is authorized to take such action as may be necessary in order to make available, to the pool formed or otherwise created under section 4051 of this title, reinsurance for losses (due to claims for proved and approved losses covered by flood insurance) which are in excess of losses assumed by such pool in accordance with the excess loss agreement entered into under subsection (c) of this section.
+&emsp;The Administrator is authorized to take such action as may be necessary in order to make available, to the pool formed or otherwise created under section 4051 of this title,reinsurance for losses (due to claims for proved and approved losses covered by flood insurance) which are in excess of losses assumed by such pool in accordance with the excess loss agreement entered into under subsection (c) of this section.
 
 #### (2) Private reinsurance
 
@@ -26,15 +26,15 @@ All reinsurance claims for losses in excess of losses assumed by the pool shall 
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100232(d)(3), designated existing provisions as par. (1), inserted heading, substituted “The Administrator” for “The Director”, and added par. (2).
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100232(d)(3), designated existing provisions as par. (1), inserted heading, substituted "The Administrator" for "The Director" and added par. (2).
 
-Subsecs. (b) to (d). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+Subsecs. (b) to (d). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director".
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
 
 #### Transfer of Functions
 

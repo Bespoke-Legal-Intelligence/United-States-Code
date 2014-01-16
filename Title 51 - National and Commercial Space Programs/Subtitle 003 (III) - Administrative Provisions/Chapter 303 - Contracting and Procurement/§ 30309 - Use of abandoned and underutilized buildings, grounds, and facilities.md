@@ -2,7 +2,7 @@
 
 (a)
 
-Definition of Depressed Communities.—In this section, the term “depressed communities” means rural and urban communities that are relatively depressed, in terms of age of housing, extent of poverty, growth of per capita income, extent of unemployment, job lag, or surplus labor.
+Definition of Depressed Communities.—In this section, the term "depressed communities" means rural and urban communities that are relatively depressed, in terms of age of housing, extent of poverty, growth of per capita income, extent of unemployment, job lag, or surplus labor.
 
 (b)
 

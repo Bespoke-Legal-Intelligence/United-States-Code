@@ -30,7 +30,7 @@ Section 10301 specifies that vessels on foreign and intercoastal voyages (except
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–241 inserted “or to riding gang members” after “voyage”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–241 inserted "or to riding gang members" after "voyage".
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “75 gross tons”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "75 gross tons".
 

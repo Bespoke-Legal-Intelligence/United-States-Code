@@ -50,5 +50,5 @@ Limitation on Details.—No agreement detailing an officer of the armed forces t
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383 substituted “pay grade O–3” for “pay grade 0–3”.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383 substituted "pay grade O–3" for "pay grade 0–3".
 

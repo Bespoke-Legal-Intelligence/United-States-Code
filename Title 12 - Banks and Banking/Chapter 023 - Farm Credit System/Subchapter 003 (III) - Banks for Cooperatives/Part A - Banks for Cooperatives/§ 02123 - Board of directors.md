@@ -18,11 +18,11 @@
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–552 designated existing provisions as par. (1) and added par. (2).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–399 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In the case of a district bank for cooperatives, the board of directors shall be the farm credit district board and in the case of the Central Bank for Cooperatives shall be a separate board of not more than thirteen members, one from each farm credit district and one at large. One district director of the Central Bank Board shall be elected by each district farm credit board and the member at large shall be appointed by the Farm Credit Administration.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–399 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "In the case of a district bank for cooperatives, the board of directors shall be the farm credit district board and in the case of the Central Bank for Cooperatives shall be a separate board of not more than thirteen members, one from each farm credit district and one at large. One district director of the Central Bank Board shall be elected by each district farm credit board and the member at large shall be appointed by the Farm Credit Administration."
 
-Subsec. (b). Pub. L. 100–399 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of this section the provisions of sections 2222(b) and (c), 2225, 2226, and 2227 of this title shall apply to and shall be the authority of the Central Bank for Cooperatives the same as though it were a district bank.”
+Subsec. (b). Pub. L. 100–399 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "For the purposes of this section the provisions of sections 2222(b) and (c), 2225, 2226, and 2227 of this title shall apply to and shall be the authority of the Central Bank for Cooperatives the same as though it were a district bank."
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–205 substituted “Farm Credit Administration” for “Governor with the advice and consent of the Federal Farm Credit Board”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–205 substituted "Farm Credit Administration" for "Governor with the advice and consent of the Federal Farm Credit Board".
 
 #### Effective Date of 1988 Amendment
 

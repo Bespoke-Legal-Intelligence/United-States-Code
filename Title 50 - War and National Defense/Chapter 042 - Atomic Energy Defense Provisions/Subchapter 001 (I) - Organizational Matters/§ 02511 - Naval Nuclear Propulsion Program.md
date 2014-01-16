@@ -1,6 +1,6 @@
 ### §2511. Naval Nuclear Propulsion Program
 
-The provisions of Executive Order Numbered 12344, dated February 1, 1982, pertaining to theNaval Nuclear Propulsion Program, shall remain in force until changed by law.
+The provisions of Executive Order Numbered 12344, dated February 1, 1982, pertaining to the Naval Nuclear Propulsion Program, shall remain in force until changed by law.
 
 (Pub. L. 107–314, div. D, title XLI, §4101, formerly Pub. L. 98–525, title XVI, §1634, Oct. 19, 1984, 98 Stat. 2649; renumbered Pub. L. 107–314, div. D, title XLI, §4101, and amended Pub. L. 108–136, div. C, title XXXI, §3141(d)(2), Nov. 24, 2003, 117 Stat. 1757.)
 
@@ -60,7 +60,7 @@ Sec. 8. Within the Department of the Navy, the Secretary of the Navy shall assig
 
 (b) administration of the Naval Nuclear Propulsion Program, including oversight of program support in areas such as security, nuclear safeguards and transportation, public information, procurement, logistics, and fiscal management.
 
-Sec. 9. In addition to any other organizational assignments within the Department of the Navy, the directorshall report directly to the Chief of Naval Operations. The director shall have direct access to the Secretary of the Navy and other senior officials in the Department of the Navy concerning naval nuclear propulsion matters, and to all other Government personnel who supervise, operate, or maintain naval nuclear propulsion plants and support facilities.
+Sec. 9. In addition to any other organizational assignments within the Department of the Navy, the director shall report directly to the Chief of Naval Operations. The director shall have direct access to the Secretary of the Navy and other senior officials in the Department of the Navy concerning naval nuclear propulsion matters, and to all other Government personnel who supervise, operate, or maintain naval nuclear propulsion plants and support facilities.
 
 Sec. 10. This Order is effective on February 1, 1982.
 

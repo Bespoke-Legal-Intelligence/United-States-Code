@@ -2,25 +2,25 @@
 
 (a) The definitions and rules of construction set forth in this section are applicable for the purposes of this subchapter.
 
-(b) The term “applicant” means any person who applies to a creditor directly for an extension, renewal, or continuation of credit, or applies to a creditor indirectly by use of an existing credit plan for an amount exceeding a previously established credit limit.
+(b) The term "applicant" means any person who applies to a creditor directly for an extension, renewal, or continuation of credit, or applies to a creditor indirectly by use of an existing credit plan for an amount exceeding a previously established credit limit.
 
-(c) The term “Bureau” means the Bureau of Consumer Financial Protection.
+(c) The term "Bureau" means the Bureau of Consumer Financial Protection.
 
-(d) The term “credit” means the right granted by a creditor to a debtor to defer payment ofdebt or to incur debts and defer its payment or to purchase property or services and defer payment therefor.
+(d) The term "credit" means the right granted by a creditor to a debtor to defer payment of debt or to incur debts and defer its payment or to purchase property or services and defer payment therefor.
 
-(e) The term “creditor” means any person who regularly extends, renews, or continues credit; any person who regularly arranges for the extension, renewal, or continuation of credit; or any assignee of an original creditor who participates in the decision to extend, renew, or continue credit.
+(e) The term "creditor" means any person who regularly extends, renews, or continues credit; any person who regularly arranges for the extension, renewal, or continuation of credit; or any assignee of an original creditor who participates in the decision to extend, renew, or continue credit.
 
-(f) The term “person” means a natural person, a corporation, government or governmental subdivision or agency, trust, estate, partnership, cooperative, or association.
+(f) The term "person" means a natural person, a corporation, government or governmental subdivision or agency, trust, estate, partnership, cooperative, or association.
 
-(g) Any reference to any requirement imposed under this subchapter or any provision thereof includes reference to the regulations of the Bureau under this subchapter or the provision thereof in question.
+(g) Any reference to any requirement imposed under this subchapter or any provision thereofincludes reference to the regulations of the Bureau under this subchapter or the provision thereof in question.
 
 (Pub. L. 90–321, title VII, §702, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 111–203, title X, §1085(1), (2), July 21, 2010, 124 Stat. 2083.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–203, §1085(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “The term ‘Board’ refers to the Board of Governors of the Federal Reserve System.”
+<b>2010</b>—Subsec. (c). Pub. L. 111–203, §1085(2), added subsec. (c) and struck out former subsec. (c) which read as follows: "The term 'Board' refers to the Board of Governors of the Federal Reserve System."
 
-Subsec. (g). Pub. L. 111–203, §1085(1), substituted “Bureau” for “Board”.
+Subsec. (g). Pub. L. 111–203, §1085(1), substituted "Bureau" for "Board".
 
 #### Effective Date of 2010 Amendment
 

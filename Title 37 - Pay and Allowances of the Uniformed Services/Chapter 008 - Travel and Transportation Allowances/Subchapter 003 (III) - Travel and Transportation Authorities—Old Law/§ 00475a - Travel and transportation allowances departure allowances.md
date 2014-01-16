@@ -1,10 +1,10 @@
 ### §475a. Travel and transportation allowances: departure allowances
 
-(a) Under regulations prescribed by the Secretaries concerned, when dependents of members of the uniformed services are authorized or ordered to depart by competent authority, they may be authorized such allowances as the Secretary concerned determines necessary to offset the expenses incident to the departure. Allowances authorized by this section are in addition to those authorized by any other section of this title. Such allowances may be paid in advance. For the purposes of this section, a dependent “authorized or ordered to depart by competent authority” includes—
+(a) Under regulations prescribed by the Secretaries concerned, when dependents of members of the uniformed services are authorized or ordered to depart by competent authority, they may be authorized such allowances as the Secretary concerned determines necessary to offset the expenses incident to the departure. Allowances authorized by this section are in addition to those authorized by any other section of this title. Such allowances may be paid in advance. For the purposes of this section, a dependent "authorized or ordered to depart by competent authority" includes—
 
 &emsp;(1) a dependent who is present at or in the vicinity of the member's duty station when the departure of dependents is authorized or ordered by competent authority and who actually moved to an authorized safe haven designated by that authority, whether such safe haven is at or in the vicinity of the member's duty station or elsewhere;
 
-&emsp;(2) a dependent who resides at or in the vicinity of a former duty station of the member following the assignment of the member elsewhere or who resides at or in the vicinity of a duty station (other than the duty station of the member) incident to orders in connection with an unaccompanied tour of duty of the member, if a departure of dependents is authorized or ordered by competent authority from the duty station at which or in the vicinity of which the dependent resides and the dependent actually moves to an authorized safe haven designated by that authority;
+&emsp;(2) a dependent who resides at or in the vicinity of a former duty station of the member following the assignment of the member elsewhere or who resides at or in the vicinity of a duty station (other than the duty station of the member) incident to orders in connection with an unaccompanied tour of duty of themember, if a departure of dependents is authorized or ordered by competent authority from the duty station at which or in the vicinity of which the dependent resides and the dependent actually moves to an authorized safe haven designated by that authority;
 
 &emsp;(3) a dependent who established a household at or in the vicinity of the member's duty station but who is temporarily absent therefrom for any reason when departure of dependents is authorized or ordered by competent authority; and
 
@@ -26,33 +26,37 @@ Subsec. (c). Pub. L. 112–81, §631(e)(5), added subsec. (c).
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1) and added par. (2).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106 substituted “authorized or ordered” for “ordered” wherever appearing.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 substituted "authorized or ordered" for "ordered" wherever appearing.
 
 <b>1992</b>—Subsec. (a)(2) to (4). Pub. L. 102–484 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)".
 
-<b>1986</b>—Pub. L. 99–661 substituted “departure” for “evacuation” in section catchline.
+<b>1986</b>—Pub. L. 99–661 substituted "departure" for "evacuation" in section catchline.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–60, §123, inserted provision authorizing the payment of allowances in advance.
 
-Subsec. (b). Pub. L. 97–60, §121(c), substituted “that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents” for “owned by him and for his personal use, or the use of the dependents,”.
+Subsec. (b). Pub. L. 97–60, §121(c), substituted "that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents" for "owned by him and for his personal use, or the use of the dependents,".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–465 substituted “to depart” and “departure” for “evacuated” and “evacuation”, respectively, wherever appearing.
+<b>1980</b>—Subsec. (a). Pub. L. 96–465 substituted "to depart" and "departure" for "evacuated" and "evacuation", respectively, wherever appearing.
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–608 struck out provision requiring that to qualify for allowances the evacuateddependents have been evacuated from places outside the United States to places inside the United States.
+<b>1966</b>—Subsec. (a). Pub. L. 89–608 struck out provision requiring that to qualify for allowances the evacuated dependents have been evacuated from places outside the United States to places inside the United States.
 
 #### Effective Date of 1998 Amendment
 
-For provisions relating to the applicability of amendment by Pub. L. 105–261, see section 653(e) of Pub. L. 105–261, set out as a note under section 2634 of Title 10, Armed Forces.
+Pub. L. 105–261, div. A, title VI, §653(e), Oct. 17, 1998, 112 Stat. 2052, provided that:
+
+"(1) Reimbursement for motor vehicle rental expenses may not be provided under the amendments made by this section \[amending this section and sections 406 and 554 of this title and section 2634 of Title 10, Armed Forces\] until after the date on which the Secretary of Defense submits to Congress a report containing a certification that the Department of Defense has in place and operational a system to recover the cost of providing such reimbursement from commercial carriers that are responsible for the delay in the delivery of the motor vehicles of members of the Armed Forces and their dependents. The Secretary of Defense shall prepare the report in consultation with the Secretary of Transportation, with respect to the Coast Guard.
+
+"(2) The amendments shall apply with respect to rental expenses described in such amendments that are incurred on or after the date of the submission of the report. The report shall be submitted not later than six months after the date of the enactment of this Act \[Oct. 17, 1998\] and shall include, in addition to the certification, a description of the system to be used to recover from commercial carriers the costs incurred under such amendments."
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title VI, §622(b), Feb. 10, 1996, 110 Stat. 363, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to persons authorized or ordered to depart as described in section 475a(a) of title 37, United States Code, on or after October 1, 1995.”
+Pub. L. 104–106, div. A, title VI, §622(b), Feb. 10, 1996, 110 Stat. 363, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to persons authorized or ordered to depart as described in section 475a(a) of title 37, United States Code, on or after October 1, 1995."
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–484, div. A, title VI, §625(b)(2), Oct. 23, 1992, 106 Stat. 2424, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as of August 23, 1992, and shall apply with respect to any evacuation ordered by competent military authority on or after that date.”
+Pub. L. 102–484, div. A, title VI, §625(b)(2), Oct. 23, 1992, 106 Stat. 2424, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as of August 23, 1992, and shall apply with respect to any evacuation ordered by competent military authority on or after that date."
 
 #### Effective Date of 1981 Amendment
 
@@ -64,5 +68,5 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Effective Date
 
-Pub. L. 89–26, §2, May 22, 1965, 79 Stat. 117, as amended by Pub. L. 89–608, §1, Sept. 30, 1966, 80 Stat. 851; Pub. L. 92–176, Dec. 2, 1971, 85 Stat. 494, provided that: “This Act \[enacting this section and amending sections 407, 411, and 1006 of this title\] becomes effective on February 1, 1965.”
+Pub. L. 89–26, §2, May 22, 1965, 79 Stat. 117, as amended by Pub. L. 89–608, §1, Sept. 30, 1966, 80 Stat. 851; Pub. L. 92–176, Dec. 2, 1971, 85 Stat. 494, provided that: "This Act \[enacting this section and amending sections 407, 411, and 1006 of this title\] becomes effective on February 1, 1965."
 

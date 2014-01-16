@@ -50,7 +50,7 @@ In determining whether a loan is to be restructured, the National Special Asset 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–399 substituted “Farm Credit Bank board” for “district board of such district”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–399 substituted "Farm Credit Bank board" for "district board of such district".
 
 #### Effective Date of 1988 Amendment
 

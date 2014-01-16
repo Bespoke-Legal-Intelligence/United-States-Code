@@ -6,5 +6,5 @@ The assessment shall be made by recording the liability of the taxpayer in the o
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 

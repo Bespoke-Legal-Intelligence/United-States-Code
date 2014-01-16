@@ -22,5 +22,5 @@ Contracts under this part shall be for not more than 3 years and shall provide n
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b). Pub. L. 111–8 substituted “40 percent of the funds” for “20 percent of the funds”.
+<b>2009</b>—Subsec. (b). Pub. L. 111–8 substituted "40 percent of the funds" for "20 percent of the funds".
 

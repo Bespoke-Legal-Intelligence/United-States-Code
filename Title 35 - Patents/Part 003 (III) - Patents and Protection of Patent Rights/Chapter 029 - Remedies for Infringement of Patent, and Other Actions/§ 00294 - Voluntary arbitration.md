@@ -4,7 +4,7 @@
 
 (b) Arbitration of such disputes, awards by arbitrators and confirmation of awards shall be governed by title 9, to the extent such title is not inconsistent with this section. In any such arbitration proceeding, the defenses provided for under section 282 shall be considered by the arbitrator if raised by any party to the proceeding.
 
-(c) An award by an arbitrator shall be final and binding between the parties to the arbitration but shall have no force or effect on any other person. The parties to an arbitration may agree that in the event a patent which is the subject matter of an award is subsequently determined to be invalid or unenforceable in a judgment rendered by a court of competent jurisdiction from which no appeal can or has been taken, such award may be modified by any court of competent jurisdiction upon application by any party to the arbitration. Any such modification shall govern the rights and obligations between such parties from the date of such modification.
+(c) An award by an arbitrator shall be final and binding between the parties to the arbitration but shall have no force or effect on any other person. The parties to an arbitration may agree that in the event a patent which is the subject matter of an award is subsequently determined to be invalid or unenforceable in a judgment rendered by a court of competent jurisdiction from which no appeal can or has beentaken, such award may be modified by any court of competent jurisdiction upon application by any party to the arbitration. Any such modification shall govern the rights and obligations between such parties from the date of such modification.
 
 (d) When an award is made by an arbitrator, the patentee, his assignee or licensee shall give notice thereof in writing to the Director. There shall be a separate notice prepared for each patent involved in such proceeding. Such notice shall set forth the names and addresses of the parties, the name of the inventor, and the name of the patent owner, shall designate the number of the patent, and shall contain a copy of the award. If an award is modified by a court, the party requesting such modification shall give notice of such modification to the Director. The Director shall, upon receipt of either notice, enter the same in the record of the prosecution of such patent. If the required notice is not filed with the Director, any party to the proceeding may provide such notice to the Director.
 
@@ -14,15 +14,15 @@
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 112–29 struck out “of this title” after “282”.
+<b>2011</b>—Subsec. (b). Pub. L. 112–29 struck out "of this title" after "282".
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–273, §13206(a)(19)(A), struck out “United States Code,” after “title 9,”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–273, §13206(a)(19)(A), struck out "United States Code," after "title 9,".
 
-Subsec. (c). Pub. L. 107–273, §13206(a)(19)(B), substituted “rendered by a court of” for “rendered by a court to”.
+Subsec. (c). Pub. L. 107–273, §13206(a)(19)(B), substituted "rendered by a court of" for "rendered by a court to".
 
 Subsecs. (d), (e). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Subsecs. (d), (e). Pub. L. 106–113, as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Subsecs. (d), (e). Pub. L. 106–113, as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted "Director" for "Commissioner" wherever appearing.
 
 #### Effective Date of 2011 Amendment
 
@@ -34,5 +34,5 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date
 
-Pub. L. 97–247, §17(c), Aug. 27, 1982, 96 Stat. 323, provided that: “Sections 5, 6, 8 through 12, and 17(b) of this Act \[enacting this section and amending sections 21, 111, 116, and 256 of this title and sections 1058, 1063, 1064, 1065, and 1066 of Title 15, Commerce and Trade\] shall take effect six months after enactment \[Aug. 27, 1982\].”
+Pub. L. 97–247, §17(c), Aug. 27, 1982, 96 Stat. 323, provided that: "Sections 5, 6, 8 through 12, and 17(b) of this Act \[enacting this section and amending sections 21, 111, 116, and 256 of this title and sections 1058, 1063, 1064, 1065, and 1066 of Title 15, Commerce and Trade\] shall take effect six months after enactment \[Aug. 27, 1982\]."
 

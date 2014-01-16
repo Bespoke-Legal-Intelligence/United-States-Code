@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Technical Guidelines Development Committee (hereafter in this subpart referred to as the “Development Committee”).
+There is hereby established the Technical Guidelines Development Committee (hereafter in this subpart referred to as the "Development Committee").
 
 #### (b) Duties
 
@@ -12,7 +12,7 @@ There is hereby established the Technical Guidelines Development Committee (here
 
 #### (2) Deadline for initial set of recommendations
 
-&emsp;The Development Committee shall provide its first set of recommendations under this section to the Executive Director of the Commission not later than 9 months after all of its members have been appointed.
+&emsp;The Development Committee shall provide its first set of recommendations under thissection to the Executive Director of the Commission not later than 9 months after all of its members have been appointed.
 
 #### (c) Membership
 
@@ -54,7 +54,7 @@ Members of the Development Committee shall not receive any compensation for thei
 
 &emsp;The technical support provided under paragraph (1) shall include intramural research and development in areas to support the development of the voluntary voting system guidelines under this subpart, including—
 
-&emsp;&emsp;(A) the security of computers, computer networks, and computer data storage used in voting systems, including the computerizedlist required under section 15483(a) of this title;
+&emsp;&emsp;(A) the security of computers, computer networks, and computer data storage used in voting systems, including the computerized list required under section 15483(a) of this title;
 
 &emsp;&emsp;(B) methods to detect and prevent fraud;
 
@@ -76,5 +76,5 @@ At the time the Commission adopts any voluntary voting system guideline pursuant
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(3), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
+This chapter, referred to in subsec. (e)(3), was in the original "this Act", meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
 

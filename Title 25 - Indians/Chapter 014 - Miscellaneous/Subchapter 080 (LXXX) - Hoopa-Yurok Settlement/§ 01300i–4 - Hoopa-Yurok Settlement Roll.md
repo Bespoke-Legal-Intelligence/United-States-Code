@@ -26,7 +26,7 @@ Within thirty days after October 31, 1988, the Secretary shall give such notice 
 
 #### (c) Application deadline
 
-The deadline for application pursuant to this section shall be established at one hundred and twenty days after the publication of the notice by the Secretary in the Federal Register as required by subsection (b) of this section.
+The deadline for application pursuant to this section shall be established at one hundred andtwenty days after the publication of the notice by the Secretary in the Federal Register as required by subsection (b) of this section.
 
 #### (d) Eligibility determination; final roll
 
@@ -42,13 +42,13 @@ The deadline for application pursuant to this section shall be established at on
 
 No person whose name is not included on the Settlement Roll shall have any interest in the tribal, communal, or unallotted land, property, resources, or rights within, or appertaining to, the Hoopa Valley Tribe, the Hoopa Valley Reservation, the Yurok Tribe, or the Yurok Reservation or in the Settlement Fund unless such person is subsequently enrolled in the Hoopa Valley Tribe or the Yurok Tribe under the membership criteria and ordinances of such tribes.
 
-(Pub. L. 100–580, §5, Oct. 31, 1988, 102 Stat. 2928; Pub. L. 101–301, §9(1), (2), May 24, 1990, 104 Stat.210; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 100–580, §5, Oct. 31, 1988, 102 Stat. 2928; Pub. L. 101–301, §9(1), (2), May 24, 1990, 104 Stat. 210; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in two places.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court" in two places.
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–301, §9(1), inserted at end “Children under age 10 on the date they applied for the Settlement Roll who have lived all their lives on the Joint Reservation or the Hoopa Valley or Yurok Reservations, and who otherwise meet the requirements of this section except they lack 10 years of Reservation residence, shall be included on the Settlement Roll.”
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–301, §9(1), inserted at end "Children under age 10 on the date they applied for the Settlement Roll who have lived all their lives on the Joint Reservation or the Hoopa Valley or Yurok Reservations, and who otherwise meet the requirements of this section except they lack 10 years of Reservation residence, shall be included on the Settlement Roll."
 
 Subsec. (d)(4). Pub. L. 101–301, §9(2), added par. (4).
 

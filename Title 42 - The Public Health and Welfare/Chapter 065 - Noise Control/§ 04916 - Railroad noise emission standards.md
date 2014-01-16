@@ -20,9 +20,9 @@ The Secretary of Transportation, after consultation with the Administrator, shal
 
 (2) Nothing in this section shall diminish or enhance the rights of any State or political subdivision thereof to establish and enforce standards or controls on levels of environmental noise, or to control, license, regulate, or restrict the use, operation, or movement of any product if the Administrator, after consultation with the Secretary of Transportation, determines that such standard, control, license, regulation, or restriction is necessitated by special local conditions and is not in conflict with regulations promulgated under this section.
 
-#### (d) “Carrier” and “railroad” defined
+#### (d) "Carrier" and "railroad" defined
 
-The terms “carrier” and “railroad” as used in this section shall have the same meaning as the term “railroad carrier” has in section 20102 of title 49.
+The terms "carrier" and "railroad" as used in this section shall have the same meaning as the term "railroad carrier" has in section 20102 of title 49.
 
 (Pub. L. 92–574, §17, Oct. 27, 1972, 86 Stat. 1248; Pub. L. 104–287, §6(i), Oct. 11, 1996, 110 Stat. 3399.)
 
@@ -34,9 +34,9 @@ The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89�
 
 #### Codification
 
-In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]”, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
+In subsec. (b), "subtitle IV of title 49" substituted for "the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]", on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted “the term ‘railroad carrier’ has in section 20102 of title 49” for “such terms have under the first section of the Act of February 17, 1911 (45 U.S.C. 22)”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted "the term 'railroad carrier' has in section 20102 of title 49" for "such terms have under the first section of the Act of February 17, 1911 (45 U.S.C. 22)".
 

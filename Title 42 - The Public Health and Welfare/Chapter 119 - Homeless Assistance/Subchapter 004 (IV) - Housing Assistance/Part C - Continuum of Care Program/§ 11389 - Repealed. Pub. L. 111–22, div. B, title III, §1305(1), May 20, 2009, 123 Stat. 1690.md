@@ -98,13 +98,13 @@ Section 11405a, Pub. L. 100–77, title IV, §477, as added Pub. L. 102–550, t
 
 Another prior section 11405a, Pub. L. 100–77, title IV, §472, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4372, which related to fire and safety improvements in connection with contracts for housing assistance payments, was repealed by Pub. L. 102–550, §1406(d)(2).
 
-Section 11405b, Pub. L. 100–77, title IV, §478, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat. 4032; amended Pub. L. 110–289, div. B, title VIII,§2835(c)(2), July 30, 2008, 122 Stat. 2874, related to term of contract and amount of assistance.
+Section 11405b, Pub. L. 100–77, title IV, §478, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat. 4032; amended Pub. L. 110–289, div. B, title VIII, §2835(c)(2), July 30, 2008, 122 Stat. 2874, related to term of contract and amount of assistance.
 
 Another prior section 11405b, Pub. L. 100–77, title IV, §473, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4372, which listed provisions to be contained in contracts entered into by Secretary with public housing agencies under shelter plus care program, was repealed by Pub. L. 102–550, §1406(d)(2).
 
 Section 11405c, Pub. L. 100–77, title IV, §474, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4373, which related to term of occupancy agreements and issuance of vacancy payments under shelter plus care program, was repealed by Pub. L. 102–550, §1406(d)(2).
 
-Section 11406, Pub. L. 100–77, title IV, §481, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat. 4032; amended Pub. L. 110–289, div. B, title VIII, §2835(c)(1)(B), July 30, 2008, 122 Stat. 2874, authorized Secretary to use amounts made available under former section 11403h of this title to provide sponsor-based rental assistance.
+Section 11406, Pub. L. 100–77, title IV, §481, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat. 4032; amended Pub. L. 110–289, div. B, title VIII, §2835(c)(1)(B), July 30, 2008, 122 Stat. 2874, authorizedSecretary to use amounts made available under former section 11403h of this title to provide sponsor-based rental assistance.
 
 Another prior section 11406, Pub. L. 100–77, title IV, §481, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4373, which authorized use of appropriations in connection with provision of rental housing assistance under section 1701q of Title 12, Banks and Banking, was repealed by Pub. L. 102–550, §1406(d)(2).
 

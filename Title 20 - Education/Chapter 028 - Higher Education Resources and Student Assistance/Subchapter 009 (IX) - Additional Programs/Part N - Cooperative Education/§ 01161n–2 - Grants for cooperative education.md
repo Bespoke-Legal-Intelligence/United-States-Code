@@ -12,7 +12,7 @@
 
 #### (2) Program requirement
 
-&emsp;Cooperative education programs assisted under this section shall provide alternating or parallel periods of academic study and of public or private employment, giving students work experience related to their academic or occupational objectives and the opportunity to earn the funds necessary for continuing and completing their education.
+&emsp;Cooperative education programs assisted under this section shall provide alternating orparallel periods of academic study and of public or private employment, giving students work experience related to their academic or occupational objectives and the opportunity to earn the funds necessary for continuing and completing their education.
 
 #### (3) Amount of grants
 
@@ -134,9 +134,9 @@ If the Secretary determines that a recipient of funds under this section has fai
 
 #### Amendments
 
-<b>2009</b>—Subsec. (e)(1). Pub. L. 111–39, §801(11)(A), substituted “based on” for “because of” in introductory provisions.
+<b>2009</b>—Subsec. (e)(1). Pub. L. 111–39, §801(11)(A), substituted "based on" for "because of" in introductory provisions.
 
-Subsec. (e)(1)(D). Pub. L. 111–39, §801(11)(B), substituted “purpose of this part” for “purposes of this section”.
+Subsec. (e)(1)(D). Pub. L. 111–39, §801(11)(B), substituted "purpose of this part" for "purposes of this section".
 
 #### Effective Date of 2009 Amendment
 

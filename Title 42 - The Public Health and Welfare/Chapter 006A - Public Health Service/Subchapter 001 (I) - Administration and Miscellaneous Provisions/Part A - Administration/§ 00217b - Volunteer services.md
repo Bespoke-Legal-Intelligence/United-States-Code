@@ -6,5 +6,5 @@ Subject to regulations, volunteer and uncompensated services may be accepted by 
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–43 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1993</b>—Pub. L. 103–43 substituted "Health and Human Services" for "Health, Education, and Welfare".
 

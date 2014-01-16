@@ -18,7 +18,7 @@ Nothing in this chapter shall be construed to require any State educational agen
 
 (Pub. L. 89–10, title IX, §9506, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1979.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

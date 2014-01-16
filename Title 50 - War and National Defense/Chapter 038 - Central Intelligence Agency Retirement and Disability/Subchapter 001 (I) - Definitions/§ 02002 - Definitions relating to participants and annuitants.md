@@ -6,7 +6,7 @@ When used in subchapter II of this chapter:
 
 #### (1) Former participant
 
-&emsp;The term “former participant” means a person who—
+&emsp;The term "former participant" means a person who—
 
 &emsp;&emsp;(A) while an employee of the Agency was a participant in the system; and
 
@@ -14,7 +14,7 @@ When used in subchapter II of this chapter:
 
 #### (2) Retired participant
 
-&emsp;The term “retired participant” means a person who—
+&emsp;The term "retired participant" means a person who—
 
 &emsp;&emsp;(A) while an employee of the Agency was a participant in the system; and
 
@@ -24,7 +24,7 @@ When used in subchapter II of this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “surviving spouse” means the surviving wife or husband of a participant or retired participant who (i) was married to the participant or retired participant for at least 9 months immediately preceding the participant's or retired participant's death, or (ii) who is the parent of a child born of the marriage.
+&emsp;&emsp;The term "surviving spouse" means the surviving wife or husband of a participant or retired participant who (i) was married to the participant or retired participant for at least 9 months immediately preceding the participant's or retired participant's death, or (ii) who is the parent of a child born of the marriage.
 
 #### (B) Treatment when participant dies less than 9 months after marriage
 
@@ -36,7 +36,7 @@ When used in subchapter II of this chapter:
 
 #### (4) Former spouse
 
-&emsp;The term “former spouse” means a former wife or husband of a participant, former participant, or retired participant as follows:
+&emsp;The term "former spouse" means a former wife or husband of a participant, former participant, or retired participant as follows:
 
 #### (A) Divorces on or before December 4, 1991
 
@@ -44,19 +44,19 @@ When used in subchapter II of this chapter:
 
 #### (B) Divorces after December 4, 1991
 
-&emsp;&emsp;In the case of a divorce that becomes final after December 4, 1991, such term means aformer wife or husband of a participant, former participant, or retired participant who was married to such participant for not less than 10 years during periods of the participant's creditable service, at least 5 years of which were spent by the participant during the participant's service as an employee of the Agency (i) outside the United States, or (ii) otherwise in a position the duties of which qualified the participant for designation by the Director as a participant under section 2013 of this title.
+&emsp;&emsp;In the case of a divorce that becomes final after December 4, 1991, such term means a former wife or husband of a participant, former participant, or retired participant who was married to such participant for not less than 10 years during periods of the participant's creditable service, at least 5 years of which were spent by the participant during the participant's service as an employee of the Agency (i) outside the United States, or (ii) otherwise in a position the duties of which qualified the participant for designation by the Director as a participant under section 2013 of this title.
 
 #### (C) Creditable service
 
-&emsp;&emsp;For purposes of subparagraphs (A) and (B), the term “creditable service” means all periods of a participant's service that are creditable under sections 2081, 2082, and 2083 of this title.
+&emsp;&emsp;For purposes of subparagraphs (A) and (B), the term "creditable service" means all periods of a participant's service that are creditable under sections 2081, 2082, and 2083 of this title.
 
 #### (5) Previous spouse
 
-&emsp;The term “previous spouse” means an individual who was married for at least 9 months to a participant, former participant, or retired participant who had at least 18 months of service which are creditable under sections 2081, 2082, and 2083 of this title.
+&emsp;The term "previous spouse" means an individual who was married for at least 9 months to a participant, former participant, or retired participant who had at least 18 months of service which are creditable under sections 2081, 2082, and 2083 of this title.
 
 #### (6) Spousal agreement
 
-&emsp;The term “spousal agreement” means an agreement between a participant, former participant, or retired participant and the participant, former participant, or retired participant's spouse or former spouse that—
+&emsp;The term "spousal agreement" means an agreement between a participant, former participant, or retired participant and the participant, former participant, or retired participant's spouse or former spouse that—
 
 &emsp;&emsp;(A) is in writing, is signed by the parties, and is notarized;
 
@@ -66,7 +66,7 @@ When used in subchapter II of this chapter:
 
 #### (7) Court order
 
-&emsp;The term “court order” means—
+&emsp;The term "court order" means—
 
 &emsp;&emsp;(A) a court decree of divorce, annulment, or legal separation; or
 
@@ -74,15 +74,15 @@ When used in subchapter II of this chapter:
 
 #### (8) Court
 
-&emsp;The term “court” means a court of a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court.
+&emsp;The term "court" means a court of a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court.
 
-#### (b) “Child” defined
+#### (b) "Child" defined
 
 For purposes of sections 2031 and 2052 of this title:
 
 #### (1) In general
 
-&emsp;The term “child” means any of the following:
+&emsp;The term "child" means any of the following:
 
 #### (A) Minor children
 
@@ -106,7 +106,7 @@ For purposes of sections 2031 and 2052 of this title:
 
 #### (2) Special rules for students
 
-#### (A) Extension of age termination of status as “child”
+#### (A) Extension of age termination of status as "child"
 
 &emsp;&emsp;For purposes of this subsection, a child whose 22nd birthday occurs before July 1 or after August 31 of a calendar year, and while regularly pursuing such a course of study or training, shall be treated as having attained the age of 22 on the first day of July following that birthday.
 
@@ -114,17 +114,17 @@ For purposes of sections 2031 and 2052 of this title:
 
 &emsp;&emsp;A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interim does not exceed 5 months and if the child shows to the satisfaction of the Director that the child has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately following the interim.
 
-#### (3) “Dependent” defined
+#### (3) "Dependent" defined
 
-&emsp;For purposes of this subsection, the term “dependent”, with respect to the child of a participant or retired participant, means that the participant or retired participant was, at the time of the death of the participant or retired participant, either living with or contributing to the support of the child, as determined in accordance with regulations prescribed under subchapter II of this chapter.
+&emsp;For purposes of this subsection, the term "dependent", with respect to the child of a participant or retired participant, means that the participant or retired participant was, atthe time of the death of the participant or retired participant, either living with or contributing to the support of the child, as determined in accordance with regulations prescribed under subchapter II of this chapter.
 
 #### (4) Exclusion of stepchildren from lump-sum payment
 
-&emsp;For purposes of section 2071(c) of this title, the term “child” includes an adopted child and a natural child, but does not include a stepchild.
+&emsp;For purposes of section 2071(c) of this title, the term "child" includes an adopted child and a natural child, but does not include a stepchild.
 
 (Pub. L. 88–643, title I, §102, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3198.)
 
 #### Prior Provisions
 
-A prior section 111 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 94–522, title I, §101, Oct. 17, 1976, 90 Stat. 2467, provided definitions for Pub. L. 88–643 and was set out as a note under section 403 of this titleprior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 111 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 94–522, title I, §101, Oct. 17, 1976, 90 Stat. 2467, provided definitions for Pub. L. 88–643 and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 

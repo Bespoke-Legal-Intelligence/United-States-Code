@@ -56,7 +56,7 @@
 
 #### (8) Definition of core set
 
-&emsp;In this section, the term “core set” means a group of valid, reliable, and evidence-based quality measures that, taken together—
+&emsp;In this section, the term "core set" means a group of valid, reliable, and evidence-based quality measures that, taken together—
 
 &emsp;&emsp;(A) provide information regarding the quality of health coverage and health care for children;
 
@@ -130,7 +130,7 @@
 
 #### (6) Definition of pediatric quality measure
 
-&emsp;In this subsection, the term “pediatric quality measure” means a measurement of clinical care that is capable of being examined through the collection and analysis of relevant information, that is developed in order to assess 1 or more aspects of pediatric health care quality in various institutional and ambulatory health care settings, including the structure of the clinical care system, the process of care, the outcome of care, or patient experiences in care.
+&emsp;In this subsection, the term "pediatric quality measure" means a measurement of clinical care that is capable of being examined through the collection and analysis of relevant information, that is developed in order to assess 1 or more aspects of pediatric health care quality in various institutional and ambulatory health care settings, including the structure of the clinical care system, the process of care, the outcome of care, or patient experiences in care.
 
 #### (7) Construction
 
@@ -314,15 +314,15 @@
 
 #### (A) Federally-qualified health center
 
-&emsp;&emsp;The term “Federally-qualified health center” has the meaning given that term in section 1396d(l)(2)(B) of this title.
+&emsp;&emsp;The term "Federally-qualified health center" has the meaning given that term in section 1396d(l)(2)(B) of this title.
 
 #### (B) Indian tribe
 
-&emsp;&emsp;The term “Indian tribe” has the meaning given that term in section 1603 of title 25.
+&emsp;&emsp;The term "Indian tribe" has the meaning given that term in section 1603 of title 25.
 
 #### (C) Self-assessment
 
-&emsp;&emsp;The term “self-assessment” means a form that—
+&emsp;&emsp;The term "self-assessment" means a form that—
 
 &emsp;&emsp;&emsp;(i) includes questions regarding—
 
@@ -330,7 +330,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) needed preventive and screening services; and
 
-&emsp;&emsp;&emsp;&emsp;(III) target individuals’ preferences for receiving follow-up information;
+&emsp;&emsp;&emsp;&emsp;(III) target individuals' preferences for receiving follow-up information;
 
 &emsp;&emsp;&emsp;(ii) is assessed using such computer generated assessment programs; and
 
@@ -338,7 +338,7 @@
 
 #### (D) Ongoing support
 
-&emsp;&emsp;The term “ongoing support” means—
+&emsp;&emsp;The term "ongoing support" means—
 
 &emsp;&emsp;&emsp;(i) to provide any target individual with information, feedback, health coaching, and recommendations regarding—
 
@@ -404,11 +404,11 @@ Out of any funds in the Treasury not otherwise appropriated, there is appropriat
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e)(8). Pub. L. 111–148 amended par. (8) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2009 through 2013.”
+<b>2010</b>—Subsec. (e)(8). Pub. L. 111–148 amended par. (8) generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2009 through 2013."
 
-<b>2009</b>—Subsec. (a)(3)(B)(ii). Pub. L. 111–3, §501(g)(1), inserted “and, with respect to dental care, conditions requiring the restoration of teeth, relief of pain and infection, and maintenance of dental health” after “chronic conditions”.
+<b>2009</b>—Subsec. (a)(3)(B)(ii). Pub. L. 111–3, §501(g)(1), inserted "and, with respect to dental care, conditions requiring the restoration of teeth, relief of pain and infection, and maintenance of dental health" after "chronic conditions".
 
-Subsec. (a)(6)(A)(ii). Pub. L. 111–3, §501(g)(2), inserted “dental care,” after “preventive health services,”.
+Subsec. (a)(6)(A)(ii). Pub. L. 111–3, §501(g)(2), inserted "dental care," after "preventive health services,".
 
 #### Effective Date
 
@@ -416,7 +416,7 @@ Section and amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable 
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Eligible entities”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Eligible entities".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “consortium”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "consortium".</i>
 

@@ -24,15 +24,15 @@ The earnings and profits of a foreign corporation attributable to amounts which 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647 substituted “sections 1 and 55” and “sections 11 and 55” for “section 1” and “section 11”, respectively.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647 substituted "sections 1 and 55" and "sections 11 and 55" for "section 1" and "section 11", respectively.
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–600 substituted provisions relating to the pro ration of each section 11 bracket amount for provisions relating to the surtax exemption.
 
-<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
-<b>1975</b>—Subsec. (c). Pub. L. 94–164 substituted “same ratio to the surtax exemption” for “same ratio to $25,000” in subsec. (c) as such subsec. (c) is in effect for taxable years ending after Dec. 31, 1975.
+<b>1975</b>—Subsec. (c). Pub. L. 94–164 substituted "same ratio to the surtax exemption" for "same ratio to $25,000" in subsec. (c) as such subsec. (c) is in effect for taxable years ending after Dec. 31, 1975.
 
-Pub. L. 94–12 substituted “$50,000” for “$25,000”.
+Pub. L. 94–12 substituted "$50,000" for "$25,000".
 
 #### Effective Date of 1988 Amendment
 

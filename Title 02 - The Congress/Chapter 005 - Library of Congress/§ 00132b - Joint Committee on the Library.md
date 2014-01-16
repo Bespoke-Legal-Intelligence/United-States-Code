@@ -14,9 +14,9 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date
 
-Section effective Jan. 3, 1947, see section 245 of act Aug. 2, 1946, set out as a note under section 72a of this title.
+Section effective Jan. 3, 1947, see section 245 of act Aug. 2, 1946, set out as a note under section 4301 of this title.
 
 #### Member of Committee With Respect to Financial Management and Budget and Program Development
 
-Pub. L. 106–554, §1(a)(4) \[div. A\], Dec. 21, 2000, 114 Stat. 2763, 2763A–195, as amended by Pub. L. 109–13, div. A, title III, §3402(a), May 11, 2005, 119 Stat. 272; Pub. L. 109–289, div. B, title II, §20703(d)(6), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 39, provided: “That notwithstanding any other provision of law, effective with the One Hundred Seventh Congress and each succeeding Congress the chair of the Subcommittee on the Legislative Branch of the Committee on Appropriations of the House of Representatives shall serve as a member of the Joint Committee on the Library with respect to theLibrary's financial management, organization, budget development and implementation, and program development and administration, as well as any other element of the mission of the Library of Congress which is subject to the requirements of Federal law.”
+Pub. L. 106–554, §1(a)(4) \[div. A\], Dec. 21, 2000, 114 Stat. 2763, 2763A–195, as amended by Pub. L. 109–13, div. A, title III, §3402(a), May 11, 2005, 119 Stat. 272; Pub. L. 109–289, div. B, title II, §20703(d)(6), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 39, provided: “That notwithstanding any other provision of law, effective with the One Hundred Seventh Congress and each succeeding Congress the chair of the Subcommittee on the Legislative Branch of the Committee on Appropriations of the House of Representatives shall serve as a member of the Joint Committee on the Library with respect to the Library's financial management, organization, budget development and implementation, and program development and administration, as well as any other element of the mission of the Library of Congress which is subject to the requirements of Federal law.”
 

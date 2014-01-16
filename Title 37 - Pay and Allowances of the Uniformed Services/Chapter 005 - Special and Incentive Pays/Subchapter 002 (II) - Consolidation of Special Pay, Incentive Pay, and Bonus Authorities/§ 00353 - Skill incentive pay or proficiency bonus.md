@@ -18,11 +18,11 @@ Availability; eligible persons.—The Secretary concerned may pay a proficiency 
 
 &emsp;&emsp;(A) is entitled to basic pay under section 204 of this title or compensation under section 206 of this title or is enrolled in an officer training program; and
 
-&emsp;&emsp;(B) is determined to have, and maintains, certified proficiency under subsection (d) in a skill designated as critical by the Secretary concerned or is in training to acquire proficiency in a critical foreign language or expertise in foreign cultural studies or a related skill designated as critical by the Secretary concerned.
+&emsp;&emsp;(B) is determined to have, and maintains, certified proficiency under subsection (d) ina skill designated as critical by the Secretary concerned or is in training to acquire proficiency in a critical foreign language or expertise in foreign cultural studies or a related skill designated as critical by the Secretary concerned.
 
 &emsp;(2)
 
-Inclusion of certain senior rotc members.—A proficiency bonus may be paid under this subsection to a student who is enrolled in the Senior Reserve Officers’ Training Corps program even though the student is in the first year of the four-year course under the program. During the period covered by the proficiency bonus, the student shall also be entitled to a monthly subsistence allowance under section 209(c) of this title even though the student has not entered into an agreement under section 2103a of title 10. However, if the student receives incentive pay under subsection (g)(2) <sup>1</sup> for the same period, the student may receive only a single monthly subsistence allowance under section 209(c) of this title.
+Inclusion of certain senior rotc members.—A proficiency bonus may be paid under this subsection to a student who is enrolled in the Senior Reserve Officers' Training Corps program even though the student is in the first year of the four-year course under the program. During the period covered by the proficiency bonus, the student shall also be entitled to a monthly subsistence allowance under section 209(c) of this title even though the student has not entered into an agreement under section 2103a of title 10. However, if the student receives incentive pay under subsection (g)(2) <sup>1</sup> for the same period, the student may receive only a single monthly subsistence allowance under section 209(c) of this title.
 
 (c)
 
@@ -76,11 +76,11 @@ Availability of incentive pay.—The Secretary concerned may pay incentive pay t
 
 &emsp;(2)
 
-Inclusion of certain senior rotc members.—Incentive pay may be paid under this subsection to a student who is enrolled in the Senior Reserve Officers’ Training Corps program even though the student is in the first year of the four-year course under the program. While the student receives the incentive pay, the student shall also be entitled to a monthly subsistence allowance under section 209(c) of this title even though the student has not entered into an agreement under section 2103a of title 10. However, if the student receives a proficiency bonus under subsection (b)(2) covering the same month, the student may receive only a single monthly subsistence allowance under section 209(c) of this title.
+Inclusion of certain senior rotc members.—Incentive pay may be paid under this subsection to a student who is enrolled in the Senior Reserve Officers' Training Corps program even though the student is in the first year of the four-year course under the program. While the student receives the incentive pay, the student shall also be entitled to a monthly subsistence allowance under section 209(c) of this title even though the student has not entered into an agreement under section 2103a of title 10. However, if the student receives a proficiency bonus under subsection (b)(2) covering the same month, the student may receive only a single monthly subsistence allowance under section 209(c) of this title.
 
 &emsp;(3)
 
-Critical foreign language defined.—In this section, the term “critical foreign language” includes Arabic, Korean, Japanese, Chinese, Pashto, Persian-Farsi, Serbian-Croatian, Russian, Portuguese, or other language designated as critical by the Secretary concerned.
+Critical foreign language defined.—In this section, the term "critical foreign language" includes Arabic, Korean, Japanese, Chinese, Pashto, Persian-Farsi, Serbian-Croatian, Russian, Portuguese, or other language designated as critical by the Secretary concerned.
 
 (g)
 
@@ -88,13 +88,13 @@ Repayment.—A member who receives skill incentive pay or a proficiency bonus un
 
 (h)
 
-Relationship to Other Pays and Allowances.—A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the member is entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under section 351 of this title for the same period of service in the same career field or skill.
+Relationship to Other Pays and Allowances.—A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the memberis entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under section 351 of this title for the same period of service in the same career field or skill.
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2013.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2014.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111–84, div. A, title VI, §§614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(8), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(8), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(8), Jan. 2, 2013, 126 Stat. 1777.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111–84, div. A, title VI, §§614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(8), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(8), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(8), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(8), Dec. 26, 2013, 127 Stat. 781.)
 
 #### References in Text
 
@@ -102,11 +102,13 @@ Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2
 
 #### Amendments
 
-<b>2013</b>—Subsec. (i). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+<b>2013</b>—Subsec. (i). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
-<b>2011</b>—Subsec. (i). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (i). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
+
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
 <b>2009</b>—Subsec. (c)(1). Pub. L. 111–84, §618(d)(2), added par. (1) and struck out former par. (1) which provided that skill incentive pay was not to exceed $1,000 per month.
 
@@ -114,13 +116,13 @@ Subsecs. (f) to (i). Pub. L. 111–84, §618(d)(1), redesignated subsecs. (g) to
 
 Subsec. (j). Pub. L. 111–84, §618(d)(1), redesignated subsec. (j) as (i).
 
-Pub. L. 111–84, §614(8), substituted “December 31, 2010” for “December 31, 2009”.
+Pub. L. 111–84, §614(8), substituted "December 31, 2010" for "December 31, 2009".
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–417, §619(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary concerned may pay a proficiency bonus to a member of a regular or reserve component of the uniformed services who—
+<b>2008</b>—Subsec. (b). Pub. L. 110–417, §619(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: "The Secretary concerned may pay a proficiency bonus to a member of a regular or reserve component of the uniformed services who—
 
-&emsp;“(1) is entitled to basic pay under section 204 of this title or compensation under section 206 of this title; and
+&emsp;"(1) is entitled to basic pay under section 204 of this title or compensation under section 206 of this title; and
 
-&emsp;“(2) is determined to have, and maintains, certified proficiency under subsection (d) in a skill designated as critical by the Secretary concerned.”
+&emsp;"(2) is determined to have, and maintains, certified proficiency under subsection (d) in a skill designated as critical by the Secretary concerned."
 
 Subsecs. (g) to (j). Pub. L. 110–417, §619(a)(2), added subsec. (g) and redesignated former subsecs. (g) to (i) as (h) to (j), respectively.
 
@@ -128,21 +130,21 @@ Subsecs. (g) to (j). Pub. L. 110–417, §619(a)(2), added subsec. (g) and redes
 
 Pub. L. 110–417, \[div. A\], title VI, §619(c), Oct. 14, 2008, 122 Stat. 4489, provided that:
 
-“(1)
+"(1)
 
 Pilot program required.—The Secretary of Defense shall conduct a pilot program to provide a skill proficiency bonus under section 353(b) of title 37, United States Code, to a member of a reserve component of the uniformed services who is entitled to compensation under section 206 of such title while the member participates in an education or training program to acquire proficiency in a critical foreign language or expertise in foreign cultural studies or a related skill designated as critical under such section 353.
 
-“(2)
+"(2)
 
 Duration of pilot program.—The Secretary shall conduct the pilot program during the period beginning on October 1, 2008, and ending on December 31, 2013. Incentive pay may not be provided under the pilot program after December 31, 2013.
 
-“(3)
+"(3)
 
-Reporting requirement.—Not later than March 31, 2012, the Secretary shall submit to Congress a report containing the results of the pilot program and the recommendations of the Secretary regarding whether to continue or expand the pilot program.”
+Reporting requirement.—Not later than March 31, 2012, the Secretary shall submit to Congress a report containing the results of the pilot program and the recommendations of the Secretary regarding whether to continue or expand the pilot program."
 
 #### Expedited Implementation
 
-Pub. L. 110–417, \[div. A\], title VI, §619(d), Oct. 14, 2008, 122 Stat. 4489, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(10), Jan. 7, 2011, 124 Stat. 4375, provided that: “Notwithstanding section 662 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 180; 37 U.S.C. 301 note), the Secretary of a military department may immediately implement the amendments made by subsection (a) \[amending this section\] in order to ensure the prompt availability of proficiency bonuses and incentive pay under section 353 of title 37, United States Code, as amended by such subsection, for persons enrolled in officer training programs.”
+Pub. L. 110–417, \[div. A\], title VI, §619(d), Oct. 14, 2008, 122 Stat. 4489, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(10), Jan. 7, 2011, 124 Stat. 4375, provided that: "Notwithstanding section 662 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 180; 37 U.S.C. 301 note), the Secretary of a military department may immediately implement the amendments made by subsection (a) \[amending this section\] in order to ensure the prompt availability of proficiency bonuses and incentive pay under section 353 of title 37, United States Code, as amended by such subsection, for persons enrolled in officer training programs."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

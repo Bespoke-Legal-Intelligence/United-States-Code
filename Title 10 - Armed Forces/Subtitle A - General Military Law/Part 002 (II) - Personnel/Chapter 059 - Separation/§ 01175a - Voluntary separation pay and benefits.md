@@ -90,7 +90,7 @@ Coordination With Retired or Retainer Pay and Disability Compensation.—(1) A m
 
 (i)
 
-Retirement Defined.—In this section, the term “retirement” includes a transfer to the Fleet Reserve or Fleet Marine Corps Reserve.
+Retirement Defined.—In this section, the term "retirement" includes a transfer to the Fleet Reserve or Fleet Marine Corps Reserve.
 
 (j)
 
@@ -118,17 +118,17 @@ Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A
 
 <b>2013</b>—Subsec. (e)(2)(B). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-<b>2011</b>—Subsec. (e)(2)(B). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404” and “476” for “406”.
+<b>2011</b>—Subsec. (e)(2)(B). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404" and "476" for "406".
 
-Subsec. (j)(3). Pub. L. 111–383 substituted “this title” for “title 10”.
+Subsec. (j)(3). Pub. L. 111–383 substituted "this title" for "title 10".
 
-Subsec. (k)(1). Pub. L. 112–81, §526, substituted “December 31, 2018” for “December 31, 2012”.
+Subsec. (k)(1). Pub. L. 112–81, §526, substituted "December 31, 2018" for "December 31, 2012".
 
-<b>2009</b>—Subsec. (h)(1). Pub. L. 111–84 substituted “qualifies” for “qualities”.
+<b>2009</b>—Subsec. (h)(1). Pub. L. 111–84 substituted "qualifies" for "qualities".
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–364, §623(a)(1), substituted “four” for “two”.
+<b>2006</b>—Subsec. (f). Pub. L. 109–364, §623(a)(1), substituted "four" for "two".
 
-Subsec. (k)(1). Pub. L. 109–364, §623(a)(2), substituted “2012” for “2008”.
+Subsec. (k)(1). Pub. L. 109–364, §623(a)(2), substituted "2012" for "2008".
 
 #### Effective Date of 2013 Amendment
 
@@ -136,5 +136,5 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Limitation on Applicability
 
-Pub. L. 109–163, div. A, title VI, §643(b), Jan. 6, 2006, 119 Stat. 3310, which provided that, during the period beginning on Jan. 6, 2006, and ending on Dec. 31, 2008, members eligible for separation and for voluntary separation pay and benefits under this section would be limited to officers who had met the eligibility requirements of this section, but had not completed more than 12 years of active service as of the date of separation, was repealed by Pub. L. 109–364, div. A, title VI, §623(a)(3), Oct. 17, 2006, 120 Stat. 2256.
+Pub. L. 109–163, div. A, title VI, §643(b), Jan. 6, 2006, 119 Stat. 3310, which provided that, during the period beginning on Jan. 6, 2006, and ending on Dec. 31, 2008, members eligible for separation and for voluntary separation pay and benefits under this section would belimited to officers who had met the eligibility requirements of this section, but had not completed more than 12 years of active service as of the date of separation, was repealed by Pub. L. 109–364, div. A, title VI, §623(a)(3), Oct. 17, 2006, 120 Stat. 2256.
 

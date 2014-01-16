@@ -10,15 +10,15 @@ Related Terms in Other Laws.—When the following terms are used in a law, regul
 
 &emsp;(1)
 
-Registry endorsement.—The terms “certificate of registry”, “register”, and “registry” mean a certificate of documentation with a registry endorsement issued under this chapter.
+Registry endorsement.—The terms "certificate of registry", "register", and "registry" mean a certificate of documentation with a registry endorsement issued under this chapter.
 
 &emsp;(2)
 
-Coastwise endorsement.—The terms “license”, “enrollment and license”, “license for the coastwise (or coasting) trade”, and “enrollment and license for the coastwise (or coasting) trade” mean a certificate of documentation with a coastwise endorsement issued under this chapter.
+Coastwise endorsement.—The terms "license", "enrollment and license", "license for the coastwise (or coasting) trade", and "enrollment and license for the coastwise (or coasting) trade" mean a certificate of documentation with a coastwise endorsement issued under this chapter.
 
 &emsp;(3)
 
-Yacht.—The term “yacht” means a recreational vessel even if not documented.
+Yacht.—The term "yacht" means a recreational vessel even if not documented.
 
 (Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1491.)
 
@@ -38,15 +38,15 @@ Historical and Revision Notes
 
 &nbsp;
 
-46 App.:883 (2d proviso related to meaning of “rebuilt”).
+46 App.:883 (2d proviso related to meaning of "rebuilt").
 
-June 5, 1920, ch. 250, §27 (2d proviso related to meaning of “rebuilt”), 41 Stat. 999; July 2, 1935, ch. 355, 49 Stat. 442; July 14, 1956, ch. 600, §1, 70 Stat. 544; Pub. L. 86–583, §1, July 5, 1960, 74 Stat. 321; Pub. L. 100–239, §6(c)(1), Jan. 11, 1988, 101 Stat. 1782.
+June 5, 1920, ch. 250, §27 (2d proviso related to meaning of "rebuilt"), 41 Stat. 999; July 2, 1935, ch. 355, 49 Stat. 442; July 14, 1956, ch. 600, §1, 70 Stat. 544; Pub. L. 86–583, §1, July 5, 1960, 74 Stat. 321; Pub. L. 100–239, §6(c)(1), Jan. 11, 1988, 101 Stat. 1782.
 
 12101(b)
 
 46:12101(b).
 
-In subsection (a), the words “its territories” and “or its possessions” are omitted because of the definition of “United States” in chapter 1 of the revised title. The words “(not including trust territories)” are omitted because the Trust Territory of the Pacific Islands has terminated. See 48 U.S.C. 1681 note prec.
+In subsection (a), the words "its territories" and "or its possessions" are omitted because of the definition of "United States" in chapter 1 of the revised title. The words "(not including trust territories)" are omitted because the Trust Territory of the Pacific Islands has terminated. See 48 U.S.C. 1681 note prec.
 
 #### Prior Provisions
 

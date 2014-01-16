@@ -18,7 +18,7 @@ Application of Other Laws.—Section 1535 and chapter 63 of title 31 shall not a
 
 (d)
 
-Cultural Resource Defined.—In this section, the term “cultural resource” means any of the following:
+Cultural Resource Defined.—In this section, the term "cultural resource" means any of the following:
 
 &emsp;(1) A building, structure, site, district, or object eligible for or included in the National Register of Historic Places maintained under section 101(a) of the National Historic Preservation Act (16 U.S.C. 470a(a)).
 
@@ -30,7 +30,7 @@ Cultural Resource Defined.—In this section, the term “cultural resource” m
 
 &emsp;(5) An Indian sacred site, as defined in section 1(b)(iii) of Executive Order No. 13007.
 
-(Added Pub. L. 104–201, div. B, title XXVIII, §2862(a), Sept. 23, 1996, 110 Stat. 2804; amended Pub. L. 105–85, div. A, title X, §1073(a)(58), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 110–181, div. B, title XXVIII, §2824, Jan. 28, 2008, 122 Stat. 545.)
+(Added Pub. L. 104–201, div. B, title XXVIII, §2862(a), Sept. 23, 1996, 110 Stat. 2804; amendedPub. L. 105–85, div. A, title X, §1073(a)(58), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 110–181, div. B, title XXVIII, §2824, Jan. 28, 2008, 122 Stat. 545.)
 
 #### References in Text
 
@@ -42,11 +42,11 @@ A prior section 2684, added Pub. L. 93–166, title V, §509(a), Nov. 29, 1973, 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, §2824(a)(1), substituted “located on a site authorized by subsection (b)” for “on military installations”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §2824(a)(1), substituted "located on a site authorized by subsection (b)" for "on military installations".
 
 Subsecs. (b) to (d). Pub. L. 110–181, §2824(a)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 Subsec. (d)(5). Pub. L. 110–181, §2824(b), added par. (5).
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–85 struck out “, United States Code,” after “title 31”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 struck out ", United States Code," after "title 31".
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 12 months after November 15, 1990, following consultation with the Secretary of the Interior and the Commandant of the United States Coast Guard, the Administrator, by rule, shall establish requirements to control air pollution from Outer Continental Shelf sources located offshore of the States along the Pacific, Arctic and Atlantic Coasts (other than Outer Continental Shelf sources located offshore of the North Slope Borough of the State of Alaska), and along the United States Gulf Coast off the State of Florida eastward of longitude 87 degrees and 30 minutes (“OCS sources”) to attain and maintain Federal and State ambient air quality standards and to comply with the provisions of part C of subchapter I of this chapter. For such sources located within 25 miles of the seaward boundary of such States, such requirements shall be the same as would be applicable if the source were located in the corresponding onshore area, and shall include, but not be limited to, State and local requirements for emission controls, emission limitations, offsets, permitting, monitoring, testing, and reporting. NewOCS sources shall comply with such requirements on the date of promulgation and existing OCS sources shall comply on the date 24 months thereafter. The Administrator shall update such requirements as necessary to maintain consistency with onshore regulations and this chapter. The authority of this subsection shall supersede section 5(a)(8) of the Outer Continental Shelf Lands Act \[43 U.S.C. 1334(a)(8)\] but shall not repeal or modify any other Federal, State, or local authorities with respect to air quality. Each requirement established under this section shall be treated, for purposes of sections 7413, 7414, 7416, 7420, and 7604 of this title, as a standard under section 7411 of this title and a violation of any such requirement shall be considered a violation of section 7411(e) of this title.
+&emsp;Not later than 12 months after November 15, 1990, following consultation with the Secretary of the Interior and the Commandant of the United States Coast Guard, the Administrator, by rule, shall establish requirements to control air pollution from Outer Continental Shelf sources located offshore of the States along the Pacific, Arctic and Atlantic Coasts (other than Outer Continental Shelf sources located offshore of the North Slope Borough of the State of Alaska), and along the United States Gulf Coast off the State of Florida eastward of longitude 87 degrees and 30 minutes ("OCS sources") to attain and maintain Federal and State ambient air quality standards and to comply with the provisions of part C of subchapter I of this chapter. For such sources located within 25 miles of the seaward boundary of such States, such requirements shall be the same as would be applicable if the source were located in the corresponding onshore area, and shall include, but not be limited to, State and local requirements for emission controls, emission limitations, offsets, permitting, monitoring, testing, and reporting. New OCS sources shall comply with such requirements on the date of promulgation and existing OCS sources shall comply on the date 24 months thereafter. The Administrator shall update such requirements as necessary to maintain consistency with onshore regulations and this chapter. The authority of this subsection shall supersede section 5(a)(8) of the Outer Continental Shelf Lands Act \[43 U.S.C. 1334(a)(8)\] but shall not repeal or modify any other Federal, State, or local authorities with respect to air quality. Each requirement established under this section shall be treated, for purposes of sections 7413, 7414, 7416, 7420, and 7604 of this title, as a standard under section 7411 of this title and a violation of any such requirement shall be considered a violation of section 7411(e) of this title.
 
 #### (2) Exemptions
 
@@ -20,15 +20,15 @@
 
 #### (A) Outer Continental Shelf
 
-&emsp;&emsp;The term “Outer Continental Shelf” has the meaning provided by section 2 of the Outer Continental Shelf Lands Act (43 U.S.C. 1331).
+&emsp;&emsp;The term "Outer Continental Shelf" has the meaning provided by section 2 of the Outer Continental Shelf Lands Act (43 U.S.C. 1331).
 
 #### (B) Corresponding onshore area
 
-&emsp;&emsp;The term “corresponding onshore area” means, with respect to any OCS source, the onshore attainment or nonattainment area that is closest to the source, unless the Administrator determines that another area with more stringent requirements with respect to the control and abatement of air pollution may reasonably be expected to be affected by such emissions. Such determination shall be based on the potential for air pollutants from the OCS source to reach the other onshore area and the potential of such air pollutants to affect the efforts of the other onshore area to attain or maintain any Federal or State ambient air quality standard or to comply with the provisions of part C of subchapter I of this chapter.
+&emsp;&emsp;The term "corresponding onshore area" means, with respect to any OCS source, the onshore attainment or nonattainment area that is closest to the source, unless the Administrator determines that another areawith more stringent requirements with respect to the control and abatement of air pollution may reasonably be expected to be affected by such emissions. Such determination shall be based on the potential for air pollutants from the OCS source to reach the other onshore area and the potential of such air pollutants to affect the efforts of the other onshore area to attain or maintain any Federal or State ambient air quality standard or to comply with the provisions of part C of subchapter I of this chapter.
 
 #### (C) Outer Continental Shelf source
 
-&emsp;&emsp;The terms “Outer Continental Shelf source” and “OCS source” include any equipment, activity, or facility which—
+&emsp;&emsp;The terms "Outer Continental Shelf source" and "OCS source" include any equipment, activity, or facility which—
 
 &emsp;&emsp;&emsp;(i) emits or has the potential to emit any air pollutant,
 
@@ -40,7 +40,7 @@
 
 #### (D) New and existing OCS sources
 
-&emsp;&emsp;The term “new OCS source” means an OCS source which is a new source within the meaning of section 7411(a) of this title. The term “existing OCS source” means any OCS source other than a new OCS source.
+&emsp;&emsp;The term "new OCS source" means an OCS source which is a new source within the meaning of section 7411(a) of this title. The term "existing OCS source" means any OCS source other than a new OCS source.
 
 #### (b) Requirements for other offshore areas
 
@@ -48,7 +48,7 @@ For portions of the United States Outer Continental Shelf that are adjacent to t
 
 #### (c) Coastal waters
 
-(1) The study report of section 7412(n) <sup>1</sup> of this title shall apply to the coastal waters of theUnited States to the same extent and in the same manner as such requirements apply to the Great Lakes, the Chesapeake Bay, and their tributary waters.
+(1) The study report of section 7412(n) <sup>1</sup> of this title shall apply to the coastal waters of the United States to the same extent and in the same manner as such requirements apply to the Great Lakes, the Chesapeake Bay, and their tributary waters.
 
 (2) The regulatory requirements of section 7412(n) <sup>1</sup> of this title shall apply to the coastal waters of the States which are subject to subsection (a) of this section, to the same extent and in the same manner as such requirements apply to the Great Lakes, the Chesapeake Bay, and their tributary waters.
 
@@ -60,9 +60,9 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (a)(4)(C)(ii), is 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 112–74, §432(b), inserted “(other than Outer Continental Shelf sources located offshore of the North Slope Borough of the State of Alaska)” after “Outer Continental Shelf sources located offshore of the States along the Pacific, Arctic and Atlantic Coasts” and “and this chapter” after “regulations”.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–74, §432(b), inserted "(other than Outer Continental Shelf sources located offshore of the North Slope Borough of the State of Alaska)" after "Outer Continental Shelf sources located offshore of the States along the Pacific, Arctic and Atlantic Coasts" and "and this chapter" after "regulations".
 
-Subsec. (b). Pub. L. 112–74, §432(c), struck out “Gulf Coast” after “United States” and inserted “or are adjacent to the North Slope Borough of the State of Alaska” after “Alabama”.
+Subsec. (b). Pub. L. 112–74, §432(c), struck out "Gulf Coast" after "United States" and inserted "or are adjacent to the North Slope Borough of the State of Alaska" after "Alabama".
 
 #### Transfer of Functions
 
@@ -70,15 +70,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Congressional Statement of Purpose
 
-Pub. L. 112–74, div. E, title IV, §432(a), Dec. 23, 2011, 125 Stat. 1048, provided that: “It is the purpose of this section \[amending this section and enacting provisions set out as a note under this section\] to ensure that the energy policy of the United States focuses on the expeditious and orderly development of domestic energy resources in a manner that protects human health and the environment.”
+Pub. L. 112–74, div. E, title IV, §432(a), Dec. 23, 2011, 125 Stat. 1048, provided that: "It is the purpose of this section \[amending this section and enacting provisions set out as a note under this section\] to ensure that the energy policy of the United States focuses on the expeditious and orderly development of domestic energy resources in a manner that protects human health and the environment."
 
 #### Effect of Transfer of Air Quality Permitting Authority
 
-Pub. L. 112–74, div. E, title IV, §432(d), Dec. 23, 2011, 125 Stat. 1049, provided that: “The transfer of air quality permitting authority pursuant to this section \[amending this section and enacting provisions set out as a note under this section\] shall not invalidate or stay—
+Pub. L. 112–74, div. E, title IV, §432(d), Dec. 23, 2011, 125 Stat. 1049, provided that: "The transfer of air quality permitting authority pursuant to this section \[amending this section and enacting provisions set out as a note under this section\] shall not invalidate or stay—
 
-&emsp;“(1) any air quality permit pending or existing as of the date of the enactment of this Act \[Dec. 23, 2011\]; or
+&emsp;"(1) any air quality permit pending or existing as of the date of the enactment of this Act \[Dec. 23, 2011\]; or
 
-&emsp;“(2) any proceeding related thereto.”
+&emsp;"(2) any proceeding related thereto."
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “7412(m)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "7412(m)".</i>
 

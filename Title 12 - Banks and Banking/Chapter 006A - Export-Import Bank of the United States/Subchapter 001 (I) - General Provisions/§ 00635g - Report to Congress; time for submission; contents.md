@@ -46,7 +46,7 @@ Not later than March 31 of each year, the Bank shall submit to the Committee on 
 
 &emsp;(3) the specific measures the Bank will take in the upcoming year to achieve the small business objectives of the Bank, including expanded outreach, product improvements, and related actions;
 
-&emsp;(4) the progress made by the Bank in supporting exports by socially and economically disadvantaged small business concerns (defined in section 637(a)(4) of title 15) and small business concerns (as defined in section 632(a) of title 15) owned by women, including estimates of the amounts made available to finance exports directly by such small businessconcerns, a comparison of these amounts with the amounts made available to all small business concerns, and a comparison of such amounts with the amounts so made available during the 2 preceding years;
+&emsp;(4) the progress made by the Bank in supporting exports by socially and economically disadvantaged small business concerns (defined in section 637(a)(4) of title 15) and small business concerns (as defined in section 632(a) of title 15) owned by women, including estimates of the amounts made available to finance exports directly by such small business concerns, a comparison of these amounts with the amounts made available to all small business concerns, and a comparison of such amounts with the amounts so made available during the 2 preceding years;
 
 &emsp;(5) with respect to each type of transaction, the interest and fees charged by the Bank to exporters (including a description of fees and interest, if any, charged to small business concerns), buyers, and other applicants in connection with each financing program of the Bank, and the highest, lowest, and average fees charged by the Bank for short term insurance transactions;
 
@@ -120,17 +120,17 @@ Not later than March 31 of each year, the Bank shall submit to the Committee on 
 
 In the annual report of the Bank under subsection (a), the Bank shall categorize each loan and long-term guarantee made by the Bank in the fiscal year covered by the report, and according to the following purposes:
 
-&emsp;(1) “To assume commercial or political risk that exporter or private financial institutions are unwilling or unable to undertake”.
+&emsp;(1) "To assume commercial or political risk that exporter or private financial institutions are unwilling or unable to undertake".
 
-&emsp;(2) “To overcome maturity or other limitations in private sector export financing”.
+&emsp;(2) "To overcome maturity or other limitations in private sector export financing".
 
-&emsp;(3) “To meet competition from a foreign, officially sponsored, export credit competition”.
+&emsp;(3) "To meet competition from a foreign, officially sponsored, export credit competition".
 
-&emsp;(4) “Not identified”, and the reason why the purpose is not identified.
+&emsp;(4) "Not identified", and the reason why the purpose is not identified.
 
 #### (i) Access to Bank products by the textile industry
 
-The Bank shall include in its annual report to the Congress under subsection (a) of this sectiona report on the determinations made by the Advisory Committee under section 635a(d)(5) of this title in the year covered by the report.
+The Bank shall include in its annual report to the Congress under subsection (a) of this section a report on the determinations made by the Advisory Committee under section 635a(d)(5) of this title in the year covered by the report.
 
 #### (j) Textile and apparel supply chain financing
 
@@ -156,7 +156,7 @@ Subsec. (j). Pub. L. 112–122, §21(c), added subsec. (j).
 
 <b>2002</b>—Subsecs. (c) to (e). Pub. L. 107–189 added subsecs. (c) to (e).
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–569 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The report shall contain a description of actions taken by the Bank in pursuance of the policy of aiding, counseling, assisting, and protecting, insofar as is possible, the interests of small business concerns and of the activities of the member of the Board appointed to represent the interest of small business. In addition, the Bank shall include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title 22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title.”
+<b>2000</b>—Subsec. (b). Pub. L. 106–569 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The report shall contain a description of actions taken by the Bank in pursuance of the policy of aiding, counseling, assisting, and protecting, insofar as is possible, the interests of small business concerns and of the activities of the member of the Board appointed to represent the interest of small business. In addition, the Bank shall include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title 22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title."
 
 Subsec. (c). Pub. L. 106–569 redesignated subsec. (c) as (b) and directed redesignation of subsec. (e) as (c).
 
@@ -166,7 +166,7 @@ Subsec. (e). Pub. L. 106–569, which directed redesignation of subsec. (e) as (
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–472 temporarily added subsec. (e). See Termination Date of 1986 Amendment note below.
 
-<b>1983</b>—Subsec. (b). Pub. L. 98–181, §618(b)(1), inserted “and of the activities of the member of the Board appointed to represent the interests of small business”.
+<b>1983</b>—Subsec. (b). Pub. L. 98–181, §618(b)(1), inserted "and of the activities of the member of the Board appointed to represent the interests of small business".
 
 Subsec. (c). Pub. L. 98–181, §618(b)(2), added subsec. (c).
 
@@ -176,7 +176,7 @@ Subsec. (d). Pub. L. 98–181, §623, added subsec. (d).
 
 <b>1975</b>—Pub. L. 93–646 designated existing provisions as subsec. (a), substituted provisions calling for an annual report as of the close of business on the last day of each fiscal year, for provisions calling for a semiannual report as of the close of business on June 30 and Dec. 31 of each year, and added subsec. (b).
 
-<b>1968</b>—Pub. L. 90–267 changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
+<b>1968</b>—Pub. L. 90–267 changed name of "Export-Import Bank of Washington" to "Export-Import Bank of the United States".
 
 #### Change of Name
 
@@ -184,7 +184,7 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 #### Termination Date of 1986 Amendment
 
-Pub. L. 99–472, §20(c), Oct. 15, 1986, 100 Stat. 1210, provided that: “Effective March 2, 1988, the amendment made by subsection (b) \[amending this section\] is repealed.”
+Pub. L. 99–472, §20(c), Oct. 15, 1986, 100 Stat. 1210, provided that: "Effective March 2, 1988, the amendment made by subsection (b) \[amending this section\] is repealed."
 
 #### Effective Date of 1978 Amendment
 
@@ -192,17 +192,17 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1917 of Pub. 
 
 #### Reports
 
-Pub. L. 107–189, §8(c), June 14, 2002, 116 Stat. 701, provided that: “The Export-Import Bank of the United States shall include in the annual report required by section 8(a) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635g(a)\] for each of fiscal years 2002 through 2006 a report on the efforts made by the Bank to carry out subparagraphs (E)(x) and (J) of section 2(b)(1) of such Act \[12 U.S.C. 635(b)(1)\], and on how the efforts are assisting small businesses.”
+Pub. L. 107–189, §8(c), June 14, 2002, 116 Stat. 701, provided that: "The Export-Import Bank of the United States shall include in the annual report required by section 8(a) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635g(a)\] for each of fiscal years 2002 through 2006 a report on the efforts made by the Bank to carry out subparagraphs (E)(x) and (J) of section 2(b)(1) of such Act \[12 U.S.C. 635(b)(1)\], and on how the efforts are assisting small businesses."
 
 #### Financing for Renewable Energy Projects
 
 Pub. L. 101–167, title V, §534(d), Nov. 21, 1989, 103 Stat. 1231, provided that:
 
-“(1) Of the financing provided by the Export-Import Bank that is utilized for the support of exports for the energy sector, the Bank shall seek to provide not less than 5 per centum of such financing for renewable energy projects.
+"(1) Of the financing provided by the Export-Import Bank that is utilized for the support of exports for the energy sector, the Bank shall seek to provide not less than 5 per centum of such financing for renewable energy projects.
 
-“(2) The Export-Import Bank shall take all appropriate steps to finance information exchanges and training whose purpose it is to help link United States producers in the renewable energy sector with assistance programs and potential foreign customers.
+"(2) The Export-Import Bank shall take all appropriate steps to finance information exchanges and training whose purpose it is to help link United States producers in the renewable energy sector with assistance programs and potential foreign customers.
 
-“(3) Beginning on April 15, 1990, the Chairman of the Export-Import Bank shall submit an annual report to the Committees on Appropriations on the Bank's implementation of this subsection.”
+"(3) Beginning on April 15, 1990, the Chairman of the Export-Import Bank shall submit an annual report to the Committees on Appropriations on the Bank's implementation of this subsection."
 
 #### Submission of Annual Report
 

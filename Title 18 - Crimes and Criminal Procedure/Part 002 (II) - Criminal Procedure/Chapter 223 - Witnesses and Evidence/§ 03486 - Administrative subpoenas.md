@@ -26,15 +26,15 @@ Authorization.—(1)(A) In any investigation of—
 
 (D) As used in this paragraph—
 
-&emsp;(i) the term “Federal offense involving the sexual exploitation or abuse of children” means an offense under section 1201, 1591, 2241(c), 2242, 2243, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, or 2423, in which the victim is an individual who has not attained the age of 18 years; and
+&emsp;(i) the term "Federal offense involving the sexual exploitation or abuse of children" means an offense under section 1201, 1591, 2241(c), 2242, 2243, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, or 2423, in which the victim is an individual who has not attained the age of 18 years; and
 
-&emsp;(ii) the term “sex offender” means an individual required to register under the Sex Offender Registration and Notification Act (42 U.S.C. 16901 et seq.).
+&emsp;(ii) the term "sex offender" means an individual required to register under the Sex Offender Registration and Notification Act (42 U.S.C. 16901 et seq.).
 
 (2) A subpoena under this subsection shall describe the objects required to be produced and prescribe a return date within a reasonable period of time within which the objects can be assembled and made available.
 
 (3) The production of records relating to a Federal health care offense shall not be required under this section at any place more than 500 miles distant from the place where the subpoena for the production of such records is served. The production of things in any other case may be required from any place within the United States or subject to the laws or jurisdiction of the United States.
 
-(4) Witnesses subpoenaed under this section shall be paid the same fees and mileage that arepaid witnesses in the courts of the United States.
+(4) Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the courts of the United States.
 
 (5) At any time before the return date specified in the summons, the person or entity summoned may, in the United States district court for the district in which that person or entity does business or resides, petition for an order modifying or setting aside the summons, or a prohibition of disclosure ordered by a court under paragraph (6).
 
@@ -76,7 +76,7 @@ Immunity From Civil Liability.—Notwithstanding any Federal, State, or local la
 
 Limitation on Use.—(1) Health information about an individual that is disclosed under this section may not be used in, or disclosed to any person for use in, any administrative, civil, or criminal action or investigation directed against the individual who is the subject of the information unless the action or investigation arises out of and is directly related to receipt of health care or payment for health care or action involving a fraudulent claim related to health; or if authorized by an appropriate order of a court of competent jurisdiction, granted after application showing good cause therefor.
 
-(2) In assessing good cause, the court shall weigh the public interest and the need for disclosure against the injury to the patient, to the physician-patient relationship, and to the treatment services.
+(2) In assessing good cause, the court shall weigh the public interest and the need for disclosure against the injury to the patient, to thephysician-patient relationship, and to the treatment services.
 
 (3) Upon the granting of such order, the court, in determining the extent to which any disclosure of all or any part of any record is necessary, shall impose appropriate safeguards against unauthorized disclosure.
 
@@ -88,45 +88,45 @@ The Sex Offender Registration and Notification Act, referred to in subsec. (a)(1
 
 #### Prior Provisions
 
-A prior section 3486, acts June 25, 1948, ch. 645, 62 Stat. 833; Aug. 20, 1954, ch. 769, §1, 68 Stat. 745; Aug. 28,1965, Pub. L. 89–141, §2, 79 Stat. 581, set forth procedure for granting of immunity to witnesses compelled to testify or produce evidence in course of any Congressional investigation, or case or proceeding before any grand jury or court of the United States, involving interference with or endangering of national security or defense of the United States, prior to repeal by Pub. L. 91–452, title II, §228(a), Oct. 15, 1970, 84 Stat. 930, effective on sixtieth day following Oct. 15, 1970. See section 6001 et seq. of this title.
+A prior section 3486, acts June 25, 1948, ch. 645, 62 Stat. 833; Aug. 20, 1954, ch. 769, §1, 68 Stat. 745; Aug. 28, 1965, Pub. L. 89–141, §2, 79 Stat. 581, set forth procedure for granting of immunity to witnesses compelled to testify or produce evidence in course of any Congressional investigation, or case or proceeding before any grand jury or court of the United States, involving interference with or endangering of national security or defense of the United States, prior to repeal by Pub. L. 91–452, title II, §228(a), Oct. 15, 1970, 84 Stat. 930, effective on sixtieth day following Oct. 15, 1970. See section 6001 et seq. of this title.
 
 #### Amendments
 
 <b>2012</b>—Subsec. (a)(1)(A)(ii), (iii). Pub. L. 112–206, §4(a)(1)(A), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-Subsec. (a)(1)(D). Pub. L. 112–206, §4(a)(1)(B), substituted “paragraph—” for “paragraph,”, inserted cl. (i) designation before “the term”, substituted “years; and” for “years.”, and added cl. (ii).
+Subsec. (a)(1)(D). Pub. L. 112–206, §4(a)(1)(B), substituted "paragraph—" for "paragraph,", inserted cl. (i) designation before "the term", substituted "years; and" for "years.", and added cl. (ii).
 
-Subsec. (a)(6)(A). Pub. L. 112–206, §4(a)(2)(A), substituted “United States” for “United State”.
+Subsec. (a)(6)(A). Pub. L. 112–206, §4(a)(2)(A), substituted "United States" for "United State".
 
-Subsec. (a)(9), (10). Pub. L. 112–206, §4(a)(2)(B), (C), substituted “(1)(A)(iii)” for “(1)(A)(ii)”.
+Subsec. (a)(9), (10). Pub. L. 112–206, §4(a)(2)(B), (C), substituted "(1)(A)(iii)" for "(1)(A)(ii)".
 
-<b>2008</b>—Subsec. (a)(1)(D). Pub. L. 110–457 inserted “1591,” after “1201,”.
+<b>2008</b>—Subsec. (a)(1)(D). Pub. L. 110–457 inserted "1591," after "1201,".
 
-<b>2003</b>—Subsec. (a)(1)(C)(i). Pub. L. 108–21 substituted “the information specified in section 2703(c)(2)” for “the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber to or customer of such service and the types of services the subscriber or customer utilized”.
+<b>2003</b>—Subsec. (a)(1)(C)(i). Pub. L. 108–21 substituted "the information specified in section 2703(c)(2)" for "the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber to or customer of such service and the types of services the subscriber or customer utilized".
 
-<b>2000</b>—Pub. L. 106–544, §5(b)(1), struck out “in Federal health care investigations” after “subpoenas” in section catchline.
+<b>2000</b>—Pub. L. 106–544, §5(b)(1), struck out "in Federal health care investigations" after "subpoenas" in section catchline.
 
-Subsec. (a)(1). Pub. L. 106–544, §5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In any investigation relating to any act or activity involving a Federal health care offense, or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General's designee may issue in writing and cause to be served a subpoena—
+Subsec. (a)(1). Pub. L. 106–544, §5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In any investigation relating to any act or activity involving a Federal health care offense, or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General's designee may issue in writing and cause to be served a subpoena—
 
-&emsp;“(A) requiring the production of any records (including any books, papers, documents, electronic media, or other objects or tangible things), which may be relevant to an authorized law enforcement inquiry, that a person or legal entity may possess or have care, custody, or control; or
+&emsp;"(A) requiring the production of any records (including any books, papers, documents, electronic media, or other objects or tangible things), which may be relevant to an authorized law enforcement inquiry, that a person or legal entity may possess or have care, custody, or control; or
 
-&emsp;“(B) requiring a custodian of records to give testimony concerning the production and authentication of such records.”
+&emsp;"(B) requiring a custodian of records to give testimony concerning the production and authentication of such records."
 
-Subsec. (a)(3). Pub. L. 106–544, §5(a)(2), inserted “relating to a Federal health care offense” after “production of records” and inserted at end “The production of things in any other case may be required from any place within the United States or subject to the laws or jurisdiction of the United States.”
+Subsec. (a)(3). Pub. L. 106–544, §5(a)(2), inserted "relating to a Federal health care offense" after "production of records" and inserted at end "The production of things in any other case may be required from any place within the United States or subject to the laws or jurisdiction of the United States."
 
-Subsec. (a)(4). Pub. L. 106–544, §5(c)(1), substituted “subpoenaed” for “summoned”.
+Subsec. (a)(4). Pub. L. 106–544, §5(c)(1), substituted "subpoenaed" for "summoned".
 
 Subsec. (a)(5) to (10). Pub. L. 106–544, §5(a)(3), added pars. (5) to (10).
 
-Subsec. (d). Pub. L. 106–544, §5(c)(2), substituted “subpoena” for “summons” in two places.
+Subsec. (d). Pub. L. 106–544, §5(c)(2), substituted "subpoena" for "summons" in two places.
 
-<b>1998</b>—Pub. L. 105–314 substituted “Administrative subpoenas in Federal health care investigations” for “Authorized investigative demand procedures” in section catchline.
+<b>1998</b>—Pub. L. 105–314 substituted "Administrative subpoenas in Federal health care investigations" for "Authorized investigative demand procedures" in section catchline.
 
-Subsec. (a)(1). Pub. L. 105–277 inserted “or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children,” after “health care offense,” in introductory provisions.
+Subsec. (a)(1). Pub. L. 105–277 inserted "or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children," after "health care offense," in introductory provisions.
 
 #### Transfer of Functions
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “3056(a),”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "3056(a),".</i>
 

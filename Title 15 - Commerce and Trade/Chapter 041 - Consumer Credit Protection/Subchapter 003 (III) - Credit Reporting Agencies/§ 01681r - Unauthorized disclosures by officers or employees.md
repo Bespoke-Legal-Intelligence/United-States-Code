@@ -6,7 +6,7 @@ Any officer or employee of a consumer reporting agency who knowingly and willful
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–208 substituted “fined under title 18, imprisoned for not more than 2 years, or both” for “fined not more than $5,000 or imprisoned not more than one year, or both”.
+<b>1996</b>—Pub. L. 104–208 substituted "fined under title 18, imprisoned for not more than 2 years, or both" for "fined not more than $5,000 or imprisoned not more than one year, or both".
 
 #### Effective Date of 1996 Amendment
 

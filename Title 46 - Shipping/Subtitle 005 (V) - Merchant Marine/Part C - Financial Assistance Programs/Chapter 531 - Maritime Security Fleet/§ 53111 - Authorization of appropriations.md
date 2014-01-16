@@ -16,9 +16,9 @@ There are authorized to be appropriated for payments under section 53106, to rem
 
 #### Amendments
 
-<b>2013</b>—Par. (2). Pub. L. 112–239, §3508(i)(1), struck out “and” at end.
+<b>2013</b>—Par. (2). Pub. L. 112–239, §3508(i)(1), struck out "and" at end.
 
-Pars. (3) to (5). Pub. L. 112–239, §3508(i)(2), which directed amendment of par. (3) “to read as follows” and then set out pars. (3) to (5), was executed by amending par. (3) generally and adding pars. (4) and (5) to reflect the probable intent of Congress. Prior to amendment, par. (3) read as follows: “$186,000,000 for each fiscal year thereafter through fiscal year 2025.”
+Pars. (3) to (5). Pub. L. 112–239, §3508(i)(2), which directed amendment of par. (3) "to read as follows" and then set out pars. (3) to (5), was executed by amending par. (3) generally and adding pars. (4) and (5) to reflect the probable intent of Congress. Prior to amendment, par. (3) read as follows: "$186,000,000 for each fiscal year thereafter through fiscal year 2025."
 
-<b>2011</b>—Par. (3). Pub. L. 111–383 substituted “2025” for “2015”.
+<b>2011</b>—Par. (3). Pub. L. 111–383 substituted "2025" for "2015".
 

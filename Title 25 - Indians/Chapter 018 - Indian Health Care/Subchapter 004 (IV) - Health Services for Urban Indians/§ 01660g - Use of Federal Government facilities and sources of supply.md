@@ -20,7 +20,7 @@ The Secretary may acquire excess or surplus personal or real property of the Fed
 
 #### (d) Priority
 
-If the Secretary receives from an urban Indian organization or an Indian tribe or tribal organization a request for a specific item of personal or real property described in subsection (b) or (c), the Secretary shall give priority to the request for donation to the Indian tribe or tribal organization, if the Secretary receives the request from the Indian tribe or tribal organization before the earlier of—
+If the Secretary receives from an urban Indian organization or an Indian tribe or tribal organization a request for a specific item of personal or real property described in subsection (b) or (c), the Secretary shall give priority to the request for donation to the Indian tribe or tribalorganization, if the Secretary receives the request from the Indian tribe or tribal organization before the earlier of—
 
 &emsp;(1) the date on which the Secretary transfers title to the property to the urban Indian organization; and
 

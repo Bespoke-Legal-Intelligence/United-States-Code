@@ -6,7 +6,7 @@ The park shall be administered by the Secretary in accordance with this subchapt
 
 #### (b) Management plan
 
-Not later than 3 years after funds are made available for this purpose, the Secretary shall prepare an amendment to the General Management Plan for Fort Clatsop National Memorial to guide the management of the park.
+Not later than 3 years after funds are made available for this purpose, the Secretary shallprepare an amendment to the General Management Plan for Fort Clatsop National Memorial to guide the management of the park.
 
 #### (c) Cooperative management
 
@@ -16,5 +16,5 @@ In order to facilitate the presentation of a comprehensive picture of the Lewis 
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a), was in the original “this title”, meaning title I of Pub. L. 108–387, Oct. 30, 2004, 118 Stat. 2234, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 410kkk of this title and Tables.
+This subchapter, referred to in subsec. (a), was in the original "this title", meaning title I of Pub. L. 108–387, Oct. 30, 2004, 118 Stat. 2234, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 410kkk of this title and Tables.
 

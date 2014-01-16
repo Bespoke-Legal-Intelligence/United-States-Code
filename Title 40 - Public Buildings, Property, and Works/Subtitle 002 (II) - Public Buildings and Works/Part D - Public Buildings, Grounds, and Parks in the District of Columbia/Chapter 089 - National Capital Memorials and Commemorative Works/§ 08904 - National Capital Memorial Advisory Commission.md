@@ -60,15 +60,15 @@ Pub. L. 99–652, §4, Nov. 14, 1986, 100 Stat. 3651.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b). Pub. L. 111–11 inserted “Advisory” before “Commission”.
+<b>2009</b>—Subsec. (b). Pub. L. 111–11 inserted "Advisory" before "Commission".
 
-<b>2003</b>—Pub. L. 108–126, §203(d)(1), inserted “Advisory” before “Commission” in section catchline.
+<b>2003</b>—Pub. L. 108–126, §203(d)(1), inserted "Advisory" before "Commission" in section catchline.
 
-Subsec. (a). Pub. L. 108–126, §203(d)(2), substituted “There is established the National Capital Memorial Advisory Commission, which shall be composed of” for “There is a National Capital Memorial Commission. The membership of the Commission consists of” in introductory provisions.
+Subsec. (a). Pub. L. 108–126, §203(d)(2), substituted "There is established the National Capital Memorial Advisory Commission, which shall be composed of" for "There is a National Capital Memorial Commission. The membership of the Commission consists of" in introductory provisions.
 
-Subsec. (c). Pub. L. 108–126, §203(d)(3), inserted “Advisory” before “Commission shall” and substituted “Services (as appropriate)” for “Services”.
+Subsec. (c). Pub. L. 108–126, §203(d)(3), inserted "Advisory" before "Commission shall" and substituted "Services (as appropriate)" for "Services".
 
-Subsec. (d). Pub. L. 108–126, §203(d)(4), inserted “Advisory” before “Commission”.
+Subsec. (d). Pub. L. 108–126, §203(d)(4), inserted "Advisory" before "Commission".
 
 #### Effective Date of 2003 Amendment
 

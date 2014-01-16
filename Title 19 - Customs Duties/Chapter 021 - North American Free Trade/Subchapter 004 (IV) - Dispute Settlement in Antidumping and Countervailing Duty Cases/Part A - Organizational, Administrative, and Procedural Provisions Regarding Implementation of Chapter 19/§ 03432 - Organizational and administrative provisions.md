@@ -86,7 +86,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the “appropriate Congressional Committees”) the preliminary candidate lists of those individuals selected by the Trade Representative under subparagraph (A) to be candidates eligible to serve on panels or committees convened pursuant to chapter 19 during the 1-year period beginning on April 1 of such calendar year.
+&emsp;&emsp;&emsp;No later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the "appropriate Congressional Committees") the preliminary candidate lists of those individuals selected by the Trade Representative under subparagraph (A) to be candidates eligible to serve on panels or committees convened pursuant to chapter 19 during the 1-year period beginning on April 1 of such calendar year.
 
 #### (ii) Additional information
 
@@ -198,9 +198,9 @@
 
 If the Agreement enters into force between the United States and a NAFTA country after January 3, 1994, the provisions of subsection (c) of this section shall be applied with respect to thecalendar year in which such entering into force occurs—
 
-&emsp;(1) by substituting “the date that is 30 days after the date on which the Agreement enters into force with respect to the United States” for “January 3 of each calendar year” in subsections (c)(2)(B)(i) and (c)(3)(B)(i) of this section; and
+&emsp;(1) by substituting "the date that is 30 days after the date on which the Agreement enters into force with respect to the United States" for "January 3 of each calendar year" in subsections (c)(2)(B)(i) and (c)(3)(B)(i) of this section; and
 
-&emsp;(2) by substituting “the date that is 3 months after the date on which the Agreement enters into force with respect to the United States” for “March 31 of each calendar year” in subsection (c)(4)(A) of this section.
+&emsp;(2) by substituting "the date that is 3 months after the date on which the Agreement enters into force with respect to the United States" for "March 31 of each calendar year" in subsection (c)(4)(A) of this section.
 
 #### (f) Immunity
 
@@ -222,7 +222,7 @@ The Tariff Act of 1930, referred to in subsec. (g), is act June 17, 1930, ch. 49
 
 #### Amendments
 
-<b>1996</b>—Subsec. (d)(3). Pub. L. 104–295 substituted “subsection (c)(4) of this section” for “(c)(4)” in introductory provisions.
+<b>1996</b>—Subsec. (d)(3). Pub. L. 104–295 substituted "subsection (c)(4) of this section" for "(c)(4)" in introductory provisions.
 
 #### North American Free Trade Agreement: Entry Into Force
 

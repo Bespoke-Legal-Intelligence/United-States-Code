@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “State” includes the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and, the Northern Mariana Islands.
+Definition.—In this section, the term "State" includes the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and, the Northern Mariana Islands.
 
 (b)
 
@@ -28,7 +28,7 @@ Deed of Conveyance.—The deed of conveyance of any surplus real and related per
 
 (e)
 
-Enforcement and Revision of Instruments Transferring Property Under This Section.—The Administrator shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Administrator shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Administrator shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the transferee (or other eligible user) any right or interest reserved to the Government by the instrument, if the Administrator determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Administrator considers necessary to protect or advance the interests of the Government.
+Enforcement and Revision of Instruments Transferring Property Under This Section.—The Administrator shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Administrator shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Administrator shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the transferee (or other eligible user) any right or interest reserved to the Government by the instrument, if the Administrator determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to termsand conditions that the Administrator considers necessary to protect or advance the interests of the Government.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1099; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
@@ -48,17 +48,17 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title II, §203(p), as added Pub. L. 98–473, title II, §701, Oct. 12, 1984, 98 Stat. 2129; Pub. L. 105–119, title I, §118, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 106–113, §1000(a)(5) \[§233(a)\], Nov. 29, 1999, 113 Stat. 1501A–301; Pub. L. 106–168, title III, §301, Dec. 12, 1999, 113 Stat. 1821; Pub. L. 106–398, §1 \[§2814\], Oct. 30, 2000, 114 Stat. 1654A–419.
 
-In subsection (a), the words “Trust Territory of the Pacific Islands” are omitted and the words “the Federated States of Micronesia, the Marshall Islands,Palau” are added because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
+In subsection (a), the words "Trust Territory of the Pacific Islands" are omitted and the words "the Federated States of Micronesia, the Marshall Islands, Palau" are added because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
 
 In subsection (c), the text of 40:484(p)(1)(A) (last sentence) is omitted as executed and obsolete.
 
 #### References in Text
 
-The “Administrator”, referred to in subsecs. (d)(2) and (e), is the Administrator of General Services.
+The "Administrator", referred to in subsecs. (d)(2) and (e), is the Administrator of General Services.
 
 #### Change of Name
 
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (b)(3) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+"Administrator of the Federal Emergency Management Agency" substituted for "Director of the Federal Emergency Management Agency" in subsec. (b)(3) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Transfer of Functions
 

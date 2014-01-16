@@ -12,7 +12,7 @@ Not later than December 31, 1997, the owner or operator of an existing unit subj
 
 (1) An owner or operator satisfying the requirements of subsection (a) of this section shall be granted an extension of the emission limitation requirement compliance date for that unit from January 1, 2000, to December 31, 2003. The extension shall be specified in the permit issued to the source under section 7651g of this title, together with any compliance schedule and other requirements necessary to meet second phase requirements by the extended date. Any unit that is granted an extension under this section shall not be eligible for a waiver under section 7411(j) of this title, and shall continue to be subject to requirements under this subchapter as if it were a unit subject to section 7651d of this title.
 
-(2) If (A) the owner or operator of an existing unit has been granted an extension under paragraph (1) in order to repower such unit with a clean coal unit, and (B) such owner or operator demonstrates to the satisfaction of the Administrator that the repowering technology to be utilized by such unit has been properly constructed and tested on such unit, but nevertheless has been unable to achieve the emission reduction limitations and is economically or technologically infeasible, such existing unit may be retrofitted or repowered with equipment or facilities utilizing another clean coal technology or other available control technology.
+(2) If (A) the owner or operator of an existing unit has been granted an extension under paragraph (1) in order to repower such unit with a clean coal unit, and (B) such owner or operator demonstrates to the satisfaction of the Administrator that the repowering technology to be utilized by such unit has been properly constructed and tested on such unit, but nevertheless has been unable to achieve the emission reductionlimitations and is economically or technologically infeasible, such existing unit may be retrofitted or repowered with equipment or facilities utilizing another clean coal technology or other available control technology.
 
 #### (c) Allowances
 
@@ -32,7 +32,7 @@ Any unit qualifying for an extension under this section that does not increase a
 
 #### (e) Expedited permitting
 
-State permitting authorities and, where applicable, the Administrator, are encouraged to give expedited consideration to permit applicationsunder parts C and D of subchapter I of this chapter for any source qualifying for an extension under this section.
+State permitting authorities and, where applicable, the Administrator, are encouraged to give expedited consideration to permit applications under parts C and D of subchapter I of this chapter for any source qualifying for an extension under this section.
 
 #### (f) Prohibition
 
@@ -40,7 +40,7 @@ It shall be unlawful for the owner or operator of a repowered source to fail to 
 
 (July 14, 1955, ch. 360, title IV, §409, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2619.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “7651a(12)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "7651a(12)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "this".</i>
 

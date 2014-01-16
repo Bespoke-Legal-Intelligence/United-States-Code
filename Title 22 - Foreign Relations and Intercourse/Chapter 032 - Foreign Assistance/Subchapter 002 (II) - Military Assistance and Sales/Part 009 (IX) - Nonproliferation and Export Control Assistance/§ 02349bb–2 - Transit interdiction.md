@@ -10,7 +10,7 @@ Priority shall be given in the apportionment of the assistance described under s
 
 #### (c) Cooperative agreements
 
-In order to promote cooperation regarding the interdiction of weapons of mass destruction andrelated materials and delivery systems, the President is authorized to conclude agreements, including reciprocal maritime agreements, with other countries to facilitate effective measures to prevent the transportation of such items to non-state actors and states of proliferation concern.
+In order to promote cooperation regarding the interdiction of weapons of mass destruction and related materials and delivery systems, the President is authorized to conclude agreements, including reciprocal maritime agreements, with other countries to facilitate effective measures to prevent the transportation of such items to non-state actors and states of proliferation concern.
 
 #### (d) Determination and notice to Congress
 
@@ -20,7 +20,7 @@ The Secretary of State shall notify the Committee on International Relations of 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 109–472, §10(c)(1), substituted “shall ensure that, beginning in fiscal year 2007,” for “should ensure that”, “obligated” for “expended”, and “to non-State actors and States of proliferation concern” for “that originate from, and are destined for, other countries”.
+<b>2007</b>—Subsec. (a). Pub. L. 109–472, §10(c)(1), substituted "shall ensure that, beginning in fiscal year 2007," for "should ensure that", "obligated" for "expended", and "to non-State actors and States of proliferation concern" for "that originate from, and are destined for, other countries".
 
 Subsecs. (c), (d). Pub. L. 109–472, §10(c)(2), added subsecs. (c) and (d).
 

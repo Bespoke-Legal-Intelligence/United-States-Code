@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) in the case of an eligible individual enrolled in a standard health plan offered through the program, the State provides—
 
-&emsp;&emsp;&emsp;(i) that the amount of the monthly premium an eligible individual is required topay for coverage under the standard health plan for the individual and the individual's dependents does not exceed the amount of the monthly premium that the eligible individual would have been required to pay (in the rating area in which the individual resides) if the individual had enrolled in the applicable second lowest cost silver plan (as defined in section 36B(b)(3)(B) of title 26) offered to the individual through an Exchange; and
+&emsp;&emsp;&emsp;(i) that the amount of the monthly premium an eligible individual is required to pay for coverage under the standard health plan for the individual and the individual's dependents does not exceed the amount of the monthly premium that the eligible individual would have been required to pay (in the rating area in which the individual resides) if the individual had enrolled in the applicable second lowest cost silver plan (as defined in section 36B(b)(3)(B) of title 26) offered to the individual through an Exchange; and
 
 &emsp;&emsp;&emsp;(ii) that the cost-sharing an eligible individual is required to pay under the standard health plan does not exceed—
 
@@ -26,7 +26,7 @@
 
 #### (b) Standard health plan
 
-In this section, the term “standard heath <sup>1</sup> plan” means a health benefits plan that the State contracts with under this section—
+In this section, the term "standard heath <sup>1</sup> plan" means a health benefits plan that the State contracts with under this section—
 
 &emsp;(1) under which the only individuals eligible to enroll are eligible individuals;
 
@@ -84,7 +84,7 @@ In this section, the term “standard heath <sup>1</sup> plan” means a health
 
 #### (1) In general
 
-&emsp;If the Secretary determines that a State electing the application of this section meets the requirements of the program established under subsection (a), the Secretary shall transfer to the State for each fiscal year for which 1 or more standard health plans are operating within the State the amount determined under paragraph (3).
+&emsp;If the Secretary determines that a State electing the application of this section meetsthe requirements of the program established under subsection (a), the Secretary shall transfer to the State for each fiscal year for which 1 or more standard health plans are operating within the State the amount determined under paragraph (3).
 
 #### (2) Use of funds
 
@@ -118,7 +118,7 @@ In this section, the term “standard heath <sup>1</sup> plan” means a health
 
 #### (1) In general
 
-&emsp;In this section, the term “eligible individual” means, with respect to any State, an individual—
+&emsp;In this section, the term "eligible individual" means, with respect to any State, an individual—
 
 &emsp;&emsp;(A) who a <sup>2</sup> resident of the State who is not eligible to enroll in the State's medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for benefits that at a minimum consist of the essential health benefits described in section 18022(b) of this title;
 
@@ -162,11 +162,11 @@ This Act, referred to in subsec. (d)(3)(A)(iii), is Pub. L. 111–148, Mar. 23, 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(3)(A)(i). Pub. L. 111–148, §10104(o)(1), substituted “95 percent” for “85 percent”.
+<b>2010</b>—Subsec. (d)(3)(A)(i). Pub. L. 111–148, §10104(o)(1), substituted "95 percent" for "85 percent".
 
-Subsec. (e)(1)(B). Pub. L. 111–148, §10104(o)(2), inserted “, or, in the case of an alien lawfully present in the United States, whose income is not greater than 133 percent of the poverty line for the size of the family involved but who is not eligible for the Medicaid program under title XIX of the Social Security Act by reason of such alien status” before semicolon at end.
+Subsec. (e)(1)(B). Pub. L. 111–148, §10104(o)(2), inserted ", or, in the case of an alien lawfully present in the United States, whose income is not greater than 133 percent of the poverty line for the size of the family involved but who is not eligible for the Medicaid program under title XIX of the Social Security Act by reason of such alien status" before semicolon at end.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “health”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "health".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “is”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "is".</i>
 

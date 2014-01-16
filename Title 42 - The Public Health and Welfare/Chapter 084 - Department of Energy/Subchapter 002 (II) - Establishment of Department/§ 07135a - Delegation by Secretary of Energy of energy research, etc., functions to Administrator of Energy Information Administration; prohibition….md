@@ -6,11 +6,11 @@ Notwithstanding any other provision of law, the Secretary of Energy shall not be
 
 #### References in Text
 
-The Atomic Energy Act, referred to in text, probably means the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act, referred to in text, probably means the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 The Federal Nonnuclear Energy Research and Development Act, referred to in text, probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
-The Geothermal Research, Development, and Demonstration Act, referred to in text, probably means the Geothermal Energy, Research, Development, and Demonstration Act of 1974, Pub. L. 93–410, Sept. 3, 1974, 88 Stat. 1079, which is classified generally to chapter 24 (§1101 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, seeShort Title note set out under section 1101 of Title 30 and Tables.
+The Geothermal Research, Development, and Demonstration Act, referred to in text, probably means the Geothermal Energy, Research, Development, and Demonstration Act of 1974, Pub. L. 93–410, Sept. 3, 1974, 88 Stat. 1079, which is classified generally to chapter 24 (§1101 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 30 and Tables.
 
 The Electric and Hybrid Vehicle Research, Development and Demonstration Act, referred to in text, probably means the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976, Pub. L. 94–413, Sept. 17, 1976, 90 Stat. 1260, which is classified principally to chapter 52 (§2501 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 15 and Tables.
 

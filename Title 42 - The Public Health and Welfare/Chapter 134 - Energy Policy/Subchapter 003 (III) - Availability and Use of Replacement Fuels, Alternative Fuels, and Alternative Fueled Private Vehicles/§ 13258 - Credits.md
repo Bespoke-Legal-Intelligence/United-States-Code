@@ -6,19 +6,19 @@ In this section:
 
 #### (1) Fuel cell electric vehicle
 
-&emsp;The term “fuel cell electric vehicle” means an on-road or non-road vehicle that uses a fuel cell (as defined in section 16152 of this title).
+&emsp;The term "fuel cell electric vehicle" means an on-road or non-road vehicle that uses a fuel cell (as defined in section 16152 of this title).
 
 #### (2) Hybrid electric vehicle
 
-&emsp;The term “hybrid electric vehicle” means a new qualified hybrid motor vehicle (as defined in section 30B(d)(3) of title 26).
+&emsp;The term "hybrid electric vehicle" means a new qualified hybrid motor vehicle (as defined in section 30B(d)(3) of title 26).
 
 #### (3) Medium- or heavy-duty electric vehicle
 
-&emsp;The term “medium- or heavy-duty electric vehicle” means an electric, hybrid electric, or plug-in hybrid electric vehicle with a gross vehicle weight of more than 8,501 pounds.
+&emsp;The term "medium- or heavy-duty electric vehicle" means an electric, hybrid electric, or plug-in hybrid electric vehicle with a gross vehicle weight of more than 8,501 pounds.
 
 #### (4) Neighborhood electric vehicle
 
-&emsp;The term “neighborhood electric vehicle” means a 4-wheeled on-road or nonroad vehicle that—
+&emsp;The term "neighborhood electric vehicle" means a 4-wheeled on-road or nonroad vehicle that—
 
 &emsp;&emsp;(A) has a top attainable speed in 1 mile of more than 20 mph and not more than 25 mph on a paved level surface; and
 
@@ -26,7 +26,7 @@ In this section:
 
 #### (5) Plug-in electric drive vehicle
 
-&emsp;The term “plug-in electric drive vehicle” means a vehicle that—
+&emsp;The term "plug-in electric drive vehicle" means a vehicle that—
 
 &emsp;&emsp;(A) draws motive power from a battery with a capacity of at least 4 kilowatt-hours;
 
@@ -78,7 +78,7 @@ At the request of a fleet or covered person allocated a credit under this sectio
 
 #### (e) Transferability
 
-A fleet or covered person allocated a credit under this section or to whom a credit is transferred under this section, may transfer freely the credit to another fleet or person who is required to comply with this subchapter. At the request of the fleet or person to whom a credit is transferred, the Secretary shall treat the transferred credit as the acquisition of one alternative fueled vehicle of the type for which the credit is allocated in the year designated by the fleet or person to whom the credit is transferred when determining whether that fleet or person has complied with this subchapter in the year designated. A transferred credit may be counted toward compliance for only one year. In the case of the alternative fuel provider program under section 13251 of this title, a transferred credit may be counted toward compliance only if the requirement of section 13251(a)(4) of this title is met.
+A fleet or covered person allocated a credit under this section or to whom a credit is transferred under this section, may transfer freely the credit to another fleet or person who is required to comply with this subchapter. At the request of the fleet or person to whom a credit is transferred, the Secretary shall treat the transferred credit as the acquisition of one alternative fueled vehicle of the type for which the credit is allocated in the year designated by the fleet or person to whom the credit is transferred when determining whether that fleet or person has complied with this subchapter in the year designated. A transferred credit may becounted toward compliance for only one year. In the case of the alternative fuel provider program under section 13251 of this title, a transferred credit may be counted toward compliance only if the requirement of section 13251(a)(4) of this title is met.
 
 #### (f) Authorization of appropriations
 
@@ -92,7 +92,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 Subsec. (b). Pub. L. 110–140, §133(1), (3), redesignated subsec. (a) as (b), designated existing provisions as par. (1), inserted par. heading, and added par. (2). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 110–140, §133(1), (4), redesignated subsec. (b) as (c) and substituted “subsection (b)” for “subsection (a)”. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 110–140, §133(1), (4), redesignated subsec. (b) as (c) and substituted "subsection (b)" for "subsection (a)". Former subsec. (c) redesignated (d).
 
 Subsecs. (d), (e). Pub. L. 110–140, §133(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 

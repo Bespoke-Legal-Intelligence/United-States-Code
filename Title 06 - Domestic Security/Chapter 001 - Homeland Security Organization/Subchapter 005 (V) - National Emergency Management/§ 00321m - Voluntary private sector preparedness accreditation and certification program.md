@@ -162,7 +162,7 @@
 
 #### (ii) Revocation
 
-&emsp;&emsp;&emsp;If the designated officer or any selected entity determines that a third party is not meeting the procedures or requirements established under subparagraph (B), the selected entity shall—
+&emsp;&emsp;&emsp;If the designated officer or any selected entity determines that a third party is notmeeting the procedures or requirements established under subparagraph (B), the selected entity shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) revoke the accreditation of that third party to conduct certifications under this subsection; and
 
@@ -172,7 +172,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The designated officer, in consultation with representatives of appropriate organizations that coordinate or facilitate the development and use of voluntary consensus standards, appropriate voluntary consensus standards development organizations, appropriate representatives of State and local governments, including emergency management officials, and each private sector advisory council created under section 112(f)(4) of this title, shall annually review the voluntary accreditation and certification program established under this subsection to ensure the effectiveness of such program (including the operations and management of such program by any selected entity and theselected entity's inclusion of qualified disadvantaged business concerns under paragraph (3)(D)) and make improvements and adjustments to the program as necessary and appropriate.
+&emsp;&emsp;The designated officer, in consultation with representatives of appropriate organizations that coordinate or facilitate the development and use of voluntary consensus standards, appropriate voluntary consensus standards development organizations, appropriate representatives of State and local governments, including emergency management officials, and each private sector advisory council created under section 112(f)(4) of this title, shall annually review the voluntary accreditation and certification program established under this subsection to ensure the effectiveness of such program (including the operations and management of such program by any selected entity and the selected entity's inclusion of qualified disadvantaged business concerns under paragraph (3)(D)) and make improvements and adjustments to the program as necessary and appropriate.
 
 #### (B) Review of standards
 

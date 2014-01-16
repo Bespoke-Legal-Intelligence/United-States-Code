@@ -42,7 +42,7 @@
 
 (ii)(I) In computing an amount under section 8415 for a former employee or Member (described in subclause (II)) in order to compute the annuity for a widow or widower under this subsection, the computation under section 8415 shall be made as if the former employee or Member had attained the applicable minimum retirement age under section 8412(h).
 
-(II) This clause applies with respect to a former employee or Member who dies before having attained the applicable minimum retirement age under section 8412(h).
+(II) This clause applies with respect to a former employee or Member who dies beforehaving attained the applicable minimum retirement age under section 8412(h).
 
 (B)(i) Notwithstanding the first sentence of subsection (d)(1), the annuity of the widow or widower of a former employee or Member under subparagraph (A)(ii) commences—
 
@@ -140,7 +140,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (f)(3), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended,which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. Sections 202, 203, and 215 are classified to sections 402, 403, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(3), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. Sections 202, 203, and 215 are classified to sections 402, 403, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

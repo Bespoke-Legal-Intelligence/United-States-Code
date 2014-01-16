@@ -26,7 +26,7 @@ Covered determination.—A determination described in this paragraph with respec
 
 &emsp;&emsp;(A) there has been a schedule change that will cause a delay of more than six months but less than a year in any program schedule milestone or significant event from the schedule originally submitted to Congress under paragraph (1) or (2) of section 2445b(b) of this title;
 
-&emsp;&emsp;(B) the estimated program development cost or full life-cycle cost for the program has increased by at least 15 percent, but less than 25 percent, over the original estimate submitted to Congress under paragraph (3) of section 2445b(b) of this title; or
+&emsp;&emsp;(B) the estimated total acquisition cost or full life-cycle cost for the program has increased by at least 15 percent, but less than 25 percent, over the original estimate submitted to Congress under paragraph (3) of section 2445b(b) of this title; or
 
 &emsp;&emsp;(C) there has been a significant, adverse change in the expected performance of the major automated information system to be acquired under the program from the parameters originally submitted to Congress under paragraph (4) of section 2445b(b) of this title.
 
@@ -36,7 +36,7 @@ Report on Critical Changes in Program.—
 
 &emsp;(1)
 
-In general.—If, based on a quarterly report submitted by the program manager of a major automated information system program or other major information technology investment program pursuant to subsection (a), the senior Department of Defense official responsible for the program makes a determination described in paragraph (2), the official shall, not later than 60 days after receiving such report—
+In general.—If, based on a quarterly report submitted by the program manager of a major automated information system program or other major information technology investment program pursuant to subsection (a), the senior Department of Defense official responsible for the program makes a determination described in paragraph (3), the official shall, not later than 60 days after receiving such report—
 
 &emsp;&emsp;(A) carry out an evaluation of the program under subsection (e); and
 
@@ -44,13 +44,17 @@ In general.—If, based on a quarterly report submitted by the program manager o
 
 &emsp;(2)
 
+Certification when variance due to extension of program.—If an official with milestone decision authority for a program who, following receipt of a quarterly report described in paragraph (1) and making a determination described in paragraph (3), also determines that the circumstances resulting in the determination described in paragraph (3)(A) is primarily due to an extension of a program, and (B) involves minimal developmental risk, the official may, in lieu of carrying out an evaluation and submitting a report in accordance with paragraph (1), submit to the congressional defense committees, within 45 days after receiving the quarterly report, a certification that the official has made those determinations. If such a certification is submitted, the limitation in subsection (g)(1) does not apply with respect to that determination under paragraph (3).
+
+&emsp;(3)
+
 Covered determination.—A determination described in this paragraph with respect to a major automated information system program or other major information technology investment program is a determination that—
 
 &emsp;&emsp;(A) the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest);
 
-&emsp;&emsp;(B) there has been a schedule change that will cause a delay of one year or more in any program schedule milestone or significant event from the schedule originally submitted to Congress under paragraph (1) or (2) ofsection 2445b(b) of this title or section 2445b(d) of this title, as applicable;
+&emsp;&emsp;(B) there has been a schedule change that will cause a delay of one year or more in any program schedule milestone or significant event from the schedule originally submitted to Congress under paragraph (1) or (2) of section 2445b(b) of this title or section 2445b(d) of this title, as applicable;
 
-&emsp;&emsp;(C) the estimated program development cost or full life-cycle cost for the program has increased by 25 percent or more over the original estimate submitted to Congress under paragraph (3) of section 2445b(b) of this title or section 2445b(d) of this title, as applicable; or
+&emsp;&emsp;(C) the estimated total acquisition cost or full life-cycle cost for the program has increased by 25 percent or more over the original estimate submitted to Congress under paragraph (3) of section 2445b(b) of this title or section 2445b(d) of this title, as applicable; or
 
 &emsp;&emsp;(D) there has been a change in the expected performance of the major automated information system or major information technology investment to be acquired under the program that will undermine the ability of the system to perform the functions anticipated at the time information on the program was originally submitted to Congress under section 2445b(b) of this title or section 2445b(d) of this title, as applicable.
 
@@ -78,39 +82,51 @@ Report on Critical Program Changes.—A report on a major automated information 
 
 (g)
 
-Prohibition on Obligation of Funds.—(1) If the determination of a critical change to a program is made by the senior Department official responsible for the program under subsection (d)(2) and a report is not submitted to Congress within the 60-day period provided by subsection (d)(1), appropriated funds may not be obligated for any major contract under the program.
+Prohibition on Obligation of Funds.—(1) If the determination of a critical change to a program is made by the senior Department official responsible for the program under subsection (d)(3) and a report is not submitted to Congress within the 60-day period provided by subsection (d)(1), appropriated funds may not be obligated for any major contract under the program.
 
-(2) The prohibition on the obligation of funds for a program under paragraph (1) shall cease to apply on the date on which Congress has received a report in compliance with the requirements of subsection (d)(2).
+(2) The prohibition on the obligation of funds for a program under paragraph (1) shall cease to apply on the date on which Congress has received a report under subsection (d)(1)(B).
 
-(Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2324; amended Pub. L. 110–417, \[div. A\], title VIII, §812(c), Oct. 14, 2008, 122 Stat. 4526; Pub. L. 111–23, title I, §101(d)(6), May 22, 2009, 123 Stat. 1710; Pub. L. 111–84, div. A, title VIII, §841(b), Oct. 28, 2009, 123 Stat. 2418; Pub. L. 112–81, div. A, title VIII, §811, Dec. 31, 2011, 125 Stat. 1491.)
+(Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2324; amended Pub. L. 110–417, \[div. A\], title VIII, §812(c), Oct. 14, 2008, 122 Stat. 4526; Pub. L. 111–23, title I, §101(d)(6), May 22, 2009, 123 Stat. 1710; Pub. L. 111–84, div. A, title VIII, §841(b), Oct. 28, 2009, 123 Stat. 2418; Pub. L. 112–81, div. A, title VIII, §811, Dec. 31, 2011, 125 Stat. 1491; Pub. L. 113–66, div. A, title X, §1092(b), (c), (d)(2), (e), Dec. 26, 2013, 127 Stat. 877, 878.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(2)(A). Pub. L. 112–81 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the automated information system or information technology investment failed to achieve a full deployment decision within five years after funds were first obligated for the program;”.
+<b>2013</b>—Subsec. (c)(2)(B). Pub. L. 113–66, §1092(d)(2)(A), substituted "total acquisition cost" for "program development cost".
 
-<b>2009</b>—Subsec. (d)(2)(A). Pub. L. 111–84 substituted “a full deployment decision” for “initial operational capability”.
+Subsec. (d)(1). Pub. L. 113–66, §1092(b)(1), substituted "paragraph (3)" for "paragraph (2)" in introductory provisions.
 
-Subsec. (f)(3). Pub. L. 111–23 substituted “have been determined, with the concurrence of the Director of Cost Assessment and Program Evaluation, to be reasonable” for “are reasonable”.
+Subsec. (d)(2). Pub. L. 113–66, §1092(b)(3), added par. (2). Former par. (2) redesignated (3).
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–417, §812(c)(1), inserted “or other major information technology investment program” after “major automated information system program” and “or information technology investment” after “the major automated information system”.
+Subsec. (d)(3). Pub. L. 113–66, §1092(b)(2), (d)(2)(B), redesignated par. (2) as (3) and substituted "total acquisition cost" for "program development cost" in subpar. (C).
 
-Subsec. (b). Pub. L. 110–417, §812(c)(2), inserted “or other major information technology investment program” after “major automated information system program” in introductory provisions and “or information technology investment” after “automated information system” in pars. (1) and (2).
+Subsec. (g)(1). Pub. L. 113–66, §1092(c), substituted "subsection (d)(3)" for "subsection (d)(2)".
 
-Subsec. (d)(1), (2). Pub. L. 110–417, §812(c)(3)(A), inserted “or other major information technology investment program” after “major automated information system program” in introductory provisions.
+Subsec. (g)(2). Pub. L. 113–66, §1092(e), substituted "under subsection (d)(1)(B)" for "in compliance with the requirements of subsection (d)(2)".
 
-Subsec. (d)(2)(A). Pub. L. 110–417, §812(c)(3)(B)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “the system failed to achieve initial operational capability within five years of milestone A approval;”.
+<b>2011</b>—Subsec. (d)(2)(A). Pub. L. 112–81 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the automated information system or information technology investment failed to achieve afull deployment decision within five years after funds were first obligated for the program;".
 
-Subsec. (d)(2)(B), (C). Pub. L. 110–417, §812(c)(3)(B)(ii), (iii), inserted “or section 2445b(d) of this title, as applicable” before semicolon at end.
+<b>2009</b>—Subsec. (d)(2)(A). Pub. L. 111–84 substituted "a full deployment decision" for "initial operational capability".
 
-Subsec. (d)(2)(D). Pub. L. 110–417, §812(c)(3)(B)(iv), inserted “or major information technology investment” after “major automated information system” and “or section 2445b(d) of this title, as applicable” before period at end.
+Subsec. (f)(3). Pub. L. 111–23 substituted "have been determined, with the concurrence of the Director of Cost Assessment and Program Evaluation, to be reasonable" for "are reasonable".
 
-Subsec. (e). Pub. L. 110–417, §812(c)(4), inserted “or other major information technology investment program” after “major automated information system program” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–417, §812(c)(1), inserted "or other major information technology investment program" after "major automated information system program" and "or information technology investment" after "the major automated information system".
 
-Subsec. (f). Pub. L. 110–417, §812(c)(5)(A), inserted “or other major information technology investment program” after “major automated information system program” in introductory provisions.
+Subsec. (b). Pub. L. 110–417, §812(c)(2), inserted "or other major information technology investment program" after "major automated information system program" in introductory provisions and "or information technology investment" after "automated information system" in pars. (1) and (2).
 
-Subsec. (f)(1). Pub. L. 110–417, §812(c)(5)(B), inserted “or information technology investment” after “automated information system”.
+Subsec. (d)(1), (2). Pub. L. 110–417, §812(c)(3)(A), inserted "or other major information technology investment program" after "major automated information system program" in introductory provisions.
 
-Subsec. (f)(2). Pub. L. 110–417, §812(c)(5)(C), inserted “or information technology investment” after “the system”.
+Subsec. (d)(2)(A). Pub. L. 110–417, §812(c)(3)(B)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: "the system failed to achieve initial operational capability within five years of milestone A approval;".
 
-Subsec. (f)(3). Pub. L. 110–417, §812(c)(5)(D), inserted “or information technology investment, as applicable,” after “the program and system”.
+Subsec. (d)(2)(B), (C). Pub. L. 110–417, §812(c)(3)(B)(ii), (iii), inserted "or section 2445b(d) of this title, as applicable" before semicolon at end.
+
+Subsec. (d)(2)(D). Pub. L. 110–417, §812(c)(3)(B)(iv), inserted "or major information technology investment" after "major automated information system" and "or section 2445b(d) of this title, as applicable" before period at end.
+
+Subsec. (e). Pub. L. 110–417, §812(c)(4), inserted "or other major information technology investment program" after "major automated information system program" in introductory provisions.
+
+Subsec. (f). Pub. L. 110–417, §812(c)(5)(A), inserted "or other major information technology investment program" after "major automated information system program" in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 110–417, §812(c)(5)(B), inserted "or information technology investment" after "automated information system".
+
+Subsec. (f)(2). Pub. L. 110–417, §812(c)(5)(C), inserted "or information technology investment" after "the system".
+
+Subsec. (f)(3). Pub. L. 110–417, §812(c)(5)(D), inserted "or information technology investment, as applicable," after "the program and system".
 

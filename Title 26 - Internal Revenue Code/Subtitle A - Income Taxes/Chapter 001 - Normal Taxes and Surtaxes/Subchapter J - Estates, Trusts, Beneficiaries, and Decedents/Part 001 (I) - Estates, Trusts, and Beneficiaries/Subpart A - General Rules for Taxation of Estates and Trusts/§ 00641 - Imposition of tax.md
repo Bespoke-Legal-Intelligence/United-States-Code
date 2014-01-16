@@ -64,7 +64,7 @@ The taxable income of an estate or trust shall be computed in the same manner as
 
 #### (5) Electing small business trust
 
-&emsp;For purposes of this subsection, the term “electing small business trust” has the meaning given such term by section 1361(e)(1).
+&emsp;For purposes of this subsection, the term "electing small business trust" has the meaning given such term by section 1361(e)(1).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 215; Pub. L. 91–172, title VIII, §803(d)(3), Dec. 30, 1969, 83 Stat. 684; Pub. L. 94–455, title VII, §701(e)(2), Oct. 4, 1976, 90 Stat. 1579; Pub. L. 95–30, title I, §101(d)(8), May 23, 1977, 91 Stat. 134; Pub. L. 104–188, title I, §1302(d), Aug. 20, 1996, 110 Stat. 1778; Pub. L. 105–34, title XVI, §1601(i)(3)(B), Aug. 5, 1997, 111 Stat. 1093; Pub. L. 105–206, title VI, §6007(f)(2), July 22, 1998, 112 Stat. 810; Pub. L. 110–28, title VIII, §8236(a), May 25, 2007, 121 Stat. 199.)
 
@@ -74,29 +74,29 @@ The taxable income of an estate or trust shall be computed in the same manner as
 
 <b>1998</b>—Subsecs. (c), (d). Pub. L. 105–206 redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows:
 
-“(1)
+"(1)
 
 General rule.—For purposes of this part, the taxable income of a trust does not include the amount of any includible gain as defined in section 644(b) reduced by any deductions properly allocable thereto.
 
-“(2)
+"(2)
 
 Cross reference.—
 
-<b>“For the taxation of any includible gain, see section 644.”</b>
+<b>"For the taxation of any includible gain, see section 644."</b>
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–34 inserted at end “For purposes of this subsection, a foreign trust or foreign estate shall be treated as a nonresident alien individual who is not present in the United States at any time.”
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 inserted at end "For purposes of this subsection, a foreign trust or foreign estate shall be treated as a nonresident alien individual who is not present in the United States at any time."
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–188 added subsec. (d).
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–30 substituted “section 1(e)” for “section 1(d)” in introductory provisions.
+<b>1977</b>—Subsec. (a). Pub. L. 95–30 substituted "section 1(e)" for "section 1(d)" in introductory provisions.
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–455 added subsec. (c).
 
-<b>1969</b>—Subsec. (a). Pub. L. 91–172 substituted “The tax imposed by section 1(d)” for “The taxes imposed by this chapter on individuals”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172 substituted "The tax imposed by section 1(d)" for "The taxes imposed by this chapter on individuals".
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–28, title VIII, §8236(b), May 25, 2007, 121 Stat. 199, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
+Pub. L. 110–28, title VIII, §8236(b), May 25, 2007, 121 Stat. 199, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006."
 
 #### Effective Date of 1998 Amendment
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1317(a), Aug. 20, 1996, 110 Stat. 1787, provided that: “Except as otherwise provided in this subtitle \[subtitle C (§§1301–1317) of title I of Pub. L. 104–188\], the amendments made by this subtitle \[amending this section and sections 170, 404, 512, 1042, 1237, 1361, 1362, 1366 to 1368, 1371, 1375, 1377, 1504, 6037, and 6233 of this title and repealing sections 6241 to 6245 of this title\] shall apply to taxable years beginning after December 31, 1996.”
+Pub. L. 104–188, title I, §1317(a), Aug. 20, 1996, 110 Stat. 1787, provided that: "Except as otherwise provided in this subtitle \[subtitle C (§§1301–1317) of title I of Pub. L. 104–188\], the amendments made by this subtitle \[amending this section and sections 170, 404, 512, 1042, 1237, 1361, 1362, 1366 to 1368, 1371, 1375, 1377, 1504, 6037, and 6233 of this title and repealing sections 6241 to 6245 of this title\] shall apply to taxable years beginning after December 31, 1996."
 
 #### Effective Date of 1977 Amendment
 

@@ -26,51 +26,51 @@ A prior section 2201 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 Pub. L. 107–273, div. C, title I, §11011, Nov. 2, 2002, 116 Stat. 1823, provided that:
 
-“(a)
+"(a)
 
-Study.—The Attorney General shall commission a study of offenders, or a sampling of such offenders, with mental illness released from prison or jail in 2 or more jurisdictions, including at least 1 State or local and 1 Federal, to determine the extent to which participation in public benefit programs correlates with successful reentry and improved public safety.
+Study.—The Attorney General shall commission a study of offenders, or a sampling of such offenders,with mental illness released from prison or jail in 2 or more jurisdictions, including at least 1 State or local and 1 Federal, to determine the extent to which participation in public benefit programs correlates with successful reentry and improved public safety.
 
-“(b)
+"(b)
 
 Report.—Not later than 2 years after the date of enactment of this Act \[Nov. 2, 2002\], the Attorney General shall submit to the Committees on the Judiciary of the Senate and the House of Representatives—
 
-&emsp;“(1) a report detailing the results of the study conducted under subsection (a) with findings that address—
+&emsp;"(1) a report detailing the results of the study conducted under subsection (a) with findings that address—
 
-&emsp;&emsp;“(A) the number of offenders with mental illness released from the prison or jail who qualify for medicaid, SSI, or SSDI;
+&emsp;&emsp;"(A) the number of offenders with mental illness released from the prison or jail who qualify for medicaid, SSI, or SSDI;
 
-&emsp;&emsp;“(B) the number of offenders with mental illness who qualify for medicaid, SSI, or SSDI benefits and who are enrolled in these programs upon release from prison or jail; and
+&emsp;&emsp;"(B) the number of offenders with mental illness who qualify for medicaid, SSI, or SSDI benefits and who are enrolled in these programs upon release from prison or jail; and
 
-&emsp;&emsp;“(C) how enrollment in medicaid, SSI, or SSDI affects—
+&emsp;&emsp;"(C) how enrollment in medicaid, SSI, or SSDI affects—
 
-&emsp;&emsp;&emsp;“(i) rearrest;
+&emsp;&emsp;&emsp;"(i) rearrest;
 
-&emsp;&emsp;&emsp;“(ii) violation of condition(s) of release;
+&emsp;&emsp;&emsp;"(ii) violation of condition(s) of release;
 
-&emsp;&emsp;&emsp;“(iii) reincarceration;
+&emsp;&emsp;&emsp;"(iii) reincarceration;
 
-&emsp;&emsp;&emsp;“(iv) rehospitalization;
+&emsp;&emsp;&emsp;"(iv) rehospitalization;
 
-&emsp;&emsp;&emsp;“(v) the length of time upon release from prison or jail time to the first contact with a mental health or substance abuse service; and
+&emsp;&emsp;&emsp;"(v) the length of time upon release from prison or jail time to the first contact with a mental health or substance abuse service; and
 
-&emsp;&emsp;&emsp;“(vi) the number of contacts with a mental health or substance abuse services \[service\] within the first 90 days of release; and
+&emsp;&emsp;&emsp;"(vi) the number of contacts with a mental health or substance abuse services \[service\] within the first 90 days of release; and
 
-&emsp;“(2) any recommendations.
+&emsp;"(2) any recommendations.
 
-“(c)
+"(c)
 
-Authorization of Appropriations.—There are authorized such sums as necessary to conduct the study and issue the report required by this section.”
+Authorization of Appropriations.—There are authorized such sums as necessary to conduct the study and issue the report required by this section."
 
 #### Findings
 
-Pub. L. 106–515, §2, Nov. 13, 2000, 114 Stat. 2399, provided that: “Congress finds that—
+Pub. L. 106–515, §2, Nov. 13, 2000, 114 Stat. 2399, provided that: "Congress finds that—
 
-&emsp;“(1) fully 16 percent of all inmates in State prisons and local jails suffer from mental illness, according to a July, 1999 report, conducted by the Bureau of Justice Statistics;
+&emsp;"(1) fully 16 percent of all inmates in State prisons and local jails suffer from mental illness, according to a July, 1999 report, conducted by the Bureau of Justice Statistics;
 
-&emsp;“(2) between 600,000 and 700,000 mentally ill persons are annually booked in jail alone, according to the American Jail Association;
+&emsp;"(2) between 600,000 and 700,000 mentally ill persons are annually booked in jail alone, according to the American Jail Association;
 
-&emsp;“(3) estimates say 25 to 40 percent of America's mentally ill will come into contact with the criminal justice system, according to National Alliance for the Mentally Ill;
+&emsp;"(3) estimates say 25 to 40 percent of America's mentally ill will come into contact with the criminal justice system, according to National Alliance for the Mentally Ill;
 
-&emsp;“(4) 75 percent of mentally ill inmates have been sentenced to time in prison or jail or probation at least once prior to their current sentence, according to the Bureau of Justice Statistics in July, 1999; and
+&emsp;"(4) 75 percent of mentally ill inmates have been sentenced to time in prison or jail or probation at least once prior to their current sentence, according to the Bureau of Justice Statistics in July, 1999; and
 
-&emsp;“(5) Broward County, Florida and King County, Washington, have created separate Mental Health Courts to place nonviolent mentally ill offenders into judicially monitored inpatient and outpatient mental health treatment programs, where appropriate, with positive results.”
+&emsp;"(5) Broward County, Florida and King County, Washington, have created separate Mental Health Courts to place nonviolent mentally ill offenders into judicially monitored inpatient and outpatient mental health treatment programs, where appropriate, with positive results."
 

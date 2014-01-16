@@ -12,13 +12,13 @@
 
 #### (3) Definition
 
-&emsp;In this subsection, the term “Pain Consortium” means the Pain Consortium of the National Institutes of Health or a similar trans-National Institutes of Health coordinating entity designated by the Secretary for purposes of this subsection.
+&emsp;In this subsection, the term "Pain Consortium" means the Pain Consortium of the National Institutes of Health or a similar trans-National Institutes of Health coordinating entity designated by the Secretary for purposes of this subsection.
 
 #### (b) Interagency Pain Research Coordinating Committee
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish not later than 1 year after March 23, 2010, and as necessary maintain a committee, to be known as the Interagency Pain Research Coordinating Committee (in this section referred to as the “Committee”), to coordinate all efforts within the Department of Health and Human Services and other Federal agencies that relate to pain research.
+&emsp;The Secretary shall establish not later than 1 year after March 23, 2010, and as necessary maintain a committee, to be known as the Interagency Pain Research Coordinating Committee (in this section referred to as the "Committee"), to coordinate all efforts within the Department of Health and Human Services and other Federal agencies that relate to pain research.
 
 #### (2) Membership
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;The Committee shall be composed of the following voting members:
 
-&emsp;&emsp;&emsp;(i) Not more than 7 voting Federal representatives appoint <sup>1</sup> by the Secretaryfrom agencies that conduct pain care research and treatment.
+&emsp;&emsp;&emsp;(i) Not more than 7 voting Federal representatives appoint <sup>1</sup> by the Secretary from agencies that conduct pain care research and treatment.
 
 &emsp;&emsp;&emsp;(ii) 12 additional voting members appointed under subparagraph (B).
 
@@ -54,7 +54,7 @@
 
 &emsp;The Committee shall—
 
-&emsp;&emsp;(A) develop a summary of advances in pain care research supported or conducted by the Federal agencies relevant to the diagnosis, prevention, and treatment of pain and diseases and disorders associated with pain;
+&emsp;&emsp;(A) develop a summary of advances in pain care research supported or conducted by theFederal agencies relevant to the diagnosis, prevention, and treatment of pain and diseases and disorders associated with pain;
 
 &emsp;&emsp;(B) identify critical gaps in basic and clinical research on the symptoms and causes of pain;
 
@@ -70,5 +70,5 @@
 
 (July 1, 1944, ch. 373, title IV, §409J, as added Pub. L. 111–148, title IV, §4305(b), Mar. 23, 2010, 124 Stat. 585.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “appointed”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "appointed".</i>
 

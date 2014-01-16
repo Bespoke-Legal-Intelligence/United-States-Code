@@ -46,13 +46,13 @@ Pub. L. 109–243, July 24, 2006, 120 Stat. 572, provided that:
 
 &emsp;&emsp;“(A) as used with respect to a condominium association, means an owner of a condominium unit (as defined under section 604 of Public Law 96–399 (15 U.S.C. 3603)) within such association;
 
-&emsp;&emsp;“(B) as used with respect to a cooperative association, means a cooperative unit owner (as defined under section 604 of Public Law 96–399 (15 U.S.C. 3603)) within such association; and
+&emsp;&emsp;“(B) as used with respect to a cooperative association, means a cooperative unit owner (as definedunder section 604 of Public Law 96–399 (15 U.S.C. 3603)) within such association; and
 
 &emsp;&emsp;“(C) as used with respect to a residential real estate management association, means an owner of a residential property within a subdivision, development, or similar area subject to any policy or restriction adopted by such association.
 
 #### “SEC. 3. RIGHT TO DISPLAY THE FLAG OF THE UNITED STATES.
 
-“A condominium association, cooperative association, or residential real estate management associationmay not adopt or enforce any policy, or enter into any agreement, that would restrict or prevent a member of the association from displaying the flag of the United States on residential property within the association with respect to which such member has a separate ownership interest or a right to exclusive possession or use.
+“A condominium association, cooperative association, or residential real estate management association may not adopt or enforce any policy, or enter into any agreement, that would restrict or prevent a member of the association from displaying the flag of the United States on residential property within the association with respect to which such member has a separate ownership interest or a right to exclusive possession or use.
 
 #### “SEC. 4. LIMITATIONS.
 

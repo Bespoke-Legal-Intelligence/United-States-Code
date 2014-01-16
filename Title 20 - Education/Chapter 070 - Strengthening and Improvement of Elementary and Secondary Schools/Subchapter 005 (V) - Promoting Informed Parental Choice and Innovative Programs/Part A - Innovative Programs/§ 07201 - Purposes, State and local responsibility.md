@@ -36,13 +36,13 @@ Section 7203, Pub. L. 89–10, title V, §5103, as added Pub. L. 103–382, titl
 
 A prior section 5103 of Pub. L. 89–10 was classified to section 3173 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
-Section 7204, Pub. L. 89–10, title V, §5104, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3691, defined “magnet school”. See section 7231a of this title.
+Section 7204, Pub. L. 89–10, title V, §5104, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3691, defined "magnet school". See section 7231a of this title.
 
 Section 7205, Pub. L. 89–10, title V, §5105, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3692, related to eligibility for assistance. See section 7231c of this title.
 
 Section 7206, Pub. L. 89–10, title V, §5106, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3692, related to applications and requirements. See section 7231d of this title.
 
-Section 7207, Pub. L. 89–10, title V, §5107, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3693,related to priority in approving applications. See section 7231e of this title.
+Section 7207, Pub. L. 89–10, title V, §5107, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3693, related to priority in approving applications. See section 7231e of this title.
 
 Section 7208, Pub. L. 89–10, title V, §5108, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3693, related to use of funds. See section 7231f of this title.
 

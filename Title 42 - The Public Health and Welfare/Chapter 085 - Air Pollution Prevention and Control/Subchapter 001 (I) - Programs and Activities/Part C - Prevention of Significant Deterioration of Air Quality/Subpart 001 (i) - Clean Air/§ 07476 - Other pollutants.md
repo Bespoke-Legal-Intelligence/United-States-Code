@@ -14,7 +14,7 @@ Such regulations shall provide specific numerical measures against which permit 
 
 #### (d) Specific measures to fulfill goals and purposes
 
-The regulations of the Administrator under subsection (a) of this section shall provide specific measures at least as effective as the increments established in section 7473 of this title to fulfill such goals and purposes, and may containair quality increments, emission density requirements, or other measures.
+The regulations of the Administrator under subsection (a) of this section shall provide specific measures at least as effective as the increments established in section 7473 of this title to fulfill such goals and purposes, and may contain air quality increments, emission density requirements, or other measures.
 
 #### (e) Area classification plan not required
 
@@ -30,5 +30,5 @@ The Administrator is authorized to substitute, for the maximum allowable increas
 
 <b>1990</b>—Subsec. (f). Pub. L. 101–549 added subsec. (f).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

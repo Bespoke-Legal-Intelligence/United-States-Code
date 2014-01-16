@@ -122,7 +122,7 @@
 
 &emsp;&emsp;(F) financial management systems under the Federal Financial Management Improvement Act (31 U.S.C. 3512 note); and
 
-&emsp;&emsp;(G) internal accounting and administrative controls under section 3512 of title 31, United States Code,<sup>3</sup> (known as the “Federal Managers Financial Integrity Act”); and
+&emsp;&emsp;(G) internal accounting and administrative controls under section 3512 of title 31, United States Code,<sup>3</sup> (known as the "Federal Managers Financial Integrity Act"); and
 
 &emsp;(3) report any significant deficiency in a policy, procedure, or practice identified under paragraph (1) or (2)—
 
@@ -152,7 +152,7 @@
 
 The Chief Financial Officers Act of 1990, referred to in subsec. (c)(2)(E), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 
-The Federal Financial Management Improvement Act, referred to in subsec. (c)(2)(F), (3)(B), probably means the Federal Financial Management Improvement Act of 1996, Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under section 3512 of Title 31, Money and Finance. For complete classification of this Act to the Code, see Tables.
+The Federal Financial Management Improvement Act, referred to in subsec. (c)(2)(F), (3)(B), probablymeans the Federal Financial Management Improvement Act of 1996, Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under section 3512 of Title 31, Money and Finance. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -160,13 +160,13 @@ A prior section 3534, added Pub. L. 106–398, §1 \[\[div. A\], title X, §1061
 
 #### Change of Name
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6,One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “I”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "I".</i>
 
 <i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

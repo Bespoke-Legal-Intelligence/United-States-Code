@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In addition to any other authority that the Secretary may have to defer principal and interest and forego foreclosure, the Secretary may permit, at the request of the borrower, the deferral of principal and interest on any outstanding loan made, insured, or held by the Secretary under this chapter, or under the provisions of any other law administered by the Farmers Home Administration or by the Rural Development Administration, and may forego foreclosure of any such loan, for such period as the Secretary deems necessary upon a showing by the borrower that due to circumstances beyond the borrower's control, the borrower is temporarily unable to continue making payments of such principal and interest when due without unduly impairing the standard of living of the borrower. The Secretary may permit interest that accrues during the deferral period on any loan deferred under this section to bear no interest during or after such period: <i>Provided</i>, That if the security instrument securing such loan is foreclosed such interest as is included in the purchase price at such foreclosure shall become part of the principal and draw interest from the date of foreclosure at the rate prescribed by law.
+In addition to any other authority that the Secretary may have to defer principal and interest and forego foreclosure, the Secretary may permit, at the request of the borrower, the deferral of principal and interest on any outstanding loan made, insured, or held by the Secretary under this chapter, or under the provisions of any other law administered by the Farmers Home Administration or by the Rural Development Administration, and may forego foreclosure of any such loan, for such period as the Secretary deems necessary upon a showing by the borrower that due to circumstances beyond the borrower's control, the borrower is temporarily unable to continue making payments of such principal and interest when due withoutunduly impairing the standard of living of the borrower. The Secretary may permit interest that accrues during the deferral period on any loan deferred under this section to bear no interest during or after such period: <i>Provided</i>, That if the security instrument securing such loan is foreclosed such interest as is included in the purchase price at such foreclosure shall become part of the principal and draw interest from the date of foreclosure at the rate prescribed by law.
 
 #### (b) Moratorium
 
@@ -34,13 +34,13 @@ In addition to any other authority that the Secretary may have to defer principa
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsec. (a), see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in subsec. (a), see note set out under section 1921 of this title.
 
 The date of the enactment of this subsection, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -68,7 +68,7 @@ Pub. L. 97–370, title II, Dec. 18, 1982, 96 Stat. 1800.
 
 <b>2008</b>—Pub. L. 110–246, §14002(a), designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1990</b>—Pub. L. 101–624 inserted “or by the Rural Development Administration” after “Farmers Home Administration”.
+<b>1990</b>—Pub. L. 101–624 inserted "or by the Rural Development Administration" after "Farmers Home Administration".
 
 #### Effective Date of 2008 Amendment
 
@@ -76,11 +76,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Forbearance and Restructuring for Farm Loans
 
-Pub. L. 100–387, title III, §313(a), Aug. 11, 1988, 102 Stat. 949, provided that: “It is the sense of Congress that the Secretary of Agriculture should, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
+Pub. L. 100–387, title III, §313(a), Aug. 11, 1988, 102 Stat. 949, provided that: "It is the sense of Congress that the Secretary of Agriculture should, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
 
-&emsp;“(1) exercise forbearance in the collection of interest and principal on direct farmer program loans under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\] outstanding for such farmers and ranchers;
+&emsp;"(1) exercise forbearance in the collection of interest and principal on direct farmer program loans under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\] outstanding for such farmers and ranchers;
 
-&emsp;“(2) expedite the use of credit restructuring and other credit relief mechanisms authorized under the Agricultural Credit Act of 1987 \[Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, see Tables for classification\] and similar provisions of law for such farmers and ranchers; and
+&emsp;"(2) expedite the use of credit restructuring and other credit relief mechanisms authorized under the Agricultural Credit Act of 1987 \[Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, see Tables for classification\] and similar provisions of law for such farmers and ranchers; and
 
-&emsp;“(3) encourage commercial lenders participating in guaranteed farmer lending programs under the Consolidated Farm and Rural Development Act to exercise forbearance before declaring loans to such farmers and ranchers under such programs in default.”
+&emsp;"(3) encourage commercial lenders participating in guaranteed farmer lending programs under the Consolidated Farm and Rural Development Act to exercise forbearance before declaring loans to such farmers and ranchers under such programs in default."
 

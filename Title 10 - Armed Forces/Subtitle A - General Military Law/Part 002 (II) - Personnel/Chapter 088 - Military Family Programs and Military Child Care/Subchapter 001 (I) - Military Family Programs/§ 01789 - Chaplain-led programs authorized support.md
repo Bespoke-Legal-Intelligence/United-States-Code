@@ -10,7 +10,7 @@ Authorized Support Services.—The support services referred to in subsection (a
 
 (c)
 
-Immediate Family Members.—In this section, the term “immediate family members”, with respect to a member of the armed forces, means—
+Immediate Family Members.—In this section, the term "immediate family members",with respect to a member of the armed forces, means—
 
 &emsp;(1) the member's spouse; and
 
@@ -20,5 +20,5 @@ Immediate Family Members.—In this section, the term “immediate family member
 
 #### Effective Date
 
-Pub. L. 108–136, div. A, title V, §582(b), Nov. 24, 2003, 117 Stat. 1490, provided that: “Section 1789 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2003.”
+Pub. L. 108–136, div. A, title V, §582(b), Nov. 24, 2003, 117 Stat. 1490, provided that: "Section 1789 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2003."
 

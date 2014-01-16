@@ -10,17 +10,17 @@ Provisions covering the termination date for agreements to finance sales under s
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246 substituted “2012” for “2007”.
+<b>2008</b>—Pub. L. 110–246 substituted "2012" for "2007".
 
-<b>2002</b>—Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Pub. L. 107–171 substituted "2007" for "2002".
 
-<b>1996</b>—Pub. L. 104–127 substituted “2002” for “1995”.
+<b>1996</b>—Pub. L. 104–127 substituted "2002" for "1995".
 
-<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to Presidential reports to Congress concerning activities carried out under this chapter, a global assessment offood production and needs and planned programming of food assistance, and a comparative cross-country evaluation of programs conducted under portions of this chapter, provisions requiring the Secretary to issue revised regulations governing operations of subchapter II of this chapter, and provisions relating to the delivery of bagged commodities.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to Presidential reports to Congress concerning activities carried out under this chapter, a global assessment of food production and needs and planned programming of food assistance, and a comparative cross-country evaluation of programs conducted under portions of this chapter, provisions requiring the Secretary to issue revised regulations governing operations of subchapter II of this chapter, and provisions relating to the delivery of bagged commodities.
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–83 inserted reference to subchapter III in two places.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–98 substituted “February 15” for “April 1”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–98 substituted "February 15" for "April 1".
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–470 struck out requirement that the President submit a report not later than March 31 of each year.
 
@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 95–88 substituted provisions that, beginning Oct. 1, 1978
 
 Subsecs. (d), (e). Pub. L. 95–113 added subsecs. (d) and (e).
 
-<b>1975</b>—Pub. L. 94–161 designated existing provisions as subsec. (a), substituted “fiscal” for “calendar” in first sentence, and added subsecs. (b) and (c).
+<b>1975</b>—Pub. L. 94–161 designated existing provisions as subsec. (a), substituted "fiscal" for "calendar" in first sentence, and added subsecs. (b) and (c).
 
 #### Effective Date of 2008 Amendment
 

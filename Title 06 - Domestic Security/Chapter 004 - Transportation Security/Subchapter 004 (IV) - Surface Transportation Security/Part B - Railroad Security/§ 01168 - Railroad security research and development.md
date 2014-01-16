@@ -76,7 +76,7 @@ The Secretary—
 
 #### (1) In general
 
-&emsp;Out of funds appropriated pursuant to section 114(w) of title 49, there shall be madeavailable to the Secretary to carry out this section—
+&emsp;Out of funds appropriated pursuant to section 114(w) of title 49, there shall be made available to the Secretary to carry out this section—
 
 &emsp;&emsp;(A) $33,000,000 for fiscal year 2008;
 

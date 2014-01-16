@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Dec. 18, 1991, Pub. L. 102–240, §4008(f), 105 Stat. 2154.
 
-The words “a State that is not participating in the International Registration Plan may not” are substituted for “no State (other than a State which is participating in the International Registration Plan) shall” for consistency in the revised title and to eliminate unnecessary words.
+The words "a State that is not participating in the International Registration Plan may not" are substituted for "no State (other than a State which is participating in the International Registration Plan) shall" for consistency in the revised title and to eliminate unnecessary words.
 

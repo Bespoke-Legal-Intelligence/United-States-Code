@@ -12,7 +12,7 @@ Any medical officer of the Regular Corps of the Public Health Service who—
 
 #### References in Text
 
-For “the effective date of this section”, referred to in text, see section 7 of act Apr. 30, 1956, which provided in part that this section shall become effective the first day of the month following the day of enactment, Apr. 30, 1956.
+For "the effective date of this section", referred to in text, see section 7 of act Apr. 30, 1956, which provided in part that this section shall become effective the first day of the month following the day of enactment, Apr. 30, 1956.
 
 #### Transfer of Functions
 

@@ -10,7 +10,7 @@ The Council shall include in the report submitted under subsection (a) of this s
 
 &emsp;(1) identification of potential sources of Federal funding from department and agency budgets for Sematech and recommendations concerning methods and terms of Federal financial participation in Sematech, including grants, loans, loan guarantees, and contributions in kind. The feasibility of methods of Federal recoupment shall also be considered;
 
-&emsp;(2) definition and assessment of continued Federal participation in Sematech including, but not limited to, issues of technology research and development, civilian and defense industrial base objectives and initiatives, andcommercialization. The report shall include a summary of the most recent plans, milestones, and cost estimates for Sematech, including any changes and alterations, and shall comment on Sematech's accomplishments and shortfalls in the preceding fiscal year;
+&emsp;(2) definition and assessment of continued Federal participation in Sematech including, but not limited to, issues of technology research and development, civilian and defense industrial base objectives and initiatives, and commercialization. The report shall include a summary of the most recent plans, milestones, and cost estimates for Sematech, including any changes and alterations, and shall comment on Sematech's accomplishments and shortfalls in the preceding fiscal year;
 
 &emsp;(3) coordination of inter-agency participation, including all matters pertaining to Federal funding and decisionmaking, and other issues regarding Federal participation in Sematech; and
 
@@ -24,9 +24,9 @@ Section was enacted as part of the Omnibus Trade and Competitiveness Act of 1988
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–160 substituted “Semiconductor Technology Council” for “Advisory Council on Federal Participation in Sematech” in section catchline and subsec. (a).
+<b>1993</b>—Pub. L. 103–160 substituted "Semiconductor Technology Council" for "Advisory Council on Federal Participation in Sematech" in section catchline and subsec. (a).
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–245 substituted “Technology” for “Economic Affairs”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–245 substituted "Technology" for "Economic Affairs".
 
 #### Change of Name
 

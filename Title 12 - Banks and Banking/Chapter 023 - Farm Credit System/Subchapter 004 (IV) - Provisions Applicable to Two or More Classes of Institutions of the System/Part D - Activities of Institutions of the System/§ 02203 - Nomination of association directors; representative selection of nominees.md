@@ -6,7 +6,7 @@ Each production credit association and each Federal land bank association shall 
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–399 substituted “bank directors” for “district directors” and “bank board” for “district board”.
+<b>1988</b>—Pub. L. 100–399 substituted "bank directors" for "district directors" and "bank board" for "district board".
 
 #### Effective Date of 1988 Amendment
 

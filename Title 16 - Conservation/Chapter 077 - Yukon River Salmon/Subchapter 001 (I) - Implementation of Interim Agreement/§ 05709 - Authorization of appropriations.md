@@ -12,5 +12,5 @@ There are authorized to be appropriated $4,000,000 for each fiscal year for carr
 
 (Pub. L. 104–43, title VII, §710, Nov. 3, 1995, 109 Stat. 395.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “262b”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "262b".</i>
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Golden parachute payment
 
-&emsp;The term “golden parachute payment”—
+&emsp;The term "golden parachute payment"—
 
 &emsp;&emsp;(A) means a payment (or any agreement to make a payment) in the nature of compensation for the benefit of any institution-related party under an obligation of any Farm Credit System institution that—
 
@@ -34,7 +34,7 @@ In this section:
 
 #### (2) Indemnification payment
 
-&emsp;The term “indemnification payment” means a payment (or any agreement to make a payment) by any Farm Credit System institution for the benefit of any person who is or was an institution-related party, to pay or reimburse the person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Farm Credit Administration that results in a final order under which the person—
+&emsp;The term "indemnification payment" means a payment (or any agreement to make a payment) by any Farm Credit System institution for the benefit of any person who is or was an institution-related party, to pay or reimburse the person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Farm Credit Administration that results in a final order under which the person—
 
 &emsp;&emsp;(A) is assessed a civil money penalty; or
 
@@ -42,17 +42,17 @@ In this section:
 
 #### (3) Institution-related party
 
-&emsp;The term “institution-related party” means—
+&emsp;The term "institution-related party" means—
 
 &emsp;&emsp;(A) a director, officer, employee, or agent for a Farm Credit System institution or any conservator or receiver of such an institution;
 
 &emsp;&emsp;(B) a stockholder (other than another Farm Credit System institution), consultant, joint venture partner, or any other person determined by the Farm Credit Administration to be a participant in the conduct of the affairs of a Farm Credit System institution; and
 
-&emsp;&emsp;(C) an independent contractor (including any attorney, appraiser, or accountant) that knowingly or recklessly participates in any violation of any law or regulation, any breach of fiduciary duty, or any unsafe or unsound practice that caused or is likely to cause more than a minimal financial loss to, or a significant adverse effect on, the Farm Credit System institution.
+&emsp;&emsp;(C) an independent contractor (including any attorney, appraiser, or accountant) that knowingly or recklessly participates in any violation of any law or regulation, any breach of fiduciary duty, or any unsafe orunsound practice that caused or is likely to cause more than a minimal financial loss to, or a significant adverse effect on, the Farm Credit System institution.
 
 #### (4) Liability or legal expense
 
-&emsp;The term “liability or legal expense” means—
+&emsp;The term "liability or legal expense" means—
 
 &emsp;&emsp;(A) a legal or other professional expense incurred in connection with any claim, proceeding, or action;
 
@@ -62,7 +62,7 @@ In this section:
 
 #### (5) Payment
 
-&emsp;The term “payment” means—
+&emsp;The term "payment" means—
 
 &emsp;&emsp;(A) a direct or indirect transfer of any funds or any asset; and
 

@@ -30,7 +30,7 @@ The President may authorize the Department of Defense, with the assistance of th
 
 &emsp;(4) the development of compatible delivery systems for atomic weapons;
 
-> whenever the President determines that the proposed cooperation and the proposed communication of the Restricted Data will promote and will not constitute an unreasonable risk to the common defense and security, while such othernation or organization is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title.
+> whenever the President determines that the proposed cooperation and the proposed communication of the Restricted Data will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation or organization is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title.
 
 #### (c) Exchange of information concerning atomic weapons; research, development, or design, of military reactors
 
@@ -72,11 +72,11 @@ The President may authorize any agency of the United States to communicate in ac
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–337, §3155(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 103–337, §3155(c)(4), substituted “(c), or (d)” for “or (c)”.
+Subsec. (e). Pub. L. 103–337, §3155(c)(4), substituted "(c), or (d)" for "or (c)".
 
 Pub. L. 103–337, §3155(a)(1), redesignated subsec. (d) as (e).
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–479, §5, substituted “civilian reactor development” for “reactor development” in cl. (2).
+<b>1958</b>—Subsec. (a). Pub. L. 85–479, §5, substituted "civilian reactor development" for "reactor development" in cl. (2).
 
 Subsec. (b). Pub. L. 85–479, §6, authorized communication of design information, of data concerning other military applications of atomic energy necessary for the training of personnel or for the evaluation of the capabilities of potential enemies, and of data necessary to the development of compatible delivery systems for atomic weapons, and struck out provisions which prohibited communication of data which would reveal important information concerning the design or fabrication of the nuclear components of atomic weapons.
 

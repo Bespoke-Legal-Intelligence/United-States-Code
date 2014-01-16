@@ -40,7 +40,7 @@ Any person who—
 
 &emsp;(H) 50 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 500 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers.<sup>1</sup>
 
-> the person committing such violation shall be sentenced to a term of imprisonment of not less than 10 years and not more than life and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than 20 years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $10,000,000 if the defendant isan individual or $50,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not less than 20 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $20,000,000 if the defendant is an individual or $75,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18, any sentence under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 5 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 10 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this paragraph. No person sentenced under this paragraph shall be eligible for parole during the term of imprisonment imposed therein.
+> the person committing such violation shall be sentenced to a term of imprisonment of not less than 10 years and not more than life and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than 20 years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $10,000,000 if the defendant is an individual or $50,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not less than 20 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $20,000,000 if the defendant is an individual or $75,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18, any sentence under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 5 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 10 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this paragraph. No person sentenced under this paragraph shall be eligible for parole during the term of imprisonment imposed therein.
 
 (2) In the case of a violation of subsection (a) of this section involving—
 
@@ -70,7 +70,7 @@ Any person who—
 
 > the person committing such violat ion shall be sentenced to a term of imprisonment of not less than 5 years and not more than 40 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than twenty years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $5,000,000 if the defendant is an individual or $25,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not less than 10 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $8,000,000 if the defendant is an individual or $50,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18, any sentence imposed under this paragraph shall, in the absence of such a prior conviction, include a term of supervised release of at least 4 years in addition to such term of imprisonment and shall, if there was such a prior conviction, include a term of supervised release of at least 8 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this paragraph. No person sentenced under this paragraph shall be eligible for parole during the term of imprisonment imposed therein.
 
-(3) In the case of a violation under subsection (a) of this section involving a controlled substance in schedule I or II, gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000), or flunitrazepam, the person committing such violation shall, except as provided in paragraphs (1), (2), and (4), be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than twenty years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $1,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 30 years and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18, any sentence imposing a term of imprisonmentunder this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 6 years in addition to such term of imprisonment. Notwithstanding the prior sentence, and notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under the provisions of this paragraph which provide for a mandatory term of imprisonment if death or serious bodily injury results.
+(3) In the case of a violation under subsection (a) of this section involving a controlled substance in schedule I or II, gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000), or flunitrazepam, the person committing such violation shall, except as provided in paragraphs (1), (2), and (4), be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than twenty years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $1,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 30 years and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18, any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 6 years in addition to such term of imprisonment. Notwithstanding the prior sentence, and notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under the provisions of this paragraph which provide for a mandatory term of imprisonment if death or serious bodily injury results.
 
 (4) In the case of a violation under subsection (a) of this section with respect to less than 50 kilograms of marihuana, except in the case of 100 or more marihuana plants regardless of weight, less than 10 kilograms of hashish, or less than one kilogram of hashish oil, the person committing such violation shall be sentenced in accordance with section 841(b)(1)(D) of this title.
 
@@ -112,69 +112,69 @@ Section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Prohibit
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(1). Pub. L. 111–220, §4(b)(1), in concluding provisions, substituted “$10,000,000” for “$4,000,000”, “$50,000,000” for “$10,000,000”, “$20,000,000” for “$8,000,000”, and “$75,000,000” for “$20,000,000”.
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–220, §4(b)(1), in concluding provisions, substituted "$10,000,000" for "$4,000,000", "$50,000,000" for "$10,000,000", "$20,000,000" for "$8,000,000", and "$75,000,000" for "$20,000,000".
 
-Subsec. (b)(1)(C). Pub. L. 111–220, §2(b)(1), substituted “280 grams” for “50 grams”.
+Subsec. (b)(1)(C). Pub. L. 111–220, §2(b)(1), substituted "280 grams" for "50 grams".
 
-Subsec. (b)(2). Pub. L. 111–220, §4(b)(2), in concluding provisions, substituted “$5,000,000” for “$2,000,000”, “$25,000,000” for “$5,000,000”, “$8,000,000” for “$4,000,000”, and “$50,000,000” for “$10,000,000”.
+Subsec. (b)(2). Pub. L. 111–220, §4(b)(2), in concluding provisions, substituted "$5,000,000" for "$2,000,000", "$25,000,000" for "$5,000,000", "$8,000,000" for "$4,000,000", and "$50,000,000" for "$10,000,000".
 
-Subsec. (b)(2)(C). Pub. L. 111–220, §2(b)(2), substituted “28 grams” for “5 grams”.
+Subsec. (b)(2)(C). Pub. L. 111–220, §2(b)(2), substituted "28 grams" for "5 grams".
 
-<b>2008</b>—Subsec. (b)(3). Pub. L. 110–425, §3(i)(3), struck out before period at end “, nor shall a person so sentenced be eligible for parole during the term of such a sentence”.
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–425, §3(i)(3), struck out before period at end ", nor shall a person so sentenced be eligible for parole during the term of such a sentence".
 
-Subsec. (b)(4). Pub. L. 110–425, §3(i)(1), inserted “or” after “hashish,”, struck out “or any quantity of a controlled substance in schedule III, IV, or V, (except a violation involving flunitrazepam and except a violation involving gamma hydroxybutyric acid)” after “hashish oil,”, and substituted “sentenced in accordance with section 841(b)(1)(D) of this title” for “imprisoned not more than five years, or be fined not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual, or both. If a sentence under this paragraph provides for imprisonment, the sentence shall, notwithstanding section 3583 of title 18, in addition to such term of imprisonment, include (A) a term of supervised release of not less than two years if such controlled substance is in schedule I, II, III, or (B) a term of supervised release of not less than one year if such controlled substance is in schedule IV”.
+Subsec. (b)(4). Pub. L. 110–425, §3(i)(1), inserted "or" after "hashish,", struck out "or any quantity of a controlled substance in schedule III, IV, or V, (except a violation involving flunitrazepam and except a violation involving gamma hydroxybutyric acid)" after "hashish oil,", and substituted "sentenced in accordance with section 841(b)(1)(D) of this title" for "imprisoned not more than five years, or be fined not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual, or both. If a sentence under this paragraph provides for imprisonment, the sentence shall, notwithstanding section 3583 of title 18, in addition to such term of imprisonment, include (A) a term of supervised release of not less than two years if such controlled substance is in schedule I, II, III, or (B) a term of supervised release of not less than one year if such controlled substance is in schedule IV".
 
 Subsec. (b)(5) to (7). Pub. L. 110–425, §3(i)(2), added pars. (5) to (7).
 
-<b>2006</b>—Subsec. (d)(5). Pub. L. 109–177, §716(b)(1)(A), substituted “paragraph (2) or (3) of section 971(f) of this title” for “section 971(e)(2) or (3) of this title”.
+<b>2006</b>—Subsec. (d)(5). Pub. L. 109–177, §716(b)(1)(A), substituted "paragraph (2) or (3) of section 971(f) of this title" for "section 971(e)(2) or (3) of this title".
 
-Subsec. (d)(6). Pub. L. 109–177, §717, amended par. (6) generally. Prior to amendment, par. (6) read as follows: “imports or exports a listed chemical in violation of section 957 or 971 of this title; or”.
+Subsec. (d)(6). Pub. L. 109–177, §717, amended par. (6) generally. Prior to amendment, par. (6) read as follows: "imports or exports a listed chemical in violation of section 957 or 971 of this title; or".
 
-<b>2002</b>—Subsec. (b)(1), (2). Pub. L. 107–273, §3005(b)(1), substituted “Notwithstanding section 3583 of title 18, any sentence” for “Any sentence” in concluding provisions.
+<b>2002</b>—Subsec. (b)(1), (2). Pub. L. 107–273, §3005(b)(1), substituted "Notwithstanding section 3583 of title 18, any sentence" for "Any sentence" in concluding provisions.
 
-Subsec. (b)(3). Pub. L. 107–273, §3005(b)(1), substituted “Notwithstanding section 3583 of title 18, any sentence” for “Any sentence”.
+Subsec. (b)(3). Pub. L. 107–273, §3005(b)(1), substituted "Notwithstanding section 3583 of title 18, any sentence" for "Any sentence".
 
-Subsec. (b)(4). Pub. L. 107–273, §3005(b)(2), inserted “notwithstanding section 3583 of title 18,” before “in addition to such term of imprisonment”.
+Subsec. (b)(4). Pub. L. 107–273, §3005(b)(2), inserted "notwithstanding section 3583 of title 18," before "in addition to such term of imprisonment".
 
-<b>2000</b>—Subsec. (b)(3). Pub. L. 106–172, §3(b)(2)(A), inserted “gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000),” after “schedule I or II,” in first sentence.
+<b>2000</b>—Subsec. (b)(3). Pub. L. 106–172, §3(b)(2)(A), inserted "gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000)," after "schedule I or II," in first sentence.
 
-Subsec. (b)(4). Pub. L. 106–172, §3(b)(2)(B), substituted “flunitrazepam and except a violation involving gamma hydroxybutyric acid)” for “flunitrazepam)”.
+Subsec. (b)(4). Pub. L. 106–172, §3(b)(2)(B), substituted "flunitrazepam and except a violation involving gamma hydroxybutyric acid)" for "flunitrazepam)".
 
-<b>1998</b>—Subsec. (b)(1)(H). Pub. L. 105–277, §2(b)(1), substituted “50 grams” and “500 grams” for “100 grams” and “1 kilogram”, respectively.
+<b>1998</b>—Subsec. (b)(1)(H). Pub. L. 105–277, §2(b)(1), substituted "50 grams" and "500 grams" for "100 grams" and "1 kilogram", respectively.
 
-Subsec. (b)(2)(H). Pub. L. 105–277, §2(b)(2), substituted “5 grams” and “50 grams” for “10 grams” and “100 grams”, respectively.
+Subsec. (b)(2)(H). Pub. L. 105–277, §2(b)(2), substituted "5 grams" and "50 grams" for "10 grams" and "100 grams", respectively.
 
-<b>1996</b>—Subsec. (b)(3). Pub. L. 104–305, §2(b)(2)(B), inserted “or flunitrazepam,” after “schedule I or II,”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–305, §2(b)(2)(B), inserted "or flunitrazepam," after "schedule I or II,".
 
-Subsec. (b)(4). Pub. L. 104–305, §2(b)(2)(C), inserted “(except a violation involving flunitrazepam)” after “schedule III, IV, or V,”.
+Subsec. (b)(4). Pub. L. 104–305, §2(b)(2)(C), inserted "(except a violation involving flunitrazepam)" after "schedule III, IV, or V,".
 
-Subsec. (d). Pub. L. 104–237, §302(b), in closing provisions, substituted “not more than 20 years in the case of a violation of paragraph (1) or (3) involving a list I chemical or not more than 10 years in the case of a violation of this subsection other than a violation of paragraph (1) or (3) involving a list I chemical,” for “not more than 10 years,”.
+Subsec. (d). Pub. L. 104–237, §302(b), in closing provisions, substituted "not more than 20 years in the case of a violation of paragraph (1) or (3) involving a list I chemical or not more than 10 years in the case of a violation of this subsection other than a violation of paragraph (1) or (3) involving a list I chemical," for "not more than 10 years,".
 
 Subsec. (d)(7). Pub. L. 104–237, §102(c), added par. (7).
 
-<b>1994</b>—Subsec. (b)(1), (2). Pub. L. 103–322, §90105(a), in sentence in concluding provisions beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this subsection, or for a felony under any other provision of this subchapter or subchapter I of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
+<b>1994</b>—Subsec. (b)(1), (2). Pub. L. 103–322, §90105(a), in sentence in concluding provisions beginning "If any person commits", substituted "a prior conviction for a felony drug offense has become final" for "one or more prior convictions for an offense punishable under this subsection, or for a felony under any other provision of this subchapter or subchapter I of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final".
 
-Subsec. (b)(3). Pub. L. 103–322, §90105(a), in sentence beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this subsection, or for a felony under any other provision of this subchapter or subchapter I of this chapter or other law of a State, the United States or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
+Subsec. (b)(3). Pub. L. 103–322, §90105(a), in sentence beginning "If any person commits", substituted "a prior conviction for a felony drug offense has become final" for "one or more prior convictions for an offense punishable under this subsection, or for a felony under any other provision of this subchapter or subchapter I of this chapter or other law of a State, the United States or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final".
 
 Subsec. (d)(5), (6). Pub. L. 103–322, §330024(d)(2), amended directory language of Pub. L. 103–200, §5(b)(3). See 1993 Amendment note below.
 
 <b>1993</b>—Subsec. (d). Pub. L. 103–200, §5(b), as amended by Pub. L. 103–322, §330024(d)(2), added pars. (5) and (6).
 
-Pub. L. 103–200, §4(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any person who knowingly or intentionally—
+Pub. L. 103–200, §4(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Any person who knowingly or intentionally—
 
-&emsp;“(1) imports or exports a listed chemical with intent to manufacture a controlled substance in violation of this subchapter or, in the case of an exportation, in violation of the law of the country to which the chemical is exported; or
+&emsp;"(1) imports or exports a listed chemical with intent to manufacture a controlled substance in violation of this subchapter or, in the case of an exportation, in violation of the law of the country to which the chemical is exported; or
 
-&emsp;“(2) imports or exports a listed chemical knowing, or having reasonable cause to believe, that the listed chemical will be used to manufacture a controlled substance in violation of this subchapter or, in the case of an exportation, in violation of the law of the country to which the chemical is exported;
+&emsp;"(2) imports or exports a listed chemical knowing, or having reasonable cause to believe, that the listed chemical will be used to manufacture a controlled substance in violation of this subchapter or, in the case of an exportation, in violation of the law of the country to which the chemical is exported;
 
-> shall be fined in accordance with title 18, or imprisoned not more than 10 years, or both.”
+> shall be fined in accordance with title 18, or imprisoned not more than 10 years, or both."
 
 <b>1990</b>—Subsec. (b)(1)(H). Pub. L. 101–647, §1204(a), added subpar. (H).
 
-Subsec. (b)(2). Pub. L. 101–647, §3599J, substituted “supervised” for “suspervised” in two places in concluding provisions.
+Subsec. (b)(2). Pub. L. 101–647, §3599J, substituted "supervised" for "suspervised" in two places in concluding provisions.
 
 Subsec. (b)(2)(H). Pub. L. 101–647, §1204(b), added subpar. (H).
 
-<b>1988</b>—Subsec. (a)(3). Pub. L. 100–690, §6475, substituted “manufactures, possesses with intent to distribute, or distributes a controlled substance” for “manufactures or distributes a controlled substance”.
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–690, §6475, substituted "manufactures, possesses with intent to distribute, or distributes a controlled substance" for "manufactures or distributes a controlled substance".
 
 Subsec. (d). Pub. L. 100–690, §6053(c), added subsec. (d).
 
@@ -182,45 +182,45 @@ Subsec. (d). Pub. L. 100–690, §6053(c), added subsec. (d).
 
 Subsec. (b)(1), (2). Pub. L. 99–570, §1302(a)(2), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
-“(1) In the case of a violation under subsection (a) of this section involving—
+"(1) In the case of a violation under subsection (a) of this section involving—
 
-&emsp;“(A) 100 grams or more of a mixture or substance containing a detectable amount of a narcotic drug in schedule I or II other than a narcotic drug consisting of—
+&emsp;"(A) 100 grams or more of a mixture or substance containing a detectable amount of a narcotic drug in schedule I or II other than a narcotic drug consisting of—
 
-&emsp;&emsp;“(i) coca leaves;
+&emsp;&emsp;"(i) coca leaves;
 
-&emsp;&emsp;“(ii) a compound, manufacture, salt, derivative, or preparation of coca leaves; or
+&emsp;&emsp;"(ii) a compound, manufacture, salt, derivative, or preparation of coca leaves; or
 
-&emsp;&emsp;“(iii) a substance chemically identical thereto;
+&emsp;&emsp;"(iii) a substance chemically identical thereto;
 
-&emsp;“(B) a kilogram or more of any other narcotic drug in schedule I or II;
+&emsp;"(B) a kilogram or more of any other narcotic drug in schedule I or II;
 
-&emsp;“(C) 500 grams or more of phencyclidine (PCP);
+&emsp;"(C) 500 grams or more of phencyclidine (PCP);
 
-&emsp;“(D) 5 grams or more of lysergic acid diethylamide (LSD);
+&emsp;"(D) 5 grams or more of lysergic acid diethylamide (LSD);
 
 > the person committing such violation shall be imprisoned for not more than twenty years, or fined not more than $250,000, or both.
 
-“(2) In the case of a violation under subsection (a) of this section with respect to a controlled substance in schedule I or II, the person committing such violation shall, except as provided in paragraphs (1) and (3), be imprisoned not more than fifteen years, or fined not more than $125,000, or both. If a sentence under this paragraph provides for imprisonment, the sentence shall include a special parole term of not less than three years in addition to such term of imprisonment.”
+"(2) In the case of a violation under subsection (a) of this section with respect to a controlled substance in schedule I or II, the person committing such violation shall, except as provided in paragraphs (1) and (3), be imprisoned not more than fifteen years, or fined not more than $125,000, or both. If a sentence under this paragraph provides for imprisonment, the sentence shall include a special parole term of not less than three years in addition to such term of imprisonment."
 
 Subsec. (b)(3). Pub. L. 99–570, §1302(a)(2), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 99–570, §1302(a)(1), (3), (b)(2), (3), redesignated former par. (3) as (4), inserted “except in the case of 100 or more marihuana plants regardless of weight,” and substituted “fined not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “fined not more than $50,000”.
+Subsec. (b)(4). Pub. L. 99–570, §1302(a)(1), (3), (b)(2), (3), redesignated former par. (3) as (4), inserted "except in the case of 100 or more marihuana plants regardless of weight," and substituted "fined not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual" for "fined not more than $50,000".
 
-Pub. L. 99–570, §§1302(b)(1), 1866(e), made identical amendment striking out “, except as provided in paragraph (4)” after “such violation shall”.
+Pub. L. 99–570, §§1302(b)(1), 1866(e), made identical amendment striking out ", except as provided in paragraph (4)" after "such violation shall".
 
-Pub. L. 99–570, §1004(a), substituted “term of supervised release” for “special parole term” in two places.
+Pub. L. 99–570, §1004(a), substituted "term of supervised release" for "special parole term" in two places.
 
-Subsec. (c). Pub. L. 99–570, §1004(a), substituted “term of supervised release” for “special parole term” wherever appearing, effective Nov. 1, 1987, the effective date of the repeal of subsec. (c) by Pub. L. 98–473, §225. See 1984 Amendment note below.
+Subsec. (c). Pub. L. 99–570, §1004(a), substituted "term of supervised release" for "special parole term" wherever appearing, effective Nov. 1, 1987, the effective date of the repeal of subsec. (c) by Pub. L. 98–473, §225. See 1984 Amendment note below.
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–473, §225(a), which directed amendment of this subsection effective Nov. 1, 1987 (see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure) was omitted in the general amendment of section 225 of Pub. L. 98–473 by Pub. L. 99–570, §1005(c).
 
 Subsec. (b)(1). Pub. L. 98–473, §504(1), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (b)(2). Pub. L. 98–473, §504(1), (2), redesignated former par. (1) as (2), inserted provisions excepting pars. (1) and (3), and substituted reference to controlled substance for reference to narcotic drug, and “$125,000” for “$25,000”. Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 98–473, §504(1), (2), redesignated former par. (1) as (2), inserted provisions excepting pars. (1) and (3), and substituted reference to controlled substance for reference to narcotic drug, and "$125,000" for "$25,000". Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 98–473, §504(1), (3), redesignated former par. (2) as (3) and substituted “less than 50 kilograms of marihuana, less than 10 kilograms of hashish, less than one kilogram of hashish oil, or any quantity of a controlled substance in schedule III, IV, or V, the person committing such violation shall, except as provided in paragraph (4)” for “a controlled substance other than a narcotic drug in schedule I or II, the person committing such violation shall”, and “$50,000” for “$15,000”.
+Subsec. (b)(3). Pub. L. 98–473, §504(1), (3), redesignated former par. (2) as (3) and substituted "less than 50 kilograms of marihuana, less than 10 kilograms of hashish, less than one kilogram of hashish oil, or any quantity of a controlled substance in schedule III, IV, or V, the person committing such violation shall, except as provided in paragraph (4)" for "a controlled substance other than a narcotic drug in schedule I or II, the person committing such violation shall", and "$50,000" for "$15,000".
 
-Subsec. (c). Pub. L. 98–473, §225, as amended by Pub. L. 99–570, §1005(c), struck out subsec. (c) which related to special parole terms imposed under this section or section 962 of this title. Notwithstanding directory language that the amendment be made to “Section 1515 of the Controlled Substances Import and Export Act (21 U.S.C. 960)”, the amendment was executed to this section as the probable intent of Congress.
+Subsec. (c). Pub. L. 98–473, §225, as amended by Pub. L. 99–570, §1005(c), struck out subsec. (c) which related to special parole terms imposed under this section or section 962 of this title. Notwithstanding directory language that the amendment be made to "Section 1515 of the Controlled Substances Import and Export Act (21 U.S.C. 960)", the amendment was executed to this section as the probable intent of Congress.
 
 #### Effective Date of 2008 Amendment
 

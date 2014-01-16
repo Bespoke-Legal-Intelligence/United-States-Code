@@ -38,9 +38,9 @@ Plan of Action.—The Secretary of Defense shall develop and implement a plan of
 
 Definitions.—In this section:
 
-&emsp;(1) The term “major defense acquisition program” has the meaning given such term in section 2430(a) of this title.
+&emsp;(1) The term "major defense acquisition program" has the meaning given such term in section 2430(a) of this title.
 
-&emsp;(2) The term “major automated information system program” has the meaning given such term in section 2445a(a) of this title.
+&emsp;(2) The term "major automated information system program" has the meaning given such term in section 2445a(a) of this title.
 
 (Added Pub. L. 112–239, div. A, title VIII, §824(a)(1), Jan. 2, 2013, 126 Stat. 1832.)
 

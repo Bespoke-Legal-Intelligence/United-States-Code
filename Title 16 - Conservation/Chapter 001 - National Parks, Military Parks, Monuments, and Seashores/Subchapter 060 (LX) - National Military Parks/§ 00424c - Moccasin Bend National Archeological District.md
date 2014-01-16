@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the “Moccasin Bend National Archeological District Act”.
+This section may be cited as the "Moccasin Bend National Archeological District Act".
 
 #### (b) Definitions
 
@@ -10,19 +10,19 @@ As used in this section:
 
 #### (1) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 #### (2) Archeological district
 
-&emsp;The term “archeological district” means the Moccasin Bend National Archeological District.
+&emsp;The term "archeological district" means the Moccasin Bend National Archeological District.
 
 #### (3) State
 
-&emsp;The term “State” means the State of Tennessee.
+&emsp;The term "State" means the State of Tennessee.
 
 #### (4) Map
 
-&emsp;The term “Map” means the map entitled, “Boundary Map Moccasin Bend National Archeological District”, numbered 301/80098, and dated September 2002.
+&emsp;The term "Map" means the map entitled, "Boundary Map Moccasin Bend National Archeological District", numbered 301/80098, and dated September 2002.
 
 #### (c) Establishment
 

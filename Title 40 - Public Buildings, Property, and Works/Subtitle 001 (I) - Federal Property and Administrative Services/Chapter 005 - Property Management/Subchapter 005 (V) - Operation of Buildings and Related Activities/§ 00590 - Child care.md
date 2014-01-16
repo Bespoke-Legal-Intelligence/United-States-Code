@@ -14,11 +14,11 @@ Definitions.—In this subsection, the following definitions apply:
 
 &emsp;&emsp;(A)
 
-Child care provider.—The term “child care provider” means an individual or entity that provides or proposes to provide child care services for federal employees.
+Child care provider.—The term "child care provider" means an individual or entity that provides or proposes to provide child care services for federal employees.
 
 &emsp;&emsp;(B)
 
-Allotment officer.—The term “allotment officer” means an officer or agency of the Federal Government charged with the allotment of space in federal buildings.
+Allotment officer.—The term "allotment officer" means an officer or agency of the Federal Government charged with the allotment of space in federal buildings.
 
 &emsp;(2)
 
@@ -40,7 +40,7 @@ Payment for Space and Services.—
 
 &emsp;(1)
 
-Definition.—For purposes of this subsection, the term “services” includes the providing of lighting, heating, cooling, electricity, office furniture, office machines and equipment, classroom furnishings and equipment, kitchen appliances, playground equipment, telephone service (including installation of lines and equipment and other expenses associated with telephone services), and security systems (including installation and other expenses associated with security systems), including replacement equipment, as needed.
+Definition.—For purposes of this subsection, the term "services" includes the providing of lighting, heating, cooling, electricity, office furniture, office machines and equipment, classroom furnishings and equipment, kitchen appliances, playground equipment, telephone service (including installation of lines and equipment and other expenses associated with telephone services), and security systems (including installation and other expenses associated with security systems), including replacement equipment, as needed.
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ Criminal History Background Checks.—
 
 &emsp;(1)
 
-Definition.—In this subsection, the term “executive facility” means a facility owned or leased by an office or entity within the executive branch of the Government. The term includes a facility owned or leased by the General Services Administration on behalf of an office or entity within the judicial branch of the Government.
+Definition.—In this subsection, the term "executive facility" means a facility owned or leased by an office or entity within the executive branch of the Government. The term includes a facility owned or leased by the General Services Administration on behalf of an office or entity within the judicial branch of the Government.
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ Appropriated Amounts for Affordable Child Care.—
 
 &emsp;(1)
 
-Definition.—For purposes of this subsection, the term “Executive agency” has the meaning given that term in section 105 of title 5, but does not include the Government Accountability Office.
+Definition.—For purposes of this subsection, the term "Executive agency" has the meaning given that term in section 105 of title 5, but does not include the Government Accountability Office.
 
 &emsp;(2)
 
@@ -156,17 +156,17 @@ Pub. L. 100–202, §101(m) \[title VI, §616(e)\], as added Pub. L. 106–554, 
 
 Pub. L. 107–67, title VI, §630, Nov. 12, 2001, 115 Stat. 552.
 
-In subsection (a), the word “provide” is substituted for “promote the provision of” to eliminate unnecessary words.
+In subsection (a), the word "provide" is substituted for "promote the provision of" to eliminate unnecessary words.
 
-In subsection (f)(2), the word “workers” is substituted for “existing and newly hired workers” to eliminate unnecessary words.
+In subsection (f)(2), the word "workers" is substituted for "existing and newly hired workers" to eliminate unnecessary words.
 
-In subsection (g)(2), the word “hereafter” is omitted as unnecessary.
+In subsection (g)(2), the word "hereafter" is omitted as unnecessary.
 
-In subsection (g)(4), the words “as appropriate” are omitted as unnecessary.
+In subsection (g)(4), the words "as appropriate" are omitted as unnecessary.
 
-In subsection (g)(5), the words “in this or any other Act” are omitted as unnecessary. The words “of the House of Representatives and the Senate” are added for consistency in the revised title.
+In subsection (g)(5), the words "in this or any other Act" are omitted as unnecessary. The words "of the House of Representatives and the Senate" are added for consistency in the revised title.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (g)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (g)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 

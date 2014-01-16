@@ -35,37 +35,37 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163, div. A, title V, §515(b)(4)(D), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for ‘Naval Reserve” in items 7225 and 7226.
+<b>2006</b>—Pub. L. 109–163, div. A, title V, §515(b)(4)(D), Jan. 6, 2006, 119 Stat. 3235, substituted "Navy Reserve" for 'Naval Reserve" in items 7225 and 7226.
 
 <b>2004</b>—Pub. L. 108–375, div. A, title XII, §1223(b), Oct. 28, 2004, 118 Stat. 2090, added item 7234.
 
-<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title IX, §942(e)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–243, substituted “Naval Historical Center Fund: references to Fund” for “Naval Historical Center Fund” in item 7222.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title IX, §942(e)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–243, substituted "Naval Historical Center Fund: references to Fund" for "Naval Historical Center Fund" in item 7222.
 
 <b>1999</b>—Pub. L. 106–65, div. A, title X, §1014(a)(2), Oct. 5, 1999, 113 Stat. 742, added item 7233.
 
-<b>1996</b>—Pub. L. 104–201, div. A, title X, §1073(b)(2)(B), Sept. 23, 1996, 110 Stat. 2657, substituted “Naval Historical Center Fund” for “Office of Naval Records and History gift fund” in item 7222.
+<b>1996</b>—Pub. L. 104–201, div. A, title X, §1073(b)(2)(B), Sept. 23, 1996, 110 Stat. 2657, substituted "Naval Historical Center Fund" for "Office of Naval Records and History gift fund" in item 7222.
 
-<b>1994</b>—Pub. L. 103–355, title III, §3025(b), Oct. 13, 1994, 108 Stat. 3334, struck out item 7203 “Scientific investigation and research”.
+<b>1994</b>—Pub. L. 103–355, title III, §3025(b), Oct. 13, 1994, 108 Stat. 3334, struck out item 7203 "Scientific investigation and research".
 
-<b>1993</b>—Pub. L. 103–160, div. A, title VIII, §828(a)(6), Nov. 30, 1993, 107 Stat. 1713, struck out items 7201 “Guided missiles: research and development, procurement, and construction”, 7210 “Purchase of patents, patent applications, and licenses”, 7213 “Relief of contractors and their employees from losses by enemy action”, and 7230 “Sale of degaussing equipment”.
+<b>1993</b>—Pub. L. 103–160, div. A, title VIII, §828(a)(6), Nov. 30, 1993, 107 Stat. 1713, struck out items 7201 "Guided missiles: research and development, procurement, and construction", 7210 "Purchase of patents, patent applications, and licenses", 7213 "Relief of contractors and their employees from losses by enemy action", and 7230 "Sale of degaussing equipment".
 
-<b>1990</b>—Pub. L. 101–510, div. A, title XIII, §1331(8), Nov. 5, 1990, 104 Stat. 1673, struck out item 7217 “Annual report to Congress: appropriations”.
+<b>1990</b>—Pub. L. 101–510, div. A, title XIII, §1331(8), Nov. 5, 1990, 104 Stat. 1673, struck out item 7217 "Annual report to Congress: appropriations".
 
-<b>1988</b>—Pub. L. 100–370, §1(e)(3)(B), July 19, 1988, 102 Stat. 845, struck out item 7209 “Rewards for recovery of missing naval property”.
+<b>1988</b>—Pub. L. 100–370, §1(e)(3)(B), July 19, 1988, 102 Stat. 845, struck out item 7209 "Rewards for recovery of missing naval property".
 
-<b>1984</b>—Pub. L. 98–525, title XIV, §1401(d)(3)(B), (j)(3)(B), Oct. 19, 1984, 98 Stat. 2616, 2620, struck out “; transportation of dependents” at end of item 7204 and struck out item 7208 “Latin American cooperation”.
+<b>1984</b>—Pub. L. 98–525, title XIV, §1401(d)(3)(B), (j)(3)(B), Oct. 19, 1984, 98 Stat. 2616, 2620, struck out "; transportation of dependents" at end of item 7204 and struck out item 7208 "Latin American cooperation".
 
 <b>1982</b>—Pub. L. 97–258, §2(b)(11)(A), Sept. 13, 1982, 96 Stat. 1057, added item 7231.
 
-<b>1975</b>—Pub. L. 94–106, title VIII, §804(b), Oct. 7, 1975, 89 Stat. 538, struck out item 7202 “Emergency and extraordinary expenses”.
+<b>1975</b>—Pub. L. 94–106, title VIII, §804(b), Oct. 7, 1975, 89 Stat. 538, struck out item 7202 "Emergency and extraordinary expenses".
 
-<b>1968</b>—Pub. L. 90–377, §4, July 5, 1968, 82 Stat. 288, struck out item 7215 “Naval prisons, prison farms, and prisoners”.
+<b>1968</b>—Pub. L. 90–377, §4, July 5, 1968, 82 Stat. 288, struck out item 7215 "Naval prisons, prison farms, and prisoners".
 
-<b>1966</b>—Pub. L. 89–529, §1(4), Aug. 11, 1966, 80 Stat. 339, struck out item 7218 “Recognition for accomplishments, special service, and good conduct”.
+<b>1966</b>—Pub. L. 89–529, §1(4), Aug. 11, 1966, 80 Stat. 339, struck out item 7218 "Recognition for accomplishments, special service, and good conduct".
 
-<b>1959</b>—Pub. L. 86–55, §2, June 23, 1959, 73 Stat. 89, inserted “and aircraft” in item 7227.
+<b>1959</b>—Pub. L. 86–55, §2, June 23, 1959, 73 Stat. 89, inserted "and aircraft" in item 7227.
 
-<b>1958</b>—Pub. L. 85–861, §1(150), Sept. 2, 1958, 72 Stat. 1513, struck out item 7206 “Minor construction and extension of structures”.
+<b>1958</b>—Pub. L. 85–861, §1(150), Sept. 2, 1958, 72 Stat. 1513, struck out item 7206 "Minor construction and extension of structures".
 
 <b>1957</b>—Pub. L. 85–43, §1(2), May 31, 1957, 71 Stat. 45, added item 7230.
 

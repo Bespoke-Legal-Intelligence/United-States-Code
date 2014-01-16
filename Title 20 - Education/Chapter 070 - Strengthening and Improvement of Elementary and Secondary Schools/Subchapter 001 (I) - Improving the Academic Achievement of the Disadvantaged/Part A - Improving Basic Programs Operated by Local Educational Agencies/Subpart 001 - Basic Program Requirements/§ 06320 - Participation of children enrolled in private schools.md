@@ -76,7 +76,7 @@
 
 &emsp;&emsp;(B) using the results of a survey that, to the extent possible, protects the identity of families of private school students, and allowing such survey results to be extrapolated if complete actual data are unavailable;
 
-&emsp;&emsp;(C) applying the low-income percentage of each participating public school attendance area, determined pursuant to this section, to the number of private school children who reside in that school attendance area; or
+&emsp;&emsp;(C) applying the low-income percentage of each participating public school attendance area, determined pursuant to this section, tothe number of private school children who reside in that school attendance area; or
 
 &emsp;&emsp;(D) using an equated measure of low income correlated with the measure of low income used to count public school children.
 
@@ -118,7 +118,7 @@ If a local educational agency is prohibited by law from providing for the partic
 
 #### References in Text
 
-Section 7883, referred to in subsec. (c)(2), was in the original “section 9505”, and was translated as reading “section 9503”, meaning section 9503 of Pub. L. 89–10, to reflect the probable intent of Congress, because provisions authorizing complaint process are contained in section 9503.
+Section 7883, referred to in subsec. (c)(2), was in the original "section 9505", and was translated as reading "section 9503", meaning section 9503 of Pub. L. 89–10, to reflect the probable intent of Congress, because provisions authorizing complaint process are contained in section 9503.
 
 #### Prior Provisions
 

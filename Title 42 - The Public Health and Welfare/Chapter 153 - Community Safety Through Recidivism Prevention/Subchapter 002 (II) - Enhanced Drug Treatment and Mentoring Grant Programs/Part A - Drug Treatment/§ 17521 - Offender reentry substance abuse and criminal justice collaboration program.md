@@ -60,7 +60,7 @@ A grant made under subsection (a) may be used—
 
 #### (e) Definition of Single State Authority for Substance Abuse
 
-The term “Single State Authority for Substance Abuse” means an entity designated by the Governor or chief executive officer of a State as the single State administrative authority responsible for the planning, development, implementation, monitoring, regulation, and evaluation of substance abuse services.
+The term "Single State Authority for Substance Abuse" means an entity designated by the Governor or chief executive officer of a State as the single State administrative authority responsible for the planning, development, implementation, monitoring, regulation, and evaluation of substance abuse services.
 
 #### (f) Authorization of appropriations
 

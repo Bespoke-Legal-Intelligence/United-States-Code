@@ -34,7 +34,7 @@ For the purposes of determining the maximum aggregate number of positions which 
 
 #### (f) Intelligence and intelligence-related positions exempt from competitive service
 
-All positions in the Department which the Secretary determines are devoted to intelligence and intelligence-related activities of the United States Government are excepted from the competitive service, and the individuals who occupy such positions as of August 14, 1991, shall, while employed in such positions, be exempt from the competitive service.
+All positions in the Department which the Secretary determines are devoted to intelligence and intelligence-related activities of theUnited States Government are excepted from the competitive service, and the individuals who occupy such positions as of August 14, 1991, shall, while employed in such positions, be exempt from the competitive service.
 
 (Pub. L. 95–91, title VI, §621, Aug. 4, 1977, 91 Stat. 596; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 102–88, title IV, §403, Aug. 14, 1991, 105 Stat. 434.)
 
@@ -42,11 +42,11 @@ All positions in the Department which the Secretary determines are devoted to in
 
 Section 5108(a) of title 5, referred to in subsec. (c)(1), was amended generally by Pub. L. 101–509, title V, §529 \[title I, §102(b)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1443, and, as so amended, contains only one sentence.
 
-This chapter, referred to in subsecs. (c)(2) and (d), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in subsecs. (c)(2) and (d), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Codification
 
-August 14, 1991, referred to in subsec. (f), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 102–88, which enacted subsec. (f) of this section, to reflect the probable intent of Congress.
+August 14, 1991, referred to in subsec. (f), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 102–88, which enacted subsec. (f) of this section, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -54,7 +54,7 @@ August 14, 1991, referred to in subsec. (f), was in the original “the date of 
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (c)(2), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (c)(2), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

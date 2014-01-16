@@ -24,7 +24,7 @@ In the case of an income tax return of—
 
 #### (e) Organizations exempt from taxation under section 501(a)
 
-In the case of an income tax return of an organization exempt from taxation under section 501(a) (other than an employees’ trust described in section 401(a)), a return shall be filed on or before the 15th day of the 5th month following the close of the taxable year.
+In the case of an income tax return of an organization exempt from taxation under section 501(a) (other than an employees' trust described in section 401(a)), a return shall be filed on or before the 15th day of the 5th month following the close of the taxable year.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 749; Pub. L. 87–834, §17(b)(3), Oct. 16, 1962, 76 Stat. 1051; Pub. L. 92–178, title V, §504(b), Dec. 10, 1971, 85 Stat. 551; Pub. L. 94–455, title X, §1053(d)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1649, 1834; Pub. L. 95–628, §6(a), Nov. 10, 1978, 92 Stat. 3630; Pub. L. 98–369, div. A, title VIII, §801(d)(13), July 18, 1984, 98 Stat. 997; Pub. L. 110–172, §11(g)(20), Dec. 29, 2007, 121 Stat. 2491.)
 
@@ -34,15 +34,15 @@ The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c). Pub. L. 110–172 substituted “a former FSC (as defined in section 922 as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” for “a FSC or former FSC”.
+<b>2007</b>—Subsec. (c). Pub. L. 110–172 substituted "a former FSC (as defined in section 922 as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)" for "a FSC or former FSC".
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–369 inserted “or a FSC or former FSC” after “United States”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 inserted "or a FSC or former FSC" after "United States".
 
 <b>1978</b>—Subsec. (e). Pub. L. 95–628 added subsec. (e).
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–455, §1053(d)(3), struck out subsec. (e) which related to income tax due dates postponed in the case of China Trade Act corporations.
 
-Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 <b>1971</b>—Subsec. (b). Pub. L. 92–178 required returns of a DISC to be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–628, §6(b), Nov. 10, 1978, 92 Stat. 3630, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to returns for taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1978\].”
+Pub. L. 95–628, §6(b), Nov. 10, 1978, 92 Stat. 3630, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to returns for taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1978\]."
 
 #### Effective Date of 1976 Amendment
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 92–178 applicable with respect to taxable years ending af
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–834 applicable to taxable years of organizations described in section 1381(a) of this title beginning after Dec. 31, 1962, except as otherwise provided, see section 17(c) of Pub. L. 87–834, set out as an Effective Date note under section 1381 of this title.
+Amendment by Pub. L. 87–834 applicable to taxable years of organizations described in section 1381(a) ofthis title beginning after Dec. 31, 1962, except as otherwise provided, see section 17(c) of Pub. L. 87–834, set out as an Effective Date note under section 1381 of this title.
 
 #### Filing of Income Tax Returns for 1958 by Life Insurance Companies
 

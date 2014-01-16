@@ -6,5 +6,5 @@ If two or more persons conspire to violate section 1111, 1114, 1116, or 1119 of 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “1116, or 1119” for “or 1116”.
+<b>1994</b>—Pub. L. 103–322 substituted "1116, or 1119" for "or 1116".
 

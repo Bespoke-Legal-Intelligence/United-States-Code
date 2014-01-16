@@ -22,7 +22,7 @@ North. \[Omitted\]
 
 (4)
 
-National Sugar Company “Sugar House”. \[Omitted\]
+National Sugar Company "Sugar House". \[Omitted\]
 
 (5)
 
@@ -48,9 +48,9 @@ The text of the boundary descriptions contained in pars. (1) to (5) of subsec. (
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c). Pub. L. 110–114 substituted “subsection (a) (except 30 years from November 17, 1988, inthe case of the area or any part thereof described in subsection (a)(5))” for “subsection (a) of this section”.
+<b>2007</b>—Subsec. (c). Pub. L. 110–114 substituted "subsection (a) (except 30 years from November 17, 1988, inthe case of the area or any part thereof described in subsection (a)(5))" for "subsection (a) of this section".
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under section 2201 of this title.
 

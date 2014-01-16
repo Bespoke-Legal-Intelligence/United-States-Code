@@ -16,15 +16,15 @@ In this section, the following definitions shall apply:
 
 #### (1) Child welfare agency
 
-&emsp;The term “child welfare agency” means the State, territorial, or Tribal agency responsible for child or family services and welfare.
+&emsp;The term "child welfare agency" means the State, territorial, or Tribal agency responsible for child or family services and welfare.
 
 #### (2) Criminal justice agency
 
-&emsp;The term “criminal justice agency” means an agency of the State, territory, Indian tribe, or local government or its contracted agency that is responsible for detection, arrest, enforcement, prosecution, defense, adjudication, incarceration, probation, or parole relating to the violation of the criminal laws of that State, territory, Indian tribe, or local government.
+&emsp;The term "criminal justice agency" means an agency of the State, territory, Indian tribe, or local government or its contracted agency that is responsible for detection, arrest, enforcement, prosecution, defense, adjudication, incarceration, probation, or parole relating to the violation of the criminal laws of that State, territory, Indian tribe, or local government.
 
 #### (C) <sup>2</sup> Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 3797d of this title.
+&emsp;The term "Indian tribe" has the meaning given the term in section 3797d of this title.
 
 #### (c) Applications
 
@@ -86,31 +86,31 @@ Section was enacted as part of the Combat Methamphetamine Epidemic Act of 2005, 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(2). Pub. L. 110–161, §220(c)(1), inserted “, territorial, or Tribal” after “State”.
+<b>2007</b>—Subsec. (a)(2). Pub. L. 110–161, §220(c)(1), inserted ", territorial, or Tribal" after "State".
 
-Subsec. (b)(1). Pub. L. 110–161, §220(c)(2)(A), inserted “, territorial, or Tribal” after “State” and substituted “or” for “and/or”.
+Subsec. (b)(1). Pub. L. 110–161, §220(c)(2)(A), inserted ", territorial, or Tribal" after "State" and substituted "or" for "and/or".
 
-Subsec. (b)(2). Pub. L. 110–161, §220(c)(2)(B), inserted “, territory, Indian tribe,” after “agency of the State” and after “criminal laws of that State”.
+Subsec. (b)(2). Pub. L. 110–161, §220(c)(2)(B), inserted ", territory, Indian tribe," after "agency of the State" and after "criminal laws of that State".
 
 Subsec. (b)(C). Pub. L. 110–161, §220(c)(2)(C), added par. (C).
 
-Subsec. (c)(3). Pub. L. 110–161, §220(c)(3)(A), substituted “Indian tribes” for “Indian Tribes”.
+Subsec. (c)(3). Pub. L. 110–161, §220(c)(3)(A), substituted "Indian tribes" for "Indian Tribes".
 
-Subsec. (c)(4). Pub. L. 110–161, §220(c)(3)(B)(i), struck out “State's” after “expand the” and substituted “women or” for “women and/or” in introductory provisions.
+Subsec. (c)(4). Pub. L. 110–161, §220(c)(3)(B)(i), struck out "State's" after "expand the" and substituted "women or" for "women and/or" in introductory provisions.
 
-Subsec. (c)(4)(A). Pub. L. 110–161, §220(c)(3)(B)(ii), struck out “State” after “with the”.
+Subsec. (c)(4)(A). Pub. L. 110–161, §220(c)(3)(B)(ii), struck out "State" after "with the".
 
-Subsec. (c)(4)(C). Pub. L. 110–161, §220(c)(3)(B)(iii), inserted “, Indian tribes,” after “involved counties”.
+Subsec. (c)(4)(C). Pub. L. 110–161, §220(c)(3)(B)(iii), inserted ", Indian tribes," after "involved counties".
 
-Subsec. (c)(4)(D). Pub. L. 110–161, §220(c)(3)(B)(iv), inserted “, Tribal” after “Federal, State”.
+Subsec. (c)(4)(D). Pub. L. 110–161, §220(c)(3)(B)(iv), inserted ", Tribal" after "Federal, State".
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be par. “(3)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be par. "(3)".</i>
 
 <i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>4</sup></i><i> So in original. The word “needs” probably should not appear.</i>
+<i><sup>4</sup></i><i> So in original. The word "needs" probably should not appear.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “after”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "after".</i>
 

@@ -1,6 +1,6 @@
 ### §1712. Falsification of postal returns to increase compensation
 
-Whoever, being a Postal Service officer or employee, makes a false return, statement, or account to any officer of the United States, or makes a false entry in any record, book, or account, required by law or the rules or regulations of the Postal Service to be kept in respect of the business or operations of any post office or other branch of the Postal Service, for the purpose of fraudulently increasing his compensation or the compensation of the postmaster or any employee in a post office; or
+Whoever, being a Postal Service officer or employee, makes a false return, statement, or account to any officer of the United States, or makes a false entry in any record, book, or account, required by law or the rules or regulations of the Postal Service to be kept in respect of the business or operations of any post office or other branch of the Postal Service, for thepurpose of fraudulently increasing his compensation or the compensation of the postmaster or any employee in a post office; or
 
 Whoever, being a Postal Service officer or employee in any post office or station thereof, for the purpose of increasing the emoluments or compensation of his office, induces, or attempts to induce, any person to deposit mail matter in, or forward in any manner for mailing at, the office where such officer or employee is employed, knowing such matter to be properly mailable at another post office—
 
@@ -14,17 +14,17 @@ Based on title 18, U.S.C., 1940 ed., §329 and on section 172 of title 39, U.S.C
 
 Said sections were consolidated.
 
-The texts of the two sections were substantially identical except that said section 172 of title 39, U.S.C., 1940 ed., provided that “whenever, upon evidence deemed satisfactory to him, the Postmaster General shall determine that any such false return has been made, he may, by order, fix absolutely the compensation of the postmaster for such special delivery during any quarter or quarters which he shall deem affected by such false return, and the General Accounting Office shall adjust the postmaster's account accordingly”, the words “General Accounting Office” having been substituted for “Auditor” on the authority of the act of June 10, 1921, shown in the credits above. This particular language was omitted because such powers and duties as it prescribes would devolve upon the Postmaster General without legislation and also because said section 172 of Title 39, which was derived from the act of August 4, 1886, shown in the credits above, was impliedly repealed by the general repealing clause of section 341 of the Criminal Code of 1909. Section 208 of that Code contained the provisions which formed the basis for said section 329 of Title 18.
+The texts of the two sections were substantially identical except that said section 172 of title 39, U.S.C., 1940 ed., provided that "whenever, upon evidence deemed satisfactory to him, the Postmaster General shall determine that any such false return has been made, he may, by order, fix absolutely the compensation of the postmaster for such special delivery during any quarter or quarters which he shall deem affected by such false return, and the General Accounting Office shall adjust the postmaster's account accordingly", the words "General Accounting Office" having been substituted for "Auditor" on the authority of the act of June 10, 1921, shown in the credits above. This particular language was omitted because such powers and duties as it prescribes would devolve upon the Postmaster General without legislation and also because said section 172 of Title 39, which was derived from the act of August 4, 1886, shown in the credits above, was impliedly repealed by the general repealing clause of section 341 of the Criminal Code of 1909. Section 208 of that Code contained the provisions which formed the basis for said section 329 of Title 18.
 
-Reference in said section 329 of title 18, U.S.C., 1940 ed., to persons assisting, causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
+Reference in said section 329 of title 18, U.S.C., 1940 ed., to persons assisting, causing or procuring was omitted as unnecessary in view of definition of "principal" in section 2 of this title.
 
 Minor verbal changes were made.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500" in last par.
 
-<b>1970</b>—Pub. L. 91–375 substituted “Postal Service officer or employee” for “postmaster or Postal Service employee” and “Postal Service” for “Post Office Department” after “rules or regulations of the” in first par. and “Postal Service officer or employee” and “officer or employee” for “postmaster or employee” and “postmaster or other person” in second par., respectively.
+<b>1970</b>—Pub. L. 91–375 substituted "Postal Service officer or employee" for "postmaster or Postal Service employee" and "Postal Service" for "Post Office Department" after "rules or regulations of the" in first par. and "Postal Service officer or employee" and "officer or employee" for "postmaster or employee" and "postmaster or other person" in second par., respectively.
 
 #### Effective Date of 1970 Amendment
 

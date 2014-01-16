@@ -84,7 +84,7 @@ Contract clauses.—
 
 &emsp;&emsp;(A)
 
-Definition.—In this paragraph, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
+Definition.—In this paragraph, the term "subcontract" includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
 
 &emsp;&emsp;(B)
 
@@ -178,7 +178,7 @@ Contract quality requirements.—Regulations prescribed under paragraph (1) shal
 
 &emsp;&emsp;(B) require that, to the maximum extent practicable, the executive agency take advantage of warranties (including extended warranties) offered by offerors of commercial items and use those warranties for the repair and replacement of commercial items; and
 
-&emsp;&emsp;(C) set forth guidance regarding the use of past performance of commercial items and sources as a factor in contract award decisions.
+&emsp;&emsp;(C) set forth guidance regarding the use of past performance of commercial items andsources as a factor in contract award decisions.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3754.)
 
@@ -220,5 +220,5 @@ Subsection (a)(1) is substituted for 41 U.S.C. 264(a) for clarity.
 
 In subsection (e), the text of section 8002(f) of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, 41 U.S.C. 264 note) is omitted as obsolete.
 
-In subsection (e)(2)(B)(i) and (C)(i), the words “as the case may be” are omitted as unnecessary.
+In subsection (e)(2)(B)(i) and (C)(i), the words "as the case may be" are omitted as unnecessary.
 

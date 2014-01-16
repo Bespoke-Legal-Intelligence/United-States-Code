@@ -16,7 +16,7 @@
 
 #### (4) Revisions
 
-&emsp;Not later than 4 years after the date on which the strategy is submitted to the relevant committees of Congress under paragraph (1), and not less frequently than every 4 years thereafter, the Secretary of Health andHuman Services and the Secretary of Agriculture, in coordination with the Secretary of Homeland Security, shall revise and submit to the relevant committees of Congress the strategy.
+&emsp;Not later than 4 years after the date on which the strategy is submitted to the relevant committees of Congress under paragraph (1), and not less frequently than every 4 years thereafter, the Secretary of Health and Human Services and the Secretary of Agriculture, in coordination with the Secretary of Homeland Security, shall revise and submit to the relevant committees of Congress the strategy.
 
 #### (5) Consistency with existing plans
 

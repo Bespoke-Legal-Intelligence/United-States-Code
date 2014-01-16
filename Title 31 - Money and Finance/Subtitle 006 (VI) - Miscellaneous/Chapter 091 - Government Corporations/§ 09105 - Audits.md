@@ -74,19 +74,19 @@ Dec. 6, 1945, ch. 557, §301, 59 Stat. 601.
 
 31:866(a)(words between 1st comma and 1st proviso).
 
-In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
+In the section, the words "Comptroller General" are substituted for "General Accounting Office" for consistency.
 
-In subsection (a), the words “rules and . . . of the United States” are omitted as surplus. The words “United States” are added for consistency. The text of 31:850(4th sentence) and 857(4th sentence) and the words “Effective July 1, 1974” are omitted as executed.
+In subsection (a), the words "rules and . . . of the United States" are omitted as surplus. The words "United States" are added for consistency. The text of 31:850(4th sentence) and 857(4th sentence) and the words "Effective July 1, 1974" are omitted as executed.
 
-In subsection (b)(1), the words “pursuant to law” are omitted as surplus.
+In subsection (b)(1), the words "pursuant to law" are omitted as surplus.
 
-In subsection (b)(2), the words “may make a contract” are substituted for “is authorized in his discretion to employ by contract” to eliminate unnecessary words.
+In subsection (b)(2), the words "may make a contract" are substituted for "is authorized in his discretion to employ by contract" to eliminate unnecessary words.
 
-In subsection (c), before clause (1), the words “at the place or places” and “of the respective corporations” are omitted as surplus. The words “A Government corporation shall” are added for clarity. In clause (1), the words “make available . . . for audit all records” are substituted for “The representatives of . . . shall have access to all books, accounts, financial records, reports, files, and all other papers” for consistency and because of the restatement. The words “things, or” are omitted because they are included in “property”. In clause (2), the word “full” is omitted as surplus.
+In subsection (c), before clause (1), the words "at the place or places" and "of the respective corporations" are omitted as surplus. The words "A Government corporation shall" are added for clarity. In clause (1), the words "make available . . . for audit all records" are substituted for "The representatives of . . . shall have access to all books, accounts, financial records, reports, files, and all other papers" for consistency and because of the restatement. The words "things, or" are omitted because they are included in "property". In clause (2), the word "full" is omitted as surplus.
 
 Subsection (d) is substituted for 31:850(1st sentence proviso words before 7th comma) because of the restatement.
 
-In subsection (e), the words “The Comptroller General shall pay the cost of an audit” are substituted for “The expenses of auditing the financial transactions of wholly owned and mixed-ownership Government corporations as provided in sections 850 and 857 of this title shall be borne out of appropriations to the General Accounting Office” to eliminate unnecessary words. The words “full” and “otherwise . . . funds of any . . . be used to . . . of the offices” are omitted as surplus. The words “except the cost of such audits contracted for and undertaken prior to April 25, 1945” are omitted as executed.
+In subsection (e), the words "The Comptroller General shall pay the cost of an audit" are substituted for "The expenses of auditing the financial transactions of wholly owned and mixed-ownership Government corporations as provided in sections 850 and 857 of this title shall be borne out of appropriations to the General Accounting Office" to eliminate unnecessary words. The words "full" and "otherwise . . . funds of any . . . be used to . . . of the offices" are omitted as surplus. The words "except the cost of such audits contracted for and undertaken prior to April 25, 1945" are omitted as executed.
 
 Subsection (g) is substituted for 31:866(a)(words between 1st comma and 1st proviso) for clarity and consistency.
 
@@ -96,13 +96,13 @@ The Inspector General Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95�
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–82 inserted “, or under other Federal law,” before “or by an independent”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–82 inserted ", or under other Federal law," before "or by an independent".
 
 <b>1990</b>—Pub. L. 101–576 amended section generally. Prior to amendment, section required Comptroller General to audit financial transactions of Government corporations at least once every 3 years, the Federal Savings and Loan Insurance Corporation and Federal home loan banks each year, the Federal Asset Disposition Association and the Federal Agricultural Mortgage Corporation as necessary; suggested that Comptroller General in conducting an audit use reports of examinations of Government corporation by supervising administrative agency and authorized Comptroller General to contract for professional services; required audits to be conducted consistent with principles and procedures applicable to commercial corporate transactions; set forth responsibility for payment of audit cost, and authorized appropriations.
 
-<b>1989</b>—Subsec. (a)(2). Pub. L. 101–73 struck out “Federal Savings and Loan Insurance Corporation and” after “The Comptroller General shall audit the” and inserted sentence at end requiring the Comptroller General to audit the Resolution Funding Corporation annually.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–73 struck out "Federal Savings and Loan Insurance Corporation and" after "The Comptroller General shall audit the" and inserted sentence at end requiring the Comptroller General to audit the Resolution Funding Corporation annually.
 
-<b>1988</b>—Subsec. (a)(4). Pub. L. 100–399 substituted “Corporation” for “Association” in subpar. (B)(i).
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–399 substituted "Corporation" for "Association" in subpar. (B)(i).
 
 Pub. L. 100–233 added par. (4).
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Deposit of Funds Reimbursed to Comptroller General to Appropriation of Government Accountability Office
 
-Pub. L. 106–57, title II, Sept. 29, 1999, 113 Stat. 426, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided in part: “That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the Government Accountability Office then available and remain available until expended”.
+Pub. L. 106–57, title II, Sept. 29, 1999, 113 Stat. 426, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided in part: "That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the Government Accountability Office then available and remain available until expended".
 
 Similar provisions were contained in the following prior appropriation acts:
 

@@ -30,7 +30,7 @@ Subsection (d) provides that in a commodity broker case where speed is essential
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–554 designated existing provisions as par. (1), substituted “the United States trustee shall appoint” for “the court shall appoint”, “586(a)(1)” for “604(f)”, “that is serving” for “that was serving”, and added par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–554 designated existing provisions as par. (1), substituted "the United States trustee shall appoint" for "the court shall appoint", "586(a)(1)" for "604(f)", "that is serving" for "that was serving", and added par. (2).
 
 #### Effective Date of 1986 Amendment
 

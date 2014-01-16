@@ -2,7 +2,7 @@
 
 #### (a) Determination
 
-For purposes of this part, the term “determination” means—
+For purposes of this part, the term "determination" means—
 
 &emsp;(1) a decision by the Tax Court or a judgment, decree, or other order by any court of competent jurisdiction, which has become final;
 
@@ -18,11 +18,11 @@ For purposes of this part, the term “determination” means—
 
 #### (b) Taxpayer
 
-Notwithstanding section 7701(a)(14), the term “taxpayer” means any person subject to a tax under the applicable revenue law.
+Notwithstanding section 7701(a)(14), the term "taxpayer" means any person subject to a tax under the applicable revenue law.
 
 #### (c) Related taxpayer
 
-For purposes of this part, the term “related taxpayer” means a taxpayer who, with the taxpayer with respect to whom a determination is made, stood, in the taxable year with respect to which the erroneous inclusion, exclusion, omission, allowance, or disallowance was made, in one of the following relationships:
+For purposes of this part, the term "related taxpayer" means a taxpayer who, with the taxpayer with respect to whom a determination is made, stood, in the taxable year with respect to which the erroneous inclusion, exclusion, omission, allowance, or disallowance was made, in one of the following relationships:
 
 &emsp;(1) husband and wife,
 
@@ -42,5 +42,5 @@ For purposes of this part, the term “related taxpayer” means a taxpayer who,
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a)(3), (4). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a)(3), (4). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 

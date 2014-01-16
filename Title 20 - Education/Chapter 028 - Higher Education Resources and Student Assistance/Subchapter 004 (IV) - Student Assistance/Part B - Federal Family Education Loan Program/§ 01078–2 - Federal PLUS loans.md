@@ -20,7 +20,7 @@
 
 #### (A) Parent borrowers
 
-&emsp;&emsp;Whenever necessary to carry out the provisions of this section, the terms “student” and “borrower” as used in this part shall include a parent borrower under this section.
+&emsp;&emsp;Whenever necessary to carry out the provisions of this section, the terms "student" and "borrower" as used in this part shall include a parent borrower under this section.
 
 #### (B)(i) Extenuating circumstances
 
@@ -32,7 +32,7 @@
 
 #### (ii) Definition of mortgage loan
 
-&emsp;&emsp;In this subparagraph, the term “mortgage loan” means an extension of credit to a borrower that is secured by the primary residence of the borrower.
+&emsp;&emsp;In this subparagraph, the term "mortgage loan" means an extension of credit to a borrower that is secured by the primary residence of the borrower.
 
 #### (iii) Rule of construction
 
@@ -62,7 +62,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 &emsp;&emsp;(B)(i) in the case of a parent borrower, upon the request of the parent borrower, during the 6-month period beginning on the later of—
 
-&emsp;&emsp;&emsp;(I) the day after the date the student on whose behalf the loan was borrowed ceases to carry at least one-half the normal full-time academic workload (as determined by the institution); or
+&emsp;&emsp;&emsp;(I) the day after the date the student on whose behalf the loan was borrowed ceasesto carry at least one-half the normal full-time academic workload (as determined by the institution); or
 
 &emsp;&emsp;&emsp;(II) if the parent borrower is also a student, the day after the date such parent borrower ceases to carry at least one-half such a workload; and
 
@@ -72,7 +72,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (A) In general
 
-&emsp;&emsp;Interest on loans made under this section for which payments of principal are deferredpursuant to paragraph (1) shall, if agreed upon by the borrower and the lender—
+&emsp;&emsp;Interest on loans made under this section for which payments of principal are deferred pursuant to paragraph (1) shall, if agreed upon by the borrower and the lender—
 
 &emsp;&emsp;&emsp;(i) be paid monthly or quarterly; or
 
@@ -134,7 +134,7 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 &emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(p) of this title.
 
-(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g),Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075.)
+(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075.)
 
 #### Prior Provisions
 
@@ -142,49 +142,49 @@ A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 9
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–152 substituted “Prior to July 1, 2010, a graduate” for “A graduate” in introductory provisions.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–152 substituted "Prior to July 1, 2010, a graduate" for "A graduate" in introductory provisions.
 
-<b>2009</b>—Subsec. (e)(3)(B). Pub. L. 111–39, §402(f)(2)(A), substituted “subsection (d)(5)(B)” for “subsection (c)(5)(B)”.
+<b>2009</b>—Subsec. (e)(3)(B). Pub. L. 111–39, §402(f)(2)(A), substituted "subsection (d)(5)(B)" for "subsection (c)(5)(B)".
 
 Subsec. (e)(5). Pub. L. 111–39, §402(f)(2)(B), struck out par. (5) which related to notification to borrowers of availability of refinancing options for certain loans made before Oct. 17, 1986.
 
-<b>2008</b>—Subsec. (a)(3). Pub. L. 110–227, §4, amended par. (3) generally. Prior to amendment, text read as follows: “Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–227, §4, amended par. (3) generally. Prior to amendment, text read as follows: "Whenever necessary to carry out the provisions of this section, the terms 'student' and 'borrower' as used in this part shall include a parent borrower under this section."
 
-Subsec. (a)(3)(B)(i)(II). Pub. L. 110–315, §424(a)(1), added subcl. (II) and struck out former subcl. (II) which read as follows: “is not and has not been more than 89 days delinquent on the repayment of any other debt during such period.”
+Subsec. (a)(3)(B)(i)(II). Pub. L. 110–315, §424(a)(1), added subcl. (II) and struck out former subcl. (II) which read as follows: "is not and has not been more than 89 days delinquent on the repayment of any other debt during such period."
 
 Subsec. (d)(1), (2). Pub. L. 110–315, §424(a)(2), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to commencement of repayment and capitalization of interest.
 
 Pub. L. 110–227, §3(a), amended pars. (1) and (2) generally. Prior to amendment, text related to commencement of repayment and capitalization of interest.
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–171, §8005(c)(1)(A), in introductory provisions, substituted “A graduate or professional student or the parents” for “Parents”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–171, §8005(c)(1)(A), in introductory provisions, substituted "A graduate or professional student or the parents" for "Parents".
 
-Subsec. (a)(1)(A). Pub. L. 109–171, §8005(c)(1)(B), substituted “the graduate or professional student or the parents” for “the parents”.
+Subsec. (a)(1)(A). Pub. L. 109–171, §8005(c)(1)(B), substituted "the graduate or professional student or the parents" for "the parents".
 
 Subsec. (a)(1)(B). Pub. L. 109–171, §8014(g)(1), (3), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Pub. L. 109–171, §8005(c)(1)(C), substituted “the graduate or professional student or the parents” for “the parents”.
+Pub. L. 109–171, §8005(c)(1)(C), substituted "the graduate or professional student or the parents" for "the parents".
 
 Subsec. (a)(1)(C). Pub. L. 109–171, §8014(g)(2), redesignated subpar. (B) as (C).
 
-Subsec. (b). Pub. L. 109–171, §8005(c)(2), substituted “any graduate or professional student or any parent” for “any parent”.
+Subsec. (b). Pub. L. 109–171, §8005(c)(2), substituted "any graduate or professional student or any parent" for "any parent".
 
-Subsec. (c)(2). Pub. L. 109–171, §8005(c)(3), substituted “graduate or professional student or parent” for “parent”.
+Subsec. (c)(2). Pub. L. 109–171, §8005(c)(3), substituted "graduate or professional student or parent" for "parent".
 
-Subsec. (d)(1). Pub. L. 109–171, §8005(c)(4), substituted “the graduate or professional student or the parent” for “the parent”.
+Subsec. (d)(1). Pub. L. 109–171, §8005(c)(4), substituted "the graduate or professional student or the parent" for "the parent".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–244, §419(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Parents of a dependent student, who do not have an adverse credit history as determined pursuant to regulations of the Secretary, shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, and unless otherwise specified in subsections (c), (d), and (e) of this section, such loans shall have the same terms, conditions, and benefits as all other loans made under this part. Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §419(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "Parents of a dependent student, who do not have an adverse credit history as determined pursuant to regulations of the Secretary, shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, and unless otherwise specified in subsections (c), (d), and (e) of this section, such loans shall have the same terms, conditions, and benefits as all other loans made under this part. Whenever necessary to carry out the provisions of this section, the terms 'student' and 'borrower' as used in this part shall include a parent borrower under this section."
 
-Subsec. (d)(4). Pub. L. 105–244, §416(a)(2), substituted “section 1077a” for “section 1077a(c)”.
+Subsec. (d)(4). Pub. L. 105–244, §416(a)(2), substituted "section 1077a" for "section 1077a(c)".
 
-Pub. L. 105–178 which directed substitution of “section 1077a of this title for loans made under this section” for “section 1077a(c) of this title” in “section 428B(d)(4) (20 U.S.C. 1078–2(d)(4))” could not be executed because it did not indicate what act was to be amended.
+Pub. L. 105–178 which directed substitution of "section 1077a of this title for loans made under this section" for "section 1077a(c) of this title" in "section 428B(d)(4) (20 U.S.C. 1078–2(d)(4))" could not be executed because it did not indicate what act was to be amended.
 
 Subsec. (f). Pub. L. 105–244, §419(2), added subsec. (f).
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–66 inserted “shall be disbursed in accordance with the requirements of section 1078–7 of this title and” after “under this section”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–66 inserted "shall be disbursed in accordance with the requirements of section 1078–7 of this title and" after "under this section".
 
-<b>1992</b>—Pub. L. 102–325, §418(a), substituted “Federal PLUS” for “PLUS” in section catchline.
+<b>1992</b>—Pub. L. 102–325, §418(a), substituted "Federal PLUS" for "PLUS" in section catchline.
 
-Subsec. (a). Pub. L. 102–325, §418(b)(1), substituted “subsections (c), (d), and (e)” for “subsections (c) and (d)” and inserted “, who do not have an adverse credit history as determined pursuant to regulations of the Secretary,” after “a dependent student”.
+Subsec. (a). Pub. L. 102–325, §418(b)(1), substituted "subsections (c), (d), and (e)" for "subsections (c) and (d)" and inserted ", who do not have an adverse credit history as determined pursuant to regulations of the Secretary," after "a dependent student".
 
 Subsec. (b). Pub. L. 102–325, §418(b)(2), struck out subsec. (b) designation and heading, redesignated par. (3) as subsec. (b), and struck out pars. (1) and (2) which set the annual limit on the amount parents may borrow for one student in any academic year at $4,000 and set the aggregate insured principal amount for insured loans at not to exceed $20,000.
 
@@ -192,31 +192,31 @@ Subsec. (c). Pub. L. 102–325, §418(b)(4), added subsec. (c). Former subsec. (
 
 Subsec. (d). Pub. L. 102–325, §418(c), (d), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
-“(1)
+"(1)
 
 Commencement of repayment.—Repayment of principal on loans made under this section shall commence not later than 60 days after the date such loan is disbursed by the lender, subject to deferral (A) during any period during which the parent meets the conditions required for a deferral under clause (i), (viii), or (ix) of section 1077(a)(2)(C) or 1078(b)(1)(M) of this title; and (B) during any period during which the borrower has a dependent student for whom a loan obligation was incurred under this section and who meets the conditions required for a deferral under clause (i) of either such section.
 
-“(2)
+"(2)
 
-Capitalization of interest.—Interest on loans made under this section for which payments of principal are deferred pursuant to paragraph (1) of this subsection shall, if agreed upon by the borrower and the lender (A) be paid monthly or quarterly or (B) be added to the principal amount of the loan on a quarterly basis by the lender. Such capitalization of interest shall not be deemed to exceed the annual insurable limit on account of the student.”
+Capitalization of interest.—Interest on loans made under this section for which payments of principal are deferred pursuant to paragraph (1) of this subsection shall, if agreed upon by the borrower and the lender (A) be paid monthly or quarterly or (B) be added to the principal amount of the loan on a quarterly basis by the lender. Such capitalization of interest shall not be deemed to exceed the annual insurable limit on account of the student."
 
 Pub. L. 102–325, §418(b)(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 102–325, §418(b)(3), redesignated subsec. (d) as (e).
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–50, §10(o)(2)(A), struck out “, but such a parent borrower shall not be eligible for any deferment pursuant to section 1077(a)(2)(C) or 1078(b)(1)(M) of this title except for the deferments allowed (with respect to the student) under clauses (i), (viii), and (ix) of such sections” after “borrower under this section”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–50, §10(o)(2)(A), struck out ", but such a parent borrower shall not be eligible for any deferment pursuant to section 1077(a)(2)(C) or 1078(b)(1)(M) of this title except for the deferments allowed (with respect to the student) under clauses (i), (viii), and (ix) of such sections" after "borrower under this section".
 
-Subsec. (b)(3). Pub. L. 100–50, §10(p)(2), amended first sentence generally, substituting “for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid” for “which would cause the combined loans of the parent and the student for any academic year to exceed the student's estimated cost of attendance minus such student's estimated financial assistance”.
+Subsec. (b)(3). Pub. L. 100–50, §10(p)(2), amended first sentence generally, substituting "for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid" for "which would cause the combined loans of the parent and the student for any academic year to exceed the student's estimated cost of attendance minus such student's estimated financial assistance".
 
-Subsec. (c)(1). Pub. L. 100–50, §10(o)(2)(B), struck out “pursuant to sections 1077(a)(2)(C)(i), (viii), and (ix) and 1078(b)(1)(M)(i), (viii), and (ix) of this title” after “subject to deferral” and inserted in lieu cls. (A) and (B).
+Subsec. (c)(1). Pub. L. 100–50, §10(o)(2)(B), struck out "pursuant to sections 1077(a)(2)(C)(i), (viii), and (ix) and 1078(b)(1)(M)(i), (viii), and (ix) of this title" after "subject to deferral" and inserted in lieu cls. (A) and (B).
 
-Subsec. (c)(2). Pub. L. 100–50, §10(o)(1), (2)(C), (q), in introductory provisions, struck out “and interest” after first reference to “principal”, and substituted “pursuant to paragraph (1) of this subsection” for“under sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title”, and, in subpar. (A), inserted “monthly or” before “quarterly”.
+Subsec. (c)(2). Pub. L. 100–50, §10(o)(1), (2)(C), (q), in introductory provisions, struck out "and interest" after first reference to "principal", and substituted "pursuant to paragraph (1) of this subsection" for "under sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title", and, in subpar. (A), inserted "monthly or" before "quarterly".
 
-Subsec. (d)(1). Pub. L. 100–50, §10(r)(1)(A), inserted “at any time” after “eligible lender may” in first sentence, substituted “the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3)” for “the borrower complies with the requirements of paragraph (2)” in second sentence, and inserted “(if required by them)” after “shall be reported” in third sentence.
+Subsec. (d)(1). Pub. L. 100–50, §10(r)(1)(A), inserted "at any time" after "eligible lender may" in first sentence, substituted "the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3)" for "the borrower complies with the requirements of paragraph (2)" in second sentence, and inserted "(if required by them)" after "shall be reported" in third sentence.
 
-Subsec. (d)(2). Pub. L. 100–50, §10(r)(1)(B), inserted “under this section before July 1, 1987, or” before “under this section” and substituted “to reissue a loan or loans” for “to reissue a loan” and “reissuing such loan or loans” for “reissuing such loan”.
+Subsec. (d)(2). Pub. L. 100–50, §10(r)(1)(B), inserted "under this section before July 1, 1987, or" before "under this section" and substituted "to reissue a loan or loans" for "to reissue a loan" and "reissuing such loan or loans" for "reissuing such loan".
 
-Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted “October 1, 1987” for “January 1, 1987” and, in subpar. (B), inserted “and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples” before semicolon at end.
+Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted "October 1, 1987" for "January 1, 1987" and, in subpar. (B), inserted "and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples" before semicolon at end.
 
 #### Effective Date of 2009 Amendment
 
@@ -240,7 +240,7 @@ Amendment by section 419 of Pub. L. 105–244 effective Oct. 1, 1998, except as 
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title IV, §4109(c), Aug. 10, 1993, 107 Stat. 370, provided that: “The amendments made by this section \[amending this section and section 1078–7 of this title\] shall be effective with respect to loans for which the first disbursement is made on or after October 1, 1993.”
+Pub. L. 103–66, title IV, §4109(c), Aug. 10, 1993, 107 Stat. 370, provided that: "The amendments made by this section \[amending this section and section 1078–7 of this title\] shall be effective with respect to loans for which the first disbursement is made on or after October 1, 1993."
 
 #### Effective Date of 1992 Amendment
 
@@ -252,5 +252,5 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Amendment of Note or Other Written Evidence of Loan by Eligible Lender at Request of Borrower; Circumstances; Denial of Request
 
-Pub. L. 100–50, §10(r)(2), June 3, 1987, 101 Stat. 344, provided that: “An eligible lender who has refinanced a loan or loans under section 428A(d) \[former 20 U.S.C. 1078–1(d)\] or 428B(d) \[20 U.S.C. 1078–2(d)\] between the date of enactment of the Higher Education Amendments of 1986 \[Oct. 17, 1986\] and July 1, 1987, may, at the request of a borrower or with the written consent of the borrower, amend the note or other written evidence of loan as necessary to comply with the requirements of such sections and section 427A(c)(4) \[20 U.S.C. 1077a(c)(4)\] as amended by this Act. Any borrower who is denied such a request shall be treated as eligible to obtain a loan from another lender under section 428A(d)(3) or 428B(d)(3), as applicable, for the purposes of discharging the loan from the original lender, and a borrower exercising this option shall not be subject to an additional insurance fee under section 428A(d)(3)(C) or 428B(d)(3)(C).”
+Pub. L. 100–50, §10(r)(2), June 3, 1987, 101 Stat. 344, provided that: "An eligible lender who has refinanced a loan or loans under section 428A(d) \[former 20 U.S.C. 1078–1(d)\] or 428B(d) \[20 U.S.C. 1078–2(d)\] between the date of enactment of the Higher Education Amendments of 1986 \[Oct. 17, 1986\] and July 1, 1987, may, at the request of a borrower or with the written consent of the borrower, amend the note or other written evidence of loan as necessary to comply with the requirements of such sections and section 427A(c)(4) \[20 U.S.C. 1077a(c)(4)\] as amended by this Act. Any borrower who is denied such a request shall be treated as eligible to obtain a loan from another lender under section 428A(d)(3) or 428B(d)(3), as applicable, for the purposes of discharging the loan from the original lender, and a borrower exercising this option shall not be subject to an additional insurance fee under section 428A(d)(3)(C) or 428B(d)(3)(C)."
 

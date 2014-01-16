@@ -30,5 +30,5 @@ June 29, 1936, ch. 858, title V, §511(b) (1st sentence words before 6th comma a
 
 46 App.:1161(b) (last sentence).
 
-In subsection (a), the words “necessary to carrying out the policy set forth in section 1101 of this Appendix” are omitted as unnecessary.
+In subsection (a), the words "necessary to carrying out the policy set forth in section 1101 of this Appendix" are omitted as unnecessary.
 

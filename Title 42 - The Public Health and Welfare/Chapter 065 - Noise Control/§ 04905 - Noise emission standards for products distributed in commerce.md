@@ -42,7 +42,7 @@ The Administrator may publish proposed regulations, meeting the requirements of 
 
 (2) After publication of any proposed regulations under this section, the Administrator shall allow interested persons an opportunity to participate in rulemaking in accordance with the first sentence of section 553(c) of title 5.
 
-(3) The Administrator may revise any regulation prescribed by him under this section by (A) publication of proposed revised regulations, and (B) the promulgation, not earlier than six months after the date of such publication, of regulations making the revision; except that a revision which makes only technical or clerical corrections in a regulation under this section may be promulgated earlier than six months after such date if the Administrator finds that such earlier promulgation is in the public interest.
+(3) The Administrator may revise any regulation prescribed by him under this section by (A)publication of proposed revised regulations, and (B) the promulgation, not earlier than six months after the date of such publication, of regulations making the revision; except that a revision which makes only technical or clerical corrections in a regulation under this section may be promulgated earlier than six months after such date if the Administrator finds that such earlier promulgation is in the public interest.
 
 #### (d) Warranty by manufacturer of conformity of product with regulations; transfer of cost obligation from manufacturer to dealer prohibited
 
@@ -76,7 +76,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (c)(1), is act J
 
 #### Codification
 
-In subsec. (c)(1), “chapter 301 of title 49” substituted for “the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1381 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (c)(1), "chapter 301 of title 49" substituted for "the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1381 et seq.\]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
 

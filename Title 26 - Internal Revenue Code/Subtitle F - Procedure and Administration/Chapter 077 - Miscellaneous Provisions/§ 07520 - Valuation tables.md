@@ -30,11 +30,11 @@ This section shall not apply for purposes of part I of subchapter D of chapter 1
 
 #### (d) Valuation date
 
-For purposes of this section, the term “valuation date” means the date as of which the valuation is made.
+For purposes of this section, the term "valuation date" means the date as of which the valuation is made.
 
 #### (e) Tables to include formulas
 
-For purposes of this section, the term “tables” includes formulas.
+For purposes of this section, the term "tables" includes formulas.
 
 (Added Pub. L. 100–647, title V, §5031(a), Nov. 10, 1988, 102 Stat. 3668.)
 
@@ -48,5 +48,5 @@ Another section 7520 was renumbered section 7521 of this title.
 
 #### Effective Date
 
-Pub. L. 100–647, title V, §5031(c), Nov. 10, 1988, 102 Stat. 3669, provided that: “The amendments made by this section \[enacting this section\] shall apply in cases where the date as of which the valuation is to be made occurs on or after the 1st day of the 6th calendar month beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title V, §5031(c), Nov. 10, 1988, 102 Stat. 3669, provided that: "The amendments made by this section \[enacting this section\] shall apply in cases where the date as of which the valuation is to be made occurs on or after the 1st day of the 6th calendar month beginning after the date of the enactment of this Act \[Nov. 10, 1988\]."
 

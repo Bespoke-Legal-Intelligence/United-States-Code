@@ -34,51 +34,51 @@ The Tax Reform Act of 1976, referred to in subsec. (a)(3)(B), is Pub. L. 94–45
 
 <b>2010</b>—Pub. L. 111–312, §301(a), amended section to read as if amendment by Pub. L. 107–16, §542(b)(1), had never been enacted. See 2001 Amendment note below.
 
-Subsec. (a)(1). Pub. L. 111–312, §303(b)(3), substituted “basic exclusion amount” for “applicable exclusion amount”.
+Subsec. (a)(1). Pub. L. 111–312, §303(b)(3), substituted "basic exclusion amount" for "applicable exclusion amount".
 
 <b>2001</b>—Pub. L. 107–16, §542(b)(1), amended section generally, substituting provisions related to tax returns for certain large transfers at death for provisions related to estate tax returns.
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §501(a)(1)(C), substituted “the applicable exclusion amount in effect under section 2010(c) for the calendar year which includes the date of death” for “$600,000”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §501(a)(1)(C), substituted "the applicable exclusion amount in effect under section 2010(c) for the calendar year which includes the date of death" for "$600,000".
 
 Subsec. (a)(4). Pub. L. 105–34, §1073(b)(4), struck out par. (4) which read as follows:
 
-“(4)
+"(4)
 
-Return required if excess retirement accumulation tax.—The executor shall make a return with respect to the estate tax imposed by subtitle B in any case where such tax is increased by reason of section 4980A(d).”
+Return required if excess retirement accumulation tax.—The executor shall make a return with respect to the estate tax imposed by subtitle B in any case where such tax is increased by reason of section 4980A(d)."
 
 <b>1990</b>—Subsec. (a)(3) to (5). Pub. L. 101–508 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which provided for phase-in of estate tax return filing requirement amount.
 
 <b>1989</b>—Subsec. (c). Pub. L. 101–239 struck out subsec. (c) which read as follows:
 
-“
+"
 
 Election Under Section 2210.—In all cases in which subsection (a) requires the filing of a return, if an executor elects the applications of section 2210—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Return by executor.—The return which the executor is required to file under the provisions of subsection (a) shall be made with respect to that portion of estate tax imposed by subtitle B which the executor is required to pay.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Return by plan administrator.—The plan administrator of an employee stock ownership plan orthe eligible worker-owned cooperative, as the case may be, shall make a return with respect to that portion of the tax imposed by section 2001 which such plan or cooperative is required to pay under section 2210(b).”
+Return by plan administrator.—The plan administrator of an employee stock ownership plan or the eligible worker-owned cooperative, as the case may be, shall make a return with respect to that portion of the tax imposed by section 2001 which such plan or cooperative is required to pay under section 2210(b)."
 
 <b>1988</b>—Subsec. (a)(5). Pub. L. 100–647 added par. (5).
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–369 added subsec. (c).
 
-<b>1981</b>—Subsec. (a)(1). Pub. L. 97–34, §401(a)(2)(B)(i), substituted “$600,000” for “$175,000”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–34, §401(a)(2)(B)(i), substituted "$600,000" for "$175,000".
 
-Subsec. (a)(3). Pub. L. 97–34, §401(a)(2)(B)(ii), set forth par. (1) substitutions for “$600,000” amount of “$225,000”, “$275,000”, “$325,000”, “$400,000”, and “$500,000” in the case of decedents dying in 1982, 1983, 1984, 1985, and 1986, respectively, and struck out par. (1) substitutions for “$175,000” amount of “$120,000”, “$134,000”, “$147,000”, and “$161,000” in the case of decedents dying during 1977, 1978, 1979, and 1980, respectively.
+Subsec. (a)(3). Pub. L. 97–34, §401(a)(2)(B)(ii), set forth par. (1) substitutions for "$600,000" amount of "$225,000", "$275,000", "$325,000", "$400,000", and "$500,000" in the case of decedents dying in 1982, 1983, 1984, 1985, and 1986, respectively, and struck out par. (1) substitutions for "$175,000" amount of "$120,000", "$134,000", "$147,000", and "$161,000" in the case of decedents dying during 1977, 1978, 1979, and 1980, respectively.
 
-<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §2001(c)(1)(J)(i), substituted “$175,000” for “$60,000”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §2001(c)(1)(J)(i), substituted "$175,000" for "$60,000".
 
-Subsec. (a)(2). Pub. L. 94–455, §2001(c)(1)(J)(ii), substituted “$60,000” for “$30,000”.
+Subsec. (a)(2). Pub. L. 94–455, §2001(c)(1)(J)(ii), substituted "$60,000" for "$30,000".
 
 Subsec. (a)(3), (4). Pub. L. 94–455, §2001(c)(1)(J)(iii), added pars. (3) and (4).
 
-Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-<b>1966</b>—Subsec. (a)(2). Pub. L. 89–809 substituted “$30,000” for “$2,000”.
+<b>1966</b>—Subsec. (a)(2). Pub. L. 89–809 substituted "$30,000" for "$2,000".
 
 #### Effective Date of 2010 Amendment
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 98–369 applicable to estates of decedents which are requi
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 401(c)(1) of Pub. L. 97–34, set out as a note under section 2010 of this title.
+Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 401(c)(1)of Pub. L. 97–34, set out as a note under section 2010 of this title.
 
 #### Effective Date of 1976 Amendment
 

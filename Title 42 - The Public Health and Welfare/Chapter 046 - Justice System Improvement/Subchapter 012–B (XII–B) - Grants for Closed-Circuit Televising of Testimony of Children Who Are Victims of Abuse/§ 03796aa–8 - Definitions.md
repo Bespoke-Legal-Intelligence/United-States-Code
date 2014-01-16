@@ -2,9 +2,9 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) the term “child” means an individual under the age of 18 years; and
+&emsp;(1) the term "child" means an individual under the age of 18 years; and
 
-&emsp;(2) the term “abuse” means physical or mental injury, sexual abuse or exploitation, or negligent treatment of a child.
+&emsp;(2) the term "abuse" means physical or mental injury, sexual abuse or exploitation, or negligent treatment of a child.
 
 (Pub. L. 90–351, title I, §1409, as added Pub. L. 101–647, title II, §241(a)(2), Nov. 29, 1990, 104 Stat. 4813.)
 

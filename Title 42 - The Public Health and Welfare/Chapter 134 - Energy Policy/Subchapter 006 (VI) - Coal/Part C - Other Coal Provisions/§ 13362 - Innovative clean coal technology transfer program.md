@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-The Secretary, through the Agency for International Development, and in consultation with the other members of the CCT Subgroup, shall establish a clean coal technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after October 24, 1992, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assisted by the Agency for International Development, the Secretary may enter into agreements with other appropriate United States agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement, each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of the agreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
+The Secretary, through the Agency for International Development, and in consultation with the other members of the CCT Subgroup, shall establish a clean coal technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after October 24, 1992, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assisted by the Agency for International Development, the Secretary may enter into agreements with other appropriate United States agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement, each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of theagreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
 
 #### (b) Purposes of program
 
@@ -22,7 +22,7 @@ The purposes of the technology transfer program under this section are to—
 
 &emsp;(7) serve to ensure the introduction of United States firms and expertise in foreign countries;
 
-&emsp;(8) provide financial assistance by the Federal Government to foster greater participation by United States firms in the financing,ownership, design, construction, or operation of clean coal technology projects in foreign countries;
+&emsp;(8) provide financial assistance by the Federal Government to foster greater participation by United States firms in the financing, ownership, design, construction, or operation of clean coal technology projects in foreign countries;
 
 &emsp;(9) assist foreign countries in meeting their energy needs through the use of coal in an environmentally acceptable manner, consistent with sustainable development policies; and
 
@@ -84,7 +84,7 @@ Pursuant to the agreements under subsection (a) of this section, the Secretary, 
 
 &emsp;(3) consult with government officials in host countries and, as appropriate, with representatives of utilities or other entities in host countries, to determine interest in and support for potential projects; and
 
-&emsp;(4) determine whether each project selected under this section is developmentally sound,as determined under the criteria developed by the Development Assistance Committee of the Organization for Economic Cooperation and Development.
+&emsp;(4) determine whether each project selected under this section is developmentally sound, as determined under the criteria developed by the Development Assistance Committee of the Organization for Economic Cooperation and Development.
 
 #### (h) Selection of projects
 
@@ -134,9 +134,9 @@ In carrying out this section, the Secretary, through the Agency for Internationa
 
 The Secretary and the Administrator of the Agency for International Development shall report annually to the Committee on Energy and Natural Resources of the Senate and the appropriate committees of the House of Representatives on the progress being made to introduce clean coal technologies into foreign countries.
 
-#### (l) “Host country” defined
+#### (l) "Host country" defined
 
-For purposes of this section, the term “host country” means a foreign country which is—
+For purposes of this section, the term "host country" means a foreign country which is—
 
 &emsp;(1) the participant in or the site of the proposed clean coal technology project; and
 

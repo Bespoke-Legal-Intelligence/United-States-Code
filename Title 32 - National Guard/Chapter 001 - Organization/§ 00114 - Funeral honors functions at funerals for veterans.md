@@ -6,7 +6,7 @@ Subject to such regulations and restrictions as may be prescribed by the Secreta
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–65, in section catchline, substituted “Funeral honors” for “Honor guard” and, in text, substituted “funeral honors functions” for “honor guard functions” in two places and “drill or training, but may be performed as funeral honors duty under section 115 of this title” for “drill or training otherwise required”.
+<b>1999</b>—Pub. L. 106–65, in section catchline, substituted "Funeral honors" for "Honor guard" and, in text, substituted "funeral honors functions" for "honor guard functions" in two places and "drill or training, but may be performed as funeral honors duty under section 115 of this title" for "drill or training otherwise required".
 
-<b>1998</b>—Pub. L. 105–261 designated subsec. (a) as entire section and struck out subsec. (b) which read as follows: “This section does not authorize additional appropriations for any fiscal year. Any expense of the National Guard that is incurred by reason of this section shall be paid from appropriations otherwise available for the National Guard.”
+<b>1998</b>—Pub. L. 105–261 designated subsec. (a) as entire section and struck out subsec. (b) which read as follows: "This section does not authorize additional appropriations for any fiscal year. Any expense of the National Guard that is incurred by reason of this section shall be paid from appropriations otherwise available for the National Guard."
 

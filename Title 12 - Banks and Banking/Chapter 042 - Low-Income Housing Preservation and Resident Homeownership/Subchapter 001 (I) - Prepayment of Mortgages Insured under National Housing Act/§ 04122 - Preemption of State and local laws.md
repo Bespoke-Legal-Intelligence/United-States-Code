@@ -22,5 +22,5 @@ This section shall not prevent the establishment, continuing in effect, or enfor
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–550 substituted “, such as any law or regulation” for “and” after “subchapter”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–550 substituted ", such as any law or regulation" for "and" after "subchapter".
 

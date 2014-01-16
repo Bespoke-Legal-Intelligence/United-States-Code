@@ -58,5 +58,5 @@ Nothing in this subchapter shall apply to any cause of action or right of recove
 
 #### References in Text
 
-This Act, referred to in subsecs. (a), (b), (c), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which isclassified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsecs. (a), (b), (c), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 

@@ -22,7 +22,7 @@ The following items shall not be included in gross income of a nonresident alien
 
 #### (3) Compensation of participants in certain exchange or training programs
 
-&emsp;Compensation paid by a foreign employer to a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended. For purposes of this paragraph, the term “foreign employer” means—
+&emsp;Compensation paid by a foreign employer to a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended. For purposes of this paragraph, the term "foreign employer" means—
 
 &emsp;&emsp;(A) a nonresident alien individual, foreign partnership, or foreign corporation, or
 
@@ -58,23 +58,23 @@ Section 101 of the Immigration and Nationality Act, referred to in subsec. (b)(3
 
 <b>2004</b>—Subsec. (b)(5) to (8). Pub. L. 108–357 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 
-<b>1994</b>—Subsec. (b)(3). Pub. L. 103–296 substituted “(F), (J), or (Q)” for “(F) or (J)”.
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–296 substituted "(F), (J), or (Q)" for "(F) or (J)".
 
 <b>1989</b>—Subsec. (b)(7). Pub. L. 101–239 added par. (7).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1012(s)(2)(A), inserted “, except where the context clearly indicates otherwise” after “individual”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1012(s)(2)(A), inserted ", except where the context clearly indicates otherwise" after "individual".
 
-Subsec. (b)(1), (2). Pub. L. 100–647, §1012(e)(2)(B), (5), substituted “to individual residents of the United States” for “to citizens of the United States and to corporations organized in the United States” and “international operation” for “operation”.
+Subsec. (b)(1), (2). Pub. L. 100–647, §1012(e)(2)(B), (5), substituted "to individual residents of the United States" for "to citizens of the United States and to corporations organized in the United States" and "international operation" for "operation".
 
-<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1212(c)(1), added par. (1) and struck out former par. (1), ships under foreign flag, which read as follows: “Earnings derived from the operation of a ship or ships documented under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States.”
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1212(c)(1), added par. (1) and struck out former par. (1), ships under foreign flag, which read as follows: "Earnings derived from the operation of a ship or ships documented under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States."
 
-Subsec. (b)(2). Pub. L. 99–514, §1212(c)(1), added par. (2) and struck out former par. (2), aircraft of foreign registry, which read as follows: “Earnings derived from the operation of aircraft registered under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States.”
+Subsec. (b)(2). Pub. L. 99–514, §1212(c)(1), added par. (2) and struck out former par. (2), aircraft of foreign registry, which read as follows: "Earnings derived from the operation of aircraft registered under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States."
 
 Subsec. (b)(5), (6). Pub. L. 99–514, §1212(c)(2), added pars. (5) and (6).
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–809, §103(b)(1), limited the inclusion of gross income which is derived from sources within the United States to such income which is not effectively connected with the conduct of a trade or business within the United States and inserted provision including gross income without the limitation as to source which is effectively connected with the conduct of a trade or business within the United States.
 
-Subsec. (b)(3)(B). Pub. L. 89–809, §103(b)(2), substituted “by a domestic corporation, a domestic partnership, or an individual who is a citizen or resident of the United States” for “by a domestic corporation”.
+Subsec. (b)(3)(B). Pub. L. 89–809, §103(b)(2), substituted "by a domestic corporation, a domestic partnership, or an individual who is a citizen or resident of the United States" for "by a domestic corporation".
 
 Subsec. (b)(4). Pub. L. 89–809, §102(b)(3), added par. (4).
 
@@ -82,7 +82,7 @@ Subsec. (b)(4). Pub. L. 89–809, §102(b)(3), added par. (4).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title IV, §419(c), Oct. 22, 2004, 118 Stat. 1513, provided that: “The amendments made by this section \[amending this section and section 883 of this title\] shall apply to wagers made after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title IV, §419(c), Oct. 22, 2004, 118 Stat. 1513, provided that: "The amendments made by this section \[amending this section and section 883 of this title\] shall apply to wagers made after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 1994 Amendment
 

@@ -24,5 +24,5 @@ Feb. 4, 1919, ch. 14, §8 (1st proviso), 40 Stat. 1057; renumbered §10 and amen
 
 July 2, 1926, ch. 721, §12 (last 31 words of 3d sentence), 44 Stat. 789, July 30, 1937, ch. 545, §4, 50 Stat. 549.
 
-The word “associated” is substituted for the word “other” to relate the medal or cross to its emblem or insignia. The word “entire” is omitted as surplusage.
+The word "associated" is substituted for the word "other" to relate the medal or cross to its emblem or insignia. The word "entire" is omitted as surplusage.
 

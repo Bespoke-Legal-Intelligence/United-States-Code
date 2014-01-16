@@ -56,15 +56,15 @@ Vacancies.—If a vacancy in office arises by reason of the resignation, death, 
 
 (f)
 
-Attorneys’ Fees.—
+Attorneys' Fees.—
 
 &emsp;(1)
 
-Award of fees.—Upon the request of an individual who is the subject of an investigation conducted by an independent counsel pursuant to this chapter, the division of the court may, if no indictment is brought against such individual pursuant to that investigation, award reimbursement for those reasonable attorneys’ fees incurred by that individual during that investigation which would not havebeen incurred but for the requirements of this chapter. The division of the court shall notify the the <sup>1</sup> independent counsel who conducted the investigation and Attorney <sup>2</sup> General of any request for attorneys’ fees under this subsection.
+Award of fees.—Upon the request of an individual who is the subject of an investigation conducted by an independent counsel pursuant to this chapter, the division of the court may, if no indictment is brought against such individual pursuant to that investigation, award reimbursement for those reasonable attorneys' fees incurred by that individual during that investigation which would not have been incurred but for the requirements of this chapter. The division of the court shall notify the the <sup>1</sup> independent counsel who conducted the investigation and Attorney <sup>2</sup> General of any request for attorneys' fees under this subsection.
 
 &emsp;(2)
 
-Evaluation of fees.—The division of the court shall direct such independent counsel and the Attorney General to file a written evaluation of any request for attorneys’ fees under this subsection, addressing—
+Evaluation of fees.—The division of the court shall direct such independent counsel and the Attorney General to file a written evaluation of any request for attorneys' fees under this subsection, addressing—
 
 &emsp;&emsp;(A) the sufficiency of the documentation;
 
@@ -86,21 +86,21 @@ Amicus Curiae Briefs.—When presented with significant legal issues, the divisi
 
 #### Amendments
 
-<b>1994</b>—Subsec. (f)(1). Pub. L. 103–270, §3(n)(1), inserted “the independent counsel who conducted the investigation and” before “Attorney General” in last sentence.
+<b>1994</b>—Subsec. (f)(1). Pub. L. 103–270, §3(n)(1), inserted "the independent counsel who conducted the investigation and" before "Attorney General" in last sentence.
 
-Subsec. (f)(2). Pub. L. 103–270, §3(n)(2), in introductory provisions substituted “shall direct such independent counsel and” for “may direct” and “subsection, addressing—” for “subsection, analyzing for each expense—”, added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
+Subsec. (f)(2). Pub. L. 103–270, §3(n)(2), in introductory provisions substituted "shall direct such independent counsel and" for "may direct" and "subsection, addressing—" for "subsection, analyzing for each expense—", added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
 
-&emsp;“(A) the sufficiency of the documentation;
+&emsp;"(A) the sufficiency of the documentation;
 
-&emsp;“(B) the need or justification for the underlying item; and
+&emsp;"(B) the need or justification for the underlying item; and
 
-&emsp;“(C) the reasonableness of the amount of money requested.”
+&emsp;"(C) the reasonableness of the amount of money requested."
 
 <b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (h) for former subsecs. (a) to (g) which related to similar subject matter.
 
-<b>1983</b>—Subsec. (b). Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel's” for “special prosecutor's” wherever appearing.
+<b>1983</b>—Subsec. (b). Pub. L. 97–409, §2(a)(1), substituted "independent counsel" for "special prosecutor" and "independent counsel's" for "special prosecutor's" wherever appearing.
 
-Subsecs. (c) to (e). Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
+Subsecs. (c) to (e). Pub. L. 97–409, §2(a)(1)(A), substituted "independent counsel" for "special prosecutor" wherever appearing.
 
 Subsecs. (f), (g). Pub. L. 97–409, §5, added subsecs. (f) and (g).
 
@@ -114,5 +114,5 @@ Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to procee
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

@@ -4,37 +4,37 @@ As used in this part and part C of this subchapter:
 
 &emsp;(1) Repealed. Pub. L. 106–469, title I, §103(5)(A), Nov. 9, 2000, 114 Stat. 2029.
 
-&emsp;(2) The term “importer” means any person who owns, at the first place of storage, any petroleum product imported into the United States.
+&emsp;(2) The term "importer" means any person who owns, at the first place of storage, any petroleum product imported into the United States.
 
 &emsp;(3) Repealed. Pub. L. 106–469, title I, §103(5)(A), Nov. 9, 2000, 114 Stat. 2029.
 
-&emsp;(4) The term “interest in land” means any ownership or possessory right with respect to real property, including ownership in fee, an easement, a leasehold, and any subsurface or mineral rights.
+&emsp;(4) The term "interest in land" means any ownership or possessory right with respect to real property, including ownership in fee, an easement, a leasehold, and any subsurface or mineral rights.
 
-&emsp;(5) The term “readily available inventories” means stocks and supplies of petroleum products which can be distributed or used without affecting the ability of the importer or refiner to operate at normal capacity; such term does not include minimum working inventories or other unavailable stocks.
+&emsp;(5) The term "readily available inventories" means stocks and supplies of petroleum products which can be distributed or used without affecting the ability of the importer or refiner to operate at normal capacity; such term does not include minimum working inventories or other unavailable stocks.
 
-&emsp;(6) The term “refiner” means any person who owns, operates, or controls the operation of any refinery.
+&emsp;(6) The term "refiner" means any person who owns, operates, or controls the operation of any refinery.
 
 &emsp;(7) Repealed. Pub. L. 106–469, title I, §103(5)(A), Nov. 9, 2000, 114 Stat. 2029.
 
-&emsp;(8) The term “related facility” means any necessary appurtenance to a storage facility, including pipelines, roadways, reservoirs, and salt brine lines.
+&emsp;(8) The term "related facility" means any necessary appurtenance to a storage facility,including pipelines, roadways, reservoirs, and salt brine lines.
 
-&emsp;(9) The term “Reserve” means the Strategic Petroleum Reserve.
+&emsp;(9) The term "Reserve" means the Strategic Petroleum Reserve.
 
-&emsp;(10) The term “storage facility” means any facility or geological formation which is capable of storing significant quantities of petroleum products.
+&emsp;(10) The term "storage facility" means any facility or geological formation which is capable of storing significant quantities of petroleum products.
 
-&emsp;(11) The term “Strategic Petroleum Reserve” means petroleum products stored in storage facilities pursuant to this part.
+&emsp;(11) The term "Strategic Petroleum Reserve" means petroleum products stored in storage facilities pursuant to this part.
 
 (Pub. L. 94–163, title I, §152, Dec. 22, 1975, 89 Stat. 882; Pub. L. 101–383, §6(a)(1), Sept. 15, 1990, 104 Stat. 729; Pub. L. 106–469, title I, §103(5), Nov. 9, 2000, 114 Stat. 2029.)
 
 #### Amendments
 
-<b>2000</b>—Par. (1). Pub. L. 106–469, §103(5)(A), struck out par. (1) which read as follows: “The term ‘Early Storage Reserve’ means that portion of the Strategic Petroleum Reserve which consists of petroleum products stored pursuant to section 6235 of this title.”
+<b>2000</b>—Par. (1). Pub. L. 106–469, §103(5)(A), struck out par. (1) which read as follows: "The term 'Early Storage Reserve' means that portion of the Strategic Petroleum Reserve which consists of petroleum products stored pursuant to section 6235 of this title."
 
-Par. (3). Pub. L. 106–469, §103(5)(A), struck out par. (3) which read as follows: “The term ‘Industrial Petroleum Reserve’ means that portion of the Strategic Petroleum Reserve which consists of petroleum products owned by importers or refiners and acquired, stored, or maintained pursuant to section 6236 of this title.”
+Par. (3). Pub. L. 106–469, §103(5)(A), struck out par. (3) which read as follows: "The term 'Industrial Petroleum Reserve' means that portion of the Strategic Petroleum Reserve which consists of petroleum products owned by importers or refiners and acquired, stored, or maintained pursuant to section 6236 of this title."
 
-Par. (7). Pub. L. 106–469, §103(5)(A), struck out par. (7) which read as follows: “The term ‘Regional Petroleum Reserve’ means that portion of the Strategic Petroleum Reserve which consists of petroleum products stored pursuant to section 6237 of this title.”
+Par. (7). Pub. L. 106–469, §103(5)(A), struck out par. (7) which read as follows: "The term 'Regional Petroleum Reserve' means that portion of the Strategic Petroleum Reserve which consists of petroleum products stored pursuant to section 6237 of this title."
 
-Par. (11). Pub. L. 106–469, §103(5)(B), struck out “; such term includes the Industrial Petroleum Reserve, the Early Storage Reserve, and the Regional Petroleum Reserve” before period at end.
+Par. (11). Pub. L. 106–469, §103(5)(B), struck out "; such term includes the Industrial Petroleum Reserve, the Early Storage Reserve, and the Regional Petroleum Reserve" before period at end.
 
-<b>1990</b>—Pub. L. 101–383 inserted “and part C of this subchapter” after “this part”.
+<b>1990</b>—Pub. L. 101–383 inserted "and part C of this subchapter" after "this part".
 

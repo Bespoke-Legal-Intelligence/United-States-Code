@@ -48,7 +48,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (4) Payment of interest after first 10-year period
 
-&emsp;During each year of the third 5-year period of the 15-year period beginning on the date of the issuance of each obligation under subsection (a) of this section, the Financial Assistance Corporation shall pay all of the interest due on such obligation. During each year of such 5-year period, System banks shall pay the entire amount of interest due on the obligation allocated in the same manner as under paragraph (2)(C). Such payments shall be made to the Financial Assistance Corporation atsuch times as the Financial Assistance Corporation shall determine.
+&emsp;During each year of the third 5-year period of the 15-year period beginning on the date of the issuance of each obligation under subsection (a) of this section, the Financial Assistance Corporation shall pay all of the interest due on such obligation. During each yearof such 5-year period, System banks shall pay the entire amount of interest due on the obligation allocated in the same manner as under paragraph (2)(C). Such payments shall be made to the Financial Assistance Corporation at such times as the Financial Assistance Corporation shall determine.
 
 #### (5) Repayment of Treasury-paid interest
 
@@ -58,7 +58,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (B) Assessment
 
-&emsp;&emsp;In order to provide for the orderly funding by the banks of the System of the repayment by the Financial Assistance Corporation to the Secretary of the Treasury, the Financial Assistance Corporation shall assess each System bank, on or about December 31 of each year beginning in 1992, and each System bank shall promptly pay to the Financial Assistance Corporation, an annual annuity type payment in an amount designed to accumulate, in total, including earnings thereon, the amount of the bank's ultimate obligation (as determined by the Corporation on a fair and equitable basis), and no greater than .0006 nor less than .0004 times the bank's and its affiliated associations’ average accruing retail loan volume for the preceding year, subject to—
+&emsp;&emsp;In order to provide for the orderly funding by the banks of the System of the repayment by the Financial Assistance Corporation to the Secretary of the Treasury, the Financial Assistance Corporation shall assess each System bank, on or about December 31 of each year beginning in 1992, and each System bank shall promptly pay to the Financial Assistance Corporation, an annual annuity type payment in an amount designed to accumulate, in total, including earnings thereon, the amount of the bank's ultimate obligation (as determined by the Corporation on a fair and equitable basis), and no greater than .0006 nor less than .0004 times the bank's and its affiliated associations' average accruing retail loan volume for the preceding year, subject to—
 
 &emsp;&emsp;&emsp;(i) upward or downward adjustment, as appropriate, by the Financial Assistance Corporation during each of the last 5 years prior to the date the Financial Assistance Corporation is obligated to make the repayment, in order to ensure that the Financial Assistance Corporation will have the amount of funds needed to make the repayment on the due date; and
 
@@ -84,7 +84,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (iii) Refund of recoveries
 
-&emsp;&emsp;&emsp;The Financial Assistance Corporation shall apply the recoveries, when received, and all earnings on the recoveries, to reduce the other banks’ payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to the other banks in proportion to the other banks’ payments.
+&emsp;&emsp;&emsp;The Financial Assistance Corporation shall apply the recoveries, when received, and all earnings on the recoveries, to reduce the other banks' payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to the other banks in proportion to the other banks' payments.
 
 #### (F) Associations terminating System status or in liquidation
 
@@ -94,7 +94,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Until the date that is 5 years prior to the date on which the Financial Assistance Corporation is required to repay the Secretary of the Treasury pursuant to subparagraph (A), all assessments paid by banks to the Financial Assistance Corporation pursuant to subparagraph (B), and any part of the obligation to pay future assessments to the Financial Assistance Corporation under subparagraph (B) that is recognized as an expense on thebooks of any System bank or association, shall nonetheless be included in the capital of the bank or association for purposes of determining its compliance with regulatory capital requirements.
+&emsp;&emsp;&emsp;Until the date that is 5 years prior to the date on which the Financial Assistance Corporation is required to repay the Secretary of the Treasury pursuant to subparagraph (A), all assessments paid bybanks to the Financial Assistance Corporation pursuant to subparagraph (B), and any part of the obligation to pay future assessments to the Financial Assistance Corporation under subparagraph (B) that is recognized as an expense on the books of any System bank or association, shall nonetheless be included in the capital of the bank or association for purposes of determining its compliance with regulatory capital requirements.
 
 #### (ii) During the final 5 years prior to repayment
 
@@ -166,7 +166,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (iv) Banks leaving System
 
-&emsp;&emsp;&emsp;Any bank leaving the Farm Credit System pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to the Financial Assistance Corporation the estimated present value of the payment required under this subparagraph had the bank remained in the System. A liability to the Financial Assistance Corporation in this amount (calculated as if the bank had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the Financial Assistance Corporation against the estate of any bank undergoing liquidation. The obligations of other banks shall not be reduced in anticipation of any such recoveries from banks leaving the System or in liquidation, but the Financial Assistance Corporation shall apply the recoveries, when received, and all earnings on the recoveries, to reduce the other banks’ payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to the other banks in proportion to the other banks’ payments.
+&emsp;&emsp;&emsp;Any bank leaving the Farm Credit System pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to the Financial Assistance Corporation the estimated present value of the payment required under this subparagraph had the bank remained in the System. A liability to the Financial Assistance Corporation in this amount (calculated as if the bank had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the Financial Assistance Corporation against the estate of any bank undergoing liquidation. The obligations of other banks shall not be reduced in anticipation of any such recoveries from banks leaving the System or in liquidation, but the Financial Assistance Corporation shall apply the recoveries, when received, and all earnings on the recoveries, to reduce the other banks' payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to the other banks in proportion to the other banks' payments.
 
 #### (v) Associations terminating System status or in liquidation
 
@@ -200,7 +200,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) Evaluation
 
-&emsp;&emsp;&emsp;Not later than 90 days before the maturity of any obligation issued under subsection (a) of this section, the Farm CreditAdministration shall complete an evaluation of the general financial condition of each System institution that issued preferred stock under section 2278b–7(a) of this title with respect to such obligation to determine whether such System institution will be able to redeem such stock at par value on the maturity of the obligation, and remain a viable institution capable of providing credit to eligible borrowers at equitable and competitive interest rates.
+&emsp;&emsp;&emsp;Not later than 90 days before the maturity of any obligation issued under subsection (a) of this section, the Farm Credit Administration shall complete an evaluation of the general financial condition of each System institution that issued preferred stock under section 2278b–7(a) of this title with respect to such obligation to determine whether such System institution will be able to redeem such stock at par value on the maturity of the obligation, and remain a viable institution capable of providing credit to eligible borrowers at equitable and competitive interest rates.
 
 #### (ii) Availability of evaluation
 
@@ -224,7 +224,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) Certain principal and interest obligations
 
-&emsp;&emsp;&emsp;In each instance in which the Secretary of the Treasury is required to make a payment under subparagraph (A) to the Financial Assistance Corporation as a result of a default made by a System bank on interest due from such System bank under subsection (c) of this section, on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section, the Secretary of the Treasury shall recover the amount of the payments the Secretary made, with respect to each defaulting bank, from such defaulting bank. If the Secretary has not recovered the full amount due from the defaulting bank by the end of the 12-month period beginning on the date of payment by the Secretary, the uncollected amount shall be paid to the Secretary from the Insurance Fund established under section 2277a–9 of this title.
+&emsp;&emsp;&emsp;In each instance in which the Secretary of the Treasury is required to make a payment under subparagraph (A) to the Financial Assistance Corporation as a result of a default made by a System bank on interest due from such System bank under subsection (c) of this section, on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section, the Secretary of the Treasury shall recover the amount of the payments the Secretary made, with respect to each defaulting bank, from such defaulting bank. If the Secretary has not recovered the full amount due from the defaulting bank by the end of the 12-month period beginning on the date of payment by the Secretary,the uncollected amount shall be paid to the Secretary from the Insurance Fund established under section 2277a–9 of this title.
 
 #### (ii) Principal of bonds issued to fund purchase of preferred stock
 
@@ -236,9 +236,9 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (e) Administration
 
-#### (1) “Retail loan volume” defined
+#### (1) "Retail loan volume" defined
 
-&emsp;As used in this section, the term “retail loan volume” means all loans (as defined in accordance with generally accepted accounting principles) by a System bank or association, excluding loans by such a bank or association to another System institution.
+&emsp;As used in this section, the term "retail loan volume" means all loans (as defined in accordance with generally accepted accounting principles) by a System bank or association, excluding loans by such a bank or association to another System institution.
 
 #### (2) Calculation of average annual loan volumes
 
@@ -246,87 +246,87 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (3) Exclusion of banks undergoing liquidation
 
-&emsp;For purposes of this section and section 2278a–9 of this title, the term “bank” shall not include a bank that had entered liquidation prior to October 28, 1992.
+&emsp;For purposes of this section and section 2278a–9 of this title, the term "bank" shall not include a bank that had entered liquidation prior to October 28, 1992.
 
 (Pub. L. 92–181, title VI, §6.26, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1597; amended Pub. L. 100–399, title II, §201(p)–(x), Aug. 17, 1988, 102 Stat. 991, 992; Pub. L. 102–552, title III, §§302–304(a), 305, 306, Oct. 28, 1992, 106 Stat. 4109–4111, 4114.)
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c)(2)(B). Pub. L. 102–552, §305(1)(A), (B), substituted “banks” for “institutions” wherever appearing in heading and text.
+<b>1992</b>—Subsec. (c)(2)(B). Pub. L. 102–552, §305(1)(A), (B), substituted "banks" for "institutions" wherever appearing in heading and text.
 
 Subsec. (c)(2)(C), (D). Pub. L. 102–552, §305(1)(C), added subpar. (C) and struck out former subpars. (C) and (D) which read as follows:
 
-“(C)
+"(C)
 
 Allocation.—During each year of the second 5-year period, each System institution shall pay to the Financial Assistance Corporation a proportion of the interest due from System institutions under this paragraph equal to—
 
-&emsp;“(i) the amount of the performing loan volume of the institution (based on the average loan volume for the preceding year); divided by
+&emsp;"(i) the amount of the performing loan volume of the institution (based on the average loan volume for the preceding year); divided by
 
-&emsp;“(ii) the total performing loan volume of the System for the preceding year.
+&emsp;"(ii) the total performing loan volume of the System for the preceding year.
 
-“(D)
+"(D)
 
-Special rule.—For purposes of determining the average loan volume of Farm Credit Banks, loan volume shall consist of loans made by such banks with the exception of loans made to associations.”
+Special rule.—For purposes of determining the average loan volume of Farm Credit Banks, loan volume shall consist of loans made by such banks with the exception of loans made to associations."
 
-Subsec. (c)(3), (4). Pub. L. 102–552, §305(1)(B), substituted “banks” for “institutions”.
+Subsec. (c)(3), (4). Pub. L. 102–552, §305(1)(B), substituted "banks" for "institutions".
 
 Subsec. (c)(5). Pub. L. 102–552, §304(a), amended par. (5) generally, substituting present provisions for provisions relating to repayments by System institutions generally, time of payments, and terms of payments.
 
-Subsec. (d)(1)(B). Pub. L. 102–552, §302, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Except as provided in subparagraph (C), in order to enable the Financial Assistance Corporation to repay the obligation referred to in subparagraph (A), each institution that issued preferred stock under section 2278b–7(a) of this title with respect to such obligation (or the successor thereto) shall pay to the Financial Assistance Corporation, before the maturity date of such obligation, an amount equal to the par value of such stock outstanding for such institution.”
+Subsec. (d)(1)(B). Pub. L. 102–552, §302, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Except as provided in subparagraph (C), in order to enable the Financial Assistance Corporation to repay the obligation referred to in subparagraph (A), each institution that issued preferred stock under section 2278b–7(a) of this title with respect to such obligation (or the successor thereto) shall pay to the Financial Assistance Corporation, before the maturity date of such obligation, an amount equal to the par value of such stock outstanding for such institution."
 
-Subsec. (d)(1)(C). Pub. L. 102–552, §303, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “In order to enable the Financial Assistance Corporation to repay the obligations issued to provide assistance under section 410(c) of the Agricultural Credit Act of 1987 and section 2162(c) of this title, or issued to provide funds to cover the expenses of the Assistance Board under section 2278a–7(a) of this title, each System institution shall pay to the Financial Assistance Corporation a proportion of such obligation equal to—
+Subsec. (d)(1)(C). Pub. L. 102–552, §303, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "In order to enable the Financial Assistance Corporation to repay the obligations issued to provide assistance under section 410(c) of the Agricultural Credit Act of 1987 and section 2162(c) of this title, or issued to provide funds to cover the expenses of the Assistance Board under section 2278a–7(a) of this title, each System institution shall pay to the Financial Assistance Corporation a proportion of such obligation equal to—
 
-&emsp;“(i) the average performing loan volume of the institution for the preceding 15 years; divided by
+&emsp;"(i) the average performing loan volume of the institution for the preceding 15 years; divided by
 
-&emsp;“(ii) the average performing loan volume of all of the System institutions for the same period.”
+&emsp;"(ii) the average performing loan volume of all of the System institutions for the same period."
 
-Subsec. (d)(1)(D), (E). Pub. L. 102–552, §305(2), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “(D)
+Subsec. (d)(1)(D), (E). Pub. L. 102–552, §305(2), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: "(D)
 
-Special rule.—For purposes of determining the average loan volume of Farm Credit Banks, loan volume shall consist of loans made by such banks with the exception of loans made to associations.”
+Special rule.—For purposes of determining the average loan volume of Farm Credit Banks, loan volume shall consist of loans made by such banks with the exception of loans made to associations."
 
-Subsec. (d)(3)(A). Pub. L. 102–552, §306(1)(A), inserted heading and struck out former heading “Interest”, in cl. (i), inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section,”, struck out “of the interest” after “the amount” in two places, and substituted “bank” for “institution” wherever appearing, in cl. (ii), struck out “of interest” after “the full amount”, and substituted “defaulting bank” for “defaulting institution” and “any uncollected amount” for “such uncollected interest”, and in cl. (iii), substituted “allocated to other System banks in accordance with the allocation mechanism applicable under this chapter to the particular defaulted obligation.” for “added to the amount of interest due from remaining System institutions, under subsection (c) of this section, and each remaining System institution, subject to the special rule provided in subsection (c)(2)(D) of this section, shall pay to the Trust Fund a proportion of the uncollected interest equal to—
+Subsec. (d)(3)(A). Pub. L. 102–552, §306(1)(A), inserted heading and struck out former heading "Interest", in cl. (i), inserted "on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section,", struck out "of the interest" after "the amount" in two places, and substituted "bank" for "institution" wherever appearing, in cl. (ii), struck out "of interest" after "the full amount", and substituted "defaulting bank" for "defaulting institution" and "any uncollected amount" for "such uncollected interest", and in cl. (iii), substituted "allocated to other System banks in accordance with the allocation mechanism applicable under this chapter to the particular defaulted obligation." for "added to the amount of interest due from remaining System institutions, under subsection (c) of this section, and each remaining System institution, subject to the special rule provided in subsection (c)(2)(D) of this section, shall pay to the Trust Fund a proportion of the uncollected interest equal to—
 
-&emsp;“(I) the amount of the performing loan volume of the institution (based on the average loan volume for the preceding year); divided by
+&emsp;"(I) the amount of the performing loan volume of the institution (based on the average loan volume for the preceding year); divided by
 
-&emsp;“(II) the total performing loan volume of the System.”
+&emsp;"(II) the total performing loan volume of the System."
 
-Subsec. (d)(3)(B). Pub. L. 102–552, §306(1)(B), inserted heading and struck out former heading “Principal”.
+Subsec. (d)(3)(B). Pub. L. 102–552, §306(1)(B), inserted heading and struck out former heading "Principal".
 
-Subsec. (d)(3)(C). Pub. L. 102–552, §306(1)(C), substituted “banks” for “institutions” wherever appearing in heading and text, “bank” for “institution”, and “any amounts” for “the amount of any interest”.
+Subsec. (d)(3)(C). Pub. L. 102–552, §306(1)(C), substituted "banks" for "institutions" wherever appearingin heading and text, "bank" for "institution", and "any amounts" for "the amount of any interest".
 
-Subsec. (d)(4)(A). Pub. L. 102–552, §306(2)(A), inserted “or section 2278a–9(e)(3)(A) of this title”.
+Subsec. (d)(4)(A). Pub. L. 102–552, §306(2)(A), inserted "or section 2278a–9(e)(3)(A) of this title".
 
-Subsec. (d)(4)(B)(i). Pub. L. 102–552, §306(2)(B)(i), inserted heading and struck out former heading “Interest payments”, substituted “bank” for “institution” wherever appearing, and inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the paymentof an assessment due under subsection (c)(5)(B) of this section,”.
+Subsec. (d)(4)(B)(i). Pub. L. 102–552, §306(2)(B)(i), inserted heading and struck out former heading "Interest payments", substituted "bank" for "institution" wherever appearing, and inserted "on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section,".
 
-Subsec. (d)(4)(B)(ii). Pub. L. 102–552, §306(2)(B)(ii), inserted heading and struck out former heading “Principal payments”.
+Subsec. (d)(4)(B)(ii). Pub. L. 102–552, §306(2)(B)(ii), inserted heading and struck out former heading "Principal payments".
 
 Subsec. (e). Pub. L. 102–552, §305(3), added subsec. (e).
 
-<b>1988</b>—Subsec. (c)(2)(D). Pub. L. 100–399, §201(q), substituted “Farm Credit Banks” for “Federal intermediate credit banks and Federal land banks”.
+<b>1988</b>—Subsec. (c)(2)(D). Pub. L. 100–399, §201(q), substituted "Farm Credit Banks" for "Federal intermediate credit banks and Federal land banks".
 
-Pub. L. 100–399, §201(p), inserted “and Federal land banks” after “credit banks” and struck out “production credit” before “associations”.
+Pub. L. 100–399, §201(p), inserted "and Federal land banks" after "credit banks" and struck out "production credit" before "associations".
 
-Subsec. (c)(5)(B). Pub. L. 100–399, §201(r)(1), substituted “payments under this paragraph” for “interest payments”.
+Subsec. (c)(5)(B). Pub. L. 100–399, §201(r)(1), substituted "payments under this paragraph" for "interest payments".
 
-Pub. L. 100–399, §201(r)(2), substituted “referred to in subsection (d)(1)(E)” for “issued under subsection (d)(1)(C)”.
+Pub. L. 100–399, §201(r)(2), substituted "referred to in subsection (d)(1)(E)" for "issued under subsection (d)(1)(C)".
 
-Subsec. (c)(5)(C)(i). Pub. L. 100–399, §201(r)(1), substituted “payments under this paragraph” for “interest payments”.
+Subsec. (c)(5)(C)(i). Pub. L. 100–399, §201(r)(1), substituted "payments under this paragraph" for "interest payments".
 
-Subsec. (d). Pub. L. 100–399, §201(s), inserted “; defaults” after “principal” in heading.
+Subsec. (d). Pub. L. 100–399, §201(s), inserted "; defaults" after "principal" in heading.
 
-Subsec. (d)(1)(C). Pub. L. 100–399, §201(t), in introductory provisions substituted “issued to provide assistance under section 410(c) of the Agricultural Credit Act of 1987 and section 2162(c) of this title, or issued to provide funds to cover the expenses of the Assistance Board under section 2278a–7(a) of this title,” for “referred to in section 410(c) of the Agricultural Credit Act of 1987,” and “such obligation” for “such principal”, in cl. (i) substituted “institution” for “bank”, and in cl. (ii) substituted “institutions” for “banks”.
+Subsec. (d)(1)(C). Pub. L. 100–399, §201(t), in introductory provisions substituted "issued to provide assistance under section 410(c) of the Agricultural Credit Act of 1987 and section 2162(c) of this title, or issued to provide funds to cover the expenses of the Assistance Board under section 2278a–7(a) of this title," for "referred to in section 410(c) of the Agricultural Credit Act of 1987," and "such obligation" for "such principal", in cl. (i) substituted "institution" for "bank", and in cl. (ii) substituted "institutions" for "banks".
 
-Subsec. (d)(1)(D). Pub. L. 100–399, §201(q), substituted “Farm Credit banks” for “Federal intermediate credit banks and Federal land banks”.
+Subsec. (d)(1)(D). Pub. L. 100–399, §201(q), substituted "Farm Credit banks" for "Federal intermediate credit banks and Federal land banks".
 
-Pub. L. 100–399, §201(p), inserted “and Federal land banks” after “credit banks” and struck out “production credit” before “associations”.
+Pub. L. 100–399, §201(p), inserted "and Federal land banks" after "credit banks" and struck out "production credit" before "associations".
 
-Subsec. (d)(1)(E). Pub. L. 100–399, §201(u), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
+Subsec. (d)(1)(E). Pub. L. 100–399, §201(u), substituted "subparagraphs (B) and (C)" for "subparagraph (B)".
 
-Subsec. (d)(3)(A)(i), (iii). Pub. L. 100–399, §201(v), substituted “subsection (c) of this section” for “this subsection”.
+Subsec. (d)(3)(A)(i), (iii). Pub. L. 100–399, §201(v), substituted "subsection (c) of this section" for "this subsection".
 
-Subsec. (d)(3)(B)(iii). Pub. L. 100–399, §201(w), inserted “is prohibited from redeeming or” after “If such institution”.
+Subsec. (d)(3)(B)(iii). Pub. L. 100–399, §201(w), inserted "is prohibited from redeeming or" after "If such institution".
 
-Subsec. (d)(4)(B)(iii). Pub. L. 100–399, §201(x), substituted “section 2277a–9(c)(2)(B) of this title” for “section 2277a–9 of this title”.
+Subsec. (d)(4)(B)(iii). Pub. L. 100–399, §201(x), substituted "section 2277a–9(c)(2)(B) of this title" for "section 2277a–9 of this title".
 
 #### Effective Date of 1988 Amendment
 

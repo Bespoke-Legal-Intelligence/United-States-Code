@@ -4,13 +4,13 @@
 
 For purposes of this section:
 
-&emsp;(1) The term “governmental entity” means any agency of the United States, a State, or a unit of local government of a State.
+&emsp;(1) The term "governmental entity" means any agency of the United States, a State, or a unit of local government of a State.
 
-&emsp;(2) The terms “highly erodible land” and “wetland” have the meanings, respectively, that such terms are given in section 3801 of title 16.
+&emsp;(2) The terms "highly erodible land" and "wetland" have the meanings, respectively, that such terms are given in section 3801 of title 16.
 
-&emsp;(3) The term “wildlife” means fish or wildlife as defined in section 3371(a) of title 16.
+&emsp;(3) The term "wildlife" means fish or wildlife as defined in section 3371(a) of title 16.
 
-&emsp;(4) The term “recreational purposes” includes hunting.
+&emsp;(4) The term "recreational purposes" includes hunting.
 
 #### (b) Contracts on loan security properties
 
@@ -42,7 +42,7 @@ The terms and conditions specified in each such contract shall—
 
 (1) Subject to paragraph (2), the Secretary may reduce or forgive the outstanding debt of a borrower—
 
-&emsp;(A) in the case of a borrower to whom the Secretary has made one or more outstanding loans under laws administered by the Secretary, by canceling that part of the aggregate amount of such outstanding loans that bears the same ratio to such aggregate amount asthe number of acres of the real property of the borrower that are subject to the contract bears to the aggregate number of acres securing such loans; or
+&emsp;(A) in the case of a borrower to whom the Secretary has made one or more outstanding loans under laws administered by the Secretary, by canceling that part of the aggregate amount of such outstanding loans that bears the same ratio to such aggregate amount as the number of acres of the real property of the borrower that are subject to the contract bears to the aggregate number of acres securing such loans; or
 
 &emsp;(B) in any other case, by treating as prepaid that part of the principal amount of a new loan to the borrower issued and held by the Secretary under a law administered by the Secretary that bears the same ratio to such principal amount as the number of acres of the real property of the borrower that are subject to the contract bears to the aggregate number of acres securing the new loan.
 
@@ -70,37 +70,37 @@ The Secretary, and any person or governmental entity designated by the Secretary
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–127, §642(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to subsection (c) of this section, the Secretary may acquire and retain an easement in real property, for a term of not less than 50 years, for conservation, recreational, and wildlife purposes.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §642(1), added subsec. (b) and struck out former subsec. (b) which read as follows: "Subject to subsection (c) of this section, the Secretary may acquire and retain an easement in real property, for a term of not less than 50 years, for conservation, recreational, and wildlife purposes."
 
-Subsec. (c). Pub. L. 104–127, §642(2)(A), inserted heading and substituted “The Secretary may enter into a contract under subsection (b) of this section if” for “Such easement may be acquired or retained for real property if”.
+Subsec. (c). Pub. L. 104–127, §642(2)(A), inserted heading and substituted "The Secretary may enter into a contract under subsection (b) of this section if" for "Such easement may be acquired or retained for real property if".
 
-Subsec. (c)(2). Pub. L. 104–127, §642(2)(B), inserted “and” at end.
+Subsec. (c)(2). Pub. L. 104–127, §642(2)(B), inserted "and" at end.
 
-Subsec. (c)(3). Pub. L. 104–127, §642(2)(C), struck out “(i)” after “(3)(A)”, substituted “administered by the Secretary” for “administered by the Farmers Home Administration”, redesignated cl. (ii) of subpar. (A) as subpar. (B), substituted “such contract” for “such easement” and a period for “; or” at end, and struck out former subpar. (B) which read as follows: “such property is administered under this chapter by the Secretary; and”.
+Subsec. (c)(3). Pub. L. 104–127, §642(2)(C), struck out "(i)" after "(3)(A)", substituted "administered by the Secretary" for "administered by the Farmers Home Administration", redesignated cl. (ii) of subpar. (A) as subpar. (B), substituted "such contract" for "such easement" and a period for "; or" at end, and struck out former subpar. (B) which read as follows: "such property is administered under this chapter by the Secretary; and".
 
-Subsec. (c)(4). Pub. L. 104–127, §642(2)(D), struck out par. (4) which read as follows: “such property was (except in the case of wetland and other wildlife habitat) row cropped each year of the 3-year period ending on December 23, 1985.”
+Subsec. (c)(4). Pub. L. 104–127, §642(2)(D), struck out par. (4) which read as follows: "such property was (except in the case of wetland and other wildlife habitat) row cropped each year of the 3-year period ending on December 23, 1985."
 
-Subsec. (d). Pub. L. 104–127, §642(3), substituted “contract” for “easement” in introductory provisions and par. (3).
+Subsec. (d). Pub. L. 104–127, §642(3), substituted "contract" for "easement" in introductory provisions and par. (3).
 
-Subsec. (e). Pub. L. 104–127, §642(4), in par. (1), substituted “reduce or forgive the outstanding debt of a borrower” for “purchase any such easement from the borrower” in introductory provisions, in subpars. (A) and (B), substituted “administered by the Secretary” for “administered by the Farmers Home Administration” and “contract bears” for “easement bears”, and in par. (2)(A), substituted “contract is entered into” for “easement is acquired”.
+Subsec. (e). Pub. L. 104–127, §642(4), in par. (1), substituted "reduce or forgive the outstanding debt of a borrower" for "purchase any such easement from the borrower" in introductory provisions, in subpars. (A) and (B), substituted "administered by the Secretary" for "administered by the Farmers Home Administration" and "contract bears" for "easement bears", and in par. (2)(A), substituted "contract is entered into" for "easement is acquired".
 
-Subsec. (f). Pub. L. 104–127, §642(5), in par. (1), substituted “enter into contracts” for “acquire easements” and in pars. (2) and (3), substituted “contracts” for “easements”.
+Subsec. (f). Pub. L. 104–127, §642(5), in par. (1), substituted "enter into contracts" for "acquire easements" and in pars. (2) and (3), substituted "contracts" for "easements".
 
-Subsec. (g). Pub. L. 104–127, §642(6), substituted “a contract entered into” for “an easement acquired”.
+Subsec. (g). Pub. L. 104–127, §642(6), substituted "a contract entered into" for "an easement acquired".
 
 <b>1990</b>—Subsec. (a)(4), (5). Pub. L. 101–624, §2388(j), redesignated par. (5) as (4).
 
-Subsec. (c). Pub. L. 101–624, §1815(1)(A)–(D), (F), (G), in introductory provision, struck out “such property” after “real property if”, and inserted “such property” after par. (1), (2), (3)(A)(i), (3)(B), and (4) designations.
+Subsec. (c). Pub. L. 101–624, §1815(1)(A)–(D), (F), (G), in introductory provision, struck out "such property" after "real property if", and inserted "such property" after par. (1), (2), (3)(A)(i), (3)(B), and (4) designations.
 
-Subsec. (c)(3)(A)(ii). Pub. L. 101–624, §1815(1)(E), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the borrower of such loan is unable, as determined by the Secretary, to repay such loan in a timely manner; or”.
+Subsec. (c)(3)(A)(ii). Pub. L. 101–624, §1815(1)(E), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the borrower of such loan is unable, as determined by the Secretary, to repay such loan in a timely manner; or".
 
-Subsec. (e). Pub. L. 101–624, §1815(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any such easement acquired by the Secretary shall be purchased from the borrower involved by canceling that part of the aggregate amount of such outstanding loans of the borrower held by the Secretary under laws administered by the Farmers Home Administration that bears the same ratio to the aggregate amount of the outstanding loans of such borrower held by the Secretary under all such laws as the number of acres of the real property of such borrower that are subject to such easement bears to the aggregate number of acres securing such loans. In no case shall the amount so cancelled exceed the value of the land on which the easement is acquired or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater.”
+Subsec. (e). Pub. L. 101–624, §1815(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Any such easement acquired by the Secretary shall be purchased from the borrower involved by canceling that part of the aggregate amount of such outstanding loans of the borrower held by the Secretary under laws administered by the Farmers Home Administration that bears the same ratio to the aggregate amount of the outstanding loans of such borrower held by the Secretary under all such laws as the number of acres of the real property of such borrower that are subject to such easement bears to the aggregate number of acres securing such loans. In no case shall the amount so cancelled exceed the value of the land on which the easement is acquired or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater."
 
-Subsec. (h). Pub. L. 101–624, §1815(9), struck out subsec. (h) which read as follows: “This section shall not apply with respect to the cancellation of any part of any loan that was made after December 25, 1985.”
+Subsec. (h). Pub. L. 101–624, §1815(9), struck out subsec. (h) which read as follows: "This section shall not apply with respect to the cancellation of any part of any loan that was made after December 25, 1985."
 
-<b>1988</b>—Subsec. (c)(4). Pub. L. 100–233, §612(1), inserted “and other wildlife habitat” after “wetland”.
+<b>1988</b>—Subsec. (c)(4). Pub. L. 100–233, §612(1), inserted "and other wildlife habitat" after "wetland".
 
-Subsec. (e). Pub. L. 100–233, §612(2), inserted “or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater” at end of second sentence.
+Subsec. (e). Pub. L. 100–233, §612(2), inserted "or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater" at end of second sentence.
 
 #### Effective Date of 1996 Amendment
 

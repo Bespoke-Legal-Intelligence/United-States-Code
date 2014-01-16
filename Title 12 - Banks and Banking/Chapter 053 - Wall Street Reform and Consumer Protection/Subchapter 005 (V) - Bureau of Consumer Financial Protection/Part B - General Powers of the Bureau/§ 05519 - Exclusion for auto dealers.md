@@ -44,7 +44,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Motor vehicle
 
-&emsp;The term “motor vehicle” means—
+&emsp;The term "motor vehicle" means—
 
 &emsp;&emsp;(A) any self-propelled vehicle designed for transporting persons or property on a street, highway, or other road;
 
@@ -58,7 +58,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Motor vehicle dealer
 
-&emsp;The term “motor vehicle dealer” means any person or resident in the United States, or any territory of the United States, who—
+&emsp;The term "motor vehicle dealer" means any person or resident in the United States, or any territory of the United States, who—
 
 &emsp;&emsp;(A) is licensed by a State, a territory of the United States, or the District of Columbia to engage in the sale of motor vehicles; and
 

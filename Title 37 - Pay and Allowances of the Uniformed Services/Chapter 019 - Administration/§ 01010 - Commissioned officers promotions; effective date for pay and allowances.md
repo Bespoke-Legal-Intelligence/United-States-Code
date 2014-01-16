@@ -6,7 +6,7 @@ An officer of a uniformed service who is promoted to a grade above second lieute
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–364 substituted “promotions” for “promotion” in section catchline.
+<b>2006</b>—Pub. L. 109–364 substituted "promotions" for "promotion" in section catchline.
 
 #### Effective Date
 

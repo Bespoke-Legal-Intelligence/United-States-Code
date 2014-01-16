@@ -72,5 +72,5 @@ The Council, through the Committee, shall be responsible for planning and coordi
 
 (Pub. L. 101–606, title I, §102, Nov. 16, 1990, 104 Stat. 3097.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “relevant”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "relevant".</i>
 

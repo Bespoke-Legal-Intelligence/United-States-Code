@@ -4,7 +4,7 @@
 
 #### (1) Definition of special import quota
 
-&emsp;In this subsection, the term “special import quota” means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
+&emsp;In this subsection, the term "special import quota" means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
 
 #### (2) Establishment
 
@@ -52,7 +52,7 @@
 
 #### (A) Supply
 
-&emsp;&emsp;The term “supply” means, using the latest official data of the Bureau of the Census, the Department of Agriculture, and the Department of the Treasury—
+&emsp;&emsp;The term "supply" means, using the latest official data of the Bureau of the Census, theDepartment of Agriculture, and the Department of the Treasury—
 
 &emsp;&emsp;&emsp;(i) the carry-over of upland cotton at the beginning of the marketing year (adjusted to 480-pound bales) in which the quota is established;
 
@@ -62,7 +62,7 @@
 
 #### (B) Demand
 
-&emsp;&emsp;The term “demand” means—
+&emsp;&emsp;The term "demand" means—
 
 &emsp;&emsp;&emsp;(i) the average seasonally adjusted annual rate of domestic mill consumption of cotton during the most recent 3 months for which data are available; and
 
@@ -74,7 +74,7 @@
 
 #### (C) Limited global import quota
 
-&emsp;&emsp;The term “limited global import quota” means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
+&emsp;&emsp;The term "limited global import quota" means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
 
 #### (2) Program
 
@@ -118,7 +118,7 @@
 
 #### (A) Beginning period
 
-&emsp;&emsp;During the period beginning on August 1, 2008, and ending on July 31, 2012, the value ofthe assistance provided under paragraph (1) shall be 4 cents per pound.
+&emsp;&emsp;During the period beginning on August 1, 2008, and ending on July 31, 2012, the value of the assistance provided under paragraph (1) shall be 4 cents per pound.
 
 #### (B) Subsequent period
 

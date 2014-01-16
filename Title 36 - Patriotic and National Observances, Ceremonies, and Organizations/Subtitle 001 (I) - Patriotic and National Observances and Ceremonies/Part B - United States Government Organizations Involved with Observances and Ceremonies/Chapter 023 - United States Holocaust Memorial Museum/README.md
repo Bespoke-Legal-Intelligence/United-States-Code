@@ -21,7 +21,7 @@ A prior chapter 23, consisting of sections 2301 to 2309, related to the United S
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–284, §5(3), Sept. 27, 2006, 120 Stat. 1211, substituted “Museum” for “museum” in item 2306.
+<b>2006</b>—Pub. L. 109–284, §5(3), Sept. 27, 2006, 120 Stat. 1211, substituted "Museum" for "museum" in item 2306.
 
 
 ---

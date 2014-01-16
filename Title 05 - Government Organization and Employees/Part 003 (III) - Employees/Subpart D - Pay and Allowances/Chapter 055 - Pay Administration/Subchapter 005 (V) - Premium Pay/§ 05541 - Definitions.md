@@ -52,7 +52,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(x) an employee of a Federal land bank, a Federal intermediate credit bank, or a bank for cooperatives;
 
-&emsp;&emsp;(xi) an employee whose pay is fixed and adjusted from time to time in accordance with prevailing rates under subchapter IV of chapter 53 of this title, or by a wage board or similar administrative authority serving thesame purpose, except as provided by section 5544 or 5550b of this title;
+&emsp;&emsp;(xi) an employee whose pay is fixed and adjusted from time to time in accordance with prevailing rates under subchapter IV of chapter 53 of this title, or by a wage board or similar administrative authority serving the same purpose, except as provided by section 5544 or 5550b of this title;
 
 &emsp;&emsp;(xii) an employee of the Transportation Corps of the Army on a vessel operated by the United States, a vessel employee of the Environmental Science Services Administration, or a vessel employee of the Department of the Interior;
 
@@ -148,7 +148,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>1992</b>—Par. (3). Pub. L. 102–378 added par. (3).
 
-<b>1990</b>—Par. (2)(iv). Pub. L. 101–509 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “amember of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, or the Executive Protective Service;”.
+<b>1990</b>—Par. (2)(iv). Pub. L. 101–509 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “a member of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, or the Executive Protective Service;”.
 
 <b>1988</b>—Par. (2)(xvii). Pub. L. 100–325 added cl. (xvii).
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Effective Date of 1978 Amendments
 
-Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 Pub. L. 95–426, title II, §204(b)(5)(B), Oct. 7, 1978, 92 Stat. 974, provided that the amendment made by such section 204(b)(5)(B) is effective Oct. 1, 1978.
 
@@ -234,7 +234,7 @@ Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §115\], Nov. 29, 1999, 113 S
 
 “(b) Notwithstanding any other provision of law, neither the United States nor any individual or entity acting on its behalf shall be liable for premium pay under title 5, United States Code, sections 5542–5549, for any work performed on or after the date of the enactment of this Act \[Nov. 29, 1999\] by any individual employed as an attorney in the Department of Justice, including an Assistant United States Attorney.”
 
-\[Pub. L. 106–553, §1(a)(2) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, provided that: “Section 115 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act,2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113) \[set out above\] shall apply hereafter.”\]
+\[Pub. L. 106–553, §1(a)(2) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, provided that: “Section 115 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113) \[set out above\] shall apply hereafter.”\]
 
 #### Sense of Congress Relating to Law Enforcement Officer Provisions
 

@@ -1,6 +1,6 @@
 ### §2780. Debt collection
 
-(a)(1) Subject to paragraph (2), the Secretary of Defense shall enter into one or more contracts with a person for collection services to recover indebtedness owed to the United States (arising out of activities related to Department of Defense) that is delinquent by more than three months.
+(a)(1) Subject to paragraph (2), the Secretary of Defense shall enter into one or more contracts with a person for collection services to recover indebtedness owed to the United States (arising out of activities related to Departmentof Defense) that is delinquent by more than three months.
 
 (2) The authority of the Secretary to enter into a contract under this section for any fiscal year is subject to the availability of appropriations.
 
@@ -14,23 +14,23 @@
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–364 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the Secretary of Defense” for “The Secretary”, and added par. (2).
+<b>2006</b>—Subsec. (b). Pub. L. 109–364 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), the Secretary of Defense" for "The Secretary", and added par. (2).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–316 substituted “section 3711(e)” for “section 3711(f)”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–316 substituted "section 3711(e)" for "section 3711(f)".
 
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–364, div. A, title VI, §672(b), Oct. 17, 2006, 120 Stat. 2270, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section\] shall take effect on March 1, 2007.
 
-“(2)
+"(2)
 
-Application to prior actions.—Paragraph (2) of section 2780(b) of title 10, United States Code, as added by subsection (a), shall not be construed to apply to or invalidate any action taken under such section before March 1, 2007.”
+Application to prior actions.—Paragraph (2) of section 2780(b) of title 10, United States Code, as added by subsection (a), shall not be construed to apply to or invalidate any action taken under such section before March 1, 2007."
 
 #### Contracts for Recovery of Indebtedness
 
-Pub. L. 101–165, title IX, §9019, Nov. 21, 1989, 103 Stat. 1133, provided that: “During the current fiscal year and hereafter, the Department of Defense may enter into contracts to recover indebtedness to the United States pursuant to section 3718 of title 31, United States Code.”
+Pub. L. 101–165, title IX, §9019, Nov. 21, 1989, 103 Stat. 1133, provided that: "During the current fiscal year and hereafter, the Department of Defense may enter into contracts to recover indebtedness to the United States pursuant to section 3718 of title 31, United States Code."
 

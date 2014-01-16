@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Advanced insulation
 
-&emsp;The term “advanced insulation” means insulation that has an R value of not less than R35 per inch.
+&emsp;The term "advanced insulation" means insulation that has an R value of not less than R35 per inch.
 
 #### (2) Covered refrigeration unit
 
-&emsp;The term “covered refrigeration unit” means any—
+&emsp;The term "covered refrigeration unit" means any—
 
 &emsp;&emsp;(A) commercial refrigerated truck;
 

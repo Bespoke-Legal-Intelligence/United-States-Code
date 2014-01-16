@@ -12,9 +12,9 @@
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–447, div. J, title I, §109(b)(2), (3), Dec. 8, 2004, 118 Stat. 3344, substituted “MARCH, AND TREE” for “, AND MARCH” in chapter heading and added item 305.
+<b>2004</b>—Pub. L. 108–447, div. J, title I, §109(b)(2), (3), Dec. 8, 2004, 118 Stat. 3344, substituted "MARCH, AND TREE" for ", AND MARCH" in chapter heading and added item 305.
 
-<i><sup>1</sup></i><i> So in original. A comma probably should follow “EMBLEM”.</i>
+<i><sup>1</sup></i><i> So in original. A comma probably should follow "EMBLEM".</i>
 
 
 ---

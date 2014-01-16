@@ -1,6 +1,6 @@
 ### §829. Radio station deemed government station
 
-Any radio station, while assigned to authorized Coast Guard duty shall be deemed to be a radio station of the Coast Guard and a “government station” within the meaning of section 305 of the Communications Act of 1934 (47 U.S.C. 305).
+Any radio station, while assigned to authorized Coast Guard duty shall be deemed to be a radio station of the Coast Guard and a "government station" within the meaning of section 305 of the Communications Act of 1934 (47 U.S.C. 305).
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 556; Pub. L. 94–546, §1(38), Oct. 18, 1976, 90 Stat. 2522; Pub. L. 99–640, §10(a)(8), Nov. 10, 1986, 100 Stat. 3549.)
 
@@ -12,7 +12,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–640 substituted “section” for “Section”.
+<b>1986</b>—Pub. L. 99–640 substituted "section" for "Section".
 
-<b>1976</b>—Pub. L. 94–546 substituted “Section 305 of the Communications Act of 1934 (47 U.S.C. 305)” for “chapter 5, of Title 47”.
+<b>1976</b>—Pub. L. 94–546 substituted "Section 305 of the Communications Act of 1934 (47 U.S.C. 305)" for "chapter 5, of Title 47".
 

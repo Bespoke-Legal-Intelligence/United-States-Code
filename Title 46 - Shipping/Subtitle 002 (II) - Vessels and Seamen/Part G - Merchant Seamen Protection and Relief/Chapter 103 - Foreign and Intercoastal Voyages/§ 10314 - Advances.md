@@ -34,5 +34,5 @@ Section 10314 forbids advance payment of wages to seamen prior to the commenceme
 
 #### Amendments
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–640 struck out last sentence which read as follows: “However, this section applies to a vessel taking oysters.”
+<b>1986</b>—Subsec. (e). Pub. L. 99–640 struck out last sentence which read as follows: "However, this section applies to a vessel taking oysters."
 

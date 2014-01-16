@@ -30,7 +30,7 @@ Pub. L. 90–264, title I, §116(a)(1), (b), as added Pub. L. 97–125, §3(3), 
 
 40:816(b).
 
-In subsection (a), the words “by lease, purchase, or otherwise”, “without limitation”, and “interests in the nature of” are omitted as unnecessary.
+In subsection (a), the words "by lease, purchase, or otherwise", "without limitation", and "interests in the nature of" are omitted as unnecessary.
 
-In subsection (b), the words “Notwithstanding any other provision of law” are omitted as unnecessary.
+In subsection (b), the words "Notwithstanding any other provision of law" are omitted as unnecessary.
 

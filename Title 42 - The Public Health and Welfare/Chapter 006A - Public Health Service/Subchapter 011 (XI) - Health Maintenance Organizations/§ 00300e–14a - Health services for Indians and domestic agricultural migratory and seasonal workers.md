@@ -10,15 +10,15 @@ Section 254b of this title, referred to in text, was in the original a reference
 
 #### Codification
 
-Section was enacted as part of the Health Maintenance Organization Act of 1973, and not as part of thePublic Health Service Act which comprises this chapter.
+Section was enacted as part of the Health Maintenance Organization Act of 1973, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–626 substituted “section 254b” for “section 247d”.
+<b>1978</b>—Pub. L. 95–626 substituted "section 254b" for "section 247d".
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in text, pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in text, pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

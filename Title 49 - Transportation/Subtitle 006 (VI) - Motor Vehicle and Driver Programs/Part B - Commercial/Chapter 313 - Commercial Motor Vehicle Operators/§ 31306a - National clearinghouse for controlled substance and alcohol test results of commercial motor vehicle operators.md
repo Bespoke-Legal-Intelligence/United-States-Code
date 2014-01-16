@@ -38,7 +38,7 @@ Use of federal motor carrier safety administration recommendations.—In establi
 
 &emsp;&emsp;(A) the findings and recommendations contained in the Federal Motor Carrier Safety Administration's March 2004 report to Congress required under section 226 of the Motor Carrier Safety Improvement Act of 1999 (49 U.S.C. 31306 note); and
 
-&emsp;&emsp;(B) the findings and recommendations contained in the Government Accountability Office's May 2008 report to Congress entitled “Motor Carrier Safety: Improvements to Drug Testing Programs Could Better Identify Illegal Drug Users and Keep Them off the Road.”.
+&emsp;&emsp;(B) the findings and recommendations contained in the Government Accountability Office's May 2008 report to Congress entitled "Motor Carrier Safety: Improvements to Drug Testing Programs Could Better Identify Illegal Drug Users and Keep Them off the Road.".
 
 &emsp;(2)
 
@@ -64,7 +64,7 @@ Development of secure processes.—In establishing the clearinghouse, the Secret
 
 Employer alert of positive test result.—In establishing the clearinghouse, the Secretary shall develop a secure method for electronically notifying an employer of each additional positive test result or other noncompliance—
 
-&emsp;&emsp;(A) for an employee, that is entered into the clearinghouse during the 7-day period immediately following an employer's inquiry about the employee; and
+&emsp;&emsp;(A) for an employee, that is entered into the clearinghouse during the 7-day periodimmediately following an employer's inquiry about the employee; and
 
 &emsp;&emsp;(B) for an employee who is listed as having multiple employers.
 
@@ -178,7 +178,7 @@ Reporting of Records.—
 
 &emsp;(1)
 
-In general.—Beginning 30 days after the date that the clearinghouse is established under subsection (a), a medical review officer, employer, service agent, and other appropriate person, as determined by the Secretary, shall promptly submit to the Secretary any record generated after the clearinghouse is initiated of an individual who—
+In general.—Beginning 30 days after the date that the clearinghouse is establishedunder subsection (a), a medical review officer, employer, service agent, and other appropriate person, as determined by the Secretary, shall promptly submit to the Secretary any record generated after the clearinghouse is initiated of an individual who—
 
 &emsp;&emsp;(A) refuses to take an alcohol or controlled substances test required under title 49, Code of Federal Regulations;
 
@@ -212,7 +212,7 @@ Data quality and security standards for reporting and releasing.—The Secretary
 
 &emsp;&emsp;(B) the release of data from the clearinghouse is timely, accurate, and released to the appropriate authorized user under this section; and
 
-&emsp;&emsp;(C) an individual with a record in the clearinghouse has a cause of action for anyinappropriate use of information included in the clearinghouse.
+&emsp;&emsp;(C) an individual with a record in the clearinghouse has a cause of action for any inappropriate use of information included in the clearinghouse.
 
 &emsp;(6)
 
@@ -282,7 +282,7 @@ Protection of privacy of individuals.—A chief commercial driver's licensing of
 
 (i)
 
-National Transportation Safety Board.—The Secretary shall establish a process for the National Transportation Safety Board to request and receive an individual's record from the clearinghouse if the individual is involved in an accident that is under investigation by the National Transportation Safety Board.
+National Transportation Safety Board.—The Secretary shall establish a processfor the National Transportation Safety Board to request and receive an individual's record from the clearinghouse if the individual is involved in an accident that is under investigation by the National Transportation Safety Board.
 
 (j)
 
@@ -350,11 +350,11 @@ Definitions.—In this section—
 
 &emsp;(1)
 
-Authorized user.—The term “authorized user” means an employer, State licensing authority, or other person granted access to the clearinghouse under subsection (h).
+Authorized user.—The term "authorized user" means an employer, State licensing authority, or other person granted access to the clearinghouse under subsection (h).
 
 &emsp;(2)
 
-Chief commercial driver's licensing official.—The term “chief commercial driver's licensing official” means the official in a State who is authorized to—
+Chief commercial driver's licensing official.—The term "chief commercial driver's licensing official" means the official in a State who is authorized to—
 
 &emsp;&emsp;(A) maintain a record about commercial driver's licenses issued by the State; and
 
@@ -362,11 +362,11 @@ Chief commercial driver's licensing official.—The term “chief commercial dri
 
 &emsp;(3)
 
-Clearinghouse.—The term “clearinghouse” means the clearinghouse established under subsection (a).
+Clearinghouse.—The term "clearinghouse" means the clearinghouse established under subsection (a).
 
 &emsp;(4)
 
-Commercial motor vehicle operator.—The term “commercial motor vehicle operator” means an individual who—
+Commercial motor vehicle operator.—The term "commercial motor vehicle operator" means an individual who—
 
 &emsp;&emsp;(A) possesses a valid commercial driver's license issued in accordance with section 31308; and
 
@@ -374,11 +374,11 @@ Commercial motor vehicle operator.—The term “commercial motor vehicle operat
 
 &emsp;(5)
 
-Employer.—The term “employer” means a person or entity employing, or seeking to employ, 1 or more employees (including an individual who is self-employed) to be commercial motor vehicle operators.
+Employer.—The term "employer" means a person or entity employing, or seeking to employ, 1 or more employees (including an individual who is self-employed) to be commercial motor vehicle operators.
 
 &emsp;(6)
 
-Medical review officer.—The term “medical review officer” means a licensed physician who is responsible for—
+Medical review officer.—The term "medical review officer" means a licensed physician who is responsible for—
 
 &emsp;&emsp;(A) receiving and reviewing a laboratory result generated under the testing program;
 
@@ -388,15 +388,15 @@ Medical review officer.—The term “medical review officer” means a licensed
 
 &emsp;(7)
 
-Secretary.—The term “Secretary” means the Secretary of Transportation.
+Secretary.—The term "Secretary" means the Secretary of Transportation.
 
 &emsp;(8)
 
-Service agent.—The term “service agent” means a person or entity, other than an employee of the employer, who provides services to employers or employees under the testing program.
+Service agent.—The term "service agent" means a person or entity, other than an employee of the employer, who provides services to employers or employees under the testing program.
 
 &emsp;(9)
 
-Testing program.—The term “testing program” means the alcohol and controlled substances testing program required under title 49, Code of Federal Regulations.
+Testing program.—The term "testing program" means the alcohol and controlled substances testing program required under title 49, Code of Federal Regulations.
 
 (Added Pub. L. 112–141, div. C, title II, §32402(a)(2), July 6, 2012, 126 Stat. 795.)
 

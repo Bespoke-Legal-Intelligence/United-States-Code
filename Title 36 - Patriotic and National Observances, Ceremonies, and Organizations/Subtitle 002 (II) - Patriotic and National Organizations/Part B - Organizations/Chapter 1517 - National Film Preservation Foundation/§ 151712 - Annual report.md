@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 11, 1996, Pub. L. 104–285, title II, §207(b), 110 Stat. 3385.
 
-The word “proceedings” is omitted for consistency in the revised title.
+The word "proceedings" is omitted for consistency in the revised title.
 

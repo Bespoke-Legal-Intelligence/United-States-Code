@@ -16,7 +16,7 @@ Where cultural affiliation of Native American unassociated funerary objects, sac
 
 #### (c) Standard of repatriation
 
-If a known lineal descendant or an Indian tribe or Native Hawaiian organization requests the return of Native American unassociated funerary objects, sacred objects, or objects of cultural patrimony pursuant to this subchapter and presents evidence which, if standing alone before the introduction of evidence to the contrary, would support a finding that the Smithsonian Institution did not have the right of possession, then the Smithsonian Institution shall return such objects unless it can overcome such inference and prove that it has a right of possession to the objects.
+If a known lineal descendant or an Indian tribe or Native Hawaiian organization requests the return of Native American unassociated funerary objects, sacred objects, or objects of cultural patrimony pursuant to this subchapter and presents evidence which, if standing alone before the introduction of evidence to the contrary, would support a finding that the Smithsonian Institution did not have the right of possession, then the Smithsonian Institution shall returnsuch objects unless it can overcome such inference and prove that it has a right of possession to the objects.
 
 #### (d) Museum obligation
 
@@ -26,9 +26,9 @@ Any museum of the Smithsonian Institution which repatriates any item in good fai
 
 Nothing in this section may be construed to prevent the Secretary of the Smithsonian Institution, with respect to any museum of the Smithsonian Institution, from making an inventory or preparing a written summary or carrying out the repatriation of unassociated funerary objects, sacred objects, or objects of cultural patrimony in a manner that exceeds the requirements of this subchapter.
 
-#### (f) “Native Hawaiian organization” defined
+#### (f) "Native Hawaiian organization" defined
 
-For purposes of this section, the term “Native Hawaiian organization” has the meaning provided that term in section 3001(11) of title 25.
+For purposes of this section, the term "Native Hawaiian organization" has the meaning provided that term in section 3001(11) of title 25.
 
 (Pub. L. 101–185, §11A, as added Pub. L. 104–278, §4, Oct. 9, 1996, 110 Stat. 3355.)
 

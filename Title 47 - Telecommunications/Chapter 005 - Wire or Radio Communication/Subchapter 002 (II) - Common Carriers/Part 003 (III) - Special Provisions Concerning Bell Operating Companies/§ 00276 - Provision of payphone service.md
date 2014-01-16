@@ -36,9 +36,9 @@ After the effective date of the rules prescribed pursuant to subsection (b) of t
 
 To the extent that any State requirements are inconsistent with the Commission's regulations, the Commission's regulations on such matters shall preempt such State requirements.
 
-#### (d) “Payphone service” defined
+#### (d) "Payphone service" defined
 
-As used in this section, the term “payphone service” means the provision of public or semi-public pay telephones, the provision of inmate telephone service in correctional institutions, and any ancillary services.
+As used in this section, the term "payphone service" means the provision of public or semi-public pay telephones, the provision of inmate telephone service in correctional institutions, and any ancillary services.
 
 (June 19, 1934, ch. 652, title II, §276, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 10 Stat. 106.)
 

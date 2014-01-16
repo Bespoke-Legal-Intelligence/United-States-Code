@@ -26,5 +26,5 @@ Act of September 1, 1954, referred to in subsec. (b), is act Sept. 1, 1954, ch. 
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–126 substituted “Cedar” for “Cedar City”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–126 substituted "Cedar" for "Cedar City".
 

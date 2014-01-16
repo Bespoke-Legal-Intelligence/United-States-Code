@@ -44,17 +44,17 @@ Of the applicants who qualify for preference under this section—
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect onSept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
-Subsec. (a). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
+Subsec. (a). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease".
 
-Subsec. (b)(1)(A). Pub. L. 109–415, §302(b)(1)(A), substituted “HIV/AIDS” for “acquired immune deficiency syndrome”.
+Subsec. (b)(1)(A). Pub. L. 109–415, §302(b)(1)(A), substituted "HIV/AIDS" for "acquired immune deficiency syndrome".
 
-Subsec. (b)(1)(D). Pub. L. 109–415, §302(b)(1)(B), inserted “and the number of cases of individuals co-infected with HIV/AIDS and hepatitis B or C” before semicolon at end.
+Subsec. (b)(1)(D). Pub. L. 109–415, §302(b)(1)(B), inserted "and the number of cases of individuals co-infected with HIV/AIDS and hepatitis B or C" before semicolon at end.
 
-Subsec. (d)(2). Pub. L. 109–415, §302(b)(2), substituted “preference” for “special consideration”.
+Subsec. (d)(2). Pub. L. 109–415, §302(b)(2), substituted "preference" for "special consideration".
 
 <b>2000</b>—Subsec. (d). Pub. L. 106–345 added subsec. (d).
 
@@ -62,7 +62,7 @@ Subsec. (d)(2). Pub. L. 109–415, §302(b)(2), substituted “preference” for
 
 For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. A comma probably should appear.</i>
 

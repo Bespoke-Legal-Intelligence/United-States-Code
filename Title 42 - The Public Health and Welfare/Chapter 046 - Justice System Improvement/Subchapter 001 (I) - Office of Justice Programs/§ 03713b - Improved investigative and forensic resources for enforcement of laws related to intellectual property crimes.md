@@ -6,7 +6,7 @@ Subject to the availability of appropriations to carry out this subsection, the 
 
 &emsp;(1) ensure that there are at least 10 additional operational agents of the Federal Bureau of Investigation designated to support the Computer Crime and Intellectual Property Section of the Criminal Division of the Department of Justice in the investigation and coordination of intellectual property crimes;
 
-&emsp;(2) ensure that any Computer Hacking and Intellectual Property Crime Unit in the Department of Justice is supported by at least 1 agent of the Federal Bureau of Investigation (in addition to any agent supporting such unit as of October 13, 2008) to support such unit for the purpose of investigating or prosecuting intellectual property crimes;
+&emsp;(2) ensure that any Computer Hacking and Intellectual Property Crime Unit in the Department of Justice is supported by at least 1agent of the Federal Bureau of Investigation (in addition to any agent supporting such unit as of October 13, 2008) to support such unit for the purpose of investigating or prosecuting intellectual property crimes;
 
 &emsp;(3) ensure that all Computer Hacking and Intellectual Property Crime Units located at an office of a United States Attorney are assigned at least 2 Assistant United States Attorneys responsible for investigating and prosecuting computer hacking or intellectual property crimes; and
 
@@ -18,7 +18,7 @@ Subject to the availability of appropriations to carry out this subsection, the 
 
 #### (b) Organized crime plan
 
-Subject to the availability of appropriations to carry out this subsection, and not later than180 days after October 13, 2008, the Attorney General, through the United States Attorneys’ Offices, the Computer Crime and Intellectual Property section, and the Organized Crime and Racketeering section of the Department of Justice, and in consultation with the Federal Bureau of Investigation and other Federal law enforcement agencies, such as the Department of Homeland Security, shall create and implement a comprehensive, long-range plan to investigate and prosecute international organized crime syndicates engaging in or supporting crimes relating to the theft of intellectual property.
+Subject to the availability of appropriations to carry out this subsection, and not later than 180 days after October 13, 2008, the Attorney General, through the United States Attorneys' Offices, the Computer Crime and Intellectual Property section, and the Organized Crime and Racketeering section of the Department of Justice, and in consultation with the Federal Bureau of Investigation and other Federal law enforcement agencies, such as the Department of Homeland Security, shall create and implement a comprehensive, long-range plan to investigate and prosecute international organized crime syndicates engaging in or supporting crimes relating to the theft of intellectual property.
 
 #### (c) Authorization
 

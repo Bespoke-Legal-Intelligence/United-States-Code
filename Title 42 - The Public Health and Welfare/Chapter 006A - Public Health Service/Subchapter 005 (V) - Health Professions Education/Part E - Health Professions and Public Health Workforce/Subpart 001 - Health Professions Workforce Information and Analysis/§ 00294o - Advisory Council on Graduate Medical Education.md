@@ -2,9 +2,9 @@
 
 #### (a) Establishment; duties
 
-There is established the Council on Graduate Medical Education (in this section referred to as the “Council”). The Council shall—
+There is established the Council on Graduate Medical Education (in this section referred to as the "Council"). The Council shall—
 
-&emsp;(1) make recommendations to the Secretary of Health and Human Services (in this section referred to as the “Secretary”), and to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
+&emsp;(1) make recommendations to the Secretary of Health and Human Services (in this section referred to as the "Secretary"), and to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
 
 &emsp;&emsp;(A) the supply and distribution of physicians in the United States;
 
@@ -46,7 +46,7 @@ The Council shall be composed of—
 
 #### (1) In general; staggered rotation
 
-&emsp;Members of the Council appointed under paragraphs (4), (5), and (6) of subsection (b) of this section shall be appointed for a term of 4 years, except that the term of office of the members first appointed shall expire, as designated by the Secretary at the time of appointment, 4 at the end of 1 year, 4 at the end of 2 years, 3 at the end of 3 years, and 3 at the end of 4 years.
+&emsp;Members of the Council appointed under paragraphs (4), (5), and (6) of subsection (b) of this section shall be appointed for a term of 4 years, except that the term of office of themembers first appointed shall expire, as designated by the Secretary at the time of appointment, 4 at the end of 1 year, 4 at the end of 2 years, 3 at the end of 3 years, and 3 at the end of 4 years.
 
 #### (2) Date certain for appointment
 
@@ -118,15 +118,15 @@ Another prior section 762 of act July 1, 1944, was classified to section 295a of
 
 <b>2010</b>—Subsec. (a)(3) to (5). Pub. L. 111–148 added pars. (3) to (5).
 
-<b>2002</b>—Subsec. (k). Pub. L. 107–251 substituted “2003” for “2002”.
+<b>2002</b>—Subsec. (k). Pub. L. 107–251 substituted "2003" for "2002".
 
-<b>1998</b>—Subsec. (j). Pub. L. 105–392, §104(b)(1), substituted “2002” for “1995”.
+<b>1998</b>—Subsec. (j). Pub. L. 105–392, §104(b)(1), substituted "2002" for "1995".
 
-Subsec. (k). Pub. L. 105–392, §104(b)(2), substituted “2002” for “1995”.
+Subsec. (k). Pub. L. 105–392, §104(b)(2), substituted "2002" for "1995".
 
 Subsec. (l). Pub. L. 105–392, §104(b)(3), added subsec. (l).
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–531 substituted “voluntarily” for “voluntary”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–531 substituted "voluntarily" for "voluntary".
 
 #### Change of Name
 
@@ -134,7 +134,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-Reference to Chief Medical Director of Department of Veterans Affairs deemed to refer to Under Secretary for Health of Department of Veterans Affairs pursuant to section 302(e) of Pub. L. 102–405, set out as a note under section 305 of Title 38, Veterans’ Benefits.
+Reference to Chief Medical Director of Department of Veterans Affairs deemed to refer to Under Secretary for Health of Department of Veterans Affairs pursuant to section 302(e) of Pub. L. 102–405, set out as a note under section 305 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 1992 Amendment
 
@@ -146,7 +146,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Funding for Council on Graduate Medical Education
 
-Pub. L. 112–74, div. F, title II, §215, Dec. 23, 2011, 125 Stat. 1085, provided that: “Notwithstanding any other provisions of law, discretionary funds made available in this Act \[div. F of Pub. L. 112–74, see Tables for classification\] may be used to continue operating the Council on Graduate Medical Education established by section 301 of Public Law 102–408 \[now section 762 of act July 1, 1944, which is classified to this section\].”
+Pub. L. 112–74, div. F, title II, §215, Dec. 23, 2011, 125 Stat. 1085, provided that: "Notwithstanding any other provisions of law, discretionary funds made available in this Act \[div. F of Pub. L. 112–74, see Tables for classification\] may be used to continue operating the Council on Graduate Medical Education established by section 301 of Public Law 102–408 \[now section 762 of act July 1, 1944, which is classified to this section\]."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -162,5 +162,5 @@ Pub. L. 108–447, div. F, title II, §218, Dec. 8, 2004, 118 Stat. 3141.
 
 Pub. L. 108–199, div. E, title II, §219, Jan. 23, 2004, 118 Stat. 255.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “travel time,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "travel time,".</i>
 

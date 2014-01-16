@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner".
 
 <b>1984</b>—Pub. L. 98–459 designated existing provisions as subsec. (a) and added subsec. (b).
 

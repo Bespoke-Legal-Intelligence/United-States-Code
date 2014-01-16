@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of Defense shall establish an effective, efficient, and integrated sub-acute care benefits program under this chapter (hereinafter referred to in this section as the “program”). Except as otherwise provided in this section, the types of health care authorized under the program shall be the same as those provided under section 1079 of this title. The Secretary, after consultation with the other administering Secretaries, shall promulgate regulations to carry out this section.
+Establishment.—The Secretary of Defense shall establish an effective, efficient, and integrated sub-acute care benefits program under this chapter (hereinafter referred to in this section as the "program"). Except as otherwise provided in this section, the types of health care authorized under the program shall be the same as those provided under section 1079 of this title. The Secretary, after consultation with the other administering Secretaries, shall promulgate regulations to carry out this section.
 
 (b)
 
@@ -10,9 +10,9 @@ Benefits.—(1) The program shall include a uniform skilled nursing facility ben
 
 (2) In this subsection:
 
-&emsp;(A) The term “skilled nursing facility” has the meaning given such term in section 1819(a) of the Social Security Act (42 U.S.C. 1395i–3(a)).
+&emsp;(A) The term "skilled nursing facility" has the meaning given such term in section 1819(a) of the Social Security Act (42 U.S.C. 1395i–3(a)).
 
-&emsp;(B) The term “spell of illness” has the meaning given such term in section 1861(a) of such Act (42 U.S.C. 1395x(a)).
+&emsp;(B) The term "spell of illness" has the meaning given such term in section 1861(a) of such Act (42 U.S.C. 1395x(a)).
 
 (3) The program shall include a comprehensive, part-time or intermittent home health care benefit that shall be provided in the manner and under the conditions described in section 1861(m) of the Social Security Act (42 U.S.C. 1395x(m)).
 

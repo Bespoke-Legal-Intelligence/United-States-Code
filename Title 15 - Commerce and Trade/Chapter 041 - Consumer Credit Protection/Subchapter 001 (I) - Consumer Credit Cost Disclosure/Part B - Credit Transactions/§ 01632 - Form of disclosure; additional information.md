@@ -1,8 +1,8 @@
 ### §1632. Form of disclosure; additional information
 
-#### (a) Information clearly and conspicuously disclosed; “annual percentage rate” and “finance charge”; order of disclosures and use of different terminology
+#### (a) Information clearly and conspicuously disclosed; "annual percentage rate" and "finance charge"; order of disclosures and use of different terminology
 
-Information required by this subchapter shall be disclosed clearly and conspicuously, in accordance with regulations of the Bureau. The terms “annual percentage rate” and “finance charge” shall be disclosed more conspicuously than other terms, data, or information provided in connection with a transaction, except information relating to the identify of the creditor. Except as provided in subsection (c) of this section, regulations of the Bureau need not require that disclosures pursuant to this subchapter be made in the order set forth in this subchapter and, except as otherwise provided, may permit the use of terminology different from that employed in this subchapter if it conveys substantially the same meaning.
+Information required by this subchapter shall be disclosed clearly and conspicuously, in accordance with regulations of the Bureau. The terms "annual percentage rate" and "finance charge" shall be disclosed more conspicuously than other terms, data, or information provided in connection with a transaction, except information relating to the identify of the creditor. Except as provided in subsection (c) of this section, regulations of the Bureau need not require that disclosures pursuant to this subchapter be made in the order set forth in this subchapter and, except as otherwise provided, may permit the use of terminology different from that employed in this subchapter if it conveys substantially the same meaning.
 
 #### (b) Optional information by creditor or lessor
 
@@ -38,7 +38,7 @@ Any creditor or lessor may supply additional information or explanation with any
 
 #### (C) Grace period
 
-&emsp;&emsp;Either the heading or the statement under the heading which relates to the time period referred to in section 1637(c)(1)(A)(iii) of this title shall contain the term “grace period”.
+&emsp;&emsp;Either the heading or the statement under the heading which relates to the time period referred to in section 1637(c)(1)(A)(iii) of this title shall contain the term "grace period".
 
 #### (d) Additional electronic disclosures
 
@@ -62,21 +62,21 @@ Any creditor or lessor may supply additional information or explanation with any
 
 &emsp;The Bureau, in consultation with the other Federal banking agencies (as that term is defined in section 1681a of this title) and the Bureau,<sup>1</sup> may promulgate regulations to implement this subsection, including specifying the format for posting the agreements on the Internet sites of creditors and establishing exceptions to paragraphs (1) and (2), in any case in which the administrative burden outweighs the benefit of increased transparency, such as where a credit card plan has a de minimis number of consumer account holders.
 
-(Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731; Pub. L. 111–24,title II, §204, May 22, 2009, 123 Stat. 1746; Pub. L. 111–203, title X, §1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731; Pub. L. 111–24, title II, §204, May 22, 2009, 123 Stat. 1746; Pub. L. 111–203, title X, §1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a), (c). Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Subsecs. (a), (c). Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board" wherever appearing.
 
-Subsec. (d)(2), (3). Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
+Subsec. (d)(2), (3). Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board" wherever appearing.
 
-Subsec. (d)(5). Pub. L. 111–203 substituted “The Bureau, in” for “The Board, in” and “and the Bureau, may” for “and the Federal Trade Commission, may”.
+Subsec. (d)(5). Pub. L. 111–203 substituted "The Bureau, in" for "The Board, in" and "and the Bureau, may" for "and the Federal Trade Commission, may".
 
 <b>2009</b>—Subsec. (d). Pub. L. 111–24 added subsec. (d).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–583, §2(b)(1), substituted “Except as provided in subsection (c) of this section, regulations” for “Regulations”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–583, §2(b)(1), substituted "Except as provided in subsection (c) of this section, regulations" for "Regulations".
 
-Subsec. (b). Pub. L. 100–709 substituted “sections 1637a(b)(3) and 1638(b)(1)” for “section 1638(b)(1)”.
+Subsec. (b). Pub. L. 100–709 substituted "sections 1637a(b)(3) and 1638(b)(1)" for "section 1638(b)(1)".
 
 Subsec. (c). Pub. L. 100–583, §2(b)(2), added subsec. (c).
 

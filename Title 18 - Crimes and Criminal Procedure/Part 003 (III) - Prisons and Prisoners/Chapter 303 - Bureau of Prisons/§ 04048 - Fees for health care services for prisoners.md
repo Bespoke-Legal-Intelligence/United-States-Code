@@ -4,17 +4,17 @@
 
 Definitions.—In this section—
 
-&emsp;(1) the term “account” means the trust fund account (or institutional equivalent) of a prisoner;
+&emsp;(1) the term "account" means the trust fund account (or institutional equivalent) of a prisoner;
 
-&emsp;(2) the term “Director” means the Director of the Bureau of Prisons;
+&emsp;(2) the term "Director" means the Director of the Bureau of Prisons;
 
-&emsp;(3) the term “health care provider” means any person who is—
+&emsp;(3) the term "health care provider" means any person who is—
 
 &emsp;&emsp;(A) authorized by the Director to provide health care services; and
 
 &emsp;&emsp;(B) operating within the scope of such authorization;
 
-&emsp;(4) the term “health care visit”—
+&emsp;(4) the term "health care visit"—
 
 &emsp;&emsp;(A) means a visit, as determined by the Director, by a prisoner to an institutional or noninstitutional health care provider; and
 
@@ -24,7 +24,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;&emsp;(ii) to obtain staff-approved follow-up treatment for a chronic condition; and
 
-&emsp;(5) the term “prisoner” means—
+&emsp;(5) the term "prisoner" means—
 
 &emsp;&emsp;(A) any individual who is incarcerated in an institution under the jurisdiction of the Bureau of Prisons; or
 
@@ -100,7 +100,7 @@ Notice Before Public Comment Period.—Before the beginning of any period a prop
 
 (k)
 
-Reports to Congress.—Not later than 1 year after the date of the enactment of the Federal Prisoner Health Care Copayment Act of 2000, and annually thereafter, the Director shall transmit to Congress a report, which shall include—
+Reports to Congress.—Not later than 1 year after the date of the enactment of the Federal Prisoner Health Care Copayment Act of2000, and annually thereafter, the Director shall transmit to Congress a report, which shall include—
 
 &emsp;(1) a description of the amounts collected under this section during the preceding 12-month period;
 

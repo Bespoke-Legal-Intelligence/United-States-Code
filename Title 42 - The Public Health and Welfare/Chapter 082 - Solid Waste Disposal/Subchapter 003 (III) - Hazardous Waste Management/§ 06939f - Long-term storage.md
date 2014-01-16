@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than January 1, 2010, the Secretary of Energy (referred to in this section as the “Secretary”) shall designate a facility or facilities of the Department of Energy, which shall not include the Y–12 National Security Complex or any other portion or facility of the Oak Ridge Reservation of the Department of Energy, for the purpose of long-term management and storage of elemental mercury generated within the United States.
+&emsp;Not later than January 1, 2010, the Secretary of Energy (referred to in this section as the "Secretary") shall designate a facility or facilities of the Department of Energy, which shall not include the Y–12 National Security Complex or any other portion or facility of the Oak Ridge Reservation of the Department of Energy, for the purpose of long-term management and storage of elemental mercury generated within the United States.
 
 #### (2) Operation of facility
 
@@ -92,7 +92,7 @@ The Secretary is authorized to establish such terms, conditions, and procedures 
 
 &emsp;(A) Elemental mercury that the Secretary is storing on a long-term basis shall not be subject to the storage prohibition of section 3004(j) of the Solid Waste Disposal Act (42 U.S.C. 6924(j)). For the purposes of section 3004(j) of the Solid Waste Disposal Act, a generator accumulating elemental mercury destined for a facility designated by the Secretary under subsection (a) for 90 days or less shall be deemed to be accumulating the mercury to facilitate proper treatment, recovery, or disposal.
 
-&emsp;(B) Elemental mercury may be stored at a facility with respect to which any permit has been issued under section 3005(c) of the Solid Waste Disposal Act (42 U.S.C. 6925(c)), and shall not be subject to the storage prohibition of section 3004(j) of the Solid Waste Disposal Act (42 U.S.C. 6924(j)) if—
+&emsp;(B) Elemental mercury may be stored at a facility with respect to which any permit has been issued under section 3005(c) of the Solid Waste Disposal Act (42 U.S.C. 6925(c)), and shall not be subject to the storage prohibitionof section 3004(j) of the Solid Waste Disposal Act (42 U.S.C. 6924(j)) if—
 
 &emsp;&emsp;(i) the Secretary is unable to accept the mercury at a facility designated by the Secretary under subsection (a) for reasons beyond the control of the owner or operator of the permitted facility;
 
@@ -120,5 +120,5 @@ The Solid Waste Disposal Act, referred to in subsecs. (b)(2) and (d)(1), is titl
 
 Section was enacted as part of the Mercury Export Ban Act of 2008, and not as part of the Solid Waste Disposal Act which comprises this chapter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “publicly”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "publicly".</i>
 

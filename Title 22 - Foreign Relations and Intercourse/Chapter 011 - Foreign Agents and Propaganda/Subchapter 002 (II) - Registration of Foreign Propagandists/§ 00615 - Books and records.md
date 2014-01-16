@@ -10,7 +10,7 @@ Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section re
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–486 inserted “in accordance with such business and accounting practices,” after “under the provisions of this subchapter,”.
+<b>1966</b>—Pub. L. 89–486 inserted "in accordance with such business and accounting practices," after "under the provisions of this subchapter,".
 
 <b>1942</b>—Act Apr. 29, 1942, amended section generally.
 

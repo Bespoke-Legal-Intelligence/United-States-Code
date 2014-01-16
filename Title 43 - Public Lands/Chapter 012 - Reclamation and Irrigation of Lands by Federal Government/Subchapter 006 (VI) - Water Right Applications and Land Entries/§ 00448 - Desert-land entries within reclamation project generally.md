@@ -10,7 +10,7 @@ Act of June 17, 1902, and said reclamation Act, referred to in text, are act Jun
 
 #### Amendments
 
-<b>1930</b>—Act June 6, 1930, among other changes, inserted “within a reasonable time after notice as the Secretary may prescribe and not less than two years”, “regulations of said Secretary applicable to the remainder of the irrigable land of the project”, and substituted provisions specifying one farm unit, as determined by the Secretary of the Interior for provisions specifying 160 acres.
+<b>1930</b>—Act June 6, 1930, among other changes, inserted "within a reasonable time after notice as the Secretary may prescribe and not less than two years", "regulations of said Secretary applicable to the remainder of the irrigable land of the project", and substituted provisions specifying one farm unit, as determined by the Secretary of the Interior for provisions specifying 160 acres.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Act”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Act".</i>
 

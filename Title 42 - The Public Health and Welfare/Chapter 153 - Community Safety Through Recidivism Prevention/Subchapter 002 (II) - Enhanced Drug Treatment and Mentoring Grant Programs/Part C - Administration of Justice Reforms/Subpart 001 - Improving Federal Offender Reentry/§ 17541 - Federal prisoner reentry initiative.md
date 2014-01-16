@@ -34,11 +34,11 @@ The Attorney General, in coordination with the Director of the Bureau of Prisons
 
 #### (2) Assistance developing release plan
 
-&emsp;At the request of a direct-release prisoner, a representative of the United States ProbationSystem shall, prior to the release of that prisoner, help that prisoner develop a release plan.
+&emsp;At the request of a direct-release prisoner, a representative of the United States Probation System shall, prior to the release of that prisoner, help that prisoner develop a release plan.
 
 #### (3) Direct-release prisoner defined
 
-&emsp;In this section, the term “direct-release prisoner” means a prisoner who is scheduled for release and will not be placed in prerelease custody.
+&emsp;In this section, the term "direct-release prisoner" means a prisoner who is scheduled for release and will not be placed in prerelease custody.
 
 #### (c) Improved reentry procedures for Federal prisoners
 
@@ -112,7 +112,7 @@ The Attorney General shall take such steps as are necessary to modify the proced
 
 #### (5) Medical care
 
-&emsp;The Bureau of Prisons shall provide the United States Probation and Pretrial Services System with relevant information on the medical care needs and the mental health treatment needs of inmates scheduled for release from custody. The United States Probation and Pretrial Services System shall take this information into account when developing supervision plans in an effort to address the medical care and mental health care needs of such individuals. The Bureau of Prisons shallprovide inmates with a sufficient amount of all necessary medications (which will normally consist of, at a minimum, a 2-week supply of such medications) upon release from custody.
+&emsp;The Bureau of Prisons shall provide the United States Probation and Pretrial Services System with relevant information on the medical care needs and the mental health treatment needs of inmates scheduled for release from custody. The United States Probation and Pretrial Services System shall take this information into account when developing supervision plans in an effort to address the medical care and mental health care needs of such individuals. The Bureau of Prisons shall provide inmates with a sufficient amount of all necessary medications (which will normally consist of, at a minimum, a 2-week supply of such medications) upon release from custody.
 
 #### (e) Encouragement of employment of former prisoners
 
@@ -154,7 +154,7 @@ The Attorney General, in consultation with the Secretary of Labor, shall take su
 
 #### (A) Eligible elderly offender
 
-&emsp;&emsp;The term “eligible elderly offender” means an offender in the custody of the Bureau of Prisons—
+&emsp;&emsp;The term "eligible elderly offender" means an offender in the custody of the Bureau of Prisons—
 
 &emsp;&emsp;&emsp;(i) who is not less than 65 years of age;
 
@@ -172,11 +172,11 @@ The Attorney General, in consultation with the Secretary of Labor, shall take su
 
 #### (B) Home detention
 
-&emsp;&emsp;The term “home detention” has the same meaning given the term in the Federal Sentencing Guidelines as of April 9, 2008, and includes detention in a nursing home or other residential long-term care facility.
+&emsp;&emsp;The term "home detention" has the same meaning given the term in the Federal Sentencing Guidelines as of April 9, 2008, and includes detention in a nursing home or other residential long-term care facility.
 
 #### (C) Term of imprisonment
 
-&emsp;&emsp;The term “term of imprisonment” includes multiple terms of imprisonment ordered to run consecutively or concurrently, which shall be treated as a single, aggregate term of imprisonment for purposes of this section.
+&emsp;&emsp;The term "term of imprisonment" includes multiple terms of imprisonment ordered to run consecutively or concurrently, which shall be treated as a single, aggregate term of imprisonment for purposes of this section.
 
 #### (h) Federal Remote Satellite Tracking and Reentry Training program
 
@@ -186,7 +186,7 @@ The Attorney General, in consultation with the Secretary of Labor, shall take su
 
 #### (2) High risk individuals
 
-&emsp;For purposes of this section, the term “high risk individual” means—
+&emsp;For purposes of this section, the term "high risk individual" means—
 
 &emsp;&emsp;(A) an individual who is under supervised release, with respect to a Federal offense, and who has previously violated the terms of a release granted such individual following a term of imprisonment; or
 

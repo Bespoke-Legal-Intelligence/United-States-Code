@@ -20,7 +20,7 @@ Exception.—A policy, regulation, procedure, or form may take effect earlier th
 
 (b)
 
-Publication in Federal Register and Comment Period.—Subject to subsection (c), the head of the agency shall have published in the Federal Register a notice of the proposed procurement policy, regulation, procedure, or form and provide for a public comment period for receiving and considering the views of all interested parties on the proposal. The length of the comment period may not be less than 30 days.
+Publication in Federal Register and Comment Period.—Subject to subsection (c), thehead of the agency shall have published in the Federal Register a notice of the proposed procurement policy, regulation, procedure, or form and provide for a public comment period for receiving and considering the views of all interested parties on the proposal. The length of the comment period may not be less than 30 days.
 
 (c)
 
@@ -40,7 +40,7 @@ Effectiveness of Policy, Regulation, Procedure, or Form.—
 
 &emsp;(1)
 
-Temporary basis.—A procurement policy, regulation, procedure, or form for whichthe requirements of subsections (a) and (b) are waived under subsection (d) is effective on a temporary basis if—
+Temporary basis.—A procurement policy, regulation, procedure, or form for which the requirements of subsections (a) and (b) are waived under subsection (d) is effective on a temporary basis if—
 
 &emsp;&emsp;(A) a notice of the policy, regulation, procedure, or form is published in the Federal Register and includes a statement that the policy, regulation, procedure, or form is temporary; and
 
@@ -68,5 +68,5 @@ Historical and Revision Notes
 
 Pub. L. 93–400, §22, as added Pub. L. 98–577, title III, §302(a), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 103–355, title V, §5092, Oct. 13, 1994, 108 Stat. 3362, as amended Pub. L. 104–106, title XLIII, §4321(a)(9), Feb. 10, 1996, 110 Stat. 671.
 
-In subsection (a)(2), the words “Notwithstanding the preceding sentence” are omitted as unnecessary.
+In subsection (a)(2), the words "Notwithstanding the preceding sentence" are omitted as unnecessary.
 

@@ -42,19 +42,19 @@ Limitation on Deferment of Retirements.—(1) Except as provided in paragraph (2
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §501(b)(2), substituted “the officer—” for “the officer will be performing duties consisting primarily of providing patient care or performing other clinical duties.” and added subpars. (A) and (B).
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §501(b)(2), substituted "the officer—" for "the officer will be performing duties consisting primarily of providing patient care or performing other clinical duties." and added subpars. (A) and (B).
 
 Subsec. (b)(2)(D). Pub. L. 111–383, §501(b)(1), added subpar. (D).
 
 <b>2006</b>—Pub. L. 109–364 amended section catchline and text generally, substituting provisions relating to retirement at age 62 of regular commissioned officers in grades below general and flag officer grades for provisions relating to retirement at age 62 of all regular commissioned officers.
 
-Subsec. (a). Pub. L. 109–163 inserted “, a permanent professor at the United States Naval Academy,” after “Air Force Academy” in first sentence and struck out last sentence which read as follows: “An officer who is a permanent professor at the United States Military Academy or United States Air Force Academy, the director of admissions at the United States Military Academy, or the registrar of the United States Air Force Academy shall be retired on the first day of the month following the month in which he becomes 64 years of age.”
+Subsec. (a). Pub. L. 109–163 inserted ", a permanent professor at the United States Naval Academy," after "Air Force Academy" in first sentence and struck out last sentence which read as follows: "An officer who is a permanent professor at the United States Military Academy or United States Air Force Academy, the director of admissions at the United States Military Academy, or the registrar of the United States Air Force Academy shall be retired on the first day of the month following the month in which he becomes 64 years of age."
 
 <b>1997</b>—Subsec. (c)(2) to (4). Pub. L. 105–85, §504(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 Subsec. (d). Pub. L. 105–85, §504(b), added subsec. (d).
 
-<b>1989</b>—Subsec. (c)(2). Pub. L. 101–189 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), a deferment” for “A deferment” and “68 years of age” for “67 years of age”, and added subpar. (B).
+<b>1989</b>—Subsec. (c)(2). Pub. L. 101–189 designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B), a deferment" for "A deferment" and "68 years of age" for "67 years of age", and added subpar. (B).
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–180 added subsec. (c).
 

@@ -10,7 +10,7 @@ If a taxpayer dies or ceases to exist before the first taxable year following th
 
 #### (c) Qualified business credits
 
-For purposes of this section, the term “qualified business credits” means—
+For purposes of this section, the term "qualified business credits" means—
 
 &emsp;(1) the investment credit determined under section 46 (but only to the extent attributable to property the basis of which is reduced by section 50(c)),
 
@@ -42,7 +42,7 @@ For purposes of this section, the term “qualified business credits” means—
 
 #### (d) Special rule for investment tax credit and research credit
 
-Subsection (a) shall be applied by substituting “an amount equal to 50 percent of” for “an amount equal to” in the case of—
+Subsection (a) shall be applied by substituting "an amount equal to 50 percent of" for "an amount equal to" in the case of—
 
 &emsp;(1) the investment credit determined under section 46 (other than the rehabilitation credit), and
 
@@ -70,27 +70,27 @@ Subsec. (c)(12). Pub. L. 108–357, §339(e), added par. (12).
 
 <b>1998</b>—Subsec. (c)(8). Pub. L. 105–206 added par. (8).
 
-<b>1996</b>—Subsec. (c)(2). Pub. L. 104–188 substituted “work opportunity credit” for “targeted jobs credit”.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–188 substituted "work opportunity credit" for "targeted jobs credit".
 
 <b>1993</b>—Subsec. (c)(6). Pub. L. 103–66, §13302(b)(2), added par. (6).
 
 Subsec. (c)(7). Pub. L. 103–66, §13322(c)(2), added par. (7).
 
-<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §11813(b)(12)(A), substituted “section 46” for “section 46(a)” and “section 50(c)” for “section 48(q)”.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §11813(b)(12)(A), substituted "section 46" for "section 46(a)" and "section 50(c)" for "section 48(q)".
 
 Subsec. (c)(5). Pub. L. 101–508, §11511(b)(3), added par. (5).
 
-Subsec. (d)(1). Pub. L. 101–508, §11813(b)(12)(B), substituted “section 46” for “section 46(a)” and “other than the rehabilitation credit” for “other than a credit to which section 48(q)(3) applies”.
+Subsec. (d)(1). Pub. L. 101–508, §11813(b)(12)(B), substituted "section 46" for "section 46(a)" and "other than the rehabilitation credit" for "other than a credit to which section 48(q)(3) applies".
 
-<b>1989</b>—Subsec. (c)(4). Pub. L. 101–239, §7814(e)(2)(D), inserted “(other than such credit determined under section 280C(c)(3))” after “section 41(a)”.
+<b>1989</b>—Subsec. (c)(4). Pub. L. 101–239, §7814(e)(2)(D), inserted "(other than such credit determined under section 280C(c)(3))" after "section 41(a)".
 
-Subsec. (d). Pub. L. 101–239, §7814(e)(1), substituted “substituting ‘an amount equal to 50 percent of’ for ‘an amount equal to’ in the case of” for “substituting an amount equal to 50 percent of for an amount equal to in the case of” in introductory provisions.
+Subsec. (d). Pub. L. 101–239, §7814(e)(1), substituted "substituting 'an amount equal to 50 percent of' for 'an amount equal to' in the case of" for "substituting an amount equal to 50 percent of for an amount equal to in the case of" in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 101–239, §7110(c)(2), inserted “for a taxable year beginning before January 1, 1990” after “under section 41(a)”.
+Subsec. (d)(2). Pub. L. 101–239, §7110(c)(2), inserted "for a taxable year beginning before January 1, 1990" after "under section 41(a)".
 
 <b>1988</b>—Subsec. (c)(4). Pub. L. 100–647, §4008(b)(2)(A), added par. (4).
 
-Subsec. (d). Pub. L. 100–647, §4008(b)(2)(B), inserted “and research credit” after “tax credit” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of the investment credit determined under section 46(a) (other than a credit to which section 48(q)(3) applies), subsection (a) shall be applied by substituting ‘an amount equal to 50 percent of’ for ‘an amount equal to’.”
+Subsec. (d). Pub. L. 100–647, §4008(b)(2)(B), inserted "and research credit" after "tax credit" in heading and amended text generally. Prior to amendment, text read as follows: "In the case of the investment credit determined under section 46(a) (other than a credit to which section 48(q)(3) applies), subsection (a) shall be applied by substituting 'an amount equal to 50 percent of' for 'an amount equal to'."
 
 <b>1984</b>—Pub. L. 98–369 amended section generally, substituting provisions relating to deduction for certain unused business credits for provisions relating to deduction for certain unused investment credits.
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 200
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title VI, §6020(b), July 22, 1998, 112 Stat. 823, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 13443 of the Revenue Reconciliation Act of 1993 \[see section 13443(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 38 of this title\].”
+Pub. L. 105–206, title VI, §6020(b), July 22, 1998, 112 Stat. 823, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 13443 of the Revenue Reconciliation Act of 1993 \[see section 13443(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 38 of this title\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -152,59 +152,59 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 Pub. L. 97–248, title II, §205(c)(1), Sept. 3, 1982, 96 Stat. 430, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(A)
+"(A)
 
 General rule.—Except as otherwise provided in this paragraph, the amendments made by subsection (a) \[enacting this section and amending sections 48, 312, and 1016 of this title\] shall apply to periods after December 31, 1982, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
-“(B)
+"(B)
 
 Exception.—The amendments made by subsection (a) shall not apply to any property which—
 
-&emsp;“(i) is constructed, reconstructed, erected, or acquired pursuant to a contract which was entered into after August 13, 1981, and was, on July 1, 1982, and at all times thereafter, binding on the taxpayer,
+&emsp;"(i) is constructed, reconstructed, erected, or acquired pursuant to a contract which was entered into after August 13, 1981, and was, on July 1, 1982, and at all times thereafter, binding on the taxpayer,
 
-&emsp;“(ii) is placed in service after December 31, 1982, and before January 1, 1986,
+&emsp;"(ii) is placed in service after December 31, 1982, and before January 1, 1986,
 
-&emsp;“(iii) with respect to which an election under section 168(f)(8)(A) of such Code is not in effect at any time, and
+&emsp;"(iii) with respect to which an election under section 168(f)(8)(A) of such Code is not in effect at any time, and
 
-&emsp;“(iv) is not described in section 167(l)(3)(A) of such Code.
+&emsp;"(iv) is not described in section 167(l)(3)(A) of such Code.
 
-“(C)
+"(C)
 
 Special rule for integrated manufacturing facilities.—
 
-&emsp;“(i)
+&emsp;"(i)
 
 In general.—In the case of any integrated manufacturing facility, the requirements of clause (i) of subparagraph (B) shall be treated as met if—
 
-&emsp;&emsp;“(I) the on-site construction of the facility began before July 1, 1982, and
+&emsp;&emsp;"(I) the on-site construction of the facility began before July 1, 1982, and
 
-&emsp;&emsp;“(II) during the period beginning after August 13, 1981, and ending on July 1, 1982, the taxpayer constructed (or entered into binding contracts for the construction of) more than 20 percent of the cost of such facility.
+&emsp;&emsp;"(II) during the period beginning after August 13, 1981, and ending on July 1, 1982, the taxpayer constructed (or entered into binding contracts for the construction of) more than 20 percent of the cost of such facility.
 
-&emsp;“(ii)
+&emsp;"(ii)
 
-Integrated manufacturing facility.—For purposes of clause (i), the term ‘integrated manufacturing facility’ means 1 or more facilities—
+Integrated manufacturing facility.—For purposes of clause (i), the term 'integrated manufacturing facility' means 1 or more facilities—
 
-&emsp;&emsp;“(I) located on a single site,
+&emsp;&emsp;"(I) located on a single site,
 
-&emsp;&emsp;“(II) for the manufacture of 1 or more manufactured products from raw materials by the application of 2 or more integrated manufacturing processes.
+&emsp;&emsp;"(II) for the manufacture of 1 or more manufactured products from raw materials by the application of 2 or more integrated manufacturing processes.
 
-“(D)
+"(D)
 
-Special rule for historic structures.—In the case of any certified historic structure (as defined in section 48(g)(3) of the Internal Revenue Code of 1986), clause (i) of subparagraph (B) shall be applied by substituting ‘December 31, 1980’ for ‘August 13, 1981.’
+Special rule for historic structures.—In the case of any certified historic structure (as defined in section 48(g)(3) of the Internal Revenue Code of 1986), clause (i) of subparagraph (B) shall be applied by substituting 'December 31, 1980' for 'August 13, 1981.'
 
-“(E)
+"(E)
 
 Certain projects with respect to historic structures.—In the case of any certified historic structure (as so defined), the requirements of clause (i) of subparagraph (B) shall be treated as met with respect to such property—
 
-&emsp;“(i) if the rehabilitation begins after December 31, 1980, and before July 1, 1982, or
+&emsp;"(i) if the rehabilitation begins after December 31, 1980, and before July 1, 1982, or
 
-&emsp;“(ii) if—
+&emsp;"(ii) if—
 
-&emsp;&emsp;“(I) before July 1, 1982, a public offering with respect to interests in such property was registered with the Securities and Exchange Commission,
+&emsp;&emsp;"(I) before July 1, 1982, a public offering with respect to interests in such property was registered with the Securities and Exchange Commission,
 
-&emsp;&emsp;“(II) before such date an application with respect to such property was filed under section 8 of theUnited States Housing Act of 1937 \[section 1437f of Title 42, The Public Health and Welfare\], and
+&emsp;&emsp;"(II) before such date an application with respect to such property was filed under section 8 of theUnited States Housing Act of 1937 \[section 1437f of Title 42, The Public Health and Welfare\], and
 
-&emsp;&emsp;“(III) such property is placed in service before July 1, 1984.”
+&emsp;&emsp;"(III) such property is placed in service before July 1, 1984."
 
 #### Savings Provision
 

@@ -12,9 +12,9 @@ This Act, referred to in text, probably refers to act July 7, 1955.
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–435 substituted “section 15, 15a, or 15c” for “sections 15 or 15a”.
+<b>1976</b>—Pub. L. 94–435 substituted "section 15, 15a, or 15c" for "sections 15 or 15a".
 
 #### Effective Date
 
-Act July 7, 1955, ch. 283, §4, 69 Stat. 283, provided: “This Act \[enacting this section and section 15a of this title, amending section 16 of this title, and repealing provisions set out as a note under section 15 of this title\] shall take effect six months after its enactment \[July 7, 1955\].”
+Act July 7, 1955, ch. 283, §4, 69 Stat. 283, provided: "This Act \[enacting this section and section 15a of this title, amending section 16 of this title, and repealing provisions set out as a note under section 15 of this title\] shall take effect six months after its enactment \[July 7, 1955\]."
 

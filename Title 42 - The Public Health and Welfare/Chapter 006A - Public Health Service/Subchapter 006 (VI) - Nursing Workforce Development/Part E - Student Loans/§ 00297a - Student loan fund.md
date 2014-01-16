@@ -22,11 +22,11 @@ Each agreement entered into under this section shall—
 
 (1) Any standard established by the Secretary by regulation for the collection by schools of nursing of loans made pursuant to loan agreements under this part shall provide that the failure of any such school to collect such loans shall be measured in accordance with this subsection. With respect to the student loan fund established pursuant to such agreements, this subsection may not be construed to require such schools to reimburse such loan fund for loans that became uncollectable prior to 1983.
 
-(2) The measurement of a school's failure to collect loans made under this part shall be the ratio (stated as a percentage) that the defaultedprincipal amount outstanding of such school bears to the matured loans of such school.
+(2) The measurement of a school's failure to collect loans made under this part shall be the ratio (stated as a percentage) that the defaulted principal amount outstanding of such school bears to the matured loans of such school.
 
 (3) For purposes of this subsection—
 
-&emsp;(A) the term “default” means the failure of a borrower of a loan made under this part to—
+&emsp;(A) the term "default" means the failure of a borrower of a loan made under this part to—
 
 &emsp;&emsp;(i) make an installment payment when due; or
 
@@ -34,15 +34,15 @@ Each agreement entered into under this section shall—
 
 > &emsp;except that a loan made under this part shall not be considered to be in default if the loan is discharged in bankruptcy or if the school reasonably concludes from written contacts with the borrower that the borrower intends to repay the loan;
 
-&emsp;(B) the term “defaulted principal amount outstanding” means the total amount borrowed from the loan fund of a school that has reached the repayment stage (minus any principal amount repaid or cancelled) on loans—
+&emsp;(B) the term "defaulted principal amount outstanding" means the total amount borrowed from the loan fund of a school that has reached the repayment stage (minus any principal amount repaid or cancelled) on loans—
 
 &emsp;&emsp;(i) repayable monthly and in default for at least 120 days; and
 
 &emsp;&emsp;(ii) repayable less frequently than monthly and in default for at least 180 days;
 
-&emsp;(C) the term “grace period” means the period of nine months beginning on the date on which the borrower ceases to pursue a full-time or half-time course of study at a school of nursing; and
+&emsp;(C) the term "grace period" means the period of nine months beginning on the date on which the borrower ceases to pursue a full-time or half-time course of study at a school of nursing; and
 
-&emsp;(D) the term “matured loans” means the total principal amount of all loans made by a school of nursing under this part minus the total principal amount of loans made by such school to students who are—
+&emsp;(D) the term "matured loans" means the total principal amount of all loans made by a school of nursing under this part minus the total principal amount of loans made by such school to students who are—
 
 &emsp;&emsp;(i) enrolled in a full-time or half-time course of study at such school; or
 
@@ -52,37 +52,37 @@ Each agreement entered into under this section shall—
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §5310(b)(2), substituted “this part” for “this subpart”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §5310(b)(2), substituted "this part" for "this subpart".
 
-Subsec. (b). Pub. L. 111–148, §5310(b)(6), substituted “298d” for “297h” in pars. (2) and (3).
+Subsec. (b). Pub. L. 111–148, §5310(b)(6), substituted "298d" for "297h" in pars. (2) and (3).
 
-Subsec. (c). Pub. L. 111–148, §5310(b)(2), substituted “this part” for “this subpart” wherever appearing.
+Subsec. (c). Pub. L. 111–148, §5310(b)(2), substituted "this part" for "this subpart" wherever appearing.
 
 <b>1988</b>—Subsec. (c)(1). Pub. L. 100–607 inserted provisions relating to reimbursement of student loan fund for certain uncollectable loans.
 
 <b>1985</b>—Subsec. (c). Pub. L. 99–92 added subsec. (c).
 
-Subsec. (c)(3)(C). Pub. L. 99–129, §209(j)(2)(A), substituted provisions defining “grace period” as the period of nine months beginning on the date on which the borrower ceases to pursue a full-time or half-time course of study at a school of nursing for former provisions defining “grace period” as the period of one year beginning on (i) the date on which the borrower ceased to pursue a full-time or half-time course of study at a school of nursing; or (ii) the date on which ended any period described in clause (A) or (B) of section 297b(b)(2) of this title which was applicable to such borrower, whichever was later.
+Subsec. (c)(3)(C). Pub. L. 99–129, §209(j)(2)(A), substituted provisions defining "grace period" as the period of nine months beginning on the date on which the borrower ceases to pursue a full-time or half-time course of study at a school of nursing for former provisions defining "grace period" as the period of one year beginning on (i) the date on which the borrower ceased to pursue a full-time or half-time course of study at a school of nursing; or (ii) the date on which ended any period described in clause (A) or (B) of section 297b(b)(2) of this title which was applicable to such borrower, whichever was later.
 
-Subsec. (c)(3)(D)(ii). Pub. L. 99–129, §209(j)(2)(B), struck out “first” before “grace period.”
+Subsec. (c)(3)(D)(ii). Pub. L. 99–129, §209(j)(2)(B), struck out "first" before "grace period."
 
 <b>1981</b>—Subsec. (b)(4). Pub. L. 97–35 struck out provisions respecting prohibition on loans to students attending school before Oct. 1, 1980.
 
-<b>1979</b>—Subsec. (b)(4). Pub. L. 96–76 substituted “1980” for “1978”.
+<b>1979</b>—Subsec. (b)(4). Pub. L. 96–76 substituted "1980" for "1978".
 
-<b>1975</b>—Subsec. (a). Pub. L. 94–63, §941(h)(1), (2), substituted “subpart” for “part” and struck out “of Health, Education, and Welfare” after “Secretary”.
+<b>1975</b>—Subsec. (a). Pub. L. 94–63, §941(h)(1), (2), substituted "subpart" for "part" and struck out "of Health, Education, and Welfare" after "Secretary".
 
-Subsec. (b). Pub. L. 94–63, §§936(a), 941(h)(3), (i)(2), in cl. (2) substituted “from allotments under section 297d of this title” for “under this part”, in cl. (4) substituted “October 1, 1978” for “July 1, 1975”, and in cls. (2) and (3) substituted references to sections 836 and 841 of the Act for references to sections 823 and 829, which had previously been translated as sections 297b and 297h of this title, respectively, requiring no further translations in the text as a result of the renumbering of the Public Health Service Act.
+Subsec. (b). Pub. L. 94–63, §§936(a), 941(h)(3), (i)(2), in cl. (2) substituted "from allotments under section 297d of this title" for "under this part", in cl. (4) substituted "October 1, 1978" for "July 1, 1975", and in cls. (2) and (3) substituted references to sections 836 and 841 of the Act for references to sections 823 and 829, which had previously been translated as sections 297b and 297h of this title, respectively, requiring no further translations in the text as a result of the renumbering of the Public Health Service Act.
 
-<b>1974</b>—Subsec. (b)(4). Pub. L. 93–385 substituted “1975” for “1974”.
+<b>1974</b>—Subsec. (b)(4). Pub. L. 93–385 substituted "1975" for "1974".
 
-<b>1971</b>—Subsec. (b)(4). Pub. L. 92–158 substituted “full-time or half-time course of study” for “full-time course of study” and “1974” for “1971”.
+<b>1971</b>—Subsec. (b)(4). Pub. L. 92–158 substituted "full-time or half-time course of study" for "full-time course of study" and "1974" for "1971".
 
-<b>1968</b>—Subsec. (b)(2). Pub. L. 90–490, §222(a)(1), (c)(2), inserted “, except as provided in section 297h of this title,” after “fund” where first appearing and added cl. (D) and redesignated former cl. (D) as (E), respectively.
+<b>1968</b>—Subsec. (b)(2). Pub. L. 90–490, §222(a)(1), (c)(2), inserted ", except as provided in section 297h of this title," after "fund" where first appearing and added cl. (D) and redesignated former cl. (D) as (E), respectively.
 
-Subsec. (b)(3). Pub. L. 90–490, §222(a)(1), inserted “, except as provided in section 297h of this title” after “fund” where first appearing and authorized the cancellation of an additional 50 per centum of a nursery student loan.
+Subsec. (b)(3). Pub. L. 90–490, §222(a)(1), inserted ", except as provided in section 297h of this title" after "fund" where first appearing and authorized the cancellation of an additional 50 per centum of a nursery student loan.
 
-Subsec. (b)(4). Pub. L. 90–490, §222(a)(2), substituted “1971” for “1969”.
+Subsec. (b)(4). Pub. L. 90–490, §222(a)(2), substituted "1971" for "1969".
 
 #### Effective Date of 1985 Amendments
 
@@ -90,17 +90,17 @@ Amendment by Pub. L. 99–129 effective June 30, 1984, see section 228(b)(5) of 
 
 Pub. L. 99–92, §10, Aug. 16, 1985, 99 Stat. 402, provided that:
 
-“(a) Except as provided in subsection (b), this Act \[enacting section 297i of this title, transferring section 296c to section 298b–5 of this title, amending this section, sections 296k, 296l, 296m, 297, 297–1, 297b, 297d, 297e, 298, 298b, and 298b–5 of this title, sections 1332, 1333, 1336, and 1341 of Title 15, Commerce and Trade, and section 6103 of Title 26, Internal Revenue Code, repealing sections 296 to 296b, 296d to 296f, 296j, 297h, and 297j of this title, and enacting provisions set out as notes under sections 201 and 298b–5 of this title and section 1333 of Title 15\] and the amendments and repeals made by this Act shall take effect on October 1, 1985.
+"(a) Except as provided in subsection (b), this Act \[enacting section 297i of this title, transferring section 296c to section 298b–5 of this title, amending this section, sections 296k, 296l, 296m, 297, 297–1, 297b, 297d, 297e, 298, 298b, and 298b–5 of this title, sections 1332, 1333, 1336, and 1341 of Title 15, Commerce and Trade, and section 6103 of Title 26, Internal Revenue Code, repealing sections 296 to 296b, 296d to 296f, 296j, 297h, and 297j of this title, and enacting provisions set out as notes under sections 201 and 298b–5 of this title and section 1333 of Title 15\] and the amendments and repeals made by this Act shall take effect on October 1, 1985.
 
-“(b)(1) The provisions of section 9(c) of this Act \[transferring section 296c of this title to section 298b–5 of this title, amending section 298b–5 of this title, and enacting provisions set out as notes under section 298b–5 of this title\] and the amendment made by paragraph (1) of such section shall take effect on the date of enactment of this Act \[Aug. 16, 1985\].
+"(b)(1) The provisions of section 9(c) of this Act \[transferring section 296c of this title to section 298b–5 of this title, amending section 298b–5 of this title, and enacting provisions set out as notes under section 298b–5 of this title\] and the amendment made by paragraph (1) of such section shall take effect on the date of enactment of this Act \[Aug. 16, 1985\].
 
-“(2) The amendment made by section 8(a) of this Act \[amending section 297a of this title\] shall take effect June 30, 1984.”
+"(2) The amendment made by section 8(a) of this Act \[amending section 297a of this title\] shall take effect June 30, 1984."
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 94–63, title IX, §905, July 29, 1975, 89 Stat. 355, provided that: “Except as may otherwise be specifically provided, the amendments made by this part \[part B (§§905–937) of title IX of Pub. L. 94–63, enacting sections 296j to 296m of this title, amending sections 296, 296a, 296d, 296e, 297 to 297c, 297e, and 297j of this title, repealing sections 296d, 296g, 296i, 297f, and 298c–7 of this title, and enacting provisions set out as notes under sections 296, 296a, 296d, 296e, 296m, 297, 297b, and 297f of this title\] shall take effect July 1, 1975. The amendments made by this part to provisions of title VIII of the Public Health Service Act \[this subchapter\] (hereinafter in this part referred to as the ‘Act’) are made to such provisions as amended by part A of this title \[amending sections 296, 296d, 296e, 296g, 296i, 297j, and 298c–7 of this title\].”
+Pub. L. 94–63, title IX, §905, July 29, 1975, 89 Stat. 355, provided that: "Except as may otherwise be specifically provided, the amendments made by this part \[part B (§§905–937) of title IX of Pub. L. 94–63, enacting sections 296j to 296m of this title, amending sections 296, 296a, 296d, 296e, 297 to 297c, 297e, and 297j of this title, repealing sections 296d, 296g, 296i, 297f, and 298c–7 of this title, and enacting provisions set out as notes under sections 296, 296a, 296d, 296e, 296m, 297, 297b, and 297f of this title\] shall take effect July 1, 1975. The amendments made by this part to provisions of title VIII of the Public Health Service Act \[42 U.S.C. 296 et seq.\] (hereinafter in this part referred to as the 'Act') are made to such provisions as amended by part A of this title \[amending sections 296, 296d, 296e, 296g, 296i, 297j, and 298c–7 of this title\]."
 
-Pub. L. 94–63, title IX, §942, July 29, 1975, 89 Stat. 367, provided that: “The amendments made by section 941 \[enacting section 298b–3 of this title, amending sections 296a to 296d, 296f, 297a to 297e, 297g to 297k, 298, and 298b of this title, and repealing section 298c–8 of this title\] shall take effect July 1, 1975. Except as otherwise specifically provided, the amendments made by section 941 to provisions of title VIII of the Act \[this subchapter\] are made to such provisions as in effect July 1, 1975, and as amended by part B of this title \[see note set out above\].”
+Pub. L. 94–63, title IX, §942, July 29, 1975, 89 Stat. 367, provided that: "The amendments made by section 941 \[enacting section 298b–3 of this title, amending sections 296a to 296d, 296f, 297a to 297e, 297g to 297k, 298, and 298b of this title, and repealing section 298c–8 of this title\] shall take effect July 1, 1975. Except as otherwise specifically provided, the amendments made by section 941 to provisions of title VIII of the Act \[42 U.S.C. 296 et seq.\] are made to such provisions as in effect July 1, 1975, and as amended by part B of this title \[see note set out above\]."
 
 #### Effective Date of 1968 Amendment
 

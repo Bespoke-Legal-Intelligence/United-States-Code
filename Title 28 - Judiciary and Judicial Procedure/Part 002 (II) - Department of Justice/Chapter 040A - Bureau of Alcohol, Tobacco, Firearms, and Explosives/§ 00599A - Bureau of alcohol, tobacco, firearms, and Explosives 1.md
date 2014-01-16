@@ -6,11 +6,11 @@ Establishment.—
 
 &emsp;(1)
 
-In general.—There is established within the Department of Justice under the general authority of the Attorney General the Bureau of Alcohol, Tobacco, Firearms, and Explosives (in this section referred to as the “Bureau”).
+In general.—There is established within the Department of Justice under the general authority of the Attorney General the Bureau of Alcohol, Tobacco, Firearms, and Explosives (in this section referred to as the "Bureau").
 
 &emsp;(2)
 
-Director.—There shall be at the head of the Bureau a Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives (in this subtitle <sup>2</sup> referred to as the “Director”). The Director shall be appointed by the President, by and with the advice and consent of the Senate <sup>3</sup> and shall perform such functions as the Attorney General shall direct. The Director shall receive compensation at the rate prescribed by law under section 5314 of title V <sup>4</sup>, United States Code, for positions at level III of the Executive Schedule.
+Director.—There shall be at the head of the Bureau a Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives (in this subtitle <sup>2</sup> referred to as the "Director"). The Director shall be appointed by the President, by and with the advice and consent of the Senate <sup>3</sup> and shall perform such functions as the Attorney General shall direct. The Director shall receive compensation at the rate prescribed by law under section 5314 of title V <sup>4</sup>, United States Code, for positions at level III of the Executive Schedule.
 
 &emsp;(3)
 
@@ -58,19 +58,19 @@ The section catchline and text of subsecs. (a) to (c)(1), (3) of section 1111 of
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–162, §1187(b), (c)(1)(A), transferred the section catchline and subsecs. (a) to (c)(1), (3) of section 1111 of Pub. L. 107–296 to this chapter, redesignated them as this section, and substituted “alcohol, tobacco, firearms” for “Alcohol, Tobacco, Firearms” in the section catchline. See Codification note above.
+<b>2006</b>—Pub. L. 109–162, §1187(b), (c)(1)(A), transferred the section catchline and subsecs. (a) to (c)(1), (3) of section 1111 of Pub. L. 107–296 to this chapter, redesignated them as this section, and substituted "alcohol, tobacco, firearms" for "Alcohol, Tobacco, Firearms" in the section catchline. See Codification note above.
 
-Subsec. (a)(2). Pub. L. 109–177, which directed amendment of second sentence of “section 1111(a)(2) of the Homeland Security Act of 2002 (6 U.S.C. 531(a)(2))” by substituting “President, by and with the advice and consent of the Senate” for “Attorney General” the first time appearing, was executed to this section to reflect the probable intent of Congress in light of the transfer of subsec. (a) of section 1111 of the Homeland Security Act of 2002 to this section by Pub. L. 109–162, §1187(b). See Amendment and Codification notes above.
+Subsec. (a)(2). Pub. L. 109–177, which directed amendment of second sentence of "section 1111(a)(2) of the Homeland Security Act of 2002 (6 U.S.C. 531(a)(2))" by substituting "President, by and with the advice and consent of the Senate" for "Attorney General" the first time appearing, was executed to this section to reflect the probable intent of Congress in light of the transfer of subsec. (a) of section 1111 of the Homeland Security Act of 2002 to this section by Pub. L. 109–162, §1187(b). See Amendment and Codification notes above.
 
-Subsec. (b)(2). Pub. L. 109–162, §1187(c)(1)(B), inserted “of section 1111 of the Homeland Security Act of 2002 (as enacted on the date of the enactment of such Act)” after “subsection (c)”.
+Subsec. (b)(2). Pub. L. 109–162, §1187(c)(1)(B), inserted "of section 1111 of the Homeland Security Act of 2002 (as enacted on the date of the enactment of such Act)" after "subsection (c)".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Bureau of Alcohol, Tobacco, Firearms, and Explosives”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Bureau of Alcohol, Tobacco, Firearms, and Explosives".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be title “5”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be title "5".</i>
 
 <i><sup>5</sup></i><i> So in original. There is no par. (2).</i>
 

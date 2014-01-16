@@ -10,7 +10,7 @@
 
 &emsp;Each application submitted pursuant to paragraph (1) shall be in such form, contain or be accompanied by such information or assurances, and be submitted at such time as the Secretary may reasonably require. Each such application shall, at a minimum—
 
-&emsp;&emsp;(A) describe the activities for which assistance under this division is sought, including how the eligible entity will carry out the required activities described in section 1070a–24(a) of this title;
+&emsp;&emsp;(A) describe the activities for which assistance under this division is sought, includinghow the eligible entity will carry out the required activities described in section 1070a–24(a) of this title;
 
 &emsp;&emsp;(B) describe, in the case of an eligible entity described in section 1070a–21(c)(2) of this title that chooses to provide scholarships, or an eligible entity described in section 1070a–21(c)(1) of this title, how the eligible entity will meet the requirements of section 1070a–25 of this title;
 
@@ -86,25 +86,25 @@ A prior section 1070a–23, Pub. L. 89–329, title IV, §404C, as added Pub. L.
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–315, §404(c)(1), substituted “Applications” for “Eligible entity plans” in section catchline.
+<b>2008</b>—Pub. L. 110–315, §404(c)(1), substituted "Applications" for "Eligible entity plans" in section catchline.
 
-Subsec. (a). Pub. L. 110–315, §404(c)(2)(A), substituted “Application” for “Plan” in heading.
+Subsec. (a). Pub. L. 110–315, §404(c)(2)(A), substituted "Application" for "Plan" in heading.
 
-Subsec. (a)(1). Pub. L. 110–315, §404(c)(2)(B), substituted “an application” for “a plan” and struck out at end “Such plan shall provide for the conduct of a scholarship component if required or undertaken pursuant to section 1070a–25 of this title and an early intervention component required pursuant to section 1070a–24 of this title.”
+Subsec. (a)(1). Pub. L. 110–315, §404(c)(2)(B), substituted "an application" for "a plan" and struck out at end "Such plan shall provide for the conduct of a scholarship component if required or undertaken pursuant to section 1070a–25 of this title and an early intervention component required pursuant to section 1070a–24 of this title."
 
-Subsec. (a)(2). Pub. L. 110–315, §404(c)(2)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Each plan submitted pursuant to paragraph (1) shall be in such form, contain or be accompanied by such information or assurances, and be submitted at such time as the Secretary may require by regulation. Each such plan shall—
+Subsec. (a)(2). Pub. L. 110–315, §404(c)(2)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Each plan submitted pursuant to paragraph (1) shall be in such form, contain or be accompanied by such information or assurances, and be submitted at such time as the Secretary may require by regulation. Each such plan shall—
 
-&emsp;“(A) describe the activities for which assistance under this division is sought; and
+&emsp;"(A) describe the activities for which assistance under this division is sought; and
 
-&emsp;“(B) provide such additional assurances as the Secretary determines necessary to ensure compliance with the requirements of this division.”
+&emsp;"(B) provide such additional assurances as the Secretary determines necessary to ensure compliance with the requirements of this division."
 
-Subsec. (b)(1). Pub. L. 110–315, §404(c)(3)(A), substituted “an application” for “a plan” and “such application” for “such plan” in introductory provisions.
+Subsec. (b)(1). Pub. L. 110–315, §404(c)(3)(A), substituted "an application" for "a plan" and "such application" for "such plan" in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 110–315, §404(c)(3)(B), which directed insertion of “and may be accrued over the full duration of the grant award period, except that the eligible entity shall make substantial progress towards meeting the matching requirement in each year of the grant award period” after “in cash or in-kind”, was executed by making the insertion after “in cash or in kind” to reflect the probable intent of Congress.
+Subsec. (b)(1)(A). Pub. L. 110–315, §404(c)(3)(B), which directed insertion of "and may be accrued over the full duration of the grant award period, except that the eligible entity shall make substantial progress towards meeting the matching requirement in each year of the grant award period" after "in cash or in-kind", was executed by making the insertion after "in cash or in kind" to reflect the probable intent of Congress.
 
-Subsec. (b)(2). Pub. L. 110–315, §404(c)(3)(C), inserted at end “The Secretary may approve an eligible entity's request for a reduced match percentage—” and subpars. (A) and (B).
+Subsec. (b)(2). Pub. L. 110–315, §404(c)(3)(C), inserted at end "The Secretary may approve an eligible entity's request for a reduced match percentage—" and subpars. (A) and (B).
 
-Subsec. (c)(1). Pub. L. 110–315, §404(c)(4)(A), substituted “obligated to students from State, local, institutional, or private funds under this division, including pre-existing non-Federal financial assistance programs, including—” and subpars. (A) and (B) for “paid to students from State, local, institutional, or private funds under this division;”.
+Subsec. (c)(1). Pub. L. 110–315, §404(c)(4)(A), substituted "obligated to students from State, local, institutional, or private funds under this division, including pre-existing non-Federal financial assistance programs, including—" and subpars. (A) and (B) for "paid to students from State, local, institutional, or private funds under this division;".
 
 Subsec. (c)(4). Pub. L. 110–315, §404(c)(4)(B)–(D), added par. (4).
 

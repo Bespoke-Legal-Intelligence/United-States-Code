@@ -22,7 +22,7 @@
 
 #### (3) Servicemember family leave
 
-&emsp;Subject to section 2613 of this title, an eligible employee who is the spouse, son, daughter, parent, or next of kin of a covered servicemember shall be entitled to a total of 26 workweeks of leave during a 12-month period to care for the servicemember. The leave described in this paragraph shall only be available during a single 12-month period.
+&emsp;Subject to section 2613 of this title, an eligible employee who is the spouse, son, daughter, parent, or next of kin of a coveredservicemember shall be entitled to a total of 26 workweeks of leave during a 12-month period to care for the servicemember. The leave described in this paragraph shall only be available during a single 12-month period.
 
 #### (4) Combined leave total
 
@@ -64,21 +64,21 @@ Except as provided in subsection (d), leave granted under subsection (a) may con
 
 #### (B) Serious health condition
 
-&emsp;&emsp;An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacationleave, personal leave, or medical or sick leave of the employee for leave provided under subparagraph (C) or (D) of subsection (a)(1) for any part of the 12-week period of such leave under such subsection, except that nothing in this subchapter shall require an employer to provide paid sick leave or paid medical leave in any situation in which such employer would not normally provide any such paid leave. An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.
+&emsp;&emsp;An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, or medical or sick leave of the employee for leave provided under subparagraph (C) or (D) of subsection (a)(1) for any part of the 12-week period of such leave under such subsection, except that nothing in this subchapter shall require an employer to provide paid sick leave or paid medical leave in any situation in which such employer would not normally provide any such paid leave. An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.
 
 #### (e) Foreseeable leave
 
 #### (1) Requirement of notice
 
-&emsp;In any case in which the necessity for leave under subparagraph (A) or (B) of subsection (a)(1) is foreseeable based on an expected birth or placement, the employee shall provide the employer with not less than 30 days’ notice, before the date the leave is to begin, of the employee's intention to take leave under such subparagraph, except that if the date of the birth or placement requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
+&emsp;In any case in which the necessity for leave under subparagraph (A) or (B) of subsection (a)(1) is foreseeable based on an expected birth or placement, the employee shall provide the employer with not less than 30 days' notice, before the date the leave is to begin, of the employee's intention to take leave under such subparagraph, except that if the date of the birth or placement requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
 
 #### (2) Duties of employee
 
 &emsp;In any case in which the necessity for leave under subparagraph (C) or (D) of subsection (a)(1) or under subsection (a)(3) is foreseeable based on planned medical treatment, the employee—
 
-&emsp;&emsp;(A) shall make a reasonable effort to schedule the treatment so as not to disrupt unduly the operations of the employer, subject to the approval of the health care provider of the employee or the health care provider of the son, daughter, spouse, parent, or covered servicemember of the employee, as appropriate; and
+&emsp;&emsp;(A) shall make a reasonable effort to schedule the treatment so as not to disruptunduly the operations of the employer, subject to the approval of the health care provider of the employee or the health care provider of the son, daughter, spouse, parent, or covered servicemember of the employee, as appropriate; and
 
-&emsp;&emsp;(B) shall provide the employer with not less than 30 days’ notice, before the date the leave is to begin, of the employee's intention to take leave under such subparagraph, except that if the date of the treatment requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
+&emsp;&emsp;(B) shall provide the employer with not less than 30 days' notice, before the date the leave is to begin, of the employee's intention to take leave under such subparagraph, except that if the date of the treatment requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
 
 #### (3) Notice for leave due to covered active duty of family member
 
@@ -116,29 +116,29 @@ For information regarding constitutionality of certain provisions of section 102
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1)(E). Pub. L. 111–84, §565(a)(1)(B)(i), substituted “covered active duty” for “active duty” in two places and struck out “in support of a contingency operation” before period.
+<b>2009</b>—Subsec. (a)(1)(E). Pub. L. 111–84, §565(a)(1)(B)(i), substituted "covered active duty" for "active duty" in two places and struck out "in support of a contingency operation" before period.
 
 Subsec. (a)(5). Pub. L. 111–119 added par. (5).
 
-Subsec. (e)(2)(A). Pub. L. 111–84, §565(a)(4), substituted “parent, or covered servicemember” for “or parent”.
+Subsec. (e)(2)(A). Pub. L. 111–84, §565(a)(4), substituted "parent, or covered servicemember" for "or parent".
 
-Subsec. (e)(3). Pub. L. 111–84, §565(a)(1)(B)(ii), substituted “covered active duty” for “active duty” in heading and in two places in text and struck out “in support of a contingency operation” before “, the employee shall provide”.
+Subsec. (e)(3). Pub. L. 111–84, §565(a)(1)(B)(ii), substituted "covered active duty" for "active duty" in heading and in two places in text and struck out "in support of a contingency operation" before ", the employee shall provide".
 
 <b>2008</b>—Subsec. (a)(1)(E). Pub. L. 110–181, §585(a)(2)(A), added subpar. (E).
 
 Subsec. (a)(3), (4). Pub. L. 110–181, §585(a)(2)(B), added pars. (3) and (4).
 
-Subsec. (b)(1). Pub. L. 110–181, §585(a)(3)(A)(i), (ii), in second sentence, substituted “subsection (b)(5) or (f) (as appropriate) of section 2613” for “section 2613(b)(5)” and inserted “or under subsection (a)(3)” after “subsection (a)(1)” and, after second sentence, inserted “Subject to subsection (e)(3) and section 2613(f) of this title, leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule.”
+Subsec. (b)(1). Pub. L. 110–181, §585(a)(3)(A)(i), (ii), in second sentence, substituted "subsection (b)(5) or (f) (as appropriate) of section 2613" for "section 2613(b)(5)" and inserted "or under subsection (a)(3)" after "subsection (a)(1)" and, after second sentence, inserted "Subject to subsection (e)(3) and section 2613(f) of this title, leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule."
 
-Subsec. (b)(2). Pub. L. 110–181, §585(a)(3)(A)(iii), inserted “or under subsection (a)(3)” after “subsection (a)(1)”.
+Subsec. (b)(2). Pub. L. 110–181, §585(a)(3)(A)(iii), inserted "or under subsection (a)(3)" after "subsection (a)(1)".
 
-Subsec. (d)(1). Pub. L. 110–181, §585(a)(3)(B)(i), inserted “(or 26 workweeks in the case of leave provided under subsection (a)(3))” after “fewer than 12 workweeks” and “(or 26 workweeks, as appropriate)” after “attain the 12 workweeks”.
+Subsec. (d)(1). Pub. L. 110–181, §585(a)(3)(B)(i), inserted "(or 26 workweeks in the case of leave provided under subsection (a)(3))" after "fewer than 12 workweeks" and "(or 26 workweeks, as appropriate)" after "attain the 12 workweeks".
 
-Subsec. (d)(2)(A). Pub. L. 110–181, §585(a)(3)(B)(ii), substituted “(C), or (E)” for “or (C)”.
+Subsec. (d)(2)(A). Pub. L. 110–181, §585(a)(3)(B)(ii), substituted "(C), or (E)" for "or (C)".
 
-Subsec. (d)(2)(B). Pub. L. 110–181, §585(a)(3)(B)(iii), inserted at end “An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.”
+Subsec. (d)(2)(B). Pub. L. 110–181, §585(a)(3)(B)(iii), inserted at end "An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave."
 
-Subsec. (e)(2). Pub. L. 110–181, §585(a)(3)(C)(i), inserted “or under subsection (a)(3)” after “subsection (a)(1)” in introductory provisions.
+Subsec. (e)(2). Pub. L. 110–181, §585(a)(3)(C)(i), inserted "or under subsection (a)(3)" after "subsection (a)(1)" in introductory provisions.
 
 Subsec. (e)(3). Pub. L. 110–181, §585(a)(3)(C)(ii), added par. (3).
 

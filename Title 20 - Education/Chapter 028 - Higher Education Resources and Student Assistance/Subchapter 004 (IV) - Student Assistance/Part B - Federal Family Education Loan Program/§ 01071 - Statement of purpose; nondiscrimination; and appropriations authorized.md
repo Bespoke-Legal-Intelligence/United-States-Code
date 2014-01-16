@@ -28,7 +28,7 @@ For the purpose of carrying out this part—
 
 &emsp;(3) there is authorized to be appropriated the sum of $17,500,000 for making advances pursuant to section 1072 of this title for the reserve funds of State and nonprofit private student loan insurance programs,
 
-&emsp;(4) there are authorized to be appropriated (A) the sum of $12,500,000 for making advances after June 30, 1968, pursuant to sections 1072(a) and (b) of this title, and (B) such sums as may be necessary for making advances pursuant to section 1072(c) of this title, for the reserve funds of State and nonprofit private student loan insurance programs,
+&emsp;(4) there are authorized to be appropriated (A) the sum of $12,500,000 for making advancesafter June 30, 1968, pursuant to sections 1072(a) and (b) of this title, and (B) such sums as may be necessary for making advances pursuant to section 1072(c) of this title, for the reserve funds of State and nonprofit private student loan insurance programs,
 
 &emsp;(5) there are authorized to be appropriated such sums as may be necessary for the purpose of paying a loan processing and issuance fee in accordance with section 1078(f) of this title to guaranty agencies, and
 
@@ -38,7 +38,7 @@ For the purpose of carrying out this part—
 
 #### (c) Designation
 
-The program established under this part shall be referred to as the “Robert T. Stafford Federal Student Loan Program”. Loans made pursuant to sections 1077 and 1078 of this title shall be known as “Federal Stafford Loans”.
+The program established under this part shall be referred to as the "Robert T. Stafford Federal Student Loan Program". Loans made pursuant to sections 1077 and 1078 of this title shall be known as "Federal Stafford Loans".
 
 #### (d) Termination of authority to make or insure new loans
 
@@ -66,27 +66,27 @@ A prior section 1071, Pub. L. 89–329, title IV, §421, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–152, §2201(1), inserted “, except that no sums may be expended after June 30, 2010, with respect to loans under this part for which the first disbursement is after such date” after “expended” in concluding provisions.
+<b>2010</b>—Subsec. (b). Pub. L. 111–152, §2201(1), inserted ", except that no sums may be expended after June 30, 2010, with respect to loans under this part for which the first disbursement is after such date" after "expended" in concluding provisions.
 
 Subsec. (d). Pub. L. 111–152, §2201(2), added subsec. (d).
 
 <b>2008</b>—Subsec. (b)(6). Pub. L. 110–227 added par. (6).
 
-<b>2006</b>—Subsec. (b)(5). Pub. L. 109–171 substituted “a loan processing and issuance fee” for “an administrative cost allowance”.
+<b>2006</b>—Subsec. (b)(5). Pub. L. 109–171 substituted "a loan processing and issuance fee" for "an administrative cost allowance".
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–244 struck out heading and text of subsec. (d). Text read as follows: “Notwithstanding any other provision of this part, no new loan guarantees shall be issued after June 30, 1994, if the Secretary does not issue final regulations implementing the changes made to this part under the Higher Education Amendments of 1992 prior to that date. The authority to issue new loan guarantees shall resume upon the Secretary's issuance of such regulations. This subsection shall not provide the basis for avoiding any requirements for notice and public hearing on such regulations.”
+<b>1998</b>—Subsec. (d). Pub. L. 105–244 struck out heading and text of subsec. (d). Text read as follows: "Notwithstanding any other provision of this part, no new loan guarantees shall be issued after June 30, 1994, if the Secretary does not issue final regulations implementing the changes made to this part under the Higher Education Amendments of 1992 prior to that date. The authority to issue new loan guarantees shall resume upon the Secretary's issuance of such regulations. This subsection shall not provide the basis for avoiding any requirements for notice and public hearing on such regulations."
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–325, §411(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “The program established under this part shall be referred to as the ‘Robert T. Stafford Student Loan Program’. Loans made under this part shall be known as ‘Stafford Loans’.”
+<b>1992</b>—Subsec. (c). Pub. L. 102–325, §411(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: "The program established under this part shall be referred to as the 'Robert T. Stafford Student Loan Program'. Loans made under this part shall be known as 'Stafford Loans'."
 
 Subsec. (d). Pub. L. 102–325, §411(c), added subsec. (d).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–369 substituted “shall be referred” for “may be referred” and inserted provision identifying loans made under this part as “Stafford Loans”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–369 substituted "shall be referred" for "may be referred" and inserted provision identifying loans made under this part as "Stafford Loans".
 
 Pub. L. 100–297 added subsec. (c).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–227, §6(b), May 7, 2008, 122 Stat. 746, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[May 7, 2008\].”
+Pub. L. 110–227, §6(b), May 7, 2008, 122 Stat. 746, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[May 7, 2008\]."
 
 #### Effective Date of 2006 Amendment
 
@@ -100,67 +100,67 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, with changes in the desi
 
 Pub. L. 100–297, title VI, §6303, Apr. 28, 1988, 102 Stat. 431, as amended by Pub. L. 100–351, June 27, 1988, 102 Stat. 661; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that:
 
-“(a)
+"(a)
 
 General Rule.—Except as otherwise provided, this Act and the amendments made by this Act \[see Tables for classification\] shall take effect July 1, 1988.
 
-“(b)
+"(b)
 
 Special Rules.—(1) Any provision of this Act or any amendment made by this Act which authorizes appropriations for fiscal year 1988 shall take effect on the date of the enactment of this Act \[Apr. 28, 1988\].
 
-“(2) The provisions of section 2402, relating to the National Center for Vocational Research, shall take effect on April 10, 1988.
+"(2) The provisions of section 2402, relating to the National Center for Vocational Research, shall take effect on April 10, 1988.
 
-“(3) The amendments made by section 3403 \[amending sections 1221e and 1221e–1 of this title\] shall take effectfor assessments made after September 30, 1989, with respect to State data.
+"(3) The amendments made by section 3403 \[amending sections 1221e and 1221e–1 of this title\] shall take effect for assessments made after September 30, 1989, with respect to State data.
 
-“(4) Allotments to States made under chapters 1 and 2 of title I of the Elementary and Secondary Education Act of 1965 \[formerly 20 U.S.C. 2701 et seq., 2911 et seq.\] and under the Adult Education Act \[formerly 20 U.S.C. 1201 et seq.\] from amounts appropriated by the joint resolution entitled ‘Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes’, approved December 22, 1987 (Public Law 100–202), shall be computed in accordance with the provisions of law applicable to allotments to States under chapters 1 and 2 of the Education Consolidation and Improvement Act of 1981 \[formerly 20 U.S.C. 3801 et seq., 3811 et seq.\] and under the Adult Education Act, respectively, as such Acts were in effect on the day before the date of the enactment of this Act \[Apr. 28, 1988\].
+"(4) Allotments to States made under chapters 1 and 2 of title I of the Elementary and Secondary Education Act of 1965 \[formerly 20 U.S.C. 2701 et seq., 2911 et seq.\] and under the Adult Education Act \[formerly 20 U.S.C. 1201 et seq.\] from amounts appropriated by the joint resolution entitled 'Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes', approved December 22, 1987 (Public Law 100–202), shall be computed in accordance with the provisions of law applicable to allotments to States under chapters 1 and 2 of the Education Consolidation and Improvement Act of 1981 \[formerly 20 U.S.C. 3801 et seq., 3811 et seq.\] and under the Adult Education Act, respectively, as such Acts were in effect on the day before the date of the enactment of this Act \[Apr. 28, 1988\].
 
-“(5) Amounts appropriated by the joint resolution entitled ‘Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes’, approved December 22, 1987 (Public Law 100–202), for the following programs shall be awarded in accordance with the applicable provisions of law in effect on the day before the date of the enactment of this Act \[Apr. 28, 1988\]:
+"(5) Amounts appropriated by the joint resolution entitled 'Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes', approved December 22, 1987 (Public Law 100–202), for the following programs shall be awarded in accordance with the applicable provisions of law in effect on the day before the date of the enactment of this Act \[Apr. 28, 1988\]:
 
-&emsp;“(A) Programs under subchapter D of chapter 2 of the Education Consolidation and Improvement Act of 1981 \[formerly 20 U.S.C. 3851 et seq.\], except that projects under section 583(c) \[formerly 20 U.S.C. 3851(c)\] may not be reviewed by a program significance panel.
+&emsp;"(A) Programs under subchapter D of chapter 2 of the Education Consolidation and Improvement Act of 1981 \[formerly 20 U.S.C. 3851 et seq.\], except that projects under section 583(c) \[formerly 20 U.S.C. 3851(c)\] may not be reviewed by a program significance panel.
 
-&emsp;“(B) National programs under the Adult Education Act \[formerly 20 U.S.C. 1201 et seq.\].
+&emsp;"(B) National programs under the Adult Education Act \[formerly 20 U.S.C. 1201 et seq.\].
 
-&emsp;“(C) Programs under the Indian Education Act \[Pub. L. 92–318, title IV, see Tables for classification\].
+&emsp;"(C) Programs under the Indian Education Act \[Pub. L. 92–318, title IV, see Tables for classification\].
 
-&emsp;“(D) Programs under title II of the Education for Economic Security Act \[formerly 20 U.S.C. 3961 et seq.\].
+&emsp;"(D) Programs under title II of the Education for Economic Security Act \[formerly 20 U.S.C. 3961 et seq.\].
 
-&emsp;“(E) The program under section 702 of the McKinney-Vento Homeless Assistance Act \[formerly 42 U.S.C. 11421\].
+&emsp;"(E) The program under section 702 of the McKinney-Vento Homeless Assistance Act \[formerly 42 U.S.C. 11421\].
 
-“(6) The provisions of part A of title II of this Act \[§§2001 to 2034 of Pub. L. 100–297, amending sections 236 et seq. and 631 et seq. of this title\], excluding sections 2014(e) and 2018 \[amending section 238 of this title and enacting provisions set out as a note under section 238 of this title\], shall apply only with respect to amounts appropriated for fiscal years beginning after September 30, 1988.
+"(6) The provisions of part A of title II of this Act \[§§2001 to 2034 of Pub. L. 100–297, amending sections 236 et seq. and 631 et seq. of this title\], excluding sections 2014(e) and 2018 \[amending section 238 of this title and enacting provisions set out as a note under section 238 of this title\], shall apply only with respect to amounts appropriated for fiscal years beginning after September 30, 1988.
 
-“(7) The amendments made by section 6001 \[amending section 11421 of Title 42, The Public Health and Welfare\], relating to literacy training of homeless adults, shall take effect on October 1, 1988.
+"(7) The amendments made by section 6001 \[amending section 11421 of Title 42, The Public Health and Welfare\], relating to literacy training of homeless adults, shall take effect on October 1, 1988.
 
-“(8) Any election under section 5209(b)(1) \[25 U.S.C. 2508(b)(1)\] conveyed to the Secretary prior to August 1, 1988, shall take effect for the fiscal year beginning on October 1, 1988, and thereafter.”
+"(8) Any election under section 5209(b)(1) \[25 U.S.C. 2508(b)(1)\] conveyed to the Secretary prior to August 1, 1988, shall take effect for the fiscal year beginning on October 1, 1988, and thereafter."
 
 #### Effective Date
 
 Pub. L. 99–498, title IV, §402(b)–(d), Oct. 17, 1986, 100 Stat. 1428, 1429, as amended by Pub. L. 100–50, §22(b), June 3, 1987, 101 Stat. 361, provided that:
 
-“(b)
+"(b)
 
 Effective Dates.—The changes made in part B of title IV of the Act \[20 U.S.C. 1071 et seq.\] by the amendment made by subsection (a) of this section shall take effect on the date of enactment of this Act \[Oct. 17, 1986\], except—
 
-&emsp;“(1) as otherwise provided in such part B;
+&emsp;"(1) as otherwise provided in such part B;
 
-&emsp;“(2) the changes in sections 427(a)(2)(C) and 428(b)(1)(M) of the Act \[20 U.S.C. 1077(a)(2)(C), 1078(b)(1)(M)\] (other than clauses (viii), (ix), and (x) of each such section) shall apply only to loans to new borrowers that (A) are made to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1987; or (B) are disbursed on or after July 1, 1987;
+&emsp;"(2) the changes in sections 427(a)(2)(C) and 428(b)(1)(M) of the Act \[20 U.S.C. 1077(a)(2)(C), 1078(b)(1)(M)\] (other than clauses (viii), (ix), and (x) of each such section) shall apply only to loans to new borrowers that (A) are made to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1987; or (B) are disbursed on or after July 1, 1987;
 
-&emsp;“(3) the changes made in sections 425(a), 428(b)(1)(A), and 428(b)(1)(B) of the Act \[20 U.S.C. 1075(a), 1078(b)(1)(A), (B)\] shall apply with respect only to loans disbursed on or after January 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after January 1, 1987;
+&emsp;"(3) the changes made in sections 425(a), 428(b)(1)(A), and 428(b)(1)(B) of the Act \[20 U.S.C. 1075(a), 1078(b)(1)(A), (B)\] shall apply with respect only to loans disbursed on or after January 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after January 1, 1987;
 
-&emsp;“(4) the changes made in subsections (a), (b), and (d) of section 433 of the Act \[20 U.S.C. 1083(a), (b), (d)\] shall apply with respect only to loans disbursed on or after January 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after January 1, 1987;
+&emsp;"(4) the changes made in subsections (a), (b), and (d) of section 433 of the Act \[20 U.S.C. 1083(a), (b), (d)\] shall apply with respect only to loans disbursed on or after January 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after January 1, 1987;
 
-&emsp;“(5) the changes in section 428(b)(1)(H) \[20 U.S.C. 1078(b)(1)(H)\] shall apply with respect only to loans for which the borrower files an application on or after July 1, 1987;
+&emsp;"(5) the changes in section 428(b)(1)(H) \[20 U.S.C. 1078(b)(1)(H)\] shall apply with respect only to loans for which the borrower files an application on or after July 1, 1987;
 
-&emsp;“(6) the changes in sections 435(d)(5) and 438(d) of the Act \[20 U.S.C. 1085(d)(5), 1087–1(d)\] shall take effect 30 days after the date of enactment of this Act \[Oct. 17, 1986\]; and
+&emsp;"(6) the changes in sections 435(d)(5) and 438(d) of the Act \[20 U.S.C. 1085(d)(5), 1087–1(d)\] shall take effect 30 days after the date of enactment of this Act \[Oct. 17, 1986\]; and
 
-&emsp;“(7) the changes made in section 438(b) \[20 U.S.C. 1087–1(b)\] shall take effect with respect to loans disbursed on or after 30 days after the date of enactment of this Act \[Oct. 17, 1986\] or made to cover the costs of instruction for periods of enrollment beginning on or after 30 days after the date of enactment of this Act.
+&emsp;"(7) the changes made in section 438(b) \[20 U.S.C. 1087–1(b)\] shall take effect with respect to loans disbursed on or after 30 days after the date of enactment of this Act \[Oct. 17, 1986\] or made to cover the costs of instruction for periods of enrollment beginning on or after 30 days after the date of enactment of this Act.
 
-“(c)
+"(c)
 
 Changes Effective Without Regard to Regulations; Republication of Regulations.—The changes made in part B of title IV of the Act \[20 U.S.C. 1071 et seq.\] by the amendment made by subsection (a) of this section shall be effective in accordance with subsection (b) of this section without regard to whether such changes are reflected in the regulations prescribed by the Secretary of Education for the purpose of such part.
 
-“(d)
+"(d)
 
-New Borrowers.—For the purpose of this section, the term ‘new borrower’ means, with respect to any date, an individual who on that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of title IV of the Act \[20 U.S.C. 1071 et seq.\].”
+New Borrowers.—For the purpose of this section, the term 'new borrower' means, with respect to any date, an individual who on that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of title IV of the Act \[20 U.S.C. 1071 et seq.\]."
 
 #### Study of Role of Guaranty Agencies
 

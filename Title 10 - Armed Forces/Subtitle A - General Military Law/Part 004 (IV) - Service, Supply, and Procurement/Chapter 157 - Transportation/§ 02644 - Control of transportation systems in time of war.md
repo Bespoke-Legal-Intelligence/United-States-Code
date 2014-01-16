@@ -16,11 +16,11 @@ Historical and Revision Notes
 
 10:1361.
 
-Aug. 29, 1916, ch. 418 (last par. under “Ordnance Department”), 39 Stat. 645.
+Aug. 29, 1916, ch. 418 (last par. under "Ordnance Department"), 39 Stat. 645.
 
-The words “as may be needful or desirable” are omitted as surplusage.
+The words "as may be needful or desirable" are omitted as surplusage.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–201 renumbered section 4742 of this title as this section and substituted “Secretary of Defense” for “Secretary of the Army”.
+<b>1996</b>—Pub. L. 104–201 renumbered section 4742 of this title as this section and substituted "Secretary of Defense" for "Secretary of the Army".
 

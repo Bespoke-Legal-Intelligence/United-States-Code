@@ -14,7 +14,7 @@ Section was enacted as part of the Nuclear Non-Proliferation Act of 1978, and no
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277 inserted “, or any annexes thereto,” before “called for in”.
+<b>1998</b>—Pub. L. 105–277 inserted ", or any annexes thereto," before "called for in".
 
 #### Effective Date of 1998 Amendment
 

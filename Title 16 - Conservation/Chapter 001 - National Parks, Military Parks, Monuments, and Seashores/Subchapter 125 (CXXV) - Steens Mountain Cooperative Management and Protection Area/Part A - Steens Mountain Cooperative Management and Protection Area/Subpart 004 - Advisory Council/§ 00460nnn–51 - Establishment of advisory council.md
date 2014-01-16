@@ -76,5 +76,5 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (d) have been enacted.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “advisory council”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "advisory council".</i>
 

@@ -10,13 +10,13 @@ Based on section 331 of title 18 and section 364 of title 39, The Postal Service
 
 Said sections were consolidated with only minor changes in phraseology.
 
-Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
+Reference to persons causing or procuring was omitted as unnecessary in view of definition of "principal" in section 2 of this title.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".
 
-<b>1970</b>—Pub. L. 91–375 substituted “Postal Service officer or employee” for “postmaster or postal service employee”, “Postal Service” for “Post Office Department” in two places, “officer or employee” for “postmaster or other person”, and “any such officer or employee” for “the postmaster or any employee of a post office or station or branch thereof”, respectively.
+<b>1970</b>—Pub. L. 91–375 substituted "Postal Service officer or employee" for "postmaster or postal service employee", "Postal Service" for "Post Office Department" in two places, "officer or employee" for "postmaster or other person", and "any such officer or employee" for "the postmaster or any employee of a post office or station or branch thereof", respectively.
 
 <b>1956</b>—Act Aug. 1, 1956, broadened the class of postal employees subject to penalties prescribed by this section and broadened the prohibition to include the inflation of receipts by means other than the disposing of stamps, stamped envelopes, or postal cards.
 

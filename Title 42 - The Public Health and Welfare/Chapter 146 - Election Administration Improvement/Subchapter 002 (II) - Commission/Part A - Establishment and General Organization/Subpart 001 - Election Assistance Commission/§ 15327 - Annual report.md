@@ -6,7 +6,7 @@ Not later than January 31 of each year (beginning with 2004), the Commission sha
 
 &emsp;(2) A copy of each report submitted to the Commission by a recipient of such grants or payments which is required under such a program, including reports submitted by States receiving requirements payments under subpart 1 of part D of this subchapter, and each other report submitted to the Commission under this chapter.
 
-&emsp;(3) Information on the voluntary voting system guidelines adopted or modified by the Commission under subpart 3 of this part and information on the voluntary guidance adopted under part B of subchapter III of this chapter.
+&emsp;(3) Information on the voluntary voting system guidelines adopted or modified by theCommission under subpart 3 of this part and information on the voluntary guidance adopted under part B of subchapter III of this chapter.
 
 &emsp;(4) All votes taken by the Commission.
 
@@ -16,5 +16,5 @@ Not later than January 31 of each year (beginning with 2004), the Commission sha
 
 #### References in Text
 
-This chapter, referred to in pars. (1) and (2), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
+This chapter, referred to in pars. (1) and (2), was in the original "this Act", meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
 

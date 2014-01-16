@@ -24,7 +24,7 @@ The Secretary shall not take any action under this section or under subchapter I
 
 (1) Not later than December 23, 1988, the Director of the Indian Health Service and the Secretary of Veterans Affairs shall implement an agreement under which—
 
-&emsp;(A) individuals in the vicinity of Roosevelt, Utah, who are eligible for health care from theDepartment of Veterans Affairs could obtain health care services at the facilities of the Indian Health Service located at Fort Duchesne, Utah; and
+&emsp;(A) individuals in the vicinity of Roosevelt, Utah, who are eligible for health care from the Department of Veterans Affairs could obtain health care services at the facilities of the Indian Health Service located at Fort Duchesne, Utah; and
 
 &emsp;(B) individuals eligible for health care from the Indian Health Service at Fort Duchesne, Utah, could obtain health care services at the George E. Wahlen Department of Veterans Affairs Medical Center located in Salt Lake City, Utah.
 
@@ -38,19 +38,19 @@ Nothing in this section may be construed as creating any right of a veteran to o
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c)(1)(B). Pub. L. 108–170 substituted “George E. Wahlen Department of Veterans Affairs Medical Center” for “Department of Veterans Affairs medical center”.
+<b>2003</b>—Subsec. (c)(1)(B). Pub. L. 108–170 substituted "George E. Wahlen Department of Veterans Affairs Medical Center" for "Department of Veterans Affairs medical center".
 
 <b>1992</b>—Pub. L. 102–573, §902(9), amended section catchline.
 
-<b>1991</b>—Subsecs. (a), (b)(3), (4), (6). Pub. L. 102–54, §13(j)(2)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsecs. (a), (b)(3), (4), (6). Pub. L. 102–54, §13(j)(2)(A), substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-Subsec. (c)(1). Pub. L. 102–54, §13(j)(2)(B), substituted “Not later than December 23, 1988, the Director of the Indian Health Service and the Secretary of Veterans Affairs shall” for “Within 30 days after November 23, 1988, the Director of the Indian Health Service and the Administrator of Veterans’ Affairs are authorized and directed to”.
+Subsec. (c)(1). Pub. L. 102–54, §13(j)(2)(B), substituted "Not later than December 23, 1988, the Director of the Indian Health Service and the Secretary of Veterans Affairs shall" for "Within 30 days after November 23, 1988, the Director of the Indian Health Service and the Administrator of Veterans' Affairs are authorized and directed to".
 
-Subsec. (c)(1)(A), (B). Pub. L. 102–54, §13(j)(2)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+Subsec. (c)(1)(A), (B). Pub. L. 102–54, §13(j)(2)(A), substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-Subsec. (c)(2). Pub. L. 102–54, §13(j)(2)(C), substituted “Not later than November 23, 1990, the Secretary and the Secretary of Veterans Affairs shall” for “Not later than 2 years after November 23, 1988, the Secretary and the Administrator of Veterans’ Affairs shall”.
+Subsec. (c)(2). Pub. L. 102–54, §13(j)(2)(C), substituted "Not later than November 23, 1990, the Secretary and the Secretary of Veterans Affairs shall" for "Not later than 2 years after November 23, 1988, the Secretary and the Administrator of Veterans' Affairs shall".
 
 #### Designation of George E. Wahlen Department of Veterans Affairs Medical Center
 
-Pub. L. 108–170, title II, §244, Dec. 6, 2003, 117 Stat. 2054, provided that: “The Department of Veterans Affairs Medical Center in Salt Lake City, Utah, shall after the date of the enactment of this Act \[Dec. 6, 2003\] be known and designated as the ‘George E. Wahlen Department of Veterans Affairs Medical Center’. Any references to such facility in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the George E. Wahlen Department of Veterans Affairs Medical Center.”
+Pub. L. 108–170, title II, §244, Dec. 6, 2003, 117 Stat. 2054, provided that: "The Department of Veterans Affairs Medical Center in Salt Lake City, Utah, shall after the date of the enactment of this Act \[Dec. 6, 2003\] be known and designated as the 'George E. Wahlen Department of Veterans Affairs Medical Center'. Any references to such facility in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the George E. Wahlen Department of Veterans Affairs Medical Center."
 

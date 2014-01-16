@@ -26,7 +26,7 @@ The requirement established in subsection (a) of this section regarding women an
 
 #### (c) Design of clinical trials
 
-In the case of any clinical trial in which women or members of minority groups will under subsection (a) of this section be included as subjects, the Director of NIH shall ensure that the trial is designed and carried out in a manner sufficient to provide for a valid analysis of whether the variables being studied in the trial affect women or members of minority groups, as the case may be, differently than other subjects in the trial.
+In the case of any clinical trial in which women or members of minority groups will under subsection (a) of this section be included as subjects, the Director of NIH shall ensurethat the trial is designed and carried out in a manner sufficient to provide for a valid analysis of whether the variables being studied in the trial affect women or members of minority groups, as the case may be, differently than other subjects in the trial.
 
 #### (d) Guidelines
 
@@ -72,13 +72,13 @@ The advisory council of each national research institute shall prepare biennial 
 
 For purposes of this section:
 
-&emsp;(1) The term “project of clinical research” includes a clinical trial.
+&emsp;(1) The term "project of clinical research" includes a clinical trial.
 
-&emsp;(2) The term “minority group” includes subpopulations of minority groups. The Director of NIH shall, through the guidelines established under subsection (d) of this section, define the terms “minority group” and “subpopulation” for purposes of the preceding sentence.
+&emsp;(2) The term "minority group" includes subpopulations of minority groups. The Director of NIH shall, through the guidelines established under subsection (d) of this section, define the terms "minority group" and "subpopulation" for purposes of the preceding sentence.
 
 (July 1, 1944, ch. 373, title IV, §492B, as added Pub. L. 103–43, title I, §131, June 10, 1993, 107 Stat. 133.)
 
 #### Inapplicability to Current Projects
 
-Pub. L. 103–43, title I, §133, June 10, 1993, 107 Stat. 135, provided that: “Section 492B of the Public Health Service Act, as added by section 131 of this Act \[this section\], shall not apply with respect to projects of clinical research for which initial funding was provided prior to the date of the enactment of this Act \[June 10, 1993\]. With respect to the inclusion of women and minorities as subjects in clinical research conducted or supported by the National Institutes of Health, any policies of the Secretary of Health and Human Services regarding such inclusion that are in effect on the day before the date of the enactment of this Act shall continue to apply to the projects referred to in the preceding sentence.”
+Pub. L. 103–43, title I, §133, June 10, 1993, 107 Stat. 135, provided that: "Section 492B of the Public Health Service Act, as added by section 131 of this Act \[42 U.S.C. 289a–2\], shall not apply with respect to projects of clinical research for which initial funding was provided prior to the date of the enactment of this Act \[June 10, 1993\]. With respect to the inclusion of women and minorities as subjects in clinical research conducted or supported by the National Institutes of Health, any policies of the Secretary of Health and Human Services regarding such inclusion that are in effect on the day before the date of the enactment of this Act shall continue to apply to the projects referred to in the preceding sentence."
 

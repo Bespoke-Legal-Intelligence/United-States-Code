@@ -24,7 +24,7 @@ A prior section 1622, added Pub. L. 99–145, title IX, §924(a)(1), Nov. 8, 198
 
 <b>1996</b>—Pub. L. 104–201 renumbered section 1606 of this title as this section.
 
-<b>1989</b>—Subsec. (b)(2). Pub. L. 101–189 substituted “The maximum allowance provided under section 1593(b) of this title” for “$360 per year”.
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–189 substituted "The maximum allowance provided under section 1593(b) of this title" for "$360 per year".
 
 #### Effective Date of 1989 Amendment
 

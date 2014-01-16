@@ -6,7 +6,7 @@ Not later than 1 year after November 21, 2011, the President shall establish goa
 
 #### (b) Performance plans and elements
 
-The President shall establish performance plans with performance elements and standards for Peace Corps representatives and shall review the performance of Peace Corps representatives not less than annually to determine whether they have met these performance elements and standards. Nothing in this subsection shall be construed as limiting the discretion of thePresident to remove a Peace Corps representative.
+The President shall establish performance plans with performance elements and standards for Peace Corps representatives and shall review the performance of Peace Corps representatives not less than annually to determine whether they have met these performance elements and standards. Nothing in this subsection shall be construed as limiting the discretion of the President to remove a Peace Corps representative.
 
 #### (c) Annual volunteer surveys
 
@@ -50,5 +50,5 @@ The Inspector General of the Peace Corps shall—
 
 (Pub. L. 87–293, title I, §8E, as added Pub. L. 112–57, §2, Nov. 21, 2011, 125 Stat. 740.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Corps’ ”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Corps' ".</i>
 

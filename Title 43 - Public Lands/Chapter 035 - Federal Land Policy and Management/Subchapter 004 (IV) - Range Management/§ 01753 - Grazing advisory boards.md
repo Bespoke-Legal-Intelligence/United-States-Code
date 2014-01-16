@@ -2,7 +2,7 @@
 
 #### (a) Establishment; maintenance
 
-For each Bureau district office and National Forest headquarters office in the sixteen contiguous Western States having jurisdiction over more than five hundred thousand acres of lands subject to commercial livestock grazing (hereinafter in this section referred to as “office”), the Secretary and the Secretary of Agriculture, upon the petition of a simple majority of the livestock lessees and permittees under the jurisdiction of such office, shall establish and maintain at least one grazing advisory board of not more than fifteen advisers.
+For each Bureau district office and National Forest headquarters office in the sixteen contiguous Western States having jurisdiction over more than five hundred thousand acres of lands subject to commercial livestock grazing (hereinafter in this section referred to as "office"), the Secretary and the Secretary of Agriculture, upon the petition of a simple majority of the livestock lessees and permittees under the jurisdiction of such office, shall establish and maintain at least one grazing advisory board of not more than fifteen advisers.
 
 #### (b) Functions
 
@@ -18,7 +18,7 @@ Each grazing advisory board shall meet at least once annually.
 
 #### (e) Federal Advisory Committee Act applicability
 
-Except as may be otherwise provided by this section, the provisions of the Federal Advisory Committee Act (86 Stat. 770) shall apply to grazing advisory boards.
+Except as may be otherwise provided by this section, the provisions of the Federal AdvisoryCommittee Act (86 Stat. 770) shall apply to grazing advisory boards.
 
 #### (f) Expiration date
 
@@ -32,5 +32,5 @@ The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–514 substituted “sixteen contiguous Western States” for “eleven contiguous Western States”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–514 substituted "sixteen contiguous Western States" for "eleven contiguous Western States".
 

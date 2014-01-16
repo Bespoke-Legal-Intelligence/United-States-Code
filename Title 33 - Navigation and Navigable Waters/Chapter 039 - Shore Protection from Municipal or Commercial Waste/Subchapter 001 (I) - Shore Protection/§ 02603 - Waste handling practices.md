@@ -4,7 +4,7 @@
 
 #### (1) Loading
 
-&emsp;The owner or operator of the waste source shall take all reasonable steps to assure that all municipal or commercial waste is loaded onto a vessel in a manner that assures that waste deposited in coastal waters is minimized.
+&emsp;The owner or operator of the waste source shall take all reasonable steps to assure thatall municipal or commercial waste is loaded onto a vessel in a manner that assures that waste deposited in coastal waters is minimized.
 
 #### (2) Securing
 
@@ -32,5 +32,5 @@ The Administrator, in consultation with the Secretary of Transportation, shall p
 
 #### Effective Date
 
-Pub. L. 100–688, title IV, §4204(c), Nov. 18, 1988, 102 Stat. 4160, provided that: “Section 4103 of this Act \[33 U.S.C. 2603\] takes effect 60 days after the date of enactment of this Act \[Nov. 18, 1988\].”
+Pub. L. 100–688, title IV, §4204(c), Nov. 18, 1988, 102 Stat. 4160, provided that: "Section 4103 of this Act \[33 U.S.C. 2603\] takes effect 60 days after the date of enactment of this Act \[Nov. 18, 1988\]."
 

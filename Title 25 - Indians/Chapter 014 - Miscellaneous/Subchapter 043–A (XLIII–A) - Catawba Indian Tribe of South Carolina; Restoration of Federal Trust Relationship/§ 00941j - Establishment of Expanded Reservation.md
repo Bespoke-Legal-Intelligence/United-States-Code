@@ -10,7 +10,7 @@ The Secretary is authorized to receive from the State, by such transfer document
 
 (2) Within 180 days following October 27, 1993, the Secretary, after consulting with the Tribe, shall ascertain the boundaries and area of the existing reservation.<sup>1</sup> In addition, the Secretary, after consulting with the Tribe, shall engage a professional land planning firm as provided in the Settlement Agreement. The Secretary shall bear the cost of all services rendered pursuant to this section.
 
-(3) The Tribe may identify, purchase and request that the Secretary place into reservation status, tracts of lands in the manner prescribed by the Settlement Agreement. The Tribe may not request that any land be placed in reservation status, unless those lands were acquired by the Tribe and qualify for reservation status in full compliance with the Settlement Agreement, including section 14 thereof.
+(3) The Tribe may identify, purchase and request that the Secretary place into reservation status, tracts of lands in the manner prescribedby the Settlement Agreement. The Tribe may not request that any land be placed in reservation status, unless those lands were acquired by the Tribe and qualify for reservation status in full compliance with the Settlement Agreement, including section 14 thereof.
 
 (4) The Secretary shall bear the cost of all title examinations, preliminary subsurface soil investigations, and level one environmental audits to be performed on each parcel contemplated for purchase by the Tribe or the Secretary for the Expanded Reservation, and shall report the results to the Tribe. The Secretary's or the Tribe's payment of any option fee and the purchase price may be drawn from the Catawba Land Acquisition Trust Fund.
 
@@ -22,15 +22,15 @@ The Secretary is authorized to receive from the State, by such transfer document
 
 #### (c) Expansion zones
 
-(1) Subject to the conditions, criteria, and procedures set forth in the Settlement Agreement, the Tribe shall endeavor at the outset to acquire contiguous tracts for the Expanded Reservation in the “Catawba Reservation Primary Expansion Zone”, as defined in the Settlement Agreement.
+(1) Subject to the conditions, criteria, and procedures set forth in the Settlement Agreement, the Tribe shall endeavor at the outset to acquire contiguous tracts for the Expanded Reservation in the "Catawba Reservation Primary Expansion Zone", as defined in the Settlement Agreement.
 
-(2) Subject to the conditions, criteria, and procedures set forth in the Settlement Agreement, the Tribe may elect to purchase contiguous tracts in an alternative area, the “Catawba Reservation Secondary Expansion Zone”, as defined in the Settlement Agreement.
+(2) Subject to the conditions, criteria, and procedures set forth in the Settlement Agreement, the Tribe may elect to purchase contiguous tracts in an alternative area, the "Catawba Reservation Secondary Expansion Zone", as defined in the Settlement Agreement.
 
 (3) The Tribe may propose different or additional expansion zones subject to the authorizations required in the Settlement Agreement and the State Act.
 
 #### (d) Non-contiguous tracts
 
-The Tribe, in consultation with the Secretary, shall take such actions as are reasonable to expand the Existing Reservation by assembling a composite tract of contiguous parcels that border and surround the Existing Reservation. Before requesting that any non-contiguous tract be placed in Reservation status, the Tribe shallcomply with section 14 of the Settlement Agreement. Upon the approval of the Tribe's application under and in accordance with section 14 of the Settlement Agreement, the Secretary, in consultation with the Tribe, may proceed to place non-contiguous tracts in Reservation status. No purchases of non-contiguous tracts shall be made for the Reservation except as set forth in the Settlement Agreement and the State Act.
+The Tribe, in consultation with the Secretary, shall take such actions as are reasonable to expand the Existing Reservation by assembling a composite tract of contiguous parcels that border and surround the Existing Reservation. Before requesting that any non-contiguous tract be placed in Reservation status, the Tribe shall comply with section 14 of the Settlement Agreement. Upon the approval of the Tribe's application under and in accordance with section 14 of the Settlement Agreement, the Secretary, in consultation with the Tribe, may proceed to place non-contiguous tracts in Reservation status. No purchases of non-contiguous tracts shall be made for the Reservation except as set forth in the Settlement Agreement and the State Act.
 
 #### (e) Voluntary land purchases
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of law or regulation, the Attorney General o
 
 (B) Unless the Tribe and the State agree upon a valuation formula for pricing easements over the Reservation, the Secretary shall be subject to proceedings for condemnation and eminent domain to acquire easements and rights of way for public purposes through the Reservation under the laws of the State in circumstances where no other reasonable access is available.
 
-(C) With the approval of the Tribe, the Secretary may grant easements or rights-of-way over the Reservation for private purposes, and implied easements of necessity shall apply to all lands acquired by the Tribe, unless expressly excluded by the parties.
+(C) With the approval of the Tribe, the Secretary may grant easements or rights-of-wayover the Reservation for private purposes, and implied easements of necessity shall apply to all lands acquired by the Tribe, unless expressly excluded by the parties.
 
 #### (i) Jurisdictional status
 
@@ -80,7 +80,7 @@ The general land acquisition regulations of the Bureau of Indian Affairs, contai
 
 #### Codification
 
-“Sections 3113 and 3114(a) to (d) of title 40” substituted in subsec. (e)(2) for “the first section of the Act of August 1, 1888 (ch. 728, 25 Stat. 357; 40 U.S.C. 257), and the first section of the Act of February 26, 1931 (ch. 307, 46 Stat. 1421; 40 U.S.C. 258a)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Sections 3113 and 3114(a) to (d) of title 40" substituted in subsec. (e)(2) for "the first section of the Act of August 1, 1888 (ch. 728, 25 Stat. 357; 40 U.S.C. 257), and the first section of the Act of February 26, 1931 (ch. 307, 46 Stat. 1421; 40 U.S.C. 258a)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

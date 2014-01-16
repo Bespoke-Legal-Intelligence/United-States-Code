@@ -4,7 +4,7 @@
 
 (1)(A) <sup>1</sup> Except in the case of an annuitant who makes an election under subsection (b) of this section or in the case of a waiver under subsection (g) of this section, if any former participant, who has retired and is receiving an annuity under this part or part II of this subchapter, becomes employed in an appointive or elective position in the Government, payment of any annuity under either part to the annuitant shall terminate effective on the date of the employment and the reemployment service shall be covered service under the rules of the system under which the appointment is made.
 
-(B) If the annuity of an individual is terminated under subparagraph (A) and that individual becomes covered under the same retirement system from which that annuity is terminated, that individual shall be entitled to a redetermination of rights under that system upon termination of the employment.
+(B) If the annuity of an individual is terminated under subparagraph (A) and that individual becomes covered under the same retirementsystem from which that annuity is terminated, that individual shall be entitled to a redetermination of rights under that system upon termination of the employment.
 
 (C) If the annuity is terminated and the individual becomes covered under another contributory retirement system for Government employees pursuant to paragraph (A), the individual shall be entitled to benefits under the rules of that system. In addition, the individual shall be entitled to a resumption of any annuity terminated by reason of the employment.
 
@@ -28,7 +28,7 @@
 
 &emsp;(ii) the basic pay the annuitant was entitled to receive under this chapter on the date of retirement from the Service.
 
-(C) For purposes of this section, the term “annuity” means the annuity earned by the reemployed member based on his or her service irrespective of whether or not the amount payable is reduced by the amount of an annuity payable under section 4054 or 4060(b) of this title.
+(C) For purposes of this section, the term "annuity" means the annuity earned by the reemployed member based on his or her service irrespective of whether or not the amount payable is reduced by the amount of an annuity payable under section 4054 or 4060(b) of this title.
 
 (4) Upon termination of the part-time, intermittent, or temporary employment referred to in paragraph (1), payment of the full annuity of an annuitant who has made an election under paragraph (1) of this subsection shall resume.
 
@@ -62,7 +62,7 @@ In the event of any overpayment under this section, such overpayment shall be re
 
 (2)(A) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (B) of paragraph (1), or to grant authority to the head of an Executive agency to waive the application of such subsections to an annuitant under such subparagraph, shall terminate on October 1, 2010. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
 
-(B) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(i) of paragraph (1) shall terminate on September 30, 2009.
+(B) The authority of the Secretary to waive the application of subsections (a) through (d) foran annuitant pursuant to subparagraph (C)(i) of paragraph (1) shall terminate on September 30, 2009.
 
 (C) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(ii) of paragraph (1) shall terminate on September 30, 2009.
 
@@ -76,45 +76,45 @@ A reemployed annuitant as to whom a waiver under subsection (g) of this section 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (g)(1)(B). Pub. L. 111–32 inserted “, Pakistan,” after “Iraq” in two places.
+<b>2009</b>—Subsec. (g)(1)(B). Pub. L. 111–32 inserted ", Pakistan," after "Iraq" in two places.
 
-Subsec. (g)(2). Pub. L. 111–32, §1115(c)(1), which directed amendment of subsec. (g)(2) by substituting “2010” for “2009”, was executed by making the substitution in subpar. (A) only, to reflect the probable intent of Congress.
+Subsec. (g)(2). Pub. L. 111–32, §1115(c)(1), which directed amendment of subsec. (g)(2) by substituting "2010" for "2009", was executed by making the substitution in subpar. (A) only, to reflect the probable intent of Congress.
 
-<b>2008</b>—Subsec. (g)(2)(A), (B). Pub. L. 110–321 substituted “2009” for “2008”.
+<b>2008</b>—Subsec. (g)(2)(A), (B). Pub. L. 110–321 substituted "2009" for "2008".
 
-<b>2007</b>—Subsec. (g)(1). Pub. L. 109–289, §20941(1)(A), as added by Pub. L. 110–5, substituted “The Secretary” for “To facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, the Secretary” in introductory provisions.
+<b>2007</b>—Subsec. (g)(1). Pub. L. 109–289, §20941(1)(A), as added by Pub. L. 110–5, substituted "The Secretary" for "To facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, the Secretary" in introductory provisions.
 
-Subsec. (g)(1)(B). Pub. L. 109–289, §20941(1)(B), as added by Pub. L. 110–5, substituted “to facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, if” for “if”.
+Subsec. (g)(1)(B). Pub. L. 109–289, §20941(1)(B), as added by Pub. L. 110–5, substituted "to facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, if" for "if".
 
 Subsec. (g)(1)(C). Pub. L. 110–50, §2(1), added subpar. (C).
 
 Subsec. (g)(2). Pub. L. 110–50, §2(2), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-Pub. L. 109–289, §20941(2), as added by Pub. L. 110–5, substituted “such subparagraph” for “subparagraphs (A) or (B) of such paragraph”.
+Pub. L. 109–289, §20941(2), as added by Pub. L. 110–5, substituted "such subparagraph" for "subparagraphs (A) or (B) of such paragraph".
 
-Subsec. (g)(3). Pub. L. 109–289, §20941(3), as added by Pub. L. 110–5, substituted “paragraph (1)(B)” for “paragraph (1)”.
+Subsec. (g)(3). Pub. L. 109–289, §20941(3), as added by Pub. L. 110–5, substituted "paragraph (1)(B)" for "paragraph (1)".
 
-<b>2006</b>—Subsec. (g). Pub. L. 109–234 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Secretary of State may waive the application of the paragraphs (a) through (d) of this section, on a case-by-case basis, for an annuitant reemployed on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.”
+<b>2006</b>—Subsec. (g). Pub. L. 109–234 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "The Secretary of State may waive the application of the paragraphs (a) through (d) of this section, on a case-by-case basis, for an annuitant reemployed on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances."
 
-<b>1998</b>—Pub. L. 105–277, which directed amendment of section 824 of the Foreign Service Act, in subsec. (a)(1)(A), by inserting “or in the case of a waiver under subsection (g) of this section” after “subsection (b) of this section”, and by adding subsecs. (g) and (h), was executed to this section, which is section 824 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
+<b>1998</b>—Pub. L. 105–277, which directed amendment of section 824 of the Foreign Service Act, in subsec. (a)(1)(A), by inserting "or in the case of a waiver under subsection (g) of this section" after "subsection (b) of this section", and by adding subsecs. (g) and (h), was executed to this section, which is section 824 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–335, §410, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Notwithstanding any other law, any member of the Service who has retired and is receiving an annuity under this part, and who is reemployed in the Government service in any part-time or full-time appointive position, shall be entitled to receive the salary of the position in which he or she is serving plus so much of the annuity payable under this part which when combined with such salary does not exceed during any calendar year the basic salary the member was entitled to receive under this chapter on the date of retirement from the Service. Any such reemployed member of the Service who receives salary during any calendar year in excess of the maximum amount which he or she may be entitled to receive under this subsection shall be entitled to such salary in lieu of benefits under this part.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–335, §410, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Notwithstanding any other law, any member of the Service who has retired and is receiving an annuity under this part, and who is reemployed in the Government service in any part-time or full-time appointive position, shall be entitled to receive the salary of the position in which he or she is serving plus so much of the annuity payable under this part which when combined with such salary does not exceed during any calendar year the basic salary the member was entitled to receive under this chapter on the date of retirement from the Service. Any such reemployed member of the Service who receives salary during any calendar year in excess of the maximum amount which he or she may be entitled to receive under this subsection shall be entitled to such salary in lieu of benefits under this part."
 
-Pub. L. 99–335, §402(a)(2), substituted “this part” for “this subchapter” in three places.
+Pub. L. 99–335, §402(a)(2), substituted "this part" for "this subchapter" in three places.
 
-Subsec. (b). Pub. L. 99–335, §410, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When any such retired member of the Service is reemployed, the employer shall send a notice of such reemployment to the Secretary of State, together with all pertinent information relating to such employment, and shall pay directly to such member the salary of the position in which he or she is serving.”
+Subsec. (b). Pub. L. 99–335, §410, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "When any such retired member of the Service is reemployed, the employer shall send a notice of such reemployment to the Secretary of State, together with all pertinent information relating to such employment, and shall pay directly to such member the salary of the position in which he or she is serving."
 
-Subsec. (b)(3). Pub. L. 99–556, §403, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The sum of—
+Subsec. (b)(3). Pub. L. 99–556, §403, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The sum of—
 
-&emsp;“(A) the total annuity payable under this subchapter to an annuitant making an election under paragraph (1), and
+&emsp;"(A) the total annuity payable under this subchapter to an annuitant making an election under paragraph (1), and
 
-&emsp;“(B) the annual rate of pay payable to the annuitant during the part-time, intermittent, or temporary employment referred to in paragraph (1),
+&emsp;"(B) the annual rate of pay payable to the annuitant during the part-time, intermittent, or temporary employment referred to in paragraph (1),
 
-> may not exceed, in any calendar year, the highest annual rate of pay which is payable during such year for full-time employment in the position in which the annuitant is employed.”
+> may not exceed, in any calendar year, the highest annual rate of pay which is payable during such year for full-time employment in the position in which the annuitant is employed."
 
-Subsec. (c). Pub. L. 99–335, §410, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In the event of any overpayment under this section, such overpayment shall be recovered by withholding the amount involved from the salary payable to such reemployed member of the Service or from any other moneys, including annuity payments, payable under this part.”
+Subsec. (c). Pub. L. 99–335, §410, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "In the event of any overpayment under this section, such overpayment shall be recovered by withholding the amount involved from the salary payable to such reemployed member of the Service or from any other moneys, including annuity payments, payable under this part."
 
-Pub. L. 99–335, §402(a)(2), substituted “this part” for “this subchapter”.
+Pub. L. 99–335, §402(a)(2), substituted "this part" for "this subchapter".
 
 #### Effective Date of 1986 Amendments
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Extension of Authority
 
-Pub. L. 112–74, div. I, title VII, §7034(m)(4), Dec. 23, 2011, 125 Stat. 1216, provided that: “Section 824(g) of the Foreign Service Act of 1980 (22 U.S.C. 4064(g)) shall be applied by substituting ‘September 30, 2012’ for ‘October 1, 2010’ in paragraph (2).”
+Pub. L. 112–74, div. I, title VII, §7034(m)(4), Dec. 23, 2011, 125 Stat. 1216, provided that: "Section 824(g) of the Foreign Service Act of 1980 (22 U.S.C. 4064(g)) shall be applied by substituting 'September 30, 2012' for 'October 1, 2010' in paragraph (2)."
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

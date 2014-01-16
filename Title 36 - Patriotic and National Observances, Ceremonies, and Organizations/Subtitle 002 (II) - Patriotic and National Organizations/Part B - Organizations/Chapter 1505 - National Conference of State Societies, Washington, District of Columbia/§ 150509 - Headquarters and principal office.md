@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Apr. 3, 1952, ch. 131, §4(a), 66 Stat. 39.
 
-The word “office” is substituted for “offices” for consistency with section 150510 and other sections of the revised title. The word “various” is omitted as unnecessary.
+The word "office" is substituted for "offices" for consistency with section 150510 and other sections of the revised title. The word "various" is omitted as unnecessary.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in consultation with the State technical committees established under section 3861 of this title, shall establish within the Natural Resources Conservation Service a program to be known as the wildlife habitat incentive program (referred to in this section as the “program”) for the development of wildlife habitat on private agricultural land, nonindustrial private forest land, and tribal lands.
+The Secretary, in consultation with the State technical committees established under section 3861 of this title, shall establish within the Natural Resources Conservation Service a program to be known as the wildlife habitat incentive program (referred to in this section as the "program") for the development of wildlife habitat on private agricultural land, nonindustrial private forest land, and tribal lands.
 
 #### (b) Cost-share payments
 
@@ -46,17 +46,17 @@ Payments made to a person or legal entity, directly or indirectly, under the pro
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2602(a)(1), inserted “for the development of wildlife habitat on private agricultural land, nonindustrial private forest land, and tribal lands” before period at end.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2602(a)(1), inserted "for the development of wildlife habitat on private agricultural land, nonindustrial private forest land, and tribal lands" before period at end.
 
-Subsec. (b)(1). Pub. L. 110–246, §2602(a)(2), substituted “owners of lands referred to in subsection (a)” for “landowners” in introductory provisions.
+Subsec. (b)(1). Pub. L. 110–246, §2602(a)(2), substituted "owners of lands referred to in subsection (a)" for "landowners" in introductory provisions.
 
-Subsec. (b)(1)(E). Pub. L. 110–246, §2602(b), inserted “, including habitat developed on pivot corners and irregular areas” before period at end.
+Subsec. (b)(1)(E). Pub. L. 110–246, §2602(b), inserted ", including habitat developed on pivot corners and irregular areas" before period at end.
 
-Subsec. (b)(2)(B). Pub. L. 110–246, §2602(c), substituted “25 percent” for “15 percent”.
+Subsec. (b)(2)(B). Pub. L. 110–246, §2602(c), substituted "25 percent" for "15 percent".
 
 Subsecs. (d), (e). Pub. L. 110–246, §2602(d), added subsecs. (d) and (e).
 

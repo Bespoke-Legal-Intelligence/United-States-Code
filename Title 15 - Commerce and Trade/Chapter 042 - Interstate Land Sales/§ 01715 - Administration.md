@@ -16,21 +16,21 @@ The Director shall conduct all actions with respect to rulemaking or adjudicatio
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1098A(1), substituted “Director” for “Secretary” wherever appearing.
+<b>2010</b>—Pub. L. 111–203, §1098A(1), substituted "Director" for "Secretary" wherever appearing.
 
-Subsec. (a). Pub. L. 111–203, §1098A(5), substituted “Director of the Bureau of Consumer Financial Protection” for “Secretary of Housing and Urban Development”.
+Subsec. (a). Pub. L. 111–203, §1098A(5), substituted "Director of the Bureau of Consumer Financial Protection" for "Secretary of Housing and Urban Development".
 
-Pub. L. 111–203, §1098A(3), substituted “in the Bureau” for “in the Department” in two places.
+Pub. L. 111–203, §1098A(3), substituted "in the Bureau" for "in the Department" in two places.
 
-Pub. L. 111–203, §1098A(2), substituted “Bureau of Consumer Financial Protection or” for “Department of Housing and Urban Development or”.
+Pub. L. 111–203, §1098A(2), substituted "Bureau of Consumer Financial Protection or" for "Department of Housing and Urban Development or".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–479 substituted “subchapter II of chapter 5, and chapter 7, of title 5” for “the Administrative Procedure Act”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–479 substituted "subchapter II of chapter 5, and chapter 7, of title 5" for "the Administrative Procedure Act".
 
 <b>1979</b>—Subsec. (c). Pub. L. 96–153 added subsec. (c).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “5372” for “5362”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted "5372" for "5362".
 
-Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing.
+Pub. L. 95–251 substituted "administrative law judges" for "hearing examiners" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

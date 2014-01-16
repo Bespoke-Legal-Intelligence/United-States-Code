@@ -10,5 +10,5 @@ After the creation of such board and for thirty days after such board has made i
 
 #### Amendments
 
-<b>1934</b>—Act June 21, 1934, substituted “Mediation Board” for “Board of Mediation” wherever appearing.
+<b>1934</b>—Act June 21, 1934, substituted "Mediation Board" for "Board of Mediation" wherever appearing.
 

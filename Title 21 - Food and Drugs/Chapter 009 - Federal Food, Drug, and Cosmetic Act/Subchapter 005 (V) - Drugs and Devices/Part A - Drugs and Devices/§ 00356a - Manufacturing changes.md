@@ -4,7 +4,7 @@
 
 With respect to a drug for which there is in effect an approved application under section 355 or 360b of this title or a license under section 262 of title 42, a change from the manufacturing process approved pursuant to such application or license may be made, and the drug as made with the change may be distributed, if—
 
-&emsp;(1) the holder of the approved application or license (referred to in this section as a “holder”) has validated the effects of the change in accordance with subsection (b) of this section; and
+&emsp;(1) the holder of the approved application or license (referred to in this section as a "holder") has validated the effects of the change in accordance with subsection (b) of this section; and
 
 &emsp;(2)(A) in the case of a major manufacturing change, the holder has complied with the requirements of subsection (c) of this section; or
 
@@ -12,7 +12,7 @@ With respect to a drug for which there is in effect an approved application unde
 
 #### (b) Validation of effects of changes
 
-For purposes of subsection (a)(1) of this section, a drug made with a manufacturing change (whether a major manufacturing change or otherwise) may be distributed only if, before distribution of the drug as so made, the holder involved validates the effects of the change on the identity, strength, quality, purity, and potency of the drug as the identity, strength, quality, purity, and potency may relate to the safety or effectiveness of the drug.
+For purposes of subsection (a)(1) of this section, a drug made with a manufacturing change\(whether a major manufacturing change or otherwise) may be distributed only if, before distribution of the drug as so made, the holder involved validates the effects of the change on the identity, strength, quality, purity, and potency of the drug as the identity, strength, quality, purity, and potency may relate to the safety or effectiveness of the drug.
 
 #### (c) Major manufacturing changes
 
@@ -72,5 +72,5 @@ For purposes of subsection (a)(1) of this section, a drug made with a manufactur
 
 #### Effective Date
 
-Pub. L. 105–115, title I, §116(b), Nov. 21, 1997, 111 Stat. 2315, provided that: “The amendment made by subsection (a) \[enacting this section\] takes effect upon the effective date of regulations promulgated by the Secretary of Health and Human Services to implement such amendment, or upon the expiration of the 24-month period beginning on the date of the enactment of this Act \[Nov. 21, 1997\], whichever occurs first.”
+Pub. L. 105–115, title I, §116(b), Nov. 21, 1997, 111 Stat. 2315, provided that: "The amendment made by subsection (a) \[enacting this section\] takes effect upon the effective date of regulations promulgated by the Secretary of Health and Human Services to implement such amendment, or upon the expiration of the 24-month period beginning on the date of the enactment of this Act \[Nov. 21, 1997\], whichever occurs first."
 

@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 31:670.
 
-May 28, 1896, ch. 252, §1(par. immediately before heading “Treasury Department”), 29 Stat. 148.
+May 28, 1896, ch. 252, §1(par. immediately before heading "Treasury Department"), 29 Stat. 148.
 
-The words “by adding up” are substituted for “by the correct footing up” for clarity.
+The words "by adding up" are substituted for "by the correct footing up" for clarity.
 

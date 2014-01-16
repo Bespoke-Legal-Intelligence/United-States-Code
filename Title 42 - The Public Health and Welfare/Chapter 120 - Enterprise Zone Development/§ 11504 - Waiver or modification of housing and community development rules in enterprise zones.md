@@ -38,7 +38,7 @@ In the event that the Secretary proposes to amend a rule for which a waiver or m
 
 #### (i) Expiration of waivers and modifications
 
-No waiver or modification of a rule under this section shall remain in effect for a longer periodthan the period for which the enterprise zone designation remains in effect for the area in which the waiver or modification applies.
+No waiver or modification of a rule under this section shall remain in effect for a longer period than the period for which the enterprise zone designation remains in effect for the area in which the waiver or modification applies.
 
 #### (j) Definitions
 
@@ -46,7 +46,7 @@ For purposes of this section:
 
 #### (1) Rule
 
-&emsp;The term “rule” means—
+&emsp;The term "rule" means—
 
 &emsp;&emsp;(A) any rule as defined in section 551(4) of title 5; or
 
@@ -54,7 +54,7 @@ For purposes of this section:
 
 #### (2) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Housing and Urban Development or, with respect to any rule issued under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Housing and Urban Development or, with respect to any rule issued under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], the Secretary of Agriculture.
 
 (Pub. L. 100–242, title VII, §704, Feb. 5, 1988, 101 Stat. 1962.)
 

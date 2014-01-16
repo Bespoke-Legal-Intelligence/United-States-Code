@@ -24,7 +24,7 @@ The Secretary shall conduct a national evaluation of the program of grants to St
 
 #### (c) Report to Congress
 
-Not later than 2½ years after October 30, 2000, the Secretary shall prepare and submit to the appropriate committees of Congress a report concerning the results of the evaluation conducted under this section.
+Not later than 2½ years after October 30, 2000, the Secretary shall prepare and submit to theappropriate committees of Congress a report concerning the results of the evaluation conducted under this section.
 
 (Pub. L. 106–402, title II, §210, Oct. 30, 2000, 114 Stat. 1733.)
 

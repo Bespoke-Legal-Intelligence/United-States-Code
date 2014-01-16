@@ -24,5 +24,5 @@
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–8 struck out subsec. (c). Text read as follows: “The Inspector General of the Department of Agriculture shall audit the activities, transactions, and records of the Authority on an annual basis.”
+<b>2009</b>—Pub. L. 111–8 struck out subsec. (c). Text read as follows: "The Inspector General of the Department of Agriculture shall audit the activities, transactions, and records of the Authority on an annual basis."
 

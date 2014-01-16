@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means a public food program service provider or nonprofit organization, including an emergency feeding organization, that has collaborated, or will collaborate, with 1 or more local partner organizations to achieve at least 1 hunger-free communities goal.
+&emsp;The term "eligible entity" means a public food program service provider or nonprofit organization, including an emergency feeding organization, that has collaborated, or will collaborate, with 1 or more local partner organizations to achieve at least 1 hunger-free communities goal.
 
 #### (2) Emergency feeding organization
 
-&emsp;The term “emergency feeding organization” has the meaning given the term in section 7501 of this title.
+&emsp;The term "emergency feeding organization" has the meaning given the term in section 7501 of this title.
 
 #### (3) Hunger-free communities goal
 
-&emsp;The term “hunger-free communities goal” means any of the 14 goals described in the H. Con. Res. 302 (102nd Congress).
+&emsp;The term "hunger-free communities goal" means any of the 14 goals described in the H. Con. Res. 302 (102nd Congress).
 
 #### (b) Hunger-free communities collaborative grants
 
@@ -60,7 +60,7 @@ In this section:
 
 &emsp;&emsp;(B) developing new resources and strategies to help reduce hunger in the community and prevent hunger in the future by—
 
-&emsp;&emsp;&emsp;(i) developing creative food resources, such as community gardens, buying clubs, food cooperatives, community-owned and operated grocery stores, and farmers’ markets;
+&emsp;&emsp;&emsp;(i) developing creative food resources, such as community gardens, buying clubs, food cooperatives, community-owned and operated grocery stores, and farmers' markets;
 
 &emsp;&emsp;&emsp;(ii) coordinating food services with park and recreation programs and other community-based outlets to reduce barriers to access; or
 
@@ -146,7 +146,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under section 1161 of Title 2, The Congress.
 
-#### Definition of “Secretary”
+#### Definition of "Secretary"
 
-“Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
+"Secretary" as meaning the Secretary of Agriculture, see section 8701 of this title.
 

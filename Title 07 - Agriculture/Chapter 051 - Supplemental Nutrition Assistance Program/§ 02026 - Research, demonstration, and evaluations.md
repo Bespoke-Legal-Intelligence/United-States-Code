@@ -2,9 +2,9 @@
 
 #### (a) Contracts or grants; issuance of aggregate allotments
 
-(1) The Secretary may enter into contracts with or make grants to public or private organizations or agencies under this section to undertake research that will help improve the administration and effectiveness of the supplementalnutrition assistance program in delivering nutrition-related benefits. The waiver authority of the Secretary under subsection (b) of this section shall extend to all contracts and grants under this section.
+(1) The Secretary may enter into contracts with or make grants to public or private organizations or agencies under this section to undertake research that will help improve the administration and effectiveness of the supplemental nutrition assistance program in delivering nutrition-related benefits. The waiver authority of the Secretary under subsection (b) of this section shall extend to all contracts and grants under this section.
 
-(2) The Secretary may, on application, permit not more than two State agencies to establish procedures that allow households whose monthly supplemental nutrition assistance program benefits do not exceed $20, at their option, to receive, in lieu of their supplemental nutrition assistance program benefits for the initial period under section 2017 of this title and their regular allotment in following months, and at intervals of up to 3 months thereafter, aggregate allotments not to exceed $60 and covering not more than 3 months’ benefits. The allotments shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title (except that no household shall begin to receive combined allotments under this section until it has complied with all applicable verification requirements of section 2020(e)(3) of this title) and (with respect to the first aggregate allotment so issued) within 40 days of the last benefit issuance.
+(2) The Secretary may, on application, permit not more than two State agencies to establish procedures that allow households whose monthly supplemental nutrition assistance program benefits do not exceed $20, at their option, to receive, in lieu of their supplemental nutrition assistance program benefits for the initial period under section 2017 of this title and their regular allotment in following months, and at intervals of up to 3 months thereafter, aggregate allotments not to exceed $60 and covering not more than 3 months' benefits. The allotments shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title (except that no household shall begin to receive combined allotments under this section until it has complied with all applicable verification requirements of section 2020(e)(3) of this title) and (with respect to the first aggregate allotment so issued) within 40 days of the last benefit issuance.
 
 #### (b) Pilot projects
 
@@ -86,7 +86,7 @@ Impermissible projects.—The Secretary may not conduct a project under subparag
 
 &emsp;(v)
 
-Additional included projects.—A pilot or experimental project may include projects involving the payment of the value of allotments or the average value of allotments by household size in the form of cash to eligible households all of whose members are age sixty-five or over or any of whose members areentitled to supplemental security income benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] or are receiving assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), the use of identification mechanisms that do not invade a household's privacy, and the use of food checks or other voucher-type forms in place of EBT cards.
+Additional included projects.—A pilot or experimental project may include projects involving the payment of the value of allotments or the average value of allotments by household size in the form of cash to eligible households all of whose members are age sixty-five or over or any of whose members are entitled to supplemental security income benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] or are receiving assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), the use of identification mechanisms that do not invade a household's privacy, and the use of food checks or other voucher-type forms in place of EBT cards.
 
 &emsp;(vi)
 
@@ -124,13 +124,13 @@ Failure to respond.—If the Secretary does not provide a response in accordance
 
 Notice of denial.—On denial of a waiver request under clause (i)(III), the Secretary shall provide a copy of the waiver request and a description of the reasons for the denial to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-(2) The Secretary shall, jointly with the Secretary of Labor, implement two pilot projects involving the performance of work in return for supplemental nutrition assistance program benefits in each of the seven administrative regions of the Food and Nutrition Service of the Department of Agriculture, such projects to be (A) appropriately divided in each region between locations that are urban and rural in characteristics and among locations selected to provide a representative cross-section of political subdivisions in the States and (B) submitted for approval prior to project implementation, together with the names of the agencies or organizations that will be engaged in such projects, to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate. Under such pilot projects, any person who is subject to the work registration requirements pursuant to section 2015(d) of this title, and is a member of a household that does not have earned income equal to or exceeding the allotment to which the household is otherwise entitled pursuant to section 2017(a) of this title, shall be ineligible to participate in the supplemental nutrition assistance program as a member of any household during any month in which such person refuses, after not being offered employment in the private sector of the economy for more than thirty days (ten days in at least one pilot project area designated by the Secretary) after the initial registration for employment referred to in section 2015(d)(1)(A)(i) of this title, to accept an offer of employment from a political subdivision or provider pursuant to a program carried out under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], for which employment compensation shall be paid in the form of the allotment to which the household is otherwise entitled pursuant to section 2017(a) of this title, with each hour of employment entitling the household to a portion of the allotment equal in value to 100 per centum of the Federal minimum hourly rate under the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 206(a)(1)); which employment shall not, together with any other hours worked in any other capacity by such person exceed forty hours a week; and which employment shall not be used by the employer to fill a job opening created by the action of such employer in laying off or terminating the employment of any regular employee not supported under this paragraph in anticipation of filling the vacancy so created by hiring an employee or employees to be supported under this paragraph, if all of the jobs supported under the program have been made available to participants in the program before the political subdivision or provider providing the jobs extends an offer of employment under this paragraph, and if the political subdivision or provider, in employing the person, complies with the requirements of Federal law that relate to the program. The Secretary and the Secretary of Labor shall jointly issue reports to the appropriate committees of Congress on the progress of such pilot projects no later than six and twelve months following September 29, 1977, shall issueinterim reports no later than October 1, 1979, October 1, 1980, and March 30, 1981, shall issue a final report describing the results of such pilot projects based upon their operation from their commencement through the fiscal year ending September 30, 1981, and shall pay to the agencies or organizations operating such pilot projects 50 per centum of all administrative costs involved in such operation.
+(2) The Secretary shall, jointly with the Secretary of Labor, implement two pilot projects involving the performance of work in return for supplemental nutrition assistance program benefits in each of the seven administrative regions of the Food and Nutrition Service of the Department of Agriculture, such projects to be (A) appropriately divided in each region between locations that are urban and rural in characteristics and among locations selected to provide a representative cross-section of political subdivisions in the States and (B) submitted for approval prior to project implementation, together with the names of the agencies or organizations that will be engaged in such projects, to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate. Under such pilot projects, any person who is subject to the work registration requirements pursuant to section 2015(d) of this title, and is a member of a household that does not have earned income equal to or exceeding the allotment to which the household is otherwise entitled pursuant to section 2017(a) of this title, shall be ineligible to participate in the supplemental nutrition assistance program as a member of any household during any month in which such person refuses, after not being offered employment in the private sector of the economy for more than thirty days (ten days in at least one pilot project area designated by the Secretary) after the initial registration for employment referred to in section 2015(d)(1)(A)(i) of this title, to accept an offer of employment from a political subdivision or provider pursuant to a program carried out under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], for which employment compensation shall be paid in the form of the allotment to which the household is otherwise entitled pursuant to section 2017(a) of this title, with each hour of employment entitling the household to a portion of the allotment equal in value to 100 per centum of the Federal minimum hourly rate under the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 206(a)(1)); which employment shall not, together with any other hours worked in any other capacity by such person exceed forty hours a week; and which employment shall not be used by the employer to fill a job opening created by the action of such employer in laying off or terminating the employment of any regular employee not supported under this paragraph in anticipation of filling the vacancy so created by hiring an employee or employees to be supported under this paragraph, if all of the jobs supported under the program have been made available to participants in the program before the political subdivision or provider providing the jobs extends an offer of employment under this paragraph, and if the political subdivision or provider, in employing the person, complies with the requirements of Federal law that relate to the program. The Secretary and the Secretary of Labor shall jointly issue reports to the appropriate committees of Congress on the progress of such pilot projects no later than six and twelve months following September 29, 1977, shall issue interim reports no later than October 1, 1979, October 1, 1980, and March 30, 1981, shall issue a final report describing the results of such pilot projects based upon their operation from their commencement through the fiscal year ending September 30, 1981, and shall pay to the agencies or organizations operating such pilot projects 50 per centum of all administrative costs involved in such operation.
 
 (3)(A) The Secretary may conduct demonstration projects to test improved consistency or coordination between the supplemental nutrition assistance program employment and training program and the Job Opportunities and Basic Skills program under title IV of the Social Security Act (42 U.S.C. 601 et seq.).
 
 (B) Notwithstanding paragraph (1), the Secretary may, as part of a project authorized under this paragraph, waive requirements under section 2015(d) of this title to permit a State to operate an employment and training program for supplemental nutrition assistance program recipients on the same terms and conditions under which the State operates its Job Opportunities and Basic Skills program for recipients of aid to families with dependent children under part F <sup>1</sup> of title IV of the Social Security Act (42 U.S.C. 681 et seq.). Any work experience program conducted as part of the project shall be conducted in conformity with section 482(f) <sup>1</sup> of such Act (42 U.S.C. 682(f)).
 
-(C) A State seeking such a waiver shall provide assurances that the resulting employment and training program shall meet the requirements of subsections (a)(19) and (g) of section 402 <sup>1</sup> of such Act (42 U.S.C. 602) (but not including the provision of transitional benefits under clauses (ii) through (vii) of section 402(g)(1)(A) <sup>1</sup>) and sections 481 through 487 <sup>1</sup> of such Act (42 U.S.C. 681 through 687). Each reference to “aid to families with dependent children” in such sections shall be deemed to be a reference to supplemental nutrition assistance program benefits for purposes of the demonstration project.
+(C) A State seeking such a waiver shall provide assurances that the resulting employment and training program shall meet the requirements of subsections (a)(19) and (g) of section 402 <sup>1</sup> of such Act (42 U.S.C. 602) (but not including the provision of transitional benefits under clauses (ii) through (vii) of section 402(g)(1)(A) <sup>1</sup>) and sections 481 through 487 <sup>1</sup> of such Act (42 U.S.C. 681 through 687). Each reference to "aid to families with dependent children" in such sections shall be deemed to be a reference to supplemental nutrition assistance program benefits for purposes of the demonstration project.
 
 (D) Notwithstanding the other provisions of this paragraph, participation in an employment and training activity in which supplemental nutrition assistance program benefits are converted to cash shall occur only with the consent of the participant.
 
@@ -226,7 +226,7 @@ In order to assess the effectiveness of the employment and training programs est
 
 #### (h) Demonstration projects for vehicle exclusion limits
 
-The Secretary shall conduct a sufficient number of demonstration projects to evaluate the effects, in both rural and urban areas, of including in financial resources under section 2014(g) of this title the fair market value of licensed vehicles to the extent the value of each vehicle exceeds $4,500, but excluding the value of—
+The Secretary shall conduct a sufficient number of demonstration projects to evaluate the effects, in both rural and urban areas, of including in financial resources under section 2014(g) ofthis title the fair market value of licensed vehicles to the extent the value of each vehicle exceeds $4,500, but excluding the value of—
 
 &emsp;(1) any licensed vehicle that is used to produce earned income, necessary for transportation of an elderly or physically disabled household member, or used as the household's home; and
 
@@ -282,11 +282,11 @@ The Secretary shall use up to $4,000,000 of the funds provided in advance in app
 
 #### (3) Projects
 
-&emsp;Pilot projects carried out under paragraph (1) may include projects to determine whetherhealthier food purchases by and healthier diets among households participating in the supplemental nutrition assistance program result from projects that—
+&emsp;Pilot projects carried out under paragraph (1) may include projects to determine whether healthier food purchases by and healthier diets among households participating in the supplemental nutrition assistance program result from projects that—
 
 &emsp;&emsp;(A) increase the supplemental nutrition assistance purchasing power of the participating households by providing increased supplemental nutrition assistance program benefit allotments to the participating households;
 
-&emsp;&emsp;(B) increase access to farmers <sup>2</sup> markets by participating households through the electronic redemption of supplemental nutrition assistance program benefits at farmers’ markets;
+&emsp;&emsp;(B) increase access to farmers <sup>2</sup> markets by participating households through the electronic redemption of supplemental nutrition assistance program benefits at farmers' markets;
 
 &emsp;&emsp;(C) provide incentives to authorized supplemental nutrition assistance program retailers to increase the availability of healthy foods to participating households;
 
@@ -294,7 +294,7 @@ The Secretary shall use up to $4,000,000 of the funds provided in advance in app
 
 &emsp;&emsp;(E) provide incentives at the point of purchase to encourage households participating in the supplemental nutrition assistance program to purchase fruits, vegetables, or other healthful foods; or
 
-&emsp;&emsp;(F) provide to participating households integrated communication and education programs, including the provision of funding for a portion of a school-based nutrition coordinator to implement a broad nutrition action plan and parent nutrition education programs in elementary schools, separately or in combination with pilot projects carried out under subparagraphs (A) through (E).
+&emsp;&emsp;(F) provide to participating households integrated communication and education programs, including the provision of funding for a portion of a school-based nutrition coordinator to implement a broad nutritionaction plan and parent nutrition education programs in elementary schools, separately or in combination with pilot projects carried out under subparagraphs (A) through (E).
 
 #### (4) Evaluation and reporting
 
@@ -344,7 +344,7 @@ The Secretary shall use up to $4,000,000 of the funds provided in advance in app
 
 &emsp;&emsp;Out of any funds made available under section 2027 of this title, on October 1, 2008, the Secretary shall make available $20,000,000 to carry out a project described in paragraph (3)(E), to remain available until expended.
 
-(Pub. L. 88–525, §17, as added Pub. L. 93–86, §3(n), Aug. 10, 1973, 87 Stat. 248; amended Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 977; Pub. L. 95–400, Sept. 30, 1978, 92 Stat. 856; Pub. L. 96–249, title I, §§130–132(a), 133, May 26, 1980, 94 Stat. 367, 368; Pub. L. 97–98, title XIII, §§1328–1330, Dec. 22, 1981, 95 Stat. 1289, 1290; Pub. L. 97–253, title I, §§152(c), 181, 182, 190(d), Sept. 8, 1982, 96 Stat. 776, 784, 785, 787; Pub. L. 99–114, §4, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §2, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §2, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1540, Dec. 23, 1985, 99 Stat. 1588; Pub. L. 100–435, title V, §§504, 505, Sept. 19, 1988, 102 Stat. 1673; Pub. L. 101–624, title XVII, §§1729(b), 1731, 1754–1759, Nov. 28, 1990, 104 Stat. 3790, 3798–3800, 3802; Pub. L. 102–237, title IX, §941(8), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13925, Aug. 10, 1993, 107 Stat. 675; Pub. L. 103–225, title II, §204, Mar. 25, 1994, 108 Stat. 109; Pub. L. 104–127, title IV, §401(c), (d), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(d), title VIII, §§815(b)(1), 850–852, 854(c)(2), Aug. 22, 1996, 110 Stat. 2169, 2317, 2336–2338, 2342; Pub. L. 105–18, title VII, \[(b)\], June 12, 1997, 111 Stat. 217; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(C), (f)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§4112(b)(4), 4116(b),4122(b), 4123(a), May 13, 2002, 116 Stat. 313, 316, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), May 22, 2008, 122 Stat. 1092, 1094, 1108, 1117, 1141; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), June 18, 2008, 122 Stat. 1664, 1853, 1855, 1869, 1879, 1902.)
+(Pub. L. 88–525, §17, as added Pub. L. 93–86, §3(n), Aug. 10, 1973, 87 Stat. 248; amended Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 977; Pub. L. 95–400, Sept. 30, 1978, 92 Stat. 856; Pub. L. 96–249, title I, §§130–132(a), 133, May 26, 1980, 94 Stat. 367, 368; Pub. L. 97–98, title XIII, §§1328–1330, Dec. 22, 1981, 95 Stat. 1289, 1290; Pub. L. 97–253, title I, §§152(c), 181, 182, 190(d), Sept. 8, 1982, 96 Stat. 776, 784, 785, 787; Pub. L. 99–114, §4, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §2, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §2, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1540, Dec. 23, 1985, 99 Stat. 1588; Pub. L. 100–435, title V, §§504, 505, Sept. 19, 1988, 102 Stat. 1673; Pub. L. 101–624, title XVII, §§1729(b), 1731, 1754–1759, Nov. 28, 1990, 104 Stat. 3790, 3798–3800, 3802; Pub. L. 102–237, title IX, §941(8), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13925, Aug. 10, 1993, 107 Stat. 675; Pub. L. 103–225, title II, §204, Mar. 25, 1994, 108 Stat. 109; Pub. L. 104–127, title IV, §401(c), (d), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(d), title VIII, §§815(b)(1), 850–852, 854(c)(2), Aug. 22, 1996, 110 Stat. 2169, 2317, 2336–2338, 2342; Pub. L. 105–18, title VII, \[(b)\], June 12, 1997, 111 Stat. 217; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(C), (f)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§4112(b)(4), 4116(b), 4122(b), 4123(a), May 13, 2002, 116 Stat. 313, 316, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), May 22, 2008, 122 Stat. 1092, 1094, 1108, 1117, 1141; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), June 18, 2008, 122 Stat. 1664, 1853, 1855, 1869, 1879, 1902.)
 
 #### References in Text
 
@@ -370,111 +370,111 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (a)(2). Pub. L. 110–246, §4115(b)(12)(A), substituted “benefit issuance” for “coupon issuance”.
+Subsec. (a)(2). Pub. L. 110–246, §4115(b)(12)(A), substituted "benefit issuance" for "coupon issuance".
 
-Pub. L. 110–246, §4002(a)(9)(A), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits” in two places.
+Pub. L. 110–246, §4002(a)(9)(A), substituted "supplemental nutrition assistance program benefits" for "food stamp benefits" in two places.
 
-Subsec. (b)(1)(A). Pub. L. 110–246, §4002(a)(9)(B)(i)(I), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Subsec. (b)(1)(A). Pub. L. 110–246, §4002(a)(9)(B)(i)(I), substituted "supplemental nutrition assistance program benefits" for "food stamp benefits".
 
-Pub. L. 110–246, §4001(b), substituted “efficiency of the supplemental nutrition assistance program” for “efficiency of the food stamp program”.
+Pub. L. 110–246, §4001(b), substituted "efficiency of the supplemental nutrition assistance program" for "efficiency of the food stamp program".
 
-Subsec. (b)(1)(B)(i)(I). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (b)(1)(B)(i)(I). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (b)(1)(B)(ii)(II). Pub. L. 110–246, §4002(a)(9)(B)(i)(II)(aa), substituted “supplemental nutrition assistance program recipients” for “food stamp recipients”.
+Subsec. (b)(1)(B)(ii)(II). Pub. L. 110–246, §4002(a)(9)(B)(i)(II)(aa), substituted "supplemental nutrition assistance program recipients" for "food stamp recipients".
 
-Subsec. (b)(1)(B)(iii)(I). Pub. L. 110–246, §4002(a)(9)(B)(i)(II)(bb), substituted “the number of households in the State receiving supplemental nutrition assistance program benefits” for “the State's food stamp households”.
+Subsec. (b)(1)(B)(iii)(I). Pub. L. 110–246, §4002(a)(9)(B)(i)(II)(bb), substituted "the number of households in the State receiving supplemental nutrition assistance program benefits" for "the State's food stamp households".
 
-Subsec. (b)(1)(B)(iv). Pub. L. 110–246, §4115(b)(12)(B)(i)(I), in subcl. (I) inserted “or otherwise providing benefits in a form not restricted to the purchase of food” after “the form of cash”, in subcl. (III)(aa) substituted “section 2012(n)” for “section 2012(i)”, and in subcl. (VII) substituted “section 2016(i)” for “section 2016(j)”.
+Subsec. (b)(1)(B)(iv). Pub. L. 110–246, §4115(b)(12)(B)(i)(I), in subcl. (I) inserted "or otherwise providing benefits in a form not restricted to the purchase of food" after "the form of cash", in subcl. (III)(aa) substituted "section 2012(n)" for "section 2012(i)", and in subcl. (VII) substituted "section 2016(i)" for "section 2016(j)".
 
-Subsec. (b)(1)(B)(iv)(IV)(bb). Pub. L. 110–246, §4002(a)(9)(B)(i)(II)(cc), substituted “supplemental nutrition assistance program deductions” for “food stamp deductions”.
+Subsec. (b)(1)(B)(iv)(IV)(bb). Pub. L. 110–246, §4002(a)(9)(B)(i)(II)(cc), substituted "supplemental nutrition assistance program deductions" for "food stamp deductions".
 
-Subsec. (b)(1)(B)(v). Pub. L. 110–246, §4115(b)(12)(B)(i)(II), struck out “countersigned food coupons or similar” before “identification mechanisms” and substituted “EBT cards” for “food coupons”.
+Subsec. (b)(1)(B)(v). Pub. L. 110–246, §4115(b)(12)(B)(i)(II), struck out "countersigned food coupons or similar" before "identification mechanisms" and substituted "EBT cards" for "food coupons".
 
-Subsec. (b)(1)(B)(vi). Pub. L. 110–246, §4406(a)(5), substituted “Subject to the availability of appropriations under section 2027(a) of this title, any pilot” for “Any pilot” and struck out “through October 1, 2007,” after “shall be continued”.
+Subsec. (b)(1)(B)(vi). Pub. L. 110–246, §4406(a)(5), substituted "Subject to the availability of appropriations under section 2027(a) of this title, any pilot" for "Any pilot" and struck out "through October 1, 2007," after "shall be continued".
 
-Subsec. (b)(1)(C)(i)(I). Pub. L. 110–246, §4115(b)(12)(B)(ii), substituted “EBT cards” for “coupons”.
+Subsec. (b)(1)(C)(i)(I). Pub. L. 110–246, §4115(b)(12)(B)(ii), substituted "EBT cards" for "coupons".
 
-Subsec. (b)(2). Pub. L. 110–246, §4002(a)(9)(B)(ii), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Subsec. (b)(2). Pub. L. 110–246, §4002(a)(9)(B)(ii), substituted "supplemental nutrition assistance program benefits" for "food stamp benefits".
 
-Pub. L. 110–246, §4001(b), substituted “participate in the supplemental nutrition assistance program” for “participate in the food stamp program”.
+Pub. L. 110–246, §4001(b), substituted "participate in the supplemental nutrition assistance program" for "participate in the food stamp program".
 
-Subsec. (b)(3)(A). Pub. L. 110–246, §4002(a)(9)(B)(iii)(I), substituted “supplemental nutrition assistance program employment” for “food stamp employment”.
+Subsec. (b)(3)(A). Pub. L. 110–246, §4002(a)(9)(B)(iii)(I), substituted "supplemental nutrition assistance program employment" for "food stamp employment".
 
-Subsec. (b)(3)(B). Pub. L. 110–246, §4002(a)(9)(B)(iii)(II), substituted “supplemental nutrition assistance program recipients” for “food stamp recipients”.
+Subsec. (b)(3)(B). Pub. L. 110–246, §4002(a)(9)(B)(iii)(II), substituted "supplemental nutrition assistance program recipients" for "food stamp recipients".
 
-Subsec. (b)(3)(C). Pub. L. 110–246, §4002(a)(9)(B)(iii)(III), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+Subsec. (b)(3)(C). Pub. L. 110–246, §4002(a)(9)(B)(iii)(III), substituted "supplemental nutrition assistance program benefits" for "food stamps".
 
-Subsec. (b)(3)(D). Pub. L. 110–246, §4002(a)(9)(B)(iii)(IV), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Subsec. (b)(3)(D). Pub. L. 110–246, §4002(a)(9)(B)(iii)(IV), substituted "supplemental nutrition assistance program benefits" for "food stamp benefits".
 
-Subsec. (c). Pub. L. 110–246, §4002(a)(9)(C), substituted “eligible for supplemental nutrition assistance” for “eligible for food stamps”.
+Subsec. (c). Pub. L. 110–246, §4002(a)(9)(C), substituted "eligible for supplemental nutrition assistance" for "eligible for food stamps".
 
-Pub. L. 110–246, §4001(b), substituted “effectiveness of the supplemental nutrition assistance program” for “effectiveness of the food stamp program”.
+Pub. L. 110–246, §4001(b), substituted "effectiveness of the supplemental nutrition assistance program" for "effectiveness of the food stamp program".
 
-Subsec. (d)(1)(B). Pub. L. 110–246, §4002(a)(9)(D)(i), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Subsec. (d)(1)(B). Pub. L. 110–246, §4002(a)(9)(D)(i), substituted "supplemental nutrition assistance program benefits" for "food stamp benefits".
 
-Subsec. (d)(2)(A). Pub. L. 110–246, §4002(a)(9)(D)(ii)(I), substituted “allotments” for “food stamp allotments” in two places.
+Subsec. (d)(2)(A). Pub. L. 110–246, §4002(a)(9)(D)(ii)(I), substituted "allotments" for "food stamp allotments" in two places.
 
-Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (d)(2)(C). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in introductory provisions.
+Subsec. (d)(2)(C). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program" in introductory provisions.
 
-Subsec. (d)(2)(C)(ii). Pub. L. 110–246, §4002(a)(9)(D)(ii)(II), substituted “supplemental nutrition assistance program benefits” for “food stamp benefit”.
+Subsec. (d)(2)(C)(ii). Pub. L. 110–246, §4002(a)(9)(D)(ii)(II), substituted "supplemental nutrition assistance program benefits" for "food stamp benefit".
 
-Subsec. (d)(3)(E). Pub. L. 110–246, §4002(a)(9)(D)(iii), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Subsec. (d)(3)(E). Pub. L. 110–246, §4002(a)(9)(D)(iii), substituted "supplemental nutrition assistance program benefits" for "food stamp benefits".
 
-Subsec. (e). Pub. L. 110–246, §4002(a)(9)(E), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Subsec. (e). Pub. L. 110–246, §4002(a)(9)(E), substituted "supplemental nutrition assistance program benefits" for "food stamp benefits".
 
-Pub. L. 110–246, §4001(b), substituted “affect the supplemental nutrition assistance program” for “affect the food stamp program”.
+Pub. L. 110–246, §4001(b), substituted "affect the supplemental nutrition assistance program" for "affect the food stamp program".
 
-Subsec. (f). Pub. L. 110–246, §4115(b)(12)(C), substituted “section 2016(f)(2)” for “section 2016(g)(2)”.
+Subsec. (f). Pub. L. 110–246, §4115(b)(12)(C), substituted "section 2016(f)(2)" for "section 2016(g)(2)".
 
-Pub. L. 110–246, §4002(a)(9)(E), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Pub. L. 110–246, §4002(a)(9)(E), substituted "supplemental nutrition assistance program benefits" for "food stamp benefits".
 
-Subsec. (g). Pub. L. 110–246, §4002(a)(9)(F), substituted “receipt of supplemental nutrition assistance program and other transfer payments” for “receipt of food stamp and other transfer payments” in introductory provisions.
+Subsec. (g). Pub. L. 110–246, §4002(a)(9)(F), substituted "receipt of supplemental nutrition assistance program and other transfer payments" for "receipt of food stamp and other transfer payments" in introductory provisions.
 
-Pub. L. 110–246, §4001(b), substituted “from the supplemental nutrition assistance program” for “from the food stamp program” in introductory provisions.
+Pub. L. 110–246, §4001(b), substituted "from the supplemental nutrition assistance program" for "from the food stamp program" in introductory provisions.
 
-Subsec. (h)(2). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (h)(2). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (j). Pub. L. 110–246, §4115(b)(12)(D), substituted “benefit trafficking” for “coupon trafficking”.
+Subsec. (j). Pub. L. 110–246, §4115(b)(12)(D), substituted "benefit trafficking" for "coupon trafficking".
 
-Pub. L. 110–246, §4002(a)(9)(G), substituted “supplemental nutrition assistance program agencies” for “food stamp agencies”.
+Pub. L. 110–246, §4002(a)(9)(G), substituted "supplemental nutrition assistance program agencies" for "food stamp agencies".
 
 Subsec. (k). Pub. L. 110–246, §4141, added subsec. (k).
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §4123(a), substituted “enter into contracts with or make grants to public or private organizations or agencies under this section to” for “, by way of making contracts with or grants to public or private organizations or agencies,” and inserted at end “The waiver authority of the Secretary under subsection (b) of this section shall extend to all contracts and grants under this section.”
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §4123(a), substituted "enter into contracts with or make grants to public or private organizations or agencies under this section to" for ", by way of making contracts with or grants to public or private organizations or agencies,"and inserted at end "The waiver authority of the Secretary under subsection (b) of this section shall extend to all contracts and grants under this section."
 
-Subsec. (b)(1)(B)(iv)(III)(aa). Pub. L. 107–171, §4112(b)(4), substituted “paragraphs (4) and (5) of section 2012(i) of this title” for “the last 2 sentences of section 2012(i) of this title”.
+Subsec. (b)(1)(B)(iv)(III)(aa). Pub. L. 107–171, §4112(b)(4), substituted "paragraphs (4) and (5) of section 2012(i) of this title" for "the last 2 sentences of section 2012(i) of this title".
 
-Subsec. (b)(1)(B)(vi). Pub. L. 107–171, §4122(b), substituted “2007” for “2002”.
+Subsec. (b)(1)(B)(vi). Pub. L. 107–171, §4122(b), substituted "2007" for "2002".
 
 Subsecs. (i) to (k). Pub. L. 107–171, §4116(b), redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to grants to improve food stamp participation.
 
-<b>1998</b>—Subsec. (b)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(2)(C)\], in second sentence, struck out “the Job Training Partnership Act or” before “title I of the Workforce”.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(2)(C)\], in second sentence, struck out "the Job Training Partnership Act or" before "title I of the Workforce".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(2)(C)\], in second sentence, substituted “to accept an offer of employment from a political subdivision or provider pursuant to a program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” for “to accept an offer of employment from a political subdivision or a prime sponsor pursuant to the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 812),” and substituted “, if all of the jobs supported under the program have been made available to participants in the program before the political subdivision or provider providing the jobs extends an offer of employment under this paragraph, and if the political subdivision or provider, in employing the person, complies with the requirements of Federal law that relate to the program.” for “: <i>Provided</i>, That all of the political subdivision's or prime sponsor's public service jobs supported under the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 812), are filled before such subdivision or sponsor can extend a job offer pursuant to this paragraph: <i>Provided further</i>, That the sponsor of each such project shall provide the assurances required of prime sponsors under section 205(c)(7), (8), (15), (19), and (24) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 845(c)), and the Secretary shall require such sponsors to comply with the conditions contained in sections 208(a)(1), (4), and (5) and (c) and 703(4) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 848(a) and (c) and 983).”
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(2)(C)\], in second sentence, substituted "to accept an offer of employment from a political subdivision or provider pursuant to a program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998," for "to accept an offer of employment from a political subdivision or a prime sponsor pursuant to the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 812)," and substituted ", if all of the jobs supported under the program have been made available to participants in the program before the political subdivision or provider providing the jobs extends an offer of employment under this paragraph, and if the political subdivision or provider, in employing the person, complies with the requirements of Federal law that relate to the program." for ": <i>Provided</i>, That all of the political subdivision's or prime sponsor's public service jobs supported under the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 812), are filled before such subdivision or sponsor can extend a job offer pursuant to this paragraph: <i>Provided further</i>, That the sponsor of each such project shall provide the assurances required of prime sponsors under section 205(c)(7), (8), (15), (19), and (24) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 845(c)), and the Secretary shall require such sponsors to comply with the conditions contained in sections 208(a)(1), (4), and (5) and (c) and 703(4) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 848(a) and (c) and 983)."
 
 <b>1997</b>—Subsec. (b)(1)(B)(iv)(VII). Pub. L. 105–18 added subcl. (VII).
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–193, §§850, 851, in first sentence, substituted “benefits to eligible households, and may waive any requirement of this chapter to the extent necessary for the project to be conducted.” along with subpar. (B) heading, cls. (i) to (iv), cl. (v) of subpar. (B) heading, and “A pilot or experimental project may include” for “benefits to eligible households, including”, in subpar. (B)(v), substituted “are receiving assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)” for “to aid to families with dependent children under part A of title IV of the Social Security Act”, substituted “coupons.” along with cl. (vi) of subpar. (B) heading and “Any pilot” for “coupons. The Secretary may waive the requirements of this chapter to the degree necessary for such projects to be conducted, except that no project, other than a project involving the payment of the average value of allotments by household size in the form of cash to eligible households or a project conducted under paragraph (3), shall be implemented which would lower or further restrict the income or resource standards or benefit levels provided pursuant to sections 2014 and 2017 of this title. Any pilot”, redesignated former subpar. (B) as (C), and added subpar. (D).
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–193, §§850, 851, in first sentence, substituted "benefits to eligible households, and may waive any requirement of this chapter to the extent necessary for the project to be conducted." along with subpar. (B) heading, cls. (i) to (iv), cl. (v) of subpar. (B) heading, and "A pilot or experimental project may include" for "benefits to eligible households, including", in subpar. (B)(v), substituted "are receiving assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)" for "to aid to families with dependent children under part A of title IV of the Social Security Act", substituted "coupons." along with cl. (vi) of subpar. (B) heading and "Any pilot" for "coupons. The Secretary may waive the requirements of this chapter to the degree necessary for such projects to be conducted, except that no project, other than a project involving the payment of the average value of allotments by household size in the form of cash to eligible households or a project conducted under paragraph (3), shall be implemented which would lower or further restrict the income or resource standards or benefit levels provided pursuant to sections 2014 and 2017 of this title. Any pilot", redesignated former subpar. (B) as (C), and added subpar. (D).
 
-Pub. L. 104–193, §109(d)(1), which directed substitution of “or are receiving assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)” for “to aid to families with dependent children under part A of title IV of the Social Security Act” in first sentence of subsec. (b)(1)(A), effective July 1, 1997, could not be executed because of amendment by Pub. L. 104–193 which redesignated portions of subsec. (b)(1)(A) and struck out the language sought to be amended. See above.
+Pub. L. 104–193, §109(d)(1), which directed substitution of "or are receiving assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)" for "to aid to families with dependent children under part A of title IV of the Social Security Act" in first sentence of subsec. (b)(1)(A), effective July 1, 1997, could not be executed because of amendment by Pub. L. 104–193 which redesignated portions of subsec. (b)(1)(A) and struck out the language sought to be amended. See above.
 
-Pub. L. 104–127, §401(c), substituted “October 1, 2002” for “October 1, 1995” in last sentence of par. (1)(A).
+Pub. L. 104–127, §401(c), substituted "October 1, 2002" for "October 1, 1995" in last sentence of par. (1)(A).
 
-Subsec. (b)(2). Pub. L. 104–193, §815(b)(1), substituted “section 2015(d)(1)(A)(i)” for “section 2015(d)(1)(i)” in second sentence.
+Subsec. (b)(2). Pub. L. 104–193, §815(b)(1), substituted "section 2015(d)(1)(A)(i)" for "section 2015(d)(1)(i)" in second sentence.
 
 Subsec. (b)(3)(I). Pub. L. 104–193, §109(d)(2), added subpar. (I).
 
-Subsec. (d). Pub. L. 104–193, §852, added subsec. (d) and struck out former subsec. (d) which authorized pilot projects for employment of applicants and recipients, defined “qualification period”, and provided for exceptions, waiver of requirements, and reestablishment of eligibility.
+Subsec. (d). Pub. L. 104–193, §852, added subsec. (d) and struck out former subsec. (d) which authorized pilot projects for employment of applicants and recipients, defined "qualification period", and provided for exceptions, waiver of requirements, and reestablishment of eligibility.
 
 Subsec. (i). Pub. L. 104–193, §854(c)(2), redesignated subsec. (j) as (i) and struck out former subsec. (i) which authorized four demonstration projects, in both urban and rural areas, under which households in which each member received benefits under State plan approved under part A of title IV of Social Security Act would be issued monthly allotments following rules and procedures of programs under part A of title IV of Social Security Act, and without regard to eligibility, benefit, and administrative rules established under this chapter.
 
 Subsec. (j). Pub. L. 104–193, §854(c)(2), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-Subsec. (j)(1)(A). Pub. L. 104–127, §401(d), substituted “2002” for “1995”.
+Subsec. (j)(1)(A). Pub. L. 104–127, §401(d), substituted "2002" for "1995".
 
 Subsecs. (k), (l). Pub. L. 104–193, §854(c)(2)(B), redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
 
@@ -482,15 +482,15 @@ Subsecs. (k), (l). Pub. L. 104–193, §854(c)(2)(B), redesignated subsec. (l) a
 
 <b>1993</b>—Subsec. (k). Pub. L. 103–66 added subsec. (k).
 
-<b>1991</b>—Subsec. (b)(3)(C). Pub. L. 102–237 inserted a closing parenthesis after “402(g)(1)(A)”.
+<b>1991</b>—Subsec. (b)(3)(C). Pub. L. 102–237 inserted a closing parenthesis after "402(g)(1)(A)".
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–624, §1731, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(1). Pub. L. 101–624, §1756(1), inserted “or a project conducted under paragraph (3)” after “eligible households” in second sentence of subpar. (A).
+Subsec. (b)(1). Pub. L. 101–624, §1756(1), inserted "or a project conducted under paragraph (3)" after "eligible households" in second sentence of subpar. (A).
 
 Pub. L. 101–624, §1755, designated existing provisions as subpar. (A) and added subpar. (B).
 
-Pub. L. 101–624, §1754, substituted “1995” for “1990”.
+Pub. L. 101–624, §1754, substituted "1995" for "1990".
 
 Subsec. (b)(3). Pub. L. 101–624, §1756(2), added par. (3).
 
@@ -506,17 +506,17 @@ Subsec. (j). Pub. L. 101–624, §1759, added subsec. (j).
 
 Subsec. (g). Pub. L. 100–435, §505, added subsec. (g).
 
-<b>1985</b>—Subsec. (b)(1). Pub. L. 99–198, §1540(a), substituted “October 1, 1990” for “December 31, 1985”.
+<b>1985</b>—Subsec. (b)(1). Pub. L. 99–198, §1540(a), substituted "October 1, 1990" for "December 31, 1985".
 
-Pub. L. 99–182 substituted “December 31, 1985” for “December 13, 1985”.
+Pub. L. 99–182 substituted "December 31, 1985" for "December 13, 1985".
 
-Pub. L. 99–157 substituted “December 13, 1985” for “November 15, 1985”.
+Pub. L. 99–157 substituted "December 13, 1985" for "November 15, 1985".
 
-Pub. L. 99–114 substituted “through November 15, 1985” for “until October 1, 1985”.
+Pub. L. 99–114 substituted "through November 15, 1985" for "until October 1, 1985".
 
 Subsecs. (d) to (f). Pub. L. 99–198, §1540(b), (c), struck out subsec. (d) which had authorized the Secretary to conduct statewide pilot projects respecting the processing of applications for certain recipients, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-<b>1982</b>—Subsec. (d). Pub. L. 97–253, §§152(c), 190(d), redesignated subsec. (f) as (d), and struck out former subsec. (d), which provided that notwithstanding any other provision of law, the Secretary has required, in consultation with the Secretary of the Treasury, to conduct a study, through the use of Federal income tax data, of the feasibility, alternative methods of implementation, and the effects of a program to recover food stamp benefits from members of eligible households in which the adjusted gross income of members of such households for a calendar year (as defined by the Internal Revenue Code of 1954) exceeded twice the income poverty guidelines set forth in section 2014(c) of this title, and that such study had to be conducted in rural and urban areas only on a voluntary basis by food stamp recipients, and that the Secretary was required, no later than twelve months and eighteen months from September 29, 1977, to report the results of the study to the Committees on Agriculture and Ways and Means of the House of Representatives and to the Committees on Agriculture, Nutrition, and Forestry and Finance of the Senate, together with such recommendations as the Secretary deemed appropriate.
+<b>1982</b>—Subsec. (d). Pub. L. 97–253, §§152(c), 190(d), redesignated subsec. (f) as (d), and struck out former subsec. (d), which provided that notwithstanding any other provision of law, the Secretary has required, in consultation with the Secretary of the Treasury, to conduct a study, through the use of Federal income tax data, of the feasibility, alternative methods of implementation, and the effects of a program to recover food stamp benefits from members of eligible households in which the adjusted gross income of members of suchhouseholds for a calendar year (as defined by the Internal Revenue Code of 1954) exceeded twice the income poverty guidelines set forth in section 2014(c) of this title, and that such study had to be conducted in rural and urban areas only on a voluntary basis by food stamp recipients, and that the Secretary was required, no later than twelve months and eighteen months from September 29, 1977, to report the results of the study to the Committees on Agriculture and Ways and Means of the House of Representatives and to the Committees on Agriculture, Nutrition, and Forestry and Finance of the Senate, together with such recommendations as the Secretary deemed appropriate.
 
 Subsec. (e). Pub. L. 97–253, §§152(c), 190(d), redesignated subsec. (g) as (e) and struck out former subsec. (e) which provided for a study of the Consumer Price Index and other alternative consumer price or cost-of-living indices.
 
@@ -524,7 +524,7 @@ Subsec. (f). Pub. L. 97–253, §190(d), redesignated subsec. (h) as (f). Former
 
 Subsecs. (g), (h). Pub. L. 97–253, §§181, 182, 190(d), added subsecs. (g) and (h) and redesignated them as (e) and (f), respectively.
 
-<b>1981</b>—Subsec. (b)(1). Pub. L. 97–98, §1328, substituted “may conduct” for “is authorized to conduct”, “age sixty-five or over and any of whose members are entitled to supplemental security income benefits under title XVI of the Social Security Act or to aid to families with dependent children under part A of title IV of the Social Security Act” for “either age sixty-five or over or entitled to supplemental security income benefits under title XVI of the Social Security Act”, and “October 1, 1985” for “October 1, 1981” and inserted “or the average value of allotments by household size” after “value of allotments”, “, other than a project involving the payment of the average value of allotments by household size in the form of cash to eligible households,” after “no project”, “and operating as of October 1, 1981,” after “under this paragraph” and “all of whose members are either age sixty-five or over or entitled to supplemental security income benefits under title XVI of the Social Security Act” before “shall be continued”.
+<b>1981</b>—Subsec. (b)(1). Pub. L. 97–98, §1328, substituted "may conduct" for "is authorized to conduct", "age sixty-five or over and any of whose members are entitled to supplemental security income benefits under title XVI of the Social Security Act or to aid to families with dependent children under part A of title IV of the Social Security Act" for "either age sixty-five or over or entitled to supplemental security income benefits under title XVI of the Social Security Act", and "October 1, 1985" for "October 1, 1981" and inserted "or the average value of allotments by household size" after "value of allotments", ", other than a project involving the payment of the average value of allotments by household size in the form of cash to eligible households," after "no project", "and operating as of October 1, 1981," after "under this paragraph" and "all of whose members are either age sixty-five or over or entitled to supplemental security income benefits under title XVI of the Social Security Act" before "shall be continued".
 
 Subsec. (c). Pub. L. 97–98, §1329, inserted provision authorizing the Secretary to implement pilot programs to test various means of measuring on a continual basis the nutritional status of low income people in order to develop minimum common criteria and methods for systematic nutrition monitoring that could be applied on a nationwide basis and directing the Secretary to report on the progress of these pilot programs on an annual basis commencing on July 1, 1982, to designated Congressional committees.
 
@@ -532,7 +532,7 @@ Subsec. (f). Pub. L. 97–98, §1330, added subsec. (f).
 
 <b>1980</b>—Subsec. (b)(1). Pub. L. 96–249, §130, inserted provisions requiring that any pilot or experimental project implemented under this paragraph involving the payment of the value of allotments in the form of cash to eligible households be continued until October 1, 1981, if the State so requests.
 
-Subsec. (b)(2). Pub. L. 96–249, §§131, 132(a), inserted “(ten days in at least one pilot project area designated by the Secretary)” after “thirty days” and substituted “interim reports no later than October 1, 1979, October 1, 1980, and March 30, 1981, shall issue a final report describing the results of such pilot project based upon their operation from their commencement through the fiscal year ending September 30, 1981, and shall pay to the agencies or organizations operating such pilot projects 50 per centum of all administrative costs involved in such operation” for “an interim report no later than October 1, 1979, and shall issue a final report describing the results of such pilot projects no later than October 1, 1980”.
+Subsec. (b)(2). Pub. L. 96–249, §§131, 132(a), inserted "(ten days in at least one pilot project area designated by the Secretary)" after "thirty days" and substituted "interim reports no later than October 1, 1979, October 1, 1980, and March 30, 1981, shall issue a final report describing the results of such pilot project based upon their operation from their commencement through the fiscal year ending September 30, 1981, and shall pay to the agencies or organizations operating such pilot projects 50 per centum of all administrative costs involved in such operation" for "an interim report no later than October 1, 1979, and shall issue a final report describing the results of such pilot projects no later than October 1, 1980".
 
 Subsec. (e). Pub. L. 96–249, §133, added subsec. (e).
 
@@ -548,7 +548,7 @@ Amendment by sections 4001(b), 4002(a)(9), 4115(b)(12), 4141, and 4406(a)(5) of 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–171, title IV, §4123(b), May 13, 2002, 116 Stat. 324, provided that: “The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[May 13, 2002\].”
+Pub. L. 107–171, title IV, §4123(b), May 13, 2002, 116 Stat. 324, provided that: "The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[May 13, 2002\]."
 
 Amendment by sections 4112(b)(4), 4116(b), and 4122(b) of Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
 
@@ -588,7 +588,7 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–249, title I, §132(b), May 26, 1980, 94 Stat. 368, provided that: “The provisions of section 17(b)(2) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2026(b)(2)\] for the sharing of administrative costs, as added by subsection (a) of this section, shall be effective on the date of enactment of this Act \[May 26, 1980\].”
+Pub. L. 96–249, title I, §132(b), May 26, 1980, 94 Stat. 368, provided that: "The provisions of section 17(b)(2) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2026(b)(2)\] for the sharing of administrative costs, as added by subsection (a) of this section, shall be effective on the date of enactment of this Act \[May 26, 1980\]."
 
 #### Effective Date of 1977 Amendment
 
@@ -604,9 +604,9 @@ Pub. L. 104–193, title VIII, §855, Aug. 22, 1996, 110 Stat. 2342, directed th
 
 #### Demonstration Projects for Vehicle Exclusion Limit
 
-Pub. L. 102–237, title IX, §912, Dec. 13, 1991, 105 Stat. 1887, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(NN), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(NN), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that: “The Secretary of Agriculture shall solicit requests to participate in the demonstration projects required by section 17(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2026(h)) by May 1, 1992. The projects shall commence operations no later than January 1, 1993.”
+Pub. L. 102–237, title IX, §912, Dec. 13, 1991, 105 Stat. 1887, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(NN), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(NN), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that: "The Secretary of Agriculture shall solicit requests to participate in the demonstration projects required by section 17(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2026(h)) by May 1, 1992. The projects shall commence operations no later than January 1, 1993."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “farmers’ ”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "farmers' ".</i>
 

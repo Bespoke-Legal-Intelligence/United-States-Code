@@ -6,9 +6,9 @@ It shall be the duty of every carrier subject to this chapter to designate in wr
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–414 struck out “, within sixty days after the taking effect of this chapter,” after “every carrier subject to this chapter”.
+<b>1994</b>—Pub. L. 103–414 struck out ", within sixty days after the taking effect of this chapter," after "every carrier subject to this chapter".
 

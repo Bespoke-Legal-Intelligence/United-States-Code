@@ -44,7 +44,7 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(D) increase the involvement of individuals with disabilities and, if appropriate, their family members, guardians, advocates, and authorized representatives, in decisions related to the provision of assistive technology devices and assistive technology services;
 
-&emsp;&emsp;(E) increase and promote coordination among State agencies, between State andlocal agencies, among local agencies, and between State and local agencies and private entities (such as managed care providers), that are involved or are eligible to be involved in carrying out activities under this chapter;
+&emsp;&emsp;(E) increase and promote coordination among State agencies, between State and local agencies, among local agencies, and between State and local agencies and private entities (such as managed care providers), that are involved or are eligible to be involved in carrying out activities under this chapter;
 
 &emsp;&emsp;(F) increase the awareness and facilitate the change of laws, regulations, policies, practices, procedures, and organizational structures, that facilitate the availability or provision of assistive technology devices and assistive technology services; and
 
@@ -56,7 +56,7 @@ The purposes of this chapter are—
 
 #### References in Text
 
-The Help America Vote Act of 2002, referred to in subsec. (a)(8), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to chapter 146 (§15301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of Title 42 and Tables.
+The Help America Vote Act of 2002, referred to in subsec. (a)(8), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666,which is classified principally to chapter 146 (§15301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of Title 42 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(8), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
@@ -68,9 +68,9 @@ The No Child Left Behind Act of 2001, referred to in subsec. (a)(8), is Pub. L. 
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–364, §1, Oct. 25, 2004, 118 Stat. 1707, provided that: “This Act \[enacting sections 3003 to 3007 of this title, amending this section, sections 763, 781, 792, and 3002 of this title, and sections 15024, 15025, 15043, and 15064 of Title 42, The Public Health and Welfare, omitting sections 3011 to 3015, 3031 to 3037, and 3051 to 3058 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Assistive Technology Act of 2004’.”
+Pub. L. 108–364, §1, Oct. 25, 2004, 118 Stat. 1707, provided that: "This Act \[enacting sections 3003 to 3007 of this title, amending this section, sections 763, 781, 792, and 3002 of this title, and sections 15024, 15025, 15043, and 15064 of Title 42, The Public Health and Welfare, omitting sections 3011 to 3015, 3031 to 3037, and 3051 to 3058 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Assistive Technology Act of 2004'."
 
 #### Short Title
 
-Pub. L. 105–394, §1(a), Nov. 13, 1998, 112 Stat. 3627, as amended by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Assistive Technology Act of 1998’.”
+Pub. L. 105–394, §1(a), Nov. 13, 1998, 112 Stat. 3627, as amended by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707, provided that: "This Act \[enacting this chapter\] may be cited as the 'Assistive Technology Act of 1998'."
 

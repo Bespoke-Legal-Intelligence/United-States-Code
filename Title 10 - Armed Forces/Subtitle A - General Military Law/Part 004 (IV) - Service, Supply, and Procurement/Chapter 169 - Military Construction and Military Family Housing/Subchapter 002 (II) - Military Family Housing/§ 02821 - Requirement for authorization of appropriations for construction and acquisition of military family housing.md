@@ -20,7 +20,7 @@
 
 #### Amendments
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted “such subsection” for “such paragraph”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted "such subsection" for "such paragraph".
 
 Subsec. (d). Pub. L. 99–167 added subsec. (d).
 
@@ -30,9 +30,11 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Repair and Maintenance of Family Housing Units
 
-Pub. L. 112–74, div. H, title I, §121, Dec. 23, 2011, 125 Stat. 1144, provided that: “Notwithstanding any other provision of law, funds made available in this title \[see Tables for classification\] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: <i>Provided</i>, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: <i>Provided further,</i> That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year.”
+Pub. L. 113–6, div. E, title I, §121, Mar. 26, 2013, 127 Stat. 391, provided that: "Notwithstanding any other provision of law, funds made available in this title \[see Tables for classification\] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: <i>Provided</i>, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: <i>Provided further</i>, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 112–74, div. H, title I, §121, Dec. 23, 2011, 125 Stat. 1144.
 
 Pub. L. 111–117, div. E, title I, §123, Dec. 16, 2009, 123 Stat. 3295.
 

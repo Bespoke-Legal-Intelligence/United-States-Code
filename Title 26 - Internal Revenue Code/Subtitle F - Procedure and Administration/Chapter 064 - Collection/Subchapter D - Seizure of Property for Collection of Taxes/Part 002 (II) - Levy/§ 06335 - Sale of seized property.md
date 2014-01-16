@@ -62,7 +62,7 @@ The time of sale shall not be less than 10 days nor more than 40 days from the t
 
 #### (3) Payment of amount bid
 
-&emsp;If payment in full is required at the time of acceptance of a bid and is not then and there paid, the Secretary shall forthwith proceed to again sell the property in the manner provided in this subsection. If the conditions of the sale permit part of the payment to be deferred, and if such part is not paid within the prescribed period, suit may be instituted against the purchaser for the purchase price or such partthereof as has not been paid, together with interest at the rate of 6 percent per annum from the date of the sale; or, in the discretion of the Secretary, the sale may be declared by the Secretary to be null and void for failure to make full payment of the purchase price and the property may again be advertised and sold as provided in subsections (b) and (c) and this subsection. In the event of such readvertisement and sale any new purchaser shall receive such property or rights to property, free and clear of any claim or right of the former defaulting purchaser, of any nature whatsoever, and the amount paid upon the bid price by such defaulting purchaser shall be forfeited.
+&emsp;If payment in full is required at the time of acceptance of a bid and is not then and there paid, the Secretary shall forthwith proceed to again sell the property in the manner provided in this subsection. If the conditions of the sale permit part of the payment to be deferred, and if such part is not paid within the prescribed period, suit may be instituted against the purchaser for the purchase price or such part thereof as has not been paid, together with interest at the rate of 6 percent per annum from the date of the sale; or, in the discretion of the Secretary, the sale may be declared by the Secretary to be null and void for failure to make full payment of the purchase price and the property may again be advertised and sold as provided in subsections (b) and (c) and this subsection. In the event of such readvertisement and sale any new purchaser shall receive such property or rights to property, free and clear of any claim or right of the former defaulting purchaser, of any nature whatsoever, and the amount paid upon the bid price by such defaulting purchaser shall be forfeited.
 
 #### (4) Cross reference
 
@@ -80,21 +80,21 @@ The owner of any property seized by levy may request that the Secretary sell suc
 
 #### Amendments
 
-<b>1998</b>—Subsec. (e)(1)(A)(i). Pub. L. 105–206, §3441(a), substituted “a minimum price below which such property shall not be sold” for “a minimum price for which such property shall be sold”.
+<b>1998</b>—Subsec. (e)(1)(A)(i). Pub. L. 105–206, §3441(a), substituted "a minimum price below which such property shall not be sold" for "a minimum price for which such property shall be sold".
 
 Subsec. (e)(4). Pub. L. 105–206, §3441(b), added par. (4).
 
 <b>1988</b>—Subsecs. (f), (g). Pub. L. 100–647 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-<b>1986</b>—Subsec. (e)(1). Pub. L. 99–514 amended par. (1) generally. Prior to amendment, par. (1) “Minimum price” read as follows: “Before the sale the Secretary shall determine a minimum price for which the property shall be sold, and if no person offers for such property at the sale the amount of the minimum price, the property shall be declared to be purchased at such price for the United States; otherwise the property shall be declared to be sold to the highest bidder. In determining the minimum price, the Secretary shall take into account the expense of making the levy and sale.”
+<b>1986</b>—Subsec. (e)(1). Pub. L. 99–514 amended par. (1) generally. Prior to amendment, par. (1) "Minimum price" read as follows: "Before the sale the Secretary shall determine a minimum price for which the property shall be sold, and if no person offers for such property at the sale the amount of the minimum price, the property shall be declared to be purchased at such price for the United States; otherwise the property shall be declared to be sold to the highest bidder. In determining the minimum price, the Secretary shall take into account the expense of making the levy and sale."
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–719 inserted an alternative to the publication of notice of sale to allow publication in a newspaper generally circulated within the county in which the property is seized even though the newspaper is not published in such county.
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3441(c), July 22, 1998, 112 Stat. 761, provided that: “The amendments made by this section \[amending this section\] shall apply to sales made after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3441(c), July 22, 1998, 112 Stat. 761, provided that: "The amendments made bythis section \[amending this section\] shall apply to sales made after the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -102,11 +102,11 @@ Amendment by Pub. L. 100–647 applicable to requests made on or after Jan. 1, 1
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XV, §1570(b), Oct. 22, 1986, 100 Stat. 2765, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to—
+Pub. L. 99–514, title XV, §1570(b), Oct. 22, 1986, 100 Stat. 2765, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to—
 
-&emsp;“(1) property seized after the date of the enactment of this Act \[Oct. 22, 1986\], and
+&emsp;"(1) property seized after the date of the enactment of this Act \[Oct. 22, 1986\], and
 
-&emsp;“(2) property seized on or before such date which is held by the United States on such date.”
+&emsp;"(2) property seized on or before such date which is held by the United States on such date."
 
 #### Effective Date of 1966 Amendment
 
@@ -114,5 +114,5 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 #### Uniform Asset Disposal Mechanism
 
-Pub. L. 105–206, title III, §3443, July 22, 1998, 112 Stat. 762, provided that: “Not later than the date which is 2 years after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury or the Secretary's delegate shall implement a uniform asset disposal mechanism for sales under section 6335 of the Internal Revenue Code of 1986. The mechanism should be designed to remove any participation in such sales by revenue officers of the Internal Revenue Service and should consider the use of outsourcing.”
+Pub. L. 105–206, title III, §3443, July 22, 1998, 112 Stat. 762, provided that: "Not later than the date which is 2 years after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury or the Secretary's delegate shall implement a uniform asset disposal mechanism for sales under section 6335 of the Internal Revenue Code of 1986. The mechanism should be designed to remove any participation in such sales by revenue officers of the Internal Revenue Service and should consider the use of outsourcing."
 

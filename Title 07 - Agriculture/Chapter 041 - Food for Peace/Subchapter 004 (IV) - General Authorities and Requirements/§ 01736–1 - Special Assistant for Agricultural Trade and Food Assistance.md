@@ -2,7 +2,7 @@
 
 #### (a) Appointment by President
 
-The President shall appoint a Special Assistant to the President for Agricultural Trade and Food Assistance (hereinafter in this section referred to as the “Special Assistant”). The President shall appoint the initial Special Assistant not later than May 1, 1986.
+The President shall appoint a Special Assistant to the President for Agricultural Trade and Food Assistance (hereinafter in this section referred to as the "Special Assistant"). The President shall appoint the initial Special Assistant not later than May 1, 1986.
 
 #### (b) Service in Executive Office of President
 
@@ -16,7 +16,7 @@ The Special Assistant shall—
 
 &emsp;(2) be available to receive suggestions and complaints concerning the implementation of United States food aid and agricultural export programs anywhere in the United States Government and provide prompt responses thereto, including expediting the program implementation in any instances in which there is unreasonable delay;
 
-&emsp;(3) make recommendations to the President on means to coordinate and streamline the manner in which food assistance programs are carried out by the Department of Agricultureand the Agency for International Development, in order to improve their overall effectiveness;
+&emsp;(3) make recommendations to the President on means to coordinate and streamline the manner in which food assistance programs are carried out by the Department of Agriculture and the Agency for International Development, in order to improve their overall effectiveness;
 
 &emsp;(4) make recommendations to the President on measures to be taken to increase use of United States agricultural commodities and the products thereof through food assistance programs;
 
@@ -54,9 +54,9 @@ Another section 1113(d) of Pub. L. 99–198 amended section 5312 of Title 5, Gov
 
 <b>1990</b>—Subsec. (c)(9)(B), (C). Pub. L. 101–624 redesignated subpar. (C) as (B) and struck out former subpar. (B) which required that report contain identification of at least 15 target countries most likely to emerge as growth markets for commodities in next 5 to 10 years.
 
-<b>1986</b>—Pub. L. 99–260, §4(a)(1)(A), substituted “Food Assistance” for “Food Aid” in section catchline.
+<b>1986</b>—Pub. L. 99–260, §4(a)(1)(A), substituted "Food Assistance" for "Food Aid" in section catchline.
 
-Subsec. (a). Pub. L. 99–260, §4(a)(1)(B), (b), substituted “Food Assistance” for “Food Aid” and inserted provision that the President appoint the initial Special Assistant not later than May 1, 1986.
+Subsec. (a). Pub. L. 99–260, §4(a)(1)(B), (b), substituted "Food Assistance" for "Food Aid" and inserted provision that the President appoint the initial Special Assistant not later than May 1, 1986.
 
 Subsec. (d). Pub. L. 99–260, §4(d), amended subsec. (d) generally, substituting provision relating to compensation of the Special Assistant for provision relating to additional required functions of the Special Assistant.
 

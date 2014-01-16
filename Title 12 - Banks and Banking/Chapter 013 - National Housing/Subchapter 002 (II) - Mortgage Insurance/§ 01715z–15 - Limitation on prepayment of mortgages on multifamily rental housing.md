@@ -14,29 +14,29 @@ During any period in which an owner of a multifamily rental housing project is r
 
 A mortgagee may foreclose the mortgage on, or acquire by deed in lieu of foreclosure, any eligible low-income housing project (as such term is defined in section 4119 of this title) only if the mortgagee also conveys title to the project to the Secretary in connection with a claim for insurance benefits.
 
-#### (c) “Lower income families” defined
+#### (c) "Lower income families" defined
 
-For purposes of this section, the term “lower income families” has the meaning given such term in section 1437a(b)(2) of title 42.
+For purposes of this section, the term "lower income families" has the meaning given such term in section 1437a(b)(2) of title 42.
 
 (June 27, 1934, ch. 847, title II, §250, as added Pub. L. 98–181, title I \[title IV, §433\], Nov. 30, 1983, 97 Stat. 1221; amended Pub. L. 100–242, title II, §261, Feb. 5, 1988, 101 Stat. 1890; Pub. L. 101–235, title II, §202(d)(1), Dec. 15, 1989, 103 Stat. 2037; Pub. L. 101–625, title VI, §602(b), (c), Nov. 28, 1990, 104 Stat. 4277.)
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–625, §602(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In the case of a project assisted under section 1715z–1 of this title or the proviso to section 1715l(d)(5) of this title, section 101 of the Housing and Urban Development Act of 1965, or section 1701q of this title where the owner has the right to prepay the mortgage covering the assisted project without the Secretary's approval, the Secretary shall give a priority for additional assistance under section 1437f of title 42 and section 201 of the Housing and Community Development Amendments of 1978 to tenants and applicants to become tenants of the project, if—
+<b>1990</b>—Subsec. (b). Pub. L. 101–625, §602(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "In the case of a project assisted under section 1715z–1 of this title or the proviso to section 1715l(d)(5) of this title, section 101 of the Housing and Urban Development Act of 1965, or section 1701q of this title where the owner has the right to prepay the mortgage covering the assisted project without the Secretary's approval, the Secretary shall give a priority for additional assistance under section 1437f of title 42 and section 201 of the Housing and Community Development Amendments of 1978 to tenants and applicants to become tenants of the project, if—
 
-&emsp;“(1) funds to provide such additional assistance are available; and
+&emsp;"(1) funds to provide such additional assistance are available; and
 
-&emsp;“(2) the Secretary determines that making such additional assistance available to the project is necessary to prevent the owner from prepaying the mortgage.”
+&emsp;"(2) the Secretary determines that making such additional assistance available to the project is necessary to prevent the owner from prepaying the mortgage."
 
-Subsecs. (c), (d). Pub. L. 101–625, §602(c), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Any owner of a multifamily rental housing project referred to in subsection (b) of this section who receives additional assistance under section 1437f of title 42 under the priority established in subsection (b) of this section shall—
+Subsecs. (c), (d). Pub. L. 101–625, §602(c), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: "Any owner of a multifamily rental housing project referred to in subsection (b) of this section who receives additional assistance under section 1437f of title 42 under the priority established in subsection (b) of this section shall—
 
-&emsp;“(1) fully utilize the assistance which is available;
+&emsp;"(1) fully utilize the assistance which is available;
 
-&emsp;“(2) grant a priority to applicants to become tenants who have the lowest incomes; and
+&emsp;"(2) grant a priority to applicants to become tenants who have the lowest incomes; and
 
-&emsp;“(3) maintain the low-income character of the project for a period at least equal to the remaining term of the project mortgage to the extent that assistance is provided.”
+&emsp;"(3) maintain the low-income character of the project for a period at least equal to the remaining term of the project mortgage to the extent that assistance is provided."
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–235 inserted “or permit a termination of an insurance contract pursuant to section 1715t of this title” after second reference to “project”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–235 inserted "or permit a termination of an insurance contract pursuant to section 1715t of this title" after second reference to "project".
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242 struck out “or that the needs of lower income families in such project can more efficiently and effectively be met through other Federal housing assistance taking into account the remaining time the project could meet such needs” after “families in the area”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242 struck out "or that the needs of lower income families in such project can more efficiently and effectively be met through other Federal housing assistance taking into account the remaining time the project could meet such needs" after "families in the area".
 

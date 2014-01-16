@@ -4,11 +4,11 @@
 
 For purposes of this section the following terms shall have the following meanings:
 
-&emsp;(1) the term “The Agreement” or “Agreement” means the agreement entitled “Terms and Conditions Governing Legislative Land Consolidation and Exchange between NANA Regional Corporation, Inc., and the United States” executed by the Secretary of the Interior and the President of NANA Regional Corporation, Inc., on January 31 and January 24, 1985, respectively.
+&emsp;(1) the term "The Agreement" or "Agreement" means the agreement entitled "Terms and Conditions Governing Legislative Land Consolidation and Exchange between NANA Regional Corporation, Inc., and the United States" executed by the Secretary of the Interior and the President of NANA Regional Corporation, Inc., on January 31 and January 24, 1985, respectively.
 
-&emsp;(2) the term “transportation system” means the Red Dog Mine Transportation System described in Exhibit B of the Agreement.
+&emsp;(2) the term "transportation system" means the Red Dog Mine Transportation System described in Exhibit B of the Agreement.
 
-&emsp;(3) the term “NANA” means NANA Regional Corporation, Inc., a corporation formed for the Natives of Northwest Alaska pursuant to the provisions of this chapter.
+&emsp;(3) the term "NANA" means NANA Regional Corporation, Inc., a corporation formed for the Natives of Northwest Alaska pursuant to the provisions of this chapter.
 
 #### (b) Conveyances of lands and interests in lands
 
@@ -16,13 +16,13 @@ Except as otherwise provided by this section, the Secretary shall convey to NANA
 
 #### (c) Exchange limited to designated lands
 
-(1) The Secretary shall convey to NANA, pursuant to the provisions of paragraph A(1) of the Agreement, the right, title and interest of the United States only in and to those lands designated as “Amended A(1) Lands” on the map entitled “Modified Cape Krusenstern Land Exchange”, dated July 18, 1985. The charges to be made pursuant to paragraphs B(1) and D(27) of the Agreement against NANA's land entitlements under this chapter shall be reduced by an amount equivalent to the difference between that acreage conveyed pursuant to this subsection and the acreage that would have been conveyed to NANA pursuant to paragraph A(1) of the Agreement but for this subsection.
+(1) The Secretary shall convey to NANA, pursuant to the provisions of paragraph A(1) of the Agreement, the right, title and interest of the United States only in and to those lands designated as "Amended A(1) Lands" on the map entitled "Modified Cape Krusenstern Land Exchange", dated July 18, 1985. The charges to be made pursuant to paragraphs B(1) and D(27) of the Agreement against NANA's land entitlements under this chapter shall be reduced by an amount equivalent to the difference between that acreage conveyed pursuant to this subsection and the acreage that would have been conveyed to NANA pursuant to paragraph A(1) of the Agreement but for this subsection.
 
-(2) Notwithstanding the provisions of paragraph A(3) of the Agreement, the Secretary shallnot convey to NANA any right, title and interest of the United States in the lands described in such paragraph A(3) and the Secretary shall make no charge to NANA's remaining entitlements under this chapter with respect to such lands. Such lands shall be retained in Federal ownership but shall be subject to the easement described in Exhibit D to the Agreement as if the lands had been conveyed to NANA pursuant to paragraph A(3) of the Agreement.
+(2) Notwithstanding the provisions of paragraph A(3) of the Agreement, the Secretary shall not convey to NANA any right, title and interest of the United States in the lands described in such paragraph A(3) and the Secretary shall make no charge to NANA's remaining entitlements under this chapter with respect to such lands. Such lands shall be retained in Federal ownership but shall be subject to the easement described in Exhibit D to the Agreement as if the lands had been conveyed to NANA pursuant to paragraph A(3) of the Agreement.
 
 #### (d) Easement in and to transportation system lands
 
-(1) There is hereby granted to NANA an easement in and to the lands designated as “Transportation System Lands” on the map entitled “Modified Cape Krusenstern Land Exchange”, dated July 18, 1985, for use in the construction, operation, maintenance, expansion and reclamation of the transportation system. Use of the easement for such purposes shall be subject only to the terms and conditions governing the construction, operation, maintenance, expansion and reclamation of the transportation system, as set forth in Exhibit B to the Agreement.
+(1) There is hereby granted to NANA an easement in and to the lands designated as "Transportation System Lands" on the map entitled "Modified Cape Krusenstern Land Exchange", dated July 18, 1985, for use in the construction, operation, maintenance, expansion and reclamation of the transportation system. Use of the easement for such purposes shall be subject only to the terms and conditions governing the construction, operation, maintenance, expansion and reclamation of the transportation system, as set forth in Exhibit B to the Agreement.
 
 (2) The easement granted pursuant to this section shall be for a term of 100 years. The easement shall terminate prior to the 100-year term:
 
@@ -34,11 +34,11 @@ Except as otherwise provided by this section, the Secretary shall convey to NANA
 
 (3) Within 90 days after September 25, 1985, the Secretary shall execute the necessary documents evidencing the grant to NANA of the easement granted by this section.
 
-(4) Except as regards the trail easement described in Exhibit D to the Agreement (to which the “Transportation System Lands” shall be subject as if such lands had been conveyed to NANA pursuant to paragraph A(1) of the Agreement), access to the lands subject to the easement granted by this section shall be subject to such limitations, restrictions or conditions as may be imposed by NANA, its successors and assigns, but NANA and its successors and assigns shall permit representatives of the Secretary such access as the Secretary determines is necessary for the monitoring required by this section.
+(4) Except as regards the trail easement described in Exhibit D to the Agreement (to which the "Transportation System Lands" shall be subject as if such lands had been conveyed to NANA pursuant to paragraph A(1) of the Agreement), access to the lands subject to the easement granted by this section shall be subject to such limitations, restrictions or conditions as may be imposed by NANA, its successors and assigns, but NANA and its successors and assigns shall permit representatives of the Secretary such access as the Secretary determines is necessary for the monitoring required by this section.
 
 #### (e) Compliance with local laws
 
-The easement granted by this section makes available land for the transportation system, and is intended to be sufficient to permit NANA to comply with the laws of the State of Alaska which may be necessary to secure financing of the construction of the transportation system and the operation, maintenance or expansion thereof by the State of Alaska or by the Alaska Industrial Development Authority.
+The easement granted by this section makes available land for the transportation system, and is intended to be sufficient to permit NANA to comply with the laws of the State of Alaska which may be necessary to secure financing of the construction of the transportation systemand the operation, maintenance or expansion thereof by the State of Alaska or by the Alaska Industrial Development Authority.
 
 #### (f) Reconveyance of easement by NANA
 
@@ -56,7 +56,7 @@ NANA is hereby granted the right to use, develop and sell sand, gravel and relat
 
 #### (i) Use of construction materials from other sites
 
-The Secretary shall make available to NANA and its successors and assigns the right to use sand, gravel and related construction materials located in Sections 23, 24, 25, 26, 35 and 36 of Township 26 North, Range 24 West, Kateel River Meridian, Alaska, if the Secretary determines either (1) that use of such sand, gravel or related construction material is necessary because there is no other sand, gravel or related construction material reasonably available for the construction, operation, maintenance, expansion or reclamation of the transportation system; or (2) that use of such sand, gravel or related construction material is necessary in order to construct, operate, maintain, expand, or reclaim the transportation system in an environmentally sound manner, consistent with the requirements of Exhibit B of the Agreement. Theright to use such sand, gravel and related construction material shall be subject to the terms and conditions of paragraph A of Exhibit B of the Agreement and such other reasonable terms and conditions as the Secretary may prescribe.
+The Secretary shall make available to NANA and its successors and assigns the right to use sand, gravel and related construction materials located in Sections 23, 24, 25, 26, 35 and 36 of Township 26 North, Range 24 West, Kateel River Meridian, Alaska, if the Secretary determines either (1) that use of such sand, gravel or related construction material is necessary because there is no other sand, gravel or related construction material reasonably available for the construction, operation, maintenance, expansion or reclamation of the transportation system; or (2) that use of such sand, gravel or related construction material is necessary in order to construct, operate, maintain, expand, or reclaim the transportation system in an environmentally sound manner, consistent with the requirements of Exhibit B of the Agreement. The right to use such sand, gravel and related construction material shall be subject to the terms and conditions of paragraph A of Exhibit B of the Agreement and such other reasonable terms and conditions as the Secretary may prescribe.
 
 #### (j) Congressional consultation as prerequisite to amendment of Agreement
 
@@ -66,5 +66,5 @@ Notwithstanding paragraph D(23) of the Agreement, the Secretary shall not agree 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (j). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
+<b>1994</b>—Subsec. (j). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" before "of the House".
 

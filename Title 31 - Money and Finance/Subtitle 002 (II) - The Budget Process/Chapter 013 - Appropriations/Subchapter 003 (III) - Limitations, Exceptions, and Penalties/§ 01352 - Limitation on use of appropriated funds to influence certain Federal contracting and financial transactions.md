@@ -38,7 +38,7 @@
 
 (5) Any person who requests or receives from a person referred to in paragraph (1) of this subsection a subcontract under a Federal contract, a subgrant or contract under a Federal grant, a contract or subcontract to carry out any purpose for which a particular Federal loan is made, or a contract under a Federal cooperative agreement shall be required to file with the person referred to in such paragraph a written declaration referred to in clause (A) of such paragraph.
 
-(6) The Director of the Office of Management and Budget, after consulting with the Secretaryof the Senate and the Clerk of the House of Representatives, shall issue guidance for agency implementation of, and compliance with, the requirements of this section.
+(6) The Director of the Office of Management and Budget, after consulting with the Secretary of the Senate and the Clerk of the House of Representatives, shall issue guidance for agency implementation of, and compliance with, the requirements of this section.
 
 (c)(1) Any person who makes an expenditure prohibited by subsection (a) of this section shall be subject to a civil penalty of not less than $10,000 and not more than $100,000 for each such expenditure.
 
@@ -70,23 +70,23 @@
 
 (g) As used in this section:
 
-&emsp;(1) The term “recipient”, with respect to funds received in connection with a Federal contract, grant, loan, or cooperative agreement—
+&emsp;(1) The term "recipient", with respect to funds received in connection with a Federal contract, grant, loan, or cooperative agreement—
 
 &emsp;&emsp;(A) includes the contractors, subcontractors, or subgrantees (as the case may be) of the recipient; but
 
 &emsp;&emsp;(B) does not include an Indian tribe, tribal organization, or any other Indian organization eligible to receive Federal contracts, grants, cooperative agreements, or loans from an agency but only with respect to expenditures that are by such tribe or organization for purposes specified in subsection (a) and are permitted by other Federal law.
 
-&emsp;(2) The term “agency” has the same meaning provided for such term in section 552(f) of title 5, and includes a Government corporation, as defined in section 9101(1) of this title.
+&emsp;(2) The term "agency" has the same meaning provided for such term in section 552(f) of title 5, and includes a Government corporation, as defined in section 9101(1) of this title.
 
-&emsp;(3) The term “person”—
+&emsp;(3) The term "person"—
 
 &emsp;&emsp;(A) includes an individual, corporation, company, association, authority, firm, partnership, society, State, and local government, regardless of whether such entity is operated for profit or not for profit; but
 
 &emsp;&emsp;(B) does not include an Indian tribe, tribal organization, or any other Indian organization eligible to receive Federal contracts, grants, cooperative agreements, or loans from an agency but only with respect to expenditures by such tribe or organization that are made for purposes specified in subsection (a) and are permitted by other Federal law.
 
-&emsp;(4) The term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, a territory or possession of the United States, an agency or instrumentality of a State, and a multi-State,regional, or interstate entity having governmental duties and powers.
+&emsp;(4) The term "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, a territory or possession of the United States, an agency or instrumentality of a State, and a multi-State, regional, or interstate entity having governmental duties and powers.
 
-&emsp;(5) The term “local government” means a unit of government in a State and, if chartered, established, or otherwise recognized by a State for the performance of a governmental duty, the following entities:
+&emsp;(5) The term "local government" means a unit of government in a State and, if chartered, established, or otherwise recognized by a State for the performance of a governmental duty, the following entities:
 
 &emsp;&emsp;(A) A local public authority.
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(F) Any other instrumentality of a local government.
 
-&emsp;(6)(A) The terms “Federal contract”, “Federal grant”, “Federal cooperative agreement” mean, respectively—
+&emsp;(6)(A) The terms "Federal contract", "Federal grant", "Federal cooperative agreement" mean, respectively—
 
 &emsp;&emsp;(i) a contract awarded by an agency;
 
@@ -118,15 +118,15 @@
 
 &emsp;&emsp;(iv) a loan guaranty.
 
-&emsp;(7) The term “Federal loan” means a loan made by an agency. Such term does not include loan insurance or a loan guaranty.
+&emsp;(7) The term "Federal loan" means a loan made by an agency. Such term does not include loan insurance or a loan guaranty.
 
-&emsp;(8) The term “reasonable payment” means, with respect to professional and other technical services, a payment in an amount that is consistent with the amount normally paid for such services in the private sector.
+&emsp;(8) The term "reasonable payment" means, with respect to professional and other technical services, a payment in an amount that is consistent with the amount normally paid for such services in the private sector.
 
-&emsp;(9) The term “reasonable compensation” means, with respect to a regularly employed officer or employee of any person, compensation that is consistent with the normal compensation for such officer or employee for work that is not furnished to, not funded by, or not furnished in cooperation with the Federal Government.
+&emsp;(9) The term "reasonable compensation" means, with respect to a regularly employed officer or employee of any person, compensation that is consistent with the normal compensation for such officer or employee for work that is not furnished to, not funded by, or not furnished in cooperation with the Federal Government.
 
-&emsp;(10) The term “regularly employed”, with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or a commitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such person for at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
+&emsp;(10) The term "regularly employed", with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or a commitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such person for at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
 
-&emsp;(11) The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+&emsp;(11) The terms "Indian tribe" and "tribal organization" have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
 (Added Pub. L. 101–121, title III, §319(a)(1), Oct. 23, 1989, 103 Stat. 750; amended Pub. L. 101–512, title III, §320, Nov. 5, 1990, 104 Stat. 1977; Pub. L. 103–272, §4(f)(1)(F), July 5, 1994, 108 Stat. 1362; Pub. L. 104–65, §10, Dec. 19, 1995, 109 Stat. 700; Pub. L. 104–66, title III, §3001(b), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–106, div. A, title X, §1064(c), div. D, title XLIII, §4301(a)(2), Feb. 10, 1996, 110 Stat. 445, 656.)
 
@@ -140,55 +140,55 @@ Another section 1352 was renumbered section 1353 of this title.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–106, §4301(a)(2), which directed amendment of par. (2) by inserting “and” after the semicolon at the end of subpar. (A) and by striking out subpar. (C), was not executed because subsec. (b)(2) did not contain a subpar. (C) subsequent to amendment by Pub. L. 104–65, §10(a)(1). See 1995 Amendment note below.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–106, §4301(a)(2), which directed amendment of par. (2) by inserting "and" after the semicolon at the end of subpar. (A) and by striking out subpar. (C), was not executed because subsec. (b)(2) did not contain a subpar. (C) subsequent to amendment by Pub. L. 104–65, §10(a)(1). See 1995 Amendment note below.
 
-Subsec. (b)(6)(A). Pub. L. 104–106, §1064(c)(1), which directed insertion of “(other than the Secretary of Defense and Secretary of a military department)” after “The head of each agency”, could not be executed because subsec. (b)(6) did not contain a subpar. (A) subsequent to amendment by Pub. L. 104–65, §10(a)(3). See 1995 Amendment note below.
+Subsec. (b)(6)(A). Pub. L. 104–106, §1064(c)(1), which directed insertion of "(other than the Secretary of Defense and Secretary of a military department)" after "The head of each agency", could not be executed because subsec. (b)(6) did not contain a subpar. (A) subsequent to amendment by Pub. L. 104–65, §10(a)(3). See 1995 Amendment note below.
 
-Subsec. (d)(1). Pub. L. 104–106, §1064(c)(2), which directed the insertion of “(other than in the case of the Department of Defense or a military department)” after “paragraph (3) of this subsection”, could not be executed because subsec. (d)(1) did not contain phrase “paragraph (3) of this subsection” subsequent to amendment by Pub. L. 104–65, §10(b). See 1995 Amendment note below.
+Subsec. (d)(1). Pub. L. 104–106, §1064(c)(2), which directed the insertion of "(other than in the case of the Department of Defense or a military department)" after "paragraph (3) of this subsection", could not be executed because subsec. (d)(1) did not contain phrase "paragraph (3) of this subsection" subsequent to amendment by Pub. L. 104–65, §10(b). See 1995 Amendment note below.
 
 <b>1995</b>—Subsec. (b)(2). Pub. L. 104–65, §10(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
 
-“(A) a statement setting forth whether such person—
+"(A) a statement setting forth whether such person—
 
-&emsp;“(i) has made any payment with respect to that Federal contract, grant, loan, or cooperative agreement, using funds other than appropriated funds, which would be prohibited by subsection (a) of this section if the payment were paid for with appropriated funds; or
+&emsp;"(i) has made any payment with respect to that Federal contract, grant, loan, or cooperative agreement, using funds other than appropriated funds, which would be prohibited by subsection (a) of this section if the payment were paid for with appropriated funds; or
 
-&emsp;“(ii) has agreed to make any such payment;
+&emsp;"(ii) has agreed to make any such payment;
 
-“(B) with respect to each such payment (if any) and each such agreement (if any)—
+"(B) with respect to each such payment (if any) and each such agreement (if any)—
 
-&emsp;“(i) the name and address of each person paid, to be paid, or reasonably expected to be paid;
+&emsp;"(i) the name and address of each person paid, to be paid, or reasonably expected to be paid;
 
-&emsp;“(ii) the name and address of each individual performing the services for which such payment is made, to be made, or reasonably expected to be made;
+&emsp;"(ii) the name and address of each individual performing the services for which such payment is made, to be made, or reasonably expected to be made;
 
-&emsp;“(iii) the amount paid, to be paid, or reasonably expected to be paid;
+&emsp;"(iii) the amount paid, to be paid, or reasonably expected to be paid;
 
-&emsp;“(iv) how the person was paid, is to be paid, or is reasonably expected to be paid; and
+&emsp;"(iv) how the person was paid, is to be paid, or is reasonably expected to be paid; and
 
-&emsp;“(v) the activity for which the person was paid, is to be paid, or is reasonably expected to be paid; and
+&emsp;"(v) the activity for which the person was paid, is to be paid, or is reasonably expected to be paid; and
 
-“(C) a certification that the person making the declaration has not made, and will not make, any payment prohibited by subsection (a).”
+"(C) a certification that the person making the declaration has not made, and will not make, any payment prohibited by subsection (a)."
 
-Subsec. (b)(3). Pub. L. 104–65, §10(a)(2), substituted “shall contain the name of any registrant under the Lobbying Disclosure Act of 1995 who has made lobbying contacts on behalf of the person in connection with that  loan  insurance  or  guarantee.”  for  “shall  contain—” and struck out subpars. (A) and (B) which read as follows:
+Subsec. (b)(3). Pub. L. 104–65, §10(a)(2), substituted "shall contain the name of any registrant under the Lobbying Disclosure Act of 1995 who has made lobbying contacts on behalf of the person in connection with that  loan  insurance  or  guarantee."  for  "shall  contain—" and struck out subpars. (A) and (B) which read as follows:
 
-“(A) a statement setting forth whether such person—
+"(A) a statement setting forth whether such person—
 
-&emsp;“(i) has made any payment to influence or attempt to influence an officer or employee of any agency, a Member of Congress, an officer or employee of Congress, or an employee of a Member of Congress in connection with that loan insurance or guaranty; or
+&emsp;"(i) has made any payment to influence or attempt to influence an officer or employee of any agency, a Member of Congress, an officer or employee of Congress, or an employee of a Member of Congress in connection with that loan insurance or guaranty; or
 
-&emsp;“(ii) has agreed to make any such payment; and
+&emsp;"(ii) has agreed to make any such payment; and
 
-“(B) with respect to each such payment (if any) and each such agreement (if any), the information described in paragraph (2)(B) of this subsection.”
+"(B) with respect to each such payment (if any) and each such agreement (if any), the information described in paragraph (2)(B) of this subsection."
 
 Subsec. (b)(6), (7). Pub. L. 104–65, §10(a)(3), redesignated par. (7) as (6), and struck out former par. (6) which directed head of each agency to collect and compile detailed information on any unappropriated payments under Federal contracts, and report such information to the appropriate congressional officer or committee.
 
 Subsecs. (d) to (h). Pub. L. 104–65, §10(b), and Pub. L. 104–66, §3001(b), amended section identically, redesignating subsecs. (e) to (h) as (d) to (g), respectively, and striking out former subsec. (d) which directed the Inspector General or official of each agency to submit annual reports to Congress on the compliance of each agency with the requirements imposed by this section.
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–272, §4(f)(1)(F)(i), substituted “(c)(1) Any person” for “(C)(1) Any person”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–272, §4(f)(1)(F)(i), substituted "(c)(1) Any person" for "(C)(1) Any person".
 
-Subsec. (e)(1)(C). Pub. L. 103–272, §4(f)(1)(F)(ii), substituted “appropriated” for “appropirated” and inserted period at end.
+Subsec. (e)(1)(C). Pub. L. 103–272, §4(f)(1)(F)(ii), substituted "appropriated" for "appropirated" and inserted period at end.
 
-Subsec. (h)(7). Pub. L. 103–272, §4(f)(1)(F)(iii), inserted periods after “agency” and “guaranty”.
+Subsec. (h)(7). Pub. L. 103–272, §4(f)(1)(F)(iii), inserted periods after "agency" and "guaranty".
 
-<b>1990</b>—Subsec. (e)(2)(C). Pub. L. 101–512 inserted “or the single family maximum mortgage limit for affected programs, whichever is greater,” after “$150,000,”.
+<b>1990</b>—Subsec. (e)(2)(C). Pub. L. 101–512 inserted "or the single family maximum mortgage limit for affected programs, whichever is greater," after "$150,000,".
 
 #### Effective Date of 1996 Amendment
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 
 #### Effective Date
 
-Pub. L. 101–121, title III, §319(d), Oct. 23, 1989, 103 Stat. 756, provided that: “Section 1352 of title 31, United States Code (as added by subsection (a)), shall take effect with respect to Federal contracts, grants, loans, cooperative agreements, loan insurance commitments, and loan guaranty commitments that are entered into or made more than 60 days after the date of the enactment of this Act \[Oct. 23, 1989\].”
+Pub. L. 101–121, title III, §319(d), Oct. 23, 1989, 103 Stat. 756, provided that: "Section 1352 of title 31, United States Code (as added by subsection (a)), shall take effect with respect to Federal contracts, grants, loans, cooperative agreements, loan insurance commitments, and loan guaranty commitments that are entered into or made more than 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]."
 
 #### First Report on May 31, 1990; Content
 
@@ -208,5 +208,5 @@ Pub. L. 101–121, title III, §319(b), Oct. 23, 1989, 103 Stat. 756, provided t
 
 #### Notification of Compliance Date; Guidance for Agency Implementation
 
-Pub. L. 101–121, title III, §319(c), Oct. 23, 1989, 103 Stat. 756, provided that: “The Director of the Office of Management and Budget shall notify the head of each agency that section 1352 of title 31, United States Code (as added by subsection (a)), is to be complied with commencing 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]. Not later than 60 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue the guidance required by subsection (b)(7) \[now (b)(6)\] of such section.”
+Pub. L. 101–121, title III, §319(c), Oct. 23, 1989, 103 Stat. 756, provided that: "The Director of the Office of Management and Budget shall notify the head of each agency that section 1352 of title 31, United States Code (as added by subsection (a)), is to be complied with commencing 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]. Not later than 60 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue the guidance required by subsection (b)(7) \[now (b)(6)\] of such section."
 

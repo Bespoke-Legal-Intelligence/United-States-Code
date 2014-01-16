@@ -20,17 +20,17 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–529 inserted “, of which $21,750,000 for the fiscal year 1987 is authorized for the necessary operating expenses of the Office of the Inspector General of the Agency for International Development and the remaining amount for the fiscal year is authorized for other necessary operating expenses of that agency”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–529 inserted ", of which $21,750,000 for the fiscal year 1987 is authorized for the necessary operating expenses of the Office of the Inspector General of the Agency for International Development and the remaining amount for the fiscal year is authorized for other necessary operating expenses of that agency".
 
 <b>1985</b>—Subsec. (a)(1). Pub. L. 99–83 amended par. (1) generally, substituting provisions authorizing appropriations of $387,000,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $335,600,000 for fiscal years 1982 and 1983.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–113 struck out from provision preceding par. (1) “, for the fiscal year 1981” after “for such purposes” and substituted in par. (1) “$335,600,000 for the fiscal year 1982 and $335,600,000 for the fiscal year 1983” for “$293,800,000”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–113 struck out from provision preceding par. (1) ", for the fiscal year 1981" after "for such purposes" and substituted in par. (1) "$335,600,000 for the fiscal year 1982 and $335,600,000 for the fiscal year 1983" for "$293,800,000".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–533 substituted in provisions preceding par. (1) “1981” for “1980” and in par. (1) “$293,800,000” for “$263,000,000”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–533 substituted in provisions preceding par. (1) "1981" for "1980" and in par. (1) "$293,800,000" for "$263,000,000".
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–53 substituted in provisions preceding par. (1) “1980” for “1979” and in par. (1) “$263,000,000” for “$261,000,000”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–53 substituted in provisions preceding par. (1) "1980" for "1979" and in par. (1) "$263,000,000" for "$261,000,000".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–424 substituted in provisions preceding par. (1) “1979” for “1978” and in par. (1) “$261,000,000” for “$220,200,000”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–424 substituted in provisions preceding par. (1) "1979" for "1978" and in par. (1) "$261,000,000" for "$220,200,000".
 
 <b>1977</b>—Pub. L. 95–88 substituted provisions authorizing appropriations for fiscal year 1978 for provisions stating that nothing in this chapter was intended to preclude the Committees on Appropriations from setting a ceiling on operating expenses of the agency primarily responsible for administering subchapter I of this chapter or limiting the availability of other sums therefor.
 

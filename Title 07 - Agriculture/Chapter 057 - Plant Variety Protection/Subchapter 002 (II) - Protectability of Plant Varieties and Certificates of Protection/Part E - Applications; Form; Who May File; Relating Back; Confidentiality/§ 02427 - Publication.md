@@ -6,5 +6,5 @@ The Secretary may establish regulations for the publication of information regar
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–574 inserted “information regarding” after “publication of”.
+<b>1980</b>—Pub. L. 96–574 inserted "information regarding" after "publication of".
 

@@ -6,5 +6,5 @@ Any person, electric utility, State, municipality, or State commission complaini
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–58 inserted “electric utility,” after “Any person,” and “, transmitting utility,” after “licensee” wherever appearing.
+<b>2005</b>—Pub. L. 109–58 inserted "electric utility," after "Any person," and ", transmitting utility," after "licensee" wherever appearing.
 

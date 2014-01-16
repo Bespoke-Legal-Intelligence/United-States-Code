@@ -10,9 +10,9 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 #### Codification
 
-In text, “section 55305 of title 46” substituted for “section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. 1241(b))” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 55305 of Title 46, Shipping.
+In text, "section 55305 of title 46" substituted for "section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. 1241(b))" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 55305 of Title 46, Shipping.
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–533 substituted “part IV of subchapter II of this chapter” for “subchapter IV of this chapter”.
+<b>1980</b>—Pub. L. 96–533 substituted "part IV of subchapter II of this chapter" for "subchapter IV of this chapter".
 

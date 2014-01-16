@@ -12,9 +12,9 @@ In the case of an agricultural product processed from a raw agricultural product
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–465 inserted “countervailable” before “subsidies” in section catchline and concluding provisions.
+<b>1994</b>—Pub. L. 103–465 inserted "countervailable" before "subsidies" in section catchline and concluding provisions.
 
-<b>1988</b>—Pub. L. 100–647 amended section generally. Prior to amendment, section read as follows: “In the case of an agricultural product processed from a raw agricultural product in which (1) the demand for the prior stage product is substantially dependent on the demand for the latter stage product, and (2) the processing operation adds only limited value to the raw commodity, subsidies found to be provided to either producers or processors of the product shall be deemed to be provided with respect to the manufacture, production, or exportation of the processed product.”
+<b>1988</b>—Pub. L. 100–647 amended section generally. Prior to amendment, section read as follows: "In the case of an agricultural product processed from a raw agricultural product in which (1) the demand for the prior stage product is substantially dependent on the demand for the latter stage product, and (2) the processing operation adds only limited value to the raw commodity, subsidies found to be provided to either producers or processors of the product shall be deemed to be provided with respect to the manufacture, production, or exportation of the processed product."
 
 #### Effective Date of 1994 Amendment
 

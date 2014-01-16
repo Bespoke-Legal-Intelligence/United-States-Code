@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To be eligible to receive a subgrant from a State educational agency under this subpart, a local educational agency or eligible local entity shall submit to the State educational agency an application containing a new or updated local long-range strategic educational technology plan that is consistent with the objectives of the statewide educational technology plan described in section 6763(a) of this title, and such other information as the State educational agency may reasonably require, at such time and in such manner as the State educational agency may require.
+To be eligible to receive a subgrant from a State educational agency under this subpart, a local educational agency or eligible local entity shall submit to the State educational agency an application containing a new or updated local long-range strategic educational technology plan that is consistent with the objectives of the statewide educational technology plan describedin section 6763(a) of this title, and such other information as the State educational agency may reasonably require, at such time and in such manner as the State educational agency may require.
 
 #### (b) Contents
 
@@ -54,7 +54,7 @@ A local educational agency that is an eligible local entity and submits an appli
 
 #### (B) Fiscal agent
 
-&emsp;&emsp;If a local educational agency applies for and receives financial assistance described in section 6762(a)(2)(A) of this title as part of a consortium, the local educational agency shall serve as the fiscal agent for the consortium.
+&emsp;&emsp;If a local educational agency applies for and receives financial assistance described in section 6762(a)(2)(A) of this title as part ofa consortium, the local educational agency shall serve as the fiscal agent for the consortium.
 
 #### (2) State educational agency assistance
 

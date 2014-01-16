@@ -56,17 +56,17 @@ Regulations.—The Secretary of Defense shall prescribe regulations relating to 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “absent uniformed services voter” has the meaning given that term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(1)).
+&emsp;(1) The term "absent uniformed services voter" has the meaning given that term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(1)).
 
-&emsp;(2) The term “Federal office” has the meaning given that term in section 107(3) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(3)).
+&emsp;(2) The term "Federal office" has the meaning given that term in section 107(3) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(3)).
 
-&emsp;(3) The term “Presidential designee” means the official designated by the President under section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(a)).
+&emsp;(3) The term "Presidential designee" means the official designated by the President under section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(a)).
 
 (Added Pub. L. 111–84, div. A, title V, §583(b)(1), Oct. 28, 2009, 123 Stat. 2328; amended Pub. L. 111–383, div. A, title X, §1075(b)(21), Jan. 7, 2011, 124 Stat. 4370.)
 
 #### References in Text
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to insubsec. (a), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (a), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
 
 The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (a)(4), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
 

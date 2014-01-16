@@ -6,5 +6,5 @@ Each recipient of assistance under this part shall keep such records, provide su
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–388 struck out “(a)” before “Each recipient”.
+<b>1998</b>—Pub. L. 105–388 struck out "(a)" before "Each recipient".
 

@@ -104,19 +104,19 @@ Subsection (c).—Whoever violates subsection (c) shall be fined under this titl
 
 Definitions.—In this section—
 
-&emsp;(1) the term “funds” means assets of every kind, whether tangible or intangible, movable or immovable, however acquired, and legal documents or instruments in any form, including electronic or digital, evidencing title to, or interest in, such assets, including coin, currency, bank credits, travelers checks, bank checks, money orders, shares, securities, bonds, drafts, and letters of credit;
+&emsp;(1) the term "funds" means assets of every kind, whether tangible or intangible, movable or immovable, however acquired, and legal documents or instruments in any form, including electronic or digital, evidencing title to, or interest in, such assets, including coin, currency, bank credits, travelers checks, bank checks, money orders, shares, securities, bonds, drafts, and letters of credit;
 
-&emsp;(2) the term “government facility” means any permanent or temporary facility or conveyance that is used or occupied by representatives of a state, members of a government, the legislature, or the judiciary, or by officials or employees of a state or any other public authority or entity or by employees or officials of an intergovernmental organization in connection with their official duties;
+&emsp;(2) the term "government facility" means any permanent or temporary facility or conveyance that is used or occupied by representatives of a state, members of a government, the legislature, or the judiciary, or by officials or employees of a state or any other public authority or entity or by employees or officials of an intergovernmental organization in connection with their official duties;
 
-&emsp;(3) the term “proceeds” means any funds derived from or obtained, directly or indirectly, through the commission of an offense set forth in subsection (a);
+&emsp;(3) the term "proceeds" means any funds derived from or obtained, directly or indirectly,through the commission of an offense set forth in subsection (a);
 
-&emsp;(4) the term “provides” includes giving, donating, and transmitting;
+&emsp;(4) the term "provides" includes giving, donating, and transmitting;
 
-&emsp;(5) the term “collects” includes raising and receiving;
+&emsp;(5) the term "collects" includes raising and receiving;
 
-&emsp;(6) the term “predicate act” means any act referred to in subparagraph (A) or (B) of subsection (a)(1);
+&emsp;(6) the term "predicate act" means any act referred to in subparagraph (A) or (B) of subsection (a)(1);
 
-&emsp;(7) the term “treaty” means—
+&emsp;(7) the term "treaty" means—
 
 &emsp;&emsp;(A) the Convention for the Suppression of Unlawful Seizure of Aircraft, done at The Hague on December 16, 1970;
 
@@ -136,19 +136,19 @@ Definitions.—In this section—
 
 &emsp;&emsp;(I) the International Convention for the Suppression of Terrorist Bombings, adopted by the General Assembly of the United Nations on December 15, 1997;
 
-&emsp;(8) the term “intergovernmental organization” includes international organizations;
+&emsp;(8) the term "intergovernmental organization" includes international organizations;
 
-&emsp;(9) the term “international organization” has the same meaning as in section 1116(b)(5) of this title;
+&emsp;(9) the term "international organization" has the same meaning as in section 1116(b)(5) of this title;
 
-&emsp;(10) the term “armed conflict” does not include internal disturbances and tensions, such as riots, isolated and sporadic acts of violence, and other acts of a similar nature;
+&emsp;(10) the term "armed conflict" does not include internal disturbances and tensions, such as riots, isolated and sporadic acts of violence, and other acts of a similar nature;
 
-&emsp;(11) the term “serious bodily injury” has the same meaning as in section 1365(g)(3) of this title; <sup>1</sup>
+&emsp;(11) the term "serious bodily injury" has the same meaning as in section 1365(g)(3) of this title; <sup>1</sup>
 
-&emsp;(12) the term “national of the United States” has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
+&emsp;(12) the term "national of the United States" has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
 
-&emsp;(13) the term “material support or resources” has the same meaning given that term in section 2339B(g)(4) of this title; and
+&emsp;(13) the term "material support or resources" has the same meaning given that term in section 2339B(g)(4) of this title; and
 
-&emsp;(14) the term “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof.
+&emsp;(14) the term "state" has the same meaning as that term has under international law, and includes all political subdivisions thereof.
 
 (f)
 
@@ -164,15 +164,15 @@ Section 1365(g)(3), referred to in subsec. (e)(11), was redesignated section 136
 
 <b>2006</b>—Pub. L. 109–177 amended directory language of Pub. L. 108–458, §6604. See 2004 Amendment notes below.
 
-<b>2004</b>—Subsec. (c)(2). Pub. L. 108–458, §6604(a)(1), as amended by Pub. L. 109–177, §408(1), substituted “or resources, or any funds or proceeds of such funds” for “, resources, or funds” in introductory provisions.
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–458, §6604(a)(1), as amended by Pub. L. 109–177, §408(1), substituted "or resources, or any funds or proceeds of such funds" for ", resources, or funds" in introductory provisions.
 
-Subsec. (c)(2)(A). Pub. L. 108–458, §6604(a)(2), as amended by Pub. L. 109–177, §408(1), substituted “are to be provided, or knowing that the support or resources were provided,” for “were provided”.
+Subsec. (c)(2)(A). Pub. L. 108–458, §6604(a)(2), as amended by Pub. L. 109–177, §408(1), substituted "are to be provided, or knowing that the support or resources were provided," for "were provided".
 
-Subsec. (c)(2)(B). Pub. L. 108–458, §6604(a)(3), as amended by Pub. L. 109–177, §408(1), struck out “or any proceeds of such funds” after “any such funds” and substituted “are to be provided or collected, or knowing that the funds were provided or collected,” for “were provided or collected”.
+Subsec. (c)(2)(B). Pub. L. 108–458, §6604(a)(3), as amended by Pub. L. 109–177, §408(1), struck out "or any proceeds of such funds" after "any such funds" and substituted "are to be provided or collected, or knowing that the funds were provided or collected," for "were provided or collected".
 
 Subsec. (e)(13), (14). Pub. L. 108–458, §6604(b), as amended by Pub. L. 109–177, §408(2), added par. (13) and redesignated former par. (13) as (14).
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–273 substituted “described in subsection (b)” for “described in subsection (c)”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–273 substituted "described in subsection (b)" for "described in subsection (c)".
 
 #### Effective Date of 2006 Amendment
 
@@ -180,11 +180,11 @@ Pub. L. 109–177, title IV, §408, Mar. 9, 2006, 120 Stat. 245, provided that t
 
 #### Effective Date
 
-Pub. L. 107–197, title II, §203, June 25, 2002, 116 Stat. 727, provided that: “Except for paragraphs (1)(D) and (2)(B) of section 2339C(b) of title 18, United States Code, which shall become effective on the date that the International Convention for the Suppression of the Financing of Terrorism enters into force for the United States \[July 26, 2002\], and for the provisions of section 2339C(e)(7)(I) of title 18, United States Code, which shall become effective on the date that the International Convention for the Suppression of Terrorist Bombing enters into force for the United States \[July 26, 2002\], section 202 \[enacting this section and provisions set out as a note below\] shall take effect on the date of enactment of this Act \[June 25, 2002\].”
+Pub. L. 107–197, title II, §203, June 25, 2002, 116 Stat. 727, provided that: "Except for paragraphs (1)(D) and (2)(B) of section 2339C(b) of title 18, United States Code, which shall become effective on the date that the International Convention for the Suppression of the Financing of Terrorism enters into force for the United States \[July 26, 2002\], and for the provisions of section 2339C(e)(7)(I) of title 18, United States Code, which shall become effective on the date that the International Convention for the Suppression of Terrorist Bombing enters into force for the United States \[July 26, 2002\], section 202 \[enacting this section and provisions set out as a note below\] shall take effect on the date of enactment of this Act \[June 25, 2002\]."
 
 #### Disclaimer
 
-Pub. L. 107–197, title II, §202(c), June 25, 2002, 116 Stat. 727, provided that: “Nothing contained in this section\[enacting this section\] is intended to affect the scope or applicability of any other Federal or State law.”
+Pub. L. 107–197, title II, §202(c), June 25, 2002, 116 Stat. 727, provided that: "Nothing contained in this section \[enacting this section\] is intended to affect the scope or applicability of any other Federal or State law."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

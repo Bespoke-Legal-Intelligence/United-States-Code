@@ -12,7 +12,7 @@ There shall be paid to the Vice President in equal monthly installments an expen
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year thereafter, see section 1(f) of Pub. L. 108–7, set out as a note under section 31a–1 of Title 2, The Congress.
+Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year thereafter, see section 1(f) of Pub. L. 108–7, set out as a note under section 6102 of Title 2, The Congress.
 
 #### Effective Date of 1951 Amendment
 
@@ -36,7 +36,7 @@ Sec. 3. The Secretary of the Navy shall, subject to the supervision and control 
 
 “
 
-Sec. 4. There is hereby authorized to be appropriated such sums as may be necessary from time to time to carry out the foregoing provisions of this joint resolution. During any interim period until and before any such funds are so appropriated, the Secretary of the Navy shall make provision for staffing and other appropriate services in connection with the temporary official residence of the Vice President from fundsavailable to the Department of the Navy, subject to reimbursement therefor from funds subsequently appropriated to carry out the purposes of this joint resolution.
+Sec. 4. There is hereby authorized to be appropriated such sums as may be necessary from time to time to carry out the foregoing provisions of this joint resolution. During any interim period until and before any such funds are so appropriated, the Secretary of the Navy shall make provision for staffing and other appropriate services in connection with the temporary official residence of the Vice President from funds available to the Department of the Navy, subject to reimbursement therefor from funds subsequently appropriated to carry out the purposes of this joint resolution.
 
 “
 

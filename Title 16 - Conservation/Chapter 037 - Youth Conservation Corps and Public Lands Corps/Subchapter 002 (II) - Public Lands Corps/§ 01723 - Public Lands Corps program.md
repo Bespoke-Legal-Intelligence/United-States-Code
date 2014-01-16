@@ -28,7 +28,7 @@ The Corps shall consist of individuals between the ages of 16 and 25, inclusive,
 
 #### (1) In general
 
-&emsp;The Secretary may utilize the Corps or any qualified youth or conservation corps to carryout appropriate conservation projects which the Secretary is authorized to carry out under other authority of law on public lands.
+&emsp;The Secretary may utilize the Corps or any qualified youth or conservation corps to carry out appropriate conservation projects which the Secretary is authorized to carry out under other authority of law on public lands.
 
 #### (2) Projects on Indian lands
 
@@ -60,11 +60,11 @@ Each appropriate conservation project carried out under this subchapter on eligi
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–154, §2(g)(1)(A), substituted “Corps by the Secretary” for “Corps by the Secretary of the Interior or the Secretary of Agriculture” and “Secretary may” for “Secretaries may” in two places.
+<b>2005</b>—Subsec. (b). Pub. L. 109–154, §2(g)(1)(A), substituted "Corps by the Secretary" for "Corps by the Secretary of the Interior or the Secretary of Agriculture" and "Secretary may" for "Secretaries may" in two places.
 
-Subsec. (c). Pub. L. 109–154, §2(b), designated existing provisions as par. (1), inserted heading, substituted “The Secretary is” for “The Secretary of the Interior and the Secretary of Agriculture are”, and added par. (2).
+Subsec. (c). Pub. L. 109–154, §2(b), designated existing provisions as par. (1), inserted heading, substituted "The Secretary is" for "The Secretary of the Interior and the Secretary of Agriculture are", and added par. (2).
 
-Subsec. (d). Pub. L. 109–154, §2(c), designated first sentence as par. (1), inserted heading, and substituted “The Secretary may” for “The Secretary of the Interior and the Secretary of Agriculture may each” and “the Secretary” for “such Secretary”, designated second sentence as par. (2) and inserted heading, added par. (3), and struck out former third sentence which read “The Secretaries may also authorize appropriate conservation projects and other appropriate projects to be carried out on Federal, State, local, or private lands as part of disaster prevention or relief efforts in response to an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).”
+Subsec. (d). Pub. L. 109–154, §2(c), designated first sentence as par. (1), inserted heading, and substituted "The Secretary may" for "The Secretary of the Interior and the Secretary of Agriculture may each" and "the Secretary" for "such Secretary", designated second sentence as par. (2) and inserted heading, added par. (3), and struck out former third sentence which read "The Secretaries may also authorize appropriate conservation projects and other appropriate projects to be carried out on Federal, State, local, or private lands as part of disaster prevention or relief efforts in response to an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)."
 
-Subsec. (e). Pub. L. 109–154, §2(g)(1)(B), substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture” in introductory provisions.
+Subsec. (e). Pub. L. 109–154, §2(g)(1)(B), substituted "Secretary" for "Secretary of the Interior and the Secretary of Agriculture" in introductory provisions.
 

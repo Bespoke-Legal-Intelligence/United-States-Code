@@ -6,7 +6,7 @@ The Secretary of Commerce is authorized and directed to furnish precise copies o
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “Bureau of Standards” in two places.
+<b>1988</b>—Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "Bureau of Standards" in two places.
 
 #### Change of Name
 

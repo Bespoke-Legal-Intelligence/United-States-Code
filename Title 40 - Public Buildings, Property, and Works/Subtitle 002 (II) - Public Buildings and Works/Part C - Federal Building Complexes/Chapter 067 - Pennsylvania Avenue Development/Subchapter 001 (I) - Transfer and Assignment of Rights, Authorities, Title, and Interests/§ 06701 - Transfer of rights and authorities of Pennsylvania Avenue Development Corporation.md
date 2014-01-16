@@ -62,9 +62,9 @@ Pub. L. 105–277, §101(h) \[title IV, 9th proviso on p. 2681–502\], Oct. 21,
 
 Pub. L. 92–578, §10(b), Oct. 27, 1972, 86 Stat. 1274.
 
-In subsection (a), before clause (1), the words “in fiscal year 1997 and thereafter” are omitted as obsolete. In clause (1), the words “leases, contracts or other” are omitted as unnecessary. The words “firm, association, or corporation” are omitted because of the definition of “person” in 1:1.
+In subsection (a), before clause (1), the words "in fiscal year 1997 and thereafter" are omitted as obsolete. In clause (1), the words "leases, contracts or other" are omitted as unnecessary. The words "firm, association, or corporation" are omitted because of the definition of "person" in 1:1.
 
-In subsection (b)(1), the words “notwithstanding any other provision of law” are omitted as unnecessary. The words “That the remaining balances and associated assets and laibilites \[sic\] of the Pennsylvania Avenue Activities account are hereby transferred to the Federal Buildings Fund to be effective October 1, 1998” are omitted as executed.
+In subsection (b)(1), the words "notwithstanding any other provision of law" are omitted as unnecessary. The words "That the remaining balances and associated assets and laibilites \[sic\] of the Pennsylvania Avenue Activities account are hereby transferred to the Federal Buildings Fund to be effective October 1, 1998" are omitted as executed.
 
-In subsection (c), the words “To the extent that the District of Columbia may not suffer undue loss of tax revenue by reason of the provisions of subsection (a) of this section” are omitted as unnecessary.
+In subsection (c), the words "To the extent that the District of Columbia may not suffer undue loss of tax revenue by reason of the provisions of subsection (a) of this section" are omitted as unnecessary.
 

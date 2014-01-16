@@ -2,27 +2,27 @@
 
 For the purposes of this chapter—
 
-&emsp;(1) the term “Council” means a Propane Education and Research Council created pursuant to section 6403 of this title;
+&emsp;(1) the term "Council" means a Propane Education and Research Council created pursuant to section 6403 of this title;
 
-&emsp;(2) the term “industry” means those persons involved in the production, transportation, and sale of propane, and in the manufacture and distribution of propane utilization equipment, in the United States;
+&emsp;(2) the term "industry" means those persons involved in the production, transportation, and sale of propane, and in the manufacture and distribution of propane utilization equipment, in the United States;
 
-&emsp;(3) the term “industry trade association” means an organization exempt from tax, under section 501(c)(3) or (6) of title 26, representing the propane industry;
+&emsp;(3) the term "industry trade association" means an organization exempt from tax, under section 501(c)(3) or (6) of title 26, representing the propane industry;
 
-&emsp;(4) the term “odorized propane” means propane which has had odorant added to it;
+&emsp;(4) the term "odorized propane" means propane which has had odorant added to it;
 
-&emsp;(5) the term “producer” means the owner of propane at the time it is recovered at a gas processing plant or refinery;
+&emsp;(5) the term "producer" means the owner of propane at the time it is recovered at a gas processing plant or refinery;
 
-&emsp;(6) the term “propane” means a hydrocarbon whose chemical composition is predominantly C<sup>3</sup>H<sup>8</sup>, whether recovered from natural gas or crude oil, and includes liquefied petroleum gases and mixtures thereof;
+&emsp;(6) the term "propane" means a hydrocarbon whose chemical composition is predominantly C<sup>3</sup>H<sup>8</sup>, whether recovered from natural gas or crude oil, and includes liquefied petroleum gases and mixtures thereof;
 
-&emsp;(7) the term “public member” means a member of the Council, other than a representative of producers or retail marketers, representing significant users of propane, public safety officials, academia, the propane research community, or other groups knowledgeable about propane;
+&emsp;(7) the term "public member" means a member of the Council, other than a representative of producers or retail marketers, representing significant users of propane, public safety officials, academia, the propane research community, or other groups knowledgeable about propane;
 
-&emsp;(8) the term “qualified industry organization” means the National Propane Gas Association, the Gas Processors Association, a successor association of such associations, or a group of retail marketers or producers who collectively represent at least 25 percent of the volume of propane sold or produced in the United States;
+&emsp;(8) the term "qualified industry organization" means the National Propane Gas Association, the Gas Processors Association, a successor association of such associations, or a group of retail marketers or producers who collectively represent at least 25 percent of the volume of propane sold or produced in the United States;
 
-&emsp;(9) the term “retail marketer” means a person engaged primarily in the sale of odorized propane to the ultimate consumer or to retail propane dispensers;
+&emsp;(9) the term "retail marketer" means a person engaged primarily in the sale of odorized propane to the ultimate consumer or to retail propane dispensers;
 
-&emsp;(10) the term “retail propane dispenser” means a person who sells odorized propane to the ultimate consumer but is not engaged primarily in the business of such sales; and
+&emsp;(10) the term "retail propane dispenser" means a person who sells odorized propane to the ultimate consumer but is not engaged primarily in the business of such sales; and
 
-&emsp;(11) the term “Secretary” means the Secretary of Energy.
+&emsp;(11) the term "Secretary" means the Secretary of Energy.
 
 (Pub. L. 104–284, §3, Oct. 11, 1996, 110 Stat. 3370.)
 

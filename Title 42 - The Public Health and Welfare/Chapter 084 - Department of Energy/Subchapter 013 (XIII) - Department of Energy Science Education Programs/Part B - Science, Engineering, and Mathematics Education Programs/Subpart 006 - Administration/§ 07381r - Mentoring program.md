@@ -24,5 +24,5 @@ Subparts 3 and 4, referred to in subsec. (b), relate to Centers of Excellence an
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–358 substituted “subparts 3 and 4” for “subparts 1, 3, and 4” in subsecs. (a) and (b).
+<b>2011</b>—Pub. L. 111–358 substituted "subparts 3 and 4" for "subparts 1, 3, and 4" in subsecs. (a) and (b).
 

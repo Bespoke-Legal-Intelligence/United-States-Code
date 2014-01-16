@@ -46,7 +46,7 @@ In the case of any Indian who—
 
 &emsp;(3) by reason of such Indian's employment, is entitled to medical care at the expense of such mine or mill operator;
 
-> the Service shall, at the request of such Indian, render appropriate medical care to such Indian for such illness or condition and may recover the costs of any medical care so rendered to which such Indian is entitled at the expense of such operator from such operator. Nothing in this subsection shall affect the rights of such Indian to recover damages other than such costs paid to the Service from the employer for such illness or condition.
+> the Service shall, at the request of such Indian, render appropriate medical care to such Indian for such illness or condition and may recoverthe costs of any medical care so rendered to which such Indian is entitled at the expense of such operator from such operator. Nothing in this subsection shall affect the rights of such Indian to recover damages other than such costs paid to the Service from the employer for such illness or condition.
 
 (Pub. L. 94–437, title VIII, §807, formerly title VII, §707, as added Pub. L. 96–537, §8(b), Dec. 17, 1980, 94 Stat. 3179; amended Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172; renumbered title VIII, §807, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §813(b), Oct. 29, 1992, 106 Stat. 4572, 4590.)
 
@@ -56,25 +56,25 @@ In the case of any Indian who—
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (d)(1) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30, Minerals and Mining.
+"United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (d)(1) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30, Minerals and Mining.
 
 #### Nuclear Resource Development Health Hazards; Study and Report
 
 Pub. L. 100–713, title VII, §717, Nov. 23, 1988, 102 Stat. 4837, provided that:
 
-“(a) The Secretary of Health and Human Services (acting through the Indian Health Service), the Secretary of the Interior (acting through the Bureau of Indian Affairs), and the Secretary of Energy shall jointly conduct a study for the purpose of determining—
+"(a) The Secretary of Health and Human Services (acting through the Indian Health Service), the Secretary of the Interior (acting through the Bureau of Indian Affairs), and the Secretary of Energy shall jointly conduct a study for the purpose of determining—
 
-&emsp;“(1) the number of active nuclear resource development sites on Indian lands in the United States;
+&emsp;"(1) the number of active nuclear resource development sites on Indian lands in the United States;
 
-&emsp;“(2) the Federal agencies that carry out Federal responsibilities with respect to each such site;
+&emsp;"(2) the Federal agencies that carry out Federal responsibilities with respect to each such site;
 
-&emsp;“(3) the health hazards that exist as a result of such sites;
+&emsp;"(3) the health hazards that exist as a result of such sites;
 
-&emsp;“(4) the remedial actions which have been undertaken with respect to such health hazards;
+&emsp;"(4) the remedial actions which have been undertaken with respect to such health hazards;
 
-&emsp;“(5) remedial actions that are needed with respect to such health hazards; and
+&emsp;"(5) remedial actions that are needed with respect to such health hazards; and
 
-&emsp;“(6) the amount of funds that would be necessary each year to implement and maintain such needed remedial actions and the date by which the remedial actions would be implemented if sufficient funds were to provide for the remedial actions.
+&emsp;"(6) the amount of funds that would be necessary each year to implement and maintain such needed remedial actions and the date by which the remedial actions would be implemented if sufficient funds were to provide for the remedial actions.
 
-“(b) By no later than the date that is 2 years after the date of enactment of this Act \[Nov. 23, 1988\], a report shall be submitted to the Congress describing the findings and conclusions made as a result of carrying out the study required in subsection (a).”
+"(b) By no later than the date that is 2 years after the date of enactment of this Act \[Nov. 23, 1988\], a report shall be submitted to the Congress describing the findings and conclusions made as a result of carrying out the study required in subsection (a)."
 

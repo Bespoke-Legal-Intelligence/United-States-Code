@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified plug-in electric vehicle” means a specified vehicle—
+&emsp;The term "qualified plug-in electric vehicle" means a specified vehicle—
 
 &emsp;&emsp;(A) the original use of which commences with the taxpayer,
 
@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (2) Specified vehicle
 
-&emsp;The term “specified vehicle” means any vehicle which—
+&emsp;The term "specified vehicle" means any vehicle which—
 
 &emsp;&emsp;(A) is a low speed vehicle within the meaning of section 571.3 of title 49, Code of Federal Regulations (as in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009), or
 
@@ -52,11 +52,11 @@ For purposes of this section—
 
 #### (3) Manufacturer
 
-&emsp;The term “manufacturer” has the meaning given such term in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.).
+&emsp;The term "manufacturer" has the meaning given such term in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.).
 
 #### (4) Battery capacity
 
-&emsp;The term “capacity” means, with respect to any battery, the quantity of electricity which the battery is capable of storing, expressed in kilowatt hours, as measured from a 100 percent state of charge to a 0 percent state of charge.
+&emsp;The term "capacity" means, with respect to any battery, the quantity of electricity which the battery is capable of storing, expressed in kilowatt hours, as measured from a 100 percent state of charge to a 0 percent state of charge.
 
 #### (e) Special rules
 
@@ -104,33 +104,33 @@ A prior section 30 was renumbered section 41 of this title.
 
 <b>2013</b>—Subsec. (c)(2). Pub. L. 112–240 amended par. (2) generally. Prior to amendment, par. (2) related to personal credit with a limitation based on amount of tax.
 
-<b>2010</b>—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(F), (c), as amended by Pub. L. 111–312, temporarily substituted “25D” for “23, 25D,”. See Effective and Termination Dates of 2010 Amendment note below.
+<b>2010</b>—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(F), (c), as amended by Pub. L. 111–312, temporarily substituted "25D" for "23, 25D,". See Effective and Termination Dates of 2010 Amendment note below.
 
 <b>2009</b>—Pub. L. 111–5 amended section generally. Prior to amendment, section provided for credit of 10 percent of the cost of any qualified electric vehicle, subject to a $4,000 per vehicle limitation, a 75 percent reduction for any vehicle placed in service after Dec. 31, 2005, and a Dec. 31, 2006, termination date.
 
-<b>2005</b>—Subsec. (b)(3)(A). Pub. L. 109–58 substituted “section 27” for “sections 27 and 29” in introductory provisions.
+<b>2005</b>—Subsec. (b)(3)(A). Pub. L. 109–58 substituted "section 27" for "sections 27 and 29" in introductory provisions.
 
-<b>2004</b>—Subsec. (b)(2). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of any qualified electric vehicle placed in service after December 31, 2003, the credit otherwise allowable under subsection (a) (determined after the application of paragraph (1)) shall be reduced by—
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "In the case of any qualified electric vehicle placed in service after December 31, 2003, the credit otherwise allowable under subsection (a) (determined after the application of paragraph (1)) shall be reduced by—
 
-&emsp;“(A) 25 percent in the case of property placed in service in calendar year 2004,
+&emsp;"(A) 25 percent in the case of property placed in service in calendar year 2004,
 
-&emsp;“(B) 50 percent in the case of property placed in service in calendar year 2005, and
+&emsp;"(B) 50 percent in the case of property placed in service in calendar year 2005, and
 
-&emsp;“(C) 75 percent in the case of property placed in service in calendar year 2006.”
+&emsp;"(C) 75 percent in the case of property placed in service in calendar year 2006."
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–147, §602(a)(1)(A), substituted “December 31, 2003,” for “December 31, 2001,” in introductory provisions.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–147, §602(a)(1)(A), substituted "December 31, 2003," for "December 31, 2001," in introductory provisions.
 
-Subsec. (b)(2)(A). Pub. L. 107–147, §602(a)(1)(B), substituted “2004” for “2002”.
+Subsec. (b)(2)(A). Pub. L. 107–147, §602(a)(1)(B), substituted "2004" for "2002".
 
-Subsec. (b)(2)(B). Pub. L. 107–147, §602(a)(1)(B), substituted “2005” for “2003”.
+Subsec. (b)(2)(B). Pub. L. 107–147, §602(a)(1)(B), substituted "2005" for "2003".
 
-Subsec. (b)(2)(C). Pub. L. 107–147, §602(a)(1)(B), substituted “2006” for “2004”.
+Subsec. (b)(2)(C). Pub. L. 107–147, §602(a)(1)(B), substituted "2006" for "2004".
 
-Subsec. (e). Pub. L. 107–147, §602(a)(2), substituted “December 31, 2006” for “December 31, 2004”.
+Subsec. (e). Pub. L. 107–147, §602(a)(2), substituted "December 31, 2006" for "December 31, 2004".
 
-<b>1996</b>—Subsec. (b)(3)(A). Pub. L. 104–188, §1205(d)(4), substituted “sections 27 and 29” for “sections 27, 28, and 29”.
+<b>1996</b>—Subsec. (b)(3)(A). Pub. L. 104–188, §1205(d)(4), substituted "sections 27 and 29" for "sections 27, 28, and 29".
 
-Subsec. (d)(1). Pub. L. 104–188, §1704(j)(4)(A)(i), inserted “(determined without regard to subsection (b)(3))” before period at end.
+Subsec. (d)(1). Pub. L. 104–188, §1704(j)(4)(A)(i), inserted "(determined without regard to subsection (b)(3))" before period at end.
 
 Subsec. (d)(4). Pub. L. 104–188, §1704(j)(4)(A)(ii), added par. (4).
 
@@ -154,11 +154,11 @@ Amendment by Pub. L. 109–58 applicable to credits determined under the Interna
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–311, title III, §318(b), Oct. 4, 2004, 118 Stat. 1182, provided that: “The amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 2003.”
+Pub. L. 108–311, title III, §318(b), Oct. 4, 2004, 118 Stat. 1182, provided that: "The amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 2003."
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title VI, §602(c), Mar. 9, 2002, 116 Stat. 59, provided that: “The amendments made by this section \[amending this section, section 280F of this title, and provisions set out as a note under section 280F of this title\] shall apply to property placed in service after December 31, 2001.”
+Pub. L. 107–147, title VI, §602(c), Mar. 9, 2002, 116 Stat. 59, provided that: "The amendments made by this section \[amending this section, section 280F of this title, and provisions set out as a note under section 280F of this title\] shall apply to property placed in service after December 31, 2001."
 
 #### Effective Date of 1996 Amendment
 
@@ -166,9 +166,9 @@ Amendment by section 1205(d)(4) of Pub. L. 104–188 applicable to amounts paid 
 
 #### Effective Date
 
-Pub. L. 102–486, title XIX, §1913(c), Oct. 24, 1992, 106 Stat. 3020, provided that: “The amendments made by this section \[enacting this section and 179A of this title and amending sections 53, 55, 62, and 1016 of this title\] shall apply to property placed in service after June 30, 1993.”
+Pub. L. 102–486, title XIX, §1913(c), Oct. 24, 1992, 106 Stat. 3020, provided that: "The amendments made by this section \[enacting this section and 179A of this title and amending sections 53, 55, 62, and 1016 of this title\] shall apply to property placed in service after June 30, 1993."
 
 #### Transitional Rule
 
-Pub. L. 111–5, div. B, title I, §1142(d), Feb. 17, 2009, 123 Stat. 331, provided that: “In the case of a vehicle acquired after the date of the enactment of this Act \[Feb. 17, 2009\] and before January 1, 2010, no credit shall be allowed under section 30 of the Internal Revenue Code of 1986, as added by this section, if credit is allowable under section 30D of such Code with respect to such vehicle.”
+Pub. L. 111–5, div. B, title I, §1142(d), Feb. 17, 2009, 123 Stat. 331, provided that: "In the case of a vehicle acquired after the date of the enactment of this Act \[Feb. 17, 2009\] and before January 1, 2010, no credit shall be allowed under section 30 of the Internal Revenue Code of 1986, as added by this section, if credit is allowable under section 30D of such Code with respect to such vehicle."
 

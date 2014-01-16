@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;With respect to permitting activities for interstate natural gas pipelines, the May 2002 document entitled “Interagency Agreement On Early Coordination Of Required Environmental And Historic Preservation Reviews Conducted In Conjunction With The Issuance Of Authorizations To Construct And Operate Interstate Natural Gas Pipelines Certificated By The Federal Energy Regulatory Commission” shall constitute compliance with subsection (a).
+&emsp;With respect to permitting activities for interstate natural gas pipelines, the May 2002 document entitled "Interagency Agreement On Early Coordination Of Required Environmental And Historic Preservation Reviews Conducted In Conjunction With The Issuance Of Authorizations To Construct And Operate Interstate Natural Gas Pipelines Certificated By The Federal Energy Regulatory Commission" shall constitute compliance with subsection (a).
 
 #### (2) Report
 
@@ -48,7 +48,7 @@
 
 #### (c) Definition of utility facility
 
-In this section, the term “utility facility” means any privately, publicly, or cooperatively owned line, facility, or system—
+In this section, the term "utility facility" means any privately, publicly, or cooperatively owned line, facility, or system—
 
 &emsp;(1) for the transportation of—
 

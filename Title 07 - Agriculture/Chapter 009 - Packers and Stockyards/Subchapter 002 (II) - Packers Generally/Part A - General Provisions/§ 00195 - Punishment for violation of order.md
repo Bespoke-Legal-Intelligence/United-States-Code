@@ -12,9 +12,9 @@ Any packer or swine contractor, or any officer, director, agent, or employee of 
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–171 substituted “packer or swine contractor” for “packer” in two places in introductory provisions.
+<b>2002</b>—Pub. L. 107–171 substituted "packer or swine contractor" for "packer" in two places in introductory provisions.
 
 #### Change of Name
 
-Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”, wherever appearing in this section.
+Act June 25, 1948, as amended by act May 24, 1949, substituted "court of appeals" for "circuit court of appeals", wherever appearing in this section.
 

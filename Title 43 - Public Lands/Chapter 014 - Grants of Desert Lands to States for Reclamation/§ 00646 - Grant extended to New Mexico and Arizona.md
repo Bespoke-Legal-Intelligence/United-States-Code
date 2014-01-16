@@ -10,7 +10,7 @@ Section 643 of this title, referred to in text, was repealed by Pub. L. 94–579
 
 #### Effective Date
 
-Act Feb. 18, 1909, ch. 150, §2, 35 Stat. 639, provided: “That this Act \[enacting this section\] shall be in full force and effect from and after its passage.”
+Act Feb. 18, 1909, ch. 150, §2, 35 Stat. 639, provided: "That this Act \[enacting this section\] shall be in full force and effect from and after its passage."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Patents for designs shall be granted for the term of fourteen years from the dat
 
 #### Amendment of Section
 
-<i>Pub. L. 112–211, title I, §§102(7), 103, Dec. 18, 2012, 126 Stat. 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended by substituting “15 years” for “fourteen years”. See 2012 Amendment note below.</i>
+<i>Pub. L. 112–211, title I, §§102(7), 103, Dec. 18, 2012, 126 Stat. 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended by substituting "15 years" for "fourteen years". See 2012 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -14,11 +14,11 @@ Based on Title 35, U.S.C., 1946 ed., §77 (R.S. 4931). Language is changed sligh
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–211 substituted “15 years” for “fourteen years”.
+<b>2012</b>—Pub. L. 112–211 substituted "15 years" for "fourteen years".
 
-<b>1994</b>—Pub. L. 103–465 inserted “from the date of grant” after “years”.
+<b>1994</b>—Pub. L. 103–465 inserted "from the date of grant" after "years".
 
-<b>1982</b>—Pub. L. 97–247 substituted “Patents for designs shall be granted for the term of fourteen years” for “Patents for designs may be granted for the term of three years and six months, or for seven years, or for fourteen years, as the applicant, in his application, elects”.
+<b>1982</b>—Pub. L. 97–247 substituted "Patents for designs shall be granted for the term of fourteen years" for "Patents for designs may be granted for the term of three years and six months, or for seven years, or for fourteen years, as the applicant, in his application, elects".
 
 #### Effective Date of 2012 Amendment
 

@@ -2,11 +2,11 @@
 
 #### (a) Requirement of financial protection for licensees
 
-Each license issued under section 2133 or 2134 of this title and each construction permit issued under section 2235 of this title shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in section 2012(i) of this title, have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the “Commission”) in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b) of this section to cover public liability claims. Whenever such financial protection is required,it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c) of this section. The Commission may require, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
+Each license issued under section 2133 or 2134 of this title and each construction permit issued under section 2235 of this title shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in section 2012(i) of this title, have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the "Commission") in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b) of this section to cover public liability claims. Whenever such financial protection is required, it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c) of this section. The Commission may require, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
 
 #### (b) Amount and type of financial protection for licensees
 
-(1) The amount of primary financial protection required shall be the amount of liability insurance available from private sources, except that the Commission may establish a lesser amount on the basis of criteria set forth in writing, which it may revise from time to time, taking into consideration such factors as the following: (A) the cost and terms of private insurance, (B) the type, size, and location of the licensed activity and other factors pertaining to the hazard, and (C) the nature and purpose of the licensed activity: <i>Provided</i>, That for facilities designed for producing substantial amounts of electricity and having a rated capacity of 100,000 electrical kilowatts or more, the amount of primary financial protection required shall be the maximum amount available at reasonable cost and on reasonable terms from private sources (excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection). Such primary financial protection may include private insurance, private contractual indemnities, self-insurance, other proof of financial responsibility, or a combination of such measures and shall be subject to such terms and conditions as the Commission may, by rule, regulation, or order, prescribe. The Commission shall require licensees that are required to have and maintain primary financial protection equal to the maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection, private liability insurance available under an industry retrospective rating plan providing for premium charges deferred in whole or major part until public liability from a nuclear incident exceeds or appears likely to exceed the level of the primary financial protection required of the licensee involved in the nuclear incident: <i>Provided</i>, That such insurance is available to, and required of, all of the licensees of such facilities without regard to the manner in which they obtain other types or amounts of such primary financial protection: <i>And provided further</i>, That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $95,800,000 (subject to adjustment for inflation under subsection (t) of this section), but not more than $15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t) of this section), for each facility for which such licensee is required to maintain the maximum amount of primary financial protection: <i>And provided further</i>, That the amount which may be charged a licensee following any nuclear incident shall not exceed the licensee's pro rata share of the aggregate public liability claims and costs (excluding legal costs subject to subsection (o)(1)(D) of this section, payment of which has not been authorized under such subsection) arising out of the nuclear incident. Payment of any State premium taxes which may be applicable to any deferred premium provided for in this chapter shall be the responsibility of the licensee and shall not be included in the retrospective premium established by the Commission.
+(1) The amount of primary financial protection required shall be the amount of liability insurance available from private sources, except that the Commission may establish a lesser amount on the basis of criteria set forth in writing, which it may revise from time to time, taking into consideration such factors as the following: (A) the cost and terms of private insurance, (B) the type, size, and location of the licensed activity and other factors pertaining to the hazard, and (C) the nature and purpose of the licensed activity: <i>Provided</i>, That for facilities designed for producing substantial amounts of electricity and having a rated capacity of 100,000 electrical kilowatts or more, the amount of primary financial protection required shall be the maximum amount available at reasonable cost and on reasonable terms from private sources (excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection). Such primary financial protection may include private insurance, private contractual indemnities, self-insurance, other proof of financial responsibility, or a combination of such measures and shall be subject to such terms and conditions as the Commission may, by rule, regulation, or order, prescribe. The Commission shall require licensees that are required to have and maintain primary financial protection equal tothe maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection, private liability insurance available under an industry retrospective rating plan providing for premium charges deferred in whole or major part until public liability from a nuclear incident exceeds or appears likely to exceed the level of the primary financial protection required of the licensee involved in the nuclear incident: <i>Provided</i>, That such insurance is available to, and required of, all of the licensees of such facilities without regard to the manner in which they obtain other types or amounts of such primary financial protection: <i>And provided further</i>, That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $95,800,000 (subject to adjustment for inflation under subsection (t) of this section), but not more than $15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t) of this section), for each facility for which such licensee is required to maintain the maximum amount of primary financial protection: <i>And provided further</i>, That the amount which may be charged a licensee following any nuclear incident shall not exceed the licensee's pro rata share of the aggregate public liability claims and costs (excluding legal costs subject to subsection (o)(1)(D) of this section, payment of which has not been authorized under such subsection) arising out of the nuclear incident. Payment of any State premium taxes which may be applicable to any deferred premium provided for in this chapter shall be the responsibility of the licensee and shall not be included in the retrospective premium established by the Commission.
 
 (2)(A) The Commission may, on a case by case basis, assess annual deferred premium amounts less than the standard annual deferred premium amount assessed under paragraph (1)—
 
@@ -38,7 +38,7 @@ The Commission shall, with respect to licenses issued between August 30, 1954, a
 
 #### (d) Indemnification of contractors by Department of Energy
 
-(1)(A) In addition to any other authority the Secretary of Energy (in this section referred to as the “Secretary”) may have, the Secretary shall, until December 31, 2025, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energy that involve the risk of public liability and that are not subject to financial protection requirements under subsection (b) of this section or agreements of indemnification under subsection (c) or (k) of this section.
+(1)(A) In addition to any other authority the Secretary of Energy (in this section referred to as the "Secretary") may have, the Secretary shall, until December 31, 2025, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energy that involve the risk of public liability and that are not subject to financial protection requirements under subsection (b) of this section or agreements of indemnification under subsection (c) or (k) of this section.
 
 (B)(i)(I) Beginning 60 days after August 20, 1988, agreements of indemnification under subparagraph (A) shall be the exclusive means of indemnification for public liability arising from activities described in such subparagraph, including activities conducted under a contract that contains an indemnification clause under Public Law 85–804 \[50 U.S.C. 1431 et seq.\] entered into between August 1, 1987, and August 20, 1988.
 
@@ -60,7 +60,7 @@ The Commission shall, with respect to licenses issued between August 30, 1954, a
 
 (6) The provisions of this subsection may be applicable to lump sum as well as cost type contracts and to contracts and projects financed in whole or in part by the Secretary.
 
-(7) A contractor with whom an agreement of indemnification has been executed under paragraph (1)(A) and who is engaged in activities connected with the underground detonation of a nuclear explosive device shall be liable, to the extent so indemnified under this subsection, for injuries or damage sustained as a result of such detonation in the same manner and to the same extent as would a private person acting as principal, and no immunity or defense founded in the Federal, State, or municipal character of the contractor or of the work to be performed under the contract shall be effective to bar such liability.
+(7) A contractor with whom an agreement of indemnification has been executed under paragraph (1)(A) and who is engaged in activities connected with the underground detonation of a nuclear explosive device shall be liable, to the extent so indemnified under this subsection, for injuries or damage sustained as a result of such detonation in the same manner and to the sameextent as would a private person acting as principal, and no immunity or defense founded in the Federal, State, or municipal character of the contractor or of the work to be performed under the contract shall be effective to bar such liability.
 
 #### (e) Limitation on aggregate public liability
 
@@ -88,7 +88,7 @@ The Commission or the Secretary, as appropriate, is authorized to collect a fee 
 
 #### (g) Use of services of private insurers
 
-In administering the provisions of this section, the Commission or the Secretary, as appropriate, shall use, to the maximum extent practicable, the facilities and services of private insurance organizations, and the Commission orthe Secretary, as appropriate, may contract to pay a reasonable compensation for such services. Any contract made under the provisions of this subsection may be made without regard to the provisions of section 6101 of title 41 upon a showing by the Commission or the Secretary, as appropriate, that advertising is not reasonably practicable and advance payments may be made.
+In administering the provisions of this section, the Commission or the Secretary, as appropriate, shall use, to the maximum extent practicable, the facilities and services of private insurance organizations, and the Commission or the Secretary, as appropriate, may contract to pay a reasonable compensation for such services. Any contract made under the provisions of this subsection may be made without regard to the provisions of section 6101 of title 41 upon a showing by the Commission or the Secretary, as appropriate, that advertising is not reasonably practicable and advance payments may be made.
 
 #### (h) Conditions of agreements of indemnification
 
@@ -130,7 +130,7 @@ The agreement of indemnification may contain such terms as the Commission or the
 
 &emsp;(ii) with full recognition of the constitutional right of the Senate to change the rules at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
-(B) For purposes of this paragraph, the term “resolution” means only a joint resolution of the Congress the matter after the resolving clause  of  which  is  as  follows:  “That  the                  approves the compensation plan numbered            submitted to the Congress on            , 19  .”, the first blank space therein being filled with the name of the resolving House and the other blank spaces being appropriately filled; but does not include a resolution which specifies more than one compensation plan.
+(B) For purposes of this paragraph, the term "resolution" means only a joint resolution of the Congress the matter after the resolving clause  of  which  is  as  follows:  "That  the                  approves the compensation plan numbered            submitted to the Congress on            , 19  .", the first blank space therein being filled with the name of the resolving House and the other blank spaces being appropriately filled; but does not include a resolution which specifies more than one compensation plan.
 
 (C) A resolution once introduced with respect to a compensation plan shall immediately be referred to a committee (and all resolutions with respect to the same compensation plan shall be referred to the same committee) by the President of the Senate.
 
@@ -140,7 +140,7 @@ The agreement of indemnification may contain such terms as the Commission or the
 
 (iii) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same compensation plan.
 
-(E)(i) When the committee has reported, or has been discharged from further consideration of, a resolution, it shall be at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+(E)(i) When the committee has reported, or has been discharged from further consideration of, a resolution, it shall be at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to moveto proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
 (ii) Debate on the resolution referred to in clause (i) of this subparagraph shall be limited to not more than ten hours, which shall be divided equally between those favoring and those opposing such resolution. A motion further to limit debate shall not be debatable. An amendment to, or motion to recommit, the resolution shall not be in order, and it shall not be in order to move to reconsider the vote by which such resolution was agreed to or disagreed to.
 
@@ -166,7 +166,7 @@ With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a)
 
 #### (l) Presidential commission on catastrophic nuclear accidents
 
-(1) Not later than 90 days after August 20, 1988, the President shall establish a commission (in this subsection referred to as the “study commission”) in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) to study means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1) of this section.
+(1) Not later than 90 days after August 20, 1988, the President shall establish a commission (in this subsection referred to as the "study commission") in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) to study means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1) of this section.
 
 (2)(A) The study commission shall consist of not less than 7 and not more than 11 members, who—
 
@@ -174,7 +174,7 @@ With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a)
 
 &emsp;(ii) shall be representative of a broad range of views and interests.
 
-(B) The members of the study commission shall be appointed in a manner that ensures thatnot more than a mere majority of the members are of the same political party.
+(B) The members of the study commission shall be appointed in a manner that ensures that not more than a mere majority of the members are of the same political party.
 
 (C) Each member of the study commission shall hold office until the termination of the study commission, but may be removed by the President for inefficiency, neglect of duty, or malfeasance in office.
 
@@ -222,15 +222,15 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 &emsp;(D) arises out of, results from, or occurs in the course of, the construction, possession, or operation of any facility licensed under section 2073, 2093, or 2111 of this title, for which the Commission has imposed as a condition of the license a requirement that the licensee have and maintain financial protection under subsection (a) of this section,
 
-&emsp;(E) arises out of, results from, or occurs in the course of, transportation of source material, byproduct material, or special nuclearmaterial to or from any facility licensed under section 2073, 2093, or 2111 of this title, for which the Commission has imposed as a condition of the license a requirement that the licensee have and maintain financial protection under subsection (a) of this section, or
+&emsp;(E) arises out of, results from, or occurs in the course of, transportation of source material, byproduct material, or special nuclear material to or from any facility licensed under section 2073, 2093, or 2111 of this title, for which the Commission has imposed as a condition of the license a requirement that the licensee have and maintain financial protection under subsection (a) of this section, or
 
 &emsp;(F) arises out of, results from, or occurs in the course of nuclear waste activities.<sup>3</sup>
 
-> the Commission or the Secretary, as appropriate, may incorporate provisions in indemnity agreements with licensees and contractors under this section, and may require provisions to be incorporated in insurance policies or contracts furnished as proof of financial protection, which waive (i) any issue or defense as to conduct of the claimant or fault of persons indemnified, (ii) any issue or defense as to charitable or governmental immunity, and (iii) any issue or defense based on any statute of limitations if suit is instituted within three years from the date on which the claimant first knew, or reasonably could have known, of his injury or damage and the cause thereof. The waiver of any such issue or defense shall be effective regardless of whether such issue or defense may otherwise be deemed jurisdictional or relating to an element in the cause of action. When so incorporated, such waivers shall be judicially enforcible in accordance with their terms by the claimant against the person indemnified. Such waivers shall not preclude a defense based upon a failure to take reasonable steps to mitigate damages, nor shall such waivers apply to injury or damage to a claimant or to a claimant's property which is intentionally sustained by the claimant or which results from a nuclear incident intentionally and wrongfully caused by the claimant. The waivers authorized in this subsection shall, as to indemnitors, be effective only with respect to those obligations set forth in the insurance policies or the contracts furnished as proof of financial protection and in the indemnity agreements. Such waivers shall not apply to, or prejudice the prosecution or defense of, any claim or portion of claim which is not within the protection afforded under (i) the terms of insurance policies or contracts furnished as proof of financial protection, or indemnity agreements, and (ii) the limit of liability provisions of subsection (e) of this section.
+> the Commission or the Secretary, as appropriate, may incorporate provisions in indemnity agreements with licensees and contractors under this section, and may require provisions to be incorporated in insurance policies or contracts furnished as proof of financial protection, which waive (i) any issue or defense as to conduct of the claimant or fault of persons indemnified, (ii) any issue or defense as to charitable or governmental immunity, and (iii) any issue or defense based on any statute of limitations if suit is instituted within three years from the date on which the claimant first knew, or reasonably could have known, of his injury or damage and the cause thereof. The waiver of any such issue or defense shall be effective regardless of whether such issue or defense may otherwise be deemed jurisdictional or relating to an element in the cause of action. When so incorporated, such waivers shall be judicially enforcible in accordance with their terms by the claimant against the person indemnified. Such waivers shall not preclude a defense based upon a failure to take reasonable steps to mitigate damages, nor shall such waivers apply to injury or damage to a claimant or to a claimant's property which is intentionally sustained by the claimant or which results from a nuclear incident intentionally and wrongfully caused by the claimant. The waivers authorized in this subsection shall, as to indemnitors, be effective only with respect to those obligations set forthin the insurance policies or the contracts furnished as proof of financial protection and in the indemnity agreements. Such waivers shall not apply to, or prejudice the prosecution or defense of, any claim or portion of claim which is not within the protection afforded under (i) the terms of insurance policies or contracts furnished as proof of financial protection, or indemnity agreements, and (ii) the limit of liability provisions of subsection (e) of this section.
 
 (2) With respect to any public liability action arising out of or resulting from a nuclear incident, the United States district court in the district where the nuclear incident takes place, or in the case of a nuclear incident taking place outside the United States, the United States District Court for the District of Columbia, shall have original jurisdiction without regard to the citizenship of any party or the amount in controversy. Upon motion of the defendant or of the Commission or the Secretary, as appropriate, any such action pending in any State court (including any such action pending on August 20, 1988) or United States district court shall be removed or transferred to the United States district court having venue under this subsection. Process of such district court shall be effective throughout the United States. In any action that is or becomes removable pursuant to this paragraph, a petition for removal shall be filed within the period provided in section 1446 of title 28 or within the 30-day period beginning on August 20, 1988, whichever occurs later.
 
-(3)(A) Following any nuclear incident, the chief judge of the United States district court having jurisdiction under paragraph (2) with respect to public liability actions (or the judicial council of the judicial circuit in which the nuclear incident occurs) may appoint a special caseload management panel (in this paragraph referred to as the “management panel”) to coordinate and assign (but not necessarily hear themselves) cases arising out of the nuclear incident, if—
+(3)(A) Following any nuclear incident, the chief judge of the United States district court having jurisdiction under paragraph (2) with respect to public liability actions (or the judicial council of the judicial circuit in which the nuclear incident occurs) may appoint a special caseload management panel (in this paragraph referred to as the "management panel") to coordinate and assign (but not necessarily hear themselves) cases arising out of the nuclear incident, if—
 
 &emsp;(i) a court, acting pursuant to subsection (o) of this section, determines that the aggregate amount of public liability is likely to exceed the amount of primary financial protection available under subsection (b) of this section (or an equivalent amount in the case of a contractor indemnified under subsection (d) of this section); or
 
@@ -318,11 +318,13 @@ No court may award punitive damages in any action with respect to a nuclear inci
 
 &emsp;(B) the previous adjustment under this paragraph.
 
-(3) For purposes of this subsection, the term “Consumer Price Index” means the Consumer Price Index for all urban consumers published by the Secretary of Labor.
+(3) For purposes of this subsection, the term "Consumer Price Index" means the Consumer Price Index for all urban consumers published by the Secretary of Labor.
 
 (Aug. 1, 1946, ch. 724, title I, §170, as added Pub. L. 85–256, §4, Sept. 2, 1957, 71 Stat. 576; amended Pub. L. 85–602, §§2, 2\[3\], Aug. 8, 1958, 72 Stat. 525; Pub. L. 85–744, Aug. 23, 1958, 72 Stat. 837; Pub. L. 87–206, §15, Sept. 6, 1961, 75 Stat. 479; Pub. L. 87–615, §§6, 7, Aug. 29, 1962, 76 Stat. 410; Pub. L. 88–394, §§2, 3, Aug. 1, 1964, 78 Stat. 376; Pub. L. 89–210, §§1–5, Sept. 29, 1965, 79 Stat. 855–857; Pub. L. 89–645, §§2, 3, Oct. 13, 1966, 80 Stat. 891; Pub. L. 94–197, §§2–14, Dec. 31, 1975, 89 Stat. 1111–1115; Pub. L. 100–408, §§2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), Aug. 20, 1988, 102 Stat. 1066–1068, 1070–1080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 105–362, title XII, §1201(b), Nov. 10, 1998, 112 Stat. 3292; Pub. L. 107–314, div. C, title XXXI, §3171, Dec. 2, 2002, 116 Stat. 2743; Pub. L. 108–7, div. O, §101, Feb. 20, 2003, 117 Stat. 551; Pub. L. 108–375, div. C, title XXXI, §3141, Oct. 28, 2004, 118 Stat. 2171; Pub. L. 109–58, title VI, §§602–608, Aug. 8, 2005, 119 Stat. 779–781; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (b)(1) and (h), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 Public Law 85–804, referred to in subsec. (d)(1)(B)(i)(I), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, as amended, which is classified generally to chapter 29 (§1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
@@ -332,59 +334,59 @@ The Federal Rules of Civil Procedure, referred to in subsec. (n)(3)(C)(v), (vi),
 
 #### Codification
 
-In subsec. (g), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5), as amended” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (g), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5), as amended" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58, §603(1), substituted “$95,800,000” for “$63,000,000” and “$15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t) of this section)” for “$10,000,000 in any 1 year” in second proviso of third sentence.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58, §603(1), substituted "$95,800,000" for "$63,000,000" and "$15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t) of this section)" for "$10,000,000 in any 1 year" in second proviso of third sentence.
 
 Subsec. (b)(5). Pub. L. 109–58, §608, added par. (5).
 
-Subsec. (c). Pub. L. 109–58, §602(a), substituted “licensees” for “licenses” in heading and substituted “December 31, 2025” for “December 31, 2003” in text wherever appearing.
+Subsec. (c). Pub. L. 109–58, §602(a), substituted "licensees" for "licenses" in heading and substituted "December 31, 2025" for "December 31, 2003" in text wherever appearing.
 
-Subsec. (d)(1)(A). Pub. L. 109–58, §602(b), substituted “December 31, 2025” for “December 31, 2006”.
+Subsec. (d)(1)(A). Pub. L. 109–58, §602(b), substituted "December 31, 2025" for "December 31, 2006".
 
-Subsec. (d)(2). Pub. L. 109–58, §604(a), added par. (2) and struck out former par. (2) which read as follows: “In agreements of indemnification entered into under paragraph (1), the Secretary may require the contractor to provide and maintain financial protection of such a type and in such amounts as the Secretary shall determine to be appropriate to cover public liability arising out of or in connection with the contractual activity, and shall indemnify the persons indemnified against such claims above the amount of the financial protection required, to the full extent of the aggregate public liability of the persons indemnified for each nuclear incident, including such legal costs of the contractor as are approved by the Secretary.”
+Subsec. (d)(2). Pub. L. 109–58, §604(a), added par. (2) and struck out former par. (2) which read as follows: "In agreements of indemnification entered into under paragraph (1), the Secretary may require the contractor to provide and maintain financial protection of such a type and in such amounts as the Secretary shall determine to be appropriate to cover public liability arising out of or in connection with the contractual activity, and shall indemnify the persons indemnified against such claims above the amount of the financial protection required, to the full extent of the aggregate public liability of the persons indemnified for each nuclear incident, including such legal costs of the contractor as are approved by the Secretary."
 
 Subsec. (d)(3). Pub. L. 109–58, §604(b), added par. (3) and struck out former par. (3) which read as follows:
 
-“(3)(A) Notwithstanding paragraph (2), if the maximum amount of financial protection required of licensees under subsection (b) of this section is increased by the Commission, the amount of indemnity, together with any financial protection required of the contractor, shall at all times remain equal to or greater than the maximum amount of financial protection required of licensees under subsection (b) of this section.
+"(3)(A) Notwithstanding paragraph (2), if the maximum amount of financial protection required of licensees under subsection (b) of this section is increased by the Commission, the amount of indemnity, together with any financial protection required of the contractor, shall at all times remain equal to or greater than the maximum amount of financial protection required of licensees under subsection (b) of this section.
 
-“(B) The amount of indemnity provided contractors under this subsection shall not, at any time, be reduced in the event that the maximum amount of financial protection required of licensees is reduced.
+"(B) The amount of indemnity provided contractors under this subsection shall not, at any time, be reduced in the event that the maximum amount of financial protection required of licensees is reduced.
 
-“(C) All agreements of indemnification under which the Department of Energy (or its predecessor agencies) may be required to indemnify any person, shall be deemed to be amended, on August 20, 1988, to reflect the amount of indemnity for public liability and any applicable financial protection required of the contractor under this subsection on August 20, 1988.”
+"(C) All agreements of indemnification under which the Department of Energy (or its predecessor agencies) may be required to indemnify any person, shall be deemed to be amended, on August 20, 1988, to reflect the amount of indemnity for public liability and any applicable financial protection required of the contractor under this subsection on August 20, 1988."
 
-Subsec. (d)(5). Pub. L. 109–58, §605(a), substituted “$500,000,000” for “$100,000,000”.
+Subsec. (d)(5). Pub. L. 109–58, §605(a), substituted "$500,000,000" for "$100,000,000".
 
-Subsec. (e)(1)(B). Pub. L. 109–58, §604(c), struck out “the maximum amount of financial protection required under subsection (b) of this section or” before “the amount of indemnity” and substituted “paragraph (2) of subsection (d) of this section” for “paragraph (3) of subsection (d) of this section, whichever amount is more”.
+Subsec. (e)(1)(B). Pub. L. 109–58, §604(c), struck out "the maximum amount of financial protection required under subsection (b) of this section or" before "the amount of indemnity" and substituted "paragraph (2) of subsection (d) of this section" for "paragraph (3) of subsection (d) of this section, whichever amount is more".
 
-Subsec. (e)(4). Pub. L. 109–58, §605(b), substituted “$500,000,000” for “$100,000,000”.
+Subsec. (e)(4). Pub. L. 109–58, §605(b), substituted "$500,000,000" for "$100,000,000".
 
-Subsec. (k). Pub. L. 109–58, §602(c), substituted “December 31, 2025” for “August 1, 2002” wherever appearing.
+Subsec. (k). Pub. L. 109–58, §602(c), substituted "December 31, 2025" for "August 1, 2002" wherever appearing.
 
-Subsec. (p). Pub. L. 109–58, §606, substituted “December 31, 2021” for “August 1, 1998”.
+Subsec. (p). Pub. L. 109–58, §606, substituted "December 31, 2021" for "August 1, 1998".
 
-Subsec. (t)(1). Pub. L. 109–58, §603(2), inserted “total and annual” before “standard deferred premium” in introductory provisions and substituted “August 20, 2003” for “August 20, 1988” in introductory provisions and subpar. (A).
+Subsec. (t)(1). Pub. L. 109–58, §603(2), inserted "total and annual" before "standard deferred premium" in introductory provisions and substituted "August 20, 2003" for "August 20, 1988" in introductory provisions and subpar. (A).
 
 Subsec. (t)(2), (3). Pub. L. 109–58, §607, added par. (2) and redesignated former par. (2) as (3).
 
-<b>2004</b>—Subsec. (d)(1)(A). Pub. L. 108–375 substituted “until December 31, 2006” for “until December 31, 2004”.
+<b>2004</b>—Subsec. (d)(1)(A). Pub. L. 108–375 substituted "until December 31, 2006" for "until December 31, 2004".
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–7 substituted “December 31, 2003” for “August 1, 2002” wherever appearing.
+<b>2003</b>—Subsec. (c). Pub. L. 108–7 substituted "December 31, 2003" for "August 1, 2002" wherever appearing.
 
-<b>2002</b>—Subsec. (d)(1)(A). Pub. L. 107–314 substituted “until December 31, 2004,” for “until August 1, 2002,”.
+<b>2002</b>—Subsec. (d)(1)(A). Pub. L. 107–314 substituted "until December 31, 2004," for "until August 1, 2002,".
 
-<b>1998</b>—Subsec. (p). Pub. L. 105–362 struck out par. (1) designation and struck out par. (2) which read as follows: “Not later than April 1 of each year, the Commission and the Secretary shall each submit an annual report to the Congress setting forth the activities under this section during the preceding calendar year.”
+<b>1998</b>—Subsec. (p). Pub. L. 105–362 struck out par. (1) designation and struck out par. (2) which read as follows: "Not later than April 1 of each year, the Commission and the Secretary shall each submit an annual report to the Congress setting forth the activities under this section during the preceding calendar year."
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–408, §16(e)(1), inserted “Requirement of financial protection for licensees” as heading.
+<b>1988</b>—Subsec. (a). Pub. L. 100–408, §16(e)(1), inserted "Requirement of financial protection for licensees" as heading.
 
-Pub. L. 100–408, §16(d)(4), substituted “section 2i.” for “subsection 2i. of the Atomic Energy Act of 1954, as amended”, “subsection b.” for “subsection 170b.”, and “subsection c.” for “subsection 170c.”, which for purposes of codification were translated as “section 2012(i) of this title”, “subsection (b) of this section”, and “subsection (c) of this section”, respectively, thus requiring no change in text.
+Pub. L. 100–408, §16(d)(4), substituted "section 2i." for "subsection 2i. of the Atomic Energy Act of 1954, as amended", "subsection b." for "subsection 170b.", and "subsection c." for "subsection 170c.", which for purposes of codification were translated as "section 2012(i) of this title", "subsection (b) of this section", and "subsection (c) of this section", respectively, thus requiring no change in text.
 
-Pub. L. 100–408, §16(a)(2), substituted “the Nuclear Regulatory Commission (in this section referred to as the ‘Commission’) in the exercise” for “the Commission in the exercise”.
+Pub. L. 100–408, §16(a)(2), substituted "the Nuclear Regulatory Commission (in this section referred to as the 'Commission') in the exercise" for "the Commission in the exercise".
 
-Subsec. (b). Pub. L. 100–408, §16(e)(2), inserted “Amount and type of financial protection for licensees” as heading.
+Subsec. (b). Pub. L. 100–408, §16(e)(2), inserted "Amount and type of financial protection for licensees" as heading.
 
-Subsec. (b)(1). Pub. L. 100–408, §2(a)–(c)(3), inserted par. (1) designation, inserted “primary” after “The amount of”, “the amount of”, “Such”, and “of such”, redesignated cls. (1) to (3) as (A) to (C), inserted “(excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection)”, substituted “The Commission shall require licensees that are required to have and maintain primary financial protection equal to the maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection,” for “In prescribing such terms and conditions for licensees required to have and maintain financial protection equal to the maximum amount of liability insurance available from private sources, the Commission shall, by rule initially prescribed not later than twelve months from December 31, 1975, include, in determining such maximum amount”, substituted “That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $63,000,000 (subject to adjustment for inflation under subsection (t) of this section), but not more than $10,000,000 in any 1 year, for each facility for which such licensee is required to maintain the maximum amount of primary financial protection” for “That the standard deferred premium which may be charged following any nuclear incident under such a plan shall be not less than $2,000,000 nor more than $5,000,000 for each facility required to maintain the maximum amount of financial protection”, inserted “(excluding legal costs subject to subsection (o)(1)(D) of this section, payment of which has not been authorized under such subsection)”, and struck out “The Commission is authorized to establish a maximum amount which the aggregate deferred premiums charged for each facility within one calendar year may not exceed. The Commission may establish amounts less than the standard premium for individual facilities taking into account such factors as the facility's size, location, and other factors pertaining to the hazard.”
+Subsec. (b)(1). Pub. L. 100–408, §2(a)–(c)(3), inserted par. (1) designation, inserted "primary" after "The amount of", "the amount of", "Such", and "of such", redesignated cls. (1) to (3) as (A) to (C), inserted "(excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection)", substituted "The Commission shall require licensees that are required to have and maintain primary financial protection equal to the maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection," for "In prescribing such terms and conditions for licensees required to have and maintain financial protection equal to the maximum amount of liability insurance available from private sources, the Commission shall, by rule initially prescribed not later than twelve months from December 31, 1975, include, in determining such maximum amount", substituted "That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $63,000,000 (subject to adjustment for inflation under subsection (t) of this section), but not more than $10,000,000 in any 1 year, for each facility for which such licensee is required to maintain the maximum amount of primary financial protection" for "That the standard deferred premium which may be charged following any nuclear incident under such a plan shall be not less than $2,000,000 nor more than $5,000,000 for each facility required to maintain the maximum amount of financial protection", inserted "(excluding legal costs subject to subsection (o)(1)(D) of this section, payment of which has not been authorized under such subsection)", and struck out "The Commission is authorized to establish a maximum amount which the aggregate deferred premiums charged for each facility within one calendar year may not exceed. The Commission may establish amountsless than the standard premium for individual facilities taking into account such factors as the facility's size, location, and other factors pertaining to the hazard."
 
 Subsec. (b)(2). Pub. L. 100–408, §2(c)(4), added par. (2).
 
@@ -392,73 +394,73 @@ Subsec. (b)(3). Pub. L. 100–408, §2(d)(1), inserted par. (3) designation.
 
 Subsec. (b)(4). Pub. L. 100–408, §2(d)(2), added par. (4).
 
-Subsec. (c). Pub. L. 100–408, §16(e)(3), inserted “Indemnification of licenses by Nuclear Regulatory Commission” as heading.
+Subsec. (c). Pub. L. 100–408, §16(e)(3), inserted "Indemnification of licenses by Nuclear Regulatory Commission" as heading.
 
-Pub. L. 100–408, §3, substituted “August 1, 2002” for “August 1, 1987” wherever appearing.
+Pub. L. 100–408, §3, substituted "August 1, 2002" for "August 1, 1987" wherever appearing.
 
-Subsec. (d). Pub. L. 100–408, §4(a), inserted “Indemnification of contractors by Department of Energy” as heading and completely revised and expanded subsec. (d), changing its structure from a single unnumbered subsection to one consisting of seven numbered paragraphs.
+Subsec. (d). Pub. L. 100–408, §4(a), inserted "Indemnification of contractors by Department of Energy" as heading and completely revised and expanded subsec. (d), changing its structure from a single unnumbered subsection to one consisting of seven numbered paragraphs.
 
-Subsec. (e). Pub. L. 100–408, §6, inserted “Limitation on aggregate public liability” as heading and completely revised and expanded subsec. (e), changing its structure from a single unnumbered subsection to one consisting of four numbered paragraphs.
+Subsec. (e). Pub. L. 100–408, §6, inserted "Limitation on aggregate public liability" as heading and completely revised and expanded subsec. (e), changing its structure from a single unnumbered subsection to one consisting of four numbered paragraphs.
 
-Subsec. (f). Pub. L. 100–408, §16(e)(4), inserted “Collection of fees by Nuclear Regulatory Commission” as heading.
+Subsec. (f). Pub. L. 100–408, §16(e)(4), inserted "Collection of fees by Nuclear Regulatory Commission" as heading.
 
-Pub. L. 100–408, §16(b)(3), inserted “or the Secretary, as appropriate,” in two places.
+Pub. L. 100–408, §16(b)(3), inserted "or the Secretary, as appropriate," in two places.
 
-Subsec. (g). Pub. L. 100–408, §16(e)(5), inserted “Use of services of private insurers” as heading.
+Subsec. (g). Pub. L. 100–408, §16(e)(5), inserted "Use of services of private insurers" as heading.
 
-Pub. L. 100–408, §16(c)(1), substituted “section 3709 of the Revised Statutes (41 U.S.C. 5)” for “section 3709 of the Revised Statutes”, which for purposes of codification was translated as “section 5 of title 41”, thus requiring no change in text.
+Pub. L. 100–408, §16(c)(1), substituted "section 3709 of the Revised Statutes (41 U.S.C. 5)" for "section 3709 of the Revised Statutes", which for purposes of codification was translated as "section 5 of title 41", thus requiring no change in text.
 
-Pub. L. 100–408, §16(b)(4), inserted “or the Secretary, as appropriate,” after “Commission”, wherever appearing.
+Pub. L. 100–408, §16(b)(4), inserted "or the Secretary, as appropriate," after "Commission", wherever appearing.
 
-Subsec. (h). Pub. L. 100–408, §16(e)(6), inserted “Conditions of agreements of indemnification” as heading.
+Subsec. (h). Pub. L. 100–408, §16(e)(6), inserted "Conditions of agreements of indemnification" as heading.
 
-Pub. L. 100–408, §16(b)(4), inserted “or the Secretary, as appropriate,” after “Commission”, wherever appearing.
+Pub. L. 100–408, §16(b)(4), inserted "or the Secretary, as appropriate," after "Commission", wherever appearing.
 
-Subsec. (i). Pub. L. 100–408, §7(a), inserted “Compensation plans” as heading and completely revised and expanded subsec. (i), changing its structure from a single unnumbered subsection to one consisting of six numbered paragraphs.
+Subsec. (i). Pub. L. 100–408, §7(a), inserted "Compensation plans" as heading and completely revised and expanded subsec. (i), changing its structure from a single unnumbered subsection to one consisting of six numbered paragraphs.
 
-Subsec. (j). Pub. L. 100–408, §16(e)(7), inserted “Contracts in advance of appropriations” as heading.
+Subsec. (j). Pub. L. 100–408, §16(e)(7), inserted "Contracts in advance of appropriations" as heading.
 
-Pub. L. 100–408, §16(c)(2), substituted “sections 1341, 1342, 1349, 1350, and 1351, and subchapter II of chapter 15, of title 31” for “section 3679 of the Revised Statutes, as amended”.
+Pub. L. 100–408, §16(c)(2), substituted "sections 1341, 1342, 1349, 1350, and 1351, and subchapter II of chapter 15, of title 31" for "section 3679 of the Revised Statutes, as amended".
 
-Pub. L. 100–408, §16(b)(4), inserted “or the Secretary, as appropriate,”.
+Pub. L. 100–408, §16(b)(4), inserted "or the Secretary, as appropriate,".
 
-Subsec. (k). Pub. L. 100–408, §16(e)(8), inserted “Exemption from financial protection requirement for nonprofit educational institutions” as heading.
+Subsec. (k). Pub. L. 100–408, §16(e)(8), inserted "Exemption from financial protection requirement for nonprofit educational institutions" as heading.
 
-Pub. L. 100–408, §16(d)(5), in introductory provisions substituted “subsection a” for “subsection 170a”, which for purposes of codification was translated as “subsection (a) of this section”, thus requiring no change in text.
+Pub. L. 100–408, §16(d)(5), in introductory provisions substituted "subsection a" for "subsection 170a", which for purposes of codification was translated as "subsection (a) of this section", thus requiring no change in text.
 
-Pub. L. 100–408, §8(1), substituted “August 1, 2002” for “August 1, 1987”, wherever appearing in introductory and closing provisions.
+Pub. L. 100–408, §8(1), substituted "August 1, 2002" for "August 1, 1987", wherever appearing in introductory and closing provisions.
 
-Subsec. (k)(1). Pub. L. 100–408, §8(2), substituted “including such legal costs of the licensee as are approved by the Commission” for “excluding cost of investigating and settling claims and defending suits for damage”.
+Subsec. (k)(1). Pub. L. 100–408, §8(2), substituted "including such legal costs of the licensee as are approved by the Commission" for "excluding cost of investigating and settling claims and defending suits for damage".
 
-Subsec. (l). Pub. L. 100–408, §9, inserted “Presidential commission on catastrophic nuclear accidents” as heading and completely revised and expanded subsec. (l), changing its structure from a single unnumbered subsection to one consisting of six numbered paragraphs.
+Subsec. (l). Pub. L. 100–408, §9, inserted "Presidential commission on catastrophic nuclear accidents" as heading and completely revised and expanded subsec. (l), changing its structure from a single unnumbered subsection to one consisting of six numbered paragraphs.
 
-Subsec. (m). Pub. L. 100–408, §16(e)(9), inserted “Coordinated procedures for prompt settlement of claims and emergency assistance” as heading.
+Subsec. (m). Pub. L. 100–408, §16(e)(9), inserted "Coordinated procedures for prompt settlement of claims and emergency assistance" as heading.
 
-Pub. L. 100–408, §16(b)(4), inserted “or the Secretary, as appropriate,” after “Commission” wherever appearing.
+Pub. L. 100–408, §16(b)(4), inserted "or the Secretary, as appropriate," after "Commission" wherever appearing.
 
-Subsec. (n). Pub. L. 100–408, §16(e)(10), inserted “Waiver of defenses and judicial procedures” as heading.
+Subsec. (n). Pub. L. 100–408, §16(e)(10), inserted "Waiver of defenses and judicial procedures" as heading.
 
-Subsec. (n)(1). Pub. L. 100–408, §§10, 16(b)(5)(A), (d)(6), redesignated existing subpars. (a), (b), and (c) as (A), (B), and (C), respectively, added subpars. (D), (E), and (F), substituted “a Department of Energy contractor” for “a Commission contractor” in subpar. (C), and, in closing provisions inserted “, or the Secretary, as appropriate,” after “the Commission”, struck out “, but in no event more than twenty years after the date of the nuclear incident” after “and the cause thereof”, and substituted “subsection e” for “subsection 170e”, which for purposes of codification was translated as “subsection (e) of this section”, requiring no change in text.
+Subsec. (n)(1). Pub. L. 100–408, §§10, 16(b)(5)(A), (d)(6), redesignated existing subpars. (a), (b), and (c) as (A), (B), and (C), respectively, added subpars. (D), (E), and (F), substituted "a Department of Energy contractor" for "a Commission contractor" in subpar. (C), and, in closing provisions inserted ", or the Secretary, as appropriate," after "the Commission", struck out ", but in no event more than twenty years after the date of the nuclear incident" after "and the cause thereof", and substituted "subsection e" for "subsection 170e", which for purposes of codification was translated as "subsection (e) of this section", requiring no change in text.
 
-Subsec. (n)(2). Pub. L. 100–408, §16(b)(5)(B), inserted “or the Secretary, as appropriate” after “Commission”.
+Subsec. (n)(2). Pub. L. 100–408, §16(b)(5)(B), inserted "or the Secretary, as appropriate" after "Commission".
 
-Pub. L. 100–408, §11(a), substituted “a nuclear incident” for “an extraordinary nuclear occurrence” in two places and “the nuclear incident” for “the extraordinary nuclear occurrence”, and inserted “(including any such action pending on August 20, 1988)”, and “In any action that is or becomes removable pursuant to this paragraph, a petition for removal shall be filed within the period provided in section 1446 of title 28 or within the 30-day period beginning on August 20, 1988, whichever occurs later.”
+Pub. L. 100–408, §11(a), substituted "a nuclear incident" for "an extraordinary nuclear occurrence" in two places and "the nuclear incident" for "the extraordinary nuclear occurrence", and inserted "(including any such action pending on August 20, 1988)", and "In any action that is or becomes removable pursuant to this paragraph, a petition for removal shall be filed within the period provided in section 1446 of title 28 or within the 30-day period beginning on August 20, 1988, whichever occurs later."
 
 Subsec. (n)(3). Pub. L. 100–408, §11(c), added par. (3).
 
-Subsec. (o). Pub. L. 100–408, §11(d)(1), inserted “Plan for distribution of funds” as heading, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added subpars. (D) and (E) and par. (2).
+Subsec. (o). Pub. L. 100–408, §11(d)(1), inserted "Plan for distribution of funds" as heading, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added subpars. (D) and (E) and par. (2).
 
-Subsec. (o)(1). Pub. L. 100–408, §7(b)(1), substituted “the applicable limit of liability under subparagraph\(A), (B), or (C) of subsection (e)(1) of this section” for “subsection (e) of this section” in introductory provisions.
+Subsec. (o)(1). Pub. L. 100–408, §7(b)(1), substituted "the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section" for "subsection (e) of this section" in introductory provisions.
 
-Subsec. (o)(1)(B). Pub. L. 100–408, §16(d)(7), substituted “subparagraph (C)” for “subparagraph (3) of this subsection (o)”.
+Subsec. (o)(1)(B). Pub. L. 100–408, §16(d)(7), substituted "subparagraph (C)" for "subparagraph (3) of this subsection (o)".
 
-Subsec. (o)(1)(C). Pub. L. 100–408, §16(b)(6), inserted “or the Secretary, as appropriate,” after first reference to “Commission” and “or the Secretary as appropriate” after second reference to “Commission”.
+Subsec. (o)(1)(C). Pub. L. 100–408, §16(b)(6), inserted "or the Secretary, as appropriate," after first reference to "Commission" and "or the Secretary as appropriate" after second reference to "Commission".
 
-Subsec. (o)(4). Pub. L. 100–408, §7(b)(2), struck out par. (4) which read as follows: “The Commission shall, within ninety days after a court shall have made such determination, deliver to the Joint Committee a supplement to the report prepared in accordance with subsection (i) of this section setting forth the estimated requirements for full compensation and relief of all claimants, and recommendations as to the relief to be provided.”
+Subsec. (o)(4). Pub. L. 100–408, §7(b)(2), struck out par. (4) which read as follows: "The Commission shall, within ninety days after a court shall have made such determination, deliver to the Joint Committee a supplement to the report prepared in accordance with subsection (i) of this section setting forth the estimated requirements for full compensation and relief of all claimants, and recommendations as to the relief to be provided."
 
-Subsec. (p). Pub. L. 100–408, §16(e)(11), inserted “Reports to Congress” as heading.
+Subsec. (p). Pub. L. 100–408, §16(e)(11), inserted "Reports to Congress" as heading.
 
-Pub. L. 100–408, §12, designated existing provisions as par. (1), substituted “and the Secretary shall submit to the Congress by August 1, 1998, detailed reports” for “shall submit to the Congress by August 1, 1983, a detailed report”, and added par. (2).
+Pub. L. 100–408, §12, designated existing provisions as par. (1), substituted "and the Secretary shall submit to the Congress by August 1, 1998, detailed reports" for "shall submit to the Congress by August 1, 1983, a detailed report", and added par. (2).
 
 Subsec. (q). Pub. L. 100–408, §5(c), added subsec. (q).
 
@@ -468,27 +470,27 @@ Subsec. (s). Pub. L. 100–408, §14, added subsec. (s).
 
 Subsec. (t). Pub. L. 100–408, §15, added subsec. (t).
 
-<b>1975</b>—Subsec. (a). Pub. L. 94–197, §2, inserted provision relating to the public purposes cited in section 2012(i) of this title and “in the exercise of its licensing and regulatory authority and responsibility” after “as the Commission”, and substituted “required, it may” for “required, it shall”.
+<b>1975</b>—Subsec. (a). Pub. L. 94–197, §2, inserted provision relating to the public purposes cited in section 2012(i) of this title and "in the exercise of its licensing and regulatory authority and responsibility" after "as the Commission", and substituted "required, it may" for "required, it shall".
 
 Subsec. (b). Pub. L. 94–197, §3, inserted requirement that for facilities having a rated capacity of 100,000 electrical kilowatts or more, the amount of financial protection required shall be at a reasonable cost and on reasonable terms, and requirement that financial protection be subject to such terms and conditions as the Commission, by rule, regulation or order prescribes, and established premium and funding standards and procedures for prescribing terms and conditions for licensees required to have and maintain financial protection equal to the maximum amount of liability insurance available from private sources. Notwithstanding the directory language that amendment be made to section 107 b. of the Atomic Energy Act of 1954, as amended, the amendment was executed to section 170 b. of the Atomic Energy Act of 1954, as amended, (subsec. (b) of this section) as the probable intent of Congress.
 
-Subsec. (c). Pub. L. 94–197, §4, substituted “and August 1, 1987, for which it requires financial protection of less than $560,000,000,” for “and August 1, 1977, for which it requires financial protection,”, “excluding” for “including the reasonable”, and “August 1, 1987” for “August 1, 1977” in text relating to any production or utilization facility.
+Subsec. (c). Pub. L. 94–197, §4, substituted "and August 1, 1987, for which it requires financial protection of less than $560,000,000," for "and August 1, 1977, for which it requires financial protection,", "excluding" for "including the reasonable", and "August 1, 1987" for "August 1, 1977" in text relating to any production or utilization facility.
 
-Subsec. (d). Pub. L. 94–197, §5, substituted “until August 1, 1987,” for “until August 1, 1977,” and “excluding” for “including the reasonable”.
+Subsec. (d). Pub. L. 94–197, §5, substituted "until August 1, 1987," for "until August 1, 1977," and "excluding" for "including the reasonable".
 
-Subsec. (e). Pub. L. 94–197, §6, designated existing provisions as cl. (1), added cl. (2), substituted proviso relating to Congressional review and action for proviso relating to aggregate liability exceeding the sum of $560,000,000, and substituted “<i>And provided further</i>” for “<i>Provided further</i>”.
+Subsec. (e). Pub. L. 94–197, §6, designated existing provisions as cl. (1), added cl. (2), substituted proviso relating to Congressional review and action for proviso relating to aggregate liability exceeding the sum of $560,000,000, and substituted "<i>And provided further</i>" for "<i>Provided further</i>".
 
 Subsec. (f). Pub. L. 94–197, §7, inserted proviso which authorized Commission to reduce the indemnity fee for persons with whom indemnification agreements have been executed in reasonable relation to increases in financial protection above a level of $60,000,000.
 
-Subsec. (h). Pub. L. 94–197, §8, substituted “shall not include” for “may include reasonable”.
+Subsec. (h). Pub. L. 94–197, §8, substituted "shall not include" for "may include reasonable".
 
-Subsec. (i). Pub. L. 94–197, §9, inserted “or which will probably result in public liability claims in excess of $560,000,000,” after “this section”, and requirement that Commission report extent of damage caused from a nuclear incident to the Congressmen of the affected districts and the Senators of the affected state and substituted provision relating to information concerning the national defense, for provisions relating to applicability of prohibition of sections 2161 to 2166 of this title, other laws or Executive order.
+Subsec. (i). Pub. L. 94–197, §9, inserted "or which will probably result in public liability claims in excess of $560,000,000," after "this section", and requirement that Commission report extent of damage caused from a nuclear incident to the Congressmen of the affected districts and the Senators of the affected state and substituted provision relating to information concerning the national defense, for provisions relating to applicability of prohibition of sections 2161 to 2166 of this title, other laws or Executive order.
 
-Subsec. (k). Pub. L. 94–197, §10, substituted “August 1, 1987” for “August 1, 1977” wherever appearing and substituted “excluding” for “including the reasonable” in par. (1).
+Subsec. (k). Pub. L. 94–197, §10, substituted "August 1, 1987" for "August 1, 1977" wherever appearing and substituted "excluding" for "including the reasonable" in par. (1).
 
-Subsec. (l). Pub. L. 94–197, §11, substituted “excluding” for “including the reasonable”.
+Subsec. (l). Pub. L. 94–197, §11, substituted "excluding" for "including the reasonable".
 
-Subsec. (n)(1)(iii). Pub. L. 94–197, §12, substituted “twenty years” for “ten years”.
+Subsec. (n)(1)(iii). Pub. L. 94–197, §12, substituted "twenty years" for "ten years".
 
 Subsec. (o)(3), (4). Pub. L. 94–197, §13, in par. (3) inserted provisions authorizing the establishment, in any plan for disposition of claims, of priorities between classes of claims and claimants to extent necessary to ensure the most equitable allocation of available funds, and added par. (4).
 
@@ -498,15 +500,15 @@ Subsec. (p). Pub. L. 94–197, §14, added subsec. (p).
 
 Subsecs. (m) to (o). Pub. L. 89–645, §3, added subsecs. (m) to (o).
 
-<b>1965</b>—Subsec. (c). Pub. L. 89–210, §1, substituted “August 1, 1977” for “August 1, 1967” wherever appearing, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
+<b>1965</b>—Subsec. (c). Pub. L. 89–210, §1, substituted "August 1, 1977" for "August 1, 1967" wherever appearing, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
 
-Subsec. (d). Pub. L. 89–210, §2, substituted “August 1, 1977” for “August 1, 1967,” and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
+Subsec. (d). Pub. L. 89–210, §2, substituted "August 1, 1977" for "August 1, 1967," and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
 
 Subsec. (e). Pub. L. 89–210, §3, inserted proviso prohibiting the aggregate liability to exceed the sum of $560,000,000.
 
-Subsec. (k). Pub. L. 89–210, §4, substituted “August 1, 1977” for “August 1, 1967” wherever appearing.
+Subsec. (k). Pub. L. 89–210, §4, substituted "August 1, 1977" for "August 1, 1967" wherever appearing.
 
-Subsec. (l). Pub. L. 89–210, §5, substituted “August 1, 1977” for “August 1, 1967” and “in the amount of $500,000,000” for “in the maximum amount provided by subsection (e) of this section”, inserted “in the aggregate for all persons indemnified in connection with each nuclear incident”, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
+Subsec. (l). Pub. L. 89–210, §5, substituted "August 1, 1977" for "August 1, 1967" and "in the amount of $500,000,000" for "in the maximum amount provided by subsection (e) of this section", inserted "in the aggregate for all persons indemnified in connection with each nuclear incident", and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–394, §2, provided that with respect to any facility for which a permit is issued between Aug. 30, 1954, and Aug. 1, 1967, the requirements of the subsection shall apply to any license issued subsequent to Aug. 1, 1967.
 
@@ -514,7 +516,7 @@ Subsec. (k). Pub. L. 88–394, §3, provided that with respect to any facility f
 
 <b>1962</b>—Subsec. (d). Pub. L. 87–615, §6, limited the amount of indemnity provided by the Commission for nuclear incidents occurring outside the United States to $100,000,000.
 
-Subsec. (e). Pub. L. 87–615, §7, inserted proviso limiting the aggregate liability in cases of nuclear incidentsoccurring outside the United States to which an indemnification agreement entered into under subsec. (d) of this section is applicable, to $100,000,000, and substituted “occurring outside the United States, the Commission or any person indemnified may apply to the United States District Court for the District of Columbia” for “caused by ships of the United States outside of the United States, the Commission or any person indemnified may apply to the appropriate district court of the United States having venue in bankruptcy matters over the location of the principal place of business of the shipping company owning or operating the ship”.
+Subsec. (e). Pub. L. 87–615, §7, inserted proviso limiting the aggregate liability in cases of nuclear incidents occurring outside the United States to which an indemnification agreement entered into under subsec. (d) of this section is applicable, to $100,000,000, and substituted "occurring outside the United States, the Commission or any person indemnified may apply to the United States District Court for the District of Columbia" for "caused by ships of the United States outside of the United States, the Commission or any person indemnified may apply to the appropriate district court of the United States having venue in bankruptcy matters over the location of the principal place of business of the shipping company owning or operating the ship".
 
 <b>1961</b>—Subsec. (d). Pub. L. 87–206 inserted provision for liability of contractor to extent of indemnification under this section free of defense of sovereign immunity.
 
@@ -526,11 +528,11 @@ Subsec. (l). Pub. L. 85–602, §2, added subsec. (l).
 
 #### Change of Name
 
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (l)(4)(C) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+"Administrator of the Federal Emergency Management Agency" substituted for "Director of the Federal Emergency Management Agency" in subsec. (l)(4)(C) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–58, title VI, §609, Aug. 8, 2005, 119 Stat. 781, provided that: “The amendments made by sections 603, 604, and 605 \[amending this section\] do not apply to a nuclear incident that occurs before the date of the enactment of this Act \[Aug. 8, 2005\].”
+Pub. L. 109–58, title VI, §609, Aug. 8, 2005, 119 Stat. 781, provided that: "The amendments made by sections 603, 604, and 605 \[amending this section\] do not apply to a nuclear incident that occurs before the date of the enactment of this Act \[Aug. 8, 2005\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -538,7 +540,7 @@ Amendment by Pub. L. 100–408 effective Aug. 20, 1988, and applicable with resp
 
 #### Short Title
 
-This section is popularly known as the “Price-Anderson Act” and also as the “Atomic Energy Damages Act”.
+This section is popularly known as the "Price-Anderson Act" and also as the "Atomic Energy Damages Act".
 
 #### Transfer of Functions
 
@@ -552,35 +554,35 @@ Advisory commissions established after Jan. 5, 1973, to terminate not later than
 
 #### Findings
 
-Pub. L. 106–245, §2, July 10, 2000, 114 Stat. 501, provided that: “Congress finds that—
+Pub. L. 106–245, §2, July 10, 2000, 114 Stat. 501, provided that: "Congress finds that—
 
-&emsp;“(1) the Radiation Exposure Compensation Act \[Pub. L. 101–426\] (42 U.S.C. 2210 note) recognized the responsibility of the Federal Government to compensate individuals who were harmed by the mining of radioactive materials or fallout from nuclear arms testing;
+&emsp;"(1) the Radiation Exposure Compensation Act \[Pub. L. 101–426\] (42 U.S.C. 2210 note) recognized the responsibility of the Federal Government to compensate individuals who were harmed by the mining of radioactive materials or fallout from nuclear arms testing;
 
-&emsp;“(2) a congressional oversight hearing conducted by the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate demonstrated that since enactment of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note), regulatory burdens have made it too difficult for some deserving individuals to be fairly and efficiently compensated;
+&emsp;"(2) a congressional oversight hearing conducted by the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate demonstrated that since enactment of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note), regulatory burdens have made it too difficult for some deserving individuals to be fairly and efficiently compensated;
 
-&emsp;“(3) reports of the Atomic Energy Commission and the National Institute for Occupational Safety and Health testify to the need to extend eligibility to States in which the Federal Government sponsored uranium mining and milling from 1941 through 1971;
+&emsp;"(3) reports of the Atomic Energy Commission and the National Institute for Occupational Safety and Health testify to the need to extend eligibility to States in which the Federal Government sponsored uranium mining and milling from 1941 through 1971;
 
-&emsp;“(4) scientific data resulting from the enactment of the Radiation\[–\]Exposed Veterans Compensation Act of 1988 (38 U.S.C. 101 note) \[Pub. L. 100–321, see Tables for classification\], and obtained from the Committee on the Biological Effects of Ionizing Radiations, and the President's Advisory Committee on Human Radiation Experiments provide medical validation for the extension of compensable radiogenic pathologies;
+&emsp;"(4) scientific data resulting from the enactment of the Radiation\[–\]Exposed Veterans Compensation Act of 1988 (38 U.S.C. 101 note) \[Pub. L. 100–321, see Tables for classification\], and obtained from the Committee on the Biological Effects of Ionizing Radiations, and the President's Advisory Committee on Human Radiation Experiments provide medical validation for the extension of compensable radiogenic pathologies;
 
-&emsp;“(5) above-ground uranium miners, millers and individuals who transported ore should be fairly compensated, in a manner similar to that provided for underground uranium miners, in cases in which those individuals suffered disease or resultant death, associated with radiation exposure, due to the failure of the Federal Government to warn and otherwise help protect citizens from the health hazards addressed by the Radiation Exposure Compensation Act of 1990 (42 U.S.C. 2210 note); and
+&emsp;"(5) above-ground uranium miners, millers and individuals who transported ore should be fairly compensated, in a manner similar to that provided for underground uranium miners, in cases in which those individuals suffered disease or resultant death, associated with radiation exposure, due to the failure of the Federal Government to warn and otherwise help protect citizens from the health hazards addressed by the Radiation Exposure Compensation Act of 1990 (42 U.S.C. 2210 note); and
 
-&emsp;“(6) it should be the responsibility of the Federal Government in partnership with State and local governments and appropriate healthcare organizations, to initiate and support programs designed for the early detection, prevention and education on radiogenic diseases in approved States to aid the thousands of individuals adversely affected by the mining of uranium and the testing of nuclear weapons for the Nation's weapons arsenal.”
+&emsp;"(6) it should be the responsibility of the Federal Government in partnership with State and local governments and appropriate healthcare organizations, to initiate and support programs designed for the early detection, prevention and education on radiogenic diseases in approved States to aid the thousands of individuals adversely affected by the mining of uranium and the testing of nuclear weapons for the Nation's weapons arsenal."
 
 #### Affidavits
 
 Pub. L. 106–245, §3(e)(2), July 10, 2000, 114 Stat. 507, provided that:
 
-“(A)
+"(A)
 
 In general.—The Attorney General shall take such action as may be necessary to ensure that the procedures established by the Attorney General under section 6 of the Radiation Exposure Compensation Act \[Pub. L. 101–426\] (42 U.S.C. 2210 note) provide that, in addition to any other material that may be used to substantiate employment history for purposes of determining working level months, an individual filing a claim under those procedures may make such a substantiation by means of an affidavit described in subparagraph (B).
 
-“(B)
+"(B)
 
 Affidavits.—An affidavit referred to under subparagraph (A) is an affidavit—
 
-&emsp;“(i) that meets such requirements as the Attorney General may establish; and
+&emsp;"(i) that meets such requirements as the Attorney General may establish; and
 
-&emsp;“(ii) is made by a person other than the individual filing the claim that attests to the employment history of the claimant.”
+&emsp;"(ii) is made by a person other than the individual filing the claim that attests to the employment history of the claimant."
 
 #### GAO Reports
 
@@ -590,561 +592,561 @@ Pub. L. 106–245, §3(i), July 10, 2000, 114 Stat. 508, which required General 
 
 Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended by Pub. L. 101–510, div. C, title XXXI, §§3139, 3140, Nov. 5, 1990, 104 Stat. 1835, 1837; Pub. L. 102–486, title XXX, §3018, Oct. 24, 1992, 106 Stat. 3131; Pub. L. 106–245, §3(a)–(e)(1), (f)–(h), July 10, 2000, 114 Stat. 502–508; Pub. L. 107–107, div. A, title X, §1063, Dec. 28, 2001, 115 Stat. 1232; Pub. L. 107–273, div. C, title I, §11007(a), Nov. 2, 2002, 116 Stat. 1817; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–375, div. C, title XXXI, §3165(b), Oct. 28, 2004, 118 Stat. 2187; Pub. L. 108–447, div. B, title I, §122, Dec. 8, 2004, 118 Stat. 2870; Pub. L. 110–161, div. H, title I, §1502(g), Dec. 26, 2007, 121 Stat. 2250, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘Radiation Exposure Compensation Act’.
+"This Act may be cited as the 'Radiation Exposure Compensation Act'.
 
-#### “SEC. 2. FINDINGS, PURPOSE, AND APOLOGY.
+#### "SEC. 2. FINDINGS, PURPOSE, AND APOLOGY.
 
-“(a)
+"(a)
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) fallout emitted during the Government's atmospheric nuclear tests exposed individuals to radiation that is presumed to have generated an excess of cancers among these individuals;
+&emsp;"(1) fallout emitted during the Government's atmospheric nuclear tests exposed individuals to radiation that is presumed to have generated an excess of cancers among these individuals;
 
-&emsp;“(2) the health of the individuals who were exposed to radiation in these tests was put at risk to serve the national security interests of the United States;
+&emsp;"(2) the health of the individuals who were exposed to radiation in these tests was put at risk to serve the national security interests of the United States;
 
-&emsp;“(3) radiation released in underground uranium mines that were providing uranium for the primary use and benefit of the nuclear weapons program of the United States Government exposed miners to large doses of radiation and other airborne hazards in the mine environment that together are presumed to have produced an increased incidence of lung cancer and respiratory diseases among these miners;
+&emsp;"(3) radiation released in underground uranium mines that were providing uranium for the primary use and benefit of the nuclear weapons program of the United States Government exposed miners to large doses of radiation and other airborne hazards in the mine environment that together are presumed to have produced an increased incidence of lung cancer and respiratory diseases among these miners;
 
-&emsp;“(4) the United States should recognize and assume responsibility for the harm done to these individuals; and
+&emsp;"(4) the United States should recognize and assume responsibility for the harm done to these individuals; and
 
-&emsp;“(5) the Congress recognizes that the lives and health of uranium miners and of individuals who were exposed to radiation were subjected to increased risk of injury and disease to serve the national security interests of the United States.
+&emsp;"(5) the Congress recognizes that the lives and health of uranium miners and of individuals who were exposed to radiation were subjected to increased risk of injury and disease to serve the national security interests of the United States.
 
-“(b)
+"(b)
 
 Purpose.—It is the purpose of this Act to establish a procedure to make partial restitution to the individuals described in subsection (a) for the burdens they have borne for the Nation as a whole.
 
-“(c)
+"(c)
 
 Apology.—The Congress apologizes on behalf of the Nation to the individuals described in subsection (a) and their families for the hardships they have endured.
 
-#### “SEC. 3. TRUST FUND.
+#### "SEC. 3. TRUST FUND.
 
-“(a)
+"(a)
 
-Establishment.—There is established in the Treasury of the United States, a trust fund to be known as the ‘Radiation Exposure Compensation Trust Fund’ (hereinafter in this Act referred to as the ‘Fund’), which shall be administered by the Secretary of the Treasury.
+Establishment.—There is established in the Treasury of the United States, a trust fund to be known as the 'Radiation Exposure Compensation Trust Fund' (hereinafter in this Act referred to as the 'Fund'), which shall be administered by the Secretary of the Treasury.
 
-“(b)
+"(b)
 
 Investment of Amounts in the Fund.—Amounts in the Fund shall be invested in accordance with section 9702 of title 31, United States Code, and any interest on, and proceeds from any such investment shall be credited to and become a part of the Fund.
 
-“(c)
+"(c)
 
 Availability of the Fund.—Amounts in the Fund shall be available only for disbursement by the Attorney General under section 6.
 
-“(d)
+"(d)
 
 Termination.—The Fund shall terminate 22 years after the date of the enactment of the Radiation Exposure Compensation Act Amendments of 2000 \[July 10, 2000\]. If all of the amounts in the Fund have not been expended by the end of that 22-year period, investments of amounts in the Fund shall be liquidated and receipts thereof deposited in the Fund and all funds remaining in the Fund shall be deposited in the miscellaneous receipts account in the Treasury.
 
-“(e)
+"(e)
 
 Appropriation.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—There are appropriated to the Fund, out of any money in the Treasury not otherwise appropriated, for fiscal year 2002 and each fiscal year thereafter, such sums as may be necessary, not to exceed the applicable maximum amount specified in paragraph (2), to carry out the purposes of the Fund.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Limitation.—Appropriation of amounts to the Fund pursuant to paragraph (1) is subject to the following maximum amounts:
 
-&emsp;&emsp;“(A) For fiscal year 2002, $172,000,000.
+&emsp;&emsp;"(A) For fiscal year 2002, $172,000,000.
 
-&emsp;&emsp;“(B) For fiscal year 2003, $143,000,000.
+&emsp;&emsp;"(B) For fiscal year 2003, $143,000,000.
 
-&emsp;&emsp;“(C) For fiscal year 2004, $107,000,000.
+&emsp;&emsp;"(C) For fiscal year 2004, $107,000,000.
 
-&emsp;&emsp;“(D) For fiscal year 2005, $65,000,000.
+&emsp;&emsp;"(D) For fiscal year 2005, $65,000,000.
 
-#### “SEC. 4. CLAIMS RELATING TO ATMOSPHERIC NUCLEAR TESTING.
+#### "SEC. 4. CLAIMS RELATING TO ATMOSPHERIC NUCLEAR TESTING.
 
-“(a)
+"(a)
 
 Claims.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Claims relating to leukemia.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—An individual described in this subparagraph shall receive an amount specified in subparagraph (B) if the conditions described in subparagraph (C) are met. An individual referred to in the preceding sentence is an individual who—
 
-&emsp;&emsp;&emsp;“(i)(I) was physically present in an affected area for a period of at least 1 year during the period beginning on January 21, 1951, and ending on October 31, 1958;
+&emsp;&emsp;&emsp;"(i)(I) was physically present in an affected area for a period of at least 1 year during the period beginning on January 21, 1951, and ending on October 31, 1958;
 
-&emsp;&emsp;&emsp;“(II) was physically present in the affected area for the period beginning on June 30, 1962, and ending on July 31, 1962; or
+&emsp;&emsp;&emsp;"(II) was physically present in the affected area for the period beginning on June 30, 1962, and ending on July 31, 1962; or
 
-&emsp;&emsp;&emsp;“(III) participated onsite in a test involving the atmospheric detonation of a nuclear device; and
+&emsp;&emsp;&emsp;"(III) participated onsite in a test involving the atmospheric detonation of a nuclear device; and
 
-&emsp;&emsp;&emsp;“(ii) submits written documentation that such individual developed leukemia—
+&emsp;&emsp;&emsp;"(ii) submits written documentation that such individual developed leukemia—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) after the applicable period of physical presence described in subclause (I) or (II) of clause (i) or onsite participation described in clause (i)(III) (as the case may be); and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) after the applicable period of physical presence described in subclause (I) or (II) of clause (i) or onsite participation described in clause (i)(III) (as the case may be); and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) more that \[sic\] 2 years after first exposure to fallout.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) more that \[sic\] 2 years after first exposure to fallout.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Amounts.—If the conditions described in subparagraph (C) are met, an individual—
 
-&emsp;&emsp;&emsp;“(i) who is described in subclause (I) or (II) of subparagraph (A)(i) shall receive $50,000; or
+&emsp;&emsp;&emsp;"(i) who is described in subclause (I) or (II) of subparagraph (A)(i) shall receive $50,000; or
 
-&emsp;&emsp;&emsp;“(ii) who is described in subclause (III) of subparagraph (A)(i) shall receive $75,000.
+&emsp;&emsp;&emsp;"(ii) who is described in subclause (III) of subparagraph (A)(i) shall receive $75,000.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Conditions.—The conditions described in this subparagraph are as follows:
 
-&emsp;&emsp;&emsp;“(i) Initial exposure occurred prior to age 21.
+&emsp;&emsp;&emsp;"(i) Initial exposure occurred prior to age 21.
 
-&emsp;&emsp;&emsp;“(ii) The claim for a payment under subparagraph (B) is filed with the Attorney General by or on behalf of the individual.
+&emsp;&emsp;&emsp;"(ii) The claim for a payment under subparagraph (B) is filed with the Attorney General by or on behalf of the individual.
 
-&emsp;&emsp;&emsp;“(iii) The Attorney General determines, in accordance with section 6, that the claim meets the requirements of this Act.
+&emsp;&emsp;&emsp;"(iii) The Attorney General determines, in accordance with section 6, that the claim meets the requirements of this Act.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Claims Relating to Specified Diseases.—Any individual who—
 
-&emsp;&emsp;“(A) was physically present in the affected area for a period of at least 2 years during the period beginning on January 21, 1951, and ending on October 31, 1958,
+&emsp;&emsp;"(A) was physically present in the affected area for a period of at least 2 years during the period beginning on January 21, 1951, and ending on October 31, 1958,
 
-&emsp;&emsp;“(B) was physically present in the affected area for the period beginning on June 30, 1962, and ending on July 31, 1962, or
+&emsp;&emsp;"(B) was physically present in the affected area for the period beginning on June 30, 1962, and ending on July 31, 1962, or
 
-&emsp;&emsp;“(C) participated onsite in a test involving the atmospheric detonation of a nuclear device,
+&emsp;&emsp;"(C) participated onsite in a test involving the atmospheric detonation of a nuclear device,
 
 > &emsp;and who submits written medical documentation that he or she, after such period of physical presence or such participation (as the case may be), contracted a specified disease, shall receive $50,000 (in the case of an individual described in subparagraph (A) or (B)) or $75,000 (in the case of an individual described in subparagraph (C)), if—
 
-&emsp;&emsp;“(i) the claim for such payment is filed with the Attorney General by or on behalf of such individual, and
+&emsp;&emsp;"(i) the claim for such payment is filed with the Attorney General by or on behalf of such individual, and
 
-&emsp;&emsp;“(ii) the Attorney General determines, in accordance with section 6, that the claim meets the requirements of this Act.
+&emsp;&emsp;"(ii) the Attorney General determines, in accordance with section 6, that the claim meets the requirements of this Act.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Conformity with section 6.—Payments under this section may be made only in accordance with section 6.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Exclusion.—No payment may be made under this section on any claim of the Government of the Marshall Islands, or of any citizen or national of the Marshall Islands, that is referred to in Article X, Section 1 of the Agreement Between the Government of the United States and the Government of the Marshall Islands for the Implementation of section 177 of the Compact of Free Association (as approved by the Compact of Free Association Act of 1985 (Public Law 99–239) \[48 U.S.C. 1901 et seq., 2001 et seq.\]).
 
-“(b)
+"(b)
 
 Definitions.—For purposes of this section, the term—
 
-&emsp;“(1) ‘affected area’ means—
+&emsp;"(1) 'affected area' means—
 
-&emsp;&emsp;“(A) in the State of Utah, the counties of Washington, Iron, Kane, Garfield, Sevier, Beaver, Millard, Wayne, San Juan, and Piute;
+&emsp;&emsp;"(A) in the State of Utah, the counties of Washington, Iron, Kane, Garfield, Sevier, Beaver, Millard, Wayne, San Juan, and Piute;
 
-&emsp;&emsp;“(B) in the State of Nevada, the counties of White Pine, Nye, Lander, Lincoln, Eureka, and that portion of Clark County that consists of townships 13 through 16 at ranges 63 through 71; and
+&emsp;&emsp;"(B) in the State of Nevada, the counties of White Pine, Nye, Lander, Lincoln, Eureka, and that portion of Clark County that consists of townships 13 through 16 at ranges 63 through 71; and
 
-&emsp;&emsp;“(C) in the State of Arizona, the counties of Coconino, Yavapai, Navajo, Apache, and Gila, and that part of Arizona that is north of the Grand Canyon; and
+&emsp;&emsp;"(C) in the State of Arizona, the counties of Coconino, Yavapai, Navajo, Apache, and Gila, andthat part of Arizona that is north of the Grand Canyon; and
 
-&emsp;“(2) ‘specified disease’ means leukemia (other than chronic lymphocytic leukemia), provided that initial exposure occurred after the age of 20 and the onset of the disease was at least 2 years after first exposure, and the following diseases, provided onset was at least 5 years after first exposure: multiple myeloma, lymphomas (other than Hodgkin's disease), and primary cancer of the: thyroid, male or female breast, esophagus, stomach, pharynx, small intestine, pancreas, bile ducts, gall bladder, salivary gland, urinary bladder, brain, colon, ovary, liver (except if cirrhosis or hepatitis B is indicated), or lung.
+&emsp;"(2) 'specified disease' means leukemia (other than chronic lymphocytic leukemia), provided that initial exposure occurred after the age of 20 and the onset of the disease was at least 2 years after first exposure, and the following diseases, provided onset was at least 5 years after first exposure: multiple myeloma, lymphomas (other than Hodgkin's disease), and primary cancer of the: thyroid, male or female breast, esophagus, stomach, pharynx, small intestine, pancreas, bile ducts, gall bladder, salivary gland, urinary bladder, brain, colon, ovary, liver (except if cirrhosis or hepatitis B is indicated), or lung.
 
-#### “SEC. 5. CLAIMS RELATING TO URANIUM MINING.
+#### "SEC. 5. CLAIMS RELATING TO URANIUM MINING.
 
-“(a)
+"(a)
 
 Eligibility of Individuals.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—An individual shall receive $100,000 for a claim made under this Act if—
 
-&emsp;&emsp;“(A) that individual—
+&emsp;&emsp;"(A) that individual—
 
-&emsp;&emsp;&emsp;“(i) was employed in a uranium mine or uranium mill (including any individual who was employed in the transport of uranium ore or vanadium-uranium ore from such mine or mill) located in Colorado, New Mexico, Arizona, Wyoming, South Dakota, Washington, Utah, Idaho, North Dakota, Oregon, and Texas at any time during the period beginning on January 1, 1942, and ending on December 31, 1971; and
+&emsp;&emsp;&emsp;"(i) was employed in a uranium mine or uranium mill (including any individual who was employed in the transport of uranium ore or vanadium-uranium ore from such mine or mill) located in Colorado, New Mexico, Arizona, Wyoming, South Dakota, Washington, Utah, Idaho, North Dakota, Oregon, and Texas at any time during the period beginning on January 1, 1942, and ending on December 31, 1971; and
 
-&emsp;&emsp;&emsp;“(ii)(I) was a miner exposed to 40 or more working level months of radiation or worked for at least 1 year during the period described under clause (i) and submits written medical documentation that the individual, after that exposure, developed lung cancer or a nonmalignant respiratory disease; or
+&emsp;&emsp;&emsp;"(ii)(I) was a miner exposed to 40 or more working level months of radiation or worked for at least 1 year during the period described under clause (i) and submits written medical documentation that the individual, after that exposure, developed lung cancer or a nonmalignant respiratory disease; or
 
-&emsp;&emsp;&emsp;“(II) was a miller or ore transporter who worked for at least 1 year during the period described under clause (i) and submits written medical documentation that the individual, after that exposure, developed lung cancer or a nonmalignant respiratory disease or renal cancers and other chronic renal disease including nephritis and kidney tubal tissue injury;
+&emsp;&emsp;&emsp;"(II) was a miller or ore transporter who worked for at least 1 year during the period described under clause (i) and submits written medical documentation that the individual, after that exposure, developed lung cancer or a nonmalignant respiratory disease or renal cancers and other chronic renal disease including nephritis and kidney tubal tissue injury;
 
-&emsp;&emsp;“(B) the claim for that payment is filed with the Attorney General by or on behalf of that individual; and
+&emsp;&emsp;"(B) the claim for that payment is filed with the Attorney General by or on behalf of that individual; and
 
-&emsp;&emsp;“(C) the Attorney General determines, in accordance with section 6, that the claim meets the requirements of this Act.
+&emsp;&emsp;"(C) the Attorney General determines, in accordance with section 6, that the claim meets the requirements of this Act.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Inclusion of additional states.—Paragraph (1)(A)(i) shall apply to a State, in addition to the States named under such clause, if—
 
-&emsp;&emsp;“(A) a uranium mine was operated in such State at any time during the period beginning on January 1, 1942, and ending on December 31, 1971;
+&emsp;&emsp;"(A) a uranium mine was operated in such State at any time during the period beginning on January 1, 1942, and ending on December 31, 1971;
 
-&emsp;&emsp;“(B) the State submits an application to the Department of Justice to include such State; and
+&emsp;&emsp;"(B) the State submits an application to the Department of Justice to include such State; and
 
-&emsp;&emsp;“(C) the Attorney General makes a determination to include such State.
+&emsp;&emsp;"(C) the Attorney General makes a determination to include such State.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Payment requirement.—Each payment under this section may be made only in accordance with section 6.
 
-“(b)
+"(b)
 
 Definitions.—For purposes of this section—
 
-&emsp;“(1) the term ‘working level month of radiation’ means radiation exposure at the level of one working level every work day for a month, or an equivalent exposure over a greater or lesser amount of time;
+&emsp;"(1) the term 'working level month of radiation' means radiation exposure at the level of one working level every work day for a month, or an equivalent exposure over a greater or lesser amount of time;
 
-&emsp;“(2) the term ‘working level’ means the concentration of the short half-life daughters of radon that will release (1.3 × 10<sup>5</sup>) million electron volts of alpha energy per liter of air;
+&emsp;"(2) the term 'working level' means the concentration of the short half-life daughters of radon that will release (1.3 × 10<sup>5</sup>) million electron volts of alpha energy per liter of air;
 
-&emsp;“(3) the term ‘nonmalignant respiratory disease’ means fibrosis of the lung, pulmonary fibrosis, corpulmonale related to fibrosis of the lung, silicosis, and pneumoconiosis;
+&emsp;"(3) the term 'nonmalignant respiratory disease' means fibrosis of the lung, pulmonary fibrosis, corpulmonale related to fibrosis of the lung, silicosis, and pneumoconiosis;
 
-&emsp;“(4) the term ‘Indian tribe’ means any Indian tribe, band, nation, pueblo, or other organized group or community, that is recognized as eligible for special programs and services provided by the United States to Indian tribes because of their status as Indians;
+&emsp;"(4) the term 'Indian tribe' means any Indian tribe, band, nation, pueblo, or other organized group or community, that is recognized as eligible for special programs and services provided by the United States to Indian tribes because of their status as Indians;
 
-&emsp;“(5) the term ‘written medical documentation’ for purposes of proving a nonmalignant respiratory disease means, in any case in which the claimant is living—
+&emsp;"(5) the term 'written medical documentation' for purposes of proving a nonmalignant respiratory disease means, in any case in which the claimant is living—
 
-&emsp;&emsp;“(A)(i) an arterial blood gas study; or
+&emsp;&emsp;"(A)(i) an arterial blood gas study; or
 
-&emsp;&emsp;“(ii) a written diagnosis by a physician meeting the requirements of subsection (c)(1); and
+&emsp;&emsp;"(ii) a written diagnosis by a physician meeting the requirements of subsection (c)(1); and
 
-&emsp;&emsp;“(B)(i) a chest x-ray administered in accordance with standard techniques and the interpretive reports of a maximum of two National Institute of Occupational Health and Safety certified ‘B’ readers classifying the existence of the nonmalignant respiratory disease of category 1/0 or higher according to a 1989 report of the International Labor Office (known as the ‘ILO’), or subsequent revisions;
+&emsp;&emsp;"(B)(i) a chest x-ray administered in accordance with standard techniques and the interpretive reports of a maximum of two National Institute of Occupational Health and Safety certified 'B' readers classifying the existence of the nonmalignant respiratory disease of category 1/0 or higher according to a 1989 report of the International Labor Office (known as the 'ILO'), or subsequent revisions;
 
-&emsp;&emsp;“(ii) high resolution computed tomography scans (commonly known as ‘HRCT scans’) (including computer assisted tomography scans (commonly known as ‘CAT scans’), magnetic resonance imaging scans (commonly known as ‘MRI scans’), and positron emission tomography scans (commonly known as ‘PET scans’)) and interpretive reports of such scans;
+&emsp;&emsp;"(ii) high resolution computed tomography scans (commonly known as 'HRCT scans') (including computer assisted tomography scans (commonly known as 'CAT scans'), magnetic resonance imaging scans (commonly known as 'MRI scans'), and positron emission tomography scans (commonly known as 'PET scans')) and interpretive reports of such scans;
 
-&emsp;&emsp;“(iii) pathology reports of tissue biopsies; or
+&emsp;&emsp;"(iii) pathology reports of tissue biopsies; or
 
-&emsp;&emsp;“(iv) pulmonary function tests indicating restrictive lung function, as defined by the American Thoracic Society;
+&emsp;&emsp;"(iv) pulmonary function tests indicating restrictive lung function, as defined by the American Thoracic Society;
 
-&emsp;“(6) the term ‘lung cancer’—
+&emsp;"(6) the term 'lung cancer'—
 
-&emsp;&emsp;“(A) means any physiological condition of the lung, trachea, or bronchus that is recognized as lung cancer by the National Cancer Institute; and
+&emsp;&emsp;"(A) means any physiological condition of the lung, trachea, or bronchus that is recognized as lung cancer by the National Cancer Institute; and
 
-&emsp;&emsp;“(B) includes in situ lung cancers;
+&emsp;&emsp;"(B) includes in situ lung cancers;
 
-&emsp;“(7) the term ‘uranium mine’ means any underground excavation, including ‘dog holes’, as well as open pit, strip, rim, surface, or other aboveground mines, where uranium ore or vanadium-uranium ore was mined or otherwise extracted; and
+&emsp;"(7) the term 'uranium mine' means any underground excavation, including 'dog holes', as well as open pit, strip, rim, surface, or other aboveground mines, where uranium ore or vanadium-uranium ore was mined or otherwise extracted; and
 
-&emsp;“(8) the term ‘uranium mill’ includes milling operations involving the processing of uranium ore or vanadium-uranium ore, including both carbonate and acid leach plants.
+&emsp;"(8) the term 'uranium mill' includes milling operations involving the processing of uranium ore or vanadium-uranium ore, including both carbonate and acid leach plants.
 
-“(c)
+"(c)
 
 Written Documentation.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Diagnosis alternative to arterial blood gas study.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—For purposes of this Act, the written diagnosis and the accompanying interpretive reports described in subsection (b)(5)(A) shall—
 
-&emsp;&emsp;&emsp;“(i) be considered to be conclusive; and
+&emsp;&emsp;&emsp;"(i) be considered to be conclusive; and
 
-&emsp;&emsp;&emsp;“(ii) be subject to a fair and random audit procedure established by the Attorney General.
+&emsp;&emsp;&emsp;"(ii) be subject to a fair and random audit procedure established by the Attorney General.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Certain written diagnoses.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—For purposes of this Act, a written diagnosis made by a physician described under clause (ii) of a nonmalignant pulmonary disease of a claimant that is accompanied by written documentation shall be considered to be conclusive evidence of that disease.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Description of physicians.—A physician referred to under clause (i) is a physician who—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is employed by the Indian Health Service or the Department of Veterans Affairs; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) is employed by the Indian Health Service or the Department of Veterans Affairs; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) is a board certified physician; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) is a board certified physician; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) has a documented ongoing physician patient relationship with the claimant.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) has a documented ongoing physician patient relationship with the claimant.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Chest x-rays.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—For purposes of this Act, a chest x-ray and the accompanying interpretive reports described in subsection (b)(5)(B) shall—
 
-&emsp;&emsp;&emsp;“(i) be considered to be conclusive; and
+&emsp;&emsp;&emsp;"(i) be considered to be conclusive; and
 
-&emsp;&emsp;&emsp;“(ii) be subject to a fair and random audit procedure established by the Attorney General.
+&emsp;&emsp;&emsp;"(ii) be subject to a fair and random audit procedure established by the Attorney General.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Certain written diagnoses.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—For purposes of this Act, a written diagnosis made by a physician described in clause (ii) of a nonmalignant pulmonary disease of a claimant that is accompanied by written documentation that meets the definition of that term under subsection (b)(5) shall be considered to be conclusive evidence of that disease.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Description of physicians.—A physician referred to under clause (i) is a physician who—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is employed by—
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) is employed by—
 
-&emsp;&emsp;&emsp;“(aa) the Indian Health Service; or
+&emsp;&emsp;&emsp;"(aa) the Indian Health Service; or
 
-&emsp;&emsp;&emsp;“(bb) the Department of Veterans Affairs; and
+&emsp;&emsp;&emsp;"(bb) the Department of Veterans Affairs; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) has a documented ongoing physician patient relationship with the claimant.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) has a documented ongoing physician patient relationship with the claimant.
 
-#### “SEC. 6. DETERMINATION AND PAYMENT OF CLAIMS.
+#### "SEC. 6. DETERMINATION AND PAYMENT OF CLAIMS.
 
-“(a)
+"(a)
 
 Establishment of Filing Procedures.—The Attorney General shall establish procedures whereby individuals may submit claims for payments under this Act. In establishing procedures under this subsection, the Attorney General shall take into account and make allowances for the law, tradition, and customs of Indian tribes (as that term is defined in section 5(b)) and members of Indian tribes, to the maximum extent practicable.
 
-“(b)
+"(b)
 
 Determination of Claims.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Attorney General shall, in accordance with this subsection, determine whether each claim filed under this Act meets the requirements of this Act. All reasonable doubt with regard to whether a claim meets the requirements of this Act shall be resolved in favor of the claimant.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Consultation.—The Attorney General shall—
 
-&emsp;&emsp;“(A) in consultation with the Surgeon General, establish guidelines for determining what constitutes written medical documentation that an individual contracted leukemia under section 4(a)(1), a specified disease under section 4(a)(2), or other disease specified in section 5;
+&emsp;&emsp;"(A) in consultation with the Surgeon General, establish guidelines for determining what constitutes written medical documentation that an individual contracted leukemia under section 4(a)(1), a specified disease under section 4(a)(2), or other disease specified in section 5;
 
-&emsp;&emsp;“(B) in consultation with the Director of the National Institute for Occupational Safety and Health, establish guidelines for determining what constitutes documentation that an individual was exposed to the working level months of radiation under section 5; and
+&emsp;&emsp;"(B) in consultation with the Director of the National Institute for Occupational Safety and Health, establish guidelines for determining what constitutes documentation that an individual was exposed to the working level months of radiation under section 5; and
 
-&emsp;&emsp;“(C) in consultation with the Secretary of Defense and the Secretary of Energy, establish guidelines for determining what constitutes documentation that an individual participated onsite in a test involving the atmospheric detonation of a nuclear device under section 4(a)(2)(C).
+&emsp;&emsp;"(C) in consultation with the Secretary of Defense and the Secretary of Energy, establish guidelines for determining what constitutes documentation that an individual participated onsite in a test involving the atmospheric detonation of a nuclear device under section 4(a)(2)(C).
 
 > &emsp;The Attorney General may consult with the Surgeon General with respect to making determinations pursuant to the guidelines issued under subparagraph (A), with the Director of the National Institute for Occupational Safety and Health with respect to making determinations pursuant to the guidelines issued under subparagraph (B), and with the Secretary of Defense and the Secretary of Energy with respect to making determinations pursuant to the guidelines issued under subparagraph (C)..\[sic\]
 
-“(c)
+"(c)
 
 Payment of Claims.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Attorney General shall pay, from amounts available in the Fund (or, in the case of a payment under section 5, from the Energy Employees Occupational Illness Compensation Fund, pursuant to section 3630(d) of the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384u(d)\]), claims filed under this Act which the Attorney General determines meet the requirements of this Act.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Offset for certain payments.—(A) A payment to an individual, or to a survivor of that individual, under this section on a claim under subsection (a)(1), (a)(2)(A), or (a)(2)(B) of section 4 or a claim under section 5 shall be offset by the amount of any payment made pursuant to a final award or settlement on a claim (other than a claim for worker's compensation), against any person, that is based on injuries incurred by that individual on account of—
 
-&emsp;&emsp;“(i) exposure to radiation, from atmospheric nuclear testing, in the affected area (as defined in section 4(b)(1)) at any time during the period described in subsection (a)(1), (a)(2)(A), or (a)(2)(B) of section 4, or
+&emsp;&emsp;"(i) exposure to radiation, from atmospheric nuclear testing, in the affected area (as defined in section 4(b)(1)) at any time during the period described in subsection (a)(1), (a)(2)(A), or (a)(2)(B) of section 4, or
 
-&emsp;&emsp;“(ii) exposure to radiation in a uranium mine at any time during the period described in section 5(a).
+&emsp;&emsp;"(ii) exposure to radiation in a uranium mine at any time during the period described in section 5(a).
 
-&emsp;“(B) A payment to an individual, or to a survivor of that individual, under this section on a claim under section 4(a)(2)(C) shall be offset by the amount of—
+&emsp;"(B) A payment to an individual, or to a survivor of that individual, under this section on a claim under section 4(a)(2)(C) shall be offset by the amount of—
 
-&emsp;&emsp;“(i) any payment made pursuant to a final award or settlement on a claim (other than a claim for workers’ compensation), against any person, or
+&emsp;&emsp;"(i) any payment made pursuant to a final award or settlement on a claim (other than a claim for workers' compensation), against any person, or
 
-&emsp;&emsp;“(ii) any payment made by the Department of Veterans Affairs,
+&emsp;&emsp;"(ii) any payment made by the Department of Veterans Affairs,
 
 > &emsp;that is based on injuries incurred by that individual on account of exposure to radiation as a result of onsite participation in a test involving the atmospheric detonation of a nuclear device. The amount of the offset under this subparagraph with respect to payments described in clauses (i) and (ii) shall be the actuarial present value of such payments.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Right of subrogation.—Upon payment of a claim under this section, the United States Government is subrogated for the amount of the payment to a right or claim that the individual to whom the payment was made may have against any person on account of injuries referred to in paragraph (2).
 
-&emsp;“(4)
+&emsp;"(4)
 
 Payments in the case of deceased persons.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—In the case of an individual who is deceased at the time of payment under this section, such payment may be made only as follows:
 
-&emsp;&emsp;&emsp;“(i) If the individual is survived by a spouse who is living at the time of payment, such payment shall be made to such surviving spouse.
+&emsp;&emsp;&emsp;"(i) If the individual is survived by a spouse who is living at the time of payment, such payment shall be made to such surviving spouse.
 
-&emsp;&emsp;&emsp;“(ii) If there is no surviving spouse described in clause (i), such payment shall be made in equal shares to all children of the individual who are living at the time of payment.
+&emsp;&emsp;&emsp;"(ii) If there is no surviving spouse described in clause (i), such payment shall be made in equal shares to all children of the individual who are living at the time of payment.
 
-&emsp;&emsp;&emsp;“(iii) If there is no surviving spouse described in clause (i) and if there are no children described in clause (ii), such payment shall be made in equal shares to the parents of the individual who are living at the time of payment.
+&emsp;&emsp;&emsp;"(iii) If there is no surviving spouse described in clause (i) and if there are no children described in clause (ii), such payment shall be made in equal shares to the parents of the individual who are living at the time of payment.
 
-&emsp;&emsp;&emsp;“(iv) If there is no surviving spouse described in clause (i), and if there are no children described in clause (ii) or parents described in clause (iii), such payment shall be made in equal shares to all grandchildren of the individual who are living at the time of payment.
+&emsp;&emsp;&emsp;"(iv) If there is no surviving spouse described in clause (i), and if there are no children described in clause (ii) or parents described in clause (iii), such payment shall be made in equal shares to all grandchildren of the individual who are living at the time of payment.
 
-&emsp;&emsp;&emsp;“(v) If there is no surviving spouse described in clause (i), and if there are no children described in clause (ii), parents described in clause (iii), or grandchildren described in clause (iv), then such payment shall be made in equal shares to the grandparents of the individual who are living at the time of payment.
+&emsp;&emsp;&emsp;"(v) If there is no surviving spouse described in clause (i), and if there are no children described in clause (ii), parents described in clause (iii), or grandchildren described in clause (iv), then such payment shall be made in equal shares to the grandparents of the individual who are living at the time of payment.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Individuals who are survivors.—If an individual eligible for payment under section 4 or 5 dies before filing a claim under this Act, a survivor of that individual who may receive payment under subparagraph (A) may file a claim for such payment under this Act.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Definitions.—For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;“(i) the ‘spouse’ of an individual is a wife or husband of that individual who was married to that individual for at least one year immediately before the death of that individual;
+&emsp;&emsp;&emsp;"(i) the 'spouse' of an individual is a wife or husband of that individual who was married to that individual for at least one year immediately before the death of that individual;
 
-&emsp;&emsp;&emsp;“(ii) a ‘child’ includes a recognized natural child, a stepchild who lived with an individual in a regular parent-child relationship, and an adopted child;
+&emsp;&emsp;&emsp;"(ii) a 'child' includes a recognized natural child, a stepchild who lived with an individual in a regular parent-child relationship, and an adopted child;
 
-&emsp;&emsp;&emsp;“(iii) a ‘parent’ includes fathers and mothers through adoption;
+&emsp;&emsp;&emsp;"(iii) a 'parent' includes fathers and mothers through adoption;
 
-&emsp;&emsp;&emsp;“(iv) a ‘grandchild’ of an individual is a child of a child of that individual; and
+&emsp;&emsp;&emsp;"(iv) a 'grandchild' of an individual is a child of a child of that individual; and
 
-&emsp;&emsp;&emsp;“(v) a ‘grandparent’ of an individual is a parent of a parent of that individual.
+&emsp;&emsp;&emsp;"(v) a 'grandparent' of an individual is a parent of a parent of that individual.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Application of native american law.—In determining those individuals eligible to receive compensation by virtue of marriage, relationship, or survivorship, such determination shall take into consideration and give effect to established law, tradition, and custom of the particular affected Indian tribe.
 
-“(d)
+"(d)
 
 Action on Claims.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Attorney General shall complete the determination on each claim filed in accordance with the procedures established under subsection (a) not later than twelve months after the claim is so filed. For purposes of determining when the 12-month period ends, a claim under this Act shall be deemed filed as of the date of its receipt by the Attorney General. In the event of the denial of a claim, the claimant shall be permitted a reasonable period in which to seek administrative review of the denial by the Attorney General. The Attorney General shall make a final determination with respect to any administrative review within 90 days after the receipt of the claimant's request for such review. In the event the Attorney General fails to render a determination within 12 months after the date of the receipt of such request, the claim shall be deemed awarded as a matter of law and paid.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Additional information.—The Attorney General may request from any claimant under this Act, or from any individual or entity on behalf of any such claimant, any reasonable additional information or documentation necessary to complete the determination on the claim in accordance with the procedures established under subsection (a).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Treatment of period associated with request.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The period described in subparagraph (B) shall not apply to the 12-month limitation under paragraph (1).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Period.—The period described in this subparagraph is the period—
 
-&emsp;&emsp;&emsp;“(i) beginning on the date on which the Attorney General makes a request for additional information or documentation under paragraph (2); and
+&emsp;&emsp;&emsp;"(i) beginning on the date on which the Attorney General makes a request for additional information or documentation under paragraph (2); and
 
-&emsp;&emsp;&emsp;“(ii) ending on the date on which the claimant or individual or entity acting on behalf of that claimant submits that information or documentation or informs the Attorney General that it is not possible to provide that information or that the claimant or individual or entity will not provide that information.
+&emsp;&emsp;&emsp;"(ii) ending on the date on which the claimant or individual or entity acting on behalf of that claimant submits that information or documentation or informs the Attorney General that it is not possible to provide that information or that the claimant or individual or entity will not provide that information.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Payment within 6 weeks.—The Attorney General shall ensure that an approved claim is paid not later than 6 weeks after the date on which such claim is approved.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Native american considerations.—Any procedures under this subsection shall take into consideration and incorporate, to the fullest extent feasible, Native American law, tradition, and custom with respect to the submission and processing of claims by Native Americans.
 
-“(e)
+"(e)
 
 Payment in Full Settlement of Claims Against the United States.—Except as otherwise authorized by law, the acceptance of payment by an individual under this section shall be in full satisfaction of all claims of or on behalf of that individual against the United States, or against any person with respect to that person's performance of a contract with the United States, that arise out of exposure to radiation, from atmospheric nuclear testing, in the affected area (as defined in section 4(b)(1)) at any time during the period described in subsection (a)(1), (a)(2)(A), or (a)(2)(B) of section 4, exposure to radiation in a uranium mine, mill, or while employed in the transport of uranium ore or vanadium-uranium ore from such mine or mill at any time during the period described in section 5(a), or exposure to radiation as a result of onsite participation in a test involving the atmospheric detonation of a nuclear device.
 
-“(f)
+"(f)
 
 Administrative Costs Not Paid From the Fund.—No costs incurred by the Attorney General in carrying out this section shall be paid from the Fund or set off against, or otherwise deducted from, any payment under this section to any individual.
 
-“(g)
+"(g)
 
 Termination of Duties of Attorney General.—The duties of the Attorney General under this section shall cease when the Fund terminates.
 
-“(h)
+"(h)
 
 Certification of Treatment of Payments Under Other Laws.—Amounts paid to an individual under this section—
 
-&emsp;“(1) shall be treated for purposes of the internal revenue laws of the United States as damages for human suffering; and
+&emsp;"(1) shall be treated for purposes of the internal revenue laws of the United States as damages for human suffering; and
 
-&emsp;“(2) shall not be included as income or resources for purposes of determining eligibility to receive benefits described in section 3803(c)(2)(C) of title 31, United States Code, or the amount of such benefits.
+&emsp;"(2) shall not be included as income or resources for purposes of determining eligibility to receive benefits described in section 3803(c)(2)(C) of title 31, United States Code, or the amount of such benefits.
 
-“(i)
+"(i)
 
 Use of Existing Resources.—The Attorney General should use funds and resources available to the Attorney General to carry out his or her functions under this Act.
 
-“(j)
+"(j)
 
 Regulatory Authority.—The Attorney General may issue such regulations as are necessary to carry out this Act.
 
-“(k)
+"(k)
 
 Issuance of Regulations, Guidelines, and Procedures.—Regulations, guidelines, and procedures to carry out this Act shall be issued not later than 180 days after the date of the enactment of this Act \[Oct. 15, 1990\]. Not later than 180 days after the date of enactment of the Radiation Exposure Compensation Act Amendments of 2000 \[July 10, 2000\], the Attorney General shall issue revised regulations to carry out this Act.
 
-“(l)
+"(l)
 
 Judicial Review.—An individual whose claim for compensation under this Act is denied may seek judicial review solely in a district court of the United States. The court shall review the denial on the administrative record and shall hold unlawful and set aside the denial if it is arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
-#### “SEC. 7. CLAIMS NOT ASSIGNABLE OR TRANSFERABLE; CHOICE OF REMEDIES.
+#### "SEC. 7. CLAIMS NOT ASSIGNABLE OR TRANSFERABLE; CHOICE OF REMEDIES.
 
-“(a)
+"(a)
 
 Claims Not Assignable or Transferable.—No claim cognizable under this Act shall be assignable or transferable.
 
-“(b)
+"(b)
 
 Choice of Remedies.—No individual may receive more than 1 payment under this Act.
 
-#### “SEC. 8. LIMITATIONS ON CLAIMS.
+#### "SEC. 8. LIMITATIONS ON CLAIMS.
 
-“(a)
+"(a)
 
 In General.—A claim to which this Act applies shall be barred unless the claim is filed within 22 years after the date of the enactment of the Radiation Exposure Compensation Act Amendments of 2000 \[July 10, 2000\].
 
-“(b)
+"(b)
 
 Resubmittal of Claims.—After the date of the enactment of the Radiation Exposure Compensation Act Amendments of 2000 \[July 10, 2000\], any claimant who has been denied compensation under this Act may resubmit a claim for consideration by the Attorney General in accordance with this Act not more than three times. Any resubmittal made before the date of the enactment of the Radiation Exposure Compensation Act Amendments of 2000 shall not be applied to the limitation under the preceding sentence.
 
-#### “SEC. 9. ATTORNEY FEES.
+#### "SEC. 9. ATTORNEY FEES.
 
-“(a)
+"(a)
 
 General Rule.—Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the claim of an individual under this Act, more than that percentage specified in subsection (b) of a payment made under this Act on such claim.
 
-“(b)
+"(b)
 
 Applicable Percentage Limitations.—The percentage referred to in subsection (a) is—
 
-&emsp;“(1) 2 percent for the filing of an initial claim; and
+&emsp;"(1) 2 percent for the filing of an initial claim; and
 
-&emsp;“(2) 10 percent with respect to—
+&emsp;"(2) 10 percent with respect to—
 
-&emsp;&emsp;“(A) any claim with respect to which a representative has made a contract for services before the date of the enactment of the Radiation Exposure Compensation Act Amendments of 2000 \[July 10, 2000\]; or
+&emsp;&emsp;"(A) any claim with respect to which a representative has made a contract for services before the date of the enactment of the Radiation Exposure Compensation Act Amendments of 2000 \[July 10, 2000\]; or
 
-&emsp;&emsp;“(B) a resubmission of a denied claim.
+&emsp;&emsp;"(B) a resubmission of a denied claim.
 
-“(c)
+"(c)
 
 Penalty.—Any such representative who violates this section shall be fined not more than $5,000.
 
-#### “SEC. 10. CERTAIN CLAIMS NOT AFFECTED BY AWARDS OF DAMAGES.
+#### "SEC. 10. CERTAIN CLAIMS NOT AFFECTED BY AWARDS OF DAMAGES.
 
-“A payment made under this Act shall not be considered as any form of compensation or reimbursement for a loss for purposes of imposing liability on any individual receiving such payment, on the basis of such receipt, to repay any insurance carrier for insurance payments, or to repay any person on account of worker's compensation payments; and a payment under this Act shall not affect any claim against an insurance carrier with respect to insurance or against any person with respect to worker's compensation.
+"A payment made under this Act shall not be considered as any form of compensation or reimbursement fora loss for purposes of imposing liability on any individual receiving such payment, on the basis of such receipt, to repay any insurance carrier for insurance payments, or to repay any person on account of worker's compensation payments; and a payment under this Act shall not affect any claim against an insurance carrier with respect to insurance or against any person with respect to worker's compensation.
 
-#### “SEC. 11. BUDGET ACT.
+#### "SEC. 11. BUDGET ACT.
 
-“No authority under this Act to enter into contracts or to make payments shall be effective in any fiscal year except to such extent or in such amounts as are provided in advance in appropriations Acts.
+"No authority under this Act to enter into contracts or to make payments shall be effective in any fiscal year except to such extent or in such amounts as are provided in advance in appropriations Acts.
 
-#### “SEC. 12. REPORT.
+#### "SEC. 12. REPORT.
 
-“(a)
+"(a)
 
 Report.—The Secretary of Health and Human Services shall submit a report on the incidence of radiation related moderate or severe silicosis and pneumoconiosis in uranium miners employed in the uranium mines that are defined in section 5 and are located off of Indian reservations.
 
-“(b)
+"(b)
 
 Completion.—Such report shall be completed not later than September 30, 1992.
 
-#### “SEC. 13. REPEAL.
+#### "SEC. 13. REPEAL.
 
-“Section 1631 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1985 (42 U.S.C. 2212) is repealed.”
+"Section 1631 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1985 (42 U.S.C. 2212) is repealed."
 
 #### Negotiated Rulemaking on Financial Protection for Radiopharmaceutical Licensees
 
 Pub. L. 100–408, §19, Aug. 20, 1988, 102 Stat. 1083, provided that:
 
-“(a)
+"(a)
 
 Rulemaking Proceeding.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-Purpose.—The Nuclear Regulatory Commission (hereafter in this section referred to as the ‘Commission’) shall initiate a proceeding, in accordance with the requirements of this section, to determine whether to enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) with persons licensed by the Commission under section 81, 104(a), or 104(c) of the Atomic Energy Act of 1954 (42 U.S.C. 2111, 2134(a), and 2134(c)) or by a State under section 274(b) of the Atomic Energy Act of 1954 (42 U.S.C. 2021(b)) for the manufacture, production, possession, or use of radioisotopes or radiopharmaceuticals for medical purposes (hereafter in this section referred to as ‘radiopharmaceutical licensees’).
+Purpose.—The Nuclear Regulatory Commission (hereafter in this section referred to as the 'Commission') shall initiate a proceeding, in accordance with the requirements of this section, to determine whether to enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) with persons licensed by the Commission under section 81, 104(a), or 104(c) of the Atomic Energy Act of 1954 (42 U.S.C. 2111, 2134(a), and 2134(c)) or by a State under section 274(b) of the Atomic Energy Act of 1954 (42 U.S.C. 2021(b)) for the manufacture, production, possession, or use of radioisotopes or radiopharmaceuticals for medical purposes (hereafter in this section referred to as 'radiopharmaceutical licensees').
 
-&emsp;“(2)
+&emsp;"(2)
 
 Final determination.—A final determination with respect to whether radiopharmaceutical licensees, or any class of such licensees, shall be indemnified pursuant to section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) and if so, the terms and conditions of such indemnification, shall be rendered by the Commission within 18 months of the date of the enactment of this Act \[Aug. 20, 1988\].
 
-“(b)
+"(b)
 
 Negotiated Rulemaking.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-Administrative conference guidelines.—For the purpose of making the determination required under subsection (a), the Commission shall, to the extent consistent with the provisions of this Act \[see Short Title of 1988 Amendment note set out under section 2011 of this title\], conduct a negotiated rulemaking in accordance with the guidance provided by the Administrative Conference of the United States in Recommendation 82–4, ‘Procedures for Negotiating Proposed Regulations’ (42 Fed. Reg. 30708, July 15, 1982).
+Administrative conference guidelines.—For the purpose of making the determination required under subsection (a), the Commission shall, to the extent consistent with the provisions of this Act \[see Short Title of 1988 Amendment note set out under section 2011 of this title\], conduct a negotiated rulemaking in accordance with the guidance provided by the Administrative Conference of the United States in Recommendation 82–4, 'Procedures for Negotiating Proposed Regulations' (42 Fed. Reg. 30708, July 15, 1982).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Designation of convener.—Within 30 days of the date of the enactment of this Act \[Aug. 20, 1988\], the Commission shall designate an individual or individuals recommended by the Administrative Conference of the United States to serve as a convener for such negotiations.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Submission of recommendations of the convener.—The convener shall, not later than 7 months after the date of the enactment of this Act, submit to the Commission recommendations for a proposed rule regarding whether the Commission should enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) with radiopharmaceutical licensees and, if so, the terms and conditions of such indemnification. If the convener recommends that such indemnity be provided for radiopharmaceutical licensees, the proposed rule submitted by the convener shall set forth the procedures for the execution of indemnification agreements with radiopharmaceutical licensees.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Publication of recommendations and proposed rule.—If the convener recommends that such indemnity be provided for radiopharmaceutical licensees, the Commission shall publish the recommendations of the convener submitted under paragraph (3) as a notice of proposed rulemaking within 30 days of the submission of such recommendations under such paragraph.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Administrative procedures.—To the extent consistent with the provisions of this Act, the Commission shall conduct the proceeding required under subsection (a) in accordance with section 553 of title 5, United States Code.”
+Administrative procedures.—To the extent consistent with the provisions of this Act, the Commission shall conduct the proceeding required under subsection (a) in accordance with section 553 of title 5, United States Code."
 
 #### Executive Order No. 12658
 
@@ -1152,11 +1154,11 @@ Ex. Ord. No. 12658, Nov. 18, 1988, 53 F.R. 47517, as amended by Ex. Ord. No. 126
 
 #### Executive Order No. 12891
 
-Ex. Ord. No. 12891, Jan. 15, 1994, 59 F.R. 2935, which established the Advisory Committee on Human RadiationExperiments, was revoked by Ex. Ord. No. 13062, §3(a), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12891, Jan. 15, 1994, 59 F.R. 2935, which established the Advisory Committee on Human Radiation Experiments, was revoked by Ex. Ord. No. 13062, §3(a), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Commission,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Commission,".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be paragraph “(6)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be paragraph "(6)".</i>
 
 <i><sup>3</sup></i><i> So in original. The period probably should be a comma.</i>
 

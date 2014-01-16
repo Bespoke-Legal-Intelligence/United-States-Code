@@ -30,13 +30,13 @@ Section 1233e, Pub. L. 90–247, title IV, §446, formerly §436, as added Pub. 
 
 Section 1233f, Pub. L. 90–247, title IV, §447, formerly §437, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered §447, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, §517(b), Aug. 21, 1974, 88 Stat. 575; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, related to auditing and review of advisory council activities.
 
-Section 1233g, Pub. L. 90–247, title IV, §448, formerly §438, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered §448, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; amended S. Res. 4, Feb. 4, 1977; Pub. L. 95–43, §1(d), June 15, 1977, 91 Stat. 219; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 103–437, §7(a)(1), Nov. 2, 1994, 108 Stat. 4587, related to reports by Secretary.
+Section 1233g, Pub. L. 90–247, title IV, §448, formerly §438, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered §448, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; amended S. Res. 4, Feb. 4, 1977; Pub. L. 95–43, §1(d), June 15, 1977, 91 Stat. 219; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, titleIII, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 103–437, §7(a)(1), Nov. 2, 1994, 108 Stat. 4587, related to reports by Secretary.
 
 Section 1233h, Pub. L. 90–247, title IV, §449, as added Pub. L. 93–380, title V, §518(a), Aug. 21, 1974, 88 Stat. 575, related to application of other laws to advisory councils under former subchapter IV of this chapter.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–279 substituted “section 9543(a)(6) of this title” for “section 9003(a)(6) of this title”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–279 substituted "section 9543(a)(6) of this title" for "section 9003(a)(6) of this title".
 
 Pub. L. 107–110 made technical amendment to reference in original act which appears in text as reference to section 9003(a)(6) of this title.
 

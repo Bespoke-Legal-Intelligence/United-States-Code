@@ -12,7 +12,7 @@
 
 |  |  |
 | :--- | ---: |
-| 1161\. | “Suspended entries of public lands” and “suspended preemption land claims”. |
+| 1161\. | "Suspended entries of public lands" and "suspended preemption land claims". |
 | 1162\. | Adjudications as to suspended entries; approval. |
 | 1163\. | Patents surrendered and new ones issued. |
 | 1164\. | Extent of foregoing provisions. |

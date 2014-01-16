@@ -10,9 +10,9 @@ Section was enacted as part of the Food and Agriculture Act of 1965, and not as 
 
 #### Amendments
 
-<b>1973</b>—Pub. L. 91–524, §405(b), as added by Pub. L. 93–86, temporarily inserted “(except that in the case of wheat, if the yield is abnormally low in any one of the calendar years of the base period because of drought, flood, or other natural disaster, the Secretary shall take into account the actual yield proved by the producer in the other four years of such base period)” after “determining the projected yield”. See Effective and Termination Dates of 1973 Amendment note below.
+<b>1973</b>—Pub. L. 91–524, §405(b), as added by Pub. L. 93–86, temporarily inserted "(except that in the case of wheat, if the yield is abnormally low in any one of the calendar years of the base period because of drought, flood, or other natural disaster, the Secretary shall take into account the actual yield proved by the producer in the other four years of such base period)" after "determining the projected yield". See Effective and Termination Dates of 1973 Amendment note below.
 
 #### Effective and Termination Dates of 1973 Amendment
 
-Pub. L. 91–524, title IV, §405(b), as added by Pub. L. 93–86, §1(12)(a), Aug. 10, 1973, 87 Stat. 229, provided thatthe amendment made by Pub. L. 91–524 is effective with respect to the 1974 through 1977 crops.
+Pub. L. 91–524, title IV, §405(b), as added by Pub. L. 93–86, §1(12)(a), Aug. 10, 1973, 87 Stat. 229, provided that the amendment made by Pub. L. 91–524 is effective with respect to the 1974 through 1977 crops.
 

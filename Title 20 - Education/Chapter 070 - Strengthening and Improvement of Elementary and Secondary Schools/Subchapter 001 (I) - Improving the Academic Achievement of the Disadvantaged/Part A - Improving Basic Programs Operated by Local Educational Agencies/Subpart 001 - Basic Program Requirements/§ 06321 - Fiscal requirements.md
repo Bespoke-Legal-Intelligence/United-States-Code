@@ -20,7 +20,7 @@ A local educational agency may receive funds under this part for any fiscal year
 
 #### (A) Comparable services
 
-&emsp;&emsp;Except as provided in paragraphs (4) and (5), a local educational agency may receivefunds under this part only if State and local funds will be used in schools served under this part to provide services that, taken as a whole, are at least comparable to services in schools that are not receiving funds under this part.
+&emsp;&emsp;Except as provided in paragraphs (4) and (5), a local educational agency may receive funds under this part only if State and local funds will be used in schools served under this part to provide services that, taken as a whole, are at least comparable to services in schools that are not receiving funds under this part.
 
 #### (B) Substantially comparable services
 

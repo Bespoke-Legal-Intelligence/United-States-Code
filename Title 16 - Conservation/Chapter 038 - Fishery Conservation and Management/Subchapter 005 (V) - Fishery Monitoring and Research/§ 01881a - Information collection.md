@@ -12,7 +12,7 @@
 
 #### (b) Confidentiality of information
 
-(1) Any information submitted to the Secretary, a State fishery management agency, or amarine fisheries commission by any person in compliance with the requirements of this chapter shall be confidential and shall not be disclosed except—
+(1) Any information submitted to the Secretary, a State fishery management agency, or a marine fisheries commission by any person in compliance with the requirements of this chapter shall be confidential and shall not be disclosed except—
 
 &emsp;(A) to Federal employees and Council employees who are responsible for fishery management plan development, monitoring, or enforcement;
 
@@ -66,7 +66,7 @@ Notwithstanding any other provision of law, the Secretary may provide a grant, c
 
 &emsp;(A) may structure competitive solicitations under paragraph (1) so as to compensate a contractor for a fishery resources survey by allowing the contractor to retain for sale fish harvested during the survey voyage;
 
-&emsp;(B) in the case of a survey during which the quantity or quality of fish harvested is not expected to be adequately compensatory, may structure those solicitations so as to providethat compensation by permitting the contractor to harvest on a subsequent voyage and retain for sale a portion of the allowable catch of the surveyed fishery; and
+&emsp;(B) in the case of a survey during which the quantity or quality of fish harvested is not expected to be adequately compensatory, may structure those solicitations so as to provide that compensation by permitting the contractor to harvest on a subsequent voyage and retain for sale a portion of the allowable catch of the surveyed fishery; and
 
 &emsp;(C) may permit fish harvested during such survey to count toward a vessel's catch history under a fishery management plan if such survey was conducted in a manner that precluded a vessel's participation in a fishery that counted under the plan for purposes of determining catch history.
 
@@ -76,7 +76,7 @@ Notwithstanding any other provision of law, the Secretary may provide a grant, c
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1), (3) and (c)(1), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (b)(1), (3) and (c)(1), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Marine Mammal Protection Act of 1972, referred to in subsec. (c)(1), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
@@ -88,11 +88,11 @@ A prior section 402 of Pub. L. 94–265 repealed former sections 1081 to 1086 an
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 109–479, §202, substituted “Collection programs” for “Council requests” in heading, designated existing provisions as par. (1), inserted heading, realigned margins, in first sentence, struck out “(other than information that would disclose proprietary or confidential commercial or financial information regarding fishing operations or fish processing operations)” after “additional information” and “types of information”, in last sentence, substituted “paragraph” for “subsection”, and added par. (2).
+<b>2007</b>—Subsec. (a). Pub. L. 109–479, §202, substituted "Collection programs" for "Council requests" in heading, designated existing provisions as par. (1), inserted heading, realigned margins, in first sentence, struck out "(other than information that would disclose proprietary or confidential commercial or financial information regarding fishing operations or fish processing operations)" after "additional information" and "types of information", in last sentence, substituted "paragraph" for "subsection", and added par. (2).
 
 Subsec. (b). Pub. L. 109–479, §203(a)(1), (2), added pars. (1) and (2), redesignated former par. (2) as (3) and realigned margins, and struck out former par. (1) which related to confidentiality of information submitted to the Secretary and exceptions.
 
-Subsec. (b)(1)(D). Pub. L. 109–479, §3(d)(1)(A), substituted “a limited access privilege” for “an individual fishing quota”.
+Subsec. (b)(1)(D). Pub. L. 109–479, §3(d)(1)(A), substituted "a limited access privilege" for "an individual fishing quota".
 
-Subsec. (b)(3). Pub. L. 109–479, §203(a)(3), substituted “(2)(A).” for “(1)(E).”
+Subsec. (b)(3). Pub. L. 109–479, §203(a)(3), substituted "(2)(A)." for "(1)(E)."
 

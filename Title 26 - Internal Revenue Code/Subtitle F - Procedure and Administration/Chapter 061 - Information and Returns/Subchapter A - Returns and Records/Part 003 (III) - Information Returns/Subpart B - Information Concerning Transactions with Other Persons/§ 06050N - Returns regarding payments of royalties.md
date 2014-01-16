@@ -12,7 +12,7 @@ Every person—
 
 #### (b) Statements to be furnished to persons with respect to whom information is furnished
 
-Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each person whosename is required to be set forth in such return a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
@@ -28,7 +28,7 @@ Except to the extent otherwise provided in regulations, this section shall not a
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–168 substituted "name, address, and phone number of the information contact" for "name and address".
 
 #### Effective Date of 1996 Amendment
 
@@ -36,5 +36,5 @@ Amendment by Pub. L. 104–168 applicable to statements required to be furnished
 
 #### Effective Date
 
-Pub. L. 99–514, title XV, §1523(d), Oct. 22, 1986, 100 Stat. 2749, provided that: “The amendments made by this section \[enacting this section and amending sections 3406, 6041, and 6676 of this title\] shall apply with respect to payments made after December 31, 1986.”
+Pub. L. 99–514, title XV, §1523(d), Oct. 22, 1986, 100 Stat. 2749, provided that: "The amendments made by this section \[enacting this section and amending sections 3406, 6041, and 6676 of this title\] shall apply with respect to payments made after December 31, 1986."
 

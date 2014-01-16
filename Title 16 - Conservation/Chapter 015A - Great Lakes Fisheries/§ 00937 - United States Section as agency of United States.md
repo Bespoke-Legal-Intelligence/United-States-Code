@@ -8,5 +8,5 @@ The United States Section shall, for the purposes of these <sup>1</sup> provisi
 
 Provisions of title 28, relating to claims against the United States, referred to in text, include sections 1346(b), 2501 et seq., and 2671 et seq., of Title 28, Judiciary and Judicial Procedure.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “those”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "those".</i>
 

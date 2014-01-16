@@ -12,7 +12,7 @@ Remedies.—The court may award—
 
 &emsp;(2) punitive damages upon proof of willful or reckless disregard of the law;
 
-&emsp;(3) reasonable attorneys’ fees and other litigation costs reasonably incurred; and
+&emsp;(3) reasonable attorneys' fees and other litigation costs reasonably incurred; and
 
 &emsp;(4) such other preliminary and equitable relief as the court determines to be appropriate.
 

@@ -2,11 +2,11 @@
 
 #### (a) General definition
 
-As used in this subchapter, the term “improved property” means a detached, one-family dwelling, construction of which—
+As used in this subchapter, the term "improved property" means a detached, one-family dwelling, construction of which—
 
 &emsp;(1) was begun before December 31, 1964, or
 
-&emsp;(2) for the purposes of section 460x–9(b) or (d) of this title, was begun on or after December 31, 1964, and before October 21, 1970, and has been openly and continuously used, at least during the summer months of each year when similar dwellings in the area are used, as a residential dwelling since such construction was completed, and with respect to the portion of such period after any acquisition of such property by the United States, by the owner, or a member of the immediate family of the owner, of such dwelling on the date of such acquisition,
+&emsp;(2) for the purposes of section 460x–9(b) or (d) of this title, was begun on or after December 31, 1964, and before October 21, 1970, and has been openly and continuously used, at least during the summer months of each year when similar dwellings in the area are used, as a residential dwelling since such constructionwas completed, and with respect to the portion of such period after any acquisition of such property by the United States, by the owner, or a member of the immediate family of the owner, of such dwelling on the date of such acquisition,
 
 > together with so much of the land on which the dwelling is situated, such land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the lands so designated. The amount of land so designated shall in every case be at least three acres in area, or all of such lesser acreage as may be held in the same ownership as the dwelling, and in making such designation the Secretary shall take into account the manner of noncommercial residential use in which the dwelling and land have customarily been enjoyed.
 
@@ -16,7 +16,7 @@ The Secretary may exclude from the land designated under subsection (a) of this 
 
 #### (c) Authorization to exclude recently improved property; termination, compensation, and notice
 
-(1) The Secretary may exclude from the category of “improved property” under this subchapter any property described in subsection (a)(2) of this section which the Secretary determines is in an area required for public use or development in the immediate future. In making any such determination the Secretary shall take into account the proximity of such property to any other improved property, the development or public use of the lakeshore and the related timetable therefor, and the anticipated availability in the immediate future of funds related to such development or public use.
+(1) The Secretary may exclude from the category of "improved property" under this subchapter any property described in subsection (a)(2) of this section which the Secretary determines is in an area required for public use or development in the immediate future. In making any such determination the Secretary shall take into account the proximity of such property to any other improved property, the development or public use of the lakeshore and the related timetable therefor, and the anticipated availability in the immediate future of funds related to such development or public use.
 
 (2)(A) With respect to any improved property, as defined in subsection (a)(2) of this section, with respect to which the occupier has retained a right of use and occupancy under section 460x–9(b) of this title, the Secretary may terminate such right 90 days after notifying in writing the occupier, if the Secretary determines that such improved property is needed for public use or development under this subchapter. In making any such determination the Secretary shall take into account the proximity of such property to any other improved property, the development or public use requirements of the lakeshore and related timetable therefor, and the current availability of funds for the proposed public use or development.
 

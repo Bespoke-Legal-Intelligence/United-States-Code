@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(B) Any mentoring assistance provided under a Small Business Innovation Research Program or a Small Business Technology Transfer Program.
 
-&emsp;&emsp;(C) Until the date that is 1 year after the date on which the Administrator issues regulations under paragraph (3), any Federaldepartment or agency operating a mentor-protege program in effect on January 2, 2013.
+&emsp;&emsp;(C) Until the date that is 1 year after the date on which the Administrator issues regulations under paragraph (3), any Federal department or agency operating a mentor-protege program in effect on January 2, 2013.
 
 #### (c) Reporting
 
@@ -102,7 +102,7 @@ In this section, the following definitions apply:
 
 #### (1) Mentor
 
-&emsp;The term “mentor” means a for-profit business concern, of any size, that—
+&emsp;The term "mentor" means a for-profit business concern, of any size, that—
 
 &emsp;&emsp;(A) has the ability to assist and commits to assisting a protege to compete for Federal prime contracts and subcontracts; and
 
@@ -110,11 +110,11 @@ In this section, the following definitions apply:
 
 #### (2) Mentor-protege program
 
-&emsp;The term “mentor-protege program” means a program that pairs a mentor with a protege for the purpose of assisting the protege to compete for Federal prime contracts and subcontracts.
+&emsp;The term "mentor-protege program" means a program that pairs a mentor with a protege for the purpose of assisting the protege to compete for Federal prime contracts and subcontracts.
 
 #### (3) Protege
 
-&emsp;The term “protege” means a small business concern that—
+&emsp;The term "protege" means a small business concern that—
 
 &emsp;&emsp;(A) is eligible to enter into Federal prime contracts and subcontracts; and
 

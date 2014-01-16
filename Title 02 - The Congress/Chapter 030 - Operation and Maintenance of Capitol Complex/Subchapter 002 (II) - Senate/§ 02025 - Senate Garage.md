@@ -2,7 +2,7 @@
 
 (a) The employees of the Senate garage engaged by the Architect of the Capitol for the primary purpose of servicing official motor vehicles, together with the functions performed by such employees, shall, on October 1, 1980, be transferred to the jurisdiction of the Sergeant at Arms and Doorkeeper of the Senate: <i>Provided further</i>, That, effective July 1, 1965, the underground space in the north extension of the Capitol Grounds, known as the Legislative Garage shall hereafter be known as the Senate Garage and shall be under the jurisdiction and control of the Architect of the Capitol, subject to such regulations respecting the use thereof as may be promulgated by the Senate Committee on Rules and Administration: <i>Provided further</i>, That, such regulations shall provide for the continued assignment of space and the continued furnishing of service in such garage for official motor vehicles of the House and the Senate and the Architect of the Capitol and Capitol Grounds maintenance equipment.
 
-(b) As used in subsection (a) of this section, the term “servicing” includes, with respect toan official motor vehicle, the washing and fueling of such vehicle, the checking of its tires and battery, and checking and adding oil.
+(b) As used in subsection (a) of this section, the term “servicing” includes, with respect to an official motor vehicle, the washing and fueling of such vehicle, the checking of its tires and battery, and checking and adding oil.
 
 (June 30, 1932, ch. 314, 47 Stat. 391; Pub. L. 88–454, Aug. 20, 1964, 78 Stat. 545; Pub. L. 96–444, §1(a)(1), (b), Oct. 13, 1980, 94 Stat. 1889.)
 
@@ -40,5 +40,5 @@ Pub. L. 96–444, §2, Oct. 13, 1980, 94 Stat. 1889, provided that:
 
 > Compensation fixed under this subsection for a position first filled by an individual transferred under subsection (a)(1) of the first section shall cease to be applicable with respect to such position on the date that such individual first ceases to occupy such position.
 
-“(c) During any period with respect to which subsection (b) is applicable to a position occupied by an individual described in such subsection, such individual shall be credited, for purposes of longevity compensation, as authorized by section 106(a), (b), and (d) of the Legislative Branch Appropriation Act, 1963 (2 U.S.C. 60j), for service performed by such individual in the position of garage attendant, as an employee of the Architect of the Capitol, as certified to the Secretary of the Senate by the Architect of the Capitol.”
+“(c) During any period with respect to which subsection (b) is applicable to a position occupied by an individual described in such subsection, such individual shall be credited, for purposes of longevity compensation, as authorized by section 106(a), (b), and (d) of the Legislative Branch Appropriation Act, 1963 (2 U.S.C. 60j) \[now 2 U.S.C. 4507\], for service performed by such individual in the position of garage attendant, as an employee of the Architect of the Capitol, as certified to the Secretary of the Senate by the Architect of the Capitol.”
 

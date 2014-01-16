@@ -26,7 +26,7 @@ The Institute, acting through the Board, may—
 
 &emsp;(9) secure directly, upon request of the president of the Institute to the head of any Federal department or agency and in accordance with section 552 of title 5 (relating to freedom of information), information necessary to enable the Institute to carry out the purposes of this chapter if such release of the information would not unduly interfere with the proper functioning of a department or agency, including classified information if the Institute staff and members of the Board who have access to such classified information obtain appropriate security clearances from the Department of Defense and the Department of State; and
 
-&emsp;(10) establish the Spark M. Matsunaga Scholars Program, which shall include the provision of scholarships and educational programs in international peace and conflict management and related fields for outstanding secondary school students and the provision of scholarships to outstanding undergraduate students, with program participants and recipients of such scholarships to be known as “Spark M. Matsunaga Scholars”.
+&emsp;(10) establish the Spark M. Matsunaga Scholars Program, which shall include the provision of scholarships and educational programs in international peace and conflict management and related fields for outstanding secondary school students and the provision of scholarships to outstanding undergraduate students, with program participants and recipients of such scholarships to be known as "Spark M. Matsunaga Scholars".
 
 #### (c) Annual award of Spark M. Matsunaga Medal of Peace
 
@@ -118,33 +118,33 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(3). Pub. L. 110–315 struck out “the Arms Control and Disarmament Agency,” after “Defense,”.
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–315 struck out "the Arms Control and Disarmament Agency," after "Defense,".
 
-<b>1998</b>—Subsec. (f). Pub. L. 105–244, §931(1)(A), inserted “personal service and other” after “may enter into”.
+<b>1998</b>—Subsec. (f). Pub. L. 105–244, §931(1)(A), inserted "personal service and other" after "may enter into".
 
-Subsec. (o). Pub. L. 105–244, §931(1)(B), inserted “and use all sources of supply and services of the General Services Administration” after “Services”.
+Subsec. (o). Pub. L. 105–244, §931(1)(B), inserted "and use all sources of supply and services of the General Services Administration" after "Services".
 
 <b>1992</b>—Subsec. (b)(10). Pub. L. 102–325, §1554(b), added par. (10).
 
-Subsec. (h)(2). Pub. L. 102–325, §1554(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Institute may not accept any gift, contribution, or grant from, or enter into any contract with, a foreign government, any agency or instrumentality of such government, any international organization, or any foreign national, except that the Institute may accept the payment of tuition by foreign nationals for instruction provided by the Institute. For purposes of this paragraph, the term—
+Subsec. (h)(2). Pub. L. 102–325, §1554(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Institute may not accept any gift, contribution, or grant from, or enter into any contract with, a foreign government, any agency or instrumentality of such government, any international organization, or any foreign national, except that the Institute may accept the payment of tuition by foreign nationals for instruction provided by the Institute. For purposes of this paragraph, the term—
 
-&emsp;“(A) ‘foreign national’ means—
+&emsp;"(A) 'foreign national' means—
 
-&emsp;&emsp;“(i) a natural person who is a citizen of a foreign country or who owes permanent allegiance to a foreign country; and
+&emsp;&emsp;"(i) a natural person who is a citizen of a foreign country or who owes permanent allegiance to a foreign country; and
 
-&emsp;&emsp;“(ii) a corporation or other legal entity in which natural persons who are nationals of a foreign country own, directly or indirectly, more than 50 percent of the outstanding capital stock or other beneficial interest in such legal entity; and
+&emsp;&emsp;"(ii) a corporation or other legal entity in which natural persons who are nationals of a foreign country own, directly or indirectly, more than 50percent of the outstanding capital stock or other beneficial interest in such legal entity; and
 
-&emsp;“(B) ‘person’ means a natural person, partnership, association, other unincorporated body, or corporation.”
+&emsp;"(B) 'person' means a natural person, partnership, association, other unincorporated body, or corporation."
 
-Subsec. (h)(3). Pub. L. 102–325, §1554(c)(2), substituted at end “individual, except such Institute or legal entity may accept such a gift or contribution to—” for “individual.” and added subpars. (A) and (B).
+Subsec. (h)(3). Pub. L. 102–325, §1554(c)(2), substituted at end "individual, except such Institute or legal entity may accept such a gift or contribution to—" for "individual." and added subpars. (A) and (B).
 
-<b>1990</b>—Subsec. (b)(9), (10). Pub. L. 101–520, §319(a)(1), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “recommend to the Congress the establishment of a United States Medal of Peace to be awarded under such procedures as the Congress may determine, except that no person associated with the Institute may receive the United States Medal of Peace; and”.
+<b>1990</b>—Subsec. (b)(9), (10). Pub. L. 101–520, §319(a)(1), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: "recommend to the Congress the establishment of a United States Medal of Peace to be awarded under such procedures as the Congress may determine, except that no person associated with the Institute may receive the United States Medal of Peace; and".
 
 Subsecs. (c) to (o). Pub. L. 101–520, §319(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (o), respectively.
 
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–418 made technical amendment to directory language of Pub. L. 100–50, see 1987 Amendment note below.
 
-<b>1987</b>—Subsec. (b)(3). Pub. L. 100–50, as amended by Pub. L. 100–418, inserted “establish a Jeannette Rankin Research Program on Peace to” before “conduct research”.
+<b>1987</b>—Subsec. (b)(3). Pub. L. 100–50, as amended by Pub. L. 100–418, inserted "establish a Jeannette Rankin Research Program on Peace to" before "conduct research".
 
 #### Change of Name
 

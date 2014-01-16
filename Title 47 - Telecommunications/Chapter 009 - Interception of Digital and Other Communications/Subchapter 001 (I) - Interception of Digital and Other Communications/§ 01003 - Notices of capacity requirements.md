@@ -52,5 +52,5 @@ The Attorney General shall review the statements submitted under subsection (d) 
 
 (Pub. L. 103–414, title I, §104, Oct. 25, 1994, 108 Stat. 4282.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

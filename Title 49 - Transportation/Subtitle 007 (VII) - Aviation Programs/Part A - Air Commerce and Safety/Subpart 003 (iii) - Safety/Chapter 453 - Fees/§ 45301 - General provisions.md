@@ -22,7 +22,7 @@ Services for which costs may be recovered.—Services for which costs may be rec
 
 &emsp;(3)
 
-Limitations on judicial review.—Notwithstanding section 702 of title 5 or any otherprovision of law, the following actions and other matters shall not be subject to judicial review:
+Limitations on judicial review.—Notwithstanding section 702 of title 5 or any other provision of law, the following actions and other matters shall not be subject to judicial review:
 
 &emsp;&emsp;(A) The establishment or adjustment of a fee by the Administrator under this section.
 
@@ -36,7 +36,7 @@ Aircraft altitude.—Nothing in this section shall require the Administrator to 
 
 &emsp;(5)
 
-Costs defined.—In this subsection, the term “costs” includes operation and maintenance costs, leasing costs, and overhead expenses associated with the services provided and the facilities and equipment used in providing such services.
+Costs defined.—In this subsection, the term "costs" includes operation and maintenance costs, leasing costs, and overhead expenses associated with the services provided and the facilities and equipment used in providing such services.
 
 (c)
 
@@ -44,7 +44,7 @@ Use of Experts and Consultants.—In developing the system, the Administrator ma
 
 (d)
 
-Production-Certification Related Service Defined.—In this section, the term “production-certification related service” has the meaning given that term in appendix C of part 187 of title 14, Code of Federal Regulations.
+Production-Certification Related Service Defined.—In this section, the term "production-certification related service" has the meaning given that term in appendix C of part 187 of title 14, Code of Federal Regulations.
 
 (e)
 
@@ -62,9 +62,9 @@ A prior section 45301, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1225; 
 
 Subsec. (e). Pub. L. 112–95, §121(b), added subsec. (e).
 
-<b>2001</b>—Subsec. (b)(1)(B). Pub. L. 107–71 substituted “reasonably” for “directly” and “Administration's costs, as determined by the Administrator,” for “Administration's costs” and inserted “The Determination of such costs by the Administrator is not subject to judicial review.” at end.
+<b>2001</b>—Subsec. (b)(1)(B). Pub. L. 107–71 substituted "reasonably" for "directly" and "Administration's costs, as determined by the Administrator," for "Administration's costs" and inserted "The Determination of such costs by the Administrator is not subject to judicial review." at end.
 
-<b>2000</b>—Subsec. (a)(2). Pub. L. 106–181, §719(1), added par. (2) and struck out former par. (2) which read as follows: “Services (other than air traffic control services) provided to a foreign government.”
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–181, §719(1), added par. (2) and struck out former par. (2) which read as follows: "Services (other than air traffic control services) provided to a foreign government."
 
 Subsec. (d). Pub. L. 106–181, §719(2), added subsec. (d).
 
@@ -82,29 +82,29 @@ Except as otherwise specifically provided, section applicable only to fiscal yea
 
 Pub. L. 108–176, title II, §229, Dec. 12, 2003, 117 Stat. 2532, provided that:
 
-“(a)
+"(a)
 
 Adoption and Legalization of Certain Rules.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Applicability and effect of certain law.—Notwithstanding section 141(d)(1) of the Aviation and Transportation Security Act \[Pub. L. 107–71\] (49 U.S.C. 44901 note), section 45301(b)(1)(B) of title 49, United States Code, is deemed to apply to and to have effect with respect to the authority of the Administrator of the Federal Aviation Administration with respect to the interim final rule and final rule, relating to overflight fees, issued by the Administrator on May 30, 2000, and August 13, 2001, respectively.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Adoption and legalization.—The interim final rule and final rule referred to in subsection (a), including the fees issued pursuant to those rules, are adopted, legalized, and confirmed as fully to all intents and purposes as if the same had, by prior Act of Congress, been specifically adopted, authorized, and directed as of the date those rules were originally issued.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Fees to which applicable.—This subsection applies to fees assessed after November 19, 2001, and before April 8, 2003, and fees collected after the requirements of subsection (b) have been met.
 
-“(b)
+"(b)
 
 Deferred Collection of Fees.—The Administrator shall defer collecting fees under section 45301(a)(1) of title 49, United States Code, until the Administrator (1) reports to Congress responding to the issues raised by the court in Air Transport Association of Canada v. Federal Aviation Administration and Administrator, FAA, decided on April 8, 2003, and (2) consults with users and other interested parties regarding the consistency of the fees established under such section with the international obligations of the United States.
 
-“(c)
+"(c)
 
-Enforcement.—The Administrator shall take an appropriate enforcement action under subtitle VII of title 49, United States Code, against any user that does not pay a fee under section 45301(a)(1) of such title.”
+Enforcement.—The Administrator shall take an appropriate enforcement action under subtitle VII of title 49, United States Code, against any user that does not pay a fee under section 45301(a)(1) of such title."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

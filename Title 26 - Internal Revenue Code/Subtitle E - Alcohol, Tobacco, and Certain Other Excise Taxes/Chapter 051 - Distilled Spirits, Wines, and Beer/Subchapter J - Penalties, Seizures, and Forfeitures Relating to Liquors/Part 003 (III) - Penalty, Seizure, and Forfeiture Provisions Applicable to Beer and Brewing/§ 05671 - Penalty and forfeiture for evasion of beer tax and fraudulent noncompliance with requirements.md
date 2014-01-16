@@ -10,7 +10,7 @@ A prior section 5671, act Aug. 16, 1954, ch. 736, 68A Stat. 696, consisted of pr
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–59 struck out “or 5091” after “section 5051”.
+<b>2005</b>—Pub. L. 109–59 struck out "or 5091" after "section 5051".
 
 #### Effective Date of 2005 Amendment
 

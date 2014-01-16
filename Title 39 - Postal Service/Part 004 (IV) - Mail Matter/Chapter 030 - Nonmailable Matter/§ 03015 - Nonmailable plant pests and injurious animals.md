@@ -10,7 +10,7 @@ Plant Pests.—Any plant pest, the movement of which is prohibited pursuant to s
 
 (c)
 
-Plants.—Any plant, article, or matter, the importation or interstate shipment of which is prohibited pursuant to the Act of August 20, 1912 (37 Stat. 315, chapter 308; 7 U.S.C. 151 et seq.) (commonly known as the “Plant Quarantine Act”),<sup>1</sup> constitutes nonmailable matter.
+Plants.—Any plant, article, or matter, the importation or interstate shipment of which is prohibited pursuant to the Act of August 20, 1912 (37 Stat. 315, chapter 308; 7 U.S.C. 151 et seq.) (commonly known as the "Plant Quarantine Act"),<sup>1</sup> constitutes nonmailable matter.
 
 (d)
 
@@ -26,143 +26,143 @@ The Plant Quarantine Act, referred to in subsec. (c), is act Aug. 20, 1912, ch. 
 
 #### Short Title
 
-Pub. L. 102–393, title VI, §631(e), Oct. 6, 1992, 106 Stat. 1776, provided that: “This section \[enacting this section and provisions set out below\] may be cited as the ‘Alien Species Prevention and Enforcement Act of 1992’.”
+Pub. L. 102–393, title VI, §631(e), Oct. 6, 1992, 106 Stat. 1776, provided that: "This section \[enacting this section and provisions set out below\] may be cited as the 'Alien Species Prevention and Enforcement Act of 1992'."
 
 #### Alien Species Prevention and Enforcement in Hawaii
 
 Pub. L. 102–393, title VI, §631(a)–(c), Oct. 6, 1992, 106 Stat. 1774, 1776, provided that:
 
-“(a)
+"(a)
 
 Pests in the Mails.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Subject to paragraph (2), the Secretary of Agriculture shall hereafter operate a program, under terms and conditions acceptable to the Postal Service, to protect Hawaii from the introduction of prohibited plants, plant pests, and injurious animals that may be contained in mail received in Hawaii, except that this subsection shall not apply to mail that originates and is intended for delivery outside the United States.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Memorandum of understanding.—For the purpose of carrying out the program operated under paragraph (1), the Secretary of Agriculture shall enter into a memorandum of understanding or other agreement with the Secretary of the Interior relating to prohibited plants, plant pests, or injurious animals under the jurisdiction of the Department of the Interior.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Remedial action.—If, pursuant to the program, mail is found to contain a prohibited plant, plant pest, or injurious animal, the Secretary shall—
 
-&emsp;&emsp;“(A) make a record of the prohibited plant, plant pest, or injurious animal found in the mail;
+&emsp;&emsp;"(A) make a record of the prohibited plant, plant pest, or injurious animal found in the mail;
 
-&emsp;&emsp;“(B) take appropriate action to prevent the introduction of the prohibited material into Hawaii; and
+&emsp;&emsp;"(B) take appropriate action to prevent the introduction of the prohibited material into Hawaii; and
 
-&emsp;&emsp;“(C) determine whether the facts and circumstances warrant seeking prosecution under a law prohibiting the conveyance of a plant, plant pest, or injurious animal.
+&emsp;&emsp;"(C) determine whether the facts and circumstances warrant seeking prosecution under a law prohibiting the conveyance of a plant, plant pest, or injurious animal.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Definitions.—As used in this subsection:
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-Injurious animal.—The term ‘injurious animal’ means an animal the importation or interstate shipment of which is prohibited by section 42 of title 18, United States Code.
+Injurious animal.—The term 'injurious animal' means an animal the importation or interstate shipment of which is prohibited by section 42 of title 18, United States Code.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Plant.—The term ‘plant’ means a plant from any class of plants, or any other article or matter, the importation or interstate shipment of which is prohibited under the Act of August 20, 1912 (37 Stat. 315, chapter 308; 7 U.S.C. 151 et seq.) (commonly known as the ‘Plant Quarantine Act’).
+Plant.—The term 'plant' means a plant from any class of plants, or any other article or matter, the importation or interstate shipment of which is prohibited under the Act of August 20, 1912 (37 Stat. 315, chapter 308; 7 U.S.C. 151 et seq.) (commonly known as the 'Plant Quarantine Act').
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
-Plant pest.—The term ‘plant pest’ means any organism or substance the importation or interstate shipment of which is prohibited under the Federal Plant Pest Act (7 U.S.C. 150aa et seq.).
+Plant pest.—The term 'plant pest' means any organism or substance the importation or interstate shipment of which is prohibited under the Federal Plant Pest Act (7 U.S.C. 150aa et seq.).
 
-“(b)
+"(b)
 
 Cooperative Agreements With Hawaii To Enforce Certain Agricultural Quarantine Laws.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Agreement between secretary of agriculture and hawaii.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Not later than 90 days after the date of enactment of this Act \[Oct. 6, 1992\], the Secretary of Agriculture shall offer to enter into a cooperative agreement with the State of Hawaii for a 2-year period to enforce in the State—
 
-&emsp;&emsp;&emsp;“(i) the Act of August 20, 1912 (37 Stat. 315, chapter 308; 7 U.S.C. 151 et seq.) (commonly known as the ‘Plant Quarantine Act’);
+&emsp;&emsp;&emsp;"(i) the Act of August 20, 1912 (37 Stat. 315, chapter 308; 7 U.S.C. 151 et seq.) (commonly known as the 'Plant Quarantine Act');
 
-&emsp;&emsp;&emsp;“(ii) the Federal Plant Pest Act (7 U.S.C. 150aa et seq.); and
+&emsp;&emsp;&emsp;"(ii) the Federal Plant Pest Act (7 U.S.C. 150aa et seq.); and
 
-&emsp;&emsp;&emsp;“(iii) the matter under the heading ‘
+&emsp;&emsp;&emsp;"(iii) the matter under the heading '
 
-Enforcement of the plant-quarantine Act:’ of the Act of March 4, 1915 (38 Stat. 1113; 7 U.S.C. 166 \[7760\]) (commonly known as the ‘Terminal Inspection Act’).
+Enforcement of the plant-quarantine Act:' of the Act of March 4, 1915 (38 Stat. 1113; 7 U.S.C. 166 \[7760\]) (commonly known as the 'Terminal Inspection Act').
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Inspection of plants and plant products.—The cooperative agreement shall establish a specific procedure for the submission and approval of the names of plants and plant products that the State of Hawaii elects to inspect under the provision of law referred to in subparagraph (A)(iii).
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Authority.—The Secretary shall carry out this paragraph under the authority provided by—
 
-&emsp;&emsp;&emsp;“(i) section 102 of the Department of Agriculture Organic Act of 1944 (7 U.S.C. 147a);
+&emsp;&emsp;&emsp;"(i) section 102 of the Department of Agriculture Organic Act of 1944 (7 U.S.C. 147a);
 
-&emsp;&emsp;&emsp;“(ii) section 3 of the Act of May 29, 1884 (23 Stat. 32, chapter 60; 21 U.S.C. 114); and
+&emsp;&emsp;&emsp;"(ii) section 3 of the Act of May 29, 1884 (23 Stat. 32, chapter 60; 21 U.S.C. 114); and
 
-&emsp;&emsp;&emsp;“(iii) section 11 of the Department of Agriculture Organic Act of 1956 (7 U.S.C. 114a) \[probably means section 11 of act May 29, 1884, as added by the Department of Agriculture Organic Act of 1944, which is classified to 21 U.S.C. 114a\].
+&emsp;&emsp;&emsp;"(iii) section 11 of the Department of Agriculture Organic Act of 1956 (7 U.S.C. 114a) \[probably means section 11 of act May 29, 1884, as added by the Department of Agriculture Organic Act of 1944, which is classified to 21 U.S.C. 114a\].
 
-&emsp;“(2)
+&emsp;"(2)
 
 Agreement between secretary of the interior and hawaii.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Not later than 90 days after the date of enactment of this Act \[Oct. 6, 1992\], the Secretary of the Interior shall offer to enter into a cooperative agreement with the State of Hawaii for a 2-year period to enforce in the State the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Authority.—The Secretary shall use to carry out this paragraph the authority provided under section 3 of the Fish and Wildlife Improvement Act of 1978 (16 U.S.C. 742l).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Agreement between postal service and hawaii.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Not later than 90 days after the date of enactment of this Act, the Postal Service shall offer to enter into a cooperative agreement with the State of Hawaii for a 2-year period to enforce in the State, under terms and conditions acceptable to the Postal Service and in compliance with postal regulations, Public Law 100–574 \[enacting section 3014 of this title, sections 1716B and 1716C of Title 18, Crimes and Criminal Procedure, and provisions set out as a note under section 3014 of this title\] and the amendments made by such Public Law.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Authority.—The Postal Service shall use to carry out this paragraph the authority provided under section 3014 of title 39, United States Code.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Cooperative programs.—Any program conducted jointly by the State of Hawaii and any Federal agency under this subsection that in any way affects the mail or the postal system of the United States shall comply with postal regulations and shall be conducted under terms and conditions acceptable to the Postal Service.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Extension of agreements.—A cooperative agreement entered into under this subsection may be extended by mutual consent of the parties to the agreement.
 
-“(c)
+"(c)
 
 Public Information Program on Prohibitions Against Shipment or Transportation of Plant Pests and Injurious Animals.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Postal Service, the Secretary of the Interior, and the Secretary of Agriculture shall jointly establish a public information program to inform the public on—
 
-&emsp;&emsp;“(A) the prohibitions against the shipment or transportation of plants, plants \[sic\] pests, and injurious animals; and
+&emsp;&emsp;"(A) the prohibitions against the shipment or transportation of plants, plants \[sic\] pests, and injurious animals; and
 
-&emsp;&emsp;“(B) the consequences of violating Federal laws designed to prevent the introduction of alien species into the State of Hawaii and other areas of the United States.
+&emsp;&emsp;"(B) the consequences of violating Federal laws designed to prevent the introduction of alien species into the State of Hawaii and other areas of the United States.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Methods.—In carrying out paragraph (1), the Postal Service and Secretaries may—
 
-&emsp;&emsp;“(A) use public service announcements, mail, and other forms of distributing information, dial-up information services, and such other methods as will effectively communicate the information described in paragraph (1); and
+&emsp;&emsp;"(A) use public service announcements, mail, and other forms of distributing information, dial-up information services, and such other methods as will effectively communicate the information described in paragraph (1); and
 
-&emsp;&emsp;“(B) cooperate with State and private organizations to carry out the program established under this subsection.
+&emsp;&emsp;"(B) cooperate with State and private organizations to carry out the program established under this subsection.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Study.—Not later than 1 year after the program established under subsection (a) commences, the Secretary of Agriculture, in cooperation with the Secretary of the Interior, the Postal Service, and the State of Hawaii, shall—
 
-&emsp;&emsp;“(A) conduct a study to determine the proportion of plant pests and injurious animals that are introduced into Hawaii by various modes of commerce; and
+&emsp;&emsp;"(A) conduct a study to determine the proportion of plant pests and injurious animals that are introduced into Hawaii by various modes of commerce; and
 
-&emsp;&emsp;“(B) report the results of the study to Congress.”
+&emsp;&emsp;"(B) report the results of the study to Congress."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

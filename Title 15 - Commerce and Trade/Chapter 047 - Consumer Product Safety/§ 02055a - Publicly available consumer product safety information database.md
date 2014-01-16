@@ -14,7 +14,7 @@
 
 #### (2) Submission of detailed implementation plan to Congress
 
-&emsp;Not later than 180 days after August 14, 2008, the Commission shall transmit to the appropriate Congressional committees a detailed plan for establishing and maintaining the database required by paragraph (1), including plans for the operation, content, maintenance, and functionality of the database. The planshall detail the integration of the database into the Commission's overall information technology improvement objectives and plans. The plan submitted under this subsection shall include a detailed implementation schedule for the database, and plans for a public awareness campaign to be conducted by the Commission to increase consumer awareness of the database.
+&emsp;Not later than 180 days after August 14, 2008, the Commission shall transmit to the appropriate Congressional committees a detailed plan for establishing and maintaining the database required by paragraph (1), including plans for the operation, content, maintenance, and functionality of the database. The plan shall detail the integration of the database into the Commission's overall information technology improvement objectives and plans. The plan submitted under this subsection shall include a detailed implementation schedule for the database, and plans for a public awareness campaign to be conducted by the Commission to increase consumer awareness of the database.
 
 #### (3) Date of initial availability
 
@@ -110,7 +110,7 @@
 
 #### (ii) Redaction
 
-&emsp;&emsp;&emsp;If the Commission determines that the designated information contains, or relates to, a trade secret or other matter referred to in section 1905 of title 18, or that is subject to section 552(b)(4) of title 5, the Commission shall redact the designated information in the report before it is placed in the database.
+&emsp;&emsp;&emsp;If the Commission determines that the designated information contains, or relates to, a trade secret or other matter referred to in section 1905 of title 18, or that is subject to section 552(b)(4) of title 5, theCommission shall redact the designated information in the report before it is placed in the database.
 
 #### (iii) Review
 
@@ -204,7 +204,7 @@ Within 2 years after the date on which the Commission establishes the database u
 
 #### (g) Harm defined
 
-In this section, the term “harm” means—
+In this section, the term "harm" means—
 
 &emsp;(1) injury, illness, or death; or
 
@@ -214,9 +214,9 @@ In this section, the term “harm” means—
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c)(3)(A). Pub. L. 112–28, §7(1), inserted “or paragraph (5)” after “paragraph (4)(A)”.
+<b>2011</b>—Subsec. (c)(3)(A). Pub. L. 112–28, §7(1), inserted "or paragraph (5)" after "paragraph (4)(A)".
 
-Subsec. (c)(4)(A). Pub. L. 112–28, §7(2), substituted “receives notice that the information in such report or comment is materially inaccurate, the Commission shall stay the publication of the report on the database as required under paragraph (3) for a period of no more than 5 additional days. If the Commission determines that the information in such report or comment is materially inaccurate, the Commission shall—” for “determines that the information in such report or comment is materially inaccurate, the Commission shall—” in introductory provisions.
+Subsec. (c)(4)(A). Pub. L. 112–28, §7(2), substituted "receives notice that the information in such report or comment is materially inaccurate, the Commission shall stay the publication of the report on the database as required under paragraph (3) for a period of no more than 5 additional days. If the Commission determines that the information in such report or comment is materially inaccurate, the Commission shall—" for "determines that the information in such report or comment is materially inaccurate, the Commission shall—" in introductory provisions.
 
 Subsec. (c)(5). Pub. L. 112–28, §7(3), added par. (5).
 

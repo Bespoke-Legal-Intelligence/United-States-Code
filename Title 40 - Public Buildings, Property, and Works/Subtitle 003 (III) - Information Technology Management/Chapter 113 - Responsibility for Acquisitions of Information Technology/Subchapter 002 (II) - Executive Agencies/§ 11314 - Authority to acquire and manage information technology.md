@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 Pub. L. 104–106, div. E, title LI, §5124, Feb. 10, 1996, 110 Stat. 684.
 
-In subsection (b), the words “Notwithstanding any other provision of this or any other law” are omitted as unnecessary.
+In subsection (b), the words "Notwithstanding any other provision of this or any other law" are omitted as unnecessary.
 

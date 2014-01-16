@@ -12,15 +12,15 @@ It is declared to be the policy of the United States of America that Government 
 
 #### References in Text
 
-Atomic Energy Act of 1954, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Short Title
 
-Act Aug. 4, 1955, ch. 543, §1, 69 Stat. 471, provided that: “This Act \[enacting this chapter and amending section 1715n of Title 12, Banks and Banking, and section 243 of Title 20, Education\] may be cited as the ‘Atomic Energy Community Act of 1955’.”
+Act Aug. 4, 1955, ch. 543, §1, 69 Stat. 471, provided that: "This Act \[enacting this chapter and amending section 1715n of Title 12, Banks and Banking, and section 243 of Title 20, Education\] may be cited as the 'Atomic Energy Community Act of 1955'."
 
 #### Separability
 
-Act Aug. 4, 1955, ch. 543, ch. 11, §119, 69 Stat. 484, provided that: “If any provisions of this Act \[see Short Title note above\], or the application of such provision to any person or circumstances, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+Act Aug. 4, 1955, ch. 543, ch. 11, §119, 69 Stat. 484, provided that: "If any provisions of this Act \[see Short Title note above\], or the application of such provision to any person or circumstances, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby."
 
 #### Transfer of Functions
 

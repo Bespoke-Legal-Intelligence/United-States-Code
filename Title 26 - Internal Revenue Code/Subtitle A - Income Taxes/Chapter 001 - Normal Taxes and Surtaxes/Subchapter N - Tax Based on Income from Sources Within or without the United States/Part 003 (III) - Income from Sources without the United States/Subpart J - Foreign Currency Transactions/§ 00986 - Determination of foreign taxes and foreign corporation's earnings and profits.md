@@ -60,7 +60,7 @@
 
 #### (4) Foreign income taxes
 
-&emsp;For purposes of this subsection, the term “foreign income taxes” means any income, war profits, or excess profits taxes paid or accrued to any foreign country or to any possession of the United States.
+&emsp;For purposes of this subsection, the term "foreign income taxes" means any income, war profits, or excess profits taxes paid or accrued to any foreign country or to any possession of the United States.
 
 #### (b) Earnings and profits and distributions
 
@@ -92,41 +92,41 @@ Pub. L. 108–357, §408(a), redesignated subpar. (D) as (E).
 
 Subsec. (a)(1)(F). Pub. L. 108–357, §408(b)(1), redesignated subpar. (E) as (F).
 
-Subsec. (a)(2). Pub. L. 108–357, §408(b)(2), inserted “or (E)” after “subparagraph (A)” in introductory provisions.
+Subsec. (a)(2). Pub. L. 108–357, §408(b)(2), inserted "or (E)" after "subparagraph (A)" in introductory provisions.
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–34, §1102(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
-“(a)
+"(a)
 
 Foreign Taxes.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—For purposes of determining the amount of the foreign tax credit—
 
-&emsp;&emsp;“(A) any foreign income taxes shall be translated into dollars using the exchange rates as of the time such taxes were paid to the foreign country or possession of the United States, and
+&emsp;&emsp;"(A) any foreign income taxes shall be translated into dollars using the exchange rates as of the time such taxes were paid to the foreign country or possession of the United States, and
 
-&emsp;&emsp;“(B) any adjustment to the amount of foreign income taxes shall be translated into dollars using—
+&emsp;&emsp;"(B) any adjustment to the amount of foreign income taxes shall be translated into dollars using—
 
-&emsp;&emsp;&emsp;“(i) except as provided in clause (ii), the exchange rate as of the time when such adjustment is paid to the foreign country or possession, or
+&emsp;&emsp;&emsp;"(i) except as provided in clause (ii), the exchange rate as of the time when such adjustment is paid to the foreign country or possession, or
 
-&emsp;&emsp;&emsp;“(ii) in the case of any refund or credit of foreign income taxes, using the exchange rate as of the time of original payment of such foreign income taxes.
+&emsp;&emsp;&emsp;"(ii) in the case of any refund or credit of foreign income taxes, using the exchange rate as of the time of original payment of such foreign income taxes.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Foreign income taxes.—For purposes of paragraph (1), ‘foreign income taxes’ means any income, war profits, or excess profits taxes paid to any foreign country or to any possession of the United States.”
+Foreign income taxes.—For purposes of paragraph (1), 'foreign income taxes' means any income, war profits, or excess profits taxes paid to any foreign country or to any possession of the United States."
 
 Subsec. (a)(3), (4). Pub. L. 105–34, §1102(b)(1), added par. (3) and redesignated former par. (3) as (4).
 
-<b>1988</b>—Pub. L. 100–647 substituted “foreign taxes and foreign corporation's earnings and profits” for “foreign corporation's earnings and profits and foreign taxes” in heading, and revised and restructured the provisions of subsecs. (a) and (b).
+<b>1988</b>—Pub. L. 100–647 substituted "foreign taxes and foreign corporation's earnings and profits" for "foreign corporation's earnings and profits and foreign taxes" in heading, and revised and restructured the provisions of subsecs. (a) and (b).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title IV, §408(c), Oct. 22, 2004, 118 Stat. 1500, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 108–357, title IV, §408(c), Oct. 22, 2004, 118 Stat. 1500, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004."
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XI, §1102(c)(1), Aug. 5, 1997, 111 Stat. 966, provided that: “The amendments made by subsections (a)(1) and (b) \[amending this section and section 989 of this title\] shall apply to taxes paid or accrued in taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title XI, §1102(c)(1), Aug. 5, 1997, 111 Stat. 966, provided that: "The amendments made by subsections (a)(1) and (b) \[amending this section and section 989 of this title\] shall apply to taxes paid or accrued in taxable years beginning after December 31, 1997."
 
 #### Effective Date of 1988 Amendment
 

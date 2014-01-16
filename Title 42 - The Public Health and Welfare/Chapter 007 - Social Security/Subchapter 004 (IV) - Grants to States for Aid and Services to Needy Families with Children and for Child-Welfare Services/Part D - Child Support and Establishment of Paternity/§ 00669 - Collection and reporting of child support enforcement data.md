@@ -30,15 +30,15 @@ For purposes of subsection (a)(2) of this section, a service has actually been p
 
 <b>1998</b>—Pub. L. 105–200 reenacted section catchline without change, added subsecs. (a) to (c), redesignated former subsec. (c) as (d) and inserted heading, and struck out former subsec. (a) relating to statistics on need for and actual provision of services and subsec. (b) relating to types of services.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–193, §108(c)(16), substituted “assistance under State programs funded under part A of this subchapter and for families not receiving such assistance)” for “aid under plans approved under part A of this subchapter and for families not receiving such aid)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §108(c)(16), substituted "assistance under State programs funded under part A of this subchapter and for families not receiving such assistance)" for "aid under plans approved under part A of this subchapter and for families not receiving such aid)".
 
-Subsec. (b)(2), (4). Pub. L. 104–193, §395(d)(2)(E), substituted “a noncustodial parent” for “an absent parent”.
+Subsec. (b)(2), (4). Pub. L. 104–193, §395(d)(2)(E), substituted "a noncustodial parent" for "an absent parent".
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–647 made technical amendment to references to part A of this subchapter and to this part involving underlying provisions of original act and requiring no change in text.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–200 applicable to information maintained with respect to fiscal year 1995 or any succeeding fiscal year, see section 407(c) of Pub. L. 105–200, set out as a note under section 652 of this title.
+Amendment by Pub. L. 105–200 applicable to information maintained with respect to fiscal year 1995 or anysucceeding fiscal year, see section 407(c) of Pub. L. 105–200, set out as a note under section 652 of this title.
 
 #### Effective Date of 1996 Amendment
 

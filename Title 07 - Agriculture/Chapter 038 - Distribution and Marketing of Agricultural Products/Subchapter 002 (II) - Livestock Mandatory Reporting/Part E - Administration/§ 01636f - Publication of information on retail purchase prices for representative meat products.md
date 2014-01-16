@@ -20,7 +20,7 @@ During the period ending 2 years after the initial publication of the report req
 
 #### (1) In general
 
-&emsp;To ensure the accuracy of the reports required under subsection (a) of this section, the Secretary shall obtain the information for the reports from one or more sources including—
+&emsp;To ensure the accuracy of the reports required under subsection (a) of this section, theSecretary shall obtain the information for the reports from one or more sources including—
 
 &emsp;&emsp;(A) a consistently representative set of retail transactions; and
 

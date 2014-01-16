@@ -34,11 +34,11 @@ Authority Under AWACS Program.—The Secretary of Defense, in carrying out an AW
 
 (b)
 
-Contract Authority Limitation.—Authority under this section to enter into contracts shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
+Contract Authority Limitation.—Authority under this section to enter into contracts shall be effective for any fiscal year only to suchextent or in such amounts as are provided in appropriation Acts.
 
 (c)
 
-Definition.—In this section, the term “AWACS memorandum of understanding” means—
+Definition.—In this section, the term "AWACS memorandum of understanding" means—
 
 &emsp;(1) the Multilateral Memorandum of Understanding Between the North Atlantic Treaty Organization (NATO) Ministers of Defence on the NATO E–3A Cooperative Programme, signed by the Secretary of Defense on December 6, 1978;
 
@@ -56,11 +56,11 @@ Provisions similar to those in this section were contained in Pub. L. 97–86, t
 
 #### Amendments
 
-<b>1993</b>—Subsec. (d). Pub. L. 103–160 struck out subsec. (d) which read as follows: “
+<b>1993</b>—Subsec. (d). Pub. L. 103–160 struck out subsec. (d) which read as follows: "
 
-Expiration.—The authority provided by this section expires on September 30, 1993.”
+Expiration.—The authority provided by this section expires on September 30, 1993."
 
 <b>1991</b>—Subsec. (c)(3), (4). Pub. L. 102–190, §1051(1), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (d). Pub. L. 102–190, §1051(2), substituted “1993” for “1991”.
+Subsec. (d). Pub. L. 102–190, §1051(2), substituted "1993" for "1991".
 

@@ -10,21 +10,21 @@
 
 (d) In this section:
 
-&emsp;(1) The term “financial institution” means a bank, savings and loan association, or similar institution or a credit union chartered by the United States or a State.
+&emsp;(1) The term "financial institution" means a bank, savings and loan association, or similar institution or a credit union chartered by the United States or a State.
 
-&emsp;(2) The term “pay” includes allowances.
+&emsp;(2) The term "pay" includes allowances.
 
 (Added Pub. L. 101–189, div. A, title VI, §664(b)(1), Nov. 29, 1989, 103 Stat. 1466; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(6), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–25, title VII, §701(e)(8)(A), Apr. 6, 1991, 105 Stat. 115; Pub. L. 105–261, div. A, title V, §564(b), Oct. 17, 1998, 112 Stat. 2029.)
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘financial institution’ has the meaning given the term ‘financial organization’ in section 3332(a) of title 31.”
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'financial institution' has the meaning given the term 'financial organization' in section 3332(a) of title 31."
 
-<b>1991</b>—Pub. L. 102–25 struck out “mandatory” after “error in” in section catchline.
+<b>1991</b>—Pub. L. 102–25 struck out "mandatory" after "error in" in section catchline.
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–510 substituted “In this section” for “in this section”.
+<b>1990</b>—Subsec. (d). Pub. L. 101–510 substituted "In this section" for "in this section".
 
 #### Effective Date
 
-Section applicable with respect to pay and allowances deposited (or scheduled to be deposited) on orafter first day of first month beginning after Nov. 29, 1989, see section 664(c) of Pub. L. 101–189, set out as an Effective Date of 1989 Amendment note under section 1053 of this title.
+Section applicable with respect to pay and allowances deposited (or scheduled to be deposited) on or after first day of first month beginning after Nov. 29, 1989, see section 664(c) of Pub. L. 101–189, set out as an Effective Date of 1989 Amendment note under section 1053 of this title.
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) to facilitate the development, directly or through contracts with producers of children and family educational television programming, of educational programming for preschool and elementary school children, and the accompanying support materials and services that promote the effective use of such programming;
 
-&emsp;&emsp;(C) to facilitate the development of programming and digital content containing Ready-to-Learn-based children's programming and resources for parents and caregivers that is specially designed for nationwide distribution over public television stations’ digital broadcasting channels and the Internet;
+&emsp;&emsp;(C) to facilitate the development of programming and digital content containing Ready-to-Learn-based children's programming and resources for parents and caregivers that is specially designed for nationwide distribution over public television stations' digital broadcasting channels and the Internet;
 
 &emsp;&emsp;(D) to contract with entities (such as public telecommunications entities) so that programs developed under this section are disseminated and distributed to the widest possible audience appropriate to be served by the programming, and through the use of the most appropriate distribution technologies; and
 
@@ -72,7 +72,7 @@ To be eligible to receive a grant, contract, or cooperative agreement under subs
 
 #### (d) Administrative costs
 
-An entity that receives a grant, contract, or cooperative agreement under this section mayuse up to 5 percent of the amount received under the grant, contract, or agreement for the normal and customary expenses of administering the grant, contract, or agreement.
+An entity that receives a grant, contract, or cooperative agreement under this section may use up to 5 percent of the amount received under the grant, contract, or agreement for the normal and customary expenses of administering the grant, contract, or agreement.
 
 #### (e) Authorization of appropriations
 

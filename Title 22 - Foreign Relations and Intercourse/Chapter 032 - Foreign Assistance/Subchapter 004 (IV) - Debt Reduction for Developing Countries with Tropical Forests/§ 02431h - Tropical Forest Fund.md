@@ -6,7 +6,7 @@ Each beneficiary country that enters into a Tropical Forest Agreement under sect
 
 #### (b) Requirements relating to operation of Fund
 
-The following terms and conditions shall apply to the Fund in the same manner as suchterms as <sup>1</sup> conditions apply to an Enterprise for the Americas Fund under section 2430f of this title:
+The following terms and conditions shall apply to the Fund in the same manner as such terms as <sup>1</sup> conditions apply to an Enterprise for the Americas Fund under section 2430f of this title:
 
 &emsp;(1) The provision relating to deposits under subsection (b) of such section.
 
@@ -18,7 +18,7 @@ The following terms and conditions shall apply to the Fund in the same manner as
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–323 inserted “and principal” after “interest”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–323 inserted "and principal" after "interest".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "and".</i>
 

@@ -4,7 +4,7 @@
 
 Prerequisite of Completion of Joint Professional Military Education Phase I Program of Instruction.—(1) After September 30, 2009, an officer of the armed forces may not be accepted for, or assigned to, a program of instruction designated by the Secretary of Defense as joint professional military education Phase II unless the officer has successfully completed a program of instruction designated by the Secretary of Defense as joint professional military education Phase I.
 
-(2) The Chairman of the Joint Chiefs of Staff may grant exceptions to the requirement under paragraph (1). Such an exception may be granted only on a case-by-case basis under exceptional circumstances, as determined by the Chairman. An officer selected to receive such an exception shall have knowledge of joint matters and other aspects of the Phase I curriculum that, to the satisfaction of the Chairman, qualifies the officer to meet the minimum requirements established for entry into Phase II instruction without first completing Phase I instruction. The number of officers selected to attend an offering of the principal course of instruction at the Joint Forces Staff College or a senior level service school designated by the Secretary of Defense as a joint professional military educationinstitution who have not completed Phase I instruction should comprise no more than 10 percent of the total number of officers selected.
+(2) The Chairman of the Joint Chiefs of Staff may grant exceptions to the requirement under paragraph (1). Such an exception may be granted only on a case-by-case basis under exceptional circumstances, as determined by the Chairman. An officer selected to receive such an exception shall have knowledge of joint matters and other aspects of the Phase I curriculum that, to the satisfaction of the Chairman, qualifies the officer to meet the minimum requirements established for entry into Phase II instruction without first completing Phase I instruction. The number of officers selected to attend an offering of the principal course of instruction at the Joint Forces Staff College or a senior level service school designated by the Secretary of Defense as a joint professional military education institution who have not completed Phase I instruction should comprise no more than 10 percent of the total number of officers selected.
 
 (b)
 
@@ -42,37 +42,37 @@ Student Ratio; Faculty Ratio.—Not later than September 30, 2009, for courses o
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–364, §1071(a)(13), substituted “Phase” for “phase” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §1071(a)(13), substituted "Phase" for "phase" in section catchline.
 
-Subsec. (a). Pub. L. 109–364, §1071(a)(14), inserted “Phase” after “Education” in heading.
+Subsec. (a). Pub. L. 109–364, §1071(a)(14), inserted "Phase" after "Education" in heading.
 
 #### Pilot Program on JPME Phase II on Other Than In-Residence Basis
 
 Pub. L. 112–81, div. A, title V, §552(b), Dec. 31, 2011, 125 Stat. 1412, provided that:
 
-“(1)
+"(1)
 
 Pilot program authorized.—The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of offering a program of instruction for Phase II joint professional military education (JPME II) on an other than in-residence basis.
 
-“(2)
+"(2)
 
 Location.—The pilot program authorized by this subsection shall be carried out at the headquarters of not more than two combatant commands selected by the Secretary for purposes of the pilot program.
 
-“(3)
+"(3)
 
 Program of instruction.—The program of instruction offered under the pilot program authorized by this subsection shall meet the requirements of section 2155 of title 10, United States Code.
 
-“(4)
+"(4)
 
 Report.—Not later than one year before completion of the pilot program authorized by this subsection, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program. The report shall include the following:
 
-&emsp;“(A) The number of students enrolled at each location under the pilot program.
+&emsp;"(A) The number of students enrolled at each location under the pilot program.
 
-&emsp;“(B) The number of students who successfully completed the program of instruction under the pilot program and were awarded credit for Phase II joint professional military education.
+&emsp;"(B) The number of students who successfully completed the program of instruction under the pilot program and were awarded credit for Phase II joint professional military education.
 
-&emsp;“(C) The assessment of the Secretary regarding the feasibility and advisability of expanding the pilot program to the headquarters of additional combatant commands, or of making the pilot program permanent, and a statement of the legislative or administrative actions required to implement such assessment.
+&emsp;"(C) The assessment of the Secretary regarding the feasibility and advisability of expanding the pilot program to the headquarters of additional combatant commands, or of making the pilot program permanent, and a statement of the legislative or administrative actions required to implement such assessment.
 
-“(5)
+"(5)
 
-Sunset.—The authority in this subsection to carry out the pilot program shall expire on the date that is five years after the date of the enactment of this Act \[Dec. 31, 2011\].”
+Sunset.—The authority in this subsection to carry out the pilot program shall expire on the date that is five years after the date of the enactment of this Act \[Dec. 31, 2011\]."
 

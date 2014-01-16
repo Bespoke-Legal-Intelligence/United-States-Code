@@ -84,7 +84,7 @@ Not more than 5 percent of funds provided to a grantee under this section for an
 
 #### (c) Priorities
 
-In awarding grants or contracts to carry out activities described in subsection (a)(2) of this section, except for activities listed in subsection (d)(2) of this section, the Secretary shall give priority to applications from Alaska Native regional nonprofit organizations, or consortia that include at least one Alaska Native regional nonprofit organization.
+In awarding grants or contracts to carry out activities described in subsection (a)(2) of this section, except for activities listed in subsection (d)(2) of this section, the Secretary shall givepriority to applications from Alaska Native regional nonprofit organizations, or consortia that include at least one Alaska Native regional nonprofit organization.
 
 #### (d) Authorization of appropriations
 
@@ -118,5 +118,5 @@ A prior section 7544, Pub. L. 89–10, title VII, §7304, as added Pub. L. 103�
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(2)(P). Pub. L. 108–11 substituted “operated by” for “such as”.
+<b>2003</b>—Subsec. (a)(2)(P). Pub. L. 108–11 substituted "operated by" for "such as".
 

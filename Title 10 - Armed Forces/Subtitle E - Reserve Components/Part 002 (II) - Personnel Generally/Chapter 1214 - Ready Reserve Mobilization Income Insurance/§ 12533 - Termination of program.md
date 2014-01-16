@@ -26,7 +26,7 @@ Termination of Insurance Fund.—The Secretary shall close the Fund not later th
 
 #### Amendments
 
-<b>2001</b>—Subsecs. (b), (c)(1). Pub. L. 107–107, §1048(c)(15)(A), substituted “November 18, 1997.” for “the date of the enactment of this section.”
+<b>2001</b>—Subsecs. (b), (c)(1). Pub. L. 107–107, §1048(c)(15)(A), substituted "November 18, 1997." for "the date of the enactment of this section."
 
-Subsecs. (c)(2), (d). Pub. L. 107–107, §1048(c)(15)(B), substituted “November 18, 1997,” for “the date of the enactment of this section”.
+Subsecs. (c)(2), (d). Pub. L. 107–107, §1048(c)(15)(B), substituted "November 18, 1997," for "the date of the enactment of this section".
 

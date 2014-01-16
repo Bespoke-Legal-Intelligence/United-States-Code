@@ -114,6 +114,10 @@
 
 (Added Pub. L. 95–454, title II, §205, Oct. 13, 1978, 92 Stat. 1140; amended Pub. L. 96–54, §2(a)(46), Aug. 14, 1979, 93 Stat. 384.)
 
+#### References in Text
+
+The General Schedule, referred to in subsec. (d)(6)(B), is set out under section 5332 of this title.
+
 #### Amendments
 
 <b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–54, §2(a)(46)(A), substituted “affected” for “effected”.

@@ -278,5 +278,5 @@ Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and n
 
 For constitutionality of section 102 of Pub. L. 99–240, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

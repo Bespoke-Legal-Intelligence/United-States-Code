@@ -46,7 +46,7 @@ A group health plan, and a health insurance issuer offering group or individual 
 
 #### (d) Notice
 
-A group health plan under this part shall comply with the notice requirement under section1185(d) of title 29 with respect to the requirements of this section as if such section applied to such plan.
+A group health plan under this part shall comply with the notice requirement under section 1185(d) of title 29 with respect to the requirements of this section as if such section applied to such plan.
 
 #### (e) Level and type of reimbursements
 
@@ -72,7 +72,7 @@ Nothing in this section shall be construed to prevent a group health plan or a h
 
 #### References in Text
 
-Section 300gg–23 of this title, referred to in subsec. (f), was in the original section “2723”, and was translated as meaning section 2724 of act July 1, 1944, to reflect the probable intent of Congress and the renumbering of section 2723 as 2724 by Pub. L. 111–148, title I, §§1001(4), 1563(c)(14)(B), formerly §1562(c)(14)(B), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.
+Section 300gg–23 of this title, referred to in subsec. (f), was in the original section "2723", and was translated as meaning section 2724 of act July 1, 1944, to reflect the probable intent of Congress and the renumbering of section 2723 as 2724 by Pub. L. 111–148, title I, §§1001(4), 1563(c)(14)(B), formerly §1562(c)(14)(B), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.
 
 #### Codification
 
@@ -80,29 +80,29 @@ Section was formerly classified to section 300gg–4 of this title prior to renu
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(3)(A), formerly §1562(c)(3)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health insurance coverage” for “group health insurance coverage” in introductory provisions.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(3)(A), formerly §1562(c)(3)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance coverage" for "group health insurance coverage" in introductory provisions.
 
-Subsec. (b). Pub. L. 111–148, §1563(c)(3)(B)(i), formerly §1562(c)(3)(B)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health insurance coverage” for “group health insurance coverage in connection with a group health plan” in introductory provisions.
+Subsec. (b). Pub. L. 111–148, §1563(c)(3)(B)(i), formerly §1562(c)(3)(B)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance coverage" for "group health insurance coverage in connection with a group health plan" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 111–148, §1563(c)(3)(B)(ii), formerly §1562(c)(3)(B)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “plan or coverage” for “plan”.
+Subsec. (b)(1). Pub. L. 111–148, §1563(c)(3)(B)(ii), formerly §1562(c)(3)(B)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "plan or coverage" for "plan".
 
-Subsec. (c)(2). Pub. L. 111–148, §1563(c)(3)(C)(i), formerly §1562(c)(3)(C)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “health insurance issuer offering group or individual health insurance coverage” for “group health insurance coverage offered by a health insurance issuer”.
+Subsec. (c)(2). Pub. L. 111–148, §1563(c)(3)(C)(i), formerly §1562(c)(3)(C)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "health insurance issuer offering group or individual health insurance coverage" for "group health insurance coverage offered by a health insurance issuer".
 
-Subsec. (c)(3). Pub. L. 111–148, §1563(c)(3)(C)(ii), formerly §1562(c)(3)(C)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “health insurance issuer” for “issuer”.
+Subsec. (c)(3). Pub. L. 111–148, §1563(c)(3)(C)(ii), formerly §1562(c)(3)(C)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "health insurance issuer" for "issuer".
 
-Subsec. (e). Pub. L. 111–148, §1563(c)(3)(D), formerly §1562(c)(3)(D), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health insurance coverage” for “group health insurance coverage”.
+Subsec. (e). Pub. L. 111–148, §1563(c)(3)(D), formerly §1562(c)(3)(D), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance coverage" for "group health insurance coverage".
 
 #### Effective Date
 
-Pub. L. 104–204, title VI, §604(c), Sept. 26, 1996, 110 Stat. 2941, provided that: “The amendments made by this section \[enacting this section and amending sections 300gg–21 and 300gg–23 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
+Pub. L. 104–204, title VI, §604(c), Sept. 26, 1996, 110 Stat. 2941, provided that: "The amendments made by this section \[enacting this section and amending sections 300gg–21 and 300gg–23 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998."
 
 #### Congressional Findings
 
-Pub. L. 104–204, title VI, §602, Sept. 26, 1996, 110 Stat. 2935, provided that: “Congress finds that—
+Pub. L. 104–204, title VI, §602, Sept. 26, 1996, 110 Stat. 2935, provided that: "Congress finds that—
 
-&emsp;“(1) the length of post-delivery hospital stay should be based on the unique characteristics of each mother and her newborn child, taking into consideration the health of the mother, the health and stability of the newborn, the ability and confidence of the mother and the father to care for their newborn, the adequacy of support systems at home, and the access of the mother and her newborn to appropriate follow-up health care; and
+&emsp;"(1) the length of post-delivery hospital stay should be based on the unique characteristics of each mother and her newborn child, taking into consideration the health of the mother, the health and stability of the newborn, the ability and confidence of the mother and the father to care for their newborn, the adequacy of support systems at home, and the access of the mother and her newborn to appropriate follow-up health care; and
 
-&emsp;“(2) the timing of the discharge of a mother and her newborn child from the hospital should be made by the attending provider in consultation with the mother.”
+&emsp;"(2) the timing of the discharge of a mother and her newborn child from the hospital should be made by the attending provider in consultation with the mother."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

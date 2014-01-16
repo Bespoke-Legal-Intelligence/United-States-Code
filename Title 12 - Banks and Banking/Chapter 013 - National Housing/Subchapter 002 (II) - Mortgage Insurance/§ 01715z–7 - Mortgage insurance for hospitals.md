@@ -8,7 +8,7 @@ The purpose of this section is to assist the provision of urgently needed hospit
 
 For the purposes of this section—
 
-&emsp;(1) the term “hospital” means a facility—
+&emsp;(1) the term "hospital" means a facility—
 
 &emsp;&emsp;(A) which provides community service for inpatient medical care of the sick or injured (including obstetrical care);
 
@@ -16,7 +16,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(C) which is a public facility, proprietary facility, or facility of a private nonprofit corporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing or regulation by the State, by the municipality or other political subdivision in which the facility is located); and
 
-&emsp;(2) the terms “mortgage” and “mortgagor” shall have the meanings respectfully set forth in section 1713(a) of this title.
+&emsp;(2) the terms "mortgage" and "mortgagor" shall have the meanings respectfully set forth in section 1713(a) of this title.
 
 #### (c) Authorization to insure; prohibition of premiums on guarantees of principal and interest under title VII of the Public Health Service Act
 
@@ -26,7 +26,7 @@ The Secretary is authorized to insure any mortgage (including advances on such m
 
 In order to carry out the purpose of this section, the Secretary is authorized to insure any mortgage which covers a new or rehabilitated hospital, including equipment to be used in its operation, subject to the following conditions:
 
-&emsp;(1) The mortgage shall be executed by a mortgagor approved by the Secretary. The Secretary may in his discretion require any such mortgagor to be regulated or restricted as to charges and methods of financing, and, in addition thereto, if the mortgagor is a corporate entity, as to capital structure and rate of return. As an aid to the regulation or restriction of any mortgagor with respect to any of the foregoing matters, the Secretary may make such contracts with and acquire for not to exceed $100 such stock or interest in such mortgagor as he may deem necessary. Any stock or interest so purchased shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
+&emsp;(1) The mortgage shall be executed by a mortgagor approved by the Secretary. TheSecretary may in his discretion require any such mortgagor to be regulated or restricted as to charges and methods of financing, and, in addition thereto, if the mortgagor is a corporate entity, as to capital structure and rate of return. As an aid to the regulation or restriction of any mortgagor with respect to any of the foregoing matters, the Secretary may make such contracts with and acquire for not to exceed $100 such stock or interest in such mortgagor as he may deem necessary. Any stock or interest so purchased shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
 
 &emsp;(2) The mortgage shall involve a principal obligation in the amount requested by the mortgagor if such amount does not exceed 90 percent of the estimated replacement cost of the property or project including—
 
@@ -44,7 +44,7 @@ In order to carry out the purpose of this section, the Secretary is authorized t
 
 &emsp;(B) The Secretary shall establish the means for determining need and feasibility for the hospital, if the State does not have an official procedure for determining need for hospitals. If the State has an official procedure for determining need for hospitals, the Secretary shall require that such procedure be followed before the application for insurance is submitted, and the application shall document that need has also been established under that procedure.
 
-&emsp;(5) The Secretary shall not insure any mortgage or approve any modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title if such insurance or modification is to be made in connection with a guarantee, as authorized pursuant to section 1721 of this title, of a trust certificate or other security which is exempt fromFederal taxation or which is to be used to collateralize obligations which are so exempt, except that the Secretary shall not refuse to insure such a mortgage or approve such a modification solely on the basis that such insurance or modification is to be made in connection with a guarantee, as authorized pursuant to section 1721 of this title, of a trust certificate or other security which is exempt from Federal taxation or which is to be used to collateralize obligations which are so exempt if—
+&emsp;(5) The Secretary shall not insure any mortgage or approve any modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title if such insurance or modification is to be made in connection with a guarantee, as authorized pursuant to section 1721 of this title, of a trust certificate or other security which is exempt from Federal taxation or which is to be used to collateralize obligations which are so exempt, except that the Secretary shall not refuse to insure such a mortgage or approve such a modification solely on the basis that such insurance or modification is to be made in connection with a guarantee, as authorized pursuant to section 1721 of this title, of a trust certificate or other security which is exempt from Federal taxation or which is to be used to collateralize obligations which are so exempt if—
 
 &emsp;&emsp;(A) a written application for such insurance or modification submitted at the express direction of the hospital has been submitted to the appropriate office of the Department of Health and Human Services prior to March 29, 1979; or
 
@@ -86,7 +86,7 @@ The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (l), and (n) of
 
 &emsp;&emsp;(B) the General Insurance Fund established under section 1735c of this title.
 
-(June 27, 1934, ch. 847, title II, §242, as added Pub. L. 90–448, title XV, §1501, Aug. 1, 1968, 82 Stat. 599; amended Pub. L. 91–609, title I, §§109, 110(a), Dec. 31, 1970, 84 Stat. 1772; Pub. L. 93–383, title III, §304(i), Aug. 22, 1974, 88 Stat. 678; Pub. L. 95–128, title III, §308, Oct. 12, 1977, 91 Stat. 1135; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979,93 Stat. 695; Pub. L. 96–153, title III, §315, Dec. 21, 1979, 93 Stat. 1117; Pub. L. 96–399, title III, §310(h), Oct. 8, 1980, 94 Stat. 1643; Pub. L. 97–35, title III, §339H, Aug. 13, 1981, 95 Stat. 418; Pub. L. 98–181, title I \[title IV, §§404(b)(15), 436\], Nov. 30, 1983, 97 Stat. 1210, 1222; Pub. L. 98–479, title II, §§201(a)(1), 204(a)(13), Oct. 17, 1984, 98 Stat. 2227, 2232; Pub. L. 100–242, title IV, §§411(a), 412(a)–(d), Feb. 5, 1988, 101 Stat. 1905, 1906; Pub. L. 108–91, §§2(a), 3(a), Oct. 3, 2003, 117 Stat. 1158; Pub. L. 109–240, §2, July 10, 2006, 120 Stat. 515.)
+(June 27, 1934, ch. 847, title II, §242, as added Pub. L. 90–448, title XV, §1501, Aug. 1, 1968, 82 Stat. 599; amended Pub. L. 91–609, title I, §§109, 110(a), Dec. 31, 1970, 84 Stat. 1772; Pub. L. 93–383, title III, §304(i), Aug. 22, 1974, 88 Stat. 678; Pub. L. 95–128, title III, §308, Oct. 12, 1977, 91 Stat. 1135; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–153, title III, §315, Dec. 21, 1979, 93 Stat. 1117; Pub. L. 96–399, title III, §310(h), Oct. 8, 1980, 94 Stat. 1643; Pub. L. 97–35, title III, §339H, Aug. 13, 1981, 95 Stat. 418; Pub. L. 98–181, title I \[title IV, §§404(b)(15), 436\], Nov. 30, 1983, 97 Stat. 1210, 1222; Pub. L. 98–479, title II, §§201(a)(1), 204(a)(13), Oct. 17, 1984, 98 Stat. 2227, 2232; Pub. L. 100–242, title IV, §§411(a), 412(a)–(d), Feb. 5, 1988, 101 Stat. 1905, 1906; Pub. L. 108–91, §§2(a), 3(a), Oct. 3, 2003, 117 Stat. 1158; Pub. L. 109–240, §2, July 10, 2006, 120 Stat. 515.)
 
 #### References in Text
 
@@ -98,33 +98,33 @@ The Social Security Act, referred to in subsec. (d)(5)(B), is act Aug. 14, 1935,
 
 #### Amendments
 
-<b>2006</b>—Subsec. (i)(1). Pub. L. 109–240 substituted “July 31, 2011” for “July 31, 2006”.
+<b>2006</b>—Subsec. (i)(1). Pub. L. 109–240 substituted "July 31, 2011" for "July 31, 2006".
 
-<b>2003</b>—Subsec. (b)(1)(B). Pub. L. 108–91, §3(a)(1), inserted “, unless the facility is a critical access hospital (as that term is defined in section 1861(mm)(1) of the Social Security Act (42 U.S.C. 1395x(mm)(1)))” after “tuberculosis”.
+<b>2003</b>—Subsec. (b)(1)(B). Pub. L. 108–91, §3(a)(1), inserted ", unless the facility is a critical access hospital (as that term is defined in section 1861(mm)(1) of the Social Security Act (42 U.S.C. 1395x(mm)(1)))" after "tuberculosis".
 
-Subsec. (d)(4). Pub. L. 108–91, §2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary shall not insure any mortgage under this section unless he has received, from the State agency designated in accordance with section 604(a)(1) or section 1521 of the Public Health Service Act for the State in which is located the hospital covered by the mortgage, a certification that (A) there is a need for such hospital, and (B) there are in force in such State or the political subdivision of the State in which the proposed hospital would be located reasonable minimum standards of licensure and methods of operation for hospitals. No such mortgage shall be insured under this section unless the Secretary has received such assurance as he may deem satisfactory from the State agency that such standards will be applied and enforced with respect to any hospital located in the State for which mortgage insurance is provided under this section. If no such State agency exists, or if the State agency exists but is not empowered to provide a certification that there is a need for the hospital as set forth in clause (A) of the first sentence, the Secretary shall not insure any mortgage under this section unless (A) the State in which the hospital is located has conducted or commissioned and paid for the preparation of an independent study of market need and feasibility that (i) is prepared in accordance with the principles established by the American Institute of Certified Public Accountants; (ii) assesses, on a marketwide basis, the impact of the proposed hospital on, and its relationship to, other health care facilities and services, the percentage of excess beds, demographic projections, alternative health care delivery systems, and the reimbursement structure of the hospital; (iii) is addressed to and is acceptable to the Secretary in form and substance; and (iv) in the event the State does not prepare the study, is prepared by a financial consultant selected by the State and approved by the Secretary; and (B) the State complies with the other provisions of this paragraph that would otherwise be required to be met by a State agency designated in accordance with section 604(a)(1) or section 1521 of the Public Health Service Act. The proposed mortgagor may reimburse the State for the cost of the independent feasibility study required in the preceding sentence.”
+Subsec. (d)(4). Pub. L. 108–91, §2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The Secretary shall not insure any mortgage under this section unless he has received, from the State agency designated in accordance with section 604(a)(1) or section 1521 of the Public Health Service Act for the State in which is located the hospital covered by the mortgage, a certification that (A) there is a need for such hospital, and (B) there are in force in such State or the political subdivision of the State in which the proposed hospital would be located reasonable minimum standards of licensure and methods of operation for hospitals. No such mortgage shall be insured under this section unless the Secretary has received such assurance as he may deem satisfactory from the State agency that such standards will be applied and enforced with respect to any hospital located in the State for which mortgage insurance is provided under this section. If no such State agency exists, or if the State agency exists but is not empowered to provide a certification that there is a need for the hospital as set forth in clause (A) of the first sentence, the Secretary shall not insure any mortgage under this section unless (A) the State in which the hospital is located has conducted or commissioned and paid for the preparation of an independent study of market need and feasibility that (i) is prepared in accordance with the principles established by the American Institute of Certified Public Accountants; (ii) assesses, on a marketwide basis, the impact of the proposed hospital on, and its relationship to, other health care facilities and services, the percentage of excess beds, demographic projections, alternative health care delivery systems, and the reimbursement structure of the hospital; (iii) is addressed to and is acceptable to the Secretary in form and substance; and (iv) in the event the State does not prepare the study, is prepared by a financial consultant selected by the State and approved by the Secretary; and (B) the State complies with the other provisions of this paragraph that would otherwise be required to be met by a State agency designated in accordance with section 604(a)(1) or section 1521 of the Public Health Service Act. The proposed mortgagor may reimburse the State for the cost of the independent feasibility study required in the preceding sentence."
 
 Subsec. (i). Pub. L. 108–91, §3(a)(2), added subsec. (i).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–242, §412(a), inserted at end “Such assistance shall be provided regardless of the amount of public financial or other support a hospital may receive, and the Secretary shall neither require additional security or collateral to guarantee such support, nor impose more stringent eligibility or other requirements on publicly owned or supported hospitals.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–242, §412(a), inserted at end "Such assistance shall be provided regardless of the amount of public financial or other support a hospital may receive, and the Secretary shall neither require additional security or collateral to guarantee such support, nor impose more stringent eligibility or other requirements on publicly owned or supported hospitals."
 
-Subsec. (d)(2). Pub. L. 100–242, §412(b), substituted “The mortgage shall involve a principal obligation in the amount requested by the mortgagor if such amount does not exceed 90 percent of the estimated replacement cost of the property or project including” for “The mortgage shall involve a principal obligation in an amount not to exceed 90 per centum of the estimated replacement cost of the property or project including”.
+Subsec. (d)(2). Pub. L. 100–242, §412(b), substituted "The mortgage shall involve a principal obligation in the amount requested by the mortgagor if such amount does not exceed 90 percent of the estimated replacement cost of the property or project including" for "The mortgage shall involve a principal obligation in an amount not to exceed 90 per centum of the estimated replacement cost of the property or project including".
 
 Subsec. (d)(4). Pub. L. 100–242, §411(a), inserted provisions at end relating to authority of Secretary to insure a mortgage under this section covering new or rehabilitated hospitals, including equipment, in cases where no State agency exists, or where such agency does exist but is not empowered to provide a certification for the need of such hospital as required under this section.
 
 Subsec. (d)(6). Pub. L. 100–242, §412(c), added par. (6).
 
-Subsec. (f). Pub. L. 100–242, §412(d), inserted at end “The Secretary shall begin immediately to process applications of public facilities for mortgage insurance under this section in accordance with regulations, guidelines, and procedures applicable to facilities of private nonprofit corporations and associations.”
+Subsec. (f). Pub. L. 100–242, §412(d), inserted at end "The Secretary shall begin immediately to process applications of public facilities for mortgage insurance under this section in accordance with regulations, guidelines, and procedures applicable to facilities of private nonprofit corporations and associations."
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–479, §201(a)(1), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–479, §201(a)(1), substituted "Health and Human Services" for "Health, Education, and Welfare".
 
 Subsec. (d)(3)(A). Pub. L. 98–479, §204(a)(13), substituted a semicolon for the comma at end.
 
-<b>1983</b>—Subsec. (b)(1)(C). Pub. L. 98–181, §436(1), inserted “public facility,” after “which is a”.
+<b>1983</b>—Subsec. (b)(1)(C). Pub. L. 98–181, §436(1), inserted "public facility," after "which is a".
 
 Subsec. (d)(3)(B). Pub. L. 98–181, §404(b)(15), substituted provision that the interest rate be such a rate as agreed upon by the mortgagor and the mortgagee for provision that the interest rate, exclusive of premium charges for insurance and service charges, not exceed such per centum per annum, not in excess of 6 per centum, on the amount of the principal obligation outstanding at any time, as the Secretary finds necessary to meet the mortgage market.
 
-Subsec. (f). Pub. L. 98–181, §436(2), inserted “, and in the case of public hospitals, to encourage programs that are undertaken to provide essential health care services to all residents of a community regardless of ability to pay” after “defined population”.
+Subsec. (f). Pub. L. 98–181, §436(2), inserted ", and in the case of public hospitals, to encourage programs that are undertaken to provide essential health care services to all residents of a community regardless of ability to pay" after "defined population".
 
 <b>1981</b>—Subsec. (d)(5). Pub. L. 97–35 inserted provisions respecting limitation on authority of the Secretary to approve mortgage increases on eligible mortgages.
 
@@ -136,9 +136,9 @@ Subsec. (f). Pub. L. 98–181, §436(2), inserted “, and in the case of publi
 
 Subsec. (d)(4). Pub. L. 95–128, §308(a), inserted reference to section 1521.
 
-<b>1974</b>—Subsec. (d)(2). Pub. L. 93–383 struck out “not to exceed $50,000,000, and” after “an amount”.
+<b>1974</b>—Subsec. (d)(2). Pub. L. 93–383 struck out "not to exceed $50,000,000, and" after "an amount".
 
-<b>1970</b>—Subsec. (b)(1)(C). Pub. L. 91–609, §110(a), substituted as definition of “hospital” a facility “which is a proprietary facility, or facility of a private nonprofitcorporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing or regulation by the State, by the municipality or other political subdivision in which the facility is located)” for “prior definition as a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual”.
+<b>1970</b>—Subsec. (b)(1)(C). Pub. L. 91–609, §110(a), substituted as definition of "hospital" a facility "which is a proprietary facility, or facility of a private nonprofit corporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing or regulation by the State, by the municipality or other political subdivision in which the facility is located)" for "prior definition as a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual".
 
 Subsec. (d)(2). Pub. L. 91–609, §109, increased limitation on amount of mortgage from $25,000,000 to $50,000,000.
 
@@ -146,13 +146,13 @@ Subsec. (d)(2). Pub. L. 91–609, §109, increased limitation on amount of mortg
 
 Pub. L. 108–91, §2(b), Oct. 3, 2003, 117 Stat. 1158, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by subsection (a) \[amending this section\] shall take effect and apply as of the date of the enactment of this Act \[Oct. 3, 2003\].
 
-“(2)
+"(2)
 
-Effect of regulatory authority.—Any authority of the Secretary of Housing and Urban Development to issue regulations to carry out the amendment made by subsection (a) may not be construed to affect the effectiveness or applicability of such amendment under paragraph (1) of this subsection.”
+Effect of regulatory authority.—Any authority of the Secretary of Housing and Urban Development to issue regulations to carry out the amendment made by subsection (a) may not be construed to affect the effectiveness or applicability of such amendment under paragraph (1) of this subsection."
 
 #### Effective Date of 1981 Amendment
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Change of Name
 
-“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (d)(5)(A), (B) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (d)(5)(A), (B) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Regulations
 

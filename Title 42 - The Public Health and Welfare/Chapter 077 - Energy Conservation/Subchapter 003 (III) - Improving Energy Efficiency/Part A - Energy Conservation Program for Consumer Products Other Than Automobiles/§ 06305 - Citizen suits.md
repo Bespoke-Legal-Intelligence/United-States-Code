@@ -10,7 +10,7 @@ Except as otherwise provided in subsection (b) of this section, any person may c
 
 &emsp;(3) the Secretary in any case in which there is an alleged failure of the Secretary to comply with a nondiscretionary duty to issue a proposed or final rule according to the schedules set forth in section 6295 of this title.
 
-> The United States district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such provision or rule, or order such Federal agency to perform such act or duty, as the case may be. The courts shall advance on the docket, and expedite the disposition of, allcauses filed therein pursuant to paragraph (3) of this subsection. If the court finds that the Secretary has failed to comply with a deadline established in section 6295 of this title, the court shall have jurisdiction to order appropriate relief, including relief that will ensure the Secretary's compliance with future deadlines for the same covered product.
+> The United States district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such provision or rule, or order such Federal agency to perform such act or duty, as the case may be. The courts shall advance on the docket, and expedite the disposition of, all causes filed therein pursuant to paragraph (3) of this subsection. If the court finds that the Secretary has failed to comply with a deadline established in section 6295 of this title, the court shall have jurisdiction to order appropriate relief, including relief that will ensure the Secretary's compliance with future deadlines for the same covered product.
 
 #### (b) Limitation
 
@@ -46,11 +46,11 @@ For purposes of this section, if a manufacturer or private labeler complied in g
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–12, §8, added par. (3) and inserted at end “The courts shall advance on the docket, and expedite the disposition of, all causes filed therein pursuant to paragraph (3) of this subsection. If the court finds that the Secretary has failed to comply with a deadline established in section 6295 of this title, the court shall have jurisdiction to order appropriate relief, including relief that will ensure the Secretary's compliance with future deadlines for the same covered product.”
+<b>1987</b>—Subsec. (a). Pub. L. 100–12, §8, added par. (3) and inserted at end "The courts shall advance on the docket, and expedite the disposition of, all causes filed therein pursuant to paragraph (3) of this subsection. If the court finds that the Secretary has failed to comply with a deadline established in section 6295 of this title, the court shall have jurisdiction to order appropriate relief, including relief that will ensure the Secretary's compliance with future deadlines for the same covered product."
 
 Subsecs. (b) to (f). Pub. L. 100–12, §11(b)(7), inserted headings for subsecs. (b) to (f).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–619, §425(f), struck out provision in par. (1) which excluded sections 6295 and 6302(a)(5) of this title and rules thereunder, struck out provision in par. (2) which excluded any act or duty under section 6295 or 6302(a)(5) of this title, and inserted provision giving district courts jurisdiction to order Federal agencies to perform particular acts or duties under this part.
 
-Subsecs. (b), (c), (e). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+Subsecs. (b), (c), (e). Pub. L. 95–619, §691(b)(2), substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
 

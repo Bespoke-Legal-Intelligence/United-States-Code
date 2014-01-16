@@ -6,5 +6,5 @@ Notwithstanding any other provision of law, the Secretary of Agriculture may ent
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–185 inserted “or other colleges and universities” after “institutions” in first sentence.
+<b>1998</b>—Pub. L. 105–185 inserted "or other colleges and universities" after "institutions" in first sentence.
 

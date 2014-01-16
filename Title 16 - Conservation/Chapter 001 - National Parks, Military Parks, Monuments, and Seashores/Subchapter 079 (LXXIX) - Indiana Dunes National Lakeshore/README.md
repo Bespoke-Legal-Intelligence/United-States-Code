@@ -8,7 +8,7 @@
 - [&sect; 00460u - Establishment; description of area](%C2%A7%2000460u%20-%20Establishment%3B%20description%20of%20area.md)
 - [&sect; 00460u&#8211;1 - Acquisition of property](%C2%A7%2000460u%E2%80%931%20-%20Acquisition%20of%20property.md)
 - [&sect; 00460u&#8211;2 - Direction for establishment; publication in Federal Register; continuing acquisition of lands](%C2%A7%2000460u%E2%80%932%20-%20Direction%20for%20establishment%3B%20publication%20in%20Federal%20Register%3B%20continuing%20acquisition%20of%20lands.md)
-- [&sect; 00460u&#8211;3 - &#8220;Improved property&#8221; and &#8220;appropriate map&#8221; defined; terms and conditions for rights of use and occupancy](%C2%A7%2000460u%E2%80%933%20-%20%E2%80%9CImproved%20property%E2%80%9D%20and%20%E2%80%9Cappropriate%20map%E2%80%9D%20defined%3B%20terms%20and%20conditions%20for%20rights%20of%20use%20and%20occupancy.md)
+- [&sect; 00460u&#8211;3 - Improved property and appropriate map defined; terms and conditions for rights of use and occupancy](%C2%A7%2000460u%E2%80%933%20-%20Improved%20property%20and%20appropriate%20map%20defined%3B%20terms%20and%20conditions%20for%20rights%20of%20use%20and%20occupancy.md)
 - [&sect; 00460u&#8211;4 - Repealed. Pub. L. 94&#8211;549, &sect;1(9), Oct. 18, 1976, 90 Stat. 2533](%C2%A7%2000460u%E2%80%934%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93549%2C%20%C2%A71%289%29%2C%20Oct.%2018%2C%201976%2C%2090%20Stat.%202533.md)
 - [&sect; 00460u&#8211;5 - Owner's retention of right of use and occupancy for residential purposes](%C2%A7%2000460u%E2%80%935%20-%20Owner%27s%20retention%20of%20right%20of%20use%20and%20occupancy%20for%20residential%20purposes.md)
 - [&sect; 00460u&#8211;6 - Administration](%C2%A7%2000460u%E2%80%936%20-%20Administration.md)

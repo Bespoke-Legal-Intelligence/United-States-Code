@@ -4,7 +4,7 @@
 
 In this section—
 
-&emsp;(1) the term “National Service Reserve Corps member” means an individual who—
+&emsp;(1) the term "National Service Reserve Corps member" means an individual who—
 
 &emsp;&emsp;(A) has completed a term of national service or is a veteran;
 
@@ -14,7 +14,7 @@ In this section—
 
 &emsp;&emsp;(D) has indicated interest to the Corporation in responding to disasters and emergencies in a timely manner through the National Service Reserve Corps; and
 
-&emsp;(2) the term “term of national service” means a term or period of service under section 12573 of this title.
+&emsp;(2) the term "term of national service" means a term or period of service under section 12573 of this title.
 
 #### (b) Establishment of National Service Reserve Corps
 
@@ -82,7 +82,7 @@ The Corporation shall develop or contract with an outside organization to develo
 
 #### (A) National service participants
 
-&emsp;&emsp;The Corporation, the State Commissions, and entities receiving financial assistance for programs under division C of this subchapter,<sup>1</sup> or under part A of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), shall inform participants about the National Service Reserve Corps upon the participants’ completion of their term of national service.
+&emsp;&emsp;The Corporation, the State Commissions, and entities receiving financial assistance for programs under division C of this subchapter,<sup>1</sup> or under part A of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), shall inform participants about the National Service Reserve Corps upon the participants' completion of their term of national service.
 
 #### (B) Veterans
 
@@ -102,13 +102,13 @@ The Corporation shall develop or contract with an outside organization to develo
 
 Section 102 of the Robert T. Stafford Disaster Relief and Assistance Act (42 U.S.C. 5122), referred to in subsec. (f)(1), (2), probably means section 102 of Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified to section 5122 of this title.
 
-Division C of this subchapter, referred to in subsec. (f)(5)(A), was in the original “subtitle C of this Act” which was translated as meaning subtitle C of title I of Pub. L. 101–610, to reflect the probable intent of Congress.
+Division C of this subchapter, referred to in subsec. (f)(5)(A), was in the original "subtitle C of this Act" which was translated as meaning subtitle C of title I of Pub. L. 101–610, to reflect the probable intent of Congress.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(5)(A), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Part A of title I of the Act is classified generally to part A of subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 12653h, Pub. L. 101–610, title I, §195H, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2528, which related to administration of the Corps, was renumbered section 159 of Pub. L. 101–610 and transferred to section 12619 of this title.
+A prior section 12653h, Pub. L. 101–610, title I, §195H, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct.23, 1992, 106 Stat. 2528, which related to administration of the Corps, was renumbered section 159 of Pub. L. 101–610 and transferred to section 12619 of this title.
 
 Prior sections 12653i and 12653j were renumbered by section 104(b) of Pub. L. 103–82 and transferred as follows:
 

@@ -10,9 +10,9 @@ A prior section 625, act Aug. 14, 1935, ch. 531, title IV, §425, as added Pub. 
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–34 substituted “2012 through 2016” for “2007 through 2011”.
+<b>2011</b>—Pub. L. 112–34 substituted "2012 through 2016" for "2007 through 2011".
 
-<b>2008</b>—Pub. L. 110–351 inserted “(other than sections 626, 627, and 628b of this title)” after “this subpart”.
+<b>2008</b>—Pub. L. 110–351 inserted "(other than sections 626, 627, and 628b of this title)" after "this subpart".
 
 #### Effective Date of 2011 Amendment
 
@@ -20,7 +20,7 @@ Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–351 effective Oct. 7, 2008, and applicable to payments under this part and part E of this subchapter for quarters beginning on or after such date, with delay permitted if State legislation is required to meet additional requirements, see section 601 of Pub. L. 110–351, set out as a note under section 671 of this title.
+Amendment by Pub. L. 110–351 effective Oct. 7, 2008, and applicable to payments under this part and part Eof this subchapter for quarters beginning on or after such date, with delay permitted if State legislation is required to meet additional requirements, see section 601 of Pub. L. 110–351, set out as a note under section 671 of this title.
 
 #### Effective Date
 

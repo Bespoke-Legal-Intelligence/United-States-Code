@@ -8,23 +8,23 @@ The Secretary shall allocate funds available for assistance under this chapter e
 
 <b>2000</b>—Pub. L. 106–398 made technical amendment to directory language of Pub. L. 105–261, §802(b). See 1998 Amendment note below.
 
-<b>1998</b>—Pub. L. 105–261, §802(a)(2), substituted “district” for “region” wherever appearing and “districts” for “regions”.
+<b>1998</b>—Pub. L. 105–261, §802(a)(2), substituted "district" for "region" wherever appearing and "districts" for "regions".
 
-Pub. L. 105–261, §802(b), as amended by Pub. L. 106–398, substituted “Department of Defense contract administrative services” for “Defense Contract Administration Services”.
+Pub. L. 105–261, §802(b), as amended by Pub. L. 106–398, substituted "Department of Defense contract administrative services" for "Defense Contract Administration Services".
 
-<b>1987</b>—Pub. L. 100–180, §807(c), struck out subsecs. (a) and (b) relating to requirement by Secretary of Defense to reserve 75% of first $3,000,000 appropriated to carry out this chapter for purpose of assisting cooperative agreements entered into under section 2413 of this title for fiscal years 1986 and 1987, and for fiscal years after 1987 the authority of Secretary to allocate funds in accordance with such cooperative agreements, and substituted “The” for “(c) For any amount appropriated to carry out this chapter for fiscal year 1986 or 1987 in excess of $3,000,000, the”.
+<b>1987</b>—Pub. L. 100–180, §807(c), struck out subsecs. (a) and (b) relating to requirement by Secretary of Defense to reserve 75% of first $3,000,000 appropriated to carry out this chapter for purpose of assisting cooperative agreements entered into under section 2413 of this title for fiscal years 1986 and 1987, and for fiscal years after 1987 the authority of Secretary to allocate funds in accordance with such cooperative agreements, and substituted "The" for "(c) For any amount appropriated to carry out this chapter for fiscal year 1986 or 1987 in excess of $3,000,000, the".
 
-<b>1985</b>—Subsec. (a)(2). Pub. L. 99–145, §919(b)(1)(A), substituted “fiscal years 1986 and 1987” for “fiscal year 1985 is 50 percent and during fiscal year 1986”.
+<b>1985</b>—Subsec. (a)(2). Pub. L. 99–145, §919(b)(1)(A), substituted "fiscal years 1986 and 1987" for "fiscal year 1985 is 50 percent and during fiscal year 1986".
 
 Subsec. (a)(3). Pub. L. 99–145, §919(b)(1)(B), added par. (3).
 
-Subsec. (b). Pub. L. 99–145, §919(b)(2), substituted “1987” for “1986”.
+Subsec. (b). Pub. L. 99–145, §919(b)(2), substituted "1987" for "1986".
 
 Subsec. (c). Pub. L. 99–145, §919(b)(3), added subsec. (c).
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by section 1 \[\[div. A\], title X, §1087(d)(5)\] is effective Oct. 17, 1998, and as if included in the StromThurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by section 1 \[\[div. A\], title X, §1087(d)(5)\] is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
 
 #### Effective Date of 1985 Amendment
 

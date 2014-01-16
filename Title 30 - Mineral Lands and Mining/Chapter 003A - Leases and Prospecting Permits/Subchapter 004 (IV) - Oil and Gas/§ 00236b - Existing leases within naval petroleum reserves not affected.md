@@ -1,6 +1,6 @@
 ### §236b. Existing leases within naval petroleum reserves not affected
 
-Nothing in this act shall be construed as affecting existing leases within the borders of thenaval petroleum reserves, or agreements concerning operations thereunder or in relation thereto.
+Nothing in this act shall be construed as affecting existing leases within the borders of the naval petroleum reserves, or agreements concerning operations thereunder or in relation thereto.
 
 (Aug. 8, 1946, ch. 916, §13, 60 Stat. 958; Aug. 10, 1956, ch. 1041, §53, 70A Stat. 675.)
 
@@ -14,5 +14,5 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 #### Amendments
 
-<b>1956</b>—Act Aug. 10, 1956, repealed the portion of this section after “thereto” which authorized the Secretary of the Navy, with the consent of the President, to enter into agreements such as those provided for in section 236e of this title, which agreements, should not, unless expressed therein, operate to extend the term of any lease affected thereby.
+<b>1956</b>—Act Aug. 10, 1956, repealed the portion of this section after "thereto" which authorized the Secretary of the Navy, with the consent of the President, to enter into agreements such as those provided for in section 236e of this title, which agreements, should not, unless expressed therein, operate to extend the term of any lease affected thereby.
 

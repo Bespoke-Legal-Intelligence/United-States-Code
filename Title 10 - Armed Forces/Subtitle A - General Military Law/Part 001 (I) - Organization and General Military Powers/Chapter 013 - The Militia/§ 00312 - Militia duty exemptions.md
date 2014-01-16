@@ -40,11 +40,11 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §59, 39 Stat. 197.
 
-In subsection (a), the words “Members of the armed forces” are substituted for the words “persons in the military or naval service”. The words “except members who are not on active duty” are inserted to reflect an opinion of the Judge Advocate General of the Army (JAGA 1952/4374, 9 July 1952). The word “artificers” is omitted as covered by the word “workmen”. The words “naval shipyards” are substituted for the words “navy yards” to reflect modern terminology. The words “on navigable waters” are inserted to preserve the original coverage of the word “pilots”. The words “actually” and “without regard to age” are omitted as surplusage.
+In subsection (a), the words "Members of the armed forces" are substituted for the words "persons in the military or naval service". The words "except members who are not on active duty" are inserted to reflect an opinion of the Judge Advocate General of the Army (JAGA 1952/4374, 9 July 1952). The word "artificers" is omitted as covered by the word "workmen". The words "naval shipyards" are substituted for the words "navy yards" to reflect modern terminology. The words "on navigable waters" are inserted to preserve the original coverage of the word "pilots". The words "actually" and "without regard to age" are omitted as surplusage.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(2). Pub. L. 109–163 substituted “States, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “States and Territories, and Puerto Rico”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–163 substituted "States, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands" for "States and Territories, and Puerto Rico".
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–456 substituted “and Puerto Rico” for “Puerto Rico, and the Canal Zone”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–456 substituted "and Puerto Rico" for "Puerto Rico, and the Canal Zone".
 

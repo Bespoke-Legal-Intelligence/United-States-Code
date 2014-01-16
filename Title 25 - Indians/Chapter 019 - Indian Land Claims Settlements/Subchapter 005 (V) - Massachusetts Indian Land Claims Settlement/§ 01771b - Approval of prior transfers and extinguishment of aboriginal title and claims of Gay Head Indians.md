@@ -20,7 +20,7 @@ Any claim (including any claim for damages for use and occupancy) by the Wampano
 
 #### (d) Personal claims not affected
 
-No provision of this section shall be construed to offset or eliminate the personal claim of any individual Indian which is pursued under any law of general applicability that protects non-Indians as well as Indians.
+No provision of this section shall be construed to offset or eliminate the personal claim of anyindividual Indian which is pursued under any law of general applicability that protects non-Indians as well as Indians.
 
 (Pub. L. 100–95, §4, Aug. 18, 1987, 101 Stat. 705.)
 

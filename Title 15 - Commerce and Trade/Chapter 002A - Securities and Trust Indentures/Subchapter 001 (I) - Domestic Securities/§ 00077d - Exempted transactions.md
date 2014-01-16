@@ -16,7 +16,7 @@
 
 > &emsp;With respect to transactions referred to in clause (B), if securities of the issuer have not previously been sold pursuant to an earlier effective registration statement the applicable period, instead of forty days, shall be ninety days, or such shorter period as the Commission may specify by rules and regulations or order.
 
-&emsp;(4) brokers’ transactions executed upon customers’ orders on any exchange or in the over-the-counter market but not the solicitation of such orders.
+&emsp;(4) brokers' transactions executed upon customers' orders on any exchange or in the over-the-counter market but not the solicitation of such orders.
 
 &emsp;(5) transactions involving offers or sales by an issuer solely to one or more accredited investors, if the aggregate offering price of an issue of securities offered in reliance on this paragraph does not exceed the amount allowed under section 77c(b)(1) of this title, if there is no advertising or public solicitation in connection with the transaction by the issuer or anyone acting on the issuer's behalf, and if the issuer files such notice with the Commission as the Commission shall prescribe.
 
@@ -52,7 +52,7 @@
 
 &emsp;(C) such person is not subject to a statutory disqualification as defined in section 78c(a)(39) of this title <sup>2</sup> and does not have any person associated with that person subject to such a statutory disqualification.
 
-(3) For the purposes of this subsection, the term “ancillary services” means—
+(3) For the purposes of this subsection, the term "ancillary services" means—
 
 &emsp;(A) the provision of due diligence services, in connection with the offer, sale, purchase, or negotiation of such security, so long as such services do not include, for separate compensation, investment advice or recommendations to issuers or investors; and
 
@@ -64,15 +64,15 @@
 
 Section 201 of the Jumpstart Our Business Startups Act, referred to in subsec. (b), is section 201 of Pub. L. 112–106, which amended this section and enacted provisions set out as a note under this section.
 
-Section 78o(a)(1) of this title, referred to in subsec. (b)(1), was in the original “section 15(a)(1) of this title” and was translated as meaning section 15(a)(1) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
+Section 78o(a)(1) of this title, referred to in subsec. (b)(1), was in the original "section 15(a)(1) of this title" and was translated as meaning section 15(a)(1) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
 
-Section 78c(a)(39) of this title, referrred to in subsec. (b)(2)(C), was in the original “section 3(a)(39) of thistitle” and was translated as meaning section 3(a)(39) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
+Section 78c(a)(39) of this title, referrred to in subsec. (b)(2)(C), was in the original "section 3(a)(39) of this title" and was translated as meaning section 3(a)(39) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
 
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–106, §201(b)(1), (c)(1), made identical amendments, designating existing provisions as subsec. (a).
 
-Subsec. (a)(5). Pub. L. 112–106, §401(c), which directed amendment of this section by substituting “section 77c(b)(1)” for “section 77c(b)” in par. (5), was executed by making the substitution in subsec. (a)(5) to reflect the probable intent of Congress and the amendment by Pub. L. 112–106, §201(b)(1), (c)(1). See above.
+Subsec. (a)(5). Pub. L. 112–106, §401(c), which directed amendment of this section by substituting "section 77c(b)(1)" for "section 77c(b)" in par. (5), was executed by making the substitution in subsec. (a)(5) to reflect the probable intent of Congress and the amendment by Pub. L. 112–106, §201(b)(1), (c)(1). See above.
 
 Subsec. (a)(6). Pub. L. 112–106, §302(a), which directed amendment of this section by adding par. (6) at the end, was executed by making the addition at the end of subsec. (a) to reflect the probable intent of Congress and the amendment by Pub. L. 112–106, §201(b)(1), (c)(1). See above.
 
@@ -86,15 +86,15 @@ Pub. L. 112–106, §201(b)(2), added subsec. (b) relating to offers and sales e
 
 <b>1975</b>—Par. (5). Pub. L. 94–29 added par. (5).
 
-<b>1964</b>—Pub. L. 88–467 substituted “shall not apply to—” for “shall not apply to any of the following transactions:” in introductory text.
+<b>1964</b>—Pub. L. 88–467 substituted "shall not apply to—" for "shall not apply to any of the following transactions:" in introductory text.
 
 Par. (1). Pub. L. 88–467 reenacted existing first provision of par. (1) and struck out second and third provisions, which are incorporated in pars. (2) and (3)(A) to (C).
 
 Par. (2). Pub. L. 88–467 redesignated existing second provision of par. (1) as (2). Former par. (2) redesignated (4).
 
-Par. (3). Pub. L. 88–467 redesignated existing third provision of par. (1) as (3), designated the excepted transactions as cls. (A) to (C), inserted in cl. (B) “or such shorter period as the Commission may specify by rules and regulations or order” and inserted sentence relating to the applicable period to transactions referred to in clause (B).
+Par. (3). Pub. L. 88–467 redesignated existing third provision of par. (1) as (3), designated the excepted transactions as cls. (A) to (C), inserted in cl. (B) "or such shorter period as the Commission may specify by rules and regulations or order" and inserted sentence relating to the applicable period to transactions referred to in clause (B).
 
-Par. (4). Pub. L. 88–467 redesignated former par. (2) as (4) and substituted “over-the-counter market” for “open or counter market”.
+Par. (4). Pub. L. 88–467 redesignated former par. (2) as (4) and substituted "over-the-counter market" for "open or counter market".
 
 <b>1954</b>—Act Aug. 10, 1954, reduced from 1 year to 40 days the period during which the delivery of a prospectus is required in trading transactions as distinguished from initial distribution of the new securities.
 
@@ -124,69 +124,69 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 Pub. L. 112–106, title II, §201(a), Apr. 5, 2012, 126 Stat. 313, provided that:
 
-“(1) Not later than 90 days after the date of the enactment of this Act \[Apr. 5, 2012\], the Securities and Exchange Commission shall revise its rules issued in section 230.506 of title 17, Code of Federal Regulations, to provide that the prohibition against general solicitation or general advertising contained in section 230.502(c) of such title shall not apply to offers and sales of securities made pursuant to section 230.506, provided that all purchasers of the securities are accredited investors. Such rules shall require the issuer to take reasonable steps to verify that purchasers of the securities are accredited investors, using such methods as determined by the Commission. Section 230.506 of title 17, Code of Federal Regulations, as revised pursuant to this section, shall continue to be treated as a regulation issued under section 4(2) of the Securities Act of 1933 (\[now\] 15 U.S.C. 77d\[(a)\](2)).
+"(1) Not later than 90 days after the date of the enactment of this Act \[Apr. 5, 2012\], the Securities and Exchange Commission shall revise its rules issued in section 230.506 of title 17, Code of Federal Regulations, to provide that the prohibition against general solicitation or general advertising contained in section 230.502(c) of such title shall not apply to offers and sales of securities made pursuant to section 230.506, provided that all purchasers of the securities are accredited investors. Such rules shall require the issuer to take reasonable steps to verify that purchasers of the securities are accredited investors, using such methods as determined by the Commission. Section 230.506 of title 17, Code of Federal Regulations, as revised pursuant to this section, shall continue to be treated as a regulation issued under section 4(2) of the Securities Act of 1933 (\[now\] 15 U.S.C. 77d\[(a)\](2)).
 
-“(2) Not later than 90 days after the date of enactment of this Act, the Securities and Exchange Commission shall revise subsection (d)(1) of section 230.144A of title 17, Code of Federal Regulations, to provide that securities sold under such revised exemption may be offered to persons other than qualified institutional buyers, including by means of general solicitation or general advertising, provided that securities are sold only to persons that the seller and any person acting on behalf of the seller reasonably believe is a qualified institutional buyer.”
+"(2) Not later than 90 days after the date of enactment of this Act, the Securities and Exchange Commission shall revise subsection (d)(1) of section 230.144A of title 17, Code of Federal Regulations, to provide that securities sold under such revised exemption may be offered to persons other than qualified institutional buyers, including by means of general solicitation or general advertising, provided that securities are sold only to persons that the seller and any person acting on behalf of the seller reasonably believe is a qualified institutional buyer."
 
 #### Rulemaking
 
-Pub. L. 112–106, title III, §302(c), Apr. 5, 2012, 126 Stat. 320, provided that: “Not later than 270 days after the date of enactment of this Act \[Apr. 5, 2012\], the Securities and Exchange Commission (in this title \[enacting section 77d–1 of this title, amending sections 77d, 77r, 78c, 78l, and 78o of this title, and enacting provisions set out as notes under sections 77d, 77r, 78c, and 78l of this title\] referred to as the ‘Commission’) shall issue such rules as the Commission determines may be necessary or appropriate for the protection of investors to carry out sections 4(6) \[probably means “section 4(a)(6)”\] and section 4A of the Securities Act of 1933 \[15 U.S.C. 77d(a)(6), 77d–1\], as added by this title. In carrying out this section, the Commission shall consult with any securities commission (or any agency or office performing like functions) of the States, any territory of the United States, and the District of Columbia, which seeks to consult with the Commission, and with any applicable national securities association.”
+Pub. L. 112–106, title III, §302(c), Apr. 5, 2012, 126 Stat. 320, provided that: "Not later than 270 days after the date of enactment of this Act \[Apr. 5, 2012\], the Securities and Exchange Commission (in this title \[enacting section 77d–1 of this title, amending sections 77d, 77r, 78c, 78l, and 78o of this title, and enacting provisions set out as notes under sections 77d, 77r, 78c, and 78l of this title\] referred to as the 'Commission') shall issue such rules as the Commission determines may be necessary or appropriate for the protection of investors to carry out sections 4(6) \[probably means "section 4(a)(6)"\] and section 4A of the Securities Act of 1933 \[15 U.S.C. 77d(a)(6), 77d–1\], as added by this title. In carrying out this section, the Commission shall consult with any securities commission (or any agency or office performing like functions) of the States, any territory of the United States, and the District of Columbia, which seeks to consult with the Commission, and with any applicable national securities association."
 
 #### Disqualification
 
 Pub. L. 112–106, title III, §302(d), Apr. 5, 2012, 126 Stat. 320, provided that:
 
-“(1)
+"(1)
 
 In general.—Not later than 270 days after the date of enactment of this Act \[Apr. 5, 2012\], the \[Securities and Exchange\] Commission shall, by rule, establish disqualification provisions under which—
 
-&emsp;“(A) an issuer shall not be eligible to offer securities pursuant to section 4(6) \[probably means “section 4(a)(6)”\] of the Securities Act of 1933 \[15 U.S.C. 77d(a)(6)\], as added by this title; and
+&emsp;"(A) an issuer shall not be eligible to offer securities pursuant to section 4(6) \[probably means "section 4(a)(6)"\] of the Securities Act of 1933 \[15 U.S.C. 77d(a)(6)\], as added by this title; and
 
-&emsp;“(B) a broker or funding portal shall not be eligible to effect or participate in transactions pursuant to that section 4(6).
+&emsp;"(B) a broker or funding portal shall not be eligible to effect or participate in transactions pursuant to that section 4(6).
 
-“(2)
+"(2)
 
 Inclusions.—Disqualification provisions required by this subsection shall—
 
-&emsp;“(A) be substantially similar to the provisions of section 230.262 of title 17, Code of Federal Regulations (or any successor thereto); and
+&emsp;"(A) be substantially similar to the provisions of section 230.262 of title 17, Code of Federal Regulations (or any successor thereto); and
 
-&emsp;“(B) disqualify any offering or sale of securities by a person that—
+&emsp;"(B) disqualify any offering or sale of securities by a person that—
 
-&emsp;&emsp;“(i) is subject to a final order of a State securities commission (or an agency or officer of a State performing like functions), a State authority that supervises or examines banks, savings associations, or credit unions, a State insurance commission (or an agency or officer of a State performing like functions), an appropriate Federal banking agency, or the National Credit Union Administration, that—
+&emsp;&emsp;"(i) is subject to a final order of a State securities commission (or an agency or officer of a State performing like functions), a State authority that supervises or examines banks, savings associations, or credit unions, a State insurance commission (or an agency or officer of a State performing like functions), an appropriate Federal banking agency, or the National Credit Union Administration, that—
 
-&emsp;&emsp;&emsp;“(I) bars the person from—
+&emsp;&emsp;&emsp;"(I) bars the person from—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(aa) association with an entity regulated by such commission, authority, agency, or officer;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) association with an entity regulated by such commission, authority, agency, or officer;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(bb) engaging in the business of securities, insurance, or banking; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) engaging in the business of securities, insurance, or banking; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(cc) engaging in savings association or credit union activities; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(cc) engaging in savings association or credit union activities; or
 
-&emsp;&emsp;&emsp;“(II) constitutes a final order based on a violation of any law or regulation that prohibits fraudulent, manipulative, or deceptive conduct within the 10-year period ending on the date of the filing of the offer or sale; or
+&emsp;&emsp;&emsp;"(II) constitutes a final order based on a violation of any law or regulation that prohibits fraudulent, manipulative, or deceptive conduct within the 10-year period ending on the date of the filing of the offer or sale; or
 
-&emsp;&emsp;“(ii) has been convicted of any felony or misdemeanor in connection with the purchase or sale of any security or involving the making of any false filing with the Commission.”
+&emsp;&emsp;"(ii) has been convicted of any felony or misdemeanor in connection with the purchase or sale of any security or involving the making of any false filing with the Commission."
 
-#### Disqualifying Felons and Other “Bad Actors” From Regulation D Offerings
+#### Disqualifying Felons and Other "Bad Actors" From Regulation D Offerings
 
-Pub. L. 111–203, title IX, §926, July 21, 2010, 124 Stat. 1851, provided that: “Not later than 1 year after the date of enactment of this Act \[July 21, 2010\], the Commission shall issue rules for the disqualification of offerings and sales of securities made under section 230.506 of title 17, Code of Federal Regulations, that—
+Pub. L. 111–203, title IX, §926, July 21, 2010, 124 Stat. 1851, provided that: "Not later than 1 year after the date of enactment of this Act \[July 21, 2010\], the Commission shall issue rules for the disqualification of offerings and sales of securities made under section 230.506 of title 17, Code of Federal Regulations, that—
 
-&emsp;“(1) are substantially similar to the provisions of section 230.262 of title 17, Code of Federal Regulations, or any successor thereto; and
+&emsp;"(1) are substantially similar to the provisions of section 230.262 of title 17, Code of Federal Regulations, or any successor thereto; and
 
-&emsp;“(2) disqualify any offering or sale of securities by a person that—
+&emsp;"(2) disqualify any offering or sale of securities by a person that—
 
-&emsp;&emsp;“(A) is subject to a final order of a State securities commission (or an agency or officer of a State performing like functions), a State authority that supervises or examines banks, savings associations, or credit unions, a State insurance commission (or an agency or officer of a State performing like functions), an appropriate Federal banking agency, or the National Credit Union Administration, that—
+&emsp;&emsp;"(A) is subject to a final order of a State securities commission (or an agency or officer of a State performing like functions), a State authority that supervises or examines banks, savings associations, or credit unions, a State insurance commission (or an agency or officer of a State performing like functions), an appropriate Federal banking agency, or the National Credit Union Administration, that—
 
-&emsp;&emsp;&emsp;“(i) bars the person from—
+&emsp;&emsp;&emsp;"(i) bars the person from—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) association with an entity regulated by such commission, authority, agency, or officer;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) association with an entity regulated by such commission, authority, agency, or officer;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) engaging in the business of securities, insurance, or banking; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) engaging in the business of securities, insurance, or banking; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) engaging in savings association or credit union activities; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) engaging in savings association or credit union activities; or
 
-&emsp;&emsp;&emsp;“(ii) constitutes a final order based on a violation of any law or regulation that prohibits fraudulent, manipulative, or deceptive conduct within the 10-year period ending on the date of the filing of the offer or sale; or
+&emsp;&emsp;&emsp;"(ii) constitutes a final order based on a violation of any law or regulation that prohibits fraudulent, manipulative, or deceptive conduct within the 10-year period ending on the date of the filing of the offer or sale; or
 
-&emsp;&emsp;“(B) has been convicted of any felony or misdemeanor in connection with the purchase or sale of any security or involving the making of any false filing with the Commission.”
+&emsp;&emsp;"(B) has been convicted of any felony or misdemeanor in connection with the purchase or sale of any security or involving the making of any false filing with the Commission."
 
 \[For definitions of terms used in section 926 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 

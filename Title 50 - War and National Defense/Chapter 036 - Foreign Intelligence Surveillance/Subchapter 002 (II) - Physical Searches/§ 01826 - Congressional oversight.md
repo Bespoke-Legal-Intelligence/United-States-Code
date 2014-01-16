@@ -14,7 +14,7 @@ On a semiannual basis the Attorney General shall fully inform the Permanent Sele
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–177, §109(a)(1), (2), in introductory provisions, inserted “, and the Committee on the Judiciary of the Senate,” after “Select Committee on Intelligence of the Senate” and substituted “and the Committee on the Judiciary of the House of Representatives” for “and the Committees on the Judiciary of the House of Representatives and the Senate”.
+<b>2006</b>—Pub. L. 109–177, §109(a)(1), (2), in introductory provisions, inserted ", and the Committee on the Judiciary of the Senate," after "Select Committee on Intelligence of the Senate" and substituted "and the Committee on the Judiciary of the House of Representatives" for "and the Committees on the Judiciary of the House of Representatives and the Senate".
 
 Par. (4). Pub. L. 109–177, §109(a)(3)–(5), added par. (4).
 

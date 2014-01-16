@@ -2,11 +2,11 @@
 
 #### (a) Time, manner, and content of application
 
-To be eligible to receive assistance under section 12571(a) of this title or approved national service positions for participants who serve in the national service programs to be carried out using the assistance, a State, territory, subdivision of a State, Indian tribe, public or private nonprofit organization, or institution of higher education shall prepare and submit to the Corporation an application at such time, in such manner, and containing such information as the Corporation may reasonably require.
+To be eligible to receive assistance under section 12571(a) of this title or approved nationalservice positions for participants who serve in the national service programs to be carried out using the assistance, a State, territory, subdivision of a State, Indian tribe, public or private nonprofit organization, or institution of higher education shall prepare and submit to the Corporation an application at such time, in such manner, and containing such information as the Corporation may reasonably require.
 
 #### (b) Types of permissible application information
 
-In order to have adequate information upon which to consider an application under section 12585 of this title, the Corporation may requirethe following information to be provided in an application submitted under subsection (a) of this section:
+In order to have adequate information upon which to consider an application under section 12585 of this title, the Corporation may require the following information to be provided in an application submitted under subsection (a) of this section:
 
 &emsp;(1) A description of the national service programs proposed to be carried out directly by the applicant using assistance provided under section 12571 of this title.
 
@@ -104,7 +104,7 @@ An application submitted under subsection (a) for programs described in 12572(a)
 
 #### (2) Applicant defined
 
-&emsp;For purposes of this subsection, the term “applicant” means—
+&emsp;For purposes of this subsection, the term "applicant" means—
 
 &emsp;&emsp;(A) a State, subdivision of a State, territory, Indian tribe, public or private nonprofit organization, or institution of higher education submitting an application under this section; or
 
@@ -122,39 +122,39 @@ A prior section 130 of Pub. L. 101–610 was renumbered section 199I and is clas
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1308(1), substituted “section 12571(a)” for “section 12571”, inserted “territory,” after “assistance, a State,”, and substituted “or institution of higher education” for “institution of higher education, or Federal agency”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1308(1), substituted "section 12571(a)" for "section 12571", inserted "territory," after "assistance, a State,", and substituted "or institution of higher education" for "institution of higher education, or Federal agency".
 
-Subsec. (b)(9). Pub. L. 111–13, §1308(2)(A), substituted “section 12572(f)” for “section 12572(c)”.
+Subsec. (b)(9). Pub. L. 111–13, §1308(2)(A), substituted "section 12572(f)" for "section 12572(c)".
 
-Subsec. (b)(12). Pub. L. 111–13, §1308(2)(B), inserted “municipalities and governments of counties in which such a community is located,” after “providing services,”.
+Subsec. (b)(12). Pub. L. 111–13, §1308(2)(B), inserted "municipalities and governments of counties in which such a community is located," after "providing services,".
 
-Subsec. (c)(1). Pub. L. 111–13, §1308(3)(A), substituted “proposed positions” for “jobs or positions” and a period for “, including descriptions of specific tasks to be performed by such participants.”
+Subsec. (c)(1). Pub. L. 111–13, §1308(3)(A), substituted "proposed positions" for "jobs or positions" and a period for ", including descriptions of specific tasks to be performed by such participants."
 
-Subsec. (c)(2). Pub. L. 111–13, §1308(3)(B), inserted “proposed” before “minimum”.
+Subsec. (c)(2). Pub. L. 111–13, §1308(3)(B), inserted "proposed" before "minimum".
 
 Subsec. (c)(3). Pub. L. 111–13, §1308(3)(C), added par. (3).
 
 Subsec. (d). Pub. L. 111–13, §1308(5), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-Subsec. (d)(1). Pub. L. 111–13, §1308(4), substituted “section 12571(a)” for “subsection (a) or (b) of section 12571” in subpars. (A) and (B) and “subsection (a), (b), or (c) of section 12572” for “section 12572(a)” in subpar. (B).
+Subsec. (d)(1). Pub. L. 111–13, §1308(4), substituted "section 12571(a)" for "subsection (a) or (b) of section 12571" in subpars. (A) and (B) and "subsection (a), (b), or (c) of section 12572" for "section 12572(a)" in subpar. (B).
 
 Subsecs. (e), (f). Pub. L. 111–13, §1308(5), redesignated subsecs. (d) and (e) as (e) and (f), respectively. Former subsec. (f) redesignated (g).
 
-Subsec. (f)(2). Pub. L. 111–13, §1308(6), which directed substitution of “were or will be selected” for “were selected” in par. (2)(A), was executed by making the substitution in par. (2) to reflect the probable intent of Congress because par. (2) does not contain subpars.
+Subsec. (f)(2). Pub. L. 111–13, §1308(6), which directed substitution of "were or will be selected" for "were selected" in par. (2)(A), was executed by making the substitution in par. (2) to reflect the probable intent of Congress because par. (2) does not contain subpars.
 
 Subsec. (g). Pub. L. 111–13, §1308(5), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (g)(1). Pub. L. 111–13, §1308(7)(A), substituted “an applicant” for “a program applicant”.
+Subsec. (g)(1). Pub. L. 111–13, §1308(7)(A), substituted "an applicant" for "a program applicant".
 
-Subsec. (g)(2). Pub. L. 111–13, §1308(7)(B)(i), (ii), substituted “Applicant” for “Program applicant” in heading and “applicant” for “program applicant” in introductory provisions.
+Subsec. (g)(2). Pub. L. 111–13, §1308(7)(B)(i), (ii), substituted "Applicant" for "Program applicant" in heading and "applicant" for "program applicant" in introductory provisions.
 
-Subsec. (g)(2)(A), (B). Pub. L. 111–13, §1308(7)(B)(iii), (iv), inserted “territory,” after “subdivision of aState,” and substituted “or institution of higher education” for “institution of higher education, or Federal agency”.
+Subsec. (g)(2)(A), (B). Pub. L. 111–13, §1308(7)(B)(iii), (iv), inserted "territory," after "subdivision of a State," and substituted "or institution of higher education" for "institution of higher education, or Federal agency".
 
-Subsec. (h). Pub. L. 111–13, §1308(5), (8), redesignated subsec. (g) as (h) and amended subsec. (h) generally. Prior to amendment, text read as follows: “The Corporation shall reject an application submitted under this section if a project proposed to be conducted using assistance requested by the applicant is already described in another application pending before the Corporation.”
+Subsec. (h). Pub. L. 111–13, §1308(5), (8), redesignated subsec. (g) as (h) and amended subsec. (h) generally. Prior to amendment, text read as follows: "The Corporation shall reject an application submitted under this section if a project proposed to be conducted using assistance requested by the applicant is already described in another application pending before the Corporation."
 
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

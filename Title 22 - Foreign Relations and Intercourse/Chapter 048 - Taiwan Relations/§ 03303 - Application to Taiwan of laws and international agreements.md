@@ -18,7 +18,7 @@ The application of subsection (a) of this section shall include, but shall not b
 
 &emsp;(4) Whenever the application of the laws of the United States depends upon the law that is or was applicable on Taiwan or compliance therewith, the law applied by the people on Taiwan shall be considered the applicable law for that purpose.
 
-&emsp;(5) Nothing in this chapter, nor the facts of the President's action in extending diplomatic recognition to the People's Republic of China, the absence of diplomatic relations between the people on Taiwan and the United States, or the lack of recognition by the United States, and attendant circumstances thereto, shall be construed in any administrative or judicial proceeding as a basis for any UnitedStates Government agency, commission, or department to make a finding of fact or determination of law, under the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] and the Nuclear Non-Proliferation Act of 1978 \[22 U.S.C. 3201 et seq.\], to deny an export license application or to revoke an existing export license for nuclear exports to Taiwan.
+&emsp;(5) Nothing in this chapter, nor the facts of the President's action in extending diplomatic recognition to the People's Republic of China, the absence of diplomatic relations between the people on Taiwan and the United States, or the lack of recognition by the United States, and attendant circumstances thereto, shall be construed in any administrative or judicial proceeding as a basis for any United States Government agency, commission, or department to make a finding of fact or determination of law, under the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] and the Nuclear Non-Proliferation Act of 1978 \[22 U.S.C. 3201 et seq.\], to deny an export license application or to revoke an existing export license for nuclear exports to Taiwan.
 
 &emsp;(6) For purposes of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], Taiwan may be treated in the manner specified in the first sentence of section 202(b) of that Act \[8 U.S.C. 1152(b)\].
 
@@ -38,31 +38,35 @@ Nothing in this chapter may be construed as a basis for supporting the exclusion
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (b)(5), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (b)(5), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 The Nuclear Non-Proliferation Act of 1978, referred to in subsec. (b)(5), is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 The Immigration and Nationality Act, referred to in subsec. (b)(6), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
+#### Concerning the Participation of Taiwan in the International Civil Aviation Organization
+
+Pub. L. 113–17, §1, July 12, 2013, 127 Stat. 480, directed the Secretary of State to develop a strategy to obtain observer status for Taiwan at the triennial International Civil Aviation Organization (ICAO) Assembly and other related meetings, activities, and mechanisms thereafter, to instruct the United States Mission to the ICAO to officially request observer status for Taiwan at such Assembly, meetings, activities, and mechanisms, to actively urge ICAO member states to support such observer status and participation for Taiwan, and to submit a report to Congress on the strategy developed by not later than 30 days after July 12, 2013.
+
 #### Semiannual Reports on United States Support for Membership or Participation of Taiwan in International Organizations
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §704\], Nov. 29, 1999, 113 Stat. 1536, 1501A–460, provided that:
 
-“(a)
+"(a)
 
 Reports Required.—Not later than 60 days after the date of enactment of this Act \[Nov. 29, 1999\], and every 6 months thereafter for fiscal years 2000 and 2001, the Secretary of State shall submit to Congress a report in a classified and unclassified manner on the status of efforts by the United States Government to support—
 
-&emsp;“(1) the membership of Taiwan in international organizations that do not require statehood as a prerequisite to such membership; and
+&emsp;"(1) the membership of Taiwan in international organizations that do not require statehood as a prerequisite to such membership; and
 
-&emsp;“(2) the appropriate level of participation by Taiwan in international organizations that may require statehood as a prerequisite to full membership.
+&emsp;"(2) the appropriate level of participation by Taiwan in international organizations that may require statehood as a prerequisite to full membership.
 
-“(b)
+"(b)
 
 Report Elements.—Each report under subsection (a) shall—
 
-&emsp;“(1) set forth a comprehensive list of the international organizations in which the United States Government supports the membership or participation of Taiwan;
+&emsp;"(1) set forth a comprehensive list of the international organizations in which the United States Government supports the membership or participation of Taiwan;
 
-&emsp;“(2) describe in detail the efforts of the United States Government to achieve the membership or participation of Taiwan in each organization listed; and
+&emsp;"(2) describe in detail the efforts of the United States Government to achieve the membership or participation of Taiwan in each organization listed; and
 
-&emsp;“(3) identify the obstacles to the membership or participation of Taiwan in each organization listed, including a list of any governments that do not support the membership or participation of Taiwan in each such organization.”
+&emsp;"(3) identify the obstacles to the membership or participation of Taiwan in each organization listed, including a list of any governments that do not support the membership or participation of Taiwan in each such organization."
 

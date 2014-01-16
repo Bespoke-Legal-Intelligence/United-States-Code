@@ -20,7 +20,7 @@ Not later than 3 months before the payment of any such quarterly installment to 
 
 #### (d) Payment method
 
-Upon receipt of a certification under subsection (c)(2) of this section with respect to a State, the Secretary of the Treasury shall, through the Fiscal Service of the Department of the Treasury and before audit or settlement by the Government Accountability Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.
+Upon receipt of a certification under subsection (c)(2) of this section with respect to aState, the Secretary of the Treasury shall, through the Fiscal Service of the Department of the Treasury and before audit or settlement by the Government Accountability Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.
 
 (Aug. 14, 1935, ch. 531, title IV, §405, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2128; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -30,7 +30,7 @@ A prior section 605, acts Aug. 14, 1935, ch. 531, title IV, §405, 49 Stat. 629;
 
 #### Amendments
 
-<b>2004</b>—Subsec. (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1997</b>—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 

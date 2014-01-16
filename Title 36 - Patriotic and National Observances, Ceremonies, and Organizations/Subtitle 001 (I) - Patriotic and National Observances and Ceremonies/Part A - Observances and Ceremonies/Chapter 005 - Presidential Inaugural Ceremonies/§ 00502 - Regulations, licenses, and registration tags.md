@@ -42,11 +42,11 @@ Aug. 6, 1956, ch. 974, §2, 70 Stat. 1049; Jan. 30, 1968, Pub. L. 90–251, §1,
 
 Aug. 6, 1956, ch. 974, §10, as added Jan. 30, 1968, Pub. L. 90–251, §4, 82 Stat. 4.
 
-In this chapter, the words “Council of the District of Columbia” are substituted for “District of Columbia Council” because of sections 401 and 711 of the District of Columbia Self-Government and Governmental Reorganization Act (Public Law 93–198, 87 Stat. 785, 818).
+In this chapter, the words "Council of the District of Columbia" are substituted for "District of Columbia Council" because of sections 401 and 711 of the District of Columbia Self-Government and Governmental Reorganization Act (Public Law 93–198, 87 Stat. 785, 818).
 
-In subsection (a)(2), the words “of whatever character or kind during such period” are omitted as unnecessary.
+In subsection (a)(2), the words "of whatever character or kind during such period" are omitted as unnecessary.
 
-In subsection (a)(3), the words “the privilege of”, “goods, wares, and”, and “in the District of Columbia” are omitted as unnecessary.
+In subsection (a)(3), the words "the privilege of", "goods, wares, and", and "in the District of Columbia" are omitted as unnecessary.
 
-In subsection (b), the words “both duly registered . . . and unregistered”, “a period”, and “the occasion of” are omitted as unnecessary.
+In subsection (b), the words "both duly registered . . . and unregistered", "a period", and "the occasion of" are omitted as unnecessary.
 

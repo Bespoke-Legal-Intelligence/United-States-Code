@@ -32,7 +32,7 @@ Mar. 2, 1907, ch. 2515, §1 (proviso), 34 Stat. 1218.
 
 Aug. 10, 1946, ch. 952, §6(b), 60 Stat. 996.
 
-In subsection (a), the words “active service” are substituted for the word “service”, in 10:947, and “active Federal service performed”, in 10:958, for uniformity. The words “service computed under section 8683 of this title” are inserted, since a person entitled to count service under that revised section might cease to be a nurse or woman medical specialist and thereafter become entitled to retire under one of the revised sections referred to in subsection (a) of this revised section.
+In subsection (a), the words "active service" are substituted for the word "service", in 10:947, and "active Federal service performed", in 10:958, for uniformity. The words "service computed under section 8683 of this title" are inserted, since a person entitled to count service under that revised section might cease to be a nurse or woman medical specialist and thereafter become entitled to retire under one of the revised sections referred to in subsection (a) of this revised section.
 
 Subsection (b) is inserted because of section 8638 of this title and in accordance with long standing interpretation of the effect of 10:629 upon the computation of years of service for retirement.
 
@@ -56,25 +56,25 @@ The amendment reflects the repeal of section 8638 of this title and the enactmen
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted “section 972(a)” for “section 972”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted "section 972(a)" for "section 972".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337, §635(c)(1)(A), struck out “and of computing his retired pay under section 8991 of this title,” after “8917 of this title,”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §635(c)(1)(A), struck out "and of computing his retired pay under section 8991 of this title," after "8917 of this title,".
 
-Subsec. (c). Pub. L. 103–337, §635(c)(1)(B), struck out subsec. (c) which read as follows: “In determining a member's years of service under subsection (a) for the purpose of computing the member's retired pay under section 8991 of this title—
+Subsec. (c). Pub. L. 103–337, §635(c)(1)(B), struck out subsec. (c) which read as follows: "In determining amember's years of service under subsection (a) for the purpose of computing the member's retired pay under section 8991 of this title—
 
-&emsp;“(1) each full month of service that is in addition to the number of full years of service creditable to the member shall be credited as 1/12 of a year; and
+&emsp;"(1) each full month of service that is in addition to the number of full years of service creditable to the member shall be credited as 1/12 of a year; and
 
-&emsp;“(2) any remaining fractional part of a year shall be disregarded.”
+&emsp;"(2) any remaining fractional part of a year shall be disregarded."
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–189 struck out “and service computed under section 8683 of this title” before period at end.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 struck out "and service computed under section 8683 of this title" before period at end.
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–348 added subsec. (c).
 
-<b>1980</b>—Pub. L. 96–343, §9(b)(2)(B), struck out “regular” before “enlisted members” in section catchline.
+<b>1980</b>—Pub. L. 96–343, §9(b)(2)(B), struck out "regular" before "enlisted members" in section catchline.
 
-Subsec. (a). Pub. L. 96–343, §9(b)(2)(A), substituted “an enlisted” for “a regular enlisted”.
+Subsec. (a). Pub. L. 96–343, §9(b)(2)(A), substituted "an enlisted" for "a regular enlisted".
 
-<b>1958</b>—Subsec. (b). Pub. L. 85–861 substituted “section 972 of this title” for “section 8638 of this title”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–861 substituted "section 972 of this title" for "section 8638 of this title".
 
 #### Effective Date of 1996 Amendment
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any pe
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 applicable to computation of retired pay of any enlisted member who retireson or after Oct. 5, 1994, to computation of retainer pay of any enlisted member who is transferred to Fleet Reserve or Fleet Marine Corps Reserve on or after Oct. 5, 1994, and to recomputation of retired pay of any enlisted member who is advanced on retired list on or after Oct. 5, 1994, see section 635(e) of Pub. L. 103–337, set out as a note under section 1405 of this title.
+Amendment by Pub. L. 103–337 applicable to computation of retired pay of any enlisted member who retires on or after Oct. 5, 1994, to computation of retainer pay of any enlisted member who is transferred to Fleet Reserve or Fleet Marine Corps Reserve on or after Oct. 5, 1994, and to recomputation of retired pay of any enlisted member who is advanced on retired list on or after Oct. 5, 1994, see section 635(e) of Pub. L. 103–337, set out as a note under section 1405 of this title.
 
 #### Effective Date of 1980 Amendment
 

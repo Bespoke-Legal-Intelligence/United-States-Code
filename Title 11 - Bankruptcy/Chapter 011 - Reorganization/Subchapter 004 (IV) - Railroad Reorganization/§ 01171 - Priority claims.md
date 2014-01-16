@@ -20,7 +20,7 @@ Subsection (b) follows present section 77(b) of the Bankruptcy Act \[section 205
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–353 substituted “the same” for “such”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353 substituted "the same" for "such".
 
 #### Effective Date of 1984 Amendment
 

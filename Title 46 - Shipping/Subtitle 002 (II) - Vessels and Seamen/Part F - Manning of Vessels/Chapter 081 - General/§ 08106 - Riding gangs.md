@@ -84,7 +84,7 @@ Exceptions for Warranty Work.—
 
 In general.—Subsections (b), (c), (e), and (f) do not apply to a riding gang member employed exclusively to perform, and who performs only, work that is—
 
-&emsp;&emsp;(A) customarily performed by original equipment manufacturers’ technical representatives;
+&emsp;&emsp;(A) customarily performed by original equipment manufacturers' technical representatives;
 
 &emsp;&emsp;(B) required by a manufacturer's warranty on specific machinery and equipment; or
 

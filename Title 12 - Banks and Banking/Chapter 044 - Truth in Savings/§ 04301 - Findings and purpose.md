@@ -18,7 +18,7 @@ It is the purpose of this chapter to require the clear and uniform disclosure of
 
 #### Short Title
 
-Pub. L. 102–242, title II, §261, Dec. 19, 1991, 105 Stat. 2334, provided that: “This subtitle \[subtitle F (§§261–274) of title II of Pub. L. 102–242, enacting this chapter\] may be cited as the ‘Truth in Savings Act’.”
+Pub. L. 102–242, title II, §261, Dec. 19, 1991, 105 Stat. 2334, provided that: "This subtitle \[subtitle F (§§261–274) of title II of Pub. L. 102–242, enacting this chapter\] may be cited as the 'Truth in Savings Act'."
 
 #### Separability
 

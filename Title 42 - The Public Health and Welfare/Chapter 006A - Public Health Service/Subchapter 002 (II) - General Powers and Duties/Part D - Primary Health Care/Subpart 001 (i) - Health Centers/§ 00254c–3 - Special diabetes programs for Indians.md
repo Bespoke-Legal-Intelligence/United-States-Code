@@ -40,21 +40,21 @@ The Indian Health Care Improvement Act, referred to in subsec. (b)(3), is Pub. L
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(2)(C). Pub. L. 112–240 substituted “2014” for “2013”.
+<b>2013</b>—Subsec. (c)(2)(C). Pub. L. 112–240 substituted "2014" for "2013".
 
-<b>2010</b>—Subsec. (c)(2)(C). Pub. L. 111–309 substituted “2013” for “2011”.
+<b>2010</b>—Subsec. (c)(2)(C). Pub. L. 111–309 substituted "2013" for "2011".
 
-<b>2008</b>—Subsec. (c)(2)(C). Pub. L. 110–275 substituted “2011” for “2009”.
+<b>2008</b>—Subsec. (c)(2)(C). Pub. L. 110–275 substituted "2011" for "2009".
 
-<b>2007</b>—Subsec. (c)(2)(C). Pub. L. 110–173 substituted “2009” for “2008”.
+<b>2007</b>—Subsec. (c)(2)(C). Pub. L. 110–173 substituted "2009" for "2008".
 
 <b>2002</b>—Subsec. (c)(2)(C). Pub. L. 107–360 added subpar. (C).
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–554 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–174 inserted “, to remain available until expended,” after “fiscal years 1998 through 2002, $30,000,000”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–174 inserted ", to remain available until expended," after "fiscal years 1998 through 2002, $30,000,000".
 
 #### Funds Available Until Expended
 
-Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part “That funds appropriated under the Special Diabetes Program for Indians (42 U.S.C. 254c–3(c)) for fiscal year 2003 and thereafter for the purpose of making grants shall remain available until expended”.
+Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part "That funds appropriated under the Special Diabetes Program for Indians (42 U.S.C. 254c–3(c)) for fiscal year 2003 and thereafter for the purpose of making grants shall remain available until expended".
 

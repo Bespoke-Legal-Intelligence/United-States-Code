@@ -32,7 +32,7 @@ No State may receive a grant under this section unless the State educational age
 
 #### (3) State defined
 
-&emsp;For purposes of this subsection, the term “State” does not include the United States Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
+&emsp;For purposes of this subsection, the term "State" does not include the United States Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
 
 #### (d) Activities
 
@@ -168,7 +168,7 @@ Grants under this section shall be used for the following:
 
 #### (G) Definition
 
-&emsp;&emsp;For purposes of this paragraph, the term “covered county” means—
+&emsp;&emsp;For purposes of this paragraph, the term "covered county" means—
 
 &emsp;&emsp;&emsp;(i) San Joaquin County, California;
 
@@ -308,7 +308,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;If a dispute arises over school selection or enrollment in a school—
 
-&emsp;&emsp;&emsp;(i) the child or youth shall be immediately admitted to the school in whichenrollment is sought, pending resolution of the dispute;
+&emsp;&emsp;&emsp;(i) the child or youth shall be immediately admitted to the school in which enrollment is sought, pending resolution of the dispute;
 
 &emsp;&emsp;&emsp;(ii) the parent or guardian of the child or youth shall be provided with a written explanation of the school's decision regarding school selection or enrollment, including the rights of the parent, guardian, or youth to appeal the decision;
 
@@ -322,7 +322,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (G) School of origin defined
 
-&emsp;&emsp;In this paragraph, the term “school of origin” means the school that the child or youth attended when permanently housed or the school in which the child or youth was last enrolled.
+&emsp;&emsp;In this paragraph, the term "school of origin" means the school that the child or youth attended when permanently housed or the school in which the child or youth was last enrolled.
 
 #### (H) Contact information
 
@@ -454,13 +454,13 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (g)(4
 
 The Runaway and Homeless Youth Act, referred to in subsec. (g)(5)(A)(i), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§5701 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
-This chapter, referred to in subsec. (g)(6)(A)(v), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsec. (g)(6)(A)(v), was in the original "this Act", meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 11432, Pub. L. 100–77, title VII, §722, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3957, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 107–110.
 
-Another prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 101 Stat. 525; Pub. L. 100–628, title VII, §702(a), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(b), Nov. 29, 1990, 104 Stat. 4735, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
+Another prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 101 Stat. 525; Pub. L. 100–628, title VII, §702(a), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(b), Nov. 29, 1990, 104 Stat. 4735, related to grants for State and local activities for education ofhomeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
 
 #### Amendments
 

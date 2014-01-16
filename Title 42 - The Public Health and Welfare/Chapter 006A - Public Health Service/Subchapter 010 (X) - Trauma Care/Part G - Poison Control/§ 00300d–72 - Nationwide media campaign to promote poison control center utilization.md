@@ -6,7 +6,7 @@ The Secretary shall carry out, and expand upon, a national media campaign to edu
 
 #### (b) Contract with entity
 
-The Secretary may carry out subsection (a) by entering into contracts with one or more publicor private entities, including nationally recognized organizations in the field of poison control and national media firms, for the development and implementation of a nationwide poison prevention and poison control center awareness campaign, which may include—
+The Secretary may carry out subsection (a) by entering into contracts with one or more public or private entities, including nationally recognized organizations in the field of poison control and national media firms, for the development and implementation of a nationwide poison prevention and poison control center awareness campaign, which may include—
 
 &emsp;(1) the development and distribution of poison prevention and poison control center awareness materials;
 
@@ -34,5 +34,5 @@ There is authorized to be appropriated to carry out this section, such sums as m
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–377, §4(b), Oct. 8, 2008, 122 Stat. 4065, provided that: “The amendment made by this section \[amending this section\] shall be effective on the date of the enactment of this Act \[Oct. 8, 2008\] and shall apply to contracts entered into on or after January 1, 2009.”
+Pub. L. 110–377, §4(b), Oct. 8, 2008, 122 Stat. 4065, provided that: "The amendment made by this section \[amending this section\] shall be effective on the date of the enactment of this Act \[Oct. 8, 2008\] and shall apply to contracts entered into on or after January 1, 2009."
 

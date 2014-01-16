@@ -12,7 +12,7 @@ Not later than January 15 of each year (beginning in 1983), the President shall 
 
 &emsp;(2) the composition of the Multinational Force and Observers, including a description of the responsibilities and deployment of the military personnel of each participating country;
 
-&emsp;(3) All costs incurred by the United States Government (including both normal and incremental costs), set forth by category, which are associated with the United States relationship with the Multinational Force and Observers and which were incurred during the preceding fiscal year (whether or not the United States was reimbursed for those costs), specifically including but not limited to—
+&emsp;(3) All <sup>1</sup> costs incurred by the United States Government (including both normal and incremental costs), set forth by category, which are associated with the United States relationship with the Multinational Force and Observers and which were incurred during the preceding fiscal year (whether or not the United States was reimbursed for those costs), specifically including but not limited to—
 
 &emsp;&emsp;(A) the costs associated with the United States units and personnel participating in the Multinational Force and Observers (including salaries, allowances, retirement and other benefits, transportation, housing, and operating and maintenance costs), and
 
@@ -40,7 +40,7 @@ Not later than January 15 of each year (beginning in 1983), the President shall 
 
 Ex. Ord. No. 12361, Apr. 27, 1982, 47 F.R. 18313, provided:
 
-By the authority vested in me as President of the United States of America by the Multinational Force and Observers Participation Resolution (Public Law 97–132, 95 Stat. 1693) \[this subchapter\] and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by the Multinational Force and Observers Participation Resolution (Public Law 97–132, 95 Stat. 1693) \[this subchapter\] and Section 301 ofTitle 3 of the United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Delegation of Functions</i>. The reporting function conferred upon the President by Section 6 of the Multinational Force and Observers Participation Resolution (22 U.S.C. 3425) is delegated to the Secretary of State.
 
@@ -49,4 +49,6 @@ Sec. 2. <i>Interagency Coordination</i>. In the exercise of the function conferr
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -6,11 +6,11 @@ The Secretary of the Treasury shall instruct the United States executive directo
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–240 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: “In order to gain a better understanding of the social, political and economic impact of the Fund's stabilization programs on borrowing countries, especially as it relates to the poor majority within those countries, the United States Governor of the Fund shall prepare and submit, not later than 180 days after the close of each calendar year, a report to the Congress. Such report shall evaluate, to the maximum extent feasible, with respect to countries to which loans are made during each year, the effects of policies of those countries which result from the standby agreements on basic human needs in such countries.”
+<b>1989</b>—Pub. L. 101–240 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: "In order to gain a better understanding of the social, political and economic impact of the Fund's stabilization programs on borrowing countries, especially as it relates to the poor majority within those countries, the United States Governor of the Fund shall prepare and submit, not later than 180 days after the close of each calendar year, a report to the Congress. Such report shall evaluate, to the maximum extent feasible, with respect to countries to which loans are made during each year, the effects of policies of those countries which result from the standby agreements on basic human needs in such countries."
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–389, §2(b)(1), struck out “entered into pursuant to loans from the Supplementary Financing Facility” after “stabilization programs”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–389, §2(b)(1), struck out "entered into pursuant to loans from the Supplementary Financing Facility" after "stabilization programs".
 
-Subsec. (b). Pub. L. 96–389, §2(b)(2), (3), struck out “entered into pursuant to loans from the Supplementary Financing Facility” after “stabilization programs” and “by the Supplementary Financing Facility” after “loans are made”.
+Subsec. (b). Pub. L. 96–389, §2(b)(2), (3), struck out "entered into pursuant to loans from the Supplementary Financing Facility" after "stabilization programs" and "by the Supplementary Financing Facility" after "loans are made".
 
 #### Effective Date of 1980 Amendment
 

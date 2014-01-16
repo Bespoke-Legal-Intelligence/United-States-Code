@@ -34,17 +34,17 @@ The Secretary may, on his own initiative, or at the request of any local governm
 
 > Assistance under this subsection may include payments for technical aid.
 
-(Pub. L. 93–555, §4, Dec. 27, 1974, 88 Stat. 1787; Pub. L. 95–625, title III, §315(e), Nov. 10, 1978, 92 Stat. 3483; Pub. L. 99–658, title I, §104(j)(1), Nov. 14, 1986, 100 Stat. 3677; Pub. L. 106–291, title I, §149(c)(2), Oct. 11, 2000, 114 Stat. 956.)
+(Pub. L. 93–555, §4, Dec. 27, 1974, 88 Stat. 1787; Pub. L. 95–625, title III, §315(e), Nov. 10, 1978, 92Stat. 3483; Pub. L. 99–658, title I, §104(j)(1), Nov. 14, 1986, 100 Stat. 3677; Pub. L. 106–291, title I, §149(c)(2), Oct. 11, 2000, 114 Stat. 956.)
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–291 substituted “park” for “recreation area” wherever appearing.
+<b>2000</b>—Pub. L. 106–291 substituted "park" for "recreation area" wherever appearing.
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–658 designated existing provision as par. (1) and added par. (2).
 
-<b>1978</b>—Subsec. (f). Pub. L. 95–625 inserted in introductory text “(or intergovernmental organization)” after “local government” in two places, and last sentence providing that assistance may include payments for technical aid.
+<b>1978</b>—Subsec. (f). Pub. L. 95–625 inserted in introductory text "(or intergovernmental organization)" after "local government" in two places, and last sentence providing that assistance may include payments for technical aid.
 
 #### Appropriations for Roads
 
-Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 996, as amended by Pub. L. 106–291, title I, §149(b), Oct. 11, 2000, 114 Stat. 956, provided in part that: “appropriations for maintenance and improvement of roads within the boundary of the Cuyahoga Valley National Park shall be available for such purposes without regard to whether title to such road rights-of-way is in the United States”.
+Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 996, as amended by Pub. L. 106–291, title I, §149(b), Oct. 11, 2000, 114 Stat. 956, provided in part that: "appropriations for maintenance and improvement of roads within the boundary of the Cuyahoga Valley National Park shall be available for such purposes without regard to whether title to such road rights-of-way is in the United States".
 

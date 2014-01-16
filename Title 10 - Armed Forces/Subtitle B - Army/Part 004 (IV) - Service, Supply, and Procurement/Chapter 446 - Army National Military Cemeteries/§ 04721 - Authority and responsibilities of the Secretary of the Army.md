@@ -6,11 +6,11 @@ General Authority.—The Secretary of the Army shall develop, operate, manage, a
 
 (b)
 
-Army National Military Cemeteries.—The Army National Military Cemeteries (in this chapter referred to as the “Cemeteries”) consist of the following:
+Army National Military Cemeteries.—The Army National Military Cemeteries (in this chapter referred to as the "Cemeteries") consist of the following:
 
 &emsp;(1) Arlington National Cemetery in Arlington, Virginia.
 
-&emsp;(2) The United States Soldiers’ and Airmen's Home National Cemetery in the District of Colombia.
+&emsp;(2) The United States Soldiers' and Airmen's Home National Cemetery in the District of Colombia.
 
 (c)
 
@@ -22,7 +22,7 @@ Regulations and Other Policies.—The Secretary of the Army shall prescribe such
 
 (e)
 
-Budgetary and Reporting Requirements.—The Secretary of the Army shall submit to the congressional defense committees and the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual budget request (and detailed justifications for the amount of the request) to fund administration, operation and maintenance, and construction related to the Cemeteries. The Secretary may include, as necessary, proposals for new or amended statutory authority related to the Cemeteries.
+Budgetary and Reporting Requirements.—The Secretary of the Army shall submit to the congressional defense committees and the Committees on Veterans' Affairs of the Senate and House of Representatives an annual budget request (and detailed justifications for the amount of the request) to fund administration, operation and maintenance, and construction related to the Cemeteries. The Secretary may include, as necessary, proposals for new or amended statutory authority related to the Cemeteries.
 
 (Added Pub. L. 112–81, div. A, title V, §591(a)(1), Dec. 31, 2011, 125 Stat. 1439.)
 
@@ -30,11 +30,11 @@ Budgetary and Reporting Requirements.—The Secretary of the Army shall submit t
 
 Pub. L. 112–81, div. A, title V, §591(b), Dec. 31, 2011, 125 Stat. 1441, provided that:
 
-“(1)
+"(1)
 
 Deadline for conversion and use.—Not later than June 1, 2012, all records related to interments and inurnments at Arlington National Cemetery shall be converted to a digitized format. Thereafter, use of the digitized format shall be the method by which all subsequent records related to interments and inurnments at Arlington National Cemetery are preserved and utilized.
 
-“(2)
+"(2)
 
-Digitized format defined.—In this subsection, the term ‘digitized format’ refers to the use of an electronic database for recordkeeping and includes the full accounting of all records of each specific gravesite and niche location at Arlington National Cemetery and the identification of the individual interred or inurned at each specific gravesite and niche location.”
+Digitized format defined.—In this subsection, the term 'digitized format' refers to the use of an electronic database for recordkeeping and includes the full accounting of all records of each specific gravesite and niche location at Arlington National Cemetery and the identification of the individual interred or inurned at each specific gravesite and niche location."
 

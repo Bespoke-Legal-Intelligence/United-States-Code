@@ -18,7 +18,7 @@
 
 (b)(1) Interest may be paid from the appropriation made by this section—
 
-&emsp;(A) on a judgment of a district court, only when the judgment becomes final after review on appeal or petition by the United States Government, and then only from the date of filing of the transcript of the judgment with the Secretary of the Treasury through the day before the date of the mandate of affirmance; or
+&emsp;(A) on a judgment of a district court, only when the judgment becomes final after review on appeal or petition by the United StatesGovernment, and then only from the date of filing of the transcript of the judgment with the Secretary of the Treasury through the day before the date of the mandate of affirmance; or
 
 &emsp;(B) on a judgment of the Court of Appeals for the Federal Circuit or the United States Court of Federal Claims under section 2516(b) of title 28, only from the date of filing of the transcript of the judgment with the Secretary of the Treasury through the day before the date of the mandate of affirmance.
 
@@ -38,7 +38,7 @@
 
 (2) The Exchange making the contract shall reimburse the Government for the amount paid by the Government.
 
-(Pub. L. 97–258, §§1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX,§902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(m), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–314, §4(b), Dec. 18, 2010, 124 Stat. 3440.)
+(Pub. L. 97–258, §§1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(m), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–314, §4(b), Dec. 18, 2010, 124 Stat. 3440.)
 
 Historical and Revision Notes
 
@@ -52,7 +52,7 @@ Historical and Revision Notes
 
 31:724a(1st sentence words before 1st proviso).
 
-July 27, 1956, ch. 748, §1302(1st sentence), 70 Stat. 694; Aug. 30, 1961, Pub. L. 87–187, §3, 75 Stat. 416; July 18, 1966, Pub. L. 89–506, §6, 80 Stat. 307; July 23, 1970, Pub. L. 91–350, §1(c), 84 Stat. 449; restated May 4, 1977, Pub. L. 95–26, §101(2d par. under heading “Claims and Judgments”), 91 Stat. 96; Mar. 7, 1978, Pub. L. 95–240, §201, 92 Stat. 116; Nov. 1, 1978, Pub. L. 95–563, §14(c), 92 Stat. 2390; Apr. 2, 1982, Pub. L. 97–164, title I, §155, title III, §302(c), 96 Stat. 47, 56.
+July 27, 1956, ch. 748, §1302(1st sentence), 70 Stat. 694; Aug. 30, 1961, Pub. L. 87–187, §3, 75 Stat. 416; July 18, 1966, Pub. L. 89–506, §6, 80 Stat. 307; July 23, 1970, Pub. L. 91–350, §1(c), 84 Stat. 449; restated May 4, 1977, Pub. L. 95–26, §101(2d par. under heading "Claims and Judgments"), 91 Stat. 96; Mar. 7, 1978, Pub. L. 95–240, §201, 92 Stat. 116; Nov. 1, 1978, Pub. L. 95–563, §14(c), 92 Stat. 2390; Apr. 2, 1982, Pub. L. 97–164, title I, §155, title III, §302(c), 96 Stat. 47, 56.
 
 1304(b)
 
@@ -66,11 +66,11 @@ July 27, 1956, ch. 748, §1302(1st sentence), 70 Stat. 694; Aug. 30, 1961, Pub. 
 
 31:724a(1st sentence last proviso)
 
-In subsection (a), before clause (1), the words “out of any money in the Treasury not otherwise appropriated” are omitted as surplus. The words “awards rendered by the Indian Claims Commission” are omitted as executed because under 25:70v the Commission was dissolved and all of its outstanding cases were transferred to the Court of Claims. Under 25:70v–3, judgments on cases transferred to the Court of Claims are judgments under 28:2517 and 2518 and are therefore included under clause (3)(A) of the subsection.
+In subsection (a), before clause (1), the words "out of any money in the Treasury not otherwise appropriated" are omitted as surplus. The words "awards rendered by the Indian Claims Commission" are omitted as executed because under 25:70v the Commission was dissolved and all of its outstanding cases were transferred to the Court of Claims. Under 25:70v–3, judgments on cases transferred to the Court of Claims are judgments under 28:2517 and 2518 and are therefore included under clause (3)(A) of the subsection.
 
 In subsection (b), the text of 28:2516(b)(less 1st sentence words after last comma) is omitted as superseded by 31:724a.
 
-In subsection (b)(1)(A), the words “through the day before the date” are substituted for “to the date” as being more precise.
+In subsection (b)(1)(A), the words "through the day before the date" are substituted for "to the date" as being more precise.
 
 #### References in Text
 
@@ -78,15 +78,15 @@ Section 2518 of title 28, referred to in subsec. (c)(1), was repealed by Pub. L.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(3)(D). Pub. L. 111–314 substituted “section 20113 of title 51” for “section 203 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2473)”.
+<b>2010</b>—Subsec. (a)(3)(D). Pub. L. 111–314 substituted "section 20113 of title 51" for "section 203 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2473)".
 
-<b>1996</b>—Subsecs. (a)(2), (b)(1)(A), (B). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
+<b>1996</b>—Subsecs. (a)(2), (b)(1)(A), (B). Pub. L. 104–316 substituted "Secretary of the Treasury" for "Comptroller General".
 
-<b>1992</b>—Subsec. (b)(1)(B). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (b)(1)(B). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1982</b>—Subsec. (b)(1)(A). Pub. L. 97–258, §2(m)(2)(A), struck out “under section 2411(b) of title 28” after “district court”.
+<b>1982</b>—Subsec. (b)(1)(A). Pub. L. 97–258, §2(m)(2)(A), struck out "under section 2411(b) of title 28" after "district court".
 
-Subsec. (b)(1)(B). Pub. L. 97–258, §2(m)(2)(B), substituted “Court of Appeals for the Federal Circuit or the United States Claims Court” for “Court of Claims”.
+Subsec. (b)(1)(B). Pub. L. 97–258, §2(m)(2)(B), substituted "Court of Appeals for the Federal Circuit or the United States Claims Court" for "Court of Claims".
 
 #### Effective Date of 1992 Amendment
 

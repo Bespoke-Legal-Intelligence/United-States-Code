@@ -38,7 +38,7 @@
 | 426–1. | Coastal Engineering Research Center; establishment; powers and functions. |
 | 426–2. | Board on Coastal Engineering Research. |
 | 426–3. | Transfer of functions of Beach Erosion Board. |
-| [426a.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426a%20-%20Additional%20investigations%20concerning%20erosion%20of%20shores%20of%20coastal%20and%20lake%20waters%3B%20payment%20of%20costs%3B%20%E2%80%9Cshores%E2%80%9D%20defined.md) | Additional investigations concerning erosion of shores of coastal and lake waters; payment of costs; “shores” defined. |
+| [426a.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426a%20-%20Additional%20investigations%20concerning%20erosion%20of%20shores%20of%20coastal%20and%20lake%20waters%3B%20payment%20of%20costs%3B%20shores%20defined.md) | Additional investigations concerning erosion of shores of coastal and lake waters; payment of costs; "shores" defined. |
 | [426b.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426b%20-%20Applicability%20of%20existing%20laws%3B%20projects%20referred%20to%20Board%20of%20Engineers%20for%20Rivers%20and%20Harbors.md) | Applicability of existing laws; projects referred to Board of Engineers for Rivers and Harbors. |
 | [426c.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426c%20-%20Report%20by%20Coastal%20Engineering%20Research%20Center.md) | Report by Coastal Engineering Research Center. |
 | [426d.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426d%20-%20Payment%20of%20expenses.md) | Payment of expenses. |

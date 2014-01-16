@@ -16,7 +16,7 @@ R.S. §1821 derived from acts Mar. 2, 1867, ch. 167, §2, 14 Stat. 466; Mar. 3, 
 
 <b>2010</b>—Pub. L. 111–145, §6(e)(3), amended first sentence of R.S. §1821 by striking “, the members of which shall be appointed by the Sergeants-at-Arms of the two Houses and the Architect of the Capitol Extension” after “There shall be a Capitol police”.
 
-Pub. L. 111–145, §6(e)(2), repealed Pub. L. 108–7, §1018(h)(1), and provided that the sentence repealed bysuch section is restored to appear at end of section. See 2003 Amendment note below.
+Pub. L. 111–145, §6(e)(2), repealed Pub. L. 108–7, §1018(h)(1), and provided that the sentence repealed by such section is restored to appear at end of section. See 2003 Amendment note below.
 
 Pub. L. 111–145, §6(e)(1), struck out “The captain and lieutenants shall be selected jointly by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives.” after “from year to year.”
 
@@ -30,7 +30,7 @@ Pub. L. 111–145, §6(d), Mar. 4, 2010, 124 Stat. 54, provided that:
 
 “(1)
 
-Repeal of duplicate provisions.—Effective as if included in the enactment of the Legislative Branch Appropriations Act, 2008 (Public Law 110–161), section 1004 of such Act \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section\] is repealed, and any provision of law amended or repealed by such section is restored or revived to read as if such section had not been enacted into law.
+Repeal of duplicate provisions.—Effective as if included in the enactment of the Legislative Branch Appropriations Act, 2008 (Public Law 110–161), section1004 of such Act \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section\] is repealed, and any provision of law amended or repealed by such section is restored or revived to read as if such section had not been enacted into law.
 
 “(2)
 
@@ -106,7 +106,7 @@ Documentation.—
 
 &emsp;“(1)
 
-Functions and processes.—The Capitol Police Board shall document its functions and processes, including its mission statement, policies, directives, and operating procedures established or revised under subsection (a)(1) or (b), and make such documentation available for examination to the Speaker andminority leader of the House of Representatives, the President pro tempore and minority leader of the Senate, the Chief of the Capitol Police, and the Comptroller General.
+Functions and processes.—The Capitol Police Board shall document its functions and processes, including its mission statement, policies, directives, and operating procedures established or revised under subsection (a)(1) or (b), and make such documentation available for examination to the Speaker and minority leader of the House of Representatives, the President pro tempore and minority leader of the Senate, the Chief of the Capitol Police, and the Comptroller General.
 
 &emsp;“(2)
 
@@ -120,7 +120,7 @@ Assistance of Comptroller General.—Upon request, the Comptroller General shall
 
 References in Law; Effect on Other Laws.—(1) Any reference in any law or resolution in effect as of the date of the enactment of this Act \[Feb. 20, 2003\] to the ‘Capitol Police Board’ shall be deemed to refer to the Capitol Police Board as composed under subsection (a)(2).
 
-“(2) Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of the Capitol Police Board or its individual members unless specifically provided herein.”
+“(2) Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of theCapitol Police Board or its individual members unless specifically provided herein.”
 
 #### Transfer of Library of Congress Police to Capitol Police
 
@@ -220,7 +220,7 @@ Nonreduction in pay, rank, or grade.—The transfer of any individual under this
 
 &emsp;“(2)
 
-Leave and compensatory time.—Any annual leave, sick leave, or other leave, or compensatory time, to the credit of an individual transferred under this section shall be transferred to the credit of that individual as a member or an employee of the Capitol Police (as the case may be). The treatment of leaveor compensatory time transferred under this section shall be governed by regulations of the Capitol Police Board.
+Leave and compensatory time.—Any annual leave, sick leave, or other leave, or compensatory time, to the credit of an individual transferred under this section shall be transferred to the credit of that individual as a member or an employee of the Capitol Police (as the case may be). The treatment of leave or compensatory time transferred under this section shall be governed by regulations of the Capitol Police Board.
 
 &emsp;“(3)
 
@@ -236,7 +236,7 @@ Employee representation.—Nothing in this Act \[see Short Title of 2008 Amendme
 
 &emsp;“(2)
 
-Agreements not applicable.—Nothing in this Act shall be construed to authorize any collective bargaining agreement (or any related court order, stipulated agreement, or agreement to the terms or conditions of employment) applicable to Library of Congress police employees or to Library of Congress police civilian employees to apply to members of the Capitol Police or to civilian employees of the Capitol Police.
+Agreements not applicable.—Nothing in this Act shall be construed to authorize any collective bargaining agreement (or any related court order,stipulated agreement, or agreement to the terms or conditions of employment) applicable to Library of Congress police employees or to Library of Congress police civilian employees to apply to members of the Capitol Police or to civilian employees of the Capitol Police.
 
 “(f)
 
@@ -440,7 +440,7 @@ Mar. 20, 1922, ch. 103, 42 Stat. 429.
 
 #### Capitol Police Civilian Support Positions With Respect to the House of Representatives
 
-House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392,title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended by Pub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
+House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended by Pub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
 
 #### Director of Employment Practices Under Capitol Police Board
 

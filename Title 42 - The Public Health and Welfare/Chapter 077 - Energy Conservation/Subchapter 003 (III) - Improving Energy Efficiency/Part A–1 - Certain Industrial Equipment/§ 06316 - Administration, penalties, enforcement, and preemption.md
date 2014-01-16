@@ -4,13 +4,13 @@
 
 &emsp;(1) references to sections 6293, 6294, and 6295 of this title shall be considered as references to sections 6314, 6315, and 6313 of this title, respectively;
 
-&emsp;(2) references to “this part” shall be treated as referring to part A–1;
+&emsp;(2) references to "this part" shall be treated as referring to part A–1;
 
-&emsp;(3) the term “equipment” shall be substituted for the term “product”;
+&emsp;(3) the term "equipment" shall be substituted for the term "product";
 
-&emsp;(4) the term “Secretary” shall be substituted for “Commission” each place it appears (other than in section 6303(c) of title);
+&emsp;(4) the term "Secretary" shall be substituted for "Commission" each place it appears (other than in section 6303(c) of title);
 
-&emsp;(5) section 6297(a) of this title shall be applied, in the case of electric motors, as if theNational Appliance Energy Conservation Act of 1987 was the Energy Policy Act of 1992;
+&emsp;(5) section 6297(a) of this title shall be applied, in the case of electric motors, as if the National Appliance Energy Conservation Act of 1987 was the Energy Policy Act of 1992;
 
 &emsp;(6) section 6297(b)(1) of this title shall be applied as if electric motors were fluorescent lamp ballasts and as if the National Appliance Energy Conservation Amendments of 1988 were the Energy Policy Act of 1992;
 
@@ -50,7 +50,7 @@
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
 
-(3)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under section 6313(c)(4) <sup>2</sup> of this title to the same extent and in the same manner as theprovisions apply under part A on the date of publication of the final rule by the Secretary, except that any State or local standard issued before the date of publication of the final rule by the Secretary shall not be preempted until the standards take effect.
+(3)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under section 6313(c)(4) <sup>2</sup> of this title to the same extent and in the same manner as the provisions apply under part A on the date of publication of the final rule by the Secretary, except that any State or local standard issued before the date of publication of the final rule by the Secretary shall not be preempted until the standards take effect.
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
 
@@ -76,7 +76,7 @@
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
 
-(3)(A) If the Secretary does not issue a final rule for a specific type of automatic commercial ice maker within the time frame specified in section 6313(d) of this title, subsections (b) and (c) of section 6297 of this title shall no longer apply to the specific type of automatic commercial ice maker for the period beginning on the day after the scheduled date for a final rule and ending on the date on which the Secretary publishes a final rule covering the specific type of automatic commercial ice maker.
+(3)(A) If the Secretary does not issue a final rule for a specific type of automatic commercialice maker within the time frame specified in section 6313(d) of this title, subsections (b) and (c) of section 6297 of this title shall no longer apply to the specific type of automatic commercial ice maker for the period beginning on the day after the scheduled date for a final rule and ending on the date on which the Secretary publishes a final rule covering the specific type of automatic commercial ice maker.
 
 (B) Any State standard issued before the publication of the final rule shall not be preempted until the standards established in the final rule take effect.
 
@@ -152,33 +152,33 @@ Section 6313(c)(4) and (c)(5) of this title, referred to in subsec. (e)(3)(A) an
 
 <b>2012</b>—Pub. L. 112–210, §10(a)(5)(B), made technical amendment to references in original act which appear in subsecs. (b)(1), (d)(1), (e)(1)(A), (2)(A), (3)(A), (f)(1)(A)(i), (2)(A)(i), and (h)(1)(A)(i) as references to part A.
 
-Subsec. (a). Pub. L. 112–210, §10(a)(5)(A), substituted “subparagraphs (B), (C), (D), (I), (J), and (K)” for “subparagraphs (B) through (G)” in introductory provisions.
+Subsec. (a). Pub. L. 112–210, §10(a)(5)(A), substituted "subparagraphs (B), (C), (D), (I), (J), and (K)" for "subparagraphs (B) through (G)" in introductory provisions.
 
 Subsec. (a)(10). Pub. L. 112–210, §10(a)(5)(C), added par. (10).
 
-Subsec. (b)(1). Pub. L. 112–210, §10(a)(5)(A), (D), substituted “section 6295(p)(4)” for “section 6295(p)(5)” and “subparagraphs (B), (C), (D), (I), (J), and (K)” for “subparagraphs (B) through (G)”.
+Subsec. (b)(1). Pub. L. 112–210, §10(a)(5)(A), (D), substituted "section 6295(p)(4)" for "section 6295(p)(5)" and"subparagraphs (B), (C), (D), (I), (J), and (K)" for "subparagraphs (B) through (G)".
 
-Subsec. (h)(3). Pub. L. 112–210, §10(a)(5)(E), substituted “section 6313(f)(4)” for “section 6313(f)(3)”.
+Subsec. (h)(3). Pub. L. 112–210, §10(a)(5)(E), substituted "section 6313(f)(4)" for "section 6313(f)(3)".
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–140, §312(e)(1), substituted “subparagraphs (B) through (G)” for “subparagraphs (B), (C), (D), (E), and (F)” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–140, §312(e)(1), substituted "subparagraphs (B) through (G)" for "subparagraphs (B), (C), (D), (E), and (F)" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 110–140, §§308(b), 312(e)(1), inserted “section 6295(p)(5) of this title,” after “The provisions of” and substituted “subparagraphs (B) through (G)” for “subparagraphs (B), (C), (D), (E), and (F)”.
+Subsec. (b)(1). Pub. L. 110–140, §§308(b), 312(e)(1), inserted "section 6295(p)(5) of this title," after "The provisions of" and substituted "subparagraphs (B) through (G)" for "subparagraphs (B), (C), (D), (E), and (F)".
 
 Subsec. (h). Pub. L. 110–140, §312(e)(2), added subsec. (h).
 
 <b>2005</b>—Subsec. (a)(9). Pub. L. 109–58, §136(h)(1), added par. (9).
 
-Subsec. (b)(1). Pub. L. 109–58, §136(h)(2), substituted “part A” for “part B”, which for purposes of codification had been translated as “part A” thus requiring no change in text.
+Subsec. (b)(1). Pub. L. 109–58, §136(h)(2), substituted "part A" for "part B", which for purposes of codification had been translated as "part A" thus requiring no change in text.
 
 Subsecs. (d) to (g). Pub. L. 109–58, §136(h)(3), added subsecs. (d) to (g).
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–388 inserted “standard” after “meets the applicable”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–388 inserted "standard" after "meets the applicable".
 
-<b>1992</b>—Pub. L. 102–486, §122(e)(3), substituted “enforcement, and preemption” for “and enforcement” in section catchline.
+<b>1992</b>—Pub. L. 102–486, §122(e)(3), substituted "enforcement, and preemption" for "and enforcement" in section catchline.
 
-Subsec. (a). Pub. L. 102–486, §122(e)(1)(A), inserted “(other than the equipment specified in subparagraphs (B), (C), (D), (E), and (F) of section 6311(l) of this title)” after “to this part” and substituted “, the provisions of subsections (l) through (s) of section 6295 of this title, and section 6297” for “and sections 6298”.
+Subsec. (a). Pub. L. 102–486, §122(e)(1)(A), inserted "(other than the equipment specified in subparagraphs (B), (C), (D), (E), and (F) of section 6311(l) of this title)" after "to this part" and substituted ", the provisions of subsections (l) through (s) of section 6295 of this title, and section 6297" for "and sections 6298".
 
-Subsec. (a)(1). Pub. L. 102–486, §122(e)(1)(B), substituted “, 6294, and 6295 of this title” for “and 6294 of this title” and “6314, 6315, and 6313 of this title, respectively” for “6314 and 6315 of this title, respectively”.
+Subsec. (a)(1). Pub. L. 102–486, §122(e)(1)(B), substituted ", 6294, and 6295 of this title" for "and 6294 of this title" and "6314, 6315, and 6313 of this title, respectively" for "6314 and 6315 of this title, respectively".
 
 Subsec. (a)(5) to (8). Pub. L. 102–486, §122(e)(1)(C)–(E), added pars. (5) to (8).
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 112–210 effective as if included in the Energy Independen
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

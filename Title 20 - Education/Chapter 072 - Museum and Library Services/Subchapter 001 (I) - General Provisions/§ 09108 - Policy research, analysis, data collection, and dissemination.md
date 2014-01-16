@@ -34,7 +34,7 @@ Each year, the Director shall widely disseminate, as appropriate to accomplish t
 
 The Director is authorized—
 
-&emsp;(1) to enter into contracts, grants, cooperative agreements, and other arrangements with Federal agencies and other public and private organizations to carry out the objectives under subsection (c); and
+&emsp;(1) to enter into contracts, grants, cooperative agreements, and other arrangements withFederal agencies and other public and private organizations to carry out the objectives under subsection (c); and
 
 &emsp;(2) to publish and disseminate, in a form determined appropriate by the Director, the reports, findings, studies, and other materials prepared under paragraph (1).
 
@@ -52,23 +52,23 @@ The Director is authorized—
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(2), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (c)(2), was in the original "this Act" and was translated as reading "this title", meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–340 amended section catchline and text generally. Prior to amendment, text read as follows: “From amounts described in sections 9123(c) and 9176(b) of this title, the Director shall carry out and publish analyses of the impact of museum and library services. Such analyses—
+<b>2010</b>—Pub. L. 111–340 amended section catchline and text generally. Prior to amendment, text read as follows: "From amounts described in sections 9123(c) and 9176(b) of this title, the Director shall carry out and publish analyses of the impact of museum and library services. Such analyses—
 
-&emsp;“(1) shall be conducted in ongoing consultation with—
+&emsp;"(1) shall be conducted in ongoing consultation with—
 
-&emsp;&emsp;“(A) State library administrative agencies;
+&emsp;&emsp;"(A) State library administrative agencies;
 
-&emsp;&emsp;“(B) State, regional, and national library and museum organizations; and
+&emsp;&emsp;"(B) State, regional, and national library and museum organizations; and
 
-&emsp;&emsp;“(C) other relevant agencies and organizations;
+&emsp;&emsp;"(C) other relevant agencies and organizations;
 
-&emsp;“(2) shall identify national needs for, and trends of, museum and library services provided with funds made available under subchapters II and III of this chapter;
+&emsp;"(2) shall identify national needs for, and trends of, museum and library services provided with funds made available under subchapters II and III of this chapter;
 
-&emsp;“(3) shall report on the impact and effectiveness of programs conducted with funds made available by the Institute in addressing such needs; and
+&emsp;"(3) shall report on the impact and effectiveness of programs conducted with funds made available by the Institute in addressing such needs; and
 
-&emsp;“(4) shall identify, and disseminate information on, the best practices of such programs to the agencies and entities described in paragraph (1).”
+&emsp;"(4) shall identify, and disseminate information on, the best practices of such programs to the agencies and entities described in paragraph (1)."
 

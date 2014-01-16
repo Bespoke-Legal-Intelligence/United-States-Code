@@ -62,11 +62,11 @@ Affirmative Defense.—It shall be an affirmative defense to a charge of violati
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “visual depiction” includes undeveloped film and videotape, and data stored on a computer disk or by electronic means which is capable of conversion into a visual image, and also includes any photograph, film, video, picture, digital image or picture, computer image or picture, or computer generatedimage or picture, whether made or produced by electronic, mechanical, or other means;
+&emsp;(1) the term "visual depiction" includes undeveloped film and videotape, and data stored on a computer disk or by electronic means which is capable of conversion into a visual image, and also includes any photograph, film, video, picture, digital image or picture, computer image or picture, or computer generated image or picture, whether made or produced by electronic, mechanical, or other means;
 
-&emsp;(2) the term “sexually explicit conduct” has the meaning given the term in section 2256(2)(A) or 2256(2)(B); and
+&emsp;(2) the term "sexually explicit conduct" has the meaning given the term in section 2256(2)(A) or 2256(2)(B); and
 
-&emsp;(3) the term “graphic”, when used with respect to a depiction of sexually explicit conduct, means that a viewer can observe any part of the genitals or pubic area of any depicted person or animal during any part of the time that the sexually explicit conduct is being depicted.
+&emsp;(3) the term "graphic", when used with respect to a depiction of sexually explicit conduct, means that a viewer can observe any part of the genitals or pubic area of any depicted person or animal during any part of the time that the sexually explicit conduct is being depicted.
 
 (Added Pub. L. 108–21, title V, §504(a), Apr. 30, 2003, 117 Stat. 680.)
 
@@ -74,29 +74,29 @@ Definitions.—For purposes of this section—
 
 Pub. L. 108–21, title V, §504(c), Apr. 30, 2003, 117 Stat. 682, provided that:
 
-“(1)
+"(1)
 
 Category.—Except as provided in paragraph (2), the applicable category of offense to be used in determining the sentencing range referred to in section 3553(a)(4) of title 18, United States Code, with respect to any person convicted under section 1466A of such title, shall be the category of offenses described in section 2G2.2 of the Sentencing Guidelines.
 
-“(2)
+"(2)
 
-Ranges.—The Sentencing Commission may promulgate guidelines specifically governing offenses under section 1466A of title 18, United States Code, if such guidelines do not result in sentencing ranges that are lower than those that would have applied under paragraph (1).”
+Ranges.—The Sentencing Commission may promulgate guidelines specifically governing offenses under section 1466A of title 18, United States Code, if such guidelines do not result in sentencing ranges that are lower than those that would have applied under paragraph (1)."
 
 #### Report to Congressional Committees
 
 Pub. L. 108–21, title V, §513(b), Apr. 30, 2003, 117 Stat. 685, provided that:
 
-“(1)
+"(1)
 
 In general.—Not later than 9 months after the date of enactment of this Act \[Apr. 30, 2003\], and every 2 years thereafter, the Attorney General shall report to the Chairpersons and Ranking Members of the Committees on the Judiciary of the Senate and the House of Representatives on the Federal enforcement actions under chapter 110 or section 1466A of title 18, United States Code.
 
-“(2)
+"(2)
 
 Contents.—The report required under paragraph (1) shall include—
 
-&emsp;“(A) an evaluation of the prosecutions brought under chapter 110 or section 1466A of title 18, United States Code;
+&emsp;"(A) an evaluation of the prosecutions brought under chapter 110 or section 1466A of title 18, United States Code;
 
-&emsp;“(B) an outcome-based measurement of performance; and
+&emsp;"(B) an outcome-based measurement of performance; and
 
-&emsp;“(C) an analysis of the technology being used by the child pornography industry.”
+&emsp;"(C) an analysis of the technology being used by the child pornography industry."
 

@@ -4,15 +4,15 @@
 
 Definitions.—In this section—
 
-&emsp;(1) “small business concern”—
+&emsp;(1) "small business concern"—
 
 &emsp;&emsp;(A) has the same meaning given that term in section 3 of the Small Business Act (15 U.S.C. 632); but
 
 &emsp;&emsp;(B) does not include a concern, or group of concerns controlled by the same socially and economically disadvantaged individual, that has average annual gross receipts over the prior 3 fiscal years of more than $16,015,000, as adjusted by the Secretary of Transportation for inflation;
 
-&emsp;(2) “socially and economically disadvantaged individual” has the same meaning given that term in section 8(d) of the Act (15 U.S.C. 637(d)) and relevant subcontracting regulations prescribed under section 8(d), except that women are presumed to be socially and economically disadvantaged; and
+&emsp;(2) "socially and economically disadvantaged individual" has the same meaning given that term in section 8(d) of the Act (15 U.S.C. 637(d)) and relevant subcontracting regulations prescribed under section 8(d), except that women are presumed to be socially and economically disadvantaged; and
 
-&emsp;(3) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(o) <sup>1</sup>).
+&emsp;(3) the term "qualified HUBZone small business concern" has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(o) <sup>1</sup>).
 
 (b)
 
@@ -78,11 +78,11 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §505(d); added Dec. 30, 1987, Pu
 
 49 App.:2204(d)(3).
 
-In subsection (a)(1)(B), the words “or individuals” are omitted because of 1:1.
+In subsection (a)(1)(B), the words "or individuals" are omitted because of 1:1.
 
 In subsection (a)(2), the reference is to section 8(c) of the Act because 15:637(d) was redesignated as 15:637(c) by section 3 of the Women's Business Development Act of 1991 (Public Law 102–191, 105 Stat. 1591).
 
-In subsection (b), the words “beginning after September 30, 1987” are omitted as obsolete.
+In subsection (b), the words "beginning after September 30, 1987" are omitted as obsolete.
 
 #### Pub. L. 103–429
 
@@ -96,11 +96,11 @@ The date of enactment of this subsection, referred to in subsec. (e)(1), is the 
 
 <b>2012</b>—Subsec. (e). Pub. L. 112–95 added subsec. (e).
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–135, §604(h)(2)(A), substituted semicolon for period at end of par. (1), substituted “; and” for period at end of par. (2), and added par. (3).
+<b>1997</b>—Subsec. (a). Pub. L. 105–135, §604(h)(2)(A), substituted semicolon for period at end of par. (1), substituted "; and" for period at end of par. (2), and added par. (3).
 
-Subsec. (b). Pub. L. 105–135, §604(h)(2)(B), inserted “or qualified HUBZone small business concerns” before period at end.
+Subsec. (b). Pub. L. 105–135, §604(h)(2)(B), inserted "or qualified HUBZone small business concerns" before period at end.
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–429 substituted “8(d)” for “8(c)” in two places and “637(d))” for “637(c))”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–429 substituted "8(d)" for "8(c)" in two places and "637(d))" for "637(c))".
 
 #### Effective Date of 1997 Amendment
 
@@ -112,15 +112,15 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Findings Regarding Disadvantaged Business Enterprise Programs
 
-Pub. L. 112–95, title I, §140(a), Feb. 14, 2012, 126 Stat. 27, provided that: “Congress finds the following:
+Pub. L. 112–95, title I, §140(a), Feb. 14, 2012, 126 Stat. 27, provided that: "Congress finds the following:
 
-&emsp;“(1) While significant progress has occurred due to the establishment of the airport disadvantaged business enterprise program (49 U.S.C. 47107(e) and 47113), discrimination and related barriers continue to pose significant obstacles for minority- and women-owned businesses seeking to do business in airport-related markets across the Nation. These continuing barriers merit the continuation of the airport disadvantaged business enterprise program.
+&emsp;"(1) While significant progress has occurred due to the establishment of the airport disadvantaged business enterprise program (49 U.S.C. 47107(e) and 47113), discrimination and related barriers continue to pose significant obstacles for minority- and women-owned businesses seeking to do business in airport-related markets across the Nation. These continuing barriers merit the continuation of the airport disadvantaged business enterprise program.
 
-&emsp;“(2) Congress has received and reviewed testimony and documentation of race and gender discrimination from numerous sources, including congressional hearings and roundtables, scientific reports, reports issued by public and private agencies, news stories, reports of discrimination by organizations and individuals, and discrimination lawsuits. This testimony and documentation shows that race- and gender-neutral efforts alone are insufficient to address the problem.
+&emsp;"(2) Congress has received and reviewed testimony and documentation of race and gender discrimination from numerous sources, including congressional hearings and roundtables, scientific reports, reports issued by public and private agencies, news stories, reports of discrimination by organizations and individuals, and discrimination lawsuits. This testimony and documentation shows that race- and gender-neutral efforts alone are insufficient to address the problem.
 
-&emsp;“(3) This testimony and documentation demonstrates that discrimination across the Nation poses a barrier to full and fair participation in airport-related businesses of women business owners and minority business owners in the racial groups detailed in parts 23 and 26 of title 49, Code of Federal Regulations, and has impacted firm development and many aspects of airport-related business in the public and private markets.
+&emsp;"(3) This testimony and documentation demonstrates that discrimination across the Nation poses a barrier to full and fair participation in airport-related businesses of women business owners and minority business owners in the racial groups detailed in parts 23 and 26 of title 49, Code of Federal Regulations, and has impacted firm development and many aspects of airport-related business in the public and private markets.
 
-&emsp;“(4) This testimony and documentation provides a strong basis that there is a compelling need for the continuation of the airport disadvantaged business enterprise program and the airport concessions disadvantaged business enterprise program to address race and gender discrimination in airport-related business.”
+&emsp;"(4) This testimony and documentation provides a strong basis that there is a compelling need for the continuation of the airport disadvantaged business enterprise program and the airport concessions disadvantaged business enterprise program to address race and gender discrimination in airport-related business."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “632(p)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "632(p)".</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
+In General.—Notwithstanding section 3663 or 3663A, and in addition to any other civil orcriminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
 
 (b)
 
@@ -18,7 +18,7 @@ Enforcement.—An order of restitution under this section shall be issued and en
 
 &emsp;(3)
 
-Definition.—For purposes of this subsection, the term “full amount of the victim's losses” includes any costs incurred by the victim for—
+Definition.—For purposes of this subsection, the term "full amount of the victim's losses" includes any costs incurred by the victim for—
 
 &emsp;&emsp;(A) medical services relating to physical, psychiatric, or psychological care;
 
@@ -28,7 +28,7 @@ Definition.—For purposes of this subsection, the term “full amount of the vi
 
 &emsp;&emsp;(D) lost income;
 
-&emsp;&emsp;(E) attorneys’ fees, plus any costs incurred in obtaining a civil protection order; and
+&emsp;&emsp;(E) attorneys' fees, plus any costs incurred in obtaining a civil protection order; and
 
 &emsp;&emsp;(F) any other losses suffered by the victim as a proximate result of the offense.
 
@@ -44,21 +44,21 @@ Order mandatory.—(A) The issuance of a restitution order under this section is
 
 (c)
 
-Definition.—For purposes of this section, the term “victim” means the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
+Definition.—For purposes of this section, the term "victim" means the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
 
 (Added Pub. L. 103–322, title IV, §40113(a)(1), Sept. 13, 1994, 108 Stat. 1904; amended Pub. L. 104–132, title II, §205(b), Apr. 24, 1996, 110 Stat. 1231.)
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–132, §205(b)(1), inserted “or 3663A” after “3663”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §205(b)(1), inserted "or 3663A" after "3663".
 
-Subsec. (b)(1). Pub. L. 104–132, §205(b)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
+Subsec. (b)(1). Pub. L. 104–132, §205(b)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The order of restitution under this section shall direct that—
 
-&emsp;“(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court, pursuant to paragraph (3); and
+&emsp;"(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court, pursuant to paragraph (3); and
 
-&emsp;“(B) the United States Attorney enforce the restitution order by all available and reasonable means.”
+&emsp;"(B) the United States Attorney enforce the restitution order by all available and reasonable means."
 
-Subsec. (b)(2). Pub. L. 104–132, §205(b)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
+Subsec. (b)(2). Pub. L. 104–132, §205(b)(2)(B), struck out "by victim" after "Enforcement" in heading and amended text generally. Prior to amendment, text read as follows: "An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action."
 
 Subsec. (b)(4)(C), (D). Pub. L. 104–132, §205(b)(2)(C), struck out subpars. (C) and (D), which related to court's consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court's entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
 
@@ -68,17 +68,17 @@ Subsec. (c). Pub. L. 104–132, §205(b)(3), (4), redesignated subsec. (f) as (c
 
 Subsecs. (d), (e). Pub. L. 104–132, §205(b)(3), struck out subsecs. (d) and (e) which read as follows:
 
-“(d)
+"(d)
 
 Modification of Order.—A victim or the offender may petition the court at any time to modify a restitution order as appropriate in view of a change in the economic circumstances of the offender.
 
-“(e)
+"(e)
 
-Reference to Magistrate or Special Master.—The court may refer any issue arising in connection with a proposed order of restitution to a magistrate or special master for proposed findings of fact and recommendations as to disposition, subject to a de novo determination of the issue by the court.”
+Reference to Magistrate or Special Master.—The court may refer any issue arising in connection with a proposed order of restitution to a magistrate or special master for proposed findings of fact and recommendations as to disposition, subject to a de novo determination of the issue by the court."
 
 Subsec. (f). Pub. L. 104–132, §205(b)(4), redesignated subsec. (f) as (c).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–132, title II, §211, Apr. 24, 1996, 110 Stat. 1241, provided that: “The amendments made by this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out under section 3551 of this title\] shall, to the extent constitutionally permissible, be effective for sentencing proceedings in cases in which the defendant is convicted on or after the date of enactment of this Act \[Apr. 24, 1996\].”
+Pub. L. 104–132, title II, §211, Apr. 24, 1996, 110 Stat. 1241, provided that: "The amendments made by this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out under section 3551 of this title\] shall, to the extent constitutionally permissible, be effective for sentencing proceedings in cases in which the defendant is convicted on or after the date of enactment of this Act \[Apr. 24, 1996\]."
 

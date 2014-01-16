@@ -82,7 +82,7 @@
 
 &emsp;In carrying out this subsection, to more efficiently and effectively deliver services to older individuals, each area agency on aging shall—
 
-&emsp;&emsp;(A) coordinate services described in subparagraphs (A) and (B) of paragraph (1) with such services or similar or related servicesof other community agencies, and voluntary organizations; and
+&emsp;&emsp;(A) coordinate services described in subparagraphs (A) and (B) of paragraph (1) with such services or similar or related services of other community agencies, and voluntary organizations; and
 
 &emsp;&emsp;(B) to the greatest extent practicable, integrate outreach and educational activities with such activities of existing (as of the date of the integration) social service and health care (including mental health) providers serving older individuals in the planning and service area involved.
 
@@ -92,7 +92,7 @@
 
 #### (6) Definition
 
-&emsp;In this subsection, the term “mental health screening and treatment services” means patient screening, diagnostic services, care planning and oversight, therapeutic interventions, and referrals, that are—
+&emsp;In this subsection, the term "mental health screening and treatment services" means patient screening, diagnostic services, care planning and oversight, therapeutic interventions, and referrals, that are—
 
 &emsp;&emsp;(A) provided pursuant to evidence-based intervention and treatment protocols (to the extent such protocols are available) for mental disorders prevalent in older individuals; and
 
@@ -106,11 +106,11 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–365, §408(1)–(6), substituted “Multidisciplinary centers and multidisciplinary systems” for “Multidisciplinary centers” in section catchline, redesignated subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (a), in subsec. (a) inserted heading, redesignated former pars. and subpars. as subpars. and cls., respectively, made conforming amendments to internal references, and realigned margins.
+<b>2006</b>—Pub. L. 109–365, §408(1)–(6), substituted "Multidisciplinary centers and multidisciplinary systems" for "Multidisciplinary centers" in section catchline, redesignated subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (a), in subsec. (a) inserted heading, redesignated former pars. and subpars. as subpars. and cls., respectively, made conforming amendments to internal references, and realigned margins.
 
-Subsec. (a)(1). Pub. L. 109–365, §408(7)(A), inserted “diverse populations of older individuals residing in urban communities,” after “minority populations,”.
+Subsec. (a)(1). Pub. L. 109–365, §408(7)(A), inserted "diverse populations of older individuals residing in urban communities," after "minority populations,".
 
-Subsec. (a)(2). Pub. L. 109–365, §408(7)(B), (C), in cl. (v) inserted “, including information about best practices in long-term care service delivery, housing, and transportation” before semicolon at end, in cl. (vi) substituted “information and other technical assistance” for “consultation and information”, and added cl. (viii).
+Subsec. (a)(2). Pub. L. 109–365, §408(7)(B), (C), in cl. (v) inserted ", including information about best practices in long-term care service delivery, housing, and transportation" before semicolon at end, in cl. (vi) substituted "information and other technical assistance" for "consultation and information", and added cl. (viii).
 
 Subsec. (b). Pub. L. 109–365, §408(8), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 

@@ -48,15 +48,15 @@ The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c)(1)(A). Pub. L. 107–273 inserted “(and may impose a term of probation or supervised release with or without conditions that does not exceed the unserved portion of the original term of imprisonment)” after “may reduce the term of imprisonment” in introductory provisions.
+<b>2002</b>—Subsec. (c)(1)(A). Pub. L. 107–273 inserted "(and may impose a term of probation or supervised release with or without conditions that does not exceed the unserved portion of the original term of imprisonment)" after "may reduce the term of imprisonment" in introductory provisions.
 
-<b>1996</b>—Subsec. (c)(1)(A)(i). Pub. L. 104–294 inserted “or” after semicolon at end.
+<b>1996</b>—Subsec. (c)(1)(A)(i). Pub. L. 104–294 inserted "or" after semicolon at end.
 
-<b>1994</b>—Subsec. (c)(1)(A). Pub. L. 103–322, inserted a dash after “if it finds that”, designated “extraordinary and compelling reasons warrant such a reduction” as cl. (i), inserted a semicolon at end of cl. (i), realigned margins accordingly, and added cl. (ii) before concluding provisions.
+<b>1994</b>—Subsec. (c)(1)(A). Pub. L. 103–322, inserted a dash after "if it finds that", designated "extraordinary and compelling reasons warrant such a reduction" as cl. (i), inserted a semicolon at end of cl. (i), realigned margins accordingly, and added cl. (ii) before concluding provisions.
 
-<b>1990</b>—Subsec. (b)(2). Pub. L. 101–647 inserted “of the Federal Rules of Criminal Procedure” after “rule 35”.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–647 inserted "of the Federal Rules of Criminal Procedure" after "rule 35".
 
-<b>1988</b>—Subsec. (c)(2). Pub. L. 100–690 substituted “994(o)” for “994(n)”.
+<b>1988</b>—Subsec. (c)(2). Pub. L. 100–690 substituted "994(o)" for "994(n)".
 
 #### Effective Date of 1996 Amendment
 

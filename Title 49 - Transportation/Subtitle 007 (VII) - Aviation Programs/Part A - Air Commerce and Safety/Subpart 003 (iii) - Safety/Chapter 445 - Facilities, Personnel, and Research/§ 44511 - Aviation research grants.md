@@ -68,11 +68,11 @@ Historical and Revision Notes
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §312(g); added Nov. 5, 1990, Pub. L. 101–508, §9205(a), 104 Stat. 1388–373.
 
-In this section, the words “institutions of higher education” and “institution of higher education” are substituted for “colleges, universities”, “university, college”, and “colleges and universities” for consistency in the revised title.
+In this section, the words "institutions of higher education" and "institution of higher education" are substituted for "colleges, universities", "university, college", and "colleges and universities" for consistency in the revised title.
 
-In subsection (c), the words “providing grants” are substituted for “the funding”, the word “grants” is substituted for “grant funds”, and the words “grant consideration” are substituted for “funding consideration”, for consistency in the revised title.
+In subsection (c), the words "providing grants" are substituted for "the funding", the word "grants" is substituted for "grant funds", and the words "grant consideration" are substituted for "funding consideration", for consistency in the revised title.
 
-In subsection (d), the words “money provided under the grant” are substituted for “grant funds” for consistency.
+In subsection (d), the words "money provided under the grant" are substituted for "grant funds" for consistency.
 
 #### References in Text
 
@@ -80,13 +80,13 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(2),
 
 #### Amendments
 
-<b>2012</b>—Subsec. (f)(1). Pub. L. 112–95, §906(1), substituted “maintain an” for “establish a 4-year pilot” in introductory provisions.
+<b>2012</b>—Subsec. (f)(1). Pub. L. 112–95, §906(1), substituted "maintain an" for "establish a 4-year pilot" in introductory provisions.
 
-Subsec. (f)(4). Pub. L. 112–95, §906(2), substituted “Not later than September 30, 2012,” for “Not later than 6 months after the expiration of the program under this subsection,” and “program” for “program, including recommendations as to the need for establishing a permanent airport cooperative research program”.
+Subsec. (f)(4). Pub. L. 112–95, §906(2), substituted "Not later than September 30, 2012," for "Not later than 6 months after the expiration of the program under this subsection," and "program" for "program, including recommendations as to the need for establishing a permanent airport cooperative research program".
 
 <b>2003</b>—Subsec. (f). Pub. L. 108–176 added subsec. (f).
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–287 substituted “Committee on Science” for “Committee on Science, Space, and Technology”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–287 substituted "Committee on Science" for "Committee on Science, Space, and Technology".
 
 #### Change of Name
 

@@ -10,7 +10,7 @@ In General.—The Secretary of Defense, upon the request of the Attorney General
 
 (b)
 
-Emergency Situations Covered.—In this section, the term “emergency situation involving a weapon of mass destruction” means a circumstance involving a weapon of mass destruction—
+Emergency Situations Covered.—In this section, the term "emergency situation involving a weapon of mass destruction" means a circumstance involving a weapon of mass destruction—
 
 &emsp;(1) that poses a serious threat to the interests of the United States; and
 
@@ -62,17 +62,17 @@ Relationship to Other Authority.—Nothing in this section shall be construed to
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, §1075(b)(10)(B), struck out “chemical or biological” before “weapons” in section catchline.
+<b>2011</b>—Pub. L. 111–383, §1075(b)(10)(B), struck out "chemical or biological" before "weapons" in section catchline.
 
-Subsec. (a). Pub. L. 112–81 struck out “biological or chemical” before “weapon of mass destruction” in introductory provisions.
+Subsec. (a). Pub. L. 112–81 struck out "biological or chemical" before "weapon of mass destruction" in introductory provisions.
 
-Pub. L. 111–383, §1075(b)(10)(A), substituted “section 175, 229, or 2332a” for “section 175 or 2332c”.
+Pub. L. 111–383, §1075(b)(10)(A), substituted "section 175, 229, or 2332a" for "section 175 or 2332c".
 
-Subsec. (b). Pub. L. 112–81 struck out “biological or chemical” before “weapon of mass destruction” in two places in introductory provisions.
+Subsec. (b). Pub. L. 112–81 struck out "biological or chemical" before "weapon of mass destruction" in two places in introductory provisions.
 
-Subsecs. (b)(2)(C), (d)(2)(A)(ii). Pub. L. 111–383, §1075(b)(10)(A), substituted “section 175, 229, or 2332a” for “section 175 or 2332c”.
+Subsecs. (b)(2)(C), (d)(2)(A)(ii). Pub. L. 111–383, §1075(b)(10)(A), substituted "section 175, 229, or 2332a" for "section 175 or 2332c".
 
-<b>1997</b>—Subsec. (g). Pub. L. 105–85 substituted “September 23, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997”.
+<b>1997</b>—Subsec. (g). Pub. L. 105–85 substituted "September 23, 1996" for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997".
 
 #### Military Assistance to Civil Authorities To Respond to Act or Threat of Terrorism
 

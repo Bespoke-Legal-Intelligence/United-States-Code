@@ -92,7 +92,7 @@ Pub. L. 99–335, title VII, §701, June 6, 1986, 100 Stat. 631, as amended by P
 
 “(a)
 
-Temporary Alternative Funding.—Notwithstanding section 8434(c)(3) \[probably should be “section 8437(c)(3)”\] of title 5, United States Code (as added by section 101 of this Act), the expenses incurred in the administration of the Federal Retirement Thrift Investment Management System under subchapter VII of chapter 84 of such title (as so added) during fiscal years 1986 and 1987 may be paid from sums appropriated pursuant to subsection (b).
+Temporary Alternative Funding.—Notwithstanding section 8434(c)(3) \[probably should be “section8437(c)(3)”\] of title 5, United States Code (as added by section 101 of this Act), the expenses incurred in the administration of the Federal Retirement Thrift Investment Management System under subchapter VII of chapter 84 of such title (as so added) during fiscal years 1986 and 1987 may be paid from sums appropriated pursuant to subsection (b).
 
 “(b)
 

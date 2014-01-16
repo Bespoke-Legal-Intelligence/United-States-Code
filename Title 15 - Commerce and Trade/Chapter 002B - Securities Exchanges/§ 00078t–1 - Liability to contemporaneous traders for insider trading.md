@@ -2,7 +2,7 @@
 
 #### (a) Private rights of action based on contemporaneous trading
 
-Any person who violates any provision of this chapter or the rules or regulations thereunder by purchasing or selling a security while in possession of material, nonpublic information shall be liable in an action in any court of competent jurisdiction to any person who, contemporaneously with the purchase or sale of securities that is the subject of such violation, has purchased (where such violation is based on a sale of securities) or sold (where such violation is based on a purchase of securities) securities of the same class.
+Any person who violates any provision of this chapter or the rules or regulations thereunderby purchasing or selling a security while in possession of material, nonpublic information shall be liable in an action in any court of competent jurisdiction to any person who, contemporaneously with the purchase or sale of securities that is the subject of such violation, has purchased (where such violation is based on a sale of securities) or sold (where such violation is based on a purchase of securities) securities of the same class.
 
 #### (b) Limitations on liability
 
@@ -38,7 +38,7 @@ This section shall not be construed to bar or limit in any manner any action by 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (c), (d), and (e), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a), (c), (d), and (e), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State plan under this subchapter shall provide, under section 1396a(a)(10)(E)(iv) of this title and subject to the succeeding provisions of this section and through a plan amendment, for medical assistance for payment of the cost of medicare cost-sharing described in such section on behalf of all individuals described in such section (in this section referred to as “qualifying individuals”) who are selected to receive such assistance under subsection (b) of this section.
+A State plan under this subchapter shall provide, under section 1396a(a)(10)(E)(iv) of this title and subject to the succeeding provisions of this section and through a plan amendment, for medical assistance for payment of the cost of medicare cost-sharing described in such section on behalf of all individuals described in such section (in this section referred to as "qualifying individuals") who are selected to receive such assistance under subsection (b) of this section.
 
 #### (b) Selection of qualifying individuals
 
@@ -20,7 +20,7 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 #### (B) Carryover
 
-&emsp;&emsp;For calendar years after 1998, the State shall give preference to individuals who wereprovided such assistance (or other assistance described in section 1396a(a)(10)(E) of this title) in the last month of the previous year and who continue to be (or become) qualifying individuals.
+&emsp;&emsp;For calendar years after 1998, the State shall give preference to individuals who were provided such assistance (or other assistance described in section 1396a(a)(10)(E) of this title) in the last month of the previous year and who continue to be (or become) qualifying individuals.
 
 #### (3) Limit on number of individuals based on allocation
 
@@ -120,9 +120,11 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 &emsp;&emsp;(R) for the period that begins on October 1, 2012, and ends on December 31, 2012, the total allocation amount is $280,000,000;
 
-&emsp;&emsp;(S) for the period that begins on January 1, 2013, and ends on September 30, 2013, the total allocation amount is $485,000,000; and
+&emsp;&emsp;(S) for the period that begins on January 1, 2013, and ends on September 30, 2013, the total allocation amount is $485,000,000;
 
-&emsp;&emsp;(T) for the period that begins on October 1, 2013, and ends on December 31, 2013, the total allocation amount is $300,000,000.
+&emsp;&emsp;(T) for the period that begins on October 1, 2013, and ends on December 31, 2013, the total allocation amount is $300,000,000; and
+
+&emsp;&emsp;(U) for the period that begins on January 1, 2014, and ends on March 31, 2014, the total allocation amount is $200,000,000.
 
 #### (3) Rules for periods that begin after January 1
 
@@ -134,7 +136,7 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 &emsp;&emsp;(C) The ratio to be applied under subsection (c)(2) of this section for the specific period shall be the same as the ratio applied under such subsection for the immediately preceding period.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(b), Oct. 20, 2005, 119 Stat. 2091; Pub. L. 110–90, §3(b), Sept. 29, 2007, 121 Stat. 984; Pub. L. 110–173, title II, §203(b), Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title I, §111(b), July 15, 2008, 122 Stat. 2503; Pub. L. 110–379, §2, Oct. 8, 2008, 122 Stat. 4075; Pub. L. 111–5, div. B, title V, §5005(b), Feb. 17, 2009, 123 Stat. 505; Pub. L. 111–127, §3, Jan. 27, 2010, 124 Stat. 4; Pub. L. 111–309, title I, §110(b), Dec. 15, 2010, 124 Stat. 3288; Pub. L. 112–78, title III, §310(b), Dec. 23, 2011, 125 Stat. 1286; Pub. L. 112–96, title III, §3101(b), Feb. 22, 2012, 126 Stat. 191; Pub. L. 112–240, title VI, §621(b), Jan. 2, 2013, 126 Stat. 2352.)
+(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(b), Oct. 20, 2005, 119 Stat. 2091; Pub. L. 110–90, §3(b), Sept. 29, 2007, 121 Stat. 984; Pub. L. 110–173, title II, §203(b), Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title I, §111(b), July 15, 2008, 122 Stat. 2503; Pub. L. 110–379, §2, Oct. 8, 2008, 122 Stat. 4075; Pub. L. 111–5, div. B, title V, §5005(b), Feb. 17, 2009, 123 Stat. 505; Pub. L. 111–127, §3, Jan. 27, 2010, 124 Stat. 4; Pub. L. 111–309, title I, §110(b), Dec. 15, 2010, 124 Stat. 3288; Pub. L. 112–78, title III, §310(b), Dec. 23, 2011, 125 Stat. 1286; Pub. L. 112–96, title III, §3101(b), Feb. 22, 2012, 126 Stat. 191; Pub. L. 112–240, title VI, §621(b), Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1201(b), Dec. 26, 2013, 127 Stat. 1198.)
 
 #### Prior Provisions
 
@@ -144,69 +146,71 @@ A prior section 1933 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 <b>2013</b>—Subsec. (g)(2)(S), (T). Pub. L. 112–240, §621(b)(1), added subpars. (S) and (T).
 
-Subsec. (g)(3). Pub. L. 112–240, §621(b)(2), substituted “(R), or (T)” for “or (R)” in introductory provisions.
+Subsec. (g)(2)(U). Pub. L. 113–67 added subpar. (U).
 
-<b>2012</b>—Subsec. (g)(2)(Q), (R). Pub. L. 112–96, §3101(b)(1), substituted “September 30, 2012, the total allocation amount is $450,000,000; and” for “February 29, 2012, the total allocation amount is $150,000,000.” in subpar. (Q) and added subpar. (R).
+Subsec. (g)(3). Pub. L. 112–240, §621(b)(2), substituted "(R), or (T)" for "or (R)" in introductory provisions.
 
-Subsec. (g)(3). Pub. L. 112–96, §3101(b)(2), substituted “(P), or (R)” for “or (P)” in introductory provisions.
+<b>2012</b>—Subsec. (g)(2)(Q), (R). Pub. L. 112–96, §3101(b)(1), substituted "September 30, 2012, the total allocation amount is $450,000,000; and" for "February 29, 2012, the total allocation amount is $150,000,000." in subpar. (Q) and added subpar. (R).
+
+Subsec. (g)(3). Pub. L. 112–96, §3101(b)(2), substituted "(P), or (R)" for "or (P)" in introductory provisions.
 
 <b>2011</b>—Subsec. (g)(2)(Q). Pub. L. 112–78 added subpar. (Q).
 
-<b>2010</b>—Subsec. (g)(2)(M). Pub. L. 111–127, §3(1), substituted “$462,500,000” for “$412,500,000”.
+<b>2010</b>—Subsec. (g)(2)(M). Pub. L. 111–127, §3(1), substituted "$462,500,000" for "$412,500,000".
 
-Subsec. (g)(2)(N). Pub. L. 111–127, §3(2), substituted “$165,000,000” for “$150,000,000”.
+Subsec. (g)(2)(N). Pub. L. 111–127, §3(2), substituted "$165,000,000" for "$150,000,000".
 
 Subsec. (g)(2)(O), (P). Pub. L. 111–309, §110(b)(1), added subpars. (O) and (P).
 
-Subsec. (g)(3). Pub. L. 111–309, §110(b)(2), substituted “(N), or (P)” for “or (N)” in introductory provisions.
+Subsec. (g)(3). Pub. L. 111–309, §110(b)(2), substituted "(N), or (P)" for "or (N)" in introductory provisions.
 
 <b>2009</b>—Subsec. (g)(2)(M), (N). Pub. L. 111–5, §5005(b)(1), added subpars. (M) and (N).
 
-Subsec. (g)(3). Pub. L. 111–5, §5005(b)(2), substituted “(L), or (N)” for “or (L)” in introductory provisions.
+Subsec. (g)(3). Pub. L. 111–5, §5005(b)(2), substituted "(L), or (N)" for "or (L)" in introductory provisions.
 
-<b>2008</b>—Subsec. (g)(2)(I). Pub. L. 110–379, §2(1), substituted “$315,000,000” for “$300,000,000”.
+<b>2008</b>—Subsec. (g)(2)(I). Pub. L. 110–379, §2(1), substituted "$315,000,000" for "$300,000,000".
 
-Pub. L. 110–275, §111(b)(1)(B)(i), (ii), substituted “September 30” for “June 30” and “$300,000,000” for “$200,000,000”.
+Pub. L. 110–275, §111(b)(1)(B)(i), (ii), substituted "September 30" for "June 30" and "$300,000,000" for "$200,000,000".
 
-Subsec. (g)(2)(J). Pub. L. 110–379, §2(2), substituted “$130,000,000” for “$100,000,000”.
+Subsec. (g)(2)(J). Pub. L. 110–379, §2(2), substituted "$130,000,000" for "$100,000,000".
 
 Pub. L. 110–275, §111(b)(1)(A), (B)(iii), (C), added subpar. (J).
 
 Subsec. (g)(2)(K), (L). Pub. L. 110–275, §111(b)(1)(C), added subpars. (K) and (L).
 
-Subsec. (g)(3). Pub. L. 110–275, §111(b)(2), substituted “(H), (J), or (L)” for “or (H)” in introductory provisions.
+Subsec. (g)(3). Pub. L. 110–275, §111(b)(2), substituted "(H), (J), or (L)" for "or (H)" in introductory provisions.
 
 <b>2007</b>—Subsec. (g)(2)(H). Pub. L. 110–90, §3(b)(1), added subpar. (H).
 
 Subsec. (g)(2)(I). Pub. L. 110–173 added subpar. (I).
 
-Subsec. (g)(3). Pub. L. 110–90, §3(b)(2), substituted “(F), or (H)” for “or (F)” in introductory provisions.
+Subsec. (g)(3). Pub. L. 110–90, §3(b)(2), substituted "(F), or (H)" for "or (F)" in introductory provisions.
 
 <b>2005</b>—Subsec. (g)(2)(D) to (G). Pub. L. 109–91, §101(b)(1), added subpars. (D) to (G).
 
-Subsec. (g)(3). Pub. L. 109–91, §101(b)(2), inserted “, (D), or (F)” after “subparagraph (B)” in introductory provisions.
+Subsec. (g)(3). Pub. L. 109–91, §101(b)(2), inserted ", (D), or (F)" after "subparagraph (B)" in introductory provisions.
 
-<b>2004</b>—Subsec. (g). Pub. L. 108–448 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “With respect to the period that begins on January 1, 2004, and ends on September 30, 2004, a State shall select qualifying individuals, and provide such individuals with assistance, in accordance with the provisions of this section as in effect with respect to calendar year 2003, except that for such purpose—
+<b>2004</b>—Subsec. (g). Pub. L. 108–448 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: "With respect to the period that begins on January 1, 2004, and ends on September 30, 2004, a State shall select qualifying individuals, and provide such individuals with assistance, in accordance with the provisions of this section as in effect with respect to calendar year 2003, except that for such purpose—
 
-&emsp;“(1) references in the preceding subsections of this section to ‘fiscal year’ and ‘calendar year’ shall be deemed to be references to such period; and
+&emsp;"(1) references in the preceding subsections of this section to 'fiscal year' and 'calendar year' shall be deemed to be references to such period; and
 
-&emsp;“(2) the total allocation amount under subsection (c) of this section for such period shall be $300,000,000.”
+&emsp;"(2) the total allocation amount under subsection (c) of this section for such period shall be $300,000,000."
 
-<b>2003</b>—Subsec. (c)(1)(E). Pub. L. 108–89, §401(b)(1), substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002”.
+<b>2003</b>—Subsec. (c)(1)(E). Pub. L. 108–89, §401(b)(1), substituted "each of fiscal years 2002 and 2003" for "fiscal year 2002".
 
-Subsec. (c)(2)(A). Pub. L. 108–89, §401(b)(2), substituted “the total number of individuals described in section1396a(a)(10)(E)(iv) of this title in the State; to” for “the sum of—
+Subsec. (c)(2)(A). Pub. L. 108–89, §401(b)(2), substituted "the total number of individuals described in section 1396a(a)(10)(E)(iv) of this title in the State; to" for "the sum of—
 
-&emsp;“(i) twice the total number of individuals described in section 1396a(a)(10)(E)(iv)(I) of this title in the State, and
+&emsp;"(i) twice the total number of individuals described in section 1396a(a)(10)(E)(iv)(I) of this title in the State, and
 
-&emsp;“(ii) the total number of individuals described in section 1396a(a)(10)(E)(iv)(II) of this title in the State; to”.
+&emsp;"(ii) the total number of individuals described in section 1396a(a)(10)(E)(iv)(II) of this title in the State; to".
 
-Subsec. (g). Pub. L. 108–173, §103(f)(2)(A), substituted “September 30, 2004” for “March 31, 2004” in introductory provisions.
+Subsec. (g). Pub. L. 108–173, §103(f)(2)(A), substituted "September 30, 2004" for "March 31, 2004" in introductory provisions.
 
 Pub. L. 108–89, §401(c), added subsec. (g).
 
-Subsec. (g)(2). Pub. L. 108–173, §103(f)(2)(B), substituted “$300,000,000” for “$100,000,000”.
+Subsec. (g)(2). Pub. L. 108–173, §103(f)(2)(B), substituted "$300,000,000" for "$100,000,000".
 
-<b>1999</b>—Subsec. (b)(4). Pub. L. 106–113 inserted “a” after “for a month in”.
+<b>1999</b>—Subsec. (b)(4). Pub. L. 106–113 inserted "a" after "for a month in".
 
 #### Effective Date of 2007 Amendment
 

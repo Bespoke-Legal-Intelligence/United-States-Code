@@ -1,6 +1,6 @@
 ### §2906. Annual report
 
-The Secretary shall prepare and submit to the President and the authorizing committees of the Congress, not later than March 31 of each year, a report on the activities conducted pursuant to this chapter during the preceding fiscal year, including—
+The Secretary shall prepare and submit to the President and the authorizing committees of the Congress, not later than March 31 of each year,a report on the activities conducted pursuant to this chapter during the preceding fiscal year, including—
 
 &emsp;(a) a summary of the achievements of the Program during the previous fiscal year;
 
@@ -16,5 +16,5 @@ The Secretary shall prepare and submit to the President and the authorizing comm
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–375 substituted “March 31” for “January 30”.
+<b>1982</b>—Pub. L. 97–375 substituted "March 31" for "January 30".
 

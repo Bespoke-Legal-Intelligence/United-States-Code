@@ -42,7 +42,7 @@ Section 926 \[enacted as section 927\] generally conforms to section 98(a) \[sec
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–353 substituted “confirmation of a plan under this chapter” for “confirmation”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353 substituted "confirmation of a plan under this chapter" for "confirmation".
 
 #### Effective Date of 1984 Amendment
 

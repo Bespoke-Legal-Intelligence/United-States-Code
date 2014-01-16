@@ -4,7 +4,7 @@
 
 #### (1) Planning and establishment grants
 
-&emsp;There shall be appropriated to the Secretary, out of any moneys in the Treasury not otherwise appropriated, an amount necessary to enable the Secretary to make awards, notlater than 1 year after March 23, 2010, to States in the amount specified in paragraph (2) for the uses described in paragraph (3).
+&emsp;There shall be appropriated to the Secretary, out of any moneys in the Treasury not otherwise appropriated, an amount necessary to enable the Secretary to make awards, not later than 1 year after March 23, 2010, to States in the amount specified in paragraph (2) for the uses described in paragraph (3).
 
 #### (2) Amount specified
 
@@ -40,11 +40,11 @@
 
 #### (1) In general
 
-&emsp;Each State shall, not later than January 1, 2014, establish an American Health Benefit Exchange (referred to in this title <sup>1</sup> as an “Exchange”) for the State that—
+&emsp;Each State shall, not later than January 1, 2014, establish an American Health Benefit Exchange (referred to in this title <sup>1</sup> as an "Exchange") for the State that—
 
 &emsp;&emsp;(A) facilitates the purchase of qualified health plans;
 
-&emsp;&emsp;(B) provides for the establishment of a Small Business Health Options Program (in this title <sup>1</sup> referred to as a “SHOP Exchange”) that is designed to assist qualified employers in the State who are small employers in facilitating the enrollment of their employees in qualified health plans offered in the small group market in the State; and
+&emsp;&emsp;(B) provides for the establishment of a Small Business Health Options Program (in this title <sup>1</sup> referred to as a "SHOP Exchange") that is designed to assist qualified employers in the State who are small employers in facilitating the enrollment of their employees in qualified health plans offered in the small group market in the State; and
 
 &emsp;&emsp;(C) meets the requirements of subsection (d).
 
@@ -222,7 +222,7 @@
 
 #### (7) Publication of costs
 
-&emsp;An Exchange shall publish the average costs of licensing, regulatory fees, and any otherpayments required by the Exchange, and the administrative costs of such Exchange, on an Internet website to educate consumers on such costs. Such information shall also include monies lost to waste, fraud, and abuse.
+&emsp;An Exchange shall publish the average costs of licensing, regulatory fees, and any other payments required by the Exchange, and the administrative costs of such Exchange, on an Internet website to educate consumers on such costs. Such information shall also include monies lost to waste, fraud, and abuse.
 
 #### (e) Certification
 
@@ -238,7 +238,7 @@
 
 &emsp;&emsp;&emsp;(ii) through the imposition of premium price controls; or
 
-&emsp;&emsp;&emsp;(iii) on the basis that the plan provides treatments necessary to prevent patients’ deaths in circumstances the Exchange determines are inappropriate or too costly.
+&emsp;&emsp;&emsp;(iii) on the basis that the plan provides treatments necessary to prevent patients' deaths in circumstances the Exchange determines are inappropriate or too costly.
 
 #### (2) Premium considerations
 
@@ -270,7 +270,7 @@
 
 #### (B) Use of plain language
 
-&emsp;&emsp;The information required to be submitted under subparagraph (A) shall be provided in plain language. The term “plain language” means language that the intended audience, including individuals with limited English proficiency, can readily understand and use because that language is concise, well-organized, and follows other best practices of plain language writing. The Secretary and the Secretary of Labor shall jointly develop and issue guidance on best practices of plain language writing.
+&emsp;&emsp;The information required to be submitted under subparagraph (A) shall be provided in plain language. The term "plain language" means language that the intended audience, including individuals with limited English proficiency, can readily understand and use because that language is concise, well-organized, and follows other best practices of plain language writing. The Secretary and the Secretary of Labor shall jointly develop and issue guidance on best practices of plain language writing.
 
 #### (C) Cost sharing transparency
 
@@ -306,7 +306,7 @@
 
 #### (B) Eligible entity
 
-&emsp;&emsp;In this paragraph, the term “eligible entity” means—
+&emsp;&emsp;In this paragraph, the term "eligible entity" means—
 
 &emsp;&emsp;&emsp;(i) a person—
 
@@ -442,23 +442,23 @@ Section 2794 of the Public Health Service Act, referred to in subsec. (e)(2), pr
 
 The Public Health Service Act, referred to in subsec. (h)(1)(A)(i), is act July 1, 1944, ch. 373, 58 Stat. 682. Part C of title IX of the Act is classified generally to part C (§299b–21 et seq.) of subchapter VII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-This subchapter, referred to in subsec. (k), was in the original “this subtitle”, meaning subtitle D of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 162, which enacted this subchapter and amended sections 501, 4958, and 6033 of Title 26, Internal Revenue Code.
+This subchapter, referred to in subsec. (k), was in the original "this subtitle", meaning subtitle D of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 162, which enacted this subchapter and amended sections 501, 4958, and 6033 of Title 26, Internal Revenue Code.
 
 #### Amendments
 
 <b>2010</b>—Subsec. (c)(1)(I). Pub. L. 111–148, §10203(a), added subpar. (I).
 
-Subsec. (d)(3)(B)(ii). Pub. L. 111–148, §10104(e)(1), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “A State shall make payments to or on behalf of an individual eligible for the premium tax credit under section 36B of title 26 and any cost-sharing reduction under section 18071 of this title to defray the cost to the individual of any additional benefits described in clause (i) which are not eligible for such credit or reduction under section 36B(b)(3)(D) of title 26 and section 18071(c)(4) of this title.”
+Subsec. (d)(3)(B)(ii). Pub. L. 111–148, §10104(e)(1), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: "A State shall make payments to or on behalf of an individual eligible for the premium tax credit under section 36B of title 26 and any cost-sharing reduction under section 18071 of thistitle to defray the cost to the individual of any additional benefits described in clause (i) which are not eligible for such credit or reduction under section 36B(b)(3)(D) of title 26 and section 18071(c)(4) of this title."
 
-Subsec. (d)(6)(A). Pub. L. 111–148, §10104(e)(2), inserted “educated” before “health care”.
+Subsec. (d)(6)(A). Pub. L. 111–148, §10104(e)(2), inserted "educated" before "health care".
 
-Subsec. (e)(2). Pub. L. 111–148, §10104(f)(1), which directed substitution of “shall” for “may” in second sentence, was executed by making the substitution inthird sentence before “take” to reflect the probable intent of Congress because the word “shall” already appeared in second sentence.
+Subsec. (e)(2). Pub. L. 111–148, §10104(f)(1), which directed substitution of "shall" for "may" in second sentence, was executed by making the substitution in third sentence before "take" to reflect the probable intent of Congress because the word "shall" already appeared in second sentence.
 
 Subsec. (e)(3). Pub. L. 111–148, §10104(f)(2), added par. (3).
 
 Subsec. (g)(1)(E). Pub. L. 111–148, §10104(g), added subpar. (E).
 
-Subsec. (i)(2)(B). Pub. L. 111–148, §10104(h), substituted “resource partners of the Small Business Administration” for “small business development centers”.
+Subsec. (i)(2)(B). Pub. L. 111–148, §10104(h), substituted "resource partners of the Small Business Administration" for "small business development centers".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

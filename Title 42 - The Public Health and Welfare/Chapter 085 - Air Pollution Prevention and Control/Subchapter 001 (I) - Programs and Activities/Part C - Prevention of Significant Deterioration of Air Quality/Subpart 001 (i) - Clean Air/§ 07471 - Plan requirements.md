@@ -6,5 +6,5 @@ In accordance with the policy of section 7401(b)(1) of this title, each applicab
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–549 substituted “designated pursuant to section 7407 of this title as attainment or unclassifiable” for “identified pursuant to section 7407(d)(1)(D) or (E) of this title”.
+<b>1990</b>—Pub. L. 101–549 substituted "designated pursuant to section 7407 of this title as attainment or unclassifiable" for "identified pursuant to section 7407(d)(1)(D) or (E) of this title".
 

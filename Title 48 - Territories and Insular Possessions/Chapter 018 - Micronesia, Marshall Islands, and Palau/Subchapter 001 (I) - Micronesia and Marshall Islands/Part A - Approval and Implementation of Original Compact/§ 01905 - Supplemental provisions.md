@@ -6,7 +6,7 @@ Except as may otherwise be provided in this joint resolution, all United States 
 
 #### (b) Relations with Federated States of Micronesia and Marshall Islands
 
-(1) The United States representatives to the Federated States of Micronesia and the Republic of the Marshall Islands pursuant to Article V of title I of the Compact shall be appointed by the President with the advice and consent of the Senate, and shall be under the supervision of the Secretary of State, who shall have responsibility for government to government relations between the United States and the Government with respect to whom they are appointed, consistent with the authority of the Secretary of the Interior as set forth in this section.
+(1) The United States representatives to the Federated States of Micronesia and the Republicof the Marshall Islands pursuant to Article V of title I of the Compact shall be appointed by the President with the advice and consent of the Senate, and shall be under the supervision of the Secretary of State, who shall have responsibility for government to government relations between the United States and the Government with respect to whom they are appointed, consistent with the authority of the Secretary of the Interior as set forth in this section.
 
 (2) Except for programs or services provided by or through other federal agencies or officials to the Federated States of Micronesia or the Republic of the Marshall Islands, or for which residents thereof are eligible pursuant to the Compact or any other provision of this joint resolution, appropriations made pursuant to the Compact or any other provision of this joint resolution may be made only to the Secretary of the Interior. The Secretary of the Interior shall coordinate and monitor any programs or activities, including such activities for which funding is made directly to such other agencies, provided to the Federated States of Micronesia or the Republic of the Marshall Islands by agencies of the Government of the United States and related economic development planning pursuant to the Compact or pursuant to any other authorization except for the provisions of sections 161(e), 313, and 351 of the Compact and the authorization of the President to agree to an effective date pursuant to this resolution. Funds appropriated to the Secretary of the Interior pursuant to this paragraph shall not be allocated to other Departments or agencies, except that the Secretary of the Interior shall be able to reimburse Departments or agencies for purposes authorized by this joint resolution.
 
@@ -14,7 +14,7 @@ Except as may otherwise be provided in this joint resolution, all United States 
 
 (4) Any United States Government personnel assigned, on a temporary or permanent basis, to either the Federated States of Micronesia or the Marshall Islands shall, during the period of such assignment, be subject to the supervision of the United States representative to that area.
 
-(5) The President is hereby authorized to appoint an Interagency Group on Freely Associated States’ Affairs to provide policy guidance to federal departments and agencies. Such interagency group shall include the Secretary of the Interior and the Secretary of State.
+(5) The President is hereby authorized to appoint an Interagency Group on Freely Associated States' Affairs to provide policy guidance to federal departments and agencies. Such interagency group shall include the Secretary of the Interior and the Secretary of State.
 
 #### (c) Continuing Trust Territory authorization
 
@@ -142,7 +142,7 @@ Neither the Government of the Federated States of Micronesia nor the Government 
 
 #### (k) Use of DOD medical facilities
 
-Following approval of the Compact, the Secretary of Defense shall make available the medical facilities of the Department of Defense for use by citizens of the Federated States of Micronesia and the Marshall Islands who are properly referred to such facilities by government authorities responsible for provision of medical services in the Federated States of Micronesia and the Marshall Islands. The Secretary of Defense is hereby authorized to cooperate with such authorities in order to permit use of such medical facilities for persons properly referred by such authorities. The Secretary of Health and Human Services is hereby authorized and directed to continue to make the services of the National Health Service Corps available to the residents of the Federated States of Micronesia and the Marshall Islands to the same extent and for so long as such services are authorized to be provided to persons residing in any other areas within or outside the United States.
+Following approval of the Compact, the Secretary of Defense shall make available the medical facilities of the Department of Defense for use by citizens of the Federated States of Micronesia and the Marshall Islands who are properly referred to such facilities by government authorities responsible for provision of medical services in the Federated States of Micronesia and the Marshall Islands. The Secretary of Defense is hereby authorized to cooperate with such authorities in order to permit use of such medical facilities for persons properly referred by such authorities. The Secretary of Health and Human Services is hereby authorized and directed to continue to make the services of theNational Health Service Corps available to the residents of the Federated States of Micronesia and the Marshall Islands to the same extent and for so long as such services are authorized to be provided to persons residing in any other areas within or outside the United States.
 
 #### (l) Technical assistance
 
@@ -186,7 +186,7 @@ The Foreign Agents Registration Act of 1938, referred to in subsec. (f)(1), (2),
 
 The Federal Tort Claims Act, referred to in subsec. (h)(4)(B), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
-Public Law 95–134, referred to in subsec. (h)(4)(B), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended, popularly known as the Omnibus Territories Act of 1977. For complete classification of this Act to the Code, see Tables.
+Public Law 95–134, referred to in subsec. (h)(4)(B), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended,popularly known as the Omnibus Territories Act of 1977. For complete classification of this Act to the Code, see Tables.
 
 Public Law 96–205, referred to in subsec. (h)(4)(B), is Pub. L. 96–205, Mar. 12, 1980, 94 Stat. 84, as amended. For complete classification of this Act to the Code, see Tables.
 
@@ -210,9 +210,9 @@ Section was formerly set out as a note under section 1681 of this title.
 
 <b>1988</b>—Subsec. (h)(5). Pub. L. 100–369 added par. (5) relating to Federal education grants.
 
-<b>1986</b>—Subsec. (b)(2). Pub. L. 99–396 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Appropriations made pursuant to the Compact or any other provision of this joint resolution may be made only to the Secretary of the Interior, who shall coordinate and monitor any program or activity provided to the Federated States of Micronesia or the Republic of the Marshall Islands by departments and agencies of the Government of the United States and related economic development planning pursuant to the Compact or pursuant to any other authorization except for the provisions of sections 161(e), 313, and 351 of the Compact and the authorization of the President to agree to an effective date pursuant to this resolution. Funds appropriated to the Secretary of the Interior pursuant to this paragraph shall not be allocated to other Departments or agencies.”
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–396 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Appropriations made pursuant to the Compact or any other provision of this joint resolution may be made only to the Secretary of the Interior, who shall coordinate and monitor any program or activity provided to the Federated States of Micronesia or the Republic of the Marshall Islands by departments and agencies of the Government of the United States and related economic development planning pursuant to the Compact or pursuant to any other authorization except for the provisions of sections 161(e), 313, and 351 of the Compact and the authorization of the President to agree to an effective date pursuant to this resolution. Funds appropriated to the Secretary of the Interior pursuant to this paragraph shall not be allocated to other Departments or agencies."
 
-Subsec. (c)(2). Pub. L. 99–658 substituted “infrastructure, except that, for purposes of an orderly reduction of United States programs and services in the Federated States of Micronesia, the Marshall Islands, and Palau, United States programs or services not specifically authorized by the Compact of Free Association or by other provisions of law may continue but, unless reimbursed by the respective freely associated state, not in excess of the following amounts:” and subpars. (1) to (3) for “infrastructure.”
+Subsec. (c)(2). Pub. L. 99–658 substituted "infrastructure, except that, for purposes of an orderly reduction of United States programs and services in the Federated States of Micronesia, the Marshall Islands, and Palau, United States programs or services not specifically authorized by the Compact of Free Association or by other provisions of law may continue but, unless reimbursed by the respective freely associated state, not in excess of the following amounts:" and subpars. (1) to (3) for "infrastructure."
 
 #### Transfer of Functions
 
@@ -224,9 +224,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Federated States of Micronesia and Marshall Islands; Programs and Services Provided on Nonreimbursable Basis
 
-Pub. L. 99–396, §20(b), Aug. 27, 1986, 100 Stat. 844, provided that: “The programs and services specified in section 105(h)(1), sections \[sic\] 105(i)(1) and (2), section 111(a) \[48 U.S.C. 1905(h)(1), (i)(1), (2), 1911(a)\], the services of the National Health Service Corps pursuant to section 105(k), and the Technical Assistance and National Historic Preservation Act \[16 U.S.C. 470 et seq.\] grants pursuant to section 105(l), of Public Law 99–239 shall be provided on a nonreimbursable basis.”
+Pub. L. 99–396, §20(b), Aug. 27, 1986, 100 Stat. 844, provided that: "The programs and services specified in section 105(h)(1), sections \[sic\] 105(i)(1) and (2), section 111(a) \[48 U.S.C. 1905(h)(1), (i)(1), (2), 1911(a)\], the services of the National Health Service Corps pursuant to section 105(k), and the Technical Assistance and National Historic Preservation Act \[16 U.S.C. 470 et seq.\] grants pursuant to section 105(l), of Public Law 99–239 shall be provided on a nonreimbursable basis."
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “(6)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "(6)".</i>
 

@@ -20,5 +20,5 @@ The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (a
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–31 substituted “Except as provided in the Family Smoking Prevention and Tobacco Control Act (and the amendments made by that Act), no” for “No”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–31 substituted "Except as provided in the Family Smoking Prevention and Tobacco Control Act (and the amendments made by that Act), no" for "No".
 

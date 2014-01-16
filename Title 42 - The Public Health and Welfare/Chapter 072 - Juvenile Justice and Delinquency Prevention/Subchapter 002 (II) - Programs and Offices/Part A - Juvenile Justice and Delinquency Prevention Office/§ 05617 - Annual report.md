@@ -34,11 +34,11 @@ Another prior section 5617, Pub. L. 93–415, title II, §207, Sept. 7, 1974, 88
 
 <b>2002</b>—Pars. (4), (5). Pub. L. 107–273 added par. (4) and struck out former pars. (4) and (5) which read as follows:
 
-“(4) A summary of each program or activity for which assistance is provided under part C or D of this subchapter, an evaluation of the results of such program or activity, and a determination of the feasibility and advisability of replicating such program or activity in other locations.
+"(4) A summary of each program or activity for which assistance is provided under part C or D of this subchapter, an evaluation of the results of such program or activity, and a determination of the feasibility and advisability of replicating such program or activity in other locations.
 
-“(5) A description of selected exemplary delinquency prevention programs for which assistance is provided under this subchapter, with particular attention to community-based juvenile delinquency prevention programs that involve and assist families of juveniles.”
+"(5) A description of selected exemplary delinquency prevention programs for which assistance is provided under this subchapter, with particular attention to community-based juvenile delinquency prevention programs that involve and assist families of juveniles."
 
-<b>1992</b>—Par. (1)(D). Pub. L. 102–586, §2(e)(1)(A), inserted “(including juveniles treated as adults for purposes of prosecution)”.
+<b>1992</b>—Par. (1)(D). Pub. L. 102–586, §2(e)(1)(A), inserted "(including juveniles treated as adults for purposes of prosecution)".
 
 Par. (1)(F). Pub. L. 102–586, §2(e)(1)(B), (2), (3), added subpar. (F).
 
@@ -52,7 +52,7 @@ Section effective Oct. 1, 1988, with the report required by this section with re
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in this section relating to submittal to the Speaker of the House of Representatives and the President pro tempore of the Senate of an annual report, see section 3003 of Pub. L. 104–66, as amended, set out as a noteunder section 1113 of Title 31, Money and Finance, and item 10 on page 177 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in this section relating to submittal to the Speaker of the House of Representatives and the President pro tempore of the Senate of an annual report, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 10 on page 177 of House Document No. 103–7.
 
 #### Use of Court Orders To Place Juveniles in Secure Facilities, Jails and Lockups for Adults; Investigation and Report
 

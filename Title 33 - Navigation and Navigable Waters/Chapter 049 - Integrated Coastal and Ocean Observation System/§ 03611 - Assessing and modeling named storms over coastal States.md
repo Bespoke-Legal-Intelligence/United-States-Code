@@ -6,19 +6,19 @@ In this section:
 
 #### (1) COASTAL Formula
 
-&emsp;The term “COASTAL Formula” has the meaning given the term in section 4057(a) of title 42.
+&emsp;The term "COASTAL Formula" has the meaning given the term in section 4057(a) of title 42.
 
 #### (2) Coastal State
 
-&emsp;The term “coastal State” has the meaning given the term “coastal state” in section 1453 of title 16.
+&emsp;The term "coastal State" has the meaning given the term "coastal state" in section 1453 of title 16.
 
 #### (3) Coastal waters
 
-&emsp;The term “coastal waters” has the meaning given the term in such section.
+&emsp;The term "coastal waters" has the meaning given the term in such section.
 
 #### (4) Covered data
 
-&emsp;The term “covered data” means, with respect to a named storm identified by the Administrator under subsection (b)(2)(A), empirical data that are—
+&emsp;The term "covered data" means, with respect to a named storm identified by the Administrator under subsection (b)(2)(A), empirical data that are—
 
 &emsp;&emsp;(A) collected before, during, or after such storm; and
 
@@ -26,27 +26,27 @@ In this section:
 
 #### (5) Indeterminate loss
 
-&emsp;The term “indeterminate loss” has the meaning given the term in section 4057(a) of title 42.
+&emsp;The term "indeterminate loss" has the meaning given the term in section 4057(a) of title 42.
 
 #### (6) Named storm
 
-&emsp;The term “named storm” means any organized weather system with a defined surface circulation and maximum winds of at least 39 miles per hour which the National Hurricane Center of the United States National Weather Service names as a tropical storm or a hurricane.
+&emsp;The term "named storm" means any organized weather system with a defined surface circulation and maximum winds of at least 39 miles per hour which the National Hurricane Center of the United States National Weather Service names as a tropical storm or a hurricane.
 
 #### (7) Named Storm Event Model
 
-&emsp;The term “Named Storm Event Model” means the official meteorological and oceanographic computerized model, developed by the Administrator under subsection (b)(1)(A), which utilizes covered data to replicate the magnitude, timing, and spatial variations of winds, rainfall, and storm surges associated with named storms that threaten any portion of a coastal State.
+&emsp;The term "Named Storm Event Model" means the official meteorological and oceanographic computerized model, developed by the Administrator under subsection (b)(1)(A), which utilizes covered data to replicate the magnitude, timing, and spatial variations of winds, rainfall, and storm surges associated with named storms that threaten any portion of a coastal State.
 
 #### (8) Participant
 
-&emsp;The term “participant” means a Federal, State, or private entity that chooses to cooperate with the Administrator in carrying out the provisions of this section by collecting, contributing, and maintaining covered data.
+&emsp;The term "participant" means a Federal, State, or private entity that chooses to cooperate with the Administrator in carrying out the provisions of this section by collecting, contributing, and maintaining covered data.
 
 #### (9) Post-storm assessment
 
-&emsp;The term “post-storm assessment” means a scientific assessment produced and certified by the Administrator to determine the magnitude, timing, and spatial variations of winds, rainfall, and storm surges associatedwith a specific named storm to be used in the COASTAL Formula.
+&emsp;The term "post-storm assessment" means a scientific assessment produced and certified by the Administrator to determine the magnitude, timing, and spatial variations of winds, rainfall, and storm surges associated with a specific named storm to be used in the COASTAL Formula.
 
 #### (10) State
 
-&emsp;The term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
+&emsp;The term "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
 
 #### (b) Named Storm Event Model and post-storm assessment
 
@@ -68,7 +68,7 @@ In this section:
 
 #### (B) Post-storm assessment required
 
-&emsp;&emsp;Upon identification of a named storm under subparagraph (A), the Administrator shall develop a post-storm assessment for such named storm using the Named Storm Event Model and covered data collected for such named storm pursuant to the protocol established under subsection (c)(1).
+&emsp;&emsp;Upon identification of a named storm under subparagraph (A), the Administratorshall develop a post-storm assessment for such named storm using the Named Storm Event Model and covered data collected for such named storm pursuant to the protocol established under subsection (c)(1).
 
 #### (C) Submittal of post-storm assessment
 
@@ -138,7 +138,7 @@ In this section:
 
 #### (5) Coordinated deployments and data collection practices
 
-&emsp;The Administrator shall, in consultation with the Office of the Federal Coordinator forMeteorology, coordinate the deployment of sensors as part of the protocol established under paragraph (1) and related data collection carried out by Federal, State, academic, and private entities who choose to cooperate with the Administrator in carrying out this subsection.
+&emsp;The Administrator shall, in consultation with the Office of the Federal Coordinator for Meteorology, coordinate the deployment of sensors as part of the protocol established under paragraph (1) and related data collection carried out by Federal, State, academic, and private entities who choose to cooperate with the Administrator in carrying out this subsection.
 
 #### (6) Priority acquisition and deployment
 
@@ -216,7 +216,7 @@ In this section:
 
 #### (2) Designation
 
-&emsp;The database established under paragraph (1) shall be known as the “Coastal Wind and Water Event Database”.
+&emsp;The database established under paragraph (1) shall be known as the "Coastal Wind and Water Event Database".
 
 #### (g) Comptroller General study
 
@@ -236,5 +236,5 @@ Not later than 1 year after July 6, 2012, the Comptroller General of the United 
 
 The Consumer Option for an Alternative System to Allocate Losses Act of 2012, referred to in subsec. (g)(1), is subtitle B (§§100251–100253) of title II of div. F of Pub. L 112–141, which enacted this section, section 4057 of Title 42, the Public Health and Welfare, and provisions set out as a note under section 4001 of Title 42. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under section 4001 of Title 42 and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “Committee on”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "Committee on".</i>
 

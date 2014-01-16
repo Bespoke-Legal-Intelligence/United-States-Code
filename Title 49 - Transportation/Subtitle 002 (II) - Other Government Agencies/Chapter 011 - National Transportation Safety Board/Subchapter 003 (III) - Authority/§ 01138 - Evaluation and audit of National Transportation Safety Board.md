@@ -22,7 +22,7 @@ Responsibility of Comptroller General.—The Comptroller General shall evaluate 
 
 (c)
 
-Appropriate Congressional Committees.—For purposes of this section the term “appropriate congressional committees” means the Committee on Commerce, Science and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Appropriate Congressional Committees.—For purposes of this section the term "appropriate congressional committees" means the Committee on Commerce, Science and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 (Added Pub. L. 109–443, §5(a), Dec. 21, 2006, 120 Stat. 3299.)
 

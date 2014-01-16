@@ -43,7 +43,7 @@
 |  |  |
 | :--- | ---: |
 | [12351\.](Subchapter%20001%20%28I%29%20-%20Establishment%20of%20Administration%20and%20Awarding%20of%20Grants%20for%20Programs/Part%20C%20-%20National%20Clearinghouse/%C2%A7%2012351%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
-| [12352\.](Subchapter%20001%20%28I%29%20-%20Establishment%20of%20Administration%20and%20Awarding%20of%20Grants%20for%20Programs/Part%20C%20-%20National%20Clearinghouse/%C2%A7%2012352%20-%20%E2%80%9CFamily%20resource%20and%20support%20programs%E2%80%9D%20defined.md) | “Family resource and support programs” defined. |
+| [12352\.](Subchapter%20001%20%28I%29%20-%20Establishment%20of%20Administration%20and%20Awarding%20of%20Grants%20for%20Programs/Part%20C%20-%20National%20Clearinghouse/%C2%A7%2012352%20-%20Family%20resource%20and%20support%20programs%20defined.md) | "Family resource and support programs" defined. |
 | [12353\.](Subchapter%20001%20%28I%29%20-%20Establishment%20of%20Administration%20and%20Awarding%20of%20Grants%20for%20Programs/Part%20C%20-%20National%20Clearinghouse/%C2%A7%2012353%20-%20Establishment%20of%20National%20Center%20on%20Family%20Resource%20and%20Support%20Programs.md) | Establishment of National Center on Family Resource and Support Programs. |
 | [12354\.](Subchapter%20001%20%28I%29%20-%20Establishment%20of%20Administration%20and%20Awarding%20of%20Grants%20for%20Programs/Part%20C%20-%20National%20Clearinghouse/%C2%A7%2012354%20-%20Evaluation.md) | Evaluation. |
 | [12355\.](Subchapter%20001%20%28I%29%20-%20Establishment%20of%20Administration%20and%20Awarding%20of%20Grants%20for%20Programs/Part%20C%20-%20National%20Clearinghouse/%C2%A7%2012355%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |

@@ -10,19 +10,27 @@ Activities to be carried out under the demonstration project under subsection (a
 
 &emsp;(1) programs to test and evaluate various strategies to provide information and education to health professionals, other health care providers, and the public concerning—
 
-&emsp;&emsp;(A) the signs of preterm labor, updated as new research results become available;
+&emsp;&emsp;(A) the core risk factors for preterm labor and delivery;
 
-&emsp;&emsp;(B) the screening for and the treating of infections;
+&emsp;&emsp;(B) medically indicated deliveries before full term;
 
-&emsp;&emsp;(c) <sup>1</sup> counseling on optimal weight and good nutrition, including folic acid;
+&emsp;&emsp;(C) the importance of preconception and prenatal care, including—
 
-&emsp;&emsp;(D) smoking cessation education and counseling;
+&emsp;&emsp;&emsp;(i) smoking cessation;
 
-&emsp;&emsp;(E) stress management; and
+&emsp;&emsp;&emsp;(ii) weight maintenance and good nutrition, including folic acid;
 
-&emsp;&emsp;(F) appropriate prenatal care;
+&emsp;&emsp;&emsp;(iii) the screening for and the treatment of infections; and
 
-&emsp;(2) programs to improve the treatment and outcomes for babies born premature, including the use of evidence-based standards of care by health care professionals for pregnant women at risk of preterm labor or other serious complications and for infants born preterm and at a low birthweight;
+&emsp;&emsp;&emsp;(iv) stress management;
+
+&emsp;&emsp;(D) treatments and outcomes for premature infants, including late preterm infants;
+
+&emsp;&emsp;(E) the informational needs of families during the stay of an infant in a neonatal intensive care unit; and
+
+&emsp;&emsp;(F) utilization of evidence-based strategies to prevent birth injuries;
+
+&emsp;(2) programs to increase the availability, awareness, and use of pregnancy and post-term information services that provide evidence-based, clinical information through counselors, community outreach efforts, electronic or telephonic communication, or other appropriate means regarding causes associated with prematurity, birth defects, or health risks to a post-term infant;
 
 &emsp;(3) programs to respond to the informational needs of families during the stay of an infant in a neonatal intensive care unit, during the transition of the infant to the home, and in the event of a newborn death; and
 
@@ -30,9 +38,27 @@ Activities to be carried out under the demonstration project under subsection (a
 
 #### (c) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2007 through 2011.
+There is authorized to be appropriated to carry out this section $1,900,000 for each of fiscal years 2014 through 2018.
 
-(July 1, 1944, ch. 373, title III, §399Q, as added Pub. L. 109–450, §4(2), Dec. 22, 2006, 120 Stat. 3342.)
+(July 1, 1944, ch. 373, title III, §399Q, as added Pub. L. 109–450, §4(2), Dec. 22, 2006, 120 Stat. 3342; amended Pub. L. 113–55, title I, §103(b), Nov. 27, 2013, 127 Stat. 642.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(C)”.</i>
+#### Amendments
+
+<b>2013</b>—Subsec. (b)(1). Pub. L. 113–55, §103(b)(1)(A), added subpars. (A) to (F) and struck out former subpars. (A) to (F) which read as follows:
+
+"(A) the signs of preterm labor, updated as new research results become available;
+
+"(B) the screening for and the treating of infections;
+
+"(c) counseling on optimal weight and good nutrition, including folic acid;
+
+"(D) smoking cessation education and counseling;
+
+"(E) stress management; and
+
+"(F) appropriate prenatal care;".
+
+Subsec. (b)(2). Pub. L. 113–55, §103(b)(1)(B), added par. (2) and struck out former par. (2) which read as follows: "programs to improve the treatment and outcomes for babies born premature, including the use of evidence-based standards of care by health care professionals for pregnant women at risk of preterm labor or other serious complications and for infants born preterm and at a low birthweight;".
+
+Subsec. (c). Pub. L. 113–55, §103(b)(2), substituted "$1,900,000 for each of fiscal years 2014 through 2018." for "$5,000,000 for each of fiscal years 2007 through 2011."
 

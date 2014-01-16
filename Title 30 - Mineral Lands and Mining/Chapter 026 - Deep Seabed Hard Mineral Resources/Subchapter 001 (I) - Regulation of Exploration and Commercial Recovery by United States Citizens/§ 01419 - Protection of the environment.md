@@ -42,11 +42,11 @@ Each license and permit issued under this subchapter shall contain such terms, c
 
 #### (d) Environmental impact statements on issuance of licenses and permits
 
-The issuance of, but not the certification of an application for, any license or permit under this subchapter shall be deemed to be a major Federal action significantly affecting the quality of the human environment for purposes of section4332 of title 42. In preparing an environmental impact statement pursuant to this subsection, the Administrator shall consult with the agency heads referred to in subsection (b) of this section and shall take into account, and give due consideration to, the relevant information contained in any applicable studies and any other environmental impact statement prepared pursuant to this section. Each draft environmental impact statement prepared pursuant to this subsection shall be published, with the terms, conditions, and restrictions proposed pursuant to section 1415(b) of this title, within 180 days (or such longer period as the Administrator may establish for good cause shown in writing) following the date on which the application for the license or permit concerned is certified by the Administrator. Each final environmental impact statement shall be published 180 days (or such longer period as the Administrator may establish for good cause shown in writing) following the date on which the draft environmental impact statement is published.
+The issuance of, but not the certification of an application for, any license or permit under this subchapter shall be deemed to be a major Federal action significantly affecting the quality of the human environment for purposes of section 4332 of title 42. In preparing an environmental impact statement pursuant to this subsection, the Administrator shall consult with the agency heads referred to in subsection (b) of this section and shall take into account, and give due consideration to, the relevant information contained in any applicable studies and any other environmental impact statement prepared pursuant to this section. Each draft environmental impact statement prepared pursuant to this subsection shall be published, with the terms, conditions, and restrictions proposed pursuant to section 1415(b) of this title, within 180 days (or such longer period as the Administrator may establish for good cause shown in writing) following the date on which the application for the license or permit concerned is certified by the Administrator. Each final environmental impact statement shall be published 180 days (or such longer period as the Administrator may establish for good cause shown in writing) following the date on which the draft environmental impact statement is published.
 
 #### (e) Effect on other law
 
-For the purposes of this chapter, any vessel or other floating craft engaged in commercial recovery or exploration shall not be deemed to be “a vessel or other floating craft” under section 502(12)(B) of the Clean Water Act \[33 U.S.C. 1362(12)(B)\] and any discharge of a pollutant from such vessel or other floating craft shall be subject to the Clean Water Act \[33 U.S.C. 1251 et seq.\].
+For the purposes of this chapter, any vessel or other floating craft engaged in commercial recovery or exploration shall not be deemed to be "a vessel or other floating craft" under section 502(12)(B) of the Clean Water Act \[33 U.S.C. 1362(12)(B)\] and any discharge of a pollutant from such vessel or other floating craft shall be subject to the Clean Water Act \[33 U.S.C. 1251 et seq.\].
 
 #### (f) Stable reference areas
 
@@ -56,13 +56,13 @@ For the purposes of this chapter, any vessel or other floating craft engaged in 
 
 (3) Within four years after June 28, 1980, the Secretary of State shall submit a report to Congress on the progress of establishing such stable reference areas, including the designation of appropriate zones to insure a representative and stable biota of the deep seabed.
 
-(4) For purposes of this section “stable reference areas” shall mean an area or areas of the deep seabed to be used as a reference zone or zones for purposes of resource evaluation and environmental assessment of deep seabed mining in which no mining will occur.
+(4) For purposes of this section "stable reference areas" shall mean an area or areas of the deep seabed to be used as a reference zone or zones for purposes of resource evaluation and environmental assessment of deep seabed mining in which no mining will occur.
 
 (Pub. L. 96–283, title I, §109, June 28, 1980, 94 Stat. 568.)
 
 #### References in Text
 
-The Clean Water Act, referred to in subsec. (e), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Clean Water Act, referred to in subsec. (e), is act June 30, 1948, ch. 758, as amended generally by Pub. L.92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 #### Transfer of Functions
 

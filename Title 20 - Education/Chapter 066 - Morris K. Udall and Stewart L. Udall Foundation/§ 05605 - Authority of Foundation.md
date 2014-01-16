@@ -66,7 +66,7 @@ Geographic proximity of conflict resolution provision.—In providing assessment
 
 #### (6) Repository
 
-&emsp;The Foundation shall provide direct or indirect assistance from the proceeds of the Trust Fund to the Center to maintain the current site of the repository for Morris K. Udall's papers and other such public papers as may be appropriate and assure such papers’ availability to the public.
+&emsp;The Foundation shall provide direct or indirect assistance from the proceeds of the Trust Fund to the Center to maintain the current site of the repository for Morris K. Udall's papers and other such public papers as may be appropriate and assure such papers' availability to the public.
 
 #### (7) Coordination
 
@@ -74,11 +74,11 @@ Geographic proximity of conflict resolution provision.—In providing assessment
 
 #### (b) Udall Scholars
 
-Recipients of scholarships, fellowships, and internships under this chapter shall be known as “Udall Scholars”, “Udall Fellows”, and “Udall Interns”, respectively.
+Recipients of scholarships, fellowships, and internships under this chapter shall be known as "Udall Scholars", "Udall Fellows", and "Udall Interns", respectively.
 
 #### (c) Program priorities
 
-The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in section 5604(a)(2) of this title, section 5604(a)(3) of this title, and section 5604(a)(4) ofthis title, not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for section 5604(a)(5) of this title, section 5604(a)(6) of this title, and section 5604(a)(7) of this title conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.
+The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in section 5604(a)(2) of this title, section 5604(a)(3) of this title, and section 5604(a)(4) of this title, not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for section 5604(a)(5) of this title, section 5604(a)(6) of this title, and section 5604(a)(7) of this title conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.
 
 (Pub. L. 102–259, §7, Mar. 19, 1992, 106 Stat. 81; Pub. L. 105–156, §§5, 9(b), Feb. 11, 1998, 112 Stat. 9, 12; Pub. L. 111–90, §6, Nov. 3, 2009, 123 Stat. 2977.)
 
@@ -86,11 +86,11 @@ The Foundation shall determine the priority of the programs to be carried out un
 
 <b>2009</b>—Subsec. (a)(5)(E). Pub. L. 111–90, §6(1), added subpar. (E).
 
-Subsec. (b). Pub. L. 111–90, §6(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Recipients of scholarships, fellowships, internships, and grants under this chapter shall be known as ‘Morris K. Udall Scholars’.”
+Subsec. (b). Pub. L. 111–90, §6(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "Recipients of scholarships, fellowships, internships, and grants under this chapter shall be known as 'Morris K. Udall Scholars'."
 
 <b>1998</b>—Subsec. (a)(1)(D). Pub. L. 105–156, §5(1), added subpar. (D).
 
-Subsec. (a)(6). Pub. L. 105–156, §9(b), substituted “Trust Fund” for “Fund”.
+Subsec. (a)(6). Pub. L. 105–156, §9(b), substituted "Trust Fund" for "Fund".
 
-Subsec. (a)(7). Pub. L. 105–156, §5(2), inserted “and Training” after “Conflict Resolution”.
+Subsec. (a)(7). Pub. L. 105–156, §5(2), inserted "and Training" after "Conflict Resolution".
 

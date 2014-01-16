@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, whenever a servicer of residential mortgages agrees to enter into a qualified loss mitigation plan with respect to 1 or more residential mortgages originated before May 20, 2009, including mortgages held in a securitization or other investment vehicle—
+Notwithstanding any other provision of law, whenever a servicer of residential mortgagesagrees to enter into a qualified loss mitigation plan with respect to 1 or more residential mortgages originated before May 20, 2009, including mortgages held in a securitization or other investment vehicle—
 
 &emsp;(1) to the extent that the servicer owes a duty to investors or other parties to maximize the net present value of such mortgages, the duty shall be construed to apply to all such investors and parties, and not to any individual party or group of parties; and
 
@@ -34,15 +34,15 @@ Each servicer that engages in qualified loss mitigation plans under this section
 
 As used in this section—
 
-&emsp;(1) the term “qualified loss mitigation plan” means—
+&emsp;(1) the term "qualified loss mitigation plan" means—
 
 &emsp;&emsp;(A) a residential loan modification, workout, or other loss mitigation plan, including to the extent that the Secretary of the Treasury determines appropriate, a loan sale, real property disposition, trial modification, pre-foreclosure sale, and deed in lieu of foreclosure, that is described or authorized in guidelines issued by the Secretary of the Treasury or his designee under the Emergency Economic Stabilization Act of 2008 \[12 U.S.C. 5201 et seq.\]; and
 
 &emsp;&emsp;(B) a refinancing of a mortgage under the Hope for Homeowners program;
 
-&emsp;(2) the term “servicer” means the person responsible for the servicing for others of residential mortgage loans (including of a pool of residential mortgage loans); and
+&emsp;(2) the term "servicer" means the person responsible for the servicing for others of residential mortgage loans (including of a pool of residential mortgage loans); and
 
-&emsp;(3) the term “securitization vehicle” means a trust, special purpose entity, or other legal structure that is used to facilitate the issuing of securities, participation certificates, or similar instruments backed by or referring to a pool of assets that includes residential mortgages (or instruments that are related to residential mortgages such as credit-linked notes).
+&emsp;(3) the term "securitization vehicle" means a trust, special purpose entity, or other legal structure that is used to facilitate the issuing of securities, participation certificates, or similar instruments backed by or referring to a pool of assets that includes residential mortgages (or instruments that are related to residential mortgages such as credit-linked notes).
 
 #### (g) Rule of construction
 
@@ -60,17 +60,17 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsecs. (a)(2)
 
 #### Findings
 
-Pub. L. 111–22, div. A, title II, §201(a), May 20, 2009, 123 Stat. 1638, provided that: “Congress finds the following:
+Pub. L. 111–22, div. A, title II, §201(a), May 20, 2009, 123 Stat. 1638, provided that: "Congress finds the following:
 
-&emsp;“(1) Increasing numbers of mortgage foreclosures are not only depriving many Americans of their homes, but are also destabilizing property values and negatively affecting State and local economies as well as the national economy.
+&emsp;"(1) Increasing numbers of mortgage foreclosures are not only depriving many Americans of their homes, but are also destabilizing property values and negatively affecting State and local economies as well as the national economy.
 
-&emsp;“(2) In order to reduce the number of foreclosures and to stabilize property values, local economies, and the national economy, servicers must be given—
+&emsp;"(2) In order to reduce the number of foreclosures and to stabilize property values, local economies, and the national economy, servicers must be given—
 
-&emsp;&emsp;“(A) authorization to—
+&emsp;&emsp;"(A) authorization to—
 
-&emsp;&emsp;&emsp;“(i) modify mortgage loans and engage in other loss mitigation activities consistent with applicable guidelines issued by the Secretary of the Treasury or his designee under the Emergency Economic Stabilization Act of 2008 \[12 U.S.C. 5201 et seq.\]; and
+&emsp;&emsp;&emsp;"(i) modify mortgage loans and engage in other loss mitigation activities consistent with applicable guidelines issued by the Secretary of the Treasury or his designee under the Emergency Economic Stabilization Act of 2008 \[12 U.S.C. 5201 et seq.\]; and
 
-&emsp;&emsp;&emsp;“(ii) refinance mortgage loans under the Hope for Homeowners program; and
+&emsp;&emsp;&emsp;"(ii) refinance mortgage loans under the Hope for Homeowners program; and
 
-&emsp;&emsp;“(B) a safe harbor to enable such servicers to exercise these authorities.”
+&emsp;&emsp;"(B) a safe harbor to enable such servicers to exercise these authorities."
 

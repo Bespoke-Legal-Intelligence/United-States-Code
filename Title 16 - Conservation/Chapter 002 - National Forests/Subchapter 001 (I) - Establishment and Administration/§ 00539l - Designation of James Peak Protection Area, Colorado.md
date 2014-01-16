@@ -18,7 +18,7 @@
 
 #### (b) Designation
 
-The approximately 16,000 acres of land in the Arapaho/Roosevelt National Forest generally depicted on the map entitled “Proposed James Peak Protection Area”, dated September 2001, are hereby designated as the James Peak Protection Area (hereafter in this Act referred to as the “Protection Area”).
+The approximately 16,000 acres of land in the Arapaho/Roosevelt National Forest generally depicted on the map entitled "Proposed James Peak Protection Area", dated September 2001, are hereby designated as the James Peak Protection Area (hereafter in this Act referred to as the "Protection Area").
 
 #### (c) Map and boundary description
 
@@ -32,7 +32,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (A) Grazing
 
-&emsp;&emsp;Nothing in this Act, including the establishment of the Protection Area, shall affect grazing on lands within or outside of the Protection Area.
+&emsp;&emsp;Nothing in this Act, including the establishment of the Protection Area, shall affectgrazing on lands within or outside of the Protection Area.
 
 #### (B) Mining withdrawal
 
@@ -80,7 +80,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (F) Special interest area
 
-&emsp;&emsp;The management prescription applicable to the lands described in the 1997 Revision of the Land and Resource Management Plan as the James Peak Special Interest Area shall also be applicable to all the lands in the Protection Area that are bounded on the north by Rollins Pass Road, on the east by the Continental Divide, and on the west by the11,300 foot elevation contour as shown on the map referred to in subsection (b) of this section. In addition, motorized vehicle use shall not be permitted on any part of the Rogers Pass trail.
+&emsp;&emsp;The management prescription applicable to the lands described in the 1997 Revision of the Land and Resource Management Plan as the James Peak Special Interest Area shall also be applicable to all the lands in the Protection Area that are bounded on the north by Rollins Pass Road, on the east by the Continental Divide, and on the west by the 11,300 foot elevation contour as shown on the map referred to in subsection (b) of this section. In addition, motorized vehicle use shall not be permitted on any part of the Rogers Pass trail.
 
 #### (2) Natural gas pipeline
 
@@ -100,7 +100,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 &emsp;(C) Nothing in this subsection shall be construed as establishing a precedent with regard to any future protection area designation.
 
-&emsp;(D) Nothing in this Act shall be construed as limiting, altering, modifying, or amending any of the interstate compacts or equitable apportionment decrees that apportion water among and between the State of Colorado and other States.
+&emsp;(D) Nothing in this Act shall be construed as limiting, altering, modifying, or amending any of the interstate compacts or equitable apportionment decrees that apportion water amongand between the State of Colorado and other States.
 
 #### (2) Colorado water law
 
@@ -122,9 +122,9 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Short Title
 
-Pub. L. 107–216, §1, Aug. 21, 2002, 116 Stat. 1055, provided that: “This Act \[enacting this section and sections 539l–1 to 539l–5 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘James Peak Wilderness and Protection Area Act’.”
+Pub. L. 107–216, §1, Aug. 21, 2002, 116 Stat. 1055, provided that: "This Act \[enacting this section and sections 539l–1 to 539l–5 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the 'James Peak Wilderness and Protection Area Act'."
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
-Pub. L. 107–216, §2(c), Aug. 21, 2002, 116 Stat. 1056, provided in part that in sections 539l to 539l–5 of this title “Secretary” means the Secretary of Agriculture.
+Pub. L. 107–216, §2(c), Aug. 21, 2002, 116 Stat. 1056, provided in part that in sections 539l to 539l–5 of this title "Secretary" means the Secretary of Agriculture.
 

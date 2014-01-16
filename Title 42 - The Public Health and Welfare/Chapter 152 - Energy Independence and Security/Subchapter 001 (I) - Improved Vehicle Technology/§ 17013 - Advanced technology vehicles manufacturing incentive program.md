@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Advanced technology vehicle
 
-&emsp;The term “advanced technology vehicle” means an ultra efficient vehicle or a light duty vehicle that meets—
+&emsp;The term "advanced technology vehicle" means an ultra efficient vehicle or a light duty vehicle that meets—
 
 &emsp;&emsp;(A) the Bin 5 Tier II emission standard established in regulations issued by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act (42 U.S.C. 7521(i)), or a lower-numbered Bin emission standard;
 
@@ -16,7 +16,7 @@ In this section:
 
 #### (2) Combined fuel economy
 
-&emsp;The term “combined fuel economy” means—
+&emsp;The term "combined fuel economy" means—
 
 &emsp;&emsp;(A) the combined city/highway miles per gallon values, as reported in accordance with section 32904 of title 49; and
 
@@ -24,7 +24,7 @@ In this section:
 
 #### (3) Engineering integration costs
 
-&emsp;The term “engineering integration costs” includes the cost of engineering tasks relating to—
+&emsp;The term "engineering integration costs" includes the cost of engineering tasks relating to—
 
 &emsp;&emsp;(A) incorporating qualifying components into the design of advanced technology vehicles; and
 
@@ -32,7 +32,7 @@ In this section:
 
 #### (4) Qualifying components
 
-&emsp;The term “qualifying components” means components that the Secretary determines to be—
+&emsp;The term "qualifying components" means components that the Secretary determines to be—
 
 &emsp;&emsp;(A) designed for advanced technology vehicles; and
 
@@ -40,7 +40,7 @@ In this section:
 
 #### (5) Ultra efficient vehicle
 
-&emsp;The term “ultra efficient vehicle” means a fully closed compartment vehicle designed to carry at least 2 adult passengers that achieves—
+&emsp;The term "ultra efficient vehicle" means a fully closed compartment vehicle designed to carry at least 2 adult passengers that achieves—
 
 &emsp;&emsp;(A) at least 75 miles per gallon while operating on gasoline or diesel fuel;
 
@@ -112,7 +112,7 @@ An award under subsection (b) shall apply to—
 
 #### (e) Improvement
 
-Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that, in order for an automobile manufacturer to be eligible for an award or loan under this section during a particular year, the adjusted average fuel economy of the manufacturer for light duty vehicles produced by the manufacturer during the most recent year for which data are available shall be not less than the average fuel economy for all light duty vehicles of the manufacturer for model year 2005. Inorder to determine fuel economy baselines for eligibility of a new manufacturer or a manufacturer that has not produced previously produced equivalent vehicles, the Secretary may substitute industry averages.
+Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that, in order for an automobile manufacturer to be eligible for an award or loan under this section during a particular year, the adjusted average fuel economy of the manufacturer for light duty vehicles produced by the manufacturer during the most recent year for which data are available shall be not less than the average fuel economy for all light duty vehicles of the manufacturer for model year 2005. In order to determine fuel economy baselines for eligibility of a new manufacturer or a manufacturer that has not produced previously produced equivalent vehicles, the Secretary may substitute industry averages.
 
 #### (f) Fees
 
@@ -126,7 +126,7 @@ The Secretary shall, in making awards or loans to those manufacturers that have 
 
 #### (1) Definition of covered firm
 
-&emsp;In this subsection, the term “covered firm” means a firm that—
+&emsp;In this subsection, the term "covered firm" means a firm that—
 
 &emsp;&emsp;(A) employs less than 500 individuals; and
 
@@ -158,43 +158,43 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d)(2)(B), is se
 
 #### Codification
 
-In subsec. (j)(3), “section 1901 of title 41” substituted for “section 31 of the Office of Federal Procurement Policy Act (41 U.S.C. 427)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (j)(3), "section 1901 of title 41" substituted for "section 31 of the Office of Federal Procurement Policy Act (41 U.S.C. 427)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–85, §312(a)(1)(A), inserted “an ultra efficient vehicle or” after “means” in introductory provisions.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–85, §312(a)(1)(A), inserted "an ultra efficient vehicle or" after "means" in introductory provisions.
 
 Subsec. (a)(5). Pub. L. 111–85, §312(a)(1)(B), added par. (5).
 
-Subsec. (b). Pub. L. 111–85, §312(a)(2)(A), inserted “, ultra efficient vehicle manufacturers,” after “automobile manufacturers” in introductory provisions.
+Subsec. (b). Pub. L. 111–85, §312(a)(2)(A), inserted ", ultra efficient vehicle manufacturers," after "automobile manufacturers" in introductory provisions.
 
 Subsec. (b)(1)(C). Pub. L. 111–85, §312(a)(2)(B), added subpar. (C).
 
-Subsec. (b)(2). Pub. L. 111–85, §312(a)(2)(C), inserted “, ultra efficient vehicles,” after “qualifying vehicles”.
+Subsec. (b)(2). Pub. L. 111–85, §312(a)(2)(C), inserted ", ultra efficient vehicles," after "qualifying vehicles".
 
-Subsec. (g). Pub. L. 111–85, §312(a)(3), inserted “or are utilized primarily for the manufacture of ultra efficient vehicles” after “20 years”.
+Subsec. (g). Pub. L. 111–85, §312(a)(3), inserted "or are utilized primarily for the manufacture of ultra efficient vehicles" after "20 years".
 
-Subsec. (h)(1)(B). Pub. L. 111–85, §312(a)(4), substituted “ultra efficient vehicles, automobiles,” for “automobiles”.
+Subsec. (h)(1)(B). Pub. L. 111–85, §312(a)(4), substituted "ultra efficient vehicles, automobiles," for "automobiles".
 
-<b>2008</b>—Subsec. (d)(1). Pub. L. 110–329, §129(c)(1), inserted at end “The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.”
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–329, §129(c)(1), inserted at end "The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal andinterest. The full credit subsidy shall be paid by the Secretary using appropriated funds."
 
-Subsec. (e). Pub. L. 110–329, §129(c)(2), substituted “Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that,” for “The Secretary shall issue regulations that require that,”.
+Subsec. (e). Pub. L. 110–329, §129(c)(2), substituted "Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that," for "The Secretary shall issue regulations that require that,".
 
 Subsec. (j). Pub. L. 110–329, §129(c)(3), added subsec. (j).
 
 #### Reconsideration of Prior Applications
 
-Pub. L. 111–85, title III, §312(b), Oct. 28, 2009, 123 Stat. 2875, provided that: “The Secretary of Energy shall reconsider applications for assistance under section 136 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17013) that were—
+Pub. L. 111–85, title III, §312(b), Oct. 28, 2009, 123 Stat. 2875, provided that: "The Secretary of Energy shall reconsider applications for assistance under section 136 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17013) that were—
 
-&emsp;“(1) timely filed under that section before January 1, 2009;
+&emsp;"(1) timely filed under that section before January 1, 2009;
 
-&emsp;“(2) rejected on the basis that the vehicles to which the proposal related were not advanced technology vehicles; and
+&emsp;"(2) rejected on the basis that the vehicles to which the proposal related were not advanced technology vehicles; and
 
-&emsp;“(3) related to ultra efficient vehicles.”
+&emsp;"(3) related to ultra efficient vehicles."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "or".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “points”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "points".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “of such”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "of such".</i>
 

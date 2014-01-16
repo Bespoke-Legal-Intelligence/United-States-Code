@@ -40,7 +40,7 @@ A prior section 8106, Pub. L. 107–171, title IX, §9006, May 13, 2002, 116 Sta
 
 #### Amendments
 
-<b>2013</b>—Subsec. (d). Pub. L. 112–240 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $1,000,000 for each of fiscal years 2008 through 2012.”
+<b>2013</b>—Subsec. (d). Pub. L. 112–240 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $1,000,000 for each of fiscal years 2008 through 2012."
 
 #### Effective Date of 2013 Amendment
 

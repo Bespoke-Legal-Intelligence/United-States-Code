@@ -24,5 +24,5 @@ Manner of Extension.—Any extensions granted under this section may be granted 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–213 substituted “chapter 71” for “chapter 73” in pars. (1) and (2).
+<b>2012</b>—Subsec. (a). Pub. L. 112–213 substituted "chapter 71" for "chapter 73" in pars. (1) and (2).
 

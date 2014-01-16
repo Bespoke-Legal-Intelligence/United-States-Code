@@ -8,7 +8,7 @@ In order to promote the early adoption of reforms in the implementation of the s
 
 &emsp;(B) if it is not technically feasible for the IAEA to meet those detection goals in a particular facility, require the IAEA to declare publicly that it is unable to do so;
 
-&emsp;(3) enable the IAEA to issue fines for violations of safeguards procedures, to pay rewards for information on possible safeguards violations, and to establish a “hot line” for the reporting of such violations and other illicit uses of weapons-grade nuclear material;
+&emsp;(3) enable the IAEA to issue fines for violations of safeguards procedures, to pay rewards for information on possible safeguards violations, and to establish a "hot line" for the reporting of such violations and other illicit uses of weapons-grade nuclear material;
 
 &emsp;(4) establish safeguards at facilities engaged in the manufacture of equipment or material that is especially designated or prepared for the processing, use, or production of special fissionable material or, in the case of non-nuclear-weapon states, of any nuclear explosive device;
 
@@ -18,7 +18,7 @@ In order to promote the early adoption of reforms in the implementation of the s
 
 &emsp;(7) expand the scope of safeguards to include tritium, uranium concentrates, and nuclear waste containing special fissionable material, and increase the scope of such safeguards on heavy water;
 
-&emsp;(8) revise downward the IAEA's official minimum amounts of nuclear material (“significant quantity”) needed to make a nuclear explosive device and establish these amounts as national rather than facility standards;
+&emsp;(8) revise downward the IAEA's official minimum amounts of nuclear material ("significant quantity") needed to make a nuclear explosive device and establish these amounts as national rather than facility standards;
 
 &emsp;(9) expand the use of full-time resident IAEA inspectors at sensitive fuel cycle facilities;
 
@@ -32,5 +32,5 @@ In order to promote the early adoption of reforms in the implementation of the s
 
 (Pub. L. 103–236, title VIII, §842, Apr. 30, 1994, 108 Stat. 523.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section;”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section;".</i>
 

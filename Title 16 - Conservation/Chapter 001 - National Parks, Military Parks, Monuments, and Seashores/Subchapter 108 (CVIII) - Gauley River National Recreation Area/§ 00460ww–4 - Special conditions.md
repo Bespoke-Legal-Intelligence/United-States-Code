@@ -20,5 +20,5 @@ This Act, referred to in subsec. (c), is Pub. L. 100–534, Oct. 26, 1988, 102 S
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–333 inserted at end “If project construction is not commenced within the time required in such license, or if such license is surrendered at any time, such boundary modification shall cease to have any force and effect.”
+<b>1996</b>—Subsec. (c). Pub. L. 104–333 inserted at end "If project construction is not commenced within the time required in such license, or if such license is surrendered at any time, such boundary modification shall cease to have any force and effect."
 

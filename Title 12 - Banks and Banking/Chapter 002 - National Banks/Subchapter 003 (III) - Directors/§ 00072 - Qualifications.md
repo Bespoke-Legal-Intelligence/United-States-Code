@@ -10,17 +10,17 @@ R.S. §5146 derived from act June 3, 1864, ch. 106, §§9, 10, 13 Stat. 102, whi
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–569 inserted before period at end of first sentence “, and waive the requirement of citizenship in the case of not more than a minority of the total number of directors”.
+<b>2000</b>—Pub. L. 106–569 inserted before period at end of first sentence ", and waive the requirement of citizenship in the case of not more than a minority of the total number of directors".
 
-<b>1996</b>—Pub. L. 104–208 substituted “except that the Comptroller may, in the discretion of the Comptroller, waive the requirement of residency” for “except that in the case of an association which is a subsidiary or affiliate of a foreign bank, the Comptroller of the Currency may in his discretion waive the requirement of citizenship in the case of not more than a minority of the total number of directors” before period at end of first sentence.
+<b>1996</b>—Pub. L. 104–208 substituted "except that the Comptroller may, in the discretion of the Comptroller, waive the requirement of residency" for "except that in the case of an association which is a subsidiary or affiliate of a foreign bank, the Comptroller of the Currency may in his discretion waive the requirement of citizenship in the case of not more than a minority of the total number of directors" before period at end of first sentence.
 
-<b>1994</b>—Pub. L. 103–325, which directed the substitution of “a majority” for “two thirds”, was executed by making the substitution for “two-thirds” in first sentence to reflect the probable intent of Congress.
+<b>1994</b>—Pub. L. 103–325, which directed the substitution of "a majority" for "two thirds", was executed by making the substitution for "two-thirds" in first sentence to reflect the probable intent of Congress.
 
 <b>1980</b>—Pub. L. 96–221 inserted provisions setting forth additional ownership requirements with respect to equivalent interest determinations by the Comptroller of the Currency.
 
 <b>1978</b>—Pub. L. 95–369 authorized the Comptroller of the Currency, in case of associations which are subsidiaries of affiliates of foreign banks, to waive citizenship requirements of not more than a minority of the total number of directors.
 
-<b>1956</b>—Act Apr. 27, 1956, substituted “two-thirds”, “one hundred”, “one-hundred-mile”, for “three-fourths”, “fifty”, and “fifty-mile”, respectively.
+<b>1956</b>—Act Apr. 27, 1956, substituted "two-thirds", "one hundred", "one-hundred-mile", for "three-fourths", "fifty", and "fifty-mile", respectively.
 
 <b>1927</b>—Act Feb. 25, 1927, substituted a minimum value of stock ownership for minimum number of shares in both instances.
 

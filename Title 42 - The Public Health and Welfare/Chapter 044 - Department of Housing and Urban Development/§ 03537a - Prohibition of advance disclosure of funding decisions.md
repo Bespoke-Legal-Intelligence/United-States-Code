@@ -58,7 +58,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (A) In general
 
-&emsp;&emsp;After exhausting all administrative remedies established by the Secretary underparagraph (3)(A), an employee against whom the Secretary has imposed a civil money penalty under paragraph (1) may obtain a review of the penalty and such ancillary issues (such as any administrative sanctions under 24 C.F.R. part 25) as may be addressed in the notice of determination to impose a penalty under paragraph (3)(A)(i) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
+&emsp;&emsp;After exhausting all administrative remedies established by the Secretary under paragraph (3)(A), an employee against whom the Secretary has imposed a civil money penalty under paragraph (1) may obtain a review of the penalty and such ancillary issues (such as any administrative sanctions under 24 C.F.R. part 25) as may be addressed in the notice of determination to impose a penalty under paragraph (3)(A)(i) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
 
 #### (B) Objections not raised in hearing
 
@@ -74,7 +74,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (5) Action to collect penalty
 
-&emsp;If any employee fails to comply with the Secretary's determination or order imposing a civil money penalty under paragraph (1), after the determination or order is no longer subject to review as provided by paragraphs (3)(A) and (4), the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the employee and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys’ fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+&emsp;If any employee fails to comply with the Secretary's determination or order imposing a civil money penalty under paragraph (1), after the determination or order is no longer subject to review as provided by paragraphs (3)(A) and (4), the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the employee and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys' fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (6) Settlement by Secretary
 
@@ -94,15 +94,15 @@ For purposes of this section:
 
 #### (1) Applicant
 
-&emsp;The term “applicant” means any applicant or candidate that is being considered for receiving assistance.
+&emsp;The term "applicant" means any applicant or candidate that is being considered for receiving assistance.
 
 #### (2) Assistance
 
-&emsp;The term “assistance” means any grant, loan, subsidy, guarantee, or other financial assistance under a program administered by the Secretary that provides by statute, regulation, or otherwise for the competitive distribution of such assistance. The term does not include any mortgage insurance provided under a program administered by the Secretary.
+&emsp;The term "assistance" means any grant, loan, subsidy, guarantee, or other financial assistance under a program administered by the Secretary that provides by statute, regulation, or otherwise for the competitive distribution of such assistance. The term does not include any mortgage insurance provided under a program administered by the Secretary.
 
 #### (3) Covered selection information
 
-&emsp;The term “covered selection information” means—
+&emsp;The term "covered selection information" means—
 
 &emsp;&emsp;(A) any information that is contained in any application or request for assistance, or any information regarding the decision of the Secretary to make available assistance or other information that is determined by the Secretary to be information that is not generally available to the public (not including program requirements and timing of the decision to make assistance available); and
 
@@ -110,15 +110,15 @@ For purposes of this section:
 
 #### (4) Knowingly
 
-&emsp;The term “knowingly” means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
+&emsp;The term "knowingly" means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
 
 #### (5) Selection
 
-&emsp;The term “selection” means the determination of which applicants for assistance are to receive assistance under the program.
+&emsp;The term "selection" means the determination of which applicants for assistance are to receive assistance under the program.
 
 #### (6) Selection process
 
-&emsp;The term “selection process” means the period with respect to a selection for assistance that begins with the development, preparation, and issuance of a solicitation or request for applications for the assistance and concludes with the selection of recipients of assistance, and includes the evaluation of applications.
+&emsp;The term "selection process" means the period with respect to a selection for assistance that begins with the development, preparation, and issuance of a solicitation or request for applications for the assistance and concludes with the selection of recipients of assistance, and includes the evaluation of applications.
 
 #### (f) Regulations
 

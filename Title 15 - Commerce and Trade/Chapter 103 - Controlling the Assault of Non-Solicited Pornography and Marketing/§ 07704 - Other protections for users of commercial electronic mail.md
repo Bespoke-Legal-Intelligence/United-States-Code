@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) header information that is technically accurate but includes an originating electronic mail address, domain name, or Internet Protocol address the access to which for purposes of initiating the message was obtained by means of false or fraudulent pretenses or representations shall be considered materially misleading;
 
-&emsp;&emsp;(B) a “from” line (the line identifying or purporting to identify a person initiating the message) that accurately identifies any person who initiated the message shall not be considered materially false or materially misleading; and
+&emsp;&emsp;(B) a "from" line (the line identifying or purporting to identify a person initiating the message) that accurately identifies any person who initiated the message shall not be considered materially false or materially misleading; and
 
 &emsp;&emsp;(C) header information shall be considered materially misleading if it fails to identify accurately a protected computer used to initiate the message because the person initiating the message knowingly uses another protected computer to relay or retransmit the message for purposes of disguising its origin.
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) for any person acting on behalf of the sender to initiate the transmission to the recipient, more than 10 business days after the receipt of such request, of a commercial electronic mail message with actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that such message falls within the scope of the request;
 
-&emsp;&emsp;&emsp;(iii) for any person acting on behalf of the sender to assist in initiating the transmission to the recipient, through the provision or selection of addresses to which the message will be sent, of a commercial electronic mail message with actual knowledge, or knowledge fairly implied onthe basis of objective circumstances, that such message would violate clause (i) or (ii); or
+&emsp;&emsp;&emsp;(iii) for any person acting on behalf of the sender to assist in initiating the transmission to the recipient, through the provision or selection of addresses to which the message will be sent, of a commercial electronic mail message with actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that such message would violate clause (i) or (ii); or
 
 &emsp;&emsp;&emsp;(iv) for the sender, or any other person who knows that the recipient has made such a request, to sell, lease, exchange, or otherwise transfer or release the electronic mail address of the recipient (including through any transaction or other transfer involving mailing lists bearing the electronic mail address of the recipient) for any purpose other than compliance with this chapter or other provision of law.
 
@@ -66,7 +66,7 @@
 
 #### (6) Materially
 
-&emsp;For purposes of paragraph (1), the term “materially”, when used with respect to false or misleading header information, includes the alteration or concealment of header information in a manner that would impair the ability of an Internet access service processing the message on behalf of a recipient, a person alleging a violation of this section, or a law enforcement agency to identify, locate, or respond to a person who initiated the electronic mail message or to investigate the alleged violation, or the ability of a recipient of the message to respond to a person who initiated the electronic message.
+&emsp;For purposes of paragraph (1), the term "materially", when used with respect to false or misleading header information, includes the alteration or concealment of header information in a manner that would impair the ability of an Internet access service processing the message on behalf of a recipient, a person alleging a violation of this section, or a law enforcement agency to identify, locate, or respond to a person who initiated the electronic mail message or to investigate the alleged violation, or the ability of a recipient of the message to respond to a person who initiated the electronic message.
 
 #### (b) Aggravated violations relating to commercial electronic mail
 
@@ -132,7 +132,7 @@ The Commission shall by regulation, pursuant to section 7711 of this title—
 
 #### (4) Definition
 
-&emsp;In this subsection, the term “sexually oriented material” means any material that depicts sexually explicit conduct (as that term is defined in section 2256 of title 18), unless the depiction constitutes a small and insignificant part of the whole, the remainder of which is not primarily devoted to sexual matters.
+&emsp;In this subsection, the term "sexually oriented material" means any material that depicts sexually explicit conduct (as that term is defined in section 2256 of title 18), unless the depiction constitutes a small and insignificant part of the whole, the remainder of which is not primarily devoted to sexual matters.
 
 #### (5) Penalty
 
@@ -142,5 +142,5 @@ The Commission shall by regulation, pursuant to section 7711 of this title—
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(4)(A)(iv), was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+This chapter, referred to in subsec. (a)(4)(A)(iv), was in the original "this Act", meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 

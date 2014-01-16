@@ -48,17 +48,17 @@ Water Conservation Construction Projects.—(1) The Secretary of Defense may car
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–364 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
-“(1) Financial incentives received under subsection (a)(2) shall be used as provided in section 2865(b)(3) of this title.
+"(1) Financial incentives received under subsection (a)(2) shall be used as provided in section 2865(b)(3) of this title.
 
-“(2) Water cost savings realized under subsection (a)(3) shall be used as provided in section 2865(b)(2) of this title.”
+"(2) Water cost savings realized under subsection (a)(3) shall be used as provided in section 2865(b)(2) of this title."
 
-<b>2003</b>—Subsec. (c)(2). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (c)(2). Pub. L. 108–136 inserted before period at end "or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title".
 
 <b>1997</b>—Subsec. (b). Pub. L. 105–85 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(b)
+"(b)
 
-Use of Water Cost Savings.—Water cost savings realized under this section shall be used as provided in section 2865(b)(2) of this title.”
+Use of Water Cost Savings.—Water cost savings realized under this section shall be used as provided in section 2865(b)(2) of this title."
 
-<b>1996</b>—Subsec. (c)(2). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and Appropriations of the Senate and House of Representatives”.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–106 substituted "appropriate committees of Congress" for "Committees on Armed Services and Appropriations of the Senate and House of Representatives".
 

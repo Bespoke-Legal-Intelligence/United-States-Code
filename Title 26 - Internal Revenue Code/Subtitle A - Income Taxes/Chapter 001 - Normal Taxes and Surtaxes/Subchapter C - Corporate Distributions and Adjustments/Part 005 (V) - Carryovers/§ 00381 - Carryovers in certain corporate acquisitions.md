@@ -32,9 +32,9 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;(B) In determining the net operating loss deduction, the portion of such deduction attributable to the net operating loss carryovers of the distributor or transferor corporation to the first taxable year of the acquiring corporation ending after the date of distribution or transfer shall be limited to an amount which bears the same ratio to the taxable income (determined without regard to a net operating loss deduction) of the acquiring corporation in such taxable year as the number of days in the taxable year after the date of distribution or transfer bears to the total number of days in the taxable year.
 
-&emsp;&emsp;(C) For the purpose of determining the amount of the net operating loss carryoversunder section 172(b)(2), a net operating loss for a taxable year (hereinafter in this subparagraph referred to as the “loss year”) of a distributor or transferor corporation which ends on or before the end of a loss year of the acquiring corporation shall be considered to be a net operating loss for a year prior to such loss year of the acquiring corporation. For the same purpose, the taxable income for a “prior taxable year” (as the term is used in section 172(b)(2)) shall be computed as provided in such section; except that, if the date of distribution or transfer is on a day other than the last day of a taxable year of the acquiring corporation—
+&emsp;&emsp;(C) For the purpose of determining the amount of the net operating loss carryoversunder section 172(b)(2), a net operating loss for a taxable year (hereinafter in this subparagraph referred to as the "loss year") of a distributor or transferor corporation which ends on or before the end of a loss year of the acquiring corporation shall be considered to be a net operating loss for a year prior to such loss year of the acquiring corporation. For the same purpose, the taxable income for a "prior taxable year" (as the term is used in section 172(b)(2)) shall be computed as provided in such section; except that, if the date of distribution or transfer is on a day other than the last day of a taxable year of the acquiring corporation—
 
-&emsp;&emsp;&emsp;(i) such taxable year shall (for the purpose of this subparagraph only) be considered to be 2 taxable years (hereinafter in this subparagraph referred to as the “pre-acquisition part year” and the “post-acquisition part year”);
+&emsp;&emsp;&emsp;(i) such taxable year shall (for the purpose of this subparagraph only) be considered to be 2 taxable years (hereinafter in this subparagraph referred to as the "pre-acquisition part year" and the "post-acquisition part year");
 
 &emsp;&emsp;&emsp;(ii) the pre-acquisition part year shall begin on the same day as such taxable year begins and shall end on the date of distribution or transfer;
 
@@ -90,9 +90,9 @@ The items referred to in subsection (a) are:
 
 &emsp;The acquiring corporation shall be entitled to deduct, if it were the distributor or transferor corporation, expenses deferred under section 616 (relating to certain development expenditures) if the distributor or transferor corporation has so elected.
 
-#### (11) Contributions to pension plans, employees’ annuity plans, and stock bonus and profit-sharing plans
+#### (11) Contributions to pension plans, employees' annuity plans, and stock bonus and profit-sharing plans
 
-&emsp;The acquiring corporation shall be considered to be the distributor or transferor corporation after the date of distribution or transfer for the purpose of determining the amounts deductible under section 404 with respect to pension plans, employees’ annuity plans, and stock bonus and profit-sharing plans.
+&emsp;The acquiring corporation shall be considered to be the distributor or transferor corporation after the date of distribution or transfer for the purpose of determining the amounts deductible under section 404 with respect to pension plans, employees' annuity plans, and stock bonus and profit-sharing plans.
 
 #### (12) Recovery of tax benefit items
 
@@ -126,7 +126,7 @@ The items referred to in subsection (a) are:
 
 &emsp;The acquiring corporation shall be considered to be the distributor or transferor corporation for the purpose of determining the applicability of section 613(c)(3) (relating to extraction of ores or minerals from the ground).
 
-#### (19) Charitable contributions in excess of prior years’ limitation
+#### (19) Charitable contributions in excess of prior years' limitation
 
 &emsp;Contributions made in the taxable year ending on the date of distribution or transfer and the 4 prior taxable years by the distributor or transferor corporation in excess of the amount deductible under section 170(b)(2) for such taxable years shall be deductible by the acquiring corporation for its taxable years which begin after the date of distribution or transfer, subject to the limitations imposed in section 170(b)(2). In applying the preceding sentence, each taxable year of the distributor or transferor corporation beginning on or before the date of distribution or transfer shall be treated as a prior taxable year with reference to the acquiring corporation's taxable years beginning after such date.
 
@@ -164,21 +164,21 @@ The items referred to in subsection (a) are:
 
 <b>1993</b>—Subsec. (c)(26). Pub. L. 103–66 added par. (26).
 
-<b>1990</b>—Subsec. (c)(6). Pub. L. 101–508, §11812(b)(6)(A), substituted “sections 167 and 168” for “subsections (b), (j), and (k) of section 167”.
+<b>1990</b>—Subsec. (c)(6). Pub. L. 101–508, §11812(b)(6)(A), substituted "sections 167 and 168" for "subsections (b), (j), and (k) of section 167".
 
-Subsec. (c)(15). Pub. L. 101–508, §11801(c)(10)(A), struck out par. (15) “Indebtedness of certain personal holding companies” which read as follows: “The acquiring corporation shall be considered to be the distributor or transferor corporation for the purpose of determining the applicability of subsection (c) of section 545, relating to deduction with respect to payment of certain indebtedness.”
+Subsec. (c)(15). Pub. L. 101–508, §11801(c)(10)(A), struck out par. (15) "Indebtedness of certain personal holding companies" which read as follows: "The acquiring corporation shall be considered to be the distributor or transferor corporation for the purpose of determining the applicability of subsection (c) of section 545, relating to deduction with respect to payment of certain indebtedness."
 
-Subsec. (c)(24) to (26). Pub. L. 101–508, §11812(b)(6)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) “Method of computing depreciation deduction” which read as follows: “The acquiring corporation shall be treated as the distributor or transferor corporation for purposes of computing the deduction allowable under section 168(a) on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation.”
+Subsec. (c)(24) to (26). Pub. L. 101–508, §11812(b)(6)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) "Method of computing depreciation deduction" which read as follows: "The acquiring corporation shall be treated as the distributor or transferor corporation for purposes of computing the deduction allowable under section 168(a) on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation."
 
 <b>1989</b>—Subsec. (c)(26), (27). Pub. L. 101–239, as amended by Pub. L. 104–188, redesignated par. (27) as (26).
 
-<b>1988</b>—Subsec. (c)(24). Pub. L. 100–647 substituted “depreciation deduction” for “recovery allowance for recovery property” in heading.
+<b>1988</b>—Subsec. (c)(24). Pub. L. 100–647 substituted "depreciation deduction" for "recovery allowance for recovery property" in heading.
 
-<b>1987</b>—Subsec. (c)(8). Pub. L. 100–203 struck out “or 453A” after “section 453” in two places.
+<b>1987</b>—Subsec. (c)(8). Pub. L. 100–203 struck out "or 453A" after "section 453" in two places.
 
-<b>1986</b>—Subsec. (c)(10). Pub. L. 99–514, §411(b)(2)(C)(iii), struck out last sentence which read: “For the purpose of applying the limitation provided in section 617(h), if, for any taxable year, the distributor or transferor corporation was allowed a deduction under section 617(a), the acquiring corporation shall be deemed to have been allowed such deduction.”
+<b>1986</b>—Subsec. (c)(10). Pub. L. 99–514, §411(b)(2)(C)(iii), struck out last sentence which read: "For the purpose of applying the limitation provided in section 617(h), if, for any taxable year, the distributor or transferor corporation was allowed a deduction under section 617(a), the acquiring corporation shall be deemed to have been allowed such deduction."
 
-Subsec. (c)(12). Pub. L. 99–514, §1812(a)(3), amended par. (12) generally. Prior to amendment, par. (12), recovery of bad debts, prior taxes, or delinquency amounts, read as follows: “If the acquiring corporation is entitled to the recovery of bad debts, prior taxes, or delinquency amounts previously deducted or credited by the distributor or transferor corporation, the acquiring corporation shall include in its income such amounts as would have been includible by the distributor or transferor corporation in accordance with section 111 (relating to the recovery of bad debts, prior taxes, and delinquency amounts).”
+Subsec. (c)(12). Pub. L. 99–514, §1812(a)(3), amended par. (12) generally. Prior to amendment, par. (12), recovery of bad debts, prior taxes, or delinquency amounts, read as follows: "If the acquiring corporation is entitled to the recovery of bad debts, prior taxes, or delinquency amounts previously deducted or credited by the distributor or transferor corporation, the acquiring corporation shall include in its income such amounts as would have been includible by the distributor or transferor corporation in accordance with section 111 (relating to the recovery of bad debts, prior taxes, and delinquency amounts)."
 
 Subsec. (c)(25), (26). Pub. L. 99–514, §231(d)(3)(F), redesignated par. (26) as (25). Former par. (25), relating to credit under section 30, was struck out.
 
@@ -188,7 +188,7 @@ Subsec. (c)(27). Pub. L. 99–514, §701(e)(1), added par. (27).
 
 Subsec. (c)(24). Pub. L. 98–369, §474(r)(11)(B), redesignated par. (28) as (24). Former par. (24), relating to credit under section 40 for work incentive program expenses, was struck out.
 
-Subsec. (c)(25). Pub. L. 98–369, §474(r)(11)(B), (C), redesignated par. (29) as (25), and substituted “30” for “44F” wherever appearing in heading and text. Former par. (25) redesignated (23).
+Subsec. (c)(25). Pub. L. 98–369, §474(r)(11)(B), (C), redesignated par. (29) as (25), and substituted "30" for "44F" wherever appearing in heading and text. Former par. (25) redesignated (23).
 
 Subsec. (c)(26). Pub. L. 98–369, §474(r)(11)(D), added par. (26). Former par. (26), relating to credit under section 44B for employment of certain new employees, was struck out.
 
@@ -198,13 +198,13 @@ Subsec. (c)(28), (29). Pub. L. 98–369, §474(r)(11)(B), redesignated pars. (28
 
 Subsec. (c)(30). Pub. L. 98–369, §474(r)(11)(A), struck out par. (30) relating to credit under section 44G.
 
-Subsec. (d). Pub. L. 98–369, §211(b)(4), substituted “section 810” for “section 812(f)”.
+Subsec. (d). Pub. L. 98–369, §211(b)(4), substituted "section 810" for "section 812(f)".
 
 <b>1983</b>—Subsec. (c)(28), (29). Pub. L. 97–448, §102(h)(3), redesignated par. (28), relating to credit under section 44F, as (29). Former par. (29) redesignated (30).
 
 Subsec. (c)(30). Pub. L. 97–448, §103(g)(2)(F), redesignated former par. (29), relating to credit under section 44G, as (30).
 
-<b>1982</b>—Subsec. (a)(1). Pub. L. 97–248 struck out “, except in a case in which the basis of the assets distributed is determined under section 334(b)(2)” after “applies”.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–248 struck out ", except in a case in which the basis of the assets distributed is determined under section 334(b)(2)" after "applies".
 
 <b>1981</b>—Subsec. (c)(28). Pub. L. 97–34, §208, added par. (28) relating to recovery allowance for recovery property.
 
@@ -214,45 +214,45 @@ Subsec. (c)(29). Pub. L. 97–34, §331(d)(1)(B), added par. (29).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–589, §4(g)(2), inserted provisions that a reorganization shall be treated as meeting the requirements of subparagraph (D) or (G) of section 368(a)(1) only if the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met.
 
-Subsec. (a)(2). Pub. L. 96–589, §4(g)(1), substituted “subparagraph (A), (C), (D), (F), or (G) of section 368(a)(1)” for “subparagraph (A), (C), (D) (but only if the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met), or (F) of section 368(a)(1)”.
+Subsec. (a)(2). Pub. L. 96–589, §4(g)(1), substituted "subparagraph (A), (C), (D), (F), or (G) of section 368(a)(1)" for "subparagraph (A), (C), (D) (but only if the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met), or (F) of section 368(a)(1)".
 
-Subsec. (c)(8). Pub. L. 96–471 substituted “reports on the installment basis under section 453 or 453A” for “has elected, under section 453, to report on the installment basis” and “for purposes of section 453 or 453A” for “for purposes of section 453.”
+Subsec. (c)(8). Pub. L. 96–471 substituted "reports on the installment basis under section 453 or 453A" for "has elected, under section 453, to report on the installment basis" and "for purposes of section 453 or 453A" for "for purposes of section 453."
 
 Subsec. (c)(27). Pub. L. 96–223 added par. (27).
 
-<b>1978</b>—Subsec. (c)(25). Pub. L. 95–600 substituted “regulated investment company or real estate investment trust” for “real estate investment trust” in heading, and in text “section 860(f)” for “section 859(d)” and “section 860” for “section 859”.
+<b>1978</b>—Subsec. (c)(25). Pub. L. 95–600 substituted "regulated investment company or real estate investment trust" for "real estate investment trust" in heading, and in text "section 860(f)" for "section 859(d)" and "section 860" for "section 859".
 
 <b>1977</b>—Subsec. (c)(26). Pub. L. 95–30 added par. (26).
 
-<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (c)(3). Pub. L. 94–455, §1901(b)(33)(N), substituted in subpars. (B) and (C) “capital gain net income” for “net capital gain”.
+Subsec. (c)(3). Pub. L. 94–455, §1901(b)(33)(N), substituted in subpars. (B) and (C) "capital gain net income" for "net capital gain".
 
-Subsec. (c)(4), (5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c)(4), (5). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (c)(10). Pub. L. 94–455, §1901(b)(21(B), among other changes, substituted reference to section 616 (relating to certain development expenditures) if the distributor or transferor corporation has so elected for reference to sections 615 and 616 (relating to pre-1970 exploration expenditures and development expenditures, respectively) if the distributor or transferor corporation has so elected and struck out provisions that if, for any taxable year, the distributor of transferor corporation was allowed or made the election of the deduction under section 615 of this title, the acquiring corporation shall be deemed to have been allowed or to have made such election of the deduction under section 615 of this title.
 
-Subsec. (c)(15). Pub. L. 94–455, §1901(b)(17), substituted “subsection (c)” for “subsections (b)(7) and (c)”.
+Subsec. (c)(15). Pub. L. 94–455, §1901(b)(17), substituted "subsection (c)" for "subsections (b)(7) and (c)".
 
 Subsec. (c)(20). Pub. L. 94–455, §1901(a)(54), struck out par. (20) which related to carry-over of unused pension trust deductions in certain cases.
 
 Subsec. (c)(21). Pub. L. 94–455, §1901(b)(16), struck out par. (21) which related to pre-1954 adjustments resulting from change in method of accounting.
 
-Subsec. (c)(22) to (24). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c)(22) to (24). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (c)(25). Pub. L. 94–455, §1601(e), added par. (25).
 
 <b>1971</b>—Subsec. (c)(24). Pub. L. 92–178 added par. (24).
 
-<b>1969</b>—Subsec. (b)(3). Pub. L. 91–172, §512(c), substituted “a net operating loss or a net capital loss” for “a net operating loss”.
+<b>1969</b>—Subsec. (b)(3). Pub. L. 91–172, §512(c), substituted "a net operating loss or a net capital loss" for "a net operating loss".
 
-Subsec. (c)(6). Pub. L. 91–172, §521(f), substituted “subsections (b), (j) and (k) of section 167” for “paragraphs (2), (3) and (4) of section 167(b)” and inserted reference to adjusted basis in the hand of the distributor or transferor corporation.
+Subsec. (c)(6). Pub. L. 91–172, §521(f), substituted "subsections (b), (j) and (k) of section 167" for "paragraphs (2), (3) and (4) of section 167(b)" and inserted reference to adjusted basis in the hand of the distributor or transferor corporation.
 
-Subsec. (c)(10). Pub. L. 91–172, §504(c)(2), substituted “Treatment of certain mining exploration and development expenses of distributor or transferor corporation” for “Treatment of certain expenses deferred by the election of distributor or transferor corporation” in heading, limited deduction of expenses deferred under sections 615 and 616 of this title by the acquiring corporation as if it were the distributor or transferor corporation to pre-1970 exploration and development expenditures, and inserted provision that if distributor or transferor corporation, for any taxable year, was allowed the deduction in sections 615(a) or 617(a) of this title or made the election provided in section 615(b) of this title, acquiring corporation shall be deemed to have been allowed such deduction or deductions or to have made such election, as the case may be, for the purpose of applying the limitation provided in section 617 of this title.
+Subsec. (c)(10). Pub. L. 91–172, §504(c)(2), substituted "Treatment of certain mining exploration and development expenses of distributor or transferor corporation" for "Treatment of certain expenses deferred by the election of distributor or transferor corporation" in heading, limited deduction of expenses deferred under sections 615 and 616 of this title by the acquiring corporation as if it were the distributor or transferor corporation to pre-1970 exploration and development expenditures, and inserted provision that if distributor or transferor corporation, for any taxable year, was allowed the deduction in sections 615(a) or 617(a) of this title or made the election provided in section 615(b) of this title, acquiring corporation shall be deemed to have been allowed such deduction or deductions or to have made such election, as the case may be, for the purpose of applying the limitation provided in section 617 of this title.
 
 <b>1968</b>—Subsec. (c)(22). Pub. L. 90–240 substituted successor insurance companies for successor life insurance companies as the business enterprise covered, substituted reference to insurance companies taxable under subchapter L for reference to life insurance companies as defined in section 801(a), and substituted reference to the purposes of this section and of subchapter L for reference to the purposes of this section and part I of subchapter L.
 
-<b>1964</b>—Subsec. (c)(15). Pub. L. 88–272, §225(i)(3), substituted “subsections (b)(7) and (c) of section 545, relating to deductions with respect to payment of certain indebtedness” for “section 545(b)(7), relating to a deduction for payment of certain indebtedness incurred before Jan. 1, 1934”.
+<b>1964</b>—Subsec. (c)(15). Pub. L. 88–272, §225(i)(3), substituted "subsections (b)(7) and (c) of section 545, relating to deductions with respect to payment of certain indebtedness" for "section 545(b)(7), relating to a deduction for payment of certain indebtedness incurred before Jan. 1, 1934".
 
 Subsec. (c)(19). Pub. L. 88–272, §209(d)(2), permitted deductions for contributions made in the taxable year and in 4 prior taxable years, instead of one prior taxable year, and provided that each taxable year beginning on or before the distribution or transfer date shallbe treated as a prior taxable year with reference to the acquiring corporation's taxable years beginning after such date.
 
@@ -336,7 +336,7 @@ Amendment by section 1901(a)(54), (b)(16), (17), (21)(B), (33)(N) of Pub. L. 94�
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 92–178, title VI, §601(f), Dec. 10, 1971, 85 Stat. 560, provided that: “The amendments made by this section \[enacting sections 40, 50A, and 50B of this title and amending this section and sections 56, 6411, 6501, 6511, 6601, and 6611 of this title\] shall apply to taxable years beginning after December 31, 1971.”
+Pub. L. 92–178, title VI, §601(f), Dec. 10, 1971, 85 Stat. 560, provided that: "The amendments made by this section \[enacting sections 40, 50A, and 50B of this title and amending this section and sections 56, 6411, 6501, 6511, 6601, and 6611 of this title\] shall apply to taxable years beginning after December 31, 1971."
 
 #### Effective Date of 1969 Amendment
 
@@ -362,7 +362,7 @@ Amendment by Pub. L. 87–834 applicable with respect to taxable years ending af
 
 #### Effective Date of 1959 Amendment
 
-Pub. L. 86–69, §4, June 25, 1959, 73 Stat. 141, provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[amending this section, part I (§801 et seq.) of subchapter L, and sections 841, 842, 891, 1016, 1201, 1232, 1504, 4371, and 6501 of this title\] shall apply only with respect to taxable years beginning after December 31, 1957.”
+Pub. L. 86–69, §4, June 25, 1959, 73 Stat. 141, provided that: "Except as otherwise provided in this Act, the amendments made by this Act \[amending this section, part I (§801 et seq.) of subchapter L, and sections 841, 842, 891, 1016, 1201, 1232, 1504, 4371, and 6501 of this title\] shall apply only with respect to taxable years beginning after December 31, 1957."
 
 #### Effective Date of 1958 Amendment
 
@@ -370,11 +370,11 @@ For effective date of amendment by Pub. L. 85–866, see section 29(d) of Pub. L
 
 #### Effective Date of 1956 Amendment
 
-Act Jan. 28, 1956, ch. 15, §2, 70 Stat. 7, provided that: “The amendments made by the first section of this Act \[amending this section\] shall reply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Act Jan. 28, 1956, ch. 15, §2, 70 Stat. 7, provided that: "The amendments made by the first section of this Act \[amending this section\] shall reply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954."
 
 #### Effective Date of 1955 Amendment
 
-Act June 15, 1955, ch. 143, §3, 69 Stat. 135, provided that: “The amendments made by this Act \[amending this section and repealing sections 452 and 462 of this title\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Act June 15, 1955, ch. 143, §3, 69 Stat. 135, provided that: "The amendments made by this Act \[amending this section and repealing sections 452 and 462 of this title\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954."
 
 #### Savings Provision
 
@@ -382,63 +382,63 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 Act June 15, 1955, ch. 143, §4, 69 Stat. 135, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, provided:
 
-“(a)
+"(a)
 
 Filing of Statement.—If—
 
-&emsp;“(1) the amount of any tax required to be paid for any taxable year ending on or before the date of the enactment of this Act \[June 15, 1955\] is increased by reason of the enactment of this Act \[amending this section and repealing sections 452 and 462\], and
+&emsp;"(1) the amount of any tax required to be paid for any taxable year ending on or before the date of the enactment of this Act \[June 15, 1955\] is increased by reason of the enactment of this Act \[amending this section and repealing sections 452 and 462\], and
 
-&emsp;“(2) the last date prescribed for payment of such tax (or any installment thereof) is before December 15, 1955, then the taxpayer shall, on or before December 15, 1955, file a statement which shows the increase in the amount of such tax required to be paid by reason of the enactment of this Act.
+&emsp;"(2) the last date prescribed for payment of such tax (or any installment thereof) is before December 15, 1955, then the taxpayer shall, on or before December 15, 1955, file a statement which shows the increase in the amount of such tax required to be paid by reason of the enactment of this Act.
 
-“(b)
+"(b)
 
 Form and Effect of Statement.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Form of statement, etc.—The statement required by subsection (a) shall be filed at the place fixed for filing the return. Such statement shall be in such form, and shall include such information necessary or appropriate to show the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act, as the Secretary of the Treasury or his delegate shall by regulations prescribe.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Treatment as amount shown on return.—The amount shown on a statement filed under subsection (a) as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act shall, for all purposes of the internal revenue laws, be treated as tax shown on the return. Notwithstanding the preceding sentence, that portion of the amount of increase in tax for any taxable year which is attributable to a decrease (by reason of the enactment of this Act) in the net operating loss for a succeeding taxable year shall not be treated as tax shown on the return.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Waiver of interest in case of payment on or before december 15, 1955.—If the taxpayer, on or before December 15, 1955, files the statement referred to in subsection (a) and pays in full that portion of the amount shown thereon for which the last date prescribed for payment is before December 15, 1955, then for purposes of computing interest (other than interest on overpayments) such portion shall be treated as having been paid on the last date prescribed for payment. This paragraph shall not apply if the amount shown on the statement as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act is greater than the actual increase unless the taxpayer establishes, to the satisfaction of the Secretary of the Treasury or his delegate, that his computation of the greater amount was based upon a reasonable interpretation and application of sections 452 and 462 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[sections 452 and 462 of this title\], as those sections existed before the enactment of this Act.
 
-“(c)
+"(c)
 
 Special Rules.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Interest for period before enactment.—Interest shall not be imposed on the amount of any increase in tax resulting from the enactment of this Act for any period before the day after the date of the enactment of this Act \[June 15, 1955\].
 
-&emsp;“(2)
+&emsp;"(2)
 
 Estimated tax.—Any addition to the tax under section 294(d) of the Internal Revenue Code of 1939 \[section 294(d) of former Title 26, Internal Revenue Code\], shall be computed as if this Act had not been enacted. In the case of any installment for which the last date prescribed for payment is before December 15, 1955, any addition to the tax under section 6654 of the Internal Revenue Code of 1986 \[section 6654 of this title\], shall be computed as if this Act had not been enacted.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Treatment of certain payments which taxpayer is required to make.—If—
 
-&emsp;&emsp;“(A) the taxpayer is required to make a payment (or an additional payment) to another person by reason of the enactment of this Act, and
+&emsp;&emsp;"(A) the taxpayer is required to make a payment (or an additional payment) to another person by reason of the enactment of this Act, and
 
-&emsp;&emsp;“(B) the Internal Revenue Code of 1986 \[this title\] prescribes a period, which expires after the close of the taxable year, within which the taxpayer must make such payment (or additional payment) if the amount thereof is to be taken into account (as a deduction or otherwise) in computing taxable income for such taxable year,
+&emsp;&emsp;"(B) the Internal Revenue Code of 1986 \[this title\] prescribes a period, which expires after the close of the taxable year, within which the taxpayer must make such payment (or additional payment) if the amount thereof is to be taken into account (as a deduction or otherwise) in computing taxable income for such taxable year,
 
 > &emsp;then, subject to such regulations as the Secretary of the Treasury or his delegate may prescribe, if such payment (or additional payment) is made on or before December 15, 1955, it shall be treated as having been made within the period prescribed by such Code.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Treatment of certain dividends.—Subject to such regulations as the Secretary of the Treasury or his delegate may prescribe, for purposes of section 561(a)(1) of the Internal Revenue Code of 1986 \[section 561(a)(1) of this title\], dividends paid after the 15th day of the third month following the close of the taxable year and on or before December 15, 1955, may be treated as having been paid on the last day of the taxable year, but only to the extent (A) that such dividends are attributable to an increase in taxable income for the taxable year resulting from the enactment of this Act, and (B) elected by the taxpayer.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Determination of date prescribed.—For purposes of this section, the determination of the last date prescribed for payment or for filing a return shall be made without regard to any extension of time therefor and without regard to any provision of this section.
 
-&emsp;“(6)
+&emsp;"(6)
 
-Regulations.—For requirement that the Secretary of the Treasury or his delegate shall prescribe all rules and regulations as may be necessary by reason of the enactment of this Act, see section 7805(a) of the Internal Revenue Code of 1986 \[section 7805(a) of this title\].”
+Regulations.—For requirement that the Secretary of the Treasury or his delegate shall prescribe all rules and regulations as may be necessary by reason of the enactment of this Act, see section 7805(a) of the Internal Revenue Code of 1986 \[section 7805(a) of this title\]."
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

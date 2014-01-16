@@ -20,7 +20,7 @@
 
 #### (B) Consultation and coordination
 
-&emsp;&emsp;An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the application that the entity has consulted with the State agency responsible for administering the State TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce investment board established under section 2821 of title 29, and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”) \[29 U.S.C. 50 et seq.\] (or if no agency has been recognized in the State, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
+&emsp;&emsp;An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the application that the entity has consulted with the State agency responsible for administering the State TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce investment board established under section 2821 of title 29, and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act") \[29 U.S.C. 50 et seq.\] (or if no agency has been recognized in the State, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
 
 #### (C) Assurance of opportunities for Indian populations
 
@@ -30,7 +30,7 @@
 
 #### (A) Eligible entities
 
-&emsp;&emsp;An eligible entity awarded a grant to conduct a demonstration project under this subsection shall submit interim reports to the Secretary on the activities carried out under the project and a final report on such activities upon the conclusion of the entities’ participation in the project. Such reports shall include assessments of the effectiveness of such activities with respect to improving outcomes for the eligible individuals participating in the project and with respect to addressing health professions workforce needs in the areas in which the project is conducted.
+&emsp;&emsp;An eligible entity awarded a grant to conduct a demonstration project under this subsection shall submit interim reports to the Secretary on the activities carried out under the project and a final report on such activities upon the conclusion of the entities' participation in the project. Such reports shall include assessments of the effectiveness of such activities with respect to improving outcomes for the eligible individuals participating in the project and with respect to addressing health professions workforce needs in the areas in which the project is conducted.
 
 #### (B) Evaluation
 
@@ -46,13 +46,13 @@
 
 #### (A) Eligible entity
 
-&emsp;&emsp;The term “eligible entity” means a State, an Indian tribe or tribal organization, an institution of higher education, a local workforce investment board established under section 2832 of title 29, a sponsor of an apprenticeship program registered under the National Apprenticeship Act \[29 U.S.C. 50 et seq.\] or a community-based organization.
+&emsp;&emsp;The term "eligible entity" means a State, an Indian tribe or tribal organization, an institution of higher education, a local workforce investment board established under section 2832 of title 29, a sponsor of an apprenticeship program registered under the National Apprenticeship Act \[29 U.S.C. 50 et seq.\] or a community-based organization.
 
 #### (B) Eligible individual
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “eligible individual” means a <sup>1</sup> individual receiving assistance under the State TANF program.
+&emsp;&emsp;&emsp;The term "eligible individual" means a <sup>1</sup> individual receiving assistance under the State TANF program.
 
 #### (ii) Other low-income individuals
 
@@ -60,23 +60,23 @@
 
 #### (C) Indian tribe; tribal organization
 
-&emsp;&emsp;The terms “Indian tribe” and “tribal organization” have the meaning given such terms in section 450b of title 25.
+&emsp;&emsp;The terms "Indian tribe" and "tribal organization" have the meaning given such terms in section 450b of title 25.
 
 #### (D) Institution of higher education
 
-&emsp;&emsp;The term “institution of higher education” has the meaning given that term in section 1001 of title 20.
+&emsp;&emsp;The term "institution of higher education" has the meaning given that term in section 1001 of title 20.
 
 #### (E) State
 
-&emsp;&emsp;The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, and American Samoa.
+&emsp;&emsp;The term "State" means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, and American Samoa.
 
 #### (F) State TANF program
 
-&emsp;&emsp;The term “State TANF program” means the temporary assistance for needy families program funded under part A of subchapter IV.
+&emsp;&emsp;The term "State TANF program" means the temporary assistance for needy families program funded under part A of subchapter IV.
 
 #### (G) Tribal College or University
 
-&emsp;&emsp;The term “Tribal College or University” has the meaning given that term in section 1059c(b)of title 20.
+&emsp;&emsp;The term "Tribal College or University" has the meaning given that term in section 1059c(b)of title 20.
 
 #### (b) Demonstration project to develop training and certification programs for personal or home care aides
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;&emsp;(iv) Trainer qualifications.
 
-&emsp;&emsp;&emsp;(v) Content for a “hands-on” and written certification exam.
+&emsp;&emsp;&emsp;(v) Content for a "hands-on" and written certification exam.
 
 &emsp;&emsp;&emsp;(vi) Continuing education requirements.
 
@@ -214,7 +214,7 @@
 
 #### (A) Eligible health and long-term care provider
 
-&emsp;&emsp;The term “eligible health and long-term care provider” means a personal or home care agency (including personal or home care public authorities), a nursing home, a home health agency (as defined in section 1395x(o) of this title), or any other health care provider the Secretary determines appropriate which—
+&emsp;&emsp;The term "eligible health and long-term care provider" means a personal or home care agency (including personal or home care public authorities), a nursing home, a home health agency (as defined in section 1395x(o) of this title), or any other health care provider the Secretary determines appropriate which—
 
 &emsp;&emsp;&emsp;(i) is licensed or authorized to provide services in a participating State; and
 
@@ -222,15 +222,15 @@
 
 #### (B) Personal care services
 
-&emsp;&emsp;The term “personal care services” has the meaning given such term for purposes of subchapter XIX.
+&emsp;&emsp;The term "personal care services" has the meaning given such term for purposes of subchapter XIX.
 
 #### (C) Personal or home care aide
 
-&emsp;&emsp;The term “personal or home care aide” means an individual who helps individuals who are elderly, disabled, ill, or mentally disabled (including an individual with Alzheimer's disease or other dementia) to live in their own home or a residential care facility (such as a nursing home, assisted living facility, or any other facility the Secretary determines appropriate) by providing routine personal care services and other appropriate services to the individual.
+&emsp;&emsp;The term "personal or home care aide" means an individual who helps individuals who are elderly, disabled, ill, or mentally disabled (including an individual with Alzheimer's disease or other dementia) to live in their own home or a residential care facility (such as a nursing home, assisted living facility, or any other facility the Secretary determines appropriate) by providing routine personal care services and other appropriate services to the individual.
 
 #### (D) State
 
-&emsp;&emsp;The term “State” has the meaning given that term for purposes of subchapter XIX.
+&emsp;&emsp;The term "State" has the meaning given that term for purposes of subchapter XIX.
 
 #### (c) Funding
 
@@ -262,9 +262,9 @@ Part A of subchapter IV, referred to in subsec. (a)(4)(F), is classified to §60
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d). Pub. L. 111–148, §6703(d)(1)(B), which directed substitution of “this division” for “this subchapter” wherever appearing in subtitle 1 of title XX of act Aug. 14, 1935, was executed by making the substitution in two places in subsec. (d) of this section, which is in subtitle A of title XX act Aug. 14, 1935, to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (d). Pub. L. 111–148, §6703(d)(1)(B), which directed substitution of "this division" for "this subchapter" wherever appearing in subtitle 1 of title XX of act Aug. 14, 1935, was executed by making the substitution in two places in subsec. (d) of this section, which is in subtitle A of title XX act Aug. 14, 1935, to reflect the probable intent of Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 

@@ -25,13 +25,13 @@ Not later than 24 months after November 15, 1990, the Administrator shall promul
 
 #### (2) Clean alternative fuels
 
-&emsp;(A) Within 2 years after November 15, 1990, the State of California shall submit a revision of the applicable implementation plan under part D of subchapter I of this chapter and section 7410 of this title containing a clean fuel plan that requires that clean alternative fuels on which the clean-fuel vehicles required under this paragraph can operate shall be produced and distributed by fuel suppliers and made available in California. At a minimum, sufficient clean alternative fuels shall be produced, distributed and made available to assure that all clean-fuel vehicles required under this section can operate, to the maximum extent practicable, exclusively on such fuels in California. The State shall require that clean alternative fuels be made available and offered for sale at an adequate number of locations with sufficient geographic distribution to ensure convenient refueling with clean alternative fuels, considering the number of, and type of, such vehicles sold and the geographic distribution of such vehicles within the State. The State shall determine the clean alternative fuels to be produced, distributed, and made available based on motor vehicle manufacturers’ projections of future sales of such vehicles and consultations with the affected local governments and fuel suppliers.
+&emsp;(A) Within 2 years after November 15, 1990, the State of California shall submit a revision of the applicable implementation plan under part D of subchapter I of this chapter and section 7410 of this title containing a clean fuel plan that requires that clean alternative fuels on which the clean-fuel vehicles required under this paragraph can operate shall be produced and distributed by fuel suppliers and made available in California. At a minimum, sufficient clean alternative fuels shall be produced, distributed and made available to assure that all clean-fuel vehicles required under this section can operate, to the maximum extent practicable, exclusively on such fuels in California. The State shall require that clean alternative fuels be made available and offered for sale at an adequate number of locations with sufficient geographic distribution to ensure convenient refueling with clean alternative fuels, considering the number of, and type of, such vehicles sold and the geographic distribution of such vehicles within the State. The State shall determine the clean alternative fuels to be produced, distributed, and made available based on motor vehicle manufacturers' projections of future sales of such vehicles and consultations with the affected local governments and fuel suppliers.
 
 &emsp;(B) The State may by regulation grant persons subject to the requirements prescribed under this paragraph an appropriate amount of credits for exceeding such requirements, and any person granted credits may transfer some or all of the credits for use by one or more persons in demonstrating compliance with such requirements. The State may make the credits available for use after consideration of enforceability, environmental, and economic factors and upon such terms and conditions as the State finds appropriate.
 
 &emsp;(C) The State may also by regulation establish specifications for any clean alternative fuel produced and made available under this paragraph as the State finds necessary to reduce or eliminate an unreasonable risk to public health, welfare, or safety associated with its use or to ensure acceptable vehicle maintenance and performance characteristics.
 
-&emsp;(D) If a retail gasoline dispensing facility would have to remove or replace one or more motor vehicle fuel underground storage tanks and accompanying piping in order to comply with the provisions of this section, and it had removed and replaced such tank or tanks and accompanying piping in order to comply with subtitle I of the Solid Waste Disposal Act \[42 U.S.C. 6991 et seq.\] prior to November 15, 1990, it shall not be required to comply with this subsection until a period of 7 years has passed from the date of the removal and replacement of such tank or tanks.
+&emsp;(D) If a retail gasoline dispensing facility would have to remove or replace one or moremotor vehicle fuel underground storage tanks and accompanying piping in order to comply with the provisions of this section, and it had removed and replaced such tank or tanks and accompanying piping in order to comply with subtitle I of the Solid Waste Disposal Act \[42 U.S.C. 6991 et seq.\] prior to November 15, 1990, it shall not be required to comply with this subsection until a period of 7 years has passed from the date of the removal and replacement of such tank or tanks.
 
 &emsp;(E) Nothing in this section authorizes any State other than California to adopt provisions regarding clean alternative fuels.
 
@@ -99,13 +99,13 @@ Standards for issuing credits for cleaner vehicles.—The more stringent standar
 
 The Solid Waste Disposal Act, referred to in subsec. (c)(2)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle I of the Act is classified generally to subchapter IX (§6991 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-November 15, 1990, referred to in subsec. (e)(3), was in the original “the date of the Clean Air Act Amendments of 1990”, which was translated as meaning the date of enactment of Pub. L. 101–549, which enacted this section, to reflect the probable intent of Congress.
+November 15, 1990, referred to in subsec. (e)(3), was in the original "the date of the Clean Air Act Amendments of 1990", which was translated as meaning the date of enactment of Pub. L. 101–549, which enacted this section, to reflect the probable intent of Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “clean-fuel”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "clean-fuel".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section 7586(f)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "section 7586(f)".</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “part”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "part".</i>
 

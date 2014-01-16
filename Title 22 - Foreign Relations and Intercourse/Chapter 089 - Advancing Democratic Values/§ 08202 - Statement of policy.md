@@ -8,7 +8,7 @@ It is the policy of the United States—
 
 &emsp;(3) to protect and promote such fundamental freedoms and rights, including the freedoms of association, of expression, of the press, and of religion, and the right to own private property;
 
-&emsp;(4) to commit to the long-term challenge of promoting universal democracy by promoting democratic institutions, including institutions that support the rule of law (such as an independent judiciary), an independent and professional media, strong legislatures, a thriving civil society, transparent and professional independent governmental auditing agencies, civilian control of the military, and institutions that promote the rights of minorities and women;
+&emsp;(4) to commit to the long-term challenge of promoting universal democracy by promoting democratic institutions, including institutions that support the rule of law (such as an independent judiciary), an independent and professional media, strong legislatures, a thriving civil society, transparent and professionalindependent governmental auditing agencies, civilian control of the military, and institutions that promote the rights of minorities and women;
 
 &emsp;(5) to use instruments of United States influence to support, promote, and strengthen democratic principles, practices, and values, including the right to free, fair, and open elections, secret balloting, and universal suffrage, including by—
 

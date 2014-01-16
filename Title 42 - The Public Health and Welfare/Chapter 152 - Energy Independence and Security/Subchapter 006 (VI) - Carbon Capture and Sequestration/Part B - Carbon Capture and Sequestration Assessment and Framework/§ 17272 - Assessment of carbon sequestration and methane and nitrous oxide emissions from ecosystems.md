@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Adaptation strategy
 
-&emsp;The term “adaptation strategy” means a land use and management strategy that can be used—
+&emsp;The term "adaptation strategy" means a land use and management strategy that can be used—
 
 &emsp;&emsp;(A) to increase the sequestration capabilities of covered greenhouse gases of any ecosystem; or
 
@@ -14,23 +14,23 @@ In this section:
 
 #### (2) Assessment
 
-&emsp;The term “assessment” means the national assessment authorized under subsection (b).
+&emsp;The term "assessment" means the national assessment authorized under subsection (b).
 
 #### (3) Covered greenhouse gas
 
-&emsp;The term “covered greenhouse gas” means carbon dioxide, nitrous oxide, and methane gas.
+&emsp;The term "covered greenhouse gas" means carbon dioxide, nitrous oxide, and methane gas.
 
 #### (4) Ecosystem
 
-&emsp;The term “ecosystem” means any terrestrial, freshwater aquatic, or coastal ecosystem, including an estuary.
+&emsp;The term "ecosystem" means any terrestrial, freshwater aquatic, or coastal ecosystem, including an estuary.
 
 #### (5) Native plant species
 
-&emsp;The term “native plant species” means any noninvasive, naturally occurring plant species within an ecosystem.
+&emsp;The term "native plant species" means any noninvasive, naturally occurring plant species within an ecosystem.
 
 #### (6) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 #### (b) Authorization of assessment
 

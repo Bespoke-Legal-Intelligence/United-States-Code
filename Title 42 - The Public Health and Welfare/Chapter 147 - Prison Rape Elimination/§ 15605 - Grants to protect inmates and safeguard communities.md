@@ -24,7 +24,7 @@ Amounts received by a grantee under this section may be used by the grantee, dir
 
 &emsp;&emsp;(A) making available, to officials of State and local governments who are considering reductions to prison budgets, training and technical assistance in successful methods for moderating the growth of prison populations without compromising public safety, including successful methods used by other jurisdictions;
 
-&emsp;&emsp;(B) developing and utilizing analyses of prison populations and risk assessment instruments that will improve State and local governments’ understanding of risks to the community regarding release of inmates in the prison population;
+&emsp;&emsp;(B) developing and utilizing analyses of prison populations and risk assessment instruments that will improve State and local governments' understanding of risks to the community regarding release of inmates in the prison population;
 
 &emsp;&emsp;(C) preparing maps demonstrating the concentration, on a community-by-community basis, of inmates who have been released, to facilitate the efficient and effective—
 
@@ -92,7 +92,7 @@ Amounts received by a grantee under this section may be used by the grantee, dir
 
 #### (f) State defined
 
-In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
+In this section, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
 
 #### (g) Authorization of appropriations
 

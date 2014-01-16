@@ -10,7 +10,7 @@
 
 (e) No retired justice or judge shall perform judicial duties except when designated and assigned.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; July 9, 1956, ch. 517, §1(c), 70 Stat. 497; Pub. L. 85–219, Aug. 29,1957, 71 Stat. 495; Pub. L. 85–755, §5, Aug. 25, 1958, 72 Stat. 849; Pub. L. 95–598, title II, §206, Nov. 6, 1978, 92 Stat. 2660.)
+(June 25, 1948, ch. 646, 62 Stat. 901; July 9, 1956, ch. 517, §1(c), 70 Stat. 497; Pub. L. 85–219, Aug. 29, 1957, 71 Stat. 495; Pub. L. 85–755, §5, Aug. 25, 1958, 72 Stat. 849; Pub. L. 95–598, title II, §206, Nov. 6, 1978, 92 Stat. 2660.)
 
 #### Historical and Revision Notes
 
@@ -18,17 +18,17 @@ Based on title 28, U.S.C., 1940 ed., §§375, 375a, and 375f (Mar. 3, 1911, ch. 
 
 Section consolidates those parts of sections 375, 375a, and 375f of title 28, U.S.C., 1940 ed., relating to designation and assignment of retired justices and judges. Other provisions of said sections 375 and 375a, appear in sections 136, 371, and 756 of this title.
 
-The term “chief judge” was substituted for “presiding judge or senior judge.” (See Reviser's Note under section 136 of this title.)
+The term "chief judge" was substituted for "presiding judge or senior judge." (See Reviser's Note under section 136 of this title.)
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>1978</b>—Subsecs. (c), (d). Pub. L. 95–598 directed the amendment of subsec. (c) by substituting “district or bankruptcy judge” for “or district” and the amendment of subsec. (d) by substituting “, district judge or bankruptcy judge” for “or district judge”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsecs. (c), (d). Pub. L. 95–598 directed the amendment of subsec. (c) by substituting "district or bankruptcy judge" for "or district" and the amendment of subsec. (d) by substituting ", district judge or bankruptcy judge" for "or district judge", which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–755 reenacted subsec. (a) without change.
 
-Subsecs. (b) to (d). Pub. L. 85–755 revised and rearranged subject matter to apply “senior judge” to all judges who retire from regular active service under sections 371(b) and 372(a) of this title, while retaining their commissions, rather than merely to those who ask to be placed on the Chief Justice's roster, to lodge solely in the chief judge and judicial council of the circuit concerned the intracircuit assignment power, and in the Chief Justice the power to assign retired judges beyond their circuits or special courts.
+Subsecs. (b) to (d). Pub. L. 85–755 revised and rearranged subject matter to apply "senior judge" to all judges who retire from regular active service under sections 371(b) and 372(a) of this title, while retaining their commissions, rather than merely to those who ask to be placed on the Chief Justice's roster, to lodge solely in the chief judge and judicial council of the circuit concerned the intracircuit assignment power, and in the Chief Justice the power to assign retired judges beyond their circuits or special courts.
 
 Subsec. (e). Pub. L. 85–755 reenacted subsec. (e) without change.
 

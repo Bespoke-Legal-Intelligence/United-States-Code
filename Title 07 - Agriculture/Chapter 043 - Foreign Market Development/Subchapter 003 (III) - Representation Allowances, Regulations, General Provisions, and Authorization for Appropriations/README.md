@@ -12,4 +12,4 @@
 - [&sect; 01766c - Allowances and benefits](%C2%A7%2001766c%20-%20Allowances%20and%20benefits.md)
 - [&sect; 01767 - Authorization of appropriations](%C2%A7%2001767%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 01768 - Foreign Operations Administration unaffected](%C2%A7%2001768%20-%20Foreign%20Operations%20Administration%20unaffected.md)
-- [&sect; 01769 - &#8220;Agricultural commodity&#8221; defined](%C2%A7%2001769%20-%20%E2%80%9CAgricultural%20commodity%E2%80%9D%20defined.md)
+- [&sect; 01769 - Agricultural commodity defined](%C2%A7%2001769%20-%20Agricultural%20commodity%20defined.md)

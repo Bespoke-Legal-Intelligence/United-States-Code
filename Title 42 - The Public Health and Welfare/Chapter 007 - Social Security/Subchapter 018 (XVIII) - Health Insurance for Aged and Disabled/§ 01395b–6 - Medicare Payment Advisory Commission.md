@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established as an agency of Congress the Medicare Payment Advisory Commission (in this section referred to as the “Commission”).
+There is hereby established as an agency of Congress the Medicare Payment Advisory Commission (in this section referred to as the "Commission").
 
 #### (b) Duties
 
@@ -68,7 +68,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (7) Appropriate committees of Congress
 
-&emsp;For purposes of this section, the term “appropriate committees of Congress” means the Committees on Ways and Means and Commerce of the House of Representatives and the Committee on Finance of the Senate.
+&emsp;For purposes of this section, the term "appropriate committees of Congress" means the Committees on Ways and Means and Commerce of the House of Representatives and the Committee on Finance of the Senate.
 
 #### (8) Voting and reporting requirements
 
@@ -80,7 +80,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (9) <sup>2</sup> Review and annual report on Medicaid and commercial trends
 
-&emsp;The Commission shall review and report on aggregate trends in spending, utilization, and financial performance under the Medicaid program under subchapter XIX and the private market for health care services with respect to providers for which, on an aggregate national basis, a significant portion of revenue or services is associated with the Medicaid program. Where appropriate, the Commission shall conduct such review in consultation with the Medicaid and CHIP Payment and Access Commission established under section 1396 of this title (in this section referred to as “MACPAC”).
+&emsp;The Commission shall review and report on aggregate trends in spending, utilization, and financial performance under the Medicaid program under subchapter XIX and the private market for health care services with respect to providers for which, on an aggregate national basis, a significant portion of revenue or services is associated with the Medicaid program. Where appropriate, the Commission shall conduct such review in consultation with the Medicaid and CHIP Payment and Access Commission established under section 1396 of this title (in this section referred to as "MACPAC").
 
 #### (10) Coordinate and consult with the Federal Coordinated Health Care Office
 
@@ -122,7 +122,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (B) Vacancies
 
-&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serveafter the expiration of that member's term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
 #### (4) Compensation
 
@@ -140,7 +140,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 Subject to such review as the Comptroller General deems necessary to assure the efficient administration of the Commission, the Commission may—
 
-&emsp;(1) employ and fix the compensation of an Executive Director (subject to the approval of the Comptroller General) and such other personnel as may be necessary to carry out its duties (without regard to the provisions of title 5 governing appointments in the competitive service);
+&emsp;(1) employ and fix the compensation of an Executive Director (subject to the approval ofthe Comptroller General) and such other personnel as may be necessary to carry out its duties (without regard to the provisions of title 5 governing appointments in the competitive service);
 
 &emsp;(2) seek such assistance and support as may be required in the performance of its duties from appropriate Federal departments and agencies;
 
@@ -196,13 +196,13 @@ The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(D), is Pub. 
 
 #### Codification
 
-In subsec. (d)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(1)(C). Pub. L. 111–148, §2801(b)(1), substituted “March 15” for “March 1 of each year (beginning with 1998)”.
+<b>2010</b>—Subsec. (b)(1)(C). Pub. L. 111–148, §2801(b)(1), substituted "March 15" for "March 1 of each year (beginning with 1998)".
 
-Subsec. (b)(1)(D). Pub. L. 111–148, §2801(b)(2), inserted “, and (beginning with 2012) containing an examination of the topics described in paragraph (9), to the extent feasible” before the period.
+Subsec. (b)(1)(D). Pub. L. 111–148, §2801(b)(2), inserted ", and (beginning with 2012) containing an examination of the topics described in paragraph (9), to the extent feasible" before the period.
 
 Subsec. (b)(4). Pub. L. 111–148, §3403(c)(2), added par. (4). Former par. (4) redesignated (5).
 
@@ -214,37 +214,37 @@ Pub. L. 111–148, §2801(b)(3), added par. (9) relating to review and annual re
 
 Subsec. (b)(10), (11). Pub. L. 111–148, §2801(b)(3), added pars. (10) and (11).
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–173 inserted “as an agency of Congress” after “established”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–173 inserted "as an agency of Congress" after "established".
 
-<b>2003</b>—Subsec. (b)(2)(B)(i). Pub. L. 108–173, §735(b), inserted “the efficient provision of” after “expenditures for”.
+<b>2003</b>—Subsec. (b)(2)(B)(i). Pub. L. 108–173, §735(b), inserted "the efficient provision of" after "expenditures for".
 
 Subsec. (b)(8). Pub. L. 108–173, §735(a), added par. (8).
 
-Subsec. (c)(2)(B). Pub. L. 108–173, §735(e)(1), inserted “experts in the area of pharmaco-economics or prescription drug benefit programs,” after “other health professionals,”.
+Subsec. (c)(2)(B). Pub. L. 108–173, §735(e)(1), inserted "experts in the area of pharmaco-economics or prescription drug benefit programs," after "other health professionals,".
 
-Subsec. (c)(2)(D). Pub. L. 108–173, §735(c)(1), inserted at end “Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).”
+Subsec. (c)(2)(D). Pub. L. 108–173, §735(c)(1), inserted at end "Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521)."
 
-<b>2000</b>—Subsec. (b)(1)(D). Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1)\], substituted “June 15 of each year,” for “June 1 of each year (beginning with 1998),”.
+<b>2000</b>—Subsec. (b)(1)(D). Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1)\], substituted "June 15 of each year," for "June 1 of each year (beginning with 1998),".
 
 Subsec. (b)(7). Pub. L. 106–554, §1(a)(6) \[title V, §544(b)\], added par. (7).
 
-<b>1999</b>—Subsec. (b)(1)(D). Pub. L. 106–113 inserted “and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title” before period at end.
+<b>1999</b>—Subsec. (b)(1)(D). Pub. L. 106–113 inserted "and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title" before period at end.
 
-<b>1998</b>—Subsec. (c)(1). Pub. L. 105–277 substituted “17” for “15”.
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–277 substituted "17" for "15".
 
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
-“Independent Payment Advisory Board” substituted for “Independent Medicare Advisory Board” in subsec. (b)(4) on authority of section 10320(b) of Pub. L. 111–148, set out as a note under section 1395kkk of this title.
+"Independent Payment Advisory Board" substituted for "Independent Medicare Advisory Board" in subsec. (b)(4) on authority of section 10320(b) of Pub. L. 111–148, set out as a note under section 1395kkk of this title.
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title VII, §735(c)(2), Dec. 8, 2003, 117 Stat. 2354, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 2004.”
+Pub. L. 108–173, title VII, §735(c)(2), Dec. 8, 2003, 117 Stat. 2354, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 2004."
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply beginning with 2001.”
+Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply beginning with 2001."
 
 #### Effective Date of 1999 Amendment
 
@@ -254,101 +254,101 @@ Amendment by Pub. L. 106–113 effective in determining conversion factor under 
 
 Pub. L. 105–33, title IV, §4022(c), Aug. 5, 1997, 111 Stat. 355, provided that:
 
-“(1)
+"(1)
 
-In general.—The Comptroller General shall first provide for appointment of members to the Medicare Payment Advisory Commission (in this subsection referred to as ‘MedPAC’) by not later than September 30, 1997.
+In general.—The Comptroller General shall first provide for appointment of members to the Medicare Payment Advisory Commission (in this subsection referred to as 'MedPAC') by not later than September 30, 1997.
 
-“(2)
+"(2)
 
-Transition.—As quickly as possible after the date a majority of members of MedPAC are first appointed \[Oct. 1, 1997, see 62 FR 52131\], the Comptroller General, in consultation with the Prospective Payment Assessment Commission (in this subsection referred to as ‘ProPAC’) and the Physician Payment Review Commission (in this subsection referred to as ‘PPRC’), shall provide for the termination of the ProPAC and the PPRC. As of the date of termination of the respective Commissions \[Nov. 1, 1997, see 62 FR 59356\], the amendments made by paragraphs (1) and (2), respectively, of subsection (b) \[amending sections 1395w–4, 1395y, and 1395ww of this title and repealing section 1395w–1 of this title\] become effective. The Comptroller General, to the extent feasible, shall provide for the transfer to the MedPAC of assets and staff of the ProPAC and the PPRC, without any loss of benefits or seniority by virtue of such transfers. Fund balances available to the ProPAC or the PPRC for any period shall be available to the MedPAC for such period for like purposes.
+Transition.—As quickly as possible after the date a majority of members of MedPAC are first appointed \[Oct. 1, 1997, see 62 FR 52131\], the Comptroller General, in consultation with the Prospective Payment Assessment Commission (in this subsection referred to as 'ProPAC') and the Physician Payment Review Commission (in this subsection referred to as 'PPRC'), shall provide for the termination of the ProPAC and the PPRC. As of the date of termination of the respective Commissions \[Nov. 1, 1997, see 62 FR 59356\], the amendments made by paragraphs (1) and (2), respectively, of subsection (b) \[amending sections 1395w–4, 1395y, and 1395ww of this title and repealing section 1395w–1 of this title\] become effective. The Comptroller General, to the extent feasible, shall provide for the transfer to the MedPAC of assets and staff of the ProPAC and the PPRC, without any loss of benefits or seniority by virtue of such transfers. Fund balances available to the ProPAC or the PPRC for any period shall be available to the MedPAC for such period for like purposes.
 
-“(3)
+"(3)
 
-Continuing responsibility for reports.—The MedPAC shall be responsible for the preparation and submission of reports required by law to be submitted (and which have not been submitted by the date of establishment of the MedPAC) by the ProPAC and the PPRC, and, for this purpose, any reference in law to either such Commission is deemed, after the appointment of the MedPAC, to refer to the MedPAC.”
+Continuing responsibility for reports.—The MedPAC shall be responsible for the preparation and submission of reports required by law to be submitted (and which have not been submitted by the date of establishment of the MedPAC) by the ProPAC and the PPRC, and, for this purpose, any reference in law to either such Commission is deemed, after the appointment of the MedPAC, to refer to the MedPAC."
 
 #### Appointment of Experts in Prescription Drugs
 
-Pub. L. 108–173, title VII, §735(e)(2), Dec. 8, 2003, 117 Stat. 2354, provided that: “The Comptroller General of the United States shall ensure that the membership of the Commission \[Medicare Payment Advisory Commission\] complies with the amendment made by paragraph (1) \[amending this section\] with respect to appointments made on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
+Pub. L. 108–173, title VII, §735(e)(2), Dec. 8, 2003, 117 Stat. 2354, provided that: "The Comptroller General of the United States shall ensure that the membership of the Commission \[Medicare Payment Advisory Commission\] complies with the amendment made by paragraph (1) \[amending this section\] with respect to appointments made on or after the date of the enactment of this Act \[Dec. 8, 2003\]."
 
 #### MedPAC Analysis of Impact of Volume on Per Unit Cost of Rural Hospitals With Psychiatric Units
 
-Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763, 2763A–486, provided that: “The MedicarePayment Advisory Commission, in its study conducted pursuant to subsection (a) of section 411 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title IV, §411\], set out as a note below\] (113 Stat. 1501A–377), shall include—
+Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763, 2763A–486, provided that: "The Medicare Payment Advisory Commission, in its study conducted pursuant to subsection (a) of section 411 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title IV, §411\], set out as a note below\] (113 Stat. 1501A–377), shall include—
 
-&emsp;“(1) in such study an analysis of the impact of volume on the per unit cost of rural hospitals with psychiatric units; and
+&emsp;"(1) in such study an analysis of the impact of volume on the per unit cost of rural hospitals with psychiatric units; and
 
-&emsp;“(2) in its report under subsection (b) of such section a recommendation on whether special treatment for such hospitals may be warranted.”
+&emsp;"(2) in its report under subsection (b) of such section a recommendation on whether special treatment for such hospitals may be warranted."
 
 #### MedPAC Study on Complexity of Medicare Program and Levels of Burdens Placed on Providers Through Federal Regulations
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §229(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–357, provided that:
 
-“(1)
+"(1)
 
-Study.—The Medicare Payment Advisory Commission shall undertake a comprehensive study to review the regulatory burdens placed on all classes of health care providers under parts A and B of the medicare program under title XVIII of the Social Security Act \[this subchapter\] and to determine the costs these burdens impose on the nation's health care system. The study shall also examine the complexity of the current regulatory system and its impact on providers.
+Study.—The Medicare Payment Advisory Commission shall undertake a comprehensive study to review the regulatory burdens placed on all classes of health care providers under parts A and B of the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] and to determine the costs these burdens impose on the nation's health care system. The study shall also examine the complexity of the current regulatory system and its impact on providers.
 
-“(2)
+"(2)
 
 Report.—Not later than December 31, 2001, the Commission shall submit to Congress one or more reports on the study conducted under paragraph (1). The report shall include recommendations regarding—
 
-&emsp;“(A) how the Health Care Financing Administration can reduce the regulatory burdens placed on patients and providers; and
+&emsp;"(A) how the Health Care Financing Administration can reduce the regulatory burdens placed on patients and providers; and
 
-&emsp;“(B) legislation that may be appropriate to reduce the complexity of the medicare program, including improvement of the rules regarding billing, compliance, and fraud and abuse.”
+&emsp;"(B) legislation that may be appropriate to reduce the complexity of the medicare program, including improvement of the rules regarding billing, compliance, and fraud and abuse."
 
 #### MedPAC Report
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §312(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, provided that: “The Medicare Payment Advisory Commission shall include in its report submitted to Congress in March of 2001 recommendations regarding the appropriateness of the initial residency period used under section 1886(h)(5)(F) of the Social Security Act (42 U.S.C. 1395ww(h)(5)(F)) for other residency training programs in a specialty that require preliminary years of study in another specialty.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §312(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, provided that: "The Medicare Payment Advisory Commission shall include in its report submitted to Congress in March of 2001 recommendations regarding the appropriateness of the initial residency period used under section 1886(h)(5)(F) of the Social Security Act (42 U.S.C. 1395ww(h)(5)(F)) for other residency training programs in a specialty that require preliminary years of study in another specialty."
 
 #### MedPAC Study of Rural Providers
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §411\], Nov. 29, 1999, 113 Stat. 1536, 1501A–377, provided that:
 
-“(a)
+"(a)
 
-Study.—The Medicare Payment Advisory Commission shall conduct a study of rural providers furnishing items and services for which payment is made under title XVIII of the Social Security Act \[this subchapter\]. Such study shall examine and evaluate the adequacy and appropriateness of the categories of special payments (and payment methodologies) established for rural hospitals under the medicare program, and the impact of such categories on beneficiary access and quality of health care services.
+Study.—The Medicare Payment Advisory Commission shall conduct a study of rural providers furnishing items and services for which payment is made under title XVIII of the Social Security Act \[42 U.S.C.1395 et seq.\]. Such study shall examine and evaluate the adequacy and appropriateness of the categories of special payments (and payment methodologies) established for rural hospitals under the medicare program, and the impact of such categories on beneficiary access and quality of health care services.
 
-“(b)
+"(b)
 
-Report.—Not later than 18 months after the date of the enactment of this Act \[Nov. 29, 1999\], the Medicare Payment Advisory Commission shall submit to Congress a report on the study conducted under subsection (a).”
+Report.—Not later than 18 months after the date of the enactment of this Act \[Nov. 29, 1999\], the Medicare Payment Advisory Commission shall submit to Congress a report on the study conducted under subsection (a)."
 
 #### Quality Improvement Standards
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §520(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–386, provided that:
 
-“(1)
+"(1)
 
 Study.—The Medicare Payment Advisory Commission shall conduct a study on the appropriate quality improvement standards that should apply to—
 
-&emsp;“(A) each type of Medicare+Choice plan described in section 1851(a)(2) of the Social Security Act (42 U.S.C. 1395w–21(a)(2)), including each type of Medicare+Choice plan that is a coordinated care plan (as described in subparagraph (A) of such section); and
+&emsp;"(A) each type of Medicare+Choice plan described in section 1851(a)(2) of the Social Security Act (42 U.S.C. 1395w–21(a)(2)), including each type of Medicare+Choice plan that is a coordinated care plan (as described in subparagraph (A) of such section); and
 
-&emsp;“(B) the original medicare fee-for-service program under parts A and B \[sic\] title XVIII of such Act (42 U.S.C. 1395 et seq.) \[parts A and B of this subchapter\].
+&emsp;"(B) the original medicare fee-for-service program under parts A and B \[sic\] title XVIII of such Act (42 U.S.C. 1395 et seq.) \[42 U.S.C. 1395c et seq., 1395j et seq.\].
 
-“(2)
+"(2)
 
 Considerations.—Such study shall specifically examine the effects, costs, and feasibility of requiring entities, physicians, and other health care providers that provide items and services under the original medicare fee-for-service program to comply with quality standards and related reporting requirements that are comparable to the quality standards and related reporting requirements that are applicable to Medicare+Choice organizations.
 
-“(3)
+"(3)
 
-Report.—Not later than 2 years after the date of the enactment of this Act \[Nov. 29, 1999\], such Commission shall submit a report to Congress on the study conducted under this subsection, together with any recommendations for legislation that it determines to be appropriate as a result of such study.”
+Report.—Not later than 2 years after the date of the enactment of this Act \[Nov. 29, 1999\], such Commission shall submit a report to Congress on the study conducted under this subsection, together with any recommendations for legislation that it determines to be appropriate as a result of such study."
 
 #### Initial Terms of Additional Members
 
 Pub. L. 105–277, div. J, title V, §5202(b), Oct. 21, 1998, 112 Stat. 2681–917, provided that:
 
-“(1)
+"(1)
 
 In general.—For purposes of staggering the initial terms of members of the Medicare Payment Advisory Commission (under section 1805(c)(3) of such Act (42 U.S.C. 1395b–6(c)(3))\[)\], the initial terms of the two additional members of the Commission provided for by the amendment under subsection (a) \[amending this section\] are as follows:
 
-&emsp;“(A) One member shall be appointed for one year.
+&emsp;"(A) One member shall be appointed for one year.
 
-&emsp;“(B) One member shall be appointed for two years.
+&emsp;"(B) One member shall be appointed for two years.
 
-“(2)
+"(2)
 
-Commencement of terms.—Such terms shall begin on May 1, 1999.”
+Commencement of terms.—Such terms shall begin on May 1, 1999."
 
 #### Information Included in Annual Recommendations
 
-Pub. L. 105–33, title IV, §4804(c), Aug. 5, 1997, 111 Stat. 552, provided that: “The Medicare Payment Advisory Commission shall include in its annual report under section 1805(b)(1)(B) of the Social Security Act \[subsec. (b)(1)(B) of this section\] recommendations on the methodology and level of payments made to PACE providers under sections 1894(d) and 1934(d) of such Act \[sections 1395eee(d) and 1396u–4(d) of this title\] and on the treatment of private, for-profit entities as PACE providers.”
+Pub. L. 105–33, title IV, §4804(c), Aug. 5, 1997, 111 Stat. 552, provided that: "The Medicare Payment Advisory Commission shall include in its annual report under section 1805(b)(1)(B) of the Social Security Act \[42 U.S.C. 1395b–6(b)(1)(B)\] recommendations on the methodology and level of payments made to PACE providers under sections 1894(d) and 1934(d) of such Act \[42 U.S.C. 1395eee(d), 1396u–4(d)\] and on the treatment of private, for-profit entities as PACE providers."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

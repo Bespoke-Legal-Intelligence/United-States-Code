@@ -26,17 +26,17 @@ Provisions similar to those in this section were contained in sections 3845, 639
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–181, §1825(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “The Chief of the National Guard Bureau.”
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–181, §1825(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: "The Chief of the National Guard Bureau."
 
 Subsec. (b). Pub. L. 110–181, §1825(b)(2), designated existing provisions as par. (1) and added par. (2).
 
-<b>2006</b>—Pub. L. 109–364, §503(d)(2), substituted “66” for “64” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §503(d)(2), substituted "66" for "64" in section catchline.
 
-Subsec. (a). Pub. L. 109–163, §511, designated existing provisions as par. (1), substituted “who is specified in paragraph (2)” for “who is Chief of the National Guard Bureau, an adjutant general, or if a reserve officer of the Army, commanding general of the troops of a State,”, and added par. (2).
+Subsec. (a). Pub. L. 109–163, §511, designated existing provisions as par. (1), substituted "who is specified inparagraph (2)" for "who is Chief of the National Guard Bureau, an adjutant general, or if a reserve officer of the Army, commanding general of the troops of a State,", and added par. (2).
 
-Subsec. (a)(1). Pub. L. 109–364, §503(d)(1), substituted “66” for “64”.
+Subsec. (a)(1). Pub. L. 109–364, §503(d)(1), substituted "66" for "64".
 
-Subsec. (b). Pub. L. 109–364, §503(d)(1), substituted “66” for “64”.
+Subsec. (b). Pub. L. 109–364, §503(d)(1), substituted "66" for "64".
 
-Pub. L. 109–163, §515(b)(1)(UU), substituted “Navy Reserve” for “Naval Reserve”.
+Pub. L. 109–163, §515(b)(1)(UU), substituted "Navy Reserve" for "Naval Reserve".
 

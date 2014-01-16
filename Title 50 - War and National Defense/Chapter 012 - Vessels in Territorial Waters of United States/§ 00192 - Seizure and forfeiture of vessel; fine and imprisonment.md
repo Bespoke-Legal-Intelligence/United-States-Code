@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If any owner, agent, master, officer, or person in charge, or any member of the crew of any such vessel fails to comply with any regulation or rule issued or order given under the provisions of this title,<sup>1</sup> or obstructs or interferes with the exercise of any power conferred by this title,<sup>1</sup> the vessel, together with her tackle, apparel, furniture, and equipment, shall be subject to seizure and forfeiture to the United States in the same manner as merchandise is forfeited for violation of the customs revenue laws; and the person guilty of such failure, obstruction, or interference shall be punished by imprisonment for not more than ten years and may, in the discretion of the court, be fined not more than $10,000.
+If any owner, agent, master, officer, or person in charge, or any member of the crew of any such vessel fails to comply with any regulation or rule issued or order given under the provisions of this title,<sup>1</sup> or obstructs or interferes with the exercise of any power conferred by this title,<sup>1</sup> the vessel, together with her tackle, apparel, furniture, and equipment, shall be subject to seizure and forfeiture to the United States in the same manner as merchandise is forfeited forviolation of the customs revenue laws; and the person guilty of such failure, obstruction, or interference shall be punished by imprisonment for not more than ten years and may, in the discretion of the court, be fined not more than $10,000.
 
 #### (b) Application to others
 
@@ -34,11 +34,11 @@ This title, referred to in subsecs. (a) to (d), means title II of act June 15, 1
 
 #### Codification
 
-In subsec. (e)(1), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (e)(1), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–293, §802(b)(1), substituted “title” for “Act” in two places.
+<b>2004</b>—Subsec. (c). Pub. L. 108–293, §802(b)(1), substituted "title" for "Act" in two places.
 
 Subsecs. (d), (e). Pub. L. 108–293, §802(b)(2), added subsecs. (d) and (e).
 
@@ -46,7 +46,7 @@ Subsecs. (d), (e). Pub. L. 108–293, §802(b)(2), added subsecs. (d) and (e).
 
 <b>1950</b>—Subsec. (a). Act Aug. 9, 1950, added subsec. (a).
 
-<b>1941</b>—Act Nov. 15, 1941, struck out “by the Secretary of the Treasury or the Governor of the Panama Canal” before “under the provisions of this title”.
+<b>1941</b>—Act Nov. 15, 1941, struck out "by the Secretary of the Treasury or the Governor of the Panama Canal" before "under the provisions of this title".
 
 <b>1940</b>—Act Mar. 28, 1940, increased term of imprisonment.
 

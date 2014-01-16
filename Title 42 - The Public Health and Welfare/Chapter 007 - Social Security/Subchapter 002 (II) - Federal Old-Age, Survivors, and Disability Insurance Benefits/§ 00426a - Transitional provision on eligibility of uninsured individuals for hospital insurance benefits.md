@@ -30,7 +30,7 @@ The provisions of subsection (a) of this section shall not apply to any individu
 
 &emsp;(C) could have been so covered for such first month if he or some other person had availed himself of opportunities to enroll in a health benefits plan under such chapter and to continue such enrollment (but this subparagraph shall not apply unless he or such other person was a Federal employee at any time after February 15, 1965).
 
-> Paragraph (3) shall not apply in the case of any individual for the month (or any month thereafter) in which coverage under such a health benefits plan ceases (or would have ceased if he had had such coverage) by reason of his or someother person's separation from Federal service, if he or such other person was not (or would not have been) eligible to continue such coverage after such separation.
+> Paragraph (3) shall not apply in the case of any individual for the month (or any month thereafter) in which coverage under such a health benefits plan ceases (or would have ceased if he had had such coverage) by reason of his or some other person's separation from Federal service, if he or such other person was not (or would not have been) eligible to continue such coverage after such separation.
 
 #### (c) Authorization of appropriations
 
@@ -56,7 +56,7 @@ Section was not enacted as part of the Social Security Act which comprises this 
 
 #### Amendments
 
-<b>1968</b>—Subsec. (a)(2)(B). Pub. L. 90–248, §139, substituted “1966” for “1965”.
+<b>1968</b>—Subsec. (a)(2)(B). Pub. L. 90–248, §139, substituted "1966" for "1965".
 
-Subsec. (b)(3)(A), (C). Pub. L. 90–248, §403(h)(1), (2), substituted “chapter 89 of title 5” and “such chapter” for “the Federal Employees Health Benefits Act of 1959” and “such Act” in subpars. (A) and (C), respectively.
+Subsec. (b)(3)(A), (C). Pub. L. 90–248, §403(h)(1), (2), substituted "chapter 89 of title 5" and "such chapter" for "the Federal Employees Health Benefits Act of 1959" and "such Act" in subpars. (A) and (C), respectively.
 

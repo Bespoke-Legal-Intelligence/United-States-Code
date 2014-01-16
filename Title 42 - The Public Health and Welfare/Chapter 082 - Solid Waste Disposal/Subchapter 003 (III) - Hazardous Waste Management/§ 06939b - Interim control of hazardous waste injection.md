@@ -36,7 +36,7 @@ In addition to enforcement under the provisions of this chapter, the prohibition
 
 #### (d) Definitions
 
-The terms “primary enforcement responsibility”, “underground source of drinking water”, “formation” and “well” have the same meanings as provided in regulations of the Administrator under the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\]. The term “Safe Drinking Water Act” means title XIV of the Public Health Service Act.
+The terms "primary enforcement responsibility", "underground source of drinking water", "formation" and "well" have the same meanings as provided in regulations of the Administrator under the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\]. The term "Safe Drinking Water Act" means title XIV of the Public Health Service Act.
 
 (Pub. L. 89–272, title II, §3020, formerly §7010, as added Pub. L. 98–616, title IV, §405(a), Nov. 8, 1984, 98 Stat. 3273; renumbered §3020, and amended Pub. L. 99–339, title II, §201(c), June 19, 1986, 100 Stat. 654.)
 
@@ -50,7 +50,7 @@ Section was formerly classified to section 6979a of this title, prior to renumbe
 
 #### Amendments
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–339, §201(c)(1), substituted “enforcement under the provisions of this chapter” for “enforcement under sections 6972 and 6973 of this title”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–339, §201(c)(1), substituted "enforcement under the provisions of this chapter" for "enforcement under sections 6972 and 6973 of this title".
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

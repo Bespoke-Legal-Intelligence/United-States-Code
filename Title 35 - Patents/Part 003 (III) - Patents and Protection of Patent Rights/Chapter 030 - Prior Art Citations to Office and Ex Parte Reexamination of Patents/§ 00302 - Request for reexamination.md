@@ -6,13 +6,13 @@ Any person at any time may file a request for reexamination by the Office of any
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 struck out “of this title” after “301” and after “41”.
+<b>2011</b>—Pub. L. 112–29 struck out "of this title" after "301" and after "41".
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-<b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director promptly” for “Commissioner promptly”.
+<b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted "Director promptly" for "Commissioner promptly".
 
-Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(8)\], substituted “Director pursuant” for “Commissioner of Patents pursuant”.
+Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(8)\], substituted "Director pursuant" for "Commissioner of Patents pursuant".
 
 #### Effective Date of 2011 Amendment
 

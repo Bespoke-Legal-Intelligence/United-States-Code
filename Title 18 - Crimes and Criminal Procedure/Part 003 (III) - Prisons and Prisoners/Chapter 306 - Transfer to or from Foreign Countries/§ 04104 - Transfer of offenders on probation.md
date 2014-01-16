@@ -16,5 +16,5 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–273 substituted “section 3565 of this title and the applicable provisions of” for “section 3653 of this title and rule 32(f) of”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–273 substituted "section 3565 of this title and the applicable provisions of" for "section 3653 of this title and rule 32(f) of".
 

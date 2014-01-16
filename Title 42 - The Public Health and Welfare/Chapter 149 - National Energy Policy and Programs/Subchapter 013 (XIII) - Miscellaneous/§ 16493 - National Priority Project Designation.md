@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is established the National Priority Project Designation (referred to in this section as the “Designation”), which shall be evidenced by a medal bearing the inscription “National Priority Project”.
+&emsp;There is established the National Priority Project Designation (referred to in this section as the "Designation"), which shall be evidenced by a medal bearing the inscription "National Priority Project".
 
 #### (2) Design and materials
 

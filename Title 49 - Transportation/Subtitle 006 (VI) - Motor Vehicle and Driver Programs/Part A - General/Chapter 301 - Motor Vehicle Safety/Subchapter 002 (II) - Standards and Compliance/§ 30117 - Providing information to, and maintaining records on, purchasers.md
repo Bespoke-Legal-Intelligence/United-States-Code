@@ -4,7 +4,7 @@
 
 Providing Information and Notice.—The Secretary of Transportation may require that each manufacturer of a motor vehicle or motor vehicle equipment provide technical information related to performance and safety required to carry out this chapter. The Secretary may require the manufacturer to give the following notice of that information when the Secretary decides it is necessary:
 
-&emsp;(1) to each prospective purchaser of a vehicle or equipment before the first sale other than for resale at each location at which the vehicle or equipment is offered for sale by a personhaving a legal relationship with the manufacturer, in a way the Secretary decides is appropriate.
+&emsp;(1) to each prospective purchaser of a vehicle or equipment before the first sale other than for resale at each location at which the vehicle or equipment is offered for sale by a person having a legal relationship with the manufacturer, in a way the Secretary decides is appropriate.
 
 &emsp;(2) to the first purchaser of a vehicle or equipment other than for resale when the vehicle or equipment is bought, in printed matter placed in the vehicle or attached to or accompanying the equipment.
 
@@ -24,7 +24,7 @@ Maintaining Purchaser Records and Procedures.—(1) A manufacturer of a motor ve
 
 &emsp;(iii) whether to prescribe for manufacturers, distributors, or dealers other requirements that the Secretary decides will increase significantly the percentage of first purchasers of tires about whom records are maintained.
 
-(B) The Secretary may prescribe a requirement under subparagraph (A) of this paragraph only if the Secretary decides it is necessary to reduce the risk to motor vehicle safety, after considering—
+(B) The Secretary may prescribe a requirement under subparagraph (A) of this paragraphonly if the Secretary decides it is necessary to reduce the risk to motor vehicle safety, after considering—
 
 &emsp;(i) the cost of the requirement to manufacturers and the burden of the requirement on distributors and dealers, compared to the increase in the percentage of first purchasers of tires about whom records would be maintained as a result of the requirement;
 
@@ -98,13 +98,13 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §158(b)(2), (3); added Oct. 15, 
 
 In this section, the text of 15:1397(a)(1)(B) (related to 15:1401(d)), (D) (related to 15:1418(b)), and (E) (related to 15:1401(d)) is omitted as surplus.
 
-In subsection (a), before clause (1), the words “such performance data and other”, “as may be”, “the purposes of”, “performance and technical”, and “to carry out the purposes of this chapter” the 2d time they appear are omitted as surplus. In clause (1), the words “such manufacturer's” and “which may include, but is not limited to, printed matter (A) available for retention by such prospective purchaser and (B) sent by mail to such prospective purchaser upon his request” are omitted as surplus. The words “legal relationship” are substituted for “contractual, proprietary, or other legal relationship” to eliminate unnecessary words.
+In subsection (a), before clause (1), the words "such performance data and other", "as may be", "the purposes of", "performance and technical", and "to carry out the purposes of this chapter" the 2d time they appear are omitted as surplus. In clause (1), the words "such manufacturer's" and "which may include, but is not limited to, printed matter (A) available for retention by such prospective purchaser and (B) sent by mail to such prospective purchaser upon his request" are omitted as surplus. The words "legal relationship" are substituted for "contractual, proprietary, or other legal relationship" to eliminate unnecessary words.
 
-In subsection (b)(1), the word “cause to be maintained” is substituted for “cause the establishment and maintenance of” to eliminate unnecessary words. The words “prescribe by regulation” are substituted for “by rule, specify” for consistency and because “rule” and “regulation” are synonymous. The words “under this subsection” are added for clarity. The word “involved” is substituted for “for which they are prescribed” to eliminate unnecessary words. The words “the purpose of” and “except that . . . or not” are omitted as surplus. The words “from a distributor or dealer” are added for clarity.
+In subsection (b)(1), the word "cause to be maintained" is substituted for "cause the establishment and maintenance of" to eliminate unnecessary words. The words "prescribe by regulation" are substituted for "by rule, specify" for consistency and because "rule" and "regulation" are synonymous. The words "under this subsection" are added for clarity. The word "involved" is substituted for "for which they are prescribed" to eliminate unnecessary words. The words "the purpose of" and "except that . . . or not" are omitted as surplus. The words "from a distributor or dealer" are added for clarity.
 
-In subsection (b)(3)(A), before clause (i), the words “At the end of the two-year period following the effective date of this paragraph” are omitted as expired. In clause (iii), the words “(or any combination of such groups)” are omitted as unnecessary.
+In subsection (b)(3)(A), before clause (i), the words "At the end of the two-year period following the effective date of this paragraph" are omitted as expired. In clause (iii), the words "(or any combination of such groups)" are omitted as unnecessary.
 
-In subsection (b)(3)(B), before clause (i), the words “may prescribe a requirement” are substituted for “may order by rule the imposition of requirements” for consistency and to eliminate unnecessary words.
+In subsection (b)(3)(B), before clause (i), the words "may prescribe a requirement" are substituted for "may order by rule the imposition of requirements" for consistency and to eliminate unnecessary words.
 
 #### References in Text
 
@@ -120,11 +120,11 @@ Passenger Van Safety
 
 Pub. L. 109–59, title X, §10309(a), Aug. 10, 2005, 119 Stat. 1942, provided that:
 
-“(1)
+"(1)
 
 In general.—The Secretary of Transportation shall require the testing of 15-passenger vans as part of the rollover resistance program of the National Highway Traffic Safety Administration's new car assessment program.
 
-“(2) 15
+"(2) 15
 
-\-passenger van defined.—In this subsection, the term ‘15-passenger van’ means a vehicle that seats 10 to 14 passengers, not including the driver.”
+\-passenger van defined.—In this subsection, the term '15-passenger van' means a vehicle that seats 10 to 14 passengers, not including the driver."
 

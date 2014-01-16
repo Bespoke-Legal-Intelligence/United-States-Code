@@ -6,5 +6,5 @@ The Secretary shall establish a market placement program for qualified beginning
 
 #### References in Text
 
-For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in text, see note set out under section 1921 of this title.
 

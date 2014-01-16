@@ -10,7 +10,7 @@ The value of the gross estate shall include the value of all property to the ext
 
 #### (b) Special rules
 
-For purposes of this section, the term “reversionary interest” includes a possibility that property transferred by the decedent—
+For purposes of this section, the term "reversionary interest" includes a possibility that property transferred by the decedent—
 
 &emsp;(1) may return to him or his estate, or
 
@@ -22,7 +22,7 @@ For purposes of this section, the term “reversionary interest” includes a po
 
 #### Amendments
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
 

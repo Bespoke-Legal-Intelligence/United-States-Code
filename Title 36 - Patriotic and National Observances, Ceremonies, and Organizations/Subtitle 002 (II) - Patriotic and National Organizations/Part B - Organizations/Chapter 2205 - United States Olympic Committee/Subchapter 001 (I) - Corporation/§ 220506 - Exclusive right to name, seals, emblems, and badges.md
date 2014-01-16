@@ -4,13 +4,13 @@
 
 Exclusive Right of Corporation.—Except as provided in subsection (d) of this section, the corporation has the exclusive right to use—
 
-&emsp;(1) the name “United States Olympic Committee”;
+&emsp;(1) the name "United States Olympic Committee";
 
 &emsp;(2) the symbol of the International Olympic Committee, consisting of 5 interlocking rings, the symbol of the International Paralympic Committee, consisting of 3 TaiGeuks, or the symbol of the Pan-American Sports Organization, consisting of a torch surrounded by concentric rings;
 
 &emsp;(3) the emblem of the corporation, consisting of an escutcheon having a blue chief and vertically extending red and white bars on the base with 5 interlocking rings displayed on the chief; and
 
-&emsp;(4) the words “Olympic”, “Olympiad”, “Citius Altius Fortius”, “Paralympic”, “Paralympiad”, “Pan-American”, “America Espirito Sport Fraternite”, or any combination of those words.
+&emsp;(4) the words "Olympic", "Olympiad", "Citius Altius Fortius", "Paralympic", "Paralympiad", "Pan-American", "America Espirito Sport Fraternite", or any combination of those words.
 
 (b)
 
@@ -34,11 +34,11 @@ Pre-Existing and Geographic Reference Rights.—(1) A person who actually used t
 
 (2) A person who actually used, or whose assignor actually used, the words or any combination of the words described in subsection (a)(4) of this section, or a trademark, trade name, sign, symbol, or insignia described in subsection (c)(4) of this section, for any lawful purpose before September 21, 1950, is not prohibited by this section from continuing the lawful use for the same purpose and for the same goods or services.
 
-(3) Use of the word “Olympic” to identify a business or goods or services is permitted by this section where—
+(3) Use of the word "Olympic" to identify a business or goods or services is permitted by this section where—
 
 &emsp;(A) such use is not combined with any of the intellectual properties referenced in subsection (a) or (c) of this section;
 
-&emsp;(B) it is evident from the circumstances that such use of the word “Olympic” refers to the naturally occurring mountains or geographical region of the same name that were named prior to February 6, 1998, and not to the corporation or any Olympic activity; and
+&emsp;(B) it is evident from the circumstances that such use of the word "Olympic" refers to the naturally occurring mountains or geographical region of the same name that were named prior to February 6, 1998, and not to the corporation or any Olympic activity; and
 
 &emsp;(C) such business, goods, or services are operated, sold, and marketed in the State of Washington west of the Cascade Mountain range and operations, sales, and marketing outside of this area are not substantial.
 
@@ -78,13 +78,13 @@ Sept. 21, 1950, ch. 975, title I, §110, as added Nov. 8, 1978, Pub. L. 95–606
 
 &nbsp;
 
-Subsection (a)(2) and (3) is substituted for “the symbol described in subsection (a)(1) of this section; the emblem described in subsection (a)(2) of this section” because of the reorganization of the section.
+Subsection (a)(2) and (3) is substituted for "the symbol described in subsection (a)(1) of this section; the emblem described in subsection (a)(2) of this section" because of the reorganization of the section.
 
-In subsection (b), the words “or any trademark” are substituted for “as well as any trademark” to eliminate unnecessary words. The words “furnished . . . or for the use of” are omitted as unnecessary.
+In subsection (b), the words "or any trademark" are substituted for "as well as any trademark" to eliminate unnecessary words. The words "furnished . . . or for the use of" are omitted as unnecessary.
 
-In subsection (c), the words “the corporation may file a civil action against a person” are substituted for “any person . . . shall be subject to suit in a civil action by the Corporation” for clarity.
+In subsection (c), the words "the corporation may file a civil action against a person" are substituted for "any person . . . shall be subject to suit in a civil action by the Corporation" for clarity.
 
-In subsection (d)(2), the words “the words or any combination of the words described in subsection (a)(4) of this section, or a trademark, trade name, sign, symbol, or insignia described in subsection (c)(4) of this section” are substituted for “any other trademark, trade name, sign, symbol, or insignia described in subsections (a)(3) and (4) of this section” for clarity.
+In subsection (d)(2), the words "the words or any combination of the words described in subsection (a)(4) of this section, or a trademark, trade name, sign, symbol, or insignia described in subsection (c)(4) of this section" are substituted for "any other trademark, trade name, sign, symbol, or insignia described in subsections (a)(3) and (4) of this section" for clarity.
 
 #### References in Text
 
@@ -92,23 +92,23 @@ The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (d)(3)(A). Pub. L. 109–284 substituted “subsection” for “subsections”.
+<b>2006</b>—Subsec. (d)(3)(A). Pub. L. 109–284 substituted "subsection" for "subsections".
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, §142(g)(1), substituted “rings, the symbol of the International Paralympic Committee, consisting of 3 TaiGeuks, or the symbol of the Pan-American Sports Organization, consisting of a torch surrounded by concentric rings;” for “rings;”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, §142(g)(1), substituted "rings, the symbol of the International Paralympic Committee, consisting of 3 TaiGeuks, or the symbol of the Pan-American Sports Organization, consisting of a torch surrounded by concentric rings;" for "rings;".
 
-Subsec. (a)(4). Pub. L. 105–277, §142(g)(2), inserted “ ‘Paralympic’, ‘Paralympiad’, ‘Pan-American’, ‘America Espirito Sport Fraternite’,” before “or any combination”.
+Subsec. (a)(4). Pub. L. 105–277, §142(g)(2), inserted " 'Paralympic', 'Paralympiad', 'Pan-American', 'America Espirito Sport Fraternite'," before "or any combination".
 
-Subsec. (b). Pub. L. 105–277, §142(g)(3), (4), inserted “, International Paralympic Committee, the Pan-American Sports Organization,” after “International Olympic Committee” and “the Paralympic team,” before “the Pan-American team”.
+Subsec. (b). Pub. L. 105–277, §142(g)(3), (4), inserted ", International Paralympic Committee, the Pan-American Sports Organization," after "International Olympic Committee" and "the Paralympic team," before "the Pan-American team".
 
-Subsec. (c)(3). Pub. L. 105–277, §142(g)(5), inserted “, Paralympic, or Pan-American Games” after “any Olympic”.
+Subsec. (c)(3). Pub. L. 105–277, §142(g)(5), inserted ", Paralympic, or Pan-American Games" after "any Olympic".
 
-Subsec. (c)(4). Pub. L. 105–277, §142(g)(6), inserted “, the International Paralympic Committee, the Pan-American Sport Organization,” after “International Olympic Committee”.
+Subsec. (c)(4). Pub. L. 105–277, §142(g)(6), inserted ", the International Paralympic Committee, the Pan-American Sport Organization," after "International Olympic Committee".
 
-Subsec. (d). Pub. L. 105–277, §142(g)(7), inserted “
+Subsec. (d). Pub. L. 105–277, §142(g)(7), inserted "
 
-and Geographic Reference” after “
+and Geographic Reference" after "
 
-Pre-Existing” in heading.
+Pre-Existing" in heading.
 
 Subsec. (d)(3). Pub. L. 105–277, §142(g)(8), added par. (3).
 

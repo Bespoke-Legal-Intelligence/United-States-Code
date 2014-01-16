@@ -26,7 +26,7 @@
 
 #### (4) Exclusion for tractors weighing 19,500 pounds or less
 
-&emsp;The tax imposed by paragraph (1) shall not apply to tractors of the kind chiefly used for highway transportation in combination with a trailer or semitrailer if—
+&emsp;The tax imposed by paragraph (1) shall not apply to tractors of the kind chiefly used forhighway transportation in combination with a trailer or semitrailer if—
 
 &emsp;&emsp;(A) such tractor has a gross vehicle weight of 19,500 pounds or less (as determined by the Secretary), and
 
@@ -76,7 +76,7 @@ If—
 
 > there shall be allowed as a credit against the tax imposed by this subchapter an amount equal to the tax (if any) imposed by section 4071 on such tires.
 
-(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2174; amended Pub. L. 98–369, div. A, title VII, §734(g), title IX, §921, July 18, 1984, 98 Stat. 980, 1009; Pub. L. 99–514, title XVIII,§§1877(c), 1899A(47), Oct. 22, 1986, 100 Stat. 2902, 2961; Pub. L. 100–17, title V, §502(a)(2), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(1), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–34, title XIV, §§1401(a), 1402(a), 1432(a), Aug. 5, 1997, 111 Stat. 1045, 1046, 1050; Pub. L. 105–178, title IX, §9002(a)(1)(D), June 9, 1998, 112 Stat. 499; Pub. L. 109–59, title XI, §§11101(a)(1)(D), 11112(a), Aug. 10, 2005, 119 Stat. 1943, 1946; Pub. L. 112–30, title I, §142(a)(2)(B), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(a)(2)(B), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(2)(B), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(2)(B), July 6, 2012, 126 Stat. 844.)
+(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2174; amended Pub. L. 98–369, div. A, title VII, §734(g), title IX, §921, July 18, 1984, 98 Stat. 980, 1009; Pub. L. 99–514, title XVIII, §§1877(c), 1899A(47), Oct. 22, 1986, 100 Stat. 2902, 2961; Pub. L. 100–17, title V, §502(a)(2), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(1), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–34, title XIV, §§1401(a), 1402(a), 1432(a), Aug. 5, 1997, 111 Stat. 1045, 1046, 1050; Pub. L. 105–178, title IX, §9002(a)(1)(D), June 9, 1998, 112 Stat. 499; Pub. L. 109–59, title XI, §§11101(a)(1)(D), 11112(a), Aug. 10, 2005, 119 Stat. 1943, 1946; Pub. L. 112–30, title I, §142(a)(2)(B), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(a)(2)(B), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(2)(B), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(2)(B), July 6, 2012, 126 Stat. 844.)
 
 #### Prior Provisions
 
@@ -84,39 +84,39 @@ A prior section 4051, act Aug. 16, 1954, ch. 736, 68A Stat. 479, defined the pri
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c). Pub. L. 112–141 substituted “October 1, 2016” for “July 1, 2012”.
+<b>2012</b>—Subsec. (c). Pub. L. 112–141 substituted "October 1, 2016" for "July 1, 2012".
 
-Pub. L. 112–140, §§1(c), 402(a)(2)(B), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§1(c), 402(a)(2)(B), temporarily substituted "July 7, 2012" for "July 1, 2012". See Effective and Termination Dates of 2012 Amendment note below.
 
-Pub. L. 112–102 substituted “July 1, 2012” for “April 1, 2012”.
+Pub. L. 112–102 substituted "July 1, 2012" for "April 1, 2012".
 
-<b>2011</b>—Subsec. (c). Pub. L. 112–30 substituted “April 1, 2012” for “October 1, 2011”.
+<b>2011</b>—Subsec. (c). Pub. L. 112–30 substituted "April 1, 2012" for "October 1, 2011".
 
 <b>2005</b>—Subsec. (a)(4), (5). Pub. L. 109–59, §11112(a), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (c). Pub. L. 109–59, §11101(a)(1)(D), substituted “2011” for “2005”.
+Subsec. (c). Pub. L. 109–59, §11101(a)(1)(D), substituted "2011" for "2005".
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–178 substituted “2005” for “1999”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–178 substituted "2005" for "1999".
 
-<b>1997</b>—Subsec. (b)(2)(B). Pub. L. 105–34, §1401(a), substituted “$1,000” for “$200”.
+<b>1997</b>—Subsec. (b)(2)(B). Pub. L. 105–34, §1401(a), substituted "$1,000" for "$200".
 
 Subsec. (d). Pub. L. 105–34, §1432(a), redesignated subsec. (e) as (d) and struck out former subsec. (d) which provided for a temporary reduction in tax on certain piggyback trailers.
 
 Subsec. (e). Pub. L. 105–34, §1432(a), redesignated subsec. (e) as (d).
 
-Pub. L. 105–34, §1401(a), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “In the case of any article taxable under subsection (a) on which tax was imposed under section 4061(a), subsection (a) shall be applied by substituting ‘2 percent’ for ‘12 percent’.”
+Pub. L. 105–34, §1401(a), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "In the case of any article taxable under subsection (a) on which tax was imposed under section 4061(a), subsection (a) shall be applied by substituting '2 percent' for '12 percent'."
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–240 substituted “1999” for “1995”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–240 substituted "1999" for "1995".
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–508 substituted “1995” for “1993”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–508 substituted "1995" for "1993".
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–17 substituted “1993” for “1988”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–17 substituted "1993" for "1988".
 
-<b>1986</b>—Subsec. (d)(1). Pub. L. 99–514, §1899A(47), substituted “July 18, 1984” for “the date of the enactment of the Tax Reform Act of 1984”.
+<b>1986</b>—Subsec. (d)(1). Pub. L. 99–514, §1899A(47), substituted "July 18, 1984" for "the date of the enactment of the Tax Reform Act of 1984".
 
-Subsec. (d)(3). Pub. L. 99–514, §1877(c), inserted at end “No tax shall be imposed by reason of this paragraph on any use or resale which occurs more than 6 years after the date of the first retail sale.”
+Subsec. (d)(3). Pub. L. 99–514, §1877(c), inserted at end "No tax shall be imposed by reason of this paragraph on any use or resale which occurs more than 6 years after the date of the first retail sale."
 
-<b>1984</b>—Subsec. (b)(3). Pub. L. 98–369, §734(g), substituted “The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by paragraph (1)” for “In addition to the owner, lessee, or operator of the vehicle, the owner of the trade or business installing the part or accessory shall be liable for the tax imposed by paragraph (1)”.
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–369, §734(g), substituted "The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by paragraph (1)" for "In addition to the owner, lessee, or operator of the vehicle, the owner of the trade or business installing the part or accessory shall be liable for the tax imposed by paragraph (1)".
 
 Subsecs. (d), (e). Pub. L. 98–369, §921, added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -136,13 +136,13 @@ Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub.
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title XI, §11112(b), Aug. 10, 2005, 119 Stat. 1946, provided that: “The amendments made by this section \[amending this section\] shall apply to sales after September 30, 2005.”
+Pub. L. 109–59, title XI, §11112(b), Aug. 10, 2005, 119 Stat. 1946, provided that: "The amendments made by this section \[amending this section\] shall apply to sales after September 30, 2005."
 
 #### Effective Date of 1997 Amendment
 
 Amendment by section 1401(a) of Pub. L. 105–34 applicable to installations on vehicles sold after Aug. 5, 1997, see section 1401(b) of Pub. L. 105–34, set out as a note under section 4003 of this title.
 
-Pub. L. 105–34, title XIV, §1402(c), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendments made by this section \[amending this section and section 4052 of this title\] shall take effect on January 1, 1998.”
+Pub. L. 105–34, title XIV, §1402(c), Aug. 5, 1997, 111 Stat. 1046, provided that: "The amendments made by this section \[amending this section and section 4052 of this title\] shall take effect on January 1, 1998."
 
 #### Effective Date of 1986 Amendment
 
@@ -150,11 +150,11 @@ Amendment by section 1877(c) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title VII, §736, July 18, 1984, 98 Stat. 985, provided that: “Except as otherwise provided in this subtitle \[subtitle C (§§731–736) of title VII of div. A of Pub. L. 98–369, amending this section and sections 48, 1366, 4052, 4053, 4071 to 4073, 4081, 4082, 4216, 4218, 4221 to 4223, 4227, 4481, 6401, 6412, 6416, 6427, 6511, and 9502 of this title, repealing sections 4061 to 4063 of this title, and amending provisions set out as notes under sections 4061 and 4081 of this title\], any amendment made by this subtitle shall take effect as if included in the provisions of the Highway Revenue Act of 1982 \[Pub. L. 97–424\] to which such amendment relates.”
+Pub. L. 98–369, div. A, title VII, §736, July 18, 1984, 98 Stat. 985, provided that: "Except as otherwise provided in this subtitle \[subtitle C (§§731–736) of title VII of div. A of Pub. L. 98–369, amending this section and sections 48, 1366, 4052, 4053, 4071 to 4073, 4081, 4082, 4216, 4218, 4221 to 4223, 4227, 4481, 6401, 6412, 6416, 6427, 6511, and 9502 of this title, repealing sections 4061 to 4063 of this title, and amending provisions set out as notes under sections 4061 and 4081 of this title\], any amendment made by this subtitle shall take effect as if included in the provisions of the Highway Revenue Act of 1982 \[Pub. L. 97–424\] to which such amendment relates."
 
 #### Effective Date
 
-Pub. L. 97–424, title V, §512(b)(3), Jan. 6, 1983, 96 Stat. 2177, provided that: “The amendments made by this subsection \[enacting this subchapter and amending section 6416 of this title\] shall take effect on April 1, 1983.”
+Pub. L. 97–424, title V, §512(b)(3), Jan. 6, 1983, 96 Stat. 2177, provided that: "The amendments made by this subsection \[enacting this subchapter and amending section 6416 of this title\] shall take effect on April 1, 1983."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

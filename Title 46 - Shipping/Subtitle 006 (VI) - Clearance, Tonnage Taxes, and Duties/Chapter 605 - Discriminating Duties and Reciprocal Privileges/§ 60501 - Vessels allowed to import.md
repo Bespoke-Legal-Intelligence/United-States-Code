@@ -48,21 +48,21 @@ Oct. 3, 1913, ch. 16, §IV(J)(2), (3), 38 Stat. 196; Mar. 15, 1915, ch. 171, §1
 
 60501(b)
 
-19:131 (words before “nor”).
+19:131 (words before "nor").
 
 60501(c)
 
-19:131 (words beginning with “nor”).
+19:131 (words beginning with "nor").
 
 60501(d)
 
 19:130 (last sentence related to 19:130).
 
-In this section, the word “goods” is substituted for “goods, wares, or merchandise” to eliminate unnecessary words.
+In this section, the word "goods" is substituted for "goods, wares, or merchandise" to eliminate unnecessary words.
 
-In subsection (a)(2), before subparagraph (A), the words “owned only by” are substituted for “truly and wholly belong to” for consistency in the revised title.
+In subsection (a)(2), before subparagraph (A), the words "owned only by" are substituted for "truly and wholly belong to" for consistency in the revised title.
 
-In subsection (b), the words “or goods, wares, or merchandise imported in vessels” are omitted as unnecessary because of the wording of subsection (a) of the revised section. The word “restriction” is substituted for “regulation” as being more appropriate.
+In subsection (b), the words "or goods, wares, or merchandise imported in vessels" are omitted as unnecessary because of the wording of subsection (a) of the revised section. The word "restriction" is substituted for "regulation" as being more appropriate.
 
-Subsection (d) is substituted for “All goods, wares, or merchandise imported contrary to this section or section 128 of this title, and the vessel wherein the same shall be imported, together with her cargo, tackle, apparel, and furniture, shall be forfeited to the United States; and such goods, wares, or merchandise, ship, or vessel, and cargo shall be liable to be seized, prosecuted, and condemned in like manner, and under the same regulations, restrictions, and provisions as have been heretofore established for the recovery, collection, distribution, and remission of forfeitures to the United States by the several revenue laws” to eliminate unnecessary words.
+Subsection (d) is substituted for "All goods, wares, or merchandise imported contrary to this section or section 128 of this title, and the vessel wherein the same shall be imported, together with her cargo, tackle, apparel, and furniture, shall be forfeited to the United States; and such goods, wares, or merchandise, ship, or vessel, and cargo shall be liable to be seized, prosecuted, and condemned in like manner, and under the same regulations, restrictions, and provisions as have been heretofore established for the recovery, collection, distribution, and remission of forfeitures to the United States by the several revenue laws" to eliminate unnecessary words.
 

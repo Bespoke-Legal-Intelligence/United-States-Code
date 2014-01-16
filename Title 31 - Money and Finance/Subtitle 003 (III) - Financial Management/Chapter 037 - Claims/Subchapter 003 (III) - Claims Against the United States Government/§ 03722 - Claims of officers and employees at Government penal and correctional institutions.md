@@ -12,7 +12,7 @@
 
 &emsp;(3) it is presented in writing within one year after it accrues.
 
-(d) A claim may be paid under this section only if the claimant accepts the amount of the settlement in complete satisfaction of the claim.
+(d) A claim may be paid under this section only if the claimant accepts the amount of thesettlement in complete satisfaction of the claim.
 
 (e) Necessary amounts are authorized to be appropriated to carry out this section.
 
@@ -48,15 +48,15 @@ June 10, 1949, ch. 187, 63 Stat. 167.
 
 31:238(note).
 
-In subsection (a), the words “and such other officer or officers as he may designate for such purpose” are omitted as unnecessary because of 28:509. The word “settle” is substituted for “consider, determine, adjust” for consistency. The words “the sum of” are omitted as surplus. The words “officer or employee” are substituted for “persons employed” for consistency in the revised title and with other titles of the United States Code. The words “or destruction” are omitted as surplus.
+In subsection (a), the words "and such other officer or officers as he may designate for such purpose" are omitted as unnecessary because of 28:509. The word "settle" is substituted for "consider, determine, adjust" for consistency. The words "the sum of" are omitted as surplus. The words "officer or employee" are substituted for "persons employed" for consistency in the revised title and with other titles of the United States Code. The words "or destruction" are omitted as surplus.
 
-In subsection (b), the words “assigned to him . . . otherwise” are omitted as surplus.
+In subsection (b), the words "assigned to him . . . otherwise" are omitted as surplus.
 
-In subsection (c)(1), the words “no part” are substituted for “not . . . in whole or in part” because of the restatement.
+In subsection (c)(1), the words "no part" are substituted for "not . . . in whole or in part" because of the restatement.
 
-In subsection (c)(2), the words “the Attorney General decides that possession of” are substituted for “is determined” for clarity. The words “claimed to be damaged, lost, or destroyed” and “necessary, or proper . . . attendant” are omitted as surplus.
+In subsection (c)(2), the words "the Attorney General decides that possession of" are substituted for "is determined" for clarity. The words "claimed to be damaged, lost, or destroyed" and "necessary, or proper . . . attendant" are omitted as surplus.
 
-In subsection (c)(3), the word “accrues” is substituted for “the occurrence of the accident or incident out of which such claim arises” to eliminate unnecessary words.
+In subsection (c)(3), the word "accrues" is substituted for "the occurrence of the accident or incident out of which such claim arises" to eliminate unnecessary words.
 
-In subsection (d), the words “A claim may be paid under this section” are added for clarity. The words “the amount of the settlement” are substituted for “an award hereunder” for consistency. The words “in complete satisfaction of the claim” are substituted for “shall release the United States, its agents or employees, from any further claim by such claimant arising out of the same incident” to eliminate unnecessary words.
+In subsection (d), the words "A claim may be paid under this section" are added for clarity. The words "the amount of the settlement" are substituted for "an award hereunder" for consistency. The words "in complete satisfaction of the claim" are substituted for "shall release the United States, its agents or employees, from any further claim by such claimant arising out of the same incident" to eliminate unnecessary words.
 

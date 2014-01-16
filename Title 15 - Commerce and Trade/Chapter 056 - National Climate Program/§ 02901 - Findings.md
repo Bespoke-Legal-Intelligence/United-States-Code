@@ -12,83 +12,83 @@ The Congress finds and declares the following:
 
 &emsp;(5) Climate fluctuation and change occur on a global basis, and deficiencies exist in the system for monitoring global climate changes. International cooperation for the purpose of sharing the benefits and costs of a global effort to understand climate is essential.
 
-&emsp;(6) The United States lacks a well-defined and coordinated program in climate-related research, monitoring, assessment of effects, and information utilization.
+&emsp;(6) The United States lacks a well-defined and coordinated program in climate-relatedresearch, monitoring, assessment of effects, and information utilization.
 
 (Pub. L. 95–367, §2, Sept. 17, 1978, 92 Stat. 601.)
 
 #### Short Title
 
-Pub. L. 95–367, §1, Sept. 17, 1978, 92 Stat. 601, provided: “That this Act \[enacting this chapter, amending section 25 of former Title 31, Money and Finance, and enacting provisions set out as a note under section 25 of former Title 31\] may be cited as the ‘National Climate Program Act’.”
+Pub. L. 95–367, §1, Sept. 17, 1978, 92 Stat. 601, provided: "That this Act \[enacting this chapter, amending section 25 of former Title 31, Money and Finance, and enacting provisions set out as a note under section 25 of former Title 31\] may be cited as the 'National Climate Program Act'."
 
 #### Global Climate Protection
 
 Pub. L. 100–204, title XI, Dec. 22, 1987, 101 Stat. 1407, as amended by Pub. L. 103–199, title VI, §603(1), Dec. 17, 1993, 107 Stat. 2327, provided that:
 
-#### “SEC. 1101. SHORT TITLE.
+#### "SEC. 1101. SHORT TITLE.
 
-“This title \[this note\] may be cited as the ‘Global Climate Protection Act of 1987’.
+"This title \[this note\] may be cited as the 'Global Climate Protection Act of 1987'.
 
-#### “SEC. 1102. FINDINGS.
+#### "SEC. 1102. FINDINGS.
 
-“The Congress finds as follows:
+"The Congress finds as follows:
 
-&emsp;“(1) There exists evidence that manmade pollution—the release of carbon dioxide, chlorofluorocarbons, methane, and other trace gases into the atmosphere—may be producing a long-term and substantial increase in the average temperature on Earth, a phenomenon known as global warming through the greenhouse effect.
+&emsp;"(1) There exists evidence that manmade pollution—the release of carbon dioxide, chlorofluorocarbons, methane, and other trace gases into the atmosphere—may be producing a long-term and substantial increase in the average temperature on Earth, a phenomenon known as global warming through the greenhouse effect.
 
-&emsp;“(2) By early in the next century, an increase in Earth temperature could—
+&emsp;"(2) By early in the next century, an increase in Earth temperature could—
 
-&emsp;&emsp;“(A) so alter global weather patterns as to have an effect on existing agricultural production and on the habitability of large portions of the Earth; and
+&emsp;&emsp;"(A) so alter global weather patterns as to have an effect on existing agricultural production and on the habitability of large portions of the Earth; and
 
-&emsp;&emsp;“(B) cause thermal expansion of the oceans and partial melting of the polar ice caps and glaciers, resulting in rising sea levels.
+&emsp;&emsp;"(B) cause thermal expansion of the oceans and partial melting of the polar ice caps and glaciers, resulting in rising sea levels.
 
-&emsp;“(3) Important research into the problem of climate change is now being conducted by various United States Government and international agencies, and the continuation and intensification of those efforts will be crucial to the development of an effective United States response.
+&emsp;"(3) Important research into the problem of climate change is now being conducted by various United States Government and international agencies, and the continuation and intensification of those efforts will be crucial to the development of an effective United States response.
 
-&emsp;“(4) While the consequences of the greenhouse effect may not be fully manifest until the next century, ongoing pollution and deforestation may be contributing now to an irreversible process. Necessary actions must be identified and implemented in time to protect the climate.
+&emsp;"(4) While the consequences of the greenhouse effect may not be fully manifest until the next century, ongoing pollution and deforestation may be contributing now to an irreversible process. Necessary actions must be identified and implemented in time to protect the climate.
 
-&emsp;“(5) The global nature of this problem will require vigorous efforts to achieve international cooperation aimed at minimizing and responding to adverse climate change; such international cooperation will be greatly enhanced by United States leadership. A key step in international cooperation will be the meeting of the Governing Council of the United Nations Environment Program, scheduled for June 1989, which will seek to determine a direction for worldwide efforts to control global climate change.
+&emsp;"(5) The global nature of this problem will require vigorous efforts to achieve international cooperation aimed at minimizing and responding to adverse climate change; such international cooperation will be greatly enhanced by United States leadership. A key step in international cooperation will be the meeting of the Governing Council of the United Nations Environment Program, scheduled for June 1989, which will seek to determine a direction for worldwide efforts to control global climate change.
 
-&emsp;“(6) Effective United States leadership in the international arena will depend upon a coordinated national policy.
+&emsp;"(6) Effective United States leadership in the international arena will depend upon a coordinated national policy.
 
-#### “SEC. 1103. MANDATE FOR ACTION ON THE GLOBAL CLIMATE.
+#### "SEC. 1103. MANDATE FOR ACTION ON THE GLOBAL CLIMATE.
 
-“(a)
+"(a)
 
 Goals of United States Policy.—United States policy should seek to—
 
-&emsp;“(1) increase worldwide understanding of the greenhouse effect and its environmental and health consequences;
+&emsp;"(1) increase worldwide understanding of the greenhouse effect and its environmental and health consequences;
 
-&emsp;“(2) foster cooperation among nations to develop more extensive and coordinated scientific research efforts with respect to the greenhouse effect;
+&emsp;"(2) foster cooperation among nations to develop more extensive and coordinated scientific research efforts with respect to the greenhouse effect;
 
-&emsp;“(3) identify technologies and activities to limit mankind's adverse effect on the global climate by—
+&emsp;"(3) identify technologies and activities to limit mankind's adverse effect on the global climate by—
 
-&emsp;&emsp;“(A) slowing the rate of increase of concentrations of greenhouse gases in the atmosphere in the near term; and
+&emsp;&emsp;"(A) slowing the rate of increase of concentrations of greenhouse gases in the atmosphere in the near term; and
 
-&emsp;&emsp;“(B) stabilizing or reducing atmospheric concentrations of greenhouse gases over the long term; and
+&emsp;&emsp;"(B) stabilizing or reducing atmospheric concentrations of greenhouse gases over the long term; and
 
-&emsp;“(4) work toward multilateral agreements.
+&emsp;"(4) work toward multilateral agreements.
 
-“(b)
+"(b)
 
 Formulation of United States Policy.—The President, through the Environmental Protection Agency, shall be responsible for developing and proposing to Congress a coordinated national policy on global climate change. Such policy formulation shall consider research findings of the Committee on Earth Sciences of the Federal Coordinating Council on Science and Engineering Technology, the National Academy of Sciences, the National Oceanic and Atmospheric Administration, the National Science Foundation, the National Aeronautic and Space Administration, the Department of Energy, the Environmental Protection Agency, and other organizations engaged in the conduct of scientific research.
 
-“(c)
+"(c)
 
 Coordination of United States Policy in the International Arena.—The Secretary of State shall be responsible to coordinate those aspects of United States policy requiring action through the channels of multilateral diplomacy, including the United Nations Environment Program and other international organizations. In the formulation of these elements of United States policy, the Secretary of State shall, under the direction of the President, work jointly with the Administrator of the Environmental Protection Agency and other United States agencies concerned with environmental protection, consistent with applicable Federal law.
 
-#### “SEC. 1104. REPORT TO CONGRESS.
+#### "SEC. 1104. REPORT TO CONGRESS.
 
-“Not later than 24 months after the date of enactment of this Act \[Dec. 22, 1987\], the Secretary of State and the Administrator of the Environmental Protection Agency shall jointly submit to all committees of jurisdiction in the Congress a report which shall include—
+"Not later than 24 months after the date of enactment of this Act \[Dec. 22, 1987\], the Secretary of State and the Administrator of the Environmental Protection Agency shall jointly submit to all committees of jurisdiction in the Congress a report which shall include—
 
-&emsp;“(1) a summary analysis of current international scientific understanding of the greenhouse effect, including its environmental and health consequences;
+&emsp;"(1) a summary analysis of current international scientific understanding of the greenhouse effect, including its environmental and health consequences;
 
-&emsp;“(2) an assessment of United States efforts to gain international cooperation in limiting global climate change; and
+&emsp;"(2) an assessment of United States efforts to gain international cooperation in limiting global climate change; and
 
-&emsp;“(3) a description of the strategy by which the United States intends to seek further international cooperation to limit global climate change.
+&emsp;"(3) a description of the strategy by which the United States intends to seek further international cooperation to limit global climate change.
 
-#### “SEC. 1105. INTERNATIONAL YEAR OF GLOBAL CLIMATE PROTECTION.
+#### "SEC. 1105. INTERNATIONAL YEAR OF GLOBAL CLIMATE PROTECTION.
 
-“In order to focus international attention and concern on the problem of global warming, and to foster further work on multilateral treaties aimed at protecting the global climate, the Secretary of State shall undertake all necessary steps to promote, within the United Nations system, the early designation of an International Year of Global Climate Protection.
+"In order to focus international attention and concern on the problem of global warming, and to foster further work on multilateral treaties aimed at protecting the global climate, the Secretary of State shall undertake all necessary steps to promote, within the United Nations system, the early designation of an International Year of Global Climate Protection.
 
-#### “SEC. 1106. CLIMATE PROTECTION AND UNITED STATES RELATIONS WITH THE INDEPENDENT STATES OF THE FORMER SOVIET UNION.
+#### "SEC. 1106. CLIMATE PROTECTION AND UNITED STATES RELATIONS WITH THE INDEPENDENT STATES OF THE FORMER SOVIET UNION.
 
-“In recognition of the respective leadership roles of the United States and the independent states of the former Soviet Union in the international arena, and of the extent to which they are producers of atmospheric pollutants, the Congress urges that the President accord the problem of climate protection a high priority on the agenda of United States relations with the independent states.”
+"In recognition of the respective leadership roles of the United States and the independent states of the former Soviet Union in the international arena, and of the extent to which they are producers of atmospheric pollutants, the Congress urges that the President accord the problem of climate protection a high priority on the agenda of United States relations with the independent states."
 

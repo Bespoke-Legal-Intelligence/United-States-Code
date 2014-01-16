@@ -18,9 +18,9 @@
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–357, title VIII, §886(b)(1)(B), Oct. 22, 2004, 118 Stat. 1641, struck out item 1056 “Basis limitation for player contracts transferred in connection with the the sale of a franchise”.
+<b>2004</b>—Pub. L. 108–357, title VIII, §886(b)(1)(B), Oct. 22, 2004, 118 Stat. 1641, struck out item 1056 "Basis limitation for player contracts transferred in connection with the the sale of a franchise".
 
-<b>1997</b>—Pub. L. 105–34, title XI, §1131(c)(5), Aug. 5, 1997, 111 Stat. 980, struck out item 1057 “Election to treat transfer to foreign trust, etc., as taxable exchange”.
+<b>1997</b>—Pub. L. 105–34, title XI, §1131(c)(5), Aug. 5, 1997, 111 Stat. 980, struck out item 1057 "Election to treat transfer to foreign trust, etc., as taxable exchange".
 
 <b>1986</b>—Pub. L. 99–514, title VI, §641(b), title XII, §1248(b), Oct. 22, 1986, 100 Stat. 2283, 2584, added items 1059A and 1060 and renumbered former item 1060 as 1061.
 

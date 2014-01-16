@@ -12,7 +12,7 @@
 
 &emsp;(3) except as provided in subsection (f) or (h), any civilian service (performed before January 1, 1989, other than any service under paragraph (1) or (2)) which, but for the amendments made by subsections (a)(4) and (b) of section 202 of the Federal Employees’ Retirement System Act of 1986, would be creditable under subchapter III of chapter 83 of this title (determined without regard to any deposit or redeposit requirement under such subchapter, any requirement that the individual become subject to such subchapter after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual's desire to become subject to such subchapter);
 
-&emsp;(4) a period of service (other than any service under any other paragraph of this subsection and other than any military service) that was creditable under the Foreign Service Pension System described in subchapter II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980, if the employee or Member waives credit for such service under the Foreign Service Pension System and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together with interest on such amount computed under paragraphs (2) and (3) of section 8334(e));
+&emsp;(4) a period of service (other than any service under any other paragraph of this subsection and other than any military service) that was creditable under the Foreign ServicePension System described in subchapter II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980, if the employee or Member waives credit for such service under the Foreign Service Pension System and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together with interest on such amount computed under paragraphs (2) and (3) of section 8334(e));
 
 &emsp;(5) a period of service (other than any service under any other paragraph of this subsection, any military service, and any service performed in the employ of a Federal Reserve Bank) that was creditable under the Bank Plan (as defined in subsection (i)), if the employee waives credit for such service under the Bank Plan and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together with interest on such amount computed under paragraphs (2) and (3) of section 8334(e)); and
 
@@ -102,7 +102,7 @@
 
 (3) An individual shall not be granted credit for such service under this subsection if eligible for credit under section 8332(m) for such service.
 
-(k)(1) <sup>3</sup> The Office of Personnel Management shall accept, for the purposes of this chapter, the certification of the head of a nonappropriated fund instrumentality of the United States concerning service of the type described in subsection (b)(6) that was performed for such nonappropriated fund instrumentality.
+(k)(1) <sup>3</sup> The Office of Personnel Management shall accept, for the purposes of this chapter,the certification of the head of a nonappropriated fund instrumentality of the United States concerning service of the type described in subsection (b)(6) that was performed for such nonappropriated fund instrumentality.
 
 (2) Service credited under subsection (b)(6) may not also be credited under any other retirement system provided for employees paid from nonappropriated funds of a nonappropriated fund instrumentality.
 
@@ -388,7 +388,7 @@ Retroactive effect.—Any computation or recomputation of an annuity or survivor
 
 &emsp;&emsp;“(D)
 
-Lump-sum payment.—Any amounts which by virtue of subparagraph (C) are payable for any months preceding the first month (on or after the effective date referred to in paragraph (1)(B)) as of which annuity or survivor annuity payments become payable fully reflecting the computation or recomputation under subparagraph (A) or (B) (asthe case may be) shall be payable in the form of a lump-sum payment.
+Lump-sum payment.—Any amounts which by virtue of subparagraph (C) are payable for any months preceding the first month (on or after the effective date referred to in paragraph (1)(B)) as of which annuity or survivor annuity payments become payable fully reflecting the computation or recomputation under subparagraph (A) or (B) (as the case may be) shall be payable in the form of a lump-sum payment.
 
 &emsp;&emsp;“(E)
 

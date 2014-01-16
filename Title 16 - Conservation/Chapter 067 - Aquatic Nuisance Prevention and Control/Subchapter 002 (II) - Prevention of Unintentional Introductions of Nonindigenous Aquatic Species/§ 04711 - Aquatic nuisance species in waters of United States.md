@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 6 months after November 29, 1990, the Secretary shall issue voluntary guidelines to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the exchange of ballast water of vessels prior to entering those waters.
+&emsp;Not later than 6 months after November 29, 1990, the Secretary shall issue voluntaryguidelines to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the exchange of ballast water of vessels prior to entering those waters.
 
 #### (2) Content of guidelines
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;(I) be based on the best scientific information available;
 
-&emsp;&emsp;(J) not affect or supersede any requirements or prohibitions pertaining to the discharge of ballast water into waters of theUnited States under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.); and
+&emsp;&emsp;(J) not affect or supersede any requirements or prohibitions pertaining to the discharge of ballast water into waters of the United States under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.); and
 
 &emsp;&emsp;(K) provide an exemption from ballast water exchange requirements to passenger vessels with operating ballast water systems that are equipped with treatment systems designed to kill aquatic organisms in ballast water, unless the Secretary determines that such treatment systems are less effective than ballast water exchange at reducing the risk of transfers of invasive species in the ballast water of passenger vessels; and
 
@@ -176,7 +176,7 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 #### (1) General regulations
 
-&emsp;If, on the basis of a periodic review conducted under subsection (e)(1) of this section or a special review conducted under subsection (e)(2) of this section, the Secretary determines that—
+&emsp;If, on the basis of a periodic review conducted under subsection (e)(1) of this sectionor a special review conducted under subsection (e)(2) of this section, the Secretary determines that—
 
 &emsp;&emsp;(A) the rate of effective compliance (as determined by the Secretary) with the guidelines issued pursuant to subsection (c) of this section is inadequate; or
 
@@ -206,7 +206,7 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 #### (1) Civil penalties
 
-&emsp;Any person who violates a regulation promulgated under subsection (b) or (f) of this section shall be liable for a civil penalty in an amount not to exceed $25,000. Each day of a continuing violation constitutes a separateviolation. A vessel operated in violation of the regulations is liable in rem for any civil penalty assessed under this subsection for that violation.
+&emsp;Any person who violates a regulation promulgated under subsection (b) or (f) of this section shall be liable for a civil penalty in an amount not to exceed $25,000. Each day of a continuing violation constitutes a separate violation. A vessel operated in violation of the regulations is liable in rem for any civil penalty assessed under this subsection for that violation.
 
 #### (2) Criminal penalties
 
@@ -226,7 +226,7 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 #### (h) Coordination with other agencies
 
-In carrying out the programs under this section, the Secretary is encouraged to use, to the maximum extent practicable, the expertise, facilities, members, or personnel of established agencies and organizations that have routine contact with vessels, including the Animal and Plant Health Inspection Service of the Department of Agriculture, the National Cargo Bureau, port administrations, and ship pilots’ associations.
+In carrying out the programs under this section, the Secretary is encouraged to use, to the maximum extent practicable, the expertise, facilities, members, or personnel of established agencies and organizations that have routine contact with vessels, including the Animal and Plant Health Inspection Service of the Department of Agriculture, the National Cargo Bureau, port administrations, and ship pilots' associations.
 
 #### (i) Consultation with Canada, Mexico, and other foreign governments
 
@@ -254,7 +254,7 @@ The Secretary, in cooperation with the International Maritime Organization of th
 
 #### (3) Crude oil tanker ballast facility study
 
-&emsp;(A) Within 60 days of October 26, 1996,<sup>1</sup> the Secretary of the department in which the Coast Guard is operating, in consultation with the Under Secretary of Commerce for Oceans and Atmosphere, affected shoreside ballast water facility operators, affected crude oil tanker operators, and interested parties, shall initiate a study of the effectiveness of existing shoreside ballast water facilities used by crude oil tankers in the coastwise trade off Alaska in preventing the introduction of nonindigenous aquatic species into the waters off Alaska, as well as the cost and feasibility of modifying such facilities to improve such effectiveness.
+&emsp;(A) Within 60 days of October 26, 1996,<sup>1</sup> the Secretary of the department in which the Coast Guard is operating, in consultation withthe Under Secretary of Commerce for Oceans and Atmosphere, affected shoreside ballast water facility operators, affected crude oil tanker operators, and interested parties, shall initiate a study of the effectiveness of existing shoreside ballast water facilities used by crude oil tankers in the coastwise trade off Alaska in preventing the introduction of nonindigenous aquatic species into the waters off Alaska, as well as the cost and feasibility of modifying such facilities to improve such effectiveness.
 
 &emsp;(B) The study required under subparagraph (A) shall be submitted to the Congress by no later than October 1, 1997.
 
@@ -268,13 +268,13 @@ The Secretary shall ensure that vessels registered outside of the United States 
 
 The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(C) and (c)(2)(J), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-This chapter, referred to in subsecs. (e)(1)(A), (g)(4)(B), and (l), was in the original “this Act” or “the Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (e)(1)(A), (g)(4)(B), and (l), was in the original "this Act" or "the Act", which, to reflect the probable intent of Congress, was translated as reading "this title" meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
 
 #### Codification
 
-In subsec. (g)(3), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes (46 U.S.C. App.91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (g)(3), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes (46 U.S.C. App. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
-October 26, 1996, referred to in subsec. (k)(3), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–332, which amended this section generally, to reflect the probable intent of Congress.
+October 26, 1996, referred to in subsec. (k)(3), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 104–332, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 

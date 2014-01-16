@@ -42,9 +42,9 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(g); added Feb. 5, 1976, Pub. 
 
 49 App.:1654(g) (4th, last sentences).
 
-In subsection (a)(1), the word “modify” is added for consistency with 49 App.:1654(a), restated in section 22102 of the revised title.
+In subsection (a)(1), the word "modify" is added for consistency with 49 App.:1654(a), restated in section 22102 of the revised title.
 
-In subsection (b), the words “not later than the first day of the fiscal year for which the amounts are available” are substituted for “on or before the first day of the fiscal year” for clarity.
+In subsection (b), the words "not later than the first day of the fiscal year for which the amounts are available" are substituted for "on or before the first day of the fiscal year" for clarity.
 
-In subsection (c), the word “timely” is omitted as unnecessary. The words “the first 3 months after the end of the fiscal year for which the amounts were made available” are substituted for “the expiration of the period described in the previous sentence” for clarity.
+In subsection (c), the word "timely" is omitted as unnecessary. The words "the first 3 months after the end of the fiscal year for which the amounts were made available" are substituted for "the expiration of the period described in the previous sentence" for clarity.
 

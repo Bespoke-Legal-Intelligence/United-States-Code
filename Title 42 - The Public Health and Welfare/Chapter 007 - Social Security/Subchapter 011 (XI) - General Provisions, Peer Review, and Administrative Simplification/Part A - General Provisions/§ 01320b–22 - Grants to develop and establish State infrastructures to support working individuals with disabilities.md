@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall award grants described in subsection (b) of this section to States to support the design, establishment, and operation of State infrastructures that provide items and services to support working individuals with disabilities.
+&emsp;The Secretary of Health and Human Services (in this section referred to as the "Secretary") shall award grants described in subsection (b) of this section to States to support the design, establishment, and operation of State infrastructures that provide items and services to support working individuals with disabilities.
 
 #### (2) Application
 
@@ -12,7 +12,7 @@
 
 #### (3) Definition of State
 
-&emsp;In this section, the term “State” means each of the 50 States, the District of Columbia, Puerto Rico, Guam, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;In this section, the term "State" means each of the 50 States, the District of Columbia, Puerto Rico, Guam, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (b) Grants for infrastructure and outreach
 
@@ -36,7 +36,7 @@
 
 #### (i) Employed
 
-&emsp;&emsp;&emsp;The term “employed” means—
+&emsp;&emsp;&emsp;The term "employed" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) earning at least the applicable minimum wage requirement under section 206 of title 29 and working at least 40 hours per month; or
 
@@ -44,7 +44,7 @@
 
 #### (ii) Personal assistance services
 
-&emsp;&emsp;&emsp;The term “personal assistance services” means a range of services, provided by 1 or more persons, designed to assist an individual with a disability to perform daily activities on and off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
+&emsp;&emsp;&emsp;The term "personal assistance services" means a range of services, provided by 1 or more persons, designed to assist an individual with a disability to perform daily activities on and off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
 
 #### (3) Determination of awards
 
@@ -90,7 +90,7 @@
 
 #### (d) Annual report
 
-A State that is awarded a grant under this section shall submit an annual report to the Secretary on the use of funds provided under the grant. Each report shall include the percentage increase in the number of title II disability beneficiaries, as defined in section 1320b–19(k)(3) of this title in the State, and title XVI disability beneficiaries, as defined in section 1320b–19(k)(4) of this title in the State who return to work.
+A State that is awarded a grant under this section shall submit an annual report to the Secretary on the use of funds provided under the grant. Each report shall include the percentage increase in the number of title II disability beneficiaries, as defined in section 1320b–19(k)(3) of this title (as added by section 101(a) of this Act) in the State, and title XVI disability beneficiaries, as defined in section 1320b–19(k)(4) of this title (as so added) in the State who return to work.
 
 #### (e) Appropriation
 
@@ -121,6 +121,8 @@ Not later than October 1, 2010, the Secretary, in consultation with the Ticket t
 (Pub. L. 106–170, title II, §203, Dec. 17, 1999, 113 Stat. 1894.)
 
 #### References in Text
+
+Section 101(a) of this Act, referred to in subsec. (d), is section 101(a) of the Ticket to Work and Work Incentives Improvement Act of 1999, Pub. L. 106–170, which enacted section 1320b–19 of this title.
 
 Section 101(f) of this Act, referred to in subsec. (f), is section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, Pub. L. 106–170, which is set out as a note under section 1320b–19 of this title.
 

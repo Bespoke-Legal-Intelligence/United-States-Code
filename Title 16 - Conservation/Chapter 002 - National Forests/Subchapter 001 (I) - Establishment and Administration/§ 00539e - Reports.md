@@ -6,7 +6,7 @@ The Secretary is directed to monitor timber supply and demand in southeastern Al
 
 #### (b) Status of Tongass National Forest in southeastern Alaska; contents
 
-Within five years from December 2, 1980, and every two years thereafter the Secretary shall review and report to Congress on the status of the Tongass National Forest in southeastern Alaska. This report shall include, but not be limited to, (1) the timber harvest levels in the forest since December 2, 1980; (2) the impact ofwilderness designation on the timber, fishing, and tourism industry in southeast Alaska; (3) measures instituted by the Forest Service to protect fish and wildlife in the forest; (4) the status of the small business set aside program in the Tongass Forest,<sup>1</sup> and (5) the impact of timber management on subsistence resources, wildlife, and fisheries habitats.
+Within five years from December 2, 1980, and every two years thereafter the Secretary shall review and report to Congress on the status of the Tongass National Forest in southeastern Alaska. This report shall include, but not be limited to, (1) the timber harvest levels in the forest since December 2, 1980; (2) the impact of wilderness designation on the timber, fishing, and tourism industry in southeast Alaska; (3) measures instituted by the Forest Service to protect fish and wildlife in the forest; (4) the status of the small business set aside program in the Tongass Forest,<sup>1</sup> and (5) the impact of timber management on subsistence resources, wildlife, and fisheries habitats.
 
 #### (c) Cooperation and consultation
 
@@ -16,13 +16,13 @@ The study required by this section shall be conducted in cooperation and consult
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–626, §104(a), struck out at end “If, at any time after December 2, 1980, the Secretary finds that the available land base in the Tongass National Forest is inadequate to maintain the timber supply from the Tongass National Forest to dependent industry at the rate of four billion five hundred million foot board measure per decade, he shall include such information in his report.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–626, §104(a), struck out at end "If, at any time after December 2, 1980, the Secretary finds that the available land base in the Tongass National Forest is inadequate to maintain the timber supply from the Tongass National Forest to dependent industry at the rate of four billion five hundred million foot board measure per decade, he shall include such information in his report."
 
 Subsec. (b). Pub. L. 101–626, §104(a), added cl. (5).
 
-Subsec. (c). Pub. L. 101–626, §104(b), substituted “the southeast Alaska commercial fishing industry, and the Alaska Land Use Council.” for “and the Alaska Land Use Council”.
+Subsec. (c). Pub. L. 101–626, §104(b), substituted "the southeast Alaska commercial fishing industry, and the Alaska Land Use Council." for "and the Alaska Land Use Council".
 
 #### Termination of Reporting Requirements
 

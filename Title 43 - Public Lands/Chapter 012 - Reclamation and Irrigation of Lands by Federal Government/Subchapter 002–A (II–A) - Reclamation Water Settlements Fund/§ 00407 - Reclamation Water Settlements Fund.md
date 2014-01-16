@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Treasury of the United States a fund, to be known as the “Reclamation Water Settlements Fund”, consisting of—
+There is established in the Treasury of the United States a fund, to be known as the "Reclamation Water Settlements Fund", consisting of—
 
 &emsp;(1) such amounts as are deposited to the Fund under subsection (b); and
 
@@ -96,7 +96,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, in addition to funding made available pursuant to clauses (i) and (ii), if in the judgment of the Secretary on an annual basis a sufficient amount of funding is not otherwise available through annual appropriations, the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the remaining costs of implementing Indian water rights settlement agreements entered into by the State of Montana with the Blackfeet Tribe, the Crow Tribe, or the Gros Ventre and Assiniboine Tribes of the Fort Belknap Indian Reservation in the judicial proceeding entitled “In re the General Adjudication of All the Rights to Use Surface and Groundwater in the State of Montana”, if a settlement or settlements are subsequently approved and authorized by an Act of Congress and the implementation period has not already expired.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, in addition to funding made available pursuant to clauses (i) and (ii), if in the judgment of the Secretary on an annual basis a sufficient amount of funding is not otherwise available through annual appropriations, the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the remaining costs of implementing Indian water rights settlement agreements entered into by the State of Montana with the Blackfeet Tribe, the Crow Tribe, or the Gros Ventre and Assiniboine Tribes of the Fort Belknap Indian Reservation in the judicial proceeding entitled "In re the General Adjudication of All the Rights to Use Surface and Groundwater in the State of Montana", if a settlement or settlements are subsequently approved and authorized by an Act of Congress and the implementation period has not already expired.
 
 #### (II) Maximum amount
 
@@ -176,153 +176,153 @@ Section 10609(a), referred to in subsec. (c)(3)(B)(i)(I), is section 10609(a) of
 
 Pub. L. 111–11, title X, §10303, Mar. 30, 2009, 123 Stat. 1370, provided that:
 
-“(a)
+"(a)
 
 Effect of Execution of Agreement.—The execution of the Agreement under section 10701(a)(2) \[43 U.S.C. 620 note\] shall not constitute a major Federal action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
-“(b)
+"(b)
 
 Compliance With Environmental Laws.—In carrying out this subtitle \[subtitle B (§§10301–10704) of title X of Pub. L. 111–11, see Definitions note below\], the Secretary shall comply with each law of the Federal Government relating to the protection of the environment, including—
 
-&emsp;“(1) the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
+&emsp;"(1) the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
 
-&emsp;“(2) the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).”
+&emsp;"(2) the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.)."
 
 #### Definitions
 
-Pub. L. 111–11, title X, §10302, Mar. 30, 2009, 123 Stat. 1367, provided that: “In this subtitle \[subtitle B (§§10301–10704) of title X of Pub. L. 111–11, enacting this section, former section 615jj, and section 620n–1 of this title, amending former section 615ss and sections 620 and 620o of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section and sections 371 and 620 of this title\]:
+Pub. L. 111–11, title X, §10302, Mar. 30, 2009, 123 Stat. 1367, provided that: "In this subtitle \[subtitle B (§§10301–10704) of title X of Pub. L. 111–11, enacting this section, former section 615jj, and section 620n–1 of this title, amending former section 615ss and sections 620 and 620o of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section and sections 371 and 620 of this title\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Aamodt adjudication.—The term ‘Aamodt adjudication’ means the general stream adjudication that is the subject of the civil action entitled ‘State of New Mexico, ex rel. State Engineer and United States of America, Pueblo de Nambe, Pueblo de Pojoaque, Pueblo de San Ildefonso, and Pueblo de Tesuque v. R. Lee Aamodt, et al.’, No. 66 CV 6639 MV/LCS (D.N.M.).
+Aamodt adjudication.—The term 'Aamodt adjudication' means the general stream adjudication that is the subject of the civil action entitled 'State of New Mexico, ex rel. State Engineer and United States of America, Pueblo de Nambe, Pueblo de Pojoaque, Pueblo de San Ildefonso, and Pueblo de Tesuque v. R. Lee Aamodt, et al.', No. 66 CV 6639 MV/LCS (D.N.M.).
 
-&emsp;“(2)
+&emsp;"(2)
 
-Abeyta adjudication.—The term ‘Abeyta adjudication’ means the general stream adjudication that is the subject of the civil actions entitled ‘State of New Mexico v. Abeyta and State of New Mexico v. Arrellano’, Civil Nos. 7896–BB (D.N.M) and 7939–BB (D.N.M.) (consolidated).
+Abeyta adjudication.—The term 'Abeyta adjudication' means the general stream adjudication that is the subject of the civil actions entitled 'State of New Mexico v. Abeyta and State of New Mexico v. Arrellano', Civil Nos. 7896–BB (D.N.M) and 7939–BB (D.N.M.) (consolidated).
 
-&emsp;“(3)
+&emsp;"(3)
 
-Acre-feet.—The term ‘acre-feet’ means acre-feet per year.
+Acre-feet.—The term 'acre-feet' means acre-feet per year.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Agreement.—The term ‘Agreement’ means the agreement among the State of New Mexico, the Nation, and the United States setting forth a stipulated and binding agreement signed by the State of New Mexico and the Nation on April 19, 2005.
+Agreement.—The term 'Agreement' means the agreement among the State of New Mexico, the Nation, and the United States setting forth a stipulated and binding agreement signed by the State of New Mexico and the Nation on April 19, 2005.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Allottee.—The term ‘allottee’ means a person that holds a beneficial real property interest in a Navajo allotment that—
+Allottee.—The term 'allottee' means a person that holds a beneficial real property interest in a Navajo allotment that—
 
-&emsp;&emsp;“(A) is located within the Navajo Reservation or the State of New Mexico;
+&emsp;&emsp;"(A) is located within the Navajo Reservation or the State of New Mexico;
 
-&emsp;&emsp;“(B) is held in trust by the United States; and
+&emsp;&emsp;"(B) is held in trust by the United States; and
 
-&emsp;&emsp;“(C) was originally granted to an individual member of the Nation by public land order or otherwise.
+&emsp;&emsp;"(C) was originally granted to an individual member of the Nation by public land order or otherwise.
 
-&emsp;“(6)
+&emsp;"(6)
 
-Animas-la plata project.—The term ‘Animas-La Plata Project’ has the meaning given the term in section 3 of Public Law 100–585 (102 Stat. 2973), including Ridges Basin Dam, Lake Nighthorse, the Navajo Nation Municipal Pipeline, and any other features or modifications made pursuant to the Colorado Ute Settlement Act Amendments of 2000 (Public Law 106–554; 114 Stat. 2763A–258).
+Animas-la plata project.—The term 'Animas-La Plata Project' has the meaning given the term in section 3 of Public Law 100–585 (102 Stat. 2973), including Ridges Basin Dam, Lake Nighthorse, the Navajo Nation Municipal Pipeline, and any other features or modifications made pursuant to the Colorado Ute Settlement Act Amendments of 2000 (Public Law 106–554; 114 Stat. 2763A–258).
 
-&emsp;“(7)
+&emsp;"(7)
 
-City.—The term ‘City’ means the city of Gallup, New Mexico, or a designee of the City, with authority to provide water to the Gallup, New Mexico service area.
+City.—The term 'City' means the city of Gallup, New Mexico, or a designee of the City, with authority to provide water to the Gallup, New Mexico service area.
 
-&emsp;“(8)
+&emsp;"(8)
 
-Colorado river compact.—The term ‘Colorado River Compact’ means the Colorado River Compact of 1922 as approved by Congress in the Act of December 21, 1928 (45 Stat. 1057) and by the Presidential Proclamation of June 25, 1929 (46 Stat. 3000).
+Colorado river compact.—The term 'Colorado River Compact' means the Colorado River Compact of 1922 as approved by Congress in the Act of December 21, 1928 (45 Stat. 1057) and by the Presidential Proclamation of June 25, 1929 (46 Stat. 3000).
 
-&emsp;“(9)
+&emsp;"(9)
 
-Colorado river system.—The term ‘Colorado River System’ has the same meaning given the term in Article II(a) of the Colorado River Compact.
+Colorado river system.—The term 'Colorado River System' has the same meaning given the term in Article II(a) of the Colorado River Compact.
 
-&emsp;“(10)
+&emsp;"(10)
 
-Compact.—The term ‘Compact’ means the Upper Colorado River Basin Compact as consented to by the Act of April 6, 1949 (63 Stat. 31, chapter 48).
+Compact.—The term 'Compact' means the Upper Colorado River Basin Compact as consented to by the Act of April 6, 1949 (63 Stat. 31, chapter 48).
 
-&emsp;“(11)
+&emsp;"(11)
 
-Contract.—The term ‘Contract’ means the contract between the United States and the Nation setting forth certain commitments, rights, and obligations of the United States and the Nation, as described in paragraph 6.0 of the Agreement.
+Contract.—The term 'Contract' means the contract between the United States and the Nation setting forth certain commitments, rights, and obligations of the United States and the Nation, as described in paragraph 6.0 of the Agreement.
 
-&emsp;“(12)
+&emsp;"(12)
 
-Depletion.—The term ‘depletion’ means the depletion of the flow of the San Juan River stream system in the State of New Mexico by a particular use of water (including any depletion incident to the use) and represents the diversion from the stream system by the use, less return flows to the stream system from the use.
+Depletion.—The term 'depletion' means the depletion of the flow of the San Juan River stream system in the State of New Mexico by a particular use of water (including any depletion incident to the use) and represents the diversion from the stream system by the use, less return flows to the stream system from the use.
 
-&emsp;“(13)
+&emsp;"(13)
 
-Draft impact statement.—The term ‘Draft Impact Statement’ means the draft environmental impact statement prepared by the Bureau of Reclamation for the Project dated March 2007.
+Draft impact statement.—The term 'Draft Impact Statement' means the draft environmental impact statement prepared by the Bureau of Reclamation for the Project dated March 2007.
 
-&emsp;“(14)
+&emsp;"(14)
 
-Fund.—The term ‘Fund’ means the Reclamation Waters Settlements Fund established by section 10501(a) \[43 U.S.C. 407(a)\].
+Fund.—The term 'Fund' means the Reclamation Waters Settlements Fund established by section 10501(a) \[43 U.S.C. 407(a)\].
 
-&emsp;“(15)
+&emsp;"(15)
 
-Hydrologic determination.—The term ‘hydrologic determination’ means the hydrologic determination entitled ‘Water Availability from Navajo Reservoir and the Upper Colorado River Basin for Use in New Mexico,’ prepared by the Bureau of Reclamation pursuant to section 11 of the Act of June 13, 1962 (Public Law 87–483; 76 Stat. 99) \[former 43 U.S.C. 615ss\], and dated May 23, 2007.
+Hydrologic determination.—The term 'hydrologic determination' means the hydrologic determination entitled 'Water Availability from Navajo Reservoir and the Upper Colorado River Basin for Use in New Mexico,' prepared by the Bureau of Reclamation pursuant to section 11 of the Act of June 13, 1962 (Public Law 87–483; 76 Stat. 99) \[former 43 U.S.C. 615ss\], and dated May 23, 2007.
 
-&emsp;“(16)
+&emsp;"(16)
 
-Lower basin.—The term ‘Lower Basin’ has the same meaning given the term in Article II(g) of the Colorado River Compact.
+Lower basin.—The term 'Lower Basin' has the same meaning given the term in Article II(g) of the Colorado River Compact.
 
-&emsp;“(17)
+&emsp;"(17)
 
-Nation.—The term ‘Nation’ means the Navajo Nation, a body politic and federally-recognized Indian nation as provided for in section 101(2) \[102(2)\] of the Federally Recognized Indian Tribe List \[Act\] of 1994 (25 U.S.C. 497a(2) \[479a(2)\]), also known variously as the ‘Navajo Tribe,’ the ‘Navajo Tribe of Arizona, New Mexico \& Utah,’ and the ‘Navajo Tribe of Indians’ and other similar names, and includes all bands of Navajo Indians and chapters of the Navajo Nation.
+Nation.—The term 'Nation' means the Navajo Nation, a body politic and federally-recognized Indian nation as provided for in section 101(2) \[102(2)\] of the Federally Recognized Indian Tribe List \[Act\] of 1994 (25 U.S.C. 497a(2) \[479a(2)\]), also known variously as the 'Navajo Tribe,' the 'Navajo Tribe of Arizona, New Mexico \& Utah,' and the 'Navajo Tribe of Indians' and other similar names, and includes all bands of Navajo Indians and chapters of the Navajo Nation.
 
-&emsp;“(18)
+&emsp;"(18)
 
-Navajo-gallup water supply project; project.—The term ‘Navajo-Gallup Water Supply Project’ or ‘Project’ means the Navajo-Gallup Water Supply Project authorized under section 10602(a) \[123 Stat. 1379\], as described as the preferred alternative in the Draft Impact Statement.
+Navajo-gallup water supply project; project.—The term 'Navajo-Gallup Water Supply Project' or 'Project' means the Navajo-Gallup Water Supply Project authorized under section 10602(a) \[123 Stat. 1379\], as described as the preferred alternative in the Draft Impact Statement.
 
-&emsp;“(19)
+&emsp;"(19)
 
-Navajo indian irrigation project.—The term ‘Navajo Indian Irrigation Project’ means the Navajo Indian irrigation project authorized by section 2 of Public Law 87–483 (76 Stat. 96) \[former 43 U.S.C. 615jj\].
+Navajo indian irrigation project.—The term 'Navajo Indian Irrigation Project' means the Navajo Indian irrigation project authorized by section 2 of Public Law 87–483 (76 Stat. 96) \[former 43 U.S.C. 615jj\].
 
-&emsp;“(20)
+&emsp;"(20)
 
-Navajo reservoir.—The term ‘Navajo Reservoir’ means the reservoir created by the impoundment of the San Juan River at Navajo Dam, as authorized by the Act of April 11, 1956 (commonly known as the ‘Colorado River Storage Project Act’) (43 U.S.C. 620 et seq.).
+Navajo reservoir.—The term 'Navajo Reservoir' means the reservoir created by the impoundment of the San Juan River at Navajo Dam, as authorized by the Act of April 11, 1956 (commonly known as the 'Colorado River Storage Project Act') (43 U.S.C. 620 et seq.).
 
-&emsp;“(21)
+&emsp;"(21)
 
-Navajo nation municipal pipeline; pipeline.—The term ‘Navajo Nation Municipal Pipeline’ or ‘Pipeline’ means the pipeline used to convey the water of the Animas-La Plata Project of the Navajo Nation from the City of Farmington, New Mexico, to communities of the Navajo Nation located in close proximity to the San Juan River Valley in the State of New Mexico (including the City of Shiprock), as authorized by section 15(b) of the Colorado Ute Indian Water Rights Settlement Act of 1988 (Public Law 100–585; 102 Stat. 2973; 114 Stat. 2763A–263).
+Navajo nation municipal pipeline; pipeline.—The term 'Navajo Nation Municipal Pipeline' or 'Pipeline' means the pipeline used to convey the water of the Animas-La Plata Project of the Navajo Nation from the City of Farmington, New Mexico, to communities of the Navajo Nation located in close proximity to the San Juan River Valley in the State of New Mexico (including the City of Shiprock), as authorized by section 15(b) of the Colorado Ute Indian Water Rights Settlement Act of 1988 (Public Law 100–585; 102 Stat. 2973; 114 Stat. 2763A–263).
 
-&emsp;“(22)
+&emsp;"(22)
 
-Non-navajo irrigation districts.—The term ‘Non-Navajo Irrigation Districts’ means—
+Non-navajo irrigation districts.—The term 'Non-Navajo Irrigation Districts' means—
 
-&emsp;&emsp;“(A) the Hammond Conservancy District;
+&emsp;&emsp;"(A) the Hammond Conservancy District;
 
-&emsp;&emsp;“(B) the Bloomfield Irrigation District; and
+&emsp;&emsp;"(B) the Bloomfield Irrigation District; and
 
-&emsp;&emsp;“(C) any other community ditch organization in the San Juan River basin in the State of New Mexico.
+&emsp;&emsp;"(C) any other community ditch organization in the San Juan River basin in the State of New Mexico.
 
-&emsp;“(23)
+&emsp;"(23)
 
-Partial final decree.—The term ‘Partial Final Decree’ means a final and binding judgment and decree entered by a court in the stream adjudication, setting forth the rights of the Nation to use and administer waters of the San Juan River Basin in New Mexico, as set forth in Appendix 1 of the Agreement.
+Partial final decree.—The term 'Partial Final Decree' means a final and binding judgment and decree entered by a court in the stream adjudication, setting forth the rights of the Nation to use and administer waters of the San Juan River Basin in New Mexico, as set forth in Appendix 1 of the Agreement.
 
-&emsp;“(24)
+&emsp;"(24)
 
-Project participants.—The term ‘Project Participants’ means the City, the Nation, and the Jicarilla Apache Nation.
+Project participants.—The term 'Project Participants' means the City, the Nation, and the Jicarilla Apache Nation.
 
-&emsp;“(25)
+&emsp;"(25)
 
-San juan river basin recovery implementation program.—The term ‘San Juan River Basin Recovery Implementation Program’ means the intergovernmental program established pursuant to the cooperative agreement dated October 21, 1992 (including any amendments to the program).
+San juan river basin recovery implementation program.—The term 'San Juan River Basin Recovery Implementation Program' means the intergovernmental program established pursuant to the cooperative agreement dated October 21, 1992 (including any amendments to the program).
 
-&emsp;“(26)
+&emsp;"(26)
 
-Secretary.—The term ‘Secretary’ means the Secretary of the Interior, acting through the Commissioner of Reclamation or any other designee.
+Secretary.—The term 'Secretary' means the Secretary of the Interior, acting through the Commissioner of Reclamation or any other designee.
 
-&emsp;“(27)
+&emsp;"(27)
 
-Stream adjudication.—The term ‘stream adjudication’ means the general stream adjudication that is the subject of New Mexico v. United States, et al., No. 75–185 (11th Jud. Dist., San Juan County, New Mexico) (involving claims to waters of the San Juan River and the tributaries of that river).
+Stream adjudication.—The term 'stream adjudication' means the general stream adjudication that is the subject of New Mexico v. United States, et al., No. 75–185 (11th Jud. Dist., San Juan County, New Mexico) (involving claims to waters of the San Juan River and the tributaries of that river).
 
-&emsp;“(28)
+&emsp;"(28)
 
-Supplemental partial final decree.—The term ‘Supplemental Partial Final Decree’ means a final and binding judgment and decree entered by a court in the stream adjudication, setting forth certain water rights of the Nation, as set forth in Appendix 2 of the Agreement.
+Supplemental partial final decree.—The term 'Supplemental Partial Final Decree' means a final and binding judgment and decree entered by a court in the stream adjudication, setting forth certain water rights of the Nation, as set forth in Appendix 2 of the Agreement.
 
-&emsp;“(29)
+&emsp;"(29)
 
-Trust fund.—The term ‘Trust Fund’ means the Navajo Nation Water Resources Development Trust Fund established by section 10702(a) \[123 Stat. 1402\].
+Trust fund.—The term 'Trust Fund' means the Navajo Nation Water Resources Development Trust Fund established by section 10702(a) \[123 Stat. 1402\].
 
-&emsp;“(30)
+&emsp;"(30)
 
-Upper basin.—The term ‘Upper Basin’ has the same meaning given the term in Article II(f) of the Colorado River Compact.”
+Upper basin.—The term 'Upper Basin' has the same meaning given the term in Article II(f) of the Colorado River Compact."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

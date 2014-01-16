@@ -10,7 +10,7 @@ The President is authorized to negotiate and conclude an agreement, including th
 
 &emsp;(3) Such economic cost shall reflect the time value of money and be determined using the rate determined for an equivalent loan by the Federal Financing Bank as of the date these funds are advanced, and using an inflation rate consistent with the determinations made under the provisions of section 215 of the Compact.
 
-&emsp;(4) If the Government of Palau has not paid such net economic costs to the United Statesby the 15th anniversary of the effective date of the Compact, then the United States shall be automatically paid such sums from the fund established under section 211(f) of the Compact.
+&emsp;(4) If the Government of Palau has not paid such net economic costs to the United States by the 15th anniversary of the effective date of the Compact, then the United States shall be automatically paid such sums from the fund established under section 211(f) of the Compact.
 
 &emsp;(5) The provision of section 211(b) funds, as appropriated by Public Law 99–349 and pursuant to this subsection, shall be in fulfillment of all United States obligations under such section 211(b) of the Compact and shall be subject to section 236 of the Compact.
 
@@ -20,7 +20,7 @@ Subject to the provisions of subsection (a) of this section and upon the request
 
 #### (c) Availability of appropriation account
 
-Funding provided in Public Law 101–121 under the “Trust Territory of the Pacific Islands” appropriation account shall remain available until expended.
+Funding provided in Public Law 101–121 under the "Trust Territory of the Pacific Islands" appropriation account shall remain available until expended.
 
 (Pub. L. 101–219, title I, §111, Dec. 12, 1989, 103 Stat. 1873.)
 
@@ -44,9 +44,9 @@ Section was formerly set out as a note under section 1681 of this title.
 
 Pub. L. 110–229, title VIII, §808, May 8, 2008, 122 Stat. 874, provided that:
 
-“The Government of the Republic of Palau may deposit the payment otherwise payable to the Government of the United States under section 111 of Public Law 101–219 (48 U.S.C. 1960) into a trust fund if—
+"The Government of the Republic of Palau may deposit the payment otherwise payable to the Government of the United States under section 111 of Public Law 101–219 (48 U.S.C. 1960) into a trust fund if—
 
-&emsp;“(1) the earnings of the trust fund are expended solely for maintenance of the road system constructed pursuant to section 212 of the Compact of Free Association between the Government of the United States of America and the Government of Palau (48 U.S.C. 1931 note); and
+&emsp;"(1) the earnings of the trust fund are expended solely for maintenance of the road system constructed pursuant to section 212 of the Compact of Free Association between the Government of the United States of America and the Government of Palau (48 U.S.C. 1931 note); and
 
-&emsp;“(2) the trust fund is established and operated pursuant to an agreement entered into between the Government of the United States and the Government of the Republic of Palau.”
+&emsp;"(2) the trust fund is established and operated pursuant to an agreement entered into between the Government of the United States and the Government of the Republic of Palau."
 

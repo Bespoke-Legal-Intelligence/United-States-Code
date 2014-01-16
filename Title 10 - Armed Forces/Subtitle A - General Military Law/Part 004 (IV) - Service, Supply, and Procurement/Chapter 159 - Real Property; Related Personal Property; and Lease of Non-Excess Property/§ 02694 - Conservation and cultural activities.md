@@ -46,13 +46,13 @@ Effect on Other Laws.—Nothing in this section shall be construed or interprete
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(2)(B). Pub. L. 112–81, §2814(1), inserted “and sustainability” after “safety”.
+<b>2011</b>—Subsec. (b)(2)(B). Pub. L. 112–81, §2814(1), inserted "and sustainability" after "safety".
 
 Subsec. (b)(2)(F). Pub. L. 112–81, §2814(2), added subpar. (F).
 
-<b>1997</b>—Subsec. (b)(1)(D). Pub. L. 105–85 substituted “executive agency” for “executive ageny”.
+<b>1997</b>—Subsec. (b)(1)(D). Pub. L. 105–85 substituted "executive agency" for "executive ageny".
 
 #### Effective Date
 
-Pub. L. 104–201, div. A, title III, §332(b), Sept. 23, 1996, 110 Stat. 2485, provided that: “Section 2694 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. A, title III, §332(b), Sept. 23, 1996, 110 Stat. 2485, provided that: "Section 2694 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996."
 

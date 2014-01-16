@@ -34,7 +34,7 @@ The receipt of any grant, contract, loan, or loan guarantee under the Public Hea
 
 #### (d) Individual rights respecting certain requirements contrary to religious beliefs or moral convictions
 
-No individual shall be required to perform or assist in the performance of any part of a healthservice program or research activity funded in whole or in part under a program administered by the Secretary of Health and Human Services if his performance or assistance in the performance of such part of such program or activity would be contrary to his religious beliefs or moral convictions.
+No individual shall be required to perform or assist in the performance of any part of a health service program or research activity funded in whole or in part under a program administered by the Secretary of Health and Human Services if his performance or assistance in the performance of such part of such program or activity would be contrary to his religious beliefs or moral convictions.
 
 #### (e) Prohibition on entities receiving Federal grant, etc., from discriminating against applicants for training or study because of refusal of applicant to participate on religious or moral grounds
 
@@ -60,7 +60,7 @@ Subsec. (a) of this section amended section 601 of Pub. L. 91–296, which is se
 
 #### Amendments
 
-<b>2000</b>—Subsec. (e). Pub. L. 106–402 substituted “or the Developmental Disabilities Assistance and Bill of Rights Act of 2000 may deny” for “or the Developmental Disabilities Assistance and Bill of Rights Act may deny”.
+<b>2000</b>—Subsec. (e). Pub. L. 106–402 substituted "or the Developmental Disabilities Assistance and Bill of Rights Act of 2000 may deny" for "or the Developmental Disabilities Assistance and Bill of Rights Act may deny".
 
 <b>1979</b>—Subsec. (e). Pub. L. 96–76 added subsec. (e).
 
@@ -70,5 +70,5 @@ Subsec. (d). Pub. L. 93–348, §214(b), added subsec. (d).
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (c)(2) and (d), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (c)(2) and (d), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 

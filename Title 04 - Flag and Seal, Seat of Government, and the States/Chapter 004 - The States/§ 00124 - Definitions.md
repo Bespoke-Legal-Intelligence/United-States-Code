@@ -46,7 +46,7 @@ Licensed service area.—The term “licensed service area” means the geograph
 
 &emsp;(7)
 
-Mobile telecommunications service.—The term “mobile telecommunications service” means commercial mobile radio service, as defined in section 20.3 of title 47 of the Codeof Federal Regulations as in effect on June 1, 1999.
+Mobile telecommunications service.—The term “mobile telecommunications service” means commercial mobile radio service, as defined in section 20.3 of title 47 of the Code of Federal Regulations as in effect on June 1, 1999.
 
 &emsp;(8)
 

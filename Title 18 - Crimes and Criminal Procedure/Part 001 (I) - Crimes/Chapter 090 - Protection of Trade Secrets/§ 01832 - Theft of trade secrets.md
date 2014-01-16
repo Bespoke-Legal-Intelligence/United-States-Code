@@ -6,7 +6,7 @@
 
 &emsp;(2) without authorization copies, duplicates, sketches, draws, photographs, downloads, uploads, alters, destroys, photocopies, replicates, transmits, delivers, sends, mails, communicates, or conveys such information;
 
-&emsp;(3) receives, buys, or possesses such information, knowing the same to have been stolen or appropriated, obtained, or converted without authorization;
+&emsp;(3) receives, buys, or possesses such information, knowing the same to have been stolen orappropriated, obtained, or converted without authorization;
 
 &emsp;(4) attempts to commit any offense described in paragraphs (1) through (3); or
 
@@ -20,5 +20,5 @@
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–236 substituted “a product or service used in or intended for use in” for “or included in a product that is produced for or placed in” in introductory provisions.
+<b>2012</b>—Subsec. (a). Pub. L. 112–236 substituted "a product or service used in or intended for use in" for "or included in a product that is produced for or placed in" in introductory provisions.
 

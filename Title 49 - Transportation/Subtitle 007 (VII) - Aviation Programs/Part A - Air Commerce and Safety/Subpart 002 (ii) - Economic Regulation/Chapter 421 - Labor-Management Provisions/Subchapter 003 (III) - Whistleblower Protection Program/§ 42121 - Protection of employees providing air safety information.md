@@ -66,7 +66,7 @@ Remedy.—If, in response to a complaint filed under paragraph (1), the Secretar
 
 &emsp;&emsp;&emsp;(iii) provide compensatory damages to the complainant.
 
-> &emsp;&emsp;If such an order is issued under this paragraph, the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys’ and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing the complaint upon which the order was issued.
+> &emsp;&emsp;If such an order is issued under this paragraph, the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys' and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing the complaint upon which the order was issued.
 
 &emsp;&emsp;(C)
 
@@ -110,7 +110,7 @@ Nonapplicability to Deliberate Violations.—Subsection (a) shall not apply with
 
 (e)
 
-Contractor Defined.—In this section, the term “contractor” means a company that performs safety-sensitive functions by contract for an air carrier.
+Contractor Defined.—In this section, the term "contractor" means a company that performs safety-sensitive functions by contract for an air carrier.
 
 (Added Pub. L. 106–181, title V, §519(a), Apr. 5, 2000, 114 Stat. 145.)
 

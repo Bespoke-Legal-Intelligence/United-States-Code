@@ -56,17 +56,17 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 &emsp;(III) in the case of the 1983 crop of Burley tobacco, 5 years from the end of the 2-year period referred to in subsection (a)(3)(B) of this section.
 
-(2)(A)(i) The percentage to be purchased by each participating manufacturer shall be at least equal to the respective percentage of the participating manufacturer of the total quantity of net cigarettes manufactured for use as determined by the Secretary of Agriculture under this paragraph on the basis of the monthly reports (“Manufacturer of Tobacco Products—Monthly Reports”) submitted by manufacturers of tobacco products to the Tax and Trade Bureau of the Department of the Treasury.
+(2)(A)(i) The percentage to be purchased by each participating manufacturer shall be at least equal to the respective percentage of the participating manufacturer of the total quantity of net cigarettes manufactured for use asdetermined by the Secretary of Agriculture under this paragraph on the basis of the monthly reports ("Manufacturer of Tobacco Products—Monthly Reports") submitted by manufacturers of tobacco products to the Tax and Trade Bureau of the Department of the Treasury.
 
 (ii) The Secretary of Agriculture shall request from the Secretary of the Treasury copies of such monthly reports necessary to make the determinations required under this section.
 
 (iii) Notwithstanding any other provision of law, the Secretary of the Treasury may release and disclose such information to the Secretary of Agriculture.
 
-(B) “Net cigarettes manufactured for use” shall be computed by subtracting—
+(B) "Net cigarettes manufactured for use" shall be computed by subtracting—
 
-&emsp;(i) the cumulative figures entered for large and small cigarettes in item 16f of ATF Form 3068 (“Reduction to tobacco”); from
+&emsp;(i) the cumulative figures entered for large and small cigarettes in item 16f of ATF Form 3068 ("Reduction to tobacco"); from
 
-&emsp;(ii) the cumulative figures entered for large and small cigarettes in item 7 of such form (“Manufactured”).
+&emsp;(ii) the cumulative figures entered for large and small cigarettes in item 7 of such form ("Manufactured").
 
 (C)(i) The percentage to be purchased by each participating manufacturer shall be determined—
 
@@ -96,7 +96,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 &emsp;(III) 20 percent of the inventories of Burley tobacco from the 1983 crop held by the Commodity Credit Corporation on the date that is 2 years after the call of the loans on such tobacco by the Corporation.
 
-(E) Any purchases by a manufacturer from the inventories of the associations or from the Commodity Credit Corporation for a crop covered by this section in any year of the buy-out period that exceed the quantity of the purchases of themanufacturer required under the agreement, as determined under this section, shall be applied against future purchases required of such manufacturer.
+(E) Any purchases by a manufacturer from the inventories of the associations or from the Commodity Credit Corporation for a crop covered by this section in any year of the buy-out period that exceed the quantity of the purchases of the manufacturer required under the agreement, as determined under this section, shall be applied against future purchases required of such manufacturer.
 
 (3) In carrying out this section, manufacturers may confer with one another and, separately or collectively, with associations, the Secretary of Agriculture, and the Commodity Credit Corporation, as may be necessary or appropriate to carry out this section and the purposes of this subtitle.<sup>1</sup>
 
@@ -132,11 +132,11 @@ Section 1314g of this title, referred to in subsec. (e), was repealed by Pub. L.
 
 #### Codification
 
-Section was enacted as part of the Consolidated Omnibus Budget Reconciliation Act of 1985, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+Section was enacted as part of the Consolidated Omnibus Budget Reconciliation Act of 1985, and not as part of the Agricultural Act of 1949 which is classifiedprincipally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c)(2)(A)(i). Pub. L. 107–296 substituted “by manufacturers of tobacco products to the Tax and Trade Bureau” for “(on ATF Form 3068) by manufacturers of tobacco products to the Bureau of Alcohol, Tobacco and Firearms”.
+<b>2002</b>—Subsec. (c)(2)(A)(i). Pub. L. 107–296 substituted "by manufacturers of tobacco products to the Tax and Trade Bureau" for "(on ATF Form 3068) by manufacturers of tobacco products to the Bureau of Alcohol, Tobacco and Firearms".
 
 #### Effective Date of 2002 Amendment
 

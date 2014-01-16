@@ -8,7 +8,7 @@ It is hereby declared to be the policy of the United States—
 
 &emsp;(3) that any prohibition or limitation on the export of such commodities or products should be imposed only in time of a national emergency declared by the President under the Export Administration Act \[50 U.S.C. App. 2401 et seq.\]; and
 
-&emsp;(4) that contracts for the export of such commodities or products entered into before theimposition of any prohibition or limitation on the export of such commodities or products should not be abrogated.
+&emsp;(4) that contracts for the export of such commodities or products entered into before the imposition of any prohibition or limitation on the export of such commodities or products should not be abrogated.
 
 (Pub. L. 99–198, title XI, §1133(a), Dec. 23, 1985, 99 Stat. 1489.)
 

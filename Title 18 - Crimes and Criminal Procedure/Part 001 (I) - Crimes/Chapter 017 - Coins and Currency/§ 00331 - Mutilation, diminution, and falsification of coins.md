@@ -2,7 +2,7 @@
 
 Whoever fraudulently alters, defaces, mutilates, impairs, diminishes, falsifies, scales, or lightens any of the coins coined at the mints of the United States, or any foreign coins which are by law made current or are in actual use or circulation as money within the United States; or
 
-Whoever fraudulently possesses, passes, utters, publishes, or sells, or attempts to pass, utter, publish, or sell, or brings into the United States,any such coin, knowing the same to be altered, defaced, mutilated, impaired, diminished, falsified, scaled, or lightened—
+Whoever fraudulently possesses, passes, utters, publishes, or sells, or attempts to pass, utter, publish, or sell, or brings into the United States, any such coin, knowing the same to be altered, defaced, mutilated, impaired, diminished, falsified, scaled, or lightened—
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
@@ -14,13 +14,13 @@ Based on title 18, U.S.C., 1940 ed., §279 (Mar. 4, 1909, ch. 321, §165, 35 Sta
 
 Mandatory punishment provision was rephrased in the alternative.
 
-Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
+Reference to persons causing or procuring was omitted as unnecessary in view of definition of "principal" in section 2 of this title.
 
 Changes were also made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $2,000".
 
 <b>1951</b>—Act July 16, 1951, made section applicable to minor coins (5-cent and 1-cent pieces), and to fraudulent alteration of coins.
 

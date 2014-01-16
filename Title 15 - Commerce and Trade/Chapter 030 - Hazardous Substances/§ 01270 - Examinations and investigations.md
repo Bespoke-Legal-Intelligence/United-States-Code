@@ -2,7 +2,7 @@
 
 #### (a) Authority to conduct
 
-The Commission is authorized to conduct examinations, inspections, and investigations forthe purposes of this chapter through officers and employees of the Commission or through any health officer or employee of any State, territory, or political subdivision thereof, duly commissioned by the Commission as an officer of the Commission.
+The Commission is authorized to conduct examinations, inspections, and investigations for the purposes of this chapter through officers and employees of the Commission or through any health officer or employee of any State, territory, or political subdivision thereof, duly commissioned by the Commission as an officer of the Commission.
 
 #### (b) Inspection; notice; samples
 
@@ -16,7 +16,7 @@ If the officer or employee obtains any sample, prior to leaving the premises, he
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(4)(B), (C), substituted “Commission is authorized” for “Secretary is authorized”, “employees of the Commission” for “employees of the Department”, “commissioned by the Commission” for “commissioned by the Secretary”, and “officer of the Commission” for “officer of the Department”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(4)(B), (C), substituted "Commission is authorized" for "Secretary is authorized", "employees of the Commission" for "employees of the Department", "commissioned by the Commission" for "commissioned by the Secretary", and "officer of the Commission" for "officer of the Department".
 
-Subsec. (b). Pub. L. 110–314, §204(b)(4)(B), substituted “Commission” for “Secretary”.
+Subsec. (b). Pub. L. 110–314, §204(b)(4)(B), substituted "Commission" for "Secretary".
 

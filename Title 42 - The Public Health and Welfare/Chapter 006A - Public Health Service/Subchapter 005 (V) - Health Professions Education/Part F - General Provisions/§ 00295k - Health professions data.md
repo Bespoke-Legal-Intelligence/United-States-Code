@@ -36,7 +36,7 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 #### (1) In general
 
-&emsp;The Secretary and each program entity shall in securing and maintaining any record of individually identifiable personal data (hereinafter in this subsection referred to as “personal data”) for purposes of this section—
+&emsp;The Secretary and each program entity shall in securing and maintaining any record of individually identifiable personal data (hereinafter in this subsection referred to as "personal data") for purposes of this section—
 
 &emsp;&emsp;(A) inform any individual who is asked to supply personal data whether he is legally required, or may refuse, to supply such data and inform him of any specific consequences, known to the Secretary or program entity, as the case may be, of providing or not providing such data;
 
@@ -56,9 +56,9 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 &emsp;(B) Subject to all applicable laws regarding confidentiality, only the data collected by the Secretary under this section which is not personal data shall be made available to bona fide researchers and policy analysts (including the Congress) for the purposes of assisting in the conduct of studies respecting health professions personnel.
 
-#### (4) “Program entity” defined
+#### (4) "Program entity" defined
 
-&emsp;For purposes of this subsection, the term “program entity” means any public or private entity which collects, compiles, or analyzes health professions data under a grant, contract, or other arrangement with the Secretary under this section.
+&emsp;For purposes of this subsection, the term "program entity" means any public or private entity which collects, compiles, or analyzes health professions data under a grant, contract, or other arrangement with the Secretary under this section.
 
 #### (g) <sup>2</sup> Technical assistance
 
@@ -84,19 +84,19 @@ Another prior section 792 of act July 1, 1944, was classified to section 295h–
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–392 inserted “professional counselors,” after “clinical psychologists,”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–392 inserted "professional counselors," after "clinical psychologists,".
 
 #### Study Regarding Shortages of Licensed Pharmacists
 
 Pub. L. 106–129, §5, Dec. 6, 1999, 113 Stat. 1675, provided that:
 
-“(a)
+"(a)
 
-In General.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), acting through the appropriate agencies of the Public Health Service, shall conduct a study to determine whether and to what extent there is a shortage of licensed pharmacists. In carrying out the study, the Secretary shall seek the comments of appropriate public and private entities regarding any such shortage.
+In General.—The Secretary of Health and Human Services (in this section referred to as the 'Secretary'), acting through the appropriate agencies of the Public Health Service, shall conduct a study to determine whether and to what extent there is a shortage of licensed pharmacists. In carrying out the study, the Secretary shall seek the comments of appropriate public and private entities regarding any such shortage.
 
-“(b)
+"(b)
 
-Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Dec. 6, 1999\], the Secretary shall complete the study under subsection (a) and submit to the Congress a report that describes the findings made through the study and that contains a summary of the comments received by the Secretary pursuant to such subsection.”
+Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Dec. 6, 1999\], the Secretary shall complete the study under subsection (a) and submit to the Congress a report that describes the findings made through the study and that contains a summary of the comments received by the Secretary pursuant to such subsection."
 
 #### Advisory Council on Graduate Medical Education
 
@@ -108,7 +108,7 @@ Pub. L. 102–408, title III, §302, Oct. 13, 1992, 106 Stat. 2082, provided for
 
 #### Study Regarding Shortage of Clinical Laboratory Technologists for Medically Underserved and Rural Communities
 
-Pub. L. 102–408, title III, §303, Oct. 13, 1992, 106 Stat. 2083, directed Secretary of Health and Human Services,with respect to the shortage of clinical laboratory technologists, to conduct a study for the purpose of determining whether there are special or unique factors affecting the supply of clinical laboratory technologists in medically underserved and rural communities, and assessing alternative routes for certification of the competence of individuals to serve as such technologists, with consideration of the role of entities providing such certifications, and, not later than Oct. 1, 1993, complete the study and submit to Committee on Energy and Commerce of House of Representatives, and to Committee on Labor and Human Resources of Senate, a report describing the findings made as result of the study.
+Pub. L. 102–408, title III, §303, Oct. 13, 1992, 106 Stat. 2083, directed Secretary of Health and Human Services, with respect to the shortage of clinical laboratory technologists, to conduct a study for the purpose of determining whether there are special or unique factors affecting the supply of clinical laboratory technologists in medically underserved and rural communities, and assessing alternative routes for certification of the competence of individuals to serve as such technologists, with consideration of the role of entities providing such certifications, and, not later than Oct. 1, 1993, complete the study and submit to Committee on Energy and Commerce of House of Representatives, and to Committee on Labor and Human Resources of Senate, a report describing the findings made as result of the study.
 
 #### National Advisory Council on Medical Licensure
 

@@ -13,11 +13,11 @@
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–513, title V, §503(42), Dec. 12, 1980, 94 Stat. 2914, struck out item 5982 “Ships and squadrons: detail of retired officers to command”.
+<b>1980</b>—Pub. L. 96–513, title V, §503(42), Dec. 12, 1980, 94 Stat. 2914, struck out item 5982 "Ships and squadrons: detail of retired officers to command".
 
-<b>1970</b>—Pub. L. 91–482, §2C, Oct. 21, 1970, 84 Stat. 1082, struck out item 5981 “Squadrons: detail of officers on active list to command”.
+<b>1970</b>—Pub. L. 91–482, §2C, Oct. 21, 1970, 84 Stat. 1082, struck out item 5981 "Squadrons: detail of officers on active list to command".
 
-<b>1968</b>—Pub. L. 90–235, §4(a)(4), (b)(3), Jan. 2, 1968, 81 Stat. 759, 760, struck out item 5984 “Military institutions and colleges: details as superintendents and instructors”, and item 5987 “American National Red Cross: detail of officers in the Medical Corps”.
+<b>1968</b>—Pub. L. 90–235, §4(a)(4), (b)(3), Jan. 2, 1968, 81 Stat. 759, 760, struck out item 5984 "Military institutions and colleges: details as superintendents and instructors", and item 5987 "American National Red Cross: detail of officers in the Medical Corps".
 
 
 ---

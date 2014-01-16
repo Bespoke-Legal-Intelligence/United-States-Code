@@ -10,13 +10,13 @@ In this section:
 
 #### (1) Modified risk tobacco product
 
-&emsp;The term “modified risk tobacco product” means any tobacco product that is sold or distributed for use to reduce harm or the risk of tobacco-related disease associated with commercially marketed tobacco products.
+&emsp;The term "modified risk tobacco product" means any tobacco product that is sold or distributed for use to reduce harm or the risk of tobacco-related disease associated with commercially marketed tobacco products.
 
 #### (2) Sold or distributed
 
 #### (A) In general
 
-&emsp;&emsp;With respect to a tobacco product, the term “sold or distributed for use to reduce harm or the risk of tobacco-related disease associated with commercially marketed tobacco products” means a tobacco product—
+&emsp;&emsp;With respect to a tobacco product, the term "sold or distributed for use to reduce harm or the risk of tobacco-related disease associated with commercially marketed tobacco products" means a tobacco product—
 
 &emsp;&emsp;&emsp;(i) the label, labeling, or advertising of which represents explicitly or implicitly that—
 
@@ -26,17 +26,17 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) the tobacco product or its smoke does not contain or is free of a substance;
 
-&emsp;&emsp;&emsp;(ii) the label, labeling, or advertising of which uses the descriptors “light”, “mild”, or “low” or similar descriptors; or
+&emsp;&emsp;&emsp;(ii) the label, labeling, or advertising of which uses the descriptors "light", "mild", or "low" or similar descriptors; or
 
 &emsp;&emsp;&emsp;(iii) the tobacco product manufacturer of which has taken any action directed to consumers through the media or otherwise, other than by means of the tobacco product's label, labeling, or advertising, after June 22, 2009, respecting the product that would be reasonably expected to result in consumers believing that the tobacco product or its smoke may present a lower risk of disease or is less harmful than one or more commercially marketed tobacco products, or presents a reduced exposure to, or does not contain or is free of, a substance or substances.
 
 #### (B) Limitation
 
-&emsp;&emsp;No tobacco product shall be considered to be “sold or distributed for use to reduce harm or the risk of tobacco-related disease associated with commercially marketed tobacco products”, except as described in subparagraph (A).
+&emsp;&emsp;No tobacco product shall be considered to be "sold or distributed for use to reduce harm or the risk of tobacco-related disease associated with commercially marketed tobacco products", except as described in subparagraph (A).
 
 #### (C) Smokeless tobacco product
 
-&emsp;&emsp;No smokeless tobacco product shall be considered to be “sold or distributed for use to reduce harm or the risk of tobacco-related disease associated with commercially marketed tobacco products” solely because its label, labeling, or advertising uses the following phrases to describe such product and its use: “smokeless tobacco”, “smokeless tobacco product”, “not consumed by smoking”, “does not produce smoke”, “smokefree”, “smoke-free”, “without smoke”, “no smoke”, or “not smoke”.
+&emsp;&emsp;No smokeless tobacco product shall be considered to be "sold or distributed for use to reduce harm or the risk of tobacco-related disease associated with commercially marketed tobacco products" solely because its label, labeling, or advertising uses the following phrases to describe such product and its use: "smokeless tobacco", "smokeless tobacco product", "not consumed by smoking", "does not produce smoke", "smokefree", "smoke-free", "without smoke", "no smoke", or "not smoke".
 
 #### (3) Effective date
 
@@ -82,7 +82,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (1) Modified risk products
 
-&emsp;Except as provided in paragraph (2), the Secretary shall, with respect to an application submitted under this section, issue an order that a modified risk product may be commercially marketed only if the Secretary determines that the applicant has demonstrated that such product, as it is actually used by consumers, will—
+&emsp;Except as provided in paragraph (2), the Secretary shall, with respect to an application submitted under this section, issue an orderthat a modified risk product may be commercially marketed only if the Secretary determines that the applicant has demonstrated that such product, as it is actually used by consumers, will—
 
 &emsp;&emsp;(A) significantly reduce harm and the risk of tobacco-related disease to individual tobacco users; and
 
@@ -168,7 +168,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (B) Quantitative comparisons
 
-&emsp;&emsp;The Secretary may also require, for purposes of subparagraph (A), that the percent (or fraction) of change and identity of thereference tobacco product and a quantitative comparison of the amount of the substance claimed to be reduced shall be stated in immediate proximity to the most prominent claim.
+&emsp;&emsp;The Secretary may also require, for purposes of subparagraph (A), that the percent (or fraction) of change and identity of the reference tobacco product and a quantitative comparison of the amount of the substance claimed to be reduced shall be stated in immediate proximity to the most prominent claim.
 
 #### (3) Label disclosure
 

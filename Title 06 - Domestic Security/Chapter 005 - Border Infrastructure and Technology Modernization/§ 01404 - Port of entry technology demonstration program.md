@@ -16,7 +16,7 @@ Under the demonstration program, the Commissioner shall test technologies that e
 
 #### (2) Location
 
-&emsp;Of the sites selected under subsection (c)—
+&emsp;Of the sites selected under subsection (c)— <sup>1</sup>
 
 &emsp;&emsp;(A) at least one shall be located on the northern border of the United States; and
 
@@ -47,4 +47,6 @@ The Secretary, acting through the Commissioner, shall permit personnel from appr
 &emsp;The report shall include an assessment by the Commissioner of the feasibility of incorporating any demonstrated technology for use throughout U.S. Customs and Border Protection.
 
 (Pub. L. 110–161, div. E, title VI, §605, Dec. 26, 2007, 121 Stat. 2096.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)—”.</i>
 

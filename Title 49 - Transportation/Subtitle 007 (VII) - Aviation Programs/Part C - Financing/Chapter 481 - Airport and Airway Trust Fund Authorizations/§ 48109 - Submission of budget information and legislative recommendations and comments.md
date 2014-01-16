@@ -20,9 +20,9 @@ Historical and Revision Notes
 
 Sept. 3, 1982, Pub. L. 97–248, §506(f), 96 Stat. 679.
 
-The words “Director of the Office of Management and Budget” are substituted for “Office of Management and Budget” because of 31:502(a). The words “or transmits . . . budget estimate, budget request, supplemental budget estimate, or other” and “thereof” are omitted as surplus.
+The words "Director of the Office of Management and Budget" are substituted for "Office of Management and Budget" because of 31:502(a). The words "or transmits . . . budget estimate, budget request, supplemental budget estimate, or other" and "thereof" are omitted as surplus.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+<b>1996</b>—Pub. L. 104–287 substituted "Transportation and Infrastructure" for "Public Works and Transportation".
 

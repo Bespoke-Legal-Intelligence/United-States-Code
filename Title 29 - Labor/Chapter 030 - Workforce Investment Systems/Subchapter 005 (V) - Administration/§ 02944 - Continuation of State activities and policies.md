@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of this chapter, the Secretary may not deny approval of a State plan for a covered State, or an application of a covered State for financial assistance, under this chapter or find a covered State (including a State board or Governor), or a local area (including a local board or chief elected official) in a covered State, in violation of a provision of this chapter, on the basis that—
+Notwithstanding any other provision of this chapter, the Secretary may not deny approval of a State plan for a covered State, or an application of a covered State for financial assistance,under this chapter or find a covered State (including a State board or Governor), or a local area (including a local board or chief elected official) in a covered State, in violation of a provision of this chapter, on the basis that—
 
 &emsp;(1)(A) the State proposes to allocate or disburse, allocates, or disburses, within the State, funds made available to the State under section 2852 or 2862 of this title in accordance with the allocation formula for the type of activities involved, or in accordance with a disbursal procedure or process, used by the State under prior consistent State laws; or
 
@@ -24,17 +24,17 @@ In this section:
 
 #### (1) Covered State
 
-&emsp;The term “covered State” means a State that enacted State laws described in paragraph (2).
+&emsp;The term "covered State" means a State that enacted State laws described in paragraph (2).
 
 #### (2) Prior consistent State laws
 
-&emsp;The term “prior consistent State laws” means State laws, not inconsistent with the Job Training Partnership Act or any other applicable Federal law, that took effect on September 1, 1993, September 1, 1995, and September 1, 1997.
+&emsp;The term "prior consistent State laws" means State laws, not inconsistent with the Job Training Partnership Act or any other applicable Federal law, that took effect on September 1, 1993, September 1, 1995, and September 1, 1997.
 
 (Pub. L. 105–220, title I, §194, Aug. 7, 1998, 112 Stat. 1056.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 The Job Training Partnership Act, referred to in subsec. (b)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§1501 et seq.) of this title, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 

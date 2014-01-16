@@ -2,7 +2,7 @@
 
 #### (a) Agreements
 
-Whenever the head of any Federal agency performing any foreign affairs functions (including, but not limited to, the Department of State, the Broadcasting Board of Governors, and the Agency for International Development) determines that administrative services performed in common by the Department of State and one or more other such agencies may be performed more advantageously and more economically on a consolidated basis, the Secretary of State and the heads of the other agencies concerned may, subject to the approval of the Director of the Office of Management and Budget, conclude an agreement which provides for the transfer to and consolidation within the Department or within one of the other agencies concerned of so much of the functions, personnel, property, records, and funds of the Department and of the other agencies concerned as may be necessary to enable the performance of those administrative services on a consolidated basis for the benefit of all agencies concerned. Agreements for consolidation of administrative services under this section shall provide for reimbursement or advances of funds from the agency receiving the service to the agency performing the service in amounts which will approximate the expense of providing administrative services for the serviced agency.
+Whenever the head of any Federal agency performing any foreign affairs functions (including, but not limited to, the Department of State, theBroadcasting Board of Governors, and the Agency for International Development) determines that administrative services performed in common by the Department of State and one or more other such agencies may be performed more advantageously and more economically on a consolidated basis, the Secretary of State and the heads of the other agencies concerned may, subject to the approval of the Director of the Office of Management and Budget, conclude an agreement which provides for the transfer to and consolidation within the Department or within one of the other agencies concerned of so much of the functions, personnel, property, records, and funds of the Department and of the other agencies concerned as may be necessary to enable the performance of those administrative services on a consolidated basis for the benefit of all agencies concerned. Agreements for consolidation of administrative services under this section shall provide for reimbursement or advances of funds from the agency receiving the service to the agency performing the service in amounts which will approximate the expense of providing administrative services for the serviced agency.
 
 #### (b) Payment
 
@@ -16,9 +16,9 @@ Whenever the head of any Federal agency performing any foreign affairs functions
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1335(l)(1), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1335(l)(1), substituted "Broadcasting Board of Governors" for "United States Information Agency".
 
-Pub. L. 105–277, §1225(f), substituted “and the Agency for International Development” for “the Agency for International Development, and the Arms Control and Disarmament Agency”.
+Pub. L. 105–277, §1225(f), substituted "and the Agency for International Development" for "the Agency for International Development, and the Arms Control and Disarmament Agency".
 
 <b>1991</b>—Pub. L. 102–138 inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
@@ -30,5 +30,5 @@ Amendment by section 1335(l)(1) of Pub. L. 105–277 effective Oct. 1, 1999, see
 
 #### Effective Date
 
-Pub. L. 95–426, title I, §111(b), Oct. 7, 1978, 92 Stat. 967, provided that: “The amendment made by this section \[enacting this section\] shall take effect on October 1, 1978.”
+Pub. L. 95–426, title I, §111(b), Oct. 7, 1978, 92 Stat. 967, provided that: "The amendment made by this section \[enacting this section\] shall take effect on October 1, 1978."
 

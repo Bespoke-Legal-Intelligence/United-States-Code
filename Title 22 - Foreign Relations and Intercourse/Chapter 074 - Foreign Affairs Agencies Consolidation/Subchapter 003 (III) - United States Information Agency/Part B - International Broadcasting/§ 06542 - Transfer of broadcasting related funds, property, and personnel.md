@@ -20,7 +20,7 @@ Notwithstanding any other provision of law—
 
 #### (c) Transfer and allocation of property, appropriations, and personnel associated with Worldnet
 
-USIA personnel responsible for carrying out interactive dialogs with foreign media and othersimilar overseas public diplomacy programs using the Worldnet television broadcasting system, and funds associated with such personnel, shall be transferred to the Department of State in accordance with the provisions of subchapter VI of this chapter.
+USIA personnel responsible for carrying out interactive dialogs with foreign media and other similar overseas public diplomacy programs using the Worldnet television broadcasting system, and funds associated with such personnel, shall be transferred to the Department of State in accordance with the provisions of subchapter VI of this chapter.
 
 #### (d) Incidental transfers
 
@@ -30,5 +30,5 @@ The Director of the Office of Management and Budget, when requested by the Broad
 
 #### References in Text
 
-This part, referred to in subsecs. (a) and (b), was in the original “this chapter”, meaning chapter 3 (§§1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
+This part, referred to in subsecs. (a) and (b), was in the original "this chapter", meaning chapter 3 (§§1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
 

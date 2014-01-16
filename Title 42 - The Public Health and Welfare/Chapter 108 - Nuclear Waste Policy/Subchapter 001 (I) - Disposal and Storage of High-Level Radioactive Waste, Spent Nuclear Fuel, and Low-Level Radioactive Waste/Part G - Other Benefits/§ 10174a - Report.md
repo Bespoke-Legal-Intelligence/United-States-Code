@@ -42,5 +42,5 @@ Potential impacts to be addressed in the report under this <sup>1</sup> subsect
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
-<i><sup>1</sup></i><i> So in original. The word “this” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "this" probably should not appear.</i>
 

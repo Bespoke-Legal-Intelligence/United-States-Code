@@ -18,7 +18,7 @@
 
 <b>1998</b>—Pub. L. 105–206, title III, §3308(b), July 22, 1998, 112 Stat. 745, added item for subchapter D.
 
-<b>1982</b>—Pub. L. 97–248, title III, §344(b)(3)(B), Sept. 3, 1982, 96 Stat. 636, inserted “; compounding of interest” after “rate” in item for subchapter C.
+<b>1982</b>—Pub. L. 97–248, title III, §344(b)(3)(B), Sept. 3, 1982, 96 Stat. 636, inserted "; compounding of interest" after "rate" in item for subchapter C.
 
 <b>1975</b>—Pub. L. 93–625, §7(d)(5), Jan. 3, 1975, 88 Stat. 2115, added item for subchapter C.
 

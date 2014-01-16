@@ -46,7 +46,7 @@ The duties described in this subsection are as follows:
 
 <b>2008</b>—Subsecs. (a), (b)(2). Pub. L. 110–246 made technical amendments to references in original act which appear in text as references to section 1738i(a) of title 7 in subsec. (a) and section 1781i(b)(2) of title 7 in subsec. (b)(2).
 
-<b>2001</b>—Subsec. (b)(2). Pub. L. 107–26 substituted “and shall be the representative from the Department of State appointed under section 1738i(b)(1)(A) of title 7” for “from among the representatives appointed under section 1738i(b)(1)(A) of title 7 or paragraph (1)(A) of this subsection”.
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–26 substituted "and shall be the representative from the Department of State appointed under section 1738i(b)(1)(A) of title 7" for "from among the representatives appointed under section 1738i(b)(1)(A) of title 7 or paragraph (1)(A) of this subsection".
 
 #### Effective Date of 2008 Amendment
 

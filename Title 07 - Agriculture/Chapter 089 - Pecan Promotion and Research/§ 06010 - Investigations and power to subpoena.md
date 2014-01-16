@@ -38,5 +38,5 @@ The site of any hearings held under section 6008 or 6009 of this title shall be 
 
 #### Amendments
 
-<b>1991</b>—Subsec. (b)(2). Pub. L. 102–237 struck out “section” after “6008 or”.
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–237 struck out "section" after "6008 or".
 

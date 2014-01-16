@@ -12,7 +12,7 @@
 
 #### (2) Tuberculosis services
 
-&emsp;For purposes of paragraph (1), the term “tuberculosis services”, with respect to an individual, means—
+&emsp;For purposes of paragraph (1), the term "tuberculosis services", with respect to an individual, means—
 
 &emsp;&emsp;(A) counseling the individual with respect to tuberculosis;
 
@@ -26,7 +26,7 @@
 
 &emsp;In the case of a State described in paragraph (2), a funding agreement for a grant under section 300x–21 of this title is that—
 
-&emsp;&emsp;(A) with respect to individuals undergoing treatment for substance abuse, the State will, subject to paragraph (3), carry out 1 or more projects to make available to the individuals early intervention services for HIV disease at the sites at which the individuals are undergoing such treatment;
+&emsp;&emsp;(A) with respect to individuals undergoing treatment for substance abuse, the Statewill, subject to paragraph (3), carry out 1 or more projects to make available to the individuals early intervention services for HIV disease at the sites at which the individuals are undergoing such treatment;
 
 &emsp;&emsp;(B) for the purpose of providing such early intervention services through such projects, the State will make available from the grant the percentage that is applicable for the State under paragraph (4); and
 
@@ -70,9 +70,9 @@
 
 &emsp;For purposes of this subsection:
 
-&emsp;&emsp;(A) The term “designated State” means a State described in paragraph (2).
+&emsp;&emsp;(A) The term "designated State" means a State described in paragraph (2).
 
-&emsp;&emsp;(B) The term “early intervention services”, with respect to HIV disease, means—
+&emsp;&emsp;(B) The term "early intervention services", with respect to HIV disease, means—
 
 &emsp;&emsp;&emsp;(i) appropriate pretest counseling;
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(iv) providing the therapeutic measures described in clause (ii).
 
-&emsp;&emsp;(C) The term “HIV disease” means infection with the etiologic agent for acquired immune deficiency syndrome.
+&emsp;&emsp;(C) The term "HIV disease" means infection with the etiologic agent for acquired immune deficiency syndrome.
 
 #### (c) Expenditure of grant for compliance with agreements
 

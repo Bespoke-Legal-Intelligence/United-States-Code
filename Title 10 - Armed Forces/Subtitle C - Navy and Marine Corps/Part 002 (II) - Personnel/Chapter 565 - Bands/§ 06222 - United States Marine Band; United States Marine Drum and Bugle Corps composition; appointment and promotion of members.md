@@ -46,7 +46,7 @@ Act
 
 Mar. 4, 1925, ch. 536, §11 (less proviso), 43 Stat. 1274; June 29, 1946, ch. 523, §1(c), 60 Stat. 343; Oct. 12, 1949, ch. 681, §517(a), 63 Stat. 833.
 
-In subsection (b) the second sentence is substituted for the two references to the Career Compensation Act of 1949 and for the words “and with the same number of cumulative years of service”.
+In subsection (b) the second sentence is substituted for the two references to the Career Compensation Act of 1949 and for the words "and with the same number of cumulative years of service".
 
 1958
 
@@ -88,13 +88,13 @@ July 24, 1956, ch. 686, 70 Stat. 628.
 
 34 App.:701–5.
 
-In subsection (a), the words “and appropriate” are omitted as covered by the word “necessary”. The words “and ranks” are omitted as covered by the word “grades”. The second sentence of 34 App.:701 is omitted as covered by section 6224 of this title.
+In subsection (a), the words "and appropriate" are omitted as covered by the word "necessary". The words "and ranks" are omitted as covered by the word "grades". The second sentence of 34 App.:701 is omitted as covered by section 6224 of this title.
 
-In subsection (b), the words “United States” and “or the United States Marine Corps Reserve” are omitted as unnecessary in view of the definition of “Marine Corps” in section 5001(a)(2) of this title. The words “as authorized by sections 701 to 701–5 of this title” are omitted as surplusage.
+In subsection (b), the words "United States" and "or the United States Marine Corps Reserve" are omitted as unnecessary in view of the definition of "Marine Corps" in section 5001(a)(2) of this title. The words "as authorized by sections 701 to 701–5 of this title" are omitted as surplusage.
 
-In subsection (e), the words “from the United States . . . as provided by law” are omitted as surplusage.
+In subsection (e), the words "from the United States . . . as provided by law" are omitted as surplusage.
 
-In subsection (f), the words “a member who holds, or has held” are substituted for the words “Directors and assistant directors of the Marine Band and former directors and assistant directors who have held”.
+In subsection (f), the words "a member who holds, or has held" are substituted for the words "Directors and assistant directors of the Marine Band and former directors and assistant directors who have held".
 
 #### Amendments
 
@@ -106,7 +106,7 @@ In subsection (f), the words “a member who holds, or has held” are substitut
 
 <b>1962</b>—Subsec. (e). Pub. L. 87–649 repealed subsec. (e) which related to pay and allowances of members who accepted a commission under this section. See sections 207 and 424 of Title 37, Pay and Allowances of the Uniformed Services.
 
-<b>1958</b>—Pub. L. 85–861 substituted “United States Marine Band” for “United States Marine Corps Band”, and “director; assistant director” for “pay and allowances of leader and second leader” in section catchline.
+<b>1958</b>—Pub. L. 85–861 substituted "United States Marine Band" for "United States Marine Corps Band", and "director; assistant director" for "pay and allowances of leader and second leader" in section catchline.
 
 Subsec. (a). Pub. L. 85–861 authorized one director and two assistant directors instead of one leader and one second leader.
 
@@ -124,5 +124,5 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 #### Delegation of Functions
 
-Functions of President under subsec. (c)(2) delegated to Secretary of Defense, without authority for Secretary to redelegate, see Ex. Ord. No. 13598, §§1(c), 2,Jan. 27, 2012, 77 F.R. 5371, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (c)(2) delegated to Secretary of Defense, without authority for Secretary to redelegate, see Ex. Ord. No. 13598, §§1(c), 2, Jan. 27, 2012, 77 F.R. 5371, set out as a note under section 301 of Title 3, The President.
 

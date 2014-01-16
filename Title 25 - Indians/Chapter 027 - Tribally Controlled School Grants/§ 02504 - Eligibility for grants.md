@@ -68,7 +68,7 @@
 
 &emsp;A school which is not a Bureau-funded school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] meets the requirements of this subsection if—
 
-&emsp;&emsp;(A) the Indian tribe or tribal organization that operates, or desires to operate, the school submits to the Secretary an application requesting a determination by the Secretary as to whether the school is eligible for assistance under this chapter; and
+&emsp;&emsp;(A) the Indian tribe or tribal organization that operates, or desires to operate, theschool submits to the Secretary an application requesting a determination by the Secretary as to whether the school is eligible for assistance under this chapter; and
 
 &emsp;&emsp;(B) the Secretary makes a determination that a school is eligible for assistance under this chapter.
 
@@ -128,7 +128,7 @@
 
 #### (e) Effective date for approved applications
 
-Except as provided by subsection (c)(2)(E) of this section, a grant provided under this chapter, and any transfer of the operation of a Bureau school made under subsection (b) of this section, shall become effective beginning the academic year succeeding the fiscal year in which the application for the grant or transfer ismade, or at an earlier date determined by the Secretary.
+Except as provided by subsection (c)(2)(E) of this section, a grant provided under this chapter, and any transfer of the operation of a Bureau school made under subsection (b) of this section, shall become effective beginning the academic year succeeding the fiscal year in which the application for the grant or transfer is made, or at an earlier date determined by the Secretary.
 
 #### (f) Denial of applications
 
@@ -160,7 +160,7 @@ The Education Amendments of 1978, referred to in subsecs. (a)(1)(A), (B), (b)(1)
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a)(2) and (f)(1)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-The title, referred to in subsec. (c)(2)(E), probably should be “this part”, meaning part B of title V of Pub. L. 100–297, known as the Tribally Controlled Schools Act of 1988, which is classified generally to this chapter. For complete classification of part B to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The title, referred to in subsec. (c)(2)(E), probably should be "this part", meaning part B of title V of Pub. L. 100–297, known as the Tribally Controlled Schools Act of 1988, which is classified generally to this chapter. For complete classification of part B to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Prior Provisions
 

@@ -62,7 +62,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Amendments
 
-<b>2013</b>—Subsec. (f). Pub. L. 112–240 added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012.”
+<b>2013</b>—Subsec. (f). Pub. L. 112–240 added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: "Of the funds of the Commodity Credit Corporation, the Secretary shall use, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012."
 
 #### Effective Date of 2013 Amendment
 

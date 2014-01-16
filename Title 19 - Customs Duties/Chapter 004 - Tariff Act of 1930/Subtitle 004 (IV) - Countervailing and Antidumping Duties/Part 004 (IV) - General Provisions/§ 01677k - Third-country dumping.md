@@ -4,13 +4,13 @@
 
 For purposes of this section:
 
-&emsp;(1)(A) The term “Agreement” means the Agreement on Implementation of Article VI of the GATT 1994 (relating to antidumping measures).
+&emsp;(1)(A) The term "Agreement" means the Agreement on Implementation of Article VI of the GATT 1994 (relating to antidumping measures).
 
-&emsp;(B) The term “GATT 1994” has the meaning given that term in section 3501(1)(B) of this title.
+&emsp;(B) The term "GATT 1994" has the meaning given that term in section 3501(1)(B) of this title.
 
-&emsp;(2) The term “Agreement country” means a foreign country that has accepted the Agreement.
+&emsp;(2) The term "Agreement country" means a foreign country that has accepted the Agreement.
 
-&emsp;(3) The term “Trade Representative” means the United States Trade Representative.
+&emsp;(3) The term "Trade Representative" means the United States Trade Representative.
 
 #### (b) Petition by domestic industry
 
@@ -46,9 +46,9 @@ Section was enacted as part of the Omnibus Trade and Competitiveness Act of 1988
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465 designated existing provisions as subpar. (A), substituted “GATT 1994” for “General Agreement on Tariffs and Trade”, and added subpar. (B).
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465 designated existing provisions as subpar. (A), substituted "GATT 1994" for "General Agreement on Tariffs and Trade", and added subpar. (B).
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–465, title VI, §621(b), Dec. 8, 1994, 108 Stat. 4993, provided that: “The amendments made by this section \[amending this section and sections 2171, 2411, 2702, 2905, 2906, 3107, 3111, and 3202 of this title\] shall take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
+Pub. L. 103–465, title VI, §621(b), Dec. 8, 1994, 108 Stat. 4993, provided that: "The amendments made by this section \[amending this section and sections 2171, 2411, 2702, 2905, 2906, 3107, 3111, and 3202 of this title\] shall take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\]."
 

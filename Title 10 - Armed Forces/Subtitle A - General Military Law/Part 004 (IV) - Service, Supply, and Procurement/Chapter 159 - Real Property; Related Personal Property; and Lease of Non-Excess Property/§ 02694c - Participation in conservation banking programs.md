@@ -2,7 +2,7 @@
 
 (a)
 
-Authority to Participate.—Subject to the availability of appropriated funds, the Secretary concerned, when engaged or proposing to engage in an activity described in subsection (b) that may or will result in an adverse impact to one or more species protected (or pending protection) under any applicable provision of law, or habitat for such species, may make payments to a conservation banking program or “in-lieu-fee” mitigation sponsor approved in accordance with—
+Authority to Participate.—Subject to the availability of appropriated funds, the Secretary concerned, when engaged or proposing to engage in an activity described in subsection (b) that may or will result in an adverse impact to one or more species protected (or pending protection) under any applicable provision of law, or habitat for such species, may make payments to a conservation banking program or "in-lieu-fee" mitigation sponsor approved in accordance with—
 
 &emsp;(1) the Federal Guidance for the Establishment, Use and Operation of Mitigation Banks (60 Fed. Reg. 58605; November 28, 1995);
 
@@ -14,7 +14,7 @@ Authority to Participate.—Subject to the availability of appropriated funds, t
 
 (b)
 
-Covered Activities.—Payments to a conservation banking program or “in-lieu-fee” mitigation sponsor under subsection (a) may be made only for the purpose of facilitating one or more of the following activities:
+Covered Activities.—Payments to a conservation banking program or "in-lieu-fee" mitigation sponsor under subsection (a) may be made only for the purpose of facilitating one or more of the following activities:
 
 &emsp;(1) Military testing, operations, training, or other military activity.
 
@@ -22,7 +22,7 @@ Covered Activities.—Payments to a conservation banking program or “in-lieu-f
 
 (c)
 
-Treatment of Amounts for Conservation Banking.—Payments made under subsection (a) to a conservation banking program or “in-lieu-fee” mitigation sponsor for the purpose of facilitating military construction may be treated as eligible costs of the military construction project.
+Treatment of Amounts for Conservation Banking.—Payments made under subsection (a) to a conservation banking program or "in-lieu-fee" mitigation sponsor for the purpose of facilitating military construction may be treated as eligible costs of the military construction project.
 
 (d)
 
@@ -38,7 +38,7 @@ Source of Funds.—Amounts available from any of the following shall be availabl
 
 (e)
 
-Secretary Concerned Defined.—In this section, the term “Secretary concerned” means—
+Secretary Concerned Defined.—In this section, the term "Secretary concerned" means—
 
 &emsp;(1) the Secretary of a military department; and
 
@@ -48,13 +48,13 @@ Secretary Concerned Defined.—In this section, the term “Secretary concerned�
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(4). Pub. L. 111–383 inserted “Authorization” after “Military Construction”.
+<b>2011</b>—Subsec. (d)(4). Pub. L. 111–383 inserted "Authorization" after "Military Construction".
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–84, §311(1), struck out “to carry out this section” after “appropriated funds” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §311(1), struck out "to carry out this section" after "appropriated funds" in introductory provisions.
 
 Subsecs. (d), (e). Pub. L. 111–84, §311(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date
 
-Pub. L. 110–417, \[div. A\], title III, §311(c), Oct. 14, 2008, 122 Stat. 4409, provided that: “Section 2694c of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2008, and only funds appropriated for fiscal years beginning after September 30, 2008, may be used to carry out such section.”
+Pub. L. 110–417, \[div. A\], title III, §311(c), Oct. 14, 2008, 122 Stat. 4409, provided that: "Section 2694c of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2008, and only funds appropriated for fiscal years beginning after September 30, 2008, may be used to carry out such section."
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Feb. 18, 1980, Pub. L. 96–193, §305, 94 Stat. 57.
 
-The word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “subpart I of part 91” are substituted for “subpart E of part 91” because of the restatement of part 91. See 54 Fed. Reg. 34321 (Aug. 18, 1989).
+The word "prescribed" is added for consistency in the revised title and with other titles of the United States Code. The words "subpart I of part 91" are substituted for "subpart E of part 91" because of the restatement of part 91. See 54 Fed. Reg. 34321 (Aug. 18, 1989).
 

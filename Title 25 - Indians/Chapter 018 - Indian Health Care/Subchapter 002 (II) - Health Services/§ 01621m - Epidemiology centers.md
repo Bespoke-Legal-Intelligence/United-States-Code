@@ -18,7 +18,7 @@
 
 #### (3) Funds not divisible
 
-&emsp;An epidemiology center established under this subsection shall be subject to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), but the funds for the center shall not be divisible.
+&emsp;An epidemiology center established under this subsection shall be subject to the IndianSelf-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), but the funds for the center shall not be divisible.
 
 #### (b) Functions of centers
 
@@ -64,7 +64,7 @@ The Director of the Centers for Disease Control and Prevention shall provide tec
 
 &emsp;An applicant for a grant under this subsection shall—
 
-&emsp;&emsp;(A) demonstrate the technical, administrative, and financial expertise necessary tocarry out the functions described in paragraph (5);
+&emsp;&emsp;(A) demonstrate the technical, administrative, and financial expertise necessary to carry out the functions described in paragraph (5);
 
 &emsp;&emsp;(B) consult and cooperate with providers of related health and social services in order to avoid duplication of existing services; and
 

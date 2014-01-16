@@ -18,11 +18,11 @@ Historical and Revision Notes
 
 June 29, 1948, ch. 708, §204, 62 Stat. 1086.
 
-The words “hereafter”, “rank or”, and “shall thereafter be deemed to be enlisted or warrant officer personnel, as appropriate, for all purposes” are omitted as surplusage. The words “three months from June 29, 1948” and “whichever is later” are omitted as executed.
+The words "hereafter", "rank or", and "shall thereafter be deemed to be enlisted or warrant officer personnel, as appropriate, for all purposes" are omitted as surplusage. The words "three months from June 29, 1948" and "whichever is later" are omitted as executed.
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–456 substituted “retired” for “Regular Air Force” in section catchline.
+<b>1988</b>—Pub. L. 100–456 substituted "retired" for "Regular Air Force" in section catchline.
 
-<b>1987</b>—Pub. L. 100–180 struck out “Regular” before “Air Force who”.
+<b>1987</b>—Pub. L. 100–180 struck out "Regular" before "Air Force who".
 

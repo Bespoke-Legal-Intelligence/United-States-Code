@@ -38,11 +38,11 @@ No provision of this chapter or the laws of any State imposing any liability sha
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1098(11)(A), substituted “Bureau” for “Secretary” in section catchline.
+<b>2010</b>—Pub. L. 111–203, §1098(11)(A), substituted "Bureau" for "Secretary" in section catchline.
 
-Subsec. (a). Pub. L. 111–203, §1098(11)(B), substituted “Bureau” for “Secretary”.
+Subsec. (a). Pub. L. 111–203, §1098(11)(B), substituted "Bureau" for "Secretary".
 
-Subsecs. (b), (c). Pub. L. 111–203, §1098(11)(C), substituted “the Bureau” for “the Secretary” wherever appearing.
+Subsecs. (b), (c). Pub. L. 111–203, §1098(11)(C), substituted "the Bureau" for "the Secretary" wherever appearing.
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–208 added subsec. (d).
 
@@ -60,5 +60,5 @@ Amendment by Pub. L. 98–181 effective Jan. 1, 1984, see section 461(f) of Pub.
 
 Section effective Jan. 2, 1976, see section 12 of Pub. L. 94–205, set out as an Effective Date of 1976 Amendment note under section 2602 of this title.
 
-<i><sup>1</sup></i><i> Probably should be “The Bureau”.</i>
+<i><sup>1</sup></i><i> Probably should be "The Bureau".</i>
 

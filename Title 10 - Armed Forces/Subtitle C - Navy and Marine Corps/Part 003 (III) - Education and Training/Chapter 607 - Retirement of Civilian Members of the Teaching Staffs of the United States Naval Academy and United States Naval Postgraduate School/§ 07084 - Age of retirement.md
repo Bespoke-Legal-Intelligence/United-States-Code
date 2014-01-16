@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Jan. 16, 1936, ch. 3, §3, 49 Stat. 1092.
 
-The words “individual and” are omitted as surplusage.
+The words "individual and" are omitted as surplusage.
 

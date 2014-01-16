@@ -8,13 +8,13 @@ Except as otherwise provided in this chapter, any reference in any statute, reor
 
 &emsp;(3) insofar as such reference relates to any function or authority transferred under section 6562(c) of this title, shall be deemed to refer to the head of the agency to which such function or authority is transferred under such section; and
 
-&emsp;(4) insofar as such reference relates to any function or authority not transferred by this subchapter, shall be deemed to refer to thePresident or such agency or agencies as may be specified by Executive order.
+&emsp;(4) insofar as such reference relates to any function or authority not transferred by this subchapter, shall be deemed to refer to the President or such agency or agencies as may be specified by Executive order.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XIV, §1421, Oct. 21, 1998, 112 Stat. 2681–791.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
+This chapter, referred to in text, was in the original "this subdivision", meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
-This subchapter, referred to in par. (4), was in the original “this title”, meaning title XIV of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–790. For complete classification of title XIV to the Code, see Tables.
+This subchapter, referred to in par. (4), was in the original "this title", meaning title XIV of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–790. For complete classification of title XIV to the Code, see Tables.
 

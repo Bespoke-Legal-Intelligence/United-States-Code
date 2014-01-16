@@ -4,7 +4,7 @@
 
 (2) Original appointments in the grades of major, lieutenant colonel, and colonel in the Regular Army, Regular Air Force, and Regular Marine Corps and in the grades of lieutenant commander, commander, and captain in the Regular Navy shall be made by the President, by and with the advice and consent of the Senate.
 
-(b) The grade of a person receiving an appointment under this section who at the time of appointment (1) is credited with service under section 533 of this title, and (2) is not a commissioned officer of a reserve component shall be determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited. The grade of a person receiving an appointment under this section who at the time of the appointment is a commissioned officer of a reserve component is determined under section 533(f) of this title.
+(b) The grade of a person receiving an appointment under this section who at the time of appointment (1) is credited with service under section 533 of this title, and (2) is not a commissioned officer of a reserve component shall be determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited. The grade of a person receivingan appointment under this section who at the time of the appointment is a commissioned officer of a reserve component is determined under section 533(f) of this title.
 
 (c) Subject to the authority, direction, and control of the President, an original appointment as a commissioned officer in the Regular Army, Regular Air Force, Regular Navy, or Regular Marine Corps may be made by the Secretary concerned in the case of a reserve commissioned officer upon the transfer of such officer from the reserve active-status list of a reserve component of the armed forces to the active-duty list of an armed force, notwithstanding the requirements of subsection (a).
 
@@ -12,7 +12,7 @@
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–375, §501(a)(4), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Original appointments in the grades of second lieutenant through colonel in the Regular Army, Regular Air Force, and Regular Marine Corps and in the grades of ensign through captain in the Regular Navy shall be made by the President, by and with the advice and consent of the Senate.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §501(a)(4), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Original appointments in the grades of second lieutenant through colonel in the Regular Army, Regular Air Force, and Regular Marine Corps and in the grades of ensign through captain in the Regular Navy shall be made by the President, by and with the advice and consent of the Senate."
 
 Subsec. (c). Pub. L. 108–375, §501(c)(5), added subsec. (c).
 
@@ -22,9 +22,9 @@ Subsec. (c). Pub. L. 108–375, §501(c)(5), added subsec. (c).
 
 Pub. L. 108–375, div. A, title V, §501(g), Oct. 28, 2004, 118 Stat. 1875, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[enacting section 647 of this title, amending this section and sections 532, 619, 641, 1174, 2114, 12201, 12203, and 12731 of this title, and repealing section 522 of this title\] shall take effect on the first day of the first month beginning more than 180 days after the date of the enactment of this Act \[Oct. 28, 2004\].
+"(1) Except as provided in paragraph (2), the amendments made by this section \[enacting section 647 of this title, amending this section and sections 532, 619, 641, 1174, 2114, 12201, 12203, and 12731 of this title, and repealing section 522 of this title\] shall take effect on the first day of the first month beginning more than 180 days after the date of the enactment of this Act \[Oct. 28, 2004\].
 
-“(2) The amendment made by subsection (a)(1) \[amending section 532 of this title\] shall take effect on May 1, 2005.”
+"(2) The amendment made by subsection (a)(1) \[amending section 532 of this title\] shall take effect on May 1, 2005."
 
 #### Effective Date
 
@@ -38,15 +38,15 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 Pub. L. 101–189, div. A, title VII, §708, Nov. 29, 1989, 103 Stat. 1475, provided that:
 
-“(a)
+"(a)
 
 Program Required.—(1) Not later than September 30, 1991, the Secretary of each military department shall implement a program to appoint persons who have an associate degree or diploma in nursing (but have not received a baccalaureate degree in nursing) as officers and to assign such officers to duty as nurses.
 
-“(2) An officer appointed pursuant to the program required by subsection (a) shall be appointed in a warrant officer grade or in a commissioned grade not higher than O–3. Such officer may not be promoted above the grade of O–3 unless the officer receives a baccalaureate degree in nursing.
+"(2) An officer appointed pursuant to the program required by subsection (a) shall be appointed in a warrant officer grade or in a commissioned grade not higher than O–3. Such officer may not be promoted above the grade of O–3 unless the officer receives a baccalaureate degree in nursing.
 
-“(b)
+"(b)
 
-Report on Implementation.—Not later than April 1, 1990, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the actions taken by the Secretaries of the military departments to implement the program required by this section.”
+Report on Implementation.—Not later than April 1, 1990, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the actions taken by the Secretaries of the military departments to implement the program required by this section."
 
 #### Ex. Ord. No. 13384. Assignment of Functions Relating to Original Appointments as Commissioned Officers and Chief Warrant Officer Appointments in the Armed Forces
 

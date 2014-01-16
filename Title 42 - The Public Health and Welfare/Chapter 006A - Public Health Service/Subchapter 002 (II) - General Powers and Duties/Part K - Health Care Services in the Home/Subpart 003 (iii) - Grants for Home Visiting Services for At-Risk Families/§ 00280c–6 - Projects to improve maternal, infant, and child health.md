@@ -62,7 +62,7 @@ In awarding grants under subsection (a) of this section, the Secretary shall tak
 
 #### (d) Federal share
 
-With respect to the costs of carrying out a project under subsection (a) of this section, agrant under such subsection for the project may not exceed 90 percent of such costs. To be eligible to receive such a grant, an applicant must provide assurances that the applicant will obtain at least 10 percent of such costs from non-Federal funds (and such contributions to such costs may be in cash or in-kind, including facilities and personnel).
+With respect to the costs of carrying out a project under subsection (a) of this section, a grant under such subsection for the project may not exceed 90 percent of such costs. To be eligible to receive such a grant, an applicant must provide assurances that the applicant will obtain at least 10 percent of such costs from non-Federal funds (and such contributions to such costs may be in cash or in-kind, including facilities and personnel).
 
 #### (e) Rule of construction regarding at-risk births
 
@@ -234,11 +234,11 @@ The Secretary may make a grant under subsection (a) of this section only if—
 
 For purposes of this section:
 
-&emsp;(1) The term “eligible entity” includes public and nonprofit private entities that provide health or related social services, including community-based organizations, visiting nurse organizations, hospitals, local health departments, community health centers, Native Hawaiian health centers, nurse managed clinics, family service agencies, child welfare agencies, developmental service providers, family resource and support programs, and resource mothers projects.
+&emsp;(1) The term "eligible entity" includes public and nonprofit private entities that provide health or related social services, including community-based organizations, visiting nurse organizations, hospitals, local health departments, community health centers, Native Hawaiian health centers, nurse managed clinics, family service agencies, child welfare agencies, developmental service providers, family resource and support programs, and resource mothers projects.
 
-&emsp;(2) The term “eligible family” means a family described in subsection (a) of this section.
+&emsp;(2) The term "eligible family" means a family described in subsection (a) of this section.
 
-&emsp;(3) The term “health or developmental complication”, with respect to a child, means—
+&emsp;(3) The term "health or developmental complication", with respect to a child, means—
 
 &emsp;&emsp;(A) being born in an unhealthy or potentially unhealthy condition, including premature birth, low birthweight, and prenatal exposure to maternal substance abuse;
 
@@ -248,15 +248,15 @@ For purposes of this section:
 
 &emsp;&emsp;(D) a developmental disability or delay.
 
-&emsp;(4) The term “home visiting services” means the services specified in subsection (b) of this section, provided at the residence of the eligible family involved or provided pursuant to arrangements made for the family (including arrangements for services in community settings).
+&emsp;(4) The term "home visiting services" means the services specified in subsection (b) of this section, provided at the residence of the eligible family involved or provided pursuant to arrangements made for the family (including arrangements for services in community settings).
 
-&emsp;(5) The term “home visitors” means providers of home visiting services.
+&emsp;(5) The term "home visitors" means providers of home visiting services.
 
 #### (r) Authorization of appropriations
 
 For the purpose of carrying out this section, there is authorized to be appropriated $30,000,000 for each of the fiscal years 1993 and 1994.
 
-(July 1, 1944, ch. 373, title III, §399, as added Pub. L. 102–321, title V, §502(2), July 10, 1992, 106 Stat. 427; amended Pub. L. 103–448, title II, §204(w)(2)(D), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 108–446, title III, §305(i)(2), Dec. 3, 2004, 118 Stat. 2806.)
+(July 1, 1944, ch. 373, title III, §399, as added Pub. L. 102–321, title V, §502(2), July 10, 1992, 106 Stat. 427; amended Pub. L. 103–448, title II, §204(w)(2)(D), Nov. 2, 1994, 108 Stat. 4746; Pub. L.108–446, title III, §305(i)(2), Dec. 3, 2004, 118 Stat. 2806.)
 
 #### References in Text
 
@@ -272,9 +272,9 @@ Another prior section 399 of act July 1, 1944, ch. 373, title III, formerly §39
 
 #### Amendments
 
-<b>2004</b>—Subsec. (n)(3). Pub. L. 108–446 substituted “part C” for “part H”.
+<b>2004</b>—Subsec. (n)(3). Pub. L. 108–446 substituted "part C" for "part H".
 
-<b>1994</b>—Subsec. (b)(6). Pub. L. 103–448 substituted “special supplemental nutrition program” for “special supplemental food program”.
+<b>1994</b>—Subsec. (b)(6). Pub. L. 103–448 substituted "special supplemental nutrition program" for "special supplemental food program".
 
 #### Effective Date of 1994 Amendment
 
@@ -290,15 +290,15 @@ Reference to community health center, migrant health center, public housing heal
 
 #### Purpose
 
-Pub. L. 102–321, title V, §501, July 10, 1992, 106 Stat. 426, provided that: “The purpose of this title \[enacting this section\] is—
+Pub. L. 102–321, title V, §501, July 10, 1992, 106 Stat. 426, provided that: "The purpose of this title \[enacting this section\] is—
 
-&emsp;“(1) to increase the use of, and to provide information on the availability of early, continuous and comprehensive prenatal care;
+&emsp;"(1) to increase the use of, and to provide information on the availability of early, continuous and comprehensive prenatal care;
 
-&emsp;“(2) to reduce the incidence of infant mortality and of infants born prematurely, with low birthweight, or with other impairments including those associated with maternal substance abuse;
+&emsp;"(2) to reduce the incidence of infant mortality and of infants born prematurely, with low birthweight, or with other impairments including those associated with maternal substance abuse;
 
-&emsp;“(3) for pregnant women and mothers of children below the age of 3 whose children have experienced or are at risk of experiencing a health or developmental complication, to provide assistance in obtaining health and related social services necessary to meet the special needs of the women and their children;
+&emsp;"(3) for pregnant women and mothers of children below the age of 3 whose children have experienced or are at risk of experiencing a health or developmental complication, to provide assistance in obtaining health and related social services necessary to meet the special needs of the women and their children;
 
-&emsp;“(4) to assist, when requested, women who are pregnant and at-risk for poor birth outcomes, or who have young children and are abusing alcohol or other drugs, in obtaining appropriate treatment; and
+&emsp;"(4) to assist, when requested, women who are pregnant and at-risk for poor birth outcomes, or who have young children and are abusing alcohol or other drugs, in obtaining appropriate treatment; and
 
-&emsp;“(5) to reduce the incidence of child abuse and neglect.”
+&emsp;"(5) to reduce the incidence of child abuse and neglect."
 

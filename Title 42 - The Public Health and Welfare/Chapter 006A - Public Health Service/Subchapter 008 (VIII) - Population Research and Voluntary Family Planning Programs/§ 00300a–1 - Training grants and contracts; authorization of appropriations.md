@@ -10,7 +10,7 @@
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–512 inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1985.
 
-<b>1983</b>—Subsec. (b). Pub. L. 97–414, §8(n), substituted a semicolon for a comma after “1981”.
+<b>1983</b>—Subsec. (b). Pub. L. 97–414, §8(n), substituted a semicolon for a comma after "1981".
 
 Pub. L. 97–414, §9(a), amended directory language of Pub. L. 97–35, §931(a)(2), to correct a typographical error and did not involve any change in text. See 1981 Amendment note below.
 

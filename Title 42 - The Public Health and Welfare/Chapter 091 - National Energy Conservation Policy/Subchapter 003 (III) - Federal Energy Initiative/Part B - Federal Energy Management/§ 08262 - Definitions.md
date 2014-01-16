@@ -2,15 +2,15 @@
 
 For purposes of this subtitle— <sup>1</sup>
 
-&emsp;(1) the term “agency” means <sup>2</sup> has the meaning given such term in section 551(1) of title 5, except that such term does not include the United States Postal Service;
+&emsp;(1) the term "agency" means <sup>2</sup> has the meaning given such term in section 551(1) of title 5, except that such term does not include the United States Postal Service;
 
-&emsp;(2) the term “facility energy supervisor” means the employee with responsibility for the daily operations of a Federal facility, including the management, installation, operation, and maintenance of energy systems in Federal facilities which may include more than one building;
+&emsp;(2) the term "facility energy supervisor" means the employee with responsibility for the daily operations of a Federal facility, including the management, installation, operation, and maintenance of energy systems in Federal facilities which may include more than one building;
 
-&emsp;(3) the term “trained energy manager” means a person who has demonstrated proficiency, or who has completed a course of study in the areas of fundamentals of building energy systems, building energy codes and applicable professional standards, energy accounting and analysis, life-cycle cost methodology, fuel supply and pricing, and instrumentation for energy surveys and audits;
+&emsp;(3) the term "trained energy manager" means a person who has demonstrated proficiency, or who has completed a course of study in the areas of fundamentals of building energy systems, building energy codes and applicable professional standards, energy accounting and analysis, life-cycle cost methodology, fuel supply and pricing, and instrumentation for energy surveys and audits;
 
-&emsp;(4) the term “Task Force” means the Interagency Energy Management Task Force established under section 8257 of this title; and
+&emsp;(4) the term "Task Force" means the Interagency Energy Management Task Force established under section 8257 of this title; and
 
-&emsp;(5) the term “energy conservation measures” has the meaning given such term in section 8259(4) of this title.
+&emsp;(5) the term "energy conservation measures" has the meaning given such term in section 8259(4) of this title.
 
 (Pub. L. 102–486, title I, §151, Oct. 24, 1992, 106 Stat. 2843.)
 
@@ -24,5 +24,5 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “means” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "means" probably should not appear.</i>
 

@@ -14,93 +14,93 @@ Beginning at the southeast corner of section 13, township 6 south, range 5 east;
 
 Pub. L. 109–71, Sept. 21, 2005, 119 Stat. 2011, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘Wind Cave National Park Boundary Revision Act of 2005’.
+"This Act may be cited as the 'Wind Cave National Park Boundary Revision Act of 2005'.
 
-#### “SEC. 2. DEFINITIONS.
+#### "SEC. 2. DEFINITIONS.
 
-“In this Act:
+"In this Act:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Map.—The term ‘map’ means the map entitled ‘Wind Cave National Park Boundary Revision’, numbered 108/80,030, and dated June 2002.
+Map.—The term 'map' means the map entitled 'Wind Cave National Park Boundary Revision', numbered 108/80,030, and dated June 2002.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Park.—The term ‘Park’ means the Wind Cave National Park in the State.
+Park.—The term 'Park' means the Wind Cave National Park in the State.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+Secretary.—The term 'Secretary' means the Secretary of the Interior.
 
-&emsp;“(4)
+&emsp;"(4)
 
-State.—The term ‘State’ means the State of South Dakota.
+State.—The term 'State' means the State of South Dakota.
 
-#### “SEC. 3. LAND ACQUISITION.
+#### "SEC. 3. LAND ACQUISITION.
 
-“(a)
+"(a)
 
 Authority.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary may acquire the land or interest in land described in subsection (b)(1) for addition to the Park.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Means.—An acquisition of land under paragraph (1) may be made by donation, purchase from a willing seller with donated or appropriated funds, or exchange.
 
-“(b)
+"(b)
 
 Boundary.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Map and acreage.—The land referred to in subsection (a)(1) shall consist of approximately 5,675 acres, as generally depicted on the map.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Availability of map.—The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Revision.—The boundary of the Park shall be adjusted to reflect the acquisition of land under subsection (a)(1).
 
-#### “SEC. 4. ADMINISTRATION.
+#### "SEC. 4. ADMINISTRATION.
 
-“(a)
+"(a)
 
 In General.—The Secretary shall administer any land acquired under section 3(a)(1) as part of the Park in accordance with laws (including regulations) applicable to the Park.
 
-“(b)
+"(b)
 
 Transfer of Administrative Jurisdiction.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary shall transfer from the Director of the Bureau of Land Management to the Director of the National Park Service administrative jurisdiction over the land described in paragraph (2).
 
-&emsp;“(2)
+&emsp;"(2)
 
-Map and acreage.—The land referred to in paragraph (1) consists of the approximately 80 acres of land identified on the map as ‘Bureau of Land Management land’.
+Map and acreage.—The land referred to in paragraph (1) consists of the approximately 80 acres of land identified on the map as 'Bureau of Land Management land'.
 
-#### “SEC. 5. GRAZING.
+#### "SEC. 5. GRAZING.
 
-“(a)
+"(a)
 
 Grazing Permitted.—Subject to any permits or leases in existence as of the date of acquisition, the Secretary may permit the continuation of livestock grazing on land acquired under section 3(a)(1).
 
-“(b)
+"(b)
 
 Limitation.—Grazing under subsection (a) shall be at not more than the level existing on the date on which the land is acquired under section 3(a)(1).
 
-“(c)
+"(c)
 
 Purchase of Permit or Lease.—The Secretary may purchase the outstanding portion of a grazing permit or lease on any land acquired under section 3(a)(1).
 
-“(d)
+"(d)
 
-Termination of Leases or Permits.—The Secretary may accept the voluntary termination of a permit or lease for grazing on any acquired land.”
+Termination of Leases or Permits.—The Secretary may accept the voluntary termination of a permit or lease for grazing on any acquired land."
 

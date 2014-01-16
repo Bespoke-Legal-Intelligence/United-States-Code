@@ -22,7 +22,7 @@ Chapter 52 of the Internal Revenue Code of 1986, referred to in subsec. (b)(1), 
 
 <b>2006</b>—Pub. L. 109–177 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>2002</b>—Pub. L. 107–296 substituted “Attorney General” for “Secretary”.
+<b>2002</b>—Pub. L. 107–296 substituted "Attorney General" for "Secretary".
 
 #### Effective Date of 2002 Amendment
 

@@ -58,11 +58,11 @@ In subsec. (e), reference to section 5372 of title 5 was substituted for section
 
 #### Amendments
 
-<b>1978</b>—Subsecs. (e), (j), (k). Pub. L. 95–251 substituted “administrative law judge” and “administrative law judges” for “hearing examiner” and “hearing examiners”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (e), (j), (k). Pub. L. 95–251 substituted "administrative law judge" and "administrative law judges" for "hearing examiner" and "hearing examiners", respectively, wherever appearing.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “An”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "An".</i>
 

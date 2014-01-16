@@ -2,11 +2,11 @@
 
 (a)
 
-Establishment.—There is established within the Department of the Treasury, the Office of Intelligence and Analysis (in this section referred to as the “Office”), which shall—
+Establishment.—There is established within the Department of the Treasury, the Office of Intelligence and Analysis (in this section referred to as the "Office"), which shall—
 
 &emsp;(1) be within the Office of Terrorism and Financial Intelligence;
 
-&emsp;(2) be responsible for the receipt, analysis, collation, and dissemination of foreign intelligence and foreign counterintelligence information (within the meaning of section 3 of the National Security Act of 1947 (50 U.S.C. 401a)) related to the operation and responsibilities of the Department of the Treasury; and
+&emsp;(2) be responsible for the receipt, analysis, collation, and dissemination of foreign intelligence and foreign counterintelligence information (within the meaning of section 3 of the National Security Act of 1947 (50 U.S.C. 401a)) <sup>1</sup> related to the operation and responsibilities of the Department of the Treasury; and
 
 &emsp;(3) have such other related duties and authorities as may be assigned to it by the Secretary, subject to the authority, direction, and control of the Secretary.
 
@@ -16,6 +16,10 @@ Assistant Secretary for Intelligence and Analysis.—The Office shall be headed 
 
 (Added Pub. L. 108–177, title I, §105(a)(1)(B), Dec. 13, 2003, 117 Stat. 2603; amended Pub. L. 108–447, div. H, title II, §222(b)(1), Dec. 8, 2004, 118 Stat. 3245.)
 
+#### References in Text
+
+The National Security Act of 1947, referred to in subsec. (a)(2), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 3 of the Act is now classified to section 3003 of Title 50. For complete classification of this Act to the Code, see Tables.
+
 #### Prior Provisions
 
 A prior section 311 was renumbered section 315 of this title.
@@ -24,9 +28,11 @@ A prior section 311 was renumbered section 315 of this title.
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–447, §222(b)(1)(A), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-Subsec. (b). Pub. L. 108–447, §222(b)(1)(B), substituted “Terrorism and Financial Crimes” for “Enforcement”.
+Subsec. (b). Pub. L. 108–447, §222(b)(1)(B), substituted "Terrorism and Financial Crimes" for "Enforcement".
 
 #### Construction
 
-Pub. L. 108–177, title I, §105(b), Dec. 13, 2003, 117 Stat. 2603, as amended by Pub. L. 111–259, title VIII, §808, Oct. 7, 2010, 124 Stat. 2749, provided that: “Nothing in section 311 of title 31, United States Code (as amended by subsection (a)), or in section 313 of such title, shall be construed to alter the authorities and responsibilities of the Director of National Intelligence with respect to the Office of Intelligence and Analysis of the Department of the Treasury as an element of the intelligence community.”
+Pub. L. 108–177, title I, §105(b), Dec. 13, 2003, 117 Stat. 2603, as amended by Pub. L. 111–259, title VIII, §808, Oct. 7, 2010, 124 Stat. 2749, provided that: "Nothing in section 311 of title 31, United States Code (as amended by subsection (a)), or in section 313 of such title, shall be construed to alter the authorities and responsibilities of the Director of National Intelligence with respect to the Office of Intelligence and Analysis of the Department of the Treasury as an element of the intelligence community."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

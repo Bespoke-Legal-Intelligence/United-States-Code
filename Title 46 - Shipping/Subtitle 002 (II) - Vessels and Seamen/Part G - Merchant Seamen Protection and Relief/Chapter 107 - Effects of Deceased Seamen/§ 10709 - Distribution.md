@@ -30,5 +30,5 @@ Section 10709 instructs a district court to deliver a deceased seaman's property
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–307, in text preceding cl. (A), substituted “than $1,500 in value, the court,” for “then $1,500 in value, and” and “wages, may” for “wages, the court may”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–307, in text preceding cl. (A), substituted "than $1,500 in value, the court," for "then $1,500 in value, and" and "wages, may" for "wages, the court may".
 

@@ -34,9 +34,9 @@ The Combating Autism Act of 2006, referred to in subsec. (b)(1), (2), is Pub. L.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–32, §2(4)(A), substituted “Not later than 2 years after September 30, 2011” for “Not later than 4 years after December 19, 2006”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–32, §2(4)(A), substituted "Not later than 2 years after September 30, 2011" for "Not later than 4 years after December 19, 2006".
 
-Subsec. (b)(4), (5). Pub. L. 112–32, §2(4)(B), substituted “the 6-year period beginning on December 19, 2006” for “the 4-year period beginning on the date of enactment of this Act”, which for purposes of codification was translated as “the 4-year period beginning on December 19, 2006”.
+Subsec. (b)(4), (5). Pub. L. 112–32, §2(4)(B), substituted "the 6-year period beginning on December 19, 2006" for "the 4-year period beginning on the date of enactment of this Act", which for purposes of codification was translated as "the 4-year period beginning on December 19, 2006".
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

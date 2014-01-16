@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is hereby established a Health Insurance Reform Implementation Fund (referred to in this section as the “Fund”) within the Department of Health and Human Services to carry out the Patient Protection and Affordable Care Act and this Act (and the amendments made by such Acts).
+There is hereby established a Health Insurance Reform Implementation Fund (referred to in this section as the "Fund") within the Department of Health and Human Services to carry out the Patient Protection and Affordable Care Act and this Act (and the amendments made by such Acts).
 
 #### (b) Funding
 
@@ -20,5 +20,5 @@ This Act, referred to in subsec. (a), is Pub. L. 111–152, Mar. 30, 2010, 124 S
 
 Section was enacted as part of the Health Care and Education Reconciliation Act of 2010, and not as part of the Patient Protection and Affordable Care Act, which comprises this chapter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Acts”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Acts".</i>
 

@@ -20,7 +20,7 @@
 
 > Repayment of any such loan shall be made on the basis of each complete year of service performed by the borrower.
 
-(2) The Secretary of Defense may repay loans described in paragraph (1) in the case of any person for service performed as a member of the Selected Reserve of the Ready Reserve of an armedforce in a reserve component and in an officer program or military specialty specified by the Secretary of Defense. The Secretary may repay such a loan only if the person to whom the loan was made performed such service after the loan was made.
+(2) The Secretary of Defense may repay loans described in paragraph (1) in the case of any person for service performed as a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty specified by the Secretary of Defense. The Secretary may repay such a loan only if the person to whom the loan was made performed such service after the loan was made.
 
 (b) The portion or amount of a loan that may be repaid under subsection (a) is 15 percent or $500, whichever is greater, for each year of service, plus the amount of any interest that may accrue during the current year.
 
@@ -48,31 +48,31 @@ The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89�
 
 <b>2011</b>—Subsecs. (h), (i). Pub. L. 111–383 added subsecs. (h) and (i).
 
-<b>2008</b>—Pub. L. 110–181, §672(c)(1), substituted “Education loan repayment program: members of Selected Reserve” for “Education loan repayment program: enlisted members of Selected Reserve with critical specialties” in section catchline.
+<b>2008</b>—Pub. L. 110–181, §672(c)(1), substituted "Education loan repayment program: members of Selected Reserve" for "Education loan repayment program: enlisted members of Selected Reserve with critical specialties" in section catchline.
 
 Subsec. (a)(1)(D). Pub. L. 110–181, §672(a), added subpar. (D).
 
-Subsec. (a)(2). Pub. L. 110–181, §672(b)(1), substituted “The Secretary” for “Except as provided in paragraph (3), the Secretary” and “a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty” for “an enlisted member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and military specialty”.
+Subsec. (a)(2). Pub. L. 110–181, §672(b)(1), substituted "The Secretary" for "Except as provided in paragraph (3), the Secretary" and "a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty" for "an enlisted member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and military specialty".
 
-Subsec. (a)(3). Pub. L. 110–181, §672(b)(2), struck out par. (3) which read as follows: “In the case of a commitment made by the Secretary of Defense after the date of the enactment of this paragraph to repay a loan under paragraph (1) conditioned upon the performance by the borrower of service as an enlisted member under paragraph (2), the Secretary may repay the loan for service performed by the borrower as an officer (rather than as an enlisted member) in the case of a borrower who, after such commitment is entered into and while performing service as an enlisted member, accepts an appointment or commission as a warrant officer or commissioned officer of the Selected Reserve.”
+Subsec. (a)(3). Pub. L. 110–181, §672(b)(2), struck out par. (3) which read as follows: "In the case of a commitment made by the Secretary of Defense after the date of the enactment of this paragraph to repay a loan under paragraph (1) conditioned upon the performance by the borrower of service as an enlisted member under paragraph (2), the Secretary may repay the loan for service performed by the borrower as an officer (rather than as an enlisted member) in the case of a borrower who, after such commitment is entered into and while performing service as an enlisted member, accepts an appointment or commission as a warrant officer or commissioned officer of the Selected Reserve."
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–375, §526(1), substituted “Except as provided in paragraph (3), the Secretary of Defense may repay loans” for “The Secretary may repay loans”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–375, §526(1), substituted "Except as provided in paragraph (3), the Secretary of Defense may repay loans" for "The Secretary may repay loans".
 
 Subsec. (a)(3). Pub. L. 108–375, §526(2), added par. (3).
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–136, §534(1), inserted before period at end “, plus the amount of any interest that may accrue during the current year”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §534(1), inserted before period at end ", plus the amount of any interest that may accrue during the current year".
 
 Subsec. (c). Pub. L. 108–136, §534(2), inserted last sentence.
 
-<b>2002</b>—Subsec. (g). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (g). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 <b>1999</b>—Subsec. (g). Pub. L. 106–65 added subsec. (g).
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 struck out "or" at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date
 

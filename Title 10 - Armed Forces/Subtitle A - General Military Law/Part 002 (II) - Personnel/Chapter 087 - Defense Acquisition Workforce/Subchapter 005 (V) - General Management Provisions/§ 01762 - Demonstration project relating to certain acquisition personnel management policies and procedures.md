@@ -10,9 +10,9 @@ Terms and Conditions.—(1) Except as otherwise provided in this subsection, any
 
 (2) Subject to paragraph (3), in applying section 4703 of title 5 with respect to a demonstration project described in subsection (a)—
 
-&emsp;(A) “180 days” in subsection (b)(4) of such section shall be deemed to read “120 days”;
+&emsp;(A) "180 days" in subsection (b)(4) of such section shall be deemed to read "120 days";
 
-&emsp;(B) “90 days” in subsection (b)(6) of such section shall be deemed to read “30 days”; and
+&emsp;(B) "90 days" in subsection (b)(6) of such section shall be deemed to read "30 days"; and
 
 &emsp;(C) subsection (d)(1) of such section shall be disregarded.
 
@@ -72,7 +72,7 @@ Assessments.—(1) The Secretary of Defense shall designate an independent organ
 
 (f)
 
-Covered Congressional Committees.—In this section, the term “covered congressional committees” means—
+Covered Congressional Committees.—In this section, the term "covered congressional committees" means—
 
 &emsp;(1) the Committees on Armed Services of the Senate and the House of Representatives;
 

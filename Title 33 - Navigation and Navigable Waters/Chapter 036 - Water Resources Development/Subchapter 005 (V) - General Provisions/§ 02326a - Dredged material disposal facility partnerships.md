@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may enter into a partnership agreement under section 1962d–5b of title 42 with one or more non-Federal interests with respect to a water resources project, or group of water resources projects within a geographic region, if appropriate, for the acquisition, design, construction, management, or operation of a dredged material processing, treatment, contaminant reduction, or disposal facility (including any facility used to demonstrate potential beneficial uses of dredged material, which may include effective sediment contaminant reduction technologies) using funds provided in whole or in part by the Federal Government.
+&emsp;The Secretary may enter into a partnership agreement under section 1962d–5b of title 42with one or more non-Federal interests with respect to a water resources project, or group of water resources projects within a geographic region, if appropriate, for the acquisition, design, construction, management, or operation of a dredged material processing, treatment, contaminant reduction, or disposal facility (including any facility used to demonstrate potential beneficial uses of dredged material, which may include effective sediment contaminant reduction technologies) using funds provided in whole or in part by the Federal Government.
 
 #### (2) Performance
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;A non-Federal interest entering into a partnership agreement under this subsection for a facility shall—
 
-&emsp;&emsp;&emsp;(i) be responsible for providing all necessary lands, easements, relocations, andrights-of-way associated with the facility; and
+&emsp;&emsp;&emsp;(i) be responsible for providing all necessary lands, easements, relocations, and rights-of-way associated with the facility; and
 
 &emsp;&emsp;&emsp;(ii) receive credit toward the non-Federal share of the cost of the project with respect to which the agreement is being entered into for those items.
 
@@ -124,11 +124,11 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 Subsec. (d). Pub. L. 110–114, §2005(1), redesignated subsec. (c) as (d).
 
-Subsec. (d)(1). Pub. L. 110–114, §2005(3), inserted “and maintenance” after “operation” and “processing, treatment, contaminant reduction, or” after “dredged material”.
+Subsec. (d)(1). Pub. L. 110–114, §2005(3), inserted "and maintenance" after "operation" and "processing, treatment, contaminant reduction, or" after "dredged material".
 
-Subsec. (d)(2)(A). Pub. L. 110–114, §2005(3), inserted “and maintenance” after “operation” and “processing, treatment, contaminant reduction, or” after “of a dredged material”.
+Subsec. (d)(2)(A). Pub. L. 110–114, §2005(3), inserted "and maintenance" after "operation" and "processing, treatment, contaminant reduction, or" after "of a dredged material".
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under section 2201 of this title.
 

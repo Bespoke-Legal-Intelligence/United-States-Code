@@ -36,27 +36,27 @@ Oct. 12, 1949, ch. 681, §412 (less clause (3), less applicability to persons re
 
 37:282 (clause (2), less applicability to persons referred to in 37:281, and less applicability to service as a cadet before August 24, 1912, as a midshipman before March 4, 1913, as an Army field clerk, or as a field clerk, Army Quartermaster Corps).
 
-In subsection (a), the words “shall be credited with the service described in clause (1) or that described in clause (2), whichever is greater” are substituted for the words “shall be interpreted to mean”.
+In subsection (a), the words "shall be credited with the service described in clause (1) or that described in clause (2), whichever is greater" are substituted for the words "shall be interpreted to mean".
 
-In subsection (a)(1), the words “he is considered to have” are substituted for the words “such member, former member, or person has or is deemed to have pursuant to law”.
+In subsection (a)(1), the words "he is considered to have" are substituted for the words "such member, former member, or person has or is deemed to have pursuant to law".
 
-In subsection (a)(2)(A), the words “his active service” are substituted for the words “while on the active list or on active duty or while participating in full-time training or other full-time duty provided for or authorized in the National Defense Act, as amended, the Naval Reserve Act of 1938, as amended, or in—other provisions of law” because of the definitions of “active service” and “active duty” in sections 101(24) and 101(22) of this title.
+In subsection (a)(2)(A), the words "his active service" are substituted for the words "while on the active list or on active duty or while participating in full-time training or other full-time duty provided for or authorized in the National Defense Act, as amended, the Naval Reserve Act of 1938, as amended, or in—other provisions of law" because of the definitions of "active service" and "active duty" in sections 101(24) and 101(22) of this title.
 
-In subsection (a)(2)(C), the references to 10:22–23, 24–26, and 30–36 are omitted as repealed by section 401 of the Army Organization Act of 1950, 64 Stat. 271. The reference to 32:70 is omitted as repealed by section 16 of the act of June 15, 1933, ch. 87, 48 Stat. 159. The reference to 10:23a is omitted as executed. The references to 10:38 and 32:66 and 172–175 are omitted as covered by the words “active service”. The references to 32:144–147, 171, and 176 are omitted, since they deal with pay and do not authorize duty or training. The reference to section 502 of title 32, not contained in 37:282, is inserted, since section 92 of the National Defense Act, as amended (32:62) is referred to in section 412 of the Career Compensation Act of 1949 (37:282).
+In subsection (a)(2)(C), the references to 10:22–23, 24–26, and 30–36 are omitted as repealed by section 401 of the Army Organization Act of 1950, 64 Stat. 271. The reference to 32:70 is omitted as repealed by section 16 of the act of June 15, 1933, ch. 87, 48 Stat. 159. The reference to 10:23a is omitted as executed. The references to 10:38 and 32:66 and 172–175 are omitted as covered by the words "active service". The references to 32:144–147, 171, and 176 are omitted, since they deal with pay and do not authorize duty or training. The reference to section 502 of title 32, not contained in 37:282, is inserted, since section 92 of the National Defense Act, as amended (32:62) is referred to in section 412 of the Career Compensation Act of 1949 (37:282).
 
-In subsection (b), the words “any other member” are substituted for the words “members of the reserve components”, since the words “reserve components” are defined by section 102(k) of the Career Compensation Act of 1949, 63 Stat. 805 (37 U.S.C. 231(k)) to include members appointed, enlisted, or inducted without component.
+In subsection (b), the words "any other member" are substituted for the words "members of the reserve components", since the words "reserve components" are defined by section 102(k) of the Career Compensation Act of 1949, 63 Stat. 805 (37 U.S.C. 231(k)) to include members appointed, enlisted, or inducted without component.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted “section 12733” for “section 1333”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted "section 12733" for "section 1333".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–26 substituted “paragraph (1)” and “paragraph (2)” for “clause (1)” and “clause (2)”, respectively, in introductory provisions, and “paragraph (2)” for “clause 2(B) of this subsection” in second sentence.
+<b>1987</b>—Subsec. (a). Pub. L. 100–26 substituted "paragraph (1)" and "paragraph (2)" for "clause (1)" and "clause (2)", respectively, in introductory provisions, and "paragraph (2)" for "clause 2(B) of this subsection" in second sentence.
 
-<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–661 struck out “after February 2, 1901” after “a reserve nurse”.
+<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–661 struck out "after February 2, 1901" after "a reserve nurse".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “separation, discharge, or retirement for length of service” for “separation or mandatory elimination from the active list” in par. (1), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration” in par. (2)(B), and, in provisions following par. (2)(C), substituted “as a member of the National Oceanic and Atmospheric Administration includes active service as a member of the Environmental Science Services Administration and” for “as a member of the Environmental Science Services Administration includes service as a member”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "separation, discharge, or retirement for length of service" for "separation or mandatory elimination from the active list" in par. (1), substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration" in par. (2)(B), and, in provisions following par. (2)(C), substituted "as a member of the National Oceanic and Atmospheric Administration includes active service as a member of the Environmental Science Services Administration and" for "as a member of the Environmental Science Services Administration includes service as a member".
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in clause (2)(B) and inserted provision that, for purposes of clause (2)(B) of subsec. (a), active service as a member of the Environmental Science Services Administration includes active service as a member of the Coast and Geodetic Survey.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey" in clause (2)(B) and inserted provision that, for purposes of clause (2)(B) of subsec. (a), active service as a member of the Environmental Science Services Administration includes active service as a member of the Coast and Geodetic Survey.
 
 #### Effective Date of 1996 Amendment
 
@@ -76,15 +76,15 @@ For transfer of functions of Public Health Service, see note set out under secti
 
 #### Additional Service Creditable to Certain Regulars
 
-Act Aug. 10, 1956, ch. 1041, §39, 70A Stat. 635, provided that: “In addition to service with which he may becredited under section 1208(a)(2) of title 10, United States Code \[subsec. (a)(2) of this section\], a member of a regular component of the armed forces shall be credited, for the purposes of chapter 61 of title 10, United States Code \[this chapter\], with all service as—
+Act Aug. 10, 1956, ch. 1041, §39, 70A Stat. 635, provided that: "In addition to service with which he may becredited under section 1208(a)(2) of title 10, United States Code \[subsec. (a)(2) of this section\], a member of a regular component of the armed forces shall be credited, for the purposes of chapter 61 of title 10, United States Code \[this chapter\], with all service as—
 
-&emsp;“(1) a cadet at the United States Military Academy, if appointed before August 24, 1912;
+&emsp;"(1) a cadet at the United States Military Academy, if appointed before August 24, 1912;
 
-&emsp;“(2) a midshipman at the United States Naval Academy, if appointed before March 4, 1913;
+&emsp;"(2) a midshipman at the United States Naval Academy, if appointed before March 4, 1913;
 
-&emsp;“(3) an Army field clerk; and
+&emsp;"(3) an Army field clerk; and
 
-&emsp;“(4) a field clerk, Army Quartermaster Corps.”
+&emsp;"(4) a field clerk, Army Quartermaster Corps."
 
 #### Officers of the Public Health Service
 

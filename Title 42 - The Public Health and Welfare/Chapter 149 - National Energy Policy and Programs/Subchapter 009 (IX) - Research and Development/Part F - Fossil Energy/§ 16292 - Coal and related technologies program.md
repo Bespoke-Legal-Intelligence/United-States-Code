@@ -84,5 +84,5 @@ In addition to the programs authorized under subchapter IV, the Secretary shall 
 
 #### References in Text
 
-Subchapter IV, referred to in subsecs. (a) and (b)(2)(D)(ii), was in the original “title IV”, meaning title IV of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 749, which enacted subchapter IV of this chapter and subchapter XIII (§13571 et seq.) of chapter 134 of this title, amended sections 201, 202a, 203, and 207 of Title 30, Mineral Lands and Mining, and enacted provisions set out as notes under section 15801 of this title and section 201 of Title 30. For complete classification of title IV to the Code, see Tables.
+Subchapter IV, referred to in subsecs. (a) and (b)(2)(D)(ii), was in the original "title IV", meaning title IV of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 749, which enacted subchapter IV of this chapter and subchapter XIII (§13571 et seq.) of chapter 134 of this title, amended sections 201, 202a, 203, and 207 of Title 30, Mineral Lands and Mining, and enacted provisions set out as notes under section 15801 of this title and section 201 of Title 30. For complete classification of title IV to the Code, see Tables.
 

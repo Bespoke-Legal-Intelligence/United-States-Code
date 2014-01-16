@@ -68,23 +68,23 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 <b>2000</b>—Subsec. (g). Pub. L. 106–541 added subsec. (g).
 
-<b>1999</b>—Subsec. (b)(1). Pub. L. 106–53, §224(1)(A), substituted “35 percent” for “50 percent”.
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–53, §224(1)(A), substituted "35 percent" for "50 percent".
 
-Subsec. (b)(2). Pub. L. 106–53, §224(1)(B), substituted “$50,000,000” for “$20,000,000”.
+Subsec. (b)(2). Pub. L. 106–53, §224(1)(B), substituted "$50,000,000" for "$20,000,000".
 
-Subsec. (d). Pub. L. 106–53, §224(2), substituted “shared as a cost of construction” for “non-Federal responsibility”.
+Subsec. (d). Pub. L. 106–53, §224(2), substituted "shared as a cost of construction" for "non-Federal responsibility".
 
 Subsec. (f)(6) to (8). Pub. L. 106–53, §224(3), added pars. (6) to (8).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–303, §205(1), inserted “and remediate” after “remove”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–303, §205(1), inserted "and remediate" after "remove".
 
-Subsec. (b)(1). Pub. L. 104–303, §205(1), (2)(A), inserted “and remediate” after “remove” and inserted “and remediation” after “removal” in two places.
+Subsec. (b)(1). Pub. L. 104–303, §205(1), (2)(A), inserted "and remediate" after "remove" and inserted "and remediation" after "removal" in two places.
 
-Subsec. (b)(2). Pub. L. 104–303, §205(2)(B), substituted “$20,000,000” for “$10,000,000”.
+Subsec. (b)(2). Pub. L. 104–303, §205(2)(B), substituted "$20,000,000" for "$10,000,000".
 
-Subsec. (c). Pub. L. 104–303, §205(1), inserted “and remediate” after “remove”.
+Subsec. (c). Pub. L. 104–303, §205(1), inserted "and remediate" after "remove".
 
-Subsec. (f). Pub. L. 104–303, §205(3), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “This section shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretary may complete any project commenced under this section on or before such last day.”
+Subsec. (f). Pub. L. 104–303, §205(3), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: "This section shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretary may complete any project commenced under this section on or before such last day."
 
-<i><sup>1</sup></i><i> So in original. The word “a” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "a" probably should not appear.</i>
 

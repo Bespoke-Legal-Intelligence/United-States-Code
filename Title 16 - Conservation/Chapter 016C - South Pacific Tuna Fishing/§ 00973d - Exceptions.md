@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–219 substituted “or to fishing by vessels using the longline method in the high seas areas of the Treaty area” for “outside of the 200 nautical mile fisheries zones of the Pacific Island Parties”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–219 substituted "or to fishing by vessels using the longline method in the high seas areas of the Treaty area" for "outside of the 200 nautical mile fisheries zones of the Pacific Island Parties".
 

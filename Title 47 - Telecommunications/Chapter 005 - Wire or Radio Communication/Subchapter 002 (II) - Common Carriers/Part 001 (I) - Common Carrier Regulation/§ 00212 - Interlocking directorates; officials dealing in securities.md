@@ -6,11 +6,11 @@ It shall be unlawful for any person to hold the position of officer or director 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–414 substituted “It shall” for “After sixty days from June 19, 1934, it shall”.
+<b>1994</b>—Pub. L. 103–414 substituted "It shall" for "After sixty days from June 19, 1934, it shall".
 
-<b>1956</b>—Act Aug. 2, 1956, inserted proviso that Commission may authorize persons to hold position of officer or director in more than one carrier, where carrier owns more than 50 percent of the stock of the other carriers, or that 50 percent or more of the stock of all such carriers is owned by the same person, struck out “such” before “carrier” in sentence after proviso, inserted “subject to this chapter” after that word, and substituted “carriers” for “carrier” toward end of said sentence.
+<b>1956</b>—Act Aug. 2, 1956, inserted proviso that Commission may authorize persons to hold position of officer or director in more than one carrier, where carrier owns more than 50 percent of the stock of the other carriers, or that 50 percent or more of the stock of all such carriers is owned by the same person, struck out"such" before "carrier" in sentence after proviso, inserted "subject to this chapter" after that word, and substituted "carriers" for "carrier" toward end of said sentence.
 

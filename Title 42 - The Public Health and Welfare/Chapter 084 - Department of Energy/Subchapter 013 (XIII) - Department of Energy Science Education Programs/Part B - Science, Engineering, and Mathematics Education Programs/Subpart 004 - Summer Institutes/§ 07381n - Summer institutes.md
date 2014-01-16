@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible partner
 
-&emsp;The term “eligible partner” means—
+&emsp;The term "eligible partner" means—
 
 &emsp;&emsp;(A) the science, engineering, or mathematics department at an institution of higher education, acting in coordination with a school, department, or program of education at an institution of higher education that provides training for teachers and principals; or
 
@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Summer institute
 
-&emsp;The term “summer institute” means an institute, operated during the summer, that—
+&emsp;The term "summer institute" means an institute, operated during the summer, that—
 
 &emsp;&emsp;(A) is hosted by a National Laboratory or an eligible partner;
 

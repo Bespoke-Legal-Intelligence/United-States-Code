@@ -8,9 +8,9 @@
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–177, §121(b)(2), inserted “or contraband smokeless tobacco” after “contraband cigarettes”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–177, §121(b)(2), inserted "or contraband smokeless tobacco" after "contraband cigarettes".
 
-Subsec. (b). Pub. L. 109–177, §121(a)(2), substituted “10,000” for “60,000”.
+Subsec. (b). Pub. L. 109–177, §121(a)(2), substituted "10,000" for "60,000".
 
 #### Effective Date
 

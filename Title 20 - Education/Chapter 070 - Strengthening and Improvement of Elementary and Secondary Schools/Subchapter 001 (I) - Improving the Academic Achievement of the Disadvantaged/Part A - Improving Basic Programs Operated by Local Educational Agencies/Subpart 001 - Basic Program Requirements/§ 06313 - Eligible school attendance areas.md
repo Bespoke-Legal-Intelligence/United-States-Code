@@ -10,9 +10,9 @@
 
 &emsp;For the purposes of this part—
 
-&emsp;&emsp;(A) the term “school attendance area” means, in relation to a particular school, thegeographical area in which the children who are normally served by that school reside; and
+&emsp;&emsp;(A) the term "school attendance area" means, in relation to a particular school, the geographical area in which the children who are normally served by that school reside; and
 
-&emsp;&emsp;(B) the term “eligible school attendance area” means a school attendance area in which the percentage of children from low-income families is at least as high as the percentage of children from low-income families served by the local educational agency as a whole.
+&emsp;&emsp;(B) the term "eligible school attendance area" means a school attendance area in which the percentage of children from low-income families is at least as high as the percentage of children from low-income families served by the local educational agency as a whole.
 
 #### (3) Ranking order
 
@@ -80,7 +80,7 @@
 
 #### (1) In general
 
-&emsp;A local educational agency shall allocate funds received under this part to eligible school attendance areas or eligible schools, identified under subsections (a) and (b) of thissection, in rank order, on the basis of the total number of children from low-income families in each area or school.
+&emsp;A local educational agency shall allocate funds received under this part to eligible school attendance areas or eligible schools, identified under subsections (a) and (b) of this section, in rank order, on the basis of the total number of children from low-income families in each area or school.
 
 #### (2) Special rule
 

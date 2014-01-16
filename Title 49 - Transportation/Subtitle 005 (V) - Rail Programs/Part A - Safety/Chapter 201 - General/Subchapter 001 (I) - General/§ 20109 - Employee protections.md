@@ -14,7 +14,7 @@ In General.—A railroad carrier engaged in interstate or foreign commerce, a co
 
 &emsp;(2) to refuse to violate or assist in the violation of any Federal law, rule, or regulation relating to railroad safety or security;
 
-&emsp;(3) to file a complaint, or directly cause to be brought a proceeding related to the enforcement of this part or, as applicable to railroadsafety or security, chapter 51 or 57 of this title, or to testify in that proceeding;
+&emsp;(3) to file a complaint, or directly cause to be brought a proceeding related to the enforcement of this part or, as applicable to railroad safety or security, chapter 51 or 57 of this title, or to testify in that proceeding;
 
 &emsp;(4) to notify, or attempt to notify, the railroad carrier or the Secretary of Transportation of a work-related personal injury or work-related illness of an employee;
 
@@ -58,7 +58,7 @@ Prohibition.—A railroad carrier or person covered under this section may not d
 
 &emsp;(2)
 
-Discipline.—A railroad carrier or person covered under this section may not discipline, or threaten discipline to, an employee for requesting medical or first aid treatment, or for following orders or a treatment plan of a treating physician, except that a railroad carrier's refusal to permit an employee to return to work following medical treatment shall not be considered a violation of this section if the refusal is pursuant to Federal Railroad Administration medical standards for fitness of duty or, if there are no pertinent Federal Railroad Administration standards, a carrier's medical standards for fitness for duty. For purposes of this paragraph, the term “discipline” means to bring charges against a person in a disciplinary proceeding, suspend, terminate, place on probation, or make note of reprimand on an employee's record.
+Discipline.—A railroad carrier or person covered under this section may not discipline, or threaten discipline to, an employee for requesting medical or first aid treatment, or for following orders or a treatment plan of a treating physician, except that a railroad carrier's refusal to permit an employee to return to work following medical treatment shall not be considered a violation of this section if the refusal is pursuant to Federal Railroad Administration medical standards for fitness of duty or, if there are no pertinent Federal Railroad Administration standards, a carrier's medical standards for fitness for duty. For purposes of this paragraph, the term "discipline" means to bring charges against a person in a disciplinary proceeding, suspend, terminate, place on probation, or make note of reprimand on an employee's record.
 
 (d)
 
@@ -210,15 +210,15 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §212(c)(2); added Oct. 10, 1980,
 
 Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §212(f); added June 22, 1988, Pub. L. 100–342, §5(b), 102 Stat. 627.
 
-In subsections (a) and (b), the words “railroad carrier” are substituted for “common carrier by railroad” because of the definition of “railroad carrier” in section 20102 of the revised title.
+In subsections (a) and (b), the words "railroad carrier" are substituted for "common carrier by railroad" because of the definition of "railroad carrier" in section 20102 of the revised title.
 
-In subsection (a)(1), the words “under or” are omitted as surplus.
+In subsection (a)(1), the words "under or" are omitted as surplus.
 
-In subsection (b)(1)(B), before subclause (i), the words “the hazardous condition is of such a nature that” are omitted as surplus. The word “individual” is substituted for “person” as being more appropriate. In subclause (ii), the words “resort to” are omitted as surplus.
+In subsection (b)(1)(B), before subclause (i), the words "the hazardous condition is of such a nature that" are omitted as surplus. The word "individual" is substituted for "person" as being more appropriate. In subclause (ii), the words "resort to" are omitted as surplus.
 
-In subsection (b)(1)(C), the words “his apprehension of” are omitted as surplus.
+In subsection (b)(1)(C), the words "his apprehension of" are omitted as surplus.
 
-In subsection (b)(2), the words “by a carrier . . . transported by railroad” are substituted for “by a railroad . . . transported by such railroad” for consistency in the revised title.
+In subsection (b)(2), the words "by a carrier . . . transported by railroad" are substituted for "by a railroad . . . transported by such railroad" for consistency in the revised title.
 
 Subsection (d) is substituted for 45:441(d) for clarity and to eliminate unnecessary words.
 
@@ -234,19 +234,19 @@ The Inspector General Act of 1978, referred to in subsec. (a)(1)(A), is Pub. L. 
 
 Subsec. (d). Pub. L. 110–432, §419(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 110–432, §419(b)(1)(A), substituted “(a), (b), or (c)” for “(a) or (b)”.
+Subsec. (d)(1). Pub. L. 110–432, §419(b)(1)(A), substituted "(a), (b), or (c)" for "(a) or (b)".
 
-Subsec. (d)(2)(A)(i). Pub. L. 110–432, §419(b)(1)(B), substituted “(d)(1)” for “(c)(1)”.
+Subsec. (d)(2)(A)(i). Pub. L. 110–432, §419(b)(1)(B), substituted "(d)(1)" for "(c)(1)".
 
-Subsec. (d)(2)(A)(ii). Pub. L. 110–432, §419(b)(1)(C), substituted “(a), (b), or (c)” for “(a) or (b)”.
+Subsec. (d)(2)(A)(ii). Pub. L. 110–432, §419(b)(1)(C), substituted "(a), (b), or (c)" for "(a) or (b)".
 
 Subsec. (e). Pub. L. 110–432, §419(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1). Pub. L. 110–432, §419(b)(2)(A), substituted “(d)” for “(c)”.
+Subsec. (e)(1). Pub. L. 110–432, §419(b)(2)(A), substituted "(d)" for "(c)".
 
-Subsec. (e)(2). Pub. L. 110–432, §419(b)(2)(B), (C), substituted “(d)” for “(c)” and “(d)(3)” for “(c)(3)” in introductory provisions.
+Subsec. (e)(2). Pub. L. 110–432, §419(b)(2)(B), (C), substituted "(d)" for "(c)" and "(d)(3)" for "(c)(3)" in introductory provisions.
 
-Subsec. (e)(3). Pub. L. 110–432, §419(b)(2)(D), substituted “(d)” for “(c)”.
+Subsec. (e)(3). Pub. L. 110–432, §419(b)(2)(D), substituted "(d)" for "(c)".
 
 Subsecs. (f) to (j). Pub. L. 110–432, §419(a)(1), redesignated subsecs. (e) to (i) as (f) to (j), respectively.
 
@@ -256,29 +256,29 @@ Subsecs. (f) to (j). Pub. L. 110–432, §419(a)(1), redesignated subsecs. (e) t
 
 Pub. L. 110–432, div. A, title IV, §410, Oct. 16, 2008, 122 Stat. 4887, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Transportation, in consultation with the Secretary of Labor and the Secretary of Health and Human Services, as appropriate, shall require each Class I railroad carrier, each intercity passenger railroad carrier, and each commuter railroad carrier to develop and submit for approval to the Secretary a critical incident stress plan that provides for debriefing, counseling, guidance, and other appropriate support services to be offered to an employee affected by a critical incident.
 
-“(b)
+"(b)
 
 Plan Requirements.—Each such plan shall include provisions for—
 
-&emsp;“(1) relieving an employee who was involved in a critical incident of his or her duties for the balance of the duty tour, following any actions necessary for the safety of persons and contemporaneous documentation of the incident;
+&emsp;"(1) relieving an employee who was involved in a critical incident of his or her duties for the balance of the duty tour, following any actions necessary forthe safety of persons and contemporaneous documentation of the incident;
 
-&emsp;“(2) upon the employee's request, relieving an employee who witnessed a critical incident of his or her duties following any actions necessary for the safety of persons and contemporaneous documentation of the incident; and
+&emsp;"(2) upon the employee's request, relieving an employee who witnessed a critical incident of his or her duties following any actions necessary for the safety of persons and contemporaneous documentation of the incident; and
 
-&emsp;“(3) providing such leave from normal duties as may be necessary and reasonable to receive preventive services, treatment, or both, related to the incident.
+&emsp;"(3) providing such leave from normal duties as may be necessary and reasonable to receive preventive services, treatment, or both, related to the incident.
 
-“(c)
+"(c)
 
-Secretary To Define What Constitutes A Critical Incident.—Within 30 days after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall initiate a rulemaking proceeding to define the term ‘critical incident’ for the purposes of this section.”
+Secretary To Define What Constitutes A Critical Incident.—Within 30 days after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall initiate a rulemaking proceeding to define the term 'critical incident' for the purposes of this section."
 
-\[For definitions of “railroad carrier” and “Secretary”, as used in section 410 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+\[For definitions of "railroad carrier" and "Secretary", as used in section 410 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "subsection".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
 
 <i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

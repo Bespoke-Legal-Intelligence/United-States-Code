@@ -6,5 +6,5 @@ No letters of offer may be issued, no credits or guarantees may be extended, and
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 

@@ -10,9 +10,9 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–238, §13(a), inserted “, except as provided in section 1387 of this title,” after “thereunder”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–238, §13(a), inserted ", except as provided in section 1387 of this title," after "thereunder".
 
-Subsec. (b). Pub. L. 103–238, §13(b), inserted “(except as provided in section 1387 of this title)” after “thereunder”.
+Subsec. (b). Pub. L. 103–238, §13(b), inserted "(except as provided in section 1387 of this title)" after "thereunder".
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–58 designated existing provisions as par. (1) and added par. (2).
 

@@ -22,7 +22,7 @@ No natural-gas company shall abandon all or any portion of its facilities subjec
 
 #### (d) Application for certificate of public convenience and necessity
 
-Application for certificates shall be made in writing to the Commission, be verified underoath, and shall be in such form, contain such information, and notice thereof shall be served upon such interested parties and in such manner as the Commission shall, by regulation, require.
+Application for certificates shall be made in writing to the Commission, be verified under oath, and shall be in such form, contain such information, and notice thereof shall be served upon such interested parties and in such manner as the Commission shall, by regulation, require.
 
 #### (e) Granting of certificate of public convenience and necessity
 
@@ -50,7 +50,7 @@ When any holder of a certificate of public convenience and necessity cannot acqu
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–617, §608(a), (b)(1), designated existing first paragraph as par. (1)(A) and existing second paragraph as par. (1)(B) and added par. (2).
 
-Subsec. (e). Pub. L. 95–617, §608(b)(2), substituted “subsection (c)(1)” for “subsection (c)”.
+Subsec. (e). Pub. L. 95–617, §608(b)(2), substituted "subsection (c)(1)" for "subsection (c)".
 
 <b>1947</b>—Subsec. (h). Act July 25, 1947, added subsec. (h).
 
@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 95–617, §608(b)(2), substituted “subsection (c)(1)” 
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–474, §3, Oct. 6, 1988, 102 Stat. 2302, provided that: “The provisions of this Act \[amending this section and enacting provisions set out as a note under section 717w of this title\] shall become effective one hundred and twenty days after the date of enactment \[Oct. 6, 1988\].”
+Pub. L. 100–474, §3, Oct. 6, 1988, 102 Stat. 2302, provided that: "The provisions of this Act \[amending this section and enacting provisions set out as a note under section 717w of this title\] shall become effective one hundred and twenty days after the date of enactment \[Oct. 6, 1988\]."
 
 #### Transfer of Functions
 

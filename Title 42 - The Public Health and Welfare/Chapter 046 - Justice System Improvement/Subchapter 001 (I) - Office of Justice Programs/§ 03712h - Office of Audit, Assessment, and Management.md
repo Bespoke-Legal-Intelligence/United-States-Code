@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is established within the Office an Office of Audit, Assessment, and Management, headed by a Director appointed by the Attorney General. In carrying out the functions of the Office, the Director shall be subject to the authority, direction, and control of the Attorney General. Such authority, direction, and control may be delegated only to the Assistant Attorney General, without redelegation.
+&emsp;There is established within the Office an Office of Audit, Assessment, and Management, headed by a Director appointed by the Attorney General. In carrying out the functions of the Office, the Director shall be subject to the authority, direction, and control of the Attorney General. Such authority, direction, andcontrol may be delegated only to the Assistant Attorney General, without redelegation.
 
 #### (2) Purpose
 
@@ -12,7 +12,7 @@
 
 #### (3) Exclusivity
 
-&emsp;The Office shall be the exclusive element of the Department of Justice, other than the Inspector General, performing functions and activities for the purpose specified in paragraph (2). There are hereby transferred to the Office all functions and activities, other than functions and activities of the Inspector General,for such purpose performed immediately before January 5, 2006, by any other element of the Department.
+&emsp;The Office shall be the exclusive element of the Department of Justice, other than the Inspector General, performing functions and activities for the purpose specified in paragraph (2). There are hereby transferred to the Office all functions and activities, other than functions and activities of the Inspector General, for such purpose performed immediately before January 5, 2006, by any other element of the Department.
 
 #### (b) Covered programs
 
@@ -58,7 +58,7 @@ Not to exceed 3 percent of all funding made available for a fiscal year for the 
 
 #### References in Text
 
-January 5, 2006, referred to in subsec. (a)(3), was in the original “the date of the enactment of this Act” and was translated as meaning the date of enactment of Pub. L. 109–162, which enacted this section, to reflect the probable intent of Congress.
+January 5, 2006, referred to in subsec. (a)(3), was in the original "the date of the enactment of this Act" and was translated as meaning the date of enactment of Pub. L. 109–162, which enacted this section, to reflect the probable intent of Congress.
 
 #### Codification
 
@@ -68,11 +68,11 @@ Section was formerly classified to section 3712d of this title prior to renumber
 
 Pub. L. 109–162, title XI, §1158(b), Jan. 5, 2006, 119 Stat. 3116, as amended by Pub. L. 109–271, §8(n)(3), Aug. 12, 2006, 120 Stat. 768, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), section 109 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3712d) \[now 3712h\] shall take effect on April 5, 2006.
 
-“(2)
+"(2)
 
-Certain provisions.—Subsections (c), (d), and (e) of section 109 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3712d) \[now 3712h\] shall take effect on October 1, 2006.”
+Certain provisions.—Subsections (c), (d), and (e) of section 109 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3712d) \[now 3712h\] shall take effect on October 1, 2006."
 

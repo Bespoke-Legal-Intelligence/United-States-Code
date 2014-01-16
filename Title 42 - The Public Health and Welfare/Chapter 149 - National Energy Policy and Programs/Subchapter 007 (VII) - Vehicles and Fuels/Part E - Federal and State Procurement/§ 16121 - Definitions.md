@@ -4,15 +4,15 @@ In this part:
 
 #### (1) Fuel cell
 
-&emsp;The term “fuel cell” means a device that directly converts the chemical energy of a fuel and an oxidant into electricity by electrochemical processes occurring at separate electrodes in the device.
+&emsp;The term "fuel cell" means a device that directly converts the chemical energy of a fuel and an oxidant into electricity by electrochemical processes occurring at separate electrodes in the device.
 
 #### (2) Light-duty or heavy-duty vehicle fleet
 
-&emsp;The term “light-duty or heavy-duty vehicle fleet” does not include any vehicle designed or procured for combat or combat-related missions.
+&emsp;The term "light-duty or heavy-duty vehicle fleet" does not include any vehicle designed or procured for combat or combat-related missions.
 
 #### (3) Stationary; portable
 
-&emsp;The terms “stationary” and “portable”, when used in reference to a fuel cell, include—
+&emsp;The terms "stationary" and "portable", when used in reference to a fuel cell, include—
 
 &emsp;&emsp;(A) continuous electric power; and
 
@@ -20,11 +20,11 @@ In this part:
 
 #### (4) Task Force
 
-&emsp;The term “Task Force” means the Hydrogen and Fuel Cell Technical Task Force established under section 16155 of this title.
+&emsp;The term "Task Force" means the Hydrogen and Fuel Cell Technical Task Force established under section 16155 of this title.
 
 #### (5) Technical Advisory Committee
 
-&emsp;The term “Technical Advisory Committee” means the independent Technical Advisory Committee selected under section 16156 of this title.
+&emsp;The term "Technical Advisory Committee" means the independent Technical Advisory Committee selected under section 16156 of this title.
 
 (Pub. L. 109–58, title VII, §781, Aug. 8, 2005, 119 Stat. 835.)
 

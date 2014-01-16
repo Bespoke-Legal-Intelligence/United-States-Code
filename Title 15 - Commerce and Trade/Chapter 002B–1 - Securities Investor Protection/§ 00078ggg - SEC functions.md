@@ -22,7 +22,7 @@ In the event of the refusal of SIPC to commit its funds or otherwise to act for 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -34,7 +34,7 @@ A prior section 11 of Pub. L. 91–598 was renumbered section 15 and is classifi
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–283 substituted “pursuant to section 78ccc(e)(3) and section 78iii(f) of this title” for “or regulations pursuant to section 78ccc(e) and 78iii(f) of this title”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–283 substituted "pursuant to section 78ccc(e)(3) and section 78iii(f) of this title" for "or regulations pursuant to section 78ccc(e) and 78iii(f) of this title".
 
 #### Termination of Reporting Requirements
 

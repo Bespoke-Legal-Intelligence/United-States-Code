@@ -58,9 +58,9 @@ Each application under subsection (a) shall contain or be accompanied by an agre
 
 &emsp;&emsp;(E) comply with the requirements for being a highly qualified teacher as defined in section 7801 of this title;
 
-&emsp;(2) in the event that the applicant is determined to have failed or refused to carry out such service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
+&emsp;(2) in the event that the applicant is determined to have failed or refused to carry outsuch service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
 
-&emsp;(3) contains, or is accompanied by, a plain-language disclosure form developed by the Secretary that clearly describes the nature ofthe TEACH Grant award, the service obligation, and the loan repayment requirements that are the consequence of the failure to complete the service obligation.
+&emsp;(3) contains, or is accompanied by, a plain-language disclosure form developed by the Secretary that clearly describes the nature of the TEACH Grant award, the service obligation, and the loan repayment requirements that are the consequence of the failure to complete the service obligation.
 
 #### (c) Repayment for failure to complete service
 
@@ -86,5 +86,5 @@ Subsec. (d). Pub. L. 110–315, §412(a)(1)(B), added subsec. (d).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–315, title IV, §412(b), Aug. 14, 2008, 122 Stat. 3227, provided that: “The amendments made by subsection (a)(1) \[amending this section\] shall take effect on July 1, 2010.”
+Pub. L. 110–315, title IV, §412(b), Aug. 14, 2008, 122 Stat. 3227, provided that: "The amendments made by subsection (a)(1) \[amending this section\] shall take effect on July 1, 2010."
 

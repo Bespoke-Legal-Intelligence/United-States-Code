@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §67 (1st par.), 39 Stat. 199.
 
-The words “issue of” are substituted for the words “the expense of providing”. The words “for issue to the National Guard” and “pertaining to said guard as are or may be” are omitted as surplusage.
+The words "issue of" are substituted for the words "the expense of providing". The words "for issue to the National Guard" and "pertaining to said guard as are or may be" are omitted as surplusage.
 

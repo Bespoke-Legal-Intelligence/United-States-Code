@@ -19,7 +19,7 @@
 - [&sect; 00464 - Transfer and exchange of restricted Indian lands and shares of Indian tribes and corporations](%C2%A7%2000464%20-%20Transfer%20and%20exchange%20of%20restricted%20Indian%20lands%20and%20shares%20of%20Indian%20tribes%20and%20corporations.md)
 - [&sect; 00465 - Acquisition of lands, water rights or surface rights; appropriation; title to lands; tax exemption](%C2%A7%2000465%20-%20Acquisition%20of%20lands%2C%20water%20rights%20or%20surface%20rights%3B%20appropriation%3B%20title%20to%20lands%3B%20tax%20exemption.md)
 - [&sect; 00465a - Receipt and purchase in trust by United States of land for Klamath Tribe Indians](%C2%A7%2000465a%20-%20Receipt%20and%20purchase%20in%20trust%20by%20United%20States%20of%20land%20for%20Klamath%20Tribe%20Indians.md)
-- [&sect; 00465b - &#8220;Klamath Tribe of Indians&#8221; defined](%C2%A7%2000465b%20-%20%E2%80%9CKlamath%20Tribe%20of%20Indians%E2%80%9D%20defined.md)
+- [&sect; 00465b - Klamath Tribe of Indians defined](%C2%A7%2000465b%20-%20Klamath%20Tribe%20of%20Indians%20defined.md)
 - [&sect; 00466 - Indian forestry units; rules and regulations](%C2%A7%2000466%20-%20Indian%20forestry%20units%3B%20rules%20and%20regulations.md)
 - [&sect; 00467 - New Indian reservations](%C2%A7%2000467%20-%20New%20Indian%20reservations.md)
 - [&sect; 00468 - Allotments or holdings outside of reservations](%C2%A7%2000468%20-%20Allotments%20or%20holdings%20outside%20of%20reservations.md)

@@ -18,7 +18,7 @@
 
 #### (3) Regional centers
 
-&emsp;Such a statewide system shall, to the extent practicable, work with and receive support and assistance from regional educational laboratories established under part D of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9561 et seq.\] and comprehensive centers established under the Educational Technical Assistance Act of 2002 \[20 U.S.C. 9601 et seq.\] and the comprehensive regional technical assistancecenters and the regional educational laboratories under section 6041(h) of this title (as such section existed on the day before November 5, 2002), or other providers of technical assistance.
+&emsp;Such a statewide system shall, to the extent practicable, work with and receive support and assistance from regional educational laboratories established under part D of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9561 et seq.\] and comprehensive centers established under the Educational Technical Assistance Act of 2002 \[20 U.S.C. 9601 et seq.\] and the comprehensive regional technical assistance centers and the regional educational laboratories under section 6041(h) of this title (as such section existed on the day before November 5, 2002), or other providers of technical assistance.
 
 #### (4) Statewide system
 
@@ -94,7 +94,7 @@ Priority.—The State educational agency shall give priority to the approach des
 
 #### (2) Distinguished schools
 
-&emsp;Of those schools meeting the criteria described in paragraph (2), each State shall designate as distinguished schools those schools that have made the greatest gains in closing the achievement gap as described in subparagraph (B)(i) or exceeding adequate yearly progress as described in subparagraph (B)(ii). Such distinguished schools may serve as models for and provide support to other schools, especially schools identified for improvementunder section 6316 of this title, to assist such schools in meeting the State's academic content standards and student academic achievement standards.
+&emsp;Of those schools meeting the criteria described in paragraph (2), each State shall designate as distinguished schools those schools that have made the greatest gains in closing the achievement gap as described in subparagraph (B)(i) or exceeding adequate yearly progress as described in subparagraph (B)(ii). Such distinguished schools may serve as models for and provide support to other schools, especially schools identified for improvement under section 6316 of this title, to assist such schools in meeting the State's academic content standards and student academic achievement standards.
 
 #### (3) Awards to teachers
 
@@ -114,7 +114,7 @@ Priority.—The State educational agency shall give priority to the approach des
 
 #### (A) Awards program
 
-&emsp;&emsp;For the purpose of carrying out subsection (b)(1) of this section, each State receiving a grant under this part may reserve, from the amount (if any) by which the funds received by the State under subpart 2 of this part for a fiscal year exceed the amount received by the State under that subpart for the preceding fiscal year, not more than 5 percent of such excess amount.
+&emsp;&emsp;For the purpose of carrying out subsection (b)(1) of this section, each State receiving agrant under this part may reserve, from the amount (if any) by which the funds received by the State under subpart 2 of this part for a fiscal year exceed the amount received by the State under that subpart for the preceding fiscal year, not more than 5 percent of such excess amount.
 
 #### (B) Teacher awards
 
@@ -152,7 +152,7 @@ A prior section 1117 of Pub. L. 89–10 was classified to section 6318 of this t
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(3). Pub. L. 108–446 substituted “part D” for “part E”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–446 substituted "part D" for "part E".
 
-<b>2002</b>—Subsec. (a)(3). Pub. L. 107–279 inserted “regional educational laboratories established under part E of the Education Sciences Reform Act of 2002 and comprehensive centers established under the Educational Technical Assistance Act of 2002 and” after “assistance from” and “(as such section existed on the day before November 5, 2002)” after “section 6041(h) of this title”.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–279 inserted "regional educational laboratories established under part E of the Education Sciences Reform Act of 2002 and comprehensive centers established under the Educational Technical Assistance Act of 2002 and" after "assistance from" and "(as such section existed on the day before November 5, 2002)" after "section 6041(h) of this title".
 

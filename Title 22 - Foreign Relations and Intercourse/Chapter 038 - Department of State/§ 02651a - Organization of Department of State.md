@@ -2,7 +2,7 @@
 
 #### (a) Secretary of State
 
-(1) The Department of State shall be administered, in accordance with this Act and other provisions of law, under the supervision and direction of the Secretary of State (hereinafter referred to as the “Secretary”).
+(1) The Department of State shall be administered, in accordance with this Act and other provisions of law, under the supervision and direction of the Secretary of State (hereinafter referred to as the "Secretary").
 
 (2) The Secretary, the Deputy Secretary of State, and the Deputy Secretary of State for Management and Resources shall be appointed by the President, by and with the advice and consent of the Senate.
 
@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;There shall be in the Department of State not more than 24 Assistant Secretaries of State who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5. Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary forPublic Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate.
+&emsp;There shall be in the Department of State not more than 24 Assistant Secretaries of State who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5. Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary for Public Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate.
 
 #### (2) Assistant Secretary of State for Democracy, Human Rights, and Labor
 
@@ -54,7 +54,7 @@
 
 &emsp;(B) The Assistant Secretary of State for Democracy, Human Rights, and Labor shall maintain continuous observation and review all matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy including the following:
 
-&emsp;&emsp;(i) Gathering detailed information regarding humanitarian affairs and the observance of and respect for internationally recognized human rights in each country to which requirements of sections 2151n and 2304 of this title are relevant.
+&emsp;&emsp;(i) Gathering detailed information regarding humanitarian affairs and the observanceof and respect for internationally recognized human rights in each country to which requirements of sections 2151n and 2304 of this title are relevant.
 
 &emsp;&emsp;(ii) Preparing the statements and reports to Congress required under section 2304 of this title.
 
@@ -74,7 +74,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### (1) In general
 
-&emsp;There is within the office of the Secretary of State a Coordinator for Counterterrorism (in this paragraph referred to as the “Coordinator”) who shall be appointed by the President, by and with the advice and consent of the Senate.
+&emsp;There is within the office of the Secretary of State a Coordinator for Counterterrorism (in this paragraph referred to as the "Coordinator") who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (2) Duties
 
@@ -160,19 +160,19 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### (i) AIDS
 
-&emsp;&emsp;&emsp;The term “AIDS” means acquired immune deficiency syndrome.
+&emsp;&emsp;&emsp;The term "AIDS" means acquired immune deficiency syndrome.
 
 #### (ii) HIV
 
-&emsp;&emsp;&emsp;The term “HIV” means the human immunodeficiency virus, the pathogen that causes AIDS.
+&emsp;&emsp;&emsp;The term "HIV" means the human immunodeficiency virus, the pathogen that causes AIDS.
 
 #### (iii) HIV/AIDS
 
-&emsp;&emsp;&emsp;The term “HIV/AIDS” means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
+&emsp;&emsp;&emsp;The term "HIV/AIDS" means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
 
 #### (iv) Relevant executive branch agencies
 
-&emsp;&emsp;&emsp;The term “relevant executive branch agencies” means the Department of State, the United States Agency for International Development, the Department of Health and Human Services (including the Public Health Service), and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or this Act.
+&emsp;&emsp;&emsp;The term "relevant executive branch agencies" means the Department of State,the United States Agency for International Development, the Department of Health and Human Services (including the Public Health Service), and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or this Act.
 
 #### (g) Qualifications of certain officers of the Department of State
 
@@ -204,51 +204,51 @@ Section was also formerly classified to section 170f of Title 5 prior to the gen
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c)(1). Pub. L. 112–166 struck out “, each of whom shall be appointed by the President, by and with the advice and consent of the Senate, and” after “Secretaries of State” and inserted at end “Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary for Public Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate.”
+<b>2012</b>—Subsec. (c)(1). Pub. L. 112–166 struck out ", each of whom shall be appointed by the President, by and with the advice and consent of the Senate, and" after "Secretaries of State" and inserted at end "Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary for Public Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate."
 
-<b>2008</b>—Subsec. (f)(2)(A). Pub. L. 110–293, §102(1), which directed insertion of “, partner country finance, health, and other relevant ministries,” after “community based organizations)” wherever appearing, was executed by making the insertion after “community-based organizations)” in introductory provisions and in cl. (iii), to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (f)(2)(A). Pub. L. 110–293, §102(1), which directed insertion of ", partner country finance, health, and other relevant ministries," after "community based organizations)" wherever appearing, was executed by making the insertion after "community-based organizations)" in introductory provisions and in cl. (iii), to reflect the probable intent of Congress.
 
 Subsec. (f)(2)(B)(ii)(IV), (V). Pub. L. 110–293, §102(2)(A), (B), added subcls. (IV) and (V) and struck out former subcls. (IV) and (V) which read as follows:
 
-“(IV) Ensuring coordination of relevant executive branch agency activities in the field.
+"(IV) Ensuring coordination of relevant executive branch agency activities in the field.
 
-“(V) Pursuing coordination with other countries and international organizations.”
+"(V) Pursuing coordination with other countries and international organizations."
 
 Subsec. (f)(2)(B)(ii)(VII), (VIII). Pub. L. 110–293, §102(2)(D), added subcls. (VII) and (VIII). Former subcls. (VII) and (VIII) redesignated (IX) and (XII), respectively.
 
-Subsec. (f)(2)(B)(ii)(IX). Pub. L. 110–293, §102(2)(E), inserted “Vietnam,” after “Uganda,” and “, and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program” after “May 27, 2003” and inserted at end “In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country.”
+Subsec. (f)(2)(B)(ii)(IX). Pub. L. 110–293, §102(2)(E), inserted "Vietnam," after "Uganda," and ", and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program" after "May 27, 2003" and inserted at end "In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country."
 
 Pub. L. 110–293, §102(2)(C), redesignated subcl. (VII) as (IX).
 
 Subsec. (f)(2)(B)(ii)(X), (XI). Pub. L. 110–293, §102(2)(F), added subcls. (X) and (XI).
 
-Subsec. (f)(2)(B)(ii)(XII). Pub. L. 110–293, §102(2)(G), substituted “funds appropriated for HIV/AIDS assistance pursuant to the authorization of appropriations under section 7671 of this title” for “funds section”.
+Subsec. (f)(2)(B)(ii)(XII). Pub. L. 110–293, §102(2)(G), substituted "funds appropriated for HIV/AIDS assistance pursuant to the authorization of appropriations under section 7671 of this title" for "funds section".
 
 Pub. L. 110–293, §102(2)(C), redesignated subcl. (VIII) as (XII).
 
 Subsec. (f)(2)(B)(ii)(XIII). Pub. L. 110–293, §102(2)(H), added subcl. (XIII).
 
-<b>2004</b>—Subsec. (b)(3). Pub. L. 108–458 inserted “The Under Secretary for Public Diplomacy shall—” at end and added subpars. (A) to (E).
+<b>2004</b>—Subsec. (b)(3). Pub. L. 108–458 inserted "The Under Secretary for Public Diplomacy shall—" at end and added subpars. (A) to (E).
 
 <b>2003</b>—Subsecs. (f), (g). Pub. L. 108–25 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 <b>2002</b>—Subsecs. (f), (g). Pub. L. 107–228 added subsec. (f) and struck out former subsecs. (f) and (g), which related to the qualifications of officers having primary responsibility for personnel management and for diplomatic security.
 
-<b>2000</b>—Subsec. (a)(2). Pub. L. 106–553 substituted “, the Deputy Secretary of State, and the Deputy Secretary of State for Management and Resources” for “and the Deputy Secretary of State”.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–553 substituted ", the Deputy Secretary of State, and the Deputy Secretary of State for Management and Resources" for "and the Deputy Secretary of State".
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–277, §1213, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 105–277, §2305(a)(1), substituted “6 Under Secretaries” for “5 Under Secretaries”.
+Subsec. (b)(1). Pub. L. 105–277, §2305(a)(1), substituted "6 Under Secretaries" for "5 Under Secretaries".
 
 Subsec. (b)(3). Pub. L. 105–277, §1313, added par. (3).
 
 Subsec. (b)(4). Pub. L. 105–277, §2306(a), added par. (4).
 
-Subsec. (c)(1). Pub. L. 105–277, §2305(b)(1), substituted “24” for “20”.
+Subsec. (c)(1). Pub. L. 105–277, §2305(b)(1), substituted "24" for "20".
 
 Subsec. (c)(3). Pub. L. 105–277, §2306(b), added par. (3).
 
-Subsec. (d). Pub. L. 105–277, §2305(c), redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “There shall be in the Department of State not more than 66 Deputy Assistant Secretaries of State.”
+Subsec. (d). Pub. L. 105–277, §2305(c), redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: "There shall be in the Department of State not more than 66 Deputy Assistant Secretaries of State."
 
 Subsec. (e). Pub. L. 105–277, §2305(c)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
@@ -264,11 +264,11 @@ Subsec. (h). Pub. L. 105–277, §2305(c)(2), redesignated subsec. (h) as (g).
 
 Pub. L. 105–277, §2304, added subsec. (h).
 
-<b>1994</b>—Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows: “The Secretary of State is authorized to establish, maintain, and operate passport and despatch agencies.”
+<b>1994</b>—Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows: "The Secretary of State is authorized to establish, maintain, and operate passport and despatch agencies."
 
-Subsec. (a)(2). Pub. L. 103–415 inserted “and the Deputy Secretary of State” after “Secretary”.
+Subsec. (a)(2). Pub. L. 103–415 inserted "and the Deputy Secretary of State" after "Secretary".
 
-<b>1982</b>—Pub. L. 97–241 substituted “The Secretary” for “That the Secretary”.
+<b>1982</b>—Pub. L. 97–241 substituted "The Secretary" for "That the Secretary".
 
 #### Effective Date of 2012 Amendment
 
@@ -282,7 +282,7 @@ Amendment by section 1313 of Pub. L. 105–277 effective Oct. 1, 1999, see secti
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–236, title I, §161(b), Apr. 30, 1994, 108 Stat. 404, as amended by Pub. L. 103–415, §1(f)(2), Oct. 25, 1994, 108 Stat. 4300, provided that: “The amendments made by this section and section 162 \[amending this section, sections 2151n, 2304, 2314, 2349aa–2, 2384, 2652b, 2655a, 2669, 2670, 2707, 2755, 4302 to 4305, 4308, 4801, 4802, 4806, 4821 to 4823, and 4852 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 1101, 1104, 1105, and 1521 to 1523 of Title 8, Aliens and Nationality, repealing sections 811a, 2652, 2652a, 2653 to 2655, 2658, 4803, and 4804 of this title and section 1525 of Title 8, and amending provisions set out as a note under section 113 of Title 10, Armed Forces\] shall apply with respect to officials, offices, and bureaus of the Department of State when executive orders, regulations, or departmental directives implementing such amendments become effective, or 90 days after the date of enactment of this Act \[Apr. 30, 1994\], whichever comes earlier.”
+Pub. L. 103–236, title I, §161(b), Apr. 30, 1994, 108 Stat. 404, as amended by Pub. L. 103–415, §1(f)(2), Oct. 25, 1994, 108 Stat. 4300, provided that: "The amendments made by this section and section 162 \[amending this section, sections 2151n, 2304, 2314, 2349aa–2, 2384, 2652b, 2655a, 2669, 2670, 2707, 2755, 4302 to 4305, 4308, 4801, 4802, 4806, 4821 to 4823, and 4852 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 1101, 1104, 1105, and 1521 to 1523 of Title 8, Aliens and Nationality, repealing sections 811a, 2652, 2652a, 2653 to 2655, 2658, 4803, and 4804 of this title and section 1525 of Title 8, and amending provisions set out as a note under section 113 of Title 10, Armed Forces\] shall apply with respect to officials, offices, and bureaus of the Department of State when executive orders, regulations, or departmental directives implementing such amendments become effective, or 90 days after the date of enactment of this Act \[Apr. 30, 1994\], whichever comes earlier."
 
 #### Effective Date of 1982 Amendment
 
@@ -290,123 +290,123 @@ Amendment by Pub. L. 97–241, effective Oct. 1, 1982, see section 204 of Pub. L
 
 #### Coordinator of United States Government Activities Providing Basic Education Assistance in Developing Countries
 
-Pub. L. 112–74, div. I, title VII, §7034(q)(2), Dec. 23, 2011, 125 Stat. 1217, provided that: “The position of Coordinator established pursuant to section 664 of division J of Public Law 110–161 \[set out below\] shall, within 45 days of enactment of this Act \[Dec. 23, 2011\] and notwithstanding the requirements of such section, be moved to the United States Agency for International Development (USAID): <i>Provided</i>, That the Coordinator shall hereafter be appointed by the USAID Administrator and shall report directly to the Administrator: <i>Provided further</i>, That the responsibilities of the Coordinator enumerated in the first sentence of section 664(c) shall remain in full force and effect: <i>Provided further</i>, That the limitation in the second sentence of such section shall hereafter no longer apply to the Coordinator.”
+Pub. L. 112–74, div. I, title VII, §7034(q)(2), Dec. 23, 2011, 125 Stat. 1217, provided that: "The position of Coordinator established pursuant to section 664 of division J of Public Law 110–161 \[set out below\] shall, within 45 days of enactment of this Act \[Dec. 23, 2011\] and notwithstanding the requirements of such section, be moved to the United States Agency for International Development (USAID): <i>Provided</i>, That the Coordinator shall hereafter be appointed by the USAID Administrator and shall report directly to the Administrator: <i>Provided further</i>, That the responsibilities of the Coordinator enumerated in the first sentence of section 664(c) shall remain in full force and effect: <i>Provided further</i>, That the limitation in the second sentence of such section shall hereafter no longer apply to the Coordinator."
 
 Pub. L. 110–161, div. J, title VI, §664(b), (c), Dec. 26, 2007, 121 Stat. 2349, provided that:
 
-“(b)
+"(b)
 
-Coordinator.—There shall be established within the Department of State in the immediate office of the Director of United States Foreign Assistance, a Coordinator of United States Government activities to provide basic education assistance in developing countries (hereinafter in this section referred to as the ‘Coordinator’).
+Coordinator.—There shall be established within the Department of State in the immediate office of the Director of United States Foreign Assistance, a Coordinator of United States Government activities to provide basic education assistance in developing countries (hereinafter in this section referred to as the 'Coordinator').
 
-“(c)
+"(c)
 
-Responsibilities.—That \[sic\] the Coordinator shall have primary responsibility for the oversight and coordination of all resources and international activities of the United States Government that provide assistance in developing countries for basic education. The individual serving as the Coordinator may not hold any other position in the Federal Government during the individual's time of service as Coordinator.”
+Responsibilities.—That \[sic\] the Coordinator shall have primary responsibility for the oversight and coordination of all resources and international activities of the United States Government that provide assistance in developing countries for basic education. The individual serving as the Coordinator may not hold any other position in the Federal Government during the individual's time of service as Coordinator."
 
-\[Pub. L. 111–117, div. F, title VII, §7064(a)(2), Dec. 16, 2009, 123 Stat. 3383, provided that: “There shall continueto be a Coordinator of United States Government Actions to Provide Basic Education Assistance in developing countries as established in section 664 of division J of Public Law 110–161 \[set out above\].”\]
+\[Pub. L. 111–117, div. F, title VII, §7064(a)(2), Dec. 16, 2009, 123 Stat. 3383, provided that: "There shall continue to be a Coordinator of United States Government Actions to Provide Basic Education Assistance in developing countries as established in section 664 of division J of Public Law 110–161 \[set out above\]."\]
 
-\[Pub. L. 111–8, div. H, title VII, §7064(a)(2), Mar. 11, 2009, 123 Stat. 899, provided that: “There shall continue to be a Coordinator of United States government actions to provide basic education assistance in developing countries as established in section 664 of division J of Public Law 110–161 \[set out above\].”\]
+\[Pub. L. 111–8, div. H, title VII, §7064(a)(2), Mar. 11, 2009, 123 Stat. 899, provided that: "There shall continue to be a Coordinator of United States government actions to provide basic education assistance in developing countries as established in section 664 of division J of Public Law 110–161 \[set out above\]."\]
 
 #### Advisor for Activities Relating to Indigenous Peoples Internationally
 
-Pub. L. 112–74, div. I, title VII, §7034(q)(1), Dec. 23, 2011, 125 Stat. 1217, provided that: “The position of Advisor established pursuant to section 699B of division J of Public Law 110–161 \[set out below\] shall, within 45 days of enactment of this Act \[Dec. 23, 2011\] and notwithstanding the requirements of such section, be moved to the United States Agency for International Development (USAID): <i>Provided</i>, That the Advisor shall hereafter be appointed by the USAID Administrator and shall report directly to the Administrator: <i>Provided further</i>, That the responsibilities of the Advisor enumerated in section 699B(b) shall remain in full force and effect.”
+Pub. L. 112–74, div. I, title VII, §7034(q)(1), Dec. 23, 2011, 125 Stat. 1217, provided that: "The position of Advisor established pursuant to section 699B of division J of Public Law 110–161 \[set out below\] shall, within 45 days of enactment of this Act \[Dec. 23, 2011\] and notwithstanding the requirements of such section, be moved to the United States Agency for International Development (USAID): <i>Provided</i>, That the Advisor shall hereafter be appointed by the USAID Administrator and shall report directly to the Administrator: <i>Provided further</i>, That the responsibilities of the Advisor enumerated in section 699B(b) shall remain in full force and effect."
 
 Pub. L. 110–161, div. J, title VI, §699B, Dec. 26, 2007, 121 Stat. 2369, provided that:
 
-“(a)
+"(a)
 
-Advisor.—After consultation with the Committees on Appropriations and not later than 90 days after the enactment of this Act \[Dec. 26, 2007\], there shall be established within the Department of State in the immediate office of the Director of United States Foreign Assistance an Advisor for Activities Relating to Indigenous Peoples Internationally (hereinafter in this section referred to as the ‘Advisor’), who shall be appointed by the Director. The Advisor shall report directly to the Director.
+Advisor.—After consultation with the Committees on Appropriations and not later than 90 days after the enactment of this Act \[Dec. 26, 2007\], there shall be established within the Department of State in the immediate office of the Director of United States Foreign Assistance an Advisor for Activities Relating to Indigenous Peoples Internationally (hereinafter in this section referred to as the 'Advisor'), who shall be appointed by the Director. The Advisor shall report directly to the Director.
 
-“(b)
+"(b)
 
 Responsibilities.—The Advisor shall:
 
-&emsp;“(1) Advise the Director of United States Foreign Assistance and the Administrator of the United States Agency for International Development on matters relating to the rights and needs of indigenous peoples internationally and should represent the United States Government on such matters in meetings with foreign governments and multilateral institutions.
+&emsp;"(1) Advise the Director of United States Foreign Assistance and the Administrator of the United States Agency for International Development on matters relating to the rights and needs of indigenous peoples internationally and should represent the United States Government on such matters in meetings with foreign governments and multilateral institutions.
 
-&emsp;“(2) Provide for the oversight and coordination of all resources, programs, projects, and activities of the United States Government to protect the rights and address the needs of indigenous peoples internationally.
+&emsp;"(2) Provide for the oversight and coordination of all resources, programs, projects, and activities of the United States Government to protect the rights and address the needs of indigenous peoples internationally.
 
-&emsp;“(3) Develop and coordinate assistance strategies with specific goals, guidelines, benchmarks, and impact assessments (including support for local indigenous peoples’ organizations).
+&emsp;"(3) Develop and coordinate assistance strategies with specific goals, guidelines, benchmarks, and impact assessments (including support for local indigenous peoples' organizations).
 
-“(c)
+"(c)
 
-Funds.—Of the funds appropriated by this Act under the heading ‘Diplomatic and Consular Programs’ \[121 Stat. 2277\], not less than $250,000 shall be made available for implementing the provisions of this section.
+Funds.—Of the funds appropriated by this Act under the heading 'Diplomatic and Consular Programs' \[121 Stat. 2277\], not less than $250,000 shall be made available for implementing the provisions of this section.
 
-“(d)
+"(d)
 
-Report.—Not later than one year after the enactment of this Act \[Dec. 26, 2007\], the Secretary shall submit a report to the Committees on Appropriations describing progress made in implementing this section.”
+Report.—Not later than one year after the enactment of this Act \[Dec. 26, 2007\], the Secretary shall submit a report to the Committees on Appropriations describing progress made in implementing this section."
 
 #### Consultation
 
-Pub. L. 108–458, title VII, §7109(b)(2), Dec. 17, 2004, 118 Stat. 3793, provided that: “The Under Secretary of State for Public Diplomacy, in carrying out the responsibilities described in section 1(b)(3) of such Act \[22 U.S.C. 2651a(b)(3)\] (as amended by paragraph (1)), shall consult with public diplomacy officers operating at United States overseas posts and in the regional bureaus of the Department of State.”
+Pub. L. 108–458, title VII, §7109(b)(2), Dec. 17, 2004, 118 Stat. 3793, provided that: "The Under Secretary of State for Public Diplomacy, in carrying out the responsibilities described in section 1(b)(3) of such Act \[22 U.S.C. 2651a(b)(3)\] (as amended by paragraph (1)), shall consult with public diplomacy officers operating at United States overseas posts and in the regional bureaus of the Department of State."
 
 #### Office of the Coordinator for Reconstruction and Stabilization
 
-Pub. L. 108–447, div. B, title IV, §408, Dec. 8, 2004, 118 Stat. 2904, provided that: “There is established within the Department of State the Office of the Coordinator for Reconstruction and Stabilization: <i>Provided</i>, That the head of the Office shall be the Coordinator for Reconstruction and Stabilization, who shall report directly to the Secretary of State: <i>Provided further</i>, That the functions of the Office of the Coordinator for Reconstruction and Stabilization shall include—
+Pub. L. 108–447, div. B, title IV, §408, Dec. 8, 2004, 118 Stat. 2904, provided that: "There is established within the Department of State the Office of the Coordinator for Reconstruction and Stabilization: <i>Provided</i>, That the head of the Office shall be the Coordinator for Reconstruction and Stabilization, who shall report directly to the Secretary of State: <i>Provided further</i>, That the functions of the Office of the Coordinator for Reconstruction and Stabilization shall include—
 
-&emsp;“(1) cataloguing and monitoring the non-military resources and capabilities of Executive agencies (as that term is defined in section 105 of title 5, United States Code), State and local governments, and entities in the private and non-profit sectors that are available to address crises in countries or regions that are in, or are in transition from, conflict or civil strife;
+&emsp;"(1) cataloguing and monitoring the non-military resources and capabilities of Executive agencies (as that term is defined in section 105 of title 5, United States Code), State and local governments, and entities in the private and non-profit sectors that are available to address crises in countries or regions that are in, or are in transition from, conflict or civil strife;
 
-&emsp;“(2) monitoring political and economic instability worldwide to anticipate the need for mobilizing United States and international assistance for countries or regions described in paragraph (1);
+&emsp;"(2) monitoring political and economic instability worldwide to anticipate the need for mobilizing United States and international assistance for countries or regions described in paragraph (1);
 
-&emsp;“(3) assessing crises in countries or regions described in paragraph (1) and determining the appropriate non-military United States, including but not limited to demobilization, policing, human rights monitoring, and public information efforts;
+&emsp;"(3) assessing crises in countries or regions described in paragraph (1) and determining the appropriate non-military United States, including but not limited to demobilization, policing, human rights monitoring, and public information efforts;
 
-&emsp;“(4) planning for response efforts under paragraph (3);
+&emsp;"(4) planning for response efforts under paragraph (3);
 
-&emsp;“(5) coordinating with relevant Executive agencies the development of interagency contingency plans for such response efforts; and
+&emsp;"(5) coordinating with relevant Executive agencies the development of interagency contingency plans for such response efforts; and
 
-&emsp;“(6) coordinating the training of civilian personnel to perform stabilization and reconstruction activities in response to crises in such countries or regions described in paragraph (1).”
+&emsp;"(6) coordinating the training of civilian personnel to perform stabilization and reconstruction activities in response to crises in such countries or regions described in paragraph (1)."
 
 #### Comprehensive Workforce Plan
 
 Pub. L. 107–228, div. A, title III, §301, Sept. 30, 2002, 116 Stat. 1376, required the Secretary of State to submit to the appropriate congressional committees, not later than 180 days after Sept. 30, 2002, a comprehensive workforce plan for the Department of State for the fiscal years 2003 through 2007, considering personnel needs in both the Civil Service and the Foreign Service and expected domestic and overseas personnel allocations.
 
-#### “Rightsizing” Overseas Posts
+#### "Rightsizing" Overseas Posts
 
 Pub. L. 107–228, div. A, title III, §302, Sept. 30, 2002, 116 Stat. 1376, provided that:
 
-“(a)
+"(a)
 
-‘Rightsizing’ at the Department of State.—
+'Rightsizing' at the Department of State.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—The Secretary shall establish a task force within the Department on the issue of ‘rightsizing’ overseas posts.
+In general.—The Secretary shall establish a task force within the Department on the issue of 'rightsizing' overseas posts.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Preliminary report.—Not later than 120 days after the date of the enactment of this Act \[Sept. 30, 2002\], the Secretary shall submit to the appropriate congressional committees a report that outlines the status, plans, and activities of the task force. In addition to such other information as the Secretary considers appropriate, the report shall include the following:
 
-&emsp;&emsp;“(A) The objectives of the task force.
+&emsp;&emsp;"(A) The objectives of the task force.
 
-&emsp;&emsp;“(B) Measures for achieving the objectives under subparagraph (A).
+&emsp;&emsp;"(B) Measures for achieving the objectives under subparagraph (A).
 
-&emsp;&emsp;“(C) Identification of the official of the Department with primary responsibility for the issue of ‘rightsizing’.
+&emsp;&emsp;"(C) Identification of the official of the Department with primary responsibility for the issue of 'rightsizing'.
 
-&emsp;&emsp;“(D) The plans of the Department for the reallocation of staff and resources based on changing needs at overseas posts and in the metropolitan Washington, D.C., area.
+&emsp;&emsp;"(D) The plans of the Department for the reallocation of staff and resources based on changing needs at overseas posts and in the metropolitan Washington, D.C., area.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Report.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report reviewing the activities and progress of the task force established under paragraph (1).
 
-“(b)
+"(b)
 
 Interagency Working Group.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-Establishment.—The Secretary shall establish an interagency working group on the issue of ‘rightsizing’ the overseas presence of the United States Government.
+Establishment.—The Secretary shall establish an interagency working group on the issue of 'rightsizing' the overseas presence of the United States Government.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Preliminary report.—Not later than 120 days after the date of the enactment of this Act \[Sept. 30, 2002\], the Secretary shall submit to the appropriate congressional committees a report which outlines the status, plans, and activities of the interagency working group. In addition to such other information as the Secretary considers appropriate, the report shall include the following:
 
-&emsp;&emsp;“(A) The objectives of the working group.
+&emsp;&emsp;"(A) The objectives of the working group.
 
-&emsp;&emsp;“(B) Measures for achieving the objectives under subparagraph (A).
+&emsp;&emsp;"(B) Measures for achieving the objectives under subparagraph (A).
 
-&emsp;&emsp;“(C) Identification of the official of each agency with primary responsibility for the issue of ‘rightsizing’.
+&emsp;&emsp;"(C) Identification of the official of each agency with primary responsibility for the issue of 'rightsizing'.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report reviewing the activities and progress of the working group established under paragraph (1).”
+Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report reviewing the activities and progress of the working group established under paragraph (1)."
 
 #### Report Concerning Minority Employment
 
@@ -416,55 +416,55 @@ Pub. L. 107–228, div. A, title III, §324, Sept. 30, 2002, 116 Stat. 1385, req
 
 Pub. L. 107–228, div. A, title III, §325, Sept. 30, 2002, 116 Stat. 1386, provided that:
 
-“(a)
+"(a)
 
 Conduct of Recruitment Activities.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—Amounts authorized to be appropriated for minority recruitment under section 111(1)(D) \[probably means section 111(a)(1)(D) of Pub. L. 107–228, 116 Stat. 1356\] shall be used only for activities directly related to minority recruitment, such as recruitment materials designed to target members of minority groups and the travel expenses of recruitment trips to colleges, universities, and other institutions or locations.
+In general.—Amounts authorized to be appropriated for minority recruitment under section 111(1)(D) \[probably means section 111(a)(1)(D) of Pub.L. 107–228, 116 Stat. 1356\] shall be used only for activities directly related to minority recruitment, such as recruitment materials designed to target members of minority groups and the travel expenses of recruitment trips to colleges, universities, and other institutions or locations.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Limitation.—Amounts authorized to be appropriated for minority recruitment under section 111(1)(D) may not be used to pay salaries of employees of the Department.
 
-“(b)
+"(b)
 
 Recruitment Activities at Academic Institutions.—The Secretary shall expand the recruitment efforts of the Department to include not less than 25 percent of the part B institutions (as defined under section 322 of the Higher Education Act of 1965 \[20 U.S.C. 1061\]) in the United States and not less than 25 percent of the Hispanic-serving institutions (as defined in section 502(a)(5) of such Act \[20 U.S.C. 1101a(a)(5)\]) in the United States.
 
-“(c)
+"(c)
 
-Evaluation of Recruitment Efforts.—The Secretary shall establish a database relating to efforts to recruit members of minority groups into the Foreign Service and the Civil Service and shall report to the appropriate congressional committees on the evaluation of efforts to recruit such individuals, including an analysis of the information collected in the database created under this subsection. Such report shall be included in each of the two reports required under section 324 \[set out as a note above\].”
+Evaluation of Recruitment Efforts.—The Secretary shall establish a database relating to efforts to recruit members of minority groups into the Foreign Service and the Civil Service and shall report to the appropriate congressional committees on the evaluation of efforts to recruit such individuals, including an analysis of the information collected in the database created under this subsection. Such report shall be included in each of the two reports required under section 324 \[set out as a note above\]."
 
 #### State Department Official for Northeastern Europe
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §302\], Nov. 29, 1999, 113 Stat. 1536, 1501A–434, provided that: “The Secretary of State shall designate a senior-level official of the Department of State with responsibility for promoting regional cooperation in and coordinating United States policy toward Northeastern Europe.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §302\], Nov. 29, 1999, 113 Stat. 1536, 1501A–434, provided that: "The Secretary of State shall designate a senior-level official of the Department of State with responsibility for promoting regional cooperation in and coordinating United States policy toward Northeastern Europe."
 
 #### Science and Technology Adviser to Secretary of State
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–434, provided that:
 
-“(a)
+"(a)
 
-Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the ‘Adviser’). The Adviser shall have substantial experience in the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
+Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the 'Adviser'). The Adviser shall have substantial experience in the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
 
-“(b)
+"(b)
 
 Duties.—The Adviser shall—
 
-&emsp;“(1) advise the Secretary of State, through the appropriate Under Secretary of State, on international science and technology matters affecting the foreign policy of the United States; and
+&emsp;"(1) advise the Secretary of State, through the appropriate Under Secretary of State, on international science and technology matters affecting the foreign policy of the United States; and
 
-&emsp;“(2) perform such duties, exercise such powers, and have such rank and status as the Secretary of State shall prescribe.”
+&emsp;"(2) perform such duties, exercise such powers, and have such rank and status as the Secretary of State shall prescribe."
 
 #### Transition; Reappointment of Officers Holding Office as of April 30, 1994, Not Required
 
-Pub. L. 103–236, title I, §161(c), Apr. 30, 1994, 108 Stat. 404, provided that: “Any officer of the Department of State holding office on the date of the enactment of this Act \[Apr. 30, 1994\] shall not be required to be reappointed to any other office, at the Department of State at the same level performing similar functions, as determined by the President, by reason of the enactment of the amendments made by this section and section 162 \[see Effective Date of 1994 Amendment note above for classification\].”
+Pub. L. 103–236, title I, §161(c), Apr. 30, 1994, 108 Stat. 404, provided that: "Any officer of the Department of State holding office on the date of the enactment of this Act \[Apr. 30, 1994\] shall not be required to be reappointed to any other office, at the Department of State at the same level performing similar functions, as determined by the President, by reason of the enactment of the amendments made by this section and section 162 \[see Effective Date of 1994 Amendment note above for classification\]."
 
 \[Functions of President under section 161(c) of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
 
 #### References to Officials and Offices of Department of State Whose Authority Is vested in Secretary of State Deemed References to Secretary of State or Department of State
 
-Pub. L. 103–236, title I, §161(d), Apr. 30, 1994, 108 Stat. 404, provided that: “Except as specifically provided in this Act \[see Tables for classification\], or the amendments made by this Act, a reference in any other provision of law to an official or office of the Department of State affected by the amendment made by subsection (a) \[amending this section\] (other than the Inspector General of the Department of State and the Chief Financial Officer of the Department of State) shall be deemed to be a reference to the Secretary of State or the Department of State, as may be appropriate.”
+Pub. L. 103–236, title I, §161(d), Apr. 30, 1994, 108 Stat. 404, provided that: "Except as specifically provided in this Act \[see Tables for classification\], or the amendments made by this Act, a reference in any other provision of law to an official or office of the Department of State affected by the amendment made by subsection (a) \[amending this section\] (other than the Inspector General of the Department of State and the Chief Financial Officer of the Department of State) shall be deemed to be a reference to the Secretary of State or the Department of State, as may be appropriate."
 
 #### Office of Coordinator for Counterterrorism
 
@@ -490,7 +490,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Definitions
 
-For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in sections 301, 302, 324, and 325 of Pub. L. 107–228, set out as notes above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.
+For definitions of "Secretary", "Department", and "appropriate congressional committees" as used in sections 301, 302, 324, and 325 of Pub. L. 107–228, set out as notes above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “under”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "under".</i>
 

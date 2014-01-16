@@ -10,6 +10,6 @@
 - [&sect; 00993 - Claims](%C2%A7%2000993%20-%20Claims.md)
 - [&sect; 00994 - Tax exemption](%C2%A7%2000994%20-%20Tax%20exemption.md)
 - [&sect; 00995 - Payments not subject to liens, debts, or claims; exception](%C2%A7%2000995%20-%20Payments%20not%20subject%20to%20liens%2C%20debts%2C%20or%20claims%3B%20exception.md)
-- [&sect; 00996 - Payments not &#8220;other income and resources&#8221;](%C2%A7%2000996%20-%20Payments%20not%20%E2%80%9Cother%20income%20and%20resources%E2%80%9D.md)
+- [&sect; 00996 - Payments not other income and resources](%C2%A7%2000996%20-%20Payments%20not%20other%20income%20and%20resources.md)
 - [&sect; 00997 - Costs](%C2%A7%2000997%20-%20Costs.md)
 - [&sect; 00998 - Rules and regulations](%C2%A7%2000998%20-%20Rules%20and%20regulations.md)

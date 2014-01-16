@@ -34,9 +34,9 @@ If the book value of the stock, participation certificates, and other similar eq
 
 As soon as practicable after January 6, 1988, the Assistance Board shall take such actions as are necessary to carry out this section.
 
-#### (e) “Other similar equities” defined
+#### (e) "Other similar equities" defined
 
-Except where otherwise provided in this chapter, the term “other similar equities” includes allocated equities.
+Except where otherwise provided in this chapter, the term "other similar equities" includes allocated equities.
 
 (Pub. L. 92–181, title VI, §6.4, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1588; amended Pub. L. 100–399, title II, §201(c), Aug. 17, 1988, 102 Stat. 991.)
 
@@ -46,5 +46,5 @@ Except where otherwise provided in this chapter, the term “other similar equit
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 

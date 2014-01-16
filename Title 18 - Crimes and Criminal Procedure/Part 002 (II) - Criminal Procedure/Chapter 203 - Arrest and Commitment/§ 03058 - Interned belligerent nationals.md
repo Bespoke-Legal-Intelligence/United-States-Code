@@ -14,5 +14,5 @@ Minor verbal changes were made.
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–647 substituted “belligerent” for “beligerent” before “nation”.
+<b>1990</b>—Pub. L. 101–647 substituted "belligerent" for "beligerent" before "nation".
 

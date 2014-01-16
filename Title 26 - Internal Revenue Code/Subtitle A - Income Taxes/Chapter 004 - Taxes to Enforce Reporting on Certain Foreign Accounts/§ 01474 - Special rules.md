@@ -26,7 +26,7 @@ Every person required to deduct and withhold any tax under this chapter is hereb
 
 #### (B) Specified financial institution payment
 
-&emsp;&emsp;The term “specified financial institution payment” means any payment if the beneficial owner of such payment is a foreign financial institution.
+&emsp;&emsp;The term "specified financial institution payment" means any payment if the beneficial owner of such payment is a foreign financial institution.
 
 #### (3) Requirement to identify substantial United States owners
 

@@ -26,7 +26,7 @@ Considerations.—In making a determination under this section concerning the fe
 
 Energy Star.—A lighting fixture or bulb shall be treated as being energy efficient for purposes of this section if—
 
-&emsp;(1) the fixture or bulb is certified under the Energy Star program established by section 324A of the Energy Policy and Conservation Act (42 U.S.C. 6294a);
+&emsp;(1) the fixture or bulb is certified under the Energy Star program established by section324A of the Energy Policy and Conservation Act (42 U.S.C. 6294a);
 
 &emsp;(2) in the case of all light-emitting diode (LED) luminaires, lamps, and systems whose efficacy (lumens per watt) and Color Rendering Index (CRI) meet the Department of Energy requirements for minimum luminaire efficacy and CRI for the Energy Star certification, as verified by an independent third-party testing laboratory that the Administrator and the Secretary of Energy determine conducts its tests according to the procedures and recommendations of the Illuminating Engineering Society of North America, even if the luminaires, lamps, and systems have not received such certification; or
 

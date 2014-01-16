@@ -82,7 +82,7 @@ The council shall meet, at a minimum, on a quarterly basis, and in such places a
 
 #### (d) Management authority
 
-Subject to the approval of the Governor, the council may prepare and approve a budget using funds under this subchapter to conduct hearings and forums, to reimburse members of the council for reasonable and necessary expenses for attending council meetings and performing council duties (including child care for parent representatives), to pay compensation to a member of the council if the member is not employed or must forfeit wages from other employment when performing official council business, to hire staff, and to obtain the services of such professional, technical, and clerical personnel as may be necessary to carry out its functions under this subchapter.
+Subject to the approval of the Governor, the council may prepare and approve a budget using funds under this subchapter to conduct hearingsand forums, to reimburse members of the council for reasonable and necessary expenses for attending council meetings and performing council duties (including child care for parent representatives), to pay compensation to a member of the council if the member is not employed or must forfeit wages from other employment when performing official council business, to hire staff, and to obtain the services of such professional, technical, and clerical personnel as may be necessary to carry out its functions under this subchapter.
 
 #### (e) Functions of council
 
@@ -90,7 +90,7 @@ Subject to the approval of the Governor, the council may prepare and approve a b
 
 &emsp;The council shall—
 
-&emsp;&emsp;(A) advise and assist the lead agency designated or established under section1435(a)(10) of this title in the performance of the responsibilities set forth in such section, particularly the identification of the sources of fiscal and other support for services for early intervention programs, assignment of financial responsibility to the appropriate agency, and the promotion of the interagency agreements;
+&emsp;&emsp;(A) advise and assist the lead agency designated or established under section 1435(a)(10) of this title in the performance of the responsibilities set forth in such section, particularly the identification of the sources of fiscal and other support for services for early intervention programs, assignment of financial responsibility to the appropriate agency, and the promotion of the interagency agreements;
 
 &emsp;&emsp;(B) advise and assist the lead agency in the preparation of applications and amendments thereto;
 

@@ -16,15 +16,15 @@ In this section:
 
 #### (1) Program
 
-&emsp;The term “Program” means the Agriculture Innovation Center Demonstration Program established under subsection (c).
+&emsp;The term "Program" means the Agriculture Innovation Center Demonstration Program established under subsection (c).
 
 #### (2) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 #### (c) Establishment of Program
 
-The Secretary shall establish a demonstration program, to be known as the “Agriculture Innovation Center Demonstration Program” under which the Secretary shall—
+The Secretary shall establish a demonstration program, to be known as the "Agriculture Innovation Center Demonstration Program" under which the Secretary shall—
 
 &emsp;(1) make grants to assist eligible entities in establishing Agriculture Innovation Centers to enable agricultural producers to obtain the assistance described in subsection (a); and
 
@@ -122,7 +122,7 @@ An eligible entity to which a grant is made under the Program may use the grant 
 
 #### (1) In general
 
-&emsp;Of the amount made available under subsection (i) for each fiscal year, the Secretary shall use $300,000 to support research at a university concerning the effects of projects for value-added agricultural commodities or products on agricultural producers and the commodity markets.
+&emsp;Of the amount made available under subsection (i) for each fiscal year, the Secretary shall use $300,000 to support research at a university concerning the effects of projects forvalue-added agricultural commodities or products on agricultural producers and the commodity markets.
 
 #### (2) Research elements
 
@@ -170,15 +170,15 @@ Section was formerly set out as a note under section 1621 of this title.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (i). Pub. L. 110–246, §6203, added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “Of the amount made available under section 231(a)(1) of the Agricultural Risk Protection Act of 2000 (7 U.S.C. 1621 note; Public Law 106–224) for each fiscal year, the Secretary shall use to carry out this section—
+<b>2008</b>—Subsec. (i). Pub. L. 110–246, §6203, added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: "Of the amount made available under section 231(a)(1) of the Agricultural Risk Protection Act of 2000 (7 U.S.C. 1621 note; Public Law 106–224) for each fiscal year, the Secretary shall use to carry out this section—
 
-&emsp;“(1) not less than $3,000,000 for fiscal year 2002; and
+&emsp;"(1) not less than $3,000,000 for fiscal year 2002; and
 
-&emsp;“(2) not less than $6,000,000 for each of fiscal years 2003 and 2004.”
+&emsp;"(2) not less than $6,000,000 for each of fiscal years 2003 and 2004."
 
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1)".</i>
 

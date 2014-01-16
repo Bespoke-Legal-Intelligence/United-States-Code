@@ -22,5 +22,5 @@ The Secretary may make grants to—
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–171 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary may make grants to land-grant colleges and universities, State agricultural experiment stations, and to colleges, universities, and Federal laboratories having a demonstrable capacity in rangeland research, as determined by the Secretary, to carry out rangeland research. Except in the case of Federal laboratories, this grant program shall be based on a matching formula of 50 per centum Federal and 50 per centum non-Federal funding.”
+<b>2002</b>—Pub. L. 107–171 inserted section catchline and amended text generally. Prior to amendment, text read as follows: "The Secretary may make grants to land-grant colleges and universities, State agricultural experiment stations, and to colleges, universities, and Federal laboratories having a demonstrable capacity in rangeland research, as determined by the Secretary, to carry out rangeland research. Except in the case of Federal laboratories, this grant program shall be based on a matching formula of 50 per centum Federal and 50 per centum non-Federal funding."
 

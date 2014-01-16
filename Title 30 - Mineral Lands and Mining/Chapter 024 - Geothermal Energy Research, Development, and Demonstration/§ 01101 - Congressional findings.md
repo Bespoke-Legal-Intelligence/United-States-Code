@@ -6,7 +6,7 @@ The Congress hereby finds that—
 
 &emsp;(2) the inadequate organizational structures and levels of funding for energy research have limited the Nation's current and future options for meeting energy needs;
 
-&emsp;(3) electric energy is a clean and convenient form of energy at the location of its use and is the only practicable form of energy in some modern applications, but the demand for electric energy in every region of the United States is taxing all of the alternative energy sources presently available and is projected to increase; some of the sources available for electric power generation are already in short supply, and the development and use of othersources presently involve undesirable environmental impacts;
+&emsp;(3) electric energy is a clean and convenient form of energy at the location of its use and is the only practicable form of energy in some modern applications, but the demand for electric energy in every region of the United States is taxing all of the alternative energy sources presently available and is projected to increase; some of the sources available for electric power generation are already in short supply, and the development and use of other sources presently involve undesirable environmental impacts;
 
 &emsp;(4) the Nation's critical energy problems can be solved only if a national commitment is made to dedicate the necessary financial resources, and enlist the cooperation of the private and public sectors, in developing geothermal resources and other nonconventional sources of energy;
 
@@ -30,5 +30,5 @@ The Congress hereby finds that—
 
 #### Short Title
 
-Pub. L. 93–410, §1, Sept. 3, 1974, 88 Stat. 1079, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Geothermal Energy Research, Development, and Demonstration Act of 1974’.”
+Pub. L. 93–410, §1, Sept. 3, 1974, 88 Stat. 1079, provided that: "This Act \[enacting this chapter\] may be cited as the 'Geothermal Energy Research, Development, and Demonstration Act of 1974'."
 

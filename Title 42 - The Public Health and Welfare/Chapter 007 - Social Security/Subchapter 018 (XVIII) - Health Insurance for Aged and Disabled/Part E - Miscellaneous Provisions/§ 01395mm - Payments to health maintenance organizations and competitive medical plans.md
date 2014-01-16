@@ -8,7 +8,7 @@
 
 &emsp;(ii) a per capita rate of payment for each class of individuals who are so enrolled with such an organization and who are enrolled under part B of this subchapter only.
 
-> For purposes of this section, the term “risk-sharing contract” means a contract entered into under subsection (g) of this section and the term “reasonable cost reimbursement contract” means a contract entered into under subsection (h) of this section.
+> For purposes of this section, the term "risk-sharing contract" means a contract entered into under subsection (g) of this section and the term "reasonable cost reimbursement contract" means a contract entered into under subsection (h) of this section.
 
 (B) The Secretary shall define appropriate classes of members, based on age, disability status, and such other factors as the Secretary determines to be appropriate, so as to ensure actuarial equivalence. The Secretary may add to, modify, or substitute for such classes, if such changes will improve the determination of actuarial equivalence.
 
@@ -30,9 +30,9 @@
 
 (3) Subject to subsections (c)(2)(B)(ii) and (c)(7) of this section, payments under a contract to an eligible organization under paragraph (1) or (2) shall be instead of the amounts which (in the absence of the contract) would be otherwise payable, pursuant to sections 1395f(b) and 1395l(a) of this title, for services furnished by or through the organization to individuals enrolled with the organization under this section.
 
-(4) For purposes of this section, the term “adjusted average per capita cost” means the average per capita amount that the Secretary estimates in advance (on the basis of actual experience, or retrospective actuarial equivalent based upon an adequate sample and other information and data, in a geographic area served by an eligible organization or in a similar area, with appropriate adjustments to assure actuarial equivalence) would be payable in any contract year for services covered under parts A and B of this subchapter, or part B only, and types of expenses otherwise reimbursable under parts A and B of this subchapter, or part B only (including administrative costs incurred by organizations described in sections 1395h and 1395u of this title), if the services were to be furnished by other than an eligible organization or, in the case of services covered only under section 1395x(s)(2)(H) of this title, if the services were to be furnished by a physician or as an incident to a physician's service.
+(4) For purposes of this section, the term "adjusted average per capita cost" means the average per capita amount that the Secretary estimates in advance (on the basis of actual experience, or retrospective actuarial equivalent based upon an adequate sample and other information and data, in a geographic area served by an eligible organization or in a similar area, with appropriate adjustments to assure actuarial equivalence) would be payable in any contract year for services covered under parts A and B of this subchapter, or part B only, and types of expenses otherwise reimbursable under parts A and B of this subchapter, or part B only (including administrative costs incurred by organizations described in sections 1395h and 1395u of this title), if the services were to be furnished by other than an eligible organization or, in the case of services covered only under section 1395x(s)(2)(H) of this title, if the services were to be furnished by a physician or as an incident to a physician's service.
 
-(5) The payment to an eligible organization under this section for individuals enrolled under this section with the organization and entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter shall be made from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund. The portion of that payment to the organization for a month to be paid by each trust fund shall be determined as follows:
+(5) The payment to an eligible organization under this section for individuals enrolled under this section with the organization and entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter shall bemade from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund. The portion of that payment to the organization for a month to be paid by each trust fund shall be determined as follows:
 
 &emsp;(A) In regard to expenditures by eligible organizations having risk-sharing contracts, the allocation shall be determined each year by the Secretary based on the relative weight that benefits from each fund contribute to the adjusted average per capita cost.
 
@@ -44,7 +44,7 @@
 
 #### (b) Definitions; requirements
 
-For purposes of this section, the term “eligible organization” means a public or private entity (which may be a health maintenance organization or a competitive medical plan), organized under the laws of any State, which—
+For purposes of this section, the term "eligible organization" means a public or private entity (which may be a health maintenance organization or a competitive medical plan), organized under the laws of any State, which—
 
 &emsp;(1) is a qualified health maintenance organization (as defined in section 300e–9(d) <sup>1</sup> of this title), or
 
@@ -52,7 +52,7 @@ For purposes of this section, the term “eligible organization” means a publi
 
 &emsp;&emsp;(A) The entity provides to enrolled members at least the following health care services:
 
-&emsp;&emsp;&emsp;(i) Physicians’ services performed by physicians (as defined in section 1395x(r)(1) of this title).
+&emsp;&emsp;&emsp;(i) Physicians' services performed by physicians (as defined in section 1395x(r)(1) of this title).
 
 &emsp;&emsp;&emsp;(ii) Inpatient hospital services.
 
@@ -62,7 +62,7 @@ For purposes of this section, the term “eligible organization” means a publi
 
 &emsp;&emsp;(B) The entity is compensated (except for deductibles, coinsurance, and copayments) for the provision of health care services to enrolled members by a payment which is paid on a periodic basis without regard to the date the health care services are provided and which is fixed without regard to the frequency, extent, or kind of health care service actually provided to a member.
 
-&emsp;&emsp;(C) The entity provides physicians’ services primarily (i) directly through physicians who are either employees or partners of such organization, or (ii) through contracts with individual physicians or one or more groups of physicians (organized on a group practice or individual practice basis).
+&emsp;&emsp;(C) The entity provides physicians' services primarily (i) directly through physicians who are either employees or partners of such organization, or (ii) through contracts with individual physicians or one or more groups of physicians (organized on a group practice or individual practice basis).
 
 &emsp;&emsp;(D) The entity assumes full financial risk on a prospective basis for the provision of the health care services listed in subparagraph (A), except that such entity may—
 
@@ -88,7 +88,7 @@ For purposes of this section, the term “eligible organization” means a publi
 
 &emsp;(ii) only those services covered under part B of this subchapter, for those members enrolled only under such part,
 
-> which are available to individuals residing in the geographic area served by the organization, except that (I) the organization may provide such members with such additional health care services as the members may elect, at their option, to have covered, and (II) in the case of an organization with a risk-sharing contract, the organization may provide such members with such additional health care services as the Secretary may approve. The Secretary shall approve any such additional health care services which the organization proposes to offer to such members, unless the Secretary determines that including such additional services will substantially discourage enrollment by covered individuals with the organization.
+> which are available to individuals residing in the geographic area served by the organization, except that (I) the organization may provide such members with such additional health care services as the members may elect, at their option, to have covered, and (II) in the case of an organization with a risk-sharing contract, the organization may provide such members with such additional health care services as the Secretary may approve. The Secretary shall approve any such additional health care services which the organization proposes to offer to suchmembers, unless the Secretary determines that including such additional services will substantially discourage enrollment by covered individuals with the organization.
 
 (B) If there is a national coverage determination made in the period beginning on the date of an announcement under subsection (a)(1)(A) of this section and ending on the date of the next announcement under such subsection that the Secretary projects will result in a significant change in the costs to the organization of providing the benefits that are the subject of such national coverage determination and that was not incorporated in the determination of the per capita rate of payment included in the announcement made at the beginning of such period—
 
@@ -100,7 +100,7 @@ For purposes of this section, the term “eligible organization” means a publi
 
 (3)(A)(i) Each eligible organization must have an open enrollment period, for the enrollment of individuals under this section, of at least 30 days duration every year and including the period or periods specified under clause (ii), and must provide that at any time during which enrollments are accepted, the organization will accept up to the limits of its capacity (as determined by the Secretary) and without restrictions, except as may be authorized in regulations, individuals who are eligible to enroll under subsection (d) of this section in the order in which they apply for enrollment, unless to do so would result in failure to meet the requirements of subsection (f) of this section or would result in the enrollment of enrollees substantially nonrepresentative, as determined in accordance with regulations of the Secretary, of the population in the geographic area served by the organization.
 
-(ii)(I) If a risk-sharing contract under this section is not renewed or is otherwise terminated, eligible organizations with risk-sharing contracts under this section and serving a part of the same service area as under the terminated contract are required to have an open enrollment period for individuals who were enrolled under the terminated contract as of the date of notice of such termination. If a risk-sharing contract under this section is renewed in a manner that discontinues coverage for individuals residing in part of the service area, eligible organizations with risk-sharing contracts underthis section and enrolling individuals residing in that part of the service area are required to have an open enrollment period for individuals residing in the part of the service area who were enrolled under the contract as of the date of notice of such discontinued coverage.
+(ii)(I) If a risk-sharing contract under this section is not renewed or is otherwise terminated, eligible organizations with risk-sharing contracts under this section and serving a part of the same service area as under the terminated contract are required to have an open enrollment period for individuals who were enrolled under the terminated contract as of the date of notice of such termination. If a risk-sharing contract under this section is renewed in a manner that discontinues coverage for individuals residing in part of the service area, eligible organizations with risk-sharing contracts under this section and enrolling individuals residing in that part of the service area are required to have an open enrollment period for individuals residing in the part of the service area who were enrolled under the contract as of the date of notice of such discontinued coverage.
 
 (II) The open enrollment periods required under subclause (I) shall be for 30 days and shall begin 30 days after the date that the Secretary provides notice of such requirement.
 
@@ -124,7 +124,7 @@ For purposes of this section, the term “eligible organization” means a publi
 
 &emsp;(v) appeal rights of enrollees.
 
-(F) Each eligible organization that provides items and services pursuant to a contract under this section shall provide assurances to the Secretary that in the event the organization ceases to provide such items and services, the organization shall provide or arrange for supplemental coverage of benefits under this subchapter related to a pre-existing condition with respect to any exclusion period, to all individuals enrolled with the entity who receive benefits under this subchapter, for the lesser of six months or the duration of such period.
+(F) Each eligible organization that provides items and services pursuant to a contract underthis section shall provide assurances to the Secretary that in the event the organization ceases to provide such items and services, the organization shall provide or arrange for supplemental coverage of benefits under this subchapter related to a pre-existing condition with respect to any exclusion period, to all individuals enrolled with the entity who receive benefits under this subchapter, for the lesser of six months or the duration of such period.
 
 (G)(i) Each eligible organization having a risk-sharing contract under this section shall notify individuals eligible to enroll with the organization under this section and individuals enrolled with the organization under this section that—
 
@@ -146,7 +146,7 @@ For purposes of this section, the term “eligible organization” means a publi
 
 (5)(A) The organization must provide meaningful procedures for hearing and resolving grievances between the organization (including any entity or individual through which the organization provides health care services) and members enrolled with the organization under this section.
 
-(B) A member enrolled with an eligible organization under this section who is dissatisfied byreason of his failure to receive any health service to which he believes he is entitled and at no greater charge than he believes he is required to pay is entitled, if the amount in controversy is $100 or more, to a hearing before the Secretary to the same extent as is provided in section 405(b) of this title, and in any such hearing the Secretary shall make the eligible organization a party. If the amount in controversy is $1,000 or more, the individual or eligible organization shall, upon notifying the other party, be entitled to judicial review of the Secretary's final decision as provided in section 405(g) of this title, and both the individual and the eligible organization shall be entitled to be parties to that judicial review. In applying sections 405(b) and 405(g) of this title as provided in this subparagraph, and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively. The provisions of section 1395ff(b)(1)(E)(iii) of this title shall apply with respect to dollar amounts specified in the first 2 sentences of this subparagraph in the same manner as they apply to the dollar amounts specified in section 1395ff(b)(1)(E)(i) of this title.
+(B) A member enrolled with an eligible organization under this section who is dissatisfied by reason of his failure to receive any health service to which he believes he is entitled and at no greater charge than he believes he is required to pay is entitled, if the amount in controversy is $100 or more, to a hearing before the Secretary to the same extent as is provided in section 405(b) of this title, and in any such hearing the Secretary shall make the eligible organization a party. If the amount in controversy is $1,000 or more, the individual or eligible organization shall, upon notifying the other party, be entitled to judicial review of the Secretary's final decision as provided in section 405(g) of this title, and both the individual and the eligible organization shall be entitled to be parties to that judicial review. In applying sections 405(b) and 405(g) of this title as provided in this subparagraph, and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively. The provisions of section 1395ff(b)(1)(E)(iii) of this title shall apply with respect to dollar amounts specified in the first 2 sentences of this subparagraph in the same manner as they apply to the dollar amounts specified in section 1395ff(b)(1)(E)(i) of this title.
 
 (6) The organization must have arrangements, established in accordance with regulations of the Secretary, for an ongoing quality assurance program for health care services it provides to such individuals, which program (A) stresses health outcomes and (B) provides review by physicians and other health care professionals of the process followed in the provision of such health care services.
 
@@ -174,7 +174,7 @@ For purposes of this section, the term “eligible organization” means a publi
 
 Subject to the provisions of subsection (c)(3) of this section, every individual entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter or enrolled under part B of this subchapter only (other than an individual medically determined to have end-stage renal disease) shall be eligible to enroll under this section with any eligible organization with which the Secretary has entered into a contract under this section and which serves the geographic area in which the individual resides.
 
-#### (e) Limitation on charges; election of coverage; “adjusted community rate” defined; workmen's compensation and insurance benefits
+#### (e) Limitation on charges; election of coverage; "adjusted community rate" defined; workmen's compensation and insurance benefits
 
 (1) In no case may—
 
@@ -192,9 +192,9 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 > exceed the adjusted community rate for such services.
 
-(3) For purposes of this section, the term “adjusted community rate” for a service or services means, at the election of an eligible organization, either—
+(3) For purposes of this section, the term "adjusted community rate" for a service or services means, at the election of an eligible organization, either—
 
-&emsp;(A) the rate of payment for that service or services which the Secretary annually determines would apply to a member enrolled under this section with an eligible organization if the rate of payment were determined under a “community rating system” (as defined in section 300e–1(8) of this title, other than subparagraph (C)), or
+&emsp;(A) the rate of payment for that service or services which the Secretary annually determines would apply to a member enrolled under this section with an eligible organization if the rate of payment were determined under a "community rating system" (as defined in section 300e–1(8) of this title, other than subparagraph (C)), or
 
 &emsp;(B) such portion of the weighted aggregate premium, which the Secretary annually estimates would apply to a member enrolled under this section with the eligible organization, as the Secretary annually estimates is attributable to that service or services,
 
@@ -214,7 +214,7 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 &emsp;(A) to the extent that more than 50 percent of the population of the area served by the organization consists of individuals who are entitled to benefits under this subchapter or under a State plan approved under subchapter XIX of this chapter, or
 
-&emsp;(B) in the case of an eligible organization that is owned and operated by a governmental entity, only with respect to a period of three years beginning on the date the organization first enters into a contract under this section, and only if the organization has taken and is making reasonable efforts to enroll individuals who are not entitled to benefits under this subchapter or under a State plan approved under subchapter XIX of this chapter.
+&emsp;(B) in the case of an eligible organization that is owned and operated by a governmental entity, only with respect to a period of three years beginning on the date the organization first enters into a contract under this section, and only if the organization has taken and ismaking reasonable efforts to enroll individuals who are not entitled to benefits under this subchapter or under a State plan approved under subchapter XIX of this chapter.
 
 (3) If the Secretary determines that an eligible organization has failed to comply with the requirements of this subsection, the Secretary may provide for the suspension of enrollment of individuals under this section or of payment to the organization under this section for individuals newly enrolled with the organization, after the date the Secretary notifies the organization of such noncompliance.
 
@@ -230,7 +230,7 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 &emsp;(B) if the adjusted community rate for services under part B of this subchapter (as reduced for the actuarial value of the coinsurance and deductibles under that part) for members enrolled under this section with the organization and entitled to benefits under part B of this subchapter only
 
-> is less than the average of the per capita rates of payment to be made under subsection (a)(1) of this section at the beginning of an annual contract period for members enrolled under this section with the organization and entitled to benefits under part A of this subchapter and enrolled in part B of this subchapter, or enrolled in part B of this subchapter only, respectively, the eligible organization shall provide to members enrolled under a risk-sharing contract under this section with the organization and entitled to benefits under part A of this subchapter and enrolled in part B of this subchapter, or enrolled in part B of this subchapter only, respectively,the additional benefits described in paragraph (3) which are selected by the eligible organization and which the Secretary finds are at least equal in value to the difference between that average per capita payment and the adjusted community rate (as so reduced); except that this paragraph shall not apply with respect to any organization which elects to receive a lesser payment to the extent that there is no longer a difference between the average per capita payment and adjusted community rate (as so reduced) and except that an organization (with the approval of the Secretary) may provide that a part of the value of such additional benefits be withheld and reserved by the Secretary as provided in paragraph (5). If the Secretary finds that there is insufficient enrollment experience to determine an average of the per capita rates of payment to be made under subsection (a)(1) of this section at the beginning of a contract period, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this section.
+> is less than the average of the per capita rates of payment to be made under subsection (a)(1) of this section at the beginning of an annual contract period for members enrolled under this section with the organization and entitled to benefits under part A of this subchapter and enrolled in part B of this subchapter, or enrolled in part B of this subchapter only, respectively, the eligible organization shall provide to members enrolled under a risk-sharing contract under this section with the organization and entitled to benefits under part A of this subchapter and enrolled in part B of this subchapter, or enrolled in part B of this subchapter only, respectively, the additional benefits described in paragraph (3) which are selected by the eligible organization and which the Secretary finds are at least equal in value to the difference between that average per capita payment and the adjusted community rate (as so reduced); except that this paragraph shall not apply with respect to any organization which elects to receive a lesser payment to the extent that there is no longer a difference between the average per capita payment and adjusted community rate (as so reduced) and except that an organization (with the approval of the Secretary) may provide that a part of the value of such additional benefits be withheld and reserved by the Secretary as provided in paragraph (5). If the Secretary finds that there is insufficient enrollment experience to determine an average of the per capita rates of payment to be made under subsection (a)(1) of this section at the beginning of a contract period, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this section.
 
 (3) The additional benefits referred to in paragraph (2) are—
 
@@ -288,7 +288,7 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 (C)(i) Subject to clause (ii), a reasonable cost reimbursement contract under this subsection may be extended or renewed indefinitely.
 
-(ii) For any period beginning on or after January 1, 2014, a reasonable cost reimbursement contract under this subsection may not be extended or renewed for a service area insofar as such area during the entire previous year was within the service area of—
+(ii) For any period beginning on or after January 1, 2015, a reasonable cost reimbursement contract under this subsection may not be extended or renewed for a service area insofar as such area during the entire previous year was within the service area of—
 
 &emsp;(I) 2 or more MA regional plans described in clause (iii), provided that all such plans are not offered by the same Medicare Advantage organization; or
 
@@ -320,7 +320,7 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 &emsp;&emsp;(ii) shall have the right to audit and inspect any books and records of the eligible organization that pertain (I) to the ability of the organization to bear the risk of potential financial losses, or (II) to services performed or determinations of amounts payable under the contract;
 
-&emsp;(B) shall require the organization with a risk-sharing contract to provide (and pay for)written notice in advance of the contract's termination, as well as a description of alternatives for obtaining benefits under this subchapter, to each individual enrolled under this section with the organization; and
+&emsp;(B) shall require the organization with a risk-sharing contract to provide (and pay for) written notice in advance of the contract's termination, as well as a description of alternatives for obtaining benefits under this subchapter, to each individual enrolled under this section with the organization; and
 
 &emsp;(C)(i) shall require the organization to comply with subsections (a) and (c) of section 300e–17 of this title (relating to disclosure of certain financial information) and with the requirement of section 300e(c)(8) <sup>1</sup> of this title (relating to liability arrangements to protect members);
 
@@ -352,7 +352,7 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 &emsp;(vi) fails to comply with the requirements of subsection (g)(6)(A) of this section or paragraph (8); or
 
-&emsp;(vii) in the case of a risk-sharing contract, employs or contracts with any individual or entity that is excluded from participation under this subchapter under section 1320a–7 or 1320a–7a of this title for the provision of health care, utilization review, medical social work, or administrative services or employs or contracts with any entity for the provision (directly or indirectly) through such an excluded individual or entity of such services;
+&emsp;(vii) in the case of a risk-sharing contract, employs or contracts with any individual or entity that is excluded from participation under this subchapter under section 1320a–7 or1320a–7a of this title for the provision of health care, utilization review, medical social work, or administrative services or employs or contracts with any entity for the provision (directly or indirectly) through such an excluded individual or entity of such services;
 
 > the Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in subparagraph (B).
 
@@ -370,7 +370,7 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 &emsp;(ii) Civil money penalties of not more than $10,000 for each week beginning after the initiation of procedures by the Secretary under paragraph (9) during which the deficiency that is the basis of a determination under paragraph (1) exists.
 
-&emsp;(iii) Suspension of enrollment of individuals under this section after the date the Secretary notifies the organization of a determination under paragraph (1) and until the Secretary is satisfied that the deficiency that is the basisfor the determination has been corrected and is not likely to recur.
+&emsp;(iii) Suspension of enrollment of individuals under this section after the date the Secretary notifies the organization of a determination under paragraph (1) and until the Secretary is satisfied that the deficiency that is the basis for the determination has been corrected and is not likely to recur.
 
 (D) The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under subparagraph (B)(i) or (C)(i) in the same manner as such provisions apply to a civil money penalty or proceeding under section 1320a–7a(a) of this title.
 
@@ -382,7 +382,7 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 &emsp;(i) shall be transferred in appropriate proportions from the Federal Hospital Insurance Trust Fund and from the Supplementary Medical Insurance Trust Fund, without regard to amounts appropriated in advance in appropriation Acts, in the same manner as transfers are made for payment for services provided directly to beneficiaries, and
 
-&emsp;(ii) shall not be less in the aggregate for such organizations for a fiscal year than the amounts the Secretary determines to be sufficient to cover the costs of such organizations’ conducting activities described in subparagraph (A) with respect to such eligible organizations under part B of subchapter XI of this chapter.
+&emsp;(ii) shall not be less in the aggregate for such organizations for a fiscal year than the amounts the Secretary determines to be sufficient to cover the costs of such organizations' conducting activities described in subparagraph (A) with respect to such eligible organizations under part B of subchapter XI of this chapter.
 
 (8)(A) Each contract with an eligible organization under this section shall provide that the organization may not operate any physician incentive plan (as defined in subparagraph (B)) unless the following requirements are met:
 
@@ -392,11 +392,11 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 &emsp;&emsp;(I) provides stop-loss protection for the physician or group that is adequate and appropriate, based on standards developed by the Secretary that take into account the number of physicians placed at such substantial financial risk in the group or under the plan and the number of individuals enrolled with the organization who receive services from the physician or the physician group, and
 
-&emsp;&emsp;(II) conducts periodic surveys of both individuals enrolled and individuals previously enrolled with the organization to determine the degree of access of such individuals to services provided by the organization and satisfaction with the quality of such services.
+&emsp;&emsp;(II) conducts periodic surveys of both individuals enrolled and individuals previouslyenrolled with the organization to determine the degree of access of such individuals to services provided by the organization and satisfaction with the quality of such services.
 
 &emsp;(iii) The organization provides the Secretary with descriptive information regarding the plan, sufficient to permit the Secretary to determine whether the plan is in compliance with the requirements of this subparagraph.
 
-(B) In this paragraph, the term “physician incentive plan” means any compensation arrangement between an eligible organization and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the organization.
+(B) In this paragraph, the term "physician incentive plan" means any compensation arrangement between an eligible organization and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the organization.
 
 (9) The Secretary may terminate a contract with an eligible organization under this section or may impose the intermediate sanctions described in paragraph (6) on the organization in accordance with formal investigation and compliance procedures established by the Secretary under which—
 
@@ -410,11 +410,11 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 #### (j) Payment in full and limitation on actual charges; physicians, providers of services, or renal dialysis facilities not under contract with organization
 
-(1)(A) In the case of physicians’ services or renal dialysis services described in paragraph (2) which are furnished by a participating physician or provider of services or renal dialysis facility to an individual enrolled with an eligible organization under this section and enrolled under part B of this subchapter, the applicable participation agreement is deemed to provide that the physician or provider of services or renal dialysis facility will accept as payment in full fromthe eligible organization the amount that would be payable to the physician or provider of services or renal dialysis facility under part B of this subchapter and from the individual under such part, if the individual were not enrolled with an eligible organization under this section.
+(1)(A) In the case of physicians' services or renal dialysis services described in paragraph (2) which are furnished by a participating physician or provider of services or renal dialysis facility to an individual enrolled with an eligible organization under this section and enrolled under part B of this subchapter, the applicable participation agreement is deemed to provide that the physician or provider of services or renal dialysis facility will accept as payment in full from the eligible organization the amount that would be payable to the physician or provider of services or renal dialysis facility under part B of this subchapter and from the individual under such part, if the individual were not enrolled with an eligible organization under this section.
 
-(B) In the case of physicians’ services described in paragraph (2) which are furnished by a nonparticipating physician, the limitations on actual charges for such services otherwise applicable under part B of this subchapter (to services furnished by individuals not enrolled with an eligible organization under this section) shall apply in the same manner as such limitations apply to services furnished to individuals not enrolled with such an organization.
+(B) In the case of physicians' services described in paragraph (2) which are furnished by a nonparticipating physician, the limitations on actual charges for such services otherwise applicable under part B of this subchapter (to services furnished by individuals not enrolled with an eligible organization under this section) shall apply in the same manner as such limitations apply to services furnished to individuals not enrolled with such an organization.
 
-(2) The physicians’ services or renal dialysis services described in this paragraph are physicians’ services or renal dialysis services which are furnished to an enrollee of an eligible organization under this section by a physician, provider of services, or renal dialysis facility who is not under a contract with the organization.
+(2) The physicians' services or renal dialysis services described in this paragraph are physicians' services or renal dialysis services which are furnished to an enrollee of an eligible organization under this section by a physician, provider of services, or renal dialysis facility who is not under a contract with the organization.
 
 #### (k) Risk-sharing contracts
 
@@ -442,7 +442,7 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 &emsp;(D) Payments under section 1395w–27(e)(2) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1876, as added and amended Pub. L. 92–603, title II, §§226(a), 278(b)(3), Oct. 30, 1972, 86 Stat. 1396, 1453; Pub. L. 93–233, §18(m), (n), Dec. 31, 1973, 87 Stat. 970, 971; Pub. L. 94–460, title II, §201(a)–(d), Oct. 8, 1976, 90 Stat. 1956, 1957; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 97–248, title I, §114(a), Sept. 3, 1982, 96 Stat. 341; Pub. L. 97–448, title III, §309(b)(12), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §§602(g), 606(a)(3)(H), Apr. 20, 1983, 97 Stat. 164, 171; Pub. L. 98–369, div. B, title III, §§2350(a)(1), (b)(1), (2), (c), 2354(b)(37), (38), July 18, 1984, 98 Stat. 1097, 1098, 1102; Pub. L. 99–272, title IX, §9211(a)–(d), Apr. 7, 1986, 100 Stat. 178, 179; Pub. L. 99–509, title IX, §§9312(b)(1), (c)(1), (2), (d)(1), (e)(1), (f), 9353(e)(2), Oct. 21, 1986, 100 Stat. 1999–2001, 2048; Pub. L. 99–514, title XVIII, §1895(b)(11)(A), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 100–203, title IV, §§4011(a)(1), (b)(1), 4012(b), 4013(a), 4014, 4018(a), 4039(h)(8), Dec. 22, 1987, 101 Stat. 1330–60, 1330–61, 1330–65, as amended Pub. L. 100–360, title IV, §411(c)(3), (e)(3), July 1, 1988, 102 Stat. 773, 776; Pub. L. 100–360, title II, §§202(f), 211(c)(3), 224, title IV, §411(c)(1), (4), (6), formerly (5), July 1, 1988, 102 Stat. 717, 738, 748, 772, 773, as amended Pub. L. 100–485, title VI, §608(d)(19)(B), (C), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 100–647, title VIII, §8412(a)(1), Nov. 10, 1988, 102 Stat. 3801; Pub. L. 101–234, title II, §§201(a), 202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6206(a)(1), (b)(1), 6212(b)(1), (c)(2), 6411(d)(3)(A), Dec. 19, 1989, 103 Stat. 2244, 2250, 2271; Pub. L. 101–508, title IV, §§4204(a)(1), (2), (c)(1), (2), (d)(1), (e)(1), 4206(b)(1), Nov. 5, 1990, 104 Stat. 1388–108 to 1388–111, 1388–116; Pub. L. 103–296, title I, §108(c)(6), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–432, title I, §157(b)(1), (4), Oct. 31, 1994, 108 Stat. 4442; Pub. L. 104–191, title II, §§215(a), (b), 231(g), Aug. 21, 1996, 110 Stat. 2005–2007, 2014; Pub. L. 105–33, title IV, §4002(a)–(b)(2)(A), Aug. 5, 1997, 111 Stat. 328, 329; Pub. L. 106–113, div. B, 1000(a)(6) \[title V, §503\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380; Pub. L. 106–554, §1(a)(6) \[title VI, §634\], Dec. 21, 2000, 114 Stat. 2763, 2763A–568; Pub. L. 108–173, title II, §234, title VII, §736(d)(2), title IX, §940(b)(2)(B), Dec. 8, 2003, 117 Stat. 2209, 2357, 2417; Pub. L. 110–173, title I, §109, Dec. 29, 2007, 121 Stat. 2497; Pub. L. 110–275, title I, §167(a)–(c), July 15, 2008, 122 Stat. 2575, 2576; Pub. L. 111–148, title III, §3206, Mar. 23, 2010, 124 Stat. 459; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §608, Jan. 2, 2013, 126 Stat. 2349.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1876, as added and amended Pub. L. 92–603, title II, §§226(a), 278(b)(3), Oct. 30, 1972, 86 Stat. 1396, 1453; Pub. L.93–233, §18(m), (n), Dec. 31, 1973, 87 Stat. 970, 971; Pub. L. 94–460, title II, §201(a)–(d), Oct. 8, 1976, 90 Stat. 1956, 1957; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 97–248, title I, §114(a), Sept. 3, 1982, 96 Stat. 341; Pub. L. 97–448, title III, §309(b)(12), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §§602(g), 606(a)(3)(H), Apr. 20, 1983, 97 Stat. 164, 171; Pub. L. 98–369, div. B, title III, §§2350(a)(1), (b)(1), (2), (c), 2354(b)(37), (38), July 18, 1984, 98 Stat. 1097, 1098, 1102; Pub. L. 99–272, title IX, §9211(a)–(d), Apr. 7, 1986, 100 Stat. 178, 179; Pub. L. 99–509, title IX, §§9312(b)(1), (c)(1), (2), (d)(1), (e)(1), (f), 9353(e)(2), Oct. 21, 1986, 100 Stat. 1999–2001, 2048; Pub. L. 99–514, title XVIII, §1895(b)(11)(A), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 100–203, title IV, §§4011(a)(1), (b)(1), 4012(b), 4013(a), 4014, 4018(a), 4039(h)(8), Dec. 22, 1987, 101 Stat. 1330–60, 1330–61, 1330–65, as amended Pub. L. 100–360, title IV, §411(c)(3), (e)(3), July 1, 1988, 102 Stat. 773, 776; Pub. L. 100–360, title II, §§202(f), 211(c)(3), 224, title IV, §411(c)(1), (4), (6), formerly (5), July 1, 1988, 102 Stat. 717, 738, 748, 772, 773, as amended Pub. L. 100–485, title VI, §608(d)(19)(B), (C), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 100–647, title VIII, §8412(a)(1), Nov. 10, 1988, 102 Stat. 3801; Pub. L. 101–234, title II, §§201(a), 202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6206(a)(1), (b)(1), 6212(b)(1), (c)(2), 6411(d)(3)(A), Dec. 19, 1989, 103 Stat. 2244, 2250, 2271; Pub. L. 101–508, title IV, §§4204(a)(1), (2), (c)(1), (2), (d)(1), (e)(1), 4206(b)(1), Nov. 5, 1990, 104 Stat. 1388–108 to 1388–111, 1388–116; Pub. L. 103–296, title I, §108(c)(6), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–432, title I, §157(b)(1), (4), Oct. 31, 1994, 108 Stat. 4442; Pub. L. 104–191, title II, §§215(a), (b), 231(g), Aug. 21, 1996, 110 Stat. 2005–2007, 2014; Pub. L. 105–33, title IV, §4002(a)–(b)(2)(A), Aug. 5, 1997, 111 Stat. 328, 329; Pub. L. 106–113, div. B, 1000(a)(6) \[title V, §503\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380; Pub. L. 106–554, §1(a)(6) \[title VI, §634\], Dec. 21, 2000, 114 Stat. 2763, 2763A–568; Pub. L. 108–173, title II, §234, title VII, §736(d)(2), title IX, §940(b)(2)(B), Dec. 8, 2003, 117 Stat. 2209, 2357, 2417; Pub. L. 110–173, title I, §109, Dec. 29, 2007, 121 Stat. 2497; Pub. L. 110–275, title I, §167(a)–(c), July 15, 2008, 122 Stat. 2575, 2576; Pub. L. 111–148, title III, §3206, Mar. 23, 2010, 124 Stat. 459; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §608, Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1108, Dec. 26, 2013, 127 Stat. 1197.)
 
 #### References in Text
 
@@ -454,35 +454,37 @@ Section 1320c–3(a)(4)(C) of this title, referred to in subsec. (i)(7)(A), was 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (h)(5)(C)(ii). Pub. L. 112–240 substituted “January 1, 2014” for “January 1, 2013” in introductory provisions.
+<b>2013</b>—Subsec. (h)(5)(C)(ii). Pub. L. 113–67 substituted "January 1, 2015" for "January 1, 2014" in introductory provisions.
 
-<b>2011</b>—Subsec. (i)(7)(A). Pub. L. 112–40 substituted “quality improvement” for “utilization and quality control peer review”.
+Pub. L. 112–240 substituted "January 1, 2014" for "January 1, 2013" in introductory provisions.
 
-<b>2010</b>—Subsec. (h)(5)(C)(ii). Pub. L. 111–148 substituted “January 1, 2013” for “January 1, 2010” in introductory provisions.
+<b>2011</b>—Subsec. (i)(7)(A). Pub. L. 112–40 substituted "quality improvement" for "utilization and quality control peer review".
 
-<b>2008</b>—Subsec. (h)(5)(C)(ii). Pub. L. 110–275, §167(a), substituted “January 1, 2010” for “January 1, 2009” in introductory provisions.
+<b>2010</b>—Subsec. (h)(5)(C)(ii). Pub. L. 111–148 substituted "January 1, 2013" for "January 1, 2010" in introductory provisions.
 
-Subsec. (h)(5)(C)(ii)(I), (II). Pub. L. 110–275, §167(b), inserted “, provided that all such plans are not offered by the same Medicare Advantage organization” after “clause (iii)”.
+<b>2008</b>—Subsec. (h)(5)(C)(ii). Pub. L. 110–275, §167(a), substituted "January 1, 2010" for "January 1, 2009" in introductory provisions.
 
-Subsec. (h)(5)(C)(iii)(I). Pub. L. 110–275, §167(c), inserted “that are not in another Metropolitan Statistical Area with a population of more than 250,000” after “such Metropolitan Statistical Area” and inserted “If the service area includes a portion in more than 1 Metropolitan Statistical Area with a population of more than 250,000, the minimum enrollment determination under the preceding sentence shall be made with respect to each such Metropolitan Statistical Area (and such applicable contiguous counties to such Metropolitan Statistical Area).” at end.
+Subsec. (h)(5)(C)(ii)(I), (II). Pub. L. 110–275, §167(b), inserted ", provided that all such plans are not offered by the same Medicare Advantage organization" after "clause (iii)".
 
-<b>2007</b>—Subsec. (h)(5)(C)(ii). Pub. L. 110–173 substituted “January 1, 2009” for “January 1, 2008” in introductory provisions.
+Subsec. (h)(5)(C)(iii)(I). Pub. L. 110–275, §167(c), inserted "that are not in another Metropolitan Statistical Area with a population of more than 250,000" after "such Metropolitan Statistical Area" and inserted "If the service area includes a portion in more than 1 Metropolitan Statistical Area with a population of more than 250,000, the minimum enrollment determination under the preceding sentence shall be made with respect to each such Metropolitan Statistical Area (and such applicable contiguous counties to such Metropolitan Statistical Area)." at end.
 
-<b>2003</b>—Subsec. (c)(2)(B). Pub. L. 108–173, §736(d)(2)(A), substituted “significant” for “signifcant” in introductory provisions.
+<b>2007</b>—Subsec. (h)(5)(C)(ii). Pub. L. 110–173 substituted "January 1, 2009" for "January 1, 2008" in introductory provisions.
 
-Subsec. (c)(5)(B). Pub. L. 108–173, §940(b)(2)(B), which directed amendment of subsec. (b)(5)(B) by inserting at end “The provisions of section 1395ff(b)(1)(E)(iii) of this title shall apply with respect to dollar amounts specified in the first 2 sentences of this subparagraph in the same manner as they apply to the dollar amounts specified in section 1395ff(b)(1)(E)(i) of this title.”, was executed by making the insertion at end of subsec. (c)(5)(B), to reflect the probable intent of Congress. Subsec. (b) does not contain a par. (5)(B).
+<b>2003</b>—Subsec. (c)(2)(B). Pub. L. 108–173, §736(d)(2)(A), substituted "significant" for "signifcant" in introductory provisions.
 
-Subsec. (h)(5)(C). Pub. L. 108–173, §234, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The Secretary may not extend or renew a reasonable cost reimbursement contract under this subsection for any period beyond December 31, 2004.”
+Subsec. (c)(5)(B). Pub. L. 108–173, §940(b)(2)(B), which directed amendment of subsec. (b)(5)(B) by inserting at end "The provisions of section 1395ff(b)(1)(E)(iii) of this title shall apply with respect to dollar amounts specified in the first 2 sentences of this subparagraph in the same manner as they apply to the dollar amounts specified in section 1395ff(b)(1)(E)(i) of this title.", was executed by making the insertion at end of subsec. (c)(5)(B), to reflect the probable intent of Congress. Subsec. (b) does not contain a par. (5)(B).
 
-Subsec. (j)(2). Pub. L. 108–173, §736(d)(2)(B), substituted “this section” for “this setion”.
+Subsec. (h)(5)(C). Pub. L. 108–173, §234, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "The Secretary may not extend or renew a reasonable cost reimbursement contract under this subsection for any period beyond December 31, 2004."
+
+Subsec. (j)(2). Pub. L. 108–173, §736(d)(2)(B), substituted "this section" for "this setion".
 
 <b>2000</b>—Subsec. (h)(5)(B), (C). Pub. L. 106–554 added subpar. (B) and redesignated former subpar. (B) as (C).
 
-<b>1999</b>—Subsec. (h)(5)(B). Pub. L. 106–113 substituted “2004” for “2002”.
+<b>1999</b>—Subsec. (h)(5)(B). Pub. L. 106–113 substituted "2004" for "2002".
 
-<b>1997</b>—Subsec. (f)(1). Pub. L. 105–33, §4002(a)(1), substituted “For contract periods beginning before January 1, 1999, each” for “Each” and struck out “or under a State plan approved under subchapter XIX of this chapter” before period at end.
+<b>1997</b>—Subsec. (f)(1). Pub. L. 105–33, §4002(a)(1), substituted "For contract periods beginning before January 1, 1999, each" for "Each" and struck out "or under a State plan approved under subchapter XIX of this chapter" before period at end.
 
-Subsec. (f)(2). Pub. L. 105–33, §4002(a)(2), substituted “Subject to paragraph (4), the Secretary” for “The Secretary”.
+Subsec. (f)(2). Pub. L. 105–33, §4002(a)(2), substituted "Subject to paragraph (4), the Secretary" for "The Secretary".
 
 Subsec. (f)(4). Pub. L. 105–33, §4002(a)(3), added par. (4).
 
@@ -490,107 +492,107 @@ Subsec. (h)(5). Pub. L. 105–33, §4002(b)(2)(A), added par. (5).
 
 Subsec. (k). Pub. L. 105–33, §4002(b)(1), added subsec. (k).
 
-<b>1996</b>—Subsec. (i)(1). Pub. L. 104–191, §215(a)(1), substituted “in accordance with procedures established under paragraph (9), the Secretary may at any time terminate any such contract or may impose the intermediate sanctions described in paragraph (6)(B) or (6)(C) (whichever is applicable) on the eligible organization if the Secretary determines that the organization—” for “the Secretary may terminate any such contract at any time (after such reasonable notice and opportunity for hearing to the eligible organization involved as he may provide in regulations), if he finds that the organization—” in introductory provisions, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
+<b>1996</b>—Subsec. (i)(1). Pub. L. 104–191, §215(a)(1), substituted "in accordance with procedures established under paragraph (9), the Secretary may at any time terminate any such contract or may impose the intermediate sanctions described in paragraph (6)(B) or (6)(C) (whichever is applicable) on the eligible organization if the Secretary determines that the organization—" for "the Secretary may terminate any such contract at any time (after such reasonable notice and opportunity for hearing to the eligible organization involved as he may provide in regulations), if he finds that the organization—" in introductory provisions, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
 
-“(A) has failed substantially to carry out the contract,
+"(A) has failed substantially to carry out the contract,
 
-“(B) is carrying out the contract in a manner inconsistent with the efficient and effective administration of this section, or
+"(B) is carrying out the contract in a manner inconsistent with the efficient and effective administration of this section, or
 
-“(C) no longer substantially meets the applicable conditions of subsections (b), (c), (e), and (f) of this section.”
+"(C) no longer substantially meets the applicable conditions of subsections (b), (c), (e), and (f) of this section."
 
-Subsec. (i)(6)(B). Pub. L. 104–191, §215(a)(4), struck out concluding provisions which read as follows: “The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (i) in the same manner as they apply to a civil money penalty or proceeding under section 1320a–7a(a) of this title.”
+Subsec. (i)(6)(B). Pub. L. 104–191, §215(a)(4), struck out concluding provisions which read as follows: "The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (i) in the same manner as they apply to a civil money penalty or proceeding under section 1320a–7a(a) of this title."
 
 Subsec. (i)(6)(C). Pub. L. 104–191, §215(a)(2), added subpar. (C).
 
 Subsec. (i)(6)(D). Pub. L. 104–191, §231(g), added subpar. (D).
 
-Subsec. (i)(7)(A). Pub. L. 104–191, §215(b), substituted “a written agreement” for “an agreement”.
+Subsec. (i)(7)(A). Pub. L. 104–191, §215(b), substituted "a written agreement" for "an agreement".
 
 Subsec. (i)(9). Pub. L. 104–191, §215(a)(3), added par. (9).
 
-<b>1994</b>—Subsec. (a)(1)(E)(ii)(I). Pub. L. 103–432, §157(b)(4), struck out comma after “contributed to”.
+<b>1994</b>—Subsec. (a)(1)(E)(ii)(I). Pub. L. 103–432, §157(b)(4), struck out comma after "contributed to".
 
-Subsec. (a)(3). Pub. L. 103–432, §157(b)(1), substituted “subsections (c)(2)(B)(ii) and (c)(7) of this section” for “subsection (c)(7) of this section”.
+Subsec. (a)(3). Pub. L. 103–432, §157(b)(1), substituted "subsections (c)(2)(B)(ii) and (c)(7) of this section" for "subsection (c)(7) of this section".
 
-Subsec. (c)(5)(B). Pub. L. 103–296 inserted at end “In applying sections 405(b) and 405(g) of this title as provided in this subparagraph, and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.”
+Subsec. (c)(5)(B). Pub. L. 103–296 inserted at end "In applying sections 405(b) and 405(g) of this title as provided in this subparagraph, and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively."
 
 <b>1990</b>—Subsec. (a)(1)(E). Pub. L. 101–508, §4204(e)(1), designated existing provisions as cl. (i) and added cl. (ii).
 
-Subsec. (a)(6). Pub. L. 101–508, §4204(c)(2), substituted “subsections (c)(2)(B)(ii) and (c)(7)” for “subsection (c)(7)”.
+Subsec. (a)(6). Pub. L. 101–508, §4204(c)(2), substituted "subsections (c)(2)(B)(ii) and (c)(7)" for "subsection (c)(7)".
 
 Subsec. (c)(2). Pub. L. 101–508, §4204(c)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) and former cls. (i) and (ii) as cls. (i) and (ii) and subcls. (I) and (II), respectively, and added subpar. (B).
 
 Subsec. (c)(8). Pub. L. 101–508, §4206(b)(1), added par. (8).
 
-Subsec. (i)(6)(A)(vi). Pub. L. 101–508, §4204(a)(2), inserted “or paragraph (8)” after “(g)(6)(A) of this section”.
+Subsec. (i)(6)(A)(vi). Pub. L. 101–508, §4204(a)(2), inserted "or paragraph (8)" after "(g)(6)(A) of this section".
 
 Subsec. (i)(8). Pub. L. 101–508, §4204(a)(1), added par. (8).
 
-Subsec. (j)(1)(A). Pub. L. 101–508, §4204(d)(1)(A), substituted “physicians’ services or renal dialysis services” for “physicians’ services”, “physician or provider of services or renal dialysis facility” for “physician” in three places, and “applicable participation agreement” for “participation agreement under section 1395u(h)(1) of this title”.
+Subsec. (j)(1)(A). Pub. L. 101–508, §4204(d)(1)(A), substituted "physicians' services or renal dialysis services" for "physicians' services", "physician or provider of services or renal dialysis facility" for "physician" in three places, and "applicable participation agreement" for "participation agreement under section 1395u(h)(1) of this title".
 
-Subsec. (j)(2). Pub. L. 101–508, §4204(d)(1)(B), substituted “physicians’ services or renal dialysis services” for “physicians’ services” in two places and “which are furnished to an enrollee of an eligible organization under this setion \[sic\] by a physician, provider of services, or renal dialysis facility who is not under a contract with the organization.” for “which—” and subpars. (A) and (B) which read as follows:
+Subsec. (j)(2). Pub. L. 101–508, §4204(d)(1)(B), substituted "physicians' services or renal dialysis services" for "physicians' services" in two places and "which are furnished to an enrollee of an eligible organization under this setion \[sic\] by a physician, provider of services, or renal dialysis facility who is not under a contract with the organization." for "which—" and subpars. (A) and (B) which read as follows:
 
-&emsp;“(A) are emergency services or out-of-area coverage (described in clauses (iii) and (iv) of subsection (b)(2)(A) of this section), and
+&emsp;"(A) are emergency services or out-of-area coverage (described in clauses (iii) and (iv) of subsection (b)(2)(A) of this section), and
 
-&emsp;“(B) are furnished to an enrollee of an eligible organization under this section by a person who is not under a contract with the organization.”
+&emsp;"(B) are furnished to an enrollee of an eligible organization under this section by a person who is not under a contract with the organization."
 
 <b>1989</b>—Subsec. (a)(1)(F). Pub. L. 101–239, §6206(a)(1), added subpar. (F).
 
 Subsec. (a)(5). Pub. L. 101–234, §202(a), repealed Pub. L. 100–360, §211(c)(3)(A), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
 
-Subsec. (c)(3)(A)(i). Pub. L. 101–239, §6206(b)(1)(A), substituted “period or periods” for “30-day period”.
+Subsec. (c)(3)(A)(i). Pub. L. 101–239, §6206(b)(1)(A), substituted "period or periods" for "30-day period".
 
-Subsec. (c)(3)(A)(ii). Pub. L. 101–239, §6206(b)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “For each area served by more than one eligible organization under this section, the Secretary (after consultation with such organizations) shall establish a single 30-day period each year during which all eligible organizations serving the area must provide for open enrollment under this section. The Secretary shall determine annual per capita rates under subsection (a)(1)(A) of this section in a manner that assures that individuals enrolling during such a 30-day period will not have premium charges increased or any additional benefits decreased for 12 months beginning on the date the individual's enrollment becomes effective. An eligible organization may provide for such other open enrollment period or periods as it deems appropriate consistent with this section.”
+Subsec. (c)(3)(A)(ii). Pub. L. 101–239, §6206(b)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: "For each area served by more than one eligible organization under this section, the Secretary (after consultation with such organizations) shall establish a single 30-day period each year during which all eligible organizations serving the area must provide for open enrollment under this section. The Secretary shall determine annual per capita rates under subsection (a)(1)(A) of this section in a manner that assures that individuals enrolling during such a 30-day period will not have premium charges increased or any additional benefits decreased for 12 months beginning on the date the individual's enrollment becomes effective. An eligible organization may provide for such other open enrollment period or periods as it deems appropriate consistent with this section."
 
 Subsecs. (e)(1), (g)(3)(A). Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §202(f), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
 
-Subsec. (g)(5). Pub. L. 101–239, §6212(c)(2), struck out “and during a period of not longer than four years” after first reference to “Secretary”.
+Subsec. (g)(5). Pub. L. 101–239, §6212(c)(2), struck out "and during a period of not longer than four years" after first reference to "Secretary".
 
 Subsec. (i)(6)(A)(vii). Pub. L. 101–239, §6411(d)(3)(A), added cl. (vii).
 
 Subsec. (j). Pub. L. 101–239, §6212(b)(1), added subsec. (j).
 
-<b>1988</b>—Subsec. (a)(5). Pub. L. 100–360, §211(c)(3)(B), amended second sentence generally. Prior to amendment, second sentence read as follows: “The portion of that payment to the organization for a month to be paid by the latter trust fund shall be equal to 200 percent of the sum of—
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–360, §211(c)(3)(B), amended second sentence generally. Prior to amendment, second sentence read as follows: "The portion of that payment to the organization for a month to be paid by the latter trust fund shall be equal to 200 percent of the sum of—
 
-&emsp;“(A) the product of (i) the number of such individuals for the month who have attained age 65, and (ii) the monthly actuarial rate for supplementary medical insurance for the month as determined under section 1395r(a)(1) of this title, and
+&emsp;"(A) the product of (i) the number of such individuals for the month who have attained age 65, and (ii) the monthly actuarial rate for supplementary medical insurance for the month as determined under section 1395r(a)(1) of this title, and
 
-&emsp;“(B) the product of (i) the number of such individuals for the month who have not attained age 65, and (ii) the monthly actuarial rate for supplementary medical insurance for the month as determined under section 1395r(a)(4) of this title.”
+&emsp;"(B) the product of (i) the number of such individuals for the month who have not attained age 65, and (ii) the monthly actuarial rate for supplementary medical insurance for the month as determined under section 1395r(a)(4) of this title."
 
-Pub. L. 100–360, §211(c)(3)(A), substituted “, the Federal Supplementary Medical Insurance Trust Fund, and the Federal Catastrophic Drug Insurance Trust Fund” for “and the Federal Supplementary Medical Insurance Trust Fund” in first sentence.
+Pub. L. 100–360, §211(c)(3)(A), substituted ", the Federal Supplementary Medical Insurance Trust Fund, and the Federal Catastrophic Drug Insurance Trust Fund" for "and the Federal Supplementary Medical Insurance Trust Fund" in first sentence.
 
 Subsec. (c)(3)(F). Pub. L. 100–360, §411(c)(1), realigned margin with left margin of subpar. (G).
 
-Subsec. (e)(1). Pub. L. 100–360, §202(f)(1), inserted at end “The preceding sentence shall be applied separately with respect to covered outpatient drugs.”
+Subsec. (e)(1). Pub. L. 100–360, §202(f)(1), inserted at end "The preceding sentence shall be applied separately with respect to covered outpatient drugs."
 
 Subsec. (f)(3). Pub. L. 100–647 redesignated par. (4) as (3) and struck out former par. (3) which read as follows:
 
-“(A) An eligible organization described in subparagraph (B) may elect, for purposes of enrollment and residency requirements under this section and for determining the compliance of a subdivision, subsidiary, or affiliate described in subparagraph (B)(iii) with the requirement of paragraph (1) for the period before October 1, 1992, to have members described in subparagraph (B)(iii) who receive services through the subdivision, subsidiary, or affiliate considered to be members of the parent organization.
+"(A) An eligible organization described in subparagraph (B) may elect, for purposes of enrollment and residency requirements under this section and for determining the compliance of a subdivision, subsidiary, or affiliate described in subparagraph (B)(iii) with the requirement of paragraph (1) for the period before October 1, 1992, to have members described in subparagraph (B)(iii) who receive services through the subdivision, subsidiary, or affiliate considered to be members of the parent organization.
 
-“(B) An eligible organization described in this subparagraph is an eligible organization which—
+"(B) An eligible organization described in this subparagraph is an eligible organization which—
 
-&emsp;“(i) is described in section 1396b(m)(2)(B)(iii) of this title;
+&emsp;"(i) is described in section 1396b(m)(2)(B)(iii) of this title;
 
-&emsp;“(ii) has members who have a collectively bargained contractual right to obtain health benefits from the organization;
+&emsp;"(ii) has members who have a collectively bargained contractual right to obtain health benefits from the organization;
 
-&emsp;“(iii) elects to provide benefits under a risk-sharing contract to individuals residing in a service area, who have a collectively bargained contractual right to obtain benefits from the organization, through a subdivision, subsidiary, or affiliate which itself is an eligible organization serving the area and which is owned or controlled by the parent eligible organization; and
+&emsp;"(iii) elects to provide benefits under a risk-sharing contract to individuals residing in a service area, who have a collectively bargained contractual right to obtain benefits from the organization, through a subdivision, subsidiary, or affiliate which itself is an eligible organization serving the area and which is owned or controlled by the parent eligible organization; and
 
-&emsp;“(iv) has assumed any risk of insolvency and quality assurance with respect to individuals receiving benefits through such a subdivision, subsidiary, or affiliate.”
+&emsp;"(iv) has assumed any risk of insolvency and quality assurance with respect to individuals receiving benefits through such a subdivision, subsidiary, or affiliate."
 
-Subsec. (f)(3)(A). Pub. L. 100–360, §411(c)(6), formerly §411(c)(5), as redesignated by Pub. L. 100–485, §608(d)(19)(C), inserted “enrollment and residency requirements under this section and for” after “for purposes of” and substituted “described in subparagraph (B)(iii) who receives services through the subdivision” for “of the subdivision”.
+Subsec. (f)(3)(A). Pub. L. 100–360, §411(c)(6), formerly §411(c)(5), as redesignated by Pub. L. 100–485, §608(d)(19)(C), inserted "enrollment and residency requirements under this section and for" after "for purposes of" and substituted "described in subparagraph (B)(iii) who receives services through the subdivision" for "of the subdivision".
 
 Subsec. (f)(4). Pub. L. 100–647 redesignated par. (4) as (3).
 
-Subsec. (g)(3)(A). Pub. L. 100–360, §202(f)(2), substituted “rates” for “rate”.
+Subsec. (g)(3)(A). Pub. L. 100–360, §202(f)(2), substituted "rates" for "rate".
 
 Subsec. (g)(5). Pub. L. 100–360, §411(c)(3), amended Pub. L. 100–203, §4013, see 1987 Amendment note below.
 
-Subsec. (i)(6)(A). Pub. L. 100–360, §411(c)(4)(A), inserted “, in addition to any other remedies authorized by law,” after “the Secretary may provide” in concluding provisions.
+Subsec. (i)(6)(A). Pub. L. 100–360, §411(c)(4)(A), inserted ", in addition to any other remedies authorized by law," after "the Secretary may provide" in concluding provisions.
 
-Subsec. (i)(6)(B). Pub. L. 100–360, §411(c)(4)(C), formerly §411(c)(4)(B), as redesignated by Pub. L. 100–485, §608(d)(19)(B)(ii), substituted “or proceeding under section 1320a–7a(a) of this title” for “under that section” in last sentence.
+Subsec. (i)(6)(B). Pub. L. 100–360, §411(c)(4)(C), formerly §411(c)(4)(B), as redesignated by Pub. L. 100–485, §608(d)(19)(B)(ii), substituted "or proceeding under section 1320a–7a(a) of this title" for "under that section" in last sentence.
 
-Subsec. (i)(6)(B)(i). Pub. L. 100–360, §411(c)(4)(B), as added by Pub. L. 100–485, §608(d)(19)(B)(i), (iii), inserted “of such subparagraph” after “(v)(I)”.
+Subsec. (i)(6)(B)(i). Pub. L. 100–360, §411(c)(4)(B), as added by Pub. L. 100–485, §608(d)(19)(B)(i), (iii), inserted "of such subparagraph" after "(v)(I)".
 
-Pub. L. 100–360, §224, inserted at end “plus, with respect to a determination under subparagraph (A)(ii), double the excess amount charged in violation of such subparagraph (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned), and plus, with respect to a determination under subparagraph (A)(iv), $15,000 for each individual not enrolled as a result of the practice involved,”.
+Pub. L. 100–360, §224, inserted at end "plus, with respect to a determination under subparagraph (A)(ii), double the excess amount charged in violation of such subparagraph (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned), and plus, with respect to a determination under subparagraph (A)(iv), $15,000 for each individual not enrolled as a result of the practice involved,".
 
 Subsec. (i)(7)(A). Pub. L. 100–360, §411(e)(3), added Pub. L. 100–203, §4039(h)(8)(A), (B), see 1987 Amendment note below.
 
@@ -602,33 +604,33 @@ Subsec. (c)(3)(G). Pub. L. 100–203, §4011(b)(1), added subpar. (G).
 
 Subsec. (f)(3), (4). Pub. L. 100–203, §4018(a), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (g)(4). Pub. L. 100–203, §4012(b), struck out par. (4) which read as follows: “A risk-sharing contract under this subsection may, at the option of an eligible organization, provide that the Secretary—
+Subsec. (g)(4). Pub. L. 100–203, §4012(b), struck out par. (4) which read as follows: "A risk-sharing contract under this subsection may, at the option of an eligible organization, provide that the Secretary—
 
-&emsp;“(A) will reimburse hospitals and skilled nursing facilities either for payment amounts determined in accordance with section 1395ww of this title, or, if applicable, for the reasonable cost (as determined under section 1395x(v) of this title) or other appropriate basis for payment established under this subchapter, of inpatient services furnished to individuals enrolled with such organization pursuant to subsection (d) of this section, and
+&emsp;"(A) will reimburse hospitals and skilled nursing facilities either for payment amounts determined in accordance with section 1395ww of this title, or, if applicable, for the reasonable cost (as determined under section 1395x(v) of this title) or other appropriate basis for payment established under this subchapter, of inpatient services furnished to individuals enrolled with such organization pursuant to subsection (d) of this section, and
 
-&emsp;“(B) will deduct the amount of such reimbursement for payment which would otherwise be made to such organization.”
+&emsp;"(B) will deduct the amount of such reimbursement for payment which would otherwise be made to such organization."
 
-Subsec. (g)(5). Pub. L. 100–203, §4013, which directed amendment of par. (5) by substituting “six years” for “four years”, was amended generally by Pub. L. 100–360, §411(c)(3), so that it does not amend this section.
+Subsec. (g)(5). Pub. L. 100–203, §4013, which directed amendment of par. (5) by substituting "six years" for "four years", was amended generally by Pub. L. 100–360, §411(c)(3), so that it does not amend this section.
 
 Subsec. (i)(6). Pub. L. 100–203, §4014, amended par. (6) generally. Prior to amendment, par. (6) read as follows:
 
-“(6)(A) Any eligible organization with a risk-sharing contract under this section that fails substantially to provide medically necessary items and services that are required (under law or such contract) to be provided to individuals covered under such contract, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals, is subject to a civil money penalty of not more than $10,000 for each such failure.
+"(6)(A) Any eligible organization with a risk-sharing contract under this section that fails substantially to provide medically necessary items and services that are required (under law or such contract) to be provided to individuals covered under such contract, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals, is subject to a civil money penalty of not more than $10,000 for each such failure.
 
-“(B) The provisions of section 1320a–7a of this title (other than subsection (a)) shall apply to a civil money penalty under subparagraph (A) in the same manner as they apply to a civil money penalty under that section.”
+"(B) The provisions of section 1320a–7a of this title (other than subsection (a)) shall apply to a civil money penalty under subparagraph (A) in the same manner as they apply to a civil money penalty under that section."
 
-Subsec. (i)(7)(A). Pub. L. 100–203, §4039(h)(8)(A), (B), as added by Pub. L. 100–360, §411(e)(3), substituted “Each” for “Except as provided under section 1320c–3(a)(4)(C) of this title, each”, inserted “or with an entity selected by the Secretary under section 1320c–3(a)(4)(C) of this title” after “located)”, and substituted “which the review organization” for “which the peer review organization”.
+Subsec. (i)(7)(A). Pub. L. 100–203, §4039(h)(8)(A), (B), as added by Pub. L. 100–360, §411(e)(3), substituted "Each" for "Except as provided under section 1320c–3(a)(4)(C) of this title, each", inserted "or with an entity selected by the Secretary under section 1320c–3(a)(4)(C) of this title" after "located)", and substituted "which the review organization" for "which the peer review organization".
 
-Subsec. (i)(7)(B). Pub. L. 100–203, §4039(h)(8)(C), as added by Pub. L. 100–360, §411(e)(3), substituted “the review organization” for “the peer review organization”.
+Subsec. (i)(7)(B). Pub. L. 100–203, §4039(h)(8)(C), as added by Pub. L. 100–360, §411(e)(3), substituted "the review organization" for "the peer review organization".
 
-<b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–514 substituted “announce (in a manner intended to provide notice to interested parties)” for “publish” in introductory provisions.
+<b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–514 substituted "announce (in a manner intended to provide notice to interested parties)" for "publish" in introductory provisions.
 
-Pub. L. 99–272, §9211(d), inserted “, and shall publish not later than September 7 before the calendar year concerned” after “The Secretary shall annually determine” in introductory provisions.
+Pub. L. 99–272, §9211(d), inserted ", and shall publish not later than September 7 before the calendar year concerned" after "The Secretary shall annually determine" in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 99–272, §9211(a)(2), substituted “Subject to subsection (c)(7) of this section, payments” for “Payments”.
+Subsec. (a)(3). Pub. L. 99–272, §9211(a)(2), substituted "Subject to subsection (c)(7) of this section, payments" for "Payments".
 
-Subsec. (a)(6). Pub. L. 99–272, §9211(a)(3), substituted “Subject to subsection (c)(7) of this section, if” for “If”.
+Subsec. (a)(6). Pub. L. 99–272, §9211(a)(3), substituted "Subject to subsection (c)(7) of this section, if" for "If".
 
-Subsec. (c)(3)(B). Pub. L. 99–272, §9211(b), substituted “the date on which” for “a full calendar month after”, and inserted provision at end that in the case of an individual's termination of enrollment, the organization shall provide the individual with a copy of the written request for termination of enrollment and a written explanation of the period (ending on the effective date of the termination) during which the individual continues to be enrolled with the organization and may not receive benefits under this subchapter other than through the organization.
+Subsec. (c)(3)(B). Pub. L. 99–272, §9211(b), substituted "the date on which" for "a full calendar month after", and inserted provision at end that in the case of an individual's termination of enrollment, the organization shall provide the individual with a copy of the written request for termination of enrollment and a written explanation of the period (ending on the effective date of the termination) during which the individual continues to be enrolled with the organization and may not receive benefits under this subchapter other than through the organization.
 
 Subsec. (c)(3)(C). Pub. L. 99–272, §9211(c), inserted provisions at end that no brochures, application forms, or other promotional or informational material may be distributed by an organization to (or for the use of) individuals eligible to enroll with the organization under this section unless at least 45 days before its distribution, the organization has submitted the material to the Secretary for review and the Secretary has not disapproved the distribution of the material, and that Secretary shall review all such material submitted and shall disapprove such material if the Secretary determines, in the Secretary's discretion, that the material is materially inaccurate or misleading or otherwise makes a material misrepresentation.
 
@@ -636,17 +638,17 @@ Subsec. (c)(7). Pub. L. 99–272, §9211(a)(1), added par. (7).
 
 Subsec. (c)(3)(E). Pub. L. 99–509, §9312(b)(1), added subpar. (E).
 
-Subsec. (f)(2). Pub. L. 99–509, §9312(c)(1), struck out “if the Secretary determines that” after “imposed by paragraph (1) only”, added new subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (f)(2). Pub. L. 99–509, §9312(c)(1), struck out "if the Secretary determines that" after "imposed by paragraph (1) only", added new subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 
-“(A) special circumstances warrant such modification or waiver, and
+"(A) special circumstances warrant such modification or waiver, and
 
-“(B) the eligible organization has taken and is making reasonable efforts to enroll individuals who are not entitled to benefits under this subchapter or under a State plan approved under subchapter XIX of this chapter.”
+"(B) the eligible organization has taken and is making reasonable efforts to enroll individuals who are not entitled to benefits under this subchapter or under a State plan approved under subchapter XIX of this chapter."
 
 Subsec. (f)(3). Pub. L. 99–509, §9312(c)(2)(A), added par. (3).
 
 Subsec. (g)(6). Pub. L. 99–509, §9312(d)(1), added par. (6).
 
-Subsec. (i)(1)(C). Pub. L. 99–509, §9312(c)(3)(B), substituted “(e), and (f)” for “and (e)”.
+Subsec. (i)(1)(C). Pub. L. 99–509, §9312(c)(3)(B), substituted "(e), and (f)" for "and (e)".
 
 Subsec. (i)(3)(C). Pub. L. 99–509, §9312(e)(1), designated existing provisions as cl. (i) and added cls. (ii) and (iii).
 
@@ -654,41 +656,41 @@ Subsec. (i)(6). Pub. L. 99–509, §9312(f), added par. (6).
 
 Subsec. (i)(7). Pub. L. 99–509, §9353(e)(2), added par. (7).
 
-<b>1984</b>—Subsec. (b)(2)(D). Pub. L. 98–369, §2354(b)(37), substituted “subparagraph (A)” for “paragraph (1)”.
+<b>1984</b>—Subsec. (b)(2)(D). Pub. L. 98–369, §2354(b)(37), substituted "subparagraph (A)" for "paragraph (1)".
 
-Subsec. (c)(3)(A). Pub. L. 98–369, §2350(a)(1), designated existing provisions as cl. (i), inserted “and including the 30-day period specified under clause (ii)” after “30 days duration every year”, and added cl. (ii).
+Subsec. (c)(3)(A). Pub. L. 98–369, §2350(a)(1), designated existing provisions as cl. (i), inserted "and including the 30-day period specified under clause (ii)" after "30 days duration every year", and added cl. (ii).
 
-Subsec. (c)(4)(A)(i). Pub. L. 98–369, §2354(b)(38), substituted “with reasonable promptness” for “promptly as appropriate”.
+Subsec. (c)(4)(A)(i). Pub. L. 98–369, §2354(b)(38), substituted "with reasonable promptness" for "promptly as appropriate".
 
-Subsec. (g)(2). Pub. L. 98–369, §2350(b)(1), inserted “and except that an organization (with the approval of the Secretary) may provide that a part of the value of such additional benefits be withheld and reserved by the Secretary as provided in paragraph (5)” at end of first sentence.
+Subsec. (g)(2). Pub. L. 98–369, §2350(b)(1), inserted "and except that an organization (with the approval of the Secretary) may provide that a part of the value of such additional benefits be withheld and reserved by the Secretary as provided in paragraph (5)" at end of first sentence.
 
-Subsec. (g)(4)(A). Pub. L. 98–369, §2350(c), inserted “and skilled nursing facilities” after “hospitals”, inserted “or the appropriate basis for payment established under this subchapter” after “section 1395x(v) of this title)”, and struck out “hospital” before “services furnished to individuals”.
+Subsec. (g)(4)(A). Pub. L. 98–369, §2350(c), inserted "and skilled nursing facilities" after "hospitals", inserted "or the appropriate basis for payment established under this subchapter" after "section 1395x(v) of this title)", and struck out "hospital" before "services furnished to individuals".
 
 Subsec. (g)(5). Pub. L. 98–369, §2350(b)(2), added par. (5).
 
-<b>1983</b>—Subsec. (a)(5)(A)(ii), (B)(ii). Pub. L. 98–21, §606(a)(3)(H), substituted “1395r(a)(1)” for “1395r(c)(1)”.
+<b>1983</b>—Subsec. (a)(5)(A)(ii), (B)(ii). Pub. L. 98–21, §606(a)(3)(H), substituted "1395r(a)(1)" for "1395r(c)(1)".
 
-Subsec. (g)(1). Pub. L. 97–448 substituted “subsection (b)” for “subsection (b)(1)”.
+Subsec. (g)(1). Pub. L. 97–448 substituted "subsection (b)" for "subsection (b)(1)".
 
 Subsec. (g)(4). Pub. L. 98–21, §602(g), added par. (4).
 
 <b>1982</b>—Pub. L. 97–248 completely revised section, expanding its coverage to permit payments to both health maintenance organizations and competitive medical plans.
 
-<b>1978</b>—Subsec. (b)(2)(B). Pub. L. 95–292 substituted “Administrator of the Health Care Financing Administration” for “Commissioner of Social Security”.
+<b>1978</b>—Subsec. (b)(2)(B). Pub. L. 95–292 substituted "Administrator of the Health Care Financing Administration" for "Commissioner of Social Security".
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–460, §201(a), struck out provisions defining a health maintenance organization as a public or private organization which provides physicians’ services and a sufficient number of primary care and specialty care physicians, assures its members access to qualified practitioners in specialties available in area served by such organization, demonstrates financial responsibility and means to provide comprehensive health care services, has at least half of its enrolled members under age 65, assures prompt and qualified health service, and has an open enrollment period at least every year, and revised the definition and requirements of an health maintenance organization to conform to those set forth in the Public Health Service Act, except that the services which such an organization must provide are those covered in parts A and B of this subchapter rather than the basic health services defined in the Public Health Service Act, and inserted provisions requiring Secretary to administer determinations of whether an organization is a health maintenance organization through and in the office of the Assistant Secretary for Health, to integrate the administration of such functions and duties with the administration of provisions requiring the continued regulation of health maintenance organizations under the Public Health Service Act, and to administer other provisions of this section through the Commissioner of Social Security.
+<b>1976</b>—Subsec. (b). Pub. L. 94–460, §201(a), struck out provisions defining a health maintenance organization as a public or private organization which provides physicians' services and a sufficient number of primary care and specialty care physicians, assures its members access to qualified practitioners in specialties available in area served by such organization, demonstrates financial responsibility and means to provide comprehensive health care services, has at least half of its enrolled members under age 65, assures prompt and qualified health service, and has an open enrollment period at least every year, and revised the definition and requirements of an health maintenance organization to conform to those set forth in the Public Health Service Act, except that the services which such an organization must provide are those covered in parts A and B of this subchapter rather than the basic health services defined in the Public Health Service Act, and inserted provisions requiring Secretary to administer determinations of whether an organization is a health maintenance organization through and in the office of the Assistant Secretary for Health, to integrate the administration of such functions and duties with the administration of provisions requiring the continued regulation of health maintenance organizations under the Public Health Service Act, and to administer other provisions of this section through the Commissioner of Social Security.
 
-Subsec. (h). Pub. L. 94–460, §201(b), substituted provisions that each health maintenance organization with which the Secretary enters into a contract under this section have an enrolled membership at least half of which consists of individuals who have not attained age 65, with the Secretary empowered to waive that requirement for a period of not more than three yearsfrom the date a health maintenance organization first enters into an agreement with the Secretary pursuant to subsection (i) of this section for provisions that such requirement not apply with respect to any health maintenance organization for such period not to exceed three years from the date such organization enters into an agreement with the Secretary pursuant to subsection (i) of this section, as the Secretary might permit.
+Subsec. (h). Pub. L. 94–460, §201(b), substituted provisions that each health maintenance organization with which the Secretary enters into a contract under this section have an enrolled membership at least half of which consists of individuals who have not attained age 65, with the Secretary empowered to waive that requirement for a period of not more than three years from the date a health maintenance organization first enters into an agreement with the Secretary pursuant to subsection (i) of this section for provisions that such requirement not apply with respect to any health maintenance organization for such period not to exceed three years from the date such organization enters into an agreement with the Secretary pursuant to subsection (i) of this section, as the Secretary might permit.
 
-Subsec. (i)(6)(B). Pub. L. 94–460, §201(c), substituted “(other than costs with respect to out-of-area services and, in the case of an organization which has entered into a risk-sharing contract with the Secretary pursuant to paragraph (2)(A), the cost of providing any member with basic health services the aggregate value of which exceeds $5,000 in any year)” for “(Other than those with respect to out-of-area services)”.
+Subsec. (i)(6)(B). Pub. L. 94–460, §201(c), substituted "(other than costs with respect to out-of-area services and, in the case of an organization which has entered into a risk-sharing contract with the Secretary pursuant to paragraph (2)(A), the cost of providing any member with basic health services the aggregate value of which exceeds $5,000 in any year)" for "(Other than those with respect to out-of-area services)".
 
 Subsec. (k). Pub. L. 94–460, §201(d), added subsec. (k).
 
-<b>1973</b>—Subsec. (a)(3)(A)(ii). Pub. L. 93–233, §18(m), struck out “, with the apportionment of savings being proportional to the losses absorbed and not yet offset” at end.
+<b>1973</b>—Subsec. (a)(3)(A)(ii). Pub. L. 93–233, §18(m), struck out ", with the apportionment of savings being proportional to the losses absorbed and not yet offset" at end.
 
-Subsec. (g)(2). Pub. L. 93–233, §18(n), substituted “portion of its premium rate or other charges” for “portion” and “shall not exceed” for “may not exceed”, and struck out cl. (i) designation preceding “the actuarial value” and provisions reading “less (ii) the actuarial value of other charges made in lieu of such deductible and coinsurance”, respectively.
+Subsec. (g)(2). Pub. L. 93–233, §18(n), substituted "portion of its premium rate or other charges" for "portion" and "shall not exceed" for "may not exceed", and struck out cl. (i) designation preceding "the actuarial value" and provisions reading "less (ii) the actuarial value of other charges made in lieu of such deductible and coinsurance", respectively.
 
-<b>1972</b>—Subsec. (i). Pub. L. 92–603, §278(b)(3), substituted “skilled nursing facility” for “extended care facility” and “skilled nursing facilities” for “extended care facilities”.
+<b>1972</b>—Subsec. (i). Pub. L. 92–603, §278(b)(3), substituted "skilled nursing facility" for "extended care facility" and "skilled nursing facilities" for "extended care facilities".
 
 #### Change of Name
 
@@ -700,7 +702,7 @@ Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–191, title II, §215(c), Aug. 21, 1996, 110 Stat. 2007, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to contract years beginning on or after January 1, 1997.”
+Pub. L. 104–191, title II, §215(c), Aug. 21, 1996, 110 Stat. 2007, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to contract years beginning on or after January 1, 1997."
 
 Amendment by section 231(g) of Pub. L. 104–191 applicable to acts or omissions occurring on or after Jan. 1, 1997, see section 231(i) of Pub. L. 104–191, set out as a note under section 1320a–7a of this title.
 
@@ -712,25 +714,25 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title IV, §4204(a)(4), Nov. 5, 1990, 104 Stat. 1388–109, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply with respect to contract years beginning on or after January 1, 1992, and the amendments made by paragraph (3) \[amending section 1320a–7a of this title\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title IV, §4204(a)(4), Nov. 5, 1990, 104 Stat. 1388–109, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply with respect to contract years beginning on or after January 1, 1992, and the amendments made by paragraph (3) \[amending section 1320a–7a of this title\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\]."
 
-Pub. L. 101–508, title IV, §4204(c)(3), Nov. 5, 1990, 104 Stat. 1388–111, as amended by Pub. L. 103–432, title I, §157(b)(2), Oct. 31, 1994, 108 Stat. 4442, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to national coverage determinations that are not incorporated in the determination of the per capita rate of payment for individuals enrolled for years beginning with 1991 with an eligible organization which has entered into a risk-sharing contract under section 1876 of the Social Security Act \[this section\].”
+Pub. L. 101–508, title IV, §4204(c)(3), Nov. 5, 1990, 104 Stat. 1388–111, as amended by Pub. L. 103–432, title I, §157(b)(2), Oct. 31, 1994, 108 Stat. 4442, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to national coverage determinations that are not incorporated in the determination of the per capita rate of payment for individuals enrolled for years beginning with 1991 with an eligible organization which has entered into a risk-sharing contract under section 1876 of the Social Security Act \[42 U.S.C. 1395mm\]."
 
-Pub. L. 101–508, title IV, §4204(d)(2), Nov. 5, 1990, 104 Stat. 1388–111, as amended by Pub. L. 103–432, title I, §157(b)(3), Oct. 31, 1994, 108 Stat. 4442, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to items and services furnished on or after January 1, 1991.”
+Pub. L. 101–508, title IV, §4204(d)(2), Nov. 5, 1990, 104 Stat. 1388–111, as amended by Pub. L. 103–432, title I, §157(b)(3), Oct. 31, 1994, 108 Stat. 4442, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to items and services furnished on or after January 1, 1991."
 
-Pub. L. 101–508, title IV, §4204(e)(2), Nov. 5, 1990, 104 Stat. 1388–111, as amended by Pub. L. 103–432, title I, §157(b)(5), Oct. 31, 1994, 108 Stat. 4442, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to individuals enrolling with an eligible organization under a health benefit plan operated, sponsored, or contributed to, by the individual's employer or former employer (or the employer or former employer of the individual's spouse) on or after January 1, 1991.”
+Pub. L. 101–508, title IV, §4204(e)(2), Nov. 5, 1990, 104 Stat. 1388–111, as amended by Pub. L. 103–432, title I, §157(b)(5), Oct. 31, 1994, 108 Stat. 4442, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to individuals enrolling with an eligible organization under a health benefit plan operated, sponsored, or contributed to, by the individual's employer or former employer (or the employer or former employer of the individual's spouse) on or after January 1, 1991."
 
 Amendment by section 4206(b)(1) of Pub. L. 101–508 applicable to contracts under this section and payments under section 1395l(a)(1)(A) of this title as of the first day of the first month beginning more than 1 year after Nov. 5, 1990, see section 4206(e)(2) of Pub. L. 101–508, set out as a note under section 1395l of this title.
 
 #### Effective Date of 1989 Amendments
 
-Pub. L. 101–239, title VI, §6206(b)(2), Dec. 19, 1989, 103 Stat. 2245, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect 60 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VI, §6206(b)(2), Dec. 19, 1989, 103 Stat. 2245, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect 60 days after the date of the enactment of this Act \[Dec. 19, 1989\]."
 
-Pub. L. 101–239, title VI, §6212(b)(2), Dec. 19, 1989, 103 Stat. 2250, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to services furnished on or after April 1, 1990.”
+Pub. L. 101–239, title VI, §6212(b)(2), Dec. 19, 1989, 103 Stat. 2250, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to services furnished on or after April 1, 1990."
 
-Pub. L. 101–239, title VI, §6212(c)(3), Dec. 19, 1989, 103 Stat. 2250, provided that: “The amendments made by this subsection \[amending this section and repealing provisions set out as notes below\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VI, §6212(c)(3), Dec. 19, 1989, 103 Stat. 2250, provided that: "The amendments made by this subsection \[amending this section and repealing provisions set out as notes below\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\]."
 
-Pub. L. 101–239, title VI, §6411(d)(4)(B), Dec. 19, 1989, 103 Stat. 2271, provided that: “The amendments made by paragraph (3) \[amending this section and section 1396a of this title\] shall apply to employment and contracts as of 90 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VI, §6411(d)(4)(B), Dec. 19, 1989, 103 Stat. 2271, provided that: "The amendments made by paragraph (3) \[amending this section and section 1396a of this title\] shall apply to employment and contracts as of 90 days after the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 Amendment by section 201(a) of Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub. L. 101–234, set out as a note under section 1320a–7a of this title.
 
@@ -738,97 +740,97 @@ Amendment by section 202(a) of Pub. L. 101–234 effective Jan. 1, 1990, and app
 
 #### Effective Date of 1988 Amendments
 
-Pub. L. 100–647, title VIII, §8412(b), Nov. 10, 1988, 102 Stat. 3801, provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply to contracts in effect on the date of the enactment of this Act \[Nov. 10, 1988\] or extensions (not exceeding 90 days) thereof.”
+Pub. L. 100–647, title VIII, §8412(b), Nov. 10, 1988, 102 Stat. 3801, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply to contracts in effect on the date of the enactment of this Act \[Nov. 10, 1988\] or extensions (not exceeding 90 days) thereof."
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
 Amendment by section 202(f) of Pub. L. 100–360 applicable to enrollments effected on or after Jan. 1, 1990, see section 202(m)(3) of Pub. L. 100–360, set out as a note under section 1395u of this title.
 
-Amendment by section 211(c)(3) of Pub. L. 100–360 applicable, except as specified in such amendment, tomonthly premiums for months beginning with January 1989, see section 211(d) of Pub. L. 100–360, set out as a note under section 1395r of this title.
+Amendment by section 211(c)(3) of Pub. L. 100–360 applicable, except as specified in such amendment, to monthly premiums for months beginning with January 1989, see section 211(d) of Pub. L. 100–360, set out as a note under section 1395r of this title.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(c)(1), (3), (4), (6), (e)(3) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IV, §4011(a)(2), Dec. 22, 1987, 101 Stat. 1330–60, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to contracts entered into or renewed on or after the date of enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4011(a)(2), Dec. 22, 1987, 101 Stat. 1330–60, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to contracts entered into or renewed on or after the date of enactment of this Act \[Dec. 22, 1987\]."
 
-Pub. L. 100–203, title IV, §4011(b)(2), Dec. 22, 1987, 101 Stat. 1330–60, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts entered into or renewed on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4011(b)(2), Dec. 22, 1987, 101 Stat. 1330–60, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to contracts entered into or renewed on or after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
-Pub. L. 100–203, title IV, §4012(d), Dec. 22, 1987, 101 Stat. 1330–61, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1395cc this title\] shall apply to admissions occurring on or after April 1, 1988, or, if later, the earliest date the Secretary can provide the information required under subsection (c) \[set out as a note below\] in machine readable form.”
+Pub. L. 100–203, title IV, §4012(d), Dec. 22, 1987, 101 Stat. 1330–61, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1395cc this title\] shall apply to admissions occurring on or after April 1, 1988, or, if later, the earliest date the Secretary can provide the information required under subsection (c) \[set out as a note below\] in machine readable form."
 
 Pub. L. 100–203, title IV, §4013(b), Dec. 22, 1987, 101 Stat. 1330–61, which provided the effective date for amendment made by section 4013(a) of Pub. L. 100–203, was omitted in the general amendment of section 4013 of Pub. L. 100–203 by Pub. L. 100–360, title IV, §411(c)(3), July 1, 1988, 102 Stat. 773.
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 99–514, title XVIII, §1895(b)(11)(B), Oct. 22, 1986, 100 Stat. 2934, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to determinations of per capita payment rates for 1987 and subsequent years.”
+Pub. L. 99–514, title XVIII, §1895(b)(11)(B), Oct. 22, 1986, 100 Stat. 2934, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to determinations of per capita payment rates for 1987 and subsequent years."
 
-Pub. L. 99–509, title IX, §9312(b)(2), Oct. 21, 1986, 100 Stat. 1999, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1987, and shall apply to enrollments effected on or after such date.”
+Pub. L. 99–509, title IX, §9312(b)(2), Oct. 21, 1986, 100 Stat. 1999, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1987, and shall apply to enrollments effected on or after such date."
 
 Pub. L. 99–509, title IX, §9312(c)(3), Oct. 21, 1986, 100 Stat. 2000, as amended by Pub. L. 100–203, title IV, §4018(d), Dec. 22, 1987, 101 Stat. 1330–66; Pub. L. 101–239, title VI, §6212(a), Dec. 19, 1989, 103 Stat. 2249; Pub. L. 103–66, title XIII, §13569, Aug. 10, 1993, 107 Stat. 608, provided that:
 
-“(A)
+"(A)
 
 New restriction.—The amendment made by paragraph (1) \[amending this section\] shall apply to modifications and waivers granted after the date of the enactment of this Act \[Oct. 21, 1986\].
 
-“(B)
+"(B)
 
 Sanctions for noncompliance.—The amendments made by paragraph (2) \[amending this section\] shall take effect on the date of the enactment of this Act.
 
-“(C)
+"(C)
 
 Treatment of current waivers.—In the case of an eligible organization (or successor organization) that—
 
-&emsp;“(i) as of the date of the enactment of this Act, has been granted, under paragraph (2) of section 1876(f) of the Social Security Act \[subsec. (f)(2) of this section\], a modification or waiver of the requirement imposed by paragraph (1) of that section, but
+&emsp;"(i) as of the date of the enactment of this Act, has been granted, under paragraph (2) of section 1876(f) of the Social Security Act \[42 U.S.C. 1395mm(f)(2)\], a modification or waiver of the requirement imposed by paragraph (1) of that section, but
 
-&emsp;“(ii) does not meet the requirement for such modification or waiver under the amendment made by paragraph (1) of this subsection,
+&emsp;"(ii) does not meet the requirement for such modification or waiver under the amendment made by paragraph (1) of this subsection,
 
-> the organization shall make, and continue to make, reasonable efforts to meet scheduled enrollment goals, consistent with a schedule of compliance approved by the Secretary of Health and Human Services. If the Secretary determines that the organization has complied, or made significant progress towards compliance, with such schedule of compliance, the Secretary may extend such waiver. If the Secretary determines that the organization has not complied with such schedule, the Secretary may provide for a sanction described in section 1876(f)(3) of the Social Security Act \[subsec. (f)(3) of this section\] (as amended by this section) effective with respect to individuals enrolling with the organization after the date the Secretary notifies the organization of such noncompliance.
+> the organization shall make, and continue to make, reasonable efforts to meet scheduled enrollment goals, consistent with a schedule of compliance approved by the Secretary of Health and Human Services. If the Secretary determines that the organization has complied, or made significant progress towards compliance, with such schedule of compliance, the Secretary may extend such waiver. If the Secretary determines that the organization has not complied with such schedule, the Secretary may provide for a sanction described in section 1876(f)(3) of the Social Security Act \[42 U.S.C. 1395mm(f)(3)\] (as amended by this section) effective with respect to individuals enrolling with the organization after the date the Secretary notifies the organization of such noncompliance.
 
-“(D)
+"(D)
 
 Treatment of certain waivers.—In the case of an eligible organization (or successor organization) that is described in clauses (i) and (ii) of subparagraph (C) and that received a grant or grants totaling at least $3,000,000 in fiscal year 1987 under section 329(d)(1)(A) or 330(d)(1) of the Public Health Service Act \[42 U.S.C. 254b(d)(1)(A), 254c(d)(1)\]—
 
-&emsp;“(i) before January 1, 1996, section 1876(f) of the Social Security Act \[subsec. (f) of this section\] shall not apply to the organization;
+&emsp;"(i) before January 1, 1996, section 1876(f) of the Social Security Act \[42 U.S.C. 1395mm(f)\] shall not apply to the organization;
 
-&emsp;“(ii) beginning on January 1, 1990, the Secretary of Health and Human Services shall conduct an annual review of the organization to determine the organization's compliance with the quality assurance requirements of section 1876(c)(6) of such Act \[subsec. (c)(6) of this section\]; and
+&emsp;"(ii) beginning on January 1, 1990, the Secretary of Health and Human Services shall conduct an annual review of the organization to determine the organization's compliance with the quality assurance requirements of section 1876(c)(6) of such Act \[42 U.S.C. 1395mm(c)(6)\]; and
 
-&emsp;“(iii) after January 1, 1990, if the organization receives an unfavorable review under clause (ii), the Secretary, after notice to the organization of the unfavorable review and an opportunity to correct any deficiencies identified during the review, may provide for the sanction described in section 1876(f)(3) of such Act \[subsec. (f)(3) of this section\] effective with respect to individuals enrolling with the organization after the date the Secretary notifies the organization that the organization is not in compliance with the requirements of section 1876(c)(6) of such Act.”
+&emsp;"(iii) after January 1, 1990, if the organization receives an unfavorable review under clause (ii), the Secretary, after notice to the organization of the unfavorable review and an opportunity to correct any deficiencies identified during the review, may provide for the sanction described in section 1876(f)(3) of such Act \[42 U.S.C. 1395mm(f)(3)\] effective with respect to individuals enrolling with the organization after the date the Secretary notifies the organization that the organization is not in compliance with the requirements of section 1876(c)(6) of such Act."
 
-Pub. L. 99–509, title IX, §9312(d)(2), Oct. 21, 1986, 100 Stat. 2001, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to risk-sharing contracts under section 1876 of the Social Security Act \[this section\] with respect to services furnished on or after January 1, 1987.”
+Pub. L. 99–509, title IX, §9312(d)(2), Oct. 21, 1986, 100 Stat. 2001, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to risk-sharing contracts under section 1876 of the Social Security Act \[42 U.S.C. 1395mm\] with respect to services furnished on or after January 1, 1987."
 
-Pub. L. 99–509, title IX, §9312(e)(2), Oct. 21, 1986, 100 Stat. 2001, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to contracts as of January 1, 1987.”
+Pub. L. 99–509, title IX, §9312(e)(2), Oct. 21, 1986, 100 Stat. 2001, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to contracts as of January 1, 1987."
 
-Pub. L. 99–509, title IX, §9353(e)(3)(B), Oct. 21, 1986, 100 Stat. 2049, as amended by Pub. L. 100–203, title IV, §4039(h)(9)(C), as added by Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776, provided that: “The amendment made by paragraph (2) \[amending this section\] shall apply to risk-sharing contracts with eligible organizations, under section 1876 of the Social Security Act \[this section\], as of April 1, 1987. The provisions of section 1876(i)(7) of the Social Security Act \[subsec. (i)(7) of this section\] (added by such amendment) shall apply to health maintenance organizations with contracts in effect under section 1876 of such Act (as in effect before the date of the enactment of Public Law 97–248 \[Sept. 3, 1982\]) in the same manner as it applies to eligible organizations with risk-sharing contracts in effect under section 1876 of such Act (as in effect on the date of the enactment of this Act \[Dec. 22, 1987\]).”
+Pub. L. 99–509, title IX, §9353(e)(3)(B), Oct. 21, 1986, 100 Stat. 2049, as amended by Pub. L. 100–203, title IV, §4039(h)(9)(C), as added by Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776, provided that: "The amendment made by paragraph (2) \[amending this section\] shall apply to risk-sharing contracts with eligible organizations, under section 1876 of the Social Security Act \[42 U.S.C. 1395mm\], as of April 1, 1987. The provisions of section 1876(i)(7) of the Social Security Act \[42 U.S.C. 1395mm(i)(7)\] (added by such amendment) shall apply to health maintenance organizations with contracts in effect under section 1876 of such Act (as in effect before the date of the enactment of Public Law 97–248 \[Sept. 3, 1982\]) in the same manner as it applies to eligible organizations with risk-sharing contracts in effect under section 1876 of such Act (as in effect on the date of the enactment of this Act \[Dec. 22, 1987\])."
 
 Pub. L. 99–272, title IX, §9211(e), Apr. 7, 1986, 100 Stat. 179, provided that:
 
-“(1)
+"(1)
 
 Financial responsibility.—The amendments made by subsection (a) \[amending this section\] shall apply to enrollments and disenrollments that become effective on or after the date of the enactment of this Act \[Apr. 7, 1986\].
 
-“(2)
+"(2)
 
 Disenrollments.—The amendments made by subsection (b) \[amending this section\] shall apply to requests for termination of enrollment submitted on or after May 1, 1986.
 
-“(3)
+"(3)
 
 Material review.—(A) The amendment made by subsection (c) \[amending this section\] shall not apply to material which has been distributed before July 1, 1986.
 
-“(B) Such amendment also shall not apply so as to require the submission of material which is distributed before July 1, 1986.
+"(B) Such amendment also shall not apply so as to require the submission of material which is distributed before July 1, 1986.
 
-“(C) Such amendment shall also not apply to material which the Secretary determines has been prepared before the date of the enactment of this Act \[Apr. 7, 1986\] and for which a commitment for distribution has been made, if the application of such amendment would constitute a hardship for the organization involved.
+"(C) Such amendment shall also not apply to material which the Secretary determines has been prepared before the date of the enactment of this Act \[Apr. 7, 1986\] and for which a commitment for distribution has been made, if the application of such amendment would constitute a hardship for the organization involved.
 
-“(4)
+"(4)
 
 Publication.—The amendment made by subsection (d) \[amending this section\] shall apply to determinations of per capita rates of payment for 1987 and subsequent years.
 
-“(5)
+"(5)
 
-Necessary modification of contracts.—The Secretary of Health and Human Services shall provide for such changes in the risk-sharing contracts which have been entered into under section 1876 of the Social Security Act \[this section\] as may be necessary to conform to the requirements imposed by the amendments made by this section \[amending this section\] on a timely basis.”
+Necessary modification of contracts.—The Secretary of Health and Human Services shall provide for such changes in the risk-sharing contracts which have been entered into under section 1876 of the Social Security Act \[42 U.S.C. 1395mm\] as may be necessary to conform to the requirements imposed by the amendments made by this section \[amending this section\] on a timely basis."
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. B, title III, §2350(d), July 18, 1984, 98 Stat. 1098, provided that: “The amendments made by this section \[amending this section and enacting provisions set out as notes under this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2350(d), July 18, 1984, 98 Stat. 1098, provided that: "The amendments made by this section \[amending this section and enacting provisions set out as notes under this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\]."
 
 Amendment by section 2354(b)(37), (38) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
@@ -844,69 +846,69 @@ Amendment by section 309(b)(12) of Pub. L. 97–448 effective as if originally i
 
 Pub. L. 97–248, title I, §114(c), Sept. 3, 1982, 96 Stat. 350, as amended by Pub. L. 98–369, div. B, title III, §2354(c)(3)(A), (B), July 18, 1984, 98 Stat. 1102; Pub. L. 98–617, §3(a)(5), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–509, title IX, §9312(a), Oct. 21, 1986, 100 Stat. 1999, provided that:
 
-“(1) Subject to paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to services furnished on or after the initial effective date (as defined in paragraph (4)), except that such amendment shall not apply—
+"(1) Subject to paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to services furnished on or after the initial effective date (as defined in paragraph (4)), except that such amendment shall not apply—
 
-&emsp;“(A) with respect to services furnished by an eligible organization to any individual who is enrolled with that organization under an existing cost contract (as defined in paragraph (3)(A)) and entitled to benefits under part A, or enrolled in part B, of title XVIII of the Social Security Act \[this subchapter\] at the time the organization first enters into a new risk-sharing contract (as defined in paragraph (3)(D)) unless—
+&emsp;"(A) with respect to services furnished by an eligible organization to any individual who is enrolled with that organization under an existing cost contract (as defined in paragraph (3)(A)) and entitled to benefits under part A \[42 U.S.C. 1395c et seq.\], or enrolled in part B \[42 U.S.C. 1395j et seq.\], of title XVIII of the Social Security Act at the time the organization first enters into a new risk-sharing contract (as defined in paragraph (3)(D)) unless—
 
-&emsp;&emsp;“(i) the individual requests at any time that the amendment apply, or
+&emsp;&emsp;"(i) the individual requests at any time that the amendment apply, or
 
-&emsp;&emsp;“(ii) the Secretary determines at any time that the amendment should apply to all members of the organization because of administrative costs or other administrative burdens involved and so informs in advance each affected member of the eligible organization;
+&emsp;&emsp;"(ii) the Secretary determines at any time that the amendment should apply to all members of the organization because of administrative costs orother administrative burdens involved and so informs in advance each affected member of the eligible organization;
 
-&emsp;“(B) with respect to services furnished by an eligible organization during the five-year period beginning on the initial effective date, if—
+&emsp;"(B) with respect to services furnished by an eligible organization during the five-year period beginning on the initial effective date, if—
 
-&emsp;&emsp;“(i) the organization has an existing risk-sharing contract (as defined in paragraph (3)(B)) on the initial effective date, or
+&emsp;&emsp;"(i) the organization has an existing risk-sharing contract (as defined in paragraph (3)(B)) on the initial effective date, or
 
-&emsp;&emsp;“(ii) on the date of the enactment of this Act \[Sept. 3, 1982\] the organization was furnishing services pursuant to an existing demonstration project (as defined in paragraph (3)(C)), such demonstration project is concluded before the initial effective date, and before such initial effective date the organization enters into an existing risk-sharing contract,
+&emsp;&emsp;"(ii) on the date of the enactment of this Act \[Sept. 3, 1982\] the organization was furnishing services pursuant to an existing demonstration project (as defined in paragraph (3)(C)), such demonstration project is concluded before the initial effective date, and before such initial effective date the organization enters into an existing risk-sharing contract,
 
 > &emsp;unless the organization requests that the amendment apply earlier; or
 
-&emsp;“(C) with respect to services furnished by an eligible organization during the period of an existing demonstration project if on the initial effective date the organization was furnishing services pursuant to the project and if the project concludes after such date.
+&emsp;"(C) with respect to services furnished by an eligible organization during the period of an existing demonstration project if on the initial effective date the organization was furnishing services pursuant to the project and if the project concludes after such date.
 
-“(2)(A) In the case of an eligible organization which has in effect an existing cost contract (as defined in paragraph (3)(A)) on the initial effective date, the organization may receive payment under a new risk-sharing contract with respect to a current, nonrisk medicare enrollee (as defined in subparagraph (C)) only to the extent that the organization enrolls, for each such enrollee, two new medicare enrollees (as defined in subparagraph (D)). The selection of those current nonrisk medicare enrollees with respect to whom payment may be so received under a new risk-sharing contract shall be made in a nonbiased manner.
+"(2)(A) In the case of an eligible organization which has in effect an existing cost contract (as defined in paragraph (3)(A)) on the initial effective date, the organization may receive payment under a new risk-sharing contract with respect to a current, nonrisk medicare enrollee (as defined in subparagraph (C)) only to the extent that the organization enrolls, for each such enrollee, two new medicare enrollees (as defined in subparagraph (D)). The selection of those current nonrisk medicare enrollees with respect to whom payment may be so received under a new risk-sharing contract shall be made in a nonbiased manner.
 
-“(B) Subparagraph (A) shall not be construed to prevent an eligible organization from providing for enrollment, on a basis described in subsection (a)(6) of section 1876 of the Social Security Act \[subsec. (a)(6) of this section\] (as amended by this Act \[Pub. L. 97–248\], other than under a reasonable cost reimbursement contract), of current, nonrisk medicare enrollees and from providing such enrollees with some or all of the additional benefits described in section 1876(g)(2) of the Social Security Act \[subsec. (g)(2) of this section\] (as amended by this Act \[Pub. L. 97–248\]), but (except as provided in subparagraph (A))—
+"(B) Subparagraph (A) shall not be construed to prevent an eligible organization from providing for enrollment, on a basis described in subsection (a)(6) of section 1876 of the Social Security Act \[42 U.S.C. 1395mm(a)(6)\] (as amended by this Act \[Pub. L. 97–248\], other than under a reasonable cost reimbursement contract), of current, nonrisk medicare enrollees and from providing such enrollees with some or all of the additional benefits described in section 1876(g)(2) of the Social Security Act \[42 U.S.C. 1395mm(g)(2)\] (as amended by this Act \[Pub. L. 97–248\]), but (except as provided in subparagraph (A))—
 
-&emsp;“(i) payment to the organization with respect to such enrollees shall only be made in accordance with the terms of a reasonable cost reimbursement contract, and
+&emsp;"(i) payment to the organization with respect to such enrollees shall only be made in accordance with the terms of a reasonable cost reimbursement contract, and
 
-&emsp;“(ii) no payment may be made under section 1876 of such Act \[this section\] with respect to such enrollees for any such additional benefits.
+&emsp;"(ii) no payment may be made under section 1876 of such Act \[42 U.S.C. 1395mm\] with respect to such enrollees for any such additional benefits.
 
-> Individuals enrolled with the organization under this subparagraph shall be considered to be individuals enrolled with the organization for the purpose of meeting the requirement of section 1876(g)(2) of the Social Security Act \[subsec. (g)(2) of this section\] (as amended by this Act \[Pub. L. 97–248\]).
+> Individuals enrolled with the organization under this subparagraph shall be considered to be individuals enrolled with the organization for the purpose of meeting the requirement of section 1876(g)(2) of the Social Security Act \[42 U.S.C. 1395mm(g)(2)\] (as amended by this Act \[Pub. L. 97–248\]).
 
-“(C) For purposes of this paragraph, the term ‘current, nonrisk medicare enrollee’ means, with respect to an organization, an individual who on the initial effective date—
+"(C) For purposes of this paragraph, the term 'current, nonrisk medicare enrollee' means, with respect to an organization, an individual who on the initial effective date—
 
-&emsp;“(i) is enrolled with that organization under an existing cost contract, and
+&emsp;"(i) is enrolled with that organization under an existing cost contract, and
 
-&emsp;“(ii) is entitled to benefits under part A and enrolled under part B, or enrolled in part B, of title XVIII of the Social Security Act \[this subchapter\].
+&emsp;"(ii) is entitled to benefits under part A \[42 U.S.C. 1395c et seq.\] and enrolled under part B \[42 U.S.C. 1395j et seq.\], or enrolled in part B, of title XVIII of the Social Security Act.
 
-“(D) For purposes of this paragraph, the term ‘new medicare enrollee’ means, with respect to an organization, an individual who—
+"(D) For purposes of this paragraph, the term 'new medicare enrollee' means, with respect to an organization, an individual who—
 
-&emsp;“(i) is enrolled with the organization after the date the organization first enters into a new risk-sharing contract,
+&emsp;"(i) is enrolled with the organization after the date the organization first enters into a new risk-sharing contract,
 
-&emsp;“(ii) at the time of such enrollment is entitled to benefits under part A, or enrolled in part B, of title XVIII of the Social Security Act \[this subchapter\], and
+&emsp;"(ii) at the time of such enrollment is entitled to benefits under part A, or enrolled in part B, of title XVIII of the Social Security Act, and
 
-&emsp;“(iii) was not enrolled with the organization at the time the individual became entitled to benefits under part A, or to enroll in part B, of such title \[this subchapter\].
+&emsp;"(iii) was not enrolled with the organization at the time the individual became entitled to benefits under part A, or to enroll in part B, of such title.
 
-&emsp;“(E) The preceding provisions of this paragraph shall not to \[sic\] apply to payments made for current, nonrisk medicare enrollees for months beginning with April 1987.
+&emsp;"(E) The preceding provisions of this paragraph shall not to \[sic\] apply to payments made for current, nonrisk medicare enrollees for months beginning with April 1987.
 
-“(3) For purposes of this subsection:
+"(3) For purposes of this subsection:
 
-&emsp;“(A) The term ‘existing cost contract’ means a contract which is entered into under section 1876 of the Social Security Act \[this section\], as in effect before the initial effective date, or reimbursement on a reasonable cost basis under section 1833(a)(1)(A) of such Act \[section 1395l(a)(1)(A) of this title\], and which is not an existing risk-sharing contract or an existing demonstration project.
+&emsp;"(A) The term 'existing cost contract' means a contract which is entered into under section 1876 of the Social Security Act \[42 U.S.C. 1395mm\], as in effect before the initial effective date, or reimbursement on a reasonable cost basis under section 1833(a)(1)(A) of such Act \[42 U.S.C. 1395l(a)(1)(A)\], and which is not an existing risk-sharing contract or an existing demonstration project.
 
-&emsp;“(B) The term ‘existing risk-sharing contract’ means a contract entered into under section 1876(i)(2)(A) of the Social Security Act \[subsec. (i)(2)(A) of this section\], as in effect before the initial effective date.
+&emsp;"(B) The term 'existing risk-sharing contract' means a contract entered into under section 1876(i)(2)(A) of the Social Security Act \[42 U.S.C. 1395mm(i)(2)(A)\], as in effect before the initial effective date.
 
-&emsp;“(C) The term ‘existing demonstration project’ means a demonstration project under section 402(a) of the Social Security Amendments of 1967 \[section 1395b–1(a) of this title\] or under section 222(a) of the Social Security Amendments of 1972 \[section 222(a) of Pub. L. 92–603, set out as a note under section 1395b–1 of this title\], relating to the provision of services for which payment may be made under title XVIII of the Social Security Act \[this subchapter\].
+&emsp;"(C) The term 'existing demonstration project' means a demonstration project under section 402(a) of the Social Security Amendments of 1967 \[42 U.S.C. 1395b–1(a)\] or under section 222(a) of the Social Security Amendments of 1972 \[section 222(a) of Pub. L. 92–603, set out as a note under section 1395b–1 of this title\], relating to the provision of services for which payment may be made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
 
-&emsp;“(D) The term ‘new risk-sharing contract’ means a contract entered into under section 1876(g) of the Social Security Act \[subsec. (g) of this section\], as amended by this Act \[Pub. L. 97–248\].
+&emsp;"(D) The term 'new risk-sharing contract' means a contract entered into under section 1876(g) of the Social Security Act \[42 U.S.C. 1395mm(g)\], as amended by this Act \[Pub. L. 97–248\].
 
-&emsp;“(E) The term ‘reasonable cost reimbursement contract’ means a contract entered into under section 1876(h) of such Act \[subsec. (h) of this section\], as amended by this Act, or reimbursement on a reasonable cost basis under section 1833(a)(1)(A) of such Act \[section 1395l(a)(1)(A) of this title\].
+&emsp;"(E) The term 'reasonable cost reimbursement contract' means a contract entered into under section 1876(h) of such Act \[42 U.S.C. 1395mm(h)\], as amended by this Act, or reimbursement on a reasonable cost basis under section 1833(a)(1)(A) of such Act \[42 U.S.C. 1395l(a)(1)(A)\].
 
-“(4) As used in this section, the term ‘initial effective date’ means—
+"(4) As used in this section, the term 'initial effective date' means—
 
-&emsp;“(A) the first day of the thirteenth month which begins after the date of the enactment of this Act \[Sept. 3, 1982\], or
+&emsp;"(A) the first day of the thirteenth month which begins after the date of the enactment of this Act \[Sept. 3, 1982\], or
 
-&emsp;“(B) the first day of the first month \[Feb. 1, 1985\] after the month in which the Secretary of Health and Human Services notifies the Committee on Finance of the Senate and the Committees on Ways and Means and on Energy and Commerce of the House of Representatives that he is reasonably certain that the methodology to make appropriate adjustments (referred to in section 1876(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\], as amended by this Act \[Pub. L. 97–248\]) has been developed and can be implemented to assure actuarial equivalence in the estimation of adjusted average per capita costs under that section,
+&emsp;"(B) the first day of the first month \[Feb. 1, 1985\] after the month in which the Secretary of Health and Human Services notifies the Committee on Finance of the Senate and the Committees on Ways and Means and on Energy and Commerce of the House of Representatives that he is reasonably certain that the methodology to make appropriate adjustments (referred to in section 1876(a)(4) of the Social Security Act \[42 U.S.C. 1395mm(a)(4)\], as amended by this Act \[Pub. L. 97–248\]) has been developed and can be implemented to assure actuarial equivalence in the estimation of adjusted average per capita costs under that section,
 
-> whichever is later.”
+> whichever is later."
 
 #### Effective Date of 1978 Amendment
 
@@ -914,37 +916,37 @@ Amendment by Pub. L. 95–292 effective with respect to services, supplies, and 
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–460, title II, §201(e), Oct. 8, 1976, 90 Stat. 1957, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to contracts entered into between the Secretary and health maintenance organizations under section 1876 of the Social Security Act \[this section\] on and after the first day of the first calendar month which begins more than 30 days after the date of enactment of this Act \[Oct. 8, 1976\].”
+Pub. L. 94–460, title II, §201(e), Oct. 8, 1976, 90 Stat. 1957, provided that: "The amendments made by this section \[amending this section\] shall be effective withrespect to contracts entered into between the Secretary and health maintenance organizations under section 1876 of the Social Security Act \[42 U.S.C. 1395mm\] on and after the first day of the first calendar month which begins more than 30 days after the date of enactment of this Act \[Oct. 8, 1976\]."
 
 #### Effective Date of 1973 Amendment
 
-Pub. L. 93–233, §18(z–3)(3), Dec. 31, 1973, 87 Stat. 974, provided that: “The amendments made by subsections (m) and (n) \[amending this section\] shall be effective with respect to services provided after June 30, 1973.”
+Pub. L. 93–233, §18(z–3)(3), Dec. 31, 1973, 87 Stat. 974, provided that: "The amendments made by subsections (m) and (n) \[amending this section\] shall be effective with respect to services provided after June 30, 1973."
 
 #### Effective Date
 
-Pub. L. 92–603, title II, §226(f), Oct. 30, 1972, 86 Stat. 1404, provided that: “The amendments made by this section \[enacting this section, amending sections 1395f, 1395l, 1395ll, and 1396b of this title, and enacting provisions set out as notes under this section\] shall be effective with respect to services provided on or after July 1, 1973.”
+Pub. L. 92–603, title II, §226(f), Oct. 30, 1972, 86 Stat. 1404, provided that: "The amendments made by this section \[enacting this section, amending sections 1395f, 1395l, 1395ll, and 1396b of this title, and enacting provisions set out as notes under this section\] shall be effective with respect to services provided on or after July 1, 1973."
 
 #### Report on Impact
 
-Pub. L. 105–33, title IV, §4002(b)(2)(B), Aug. 5, 1997, 111 Stat. 329, provided that: “By not later than January 1, 2001, the Secretary of Health and Human Services shall submit to Congress a report that analyzes the potential impact of termination of reasonable cost reimbursement contracts, pursuant to the amendment made by subparagraph (A), on medicare beneficiaries enrolled under such contracts and on the medicare program. The report shall include such recommendations regarding any extension or transition with respect to such contracts as the Secretary deems appropriate.”
+Pub. L. 105–33, title IV, §4002(b)(2)(B), Aug. 5, 1997, 111 Stat. 329, provided that: "By not later than January 1, 2001, the Secretary of Health and Human Services shall submit to Congress a report that analyzes the potential impact of termination of reasonable cost reimbursement contracts, pursuant to the amendment made by subparagraph (A), on medicare beneficiaries enrolled under such contracts and on the medicare program. The report shall include such recommendations regarding any extension or transition with respect to such contracts as the Secretary deems appropriate."
 
 #### Transition Rule for PSO Enrollment
 
-Pub. L. 105–33, title IV, §4002(h), Aug. 5, 1997, 111 Stat. 330, provided that: “In applying subsection (g)(1) of section 1876 of the Social Security Act (42 U.S.C. 1395mm) to a risk-sharing contract entered into with an eligible organization that is a provider-sponsored organization (as defined in section 1855(d)(1) of such Act \[section 1395w–25(d)(1) of this title\], as inserted by section 5001 \[4001\]) for a contract year beginning on or after January 1, 1998, there shall be substituted for the minimum number of enrollees provided under such section the minimum number of enrollees permitted under section 1857(b)(1) of such Act \[1395w–27(b)(1) of this title\] (as so inserted).”
+Pub. L. 105–33, title IV, §4002(h), Aug. 5, 1997, 111 Stat. 330, provided that: "In applying subsection (g)(1) of section 1876 of the Social Security Act (42 U.S.C. 1395mm) to a risk-sharing contract entered into with an eligible organization that is a provider-sponsored organization (as defined in section 1855(d)(1) of such Act \[42 U.S.C. 1395w–25(d)(1)\], as inserted by section 5001 \[4001\]) for a contract year beginning on or after January 1, 1998, there shall be substituted for the minimum number of enrollees provided under such section the minimum number of enrollees permitted under section 1857(b)(1) of such Act \[42 U.S.C. 1395w–27(b)(1)\] (as so inserted)."
 
 #### Requirements With Respect to Actuarial Equivalence of AAPCC
 
 Pub. L. 101–508, title IV, §4204(b), Nov. 5, 1990, 104 Stat. 1388–109, as amended by Pub. L. 103–432, title I, §157(a), Oct. 31, 1994, 108 Stat. 4441; Pub. L. 104–316, title I, §122(g), Oct. 19, 1996, 110 Stat. 3837, provided that:
 
-“(1)(A) Not later than October 1, 1995, the Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall submit a proposal to the Congress that provides for revisions to the payment method to be applied in years beginning with 1997 for organizations with a risk-sharing contract under section 1876(g) of the Social Security Act \[subsec. (g) of this section\].
+"(1)(A) Not later than October 1, 1995, the Secretary of Health and Human Services (in this subsection referred to as the 'Secretary') shall submit a proposal to the Congress that provides for revisions to the payment method to be applied in years beginning with 1997 for organizations with a risk-sharing contract under section 1876(g) of the Social Security Act \[42 U.S.C. 1395mm(g)\].
 
-“(B) In proposing the revisions required under subparagraph (A), the Secretary shall consider—
+"(B) In proposing the revisions required under subparagraph (A), the Secretary shall consider—
 
-&emsp;“(i) the difference in costs associated with medicare beneficiaries with differing health status and demographic characteristics; and
+&emsp;"(i) the difference in costs associated with medicare beneficiaries with differing health status and demographic characteristics; and
 
-&emsp;“(ii) the effects of using alternative geographic classifications on the determinations of costs associated with beneficiaries residing in different areas.
+&emsp;"(ii) the effects of using alternative geographic classifications on the determinations of costs associated with beneficiaries residing in different areas.
 
-“(2) Not later than 3 months after the date of submittal of the proposal under paragraph (1), the ComptrollerGeneral shall review the proposal and shall report to Congress on the appropriateness of the proposed modifications.”
+"(2) Not later than 3 months after the date of submittal of the proposal under paragraph (1), the Comptroller General shall review the proposal and shall report to Congress on the appropriateness of the proposed modifications."
 
 \[Amendment by section 122(g) of Pub. L. 104–316 to section 4204(b)(4), (5) of Pub. L. 101–508, set out above, could not be executed, because section 4204(b) of Pub. L. 101–508 did not contain pars. (4) and (5) subsequent to amendment by Pub. L. 103–432.\]
 
@@ -958,111 +960,111 @@ Conscientious objections of health care provider under State law unaffected by e
 
 #### Notice of Methodology Used in Making Announcements Under Subsection (a)(1)(A)
 
-Pub. L. 101–239, title VI, §6206(a)(2), Dec. 19, 1989, 103 Stat. 2244, provided that: “Before July 1, 1990, the Secretary of Health and Human Services shall provide for notice to eligible organizations of the methodology used in making the announcement under section 1876(a)(1)(A) of the Social Security Act \[subsec. (a)(1)(A) of this section\] for 1990.”
+Pub. L. 101–239, title VI, §6206(a)(2), Dec. 19, 1989, 103 Stat. 2244, provided that: "Before July 1, 1990, the Secretary of Health and Human Services shall provide for notice to eligible organizations of the methodology used in making the announcement under section 1876(a)(1)(A) of the Social Security Act \[42 U.S.C. 1395mm(a)(1)(A)\] for 1990."
 
 #### Adjustment of Contracts With Prepaid Health Plans
 
-Pub. L. 101–234, title II, §203(b), Dec. 13, 1989, 103 Stat. 1984, provided that: “Notwithstanding any other provision of this Act \[see Tables for classification\], the amendments made by this Act (other than the repeal of sections 1833(c)(5) and 1834(c)(6) of the Social Security Act \[sections 1395l(c)(5) and 1395m(c)(6) of this title\]) shall not apply to risk-sharing contracts, for contract year 1990—
+Pub. L. 101–234, title II, §203(b), Dec. 13, 1989, 103 Stat. 1984, provided that: "Notwithstanding any other provision of this Act \[see Tables for classification\], the amendments made by this Act (other than the repeal of sections 1833(c)(5) and 1834(c)(6) of the Social Security Act \[42 U.S.C. 1395l(c)(5), 1395m(c)(6)\]) shall not apply to risk-sharing contracts, for contract year 1990—
 
-&emsp;“(1) with eligible organizations under section 1876 of the Social Security Act \[this section\], or
+&emsp;"(1) with eligible organizations under section 1876 of the Social Security Act \[42 U.S.C. 1395mm\], or
 
-&emsp;“(2) with health maintenance organizations under section 1876(i)(2)(A) of such Act \[subsec. (i)(2)(A) of this section\] (as in effect before February 1, 1985), under section 402(a) of the Social Security Amendments of 1967 \[section 1395b–1(a) of this title\], or under section 222(a) of the Social Security Amendments of 1972 \[Pub. L. 92–603, set out as a note under section 1395b–1 of this title\].”
+&emsp;"(2) with health maintenance organizations under section 1876(i)(2)(A) of such Act \[42 U.S.C. 1395mm(i)(2)(A)\] (as in effect before February 1, 1985), under section 402(a) of the Social Security Amendments of 1967 \[42 U.S.C. 1395b–1(a)\], or under section 222(a) of the Social Security Amendments of 1972 \[Pub. L. 92–603, set out as a note under section 1395b–1 of this title\]."
 
 #### Adjustment of Contracts With Prepaid Health Plans
 
-Pub. L. 100–360, title II, §222, July 1, 1988, 102 Stat. 746, as amended by Pub. L. 100–485, title VI, §608(d)(13), Oct. 13, 1988, 102 Stat. 2415, provided that: “The Secretary of Health and Human Services shall—
+Pub. L. 100–360, title II, §222, July 1, 1988, 102 Stat. 746, as amended by Pub. L. 100–485, title VI, §608(d)(13), Oct. 13, 1988, 102 Stat. 2415, provided that: "The Secretary of Health and Human Services shall—
 
-&emsp;“(1) modify contracts under section 1876 of the Social Security Act \[this section\], for portions of contract years occurring after December 31, 1988, to take into account the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1305 of this title\]; and
+&emsp;"(1) modify contracts under section 1876 of the Social Security Act \[42 U.S.C. 1395mm\], for portions of contract years occurring after December 31, 1988, to take into account the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1305 of this title\]; and
 
-&emsp;“(2) require such organizations and organizations paid under section 1833(a)(1)(A) of such Act \[section 1395l(a)(1)(A) of this title\] to make appropriate adjustments (including adjustments in premiums and benefits) in the terms of their agreements with medicare beneficiaries to take into account such amendments.
+&emsp;"(2) require such organizations and organizations paid under section 1833(a)(1)(A) of such Act \[42 U.S.C. 1395l(a)(1)(A)\] to make appropriate adjustments (including adjustments in premiums and benefits) in the terms of their agreements with medicare beneficiaries to take into account such amendments.
 
-> The Secretary shall also provide for appropriate modifications of contracts with health maintenance organizations under section 1876(i)(2)(A) of the Social Security Act \[subsec. (i)(2)(A) of this section\] (as in effect before February 1, 1985), under section 402(a) of the Social Security Amendments of 1967 \[section 1395b–1(a) of this title\], or under section 222(a) of the Social Security Amendments of 1972 \[42 U.S.C. 1395b–1 note\], for portions of contract years occurring after December 31, 1988, so as to apply to such organizations and contracts the requirements imposed by the amendments made by this Act upon an organization with a risk-sharing contract under section 1876 of the Social Security Act.”
+> The Secretary shall also provide for appropriate modifications of contracts with health maintenance organizations under section 1876(i)(2)(A) of the Social Security Act \[42 U.S.C. 1395mm(i)(2)(A)\] (as in effect before February 1, 1985), under section 402(a) of the Social Security Amendments of 1967 \[42 U.S.C. 1395b–1(a)\], or under section 222(a) of the Social Security Amendments of 1972 \[42 U.S.C. 1395b–1 note\], for portions of contract years occurring after December 31, 1988, so as to apply to such organizations and contracts the requirements imposed by the amendments made by this Act upon an organization with a risk-sharing contract under section 1876 of the Social Security Act."
 
 #### Provision of Medicare DRG Rates for Certain Payments and Data on Inpatient Cost Pass-Through Items
 
-Pub. L. 100–203, title IV, §4012(c), Dec. 22, 1987, 101 Stat. 1330–61, as amended by Pub. L. 100–360, title IV, §411(c)(2)(B), July 1, 1988, 102 Stat. 773, provided that: “The Secretary of Health and Human Services shall provide (in machine readable form) to eligible organizations under section 1876 of the Social Security Act \[this section\] medicare DRG rates for payments required by the amendment made by subsection (a) \[amending section 1395cc of this title\] and data on cost pass-through items for all inpatient services provided to medicare beneficiaries enrolled with such organizations.”
+Pub. L. 100–203, title IV, §4012(c), Dec. 22, 1987, 101 Stat. 1330–61, as amended by Pub. L. 100–360, title IV, §411(c)(2)(B), July 1, 1988, 102 Stat. 773, provided that: "The Secretary of Health and Human Services shall provide (in machine readable form) to eligible organizations under section 1876 of the Social Security Act \[42 U.S.C. 1395mm\] medicare DRG rates for payments required by the amendment made by subsection (a) \[amending section 1395cc of this title\] and data on cost pass-through items for all inpatient services provided to medicare beneficiaries enrolled with such organizations."
 
 #### Medicare Payment Demonstration Projects
 
 Pub. L. 100–203, title IV, §4015, Dec. 22, 1987, 101 Stat. 1330–62, as amended by Pub. L. 100–360, title IV, §411(c)(5), as added by Pub. L. 100–485, title VI, §608(d)(19)(C), Oct. 13, 1988, 102 Stat. 2419, provided that:
 
-“(a)
+"(a)
 
 Medicare Insured Group Demonstration Projects.—
 
-&emsp;“(1) The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) may provide for capitation demonstration projects (in this subsection referred to as ‘projects’) with an entity which is an eligible organization with a contract with the Secretary under section 1876 of the Social Security Act \[this section\] or which meets the restrictions and requirements of this subsection. The Secretary may not approve a project unless it meets the requirements of this subsection.
+&emsp;"(1) The Secretary of Health and Human Services (in this subsection referred to as the 'Secretary') may provide for capitation demonstration projects (in this subsection referred to as 'projects') with an entity which is an eligible organization with a contract with the Secretary under section 1876 of the Social Security Act \[42 U.S.C. 1395mm\] or which meets the restrictions and requirements of this subsection. The Secretary may not approve a project unless it meets the requirements of this subsection.
 
-&emsp;“(2) The Secretary may not conduct more than 3 projects and may not expend, from funds under title XVIII of the Social Security Act \[this subchapter\], more than $600,000,000 in any fiscal year for all such projects.
+&emsp;"(2) The Secretary may not conduct more than 3 projects and may not expend, from funds under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], more than $600,000,000 in any fiscal year for all such projects.
 
-&emsp;“(3) The per capita rate of payment under a project—
+&emsp;"(3) The per capita rate of payment under a project—
 
-&emsp;&emsp;“(A) may be based on the adjusted average per capita cost (as defined in section 1876(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\]) determined only with respect to the group of individuals involved (rather than with respect to medicare beneficiaries generally), but
+&emsp;&emsp;"(A) may be based on the adjusted average per capita cost (as defined in section 1876(a)(4) of the Social Security Act \[42 U.S.C. 1395mm(a)(4)\]) determined only with respect to the group of individuals involved (rather than with respect to medicare beneficiaries generally), but
 
-&emsp;&emsp;“(B) the rate of payment may not exceed the lesser of—
+&emsp;&emsp;"(B) the rate of payment may not exceed the lesser of—
 
-&emsp;&emsp;&emsp;“(i) 95 percent of the adjusted average per capita cost described in subparagraph (A), or
+&emsp;&emsp;&emsp;"(i) 95 percent of the adjusted average per capita cost described in subparagraph (A), or
 
-&emsp;&emsp;&emsp;“(ii)(I) in the 4th year or 5th year of a project, 115 percent of the adjusted average per capita cost (as defined in section 1876(a)(4) of such Act \[subsec. (a)(4) of this section\]) for classes of individuals described in section 1876(a)(1)(B) of that Act \[subsec. (a)(1)(B) of this section\], or
+&emsp;&emsp;&emsp;"(ii)(I) in the 4th year or 5th year of a project, 115 percent of the adjusted average per capita cost (as defined in section 1876(a)(4) of such Act \[42 U.S.C. 1395mm(a)(4)\]) for classes of individuals described in section 1876(a)(1)(B) of that Act \[42 U.S.C. 1395mm(a)(1)(B)\], or
 
-&emsp;&emsp;&emsp;“(II) in any subsequent year of a project, 95 percent of the adjusted average per capita cost (as defined in section 1876(a)(4) \[subsec. (a)(4) of this section\]) for such classes.
+&emsp;&emsp;&emsp;"(II) in any subsequent year of a project, 95 percent of the adjusted average per capita cost (as defined in section 1876(a)(4) \[42 U.S.C. 1395mm(a)(4)\]) for such classes.
 
-&emsp;“(4) If the payment amounts made to a project are greater than the costs of the project (as determined by the Secretary or, if applicable, on the basis of adjusted community rates described in section 1876(e)(3) of the Social Security Act \[subsec. (e)(3) of this section\]), the project—
+&emsp;"(4) If the payment amounts made to a project are greater than the costs of the project (as determined by the Secretary or, if applicable, on the basis of adjusted community rates described in section 1876(e)(3) of the Social Security Act \[42 U.S.C. 1395mm(e)(3)\]), the project—
 
-&emsp;&emsp;“(A) may retain the surplus, but not to exceed 5 percent of the average adjusted per capita cost determined in accordance with paragraph (3)(A), and
+&emsp;&emsp;"(A) may retain the surplus, but not to exceed 5 percent of the average adjusted per capita cost determined in accordance with paragraph (3)(A), and
 
-&emsp;&emsp;“(B) with respect to any additional surplus not retained by the project, shall apply such surplus to additional benefits for individuals served by the project or return such surplus to the Secretary.
+&emsp;&emsp;"(B) with respect to any additional surplus not retained by the project, shall apply such surplus to additional benefits for individuals served by the project or return such surplus to the Secretary.
 
-&emsp;“(5) Enrollment under the project shall be voluntary. Individuals enrolled with the project may terminate such enrollment as of the beginning of the first calendar month following the date on which the request is made for such termination. Upon such termination, such individuals shall retain the same rights to other health benefits that such individuals would have had if they had never enrolled with the project without any exclusion or waiting period for pre-existing conditions.
+&emsp;"(5) Enrollment under the project shall be voluntary. Individuals enrolled with the project may terminate such enrollment as of the beginning of the first calendar month following the date on which the request is made for such termination. Upon such termination, such individuals shall retain the same rights to other health benefits that such individuals would have had if they had never enrolled with the project without any exclusion or waiting period for pre-existing conditions.
 
-&emsp;“(6) The requirements of—
+&emsp;"(6) The requirements of—
 
-&emsp;&emsp;“(A) subsection (c)(3)(C) (relating to dissemination of information),
+&emsp;&emsp;"(A) subsection (c)(3)(C) (relating to dissemination of information),
 
-&emsp;&emsp;“(B) subsection (c)(3)(E) (annual statement of rights),
+&emsp;&emsp;"(B) subsection (c)(3)(E) (annual statement of rights),
 
-&emsp;&emsp;“(C) subsection (c)(5) (grievance procedures),
+&emsp;&emsp;"(C) subsection (c)(5) (grievance procedures),
 
-&emsp;&emsp;“(D) subsection (c)(6) (on-going quality),
+&emsp;&emsp;"(D) subsection (c)(6) (on-going quality),
 
-&emsp;&emsp;“(E) subsection (g)(6) (relating to prompt payment of claims),
+&emsp;&emsp;"(E) subsection (g)(6) (relating to prompt payment of claims),
 
-&emsp;&emsp;“(F) subsection (i)(3)(A) and (B) (relating to access to information and termination notices),
+&emsp;&emsp;"(F) subsection (i)(3)(A) and (B) (relating to access to information and termination notices),
 
-&emsp;&emsp;“(G) subsection (i)(6) (relating to providing necessary services), and
+&emsp;&emsp;"(G) subsection (i)(6) (relating to providing necessary services), and
 
-&emsp;&emsp;“(H) subsection (i)(7) (relating to agreements with peer review \[now “quality improvement”\] organizations),
+&emsp;&emsp;"(H) subsection (i)(7) (relating to agreements with peer review \[now "quality improvement"\] organizations),
 
-> &emsp;of section 1876 of the Social Security Act \[this section\] shall apply to a project in the same manner as they apply to eligible organizations with risk-sharing contracts under such section.
+> &emsp;of section 1876 of the Social Security Act \[42 U.S.C. 1395mm\] shall apply to a project in the same manner as they apply to eligible organizations with risk-sharing contracts under such section.
 
-&emsp;“(7) The benefits provided under a project must be at least actuarially equivalent to the combination of the benefits available under title XVIII of the Social Security Act \[this subchapter\] and the benefits available through any alternative plans in which the individual can enroll through the employer. The project shall guarantee the actuarial value of benefits available under the employer plan for the duration of the project.
+&emsp;"(7) The benefits provided under a project must be at least actuarially equivalent to the combination of the benefits available under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] and the benefits available through any alternative plans in which the individual can enroll through the employer. The project shall guarantee the actuarial value of benefits available under the employer plan for the duration of the project.
 
-&emsp;“(8) A project shall comply with all applicable State laws.
+&emsp;"(8) A project shall comply with all applicable State laws.
 
-&emsp;“(9) The Secretary may not authorize a project unless the entity offering the project demonstrates to the satisfaction of the Secretary that it has the necessary financial reserves to pay for any liability for benefits under the project (including those liabilities for health benefits under medicare and any supplemental benefits).
+&emsp;"(9) The Secretary may not authorize a project unless the entity offering the project demonstrates to the satisfaction of the Secretary that it has the necessary financial reserves to pay for any liability for benefits under the project (including those liabilities for health benefits under medicare and any supplemental benefits).
 
-&emsp;“(10) The Comptroller General shall monitor projects under this subsection and shall report periodically (not less often than once every year) to the Committee on Finance of the Senate and the Committee on Energy and Commerce and Committee on Ways and Means of the House of Representatives on the status of such projects and the effect on such projects of the requirements of this section and shall submit a final report to each such committee on the results of such projects.
+&emsp;"(10) The Comptroller General shall monitor projects under this subsection and shall report periodically (not less often than once every year) to the Committee on Finance of the Senate and the Committee on Energy and Commerce and Committee on Ways and Means of the House of Representatives on the status of such projects and the effect on such projects of the requirements of this section and shall submit a final report to each such committee on the results of such projects.
 
-“(b)
+"(b)
 
 Payment Methodology Reform Demonstrations Projects.—
 
-&emsp;“(1) The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) is specifically authorized to conduct demonstration projects under this subsection for the purpose of testing alternative payment methodologies pertaining to capitation payments under title XVIII of the Social Security Act \[this subchapter\], including—
+&emsp;"(1) The Secretary of Health and Human Services (in this subsection referred to as the 'Secretary') is specifically authorized to conduct demonstration projects under this subsection for the purpose of testing alternative payment methodologies pertaining to capitation payments under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], including—
 
-&emsp;&emsp;“(A) computing adjustments to the average per capita cost under section 1876 of such Act \[this section\] on the basis of health status or prior utilization of services, and
+&emsp;&emsp;"(A) computing adjustments to the average per capita cost under section 1876 of such Act \[42 U.S.C. 1395mm\] on the basis of health status or prior utilization of services, and
 
-&emsp;&emsp;“(B) accounting for geographic variations in cost in the adjusted average per capita costs applicable to an eligible organization under such section which differs from payments currently provided on a county-by-county basis.
+&emsp;&emsp;"(B) accounting for geographic variations in cost in the adjusted average per capita costs applicableto an eligible organization under such section which differs from payments currently provided on a county-by-county basis.
 
-&emsp;“(2) No project may be conducted under this subsection—
+&emsp;"(2) No project may be conducted under this subsection—
 
-&emsp;&emsp;“(A) with an entity which is not an eligible organization (as defined in section 1876(b) of the Social Security Act \[subsec. (b) of this section\]), and
+&emsp;&emsp;"(A) with an entity which is not an eligible organization (as defined in section 1876(b) of the Social Security Act \[42 U.S.C. 1395mm(b)\]), and
 
-&emsp;&emsp;“(B) unless the project meets all the requirements of subsections (c) and (i)(3) of section 1876 of such Act \[subsecs. (c) and (i)(3) of this section\].
+&emsp;&emsp;"(B) unless the project meets all the requirements of subsections (c) and (i)(3) of section 1876 of such Act \[42 U.S.C. 1395mm(c), (i)(3)\].
 
-&emsp;“(3) There are authorized to be appropriated to carry out projects under this subsection $5,000,000 in each of fiscal years 1989 and 1990.
+&emsp;"(3) There are authorized to be appropriated to carry out projects under this subsection $5,000,000 in each of fiscal years 1989 and 1990.
 
-“(c)
+"(c)
 
-Application of Provisions.—The provisions of subsection (a)(2) and the first sentence of subsection (b) of section 402 of the Social Security Amendments of 1967 \[section 1395b–1(a)(2), (b) of this title\] shall apply to the demonstration projects under this section in the same manner as they apply to experiments under subsection (a)(1) of that section.”
+Application of Provisions.—The provisions of subsection (a)(2) and the first sentence of subsection (b) of section 402 of the Social Security Amendments of 1967 \[42 U.S.C. 1395b–1(a)(2), (b)\] shall apply to the demonstration projects under this section in the same manner as they apply to experiments under subsection (a)(1) of that section."
 
 \[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to report not less than once every year to certain committees of Congress under section 4015(a)(10) of Pub. L. 100–203, set out above, is listed on page 9), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
@@ -1074,247 +1076,247 @@ Pub. L. 100–203, title IV, §4017, Dec. 22, 1987, 101 Stat. 1330–64, directe
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §532\], Nov. 29, 1999, 113 Stat. 1536, 1501A–388, as amended by Pub. L. 106–554, §1(a)(6) \[title VI, §632(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–566, provided that:
 
-“(a)
+"(a)
 
 Extension.—Notwithstanding any other provision of law, any demonstration project conducted under section 4079 of the Omnibus Budget Reconciliation Act of 1987 (Public Law 100–123 \[Pub. L. 100–203\]; 42 U.S.C. 1395mm note) and conducted for the additional period of 2 years as provided for under section 4019 of BBA \[Pub. L. 105–33, set out as a note below\], shall be conducted for an additional period of 2 years.
 
-“(b)
+"(b)
 
 Terms and Conditions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 January through september 2000.—For the 9-month period beginning with January 2000, any such demonstration project shall be conducted under the same terms and conditions as applied to such demonstration during 1999.
 
-&emsp;“(2)
+&emsp;"(2)
 
 October 2000 through december 2001.—For the 15-month period beginning with October 2000, any such demonstration project shall be conducted under the same terms and conditions as applied to such demonstration during 1999, except that the following modifications shall apply:
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Basic capitation rate.—The basic capitation rate paid for services covered under the project (other than case management services) per enrollee per month and furnished during—
 
-&emsp;&emsp;&emsp;“(i) the period beginning with October 1, 2000, and ending with December 31, 2000, shall be determined by actuarially adjusting the actual capitation rate paid for such services in 1999 for inflation, utilization, and other changes to the CNO service package, and by reducing such adjusted capitation rate by 10 percent in the case of the demonstration sites located in Arizona, Minnesota, and Illinois, and 15 percent for the demonstration site located in New York; and
+&emsp;&emsp;&emsp;"(i) the period beginning with October 1, 2000, and ending with December 31, 2000, shall be determined by actuarially adjusting the actual capitation rate paid for such services in 1999 for inflation, utilization, and other changes to the CNO service package, and by reducing such adjusted capitation rate by 10 percent in the case of the demonstration sites located in Arizona, Minnesota, and Illinois, and 15 percent for the demonstration site located in New York; and
 
-&emsp;&emsp;&emsp;“(ii) 2001 shall be determined by actuarially adjusting the capitation rate determined under clause (i) for inflation, utilization, and other changes to the CNO service package.
+&emsp;&emsp;&emsp;"(ii) 2001 shall be determined by actuarially adjusting the capitation rate determined under clause (i) for inflation, utilization, and other changes to the CNO service package.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Targeted case management fee.—Effective October 1, 2000—
 
-&emsp;&emsp;&emsp;“(i) the case management fee per enrollee per month for—
+&emsp;&emsp;&emsp;"(i) the case management fee per enrollee per month for—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the period described in subparagraph (A)(i) shall be determined by actuarially adjusting the case management fee for 1999 for inflation; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the period described in subparagraph (A)(i) shall be determined by actuarially adjusting the case management fee for 1999 for inflation; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) 2001 shall be determined by actuarially adjusting the amount determined under subclause (I) for inflation; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) 2001 shall be determined by actuarially adjusting the amount determined under subclause (I) for inflation; and
 
-&emsp;&emsp;&emsp;“(ii) such case management fee shall be paid only for enrollees who are classified as moderately frail or frail pursuant to criteria established by the Secretary.
+&emsp;&emsp;&emsp;"(ii) such case management fee shall be paid only for enrollees who are classified as moderately frail or frail pursuant to criteria established by the Secretary.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Greater uniformity in clinical features among sites.—Each project shall implement for each site—
 
-&emsp;&emsp;&emsp;“(i) protocols for periodic telephonic contact with enrollees based on—
+&emsp;&emsp;&emsp;"(i) protocols for periodic telephonic contact with enrollees based on—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the results of such standardized written health assessment; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the results of such standardized written health assessment; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the application of appropriate care planning approaches;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the application of appropriate care planning approaches;
 
-&emsp;&emsp;&emsp;“(ii) disease management programs for targeted diseases (such as congestive heart failure, arthritis, diabetes, and hypertension) that are highly prevalent in the enrolled populations;
+&emsp;&emsp;&emsp;"(ii) disease management programs for targeted diseases (such as congestive heart failure, arthritis, diabetes, and hypertension) that are highly prevalent in the enrolled populations;
 
-&emsp;&emsp;&emsp;“(iii) systems and protocols to track enrollees through hospitalizations, including pre-admission planning, concurrent management during inpatient hospital stays, and post-discharge assessment, planning, and follow-up; and
+&emsp;&emsp;&emsp;"(iii) systems and protocols to track enrollees through hospitalizations, including pre-admission planning, concurrent management during inpatient hospital stays, and post-discharge assessment, planning, and follow-up; and
 
-&emsp;&emsp;&emsp;“(iv) standardized patient educational materials for specified diseases and health conditions.
+&emsp;&emsp;&emsp;"(iv) standardized patient educational materials for specified diseases and health conditions.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Quality improvement.—Each project shall implement at each site once during the 15-month period—
 
-&emsp;&emsp;&emsp;“(i) enrollee satisfaction surveys; and
+&emsp;&emsp;&emsp;"(i) enrollee satisfaction surveys; and
 
-&emsp;&emsp;&emsp;“(ii) reporting on specified quality indicators for the enrolled population.
+&emsp;&emsp;&emsp;"(ii) reporting on specified quality indicators for the enrolled population.
 
-“(c)
+"(c)
 
 Evaluation.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Preliminary report.—Not later than July 1, 2001, the Secretary of Health and Human Services shall submit to the Committees on Ways and Means and Commerce \[now Energy and Commerce\] of the House of Representatives and the Committee on Finance of the Senate a preliminary report that—
 
-&emsp;&emsp;“(A) evaluates such demonstration projects for the period beginning July 1, 1997, and ending December 31, 1999, on a site-specific basis with respect to the impact on per beneficiary spending, specific health utilization measures, and enrollee satisfaction; and
+&emsp;&emsp;"(A) evaluates such demonstration projects for the period beginning July 1, 1997, and ending December 31, 1999, on a site-specific basis with respect to the impact on per beneficiary spending, specific health utilization measures, and enrollee satisfaction; and
 
-&emsp;&emsp;“(B) includes a similar evaluation of such projects for the portion of the extension period that occurs after September 30, 2000.
+&emsp;&emsp;"(B) includes a similar evaluation of such projects for the portion of the extension period that occurs after September 30, 2000.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Final report.—The Secretary shall submit a final report to such Committees on such demonstration projects not later than July 1, 2002. Such report shall include the same elements as the preliminary report required by paragraph (1), but for the period after December 31, 1999.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Methodology for spending comparisons.—Any evaluation of the impact of the demonstration projects on per beneficiary spending included in such reports shall include a comparison of—
 
-&emsp;&emsp;“(A) data for all individuals who—
+&emsp;&emsp;"(A) data for all individuals who—
 
-&emsp;&emsp;&emsp;“(i) were enrolled in such demonstration projects as of the first day of the period under evaluation; and
+&emsp;&emsp;&emsp;"(i) were enrolled in such demonstration projects as of the first day of the period under evaluation; and
 
-&emsp;&emsp;&emsp;“(ii) were enrolled for a minimum of 6 months thereafter; with
+&emsp;&emsp;&emsp;"(ii) were enrolled for a minimum of 6 months thereafter; with
 
-&emsp;&emsp;“(B) data for a matched sample of individuals who are enrolled under part B of title XVIII of the Social Security Act \[part B of this subchapter\] and are not enrolled in such a project, or in a Medicare+Choice plan under part C of such title \[part C of this subchapter\], a plan offered by an eligible organization under section 1876 of such Act \[this section\], or a health care prepayment plan under section 1833(a)(1)(A) of such Act \[section 1395l(a)(1)(A) of this title\].”
+&emsp;&emsp;"(B) data for a matched sample of individuals who are enrolled under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] and are not enrolled in such a project, or in a Medicare+Choice plan under part C of such title \[42 U.S.C. 1395w–21 et seq.\], a plan offered by an eligible organization under section 1876 of such Act \[42 U.S.C. 1395mm\], or a health care prepayment plan under section 1833(a)(1)(A) of such Act \[42 U.S.C. 1395l(a)(1)(A)\]."
 
-\[Pub. L. 106–554, §1(a)(6) \[title VI, §632(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–568, provided that: “The amendments made by subsection (a) \[amending section 1000(a)(6) \[title V, §532\] of Pub. L. 106–113, set out above\] shall be effective as if included in the enactment of section 532 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title V, §532\] (113 Stat. 1501A–388).”\]
+\[Pub. L. 106–554, §1(a)(6) \[title VI, §632(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–568, provided that: "The amendments made by subsection (a) \[amending section 1000(a)(6) \[title V, §532\] of Pub. L. 106–113, set out above\] shall be effective as if included in the enactment of section 532 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title V, §532\] (113 Stat. 1501A–388)."\]
 
-Pub. L. 105–33, title IV, §4019, Aug. 5, 1997, 111 Stat. 347, provided that: “Notwithstanding any other provision of law, demonstration projects conducted under section 4079 of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203, set out as a note below\] may be conducted for an additional period of 2 years, and the deadline for any report required relating to the results of such projects shall be not later than 6 months before the end of such additional period.”
+Pub. L. 105–33, title IV, §4019, Aug. 5, 1997, 111 Stat. 347, provided that: "Notwithstanding any other provision of law, demonstration projects conducted under section 4079 of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203, set out as a note below\] may be conducted for an additional period of 2 years, and the deadline for any report required relating to the results of such projects shall be not later than 6 months before the end of such additional period."
 
 Pub. L. 100–203, title IV, §4079, Dec. 22, 1987, 101 Stat. 1330–121, as amended by Pub. L. 100–360, title IV, §411(h)(8), July 1, 1988, 102 Stat. 787, provided that:
 
-“(a)
+"(a)
 
-In General.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall enter into an agreement with not less than four eligible organizations submitting applications under this section to conduct demonstration projects to provide payment on a prepaid, capitated basis for community nursing and ambulatory care furnished to any individual entitled to benefits under part A and enrolled under part B of title XVIII of the Social Security Act \[part A and part B of this subchapter\] (other than an individual medically determined to have end-stage renal disease) who resides in the geographic area served by the organization and enrolls with such organization (in accordance with subsection (c)(2)).
+In General.—The Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall enter into an agreement with not less than four eligible organizations submitting applications under this section to conduct demonstration projects to provide payment on a prepaid, capitated basis for community nursing and ambulatory care furnished to any individual entitled to benefits under part A and enrolled under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\] (other than an individual medically determined to have end-stage renal disease) who resides in the geographic area served by the organization and enrolls with such organization (in accordance with subsection (c)(2)).
 
-“(b)
+"(b)
 
 Definitions of Community Nursing and Ambulatory Care and Eligible Organization.—As used in this section:
 
-&emsp;“(1) The term ‘community nursing and ambulatory care’ means the following services:
+&emsp;"(1) The term 'community nursing and ambulatory care' means the following services:
 
-&emsp;&emsp;“(A) Part-time or intermittent nursing care furnished by or under the supervision of registered professional nurses.
+&emsp;&emsp;"(A) Part-time or intermittent nursing care furnished by or under the supervision of registered professional nurses.
 
-&emsp;&emsp;“(B) Physical, occupational, or speech therapy.
+&emsp;&emsp;"(B) Physical, occupational, or speech therapy.
 
-&emsp;&emsp;“(C) Social and related services supportive of a plan of ambulatory care.
+&emsp;&emsp;"(C) Social and related services supportive of a plan of ambulatory care.
 
-&emsp;&emsp;“(D) Part-time or intermittent services of a home health aide.
+&emsp;&emsp;"(D) Part-time or intermittent services of a home health aide.
 
-&emsp;&emsp;“(E) Medical supplies (other than drugs and biologicals) and durable medical equipment while under a plan of care.
+&emsp;&emsp;"(E) Medical supplies (other than drugs and biologicals) and durable medical equipment while under a plan of care.
 
-&emsp;&emsp;“(F) Medical and other health services described in paragraphs (2)(H)(ii) and (5) through (9) of section 1861(s) of the Social Security Act \[section 1395x(s)(2)(H)(ii), (5)–(9) of this title\].
+&emsp;&emsp;"(F) Medical and other health services described in paragraphs (2)(H)(ii) and (5) through (9) of section 1861(s) of the Social Security Act \[42 U.S.C. 1395x(s)(2)(H)(ii), (5)–(9)\].
 
-&emsp;&emsp;“(G) Rural health clinic services described in section 1861(aa)(1)(C) of such Act \[section 1395x(aa)(1)(C) of this title\].
+&emsp;&emsp;"(G) Rural health clinic services described in section 1861(aa)(1)(C) of such Act \[42 U.S.C. 1395x(aa)(1)(C)\].
 
-&emsp;&emsp;“(H) Certain other related services listed in section 1915(c)(4)(B) of such Act \[section 1396n(c)(4)(B) of this title\] to the extent the Secretary finds such services are appropriate to prevent the need for institutionalization of a patient.
+&emsp;&emsp;"(H) Certain other related services listed in section 1915(c)(4)(B) of such Act \[42 U.S.C. 1396n(c)(4)(B)\] to the extent the Secretary finds such services are appropriate to prevent the need for institutionalization of a patient.
 
-&emsp;“(2) The term ‘eligible organization’ means a public or private entity, organized under the laws of any State, which meets the following requirements:
+&emsp;"(2) The term 'eligible organization' means a public or private entity, organized under the laws of any State, which meets the following requirements:
 
-&emsp;&emsp;“(A) The entity (or a division or part of such entity) is primarily engaged in the direct provision of community nursing and ambulatory care.
+&emsp;&emsp;"(A) The entity (or a division or part of such entity) is primarily engaged in the direct provision of community nursing and ambulatory care.
 
-&emsp;&emsp;“(B) The entity provides directly, or through arrangements with other qualified personnel, the services described in paragraph (1).
+&emsp;&emsp;"(B) The entity provides directly, or through arrangements with other qualified personnel, the services described in paragraph (1).
 
-&emsp;&emsp;“(C) The entity provides that all nursing care (including services of home health aids) is furnished by or under the supervision of a registered nurse.
+&emsp;&emsp;"(C) The entity provides that all nursing care (including services of home health aids) is furnished by or under the supervision of a registered nurse.
 
-&emsp;&emsp;“(D) The entity provides that all services are furnished by qualified staff and are coordinated by a registered professional nurse.
+&emsp;&emsp;"(D) The entity provides that all services are furnished by qualified staff and are coordinated by a registered professional nurse.
 
-&emsp;&emsp;“(E) The entity has policies governing the furnishing of community nursing and ambulatory care that are developed by registered professional nurses in cooperation with (as appropriate) other professionals.
+&emsp;&emsp;"(E) The entity has policies governing the furnishing of community nursing and ambulatory care that are developed by registered professional nurses in cooperation with (as appropriate) other professionals.
 
-&emsp;&emsp;“(F) The entity maintains clinical records on all patients.
+&emsp;&emsp;"(F) The entity maintains clinical records on all patients.
 
-&emsp;&emsp;“(G) The entity has protocols and procedures to assure, when appropriate, timely referral to or consultation with other health care providers or professionals.
+&emsp;&emsp;"(G) The entity has protocols and procedures to assure, when appropriate, timely referral to or consultation with other health care providers or professionals.
 
-&emsp;&emsp;“(H) The entity complies with applicable State and local laws governing the provision of community nursing and ambulatory care to patients.
+&emsp;&emsp;"(H) The entity complies with applicable State and local laws governing the provision of community nursing and ambulatory care to patients.
 
-&emsp;&emsp;“(I) The requirements of subparagraphs (B), (D), and (E) of section 1876(b)(2) of the Social Security Act \[42 U.S.C. 1395mm(b)(2)(B), (D), (E)\].
+&emsp;&emsp;"(I) The requirements of subparagraphs (B), (D), and (E) of section 1876(b)(2) of the Social Security Act \[42 U.S.C. 1395mm(b)(2)(B), (D), (E)\].
 
-“(c)
+"(c)
 
 Agreements With Eligible Organizations To Conduct Demonstration Projects.—
 
-&emsp;“(1) The Secretary may not enter into an agreement with an eligible organization to conduct a demonstration project under this section unless the organization meets the requirements of this subsection and subsection (e) with respect to members enrolled with the organization under this section.
+&emsp;"(1) The Secretary may not enter into an agreement with an eligible organization to conduct a demonstration project under this section unless the organization meets the requirements of this subsection and subsection (e) with respect to members enrolled with the organization under this section.
 
-&emsp;“(2) The organization shall have an open enrollment period for the enrollment of individuals under this section. The duration of such period of enrollment and any other requirement pertaining to enrollment or termination of enrollment shall be specified in the agreement with the organization.
+&emsp;"(2) The organization shall have an open enrollment period for the enrollment of individuals under this section. The duration of such period of enrollment and any other requirement pertaining to enrollment or termination of enrollment shall be specified in the agreement with the organization.
 
-&emsp;“(3) The organization must provide to members enrolled with the organization under this section, through providers and other persons that meet the applicable requirements of titles XVIII and XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\], community nursing and ambulatory care (as defined in subsection (b)(1)) which is generally available to individuals residing in the geographic area served by the organization, except that the organization may provide such members with such additional health care services as the members may elect, at their option, to have covered.
+&emsp;"(3) The organization must provide to members enrolled with the organization under this section, through providers and other persons that meet the applicable requirements of titles XVIII and XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\], community nursing and ambulatory care (as defined in subsection (b)(1)) which is generally available to individuals residing in the geographic area served by the organization, except that the organization may provide such members with such additional health care services as the members may elect, at their option, to have covered.
 
-&emsp;“(4) The organization must make community nursing and ambulatory care (and such other health care services as such individuals have contracted for) available and accessible to each individual enrolled with the organization under this section, within the area served by the organization, with reasonable promptness and in a manner which assures continuity.
+&emsp;"(4) The organization must make community nursing and ambulatory care (and such other health care services as such individuals have contracted for) available and accessible to each individual enrolled with the organization under this section, within the area served by the organization, with reasonable promptness and in a manner which assures continuity.
 
-&emsp;“(5) Section 1876(c)(5) of the Social Security Act \[subsec. (c)(5) of this section\] shall apply to organizations under this section in the same manner as it applies to organizations under section 1876 of such Act.
+&emsp;"(5) Section 1876(c)(5) of the Social Security Act \[42 U.S.C. 1395mm(c)(5)\] shall apply to organizations under this section in the same manner as it applies to organizations under section 1876 of such Act.
 
-&emsp;“(6) The organization must have arrangements, established in accordance with regulations of the Secretary, for an ongoing quality assurance program for health care services it provides to such individuals under the demonstration project conducted under this section, which program (A) stresses health outcomes and (B) provides review by health care professionals of the process followed in the provision of such health care services.
+&emsp;"(6) The organization must have arrangements, established in accordance with regulations of the Secretary, for an ongoing quality assurance program for health care services it provides to such individuals under the demonstration project conducted under this section, which program (A) stresses health outcomes and (B) provides review by health care professionals of the process followed in the provision of such health care services.
 
-&emsp;“(7) Under a demonstration project under this section—
+&emsp;"(7) Under a demonstration project under this section—
 
-&emsp;&emsp;“(A) the Secretary could require the organization to provide financial or other assurances (including financial risk-sharing) that minimize the inappropriate substitution of other services under title XVIII of such Act \[this subchapter\] for community nursing services; and
+&emsp;&emsp;"(A) the Secretary could require the organization to provide financial or other assurances (including financial risk-sharing) that minimize the inappropriate substitution of other services under title XVIII of such Act \[42 U.S.C. 1395 et seq.\] for community nursing services; and
 
-&emsp;&emsp;“(B) if the Secretary determines that the organization has failed to perform in accordance with the requirements of the project (including meeting financial responsibility requirements under the project, any pattern of disproportionate or inappropriate institutionalization) the Secretary shall, after notice, terminate the project.
+&emsp;&emsp;"(B) if the Secretary determines that the organization has failed to perform in accordance with the requirements of the project (including meeting financial responsibility requirements under the project, any pattern of disproportionate or inappropriate institutionalization) the Secretary shall, after notice, terminate the project.
 
-“(d)
+"(d)
 
 Determination of Per Capita Payment Rates.—
 
-&emsp;“(1) The Secretary shall determine for each 12-month period in which a demonstration project is conducted under this section, and shall announce (in a manner intended to provide notice to interested parties) not later than three months before the beginning of such period, with respect to each eligible organization conducting a demonstration project under this section, a per capita rate of payment for each class of individuals who are enrolled with such organization who are entitled to benefits under part A and enrolled under part B of title XVIII of the Social Security Act \[part A and part B of this subchapter\].
+&emsp;"(1) The Secretary shall determine for each 12-month period in which a demonstration project is conducted under this section, and shall announce (in a manner intended to provide notice to interested parties) not later than three months before the beginning of such period, with respect to each eligible organization conducting a demonstration project under this section, a per capita rate of payment for each class of individuals who are enrolled with such organization who are entitled to benefits under part A and enrolled under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\].
 
-&emsp;“(2)(A) Except as provided in paragraph (3), the per capita rate of payment under paragraph (1) shall be determined in accordance with this paragraph.
+&emsp;"(2)(A) Except as provided in paragraph (3), the per capita rate of payment under paragraph (1) shall be determined in accordance with this paragraph.
 
-&emsp;“(B) The Secretary shall define appropriate classes of members, based on age, disability status, and such other factors as the Secretary determines to be appropriate, so as to ensure actuarial equivalence. The Secretary may add to, modify, or substitute for such classes, if such changes will improve the determination of actuarial equivalence.
+&emsp;"(B) The Secretary shall define appropriate classes of members, based on age, disability status, and such other factors as the Secretary determines to be appropriate, so as to ensure actuarial equivalence. The Secretary may add to, modify, or substitute for such classes, if such changes will improve the determination of actuarial equivalence.
 
-&emsp;“(C) The per capita rate of payment under paragraph (1) for each such class shall be equal to 95 percent of the adjusted average per capita cost (as defined in subparagraph (D)) for that class.
+&emsp;"(C) The per capita rate of payment under paragraph (1) for each such class shall be equal to 95 percent of the adjusted average per capita cost (as defined in subparagraph (D)) for that class.
 
-&emsp;“(D) For purposes of subparagraph (C), the term ‘adjusted average per capita cost’ means the average per capita amount that the Secretary estimates in advance (on the basis of actual experience, or retrospective actuarial equivalent based upon an adequate sample and other information and data, in a geographic area served by an eligible organization or in a similar area, with appropriate adjustments to assure actuarial equivalence) would be payable in any contract year for those services covered under parts A and B of title XVIII of the Social Security Act \[parts A and B of this subchapter\] and types of expenses otherwise reimbursable under such parts A and B which are described in subparagraphs (A) through (G) of subsection (b)(1) (including administrative costs incurred by organizations described in sections 1816 and 1842 of such Act \[sections 1395h and 1395u of this title\]), if the services were to be furnished by other than an eligible organization.
+&emsp;"(D) For purposes of subparagraph (C), the term 'adjusted average per capita cost' means the average per capita amount that the Secretary estimates in advance (on the basis of actual experience, or retrospective actuarial equivalent based upon an adequate sample and other information and data, in a geographic area served by an eligible organization or in a similar area, with appropriate adjustments to assure actuarial equivalence) would be payable in any contract year for those services covered under parts A and B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\] and types of expenses otherwise reimbursable under such parts A and B which are described in subparagraphs (A) through (G) of subsection (b)(1) (including administrative costs incurred by organizations described in sections 1816 and 1842 of such Act \[42 U.S.C. 1395h, 1395u\]), if the services were to be furnished by other than an eligible organization.
 
-&emsp;“(3) The Secretary shall, in consultation with providers, health policy experts, and consumer groups develop capitation-based reimbursement rates for such classes of individuals entitled to benefits under part A and enrolled under part B of the Social Security Act \[probably means parts A and B of title XVIII of that Act, this subchapter\] as the Secretary shall determine. Such rates shall be applied in determining per capita rates of payment under paragraph (1) with respect to at least one eligible organization conducting a demonstration project under this section.
+&emsp;"(3) The Secretary shall, in consultation with providers, health policy experts, and consumer groups develop capitation-based reimbursement rates for such classes of individuals entitled to benefits under part A and enrolled under part B of the Social Security Act \[probably means parts A and B of title XVIII of that Act, 42 U.S.C. 1395c et seq., 1395j et seq.\] as the Secretary shall determine. Such rates shall be applied in determining per capita rates of payment under paragraph (1) with respect to at least one eligible organization conducting a demonstration project under this section.
 
-&emsp;“(4)(A) In the case of an eligible organization conducting a demonstration project under this section, the Secretary shall make monthly payments in advance and in accordance with the rate determined under paragraph (2) or (3), except as provided in subsection (e)(3)(B), to the organization for each individual enrolled with the organization.
+&emsp;"(4)(A) In the case of an eligible organization conducting a demonstration project under this section, the Secretary shall make monthly payments in advance and in accordance with the rate determined under paragraph (2) or (3), except as provided in subsection (e)(3)(B), to the organization for each individual enrolled with the organization.
 
-&emsp;“(B) The amount of payment under paragraph (2) or (3) may be retroactively adjusted to take into account any difference between the actual number of individuals enrolled in the plan under this section and the number of such individuals estimated to be so enrolled in determining the amount of the advance payment.
+&emsp;"(B) The amount of payment under paragraph (2) or (3) may be retroactively adjusted to take into account any difference between the actual number of individuals enrolled in the plan under this section and the number of such individuals estimated to be so enrolled in determining the amount of the advance payment.
 
-&emsp;“(5) The payment to an eligible organization under this section for individuals enrolled under this section with the organization and entitled to benefits under part A and enrolled under part B of the Social Security Act shall be made from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund established under such Act \[this chapter\] in such proportions from each such trust fund as the Secretary deems to be fair and equitable taking into consideration benefits attributable to such parts A and B, respectively.
+&emsp;"(5) The payment to an eligible organization under this section for individuals enrolled under this section with the organization and entitled to benefits under part A and enrolled under part B of the Social Security Act shall be made from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund established under such Act \[42 U.S.C. 301 et seq.\] in such proportions from each such trust fund as the Secretary deems to be fair and equitable taking into consideration benefits attributable to such parts A and B, respectively.
 
-&emsp;“(6) During any period in which an individual is enrolled with an eligible organization conducting a demonstration project under this section, only the eligible organization (and no other individual or person) shall be entitled to receive payments from the Secretary under this title \[probably means title XVIII of the Social Security Act, this subchapter\] for community nursing and ambulatory care (as defined in subsection (b)(1)) furnished to the individual.
+&emsp;"(6) During any period in which an individual is enrolled with an eligible organization conducting a demonstration project under this section, only the eligible organization (and no other individual or person) shall be entitled to receive payments from the Secretary under this title \[probably means title XVIII of the Social Security Act, 42 U.S.C. 1395 et seq.\] for community nursing and ambulatory care (as defined in subsection (b)(1)) furnished to the individual.
 
-“(e)
+"(e)
 
 Restriction on Premiums, Deductibles, Copayments, and Coinsurance.—
 
-&emsp;“(1) In no case may the portion of an eligible organization's premium rate and the actuarial value of its deductibles, coinsurance, and copayments charged (with respect to community nursing and ambulatory care) to individuals who are enrolled under this section with the organization, exceed the actuarial value of the coinsurance and deductibles that would be applicable on the average to individuals enrolled under this section with the organization (or, if the Secretary finds that adequate data are not available to determine that actuarial value, the actuarial value of the coinsurance and deductibles applicable on the average to individuals in the area, in the State, or in the United States, eligible to enroll under this section with the organization, or other appropriate data) and entitled to benefits under part A and enrolled under part B of the Social Security Act \[probably means parts A and B of title XVIII of that Act, this subchapter\], if they were not members of an eligible organization.
+&emsp;"(1) In no case may the portion of an eligible organization's premium rate and the actuarial value of its deductibles, coinsurance, and copayments charged (with respect to community nursing and ambulatory care) to individuals who are enrolled under this section with the organization, exceed the actuarial value of the coinsurance and deductibles that would be applicable on the average to individuals enrolled under this section with the organization (or, if the Secretary finds that adequate data are not available to determine that actuarial value, the actuarial value of the coinsurance and deductibles applicable on the average to individuals in the area, in the State, or in the United States, eligible to enroll under this section with the organization, or other appropriate data) and entitled to benefits under part A and enrolled under part B of the Social Security Act \[probably means parts A and B of title XVIII of that Act, 42 U.S.C. 1395c et seq., 1395j et seq.\], if they were not members of an eligible organization.
 
-&emsp;“(2) If the eligible organization provides to its members enrolled under this section services in addition to community nursing and ambulatory care, election of coverage for such additional services shall be optional for such members and such organization shall furnish such members with information on the portion of its premium rate or other charges applicable to such additional services. In no case may the sum of—
+&emsp;"(2) If the eligible organization provides to its members enrolled under this section services in addition to community nursing and ambulatory care, election of coverage for such additional services shall be optional for such members and such organization shall furnish such members with information on the portion of its premium rate or other charges applicable to such additional services. In no case may the sum of—
 
-&emsp;&emsp;“(A) the portion of such organization's premium rate charged, with respect to such additional services, to members enrolled under this section, and
+&emsp;&emsp;"(A) the portion of such organization's premium rate charged, with respect to such additional services, to members enrolled under this section, and
 
-&emsp;&emsp;“(B) the actuarial value of its deductibles, coinsurance, and copayments charged, with respect to such services to such members
+&emsp;&emsp;"(B) the actuarial value of its deductibles, coinsurance, and copayments charged, with respect to such services to such members
 
-> &emsp;exceed the adjusted community rate for such services (as defined in section 1876(e)(3) of the Social Security Act \[subsec. (e)(3) of this section\]).
+> &emsp;exceed the adjusted community rate for such services (as defined in section 1876(e)(3) of the Social Security Act \[42 U.S.C. 1395mm(e)(3)\]).
 
-&emsp;“(3)(A) Subject to subparagraphs (B) and (C), each agreement to conduct a demonstration project under this section shall provide that if—
+&emsp;"(3)(A) Subject to subparagraphs (B) and (C), each agreement to conduct a demonstration project under this section shall provide that if—
 
-&emsp;&emsp;“(i) the adjusted community rate, referred to in paragraph (2), for community nursing and ambulatory care covered under parts A and B of title XVIII of the Social Security Act \[parts A and B of this subchapter\] (as reduced for the actuarial value of the coinsurance and deductibles under those parts) for members enrolled under this section with the organization,
+&emsp;&emsp;"(i) the adjusted community rate, referred to in paragraph (2), for community nursing and ambulatory care covered under parts A and B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\] (as reduced for the actuarial value of the coinsurance and deductibles under those parts) for members enrolled under this section with the organization,
 
 > &emsp;is less than
 
-&emsp;&emsp;“(ii) the average of the per capita rates of payment to be made under subsection (d)(1) at the beginning of the 12-month period (as determined on such basis as the Secretary determines appropriate) described in such subsection for members enrolled under this section with the organization,
+&emsp;&emsp;"(ii) the average of the per capita rates of payment to be made under subsection (d)(1) at the beginning of the 12-month period (as determined on such basis as the Secretary determines appropriate) described in such subsection for members enrolled under this section with the organization,
 
-> &emsp;the eligible organization shall provide to such members the additional benefits described in section 1876(g)(3) of the Social Security Act \[subsec. (g)(3) of this section\] which are selected by the eligible organization and which the Secretary finds are at least equal in value to the difference between that average per capita payment and the adjusted community rate (as so reduced).
+> &emsp;the eligible organization shall provide to such members the additional benefits described in section 1876(g)(3) of the Social Security Act \[42 U.S.C. 1395mm(g)(3)\] which are selected by the eligible organization and which the Secretary finds are at least equal in value to the difference between that average per capita payment and the adjusted community rate (as so reduced).
 
-&emsp;“(B) Subparagraph (A) shall not apply with respect to any organization which elects to receive a lesser payment to the extent that there is no longer a difference between the average per capita payment and adjusted community rate (as so reduced).
+&emsp;"(B) Subparagraph (A) shall not apply with respect to any organization which elects to receive a lesser payment to the extent that there is no longer a difference between the average per capita payment and adjusted community rate (as so reduced).
 
-&emsp;“(C) An organization conducting a demonstration project under this section may provide (with the approval of the Secretary) that a part of the value of such additional benefits under subparagraph (A) be withheld and reserved by the Secretary as provided in section 1876(g)(5) of the Social Security Act \[subsec. (g)(5) of this section\].
+&emsp;"(C) An organization conducting a demonstration project under this section may provide (with the approval of the Secretary) that a part of the value of such additional benefits under subparagraph (A) be withheld and reserved by the Secretary as provided in section 1876(g)(5) of the Social Security Act \[42 U.S.C. 1395mm(g)(5)\].
 
-&emsp;“(4) The provisions of paragraphs (3), (5), and (6) of section 1876(g) of the Social Security Act \[subsec. (g)(3), (5), and (6) of this section\] shall apply in the same manner to agreements under this section as they apply to risk-sharing contracts under section 1876 of such Act, and, for this purpose, any reference in such paragraphs to paragraph (2) is deemed a reference to paragraph (3) of this subsection.
+&emsp;"(4) The provisions of paragraphs (3), (5), and (6) of section 1876(g) of the Social Security Act \[42 U.S.C. 1395mm(g)(3), (5), (6)\] shall apply in the same manner to agreements under this section as they apply to risk-sharing contracts under section 1876 of such Act, and, for this purpose, any reference in such paragraphs to paragraph (2) is deemed a reference to paragraph (3) of this subsection.
 
-&emsp;“(5) Section 1876(e)(4) of the Social Security Act \[subsec. (e)(4) of this section\] shall apply to eligible organizations under this section in the same manner as it applies to eligible organizations under section 1876 of such Act.
+&emsp;"(5) Section 1876(e)(4) of the Social Security Act \[42 U.S.C. 1395mm(e)(4)\] shall apply to eligible organizations under this section in the same manner as it applies to eligible organizations under section 1876 of such Act.
 
-“(f)
+"(f)
 
 Commencement and Duration of Projects.—Each demonstration project under this section shall begin not later than July 1, 1989, and shall be conducted for a period of three years.
 
-“(g)
+"(g)
 
-Report.—Not later than January 1, 1992, the Secretary shall submit to the Congress a report on the results of the demonstration projects conducted under this section.”
+Report.—Not later than January 1, 1992, the Secretary shall submit to the Congress a report on the results of the demonstration projects conducted under this section."
 
 #### Study of AAPCC and ACR
 
-Pub. L. 99–509, title IX, §9312(g), Oct. 21, 1986, 100 Stat. 2001, directed Secretary of Health and Human Services to provide, through contract with an appropriate organization, for a study of the methods by which the adjusted average per capita cost (“AAPCC”, as defined in subsec. (a)(4) of this section) can be refined to more accurately reflect the average cost of providing care to different classes of patients, and the adjusted community rate (“ACR”, as defined in subsec. (e)(3) of this section) can be refined, with Secretary to submit to Congress, by not later than Jan. 1, 1988, specific legislative recommendations concerning methods by which the calculation of the AAPCC and the ACR could be refined.
+Pub. L. 99–509, title IX, §9312(g), Oct. 21, 1986, 100 Stat. 2001, directed Secretary of Health and Human Services to provide, through contract with an appropriate organization, for a study of the methods by which the adjusted average per capita cost ("AAPCC", as defined in subsec. (a)(4) of this section) can be refined to more accurately reflect the average cost of providing care to different classes of patients, and the adjusted community rate ("ACR", as defined in subsec. (e)(3) of this section) can be refined, with Secretary to submit to Congress, by not later than Jan. 1, 1988, specific legislative recommendations concerning methods by which the calculation of the AAPCC and the ACR could be refined.
 
 #### Allowing Medicare Beneficiaries To Disenroll at Local Social Security Offices
 
-Pub. L. 99–509, title IX, §9312(h), Oct. 21, 1986, 100 Stat. 2002, provided that: “The Secretary of Health and Human Services shall provide that individuals enrolled with an eligible organization under section 1876 of the Social Security Act \[this section\] may disenroll, on and after June 1, 1987, at any local office of the Social Security Administration.”
+Pub. L. 99–509, title IX, §9312(h), Oct. 21, 1986, 100 Stat. 2002, provided that: "The Secretary of Health and Human Services shall provide that individuals enrolled with an eligible organization under section 1876 of the Social Security Act \[42 U.S.C. 1395mm\] may disenroll, on and after June 1, 1987, at any local office of the Social Security Administration."
 
 #### Use of Reserve Funds
 
-Pub. L. 99–509, title IX, §9312(i), Oct. 21, 1986, 100 Stat. 2002, provided that: “Notwithstanding any provision of section 1876(g)(5) of the Social Security Act (42 U.S.C. 1395mm(g)(5)) to the contrary, funds reserved by an eligible organization under such section before the date of the enactment of this Act \[Oct. 21, 1986\] may be applied, at the organization's option, to offset the amount of any reduction in payment amounts to the organization effected under Public Law 99–177 \[Dec. 12, 1985, 99 Stat. 1037, see Tables for classification\] during fiscal year 1986.”
+Pub. L. 99–509, title IX, §9312(i), Oct. 21, 1986, 100 Stat. 2002, provided that: "Notwithstanding any provision of section 1876(g)(5) of the Social Security Act (42 U.S.C. 1395mm(g)(5)) to the contrary, funds reserved by an eligible organization under such section before the date of the enactment of this Act \[Oct. 21, 1986\] may be applied, at the organization's option, to offset the amount of any reduction in payment amounts to the organization effected under Public Law 99–177 \[Dec. 12, 1985, 99 Stat. 1037, see Tables for classification\] during fiscal year 1986."
 
 #### Phase-in of Enrollment Period by Secretary
 
-Pub. L. 98–369, div. B, title III, §2350(a)(2), July 18, 1984, 98 Stat. 1098, provided that: “The Secretary of Health and Human Services may phase in, over a period of not longer than three years, the application of the amendments made by paragraph (1) \[amending this section\] to all applicable areas in the United States if the Secretary determines that it is not administratively feasible to establish a single 30-day open enrollment period for all such applicable areas before the end of the period.”
+Pub. L. 98–369, div. B, title III, §2350(a)(2), July 18, 1984, 98 Stat. 1098, provided that: "The Secretary of Health and Human Services may phase in, over a period of not longer than three years, the application of the amendments made by paragraph (1) \[amending this section\] to all applicable areas in the United States if the Secretary determines that it is not administratively feasible to establish a single 30-day open enrollment period for all such applicable areas before the end of the period."
 
 #### Stabilization Fund; Establishment Limitation; Uses; Report to Congress
 
@@ -1326,17 +1328,17 @@ Pub. L. 97–248, title I, §114(d), Sept. 3, 1982, 96 Stat. 352, directed Secre
 
 #### Study Evaluating the Extent of, and Reasons for, Termination by Medicare Beneficiaries of Membership in Organizations With Contracts Under This Section
 
-Pub. L. 97–248, title I, §114(e), Sept. 3, 1982, 96 Stat. 352, directed Secretary of Health and Human Services to conduct a study evaluating the extent of, and reasons for, the termination by medicare beneficiaries of their memberships in organizations with contracts under section 1876 of the Social Security Act (this section), with Secretary to submit an interim report to Congress, within two years after the initial effective date (as defined in subsec. (c)(4) of section 114 of Pub. L. 97–248), and a final report within five years after such date containing the respective interim and final findings and conclusions made as a result of such study.
+Pub. L. 97–248, title I, §114(e), Sept. 3, 1982, 96 Stat. 352, directed Secretary of Health and Human Services to conduct a study evaluating the extent of, and reasons for, the termination by medicare beneficiaries of their memberships in organizations with contracts under section 1876 of the Social Security Act (this section), with Secretary to submit an interim report to Congress, within two years after the initial effective date (as defined in subsec. (c)(4) of section 114 of Pub. L. 97–248), and a final report within five years aftersuch date containing the respective interim and final findings and conclusions made as a result of such study.
 
 #### Reimbursement for Services
 
 Pub. L. 92–603, title II, §226(b), Oct. 30, 1972, 86 Stat. 1403, provided that:
 
-“(1) Notwithstanding the provisions of section 1814 and section 1833 of the Social Security Act \[sections 1395f and 1395l of this title\], any health maintenance organization which has entered into a contract with the Secretary pursuant to section 1876 of such Act \[this section\] shall, for the duration of such contract, (except as provided in paragraph (2)) be entitled to reimbursement only as provided in section 1876 of such Act \[this section\] for individuals who are members of such organizations.
+"(1) Notwithstanding the provisions of section 1814 and section 1833 of the Social Security Act \[42 U.S.C. 1395f, 1395l\], any health maintenance organization which has entered into a contract with the Secretary pursuant to section 1876 of such Act \[42 U.S.C. 1395mm\] shall, for the duration of such contract, (except as provided in paragraph (2)) be entitled to reimbursement only as provided in section 1876 of such Act \[42 U.S.C. 1395mm\] for individuals who are members of such organizations.
 
-“(2) With respect to individuals who are members of organizations which have entered into a risk-sharing contract with the Secretary pursuant to subsection (i)(2)(A) \[of this section\] prior to July 1, 1973, and who, although eligible to have payment made pursuant to section 1876 of such Act \[this section\] for services rendered to them, chose (in accordance with regulations) not to have such payment made pursuant to such section, the Secretary shall, for a period not to exceed three years commencing on July 1, 1973, pay to such organization on the basis of an interim per capita rate, determined in accordance with the provisions of section 1876(a)(2) of such Act \[subsec. (a)(2) of this section\], with appropriate actuarial adjustments to reflect the difference in utilization of out-of-plan services, which would have been considered sufficiently reasonable and necessary under the rules of the health maintenance organization to be provided by that organization, between such individuals and individuals who are enrolled with such organization pursuant to section 1876 of such Act \[this section\]. Payments under this paragraph shall be subject to retroactive adjustment at the end of each contract year as provided in paragraph (3).
+"(2) With respect to individuals who are members of organizations which have entered into a risk-sharing contract with the Secretary pursuant to subsection (i)(2)(A) \[of this section\] prior to July 1, 1973, and who, although eligible to have payment made pursuant to section 1876 of such Act \[42 U.S.C. 1395mm\] for services rendered to them, chose (in accordance with regulations) not to have such payment made pursuant to such section, the Secretary shall, for a period not to exceed three years commencing on July 1, 1973, pay to such organization on the basis of an interim per capita rate, determined in accordance with the provisions of section 1876(a)(2) of such Act \[42 U.S.C. 1395mm(a)(2)\], with appropriate actuarial adjustments to reflect the difference in utilization of out-of-plan services, which would have been considered sufficiently reasonable and necessary under the rules of the health maintenance organization to be provided by that organization, between such individuals and individuals who are enrolled with such organization pursuant to section 1876 of such Act \[42 U.S.C. 1395mm\]. Payments under this paragraph shall be subject to retroactive adjustment at the end of each contract year as provided in paragraph (3).
 
-“(3) If the Secretary determines that the per capita cost of any such organization in any contract year for providing services to individuals described in paragraph (2), when combined with the cost of the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such year for providing out-of-plan services to such individuals, is less than or greater than the adjusted average per capita cost (as defined in section 1876(a)(3) of such Act) \[subsec. (a)(3) of this section\] of providing such services, the resulting savings shall be apportioned between such organization and such Trust Funds, or the resulting losses shall be absorbed by such organization, in the manner prescribed in section 1876(a)(3) of such Act \[subsec. (a)(3) of this section\].”
+"(3) If the Secretary determines that the per capita cost of any such organization in any contract year for providing services to individuals described in paragraph (2), when combined with the cost of the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such year for providing out-of-plan services to such individuals, is less than or greater than the adjusted average per capita cost (as defined in section 1876(a)(3) of such Act) \[42 U.S.C. 1395mm(a)(3)\] of providing such services, the resulting savings shall be apportioned between such organization and such Trust Funds, or the resulting losses shall be absorbed by such organization, in the manner prescribed in section 1876(a)(3) of such Act \[42 U.S.C. 1395mm(a)(3)\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

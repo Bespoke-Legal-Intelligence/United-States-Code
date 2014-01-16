@@ -6,5 +6,5 @@ In all cases where private property shall be taken by the United States for the 
 
 #### Codification
 
-Section is from act July 18, 1918, popularly known as the “Rivers and Harbors Appropriation Act of 1918”.
+Section is from act July 18, 1918, popularly known as the "Rivers and Harbors Appropriation Act of 1918".
 

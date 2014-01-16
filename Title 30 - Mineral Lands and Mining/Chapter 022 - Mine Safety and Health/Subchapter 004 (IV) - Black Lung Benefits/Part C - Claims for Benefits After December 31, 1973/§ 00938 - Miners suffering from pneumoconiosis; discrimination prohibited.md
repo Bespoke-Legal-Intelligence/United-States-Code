@@ -2,7 +2,7 @@
 
 #### (a) Mine operators
 
-No operator shall discharge or in any other way discriminate against any miner employedby him by reason of the fact that such miner is suffering from pneumoconiosis. No person shall cause or attempt to cause an operator to violate this section. For the purposes of this subsection the term “miner” shall not include any person who has been found to be totally disabled.
+No operator shall discharge or in any other way discriminate against any miner employed by him by reason of the fact that such miner is suffering from pneumoconiosis. No person shall cause or attempt to cause an operator to violate this section. For the purposes of this subsection the term "miner" shall not include any person who has been found to be totally disabled.
 
 #### (b) Determination by Secretary; procedure
 
@@ -16,9 +16,9 @@ Whenever an order is issued under this subsection granting relief to a miner at 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–509 amended seventh sentence generally, substituting “determined under section 5372 of title 5” for “not less than that prescribed for GS–16 under section 5332 of title 5”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–509 amended seventh sentence generally, substituting "determined under section 5372 of title 5" for "not less than that prescribed for GS–16 under section 5332 of title 5".
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–251 substituted "administrative law judge" for "hearing examiner".
 
 #### Effective Date of 1990 Amendment
 

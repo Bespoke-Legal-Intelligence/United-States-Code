@@ -30,7 +30,7 @@
 
 #### (6) Supplement, not supplant
 
-&emsp;Funds made available under this section shall be used to supplement, and not supplant, other Federal, State, or local funds used for providing school-based counseling and mental health services to students.
+&emsp;Funds made available under this section shall be used to supplement, and not supplant,other Federal, State, or local funds used for providing school-based counseling and mental health services to students.
 
 #### (b) Applications
 
@@ -100,19 +100,19 @@ Not more than 4 percent of the amounts made available under this section for any
 
 For the purpose of this section—
 
-&emsp;(1) the term “child and adolescent psychiatrist” means an individual who—
+&emsp;(1) the term "child and adolescent psychiatrist" means an individual who—
 
 &emsp;&emsp;(A) possesses State medical licensure; and
 
 &emsp;&emsp;(B) has completed residency training programs in both general psychiatry and child and adolescent psychiatry;
 
-&emsp;(2) the term “other qualified psychologist” means an individual who has demonstrated competence in counseling children in a school setting and who—
+&emsp;(2) the term "other qualified psychologist" means an individual who has demonstrated competence in counseling children in a school setting and who—
 
 &emsp;&emsp;(A) is licensed in psychology by the State in which the individual works; and
 
 &emsp;&emsp;(B) practices in the scope of the individual's education, training, and experience with children in school settings;
 
-&emsp;(3) the term “school counselor” means an individual who has documented competence in counseling children and adolescents in a school setting and who—
+&emsp;(3) the term "school counselor" means an individual who has documented competence in counseling children and adolescents in a school setting and who—
 
 &emsp;&emsp;(A) is licensed by the State or certified by an independent professional regulatory authority;
 
@@ -120,7 +120,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(C) holds a minimum of a master's degree in school counseling from a program accredited by the Council for Accreditation of Counseling and Related Educational Programs or the equivalent;
 
-&emsp;(4) the term “school psychologist” means an individual who—
+&emsp;(4) the term "school psychologist" means an individual who—
 
 &emsp;&emsp;(A) has completed a minimum of 60 graduate semester hours in school psychology from an institution of higher education and has completed 1,200 clock hours in a supervised school psychology internship, of which 600 hours are in the school setting;
 
@@ -128,7 +128,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(C) in the absence of such State licensure or certification, possesses national certification by the National School Psychology Certification Board; and
 
-&emsp;(5) the term “school social worker” means an individual who—
+&emsp;(5) the term "school social worker" means an individual who—
 
 &emsp;&emsp;(A) holds a master's degree in social work from a program accredited by the Council on Social Work Education; and
 
@@ -158,7 +158,7 @@ Not later than 2 years after assistance is made available to local educational a
 
 #### (2) Amount less than $40,000,000
 
-&emsp;If the amount of funds made available by the Secretary for this subpart is less than$40,000,000, the Secretary shall award grants to local educational agencies only to establish or expand counseling programs in elementary schools.
+&emsp;If the amount of funds made available by the Secretary for this subpart is less than $40,000,000, the Secretary shall award grants to local educational agencies only to establish or expand counseling programs in elementary schools.
 
 (Pub. L. 89–10, title V, §5421, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1814.)
 

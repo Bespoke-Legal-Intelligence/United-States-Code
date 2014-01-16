@@ -24,15 +24,15 @@ Oct. 26, 1970, Pub. L. 91–510, §235(a), 84 Stat. 1171.
 
 Oct. 26, 1970, Pub. L. 91–510, 84 Stat. 1140, §235(c); added Oct. 11, 1971, Pub. L. 92–136, §8, 85 Stat. 378.
 
-In the section, the words “officer or” are added for consistency in the revised title and with other titles of the United States Code.
+In the section, the words "officer or" are added for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), the words “Notwithstanding any other provision of law” are omitted as surplus. The word “continuous” is substituted for “on a continuing basis” to eliminate unnecessary words. The words “committee of Congress” are substituted for “committee of the Senate or House of Representatives or with any joint committee of Congress” for consistency and to eliminate unnecessary words. The words “any period of” are omitted as surplus.
+In subsection (a), the words "Notwithstanding any other provision of law" are omitted as surplus. The word "continuous" is substituted for "on a continuing basis" to eliminate unnecessary words. The words "committee of Congress" are substituted for "committee of the Senate or House of Representatives or with any joint committee of Congress" for consistency and to eliminate unnecessary words. The words "any period of" are omitted as surplus.
 
-In subsection (b), the words “Comptroller General” are substituted for “General Accounting Office” for consistency. The word “pay” is substituted for “salary” for consistency in the revised title and with other titles of the Code.
+In subsection (b), the words "Comptroller General" are substituted for "General Accounting Office" for consistency. The word "pay" is substituted for "salary" for consistency in the revised title and with other titles of the Code.
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1984</b>—Pub. L. 98–367 struck out designation of provisions as “(a)” and struck out subsec. (b) which read as follows: “A committee of the Senate or a joint committee of Congress for which the Secretary of the Senate disburses amounts shall reimburse the Comptroller General for the pay of each officer or employee of the Office for the time the officer or employee is assigned or detailed to the committee or joint committee.”
+<b>1984</b>—Pub. L. 98–367 struck out designation of provisions as "(a)" and struck out subsec. (b) which read as follows: "A committee of the Senate or a joint committee of Congress for which the Secretary of the Senate disburses amounts shall reimburse the Comptroller General for the pay of each officer or employee of the Office for the time the officer or employee is assigned or detailed to the committee or joint committee."
 

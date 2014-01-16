@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;In the case of an eligible crop described in paragraph (2), the Secretary of Agriculture shall operate a noninsured crop disaster assistance program to provide coverage equivalent to the catastrophic risk protection otherwise available under section 1508(b) of this title. The Secretary shall carry out this section through the Consolidated Farm Service Agency (in this section referred to as the “Agency”).
+&emsp;In the case of an eligible crop described in paragraph (2), the Secretary of Agriculture shall operate a noninsured crop disaster assistance program to provide coverage equivalent to the catastrophic risk protection otherwise available under section 1508(b) of this title. The Secretary shall carry out this section through the Consolidated Farm Service Agency (in this section referred to as the "Agency").
 
 #### (2) Eligible crops
 
 #### (A) In general
 
-&emsp;&emsp;In this section, the term “eligible crop” means each commercial crop or other agricultural commodity (except livestock)—
+&emsp;&emsp;In this section, the term "eligible crop" means each commercial crop or other agricultural commodity (except livestock)—
 
 &emsp;&emsp;&emsp;(i) for which catastrophic risk protection under section 1508(b) of this title is not available; and
 
@@ -18,7 +18,7 @@
 
 #### (B) Crops specifically included
 
-&emsp;&emsp;The term “eligible crop” shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seedcrops, aquaculture (including ornamental fish), sea grass and sea oats, camelina, and industrial crops.
+&emsp;&emsp;The term "eligible crop" shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seedcrops, aquaculture (including ornamental fish), sea grass and sea oats, camelina, and industrial crops.
 
 #### (C) Combination of similar types or varieties
 
@@ -32,7 +32,7 @@
 
 #### (A) Definition of native sod
 
-&emsp;&emsp;In this paragraph, the term “native sod” means land—
+&emsp;&emsp;In this paragraph, the term "native sod" means land—
 
 &emsp;&emsp;&emsp;(i) on which the plant cover is composed principally of native grasses, grasslike plants, forbs, or shrubs suitable for grazing and browsing; and
 
@@ -182,7 +182,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (1) Definitions
 
-&emsp;In this subsection, the terms “legal entity” and “person” have the meanings given those terms in section 1308(a) of this title.
+&emsp;In this subsection, the terms "legal entity" and "person" have the meanings given those terms in section 1308(a) of this title.
 
 #### (2) Payment limitation
 
@@ -248,35 +248,35 @@ Section is comprised of section 196 of Pub. L. 104–127. Subsec. (j) of section
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2)(B). Pub. L. 110–246, §12025(b), inserted “camelina,” after “sea oats,”.
+<b>2008</b>—Subsec. (a)(2)(B). Pub. L. 110–246, §12025(b), inserted "camelina," after "sea oats,".
 
 Subsec. (a)(4). Pub. L. 110–246, §12020(b), added par. (4).
 
 Subsec. (c)(2). Pub. L. 110–246, §12027, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (i)(1), (2). Pub. L. 110–246, §1603(f)(1)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which defined “person” and “qualifying gross revenues” and provided that the total amount of payments that a person would be entitled to receive annually could not exceed $100,000.
+Subsec. (i)(1), (2). Pub. L. 110–246, §1603(f)(1)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which defined "person" and "qualifying gross revenues" and provided that the total amount of payments that a person would be entitled to receive annually could not exceed $100,000.
 
-Subsec. (i)(4). Pub. L. 110–246, §1603(f)(1)(B), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “A person who has qualifying gross revenues in excess of the amount specified in section 2266(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 1421 note) (as in effect on November 28, 1990) during the taxable year (as determined by the Secretary) shall not be eligible to receive any noninsured assistance payment under this section.”
+Subsec. (i)(4). Pub. L. 110–246, §1603(f)(1)(B), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "A person who has qualifying gross revenues in excess of the amount specified in section 2266(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 1421 note) (as in effect on November 28, 1990) during the taxable year (as determined by the Secretary) shall not be eligible to receive any noninsured assistance payment under this section."
 
 Subsec. (i)(5). Pub. L. 110–246, §1603(f)(1)(C), designated part of existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (k)(1). Pub. L. 110–246, §12028, in subpar. (A) substituted “$250” for “$100” and in subpar. (B) substituted “$750” for “$300” and “$1,875” for “$900”.
+Subsec. (k)(1). Pub. L. 110–246, §12028, in subpar. (A) substituted "$250" for "$100" and in subpar. (B) substituted "$750" for "$300" and "$1,875" for "$900".
 
-<b>2002</b>—Subsec. (a)(2)(B). Pub. L. 107–171 inserted “sea grass and sea oats,” after “fish),”.
+<b>2002</b>—Subsec. (a)(2)(B). Pub. L. 107–171 inserted "sea grass and sea oats," after "fish),".
 
 <b>2000</b>—Subsec. (a)(2)(C). Pub. L. 106–224, §109(a), added subpar. (C).
 
-Subsec. (b)(1). Pub. L. 106–224, §109(b), substituted “not later than 30 days before the beginning of the coverage period, as determined by the Secretary” for “at such time as the Secretary may require” in second sentence.
+Subsec. (b)(1). Pub. L. 106–224, §109(b), substituted "not later than 30 days before the beginning of the coverage period, as determined by the Secretary" for "at such time as the Secretary may require" in second sentence.
 
-Subsec. (b)(2). Pub. L. 106–224, §109(c)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “A producer shall provide records, as required by the Secretary, of crop acreage, acreage yields, and production.”
+Subsec. (b)(2). Pub. L. 106–224, §109(c)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "A producer shall provide records, as required by the Secretary, of crop acreage, acreage yields, and production."
 
-Subsec. (b)(3). Pub. L. 106–224, §109(c)(2), inserted “annual” after “shall provide”.
+Subsec. (b)(3). Pub. L. 106–224, §109(c)(2), inserted "annual" after "shall provide".
 
 Subsec. (c). Pub. L. 106–224, §109(d), added subsec. (c) and struck out heading and text of former subsec. (c), which authorized noninsured crop disaster assistance if average yield fell below 65 percent of expected yield, if producer was prevented from planting more than 35 percent of intended acreage, or if total quantity of harvest was less than 50 percent of expected yield.
 
 Subsec. (k). Pub. L. 106–224, §109(e), added subsec. (k).
 
-1998–Subsec. (i)(3). Pub. L. 105–277 designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), if a producer” for “If a producer”, and added subpar. (B).
+1998–Subsec. (i)(3). Pub. L. 105–277 designated existing provisions as subpar. (A), inserted heading, substituted "Except as provided in subparagraph (B), if a producer" for "If a producer", and added subpar. (B).
 
 #### Effective Date of 2008 Amendment
 
@@ -288,7 +288,7 @@ Amendment by Pub. L. 106–224 applicable beginning with the 2001 crop of an agr
 
 #### Transition Provisions
 
-Pub. L. 110–234, title I, §1603(f)(2), May 22, 2008, 122 Stat. 1011, and Pub. L. 110–246, §4(a), title I, §1603(f)(2), June 18, 2008, 122 Stat. 1664, 1739, provided that: “Section 196(i) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333(i)), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crops of any eligible crop.”
+Pub. L. 110–234, title I, §1603(f)(2), May 22, 2008, 122 Stat. 1011, and Pub. L. 110–246, §4(a), title I, §1603(f)(2), June 18, 2008, 122 Stat. 1664, 1739, provided that: "Section 196(i) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333(i)), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crops of any eligible crop."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

@@ -28,7 +28,7 @@ Regulations.—The Secretary concerned, or his designated representative, may pr
 
 (e)
 
-Definition.—In this section, the term “academy cadet or midshipman” means—
+Definition.—In this section, the term "academy cadet or midshipman" means—
 
 &emsp;(1) a cadet of the United States Military Academy;
 
@@ -72,27 +72,27 @@ Aug. 9, 1946, ch. 931, §10 (less applicability to payment for leave); added Aug
 
 Aug. 9, 1946, ch. 931, §2(f) (last 8 words), 60 Stat. 963.
 
-In subsection (a), the words “outside the United States or in Alaska or Hawaii” are substituted for the words “outside the continental limits of the United States” to conform to the interpretation of those words in other sections of title 10 and revised title 37.
+In subsection (a), the words "outside the United States or in Alaska or Hawaii" are substituted for the words "outside the continental limits of the United States" to conform to the interpretation of those words in other sections of title 10 and revised title 37.
 
-In subsections (a) and (b), the words “, or his designated representative,” are substituted for the last 8 words of section 32(f) of existing title 37.
+In subsections (a) and (b), the words ", or his designated representative," are substituted for the last 8 words of section 32(f) of existing title 37.
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b)(2). Pub. L. 106–398 substituted “section 203(c)” for “section 230(c)”.
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–398 substituted "section 203(c)" for "section 230(c)".
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–261, §562(c)(1), inserted heading.
 
 Subsec. (b). Pub. L. 105–261, §562(a)(3), added subsec. (b). Former first and second sentences of subsec. (b) redesignated subsecs. (c) and (d), respectively.
 
-Subsec. (c). Pub. L. 105–261, §562(a)(2), (b)(1), (c)(2), redesignated first sentence of subsec. (b) as subsec. (c), inserted heading, and substituted “academy cadets or midshipmen” for “cadets at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, midshipmen at the United States Naval Academy,”.
+Subsec. (c). Pub. L. 105–261, §562(a)(2), (b)(1), (c)(2), redesignated first sentence of subsec. (b) as subsec. (c), inserted heading, and substituted "academy cadets or midshipmen" for "cadets at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, midshipmen at the United States Naval Academy,".
 
 Subsec. (d). Pub. L. 105–261, §562(a)(1), (c)(3), redesignated second sentence of subsec. (b) as subsec. (d) and inserted heading.
 
 Subsec. (e). Pub. L. 105–261, §562(b)(2), added subsec. (e).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–160 struck out “regular” before “component” in first sentence.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160 struck out "regular" before "component" in first sentence.
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted “Sections 701, 703, and 704 of this title and subsection (a)” for “Sections 701, 702(a), 703, and 704 of this chapter”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted "Sections 701, 703, and 704 of this title and subsection (a)" for "Sections 701, 702(a), 703, and 704 of this chapter".
 
 #### Effective Date of 1980 Amendment
 

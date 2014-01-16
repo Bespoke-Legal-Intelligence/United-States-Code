@@ -8,7 +8,7 @@
 
 #### (2) Definition
 
-&emsp;In this section, the term “youth” means an individual who is not less than age 14 and not more than age 21.
+&emsp;In this section, the term "youth" means an individual who is not less than age 14 and not more than age 21.
 
 #### (3) Grant period
 
@@ -104,7 +104,7 @@ To be eligible to receive a grant under this section, a local board or entity sh
 
 #### Amendments
 
-<b>1999</b>—Subsec. (d)(2)(B). Pub. L. 106–113 substituted “or Alaska Natives.” for “or Alaska Native villages or Native groups (as such terms are defined in section 1602 of title 43).”
+<b>1999</b>—Subsec. (d)(2)(B). Pub. L. 106–113 substituted "or Alaska Natives." for "or Alaska Native villages or Native groups (as such terms are defined in section 1602 of title 43)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

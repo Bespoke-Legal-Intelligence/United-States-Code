@@ -24,7 +24,7 @@ Time-in-Grade Requirements.—(1) An officer who is on the active-duty list of t
 
 Continued Eligibility for Consideration for Promotion of Officers Who Have Previously Failed of Selection.—(1) Except as provided in paragraph (2), an officer who has failed of selection for promotion to the next higher grade remains eligible for consideration for promotion to that grade as long as he continues on active duty in other than a retired status and is not promoted.
 
-(2) Paragraph (1) does not apply to a regular officer who is ineligible for consideration forpromotion under section 631(c) of this title or to a reserve officer who has failed of selection for promotion to the grade of captain or, in the case of an officer of the Navy, lieutenant for the second time.
+(2) Paragraph (1) does not apply to a regular officer who is ineligible for consideration for promotion under section 631(c) of this title or to a reserve officer who has failed of selection for promotion to the grade of captain or, in the case of an officer of the Navy, lieutenant for the second time.
 
 (c)
 
@@ -70,19 +70,19 @@ Certain Officers Not To Be Considered.—A selection board convened under sectio
 
 &emsp;(5) An officer in the grade of captain or, in the case of the Navy, lieutenant who is not a citizen of the United States.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July 10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L.105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §§504, 505(c)(1)(A), Dec. 28, 2001, 115 Stat. 1085, 1087; Pub. L. 108–375, div. A, title V, §501(a)(3)(B), Oct. 28, 2004, 118 Stat. 1873; Pub. L. 109–364, div. A, title V, §506, Oct. 17, 2006, 120 Stat. 2179.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §§504, 505(c)(1)(A), Dec. 28, 2001, 115 Stat. 1085, 1087; Pub. L. 108–375, div. A, title V, §501(a)(3)(B), Oct. 28, 2004, 118 Stat. 1873; Pub. L. 109–364, div. A, title V, §506, Oct. 17, 2006, 120 Stat. 2179.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–364 substituted “October 1, 2008” for “October 1, 2005”.
+<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–364 substituted "October 1, 2008" for "October 1, 2005".
 
 <b>2004</b>—Subsec. (d)(5). Pub. L. 108–375 added par. (5).
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107, §504(b)(1), inserted heading.
 
-Subsec. (a)(1)(B). Pub. L. 107–107, §504(a), inserted “, except that the minimum period of service in effect under this subparagraph before October 1, 2005, shall be eighteen months” before period at end.
+Subsec. (a)(1)(B). Pub. L. 107–107, §504(a), inserted ", except that the minimum period of service in effect under this subparagraph before October 1, 2005, shall be eighteen months" before period at end.
 
-Subsec. (a)(4). Pub. L. 107–107, §504(c), substituted “subparagraph (A)” for “clause (A)”.
+Subsec. (a)(4). Pub. L. 107–107, §504(c), substituted "subparagraph (A)" for "clause (A)".
 
 Subsec. (b). Pub. L. 107–107, §504(b)(2), inserted heading.
 
@@ -92,63 +92,63 @@ Subsec. (d). Pub. L. 107–107, §504(b)(4), inserted heading.
 
 Subsec. (d)(4). Pub. L. 107–107, §505(c)(1)(A), added par. (4).
 
-<b>1997</b>—Subsec. (d). Pub. L. 105–85, §503(a)(1), substituted “grade any of the following officers:” for “grade—” in introductory provisions.
+<b>1997</b>—Subsec. (d). Pub. L. 105–85, §503(a)(1), substituted "grade any of the following officers:" for "grade—" in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 105–85, §503(a)(2), substituted “An officer” for “an officer” and a period for “; or”.
+Subsec. (d)(1). Pub. L. 105–85, §503(a)(2), substituted "An officer" for "an officer" and a period for "; or".
 
 Subsec. (d)(2). Pub. L. 105–85, §503(a)(4), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (d)(3). Pub. L. 105–85, §503(a)(3), redesignated par. (2) as (3) and substituted “An officer” for “an officer”.
+Subsec. (d)(3). Pub. L. 105–85, §503(a)(3), redesignated par. (2) as (3) and substituted "An officer" for "an officer".
 
 <b>1994</b>—Pub. L. 103–337 made technical correction to directory language of Pub. L. 103–160, §931(c)(1). See 1993 Amendment note below.
 
-<b>1993</b>—Pub. L. 103–160, §931(c)(1), as amended by Pub. L. 103–337, inserted “: time-in-grade and other requirements” in section catchline.
+<b>1993</b>—Pub. L. 103–160, §931(c)(1), as amended by Pub. L. 103–337, inserted ": time-in-grade and other requirements" in section catchline.
 
 Subsec. (e). Pub. L. 103–160, §931(b), struck out subsec. (e) which specified certain requirements for appointment to grade of brigadier general or rear admiral (lower half). See section 619a of this title.
 
 <b>1991</b>—Subsec. (c)(2). Pub. L. 102–190, §504(d)(1), added subpar. (A), redesignated subpars. (C) and (D) as (B) and (C) respectively, and struck out former subpars. (A) and (B) which read as follows:
 
-“(A) may, by regulation, prescribe procedures to limit the officers to be considered by a selection board—
+"(A) may, by regulation, prescribe procedures to limit the officers to be considered by a selection board—
 
-&emsp;“(i) from below the promotion zone; or
+&emsp;"(i) from below the promotion zone; or
 
-&emsp;“(ii) in the case of a selection board to recommend officers for promotion to the grade of brigadier general or rear admiral (lower half),
+&emsp;"(ii) in the case of a selection board to recommend officers for promotion to the grade of brigadier general or rear admiral (lower half),
 
 > to those officers who are determined to be exceptionally well qualified for promotion;
 
-“(B) may, by regulation, prescribe criteria for determining which officers below the promotion zone or in the grades of colonel and, in the case of officers of the Navy, captain are exceptionally well qualified for promotion for the purposes of clause (A);”.
+"(B) may, by regulation, prescribe criteria for determining which officers below the promotion zone or in the grades of colonel and, in the case of officers of the Navy, captain are exceptionally well qualified for promotion for the purposes of clause (A);".
 
 Subsec. (c)(3). Pub. L. 102–190, §504(d)(2), added par. (3).
 
-<b>1988</b>—Subsec. (e)(1). Pub. L. 100–456, §515(a)(1)(A), substituted “January 1, 1994” for “January 1, 1992” in second sentence.
+<b>1988</b>—Subsec. (e)(1). Pub. L. 100–456, §515(a)(1)(A), substituted "January 1, 1994" for "January 1, 1992" in second sentence.
 
-Subsec. (e)(2)(D), (E). Pub. L. 100–456, §515(b)(1), added subpars. (D) and (E) and struck out former subpar. (D) which read as follows: “until January 1, 1992, in the case of an officer who served before October 1, 1986, in an assignment (other than a joint duty assignment) that involved significant experience in joint matters (as determined by the Secretary).”
+Subsec. (e)(2)(D), (E). Pub. L. 100–456, §515(b)(1), added subpars. (D) and (E) and struck out former subpar. (D) which read as follows: "until January 1, 1992, in the case of an officer who served before October 1, 1986, in an assignment (other than a joint duty assignment) that involved significant experience in joint matters (as determined by the Secretary)."
 
-Subsec. (e)(3)(C). Pub. L. 100–456, §515(b)(2), substituted “paragraph (2) (other than under subparagraph (A) of that paragraph)” for “paragraph (2)(B), (2)(C), or (2)(D)”.
+Subsec. (e)(3)(C). Pub. L. 100–456, §515(b)(2), substituted "paragraph (2) (other than under subparagraph (A) of that paragraph)" for "paragraph (2)(B), (2)(C), or (2)(D)".
 
 Subsec. (e)(5). Pub. L. 100–456, §515(a)(1)(B), added par. (5).
 
-<b>1987</b>—Subsec. (e)(1). Pub. L. 100–180, §1305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An officer may not be selected for promotion to the grade of brigadier general or rear admiral (lower half) unless the officer has served in a joint duty assignment.”
+<b>1987</b>—Subsec. (e)(1). Pub. L. 100–180, §1305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "An officer may not be selected for promotion to the grade of brigadier general or rear admiral (lower half) unless the officer has served in a joint duty assignment."
 
-Subsec. (e)(2)(D). Pub. L. 100–180, §1314(b)(4), substituted “October 1, 1986,” for “the date of the enactment of this subsection”.
+Subsec. (e)(2)(D). Pub. L. 100–180, §1314(b)(4), substituted "October 1, 1986," for "the date of the enactment of this subsection".
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–433 added subsec. (e).
 
-<b>1985</b>—Subsecs. (a)(2)(B), (c)(2)(A)(ii). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsecs. (a)(2)(B), (c)(2)(A)(ii). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–525, §525(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), an officer” for “An officer”, and added par. (2).
+<b>1984</b>—Subsec. (b). Pub. L. 98–525, §525(a), designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), an officer" for "An officer", and added par. (2).
 
 Subsec. (c)(2)(D). Pub. L. 98–525, §525(b), added subpar. (D).
 
-Subsec. (d)(2). Pub. L. 98–525, §529(a), struck out “Navy or” before “Marine Corps” and struck out “lieutenant commander or” before “major”.
+Subsec. (d)(2). Pub. L. 98–525, §529(a), struck out "Navy or" before "Marine Corps" and struck out "lieutenant commander or" before "major".
 
-<b>1981</b>—Subsec. (a)(2)(B). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+<b>1981</b>—Subsec. (a)(2)(B). Pub. L. 97–86 substituted "commodore" for "commodore admiral".
 
-Subsec. (c)(2)(A). Pub. L. 97–22, §4(c)(1), struck out “and” after “promotion;”.
+Subsec. (c)(2)(A). Pub. L. 97–22, §4(c)(1), struck out "and" after "promotion;".
 
-Subsec. (c)(2)(A)(ii). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+Subsec. (c)(2)(A)(ii). Pub. L. 97–86 substituted "commodore" for "commodore admiral".
 
-Subsec. (c)(2)(B). Pub. L. 97–22, §4(c)(2), substituted “for the purposes of clause (A); and” for the period at end of cl. (B).
+Subsec. (c)(2)(B). Pub. L. 97–22, §4(c)(2), substituted "for the purposes of clause (A); and" for the period at end of cl. (B).
 
 Subsec. (c)(2)(C). Pub. L. 97–22, §4(c)(3), added cl. (C).
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 108–375 effective on the first day of the first month beg
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title V, §503(d), Nov. 18, 1997, 111 Stat. 1725, provided that: “The amendments made by this section \[amending this section and section 14301 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1997\] and shall apply with respect to selection boards that are convened under section 611(a), 14101(a), or 14502 of title 10, United States Code, on or after that date.”
+Pub. L. 105–85, div. A, title V, §503(d), Nov. 18, 1997, 111 Stat. 1725, provided that: "The amendments made by this section \[amending this section and section 14301 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1997\] and shall apply with respect to selection boards that are convened under section 611(a), 14101(a), or 14502 of title 10, United States Code, on or after that date."
 
 #### Effective Date of 1994 Amendment
 
@@ -166,7 +166,7 @@ Pub. L. 103–337, div. A, title X, §1070(b), Oct. 5, 1994, 108 Stat. 2856, pro
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–190 applicable to selection boards convened under section 611(a) of this title after end of 60-day period beginning Dec. 5, 1991, see section 504(e) of Pub. L. 102–190, set out as a note under section 615 of this title.
+Amendment by Pub. L. 102–190 applicable to selection boards convened under section 611(a) of this title afterend of 60-day period beginning Dec. 5, 1991, see section 504(e) of Pub. L. 102–190, set out as a note under section 615 of this title.
 
 #### Effective Date of 1981 Amendment
 

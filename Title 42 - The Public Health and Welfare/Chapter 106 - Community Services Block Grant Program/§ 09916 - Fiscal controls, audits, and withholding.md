@@ -22,7 +22,7 @@
 
 #### (B) Single audit requirements
 
-&emsp;&emsp;Audits shall be conducted under this paragraph in the manner and to the extent provided in chapter 75 of title 31 (commonly known as the “Single Audit Act Amendments of 1996”).
+&emsp;&emsp;Audits shall be conducted under this paragraph in the manner and to the extent provided in chapter 75 of title 31 (commonly known as the "Single Audit Act Amendments of 1996").
 
 #### (C) Submission of copies
 

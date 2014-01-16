@@ -12,7 +12,7 @@ Authority.—At the request of a federal agency, a mixed-ownership Government co
 
 (b)
 
-Transfer of Amounts.—An amount available to a federal agency or instrumentality for a building or project may be transferred, in advance, to the General Services Administration for purposes the Administrator determines are necessary, including payment of salaries and expenses for preparing plans and specifications and for field supervision.
+Transfer of Amounts.—An amount available to a federal agency or instrumentality fora building or project may be transferred, in advance, to the General Services Administration for purposes the Administrator determines are necessary, including payment of salaries and expenses for preparing plans and specifications and for field supervision.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1111.)
 
@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title II, §210(c), as added Sept. 5, 1950, ch. 849, §5(c), 64 Stat. 582.
 
-In subsection (a), the words “mixed-ownership Government corporation” are substituted for “mixed-ownership corporation” for consistency in the subsection and with chapter 91 of title 31. The words “chapter 91 of title 31” are substituted for “the Government Corporation Control Act” in section 210(c) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
+In subsection (a), the words "mixed-ownership Government corporation" are substituted for "mixed-ownership corporation" for consistency in the subsection and with chapter 91 of title 31. The words "chapter 91 of title 31" are substituted for "the Government Corporation Control Act" in section 210(c) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
-In subsection (b), the words “salaries and expenses for preparing plans and specifications and for field supervision” are substituted for “salaries and expenses of personnel engaged in the preparation of plans and specifications or in field supervision, and for general office expenses to be incurred in the rendition of any such service” to eliminate unnecessary words.
+In subsection (b), the words "salaries and expenses for preparing plans and specifications and for field supervision" are substituted for "salaries and expenses of personnel engaged in the preparation of plans and specifications or in field supervision, and for general office expenses to be incurred in the rendition of any such service" to eliminate unnecessary words.
 

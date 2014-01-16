@@ -6,7 +6,7 @@
 
 (c) The remaining ten members of the Board shall be selected as follows:
 
-&emsp;(1) Five shall be appointed initially by the Attorney General of the United States for staggered terms; one member shall serve for one year, one member for two years, and threemembers for three years. Upon the expiration of each member's term, the Attorney General shall appoint successors who will each serve for a term of three years. Each member selected shall be qualified as a practitioner (Federal, State, or local) in the field of corrections, probation, or parole.
+&emsp;(1) Five shall be appointed initially by the Attorney General of the United States for staggered terms; one member shall serve for one year, one member for two years, and three members for three years. Upon the expiration of each member's term, the Attorney General shall appoint successors who will each serve for a term of three years. Each member selected shall be qualified as a practitioner (Federal, State, or local) in the field of corrections, probation, or parole.
 
 &emsp;(2) Five shall be appointed initially by the Attorney General of the United States for staggered terms, one member shall serve for one year, three members for two years, and one member for three years. Upon the expiration of each member's term the Attorney General shall appoint successors who will each serve for a term of three years. Each member selected shall be from the private sector, such as business, labor, and education, having demonstrated an active interest in corrections, probation, or parole.
 
@@ -28,11 +28,11 @@ The Office of Juvenile Justice and Delinquency Prevention, referred to in subsec
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted “Director of the Bureau of Justice Assistance” for “Administrator of the Law Enforcement Assistance Administration”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted "Director of the Bureau of Justice Assistance" for "Administrator of the Law Enforcement Assistance Administration".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–473 substituted “Sentencing Commission” for “Parole Board”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–473 substituted "Sentencing Commission" for "Parole Board".
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–115 substituted “Associate” for “Deputy Assistant” and “Office of” for “National Institute for”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–115 substituted "Associate" for "Deputy Assistant" and "Office of" for "National Institute for".
 
 #### Change of Name
 
@@ -52,7 +52,7 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Termination of Advisory Boards
 

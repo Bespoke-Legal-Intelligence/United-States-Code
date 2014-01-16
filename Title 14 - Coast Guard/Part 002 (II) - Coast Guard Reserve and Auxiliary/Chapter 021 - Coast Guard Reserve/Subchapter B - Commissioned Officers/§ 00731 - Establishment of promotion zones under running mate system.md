@@ -30,21 +30,21 @@ Provisions similar to those in this section were contained in section 783 of thi
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–295 inserted before period at end “, or in the event that promotion is not determined in accordance with a running mate system, then a Reserve officer becomes eligible for consideration for promotion to the next higher grade at the beginning of the promotion year in which he or she completes the following amount of service computed from the date of rank in the grade in which he or she is serving:
+<b>2002</b>—Subsec. (b). Pub. L. 107–295 inserted before period at end ", or in the event that promotion is not determined in accordance with a running mate system, then a Reserve officer becomes eligible for consideration for promotion to the next higher grade at the beginning of the promotion year in which he or she completes the following amount of service computed from the date of rank in the grade in which he or she is serving:
 
-&emsp;“(1) two years in the grade of lieutenant (junior grade);
+&emsp;"(1) two years in the grade of lieutenant (junior grade);
 
-&emsp;“(2) three years in the grade of lieutenant;
+&emsp;"(2) three years in the grade of lieutenant;
 
-&emsp;“(3) four years in the grade of lieutenant commander;
+&emsp;"(3) four years in the grade of lieutenant commander;
 
-&emsp;“(4) four years in the grade of commander; and
+&emsp;"(4) four years in the grade of commander; and
 
-&emsp;“(5) three years in the grade of captain”.
+&emsp;"(5) three years in the grade of captain".
 
-<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §502(b)(2)(A)\], substituted “Establishment of promotion zones under running mate system” for “Placement in promotion zone; consideration for promotion” as section catchline.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §502(b)(2)(A)\], substituted "Establishment of promotion zones under running mate system" for "Placement in promotion zone; consideration for promotion" as section catchline.
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §502(b)(1)\], added subsec. (a), designated existing provisions as subsec. (b), inserted subsec. (b) heading and substituted “If promotion zones are determined as authorized under subsection (a), a Reserve officer shall, subject to the eligibility requirements of this subchapter,” for “Subject to the eligibility requirements of this subchapter, a Reserve officer shall”, and added subsec. (c).
+Pub. L. 106–398, §1 \[\[div. A\], title V, §502(b)(1)\], added subsec. (a), designated existing provisions as subsec. (b), inserted subsec. (b) heading and substituted "If promotion zones are determined as authorized under subsection (a), a Reserve officer shall, subject to the eligibility requirements of this subchapter," for "Subject to the eligibility requirements of this subchapter, a Reserve officer shall", and added subsec. (c).
 
 #### Effective Date of 2000 Amendment
 

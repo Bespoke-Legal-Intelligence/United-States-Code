@@ -6,33 +6,33 @@ For purposes of this subchapter—
 
 #### (1) Crude oil
 
-&emsp;The term “crude oil” includes crude oil condensates and natural gasoline.
+&emsp;The term "crude oil" includes crude oil condensates and natural gasoline.
 
 #### (2) Domestic crude oil
 
-&emsp;The term “domestic crude oil” means any crude oil produced from a well located in the United States.
+&emsp;The term "domestic crude oil" means any crude oil produced from a well located in the United States.
 
 #### (3) Petroleum product
 
-&emsp;The term “petroleum product” includes crude oil.
+&emsp;The term "petroleum product" includes crude oil.
 
 #### (4) United States
 
 #### (A) In general
 
-&emsp;&emsp;The term “United States” means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, any possession of the United States, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
+&emsp;&emsp;The term "United States" means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, any possession of the United States, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
 #### (B) United States includes continental shelf areas
 
-&emsp;&emsp;The principles of section 638 shall apply for purposes of the term “United States”.
+&emsp;&emsp;The principles of section 638 shall apply for purposes of the term "United States".
 
 #### (C) United States includes foreign trade zones
 
-&emsp;&emsp;The term “United States” includes any foreign trade zone of the United States.
+&emsp;&emsp;The term "United States" includes any foreign trade zone of the United States.
 
 #### (5) United States refinery
 
-&emsp;The term “United States refinery” means any facility in the United States at which crude oil is refined.
+&emsp;The term "United States refinery" means any facility in the United States at which crude oil is refined.
 
 #### (6) Refineries which produce natural gasoline
 
@@ -40,11 +40,11 @@ For purposes of this subchapter—
 
 #### (7) Premises
 
-&emsp;The term “premises” has the same meaning as when used for purposes of determining gross income from the property under section 613.
+&emsp;The term "premises" has the same meaning as when used for purposes of determining gross income from the property under section 613.
 
 #### (8) Barrel
 
-&emsp;The term “barrel” means 42 United States gallons.
+&emsp;The term "barrel" means 42 United States gallons.
 
 #### (9) Fractional part of barrel
 
@@ -76,7 +76,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 &emsp;(2) the amount of such payments taken into account under this subsection for all prior periods.
 
-> The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline Liability Fund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. For purposes of this subsection, all taxpayers which would be members of the same affiliated group (as defined in section 1504(a)) if section 1504(a)(2) were applied by substituting “100 percent” for “80 percent” shall be treated as 1 taxpayer.
+> The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline Liability Fund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. For purposes of this subsection, all taxpayers which would be members of the same affiliated group (as defined in section 1504(a)) if section 1504(a)(2) were applied by substituting "100 percent" for "80 percent" shall be treated as 1 taxpayer.
 
 #### (e) Income tax credit for unused payments into Trans-Alaska Pipeline Liability Fund
 
@@ -104,7 +104,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 &emsp;&emsp;&emsp;The amount determined under this clause with respect to any taxpayer is the excess of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of credit which would have been allowed under subsection (d) to the taxpayer for periods before the termination date specified in section 4611(f)(1), if amounts in the Trans-Alaska Pipeline Liability Fund which are actually transferred into theOil Spill Liability Fund were tranferred <sup>1</sup> on January 1, 1990, and the Oil Spill Liability Trust Fund financing rate did not terminate before such termination date, over
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of credit which would have been allowed under subsection (d) to the taxpayer for periods before the termination date specified in section 4611(f)(1), if amounts in the Trans-Alaska Pipeline Liability Fund which are actually transferred into the Oil Spill Liability Fund were tranferred <sup>1</sup> on January 1, 1990, and the Oil Spill Liability Trust Fund financing rate did not terminate before such termination date, over
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of the credit allowed under subsection (d) to the taxpayer.
 
@@ -140,9 +140,9 @@ Amendments by Pub. L. 99–509, title VIII, §8031(c), Oct. 21, 1986, 100 Stat. 
 
 <b>1992</b>—Subsecs. (e), (f). Pub. L. 102–486 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–380 substituted at end “For purposes of this subsection, all taxpayers which would be members of the same affiliated group (as defined in section 1504(a)) if section 1504(a)(2) were applied by substituting ‘100 percent’ for ‘80 percent’ shall be treated as 1 taxpayer.” for “Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–380 substituted at end "For purposes of this subsection, all taxpayers whichwould be members of the same affiliated group (as defined in section 1504(a)) if section 1504(a)(2) were applied by substituting '100 percent' for '80 percent' shall be treated as 1 taxpayer." for "Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund."
 
-<b>1989</b>—Subsec. (d). Pub. L. 101–239 inserted at end “The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline Liability Fund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund.”
+<b>1989</b>—Subsec. (d). Pub. L. 101–239 inserted at end "The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline Liability Fund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund."
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–499 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -154,7 +154,7 @@ Subsec. (e). Pub. L. 99–509 redesignated former subsec. (d) as (e).
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1922(b), Oct. 24, 1992, 106 Stat. 3029, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 24, 1992\].”
+Pub. L. 102–486, title XIX, §1922(b), Oct. 24, 1992, 106 Stat. 3029, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 24, 1992\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -170,5 +170,5 @@ Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 512(d) of Pub.
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “transferred”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "transferred".</i>
 

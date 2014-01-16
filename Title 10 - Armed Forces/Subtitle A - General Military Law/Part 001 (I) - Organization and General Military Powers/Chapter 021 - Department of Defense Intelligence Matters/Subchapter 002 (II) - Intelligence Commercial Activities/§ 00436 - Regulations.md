@@ -8,11 +8,15 @@ The Secretary of Defense shall prescribe regulations to implement the authority 
 
 &emsp;(3) specify all officials who are authorized to grant waivers of laws or regulations pursuant to section 433(b) of this title, or to approve the establishment or conduct of commercial activities pursuant to this subchapter;
 
-&emsp;(4) designate a single office within the Defense Intelligence Agency to be responsible for the management and supervision of all activities authorized under this subchapter;
+&emsp;(4) designate a single office within the Department of Defense to be responsible for the oversight of all activities authorized under this subchapter;
 
 &emsp;(5) require that each commercial activity proposed to be authorized under this subchapter be subject to appropriate legal review before the activity is authorized; and
 
 &emsp;(6) provide for appropriate internal audit controls and oversight for such activities.
 
-(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 439.)
+(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 439; amended Pub. L. 113–66, div. A, title IX, §921(b), Dec. 26, 2013, 127 Stat. 827.)
+
+#### Amendments
+
+<b>2013</b>—Par. (4). Pub. L. 113–66 substituted "Department of Defense" for "Defense Intelligence Agency" and "oversight" for "management and supervision".
 

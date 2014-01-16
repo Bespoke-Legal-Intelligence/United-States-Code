@@ -34,7 +34,7 @@ Notwithstanding section 1469a of title 48, funds allocated under this part to an
 
 #### Prior Provisions
 
-A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L. 98–558, title VIII, §801(a), Oct.30, 1984, 98 Stat. 2901, related to allocation among States of amounts for Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L. 98–558, title VIII, §801(a), Oct. 30, 1984, 98 Stat. 2901, related to allocation among States of amounts for Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -44,11 +44,11 @@ A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L.
 
 <b>1993</b>—Subsec. (d). Pub. L. 103–208 added subsec. (d).
 
-<b>1992</b>—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: “From the sums appropriated pursuant to section 1070d–41 of this title for any fiscal year, the Secretary shall allocate to each State having an agreement under section 1070d–35 of this title—
+<b>1992</b>—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: "From the sums appropriated pursuant to section 1070d–41 of this title for any fiscal year, the Secretary shall allocate to each State having an agreement under section 1070d–35 of this title—
 
-&emsp;“(1) $1,500 multiplied by the number of individuals in the State eligible for scholarships pursuant to section 1070d–37(b) of this title, plus
+&emsp;"(1) $1,500 multiplied by the number of individuals in the State eligible for scholarships pursuant to section 1070d–37(b) of this title, plus
 
-&emsp;“(2) $10,000, plus 5 percent of the amount to which a State is eligible under paragraph (1) of this section.”
+&emsp;"(2) $10,000, plus 5 percent of the amount to which a State is eligible under paragraph (1) of this section."
 
 #### Effective Date of 2009 Amendment
 

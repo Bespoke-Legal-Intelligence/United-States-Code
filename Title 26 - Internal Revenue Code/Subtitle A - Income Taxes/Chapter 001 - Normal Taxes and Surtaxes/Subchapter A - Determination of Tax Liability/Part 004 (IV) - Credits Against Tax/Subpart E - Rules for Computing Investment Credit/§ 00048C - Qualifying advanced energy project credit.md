@@ -24,7 +24,7 @@ For purposes of section 46, the qualifying advanced energy project credit for an
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualifying advanced energy project” means a project—
+&emsp;&emsp;The term "qualifying advanced energy project" means a project—
 
 &emsp;&emsp;&emsp;(i) which re-equips, expands, or establishes a manufacturing facility for the production of—
 
@@ -50,7 +50,7 @@ For purposes of section 46, the qualifying advanced energy project credit for an
 
 #### (2) Eligible property
 
-&emsp;The term “eligible property” means any property—
+&emsp;The term "eligible property" means any property—
 
 &emsp;&emsp;(A) which is necessary for the production of property described in paragraph (1)(A)(i),
 

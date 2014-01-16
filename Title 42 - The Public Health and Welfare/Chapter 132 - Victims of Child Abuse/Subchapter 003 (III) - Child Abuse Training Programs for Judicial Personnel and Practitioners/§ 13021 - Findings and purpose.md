@@ -38,5 +38,5 @@ The Adoption Assistance and Child Welfare Act of 1980, referred to in subsec. (a
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–322 made technical amendment to reference to this subchapter to correct reference to corresponding provision of original act.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Adoption Assistance”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Adoption Assistance".</i>
 

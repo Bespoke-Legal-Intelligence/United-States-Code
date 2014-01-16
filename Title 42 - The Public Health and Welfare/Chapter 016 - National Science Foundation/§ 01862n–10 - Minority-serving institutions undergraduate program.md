@@ -22,7 +22,7 @@ This program shall be coordinated with and in addition to the ongoing Historical
 
 #### (d) Instrumentation
 
-Funding for instrumentation is an allowed use of grants awarded under this section and underthe ongoing Historically Black Colleges and Universities Undergraduate Program and the Tribal Colleges and Universities Program.
+Funding for instrumentation is an allowed use of grants awarded under this section and under the ongoing Historically Black Colleges and Universities Undergraduate Program and the Tribal Colleges and Universities Program.
 
 (Pub. L. 107–368, §24, Dec. 19, 2002, 116 Stat. 3066.)
 

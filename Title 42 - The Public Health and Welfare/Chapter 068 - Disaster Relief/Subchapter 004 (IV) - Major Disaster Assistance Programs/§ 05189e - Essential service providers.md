@@ -2,7 +2,7 @@
 
 #### (a) Definition
 
-In this section, the term “essential service provider” means an entity that—
+In this section, the term "essential service provider" means an entity that—
 
 &emsp;(1) provides—
 
@@ -38,9 +38,5 @@ Unless exceptional circumstances apply, in an emergency or major disaster, the h
 
 In implementing this section, the head of a Federal agency shall follow all applicable Federal laws, regulations, and policies.
 
-(Pub. L. 93–288, title IV, §425, as added Pub. L. 109–347, title VI, §607, Oct. 13, 2006, 120 Stat. 1941.)
-
-#### Codification
-
-Another section 425 of Pub. L. 93–288 is classified to section 5189c of this title.
+(Pub. L. 93–288, title IV, §427, formerly §425, as added Pub. L. 109–347, title VI, §607, Oct. 13, 2006, 120 Stat. 1941; renumbered §427, Pub. L. 113–2, div. B, §1102(1), Jan. 29, 2013, 127 Stat. 39.)
 

@@ -22,5 +22,5 @@ Executive Order 12906, referred to in par. (5), is Ex. Ord. No. 12906, Apr. 11, 
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section 6309”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section 6309".</i>
 

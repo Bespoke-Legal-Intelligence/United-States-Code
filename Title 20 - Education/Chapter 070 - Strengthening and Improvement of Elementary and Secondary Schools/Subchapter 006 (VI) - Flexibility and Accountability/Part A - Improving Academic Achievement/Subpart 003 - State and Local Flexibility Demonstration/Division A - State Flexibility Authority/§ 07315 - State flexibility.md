@@ -10,7 +10,7 @@ In this division:
 
 #### (1) Eligible State educational agency
 
-&emsp;The term “eligible State educational agency” means a State educational agency that—
+&emsp;The term "eligible State educational agency" means a State educational agency that—
 
 &emsp;&emsp;(A) submits an approvable application under subsection (c) of this section; and
 
@@ -24,7 +24,7 @@ In this division:
 
 #### (2) High-poverty local educational agency
 
-&emsp;The term “high-poverty local educational agency” means a local educational agency for which 20 percent or more of the children who are age 5 through 17, and served by the local educational agency, are from families with incomes below the poverty line.
+&emsp;The term "high-poverty local educational agency" means a local educational agency for which 20 percent or more of the children who are age 5 through 17, and served by the local educational agency, are from families with incomes below the poverty line.
 
 #### (c) State applications
 
@@ -70,7 +70,7 @@ In this division:
 
 #### (A) In general
 
-&emsp;&emsp;A State educational agency that wishes to receive flexibility authority under this subpart shall propose performance agreementsthat meet the requirements of clauses (i) and (ii) of subsection (b)(1)(B) of this section (subject to approval of the application or amendment involved under subsection (d) or (e) of this section).
+&emsp;&emsp;A State educational agency that wishes to receive flexibility authority under this subpart shall propose performance agreements that meet the requirements of clauses (i) and (ii) of subsection (b)(1)(B) of this section (subject to approval of the application or amendment involved under subsection (d) or (e) of this section).
 
 #### (B) Performance agreements
 

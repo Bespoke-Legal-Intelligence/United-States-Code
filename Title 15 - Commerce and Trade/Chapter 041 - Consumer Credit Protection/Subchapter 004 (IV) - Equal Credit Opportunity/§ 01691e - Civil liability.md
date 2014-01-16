@@ -40,11 +40,11 @@ When a matter is referred to the Attorney General pursuant to subsection (g) of 
 
 #### (i) Recovery under both subchapter and fair housing enforcement provisions prohibited for violation based on same transaction
 
-No person aggrieved by a violation of this subchapter and by a violation of section 3605 of title42 shall recover under this subchapter and section 3612 <sup>1</sup> of title 42, if such violation is based on the same transaction.
+No person aggrieved by a violation of this subchapter and by a violation of section 3605 of title 42 shall recover under this subchapter and section 3612 <sup>1</sup> of title 42, if such violation is based on the same transaction.
 
 #### (j) Discovery of creditor's granting standards
 
-Nothing in this subchapter shall be construed to prohibit the discovery of a creditor's credit granting standards under appropriate discovery procedures in the court or agency in which an action or proceeding is brought.
+Nothing in this subchapter shall be construed to prohibit the discovery of a creditor's creditgranting standards under appropriate discovery procedures in the court or agency in which an action or proceeding is brought.
 
 #### (k) Notice to HUD of violations
 
@@ -70,19 +70,19 @@ The Fair Housing Act, referred to in subsec. (k), is title VIII of Pub. L. 90–
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e). Pub. L. 111–203, §1085(5)(B), substituted “Bureau of Consumer Financial Protection” for “Federal Reserve System” in text.
+<b>2010</b>—Subsec. (e). Pub. L. 111–203, §1085(5)(B), substituted "Bureau of Consumer Financial Protection" for "Federal Reserve System" in text.
 
-Pub. L. 111–203, §1085(5)(A), which directed amendment of “subsection heading” by substituting “Bureau” for “Board” wherever appearing and “Bureau of Consumer Financial Protection” for “Federal Reserve System”, was executed by making the substitutions in heading that had been supplied editorially, to reflect the probable intent of Congress.
+Pub. L. 111–203, §1085(5)(A), which directed amendment of "subsection heading" by substituting "Bureau" for "Board" wherever appearing and "Bureau of Consumer Financial Protection" for "Federal Reserve System", was executed by making the substitutions in heading that had been supplied editorially, to reflect the probable intent of Congress.
 
-Pub. L. 111–203, §1085(1), substituted “Bureau” for “Board” wherever appearing.
+Pub. L. 111–203, §1085(1), substituted "Bureau" for "Board" wherever appearing.
 
-Subsec. (f). Pub. L. 111–203, §1085(7), substituted “5 years after” for “two years from” wherever appearing.
+Subsec. (f). Pub. L. 111–203, §1085(7), substituted "5 years after" for "two years from" wherever appearing.
 
-Subsec. (g). Pub. L. 111–203, §1085(6), substituted “(9)” for “(3)”.
+Subsec. (g). Pub. L. 111–203, §1085(6), substituted "(9)" for "(3)".
 
-<b>1991</b>—Subsec. (g). Pub. L. 102–242, §223(a), inserted at end “Each agency referred to in paragraphs (1), (2), and (3) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.”
+<b>1991</b>—Subsec. (g). Pub. L. 102–242, §223(a), inserted at end "Each agency referred to in paragraphs (1), (2), and (3) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title."
 
-Subsec. (h). Pub. L. 102–242, §223(b), inserted “actual and punitive damages and” after “be appropriate, including”.
+Subsec. (h). Pub. L. 102–242, §223(b), inserted "actual and punitive damages and" after "be appropriate, including".
 
 Subsec. (k). Pub. L. 102–242, §223(c), added subsec. (k).
 

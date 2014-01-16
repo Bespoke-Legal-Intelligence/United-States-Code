@@ -30,7 +30,7 @@ It shall be unlawful for any person other than an issuer that is subject to sect
 
 #### (b) Exception for routine governmental action
 
-Subsection (a) of this section shall not apply to any facilitating or expediting payment to a foreign official, political party, or party official the purpose of which is to expedite or to secure the performance of a routine governmental action by a foreign official, political party, or party official.
+Subsection (a) of this section shall not apply to any facilitating or expediting payment to aforeign official, political party, or party official the purpose of which is to expedite or to secure the performance of a routine governmental action by a foreign official, political party, or party official.
 
 #### (c) Affirmative defenses
 
@@ -70,11 +70,11 @@ It shall be an affirmative defense to actions under subsection (a) of this secti
 
 For purposes of this section:
 
-&emsp;(1) The term “person”, when referring to an offender, means any natural person other than a national of the United States (as defined in section 1101 of title 8 <sup>1</sup> or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the law of a foreign nation or a political subdivision thereof.
+&emsp;(1) The term "person", when referring to an offender, means any natural person other than a national of the United States (as defined in section 1101 of title 8 <sup>1</sup> or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the law of a foreign nation or a political subdivision thereof.
 
-&emsp;(2)(A) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
+&emsp;(2)(A) The term "foreign official" means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
 
-&emsp;(B) For purposes of subparagraph (A), the term “public international organization” means—
+&emsp;(B) For purposes of subparagraph (A), the term "public international organization" means—
 
 &emsp;&emsp;(i) an organization that is designated by Executive order pursuant to section 288 of title 22; or
 
@@ -88,21 +88,21 @@ For purposes of this section:
 
 &emsp;(B) When knowledge of the existence of a particular circumstance is required for an offense, such knowledge is established if a person is aware of a high probability of the existence of such circumstance, unless the person actually believes that such circumstance does not exist.
 
-&emsp;(4)(A) The term “routine governmental action” means only an action which is ordinarily and commonly performed by a foreign official in—
+&emsp;(4)(A) The term "routine governmental action" means only an action which is ordinarily and commonly performed by a foreign official in—
 
 &emsp;&emsp;(i) obtaining permits, licenses, or other official documents to qualify a person to do business in a foreign country;
 
 &emsp;&emsp;(ii) processing governmental papers, such as visas and work orders;
 
-&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspectionsassociated with contract performance or inspections related to transit of goods across country;
+&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspections associated with contract performance or inspections related to transit of goods across country;
 
 &emsp;&emsp;(iv) providing phone service, power and water supply, loading and unloading cargo, or protecting perishable products or commodities from deterioration; or
 
 &emsp;&emsp;(v) actions of a similar nature.
 
-&emsp;(B) The term “routine governmental action” does not include any decision by a foreign official whether, or on what terms, to award new business to or to continue business with a particular party, or any action taken by a foreign official involved in the decision-making process to encourage a decision to award new business to or continue business with a particular party.
+&emsp;(B) The term "routine governmental action" does not include any decision by a foreign official whether, or on what terms, to award new business to or to continue business with a particular party, or any action taken by a foreign official involved in the decision-making process to encourage a decision to award new business to or continue business with a particular party.
 
-&emsp;(5) The term “interstate commerce” means trade, commerce, transportation, or communication among the several States, or between any foreign country and any State or between any State and any place or ship outside thereof, and such term includes the intrastate use of—
+&emsp;(5) The term "interstate commerce" means trade, commerce, transportation, or communication among the several States, or between any foreign country and any State or between any State and any place or ship outside thereof, and such term includes the intrastate use of—
 
 &emsp;&emsp;(A) a telephone or other interstate means of communication, or
 

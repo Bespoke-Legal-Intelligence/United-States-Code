@@ -6,7 +6,7 @@ General.—The Secretary of Transportation may take action the Secretary conside
 
 (b)
 
-Conducting Investigations and Public Hearings.—In conducting an investigation orpublic hearing under this subchapter, the Secretary has the same authority the Secretary has under section 46104 of this title. An action of the Secretary in exercising that authority is governed by the procedures specified in section 46104 and shall be enforced as provided in section 46104.
+Conducting Investigations and Public Hearings.—In conducting an investigation or public hearing under this subchapter, the Secretary has the same authority the Secretary has under section 46104 of this title. An action of the Secretary in exercising that authority is governed by the procedures specified in section 46104 and shall be enforced as provided in section 46104.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1275.)
 

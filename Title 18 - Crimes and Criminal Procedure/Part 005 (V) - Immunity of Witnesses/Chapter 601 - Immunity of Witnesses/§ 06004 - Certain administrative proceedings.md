@@ -12,5 +12,5 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “title” for “part” before period at end.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "title" for "part" before period at end.
 

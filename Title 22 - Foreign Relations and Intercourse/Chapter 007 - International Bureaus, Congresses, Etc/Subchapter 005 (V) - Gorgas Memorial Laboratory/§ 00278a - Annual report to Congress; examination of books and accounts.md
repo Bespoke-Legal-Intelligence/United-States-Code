@@ -6,7 +6,7 @@ The Gorgas Memorial Institute shall make to Congress, on April 1 of each year, a
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–426 substituted “on April 1 of each year” and “during the fiscal year ending the preceding September 30” for “annually, on the first Monday in December” and “up to the first of November next preceding”, respectively.
+<b>1978</b>—Pub. L. 95–426 substituted "on April 1 of each year" and "during the fiscal year ending the preceding September 30" for "annually, on the first Monday in December" and "up to the first of November next preceding", respectively.
 
 #### Termination of Reporting Requirements
 

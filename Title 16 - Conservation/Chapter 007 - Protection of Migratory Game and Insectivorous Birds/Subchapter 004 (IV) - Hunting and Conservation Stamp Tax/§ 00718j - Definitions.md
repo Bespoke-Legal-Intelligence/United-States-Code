@@ -10,19 +10,19 @@ In this subchapter:
 
 #### (1) Hunting year
 
-&emsp;The term “hunting year” means the 1-year period beginning on July 1 of each year.
+&emsp;The term "hunting year" means the 1-year period beginning on July 1 of each year.
 
 #### (2) Migratory waterfowl
 
-&emsp;The term “migratory waterfowl” means the species enumerated in paragraph (a) of subdivision 1 of article I of the Convention between the United States and Great Britain for the Protection of Migratory Birds, signed at Washington on August 16, 1916 (USTS 628) (16 U.S.C. 703 et seq.).
+&emsp;The term "migratory waterfowl" means the species enumerated in paragraph (a) of subdivision 1 of article I of the Convention between the United States and Great Britain for the Protection of Migratory Birds, signed at Washington on August 16, 1916 (USTS 628) (16 U.S.C. 703 et seq.).
 
 #### (3) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 #### (4) State
 
-&emsp;The term “State” means—
+&emsp;The term "State" means—
 
 &emsp;&emsp;(A) a State;
 
@@ -46,7 +46,7 @@ In this subchapter:
 
 #### (5) Take
 
-&emsp;The term “take” means—
+&emsp;The term "take" means—
 
 &emsp;&emsp;(A) to pursue, hunt, shoot, capture, collect, or kill; or
 

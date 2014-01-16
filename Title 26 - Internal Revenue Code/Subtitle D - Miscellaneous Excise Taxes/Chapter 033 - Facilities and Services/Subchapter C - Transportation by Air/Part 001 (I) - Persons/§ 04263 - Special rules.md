@@ -22,37 +22,37 @@ In applying this subchapter to a round trip, such round trip shall be considered
 
 #### (f) Transportation outside the northern portion of the Western Hemisphere
 
-In applying this subchapter to transportation any part of which is outside the northern portion of the Western Hemisphere, if the route of such transportation leaves and reenters the northern portion of the Western Hemisphere, such transportation shall be considered to consist of transportation to a point outside such northern portion, and of separate transportation thereafter. For purposes of this subsection, the term “northern portion of the Western Hemisphere” means the area lying west of the 30th meridian west of Greenwich, east of the international dateline, and north of the Equator, but not including any country of South America.
+In applying this subchapter to transportation any part of which is outside the northern portion of the Western Hemisphere, if the route of such transportation leaves and reenters the northern portion of the Western Hemisphere, such transportation shall be considered to consist of transportation to a point outside such northern portion, and of separate transportation thereafter. For purposes of this subsection, the term "northern portion of the Western Hemisphere" means the area lying west of the 30th meridian west of Greenwich, east of the international dateline, and north of the Equator, but not including any country of South America.
 
 (Added July 25, 1956, ch. 725, §4(a), 70 Stat. 645, §4264; amended Pub. L. 87–508, §5(b), June 28, 1962, 76 Stat. 117; renumbered §4263, Pub. L. 91–258, title II, §205(c)(2), May 21, 1970, 84 Stat. 242; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title X, §1031(c)(3), Aug. 5, 1997, 111 Stat. 932.)
 
 #### Prior Provisions
 
-A prior section 4263, acts Aug. 16, 1954, ch. 736, 68A Stat. 506, §4263, formerly §4262; renumbered §4263 and amended July 25, 1956, ch. 725, §2, 70 Stat. 644; Aug. 7, 1956, ch. 1024, §1, 70 Stat. 1077; June 29, 1957, Pub. L. 85–74, 71 Stat. 243; Sept. 2, 1958, Pub. L. 85–859, title I, §134, 72 Stat. 1292; June 28, 1962, Pub. L. 87–508, §5(b), 76Stat. 117, provided for exemptions, subsecs. (a) to (d) relating to commutation travel, etc., certain organizations; members of the Armed Forces, and small aircraft on nonestablished lines, respectively, prior to repeal by Pub. L. 91–258, title II, §205(c)(1), May 21, 1970, 84 Stat. 242, effective on July 1, 1970, as provided in section 211(a) of Pub. L. 91–258, set out as a note under section 4041 of this title.
+A prior section 4263, acts Aug. 16, 1954, ch. 736, 68A Stat. 506, §4263, formerly §4262; renumbered §4263 and amended July 25, 1956, ch. 725, §2, 70 Stat. 644; Aug. 7, 1956, ch. 1024, §1, 70 Stat. 1077; June 29, 1957, Pub. L. 85–74, 71 Stat. 243; Sept. 2, 1958, Pub. L. 85–859, title I, §134, 72 Stat. 1292; June 28, 1962, Pub. L. 87–508, §5(b), 76 Stat. 117, provided for exemptions, subsecs. (a) to (d) relating to commutation travel, etc., certain organizations; members of the Armed Forces, and small aircraft on nonestablished lines, respectively, prior to repeal by Pub. L. 91–258, title II, §205(c)(1), May 21, 1970, 84 Stat. 242, effective on July 1, 1970, as provided in section 211(a) of Pub. L. 91–258, set out as a note under section 4041 of this title.
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–34 substituted “subchapter, such tax shall be paid by the carrier providing the initial segment of such transportation which begins or ends in the United States.” for “subchapter—
+<b>1997</b>—Subsec. (c). Pub. L. 105–34 substituted "subchapter, such tax shall be paid by the carrier providing the initial segment of such transportation which begins or ends in the United States." for "subchapter—
 
-&emsp;“(1) such tax shall be paid by the person paying for the transportation or by the person using the transportation;
+&emsp;"(1) such tax shall be paid by the person paying for the transportation or by the person using the transportation;
 
-&emsp;“(2) such tax shall be paid within such time as the Secretary shall prescribe by regulations after whichever of the following first occurs:
+&emsp;"(2) such tax shall be paid within such time as the Secretary shall prescribe by regulations after whichever of the following first occurs:
 
-&emsp;&emsp;“(A) the rights to the transportation expire; or
+&emsp;&emsp;"(A) the rights to the transportation expire; or
 
-&emsp;&emsp;“(B) the time when the transportation becomes subject to tax; and
+&emsp;&emsp;"(B) the time when the transportation becomes subject to tax; and
 
-&emsp;“(3) payment of such tax shall be made to the Secretary, to the person to whom the payment for transportation was made, or, in the case of transportation other than transportation described in section 4262(a)(1), to any person furnishing any portion of such transportation.”
+&emsp;"(3) payment of such tax shall be made to the Secretary, to the person to whom the payment for transportation was made, or, in the case of transportation other than transportation described in section 4262(a)(1), to any person furnishing any portion of such transportation."
 
-<b>1976</b>—Subsecs. (b) to (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (b) to (d). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 <b>1962</b>—Subsec. (c)(3). Pub. L. 87–508 provided for payment of tax, in the case of transportation other than transportation described in section 4262(a)(1), to any person furnishing any portion of the transportation.
 
-Subsec. (d). Pub. L. 87–508 inserted “by air” after “transportation of any person”.
+Subsec. (d). Pub. L. 87–508 inserted "by air" after "transportation of any person".
 
-Subsec. (e). Pub. L. 87–508 substituted “subchapter” for “part”.
+Subsec. (e). Pub. L. 87–508 substituted "subchapter" for "part".
 
-Subsec. (f). Pub. L. 87–508 substituted “subchapter” for “part”, struck out par. (1) designation for provision respecting transportation outside the northern portion of the Western Hemisphere and par. (2) prohibiting consideration as a stop at a port within the United States a stop at an intermediate port at which vessel is not authorized to discharge and take on passengers.
+Subsec. (f). Pub. L. 87–508 substituted "subchapter" for "part", struck out par. (1) designation for provision respecting transportation outside the northern portion of the Western Hemisphere and par. (2) prohibiting consideration as a stop at a port within the United States a stop at an intermediate port at which vessel is not authorized to discharge and take on passengers.
 
 #### Effective Date of 1997 Amendment
 

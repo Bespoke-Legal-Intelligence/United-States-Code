@@ -6,7 +6,7 @@ Beginning two years after October 19, 1984, and at intervals of two years therea
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–244 substituted “President may prepare” for “President shall prepare” and “may hold hearings” for “shall hold hearings”.
+<b>1998</b>—Pub. L. 105–244 substituted "President may prepare" for "President shall prepare" and "may hold hearings" for "shall hold hearings".
 
 #### Change of Name
 

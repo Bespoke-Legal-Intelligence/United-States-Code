@@ -20,11 +20,11 @@ The Director may issue permits which authorize acts otherwise prohibited by sect
 
 &emsp;(C) any native bird which is protected under the Migratory Bird Treaty Act (16 U.S.C. 701 et seq.);
 
-> the Director shall submit a copy of the application to the Secretary of Commerce or to the Secretary of the Interior, as appropriate (hereinafter in this subsection referred to respectively as the “appropriate Secretary”).
+> the Director shall submit a copy of the application to the Secretary of Commerce or to the Secretary of the Interior, as appropriate (hereinafter in this subsection referred to respectively as the "appropriate Secretary").
 
 (2) After receiving a copy of any application from the Director under paragraph (1) the appropriate Secretary shall promptly determine, and notify the Director, whether or not any action proposed in the application also requires a permit or other authorization under any law administered by the appropriate Secretary.
 
-(3) If the appropriate Secretary notifies the Director that any action proposed in the application requires a permit or other authorization under any law administered by the appropriate Secretary, the Director may not issue a permit under this section with respect to such action unless such other required permit or authorization is issued by the appropriate Secretary and a copy thereof is submitted to the Director. The issuance of any permit or other authorization by the appropriate Secretary for the carrying out of any action with respect to any native mammal, native bird, or native plant shall not be deemed to entitle the applicant concerned to the issuance by the Director of a permit under this section.
+(3) If the appropriate Secretary notifies the Director that any action proposed in the application requires a permit or other authorization under any law administered by the appropriate Secretary, the Director may not issue a permit under this section with respect to such action unless such other required permit or authorization is issued by the appropriate Secretary and a copy thereof is submitted to the Director. The issuance of any permit or other authorization by the appropriate Secretary for the carrying out of any action with respect to any native mammal, native bird, or native plant shall not be deemed to entitle the applicant concerned to theissuance by the Director of a permit under this section.
 
 #### (d) Issuance of permits
 
@@ -112,33 +112,33 @@ The Migratory Bird Treaty Act (16 U.S.C. 701 et seq.), referred to in subsec. (c
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–227, §105(1), substituted “section 2403(b)” for “section 2403(a)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–227, §105(1), substituted "section 2403(b)" for "section 2403(a)".
 
-Subsec. (c)(1)(B). Pub. L. 104–227, §105(2), substituted “Species” for “Special”.
+Subsec. (c)(1)(B). Pub. L. 104–227, §105(2), substituted "Species" for "Special".
 
-Subsec. (e)(1)(A). Pub. L. 104–227, §105(3)(A), (B), in subsec. (e) relating to terms and conditions of permits substituted “native plants, or native invertebrates to which the permit applies, and” for “or native plants to which the permit applies,” in cl. (i), added cl. (ii), and struck out former cls. (ii) and (iii) which read as follows:
+Subsec. (e)(1)(A). Pub. L. 104–227, §105(3)(A), (B), in subsec. (e) relating to terms and conditions of permits substituted "native plants, or native invertebrates to which the permit applies, and" for "or native plants to which the permit applies," in cl. (i), added cl. (ii), and struck out former cls. (ii) and (iii) which read as follows:
 
-“(ii) if any such mammal or bird is authorized to be taken, transported, carried, or shipped, the manner (which manner must be determined by the Director to be humane) in which such action must be accomplished and the area in which such taking must occur, and
+"(ii) if any such mammal or bird is authorized to be taken, transported, carried, or shipped, the manner (which manner must be determined by the Director to be humane) in which such action must be accomplished and the area in which such taking must occur, and
 
-“(iii) if any such plant is authorized to be collected, the location and manner in which it must be collected;”.
+"(iii) if any such plant is authorized to be collected, the location and manner in which it must be collected;".
 
-Subsec. (e)(2)(A). Pub. L. 104–227, §105(3)(C)–(G), in subsec. (e) relating to terms and conditions of permits substituted “or harmful interference within Antarctica” for “within Antarctica (other than within any specially protected area)” and “Specially Protected Species” for “specially protected species” in introductory provisions, substituted “, or” for “; and” in cl. (i)(II), added subcl. (III) in cl. (i), and substituted “within Antarctica are” for “with Antarctica and” in cl. (ii)(II).
+Subsec. (e)(2)(A). Pub. L. 104–227, §105(3)(C)–(G), in subsec. (e) relating to terms and conditions of permits substituted "or harmful interference within Antarctica" for "within Antarctica (other than within any specially protected area)" and "Specially Protected Species" for "specially protected species" in introductory provisions, substituted ", or" for "; and" in cl. (i)(II), added subcl. (III) in cl. (i), and substituted "within Antarctica are" for "with Antarctica and" in cl. (ii)(II).
 
-Subsec. (e)(2)(B). Pub. L. 104–227, §105(3)(D), in subsec. (e) relating to terms and conditions of permits substituted “Specially Protected Species” for “specially protected species” in introductory provisions.
+Subsec. (e)(2)(B). Pub. L. 104–227, §105(3)(D), in subsec. (e) relating to terms and conditions of permits substituted "Specially Protected Species" for "specially protected species" in introductory provisions.
 
 Subsec. (e)(2)(C), (D). Pub. L. 104–227, §105(3)(H), in subsec. (e) relating to terms and conditions of permits added subpar. (C) and struck out former subpars. (C) and (D) which read as follows:
 
-“(C) Permits authorizing the entry into any specially protected area—
+"(C) Permits authorizing the entry into any specially protected area—
 
-&emsp;“(i) may be issued only if—
+&emsp;"(i) may be issued only if—
 
-&emsp;&emsp;“(I) there is a compelling scientific purpose for such entry which cannot be served elsewhere, and
+&emsp;&emsp;"(I) there is a compelling scientific purpose for such entry which cannot be served elsewhere, and
 
-&emsp;&emsp;“(II) the actions allowed under any such permit will not jeopardize the natural ecological system existing in such area; and
+&emsp;&emsp;"(II) the actions allowed under any such permit will not jeopardize the natural ecological system existing in such area; and
 
-&emsp;“(ii) shall not allow the operation of any surface vehicle within such area.
+&emsp;"(ii) shall not allow the operation of any surface vehicle within such area.
 
-“(D) Permits authorizing the entry into any site of special scientific interest shall be consistent with the management plan prescribed under section 2405(b)(3) of this title for such site.”
+"(D) Permits authorizing the entry into any site of special scientific interest shall be consistent with the management plan prescribed under section 2405(b)(3) of this title for such site."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

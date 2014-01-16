@@ -52,5 +52,5 @@ Oct. 23, 1992, Pub. L. 102–484, title XVIII, §1809, 106 Stat. 2582.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 

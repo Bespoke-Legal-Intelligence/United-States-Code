@@ -16,5 +16,5 @@ There is hereby authorized to be appropriated for the fiscal years ending June 3
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".
 

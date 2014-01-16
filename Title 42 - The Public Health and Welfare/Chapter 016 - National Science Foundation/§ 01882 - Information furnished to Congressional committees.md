@@ -10,7 +10,7 @@ This Act, referred to in text, is Pub. L. 96–44, known as the National Science
 
 #### Codification
 
-Section was enacted as part of the authorization act cited as the credit to this section, and not as part ofthe National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the authorization act cited as the credit to this section, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Prior Provisions
 
@@ -32,9 +32,9 @@ Pub. L. 91–120, §6, Nov. 18, 1969, 83 Stat. 203.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437 substituted “Science, Space, and Technology” for “Science and Technology”.
+<b>1994</b>—Pub. L. 103–437 substituted "Science, Space, and Technology" for "Science and Technology".
 
-<b>1985</b>—Pub. L. 99–159 inserted “and the National Science Board”.
+<b>1985</b>—Pub. L. 99–159 inserted "and the National Science Board".
 
 #### Change of Name
 

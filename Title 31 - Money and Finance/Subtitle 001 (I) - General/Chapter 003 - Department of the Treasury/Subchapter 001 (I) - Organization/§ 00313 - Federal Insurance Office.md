@@ -76,7 +76,7 @@ In general.—Except as provided in paragraph (3), the Office may require an ins
 
 &emsp;&emsp;(B)
 
-Rule of construction.—Notwithstanding any other provision of this section, forpurposes of subparagraph (A), the term “insurer” means any entity that writes insurance or reinsures risks and issues contracts or policies in 1 or more States.
+Rule of construction.—Notwithstanding any other provision of this section, for purposes of subparagraph (A), the term "insurer" means any entity that writes insurance or reinsures risks and issues contracts or policies in 1 or more States.
 
 &emsp;(3)
 
@@ -224,7 +224,7 @@ Section 313(f
 
 &emsp;(2)
 
-Insurance industry.—Beginning September 30, 2011, the Director shall submit a report on or before September 30 of each calendar year to the President and to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the insurance industry and any other information as deemed relevant by the Director or requested by such Committees.
+Insurance industry.—Beginning September 30, 2011, the Director shall submit a report on or before September 30 of each calendar year to the President and to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the insurance industry and any other information asdeemed relevant by the Director or requested by such Committees.
 
 (o)
 
@@ -302,11 +302,11 @@ Definitions.—In this section and section 314, the following definitions shall 
 
 &emsp;(1)
 
-Affiliate.—The term “affiliate” means, with respect to an insurer, any person who controls, is controlled by, or is under common control with the insurer.
+Affiliate.—The term "affiliate" means, with respect to an insurer, any person who controls, is controlled by, or is under common control with the insurer.
 
 &emsp;(2)
 
-Covered agreement.—The term “covered agreement” means a written bilateral or multilateral agreement regarding prudential measures with respect to the business of insurance or reinsurance that—
+Covered agreement.—The term "covered agreement" means a written bilateral or multilateral agreement regarding prudential measures with respect to the business of insurance or reinsurance that—
 
 &emsp;&emsp;(A) is entered into between the United States and one or more foreign governments, authorities, or regulatory entities; and
 
@@ -314,35 +314,35 @@ Covered agreement.—The term “covered agreement” means a written bilateral 
 
 &emsp;(3)
 
-Insurer.—The term “insurer” means any person engaged in the business of insurance, including reinsurance.
+Insurer.—The term "insurer" means any person engaged in the business of insurance, including reinsurance.
 
 &emsp;(4)
 
-Federal financial regulatory agency.—The term “Federal financial regulatory agency” means the Department of the Treasury, the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal Deposit Insurance Corporation, the Federal Housing Finance Agency, or the National Credit Union Administration.
+Federal financial regulatory agency.—The term "Federal financial regulatory agency" means the Department of the Treasury, the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, the Securities and Exchange Commission, theCommodity Futures Trading Commission, the Federal Deposit Insurance Corporation, the Federal Housing Finance Agency, or the National Credit Union Administration.
 
 &emsp;(5)
 
-Non-united states insurer.—The term “non-United States insurer” means an insurer that is organized under the laws of a jurisdiction other than a State, but does not include any United States branch of such an insurer.
+Non-united states insurer.—The term "non-United States insurer" means an insurer that is organized under the laws of a jurisdiction other than a State, but does not include any United States branch of such an insurer.
 
 &emsp;(6)
 
-Office.—The term “Office” means the Federal Insurance Office established by this section.
+Office.—The term "Office" means the Federal Insurance Office established by this section.
 
 &emsp;(7)
 
-State insurance measure.—The term “State insurance measure” means any State law, regulation, administrative ruling, bulletin, guideline, or practice relating to or affecting prudential measures applicable to insurance or reinsurance.
+State insurance measure.—The term "State insurance measure" means any State law, regulation, administrative ruling, bulletin, guideline, or practice relating to or affecting prudential measures applicable to insurance or reinsurance.
 
 &emsp;(8)
 
-State insurance regulator.—The term “State insurance regulator” means any State regulatory authority responsible for the supervision of insurers.
+State insurance regulator.—The term "State insurance regulator" means any State regulatory authority responsible for the supervision of insurers.
 
 &emsp;(9)
 
-Substantially equivalent to the level of protection achieved.—The term “substantially equivalent to the level of protection achieved” means the prudential measures of a foreign government, authority, or regulatory entity achieve a similar outcome in consumer protection as the outcome achieved under State insurance or reinsurance regulation.
+Substantially equivalent to the level of protection achieved.—The term "substantially equivalent to the level of protection achieved" means the prudential measures of a foreign government, authority, or regulatory entity achieve a similar outcome in consumer protection as the outcome achieved under State insurance or reinsurance regulation.
 
 &emsp;(10)
 
-United states insurer.—The term “United States insurer” means—
+United states insurer.—The term "United States insurer" means—
 
 &emsp;&emsp;(A) an insurer that is organized under the laws of a State; or
 
@@ -380,5 +380,5 @@ A prior section 313 was renumbered section 312 of this title.
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “States”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "States".</i>
 

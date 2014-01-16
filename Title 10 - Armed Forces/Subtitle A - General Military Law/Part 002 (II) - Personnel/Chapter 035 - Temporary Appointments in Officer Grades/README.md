@@ -13,7 +13,7 @@
 
 <b>1994</b>—Pub. L. 103–337, div. A, title IV, §405(c)(2), Oct. 5, 1994, 108 Stat. 2745, added item 604.
 
-<b>1991</b>—Pub. L. 102–190, div. A, title XI, §1113(d)(1)(B), Dec. 5, 1991, 105 Stat. 1502, struck out item 602 “Warrant officers: temporary promotions” and substituted “Appointments in time of war or national emergency” for “Commissioned officer grades: time of war or national emergency” in item 603.
+<b>1991</b>—Pub. L. 102–190, div. A, title XI, §1113(d)(1)(B), Dec. 5, 1991, 105 Stat. 1502, struck out item 602 "Warrant officers: temporary promotions" and substituted "Appointments in time of war or national emergency" for "Commissioned officer grades: time of war or national emergency" in item 603.
 
 
 ---

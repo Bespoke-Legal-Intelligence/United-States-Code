@@ -52,9 +52,9 @@ Aug. 4, 1955, ch. 546, §§9, 10, 12, 69 Stat. 489.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “or otherwise” are omitted as unnecessary.
+In subsection (b), the words "or otherwise" are omitted as unnecessary.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “as provided in section 645 of this title” are omitted as unnecessary. The words “This subsection does not prevent” are substituted for “Nothing in this subsection, however, shall be construed to prevent” for consistency in the revised title and to eliminate unnecessary words. The reference to the “executive committee of the corporation” is retained although 36:637 and 36:638 do not create an executive committee.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title. The words "as provided in section 645 of this title" are omitted as unnecessary. The words "This subsection does not prevent" are substituted for "Nothing in this subsection, however, shall be construed to prevent" for consistency in the revised title and to eliminate unnecessary words. The reference to the "executive committee of the corporation" is retained although 36:637 and 36:638 do not create an executive committee.
 

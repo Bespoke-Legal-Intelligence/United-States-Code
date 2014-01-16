@@ -62,7 +62,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (D) Additional contract terms
 
-&emsp;&emsp;Section 1395w–27(e) of this title; except that section 1395w–27(e)(2) of this title shall apply as specified to PDP sponsors and payments under this part to an MA–PD plan shall be treated as expenditures made under part D. Notwithstanding any other provision of law, information provided to the Secretary under the application of section 1395w–27(e)(1) of this title to contracts under this section under the preceding sentence—
+&emsp;&emsp;Section 1395w–27(e) of this title; except that section 1395w–27(e)(2) of this title shallapply as specified to PDP sponsors and payments under this part to an MA–PD plan shall be treated as expenditures made under part D. Notwithstanding any other provision of law, information provided to the Secretary under the application of section 1395w–27(e)(1) of this title to contracts under this section under the preceding sentence—
 
 &emsp;&emsp;&emsp;(i) may be used for the purposes of carrying out this part, improving public health through research on the utilization, safety, effectiveness, quality, and efficiency of health care services (as the Secretary determines appropriate); and
 
@@ -86,7 +86,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (ii) Clean claim defined
 
-&emsp;&emsp;&emsp;In this paragraph, the term “clean claim” means a claim that has no defect or impropriety (including any lack of any required substantiating documentation) or particular circumstance requiring special treatment that prevents timely payment from being made on the claim under this part.
+&emsp;&emsp;&emsp;In this paragraph, the term "clean claim" means a claim that has no defect or impropriety (including any lack of any required substantiating documentation) or particular circumstance requiring special treatment that prevents timely payment from being made on the claim under this part.
 
 #### (iii) Date of receipt of claim
 
@@ -98,7 +98,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (B) Applicable number of calendar days defined
 
-&emsp;&emsp;In this paragraph, the term “applicable number of calendar days” means—
+&emsp;&emsp;In this paragraph, the term "applicable number of calendar days" means—
 
 &emsp;&emsp;&emsp;(i) with respect to claims submitted electronically, 14 days; and
 
@@ -132,7 +132,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (II) Determination after submission of additional information
 
-&emsp;&emsp;&emsp;&emsp;A claim is deemed to be a clean claim under this paragraph if the PDP sponsor involved does not provide notice to the claimant of any defect or impropriety in the claim within 10 days of the date on which additional information is received under subclause (I).
+&emsp;&emsp;&emsp;&emsp;A claim is deemed to be a clean claim under this paragraph if the PDP sponsorinvolved does not provide notice to the claimant of any defect or impropriety in the claim within 10 days of the date on which additional information is received under subclause (I).
 
 #### (iii) Obligation to pay
 
@@ -232,7 +232,7 @@ The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) of 
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary may periodically review the standards establishedunder this section and, based on such review, may revise such standards if the Secretary determines such revision to be appropriate.
+&emsp;Subject to paragraph (2), the Secretary may periodically review the standards established under this section and, based on such review, may revise such standards if the Secretary determines such revision to be appropriate.
 
 #### (2) Prohibition of midyear implementation of significant new regulatory requirements
 
@@ -246,7 +246,7 @@ The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shal
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(3)(D). Pub. L. 110–275, §181, inserted at end “Notwithstanding any other provision of law, information provided to the Secretary under the application of section 1395w–27(e)(1) of this title to contracts under this section under the preceding sentence—” and added cls. (i) and (ii).
+<b>2008</b>—Subsec. (b)(3)(D). Pub. L. 110–275, §181, inserted at end "Notwithstanding any other provision of law, information provided to the Secretary under the application of section 1395w–27(e)(1) of this title to contracts under this section under the preceding sentence—" and added cls. (i) and (ii).
 
 Subsec. (b)(4). Pub. L. 110–275, §171(a), added par. (4).
 

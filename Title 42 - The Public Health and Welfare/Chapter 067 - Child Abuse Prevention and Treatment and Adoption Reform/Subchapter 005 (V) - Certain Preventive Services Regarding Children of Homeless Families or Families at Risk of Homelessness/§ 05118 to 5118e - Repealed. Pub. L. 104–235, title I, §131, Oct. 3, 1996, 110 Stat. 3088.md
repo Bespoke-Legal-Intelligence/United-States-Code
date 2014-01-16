@@ -8,7 +8,7 @@ Section 5118b, Pub. L. 93–247, title III, §303, as added Pub. L. 101–645, t
 
 Section 5118c, Pub. L. 93–247, title III, §304, as added Pub. L. 101–645, title VI, §661(b), Nov. 29, 1990, 104 Stat. 4759, related to required submission of description of intended uses of grant.
 
-Section 5118d, Pub. L. 93–247, title III, §305, as added Pub. L. 101–645, title VI, §661(b), Nov. 29, 1990, 104 Stat. 4759, related to requirement of submission of application for grant.
+Section 5118d, Pub. L. 93–247, title III, §305, as added Pub. L. 101–645, title VI, §661(b), Nov. 29, 1990, 104 Stat.4759, related to requirement of submission of application for grant.
 
 Section 5118e, Pub. L. 93–247, title III, §306, as added Pub. L. 101–645, title VI, §661(b), Nov. 29, 1990, 104 Stat. 4760; amended Pub. L. 102–295, title I, §131, May 28, 1992, 106 Stat. 199, related to authorization of appropriations for carrying out this subchapter.
 

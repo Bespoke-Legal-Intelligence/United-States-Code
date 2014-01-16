@@ -38,7 +38,7 @@ Progress toward standard required.—In prescribing average fuel economy standar
 
 Authority of the secretary.—The Secretary shall—
 
-&emsp;&emsp;(A) prescribe by regulation separate average fuel economy standards for passengerand non-passenger automobiles based on 1 or more vehicle attributes related to fuel economy and express each standard in the form of a mathematical function; and
+&emsp;&emsp;(A) prescribe by regulation separate average fuel economy standards for passenger and non-passenger automobiles based on 1 or more vehicle attributes related to fuel economy and express each standard in the form of a mathematical function; and
 
 &emsp;&emsp;(B) issue regulations under this title prescribing average fuel economy standards for at least 1, but not more than 5, model years.
 
@@ -64,7 +64,7 @@ Exemptions.—(1) Except as provided in paragraph (3) of this subsection, on app
 
 (2) An alternative average fuel economy standard the Secretary of Transportation prescribes under paragraph (1)(B) of this subsection may apply to an individually exempted manufacturer, to all automobiles to which this subsection applies, or to classes of passenger automobiles, as defined under regulations of the Secretary, manufactured by exempted manufacturers.
 
-(3) Notwithstanding paragraph (1) of this subsection, an importer registered under section 30141(c) of this title may not be exempted as a manufacturer under paragraph (1) for a motor vehicle that the importer—
+(3) Notwithstanding paragraph (1) of this subsection, an importer registered under section30141(c) of this title may not be exempted as a manufacturer under paragraph (1) for a motor vehicle that the importer—
 
 &emsp;(A) imports; or
 
@@ -74,7 +74,7 @@ Exemptions.—(1) Except as provided in paragraph (3) of this subsection, on app
 
 (e)
 
-Emergency Vehicles.—(1) In this subsection, “emergency vehicle” means an automobile manufactured primarily for use—
+Emergency Vehicles.—(1) In this subsection, "emergency vehicle" means an automobile manufactured primarily for use—
 
 &emsp;(A) as an ambulance or combination ambulance-hearse;
 
@@ -110,7 +110,7 @@ Consultation.—The Secretary of Transportation shall consult with the Secretary
 
 (j)
 
-Secretary of Energy Comments.—(1) Before issuing a notice proposing to prescribe oramend an average fuel economy standard under subsection (a), (c), or (g) of this section, the Secretary of Transportation shall give the Secretary of Energy at least 10 days from the receipt of the notice during which the Secretary of Energy may, if the Secretary of Energy concludes that the proposed standard would adversely affect the conservation goals of the Secretary of Energy, provide written comments to the Secretary of Transportation about the impact of the standard on those goals. To the extent the Secretary of Transportation does not revise a proposed standard to take into account comments of the Secretary of Energy on any adverse impact of the standard, the Secretary of Transportation shall include those comments in the notice.
+Secretary of Energy Comments.—(1) Before issuing a notice proposing to prescribe or amend an average fuel economy standard under subsection (a), (c), or (g) of this section, the Secretary of Transportation shall give the Secretary of Energy at least 10 days from the receipt of the notice during which the Secretary of Energy may, if the Secretary of Energy concludes that the proposed standard would adversely affect the conservation goals of the Secretary of Energy, provide written comments to the Secretary of Transportation about the impact of the standard on those goals. To the extent the Secretary of Transportation does not revise a proposed standard to take into account comments of the Secretary of Energy on any adverse impact of the standard, the Secretary of Transportation shall include those comments in the notice.
 
 (2) Before taking final action on a standard or an exemption from a standard under this section, the Secretary of Transportation shall notify the Secretary of Energy and provide the Secretary of Energy a reasonable time to comment.
 
@@ -132,7 +132,7 @@ Study.—Not later than 1 year after the National Academy of Sciences publishes 
 
 &emsp;(2)
 
-Rulemaking.—Not later than 24 months after completion of the study required under paragraph (1), the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, by regulation, shall determine in a rulemaking proceeding how to implement a commercial medium- and heavy-duty on-highway vehicle and work truck fuel efficiency improvement program designed to achieve the maximum feasible improvement, and shall adopt and implement appropriate test methods, measurement metrics, fuel economy standards, and compliance and enforcement protocols that are appropriate, cost-effective, and technologically feasible for commercial medium- and heavy-duty on-highway vehicles and work trucks. The Secretary may prescribe separate standards for different classes of vehicles under this subsection.
+Rulemaking.—Not later than 24 months after completion of the study required under paragraph (1), the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, by regulation, shall determine in a rulemaking proceeding how to implement a commercial medium- and heavy-duty on-highway vehicle and work truck fuel efficiency improvement program designed to achieve the maximum feasible improvement, and shall adopt and implement appropriate test methods, measurement metrics, fuel economystandards, and compliance and enforcement protocols that are appropriate, cost-effective, and technologically feasible for commercial medium- and heavy-duty on-highway vehicles and work trucks. The Secretary may prescribe separate standards for different classes of vehicles under this subsection.
 
 &emsp;(3)
 
@@ -216,31 +216,31 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §502(i), (j); added Aug. 4, 1977
 
 15:2002(i) (2d, last sentences), (j).
 
-In subsection (a), the words “Any standard applicable to a model year under this subsection shall be prescribed” are omitted as surplus. The words “which begins more than 30 months after December 22, 1975” are omitted as executed.
+In subsection (a), the words "Any standard applicable to a model year under this subsection shall be prescribed" are omitted as surplus. The words "which begins more than 30 months after December 22, 1975" are omitted as executed.
 
-In subsection (b), the text of 15:2002(a)(1) (related to model years before 1985) and (3) is omitted as expired. The words “at least” are omitted as unnecessary because of the source provisions restated in subsection (c) of this section.
+In subsection (b), the text of 15:2002(a)(1) (related to model years before 1985) and (3) is omitted as expired. The words "at least" are omitted as unnecessary because of the source provisions restated in subsection (c) of this section.
 
-In subsection (c)(1), the words “Subject to paragraph (2) of this subsection” are added for clarity. The words “may prescribe regulations amending” are substituted for “may, by rule, amend” for clarity and consistency in the revised title and because “rule” is synonymous with “regulation”. The words “for a model year” are substituted for “for model year 1985, or for any subsequent model year” to eliminate the expired limitation. The reference in 15:2002(h) to 15:2002(d) is omitted because 15:2002(d) is omitted from the revised title as executed. The words “as well as written” are omitted as surplus.
+In subsection (c)(1), the words "Subject to paragraph (2) of this subsection" are added for clarity. The words "may prescribe regulations amending" are substituted for "may, by rule, amend" for clarity and consistency in the revised title and because "rule" is synonymous with "regulation". The words "for a model year" are substituted for "for model year 1985, or for any subsequent model year" to eliminate the expired limitation. The reference in 15:2002(h) to 15:2002(d) is omitted because 15:2002(d) is omitted from the revised title as executed. The words "as well as written" are omitted as surplus.
 
-In subsection (c)(2), the words “If an amendment increases the standard . . . or decreases the standard” are substituted for “except that any amendment that has the effect of increasing . . . a standard . . ., or of decreasing . . . a standard” to eliminate unnecessary words. The words “For purposes of considering any modification which is submitted to the Congress under paragraph (4)” are omitted as surplus. The words “are deemed to be” are substituted for “shall be lengthened to” for clarity and consistency.
+In subsection (c)(2), the words "If an amendment increases the standard . . . or decreases the standard" are substituted for "except that any amendment that has the effect of increasing . . . a standard . . ., or of decreasing . . . a standard" to eliminate unnecessary words. The words "For purposes of considering any modification which is submitted to the Congress under paragraph (4)" are omitted as surplus. The words "are deemed to be" are substituted for "shall be lengthened to" for clarity and consistency.
 
-In subsection (d)(1), before clause (A), the words “Except as provided in paragraph (3) of this subsection” are added because of the restatement. The words “in the model year 2 years before” are substituted for “in the second model year preceding” for clarity. The words “The Secretary may exempt a manufacturer only if the Secretary” are substituted for “Such exemption may only be granted if the Secretary” and “The Secretary may not issue exemptions with respect to a model year unless he” to eliminate unnecessary words. The words “each such standard shall be set at a level which” are omitted as surplus.
+In subsection (d)(1), before clause (A), the words "Except as provided in paragraph (3) of this subsection" are added because of the restatement. The words "in the model year 2 years before" are substituted for "in the second model year preceding" for clarity. The words "The Secretary may exempt a manufacturer only if the Secretary" are substituted for "Such exemption may only be granted if the Secretary" and "The Secretary may not issue exemptions with respect to a model year unless he" to eliminate unnecessary words. The words "each such standard shall be set at a level which" are omitted as surplus.
 
-In subsection (d)(3), before clause (A), the words “Notwithstanding paragraph (1) of this subsection” are substituted for “Notwithstanding any provision of law authorizing exemptions from energy conservation requirements for manufacturers of fewer than 10,000 motor vehicles” to eliminate unnecessary words. In clause (B), the word “compliance” is substituted for “conformity” for consistency with chapter 301 of the revised title. The words “prescribed under chapter 301 of this title” are substituted for “Federal” for consistency in the revised title.
+In subsection (d)(3), before clause (A), the words "Notwithstanding paragraph (1) of this subsection" are substituted for "Notwithstanding any provision of law authorizing exemptions from energy conservation requirements for manufacturers of fewer than 10,000 motor vehicles" to eliminate unnecessary words. In clause (B), the word "compliance" is substituted for "conformity" for consistency with chapter 301 of the revised title. The words "prescribed under chapter 301 of this title" are substituted for "Federal" for consistency in the revised title.
 
 Subsection (d)(4) is substituted for 15:2002(c)(1) (2d sentence) to eliminate unnecessary words. The text of 15:2002(c)(2) is omitted as expired.
 
-In subsection (e)(1)(B), the words “police or other” are omitted as unnecessary because the authority to prescribe standards includes the authority to amend those standards.
+In subsection (e)(1)(B), the words "police or other" are omitted as unnecessary because the authority to prescribe standards includes the authority to amend those standards.
 
-In subsection (g)(1), the words “from time to time” are omitted as unnecessary. The cross-reference to 15:2002(a)(3) is omitted as executed because 15:2002(a)(3) applied to model years 1981–1984.
+In subsection (g)(1), the words "from time to time" are omitted as unnecessary. The cross-reference to 15:2002(a)(3) is omitted as executed because 15:2002(a)(3) applied to model years 1981–1984.
 
-In subsection (g)(2), the words “that makes” are substituted for “has the effect of making” to eliminate unnecessary words.
+In subsection (g)(2), the words "that makes" are substituted for "has the effect of making" to eliminate unnecessary words.
 
-In subsection (i), the words “his responsibilities under” are omitted as surplus.
+In subsection (i), the words "his responsibilities under" are omitted as surplus.
 
-In subsection (j), the reference to 15:2002(d) and the words “or any modification of” are omitted because 15:2002(d) is omitted from the revised title as executed.
+In subsection (j), the reference to 15:2002(d) and the words "or any modification of" are omitted because 15:2002(d) is omitted from the revised title as executed.
 
-In subsection (j)(1), the words “to prescribe or amend” are substituted for “to establish, reduce, or amend” to eliminate unnecessary words. The words “adverse impact” are substituted for “level” for clarity and consistency. The words “those comments” are substituted for “unaccommodated comments” for clarity.
+In subsection (j)(1), the words "to prescribe or amend" are substituted for "to establish, reduce, or amend" to eliminate unnecessary words. The words "adverse impact" are substituted for "level" for clarity and consistency. The words "those comments" are substituted for "unaccommodated comments" for clarity.
 
 #### References in Text
 
@@ -248,11 +248,11 @@ Section 108 of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (k)(1), i
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–140, §102(a)(1), in heading, substituted “Prescription of Standards by Regulation” for “Non-Passenger Automobiles”, and, in text, struck out “(except passenger automobiles)” after “for automobiles” and “The Secretary may prescribe separate standards for different classes of automobiles.” at end.
+<b>2007</b>—Subsec. (a). Pub. L. 110–140, §102(a)(1), in heading, substituted "Prescription of Standards by Regulation" for "Non-Passenger Automobiles", and, in text, struck out "(except passenger automobiles)" after "for automobiles" and "The Secretary may prescribe separate standards for different classes of automobiles." at end.
 
-Subsec. (b). Pub. L. 110–140, §102(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “Except as provided in this section, the average fuel economy standard for passenger automobiles manufactured by a manufacturer in a model year after model year 1984 shall be 27.5 miles a gallon.”
+Subsec. (b). Pub. L. 110–140, §102(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "Except asprovided in this section, the average fuel economy standard for passenger automobiles manufactured by a manufacturer in a model year after model year 1984 shall be 27.5 miles a gallon."
 
-Subsec. (c). Pub. L. 110–140, §102(a)(3), substituted “The Secretary” for “(1) Subject to paragraph (2) of this subsection, the Secretary” and struck out par. (2) which read as follows: “If an amendment increases the standard above 27.5 miles a gallon or decreases the standard below 26.0 miles a gallon, the Secretary of Transportation shall submit the amendment to Congress. The procedures of section 551 of the Energy Policy and Conservation Act (42 U.S.C. 6421) apply to an amendment, except that the 15 calendar days referred to in section 551(c) and (d) of the Act (42 U.S.C. 6421(c), (d)) are deemed to be 60 calendar days, and the 5 calendar days referred to in section 551(f)(4)(A) of the Act (42 U.S.C. 6421(f)(4)(A)) are deemed to be 20 calendar days. If either House of Congress disapproves the amendment under those procedures, the amendment does not take effect.”
+Subsec. (c). Pub. L. 110–140, §102(a)(3), substituted "The Secretary" for "(1) Subject to paragraph (2) of this subsection, the Secretary" and struck out par. (2) which read as follows: "If an amendment increases the standard above 27.5 miles a gallon or decreases the standard below 26.0 miles a gallon, the Secretary of Transportation shall submit the amendment to Congress. The procedures of section 551 of the Energy Policy and Conservation Act (42 U.S.C. 6421) apply to an amendment, except that the 15 calendar days referred to in section 551(c) and (d) of the Act (42 U.S.C. 6421(c), (d)) are deemed to be 60 calendar days, and the 5 calendar days referred to in section 551(f)(4)(A) of the Act (42 U.S.C. 6421(f)(4)(A)) are deemed to be 20 calendar days. If either House of Congress disapproves the amendment under those procedures, the amendment does not take effect."
 
 Subsec. (h)(3). Pub. L. 110–140, §104(b)(1), added par. (3).
 
@@ -264,31 +264,31 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Continued Applicability of Existing Standards
 
-Pub. L. 110–140, title I, §106, Dec. 19, 2007, 121 Stat. 1504, provided that: “Nothing in this subtitle \[subtitle A (§§101–113) of title I of Pub. L. 110–140, see Short Title of 2007 Amendment note set out under section 30101 of this title\], or the amendments made by this subtitle, shall be construed to affect the application of section 32902 of title 49, United States Code, to passenger automobiles or non-passenger automobiles manufactured before model year 2011.”
+Pub. L. 110–140, title I, §106, Dec. 19, 2007, 121 Stat. 1504, provided that: "Nothing in this subtitle \[subtitle A (§§101–113) of title I of Pub. L. 110–140, see Short Title of 2007 Amendment note set out under section 30101 of this title\], or the amendments made by this subtitle, shall be construed to affect the application of section 32902 of title 49, United States Code, to passenger automobiles or non-passenger automobiles manufactured before model year 2011."
 
 #### National Academy of Sciences Studies
 
 Pub. L. 110–140, title I, §107, Dec. 19, 2007, 121 Stat. 1504, provided that:
 
-“(a)
+"(a)
 
 In General.—As soon as practicable after the date of enactment of this Act \[Dec. 19, 2007\], the Secretary of Transportation shall execute an agreement with the National Academy of Sciences to develop a report evaluating vehicle fuel economy standards, including—
 
-&emsp;“(1) an assessment of automotive technologies and costs to reflect developments since the Academy's 2002 report evaluating the corporate average fuel economy standards was conducted;
+&emsp;"(1) an assessment of automotive technologies and costs to reflect developments since the Academy's 2002 report evaluating the corporate average fuel economy standards was conducted;
 
-&emsp;“(2) an analysis of existing and potential technologies that may be used practically to improve automobile and medium-duty and heavy-duty truck fuel economy;
+&emsp;"(2) an analysis of existing and potential technologies that may be used practically to improve automobile and medium-duty and heavy-duty truck fuel economy;
 
-&emsp;“(3) an analysis of how such technologies may be practically integrated into the automotive and medium-duty and heavy-duty truck manufacturing process; and
+&emsp;"(3) an analysis of how such technologies may be practically integrated into the automotive and medium-duty and heavy-duty truck manufacturing process; and
 
-&emsp;“(4) an assessment of how such technologies may be used to meet the new fuel economy standards under chapter 329 of title 49, United States Code, as amended by this subtitle \[subtitle A (§§101–113) of title I of Pub. L. 110–140, see Short Title of 2007 Amendment note set out under section 30101 of this title\].
+&emsp;"(4) an assessment of how such technologies may be used to meet the new fuel economy standards under chapter 329 of title 49, United States Code, as amended by this subtitle \[subtitle A (§§101–113) of title I of Pub. L. 110–140, see Short Title of 2007 Amendment note set out under section 30101 of this title\].
 
-“(b)
+"(b)
 
 Report.—The Academy shall submit the report to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with its findings and recommendations not later than 5 years after the date on which the Secretary executes the agreement with the Academy.
 
-“(c)
+"(c)
 
-Quinquennial Updates.—After submitting the initial report, the Academy shall update the report at 5 year intervals thereafter through 2025.”
+Quinquennial Updates.—After submitting the initial report, the Academy shall update the report at 5 year intervals thereafter through 2025."
 
 #### The Energy Independence and Security Act of 2007
 

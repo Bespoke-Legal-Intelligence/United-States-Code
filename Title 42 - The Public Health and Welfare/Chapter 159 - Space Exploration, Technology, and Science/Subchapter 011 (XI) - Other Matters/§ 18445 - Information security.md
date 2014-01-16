@@ -34,7 +34,7 @@
 
 #### (c) Information infrastructure defined
 
-In this section, the term “information infrastructure” means the underlying framework that information systems and assets rely on to process, transmit, receive, or store information electronically, including programmable electronic devices and communications networks and any associated hardware, software, or data.
+In this section, the term "information infrastructure" means the underlying framework that information systems and assets rely on to process, transmit, receive, or store information electronically, including programmable electronic devices and communications networks and any associated hardware, software, or data.
 
 (Pub. L. 111–267, title XII, §1207, Oct. 11, 2010, 124 Stat. 2844.)
 

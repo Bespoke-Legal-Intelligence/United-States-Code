@@ -78,29 +78,29 @@ In any case in which a termination, reduction, or suspension of financial assist
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–134, §16(1), struck out “procedures to assure that” after “prescribe” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–134, §16(1), struck out "procedures to assure that" after "prescribe" in introductory provisions.
 
-Subsec. (a)(1), (2). Pub. L. 110–134, §16(2), inserted “procedures to assure that” after the par. designation.
+Subsec. (a)(1), (2). Pub. L. 110–134, §16(2), inserted "procedures to assure that" after the par. designation.
 
 Subsec. (a)(3) to (6). Pub. L. 110–134, §16(3), added pars. (3) to (6) and struck out former pars. (3) and (4) which read as follows:
 
-“(3) financial assistance under this subchapter shall not be terminated or reduced, an application for refunding shall not be denied, and a suspension of financial assistance shall not be continued for longer than 30 days, unless the recipient has been afforded reasonable notice and opportunity for a full and fair hearing; and
+"(3) financial assistance under this subchapter shall not be terminated or reduced, an application for refunding shall not be denied, and a suspension of financial assistance shall not be continued for longer than 30 days, unless the recipient has been afforded reasonable notice and opportunity for a full and fair hearing; and
 
-“(4) the Secretary shall develop and publish procedures (including mediation procedures) to be used in order to—
+"(4) the Secretary shall develop and publish procedures (including mediation procedures) to be used in order to—
 
-&emsp;“(A) resolve in a timely manner conflicts potentially leading to adverse action between—
+&emsp;"(A) resolve in a timely manner conflicts potentially leading to adverse action between—
 
-&emsp;&emsp;“(i) recipients of financial assistance under this subchapter; and
+&emsp;&emsp;"(i) recipients of financial assistance under this subchapter; and
 
-&emsp;&emsp;“(ii) delegate agencies or Head Start Parent Policy Councils; and
+&emsp;&emsp;"(ii) delegate agencies or Head Start Parent Policy Councils; and
 
-&emsp;“(B) avoid the need for an administrative hearing on an adverse action.”
+&emsp;"(B) avoid the need for an administrative hearing on an adverse action."
 
 <b>1994</b>—Subsec. (a)(4). Pub. L. 103–252, §113(a), added par. (4).
 
-Subsecs. (b) to (e). Pub. L. 103–252, §113(b), added subsecs. (b) to (e) and struck out former subsec. (b) which read as follows: “The Secretary may not prescribe any procedure that would modify the operation of section 1303.21 or 1303.33, or any of subdivisions (a) through (f) of section 1303.35, of title 45 of the Code of Federal Regulations as in effect on April 1, 1990.”
+Subsecs. (b) to (e). Pub. L. 103–252, §113(b), added subsecs. (b) to (e) and struck out former subsec. (b) which read as follows: "The Secretary may not prescribe any procedure that would modify the operation of section 1303.21 or 1303.33, or any of subdivisions (a) through (f) of section 1303.35, of title 45 of the Code of Federal Regulations as in effect on April 1, 1990."
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–501, §115(1), (2), designated existing provisions as subsec. (a) and inserted “or reduced” after “terminated” in par. (3).
+<b>1990</b>—Subsec. (a). Pub. L. 101–501, §115(1), (2), designated existing provisions as subsec. (a) and inserted "or reduced" after "terminated" in par. (3).
 
 Subsec. (b). Pub. L. 101–501, §115(3), added subsec. (b).
 

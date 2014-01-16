@@ -16,13 +16,13 @@ There are hereby authorized to be appropriated for each fiscal year such sums as
 
 #### (b) Payments; advances or reimbursements; installments; conditions
 
-Payments of grants or under contracts or cooperative arrangements under this section may be made in advance or by way of reimbursement,and in such installments, as the Secretary may determine; and shall be made on such conditions as the Secretary finds necessary to carry out the purposes of the grants, contracts, or other arrangements.
+Payments of grants or under contracts or cooperative arrangements under this section may be made in advance or by way of reimbursement, and in such installments, as the Secretary may determine; and shall be made on such conditions as the Secretary finds necessary to carry out the purposes of the grants, contracts, or other arrangements.
 
 #### (c) Child welfare traineeships
 
 The Secretary may approve an application for a grant to a public or nonprofit institution for higher learning to provide traineeships with stipends under subsection (a)(1)(C) only if the application—
 
-&emsp;(1) provides assurances that each individual who receives a stipend with such traineeship (in this section referred to as a “recipient”) will enter into an agreement with the institution under which the recipient agrees—
+&emsp;(1) provides assurances that each individual who receives a stipend with such traineeship (in this section referred to as a "recipient") will enter into an agreement with the institution under which the recipient agrees—
 
 &emsp;&emsp;(A) to participate in training at a public or private nonprofit child welfare agency on a regular basis (as determined by the Secretary) for the period of the traineeship;
 
@@ -48,7 +48,7 @@ Section 628a of this title, referred to in subsec. (a)(1)(C), was transferred an
 
 #### Codification
 
-Section 628a of this title, which was transferred and redesignated as subsec. (c) of this section by Pub. L. 109–288, was based on act Aug. 14, 1935, ch. 531, title IV, §429, as added Pub. L. 103–432, title II, §205(a), Oct. 31, 1994, 108 Stat. 4456.
+Section 628a of this title, which was transferred and redesignated as subsec. (c) of this section by Pub. L. 109–288, was based on act Aug. 14, 1935, ch. 531, title IV,§429, as added Pub. L. 103–432, title II, §205(a), Oct. 31, 1994, 108 Stat. 4456.
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Subsec. (c). Pub. L. 109–288, §6(f)(2), amended section as amended by Pub. L.
 
 Pub. L. 109–288, §11(b), redesignated subsec. (c) as (b).
 
-<b>1994</b>—Subsec. (a)(1)(C). Pub. L. 103–432 inserted “described in section 628a of this title” after “including traineeships”.
+<b>1994</b>—Subsec. (a)(1)(C). Pub. L. 103–432 inserted "described in section 628a of this title" after "including traineeships".
 
 <b>1987</b>—Subsecs. (b), (c). Pub. L. 100–203 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payment
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–432, title II, §205(c), Oct. 31, 1994, 108 Stat. 4457, provided that: “The amendments made by this section \[enacting section 628a of this title and amending this section\] shall apply to grants awarded on or after October 1, 1995.”
+Pub. L. 103–432, title II, §205(c), Oct. 31, 1994, 108 Stat. 4457, provided that: "The amendments made by this section \[enacting section 628a of this title and amending this section\] shall apply to grants awarded on or after October 1, 1995."
 
 #### Appropriations or Grants
 

@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. 428; R.S. 1554; R.S. 1555.
 
-The words “from time to time cause to be”, “transmitted to him”, and “for the purpose of being” are omitted as surplusage. The words “Marine Corps” are inserted for clarity, since the provision is interpreted as applicable thereto.
+The words "from time to time cause to be", "transmitted to him", and "for the purpose of being" are omitted as surplusage. The words "Marine Corps" are inserted for clarity, since the provision is interpreted as applicable thereto.
 

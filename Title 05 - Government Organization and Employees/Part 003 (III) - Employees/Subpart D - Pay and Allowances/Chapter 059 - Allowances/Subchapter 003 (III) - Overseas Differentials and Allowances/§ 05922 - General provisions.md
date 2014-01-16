@@ -14,7 +14,7 @@
 
 &emsp;(2) such other method as is provided by law for the recovery of amounts owing to the Government.
 
-> The head of the agency concerned, under regulations of the President, may waive in whole or in part a right of recovery under this subsection, if it is shown that the recovery would be against equity and good conscience or against the public interest.
+> The head of the agency concerned, under regulations of the President, may waive in whole or inpart a right of recovery under this subsection, if it is shown that the recovery would be against equity and good conscience or against the public interest.
 
 (c) The allowances and differentials authorized by this subchapter shall be paid under regulations prescribed by the President governing—
 

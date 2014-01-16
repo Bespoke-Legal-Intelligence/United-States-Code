@@ -14,7 +14,7 @@ Notwithstanding sections 4630 and 4655 of this title, the head of a Federal agen
 
 #### (c) Effect of noncompliance with certification or with applicable law
 
-(1) The head of a Federal agency may withhold his approval of any Federal financial assistanceto or contract or cooperative agreement with any displacing agency found by the Federal agency to have failed to comply with the laws described in subsection (a) of this section.
+(1) The head of a Federal agency may withhold his approval of any Federal financial assistance to or contract or cooperative agreement with any displacing agency found by the Federal agency to have failed to comply with the laws described in subsection (a) of this section.
 
 (2) After consultation with the head of the lead agency, the head of a Federal agency may rescind his acceptance of any certification under this section, in whole or in part, if the State agency fails to comply with such certification or with State law.
 
@@ -22,11 +22,11 @@ Notwithstanding sections 4630 and 4655 of this title, the head of a Federal agen
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(3), was in the original “this Act”, meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(3), was in the original "this Act", meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
 #### Amendments
 
-<b>1995</b>—Subsec. (b)(2). Pub. L. 104–66 struck out par. (2) which read as follows: “The head of the lead agency shall, in coordination with other Federal agencies, monitor from time to time, and report biennially to the Congress on, State agency implementation of this section. A State agency shall make available any information required for such purpose.”
+<b>1995</b>—Subsec. (b)(2). Pub. L. 104–66 struck out par. (2) which read as follows: "The head of the lead agency shall, in coordination with other Federal agencies, monitor from time to time, and report biennially to the Congress on, State agency implementation of this section. A State agency shall make available any information required for such purpose."
 
 #### Effective Date
 

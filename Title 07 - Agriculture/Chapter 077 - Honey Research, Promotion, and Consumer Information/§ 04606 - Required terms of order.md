@@ -22,7 +22,7 @@ Any order issued by the Secretary under this chapter shall contain the terms and
 
 (2) The membership of the Honey Board shall consist of—
 
-&emsp;(A) 7 members who are honey producers appointed from nominations submitted by the National Honey Nominations Committee, one from each of seven regions of the United States which shall be established by the Secretary on the basis of the production of honey in the different areas of the country;
+&emsp;(A) 7 members who are honey producers appointed from nominations submitted by the National Honey Nominations Committee, onefrom each of seven regions of the United States which shall be established by the Secretary on the basis of the production of honey in the different areas of the country;
 
 &emsp;(B) 2 members who are handlers appointed from nominations submitted by the Committee from recommendations made by qualified national organizations representing handler interests;
 
@@ -112,7 +112,7 @@ Timing of review.—
 
 &emsp;&emsp;(i)
 
-In general.—The Honey Board shall conduct the reviews required under this paragraph not more than once during each 5-year period.
+In general.—The Honey Board shall conduct the reviews required under thisparagraph not more than once during each 5-year period.
 
 &emsp;&emsp;(ii)
 
@@ -128,7 +128,7 @@ In general.—The base period proportions for determining the magnitude of chang
 
 &emsp;&emsp;(ii)
 
-Initial review.—In the case of the initial review required under subparagraph (E)(ii), the base period proportions shall bethe proportions determined by the Honey Board for fiscal year 1996.
+Initial review.—In the case of the initial review required under subparagraph (E)(ii), the base period proportions shall be the proportions determined by the Honey Board for fiscal year 1996.
 
 (5)
 
@@ -218,7 +218,7 @@ Referendum requirement.—
 
 &emsp;(A)
 
-Definition of existing honey board.—The term “existing Honey Board” means the Honey Board in effect on the date of enactment of this paragraph.
+Definition of existing honey board.—The term "existing Honey Board" means the Honey Board in effect on the date of enactment of this paragraph.
 
 &emsp;(B)
 
@@ -304,7 +304,7 @@ Inapplicability.—If a person no longer meets the requirements of clause (i) fo
 
 &emsp;&emsp;(I) file a report with the Honey Board in the form and manner prescribed by the Honey Board; and
 
-&emsp;&emsp;(II) pay an assessment on or before March 15 of the subsequent year on all honey orhoney products produced, imported, or handled by the person during the year in which the person no longer meets the requirements of clause (i) for an exemption.
+&emsp;&emsp;(II) pay an assessment on or before March 15 of the subsequent year on all honey or honey products produced, imported, or handled by the person during the year in which the person no longer meets the requirements of clause (i) for an exemption.
 
 (5) If a producer, producer-packer handler,,<sup>2</sup> or importer does not pay any assessments under this chapter due to the applicability to such person of the exemptions from assessments provided in paragraph (4), then such producer, producer-packer handler,,<sup>2</sup> or importer shall not be considered a producer, handler, or importer for purposes of voting in any referendum conducted under this chapter during the period the person's exemption from all assessments is in effect.
 
@@ -362,33 +362,33 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (c)(12). Pub. L. 110–246, §10401, added par. (12).
 
-<b>1998</b>—Subsec. (b)(2). Pub. L. 105–185, §605(f)(1)(A), substituted “except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary” for “except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–185, §605(f)(1)(A), substituted "except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary" for "except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms".
 
-Subsec. (b)(5). Pub. L. 105–185, §605(f)(1)(B), struck out “after the first annual meeting” after “except that” in second sentence and substituted “percent” for “per centum” in third sentence.
+Subsec. (b)(5). Pub. L. 105–185, §605(f)(1)(B), struck out "after the first annual meeting" after "except that" in second sentence and substituted "percent" for "per centum" in third sentence.
 
-Subsec. (c)(2)(A). Pub. L. 105–185, §605(f)(2)(B)(i), substituted “7 members” for “seven members”.
+Subsec. (c)(2)(A). Pub. L. 105–185, §605(f)(2)(B)(i), substituted "7 members" for "seven members".
 
 Subsec. (c)(2)(B) to (E). Pub. L. 105–185, §605(f)(2)(B)(ii), added subpars. (B) to (E) and struck out former subpars. (B) to (E) and concluding provisions which read as follows:
 
-&emsp;“(B) two members who are handlers of honey appointed from nominations submitted by the Committee from recommendations made by industry organizations representing handler interests;
+&emsp;"(B) two members who are handlers of honey appointed from nominations submitted by the Committee from recommendations made by industry organizations representing handler interests;
 
-&emsp;“(C) two members who are either importers or exporters, of which at least one shall be an importer, appointed from nominations submitted by the Committee from recommendations by industry organizations representing importer and exporter interests;
+&emsp;"(C) two members who are either importers or exporters, of which at least one shall be an importer, appointed from nominations submitted by the Committee from recommendations by industry organizations representing importer and exporter interests;
 
-&emsp;“(D) one member who is an officer or employee of a honey marketing cooperative appointed from nominations submitted by the Committee; and
+&emsp;"(D) one member who is an officer or employee of a honey marketing cooperative appointed from nominations submitted by the Committee; and
 
-&emsp;“(E) one member selected by the Secretary from the general public.
+&emsp;"(E) one member selected by the Secretary from the general public.
 
-> The Committee shall also submit nominations for an alternate for each member of the Honey Board described in subparagraphs (A) through (D), and the Secretary shall appoint an alternate for the member described in subparagraph (E). Such alternates shall be appointed in the same manner as members are and shall serve only whenever the member is absent from a meeting or is disqualified. However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer.”
+> The Committee shall also submit nominations for an alternate for each member of the Honey Board described in subparagraphs (A) through (D), and the Secretary shall appoint an alternate for the member described in subparagraph (E). Such alternates shall be appointed in the same manner as members are and shall serve only whenever the member is absent from a meeting or is disqualified. However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer."
 
 Subsec. (c)(3) to (7). Pub. L. 105–185, §605(f)(2)(A), (C), added pars. (3) to (7) and redesignated former pars. (3) to (6) as (8) to (11), respectively.
 
-Subsec. (c)(8). Pub. L. 105–185, §605(f)(2)(A), (D), redesignated par. (3) as (8) and substituted “except that appointments to the Honey Board may be staggered periodically, as determined by the Secretary, to maintain continuity of the Honey Board with respect to all members and with respect to members representing particular groups.” for “except that the initial appointments to the Honey Board shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
+Subsec. (c)(8). Pub. L. 105–185, §605(f)(2)(A), (D), redesignated par. (3) as (8) and substituted "except that appointments to the Honey Board may be staggered periodically, as determined by the Secretary, to maintain continuity of the Honey Board with respect to all members and with respect to members representing particular groups." for "except that the initial appointments to the Honey Board shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms".
 
 Subsec. (c)(9) to (11). Pub. L. 105–185, §605(f)(2)(A), redesignated pars. (4) to (6) as (9) to (11), respectively.
 
-Subsec. (e)(1). Pub. L. 105–185, §605(f)(3)(B), added par. (1) and struck out former par. (1) which read as follows: “The Honey Board shall administer collection of the assessment provided for in this paragraph to finance the expenses described in subsections (d) and (f) of this section. The assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title.”
+Subsec. (e)(1). Pub. L. 105–185, §605(f)(3)(B), added par. (1) and struck out former par. (1) which read as follows: "The Honey Board shall administer collection of the assessment provided for in this paragraph to finance the expenses described in subsections (d) and (f) of this section. The assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title."
 
-Subsec. (e)(2). Pub. L. 105–277 substituted “$0.01” for “$0.0075” wherever appearing.
+Subsec. (e)(2). Pub. L. 105–277 substituted "$0.01" for "$0.0075" wherever appearing.
 
 Pub. L. 105–185, §605(f)(3)(A), (B), added par. (2) and redesignated former par. (2) as (4).
 
@@ -398,35 +398,35 @@ Subsec. (e)(4). Pub. L. 105–185, §605(f)(3)(A), redesignated par. (2) as (4).
 
 Subsec. (e)(4)(B). Pub. L. 105–185, §605(f)(3)(C), added subpar. (B) and struck out former subpar. (B) which read as follows:
 
-“(B)(i) A producer, producer-packer, or importer who produces or imports during any year less than 6,000 pounds of honey shall be eligible for an exemption in such year from paying an assessment on honey such person distributes directly through local retail outlets, as determined by the Secretary, during such year.
+"(B)(i) A producer, producer-packer, or importer who produces or imports during any year less than 6,000 pounds of honey shall be eligible for an exemption in such year from paying an assessment on honey such person distributes directly through local retail outlets, as determined by the Secretary, during such year.
 
-“(ii) In order to claim an exemption under this subparagraph, a person shall submit an application to the Honey Board stating the basis on which the person claims the exemption for such year.
+"(ii) In order to claim an exemption under this subparagraph, a person shall submit an application to the Honey Board stating the basis on which the person claims the exemption for such year.
 
-“(iii) If, after a person claims an exemption from assessments for any year under this subparagraph, such person no longer meets the requirements of this subparagraph for an exemption, such person shall file a report with the Honey Board in the form and manner prescribed by the Board and pay an assessment on or before March 15 of the subsequent year on all honey produced or imported by such person during the year for which the person claimed the exemption.”
+"(iii) If, after a person claims an exemption from assessments for any year under this subparagraph, such person no longer meets the requirements of this subparagraph for an exemption, such person shall file a report with the Honey Board in the form and manner prescribed by the Board and pay an assessment on or before March 15 of the subsequent year on all honey produced or imported by such person during the year for which the person claimed the exemption."
 
-Subsec. (e)(5). Pub. L. 105–185, §605(f)(3)(A), (D), redesignated par. (3) as (5), inserted “handler,” after “producer-packer” in two places, substituted “paragraph (4)” for “paragraph (2)”, and inserted “, handler,” after “considered a producer”.
+Subsec. (e)(5). Pub. L. 105–185, §605(f)(3)(A), (D), redesignated par. (3) as (5), inserted "handler," after "producer-packer" in two places, substituted "paragraph (4)" for "paragraph (2)", and inserted ", handler," after "considered a producer".
 
-Subsec. (f). Pub. L. 105–185, §605(f)(4), inserted heading, designated first sentence as par. (1), inserted par. heading, struck out “from the assessments” before “shall be used”, added par. (2), designated second sentence as par. (3), and added par. heading.
+Subsec. (f). Pub. L. 105–185, §605(f)(4), inserted heading, designated first sentence as par. (1), inserted par. heading, struck out "from the assessments" before "shall be used", added par. (2), designated second sentence as par. (3), and added par. heading.
 
-Subsec. (g). Pub. L. 105–185, §605(f)(5), substituted “by the Honey Board” for “with assessments collected”.
+Subsec. (g). Pub. L. 105–185, §605(f)(5), substituted "by the Honey Board" for "with assessments collected".
 
-Subsec. (h). Pub. L. 105–185, §605(f)(6), substituted “by the Honey Board under” for “through assessments authorized by”.
+Subsec. (h). Pub. L. 105–185, §605(f)(6), substituted "by the Honey Board under" for "through assessments authorized by".
 
-<b>1990</b>—Subsec. (c)(2). Pub. L. 101–624, §1983(1)(B), (C), in concluding provisions, substituted “submit nominations for an alternate” for “nominate an alternate or alternates” and inserted at end “However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer.”
+<b>1990</b>—Subsec. (c)(2). Pub. L. 101–624, §1983(1)(B), (C), in concluding provisions, substituted "submit nominations for an alternate" for "nominate an alternate or alternates" and inserted at end "However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer."
 
-Subsec. (c)(2)(C). Pub. L. 101–624, §1983(1)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “two members who are importers appointed from nominations submitted by the Committee from recommendations made by industry organizations representing importer interests;”.
+Subsec. (c)(2)(C). Pub. L. 101–624, §1983(1)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: "two members who are importers appointed from nominations submitted by the Committee from recommendations made by industry organizations representing importer interests;".
 
-Subsec. (c)(4). Pub. L. 101–624, §1983(1)(D), inserted before period at end “, except that if, as a result of the adjustment of the boundaries of the regions established under paragraph (2)(A), a producer member or alternate is no longer from the region from which such person was appointed, such member or alternate may serve out the term for which such person was appointed”.
+Subsec. (c)(4). Pub. L. 101–624, §1983(1)(D), inserted before period at end ", except that if, as a result of the adjustment of the boundaries of the regions established under paragraph (2)(A), a producer member or alternate is no longer from the region from which such person was appointed, such member or alternate may serve out the term for which such person was appointed".
 
-Subsec. (e)(1). Pub. L. 101–624, §1984(a)(1), substituted new second sentence for “For the first year in which the plan is in effect, the assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title. After the first year, the Honey Board may submit to the Secretary a request for an increase in the assessment rate not to exceed 0.5 cent per year, but at no time may the total assessment rate exceed $0.04 per pound.”
+Subsec. (e)(1). Pub. L. 101–624, §1984(a)(1), substituted new second sentence for "For the first year in which the plan is in effect, the assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title. After the first year, the Honey Board may submit to the Secretary a request for an increase in the assessment rate not to exceed 0.5 cent per year, but at no time may the total assessment rate exceed $0.04 per pound."
 
-Subsec. (e)(2), (3). Pub. L. 101–624, §1984(a)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: “A producer or producer-packer who produces, or handles, or produces and handles less than six thousand pounds of honey per year or an importer who imports less than six thousand pounds of honey per year shall be exempt from the assessment. In order to claim such an exemption, a person shall submit an application to the Honey Board stating that their production, handling, or importation of honey shall not exceed six thousand pounds for the year for which the exemption is claimed.”
+Subsec. (e)(2), (3). Pub. L. 101–624, §1984(a)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: "A producer or producer-packer who produces, or handles, or produces and handles less than six thousand pounds of honey per year or an importer who imports less than six thousand pounds of honey per year shall be exempt from the assessment. In order to claim such an exemption, a person shall submit an application to the Honey Board stating that their production, handling, or importation of honey shall not exceed six thousand pounds for the year for which the exemption is claimed."
 
 Subsec. (k). Pub. L. 101–624, §1983(2), added subsec. (k).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1998 Amendment
 

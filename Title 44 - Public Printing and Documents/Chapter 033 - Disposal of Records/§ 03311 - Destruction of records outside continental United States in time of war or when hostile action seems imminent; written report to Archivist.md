@@ -16,7 +16,7 @@ Based on 44 U.S. Code, 1964 ed., §376 (July 7, 1943, ch. 192, §11, 57 Stat. 38
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–497 substituted “Archivist” for “Administrator of General Services” in section catchline and text.
+<b>1984</b>—Pub. L. 98–497 substituted "Archivist" for "Administrator of General Services" in section catchline and text.
 
 #### Effective Date of 1984 Amendment
 

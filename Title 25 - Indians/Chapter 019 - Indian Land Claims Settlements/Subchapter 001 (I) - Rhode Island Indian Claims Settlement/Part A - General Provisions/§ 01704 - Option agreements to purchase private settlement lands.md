@@ -14,7 +14,7 @@ The total amount of the option fees paid pursuant to subsection (b) of this sect
 
 #### (d) Application of option fee
 
-The option fee for each option agreement shall be applied to the agreed purchase price in the agreement if the purchase of the defendant'sland or natural resources is completed in accordance with the terms of the option agreement.
+The option fee for each option agreement shall be applied to the agreed purchase price in the agreement if the purchase of the defendant's land or natural resources is completed in accordance with the terms of the option agreement.
 
 #### (e) Retention of option payment
 

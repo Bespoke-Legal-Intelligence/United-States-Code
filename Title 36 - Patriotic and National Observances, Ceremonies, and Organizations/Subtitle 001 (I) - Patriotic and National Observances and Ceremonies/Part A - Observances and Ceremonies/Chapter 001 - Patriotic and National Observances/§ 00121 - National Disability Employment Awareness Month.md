@@ -42,5 +42,5 @@ Aug. 11, 1945, ch. 363, 59 Stat. 530; Oct. 8, 1970, Pub. L. 91–442, 84 Stat. 9
 
 &nbsp;
 
-In subsection (b), the words “of States” and “of cities” are omitted as unnecessary. The words “governmental entities” are substituted for “instrumentalities of government” for consistency in the revised title and with other titles of the United States Code. The words “as well as leaders of industry, educational and religious groups, labor, veterans, women, farm, scientific and professional, and all other” are omitted as unnecessary.
+In subsection (b), the words "of States" and "of cities" are omitted as unnecessary. The words "governmental entities" are substituted for "instrumentalities of government" for consistency in the revised title and with other titles of the United States Code. The words "as well as leaders of industry, educational and religious groups, labor, veterans, women, farm, scientific and professional, and all other" are omitted as unnecessary.
 

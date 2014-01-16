@@ -6,7 +6,7 @@ The Secretary of Health and Human Services is authorized to enter into contracts
 
 #### (b) Research activities
 
-The Secretary of Health and Human Services shall initiate research within the National Institute for Occupational Safety and Health, and is authorized to make research grants to public and private agencies and organizations and individuals for the purpose of devising simple and effective tests to measure, detect, and treat respiratory and pulmonary impairments in active and inactive coal miners. Any grant made pursuant to this subsection shall be conditioned upon all information, uses, products, processes, patents, and other developments resulting from such research being available to the general public, except to the extent of such exceptions and limitations as the Secretary of Health and Human Services may deem necessary in the public interest.
+The Secretary of Health and Human Services shall initiate research within the National Institute for Occupational Safety and Health, and is authorized to make research grants to public and private agencies and organizations and individuals for the purpose of devising simple and effective tests to measure, detect, and treat respiratory and pulmonary impairments in active and inactive coal miners. Any grant made pursuant to this subsection shall be conditioned upon all information, uses, products, processes, patents, and other developments resulting from such research being available to the general public, except to the extent of such exceptionsand limitations as the Secretary of Health and Human Services may deem necessary in the public interest.
 
 #### (c) Authorization of appropriations
 
@@ -16,11 +16,11 @@ There is hereby authorized to be appropriated for the purpose of subsection (a) 
 
 #### Amendments
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–239 substituted “$10,000,000 for each fiscal year” for “$10,000,000 for each of the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–239 substituted "$10,000,000 for each fiscal year" for "$10,000,000 for each of the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975".
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a) and (b) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (a) and (b) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1978 Amendment
 

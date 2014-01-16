@@ -4,11 +4,13 @@
 
 In General.—The Secretary may make a grant to a State authority (including a municipality with respect to intrastate gas pipeline transportation) to assist in improving the overall quality and effectiveness of a damage prevention program of the State authority under subsection (e) if the State authority—
 
-&emsp;(1) has in effect an annual certification under section 60105 or an agreement under section 60106; and
+&emsp;(1) has in effect an annual certification under section 60105 or an agreement under section 60106;
 
 &emsp;(2)(A) has in effect an effective damage prevention program that meets the requirements of subsection (b); or
 
-&emsp;(B) demonstrates that it has made substantial progress toward establishing such a program, and that such program will meet the requirements of subsection (b).
+&emsp;(B) demonstrates that it has made substantial progress toward establishing such a program, and that such program will meet the requirements of subsection (b); and
+
+&emsp;(3) does not provide any exemptions to municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
 
 (b)
 
@@ -54,27 +56,13 @@ Limitation on Use of Funds.—Funds provided to carry out this section may not b
 
 (h)
 
-Damage Prevention Process Defined.—In this section, the term “damage prevention process” means a process that incorporates the principles described in sections 60114(b), 60114(d), and 60114(e).
+Damage Prevention Process Defined.—In this section, the term "damage prevention process" means a process that incorporates the principles described in sections 60114(b), 60114(d), and 60114(e).
 
 (i)
 
 Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to provide grants under this section $1,500,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.
 
 (Added Pub. L. 109–468, §2(b)(2), Dec. 29, 2006, 120 Stat. 3487; amended Pub. L. 112–90, §§3(b), 32(d), Jan. 3, 2012, 125 Stat. 1906, 1923.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 112–90, §3(b), (c), Jan. 3, 2012, 125 Stat. 1906, provided that, effective 2 years after Jan. 3, 2012, subsec. (a) is amended as follows:</i>
-
-<i>(1) in paragraph (1) by striking “and” after the semicolon;</i>
-
-<i>(2) in paragraph (2)(B) by striking “(b).” and inserting “(b); and”; and</i>
-
-<i>(3) by adding at the end the following:</i>
-
-&emsp;<i>(3) does not provide any exemptions to municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.</i>
-
-<i>See 2012 Amendment note below.</i>
 
 #### Amendments
 

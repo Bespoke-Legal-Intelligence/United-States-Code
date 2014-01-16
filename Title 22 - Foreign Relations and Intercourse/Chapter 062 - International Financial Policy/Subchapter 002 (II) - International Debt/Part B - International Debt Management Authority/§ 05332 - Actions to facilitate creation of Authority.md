@@ -12,7 +12,7 @@ No funds, appropriations, contributions, callable capital, financial guarantee, 
 
 #### (b) Construction of section
 
-Subsection (a) of this section shall not be construed to affect any provision of the Articles of Agreement of the International Monetary Fund or of the International Bank for Reconstruction and Development or any agreement entered into under either of such Agreements.
+Subsection (a) of this section shall not be construed to affect any provision of the Articles ofAgreement of the International Monetary Fund or of the International Bank for Reconstruction and Development or any agreement entered into under either of such Agreements.
 
 (Pub. L. 100–418, title III, §3112, Aug. 23, 1988, 102 Stat. 1378.)
 

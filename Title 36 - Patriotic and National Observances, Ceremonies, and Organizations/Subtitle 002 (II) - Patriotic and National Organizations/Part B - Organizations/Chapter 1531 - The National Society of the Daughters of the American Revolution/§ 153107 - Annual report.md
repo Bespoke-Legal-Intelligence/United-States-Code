@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Feb. 20, 1896, ch. 23, §3 (1st sentence), 29 Stat. 9.
 
-The words “submit an annual report” are substituted for “report annually” for consistency in the revised title.
+The words "submit an annual report" are substituted for "report annually" for consistency in the revised title.
 
 #### Termination of Reporting Requirements
 

@@ -18,7 +18,7 @@
 
 (2) Nothing in paragraph (1)(B) shall be construed to interfere with or supersede the authority of other Federal agencies or bureaus.
 
-(f) In accordance with procedures established by the Director, and except for public money deposited under section 2041 of this title, each United States marshal shall deposit public moneys that the marshal collects into the Treasury, subject to disbursement by the marshal. At the end of each accounting period, the earned part of public moneys accruing to the United States shall be deposited in the Treasury to the credit of the appropriate receipt accounts.
+(f) In accordance with procedures established by the Director, and except for public money deposited under section 2041 of this title, each United States marshal shall deposit public moneys that the marshal collects into the Treasury, subject to disbursement by the marshal. At theend of each accounting period, the earned part of public moneys accruing to the United States shall be deposited in the Treasury to the credit of the appropriate receipt accounts.
 
 (g) Prior to resignation, retirement, or removal from office—
 
@@ -28,9 +28,9 @@
 
 (h) The United States marshals shall pay such office expenses of United States Attorneys as may be directed by the Attorney General.
 
-(i) The Director of the United States Marshals Service shall consult with the Judicial Conference of the United States on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
+(i) The Director of the United States Marshals Service shall consult with the Judicial Conference of the United States on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term "judicial security" includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
 
-(Added Pub. L. 100–690, title VII, §7608(a)(1), Nov. 18, 1988, 102 Stat. 4514; amended Pub. L. 110–177, title I, §§101(a), 102(a), Jan. 7, 2008, 121 Stat. 2534,2535; Pub. L. 112–206, §4(b), Dec. 7, 2012, 126 Stat. 1492.)
+(Added Pub. L. 100–690, title VII, §7608(a)(1), Nov. 18, 1988, 102 Stat. 4514; amended Pub. L. 110–177, title I, §§101(a), 102(a), Jan. 7, 2008, 121 Stat. 2534, 2535; Pub. L. 112–206, §4(b), Dec. 7, 2012, 126 Stat. 1492.)
 
 #### Prior Provisions
 
@@ -40,7 +40,7 @@ A prior section 566, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620
 
 <b>2012</b>—Subsec. (e)(1)(C). Pub. L. 112–206 added subpar. (C).
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–177, §102(a), substituted “, the Court of International Trade, and the United States Tax Court, as provided by law” for “and the Court of International Trade”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–177, §102(a), substituted ", the Court of International Trade, and the United States Tax Court, as provided by law" for "and the Court of International Trade".
 
 Subsec. (i). Pub. L. 110–177, §101(a), added subsec. (i).
 
@@ -48,15 +48,15 @@ Subsec. (i). Pub. L. 110–177, §101(a), added subsec. (i).
 
 Pub. L. 106–544, §6, Dec. 19, 2000, 114 Stat. 2718, as amended by Pub. L. 110–177, title V, §507, Jan. 7, 2008, 121 Stat. 2543, provided that:
 
-“(a)
+"(a)
 
 In General.—The Attorney General shall, upon consultation with appropriate Department of Justice and Department of the Treasury law enforcement components, establish permanent Fugitive Apprehension Task Forces consisting of Federal, State, and local law enforcement authorities in designated regions of the United States, to be directed and coordinated by the United States Marshals Service, for the purpose of locating and apprehending fugitives.
 
-“(b)
+"(b)
 
 Authorization of Appropriations.—There are authorized to be appropriated to the Attorney General for the United States Marshals Service to carry out the provisions of this section $30,000,000 for the fiscal year 2001, $5,000,000 for fiscal year 2002, $5,000,000 for fiscal year 2003, and $10,000,000 for each of fiscal years 2008 through 2012.
 
-“(c)
+"(c)
 
-Other Existing Applicable Law.—Nothing in this section shall be construed to limit any existing authority under any other provision of Federal or State law for law enforcement agencies to locate or apprehend fugitives through task forces or any other means.”
+Other Existing Applicable Law.—Nothing in this section shall be construed to limit any existing authority under any other provision of Federal or State law for law enforcement agencies to locate or apprehend fugitives through task forces or any other means."
 

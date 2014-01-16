@@ -2,7 +2,7 @@
 
 #### (a) Qualifying shipping activities
 
-For purposes of this subchapter, the term “qualifying shipping activities” means—
+For purposes of this subchapter, the term "qualifying shipping activities" means—
 
 &emsp;(1) core qualifying activities,
 
@@ -12,7 +12,7 @@ For purposes of this subchapter, the term “qualifying shipping activities” m
 
 #### (b) Core qualifying activities
 
-For purposes of this subchapter, the term “core qualifying activities” means activities in operating qualifying vessels in United States foreign trade.
+For purposes of this subchapter, the term "core qualifying activities" means activities in operating qualifying vessels in United States foreign trade.
 
 #### (c) Qualifying secondary activities
 
@@ -20,11 +20,11 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualifying secondary activities” means secondary activities but only to the extent that, without regard to this subchapter, the gross income derived by such corporation from such activities does not exceed 20 percent of the gross income derived by the corporation from its core qualifying activities.
+&emsp;The term "qualifying secondary activities" means secondary activities but only to the extent that, without regard to this subchapter, the gross income derived by such corporation from such activities does not exceed 20 percent of the gross income derived by the corporation from its core qualifying activities.
 
 #### (2) Secondary activities
 
-&emsp;The term “secondary activities” means—
+&emsp;The term "secondary activities" means—
 
 &emsp;&emsp;(A) the active management or operation of vessels other than qualifying vessels in the United States foreign trade,
 
@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (d) Qualifying incidental activities
 
-For purposes of this section, the term “qualified incidental activities” means shipping-related activities if—
+For purposes of this section, the term "qualified incidental activities" means shipping-related activities if—
 
 &emsp;(1) they are incidental to the corporation's core qualifying activities,
 
@@ -64,13 +64,13 @@ In the case of an electing group, subsections (c)(1) and (d)(3) shall be applied
 
 Subsec. (c)(3). Pub. L. 109–135, §403(g)(3)(A), struck out heading and text of par. (3). Text read as follows:
 
-“(A)
+"(A)
 
 In general.—Such term shall not include any core qualifying activities.
 
-“(B)
+"(B)
 
-Nonelecting corporations.—In the case of a corporation (other than an electing corporation) which is a member of an electing group, any core qualifying activities of the corporation shall be treated as qualifying secondary activities (and not as core qualifying activities).”
+Nonelecting corporations.—In the case of a corporation (other than an electing corporation) which is a member of an electing group, any core qualifying activities of the corporation shall be treated as qualifying secondary activities (and not as core qualifying activities)."
 
 #### Effective Date of 2005 Amendment
 

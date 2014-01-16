@@ -96,7 +96,7 @@ After February 28, 1977, no foreign fishing vessel shall engage in fishing withi
 
 #### (11) Issuance of permits
 
-&emsp;If a foreign nation notifies the Secretary of State of its acceptance of the conditions and restrictions established by the Secretary under paragraph (7), the Secretary of State shall promptly transmit such notification to the Secretary. Upon payment of the applicable fees established pursuant to paragraph (10), the Secretary shall thereupon issue to such foreign nation, through the Secretary of State, permits for the appropriate fishing vessels of that nation. Each permit shall contain a statement of all conditions and restrictions established under paragraph (7) which apply to the fishing vessel for which the permit is issued.
+&emsp;If a foreign nation notifies the Secretary of State of its acceptance of the conditions and restrictions established by the Secretary under paragraph (7), the Secretary of State shall promptly transmit such notification to the Secretary. Upon payment of the applicablefees established pursuant to paragraph (10), the Secretary shall thereupon issue to such foreign nation, through the Secretary of State, permits for the appropriate fishing vessels of that nation. Each permit shall contain a statement of all conditions and restrictions established under paragraph (7) which apply to the fishing vessel for which the permit is issued.
 
 #### (c) Registration permits
 
@@ -178,7 +178,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### (4) Marine conservation plans
 
-&emsp;(A) Prior to entering into a Pacific Insular Area fishery agreement, the Western Pacific Council and the appropriate Governor shall develop a 3-year marine conservation plan detailing uses for funds to be collected by the Secretary pursuant to such agreement. Suchplan shall be consistent with any applicable fishery management plan, identify conservation and management objectives (including criteria for determining when such objectives have been met), and prioritize planned marine conservation projects. Conservation and management objectives shall include, but not be limited to—
+&emsp;(A) Prior to entering into a Pacific Insular Area fishery agreement, the Western Pacific Council and the appropriate Governor shall develop a 3-year marine conservation plan detailing uses for funds to be collected by the Secretary pursuant to such agreement. Such plan shall be consistent with any applicable fishery management plan, identify conservation and management objectives (including criteria for determining when such objectives have been met), and prioritize planned marine conservation projects. Conservation and management objectives shall include, but not be limited to—
 
 &emsp;&emsp;(i) Pacific Insular Area observer programs, or other monitoring programs, that the Secretary determines are adequate to monitor the harvest, bycatch, and compliance with the laws of the United States by foreign fishing vessels that fish under Pacific Insular Area fishing agreements;
 
@@ -200,7 +200,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### (6) Use of payments by American Samoa, Guam, Northern Mariana Islands
 
-&emsp;Any payments received by the Secretary under a Pacific Insular Area fishery agreement for American Samoa, Guam, or the Northern Mariana Islands shall be deposited into the United States Treasury and then covered over to the Treasury of the Pacific Insular Area for which those funds were collected. Amounts deposited in the Treasury of a Pacific Insular Area shall be available, without appropriation or fiscal year limitation, to the Governor of the Pacific Insular Area—
+&emsp;Any payments received by the Secretary under a Pacific Insular Area fishery agreement for American Samoa, Guam, or theNorthern Mariana Islands shall be deposited into the United States Treasury and then covered over to the Treasury of the Pacific Insular Area for which those funds were collected. Amounts deposited in the Treasury of a Pacific Insular Area shall be available, without appropriation or fiscal year limitation, to the Governor of the Pacific Insular Area—
 
 &emsp;&emsp;(A) to carry out the purposes of this subsection;
 
@@ -228,75 +228,75 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### Amendment of Subsection (a)
 
-<i>Pub. L. 102–251, title III, §§301(f), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “within the special areas,” before “or for anadromous species” and “or areas” after “such zone”.</i>
+<i>Pub. L. 102–251, title III, §§301(f), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting "within the special areas," before "or for anadromous species" and "or areas" after "such zone".</i>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(6)(A), (c), (d)(3)(A), and (e)(2)(A), (C), (7), (8), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (b)(6)(A), (c), (d)(3)(A), and (e)(2)(A), (C), (7), (8), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 112(b) of the Sustainable Fisheries Act, referred to in subsec. (e)(4)(A)(v), is section 112(b) of Pub. L. 104–297, which amended section 1856 of this title. The reference probably should have been to section 111(b) of Pub. L. 104–297 which relates to western Pacific demonstration projects and is set out as a note under section 1855 of this title.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (e)(4)(A)(i). Pub. L. 109–479, §404(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “establishment of Pacific Insular Area observer programs, approved by the Secretary in consultation with the Western Pacific Council, that provide observer coverage for foreign fishing under Pacific Insular Area fishery agreements that is at least equal in effectiveness to the program established by the Secretary under section 1821(h) of this title;”.
+<b>2007</b>—Subsec. (e)(4)(A)(i). Pub. L. 109–479, §404(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "establishment of Pacific Insular Area observer programs, approved by the Secretary in consultation with the Western Pacific Council, that provide observer coverage for foreign fishing under Pacific Insular Area fishery agreements that is at least equal in effectiveness to the program established by the Secretary under section 1821(h) of this title;".
 
-Subsec. (e)(7). Pub. L. 109–479, §6(1), inserted “and any funds or contributions received in support of conservation and management objectives under a marine conservation plan” after “agreement” in introductory provisions.
+Subsec. (e)(7). Pub. L. 109–479, §6(1), inserted "and any funds or contributions received in support of conservation and management objectives under a marine conservation plan" after "agreement" in introductory provisions.
 
-Subsec. (e)(8). Pub. L. 109–479, §6(2), inserted at end “In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.”
+Subsec. (e)(8). Pub. L. 109–479, §6(2), inserted at end "In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection."
 
-<b>1996</b>—Subsec. (b)(7). Pub. L. 104–297, §105(d)(1), inserted “or subsection (d) of this section” after “under paragraph (6)” in introductory provisions.
+<b>1996</b>—Subsec. (b)(7). Pub. L. 104–297, §105(d)(1), inserted "or subsection (d) of this section" after "under paragraph (6)" in introductory provisions.
 
-Subsec. (b)(7)(A). Pub. L. 104–297, §105(d)(2), substituted “any applicable Federal or State fishing regulations” for “the regulations promulgated to implement any such plan”.
+Subsec. (b)(7)(A). Pub. L. 104–297, §105(d)(2), substituted "any applicable Federal or State fishing regulations" for "the regulations promulgated to implement any such plan".
 
-Subsec. (b)(7)(D). Pub. L. 104–297, §105(d)(3), inserted “or subsection (d) of this section” after “under paragraph (6)(B)”.
+Subsec. (b)(7)(D). Pub. L. 104–297, §105(d)(3), inserted "or subsection (d) of this section" after "under paragraph (6)(B)".
 
 Subsecs. (d), (e). Pub. L. 104–297, §105(d)(4), added subsecs. (d) and (e).
 
-<b>1990</b>—Subsec. (b)(4)(C). Pub. L. 101–627, §120(b), substituted “Council” for “council”.
+<b>1990</b>—Subsec. (b)(4)(C). Pub. L. 101–627, §120(b), substituted "Council" for "council".
 
 Subsec. (b)(10). Pub. L. 101–627, §106(a), amended par. (10) generally. Prior to amendment, par. (10) consisted of subpars. (A) to (F) relating to schedule of fees to be paid for permits for foreign fishing vessels, ratios for determining minimum fees, review and notice to Congress of performance by nations receiving allocations, factors included and excluded in cost of carrying out this chapter, use of amounts collected in fees, and deposit into general fund of United States Treasury of a determined amount.
 
 Subsec. (b)(12). Pub. L. 101–627, §106(b), struck out par. (12) which related to sanctions for violation of section 1857 of this title or for failure to pay civil penalty under section 1858 of this title or criminal fine under section 1859 of this title. See section 1858(g) of this title.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–659, §101(c)(2), substituted "exclusive economic zone" for "fishery conservation zone".
 
 Subsec. (b)(1). Pub. L. 99–659, §102(1), inserted provision that no permit issued under this section may be valid for longer than a year, with section 558(c) of title 5 inapplicable to the renewal of any such permit.
 
 Subsec. (b)(3)(G). Pub. L. 99–659, §103(b), added subpar. (G).
 
-Subsec. (b)(4)(C). Pub. L. 99–659, §102(2), struck out “, upon its request” before period at end.
+Subsec. (b)(4)(C). Pub. L. 99–659, §102(2), struck out ", upon its request" before period at end.
 
-Subsec. (b)(6)(A). Pub. L. 99–659, §102(3), inserted “, or he may disapprove all or any portion of the application”.
+Subsec. (b)(6)(A). Pub. L. 99–659, §102(3), inserted ", or he may disapprove all or any portion of the application".
 
-Subsec. (b)(10). Pub. L. 99–272 amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Fees shall be paid to the Secretary by the owner or operator of any foreign fishing vessel for which a permit is issued pursuant to this subsection. The Secretary, in consultation with the Secretary of State, shall establish a schedule of such fees which shall apply nondiscriminatorily to each foreign nation. The fees imposed under this paragraph shall be at least in an amount sufficient to return to the United States an amount which bears to the total cost of carrying out the provisions of this chapter (including, but not limited to, fishery conservation and management, fisheries research, administration, and enforcement, but excluding costs for observers covered by surcharges under section 1821(i)(4) of this title) during each fiscal year the same ratio as the aggregate quantity of fish harvested by foreign fishing vessels within the fishery conservation zone during the preceding year bears to the aggregate quantity of fish harvested by both foreign and domestic fishing vessels within such zone and the territorial waters of the United States during such preceding year. The amount collected by the Secretary under this paragraph shall be transferred to the fisheries loan fund established under section 742c of this title for so long as such fund exists and used of the purpose of making loans therefrom, but only to the extent and in amounts provided for in advance in appropriation Acts.”
+Subsec. (b)(10). Pub. L. 99–272 amended par. (10) generally. Prior to amendment, par. (10) read as follows: "Fees shall be paid to the Secretary by the owner or operator of any foreign fishing vessel for which a permit is issued pursuant to this subsection. The Secretary, in consultation with the Secretary of State, shall establish a schedule of such fees which shall apply nondiscriminatorily to each foreign nation. The fees imposed under this paragraph shall be at least in an amount sufficient to return to the United States an amount which bears to the total cost of carrying out the provisions of this chapter (including, but not limited to, fishery conservation and management, fisheries research, administration, and enforcement, but excluding costs for observers covered by surcharges under section 1821(i)(4) of this title) during each fiscal year the same ratio as the aggregate quantity of fish harvested by foreign fishing vessels within the fishery conservation zone during the preceding year bears to the aggregate quantity of fish harvested by both foreign and domestic fishing vessels within such zone and the territorial waters of the United States during such preceding year. The amount collected by the Secretary under this paragraph shall be transferred to the fisheries loan fund established under section 742c of this title for so long as such fund exists and used of the purpose of making loans therefrom, but only to the extent and in amounts provided for in advance in appropriation Acts."
 
-Subsec. (b)(10)(B), (C). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
+Subsec. (b)(10)(B), (C). Pub. L. 99–659, §101(c)(2), substituted "exclusive economic zone" for "fishery conservation zone".
 
-Subsec. (b)(12). Pub. L. 99–659, §102(4), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “If any foreign fishing vessel for which a permit has been issued pursuant to this subsection has been used in the commission of any act prohibited by section 1857 of this title the Secretary may, or if any civil penalty imposed under section 1858 of this title or any criminal fine imposed under section 1859 of this title has not been paid and is overdue the Secretary shall—
+Subsec. (b)(12). Pub. L. 99–659, §102(4), amended par. (12) generally. Prior to amendment, par. (12) read as follows: "If any foreign fishing vessel for which a permit has been issued pursuant to this subsection has been used in the commission of any act prohibited by section 1857 of this title the Secretary may, or if any civil penalty imposed under section 1858 of this title or any criminal fine imposed under section 1859 of this title has not been paid and is overdue the Secretary shall—
 
-&emsp;“(A) revoke such permit, with or without prejudice to the right of the foreign nation involved to obtain a permit for such vessel in any subsequent year;
+&emsp;"(A) revoke such permit, with or without prejudice to the right of the foreign nation involved to obtain a permit for such vessel in any subsequent year;
 
-&emsp;“(B) suspend such permit for the period of time deemed appropriate; or
+&emsp;"(B) suspend such permit for the period of time deemed appropriate; or
 
-&emsp;“(C) impose additional conditions and restrictions on the approved application of the foreign nation involved and on any permit issued under such application.
+&emsp;"(C) impose additional conditions and restrictions on the approved application of the foreign nation involved and on any permit issued under such application.
 
-> Any permit which is suspended under this paragraph for nonpayment of a civil penalty shall be reinstated by the Secretary upon the payment of such civil penalty together with interest thereon at the prevailing rate.”
+> Any permit which is suspended under this paragraph for nonpayment of a civil penalty shall be reinstated by the Secretary upon the payment of such civil penalty together with interest thereon at the prevailing rate."
 
-<b>1983</b>—Subsec. (b)(3)(B). Pub. L. 97–453, §3(1), inserted “hold” before “capacity”.
+<b>1983</b>—Subsec. (b)(3)(B). Pub. L. 97–453, §3(1), inserted "hold" before "capacity".
 
-Subsec. (b)(4). Pub. L. 97–453, §3(2), struck out “and shall be set forth under the name of each Council to which it will be transmitted for comment” after “in paragraph (3)”.
+Subsec. (b)(4). Pub. L. 97–453, §3(2), struck out "and shall be set forth under the name of each Council to which it will be transmitted for comment" after "in paragraph (3)".
 
-Subsec. (b)(4)(B). Pub. L. 97–453, §3(3), struck out “to each appropriate Council and” after “application”.
+Subsec. (b)(4)(B). Pub. L. 97–453, §3(3), struck out "to each appropriate Council and" after "application".
 
-Subsec. (b)(4)(C). Pub. L. 97–453, §3(3), substituted “a copy or a summary of the application to the appropriate council, upon its request” for “a monthly summary of foreign fishing applications including a report on approved applications as described in paragraphs (6) and (7) to the Committee on Merchant Marine and Fisheries of the House of Representatives and to the Committees on Commerce and Foreign Relations of the Senate”.
+Subsec. (b)(4)(C). Pub. L. 97–453, §3(3), substituted "a copy or a summary of the application to the appropriate council, upon its request" for "a monthly summary of foreign fishing applications including a report on approved applications as described in paragraphs (6) and (7) to the Committee on Merchant Marine and Fisheries of the House of Representatives and to the Committees on Commerce and Foreign Relations of the Senate".
 
-Subsec. (b)(5). Pub. L. 97–453, §3(4), substituted “After receiving a copy or summary of an application under paragraph (4)(C), the Council may” for “After receipt of an application transmitted under paragraph (4)(B), each appropriate Council shall”.
+Subsec. (b)(5). Pub. L. 97–453, §3(4), substituted "After receiving a copy or summary of an application under paragraph (4)(C), the Council may" for "After receipt of an application transmitted under paragraph (4)(B), each appropriate Council shall".
 
-<b>1980</b>—Subsec. (b)(4)(C). Pub. L. 96–470, §208, substituted “a monthly summary of foreign fishing applications including a report on approval applications as described in paragraph (6) and (7)” for “a copy of such material”.
+<b>1980</b>—Subsec. (b)(4)(C). Pub. L. 96–470, §208, substituted "a monthly summary of foreign fishing applications including a report on approval applications as described in paragraph (6) and (7)" for "a copy of such material".
 
 Subsec. (b)(8)(D). Pub. L. 96–470, §111(b), struck out subpar. (D) which required the Secretary to promptly transmit a copy of each application to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committees on Commerce and Foreign Relations of the Senate.
 
-Subsec. (b)(10). Pub. L. 96–561, §232(b), substituted provision directing that fees imposed under this paragraph be at least in an amount sufficient to return to the United States an amount which bears to the total cost of carrying out the provisions of this chapter, including, but not limited to, fishery conservation and management, fisheries research, administration, and enforcement, but excluding costs for observers covered by surcharges under section 1821(i)(4) of this title, during each fiscal year, the same ratio as the aggregate quantity of fish harvested by foreign fishing vessels within the fishery conservation zone during the preceding year bears to the aggregate quantity of fish harvested by both foreign and domestic fishing vessels within such zone and the territorial waters of the United States during such preceding year and that the fees collected for permits issued after 1981 be transferred to the fisheries loan fund for provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund.
+Subsec. (b)(10). Pub. L. 96–561, §232(b), substituted provision directing that fees imposed under this paragraph be at least in an amount sufficient to return to the United States an amount which bears to the total cost of carrying out the provisions of this chapter, including, but not limited to, fishery conservation and management, fisheries research, administration, and enforcement, but excluding costs for observers covered by surcharges under section 1821(i)(4) of this title, during each fiscal year, the same ratio as the aggregate quantity of fish harvested by foreign fishing vessels within the fishery conservation zone during the preceding year bears to the aggregate quantity of fish harvested by both foreign and domestic fishing vesselswithin such zone and the territorial waters of the United States during such preceding year and that the fees collected for permits issued after 1981 be transferred to the fisheries loan fund for provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund.
 
 Pub. L. 96–561, §232(a), substituted provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund for provision permitting the Secretary, in determining the level of fees, to take into account the cost of carrying out the provisions of this chapter with respect to foreign fishing, including, but not limited to, the cost of fishery conservation and management, fisheries research, administration, and enforcement.
 

@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 Oct. 25, 1982, Pub. L. 97–364, §204, 96 Stat. 1742.
 
-In subsection (c), the words “in the form and way” are substituted for “in such form, and according to such procedures” to eliminate unnecessary words.
+In subsection (c), the words "in the form and way" are substituted for "in such form, and according to such procedures" to eliminate unnecessary words.
 

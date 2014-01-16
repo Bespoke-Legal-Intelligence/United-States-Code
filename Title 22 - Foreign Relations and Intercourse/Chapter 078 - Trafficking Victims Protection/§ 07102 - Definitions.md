@@ -2,13 +2,17 @@
 
 In this chapter:
 
-#### (1) Appropriate congressional committees
+#### (1) Abuse or threatened abuse of law or legal process
 
-&emsp;The term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on the Judiciary of the Senate and the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives.
+&emsp;The term "abuse or threatened abuse of the legal process" means the use or threatened use of a law or legal process, whether administrative, civil, or criminal, in any manner or for any purpose for which the law was not designed, in order to exert pressure on another person to cause that person to take some action or refrain from taking some action.
 
-#### (2) Coercion
+#### (2) Appropriate congressional committees
 
-&emsp;The term “coercion” means—
+&emsp;The term "appropriate congressional committees" means the Committee on Foreign Relations and the Committee on the Judiciary of the Senate and the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives.
+
+#### (3) Coercion
+
+&emsp;The term "coercion" means—
 
 &emsp;&emsp;(A) threats of serious harm to or physical restraint against any person;
 
@@ -16,29 +20,29 @@ In this chapter:
 
 &emsp;&emsp;(C) the abuse or threatened abuse of the legal process.
 
-#### (3) Commercial sex act
+#### (4) Commercial sex act
 
-&emsp;The term “commercial sex act” means any sex act on account of which anything of value is given to or received by any person.
+&emsp;The term "commercial sex act" means any sex act on account of which anything of value is given to or received by any person.
 
-#### (4) Debt bondage
+#### (5) Debt bondage
 
-&emsp;The term “debt bondage” means the status or condition of a debtor arising from a pledgeby the debtor of his or her personal services or of those of a person under his or her control as a security for debt, if the value of those services as reasonably assessed is not applied toward the liquidation of the debt or the length and nature of those services are not respectively limited and defined.
+&emsp;The term "debt bondage" means the status or condition of a debtor arising from a pledge by the debtor of his or her personal services or of those of a person under his or her control as a security for debt, if the value of those services as reasonably assessed is not applied toward the liquidation of the debt or the length and nature of those services are not respectively limited and defined.
 
-#### (5) Involuntary servitude
+#### (6) Involuntary servitude
 
-&emsp;The term “involuntary servitude” includes a condition of servitude induced by means of—
+&emsp;The term "involuntary servitude" includes a condition of servitude induced by means of—
 
 &emsp;&emsp;(A) any scheme, plan, or pattern intended to cause a person to believe that, if the person did not enter into or continue in such condition, that person or another person would suffer serious harm or physical restraint; or
 
 &emsp;&emsp;(B) the abuse or threatened abuse of the legal process.
 
-#### (6) Minimum standards for the elimination of trafficking
+#### (7) Minimum standards for the elimination of trafficking
 
-&emsp;The term “minimum standards for the elimination of trafficking” means the standards set forth in section 7106 of this title.
+&emsp;The term "minimum standards for the elimination of trafficking" means the standards set forth in section 7106 of this title.
 
-#### (7) Nonhumanitarian, nontrade-related foreign assistance
+#### (8) Nonhumanitarian, nontrade-related foreign assistance
 
-&emsp;The term “nonhumanitarian, nontrade-related foreign assistance” means—
+&emsp;The term "nonhumanitarian, nontrade-related foreign assistance" means—
 
 &emsp;&emsp;(A) any assistance under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], other than—
 
@@ -62,55 +66,59 @@ In this chapter:
 
 &emsp;&emsp;(B) sales, or financing on any terms, under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], other than sales or financing provided for narcotics-related purposes following notification in accordance with the prior notification procedures applicable to reprogrammings pursuant to section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\].
 
-#### (8) Severe forms of trafficking in persons
+#### (9) Severe forms of trafficking in persons
 
-&emsp;The term “severe forms of trafficking in persons” means—
+&emsp;The term "severe forms of trafficking in persons" means—
 
 &emsp;&emsp;(A) sex trafficking in which a commercial sex act is induced by force, fraud, or coercion, or in which the person induced to perform such act has not attained 18 years of age; or
 
 &emsp;&emsp;(B) the recruitment, harboring, transportation, provision, or obtaining of a person for labor or services, through the use of force, fraud, or coercion for the purpose of subjection to involuntary servitude, peonage, debt bondage, or slavery.
 
-#### (9) Sex trafficking
+#### (10) Sex trafficking
 
-&emsp;The term “sex trafficking” means the recruitment, harboring, transportation, provision, or obtaining of a person for the purpose of a commercial sex act.
+&emsp;The term "sex trafficking" means the recruitment, harboring, transportation, provision, or obtaining of a person for the purpose of a commercial sex act.
 
-#### (10) State
+#### (11) State
 
-&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and territories and possessions of the United States.
+&emsp;The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and territories and possessions of the United States.
 
-#### (11) Task Force
+#### (12) Task Force
 
-&emsp;The term “Task Force” means the Interagency Task Force to Monitor and Combat Trafficking established under section 7103 of this title.
+&emsp;The term "Task Force" means the Interagency Task Force to Monitor and Combat Trafficking established under section 7103 of this title.
 
-#### (12) United States
+#### (13) United States
 
-&emsp;The term “United States” means the fifty States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.
+&emsp;The term "United States" means the fifty States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.
 
-#### (13) Victim of a severe form of trafficking
+#### (14) Victim of a severe form of trafficking
 
-&emsp;The term “victim of a severe form of trafficking” means a person subject to an act or practice described in paragraph (8).
+&emsp;The term "victim of a severe form of trafficking" means a person subject to an act or practice described in paragraph (9).
 
-#### (14) Victim of trafficking
+#### (15) Victim of trafficking
 
-&emsp;The term “victim of trafficking” means a person subjected to an act or practice described in paragraph (8) or (9).
+&emsp;The term "victim of trafficking" means a person subjected to an act or practice described in paragraph (9) or (10).
 
-(Pub. L. 106–386, div. A, §103, Oct. 28, 2000, 114 Stat. 1469; Pub. L. 108–193, §8(b)(1), Dec. 19, 2003, 117 Stat. 2887; Pub. L. 110–457, title III, §304(a), Dec. 23, 2008, 122 Stat. 5087.)
+(Pub. L. 106–386, div. A, §103, Oct. 28, 2000, 114 Stat. 1469; Pub. L. 108–193, §8(b)(1), Dec. 19, 2003, 117 Stat. 2887; Pub. L. 110–457, title III, §304(a), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1212(b)(1), Mar. 7, 2013, 127 Stat. 143.)
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in par. (7)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§2151 et seq.) of chapter 32 ofthis title. Chapter 1, title IV of chapter 2, chapter 8, and chapter 9 of part I of the Act are classified generally to part I (§2151 et seq.), subpart iv (§2191 et seq.) of part II, part VIII (§2291 et seq.), and part IX (§2292 et seq.), respectively, of subchapter I of chapter 32 of this title. Chapters 4, 5, and 8 of part II of the Act are classified generally to part IV (§2346 et seq.), part V (§2347 et seq.), and part VIII (§2349aa et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in text, was in the original "this division", meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-Chapters 1 and 10 of that Act, referred to in par. (7)(A)(vii), probably means chapters 1 and 10 of part I of the Foreign Assistance Act of 1961, which are classified generally to parts I (§2151 et seq.) and X (§2293 et seq.), respectively, of subchapter I of chapter 32 of this title. For complete classification of these chapters to the Code, see Tables.
+The Foreign Assistance Act of 1961, referred to in par. (8)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. Chapter 1, title IV of chapter 2, chapter 8, and chapter 9 of part I of the Act are classified generally to part I (§2151 et seq.), subpart iv (§2191 et seq.) of part II, part VIII (§2291 et seq.), and part IX (§2292 et seq.), respectively, of subchapter I of chapter 32 of this title. Chapters 4, 5, and 8 of part II of the Act are classified generally to part IV (§2346 et seq.), part V (§2347 et seq.), and part VIII (§2349aa et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in par. (7)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+Chapters 1 and 10 of that Act, referred to in par. (8)(A)(vii), probably means chapters 1 and 10 of part I of the Foreign Assistance Act of 1961, which are classified generally to parts I (§2151 et seq.) and X (§2293 et seq.), respectively, of subchapter I of chapter 32 of this title. For complete classification of these chapters to the Code, see Tables.
+
+The Arms Export Control Act, referred to in par. (8)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 
-<b>2008</b>—Par. (1). Pub. L. 110–457 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+<b>2013</b>—Pub. L. 113–4 added par. (1), redesignated former pars. (1) to (14) as (2) to (15), respectively, and substituted "paragraph (9)" for "paragraph (8)" in par. (14)and "paragraph (9) or (10)" for "paragraph (8) or (9)" in par. (15).
 
-<b>2003</b>—Par. (7)(A)(i). Pub. L. 108–193 inserted “in support of programs of nongovernmental organizations” before “that is made available”.
+<b>2008</b>—Par. (1). Pub. L. 110–457 substituted "Committee on Foreign Affairs" for "Committee on International Relations".
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
+<b>2003</b>—Par. (7)(A)(i). Pub. L. 108–193 inserted "in support of programs of nongovernmental organizations" before "that is made available".
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "of".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -18,9 +18,9 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (e)
 
-Duration of Authority.—No bonus shall be paid under this section with respect to any enlistment in the armed forces made after December 31, 2013.
+Duration of Authority.—No bonus shall be paid under this section with respect to any enlistment in the armed forces made after December 31, 2014.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §624(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; amended Pub. L. 107–107, div. A, title VI, §614(c), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §614(c), Dec. 2, 2002,116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §614(c), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §614(d), Oct. 28, 2004, 118 Stat. 1948; Pub. L. 109–163, div. A, title VI, §§624(d), 635, 687(b)(20), Jan. 6, 2006, 119 Stat. 3295, 3300, 3330; Pub. L. 109–364, div. A, title VI, §614(d), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, §614(c), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(d), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(4), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(4), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(4), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §615(4), Jan. 2, 2013, 126 Stat. 1777.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §624(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; amended Pub. L. 107–107, div. A, title VI, §614(c), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §614(c), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §614(c), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §614(d), Oct. 28, 2004, 118 Stat. 1948; Pub. L. 109–163, div. A, title VI, §§624(d), 635, 687(b)(20), Jan. 6, 2006, 119 Stat. 3295, 3300, 3330; Pub. L. 109–364, div. A, title VI, §614(d), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, §614(c), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(d), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(4), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(4), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(4), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §615(4), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §615(4), Dec. 26, 2013, 127 Stat. 781.)
 
 #### Prior Provisions
 
@@ -28,35 +28,37 @@ A prior section 309, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 468, related to a
 
 #### Amendments
 
-<b>2013</b>—Subsec. (e). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+<b>2013</b>—Subsec. (e). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
-<b>2011</b>—Subsec. (e). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (e). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-<b>2009</b>—Subsec. (e). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-<b>2008</b>—Subsec. (e). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2009</b>—Subsec. (e). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163, §635, substituted “$40,000” for “$20,000”.
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
+
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §635, substituted "$40,000" for "$20,000".
 
 Subsec. (b). Pub. L. 109–163, §687(b)(20), amended heading and text of subsec. (b) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when member is not technically qualified in skill for which bonus was paid or fails to complete term of enlistment for which bonus was paid.
 
-Subsec. (e). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
+Subsec. (e). Pub. L. 109–364 substituted "December 31, 2007" for "December 31, 2006".
 
-Pub. L. 109–163, §624(d), substituted “December 31, 2006” for “December 31, 2005”.
+Pub. L. 109–163, §624(d), substituted "December 31, 2006" for "December 31, 2005".
 
-<b>2004</b>—Subsec. (e). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
+<b>2004</b>—Subsec. (e). Pub. L. 108–375 substituted "December 31, 2005" for "December 31, 2004".
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 substituted "December 31, 2004" for "December 31, 2003".
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-Subsec. (e). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
+Subsec. (e). Pub. L. 107–314 substituted "December 31, 2003" for "December 31, 2002".
 
-<b>2001</b>—Subsec. (e). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+<b>2001</b>—Subsec. (e). Pub. L. 107–107 substituted "December 31, 2002" for "December 31, 2001".
 
 #### Effective Date of 2008 Amendment
 
@@ -68,7 +70,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Pub. L. 106–398, §1 \[\[div. A\], title VI, §624(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 2000, and apply with respect to enlistments in the Armed Forces made on or after that date.”
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §624(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153, provided that: "The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 2000, and apply with respect to enlistments in the Armed Forces made on or after that date."
 
 #### Savings Provision
 

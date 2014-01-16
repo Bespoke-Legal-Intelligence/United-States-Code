@@ -154,9 +154,9 @@ The Secretary shall prescribe regulations to ensure the reliability, validity, i
 
 &emsp;The Secretary shall prepare and submit a report to the authorizing committees that contains the following:
 
-&emsp;&emsp;(A) A comparison of States’ efforts to improve the quality of the current and future teaching force.
+&emsp;&emsp;(A) A comparison of States' efforts to improve the quality of the current and future teaching force.
 
-&emsp;&emsp;(B) A comparison of eligible partnerships’ efforts to improve the quality of the current and future teaching force.
+&emsp;&emsp;(B) A comparison of eligible partnerships' efforts to improve the quality of the current and future teaching force.
 
 &emsp;&emsp;(C) The national mean and median scaled scores and pass rate on any standardized test that is used in more than one State for teacher certification or licensure.
 

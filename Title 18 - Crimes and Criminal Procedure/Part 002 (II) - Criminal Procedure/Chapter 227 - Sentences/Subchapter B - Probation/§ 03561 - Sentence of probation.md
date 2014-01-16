@@ -12,7 +12,7 @@ In General.—A defendant who has been found guilty of an offense may be sentenc
 
 (b)
 
-Domestic Violence Offenders.—A defendant who has been convicted for the first time of a domestic violence crime shall be sentenced to a term of probation if not sentenced to a term of imprisonment. The term “domestic violence crime” means a crime of violence for which the defendant may be prosecuted in a court of the United States in which the victim or intended victim is the spouse, former spouse, intimate partner, former intimate partner, child, or former child of the defendant, or any other relative of the defendant.
+Domestic Violence Offenders.—A defendant who has been convicted for the first time of a domestic violence crime shall be sentenced to a term of probation if not sentenced to a term of imprisonment. The term "domestic violence crime" means a crime of violence for which the defendant may be prosecuted in a court of the United States in which the victim or intended victim is the spouse, former spouse, intimate partner, former intimate partner, child, or former child of the defendant, or any other relative of the defendant.
 
 (c)
 
@@ -32,15 +32,15 @@ For a prior section 3561, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–294 struck out “or any relative defendant, child, or former child of the defendant,” before “or any other relative of the defendant”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–294 struck out "or any relative defendant, child, or former child of the defendant," before "or any other relative of the defendant".
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322, §280004, inserted before period at end “that is not a petty offense”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322, §280004, inserted before period at end "that is not a petty offense".
 
 Subsecs. (b), (c). Pub. L. 103–322, §320921(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-<b>1987</b>—Subsec. (a)(1). Pub. L. 100–182 inserted “and the defendant is an individual” after “Class B felony”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–182 inserted "and the defendant is an individual" after "Class B felony".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–646 struck out at end “The liability of a defendant for any unexecuted fine or other punishment imposed as to which probation is granted shall be fully discharged by the fulfillment of the terms and conditions of probation.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–646 struck out at end "The liability of a defendant for any unexecuted fine or other punishment imposed as to which probation is granted shall be fully discharged by the fulfillment of the terms and conditions of probation."
 
 #### Effective Date of 1996 Amendment
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–646, §10(b), Nov. 10, 1986, 100 Stat. 3593, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3561(a) \[Nov. 1, 1987\].”
+Pub. L. 99–646, §10(b), Nov. 10, 1986, 100 Stat. 3593, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3561(a) \[Nov. 1, 1987\]."
 
 #### Effective Date
 

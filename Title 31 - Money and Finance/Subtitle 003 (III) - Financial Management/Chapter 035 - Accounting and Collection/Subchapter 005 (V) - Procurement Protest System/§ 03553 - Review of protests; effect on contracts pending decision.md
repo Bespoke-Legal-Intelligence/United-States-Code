@@ -54,7 +54,7 @@
 
 &emsp;(A) the date that is 10 days after the date of the contract award; or
 
-&emsp;(B) the date that is 5 days after the debriefing date offered to an unsuccessful offeror for any debriefing that is requested and, when requested, is required.
+&emsp;(B) the date that is 5 days after the debriefing date offered to an unsuccessful offeror forany debriefing that is requested and, when requested, is required.
 
 (e) The authority of the head of the procuring activity to make findings and to authorize the award and performance of contracts under subsections (c) and (d) of this section may not be delegated.
 
@@ -74,31 +74,31 @@
 
 <b>2004</b>—Subsec. (g). Pub. L. 108–375 added subsec. (g).
 
-<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–106, §5501(1), substituted “30 days” for “35 days”.
+<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–106, §5501(1), substituted "30 days" for "35 days".
 
-Subsec. (b)(3). Pub. L. 104–106, §4321(d)(2), substituted “3554(a)(4)” for “3554(a)(3)”.
+Subsec. (b)(3). Pub. L. 104–106, §4321(d)(2), substituted "3554(a)(4)" for "3554(a)(3)".
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–355, §1402(a)(1)(A), substituted “one day after” for “one working day of”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–355, §1402(a)(1)(A), substituted "one day after" for "one working day of".
 
-Subsec. (b)(2)(A). Pub. L. 103–355, §1402(a)(1)(B)(i), substituted “35 days after” for “25 working days from”.
+Subsec. (b)(2)(A). Pub. L. 103–355, §1402(a)(1)(B)(i), substituted "35 days after" for "25 working days from".
 
-Subsec. (b)(2)(C). Pub. L. 103–355, §1402(a)(1)(B)(ii), substituted “20 days after” for “10 working days from”.
+Subsec. (b)(2)(C). Pub. L. 103–355, §1402(a)(1)(B)(ii), substituted "20 days after" for "10 working days from".
 
-Subsec. (c)(3). Pub. L. 103–355, §1402(a)(2), substituted “after the making of such finding” for “thereafter”.
+Subsec. (c)(3). Pub. L. 103–355, §1402(a)(2), substituted "after the making of such finding" for "thereafter".
 
 Subsec. (d). Pub. L. 103–355, §1402(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-“(d)(1) If a Federal agency receives notice of a protest under this section after the contract has been awarded but within 10 days of the date of the contract award, the Federal agency (except as provided under paragraph (2)) shall, upon receipt of that notice, immediately direct the contractor to cease performance under the contract and to suspend any related activities that may result in additional obligations being incurred by the United States under that contract. Performance of the contract may not be resumed while the protest is pending.
+"(d)(1) If a Federal agency receives notice of a protest under this section after the contract has been awarded but within 10 days of the date of the contract award, the Federal agency (except as provided under paragraph (2)) shall, upon receipt of that notice, immediately direct the contractor to cease performance under the contract and to suspend any related activities that may result in additional obligations being incurred by the United States under that contract. Performance of the contract may not be resumed while the protest is pending.
 
-“(2) The head of the procuring activity responsible for award of a contract may authorize the performance of the contract (notwithstanding a protest of which the Federal agency has notice under this section)—
+"(2) The head of the procuring activity responsible for award of a contract may authorize the performance of the contract (notwithstanding a protest of which the Federal agency has notice under this section)—
 
-&emsp;“(A) upon a written finding—
+&emsp;"(A) upon a written finding—
 
-&emsp;&emsp;“(i) that performance of the contract is in the best interests of the United States; or
+&emsp;&emsp;"(i) that performance of the contract is in the best interests of the United States; or
 
-&emsp;&emsp;“(ii) that urgent and compelling circumstances that significantly affect interests of the United States will not permit waiting for the decision of the Comptroller General concerning the protest; and
+&emsp;&emsp;"(ii) that urgent and compelling circumstances that significantly affect interests of the United States will not permit waiting for the decision of the Comptroller General concerning the protest; and
 
-&emsp;“(B) after the Comptroller General is notified of that finding.”
+&emsp;"(B) after the Comptroller General is notified of that finding."
 
 Subsec. (f). Pub. L. 103–355, §1403(c), designated existing provisions as par. (1) and added par. (2).
 

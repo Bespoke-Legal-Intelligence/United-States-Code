@@ -16,7 +16,7 @@ Section 507 (relating to termination of private foundation status), section 508 
 
 #### (2) Prohibited transactions
 
-&emsp;For purposes of this subsection, the term “prohibited transaction” means any act or failure to act (other than with respect to section 4942(e)) which would subject a foreign organization described in subsection (b), or a disqualified person (as defined in section 4946) with respect thereto, to liability for a penalty under section 6684 or a tax under section 507 if such foreign organization were a domestic organization.
+&emsp;For purposes of this subsection, the term "prohibited transaction" means any act or failure to act (other than with respect to section 4942(e)) which would subject a foreign organization described in subsection (b), or a disqualified person (as defined in section 4946) with respect thereto, to liability for a penalty under section 6684 or a tax under section 507 if such foreign organization were a domestic organization.
 
 #### (3) Taxable years affected
 
@@ -36,9 +36,9 @@ Section 507 (relating to termination of private foundation status), section 508 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(4). Pub. L. 108–357 struck out “556(b)(2),” after “545(b)(2),” in introductory provisions.
+<b>2004</b>—Subsec. (c)(4). Pub. L. 108–357 struck out "556(b)(2)," after "545(b)(2)," in introductory provisions.
 
-<b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 2004 Amendment
 

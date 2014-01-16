@@ -42,13 +42,13 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(5); added Aug. 9, 1935, ch. 498, 4
 
 49:1655(e)(6)(C).
 
-In subsection (a), the words “subject to subchapter II of chapter 105 of this title” are added for clarity. The word “services” is substituted for “assistance” for consistency. The words “department, agency, or instrumentality of the United States Government” are substituted for “departments or bureaus of the Government” for consistency.
+In subsection (a), the words "subject to subchapter II of chapter 105 of this title" are added for clarity. The word "services" is substituted for "assistance" for consistency. The words "department, agency, or instrumentality of the United States Government" are substituted for "departments or bureaus of the Government" for consistency.
 
-In subsection (b), the words “In carrying out this chapter” are substituted for “For the purpose of carrying out the provisions pertaining to safety” to eliminate unnecessary words. The words “department . . . or instrumentality” are added for consistency. The word “reimburse” is substituted for “transfer . . . such funds” for consistency. The words “as may be necessary and available to make this provision effective” are omitted as unnecessary because of the restatement.
+In subsection (b), the words "In carrying out this chapter" are substituted for "For the purpose of carrying out the provisions pertaining to safety" to eliminate unnecessary words. The words "department . . . or instrumentality" are added for consistency. The word "reimburse" is substituted for "transfer . . . such funds" for consistency. The words "as may be necessary and available to make this provision effective" are omitted as unnecessary because of the restatement.
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted "subchapter I of chapter 135" for "subchapter II of chapter 105".
 
 <b>1994</b>—Pub. L. 103–272 renumbered section 3103 of this title as this section and amended it generally, restating it without substantive change.
 

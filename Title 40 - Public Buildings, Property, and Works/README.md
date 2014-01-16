@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–234, title XIV, §14217(b), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246, title XIV, §14217(b), June 18, 2008, 122 Stat. 2244, which directed identical amendments to the table of subtitles for “chapter 40, United States Code” by adding items for subtitles V and VI and striking out item for subtitle V, was executed by amending the table of subtitles for this title, to reflect the probable intent of Congress. Prior to amendment, the item for subtitle V read “Miscellaneous”. The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
+<b>2008</b>—Pub. L. 110–234, title XIV, §14217(b), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246, title XIV, §14217(b), June 18, 2008, 122 Stat. 2244, which directed identical amendments to the table of subtitles for "chapter 40, United States Code" by adding items for subtitles V and VI and striking out item for subtitle V, was executed by amending the table of subtitles for this title, to reflect the probable intent of Congress. Prior to amendment, the item for subtitle V read "Miscellaneous". The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
 
 Table Showing Disposition of All Sections of Former Title 40
 
@@ -3408,11 +3408,11 @@ Rep.
 
 6502
 
-1202(b)(2)(D) (words before “and the lease”)
+1202(b)(2)(D) (words before "and the lease")
 
 Rep.
 
-1202(b)(2)(D) (words after “provisions of this chapter”)
+1202(b)(2)(D) (words after "provisions of this chapter")
 
 6504
 
@@ -3758,79 +3758,79 @@ Pub. L. 108–178, enacting and amending notes set out below, effective Aug. 21,
 
 #### Enacting Clause
 
-Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062, provided in part that: “Certain general and permanent laws of the United States, related to public buildings, property, and works, are revised, codified, and enacted as title 40, United States Code, ‘Public Buildings, Property, and Works’ ”.
+Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062, provided in part that: "Certain general and permanent laws of the United States, related to public buildings, property, and works, are revised, codified, and enacted as title 40, United States Code, 'Public Buildings, Property, and Works' ".
 
 #### Legislative Purpose and Construction
 
 Pub. L. 108–178, §1, Dec. 15, 2003, 117 Stat. 2637, provided that:
 
-“(a)
+"(a)
 
 Purpose.—The purpose of this Act \[see Tables for classification\] is to improve the United States Code by making necessary technical changes.
 
-“(b)
+"(b)
 
 No Substantive Change.—This Act makes no substantive change in existing law and may not be construed as making a substantive change in existing law.
 
-“(c)
+"(c)
 
-Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications."
 
 Pub. L. 107–217, §5, Aug. 21, 2002, 116 Stat. 1303, provided that:
 
-“(a)
+"(a)
 
 Purpose.—The purpose of this Act is to revise, codify, and enact without substantive change the general and permanent laws of the United States related to public buildings, property, and works, in order to remove ambiguities, contradictions, and other imperfections and to repeal obsolete, superfluous, and superseded provisions.
 
-“(b)
+"(b)
 
 No Substantive Change.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—This Act makes no substantive change in existing law and may not be construed as making a substantive change in existing law.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Deemed date of enactment for certain purposes.—For purposes of determining whether one provision of law supersedes another based on enactment later in time, and otherwise to ensure that this Act makes no substantive change in existing law, the date of enactment of a provision restated in section 1 or 2 of this Act is deemed to remain unchanged, continuing to be the date of enactment of the underlying provision of public law that is being restated.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Inconsistent laws enacted after March 31, 2002.—This Act restates certain laws enacted before April 1, 2002. Any law enacted after March 31, 2002, that is inconsistent with this Act, including any law purporting to amend or repeal a provision that is repealed by this Act, supersedes this Act to the extent of the inconsistency.
 
-“(c)
+"(c)
 
 References.—A reference to a law replaced by section 1 or 2 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
-“(d)
+"(d)
 
 Continuing Effect.—An order, rule, or regulation in effect under a law replaced by section 1 or 2 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
-“(e)
+"(e)
 
 Actions and Offenses Under Prior Law.—An action taken or an offense committed under a law replaced by section 1 or 2 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
 
-“(f)
+"(f)
 
 Inferences.—An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of a caption or catch line of the provision.
 
-“(g)
+"(g)
 
-Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications."
 
 #### Repeals
 
-Pub. L. 108–178, §2(b), Dec. 15, 2003, 117 Stat. 2640, provided that: “Section 6(b) of Public Law 107–217 (116 Stat. 1304) \[see below\] is repealed insofar as it relates to the provisions listed below, and the provisions listed below are revived to read as if section 6(b) had not been enacted:
+Pub. L. 108–178, §2(b), Dec. 15, 2003, 117 Stat. 2640, provided that: "Section 6(b) of Public Law 107–217 (116 Stat. 1304) \[see below\] is repealed insofar as it relates to the provisions listed below, and the provisions listed below are revived to read as if section 6(b) had not been enacted:
 
-&emsp;“(1) Section 1(a) of the Act of June 30, 1949 (ch. 288, 63 Stat. 377) \[41 U.S.C. 101 note\].
+&emsp;"(1) Section 1(a) of the Act of June 30, 1949 (ch. 288, 63 Stat. 377) \[41 U.S.C. 101 note\].
 
-&emsp;“(2) Section 509(b) of the Department of Education Organization Act (Public Law 96–88, 93 Stat. 695) \[20 U.S.C. 3508(b)\].
+&emsp;"(2) Section 509(b) of the Department of Education Organization Act (Public Law 96–88, 93 Stat. 695) \[20 U.S.C. 3508(b)\].
 
-&emsp;“(3) Public Law 101–427 (104 Stat. 927) \[23 U.S.C. 101 note\].
+&emsp;"(3) Public Law 101–427 (104 Stat. 927) \[23 U.S.C. 101 note\].
 
-&emsp;“(4) Section 7306 of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, 108 Stat. 3384).”
+&emsp;"(4) Section 7306 of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, 108 Stat. 3384)."
 
-Pub. L. 107–217, §6(a), Aug. 21, 2002, 116 Stat. 1304, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 107–217, §6(a), Aug. 21, 2002, 116 Stat. 1304, provided that: "The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal."
 
 Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304, as amended by Pub. L. 108–178, §2, Dec. 15, 2003, 117 Stat. 2637, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 21, 2002.
 

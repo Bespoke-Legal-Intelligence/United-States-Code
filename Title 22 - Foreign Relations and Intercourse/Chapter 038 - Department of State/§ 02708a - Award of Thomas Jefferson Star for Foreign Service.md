@@ -30,5 +30,5 @@ Any expenses incurred in awarding a person a Thomas Jefferson Star for Foreign S
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–228 substituted “Thomas Jefferson Star for Foreign Service” for “Foreign Service star” in section catchline and wherever appearing in text.
+<b>2002</b>—Pub. L. 107–228 substituted "Thomas Jefferson Star for Foreign Service" for "Foreign Service star" in section catchline and wherever appearing in text.
 

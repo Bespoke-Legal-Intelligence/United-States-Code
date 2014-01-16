@@ -42,7 +42,7 @@ Each Panel's report shall contain a complete statement of the basis for the Pane
 
 The Occupational Safety and Health Act of 1970, referred to in subsec. (a), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
@@ -52,7 +52,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(2)(D), is Pub. L.
 
 #### Amendments
 
-<b>1983</b>—Subsec. (b)(1). Pub. L. 97–414 struck out introductory text “an advance notice of proposed rulemaking for” after “issue”, inserted in subpar. (A) “an advance notice of proposed rulemaking for” before “a consumer” and in subpar. (B) “a notice of proposed rulemaking for” before “a rule”, and substituted in subpar. (C) “an advance notice of proposed rulemaking for regulations” for “a regulation”.
+<b>1983</b>—Subsec. (b)(1). Pub. L. 97–414 struck out introductory text "an advance notice of proposed rulemaking for" after "issue", inserted in subpar. (A) "an advance notice of proposed rulemaking for" before "a consumer" and in subpar. (B) "a notice of proposed rulemaking for" before "a rule", and substituted in subpar. (C) "an advance notice of proposed rulemaking for regulations" for "a regulation".
 
 <b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -62,7 +62,7 @@ Amendment by Pub. L. 97–35 applicable with respect to regulations under this c
 
 #### Manufacture or Sale of Firearms or Firearms Ammunition
 
-Pub. L. 94–284, §3(e), May 11, 1976, 90 Stat. 504, provided that: “The Consumer Product Safety Commission shall make no ruling or order that restricts the manufacture or sale of firearms, firearms ammunition, or components of firearms ammunition, including black powder or gunpowder for firearms.”
+Pub. L. 94–284, §3(e), May 11, 1976, 90 Stat. 504, provided that: "The Consumer Product Safety Commission shall make no ruling or order that restricts the manufacture or sale of firearms, firearms ammunition, or components of firearms ammunition, including black powder or gunpowder for firearms."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

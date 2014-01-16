@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Director of the Center shall award grants for the establishment of general clinical research centers to provide the infrastructure forclinical research including clinical research training and career enhancement. Such centers shall support clinical studies and career development in all settings of the hospital or academic medical center involved.
+The Director of the Center shall award grants for the establishment of general clinical research centers to provide the infrastructure for clinical research including clinical research training and career enhancement. Such centers shall support clinical studies and career development in all settings of the hospital or academic medical center involved.
 
 #### (b) Activities
 
@@ -16,9 +16,9 @@ A prior section 481B of act July 1, 1944, was renumbered section 404J, and is cl
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–74, §221(c)(4)(B), substituted “Director of the Center” for “Director of the National Center for Research Resources”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–74, §221(c)(4)(B), substituted "Director of the Center" for "Director of the National Center for Research Resources".
 
-<b>2007</b>—Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+<b>2007</b>—Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each fiscal year."
 
 #### Effective Date of 2007 Amendment
 

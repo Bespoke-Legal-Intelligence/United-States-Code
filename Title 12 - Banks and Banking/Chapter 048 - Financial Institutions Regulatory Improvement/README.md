@@ -11,7 +11,7 @@
 | [4806\.](%C2%A7%2004806%20-%20Regulatory%20appeals%20process%2C%20ombudsman%2C%20and%20alternative%20dispute%20resolution.md) | Regulatory appeals process, ombudsman, and alternative dispute resolution. |
 | [4807\.](%C2%A7%2004807%20-%20Time%20limit%20on%20agency%20consideration%20of%20completed%20applications.md) | Time limit on agency consideration of completed applications. |
 | [4808\.](%C2%A7%2004808%20-%20Revising%20regulatory%20requirements%20for%20transfers%20of%20all%20types%20of%20assets%20with%20recourse.md) | Revising regulatory requirements for transfers of all types of assets with recourse. |
-| [4809\.](%C2%A7%2004809%20-%20%E2%80%9CPlain%20language%E2%80%9D%20requirement%20for%20Federal%20banking%20agency%20rules.md) | “Plain language” requirement for Federal banking agency rules. |
+| [4809\.](%C2%A7%2004809%20-%20Plain%20language%20requirement%20for%20Federal%20banking%20agency%20rules.md) | "Plain language" requirement for Federal banking agency rules. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -29,4 +29,4 @@
 - [&sect; 04806 - Regulatory appeals process, ombudsman, and alternative dispute resolution](%C2%A7%2004806%20-%20Regulatory%20appeals%20process%2C%20ombudsman%2C%20and%20alternative%20dispute%20resolution.md)
 - [&sect; 04807 - Time limit on agency consideration of completed applications](%C2%A7%2004807%20-%20Time%20limit%20on%20agency%20consideration%20of%20completed%20applications.md)
 - [&sect; 04808 - Revising regulatory requirements for transfers of all types of assets with recourse](%C2%A7%2004808%20-%20Revising%20regulatory%20requirements%20for%20transfers%20of%20all%20types%20of%20assets%20with%20recourse.md)
-- [&sect; 04809 - &#8220;Plain language&#8221; requirement for Federal banking agency rules](%C2%A7%2004809%20-%20%E2%80%9CPlain%20language%E2%80%9D%20requirement%20for%20Federal%20banking%20agency%20rules.md)
+- [&sect; 04809 - Plain language requirement for Federal banking agency rules](%C2%A7%2004809%20-%20Plain%20language%20requirement%20for%20Federal%20banking%20agency%20rules.md)

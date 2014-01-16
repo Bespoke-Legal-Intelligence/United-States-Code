@@ -14,7 +14,7 @@ Requirement.—When the Administrator of General Services takes over motor vehic
 
 &emsp;(2)
 
-Amount.—The Administrator shall reimburse a Government corporation, or a fund through which an agency acquired property, by an amount equal to the fair market value of the property. If the Administrator subsequently returns property of a similar kindunder section 610 of this title, the Government corporation or the fund shall reimburse the Administrator by an amount equal to the fair market value of the property returned.
+Amount.—The Administrator shall reimburse a Government corporation, or a fund through which an agency acquired property, by an amount equal to the fair market value of the property. If the Administrator subsequently returns property of a similar kind under section 610 of this title, the Government corporation or the fund shall reimburse the Administrator by an amount equal to the fair market value of the property returned.
 
 (b)
 
@@ -44,7 +44,7 @@ June 30, 1949, ch. 288, title II, §211(g), (h), as added Sept. 5, 1950, ch. 849
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–313 substituted “Acquisition Services Fund” for “General Supply Fund” in heading and text.
+<b>2006</b>—Subsec. (b). Pub. L. 109–313 substituted "Acquisition Services Fund" for "General Supply Fund" in heading and text.
 
 #### Effective Date of 2006 Amendment
 

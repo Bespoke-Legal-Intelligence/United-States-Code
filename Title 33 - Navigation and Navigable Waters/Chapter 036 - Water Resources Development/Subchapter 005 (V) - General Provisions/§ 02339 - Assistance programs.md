@@ -2,7 +2,7 @@
 
 #### (a) Conservation and recreation management
 
-To further training and educational opportunities at water resources development projects under the jurisdiction of the Secretary, the Secretary may enter into cooperative agreements with non-Federal public and nonprofit entitiesfor services relating to natural resources conservation or recreation management.
+To further training and educational opportunities at water resources development projects under the jurisdiction of the Secretary, the Secretary may enter into cooperative agreements with non-Federal public and nonprofit entities for services relating to natural resources conservation or recreation management.
 
 #### (b) Rural community assistance
 
@@ -18,7 +18,7 @@ A cooperative agreement entered into under this section shall not be considered 
 
 Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under section 2201 of this title.
 

@@ -24,7 +24,7 @@
 
 #### (b) Laws administered by the Administrator
 
-The Administrator shall coordinate actions taken under this chapter with actions taken under other Federal laws administered in whole or in part by the Administrator. If the Administrator determines that a risk to health or the environment associated with a chemical substance or mixture could be eliminated or reduced to a sufficient extent by actions taken under the authorities contained in such other Federal laws, the Administrator shall use suchauthorities to protect against such risk unless the Administrator determines, in the Administrator's discretion, that it is in the public interest to protect against such risk by actions taken under this chapter. This subsection shall not be construed to relieve the Administrator of any requirement imposed on the Administrator by such other Federal laws.
+The Administrator shall coordinate actions taken under this chapter with actions taken under other Federal laws administered in whole or in part by the Administrator. If the Administrator determines that a risk to health or the environment associated with a chemical substance or mixture could be eliminated or reduced to a sufficient extent by actions taken under the authorities contained in such other Federal laws, the Administrator shall use such authorities to protect against such risk unless the Administrator determines, in the Administrator's discretion, that it is in the public interest to protect against such risk by actions taken under this chapter. This subsection shall not be construed to relieve the Administrator of any requirement imposed on the Administrator by such other Federal laws.
 
 #### (c) Occupational safety and health
 
@@ -38,7 +38,7 @@ In administering this chapter, the Administrator shall consult and coordinate wi
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (d), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (d), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Termination of Reporting Requirements
 

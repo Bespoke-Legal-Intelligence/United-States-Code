@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(i) take into account any plans for the use of funds by adjacent eligible units of local governments that receive grants under the program; and
 
-&emsp;&emsp;&emsp;(ii) coordinate and share information with the State in which the eligible unit of local government is located regarding activities carried out using the grant to maximize the energy efficiency and conservation benefits under this part.
+&emsp;&emsp;&emsp;(ii) coordinate and share information with the State in which the eligible unit of local government is located regarding activities carried out using the grant tomaximize the energy efficiency and conservation benefits under this part.
 
 #### (2) Approval by Secretary
 
@@ -58,7 +58,7 @@
 
 #### (3) Limitations on use of funds
 
-&emsp;Of amounts provided to an eligible unit of local government or Indian tribe under theprogram, an eligible unit of local government or Indian tribe may use—
+&emsp;Of amounts provided to an eligible unit of local government or Indian tribe under the program, an eligible unit of local government or Indian tribe may use—
 
 &emsp;&emsp;(A) for administrative expenses, excluding the cost of meeting the reporting requirements of this part, an amount equal to the greater of—
 
@@ -152,5 +152,5 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(2)(A), is se
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “or”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "or".</i>
 

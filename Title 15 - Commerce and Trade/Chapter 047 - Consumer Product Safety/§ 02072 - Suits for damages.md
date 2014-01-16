@@ -2,7 +2,7 @@
 
 #### (a) Persons injured; costs; amount in controversy
 
-Any person who shall sustain injury by reason of any knowing (including willful) violation of a consumer product safety rule, or any other rule or order issued by the Commission may sue any person who knowingly (including willfully) violated any such rule or order in any district court of the United States in the district in which the defendant resides or is found or has an agent, shall recover damages sustained and may, if the court determines it to be in the interest of justice, recover the costs of suit, including reasonable attorneys’ fees (determined in accordance with section 2060(f) of this title) and reasonable expert witnesses’ fees: <i>Provided</i>, That the matter in controversy exceeds the sum or value of $10,000, exclusive of interest and cost, unless such action is brought against the United States, any agency thereof, or any officer or employee thereof in his official capacity.
+Any person who shall sustain injury by reason of any knowing (including willful) violation of a consumer product safety rule, or any other rule or order issued by the Commission may sue any person who knowingly (including willfully) violated any such rule or order in any district court of the United States in the district in which the defendant resides or is found or has an agent, shall recover damages sustained and may, if the court determines it to be in the interest of justice, recover the costs of suit, including reasonable attorneys' fees (determined in accordance with section 2060(f) of this title) and reasonable expert witnesses' fees: <i>Provided</i>, That the matter in controversy exceeds the sum or value of $10,000, exclusive of interest and cost, unless such action is brought against the United States, any agency thereof, or any officer or employee thereof in his official capacity.
 
 #### (b) Denial and imposition of costs
 
@@ -16,13 +16,13 @@ The remedies provided for in this section shall be in addition to and not in lie
 
 #### Amendments
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted “section 2060(f) of this title” for “section 2059(e)(4) of this title”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted "section 2060(f) of this title" for "section 2059(e)(4) of this title".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–486, §3(a), struck out provision subjecting actions under this section to section 1331 of title 28 as to the amount in controversy and inserted proviso establishing minimum amount in controversy and excepting actions brought against the United States, or agencies, officers, or employees thereof.
 
 Subsecs. (b), (c). Pub. L. 96–486, §3(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–284 substituted “shall” for “and shall” and provision permitting the court to award costs in the interest of justice for a prior provision which permitted the court to award costs in its discretion.
+<b>1976</b>—Subsec. (a). Pub. L. 94–284 substituted "shall" for "and shall" and provision permitting the court to award costs in the interest of justice for a prior provision which permitted the court to award costs in its discretion.
 
 #### Effective Date of 1981 Amendment
 
@@ -30,5 +30,5 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 #### Effective Date of 1980 Amendment; Applicability
 
-For effective date and applicability of amendment by Pub. L. 96–486, see section 4 of Pub. L. 96–486, set out asan Effective Date of 1980 Amendment note under section 1331 of Title 28, Judiciary and Judicial Procedure.
+For effective date and applicability of amendment by Pub. L. 96–486, see section 4 of Pub. L. 96–486, set out as an Effective Date of 1980 Amendment note under section 1331 of Title 28, Judiciary and Judicial Procedure.
 

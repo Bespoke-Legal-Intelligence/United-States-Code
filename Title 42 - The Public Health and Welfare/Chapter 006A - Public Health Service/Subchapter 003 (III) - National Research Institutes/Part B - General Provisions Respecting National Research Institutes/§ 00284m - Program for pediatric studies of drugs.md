@@ -8,23 +8,27 @@
 
 #### (2) Consideration of available information
 
-&emsp;In developing and prioritizing the list under paragraph (1), the Secretary shall consider—
+&emsp;In developing and prioritizing the list under paragraph (1), the Secretary—
 
-&emsp;&emsp;(A) therapeutic gaps in pediatrics that may include developmental pharmacology, pharmacogenetic determinants of drug response, metabolism of drugs and biologics in children, and pediatric clinical trials;
+&emsp;&emsp;(A) shall consider—
 
-&emsp;&emsp;(B) particular pediatric diseases, disorders or conditions where more complete knowledge and testing of therapeutics, including drugs and biologics, may be beneficial in pediatric populations; and
+&emsp;&emsp;&emsp;(i) therapeutic gaps in pediatrics that may include developmental pharmacology, pharmacogenetic determinants of drug response, metabolism of drugs and biologics in children, and pediatric clinical trials;
 
-&emsp;&emsp;(C) the adequacy of necessary infrastructure to conduct pediatric pharmacological research, including research networks and trained pediatric investigators.
+&emsp;&emsp;&emsp;(ii) particular pediatric diseases, disorders or conditions where more complete knowledge and testing of therapeutics, including drugs and biologics, may be beneficial in pediatric populations; and
+
+&emsp;&emsp;&emsp;(iii) the adequacy of necessary infrastructure to conduct pediatric pharmacological research, including research networks and trained pediatric investigators; and
+
+&emsp;&emsp;(B) may consider the availability of qualified countermeasures (as defined in section 247d–6a of this title), security countermeasures (as defined in section 247d–6b of this title), and qualified pandemic or epidemic products (as defined in section 247d–6d of this title) to address the needs of pediatric populations, in consultation with the Assistant Secretary for Preparedness and Response, consistent with the purposes of this section.
 
 #### (b) Pediatric studies and research
 
-The Secretary, acting through the National Institutes of Health, shall award funds to entities that have the expertise to conduct pediatric clinical trials or other research (including qualified universities, hospitals, laboratories, contract research organizations, practice groups, federally funded programs such as pediatric pharmacology research units, other public or private institutions, or individuals) to enable the entities to conduct the drug studies or other research on the issues described in subsection (a). The Secretary may use contracts, grants, or other appropriate funding mechanisms to award funds under this subsection.
+The Secretary, acting through the National Institutes of Health, shall award funds to entities that have the expertise to conduct pediatric clinical trials or other research (including qualified universities, hospitals, laboratories, contract research organizations, practice groups, federally funded programs such as pediatric pharmacology research units, other public or private institutions, or individuals) to enable the entities to conduct the drug studies or other research on the issues described in paragraphs (1) and (2)(A) of subsection (a). The Secretary may use contracts, grants, or other appropriate funding mechanisms to award funds under this subsection.
 
 #### (c) Process for proposed pediatric study requests and labeling changes
 
 #### (1) Submission of proposed pediatric study request
 
-&emsp;The Director of the National Institutes of Health shall, as appropriate, submit proposedpediatric study requests for consideration by the Commissioner of Food and Drugs for pediatric studies of a specific pediatric indication identified under subsection (a). Such a proposed pediatric study request shall be made in a manner equivalent to a written request made under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\], or section 262(m) of this title, including with respect to the information provided on the pediatric studies to be conducted pursuant to the request. The Director of the National Institutes of Health may submit a proposed pediatric study request for a drug for which—
+&emsp;The Director of the National Institutes of Health shall, as appropriate, submit proposed pediatric study requests for consideration by the Commissioner of Food and Drugs for pediatric studies of a specific pediatric indication identified under subsection (a). Such a proposed pediatric study request shall be made in a manner equivalent to a written request made under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\], or section 262(m) of this title, including with respect to the information provided on the pediatric studies to be conducted pursuant to the request. The Director of the National Institutes of Health may submit a proposed pediatric study request for a drug for which—
 
 &emsp;&emsp;(A)(i) there is an approved application under section 505(j) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(j)\] or section 262(k) of this title; or
 
@@ -104,7 +108,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (d) Dissemination of pediatric information
 
-Not later than one year after September 27, 2007, the Secretary, acting through the Director of the National Institutes of Health, shall study the feasibility of establishing a compilation of information on pediatric drug use and report the findings to Congress.
+Not later than one year after September 27, 2007, the Secretary, acting through the Director of the National Institutes of Health, shall studythe feasibility of establishing a compilation of information on pediatric drug use and report the findings to Congress.
 
 #### (e) Authorization of appropriations
 
@@ -116,7 +120,7 @@ Not later than one year after September 27, 2007, the Secretary, acting through 
 
 &emsp;Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.
 
-(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049.)
+(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049; Pub. L. 113–5, title III, §307(b), Mar. 13, 2013, 127 Stat. 192.)
 
 #### References in Text
 
@@ -124,27 +128,37 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(10), (11), 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c)(1). Pub. L. 112–144, §509(d)(1)(A), inserted “or section 262(m) of this title,” after “Cosmetic Act,”.
+<b>2013</b>—Subsec. (a)(2). Pub. L. 113–5, §307(b)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "In developing and prioritizing the list under paragraph (1), the Secretary shall consider—
 
-Subsec. (c)(1)(A)(i). Pub. L. 112–144, §509(d)(1)(B), inserted “or section 262(k) of this title” after “Cosmetic Act”.
+&emsp;"(A) therapeutic gaps in pediatrics that may include developmental pharmacology, pharmacogenetic determinants of drug response, metabolism of drugs and biologics in children, and pediatric clinical trials;
 
-Subsec. (c)(1)(B). Pub. L. 112–144, §509(d)(1)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “there is no patent protection or market exclusivity protection for at least one form of the drug under the Federal Food, Drug, and Cosmetic Act; and”.
+&emsp;"(B) particular pediatric diseases, disorders or conditions where more complete knowledge and testing of therapeutics, including drugs and biologics, may be beneficial in pediatric populations; and
 
-Subsec. (c)(2). Pub. L. 112–144, §509(d)(2), struck out “for drugs lacking exclusivity” after “applications” in heading, and in text struck out “under section 505 of the Federal Food, Drug, and Cosmetic Act” after “for the drug” and substituted “505A of the Federal Food, Drug, and Cosmetic Act or section 262(m) of this title” for “505A of such Act”.
+&emsp;"(C) the adequacy of necessary infrastructure to conduct pediatric pharmacological research, including research networks and trained pediatric investigators."
 
-Subsec. (e)(1). Pub. L. 112–144, §507(d), substituted “to carry out this section, $25,000,000 for each of fiscal years 2013 through 2017.” for “to carry out this section—
+Subsec. (b). Pub. L. 113–5, §307(b)(2), substituted "paragraphs (1) and (2)(A) of subsection (a)" for "subsection (a)".
 
-&emsp;“(A) $200,000,000 for fiscal year 2008; and
+<b>2012</b>—Subsec. (c)(1). Pub. L. 112–144, §509(d)(1)(A), inserted "or section 262(m) of this title," after "Cosmetic Act,".
 
-&emsp;“(B) such sums as are necessary for each of the four succeeding fiscal years.”
+Subsec. (c)(1)(A)(i). Pub. L. 112–144, §509(d)(1)(B), inserted "or section 262(k) of this title" after "Cosmetic Act".
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148 inserted “, biological products,” after “including drugs”.
+Subsec. (c)(1)(B). Pub. L. 112–144, §509(d)(1)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "there is no patent protection or market exclusivity protection for at least one form of the drug under the Federal Food, Drug, and Cosmetic Act; and".
+
+Subsec. (c)(2). Pub. L. 112–144, §509(d)(2), struck out "for drugs lacking exclusivity" after "applications" in heading, and in text struck out "under section 505 of the Federal Food, Drug, and Cosmetic Act" after "for the drug" and substituted "505A of the Federal Food, Drug, and Cosmetic Act or section 262(m) of this title" for "505A of such Act".
+
+Subsec. (e)(1). Pub. L. 112–144, §507(d), substituted "to carry out this section, $25,000,000 for each of fiscal years 2013 through 2017." for "to carry out this section—
+
+&emsp;"(A) $200,000,000 for fiscal year 2008; and
+
+&emsp;"(B) such sums as are necessary for each of the four succeeding fiscal years."
+
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148 inserted ", biological products," after "including drugs".
 
 <b>2007</b>—Pub. L. 110–85 amended section generally. Prior to amendment, section related to development of list of drugs for which pediatric studies are needed, award of contracts for pediatric studies, process for requesting contract proposals to conduct certain pediatric studies, reporting of completed studies, requests for labeling changes and dispute resolution, and recommendation by the Secretary for formulation changes.
 
 Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to authorization and availability of appropriations.
 
-<b>2003</b>—Subsec. (c)(8), (9), (11). Pub. L. 108–155 struck out “Advisory Subcommittee of the Anti-Infective Drugs” before “Advisory Committee” wherever appearing.
+<b>2003</b>—Subsec. (c)(8), (9), (11). Pub. L. 108–155 struck out "Advisory Subcommittee of the Anti-Infective Drugs" before "Advisory Committee" wherever appearing.
 
 #### Effective Date of 2007 Amendment
 

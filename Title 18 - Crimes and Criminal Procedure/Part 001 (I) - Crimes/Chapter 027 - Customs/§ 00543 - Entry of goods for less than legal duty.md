@@ -8,11 +8,11 @@ Whoever, being an officer of the revenue, knowingly admits to entry, any goods, 
 
 Based on title 18, U.S.C., 1940 ed., §125 (Mar. 4, 1909, ch. 321, §68, 35 Stat. 1101).
 
-Reference to persons aiding, contained in words “or aid in admitting,” was omitted as unnecessary as such persons are made principals by section 2 of this title.
+Reference to persons aiding, contained in words "or aid in admitting," was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 

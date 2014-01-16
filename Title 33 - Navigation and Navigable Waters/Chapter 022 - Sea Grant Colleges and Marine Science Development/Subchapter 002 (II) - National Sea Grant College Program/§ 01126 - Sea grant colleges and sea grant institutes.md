@@ -64,17 +64,17 @@ Subject to any regulations prescribed or guidelines established by the Secretary
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(F). Pub. L. 110–394, §9(a)(4)(C)(ii), substituted “Board” for “panel”.
+<b>2008</b>—Subsec. (a)(1)(F). Pub. L. 110–394, §9(a)(4)(C)(ii), substituted "Board" for "panel".
 
-Subsec. (a)(2)(B), (3)(B). Pub. L. 110–394, §7, substituted “extension services” for “advisory services”.
+Subsec. (a)(2)(B), (3)(B). Pub. L. 110–394, §7, substituted "extension services" for "advisory services".
 
-Subsec. (d)(1). Pub. L. 110–394, §9(a)(4)(C)(ii), substituted “Board” for “panel”.
+Subsec. (d)(1). Pub. L. 110–394, §9(a)(4)(C)(ii), substituted "Board" for "panel".
 
 <b>2002</b>—Subsec. (e). Pub. L. 107–299 added subsec. (e).
 
 <b>1998</b>—Pub. L. 105–160 amended section catchline and text generally. Prior to amendment text consisted of subsecs. (a) to (c) relating to authorization of the Secretary to designate sea grant college and sea grant regional consortia with certain prerequisites, requirement of regulations to prescribe qualifications and guidelines, and authorization of the Secretary to suspend or terminate any designation.
 
-<b>1987</b>—Subsec. (a)(2)(A), (3)(A), (B). Pub. L. 100–220 substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
+<b>1987</b>—Subsec. (a)(2)(A), (3)(A), (B). Pub. L. 100–220 substituted "ocean, coastal, and Great Lakes resources" for "ocean and coastal resources".
 
 #### Change of Name
 

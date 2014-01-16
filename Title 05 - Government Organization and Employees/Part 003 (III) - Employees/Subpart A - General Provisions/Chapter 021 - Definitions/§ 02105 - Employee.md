@@ -22,7 +22,7 @@
 
 (b) An individual who is employed at the United States Naval Academy in the midshipmen's laundry, the midshipmen's tailor shop, the midshipmen's cobbler and barber shops, and the midshipmen's store, except an individual employed by the Academy dairy (if any), and whose employment in such a position began before October 1, 1996, and has been uninterrupted in such a position since that date is deemed an employee.
 
-(c) An employee paid from nonappropriated funds of the Army and Air Force Exchange Service, Army and Air Force Motion Picture Service, Navy Ship's Stores Ashore, Navy exchanges, Marine Corps exchanges, Coast Guard exchanges, and other instrumentalities of the United States under the jurisdiction of the armed forces conducted for the comfort, pleasure, contentment, and mental and physical improvement of personnel of the armed forces is deemed not an employee for the purpose of—
+(c) An employee paid from nonappropriated funds of the Army and Air Force Exchange Service, Navy Ships Stores Program, Navy exchanges, Marine Corps exchanges, Coast Guard exchanges, and other instrumentalities of the United States under the jurisdiction of the armed forces conducted for the comfort, pleasure, contentment, and mental and physical improvement of personnel of the armed forces is deemed not an employee for the purpose of—
 
 &emsp;(1) laws administered by the Office of Personnel Management, except—
 
@@ -46,7 +46,7 @@
 
 (f) For purposes of sections 1212, 1213, 1214, 1215, 1216, 1221, 1222, 2302, and 7701, employees appointed under chapter 73 or 74 of title 38 shall be employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, §4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, §6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, §2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, §703(c)(2), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, §2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L. 99–335, title II, §207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, §2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, §7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, §201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424, §7, Oct. 29, 1994, 108 Stat. 4364; Pub. L. 104–201, div. A, title III, §370(b), Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. B, title XXVIII, §2871(c)(2), Nov. 18, 1997, 111 Stat. 2015; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, §4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, §6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, §2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, §703(c)(2), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, §2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L. 99–335, title II, §207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, §2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, §7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, §201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424, §7, Oct. 29, 1994, 108 Stat. 4364; Pub. L. 104–201, div. A, title III, §370(b), Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. B, title XXVIII, §2871(c)(2), Nov. 18, 1997, 111 Stat. 2015; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 113–66, div. A, title VI, §642, Dec. 26, 2013, 127 Stat. 787.)
 
 Historical and Revision Notes
 
@@ -110,9 +110,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act June 25, 1938, ch. 676, 52 Stat.1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c). Pub. L. 113–66 substituted “Navy Ships Stores Program” for “Army and Air Force Motion Picture Service, Navy Ship's Stores Ashore” in introductory provisions.
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
@@ -150,7 +152,7 @@ Pub. L. 104–201, div. A, title III, §370(e), Sept. 23, 1996, 110 Stat. 2499, 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–3 effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as an Effective Date note under section 2601 of Title 29, Labor.
+Amendment by Pub. L. 103–3 effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set outas an Effective Date note under section 2601 of Title 29, Labor.
 
 #### Effective Date of 1990 Amendment
 
@@ -208,7 +210,7 @@ Pub. L. 101–508, title VII, §7202(n), Nov. 5, 1990, 104 Stat. 1388–340, as 
 
 “(4) If an individual makes an election under section 8347(q)(2) or 8461(n)(2) of title 5, United States Code, to remain covered by a retirement system established for employees described in section 2105(c) of such title, any Government agency thereafter employing such individual shall, in lieu of any deductions or contributions for which it would otherwise be responsible with respect to such individual under chapter 83 or 84 of such title, make such deductions from pay and such contributions as would be required (under the retirement system for nonappropriated fund employees involved) if it were a nonappropriated fund instrumentality. Any such deductions and contributions shall be remitted to the Department of Defense or the Coast Guard, as applicable, for transmission to the appropriate retirement system.”
 
-\[Amendment by Pub. L. 102–378 to section 7202(n) of Pub. L. 101–508, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
+\[Amendment by Pub. L. 102–378 to section 7202(n) of Pub. L. 101–508, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an EffectiveDate of 1992 Amendment note under section 6303 of this title.\]
 
 #### Prohibition of Decrease in Basic Pay Rate of Employees of Nonappropriated Fund Instrumentalities
 

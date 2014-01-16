@@ -18,7 +18,7 @@
 
 (3) It shall be the responsibility of the entity requesting the transport of supplies under this section to ensure that the supplies are suitable for transport.
 
-(c)(1) Supplies transported under this section may be distributed by an agency of the UnitedStates Government, a foreign government, an international organization, or a private nonprofit relief organization.
+(c)(1) Supplies transported under this section may be distributed by an agency of the United States Government, a foreign government, an international organization, or a private nonprofit relief organization.
 
 (2) Supplies transported under this section may not be distributed, directly or indirectly, to any individual, group, or organization engaged in a military or paramilitary activity.
 
@@ -36,19 +36,19 @@ A prior section 402 was renumbered section 401(b) of this title.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(1)(C). Pub. L. 108–136, §312(b)(1), inserted “or entity” after “people”.
+<b>2003</b>—Subsec. (b)(1)(C). Pub. L. 108–136, §312(b)(1), inserted "or entity" after "people".
 
-Subsec. (b)(1)(E). Pub. L. 108–136, §312(b)(2), inserted “or use” after “distribution”.
+Subsec. (b)(1)(E). Pub. L. 108–136, §312(b)(2), inserted "or use" after "distribution".
 
-Subsec. (b)(3). Pub. L. 108–136, §312(b)(3), substituted “entity requesting the transport of supplies under this section to ensure that the supplies” for “donor to ensure that supplies to be transported under this section”.
+Subsec. (b)(3). Pub. L. 108–136, §312(b)(3), substituted "entity requesting the transport of supplies under this section to ensure that the supplies" for "donor to ensure that supplies to be transported under this section".
 
 Subsecs. (d), (e). Pub. L. 108–136, §312(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1999</b>—Subsec. (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–106 substituted “Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations” for “Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–106 substituted "Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations" for "Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs".
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–510 substituted “Not later than July 31 each year” for “At the end of each six-month period” and “the 12-month period ending on the preceding June 30” for “such six-month period”.
+<b>1990</b>—Subsec. (d). Pub. L. 101–510 substituted "Not later than July 31 each year" for "At the end of each six-month period" and "the 12-month period ending on the preceding June 30" for "such six-month period".
 
 #### Change of Name
 
@@ -62,13 +62,13 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 Pub. L. 106–309, title IV, §403, Oct. 17, 2000, 114 Stat. 1097, provided that:
 
-“(a)
+"(a)
 
 Priority for Disaster Relief Assistance.—In processing applications for the transportation of humanitarian assistance abroad under section 402 of title 10, United States Code, the Administrator of the United States Agency for International Development shall afford a priority to applications for the transportation of disaster relief assistance.
 
-“(b)
+"(b)
 
-Modification of Applications.—The Administrator of the United States Agency for International Development shall take all possible actions to assist applicants for the transportation of humanitarian assistance abroad under such section 402 in modifying or completing applications submitted under such section in order to meet applicable requirements under such section. The actions shall include efforts to contact such applicants for purposes of the modification or completion of such applications.”
+Modification of Applications.—The Administrator of the United States Agency for International Development shall take all possible actions to assist applicants for the transportation of humanitarian assistance abroad under such section 402 in modifying or completing applications submitted under such section in order to meet applicable requirements under such section. The actions shall include efforts to contact such applicants for purposes of the modification or completion of such applications."
 
 #### First Report Deadline
 

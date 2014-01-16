@@ -80,11 +80,11 @@ Whenever the President finds that—
 
 #### Amendments
 
-<b>2001</b>—Subsec. (b)(2). Pub. L. 107–16 struck out “, 2011,” after “sections 2010” in introductory provisions.
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–16 struck out ", 2011," after "sections 2010" in introductory provisions.
 
 <b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §2001(c)(1)(G), inserted reference to section 2010 in introductory provisions.
 
-Subsecs. (c), (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsecs. (c), (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–809 struck out provision that, if the decedent at the time of his death was not a citizen of the United States, credit would not be allowed under this section unless the foreign country of which the decedent was a citizen or subject, in imposing estate, inheritance, legacy, or succession taxes, allows a similar credit in the case of a citizen of the United States resident in such country.
 

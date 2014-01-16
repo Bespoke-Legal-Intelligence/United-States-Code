@@ -20,7 +20,7 @@ The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub
 
 Section 2477 of this title, referred to in subsec. (b), was repealed by Pub. L. 102–573, title VII, §702(b)(2), Oct. 29, 1992, 106 Stat. 4582.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “service”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "service".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@
 - [&sect; 00622 - Forfeiture of rights and privileges; dissolution; liability of directors and officers](%C2%A7%2000622%20-%20Forfeiture%20of%20rights%20and%20privileges%3B%20dissolution%3B%20liability%20of%20directors%20and%20officers.md)
 - [&sect; 00623 - Voluntary liquidation](%C2%A7%2000623%20-%20Voluntary%20liquidation.md)
 - [&sect; 00624 - Appointment of receiver or conservator](%C2%A7%2000624%20-%20Appointment%20of%20receiver%20or%20conservator.md)
-- [&sect; 00625 - Stockholders&#8217; meetings; books and records; reports; examination](%C2%A7%2000625%20-%20Stockholders%E2%80%99%20meetings%3B%20books%20and%20records%3B%20reports%3B%20examination.md)
+- [&sect; 00625 - Stockholders' meetings; books and records; reports; examination](%C2%A7%2000625%20-%20Stockholders%27%20meetings%3B%20books%20and%20records%3B%20reports%3B%20examination.md)
 - [&sect; 00626 - Dividends; surplus fund](%C2%A7%2000626%20-%20Dividends%3B%20surplus%20fund.md)
 - [&sect; 00627 - State taxation](%C2%A7%2000627%20-%20State%20taxation.md)
 - [&sect; 00628 - Extension of corporate existence](%C2%A7%2000628%20-%20Extension%20of%20corporate%20existence.md)

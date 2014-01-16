@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 Nov. 5, 1990, Pub. L. 101–510, title XVI, §1603, 104 Stat. 1736.
 
-Before clause (1), the word “objects” is omitted as included in “purposes”.
+Before clause (1), the word "objects" is omitted as included in "purposes".
 

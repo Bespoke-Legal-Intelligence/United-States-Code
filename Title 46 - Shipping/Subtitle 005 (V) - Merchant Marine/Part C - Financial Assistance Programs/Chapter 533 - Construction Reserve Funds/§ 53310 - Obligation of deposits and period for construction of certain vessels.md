@@ -20,7 +20,7 @@ and 53309.—Sections 53306 and 53309 of this title apply to a deposit in a cons
 
 Additional Requirements for Certain Vessels.—In addition to the requirements of subsection (a)(1), for a vessel not constructed under a construction-differential subsidy contract or not bought from the Secretary of Transportation—
 
-&emsp;(1) at least 5 percent of the construction (or, if the contract covers more than one vessel, atleast 5 percent of the construction of the first vessel) must be completed within 6 months after the date of the construction contract (or within the period of an extension under subsection (c)), as estimated by the Secretary and certified by the Secretary to the Secretary of the Treasury; and
+&emsp;(1) at least 5 percent of the construction (or, if the contract covers more than one vessel, at least 5 percent of the construction of the first vessel) must be completed within 6 months after the date of the construction contract (or within the period of an extension under subsection (c)), as estimated by the Secretary and certified by the Secretary to the Secretary of the Treasury; and
 
 &emsp;(2) construction under the contract must be completed with reasonable dispatch thereafter.
 
@@ -56,7 +56,7 @@ June 29, 1936, ch. 858, title V, §511(g), (h), as added Oct. 10, 1940, ch. 849,
 
 In this section, the language about joint regulations in 46 App. U.S.C. 1161(g) and (h) is omitted as unnecessary because of section 53302(b) of the revised title.
 
-In subsection (a), the words “(i) two years from the date of deposit or the date of any extension thereof which may be granted by the Secretary of Transportation pursuant to the provisions of subsection (h) of this section, in the case of deposits made prior to the date on which these amendatory provisions become effective, or” in 46 App. U.S.C. 1161(g)(1) and (2) are omitted as obsolete. In paragraph (1)(A), the words “or, with the approval of the Secretary of Transportation, for a part interest in a new vessel or for the reconstruction or reconditioning of a new vessel” are substituted for “(or in the discretion of the Secretary of Transportation, for a part interest therein), or, with the approval of the Secretary of Transportation, for the reconstruction or reconditioning of a new vessel or vessels” to eliminate unnecessary words.
+In subsection (a), the words "(i) two years from the date of deposit or the date of any extension thereof which may be granted by the Secretary of Transportation pursuant to the provisions of subsection (h) of this section, in the case of deposits made prior to the date on which these amendatory provisions become effective, or" in 46 App. U.S.C. 1161(g)(1) and (2) are omitted as obsolete. In paragraph (1)(A), the words "or, with the approval of the Secretary of Transportation, for a part interest in a new vessel or for the reconstruction or reconditioning of a new vessel" are substituted for "(or in the discretion of the Secretary of Transportation, for a part interest therein), or, with the approval of the Secretary of Transportation, for the reconstruction or reconditioning of a new vessel or vessels" to eliminate unnecessary words.
 
 In subsection (c), the proviso in 46 App. U.S.C. 1161(h) is omitted as obsolete.
 

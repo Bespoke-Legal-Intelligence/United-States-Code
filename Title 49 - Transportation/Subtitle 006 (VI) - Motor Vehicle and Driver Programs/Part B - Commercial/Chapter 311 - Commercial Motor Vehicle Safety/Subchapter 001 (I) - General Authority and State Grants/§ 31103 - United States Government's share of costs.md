@@ -2,7 +2,7 @@
 
 (a)
 
-Commercial Motor Vehicle Safety Programs and Enforcement.—The Secretary of Transportation shall reimburse a State, from a grant made under this subchapter, an amount that is not more than 80 percent of the costs incurred by the State in a fiscal year in developing and implementing programs to improve commercial motor vehicle safety and enforcecommercial motor vehicle regulations, standards, or orders adopted under this subchapter or subchapter II of this chapter. In determining those costs, the Secretary shall include in-kind contributions by the State. Amounts of the State and its political subdivisions required to be expended under section 31102(b)(2)(E) of this title may not be included as part of the share not provided by the United States Government. Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State's share not provided by the United States. The Secretary may allocate among the States whose applications for grants have been approved those amounts appropriated for grants to support those programs, under criteria that may be established.
+Commercial Motor Vehicle Safety Programs and Enforcement.—The Secretary of Transportation shall reimburse a State, from a grant made under this subchapter, an amount that is not more than 80 percent of the costs incurred by the State in a fiscal year in developing and implementing programs to improve commercial motor vehicle safety and enforce commercial motor vehicle regulations, standards, or orders adopted under this subchapter or subchapter II of this chapter. In determining those costs, the Secretary shall include in-kind contributions by the State. Amounts of the State and its political subdivisions required to be expended under section 31102(b)(2)(E) of this title may not be included as part of the share not provided by the United States Government. Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State's share not provided by the United States. The Secretary may allocate among the States whose applications for grants have been approved those amounts appropriated for grants to support those programs, under criteria that may be established.
 
 (b)
 
@@ -26,17 +26,17 @@ Historical and Revision Notes
 
 Jan. 6, 1983, Pub. L. 97–424, §403, 96 Stat. 2156; Dec. 18, 1991, Pub. L. 102–240, §4002(d), 105 Stat. 2142.
 
-The word “rules” is omitted as being synonymous with “regulations”.
+The word "rules" is omitted as being synonymous with "regulations".
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §32933(c), substituted “section 31102(b)(2)(E)” for “section 31102(b)(1)(E)”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §32933(c), substituted "section 31102(b)(2)(E)" for "section 31102(b)(1)(E)".
 
-Subsec. (b). Pub. L. 112–141, §32933(d), struck out “authorized by section 31104(f)(2)” after “public education activities”.
+Subsec. (b). Pub. L. 112–141, §32933(d), struck out "authorized by section 31104(f)(2)" after "public education activities".
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted “31102(b)(1)(E)” for “31102(b)(1)(D)” and inserted before last sentence “Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State's share not provided by the United States.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted "31102(b)(1)(E)" for "31102(b)(1)(D)" and inserted before last sentence "Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State's share not provided by the United States."
 
-<b>1998</b>—Pub. L. 105–178 designated existing provisions as subsec. (a), inserted subsec. heading, inserted “improve commercial motor vehicle safety and” after “implementing programs to”, and added subsec. (b).
+<b>1998</b>—Pub. L. 105–178 designated existing provisions as subsec. (a), inserted subsec. heading, inserted "improve commercial motor vehicle safety and" after "implementing programs to", and added subsec. (b).
 
 #### Effective Date of 2012 Amendment
 

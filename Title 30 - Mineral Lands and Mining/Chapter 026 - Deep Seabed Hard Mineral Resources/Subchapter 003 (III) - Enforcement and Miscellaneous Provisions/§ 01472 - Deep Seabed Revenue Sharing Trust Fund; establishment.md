@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the “Deep Seabed Revenue Sharing Trust Fund” (hereinafter in this section referred to as the “Trust Fund”), consisting of such amounts as may be appropriated or credited to the Trust Fund as provided in this section.
+There is established in the Treasury of the United States a trust fund to be known as the "Deep Seabed Revenue Sharing Trust Fund" (hereinafter in this section referred to as the "Trust Fund"), consisting of such amounts as may be appropriated or credited to the Trust Fund as provided in this section.
 
 #### (b) Transfer to Trust Fund of amounts equivalent to certain taxes
 
@@ -12,7 +12,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (2) Method of transfer
 
-&emsp;The amounts appropriated by paragraph (1) shall be transferred at least quarterly from the general fund of the Treasury to the Trust Fund on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in paragraph (1) received in the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amount required to be transferred.
+&emsp;The amounts appropriated by paragraph (1) shall be transferred at least quarterly from the general fund of the Treasury to the Trust Fund on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in paragraph (1) received in theTreasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amount required to be transferred.
 
 #### (c) Management of Trust Fund
 
@@ -44,7 +44,7 @@ If an international deep seabed treaty is not in effect with respect to the Unit
 
 #### (f) International deep seabed treaty
 
-For purposes of this section, the term “international deep seabed treaty” has the meaning given to such term by section 4498(b) <sup>1</sup> of title 26.
+For purposes of this section, the term "international deep seabed treaty" has the meaning given to such term by section 4498(b) <sup>1</sup> of title 26.
 
 (Pub. L. 96–283, title IV, §403, June 28, 1980, 94 Stat. 584; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -58,7 +58,7 @@ Section was enacted as part of title IV of Pub. L. 96–283, and not as part of 
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 #### Termination of Reporting Requirements
 

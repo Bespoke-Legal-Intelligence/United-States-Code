@@ -32,7 +32,7 @@
 
 #### (i) Affected State
 
-&emsp;&emsp;&emsp;The term “affected State” means a State—
+&emsp;&emsp;&emsp;The term "affected State" means a State—
 
 &emsp;&emsp;&emsp;&emsp;(I) the boundaries of which include 1 or more Indian tribes; and
 
@@ -40,7 +40,7 @@
 
 #### (ii) Indian population
 
-&emsp;&emsp;&emsp;The term “Indian population” means the total number of residents of an affected State who are Indian.
+&emsp;&emsp;&emsp;The term "Indian population" means the total number of residents of an affected State who are Indian.
 
 #### (B) Requirements
 
@@ -108,7 +108,7 @@ Due to the rural, isolated nature of most Indian reservations and communities (e
 
 #### (1) Definition of affected entity
 
-&emsp;In this subsection, the term “affected entity” means any entity—
+&emsp;In this subsection, the term "affected entity" means any entity—
 
 &emsp;&emsp;(A) that receives a grant for suicide intervention, prevention, or treatment under a program administered by the Administration; and
 

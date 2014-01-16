@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 July 19, 1954, ch. 536, §3, 68 Stat. 490.
 
-Before clause (1), the word “objects” is omitted as unnecessary.
+Before clause (1), the word "objects" is omitted as unnecessary.
 

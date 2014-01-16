@@ -2,7 +2,7 @@
 
 #### (a) Transfer of powers and authority from Secretary of Agriculture to Telephone Bank Board; cessation of Presidential appointees as Board members and reduction in number of Board members; status of telephone bank
 
-Whenever fifty-one per centum of the maximum amount of class A stock issued to theUnited States and outstanding at any time after September 30, 1985, has been fully redeemed and retired pursuant to section 946(c) of this title—
+Whenever fifty-one per centum of the maximum amount of class A stock issued to the United States and outstanding at any time after September 30, 1985, has been fully redeemed and retired pursuant to section 946(c) of this title—
 
 &emsp;(1) the powers and authority of the Governor of the telephone bank granted to the Secretary by this subchapter shall vest in the Telephone Bank Board, and may be exercised and performed through the Governor of the telephone bank, to be selected by the Telephone Bank Board, and through such other employees as the Telephone Bank Board shall designate;
 
@@ -22,11 +22,11 @@ Congress reserves the right to review the continued operations of the telephone 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–354 substituted “Secretary” for “Administrator of the Rural Electrification Administration”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–354 substituted "Secretary" for "Administrator of the Rural Electrification Administration".
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–624 substituted “section 945(b)(1)(A) of this title” for “section 945(b) of this title”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–624 substituted "section 945(b)(1)(A) of this title" for "section 945(b) of this title".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–273 substituted “September” for “June”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–273 substituted "September" for "June".
 
 #### Effective Date
 

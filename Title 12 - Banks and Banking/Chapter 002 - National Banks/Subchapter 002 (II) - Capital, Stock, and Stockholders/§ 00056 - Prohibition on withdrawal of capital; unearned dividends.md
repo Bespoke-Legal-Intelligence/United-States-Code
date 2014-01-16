@@ -10,5 +10,5 @@ R.S. §5204 derived from act June 3, 1864, ch. 106, §38, 13 Stat. 110, which wa
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–325 substituted “undivided profits, subject to other applicable provisions of law” for “net profits then on hand, deducting therefrom its losses and bad debts” in second sentence and struck out after second sentence “All debts due to any associations, on which interest is past due and unpaid for a period of six months, unless the same are well secured, and in process of collection, shall be considered bad debts within the meaning of this section.”
+<b>1994</b>—Pub. L. 103–325 substituted "undivided profits, subject to other applicable provisions of law" for "net profits then on hand, deducting therefrom its losses and bad debts" in second sentence and struck out after second sentence "All debts due to any associations, on which interest is past due and unpaid for a period of six months, unless the same are well secured, and in process of collection, shall be considered bad debts within the meaning of this section."
 

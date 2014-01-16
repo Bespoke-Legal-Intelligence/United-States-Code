@@ -20,7 +20,7 @@
 
 &emsp;(3) for all cases that the court or an individual judicial officer determines are complex and any other appropriate cases, careful and deliberate monitoring through a discovery-case management conference or a series of such conferences at which the presiding judicial officer—
 
-&emsp;&emsp;(A) explores the parties’ receptivity to, and the propriety of, settlement or proceeding with the litigation;
+&emsp;&emsp;(A) explores the parties' receptivity to, and the propriety of, settlement or proceeding with the litigation;
 
 &emsp;&emsp;(B) identifies or formulates the principal issues in contention and, in appropriate cases, provides for the staged resolution or bifurcation of issues for trial consistent with Rule 42(b) of the Federal Rules of Civil Procedure;
 
@@ -50,7 +50,7 @@
 
 &emsp;(3) a requirement that all requests for extensions of deadlines for completion of discovery or for postponement of the trial be signed by the attorney and the party making the request;
 
-&emsp;(4) a neutral evaluation program for the presentation of the legal and factual basis of a case to a neutral court representative selected by the court at a nonbinding conference conducted early in the litigation;
+&emsp;(4) a neutral evaluation program for the presentation of the legal and factual basis of acase to a neutral court representative selected by the court at a nonbinding conference conducted early in the litigation;
 
 &emsp;(5) a requirement that, upon notice by the court, representatives of the parties with authority to bind them in settlement discussions be present or available by telephone during any settlement conference; and
 

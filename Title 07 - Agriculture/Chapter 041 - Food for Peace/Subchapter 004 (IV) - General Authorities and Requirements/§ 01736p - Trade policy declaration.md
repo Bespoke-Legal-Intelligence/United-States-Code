@@ -6,7 +6,7 @@ It is hereby declared to be the agricultural trade policy of the United States t
 
 &emsp;(2) support the principle of free trade and the promotion of fair trade in agricultural commodities and products;
 
-&emsp;(3) cooperate fully in all efforts to negotiate with foreign countries further reductions in tariff and nontariff barriers to trade, including sanitary and phytosanitary measures and trade-distorting subsidies;
+&emsp;(3) cooperate fully in all efforts to negotiate with foreign countries further reductions in tariff and nontariff barriers to trade, includingsanitary and phytosanitary measures and trade-distorting subsidies;
 
 &emsp;(4) aggressively counter unfair foreign trade practices as a means of encouraging fairer trade;
 
@@ -22,13 +22,13 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 struck out subsec. (a) which stated congressional findings regarding United States agricultural export policy, struck out subsec. designation “(b)”, and substituted pars. (1) to (4) for former pars. (1) to (4) which read as follows:
+<b>1996</b>—Pub. L. 104–127 struck out subsec. (a) which stated congressional findings regarding United States agricultural export policy, struck out subsec. designation "(b)", and substituted pars. (1) to (4) for former pars. (1) to (4) which read as follows:
 
-“(1) provide through all means possible agricultural commodities and their products for export at competitive prices, with full assurance of quality and reliability of supply;
+"(1) provide through all means possible agricultural commodities and their products for export at competitive prices, with full assurance of quality and reliability of supply;
 
-“(2) support the principle of free trade and the promotion of fairer trade in agricultural commodities and their products;
+"(2) support the principle of free trade and the promotion of fairer trade in agricultural commodities and their products;
 
-“(3) cooperate fully in all efforts to negotiate with foreign countries reductions in current barriers to fair trade;
+"(3) cooperate fully in all efforts to negotiate with foreign countries reductions in current barriers to fair trade;
 
-“(4) counter aggressively unfair foreign trade practices using all available means, including export restitution, export bonus programs, and, if necessary, restrictions on United States imports of foreign agricultural commodities and their products, as a means to encourage fairer trade;”.
+"(4) counter aggressively unfair foreign trade practices using all available means, including export restitution, export bonus programs, and, if necessary, restrictions on United States imports of foreign agricultural commodities and their products, as a means to encourage fairer trade;".
 

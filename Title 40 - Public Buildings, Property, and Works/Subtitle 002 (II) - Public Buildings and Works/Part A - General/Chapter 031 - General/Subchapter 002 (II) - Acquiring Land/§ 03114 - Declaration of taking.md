@@ -30,7 +30,7 @@ Compensation.—
 
 &emsp;(1)
 
-Determination and award.—Compensation shall be determined and awarded in the proceeding and established by judgment. The judgment shall include interest, in accordance with section 3116 of this title, on the amount finally awarded as the value of the property as of the date of taking and shall be awarded from that date to the date of payment. Interest shall not be allowed on as much of the compensation as has been paid into the court.Amounts paid into the court shall not be charged with commissions or poundage.
+Determination and award.—Compensation shall be determined and awarded in the proceeding and established by judgment. The judgment shall include interest, in accordance with section 3116 of this title, on the amount finally awarded as the value of the property as of the date of taking and shall be awarded from that date to the date of payment. Interest shall not be allowed on as much of the compensation as has been paid into the court. Amounts paid into the court shall not be charged with commissions or poundage.
 
 &emsp;(2)
 
@@ -92,9 +92,9 @@ Feb. 26, 1931, ch. 307, §1, 46 Stat. 1421; Pub. L. 99–656, §1(1), Nov. 14, 1
 
 Feb. 26, 1931, ch. 307, §2, 46 Stat. 1422.
 
-In subsection (a), before clause (1), the words “which has been or may be” are omitted as unnecessary.
+In subsection (a), before clause (1), the words "which has been or may be" are omitted as unnecessary.
 
-In subsection (b)(1), the words “said lands in fee simple absolute, or such less” are omitted as unnecessary.
+In subsection (b)(1), the words "said lands in fee simple absolute, or such less" are omitted as unnecessary.
 
-In subsection (b)(2), the words “deemed to be” are omitted as unnecessary.
+In subsection (b)(2), the words "deemed to be" are omitted as unnecessary.
 

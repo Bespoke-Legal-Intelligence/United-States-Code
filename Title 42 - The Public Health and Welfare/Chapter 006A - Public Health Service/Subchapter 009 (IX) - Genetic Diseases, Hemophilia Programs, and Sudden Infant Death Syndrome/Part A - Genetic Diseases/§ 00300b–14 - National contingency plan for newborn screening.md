@@ -26,5 +26,5 @@ The contingency plan developed under subsection (a) shall include a plan for—
 
 (July 1, 1944, ch. 373, title XI, §1115, as added Pub. L. 110–204, §7, Apr. 24, 2008, 122 Stat. 711.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “consortium”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "consortium".</i>
 

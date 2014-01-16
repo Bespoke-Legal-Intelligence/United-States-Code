@@ -6,7 +6,7 @@ The Secretary may accept any real property located in Placer County, California,
 
 #### (b) Former trust lands of Auburn Rancheria
 
-Subject to the conditions specified in this section, real property eligible for trust status under this section shall include fee land held by the White Oak Ridge Association, Indian owned fee land held communally pursuant to the distribution plan prepared and approved by the Bureau of Indian Affairs on August 13, 1959, and Indian owned fee land held by persons listed as distributees or dependent members in such distribution plan or such distributees’ or dependent members’ Indian heirs or successors in interest.
+Subject to the conditions specified in this section, real property eligible for trust status under this section shall include fee land held by the White Oak Ridge Association, Indian owned fee land held communally pursuant to the distribution plan prepared and approved by the Bureau of Indian Affairs on August 13, 1959, and Indian owned fee land held by persons listed as distributees or dependent members in such distribution plan or such distributees' or dependent members' Indian heirs or successors in interest.
 
 #### (c) Lands to be part of reservation
 
@@ -20,5 +20,5 @@ Act of June 18, 1934, referred to in subsec. (a), popularly known as the Indian 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–122 substituted “may” for “shall” in first sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–122 substituted "may" for "shall" in first sentence.
 

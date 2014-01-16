@@ -4,7 +4,7 @@
 
 Definitions.—In this section—
 
-&emsp;(1) “property-carrying unit” means any part of a commercial motor vehicle combination (except the truck tractor) used to carry property, including a trailer, a semitrailer, or the property-carrying section of a single unit truck.
+&emsp;(1) "property-carrying unit" means any part of a commercial motor vehicle combination (except the truck tractor) used to carry property, including a trailer, a semitrailer, or the property-carrying section of a single unit truck.
 
 &emsp;(2) the length of the property-carrying units of a commercial motor vehicle combination is the length measured from the front of the first property-carrying unit to the rear of the last property-carrying unit.
 
@@ -38,7 +38,7 @@ Additional Limitations.—(1) A commercial motor vehicle combination whose opera
 
 (3) A State making a minor adjustment of a temporary and emergency nature as authorized by paragraph (1) of this subsection or further restricting or prohibiting the operation of a commercial motor vehicle combination as authorized by paragraph (2) of this subsection shall advise the Secretary not later than 30 days after the action. The Secretary shall publish a notice of the action in the Federal Register.
 
-(4) <sup>1</sup> Nebraska may continue to allow to be operated under paragraphs (b)(1) and (b)(2) of this section,<sup>2</sup> the State of Nebraska may allow longer combination vehicles that were not in actual operation on June 1, 1991 to be operated within its boundaries to transport sugar beets from the field where such sugar beets are harvested to storage, market, factory or stockpile or from stockpile to storage, market or factory. This provision shall expire on February 28, 1998.
+(4) <sup>1</sup> Nebraska may continue to allow to be operated under paragraphs (b)(1) and (b)(2) of this section,<sup>2</sup> the State of Nebraska may allowlonger combination vehicles that were not in actual operation on June 1, 1991 to be operated within its boundaries to transport sugar beets from the field where such sugar beets are harvested to storage, market, factory or stockpile or from stockpile to storage, market or factory. This provision shall expire on February 28, 1998.
 
 (e)
 
@@ -48,7 +48,7 @@ List of State Length Limitations.—(1) Not later than February 16, 1992, each S
 
 (3) A law or regulation may not be included on the list submitted by a State or published by the Secretary merely because it authorized, or could have authorized, by permit or otherwise, the operation of commercial motor vehicle combinations not in actual operation on a regular or periodic basis before June 2, 1991.
 
-(4) Except as revised under this paragraph or paragraph (5) of this subsection, the list shall be published as final in the Federal Register not later than June 15, 1992. In publishing the finallist, the Secretary shall make any revisions necessary to correct inaccuracies identified under paragraph (2) of this subsection. After publication of the final list, commercial motor vehicle combinations prohibited under subsection (b) of this section may not operate on the Dwight D. Eisenhower System of Interstate and Defense Highways and other Federal-aid Primary System highways designated by the Secretary except as published on the list. The list may be combined by the Secretary with the list required under section 127(d) of title 23.
+(4) Except as revised under this paragraph or paragraph (5) of this subsection, the list shall be published as final in the Federal Register not later than June 15, 1992. In publishing the final list, the Secretary shall make any revisions necessary to correct inaccuracies identified under paragraph (2) of this subsection. After publication of the final list, commercial motor vehicle combinations prohibited under subsection (b) of this section may not operate on the Dwight D. Eisenhower System of Interstate and Defense Highways and other Federal-aid Primary System highways designated by the Secretary except as published on the list. The list may be combined by the Secretary with the list required under section 127(d) of title 23.
 
 (5) On the Secretary's own motion or on request by any person (including a State), the Secretary shall review the list published under paragraph (4) of this subsection. If the Secretary decides there is reason to believe a mistake was made in the accuracy of the list, the Secretary shall begin a proceeding to decide whether a mistake was made. If the Secretary decides there was a mistake, the Secretary shall publish the correction.
 
@@ -118,23 +118,23 @@ Jan 6, 1983, Pub. L. 97–424, 96 Stat. 2159, §411(j); added Dec. 18, 1991, Pub
 
 49 App.:2311(j)(8).
 
-In this section, the word “property” is substituted for “cargo”, and the word “law” is substituted for “statute”, for consistency in the revised title. The words “Dwight D. Eisenhower System of Interstate and Defense Highways” are substituted for “National System of Interstate and Defense Highways” because of the Act of October 15, 1990 (Public Law 101–427, 104 Stat. 927).
+In this section, the word "property" is substituted for "cargo", and the word "law" is substituted for "statute", for consistency in the revised title. The words "Dwight D. Eisenhower System of Interstate and Defense Highways" are substituted for "National System of Interstate and Defense Highways" because of the Act of October 15, 1990 (Public Law 101–427, 104 Stat. 927).
 
-In subsections (b), before clause (1), and (g)(1), the words “dismantled easily or divided easily” are substituted for “easily dismantled or divided” for clarity.
+In subsections (b), before clause (1), and (g)(1), the words "dismantled easily or divided easily" are substituted for "easily dismantled or divided" for clarity.
 
-In subsection (e)(4), the words “Except as revised under this paragraph or paragraph (5) of this subsection” are substituted for “Except as modified pursuant to subparagraph (B) or (E) of this subsection” for clarity.
+In subsection (e)(4), the words "Except as revised under this paragraph or paragraph (5) of this subsection" are substituted for "Except as modified pursuant to subparagraph (B) or (E) of this subsection" for clarity.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (c). Pub. L. 109–59, §4112(b), substituted “Iowa, and Nebraska” for “and Iowa” in heading.
+<b>2005</b>—Subsec. (c). Pub. L. 109–59, §4112(b), substituted "Iowa, and Nebraska" for "and Iowa" in heading.
 
 Subsec. (c)(5). Pub. L. 109–59, §4112(a), added par. (5).
 
-<b>1997</b>—Subsec. (d)(4). Pub. L. 105–66 substituted “February 28, 1998” for “September 30, 1997”.
+<b>1997</b>—Subsec. (d)(4). Pub. L. 105–66 substituted "February 28, 1998" for "September 30, 1997".
 
 <b>1996</b>—Subsec. (d)(4). Pub. L. 104–205, which directed amendment of this section by adding a new subsection designated par. (4) without specifying where, was executed by adding par. (4) to subsec. (d) to reflect the probable intent of Congress.
 
-<b>1995</b>—Subsec. (c). Pub. L. 104–59 substituted “Alaska, and Iowa” for “and Alaska” in heading and added par. (4).
+<b>1995</b>—Subsec. (c). Pub. L. 104–59 substituted "Alaska, and Iowa" for "and Alaska" in heading and added par. (4).
 
 <i><sup>1</sup></i><i> See 1996 Amendment note below.</i>
 

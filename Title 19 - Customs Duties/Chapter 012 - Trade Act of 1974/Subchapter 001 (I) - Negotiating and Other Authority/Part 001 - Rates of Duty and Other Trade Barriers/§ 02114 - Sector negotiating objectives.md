@@ -20,9 +20,9 @@ If the President determines that competitive opportunities in one or more produc
 
 #### Change of Name
 
-“United States Trade Representative” substituted for “Special Representative for Trade Negotiations” in subsec. (c), pursuant to Reorg. Plan No. 3 of 1979, §1(b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.
+"United States Trade Representative" substituted for "Special Representative for Trade Negotiations" in subsec. (c), pursuant to Reorg. Plan No. 3 of 1979, §1(b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.
 
 #### Amendments
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–573 inserted “or non-Federal governmental” after “private”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–573 inserted "or non-Federal governmental" after "private".
 

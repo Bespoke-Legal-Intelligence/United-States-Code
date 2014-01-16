@@ -14,7 +14,7 @@ Whenever funds made available for use under subchapter II of this chapter have b
 
 #### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
 
-References to subchapter II of this chapter are deemed to exclude parts IV (§2346 et seq.), VI (§2348 etseq.), and VIII (§2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter II of this chapter are deemed to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Codification
 
@@ -28,7 +28,7 @@ Section was formerly classified to section 2316 of this title.
 
 <b>1966</b>—Pub. L. 89–583 provided for transfer to and merger with the separate fund account of such amounts of available appropriations (including unliquidated balances of funds heretofore obligated for financing sales and guarantees) as is determined by the President.
 
-<b>1965</b>—Pub. L. 89–171 inserted “receipts received from the disposition of evidences of indebtedness and charges (including fees and premiums) or interest collected” and substituted “have been or are used” for “are used” and “financing sales and guaranties, including the overhead costs thereof” for “furnishing further military assistance on cash or credit terms.”
+<b>1965</b>—Pub. L. 89–171 inserted "receipts received from the disposition of evidences of indebtedness and charges (including fees and premiums) or interest collected" and substituted "have been or are used" for "are used" and "financing sales and guaranties, including the overhead costs thereof" for "furnishing further military assistance on cash or credit terms."
 
 #### Effective Date of 1968 Amendment
 
@@ -58,13 +58,13 @@ Similar provisions were contained in Pub. L. 90–249, title I, §119, Jan. 2, 1
 
 Pub. L. 91–194, title I, §120, Feb. 9, 1970, 84 Stat. 10, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that:
 
-“(a) In order to restrain arms races and proliferation of sophisticated weapons, and to ensure that resources intended for economic development are not diverted to military purposes, the President shall take into account before furnishing development loans, Alliance loans, or supporting assistance to any country under this Act \[Pub. L. 91–194\], and before making sales under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\]:
+"(a) In order to restrain arms races and proliferation of sophisticated weapons, and to ensure that resources intended for economic development are not diverted to military purposes, the President shall take into account before furnishing development loans, Alliance loans, or supporting assistance to any country under this Act \[Pub. L. 91–194\], and before making sales under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\]:
 
-&emsp;“(1) the percentage of the recipient or purchasing country's budget which is devoted to military purposes,
+&emsp;"(1) the percentage of the recipient or purchasing country's budget which is devoted to military purposes,
 
-&emsp;“(2) the degree to which the recipient or purchasing country is using its foreign exchange resources to acquire military equipment; and
+&emsp;"(2) the degree to which the recipient or purchasing country is using its foreign exchange resources to acquire military equipment; and
 
-&emsp;“(3) the amount spent by the recipient or purchasing country for the purchase of sophisticated weapons systems, such as missile systems and jet aircraft for military purposes, from any country.
+&emsp;"(3) the amount spent by the recipient or purchasing country for the purchase of sophisticated weapons systems, such as missile systems and jet aircraft for military purposes, from any country.
 
-“(b) The President shall report annually to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate his actions in carrying out this provision.”
+"(b) The President shall report annually to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate his actions in carrying out this provision."
 

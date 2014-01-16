@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–470 substituted “include in his annual report a detailed description” for “, within one year after November 9, 1978, and annually thereafter while funds are available under this part, submit to Congress a detailed report” and “Such description” for “Such report”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–470 substituted "include in his annual report a detailed description" for ", within one year after November 9, 1978, and annually thereafter while funds are available under this part, submit to Congress a detailed report" and "Such description" for "Such report".
 

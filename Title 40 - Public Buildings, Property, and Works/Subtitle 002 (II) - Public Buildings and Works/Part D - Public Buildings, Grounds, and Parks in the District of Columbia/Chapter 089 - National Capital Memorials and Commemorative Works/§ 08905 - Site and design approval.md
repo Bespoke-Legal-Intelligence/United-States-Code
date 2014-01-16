@@ -72,13 +72,13 @@ Pub. L. 99–652, §7, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, §2(d),
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–126, §203(e)(1)(A), substituted “sponsor” for “person” wherever appearing.
+<b>2003</b>—Subsec. (a). Pub. L. 108–126, §203(e)(1)(A), substituted "sponsor" for "person" wherever appearing.
 
-Subsec. (a)(1). Pub. L. 108–126, §203(e)(1)(B), inserted “Advisory” before “Commission” and substituted “design concepts” for “designs”.
+Subsec. (a)(1). Pub. L. 108–126, §203(e)(1)(B), inserted "Advisory" before "Commission" and substituted "design concepts" for "designs".
 
-Subsec. (b). Pub. L. 108–126, §203(e)(2)(A), substituted “and the Secretary or Administrator (as appropriate)” for “Secretary, and Administrator” in introductory provisions.
+Subsec. (b). Pub. L. 108–126, §203(e)(2)(A), substituted "and the Secretary or Administrator (as appropriate)" for "Secretary, and Administrator" in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 108–126, §203(e)(2)(B), substituted “open space, existing public use, and cultural and natural resources.” for “open space and existing public use.”
+Subsec. (b)(2)(B). Pub. L. 108–126, §203(e)(2)(B), substituted "open space, existing public use, and cultural and natural resources." for "open space and existing public use."
 
 Subsec. (b)(5) to (7). Pub. L. 108–126, §204, added pars. (5) to (7).
 
@@ -86,5 +86,5 @@ Subsec. (b)(5) to (7). Pub. L. 108–126, §204, added pars. (5) to (7).
 
 Amendments by Pub. L. 108–126 not applicable to a commemorative work for which a site was approved in accordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “8902(a)(2).”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "8902(a)(2)."</i>
 

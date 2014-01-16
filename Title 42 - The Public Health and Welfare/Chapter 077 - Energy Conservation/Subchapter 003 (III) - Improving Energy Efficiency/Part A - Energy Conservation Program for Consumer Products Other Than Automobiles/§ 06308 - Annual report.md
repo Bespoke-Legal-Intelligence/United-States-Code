@@ -6,7 +6,7 @@ The Secretary shall report to the Congress and the President either (1) as part 
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–12 inserted at end “Nothing in this section provides a defense or justification for a failure by the Secretary to comply with a nondiscretionary duty as provided for in this part.”
+<b>1987</b>—Pub. L. 100–12 inserted at end "Nothing in this section provides a defense or justification for a failure by the Secretary to comply with a nondiscretionary duty as provided for in this part."
 
-<b>1978</b>—Pub. L. 95–619 inserted requirement that each report under this section should account for actions taken by the Secretary, as well as actions not taken, during the covered period in carrying out this part and substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
+<b>1978</b>—Pub. L. 95–619 inserted requirement that each report under this section should account for actions taken by the Secretary, as well as actions not taken, during the covered period in carrying out this part and substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration.
 

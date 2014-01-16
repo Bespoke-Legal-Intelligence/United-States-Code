@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 Feb. 18, 1980, Pub. L. 96–193, §103(b), 94 Stat. 51; restated Sept. 3, 1982, Pub. L. 97–248, §524(b)(3), 96 Stat. 696.
 
-In subsection (a), before clause (1), the words “incur obligations to” are omitted as surplus.
+In subsection (a), before clause (1), the words "incur obligations to" are omitted as surplus.
 

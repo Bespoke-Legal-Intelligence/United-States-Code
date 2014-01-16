@@ -1,6 +1,6 @@
 ### §592. Troops at polls
 
-Whoever, being an officer of the Army or Navy, or other person in the civil, military, or naval service of the United States, orders, brings, keeps, or has under his authority or control any troops or armed men at any place where a general or special election is held, unless suchforce be necessary to repel armed enemies of the United States, shall be fined under this title or imprisoned not more than five years, or both; and be disqualified from holding any office of honor, profit, or trust under the United States.
+Whoever, being an officer of the Army or Navy, or other person in the civil, military, or naval service of the United States, orders, brings, keeps, or has under his authority or control any troops or armed men at any place where a general or special election is held, unless such force be necessary to repel armed enemies of the United States, shall be fined under this title or imprisoned not more than five years, or both; and be disqualified from holding any office of honor, profit, or trust under the United States.
 
 This section shall not prevent any officer or member of the armed forces of the United States from exercising the right of suffrage in any election district to which he may belong, if otherwise qualified according to the laws of the State in which he offers to vote.
 
@@ -14,11 +14,11 @@ This section consolidates sections 55 and 59 of title 18, U.S.C., 1940 ed.
 
 Mandatory punishment provision was rephrased in the alternative.
 
-In second paragraph, words “or member of the Armed Forces of the United States” were substituted for “soldier, sailor, or marine” so as to cover those auxiliaries which are now component parts of the Army and Navy.
+In second paragraph, words "or member of the Armed Forces of the United States" were substituted for "soldier, sailor, or marine" so as to cover those auxiliaries which are now component parts of the Army and Navy.
 
 Changes in phraseology were also made.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 

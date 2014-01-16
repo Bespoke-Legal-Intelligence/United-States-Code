@@ -13,7 +13,7 @@
 
 <b>2004</b>—Pub. L. 108–311, title IV, §408(a)(21), Oct. 4, 2004, 118 Stat. 1192, added item 2604.
 
-<b>2001</b>—Pub. L. 107–16, title V, §532(c)(15), June 7, 2001, 115 Stat. 75, struck out item 2604 “Credit for certain State taxes”.
+<b>2001</b>—Pub. L. 107–16, title V, §532(c)(15), June 7, 2001, 115 Stat. 75, struck out item 2604 "Credit for certain State taxes".
 
 <b>1986</b>—Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2717, in amending analysis of subchapter A generally, added item 2604.
 

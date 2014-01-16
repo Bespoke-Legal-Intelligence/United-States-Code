@@ -68,7 +68,7 @@ Qualifications.—Within 30 days after the date of enactment of the Aviation and
 
 &emsp;&emsp;(B)
 
-Background checks.—The Under Secretary shall require that an individual to behired as a security screener undergo an employment investigation (including a criminal history record check) under section 44936(a)(1).
+Background checks.—The Under Secretary shall require that an individual to be hired as a security screener undergo an employment investigation (including a criminal history record check) under section 44936(a)(1).
 
 &emsp;&emsp;(C)
 
@@ -76,7 +76,7 @@ Disqualification of individuals who present national security risks.—The Under
 
 &emsp;(3)
 
-Examination; review of existing rules.—The Under Secretary shall develop a security screening personnel examination for use in determining the qualification of individuals seeking employment as security screening personnel. The Under Secretary shall also review, and revise as necessary, any standard, rule, or regulation governing the employment of individuals as security screening personnel.
+Examination; review of existing rules.—The Under Secretary shall develop a security screening personnel examination foruse in determining the qualification of individuals seeking employment as security screening personnel. The Under Secretary shall also review, and revise as necessary, any standard, rule, or regulation governing the employment of individuals as security screening personnel.
 
 (f)
 
@@ -182,7 +182,7 @@ Current lists of dual use items.—Current lists of dual use items shall be part
 
 &emsp;(4)
 
-Dual use defined.—For purposes of this subsection, the term “dual use” item means an item that may seem harmless but that may be used as a weapon.
+Dual use defined.—For purposes of this subsection, the term "dual use" item means an item that may seem harmless but that may be used as a weapon.
 
 (i) <sup>2</sup>
 
@@ -228,15 +228,15 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(c); added Aug. 5, 1974, Pub
 
 49 App.:1357(j).
 
-In subsection (a), before clause (1), the words “Not later than 270 days after November 16, 1990” are omitted as obsolete. The words “contracting for” are substituted for “contracting of” for clarity and consistency in the revised title.
+In subsection (a), before clause (1), the words "Not later than 270 days after November 16, 1990" are omitted as obsolete. The words "contracting for" are substituted for "contracting of" for clarity and consistency in the revised title.
 
-In subsection (c)(1)(A), the words “individuals employed” are substituted for “personnel employed by him . . . and for other personnel, including State, local, and private law enforcement personnel, whose services may be utilized” for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (c)(1)(A), the words "individuals employed" are substituted for "personnel employed by him . . . and for other personnel, including State, local, and private law enforcement personnel, whose services may be utilized" for clarity and consistency in the revised title and with other titles of the United States Code.
 
-In subsection (c)(1)(B), the words “individuals eligible” are substituted for “personnel whose services are utilized to enforce any such transportation security program, including State, local, and private law enforcement personnel . . . for personnel eligible” for clarity and consistency in the revised title and with other titles of the Code.
+In subsection (c)(1)(B), the words "individuals eligible" are substituted for "personnel whose services are utilized to enforce any such transportation security program, including State, local, and private law enforcement personnel . . . for personnel eligible" for clarity and consistency in the revised title and with other titles of the Code.
 
-In subsection (c)(2), the words “under this section” are omitted as unnecessary. The words “United States” before “air carriers” are omitted because of the definition of “air carrier” in section 40102(a) of the revised title.
+In subsection (c)(2), the words "under this section" are omitted as unnecessary. The words "United States" before "air carriers" are omitted because of the definition of "air carrier" in section 40102(a) of the revised title.
 
-In subsection (d)(1), before clause (A), the words “Not later than 180 days after November 16, 1990” are omitted as obsolete.
+In subsection (d)(1), before clause (A), the words "Not later than 180 days after November 16, 1990" are omitted as obsolete.
 
 #### References in Text
 
@@ -244,21 +244,21 @@ The date of enactment of the Aviation and Transportation Security Act, referred 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (e)(2)(A)(ii). Pub. L. 107–296 substituted “citizen of the United States or a national of the United States, as defined in section 1101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))” for “citizen of the United States”.
+<b>2002</b>—Subsec. (e)(2)(A)(ii). Pub. L. 107–296 substituted "citizen of the United States or a national of the United States, as defined in section 1101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))" for "citizen of the United States".
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), substituted "Under Secretary of Transportation for Security" for "Administrator of the Federal Aviation Administration" in introductory provisions.
 
-Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
+Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted "Under Secretary" for "Administrator" in two places.
 
-Subsec. (c). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions of par. (1) and in par. (2).
+Subsec. (c). Pub. L. 107–71, §101(f)(7), substituted "Under Secretary" for "Administrator" in introductory provisions of par. (1) and in par. (2).
 
-Subsec. (d)(1). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions.
+Subsec. (d)(1). Pub. L. 107–71, §101(f)(7), substituted "Under Secretary" for "Administrator" in introductory provisions.
 
 Subsec. (e). Pub. L. 107–71, §111(a)(2), added subsec. (e) and struck out former subsec. (e) which established training standards for screeners.
 
 Subsec. (f). Pub. L. 107–71, §111(a)(2), added subsec. (f). Former subsec. (f) redesignated (i).
 
-Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator”.
+Pub. L. 107–71, §101(f)(7), substituted "Under Secretary" for "Administrator".
 
 Subsecs. (g), (h). Pub. L. 107–71, §111(a)(2), added subsecs. (g) and (h).
 
@@ -284,73 +284,73 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 #### Transition
 
-Pub. L. 107–71, title I, §111(c), Nov. 19, 2001, 115 Stat. 620, provided that: “The Under Secretary of Transportation for Security shall complete the full implementation of section 44935 (e), (f), (g), and (h) of title 49, United States Code, as amended by subsection (a), as soon as is practicable. The Under Secretary may make or continue such arrangements for the training of security screeners under that section as the Under Secretary determines necessary pending full implementation of that section as so amended.”
+Pub. L. 107–71, title I, §111(c), Nov. 19, 2001, 115 Stat. 620, provided that: "The Under Secretary of Transportation for Security shall complete the full implementation of section 44935 (e), (f), (g), and (h) of title 49, United States Code, as amended by subsection (a), as soon as is practicable. The Under Secretary may make or continue such arrangements for the training of security screeners under that section as the Under Secretary determines necessary pending full implementation of that section as so amended."
 
 #### Improvement of Screener Job Performance
 
 Pub. L. 108–458, title IV, §4015, Dec. 17, 2004, 118 Stat. 3720, provided that:
 
-“(a)
+"(a)
 
 Required Action.—The Assistant Secretary of Homeland Security (Transportation Security Administration) shall take such action as may be necessary to improve the job performance of airport screening personnel.
 
-“(b)
+"(b)
 
-Human Factors Study.—In carrying out this section, the Assistant Secretary shall provide, not later than 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], to the appropriate congressional committees a report on the results of any human factors study conducted by the Department of Homeland Security to better understand problems in screener performance and to improve screener performance.”
+Human Factors Study.—In carrying out this section, the Assistant Secretary shall provide, not later than 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], to the appropriate congressional committees a report on the results of any human factors study conducted by the Department of Homeland Security to better understand problems in screener performance and to improve screener performance."
 
-\[For definitions of “airport” and “appropriate congressional committees” used in section 4015 of Pub. L. 108–458, set out above, see section 4081 of Pub. L. 108–458, set out as a note under section 44901 of this title.\]
+\[For definitions of "airport" and "appropriate congressional committees" used in section 4015 of Pub. L. 108–458, set out above, see section 4081 of Pub. L. 108–458, set out as a note under section 44901 of this title.\]
 
 #### Screener Personnel
 
 Pub. L. 107–71, title I, §111(d), Nov. 19, 2001, 115 Stat. 620, as amended by Pub. L. 112–171, §1(a), Aug. 16, 2012, 126 Stat. 1306, provided that:
 
-“(1)
+"(1)
 
 General authority.—Except as provided in paragraph (2), and notwithstanding any other provision of law, the Under Secretary of Transportation for Security may employ, appoint, discipline, terminate, and fix the compensation, terms, and conditions of employment of Federal service for such a number of individuals as the Under Secretary determines to be necessary to carry out the screening functions of the Under Secretary under section 44901 of title 49, United States Code. The Under Secretary shall establish levels of compensation and other benefits for individuals so employed.
 
-“(2)
+"(2)
 
-Uniformed services employment and reemployment rights act.—In carrying out the functions authorized under paragraph (1), the Under Secretary shall be subject to the provisions set forth in chapter 43 of title 38, United States Code.”
+Uniformed services employment and reemployment rights act.—In carrying out the functions authorized under paragraph (1), the Under Secretary shall be subject to the provisions set forth in chapter 43 of title 38, United States Code."
 
-\[Pub. L. 112–171, §1(b), Aug. 16, 2012, 126 Stat. 1306, provided that: “The amendments made by subsection (a) \[amending section 111(d) of Pub. L. 107–71, set out above\] shall take effect on the date that is 270 days after the date of the enactment of this Act \[Aug. 16, 2012\].”\]
+\[Pub. L. 112–171, §1(b), Aug. 16, 2012, 126 Stat. 1306, provided that: "The amendments made by subsection (a) \[amending section 111(d) of Pub. L. 107–71, set out above\] shall take effect on the date that is 270 days after the date of the enactment of this Act \[Aug. 16, 2012\]."\]
 
 #### Certification of Screening Companies
 
-Pub. L. 104–264, title III, §302, Oct. 9, 1996, 110 Stat. 3250, provided that: “The Administrator of the Federal Aviation Administration is directed to certify companies providing security screening and to improve the training and testing of security screeners through development of uniform performance standards for providing security screening services.”
+Pub. L. 104–264, title III, §302, Oct. 9, 1996, 110 Stat. 3250, provided that: "The Administrator of the Federal Aviation Administration is directed to certify companies providing security screening and to improve the training and testing of security screeners through development of uniform performance standards for providing security screening services."
 
 #### Studies of Minimum Standards for Pilot Qualifications and of Pay for Training
 
 Pub. L. 104–264, title V, §503, Oct. 9, 1996, 110 Stat. 3263, provided that:
 
-“(a)
+"(a)
 
 Study.—The Administrator of the Federal Aviation Administration shall appoint a task force consisting of appropriate representatives of the aviation industry to conduct—
 
-&emsp;“(1) a study directed toward the development of—
+&emsp;"(1) a study directed toward the development of—
 
-&emsp;&emsp;“(A) standards and criteria for preemployment screening tests measuring the psychomotor coordination, general intellectual capacity, instrument and mechanical comprehension, and physical and mental fitness of an applicant for employment as a pilot by an air carrier; and
+&emsp;&emsp;"(A) standards and criteria for preemployment screening tests measuring the psychomotor coordination, general intellectual capacity, instrument and mechanical comprehension, and physical and mental fitness of an applicant for employment as a pilot by an air carrier; and
 
-&emsp;&emsp;“(B) standards and criteria for pilot training facilities to be licensed by the Administrator and which will assure that pilots trained at such facilities meet the preemployment screening standards and criteria described in subparagraph (A); and
+&emsp;&emsp;"(B) standards and criteria for pilot training facilities to be licensed by the Administrator and which will assure that pilots trained at such facilities meet the preemployment screening standards and criteria described in subparagraph (A); and
 
-&emsp;“(2) a study to determine if the practice of some air carriers to require employees or prospective employees to pay for the training or experience that is needed to perform flight check duties for an air carrier is in the public interest.
+&emsp;"(2) a study to determine if the practice of some air carriers to require employees or prospective employees to pay for the training or experience that is needed to perform flight check duties for an air carrier is in the public interest.
 
-“(b)
+"(b)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the Administrator shall transmit to Congress a report on the results of the study conducted under subsection (a)(2).”
+Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the Administrator shall transmit to Congress a report on the results of the study conducted under subsection (a)(2)."
 
 #### Study of Minimum Flight Time
 
 Pub. L. 104–264, title V, §504, Oct. 9, 1996, 110 Stat. 3263, provided that:
 
-“(a)
+"(a)
 
 Study.—The Administrator of the Federal Aviation Administration shall conduct a study to determine whether current minimum flight time requirements applicable to individuals seeking employment as a pilot with an air carrier are sufficient to ensure public safety.
 
-“(b)
+"(b)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the Administrator shall transmit to Congress a report on the results of the study.”
+Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the Administrator shall transmit to Congress a report on the results of the study."
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “101(a)(22)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "101(a)(22)".</i>
 
 <i><sup>2</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
 

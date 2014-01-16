@@ -28,7 +28,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(D) the purchaser or lessee of such real estate affirms in writing to the seller or lessor that it either (i) is purchasing or leasing such real estate substantially for its own use, or (ii) has a binding commitment to sell, lease, or sublease such real estate to an entity which meets the requirements of subparagraph (B), is engaged in commercial or industrial business, and is not affiliated with the seller, lessor, or agent thereof; and
 
-&emsp;&emsp;(E) a policy of title insurance or a title opinion is issued in connection with the transaction showing that title to the real estate purchased or leased is vested in the seller or lessor, subject only to such exceptions as may be approved in writing by such purchaser or the lessee prior to recordation of the instrument of conveyance or execution of the lease, but (i) nothing herein shall be construed as requiring the recordation of a lease, and (ii) any purchaser or lessee may waive, in writing in a separate document,the requirement of this subparagraph that a policy of title insurance or title opinion be issued in connection with the transaction.
+&emsp;&emsp;(E) a policy of title insurance or a title opinion is issued in connection with the transaction showing that title to the real estate purchased or leased is vested in the seller or lessor, subject only to such exceptions as may be approved in writing by such purchaser or the lessee prior to recordation of the instrument of conveyance or execution of the lease, but (i) nothing herein shall be construed as requiring the recordation of a lease, and (ii) any purchaser or lessee may waive, in writing in a separate document, the requirement of this subparagraph that a policy of title insurance or title opinion be issued in connection with the transaction.
 
 #### (b) Sale or lease of lots subject to other statutory registration and disclosure requirements
 
@@ -60,7 +60,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;(6) the sale or lease of a lot, if a mobile home is to be erected or placed thereon as a residence, where the lot is sold as a homesite by one party and the home by another, under contracts that obligate such sellers to perform, contingent upon the other seller carrying out its obligations so that a completed mobile home will be erected or placed on the completed homesite within a period of two years, and provide for all funds received by the sellers to be deposited in escrow accounts (controlled by parties independent of the sellers) until the transactions are completed, and further provide that such funds shall be released to the buyer on demand without prejudice if the land with the mobile home erected or placed thereon is not conveyed within such two-year period. Such homesite must conform to all local codes and standards for mobile home subdivisions, if any, must provide potable water, sanitary sewage disposal, electricity, access by roads, the purchaser must receive marketable title to the lot, and where common facilities are to be provided, they must be completed or fully funded;
 
-&emsp;(7)(A) the sale or lease of real estate by a developer who is engaged in a sales operationwhich is intrastate in nature. For purposes of this exemption, a lot may be sold only if—
+&emsp;(7)(A) the sale or lease of real estate by a developer who is engaged in a sales operation which is intrastate in nature. For purposes of this exemption, a lot may be sold only if—
 
 &emsp;&emsp;(i) the lot is free and clear of all liens, encumbrances, and adverse claims;
 
@@ -68,25 +68,25 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(iii) each purchase or lease agreement contains—
 
-&emsp;&emsp;&emsp;(I) a clear and specific statement describing a good faith estimate of the year of completion of, and the party responsible for, providing and maintaining the roads, water facilities, sewer facilities and any existing or promised amenities; and
+&emsp;&emsp;&emsp;(I) a clear and specific statement describing a good faith estimate of the yearof completion of, and the party responsible for, providing and maintaining the roads, water facilities, sewer facilities and any existing or promised amenities; and
 
 &emsp;&emsp;&emsp;(II) a nonwaivable provision specifying that the contract or agreement may be revoked at the option of the purchaser or lessee until midnight of the seventh day following the signing of such contract or agreement or until such later time as may be required pursuant to applicable State laws; and
 
 &emsp;&emsp;(iv) the purchaser or lessee has, prior to the time the contract or lease is entered into, acknowledged in writing the receipt of a written statement by the developer containing good faith estimates of the cost of providing electric, water, sewer, gas, and telephone service to such lot.
 
-&emsp;(B) As used in subparagraph (A)(i) of this paragraph, the terms “liens”, “encumbrances”, and “adverse claims” do not include United States land patents and similar Federal grants or reservations, property reservations which land developers commonly convey or dedicate to local bodies or public utilities for the purpose of bringing public services to the land being developed, taxes and assessments imposed by a State, by any other public body having authority to assess and tax property, or by a property owners’ association, which, under applicable State or local law, constitute liens on the property before they are due and payable or beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, if—
+&emsp;(B) As used in subparagraph (A)(i) of this paragraph, the terms "liens", "encumbrances", and "adverse claims" do not include United States land patents and similar Federal grants or reservations, property reservations which land developers commonly convey or dedicate to local bodies or public utilities for the purpose of bringing public services to the land being developed, taxes and assessments imposed by a State, by any other public body having authority to assess and tax property, or by a property owners' association, which, under applicable State or local law, constitute liens on the property before they are due and payable or beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, if—
 
 &emsp;&emsp;(i) the developer, prior to the time the contract of sale or lease is entered into, has furnished each purchaser or lessee with a statement setting forth in descriptive and concise terms all such liens, reservations, taxes, assessments and restrictions which are applicable to the lot to be purchased or leased; and
 
 &emsp;&emsp;(ii) receipt of such statement has been acknowledged in writing by the purchaser or lessee.
 
-&emsp;(C) For the purpose of this paragraph, a sales operation is “intrastate in nature” if the developer is subject to the laws of the State in which the land is located, and each lot in the subdivision, other than those which are exempt under subsection (a), (b)(6), or (b)(8) of this section, is sold or leased to residents of the State in which the land is located; or
+&emsp;(C) For the purpose of this paragraph, a sales operation is "intrastate in nature" if the developer is subject to the laws of the State in which the land is located, and each lot in the subdivision, other than those which are exempt under subsection (a), (b)(6), or (b)(8) of this section, is sold or leased to residents of the State in which the land is located; or
 
 &emsp;(8) the sale or lease of a lot in a subdivision containing fewer than three hundred lots if—
 
 &emsp;&emsp;(A) the principal residence of the purchaser or lessee is within the same standard metropolitan statistical area, as defined by the Office of Management and Budget, as the lot purchased or leased;
 
-&emsp;&emsp;(B) the lot is free and clear of liens (such as mortgages, deeds of trust, tax liens, mechanics liens, or judgments) at the time of the signing of the contract or agreement and until a deed is delivered to the purchaser or the lease expires. As used in this subparagraph, the term “liens” does not include (i) United States land patents and similar Federal grants or reservations, (ii) property reservations which land developers commonly convey or dedicate to local bodies or public utilities for the purpose of bringing public services to the land being developed, (iii) taxes and assessments imposed by a State, by any other public body having authority to assess and tax property, or by a property owners’ association, which, under applicable State or local law, constitute liens on the property before they are due and payable or beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, or (iv) other interests described in regulations prescribed by the Director;
+&emsp;&emsp;(B) the lot is free and clear of liens (such as mortgages, deeds of trust, tax liens, mechanics liens, or judgments) at the time of the signing of the contract or agreement and until a deed is delivered to the purchaser or the lease expires. As used in this subparagraph, the term "liens" does not include (i) United States land patents and similar Federal grants or reservations, (ii) property reservations which land developers commonly convey or dedicate to local bodies or public utilities for the purpose of bringing public services to the land being developed, (iii) taxes and assessments imposed by a State, by any other public body having authority to assess and tax property, or by a property owners' association, which, under applicable State or local law, constitute liens on the property before they are due and payable or beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, or (iv) other interests described in regulations prescribed by the Director;
 
 &emsp;&emsp;(C) the purchaser or lessee (or spouse thereof) has made a personal on-the-lot inspection of the lot to be purchased or leased;
 
@@ -100,7 +100,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 #### (c) Rules and regulations
 
-The Director may from time to time, pursuant to rules and regulations issued by him, exempt from any of the provisions of this chapter any subdivision or any lots in a subdivision, if he finds that the enforcement of this chapter with respect to such subdivision or lots is not necessary in the public interest and for the protection of purchasers by reason or the small amount involved or the limited character of the public offering.
+The Director may from time to time, pursuant to rules and regulations issued by him, exemptfrom any of the provisions of this chapter any subdivision or any lots in a subdivision, if he finds that the enforcement of this chapter with respect to such subdivision or lots is not necessary in the public interest and for the protection of purchasers by reason or the small amount involved or the limited character of the public offering.
 
 (Pub. L. 90–448, title XIV, §1403, Aug. 1, 1968, 82 Stat. 590; Pub. L. 91–152, title IV, §411, Dec. 24, 1969, 83 Stat. 398; Pub. L. 93–383, title VIII, §812(b), Aug. 22, 1974, 88 Stat. 736; Pub. L. 95–557, title IX, §907, Oct. 31, 1978, 92 Stat. 2127; Pub. L. 96–153, title IV, §402, Dec. 21, 1979, 93 Stat. 1123; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
 
@@ -110,23 +110,23 @@ The effective date of this subsection, referred to in subsec. (b)(2), probably m
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (b)(2), (8)(B), (G), (c). Pub. L. 111–203 substituted “Director” for “Secretary”.
+<b>2010</b>—Subsecs. (b)(2), (8)(B), (G), (c). Pub. L. 111–203 substituted "Director" for "Secretary".
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–153 revised existing provisions formerly set out as pars. (1) to (11) into pars. (1) to (8) and, as so revised, substituted provisions relating to sale or lease of lots in a subdivision containing less than twenty-five lots, etc., for provisions relating to sale or lease of real estate not pursuant to a common promotional plan to offer or sell fifty or more lots in a subdivision, etc.
 
 Subsec. (b). Pub. L. 96–153 revised existing provisions formerly set out as pars. (1) to (7) into pars. (1) to (8) and, as so revised, substituted provisions setting forth criteria respecting sale or lease of lots subject to other statutory registration and disclosure requirements, for provisions setting forth criteria respecting sale or lease of lots in municipality or county with minimum standards.
 
-<b>1978</b>—Subsec. (a)(3). Pub. L. 95–557, §907(a)(1), inserted “condominium” after “commercial”.
+<b>1978</b>—Subsec. (a)(3). Pub. L. 95–557, §907(a)(1), inserted "condominium" after "commercial".
 
-Subsec. (a)(10). Pub. L. 95–557, §907(a)(2), inserted “United States land patents or Federal grants and reservations similar to United States land patents, nor to” after “do not refer to”.
+Subsec. (a)(10). Pub. L. 95–557, §907(a)(2), inserted "United States land patents or Federal grants and reservations similar to United States land patents, nor to" after "do not refer to".
 
-Subsec. (a)(11). Pub. L. 95–557, §907(a)(3), inserted “or which is restricted to such use by a declaration of covenants, conditions, and restrictions which has been recorded in the official records of the city or county in which such real estate is located” before “when”.
+Subsec. (a)(11). Pub. L. 95–557, §907(a)(3), inserted "or which is restricted to such use by a declaration of covenants, conditions, and restrictions which has been recorded in the official records of the city or county in which such real estate is located" before "when".
 
 Subsecs. (b), (c). Pub. L. 95–557, §907(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 <b>1974</b>—Subsec. (a)(11). Pub. L. 93–383 added par. (11).
 
-<b>1969</b>—Subsec. (a)(10). Pub. L. 91–152 substituted provisions requiring a personal on-the-lot inspection of the real estate for provisions requiring a personal inspection of the lot and restricted definition of terms “liens”, “encumbrances”, and “adverse claims” so as not to include taxes and assessments imposed by a State, a public body having authority to assess and tax property, or a property owners’ association, which, under the applicable law, constitute liens before they are due and payable, and so as not to include beneficial property restrictions enforceable by other lot owners or lessees in the subdivision under the specified conditions.
+<b>1969</b>—Subsec. (a)(10). Pub. L. 91–152 substituted provisions requiring a personal on-the-lot inspection of the real estate for provisions requiring a personal inspection of the lot and restricted definition of terms "liens", "encumbrances", and "adverse claims" so as not to include taxes and assessments imposed by a State, a public body having authority to assess and tax property, or a property owners' association, which, under the applicable law, constitute liens before they are due and payable, and so as not to include beneficial property restrictions enforceable by other lot owners or lessees in the subdivision under the specified conditions.
 
 #### Effective Date of 2010 Amendment
 

@@ -26,7 +26,7 @@
 
 #### (4) Temporary treatment for eligible aliens
 
-&emsp;(A) In the case of an alien who can establish a prima facie case of eligibility for benefits under paragraph (1), but for the fact that theperiod of registration under subsection (c)(1)(A)(iv) of this section has not begun, until the alien has had a reasonable opportunity to register during the first 30 days of such period, the Attorney General shall provide for the benefits of paragraph (1).
+&emsp;(A) In the case of an alien who can establish a prima facie case of eligibility for benefits under paragraph (1), but for the fact that the period of registration under subsection (c)(1)(A)(iv) of this section has not begun, until the alien has had a reasonable opportunity to register during the first 30 days of such period, the Attorney General shall provide for the benefits of paragraph (1).
 
 &emsp;(B) In the case of an alien who establishes a prima facie case of eligibility for benefits under paragraph (1), until a final determination with respect to the alien's eligibility for such benefits under paragraph (1) has been made, the alien shall be provided such benefits.
 
@@ -150,7 +150,7 @@
 
 #### (4) Treatment of brief, casual, and innocent departures and certain other absences
 
-&emsp;(A) For purposes of paragraphs (1)(A)(i) and (3)(B), an alien shall not be considered to havefailed to maintain continuous physical presence in the United States by virtue of brief, casual, and innocent absences from the United States, without regard to whether such absences were authorized by the Attorney General.
+&emsp;(A) For purposes of paragraphs (1)(A)(i) and (3)(B), an alien shall not be considered to have failed to maintain continuous physical presence in the United States by virtue of brief, casual, and innocent absences from the United States, without regard to whether such absences were authorized by the Attorney General.
 
 &emsp;(B) For purposes of paragraph (1)(A)(ii), an alien shall not be considered to have failed to maintain continuous residence in the United States by reason of a brief, casual, and innocent absence described in subparagraph (A) or due merely to a brief temporary trip abroad required by emergency or extenuating circumstances outside the control of the alien.
 
@@ -238,7 +238,7 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 &emsp;No later than 180 days after the date of receipt of such a report, the Committee on the Judiciary of each House of Congress shall report to its respective House such oversight findings and legislation as it deems appropriate.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(l)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244 and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
+(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(l)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
 
 #### References in Text
 
@@ -300,7 +300,7 @@ Pub. L. 102–232, title III, §307(l), Dec. 12, 1991, 105 Stat. 1756, provided 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 603(a)(24) of Pub. L. 101–649 applicable to individuals entering United States on orafter June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by section 603(a)(24) of Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

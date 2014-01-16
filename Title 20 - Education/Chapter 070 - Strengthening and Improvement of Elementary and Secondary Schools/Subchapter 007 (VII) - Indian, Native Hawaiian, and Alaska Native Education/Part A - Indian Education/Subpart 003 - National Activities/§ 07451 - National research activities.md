@@ -32,7 +32,7 @@ A prior section 7451, Pub. L. 89–10, title VII, §7131, as added Pub. L. 103�
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c)(1). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement” and “by the Institute” for “by the Office”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–279 substituted "Institute of Education Sciences" for "Office of Educational Research and Improvement" and "by the Institute" for "by the Office".
 
-Subsec. (c)(2). Pub. L. 107–279, §404(d)(5)(E), substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement”.
+Subsec. (c)(2). Pub. L. 107–279, §404(d)(5)(E), substituted "Institute of Education Sciences" for "Office of Educational Research and Improvement".
 

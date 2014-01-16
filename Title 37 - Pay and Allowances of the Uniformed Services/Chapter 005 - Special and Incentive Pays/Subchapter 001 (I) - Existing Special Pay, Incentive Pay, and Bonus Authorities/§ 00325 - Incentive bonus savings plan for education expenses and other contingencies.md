@@ -66,7 +66,7 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 <b>2006</b>—Subsec. (g). Pub. L. 109–163, amended heading and text of subsec. (g) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when person fails to complete qualifying service for which person is obligated under commitment for which benefit was paid.
 
-<b>2002</b>—Subsec. (i). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (i). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 #### Effective Date of 2002 Amendment
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Pub. L. 107–107, div. A, title VI, §622(b), Dec. 28, 2001, 115 Stat. 1142, provided that: “Section 325 of title 37, United States Code, as added by subsection (a), shall apply with respect to reenlistments and other agreements for qualifying service, as described in that section, that are entered into on or after October 1, 2001.”
+Pub. L. 107–107, div. A, title VI, §622(b), Dec. 28, 2001, 115 Stat. 1142, provided that: "Section 325 of title 37, United States Code, as added by subsection (a), shall apply with respect to reenlistments and other agreements for qualifying service, as described in that section, that are entered into on or after October 1, 2001."
 
 #### Savings Provision
 

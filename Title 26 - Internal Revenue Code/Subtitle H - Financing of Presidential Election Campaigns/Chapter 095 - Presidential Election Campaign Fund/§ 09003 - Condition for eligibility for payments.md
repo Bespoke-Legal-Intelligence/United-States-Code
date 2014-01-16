@@ -28,7 +28,7 @@ In order to be eligible to receive any payments under section 9006, the candidat
 
 &emsp;(2) such candidates and their authorized committees will accept and expend or retain contributions to defray qualified campaign expenses only to the extent that the qualified campaign expenses incurred by such candidates and their authorized committees certified to under paragraph (1) exceed the aggregate payments received by such candidates out of the fund pursuant to section 9006.
 
-> Such certification shall be made within such time prior to the day of the presidential election as the Commission shall prescribe by rules or regulations.
+> Such certification shall be made within such time prior to the day of the presidential electionas the Commission shall prescribe by rules or regulations.
 
 #### (d) Withdrawal by candidate
 
@@ -48,19 +48,19 @@ No candidate for the office of President or Vice President may receive amounts f
 
 <b>1992</b>—Subsec. (e). Pub. L. 102–393 added subsec. (e).
 
-<b>1976</b>—Subsec. (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (d). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 Pub. L. 94–283 added subsec. (d).
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–443, §§404(c)(4), 405(b), substituted “Commission” and “it” for “Comptroller General” and “he”, respectively, wherever appearing, struck out in par. (1) “with respect to which payment is sought” after “campaign expenses” and struck out par. (4) requirement for an agreement to furnish statements of qualified campaign expenses and proposed qualified campaign expenses required under section 9008 of this title.
+<b>1974</b>—Subsec. (a). Pub. L. 93–443, §§404(c)(4), 405(b), substituted "Commission" and "it" for "Comptroller General" and "he", respectively, wherever appearing, struck out in par. (1) "with respect to which payment is sought" after "campaign expenses" and struck out par. (4) requirement for an agreement to furnish statements of qualified campaign expenses and proposed qualified campaign expenses required under section 9008 of this title.
 
-Subsecs. (b), (c). Pub. L. 93–443, §404(c)(5), substituted “Commission” for “Comptroller General” wherever appearing.
+Subsecs. (b), (c). Pub. L. 93–443, §404(c)(5), substituted "Commission" for "Comptroller General" wherever appearing.
 
-<b>1973</b>—Subsec. (b)(2). Pub. L. 93–53 substituted section “9006(d)” for “9006(c)”.
+<b>1973</b>—Subsec. (b)(2). Pub. L. 93–53 substituted section "9006(d)" for "9006(c)".
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–393, title V, §534(b), Oct. 6, 1992, 106 Stat. 1764, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts made available under chapter 95 or 96 of the Internal Revenue Code of 1986 more than thirty days after the date of the enactment of this Act \[Oct. 6, 1992\].”
+Pub. L. 102–393, title V, §534(b), Oct. 6, 1992, 106 Stat. 1764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to amounts made available under chapter 95 or 96 of the Internal Revenue Code of 1986 more than thirty days after the date of the enactment of this Act \[Oct. 6, 1992\]."
 
 #### Effective Date of 1976 Amendment
 

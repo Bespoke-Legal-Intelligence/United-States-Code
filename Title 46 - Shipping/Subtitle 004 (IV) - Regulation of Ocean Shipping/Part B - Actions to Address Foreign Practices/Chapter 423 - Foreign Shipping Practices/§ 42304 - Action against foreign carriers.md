@@ -38,5 +38,5 @@ Pub. L. 100–418, title X, §10002(e)(1), (2), Aug. 23, 1988, 102 Stat. 1571; P
 
 46 App.:1710a(e)(2).
 
-In subsection (a), the words “Subject to section 42306 of this title” are added to alert the reader to the application of that section.
+In subsection (a), the words "Subject to section 42306 of this title" are added to alert the reader to the application of that section.
 

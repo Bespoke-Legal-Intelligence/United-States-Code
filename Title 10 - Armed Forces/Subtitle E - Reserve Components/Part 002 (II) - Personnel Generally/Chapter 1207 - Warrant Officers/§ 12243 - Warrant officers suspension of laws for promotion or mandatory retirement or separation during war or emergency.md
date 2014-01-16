@@ -24,7 +24,7 @@ May 29, 1954, ch. 249, §18 (as applicable to reserve warrant officers), 68 Stat
 
 34:430d (as applicable to reserve warrant officers).
 
-The word “may” is substituted for the words “is authorized, in his discretion”. The words “any provision of law” are substituted for the words “all or any part or parts of the several provisions of law”.
+The word "may" is substituted for the words "is authorized, in his discretion". The words "any provision of law" are substituted for the words "all or any part or parts of the several provisions of law".
 
 #### Amendments
 

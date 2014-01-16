@@ -20,15 +20,15 @@ It shall be the policy of the United States to apply economic and other financia
 
 #### References in Text
 
-Executive Order No. 12978, referred to in subsec. (a)(2), is Ex. Ord. No. 12978, Oct. 21, 1995, 60 F.R. 54579, which is listed in a table under section 1701 of Title 50, War and National Defense.
+Executive Order No. 12978, referred to in subsec. (a)(2), is Ex. Ord. No. 12978, Oct. 21, 1995, 60 F.R. 54579,which is listed in a table under section 1701 of Title 50, War and National Defense.
 
 The International Emergency Economic Powers Act, referred to in subsec. (a)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Effective Date
 
-Pub. L. 106–120, title VIII, §811, Dec. 3, 1999, 113 Stat. 1636, provided that: “This title \[see Short Title note set out below\] shall take effect on the date of the enactment of this Act \[Dec. 3, 1999\].”
+Pub. L. 106–120, title VIII, §811, Dec. 3, 1999, 113 Stat. 1636, provided that: "This title \[see Short Title note set out below\] shall take effect on the date of the enactment of this Act \[Dec. 3, 1999\]."
 
 #### Short Title
 
-Pub. L. 106–120, title VIII, §801, Dec. 3, 1999, 113 Stat. 1626, provided that: “This title \[enacting this chapter and amending section 1182 of Title 8, Aliens and Nationality\] may be cited as the ‘Foreign Narcotics Kingpin Designation Act’.”
+Pub. L. 106–120, title VIII, §801, Dec. 3, 1999, 113 Stat. 1626, provided that: "This title \[enacting this chapter and amending section 1182 of Title 8, Aliens and Nationality\] may be cited as the 'Foreign Narcotics Kingpin Designation Act'."
 

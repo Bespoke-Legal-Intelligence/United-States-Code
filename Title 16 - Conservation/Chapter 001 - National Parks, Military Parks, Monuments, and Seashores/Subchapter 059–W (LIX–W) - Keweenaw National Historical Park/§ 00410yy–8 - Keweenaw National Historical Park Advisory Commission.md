@@ -28,7 +28,7 @@ There is established the Keweenaw National Historical Park Advisory Commission. 
 
 (3) Any real property or interest in real property acquired by the Commission shall be conveyed by the Commission to the National Park Service or the appropriate public agency as soon as possible after such acquisition, without consideration, and on the condition that the real property or interest in real property so conveyed is used for public purposes.
 
-(4) The value of funds or property, or interests in property, conveyed to the National Park Service by the Commission may be considered as non-Federal, at the Commission's discretion.
+(4) The value of funds or property, or interests in property, conveyed to the National ParkService by the Commission may be considered as non-Federal, at the Commission's discretion.
 
 #### (c) Membership
 
@@ -106,7 +106,7 @@ The Commission may, for the purpose of carrying out this subchapter, hold such h
 
 #### Amendments
 
-<b>1999</b>—Subsec. (c)(1)(A) to (D). Pub. L. 106–134 substituted “after consideration of nominees” for “from nominees”.
+<b>1999</b>—Subsec. (c)(1)(A) to (D). Pub. L. 106–134 substituted "after consideration of nominees" for "from nominees".
 
 #### Termination of Advisory Commissions
 
@@ -114,5 +114,5 @@ Advisory commissions established after Jan. 5, 1973, to terminate not later than
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (1),”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraph (1),".</i>
 

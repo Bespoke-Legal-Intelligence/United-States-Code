@@ -24,9 +24,9 @@ Prior section 5555(b), relating to authority to waive records, statements, and r
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369 struck out “or for the affixing of any stamp required to be affixed by this chapter,” after “the collection thereof,”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 struck out "or for the affixing of any stamp required to be affixed by this chapter," after "the collection thereof,".
 
-<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 1984 Amendment
 

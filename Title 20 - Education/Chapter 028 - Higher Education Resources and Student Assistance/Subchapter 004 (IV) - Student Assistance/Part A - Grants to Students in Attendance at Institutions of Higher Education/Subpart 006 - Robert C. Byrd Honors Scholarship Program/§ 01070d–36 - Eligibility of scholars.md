@@ -16,5 +16,5 @@ A prior section 1070d–36, Pub. L. 89–329, title IV, §419F, as added Pub. L.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315 inserted “(or a home school, whether treated as a home school or a private school under State law)” after “public or private secondary school”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315 inserted "(or a home school, whether treated as a home school or a private school under State law)" after "public or private secondary school".
 

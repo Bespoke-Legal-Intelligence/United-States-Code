@@ -46,15 +46,15 @@
 
 #### References in Text
 
-Section 4311(b) of this title, referred to in subsec. (a)(4), was in the original “section 12(b)”, probably meaning section 12(b) of Pub. L. 102–242, and was translated as meaning section 272(b) of Pub. L. 102–242, to reflect the probable intent of Congress.
+Section 4311(b) of this title, referred to in subsec. (a)(4), was in the original "section 12(b)", probably meaning section 12(b) of Pub. L. 102–242, and was translated as meaning section 272(b) of Pub. L. 102–242, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
-<b>1992</b>—Pub. L. 102–550, §1604(e)(2)(D)–(H), made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
+<b>1992</b>—Pub. L. 102–550, §1604(e)(2)(D)–(H), made technical amendment to references to "this chapter" wherever appearing to reflect correction of corresponding provision of original act.
 
-Subsec. (a)(2). Pub. L. 102–550, §957(b), substituted “9 months” for “6 months”.
+Subsec. (a)(2). Pub. L. 102–550, §957(b), substituted "9 months" for "6 months".
 
 #### Effective Date of 2010 Amendment
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by section 1604 of Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Board”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Board".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

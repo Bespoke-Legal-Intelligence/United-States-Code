@@ -22,7 +22,7 @@ Pub. L. 103–272
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(e)(1); added Aug. 5, 1974, Pub. L. 93–366, §202, 88 Stat. 417.
 
-The word “otherwise” is omitted as surplus. The word “assigned” is omitted as being included in “transfer”. The word “function” is omitted as being included in “duty or power”. The words “department, agency, or instrumentality of the United States Government” are substituted for “Federal department or agency” for clarity and consistency in the revised title and with other titles of the United States Code.
+The word "otherwise" is omitted as surplus. The word "assigned" is omitted as being included in "transfer". The word "function" is omitted as being included in "duty or power". The words "department, agency, or instrumentality of the United States Government" are substituted for "Federal department or agency" for clarity and consistency in the revised title and with other titles of the United States Code.
 
 #### Pub. L. 103–429
 
@@ -30,9 +30,9 @@ This amends 49:44937 to correct an error in the codification enacted by section 
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–71 substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+<b>2001</b>—Pub. L. 107–71 substituted "Under Secretary of Transportation for Security" for "Administrator of the Federal Aviation Administration".
 
-<b>1994</b>—Pub. L. 103–429 substituted “44906” for “44906(a)(1) or (b)”.
+<b>1994</b>—Pub. L. 103–429 substituted "44906" for "44906(a)(1) or (b)".
 
 #### Effective Date of 1994 Amendment
 

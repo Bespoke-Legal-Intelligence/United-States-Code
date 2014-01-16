@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title II, §201(c) (related to records), 49 Stat. 1986.
 
-The words “true” and “yea-and-nay” are omitted as unnecessary.
+The words "true" and "yea-and-nay" are omitted as unnecessary.
 

@@ -48,15 +48,15 @@ July 16, 1952, ch. 882, §§1, 7 (as applicable to §1), 66 Stat. 725, 726.
 
 5:628h (as applicable to 5:628b).
 
-In subsection (a), the words “the conduct of” are omitted as surplusage.
+In subsection (a), the words "the conduct of" are omitted as surplusage.
 
-In subsection (b), the words “or panel” are inserted for clarity. The words “Secretary concerned” are substituted for the words “appointing authority”.
+In subsection (b), the words "or panel" are inserted for clarity. The words "Secretary concerned" are substituted for the words "appointing authority".
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted “Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.” for “Other members and part-time advisers may serve without compensation or may be paid not more than $50 for each day of service, as the Secretary concerned determines.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted "Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service." for "Other members and part-time advisers may serve without compensation or may be paid not more than $50 for each day of service, as the Secretary concerned determines."
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

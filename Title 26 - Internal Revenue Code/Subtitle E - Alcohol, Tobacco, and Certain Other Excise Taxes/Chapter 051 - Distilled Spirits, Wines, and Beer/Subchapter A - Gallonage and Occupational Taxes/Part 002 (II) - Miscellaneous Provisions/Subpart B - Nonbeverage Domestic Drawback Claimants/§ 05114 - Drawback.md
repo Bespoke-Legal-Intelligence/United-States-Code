@@ -6,7 +6,7 @@ In the case of distilled spirits on which the tax has been paid or determined, a
 
 #### (b) Claims
 
-Such drawback shall be due and payable quarterly upon filing of a proper claim with the Secretary; except that, where any person entitled to such drawback shall elect in writing to file monthly claims therefor, such drawback shall be due and payable monthly upon filing of a proper claim with the Secretary. The Secretary may require persons electing to file monthly drawback claims to file with him a bond or other security in such amount and with such conditions as he shall by regulations prescribe. Any such election may be revoked on filing of notice thereof with the Secretary. No claim under this subpart shall be allowed unless filed with the Secretary within the 6 months next succeeding the quarter in which the distilled spirits covered by the claim were used as provided in this subpart.
+Such drawback shall be due and payable quarterly upon filing of a proper claim with the Secretary; except that, where any person entitled to such drawback shall elect in writing to file monthly claims therefor, such drawback shall be due and payable monthly upon filing of a proper claim with the Secretary. The Secretary may require persons electing to file monthly drawback claims to file with him a bond or other security in such amount and with such conditions as he shall by regulations prescribe. Any such election may be revoked on filing of notice thereof with the Secretary. No claim under this subpart shall be allowed unless filed with theSecretary within the 6 months next succeeding the quarter in which the distilled spirits covered by the claim were used as provided in this subpart.
 
 #### (c) Allowance of drawback even where certain requirements not met
 
@@ -50,15 +50,15 @@ A prior section 5117, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72
 
 <b>2005</b>—Pub. L. 109–59 renumbered section 5134 of this title as this section.
 
-<b>1996</b>—Subsec. (c)(3). Pub. L. 104–188 substituted “section 6665(a)” for “section 6662(a)”.
+<b>1996</b>—Subsec. (c)(3). Pub. L. 104–188 substituted "section 6665(a)" for "section 6662(a)".
 
-<b>1994</b>—Subsec. (c)(1). Pub. L. 103–465 substituted “flavoring extracts, or perfume” for “or flavoring extracts”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–465 substituted "flavoring extracts, or perfume" for "or flavoring extracts".
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–369 added subsec. (c).
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
-<b>1968</b>—Subsec. (b). Pub. L. 90–615 substituted “6 months” for “3 months” in last sentence.
+<b>1968</b>—Subsec. (b). Pub. L. 90–615 substituted "6 months" for "3 months" in last sentence.
 
 #### Effective Date of 1994 Amendment
 
@@ -70,5 +70,5 @@ Amendment by Pub. L. 98–369 applicable to products manufactured or produced af
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–615, §2(b), Oct. 21, 1968, 82 Stat. 1210, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to claims filed on or after the date of the enactment of this Act \[Oct. 21, 1968\].”
+Pub. L. 90–615, §2(b), Oct. 21, 1968, 82 Stat. 1210, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to claims filed on or after the date of the enactment of this Act \[Oct. 21, 1968\]."
 

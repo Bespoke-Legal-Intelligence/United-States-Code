@@ -20,13 +20,13 @@ The supplemental guidelines issued under subsection (a) of this section shall es
 
 #### (3) Other sites
 
-&emsp;With respect to alterations of buildings or facilities designated as historic under State or local law, the guidelines described in paragraph (1) shall establish procedures equivalentto those established by 4.1.7(1)(b) and (c) of the Uniform Federal Accessibility Standards, and shall require, at a minimum, compliance with the requirements established in 4.1.7(2) of such standards.
+&emsp;With respect to alterations of buildings or facilities designated as historic under State or local law, the guidelines described in paragraph (1) shall establish procedures equivalent to those established by 4.1.7(1)(b) and (c) of the Uniform Federal Accessibility Standards, and shall require, at a minimum, compliance with the requirements established in 4.1.7(2) of such standards.
 
 (Pub. L. 101–336, title V, §504, July 26, 1990, 104 Stat. 370.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (c)(2), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
 

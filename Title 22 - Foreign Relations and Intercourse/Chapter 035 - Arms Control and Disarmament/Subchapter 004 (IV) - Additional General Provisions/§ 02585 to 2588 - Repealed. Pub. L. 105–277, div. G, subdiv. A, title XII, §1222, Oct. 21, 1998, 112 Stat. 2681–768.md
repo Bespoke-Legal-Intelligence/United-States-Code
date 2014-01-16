@@ -6,7 +6,7 @@ Section 2586, Pub. L. 87–297, title IV, §46, Sept. 26, 1961, 75 Stat. 638, re
 
 Section 2587, Pub. L. 87–297, title IV, §47, Sept. 26, 1961, 75 Stat. 638, related to transfer of activities and facilities to Arms Control and Disarmament Agency.
 
-Section 2588, Pub. L. 87–297, title IV, §48, Sept. 26, 1961, 75 Stat. 638; Pub. L. 96–465, title II, §2204(b), Oct. 17, 1980, 94 Stat. 2159; Pub. L. 99–550, §2(c), Oct. 27, 1986, 100 Stat. 3070; Pub. L. 101–216, title I, §106, Dec. 11, 1989, 103 Stat. 1854, related to use of funds by Director.
+Section 2588, Pub. L. 87–297, title IV, §48, Sept. 26, 1961, 75 Stat. 638; Pub. L. 96–465, title II, §2204(b), Oct. 17, 1980, 94 Stat. 2159; Pub. L. 99–550, §2(c), Oct. 27, 1986,100 Stat. 3070; Pub. L. 101–216, title I, §106, Dec. 11, 1989, 103 Stat. 1854, related to use of funds by Director.
 
 #### Effective Date of Repeal
 

@@ -10,7 +10,7 @@ Inasmuch as the reservation of the tribe has been terminated, the Secretary shal
 
 #### (c) Notification and consultation
 
-To assure that legitimate State and local interests are not prejudiced by the creation of a reservation for the tribe, the Secretary, in developing a plan under subsection (b) of this section for the establishment of a reservation, shall notify and consult with all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon and any other interested parties. Such consultation shall include the following subjects:
+To assure that legitimate State and local interests are not prejudiced by the creation of areservation for the tribe, the Secretary, in developing a plan under subsection (b) of this section for the establishment of a reservation, shall notify and consult with all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon and any other interested parties. Such consultation shall include the following subjects:
 
 &emsp;(1) the size and location of the reservation;
 
@@ -30,7 +30,7 @@ Any plan developed under this section for the establishment of a reservation for
 
 &emsp;(1) any real property transferred by the tribe or members of the tribe to the Secretary shall be taken in the name of the United States in trust for the benefit of the tribe and shall be the reservation for the tribe;
 
-&emsp;(2) the establishment of such a reservation will not grant or restore to the tribe or anymember of the tribe any hunting, fishing, or trapping right of any nature, including any indirect or procedural right or advantage, on such reservation;
+&emsp;(2) the establishment of such a reservation will not grant or restore to the tribe or any member of the tribe any hunting, fishing, or trapping right of any nature, including any indirect or procedural right or advantage, on such reservation;
 
 &emsp;(3) the Secretary shall not accept any real property in trust for the benefit of the tribe or its members unless such real property is located within Lincoln County, State of Oregon;
 
@@ -48,13 +48,13 @@ The Secretary shall append to the plan a detailed statement describing the manne
 
 #### Authority To Erect Permanent Improvements on Land Acquired for Confederated Tribes of Siletz Indians of Oregon
 
-Pub. L. 97–38, Aug. 14, 1981, 95 Stat. 938, provided: “That, notwithstanding any other provision of law or regulation, the Attorney General shall approve any deed or other instrument which—
+Pub. L. 97–38, Aug. 14, 1981, 95 Stat. 938, provided: "That, notwithstanding any other provision of law or regulation, the Attorney General shall approve any deed or other instrument which—
 
-&emsp;“(1) conveys to the United States the land described in section 2 of the Act entitled ‘An Act to establish a reservation for the Confederated Tribes of Siletz Indians of Oregon’, approved September 4, 1980 (94 Stat. 1073) \[set out below\], and
+&emsp;"(1) conveys to the United States the land described in section 2 of the Act entitled 'An Act to establish a reservation for the Confederated Tribes of Siletz Indians of Oregon', approved September 4, 1980 (94 Stat. 1073) \[set out below\], and
 
-&emsp;“(2) incorporates by reference the terms of the agreement entered into on September 18, 1980, by the city of Siletz, Oregon, the Confederated Tribes of Siletz Indians of Oregon, and the United States of America.
+&emsp;"(2) incorporates by reference the terms of the agreement entered into on September 18, 1980, by the city of Siletz, Oregon, the Confederated Tribes of Siletz Indians of Oregon, and the United States of America.
 
-> The Secretary of the Interior or the Confederated Tribes of Siletz Indians of Oregon may erect permanent improvements, improvements of a substantial value, or any other improvements authorized by law on such land after such land is conveyed to the United States.”
+> The Secretary of the Interior or the Confederated Tribes of Siletz Indians of Oregon may erect permanent improvements, improvements of a substantial value, or any other improvements authorized by law on such land after such land is conveyed to the United States."
 
 #### Establishment of Reservation for Confederated Tribes of Siletz Indians of Oregon
 

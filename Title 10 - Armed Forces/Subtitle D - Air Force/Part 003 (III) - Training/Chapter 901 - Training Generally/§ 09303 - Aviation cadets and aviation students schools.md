@@ -22,7 +22,7 @@ Historical and Revision Notes
 
 10:296a.
 
-July 11, 1919, ch. 8 (2d par. under “Air Service”), 41 Stat. 109.
+July 11, 1919, ch. 8 (2d par. under "Air Service"), 41 Stat. 109.
 
 &nbsp;
 

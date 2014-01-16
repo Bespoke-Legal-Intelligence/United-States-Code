@@ -102,7 +102,7 @@ Failure to consider factors.—The failure to take into consideration the factor
 
 (e)
 
-Additional Requirements.—“In <sup>1</sup> carrying out planning under this section, each State shall, at a minimum—
+Additional Requirements.—"In <sup>1</sup> carrying out planning under this section, each State shall, at a minimum—
 
 &emsp;(1) with respect to nonmetropolitan areas, cooperate with affected local officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (l);
 
@@ -494,11 +494,11 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §8(h); added Nov. 6, 1978, Pub. L
 
 49 App.:1607(h)(4).
 
-In subsection (b)(1), the word “initial” is omitted as surplus.
+In subsection (b)(1), the word "initial" is omitted as surplus.
 
-In subsection (b)(2)(C), the words “and programs” are omitted as surplus.
+In subsection (b)(2)(C), the words "and programs" are omitted as surplus.
 
-In subsection (c)(1), the word “otherwise” is omitted as surplus.
+In subsection (c)(1), the word "otherwise" is omitted as surplus.
 
 #### References in Text
 
@@ -516,21 +516,21 @@ The National Environmental Policy Act of 1969, referred to in subsec. (j), is Pu
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–178, §3005(d)(1), as added by Pub. L. 105–206, §9009(c)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Pub. L. 105–178, §3005(a), in second sentence, substituted “the metropolitan planning organization, in cooperation with the chief executive officer of the State and any affected mass transportation operator,” for “the organization” and inserted “other affected employee representatives, freight shippers, providers of freight transportation services,” after “transportation authority employees,” and “representatives of users of public transit,” after “private providers of transportation,”.
+Pub. L. 105–178, §3005(a), in second sentence, substituted "the metropolitan planning organization, in cooperation with the chief executive officer of the State and any affected mass transportation operator," for "the organization" and inserted "other affected employee representatives, freight shippers, providers of freight transportation services," after "transportation authority employees," and "representatives of users of public transit," after "private providers of transportation,".
 
-Subsec. (b)(2)(B). Pub. L. 105–178, §3005(d)(2)(A), as added by Pub. L. 105–206, §9009(c)(2), struck out “and” at end.
+Subsec. (b)(2)(B). Pub. L. 105–178, §3005(d)(2)(A), as added by Pub. L. 105–206, §9009(c)(2), struck out "and" at end.
 
-Subsec. (b)(2)(C). Pub. L. 105–178, §3005(d)(2)(B), as added by Pub. L. 105–206, §9009(c)(2), which directed amendment of subpar. (C) by substituting “strategies; and” for “strategies which may include”, was executed by making the substitution for “strategies, which may include” to reflect the probable intent of Congress. Remaining provisions of subpar. (C) redesignated (D).
+Subsec. (b)(2)(C). Pub. L. 105–178, §3005(d)(2)(B), as added by Pub. L. 105–206, §9009(c)(2), which directed amendment of subpar. (C) by substituting "strategies; and" for "strategies which may include", was executed by making the substitution for "strategies, which may include" to reflect the probable intent of Congress. Remaining provisions of subpar. (C) redesignated (D).
 
-Pub. L. 105–178, §3005(b), added subpar. (C) and struck out former subpar. (C) which read as follows: “recommends innovative financing techniques, including value capture, tolls, and congestion pricing, to finance needed projects.”
+Pub. L. 105–178, §3005(b), added subpar. (C) and struck out former subpar. (C) which read as follows: "recommends innovative financing techniques, including value capture, tolls, and congestion pricing, to finance needed projects."
 
-Subsec. (b)(2)(D). Pub. L. 105–178, §3005(d)(2)(B), as added by Pub. L. 105–206, §9009(c)(2), which directed amendment of subpar. (C) by substituting “strategies; and” followed by “(D) may include” for “strategies which may include”, was executed by making the substitutions for “strategies, which may include” to reflect the probable intent of Congress.
+Subsec. (b)(2)(D). Pub. L. 105–178, §3005(d)(2)(B), as added by Pub. L. 105–206, §9009(c)(2), which directed amendment of subpar. (C) by substituting "strategies; and" followed by "(D) may include" for "strategies which may include", was executed by making the substitutions for "strategies, which may include" to reflect the probable intent of Congress.
 
-Subsec. (c)(1). Pub. L. 105–178, §3005(c)(1), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in section 5305(d)(1) of this title, the State, in cooperation with the metropolitan planning organization, shall select projects in a metropolitan area that involve United States Government participation. Selection shall comply with the transportation improvement program for the area.”
+Subsec. (c)(1). Pub. L. 105–178, §3005(c)(1), added par. (1) and struck out former par. (1) which read as follows: "Except as provided in section 5305(d)(1) of this title, the State, in cooperation with the metropolitan planning organization, shall select projects in a metropolitan area that involve United States Government participation. Selection shall comply with the transportation improvement program for the area."
 
 Subsec. (c)(3). Pub. L. 105–178, §3005(c)(2), added par. (3).
 
-Subsec. (c)(4). Pub. L. 105–178, §3005(d)(3), as added by Pub. L. 105–206, §9009(c)(2), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Notwithstanding subsection (b)(2)(C), a State or metropolitan planning organization shall not be required to select any project from the illustrative list of additional projects included in the financial plan under subsection (b)(2)(C).”
+Subsec. (c)(4). Pub. L. 105–178, §3005(d)(3), as added by Pub. L. 105–206, §9009(c)(2), added par. (4) and struck out heading and text of former par. (4). Text read as follows: "Notwithstanding subsection (b)(2)(C), a State or metropolitan planning organization shall not be required to select any project from the illustrative list of additional projects included in the financial plan under subsection (b)(2)(C)."
 
 Pub. L. 105–178, §3005(c)(2), added par. (4).
 

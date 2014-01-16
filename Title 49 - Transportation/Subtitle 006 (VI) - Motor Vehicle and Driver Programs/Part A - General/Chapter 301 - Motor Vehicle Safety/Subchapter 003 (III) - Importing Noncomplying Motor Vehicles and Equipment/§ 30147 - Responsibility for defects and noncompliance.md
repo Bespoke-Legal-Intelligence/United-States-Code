@@ -36,9 +36,9 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(d); added Oct. 31, 1988, Pu
 
 15:1397(d)(2).
 
-In this section, the words “(relating to discovery, notification, and remedy of motor vehicle defects)” are omitted as surplus.
+In this section, the words "(relating to discovery, notification, and remedy of motor vehicle defects)" are omitted as surplus.
 
-In subsection (a)(1)(A), the words “for a motor vehicle” are substituted for “in, or regarding, any motor vehicle” to eliminate unnecessary words.
+In subsection (a)(1)(A), the words "for a motor vehicle" are substituted for "in, or regarding, any motor vehicle" to eliminate unnecessary words.
 
-In subsection (a)(1)(B), the word “compliance” is substituted for “conformity” for consistency in this chapter.
+In subsection (a)(1)(B), the word "compliance" is substituted for "conformity" for consistency in this chapter.
 

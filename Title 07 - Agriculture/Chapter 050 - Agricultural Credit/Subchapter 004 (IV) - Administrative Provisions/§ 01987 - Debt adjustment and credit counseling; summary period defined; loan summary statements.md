@@ -1,0 +1,38 @@
+### §1987. Debt adjustment and credit counseling; "summary period" defined; loan summary statements
+
+(a) The Secretary may provide voluntary debt adjustment assistance between farmers and their creditors and may cooperate with State, territorial, and local agencies and committees engaged in such debt adjustment, and may give credit counseling.
+
+(b)(1) As used in this subsection, the term "summary period" means—
+
+&emsp;(A) the period beginning on December 23, 1985, and ending on the date on which the first loan summary statement is issued after December 23, 1985; or
+
+&emsp;(B) the period beginning on the date of issuance of the preceding loan summary statement and ending on the date of issuance of the current loan summary statement.
+
+(2) On the request of a borrower of a loan made or insured (but not guaranteed) under this chapter, the Secretary shall issue to such borrower a loan summary statement that reflects the account activity during the summary period for each loan made or insured under this chapter to such borrower, including—
+
+&emsp;(A) the outstanding amount of principal due on each such loan at the beginning of the summary period;
+
+&emsp;(B) the interest rate charged on each such loan;
+
+&emsp;(C) the amount of payments made on and their application to each such loan during the summary period and an explanation of the basis for the application of such payments;
+
+&emsp;(D) the amount of principal and interest due on each such loan at the end of the summary period;
+
+&emsp;(E) the total amount of unpaid principal and interest on all such loans at the end of the summary period;
+
+&emsp;(F) any delinquency in the repayment of any such loan;
+
+&emsp;(G) a schedule of the amount and date of payments due on each such loan; and
+
+&emsp;(H) the procedure the borrower may use to obtain more information concerning the status of such loans.
+
+(Pub. L. 87–128, title III, §337, Aug. 8, 1961, 75 Stat. 316; Pub. L. 99–198, title XIII, §1316, Dec. 23, 1985, 99 Stat. 1528.)
+
+#### References in Text
+
+For definition of "this chapter", referred to in subsec. (b)(2), see note set out under section 1921 of this title.
+
+#### Amendments
+
+<b>1985</b>—Pub. L. 99–198 designated existing provisions as subsec. (a) and added subsec. (b).
+

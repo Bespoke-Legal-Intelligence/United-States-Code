@@ -6,13 +6,13 @@ The Secretary shall appoint such officers and employees as may be necessary for 
 
 #### Codification
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Chapter 51 and subchapter III of chapter 53 of title 5" substituted in text for "the Classification Act of 1949" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
 <b>1972</b>—Pub. L. 92–310 struck out provisions which permitted the Secretary to designate officers and employees to be bonded, and which authorized the Corporation to pay the premium on the bonds.
 
-<b>1949</b>—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
 Act June 7, 1949, amended section generally to permit the Secretary to appoint the officers and employees of the Corporation and to define their authority and duties.
 
@@ -22,7 +22,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 #### Exceptions From Transfer of Functions
 
-For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, seeExceptions From Transfer of Functions note set out under section 712a of this title.
+For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.
 
 #### Sales Manager
 

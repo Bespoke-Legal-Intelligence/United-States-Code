@@ -30,7 +30,7 @@
 
 #### (C) Orders against criminal aliens
 
-&emsp;&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D), no court shall have jurisdiction to review any final order of removal against an alien who is removable by reason of having committed a criminal offense covered in section 1182(a)(2) or 1227(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to their date of commission,otherwise covered by section 1227(a)(2)(A)(i) of this title.
+&emsp;&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D), no court shall have jurisdiction to review any final order of removal against an alien who is removable by reason of having committed a criminal offense covered in section 1182(a)(2) or 1227(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to their date of commission, otherwise covered by section 1227(a)(2)(A)(i) of this title.
 
 #### (D) Judicial review of certain legal claims
 
@@ -228,7 +228,7 @@ A court may review a final order of removal only if—
 
 Except as provided in this section and notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6),Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645; Pub. L. 109–13, div. B, title I, §§101(e), (f), 106(a), May 11, 2005, 119 Stat. 305, 310.)
+(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645; Pub. L. 109–13, div. B, title I, §§101(e), (f), 106(a), May 11, 2005, 119 Stat. 305, 310.)
 
 #### References in Text
 
@@ -250,7 +250,7 @@ Pub. L. 109–13, §101(f)(2), inserted “and regardless of whether the judgmen
 
 Subsec. (a)(2)(B)(ii). Pub. L. 109–13, §101(f)(1), inserted “or the Secretary of Homeland Security” after “Attorney General” in two places.
 
-Subsec. (a)(2)(C). Pub. L. 109–13, §106(a)(1)(A)(ii), inserted “(statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D)” after “Notwithstanding any other provision of law”.
+Subsec. (a)(2)(C). Pub. L. 109–13, §106(a)(1)(A)(ii), inserted “(statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except asprovided in subparagraph (D)” after “Notwithstanding any other provision of law”.
 
 Subsec. (a)(2)(D). Pub. L. 109–13, §106(a)(1)(A)(iii), added subpar. (D).
 
@@ -376,7 +376,7 @@ Pub. L. 103–322, title II, §20301(b), Sept. 13, 1994, 108 Stat. 1824, provide
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 306(a)(4), (c)(7) of Pub. L. 102–232 effective as if included in the enactment of theImmigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by section 306(a)(4), (c)(7) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 Pub. L. 102–232, title III, §307(m), Dec. 12, 1991, 105 Stat. 1757, provided that the amendment made by section 307(m)(2) of Pub. L. 102–232 is effective as if included in section 603(b) of the Immigration Act of 1990, Pub. L. 101–649.
 
@@ -408,7 +408,7 @@ Limits on discretionary relief for failure to appear in asylum hearing.—Subsec
 
 Consolidation of relief in judicial review.—The amendments made by subsection (b) \[amending section 1105a of this title\] shall apply to final orders of deportation entered on or after January 1, 1991.”
 
-Amendment by section 603(b)(2) of Pub. L. 101–649 not applicable to deportation proceedings for which notice has been provided to the alien before Mar. 1, 1991, see section 602(d) of Pub. L. 101–649, set out as a note under section 1227 of this title.
+Amendment by section 603(b)(2) of Pub. L. 101–649 not applicable to deportation proceedings for which noticehas been provided to the alien before Mar. 1, 1991, see section 602(d) of Pub. L. 101–649, set out as a note under section 1227 of this title.
 
 #### Effective Date of 1988 Amendment
 

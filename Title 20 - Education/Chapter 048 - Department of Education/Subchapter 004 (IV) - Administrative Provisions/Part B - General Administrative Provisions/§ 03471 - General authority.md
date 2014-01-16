@@ -2,7 +2,7 @@
 
 #### (a) Force and effect of actions by Secretary
 
-In carrying out any function transferred by this chapter, the Secretary, or any officer oremployee of the Department, may exercise any authority available by law (including appropriation Acts) with respect to such function to the official or agency from which such function is transferred, and the actions of the Secretary in exercising such authority shall have the same force and effect as when exercised by such official or agency.
+In carrying out any function transferred by this chapter, the Secretary, or any officer or employee of the Department, may exercise any authority available by law (including appropriation Acts) with respect to such function to the official or agency from which such function is transferred, and the actions of the Secretary in exercising such authority shall have the same force and effect as when exercised by such official or agency.
 
 #### (b) Reporting requirements
 
@@ -14,5 +14,5 @@ In carrying out any function transferred by this chapter, the Secretary, or any 
 
 #### Codification
 
-In subsec. (b)(1), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
+In subsec. (b)(1), "May 4, 1980" substituted for "the effective date of this chapter" pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 

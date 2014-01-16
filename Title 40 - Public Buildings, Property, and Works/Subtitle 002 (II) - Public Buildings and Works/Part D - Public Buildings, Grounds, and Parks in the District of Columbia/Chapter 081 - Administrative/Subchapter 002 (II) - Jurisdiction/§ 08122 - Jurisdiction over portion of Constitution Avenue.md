@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 May 27, 1908, ch. 200, §1 (1st complete par. on p. 356), 35 Stat. 356.
 
-For transfer of functions from the Chief of Engineers to the Director of the National Park Service, see the revision note under section 8102 of this title. The words “Constitution Avenue” are substituted for “B Street” to reflect the current name.
+For transfer of functions from the Chief of Engineers to the Director of the National Park Service, see the revision note under section 8102 of this title. The words "Constitution Avenue" are substituted for "B Street" to reflect the current name.
 

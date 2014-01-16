@@ -14,7 +14,7 @@ The Congress hereby declares that—
 
 #### (b) Development of welfare indicators and predictors
 
-The Secretary of Health and Human Services (in this section referred to as the “Secretary”) in consultation with the Secretary of Agriculture shall—
+The Secretary of Health and Human Services (in this section referred to as the "Secretary") in consultation with the Secretary of Agriculture shall—
 
 &emsp;(1) develop—
 
@@ -44,7 +44,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 #### (1) Establishment
 
-&emsp;There is established an Advisory Board on Welfare Indicators (in this subsection referred to as the “Board”).
+&emsp;There is established an Advisory Board on Welfare Indicators (in this subsection referred to as the "Board").
 
 #### (2) Composition
 
@@ -64,7 +64,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 #### (5) Travel expenses
 
-&emsp;Members of the Board shall not be compensated, but shall receive travel expenses, including per diem in lieu of subsistence, atrates authorized for employees of agencies under subchapter I of chapter 57 of title 5 for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
+&emsp;Members of the Board shall not be compensated, but shall receive travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
 
 #### (6) Detail of Federal employees
 
@@ -76,7 +76,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 #### (8) Termination of Board
 
-&emsp;The Board shall be terminated at such time as the Secretary determines the duties described in paragraph (4) have been completed, but in any case prior to the submission of the first report required under subsection (d) of this section.
+&emsp;The Board shall be terminated at such time as the Secretary determines the duties described in paragraph (4) have been completed,but in any case prior to the submission of the first report required under subsection (d) of this section.
 
 #### (d) Annual welfare indicators report
 
@@ -120,7 +120,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 #### (e) Short title
 
-This section may be cited as the “Welfare Indicators Act of 1994”.
+This section may be cited as the "Welfare Indicators Act of 1994".
 
 (Pub. L. 103–432, title II, §232, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 105–200, title IV, §410(h), July 16, 1998, 112 Stat. 674; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(X), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(X), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
@@ -136,11 +136,11 @@ Section was enacted as part of the Social Security Act Amendments of 1994, and n
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(2). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(X), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Subsec. (d)(2). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(X), substituted "supplemental nutrition assistance program" for "food stamp program" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
-<b>1998</b>—Subsec. (b)(3)(D). Pub. L. 105–200, §410(h)(1), struck out “Energy and” before “Commerce”.
+<b>1998</b>—Subsec. (b)(3)(D). Pub. L. 105–200, §410(h)(1), struck out "Energy and" before "Commerce".
 
-Subsec. (d)(4). Pub. L. 105–200, §410(h)(2), substituted “subsection (b)(3) of this section” for “subsection (b)(3)(C) of this section”.
+Subsec. (d)(4). Pub. L. 105–200, §410(h)(2), substituted "subsection (b)(3) of this section" for "subsection (b)(3)(C) of this section".
 
 #### Change of Name
 

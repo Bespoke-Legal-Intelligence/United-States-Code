@@ -22,13 +22,13 @@ Section 270(b) of the National Defense Authorization Act for Fiscal Year 1997 (P
 
 #### Purposes of Section 323 of Pub. L. 106–65
 
-Pub. L. 106–65, div. A, title III, §323(a), Oct. 5, 1999, 113 Stat. 562, provided that: “The purposes of this section \[enacting this section, amending section 2706 of this title, and enacting provisions set out as a note under section 2706 of this title\] are—
+Pub. L. 106–65, div. A, title III, §323(a), Oct. 5, 1999, 113 Stat. 562, provided that: "The purposes of this section \[enacting this section, amending section 2706 of this title, and enacting provisions set out as a note under section 2706 of this title\] are—
 
-&emsp;“(1) to hold the Department of Defense and the military departments accountable for achieving performance-based results in the management of environmental technology by providing a connection between program direction and the achievement of specific performance-based results;
+&emsp;"(1) to hold the Department of Defense and the military departments accountable for achieving performance-based results in the management of environmental technology by providing a connection between program direction and the achievement of specific performance-based results;
 
-&emsp;“(2) to assure the identification of end-user requirements for environmental technology within the military departments;
+&emsp;"(2) to assure the identification of end-user requirements for environmental technology within the military departments;
 
-&emsp;“(3) to assure results, quality of effort, and appropriate levels of service and support for end-users of environmental technology within the military departments; and
+&emsp;"(3) to assure results, quality of effort, and appropriate levels of service and support for end-users of environmental technology within the military departments; and
 
-&emsp;“(4) to promote improvement in the performance of environmental technologies by establishing objectives for environmental technology programs, measuring performance against such objectives, and making public reports on the progress made in such performance.”
+&emsp;"(4) to promote improvement in the performance of environmental technologies by establishing objectives for environmental technology programs, measuring performance against such objectives, and making public reports on the progress made in such performance."
 

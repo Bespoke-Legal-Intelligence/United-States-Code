@@ -16,7 +16,7 @@ For the purposes of this section, the country of origin of the applicant is the 
 
 #### (d) Right of priority
 
-An application for registration of a mark under section 1051, 1053, 1054, or 1091 of this title or under subsection (e) of this section, filed bya person described in subsection (b) of this section who has previously duly filed an application for registration of the same mark in one of the countries described in subsection (b) of this section shall be accorded the same force and effect as would be accorded to the same application if filed in the United States on the same date on which the application was first filed in such foreign country: <i>Provided</i>, That—
+An application for registration of a mark under section 1051, 1053, 1054, or 1091 of this title or under subsection (e) of this section, filed by a person described in subsection (b) of this section who has previously duly filed an application for registration of the same mark in one of the countries described in subsection (b) of this section shall be accorded the same force and effect as would be accorded to the same application if filed in the United States on the same date on which the application was first filed in such foreign country: <i>Provided</i>, That—
 
 &emsp;(1) the application in the United States is filed within six months from the date on which the application was first filed in the foreign country;
 
@@ -60,35 +60,35 @@ Acts Feb. 20, 1905, ch. 592, §§1, 2, 4, 33 Stat. 724, 725; May 4, 1906, ch. 20
 
 #### Amendments
 
-<b>2002</b>—Subsec. (e). Pub. L. 107–273 substituted “a true copy, a photocopy, a certification,” for “a certification”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–273 substituted "a true copy, a photocopy, a certification," for "a certification".
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–113 substituted “Director” for “Commissioner”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113 substituted "Director" for "Commissioner".
 
-Pub. L. 106–43 substituted “trademarks” for “trade-marks”.
+Pub. L. 106–43 substituted "trademarks" for "trade-marks".
 
-Subsec. (e). Pub. L. 106–113 substituted “Director” for “Commissioner”.
+Subsec. (e). Pub. L. 106–113 substituted "Director" for "Commissioner".
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–330, §108(1)(A), in introductory provisions, substituted “or 1091 of this title or under subsection (e) of this section” for “1091 of this title, or subsection (e) of this section”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–330, §108(1)(A), in introductory provisions, substituted "or 1091 of this title or under subsection (e) of this section" for "1091 of this title, or subsection (e) of this section".
 
 Subsec. (d)(3), (4). Pub. L. 105–330, §108(1)(B), made technical amendment to reference in original act which appears in text as reference to this subsection.
 
-Subsec. (e). Pub. L. 105–330, §108(2), substituted “Such applicant shall submit, within such time period as may be prescribed by the Commissioner, a certification or a certified copy of the registration in the country of origin of the applicant” for “The application therefor shall be accompanied by a certification or a certified copy of the registration in the country of origin of the applicant”.
+Subsec. (e). Pub. L. 105–330, §108(2), substituted "Such applicant shall submit, within such time period as may be prescribed by the Commissioner, a certification or a certified copy of the registration in the country of origin of the applicant" for "The application therefor shall be accompanied by a certification or a certified copy of the registration in the country of origin of the applicant".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–667, §133(2), substituted “required in this chapter” for “herein prescribed”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–667, §133(2), substituted "required in this chapter" for "herein prescribed".
 
 Subsec. (c). Pub. L. 100–667, §133(1), made technical amendment in two places to references in the original act to subsection (b) of this section, resulting in no change in text.
 
-Subsec. (d). Pub. L. 100–667, §133(1), (3), (4), (5), in introductory provisions, made technical amendment in two places to references in the original act to subsection (b) of this section, resulting in no change in text, and substituted “section 1051, 1053, 1054, or 1091 of this title, or subsection (e) of this section” for “sections 1051, 1052, 1053, 1054, or 1091 of this title”, in par. (2), substituted “including a statement that the applicant has a bona fide intention to use the mark in commerce” for “but use in commerce need not be alleged”, and in par. (3), substituted “foreign” for “foreing”.
+Subsec. (d). Pub. L. 100–667, §133(1), (3), (4), (5), in introductory provisions, made technical amendment in two places to references in the original act to subsection (b) of this section, resulting in no change in text, and substituted "section 1051, 1053, 1054, or 1091 of this title, or subsection (e) of this section" for "sections 1051, 1052, 1053, 1054, or 1091 of this title", in par. (2), substituted "including a statement that the applicant has a bona fide intention to use the mark in commerce" for "but use in commerce need not be alleged", and in par. (3), substituted "foreign" for "foreing".
 
-Subsec. (e). Pub. L. 100–667, §133(6), inserted at end “The application must state the applicant's bona fide intention to use the mark in commerce, but use in commerce shall not be required prior to registration.”
+Subsec. (e). Pub. L. 100–667, §133(6), inserted at end "The application must state the applicant's bona fide intention to use the mark in commerce, but use in commerce shall not be required prior to registration."
 
 Subsec. (f). Pub. L. 100–667, §133(1), (7), made technical amendment to references in the original act to subsections (c), (d), and (e) of this section and to subsection (b) of this section, resulting in no change in text.
 
 Subsecs. (g) to (i). Pub. L. 100–667, §133(1), (8), made technical amendment to references in the original act to subsection (b) of this section, resulting in no change in text.
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–772 inserted “or extends reciprocal rights to nationals of the United States by law,” and substituted provisions requiring the person's country of origin to be a party to any convention or treaty, for provisions which required such persons to be nationals of, domiciled in, or have a bona fide and effective business or commercial establishment in a foreign country which was a party to the International Convention for the Protection of Industrial Property, or the General Inter-American Convention for Trade Mark and Commercial Protection, or any other convention or treaty relating to trademarks, trade, or commercial names.
+<b>1962</b>—Subsec. (b). Pub. L. 87–772 inserted "or extends reciprocal rights to nationals of the United States by law," and substituted provisions requiring the person's country of origin to be a party to any convention or treaty, for provisions which required such persons to be nationals of, domiciled in, or have a bona fide and effective business or commercial establishment in a foreign country which was a party to the International Convention for the Protection of Industrial Property, or the General Inter-American Convention for Trade Mark and Commercial Protection, or any other convention or treaty relating to trademarks, trade, or commercial names.
 
-Subsec. (e). Pub. L. 87–772 inserted “certification or a” after “accompanied by a” and struck out “application for or” before “registration”.
+Subsec. (e). Pub. L. 87–772 inserted "certification or a" after "accompanied by a" and struck out "application for or" before "registration".
 
 <b>1961</b>—Subsec. (d). Pub. L. 87–333 inserted par. at end authorizing the right provided by this section to be based upon a subsequent application in the same foreign country, instead of the first application, provided that any foreign application filed prior to such subsequent one was withdrawn, or otherwise disposed of, without having been open to public inspection and without leaving any rights outstanding, nor any basis for claiming priority.
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 #### Effective Date of 1961 Amendment
 
-Pub. L. 87–333, §3, Oct. 3, 1961, 75 Stat. 748, provided that: “This Act \[amending this section and section 119 of Title 35, Patents\] shall take effect on the date when the Convention of Paris for the Protection of Industrial Property of March 20, 1883, as revised at Lisbon, October 31, 1958, comes into force with respect to the United States and shall apply only to applications thereafter filed in the United States by persons entitled to the benefit of said convention, as revised at the time of such filing.”
+Pub. L. 87–333, §3, Oct. 3, 1961, 75 Stat. 748, provided that: "This Act \[amending this section and section 119 of Title 35, Patents\] shall take effect on the date when the Convention of Paris for the Protection of Industrial Property of March 20, 1883, as revised at Lisbon, October 31, 1958, comes into force with respect to the United States and shall apply only to applications thereafter filed in the United States by persons entitled to the benefit of said convention, as revised at the time of such filing."
 
 #### Repeal and Effect on Existing Rights
 

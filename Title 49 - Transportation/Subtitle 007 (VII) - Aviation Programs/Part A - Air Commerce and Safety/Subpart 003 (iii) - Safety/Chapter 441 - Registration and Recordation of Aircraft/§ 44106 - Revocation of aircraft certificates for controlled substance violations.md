@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “controlled substance” has the same meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802).
+Definition.—In this section, "controlled substance" has the same meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802).
 
 (b)
 
@@ -78,5 +78,5 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §501(e)(2)(A)– (C), (F); added
 
 49 App.:1401(e)(2)(A) (last sentence), (F).
 
-In subsection (b)(2), the words “knowing that the aircraft was to be used for the activity described in paragraph (1)(A) of this subsection” are substituted for “with knowledge of such intended use” for clarity.
+In subsection (b)(2), the words "knowing that the aircraft was to be used for the activity described in paragraph (1)(A) of this subsection" are substituted for "with knowledge of such intended use" for clarity.
 

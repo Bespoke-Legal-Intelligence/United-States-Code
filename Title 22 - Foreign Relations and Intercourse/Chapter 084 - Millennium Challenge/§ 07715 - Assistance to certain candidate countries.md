@@ -24,5 +24,5 @@ Not more than 10 percent of the amount appropriated pursuant to the authorizatio
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(1). Pub. L. 109–13 substituted “subsection (a) or (b) of section 7705” for “subparagraphs (A) and (B) of section 7705(a)(1)”.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–13 substituted "subsection (a) or (b) of section 7705" for "subparagraphs (A) and (B) of section 7705(a)(1)".
 

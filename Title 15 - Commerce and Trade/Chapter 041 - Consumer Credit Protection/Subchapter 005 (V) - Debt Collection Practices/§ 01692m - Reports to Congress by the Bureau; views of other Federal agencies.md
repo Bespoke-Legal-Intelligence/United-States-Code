@@ -12,7 +12,7 @@ The effective date of this subchapter, referred to in subsec. (a), is the date o
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Commission” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Commission" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

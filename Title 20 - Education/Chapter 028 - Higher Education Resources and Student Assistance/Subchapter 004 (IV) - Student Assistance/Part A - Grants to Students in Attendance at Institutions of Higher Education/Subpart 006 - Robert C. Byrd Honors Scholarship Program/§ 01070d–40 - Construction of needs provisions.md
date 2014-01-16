@@ -10,5 +10,5 @@ A prior section 1070d–40, Pub. L. 89–329, title IV, §419J, as added Pub. L.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–325 substituted “Except as provided in section 1087kk of this title, nothing” for “Nothing”.
+<b>1992</b>—Pub. L. 102–325 substituted "Except as provided in section 1087kk of this title, nothing" for "Nothing".
 

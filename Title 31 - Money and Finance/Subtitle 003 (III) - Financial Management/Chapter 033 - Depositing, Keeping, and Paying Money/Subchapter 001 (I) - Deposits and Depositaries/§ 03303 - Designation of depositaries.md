@@ -26,5 +26,5 @@ June 19, 1922, ch. 228, 42 Stat. 662.
 
 Subsection (a) is added to inform the reader that there are numerous other laws providing for the designation of depositaries. These other laws are scattered throughout the titles of the United States Code.
 
-In subsection (b), the words “carry out” are substituted for “transaction” for consistency. The words “terms and . . . as to security and otherwise” and “of public moneys” are omitted as surplus. The words “territories and possessions of the United States” are substituted for “Territories and insular possessions of the United States” for consistency. The words “to receive deposits of public money” are added for clarity.
+In subsection (b), the words "carry out" are substituted for "transaction" for consistency. The words "terms and . . . as to security and otherwise" and "of public moneys" are omitted as surplus. The words "territories and possessions of the United States" are substituted for "Territories and insular possessions of the United States" for consistency. The words "to receive deposits of public money" are added for clarity.
 

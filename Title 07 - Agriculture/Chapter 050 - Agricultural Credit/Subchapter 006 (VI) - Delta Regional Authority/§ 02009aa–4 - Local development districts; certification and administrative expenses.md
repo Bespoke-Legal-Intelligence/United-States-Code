@@ -2,7 +2,7 @@
 
 #### (a) Definition of local development district
 
-In this section, the term “local development district” means an entity that—
+In this section, the term "local development district" means an entity that—
 
 &emsp;(1) is—
 
@@ -72,5 +72,5 @@ A local development district shall—
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(1). Pub. L. 107–171 substituted “Authority shall” for “Authority may”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–171 substituted "Authority shall" for "Authority may".
 

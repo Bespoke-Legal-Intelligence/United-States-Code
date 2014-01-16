@@ -20,17 +20,17 @@ In the event the Board or the appropriate Federal banking agency, as the case ma
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–351, §602(b)(4)(A), substituted “insured depository institution” for “insured bank”, struck out “bank's” before “appropriate Federal banking agency”, and inserted “for the insured depository institution” before period at end.
+<b>2006</b>—Subsec. (a). Pub. L. 109–351, §602(b)(4)(A), substituted "insured depository institution" for "insured bank", struck out "bank's" before "appropriate Federal banking agency", and inserted "for the insured depository institution" before period at end.
 
-Subsec. (b). Pub. L. 109–351, §602(b)(4)(B), substituted “insured depository institution” for “insured bank” and inserted “authorized only” after “performs any service” and “perform any activity”.
+Subsec. (b). Pub. L. 109–351, §602(b)(4)(B), substituted "insured depository institution" for "insured bank" and inserted "authorized only" after "performs any service" and "perform any activity".
 
-Subsec. (c). Pub. L. 109–351, §602(b)(4)(C), substituted “any insured depository institution” for “the bank or banks” and “capability of the insured depository institution” for “capability of the bank”.
+Subsec. (c). Pub. L. 109–351, §602(b)(4)(C), substituted "any insured depository institution" for "the bank or banks" and "capability of the insured depository institution" for "capability of the bank".
 
-<b>1996</b>—Pub. L. 104–208 substituted “companies” for “corporations” in section catchline and “company” for “corporation” wherever appearing in text.
+<b>1996</b>—Pub. L. 104–208 substituted "companies" for "corporations" in section catchline and "company" for "corporation" wherever appearing in text.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–325, §323(1), substituted “prior notice, as determined by” for “the prior approval of”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–325, §323(1), substituted "prior notice, as determined by" for "the prior approval of".
 
-Subsec. (c). Pub. L. 103–325, §323(2), inserted “or whether to approve or disapprove any notice” after “approval”.
+Subsec. (c). Pub. L. 103–325, §323(2), inserted "or whether to approve or disapprove any notice" after "approval".
 
 <b>1982</b>—Pub. L. 97–320 substituted provisions relating to prior approval for investments in bank service corporations for provisions relating to regulation and examination of bank services for a regularly examined bank or its subsidiary or affiliate whether performed on or off its premises. See section 1867(c) of this title.
 

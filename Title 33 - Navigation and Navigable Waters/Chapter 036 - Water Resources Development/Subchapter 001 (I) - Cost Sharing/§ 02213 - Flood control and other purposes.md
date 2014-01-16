@@ -88,9 +88,9 @@ The non-Federal share of the cost assigned to other project purposes shall be as
 
 &emsp;This section shall not apply to the Yazoo Basin, Mississippi, Demonstration Erosion Control Program, authorized by Public Law 98–8, or to the Harlan, Kentucky, or Barbourville, Kentucky, elements of the project authorized by section 202 of Public Law 96–367.
 
-#### (f) “Separable element” defined
+#### (f) "Separable element" defined
 
-For purposes of this Act, the term “separable element” means a portion of a project—
+For purposes of this Act, the term "separable element" means a portion of a project—
 
 &emsp;(1) which is physically separable from other portions of the project; and
 
@@ -152,7 +152,7 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 #### (2) Criteria and procedures
 
-&emsp;The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with criteria and procedures in effect under paragraph (3) on the day before December 11, 2000; except that such criteria and procedures shall be revised, and new criteria and procedures shall be developed, not later than December 31, 2007, to reflect the requirements of such paragraph (3).
+&emsp;The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with criteria and procedures in effect under paragraph (3) on the day before December 11, 2000; except that such criteria and procedures shall be revised, and new criteria and procedures shall be developed, not later thanDecember 31, 2007, to reflect the requirements of such paragraph (3).
 
 #### (3) Revision of criteria and procedures
 
@@ -204,85 +204,85 @@ Section 903(c), referred to in subsec. (n)(2), is section 903(c) of Pub. L. 99�
 
 #### Amendments
 
-<b>2007</b>—Subsec. (m)(2). Pub. L. 110–114, §2019(a), substituted “December 31, 2007” for “180 days after December 11, 2000”.
+<b>2007</b>—Subsec. (m)(2). Pub. L. 110–114, §2019(a), substituted "December 31, 2007" for "180 days after December 11, 2000".
 
 Subsec. (n). Pub. L. 110–114, §2001, added subsec. (n).
 
 <b>2000</b>—Subsec. (m)(1), (2). Pub. L. 106–541, §204(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which required any cost-sharing agreement to be subject to the ability of a non-Federal interest to pay and required the Secretary to determine ability to pay using certain criteria and procedures.
 
-Subsec. (m)(3)(B), (C). Pub. L. 106–541, §204(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “shall not consider criteria (other than criteria described in subparagraph (A)) in effect on the day before October 12, 1996; and”.
+Subsec. (m)(3)(B), (C). Pub. L. 106–541, §204(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "shall not consider criteria (other than criteria described in subparagraph (A)) in effect on the day before October 12, 1996; and".
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–53, §219(c)(1), which directed insertion of the par. (1) designation and heading before “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
+<b>1999</b>—Subsec. (b). Pub. L. 106–53, §219(c)(1), which directed insertion of the par. (1) designation and heading before "The non-Federal", was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
 
 Subsec. (b)(2). Pub. L. 106–53, §219(c)(2), added par. (2).
 
 Subsec. (d). Pub. L. 106–53, §215(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (d)(2)(A). Pub. L. 106–109 substituted “except for a project for which a District Engineer's Report is completed by that date,” for “or for which a feasibility study is completed after that date,”.
+Subsec. (d)(2)(A). Pub. L. 106–109 substituted "except for a project for which a District Engineer's Report is completed by that date," for "or for which a feasibility study is completed after that date,".
 
-<b>1996</b>—Subsecs. (a)(2), (b). Pub. L. 104–303, §202(a)(1)(A), substituted “35 percent” for “25 percent” wherever appearing.
+<b>1996</b>—Subsecs. (a)(2), (b). Pub. L. 104–303, §202(a)(1)(A), substituted "35 percent" for "25 percent" wherever appearing.
 
 Subsec. (c)(7). Pub. L. 104–303, §210(a), added par. (7).
 
-Subsec. (e)(1). Pub. L. 104–303, §202(a)(2), inserted at end “For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract.”
+Subsec. (e)(1). Pub. L. 104–303, §202(a)(2), inserted at end "For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract."
 
-Subsec. (m). Pub. L. 104–303, §202(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
+Subsec. (m). Pub. L. 104–303, §202(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary."
 
-<b>1992</b>—Subsec. (i). Pub. L. 102–580, §333(b)(2), substituted “Except as provided under section 2283(c) of this title, the non-Federal” for “The non-Federal”.
+<b>1992</b>—Subsec. (i). Pub. L. 102–580, §333(b)(2), substituted "Except as provided under section 2283(c) of this title, the non-Federal" for "The non-Federal".
 
 Subsec. (m). Pub. L. 102–580, §201(a), amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows:
 
-“(1)
+"(1)
 
 General rule.—Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay.
 
-“(2)
+"(2)
 
 Procedures.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Limitations.—The procedures established pursuant to this subsection shall provide for a reduction in any non-Federal cash contribution required under subsection (a)(2) of this section. In addition, such procedures shall provide for determination of the eligibility of the non-Federal interest for a reduction in the required cash contribution on the basis of local, not statewide, economic and financial data.
 
-&emsp;“(C)
+&emsp;"(C)
 
-Regulations.—Not later than 1 year after November 28, 1990, the Secretary shall issue regulations establishing the procedures required by this paragraph.”
+Regulations.—Not later than 1 year after November 28, 1990, the Secretary shall issue regulations establishing the procedures required by this paragraph."
 
-<b>1990</b>—Subsec. (m). Pub. L. 101–640 amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
+<b>1990</b>—Subsec. (m). Pub. L. 101–640 amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: "Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary."
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–303, title II, §202(a)(1)(B), Oct. 12, 1996, 110 Stat. 3673, provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to any project authorized after the date of the enactment of this Act \[Oct. 12, 1996\] and to any flood control project that is not specifically authorized by Congress for which a Detailed Project Report is approved after such date of enactment or, in the case of a project for which no Detailed Project Report is prepared, construction is initiated after such date of enactment.”
+Pub. L. 104–303, title II, §202(a)(1)(B), Oct. 12, 1996, 110 Stat. 3673, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall apply to any project authorized after the date of the enactment of this Act \[Oct. 12, 1996\] and to any flood control project that is not specifically authorized by Congress for which a Detailed Project Report is approved after such date of enactment or, in the case of a project for which no Detailed Project Report is prepared, construction is initiated after such date of enactment."
 
 Pub. L. 104–303, title II, §202(b)(2), Oct. 12, 1996, 110 Stat. 3674, provided that:
 
-“(A)
+"(A)
 
 Generally.—Subject to subparagraph (C), the amendment made by paragraph (1) \[amending this section\] shall apply to any project, or separable element thereof, with respect to which the Secretary and the non-Federal interest enter into a project cooperation agreement after December 31, 1997.
 
-“(B)
+"(B)
 
 Amendment of cooperation agreement.—If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendment made by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment.
 
-“(C)
+"(C)
 
-Non-federal option.—If requested by the non-Federal interest, the Secretary shall apply the criteria and procedures established pursuant to section 103(m) of the Water Resources Development Act of 1986 \[subsec. (m) of this section\] as in effect on the day before the date of the enactment of this Act for projects that are authorized before the date of the enactment of this Act.”
+Non-federal option.—If requested by the non-Federal interest, the Secretary shall apply the criteria and procedures established pursuant to section 103(m) of the Water Resources Development Act of 1986 \[subsec. (m) of this section\] as in effect on the day before the date of the enactment of this Act for projects that are authorized before the date of the enactment of this Act."
 
-\[Reference to “project cooperation agreement” deemed to be reference to “project partnership agreement”, see section 2003(f)(2) of Pub. L. 110–114, set out as a note under section 1962d–5b of Title 42, The Public Health and Welfare.\]
+\[Reference to "project cooperation agreement" deemed to be reference to "project partnership agreement", see section 2003(f)(2) of Pub. L. 110–114, set out as a note under section 1962d–5b of Title 42, The Public Health and Welfare.\]
 
-Pub. L. 104–303, title II, §210(b), Oct. 12, 1996, 110 Stat. 3681, provided that: “The amendments made by subsection (a) \[amending this section\] apply only to projects authorized after the date of the enactment of this Act \[Oct. 12, 1996\].”
+Pub. L. 104–303, title II, §210(b), Oct. 12, 1996, 110 Stat. 3681, provided that: "The amendments made by subsection (a) \[amending this section\] apply only to projects authorized after the date of the enactment of this Act \[Oct. 12, 1996\]."
 
 #### Continuation of Existing Regulations
 
-Pub. L. 101–640, title III, §305(b), Nov. 28, 1990, 104 Stat. 4635, provided that: “Regulations issued to carry out section 103(m) of the Water Resources Development Act of 1986 \[33 U.S.C. 2213(m)\] before the date of the enactment of this Act \[Nov. 28, 1990\] and in effect on such date shall continue in effect until regulations are issued pursuant to paragraph (2)(C) of such section, as added by subsection (a) of this section.”
+Pub. L. 101–640, title III, §305(b), Nov. 28, 1990, 104 Stat. 4635, provided that: "Regulations issued to carry out section 103(m) of the Water Resources Development Act of 1986 \[33 U.S.C. 2213(m)\] before the date of the enactment of this Act \[Nov. 28, 1990\] and in effect on such date shall continue in effect until regulations are issued pursuant to paragraph (2)(C) of such section, as added by subsection (a) of this section."
 
 #### Reports to Congress
 
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: “The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of section 103 of Public Law 99–662 \[33 U.S.C. 2213(m)\] indicating the action taken on the request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act \[July 11, 1987\] listing any project or study falling under the provisions of subsection (e)(1) of section 103 of Public Law 99–662.”
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: "The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of section 103 of Public Law 99–662 \[33 U.S.C. 2213(m)\] indicating the action taken on the request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act \[July 11, 1987\] listing any project or study falling under the provisions of subsection (e)(1) of section 103 of Public Law 99–662."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

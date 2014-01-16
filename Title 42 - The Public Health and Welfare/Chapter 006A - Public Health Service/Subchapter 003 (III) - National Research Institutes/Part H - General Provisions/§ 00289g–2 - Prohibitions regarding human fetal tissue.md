@@ -36,11 +36,11 @@ It shall be unlawful for any person or entity involved or engaged in interstate 
 
 For purposes of this section:
 
-&emsp;(1) The term “human fetal tissue” has the meaning given such term in section 289g–1(g) of this title.
+&emsp;(1) The term "human fetal tissue" has the meaning given such term in section 289g–1(g) of this title.
 
-&emsp;(2) The term “interstate commerce” has the meaning given such term in section 321(b) of title 21.
+&emsp;(2) The term "interstate commerce" has the meaning given such term in section 321(b) of title 21.
 
-&emsp;(3) The term “valuable consideration” does not include reasonable payments associated with the transportation, implantation, processing, preservation, quality control, or storage of human fetal tissue.
+&emsp;(3) The term "valuable consideration" does not include reasonable payments associated with the transportation, implantation, processing, preservation, quality control, or storage of human fetal tissue.
 
 (July 1, 1944, ch. 373, title IV, §498B, as added Pub. L. 103–43, title I, §112, June 10, 1993, 107 Stat. 131; amended Pub. L. 109–242, §2, July 19, 2006, 120 Stat. 570.)
 
@@ -48,7 +48,7 @@ For purposes of this section:
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–242, §2(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 109–242, §2(1), (3), redesignated subsec. (c) as (d) and substituted “(a), (b), or (c)” for “(a) or (b)” in par. (1). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 109–242, §2(1), (3), redesignated subsec. (c) as (d) and substituted "(a), (b), or (c)" for "(a) or (b)" in par. (1). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 109–242, §2(1), (4), redesignated subsec. (d) as (e) and substituted “section 289g–1(g)” for “section 289g–1(f)” in par. (1).
+Subsec. (e). Pub. L. 109–242, §2(1), (4), redesignated subsec. (d) as (e) and substituted "section 289g–1(g)" for "section 289g–1(f)" in par. (1).
 

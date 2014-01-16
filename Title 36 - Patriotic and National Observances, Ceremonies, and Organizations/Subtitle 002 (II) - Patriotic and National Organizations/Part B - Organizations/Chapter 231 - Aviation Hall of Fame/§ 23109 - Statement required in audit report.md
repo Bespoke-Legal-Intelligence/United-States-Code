@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 July 14, 1964, Pub. L. 88–372, §15(b) (2d sentence cl. (2)), 78 Stat. 318.
 
-The word “salaries” is omitted as unnecessary.
+The word "salaries" is omitted as unnecessary.
 
 #### Termination of Reporting Requirements
 

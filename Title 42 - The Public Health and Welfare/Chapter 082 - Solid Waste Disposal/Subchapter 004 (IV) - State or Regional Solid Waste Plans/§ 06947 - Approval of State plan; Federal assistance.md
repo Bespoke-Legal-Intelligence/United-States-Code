@@ -20,7 +20,7 @@ The Administrator shall, within six months after a State plan has been submitted
 
 (1) The Administrator shall approve a State application for financial assistance under this subchapter, and make grants to such State, if such State and local and regional authorities within such State have complied with the requirements of section 6946 of this title within the period required under such section and if such State has a State plan which has been approved by the Administrator under this subchapter.
 
-(2) The Administrator shall approve a State application for financial assistance under this subchapter, and make grants to such State, for fiscal years 1978 and 1979 if the Administrator determines that the State plan continues to be eligible for approval under subsection (a) of this section and is being implemented by the State.
+(2) The Administrator shall approve a State application for financial assistance under this subchapter, and make grants to such State, forfiscal years 1978 and 1979 if the Administrator determines that the State plan continues to be eligible for approval under subsection (a) of this section and is being implemented by the State.
 
 (3) Upon withdrawal of approval of a State plan under subsection (a) of this section, the Administrator shall withhold Federal financial and technical assistance under this subchapter (other than such technical assistance as may be necessary to assist in obtaining the reinstatement of approval) until such time as such approval is reinstated.
 
@@ -32,9 +32,9 @@ Nothing in this subchapter shall be construed to prevent or affect any activitie
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1), (2)(A). Pub. L. 104–119 substituted “section 6943(a) of this title” for “section 6943 of this title”.
+<b>1996</b>—Subsec. (a)(1), (2)(A). Pub. L. 104–119 substituted "section 6943(a) of this title" for "section 6943 of this title".
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–609 substituted “(c)” for “(C)” in subsection designation.
+<b>1978</b>—Subsec. (c). Pub. L. 95–609 substituted "(c)" for "(C)" in subsection designation.
 
 #### Transfer of Functions
 

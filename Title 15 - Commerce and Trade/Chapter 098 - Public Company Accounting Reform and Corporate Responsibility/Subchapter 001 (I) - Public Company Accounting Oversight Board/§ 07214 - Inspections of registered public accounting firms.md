@@ -28,7 +28,7 @@
 
 #### (2) Adjustments to schedules
 
-&emsp;The Board may, by rule, adjust the inspection schedules set under paragraph (1) if the Board finds that different inspection schedules are consistent with the purposes of this Act, the public interest, and the protection of investors. The Board may conduct special inspections at the request of the Commission or upon its own motion.
+&emsp;The Board may, by rule, adjust the inspection schedules set under paragraph (1) if the Board finds that different inspection schedules are consistent with the purposes of this Act,the public interest, and the protection of investors. The Board may conduct special inspections at the request of the Commission or upon its own motion.
 
 #### (c) Procedures
 
@@ -78,7 +78,7 @@ A written report of the findings of the Board for each inspection under this sec
 
 #### (2) Treatment of review
 
-&emsp;Any decision of the Commission with respect to a review under paragraph (1) shall not be reviewable under section 78y of this title, or deemed to be “final agency action” for purposes of section 704 of title 5.
+&emsp;Any decision of the Commission with respect to a review under paragraph (1) shall not be reviewable under section 78y of this title, or deemed to be "final agency action" for purposes of section 704 of title 5.
 
 #### (3) Timing
 
@@ -96,5 +96,5 @@ This Act, referred to in subsecs. (a)(1), (b), and (c), is Pub. L. 107–204, Ju
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 

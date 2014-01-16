@@ -1,6 +1,6 @@
 ### §2157. Annual report to Congress
 
-The Secretary of Defense shall include in the annual report of the Secretary to Congress under section 113(c) of this title, for the period covered by the report, the following information (which shall be shown for the Department of Defense as a whole and separately for the Army, Navy, Air Force, and Marine Corps and each reserve component):
+The Secretary of Defense shall include in the annual report of the Secretary to Congressunder section 113(c) of this title, for the period covered by the report, the following information (which shall be shown for the Department of Defense as a whole and separately for the Army, Navy, Air Force, and Marine Corps and each reserve component):
 
 &emsp;(1) The number of officers who successfully completed a joint professional military education Phase II course and were not selected for promotion.
 
@@ -10,5 +10,5 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 #### Amendments
 
-<b>2006</b>—Par. (1). Pub. L. 109–364 substituted “Phase” for “phase”.
+<b>2006</b>—Par. (1). Pub. L. 109–364 substituted "Phase" for "phase".
 

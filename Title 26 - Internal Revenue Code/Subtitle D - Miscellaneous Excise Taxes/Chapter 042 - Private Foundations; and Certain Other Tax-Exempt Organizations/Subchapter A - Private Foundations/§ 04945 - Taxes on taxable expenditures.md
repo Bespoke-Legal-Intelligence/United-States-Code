@@ -8,7 +8,7 @@
 
 #### (2) On the management
 
-&emsp;There is hereby imposed on the agreement of any foundation manager to the making of an expenditure, knowing that it is a taxable expenditure, a tax equal to 5 percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by anyfoundation manager who agreed to the making of the expenditure.
+&emsp;There is hereby imposed on the agreement of any foundation manager to the making of an expenditure, knowing that it is a taxable expenditure, a tax equal to 5 percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who agreed to the making of the expenditure.
 
 #### (b) Additional taxes
 
@@ -34,7 +34,7 @@ For purposes of subsections (a) and (b)—
 
 #### (d) Taxable expenditure
 
-For purposes of this section, the term “taxable expenditure” means any amount paid or incurred by a private foundation—
+For purposes of this section, the term "taxable expenditure" means any amount paid or incurred by a private foundation—
 
 &emsp;(1) to carry on propaganda, or otherwise to attempt, to influence legislation, within the meaning of subsection (e),
 
@@ -58,7 +58,7 @@ For purposes of this section, the term “taxable expenditure” means any amoun
 
 #### (e) Activities within subsection (d)(1)
 
-For purposes of subsection (d)(1), the term “taxable expenditure” means any amount paid or incurred by a private foundation for—
+For purposes of subsection (d)(1), the term "taxable expenditure" means any amount paid or incurred by a private foundation for—
 
 &emsp;(1) any attempt to influence any legislation through an attempt to affect the opinion of the general public or any segment thereof, and
 
@@ -80,7 +80,7 @@ Subsection (d)(2) shall not apply to any amount paid or incurred by any organiza
 
 &emsp;(5) contributions to which for voter registration drives are not subject to conditions that they may be used only in specified States, possessions of the United States, or political subdivisions or other areas of any of the foregoing, or the District of Columbia, or that they may be used in only one specific election period.
 
-> In determining whether the organization meets the requirements of paragraph (4) for any taxable year of such organization, there shall be taken into account the support received by such organization during such taxable year and during the immediately preceding 4 taxable years ofsuch organization (excluding therefrom any preceding taxable year which begins before January 1, 1970). Subsection (d)(4) shall not apply to any grant to an organization which meets the requirements of this subsection.
+> In determining whether the organization meets the requirements of paragraph (4) for any taxable year of such organization, there shall be taken into account the support received by such organization during such taxable year and during the immediately preceding 4 taxable years of such organization (excluding therefrom any preceding taxable year which begins before January 1, 1970). Subsection (d)(4) shall not apply to any grant to an organization which meets the requirements of this subsection.
 
 #### (g) Individual grants
 
@@ -108,17 +108,17 @@ For purposes of this section—
 
 #### (1) Correction
 
-&emsp;The terms “correction” and “correct” means, with respect to any taxable expenditure, (A) recovering part or all of the expenditure to the extent recovery is possible, and where full recovery is not possible such additional corrective action as is prescribed by the Secretary by regulations, or (B) in the case of a failure to comply with subsection (h)(2) or (h)(3), obtaining or making the report in question.
+&emsp;The terms "correction" and "correct" means, with respect to any taxable expenditure, (A) recovering part or all of the expenditure to the extent recovery is possible, and where full recovery is not possible such additional corrective action as is prescribed by the Secretary by regulations, or (B) in the case of a failure to comply with subsection (h)(2) or (h)(3), obtaining or making the report in question.
 
 #### (2) Taxable period
 
-&emsp;The term “taxable period” means, with respect to any taxable expenditure, the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of—
+&emsp;The term "taxable period" means, with respect to any taxable expenditure, the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of—
 
 &emsp;&emsp;(A) the date of mailing a notice of deficiency with respect to the tax imposed by subsection (a)(1) under section 6212, or
 
 &emsp;&emsp;(B) the date on which the tax imposed by subsection (a)(1) is assessed.
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 512; amended Pub. L. 94–455, title XIX, §§1901(b)(8)(H), 1906(b)(13(A), Oct. 4, 1976, 90 Stat. 1795, 1834; Pub. L. 96–596, §2(a)(1)(F), (2)(E), Dec. 24, 1980, 94 Stat. 3469, 3470; Pub. L. 98–369, div. A, title III, §302(b), July 18, 1984, 98 Stat. 780; Pub. L. 99–514, title I, §122(a)(2)(B), Oct. 22, 1986, 100 Stat. 2110; Pub. L. 100–647, title I, §1001(d)(1)(B), Nov. 10, 1988, 102 Stat. 3350; Pub. L. 109–280, title XII, §§1212(e), 1244(b), Aug. 17, 2006, 120 Stat. 1074, 1107.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 512; amended Pub. L. 94–455, titleXIX, §§1901(b)(8)(H), 1906(b)(13(A), Oct. 4, 1976, 90 Stat. 1795, 1834; Pub. L. 96–596, §2(a)(1)(F), (2)(E), Dec. 24, 1980, 94 Stat. 3469, 3470; Pub. L. 98–369, div. A, title III, §302(b), July 18, 1984, 98 Stat. 780; Pub. L. 99–514, title I, §122(a)(2)(B), Oct. 22, 1986, 100 Stat. 2110; Pub. L. 100–647, title I, §1001(d)(1)(B), Nov. 10, 1988, 102 Stat. 3350; Pub. L. 109–280, title XII, §§1212(e), 1244(b), Aug. 17, 2006, 120 Stat. 1074, 1107.)
 
 #### References in Text
 
@@ -130,27 +130,27 @@ Sections 1212(e) and 1244(b) of Pub. L. 109–280, which directed the amendment 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §1212(e)(1)(A), substituted “20 percent” for “10 percent”. See Codification note above.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §1212(e)(1)(A), substituted "20 percent" for "10 percent". See Codification note above.
 
-Subsec. (a)(2). Pub. L. 109–280, §1212(e)(1)(B), substituted “5 percent” for “2½ percent”. See Codification note above.
+Subsec. (a)(2). Pub. L. 109–280, §1212(e)(1)(B), substituted "5 percent" for "2½ percent". See Codification note above.
 
-Subsec. (c)(2). Pub. L. 109–280, §1212(e)(2), substituted “$10,000,” for “$5,000,” and “$20,000.” for “$10,000.” See Codification note above.
+Subsec. (c)(2). Pub. L. 109–280, §1212(e)(2), substituted "$10,000," for "$5,000," and "$20,000." for "$10,000." See Codification note above.
 
-Subsec. (d)(4)(A). Pub. L. 109–280, §1244(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such organization is described in paragraph (1), (2), or (3) of section 509(a) or is an exempt operating foundation (as defined in section 4940(d)(2)), or”. See Codification note above.
+Subsec. (d)(4)(A). Pub. L. 109–280, §1244(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "such organization is described in paragraph (1), (2), or (3) of section 509(a) or is an exempt operating foundation (as defined in section 4940(d)(2)), or". See Codification note above.
 
-<b>1988</b>—Subsec. (g)(1). Pub. L. 100–647 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the grant constitutes a scholarship or fellowship grant which is subject to the provisions of section 117(a) and is to be used for study at an educational organization described in section 170(b)(1)(A)(ii),”.
+<b>1988</b>—Subsec. (g)(1). Pub. L. 100–647 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "the grant constitutes a scholarship or fellowship grant which is subject to the provisions of section 117(a) and is to be used for study at an educational organization described in section 170(b)(1)(A)(ii),".
 
-<b>1986</b>—Subsec. (g)(2). Pub. L. 99–514 inserted “(without regard to paragraph (3) thereof)” after “section 74(b)”.
+<b>1986</b>—Subsec. (g)(2). Pub. L. 99–514 inserted "(without regard to paragraph (3) thereof)" after "section 74(b)".
 
 <b>1984</b>—Subsec. (d)(4). Pub. L. 98–369, in amending par. (4) generally, divided existing provisions into subpars. (A) and (B) and inserted reference in subpar. (A) to exempt foundations (as defined in section 4940(d)(2)).
 
-<b>1980</b>—Subsec. (b)(1). Pub. L. 96–596, §2(a)(1)(F), substituted “taxable period” for “correction period”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–596, §2(a)(1)(F), substituted "taxable period" for "correction period".
 
 Subsec. (i)(2). Pub. L. 96–596, §2(a)(2)(E), substituted provision defining taxable period as the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of the date of mailing a notice of deficiency with respect to the tax imposed by subsec. (a)(1) of this section under section 6212 of this title or the date on which the tax imposed by subsec. (a)(1) of this section is assessed for provision defining correction period as the period beginning with the date on which the taxable expenditure occurs and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under section 6212 of this title, extended by any period in which the deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines to be reasonable and necessary, except that such determination not be made with respect to any taxable expenditure within the meaning of pars. (1), (2), (3), or (4) of subsec. (d) of this section because of any action by an appropriate State officer.
 
-<b>1976</b>—Subsec. (g). Pub. L. 94–455, §§1901(b)(8)(H), 1906(b)(13)(A), struck out in provisions preceding par. (1) “or his delegate” after “Secretary” and substituted in par. (1) “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution described in section 151(e)(4)”.
+<b>1976</b>—Subsec. (g). Pub. L. 94–455, §§1901(b)(8)(H), 1906(b)(13)(A), struck out in provisions preceding par. (1) "or his delegate" after "Secretary" and substituted in par. (1) "educational organization described in section 170(b)(1)(A)(ii)" for "educational institution described in section 151(e)(4)".
 
-Subsecs. (h), (i). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+Subsecs. (h), (i). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 2006 Amendment
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 99–514 applicable to prizes and awards granted after Dec.
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title III, §302(c)(2), July 18, 1984, 98 Stat. 781, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to grants made after December 31, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title III, §302(c)(2), July 18, 1984, 98 Stat. 781, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply to grants made after December 31, 1984, in taxable years ending after such date."
 
 #### Effective Date of 1980 Amendment
 

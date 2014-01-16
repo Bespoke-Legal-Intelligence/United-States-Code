@@ -12,7 +12,7 @@ This is a criminal statute. The language has been considerably simplified and th
 
 #### Amendments
 
-<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 1975 Amendment
 

@@ -4,11 +4,11 @@ In this part:
 
 #### (1) State
 
-&emsp;The term “State” means each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;The term "State" means each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 #### (2) State educational agency
 
-&emsp;The term “State educational agency” means—
+&emsp;The term "State educational agency" means—
 
 &emsp;&emsp;(A) a State educational agency (as defined in section 12511 of this title) of a State; or
 

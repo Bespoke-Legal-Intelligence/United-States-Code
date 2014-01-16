@@ -172,7 +172,7 @@ In carrying out any conservation program administered by the Secretary, the Secr
 
 #### (1) In general
 
-&emsp;In carrying out each conservation program under this chapter, the Secretary shall ensurethat the application process used by producers and landowners is streamlined to minimize complexity and eliminate redundancy.
+&emsp;In carrying out each conservation program under this chapter, the Secretary shall ensure that the application process used by producers and landowners is streamlined to minimize complexity and eliminate redundancy.
 
 #### (2) Review and streamlining
 
@@ -200,9 +200,9 @@ In carrying out any conservation program administered by the Secretary, the Secr
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2)(D)(ii) and (i)(1), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+This chapter, referred to in subsecs. (b)(2)(D)(ii) and (i)(1), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
-Subpart C of part I of subchapter IV, referred to in subsec. (f)(4), was in the original “subchapter C of chapter 1”, and was translated as meaning “subchapter C of chapter 1 of subtitle D” to reflect the probable intent of Congress.
+Subpart C of part I of subchapter IV, referred to in subsec. (f)(4), was in the original "subchapter C of chapter 1", and was translated as meaning "subchapter C of chapter 1 of subtitle D" to reflect the probable intent of Congress.
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (i)(3), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -218,23 +218,23 @@ A prior section 3844, Pub. L. 99–198, title XII, §1244, Dec. 23, 1985, 99 Sta
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2708(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers and Indian tribes (as those terms are defined in section 3838 of this title) and limited resource agricultural producers incentives to participate in the conservation program to—
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2708(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers and Indian tribes (as those terms are defined in section 3838 of this title) and limited resource agricultural producers incentives to participate in the conservation program to—
 
-&emsp;“(1) foster new farming and ranching opportunities; and
+&emsp;"(1) foster new farming and ranching opportunities; and
 
-&emsp;“(2) enhance environmental stewardship over the long term.”
+&emsp;"(2) enhance environmental stewardship over the long term."
 
 Subsecs. (c) to (e). Pub. L. 110–246, §2707(a), transferred subsecs. (a), (c), and (d) of section 3843 of this title and redesignated them as subsecs. (c) to (e), respectively, of this section. See Codification note above.
 
 Subsecs. (f) to (i). Pub. L. 110–246, §2708(2), added subsecs. (f) to (i).
 
-<b>2004</b>—Subsec. (b)(4)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(4)(B). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “county”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "county".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

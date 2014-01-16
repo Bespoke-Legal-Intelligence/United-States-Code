@@ -108,11 +108,11 @@ An eligible partnership shall use funds provided under this part for one or more
 
 &emsp;(7) Designing programs to prepare a mathematics or science teacher at a school to provide professional development to other mathematics or science teachers at the school and to assist beginning and other teachers at the school, including (if applicable) a mechanism to integrate the teacher's experiences from a summer workshop or institute into the provision of professional development and assistance.
 
-&emsp;(8) Establishing and operating programs to bring mathematics and science teachers into contact with working scientists, mathematicians, and engineers, to expand such teachers’ subject matter knowledge of and research in science and mathematics.
+&emsp;(8) Establishing and operating programs to bring mathematics and science teachers into contact with working scientists, mathematicians, and engineers, to expand such teachers' subject matter knowledge of and research in science and mathematics.
 
 &emsp;(9) Designing programs to identify and develop exemplary mathematics and science teachers in the kindergarten through grade 8 classrooms.
 
-&emsp;(10) Training mathematics and science teachers and developing programs to encourage young women and other underrepresented individuals in mathematics and science careers (including engineering and technology)to pursue postsecondary degrees in majors leading to such careers.
+&emsp;(10) Training mathematics and science teachers and developing programs to encourage young women and other underrepresented individuals in mathematics and science careers (including engineering and technology) to pursue postsecondary degrees in majors leading to such careers.
 
 #### (d) Coordination and consultation
 
@@ -154,7 +154,7 @@ Each eligible partnership receiving a grant or subgrant under this part shall re
 
 #### References in Text
 
-Section 1023 of this title, referred to in subsec. (d)(1), was in the original a reference to section 203 of the Higher Education Act of 1965, Pub. L. 89–329. Section 203 of Pub. L. 89–329 was repealed by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133. Pub. L. 110–315 enacted a new section 203 of Pub. L. 89–329, which relates to administrative provisions, and is classified to section 1022b of this title.
+Section 1023 of this title, referred to in subsec. (d)(1), was in the original a reference to section 203 of theHigher Education Act of 1965, Pub. L. 89–329. Section 203 of Pub. L. 89–329 was repealed by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133. Pub. L. 110–315 enacted a new section 203 of Pub. L. 89–329, which relates to administrative provisions, and is classified to section 1022b of this title.
 
 #### Prior Provisions
 

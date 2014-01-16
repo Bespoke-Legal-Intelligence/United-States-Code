@@ -68,7 +68,7 @@ The Commission established pursuant to this subchapter shall cease to exist seve
 
 #### Amendments
 
-<b>1987</b>—Subsec. (e)(2). Pub. L. 100–134, §1(2), substituted “until his successor is appointed” for “for a period not longer than thirty days”.
+<b>1987</b>—Subsec. (e)(2). Pub. L. 100–134, §1(2), substituted "until his successor is appointed" for "for a period not longer than thirty days".
 
-Subsec. (i). Pub. L. 100–134, §1(3), substituted “seventeen” for “ten”.
+Subsec. (i). Pub. L. 100–134, §1(3), substituted "seventeen" for "ten".
 

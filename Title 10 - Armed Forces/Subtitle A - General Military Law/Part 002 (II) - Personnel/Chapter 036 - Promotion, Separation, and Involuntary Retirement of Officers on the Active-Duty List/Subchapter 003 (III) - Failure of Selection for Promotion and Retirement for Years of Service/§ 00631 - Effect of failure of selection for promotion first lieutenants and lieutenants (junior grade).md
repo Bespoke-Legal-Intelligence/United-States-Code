@@ -18,11 +18,11 @@
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(3). Pub. L. 108–136 substituted “paragraph” for “clause”.
+<b>2003</b>—Subsec. (a)(3). Pub. L. 108–136 substituted "paragraph" for "clause".
 
-<b>2001</b>—Pub. L. 107–107, §505(d)(4)(B), struck out “regular” before “first lieutenants” in section catchline.
+<b>2001</b>—Pub. L. 107–107, §505(d)(4)(B), struck out "regular" before "first lieutenants" in section catchline.
 
-Subsec. (a). Pub. L. 107–107, §505(d)(3), in introductory provisions, substituted “Army, Air Force, or Marine Corps on the active-duty list” for “Regular Army, Regular Air Force, or Regular Marine Corps” and “Navy on the active-duty list” for “Regular Navy” and struck out “regular” before “grade” wherever appearing.
+Subsec. (a). Pub. L. 107–107, §505(d)(3), in introductory provisions, substituted "Army, Air Force, or Marine Corps on the active-duty list" for "Regular Army, Regular Air Force, or Regular Marine Corps" and "Navy on the active-duty list" for "Regular Navy" and struck out "regular" before "grade" wherever appearing.
 
 Subsec. (d). Pub. L. 107–107, §505(a)(2), added subsec. (d).
 

@@ -6,5 +6,5 @@ No System institution may make a loan secured by a mortgage or lien on agricultu
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–354 struck out “agricultural loan” before “mediation program”.
+<b>1994</b>—Pub. L. 103–354 struck out "agricultural loan" before "mediation program".
 

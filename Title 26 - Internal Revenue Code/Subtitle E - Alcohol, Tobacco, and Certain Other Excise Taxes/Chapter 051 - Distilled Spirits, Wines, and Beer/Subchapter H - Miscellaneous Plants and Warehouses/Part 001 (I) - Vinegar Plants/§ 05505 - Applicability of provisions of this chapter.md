@@ -64,7 +64,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 63
 
 #### Amendments
 
-<b>1976</b>—Subsec. (i). Pub. L. 94–455 struck out “5601(b)(1),” after “5601(a)(1), (6), and (12),”.
+<b>1976</b>—Subsec. (i). Pub. L. 94–455 struck out "5601(b)(1)," after "5601(a)(1), (6), and (12),".
 
 #### Effective Date of 1976 Amendment
 

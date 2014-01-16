@@ -38,7 +38,7 @@ In the aggregate, not more than 40 percent of the qualified debt of an eligible 
 
 #### (f) Administration
 
-The Facility shall notify the Commodity Credit Corporation of purchasers and payors the President has determined to be eligible undersubsection (c) of this section, and shall direct the corporation to carry out the sale, reduction, or cancellation of a qualified debt pursuant to this section. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect such sale, reduction, or cancellation.
+The Facility shall notify the Commodity Credit Corporation of purchasers and payors the President has determined to be eligible under subsection (c) of this section, and shall direct the corporation to carry out the sale, reduction, or cancellation of a qualified debt pursuant to this section. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect such sale, reduction, or cancellation.
 
 #### (g) Appropriations requirement
 
@@ -50,7 +50,7 @@ The proceeds from the sale, reduction, or cancellation of qualified debt pursuan
 
 #### (i) Eligible debt swaps
 
-As used in this section, the term “eligible debt swap” means a debt-for-development swap or debt-for-nature swap.
+As used in this section, the term "eligible debt swap" means a debt-for-development swap or debt-for-nature swap.
 
 (July 10, 1954, ch. 469, title VI, §617, as added Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3510.)
 

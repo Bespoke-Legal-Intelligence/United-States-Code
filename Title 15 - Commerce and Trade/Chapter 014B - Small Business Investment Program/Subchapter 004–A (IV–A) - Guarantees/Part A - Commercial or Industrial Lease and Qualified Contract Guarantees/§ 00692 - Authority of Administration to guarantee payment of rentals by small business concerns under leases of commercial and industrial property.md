@@ -26,11 +26,15 @@ In connection with the guarantee of rentals under any lease pursuant to authorit
 
 (Pub. L. 85–699, title IV, §401, as added Pub. L. 89–117, title III, §316(a), Aug. 10, 1965, 79 Stat. 482; amended Pub. L. 90–104, title II, §209, Oct. 11, 1967, 81 Stat. 271; Pub. L. 91–609, title IX, §911(a)(2), Dec. 31, 1970, 84 Stat. 1812.)
 
+#### Prior Provisions
+
+A prior section 401 of Pub. L. 85–699 was classified to section 691 of this title, prior to repeal by Pub. L. 87–341, §11(f), Oct. 3, 1961, 75 Stat. 756.
+
 #### Amendments
 
-<b>1970</b>—Subsecs. (b), (c)(4). Pub. L. 91–609 substituted “part” for “title”.
+<b>1970</b>—Subsecs. (b), (c)(4). Pub. L. 91–609 substituted "part" for "title".
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–104 struck out from introductory text “that are (1) eligible for loans under section 636(b)(3) of this title, or (2) eligible for loans under subchapter IV of chapter 34 of Title 42,” after “small business concerns”.
+<b>1967</b>—Subsec. (a). Pub. L. 90–104 struck out from introductory text "that are (1) eligible for loans under section 636(b)(3) of this title, or (2) eligible for loans under subchapter IV of chapter 34 of Title 42," after "small business concerns".
 
 #### Effective Date of 1967 Amendment
 

@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Aug. 18, 1942, ch. 553, §7, 56 Stat. 747.
 
-The words “taking or” before “appropriation” and the words “taken or” before “appropriated” are omitted as surplusage.
+The words "taking or" before "appropriation" and the words "taken or" before "appropriated" are omitted as surplusage.
 
 #### Reciprocal Privileges
 

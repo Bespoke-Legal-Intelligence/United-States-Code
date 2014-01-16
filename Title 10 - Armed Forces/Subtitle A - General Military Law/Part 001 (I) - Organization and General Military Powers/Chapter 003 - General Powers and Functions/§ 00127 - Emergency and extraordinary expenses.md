@@ -1,6 +1,6 @@
 ### §127. Emergency and extraordinary expenses
 
-(a) Subject to the limitations of subsection (c), and within the limitation of appropriations made for the purpose, the Secretary of Defense, the Inspector General of the Department of Defense, and the Secretary of a military department within his department, may provide for any emergency or extraordinary expense which cannot be anticipated or classified. When it is so provided in such an appropriation, the funds may be spent on approval or authority of the Secretary concerned or the Inspector General for any purpose he determines to be proper, and such a determination is final and conclusive upon the accounting officers of the United States. The Secretary concerned or the Inspector General may certify the amount of any such expenditure authorized by him that he considers advisable not to specify, and his certificate is sufficient voucher for the expenditure of that amount.
+(a) Subject to the limitations of subsection (c), and within the limitation of appropriations made for the purpose, the Secretary of Defense, the Inspector General of the Department of Defense, and the Secretary of a military department within his department, may provide for any emergency or extraordinary expense which cannot be anticipated or classified. When it is so provided in such an appropriation, the funds may be spent on approval or authority of the Secretary concerned or the Inspector General for any purpose he determines to be proper, and such a determination is final and conclusive upon the accounting officers of the UnitedStates. The Secretary concerned or the Inspector General may certify the amount of any such expenditure authorized by him that he considers advisable not to specify, and his certificate is sufficient voucher for the expenditure of that amount.
 
 (b) The authority conferred by this section may be delegated by the Secretary of Defense to any person in the Department of Defense, by the Inspector General to any person in the Office of the Inspector General, or by the Secretary of a military department to any person within his department, with or without the authority to make successive redelegations.
 
@@ -22,29 +22,29 @@ Annual Report.—Not later than December 1 each year, the Secretary of Defense s
 
 #### Amendments
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–136 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which funds are expended under the authority of subsections (a) and (b), the Secretary of Defense shall submit a report of such expenditures on a quarterly basis to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In any case in which funds are expended under the authority of subsections (a) and (b), the Secretary of Defense shall submit a report of such expenditures on a quarterly basis to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives."
 
-<b>1999</b>—Subsecs. (c)(1), (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsecs. (c)(1), (d). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–106, §915(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Pub. L. 104–106, §1502(a)(5), substituted “Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of” for “Committees on Armed Services and Appropriations of the Senate and”.
+Pub. L. 104–106, §1502(a)(5), substituted "Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of" for "Committees on Armed Services and Appropriations of the Senate and".
 
 Subsec. (d). Pub. L. 104–106, §915(1), redesignated subsec. (c), as amended by Pub. L. 104–106, §§1502(a)(5), 1506, as (d).
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–337 struck out par. (1) designation before “In any case” and struck out par. (2)which read as follows: “The amount of funds expended by the Inspector General of the Department of Defense under subsections (a) and (b) during a fiscal year may not exceed $400,000.”
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 struck out par. (1) designation before "In any case" and struck out par. (2) which read as follows: "The amount of funds expended by the Inspector General of the Department of Defense under subsections (a) and (b) during a fiscal year may not exceed $400,000."
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–160, §361(1), inserted “, the Inspector General of the Department of Defense,” after “the Secretary of Defense” and “or the Inspector General” after “the Secretary concerned” and after “The Secretary concerned”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, §361(1), inserted ", the Inspector General of the Department of Defense," after "the Secretary of Defense" and "or the Inspector General" after "the Secretary concerned" and after "The Secretary concerned".
 
-Subsec. (b). Pub. L. 103–160, §361(2), inserted “, by the Inspector General to any person in the Office of the Inspector General,” after “the Department of Defense”.
+Subsec. (b). Pub. L. 103–160, §361(2), inserted ", by the Inspector General to any person in the Office of the Inspector General," after "the Department of Defense".
 
 Subsec. (c). Pub. L. 103–160, §361(3), designated existing provisions as par. (1) and added par. (2).
 
-<b>1986</b>—Pub. L. 99–433 renumbered section 140 of this title as this section and substituted “Emergency” for “Emergencies” in section catchline.
+<b>1986</b>—Pub. L. 99–433 renumbered section 140 of this title as this section and substituted "Emergency" for "Emergencies" in section catchline.
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–94 struck out “of this section” after “subsection (c)”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–94 struck out "of this section" after "subsection (c)".
 
-Subsec. (c). Pub. L. 98–94 struck out “of this section” after “subsections (a) and (b)”.
+Subsec. (c). Pub. L. 98–94 struck out "of this section" after "subsections (a) and (b)".
 
 #### Construction Authority of Secretary of Defense Under Declaration of War or National Emergency
 

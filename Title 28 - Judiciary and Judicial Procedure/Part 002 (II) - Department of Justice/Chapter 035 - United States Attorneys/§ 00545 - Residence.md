@@ -1,6 +1,6 @@
 ### §545. Residence
 
-(a) Each United States attorney shall reside in the district for which he is appointed, except that these officers of the District of Columbia, the Southern District of New York, and the Eastern District of New York may reside within 20 miles thereof. Each assistant United States attorney shall reside in the district for which he or she is appointed or within 25 miles thereof. The provisions of this subsection shall not apply to any United States attorney or assistant United States attorney appointed for the Northern Mariana Islands who at the same time is serving in the same capacity in another district. Pursuant to an order from the Attorney General or his designee, a United States attorney or an assistant United States attorney may be assigned dual or additional responsibilities that exempt such officer from the residency requirement in this subsection for a specific period as established by the order and subject to renewal.
+(a) Each United States attorney shall reside in the district for which he is appointed, except that these officers of the District of Columbia, the Southern District of New York, and the Eastern District of New York may reside within 20 miles thereof. Each assistant United States attorney shall reside in the district for which he or she is appointed or within 25 miles thereof.The provisions of this subsection shall not apply to any United States attorney or assistant United States attorney appointed for the Northern Mariana Islands who at the same time is serving in the same capacity in another district. Pursuant to an order from the Attorney General or his designee, a United States attorney or an assistant United States attorney may be assigned dual or additional responsibilities that exempt such officer from the residency requirement in this subsection for a specific period as established by the order and subject to renewal.
 
 (b) The Attorney General may determine the official stations of United States attorneys and assistant United States attorneys within the districts for which they are appointed.
 
@@ -22,7 +22,7 @@ Act
 
 \[None\].
 
-In subsection (a), the word “shall” is substituted for “must”. The word “thereof” is substituted for “of the District”.
+In subsection (a), the word "shall" is substituted for "must". The word "thereof" is substituted for "of the District".
 
 #### 1948 Act
 
@@ -44,9 +44,9 @@ A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacanc
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–177 inserted at end “Pursuant to an order from the Attorney General or his designee, a United States attorney or an assistant United States attorney may be assigned dual or additional responsibilities that exempt such officer from the residency requirement in this subsection for a specific period as established by the order and subject to renewal.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–177 inserted at end "Pursuant to an order from the Attorney General or his designee, a United States attorney or an assistant United States attorney may be assigned dual or additional responsibilities that exempt such officer from the residency requirement in this subsection for a specific period as established by the order and subject to renewal."
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 struck out “and assistant United States attorney” after “Each United States attorney” and inserted after first sentence “Each assistant United States attorney shall reside in the district for which he or she is appointed or within 25 miles thereof.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 struck out "and assistant United States attorney" after "Each United States attorney" and inserted after first sentence "Each assistant United States attorney shall reside in the district for which he or she is appointed or within 25 miles thereof."
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–91 inserted provisions authorizing the United States attorney and the assistant United States attorneys for the Eastern District of New York to reside outside the district but within 20 miles thereof.
 
@@ -54,5 +54,5 @@ A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacanc
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–177, title V, §501(b), Mar. 9, 2006, 120 Stat. 246, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of February 1, 2005.”
+Pub. L. 109–177, title V, §501(b), Mar. 9, 2006, 120 Stat. 246, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as of February 1, 2005."
 

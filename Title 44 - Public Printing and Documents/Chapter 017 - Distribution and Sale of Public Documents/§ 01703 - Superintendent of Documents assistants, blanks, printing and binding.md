@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §74 (Jan. 12, 1895, ch. 23, §66, 28 Stat. 611
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–520 struck out before period at end of first sentence “, the cost to be charged against the appropriation for printing and binding for Congress”.
+<b>1990</b>—Pub. L. 101–520 struck out before period at end of first sentence ", the cost to be charged against the appropriation for printing and binding for Congress".
 

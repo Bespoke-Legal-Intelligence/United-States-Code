@@ -20,13 +20,13 @@ This section does not prohibit the transport of a gambling device to a place in 
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I\(§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–251, §202(a)(1), (3), (4), designated existing provisions as subsecs. (a) and (b), inserted headings, and added subsec. (c).
 
-Pub. L. 102–251, §202(a)(2), which directed that “, District of Columbia,” be struck out in subsec. (a), was executed by striking out “, the District of Columbia,” after “place in a State” and “outside of such State” to reflect the probable intent of Congress.
+Pub. L. 102–251, §202(a)(2), which directed that ", District of Columbia," be struck out in subsec. (a), was executed by striking out ", the District of Columbia," after "place in a State" and "outside of such State" to reflect the probable intent of Congress.
 
 <b>1962</b>—Pub. L. 87–840 excepted gambling devices used or designed for use at and transported to licensed gambling establishments where betting is legal under State laws, and provided that it shall not be unlawful to transport such devices into any State in which the device is specifically enumerated as lawful in a State statute.
 

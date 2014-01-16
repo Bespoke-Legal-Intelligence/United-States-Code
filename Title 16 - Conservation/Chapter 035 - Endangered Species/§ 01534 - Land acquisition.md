@@ -26,5 +26,5 @@ The Land and Water Conservation Fund Act of 1965, as amended, referred to in sub
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–632, among other changes in text preceding par. (1), inserted reference to the Secretary of Agriculture with respect to the National Forest System and substituted the establishment and implementation of a plan to conserve plants for the establishment and implementation of a plan to conserve plants which were concluded in Appendices to the Convention.
+<b>1978</b>—Subsec. (a). Pub. L. 95–632, among other changes in text preceding par. (1), inserted reference to the Secretary of Agriculture with respect to the National Forest System and substituted the establishment and implementation of a plan to conserve plants for the establishment and implementation of a plan to conserveplants which were concluded in Appendices to the Convention.
 

@@ -28,7 +28,7 @@ In a case of actual controversy involving—
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted “whether interest on prospective obligations will be excludable from gross income under section 103(a)” for “whether prospective obligations are described in section 103(a)” in par. (1) and “whether interest on such prospective obligations will be excludable from gross income under section 103(a)” for “whether such prospective obligations are described in section 103(a)” in concluding provisions.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted "whether interest on prospective obligations will be excludable from gross income under section 103(a)" for "whether prospective obligations are described in section 103(a)" in par. (1) and "whether interest on such prospective obligations will be excludable from gross income under section 103(a)" for "whether such prospective obligations are described in section 103(a)" in concluding provisions.
 
 #### Effective Date of 1988 Amendment
 
@@ -36,5 +36,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Pub. L. 95–600, title III, §336(d), Nov. 6, 1978, 92 Stat. 2842, provided that: “The amendments made by this section \[enacting this section and amending sections 7456, 7476, 7477, and 7482 of this title\] shall apply to requests for determinations made after December 31, 1978.”
+Pub. L. 95–600, title III, §336(d), Nov. 6, 1978, 92 Stat. 2842, provided that: "The amendments made by this section \[enacting this section and amending sections 7456, 7476, 7477, and 7482 of this title\] shall apply to requests for determinations made after December 31, 1978."
 

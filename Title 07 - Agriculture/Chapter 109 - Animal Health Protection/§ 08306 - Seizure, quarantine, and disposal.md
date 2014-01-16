@@ -32,9 +32,9 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 &emsp;&emsp;The Secretary may take action in a State under this subsection only on finding that measures being taken by the State are inadequate to control or eradicate the pest or disease, after review and consultation with—
 
-&emsp;&emsp;&emsp;“(i) <sup>1</sup> the Governor or an appropriate animal health official of the State; or
+&emsp;&emsp;&emsp;"(i) <sup>1</sup> the Governor or an appropriate animal health official of the State; or
 
-&emsp;&emsp;&emsp;“(ii) <sup>1</sup> in the case of any animal, article, facility, or means of conveyance under the jurisdiction of an Indian tribe, the head of the Indian tribe.
+&emsp;&emsp;&emsp;"(ii) <sup>1</sup> in the case of any animal, article, facility, or means of conveyance under the jurisdiction of an Indian tribe, the head of the Indian tribe.
 
 #### (B) Notice
 
@@ -92,7 +92,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 #### (C) Reviewability
 
-&emsp;&emsp;The determination by the Secretary of the amount to be paid under this subsectionshall be final and not subject to judicial review or review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
+&emsp;&emsp;The determination by the Secretary of the amount to be paid under this subsection shall be final and not subject to judicial review or review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
 #### (3) Exceptions
 
@@ -110,7 +110,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d)(3), was in the original “this subtitle”, meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (d)(3), was in the original "this subtitle", meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Codification
 
@@ -118,7 +118,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(2)(C). Pub. L. 110–246, §11011(1), struck out “of longer than 60 days” after “or review”.
+<b>2008</b>—Subsec. (d)(2)(C). Pub. L. 110–246, §11011(1), struck out "of longer than 60 days" after "or review".
 
 #### Effective Date of 2008 Amendment
 

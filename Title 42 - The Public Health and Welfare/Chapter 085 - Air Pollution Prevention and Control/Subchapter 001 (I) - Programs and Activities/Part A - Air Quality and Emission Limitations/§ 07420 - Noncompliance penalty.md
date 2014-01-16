@@ -46,7 +46,7 @@ Regulations under subsection (a) of this section shall—
 
 &emsp;&emsp;(A) the State does not have a delegation of authority in effect under subsection (a)(1)(B)(i) of this section, or
 
-&emsp;&emsp;(B) the State has such a delegation in effect but fails with respect to any particularperson or source to assess or collect the penalty in accordance with the requirements of this section;
+&emsp;&emsp;(B) the State has such a delegation in effect but fails with respect to any particular person or source to assess or collect the penalty in accordance with the requirements of this section;
 
 &emsp;(3) require the States, or in the event the States fail to do so, the Administrator, to give a brief but reasonably specific notice of noncompliance under this section to each person referred to in subsection (a)(2)(A) of this section with respect to each source owned or operated by such person which is not in compliance as provided in such subsection, not later than July 1, 1979, or thirty days after the discovery of such noncompliance, whichever is later;
 
@@ -86,7 +86,7 @@ If the owner or operator of any stationary source to whom a notice is issued und
 
 &emsp;(A) the amount determined in accordance with regulations promulgated by the Administrator under subsection (a) of this section, which is no less than the economic value which a delay in compliance beyond July 1, 1979, may have for the owner of such source, including the quarterly equivalent of the capital costs of compliance and debt service over a normal amortization period, not to exceed ten years, operation and maintenance costs foregone as a result of noncompliance, and any additional economic value which such a delay may have for the owner or operator of such source, minus
 
-&emsp;(B) the amount of any expenditure made by the owner or operator of that source duringany such quarter for the purpose of bringing that source into, and maintaining compliance with, such requirement, to the extent that such expenditures have not been taken into account in the calculation of the penalty under subparagraph (A).
+&emsp;(B) the amount of any expenditure made by the owner or operator of that source during any such quarter for the purpose of bringing that source into, and maintaining compliance with, such requirement, to the extent that such expenditures have not been taken into account in the calculation of the penalty under subparagraph (A).
 
 > To the extent that any expenditure under subparagraph (B) made during any quarter is not subtracted for such quarter from the costs under subparagraph (A), such expenditure may be subtracted for any subsequent quarter from such costs. In no event shall the amount paid be less than the quarterly payment minus the amount attributed to actual cost of construction.
 
@@ -94,7 +94,7 @@ If the owner or operator of any stationary source to whom a notice is issued und
 
 (B) The first payment shall be due on the date six months after the date of issuance of the notice of noncompliance under subsection (b)(3) of this section with respect to any source or on January 1, 1980, whichever is later. Such first payment shall be in the amount of the quarterly installment for the upcoming quarter, plus the amount owed for any preceding period within the period of covered noncompliance for such source.
 
-(C) For the purpose of this section, the term “period of covered noncompliance” means the period which begins—
+(C) For the purpose of this section, the term "period of covered noncompliance" means the period which begins—
 
 &emsp;(i) two years after August 7, 1977, in the case of a source for which notice of noncompliance under subsection (b)(3) of this section is issued on or before the date two years after August 7, 1977, or
 
@@ -128,9 +128,9 @@ In the case of any emission limitation or other requirement approved or promulga
 
 Section 7413(d) of this title, referred to in subsec. (a)(2)(B), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders.
 
-Section 1857c–10 of this title (as in effect before August 7, 1977), referred to in subsec. (a)(2)(B)(i), was in the original “section 119 (as in effect before the date of the enactment of the Clean Air Act Amendments of 1977)”, meaning section 119 of act July 14, 1955, ch. 360, title I, as added June 22, 1974, Pub. L. 93–319, §3, 88 Stat. 248, (which was classified to section 1857c–10 of this title) as in effect prior to the enactment of Pub. L. 95–95, Aug. 7, 1977, 91 Stat. 691, effective Aug. 7, 1977. Section 112(b)(1) of Pub. L. 95–95 repealed section 119 of act July 14, 1955, ch. 360, title I, as added by Pub. L. 93–319, and provided that all references to such section 119 in any subsequent enactment which supersedes Pub. L. 93–319 shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to subsec. (d)(5) of section 7413 of this title. Section 7413(d) of this title was subsequently amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders. Section 117(b) of Pub. L. 95–95 added a new section 119 of act July 14, 1955, which is classified to section 7419 of this title.
+Section 1857c–10 of this title (as in effect before August 7, 1977), referred to in subsec. (a)(2)(B)(i), was in the original "section 119 (as in effect before the date of the enactment of the Clean Air Act Amendments of 1977)", meaning section 119 of act July 14, 1955, ch. 360, title I, as added June 22, 1974, Pub. L. 93–319, §3, 88 Stat. 248, (which was classified to section 1857c–10 of this title) as in effect prior to the enactment of Pub. L. 95–95, Aug. 7, 1977, 91 Stat. 691, effective Aug. 7, 1977. Section 112(b)(1) of Pub. L. 95–95 repealed section 119 of act July 14, 1955, ch. 360, title I, as added by Pub. L. 93–319, and provided that all references to such section 119 in any subsequent enactment which supersedes Pub. L. 93–319 shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to subsec. (d)(5) of section 7413 of this title. Section 7413(d) of this title was subsequently amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders. Section 117(b) of Pub. L. 95–95 added a new section 119 of act July 14, 1955, which is classified to section 7419 of this title.
 
-Section 1857c–10(c)(1) of this title (as in effect before August 7, 1977), referred to in subsec. (a)(2)(B)(ii), was in the original “section 119(c)(1) (as in effect before the date of the enactment of the Clean Air Act Amendments of 1977).” See paragraph set out above for explanation of codification.
+Section 1857c–10(c)(1) of this title (as in effect before August 7, 1977), referred to in subsec. (a)(2)(B)(ii), was in the original "section 119(c)(1) (as in effect before the date of the enactment of the Clean Air Act Amendments of 1977)." See paragraph set out above for explanation of codification.
 
 #### Amendments
 
@@ -140,15 +140,15 @@ Section 1857c–10(c)(1) of this title (as in effect before August 7, 1977), ref
 
 Subsec. (a)(2)(B). Pub. L. 95–190, §14(a)(30), (31), in cl. (i) inserted reference to section 7413(d)(5) of this title, and in cls. (i) and (ii) inserted provision relating to orders in effect under section 1857c–10 of this title before Aug. 7, 1977, wherever appearing.
 
-Subsec. (b). Pub. L. 95–190, §14(a)(34)–(36), in closing provisions inserted provisions relating to notice to the Administrator when a noncompliance penalty is established by a State, and substituted references to noncompliance for references to delayed compliance in two places, “source” for “facility”, and “receipt of notice of the State penalty assessment” for “publication of the proposed penalty”.
+Subsec. (b). Pub. L. 95–190, §14(a)(34)–(36), in closing provisions inserted provisions relating to notice to the Administrator when a noncompliance penalty is established by a State, and substituted references to noncompliance for references to delayed compliance in two places, "source" for "facility", and "receipt of notice of the State penalty assessment" for "publication of the proposed penalty".
 
-Subsec. (b)(2)(A). Pub. L. 95–190, §14(a)(33), substituted “(a)(1)(B)(i)” for “(e)”.
+Subsec. (b)(2)(A). Pub. L. 95–190, §14(a)(33), substituted "(a)(1)(B)(i)" for "(e)".
 
-Subsec. (b)(8). Pub. L. 95–190, §14(a)(32), substituted “(4)” for “(6)”.
+Subsec. (b)(8). Pub. L. 95–190, §14(a)(32), substituted "(4)" for "(6)".
 
-Subsec. (d)(2)(A). Pub. L. 95–190, §14(a)(37), inserted provisions relating to inclusion of the economic value of a delay in compliance, and substituted “such a delay” for “a delay in compliance beyond July 1, 1979,”.
+Subsec. (d)(2)(A). Pub. L. 95–190, §14(a)(37), inserted provisions relating to inclusion of the economic value of a delay in compliance, and substituted "such a delay" for "a delay in compliance beyond July 1, 1979,".
 
-Subsec. (e). Pub. L. 95–190, §14(a)(38), substituted “subsection, shall” for “subsection shall”.
+Subsec. (e). Pub. L. 95–190, §14(a)(38), substituted "subsection, shall" for "subsection shall".
 
 #### Effective Date
 

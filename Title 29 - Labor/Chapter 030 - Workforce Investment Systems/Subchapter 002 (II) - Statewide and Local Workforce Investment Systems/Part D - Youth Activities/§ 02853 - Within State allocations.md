@@ -8,7 +8,7 @@
 
 #### (2) Use of funds
 
-&emsp;Regardless of whether the reserved amounts were allotted under section 2852(b)(1)(C) of this title, or under paragraph (1)(B) or (2)(B) of section 2862(b) of this title, the Governor may use the reserved amounts to carry out statewide youth activities described in section 2854(b) of this title or statewide employment and training activities, for adults or for dislocated workers, described in paragraph (2)(B) or (3) of section 2864(a) of this title.
+&emsp;Regardless of whether the reserved amounts were allotted under section 2852(b)(1)(C) of thistitle, or under paragraph (1)(B) or (2)(B) of section 2862(b) of this title, the Governor may use the reserved amounts to carry out statewide youth activities described in section 2854(b) of this title or statewide employment and training activities, for adults or for dislocated workers, described in paragraph (2)(B) or (3) of section 2864(a) of this title.
 
 #### (b) Within State allocation
 
@@ -36,7 +36,7 @@
 
 #### (iii) Definition
 
-&emsp;&emsp;&emsp;The term “allocation percentage”, used with respect to fiscal year 2000 or a subsequent fiscal year, means a percentage of the funds referred to in clause (i), received through an allocation made under this subparagraph, for the fiscal year.
+&emsp;&emsp;&emsp;The term "allocation percentage", used with respect to fiscal year 2000 or a subsequent fiscal year, means a percentage of the funds referred to in clause (i), received through an allocation made under this subparagraph, for the fiscal year.
 
 #### (B) Application
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(ii) references in section 2852(b) of this title to all States shall be deemed to be references to all local areas in the State involved; and
 
-&emsp;&emsp;&emsp;(iii) except as described in clause (i), references in section 2852(b)(1) of this title to the term “excess number” shall be considered to be references to the term as defined in section 2852(b)(2) of this title.
+&emsp;&emsp;&emsp;(iii) except as described in clause (i), references in section 2852(b)(1) of this title to the term "excess number" shall be considered to be references to the term as defined in section 2852(b)(2) of this title.
 
 #### (3) Youth discretionary allocation
 
@@ -76,7 +76,7 @@
 
 #### (C) Regulations
 
-&emsp;&emsp;The Secretary, after consulting with the Governors, shall develop and issue regulations that define the term “administrative cost” for purposes of this chapter. Such definition shall be consistent with generally accepted accounting principles.
+&emsp;&emsp;The Secretary, after consulting with the Governors, shall develop and issue regulations that define the term "administrative cost" for purposes of this chapter. Such definition shall be consistent with generally accepted accounting principles.
 
 #### (c) Reallocation among local areas
 
@@ -86,7 +86,7 @@
 
 #### (2) Amount
 
-&emsp;The amount available for reallocation for a program year is equal to the amount by which the unobligated balance of the local area allocation under paragraph (2)(A) or (3) of subsection (b) of this section for such activities, at the end of the program year prior to the program year for which the determination under this paragraph is made exceeds 20 percent of such allocation for the prior program year.
+&emsp;The amount available for reallocation for a program year is equal to the amount by which the unobligated balance of the local area allocation under paragraph (2)(A) or (3) of subsection (b) of this section for such activities,at the end of the program year prior to the program year for which the determination under this paragraph is made exceeds 20 percent of such allocation for the prior program year.
 
 #### (3) Reallocation
 
@@ -100,5 +100,5 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(4)(C), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (b)(4)(C), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 

@@ -12,7 +12,7 @@ An individual convicted (under Federal or State law) of any offense which is cla
 
 #### (1) Program of temporary assistance for needy families
 
-&emsp;The amount of assistance otherwise required to be provided under a State program fundedunder part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] to the family members of an individual to whom subsection (a) of this section applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
+&emsp;The amount of assistance otherwise required to be provided under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] to the family members of an individual to whom subsection (a) of this section applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
 
 #### (2) Benefits under the Food Stamp Act of 1977
 
@@ -28,7 +28,7 @@ A State that has not exercised its authority under subsection (d)(1)(A) of this 
 
 #### (A) Opt out
 
-&emsp;&emsp;A State may, by specific reference in a law enacted after August 22, 1996, exempt any or all individuals domiciled in the State from the application of subsection (a) of this section.
+&emsp;&emsp;A State may, by specific reference in a law enacted after August 22, 1996, exempt any or all individuals domiciled in the State fromthe application of subsection (a) of this section.
 
 #### (B) Limit period of prohibition
 
@@ -38,9 +38,9 @@ A State that has not exercised its authority under subsection (d)(1)(A) of this 
 
 &emsp;Subsection (a) of this section shall not apply to a conviction if the conviction is for conduct occurring on or before August 22, 1996.
 
-#### (e) “State” defined
+#### (e) "State" defined
 
-For purposes of this section, the term “State” has the meaning given it—
+For purposes of this section, the term "State" has the meaning given it—
 
 &emsp;(1) in section 419(5) of the Social Security Act \[42 U.S.C. 619(5)\], when referring to assistance provided under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], and
 
@@ -80,11 +80,11 @@ Section was enacted as part of the Personal Responsibility and Work Opportunity 
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (a)(2), (b)(2). Pub. L. 110–246, §4115(c)(2)(C)(i), substituted “section 3(l)” for “section 3(h)”.
+<b>2008</b>—Subsecs. (a)(2), (b)(2). Pub. L. 110–246, §4115(c)(2)(C)(i), substituted "section 3(l)" for "section 3(h)".
 
-Subsec. (e)(2). Pub. L. 110–246, §4115(c)(2)(C), substituted “section 3(s)” for “section 3(m)” and “section 3(l)” for “section 3(h)”.
+Subsec. (e)(2). Pub. L. 110–246, §4115(c)(2)(C), substituted "section 3(s)" for "section 3(m)" and "section 3(l)" for "section 3(h)".
 
-<b>1997</b>—Subsec. (d)(2). Pub. L. 105–33 substituted “a conviction if the conviction is for conduct” for “convictions”.
+<b>1997</b>—Subsec. (d)(2). Pub. L. 105–33 substituted "a conviction if the conviction is for conduct" for "convictions".
 
 #### Change of Name
 
@@ -94,11 +94,11 @@ References to the food stamp program established under the Food Stamp Act of 197
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Amendment by section 4115(c)(2)(C) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246,set out as a note under section 1161 of Title 2, The Congress.
+Amendment by section 4115(c)(2)(C) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–33, title V, §5518(d), Aug. 5, 1997, 111 Stat. 621, provided that: “The amendments made by this chapter to a provision of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] that have not become part of another statute \[chapter 1 (§§5501–5518) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 601 to 603, 604 to 608, 609 to 611, and 612 to 617 of Title 42, The Public Health and Welfare, and provisions set out as notes under section 612c of Title 7, Agriculture, and sections 601 and 613 of Title 42\] shall take effect as if the amendments had been included in the provision at the time the provision became law.”
+Pub. L. 105–33, title V, §5518(d), Aug. 5, 1997, 111 Stat. 621, provided that: "The amendments made by this chapter to a provision of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] that have not become part of another statute \[chapter 1 (§§5501–5518) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 601 to 603, 604 to 608, 609 to 611, and 612 to 617 of Title 42, The Public Health and Welfare, and provisions set out as notes under section 612c of Title 7, Agriculture, and sections 601 and 613 of Title 42\] shall take effect as if the amendments had been included in the provision at the time the provision became law."
 
 #### Effective Date
 

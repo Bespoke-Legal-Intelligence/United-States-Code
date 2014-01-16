@@ -36,29 +36,29 @@ Section 13110 establishes the National Boating Safety Advisory Council, the memb
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d). Pub. L. 111–281, §621(b)(1), struck out first sentence which read: “When attending meetings of the Council, a member of the Council or a panel may be paid at a rate not more than the rate for GS–18.”
+<b>2010</b>—Subsec. (d). Pub. L. 111–281, §621(b)(1), struck out first sentence which read: "When attending meetings of the Council, a member of the Council or a panel may be paid at a rate not more than the rate for GS–18."
 
-Subsec. (e). Pub. L. 111–281, §621(b)(2), substituted “September 30, 2020” for “September 30, 2010”.
+Subsec. (e). Pub. L. 111–281, §621(b)(2), substituted "September 30, 2020" for "September 30, 2010".
 
-<b>2004</b>—Subsec. (e). Pub. L. 108–293 substituted “September 30, 2010” for “September 30, 2005”.
+<b>2004</b>—Subsec. (e). Pub. L. 108–293 substituted "September 30, 2010" for "September 30, 2005".
 
-<b>2002</b>—Subsec. (e). Pub. L. 107–295 substituted “September 30, 2005” for “September 30, 2000”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–295 substituted "September 30, 2005" for "September 30, 2000".
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–324 substituted “2000” for “1996”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–324 substituted "2000" for "1996".
 
-<b>1991</b>—Subsec. (e). Pub. L. 102–241 substituted “1996” for “1991”.
+<b>1991</b>—Subsec. (e). Pub. L. 102–241 substituted "1996" for "1991".
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–448 substituted “representatives of” for “members from” wherever appearing.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–448 substituted "representatives of" for "members from" wherever appearing.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–626, §3(b)(1), struck out “not more than” before “21 members” and inserted “recreational” after “experience in”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–626, §3(b)(1), struck out "not more than" before "21 members" and inserted "recreational" after "experience in".
 
-Subsec. (b)(1). Pub. L. 99–626, §3(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Insofar as practical and to ensure balanced representation, the Secretary shall appoint members equally from—
+Subsec. (b)(1). Pub. L. 99–626, §3(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Insofar as practical and to ensure balanced representation, the Secretary shall appoint members equally from—
 
-&emsp;“(A) State officials responsible for State boating safety programs;
+&emsp;"(A) State officials responsible for State boating safety programs;
 
-&emsp;“(B) recreational vessel manufacturers; and
+&emsp;"(B) recreational vessel manufacturers; and
 
-&emsp;“(C) boating organizations and members of the general public.”
+&emsp;"(C) boating organizations and members of the general public."
 
 Subsec. (e). Pub. L. 99–626, §3(a)(1), added subsec. (e).
 
@@ -68,11 +68,11 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Implementation of 1988 Amendment
 
-Pub. L. 100–448, §20(b), Sept. 28, 1988, 102 Stat. 1846, provided that: “The Secretary of the department in which the Coast Guard is operating shall carry out the amendments made by subsection (a) \[amending this section\] as vacancies in the membership of the National Boating Safety Advisory Council occur.”
+Pub. L. 100–448, §20(b), Sept. 28, 1988, 102 Stat. 1846, provided that: "The Secretary of the department in which the Coast Guard is operating shall carry out the amendments made by subsection (a) \[amending this section\] as vacancies in the membership of the National Boating Safety Advisory Council occur."
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Implementation of 1986 Amendment
 
-Pub. L. 99–626, §3(b)(3), Nov. 7, 1986, 100 Stat. 3505, provided that: “The Secretary of Transportation shall carry out the amendments made by paragraph (2) \[amending this section\] as vacancies in the membership of the National Boating Safety Advisory Council occur.”
+Pub. L. 99–626, §3(b)(3), Nov. 7, 1986, 100 Stat. 3505, provided that: "The Secretary of Transportation shall carry out the amendments made by paragraph (2) \[amending this section\] as vacancies in the membership of the National Boating Safety Advisory Council occur."
 

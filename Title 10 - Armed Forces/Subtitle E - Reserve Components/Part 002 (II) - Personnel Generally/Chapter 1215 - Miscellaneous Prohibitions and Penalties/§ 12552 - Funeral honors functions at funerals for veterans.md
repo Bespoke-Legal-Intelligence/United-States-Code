@@ -8,5 +8,5 @@ Performance by a Reserve of funeral honors functions at the funeral of a veteran
 
 <b>2000</b>—Pub. L. 106–398 inserted period at end.
 
-<b>1999</b>—Pub. L. 106–65 substituted “honors functions at funerals for veterans” for “honor guard functions: prohibition of treatment as drill or training” in section catchline and amended text generally. Prior to amendment, text read as follows: “Performance by a Reserve of honor guard functions at the funeral of a veteran may not be considered to be a period of drill or training otherwise required.”
+<b>1999</b>—Pub. L. 106–65 substituted "honors functions at funerals for veterans" for "honor guard functions: prohibition of treatment as drill or training" in section catchline and amended text generally. Prior to amendment, text read as follows: "Performance by a Reserve of honor guard functions at the funeral of a veteran may not be considered to be a period of drill or training otherwise required."
 

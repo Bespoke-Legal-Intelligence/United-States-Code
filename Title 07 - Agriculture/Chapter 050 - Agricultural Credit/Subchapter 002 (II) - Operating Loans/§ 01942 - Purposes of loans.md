@@ -82,19 +82,19 @@ A loan may be guaranteed under this subchapter only for—
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsecs. (a)(9)(B)(i) and (d)(1), see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in subsecs. (a)(9)(B)(i) and (d)(1), see note set out under section 1921 of this title.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(9)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions outlining purposes of loans made under this subchapter, authorizing loans to rural area residents to operate small business enterprises, authorizing loans for pollution abatement and control projects in rural areas and providing for limitations on such loans, and authorizing creation, from loan funds, of nonsupervised bank accounts to be used at discretion of borrower for necessary family living expenses.
+<b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions outlining purposes of loans made under this subchapter, authorizing loans to rural area residents to operate small business enterprises, authorizing loans for pollution abatement and control projects in rural areas and providing for limitations on such loans, and authorizing creation, from loan funds, of nonsupervised bank accounts to beused at discretion of borrower for necessary family living expenses.
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–552, §516(f)(2), repealed amendment by Pub. L. 102–237, §501(b). See 1991 Amendment note below.
 
 Pub. L. 102–552, §516(f)(1)(A), made technical correction to directory language of Pub. L. 101–624, §1818(b). See 1990 Amendment note below.
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–237, §501(b), which directed the substitution of “systems (for purposes of this subchapter, the term ‘solar energy’ means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974) (42 U.S.C. 5901 et seq.), (12) training in maintaining records of farming and ranching operations for limited resource borrowers receiving loans under section 1934 of this title, and (13) borrower training under section 2006a of this title.” for “ ‘systems.’ and all that follows”, could not be executed because “systems.” does not appear in subsec. (a) was repealed by Pub. L. 102–552, §516(f)(2). See Construction of 1991 Amendment note below.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237, §501(b), which directed the substitution of "systems (for purposes of this subchapter, the term 'solar energy' means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974) (42 U.S.C. 5901 et seq.), (12) training in maintaining records of farming and ranching operations for limited resource borrowers receiving loans under section 1934 of this title, and (13) borrower training under section 2006a of this title." for " 'systems.' and all that follows", could not be executed because "systems." does not appear in subsec. (a) was repealed by Pub. L. 102–552, §516(f)(2). See Construction of 1991 Amendment note below.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–624, §1818(b), as amended by Pub. L. 102–552, §516(f)(1)(A), added cl. (13).
 
@@ -104,27 +104,27 @@ Subsec. (e). Pub. L. 99–198, §1307, added subsec. (e).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–438 added cl. (11).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–334, struck out “individual” after “title, to”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–334, struck out "individual" after "title, to".
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–113 inserted parenthetical provision extending the section to include farm equipment which utilizes solar energy and inserted definition of “solar energy”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–113 inserted parenthetical provision extending the section to include farm equipment which utilizes solar energy and inserted definition of "solar energy".
 
-<b>1972</b>—Subsec. (a). Pub. L. 92–419, §§120(b), 121(1), (2), substituted “section 1941(a) for “section 1941”, designated existing provisions as subsec. (a), and added cl. (10).
+<b>1972</b>—Subsec. (a). Pub. L. 92–419, §§120(b), 121(1), (2), substituted "section 1941(a) for "section 1941", designated existing provisions as subsec. (a), and added cl. (10).
 
 Subsecs. (b) to (d). Pub. L. 92–419, §121(3), added subsecs. (b) to (d).
 
-<b>1968</b>—Pub. L. 90–488 struck out from cl. (4) the concluding phrase, “including recreational uses and facilities”, added cls. (5) and (6), and redesignated former cls. (5) to (7) as (7) to (9), respectively.
+<b>1968</b>—Pub. L. 90–488 struck out from cl. (4) the concluding phrase, "including recreational uses and facilities", added cls. (5) and (6), and redesignated former cls. (5) to (7) as (7) to (9), respectively.
 
 <b>1962</b>—Pub. L. 87–703 authorized, in cl. (4), loans to be made for recreational uses and facilities.
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–127, title VI, §612(b), Apr. 4, 1996, 110 Stat. 1089, provided that: “Section 312(c)(1) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1942(c)(1)\] shall not apply until the Secretary of Agriculture makes the determination required by section 312(c)(2) of the Act.” \[The Secretary's determination relating to hazard insurance under this provision was contained in interim rules published Mar. 3, 1997, and effective Mar. 24, 1997, see 62 F.R. 9351.\]
+Pub. L. 104–127, title VI, §612(b), Apr. 4, 1996, 110 Stat. 1089, provided that: "Section 312(c)(1) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1942(c)(1)\] shall not apply until the Secretary of Agriculture makes the determination required by section 312(c)(2) of the Act." \[The Secretary's determination relating to hazard insurance under this provision was contained in interim rules published Mar. 3, 1997, and effective Mar. 24, 1997, see 62 F.R. 9351.\]
 
 Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section 663(b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–552, title V, §516(f)(1)(B), Oct. 28, 1992, 106 Stat. 4137, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624\] at the time such Act became law.”
+Pub. L. 102–552, title V, §516(f)(1)(B), Oct. 28, 1992, 106 Stat. 4137, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624\] at the time such Act became law."
 
 #### Effective Date of 1977 Amendment
 
@@ -136,5 +136,5 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 #### Construction of 1991 Amendment
 
-Pub. L. 102–552, title V, §516(f)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: “Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) \[amending this section\] is repealed. The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) shall be applied and administered as if such subsection had never become law.”
+Pub. L. 102–552, title V, §516(f)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: "Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) \[amending this section\] is repealed. The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) shall be applied and administered as if such subsection had never become law."
 

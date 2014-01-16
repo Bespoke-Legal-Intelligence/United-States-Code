@@ -8,17 +8,17 @@ Pub. L. 98–473, title II, §235(a)(1), Oct. 12, 1984, 98 Stat. 2031, set out a
 
 As used in this chapter—
 
-&emsp;(1) “Commission” means the United States Parole Commission;
+&emsp;(1) "Commission" means the United States Parole Commission;
 
-&emsp;(2) “Commissioner” means any member of the United States Parole Commission;
+&emsp;(2) "Commissioner" means any member of the United States Parole Commission;
 
-&emsp;(3) “Director” means the Director of the Bureau of Prisons;
+&emsp;(3) "Director" means the Director of the Bureau of Prisons;
 
-&emsp;(4) “Eligible prisoner” means any Federal prisoner who is eligible for parole pursuant to this title or any other law including any Federal prisoner whose parole has been revoked and who is not otherwise ineligible for parole;
+&emsp;(4) "Eligible prisoner" means any Federal prisoner who is eligible for parole pursuant to this title or any other law including any Federal prisoner whose parole has been revoked and who is not otherwise ineligible for parole;
 
-&emsp;(5) “Parolee” means any eligible prisoner who has been released on parole or deemed as if released on parole under section 4164 or section 4205(f); and
+&emsp;(5) "Parolee" means any eligible prisoner who has been released on parole or deemed as if released on parole under section 4164 or section 4205(f); and
 
-&emsp;(6) “Rules and regulations” means rules and regulations promulgated by the Commission pursuant to section 4203 and section 553 of title 5, United States Code.
+&emsp;(6) "Rules and regulations" means rules and regulations promulgated by the Commission pursuant to section 4203 and section 553 of title 5, United States Code.
 
 > (Added Pub. L. 94–233, §2, Mar. 15, 1976, 90 Stat. 219.)
 
@@ -32,55 +32,55 @@ There is hereby established, as an independent agency in the Department of Justi
 
 Pub. L. 107–273, div. C, title I, §11017, Nov. 2, 2002, 116 Stat. 1824, provided that:
 
-“(a)
+"(a)
 
-Extension of the Parole Commission.—For purposes of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out as a note under section 3551 of this title\] (98 Stat. 2032) as such section relates to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to ‘fifteen years’ or ‘fifteen-year period’ shall be deemed to be a reference to ‘eighteen years’ or ‘eighteen-year period’, respectively.
+Extension of the Parole Commission.—For purposes of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out as a note under section 3551 of this title\] (98 Stat. 2032) as such section relates to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to 'fifteen years' or 'fifteen-year period' shall be deemed tobe a reference to 'eighteen years' or 'eighteen-year period', respectively.
 
-“(b)
+"(b)
 
 Study by Attorney General.—The Attorney General, not later than 60 days after the enactment of this Act \[Nov. 2, 2002\], should establish a committee within the Department of Justice to evaluate the merits and feasibility of transferring the United States Parole Commission's functions regarding the supervised release of District of Columbia offenders to another entity or entities outside the Department of Justice. This committee should consult with the District of Columbia Superior Court and the District of Columbia Court Services and Offender Supervision Agency, and should report its findings and recommendations to the Attorney General. The Attorney General, in turn, should submit to Congress, not later than 18 months after the enactment of this Act, a long-term plan for the most effective and cost-efficient assignment of responsibilities relating to the supervised release of District of Columbia offenders.
 
-“(c)
+"(c)
 
-Service as Commissioner.—Notwithstanding subsection (a), the final clause of the fourth sentence of section 4202 of title 18, United States Code, which begins ‘except that’, shall not apply to a person serving as a Commissioner of the United States Parole Commission when this Act takes effect \[Nov. 2, 2002\].”
+Service as Commissioner.—Notwithstanding subsection (a), the final clause of the fourth sentence of section 4202 of title 18, United States Code, which begins 'except that', shall not apply to a person serving as a Commissioner of the United States Parole Commission when this Act takes effect \[Nov. 2, 2002\]."
 
 #### Parole Commission Phaseout
 
 Pub. L. 104–232, §§1–3, Oct. 2, 1996, 110 Stat. 3055, 3056, as amended by Pub. L. 105–33, title XI, §11231(d), Aug. 5, 1997, 111 Stat. 745, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act \[enacting and amending provisions set out as notes under section 3551 of this title\] may be cited as the ‘Parole Commission Phaseout Act of 1996’.
+"This Act \[enacting and amending provisions set out as notes under section 3551 of this title\] may be cited as the 'Parole Commission Phaseout Act of 1996'.
 
-#### “SEC. 2. EXTENSION OF PAROLE COMMISSION.
+#### "SEC. 2. EXTENSION OF PAROLE COMMISSION.
 
-“(a)
+"(a)
 
-In General.—For purposes of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out as a note under section 3551 of this title\] (98 Stat. 2032) as it related to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to ‘ten years’ or ‘ten-year period’ shall be deemed to be a reference to ‘fifteen years’ or ‘fifteen-year period’, respectively.
+In General.—For purposes of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out as a note under section 3551 of this title\] (98 Stat. 2032) as it related to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to 'ten years' or 'ten-year period' shall be deemed to be a reference to 'fifteen years' or 'fifteen-year period', respectively.
 
-“(b)
+"(b)
 
 Powers and Duties of Parole Commission.—Notwithstanding section 4203 of title 18, United States Code, the United States Parole Commission may perform its functions with any quorum of Commissioners, or Commissioner, as the Commission may prescribe by regulation.
 
-“(c) The United States Parole Commission shall have no more than five members.
+"(c) The United States Parole Commission shall have no more than five members.
 
-#### “SEC. 3. REPORTS BY THE ATTORNEY GENERAL.
+#### "SEC. 3. REPORTS BY THE ATTORNEY GENERAL.
 
-“(a)
+"(a)
 
 In General.—Beginning in the year 1998, the Attorney General shall report to the Congress not later than May 1 of each year through the year 2002 on the status of the United States Parole Commission. Unless the Attorney General, in such report, certifies that the continuation of the Commission is the most effective and cost-efficient manner for carrying out the Commission's functions, the Attorney General shall include in such report an alternative plan for a transfer of the Commission's functions to another entity.
 
-“(b)
+"(b)
 
 Transfer Within the Department of Justice.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Effect of plan.—If the Attorney General includes such a plan in the report, and that plan provides for the transfer of the Commission's functions and powers to another entity within the Department of Justice, such plan shall take effect according to its terms on November 1 of that year in which the report is made, unless Congress by law provides otherwise. In the event such plan takes effect, all laws pertaining to the authority and jurisdiction of the Commission with respect to individual offenders shall remain in effect notwithstanding the expiration of the period specified in section 2 of this Act.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Conditional repeal.—Effective on the date such plan takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out as a note under section 3551 of this title\] (98 Stat. 2032) are repealed.”
+Conditional repeal.—Effective on the date such plan takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out as a note under section 3551 of this title\] (98 Stat. 2032) are repealed."
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -118,7 +118,7 @@ Pub. L. 98–473, title II, §235(b)(2), Oct. 12, 1984, 98 Stat. 2032, which pro
 
 &emsp;(3) may delegate authority to conduct hearings held pursuant to section 4214 to any officer or employee of the executive or judicial branch of Federal or State government; and
 
-&emsp;(4) may review, or may delegate to the National Appeals Board the power to review, any decision made pursuant to subparagraph (1) of this subsection except that any such decision so reviewed must be reaffirmed, modified or reversed within thirty days of the date the decision is rendered, and, in case of such review, the individual to whom the decision applies shall be informed in writing of the Commission's actions with respect thereto and the reasons for such actions.
+&emsp;(4) may review, or may delegate to the National Appeals Board the power to review, any decision madepursuant to subparagraph (1) of this subsection except that any such decision so reviewed must be reaffirmed, modified or reversed within thirty days of the date the decision is rendered, and, in case of such review, the individual to whom the decision applies shall be informed in writing of the Commission's actions with respect thereto and the reasons for such actions.
 
 (d) Except as otherwise provided by law, any action taken by the Commission pursuant to subsection (a) of this section shall be taken by a majority vote of all individuals currently holding office as members of the Commission which shall maintain and make available for public inspection a record of the final vote of each member on statements of policy and interpretations adopted by it. In so acting, each Commissioner shall have equal responsibility and authority, shall have full access to all information relating to the performance of such duties and responsibilities, and shall have one vote.
 
@@ -194,7 +194,7 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### §4205. Time of eligibility for release on parole
 
-(a) Whenever confined and serving a definite term or terms of more than one year, a prisoner shall be eligible for release on parole after serving one-third of such term or terms or after serving ten years of a life sentence or of a sentence of over thirty years, except to the extent otherwise provided by law.
+(a) Whenever confined and serving a definite term or terms of more than one year, a prisoner shall be eligible for release on parole after serving one-third of suchterm or terms or after serving ten years of a life sentence or of a sentence of over thirty years, except to the extent otherwise provided by law.
 
 (b) Upon entering a judgment of conviction, the court having jurisdiction to impose sentence, when in its opinion the ends of justice and best interest of the public require that the defendant be sentenced to imprisonment for a term exceeding one year, may (1) designate in the sentence of imprisonment imposed a minimum term at the expiration of which the prisoner shall become eligible for parole, which term may be less than but shall not be more than one-third of the maximum sentence imposed by the court, or (2) the court may fix the maximum sentence of imprisonment to be served in which event the court may specify that the prisoner may be released on parole at such time as the Commission may determine.
 
@@ -252,7 +252,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 #### §4208. Parole determination proceeding; time
 
-(a) In making a determination under this chapter (relating to parole) the Commission shall conduct a parole determination proceeding unless it determines on the basis of the prisoner's record that the prisoner will be released on parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsections (a) and (b)(1) of section 4205 shall be held not later than thirty days before the date of such eligibility for parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsection (b)(2) of section 4205 or released on parole and whose parole has been revoked shall be held not later than one hundred and twenty days following such prisoner's imprisonment or reimprisonment in a Federal institution, as the case may be. An eligible prisoner may knowingly and intelligently waive any proceeding.
+(a) In making a determination under this chapter (relating to parole) the Commission shall conduct a parole determination proceeding unless it determines on the basis of the prisoner's record that the prisoner will bereleased on parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsections (a) and (b)(1) of section 4205 shall be held not later than thirty days before the date of such eligibility for parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsection (b)(2) of section 4205 or released on parole and whose parole has been revoked shall be held not later than one hundred and twenty days following such prisoner's imprisonment or reimprisonment in a Federal institution, as the case may be. An eligible prisoner may knowingly and intelligently waive any proceeding.
 
 (b) At least thirty days prior to any parole determination proceeding, the prisoner shall be provided with (1) written notice of the time and place of the proceeding, and (2) reasonable access to a report or other document to be used by the Commission in making its determination. A prisoner may waive such notice, except that if notice is not waived the proceeding shall be held during the next regularly scheduled proceedings by the Commission at the institution in which the prisoner is confined.
 
@@ -264,7 +264,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 &emsp;(3) any other information which, if disclosed, might result in harm, physical or otherwise, to any person.
 
-> If any document is deemed by either the Commission, the Bureau of Prisons, or any other agency to fall within the exclusionary provisions of subparagraphs (1), (2), or (3) of this subsection, then it shall become the dutyof the Commission, the Bureau, or such other agency, as the case may be, to summarize the basic contents of the material withheld, bearing in mind the need for confidentiality or the impact on the inmate, or both, and furnish such summary to the inmate.
+> If any document is deemed by either the Commission, the Bureau of Prisons, or any other agency to fall within the exclusionary provisions of subparagraphs (1), (2), or (3) of this subsection, then it shall become the duty of the Commission, the Bureau, or such other agency, as the case may be, to summarize the basic contents of the material withheld, bearing in mind the need for confidentiality or the impact on the inmate, or both, and furnish such summary to the inmate.
 
 (d)(1) During the period prior to the parole determination proceeding as provided in subsection (b) of this section, a prisoner may consult, as provided by the director, with a representative as referred to in subparagraph (2) of this subsection, and by mail or otherwise with any person concerning such proceeding.
 
@@ -454,7 +454,7 @@ Such prisoner when his parole becomes effective, shall be delivered to the duly 
 
 #### Codification
 
-Pub. L. 98–473, §§235(a)(1), 238(f), (i), and Pub. L. 98–596, §12(a)(6), (9), (b), amended section as follows: Section 238(f) of Pub. L. 98–473 amended par. (1) effective pursuant to section 235(a)(1) of Pub. L. 98–473 thefirst day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Section 12(a)(6) of Pub. L. 98–596 amended par. (1) to read as it had before amendment by Pub. L. 98–473, applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596. The cumulative effect of the amendments resulted in no change in this section.
+Pub. L. 98–473, §§235(a)(1), 238(f), (i), and Pub. L. 98–596, §12(a)(6), (9), (b), amended section as follows: Section 238(f) of Pub. L. 98–473 amended par. (1) effective pursuant to section 235(a)(1) of Pub. L. 98–473 the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Section 12(a)(6) of Pub. L. 98–596 amended par. (1) to read as it had before amendment by Pub. L. 98–473, applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596. The cumulative effect of the amendments resulted in no change in this section.
 
 #### Effective Date of 1988 Amendment
 
@@ -476,9 +476,9 @@ Amendment by section 7303(c)(3) of Pub. L. 100–690 applicable with respect to 
 
 #### §4218. Applicability of Administrative Procedure Act
 
-(a) For purposes of the provisions of chapter 5 of title 5, United States Code, other than sections 554, 555, 556, and 557, the Commission is an “agency” as defined in such chapter.
+(a) For purposes of the provisions of chapter 5 of title 5, United States Code, other than sections 554, 555, 556, and 557, the Commission is an "agency" as defined in such chapter.
 
-(b) For purposes of subsection (a) of this section, section 553(b)(3)(A) of title 5, United States Code, relating to rulemaking, shall be deemed not to include the phrase “general statements of policy”.
+(b) For purposes of subsection (a) of this section, section 553(b)(3)(A) of title 5, United States Code, relating to rulemaking, shall be deemed not to include the phrase "general statements of policy".
 
 (c) To the extent that actions of the Commission pursuant to section 4203(a)(1) are not in accord with the provisions of section 553 of title 5, United States Code, they shall be reviewable in accordance with the provisions of sections 701 through 706 of title 5, United States Code.
 

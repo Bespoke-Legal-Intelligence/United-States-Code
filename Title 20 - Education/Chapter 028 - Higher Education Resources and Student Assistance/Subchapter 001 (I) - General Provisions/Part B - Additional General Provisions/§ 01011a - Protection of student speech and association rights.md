@@ -32,7 +32,7 @@ For the purposes of this section:
 
 #### (1) Official sanction
 
-&emsp;The term “official sanction”—
+&emsp;The term "official sanction"—
 
 &emsp;&emsp;(A) means expulsion, suspension, probation, censure, condemnation, reprimand, or any other disciplinary, coercive, or adverse action taken by an institution of higher education or administrative unit of the institution; and
 
@@ -40,13 +40,13 @@ For the purposes of this section:
 
 #### (2) Protected association
 
-&emsp;The term “protected association” means the joining, assembling, and residing with others that is protected under the first and 14th amendments to the Constitution, or would be protected if the institution of higher education involved were subject to those amendments.
+&emsp;The term "protected association" means the joining, assembling, and residing with others that is protected under the first and 14th amendments to the Constitution, or would be protected if the institution of higher education involved were subject to those amendments.
 
 #### (3) Protected speech
 
-&emsp;The term “protected speech” means speech that is protected under the first and 14th amendments to the Constitution, or would be protected if the institution of higher education involved were subject to those amendments.
+&emsp;The term "protected speech" means speech that is protected under the first and 14thamendments to the Constitution, or would be protected if the institution of higher education involved were subject to those amendments.
 
-(Pub. L. 89–329, title I, §112, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1591;amended Pub. L. 110–315, title I, §104, Aug. 14, 2008, 122 Stat. 3090.)
+(Pub. L. 89–329, title I, §112, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1591; amended Pub. L. 110–315, title I, §104, Aug. 14, 2008, 122 Stat. 3090.)
 
 #### Prior Provisions
 
@@ -56,5 +56,5 @@ A prior section 1011a, Pub. L. 89–329, title I, §122, as added Pub. L. 102–
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–315, §104(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(1). Pub. L. 110–315, §104(2), inserted “, provided that the imposition of such sanction is done objectively and fairly” after “higher education”.
+Subsec. (b)(1). Pub. L. 110–315, §104(2), inserted ", provided that the imposition of such sanction is done objectively and fairly" after "higher education".
 

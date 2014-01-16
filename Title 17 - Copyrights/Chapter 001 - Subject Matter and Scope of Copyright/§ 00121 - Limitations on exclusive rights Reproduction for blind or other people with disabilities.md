@@ -22,13 +22,13 @@
 
 (d) For purposes of this section, the term—
 
-&emsp;(1) “authorized entity” means a nonprofit organization or a governmental agency that has a primary mission to provide specialized services relating to training, education, or adaptive reading or information access needs of blind or other persons with disabilities;
+&emsp;(1) "authorized entity" means a nonprofit organization or a governmental agency that has a primary mission to provide specialized services relating to training, education, or adaptive reading or information access needs of blind or other persons with disabilities;
 
-&emsp;(2) “blind or other persons with disabilities” means individuals who are eligible or who may qualify in accordance with the Act entitled “An Act to provide books for the adult blind”, approved March 3, 1931 (2 U.S.C. 135a; 46 Stat. 1487) to receive books and other publications produced in specialized formats;
+&emsp;(2) "blind or other persons with disabilities" means individuals who are eligible or who may qualify in accordance with the Act entitled "An Act to provide books for the adult blind", approved March 3, 1931 (2 U.S.C. 135a; 46 Stat. 1487) to receive books and other publications produced in specialized formats;
 
-&emsp;(3) “print instructional materials” has the meaning given under section 674(e)(3)(C) of the Individuals with Disabilities Education Act; and
+&emsp;(3) "print instructional materials" has the meaning given under section 674(e)(3)(C) of the Individuals with Disabilities Education Act; and
 
-&emsp;(4) “specialized formats” means—
+&emsp;(4) "specialized formats" means—
 
 &emsp;&emsp;(A) braille, audio, or digital text which is exclusively for use by blind or other persons with disabilities; and
 
@@ -48,9 +48,9 @@ The Act approved March 3, 1931, referred to in subsec. (d)(2), is act Mar. 3, 19
 
 Subsec. (d). Pub. L. 108–446, §306(1), redesignated subsec. (c) as (d).
 
-Subsec. (d)(3), (4). Pub. L. 108–446, §306(3), added pars. (3) and (4) and struck out former par. (3) which read as follows: “ ‘specialized formats’ means braille, audio, or digital text which is exclusively for use by blind or other persons with disabilities.”
+Subsec. (d)(3), (4). Pub. L. 108–446, §306(3), added pars. (3) and (4) and struck out former par. (3) which read as follows: " 'specialized formats' means braille, audio, or digital text which is exclusively for use by blind or other persons with disabilities."
 
-<b>2002</b>—Pub. L. 107–273 substituted “Reproduction” for “reproduction” in section catchline.
+<b>2002</b>—Pub. L. 107–273 substituted "Reproduction" for "reproduction" in section catchline.
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–379 substituted “section 106” for “sections 106 and 710”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–379 substituted "section 106" for "sections 106 and 710".
 

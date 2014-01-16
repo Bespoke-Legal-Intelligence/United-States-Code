@@ -26,7 +26,7 @@ A prior section 805 of Pub. L. 87–195, pt. V, enacted a provision set out as a
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a)(2). Pub. L. 107–26 struck out “major” before “investment reforms,”.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–26 struck out "major" before "investment reforms,".
 
 #### Delegation of Functions
 

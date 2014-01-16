@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A child care provider (other than a family child care provider) that receives assistanceunder this subchapter shall not discriminate against any child on the basis of religion in providing child care services.
+&emsp;&emsp;A child care provider (other than a family child care provider) that receives assistance under this subchapter shall not discriminate against any child on the basis of religion in providing child care services.
 
 #### (B) Non-funded child care slots
 

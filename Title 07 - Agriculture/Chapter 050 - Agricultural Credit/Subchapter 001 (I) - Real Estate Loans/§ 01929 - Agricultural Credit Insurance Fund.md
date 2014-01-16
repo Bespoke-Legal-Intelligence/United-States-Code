@@ -2,7 +2,7 @@
 
 #### (a) Revolving fund
 
-The fund established pursuant to section 11(a) of the Bankhead-Jones Farm Tenant Act, as amended, shall hereafter be called the Agricultural Credit Insurance Fund and is hereinafter in this subchapter referred to as the “fund”. The fund shall remain available as a revolving fund for the discharge of the obligations of the Secretary under agreements insuring loans under this subchapter and loans and mortgages insured under prior authority.
+The fund established pursuant to section 11(a) of the Bankhead-Jones Farm Tenant Act, as amended, shall hereafter be called the Agricultural Credit Insurance Fund and is hereinafter in this subchapter referred to as the "fund". The fund shall remain available as a revolving fund for the discharge of the obligations of the Secretary under agreements insuring loans under this subchapter and loans and mortgages insured under prior authority.
 
 #### (b) Deposits of funds; investments; purchase of notes
 
@@ -10,7 +10,7 @@ Moneys in the fund not needed for current operations shall be deposited in the T
 
 #### (c) Notes; form and denominations; maturities; terms and conditions; interest rate; purchase by Treasury; public debt transaction
 
-The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for authorized expenditures out of the fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Secretary under this subchapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
+The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for authorized expenditures out of the fund. Such notes shall be in such form and denominationsand have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Secretary under this subchapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
 
 #### (d) Notes and security as part of fund; collection or sale of notes; deposit of net proceeds in fund
 
@@ -86,7 +86,7 @@ Amount of guarantee of loans for farm operations on tribal lands.—In the case 
 
 (4) The Secretary shall notify each State of the provisions of this subsection.
 
-(5) As used in paragraph (1), the term “State beginning farmer program” means any program that is—
+(5) As used in paragraph (1), the term "State beginning farmer program" means any program that is—
 
 &emsp;(A) carried out by, or under contract with, a State; and
 
@@ -102,27 +102,27 @@ The Secretary may guarantee under this chapter a loan made under a State beginni
 
 Section 11(a) of the Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), refers to section 11(a) of act July 22, 1937, ch. 517, title I, as added Aug. 14, 1946, ch. 964, §5, 60 Stat. 1072, which was classified to section 1005a of this title and was repealed by section 341(a) of Pub. L. 87–128.
 
-For definition of “this chapter”, referred to in subsecs. (f)(5), (h)(1), (2), (4), (5), and (j), see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in subsecs. (f)(5), (h)(1), (2), (4), (5), and (j), see note set out under section 1921 of this title.
 
 Section 1988(c) of this title (before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996), referred to in subsec. (g)(1), means subsec. (c) of section 1988 of this title prior to repeal by section 749(a)(1) of Pub. L. 104–127.
 
 #### Codification
 
-In subsec. (c), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), "chapter 31 of title 31" and "such chapter" substituted for "the Second Liberty Bond Act, as amended" and "such Act, as amended," respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (h)(4). Pub. L. 107–171, §5003(1), substituted “paragraphs (5), (6), and (7)” for “paragraphs (5) and (6)”.
+<b>2002</b>—Subsec. (h)(4). Pub. L. 107–171, §5003(1), substituted "paragraphs (5), (6), and (7)" for "paragraphs (5) and (6)".
 
 Subsec. (h)(7). Pub. L. 107–171, §5003(2), added par. (7).
 
 Subsec. (j). Pub. L. 107–171, §5004, added subsec. (j).
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–127, §744, redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “to make loans which could be insured under this subchapter whenever the Secretary has reasonable assurance that they can be sold without undue delay, and may sell and insure such loans;”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–127, §744, redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: "to make loans which could be insured under this subchapter whenever the Secretary has reasonable assurance that they can be sold without undue delay, and may sell and insure such loans;".
 
-Subsec. (g)(1). Pub. L. 104–127, §749(b)(1), inserted “(before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996)” after “section 1988(c) of this title”.
+Subsec. (g)(1). Pub. L. 104–127, §749(b)(1), inserted "(before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996)" after "section 1988(c) of this title".
 
-Pub. L. 104–127, §661(b), struck out “section 1928,” after “provisions of this section,”.
+Pub. L. 104–127, §661(b), struck out "section 1928," after "provisions of this section,".
 
 Subsec. (h)(4) to (6). Pub. L. 104–127, §606, added pars. (4) to (6).
 
@@ -130,27 +130,27 @@ Subsec. (h)(4) to (6). Pub. L. 104–127, §606, added pars. (4) to (6).
 
 Subsec. (i). Pub. L. 102–554, §5(a), added subsec. (i).
 
-<b>1990</b>—Subsec. (e). Pub. L. 101–624 inserted “and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency” and substituted “expenses for such agency” for “expenses”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–624 inserted "and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency" and substituted "expenses for such agency" for "expenses".
 
 <b>1978</b>—Subsec. (f)(1), (6). Pub. L. 95–334 in par. (1) struck out provisions limiting amount of loans outstanding at any one time, and added par. (6).
 
-<b>1977</b>—Subsec. (f)(3). Pub. L. 95–113 substituted “any deferred or defaulted installment” for “any defaulted installment”.
+<b>1977</b>—Subsec. (f)(3). Pub. L. 95–113 substituted "any deferred or defaulted installment" for "any defaulted installment".
 
-<b>1972</b>—Subsec. (f)(1). Pub. L. 92–419, §115(a)(1), substituted “$500,000,000” for “$100,000,000”.
+<b>1972</b>—Subsec. (f)(1). Pub. L. 92–419, §115(a)(1), substituted "$500,000,000" for "$100,000,000".
 
-Subsec. (f)(2). Pub. L. 92–419, §115(a)(2), substituted “amounts” for “the interest” and “payments” for “prepayments” in three places and inserted “or until the next agreed annual or semi-annual remittance date” after “until due”.
+Subsec. (f)(2). Pub. L. 92–419, §115(a)(2), substituted "amounts" for "the interest" and "payments" for "prepayments" in three places and inserted "or until the next agreed annual or semi-annual remittance date" after "until due".
 
-Subsec. (f)(5). Pub. L. 92–419, §115(a)(3), (4), substituted “connection with insured loans, including the difference between interest payable to borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance” for “section 1985(a) of this title in connection with insured loans,” and provided payment for contract services.
+Subsec. (f)(5). Pub. L. 92–419, §115(a)(3), (4), substituted "connection with insured loans, including the difference between interest payable to borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance" for "section 1985(a) of this title in connection with insured loans," and provided payment for contract services.
 
 Subsecs. (g), (h). Pub. L. 92–419, §115(b), added subsecs. (g) and (h).
 
 <b>1968</b>—Subsec. (f)(1). Pub. L. 90–488 increased from $50,000,000 to $100,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
 
-<b>1966</b>—Subsec. (f)(2). Pub. L. 89–633 substituted “until due” for “until the due date of the annual installment”.
+<b>1966</b>—Subsec. (f)(2). Pub. L. 89–633 substituted "until due" for "until the due date of the annual installment".
 
-<b>1965</b>—Subsec. (e). Pub. L. 89–240, §2(b), substituted “all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan of any charge collected in connection with the insurance of loans; and any remainder of any such charge” for “such portion of the charge collected in connection with theinsurance of loans at least equal to a rate of one-half of 1 per centum per annum on the outstanding principal obligations and the remainder of such charge”.
+<b>1965</b>—Subsec. (e). Pub. L. 89–240, §2(b), substituted "all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan of any charge collected in connection with the insurance of loans; and any remainder of any such charge" for "such portion of the charge collected in connection with the insurance of loans at least equal to a rate of one-half of 1 per centum per annum on the outstanding principal obligations and the remainder of such charge".
 
-Subsec. (f)(1). Pub. L. 89–240, §2(c), substituted “$50,000,000” for “$25,000,000”.
+Subsec. (f)(1). Pub. L. 89–240, §2(c), substituted "$50,000,000" for "$25,000,000".
 
 <b>1962</b>—Subsec. (f)(1). Pub. L. 87–703 increased from $10,000,000 to $25,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
 
@@ -166,41 +166,41 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 Pub. L. 102–554, §5(b), Oct. 28, 1992, 106 Stat. 4143, as amended by Pub. L. 110–234, title VII, §7511(c)(4), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, §4(a), title VII, §7511(c)(4), June 18, 2008, 122 Stat. 1664, 2029, provided that:
 
-“(1)
+"(1)
 
-Establishment; purpose.—Not later than 18 months after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary of Agriculture shall establish an advisory committee, to be known as the ‘Advisory Committee on Beginning Farmers and Ranchers’, which shall provide advice to the Secretary on—
+Establishment; purpose.—Not later than 18 months after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary of Agriculture shall establish an advisory committee, to be known as the 'Advisory Committee on Beginning Farmers and Ranchers', which shall provide advice to the Secretary on—
 
-&emsp;“(A) the development of the program of coordinated assistance to qualified beginning farmers and ranchers under section 309(i) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1929(i)\] (as added by subsection (a) of this section);
+&emsp;"(A) the development of the program of coordinated assistance to qualified beginning farmers and ranchers under section 309(i) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1929(i)\] (as added by subsection (a) of this section);
 
-&emsp;“(B) methods of maximizing the number of new farming and ranching opportunities created through the program;
+&emsp;"(B) methods of maximizing the number of new farming and ranching opportunities created through the program;
 
-&emsp;“(C) methods of encouraging States to participate in the program;
+&emsp;"(C) methods of encouraging States to participate in the program;
 
-&emsp;“(D) the administration of the program; and
+&emsp;"(D) the administration of the program; and
 
-&emsp;“(E) other methods of creating new farming or ranching opportunities.
+&emsp;"(E) other methods of creating new farming or ranching opportunities.
 
-“(2)
+"(2)
 
 Membership.—The Secretary shall appoint the members of the Advisory Committee. The Advisory Committee shall include representatives from the following:
 
-&emsp;“(A) The Farmers Home Administration.
+&emsp;"(A) The Farmers Home Administration.
 
-&emsp;“(B) State beginning farmer programs (as defined in section 309(i)(5) of the Consolidated Farm and Rural Development Act (as added by subsection (a) of this section)).
+&emsp;"(B) State beginning farmer programs (as defined in section 309(i)(5) of the Consolidated Farm and Rural Development Act (as added by subsection (a) of this section)).
 
-&emsp;“(C) Commercial lenders.
+&emsp;"(C) Commercial lenders.
 
-&emsp;“(D) Private nonprofit organizations with active beginning farmer or rancher programs.
+&emsp;"(D) Private nonprofit organizations with active beginning farmer or rancher programs.
 
-&emsp;“(E) The National Institute of Food and Agriculture.
+&emsp;"(E) The National Institute of Food and Agriculture.
 
-&emsp;“(F) Community colleges or other educational institutions with demonstrated experience in training beginning farmers or ranchers.
+&emsp;"(F) Community colleges or other educational institutions with demonstrated experience in training beginning farmers or ranchers.
 
-&emsp;“(G) Other entities or persons providing lending or technical assistance for qualified beginning farmers or ranchers.”
+&emsp;"(G) Other entities or persons providing lending or technical assistance for qualified beginning farmers or ranchers."
 
 #### Limitation on Sales From Agricultural Credit Insurance Fund
 
-Pub. L. 99–509, title I, §1002, Oct. 21, 1986, 100 Stat. 1875, provided that: “During fiscal years 1987 through 1989, no note shall be sold out of the Agricultural Credit Insurance Fund, except in connection with transactions with the Secretary of the Treasury, without prior approval by Congress.”
+Pub. L. 99–509, title I, §1002, Oct. 21, 1986, 100 Stat. 1875, provided that: "During fiscal years 1987 through 1989, no note shall be sold out of the Agricultural Credit Insurance Fund, except in connection with transactions with the Secretary of the Treasury, without prior approval by Congress."
 
 #### Loans to Indians
 

@@ -16,9 +16,9 @@ No grant shall be made under this subchapter from funds authorized for any fisca
 
 #### Amendments
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–4 substituted “1990” for “1985”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–4 substituted "1990" for "1985".
 
-<b>1981</b>—Subsec. (c). Pub. L. 97–117 substituted “September 30, 1985” for “September 30, 1982”.
+<b>1981</b>—Subsec. (c). Pub. L. 97–117 substituted "September 30, 1985" for "September 30, 1982".
 
 <b>1977</b>—Pub. L. 95–217 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

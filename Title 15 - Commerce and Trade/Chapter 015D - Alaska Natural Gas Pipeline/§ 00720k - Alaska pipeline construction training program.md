@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary of Labor (in this section referred to as the “Secretary”) shall make grants to the Alaska Workforce Investment Board—
+&emsp;The Secretary of Labor (in this section referred to as the "Secretary") shall make grants to the Alaska Workforce Investment Board—
 
 &emsp;&emsp;(A) to recruit and train adult and dislocated workers in Alaska, including Alaska Natives, in the skills required to construct and operate an Alaska gas pipeline system; and
 
@@ -12,7 +12,7 @@
 
 #### (2) Coordination with existing programs
 
-&emsp;The training program established with the grants authorized under paragraph (1) shall beconsistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.).
+&emsp;The training program established with the grants authorized under paragraph (1) shall be consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.).
 
 #### (b) Requirements for grants
 

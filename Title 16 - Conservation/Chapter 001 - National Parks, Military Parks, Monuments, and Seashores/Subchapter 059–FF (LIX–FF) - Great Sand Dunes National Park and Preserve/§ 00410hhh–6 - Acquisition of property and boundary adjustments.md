@@ -2,7 +2,7 @@
 
 #### (a) Acquisition authority
 
-(1) Within the area depicted on the map as the “Acquisition Area” or the national monument, the Secretary may acquire lands and interests therein by purchase, donation, transfer from another Federal agency, or exchange: <i>Provided</i>, That lands or interests therein may only be acquired with the consent of the owner thereof.
+(1) Within the area depicted on the map as the "Acquisition Area" or the national monument, the Secretary may acquire lands and interests therein by purchase, donation, transfer from another Federal agency, or exchange: <i>Provided</i>, That lands or interests therein may only be acquired with the consent of the owner thereof.
 
 (2) Lands or interests therein owned by the State of Colorado, or a political subdivision thereof, may only be acquired by donation or exchange.
 
@@ -32,5 +32,5 @@ As soon as practicable after the acquisition of any land or interest under this 
 
 (Pub. L. 106–530, §8, Nov. 22, 2000, 114 Stat. 2532.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (c)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (c)".</i>
 

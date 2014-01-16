@@ -22,5 +22,5 @@ Another prior section 10 of Pub. L. 93–112 was classified to section 709 of th
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §402(c)(2)\], substituted a dash for a colon after “disregarded” and amended text to set out cls. (1) and (2) as indented pars. and last sentence as flush provision.
+<b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §402(c)(2)\], substituted a dash for a colon after "disregarded" and amended text to set out cls. (1) and (2) as indented pars. and last sentence as flush provision.
 

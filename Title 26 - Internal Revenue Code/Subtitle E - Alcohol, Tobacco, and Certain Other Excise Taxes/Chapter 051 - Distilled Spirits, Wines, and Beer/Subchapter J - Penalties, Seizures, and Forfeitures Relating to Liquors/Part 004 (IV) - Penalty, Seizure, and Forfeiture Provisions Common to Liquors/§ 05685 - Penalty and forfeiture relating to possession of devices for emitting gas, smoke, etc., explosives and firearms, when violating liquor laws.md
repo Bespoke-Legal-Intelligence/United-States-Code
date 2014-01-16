@@ -2,7 +2,7 @@
 
 #### (a) Penalty for possession of devices for emitting gas, smoke, etc.
 
-Whoever, when violating any law of the United States, or of any possession of the United States, or of the District of Columbia, in regard to the manufacture, taxation, or transportation of or traffic in distilled spirits, wines, or beer, or when aiding in any such violation, has in his possession or in his control any device capable of causing emission of gas, smoke, or fumes, and which may be used for the purpose of hindering, delaying, or preventing pursuit or capture, any explosive, or any firearm (as defined in section 5845), except a machine gun, or a shotgun having a barrel or barrels less than 18 inches in length, or a rifle having a barrel or barrels less than 16 inches in length, shall be fined not more than $5,000, or imprisoned not more than 10 years, or both, and all persons engaged in any such violation or in aiding in any such violation shall be held to be in possession or control of such device, firearm, or explosive.
+Whoever, when violating any law of the United States, or of any possession of the United States, or of the District of Columbia, in regard to the manufacture, taxation, or transportation of or traffic in distilled spirits, wines, or beer, or when aiding in any such violation, has in hispossession or in his control any device capable of causing emission of gas, smoke, or fumes, and which may be used for the purpose of hindering, delaying, or preventing pursuit or capture, any explosive, or any firearm (as defined in section 5845), except a machine gun, or a shotgun having a barrel or barrels less than 18 inches in length, or a rifle having a barrel or barrels less than 16 inches in length, shall be fined not more than $5,000, or imprisoned not more than 10 years, or both, and all persons engaged in any such violation or in aiding in any such violation shall be held to be in possession or control of such device, firearm, or explosive.
 
 #### (b) Penalty for possession of machine gun, etc.
 
@@ -14,7 +14,7 @@ Every such firearm or device for emitting gas, smoke, or fumes, and every such e
 
 #### (d) Definition of machine gun
 
-As used in this section the term “machine gun” means a machine gun as defined in section 5845(b).
+As used in this section the term "machine gun" means a machine gun as defined in section 5845(b).
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1411; amended Pub. L. 86–478, §4, June 1, 1960, 74 Stat. 150; Pub. L. 94–455, title XIX, §1905(a)(23), (c)(6), Oct. 4, 1976, 90 Stat. 1821, 1823.)
 
@@ -24,13 +24,13 @@ A prior section 5685, act Aug. 16, 1954, ch. 736, 68A Stat. 699, consisted of pr
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1905(a)(23)(A), (c)(6), struck out “Territory or” after “United States, or of any” and substituted “section 5845” for “section 5848”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1905(a)(23)(A), (c)(6), struck out "Territory or" after "United States, or of any" and substituted "section 5845" for "section 5848".
 
-Subsec. (c). Pub. L. 94–455, §1905(a)(23)(B), substituted “section 5872” for “section 5862”.
+Subsec. (c). Pub. L. 94–455, §1905(a)(23)(B), substituted "section 5872" for "section 5862".
 
-Subsec. (d). Pub. L. 94–455, §1905(a)(23)(C), substituted “means a machinegun as defined in section 5845(b)” for “means any weapon which shoots, or is designed to shoot, automatically or semiautomatically, more than one shot, without manual reloading, by a single function of the trigger”.
+Subsec. (d). Pub. L. 94–455, §1905(a)(23)(C), substituted "means a machinegun as defined in section 5845(b)" for "means any weapon which shoots, or is designed to shoot, automatically or semiautomatically, more than one shot, without manual reloading, by a single function of the trigger".
 
-<b>1960</b>—Subsecs. (a), (b). Pub. L. 86–478 substituted “shotgun having a barrel or barrels less than 18 inches in length, or a rifle having a barrel or barrels less than 16 inches in length” for “shotgun or rifle having a barrel or barrels less than 18 inches in length”.
+<b>1960</b>—Subsecs. (a), (b). Pub. L. 86–478 substituted "shotgun having a barrel or barrels less than 18 inches in length, or a rifle having a barrel or barrels less than 16 inches in length" for "shotgun or rifle having a barrel or barrels less than 18 inches in length".
 
 #### Effective Date of 1976 Amendment
 

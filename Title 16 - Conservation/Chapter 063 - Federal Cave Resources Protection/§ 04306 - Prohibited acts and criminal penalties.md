@@ -16,5 +16,5 @@ The punishment for violating any provision of subsection (a) of this section sha
 
 (Pub. L. 100–691, §7, Nov. 18, 1988, 102 Stat. 4549.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

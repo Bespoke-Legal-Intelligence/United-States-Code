@@ -6,7 +6,7 @@ Before the Commission establishes any guaranteed purchase price or guaranteed pu
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437 substituted “Energy Committees” for “Joint Committee” in two places.
+<b>1994</b>—Pub. L. 103–437 substituted "Energy Committees" for "Joint Committee" in two places.
 
-<b>1964</b>—Pub. L. 88–489 substituted “guaranteed purchase” and “purchase” for “fair” wherever appearing, “licensed and distributed” for “licensed or distributed”, and provided that the Joint Committee resolution waiving the conditions of the forty-five-day period must be in writing.
+<b>1964</b>—Pub. L. 88–489 substituted "guaranteed purchase" and "purchase" for "fair" wherever appearing, "licensed and distributed" for "licensed or distributed", and provided that the Joint Committee resolution waiving the conditions of the forty-five-day period must be in writing.
 

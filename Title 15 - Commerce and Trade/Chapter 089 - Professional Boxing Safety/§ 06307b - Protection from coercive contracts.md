@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-(1)(A) A contract provision shall be considered to be in restraint of trade, contrary to publicpolicy, and unenforceable against any boxer to the extent that it—
+(1)(A) A contract provision shall be considered to be in restraint of trade, contrary to public policy, and unenforceable against any boxer to the extent that it—
 
 &emsp;(i) is a coercive provision described in subparagraph (B) and is for a period greater than 12 months; or
 
@@ -20,7 +20,7 @@ No boxing service provider may require a boxer to grant any future promotional r
 
 #### (c) Protection from coercive contracts with broadcasters
 
-Subsection (a) of this section applies to any contract between a commercial broadcaster and a boxer, or granting any rights with respect to that boxer, involving a broadcast in or affecting interstate commerce, regardless of the broadcast medium. For the purpose of this subsection, any reference in subsection (a)(1)(B) of this section to “promoter” shall be considered a reference to “commercial broadcaster”.
+Subsection (a) of this section applies to any contract between a commercial broadcaster and a boxer, or granting any rights with respect to that boxer, involving a broadcast in or affecting interstate commerce, regardless of the broadcast medium. For the purpose of this subsection, any reference in subsection (a)(1)(B) of this section to "promoter" shall be considered a reference to "commercial broadcaster".
 
 (Pub. L. 104–272, §10, as added Pub. L. 106–210, §4(2), May 26, 2000, 114 Stat. 322.)
 

@@ -42,5 +42,5 @@ Nov. 2, 1966, Pub. L. 89–703, 80 Stat. 1099.
 
 &nbsp;
 
-In subsection (c), the word “activities” is substituted for “proceedings” for consistency in this chapter.
+In subsection (c), the word "activities" is substituted for "proceedings" for consistency in this chapter.
 

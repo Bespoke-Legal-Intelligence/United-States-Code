@@ -14,7 +14,7 @@ The first paragraph is the provision in R.S. 4888 (see section 112). The second 
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 struck out “of this title” after “112”.
+<b>2011</b>—Pub. L. 112–29 struck out "of this title" after "112".
 
 #### Effective Date of 2011 Amendment
 

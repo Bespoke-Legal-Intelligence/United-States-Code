@@ -22,7 +22,7 @@ Oct. 12, 1949, ch. 681, §509; restated May 19, 1952, ch. 310, §3, 66 Stat. 80.
 
 <b>2013</b>—Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “402–403b, 474–477” for “402–407” and “479–481” for “409–411”.
+<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "402–403b, 474–477" for "402–407" and "479–481" for "409–411".
 
 #### Effective Date of 2013 Amendment
 

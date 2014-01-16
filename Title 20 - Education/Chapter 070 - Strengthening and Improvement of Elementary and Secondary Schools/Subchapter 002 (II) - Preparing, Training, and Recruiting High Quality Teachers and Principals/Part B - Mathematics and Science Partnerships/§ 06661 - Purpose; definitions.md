@@ -6,9 +6,9 @@ The purpose of this part is to improve the academic achievement of students in t
 
 &emsp;(1) improve and upgrade the status and stature of mathematics and science teaching by encouraging institutions of higher education to assume greater responsibility for improving mathematics and science teacher education through the establishment of a comprehensive, integrated system of recruiting, training, and advising mathematics and science teachers;
 
-&emsp;(2) focus on the education of mathematics and science teachers as a career-long process that continuously stimulates teachers’ intellectual growth and upgrades teachers’ knowledge and skills;
+&emsp;(2) focus on the education of mathematics and science teachers as a career-long process that continuously stimulates teachers' intellectual growth and upgrades teachers' knowledge and skills;
 
-&emsp;(3) bring mathematics and science teachers in elementary schools and secondary schools together with scientists, mathematicians, and engineers to increase the subject matter knowledge of mathematics and science teachers and improve such teachers’ teaching skills through the use of sophisticated laboratory equipment and work space, computing facilities, libraries, and other resources that institutions of higher education are better able to provide than the elementary schools and secondary schools;
+&emsp;(3) bring mathematics and science teachers in elementary schools and secondary schools together with scientists, mathematicians, and engineers to increase the subject matter knowledge of mathematics and science teachers and improve such teachers' teaching skills through the use of sophisticated laboratory equipment and work space, computing facilities, libraries, and other resources that institutions of higher education are better able to provide than the elementary schools and secondary schools;
 
 &emsp;(4) develop more rigorous mathematics and science curricula that are aligned with challenging State and local academic content standards and with the standards expected for postsecondary study in engineering, mathematics, and science; and
 
@@ -20,7 +20,7 @@ In this part:
 
 #### (1) Eligible partnership
 
-&emsp;The term “eligible partnership” means a partnership that—
+&emsp;The term "eligible partnership" means a partnership that—
 
 &emsp;&emsp;(A) shall include—
 
@@ -42,7 +42,7 @@ In this part:
 
 #### (2) Summer workshop or institute
 
-&emsp;The term “summer workshop or institute” means a workshop or institute, conducted during the summer, that—
+&emsp;The term "summer workshop or institute" means a workshop or institute, conducted during the summer, that—
 
 &emsp;&emsp;(A) is conducted for a period of not less than 2 weeks;
 
@@ -52,7 +52,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(i) if the workshop or institute is conducted during a 2-week period, the followup training shall be conducted for a period of not less than 4 days; and
 
-&emsp;&emsp;&emsp;(ii) if the followup training is for teachers in rural school districts, the followuptraining may be conducted through distance learning.
+&emsp;&emsp;&emsp;(ii) if the followup training is for teachers in rural school districts, the followup training may be conducted through distance learning.
 
 (Pub. L. 89–10, title II, §2201, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1642.)
 

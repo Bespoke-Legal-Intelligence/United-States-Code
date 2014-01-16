@@ -8,7 +8,7 @@ Services Available.—(1) Female members and former members of the uniformed ser
 
 (b)
 
-Definition.—In this section, the term “primary and preventive health care services for women” means health care services, including related counseling services, provided to women with respect to the following:
+Definition.—In this section, the term "primary and preventive health care services for women" means health care services, including related counseling services, provided to women with respect to the following:
 
 &emsp;(1) Cervical cancer screening.
 
@@ -30,13 +30,13 @@ Definition.—In this section, the term “primary and preventive health care se
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–364, §703(a)(1), inserted at end “The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe.”
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–364, §703(a)(1), inserted at end "The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe."
 
-Subsec. (b)(1). Pub. L. 109–364, §703(a)(2)(A), substituted “Cervical cancer screening” for “Papanicolaou tests (pap smear)”.
+Subsec. (b)(1). Pub. L. 109–364, §703(a)(2)(A), substituted "Cervical cancer screening" for "Papanicolaou tests (pap smear)".
 
-Subsec. (b)(2). Pub. L. 109–364, §703(a)(2)(B), substituted “Breast cancer screening” for “Breast examinations and mammography”.
+Subsec. (b)(2). Pub. L. 109–364, §703(a)(2)(B), substituted "Breast cancer screening" for "Breast examinations and mammography".
 
-<b>1996</b>—Pub. L. 104–201, §701(a)(2)(A), amended catchline generally, substituting “Certain primary and preventive health care services” for “Primary and preventive health care services for women”.
+<b>1996</b>—Pub. L. 104–201, §701(a)(2)(A), amended catchline generally, substituting "Certain primary and preventive health care services" for "Primary and preventive health care services for women".
 
 Subsec. (a). Pub. L. 104–201, §701(a)(1)(A), designated existing provisions as par. (1) and added par. (2).
 
@@ -46,89 +46,89 @@ Subsec. (b)(8). Pub. L. 104–201, §701(a)(1)(B), added par. (8).
 
 Pub. L. 103–337, div. A, title II, §241, Oct. 5, 1994, 108 Stat. 2701, provided that:
 
-“(a)
+"(a)
 
 Continuation of Program.—The Secretary of Defense shall continue the Defense Women's Health Research Program established in fiscal year 1994 pursuant to the authority in section 251 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1606) \[set out below\]. The program shall continue to serve as the coordinating agent for multi-disciplinary and multi-institutional research within the Department of Defense on women's health issues related to service in the Armed Forces. The program also shall continue to coordinate with research supported by other Federal agencies that is aimed at improving the health of women.
 
-“(b)
+"(b)
 
 Participation by All Military Departments.—The Departments of the Army, Navy, and Air Force shall each participate in the activities under the program.
 
-“(c)
+"(c)
 
 Army To Be Executive Agent.—The Secretary of Defense shall designate the Secretary of the Army to be the executive agent for administering the program.
 
-“(d)
+"(d)
 
 Implementation Plan.—If the Secretary of Defense intends to change the plan for the implementation of the program previously submitted to the Committees on Armed Services of the Senate and House of Representatives, the amended plan shall be submitted to such committees before implementation.
 
-“(e)
+"(e)
 
 Program Activities.—The program shall include the following activities regarding health risks and health care for women in the Armed Forces:
 
-&emsp;“(1) The coordination and support activities described in section 251 of Public Law 103–160 \[set out below\].
+&emsp;"(1) The coordination and support activities described in section 251 of Public Law 103–160 \[set out below\].
 
-&emsp;“(2) Epidemiologic research regarding women deployed for military operations, including research on patterns of illness and injury, environmental and occupational hazards (including exposure to toxins), side-effects of pharmaceuticals used by women so deployed, psychological stress associated with military training, deployment, combat and other traumatic incidents, and other conditions of life, and human factor research regarding women so deployed.
+&emsp;"(2) Epidemiologic research regarding women deployed for military operations, including research on patterns of illness and injury, environmental and occupational hazards (including exposure to toxins),side-effects of pharmaceuticals used by women so deployed, psychological stress associated with military training, deployment, combat and other traumatic incidents, and other conditions of life, and human factor research regarding women so deployed.
 
-&emsp;“(3) Development of a data base to facilitate long-term research studies on issues related to the health of women in military service, and continued development and support of a women's health information clearinghouse to serve as an information resource for clinical, research, and policy issues affecting women in the Armed Forces.
+&emsp;"(3) Development of a data base to facilitate long-term research studies on issues related to the health of women in military service, and continued development and support of a women's health information clearinghouse to serve as an information resource for clinical, research, and policy issues affecting women in the Armed Forces.
 
-&emsp;“(4) Research on policies and standards issues, including research supporting the development of military standards related to training, operations, deployment, and retention and the relationship between such activities and factors affecting women's health.
+&emsp;"(4) Research on policies and standards issues, including research supporting the development of military standards related to training, operations, deployment, and retention and the relationship between such activities and factors affecting women's health.
 
-&emsp;“(5) Research on interventions having a potential for addressing conditions of military service that adversely affect the health of women in the Armed Forces.
+&emsp;"(5) Research on interventions having a potential for addressing conditions of military service that adversely affect the health of women in the Armed Forces.
 
-“(f)
+"(f)
 
-Funding.—Of the amount authorized to be appropriated pursuant to section 201 \[108 Stat. 2690\], $40,000,000 shall be available for the Defense Women's Health Research Program referred to in subsection (a).”
+Funding.—Of the amount authorized to be appropriated pursuant to section 201 \[108 Stat. 2690\], $40,000,000 shall be available for the Defense Women's Health Research Program referred to in subsection (a)."
 
 Pub. L. 103–160, div. A, title II, §251, Nov. 30, 1993, 107 Stat. 1606, provided that:
 
-“(a)
+"(a)
 
-Authority To Establish Center.—The Secretary of Defense may establish a Defense Women's Health Research Center (hereinafter in this section referred to as the ‘Center’) at an existing Department of Defense medical center to serve as the coordinating agent for multidisciplinary and multi-institutional research within the Department of Defense on women's health issues related to service in the Armed Forces. The Secretary shall determine whether or not to establish the Center not later than May 1, 1994. If established, the Center shall also coordinate with research supported by the Department of Health and Human Services and other agencies that is aimed at improving the health of women.
+Authority To Establish Center.—The Secretary of Defense may establish a Defense Women's Health Research Center (hereinafter in this section referred to as the 'Center') at an existing Department of Defense medical center to serve as the coordinating agent for multidisciplinary and multi-institutional research within the Department of Defense on women's health issues related to service in the Armed Forces. The Secretary shall determine whether or not to establish the Center not later than May 1, 1994. If established, the Center shall also coordinate with research supported by the Department of Health and Human Services and other agencies that is aimed at improving the health of women.
 
-“(b)
+"(b)
 
 Support of Research.—The Center shall support health research into matters relating to the service of women in the military, including the following matters:
 
-&emsp;“(1) Combat stress and trauma.
+&emsp;"(1) Combat stress and trauma.
 
-&emsp;“(2) Exposure to toxins and other environmental hazards associated with military equipment.
+&emsp;"(2) Exposure to toxins and other environmental hazards associated with military equipment.
 
-&emsp;“(3) Psychology related stress in warfare situations.
+&emsp;"(3) Psychology related stress in warfare situations.
 
-&emsp;“(4) Mental health, including post-traumatic stress disorder and depression.
+&emsp;"(4) Mental health, including post-traumatic stress disorder and depression.
 
-&emsp;“(5) Human factor studies related to women in combat areas.
+&emsp;"(5) Human factor studies related to women in combat areas.
 
-“(c)
+"(c)
 
 Competition Requirement Relating to Establishment of Center.—The Center may be established only pursuant to a competition among existing Department of Defense medical centers.
 
-“(d)
+"(d)
 
 Implementation Plan.—The Secretary of Defense shall prepare a plan for the implementation of subsection (a). The plan shall be submitted to the Committees on Armed Services of the Senate and House of Representatives before May 1, 1994.
 
-“(e)
+"(e)
 
 Activities for Fiscal Year 1994.—During fiscal year 1994, the Center may address the following:
 
-&emsp;“(1) Program planning, infrastructure development, baseline information gathering, technology infusion, and connectivity.
+&emsp;"(1) Program planning, infrastructure development, baseline information gathering, technology infusion, and connectivity.
 
-&emsp;“(2) Management and technical staffing.
+&emsp;"(2) Management and technical staffing.
 
-&emsp;“(3) Data base development of health issues related to service by women on active duty as compared to service by women in the National Guard or Reserves.
+&emsp;"(3) Data base development of health issues related to service by women on active duty as compared to service by women in the National Guard or Reserves.
 
-&emsp;“(4) Research protocols, cohort development, health surveillance, and epidemiologic studies, to be developed in coordination with the Centers for Disease Control and the National Institutes of Health whenever possible.
+&emsp;"(4) Research protocols, cohort development, health surveillance, and epidemiologic studies, to be developed in coordination with the Centers for Disease Control and the National Institutes of Health whenever possible.
 
-“(f)
+"(f)
 
 Funding.—Of the funds authorized to be appropriated pursuant to section 201 \[107 Stat. 1583\], $20,000,000 shall be available for the establishment of the Center or for medical research at existing Department of Defense medical centers into matters relating to service by women in the military.
 
-“(g)
+"(g)
 
 Report.—(1) If the Secretary of Defense determines not to establish a women's health center under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives, not later than May 1, 1994, a report on the plans of the Secretary for the use of the funds described in subsection (f).
 
-“(2) If the Secretary determines to establish the Center, the Secretary shall, not less than 60 days before the establishment of the Center, submit to those committees a report describing the planned location for the Center and the competitive process used in the selection of that location.”
+"(2) If the Secretary determines to establish the Center, the Secretary shall, not less than 60 days before the establishment of the Center, submit to those committees a report describing the planned location for the Center and the competitive process used in the selection of that location."
 
 #### Report on Provision of Primary and Preventative Health Care Services for Women
 

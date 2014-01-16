@@ -18,5 +18,5 @@ Similar provisions relating to general powers of the Comptroller General with re
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline.
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in section catchline.
 

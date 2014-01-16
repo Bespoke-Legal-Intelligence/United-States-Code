@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may establish and implement a program to be known as the “Teaching American History Grant Program”, under which the Secretary shall award grants on a competitive basis to local educational agencies—
+The Secretary may establish and implement a program to be known as the "Teaching American History Grant Program", under which the Secretary shall award grants on a competitive basis to local educational agencies—
 
 &emsp;(1) to carry out activities to promote the teaching of traditional American history in elementary schools and secondary schools as a separate academic subject (not as a component of social studies); and
 
@@ -28,5 +28,5 @@ To be eligible to receive an <sup>1</sup> grant under this section, a local edu
 
 (Pub. L. 89–10, title II, §2351, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1666.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
 

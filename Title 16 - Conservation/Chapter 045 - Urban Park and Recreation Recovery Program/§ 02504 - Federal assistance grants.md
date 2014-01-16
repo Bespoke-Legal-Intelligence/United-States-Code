@@ -24,7 +24,7 @@ The Secretary shall also establish priority criteria for project selection and a
 
 &emsp;(6) the extent to which a proposed project would provide employment opportunities for minorities, youth, and low- and moderate-income residents in the project neighborhood and/or would provide for participation of neighborhood, nonprofit or tenant organizations in the proposed rehabilitation activity or in subsequent maintenance, staffing, or supervision of recreation areas and facilities;
 
-&emsp;(7) the amount of State and private support for a project as evidenced by commitments of non-Federal resources to project construction or operation; and
+&emsp;(7) the amount of State and private support for a project as evidenced by commitments ofnon-Federal resources to project construction or operation; and
 
 &emsp;(8) in the case of at-risk youth recreation grants, the Secretary shall give a priority to each of the following criteria:
 
@@ -48,7 +48,7 @@ The Secretary shall also establish priority criteria for project selection and a
 
 <b>1994</b>—Subsec. (c)(8). Pub. L. 103–322, which directed the addition of par. (8) to this section without specifying the subsec. to which par. (8) was to be added, was executed by adding par. (8) to subsec. (c) to reflect the probable intent of Congress.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
 

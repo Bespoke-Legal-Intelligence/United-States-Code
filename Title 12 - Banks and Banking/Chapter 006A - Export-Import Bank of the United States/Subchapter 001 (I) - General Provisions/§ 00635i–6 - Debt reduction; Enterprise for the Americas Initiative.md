@@ -4,11 +4,11 @@
 
 For purposes of this section—
 
-&emsp;(1) the term “eligible country” means a country designated by the President in accordance with subsection (b) of this section;
+&emsp;(1) the term "eligible country" means a country designated by the President in accordance with subsection (b) of this section;
 
-&emsp;(2) the term “Facility” means the entity established in the Department of the Treasury by section 1738 of title 7; and
+&emsp;(2) the term "Facility" means the entity established in the Department of the Treasury by section 1738 of title 7; and
 
-&emsp;(3) the term “IMF” means the International Monetary Fund.
+&emsp;(3) the term "IMF" means the International Monetary Fund.
 
 #### (b) Eligibility for benefits under the Facility
 
@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### (4) Administration
 
-&emsp;The Facility shall notify the Bank of purchasers that the President has determined to be eligible, and shall direct the Bank to carry out the sale, reduction, or cancellation of a loan pursuant to this section. The Bank shall make an adjustment in its accounts to reflect the sale, reduction, or cancellation.
+&emsp;The Facility shall notify the Bank of purchasers that the President has determined tobe eligible, and shall direct the Bank to carry out the sale, reduction, or cancellation of a loan pursuant to this section. The Bank shall make an adjustment in its accounts to reflect the sale, reduction, or cancellation.
 
 #### (5) Limitations
 
@@ -94,7 +94,7 @@ A prior section 12 of act July 31, 1945, ch. 341, was classified to section 635i
 
 Subsec. (c)(1)(B). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to sections 1738f through 1738k of title 7.
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–189 substituted “subsection (b) of this section” for “section (b) of this section”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–189 substituted "subsection (b) of this section" for "section (b) of this section".
 
 #### Effective Date of 2008 Amendment
 

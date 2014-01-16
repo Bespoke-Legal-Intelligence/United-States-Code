@@ -28,9 +28,9 @@ Based on title 18, U.S.C., 1940 ed., §§409, 410, 411 (Feb. 13, 1913, ch. 50, �
 
 This section consolidates sections 409, 410, and 411 of title 18, U.S.C., 1940 ed. First clause of said section 409 was incorporated in section 2117 of this title.
 
-In the paragraph immediately preceding the last paragraph the words “and to which” were added to obviate an inadvertent and incongruous omission in the enactment of act July 24, 1946, ch. 606, §3, 60 Stat. 657. This is in harmony with corrective legislation pending before the Eightieth Congress.
+In the paragraph immediately preceding the last paragraph the words "and to which" were added to obviate an inadvertent and incongruous omission in the enactment of act July 24, 1946, ch. 606, §3, 60 Stat. 657. This is in harmony with corrective legislation pending before the Eightieth Congress.
 
-The definitions of “station house”, “depot”, “wagon”, “automobile”, “truck”, or “other vehicle”, contained in said section 409 of title 18, are omitted as unnecessary.
+The definitions of "station house", "depot", "wagon", "automobile", "truck", or "other vehicle", contained in said section 409 of title 18, are omitted as unnecessary.
 
 The smaller punishment for an offense involving $100 or less was added. (See reviser's notes under sections 641 and 645 of this title.) This improvement was suggested by United States Attorney P. F. Herrick, of Puerto Rico. (See reviser's note under section 641 of this title.)
 
@@ -38,27 +38,27 @@ Minor changes were made in phraseology.
 
 #### 1949 Act
 
-This section \[section 13\] inserts the word, “embezzled” preceding “or stolen” near the ends of the second and fourth paragraphs of section 659 of title 18, U.S.C., to restore the language of the original law from which such section was derived. Also, for clarity, substitutes, “whoever” for “who” preceding “buys” in said fourth paragraph of section 659.
+This section \[section 13\] inserts the word, "embezzled" preceding "or stolen" near the ends of the second and fourth paragraphs of section 659 of title 18, U.S.C., to restore the language of the original law from which such section was derived. Also, for clarity, substitutes, "whoever" for "who" preceding "buys" in said fourth paragraph of section 659.
 
 #### Senate Revision Amendment
 
-The “corrective legislation”, referred to in this paragraph, became Act April 16, 1947, ch. 39, 61 Stat. 52, and, as it amended section 411 of title 18, U.S.C., such act was an additional source of this section.
+The "corrective legislation", referred to in this paragraph, became Act April 16, 1947, ch. 39, 61 Stat. 52, and, as it amended section 411 of title 18, U.S.C., such act was an additional source of this section.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–186 inserted at end of fifth par. “If the offense involves a pre-retail medical product (as defined in section 670), it shall be punished under section 670 unless the penalties provided for under this section are greater.”
+<b>2012</b>—Pub. L. 112–186 inserted at end of fifth par. "If the offense involves a pre-retail medical product (as defined in section 670), it shall be punished under section 670 unless the penalties provided for under this section are greater."
 
-<b>2006</b>—Pub. L. 109–177, in first par., inserted “trailer,” after “motortruck,”, “air cargo container,” after “aircraft,”, and “, or from any intermodal container, trailer, container freight station, warehouse, or freight consolidation facility,” after “air navigation facility”, in fifth par., substituted “be fined under this title or imprisoned not more than 10 years, or both, but if the amount or value of such money, baggage, goods, or chattels is less than $1,000, shall be fined under this title or imprisoned for not more than 3 years, or both” for “in each case be fined under this title or imprisoned not more than ten years, or both; but if the amount or value of such money, baggage, goods or chattels does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both”, and, in eighth par., inserted “For purposes of this section, goods and chattel shall be construed to be moving as an interstate or foreign shipment at all points between the point of origin and the final destination (as evidenced by the waybill or other shipping document of the shipment), regardless of any temporary stop while awaiting transshipment or otherwise.” after first sentence.
+<b>2006</b>—Pub. L. 109–177, in first par., inserted "trailer," after "motortruck,", "air cargo container," after "aircraft,", and ", or from any intermodal container, trailer, container freight station, warehouse, or freight consolidation facility," after "air navigation facility", in fifth par., substituted "be fined under this title or imprisoned not more than 10 years, or both, but if the amount or value of such money, baggage, goods, or chattels is less than $1,000, shall be fined under this title or imprisoned for not more than 3 years, or both" for "in each case be fined under this title or imprisoned not more than ten years, or both; but if the amount or value of such money, baggage, goods or chattels does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both", and, in eighth par., inserted "For purposes of this section, goods and chattel shall be construed to be moving as an interstate or foreign shipment at all points between the point of origin and the final destination (as evidenced by the waybill or other shipping document of the shipment), regardless of any temporary stop while awaiting transshipment or otherwise." after first sentence.
 
-<b>1996</b>—Pub. L. 104–294 substituted “$1,000” for “$100” in fifth par.
+<b>1996</b>—Pub. L. 104–294 substituted "$1,000" for "$100" in fifth par.
 
-<b>1994</b>—Pub. L. 103–322, in fifth par., substituted “fined under this title” for “fined not more than $5,000” after “Shall in each case be” and for “fined not more than $1,000” after “he shall be”.
+<b>1994</b>—Pub. L. 103–322, in fifth par., substituted "fined under this title" for "fined not more than $5,000" after "Shall in each case be" and for "fined not more than $1,000" after "he shall be".
 
-<b>1966</b>—Pub. L. 89–654 substituted “shipments by carrier” for “baggage, express, or freight” in section catchline, inserted “pipeline system” and “tank or storage facility” and substituted “freight, express, or other property” for “freight or express” in first par., provided in eighth par. that the removal of property from a pipeline system which extends interstate shall be prima facie evidence of the interstate character of the shipment of the property, and, in ninth par., prohibited any construction which indicated an intent on the part of Congress to occupy the field to the exclusion of State laws or to invalidate inconsistent State provisions.
+<b>1966</b>—Pub. L. 89–654 substituted "shipments by carrier" for "baggage, express, or freight" in section catchline, inserted "pipeline system" and "tank or storage facility" and substituted "freight, express, or other property" for "freight or express" in first par., provided in eighth par. that the removal of property from a pipeline system which extends interstate shall be prima facie evidence of the interstate character of the shipment of the property, and, in ninth par., prohibited any construction which indicated an intent on the part of Congress to occupy the field to the exclusion of State laws or to invalidate inconsistent State provisions.
 
-<b>1949</b>—Act May 24, 1949, inserted “embezzled or” before “stolen” in second par., and substituted “whoever” for “who” before “buys” in fourth par.
+<b>1949</b>—Act May 24, 1949, inserted "embezzled or" before "stolen" in second par., and substituted "whoever" for "who" before "buys" in fourth par.
 
 #### Annual Report of Law Enforcement Activities
 
-Pub. L. 109–177, title III, §307(d), Mar. 9, 2006, 120 Stat. 240, provided that: “The Attorney General shall annually submit to Congress a report, which shall include an evaluation of law enforcement activities relating to the investigation and prosecution of offenses under section 659 of title 18, United States Code, as amended by this title.”
+Pub. L. 109–177, title III, §307(d), Mar. 9, 2006, 120 Stat. 240, provided that: "The Attorney General shall annually submit to Congress a report, which shall include an evaluation of law enforcement activities relating to the investigation and prosecution of offenses under section 659 of title 18, United States Code, as amended by this title."
 

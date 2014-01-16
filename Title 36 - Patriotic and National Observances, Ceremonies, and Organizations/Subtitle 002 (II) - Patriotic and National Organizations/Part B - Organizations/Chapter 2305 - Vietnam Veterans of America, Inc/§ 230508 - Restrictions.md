@@ -52,9 +52,9 @@ May 23, 1986, Pub. L. 99–318, §9, 100 Stat. 475.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “No part of” are omitted as unnecessary. The words “inure to the benefit of” are substituted for “inure to”, the words “the charter granted by this chapter” are substituted for “this charter”, and the words “This subsection does not prevent” are substituted for “Nothing in this subsection shall be construed to prevent”, for consistency in the revised title.
+In subsection (b), the words "No part of" are omitted as unnecessary. The words "inure to the benefit of" are substituted for "inure to", the words "the charter granted by this chapter" are substituted for "this charter", and the words "This subsection does not prevent" are substituted for "Nothing in this subsection shall be construed to prevent", for consistency in the revised title.
 
-In subsection (d), the words “by virtue of this chapter” are omitted as unnecessary.
+In subsection (d), the words "by virtue of this chapter" are omitted as unnecessary.
 

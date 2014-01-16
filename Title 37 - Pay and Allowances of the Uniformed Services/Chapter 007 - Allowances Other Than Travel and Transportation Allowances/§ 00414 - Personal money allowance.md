@@ -54,19 +54,19 @@ Oct. 12, 1949, ch. 681, §304, 63 Stat. 816; Aug. 10, 1956, ch. 1041, §20(c), 7
 
 Aug. 2, 1946, ch. 756, §3, 60 Stat. 853.
 
-In subsection (b), the words “pay or” are inserted to conform to subsection (a). The word “position” is substituted for the words “capacities” and “officers”, respectively. In clause (1), the words “Superintendent of the Naval Postgraduate School” are substituted for the words “Head of the Postgraduate school at the Naval Academy” to reflect present terminology.
+In subsection (b), the words "pay or" are inserted to conform to subsection (a). The word "position" is substituted for the words "capacities" and "officers", respectively. In clause (1), the words "Superintendent of the Naval Postgraduate School" are substituted for the words "Head of the Postgraduate school at the Naval Academy" to reflect present terminology.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–364 struck out before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–364 struck out before period at end ", or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff".
 
-Pub. L. 109–163, §685(c)(2) inserted before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
+Pub. L. 109–163, §685(c)(2) inserted before period at end ", or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff".
 
-Pub. L. 109–163, §685(c)(1), which directed that subsec. (c) be amended by striking “or” after “Sergeant Major of the Marine Corps,” could not be executed because of prior amendment by Pub. L. 109–148. See below.
+Pub. L. 109–163, §685(c)(1), which directed that subsec. (c) be amended by striking "or" after "Sergeant Major of the Marine Corps," could not be executed because of prior amendment by Pub. L. 109–148. See below.
 
-2005–Subsec. (c). Pub. L. 109–148 substituted “the Master Chief Petty Officer of the Coast Guard, or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff” for “or the Master Chief Petty Officer of the Coast Guard”.
+2005–Subsec. (c). Pub. L. 109–148 substituted "the Master Chief Petty Officer of the Coast Guard, or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff" for "or the Master Chief Petty Officer of the Coast Guard".
 
-<b>2004</b>—Subsec. (b)(1). Pub. L. 108–375 substituted “President of the Naval Postgraduate School” for “Superintendent of the Naval Postgraduate School”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–375 substituted "President of the Naval Postgraduate School" for "Superintendent of the Naval Postgraduate School".
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(b)(1)\], inserted heading.
 
@@ -74,13 +74,13 @@ Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(b)(2)\], inser
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(a)\], added subsec. (c).
 
-<b>1991</b>—Subsec. (a)(3). Pub. L. 102–25 struck out “of this subsection” after “clause (1)”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–25 struck out "of this subsection" after "clause (1)".
 
 <b>1966</b>—Subsec. (a)(2). Pub. L. 89–718 struck out reference to service as the Director of the Coast and Geodetic Survey.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–149, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2000.”
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–149, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 2000."
 
 #### Transfer of Functions
 

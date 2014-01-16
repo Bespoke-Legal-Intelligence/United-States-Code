@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 Pub. L. 102–555, title III, §302, Oct. 28, 1992, 106 Stat. 4174.
 
-In subsection (b), the word “affect” is substituted for “effect” to correct an error in the law.
+In subsection (b), the word "affect" is substituted for "effect" to correct an error in the law.
 

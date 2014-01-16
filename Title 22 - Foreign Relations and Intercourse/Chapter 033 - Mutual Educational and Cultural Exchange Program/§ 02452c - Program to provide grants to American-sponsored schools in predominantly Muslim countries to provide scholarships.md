@@ -54,15 +54,15 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–53, §2014(b)(1)(A), struck out “Pilot” before “Program” in section catchline.
+<b>2007</b>—Pub. L. 110–53, §2014(b)(1)(A), struck out "Pilot" before "Program" in section catchline.
 
-Subsec. (c). Pub. L. 110–53, §2014(b)(1)(B), struck out “Pilot” before “Program” in heading and “pilot” before “program” in text.
+Subsec. (c). Pub. L. 110–53, §2014(b)(1)(B), struck out "Pilot" before "Program" in heading and "pilot" before "program" in text.
 
-Subsecs. (d), (f). Pub. L. 110–53, §2014(b)(1)(C), (D), struck out “pilot” before “program” wherever appearing.
+Subsecs. (d), (f). Pub. L. 110–53, §2014(b)(1)(C), (D), struck out "pilot" before "program" wherever appearing.
 
-Subsec. (g). Pub. L. 110–53, §2014(b)(1)(E), inserted “and April 15, 2008,” before “the Secretary” and struck out “pilot” before “program”.
+Subsec. (g). Pub. L. 110–53, §2014(b)(1)(E), inserted "and April 15, 2008," before "the Secretary" and struck out "pilot" before "program".
 
-Subsec. (h). Pub. L. 110–53, §2014(b)(1)(F), substituted “2007 and 2008” for “2005 and 2006” and struck out “pilot” before “program”.
+Subsec. (h). Pub. L. 110–53, §2014(b)(1)(F), substituted "2007 and 2008" for "2005 and 2006" and struck out "pilot" before "program".
 
 #### Change of Name
 
@@ -70,9 +70,9 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Findings
 
-Pub. L. 110–53, title XX, §2014(a), Aug. 3, 2007, 121 Stat. 512, provided that: “Congress finds the following:
+Pub. L. 110–53, title XX, §2014(a), Aug. 3, 2007, 121 Stat. 512, provided that: "Congress finds the following:
 
-&emsp;“(1) Section 7113 of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 22 U.S.C. 2452 note \[now 22 U.S.C. 2452c\]) authorized the establishment of a pilot program to provide grants to American-sponsored schools in predominantly Muslim countries so that such schools could provide scholarships to young people from lower-income and middle-income families in such countries to attend such schools, where they could improve their English and be exposed to a modern education.
+&emsp;"(1) Section 7113 of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 22 U.S.C. 2452 note \[now 22 U.S.C. 2452c\]) authorized the establishment of a pilot program to provide grants to American-sponsored schools in predominantly Muslim countries so that such schools could provide scholarships to young people from lower-income and middle-income families in such countries to attend such schools, where they could improve their English and be exposed to a modern education.
 
-&emsp;“(2) Since the date of the enactment of that section \[Dec. 17, 2004\], the Middle East Partnership Initiative has pursued implementation of that program.”
+&emsp;"(2) Since the date of the enactment of that section \[Dec. 17, 2004\], the Middle East Partnership Initiative has pursued implementation of that program."
 

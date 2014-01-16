@@ -6,7 +6,7 @@
 
 (2) The report submitted to the President shall be submitted each year at the time that the President's budget for the next fiscal year is submitted to Congress pursuant to section 1105 of title 31.
 
-(3) The report submitted to the congressional intelligence committees shall be submitted on the date provided in section 415b of this title.
+(3) The report submitted to the congressional intelligence committees shall be submitted on the date provided in section 3106 of this title.
 
 #### (b) Contents of report
 
@@ -48,11 +48,11 @@ Section 1903(b) of this title, referred to in subsec. (d), was amended and now s
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–306 designated first and second sentences as pars. (1) and (2), respectively, in par. (1), substituted “the congressional intelligence committees” for “the Congress”, in par. (2), inserted “submitted to the President” after “The report”, and added par. (3).
+<b>2002</b>—Subsec. (a). Pub. L. 107–306 designated first and second sentences as pars. (1) and (2), respectively, in par. (1), substituted "the congressional intelligence committees" for "the Congress", in par. (2), inserted "submitted to the President" after "The report", and added par. (3).
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–272 substituted “area, and counterproliferation” for “and area”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–272 substituted "area, and counterproliferation" for "and area".
 
-<b>1996</b>—Subsec. (b)(5) to (7). Pub. L. 104–201 struck out “and” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
+<b>1996</b>—Subsec. (b)(5) to (7). Pub. L. 104–201 struck out "and" at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
 
 <b>1993</b>—Subsec. (d). Pub. L. 103–178 added subsec. (d).
 

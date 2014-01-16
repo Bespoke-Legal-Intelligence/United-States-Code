@@ -11,7 +11,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be “155”. Another chapter 3 is set out in subtitle I of this title.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "155". Another chapter 3 is set out in subtitle I of this title.</i>
 
 
 ---

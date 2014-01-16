@@ -26,7 +26,7 @@
 
 &emsp;Subject to paragraphs (2) and (3), the President, in consultation with the Secretary of State, the Ambassador at Large, the Special Adviser, and the Commission, shall, as expeditiously as practicable in response to the violations described in subsection (a) of this section by the government of a foreign country—
 
-&emsp;&emsp;(A) take one or more of the actions described in paragraphs (1) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) with respect to such country; or
+&emsp;&emsp;(A) take one or more of the actions described in paragraphs (1) through (15) of section 6445(a) of this title (or commensurateaction in substitution thereto) with respect to such country; or
 
 &emsp;&emsp;(B) negotiate and enter into a binding agreement with the government of such country, as described in section 6445(c) of this title.
 
@@ -70,7 +70,7 @@ Memorandum of President of the United States, Aug. 17, 1999, 64 F.R. 47345, prov
 
 Memorandum for the Secretary of State
 
-By the authority vested in me by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to the Secretary of State the functions and authorities vested in the President by title IV, subtitle I (sections 401–409) of the International Religious Freedom Act of 1998 \[22 U.S.C. 6441 et seq.\] (Public Law 105–292) (the “Act”).
+By the authority vested in me by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to the Secretary of State the functions and authorities vested in the President by title IV, subtitle I (sections 401–409) of the International Religious Freedom Act of 1998 \[22 U.S.C. 6441 et seq.\] (Public Law 105–292) (the "Act").
 
 Any reference in this memorandum to any act shall be deemed to be a reference to such act as amended from time to time.
 

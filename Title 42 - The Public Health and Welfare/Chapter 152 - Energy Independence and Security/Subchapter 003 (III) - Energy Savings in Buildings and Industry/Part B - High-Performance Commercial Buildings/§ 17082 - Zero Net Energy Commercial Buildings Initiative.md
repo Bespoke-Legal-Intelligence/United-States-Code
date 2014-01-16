@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Consortium
 
-&emsp;The term “consortium” means a High-Performance Green Building Consortium selected by the Commercial Director.
+&emsp;The term "consortium" means a High-Performance Green Building Consortium selected by the Commercial Director.
 
 #### (2) Initiative
 
-&emsp;The term “initiative” means the Zero-Net-Energy Commercial Buildings Initiative established under subsection (b)(1).
+&emsp;The term "initiative" means the Zero-Net-Energy Commercial Buildings Initiative established under subsection (b)(1).
 
 #### (3) Zero-net-energy commercial building
 
-&emsp;The term “zero-net-energy commercial building” means a high-performance commercial building that is designed, constructed, and operated—
+&emsp;The term "zero-net-energy commercial building" means a high-performance commercial building that is designed, constructed, and operated—
 
 &emsp;&emsp;(A) to require a greatly reduced quantity of energy to operate;
 
@@ -28,7 +28,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Commercial Director shall establish an initiative, to be known as the “Zero-Net-Energy Commercial Buildings Initiative”—
+&emsp;The Commercial Director shall establish an initiative, to be known as the "Zero-Net-Energy Commercial Buildings Initiative"—
 
 &emsp;&emsp;(A) to reduce the quantity of energy consumed by commercial buildings located in the United States; and
 

@@ -28,7 +28,7 @@ Based on 44 U.S. Code, 1964 ed., §215a (Jan. 12, 1895, ch. 23, §—, as added 
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–497 substituted “National Archives and Records Administration” for “General Services Administration” in section catchline and text.
+<b>1984</b>—Pub. L. 98–497 substituted "National Archives and Records Administration" for "General Services Administration" in section catchline and text.
 
 #### Effective Date of 1984 Amendment
 

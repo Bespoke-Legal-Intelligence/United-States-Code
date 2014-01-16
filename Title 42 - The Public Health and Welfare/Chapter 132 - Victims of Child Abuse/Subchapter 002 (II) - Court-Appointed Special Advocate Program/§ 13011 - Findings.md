@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) Court Appointed Special Advocates, who may serve as guardians ad litem, are trained volunteers appointed by courts to advocate for the best interests of children who are involved in the juvenile and family court system due to abuse or neglect; and
+&emsp;(1) Court Appointed Special Advocates, who may serve as guardians ad litem, are trained volunteers appointed by courts to advocate for the best interests of children who are involvedin the juvenile and family court system due to abuse or neglect; and
 
 &emsp;(2) in 2003, Court Appointed Special Advocate volunteers represented 288,000 children, more than 50 percent of the estimated 540,000 children in foster care because of substantiated cases of child abuse or neglect.
 
@@ -12,7 +12,7 @@ The Congress finds that—
 
 <b>2006</b>—Pars. (1), (2). Pub. L. 109–162 added pars. (1) and (2) and struck out former pars. (1) and (2), which read as follows:
 
-“(1) the National Court-Appointed Special Advocate provides training and technical assistance to a network of 13,000 volunteers in 377 programs operating in 47 States; and
+"(1) the National Court-Appointed Special Advocate provides training and technical assistance to a network of 13,000 volunteers in 377 programs operating in 47 States; and
 
-“(2) in 1988, these volunteers represented 40,000 children, representing approximately 15 percent of the estimated 270,000 cases of child abuse and neglect in juvenile and family courts.”
+"(2) in 1988, these volunteers represented 40,000 children, representing approximately 15 percent of the estimated 270,000 cases of child abuse and neglect in juvenile and family courts."
 

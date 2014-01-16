@@ -12,7 +12,7 @@ Resolutions Required Before Appropriations May Be Made.—The following appropri
 
 (b)
 
-Transmission to Congress of Prospectus of Proposed Project.—To secure considerationfor the approval referred to in subsection (a), the Administrator of General Services shall transmit to Congress a prospectus of the proposed facility, including—
+Transmission to Congress of Prospectus of Proposed Project.—To secure consideration for the approval referred to in subsection (a), the Administrator of General Services shall transmit to Congress a prospectus of the proposed facility, including—
 
 &emsp;(1) a brief description of the building to be constructed, altered, or acquired, or the space to be leased, under this chapter;
 
@@ -116,13 +116,13 @@ Pub. L. 86–249, §7(e), as added Pub. L. 100–678, §3(b), Nov. 17, 1988, 102
 
 Pub. L. 86–249, §7(f) (related to this section), Sept. 9, 1959, as added Pub. L. 100–678, §4, Nov. 17, 1988, 102 Stat. 4050.
 
-In this section, the words “Transportation and Infrastructure” are substituted for “Public Works and Transportation” in section 7 of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 480) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.). The word “purchase” is omitted as being included in “acquire”.
+In this section, the words "Transportation and Infrastructure" are substituted for "Public Works and Transportation" in section 7 of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 480) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.). The word "purchase" is omitted as being included in "acquire".
 
-In subsection (c), the words “if any” and “as the case may be” are omitted as unnecessary.
+In subsection (c), the words "if any" and "as the case may be" are omitted as unnecessary.
 
-In subsection (d), the words “at any time thereafter” are omitted as unnecessary.
+In subsection (d), the words "at any time thereafter" are omitted as unnecessary.
 
-In subsection (f)(2)(A), the word “first” is omitted as unnecessary.
+In subsection (f)(2)(A), the word "first" is omitted as unnecessary.
 
 #### Amendments
 

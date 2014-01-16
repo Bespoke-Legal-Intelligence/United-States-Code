@@ -26,11 +26,11 @@ May 5, 1954, ch. 180, §403 68 Stat. 70.
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–190 substituted “The President” for “(a) Except as provided in subsection (b), the President” and struck out subsec. (b) which authorized President to suspend provisions of sections 5442, 5443, and 5444 of this title only during war or national emergency declared by Congress or President after May 5, 1954.
+<b>1991</b>—Pub. L. 102–190 substituted "The President" for "(a) Except as provided in subsection (b), the President" and struck out subsec. (b) which authorized President to suspend provisions of sections 5442, 5443, and 5444 of this title only during war or national emergency declared by Congress or President after May 5, 1954.
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–513 struck out “relating to officers serving in grades above lieutenant in the Navy or captain in the Marine Corps” after “and 5444 of this title”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 struck out "relating to officers serving in grades above lieutenant in the Navy or captain in the Marine Corps" after "and 5444 of this title".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–273 substituted “September” for “June”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–273 substituted "September" for "June".
 
 #### Effective Date of 1980 Amendment
 

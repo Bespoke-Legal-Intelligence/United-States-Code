@@ -20,7 +20,7 @@ Section 5103(b) requires that load lines be permanently and conspicuously mainta
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c). Pub. L. 112–213 substituted “July 1, 2013,” for “July 1, 2012,” in two places and substituted “major conversion” for “substantial change to the dimension of or type of the vessel”.
+<b>2012</b>—Subsec. (c). Pub. L. 112–213 substituted "July 1, 2013," for "July 1, 2012," in two places and substituted "major conversion" for "substantial change to the dimension of or type of the vessel".
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–281 added subsec. (c).
 

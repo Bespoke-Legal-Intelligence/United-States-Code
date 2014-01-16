@@ -14,7 +14,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (2) Exceptions
 
-&emsp;(A)(i) No program established by a law enacted on or before August 5, 1997, with estimated current year outlays greater than $50,000,000 shall be assumed to expire in the budget year or the outyears. The scoring of new programs with estimated outlays greater than $50,000,000 a year shall be based on scoring by the Committees on Budget or OMB, as applicable. OMB, CBO, and the Budget Committees shall consult on the scoring of such programs where there are differenes <sup>1</sup> between CBO and OMB.
+&emsp;(A)(i) No program established by a law enacted on or before August 5, 1997, with estimated current year outlays greater than $50,000,000 shall be assumed to expire in the budget year or the outyears. The scoring of new programs with estimated outlays greater than $50,000,000 a year shall be based on scoring by the Committees on Budget or OMB, as applicable. OMB, CBO, and the Budget Committees shall consult on the scoring of such programs where there are differences between CBO and OMB.
 
 &emsp;(ii) On the expiration of the suspension of a provision of law that is suspended under section 7301 of title 7 and that authorizes a program with estimated fiscal year outlays that are greater than $50,000,000, for purposes of clause (i), the program shall be assumed to continue to operate in the same manner as the program operated immediately before the expiration of the suspension.
 
@@ -26,7 +26,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (3) Hospital Insurance Trust Fund
 
-&emsp;Notwithstanding any other provision of law, the receipts and disbursements of the Hospital Insurance Trust Fund shall be included in all calculations required by this Act.
+&emsp;Notwithstanding any other provision of law, the receipts and disbursements of the HospitalInsurance Trust Fund shall be included in all calculations required by this Act.
 
 #### (c) Discretionary appropriations
 
@@ -50,7 +50,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (5) Inflators
 
-&emsp;The inflator used in paragraph (1) to adjust budgetary resources relating to personnelshall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross domestic product chain-type price index for that fiscal year differs from the average of such estimated index for the current year.
+&emsp;The inflator used in paragraph (1) to adjust budgetary resources relating to personnel shall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross domestic product chain-type price index for that fiscal year differs from the average of such estimated index for the current year.
 
 #### (6) Current-year appropriations
 
@@ -64,7 +64,7 @@ In deriving the baseline for any budget year or outyear, current-year amounts sh
 
 Amounts realized from the sale of an asset shall not be included in estimates under section 901, 902, or 903 of this title if that sale would result in a financial cost to the Federal Government as determined pursuant to scorekeeping guidelines.
 
-(Pub. L. 99–177, title II, §257, formerly §§251(a)(6)(I), 257, Dec. 12, 1985, 99 Stat. 1092; Pub. L. 100–119, title I, §§102(a), (b)(4)–(8), 104(c)(2), 106(b), Sept. 29, 1987, 101 Stat. 754, 773, 774, 777, 780; renumbered §257 and amended Pub. L. 101–508, title XIII, §13101(b), (e)(1), (2), Nov. 5, 1990, 104 Stat. 1388–589, 1388–591, 1388–593; Pub. L. 105–33, title X, §10209(a), Aug. 5, 1997, 111 Stat. 710.)
+(Pub. L. 99–177, title II, §257, formerly §§251(a)(6)(I), 257, Dec. 12, 1985, 99 Stat. 1092; Pub. L. 100–119, title I, §§102(a), (b)(4)–(8), 104(c)(2), 106(b), Sept. 29, 1987, 101 Stat. 754, 773, 774, 777, 780; renumbered §257 and amended Pub. L. 101–508, title XIII, §13101(b), (e)(1), (2), Nov. 5, 1990, 104 Stat. 1388–589, 1388–591, 1388–593; Pub. L. 105–33, title X, §10209(a), Aug. 5, 1997, 111 Stat. 710; Pub. L. 113–67, div. A, title I, §121(9), Dec. 26, 2013, 127 Stat. 1175.)
 
 #### References in Text
 
@@ -77,6 +77,8 @@ Pub. L. 101–508, §13101(b), redesignated former par. (12) of this section as 
 Pub. L. 101–508, §13101(e)(2), transferred section 251(a)(6)(I) of Pub. L. 99–177, which was classified to section 901(a)(6)(I) of this title, to subsec. (e) of this section.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(2)(A)(i). Pub. L. 113–67 substituted “differences” for “differenes”.
 
 <b>1997</b>—Subsec. (b)(2)(A). Pub. L. 105–33, §10209(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears.”
 
@@ -140,7 +142,7 @@ Pars. (13), (14). Pub. L. 100–119, §102(b)(8), added pars. (13) and (14).
 
 #### Definition of Terms Used in Balanced Budget and Emergency Deficit Control Act of 1985
 
-Pub. L. 101–163, title III, §315, Nov. 21, 1989, 103 Stat. 1066, provided that: “Effective in the case of this Act and any subsequent Act making appropriations for theLegislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading ‘Senate’, and the accounts under the general heading ‘House of Representatives’, shall each be considered to be one appropriation account and one ‘program, project, and activity’.”
+Pub. L. 101–163, title III, §315, Nov. 21, 1989, 103 Stat. 1066, provided that: “Effective in the case of this Act and any subsequent Act making appropriations for the Legislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading ‘Senate’, and the accounts under the general heading ‘House of Representatives’, shall each be considered to be one appropriation account and one ‘program, project, and activity’.”
 
 Pub. L. 100–202, §101(i) \[title III, §306\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, provided that: “Hereafter, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], the term ‘program, project, and activity’ shall be synonymous with each appropriation account in this Act \[see Tables for classification\], except that the accounts under the general heading ‘House of Representatives’ shall be considered one appropriation account and one ‘program, project, and activity’, and the accounts under the general heading ‘Senate’ shall be considered one appropriation account and one ‘program, project, and activity’.”
 
@@ -155,6 +157,4 @@ In General.—Benefits which are payable in calendar year 1987, 1988, 1989, 1990
 “(b)
 
 Definition.—For purposes of this section, the term ‘cost-of-living adjustment’ means any increase or change in the amount of a benefit or in standards relating to such benefit under any provision of Federal law which requires such increase or change as a result of any change in the Consumer Price Index (or any component thereof) or any other index which measures costs, prices, or wages.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “differences”.</i>
 

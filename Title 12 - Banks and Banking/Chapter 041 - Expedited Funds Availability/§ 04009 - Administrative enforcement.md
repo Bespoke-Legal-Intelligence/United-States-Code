@@ -56,17 +56,17 @@ The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 193
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–242, §212(h)(2), inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
+<b>1991</b>—Subsec. (a). Pub. L. 102–242, §212(h)(2), inserted at end "The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)."
 
-Subsec. (a)(1). Pub. L. 102–242, §212(h)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act in the case of—
+Subsec. (a)(1). Pub. L. 102–242, §212(h)(1), added par. (1) and struck out former par. (1) which read as follows: "section 8 of the Federal Deposit Insurance Act in the case of—
 
-&emsp;“(A) national banks, by the Comptroller of the Currency;
+&emsp;"(A) national banks, by the Comptroller of the Currency;
 
-&emsp;“(B) member banks of the Federal Reserve System (other than national banks), by the Board of Governors of the Federal Reserve System; and
+&emsp;"(B) member banks of the Federal Reserve System (other than national banks), by the Board of Governors of the Federal Reserve System; and
 
-&emsp;“(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;”.
+&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
-<b>1989</b>—Subsec. (a)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 5(d) of the Home Owners’ Loan Act of 1933, section 407 of the National Housing Act, and section 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions; and”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 5(d) of the Home Owners' Loan Act of 1933, section 407 of the National Housing Act, and section 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions; and".
 
 #### Effective Date
 

@@ -20,9 +20,9 @@ The purpose of this section is to remove such burden on and obstruction to inter
 
 For the purposes of this section—
 
-&emsp;(1) The term “buyer in the ordinary course of business” means a person who, in the ordinary course of business, buys farm products from a person engaged in farming operations who is in the business of selling farm products.
+&emsp;(1) The term "buyer in the ordinary course of business" means a person who, in the ordinary course of business, buys farm products from a person engaged in farming operations who is in the business of selling farm products.
 
-&emsp;(2) The term “central filing system” means a system for filing effective financing statements or notice of such financing statements on a statewide basis and which has been certified by the Secretary of the United States Department of Agriculture; the Secretary shall certify such system if the system complies with the requirements of this section; specifically under such system—
+&emsp;(2) The term "central filing system" means a system for filing effective financing statements or notice of such financing statements on a statewide basis and which has been certified by the Secretary of the United States Department of Agriculture; the Secretary shall certify such system if the system complies with the requirements of this section; specifically under such system—
 
 &emsp;&emsp;(A) effective financing statements or notice of such financing statements are filed with the office of the Secretary of State of a State;
 
@@ -36,7 +36,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing business other than as individuals, the first word in the name of such debtors; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in numerical order according to the social security number, or other approved unique identifier, of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtors, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens; and
+&emsp;&emsp;&emsp;&emsp;(II) in numerical order according to the social security number, or other approved unique identifier, of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayeridentification number, or other approved unique identifier, of such debtors, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens; and
 
 &emsp;&emsp;&emsp;&emsp;(III) geographically by county or parish; and
 
@@ -66,11 +66,11 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) on the written request of the buyer, commission merchant, or selling agent, by paper copy of the list to the requestor;
 
-&emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>1</sup> oral confirmation within 24 hours of any effective financingstatement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
+&emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>1</sup> oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
 
-&emsp;(3) The term “commission merchant” means any person engaged in the business of receiving any farm product for sale, on commission, or for or on behalf of another person.
+&emsp;(3) The term "commission merchant" means any person engaged in the business of receiving any farm product for sale, on commission, or for or on behalf of another person.
 
-&emsp;(4) The term “effective financing statement” means a statement that—
+&emsp;(4) The term "effective financing statement" means a statement that—
 
 &emsp;&emsp;(A) is an original or reproduced copy of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement;
 
@@ -96,21 +96,21 @@ For the purposes of this section—
 
 &emsp;&emsp;(H) substantially complies with the requirements of this subparagraph even though it contains minor errors that are not seriously misleading.
 
-&emsp;(5) <sup>2</sup> The term “farm product” means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
+&emsp;(5) <sup>2</sup> The term "farm product" means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle,hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
 
-&emsp;(6) The term “knows” or “knowledge” means actual knowledge.
+&emsp;(6) The term "knows" or "knowledge" means actual knowledge.
 
-&emsp;(7) The term “security interest” means an interest in farm products that secures payment or performance of an obligation.
+&emsp;(7) The term "security interest" means an interest in farm products that secures payment or performance of an obligation.
 
-&emsp;(8) The term “selling agent” means any person, other than a commission merchant, who is engaged in the business of negotiating the sale and purchase of any farm product on behalf of a person engaged in farming operations.
+&emsp;(8) The term "selling agent" means any person, other than a commission merchant, who is engaged in the business of negotiating the sale and purchase of any farm product on behalf of a person engaged in farming operations.
 
-&emsp;(9) The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
+&emsp;(9) The term "State" means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
 
-&emsp;(10) The term “person” means any individual, partnership, corporation, trust, or any other business entity.
+&emsp;(10) The term "person" means any individual, partnership, corporation, trust, or any other business entity.
 
-&emsp;(11) The term “Secretary of State” means the Secretary of State or the designee of the State.
+&emsp;(11) The term "Secretary of State" means the Secretary of State or the designee of the State.
 
-&emsp;(5) <sup>3</sup> The term “approved unique identifier” means a number, combination of numbers and letters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
+&emsp;(5) <sup>3</sup> The term "approved unique identifier" means a number, combination of numbers and letters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
 
 #### (d) Purchases free of security interest
 
@@ -154,17 +154,17 @@ A buyer of farm products takes subject to a security interest created by the sel
 
 &emsp;&emsp;(B) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
 
-#### (f) Law governing “receipt”
+#### (f) Law governing "receipt"
 
 What constitutes receipt, as used in this section, shall be determined by the law of the State in which the buyer resides.
 
-#### (g) Commission merchants or selling agents: sales free of or subject to security interest; law governing “receipt”
+#### (g) Commission merchants or selling agents: sales free of or subject to security interest; law governing "receipt"
 
 (1) Except as provided in paragraph (2) and notwithstanding any other provision of Federal, State, or local law, a commission merchant or selling agent who sells, in the ordinary course of business, a farm product for others, shall not be subject to a security interest created by the seller in such farm product even though the security interest is perfected and even though the commission merchant or selling agent knows of the existence of such interest.
 
 (2) A commission merchant or selling agent who sells a farm product for others shall be subject to a security interest created by the seller in such farm product if—
 
-&emsp;(A) within 1 year before the sale of such farm product the commission merchant or selling agent has received from the secured party or the seller written notice of the security interest; organized according to farm products, that—
+&emsp;(A) within 1 year before the sale of such farm product the commission merchant or sellingagent has received from the secured party or the seller written notice of the security interest; organized according to farm products, that—
 
 &emsp;&emsp;(i) is an original or reproduced copy thereof;
 
@@ -230,65 +230,65 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(2)(C)(ii)(II). Pub. L. 110–246, §14215(1), inserted “, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens” after “such debtors”.
+<b>2008</b>—Subsec. (c)(2)(C)(ii)(II). Pub. L. 110–246, §14215(1), inserted ", except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens" after "such debtors".
 
-Subsec. (c)(2)(E). Pub. L. 110–246, §14215(2), substituted “subparagraph (C)” for “paragraph (C)”, inserted “except that—” after “an interest”, and added cls. (i) and (ii) before semicolon at end.
+Subsec. (c)(2)(E). Pub. L. 110–246, §14215(2), substituted "subparagraph (C)" for "paragraph (C)", inserted "except that—" after "an interest", and added cls. (i) and (ii) before semicolon at end.
 
-<b>2004</b>—Subsec. (c)(2)(C)(ii)(II), (4)(C)(iii). Pub. L. 108–447, §776(1)(A), (B), inserted “, or other approved unique identifier,” after “social security number” and “identification number”.
+<b>2004</b>—Subsec. (c)(2)(C)(ii)(II), (4)(C)(iii). Pub. L. 108–447, §776(1)(A), (B), inserted ", or other approved unique identifier," after "social security number" and "identification number".
 
-Subsec. (c)(5). Pub. L. 108–447, §776(1)(C), added par. (5) defining “approved unique identifier” at end of subsec. (c).
+Subsec. (c)(5). Pub. L. 108–447, §776(1)(C), added par. (5) defining "approved unique identifier" at end of subsec. (c).
 
-Subsecs. (e)(1)(A)(ii)(III), (g)(2)(A)(ii)(III). Pub. L. 108–447, §776(2), (3), inserted “, or other approved unique identifier,” after “social security number” and “identification number”.
+Subsecs. (e)(1)(A)(ii)(III), (g)(2)(A)(ii)(III). Pub. L. 108–447, §776(2), (3), inserted ", or other approved unique identifier," after "social security number" and "identification number".
 
-<b>2002</b>—Subsec. (c)(4)(B). Pub. L. 107–171, §10604(a)(1), substituted “signed, authorized, or otherwise authenticated by the debtor,” for “signed”.
+<b>2002</b>—Subsec. (c)(4)(B). Pub. L. 107–171, §10604(a)(1), substituted "signed, authorized, or otherwise authenticated by the debtor," for "signed".
 
-Subsec. (c)(4)(C). Pub. L. 107–171, §10604(a)(2), (6), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “other than in the case of an electronically reproduced copy of the statement, is signed by the debtor;”.
+Subsec. (c)(4)(C). Pub. L. 107–171, §10604(a)(2), (6), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "other than in the case of an electronically reproduced copy of the statement, is signed by the debtor;".
 
 Subsec. (c)(4)(D). Pub. L. 107–171, §10604(a)(6), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
 
-Subsec. (c)(4)(D)(iii). Pub. L. 107–171, §10604(a)(3)(A), inserted “and” after semicolon at end.
+Subsec. (c)(4)(D)(iii). Pub. L. 107–171, §10604(a)(3)(A), inserted "and" after semicolon at end.
 
-Subsec. (c)(4)(D)(iv). Pub. L. 107–171, §10604(a)(3)(B), substituted “applicable, and the name of each county or parish in which the farm products are produced or located;” for “applicable; and a reasonable description of the property, including county or parish in which the property is located;”.
+Subsec. (c)(4)(D)(iv). Pub. L. 107–171, §10604(a)(3)(B), substituted "applicable, and the name of each county or parish in which the farm products are produced or located;" for "applicable; and a reasonable description of the property, including county or parish in which the property is located;".
 
 Subsec. (c)(4)(E). Pub. L. 107–171, §10604(a)(6), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-Pub. L. 107–171, §10604(a)(4), substituted “signed, authorized, or otherwise authenticated by the debtor” for “signed”.
+Pub. L. 107–171, §10604(a)(4), substituted "signed, authorized, or otherwise authenticated by the debtor" for "signed".
 
 Subsec. (c)(4)(F). Pub. L. 107–171, §10604(a)(6), redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
 
 Subsec. (c)(4)(G). Pub. L. 107–171, §10604(a)(6), redesignated subpar. (H) as (G). Former subpar. (G) redesignated (F).
 
-Pub. L. 107–171, §10604(a)(5), substituted “notice signed, authorized, or otherwise authenticated” for “notice signed”.
+Pub. L. 107–171, §10604(a)(5), substituted "notice signed, authorized, or otherwise authenticated" for "notice signed".
 
 Subsec. (c)(4)(H), (I). Pub. L. 107–171, §10604(a)(6), redesignated subpar. (I) as (H). Former subpar. (H) redesignated (G).
 
-Subsec. (e)(1)(A)(ii)(III). Pub. L. 107–171, §10604(b)(1)(A), inserted “and” after semicolon at end.
+Subsec. (e)(1)(A)(ii)(III). Pub. L. 107–171, §10604(b)(1)(A), inserted "and" after semicolon at end.
 
-Subsec. (e)(1)(A)(ii)(IV). Pub. L. 107–171, §10604(b)(1)(B), substituted “crop year, and the name of each county or parish in which the farm products are produced or located;” for “crop year, county or parish, and a reasonable description of the property; and”.
+Subsec. (e)(1)(A)(ii)(IV). Pub. L. 107–171, §10604(b)(1)(B), substituted "crop year, and the name of each county or parish in which the farm products are produced or located;" for "crop year, county or parish, and a reasonable description of the property; and".
 
-Subsec. (e)(1)(A)(iii). Pub. L. 107–171, §10604(b)(2), substituted “similarly signed, authorized, or otherwise authenticated” for “similarly signed”.
+Subsec. (e)(1)(A)(iii). Pub. L. 107–171, §10604(b)(2), substituted "similarly signed, authorized, or otherwise authenticated" for "similarly signed".
 
-Subsec. (e)(1)(A)(iv). Pub. L. 107–171, §10604(b)(3), substituted “notice signed, authorized, or otherwise authenticated” for “notice signed”.
+Subsec. (e)(1)(A)(iv). Pub. L. 107–171, §10604(b)(3), substituted "notice signed, authorized, or otherwise authenticated" for "notice signed".
 
-Subsec. (e)(1)(A)(v). Pub. L. 107–171, §10604(b)(4), inserted “contains” before “any payment”.
+Subsec. (e)(1)(A)(v). Pub. L. 107–171, §10604(b)(4), inserted "contains" before "any payment".
 
-Subsec. (e)(3)(A). Pub. L. 107–171, §10604(b)(5)(A), substituted “subsection” for “subparagraph”.
+Subsec. (e)(3)(A). Pub. L. 107–171, §10604(b)(5)(A), substituted "subsection" for "subparagraph".
 
-Subsec. (e)(3)(B). Pub. L. 107–171, §10604(b)(5)(B), substituted a period for “; and” at end.
+Subsec. (e)(3)(B). Pub. L. 107–171, §10604(b)(5)(B), substituted a period for "; and" at end.
 
-Subsec. (g)(2)(A)(ii)(III). Pub. L. 107–171, §10604(c)(1)(A), inserted “and” after semicolon at end.
+Subsec. (g)(2)(A)(ii)(III). Pub. L. 107–171, §10604(c)(1)(A), inserted "and" after semicolon at end.
 
-Subsec. (g)(2)(A)(ii)(IV). Pub. L. 107–171, §10604(c)(1)(B), substituted “crop year, and the name of each county or parish in which the farm products are produced or located;” for “crop year, county or parish, and a reasonable description of the property, etc.; and”.
+Subsec. (g)(2)(A)(ii)(IV). Pub. L. 107–171, §10604(c)(1)(B), substituted "crop year, and the name of each county or parish in which the farm products are produced or located;" for "crop year, county or parish, and a reasonable description of the property, etc.; and".
 
-Subsec. (g)(2)(A)(iii). Pub. L. 107–171, §10604(c)(2), substituted “similarly signed, authorized, or otherwise authenticated” for “similarly signed”.
+Subsec. (g)(2)(A)(iii). Pub. L. 107–171, §10604(c)(2), substituted "similarly signed, authorized, or otherwise authenticated" for "similarly signed".
 
-Subsec. (g)(2)(A)(iv). Pub. L. 107–171, §10604(c)(3), substituted “notice signed, authorized, or otherwise authenticated” for “notice signed”.
+Subsec. (g)(2)(A)(iv). Pub. L. 107–171, §10604(c)(3), substituted "notice signed, authorized, or otherwise authenticated" for "notice signed".
 
-Subsec. (g)(2)(A)(v). Pub. L. 107–171, §10604(c)(4), inserted “contains” before “any payment”.
+Subsec. (g)(2)(A)(v). Pub. L. 107–171, §10604(c)(4), inserted "contains" before "any payment".
 
-<b>1996</b>—Subsec. (c)(4)(A). Pub. L. 104–127, §662(1), substituted “of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement” for “thereof”.
+<b>1996</b>—Subsec. (c)(4)(A). Pub. L. 104–127, §662(1), substituted "of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement" for "thereof".
 
-Subsec. (c)(4)(B), (C). Pub. L. 104–127, §662(2), inserted “other than in the case of an electronically reproduced copy of the statement,” before “is”.
+Subsec. (c)(4)(B), (C). Pub. L. 104–127, §662(2), inserted "other than in the case of an electronically reproduced copy of the statement," before "is".
 
 #### Effective Date of 2008 Amendment
 
@@ -298,7 +298,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “pursuant to subparagraph (D)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "pursuant to subparagraph (D)".</i>
 
 <i><sup>2</sup></i><i> So in original. Another par. (5) follows par. (11).</i>
 

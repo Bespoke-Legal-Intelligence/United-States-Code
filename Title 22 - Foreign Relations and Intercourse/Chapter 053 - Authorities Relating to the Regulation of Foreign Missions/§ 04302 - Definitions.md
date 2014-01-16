@@ -2,7 +2,7 @@
 
 (a) For purposes of this chapter—
 
-&emsp;(1) “benefit” (with respect to a foreign mission) means any acquisition, or authorization for an acquisition, in the United States by or for a foreign mission, including the acquisition of—
+&emsp;(1) "benefit" (with respect to a foreign mission) means any acquisition, or authorization for an acquisition, in the United States by or for a foreign mission, including the acquisition of—
 
 &emsp;&emsp;(A) real property by purchase, lease, exchange, construction, or otherwise,
 
@@ -20,41 +20,41 @@
 
 > &emsp;and includes such other benefits as the Secretary may designate;
 
-&emsp;(2) “chancery” means the principal offices of a foreign mission used for diplomatic or related purposes, and annexes to such offices (including ancillary offices and support facilities), and includes the site and any building on such site which is used for such purposes;
+&emsp;(2) "chancery" means the principal offices of a foreign mission used for diplomatic or related purposes, and annexes to such offices (including ancillary offices and support facilities), and includes the site and any building on such site which is used for such purposes;
 
-&emsp;(3) “foreign mission” means any mission to or agency or entity in the United States which is involved in the diplomatic, consular, or other activities of, or which is substantially owned or effectively controlled by—
+&emsp;(3) "foreign mission" means any mission to or agency or entity in the United States which is involved in the diplomatic, consular, or other activities of, or which is substantially owned or effectively controlled by—
 
 &emsp;&emsp;(A) a foreign government, or
 
-&emsp;&emsp;(B) an organization (other than an international organization, as defined in section 4309(b) of this title) representing a territoryor political entity which has been granted diplomatic or other official privileges and immunities under the laws of the United States or which engages in some aspect of the conduct of the international affairs of such territory or political entity,
+&emsp;&emsp;(B) an organization (other than an international organization, as defined in section 4309(b) of this title) representing a territory or political entity which has been granted diplomatic or other official privileges and immunities under the laws of the United States or which engages in some aspect of the conduct of the international affairs of such territory or political entity,
 
 > &emsp;including any real property of such a mission and including the personnel of such a mission;
 
-&emsp;(4) “real property” includes any right, title, or interest in or to, or the beneficial use of, any real property in the United States, including any office or other building;
+&emsp;(4) "real property" includes any right, title, or interest in or to, or the beneficial use of, any real property in the United States, including any office or other building;
 
-&emsp;(5) “Secretary” means the Secretary of State;
+&emsp;(5) "Secretary" means the Secretary of State;
 
-&emsp;(6) “sending State” means the foreign government, territory, or political entity represented by a foreign mission; and
+&emsp;(6) "sending State" means the foreign government, territory, or political entity represented by a foreign mission; and
 
-&emsp;(7) “United States” means, when used in a geographic sense, the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
+&emsp;(7) "United States" means, when used in a geographic sense, the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
 (b) Determinations with respect to the meaning and applicability of the terms used in subsection (a) of this section shall be committed to the discretion of the Secretary.
 
-(Aug. 1, 1956, ch. 841, title II, §202, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 283; amended Pub. L. 99–93, title I, §127(b), Aug. 16, 1985, 99 Stat. 418; Pub. L. 99–569, title VII, §701, Oct. 27, 1986, 100 Stat. 3204; Pub. L. 100–204, title I, §153(e), Dec. 22, 1987, 101 Stat. 1353; Pub. L. 103–236, title I, §162(o)(1), Apr. 30, 1994, 108 Stat. 409.)
+(Aug. 1, 1956, ch. 841, title II, §202, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat.283; amended Pub. L. 99–93, title I, §127(b), Aug. 16, 1985, 99 Stat. 418; Pub. L. 99–569, title VII, §701, Oct. 27, 1986, 100 Stat. 3204; Pub. L. 100–204, title I, §153(e), Dec. 22, 1987, 101 Stat. 1353; Pub. L. 103–236, title I, §162(o)(1), Apr. 30, 1994, 108 Stat. 409.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this title", meaning title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(3) to (8). Pub. L. 103–236 struck out par. (3) and redesignated former pars. (4) to (8) as (3) to (7), respectively. Prior to amendment, par. (3) read as follows: “ ‘Director’ means the Director of the Office of Foreign Missions established pursuant to section 4303(a) of this title;”.
+<b>1994</b>—Subsec. (a)(3) to (8). Pub. L. 103–236 struck out par. (3) and redesignated former pars. (4) to (8) as (3) to (7), respectively. Prior to amendment, par. (3) read as follows: " 'Director' means the Director of the Office of Foreign Missions established pursuant to section 4303(a) of this title;".
 
 <b>1987</b>—Subsec. (a)(1)(G). Pub. L. 100–204 added subpar. (G).
 
-<b>1986</b>—Subsec. (a)(4). Pub. L. 99–569 amended par. (4) generally, substituting “which is involved in the diplomatic, consular, or other activities of, or which is substantially owned or effectively controlled by” for “involving diplomatic, consular, or other governmental activities of”.
+<b>1986</b>—Subsec. (a)(4). Pub. L. 99–569 amended par. (4) generally, substituting "which is involved in the diplomatic, consular, or other activities of, or which is substantially owned or effectively controlled by" for "involving diplomatic, consular, or other governmental activities of".
 
-<b>1985</b>—Subsec. (a)(4). Pub. L. 99–93 substituted “mission to or agency in” for “official mission to” in introductory provisions, and inserted “or which engages in some aspect of the conduct of the international affairs of such territory or political entity” before the comma at end of subpar. (B).
+<b>1985</b>—Subsec. (a)(4). Pub. L. 99–93 substituted "mission to or agency in" for "official mission to" in introductory provisions, and inserted "or which engages in some aspect of the conduct of the international affairs of such territory or political entity" before the comma at end of subpar. (B).
 
 #### Effective Date of 1994 Amendment
 

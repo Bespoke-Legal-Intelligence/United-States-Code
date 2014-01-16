@@ -46,7 +46,7 @@ In awarding grants under this section, the Secretary of Labor shall ensure an eq
 
 &emsp;In awarding grants under this section, the Secretary of Labor shall take into account, in addition to other factors the Secretary determines are appropriate—
 
-&emsp;&emsp;(i) the extent to which resources other than the funds provided under this sectionwill be made available by the eligible entities applying for grants to support the activities carried out under this section; and
+&emsp;&emsp;(i) the extent to which resources other than the funds provided under this section will be made available by the eligible entities applying for grants to support the activities carried out under this section; and
 
 &emsp;&emsp;(ii) the ability of such entities to continue to carry out and expand such activities after the expiration of the grants.
 
@@ -58,7 +58,7 @@ In awarding grants under this section, the Secretary of Labor shall ensure an eq
 
 The Secretary of Labor shall require grantees to report on the employment outcomes obtained by workers receiving training under this section using indicators of performance that are consistent with other indicators used for employment and training programs administered by the Secretary, such as entry into employment, retention in employment, and increases in earnings. The Secretary of Labor may also require grantees to participate in evaluations of projects carried out under this section.
 
-(Pub. L. 105–277, div. C, title IV, §414(c), Oct. 21, 1998, 112 Stat. 2681–653; Pub. L. 106–313, title I, §111, Oct. 17, 2000, 114 Stat. 1257; Pub. L. 108–447, div. J, title IV, §428, Dec. 8, 2004, 118 Stat. 3358.)
+(Pub. L. 105–277, div. C, title IV, §414(c), Oct. 21, 1998, 112 Stat. 2681–653; Pub. L. 106–313, title I,§111, Oct. 17, 2000, 114 Stat. 1257; Pub. L. 108–447, div. J, title IV, §428, Dec. 8, 2004, 118 Stat. 3358.)
 
 #### References in Text
 
@@ -76,19 +76,19 @@ Section was enacted as part of the American Competitiveness and Workforce Improv
 
 <b>2000</b>—Pub. L. 106–313 amended section catchline and text generally. Prior to amendment, text read as follows:
 
-“(1)
+"(1)
 
 In general.—In establishing demonstration programs under section 1732(c) of this title, as in effect on October 21, 1998, or demonstration programs or projects under section 2916(b) of this title, the Secretary of Labor shall use funds available under section 1356(s)(2) of title 8 to establish demonstration programs or projects to provide technical skills training for workers, including both employed and unemployed workers.
 
-“(2)
+"(2)
 
 Grants.—The Secretary of Labor shall award grants to carry out the programs and projects described in paragraph (1) to—
 
-&emsp;“(A)(i) private industry councils established under section 1512 of this title, as in effect on October 21, 1998; or
+&emsp;"(A)(i) private industry councils established under section 1512 of this title, as in effect on October 21, 1998; or
 
-&emsp;“(ii) local boards that will carry out such programs or projects through one-stop delivery systems established under section 2841 of this title; or
+&emsp;"(ii) local boards that will carry out such programs or projects through one-stop delivery systems established under section 2841 of this title; or
 
-&emsp;“(B) regional consortia of councils or local boards described in subparagraph (A).”
+&emsp;"(B) regional consortia of councils or local boards described in subparagraph (A)."
 
 #### Effective Date of 2004 Amendment
 

@@ -4,17 +4,17 @@
 
 Definitions.—In this section—
 
-&emsp;(1) the term “promoter” means any person who—
+&emsp;(1) the term "promoter" means any person who—
 
 &emsp;&emsp;(A) originates and mails any skill contest or sweepstakes, except for any matter described in section 3001(k)(4); or
 
 &emsp;&emsp;(B) originates and causes to be mailed any skill contest or sweepstakes, except for any matter described in section 3001(k)(4);
 
-&emsp;(2) the term “removal request” means a request stating that an individual elects to have the name and address of such individual excluded from any list used by a promoter for mailing skill contests or sweepstakes;
+&emsp;(2) the term "removal request" means a request stating that an individual elects to have the name and address of such individual excluded from any list used by a promoter for mailing skill contests or sweepstakes;
 
-&emsp;(3) the terms “skill contest”, “sweepstakes”, and “clearly and conspicuously displayed” have the same meanings as given them in section 3001(k); and
+&emsp;(3) the terms "skill contest", "sweepstakes", and "clearly and conspicuously displayed" have the same meanings as given them in section 3001(k); and
 
-&emsp;(4) the term “duly authorized person”, as used in connection with an individual, means a conservator or guardian of, or person granted power of attorney by, such individual.
+&emsp;(4) the term "duly authorized person", as used in connection with an individual, means a conservator or guardian of, or person granted power of attorney by, such individual.
 
 (b)
 
@@ -150,5 +150,5 @@ Enforcement.—The Postal Service shall, in accordance with the same procedures 
 
 #### Effective Date
 
-Pub. L. 106–168, title I, §108(c), Dec. 12, 1999, 113 Stat. 1816, provided that: “This section \[enacting this section\] shall take effect 1 year after the date of the enactment of this Act \[Dec. 12, 1999\].”
+Pub. L. 106–168, title I, §108(c), Dec. 12, 1999, 113 Stat. 1816, provided that: "This section \[enacting this section\] shall take effect 1 year after the date of the enactment of this Act \[Dec. 12, 1999\]."
 

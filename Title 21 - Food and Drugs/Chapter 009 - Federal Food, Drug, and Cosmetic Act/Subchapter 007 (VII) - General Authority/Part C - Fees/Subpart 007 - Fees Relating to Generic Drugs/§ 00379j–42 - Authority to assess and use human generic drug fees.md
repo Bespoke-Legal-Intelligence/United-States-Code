@@ -12,7 +12,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (B) Method of fee amount calculation
 
-&emsp;&emsp;The amount of each one-time backlog fee shall be calculated by dividing $50,000,000 by the total number of abbreviated new drug applications pending on October 1, 2012, that have not received a tentative approval as of that date.
+&emsp;&emsp;The amount of each one-time backlog fee shall be calculated by dividing $50,000,000 by the total number of abbreviated new drug applications pending on October 1, 2012, thathave not received a tentative approval as of that date.
 
 #### (C) Notice
 
@@ -104,7 +104,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;&emsp;(II) 30 calendar days after publication of the notice referred to in subparagraph (B)(i); or
 
-&emsp;&emsp;&emsp;&emsp;(III) if an appropriations Act is not enacted providing for the collection and obligation of fees for such year under this section by the date of submission of the application or prior approval supplement for which the fees under subparagraphs (A) and (F) apply, 30 calendar days after the date that such an appropriations Act is enacted.
+&emsp;&emsp;&emsp;&emsp;(III) if an appropriations Act is not enacted providing for the collection andobligation of fees for such year under this section by the date of submission of the application or prior approval supplement for which the fees under subparagraphs (A) and (F) apply, 30 calendar days after the date that such an appropriations Act is enacted.
 
 #### (D) Refund of fee if abbreviated new drug application is not considered to have been received
 
@@ -152,7 +152,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (ii) Fiscal years 2014 through 2017
 
-&emsp;&emsp;&emsp;Within the timeframe specified in subsection (d)(2), the Secretary shall publish in the Federal Register the amount of thefees under subparagraph (A) for such fiscal year.
+&emsp;&emsp;&emsp;Within the timeframe specified in subsection (d)(2), the Secretary shall publish in the Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
 
 #### (D) Fee due date
 
@@ -170,11 +170,11 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;&emsp;(I) the first business day on or after October 1 of each such year; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such year under this section for such year.
+&emsp;&emsp;&emsp;&emsp;(II) the first business day after the enactment of an appropriations Act providing for the collection and obligation offees for such year under this section for such year.
 
 #### (5) Date of submission
 
-&emsp;For purposes of this chapter, a generic drug submission or Type II pharmaceutical master file is deemed to be “submitted” to the Food and Drug Administration—
+&emsp;For purposes of this chapter, a generic drug submission or Type II pharmaceutical master file is deemed to be "submitted" to the Food and Drug Administration—
 
 &emsp;&emsp;(A) if it is submitted via a Food and Drug Administration electronic gateway, on the day when transmission to that electronic gateway is completed, except that a submission or master file that arrives on a weekend, Federal holiday, or day when the Food and Drug Administration office that will review that submission is not otherwise open for business shall be deemed to be submitted on the next day when that office is open for business; or
 
@@ -224,7 +224,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (2) Final year adjustment
 
-&emsp;For fiscal year 2017, the Secretary may, in addition to adjustments under paragraph (1), further increase the fee revenues and fees established in subsection (b) if such an adjustment is necessary to provide for not more than 3 months of operating reserves of carryover user fees for human generic drug activities for the first 3 months of fiscal year 2018. Such fees may only be used in fiscal year 2018. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2017. If the Secretary has carryover balances for such activities in excess of 3 months of such operating reserves, the adjustment under this subparagraph shall not be made.
+&emsp;For fiscal year 2017, the Secretary may, in addition to adjustments under paragraph (1), further increase the fee revenues and fees established in subsection (b) if such an adjustment is necessary to provide for not more than 3 months of operating reserves of carryover user fees for human generic drug activities forthe first 3 months of fiscal year 2018. Such fees may only be used in fiscal year 2018. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2017. If the Secretary has carryover balances for such activities in excess of 3 months of such operating reserves, the adjustment under this subparagraph shall not be made.
 
 #### (d) Annual fee setting
 
@@ -304,7 +304,7 @@ The total amount of fees charged, as adjusted under subsection (c), for a fiscal
 
 #### (C) Notice
 
-&emsp;&emsp;The Secretary may, by notice published in the Federal Register, specify the means and format for submission of the information under subparagraph (A) and may specify, as necessary for purposes of this section, any additional information to be submitted.
+&emsp;&emsp;The Secretary may, by notice published in the Federal Register, specify the means and format for submission of the information under subparagraph (A) and may specify, asnecessary for purposes of this section, any additional information to be submitted.
 
 #### (D) Inspection authority
 
@@ -362,7 +362,7 @@ The total amount of fees charged, as adjusted under subsection (c), for a fiscal
 
 #### (1) In general
 
-&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year 2012, unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor (as defined in section 379j–41 of this title) applicable to the fiscal year involved.
+&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year2012, unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor (as defined in section 379j–41 of this title) applicable to the fiscal year involved.
 
 #### (2) Authority
 
@@ -424,7 +424,7 @@ To qualify for the return of a fee claimed to have been paid in error under this
 
 #### (n) Substantially complete applications
 
-An abbreviated new drug application that is not considered to be received within the meaning of section 355(j)(5)(A) of this title because of failure to pay an applicable fee under this provision within the time period specified in subsection (g) shall be deemed not to have been “substantially complete” on the date of its submission within the meaning of section 355(j)(5)(B)(iv)(II)(cc) of this title. An abbreviated new drug application that is not substantially complete on the date of its submission solely because of failure to pay an applicable fee under the preceding sentence shall be deemed substantially complete and received within the meaning of section 355(j)(5)(A) of this title as of the date such applicable fee is received.
+An abbreviated new drug application that is not considered to be received within the meaning of section 355(j)(5)(A) of this title because of failure to pay an applicable fee under this provision within the time period specified in subsection (g) shall be deemed not to have been "substantially complete" on the date of its submission within the meaning of section 355(j)(5)(B)(iv)(II)(cc) of this title. An abbreviated new drug application that is not substantially complete on the date of its submission solely because of failure to pay an applicable fee under the preceding sentence shall be deemed substantially complete and received within the meaning of section 355(j)(5)(A) of this title as of the date such applicable fee is received.
 
 (June 25, 1938, ch. 675, §744B, as added Pub. L. 112–144, title III, §302, July 9, 2012, 126 Stat. 1011; amended Pub. L. 112–193, §2(b)(2), (3), Oct. 5, 2012, 126 Stat. 1443.)
 
@@ -434,9 +434,9 @@ An abbreviated new drug application that is not considered to be received within
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–193, §2(b)(2), inserted “for such year” after “obligation of fees” wherever appearing.
+<b>2012</b>—Subsec. (a). Pub. L. 112–193, §2(b)(2), inserted "for such year" after "obligation of fees" wherever appearing.
 
-Subsec. (i)(2)(C). Pub. L. 112–193, §2(b)(3), inserted comma after “September 30, 2013” and struck out comma after “for fiscal year 2013”.
+Subsec. (i)(2)(C). Pub. L. 112–193, §2(b)(3), inserted comma after "September 30, 2013" and struck out comma after "for fiscal year 2013".
 
 #### Effective and Termination Dates
 
@@ -448,13 +448,13 @@ Section effective Oct. 1, 2012, with fees under this section and section 379j–
 
 Pub. L. 112–193, §2(c), Oct. 5, 2012, 126 Stat. 1443, provided that:
 
-“(1) Notwithstanding section 744B(a)(2)(E)(ii) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–42(a)(2)(E)(ii)), the fee authorized under section 744B(a)(2) of such Act for fiscal year 2013 shall be due 30 calendar days after publication of the notice provided for in section 744B(a)(2)(C)(i) of such Act.
+"(1) Notwithstanding section 744B(a)(2)(E)(ii) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–42(a)(2)(E)(ii)), the fee authorized under section 744B(a)(2) of such Act for fiscal year 2013 shall be due 30 calendar days after publication of the notice provided for in section 744B(a)(2)(C)(i) of such Act.
 
-“(2) Notwithstanding section 744B(a)(3)(C)(ii) of such Act, the fee authorized under section 744B(a)(3) of such Act for fiscal year 2013 shall be due on the later of—
+"(2) Notwithstanding section 744B(a)(3)(C)(ii) of such Act, the fee authorized under section 744B(a)(3) of such Act for fiscal year 2013 shall be due on the later of—
 
-&emsp;“(A) the date of submission of the abbreviated new drug application or prior approval supplement for which such fee applies; or
+&emsp;"(A) the date of submission of the abbreviated new drug application or prior approval supplement for which such fee applies; or
 
-&emsp;“(B) 30 calendar days after publication of the notice referred to in section 744B(a)(3)(B)(i) of such Act.
+&emsp;"(B) 30 calendar days after publication of the notice referred to in section 744B(a)(3)(B)(i) of such Act.
 
-“(3) Notwithstanding section 744B(a)(4)(D)(i) of such Act, the fee authorized under section 744B(a)(4) of such Act for fiscal year 2013 shall be due not later than 45 days after the publication of the notice under section 744B(a)(4)(C)(i) of such Act.”
+"(3) Notwithstanding section 744B(a)(4)(D)(i) of such Act, the fee authorized under section 744B(a)(4) of such Act for fiscal year 2013 shall be due not later than 45 days after the publication of the notice under section 744B(a)(4)(C)(i) of such Act."
 

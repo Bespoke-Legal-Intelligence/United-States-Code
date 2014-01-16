@@ -8,5 +8,5 @@ Nothing in this subchapter shall be construed to authorize any person to take an
 
 <b>2006</b>—Pub. L. 109–266 inserted section catchline.
 
-<b>1978</b>—Pub. L. 95–616 inserted “or convention” after “treaty”.
+<b>1978</b>—Pub. L. 95–616 inserted "or convention" after "treaty".
 

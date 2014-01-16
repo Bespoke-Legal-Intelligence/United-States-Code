@@ -1,6 +1,6 @@
 ### §505. Regular components: qualifications, term, grade
 
-(a) The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age normore than forty-two years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
+(a) The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age nor more than forty-two years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
 
 (b) A person is enlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard in the grade or rating prescribed by the Secretary concerned.
 
@@ -22,15 +22,15 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(2), (3)(A). Pub. L. 110–417 substituted “eight years” for “six years”.
+<b>2008</b>—Subsec. (d)(2), (3)(A). Pub. L. 110–417 substituted "eight years" for "six years".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163, §543, in first sentence, substituted “forty-two years of age” for “thirty-five years of age”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §543, in first sentence, substituted "forty-two years of age" for "thirty-five years of age".
 
-Subsec. (c). Pub. L. 109–163, §544, substituted “eight years” for “six years”.
+Subsec. (c). Pub. L. 109–163, §544, substituted "eight years" for "six years".
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–201 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary concerned may accept reenlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for period of at least two but not more than six years. No enlisted member is entitled to be reenlisted for a period that would expire before the end of his current enlistment.”
+<b>1996</b>—Subsec. (d). Pub. L. 104–201 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The Secretary concerned may accept reenlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for period of at least two but not more than six years. No enlisted member is entitled to be reenlisted for a period that would expire before the end of his current enlistment."
 
-<b>1983</b>—Subsecs. (c), (d). Pub. L. 98–94 substituted “at least two but not more than six years” for “two, three, four, five, or six years”.
+<b>1983</b>—Subsecs. (c), (d). Pub. L. 98–94 substituted "at least two but not more than six years" for "two, three, four, five, or six years".
 
 <b>1978</b>—Subsecs. (d), (e). Pub. L. 95–485 redesignated subsec. (e) as (d). Former subsec. (d), which provided that in the Regular Army female persons may be enlisted only in the Women's Army Corps, was struck out.
 

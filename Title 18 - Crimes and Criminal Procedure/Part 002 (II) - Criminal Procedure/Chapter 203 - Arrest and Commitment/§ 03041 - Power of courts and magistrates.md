@@ -14,15 +14,15 @@ This section was completely rewritten to omit all provisions superseded by Feder
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–473 substituted “determining, pursuant to the provisions of section 3142 of this title, whether to detain or conditionally release the prisoner prior to trial” for “determining to hold the prisoner for trial”.
+<b>1984</b>—Pub. L. 98–473 substituted "determining, pursuant to the provisions of section 3142 of this title, whether to detain or conditionally release the prisoner prior to trial" for "determining to hold the prisoner for trial".
 
-<b>1968</b>—Pub. L. 90–578 substituted “United States magistrate” and “magistrate” for “United States commissioner” and “commissioner”, respectively.
+<b>1968</b>—Pub. L. 90–578 substituted "United States magistrate" and "magistrate" for "United States commissioner" and "commissioner", respectively.
 
-<b>1966</b>—Pub. L. 89–465 substituted “or released as provided in chapter 207 of this title” for “or bailed”.
+<b>1966</b>—Pub. L. 89–465 substituted "or released as provided in chapter 207 of this title" for "or bailed".
 
 #### Change of Name
 
-“United States magistrate judge” substituted for “United States magistrate” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judge" substituted for "United States magistrate" in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1968 Amendment
 

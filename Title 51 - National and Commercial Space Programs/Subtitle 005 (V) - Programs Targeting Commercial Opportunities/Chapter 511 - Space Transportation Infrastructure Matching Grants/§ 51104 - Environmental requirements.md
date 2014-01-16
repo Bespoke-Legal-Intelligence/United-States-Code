@@ -46,13 +46,13 @@ Historical and Revision Notes
 
 Nov. 4, 1992, Pub. L. 102–588, §505(e), 106 Stat. 5126.
 
-In subsection (a), the words “policy of the United States” are substituted for “national policy”, and thewords “of the United States” are substituted for “of the Nation”, for consistency. The words “included in a project grant application” and “full and” are omitted as surplus.
+In subsection (a), the words "policy of the United States" are substituted for "national policy", and thewords "of the United States" are substituted for "of the Nation", for consistency. The words "included in a project grant application" and "full and" are omitted as surplus.
 
-In subsection (b), the words “of objectives” are omitted as surplus.
+In subsection (b), the words "of objectives" are omitted as surplus.
 
-In subsection (c), the words “chief executive officer” are substituted for “Governor” for consistency in the revised title and because the word “State” includes the territories and possessions of the United States.
+In subsection (c), the words "chief executive officer" are substituted for "Governor" for consistency in the revised title and because the word "State" includes the territories and possessions of the United States.
 
-In subsection (d), before clause (1), the words “in connection with any project”, “imposed on such sponsor under this section in connection with such project”, and “or discharge” are omitted as surplus. The words “laws and regulations” are substituted for “statutory and administrative requirements” for consistency in the revised title.
+In subsection (d), before clause (1), the words "in connection with any project", "imposed on such sponsor under this section in connection with such project", and "or discharge" are omitted as surplus. The words "laws and regulations" are substituted for "statutory and administrative requirements" for consistency in the revised title.
 
 #### References in Text
 
@@ -68,5 +68,5 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 <b>2010</b>—Pub. L. 111–314, §4(d)(2), (4)(D), successively renumbered section 70304 of title 49 and section 70304 of this title as this section.
 
-Subsec. (d)(1). Pub. L. 111–314, §4(d)(6)(B), substituted “section 303 of title 49” for “section 303 of this title”.
+Subsec. (d)(1). Pub. L. 111–314, §4(d)(6)(B), substituted "section 303 of title 49" for "section 303 of this title".
 

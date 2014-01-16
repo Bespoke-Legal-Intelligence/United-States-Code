@@ -62,7 +62,7 @@ The provisions of the Act of July 1, 1918, ch. 114, 40 Stat. 715 (1st par.), per
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–190 substituted “W–5” for “W–4” in section catchline and text.
+<b>1991</b>—Pub. L. 102–190 substituted "W–5" for "W–4" in section catchline and text.
 
 #### Effective Date of 1991 Amendment
 

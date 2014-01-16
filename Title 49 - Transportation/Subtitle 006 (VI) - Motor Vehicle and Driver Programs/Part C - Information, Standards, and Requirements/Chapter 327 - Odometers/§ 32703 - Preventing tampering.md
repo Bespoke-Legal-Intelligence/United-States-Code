@@ -46,9 +46,9 @@ Oct. 20, 1972, Pub. L. 92–513, §§404, 405, 86 Stat. 962; restated July 14, 1
 
 Oct. 20, 1972, Pub. L. 92–513, §406, 86 Stat. 962.
 
-In clause (1), the words “the mileage the vehicle was driven, as registered by the odometer within the designed tolerance of the manufacturer of the odometer” are substituted for “the true mileage driven. For purposes of this section, the true mileage driven is that mileage driven by the vehicle as registered by the odometer within the manufacturer's designed tolerance” to eliminate unnecessary words.
+In clause (1), the words "the mileage the vehicle was driven, as registered by the odometer within the designed tolerance of the manufacturer of the odometer" are substituted for "the true mileage driven. For purposes of this section, the true mileage driven is that mileage driven by the vehicle as registered by the odometer within the manufacturer's designed tolerance" to eliminate unnecessary words.
 
-In clause (3), the words “public” and “road” are added for consistency in this subtitle.
+In clause (3), the words "public" and "road" are added for consistency in this subtitle.
 
 #### Pub. L. 103–429
 
@@ -56,7 +56,7 @@ This amends 49:32703(3) to correct an error in the codification enacted by secti
 
 #### Amendments
 
-<b>1994</b>—Par. (3). Pub. L. 103–429 struck out “public” before “street”.
+<b>1994</b>—Par. (3). Pub. L. 103–429 struck out "public" before "street".
 
 #### Effective Date of 1994 Amendment
 

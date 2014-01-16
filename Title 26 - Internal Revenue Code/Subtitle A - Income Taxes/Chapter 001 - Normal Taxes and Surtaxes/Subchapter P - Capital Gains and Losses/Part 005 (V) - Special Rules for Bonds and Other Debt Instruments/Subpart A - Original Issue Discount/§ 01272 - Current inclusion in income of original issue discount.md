@@ -66,7 +66,7 @@
 
 #### (5) Accrual period
 
-&emsp;Except as otherwise provided in regulations prescribed by the Secretary, the term “accrual period” means a 6-month period (or shorter period from the date of original issue of the debt instrument) which ends on a day in the calendar year corresponding to the maturity date of the debt instrument or the date 6 months before such maturity date.
+&emsp;Except as otherwise provided in regulations prescribed by the Secretary, the term "accrual period" means a 6-month period (or shorter period from the date of original issue of the debt instrument) which ends on a day in the calendar year corresponding to the maturity date of the debt instrument or the date 6 months before such maturity date.
 
 #### (6) Determination of daily portions where principal subject to acceleration
 
@@ -178,7 +178,7 @@ This section shall not apply to any holder—
 
 #### (1) Purchase defined
 
-&emsp;For purposes of this section, the term “purchase” means—
+&emsp;For purposes of this section, the term "purchase" means—
 
 &emsp;&emsp;(A) any acquisition of a debt instrument, where
 
@@ -198,7 +198,7 @@ This section shall not apply to any holder—
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1004(b)(1), Aug. 5, 1997, 111 Stat. 911, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1004(b)(1), Aug. 5, 1997, 111 Stat. 911, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1986 Amendment
 
@@ -210,11 +210,11 @@ Section applicable to taxable years ending after July 18, 1984, but not applicab
 
 #### Change in Method of Accounting
 
-Pub. L. 105–34, title X, §1004(b)(2), Aug. 5, 1997, 111 Stat. 911, provided that: “In the case of any taxpayer required by this section \[amending this section and enacting provisions set out as a note above\] to change its method of accounting for its first taxable year beginning after the date of the enactment of this Act \[Aug. 5, 1997\]—
+Pub. L. 105–34, title X, §1004(b)(2), Aug. 5, 1997, 111 Stat. 911, provided that: "In the case of any taxpayer required by this section \[amending this section and enacting provisions set out as a note above\] to change its method of accounting for its first taxable year beginning after the date of the enactment of this Act \[Aug. 5, 1997\]—
 
-&emsp;“(A) such change shall be treated as initiated by the taxpayer,
+&emsp;"(A) such change shall be treated as initiated by the taxpayer,
 
-&emsp;“(B) such change shall be treated as made with the consent of the Secretary of the Treasury, and
+&emsp;"(B) such change shall be treated as made with the consent of the Secretary of the Treasury, and
 
-&emsp;“(C) the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of the Internal Revenue Code of 1986 shall be taken into account ratably over the 4-taxable year period beginning with such first taxable year.”
+&emsp;"(C) the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of the Internal Revenue Code of 1986 shall be taken into account ratably over the 4-taxable year period beginning with such first taxable year."
 

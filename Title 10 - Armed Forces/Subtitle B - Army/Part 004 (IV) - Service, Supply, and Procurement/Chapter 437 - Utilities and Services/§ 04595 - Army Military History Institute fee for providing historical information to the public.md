@@ -24,9 +24,9 @@ Retention of Fees.—Amounts received under subsection (a) for providing informa
 
 Definitions.—In this section:
 
-&emsp;(1) The term “United States Army Military History Institute” means the archive for historical records and materials of the Army that the Secretary of the Army designates as the primary archive for such records and materials.
+&emsp;(1) The term "United States Army Military History Institute" means the archive for historical records and materials of the Army that the Secretary of the Army designates as the primary archive for such records and materials.
 
-&emsp;(2) The terms “officer of the United States” and “employee of the United States” have the meanings given the terms “officer” and “employee”, respectively, in sections 2104 and 2105, respectively, of title 5.
+&emsp;(2) The terms "officer of the United States" and "employee of the United States" have the meanings given the terms "officer" and "employee", respectively, in sections 2104 and 2105, respectively, of title 5.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1085(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–287.)
 

@@ -8,7 +8,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (A) In general
 
-&emsp;&emsp;With respect to a proposed direct-to-consumer television advertisement (referred to in this section as a “DTC advertisement”), each person that on or after October 1, 2007, submits such an advertisement for advisory review by the Secretary prior to its initial public dissemination shall, except as provided in subparagraph (B), be subject to a fee established under subsection (c)(3).
+&emsp;&emsp;With respect to a proposed direct-to-consumer television advertisement (referred to in this section as a "DTC advertisement"), each person that on or after October 1, 2007, submits such an advertisement for advisory review by the Secretary prior to its initial public dissemination shall, except as provided in subparagraph (B), be subject to a fee established under subsection (c)(3).
 
 #### (B) Exception for required submissions
 
@@ -22,7 +22,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The fee required by subparagraph (A) (referred to in this section as “an advisory review fee”) shall be due not later than October 1 of the fiscal year in which the DTC advertisement involved is intended to be submitted for advisory review, subject to subparagraph (F)(i). Notwithstanding the preceding sentence, the advisory review fee for any DTC advertisement that is intended to be submitted for advisory review during fiscal year 2008 shall be due not later than 120 days after September 27, 2007, or an earlier date as specified by the Secretary.
+&emsp;&emsp;&emsp;The fee required by subparagraph (A) (referred to in this section as "an advisory review fee") shall be due not later than October 1 of the fiscal year in which the DTC advertisement involved is intended to be submitted for advisory review, subject to subparagraph (F)(i). Notwithstanding the preceding sentence, the advisory review fee for any DTC advertisement that is intended to be submitted for advisory review during fiscal year 2008 shall be due not later than 120 days after September 27, 2007, or an earlier date as specified by the Secretary.
 
 #### (ii) Effect of submission
 
@@ -30,7 +30,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (iii) Notice regarding carryover submissions
 
-&emsp;&emsp;&emsp;In making a notification under subparagraph (C), the person involved shall in addition notify the Secretary if under subparagraph (F)(i) the person intends to submit a DTC advertisement for which the advisory review fee has already been paid. Ifthe person does not so notify the Secretary, each DTC advertisement submitted by the person for advisory review in the fiscal year involved shall be subject to the advisory review fee.
+&emsp;&emsp;&emsp;In making a notification under subparagraph (C), the person involved shall in addition notify the Secretary if under subparagraph (F)(i) the person intends to submit a DTC advertisement for which the advisory review fee has already been paid. If the person does not so notify the Secretary, each DTC advertisement submitted by the person for advisory review in the fiscal year involved shall be subject to the advisory review fee.
 
 #### (E) Modification of advisory review fee
 
@@ -46,7 +46,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (i) Submissions
 
-&emsp;&emsp;&emsp;For each advisory review fee paid by a person for a fiscal year, the person is entitled to acceptance for advisory review by the Secretary of one DTC advertisement and acceptance of one resubmission for advisory review of the same advertisement. The advertisement shall be submitted for review in the fiscal year for which the fee was assessed, except that a person may carry over not more than one paid advisory review submission to the next fiscal year. Resubmissions may be submitted without regard to the fiscal year of the initial advisory review submission.
+&emsp;&emsp;&emsp;For each advisory review fee paid by a person for a fiscal year, the person is entitled to acceptance for advisory review by the Secretary of one DTC advertisementand acceptance of one resubmission for advisory review of the same advertisement. The advertisement shall be submitted for review in the fiscal year for which the fee was assessed, except that a person may carry over not more than one paid advisory review submission to the next fiscal year. Resubmissions may be submitted without regard to the fiscal year of the initial advisory review submission.
 
 #### (ii) No refunds
 
@@ -64,7 +64,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (A) In general
 
-&emsp;&emsp;Each person that on or after October 1, 2007, is assessed an advisory review fee under paragraph (1) shall be subject to fee <sup>1</sup> established under subsection (d)(2) (referred to in this section as an “operating reserve fee”) for the first fiscal year in which an advisory review fee is assessed to such person. The person is not subject to an operating reserve fee for any other fiscal year.
+&emsp;&emsp;Each person that on or after October 1, 2007, is assessed an advisory review fee under paragraph (1) shall be subject to fee <sup>1</sup> established under subsection (d)(2) (referred to in this section as an "operating reserve fee") for the first fiscal year in which an advisory review fee is assessed to such person. The person is not subject to an operating reserve fee for any other fiscal year.
 
 #### (B) Payment
 
@@ -94,7 +94,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (iii) Amount
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this section, an operating reserve fee thatis regarded as late under this subparagraph shall be equal to 150 percent of the operating reserve fee that otherwise would have applied pursuant to subsection (d).
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this section, an operating reserve fee that is regarded as late under this subparagraph shall be equal to 150 percent of the operating reserve fee that otherwise would have applied pursuant to subsection (d).
 
 #### (b) Advisory review fee revenue amounts
 
@@ -190,7 +190,7 @@ Notwithstanding any other requirement, a submission for advisory review of a DTC
 
 #### (B) Review employees
 
-&emsp;&emsp;For purposes of subparagraph (A)(ii), the term “full-time equivalent review employees” means the total combined number of full-time equivalent employees in—
+&emsp;&emsp;For purposes of subparagraph (A)(ii), the term "full-time equivalent review employees" means the total combined number of full-time equivalent employees in—
 
 &emsp;&emsp;&emsp;(i) the Center for Drug Evaluation and Research, Division of Drug Marketing, Advertising, and Communications, Food and Drug Administration; and
 
@@ -208,23 +208,23 @@ Notwithstanding any other requirement, a submission for advisory review of a DTC
 
 For purposes of this section:
 
-&emsp;(1) The term “advisory review” means reviewing and providing advisory comments on DTC advertisements regarding compliance of a proposed advertisement with the requirements of this chapter prior to its initial public dissemination.
+&emsp;(1) The term "advisory review" means reviewing and providing advisory comments on DTC advertisements regarding compliance of a proposed advertisement with the requirements of this chapter prior to its initial public dissemination.
 
-&emsp;(2) The term “advisory review fee” has the meaning indicated for such term in subsection (a)(1)(D).
+&emsp;(2) The term "advisory review fee" has the meaning indicated for such term in subsection (a)(1)(D).
 
-&emsp;(3) The term “carry over submission” means a submission for an advisory review for which a fee was paid in one fiscal year that is submitted for review in the following fiscal year.
+&emsp;(3) The term "carry over submission" means a submission for an advisory review for which a fee was paid in one fiscal year that is submitted for review in the following fiscal year.
 
-&emsp;(4) The term “direct-to-consumer television advertisement” means an advertisement for a prescription drug product (as defined in section 379g(3) of this title) intended to be displayed on any television channel for less than 3 minutes.
+&emsp;(4) The term "direct-to-consumer television advertisement" means an advertisement for a prescription drug product (as defined in section 379g(3) of this title) intended to be displayed on any television channel for less than 3 minutes.
 
-&emsp;(5) The term “DTC advertisement” has the meaning indicated for such term in subsection (a)(1)(A).
+&emsp;(5) The term "DTC advertisement" has the meaning indicated for such term in subsection (a)(1)(A).
 
-&emsp;(6) The term “operating reserve fee” has the meaning indicated for such term in subsection (a)(2)(A).
+&emsp;(6) The term "operating reserve fee" has the meaning indicated for such term in subsection (a)(2)(A).
 
-&emsp;(7) The term “person” includes an individual, partnership, corporation, and association, and any affiliate thereof or successor in interest.
+&emsp;(7) The term "person" includes an individual, partnership, corporation, and association, and any affiliate thereof or successor in interest.
 
-&emsp;(8) The term “process for the advisory review of prescription drug advertising” means the activities necessary to review and provide advisory comments on DTC advertisements prior to public dissemination and, to the extent the Secretary has additional staff resources available under the program under this section that are not necessary for the advisory review of DTC advertisements, the activities necessary to review and provide advisory comments on other proposed advertisements and promotional material prior to public dissemination.
+&emsp;(8) The term "process for the advisory review of prescription drug advertising" means the activities necessary to review and provide advisory comments on DTC advertisements prior to public dissemination and, to the extent the Secretary has additional staff resources available under the program under this section that are not necessary for the advisory review of DTC advertisements, the activities necessary to review and provide advisory comments on other proposed advertisements and promotional material prior to public dissemination.
 
-&emsp;(9) The term “resources allocated for the process for the advisory review of prescription drug advertising” means the expenses incurred in connection with the process for the advisory review of prescription drug advertising for—
+&emsp;(9) The term "resources allocated for the process for the advisory review of prescription drug advertising" means the expenses incurred in connection with the process for the advisory review of prescription drug advertising for—
 
 &emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees, and costs related to such officers, employees, and committees, and to contracts with such contractors;
 
@@ -236,9 +236,9 @@ For purposes of this section:
 
 &emsp;&emsp;(E) terminating the program under this section pursuant to subsection (f)(2) if that becomes necessary.
 
-&emsp;(10) The term “resubmission” means a subsequent submission for advisory review of a direct-to-consumer television advertisement that has been revised in response to the Secretary's comments on an original submission. A resubmission may not introduce significant new concepts or creative themes into the television advertisement.
+&emsp;(10) The term "resubmission" means a subsequent submission for advisory review of a direct-to-consumer television advertisement that has been revised in response to the Secretary's comments on an original submission. A resubmission may not introduce significant new concepts or creative themes into the television advertisement.
 
-&emsp;(11) The term “submission for advisory review” means an original submission of a direct-to-consumer television advertisement for which the sponsor voluntarily requests advisory comments before the advertisement is publicly disseminated.
+&emsp;(11) The term "submission for advisory review" means an original submission of a direct-to-consumer television advertisement for which the sponsor voluntarily requests advisory comments before the advertisement is publicly disseminated.
 
 (June 25, 1938, ch. 675, §736A, as added Pub. L. 110–85, title I, §104, Sept. 27, 2007, 121 Stat. 832.)
 
@@ -246,5 +246,5 @@ For purposes of this section:
 
 Section effective Oct. 1, 2007, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2007, see section 107 of Pub. L. 110–85, set out as an Effective and Termination Dates of 2007 Amendment note under section 379g of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “the fee”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "the fee".</i>
 

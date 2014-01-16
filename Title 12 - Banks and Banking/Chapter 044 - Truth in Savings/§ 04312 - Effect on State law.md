@@ -6,9 +6,9 @@ The provisions of this chapter do not supersede any provisions of the law of any
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Board”.
+<b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board".
 
-<b>1992</b>—Pub. L. 102–550 made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
+<b>1992</b>—Pub. L. 102–550 made technical amendment to references to "this chapter" wherever appearing to reflect correction of corresponding provision of original act.
 
 #### Effective Date of 2010 Amendment
 

@@ -126,11 +126,11 @@ In this section:
 
 #### (1) Conservation easement
 
-&emsp;The term “conservation easement” includes an easement or restriction, recorded deed, or a reserve interest deed where the grantee acquires all rights, title, and interest in a property, that do not conflict with the goals of this section except those rights, title, and interests that may run with the land that are expressly reserved by a grantor and are agreed to at the time of purchase.
+&emsp;The term "conservation easement" includes an easement or restriction, recorded deed, or a reserve interest deed where the grantee acquires all rights, title, and interest in a property, that do not conflict with the goals of this section except those rights, title, and interests that may run with the land that are expressly reserved by a grantor and are agreed to at the time of purchase.
 
 #### (2) Interest in property
 
-&emsp;The term “interest in property” includes a conservation easement.
+&emsp;The term "interest in property" includes a conservation easement.
 
 #### (l) Authorization of appropriations
 
@@ -138,7 +138,7 @@ There are authorized to be appropriated to the Secretary to carry out this secti
 
 (Pub. L. 89–454, title III, §307A, as added Pub. L. 111–11, title XII, §12502, Mar. 30, 2009, 123 Stat. 1442.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (b)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (b)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “subparagraph”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "subparagraph".</i>
 

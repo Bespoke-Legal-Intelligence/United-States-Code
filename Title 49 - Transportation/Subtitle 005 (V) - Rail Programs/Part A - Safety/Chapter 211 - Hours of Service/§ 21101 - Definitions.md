@@ -2,15 +2,15 @@
 
 In this chapter—
 
-&emsp;(1) “designated terminal” means the home or away-from-home terminal for the assignment of a particular crew.
+&emsp;(1) "designated terminal" means the home or away-from-home terminal for the assignment of a particular crew.
 
-&emsp;(2) “dispatching service employee” means an operator, train dispatcher, or other train employee who by the use of an electrical or mechanical device dispatches, reports, transmits, receives, or delivers orders related to or affecting train movements.
+&emsp;(2) "dispatching service employee" means an operator, train dispatcher, or other train employee who by the use of an electrical or mechanical device dispatches, reports, transmits, receives, or delivers orders related to or affecting train movements.
 
-&emsp;(3) “employee” means a dispatching service employee, a signal employee, or a train employee.
+&emsp;(3) "employee" means a dispatching service employee, a signal employee, or a train employee.
 
-&emsp;(4) “signal employee” means an individual who is engaged in installing, repairing, or maintaining signal systems.
+&emsp;(4) "signal employee" means an individual who is engaged in installing, repairing, or maintaining signal systems.
 
-&emsp;(5) “train employee” means an individual engaged in or connected with the movement of a train, including a hostler.
+&emsp;(5) "train employee" means an individual engaged in or connected with the movement of a train, including a hostler.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 888; Pub. L. 110–432, div. A, title I, §108(a), Oct. 16, 2008, 122 Stat. 4860.)
 
@@ -40,37 +40,37 @@ Mar. 4, 1907, ch. 2939, 34 Stat. 1415, §1(b)(4) (1st sentence); added Nov. 2, 1
 
 Mar. 4, 1907, ch. 2939, §1(b)(2), 34 Stat. 1415; restated Dec. 26, 1969, Pub. L. 91–169, §1, 83 Stat. 463; July 8, 1976, Pub. L. 94–348, §4(c), 90 Stat. 818.
 
-Clause (2) is added to avoid the necessity of repeating the substance of the definition every time a “dispatching service employee” is referred to in this chapter. The language in clause (2) is derived from 45:63.
+Clause (2) is added to avoid the necessity of repeating the substance of the definition every time a "dispatching service employee" is referred to in this chapter. The language in clause (2) is derived from 45:63.
 
-Clause (3) is added to provide a definition of “employee” when the source provisions apply to all types of employees covered by this chapter.
+Clause (3) is added to provide a definition of "employee" when the source provisions apply to all types of employees covered by this chapter.
 
-Clause (4) is added to avoid the necessity of repeating the substance of the definition every time a “signal employee” is referred to in this chapter. The language in clause (4) is derived from 45:63a.
+Clause (4) is added to avoid the necessity of repeating the substance of the definition every time a "signal employee" is referred to in this chapter. The language in clause (4) is derived from 45:63a.
 
-In clause (5), the words “train employee” are substituted for “employee” to distinguish the term from the terms “dispatching service employee” and “signal employee”. The word “actually” is omitted as surplus.
+In clause (5), the words "train employee" are substituted for "employee" to distinguish the term from the terms "dispatching service employee" and "signal employee". The word "actually" is omitted as surplus.
 
 #### Amendments
 
-<b>2008</b>—Par. (4). Pub. L. 110–432 struck out “employed by a railroad carrier” after “individual”.
+<b>2008</b>—Par. (4). Pub. L. 110–432 struck out "employed by a railroad carrier" after "individual".
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–432, div. A, title I, §108(g), Oct. 16, 2008, 122 Stat. 4866, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 21103 and 21104 of this title\] shall take effect 9 months after the date of enactment of this Act \[Oct. 16, 2008\].”
+Pub. L. 110–432, div. A, title I, §108(g), Oct. 16, 2008, 122 Stat. 4866, provided that: "The amendments made by subsections (a), (b), and (c) \[amending this section and sections 21103 and 21104 of this title\] shall take effect 9 months after the date of enactment of this Act \[Oct. 16, 2008\]."
 
 #### Record Keeping and Reporting
 
 Pub. L. 110–432, div. A, title I, §108(f), Oct. 16, 2008, 122 Stat. 4866, provided that:
 
-“(1)
+"(1)
 
 Regulations.—Not later than 180 days after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary \[of Transportation\] shall prescribe a regulation revising the requirements for recordkeeping and reporting for Hours of Service of Railroad Employees contained in part 228 of title 49, Code of Federal Regulations—
 
-&emsp;“(A) to adjust record keeping and reporting requirements to support compliance with chapter 211 of title 49, United States Code, as amended by this Act;
+&emsp;"(A) to adjust record keeping and reporting requirements to support compliance with chapter 211 of title 49, United States Code, as amended by this Act;
 
-&emsp;“(B) to authorize electronic record keeping, and reporting of excess service, consistent with appropriate considerations for user interface; and
+&emsp;"(B) to authorize electronic record keeping, and reporting of excess service, consistent with appropriate considerations for user interface; and
 
-&emsp;“(C) to require training of affected employees and supervisors, including training of employees in the entry of hours of service data.
+&emsp;"(C) to require training of affected employees and supervisors, including training of employees in the entry of hours of service data.
 
-“(2)
+"(2)
 
-Procedure.—In lieu of issuing a notice of proposed rulemaking as contemplated by section 553 of title 5, United States Code, the Secretary may utilize the Railroad Safety Advisory Committee to assist in development of the regulation. The Secretary may propose and adopt amendments to the revised regulations thereafter as may be necessary in light of experience under the revised requirements.”
+Procedure.—In lieu of issuing a notice of proposed rulemaking as contemplated by section 553 of title 5, United States Code, the Secretary may utilize the Railroad Safety Advisory Committee to assist in development of the regulation. The Secretary may propose and adopt amendments to the revised regulations thereafter as may be necessary in light of experience under the revised requirements."
 

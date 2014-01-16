@@ -2,7 +2,7 @@
 
 #### (a) Eligibility
 
-The Board, as hereinafter provided, shall insure the member accounts of all Federal credit unions and it may insure the member accounts of (1) credit unions organized and operated according to the laws of any State, the District of Columbia, the several territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, and (2) credit unions organized and operating under the jurisdiction of the Department of Defense if such credit unions are operating in compliance with the requirements of subchapter I of this chapter and regulations issued thereunder.
+The Board, as hereinafter provided, shall insure the member accounts of all Federal creditunions and it may insure the member accounts of (1) credit unions organized and operated according to the laws of any State, the District of Columbia, the several territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, and (2) credit unions organized and operating under the jurisdiction of the Department of Defense if such credit unions are operating in compliance with the requirements of subchapter I of this chapter and regulations issued thereunder.
 
 #### (b) Application; agreement
 
@@ -56,11 +56,11 @@ Upon the approval of any application for insurance, the Board shall notify the a
 
 #### (2) Routine business financing
 
-&emsp;Paragraph (1) shall not apply with respect to advances or other forms of financial assistancegenerally provided by a Government-sponsored enterprise in the ordinary course of business of the enterprise.
+&emsp;Paragraph (1) shall not apply with respect to advances or other forms of financial assistance generally provided by a Government-sponsored enterprise in the ordinary course of business of the enterprise.
 
-#### (3) “Government-sponsored enterprise” defined
+#### (3) "Government-sponsored enterprise" defined
 
-&emsp;For purposes of this subsection, the term “Government-sponsored enterprise” has the meaning given to such term in section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
+&emsp;For purposes of this subsection, the term "Government-sponsored enterprise" has the meaning given to such term in section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
 
 #### (4) Employee credit union
 
@@ -76,23 +76,23 @@ Section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforc
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(5). Pub. L. 109–351 substituted “this chapter” for “section 1762 of this title”.
+<b>2006</b>—Subsec. (b)(5). Pub. L. 109–351 substituted "this chapter" for "section 1762 of this title".
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–208 added subsec. (e).
 
 <b>1984</b>—Subsec. (b)(8). Pub. L. 98–369 inserted provisions relating to payment and maintenance of the deposit.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–630, §§502(b), 504(a), substituted “Board” for “Administrator” and “it” for “he”, and inserted “, including the trust territories,” after “the several territories”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–630, §§502(b), 504(a), substituted "Board" for "Administrator" and "it" for "he", and inserted ", including the trust territories," after "the several territories".
 
-Subsec. (b). Pub. L. 95–630, §§502(b), 504(b), substituted “Board” for “Administrator” wherever appearing and inserted in par. (7) “except for accounts authorized by State law for State credit unions” after “by the Board”.
+Subsec. (b). Pub. L. 95–630, §§502(b), 504(b), substituted "Board" for "Administrator" wherever appearing and inserted in par. (7) "except for accounts authorized by State law for State credit unions" after "by the Board".
 
-Subsec. (c). Pub. L. 95–630, §502(b), substituted “Board” for “Administrator” wherever appearing, and in par. (2) substituted “it” for “he” before “finds”.
+Subsec. (c). Pub. L. 95–630, §502(b), substituted "Board" for "Administrator" wherever appearing, and in par. (2) substituted "it" for "he" before "finds".
 
-Subsecs. (d), (e). Pub. L. 95–630, §§502(b), 504(c), struck out subsec. (d), redesignated subsec. (e) as (d) and substituted “Board” for “Administrator”.
+Subsecs. (d), (e). Pub. L. 95–630, §§502(b), 504(c), struck out subsec. (d), redesignated subsec. (e) as (d) and substituted "Board" for "Administrator".
 
 <b>1977</b>—Subsec. (c)(3) Pub. L. 95–22 struck out par. (3) which provided for approval by Administrator of applications of State credit unions for insurance of its member accounts where credit union meets requirements of this chapter and where in the event of liquidation of the credit union, the claims with respect to demand deposit accounts shall be subordinate to the claims with respect to member accounts.
 
-<b>1971</b>—Subsec. (c)(2). Pub. L. 92–221, §1(a), substituted “disapproved” for “reject”.
+<b>1971</b>—Subsec. (c)(2). Pub. L. 92–221, §1(a), substituted "disapproved" for "reject".
 
 Subsec. (c)(3). Pub. L. 92–221, §2, added par. (3).
 
@@ -100,7 +100,7 @@ Subsec. (d). Pub. L. 92–221, §1(b), substituted provisions allowing, in certa
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. A, title II, §2615(c), Sept. 30, 1996, 110 Stat. 3009–479, provided that: “The amendments made by this section \[amending this section and section 1828 of this title\] shall apply on and after January 1, 1996.”
+Pub. L. 104–208, div. A, title II, §2615(c), Sept. 30, 1996, 110 Stat. 3009–479, provided that: "The amendments made by this section \[amending this section and section 1828 of this title\] shall apply on and after January 1, 1996."
 
 #### Effective Date of 1978 Amendment
 

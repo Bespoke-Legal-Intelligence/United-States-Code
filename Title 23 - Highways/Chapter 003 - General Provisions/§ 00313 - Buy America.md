@@ -10,7 +10,7 @@
 
 &emsp;(3) that inclusion of domestic material will increase the cost of the overall project contract by more than 25 percent.
 
-(c) For purposes of this section, in calculating components’ costs, labor costs involved in final assembly shall not be included in the calculation.
+(c) For purposes of this section, in calculating components' costs, labor costs involved in final assembly shall not be included in the calculation.
 
 (d) The Secretary of Transportation shall not impose any limitation or condition on assistance provided under the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title that restricts any State from imposing more stringent requirements than this section on the use of articles, materials, and supplies mined, produced, or manufactured in foreign countries in projects carried out with such assistance or restricts any recipient of such assistance from complying with such State imposed requirements.
 
@@ -18,7 +18,7 @@
 
 Intentional Violations.—If it has been determined by a court or Federal agency that any person intentionally—
 
-&emsp;(1) affixed a label bearing a “Made in America” inscription, or any inscription with the same meaning, to any product used in projects to which this section applies, sold in or shipped to the United States that was not made in the United States; or
+&emsp;(1) affixed a label bearing a "Made in America" inscription, or any inscription with the same meaning, to any product used in projects to which this section applies, sold in or shipped to the United States that was not made in the United States; or
 
 &emsp;(2) represented that any product used in projects to which this section applies, sold in or shipped to the United States that was not produced in the United States, was produced in the United States;
 
@@ -54,17 +54,17 @@ Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, tit
 
 #### Prior Provisions
 
-A prior section 313, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915, authorized the Secretary to cooperate withState highway departments and other agencies in the promotion of highway safety and authorized the expenditure of $150,000 out of the administrative funds made available in accordance with section 104(a) of this title for the purposes of this section, prior to repeal by Pub. L. 89–564, title I, §102(a), Sept. 9, 1966, 80 Stat. 734. See section 401 et seq. of this title.
+A prior section 313, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915, authorized the Secretary to cooperate with State highway departments and other agencies in the promotion of highway safety and authorized the expenditure of $150,000 out of the administrative funds made available in accordance with section 104(a) of this title for the purposes of this section, prior to repeal by Pub. L. 89–564, title I, §102(a), Sept. 9, 1966, 80 Stat. 734. See section 401 et seq. of this title.
 
 #### Amendments
 
 <b>2012</b>—Subsec. (g). Pub. L. 112–141 added subsec. (g).
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1903(c)(1), substituted “to carry out the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title” for “by this Act or by any Act amended by this Act or, after the date of enactment of this Act, any funds authorized to be appropriated to carry out this Act, title 23, United States Code, or the Surface Transportation Assistance Act of 1978”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1903(c)(1), substituted "to carry out the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title" for "by this Act or by any Act amended by this Act or, after the date of enactment of this Act, any funds authorized to be appropriated to carry out this Act, title 23, United States Code, or the Surface Transportation Assistance Act of 1978".
 
 Subsec. (b)(3), (4). Pub. L. 109–59, §1903(c)(2), redesignated par. (4) as (3).
 
-Subsec. (d). Pub. L. 109–59, §1903(c)(3), substituted “the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title that” for “this Act, the Surface Transportation Assistance Act of 1978 or title 23, United States Code, which”.
+Subsec. (d). Pub. L. 109–59, §1903(c)(3), substituted "the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title that" for "this Act, the Surface Transportation Assistance Act of 1978 or title 23, United States Code, which".
 
 Subsec. (e) to (g). Pub. L. 109–59, §1903(c)(4), (5), which directed amendment of this section by striking subsec. (e) and redesignating subsecs. (f) and (g) as (e) and (f), respectively, was executed by making the redesignations and by striking out two subsecs. (e), to reflect the probable intent of Congress. The first subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as originally enacted, repealed section 401 of the Surface Transportation Assistance Act of 1978, Pub. L. 95–599. The second subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as added by Pub. L. 102–240, §1048(b), related to report on purchases from foreign entities waived under subsec. (b) in fiscal years 1992 and 1993.
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Buy America Waiver Notification and Annual Reports
 
-Pub. L. 112–55, div. C, title I, §122, Nov. 18, 2011, 125 Stat. 654, provided that: “Not less than 15 days prior to waiving, under his statutory authority, any Buy America requirement for Federal-aid highway projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
+Pub. L. 112–55, div. C, title I, §122, Nov. 18, 2011, 125 Stat. 654, provided that: "Not less than 15 days prior to waiving, under his statutory authority, any Buy America requirement for Federal-aid highway projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -86,23 +86,23 @@ Pub. L. 110–161, div. K, title I, §130, Dec. 26, 2007, 121 Stat. 2389.
 
 Pub. L. 110–244, title I, §117, June 6, 2008, 122 Stat. 1607, provided that:
 
-“(a)
+"(a)
 
 Waiver Notification.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—If the Secretary of Transportation makes a finding under section 313(b) of title 23, United States Code, with respect to a project, the Secretary shall—
 
-&emsp;&emsp;“(A) publish in the Federal Register, before the date on which such finding takes effect, a detailed written justification as to the reasons that such finding is needed; and
+&emsp;&emsp;"(A) publish in the Federal Register, before the date on which such finding takes effect, a detailed written justification as to the reasons that such finding is needed; and
 
-&emsp;&emsp;“(B) provide notice of such finding and an opportunity for public comment on such finding for a period of not to exceed 60 days.
+&emsp;&emsp;"(B) provide notice of such finding and an opportunity for public comment on such finding for a period of not to exceed 60 days.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Limitation on statutory construction.—Nothing in paragraph (1) shall be construed to require the effective date of a finding referred to in paragraph (1) to be delayed until after the close of the public comment period referred to in paragraph (1)(B).
 
-“(b)
+"(b)
 
-Annual Reports.—Not later than February 1 of each year beginning after the date of enactment of this Act \[June 6, 2008\], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the projects for which the Secretary made findings under section 313(b) of title 23, United States Code, during the preceding calendar year and the justifications for such findings.”
+Annual Reports.—Not later than February 1 of each year beginning after the date of enactment of this Act \[June 6, 2008\], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the projects for which the Secretary made findings under section 313(b) of title 23, United States Code, during the preceding calendar year and the justifications for such findings."
 

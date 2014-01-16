@@ -6,11 +6,11 @@ The second sentence of section 1715d of this title, as amended, relating to hous
 
 #### References in Text
 
-Section 1715d of this title, referred to in text, was in the original “section 214 of the National Housing Act, as amended”. Section 214 of that Act was classified originally to section 1715d of this title and to section 484d of Title 48, Territories and Insular Possessions. Section 484d of Title 48 has been omitted from the Code.
+Section 1715d of this title, referred to in text, was in the original "section 214 of the National Housing Act, as amended". Section 214 of that Act was classified originally to section 1715d of this title and to section 484d of Title 48, Territories and Insular Possessions. Section 484d of Title 48 has been omitted from the Code.
 
 #### Amendments
 
-<b>1959</b>—Pub. L. 86–70 substituted “State” for “Territory” in two places.
+<b>1959</b>—Pub. L. 86–70 substituted "State" for "Territory" in two places.
 
 <b>1955</b>—Act Aug. 11, 1955, reenacted section without change.
 

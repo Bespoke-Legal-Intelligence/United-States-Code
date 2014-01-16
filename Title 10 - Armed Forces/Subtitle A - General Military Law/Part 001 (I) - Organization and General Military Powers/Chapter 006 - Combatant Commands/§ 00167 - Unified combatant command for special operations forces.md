@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under section 161 of this title a unified combatant command for special operations forces (hereinafter in this section referred to as the “special operations command”). The principal function of the command is to prepare special operations forces to carry out assigned missions.
+Establishment.—With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under section 161 of this title a unified combatant command for special operations forces (hereinafter in this section referred to as the "special operations command"). The principal function of the command is to prepare special operations forces to carry out assigned missions.
 
 (b)
 
@@ -72,7 +72,7 @@ Authority of Combatant Commander.—(1) In addition to the authority prescribed 
 
 &emsp;(IV) work with the military departments to ensure that the command is appropriately represented in any joint working group or integrated product team regarding acquisition programs for which the command is a customer.
 
-(ii) The command acquisition executive of the special operations command shall be included on the distribution list for acquisition directives and instructions of the Department of Defense.
+(ii) The command acquisition executive of the special operations command shall be responsible to the commander for rapidly delivering acquisition solutions to meet validated special operations-peculiar requirements, subordinate to the Defense Acquisition Executive in matters of acquisition, subject to the same oversight as the service acquisition executives, and included on the distribution list for acquisition directives and instructions of the Department of Defense.
 
 (D) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.
 
@@ -86,7 +86,7 @@ Budget.—In addition to the activities of a combatant command for which funding
 
 (g)
 
-Intelligence and Special Activities.—This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.).
+Intelligence and Special Activities.—This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.).<sup>1</sup>
 
 (h)
 
@@ -134,11 +134,11 @@ Budget Support for Reserve Elements.—(1) Before the budget proposal for the sp
 
 (2) Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect to reserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
 
-(Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832; Pub. L. 110–181, div. A, title VIII, §810, Jan. 28, 2008, 122 Stat. 217; Pub. L. 112–81, div. A, title X, §1086(1), Dec. 31, 2011, 125 Stat. 1603.)
+(Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832; Pub. L. 110–181, div. A, title VIII, §810, Jan. 28, 2008, 122 Stat. 217; Pub. L. 112–81, div. A, title X, §1086(1), Dec. 31, 2011, 125 Stat. 1603; Pub. L. 113–66, div. A, title IX, §903, Dec. 26, 2013, 127 Stat. 816.)
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (g), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. Title V of the Act is classified generally to subchapter III (§413 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50 and Tables.
+The National Security Act of 1947, referred to in subsec. (g), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -148,141 +148,127 @@ Pub. L. 99–661 and Pub. L. 99–500 added identical sections.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (j)(6). Pub. L. 112–81 added par. (6) and struck out former par. (6) which read as follows: “Psychological operations.”
+<b>2013</b>—Subsec. (e)(4)(C)(ii). Pub. L. 113–66 inserted "responsible to the commander for rapidly delivering acquisition solutions to meet validated special operations-peculiar requirements, subordinate to the Defense Acquisition Executive in matters of acquisition, subject to the same oversight as the service acquisition executives, and" after "shall be".
+
+<b>2011</b>—Subsec. (j)(6). Pub. L. 112–81 added par. (6) and struck out former par. (6) which read as follows: "Psychological operations."
 
 <b>2008</b>—Subsec. (e)(4)(C), (D). Pub. L. 110–181 added subpar. (C) and redesignated former subpar. (C) as (D).
 
 <b>1994</b>—Subsec. (k). Pub. L. 103–337 added subsec. (k).
 
-<b>1991</b>—Subsec. (g). Pub. L. 102–88 substituted “would require a notice” for “would require—
+<b>1991</b>—Subsec. (g). Pub. L. 102–88 substituted "would require a notice" for "would require—
 
-&emsp;“(1) a finding under section 662 of the Foreign Assistance Act of 1961 (22 U.S.C. 2422); or
+&emsp;"(1) a finding under section 662 of the Foreign Assistance Act of 1961 (22 U.S.C. 2422); or
 
-&emsp;“(2) a notice” and “title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.)” for “section 501(a)(1) of the National Security Act of 1947 (50 U.S.C. 413)”.
+&emsp;"(2) a notice" and "title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.)" for "section 501(a)(1) of the National Security Act of 1947 (50 U.S.C. 413)".
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–456 revised and restated subsec. (e). Prior to amendment, subsec. (e) read as follows:
 
-“(1) In addition to the authority prescribed in section 164(c) of this title, the commander of the special operations command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to special operations activities, including the following functions:
+"(1) In addition to the authority prescribed in section 164(c) of this title, the commander of the special operations command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to special operations activities, including the following functions:
 
-&emsp;“(A) Developing strategy, doctrine, and tactics.
+&emsp;"(A) Developing strategy, doctrine, and tactics.
 
-&emsp;“(B) Training assigned forces.
+&emsp;"(B) Training assigned forces.
 
-&emsp;“(C) Conducting specialized courses of instruction for commissioned and noncommissioned officers.
+&emsp;"(C) Conducting specialized courses of instruction for commissioned and noncommissioned officers.
 
-&emsp;“(D) Validating requirements.
+&emsp;"(D) Validating requirements.
 
-&emsp;“(E) Establishing priorities for requirements.
+&emsp;"(E) Establishing priorities for requirements.
 
-&emsp;“(F) Ensuring combat readiness.
+&emsp;"(F) Ensuring combat readiness.
 
-&emsp;“(G) Developing and acquiring special operations-peculiar equipment and acquiring special operations-peculiar material, supplies, and services.
+&emsp;"(G) Developing and acquiring special operations-peculiar equipment and acquiring special operations-peculiar material, supplies, and services.
 
-&emsp;“(H) Ensuring the interoperability of equipment and forces.
+&emsp;"(H) Ensuring the interoperability of equipment and forces.
 
-&emsp;“(I) Formulating and submitting requirements for intelligence support.
+&emsp;"(I) Formulating and submitting requirements for intelligence support.
 
-&emsp;“(J) Monitoring the promotions, assignments, retention, training, and professional military education of special operations forces officers.
+&emsp;"(J) Monitoring the promotions, assignments, retention, training, and professional military education of special operations forces officers.
 
-“(2) The commander of such command shall be responsible for monitoring the preparedness of special operations forces assigned to other unified combatant commands to carry out assigned missions.
+"(2) The commander of such command shall be responsible for monitoring the preparedness of special operations forces assigned to other unified combatant commands to carry out assigned missions.
 
-“(3) Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under paragraph (1)(G), shall have authority to exercise the functions of the head of an agency under chapter 137 of this title. The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.”
+"(3) Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under paragraph (1)(G), shall have authority to exercise the functions of the head of an agency under chapter 137 of this title. The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned."
 
 <b>1987</b>—Subsec. (e)(3). Pub. L. 100–180 added par. (3).
 
 #### Effective Date
 
-Pub. L. 99–500, §101(c) \[title IX, §9115(i)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, §101(c) \[title IX, §9115(i)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, §1311(i), Nov. 14, 1986, 100 Stat. 3986, provided that: “Section 167 of title 10, United States Code (as added by subsection (b)), shallbe implemented not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\].”
+Pub. L. 99–500, §101(c) \[title IX, §9115(i)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, §101(c) \[title IX, §9115(i)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, §1311(i), Nov. 14, 1986, 100 Stat. 3986, provided that: "Section 167 of title 10, United States Code (as added by subsection (b)), shall be implemented not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\]."
 
 #### Memoranda of Agreement on Identification and Dedication of Enabling Capabilities of General Purpose Forces to Fulfill Certain Requirements of Special Operations Forces
 
 Pub. L. 112–81, div. A, title IX, §904, Dec. 31, 2011, 125 Stat. 1533, provided that:
 
-“(a)
+"(a)
 
 Requirement.—By not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\] and annually thereafter, each Secretary of a military department shall enter into a memorandum of agreement with the Commander of the United States Special Operations Command that identifies or establishes processes and associated milestones by which numbers and types of enabling capabilities of the general purpose forces of the Armed Forces under the jurisdiction of such Secretary can be identified and dedicated to fulfill the training and operational requirements of special operations forces under the United States Special Operations Command.
 
-“(b)
+"(b)
 
-Format.—Such agreements may be accomplished in an annex to existing memoranda of agreement or through separate memoranda of agreement.”
+Format.—Such agreements may be accomplished in an annex to existing memoranda of agreement or through separate memoranda of agreement."
 
 #### Counterterrorism Operational Briefing Requirement
 
-Pub. L. 112–81, div. A, title X, §1031, Dec. 31, 2011, 125 Stat. 1570, provided that:
-
-“(a)
-
-Briefings Required.—Beginning not later than March 1, 2012, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] quarterly briefings outlining Department of Defense counterterrorism operations and related activities involving special operations forces.
-
-“(b)
-
-Elements.—Each briefing under subsection (a) shall include each of the following:
-
-&emsp;“(1) A global update on activity within each geographic combatant command.
-
-&emsp;“(2) An overview of authorities and legal issues including limitations.
-
-&emsp;“(3) An outline of interagency activities and initiatives.
-
-&emsp;“(4) Any other matters the Secretary considers appropriate.”
+Pub. L. 112–81, div. A, title X, §1031, Dec. 31, 2011, 125 Stat. 1570, required the Secretary of Defense, beginning not later than March 1, 2012, to provide to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives quarterly briefings outlining Department of Defense counterterrorism operations and related activities involving special operations forces, prior to repeal by Pub. L. 113–66, div. A, title X, §1042(b), Dec. 26, 2013, 127 Stat. 857.
 
 #### Quarterly Reports on Use of Combat Mission Requirements Funds
 
 Pub. L. 111–383, div. A, title I, §123, Jan. 7, 2011, 124 Stat. 4158, as amended by Pub. L. 112–81, div. A, title I, §145, Dec. 31, 2011, 125 Stat. 1326, provided that:
 
-“(a)
+"(a)
 
 Quarterly Reports Required.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 30 days after the end of each fiscal quarter, the commander of the United States Special Operations Command shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of Combat Mission Requirements funds during the preceding fiscal quarter.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Combat mission requirements funds.—For purposes of this section, Combat Mission Requirements funds are amounts available to the Department of Defense for Defense-wide procurement in the Combat Mission Requirements subaccount of the Defense-wide Procurement account.
 
-“(b)
+"(b)
 
 Elements.—Each report under subsection (a) shall include, for the fiscal quarter covered by such report, the following:
 
-&emsp;“(1) The balance of the Combat Mission Requirements subaccount at the beginning of such quarter.
+&emsp;"(1) The balance of the Combat Mission Requirements subaccount at the beginning of such quarter.
 
-&emsp;“(2) The balance of the Combat Mission Requirements subaccount at the end of such quarter.
+&emsp;"(2) The balance of the Combat Mission Requirements subaccount at the end of such quarter.
 
-&emsp;“(3) Any transfer of funds into or out of the Combat Mission Requirements subaccount during such quarter, including the source of any funds transferred into the subaccount, and the objective of any transfer of funds out of the subaccount.
+&emsp;"(3) Any transfer of funds into or out of the Combat Mission Requirements subaccount during such quarter, including the source of any funds transferred into the subaccount, and the objective of any transfer of funds out of the subaccount.
 
-&emsp;“(4) A description of any requirement—
+&emsp;"(4) A description of any requirement—
 
-&emsp;&emsp;“(A) approved for procurement using Combat Mission Requirements funds during such quarter; or
+&emsp;&emsp;"(A) approved for procurement using Combat Mission Requirements funds during such quarter; or
 
-&emsp;&emsp;“(B) procured using such funds during such quarter.
+&emsp;&emsp;"(B) procured using such funds during such quarter.
 
-&emsp;“(5) With respect to each description of a requirement under paragraph (4), the amount of Combat Mission Requirements funds committed to the procurement or approved procurement of such requirement.
+&emsp;"(5) With respect to each description of a requirement under paragraph (4), the amount of Combat Mission Requirements funds committed to the procurement or approved procurement of such requirement.
 
-&emsp;“(6) A table setting forth the Combat Mission Requirements approved during the fiscal year in which such report is submitted and the two preceding fiscal years, including for each such Requirement—
+&emsp;"(6) A table setting forth the Combat Mission Requirements approved during the fiscal year in which such report is submitted and the two preceding fiscal years, including for each such Requirement—
 
-&emsp;&emsp;“(A) the title of such Requirement;
+&emsp;&emsp;"(A) the title of such Requirement;
 
-&emsp;&emsp;“(B) the date of approval of such Requirement; and
+&emsp;&emsp;"(B) the date of approval of such Requirement; and
 
-&emsp;&emsp;“(C) the amount of funding approved for such Requirement, and the source of such approved funds.
+&emsp;&emsp;"(C) the amount of funding approved for such Requirement, and the source of such approved funds.
 
-&emsp;“(7) A statement of the amount of any unspent Combat Mission Requirements funds from the fiscal year in which such report is submitted and the two preceding fiscal years.
+&emsp;"(7) A statement of the amount of any unspent Combat Mission Requirements funds from the fiscal year in which such report is submitted and the two preceding fiscal years.
 
-“(c)
+"(c)
 
-Form.—Each report under subsection (a) shall be submitted in unclassified form, but may include a classified annex.”
+Form.—Each report under subsection (a) shall be submitted in unclassified form, but may include a classified annex."
 
 #### Resources for CINCSOF
 
-Pub. L. 100–180, div. A, title XII, §1211(b), Dec. 4, 1987, 101 Stat. 1155, as amended by Pub. L. 104–106, div. A, title IX, §903(f)(5), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617, provided that: “The Secretary of Defense shall provide sufficient resources for the commander of the unified combatant command for special operations forces established pursuant to section 167 of title 10, United States Code, to carry out his duties and responsibilities, including particularly his duties and responsibilities relating to the following functions:
+Pub. L. 100–180, div. A, title XII, §1211(b), Dec. 4, 1987, 101 Stat. 1155, as amended by Pub. L. 104–106, div. A, title IX, §903(f)(5), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617, provided that: "The Secretary of Defense shall provide sufficient resources for the commander of the unified combatant command for special operations forces established pursuant to section 167 of title 10, United States Code, to carry out his duties and responsibilities, including particularly his duties and responsibilities relating to the following functions:
 
-&emsp;“(1) Developing and acquiring special operations-peculiar equipment and acquiring special operations-peculiar material, supplies, and services.
+&emsp;"(1) Developing and acquiring special operations-peculiar equipment and acquiring special operations-peculiar material, supplies, and services.
 
-&emsp;“(2) Providing advice and assistance to the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict in the Assistant Secretary's overall supervision of the preparation and justification of the program recommendations and budget proposals for special operations forces.
+&emsp;"(2) Providing advice and assistance to the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict in the Assistant Secretary's overall supervision of the preparation and justification of the program recommendations and budget proposals for special operations forces.
 
-&emsp;“(3) Managing assigned resources from the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense (as required to be created pursuant to subsection (e)).”
+&emsp;"(3) Managing assigned resources from the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense (as required to be created pursuant to subsection (e))."
 
 #### Major Force Program Category; Program and Budget Execution; Grade for Commanders of Certain Area Special Operations Commands
 
@@ -292,21 +278,23 @@ Pub. L. 100–180, div. A, title XII, §1211(e), Dec. 4, 1987, 101 Stat. 1156, d
 
 Pub. L. 99–661, div. A, title XIII, §1311(c)–(e), Nov. 14, 1986, 100 Stat. 3985, 3986, provided that:
 
-“(c)
+"(c)
 
 Major Force Program Category.—The Secretary of Defense shall create for the special operations forces a major force program category for the Five-Year Defense Plan of the Department of Defense. The Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, with the advice and assistance of the commander of the special operations command, shall provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category.
 
-“(d)
+"(d)
 
 Program and Budget Execution.—To the extent that there is authority to revise programs and budgets approved by Congress for special operations forces, such authority may be exercised only by the Secretary of Defense, after consulting with the commander of the special operations command.
 
-“(e)
+"(e)
 
-Grade for Commanders of Certain Area Special Operations Commands.—The commander of the special operations command of the United States European Command, the United States Pacific Command, and any other unified combatant command that the Secretary of Defense may designate for the purposes of this section shall be of general or flag officer grade.”
+Grade for Commanders of Certain Area Special Operations Commands.—The commander of the special operations command of the United States European Command, the United States Pacific Command, and any other unified combatant command that the Secretary of Defense may designate for the purposes of this section shall be of general or flag officer grade."
 
 \[Identical provisions were contained in section 101(c) \[§9115(c)–(e)\] of Pub. L. 99–500 and Pub. L. 99–591, which was repealed by Pub. L. 102–484, div. A, title IX, §936(c), Oct. 23, 1992, 106 Stat. 2479.\]
 
 #### Report on Capabilities of United States To Conduct Special Operations and Engage in Low Intensity Conflicts
 
 Pub. L. 99–500, §101(c) \[title IX, §9115(h)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, §101(c) \[title IX, §9115(h)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, §1311(h)(2), Nov. 14, 1986, 100 Stat. 3986, required President, not later than one year after the date of enactment, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

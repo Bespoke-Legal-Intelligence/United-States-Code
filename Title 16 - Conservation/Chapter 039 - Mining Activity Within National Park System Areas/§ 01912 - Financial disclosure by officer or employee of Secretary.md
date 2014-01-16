@@ -16,7 +16,7 @@ The Secretary shall—
 
 &emsp;(1) act within ninety days after September 28, 1976—
 
-&emsp;&emsp;(A) to define the term “known financial interest” for purposes of subsection (a) of this section; and
+&emsp;&emsp;(A) to define the term "known financial interest" for purposes of subsection (a) of this section; and
 
 &emsp;&emsp;(B) to establish the methods by which the requirement to file written statements specified in subsection (a) of this section will be monitored and enforced, including appropriate provisions for the filing by such officers and employees of such statements and the review by the Secretary of such statements; and
 
@@ -34,7 +34,7 @@ Any officer or employee who is subject to, and knowingly violates, this section 
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1), is Pub. L. 94–429, which enacted this chapter, amended sections123 and 450y–2 of this title, and repealed sections 350, 350a, 447, and 450z of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a)(1), is Pub. L. 94–429, which enacted this chapter, amended sections 123 and 450y–2 of this title, and repealed sections 350, 350a, 447, and 450z of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Termination of Reporting Requirements
 

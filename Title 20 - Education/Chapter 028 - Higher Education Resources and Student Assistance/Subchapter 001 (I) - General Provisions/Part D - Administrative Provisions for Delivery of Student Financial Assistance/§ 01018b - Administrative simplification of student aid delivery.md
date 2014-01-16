@@ -32,11 +32,11 @@ Any entity that maintains or transmits information under a transaction covered b
 
 #### (1) Clearinghouse
 
-&emsp;The term “clearinghouse” means a public or private entity that processes or facilitates the processing of nonstandard data elements into data elements conforming to standards adopted under this section.
+&emsp;The term "clearinghouse" means a public or private entity that processes or facilitates the processing of nonstandard data elements into data elements conforming to standards adopted under this section.
 
 #### (2) Standard setting organization
 
-&emsp;The term “standard setting organization” means an organization that—
+&emsp;The term "standard setting organization" means an organization that—
 
 &emsp;&emsp;(A) is accredited by the American National Standards Institute;
 
@@ -46,7 +46,7 @@ Any entity that maintains or transmits information under a transaction covered b
 
 #### (3) Voluntary consensus standard
 
-&emsp;The term “voluntary consensus standard” means a standard developed or used by a standard setting organization described in paragraph (2).
+&emsp;The term "voluntary consensus standard" means a standard developed or used by a standard setting organization described in paragraph (2).
 
 (Pub. L. 89–329, title I, §143, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1615.)
 
@@ -62,7 +62,5 @@ Section 1018d, Pub. L. 89–329, title I, §145, as added Pub. L. 100–418, tit
 
 Section 1018e, Pub. L. 89–329, title I, §146, as added Pub. L. 100–418, title VI, §6201, Aug. 23, 1988, 102 Stat. 1516; Pub. L. 101–305, §5, May 30, 1990, 104 Stat. 258; Pub. L. 101–610, title II, §221(c), Nov. 16, 1990, 104 Stat. 3180, related to authorization of appropriations.
 
-Section 1018f, Pub. L. 89–329, title I, §147, as added Pub. L. 100–418, title VI, §6201, Aug. 23, 1988, 102 Stat.1516, defined “public community agency”, “institution of higher education” and “Secretary”.
-
-A prior section 1019, Pub. L. 89–329, title I, §119, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1383, authorized appropriations for education outreach programs, prior to the general amendment of this subchapter by Pub. L. 99–498.
+Section 1018f, Pub. L. 89–329, title I, §147, as added Pub. L. 100–418, title VI, §6201, Aug. 23, 1988, 102 Stat.1516, defined "public community agency", "institution of higher education" and "Secretary".
 

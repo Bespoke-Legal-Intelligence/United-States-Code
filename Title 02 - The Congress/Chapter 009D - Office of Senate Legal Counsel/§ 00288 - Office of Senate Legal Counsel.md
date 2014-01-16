@@ -8,7 +8,7 @@
 
 (3)(A) Any appointment made under paragraph (2) shall become effective upon approval by resolution of the Senate. The Counsel and the Deputy Counsel shall each be appointed for a term of service which shall expire at the end of the Congress following the Congress during which the Counsel or Deputy Counsel, respectively, is appointed except that the Senate may, by resolution, remove either the Counsel or the Deputy Counsel prior to the termination of any term of service. The Counsel and the Deputy Counsel may be reappointed at the termination of any term of service.
 
-(B) The first Counsel and the first Deputy Counsel shall be appointed, approved, and begin service within ninety days after January 3, 1979, and thereafter the Counsel and Deputy Counsel shall be appointed, approved, and begin service within thirty days after the beginning of the session of the Congress immediately following the termination of a Counsel's or Deputy Counsel's term of service or within sixty days after a vacancy occurs in either position.
+(B) The first Counsel and the first Deputy Counsel shall be appointed, approved, and begin service within ninety days after January 3, 1979, and thereafter the Counsel and Deputy Counsel shall be appointed, approved, and begin service within thirty days after the beginning of thesession of the Congress immediately following the termination of a Counsel's or Deputy Counsel's term of service or within sixty days after a vacancy occurs in either position.
 
 (4) The Counsel shall receive compensation at a rate equal to the annual rate of basic pay for level III of the Executive Schedule under section 5314 of title 5. The Deputy Counsel shall receive compensation at a rate equal to the annual rate of basic pay for level IV of the Executive Schedule under section 5315 of title 5.
 
@@ -20,7 +20,7 @@
 
 #### (c) Consultants
 
-In carrying out the functions of the Office, the Counsel may procure the temporary (not to exceed one year) or intermittent services of individual consultants (including outside counsel), or organizations thereof, in the same manner and under the same conditions as a standing committee of the Senate may procure such services under section 72a(i) of this title.
+In carrying out the functions of the Office, the Counsel may procure the temporary (not to exceed one year) or intermittent services of individual consultants (including outside counsel), or organizations thereof, in the same manner and under the same conditions as a standing committee of the Senate may procure such services under section 4301(i) of this title.
 
 #### (d) Policies and procedures
 
@@ -38,19 +38,19 @@ The Counsel and other employees of the Office shall maintain the attorney-client
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1), (d), and (e), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, section 118a of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
+This chapter, referred to in subsecs. (b)(1), (d), and (e), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, section 5504 of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
 #### Effective Date
 
-Pub. L. 95–521, title VII, §717, Oct. 26, 1978, 92 Stat. 1885, provided that: “This title \[enacting this chapter, section 118a of this title, section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section\] shall take effect on January 3, 1979.”
+Pub. L. 95–521, title VII, §717, Oct. 26, 1978, 92 Stat. 1885, provided that: “This title \[enacting this chapter, section 5504 of this title, section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section\] shall take effect on January 3, 1979.”
 
 #### Separability
 
-Pub. L. 95–521, title VII, §715, Oct. 26, 1978, 92 Stat. 1884, provided that: “If any part of this title or any amendment made by this title \[enacting this chapter, section 118a of this title, section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section\] is held invalid, the remainder of the title and any amendment made by this title shall not be affected thereby. If any provision of any part of this title or of any amendment made by this title, or the application thereof to any person or circumstance is held invalid, the provisions of other parts and of any amendment made by this title and their application to other persons or circumstances shall not be affected thereby.”
+Pub. L. 95–521, title VII, §715, Oct. 26, 1978, 92 Stat. 1884, provided that: “If any part of this title or any amendment made by this title \[enacting this chapter, section 5504 of this title, section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section\] is held invalid, the remainder of the title and any amendment made by this title shall not be affected thereby. If any provision of any part of this title or of any amendment made by this title, or the application thereof to any person or circumstance is held invalid, the provisions of other parts and of any amendment made by this title and their application to other persons or circumstances shall not be affected thereby.”
 
 #### Increases in Compensation
 
-Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under section 60a–1 of this title.
+Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under section 4571 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

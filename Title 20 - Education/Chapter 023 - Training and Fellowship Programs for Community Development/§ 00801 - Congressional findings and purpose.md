@@ -18,9 +18,9 @@ Pub. L. 93–383, §402, provided for amendments to title VIII of the Housing an
 
 <b>1974</b>—Subsec. (b). Pub. L. 93–383 expanded purposes of chapter to include graduate training in regional planning and for training of personnel with a general capacity in urban affairs and problems and authorizing grants and contracts with institutions of higher education for training of graduate or professional students.
 
-<b>1969</b>—Subsec. (a). Pub. L. 91–152 inserted a comma before “and (2)”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–152 inserted a comma before "and (2)".
 
 Subsec. (b). Pub. L. 91–152 inserted provision that it is the purpose of this chapter to grant fellowships for the graduate training of professional city planning and urban and housing technicians and specialists.
 
-<b>1968</b>—Subsec. (b). Pub. L. 90–448 provided for cooperation with business firms and associations, labor unions, and other interested associations or organizations, included employment by a private nonprofit organization which is conducting or has responsibility for housing and community development programs, and substituted “technical, professional, and other persons with the capacity to master and employ such skills” for “technical and professional people.”
+<b>1968</b>—Subsec. (b). Pub. L. 90–448 provided for cooperation with business firms and associations, labor unions, and other interested associations or organizations, included employment by a private nonprofit organization which is conducting or has responsibility for housing and community development programs, and substituted "technical, professional, and other persons with the capacity to master and employ such skills" for "technical and professional people."
 

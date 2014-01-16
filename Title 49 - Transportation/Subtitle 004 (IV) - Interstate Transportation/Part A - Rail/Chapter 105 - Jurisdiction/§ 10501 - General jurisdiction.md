@@ -30,13 +30,13 @@
 
 (c)(1) In this subsection—
 
-&emsp;(A) the term “local governmental authority”—
+&emsp;(A) the term "local governmental authority"—
 
 &emsp;&emsp;(i) has the same meaning given that term by section 5302(a) <sup>1</sup> of this title; and
 
 &emsp;&emsp;(ii) includes a person or entity that contracts with the local governmental authority to provide transportation services; and
 
-&emsp;(B) the term “mass transportation” means transportation services described in section 5302(a) <sup>1</sup> of this title that are provided by rail.
+&emsp;(B) the term "mass transportation" means transportation services described in section 5302(a) <sup>1</sup> of this title that are provided by rail.
 
 (2) Except as provided in paragraph (3), the Board does not have jurisdiction under this part over—
 
@@ -58,7 +58,7 @@
 
 #### References in Text
 
-Section 5302 of this title, referred to in subsec. (c)(1)(A)(i), (B), was amended generally by Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer contains a subsec. (a) or a definition of “mass transportation”. However, the term “local governmental authority” is defined elsewhere in that section.
+Section 5302 of this title, referred to in subsec. (c)(1)(A)(i), (B), was amended generally by Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer contains a subsec. (a) or a definition of "mass transportation". However, the term "local governmental authority" is defined elsewhere in that section.
 
 The ICC Termination Act of 1995, referred to in subsec. (c)(3)(B), is Pub. L. 104–88, Dec. 29, 1995, 109 Stat. 803. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 101 of this title and Tables.
 
@@ -78,9 +78,9 @@ A prior section 10501, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1359; Pub. L. 9
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(2). Pub. L. 110–432 amended par. (2) generally. Prior to amendment, text read as follows: “Except as provided in paragraph (3), the Board does not have jurisdiction under this part over mass transportation provided by a local governmental authority.”
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–432 amended par. (2) generally. Prior to amendment, text read as follows: "Except as provided in paragraph (3), the Board does not have jurisdiction under this part over mass transportation provided by a local governmental authority."
 
-<b>1996</b>—Subsec. (c)(3)(B). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
+<b>1996</b>—Subsec. (c)(3)(B). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of the ICC Termination Act of 1995".
 
 #### Effective Date
 

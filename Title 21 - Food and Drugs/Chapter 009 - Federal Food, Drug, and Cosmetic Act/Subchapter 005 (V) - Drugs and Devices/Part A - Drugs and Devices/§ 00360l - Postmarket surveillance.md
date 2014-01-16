@@ -44,25 +44,25 @@ A manufacturer may request review under section 360bbb–1 of this title of any 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–144, §616(1), inserted “, at the time of approval or clearance of a device or at any time thereafter,” after “by order” in introductory provisions.
+<b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–144, §616(1), inserted ", at the time of approval or clearance of a device or at any time thereafter," after "by order" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 112–144, §616(2), inserted “The manufacturer shall commence surveillance under this section not later than 15 months after the day on which the Secretary issues an order under this section.” after “the public health.”
+Subsec. (b)(1). Pub. L. 112–144, §616(2), inserted "The manufacturer shall commence surveillance under this section not later than 15 months after the day on which the Secretary issues an order under this section." after "the public health."
 
 <b>2007</b>—Pub. L. 110–85, §307(1), made technical amendment to section catchline.
 
-Subsec. (a). Pub. L. 110–85, §307(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary may by order require a manufacturer to conduct postmarket surveillance for any device of the manufacturer which is a class II or class III device the failure of which would be reasonably likely to have serious adverse health consequences or which is intended to be—
+Subsec. (a). Pub. L. 110–85, §307(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary may by order require a manufacturer to conduct postmarket surveillance for any device of the manufacturer which is a class II or class III device the failure of which would be reasonably likely to have serious adverse health consequences or which is intended to be—
 
-&emsp;“(1) implanted in the human body for more than one year, or
+&emsp;"(1) implanted in the human body for more than one year, or
 
-&emsp;“(2) a life sustaining or life supporting device used outside a device user facility.”
+&emsp;"(2) a life sustaining or life supporting device used outside a device user facility."
 
-Subsec. (b). Pub. L. 110–85, §307(3), designated existing provisions as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), the Secretary, in consultation” for “The Secretary, in consultation” and “Except as provided in paragraph (2), any determination” for “Any determination”, and added par. (2).
+Subsec. (b). Pub. L. 110–85, §307(3), designated existing provisions as par. (1), inserted par. heading, substituted "Except as provided in paragraph (2), the Secretary, in consultation" for "The Secretary, in consultation" and "Except as provided in paragraph (2), any determination" for "Any determination", and added par. (2).
 
 Subsec. (c). Pub. L. 110–85, §307(3)(D), added subsec. (c).
 
 <b>1997</b>—Pub. L. 105–115 amended section generally, substituting present provisions for former provisions which related to required surveillance, discretionary surveillance, and surveillance approval.
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–300 substituted “(a)(1)” for “(a)”, inserted comma after “commerce”, and inserted after first sentence “Each manufacturer required to conduct a surveillance of a device under subsection (a)(2) of this section shall, within 30 days after receiving notice that the manufacturer is required to conduct such surveillance, submit, for the approval of the Secretary, a protocol for the required surveillance.”
+<b>1992</b>—Subsec. (b). Pub. L. 102–300 substituted "(a)(1)" for "(a)", inserted comma after "commerce", and inserted after first sentence "Each manufacturer required to conduct a surveillance of a device under subsection (a)(2) of this section shall, within 30 days after receiving notice that the manufacturer is required to conduct such surveillance, submit, for the approval of the Secretary, a protocol for the required surveillance."
 
 #### Effective Date of 1997 Amendment
 
@@ -72,21 +72,21 @@ Pub. L. 105–115, title II, §212, Nov. 21, 1997, 111 Stat. 2346, provided in p
 
 Pub. L. 107–250, title II, §212, Oct. 26, 2002, 116 Stat. 1614, as amended by Pub. L. 108–214, §2(d)(3)(C), Apr. 1, 2004, 118 Stat. 577, provided that:
 
-“(a)
+"(a)
 
-In General.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall request the Institute of Medicine to enter into an agreement with the Secretary under which such Institute conducts a study for the purpose of determining whether the system under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] for the postmarket surveillance of medical devices provides adequate safeguards regarding the use of devices in pediatric populations.
+In General.—The Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall request the Institute of Medicine to enter into an agreement with the Secretary under which such Institute conducts a study for the purpose of determining whether the system under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] for the postmarket surveillance of medical devices provides adequate safeguards regarding the use of devices in pediatric populations.
 
-“(b)
+"(b)
 
 Certain Matters.—The Secretary shall ensure that determinations made in the study under subsection (a) include determinations of—
 
-&emsp;“(1) whether postmarket surveillance studies of implanted medical devices are of long enough duration to evaluate the impact of growth and development for the number of years that the child will have the implant, and whether the studies are adequate to evaluate how children's active lifestyles may affect the failure rate and longevity of the implant; and
+&emsp;"(1) whether postmarket surveillance studies of implanted medical devices are of long enough duration to evaluate the impact of growth and development for the number of years that the child will have the implant, and whether the studies are adequate to evaluate how children's active lifestyles may affect the failure rate and longevity of the implant; and
 
-&emsp;“(2) whether the postmarket surveillance by the Food and Drug Administration of medical devices used in pediatric populations is sufficient to provide adequate safeguards for such populations, taking into account the Secretary's monitoring of commitments made at the time of approval of medical devices and the Secretary's monitoring and use of adverse reaction reports, registries, and other postmarket surveillance activities.
+&emsp;"(2) whether the postmarket surveillance by the Food and Drug Administration of medical devices used in pediatric populations is sufficient to provide adequate safeguards for such populations, taking into account the Secretary's monitoring of commitments made at the time of approval of medical devices and the Secretary's monitoring and use of adverse reaction reports, registries, and other postmarket surveillance activities.
 
-“(c)
+"(c)
 
-Report to Congress.—The Secretary shall ensure that, not later than four years after the date of the enactment of this Act \[Oct. 26, 2002\], a report describing the findings of the study under subsection (a) is submitted to the Congress. The report shall include any recommendations of the Secretary for administrative or legislative changes to the system of postmarket surveillance referred to in such subsection.”
+Report to Congress.—The Secretary shall ensure that, not later than four years after the date of the enactment of this Act \[Oct. 26, 2002\], a report describing the findings of the study under subsection (a) is submitted to the Congress. The report shall include any recommendations of the Secretary for administrative or legislative changes to the system of postmarket surveillance referred to in such subsection."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 

@@ -10,9 +10,9 @@ In furtherance of the policy expressed herein the Secretary is authorized and di
 
 #### Amendments
 
-<b>1978</b>—Par. (a). Pub. L. 95–445, §5(d), inserted “and” after the semicolon at end.
+<b>1978</b>—Par. (a). Pub. L. 95–445, §5(d), inserted "and" after the semicolon at end.
 
-Par. (b). Pub. L. 95–445, §5(c), (e), struck out “for purposes of section 1903 of this title” before “180 days”, and substituted a period for the semicolon at end.
+Par. (b). Pub. L. 95–445, §5(c), (e), struck out "for purposes of section 1903 of this title" before "180 days", and substituted a period for the semicolon at end.
 
 Par. (c). Pub. L. 95–445, §5(b), repealed par. (c).
 

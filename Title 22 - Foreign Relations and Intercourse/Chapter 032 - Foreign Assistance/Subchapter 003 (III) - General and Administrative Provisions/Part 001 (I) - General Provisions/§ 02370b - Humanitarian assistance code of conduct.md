@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-None of the funds made available for foreign operations, export financing, and related programs under the headings “Migration and Refugee Assistance”, “United States Emergency Refugee and Migration Assistance Fund”, “International Disaster and Famine Assistance”, or “Transition Initiatives” may be obligated to an organization that fails to adopt a code of conduct that provides for the protection of beneficiaries of assistance under any such heading from sexual exploitation and abuse in humanitarian relief operations.
+None of the funds made available for foreign operations, export financing, and related programs under the headings "Migration and Refugee Assistance", "United States Emergency Refugee and Migration Assistance Fund", "International Disaster and Famine Assistance", or "Transition Initiatives" may be obligated to an organization that fails to adopt a code of conduct that provides for the protection of beneficiaries of assistance under any such heading from sexual exploitation and abuse in humanitarian relief operations.
 
 #### (b) Consistency with United Nations principles
 
@@ -10,7 +10,7 @@ The code of conduct referred to in subsection (a) of this section shall, to the 
 
 #### (c) Reports
 
-Not later than 180 days after May 11, 2005, and not later than one year after May 11, 2005, the President shall transmit to the appropriate congressional committees a report on the implementation of this section.
+Not later than 180 days after May 11, 2005, and not later than one year after May 11, 2005, thePresident shall transmit to the appropriate congressional committees a report on the implementation of this section.
 
 #### (d) Effective Date
 

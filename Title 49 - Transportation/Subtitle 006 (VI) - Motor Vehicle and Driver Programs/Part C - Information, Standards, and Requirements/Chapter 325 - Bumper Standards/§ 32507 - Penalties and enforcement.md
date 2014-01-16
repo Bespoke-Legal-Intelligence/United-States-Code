@@ -2,7 +2,7 @@
 
 (a)
 
-Civil Penalty.—(1) A person that violates section 32506(a) of this title is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each passenger motor vehicle or item of passenger motor vehicle equipment involved in a violation of section 32506(a)(1) or (4) of this title—
+Civil Penalty.—(1) A person that violates section 32506(a) of this title is liable to theUnited States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each passenger motor vehicle or item of passenger motor vehicle equipment involved in a violation of section 32506(a)(1) or (4) of this title—
 
 &emsp;(A) that does not comply with a standard prescribed under section 32502 of this title; or
 
@@ -72,13 +72,13 @@ Oct. 20, 1972, Pub. L. 92–513, § 107, 86 Stat. 953.
 
 15:1917(c)(3), (4).
 
-In subsection (a)(3), the words “by any of the Secretary's attorneys designated by the Secretary for such purpose” are omitted as surplus.
+In subsection (a)(3), the words "by any of the Secretary's attorneys designated by the Secretary for such purpose" are omitted as surplus.
 
-In subsection (b), the words “fined under title 18” are substituted for “fined not more than $50,000” for consistency with title 18. The words “If the person is a corporation, the penalties of this subsection also apply” are substituted for “If a corporation violates section 1916(a)(1) of this title after having received notice of noncompliance from the Secretary . . . shall be subject to penalties under this section in addition to the corporation”, the word “act” is substituted for “acts or practices”, and the words “any part of the violation” are substituted for “in whole or in part such violation”, to eliminate unnecessary words.
+In subsection (b), the words "fined under title 18" are substituted for "fined not more than $50,000" for consistency with title 18. The words "If the person is a corporation, the penalties of this subsection also apply" are substituted for "If a corporation violates section 1916(a)(1) of this title after having received notice of noncompliance from the Secretary . . . shall be subject to penalties under this section in addition to the corporation", the word "act" is substituted for "acts or practices", and the words "any part of the violation" are substituted for "in whole or in part such violation", to eliminate unnecessary words.
 
-In subsection (c)(1), the words “may bring a civil action” are substituted for “Upon petition . . . on behalf of the United States . . . have jurisdiction” for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.) and to eliminate unnecessary words. The words “for cause shown and subject to the provisions of rule 65(a) and (b) of the Federal Rules of Civil Procedure” are omitted as surplus because the rules apply in the absence of an exemption from them. The word “enjoin” is substituted for “restrain” for consistency.
+In subsection (c)(1), the words "may bring a civil action" are substituted for "Upon petition . . . on behalf of the United States . . . have jurisdiction" for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.) and to eliminate unnecessary words. The words "for cause shown and subject to the provisions of rule 65(a) and (b) of the Federal Rules of Civil Procedure" are omitted as surplus because the rules apply in the absence of an exemption from them. The word "enjoin" is substituted for "restrain" for consistency.
 
-In subsection (d), the words “the defendant may demand a jury trial” are substituted for “trial shall be by the court, or, upon demand of the accused, by a jury” to eliminate unnecessary words and for consistency in the revised title.
+In subsection (d), the words "the defendant may demand a jury trial" are substituted for "trial shall be by the court, or, upon demand of the accused, by a jury" to eliminate unnecessary words and for consistency in the revised title.
 
-In subsection (e), the words “any act or transaction constituting” are omitted as surplus. The word “resides” is substituted for “is an inhabitant” for consistency and to eliminate unnecessary words.
+In subsection (e), the words "any act or transaction constituting" are omitted as surplus. The word "resides" is substituted for "is an inhabitant" for consistency and to eliminate unnecessary words.
 

@@ -34,15 +34,15 @@ Reimbursements paid to the Department of State for funding the costs of medical 
 
 <b>2005</b>—Subsec. (g). Pub. L. 109–140 added subsec. (g).
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–228 substituted “families, (3) health education and disease prevention programs for all employees, and (4)” for “families, and (3)”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–228 substituted "families, (3) health education and disease prevention programs for all employees, and (4)" for "families, and (3)".
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–238 inserted “or Foreign Service Pension System” after “System”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–238 inserted "or Foreign Service Pension System" after "System".
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–93, §122(1), substituted “shall” for “may”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–93, §122(1), substituted "shall" for "may".
 
-Subsec. (b). Pub. L. 99–93, §122(2), inserted “, and other preventive and remedial care and services as necessary,”.
+Subsec. (b). Pub. L. 99–93, §122(2), inserted ", and other preventive and remedial care and services as necessary,".
 
-Subsec. (d). Pub. L. 99–93, §122(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an individual eligible for health care under this section incurs an illness, injury, or medical condition while abroad which requires hospitalization or similar treatment, the Secretary may pay all or part of the cost of such treatment. Limitations on such payments established by regulation may be waived whenever the Secretary determines that the illness, injury, or medical condition clearly was caused or materially aggravated by the fact that the individual concerned is or has been located abroad.”
+Subsec. (d). Pub. L. 99–93, §122(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "If an individual eligible for health care under this section incurs an illness, injury, or medical condition while abroad which requires hospitalization or similar treatment, the Secretary may pay all or part of the cost of such treatment. Limitations on such payments established by regulation may be waived whenever the Secretary determines that the illness, injury, or medical condition clearly was caused or materially aggravated by the fact that the individual concerned is or has been located abroad."
 
 #### Effective Date of 1988 Amendment
 

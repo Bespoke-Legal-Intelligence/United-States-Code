@@ -28,29 +28,29 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 
 Pub. L. 110–432, div. A, title IV, §402(b)–(d), Oct. 16, 2008, 122 Stat. 4884, provided that:
 
-“(b)
+"(b)
 
 Report.—Not later than 6 months after promulgating regulations under section 20162 of title 49, United States Code, the Secretary shall issue a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure about whether the certification of certain crafts or classes of railroad carrier or railroad carrier contractor or subcontractor employees is necessary to reduce the number and rate of accidents and incidents or to improve railroad safety.
 
-“(c)
+"(c)
 
 Crafts and Classes to Be Considered.—As part of the report, the Secretary shall consider—
 
-&emsp;“(1) car repair and maintenance employees;
+&emsp;"(1) car repair and maintenance employees;
 
-&emsp;“(2) onboard service workers;
+&emsp;"(2) onboard service workers;
 
-&emsp;“(3) rail welders;
+&emsp;"(3) rail welders;
 
-&emsp;“(4) dispatchers;
+&emsp;"(4) dispatchers;
 
-&emsp;“(5) signal repair and maintenance employees; and
+&emsp;"(5) signal repair and maintenance employees; and
 
-&emsp;“(6) any other craft or class of employees that the Secretary determines appropriate.
+&emsp;"(6) any other craft or class of employees that the Secretary determines appropriate.
 
-“(d)
+"(d)
 
-Regulations.—The Secretary may prescribe regulations requiring the certification of certain crafts or classes of employees that the Secretary determines pursuant to the report required by paragraph (1) are necessary to reduce the number and rate of accidents and incidents or to improve railroad safety.”
+Regulations.—The Secretary may prescribe regulations requiring the certification of certain crafts or classes of employees that the Secretary determines pursuant to the report required by paragraph (1) are necessary to reduce the number and rate of accidents and incidents or to improve railroad safety."
 
-\[For definitions of “Secretary”, “railroad carrier”, and “railroad”, as used in section 402(b)–(d) of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+\[For definitions of "Secretary", "railroad carrier", and "railroad", as used in section 402(b)–(d) of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 

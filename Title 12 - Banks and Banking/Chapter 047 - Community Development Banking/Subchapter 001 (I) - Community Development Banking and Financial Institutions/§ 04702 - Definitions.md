@@ -4,25 +4,25 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Fund appointed under section 4703(b) of this title.
+&emsp;The term "Administrator" means the Administrator of the Fund appointed under section 4703(b) of this title.
 
 #### (2) Appropriate Federal banking agency
 
-&emsp;The term “appropriate Federal banking agency” has the same meaning as in section 1813 of this title, and also includes the National Credit Union Administration Board with respect to insured credit unions.
+&emsp;The term "appropriate Federal banking agency" has the same meaning as in section 1813 of this title, and also includes the National Credit Union Administration Board with respect to insured credit unions.
 
 #### (3) Affiliate
 
-&emsp;The term “affiliate” has the same meaning as in section 1841(k) of this title.
+&emsp;The term "affiliate" has the same meaning as in section 1841(k) of this title.
 
 #### (4) Board
 
-&emsp;The term “Board” means the Community Development Advisory Board established under section 4703(d) of this title.
+&emsp;The term "Board" means the Community Development Advisory Board established under section 4703(d) of this title.
 
 #### (5) Community development financial institution
 
 #### (A) In general
 
-&emsp;&emsp;The term “community development financial institution” means a person (other than an individual) that—
+&emsp;&emsp;The term "community development financial institution" means a person (other than an individual) that—
 
 &emsp;&emsp;&emsp;(i) has a primary mission of promoting community development;
 
@@ -50,19 +50,19 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (6) Community partner
 
-&emsp;The term “community partner” means a person (other than an individual) that provides loans, equity investments, or development services, including a depository institution holding company, an insured depository institution, an insured credit union, a nonprofit organization, a State or local government agency, a quasi-governmental entity, and an investment company authorized to operate pursuant to the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\].
+&emsp;The term "community partner" means a person (other than an individual) that provides loans, equity investments, or development services, including a depository institution holding company, an insured depository institution, an insured credit union, a nonprofit organization, a State or local government agency, a quasi-governmental entity, and an investment company authorized to operate pursuant to the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\].
 
 #### (7) Community partnership
 
-&emsp;The term “community partnership” means an agreement between a community development financial institution and a community partner to provide development services, loans, or equity investments, to an investment area or targeted population.
+&emsp;The term "community partnership" means an agreement between a community development financial institution and a community partner to provide development services, loans, or equity investments, to an investment area or targeted population.
 
 #### (8) Depository institution holding company
 
-&emsp;The term “depository institution holding company” has the same meaning as in section 1813 of this title.
+&emsp;The term "depository institution holding company" has the same meaning as in section 1813 of this title.
 
 #### (9) Development services
 
-&emsp;The term “development services” means activities that promote community development and are integral to lending or investment activities, including—
+&emsp;The term "development services" means activities that promote community development and are integral to lending or investment activities, including—
 
 &emsp;&emsp;(A) business planning;
 
@@ -72,31 +72,31 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (10) Fund
 
-&emsp;The term “Fund” means the Community Development Financial Institutions Fund established under section 4703(a) of this title.
+&emsp;The term "Fund" means the Community Development Financial Institutions Fund established under section 4703(a) of this title.
 
 #### (11) Indian reservation
 
-&emsp;The term “Indian reservation” has the same meaning as in section 1903(10) of title 25, and shall include land held by incorporated Native groups, regional corporations, and village corporations, as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], public domain Indian allotments, and former Indian reservations in the State of Oklahoma.
+&emsp;The term "Indian reservation" has the same meaning as in section 1903(10) of title 25, and shall include land held by incorporated Native groups, regional corporations, and village corporations, as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], public domain Indian allotments, and former Indian reservations in the State of Oklahoma.
 
 #### (12) Indian tribe
 
-&emsp;The term “Indian tribe” means any Indian tribe, band, pueblo, nation, or other organized group or community, including any Alaska Native village or regional or village corporation, as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term "Indian tribe" means any Indian tribe, band, pueblo, nation, or other organized group or community, including any Alaska Native village or regional or village corporation, as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (13) Insured community development financial institution
 
-&emsp;The term “insured community development financial institution” means any community development financial institution that is aninsured depository institution or an insured credit union.
+&emsp;The term "insured community development financial institution" means any community development financial institution that is aninsured depository institution or an insured credit union.
 
 #### (14) Insured credit union
 
-&emsp;The term “insured credit union” has the same meaning as in section 1752(7) of this title.
+&emsp;The term "insured credit union" has the same meaning as in section 1752(7) of this title.
 
 #### (15) Insured depository institution
 
-&emsp;The term “insured depository institution” has the same meaning as in section 1813 of this title.
+&emsp;The term "insured depository institution" has the same meaning as in section 1813 of this title.
 
 #### (16) Investment area
 
-&emsp;The term “investment area” means a geographic area (or areas) including an Indian reservation that—
+&emsp;The term "investment area" means a geographic area (or areas) including an Indian reservation that—
 
 &emsp;&emsp;(A)(i) meets objective criteria of economic distress developed by the Fund, which may include the percentage of low-income families or the extent of poverty, the rate of unemployment or underemployment, rural population outmigration, lag in population growth, and extent of blight and disinvestment; and
 
@@ -106,7 +106,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (17) Low-income
 
-&emsp;The term “low-income” means having an income, adjusted for family size, of not more than—
+&emsp;The term "low-income" means having an income, adjusted for family size, of not more than—
 
 &emsp;&emsp;(A) for metropolitan areas, 80 percent of the area median income; and
 
@@ -118,15 +118,15 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (18) State
 
-&emsp;The term “State” has the same meaning as in section 1813 of this title.
+&emsp;The term "State" has the same meaning as in section 1813 of this title.
 
 #### (19) Subsidiary
 
-&emsp;The term “subsidiary” has the same meaning as in section 1813 of this title, except that a community development financial institution that is a corporation shall not be considered to be a subsidiary of any insured depository institution or depository institution holding company that controls less than 25 percent of any class of the voting shares of such corporation, and does not otherwise control in any manner the election of a majority of the directors of the corporation.
+&emsp;The term "subsidiary" has the same meaning as in section 1813 of this title, except that a community development financial institution that is a corporation shall not be considered to be a subsidiary of any insured depository institution or depository institution holding company that controls less than 25 percent of any class of the voting shares of such corporation, and does not otherwise control in any manner the election of a majority of the directors of the corporation.
 
 #### (20) Targeted population
 
-&emsp;The term “targeted population” means individuals, or an identifiable group of individuals, including an Indian tribe, who—
+&emsp;The term "targeted population" means individuals, or an identifiable group of individuals, including an Indian tribe, who—
 
 &emsp;&emsp;(A) are low-income persons; or
 
@@ -134,7 +134,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (21) Training program
 
-&emsp;The term “training program” means the training program operated by the Fund under section 4708 of this title.
+&emsp;The term "training program" means the training program operated by the Fund under section 4708 of this title.
 
 (Pub. L. 103–325, title I, §103, Sept. 23, 1994, 108 Stat. 2163.)
 

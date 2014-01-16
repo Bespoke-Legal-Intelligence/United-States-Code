@@ -10,7 +10,7 @@ A prior section 628 of Pub. L. 89–329 was renumbered section 629, and is class
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–315, §619, substituted “report described in section 1131d” for “annual report described in section 1131d”.
+<b>2008</b>—Pub. L. 110–315, §619, substituted "report described in section 1131d" for "annual report described in section 1131d".
 
 <b>1998</b>—Pub. L. 105–244, §603(f), made technical amendment to reference in original act which appears in text as reference to section 1131d of this title.
 

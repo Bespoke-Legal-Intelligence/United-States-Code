@@ -4,7 +4,7 @@ The President may agree to amendments to the Cooperation Agreement that—
 
 &emsp;(1) enable the Bank to make grants and nonmarket rate loans out of its paid-in capital resources with the approval of its Board; and
 
-&emsp;(2) amend the definition of “border region” to include the area in the United States that is within 100 kilometers of the international boundary between the United States and Mexico, and the area in Mexico that is within 300 kilometers of the international boundary between the United States and Mexico.
+&emsp;(2) amend the definition of "border region" to include the area in the United States that is within 100 kilometers of the international boundary between the United States and Mexico, and the area in Mexico that is within 300 kilometers of the international boundary between the United States and Mexico.
 
 (Pub. L. 103–182, title V, §545, as added Pub. L. 108–215, §1(a), Apr. 5, 2004, 118 Stat. 579.)
 

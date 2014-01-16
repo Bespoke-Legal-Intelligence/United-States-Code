@@ -2,7 +2,7 @@
 
 (a)
 
-Policy.—It is the policy of the United States for the President to undertake actions appropriate to ensure, to the maximum extent practicable, that the United States has the capabilities necessary to launch and insert United States national security payloads into space whenever such payloads are needed in space.
+Policy.—It is the policy of the United States for the President to undertake actionsappropriate to ensure, to the maximum extent practicable, that the United States has the capabilities necessary to launch and insert United States national security payloads into space whenever such payloads are needed in space.
 
 (b)
 
@@ -20,13 +20,13 @@ Coordination.—The Secretary of Defense shall, to the maximum extent practicabl
 
 #### Prior Provisions
 
-A prior section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982, Pub. L. 97–164, title I, §160(a)(4), 96 Stat. 48; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516, related to right of United States to designs, rights of designers to patents, and rights to sue United States, prior to repeal by Pub. L.103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+A prior section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982, Pub. L. 97–164, title I, §160(a)(4), 96 Stat. 48; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516, related to right of United States to designs, rights of designers to patents, and rights to sue United States, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 #### Amendments
 
 <b>2009</b>—Subsec. (b)(1). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(11). See 2008 Amendment note below.
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(11), amended par. (1) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, §932(a)(11), was repealed by Pub. L. 111–84.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(11), amended par. (1) identically, substituting "Director of National Intelligence" for "Director of Central Intelligence". Pub. L. 110–417, §932(a)(11), was repealed by Pub. L. 111–84.
 
 #### Effective Date of 2009 Amendment
 

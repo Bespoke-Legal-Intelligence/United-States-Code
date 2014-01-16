@@ -4,7 +4,7 @@
 
 #### (1) Authorities of Secretary
 
-&emsp;The Secretary of Health and Human Services (hereinafter in this subsection referred to as the Secretary), in consultation with the Administrator, shall establish and support a basic research and training program (through grants, cooperative agreements, and contracts) consisting of the following:
+&emsp;The Secretary of Health and Human Services (hereinafter in this subsection referred to as the Secretary), in consultation with the Administrator, shall establish and support a basic research and training program (throughgrants, cooperative agreements, and contracts) consisting of the following:
 
 &emsp;&emsp;(A) Basic research (including epidemiologic and ecologic studies) which may include each of the following:
 
@@ -40,11 +40,11 @@
 
 #### (4) Procedures
 
-&emsp;In making grants and entering into cooperative agreements and contracts under this subsection, the Secretary shall act through the Director of the National Institute for Environmental Health Sciences. In considering the allocation of funds for training purposes, the Director shall ensure that at least one grant, cooperative agreement, or contract shall beawarded for training described in each of clauses (i), (ii), and (iii) of paragraph (1)(B). Where applicable, the Director may choose to operate training activities in cooperation with the Director of the National Institute for Occupational Safety and Health. The procedures applicable to grants and contracts under title IV of the Public Health Service Act \[42 U.S.C. 281 et seq.\] shall be followed under this subsection.
+&emsp;In making grants and entering into cooperative agreements and contracts under this subsection, the Secretary shall act through the Director of the National Institute for Environmental Health Sciences. In considering the allocation of funds for training purposes, the Director shall ensure that at least one grant, cooperative agreement, or contract shall be awarded for training described in each of clauses (i), (ii), and (iii) of paragraph (1)(B). Where applicable, the Director may choose to operate training activities in cooperation with the Director of the National Institute for Occupational Safety and Health. The procedures applicable to grants and contracts under title IV of the Public Health Service Act \[42 U.S.C. 281 et seq.\] shall be followed under this subsection.
 
 #### (5) Advisory council
 
-&emsp;To assist in the implementation of this subsection and to aid in the coordination of research and demonstration and training activities funded from the Fund under this section, the Secretary shall appoint an advisory council (hereinafter in this subsection referred to as the “Advisory Council”) which shall consist of representatives of the following:
+&emsp;To assist in the implementation of this subsection and to aid in the coordination of research and demonstration and training activities funded from the Fund under this section, the Secretary shall appoint an advisory council (hereinafter in this subsection referred to as the "Advisory Council") which shall consist of representatives of the following:
 
 &emsp;&emsp;(A) The relevant Federal agencies.
 
@@ -66,7 +66,7 @@
 
 #### (1) Establishment
 
-&emsp;The Administrator is authorized and directed to carry out a program of research, evaluation, testing, development, and demonstration of alternative or innovative treatment technologies (hereinafter in this subsection referred to as the “program”) which may be utilized in response actions to achieve more permanent protection of human health and welfare and the environment.
+&emsp;The Administrator is authorized and directed to carry out a program of research, evaluation, testing, development, and demonstration of alternative or innovative treatment technologies (hereinafter in this subsection referred to as the "program") which may be utilized in response actions to achieve more permanent protection of human health and welfare and the environment.
 
 #### (2) Administration
 
@@ -168,7 +168,7 @@
 
 #### (10) Definition
 
-&emsp;For purposes of this subsection, the term “alternative or innovative treatment technologies” means those technologies, including proprietary or patented methods, which permanently alter the composition of hazardous waste through chemical, biological, or physical means so as to significantly reduce the toxicity, mobility, or volume (or any combination thereof) of the hazardous waste or contaminated materials being treated. The term also includes technologies that characterize or assess the extent of contamination, the chemical and physical character of the contaminants, and the stresses imposed by the contaminants on complex ecosystems at sites.
+&emsp;For purposes of this subsection, the term "alternative or innovative treatment technologies" means those technologies, including proprietary or patented methods, which permanently alter the composition of hazardous waste through chemical, biological, or physical means so as to significantly reduce the toxicity, mobility, or volume (or any combination thereof) of the hazardous waste or contaminated materials being treated. The term also includes technologies that characterize or assess the extent of contamination, the chemical and physical character of the contaminants, and the stresses imposed by the contaminants on complex ecosystems at sites.
 
 #### (c) Hazardous substance research
 
@@ -204,7 +204,7 @@ The Administrator may conduct and support, through grants, cooperative agreement
 
 &emsp;&emsp;(F) The grant recipient shall have an interdisciplinary staff with demonstrated expertise in hazardous substance management and research.
 
-&emsp;&emsp;(G) The grant recipient shall have a demonstrated ability to disseminate results ofhazardous substance research and educational programs through an interdisciplinary continuing education program.
+&emsp;&emsp;(G) The grant recipient shall have a demonstrated ability to disseminate results of hazardous substance research and educational programs through an interdisciplinary continuing education program.
 
 &emsp;&emsp;(H) The projects which the grant recipient proposes to carry out under the grant are necessary and appropriate.
 
@@ -248,7 +248,7 @@ The Administrator shall ensure, to the maximum extent practicable, an adequate o
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1)(B)(iii), (6), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsec. (a)(1)(B)(iii), (6), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 The Public Health Service Act, referred to in subsec. (a)(4), is act July 1, 1944, ch. 373, 58 Stat. 682. Title IV of the Public Health Service Act is classified generally to subchapter III (§281 et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
@@ -256,189 +256,189 @@ The Solid Waste Disposal Act, referred to in subsec. (f), is title II of Pub. L.
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 #### Methamphetamine Remediation Research
 
 Pub. L. 110–143, Dec. 21, 2007, 121 Stat. 1809, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘Methamphetamine Remediation Research Act of 2007’.
+"This Act may be cited as the 'Methamphetamine Remediation Research Act of 2007'.
 
-#### “SEC. 2. FINDINGS.
+#### "SEC. 2. FINDINGS.
 
-“The Congress finds the following:
+"The Congress finds the following:
 
-&emsp;“(1) Methamphetamine use and production is growing rapidly throughout the United States.
+&emsp;"(1) Methamphetamine use and production is growing rapidly throughout the United States.
 
-&emsp;“(2) Materials and residues remaining from the production of methamphetamine pose novel environmental problems in locations where methamphetamine laboratories have been closed.
+&emsp;"(2) Materials and residues remaining from the production of methamphetamine pose novel environmental problems in locations where methamphetamine laboratories have been closed.
 
-&emsp;“(3) There has been little standardization of measures for determining when the site of a closed methamphetamine laboratory has been successfully remediated.
+&emsp;"(3) There has been little standardization of measures for determining when the site of a closed methamphetamine laboratory has been successfully remediated.
 
-&emsp;“(4) Initial cleanup actions are generally limited to removal of hazardous substances and contaminated materials that pose an immediate threat to public health or the environment. It is not uncommon for significant levels of contamination to be found throughout residential structures after a methamphetamine laboratory has closed, partially because of a lack of knowledge of how to achieve an effective cleanup.
+&emsp;"(4) Initial cleanup actions are generally limited to removal of hazardous substances and contaminated materials that pose an immediate threat to public health or the environment. It is not uncommon for significant levels of contamination to be found throughout residential structures after a methamphetamine laboratory has closed, partially because of a lack of knowledge of how to achieve an effective cleanup.
 
-&emsp;“(5) Data on methamphetamine laboratory-related contaminants of concern are very limited, and cleanup standards do not currently exist. In addition, procedures for sampling and analysis of contaminants need to be researched and developed.
+&emsp;"(5) Data on methamphetamine laboratory-related contaminants of concern are very limited, and cleanup standards do not currently exist. In addition, procedures for sampling and analysis of contaminants need to be researched and developed.
 
-&emsp;“(6) Many States are struggling with establishing remediation guidelines and programs to address the rapidly expanding number of methamphetamine laboratories being closed each year.
+&emsp;"(6) Many States are struggling with establishing remediation guidelines and programs to address the rapidly expanding number of methamphetamine laboratories being closed each year.
 
-#### “SEC. 3. VOLUNTARY GUIDELINES.
+#### "SEC. 3. VOLUNTARY GUIDELINES.
 
-“(a)
+"(a)
 
-Establishment of Voluntary Guidelines.—Not later than one year after the date of enactment of this Act \[Dec. 21, 2007\], the Administrator of the Environmental Protection Agency (in this Act referred to as the ‘Administrator’), in consultation with the National Institute of Standards and Technology, shall establish voluntary guidelines, based on the best currently available scientific knowledge, for the remediation of former methamphetamine laboratories, including guidelines regarding preliminary site assessment and the remediation of residual contaminants.
+Establishment of Voluntary Guidelines.—Not later than one year after the date of enactment of this Act \[Dec. 21, 2007\], the Administrator of the Environmental Protection Agency (in this Act referred to as the 'Administrator'), in consultation with the National Institute of Standards and Technology, shall establish voluntary guidelines, based on the best currently available scientific knowledge, for the remediation of former methamphetamine laboratories, including guidelines regarding preliminary site assessment and the remediation of residual contaminants.
 
-“(b)
+"(b)
 
 Considerations.—In developing the voluntary guidelines under subsection (a), the Administrator shall consider, at a minimum—
 
-&emsp;“(1) relevant standards, guidelines, and requirements found in Federal, State, and local laws and regulations;
+&emsp;"(1) relevant standards, guidelines, and requirements found in Federal, State, and local laws and regulations;
 
-&emsp;“(2) the varying types and locations of former methamphetamine laboratories; and
+&emsp;"(2) the varying types and locations of former methamphetamine laboratories; and
 
-&emsp;“(3) the expected cost of carrying out any proposed guidelines.
+&emsp;"(3) the expected cost of carrying out any proposed guidelines.
 
-“(c)
+"(c)
 
 States.—The voluntary guidelines should be designed to assist State and local governments in the development and the implementation of legislation and other policies to apply state-of-the-art knowledge and research results to the remediation of former methamphetamine laboratories. The Administrator shall work with State and local governments and other relevant non-Federal agencies and organizations, including through the conference described in section 5, to promote and encourage the appropriate adoption of the voluntary guidelines.
 
-“(d)
+"(d)
 
 Updating the Guidelines.—The Administrator shall periodically update the voluntary guidelines as the Administrator, in consultation with States and other interested parties, determines to be necessary and appropriate to incorporate research findings and other new knowledge.
 
-#### “SEC. 4. RESEARCH PROGRAM.
+#### "SEC. 4. RESEARCH PROGRAM.
 
-“The Administrator shall establish a program of research to support the development and revision of the voluntary guidelines described in section 3. Such research shall—
+"The Administrator shall establish a program of research to support the development and revision of the voluntary guidelines described in section 3. Such research shall—
 
-&emsp;“(1) identify methamphetamine laboratory-related chemicals of concern;
+&emsp;"(1) identify methamphetamine laboratory-related chemicals of concern;
 
-&emsp;“(2) assess the types and levels of exposure to chemicals of concern identified under paragraph (1), including routine and accidental exposures, that may present a significant risk of adverse biological effects, and the research necessary to better address biological effects and to minimize adverse human exposures;
+&emsp;"(2) assess the types and levels of exposure to chemicals of concern identified under paragraph (1), including routine and accidental exposures, that may present a significant risk of adverse biological effects, and the research necessary to better address biological effects and to minimize adverse human exposures;
 
-&emsp;“(3) evaluate the performance of various methamphetamine laboratory cleanup and remediation techniques; and
+&emsp;"(3) evaluate the performance of various methamphetamine laboratory cleanup and remediation techniques; and
 
-&emsp;“(4) support other research priorities identified by the Administrator in consultation with States and other interested parties.
+&emsp;"(4) support other research priorities identified by the Administrator in consultation with States and other interested parties.
 
-#### “SEC. 5. TECHNOLOGY TRANSFER CONFERENCE.
+#### "SEC. 5. TECHNOLOGY TRANSFER CONFERENCE.
 
-“(a)
+"(a)
 
 Conference.—Not later than 90 days after the date of enactment of this Act \[Dec. 21, 2007\], and at least every third year thereafter, the Administrator shall convene a conference of appropriate State agencies, as well as individuals or organizations involved in research and other activities directly related to the environmental, or biological impacts of former methamphetamine laboratories. The conference should be a forum for the Administrator to provide information on the guidelines developed under section 3 and on the latest findings from the research program described in section 4, and for the non-Federal participants to provide information on the problems and needs of States and localities and their experience with guidelines developed under section 3.
 
-“(b)
+"(b)
 
-Report.—Not later than 3 months after each conference, the Administrator shall submit a report to the Congress that summarizes the proceedings of the conference, including a summary of any recommendations or concerns raised by the non-Federal participants and how the Administrator intends to respond to them. The report shall also be made widely available to the general public.
+Report.—Not later than 3 months after each conference, the Administrator shall submit a report to the Congress that summarizes the proceedings of theconference, including a summary of any recommendations or concerns raised by the non-Federal participants and how the Administrator intends to respond to them. The report shall also be made widely available to the general public.
 
-#### “SEC. 6. RESIDUAL EFFECTS STUDY.
+#### "SEC. 6. RESIDUAL EFFECTS STUDY.
 
-“(a)
+"(a)
 
 Study.—Not later than 6 months after the date of enactment of this Act \[Dec. 21, 2007\], the Administrator shall enter into an arrangement with the National Academy of Sciences for a study of the status and quality of research on the residual effects of methamphetamine laboratories. The study shall identify research gaps and recommend an agenda for the research program described in section 4. The study shall pay particular attention to the need for research on the impacts of methamphetamine laboratories on—
 
-&emsp;“(1) the residents of buildings where such laboratories are, or were, located, with particular emphasis given to biological impacts on children; and
+&emsp;"(1) the residents of buildings where such laboratories are, or were, located, with particular emphasis given to biological impacts on children; and
 
-&emsp;“(2) first responders.
+&emsp;"(2) first responders.
 
-“(b)
+"(b)
 
 Report.—Not later than 3 months after the completion of the study, the Administrator shall transmit to Congress a report on how the Administrator will use the results of the study to carry out the activities described in sections 3 and 4.
 
-#### “SEC. 7. METHAMPHETAMINE DETECTION RESEARCH AND DEVELOPMENT PROGRAM.
+#### "SEC. 7. METHAMPHETAMINE DETECTION RESEARCH AND DEVELOPMENT PROGRAM.
 
-“The Director of National Institute of Standards and Technology, in consultation with the Administrator, shall support a research program to develop—
+"The Director of National Institute of Standards and Technology, in consultation with the Administrator, shall support a research program to develop—
 
-&emsp;“(1) new methamphetamine detection technologies, with emphasis on field test kits and site detection; and
+&emsp;"(1) new methamphetamine detection technologies, with emphasis on field test kits and site detection; and
 
-&emsp;“(2) appropriate standard reference materials and validation procedures for methamphetamine detection testing.
+&emsp;"(2) appropriate standard reference materials and validation procedures for methamphetamine detection testing.
 
-#### “SEC. 8. SAVINGS CLAUSE.
+#### "SEC. 8. SAVINGS CLAUSE.
 
-“Nothing in this Act shall be construed to affect or limit the application of, or any obligation to comply with, any State or Federal environmental law or regulation, including the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) and the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
+"Nothing in this Act shall be construed to affect or limit the application of, or any obligation to comply with, any State or Federal environmental law or regulation, including the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) and the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
 
-#### “SEC. 9. AUTHORIZATION OF APPROPRIATIONS.
+#### "SEC. 9. AUTHORIZATION OF APPROPRIATIONS.
 
-“(a)
+"(a)
 
 Environmental Protection Agency.—There are authorized to be appropriated to the Environmental Protection Agency to carry out this Act $1,750,000 for each of the fiscal years 2007 and 2008.
 
-“(b)
+"(b)
 
-National Institute of Standards and Technology.—There are authorized to be appropriated to the National Institute of Standards and Technology to carry out this Act $750,000 for each of the fiscal years 2007 and 2008.”
+National Institute of Standards and Technology.—There are authorized to be appropriated to the National Institute of Standards and Technology to carry out this Act $750,000 for each of the fiscal years 2007 and 2008."
 
 #### Gulf Coast Hazardous Substance Research, Development, and Demonstration Center
 
 Pub. L. 99–499, title I, §118(l), Oct. 17, 1986, 100 Stat. 1660, provided that:
 
-“(1)
+"(1)
 
-Establishment of hazardous substance research, development, and demonstration center.—The Administrator shall establish a hazardous substance research, development, and demonstration center (hereinafter in this subsection referred to as the ‘Center’) for the purpose of conducting research to aid in more effective hazardous substance response and waste management throughout the Gulf Coast.
+Establishment of hazardous substance research, development, and demonstration center.—The Administrator shall establish a hazardous substance research, development, and demonstration center (hereinafter in this subsection referred to as the 'Center') for the purpose of conducting research to aid in more effective hazardous substance response and waste management throughout the Gulf Coast.
 
-“(2)
+"(2)
 
 Purposes of the center.—The Center shall carry out a program of research, evaluation, testing, development, and demonstration of alternative or innovative technologies which may be utilized in response actions or in normal handling of hazardous wastes to achieve better protection of human health and the environment.
 
-“(3)
+"(3)
 
-Operation of center.—(A) For purposes of operating the Center, the Administrator is authorized to enter into contracts and cooperative agreements with,and make grants to, a university related institute involved with the improvement of waste management. Such institute shall be located in Jefferson County, Texas.
+Operation of center.—(A) For purposes of operating the Center, the Administrator is authorized to enter into contracts and cooperative agreements with, and make grants to, a university related institute involved with the improvement of waste management. Such institute shall be located in Jefferson County, Texas.
 
-“(B) The Center shall be authorized to make grants, accept contributions, and enter into agreements with universities located in the States of Texas, Louisiana, Mississippi, Alabama, and Florida in order to carry out the purposes of the Center.
+"(B) The Center shall be authorized to make grants, accept contributions, and enter into agreements with universities located in the States of Texas, Louisiana, Mississippi, Alabama, and Florida in order to carry out the purposes of the Center.
 
-“(4)
+"(4)
 
-Authorization of appropriations.—There are authorized to be appropriated to the Administrator for purposes of carrying out this subsection for fiscal years beginning after September 30, 1986, not more than $5,000,000.”
+Authorization of appropriations.—There are authorized to be appropriated to the Administrator for purposes of carrying out this subsection for fiscal years beginning after September 30, 1986, not more than $5,000,000."
 
 #### Pacific Northwest Hazardous Substance Research, Development, and Demonstration Center
 
 Pub. L. 99–499, title I, §118(o), Oct. 17, 1986, 100 Stat. 1661, provided that:
 
-“(1)
+"(1)
 
-Establishment.—The Administrator shall establish a hazardous substance research, development, and demonstration center (hereinafter in this subsection referred to as the ‘Center’) for the purpose of conducting research to aid in more effective hazardous substance response in the Pacific Northwest.
+Establishment.—The Administrator shall establish a hazardous substance research, development, and demonstration center (hereinafter in this subsection referred to as the 'Center') for the purpose of conducting research to aid in more effective hazardous substance response in the Pacific Northwest.
 
-“(2)
+"(2)
 
 Purposes of center.—The Center shall carry out a program of research, evaluation, testing, development, and demonstration of alternative or innovative technologies which may be utilized in response actions to achieve more permanent protection of human health and welfare and the environment.
 
-“(3)
+"(3)
 
 Operation of center.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Nonprofit entity.—For the purposes of operating the Center, the Administrator is authorized to enter into contracts and cooperative agreements with, and make grants to, a nonprofit private entity as defined in section 201(i) of Public Law 96-517 \[probably means section 201(i) of Title 35, Patents, which was enacted by section 6(a) of Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3020\] which entity shall agree to provide the basic technical and management personnel. Such nonprofit private entity shall also agree to provide at least two permanent research facilities, one of which shall be located in Benton County, Washington, and one of which shall be located in Clallam County, Washington.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Authorities.—The Center shall be authorized to make grants, accept contributions, and enter into agreements with universities located in the States of Washington, Oregon, Idaho, and Montana in order to carry out the purposes of the Center.
 
-“(4)
+"(4)
 
 Hazardous waste research at the hanford site.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Interagency agreements.—The Administrator and the Secretary of Energy are authorized to enter into interagency agreements with one another for the purpose of providing for research, evaluation, testing, development, and demonstration into alternative or innovative technologies to characterize and assess the nature and extent of hazardous waste (including radioactive mixed waste) contamination at the Hanford site, in the State of Washington.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Funding.—There is authorized to be appropriated to the Secretary of Energy for purposes of carrying out this paragraph for fiscal years beginning after September 30, 1986, not more than $5,000,000. All sums appropriated under this subparagraph shall be provided to the Administrator by the Secretary of Energy, pursuant to the interagency agreement entered into under subparagraph (A), for the purpose of the Administrator entering into contracts and cooperative agreements with, and making grants to, the Center in order to carry out the research, evaluation, testing, development, and demonstration described in paragraph (1).
 
-“(5)
+"(5)
 
-Authorization of appropriations.—There is authorized to be appropriated to the Administrator for purposes of carrying out this subsection (other than paragraph (4)) for fiscal years beginning after September 30, 1986, not more than $5,000,000.”
+Authorization of appropriations.—There is authorized to be appropriated to the Administrator for purposes of carrying out this subsection (other than paragraph (4)) for fiscal years beginning after September 30, 1986, not more than $5,000,000."
 
 #### Congressional Statement of Purpose
 
-Pub. L. 99–499, title II, §209(a), Oct. 17, 1986, 100 Stat. 1708, provided that: “The purposes of this section \[enacting this section\] are as follows:
+Pub. L. 99–499, title II, §209(a), Oct. 17, 1986, 100 Stat. 1708, provided that: "The purposes of this section \[enacting this section\] are as follows:
 
-&emsp;“(1) To establish a comprehensive and coordinated Federal program of research, development, demonstration, and training for the purpose of promoting the development of alternative and innovative treatment technologies that can be used in response actions under the CERCLA program, to provide incentives for the development and use of such technologies, and to improve the scientific capability to assess, detect and evaluate the effects on and risks to human health from hazardous substances.
+&emsp;"(1) To establish a comprehensive and coordinated Federal program of research, development, demonstration, and training for the purpose of promoting the development of alternative and innovative treatment technologies that can be used in response actions under the CERCLA program, to provide incentives for the development and use of such technologies, and to improve the scientific capability to assess, detect and evaluate the effects on and risks to human health from hazardous substances.
 
-&emsp;“(2) To establish a basic university research and education program within the Department of Health and Human Services and a research, demonstration, and training program within the Environmental Protection Agency.
+&emsp;"(2) To establish a basic university research and education program within the Department of Health and Human Services and a research, demonstration, and training program within the Environmental Protection Agency.
 
-&emsp;“(3) To reserve certain funds from the Hazardous Substance Trust Fund to support a basic research program within the Department of Health and Human Services, and an applied and developmental research program within the Environmental Protection Agency.
+&emsp;"(3) To reserve certain funds from the Hazardous Substance Trust Fund to support a basic research program within the Department of Health and Human Services, and an applied and developmental research program within the Environmental Protection Agency.
 
-&emsp;“(4) To enhance the Environmental Protection Agency's internal research capabilities related to CERCLA activities, including site assessment and technology evaluation.
+&emsp;"(4) To enhance the Environmental Protection Agency's internal research capabilities related to CERCLA activities, including site assessment and technology evaluation.
 
-&emsp;“(5) To provide incentives for the development of alternative and innovative treatment technologies in a manner that supplements or coordinates with, but does not compete with or duplicate, private sector development of such technologies.”
+&emsp;"(5) To provide incentives for the development of alternative and innovative treatment technologies in a manner that supplements or coordinates with, but does not compete with or duplicate, private sector development of such technologies."
 
 #### Termination of Advisory Councils
 

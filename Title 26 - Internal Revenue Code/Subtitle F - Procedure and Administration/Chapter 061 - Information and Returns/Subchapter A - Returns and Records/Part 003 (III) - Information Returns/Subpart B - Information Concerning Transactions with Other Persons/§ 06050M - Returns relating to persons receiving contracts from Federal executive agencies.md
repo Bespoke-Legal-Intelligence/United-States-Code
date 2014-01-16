@@ -10,7 +10,7 @@ The head of every Federal executive agency which enters into any contract shall 
 
 #### (b) Federal executive agency
 
-For purposes of this section, the term “Federal executive agency” means—
+For purposes of this section, the term "Federal executive agency" means—
 
 &emsp;(1) any Executive agency (as defined in section 105 of title 5, United States Code) other than the Government Accountability Office,
 
@@ -42,7 +42,7 @@ This section shall not apply to contracts or licenses in any class which are bel
 
 &emsp;&emsp;(A) the information required under this section with respect to such person, and
 
-&emsp;&emsp;(B) such other information with respect to such person which the Secretary and thehead of such Federal executive agency agree is appropriate.
+&emsp;&emsp;(B) such other information with respect to such person which the Secretary and the head of such Federal executive agency agree is appropriate.
 
 #### (3) Description of contract
 
@@ -56,9 +56,9 @@ This section shall not apply to contracts or licenses in any class which are bel
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(3). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
-<b>2005</b>—Subsec. (b)(1). Pub. L. 109–135 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–135 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–647 added subsec. (e).
 
@@ -68,5 +68,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Pub. L. 99–514, title XV, §1522(c), Oct. 22, 1986, 100 Stat. 2747, provided that: “The amendments made by this section \[enacting this section\] shall apply to contracts (and subcontracts) entered into, and licenses granted, before, on, or after January 1, 1987.”
+Pub. L. 99–514, title XV, §1522(c), Oct. 22, 1986, 100 Stat. 2747, provided that: "The amendments made by this section \[enacting this section\] shall apply to contracts (and subcontracts) entered into, and licenses granted, before, on, or after January 1, 1987."
 

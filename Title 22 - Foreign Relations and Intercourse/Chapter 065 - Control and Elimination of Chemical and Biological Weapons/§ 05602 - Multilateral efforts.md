@@ -10,11 +10,11 @@ It is the policy of the United States to seek multilaterally coordinated efforts
 
 &emsp;(3) seek and support effective international means of monitoring and reporting regularly on commerce in equipment, materials, and technology applicable to the attainment of a chemical or biological weapons capability; and
 
-&emsp;(4) pursue and give full support to multilateral sanctions pursuant to United Nations Security Council Resolution 620, which declared the intention of the Security Council to give immediate consideration to imposing “appropriate and effective” sanctions against any country which uses chemical weapons in violation of international law.
+&emsp;(4) pursue and give full support to multilateral sanctions pursuant to United Nations Security Council Resolution 620, which declared the intention of the Security Council to give immediate consideration to imposing "appropriate and effective" sanctions against any country which uses chemical weapons in violation of international law.
 
 #### (b) Multilateral controls on chemical agents, precursors, and equipment
 
-It is also the policy of the United States to strengthen efforts to control chemical agents, precursors, and equipment by taking all appropriate multilateral diplomatic measures—
+It is also the policy of the United States to strengthen efforts to control chemical agents,precursors, and equipment by taking all appropriate multilateral diplomatic measures—
 
 &emsp;(1) to continue to seek a verifiable global ban on chemical weapons at the 40 nation Conference on Disarmament in Geneva;
 
@@ -32,7 +32,7 @@ It is also the policy of the United States to strengthen efforts to control chem
 
 &emsp;&emsp;(E) information-exchange channels of suspected proliferants,
 
-&emsp;&emsp;(F) a “denial” list of firms and individuals who violate the Australia Group's export control provisions, and
+&emsp;&emsp;(F) a "denial" list of firms and individuals who violate the Australia Group's export control provisions, and
 
 &emsp;&emsp;(G) broader cooperation between the Australia Group and other countries whose political commitment to stem the proliferation of chemical weapons is similar to that of the Australia Group; and
 

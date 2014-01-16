@@ -12,7 +12,7 @@
 
 #### (2) White Paper
 
-&emsp;In this section, the term “White Paper” means the report of April 2005 of the Working Group of the Vice Ministers Responsible for Trade and Labor in the Countries of Central America and the Dominican Republic entitled “The Labor Dimension in Central America and the Dominican Republic - Building on Progress: Strengthening Compliance and Enhancing Capacity”.
+&emsp;In this section, the term "White Paper" means the report of April 2005 of the Working Group of the Vice Ministers Responsible for Trade and Labor in the Countries of Central America and the Dominican Republic entitled "The Labor Dimension in Central America and the Dominican Republic - Building on Progress: Strengthening Compliance and Enhancing Capacity".
 
 #### (3) Contents of reports
 

@@ -22,7 +22,7 @@ Nothing in this subchapter shall be construed—
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–193 substituted “Except as provided for in section 9858m(c)(6) of this title, no funds” for “No funds”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–193 substituted "Except as provided for in section 9858m(c)(6) of this title, no funds" for "No funds".
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 

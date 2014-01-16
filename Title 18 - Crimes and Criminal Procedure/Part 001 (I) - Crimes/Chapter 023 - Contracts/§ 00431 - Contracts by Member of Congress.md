@@ -10,13 +10,13 @@ All contracts or agreements made in violation of this section shall be void; and
 
 Based on title 18, U.S.C., 1940 ed., §204 (Mar. 4, 1909, ch. 321, §114, 35 Stat. 1109).
 
-Word “agency” was inserted in three places to eliminate any ambiguity as to scope of section. (See definition of department or agency under section 6 of this title.)
+Word "agency" was inserted in three places to eliminate any ambiguity as to scope of section. (See definition of department or agency under section 6 of this title.)
 
 Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $3,000” in first par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $3,000" in first par.
 
-<b>1951</b>—Act Oct. 31, 1951, struck out “; exceptions”, after “Congress” in section catchline.
+<b>1951</b>—Act Oct. 31, 1951, struck out "; exceptions", after "Congress" in section catchline.
 

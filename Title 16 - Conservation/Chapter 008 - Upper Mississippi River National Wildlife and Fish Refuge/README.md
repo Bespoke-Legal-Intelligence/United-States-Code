@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [721\.](%C2%A7%2000721%20-%20Short%20title%3B%20%E2%80%9Cperson%E2%80%9D%20defined.md) | Short title; “person” defined. |
+| [721\.](%C2%A7%2000721%20-%20Short%20title%3B%20person%20defined.md) | Short title; "person" defined. |
 | [722\.](%C2%A7%2000722%20-%20Acquisition%20of%20lands%20and%20water.md) | Acquisition of lands and water. |
 | [723\.](%C2%A7%2000723%20-%20Purposes%20of%20refuge%3B%20regulations%20by%20Secretary%20of%20the%20Interior.md) | Purposes of refuge; regulations by Secretary of the Interior. |
 | [724\.](%C2%A7%2000724%20-%20Consent%20of%20States%20to%20acquisition%3B%20existing%20rights-of-way%2C%20easements%2C%20etc.md) | Consent of States to acquisition; existing rights-of-way, easements, etc. |
@@ -21,7 +21,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00721 - Short title; &#8220;person&#8221; defined](%C2%A7%2000721%20-%20Short%20title%3B%20%E2%80%9Cperson%E2%80%9D%20defined.md)
+- [&sect; 00721 - Short title; person defined](%C2%A7%2000721%20-%20Short%20title%3B%20person%20defined.md)
 - [&sect; 00722 - Acquisition of lands and water](%C2%A7%2000722%20-%20Acquisition%20of%20lands%20and%20water.md)
 - [&sect; 00723 - Purposes of refuge; regulations by Secretary of the Interior](%C2%A7%2000723%20-%20Purposes%20of%20refuge%3B%20regulations%20by%20Secretary%20of%20the%20Interior.md)
 - [&sect; 00724 - Consent of States to acquisition; existing rights-of-way, easements, etc](%C2%A7%2000724%20-%20Consent%20of%20States%20to%20acquisition%3B%20existing%20rights-of-way%2C%20easements%2C%20etc.md)

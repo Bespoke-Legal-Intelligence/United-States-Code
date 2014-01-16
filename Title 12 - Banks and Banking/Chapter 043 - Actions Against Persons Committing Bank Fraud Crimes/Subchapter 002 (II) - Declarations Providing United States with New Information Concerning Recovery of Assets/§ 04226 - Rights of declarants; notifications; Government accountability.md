@@ -6,7 +6,7 @@ A person who has filed a declaration that meets the requirements of sections 422
 
 #### (b) Notice of decision not to pursue
 
-If, after review, the Attorney General concludes that the information contained in a declaration should not be pursued in a proceeding to recover the asset or assets, the Attorney General shall so notify the declarant in writing andshall provide a brief statement of the reasons that the declaration will not be pursued.
+If, after review, the Attorney General concludes that the information contained in a declaration should not be pursued in a proceeding to recover the asset or assets, the Attorney General shall so notify the declarant in writing and shall provide a brief statement of the reasons that the declaration will not be pursued.
 
 #### (c) Judgment, order, or settlement
 
@@ -36,7 +36,7 @@ All notices provided to a declarant under this section shall be kept confidentia
 
 #### References in Text
 
-Section 4221 of this title, referred to in subsec. (c)(1), was in the original “section 831”, and was translated as reading “section 2576”, meaning section 2576 of Pub. L. 101–647, as the probable intent of Congress, because Pub. L. 101–647 does not contain a section 831.
+Section 4221 of this title, referred to in subsec. (c)(1), was in the original "section 831", and was translated as reading "section 2576", meaning section 2576 of Pub. L. 101–647, as the probable intent of Congress, because Pub. L. 101–647 does not contain a section 831.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

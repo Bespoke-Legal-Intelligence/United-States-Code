@@ -10,19 +10,19 @@ Based on title 18, U.S.C., 1940 ed., §§419b, 419d (Aug. 18, 1941, ch. 366, §�
 
 This section consolidates sections 419b and 419d of title 18, U.S.C., 1940 ed.
 
-Definition of “cattle”, contained in section 419a(a) of title 18, U.S.C., 1940 ed., is incorporated in section 2311 of this title.
+Definition of "cattle", contained in section 419a(a) of title 18, U.S.C., 1940 ed., is incorporated in section 2311 of this title.
 
-Definition of “interstate or foreign commerce”, constituting section 419a(b) of title 18, U.S.C., 1940 ed., is incorporated in section 10 of this title.
+Definition of "interstate or foreign commerce", constituting section 419a(b) of title 18, U.S.C., 1940 ed., is incorporated in section 10 of this title.
 
 The venue provision of said section 419d of title 18, U.S.C., 1940 ed., was omitted as completely covered by section 3237 of this title.
 
-Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
+Reference to persons causing or procuring was omitted as unnecessary in view of definition of "principal" in section 2 of this title.
 
 Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 
-<b>1984</b>—Pub. L. 98–473 substituted “livestock” for “cattle” in section catchline and text.
+<b>1984</b>—Pub. L. 98–473 substituted "livestock" for "cattle" in section catchline and text.
 

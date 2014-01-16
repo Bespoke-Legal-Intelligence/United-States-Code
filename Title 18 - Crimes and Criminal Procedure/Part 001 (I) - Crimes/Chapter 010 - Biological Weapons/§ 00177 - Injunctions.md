@@ -22,5 +22,5 @@ Affirmative Defense.—It is an affirmative defense against an injunction under 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–132 inserted “threat,” after “attempt,”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–132 inserted "threat," after "attempt,".
 

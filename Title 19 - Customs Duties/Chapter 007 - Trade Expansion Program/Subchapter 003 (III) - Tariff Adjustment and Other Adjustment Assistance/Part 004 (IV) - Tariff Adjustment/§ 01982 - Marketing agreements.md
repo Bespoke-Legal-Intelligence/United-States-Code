@@ -16,7 +16,7 @@ Section 1901 of this title, referred to in subsec. (a), was repealed by Pub. L. 
 
 #### Amendments
 
-<b>1975</b>—Subsec. (a). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission”.
+<b>1975</b>—Subsec. (a). Pub. L. 93–618 substituted "United States International Trade Commission" for "United States Tariff Commission".
 
 #### Delegation of Functions
 

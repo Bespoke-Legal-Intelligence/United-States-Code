@@ -12,13 +12,13 @@ For Administration.—There are authorized to be appropriated to the Secretary s
 
 #### Amendments
 
-<b>2012</b>—Subsecs. (a), (b). Pub. L. 112–90, §32(c)(1), (2), substituted “2012 through 2015.” for “2007 through 2010.”
+<b>2012</b>—Subsecs. (a), (b). Pub. L. 112–90, §32(c)(1), (2), substituted "2012 through 2015." for "2007 through 2010."
 
-Subsec. (c). Pub. L. 112–90, §32(c)(3), struck out subsec. (c). Text read as follows: “Any sums appropriated under this section shall be derived from general revenues and may not be derived from amounts collected under section 60301 of this title.”
+Subsec. (c). Pub. L. 112–90, §32(c)(3), struck out subsec. (c). Text read as follows: "Any sums appropriated under this section shall be derived from general revenues and may not be derived from amounts collected under section 60301 of this title."
 
-<b>2006</b>—Subsecs. (a), (b). Pub. L. 109–468 substituted “fiscal years 2007 through 2010” for “fiscal years 2003 through 2006”.
+<b>2006</b>—Subsecs. (a), (b). Pub. L. 109–468 substituted "fiscal years 2007 through 2010" for "fiscal years 2003 through 2006".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–355, §2(d)(1), substituted “$1,000,000 for each of fiscal years 2003 through 2006” for “$1,000,000 for fiscal year 2000 and $5,000,000 for fiscal year 2001” in first sentence.
+<b>2002</b>—Subsec. (a). Pub. L. 107–355, §2(d)(1), substituted "$1,000,000 for each of fiscal years 2003 through 2006" for "$1,000,000 for fiscal year 2000 and $5,000,000 for fiscal year 2001" in first sentence.
 
-Subsec. (b). Pub. L. 107–355, §2(d)(2), substituted “for fiscal years 2003 through 2006” for “for fiscal years 1999, 2000, and 2001”.
+Subsec. (b). Pub. L. 107–355, §2(d)(2), substituted "for fiscal years 2003 through 2006" for "for fiscal years 1999, 2000, and 2001".
 

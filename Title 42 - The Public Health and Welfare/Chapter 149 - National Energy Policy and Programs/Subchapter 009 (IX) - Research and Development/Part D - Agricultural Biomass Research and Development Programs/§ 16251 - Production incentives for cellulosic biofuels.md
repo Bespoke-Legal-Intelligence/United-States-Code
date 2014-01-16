@@ -18,11 +18,11 @@ In this section:
 
 #### (1) Cellulosic biofuels
 
-&emsp;The term “cellulosic biofuels” means any fuel that is produced from cellulosic feedstocks.
+&emsp;The term "cellulosic biofuels" means any fuel that is produced from cellulosic feedstocks.
 
 #### (2) Eligible entity
 
-&emsp;The term “eligible entity” means a producer of fuel from cellulosic biofuels the production facility of which—
+&emsp;The term "eligible entity" means a producer of fuel from cellulosic biofuels the production facility of which—
 
 &emsp;&emsp;(A) is located in the United States;
 

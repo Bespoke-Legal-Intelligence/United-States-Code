@@ -32,7 +32,7 @@
 
 |  |  |
 | :--- | ---: |
-| [8235\.](Subchapter%20002%20%28II%29%20-%20Residential%20Energy%20Conservation/Part%20C%20-%20Residential%20Energy%20Efficiency%20Programs/%C2%A7%2008235%20-%20%E2%80%9CResidential%20building%E2%80%9D%20defined.md) | “Residential building” defined. |
+| [8235\.](Subchapter%20002%20%28II%29%20-%20Residential%20Energy%20Conservation/Part%20C%20-%20Residential%20Energy%20Efficiency%20Programs/%C2%A7%2008235%20-%20Residential%20building%20defined.md) | "Residential building" defined. |
 | [8235a.](Subchapter%20002%20%28II%29%20-%20Residential%20Energy%20Conservation/Part%20C%20-%20Residential%20Energy%20Efficiency%20Programs/%C2%A7%2008235a%20-%20Approval%20of%20plans%20for%20prototype%20residential%20energy%20efficiency%20programs%20and%20provision%20of%20financial%20assistance%20for%20such%20programs.md) | Approval of plans for prototype residential energy efficiency programs and provision of financial assistance for such programs. |
 | [8235b.](Subchapter%20002%20%28II%29%20-%20Residential%20Energy%20Conservation/Part%20C%20-%20Residential%20Energy%20Efficiency%20Programs/%C2%A7%2008235b%20-%20Applications%20for%20approval%20of%20plans%20for%20prototype%20residential%20energy%20efficiency%20programs.md) | Applications for approval of plans for prototype residential energy efficiency programs. |
 | [8235c.](Subchapter%20002%20%28II%29%20-%20Residential%20Energy%20Conservation/Part%20C%20-%20Residential%20Energy%20Efficiency%20Programs/%C2%A7%2008235c%20-%20Approval%20of%20applications%20for%20plans%20for%20prototype%20residential%20energy%20efficiency%20programs.md) | Approval of applications for plans for prototype residential energy efficiency programs. |
@@ -105,7 +105,7 @@
 
 |  |  |
 | :--- | ---: |
-| [8271\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20C%20-%20Federal%20Photovoltaic%20Utilization/%C2%A7%2008271%20-%20%E2%80%9CFederal%20facility%E2%80%9D%20and%20%E2%80%9CSecretary%E2%80%9D%20defined.md) | “Federal facility” and “Secretary” defined. |
+| [8271\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20C%20-%20Federal%20Photovoltaic%20Utilization/%C2%A7%2008271%20-%20Federal%20facility%20and%20Secretary%20defined.md) | "Federal facility" and "Secretary" defined. |
 | [8272\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20C%20-%20Federal%20Photovoltaic%20Utilization/%C2%A7%2008272%20-%20Photovoltaic%20energy%20program.md) | Photovoltaic energy program. |
 | [8273\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20C%20-%20Federal%20Photovoltaic%20Utilization/%C2%A7%2008273%20-%20Purpose%20of%20program.md) | Purpose of program. |
 | [8274\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20C%20-%20Federal%20Photovoltaic%20Utilization/%C2%A7%2008274%20-%20Acquisition%20of%20systems.md) | Acquisition of systems. |

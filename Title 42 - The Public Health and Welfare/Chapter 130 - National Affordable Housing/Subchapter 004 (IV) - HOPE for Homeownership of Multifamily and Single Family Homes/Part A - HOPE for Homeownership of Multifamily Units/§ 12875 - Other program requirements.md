@@ -36,13 +36,13 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 &emsp;&emsp;(B) the value, as determined by such means as the Secretary shall determine through regulation, of any improvements installed at the expense of the family during the family's tenure as owner; and
 
-&emsp;&emsp;(C) the appreciated value determined by an inflation allowance at a rate which may be based on a cost-of-living index, an income index, or market index as determined by the Secretary through regulation and agreed to by the purchaser and the entity that transfers ownership interests in, or shares representing, units to eligible families (or another entity specified in the approved application), at the time of initial sale, and applied against the contribution to equity.
+&emsp;&emsp;(C) the appreciated value determined by an inflation allowance at a rate which may be based on a cost-of-living index, an income index, or market index as determined by the Secretary through regulation and agreed toby the purchaser and the entity that transfers ownership interests in, or shares representing, units to eligible families (or another entity specified in the approved application), at the time of initial sale, and applied against the contribution to equity.
 
 > &emsp;Such an entity may, at the time of initial sale, enter into an agreement with the family to set a maximum amount which this appreciation may not exceed.
 
 #### (3) 6–20 years
 
-&emsp;In the case of a transfer during the period beginning 6 years after the acquisition andending 20 years after the acquisition, the homeownership program shall provide for the recapture by the Secretary or the program of an amount equal to the amount of the declining balance on the note described in paragraph (1)(C).
+&emsp;In the case of a transfer during the period beginning 6 years after the acquisition and ending 20 years after the acquisition, the homeownership program shall provide for the recapture by the Secretary or the program of an amount equal to the amount of the declining balance on the note described in paragraph (1)(C).
 
 #### (4) Use of recaptured funds
 

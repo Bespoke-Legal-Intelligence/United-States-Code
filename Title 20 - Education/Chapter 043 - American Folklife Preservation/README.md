@@ -14,14 +14,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER II—VETERANS’ ORAL HISTORY
+#### SUBCHAPTER II—VETERANS' ORAL HISTORY
 
 |  |  |
 | :--- | ---: |
-| [2141\.](Subchapter%20002%20%28II%29%20-%20Veterans%E2%80%99%20Oral%20History/%C2%A7%2002141%20-%20Findings%3B%20purpose.md) | Findings; purpose. |
-| [2142\.](Subchapter%20002%20%28II%29%20-%20Veterans%E2%80%99%20Oral%20History/%C2%A7%2002142%20-%20Establishment%20of%20program%20at%20American%20Folklife%20Center%20to%20collect%20video%20and%20audio%20recordings%20of%20histories%20of%20veterans.md) | Establishment of program at American Folklife Center to collect video and audio recordings of histories of veterans. |
-| [2143\.](Subchapter%20002%20%28II%29%20-%20Veterans%E2%80%99%20Oral%20History/%C2%A7%2002143%20-%20Private%20support.md) | Private support. |
-| [2144\.](Subchapter%20002%20%28II%29%20-%20Veterans%E2%80%99%20Oral%20History/%C2%A7%2002144%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [2141\.](Subchapter%20002%20%28II%29%20-%20Veterans%27%20Oral%20History/%C2%A7%2002141%20-%20Findings%3B%20purpose.md) | Findings; purpose. |
+| [2142\.](Subchapter%20002%20%28II%29%20-%20Veterans%27%20Oral%20History/%C2%A7%2002142%20-%20Establishment%20of%20program%20at%20American%20Folklife%20Center%20to%20collect%20video%20and%20audio%20recordings%20of%20histories%20of%20veterans.md) | Establishment of program at American Folklife Center to collect video and audio recordings of histories of veterans. |
+| [2143\.](Subchapter%20002%20%28II%29%20-%20Veterans%27%20Oral%20History/%C2%A7%2002143%20-%20Private%20support.md) | Private support. |
+| [2144\.](Subchapter%20002%20%28II%29%20-%20Veterans%27%20Oral%20History/%C2%A7%2002144%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -31,4 +31,4 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
-- [Subchapter 002 (II) - Veterans&#8217; Oral History](Subchapter%20002%20%28II%29%20-%20Veterans%E2%80%99%20Oral%20History/README.md)
+- [Subchapter 002 (II) - Veterans' Oral History](Subchapter%20002%20%28II%29%20-%20Veterans%27%20Oral%20History/README.md)

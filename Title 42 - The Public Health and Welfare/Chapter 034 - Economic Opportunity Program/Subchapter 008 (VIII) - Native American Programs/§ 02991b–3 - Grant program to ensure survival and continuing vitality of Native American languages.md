@@ -68,7 +68,7 @@ The purposes for which each grant awarded under subsection (a) of this section m
 
 &emsp;&emsp;&emsp;(II) Native American language teacher training programs, such as training programs in Native American language translation for fluent speakers, training programs for Native American language teachers, training programs for teachers in schools to utilize Native American language materials, tools, and interactive media to teach Native American language; and
 
-&emsp;&emsp;&emsp;(III) the development of Native American language materials, such as books,audio and visual tools, and interactive media programs.
+&emsp;&emsp;&emsp;(III) the development of Native American language materials, such as books, audio and visual tools, and interactive media programs.
 
 #### (c) Applications
 
@@ -186,7 +186,7 @@ Section 3215 of title 20, referred to in subsec. (f)(2)(B)(ii), was in the origi
 
 Subsec. (c)(7). Pub. L. 109–394, §2(2), added par. (7).
 
-Subsec. (e)(2). Pub. L. 109–394, §2(3), inserted “ ,except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis” before period at end.
+Subsec. (e)(2). Pub. L. 109–394, §2(3), inserted " ,except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis" before period at end.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

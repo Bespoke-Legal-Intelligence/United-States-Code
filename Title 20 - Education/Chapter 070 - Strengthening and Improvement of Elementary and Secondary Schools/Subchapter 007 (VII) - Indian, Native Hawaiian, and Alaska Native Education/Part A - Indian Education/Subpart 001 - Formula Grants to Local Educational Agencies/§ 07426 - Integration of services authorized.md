@@ -6,7 +6,7 @@ An entity receiving funds under this subpart may submit a plan to the Secretary 
 
 #### (b) Consolidation of programs
 
-Upon the receipt of an acceptable plan under subsection (a) of this section, the Secretary, incooperation with each Federal agency providing grants for the provision of education and related services to the entity, shall authorize the entity to consolidate, in accordance with such plan, the federally funded education and related services programs of the entity and the Federal programs, or portions of the programs, serving Indian students in a manner that integrates the program services involved into a single, coordinated, comprehensive program and reduces administrative costs by consolidating administrative functions.
+Upon the receipt of an acceptable plan under subsection (a) of this section, the Secretary, in cooperation with each Federal agency providing grants for the provision of education and related services to the entity, shall authorize the entity to consolidate, in accordance with such plan, the federally funded education and related services programs of the entity and the Federal programs, or portions of the programs, serving Indian students in a manner that integrates the program services involved into a single, coordinated, comprehensive program and reduces administrative costs by consolidating administrative functions.
 
 #### (c) Programs affected
 
@@ -104,7 +104,7 @@ Nothing in this part shall be construed so as to interfere with the ability of t
 
 #### (p) Definitions
 
-For the purposes of this section, the term “Secretary” means—
+For the purposes of this section, the term "Secretary" means—
 
 &emsp;(1) the Secretary of the Interior, in the case of an entity meeting the definition of a contract or grant school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2001 et seq.\]; or
 

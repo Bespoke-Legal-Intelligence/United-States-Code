@@ -6,9 +6,9 @@ The President is further authorized (1) to construct any project or works which 
 
 #### (b) Rio Grande bank protection project
 
-Expenditures for the Rio Grande bank protection project shall be subject to the provisions and conditions made with respect to that project in the first undesignated paragraph under the heading “
+Expenditures for the Rio Grande bank protection project shall be subject to the provisions and conditions made with respect to that project in the first undesignated paragraph under the heading "
 
-International Obligations” contained in the Act of April 25, 1945 (59 Stat. 89).
+International Obligations" contained in the Act of April 25, 1945 (59 Stat. 89).
 
 #### (c) Anzalduas diversion dam
 
@@ -22,9 +22,9 @@ Pursuant to the authority of subsection (a) of this section and in order to faci
 
 #### References in Text
 
-The first undesignated paragraph under the heading “
+The first undesignated paragraph under the heading "
 
-International Obligations” contained in the Act of April 25, 1945 (59 Stat. 89), referred to in subsec. (b), is not classified to the Code.
+International Obligations" contained in the Act of April 25, 1945 (59 Stat. 89), referred to in subsec. (b), is not classified to the Code.
 
 #### Amendments
 

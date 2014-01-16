@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—The National Recording Preservation Foundation (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—The National Recording Preservation Foundation (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

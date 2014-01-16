@@ -14,17 +14,17 @@ The internal revenue laws of the United States, referred to in text, are classif
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Apr. 12, 1900, ch. 191, §14, 31 Stat. 80, except that the words “which, in view of the provisions of section three, shall not have force and effect in Porto Rico” were contained in lieu of the proviso. As to section 3 of act Apr. 12, 1900, see section 738 of this title and notes thereunder.
+Provisions similar to those in this section were contained in act Apr. 12, 1900, ch. 191, §14, 31 Stat. 80, except that the words "which, in view of the provisions of section three, shall not have force and effect in Porto Rico" were contained in lieu of the proviso. As to section 3 of act Apr. 12, 1900, see section 738 of this title and notes thereunder.
 
 #### Amendments
 
-<b>1955</b>—Act Aug. 1, 1955, inserted “or the Philippine Trade Agreement Revision Act of 1955”.
+<b>1955</b>—Act Aug. 1, 1955, inserted "or the Philippine Trade Agreement Revision Act of 1955".
 
-<b>1946</b>—Act Apr. 30, 1946, inserted “other than those contained in the Philippine Trade Act of 1946”.
+<b>1946</b>—Act Apr. 30, 1946, inserted "other than those contained in the Philippine Trade Act of 1946".
 
 #### Change of Name
 
-“Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
+"Puerto Rico" substituted in text for "Porto Rico" pursuant to act May 17, 1932, which is classified to section 731a of this title.
 
 #### Effective Date of 1955 Amendment
 
@@ -40,15 +40,15 @@ Ex. Ord. No. 9909, eff. Dec. 9, 1947, 12 F.R. 8291, provided:
 
 By virtue of the authority vested in me by section 49b(2) of the Organic Act of Puerto Rico, as amended by section 6 of the Act of August 5, 1947, Public Law 362, 80th Congress \[section 793b of this title\], it is hereby ordered that the District Court of the United States for Puerto Rico and the Department of Justice shall be exempt from making the reports to the Coordinator of Federal Agencies in Puerto Rico which are provided for in such section.
 
-Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Harry S. Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 10005. Establishment of President's Advisory Commission on Relation of Federal Laws to Puerto Rico
 
 Ex. Ord. No. 10005, eff. Oct. 5, 1948, 13 F.R. 5854, provided:
 
-WHEREAS section 9 of the Organic Act of Puerto Rico, 39 Stat. 954 \[this section\], provides that “the statutory laws of the United States not locally inapplicable, except as hereinbefore or hereinafter otherwise provided, shall have the same force and effect in Puerto Rico as in the United States”; and
+WHEREAS section 9 of the Organic Act of Puerto Rico, 39 Stat. 954 \[this section\], provides that "the statutory laws of the United States not locally inapplicable, except as hereinbefore or hereinafter otherwise provided, shall have the same force and effect in Puerto Rico as in the United States"; and
 
-WHEREAS section 49b(3) of the said Act, which was added by section 6 of the act of August 5, 1947, 61 Stat. 772 \[section 793b of this title\], provides that “the President of the United States may, from time to time, after hearing, promulgate Executive orders expressly excepting Puerto Rico from the application of any Federal law, not expressly declared by Congress to be applicable to Puerto Rico, which is contemplated by section 9 of this act \[this section\] is inapplicable by reason of local conditions”:
+WHEREAS section 49b(3) of the said Act, which was added by section 6 of the act of August 5, 1947, 61 Stat. 772 \[section 793b of this title\], provides that "the President of the United States may, from time to time, after hearing, promulgate Executive orders expressly excepting Puerto Rico from the application of any Federal law, not expressly declared by Congress to be applicable to Puerto Rico, which is contemplated by section 9 of this act \[this section\] is inapplicable by reason of local conditions":
 
 NOW, THEREFORE, by virtue of the authority vested in me by the said Organic Act of Puerto Rico, and as President of the United States, it is ordered as follows:
 
@@ -60,7 +60,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by the said Organic Act 
 
 4\. The Commission shall continue to exist until the President terminates its existence by Executive order.
 
-Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Harry S. Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Administrative Treatment of Puerto Rico as a State
 

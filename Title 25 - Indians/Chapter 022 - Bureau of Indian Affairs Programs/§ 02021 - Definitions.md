@@ -4,7 +4,7 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (1) Agency school board
 
-&emsp;The term “agency school board” means a body—
+&emsp;The term "agency school board" means a body—
 
 &emsp;&emsp;(A) the members of which are appointed by all of the school boards of the schools located within an agency, including schools operated under contract or grant; and
 
@@ -14,11 +14,11 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (2) Bureau
 
-&emsp;The term “Bureau” means the Bureau of Indian Affairs of the Department of the Interior.
+&emsp;The term "Bureau" means the Bureau of Indian Affairs of the Department of the Interior.
 
 #### (3) Bureau-funded school
 
-&emsp;The term “Bureau-funded school” means—
+&emsp;The term "Bureau-funded school" means—
 
 &emsp;&emsp;(A) a Bureau school;
 
@@ -28,39 +28,39 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (4) Bureau school
 
-&emsp;The term “Bureau school” means a Bureau-operated elementary or secondary day or boarding school or a Bureau-operated dormitory for students attending a school other than a Bureau school.
+&emsp;The term "Bureau school" means a Bureau-operated elementary or secondary day or boarding school or a Bureau-operated dormitory for students attending a school other than a Bureau school.
 
 #### (5) Complementary educational facilities
 
-&emsp;The term “complementary educational facilities” means educational program functional spaces such as libraries, gymnasiums, and cafeterias.
+&emsp;The term "complementary educational facilities" means educational program functional spaces such as libraries, gymnasiums, and cafeterias.
 
 #### (6) Contract or grant school
 
-&emsp;The term “contract or grant school” means an elementary school, secondary school, or dormitory that receives financial assistance for its operation under a contract, grant, or agreement with the Bureau under section 450f, 450h(a), or 458d of this title, or under the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\].
+&emsp;The term "contract or grant school" means an elementary school, secondary school, or dormitory that receives financial assistance for its operation under a contract, grant, or agreement with the Bureau under section 450f, 450h(a), or 458d of this title, or under the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\].
 
 #### (7) Director
 
-&emsp;The term “Director” means the Director of the Office of Indian Education Programs.
+&emsp;The term "Director" means the Director of the Office of Indian Education Programs.
 
 #### (8) Education line officer
 
-&emsp;The term “education line officer” means a member of the education personnel under the supervision of the Director of the Office, whether located in a central, area, or agency office.
+&emsp;The term "education line officer" means a member of the education personnel under the supervision of the Director of the Office, whether located in a central, area, or agency office.
 
 #### (9) Family literacy services
 
-&emsp;The term “family literacy services” has the meaning given that term in section 7801 <sup>1</sup> of title 20.
+&emsp;The term "family literacy services" has the meaning given that term in section 7801 <sup>1</sup> of title 20.
 
 #### (10) Financial plan
 
-&emsp;The term “financial plan” means a plan of services provided by each Bureau school.
+&emsp;The term "financial plan" means a plan of services provided by each Bureau school.
 
 #### (11) Indian organization
 
-&emsp;The term “Indian organization” means any group, association, partnership, corporation, or other legal entity owned or controlled by a federally recognized Indian tribe or tribes, ora majority of whose members are members of federally recognized tribes.
+&emsp;The term "Indian organization" means any group, association, partnership, corporation, or other legal entity owned or controlled by a federally recognized Indian tribe or tribes, or a majority of whose members are members of federally recognized tribes.
 
 #### (12) Inherently Federal functions
 
-&emsp;The term “inherently Federal functions” means functions and responsibilities which, under section 2006(c) of this title, are noncontractable, including—
+&emsp;The term "inherently Federal functions" means functions and responsibilities which, under section 2006(c) of this title, are noncontractable, including—
 
 &emsp;&emsp;(A) the allocation and obligation of Federal funds and determinations as to the amounts of expenditures;
 
@@ -82,11 +82,11 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (13) Local educational agency
 
-&emsp;The term “local educational agency” means a board of education or other legally constituted local school authority having administrative control and direction of free public education in a county, township, or independent or other school district located within a State, and includes any State agency that directly operates and maintains facilities for providing free public education.
+&emsp;The term "local educational agency" means a board of education or other legally constituted local school authority having administrative control and direction of free public education in a county, township, or independent or other school district located within a State, and includes any State agency that directly operates and maintains facilities for providing free public education.
 
 #### (14) Local school board
 
-&emsp;The term “local school board”, when used with respect to a Bureau school, means a body chosen in accordance with the laws of the tribe to be served or, in the absence of such laws, elected by the parents of the Indian children attending the school, except that, for a school serving a substantial number of students from different tribes—
+&emsp;The term "local school board", when used with respect to a Bureau school, means a body chosen in accordance with the laws of the tribe to be served or, in the absence of such laws, elected by the parents of the Indian children attending the school, except that, for a school serving a substantial number of students from different tribes—
 
 &emsp;&emsp;(A) the members of the body shall be appointed by the tribal governing bodies of the tribes affected; and
 
@@ -94,13 +94,13 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (15) Office
 
-&emsp;The term “Office” means the Office of Indian Education Programs within the Bureau.
+&emsp;The term "Office" means the Office of Indian Education Programs within the Bureau.
 
 #### (16) Regulation
 
 #### (A) In general
 
-&emsp;&emsp;The term “regulation” means any part of a statement of general or particular applicability of the Secretary designed to carry out, interpret, or prescribe law or policy in carrying out this Act.
+&emsp;&emsp;The term "regulation" means any part of a statement of general or particular applicability of the Secretary designed to carry out, interpret, or prescribe law or policy in carrying out this Act.
 
 #### (B) Rule of construction
 
@@ -108,19 +108,19 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (17) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 #### (18) Supervisor
 
-&emsp;The term “supervisor” means the individual in the position of ultimate authority at a Bureau school.
+&emsp;The term "supervisor" means the individual in the position of ultimate authority at a Bureau school.
 
 #### (19) Tribal governing body
 
-&emsp;The term “tribal governing body” means, with respect to any school, the tribal governing body, or tribal governing bodies, that represent at least 90 percent of the students served by such school.
+&emsp;The term "tribal governing body" means, with respect to any school, the tribal governing body, or tribal governing bodies, that represent at least 90 percent of the students served by such school.
 
 #### (20) Tribe
 
-&emsp;The term “tribe” means any Indian tribe, band, nation, or other organized group or community, including an Alaska Native Regional Corporation or Village Corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term "tribe" means any Indian tribe, band, nation, or other organized group or community, including an Alaska Native Regional Corporation or Village Corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 (Pub. L. 95–561, title XI, §1141, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2061.)
 
@@ -128,11 +128,11 @@ For the purposes of this chapter, unless otherwise specified:
 
 The Tribally Controlled Schools Act of 1988, referred to in pars. (3)(C) and (6), is part B (§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-Section 7801 of title 20, referred to in par. (9), was in the original “section 8101 of the Elementary and Secondary Education Act of 1965”, meaning section 8101 of Pub. L. 89–10, which was translated as if it referred to section 9101 of that Act to reflect the probable intent of Congress, because section 8101 was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986, and section 9101, as added by Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1956, defines “family literacy services”.
+Section 7801 of title 20, referred to in par. (9), was in the original "section 8101 of the Elementary and Secondary Education Act of 1965", meaning section 8101 of Pub. L. 89–10, which was translated as if it referred to section 9101 of that Act to reflect the probable intent of Congress, because section 8101 was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986, and section 9101, as added by Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1956, defines "family literacy services".
 
 This Act, referred to in par. (16)(A), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
-This chapter, referred to in par. (16)(B), was in the original “this title”, meaning title XI (§1101 et seq.) of Pub. L. 95–561, as amended, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
+This chapter, referred to in par. (16)(B), was in the original "this title", meaning title XI (§1101 et seq.) of Pub. L. 95–561, as amended, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (20), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -154,7 +154,7 @@ Section 2022b, Pub. L. 95–561, title XI, §1142, as added Pub. L. 100–297, t
 
 A prior section 2023, Pub. L. 95–561, title XI, §1143, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4012; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1607(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, related to early childhood development program, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2019 of this title.
 
-Another prior section 2023, Pub. L. 95–561, title XI, §1143, as added Pub. L. 98–511, title V, §512, Oct. 19, 1984, 98 Stat. 2398, related to employee housing, rental rates, and waiver of rentals during non-session periods and non-pay status, prior to repeal by Pub. L. 99–89, §9(a)(2), Aug. 15, 1985, 99 Stat. 383.
+Another prior section 2023, Pub. L. 95–561, title XI, §1143, as added Pub. L. 98–511, title V, §512, Oct. 19, 1984, 98 Stat. 2398, related to employee housing, rental rates, and waiver of rentals during non-session periods andnon-pay status, prior to repeal by Pub. L. 99–89, §9(a)(2), Aug. 15, 1985, 99 Stat. 383.
 
 Prior sections 2024 to 2026 were omitted in the general amendment of this chapter by Pub. L. 107–110.
 

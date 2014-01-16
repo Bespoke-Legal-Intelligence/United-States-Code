@@ -12,7 +12,7 @@
 | [1808\.](%C2%A7%2001808%20-%20Responsibilities%20and%20duties%20of%20Director.md) | Responsibilities and duties of Director. |
 | [1809\.](%C2%A7%2001809%20-%20General%20authority%20of%20Council.md) | General authority of Council. |
 | [1810\.](%C2%A7%2001810%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [1811\.](%C2%A7%2001811%20-%20%E2%80%9CMaterials%E2%80%9D%20defined.md) | “Materials” defined. |
+| [1811\.](%C2%A7%2001811%20-%20Materials%20defined.md) | "Materials" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -31,4 +31,4 @@
 - [&sect; 01808 - Responsibilities and duties of Director](%C2%A7%2001808%20-%20Responsibilities%20and%20duties%20of%20Director.md)
 - [&sect; 01809 - General authority of Council](%C2%A7%2001809%20-%20General%20authority%20of%20Council.md)
 - [&sect; 01810 - Authorization of appropriations](%C2%A7%2001810%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 01811 - &#8220;Materials&#8221; defined](%C2%A7%2001811%20-%20%E2%80%9CMaterials%E2%80%9D%20defined.md)
+- [&sect; 01811 - Materials defined](%C2%A7%2001811%20-%20Materials%20defined.md)

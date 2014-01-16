@@ -22,7 +22,7 @@ Gross income shall not include any fringe benefit which qualifies as a—
 
 #### (b) No-additional-cost service defined
 
-For purposes of this section, the term “no-additional-cost service” means any service provided by an employer to an employee for use by such employee if—
+For purposes of this section, the term "no-additional-cost service" means any service provided by an employer to an employee for use by such employee if—
 
 &emsp;(1) such service is offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is performing services, and
 
@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (1) Qualified employee discount
 
-&emsp;The term “qualified employee discount” means any employee discount with respect to qualified property or services to the extent such discount does not exceed—
+&emsp;The term "qualified employee discount" means any employee discount with respect to qualified property or services to the extent such discount does not exceed—
 
 &emsp;&emsp;(A) in the case of property, the gross profit percentage of the price at which the property is being offered by the employer to customers, or
 
@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “gross profit percentage” means the percent which—
+&emsp;&emsp;The term "gross profit percentage" means the percent which—
 
 &emsp;&emsp;&emsp;(i) the excess of the aggregate sales price of property sold by the employer to customers over the aggregate cost of such property to the employer, is of
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (3) Employee discount defined
 
-&emsp;The term “employee discount” means the amount by which—
+&emsp;The term "employee discount" means the amount by which—
 
 &emsp;&emsp;(A) the price at which the property or services are provided by the employer to an employee for use by such employee, is less than
 
@@ -68,11 +68,11 @@ For purposes of this section—
 
 #### (4) Qualified property or services
 
-&emsp;The term “qualified property or services” means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is peforming <sup>1</sup> services.
+&emsp;The term "qualified property or services" means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is peforming <sup>1</sup> services.
 
 #### (d) Working condition fringe defined
 
-For purposes of this section, the term “working condition fringe” means any property or services provided to an employee of the employer to the extent that, if the employee paid for such property or services, such payment would be allowable as a deduction under section 162 or 167.
+For purposes of this section, the term "working condition fringe" means any property or services provided to an employee of the employer to the extent that, if the employee paid for such property or services, such payment would be allowable as a deduction under section 162 or 167.
 
 #### (e) De minimis fringe defined
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “de minimis fringe” means any property or service the value of which is (after taking into account the frequency with which similar fringes are provided by the employer to the employer's employees) so small as to make accounting for it unreasonable or administratively impracticable.
+&emsp;The term "de minimis fringe" means any property or service the value of which is (after taking into account the frequency with which similar fringes are provided by the employer to the employer's employees) so small as to make accounting for it unreasonable or administratively impracticable.
 
 #### (2) Treatment of certain eating facilities
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “qualified transportation fringe” means any of the following provided by an employer to an employee:
+&emsp;For purposes of this section, the term "qualified transportation fringe" means any of the following provided by an employer to an employee:
 
 &emsp;&emsp;(A) Transportation in a commuter highway vehicle if such transportation is in connection with travel between the employee's residence and place of employment.
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (3) Cash reimbursements
 
-&emsp;For purposes of this subsection, the term “qualified transportation fringe” includes a cash reimbursement by an employer to an employee for a benefit described in paragraph (1). The preceding sentence shall apply to a cash reimbursement for any transit pass only if a voucher or similar item which may be exchanged only for a transit pass is not readily available for direct distribution by the employer to the employee.
+&emsp;For purposes of this subsection, the term "qualified transportation fringe" includes a cash reimbursement by an employer to an employee for a benefit described in paragraph (1). The preceding sentence shall apply to a cash reimbursement for any transit pass only if a voucher or similar item which may be exchanged only for a transit pass is not readily available for direct distribution by the employer to the employee.
 
 #### (4) No constructive receipt
 
@@ -132,7 +132,7 @@ For purposes of this section—
 
 #### (A) Transit pass
 
-&emsp;&emsp;The term “transit pass” means any pass, token, farecard, voucher, or similar item entitling a person to transportation (or transportation at a reduced price) if such transportation is—
+&emsp;&emsp;The term "transit pass" means any pass, token, farecard, voucher, or similar item entitling a person to transportation (or transportation at a reduced price) if such transportation is—
 
 &emsp;&emsp;&emsp;(i) on mass transit facilities (whether or not publicly owned), or
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (B) Commuter highway vehicle
 
-&emsp;&emsp;The term “commuter highway vehicle” means any highway vehicle—
+&emsp;&emsp;The term "commuter highway vehicle" means any highway vehicle—
 
 &emsp;&emsp;&emsp;(i) the seating capacity of which is at least 6 adults (not including the driver), and
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 #### (C) Qualified parking
 
-&emsp;&emsp;The term “qualified parking” means parking provided to an employee on or near the business premises of the employer or on or near a location from which the employee commutes to work by transportation described in subparagraph (A), in a commuter highway vehicle, or by carpool. Such term shall not include any parking on or near property used by the employee for residential purposes.
+&emsp;&emsp;The term "qualified parking" means parking provided to an employee on or near the business premises of the employer or on or near a location from which the employee commutes to work by transportation described in subparagraph (A), in a commuter highway vehicle, or by carpool. Such term shall not include any parking on or near property used by the employee for residential purposes.
 
 #### (D) Transportation provided by employer
 
@@ -160,21 +160,21 @@ For purposes of this section—
 
 #### (E) Employee
 
-&emsp;&emsp;For purposes of this subsection, the term “employee” does not include an individual who is an employee within the meaning of section 401(c)(1).
+&emsp;&emsp;For purposes of this subsection, the term "employee" does not include an individual who is an employee within the meaning of section 401(c)(1).
 
 #### (F) Definitions related to bicycle commuting reimbursement
 
 #### (i) Qualified bicycle commuting reimbursement
 
-&emsp;&emsp;&emsp;The term “qualified bicycle commuting reimbursement” means, with respect to any calendar year, any employer reimbursement during the 15-month period beginning with the first day of such calendar year for reasonable expenses incurred by the employee during such calendar year for the purchase of a bicycle and bicycle improvements, repair, and storage, if such bicycle is regularly used for travel between the employee's residence and place of employment.
+&emsp;&emsp;&emsp;The term "qualified bicycle commuting reimbursement" means, with respect to any calendar year, any employer reimbursement during the 15-month period beginning with the first day of such calendar year for reasonable expenses incurred by the employee during such calendar year for the purchase of a bicycle and bicycle improvements, repair, and storage, if such bicycle is regularly used for travel between the employee's residence and place of employment.
 
 #### (ii) Applicable annual limitation
 
-&emsp;&emsp;&emsp;The term “applicable annual limitation” means, with respect to any employee for any calendar year, the product of $20 multiplied by the number of qualified bicycle commuting months during such year.
+&emsp;&emsp;&emsp;The term "applicable annual limitation" means, with respect to any employee for any calendar year, the product of $20 multiplied by the number of qualified bicycle commuting months during such year.
 
 #### (iii) Qualified bicycle commuting month
 
-&emsp;&emsp;&emsp;The term “qualified bicycle commuting month” means, with respect to any employee, any month during which such employee—
+&emsp;&emsp;&emsp;The term "qualified bicycle commuting month" means, with respect to any employee, any month during which such employee—
 
 &emsp;&emsp;&emsp;&emsp;(I) regularly uses the bicycle for a substantial portion of the travel between the employee's residence and place of employment, and
 
@@ -188,9 +188,9 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1998” for “calendar year 1992”.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 1998" for "calendar year 1992".
 
-> &emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2002, clause (ii) shall beapplied by substituting “calendar year 2001” for “calendar year 1998” for purposes of adjusting the dollar amount contained in paragraph (2)(A).
+> &emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2002, clause (ii) shall beapplied by substituting "calendar year 2001" for "calendar year 1998" for purposes of adjusting the dollar amount contained in paragraph (2)(A).
 
 #### (B) Rounding
 
@@ -198,11 +198,11 @@ For purposes of this section—
 
 #### (7) Coordination with other provisions
 
-&emsp;For purposes of this section, the terms “working condition fringe” and “de minimis fringe” shall not include any qualified transportation fringe (determined without regard to paragraph (2)).
+&emsp;For purposes of this section, the terms "working condition fringe" and "de minimis fringe" shall not include any qualified transportation fringe (determined without regard to paragraph (2)).
 
 #### (g) Qualified moving expense reimbursement
 
-For purposes of this section, the term “qualified moving expense reimbursement” means any amount received (directly or indirectly) by an individual from an employer as a payment for (or a reimbursement of) expenses which would be deductible as moving expenses under section 217 if directly paid or incurred by the individual. Such term shall not include any payment for (or reimbursement of) an expense actually deducted by the individual in a prior taxable year.
+For purposes of this section, the term "qualified moving expense reimbursement" means any amount received (directly or indirectly) by an individual from an employer as a payment for (or a reimbursement of) expenses which would be deductible as moving expenses under section 217 if directly paid or incurred by the individual. Such term shall not include any payment for (or reimbursement of) an expense actually deducted by the individual in a prior taxable year.
 
 #### (h) Certain individuals treated as employees for purposes of subsections (a)(1) and (2)
 
@@ -210,7 +210,7 @@ For purposes of paragraphs (1) and (2) of subsection (a)—
 
 #### (1) Retired and disabled employees and surviving spouse of employee treated as employee
 
-&emsp;With respect to a line of business of an employer, the term “employee” includes—
+&emsp;With respect to a line of business of an employer, the term "employee" includes—
 
 &emsp;&emsp;(A) any individual who was formerly employed by such employer in such line of business and who separated from service with such employer in such line of business by reason of retirement or disability, and
 
@@ -224,7 +224,7 @@ For purposes of paragraphs (1) and (2) of subsection (a)—
 
 #### (B) Dependent child
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “dependent child” means any child (as defined in section 152(f)(1)) of the employee—
+&emsp;&emsp;For purposes of subparagraph (A), the term "dependent child" means any child (as defined in section 152(f)(1)) of the employee—
 
 &emsp;&emsp;&emsp;(i) who is a dependent of the employee, or
 
@@ -272,7 +272,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (B) Qualified automobile demonstration use
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “qualified automobile demonstration use” means any use of an automobile by a full-time automobile salesman in the sales area in which the automobile dealer's sales office is located if—
+&emsp;&emsp;For purposes of subparagraph (A), the term "qualified automobile demonstration use" means any use of an automobile by a full-time automobile salesman in the sales area in which the automobile dealer's sales office is located if—
 
 &emsp;&emsp;&emsp;(i) such use is provided primarily to facilitate the salesman's performance of services for the employer, and
 
@@ -286,7 +286,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (B) On-premises athletic facility
 
-&emsp;&emsp;For purposes of this paragraph, the term “on-premises athletic facility” means any gym or other athletic facility—
+&emsp;&emsp;For purposes of this paragraph, the term "on-premises athletic facility" means any gym or other athletic facility—
 
 &emsp;&emsp;&emsp;(i) which is located on the premises of the employer,
 
@@ -308,11 +308,11 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (B) Qualified affiliate
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualified affiliate” means any corporation which is predominantly engaged in airline-related services.
+&emsp;&emsp;For purposes of this paragraph, the term "qualified affiliate" means any corporation which is predominantly engaged in airline-related services.
 
 #### (C) Airline-related services
 
-&emsp;&emsp;For purposes of this paragraph, the term “airline-related services” means any of the following services provided in connection with air transportation:
+&emsp;&emsp;For purposes of this paragraph, the term "airline-related services" means any of the following services provided in connection with air transportation:
 
 &emsp;&emsp;&emsp;(i) Catering.
 
@@ -328,11 +328,11 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (D) Affiliated group
 
-&emsp;&emsp;For purposes of this paragraph, the term “affiliated group” has the meaning given such term by section 1504(a).
+&emsp;&emsp;For purposes of this paragraph, the term "affiliated group" has the meaning given such term by section 1504(a).
 
 #### (6) Highly compensated employee
 
-&emsp;For purposes of this section, the term “highly compensated employee” has the meaning given such term by section 414(q).
+&emsp;For purposes of this section, the term "highly compensated employee" has the meaning given such term by section 414(q).
 
 #### (7) Air cargo
 
@@ -344,7 +344,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (k) Customers not to include employees
 
-For purposes of this section (other than subsection (c)(2)), the term “customers” shall only include customers who are not employees.
+For purposes of this section (other than subsection (c)(2)), the term "customers" shall only include customers who are not employees.
 
 #### (l) Section not to apply to fringe benefits expressly provided for elsewhere
 
@@ -354,7 +354,7 @@ This section (other than subsections (e) and (g)) shall not apply to any fringe 
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “qualified retirement planning services” means any retirement planning advice or information provided to an employee and his spouse by an employer maintaining a qualified employer plan.
+&emsp;For purposes of this section, the term "qualified retirement planning services" means any retirement planning advice or information provided to an employee and his spouse by an employer maintaining a qualified employer plan.
 
 #### (2) Nondiscrimination rule
 
@@ -362,7 +362,7 @@ This section (other than subsections (e) and (g)) shall not apply to any fringe 
 
 #### (3) Qualified employer plan
 
-&emsp;For purposes of this subsection, the term “qualified employer plan” means a plan, contract, pension, or account described in section 219(g)(5).
+&emsp;For purposes of this subsection, the term "qualified employer plan" means a plan, contract, pension, or account described in section 219(g)(5).
 
 #### (n) Qualified military base realignment and closure fringe
 
@@ -370,7 +370,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified military base realignment and closure fringe” means 1 or more payments under the authority of section 1013 of the Demonstration Cities and Metropolitan Development Act of 1966 (42 U.S.C. 3374) (as in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009).
+&emsp;The term "qualified military base realignment and closure fringe" means 1 or more payments under the authority of section 1013 of the Demonstration Cities and Metropolitan Development Act of 1966 (42 U.S.C. 3374) (as in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009).
 
 #### (2) Limitation
 
@@ -398,25 +398,25 @@ A prior section 132 was renumbered section 140 of this title.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (f)(2). Pub. L. 112–240 substituted “January 1, 2014” for “January 1, 2012” in concluding provisions.
+<b>2013</b>—Subsec. (f)(2). Pub. L. 112–240 substituted "January 1, 2014" for "January 1, 2012" in concluding provisions.
 
-<b>2010</b>—Subsec. (f)(2). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2011” in concluding provisions.
+<b>2010</b>—Subsec. (f)(2). Pub. L. 111–312 substituted "January 1, 2012" for "January 1, 2011" in concluding provisions.
 
 <b>2009</b>—Subsec. (f)(2). Pub. L. 111–5 inserted concluding provisions.
 
-Subsec. (n)(1). Pub. L. 111–92, §14(a)(1), substituted “the American Recovery and Reinvestment Tax Act of 2009)” for “this subsection) to offset the adverse effects on housing values as a result of a military base realignment or closure”.
+Subsec. (n)(1). Pub. L. 111–92, §14(a)(1), substituted "the American Recovery and Reinvestment Tax Act of 2009)" for "this subsection) to offset the adverse effects on housing values as a result of a military base realignment or closure".
 
-Subsec. (n)(2). Pub. L. 111–92, §14(a)(2), struck out “clause (1) of” before “subsection (c)”.
+Subsec. (n)(2). Pub. L. 111–92, §14(a)(2), struck out "clause (1) of" before "subsection (c)".
 
 <b>2008</b>—Subsec. (f)(1)(D). Pub. L. 110–343, §211(a), added subpar. (D).
 
 Subsec. (f)(2)(C). Pub. L. 110–343, §211(b), added subpar. (C).
 
-Subsec. (f)(4). Pub. L. 110–343, §211(d), inserted “(other than a qualified bicycle commuting reimbursement)” after “qualified transportation fringe”.
+Subsec. (f)(4). Pub. L. 110–343, §211(d), inserted "(other than a qualified bicycle commuting reimbursement)" after "qualified transportation fringe".
 
 Subsec. (f)(5)(F). Pub. L. 110–343, §211(c), added subpar. (F).
 
-<b>2004</b>—Subsec. (h)(2)(B). Pub. L. 108–311 substituted “152(f)(1)” for “151(c)(3)” in introductory provisions.
+<b>2004</b>—Subsec. (h)(2)(B). Pub. L. 108–311 substituted "152(f)(1)" for "151(c)(3)" in introductory provisions.
 
 <b>2003</b>—Subsec. (a)(8). Pub. L. 108–121, §103(a), added par. (8).
 
@@ -426,45 +426,45 @@ Subsecs. (n), (o). Pub. L. 108–121, §103(b), added subsec. (n) and redesignat
 
 Subsecs. (m), (n). Pub. L. 107–16, §665(b), added subsec. (m) and redesignated former subsec. (m) as (n).
 
-<b>1998</b>—Subsec. (f)(2)(A). Pub. L. 105–178, §9010(c)(1), substituted “$100” for “$65”.
+<b>1998</b>—Subsec. (f)(2)(A). Pub. L. 105–178, §9010(c)(1), substituted "$100" for "$65".
 
-Pub. L. 105–178, §9010(b)(2)(A), substituted “$65” for “$60”.
+Pub. L. 105–178, §9010(b)(2)(A), substituted "$65" for "$60".
 
-Subsec. (f)(2)(B). Pub. L. 105–178, §9010(b)(2)(B), substituted “$175” for “$155”.
+Subsec. (f)(2)(B). Pub. L. 105–178, §9010(b)(2)(B), substituted "$175" for "$155".
 
-Subsec. (f)(4). Pub. L. 105–178, §9010(a)(1), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “Subsection (a)(5) shall not apply to any qualified transportation fringe unless such benefit is provided in addition to (and not in lieu of) any compensation otherwise payable to the employee. This paragraph shall not apply to any qualified parking provided in lieu of compensation which otherwise would have been includible in gross income of the employee, and no amount shall be included in the gross income of the employee solely because the employee may choose between the qualified parking and compensation.”
+Subsec. (f)(4). Pub. L. 105–178, §9010(a)(1), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "Subsection (a)(5) shall not apply to any qualified transportation fringe unless such benefit is provided in addition to (and not in lieu of) any compensation otherwise payable to the employee. This paragraph shall not apply to any qualified parking provided in lieu of compensation which otherwise would have been includible in gross income of the employee, and no amount shall be included in the gross income of the employee solely because the employee may choose between the qualified parking and compensation."
 
-Subsec. (f)(6). Pub. L. 105–178, §9010(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of any taxable year beginning in a calendar year after 1993, the dollar amounts contained in paragraph (2)(A) and (B) shall be increased by an amount equal to—
+Subsec. (f)(6). Pub. L. 105–178, §9010(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "In the case of any taxable year beginning in a calendar year after 1993, the dollar amounts contained in paragraph (2)(A) and (B) shall be increased by an amount equal to—
 
-&emsp;“(A) such dollar amount, multiplied by
+&emsp;"(A) such dollar amount, multiplied by
 
-&emsp;“(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins.
+&emsp;"(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins.
 
-> If any increase determined under the preceding sentence is not a multiple of $5, such increase shall be rounded to the next lowest multiple of $5.”
+> If any increase determined under the preceding sentence is not a multiple of $5, such increase shall be rounded to the next lowest multiple of $5."
 
 Subsec. (f)(6)(A). Pub. L. 105–178, §9010(c)(2), inserted concluding provisions.
 
-<b>1997</b>—Subsec. (e)(2). Pub. L. 105–34, §970(a), inserted at end of concluding provisions “For purposes of subparagraph (B), an employee entitled under section 119 to exclude the value of a meal provided at such facility shall be treated as having paid an amount for such meal equal to the direct operating costs of the facility attributable to such meal.”
+<b>1997</b>—Subsec. (e)(2). Pub. L. 105–34, §970(a), inserted at end of concluding provisions "For purposes of subparagraph (B), an employee entitled under section 119 to exclude the value of a meal provided at such facility shall be treated as having paid an amount for such meal equal to the direct operating costs of the facility attributable to such meal."
 
-Subsec. (f)(4). Pub. L. 105–34, §1072(a), inserted at end “This paragraph shall not apply to any qualified parking provided in lieu of compensation which otherwise would have been includible in gross income of the employee, and no amount shall be included in the gross income of the employee solely because the employee may choose between the qualified parking and compensation.”
+Subsec. (f)(4). Pub. L. 105–34, §1072(a), inserted at end "This paragraph shall not apply to any qualified parking provided in lieu of compensation which otherwise would have been includible in gross income of the employee, and no amount shall be included in the gross income of the employee solely because the employee may choose between the qualified parking and compensation."
 
 <b>1993</b>—Subsec. (a)(6). Pub. L. 103–66, §13213(d)(1), added par. (6).
 
-Subsec. (f)(6)(B). Pub. L. 103–66, §13201(b)(3)(F), struck out before period at end “, determined by substituting ‘calendar year 1992’ for ‘calendar year 1989’ in subparagraph (B) thereof”.
+Subsec. (f)(6)(B). Pub. L. 103–66, §13201(b)(3)(F), struck out before period at end ", determined by substituting 'calendar year 1992' for 'calendar year 1989' in subparagraph (B) thereof".
 
 Subsecs. (g), (h). Pub. L. 103–66, §13213(d)(2), added subsec. (g) and redesignated former subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (i)(8). Pub. L. 103–66, §13101(b), amended heading and text of par. (8) generally. Prior to amendment, text read as follows: “Amounts which would be excludible from gross income under section 127 but for subsection (a)(2) thereof or the last sentence of subsection (c)(1) thereof shall be excluded from gross income under this section if (and only if) such amounts are a working condition fringe.”
+Subsec. (i)(8). Pub. L. 103–66, §13101(b), amended heading and text of par. (8) generally. Prior to amendment, text read as follows: "Amounts which would be excludible from gross income under section 127 but for subsection (a)(2) thereof or the last sentence of subsection (c)(1) thereof shall be excluded from gross income under this section if (and only if) such amounts are a working condition fringe."
 
 Subsec. (j). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-Subsec. (j)(4)(B)(iii). Pub. L. 103–66, §13213(d)(3)(B), substituted “subsection (h)” for “subsection (f)”.
+Subsec. (j)(4)(B)(iii). Pub. L. 103–66, §13213(d)(3)(B), substituted "subsection (h)" for "subsection (f)".
 
 Subsec. (k). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (l).
 
-Subsec. (l). Pub. L. 103–66, §13213(d)(2), (3)(C), redesignated subsec. (k) as (l) and substituted “subsections (e) and (g)” for “subsection (e)”. Former subsec. (l) redesignated (m).
+Subsec. (l). Pub. L. 103–66, §13213(d)(2), (3)(C), redesignated subsec. (k) as (l) and substituted "subsections (e) and (g)" for "subsection (e)". Former subsec. (l) redesignated (m).
 
 Subsec. (m). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (l) as (m).
 
@@ -472,13 +472,13 @@ Subsec. (m). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (l) as (m).
 
 Subsecs. (f) to (h). Pub. L. 102–486, §1911(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 102–486, §1911(b), (c), redesignated subsec. (h) as (i), redesignated pars. (5) to (9) as (4) to (8), respectively, and struck out former par. (4), “Parking”, which read as follows: “The term ‘working condition fringe’ includes parking provided to an employee on or near the business premises of the employer.” Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 102–486, §1911(b), (c), redesignated subsec. (h) as (i), redesignated pars. (5) to (9) as (4) to (8), respectively, and struck out former par. (4), "Parking", which read as follows: "The term 'working condition fringe' includes parking provided to an employee on or near the business premises of the employer." Former subsec. (i) redesignated (j).
 
 Subsecs. (j) to (l). Pub. L. 102–486, §1911(b), redesignated subsecs. (i) to (k) as (j) to (l), respectively.
 
-<b>1989</b>—Subsec. (f)(2)(B). Pub. L. 101–239, §7841(d)(19), substituted “section 151(c)(3)” for “section 151(e)(3)” in introductory provisions.
+<b>1989</b>—Subsec. (f)(2)(B). Pub. L. 101–239, §7841(d)(19), substituted "section 151(c)(3)" for "section 151(e)(3)" in introductory provisions.
 
-Subsec. (h)(1). Pub. L. 101–239, §7841(d)(7), substituted “to highly compensated employees” for “to officers, etc.,” in heading.
+Subsec. (h)(1). Pub. L. 101–239, §7841(d)(7), substituted "to highly compensated employees" for "to officers, etc.," in heading.
 
 Pub. L. 101–140, §203(a)(2), amended par. (1) to read as if amendments by Pub. L. 100–647, §1011B(a)(31)(B), had not been enacted, see 1988 Amendment note below.
 
@@ -486,49 +486,49 @@ Pub. L. 101–140, §203(a)(1), amended par. (1) to read as if amendments by Pub
 
 Subsec. (h)(9). Pub. L. 101–239, §7101(b), added par. (9).
 
-<b>1988</b>—Subsec. (h)(1). Pub. L. 100–647, §1011B(a)(31)(B), substituted “there shall” for “there may be” and “who are” for “who may be” in last sentence.
+<b>1988</b>—Subsec. (h)(1). Pub. L. 100–647, §1011B(a)(31)(B), substituted "there shall" for "there may be" and "who are" for "who may be" in last sentence.
 
 Subsec. (h)(8). Pub. L. 100–647, §6066(a), added par. (8).
 
-<b>1986</b>—Subsec. (c)(3)(A). Pub. L. 99–514, §1853(a)(2), substituted “are provided by the employer to an employee for use by such employee” for “are provided to the employee by the employer”.
+<b>1986</b>—Subsec. (c)(3)(A). Pub. L. 99–514, §1853(a)(2), substituted "are provided by the employer to an employee for use by such employee" for "are provided to the employee by the employer".
 
-Subsec. (e)(2). Pub. L. 99–514, §1114(b)(5)(A), struck out “officer, owner, or” before “highly compensated employee” and “officers, owners, or” before “highly compensated employees” in last sentence.
+Subsec. (e)(2). Pub. L. 99–514, §1114(b)(5)(A), struck out "officer, owner, or" before "highly compensated employee" and "officers, owners, or" before "highly compensated employees" in last sentence.
 
-Subsec. (f)(2)(B)(ii). Pub. L. 99–514, §1853(a)(1), substituted “are deceased and who has not attained age 25” for “are deceased”.
+Subsec. (f)(2)(B)(ii). Pub. L. 99–514, §1853(a)(1), substituted "are deceased and who has not attained age 25" for "are deceased".
 
 Subsec. (f)(3). Pub. L. 99–272, §13207(a)(1), added par. (3).
 
-Subsec. (g). Pub. L. 99–514, §1151(e)(2)(A), in amending subsec. (g) generally, designated par. (2) as the entire subsection, struck out former subsec. heading, “Special rules relating to employer”, struck out “For purposes of this section—”, and struck out par. (1) which read as follows: “All employees treated as employed by a single employer under subsection (b), (c), or (m) of section 414 shall be treated as employed by a single employer for purposes of this section.”
+Subsec. (g). Pub. L. 99–514, §1151(e)(2)(A), in amending subsec. (g) generally, designated par. (2) as the entire subsection, struck out former subsec. heading, "Special rules relating to employer", struck out "For purposes of this section—", and struck out par. (1) which read as follows: "All employees treated as employed by a single employer under subsection (b), (c), or (m) of section 414 shall be treated as employed by a single employer for purposes of this section."
 
-Subsec. (h)(1). Pub. L. 99–514, §1151(g)(5), inserted “For purposes of this paragraph and subsection (e), there may be excluded from consideration employees who may be excluded from consideration under section 89(h).”
+Subsec. (h)(1). Pub. L. 99–514, §1151(g)(5), inserted "For purposes of this paragraph and subsection (e), there may be excluded from consideration employees who may be excluded from consideration under section 89(h)."
 
-Pub. L. 99–514, §1114(b)(5)(A), struck out “officer, owner, or” before “highly compensated employee” and “officers, owners, or” before “highly compensated employees”.
+Pub. L. 99–514, §1114(b)(5)(A), struck out "officer, owner, or" before "highly compensated employee" and "officers, owners, or" before "highly compensated employees".
 
-Subsec. (h)(3)(B)(i). Pub. L. 99–514, §1899A(5), substituted “such use is” for “such use in”.
+Subsec. (h)(3)(B)(i). Pub. L. 99–514, §1899A(5), substituted "such use is" for "such use in".
 
 Subsec. (h)(6). Pub. L. 99–272, §13207(b)(1), added par. (6).
 
 Subsec. (h)(7). Pub. L. 99–514, §1114(b)(5)(B), added par. (7).
 
-Subsec. (i). Pub. L. 99–514, §1853(a)(3), substituted “subsection (c)(2)” for “subsection (c)(2)(B)”.
+Subsec. (i). Pub. L. 99–514, §1853(a)(3), substituted "subsection (c)(2)" for "subsection (c)(2)(B)".
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–240, title II, §203(b), Jan. 2, 2013, 126 Stat. 2323, provided that: “The amendment made by this section \[amending this section\] shall apply to months after December 31, 2011.”
+Pub. L. 112–240, title II, §203(b), Jan. 2, 2013, 126 Stat. 2323, provided that: "The amendment made by this section \[amending this section\] shall apply to months after December 31, 2011."
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–312, title VII, §727(b), Dec. 17, 2010, 124 Stat. 3317, provided that: “The amendment made by this section \[amending this section\] shall apply to months after December 31, 2010.”
+Pub. L. 111–312, title VII, §727(b), Dec. 17, 2010, 124 Stat. 3317, provided that: "The amendment made by this section \[amending this section\] shall apply to months after December 31, 2010."
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–92, §14(b), Nov. 6, 2009, 123 Stat. 2996, provided that: “The amendments made by this act \[probably should be “this section”, amending this section\] shall apply to payments made after February 17, 2009.”
+Pub. L. 111–92, §14(b), Nov. 6, 2009, 123 Stat. 2996, provided that: "The amendments made by this act \[probably should be "this section", amending this section\] shall apply to payments made after February 17, 2009."
 
-Pub. L. 111–5, div. B, title I, §1151(b), Feb. 17, 2009, 123 Stat. 333, provided that: “The amendment made by this section \[amending this section\] shall apply to months beginning on or after the date of the enactment of this section \[Feb. 17, 2009\].”
+Pub. L. 111–5, div. B, title I, §1151(b), Feb. 17, 2009, 123 Stat. 333, provided that: "The amendment made by this section \[amending this section\] shall apply to months beginning on or after the date of the enactment of this section \[Feb. 17, 2009\]."
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. B, title II, §211(e), Oct. 3, 2008, 122 Stat. 3841, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
+Pub. L. 110–343, div. B, title II, §211(e), Oct. 3, 2008, 122 Stat. 3841, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
 
 #### Effective Date of 2004 Amendment
 
@@ -536,29 +536,29 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–121, title I, §103(c), Nov. 11, 2003, 117 Stat. 1338, provided that: “The amendments made by this section \[amending this section\] shall apply to payments made after the date of the enactment of this Act \[Nov. 11, 2003\].”
+Pub. L. 108–121, title I, §103(c), Nov. 11, 2003, 117 Stat. 1338, provided that: "The amendments made by this section \[amending this section\] shall apply to payments made after the date of the enactment of this Act \[Nov. 11, 2003\]."
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–16, title VI, §665(c), June 7, 2001, 115 Stat. 143, provided that: “The amendments made by this section \[amending this section\] shall apply to years beginning after December 31, 2001.”
+Pub. L. 107–16, title VI, §665(c), June 7, 2001, 115 Stat. 143, provided that: "The amendments made by this section \[amending this section\] shall apply to years beginning after December 31, 2001."
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–178, title IX, §9010(a)(2), June 9, 1998, 112 Stat. 507, provided that: “The amendment made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–178, title IX, §9010(a)(2), June 9, 1998, 112 Stat. 507, provided that: "The amendment made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1997."
 
-Pub. L. 105–178, title IX, §9010(b)(3), June 9, 1998, 112 Stat. 508, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1998.”
+Pub. L. 105–178, title IX, §9010(b)(3), June 9, 1998, 112 Stat. 508, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1998."
 
-Pub. L. 105–178, title IX, §9010(c)(3), June 9, 1998, 112 Stat. 508, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 2001.”
+Pub. L. 105–178, title IX, §9010(c)(3), June 9, 1998, 112 Stat. 508, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 2001."
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title IX, §970(b), Aug. 5, 1997, 111 Stat. 897, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title IX, §970(b), Aug. 5, 1997, 111 Stat. 897, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997."
 
-Pub. L. 105–34, title X, §1072(b), Aug. 5, 1997, 111 Stat. 948, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title X, §1072(b), Aug. 5, 1997, 111 Stat. 948, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997."
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13101(c)(2), Aug. 10, 1993, 107 Stat. 420, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1988.”
+Pub. L. 103–66, title XIII, §13101(c)(2), Aug. 10, 1993, 107 Stat. 420, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1988."
 
 Amendment by section 13201(b)(3)(F) of Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13201(c) of Pub. L. 103–66, set out as a note under section 1 of this title.
 
@@ -566,7 +566,7 @@ Amendment by section 13213(d)(1), (2), (3)(B) and (C) of Pub. L. 103–66 applic
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1911(d), Oct. 24, 1992, 106 Stat. 3014, provided that: “The amendments made by this section \[amending this section\] shall apply to benefits provided after December 31, 1992.”
+Pub. L. 102–486, title XIX, §1911(d), Oct. 24, 1992, 106 Stat. 3014, provided that: "The amendments made by this section \[amending this section\] shall apply to benefits provided after December 31, 1992."
 
 #### Effective Date of 1989 Amendment
 
@@ -578,7 +578,7 @@ Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. 
 
 Amendment by section 1011B(a)(31)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, §6066(b), Nov. 10, 1988, 102 Stat. 3703, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transportation furnished after December 31, 1987, in taxable years ending after such date.”
+Pub. L. 100–647, title VI, §6066(b), Nov. 10, 1988, 102 Stat. 3703, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to transportation furnished after December 31, 1987, in taxable years ending after such date."
 
 #### Effective Date of 1986 Amendment
 
@@ -588,13 +588,13 @@ Amendment by section 1151(e)(2)(A), (g)(5) of Pub. L. 99–514 applicable, with 
 
 Amendment by section 1853(a) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Pub. L. 99–272, title XIII, §13207(a)(2), Apr. 7, 1986, 100 Stat. 319, provided that: “The amendment made by this subsection \[amending this section\] shall take effect on January 1, 1985.”
+Pub. L. 99–272, title XIII, §13207(a)(2), Apr. 7, 1986, 100 Stat. 319, provided that: "The amendment made by this subsection \[amending this section\] shall take effect on January 1, 1985."
 
-Pub. L. 99–272, title XIII, §13207(b)(2), Apr. 7, 1986, 100 Stat. 320, provided that: “The amendment made by this subsection \[amending this section\] shall take effect on January 1, 1985.”
+Pub. L. 99–272, title XIII, §13207(b)(2), Apr. 7, 1986, 100 Stat. 320, provided that: "The amendment made by this subsection \[amending this section\] shall take effect on January 1, 1985."
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title V, §531(i), formerly §531(h), July 18, 1984, 98 Stat. 886, as redesignated by Pub. L. 99–272, title XIII, §13207(d), Apr. 7, 1986, 100 Stat. 320, provided that: “The amendments made by this section \[enacting this section and section 4977 of this title, amending sections 61, 125, 3121, 3231, 3306, 3401, 3501, and 6652 of this title and section 409 of Title 42, The Public Health and Welfare, redesignating former section 132 of this title as 133, and enacting provisions set out as notes under this section and section 125 of this title\] shall take effect on January 1, 1985.”
+Pub. L. 98–369, div. A, title V, §531(i), formerly §531(h), July 18, 1984, 98 Stat. 886, as redesignated by Pub. L. 99–272, title XIII, §13207(d), Apr. 7, 1986, 100 Stat. 320, provided that: "The amendments made by this section \[enacting this section and section 4977 of this title, amending sections 61, 125, 3121, 3231, 3306, 3401, 3501, and 6652 of this title and section 409 of Title 42, The Public Health and Welfare, redesignating former section 132 of this title as 133, and enacting provisions set out as notes under this section and section 125 of this title\] shall take effect on January 1, 1985."
 
 #### Regulations
 
@@ -612,71 +612,71 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 99–514, title XV, §1567, Oct. 22, 1986, 100 Stat. 2763, provided that:
 
-“(a)
+"(a)
 
 In General.—For purposes of sections 132 and 274 of the Internal Revenue Code of 1954 \[now 1986\], use of an automobile by a special agent of the Internal Revenue Service shall be treated in the same manner as use of an automobile by an officer of any other law enforcement agency.
 
-“(b)
+"(b)
 
-Effective Date.—The provisions of this section shall take effect on January 1, 1985.”
+Effective Date.—The provisions of this section shall take effect on January 1, 1985."
 
 #### Treatment of Certain Leased Operations of Department Stores
 
-Pub. L. 99–514, title XVIII, §1853(e), Oct. 22, 1986, 100 Stat. 2872, provided that: “For purposes of section 132(h)(2)(B) \[now 132(j)(2)(B)\] of the Internal Revenue Code of 1954 \[now 1986\], a leased section of a department store which, in connection with the offering of beautician services, customarily makes sales of beauty aids in the ordinary course of business shall be treated as engaged in over-the-counter sales of property.”
+Pub. L. 99–514, title XVIII, §1853(e), Oct. 22, 1986, 100 Stat. 2872, provided that: "For purposes of section 132(h)(2)(B) \[now 132(j)(2)(B)\] of the Internal Revenue Code of 1954 \[now 1986\], a leased section of a department store which, in connection with the offering of beautician services, customarily makes sales of beauty aids in the ordinary course of business shall be treated as engaged in over-the-counter sales of property."
 
 #### Transitional Rule for Determination of Line of Business in Case of Affiliated Group Operating Airline
 
-Pub. L. 99–272, title XIII, §13207(c), Apr. 7, 1986, 100 Stat. 320, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, as of September 12, 1984—
+Pub. L. 99–272, title XIII, §13207(c), Apr. 7, 1986, 100 Stat. 320, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If, as of September 12, 1984—
 
-&emsp;“(1) an individual—
+&emsp;"(1) an individual—
 
-&emsp;&emsp;“(A) was an employee (within the meaning of section 132 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], including subsection (f) \[now (h)\] thereof) of one member of an affiliated group (as defined in section 1504 of such Code), hereinafter referred to as the ‘first corporation’, and
+&emsp;&emsp;"(A) was an employee (within the meaning of section 132 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], including subsection (f) \[now (h)\] thereof) of one member of an affiliated group (as defined in section 1504 of such Code), hereinafter referred to as the 'first corporation', and
 
-&emsp;&emsp;“(B) was eligible for no-additional-cost service in the form of air transportation provided by another member of such affiliated group, hereinafter referred to as the ‘second corporation’,
+&emsp;&emsp;"(B) was eligible for no-additional-cost service in the form of air transportation provided by another member of such affiliated group, hereinafter referred to as the 'second corporation',
 
-&emsp;“(2) at least 50 percent of the individuals performing service for the first corporation were or had been employees of, or had previously performed services for, the second corporation, and
+&emsp;"(2) at least 50 percent of the individuals performing service for the first corporation were or had been employees of, or had previously performed services for, the second corporation, and
 
-&emsp;“(3) the primary business of the affiliated group was air transportation of passengers,
+&emsp;"(3) the primary business of the affiliated group was air transportation of passengers,
 
-> then, for purposes of applying paragraphs (1) and (2) of section 132(a) of the Internal Revenue Code of 1986, with respect to no-additional-cost services and qualified employee discounts provided after December 31, 1984, for such individual by the second corporation, the first corporation shall be treated as engaged in the same air transportation line of business as the second corporation. For purposes of the preceding sentence, an employee of the second corporation who is performing services for the first corporation shall also be treated as an employee of the first corporation.”
+> then, for purposes of applying paragraphs (1) and (2) of section 132(a) of the Internal Revenue Code of 1986, with respect to no-additional-cost services and qualified employee discounts provided after December 31, 1984, for such individual by the second corporation, the first corporation shall be treated as engaged in the same air transportation line of business as the second corporation. For purposes of the preceding sentence, an employee of the second corporation who is performing services for the first corporation shall also be treated as an employee of the first corporation."
 
 #### Special Rule for Services Related To Providing Air Transportation
 
 Pub. L. 98–369, div. A, title V, §531(g), as added by Pub. L. 99–272, title XIII, §13207(d), Apr. 7, 1986, 100 Stat. 320; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—If—
 
-&emsp;“(A) an individual performs services for a qualified air transportation organization, and
+&emsp;"(A) an individual performs services for a qualified air transportation organization, and
 
-&emsp;“(B) such services are performed primarily for persons engaged in providing air transportation and are of the kind which (if performed on September 12, 1984) would qualify such individual for no-additional-cost services in the form of air transportation,
+&emsp;"(B) such services are performed primarily for persons engaged in providing air transportation and are of the kind which (if performed on September 12, 1984) would qualify such individual for no-additional-cost services in the form of air transportation,
 
 > then, with respect to such individual, such qualified air transportation organization shall be treated as engaged in the line of business of providing air transportation.
 
-“(2)
+"(2)
 
-Qualified air transportation organization.—For purposes of paragraph (1), the term ‘qualified air transportation organization’ means any organization—
+Qualified air transportation organization.—For purposes of paragraph (1), the term 'qualified air transportation organization' means any organization—
 
-&emsp;“(A) if such organization (or a predecessor) was in existence on September 12, 1984,
+&emsp;"(A) if such organization (or a predecessor) was in existence on September 12, 1984,
 
-&emsp;“(B) if—
+&emsp;"(B) if—
 
-&emsp;&emsp;“(i) such organization is described in section 501(c)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and the membership of such organization is limited to entities engaged in the transportation by air of individuals or property for compensation or hire, or
+&emsp;&emsp;"(i) such organization is described in section 501(c)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and the membership of such organization is limited to entities engaged in the transportation by air of individuals or property for compensation or hire, or
 
-&emsp;&emsp;“(ii) such organization is a corporation all the stock of which is owned entirely by entities referred to in clause (i), and
+&emsp;&emsp;"(ii) such organization is a corporation all the stock of which is owned entirely by entities referred to in clause (i), and
 
-&emsp;“(C) if such organization is operated in furtherance of the activities of its members or owners.”
+&emsp;"(C) if such organization is operated in furtherance of the activities of its members or owners."
 
 #### Determination of Line of Business in Case of Affiliated Group Operating Retail Department Stores
 
-Pub. L. 98–369, div. A, title V, §531(f), July 18, 1984, 98 Stat. 886, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
+Pub. L. 98–369, div. A, title V, §531(f), July 18, 1984, 98 Stat. 886, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If—
 
-&emsp;“(1) as of October 5, 1983, the employees of one member of an affiliated group (as defined in section 1504 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] without regard to subsections (b)(2) and (b)(4) thereof) were entitled to employee discounts at the retail department stores operated by another member of such affiliated group, and
+&emsp;"(1) as of October 5, 1983, the employees of one member of an affiliated group (as defined in section 1504 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] without regard to subsections (b)(2) and (b)(4) thereof) were entitled to employee discounts at the retail department stores operated by another member of such affiliated group, and
 
-&emsp;“(2) the primary business of the affiliated group is the operation of retail department stores,
+&emsp;"(2) the primary business of the affiliated group is the operation of retail department stores,
 
-> then, for purpose of applying section 132(a)(2) of the Internal Revenue Code of 1986, with respect to discounts provided for such employees at the retail department stores operated by such other member, the employer shall be treated as engaged in the same line of business as such other member.”
+> then, for purpose of applying section 132(a)(2) of the Internal Revenue Code of 1986, with respect to discounts provided for such employees at the retail department stores operated by such other member, the employer shall be treated as engaged in the same line of business as such other member."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “performing”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "performing".</i>
 

@@ -24,13 +24,13 @@ Any financial institution or agent or employee thereof making a disclosure of fi
 
 The remedies and sanctions described in this chapter shall be the only authorized judicial remedies and sanctions for violations of this chapter.
 
-(Pub. L. 95–630, title XI, §1117, Nov. 10, 1978, 92 Stat. 3708; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36067, 92 Stat. 3783; Pub. L. 100–690, title VI, §6186(d), Nov. 18, 1988, 102 Stat. 4358.)
+(Pub. L. 95–630, title XI, §1117, Nov. 10, 1978, 92 Stat. 3708; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 100–690, title VI, §6186(d), Nov. 18, 1988, 102 Stat. 4358.)
 
 #### Amendments
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–690 inserted “or pursuant to the provisions of section 3413(l) of this title” after “Government authority” and “under this chapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State” after “such disclosure”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–690 inserted "or pursuant to the provisions of section 3413(l) of this title" after "Government authority" and "under this chapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State" after "such disclosure".
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” and “Director” substituted in subsec. (b) for “Civil Service Commission” and “Commission” pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+"Director of the Office of Personnel Management" and "Director" substituted in subsec. (b) for "Civil Service Commission" and "Commission" pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 

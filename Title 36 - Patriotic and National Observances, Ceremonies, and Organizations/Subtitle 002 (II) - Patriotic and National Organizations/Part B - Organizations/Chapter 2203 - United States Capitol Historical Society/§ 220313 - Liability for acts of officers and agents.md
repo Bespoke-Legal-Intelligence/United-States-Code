@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 20, 1978, Pub. L. 95–493, §10, 92 Stat. 1646.
 
-The word “when” is omitted as unnecessary.
+The word "when" is omitted as unnecessary.
 

@@ -4,9 +4,9 @@
 
 Definitions.—In this section—
 
-&emsp;(1) “schoolbus” means a passenger motor vehicle designed to carry a driver and more than 10 passengers, that the Secretary of Transportation decides is likely to be used significantly to transport preprimary, primary, and secondary school students to or from school or an event related to school.
+&emsp;(1) "schoolbus" means a passenger motor vehicle designed to carry a driver and more than 10 passengers, that the Secretary of Transportation decides is likely to be used significantly to transport preprimary, primary, and secondary school students to or from school or an event related to school.
 
-&emsp;(2) “schoolbus equipment” means equipment designed primarily for a schoolbus or manufactured or sold to replace or improve a system, part, or component of a schoolbus or as an accessory or addition to a schoolbus.
+&emsp;(2) "schoolbus equipment" means equipment designed primarily for a schoolbus or manufactured or sold to replace or improve a system, part, or component of a schoolbus or as an accessory or addition to a schoolbus.
 
 (b)
 
@@ -30,7 +30,7 @@ Standards.—The Secretary shall prescribe motor vehicle safety standards for sc
 
 (c)
 
-Test Driving by Manufacturers.—The Secretary may require by regulation a schoolbus to be test-driven by a manufacturer before introduction in commerce.
+Test Driving by Manufacturers.—The Secretary may require by regulation a schoolbusto be test-driven by a manufacturer before introduction in commerce.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 957.)
 
@@ -66,11 +66,11 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §103(i)(1), (2); added Oct. 27, 
 
 Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(a)(1)(F); added Oct. 27, 1974, Pub. L. 93–492, §203, 88 Stat. 1485.
 
-In subsection (a)(1), the words “the purpose of” are omitted as surplus.
+In subsection (a)(1), the words "the purpose of" are omitted as surplus.
 
-In subsection (a)(2), the words “any similar part or component” are omitted as surplus.
+In subsection (a)(2), the words "any similar part or component" are omitted as surplus.
 
-In subsection (b), before clause (1), the text of 15:1392(i)(1)(A) (1st sentence) and (B) (words before 2d comma) is omitted as executed. The word “prescribe” is substituted for “promulgate”, and the word “Federal” is omitted, for consistency. The words “Such proposed standards” and “those aspects of performance set out in clauses (i) through (viii) of subparagraph (A) of this paragraph” are omitted because of the restatement. The word “requirements” is substituted for “standards” to avoid using “standards” in 2 different ways. The text of 15:1392(i)(1)(B) (last 6 words) is omitted as executed.
+In subsection (b), before clause (1), the text of 15:1392(i)(1)(A) (1st sentence) and (B) (words before 2d comma) is omitted as executed. The word "prescribe" is substituted for "promulgate", and the word "Federal" is omitted, for consistency. The words "Such proposed standards" and "those aspects of performance set out in clauses (i) through (viii) of subparagraph (A) of this paragraph" are omitted because of the restatement. The word "requirements" is substituted for "standards" to avoid using "standards" in 2 different ways. The text of 15:1392(i)(1)(B) (last 6 words) is omitted as executed.
 
 In subsection (c), the text of 15:1397(a)(1)(F) is omitted as unnecessary because of the restatement.
 

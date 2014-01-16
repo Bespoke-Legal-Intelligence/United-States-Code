@@ -68,7 +68,7 @@ Timeliness and accuracy.—The Administrator of General Services shall develop p
 
 &emsp;(3)
 
-Information on corporations.—The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
+Information on corporations.—The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary,or successor entities to the corporation in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
 
 (e)
 
@@ -106,9 +106,9 @@ Rulemaking.—The Administrator of General Services shall prescribe regulations 
 
 #### Amendments Not Shown in Text
 
-<i>This section was derived from section 417b of former Title 41, Public Contracts, which was amended by Pub. L. 111–212, title III, §3010, July 29, 2010, 124 Stat. 2340, and Pub. L. 111–383, div. A, title VIII, §834(d), Jan. 7, 2011, 124 Stat. 4279, prior to being repealed and reenacted as this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 417b of former Title 41 was amended by adding at the end of subsec. (e)(1) the following: “In addition, the Administrator shall post all such information, excluding past performance reviews, on a publicly available Internet website.” and by adding at the end of subsec. (c)(1) the following new subparagraph:</i>
+<i>This section was derived from section 417b of former Title 41, Public Contracts, which was amended by Pub. L. 111–212, title III, §3010, July 29, 2010, 124 Stat. 2340, and Pub. L. 111–383, div. A, title VIII, §834(d), Jan. 7, 2011, 124 Stat. 4279, prior to being repealed and reenacted as this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 417b of former Title 41 was amended by adding at the end of subsec. (e)(1) the following: "In addition, the Administrator shall post all such information, excluding past performance reviews, on a publicly available Internet website." and by adding at the end of subsec. (c)(1) the following new subparagraph:</i>
 
-&emsp;&emsp;<i>“(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 (10 U.S.C. 2302 note).”</i>
+&emsp;&emsp;<i>"(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 (10 U.S.C. 2302 note)."</i>
 
 Historical and Revision Notes
 
@@ -126,13 +126,13 @@ Historical and Revision Notes
 
 Pub. L. 110–417, \[div. A\], title VIII, §872, Oct. 14, 2008, 122 Stat. 4555.
 
-In subsection (a), the words “not later than one year after the date of the enactment of this Act” are omitted because of section 6(f) of the bill.
+In subsection (a), the words "not later than one year after the date of the enactment of this Act" are omitted because of section 6(f) of the bill.
 
-In subsection (c)(7), the word “practicable” is substituted for “practical” to correct an error in the law.
+In subsection (c)(7), the word "practicable" is substituted for "practical" to correct an error in the law.
 
-In subsection (f), the words “Not later than one year after the date of the enactment of this Act” are omitted because of section 6(f) of the bill. The words “shall require” are substituted for “shall be amended to require” to reflect the permanence of the provision.
+In subsection (f), the words "Not later than one year after the date of the enactment of this Act" are omitted because of section 6(f) of the bill. The words "shall require" are substituted for "shall be amended to require" to reflect the permanence of the provision.
 
-In subsection (f)(2), the words “the information submitted under paragraph (1)” are substituted for “such information” for clarity.
+In subsection (f)(2), the words "the information submitted under paragraph (1)" are substituted for "such information" for clarity.
 
 #### References in Text
 
@@ -140,15 +140,15 @@ Section 1704(b) of the National Defense Authorization Act for Fiscal Year 2013, 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(1)(E). Pub. L. 112–239, §1704(d)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E), as added by Pub. L. 111–383, §834(d), read as follows: “(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 (10 U.S.C. 2302 note).” See Amendments Not Shown in Text note above.
+<b>2013</b>—Subsec. (c)(1)(E). Pub. L. 112–239, §1704(d)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E), as added by Pub. L. 111–383, §834(d), read as follows: "(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 (10 U.S.C. 2302 note)." See Amendments Not Shown in Text note above.
 
 Subsec. (d)(3). Pub. L. 112–239, §852, added par. (3).
 
 #### Deadline for Establishing Database
 
-Pub. L. 111–350, §6(f)(3), Jan. 4, 2011, 124 Stat. 3855, provided that: “The requirement in section 2313(a) of title 41, United States Code, to establish a database shall be done not later than one year after October 14, 2008.”
+Pub. L. 111–350, §6(f)(3), Jan. 4, 2011, 124 Stat. 3855, provided that: "The requirement in section 2313(a) of title 41, United States Code, to establish a database shall be done not later than one year after October 14, 2008."
 
 #### Deadline for Amending Federal Acquisition Regulation
 
-Pub. L. 111–350, §6(f)(4), Jan. 4, 2011, 124 Stat. 3855, provided that: “The Federal Acquisition Regulation shall be amended to meet the requirements of sections 2313(f), 3302(b) and (d), 4710(b), and 4711(b) of title 41, United States Code, not later than one year after October 14, 2008.”
+Pub. L. 111–350, §6(f)(4), Jan. 4, 2011, 124 Stat. 3855, provided that: "The Federal Acquisition Regulation shall be amended to meet the requirements of sections 2313(f), 3302(b) and (d), 4710(b), and 4711(b) of title 41, United States Code, not later than one year after October 14, 2008."
 

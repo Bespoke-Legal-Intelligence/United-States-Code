@@ -6,7 +6,7 @@ In addition to the criminal penalty provided by section 7204, any person require
 
 #### Amendments
 
-<b>1965</b>—Pub. L. 89–97 substituted “6051 or 6053(b)” for “6051” wherever appearing.
+<b>1965</b>—Pub. L. 89–97 substituted "6051 or 6053(b)" for "6051" wherever appearing.
 
 #### Effective Date of 1965 Amendment
 

@@ -18,7 +18,7 @@ Award of fees.—In any judicial proceeding under this subsection, the court may
 
 #### (c) Additional evidence
 
-In any judicial proceeding brought under subsection (b) of this section in which review is sought of a determination under this chapter required to be made on the record after notice and opportunity for hearing, if any party applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the courtthat such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Administrator, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Administrator, in such manner and upon such terms and conditions as the court may deem proper. The Administrator may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken and he shall file such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original determination, with the return of such additional evidence.
+In any judicial proceeding brought under subsection (b) of this section in which review is sought of a determination under this chapter required to be made on the record after notice and opportunity for hearing, if any party applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Administrator, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Administrator, in such manner and upon such terms and conditions as the court may deem proper. The Administrator may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken and he shall file such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original determination, with the return of such additional evidence.
 
 (June 30, 1948, ch. 758, title V, §509, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 891; amended Pub. L. 93–207, §1(6), Dec. 28, 1973, 87 Stat. 906; Pub. L. 100–4, title III, §308(b), title IV, §406(d)(3), title V, §505(a), (b), Feb. 4, 1987, 101 Stat. 39, 73, 75; Pub. L. 100–236, §2, Jan. 8, 1988, 101 Stat. 1732.)
 
@@ -26,11 +26,11 @@ In any judicial proceeding brought under subsection (b) of this section in which
 
 <b>1988</b>—Subsec. (b)(3), (4). Pub. L. 100–236 redesignated par. (4) as (3) and struck out former par. (3) relating to venue, which provided for selection procedure in subpar. (A), administrative provisions in subpar. (B), and transfers in subpar. (C).
 
-<b>1987</b>—Subsec. (b)(1). Pub. L. 100–4, §§308(b), 406(d)(3), 505(a), substituted “transacts business which is directly affected by such action” for “transacts such business”, “120” for “ninety”, and “120th” for “ninetieth”, substituted “1316, or 1345 of this title” for “or 1316 of this title” in cl. (E), and added cl. (G).
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–4, §§308(b), 406(d)(3), 505(a), substituted "transacts business which is directly affected by such action" for "transacts such business", "120" for "ninety", and "120th" for "ninetieth", substituted "1316, or 1345 of this title" for "or 1316 of this title" in cl. (E), and added cl. (G).
 
 Subsec. (b)(3), (4). Pub. L. 100–4, §505(b), added pars. (3) and (4).
 
-<b>1973</b>—Subsec. (b)(1)(C). Pub. L. 93–207 substituted “pretreatment” for “treatment”.
+<b>1973</b>—Subsec. (b)(1)(C). Pub. L. 93–207 substituted "pretreatment" for "treatment".
 
 #### Effective Date of 1988 Amendment
 

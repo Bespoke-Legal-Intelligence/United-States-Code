@@ -24,7 +24,7 @@ Another prior section 2397 and prior sections 2397a to 2397h were omitted in the
 
 Section 2397, Pub. L. 88–210, title III, §382, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 800, stated purpose of program to assist tribally controlled postsecondary vocational institutions.
 
-Section 2397a, Pub. L. 88–210, title III, §383, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat.800, authorized grants to tribally controlled postsecondary vocational institutions.
+Section 2397a, Pub. L. 88–210, title III, §383, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 800, authorized grants to tribally controlled postsecondary vocational institutions.
 
 Section 2397b, Pub. L. 88–210, title III, §384, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 800, related to eligible grant recipients.
 
@@ -42,5 +42,5 @@ Section 2397h, Pub. L. 88–210, title III, §390, as added Pub. L. 101–392, t
 
 #### Short Title
 
-Pub. L. 88–210, title III, §381, as added by Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 799, which provided that part H of title III of Pub. L. 88–210, enacting part H (§2397 et seq.) of former subchapter III of this chapter, could be cited as the “Tribally Controlled Vocational Institutions Support Act of 1990”, was omitted in the general amendment of Pub. L. 88–210 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+Pub. L. 88–210, title III, §381, as added by Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 799, which provided that part H of title III of Pub. L. 88–210, enacting part H (§2397 et seq.) of former subchapter III of this chapter, could be cited as the "Tribally Controlled Vocational Institutions Support Act of 1990", was omitted in the general amendment of Pub. L. 88–210 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 

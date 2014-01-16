@@ -6,7 +6,7 @@ For the efficient execution of the provisions of this chapter, and in order to p
 
 #### Amendments
 
-<b>1935</b>—Act Aug. 15, 1921, §503, as added Aug. 14, 1935, purported to insert “or any live poultry dealer or handler” after “packer” but word “packer” does not appear in this section.
+<b>1935</b>—Act Aug. 15, 1921, §503, as added Aug. 14, 1935, purported to insert "or any live poultry dealer or handler" after "packer" but word "packer" does not appear in this section.
 
 #### Transfer of Functions
 

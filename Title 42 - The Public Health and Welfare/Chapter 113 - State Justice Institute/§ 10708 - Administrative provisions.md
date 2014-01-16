@@ -8,9 +8,9 @@
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 10701 of this title and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 10701 of this title and Tables.
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–702 substituted “Administrative provisions” for “Special procedures” in section catchline, and amended text generally, changing structure of section from a single unlettered paragraph to one consisting of subsecs. (a) and (b).
+<b>1988</b>—Pub. L. 100–702 substituted "Administrative provisions" for "Special procedures" in section catchline, and amended text generally, changing structure of section from a single unlettered paragraph to one consisting of subsecs. (a) and (b).
 

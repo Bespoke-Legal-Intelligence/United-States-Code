@@ -18,7 +18,7 @@ In general.—Not later than October 1, 2012, the Office of Management and Budge
 
 Information.—Information for each program described under paragraph (1) shall include—
 
-&emsp;&emsp;(A) an identification of how the agency defines the term “program”, consistent with guidance provided by the Director of the Office of Management and Budget, including the program activities that are aggregated, disaggregated, or consolidated to be considered a program by the agency;
+&emsp;&emsp;(A) an identification of how the agency defines the term "program", consistent with guidance provided by the Director of the Office of Management and Budget, including the program activities that are aggregated, disaggregated, or consolidated to be considered a program by the agency;
 
 &emsp;&emsp;(B) a description of the purposes of the program and the contribution of the program to the mission and goals of the agency; and
 

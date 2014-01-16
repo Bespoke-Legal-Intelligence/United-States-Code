@@ -28,15 +28,15 @@ A prior section 272 of Pub. L. 94–462 was renumbered section 273 and is classi
 
 #### Amendments
 
-<b>2010</b>—Par. (3). Pub. L. 111–340, §301(1), inserted “through international, national, regional, State, and local networks and partnerships” after “services”.
+<b>2010</b>—Par. (3). Pub. L. 111–340, §301(1), inserted "through international, national, regional, State, and local networks and partnerships" after "services".
 
 Pars. (7) to (9). Pub. L. 111–340, §301(2)–(4), added pars. (7) to (9).
 
-<b>2003</b>—Pub. L. 108–81, §301, amended section catchline and text generally. Prior to amendment, text read as follows: “It is the purpose of this subchapter—
+<b>2003</b>—Pub. L. 108–81, §301, amended section catchline and text generally. Prior to amendment, text read as follows: "It is the purpose of this subchapter—
 
-&emsp;“(1) to encourage and assist museums in their educational role, in conjunction with formal systems of elementary, secondary, and postsecondary education and with programs of nonformal education for all age groups;
+&emsp;"(1) to encourage and assist museums in their educational role, in conjunction with formal systems of elementary, secondary, and postsecondary education and with programs of nonformal education for all age groups;
 
-&emsp;“(2) to assist museums in modernizing their methods and facilities so that the museums are better able to conserve the cultural, historic, and scientific heritage of the United States; and
+&emsp;"(2) to assist museums in modernizing their methods and facilities so that the museums are better able to conserve the cultural, historic, and scientific heritage of the United States; and
 
-&emsp;“(3) to ease the financial burden borne by museums as a result of their increasing use by the public.”
+&emsp;"(3) to ease the financial burden borne by museums as a result of their increasing use by the public."
 

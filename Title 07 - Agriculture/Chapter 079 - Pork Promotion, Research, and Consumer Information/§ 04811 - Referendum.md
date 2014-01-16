@@ -28,5 +28,5 @@ A referendum to amend the initial order shall be conducted pursuant to this sect
 
 (Pub. L. 99–198, title XVI, §1622, Dec. 23, 1985, 99 Stat. 1618.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “in”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "in".</i>
 

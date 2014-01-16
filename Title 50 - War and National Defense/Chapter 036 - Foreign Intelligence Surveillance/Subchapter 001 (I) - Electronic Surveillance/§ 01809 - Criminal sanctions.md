@@ -24,15 +24,15 @@ There is Federal jurisdiction over an offense under this section if the person c
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–259, §801(3)(A), substituted “section 1812 of this title;” for “section 1812 of this title.;”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–259, §801(3)(A), substituted "section 1812 of this title;" for "section 1812 of this title.;".
 
-Subsec. (a)(2). Pub. L. 111–259, §801(3)(B), substituted “title.” for “title..”
+Subsec. (a)(2). Pub. L. 111–259, §801(3)(B), substituted "title." for "title.."
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–261 substituted “authorized by this chapter, chapter 119, 121, or 206 of title 18, or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under section 1812 of this title.” for “authorized by statute” in pars. (1) and (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–261 substituted "authorized by this chapter, chapter 119, 121, or 206 of title 18, or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under section 1812 of this title." for "authorized by statute" in pars. (1) and (2).
 
 #### Effective Date of 2008 Amendment
 

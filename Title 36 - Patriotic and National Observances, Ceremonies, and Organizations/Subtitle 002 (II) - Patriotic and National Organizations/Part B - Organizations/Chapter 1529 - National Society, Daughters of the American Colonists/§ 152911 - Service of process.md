@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 30, 1984, Pub. L. 98–561, §4, 98 Stat. 2910.
 
-The words “in furtherance of its corporate purposes” are omitted as unnecessary.
+The words "in furtherance of its corporate purposes" are omitted as unnecessary.
 

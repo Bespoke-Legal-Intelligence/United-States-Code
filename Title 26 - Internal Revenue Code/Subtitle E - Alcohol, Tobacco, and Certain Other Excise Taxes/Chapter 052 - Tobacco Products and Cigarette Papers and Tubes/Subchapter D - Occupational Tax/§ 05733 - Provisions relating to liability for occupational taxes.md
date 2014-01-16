@@ -20,7 +20,7 @@ Whenever more than one of the pursuits or occupations described in this subchapt
 
 #### (3) Definition of place
 
-&emsp;The term “place” as used in this section means the entire office, plant or area of the business in any one location under the same proprietorship; and passageways, streets, highways, rail crossings, waterways, or partitions dividing the premises, shall not be deemed sufficient separation to require additional special tax, if the various divisions are otherwise contiguous.
+&emsp;The term "place" as used in this section means the entire office, plant or area of the business in any one location under the same proprietorship; and passageways, streets, highways, rail crossings, waterways, or partitions dividing the premises, shall not be deemed sufficient separation to require additional special tax, if the various divisions are otherwise contiguous.
 
 #### (d) Death or change of location
 
@@ -44,11 +44,11 @@ Any tax imposed by this subchapter shall apply to any agency or instrumentality 
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–59, §11125(b)(20)(A), renumbered section 5143 of this title as this section, transferred section to this subchapter, and substituted “this subchapter” for “this part” wherever appearing.
+<b>2005</b>—Pub. L. 109–59, §11125(b)(20)(A), renumbered section 5143 of this title as this section, transferred section to this subchapter, and substituted "this subchapter" for "this part" wherever appearing.
 
-Subsec. (c)(2). Pub. L. 109–59, §11125(b)(20)(C), substituted “tobacco products and cigarette papers and tubes” for “liquors” in two places.
+Subsec. (c)(2). Pub. L. 109–59, §11125(b)(20)(C), substituted "tobacco products and cigarette papers and tubes" for "liquors" in two places.
 
-<b>1976</b>—Subsec. (d)(4). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (d)(4). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 2005 Amendment
 

@@ -8,7 +8,7 @@ The Secretary shall ensure that all the geospatial data of the agencies of the D
 
 #### (1) Definition of agricultural operation
 
-&emsp;In this subsection, the term “agricultural operation” includes the production and marketing of agricultural commodities and livestock.
+&emsp;In this subsection, the term "agricultural operation" includes the production and marketing of agricultural commodities and livestock.
 
 #### (2) Prohibition
 

@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the “United States Energy Storage Competitiveness Act of 2007”.
+This section may be cited as the "United States Energy Storage Competitiveness Act of 2007".
 
 #### (b) Definitions
 
@@ -10,15 +10,15 @@ In this section:
 
 #### (1) Council
 
-&emsp;The term “Council” means the Energy Storage Advisory Council established under subsection (e).
+&emsp;The term "Council" means the Energy Storage Advisory Council established under subsection (e).
 
 #### (2) Compressed air energy storage
 
-&emsp;The term “compressed air energy storage” means, in the case of an electricity grid application, the storage of energy through the compression of air.
+&emsp;The term "compressed air energy storage" means, in the case of an electricity grid application, the storage of energy through the compression of air.
 
 #### (3) Electric drive vehicle
 
-&emsp;The term “electric drive vehicle” means—
+&emsp;The term "electric drive vehicle" means—
 
 &emsp;&emsp;(A) a vehicle that uses an electric motor for all or part of the motive power of the vehicle, including battery electric, hybrid electric, plug-in hybrid electric, fuel cell, and plug-in fuel cell vehicles and rail transportation vehicles; or
 
@@ -26,27 +26,27 @@ In this section:
 
 #### (4) Islanding
 
-&emsp;The term “islanding” means a distributed generator or energy storage device continuing to power a location in the absence of electric power from the primary source.
+&emsp;The term "islanding" means a distributed generator or energy storage device continuing to power a location in the absence of electric power from the primary source.
 
 #### (5) Flywheel
 
-&emsp;The term “flywheel” means, in the case of an electricity grid application, a device used to store rotational kinetic energy.
+&emsp;The term "flywheel" means, in the case of an electricity grid application, a device used to store rotational kinetic energy.
 
 #### (6) Microgrid
 
-&emsp;The term “microgrid” means an integrated energy system consisting of interconnected loads and distributed energy resources (including generators and energy storage devices), which as an integrated system can operate in parallel with the utility grid or in an intentional islanding mode.
+&emsp;The term "microgrid" means an integrated energy system consisting of interconnected loads and distributed energy resources (including generators and energy storage devices), which as an integrated system can operate in parallel with the utility grid or in an intentional islanding mode.
 
 #### (7) Self-healing grid
 
-&emsp;The term “self-healing grid” means a grid that is capable of automatically anticipating and responding to power system disturbances (including the isolation of failed sections and components), while optimizing the performance and service of the grid to customers.
+&emsp;The term "self-healing grid" means a grid that is capable of automatically anticipating and responding to power system disturbances (including the isolation of failed sections and components), while optimizing the performance and service of the grid to customers.
 
 #### (8) Spinning reserve services
 
-&emsp;The term “spinning reserve services” means a quantity of electric generating capacity in excess of the quantity needed to meet peak electric demand.
+&emsp;The term "spinning reserve services" means a quantity of electric generating capacity in excess of the quantity needed to meet peak electric demand.
 
 #### (9) Ultracapacitor
 
-&emsp;The term “ultracapacitor” means an energy storage device that has a power density comparable to a conventional capacitor but is capable of exceeding the energy density of a conventional capacitor by several orders of magnitude.
+&emsp;The term "ultracapacitor" means an energy storage device that has a power density comparable to a conventional capacitor but is capable of exceeding the energy density of a conventional capacitor by several orders of magnitude.
 
 #### (c) Program
 
@@ -118,7 +118,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (2) Nanoscience centers
 
-&emsp;The Secretary, in cooperation with the Council, shall coordinate the activities of the nanoscience centers of the Department to help the energy storage research centers of the Department maintain a globally competitive posture in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.
+&emsp;The Secretary, in cooperation with the Council, shall coordinate the activities of thenanoscience centers of the Department to help the energy storage research centers of the Department maintain a globally competitive posture in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.
 
 #### (3) Funding
 
@@ -336,7 +336,7 @@ There are authorized to be appropriated to carry out—
 
 The Federal Advisory Committee Act, referred to in subsec. (e)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 

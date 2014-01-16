@@ -6,9 +6,9 @@
 
 &emsp;In addition to other disclosures required under this subchapter, for each mortgage referred to in section 1602(aa) <sup>1</sup> of this title, the creditor shall provide the following disclosures in conspicuous type size:
 
-&emsp;&emsp;(A) “You are not required to complete this agreement merely because you have received these disclosures or have signed a loan application.”.
+&emsp;&emsp;(A) "You are not required to complete this agreement merely because you have received these disclosures or have signed a loan application.".
 
-&emsp;&emsp;(B) “If you obtain this loan, the lender will have a mortgage on your home. You could lose your home, and any money you have put into it, if you do not meet your obligations under the loan.”.
+&emsp;&emsp;(B) "If you obtain this loan, the lender will have a mortgage on your home. You could lose your home, and any money you have put into it, if you do not meet your obligations under the loan.".
 
 #### (2) Annual percentage rate
 
@@ -76,7 +76,7 @@ A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not i
 
 #### (h) Prohibition on extending credit without regard to payment ability of consumer
 
-A creditor shall not engage in a pattern or practice of extending credit to consumers under mortgages referred to in section 1602(aa) <sup>1</sup> of this title based on the consumers’ collateral without regard to the consumers’ repayment ability, including the consumers’ current and expected income, current obligations, and employment.
+A creditor shall not engage in a pattern or practice of extending credit to consumers under mortgages referred to in section 1602(aa) <sup>1</sup> of this title based on the consumers' collateral without regard to the consumers' repayment ability, including the consumers' current and expected income, current obligations, and employment.
 
 #### (i) Requirements for payments under home improvement contracts
 
@@ -106,7 +106,7 @@ No creditor shall recommend or encourage default on an existing loan or other de
 
 #### (2) Coordination with subsequent late fees
 
-&emsp;If a payment is otherwise a full payment for the applicable period and is paid on its due date or within an applicable grace period, and the only delinquency or insufficiency of payment is attributable to any late fee or delinquency charge assessed on any earlier payment, no late fee or delinquency charge may be imposed on such payment.
+&emsp;If a payment is otherwise a full payment for the applicable period and is paid on its duedate or within an applicable grace period, and the only delinquency or insufficiency of payment is attributable to any late fee or delinquency charge assessed on any earlier payment, no late fee or delinquency charge may be imposed on such payment.
 
 #### (3) Failure to make installment payment
 
@@ -128,9 +128,9 @@ No creditor may directly or indirectly finance, in connection with any high-cost
 
 Any mortgage that contains a provision prohibited by this section shall be deemed a failure to deliver the material disclosures required under this subchapter, for the purpose of section 1635 of this title.
 
-#### (o) “Affiliate” defined
+#### (o) "Affiliate" defined
 
-For purposes of this section, the term “affiliate” has the same meaning as in section 1841(k) of title 12.
+For purposes of this section, the term "affiliate" has the same meaning as in section 1841(k) of title 12.
 
 #### (p) Discretionary regulatory authority of Bureau
 
@@ -188,7 +188,7 @@ A creditor, successor in interest, assignee, or any agent of any of the above, m
 
 #### (2) Prompt delivery
 
-&emsp;Payoff balances shall be provided within 5 business days after receiving a request by a consumer or a person authorized by the consumer to obtain such information.
+&emsp;Payoff balances shall be provided within 5 business days after receiving a request by aconsumer or a person authorized by the consumer to obtain such information.
 
 #### (u) Pre-loan counseling
 
@@ -234,17 +234,17 @@ A prior section 1639, Pub. L. 90–321, title I, §129, May 29, 1968, 82 Stat. 1
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board" wherever appearing.
 
 Subsec. (c)(2). Pub. L. 111–203, §1432(a), struck out par. (2) which related to exception to prepayment penalty prohibition.
 
-Subsec. (e). Pub. L. 111–203, §1432(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “A mortgage referred to in section 1602(aa) of this title having a term of less than 5 years may not include terms under which the aggregate amount of the regular periodic payments would not fully amortize the outstanding principal balance.”
+Subsec. (e). Pub. L. 111–203, §1432(b), amended subsec. (e) generally. Prior to amendment, text read as follows: "A mortgage referred to in section 1602(aa) of this title having a term of less than 5 years may not include terms under which the aggregate amount of the regular periodic payments would not fully amortize the outstanding principal balance."
 
 Subsecs. (j) to (l). Pub. L. 111–203, §1433(a)(2), added subsecs. (j) to (l). Former subsecs. (j) to (l) redesignated (n) to (p), respectively.
 
 Subsec. (m). Pub. L. 111–203, §1433(a)(2), added subsec. (m). Former subsec. (m) redesignated (q).
 
-Pub. L. 111–203, §1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: “For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (l)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.”
+Pub. L. 111–203, §1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: "For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (l)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices."
 
 Subsecs. (n) to (q). Pub. L. 111–203, §1433(a)(1), redesignated former subsecs. (j) to (m) as (n) to (q), respectively.
 
@@ -262,7 +262,7 @@ Amendment by sections 1432 and 1433 of Pub. L. 111–203 effective on the date o
 
 <i><sup>2</sup></i><i> So in original. There is no par. (2).</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "section".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “Bureau”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "Bureau".</i>
 

@@ -44,13 +44,13 @@ Dec. 29, 1979, Pub. L. 96–165, §5(b)–(d), 93 Stat. 1270.
 
 &nbsp;
 
-In subsection (a)(1), the words “The board of governors is the governing body of the corporation” are substituted for “The management of the corporation shall be entrusted to a board of governors” for consistency in the revised title.
+In subsection (a)(1), the words "The board of governors is the governing body of the corporation" are substituted for "The management of the corporation shall be entrusted to a board of governors" for consistency in the revised title.
 
-In subsection (a)(2), the text of 36:1305(b) (2d sentence) and the word “Thereafter” are omitted as executed and obsolete.
+In subsection (a)(2), the text of 36:1305(b) (2d sentence) and the word "Thereafter" are omitted as executed and obsolete.
 
-In subsection (b)(1), the word “offered” is substituted for “tendered” to use a more common word.
+In subsection (b)(1), the word "offered" is substituted for "tendered" to use a more common word.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(2)(B). Pub. L. 109–284 substituted “Defense” for “State”.
+<b>2006</b>—Subsec. (a)(2)(B). Pub. L. 109–284 substituted "Defense" for "State".
 

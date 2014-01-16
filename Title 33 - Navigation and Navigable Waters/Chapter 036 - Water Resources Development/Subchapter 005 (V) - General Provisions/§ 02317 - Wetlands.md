@@ -112,13 +112,13 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e)(2) of this section is listed on page 70), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e)(2) of this section is listed on page 70), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Wetlands Enhancement Opportunities
 
-Pub. L. 101–640, title IV, §409, Nov. 28, 1990, 104 Stat. 4648, provided that: “Not later than January 20, 1992, the Secretary shall transmit to Congress a list which specifically identifies opportunities of enhancing wetlands in connection with construction and operation of water resource projects.”
+Pub. L. 101–640, title IV, §409, Nov. 28, 1990, 104 Stat. 4648, provided that: "Not later than January 20, 1992, the Secretary shall transmit to Congress a list which specifically identifies opportunities of enhancing wetlands in connection with construction and operation of water resource projects."
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 

@@ -30,5 +30,5 @@ Rule 42 of the Federal Rules of Criminal Procedure, referred to in subsec. (b), 
 
 #### Amendments
 
-<b>1980</b>—Subsecs. (a), (e). Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
+<b>1980</b>—Subsecs. (a), (e). Pub. L. 96–399 substituted "manufactured home" for "mobile home" wherever appearing.
 

@@ -16,7 +16,7 @@
 
 (2) The Secretary may prescribe different and individual performance standards, to the extent appropriate and feasible, for different electronic products so as to recognize their different operating characteristics and uses.
 
-(3) The performance standards prescribed under this section shall not apply to any electronic product which is intended solely for export if (A) such product and the outside of any shipping container used in the export of such product are labeled or tagged to show that such product is intended for export, and (B) suchproduct meets all the applicable requirements of the country to which such product is intended for export.
+(3) The performance standards prescribed under this section shall not apply to any electronic product which is intended solely for export if (A) such product and the outside of any shipping container used in the export of such product are labeled or tagged to show that such product is intended for export, and (B) such product meets all the applicable requirements of the country to which such product is intended for export.
 
 (4) The Secretary may by regulation amend or revoke any performance standard prescribed under this section.
 
@@ -50,7 +50,7 @@ A certified copy of the transcript of the record and administrative proceedings 
 
 #### (f) Technical Electronic Product Radiation Safety Standards Committee
 
-(1)(A) The Secretary shall establish a Technical Electronic Product Radiation Safety Standards Committee (hereafter in this part referred to as the “Committee”) which he shall consult before prescribing any standard under this section. The Committee shall be appointed by the Secretary, after consultation with public and private agencies concerned with the technical aspect of electronic product radiation safety, and shall be composed of fifteen members each of whom shall be technically qualified by training and experience in one or more fields of science or engineering applicable to electronic product radiation safety, as follows:
+(1)(A) The Secretary shall establish a Technical Electronic Product Radiation Safety Standards Committee (hereafter in this part referred to as the "Committee") which he shall consult before prescribing any standard under this section. The Committee shall be appointed by the Secretary, after consultation with public and private agencies concerned with the technical aspect of electronic product radiation safety, and shall be composed of fifteen members each of whom shall be technically qualified by training and experience in one or more fields of science or engineering applicable to electronic product radiation safety, as follows:
 
 &emsp;(i) Five members shall be selected from governmental agencies, including State and Federal Governments;
 
@@ -64,7 +64,7 @@ A certified copy of the transcript of the record and administrative proceedings 
 
 #### (g) Review and evaluation
 
-The Secretary shall review and evaluate on a continuing basis testing programs carried out by industry to assure the adequacy of safeguards against hazardous electronic product radiation and to assure that electronic products comply with standards prescribed under this section.
+The Secretary shall review and evaluate on a continuing basis testing programs carried outby industry to assure the adequacy of safeguards against hazardous electronic product radiation and to assure that electronic products comply with standards prescribed under this section.
 
 #### (h) Product certification
 
@@ -82,11 +82,11 @@ Section was classified to section 263f of Title 42, The Public Health and Welfar
 
 Subsec. (f)(2). Pub. L. 103–80, §3(w), made technical amendment to reference to section 210 of title 42 to reflect correction of corresponding provision of original act.
 
-<b>1990</b>—Subsec. (a)(1)(E). Pub. L. 101–629, §19(a)(2)(B), substituted “section 360hh” for “section 263c”.
+<b>1990</b>—Subsec. (a)(1)(E). Pub. L. 101–629, §19(a)(2)(B), substituted "section 360hh" for "section 263c".
 
-Subsecs. (e), (f)(1)(A). Pub. L. 101–629, §19(a)(1)(B), substituted “this part” for “this subpart”.
+Subsecs. (e), (f)(1)(A). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart".
 
-<b>1970</b>—Subsec. (f)(2). Pub. L. 91–515 struck out provisions related to payment of compensation and travel expenses of members of the Committee who are not officers or employees of the United States, and substituted “to members of the Committee who are not officers or employees of the United States pursuant to subsection (c) of section 210 of title 42” for “under this subsection”.
+<b>1970</b>—Subsec. (f)(2). Pub. L. 91–515 struck out provisions related to payment of compensation and travel expenses of members of the Committee who are not officers or employees of the United States, and substituted "to members of the Committee who are not officers or employees of the United States pursuant to subsection (c) of section 210 of title 42" for "under this subsection".
 
 #### Noninterference With Other Federal Agencies
 

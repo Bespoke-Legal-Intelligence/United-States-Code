@@ -6,7 +6,7 @@ In any litigation or court action between or among the Hopi Tribe, the Navajo Tr
 
 #### (b) Award by court; reimbursement to Secretary
 
-Upon the entry of a final judgment in any such litigation or court action, the court shall awardreasonable attorney's fees, costs and expenses to the party, other than the United States or its officials, departments, agencies, or instrumentalities, which prevails or substantially prevails, where it finds that any opposing party has unreasonably initiated or contested such litigation. Any party to whom such an award has been made shall reimburse the United States out of such award to the extent that it has received payments pursuant to subsection (a) of this section.
+Upon the entry of a final judgment in any such litigation or court action, the court shall award reasonable attorney's fees, costs and expenses to the party, other than the United States or its officials, departments, agencies, or instrumentalities, which prevails or substantially prevails, where it finds that any opposing party has unreasonably initiated or contested such litigation. Any party to whom such an award has been made shall reimburse the United States out of such award to the extent that it has received payments pursuant to subsection (a) of this section.
 
 #### (c) Excess difference between award of court and award of Secretary treated as final judgment of Court of Claims
 

@@ -10,5 +10,5 @@ Only persons who are without and unable to obtain the means to pay for baths and
 
 #### Change of Name
 
-“Hot Springs National Park” substituted in text for “Hot Springs Reservation” pursuant to act Mar. 4, 1921.
+"Hot Springs National Park" substituted in text for "Hot Springs Reservation" pursuant to act Mar. 4, 1921.
 

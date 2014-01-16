@@ -16,7 +16,7 @@ Section 263, act Aug. 10, 1956, ch. 1041, 70A Stat. 11, related to basic policy 
 
 Section 264, acts Aug. 10, 1956, ch. 1041, 70A Stat. 11; Dec. 1, 1967, Pub. L. 90–168, §2(6), 81 Stat. 521; Nov. 19, 1969, Pub. L. 91–121, title III, §303, 83 Stat. 206; Oct. 20, 1978, Pub. L. 95–485, title IV, §406(a), 92 Stat. 1616; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(7)(A), (B), 98 Stat. 2622, authorized Secretaries of each armed force to designate officers to be responsible for reserve affairs and assigned responsibility for providing personnel and logistic support for reserves. See sections 10203 and 18501 of this title.
 
-Section 265, act Aug. 10, 1956, ch. 1041, 70A Stat. 11, related to participation of reserve officers in preparationand administration of policies and regulations affecting reserve components. See section 10211 of this title.
+Section 265, act Aug. 10, 1956, ch. 1041, 70A Stat. 11, related to participation of reserve officers in preparation and administration of policies and regulations affecting reserve components. See section 10211 of this title.
 
 Prior section 266 was renumbered section 12643 of this title.
 
@@ -52,7 +52,7 @@ A prior section 279, added Pub. L. 85–861, §1(5)(C), Sept. 2, 1958, 72 Stat. 
 
 Section 280, acts Aug. 10, 1956, ch. 1041, 70A Stat. 14; Sept. 2, 1958, Pub. L. 85–861, §33(a)(2), 72 Stat. 1564; Sept. 7, 1962, Pub. L. 87–651, title I, §101, 76 Stat. 506; Sept. 11, 1967, Pub. L. 90–83, §3(1), 81 Stat. 220; Aug. 17, 1977, Pub. L. 95–105, title V, §509(d)(3), 91 Stat. 860; Dec. 12, 1980, Pub. L. 96–513, title V, §§501(5), 511(10), 94 Stat. 2907, 2920; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(8), 98 Stat. 2622; Dec. 5, 1991, Pub. L. 102–190, div. A, title X, §1061(a)(3), 105 Stat. 1472, authorized Secretary of each military department and Secretary of Transportation to prescribe regulations. See section 10202 of this title.
 
-Section 281, added Pub. L. 86–559, §1(2)(C), June 30, 1960, 74 Stat. 264; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, provided that certain references in this title to the adjutant general or assistant adjutant general of the National Guard of a jurisdiction be applied to another officer of the National Guard performing the duties of that office. See section 10214 of this title.
+Section 281, added Pub. L. 86–559, §1(2)(C), June 30, 1960, 74 Stat. 264; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, provided that certain references in this title to the adjutant general or assistant adjutant general of the NationalGuard of a jurisdiction be applied to another officer of the National Guard performing the duties of that office. See section 10214 of this title.
 
 #### Effective Date
 

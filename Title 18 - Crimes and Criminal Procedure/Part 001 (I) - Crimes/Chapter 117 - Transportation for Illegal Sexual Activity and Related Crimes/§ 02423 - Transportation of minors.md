@@ -10,7 +10,7 @@ Travel With Intent To Engage in Illicit Sexual Conduct.—A person who travels i
 
 (c)
 
-Engaging in Illicit Sexual Conduct in Foreign Places.—Any United States citizen or alien admitted for permanent residence who travels in foreign commerce, and engages in any illicit sexual conduct with another person shall be fined under this title or imprisoned not more than 30 years, or both.
+Engaging in Illicit Sexual Conduct in Foreign Places.—Any United States citizen or alien admitted for permanent residence who travels in foreign commerce or resides, either temporarily or permanently, in a foreign country, and engages in any illicit sexual conduct with another person shall be fined under this title or imprisoned not more than 30 years, or both.
 
 (d)
 
@@ -22,63 +22,65 @@ Attempt and Conspiracy.—Whoever attempts or conspires to violate subsection (a
 
 (f)
 
-Definition.—As used in this section, the term “illicit sexual conduct” means (1) a sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States; or (2) any commercial sex act (as defined in section 1591) with a person under 18 years of age.
+Definition.—As used in this section, the term "illicit sexual conduct" means (1) a sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States; or (2) any commercial sex act (as defined in section 1591) with a person under 18 years of age.
 
 (g)
 
 Defense.—In a prosecution under this section based on illicit sexual conduct as defined in subsection (f)(2), it is a defense, which the defendant must establish by a preponderance of the evidence, that the defendant reasonably believed that the person with whom the defendant engaged in the commercial sex act had attained the age of 18 years.
 
-(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 95–225, §3(a), Feb. 6, 1978, 92 Stat. 8; Pub. L. 99–628, §5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L.103–322, title XVI, §160001(g), Sept. 13, 1994, 108 Stat. 2037; Pub. L. 104–71, §5, Dec. 23, 1995, 109 Stat. 774; Pub. L. 104–294, title VI, §§601(b)(4), 604(b)(33), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 105–314, title I, §103, Oct. 30, 1998, 112 Stat. 2976; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–21, title I, §§103(a)(2)(C), (b)(2)(B), 105, Apr. 30, 2003, 117 Stat. 652, 653; Pub. L. 109–248, title II, §204, July 27, 2006, 120 Stat. 613.)
+(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 95–225, §3(a), Feb. 6, 1978, 92 Stat. 8; Pub. L. 99–628,§5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XVI, §160001(g), Sept. 13, 1994, 108 Stat. 2037; Pub. L. 104–71, §5, Dec. 23, 1995, 109 Stat. 774; Pub. L. 104–294, title VI, §§601(b)(4), 604(b)(33), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 105–314, title I, §103, Oct. 30, 1998, 112 Stat. 2976; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–21, title I, §§103(a)(2)(C), (b)(2)(B), 105, Apr. 30, 2003, 117 Stat. 652, 653; Pub. L. 109–248, title II, §204, July 27, 2006, 120 Stat. 613; Pub. L. 113–4, title XII, §1211(b), Mar. 7, 2013, 127 Stat. 142.)
 
 #### Historical and Revision Notes
 
 Based on title 18, U.S.C., 1940 ed., §400 (June 25, 1910, ch. 395, §4, 36 Stat. 826).
 
-Words “deemed guilty of a felony” were deleted as unnecessary in view of definition of felony in section 1 of this title. (See reviser's note under section 550 of this title.)
+Words "deemed guilty of a felony" were deleted as unnecessary in view of definition of felony in section 1 of this title. (See reviser's note under section 550 of this title.)
 
-Words “and on conviction thereof shall be” were deleted as surplusage since punishment cannot be imposed until a conviction is secured.
+Words "and on conviction thereof shall be" were deleted as surplusage since punishment cannot be imposed until a conviction is secured.
 
-Words “Possession of the United States” were inserted twice. (See reviser's note under section 2421 of this title.)
+Words "Possession of the United States" were inserted twice. (See reviser's note under section 2421 of this title.)
 
 Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–248 substituted “10 years or for life” for “5 years and not more than 30 years”.
+<b>2013</b>—Subsec. (c). Pub. L. 113–4 inserted "or resides, either temporarily or permanently, in a foreign country" after "commerce".
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–21, §105(b), struck out “or attempts to do so,” before “shall be fined”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–248 substituted "10 years or for life" for "5 years and not more than 30 years".
 
-Pub. L. 108–21, §103(a)(2)(C), (b)(2)(B), substituted “and imprisoned not less than 5 years and” for “, imprisoned” and “30 years” for “15 years, or both”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–21, §105(b), struck out "or attempts to do so," before "shall be fined".
+
+Pub. L. 108–21, §103(a)(2)(C), (b)(2)(B), substituted "and imprisoned not less than 5 years and" for ", imprisoned" and "30 years" for "15 years, or both".
 
 Subsec. (b) to (g). Pub. L. 108–21, §105(a), added subsecs. (b) to (g) and struck out former subsec. (b) which read as follows:
 
-“(b)
+"(b)
 
-Travel With Intent To Engage in Sexual Act With a Juvenile.—A person who travels in interstate commerce, or conspires to do so, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, or conspires to do so, for the purpose of engaging in any sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States shall be fined under this title, imprisoned not more than 15 years, or both.”
+Travel With Intent To Engage in Sexual Act With a Juvenile.—A person who travels in interstate commerce, or conspires to do so, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, or conspires to do so, for the purpose of engaging in any sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States shall be fined under this title, imprisoned not more than 15 years, or both."
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–273 repealed Pub. L. 104–294, §601(b)(4). See 1996 Amendment note below.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–314, §103(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
 
-“(a)
+"(a)
 
-Transportation With Intent To Engage in Criminal Sexual Activity.—A person who knowingly transports any individual under the age of 18 years in interstate or foreign commerce, or in any Territory or Possession of the United States, with intent that such individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, shall be fined under this title or imprisoned not more than ten years, or both.”
+Transportation With Intent To Engage in Criminal Sexual Activity.—A person who knowingly transports any individual under the age of 18 years in interstate or foreign commerce, or in any Territory or Possession of the United States, with intent that such individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, shall be fined under this title or imprisoned not more than ten years, or both."
 
-Subsec. (b). Pub. L. 105–314, §103(2), substituted “15 years” for “10 years”.
+Subsec. (b). Pub. L. 105–314, §103(2), substituted "15 years" for "10 years".
 
 <b>1996</b>—Pub. L. 104–294, §604(b)(33), amended directory language of Pub. L. 103–322, §160001(g). See 1994 Amendment note below.
 
 Subsec. (b). Pub. L. 104–294, §601(b)(4), which made amendment identical to that made by Pub. L. 104–71, was repealed by Pub. L. 107–273. See 1995 Amendment note below.
 
-<b>1995</b>—Subsec. (b). Pub. L. 104–71 substituted “2246” for “2245”.
+<b>1995</b>—Subsec. (b). Pub. L. 104–71 substituted "2246" for "2245".
 
-<b>1994</b>—Pub. L. 103–322, as amended by Pub. L. 104–294, §604(b)(33), added subsec. (b) and substituted “(a)
+<b>1994</b>—Pub. L. 103–322, as amended by Pub. L. 104–294, §604(b)(33), added subsec. (b) and substituted "(a)
 
-Transportation With Intent To Engage in Criminal Sexual Activity.—A person who” for “Whoever”.
+Transportation With Intent To Engage in Criminal Sexual Activity.—A person who" for "Whoever".
 
 <b>1986</b>—Pub. L. 99–628 amended section generally, revising and restating as one paragraph provisions formerly contained in subsec. (a) and striking out subsec. (b) which provided definitions.
 
-<b>1978</b>—Pub. L. 95–225 substituted “Transportation of minors” for “Coercion or enticement of minor female” in section catchline, designated existing provision as subsec. (a), substituted provisions relating to conduct prohibiting the transportation of minors for provisions relating to conduct prohibiting the coercion or enticement of a minor female, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–225 substituted "Transportation of minors" for "Coercion or enticement of minor female" in section catchline, designated existing provision as subsec. (a), substituted provisions relating to conduct prohibiting the transportation of minors for provisions relating to conduct prohibiting the coercion or enticement of a minor female, and added subsec. (b).
 
 #### Effective Date of 2002 Amendment
 

@@ -48,11 +48,15 @@ Advice on Requirements, Programs, and Budget.—(A) Advising the Secretary, unde
 
 &emsp;(5)
 
-Doctrine, Training, and Education.—(A) Developing doctrine for the joint employment of the armed forces.
+Joint force development activities.—(A) Developing doctrine for the joint employment of the armed forces.
 
-&emsp;(B) Formulating policies for the joint training of the armed forces.
+&emsp;(B) Formulating policies and technical standards, and executing actions, for the joint training of the armed forces.
 
-&emsp;(C) Formulating policies for coordinating the military education and training of members of the armed forces.
+&emsp;(C) Formulating policies for coordinating the military education of members of the armed forces.
+
+&emsp;(D) Formulating policies for concept development and experimentation for the joint employment of the armed forces.
+
+&emsp;(E) Formulating policies for gathering, developing, and disseminating joint lessons learned for the armed forces.
 
 &emsp;(6)
 
@@ -72,7 +76,7 @@ National military strategy.—(A) The Chairman shall determine each even-numbere
 
 &emsp;(C) Each National Military Strategy (or update) submitted under this paragraph shall describe how the military will achieve the objectives of the United States as articulated in—
 
-&emsp;&emsp;(i) the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a);
+&emsp;&emsp;(i) the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a); <sup>1</sup>
 
 &emsp;&emsp;(ii) the most recent annual report of the Secretary of Defense submitted to the President and Congress pursuant to section 113 of this title;
 
@@ -112,7 +116,7 @@ National military strategy.—(A) The Chairman shall determine each even-numbere
 
 &emsp;(2)
 
-Risk assessment.—(A) The Chairman shall prepare each year an assessment of the risks associated with the most current National Military Strategy (or update) under paragraph (1). The risk assessment shall be known as the “Risk Assessment of the Chairman of the Joint Chiefs of Staff”. The Chairman shall complete preparation of the Risk Assessment in time for transmittal to Congress pursuant to paragraph (3), including in time for inclusion of the report of the Secretary of Defense, if any, under paragraph (4).
+Risk assessment.—(A) The Chairman shall prepare each year an assessment of the risks associated with the most current National Military Strategy (or update) under paragraph (1). The risk assessment shall be known as the "Risk Assessment of the Chairman of the Joint Chiefs of Staff". The Chairman shall complete preparation of the Risk Assessment in time for transmittal to Congress pursuant to paragraph (3), including in time for inclusion of the report of the Secretary of Defense, if any, under paragraph (4).
 
 &emsp;(B) The Risk Assessment shall do the following:
 
@@ -120,7 +124,7 @@ Risk assessment.—(A) The Chairman shall prepare each year an assessment of the
 
 &emsp;&emsp;(ii) Identify and define the strategic risks to United States interests and the military risks in executing the missions of the National Military Strategy.
 
-&emsp;&emsp;(iii) Identify and define levels of risk distinguishing between the concepts of probability and consequences, including an identification of what constitutes “significant” risk in the judgment of the Chairman.
+&emsp;&emsp;(iii) Identify and define levels of risk distinguishing between the concepts of probability and consequences, including an identification of what constitutes "significant" risk in the judgment of the Chairman.
 
 &emsp;&emsp;(iv)(I) Identify and assess risk in the National Military Strategy by category and level and the ways in which risk might manifest itself, including how risk is projected to increase, decrease, or remain stable over time; and
 
@@ -166,13 +170,31 @@ Annual Report on Combatant Command Requirements.—(1) At or about the time that
 
 &emsp;(D) A description of the funding proposed in the President's budget for the next fiscal year, and for the subsequent fiscal years covered by the most recent future-years defense program, to address each deficiency in readiness identified during the joint readiness review conducted under section 117 of this title for the first quarter of the current fiscal year.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title X, §1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, §903, title X, §1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610; Pub. L. 112–81, div. A, title VIII, §820(b), title IX, §941, Dec. 31, 2011, 125 Stat. 1501, 1548; Pub. L. 112–239, div. A, title VIII, §845(b), title IX, §§951(a), 952, Jan. 2, 2013, 126 Stat. 1848, 1891, 1892.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title X, §1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, §903, title X, §1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610; Pub. L. 112–81, div. A, title VIII, §820(b), title IX, §941, Dec. 31, 2011, 125 Stat. 1501, 1548; Pub. L. 112–239, div. A, title VIII, §845(b), title IX, §§951(a), 952, Jan. 2, 2013, 126 Stat. 1848, 1891, 1892; Pub. L. 113–66, div. A, title IX, §905, Dec. 26, 2013, 127 Stat. 817.)
+
+#### References in Text
+
+The National Security Act of 1947, referred to in subsec. (b)(1)(C)(i), is act July 26, 1947, ch. 343, 61 Stat. 495,which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 108 of the Act is now classified to section 3043 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
 <b>2013</b>—Subsec. (a)(3)(F). Pub. L. 112–239, §845(b), added subpar. (F).
 
-Subsec. (a)(4)(F), (G). Pub. L. 112–239, §951(a), added subpars. (F) and (G) and struck out former subpar. (F) which read as follows: “Assessing military requirements for defense acquisition programs.”
+Subsec. (a)(4)(F), (G). Pub. L. 112–239, §951(a), added subpars. (F) and (G) and struck out former subpar. (F) which read as follows: "Assessing military requirements for defense acquisition programs."
+
+Subsec. (a)(5). Pub. L. 113–66, §905(b), which directed substitution of "
+
+Joint force development activities" for "
+
+Doctrine, training, and education" in heading, was executed by making the substitution for "
+
+Doctrine, Training, and Education" to reflect the probable intent of Congress.
+
+Subsec. (a)(5)(B). Pub. L. 113–66, §905(a)(1), inserted "and technical standards, and executing actions," after "policies".
+
+Subsec. (a)(5)(C). Pub. L. 113–66, §905(a)(2), struck out "and training" after "education".
+
+Subsec. (a)(5)(D), (E). Pub. L. 113–66, §905(a)(3), added subpars. (D) and (E).
 
 Subsec. (b). Pub. L. 112–239, §952(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to risks under National Military Strategy.
 
@@ -180,43 +202,43 @@ Subsec. (d). Pub. L. 112–239, §952(b), struck out subsec. (d) which related t
 
 <b>2011</b>—Subsec. (a)(3)(C) to (E). Pub. L. 112–81, §820(b)(1), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
-Subsec. (a)(4)(E). Pub. L. 112–81, §820(b)(2), inserted “and contractor support” after “area of manpower”.
+Subsec. (a)(4)(E). Pub. L. 112–81, §820(b)(2), inserted "and contractor support" after "area of manpower".
 
-Subsec. (b)(1). Pub. L. 112–81, §941(1), substituted “assessment of—” for “assessment of the nature and magnitude of the strategic and military risks associated with executing the missions called for under the current National Military Strategy.” and added subpars. (A) and (B).
+Subsec. (b)(1). Pub. L. 112–81, §941(1), substituted "assessment of—" for "assessment of the nature and magnitude of the strategic and military risks associated with executing the missions called for under the current National Military Strategy." and added subpars. (A) and (B).
 
-Subsec. (b)(2). Pub. L. 112–81, §941(2), inserted “or that critical deficiencies in force capabilities exist for a contingency plan,” after “National Military Strategy is significant,” and “or deficiency” before period at end.
+Subsec. (b)(2). Pub. L. 112–81, §941(2), inserted "or that critical deficiencies in force capabilities exist for a contingency plan," after "National Military Strategy is significant," and "or deficiency" before period at end.
 
 Subsec. (d)(2)(I). Pub. L. 112–81, §820(b)(3)(A), added subpar. (I).
 
-Subsec. (d)(3)(B). Pub. L. 112–81, §820(b)(3)(B), substituted “the levels of support from allies and other friendly nations, and the levels of contractor support” for “and the levels of support from allies and other friendly nations”.
+Subsec. (d)(3)(B). Pub. L. 112–81, §820(b)(3)(B), substituted "the levels of support from allies and other friendly nations, and the levels of contractor support" for "and the levels of support from allies and other friendly nations".
 
-<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §903(b), substituted “of each odd-numbered year” for “each year”.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §903(b), substituted "of each odd-numbered year" for "each year".
 
-Subsec. (c). Pub. L. 108–136, §1043(b)(2), in par. (1), substituted “congressional defense committees” for “committees of Congress named in paragraph (2)”, designated the second sentence of par. (1) as par. (2), in par. (2), substituted “Each report under paragraph (1)” for “The report”, and struck out former par. (2) which read as follows: “The committees of Congress referred to in paragraph (1) are the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.”
+Subsec. (c). Pub. L. 108–136, §1043(b)(2), in par. (1), substituted "congressional defense committees" for "committees of Congress named in paragraph (2)", designated the second sentence of par. (1) as par. (2), in par. (2), substituted "Each report under paragraph (1)" for "The report", and struck out former par. (2) which read as follows: "The committees of Congress referred to in paragraph (1) are the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives."
 
 Subsec. (d). Pub. L. 108–136, §903(a), added subsec. (d).
 
 <b>2002</b>—Pub. L. 107–314 inserted subsec. (a) heading and redesignated subsecs. (c) and (d) as (b) and (c), respectively.
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107, §921(b)(1), struck out “(a)
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §921(b)(1), struck out "(a)
 
-Planning; Advice; Policy Formulation.—” before “Subject to the authority”.
+Planning; Advice; Policy Formulation.—" before "Subject to the authority".
 
 Subsec. (b). Pub. L. 107–107, §921(b)(2), struck out heading and text of subsec. (b) which read as follows:
 
-“(b)
+"(b)
 
 Report on Assignment of Roles and Missions.—(1) Not less than once every three years, or upon the request of the President or the Secretary of Defense, the Chairman shall submit to the Secretary of Defense a report containing such recommendations for changes in the assignment of functions (or roles and missions) to the armed forces as the Chairman considers necessary to achieve maximum effectiveness of the armed forces. In preparing each such report, the Chairman shall consider (among other matters) the following:
 
-&emsp;“(A) Changes in the nature of the threats faced by the United States.
+&emsp;"(A) Changes in the nature of the threats faced by the United States.
 
-&emsp;“(B) Unnecessary duplication of effort among the armed forces.
+&emsp;"(B) Unnecessary duplication of effort among the armed forces.
 
-&emsp;“(C) Changes in technology that can be applied effectively to warfare.
+&emsp;"(C) Changes in technology that can be applied effectively to warfare.
 
-“(2) The Chairman shall include in each such report recommendations for such changes in policies, directives, regulations, and legislation as may be necessary to achieve the changes in the assignment of functions recommended by the Chairman.”
+"(2) The Chairman shall include in each such report recommendations for such changes in policies, directives, regulations, and legislation as may be necessary to achieve the changes in the assignment of functions recommended by the Chairman."
 
-<b>2000</b>—Subsec. (d)(1). Pub. L. 106–398, §1 \[\[div. A\], title IX, §905(b)\], substituted “At or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31,” for “Not later than August 15 of each year,” in introductory provisions.
+<b>2000</b>—Subsec. (d)(1). Pub. L. 106–398, §1 \[\[div. A\], title IX, §905(b)\], substituted "At or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31," for "Not later than August 15 of each year," in introductory provisions.
 
 Subsec. (d)(1)(C), (D). Pub. L. 106–398, §1 \[\[div. A\], title IX, §905(a)\], added subpars. (C) and (D).
 
@@ -226,13 +248,13 @@ Subsec. (d)(1)(C), (D). Pub. L. 106–398, §1 \[\[div. A\], title IX, §905(a)\
 
 Pub. L. 105–85, div. A, title III, §326, Nov. 18, 1997, 111 Stat. 1679, provided that:
 
-“(a)
+"(a)
 
 Means for Measurement.—The Chairman of the Joint Chiefs of Staff shall, to the maximum extent practicable, develop (1) a common means of measuring the operations tempo (OPTEMPO) of each of the Armed Forces, and (2) a common means of measuring the personnel tempo (PERSTEMPO) of each of the Armed Forces. The Chairman shall consult with the other members of the Joint Chiefs of Staff in developing those common means of measurement.
 
-“(b)
+"(b)
 
-PERSTEMPO Measurement.—The measurement of personnel tempo developed by the Chairman shall include a means of identifying the rate of deployment for individual members of the Armed Forces in addition to the rate of deployment for units.”
+PERSTEMPO Measurement.—The measurement of personnel tempo developed by the Chairman shall include a means of identifying the rate of deployment for individual members of the Armed Forces in addition to the rate of deployment for units."
 
 #### Annual Assessment of Force Readiness
 
@@ -245,4 +267,6 @@ Pub. L. 102–484, div. A, title IX, §901, Oct. 23, 1992, 106 Stat. 2469, provi
 #### Transition Provisions
 
 Pub. L. 99–433, title II, §204(a), (b), Oct. 1, 1986, 100 Stat. 1011, provided dates for establishment of the uniform system of evaluating the preparedness of each unified and specified combatant command and for submission of the first report.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

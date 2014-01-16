@@ -20,5 +20,5 @@ Provisions similar to those in this section were contained in section 269(a)–(
 
 #### Amendments
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–136 substituted last sentence of introductory provisions and pars. (1) and (2) for “The Secretary concerned may not delegate his authority under the preceding sentence.”
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 substituted last sentence of introductory provisions and pars. (1) and (2) for "The Secretary concerned may not delegate his authority under the preceding sentence."
 

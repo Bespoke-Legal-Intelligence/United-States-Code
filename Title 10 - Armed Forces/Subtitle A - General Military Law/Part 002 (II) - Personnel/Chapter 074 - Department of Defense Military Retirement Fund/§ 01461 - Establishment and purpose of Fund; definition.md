@@ -1,8 +1,8 @@
 ### §1461. Establishment and purpose of Fund; definition
 
-(a) There is established on the books of the Treasury a fund to be known as the Department of Defense Military Retirement Fund (hereinafter in this chapter referred to as the “Fund”), which shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance on an actuarially sound basis liabilities of the Department of Defense under military retirement and survivor benefit programs.
+(a) There is established on the books of the Treasury a fund to be known as the Department of Defense Military Retirement Fund (hereinafter in this chapter referred to as the "Fund"), which shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance on an actuarially sound basis liabilities of the Department of Defense under military retirement and survivor benefit programs.
 
-(b) In this chapter, the term “military retirement and survivor benefit programs” means—
+(b) In this chapter, the term "military retirement and survivor benefit programs" means—
 
 &emsp;(1) the provisions of this title creating entitlement to, or determining the amount of, retired or retainer pay;
 
@@ -22,5 +22,5 @@ Section 5 of Public Law 96–402, referred to in subsec. (b)(2), is set out as a
 
 <b>1992</b>—Subsec. (b)(3). Pub. L. 102–484 added par. (3).
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–189 inserted “the term” after “In this chapter,”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 inserted "the term" after "In this chapter,".
 

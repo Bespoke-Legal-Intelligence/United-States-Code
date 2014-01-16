@@ -76,7 +76,7 @@
 
 &emsp;In determining whether a violation of subsection (a) of this section has occurred, any of the following shall be prima facie evidence that an alien involved in the alleged violation had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law:
 
-&emsp;&emsp;(A) Records of any judicial or administrative proceeding in which that alien's statuswas an issue and in which it was determined that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
+&emsp;&emsp;(A) Records of any judicial or administrative proceeding in which that alien's status was an issue and in which it was determined that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
 &emsp;&emsp;(B) Official records of the Service or of the Department of State showing that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
@@ -84,7 +84,7 @@
 
 #### (c) Authority to arrest
 
-No officer or person shall have authority to make any arrests for a violation of any provision of this section except officers and employees of the Service designated by the Attorney General, either individually or as a member of a class, and all other officers whose duty it is to enforce criminal laws.
+No officer or person shall have authority to make any arrests for a violation of any provision of this section except officers and employees of the Service designated by the Attorney General, either individually or as a member of aclass, and all other officers whose duty it is to enforce criminal laws.
 
 #### (d) Admissibility of videotaped witness testimony
 
@@ -140,7 +140,7 @@ Subsec. (a)(2)(B). Pub. L. 103–322, §60024(2), in concluding provisions, subs
 
 Subsec. (b)(4)(C), (5). Pub. L. 100–525, §2(d)(2), amended Pub. L. 99–603, §112(b)(5), (8). See 1986 Amendment note below.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–603, §112(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person, including the owner, operator,pilot, master, commanding officer, agent, or consignee of any means of transportation who—
+<b>1986</b>—Subsec. (a). Pub. L. 99–603, §112(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person, including the owner, operator, pilot, master, commanding officer, agent, or consignee of any means of transportation who—
 
 &emsp;“(1) brings into or lands in the United States, by any means of transportation or otherwise, or attempts, by himself or through another, to bring into or land in the United States, by any means of transportation or otherwise;
 
@@ -150,7 +150,7 @@ Subsec. (b)(4)(C), (5). Pub. L. 100–525, §2(d)(2), amended Pub. L. 99–603, 
 
 &emsp;“(4) willfully or knowingly encourages or induces, or attempts to encourage or induce, either directly or indirectly, the entry into the United States of—
 
-> any alien, including an alien crewman, not duly admitted by an immigration officer or not lawfully entitled to enter or reside within the United States under the terms of this chapter or any other law relating to the immigration or expulsion of aliens, shall be guilty of a felony, and upon conviction thereof shall be punished by a fine not exceeding $2,000 or by imprisonment for a term not exceeding five years, or both, for each alien in respect to whom any violation of this subsection occurs: <i>Provided, however</i>, That for the purposes of this section, employment (including the usual and normal practices incident to employment) shall not be deemed to constitute harboring.”
+> any alien, including an alien crewman, not duly admitted by an immigration officer or not lawfully entitled to enter or reside within the United States under the terms of this chapter or any other law relating to the immigration or expulsion of aliens, shall be guilty of a felony, and upon conviction thereof shall be punished by a fine not exceeding $2,000 or by imprisonment for a term not exceeding five years, or both, for each alien in respect to whom any violation of this subsection occurs: <i>Provided, however</i>, That for the purposes of thissection, employment (including the usual and normal practices incident to employment) shall not be deemed to constitute harboring.”
 
 Subsec. (b)(1). Pub. L. 99–603, §112(b)(1), (2), substituted “has been or is being used” for “is used” and “seized and subject to” for “subject to seizure and” in provisions preceding subpar. (A).
 

@@ -10,7 +10,7 @@
 
 #### (b) Reports to Attorney General
 
-(1) Each regulated person shall report to the Attorney General, in such form and manner asthe Attorney General shall prescribe by regulation—
+(1) Each regulated person shall report to the Attorney General, in such form and manner as the Attorney General shall prescribe by regulation—
 
 &emsp;(A) any regulated transaction involving an extraordinary quantity of a listed chemical, an uncommon method of payment or delivery, or any other circumstance that the regulated person believes may indicate that the listed chemical will be used in violation of this subchapter;
 
@@ -28,9 +28,9 @@
 
 Mail order reporting.—(A) As used in this paragraph:
 
-&emsp;(i) The term “drug product” means an active ingredient in dosage form that has been approved or otherwise may be lawfully marketed under the Food, Drug, and Cosmetic Act <sup>1</sup> \[21 U.S.C. 301 et seq.\] for distribution in the United States.
+&emsp;(i) The term "drug product" means an active ingredient in dosage form that has been approved or otherwise may be lawfully marketed under the Food, Drug, and Cosmetic Act <sup>1</sup> \[21 U.S.C. 301 et seq.\] for distribution in the United States.
 
-&emsp;(ii) The term “valid prescription” means a prescription which is issued for a legitimate medical purpose by an individual practitioner licensed by law to administer and prescribe the drugs concerned and acting in the usual course of the practitioner's professional practice.
+&emsp;(ii) The term "valid prescription" means a prescription which is issued for a legitimate medical purpose by an individual practitioner licensed by law to administer and prescribe the drugs concerned and acting in the usual course of the practitioner's professional practice.
 
 (B) Each regulated person who engages in a transaction with a nonregulated person or who engages in an export transaction which—
 
@@ -66,7 +66,7 @@ Mail order reporting.—(A) As used in this paragraph:
 
 #### (c) Confidentiality of information obtained by Attorney General; non-disclosure; exceptions
 
-(1) Except as provided in paragraph (2), any information obtained by the Attorney Generalunder this section which is exempt from disclosure under section 552(a) of title 5, by reason of section 552(b)(4) of such title, is confidential and may not be disclosed to any person.
+(1) Except as provided in paragraph (2), any information obtained by the Attorney General under this section which is exempt from disclosure under section 552(a) of title 5, by reason of section 552(b)(4) of such title, is confidential and may not be disclosed to any person.
 
 (2) Information referred to in paragraph (1) may be disclosed only—
 
@@ -104,11 +104,11 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;Each regulated seller shall ensure that, subject to subparagraph (F), sales by such seller of a scheduled listed chemical product at retail are made in accordance with the following:
 
-&emsp;&emsp;&emsp;(i) In offering the product for sale, the seller places the product such that customers do not have direct access to the product before the sale is made (in this paragraph referred to as “behind-the-counter” placement). For purposes of this paragraph, a behind-the-counter placement of a product includes circumstances in which the product is stored in a locked cabinet that is located in an area of the facility involved to which customers do have direct access.
+&emsp;&emsp;&emsp;(i) In offering the product for sale, the seller places the product such that customers do not have direct access to the product before the sale is made (in this paragraph referred to as "behind-the-counter" placement). For purposes of this paragraph, a behind-the-counter placement of a product includes circumstances in which the product is stored in a locked cabinet that is located in an area of the facility involved to which customers do have direct access.
 
 &emsp;&emsp;&emsp;(ii) The seller delivers the product directly into the custody of the purchaser.
 
-&emsp;&emsp;&emsp;(iii) The seller maintains, in accordance with criteria issued by the Attorney General, a written or electronic list of such sales that identifies the products by name, the quantity sold, the names and addresses of purchasers, and the dates and times of the sales (which list is referred to in this subsection as the “logbook”), except that such requirement does not apply to any purchase by an individual of a single sales package if that package contains not more than 60 milligrams of pseudoephedrine.
+&emsp;&emsp;&emsp;(iii) The seller maintains, in accordance with criteria issued by the Attorney General, a written or electronic list of such sales that identifies the products by name, the quantity sold, the names and addresses of purchasers, and the dates and times of the sales (which list is referred to in this subsection as the "logbook"), except that such requirement does not apply to any purchase by an individual of a single sales package if that package contains not more than 60 milligrams of pseudoephedrine.
 
 &emsp;&emsp;&emsp;(iv) In the case of a sale to which the requirement of clause (iii) applies, the seller does not sell such a product unless the sale is made in accordance with the following:
 
@@ -120,7 +120,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) Signing a device presented by the seller that captures signatures in an electronic format. Such device shall display the notice described in clause (v). Any device used shall preserve each signature in a manner that clearly links that signature to the other electronically-captured logbook information relating to the prospective purchaser providing that signature.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) Signing a bound paper book. Such bound paper book shall include, for such purchaser, either (aaa) a printed sticker affixed to the bound paper book at the time of sale which either displays the name of each product sold, the quantity sold, the name and address of the purchaser, and the date and time of the sale, ora unique identifier which can be linked to that electronic information, or (bbb) a unique identifier which can be linked to that information and which is written into the book by the seller at the time of sale. The purchaser shall sign adjacent to the printed sticker or written unique identifier related to that sale. Such bound paper book shall display the notice described in clause (v).
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) Signing a bound paper book. Such bound paper book shall include, for such purchaser, either (aaa) a printed sticker affixed to the bound paper book at the time of sale which either displays the name of each product sold, the quantity sold, the name and address of the purchaser, and the date and time of the sale, or a unique identifier which can be linked to that electronic information, or (bbb) a unique identifier which can be linked to that information and which is written into the book by the seller at the time of sale. The purchaser shall sign adjacent to the printed sticker or written unique identifier related to that sale. Such bound paper book shall display the notice described in clause (v).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) Signing a printed document that includes, for such purchaser, the name of each product sold, the quantity sold, the name and address of the purchaser, and the date and time of the sale. Such document shall be printed by the seller at the time of the sale. Such document shall contain a clearly identified signature line for a purchaser to sign. Such printed document shall display the notice described in clause (v). Each signed document shall be inserted into a binder or other secure means of document storage immediately after the purchaser signs the document.
 
@@ -134,7 +134,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) Such information may be captured through electronic means, including through electronic data capture through bar code reader or similar technology.
 
-&emsp;&emsp;&emsp;(v) The written or electronic logbook includes, in accordance with criteria of the Attorney General, a notice to purchasers that entering false statements or misrepresentations in the logbook, or supplying false information or identification that results in the entry of false statements or misrepresentations, may subject the purchasers to criminal penalties under section 1001 of title 18, which notice specifies the maximum fine and term of imprisonment under such section.
+&emsp;&emsp;&emsp;(v) The written or electronic logbook includes, in accordance with criteria of the Attorney General, a notice to purchasers that entering false statements or misrepresentations in the logbook, or supplying false information or identification that results in the entry of false statements or misrepresentations, may subject the purchasers to criminal penalties under section 1001 of title 18, which notice specifies themaximum fine and term of imprisonment under such section.
 
 &emsp;&emsp;&emsp;(vi) Regardless of whether the logbook entry is written or electronic, the seller maintains each entry in the logbook for not fewer than 2 years after the date on which the entry is made.
 
@@ -224,15 +224,15 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;Upon the application of a manufacturer of a scheduled listed chemical product, the Attorney General may by regulation provide that the product is exempt from the provisions of subsection (d) and paragraphs (1) and (2) of this subsection if the Attorney General determines that the product cannot be used in the illicit manufacture of methamphetamine.
 
-(Pub. L. 91–513, title II, §310, as added Pub. L. 95–633, title II, §202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, §6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, §208, title IV, §402, Oct. 3, 1996, 110 Stat. 3104, 3111; Pub. L. 106–310, div. B, title XXXVI, §3652, Oct. 17, 2000, 114 Stat. 1239; Pub. L. 109–177, title VII, §§711(a)(2)(B), (b)(1), (c)(1), (2), (d),716(b)(2), Mar. 9, 2006, 120 Stat. 257, 261, 267; Pub. L. 110–415, §2, Oct. 14, 2008, 122 Stat. 4349; Pub. L. 111–268, §§2, 3, Oct. 12, 2010, 124 Stat. 2847.)
+(Pub. L. 91–513, title II, §310, as added Pub. L. 95–633, title II, §202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, §6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, §208, title IV, §402, Oct. 3, 1996, 110 Stat. 3104, 3111; Pub. L. 106–310, div. B, title XXXVI, §3652, Oct. 17, 2000, 114 Stat. 1239; Pub. L. 109–177, title VII, §§711(a)(2)(B), (b)(1), (c)(1), (2), (d), 716(b)(2), Mar. 9, 2006, 120 Stat. 257, 261, 267; Pub. L. 110–415, §2, Oct. 14, 2008, 122 Stat. 4349; Pub. L. 111–268, §§2, 3, Oct. 12, 2010, 124 Stat. 2847.)
 
 #### References in Text
 
 The Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3)(A)(i), probably means the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
-This subchapter, referred to in subsecs. (b)(3)(D)(vi), (E) and (e)(1)(C)(ii), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsecs. (b)(3)(D)(vi), (E) and (e)(1)(C)(ii), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
-Subchapter II of this chapter, referred to in subsecs. (b)(3)(D)(iv), (E) and (c)(2)(A), (B), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
+Subchapter II of this chapter, referred to in subsecs. (b)(3)(D)(iv), (E) and (c)(2)(A), (B), was in the original "title III", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 #### Amendments
 
@@ -242,11 +242,11 @@ Subsec. (e)(2)(C). Pub. L. 111–268, §2, added subpar. (C).
 
 <b>2008</b>—Subsec. (e)(1)(A)(iv) to (vi). Pub. L. 110–415 added cls. (iv) to (vi) and struck out former cls. (iv) to (vi) which related to procedures for sales subject to the logbook requirement.
 
-<b>2006</b>—Subsec. (b)(3)(D)(ii). Pub. L. 109–177, §711(c)(2), inserted “, except that this clause does not apply to sales of scheduled listed chemical products at retail” before period at end.
+<b>2006</b>—Subsec. (b)(3)(D)(ii). Pub. L. 109–177, §711(c)(2), inserted ", except that this clause does not apply to sales of scheduled listed chemical products at retail" before period at end.
 
-Pub. L. 109–177, §711(a)(2)(B), substituted “section 802(49)” for “section 802(46)”.
+Pub. L. 109–177, §711(a)(2)(B), substituted "section 802(49)" for "section 802(46)".
 
-Subsec. (b)(3)(D)(v). Pub. L. 109–177, §716(b)(2), substituted “section 971(f)(2)” for “section 971(e)(2)”.
+Subsec. (b)(3)(D)(v). Pub. L. 109–177, §716(b)(2), substituted "section 971(f)(2)" for "section 971(e)(2)".
 
 Subsec. (d). Pub. L. 109–177, §711(b)(1), added subsec. (d).
 
@@ -256,37 +256,37 @@ Subsec. (e)(2). Pub. L. 109–177, §711(c)(1), added par. (2).
 
 Subsec. (e)(3). Pub. L. 109–177, §711(d), added par. (3).
 
-<b>2000</b>—Subsec. (b)(3). Pub. L. 106–310 added subpars. (A), (D), and (E), redesignated former subpars. (A) and (B) as (B) and (C), respectively, and inserted “or who engages in an export transaction” after “nonregulated person” in introductory provisions of subpar. (B).
+<b>2000</b>—Subsec. (b)(3). Pub. L. 106–310 added subpars. (A), (D), and (E), redesignated former subpars. (A) and (B) as (B) and (C), respectively, and inserted "or who engages in an export transaction" after "nonregulated person" in introductory provisions of subpar. (B).
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–237, §208, substituted “for two years after the date of the transaction.” for the dash after “record of the transaction” and struck out subpars. (A) and (B) which read as follows:
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–237, §208, substituted "for two years after the date of the transaction." for the dash after "record of the transaction" and struck out subpars. (A) and (B) which read as follows:
 
-“(A) for 4 years after the date of the transaction, if the listed chemical is a list I chemical or if the transaction involves a tableting machine or an encapsulating machine; and
+"(A) for 4 years after the date of the transaction, if the listed chemical is a list I chemical or if the transaction involves a tableting machine or an encapsulating machine; and
 
-“(B) for 2 years after the date of the transaction, if the listed chemical is a list II chemical.”
+"(B) for 2 years after the date of the transaction, if the listed chemical is a list II chemical."
 
 Subsec. (b)(3). Pub. L. 104–237, §402, added par. (3).
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–200, §2(c)(1), substituted “list I chemical” for “precursor chemical” in subpar. (A) and “a list II chemical” for “an essential chemical” in subpar. (B).
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–200, §2(c)(1), substituted "list I chemical" for "precursor chemical" in subpar. (A) and "a list II chemical" for "an essential chemical" in subpar. (B).
 
-Subsec. (b). Pub. L. 103–200, §10, designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, in concluding provisions, substituted “subparagraph (A)” for “paragraph (1)” in two places, “subparagraph (B)” for “paragraph (2)”, and “subparagraph (C)” for “paragraph (3)”, and added par. (2).
+Subsec. (b). Pub. L. 103–200, §10, designated existing provisions as par. (1), redesignated former pars. (1) to\(4) as subpars. (A) to (D), respectively, in concluding provisions, substituted "subparagraph (A)" for "paragraph (1)" in two places, "subparagraph (B)" for "paragraph (2)", and "subparagraph (C)" for "paragraph (3)", and added par. (2).
 
-Subsec. (c)(2)(D). Pub. L. 103–200, §2(c)(2), substituted “chemical control laws” for “precursor chemical laws”.
+Subsec. (c)(2)(D). Pub. L. 103–200, §2(c)(2), substituted "chemical control laws" for "precursor chemical laws".
 
 <b>1988</b>—Pub. L. 100–690 amended section generally, substituting provisions relating to regulation of listed chemicals and certain machines for provisions relating to reporting by any person who distributes, sells, or imports any piperidine.
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–268, §6(a), Oct. 12, 2010, 124 Stat. 2848, provided that: “This Act \[amending this section and section 842 of this title and enacting provisions set out as notes under this section and section 801 of this title\] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act \[Oct. 12, 2010\].”
+Pub. L. 111–268, §6(a), Oct. 12, 2010, 124 Stat. 2848, provided that: "This Act \[amending this section and section 842 of this title and enacting provisions set out as notes under this section and section 801 of this title\] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act \[Oct. 12, 2010\]."
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–177, title VII, §711(b)(2), Mar. 9, 2006, 120 Stat. 261, provided that: “With respect to subsections (d) and (e)(1) of section 310 of the Controlled Substances Act \[21 U.S.C. 830(d), (e)(1)\], as added by paragraph (1) of this subsection:
+Pub. L. 109–177, title VII, §711(b)(2), Mar. 9, 2006, 120 Stat. 261, provided that: "With respect to subsections (d) and (e)(1) of section 310 of the Controlled Substances Act \[21 U.S.C. 830(d), (e)(1)\], as added by paragraph (1) of this subsection:
 
-&emsp;“(A) Such subsection (d) applies on and after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\].
+&emsp;"(A) Such subsection (d) applies on and after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\].
 
-&emsp;“(B) Such subsection (e)(1) applies on and after September 30, 2006.”
+&emsp;"(B) Such subsection (e)(1) applies on and after September 30, 2006."
 
-Pub. L. 109–177, title VII, §711(c)(3), Mar. 9, 2006, 120 Stat. 261, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] apply on and after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\].”
+Pub. L. 109–177, title VII, §711(c)(3), Mar. 9, 2006, 120 Stat. 261, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section\] apply on and after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\]."
 
 #### Effective Date of 1993 Amendment
 
@@ -300,15 +300,15 @@ Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see secti
 
 Pub. L. 95–633, title II, §203(a), Nov. 10, 1978, 92 Stat. 3776, provided that:
 
-“(1) Except as provided under paragraph (2), the amendments made by this title \[enacting this section and amending sections 841 to 843 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1978\].
+"(1) Except as provided under paragraph (2), the amendments made by this title \[enacting this section and amending sections 841 to 843 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1978\].
 
-“(2) Any person required to submit a report under section 310(a)(1) of the Controlled Substances Act \[subsec. (a)(1) of this section\] respecting a distribution, sale, or importation of piperidine during the 90 days after the date of the enactment of this Act \[Nov. 10, 1978\] may submit such report any time up to 97 days after such date of enactment.
+"(2) Any person required to submit a report under section 310(a)(1) of the Controlled Substances Act \[subsec. (a)(1) of this section\] respecting a distribution, sale, or importation of piperidine during the 90 days after the date of the enactment of this Act \[Nov. 10, 1978\] may submit such report any time up to 97 days after such date of enactment.
 
-“(3) Until otherwise provided by the Attorney General by regulation, the information required to be reported by a person under section 310(a)(1) of the Controlled Substances Act (as added by section 202(a)(2) of this title) \[subsec. (a)(1) of this section\] with respect to the person's distribution, sale, or importation of piperidine shall—
+"(3) Until otherwise provided by the Attorney General by regulation, the information required to be reported by a person under section 310(a)(1) of the Controlled Substances Act (as added by section 202(a)(2) of this title) \[subsec. (a)(1) of this section\] with respect to the person's distribution, sale, or importation of piperidine shall—
 
-&emsp;“(A) be the information described in subparagraphs (A) and (B) of such section, and
+&emsp;"(A) be the information described in subparagraphs (A) and (B) of such section, and
 
-&emsp;“(B) except as provided in paragraph (2) of this subsection, be reported not later than seven days after the date of such distribution, sale, or importation.”
+&emsp;"(B) except as provided in paragraph (2) of this subsection, be reported not later than seven days after the date of such distribution, sale, or importation."
 
 #### Repeals
 
@@ -316,7 +316,7 @@ Pub. L. 96–359, §8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d)
 
 #### Regulations
 
-Pub. L. 111–268, §6(b), Oct. 12, 2010, 124 Stat. 2848, provided that: “In promulgating the regulations authorized by section 2 \[amending this section\], the Attorney General may issue regulations on an interim basis as necessary to ensure the implementation of this Act by the effective date \[see Effective Date of 2010 Amendment note above\].”
+Pub. L. 111–268, §6(b), Oct. 12, 2010, 124 Stat. 2848, provided that: "In promulgating the regulations authorized by section 2 \[amending this section\], the Attorney General may issue regulations on an interim basis as necessary to ensure the implementation of this Act by the effective date \[see Effective Date of 2010 Amendment note above\]."
 
 Pub. L. 95–633, title II, §203(b), Nov. 10, 1978, 92 Stat. 3777, required the Attorney General to publish proposed interim regulations for piperidine reporting under section 830(a) of this title not later than 30 days after enactment, and final interim regulations not later than 75 days after enactment, such final interim regulations to be effective on and after the ninety-first day after enactment.
 

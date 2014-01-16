@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-The Attorney General, in consultation with the Secretary of Education, shall provide for a national baseline study to examine the scope of the problem of campus sexual assaults and the effectiveness of institutional and legal policies in addressing such crimes and protecting victims. The Attorney General may utilize the Bureau of Justice Statistics, the National Institute of Justice, and the Office for Victims of Crime in carrying out this section.
+The Attorney General, in consultation with the Secretary of Education, shall provide for anational baseline study to examine the scope of the problem of campus sexual assaults and the effectiveness of institutional and legal policies in addressing such crimes and protecting victims. The Attorney General may utilize the Bureau of Justice Statistics, the National Institute of Justice, and the Office for Victims of Crime in carrying out this section.
 
 #### (b) Report
 
@@ -26,7 +26,7 @@ Based on the study required by subsection (a) of this section and data collected
 
 &emsp;&emsp;(D) the nature and availability of victim services for victims of campus sexual assaults;
 
-&emsp;&emsp;(E) the ability of educational institutions’ disciplinary processes to address allegations of sexual assault adequately and fairly;
+&emsp;&emsp;(E) the ability of educational institutions' disciplinary processes to address allegations of sexual assault adequately and fairly;
 
 &emsp;&emsp;(F) measures that are taken to ensure that victims are free of unwanted contact with alleged assailants, and disciplinary sanctions that are imposed when a sexual assault is determined to have occurred; and
 
@@ -40,9 +40,9 @@ Based on the study required by subsection (a) of this section and data collected
 
 The report required by subsection (b) of this section shall be submitted to the Congress no later than September 1, 1996.
 
-#### (d) “Campus sexual assaults” defined
+#### (d) "Campus sexual assaults" defined
 
-For purposes of this section, “campus sexual assaults” includes sexual assaults occurring at institutions of postsecondary education and sexual assaults committed against or by students or employees of such institutions.
+For purposes of this section, "campus sexual assaults" includes sexual assaults occurring at institutions of postsecondary education and sexual assaults committed against or by students or employees of such institutions.
 
 #### (e) Authorization of appropriations
 

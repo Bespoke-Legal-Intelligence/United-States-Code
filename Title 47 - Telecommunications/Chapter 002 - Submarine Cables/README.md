@@ -19,7 +19,7 @@
 | [35\.](%C2%A7%2000035%20-%20Withholding%20or%20revoking%20of%20licenses%20by%20President%3B%20terms%20and%20conditions%20of%20licenses.md) | Withholding or revoking of licenses by President; terms and conditions of licenses. |
 | [36\.](%C2%A7%2000036%20-%20Preventing%20landing%20or%20operating%20of%20cables%3B%20injunction.md) | Preventing landing or operating of cables; injunction. |
 | [37\.](%C2%A7%2000037%20-%20Violations%3B%20punishment.md) | Violations; punishment. |
-| [38\.](%C2%A7%2000038%20-%20%E2%80%9CUnited%20States%E2%80%9D%20defined.md) | “United States” defined. |
+| [38\.](%C2%A7%2000038%20-%20United%20States%20defined.md) | "United States" defined. |
 | [39\.](%C2%A7%2000039%20-%20Amendment%2C%20modification%2C%20etc.%2C%20of%20rights%20granted.md) | Amendment, modification, etc., of rights granted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,5 +46,5 @@
 - [&sect; 00035 - Withholding or revoking of licenses by President; terms and conditions of licenses](%C2%A7%2000035%20-%20Withholding%20or%20revoking%20of%20licenses%20by%20President%3B%20terms%20and%20conditions%20of%20licenses.md)
 - [&sect; 00036 - Preventing landing or operating of cables; injunction](%C2%A7%2000036%20-%20Preventing%20landing%20or%20operating%20of%20cables%3B%20injunction.md)
 - [&sect; 00037 - Violations; punishment](%C2%A7%2000037%20-%20Violations%3B%20punishment.md)
-- [&sect; 00038 - &#8220;United States&#8221; defined](%C2%A7%2000038%20-%20%E2%80%9CUnited%20States%E2%80%9D%20defined.md)
+- [&sect; 00038 - United States defined](%C2%A7%2000038%20-%20United%20States%20defined.md)
 - [&sect; 00039 - Amendment, modification, etc., of rights granted](%C2%A7%2000039%20-%20Amendment%2C%20modification%2C%20etc.%2C%20of%20rights%20granted.md)

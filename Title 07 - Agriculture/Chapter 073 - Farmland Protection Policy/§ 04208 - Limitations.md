@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–624 inserted before period at end “during a national emergency”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–624 inserted before period at end "during a national emergency".
 

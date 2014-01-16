@@ -6,7 +6,7 @@ Prohibition.—
 
 &emsp;(1)
 
-In general.—It shall be unlawful for any person to solicit or receive a donation of money or other thing of value in connection with a Federal, State, or local election from a person who is located in a room or building occupied in the discharge of official duties by an officer or employee of the United States. It shall be unlawful for an individual who is an officer or employee of the Federal Government, including the President, Vice President, and Members of Congress, to solicit or receive a donation of money or other thing of value in connection with a Federal, State, or local election, while in any room or building occupied in the discharge of official duties by an officer or employee of the United States, from any person.
+In general.—It shall be unlawful for any person to solicit or receive a donation of money or other thing of value in connection with a Federal, State, or local election from a person who is located in a room or building occupied in the discharge of official duties by an officer or employee of the United States. It shall be unlawful for an individual who is an officer or employee of the Federal Government, including the President, Vice President, and Members of Congress, to solicit or receivea donation of money or other thing of value in connection with a Federal, State, or local election, while in any room or building occupied in the discharge of official duties by an officer or employee of the United States, from any person.
 
 &emsp;(2)
 
@@ -22,7 +22,7 @@ Based on title 18, U.S.C., 1940 ed., §§211, 212 (Mar. 4, 1909, ch. 321, §§12
 
 This section consolidates sections 211 and 212 of title 18, U.S.C., 1940 ed.
 
-This section was expanded to embrace all officers or persons acting on behalf of any independent agencies or Government-owned or controlled corporations by inserting words “or any department or agency thereof.” (See definitive section 6, and reviser's note under section 201 of this title.)
+This section was expanded to embrace all officers or persons acting on behalf of any independent agencies or Government-owned or controlled corporations by inserting words "or any department or agency thereof." (See definitive section 6, and reviser's note under section 201 of this title.)
 
 Changes were made in phraseology.
 
@@ -32,11 +32,11 @@ Section 302(e) of the Federal Election Campaign Act of 1971, referred to in subs
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–155, §302(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person to solicit or receive any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 in any room or building occupied in the discharge of official duties by any person mentioned in section 603, or in any navy yard, fort, or arsenal. Any person who violates this section shall be fined under this title or imprisoned not more than three years, or both.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–155, §302(1), added subsec. (a) and struck out former subsec. (a) which read as follows: "It shall be unlawful for any person to solicit or receive any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 in any room or building occupied in the discharge of official duties by any person mentioned in section 603, or in any navy yard, fort, or arsenal. Any person who violates this section shall be fined under this title or imprisoned not more than three years, or both."
 
-Subsec. (b). Pub. L. 107–155, §302(2), inserted “or Executive Office of the President” after “Congress”.
+Subsec. (b). Pub. L. 107–155, §302(2), inserted "or Executive Office of the President" after "Congress".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 
 <b>1980</b>—Pub. L. 96–187 substituted provisions relating to the place of solicitation for provisions relating to the making of political contributions.
 

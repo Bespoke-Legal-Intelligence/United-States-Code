@@ -9,4 +9,4 @@ This subpart was, in the original, chapter 11 of subtitle B of title IV of Pub. 
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 13973 - Research on effective interventions in the health care setting](%C2%A7%2013973%20-%20Research%20on%20effective%20interventions%20in%20the%20health%20care%20setting.md)
+- [&sect; 13973 - Repealed. Pub. L. 113&#8211;4, title V, &sect;501(b)(1), Mar. 7, 2013, 127 Stat. 101](%C2%A7%2013973%20-%20Repealed.%20Pub.%20L.%20113%E2%80%934%2C%20title%20V%2C%20%C2%A7501%28b%29%281%29%2C%20Mar.%207%2C%202013%2C%20127%20Stat.%20101.md)

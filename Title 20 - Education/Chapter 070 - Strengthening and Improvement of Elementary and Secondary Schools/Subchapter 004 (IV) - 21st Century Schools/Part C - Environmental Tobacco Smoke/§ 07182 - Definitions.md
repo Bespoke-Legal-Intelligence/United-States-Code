@@ -4,11 +4,11 @@ As used in this part:
 
 #### (1) Children
 
-&emsp;The term “children” means individuals who have not attained the age of 18.
+&emsp;The term "children" means individuals who have not attained the age of 18.
 
 #### (2) Children's services
 
-&emsp;The term “children's services” means the provision on a routine or regular basis of health, day care, education, or library services—
+&emsp;The term "children's services" means the provision on a routine or regular basis of health, day care, education, or library services—
 
 &emsp;&emsp;(A) that are funded, after January 8, 2002, directly by the Federal Government or through State or local governments, by Federal grant, loan, loan guarantee, or contract programs—
 
@@ -22,15 +22,15 @@ As used in this part:
 
 #### (3) Indoor facility
 
-&emsp;The term “indoor facility” means a building that is enclosed.
+&emsp;The term "indoor facility" means a building that is enclosed.
 
 #### (4) Person
 
-&emsp;The term “person” means any State or local subdivision of a State, agency of such State or subdivision, corporation, or partnership that owns or operates or otherwise controls and provides children's services or any individual who owns or operates or otherwise controls and provides such services.
+&emsp;The term "person" means any State or local subdivision of a State, agency of such State or subdivision, corporation, or partnership that owns or operates or otherwise controls and provides children's services or any individual who owns or operates or otherwise controls and provides such services.
 
 #### (5) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services.
 
 (Pub. L. 89–10, title IV, §4302, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1773.)
 

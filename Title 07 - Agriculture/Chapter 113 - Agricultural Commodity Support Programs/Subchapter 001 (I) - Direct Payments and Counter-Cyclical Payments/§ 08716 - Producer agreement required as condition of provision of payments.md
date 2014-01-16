@@ -48,7 +48,7 @@
 
 #### (2) Production reports
 
-&emsp;As a condition on the receipt of any benefits under this subchapter or subchapter II, the Secretary shall require producers on a farm that receive payments under section 8715 of this title to submit to the Secretary annual production reports with respect to all covered commodities and peanuts produced on the farm.
+&emsp;As a condition on the receipt of any benefits under this subchapter or subchapter II, theSecretary shall require producers on a farm that receive payments under section 8715 of this title to submit to the Secretary annual production reports with respect to all covered commodities and peanuts produced on the farm.
 
 #### (3) Penalties
 

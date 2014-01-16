@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish procedures to ensure that each operator, and each service provider, maintains a financial management information system that will provide—
+&emsp;The Secretary shall establish procedures to ensure that each operator, and each serviceprovider, maintains a financial management information system that will provide—
 
 &emsp;&emsp;(A) accurate, complete, and current disclosures of the costs of Job Corps operations; and
 
@@ -142,9 +142,9 @@ Prior to the closure of any Job Corps center, the Secretary shall ensure—
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c)(1)(G). Pub. L. 105–277, §101(f) \[title VIII, §401(6)(A)\], substituted “postsecondary” for “post-secondary”.
+<b>1998</b>—Subsec. (c)(1)(G). Pub. L. 105–277, §101(f) \[title VIII, §401(6)(A)\], substituted "postsecondary" for "post-secondary".
 
-Subsec. (c)(3). Pub. L. 105–277, §101(f) \[title VIII, §401(6)(B)\], substituted “containing,” for “containing”.
+Subsec. (c)(3). Pub. L. 105–277, §101(f) \[title VIII, §401(6)(B)\], substituted "containing," for "containing".
 
-Subsec. (d)(4). Pub. L. 105–277, §101(f) \[title VIII, §401(6)(A)\], substituted “postsecondary” for “post-secondary”.
+Subsec. (d)(4). Pub. L. 105–277, §101(f) \[title VIII, §401(6)(A)\], substituted "postsecondary" for "post-secondary".
 

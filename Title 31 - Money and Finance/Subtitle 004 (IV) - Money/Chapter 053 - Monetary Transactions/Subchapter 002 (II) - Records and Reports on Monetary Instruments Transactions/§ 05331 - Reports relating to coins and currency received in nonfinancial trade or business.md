@@ -46,7 +46,7 @@ Currency Includes Foreign Currency and Certain Monetary Instruments.—
 
 &emsp;(1)
 
-In general.—For purposes of this section, the term “currency” includes—
+In general.—For purposes of this section, the term "currency" includes—
 
 &emsp;&emsp;(A) foreign currency; and
 
@@ -64,9 +64,9 @@ Section 6050I(g) of the Internal Revenue Code of 1986, referred to in subsec. (a
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–74 redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), substituted “, and” for “; and” in subpar. (A), inserted “or” at end of subpar. (B), and added par. (2).
+<b>2011</b>—Subsec. (a). Pub. L. 112–74 redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), substituted ", and" for "; and" in subpar. (A), inserted "or" at end of subpar. (B), and added par. (2).
 
 #### Regulations
 
-Pub. L. 107–56, title III, §365(e), formerly §365(f), Oct. 26, 2001, 115 Stat. 335, renumbered §365(e) by Pub. L. 108–458, title VI, §6202(n)(2), Dec. 17, 2004, 118 Stat. 3746, provided that: “Regulations which the Secretary \[of the Treasury\] determines are necessary to implement this section \[enacting this section and amending sections 5312, 5317, 5318, 5321, 5324, 5326, and 5328 of this title\] shall be published in final form before the end of the 6-month period beginning on the date of enactment of this Act \[Oct. 26, 2001\].”
+Pub. L. 107–56, title III, §365(e), formerly §365(f), Oct. 26, 2001, 115 Stat. 335, renumbered §365(e) by Pub. L. 108–458, title VI, §6202(n)(2), Dec. 17, 2004, 118 Stat. 3746, provided that: "Regulations which the Secretary \[of the Treasury\] determines are necessary to implement this section \[enacting this section and amending sections 5312, 5317, 5318, 5321, 5324, 5326, and 5328 of this title\] shall be published in final form before the end of the 6-month period beginning on the date of enactment of this Act \[Oct. 26, 2001\]."
 

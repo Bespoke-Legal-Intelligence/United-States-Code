@@ -10,7 +10,7 @@
 
 &emsp;(C) the Secretary of Commerce and the Director of the National Science Foundation, in consultation with the Secretary of State, may furnish facilities and personnel to the Commission in order to assist the Commission in carrying out its functions.
 
-(2)(A) The Secretary of Commerce, in consultation with the Secretary of State, the Director of the National Science Foundation, and other appropriate Federal officials, shall prepare a plan, which shall be updated annually, for conducting the directed research program requiredunder paragraph (1)(B) for each period of three consecutive fiscal years occurring during the period beginning on October 1, 1985, and ending on September 30, 1991. The plan shall—
+(2)(A) The Secretary of Commerce, in consultation with the Secretary of State, the Director of the National Science Foundation, and other appropriate Federal officials, shall prepare a plan, which shall be updated annually, for conducting the directed research program required under paragraph (1)(B) for each period of three consecutive fiscal years occurring during the period beginning on October 1, 1985, and ending on September 30, 1991. The plan shall—
 
 &emsp;(i) describe priority directed research needs for the implementation of the Convention;
 
@@ -34,5 +34,5 @@ The Department of Homeland Security shall facilitate planning for the design, pr
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–241 substituted “of Homeland Security” for “of Transportation”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–241 substituted "of Homeland Security" for "of Transportation".
 

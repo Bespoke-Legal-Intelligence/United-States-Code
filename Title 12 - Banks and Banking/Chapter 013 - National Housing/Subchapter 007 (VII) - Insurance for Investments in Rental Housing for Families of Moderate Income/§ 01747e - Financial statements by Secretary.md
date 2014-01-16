@@ -6,7 +6,7 @@ With respect to each project insured under this subchapter, the Secretary shall 
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner" wherever appearing.
 
-<b>1950</b>—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, substituted "Commissioner" for "Administrator" wherever appearing.
 

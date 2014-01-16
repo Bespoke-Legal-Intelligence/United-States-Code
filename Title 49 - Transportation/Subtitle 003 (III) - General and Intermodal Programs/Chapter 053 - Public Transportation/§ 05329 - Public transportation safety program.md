@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “recipient” means a State or local governmental authority, or any other operator of a public transportation system, that receives financial assistance under this chapter.
+Definition.—In this section, the term "recipient" means a State or local governmental authority, or any other operator of a public transportation system, that receives financial assistance under this chapter.
 
 (b)
 
@@ -18,7 +18,7 @@ Contents of plan.—The national public transportation safety plan under paragra
 
 &emsp;&emsp;(A) safety performance criteria for all modes of public transportation;
 
-&emsp;&emsp;(B) the definition of the term “state of good repair” established under section 5326(b);
+&emsp;&emsp;(B) the definition of the term "state of good repair" established under section 5326(b);
 
 &emsp;&emsp;(C) minimum safety performance standards for public transportation vehicles used in revenue operations that—
 
@@ -96,7 +96,7 @@ Applicability.—This subsection applies only to eligible States.
 
 &emsp;(2)
 
-Definition.—In this subsection, the term “eligible State” means a State that has—
+Definition.—In this subsection, the term "eligible State" means a State that has—
 
 &emsp;&emsp;(A) a rail fixed guideway public transportation system within the jurisdiction of the State that is not subject to regulation by the Federal Railroad Administration; or
 
@@ -382,9 +382,9 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §22(a); added Jan. 6, 1983, Pub. 
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §22(b); added Dec. 18, 1991, Pub. L. 102–240, §3026(2), 105 Stat. 2114.
 
-In subsection (a), the words “manner of” are omitted as surplus. The word “how” is substituted for “the means which might best be employed” to eliminate unnecessary words. The words “or eliminating” and “from the local public body” are omitted as surplus. The words “a plan is approved and carried out” are substituted for “he approves such plan and the local public body implements such plan” to eliminate unnecessary words.
+In subsection (a), the words "manner of" are omitted as surplus. The word "how" is substituted for "the means which might best be employed" to eliminate unnecessary words. The words "or eliminating" and "from the local public body" are omitted as surplus. The words "a plan is approved and carried out" are substituted for "he approves such plan and the local public body implements such plan" to eliminate unnecessary words.
 
-In subsection (b)(1) and (2), the words “a description of” are added for clarity.
+In subsection (b)(1) and (2), the words "a description of" are added for clarity.
 
 #### References in Text
 

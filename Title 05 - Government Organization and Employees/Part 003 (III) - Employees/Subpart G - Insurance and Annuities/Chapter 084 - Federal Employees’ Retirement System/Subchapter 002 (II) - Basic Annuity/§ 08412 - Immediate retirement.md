@@ -52,7 +52,7 @@
 
 (B) For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1965 through 1969, the age increase factor shall be equal to two-twelfths times the number of months in the period beginning with January 1965 and ending with December of the year in which the date of birth occurs.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 524; amended Pub. L. 99–556, title I, §105(a), Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–428, §3(a), Oct. 15, 1990, 104 Stat. 929; Pub. L. 105–261, div. C, title XXXI, §3154(g), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 110–161, div. E, title V, §535(b)(2), Dec. 26, 2007, 121 Stat. 2076.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 524; amended Pub. L. 99–556, titleI, §105(a), Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–428, §3(a), Oct. 15, 1990, 104 Stat. 929; Pub. L. 105–261, div. C, title XXXI, §3154(g), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 110–161, div. E, title V, §535(b)(2), Dec. 26, 2007, 121 Stat. 2076.)
 
 #### Amendments
 
@@ -68,7 +68,7 @@
 
 #### Effective Date of 2007 Amendment; Transition Rules
 
-Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay periodbeginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
+Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
 
 #### Effective Date of 2000 Amendment
 

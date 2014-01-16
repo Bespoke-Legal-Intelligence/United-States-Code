@@ -48,7 +48,7 @@ Factors To Be Considered in Prescribing Regulations.—The following factors sha
 
 &emsp;&emsp;(C) in part with Federal funds and in part at private expense.
 
-&emsp;(2) The statement of congressional policy and objectives in section 200 of title 35, thestatement of purposes in section 2(b) of the Small Business Innovation Development Act of 1982 (Public Law 97–219, 15 U.S.C. 638 note), and the declaration of policy in section 2 of the Small Business Act (15 U.S.C. 631).
+&emsp;(2) The statement of congressional policy and objectives in section 200 of title 35, the statement of purposes in section 2(b) of the Small Business Innovation Development Act of 1982 (Public Law 97–219, 15 U.S.C. 638 note), and the declaration of policy in section 2 of the Small Business Act (15 U.S.C. 631).
 
 &emsp;(3) The interest of the Federal Government in increasing competition and lowering costs by developing and locating alternative sources of supply and manufacture.
 
@@ -108,5 +108,5 @@ Pub. L. 93–400, §21, as added Pub. L. 98–577, title III, §301(a), Oct. 30,
 
 41:418a(d).
 
-In subsection (a), the words “Federal Acquisition Regulation” are substituted for “single system of Government-wide procurement regulations as defined in section 403(4) of this title” because section 3(a)(1) of the Office of Federal Procurement Policy Act Amendments of 1988 (Public Law 100–679, 102 Stat. 4055) substituted “Federal Acquisition Regulation” for “single system of Government-wide procurement regulations” in section 6 of the Office of Federal Procurement Policy Act (Public Law 93–400, 88 Stat. 797, 41:406) and because section 3(c) of the Office of Federal Procurement Policy Act Amendments of 1988 (102 Stat. 4056) struck section 4(4) of the Office of Federal Procurement Policy Act (88 Stat. 797, 41:403(4)), as amended by section 4 of the Office of Federal Procurement Policy Act Amendments of 1983 (Public Law 98–191, 97 Stat. 1326), which had defined “single system of Government-wide procurement regulations”.
+In subsection (a), the words "Federal Acquisition Regulation" are substituted for "single system of Government-wide procurement regulations as defined in section 403(4) of this title" because section 3(a)(1) of the Office of Federal Procurement Policy Act Amendments of 1988 (Public Law 100–679, 102 Stat. 4055) substituted "Federal Acquisition Regulation" for "single system of Government-wide procurement regulations" in section 6 of the Office of Federal Procurement Policy Act (Public Law 93–400, 88 Stat. 797, 41:406) and because section 3(c) of the Office of Federal Procurement Policy Act Amendments of 1988 (102 Stat. 4056) struck section 4(4) of the Office of Federal Procurement Policy Act (88 Stat. 797, 41:403(4)), as amended by section 4 of the Office of Federal Procurement Policy Act Amendments of 1983 (Public Law 98–191, 97 Stat. 1326), which had defined "single system of Government-wide procurement regulations".
 

@@ -20,5 +20,5 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 #### Amendments
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in section 3501(4) of title 19) or the North American Free Trade Agreement” for “General Agreement on Tariffs and Trade or the United States-Canada Free Trade Agreement”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–36 substituted "multilateral trade agreements (as defined in section 3501(4) of title 19) or the North American Free Trade Agreement" for "General Agreement on Tariffs and Trade or the United States-Canada Free Trade Agreement".
 

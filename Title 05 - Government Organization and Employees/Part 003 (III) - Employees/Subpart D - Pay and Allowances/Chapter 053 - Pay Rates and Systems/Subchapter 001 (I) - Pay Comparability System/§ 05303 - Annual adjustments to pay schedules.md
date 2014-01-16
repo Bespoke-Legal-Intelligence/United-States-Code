@@ -106,7 +106,7 @@ Pub. L. 101–509, title V, §529 \[title I, §101(e)\], Nov. 5, 1990, 104 Stat.
 
 #### Federal Employee Pay Adjustments
 
-<b>2010</b>—Pub. L. 111–242, §147, as added by Pub. L. 111–322, title I, §1(a)(2), Dec. 22, 2010, 124 Stat. 3518, provided that:
+<b>2010</b>—Pub. L. 111–242, §147, as added by Pub. L. 111–322, title I, §1(a)(2), Dec. 22, 2010, 124 Stat. 3518, as amended by Pub. L. 113–6, div. F, title I, §1112(a), Mar. 26, 2013, 127 Stat. 414, provided that:
 
 “(a) For the purposes of this section—
 
@@ -130,7 +130,7 @@ Pub. L. 101–509, title V, §529 \[title I, §101(e)\], Nov. 5, 1990, 104 Stat.
 
 &emsp;“(4) the term ‘Executive agency’ has the meaning given such term by section 105 of title 5, United States Code.
 
-“(b)(1) Notwithstanding any other provision of law, except as provided in subsection (e), no statutory pay adjustment which (but for this subsection) would otherwise take effect during the period beginning on January 1, 2011, and ending on December 31, 2012, shall be made.
+“(b)(1) Notwithstanding any other provision of law, except as provided in subsection (e), no statutory pay adjustment which (but for this subsection) would otherwise take effect during the period beginning on January 1, 2011, and ending on December 31, 2013, shall be made.
 
 “(2) For purposes of this subsection, the term ‘statutory pay adjustment’ means—
 
@@ -138,23 +138,19 @@ Pub. L. 101–509, title V, §529 \[title I, §101(e)\], Nov. 5, 1990, 104 Stat.
 
 &emsp;“(B) any similar adjustment, required by statute, with respect to employees in an Executive agency.
 
-“(c) Notwithstanding any other provision of law, except as provided in subsection (e), during the period beginning on January 1, 2011, and ending on December 31, 2012, no senior executive or senior-level employee may receive an increase in his or her rate of basic pay absent a change of position that results in a substantial increase in responsibility, or a promotion.
+“(c) Notwithstanding any other provision of law, except as provided in subsection (e), during the period beginning on January 1, 2011, and ending on December 31, 2013, no senior executive or senior-level employee may receive an increase in his or her rate of basic pay absent a change of position that results in a substantial increase in responsibility, or a promotion.
 
 “(d) The President may issue guidance that Executive agencies shall apply in the implementation of this section.
 
 “(e) The Non-Foreign Area Retirement Equity Assurance Act of 2009 \[Pub. L. 111–84, div. A, title XIX, subtitle B\] (5 U.S.C. 5304 note) shall be applied using the appropriate locality-based comparability payments established by the President as the applicable comparability payments in section 1914(2) and (3) of such Act.”
 
-\[Pub. L. 112–175, §114, Sept. 28, 2012, 126 Stat. 1316, provided that:
-
-\[“(a) Section 147 of Public Law 111–242 \[set out above\], as added by Public Law 111–322, shall be applied by substituting the date specified in section 106(3) of this joint resolution \[Mar. 27, 2013\] for ‘December 31, 2012’ each place it appears.
-
-\[“(b) Notwithstanding any other provision of law, any statutory pay adjustment (as defined in section 147(b)(2) of the Continuing Appropriations Act, 2011 (Public Law 111–242)) otherwise scheduled to take effect during fiscal year 2013 but prior to the date specified in section 106(3) of this joint resolution may take effect on the first day of the first applicable pay period beginning after the date specified in section 106(3).”\]
+\[Pub. L. 112–175, §114, Sept. 28, 2012, 126 Stat. 1316, which applied Mar. 27, 2013, as end date for moratorium on statutory pay adjustments and senior executive or senior-level executive pay increases under section 147 of Pub. L. 111–242 (set out above), was repealed by Pub. L. 113–6, div. F, title I, §1112(b), Mar. 26, 2013, 127 Stat. 415.\]
 
 <b>2009</b>—Pub. L. 111–117, div. C, title VII, §744, Dec. 16, 2009, 123 Stat. 3219, provided that:
 
 “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2010 under section 5303 of title 5, United States Code, shall be an increase of 1.5 percent, and the overall average percentage of the adjustments taking effect in such fiscal year under sections 5304–5304a of such title 5 shall be an increase of 0.5 percent (with comparability payments to be determined and allocated among pay localities by the President). Adjustments under the preceding sentence shall also apply to civilian employees in the Department of Homeland Security and in the Department of Defense. All adjustments under this subsection shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2010.
 
-“(b) Notwithstanding section 710 \[Pub. L. 111–117, 5 U.S.C. 5343 note\], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2010 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentages in subsection (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304–5304a of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304–5304a of such title 5 and prevailing rate employees described in section 5343(a)(5) of such title 5 shall be considered tobe located in the pay locality designated as ‘Rest of U.S.’ pursuant to section 5304 of such title 5 for purposes of this subsection.
+“(b) Notwithstanding section 710 \[Pub. L. 111–117, 5 U.S.C. 5343 note\], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2010 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentages in subsection (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304–5304a of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304–5304a of such title 5 and prevailing rate employees described in section 5343(a)(5) of such title 5 shall be considered to be located in the pay locality designated as ‘Rest of U.S.’ pursuant to section 5304 of such title 5 for purposes of this subsection.
 
 “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2010.”
 
@@ -198,7 +194,7 @@ Pub. L. 108–199, div. F, title VI, §640, Jan. 23, 2004, 118 Stat. 359, provid
 
 “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2004 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 4.1 percent, and this adjustment shall apply to civilian employees in the Department of Defense and the Department of Homeland Security and such adjustments shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2004.
 
-“(b) Notwithstanding section 613 of this Act \[div. F of Pub. L. 108–199, 5 U.S.C. 5343 note\], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2004 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentage in paragraph (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304 of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5 and prevailing rate employees described in section 5343(a)(5) of title 5 shall be considered to be located in the pay locality designated as ‘Rest of US’ pursuant to section 5304 of title 5 for purposes of this paragraph.
+“(b) Notwithstanding section 613 of this Act \[div. F of Pub. L. 108–199, 5 U.S.C. 5343 note\], the adjustment in rates of basic pay for the statutory pay systems thattake place in fiscal year 2004 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentage in paragraph (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304 of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5 and prevailing rate employees described in section 5343(a)(5) of title 5 shall be considered to be located in the pay locality designated as ‘Rest of US’ pursuant to section 5304 of title 5 for purposes of this paragraph.
 
 “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2004.”
 
@@ -328,11 +324,11 @@ Pub. L. 101–194, title XI, §1101(a), Nov. 30, 1989, 103 Stat. 1781, provided 
 
 Adjustments in Rates of Pay.—Notwithstanding any other provision of law (including any provision of this Act or amendment made by this Act), effective as provided in paragraph (2), the rate of pay of each office and position of United States Senator, the President pro tempore of the Senate, and the majority and minority leaders of the Senate shall be increased by—
 
-&emsp;“(A) the percentage increase that would have taken effect in fiscal year 1988 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) were applied to the rate of pay of each such office and position in effect on January 1, 1988 without regard to section 108 of the resolution entitled ‘Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes’, approved December 22, 1987 \[Pub. L. 100–202\]; (101 Stat. 1329–434; 5 U.S.C. 5305 note \[set out below\]);
+&emsp;“(A) the percentage increase that would have taken effect in fiscal year 1988 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) \[now 2 U.S.C. 4501(2)\] were applied to the rate of pay of each such office and position in effect on January 1, 1988 without regard to section 108 of the resolution entitled ‘Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes’, approved December 22, 1987 \[Pub. L. 100–202\]; (101 Stat. 1329–434; 5 U.S.C. 5305 note \[set out below\]);
 
-&emsp;“(B) the percentage increase that would have taken effect in fiscal year 1989 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) were applied to the rate of pay of each such office and position in effect on January 1, 1989 (as adjusted under subparagraph (A) of this paragraph) without regard to subsection (b) of section 620 of the Treasury, Postal Service and General Government Appropriations Act, 1989 (Public Law 100–440; 102 Stat. 1756; 5 U.S.C. 5305 note \[set out below\]); and
+&emsp;“(B) the percentage increase that would have taken effect in fiscal year 1989 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) \[now 2 U.S.C. 4501(2)\] were applied to the rate of pay of each such office and position in effect on January 1, 1989 (as adjusted under subparagraph (A) of this paragraph) without regard to subsection (b) of section 620 of the Treasury, Postal Service and General Government Appropriations Act, 1989 (Public Law 100–440; 102 Stat. 1756; 5 U.S.C. 5305 note \[set out below\]); and
 
-&emsp;“(C) the percentage increase that would take effect in fiscal year 1990 by the application of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) (as adjusted under subparagraphs (A) and (B) of this paragraph) without regard to subsection (b) of section 619 of the Treasury, Postal Service and General Government Appropriations Act, 1990 (Public Law 101–136) \[set out below\].
+&emsp;“(C) the percentage increase that would take effect in fiscal year 1990 by the application of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) \[now 2 U.S.C. 4501(2)\] (as adjusted under subparagraphs (A) and (B) of this paragraph) without regard to subsection (b) of section 619 of the Treasury, Postal Service and General Government Appropriations Act, 1990 (Public Law 101–136) \[set out below\].
 
 “(2) The increase in the rates of pay for each office and position described under paragraph (1) shall be effective on the first day of the first pay period beginning on or after January 1, 1990.”
 
@@ -348,7 +344,7 @@ Pub. L. 101–136, title VI, §619, Nov. 3, 1989, 103 Stat. 820, provided that:
 
 &emsp;“(B) to a rate exceeding the rate of basic pay described in paragraph (3) if, as of September 30, 1989, the rate of salary or basic pay payable for that office or position was less than the rate described in such paragraph.
 
-“(2) For purposes of paragraph (1), the rate of salary or basic pay payable as of September 30, 1989, for any office or position which was not in existence on such date shall be deemed to be the rate of salary or basic pay payable to individuals in comparable offices or positions on such date, as determined under regulations prescribed—
+“(2) For purposes of paragraph (1), the rate of salary or basic pay payable as of September 30, 1989, for any office or position which was not in existence on such date shall be deemed to be the rate of salary or basicpay payable to individuals in comparable offices or positions on such date, as determined under regulations prescribed—
 
 &emsp;“(A) by the President, in the case of any office or position within the executive branch or in the government of the District of Columbia;
 
@@ -418,7 +414,7 @@ Uniform adjustments; delayed effective date.—Each increase in a pay rate or sc
 
 &emsp;“(A) the term ‘total pay’ means, with respect to a fiscal year, the total amount of basic pay which will be payable to employees covered by statutory pay systems for service performed during such fiscal year;
 
-&emsp;“(B) the term ‘increase in total pay’ means, with respect to a fiscal year, that part of total pay forsuch year which is attributable to the adjustment taking effect under this section during such year; and
+&emsp;“(B) the term ‘increase in total pay’ means, with respect to a fiscal year, that part of total pay for such year which is attributable to the adjustment taking effect under this section during such year; and
 
 &emsp;“(C) the term ‘statutory pay system’ has the meaning given such term by section 5301(c) of title 5, United States Code.”
 

@@ -30,7 +30,7 @@ A prior section 731, Pub. L. 93–112, title I, §111, Sept. 26, 1973, 87 Stat. 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1998</b>—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
 

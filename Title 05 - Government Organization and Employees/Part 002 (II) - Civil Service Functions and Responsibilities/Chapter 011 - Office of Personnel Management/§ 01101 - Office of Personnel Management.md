@@ -58,7 +58,7 @@ Pub. L. 108–458, title VIII, §8403(b), Dec. 17, 2004, 118 Stat. 3870, as amen
 
 “(1)
 
-Definition.—In this section, the term ‘major party’ has the meaning given that term under section 9002(6) of the Internal Revenue Code of 1986 \[26 U.S.C. 9002(6)\].
+Definition.—In this section, the term ‘major party’ has the meaning given that term under section9002(6) of the Internal Revenue Code of 1986 \[26 U.S.C. 9002(6)\].
 
 “(2)
 
@@ -172,7 +172,7 @@ Pub. L. 102–393, title V, §532, Oct. 6, 1992, 106 Stat. 1763, provided that: 
 
 #### Report on Productivity of Federal Workforce; Deadline
 
-Pub. L. 101–509, title V, §535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendationswith regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
+Pub. L. 101–509, title V, §535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
 
 #### Funds for Preparation, Promulgation, or Implementation of Regulations Relating to Combined Federal Campaign; Eligibility Criteria
 
@@ -206,7 +206,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 > For purposes of this subparagraph, an agency or federated group shall be considered to have conducted program activities in the required number of States, countries, or parts of a country, over the period of years involved, if such agency or group conducted program activities in such number of States, countries, or parts either in any single year during such period or in the aggregate over the course of such period, provided that no State, country, or part of a country is counted more than once.
 
-“(B) Notwithstanding any other provisions, eligibility requirements relating to International Services Agencies shall remain at least as inclusive as existing requirements. Any voluntary agency or federated group which attains national eligibility under subparagraph (A), and any voluntary agency which is a member of the International Services Agencies, shall be considered to have satisfied any requirements relating to ‘local presence’.
+“(B) Notwithstanding any other provisions, eligibility requirements relating to International Services Agencies shall remain at least as inclusive as existing requirements. Any voluntary agency or federated groupwhich attains national eligibility under subparagraph (A), and any voluntary agency which is a member of the International Services Agencies, shall be considered to have satisfied any requirements relating to ‘local presence’.
 
 “(3)(A) If a federated group is eligible to receive donations in a Combined Federal Campaign, whether on a national level (pursuant to certification by the Office) or a local level (pursuant to certification by the local Federal coordinating committee), each voluntary agency which is a member of such group may, upon certification by the federated group, be considered eligible to participate on such national or local level, as the case may be.
 
@@ -244,7 +244,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 &emsp;“(iii) 7 percent shall be allocated to the National Voluntary Health Agencies.
 
-&emsp;“(iv) 4 percent shall, after fair and careful consideration of all eligible federated groups and agencies, beallocated by the local Federal coordinating committee among any or all of the following:
+&emsp;“(iv) 4 percent shall, after fair and careful consideration of all eligible federated groups and agencies, be allocated by the local Federal coordinating committee among any or all of the following:
 
 &emsp;&emsp;“(I) National federated groups (other than any identified in clauses (i), (ii), or (iii)), except that a national federated group shall not be eligible under this subclause unless there are at least 15 members of such group participating in the local campaign, unless the members of such group collectively receive at least 4 percent of the designated contributions in the local campaign, and unless such group was granted national eligibility status for the 1987, 1988, 1989, or 1990 Combined Federal Campaign.
 
@@ -424,7 +424,7 @@ Federal Register.
 
 #### Sec. 301. Establishment of the Federal Labor Relations Authority
 
-(a) There is hereby established, as an independent establishment in the Executive Branch, the Federal Labor Relations Authority (the “Authority”). The Authority shall be composed of three members, one of whom shall be Chairman, not more than two of whom may be adherents of the same political party, and none of whom may hold another office or position in the Government of the United States except where provided by law or by the President.
+(a) There is hereby established, as an independent establishment in the Executive Branch, the FederalLabor Relations Authority (the “Authority”). The Authority shall be composed of three members, one of whom shall be Chairman, not more than two of whom may be adherents of the same political party, and none of whom may hold another office or position in the Government of the United States except where provided by law or by the President.
 
 (b) Members of the Authority shall be appointed by the President, by and with the advice and consent of the Senate. The President shall designate one member to serve as Chairman of the Authority, who shall be compensated at the rate now or hereafter provided for level III of the Executive Schedule \[5 U.S.C. 5314\]. The other members shall be compensated at the rate now or hereafter provided for level IV of the Executive Schedule \[5 U.S.C. 5315\].
 
@@ -512,7 +512,7 @@ The Plan I submit today would consolidate the central policymaking functions in 
 
 The cost of replacing the Civil Service Commission can be paid by our present resources. The reorganization itself would neither increase nor decrease the costs of personnel management throughout the government. But taken together with the substantive reforms I have proposed, this Plan will greatly improve the government's ability to manage programs, speed the delivery of Federal services to the public, and aid in executing other reorganizations I will propose to the Congress, by improving Federal personnel management.
 
-Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forthin 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head and one or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
+Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forth in 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head and one or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
 
 I am confident that this Plan and the companion civil service reform legislation will both lead to more effective protection of Federal employees’ legitimate rights and a more rewarding workplace. At the same time the American people will benefit from a better managed, more productive and more efficient Federal Government.
 

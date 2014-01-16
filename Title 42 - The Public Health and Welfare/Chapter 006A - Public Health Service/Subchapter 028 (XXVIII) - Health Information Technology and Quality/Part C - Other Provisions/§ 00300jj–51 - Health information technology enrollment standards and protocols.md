@@ -40,7 +40,7 @@ With respect to any standard or protocol developed under subsection (a) that has
 
 #### (1) In general
 
-&emsp;The Secretary shall award grant <sup>2</sup> to eligible entities to develop new, and adapt existing, technology systems to implement the HIT enrollment standards and protocols developed under subsection (a) (referred to in this subsection as “appropriate HIT technology”).
+&emsp;The Secretary shall award grant <sup>2</sup> to eligible entities to develop new, and adapt existing, technology systems to implement the HIT enrollment standards and protocols developed under subsection (a) (referred to in this subsection as "appropriate HIT technology").
 
 #### (2) Eligible entities
 
@@ -76,9 +76,9 @@ With respect to any standard or protocol developed under subsection (a) that has
 
 #### References in Text
 
-March 23, 2010, referred to in subsec. (a)(1), was in the original “the date of enactment of this title”, which was translated as meaning the date of enactment of Pub. L. 111–148, which enacted this part, to reflect the probable intent of Congress.
+March 23, 2010, referred to in subsec. (a)(1), was in the original "the date of enactment of this title", which was translated as meaning the date of enactment of Pub. L. 111–148, which enacted this part, to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “grants”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "grants".</i>
 

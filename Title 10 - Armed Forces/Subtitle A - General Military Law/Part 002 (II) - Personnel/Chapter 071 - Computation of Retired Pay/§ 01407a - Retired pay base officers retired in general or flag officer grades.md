@@ -6,7 +6,7 @@ Rates of Basic Pay to Be Used in Determination.—In a case in which the determi
 
 (b)
 
-Covered General and Flag Officers.—In this section, the term “covered general or flag officer” means a member or former member who after September 30, 2006, is retired in a general officer grade or flag officer grade.
+Covered General and Flag Officers.—In this section, the term "covered general or flag officer" means a member or former member who after September 30, 2006, is retired in a general officer grade or flag officer grade.
 
 (Added Pub. L. 109–364, div. A, title VI, §641(a), Oct. 17, 2006, 120 Stat. 2258.)
 

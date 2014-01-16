@@ -6,5 +6,5 @@ The Secretary of the Interior is hereby authorized, under such rules and regulat
 
 #### Amendments
 
-<b>1928</b>—Act Dec. 11, 1928, struck out “and directed” after “authorized”, “dissolved in and soluble in water, and accumulated by concentration, in lands belonging to the United States for a period not exceeding two years,” after “nitrates of sodium”, and last proviso which read “<i>Provided further</i>, That the provisions of this section shall not apply to lands in San Bernardino County, California.”
+<b>1928</b>—Act Dec. 11, 1928, struck out "and directed" after "authorized", "dissolved in and soluble in water, and accumulated by concentration, in lands belonging to the United States for a period not exceeding two years," after "nitrates of sodium", and last proviso which read "<i>Provided further</i>, That the provisions of this section shall not apply to lands in San Bernardino County, California."
 

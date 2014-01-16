@@ -2,7 +2,7 @@
 
 On or before the 1st day of October in each year, the Secretary of Agriculture shall ascertain and certify to the Secretary of the Treasury as to each State and Territory whether it is entitled to receive its share of the annual appropriation for colleges, or of institutions for colored students, under this subchapter, and the amount which thereupon each is entitled, respectively, to receive. If the Secretary of Agriculture shall withhold a certificate from any State or Territory of its appropriation the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the close of the next Congress, in order that the State or Territory may, if it should so desire, appeal to Congress from the determination of the Secretary of Agriculture. If the next Congress shall not direct such sum to be paid it shall be covered into the Treasury.
 
-(Aug. 30, 1890, ch. 841, §4, 26 Stat. 419; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff.Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 94–273, §3(1), Apr. 21, 1976, 90 Stat. 376; Pub. L. 96–88, title III, §301(a)(2)(E), Oct. 17, 1979, 93 Stat. 677; Pub. L. 97–97, title XIV, §1419, Dec. 22, 1981, 95 Stat. 1306.)
+(Aug. 30, 1890, ch. 841, §4, 26 Stat. 419; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 94–273, §3(1), Apr. 21, 1976, 90 Stat. 376; Pub. L. 96–88, title III, §301(a)(2)(E), Oct. 17, 1979, 93 Stat. 677; Pub. L. 97–97, title XIV, §1419, Dec. 22, 1981, 95 Stat. 1306.)
 
 #### Codification
 
@@ -10,7 +10,7 @@ Section constitutes part of section 4 of act Aug. 30, 1890. Remainder of section
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–273 substituted “October” for “July”.
+<b>1976</b>—Pub. L. 94–273 substituted "October" for "July".
 
 #### Transfer of Functions
 

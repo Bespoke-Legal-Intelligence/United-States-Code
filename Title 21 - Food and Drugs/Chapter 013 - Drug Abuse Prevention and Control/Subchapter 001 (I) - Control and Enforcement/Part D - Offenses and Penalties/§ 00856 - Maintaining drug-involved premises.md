@@ -14,9 +14,9 @@ Any person who violates subsection (a) of this section shall be sentenced to a t
 
 #### (c) Violation as offense against property
 
-A violation of subsection (a) of this section shall be considered an offense against property for purposes of section 3663A(c)(1)(A)(ii) of title 18.
+A violation of subsection (a) of this section shall be considered an offense against propertyfor purposes of section 3663A(c)(1)(A)(ii) of title 18.
 
-#### (d) Civil penalites
+#### (d) Civil penalties
 
 (1) Any person who violates subsection (a) of this section shall be subject to a civil penalty of not more than the greater of—
 
@@ -34,11 +34,11 @@ Any person who violates subsection (a) of this section shall be subject to decla
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–21, §608(b)(2), substituted “Maintaining drug-involved premises” for “Establishment of manufacturing operations” in section catchline.
+<b>2003</b>—Pub. L. 108–21, §608(b)(2), substituted "Maintaining drug-involved premises" for "Establishment of manufacturing operations" in section catchline.
 
-Subsec. (a)(1). Pub. L. 108–21, §608(b)(1)(A), substituted “open, lease, rent, use, or maintain any place, whether permanently or temporarily,” for “open or maintain any place”.
+Subsec. (a)(1). Pub. L. 108–21, §608(b)(1)(A), substituted "open, lease, rent, use, or maintain any place, whether permanently or temporarily," for "open or maintain any place".
 
-Subsec. (a)(2). Pub. L. 108–21, §608(b)(1)(B), added par. (2) and struck out former par. (2) which read as follows: “manage or control any building, room, or enclosure, either as an owner, lessee, agent, employee, or mortgagee, and knowingly and intentionally rent, lease, or make available for use, with or without compensation, the building, room, or enclosure for the purpose of unlawfully manufacturing, storing, distributing, or using a controlled substance.”
+Subsec. (a)(2). Pub. L. 108–21, §608(b)(1)(B), added par. (2) and struck out former par. (2) which read as follows: "manage or control any building, room, or enclosure, either as an owner, lessee, agent, employee, or mortgagee, and knowingly and intentionally rent, lease, or make available for use, with or without compensation, the building, room, or enclosure for the purpose of unlawfully manufacturing, storing, distributing, or using a controlled substance."
 
 Subsecs. (d), (e). Pub. L. 108–21, §608(c), added subsecs. (d) and (e).
 

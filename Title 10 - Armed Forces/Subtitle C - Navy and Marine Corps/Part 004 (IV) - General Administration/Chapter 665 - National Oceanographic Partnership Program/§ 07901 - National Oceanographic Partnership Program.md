@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of the Navy shall establish a program to be known as the “National Oceanographic Partnership Program”.
+Establishment.—The Secretary of the Navy shall establish a program to be known as the "National Oceanographic Partnership Program".
 
 (b)
 
@@ -20,15 +20,15 @@ Purposes.—The purposes of the program are as follows:
 
 #### Congressional Findings
 
-Pub. L. 104–201, div. A, title II, §281, Sept. 23, 1996, 110 Stat. 2469, provided that: “Congress finds the following:
+Pub. L. 104–201, div. A, title II, §281, Sept. 23, 1996, 110 Stat. 2469, provided that: "Congress finds the following:
 
-&emsp;“(1) The oceans and coastal areas of the United States are among the Nation's most valuable naturalresources, making substantial contributions to economic growth, quality of life, and national security.
+&emsp;"(1) The oceans and coastal areas of the United States are among the Nation's most valuable naturalresources, making substantial contributions to economic growth, quality of life, and national security.
 
-&emsp;“(2) Oceans drive global and regional climate. Hence, they contain information affecting agriculture, fishing, and the prediction of severe weather.
+&emsp;"(2) Oceans drive global and regional climate. Hence, they contain information affecting agriculture, fishing, and the prediction of severe weather.
 
-&emsp;“(3) Understanding of the oceans through basic and applied research is essential for using the oceans wisely and protecting their limited resources. Therefore, the United States should maintain its world leadership in oceanography as one key to its competitive future.
+&emsp;"(3) Understanding of the oceans through basic and applied research is essential for using the oceans wisely and protecting their limited resources. Therefore, the United States should maintain its world leadership in oceanography as one key to its competitive future.
 
-&emsp;“(4) Ocean research and education activities take place within Federal agencies, academic institutions, and industry. These entities often have similar requirements for research facilities, data, and other resources (such as oceanographic research vessels).
+&emsp;"(4) Ocean research and education activities take place within Federal agencies, academic institutions, and industry. These entities often have similar requirements for research facilities, data, and other resources (such as oceanographic research vessels).
 
-&emsp;“(5) The need exists for a formal mechanism to coordinate existing partnerships and establish new partnerships for the sharing of resources, intellectual talent, and facilities in the ocean sciences and education, so that optimal use can be made of this most important natural resource for the well-being of all Americans.”
+&emsp;"(5) The need exists for a formal mechanism to coordinate existing partnerships and establish new partnerships for the sharing of resources, intellectual talent, and facilities in the ocean sciences and education, so that optimal use can be made of this most important natural resource for the well-being of all Americans."
 

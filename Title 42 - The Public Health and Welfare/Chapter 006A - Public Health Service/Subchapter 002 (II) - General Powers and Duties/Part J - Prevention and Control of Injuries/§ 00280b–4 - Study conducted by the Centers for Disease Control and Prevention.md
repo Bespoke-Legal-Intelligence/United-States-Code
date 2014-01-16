@@ -10,9 +10,9 @@ The research conducted under this section shall include evaluation and study of 
 
 #### (c) Authorization of appropriations
 
-There shall be authorized to be appropriated to carry out this title $2,000,000 for each of the fiscal years 2007 through 2011.
+There shall be authorized to be appropriated to carry out this title $1,000,000 for each of the fiscal years 2014 through 2018.
 
-(Pub. L. 109–162, title IV, §402, Jan. 5, 2006, 119 Stat. 3023.)
+(Pub. L. 109–162, title IV, §402, Jan. 5, 2006, 119 Stat. 3023; Pub. L. 113–4, title IV, §401, Mar. 7, 2013, 127 Stat. 92.)
 
 #### References in Text
 
@@ -44,9 +44,17 @@ Section 280b–11, act July 1, 1944, ch. 373, title III, §399, formerly §399b,
 
 A prior section 280b–12, act July 1, 1944, ch. 373, title III, §399b, as added Mar. 13, 1970, Pub. L. 91–212, §9, 84 Stat. 65, related to transfer of funds, prior to repeal by Pub. L. 93–353, title II, §204, July 23, 1974, 88 Stat. 373, applicable with respect to fiscal years beginning after June 30, 1974.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “of”.</i>
+<b>2013</b>—Subsec. (c). Pub. L. 113–4 substituted "$1,000,000 for each of the fiscal years 2014 through 2018" for "$2,000,000 for each of the fiscal years 2007 through 2011".
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "of".</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 

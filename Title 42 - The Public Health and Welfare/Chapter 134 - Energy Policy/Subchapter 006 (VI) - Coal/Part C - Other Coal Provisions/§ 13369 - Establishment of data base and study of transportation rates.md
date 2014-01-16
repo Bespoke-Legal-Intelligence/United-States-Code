@@ -2,11 +2,11 @@
 
 #### (a) Data base
 
-The Secretary shall review the information currently collected by the Federal Governmentand shall determine whether information on transportation rates for rail and pipeline transport of domestic coal, oil, and gas during the period of January 1, 1988, through December 31, 1997, is reasonably available. If he determines that such information is not reasonably available, the Secretary shall establish a data base containing, to the maximum extent practicable, information on all such rates. The confidentiality of contract rates shall be preserved. To obtain data pertaining to rail contract rates, the Secretary shall acquire such data in aggregate form only from the Surface Transportation Board, under terms and conditions that maintain the confidentiality of such rates.
+The Secretary shall review the information currently collected by the Federal Government and shall determine whether information on transportation rates for rail and pipeline transport of domestic coal, oil, and gas during the period of January 1, 1988, through December 31, 1997, is reasonably available. If he determines that such information is not reasonably available, the Secretary shall establish a data base containing, to the maximum extent practicable, information on all such rates. The confidentiality of contract rates shall be preserved. To obtain data pertaining to rail contract rates, the Secretary shall acquire such data in aggregate form only from the Surface Transportation Board, under terms and conditions that maintain the confidentiality of such rates.
 
 #### (b) Study
 
-The Energy Information Administration shall determine the extent to which any agency of the Federal Government is studying the rates and distribution patterns of domestic coal, oil, and gas to determine the impact of the Clean Air Act \[42 U.S.C. 7401 et seq.\] as amended by the Act entitled “An Act to amend the Clean Air Act to provide for attainment and maintenance of health protective national ambient air quality standards, and for other purposes.”, enacted November 15, 1990 (Public Law 101–549), and other Federal policies on such rates and distribution patterns. If the Energy Information Administration finds that no such study is underway, or that reports of the results of such study will not be available to the Congress providing the information specified in this subsection and subsection (a) of this section by the dates established in subsection (c) of this section, the Energy Information Administration shall initiate such a study.
+The Energy Information Administration shall determine the extent to which any agency of the Federal Government is studying the rates and distribution patterns of domestic coal, oil, and gas to determine the impact of the Clean Air Act \[42 U.S.C. 7401 et seq.\] as amended by the Act entitled "An Act to amend the Clean Air Act to provide for attainment and maintenance of health protective national ambient air quality standards, and for other purposes.", enacted November 15, 1990 (Public Law 101–549), and other Federal policies on such rates and distribution patterns. If the Energy Information Administration finds that no such study is underway, or that reports of the results of such study will not be available to the Congress providing the information specified in this subsection and subsection (a) of this section by the dates established in subsection (c) of this section, the Energy Information Administration shall initiate such a study.
 
 #### (c) Reports to Congress
 
@@ -26,7 +26,7 @@ An Act to amend the Clean Air Act to provide for attainment and maintenance of h
 
 #### Amendments
 
-<b>1995</b>—Subsecs. (a), (d). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+<b>1995</b>—Subsecs. (a), (d). Pub. L. 104–88 substituted "Surface Transportation Board" for "Interstate Commerce Commission".
 
 #### Effective Date of 1995 Amendment
 

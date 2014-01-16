@@ -2,23 +2,23 @@
 
 As used in this part:
 
-&emsp;(1) The term “Secretary” means the Secretary of Energy.
+&emsp;(1) The term "Secretary" means the Secretary of Energy.
 
-&emsp;(2) The term “Director” means the Director of the Community Services Administration.
+&emsp;(2) The term "Director" means the Director of the Community Services Administration.
 
-&emsp;(3) The term “elderly” means any individual who is 60 years of age or older.
+&emsp;(3) The term "elderly" means any individual who is 60 years of age or older.
 
-&emsp;(4) The term “Governor” means the chief executive officer of a State (including the Mayor of the District of Columbia).
+&emsp;(4) The term "Governor" means the chief executive officer of a State (including the Mayor of the District of Columbia).
 
-&emsp;(5) The term “handicapped person” means any individual (A) who is an individual with a disability, as defined in section 705 of title 29, (B) who is under a disability as defined in section 1614(a)(3)(A) or 223(d)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(3)(A), 423(d)(1)\] or in section 102(7) <sup>1</sup> of the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6001(7)\], or (C) who is receiving benefits under chapter 11 or 15 of title 38.
+&emsp;(5) The term "handicapped person" means any individual (A) who is an individual with a disability, as defined in section 705 of title 29, (B) who is under a disability as defined in section 1614(a)(3)(A) or 223(d)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(3)(A), 423(d)(1)\] or in section 102(7) <sup>1</sup> of the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6001(7)\], or (C) who is receiving benefits under chapter 11 or 15 of title 38.
 
-&emsp;(6) The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings prescribed for such terms by section 3002 of this title.
+&emsp;(6) The terms "Indian", "Indian tribe", and "tribal organization" have the meanings prescribed for such terms by section 3002 of this title.
 
-&emsp;(7) The term “low-income” means that income in relation to family size which (A) is at or below 200 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget, except that the Secretary may establish a higher level if the Secretary, after consulting with the Secretary of Agriculture and the Director of the Community Services Administration, determines that such a higher level is necessary to carry out the purposes of this part and is consistent with the eligibility criteria established for the weatherization program under section 2809(a)(12) of this title, (B) is the basis on which cash assistance payments have been paid during the preceding 12-month period under titles IV and XVI of the Social Security Act \[42 U.S.C. 601 et seq., 1381 et seq.\] or applicable State or local law, or (C)if a State elects, is the basis for eligibility for assistance under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621), provided that such basis is at least 200 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget.
+&emsp;(7) The term "low-income" means that income in relation to family size which (A) is at or below 200 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget, except that the Secretary may establish a higher level if the Secretary, after consulting with the Secretary of Agriculture and the Director of the Community Services Administration, determines that such a higher level is necessary to carry out the purposes of this part and is consistent with the eligibility criteria established for the weatherization program under section 2809(a)(12) of this title, (B) is the basis on which cash assistance payments have been paid during the preceding 12-month period under titles IV and XVI of the Social Security Act \[42 U.S.C. 601 et seq., 1381 et seq.\] or applicable State or local law, or (C) if a State elects, is the basis for eligibility for assistance under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621), provided that such basis is at least 200 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget.
 
 &emsp;(8)
 
-State.—The term “State” means—
+State.—The term "State" means—
 
 &emsp;&emsp;(A) a State;
 
@@ -28,7 +28,7 @@ State.—The term “State” means—
 
 &emsp;&emsp;(D) any other territory or possession of the United States.
 
-&emsp;(9) The term “weatherization materials” means—
+&emsp;(9) The term "weatherization materials" means—
 
 &emsp;&emsp;(A) caulking and weatherstripping of doors and windows;
 
@@ -70,41 +70,41 @@ The Low-Income Home Energy Assistance Act of 1981, referred to in par. (7), is t
 
 #### Amendments
 
-<b>2009</b>—Par. (7). Pub. L. 111–5 substituted “200 percent” for “150 percent” in two places.
+<b>2009</b>—Par. (7). Pub. L. 111–5 substituted "200 percent" for "150 percent" in two places.
 
-<b>2007</b>—Par. (8). Pub. L. 110–140 added par. (8) and struck out former par. (8) which read as follows: “The term ‘State’ means each of the States and the District of Columbia.”
+<b>2007</b>—Par. (8). Pub. L. 110–140 added par. (8) and struck out former par. (8) which read as follows: "The term 'State' means each of the States and the District of Columbia."
 
-<b>2006</b>—Par. (6). Pub. L. 109–365 struck out “paragraphs (4), (5), and (6), respectively, of” before “section 3002 of this title”.
+<b>2006</b>—Par. (6). Pub. L. 109–365 struck out "paragraphs (4), (5), and (6), respectively, of" before "section 3002 of this title".
 
-<b>2005</b>—Par. (7). Pub. L. 109–58 substituted “150 percent” for “125 percent” in two places.
+<b>2005</b>—Par. (7). Pub. L. 109–58 substituted "150 percent" for "125 percent" in two places.
 
-<b>1998</b>—Par. (5)(A). Pub. L. 105–220 substituted “an individual with a disability, as defined in section 705 of title 29” for “a handicapped individual as defined in section 7(7) of the Rehabilitation Act of 1973”.
+<b>1998</b>—Par. (5)(A). Pub. L. 105–220 substituted "an individual with a disability, as defined in section 705 of title 29" for "a handicapped individual as defined in section 7(7) of the Rehabilitation Act of 1973".
 
 <b>1992</b>—Par. (9)(G) to (J). Pub. L. 102–486 realigned margin of subpar. (G), added subpars. (H) and (I), and redesignated former subpar. (H) as (J).
 
 <b>1990</b>—Par. (9)(G), (H). Pub. L. 101–440 added subpar. (G) and redesignated former subpar. (G) as (H).
 
-<b>1988</b>—Par. (9)(G). Pub. L. 100–242 substituted a single comma for two consecutive commas after “determine”.
+<b>1988</b>—Par. (9)(G). Pub. L. 100–242 substituted a single comma for two consecutive commas after "determine".
 
 <b>1984</b>—Par. (7)(C). Pub. L. 98–558, §401, added cl. (C).
 
-Par. (9)(B). Pub. L. 98–558, §402(1), in amending subpar. (B) generally, substituted “, including, but not limited to” for “limited to” in provisions preceding cl. (i), “, furnaces, or boilers or any combination thereof” for “designed to substantially increase the energy efficiency of the heating system,” in cl. (i), and “minimizing energy loss through heating system, chimney, or venting devices” for “modifying flue openings which will increase the energy efficiency of the heating system,” in cl. (ii).
+Par. (9)(B). Pub. L. 98–558, §402(1), in amending subpar. (B) generally, substituted ", including, but not limited to" for "limited to" in provisions preceding cl. (i), ", furnaces, or boilers or any combination thereof" for "designed to substantially increase the energy efficiency of the heating system," in cl. (i), and "minimizing energy loss through heating system, chimney, or venting devices" for "modifying flue openings which will increase the energy efficiency of the heating system," in cl. (ii).
 
-Par. (9)(C). Pub. L. 98–558, §402(2), struck out “by rule” after “may determine,”.
+Par. (9)(C). Pub. L. 98–558, §402(2), struck out "by rule" after "may determine,".
 
-<b>1980</b>—Par. (1). Pub. L. 96–294, §577(1), substituted provisions defining “Secretary” for provisions defining “Administrator”.
+<b>1980</b>—Par. (1). Pub. L. 96–294, §577(1), substituted provisions defining "Secretary" for provisions defining "Administrator".
 
-Pars. (7), (9)(G). Pub. L. 96–294, §577(2), substituted “Secretary” for “Administrator” wherever appearing.
+Pars. (7), (9)(G). Pub. L. 96–294, §577(2), substituted "Secretary" for "Administrator" wherever appearing.
 
-<b>1978</b>—Par. (5). Pub. L. 95–602 substituted “section 7(7) of the Rehabilitation Act of 1973” for “section 7(6) of the Rehabilitation Act of 1973”.
+<b>1978</b>—Par. (5). Pub. L. 95–602 substituted "section 7(7) of the Rehabilitation Act of 1973" for "section 7(6) of the Rehabilitation Act of 1973".
 
-Par. (7)(A). Pub. L. 95–619, §231(a)(1), inserted “125 percent of” after “at or below” and inserted provision authorizing the Administrator to establish a higher level for low-income computations after determining such higher level to be necessary to carry out the purposes of this part.
+Par. (7)(A). Pub. L. 95–619, §231(a)(1), inserted "125 percent of" after "at or below" and inserted provision authorizing the Administrator to establish a higher level for low-income computations after determining such higher level to be necessary to carry out the purposes of this part.
 
 Par. (9). Pub. L. 95–619, §231(b)(2), substituted a specific listing of items to be considered weatherization materials for purposes of this part for a general statement of the sort of materials that could be considered as such.
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Community Services Administration
 

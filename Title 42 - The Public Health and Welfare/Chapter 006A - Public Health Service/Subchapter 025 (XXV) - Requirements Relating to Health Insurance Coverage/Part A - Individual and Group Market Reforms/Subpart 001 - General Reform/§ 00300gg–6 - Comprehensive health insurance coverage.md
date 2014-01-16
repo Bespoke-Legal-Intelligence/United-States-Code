@@ -18,15 +18,11 @@ This section shall not apply to a plan described in section 18031(d)(2)(B)(ii) 
 
 (July 1, 1944, ch. 373, title XXVII, §2707, as added Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 161.)
 
-#### Enactment of Section
-
-<i>For delayed effective date of section, see Effective Date note below.</i>
-
 #### References in Text
 
-Section 18022(c) of this title, referred to in subsec. (b), was in the original “section 1302(c)”, and was translated as meaning section 1302(c) of Pub. L. 111–148, pars. (1) and (2) of which relate to annual limitations on cost-sharing and deductibles, to reflect the probable intent of Congress.
+Section 18022(c) of this title, referred to in subsec. (b), was in the original "section 1302(c)", and was translated as meaning section 1302(c) of Pub. L. 111–148, pars. (1) and (2) of which relate to annual limitations on cost-sharing and deductibles, to reflect the probable intent of Congress.
 
-Section 18031(d)(2)(B)(ii) of this title, referred to in subsec. (d), was in the original “section 1302(d)(2)(B)(ii)(I)”, and was translated as meaning section 1311(d)(2)(B)(ii) of Pub. L. 111–148, which relates to offering of stand-alone dental benefits, to reflect the probable intent of Congress.
+Section 18031(d)(2)(B)(ii) of this title, referred to in subsec. (d), was in the original "section 1302(d)(2)(B)(ii)(I)", and was translated as meaning section 1311(d)(2)(B)(ii) of Pub. L. 111–148, which relates to offering of stand-alone dental benefits, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

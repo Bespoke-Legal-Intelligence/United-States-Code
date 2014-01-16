@@ -1,8 +1,8 @@
 ### §263a. Certification of laboratories
 
-#### (a) “Laboratory” or “clinical laboratory” defined
+#### (a) "Laboratory" or "clinical laboratory" defined
 
-As used in this section, the term “laboratory” or “clinical laboratory” means a facility for the biological, microbiological, serological, chemical, immuno-hematological, hematological, biophysical, cytological, pathological, or other examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.
+As used in this section, the term "laboratory" or "clinical laboratory" means a facility for the biological, microbiological, serological, chemical, immuno-hematological, hematological, biophysical, cytological, pathological, or other examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.
 
 #### (b) Certificate requirement
 
@@ -62,7 +62,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;&emsp;&emsp;(I) in such form and manner as the Secretary shall prescribe,
 
-&emsp;&emsp;&emsp;&emsp;(II) that describes the characteristics of the laboratory examinations and other procedures performed by the laboratory, including the number and types of laboratory examinations and other procedures performed, the methodologies for laboratory examinations and other procedures employed, and the qualifications (educational background, training, and experience) of the personnel directing and supervising the laboratory and performing the laboratory examinations and other procedures, and
+&emsp;&emsp;&emsp;&emsp;(II) that describes the characteristics of the laboratory examinations and other procedures performed by the laboratory, including the number and types of laboratory examinations and other procedures performed, the methodologies for laboratory examinations and other procedures employed, and the qualifications (educational background, training, and experience) of the personnel directing and supervising the laboratory andperforming the laboratory examinations and other procedures, and
 
 &emsp;&emsp;&emsp;&emsp;(III) that contains such other information as the Secretary may reasonably require to determine compliance with this section, and
 
@@ -84,9 +84,9 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;(B) the Secretary has determined pose no unreasonable risk of harm to the patient if performed incorrectly.
 
-#### (4) “Certificate” defined
+#### (4) "Certificate" defined
 
-&emsp;As used in this section, the term “certificate” includes a certificate of waiver issued under paragraph (2).
+&emsp;As used in this section, the term "certificate" includes a certificate of waiver issued under paragraph (2).
 
 #### (e) Accreditation
 
@@ -176,7 +176,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificateunder this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
+&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificate under this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
 
 #### (B) Criteria
 
@@ -378,7 +378,7 @@ On April 1, 1990 and annually thereafter, the Secretary shall compile and make a
 
 &emsp;(6) a list of laboratories which have been excluded from participation under title XVIII or XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\].
 
-> The information to be compiled under paragraphs (1) through (6) shall be information for the calendar year preceding the date the information is to be made available to the public and shall be accompanied by such explanatory information as may be appropriate to assist in the interpretation of the information compiled under such paragraphs.
+> The information to be compiled under paragraphs (1) through (6) shall be information for the calendar year preceding the date the information is to be made available to the public andshall be accompanied by such explanatory information as may be appropriate to assist in the interpretation of the information compiled under such paragraphs.
 
 #### (o) Delegation
 
@@ -406,21 +406,21 @@ Subsec. (e)(3) of this section, which required the Secretary to annually prepare
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d)(1)(E). Pub. L. 112–202, §2(1), inserted “, except that no proficiency testing sample shall be referred to another laboratory for analysis as prohibited under subsection (i)(4)” before period at end.
+<b>2012</b>—Subsec. (d)(1)(E). Pub. L. 112–202, §2(1), inserted ", except that no proficiency testing sample shall be referred to another laboratory for analysis as prohibited under subsection (i)(4)" before period at end.
 
-Subsec. (i)(3). Pub. L. 112–202, §2(2)(A), inserted “, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) instead of the 2-year prohibition against ownership or operation which would otherwise apply under this paragraph” after “issued under this section”.
+Subsec. (i)(3). Pub. L. 112–202, §2(2)(A), inserted ", except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) instead of the 2-year prohibition against ownership or operation which would otherwise apply under this paragraph" after "issued under this section".
 
-Subsec. (i)(4). Pub. L. 112–202, §2(2)(B), substituted “may have its certificate revoked” for “shall have its certificate revoked”.
+Subsec. (i)(4). Pub. L. 112–202, §2(2)(B), substituted "may have its certificate revoked" for "shall have its certificate revoked".
 
-<b>1997</b>—Subsec. (d)(3). Pub. L. 105–115 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The examinations and procedures identified in paragraph (2) are simple laboratory examinations and procedures which, as determined by the Secretary, have an insignificant risk of an erroneous result, including those which—
+<b>1997</b>—Subsec. (d)(3). Pub. L. 105–115 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "The examinations and procedures identified in paragraph (2) are simple laboratory examinations and procedures which, as determined by the Secretary, have an insignificant risk of an erroneous result, including those which—
 
-&emsp;“(A) have been approved by the Food and Drug Administration for home use,
+&emsp;"(A) have been approved by the Food and Drug Administration for home use,
 
-&emsp;“(B) employ methodologies that are so simple and accurate as to render the likelihood of erroneous results negligible, or
+&emsp;"(B) employ methodologies that are so simple and accurate as to render the likelihood of erroneous results negligible, or
 
-&emsp;“(C) the Secretary has determined pose no reasonable risk of harm to the patient if performed incorrectly.”
+&emsp;"(C) the Secretary has determined pose no reasonable risk of harm to the patient if performed incorrectly."
 
-<b>1988</b>—Pub. L. 100–578 substituted “Certification of laboratories” for “Licensing of laboratories” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (q) provisions of former subsecs. (a) to (l).
+<b>1988</b>—Pub. L. 100–578 substituted "Certification of laboratories" for "Licensing of laboratories" in section catchline, and amended text generally, revising and restating as subsecs. (a) to (q) provisions of former subsecs. (a) to (l).
 
 #### Effective Date of 1997 Amendment
 
@@ -428,21 +428,21 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1988 Amendment; Exceptions; Continuing Applicability
 
-Pub. L. 100–578, §3, Oct. 31, 1988, 102 Stat. 2914, provided that: “Subsections (g)(1), (h), (i), (j), (k), (l), and (m) of section 353 of the Public Health Service Act \[this section\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (l) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988.”
+Pub. L. 100–578, §3, Oct. 31, 1988, 102 Stat. 2914, provided that: "Subsections (g)(1), (h), (i), (j), (k), (l), and (m) of section 353 of the Public Health Service Act \[42 U.S.C. 263a\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (l) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988."
 
 #### Effective Date
 
-Pub. L. 90–174, §5(b), Dec. 5, 1967, 81 Stat. 539, provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the first day of the thirteenth month after the month \[December 1967\] in which it is enacted, except that the Secretary of Health, Education, and Welfare may postpone such effective date for such additional period as he finds necessary, but not beyond the first day of the 19th month after such month \[December 1967\] in which the amendment is enacted.”
+Pub. L. 90–174, §5(b), Dec. 5, 1967, 81 Stat. 539, provided that: "The amendment made by subsection (a) \[enacting this section\] shall become effective on the first day of the thirteenth month after the month \[December 1967\] in which it is enacted, except that the Secretary of Health, Education, and Welfare may postpone such effective date for such additional period as he finds necessary, but not beyond the first day of the 19th month after such month \[December 1967\] in which the amendment is enacted."
 
 #### Studies
 
 Pub. L. 100–578, §4, Oct. 31, 1988, 102 Stat. 2914, directed Secretary to conduct studies and submit report to Congress, not later than May 1, 1990, relating to the reliability and quality control procedures of clinical laboratory testing programs and the effect of errors in the testing procedures and results on the diagnosis and treatment of patients.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “by the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "by the".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “proficiency”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "proficiency".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “require it to”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "require it to".</i>
 
 <i><sup>4</sup></i><i> So in original. Probably should be followed by a period.</i>
 

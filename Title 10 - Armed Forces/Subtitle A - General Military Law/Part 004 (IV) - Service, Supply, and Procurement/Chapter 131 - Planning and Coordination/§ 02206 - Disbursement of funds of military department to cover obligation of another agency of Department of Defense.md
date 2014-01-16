@@ -24,9 +24,9 @@ July 26, 1947, ch. 343, §409; added Aug. 10, 1949, ch. 412, §11 (24th par.), 6
 
 July 26, 1947, ch. 343, §308(a) (as applicable to §409), 61 Stat. 509.
 
-The word “agency” is substituted for the word “organization”. The last sentence is substituted for the proviso in 5 U.S.C. 172h.
+The word "agency" is substituted for the word "organization". The last sentence is substituted for the proviso in 5 U.S.C. 172h.
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–258 substituted “official” for “officer” wherever appearing.
+<b>1982</b>—Pub. L. 97–258 substituted "official" for "officer" wherever appearing.
 

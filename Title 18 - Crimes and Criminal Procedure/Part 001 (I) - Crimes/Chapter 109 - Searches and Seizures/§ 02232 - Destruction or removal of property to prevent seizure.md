@@ -10,7 +10,7 @@ Impairment of In Rem Jurisdiction.—Whoever, knowing that property is subject t
 
 (c)
 
-Notice of Search or Execution of Seizure Warrant or Warrant of Arrest In Rem.—Whoever, having knowledge that any person authorized to make searches and seizures, or to execute a seizure warrant or warrant of arrest in rem, in order to prevent the authorized seizing or securing of any person or property, givesnotice or attempts to give notice in advance of the search, seizure, or execution of a seizure warrant or warrant of arrest in rem, to any person shall be fined under this title or imprisoned not more than 5 years, or both.
+Notice of Search or Execution of Seizure Warrant or Warrant of Arrest In Rem.—Whoever, having knowledge that any person authorized to make searches and seizures, or to execute a seizure warrant or warrant of arrest in rem, in order to prevent the authorized seizing or securing of any person or property, gives notice or attempts to give notice in advance of the search, seizure, or execution of a seizure warrant or warrant of arrest in rem, to any person shall be fined under this title or imprisoned not more than 5 years, or both.
 
 (d)
 
@@ -40,11 +40,11 @@ The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e), i
 
 <b>2000</b>—Pub. L. 106–185 added subsecs. (a) to (c), redesignated first and second pars. of former subsec. (c) as subsecs. (d) and (e), respectively, inserted subsec. (e) heading, and struck out former subsecs. (a) and (b) which related to physical interference with search and notice of search, respectively.
 
-<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–690 inserted “of 1978” after “Surveillance Act”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–690 inserted "of 1978" after "Surveillance Act".
 
-<b>1986</b>—Pub. L. 99–646 directed the designation of first and second pars. as subsecs. (a) and (b), respectively, which had been previously so designated by Pub. L. 99–508, and substituted “imprisoned not” for “imprisoned” in subsec. (a).
+<b>1986</b>—Pub. L. 99–646 directed the designation of first and second pars. as subsecs. (a) and (b), respectively, which had been previously so designated by Pub. L. 99–508, and substituted "imprisoned not" for "imprisoned" in subsec. (a).
 
 Pub. L. 99–508 designated first and second pars. as subsecs. (a) and (b), respectively, and inserted headings, and added subsec. (c).
 
@@ -54,7 +54,7 @@ Pub. L. 98–473, §1103(b), inserted paragraph relating to the penalties for wa
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date thatis 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
 
 #### Effective Date of 1986 Amendment
 

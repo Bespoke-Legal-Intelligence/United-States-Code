@@ -26,7 +26,7 @@ Notwithstanding the provisions of subsection (b) of this section, whenever any i
 
 #### (1) State requirements
 
-&emsp;If an institution described under subsection (a) of this section is within a State which has enacted requirements for public disclosure of gifts from or contracts with a foreign source that are substantially similar to the requirements of this section, a copy of the disclosure report filed with the State may be filed with the Secretary in lieu of a report required under subsection (a) of this section. The State in which the institution is located shall provide to the Secretary such assurances as the Secretary may require to establish that the institution has met the requirements for public disclosure under State law if the State report is filed.
+&emsp;If an institution described under subsection (a) of this section is within a State which has enacted requirements for public disclosure of gifts from or contracts with a foreign source that are substantially similar to the requirements of this section, a copy of the disclosure report filed with the State may be filed with the Secretary in lieu of a report requiredunder subsection (a) of this section. The State in which the institution is located shall provide to the Secretary such assurances as the Secretary may require to establish that the institution has met the requirements for public disclosure under State law if the State report is filed.
 
 #### (2) Use of other Federal reports
 
@@ -54,9 +54,9 @@ The Secretary may promulgate regulations to carry out this section.
 
 For the purpose of this section—
 
-&emsp;(1) the term “contract” means any agreement for the acquisition by purchase, lease, or barter of property or services by the foreign source, for the direct benefit or use of either of the parties;
+&emsp;(1) the term "contract" means any agreement for the acquisition by purchase, lease, or barter of property or services by the foreign source, for the direct benefit or use of either of the parties;
 
-&emsp;(2) the term “foreign source” means—
+&emsp;(2) the term "foreign source" means—
 
 &emsp;&emsp;(A) a foreign government, including an agency of a foreign government;
 
@@ -66,9 +66,9 @@ For the purpose of this section—
 
 &emsp;&emsp;(D) an agent, including a subsidiary or affiliate of a foreign legal entity, acting on behalf of a foreign source;
 
-&emsp;(3) the term “gift” means any gift of money or property;
+&emsp;(3) the term "gift" means any gift of money or property;
 
-&emsp;(4) the term “institution” means any institution, public or private, or, if a multicampus institution, any single campus of such institution, in any State, that—
+&emsp;(4) the term "institution" means any institution, public or private, or, if a multicampus institution, any single campus of such institution, in any State, that—
 
 &emsp;&emsp;(A) is legally authorized within such State to provide a program of education beyond secondary school;
 
@@ -76,7 +76,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(C) is accredited by a nationally recognized accrediting agency or association and to which institution Federal financial assistance is extended (directly or indirectly through another entity or person), or which institution receives support from the extension of Federal financial assistance to any of the institution's subunits; and
 
-&emsp;(5) the term “restricted or conditional gift or contract” means any endowment, gift, grant, contract, award, present, or property of any kind which includes provisions regarding—
+&emsp;(5) the term "restricted or conditional gift or contract" means any endowment, gift, grant, contract, award, present, or property of any kind which includes provisions regarding—
 
 &emsp;&emsp;(A) the employment, assignment, or termination of faculty;
 

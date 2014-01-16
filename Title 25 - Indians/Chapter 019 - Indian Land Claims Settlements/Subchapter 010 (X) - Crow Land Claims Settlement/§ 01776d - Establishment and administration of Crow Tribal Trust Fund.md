@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is established in the Treasury of the United States a trust fund to be known as the “Crow Tribal Trust Fund”.
+&emsp;There is established in the Treasury of the United States a trust fund to be known as the "Crow Tribal Trust Fund".
 
 #### (2) Availability of amounts in the Crow Tribal Trust Fund
 
@@ -64,11 +64,11 @@ Notwithstanding any other provision of law, the Crow Tribe may, subject to appro
 
 #### (f) Limitation
 
-Notwithstanding any other provision of law, no portion of the principal of the Crow Tribal Trust Fund shall be available for withdrawal or disbursement or used for any purpose other thanthe purposes specified in this section and section 1776h of this title.
+Notwithstanding any other provision of law, no portion of the principal of the Crow Tribal Trust Fund shall be available for withdrawal or disbursement or used for any purpose other than the purposes specified in this section and section 1776h of this title.
 
 (Pub. L. 103–444, §6, Nov. 2, 1994, 108 Stat. 4638; amended Pub. L. 103–435, §23, Nov. 2, 1994, 108 Stat. 4575.)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–435 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “At the request of the Secretary, the Secretary of the Treasury shall invest all sums deposited into, accruing to, and remaining in, the Crow Tribal Trust Fund in accordance with sections 161a to 161d of this title.”
+<b>1994</b>—Subsec. (c). Pub. L. 103–435 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "At the request of the Secretary, the Secretary of the Treasury shall invest all sums deposited into, accruing to, and remaining in, the Crow Tribal Trust Fund in accordance with sections 161a to 161d of this title."
 

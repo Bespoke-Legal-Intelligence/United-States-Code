@@ -46,7 +46,7 @@ The Secretary shall make any information provided to the owner under subsections
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b)(4). Pub. L. 102–550, §317(a)(2), substituted “exceed” for “exceeds”.
+<b>1992</b>—Subsec. (b)(4). Pub. L. 102–550, §317(a)(2), substituted "exceed" for "exceeds".
 
 Subsec. (d)(3). Pub. L. 102–550, §303, added par. (3).
 

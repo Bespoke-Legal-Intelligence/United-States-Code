@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture may enter into a cooperative agreement with an eligible entity to carry out a project under a national aquatic animal health plan under the authority of the Secretary under section 10411 of the Animal Health Protection Act (7 U.S.C. 8310) for the purpose of detecting, controlling, or eradicating diseases of aquaculture species and promoting species-specific best management practices.
+The Secretary of Agriculture may enter into a cooperative agreement with an eligible entity to carry out a project under a national aquatic animal health plan under the authority of the Secretary under section 10411 of the Animal Health Protection Act (7 U.S.C. 8310) for the purpose ofdetecting, controlling, or eradicating diseases of aquaculture species and promoting species-specific best management practices.
 
 #### (b) Cooperative agreements between eligible entities and the Secretary
 
@@ -28,7 +28,7 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
 #### (e) Eligible entity defined
 
-In this section, the term “eligible entity” means a State, a political subdivision of a State, Indian tribe, or other appropriate entity, as determined by the Secretary of Agriculture.
+In this section, the term "eligible entity" means a State, a political subdivision of a State, Indian tribe, or other appropriate entity, as determined by the Secretary of Agriculture.
 
 (Pub. L. 110–234, title XI, §11013, May 22, 2008, 122 Stat. 1361; Pub. L. 110–246, §4(a), title XI, §11013, June 18, 2008, 122 Stat. 1664, 2122.)
 

@@ -38,11 +38,11 @@ Jan. 3, 1975, Pub. L. 93–633, §108, 88 Stat. 2159; Nov. 16, 1990, Pub. L. 101
 
 49 App.:1807(b) (last sentence).
 
-In subsection (a), the text of 49 App.:1807(a) (1st sentence) is omitted as executed. The words “or combination of materials” are omitted as surplus.
+In subsection (a), the text of 49 App.:1807(a) (1st sentence) is omitted as executed. The words "or combination of materials" are omitted as surplus.
 
-In subsection (b), the words “further” and “effective” are omitted as surplus.
+In subsection (b), the words "further" and "effective" are omitted as surplus.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–59 substituted “Secretary” for “Secretary of Transportation”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–59 substituted "Secretary" for "Secretary of Transportation".
 

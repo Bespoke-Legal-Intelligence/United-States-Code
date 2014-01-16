@@ -10,9 +10,9 @@
 
 &emsp;(4) An incorporated museum or memorial that is operated and maintained for educational purposes only and the charter of which denies it the right to operate for profit.
 
-&emsp;(5) A post of the Veterans of Foreign Wars of the United States or of the American Legion or a unit of any other recognized war veterans’ association.
+&emsp;(5) A post of the Veterans of Foreign Wars of the United States or of the American Legion or a unit of any other recognized war veterans' association.
 
-&emsp;(6) A local or national unit of any war veterans’ association of a foreign nation which is recognized by the national government of that nation (or by the government of one of the principal political subdivisions of that nation).
+&emsp;(6) A local or national unit of any war veterans' association of a foreign nation which is recognized by the national government of that nation (or by the government of one of the principal political subdivisions of that nation).
 
 &emsp;(7) A post of the Sons of Veterans Reserve.
 
@@ -36,15 +36,15 @@
 
 (2)(A) Except as provided in subparagraph (B), the United States may not incur any expense in connection with a loan or gift under subsection (a), including any expense associated with demilitarizing an item under paragraph (1), for which the recipient of the item shall be responsible.
 
-(B) The Secretary concerned may, without cost to the recipient, demilitarize, prepare, and transport in the continental United States for donation to a recognized war veterans’ association an item authorized to be donated under this section if the Secretary determines the demilitarization, preparation, and transportation can be accomplished as a training mission without additional budgetary requirements for the unit involved.
+(B) The Secretary concerned may, without cost to the recipient, demilitarize, prepare, and transport in the continental United States for donation to a recognized war veterans' association an item authorized to be donated under this section if the Secretary determines the demilitarization, preparation, and transportation can be accomplished as a training mission without additional budgetary requirements for the unit involved.
 
 (e)(1) Except as provided in paragraph (3), and notwithstanding this section or any other provision of law, the President may not transfer a veterans memorial object to a foreign country or an entity controlled by a foreign government, or otherwise transfer or convey such an object to any person or entity for purposes of the ultimate transfer or conveyance of the object to a foreign country or entity controlled by a foreign government.
 
 (2) In this subsection:
 
-&emsp;(A) The term “entity controlled by a foreign government” has the meaning given that term in section 2536(c)(1) of this title.
+&emsp;(A) The term "entity controlled by a foreign government" has the meaning given that term in section 2536(c)(1) of this title.
 
-&emsp;(B) The term “veterans memorial object” means any object, including a physical structure or portion thereof, that—
+&emsp;(B) The term "veterans memorial object" means any object, including a physical structure or portion thereof, that—
 
 &emsp;&emsp;(i) is located at a cemetery of the National Cemetery System, war memorial, or military installation in the United States;
 
@@ -74,57 +74,57 @@ Historical and Revision Notes
 
 May 22, 1896, ch. 231; restated May 26, 1928, ch. 785; restated Feb. 28, 1933, ch. 137; restated June 19, 1940, ch. 398; July 31, 1947, ch. 421; restated Feb. 27, 1948, ch. 76, §1, 62 Stat. 37; Oct. 31, 1951, ch. 654, §2(2), 65 Stat. 706.
 
-The word “may” is substituted for the words “are each authorized, in their discretion”. The reference to posts of the Grand Army of the Republic is omitted, since that organization disbanded in 1950. The words “under regulations to be prescribed by him” are substituted for the words “subject to rules and regulations covering the same in each department”. The words “without expense to the United States” are substituted for the words “and the Government shall be at no expense in connection with any such loan or gift”. The words “local unit” are inserted in clause (7) to conform to clauses (5), (6), and (8).
+The word "may" is substituted for the words "are each authorized, in their discretion". The reference to posts of the Grand Army of the Republic is omitted, since that organization disbanded in 1950. The words "under regulations to be prescribed by him" are substituted for the words "subject to rules and regulations covering the same in each department". The words "without expense to the United States" are substituted for the words "and the Government shall be at no expense in connection with any such loan or gift". The words "local unit" are inserted in clause (7) to conform to clauses (5), (6), and (8).
 
 #### Amendments
 
 <b>2013</b>—Subsec. (e). Pub. L. 112–239 added subsec. (e).
 
-<b>2008</b>—Subsec. (d)(1). Pub. L. 110–417, §352(1), inserted at end “The Secretary concerned shall ensure that an item authorized to be donated under this section is demilitarized in the interest of public safety, as determined necessary by the Secretary or the Secretary's delegee.”
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–417, §352(1), inserted at end "The Secretary concerned shall ensure that an item authorized to be donated under this section is demilitarized in the interest of public safety, as determined necessary by the Secretary or the Secretary's delegee."
 
-Subsec. (d)(2)(A). Pub. L. 110–417, §352(2), inserted “, including any expense associated with demilitarizing an item under paragraph (1), for which the recipient of the item shall be responsible” before period at end.
+Subsec. (d)(2)(A). Pub. L. 110–417, §352(2), inserted ", including any expense associated with demilitarizing an item under paragraph (1), for which the recipient of the item shall be responsible" before period at end.
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation" in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 107–314 inserted before period at end “or a nonprofit military aviation heritage foundation or association incorporated in a State”.
+Subsec. (a)(3). Pub. L. 107–314 inserted before period at end "or a nonprofit military aviation heritage foundation or association incorporated in a State".
 
-Subsec. (d)(1). Pub. L. 107–217 substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)”.
+Subsec. (d)(1). Pub. L. 107–217 substituted "section 121 of title 40" for "section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)".
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107, §1043(d)(1), inserted “, county, or other political subdivision of a State” before period at end.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107, §1043(d)(1), inserted ", county, or other political subdivision of a State" before period at end.
 
-Subsec. (a)(2). Pub. L. 107–107, §1043(d)(2), substituted “servicemen's monument” for “soldiers’ monument”.
+Subsec. (a)(2). Pub. L. 107–107, §1043(d)(2), substituted "servicemen's monument" for "soldiers' monument".
 
-Subsec. (a)(4). Pub. L. 107–107, §1043(d)(3), inserted “or memorial” after “An incorporated museum”.
+Subsec. (a)(4). Pub. L. 107–107, §1043(d)(3), inserted "or memorial" after "An incorporated museum".
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–106 substituted “not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:” for “not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces.” and added subpars. (A) to (E).
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–106 substituted "not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:" for "not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces." and added subpars. (A) to (E).
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–337 inserted “transportation,” after “salvage,”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–337 inserted "transportation," after "salvage,".
 
-<b>1992</b>—Subsec. (d)(2). Pub. L. 102–484 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the” for “The”, and added subpar. (B).
+<b>1992</b>—Subsec. (d)(2). Pub. L. 102–484 designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B), the" for "The", and added subpar. (B).
 
-<b>1990</b>—Subsec. (b)(1). Pub. L. 101–510, §325(1), inserted before period at end “or for search, salvage, and restoration services which directly benefit the historical collection of the armed forces”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–510, §325(1), inserted before period at end "or for search, salvage, and restoration services which directly benefit the historical collection of the armed forces".
 
-Subsec. (b)(2). Pub. L. 101–510, §325(2), inserted “, or services provided,” after “monetary value of property transferred” in first sentence and “in the case of an exchange of property for property” after “preceding sentence” in second sentence.
+Subsec. (b)(2). Pub. L. 101–510, §325(2), inserted ", or services provided," after "monetary value of property transferred" in first sentence and "in the case of an exchange of property for property" after "preceding sentence" in second sentence.
 
-<b>1988</b>—Pub. L. 100–456 substituted “Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange” for “Condemned or obsolete material: loan or gift to certain organizations” in section catchline, and amended text generally. Prior to amendment, text read as follows: “Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of a military department, or the Secretary of Transportation, under regulations to be prescribed by him, may lend or give, without expense to the United States, books, manuscripts, works of art, drawings, plans, models, and condemned or obsolete combat material that are not needed by that department to—
+<b>1988</b>—Pub. L. 100–456 substituted "Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange" for "Condemned or obsolete material: loan or gift to certain organizations" in section catchline, and amended text generally. Prior to amendment, text read as follows: "Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of a military department, or the Secretary of Transportation, under regulations to be prescribed by him, may lend or give, without expense to the United States, books, manuscripts, works of art, drawings, plans, models, and condemned or obsolete combat material that are not needed by that department to—
 
-&emsp;“(1) a municipal corporation;
+&emsp;"(1) a municipal corporation;
 
-&emsp;“(2) a soldiers’ monument association;
+&emsp;"(2) a soldiers' monument association;
 
-&emsp;“(3) a State museum;
+&emsp;"(3) a State museum;
 
-&emsp;“(4) an incorporated museum, operated and maintained for educational purposes only, whose charter denies it the right to operate for profit;
+&emsp;"(4) an incorporated museum, operated and maintained for educational purposes only, whose charter denies it the right to operate for profit;
 
-&emsp;“(5) a post of the Veterans of Foreign Wars of the United States;
+&emsp;"(5) a post of the Veterans of Foreign Wars of the United States;
 
-&emsp;“(6) a post of the American Legion;
+&emsp;"(6) a post of the American Legion;
 
-&emsp;“(7) a local unit of any other recognized war veterans’ association; or
+&emsp;"(7) a local unit of any other recognized war veterans' association; or
 
-&emsp;“(8) a post of the Sons of Veterans Reserve.”
+&emsp;"(8) a post of the Sons of Veterans Reserve."
 
-<b>1980</b>—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of a military department or the Secretary of Transportation” for “section 486 of title 40, the Secretary of a military department or the Secretary of the Treasury”.
+<b>1980</b>—Pub. L. 96–513 substituted "section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of a military department or the Secretary of Transportation" for "section 486 of title 40, the Secretary of a military department or the Secretary of the Treasury".
 
 #### Effective Date of 2002 Amendment
 

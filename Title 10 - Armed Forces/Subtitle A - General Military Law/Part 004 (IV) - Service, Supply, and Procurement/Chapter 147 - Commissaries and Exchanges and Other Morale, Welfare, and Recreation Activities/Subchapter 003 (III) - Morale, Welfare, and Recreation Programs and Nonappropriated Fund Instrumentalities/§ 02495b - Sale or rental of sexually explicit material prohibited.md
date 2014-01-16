@@ -10,7 +10,7 @@ Prohibition of Officially Provided Sexually Explicit Material.—A member of the
 
 (c)
 
-Resale Activities Review Board.—(1) The Secretary of Defense shall establish a nine-member board to make recommendations to the Secretary regarding whether material sold orrented, or proposed for sale or rental, on property under the jurisdiction of the Department of Defense is barred from sale or rental by subsection (a).
+Resale Activities Review Board.—(1) The Secretary of Defense shall establish a nine-member board to make recommendations to the Secretary regarding whether material sold or rented, or proposed for sale or rental, on property under the jurisdiction of the Department of Defense is barred from sale or rental by subsection (a).
 
 (2)(A) The Secretary of Defense shall appoint six members of the board to broadly represent the interests of the patron base served by the defense commissary system and the exchange system. The Secretary shall appoint one of the members to serve as the chairman of the board. At least one member appointed under this subparagraph shall be a person with experience managing or advocating for military family programs and who is also an eligible patron of the defense commissary system and the exchange system.
 
@@ -32,9 +32,9 @@ Regulations.—The Secretary of Defense shall prescribe regulations to implement
 
 Definitions.—In this section:
 
-&emsp;(1) The term “sexually explicit material” means an audio recording, a film or video recording, or a periodical with visual depictions, produced in any medium, the dominant theme of which depicts or describes nudity, including sexual or excretory activities or organs, in a lascivious way.
+&emsp;(1) The term "sexually explicit material" means an audio recording, a film or video recording, or a periodical with visual depictions, produced in any medium, the dominant theme of which depicts or describes nudity, including sexual or excretory activities or organs, in a lascivious way.
 
-&emsp;(2) The term “property under the jurisdiction of the Department of Defense” includes commissaries, all facilities operated by the Army and Air Force Exchange Service, the Navy Exchange Service Command, the Navy Resale and Services Support Office, Marine Corps exchanges, and ships’ stores.
+&emsp;(2) The term "property under the jurisdiction of the Department of Defense" includes commissaries, all facilities operated by the Army and Air Force Exchange Service, the Navy Exchange Service Command, the Navy Resale and Services Support Office, Marine Corps exchanges, and ships' stores.
 
 (Added Pub. L. 104–201, div. A, title III, §343(a)(1), Sept. 23, 1996, 110 Stat. 2489, §2489a; renumbered §2495b, Pub. L. 108–375, div. A, title VI, §651(b)(2), (c)(5), Oct. 28, 2004, 118 Stat. 1971, 1972; amended Pub. L. 110–417, \[div. A\], title VI, §642(a), Oct. 14, 2008, 122 Stat. 4493.)
 
@@ -46,17 +46,17 @@ Definitions.—In this section:
 
 #### Effective Date
 
-Pub. L. 104–201, div. A, title III, §343(b), Sept. 23, 1996, 110 Stat. 2490, provided that: “Subsection (a) of section 2489a \[now 2495b\] of title 10, United States Code, as added by subsection (a) of this section, shall take effect 90 days after the date of the enactment of this Act \[Sept. 23, 1996\].”
+Pub. L. 104–201, div. A, title III, §343(b), Sept. 23, 1996, 110 Stat. 2490, provided that: "Subsection (a) of section 2489a \[now 2495b\] of title 10, United States Code, as added by subsection (a) of this section, shall take effect 90 days after the date of the enactment of this Act \[Sept. 23, 1996\]."
 
 #### Resale Activities Review Board: Establishment and Initial Meeting
 
 Pub. L. 110–417, \[div. A\], title VI, §642(b), Oct. 14, 2008, 122 Stat. 4494, provided that:
 
-“(1)
+"(1)
 
 Establishment.—The board required by subsection (c) of section 2495b of title 10, United States Code, as added by subsection (a), shall be established, and its initial nine members appointed, not later than 120 days after the date of the enactment of this Act \[Oct. 14, 2008\].
 
-“(2)
+"(2)
 
-Meetings.—The board shall conduct an initial meeting within one year after the date of the appointment of the initial members of the board. At the discretion of the board, the board may consider all materials previously reviewed under such section as available for reconsideration for a minimum of 180 days following the initial meeting of the board.”
+Meetings.—The board shall conduct an initial meeting within one year after the date of the appointment of the initial members of the board. At the discretion of the board, the board may consider all materials previously reviewed under such section as available for reconsideration for a minimum of 180 days following the initial meeting of the board."
 

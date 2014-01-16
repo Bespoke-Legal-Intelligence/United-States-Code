@@ -32,5 +32,5 @@ Nov. 6, 1986, Pub. L. 99–604, §§8(f), 15 (1st sentence), 100 Stat. 3447, 344
 
 &nbsp;
 
-In subsection (a), the words “retain and”, “organized and”, and “the State of” are omitted as unnecessary.
+In subsection (a), the words "retain and", "organized and", and "the State of" are omitted as unnecessary.
 

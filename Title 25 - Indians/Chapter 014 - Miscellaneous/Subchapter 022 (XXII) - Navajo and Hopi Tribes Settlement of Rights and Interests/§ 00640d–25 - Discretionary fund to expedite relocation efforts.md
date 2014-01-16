@@ -16,13 +16,13 @@ The Secretary of the Interior and the Secretary of Health and Human Services, as
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–666, §4(b), substituted “Commissioner” for “Commission”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–666, §4(b), substituted "Commissioner" for "Commission".
 
-Subsec. (b). Pub. L. 100–666, §3, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Such funds may only be used by the Commission to—
+Subsec. (b). Pub. L. 100–666, §3, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Such funds may only be used by the Commission to—
 
-&emsp;“(1) match or pay not to exceed 30 per centum of any grant, contract, or other expenditure of the Federal Government, State or local government, tribal government or chapter, or private organization for the benefit of the Navajo or Hopi Tribe, if such grant, contract, or expenditure would significantly assist the Commission in carrying out its responsibilities or assist either tribe in meeting the burdens imposed by this subchapter;
+&emsp;"(1) match or pay not to exceed 30 per centum of any grant, contract, or other expenditure of the Federal Government, State or local government, tribal government or chapter, or private organization for the benefit of the Navajo or Hopi Tribe, if such grant, contract, or expenditure would significantly assist the Commission in carrying out its responsibilities or assist either tribe in meeting the burdens imposed by this subchapter;
 
-&emsp;“(2) engage or participate, either directly or by contract, in demonstration efforts to employ innovative energy or other technologies in providing housing and related facilities and services in the relocation and resettlement of individuals under this subchapter.
+&emsp;"(2) engage or participate, either directly or by contract, in demonstration efforts to employ innovative energy or other technologies in providing housing and related facilities and services in the relocation and resettlement of individuals under this subchapter.
 
-> Not to exceed 5 per centum of such funds may be used for the administrative expenses of the Commission in carrying out this section.”
+> Not to exceed 5 per centum of such funds may be used for the administrative expenses of the Commission in carrying out this section."
 

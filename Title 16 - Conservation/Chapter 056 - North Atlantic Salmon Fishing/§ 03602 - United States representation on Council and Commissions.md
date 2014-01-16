@@ -24,5 +24,5 @@ The Federal Advisory Committee Act (5 U.S.C. App. et seq.), referred to in subse
 
 #### Amendments
 
-<b>1983</b>—Subsec. (c). Pub. L. 98–44 substituted “shall not be considered” for “shall be considered”.
+<b>1983</b>—Subsec. (c). Pub. L. 98–44 substituted "shall not be considered" for "shall be considered".
 

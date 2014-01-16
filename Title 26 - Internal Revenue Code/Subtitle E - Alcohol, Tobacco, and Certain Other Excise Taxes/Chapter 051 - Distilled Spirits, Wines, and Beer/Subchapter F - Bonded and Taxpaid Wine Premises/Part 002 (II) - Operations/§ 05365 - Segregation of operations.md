@@ -12,7 +12,7 @@ A prior section 5365, act Aug. 16, 1954, ch. 736, 68A Stat. 665, consisted of pr
 
 <b>1979</b>—Pub. L. 96–39 authorized segregation of operations to prevent the commingling of standard wines with other than standard wines.
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 1979 Amendment
 

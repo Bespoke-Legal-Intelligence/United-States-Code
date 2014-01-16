@@ -30,15 +30,15 @@
 
 &emsp;&emsp;For purposes of subparagraph (A):
 
-&emsp;&emsp;&emsp;(i) The term “brain-related tumor” means a listed primary tumor (whether malignant or benign) occurring in any of the following sites:
+&emsp;&emsp;&emsp;(i) The term "brain-related tumor" means a listed primary tumor (whether malignant or benign) occurring in any of the following sites:
 
 &emsp;&emsp;&emsp;&emsp;(I) The brain, meninges, spinal cord, cauda equina, a cranial nerve or nerves, or any other part of the central nervous system.
 
 &emsp;&emsp;&emsp;&emsp;(II) The pituitary gland, pineal gland, or craniopharyngeal duct.
 
-&emsp;&emsp;&emsp;(ii) The term “listed”, with respect to a primary tumor, means a primary tumor that is listed in the International Classification of Diseases for Oncology (commonly referred to as the ICD–O).
+&emsp;&emsp;&emsp;(ii) The term "listed", with respect to a primary tumor, means a primary tumor that is listed in the International Classification of Diseases for Oncology (commonly referred to as the ICD–O).
 
-&emsp;&emsp;&emsp;(iii) The term “International Classification of Diseases for Oncology” means a classification system that includes topography (site) information and histology (cell type information) developed by the World Health Organization, in collaboration with international centers, to promote international comparability in the collection, classification, processing, and presentation of cancer statistics. The ICD–O system is a supplement to the International Statistical Classification of Diseases and Related Health Problems (commonly known as the ICD) and is the standard coding system used by cancer registries worldwide. Such term includes any modification made to such system for purposes of the United States. Such term further includes any published classification system that is internationally recognized as a successor to the classification system referred to in the first sentence of this clause.
+&emsp;&emsp;&emsp;(iii) The term "International Classification of Diseases for Oncology" means a classification system that includes topography (site) information and histology (cell type information) developed by the World Health Organization, in collaboration with international centers, to promote international comparability in the collection, classification, processing, and presentation of cancer statistics. The ICD–O system is a supplement to the International Statistical Classification of Diseases and Related Health Problems (commonly known as the ICD) and is the standard coding system used by cancer registries worldwide. Such term includes any modification made to such system for purposes of the United States. Such term further includes any published classification system that is internationally recognized as a successor to the classification system referred to in the first sentence of this clause.
 
 #### (C) Statewide cancer registry
 
@@ -54,7 +54,7 @@
 
 &emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-&emsp;(B) With respect to a State in which the purpose described in subsection (a) of this section is to be carried out, the Secretary, in making a determination of the amount of non-Federalcontributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) of this section is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
+&emsp;(B) With respect to a State in which the purpose described in subsection (a) of this section is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) of this section is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
 
 #### (c) Eligibility for grants
 
@@ -116,9 +116,9 @@ In the case of a grant under subsection (a) of this section to any State specifi
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–260 designated existing provisions as par. (1), inserted par. (1) heading, substituted “population-based, statewide registries to collect, for each condition specified in paragraph (2)(A), data” for “population-based, statewide cancer registries in order to collect, for each form of in-situ and invasive cancer (with the exception of basal cell and squamous cell carcinoma of the skin), data”, redesignated former pars. (1) to (5) as subpars. (A) to (E) of par. (1), respectively, and added par. (2).
+<b>2002</b>—Subsec. (a). Pub. L. 107–260 designated existing provisions as par. (1), inserted par. (1) heading, substituted "population-based, statewide registries to collect, for each condition specified in paragraph (2)(A), data" for "population-based, statewide cancer registries in order to collect, for each form of in-situ and invasive cancer (with the exception of basal cell and squamous cell carcinoma of the skin), data", redesignated former pars. (1) to (5) as subpars. (A) to (E) of par. (1), respectively, and added par. (2).
 
-<b>2000</b>—Subsec. (e). Pub. L. 106–310, §502(2)(B), substituted “subsection (b) of section 280e–3 of this title” for “section 280e–3(b) of this title” and “such section” for “section 399C”.
+<b>2000</b>—Subsec. (e). Pub. L. 106–310, §502(2)(B), substituted "subsection (b) of section 280e–3 of this title" for "section 280e–3(b) of this title" and "such section" for "section 399C".
 
 #### Change of Name
 
@@ -126,27 +126,27 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–260, §2(b), Oct. 29, 2002, 116 Stat. 1744, provided that: “The amendments made by subsection (a) \[amending this section\] apply to grants under section 399B of the Public Health Service Act \[this section\] for fiscal year 2002 and subsequent fiscal years, except that, in the case of a State that received such a grant for fiscal year 2000, the Secretary of Health and Human Services may delay the applicability of such amendments to the State for not more than 12 months if the Secretary determines that compliance with such amendments requires the enactment of a statute by the State or the issuance of State regulations.”
+Pub. L. 107–260, §2(b), Oct. 29, 2002, 116 Stat. 1744, provided that: "The amendments made by subsection (a) \[amending this section\] apply to grants under section 399B of the Public Health Service Act \[42 U.S.C. 280e\] for fiscal year 2002 and subsequent fiscal years, except that, in the case of a State that received such a grant for fiscal year 2000, the Secretary of Health and Human Services may delay the applicability of such amendments to the State for not more than 12 months if the Secretary determines that compliance with such amendments requires the enactment of a statute by the State or the issuance of State regulations."
 
 #### Congressional Findings and Purpose
 
 Pub. L. 102–515, §2, Oct. 24, 1992, 106 Stat. 3372, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress finds that—
 
-&emsp;“(1) cancer control efforts, including prevention and early detection, are best addressed locally by State health departments that can identify unique needs;
+&emsp;"(1) cancer control efforts, including prevention and early detection, are best addressed locally by State health departments that can identify unique needs;
 
-&emsp;“(2) cancer control programs and existing statewide population-based cancer registries have identified cancer incidence and cancer mortality rates that indicate the burden of cancer for Americans is substantial and varies widely by geographic location and by ethnicity;
+&emsp;"(2) cancer control programs and existing statewide population-based cancer registries have identified cancer incidence and cancer mortality rates that indicate the burden of cancer for Americans is substantial and varies widely by geographic location and by ethnicity;
 
-&emsp;“(3) statewide cancer incidence and cancer mortality data, can be used to identify cancer trends, patterns, and variation for directing cancer control intervention;
+&emsp;"(3) statewide cancer incidence and cancer mortality data, can be used to identify cancer trends, patterns, and variation for directing cancer control intervention;
 
-&emsp;“(4) the American Association of Central Cancer Registries (AACCR) cites that of the 50 States, approximately 38 have established cancer registries, many are not statewide and 10 have no cancer registry; and
+&emsp;"(4) the American Association of Central Cancer Registries (AACCR) cites that of the 50 States, approximately 38 have established cancer registries, many are not statewide and 10 have no cancer registry; and
 
-&emsp;“(5) AACCR also cites that of the 50 States, 39 collect data on less than 100 percent of their population, and less than half have adequate resources for insuring minimum standards for quality and for completeness of case information.
+&emsp;"(5) AACCR also cites that of the 50 States, 39 collect data on less than 100 percent of their population, and less than half have adequate resources for insuring minimum standards for quality and for completeness of case information.
 
-“(b)
+"(b)
 
-Purpose.—It is the purpose of this Act \[enacting this part and provisions set out as a note under section 201 of this title\] to establish a national program of cancer registries.”
+Purpose.—It is the purpose of this Act \[enacting this part and provisions set out as a note under section 201 of this title\] to establish a national program of cancer registries."
 

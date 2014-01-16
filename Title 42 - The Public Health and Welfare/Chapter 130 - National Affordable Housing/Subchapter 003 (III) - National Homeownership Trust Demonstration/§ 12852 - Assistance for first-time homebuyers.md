@@ -34,7 +34,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 &emsp;&emsp;(A) (and whose spouse) has had no ownership in a principal residence during the 3-year period ending on the date of purchase of the property with respect to which assistance payments are made under this subchapter;
 
-&emsp;&emsp;(B) is a displaced homemaker who, except for owning a home with his or her spouse or residing in a home owned by the spouse, meets the requirements of subparagraph (A);
+&emsp;&emsp;(B) is a displaced homemaker who, except for owning a home with his or her spouse orresiding in a home owned by the spouse, meets the requirements of subparagraph (A);
 
 &emsp;&emsp;(C) is a single parent who, except for owning a home with his or her spouse or residing in a home owned by the spouse while married, meets the requirements of subparagraph (A); or
 
@@ -102,13 +102,13 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (d) Allocation formula
 
-Amounts available in any fiscal year for assistance under this subchapter shall be allocated for homebuyers in each State on the basis of the need of eligible first-time homebuyers in each State for such assistance in comparison with the need of eligible first-time homebuyers for such assistance among all States.
+Amounts available in any fiscal year for assistance under this subchapter shall be allocatedfor homebuyers in each State on the basis of the need of eligible first-time homebuyers in each State for such assistance in comparison with the need of eligible first-time homebuyers for such assistance among all States.
 
 #### (e) Assistance in connection with housing financed with mortgage revenue bonds
 
 #### (1) Authority
 
-&emsp;The Trust shall provide assistance for first-time homebuyers in the form of interest rate buydowns and downpayment assistance under this subsection. Such assistance shall be available only with respect to mortgages for the purchase of residences (A) financed with theproceeds of a qualified mortgage bond (as such term is defined in section 143 of title 26), or (B) for which a credit is allowable under section 25 of title 26.
+&emsp;The Trust shall provide assistance for first-time homebuyers in the form of interest rate buydowns and downpayment assistance under this subsection. Such assistance shall be available only with respect to mortgages for the purchase of residences (A) financed with the proceeds of a qualified mortgage bond (as such term is defined in section 143 of title 26), or (B) for which a credit is allowable under section 25 of title 26.
 
 #### (2) Eligibility
 
@@ -160,7 +160,7 @@ Subsec. (b)(1)(D). Pub. L. 102–550, §182(d), added subpar. (D).
 
 Subsec. (e). Pub. L. 102–550, §182(c)(1), added subsec. (e).
 
-<i><sup>1</sup></i><i> So in original. The “; and” probably should be a period.</i>
+<i><sup>1</sup></i><i> So in original. The "; and" probably should be a period.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “(4)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "(4)".</i>
 

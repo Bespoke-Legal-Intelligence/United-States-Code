@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. 1431.
 
-The words “to exercise carefully a discrimination in” are omitted as surplusage. The words “leave and liberty” are substituted for “temporary leave of absence and liberty on shore” to conform to modern terminology.
+The words "to exercise carefully a discrimination in" are omitted as surplusage. The words "leave and liberty" are substituted for "temporary leave of absence and liberty on shore" to conform to modern terminology.
 

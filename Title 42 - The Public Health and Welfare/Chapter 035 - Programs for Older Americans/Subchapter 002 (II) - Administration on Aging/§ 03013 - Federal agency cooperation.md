@@ -4,7 +4,7 @@
 
 (1) The Assistant Secretary, in carrying out the objectives and provisions of this chapter, shall coordinate, advise, consult with, and cooperate with the head of each department, agency, or instrumentality of the Federal Government proposing or administering programs or services substantially related to the objectives of this chapter, with respect to such programs or services. In particular, the Assistant Secretary shall coordinate, advise, consult, and cooperate with the Secretary of Labor in carrying out subchapter IX of this chapter and with the Corporation for National and Community Service in carrying out this chapter.
 
-(2) The head of each department, agency, or instrumentality of the Federal Government proposing to establish programs and services substantially related to the objectives of this chapter shall consult with the Assistant Secretary prior to the establishment of such programs and services. To achieve appropriate coordination, the head of each department, agency, or instrumentality of the Federal Government administering any program substantially related to the objectives of this chapter, particularly administering any program referred to in subsection (b) of this section, shall consult and cooperate with the Assistant Secretary in carrying out such program. In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
+(2) The head of each department, agency, or instrumentality of the Federal Government proposing to establish programs and services substantially related to the objectives of this chapter shall consult with the Assistant Secretary prior to the establishment of such programs and services. To achieve appropriate coordination,the head of each department, agency, or instrumentality of the Federal Government administering any program substantially related to the objectives of this chapter, particularly administering any program referred to in subsection (b) of this section, shall consult and cooperate with the Assistant Secretary in carrying out such program. In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
 (3) The head of each department, agency, or instrumentality of the Federal Government administering programs and services substantially related to the objectives of this chapter shall collaborate with the Assistant Secretary in carrying out this chapter, and shall develop a written analysis, for review and comment by the Assistant Secretary, of the impact of such programs and services on—
 
@@ -56,7 +56,7 @@ For the purposes of subsection (a) of this section, programs related to the obje
 
 #### (c) Interagency Coordinating Committee on Aging
 
-(1) The Secretary, in collaboration with the Federal officials specified in paragraph (2), shall establish an Interagency Coordinating Committee on Aging (referred to in this subsection as the “Committee”) focusing on the coordination of agencies with respect to aging issues.
+(1) The Secretary, in collaboration with the Federal officials specified in paragraph (2), shall establish an Interagency Coordinating Committee on Aging (referred to in this subsection as the "Committee") focusing on the coordination of agencies with respect to aging issues.
 
 (2) The officials referred to in paragraph (1) shall include the Secretary of Labor and the Secretary of Housing and Urban Development, and may include, at the direction of the President, the Attorney General, the Secretary of Transportation, the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Homeland Security, the Commissioner of Social Security, and such other Federal officials as the President may direct. An official described in this paragraph may appoint a designee to carry out the official's duties under paragraph (1).
 
@@ -126,7 +126,7 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 
 The United States Housing Act of 1937, referred to in subsec. (b)(5), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (b)(7), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (b)(7), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classifiedprincipally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (b)(8), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title I of the Higher Education Act of 1965 is classified generally to subchapter I (§1001 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
@@ -148,39 +148,39 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 #### Codification
 
-In subsec. (b)(9), “sections 5309 and 5310 of title 49” substituted for “sections 3, 9, and 16 of the Federal Transit Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. Previously, section 9 of the Federal Transit Act, classified to section 1607a of former Title 49, Transportation, was repealed by Pub. L. 95–599, title III, §305(a), Nov. 6, 1978, 92 Stat. 2473, and a new section 9 of the Act, classified to section 1607a of former Title 49, was enacted by Pub. L. 97–424, title III, §303, formerly §303(a), Jan. 6, 1983, 96 Stat. 2141. The new section 9 of the Act was repealed and reenacted as sections 5307 and 5336 of Title 49, Transportation, by Pub. L. 103–272, §§1(b), 7(b), July 5, 1994, 108 Stat. 795, 840, 1379.
+In subsec. (b)(9), "sections 5309 and 5310 of title 49" substituted for "sections 3, 9, and 16 of the Federal Transit Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. Previously, section 9 of the Federal Transit Act, classified to section 1607a of former Title 49, Transportation, was repealed by Pub. L. 95–599, title III, §305(a), Nov. 6, 1978, 92 Stat. 2473, and a new section 9 of the Act, classified to section 1607a of former Title 49, was enacted by Pub. L. 97–424, title III, §303, formerly §303(a), Jan. 6, 1983, 96 Stat. 2141. The new section 9 of the Act was repealed and reenacted as sections 5307 and 5336 of Title 49, Transportation, by Pub. L. 103–272, §§1(b), 7(b), July 5, 1994, 108 Stat. 795, 840, 1379.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(3)(A). Pub. L. 109–365, §203(1), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority older individuals and older individuals residing in rural areas)” and “section 3056p” for “section 3056e”.
+<b>2006</b>—Subsec. (a)(3)(A). Pub. L. 109–365, §203(1), substituted "(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)" for "(with particular attention to low-income minority older individuals and older individuals residing in rural areas)" and "section 3056p" for "section 3056e".
 
 Subsec. (b)(19). Pub. L. 109–365, §203(2), added par. (19).
 
 Subsec. (c). Pub. L. 109–365, §203(3), added subsec. (c).
 
-<b>2000</b>—Subsec. (a)(3)(A). Pub. L. 106–501 inserted “and older individuals residing in rural areas” after “low-income minority older individuals”.
+<b>2000</b>—Subsec. (a)(3)(A). Pub. L. 106–501 inserted "and older individuals residing in rural areas" after "low-income minority older individuals".
 
-Subsec. (b)(17). Pub. L. 106–402 substituted “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities and Bill of Rights Act”.
+Subsec. (b)(17). Pub. L. 106–402 substituted "Developmental Disabilities Assistance and Bill of Rights Act of 2000" for "Developmental Disabilities and Bill of Rights Act".
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(25)(A)(i)\], struck out “the Job Training Partnership Act and” after “in carrying out”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(25)(A)(i)\], struck out "the Job Training Partnership Act and" after "in carrying out".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(33)(A)(i)\], substituted last sentence for former last sentence which read as follows: “In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out the Job Training Partnership Act (29 U.S.C. 1501 et seq.).”
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(33)(A)(i)\], substituted last sentence for former last sentence which read as follows: "In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out the Job Training Partnership Act (29 U.S.C. 1501 et seq.)."
 
-Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(25)(A)(ii)\], added par. (1) and struck out former par. (1) which read as follows: “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,”.
+Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(25)(A)(ii)\], added par. (1) and struck out former par. (1) which read as follows: "the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(33)(A)(ii)\], added par. (1) and struck out former par. (1) which read as follows: “the Job Training Partnership Act,”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(33)(A)(ii)\], added par. (1) and struck out former par. (1) which read as follows: "the Job Training Partnership Act,".
 
-Subsec. (b)(8). Pub. L. 105–220 substituted “Adult Education and Family Literacy Act” for “Adult Education Act”.
+Subsec. (b)(8). Pub. L. 105–220 substituted "Adult Education and Family Literacy Act" for "Adult Education Act".
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+<b>1993</b>—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted "Assistant Secretary" for "Commissioner" wherever appearing.
 
-Subsec. (a)(1). Pub. L. 103–82 substituted “the Corporation for National and Community Service” for “the ACTION Agency”.
+Subsec. (a)(1). Pub. L. 103–82 substituted "the Corporation for National and Community Service" for "the ACTION Agency".
 
-Subsec. (a)(3). Pub. L. 103–171, §2(4), struck out “Federal” before “department” in introductory provisions.
+Subsec. (a)(3). Pub. L. 103–171, §2(4), struck out "Federal" before "department" in introductory provisions.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–375, §203(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Commissioner, in carrying out the purposes and provisions of this chapter, shall advise, consult, and cooperate with the head of each Federal agency or department proposing or administering programs or services substantially related to the purposes of this chapter, with respect to such programs or services. The head of each Federal agency or department proposing to establish programs and services substantially related to the purposes of this chapter shall consult with the Commissioner prior to the establishment of such programs and services. The head of each Federal agency administering any program substantially related to the purposes of this chapter, particularly administering any program set forth in subsection (b) of this section, shall, to achieve appropriate coordination, consult and cooperate with the Commissioner in carrying out such program.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–375, §203(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Commissioner, in carrying out the purposes and provisions of this chapter, shall advise, consult, and cooperate with the head of each Federal agency or department proposing or administering programs or services substantially related to the purposes of this chapter, with respect to such programs or services. The head of each Federal agency or department proposing to establish programs and services substantially related to the purposes of this chapter shall consult with the Commissioner prior to the establishment of such programs and services. The head of each Federal agency administering any program substantially related to the purposes of this chapter, particularly administering any program set forth in subsection (b) of this section, shall, to achieve appropriate coordination, consult and cooperate with the Commissioner in carrying out such program."
 
-Subsec. (b). Pub. L. 102–375, §904(a)(5), substituted “objectives of this chapter” for “purposes of this chapter”.
+Subsec. (b). Pub. L. 102–375, §904(a)(5), substituted "objectives of this chapter" for "purposes of this chapter".
 
 Subsec. (b)(18). Pub. L. 102–375, §203(b), added par. (18).
 
@@ -192,21 +192,21 @@ Subsec. (b)(15). Pub. L. 100–175, §104(a), added par. (15).
 
 Subsec. (b)(16), (17). Pub. L. 100–175, §106(b), added pars. (16) and (17).
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–459, §203(a), substituted “Job Training Partnership Act” for “Comprehensive Employment and Training Act”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–459, §203(a), substituted "Job Training Partnership Act" for "Comprehensive Employment and Training Act".
 
 Subsec. (b)(3). Pub. L. 98–459, §203(b), inserted reference to title XVI of the Social Security Act.
 
-Subsec. (b)(8). Pub. L. 98–459, §203(c), struck out “the community schools program under the Elementary and Secondary Education Act of 1965,” before “title I” and the comma after “Higher Education Act of 1965”.
+Subsec. (b)(8). Pub. L. 98–459, §203(c), struck out "the community schools program under the Elementary and Secondary Education Act of 1965," before "title I" and the comma after "Higher Education Act of 1965".
 
 Subsec. (b)(9). Pub. L. 98–459, §203(d), struck out reference to section 1604 of title 49, Appendix.
 
 Subsec. (b)(10) to (14). Pub. L. 98–459, §203(e), added pars. (10) to (14).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–115, §2(d)(1), substituted “purposes” for “purpose”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–115, §2(d)(1), substituted "purposes" for "purpose".
 
-Subsec. (b). Pub. L. 97–115, §2(d)(2), substituted “purposes of this chapter” for “purpose of this chapter” in provisions preceding par. (1), substituted “Comprehensive Employment and Training Act” for “Comprehensive Employment and Training Act of 1973” in par. (1), struck out par. (8) which referred to section 2809(a)(8) of this title, redesignated par. (9) as (8) and inserted references to title I of the Higher Education Act of 1965 and to the Adult Education Act, and redesignated par. (10) as (9).
+Subsec. (b). Pub. L. 97–115, §2(d)(2), substituted "purposes of this chapter" for "purpose of this chapter" in provisions preceding par. (1), substituted "Comprehensive Employment and Training Act" for "Comprehensive Employment and Training Act of 1973" in par. (1), struck out par. (8) which referred to section 2809(a)(8) of this title, redesignated par. (9) as (8) and inserted references to title I of the Higher Education Act of 1965 and to the Adult Education Act, and redesignated par. (10) as (9).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–478 added subsec. (a) and struck out similar prior provisions stating that “Federal agencies proposing to establish programs substantially related to the purposes of this chapter shall consult with the Administration on Aging prior to the establishment of such services, and Federal agencies administering such programs shall cooperate with the Administration on Aging in carrying out such services”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–478 added subsec. (a) and struck out similar prior provisions stating that "Federal agencies proposing to establish programs substantially related to the purposes of this chapter shall consult with the Administration on Aging prior to the establishment of such services, and Federal agencies administering such programs shall cooperate with the Administration on Aging in carrying out such services".
 
 Subsec. (b). Pub. L. 95–478 added subsec. (b).
 

@@ -14,7 +14,7 @@ The Secretary is authorized to cooperate with and provide assistance to any Stat
 
 #### (c) Increases in annual grants
 
-If, in accordance with section 1273(d) of this title, a State elects to regulate surface coal mining and reclamation operations on Federal lands, the Secretary may increase the amount of the annual grants under subsection (a) of this section by an amount which he determines is approximately equal to the amount the Federal Government would have expended for such regulation if the State had not made such election.
+If, in accordance with section 1273(d) of this title, a State elects to regulate surface coal mining and reclamation operations on Federal lands, the Secretary may increase the amount of the annual grants under subsection (a) of this section by an amount which he determines is approximately equal to the amount the FederalGovernment would have expended for such regulation if the State had not made such election.
 
 (Pub. L. 95–87, title VII, §705, Aug. 3, 1977, 91 Stat. 520.)
 

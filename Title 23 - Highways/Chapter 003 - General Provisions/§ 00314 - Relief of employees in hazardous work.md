@@ -6,5 +6,5 @@ The Secretary is authorized in an emergency to use appropriations to the Departm
 
 #### Amendments
 
-<b>1973</b>—Pub. L. 93–87 substituted “Department of Transportation” for “Department of Commerce” and “Federal Highway Administration” for “Bureau of Public Roads”.
+<b>1973</b>—Pub. L. 93–87 substituted "Department of Transportation" for "Department of Commerce" and "Federal Highway Administration" for "Bureau of Public Roads".
 

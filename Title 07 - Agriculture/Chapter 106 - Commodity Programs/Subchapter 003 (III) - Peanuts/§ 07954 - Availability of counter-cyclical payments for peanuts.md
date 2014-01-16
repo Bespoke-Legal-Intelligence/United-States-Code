@@ -50,7 +50,7 @@ If counter-cyclical payments are required to be paid for the 2002 crop of peanut
 
 #### (f) Payment amount for subsequent crop years
 
-If counter-cyclical payments are required to be paid for any of the 2003 through 2007 crops of peanuts, the amount of the counter-cyclical payment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:
+If counter-cyclical payments are required to be paid for any of the 2003 through 2007 crops of peanuts, the amount of the counter-cyclicalpayment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:
 
 &emsp;(1) The payment rate specified in subsection (d) of this section.
 
@@ -156,5 +156,5 @@ If counter-cyclical payments are required to be paid for any of the 2003 through
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (b)(1)(B), was in the original “this subtitle”, meaning subtitle C (§§1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+This subchapter, referred to in subsecs. (b)(1)(B), was in the original "this subtitle", meaning subtitle C (§§1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 

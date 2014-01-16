@@ -14,9 +14,9 @@ For the reasons hereinafter enumerated, transactions in securities as commonly c
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “effected” for “affected” in introductory provisions.
+<b>2010</b>—Pub. L. 111–203 substituted "effected" for "affected" in introductory provisions.
 
-<b>1975</b>—Pub. L. 94–29 inserted “to remove impediments to and perfect the mechanisms of a national market system for securities and a national system for the clearance and settlement of securities transactions and the safeguarding of securities and funds related thereto,” after “require appropriate reports,” in introductory provisions.
+<b>1975</b>—Pub. L. 94–29 inserted "to remove impediments to and perfect the mechanisms of a national market system for securities and a national system for the clearance and settlement of securities transactions and the safeguarding of securities and funds related thereto," after "require appropriate reports," in introductory provisions.
 
 #### Effective Date of 2010 Amendment
 
@@ -24,115 +24,115 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 94–29, §31(a), June 4, 1975, 89 Stat. 170, provided that: “This Act \[enacting sections 78k–1, 78o–4, 78q–1, and 78kk of this title, amending this section and sections 77d, 77x, 77yyy, 78c, 78d–1, 78f, 78h, 78k, 78l, 78m, 78o, 78o–3, 78q, 78s, 78u, 78w, 78x, 78y, 78bb, 78ee, 78ff, 78iii, 79z–3, 80a–9, 80a–10, 80a–13, 80a–15, 80a–16, 80a–18, 80a–31, 80a–35, 80a–48, 80b–3, 80b–4, and 80b–17 of this title, and enacting provisions set out as notes under sections 78a and 78f of this title\] shall become effective on the date of its enactment \[June 4, 1975\] except as hereinafter provided. The amendments made by this Act to sections 3(a)(12), 6(a) through (d), 11A(b), 15(a), 15A, 15B(a), 17A(b), and (c), and 19(g) of the Securities Exchange Act of 1934 \[sections 78c(a)(12), 78f(a) through (d), 78k–1(b), 78o(a), 78o–3, 78o–4(a), 78q–1(b) and (c), and 78s(g) of this title\] shall become effective one hundred eighty days after the date of enactment of this Act \[June 4, 1975\], and the amendments made by this Act to section 31 of the Securities Exchange Act of 1934 \[section 78ee of this title\] shall become effective on January 1, 1976. Neither the provisions of section 3(a)(3), 6(b)(2), or 6(c)(1) of the Securities Exchange Act of 1934 (as amended by this Act) \[section 78c(a)(3), 78f(b)(2), or 78f(c)(1) of this title\] nor any rule or regulation thereunder shall apply so as to deprive any person of membership in any national securities exchange (or its successor) of which such person was, on the date of enactment of this Act \[June 4, 1975\], a member or a member firm as defined in the constitution of such exchange or so as to deny membership in any such exchange (or its successor) to any natural person who is or becomes associated with such member or member firm.”
+Pub. L. 94–29, §31(a), June 4, 1975, 89 Stat. 170, provided that: "This Act \[enacting sections 78k–1, 78o–4, 78q–1, and 78kk of this title, amending this section and sections 77d, 77x, 77yyy, 78c, 78d–1, 78f, 78h, 78k, 78l, 78m, 78o, 78o–3, 78q, 78s, 78u, 78w, 78x, 78y, 78bb, 78ee, 78ff, 78iii, 79z–3, 80a–9, 80a–10, 80a–13, 80a–15, 80a–16, 80a–18, 80a–31, 80a–35, 80a–48, 80b–3, 80b–4, and 80b–17 of this title, and enacting provisions set out as notes under sections 78a and 78f of this title\] shall become effective on the date of its enactment \[June 4, 1975\] except as hereinafter provided. The amendments made by this Act to sections 3(a)(12), 6(a) through (d), 11A(b), 15(a), 15A, 15B(a), 17A(b), and (c), and 19(g) of the Securities Exchange Act of 1934 \[sections 78c(a)(12), 78f(a) through (d), 78k–1(b), 78o(a), 78o–3, 78o–4(a), 78q–1(b) and (c), and 78s(g) of this title\] shall become effective one hundred eighty days after the date of enactment of this Act \[June 4, 1975\], and the amendments made by this Act to section 31 of the Securities Exchange Act of 1934 \[section 78ee of this title\] shall become effective on January 1, 1976. Neither the provisions of section 3(a)(3), 6(b)(2), or 6(c)(1) of the Securities Exchange Act of 1934 (as amended by this Act) \[section 78c(a)(3), 78f(b)(2), or 78f(c)(1) of this title\] nor any rule or regulation thereunder shall apply so as to deprive any person of membership in any national securities exchange (or its successor) of which such person was, on the date of enactment of this Act \[June 4, 1975\], a member or a member firm as defined in the constitution of such exchange or so as to deny membership in any such exchange (or its successor) to any natural person who is or becomes associated with such member or member firm."
 
 #### Study and Report on Impact of Technological Advances on Securities Markets
 
 Pub. L. 104–290, title V, §510(a), Oct. 11, 1996, 110 Stat. 3450, provided that:
 
-“(1)
+"(1)
 
 Study.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The Commission shall conduct a study of—
 
-&emsp;&emsp;“(i) the impact of technological advances and the use of on-line information systems on the securities markets, including steps that the Commission has taken to facilitate the electronic delivery of prospectuses to institutional and other investors;
+&emsp;&emsp;"(i) the impact of technological advances and the use of on-line information systems on the securities markets, including steps that the Commission has taken to facilitate the electronic delivery of prospectuses to institutional and other investors;
 
-&emsp;&emsp;“(ii) how such technologies have changed the way in which the securities markets operate; and
+&emsp;&emsp;"(ii) how such technologies have changed the way in which the securities markets operate; and
 
-&emsp;&emsp;“(iii) any steps taken by the Commission to address such changes.
+&emsp;&emsp;"(iii) any steps taken by the Commission to address such changes.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Considerations.—In conducting the study under subparagraph (A), the Commission shall consider how the Commission has adapted its enforcement policies and practices in response to technological developments with regard to—
 
-&emsp;&emsp;“(i) disclosure, prospectus delivery, and other customer protection regulations;
+&emsp;&emsp;"(i) disclosure, prospectus delivery, and other customer protection regulations;
 
-&emsp;&emsp;“(ii) intermediaries and exchanges in the domestic and international financial services industry;
+&emsp;&emsp;"(ii) intermediaries and exchanges in the domestic and international financial services industry;
 
-&emsp;&emsp;“(iii) reporting by issuers, including communications with holders of securities;
+&emsp;&emsp;"(iii) reporting by issuers, including communications with holders of securities;
 
-&emsp;&emsp;“(iv) the relationship of the Commission with other national regulatory authorities and organizations to improve coordination and cooperation; and
+&emsp;&emsp;"(iv) the relationship of the Commission with other national regulatory authorities and organizations to improve coordination and cooperation; and
 
-&emsp;&emsp;“(v) the relationship of the Commission with State regulatory authorities and organizations to improve coordination and cooperation.
+&emsp;&emsp;"(v) the relationship of the Commission with State regulatory authorities and organizations to improve coordination and cooperation.
 
-“(2)
+"(2)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall submit a report to the Congress on the results of the study conducted under paragraph (1).”
+Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall submit a report to the Congress on the results of the study conducted under paragraph (1)."
 
 #### Joint Study on Impact of Additional Securities Based on Pooled Obligations
 
 Pub. L. 103–325, title II, §209, Sept. 23, 1994, 108 Stat. 2202, provided that:
 
-“(a)
+"(a)
 
 Joint Study Required.—The Board and the Commission shall conduct a joint study of the impact of the provisions of this subtitle \[subtitle A \[§§201–210 of title II of Pub. L. 103–325\], see Short Title of 1994 Amendment note set out under section 78a of this title\] (including the amendments made by this subtitle) on the credit and securities markets. Such study shall evaluate—
 
-&emsp;“(1) the impact of the provisions of this subtitle on the availability of credit for business and commercial enterprises in general, and the availability of credit in particular for—
+&emsp;"(1) the impact of the provisions of this subtitle on the availability of credit for business and commercial enterprises in general, and the availability of credit in particular for—
 
-&emsp;&emsp;“(A) businesses in low- and moderate-income areas;
+&emsp;&emsp;"(A) businesses in low- and moderate-income areas;
 
-&emsp;&emsp;“(B) businesses owned by women and minorities;
+&emsp;&emsp;"(B) businesses owned by women and minorities;
 
-&emsp;&emsp;“(C) community development efforts;
+&emsp;&emsp;"(C) community development efforts;
 
-&emsp;&emsp;“(D) community development financial institutions;
+&emsp;&emsp;"(D) community development financial institutions;
 
-&emsp;&emsp;“(E) businesses in different geographical regions; and
+&emsp;&emsp;"(E) businesses in different geographical regions; and
 
-&emsp;&emsp;“(F) a diversity of types of businesses;
+&emsp;&emsp;"(F) a diversity of types of businesses;
 
-&emsp;“(2) the structure and operation of the markets that develop for small business related securities and commercial mortgage related securities, including the types of entities (such as pension funds and insurance companies) that are significant purchasers of such securities, the extent to which such entities are sophisticated investors, the use of credit enhancements in obtaining investment-grade ratings, any conflicts of interest that arise in such markets, and any adverse effects of such markets on commercial real estate ventures, pension funds, or pension fund beneficiaries;
+&emsp;"(2) the structure and operation of the markets that develop for small business related securities and commercial mortgage related securities, including the types of entities (such as pension funds and insurance companies) that are significant purchasers of such securities, the extent to which such entities are sophisticated investors, the use of credit enhancements in obtaining investment-grade ratings, any conflicts of interest that arise in such markets, and any adverse effects of such markets on commercial real estate ventures, pension funds, or pension fund beneficiaries;
 
-&emsp;“(3) the extent to which the provisions of this subtitle with regard to margin requirements, the number of eligible investment rating categories, preemption of State law, and the treatment of such securities as government securities for the purpose of State investment limitations, affect the structure and operation of such markets; and
+&emsp;"(3) the extent to which the provisions of this subtitle with regard to margin requirements, the number of eligible investment rating categories, preemption of State law, and the treatment of such securities as government securities for the purpose of State investment limitations, affect the structure and operation of such markets; and
 
-&emsp;“(4) in view of the findings made pursuant to paragraphs (2) and (3), any additional suitability or disclosure requirements or other investor protections that should be required.
+&emsp;"(4) in view of the findings made pursuant to paragraphs (2) and (3), any additional suitability or disclosure requirements or other investor protections that should be required.
 
-“(b)
+"(b)
 
 Reports.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Board and the Commission shall submit to the Congress a report on the results of the study required by subsection (a) before the end of—
 
-&emsp;&emsp;“(A) the 2-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\];
+&emsp;&emsp;"(A) the 2-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\];
 
-&emsp;&emsp;“(B) the 4-year period beginning on such date of enactment; and
+&emsp;&emsp;"(B) the 4-year period beginning on such date of enactment; and
 
-&emsp;&emsp;“(C) the 6-year period beginning on such date of enactment.
+&emsp;&emsp;"(C) the 6-year period beginning on such date of enactment.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Contents of report.—Each report required under paragraph (1) shall contain or be accompanied by such recommendations for administrative or legislative action as the Board and the Commission consider appropriate and may include recommendations regarding the need to develop a system for reporting additional information concerning investments by the entities described in subsection (a)(2).
 
-“(c)
+"(c)
 
 Definitions.—As used in this section—
 
-&emsp;“(1) the term ‘Board’ means the Board of Governors of the Federal Reserve System; and
+&emsp;"(1) the term 'Board' means the Board of Governors of the Federal Reserve System; and
 
-&emsp;“(2) the term ‘Commission’ means the Securities and Exchange Commission.”
+&emsp;"(2) the term 'Commission' means the Securities and Exchange Commission."
 
 #### Intermarket Coordination; Reports to Congress
 
-Pub. L. 101–432, §8(a), Oct. 16, 1990, 104 Stat. 976, provided that: “The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Securities and Exchange Commission, and the Chairman of the Commodity Futures Trading Commission, shall report to the Congress not later than May 31, 1991, and annually thereafter until May 31, 1995, on the following:
+Pub. L. 101–432, §8(a), Oct. 16, 1990, 104 Stat. 976, provided that: "The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Securities and Exchange Commission, and the Chairman of the Commodity Futures Trading Commission, shall report to the Congress not later than May 31, 1991, and annually thereafter until May 31, 1995, on the following:
 
-&emsp;“(1) the efforts their respective agencies have made relating to the coordination of regulatory activities to ensure the integrity and competitiveness of United States financial markets;
+&emsp;"(1) the efforts their respective agencies have made relating to the coordination of regulatory activities to ensure the integrity and competitiveness of United States financial markets;
 
-&emsp;“(2) the efforts their respective agencies have made to formulate coordinated mechanisms across marketplaces to protect the payments and market systems during market emergencies;
+&emsp;"(2) the efforts their respective agencies have made to formulate coordinated mechanisms across marketplaces to protect the payments and market systems during market emergencies;
 
-&emsp;“(3) the views of their respective agencies with respect to the adequacy of margin levels and use of leverage by market participants; and
+&emsp;"(3) the views of their respective agencies with respect to the adequacy of margin levels and use of leverage by market participants; and
 
-&emsp;“(4) such other issues and concerns relating to the soundness, stability, and integrity of domestic and international capital markets as may be appropriate.
+&emsp;"(4) such other issues and concerns relating to the soundness, stability, and integrity of domestic and international capital markets as may be appropriate.
 
-> The agencies shall cooperate in the development of their reports, and prior to submitting its report to Congress, each agency shall provide copies to the other agencies.”
+> The agencies shall cooperate in the development of their reports, and prior to submitting its report to Congress, each agency shall provide copies to the other agencies."
 
 #### Securities Laws Study
 
-Pub. L. 100–704, §7, Nov. 19, 1988, 102 Stat. 4682, directed Securities and Exchange Commission to study and investigate adequacy of Federal securities laws and regulations for protection of the public interest and interests of investors, specified subjects for the study and investigation and authority of Commission in conducting the study and investigation, directed Commission to supply interim information to Congress on the progress of, and any impediments to completing, the study and investigation, directed Commission to report to Congress on results of the study and investigation within 18 months after the date funds are appropriated for the study and investigation, including in such report the Commission's recommendations.
+Pub. L. 100–704, §7, Nov. 19, 1988, 102 Stat. 4682, directed Securities and Exchange Commission to study and investigate adequacy of Federal securities laws and regulations for protection of the public interest and interests of investors, specified subjects for the study and investigation and authority of Commission in conducting the study and investigation, directed Commission to supply interim information to Congress on the progress of, and any impediments to completing, the study and investigation, directed Commission to report to Congress on results of the study and investigationwithin 18 months after the date funds are appropriated for the study and investigation, including in such report the Commission's recommendations.
 
 #### Foreign Investment Study
 
@@ -142,7 +142,7 @@ Pub. L. 93–479, Oct. 26, 1974, 88 Stat. 1450, directed Secretary of the Treasu
 
 Ex. Ord. No. 12631, Mar. 18, 1988, 53 F.R. 9421, provided:
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States ofAmerica, and in order to establish a Working Group on Financial Markets, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, and in order to establish a Working Group on Financial Markets, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. (a) There is hereby established a Working Group on Financial Markets (Working Group). The Working Group shall be composed of:
 

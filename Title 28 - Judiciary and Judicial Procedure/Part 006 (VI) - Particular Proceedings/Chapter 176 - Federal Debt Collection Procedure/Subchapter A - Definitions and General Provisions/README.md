@@ -10,7 +10,7 @@
 | [3006\.](%C2%A7%2003006%20-%20Affidavit%20requirements.md) | Affidavit requirements. |
 | [3007\.](%C2%A7%2003007%20-%20Perishable%20personal%20property.md) | Perishable personal property. |
 | [3008\.](%C2%A7%2003008%20-%20Proceedings%20before%20United%20States%20magistrate%20judges.md) | Proceedings before United States magistrate judges. |
-| [3009\.](%C2%A7%2003009%20-%20United%20States%20marshals%E2%80%99%20authority%20to%20designate%20keeper.md) | United States marshals’ authority to designate keeper. |
+| [3009\.](%C2%A7%2003009%20-%20United%20States%20marshals%27%20authority%20to%20designate%20keeper.md) | United States marshals' authority to designate keeper. |
 | [3010\.](%C2%A7%2003010%20-%20Co-owned%20property.md) | Co-owned property. |
 | [3011\.](%C2%A7%2003011%20-%20Assessment%20of%20surcharge%20on%20a%20debt.md) | Assessment of surcharge on a debt. |
 | [3012\.](%C2%A7%2003012%20-%20Joinder%20of%20additional%20defendant.md) | Joinder of additional defendant. |
@@ -22,7 +22,7 @@
 
 #### Change of Name
 
-“United States magistrate judges” substituted for “United States magistrates” in item 3008 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+"United States magistrate judges" substituted for "United States magistrates" in item 3008 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 
 ---
@@ -37,7 +37,7 @@
 - [&sect; 03006 - Affidavit requirements](%C2%A7%2003006%20-%20Affidavit%20requirements.md)
 - [&sect; 03007 - Perishable personal property](%C2%A7%2003007%20-%20Perishable%20personal%20property.md)
 - [&sect; 03008 - Proceedings before United States magistrate judges](%C2%A7%2003008%20-%20Proceedings%20before%20United%20States%20magistrate%20judges.md)
-- [&sect; 03009 - United States marshals&#8217; authority to designate keeper](%C2%A7%2003009%20-%20United%20States%20marshals%E2%80%99%20authority%20to%20designate%20keeper.md)
+- [&sect; 03009 - United States marshals' authority to designate keeper](%C2%A7%2003009%20-%20United%20States%20marshals%27%20authority%20to%20designate%20keeper.md)
 - [&sect; 03010 - Co-owned property](%C2%A7%2003010%20-%20Co-owned%20property.md)
 - [&sect; 03011 - Assessment of surcharge on a debt](%C2%A7%2003011%20-%20Assessment%20of%20surcharge%20on%20a%20debt.md)
 - [&sect; 03012 - Joinder of additional defendant](%C2%A7%2003012%20-%20Joinder%20of%20additional%20defendant.md)

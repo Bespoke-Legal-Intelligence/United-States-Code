@@ -10,7 +10,7 @@ Requirement.—Except as provided in subsections (b) through (m), the acquisitio
 
 (b)
 
-Availability Exception.—(1) Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that compliant specialty metal of satisfactory quality and sufficient quantity, and in the required form, cannot be procured as and when needed. For purposes of the preceding sentence, the term “compliant specialty metal” means specialty metal melted or produced in the United States.
+Availability Exception.—(1) Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that compliant specialty metal of satisfactory quality and sufficient quantity, and in the required form, cannot be procured as and when needed. For purposes of the preceding sentence, the term "compliant specialty metal" means specialty metal melted or produced in the United States.
 
 (2) This subsection applies to prime contracts and subcontracts at any tier under such contracts.
 
@@ -110,7 +110,7 @@ National Security Waiver.—(1) Notwithstanding subsection (a), the Secretary of
 
 (l)
 
-Specialty Metal Defined.—In this section, the term “specialty metal” means any of the following:
+Specialty Metal Defined.—In this section, the term "specialty metal" means any of the following:
 
 &emsp;(1) Steel—
 
@@ -128,29 +128,29 @@ Specialty Metal Defined.—In this section, the term “specialty metal” means
 
 Additional Definitions.—In this section:
 
-&emsp;(1) The term “United States” includes possessions of the United States.
+&emsp;(1) The term "United States" includes possessions of the United States.
 
-&emsp;(2) The term “component” has the meaning provided in section 4 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
+&emsp;(2) The term "component" has the meaning provided in section 4 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
 
-&emsp;(3) The term “acquisition” has the meaning provided in section 4 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
+&emsp;(3) The term "acquisition" has the meaning provided in section 4 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
 
-&emsp;(4) The term “required form” shall not apply to end items or to their components at any tier. The term “required form” means in the form of mill product, such as bar, billet, wire, slab, plate or sheet, and in the grade appropriate for the production of—
+&emsp;(4) The term "required form" shall not apply to end items or to their components at any tier. The term "required form" means in the form of mill product, such as bar, billet, wire, slab, plate or sheet, and in the grade appropriate for the production of—
 
 &emsp;&emsp;(A) a finished end item delivered to the Department of Defense; or
 
 &emsp;&emsp;(B) a finished component assembled into an end item delivered to the Department of Defense.
 
-&emsp;(5) The term “commercially available off-the-shelf”, has the meaning provided in section 35(c) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c)).
+&emsp;(5) The term "commercially available off-the-shelf", has the meaning provided in section 35(c) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c)).
 
-&emsp;(6) The term “assemblies” means items forming a portion of a system or subsystem that can be provisioned and replaced as an entity and which incorporates multiple, replaceable parts.
+&emsp;(6) The term "assemblies" means items forming a portion of a system or subsystem that can be provisioned and replaced as an entity and which incorporates multiple, replaceable parts.
 
-&emsp;(7) The term “commercial derivative military article” means an item procured by the Department of Defense that is or will be produced using the same production facilities, a common supply chain, and the same or similar production processes that are used for the production of articles predominantly used by the general public or by nongovernmental entities for purposes other than governmental purposes.
+&emsp;(7) The term "commercial derivative military article" means an item procured by the Department of Defense that is or will be produced using the same production facilities, a common supply chain, and the same or similar production processes that are used for the production of articles predominantly used by the general public or by nongovernmental entities for purposes other than governmental purposes.
 
-&emsp;(8) The term “subsystem” means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, attitude control, and propulsion.
+&emsp;(8) The term "subsystem" means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, attitude control, and propulsion.
 
-&emsp;(9) The term “end item” means the final production product when assembled or completed, and ready for issue, delivery, or deployment.
+&emsp;(9) The term "end item" means the final production product when assembled or completed, and ready for issue, delivery, or deployment.
 
-&emsp;(10) The term “subcontract” includes a subcontract at any tier.
+&emsp;(10) The term "subcontract" includes a subcontract at any tier.
 
 (Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335; amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211; Pub. L. 111–350, §5(b)(39), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376.)
 
@@ -166,27 +166,27 @@ Section 4 of the Office of Federal Procurement Policy Act, referred to in subsec
 
 <b>2011</b>—Subsec. (a)(2). Pub. L. 111–383, §1075(f)(2)(A), made technical amendment to directory language of Pub. L. 110–181, §804(a)(3). See 2008 Amendment note below.
 
-Subsec. (h). Pub. L. 111–350, §5(b)(39)(A), which directed substitution of “section 1906 of title 41” for “section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)”, could not be executed because the words “section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)” did not appear in text.
+Subsec. (h). Pub. L. 111–350, §5(b)(39)(A), which directed substitution of "section 1906 of title 41" for "section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)", could not be executed because the words "section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)" did not appear in text.
 
-Subsec. (j). Pub. L. 111–350, §5(b)(39)(B), which directed substitution of “section 105 of title 41” for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” in subsec. (j), could not be executed because the words “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” did not appear in subsec. (j) after the amendment by Pub. L. 110–181, §804(d).
+Subsec. (j). Pub. L. 111–350, §5(b)(39)(B), which directed substitution of "section 105 of title 41" for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)" in subsec. (j), could not be executed because the words "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)" did not appear in subsec. (j) after the amendment by Pub. L. 110–181, §804(d).
 
 Subsec. (m)(3) to (10). Pub. L. 111–383, §1075(f)(2)(B), made technical amendment to directory language of Pub. L. 110–181, §804(e). See 2008 Amendment note below.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, §804(a)(1), substituted “Except as provided in subsections (b) through (m), the acquisition by the Department of Defense of the following items is prohibited:” for “Except as provided in subsections (b) through (j), funds appropriated or otherwise available to the Department of Defense may not be used for procurement of—” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §804(a)(1), substituted "Except as provided in subsections (b) through (m), the acquisition by the Department of Defense of the following items is prohibited:" for "Except as provided in subsections (b) through (j), funds appropriated or otherwise available to the Department of Defense may not be used for procurement of—" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 110–181, §804(a)(2), substituted “The following” for “the following” and substituted period for “; or” at end.
+Subsec. (a)(1). Pub. L. 110–181, §804(a)(2), substituted "The following" for "the following" and substituted period for "; or" at end.
 
-Subsec. (a)(2). Pub. L. 110–181, §804(a)(3), as amended by Pub. L. 111–383, §1075(f)(2)(A), substituted “A specialty” for “a specialty”.
+Subsec. (a)(2). Pub. L. 110–181, §804(a)(3), as amended by Pub. L. 111–383, §1075(f)(2)(A), substituted "A specialty" for "a specialty".
 
-Subsec. (c). Pub. L. 110–181, §804(f)(1), substituted “Acquisitions” for “Procurements” in heading and pars. (1) and (2).
+Subsec. (c). Pub. L. 110–181, §804(f)(1), substituted "Acquisitions" for "Procurements" in heading and pars. (1) and (2).
 
-Subsec. (d). Pub. L. 110–181, §804(f)(2), substituted “acquisition” for “procurement” in introductory provisions and par. (1).
+Subsec. (d). Pub. L. 110–181, §804(f)(2), substituted "acquisition" for "procurement" in introductory provisions and par. (1).
 
-Subsec. (f). Pub. L. 110–181, §804(f)(3), substituted “acquisitions” for “procurements”.
+Subsec. (f). Pub. L. 110–181, §804(f)(3), substituted "acquisitions" for "procurements".
 
-Subsec. (g). Pub. L. 110–181, §804(c), (f)(3), substituted “acquisitions” for “procurements” and “electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic component is critical to national security.” for “commercially available electronic components whose specialty metal content is de minimis in value compared to the overall value of the lowest level electronic component produced that contains such specialty metal.”
+Subsec. (g). Pub. L. 110–181, §804(c), (f)(3), substituted "acquisitions" for "procurements" and "electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic component is critical to national security." for "commercially available electronic components whose specialty metal content is de minimis in value compared to the overall value of the lowest level electronic component produced that contains such specialty metal."
 
-Subsec. (h). Pub. L. 110–181, §804(b), amended heading and text generally. Prior to amendment, text read as follows: “This section applies to procurements of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430).”
+Subsec. (h). Pub. L. 110–181, §804(b), amended heading and text generally. Prior to amendment, text read as follows: "This section applies to procurements of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)."
 
 Subsecs. (i) to (m). Pub. L. 110–181, §804(d), added subsecs. (i) to (k) and redesignated former subsecs. (i) and (j) as (l) and (m), respectively.
 
@@ -194,87 +194,87 @@ Subsec. (m)(3) to (10). Pub. L. 110–181, §804(e), as amended by Pub. L. 111�
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376, provided that amendment by section 1075(f)(2) is effective as of January 28, 2008, and as if included in Public Law 110–181 as enacted.”
+Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376, provided that amendment by section 1075(f)(2) is effective as of January 28, 2008, and as if included in Public Law 110–181 as enacted."
 
 #### Effective Date
 
-Pub. L. 109–364, div. A, title VIII, §842(a)(4)(A), Oct. 17, 2006, 120 Stat. 2337, provided that: “Section 2533b of title 10, United States Code, as added by paragraph (1), shall apply with respect to contracts entered into after the date occurring 30 days after the date of the enactment of this Act \[Oct. 17, 2006\].”
+Pub. L. 109–364, div. A, title VIII, §842(a)(4)(A), Oct. 17, 2006, 120 Stat. 2337, provided that: "Section 2533b of title 10, United States Code, as added by paragraph (1), shall apply with respect to contracts entered into after the date occurring 30 days after the date of the enactment of this Act \[Oct. 17, 2006\]."
 
 #### Regulations
 
-Pub. L. 110–181, div. A, title VIII, §804(g), Jan. 28, 2008, 122 Stat. 211, provided that: “Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall prescribe regulations on the implementation of this section \[amending this section and enacting provisions set out as a note under this section\] and the amendments made by this section, including specific guidance on how thresholds established in subsections (h)(3), (i) and (j) of section 2533b of title 10, United States Code, as amended by this section, should be implemented.”
+Pub. L. 110–181, div. A, title VIII, §804(g), Jan. 28, 2008, 122 Stat. 211, provided that: "Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall prescribe regulations on the implementation of this section \[amending this section and enacting provisions set out as a note under this section\] and the amendments made by this section, including specific guidance on how thresholds established in subsections (h)(3), (i) and (j) of section 2533b of title 10, United States Code, as amended by this section, should be implemented."
 
 #### Review of Regulatory Definition Relating to Production of Specialty Metals
 
 Pub. L. 111–383, div. A, title VIII, §823, Jan. 7, 2011, 124 Stat. 4269, provided that:
 
-“(a)
+"(a)
 
-Review Required.—The Secretary of Defense shall review the regulations specified in subsection (b) to ensure that the definition of the term ‘produce’ in such regulations complies with the requirements of section 2533b of title 10, United States Code. In carrying out the review, the Secretary shall seek public comment, consider congressional intent, and revise the regulations as the Secretary considers necessary and appropriate.
+Review Required.—The Secretary of Defense shall review the regulations specified in subsection (b) to ensure that the definition of the term 'produce' in such regulations complies with the requirements of section 2533b of title 10, United States Code. In carrying out the review, the Secretary shall seek public comment, consider congressional intent, and revise the regulations as the Secretary considers necessary and appropriate.
 
-“(b)
+"(b)
 
-Regulations Specified.—The regulations referred to in subsection (a) are any portion of subpart252.2 of the defense supplement to the Federal Acquisition Regulation that includes a definition of the term ‘produce’ for purposes of implementing section 2533b of title 10, United States Code.
+Regulations Specified.—The regulations referred to in subsection (a) are any portion of subpart 252.2 of the defense supplement to the Federal Acquisition Regulation that includes a definition of the term 'produce' for purposes of implementing section 2533b of title 10, United States Code.
 
-“(c)
+"(c)
 
-Completion of Review.—The Secretary shall complete the review required by subsection (a) and any necessary and appropriate revisions to the defense supplement to the Federal Acquisition Regulation not later than 270 days after the date of the enactment of this Act \[Jan. 7, 2011\].”
+Completion of Review.—The Secretary shall complete the review required by subsection (a) and any necessary and appropriate revisions to the defense supplement to the Federal Acquisition Regulation not later than 270 days after the date of the enactment of this Act \[Jan. 7, 2011\]."
 
 #### Revision of Domestic Nonavailability Determinations and Rules
 
-Pub. L. 110–181, div. A, title VIII, §804(h), Jan. 28, 2008, 122 Stat. 211, provided that: “No later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], any domestic nonavailability determination under section 2533b of title 10, United States Code, including a class deviation, or rules made by the Department of Defense between December 6, 2006, and the date of the enactment of this Act, shall be reviewed and amended, as necessary, to comply with the amendments made by this section \[amending this section and enacting provisions set out as a note under this section\]. This requirement shall not apply to a domestic nonavailability determination that applies to—
+Pub. L. 110–181, div. A, title VIII, §804(h), Jan. 28, 2008, 122 Stat. 211, provided that: "No later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], any domestic nonavailability determination under section 2533b of title 10, United States Code, including a class deviation, or rules made by the Department of Defense between December 6, 2006, and the date of the enactment of this Act, shall be reviewed and amended, as necessary, to comply with the amendments made by this section \[amending this section and enacting provisions set out as a note under this section\]. This requirement shall not apply to a domestic nonavailability determination that applies to—
 
-&emsp;“(1) an individual contract that was entered into before the date of the enactment of this Act; or
+&emsp;"(1) an individual contract that was entered into before the date of the enactment of this Act; or
 
-&emsp;“(2) an individual Department of Defense program, except to the extent that such domestic nonavailability determination applies to contracts entered into after the date of the enactment of this Act.”
+&emsp;"(2) an individual Department of Defense program, except to the extent that such domestic nonavailability determination applies to contracts entered into after the date of the enactment of this Act."
 
 #### Requirements Relating to Waivers of Certain Domestic Source Limitations Relating to Specialty Metals
 
 Pub. L. 110–181, div. A, title VIII, §884, Jan. 28, 2008, 122 Stat. 264, provided that:
 
-“(a)
+"(a)
 
 Notice Requirement.—At least 30 days prior to making a domestic nonavailability determination pursuant to section 2533b(b) of title 10, United States Code, that would apply to more than one contract of the Department of Defense, the Secretary of Defense shall, to the maximum extent practicable and in a manner consistent with the protection of national security information and confidential business information—
 
-&emsp;“(1) publish a notice on the website maintained by the General Services Administration known as FedBizOpps.gov (or any successor site) of the Secretary's intent to make the domestic nonavailability determination; and
+&emsp;"(1) publish a notice on the website maintained by the General Services Administration known as FedBizOpps.gov (or any successor site) of the Secretary's intent to make the domestic nonavailability determination; and
 
-&emsp;“(2) solicit information relevant to such notice from interested parties, including producers of specialty metal mill products.
+&emsp;"(2) solicit information relevant to such notice from interested parties, including producers of specialty metal mill products.
 
-“(b)
+"(b)
 
 Determination.—(1) The Secretary shall take into consideration all information submitted pursuant to subsection (a) in making a domestic nonavailability determination pursuant to section 2533b(b) of title 10, United States Code, that would apply to more than one contract of the Department of Defense, and may also consider other relevant information that cannot be made part of the public record consistent with the protection of national security information and confidential business information.
 
-“(2) The Secretary shall ensure that any such determination and the rationale for such determination is made publicly available to the maximum extent consistent with the protection of national security information and confidential business information.”
+"(2) The Secretary shall ensure that any such determination and the rationale for such determination is made publicly available to the maximum extent consistent with the protection of national security information and confidential business information."
 
 #### One-Time Waiver of Specialty Metals Domestic Source Requirement
 
 Pub. L. 109–364, div. A, title VIII, §842(b), Oct. 17, 2006, 120 Stat. 2337, provided that:
 
-“(1)
+"(1)
 
 Authority.—The Secretary of Defense or the Secretary of a military department may accept specialty metals if such metals were incorporated into items produced, manufactured, or assembled in the United States before the date of the enactment of this Act \[Oct. 17, 2006\] with respect to which the contracting officer for the contract determines that the contractor is not in compliance with section 2533b of title 10, United States Code (as added by subsection (a)(1)), if—
 
-&emsp;“(A) the contracting officer for the contract determines in writing that—
+&emsp;"(A) the contracting officer for the contract determines in writing that—
 
-&emsp;&emsp;“(i) it would not be practical or economical to remove or replace the specialty metals incorporated in such items or to substitute items containing compliant materials;
+&emsp;&emsp;"(i) it would not be practical or economical to remove or replace the specialty metals incorporatedin such items or to substitute items containing compliant materials;
 
-&emsp;&emsp;“(ii) the prime contractor and subcontractor responsible for providing items containing non-compliant materials have in place an effective plan to ensure compliance with section 2533b of title 10, United States Code (as so added), with regard to items containing specialty metals if such metals were incorporated into items produced, manufactured, or assembled in the United States after the date of the enactment of this Act \[Oct. 17, 2006\]; and
+&emsp;&emsp;"(ii) the prime contractor and subcontractor responsible for providing items containing non-compliant materials have in place an effective plan to ensure compliance with section 2533b of title 10, United States Code (as so added), with regard to items containing specialty metals if such metals were incorporated into items produced, manufactured, or assembled in the United States after the date of the enactment of this Act \[Oct. 17, 2006\]; and
 
-&emsp;&emsp;“(iii) the non-compliance is not knowing or willful; and
+&emsp;&emsp;"(iii) the non-compliance is not knowing or willful; and
 
-&emsp;“(B) the Under Secretary of Defense for Acquisition, Technology, and Logistics or the service acquisition executive of the military department concerned approves the determination.
+&emsp;"(B) the Under Secretary of Defense for Acquisition, Technology, and Logistics or the service acquisition executive of the military department concerned approves the determination.
 
-“(2)
+"(2)
 
 Notice.—Not later than 15 days after a contracting officer makes a determination under paragraph (1)(A) with respect to a contract, the contracting officer shall post a notice on FedBizOpps.gov that a waiver has been granted for the contract under this subsection.
 
-“(3)
+"(3)
 
-Definition.—In this subsection, the term ‘FedBizOpps.gov’ means the website maintained by the General Services Administration known as FedBizOpps.gov (or any successor site).
+Definition.—In this subsection, the term 'FedBizOpps.gov' means the website maintained by the General Services Administration known as FedBizOpps.gov (or any successor site).
 
-“(4)
+"(4)
 
-Termination of authority.—A contracting officer may exercise the authority under this subsection only with respect to the delivery of items the final acceptance of which takes place after the date of the enactment of this Act \[Oct. 17, 2006\] and before September 30, 2010.”
+Termination of authority.—A contracting officer may exercise the authority under this subsection only with respect to the delivery of items the final acceptance of which takes place after the date of the enactment of this Act \[Oct. 17, 2006\] and before September 30, 2010."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

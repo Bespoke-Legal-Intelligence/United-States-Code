@@ -10,7 +10,7 @@ R.S. §335 derived from Res. June 15, 1844, No. 16, 5 Stat. 719.
 
 #### Amendments
 
-<b>1877</b>—Act Feb. 27, 1877, struck out “agriculture” before “manufactures”.
+<b>1877</b>—Act Feb. 27, 1877, struck out "agriculture" before "manufactures".
 
 #### Transfer of Functions
 

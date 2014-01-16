@@ -14,15 +14,15 @@ Except as provided in subsection (b), all reports of the Tax Court and all evide
 
 &emsp;After the decision of the Tax Court in any proceeding has become final, the Tax Court may, upon motion of the taxpayer or the Secretary, permit the withdrawal by the party entitled thereto of originals of books, documents, and records, and of models, diagrams, and other exhibits, introduced in evidence before the Tax Court or any division; or the Tax Court may, on its own motion, make such other disposition thereof as it deems advisable.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 887; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §465(a), July 18, 1984, 98 Stat. 825.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 887; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90Stat. 1834; Pub. L. 98–369, div. A, title IV, §465(a), July 18, 1984, 98 Stat. 825.)
 
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–369, in amending section generally, designated existing provisions as subsecs. (a) and (b)(2), added subsec. (b)(1), and in subsec. (b)(2), as so designated, struck out reference to the Secretary's delegate.
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title IV, §465(b), July 18, 1984, 98 Stat. 825, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title IV, §465(b), July 18, 1984, 98 Stat. 825, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\]."
 

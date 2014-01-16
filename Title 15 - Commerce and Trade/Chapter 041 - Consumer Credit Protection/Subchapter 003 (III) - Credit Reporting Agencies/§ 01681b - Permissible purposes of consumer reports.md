@@ -34,7 +34,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;(B) the paternity of the consumer for the child to which the obligation relates has been established or acknowledged by the consumer in accordance with State laws under which the obligation arises (if required by those laws);
 
-&emsp;&emsp;(C) the person has provided at least 10 days’ prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and
+&emsp;&emsp;(C) the person has provided at least 10 days' prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and
 
 &emsp;&emsp;(D) the consumer report will be kept confidential, will be used solely for a purpose described in subparagraph (A), and will not be used in connection with any other civil, administrative, or criminal proceeding, or for any other purpose.
 
@@ -98,7 +98,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;&emsp;(I) that adverse action has been taken based in whole or in part on a consumer report received from a consumer reporting agency;
 
-&emsp;&emsp;&emsp;(II) of the name, address and telephone number of the consumer reporting agency that furnished the consumer report (including a toll-free telephone number established by the agency if the agency compiles and maintains files on consumers on a nationwide basis);
+&emsp;&emsp;&emsp;(II) of the name, address and telephone number of the consumer reporting agencythat furnished the consumer report (including a toll-free telephone number established by the agency if the agency compiles and maintains files on consumers on a nationwide basis);
 
 &emsp;&emsp;&emsp;(III) that the consumer reporting agency did not make the decision to take the adverse action and is unable to provide to the consumer the specific reasons why the adverse action was taken; and
 
@@ -158,11 +158,11 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (i) Classified information
 
-&emsp;&emsp;&emsp;The term “classified information” means information that is protected fromunauthorized disclosure under Executive Order No. 12958 or successor orders.
+&emsp;&emsp;&emsp;The term "classified information" means information that is protected from unauthorized disclosure under Executive Order No. 12958 or successor orders.
 
 #### (ii) National security investigation
 
-&emsp;&emsp;&emsp;The term “national security investigation” means any official inquiry by an agency or department of the United States Government to determine the eligibility of a consumer to receive access or continued access to classified information or to determine whether classified information has been lost or compromised.
+&emsp;&emsp;&emsp;The term "national security investigation" means any official inquiry by an agency or department of the United States Government to determine the eligibility of a consumer to receive access or continued access to classified information or to determine whether classified information has been lost or compromised.
 
 #### (c) Furnishing reports in connection with credit or insurance transactions that are not initiated by consumer
 
@@ -306,7 +306,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 #### (6) Coordination with other laws
 
-&emsp;No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
+&emsp;No provision of this subsection shall be construed as altering, affecting, or supersedingthe applicability of any other provision of Federal law relating to medical confidentiality.
 
 (Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, §213(c), title IV, §§411(a), 412(f), title VIII, §811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, §361(j), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 109–351, title VII, §719, Oct. 13, 2006, 120 Stat. 1998; Pub. L. 110–161, div. D, title VII, §743, Dec. 26, 2007, 121 Stat. 2033; Pub. L. 111–24, title III, §302, May 22, 2009, 123 Stat. 1748; Pub. L. 111–203, title X, §1088(a)(2)(A), (4), July 21, 2010, 124 Stat. 2087.)
 
@@ -320,7 +320,7 @@ Section 1681g(c) of this title, referred to in subsec. (b)(1)(B), (3)(A)(ii), (B
 
 Section 1681m(a)(3) of this title, referred to in subsec. (b)(2)(B)(i), was redesignated section 1681m(a)(4) of this title by Pub. L. 111–203, title X, §1100F(1)(A), July 21, 2010, 124 Stat. 2112.
 
-Executive Order No. 12958, referred to in subsec. (b)(4)(D)(i), which was formerly set out under section 435 of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
+Executive Order No. 12958, referred to in subsec. (b)(4)(D)(i), which was formerly set out under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (g)(3)(B), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of Title 42, The Public Health and Welfare, and Tables.
 
@@ -328,9 +328,9 @@ Section 1179 of such Act, referred to in subsec. (g)(3)(B), probably means secti
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(1)(B), (3)(A)(ii), (B)(ii). Pub. L. 111–203, §1088(a)(2)(A), substituted “Bureau” for “Federal Trade Commission”.
+<b>2010</b>—Subsec. (b)(1)(B), (3)(A)(ii), (B)(ii). Pub. L. 111–203, §1088(a)(2)(A), substituted "Bureau" for "Federal Trade Commission".
 
-Subsec. (g)(3)(C). Pub. L. 111–203, §1088(a)(4)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “as otherwise determined to be necessary and appropriate, by regulation or order and subject to paragraph (6), by the Commission, any Federal banking agency or the National Credit Union Administration (with respect to any financial institution subject to the jurisdiction of such agency or Administration under paragraph (1), (2), or (3) of section 1681s(b) of this title, or the applicable State insurance authority (with respect to any person engaged in providing insurance or annuities).”
+Subsec. (g)(3)(C). Pub. L. 111–203, §1088(a)(4)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: "as otherwise determined to be necessary and appropriate, by regulation or order and subject to paragraph (6), by the Commission, any Federal banking agency or the National Credit Union Administration (with respect to any financial institution subject to the jurisdiction of such agency or Administration under paragraph (1), (2), or (3) of section 1681s(b) of this title, or the applicable State insurance authority (with respect to any person engaged in providing insurance or annuities)."
 
 Subsec. (g)(5). Pub. L. 111–203, §1088(a)(4)(B), added par. (5) and struck out former par. (5) which related to prescription of par. (2) regulations by each Federal banking agency and the National Credit Union Administration and required issuance of final regulations before the end of the 6-month period beginning on Dec. 4, 2003.
 
@@ -344,45 +344,45 @@ Subsec. (g)(5). Pub. L. 111–203, §1088(a)(4)(B), added par. (5) and struck ou
 
 Subsec. (b)(4)(D) to (F). Pub. L. 108–177 struck out subpars. (D) and (E) and redesignated subpar. (F) as (D). Prior to amendment, subpars. (D) and (E) read as follows:
 
-“(D)
+"(D)
 
 Report to the congress.—Except as provided in subparagraph (E), not later than January 31 of each year, the head of each agency and department of the United States Government that exercised authority under this paragraph during the preceding year shall submit a report to the Congress on the number of times the department or agency exercised such authority during the year.
 
-“(E)
+"(E)
 
-Reports to congressional intelligence committees.—In the case of a report to be submitted under subparagraph (D) to the congressional intelligence committees (as defined in section 401a of title 50), the submittal date for such report shall be as provided in section 415b of title 50.”
+Reports to congressional intelligence committees.—In the case of a report to be submitted under subparagraph (D) to the congressional intelligence committees (as defined in section 401a of title 50), the submittal date for such report shall be as provided in section 415b of title 50."
 
-Subsec. (e)(3)(A), (4)(B)(i). Pub. L. 108–159, §213(c), substituted “5-year period” for “2-year period”.
+Subsec. (e)(3)(A), (4)(B)(i). Pub. L. 108–159, §213(c), substituted "5-year period" for "2-year period".
 
-Subsec. (g). Pub. L. 108–159, §411(a), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.”
+Subsec. (g). Pub. L. 108–159, §411(a), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: "A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report."
 
-Subsec. (g)(1). Pub. L. 108–159, §412(f)(1), inserted “(other than medical contact information treated inthe manner required under section 1681c(a)(6) of this title)” after “a consumer report that contains medical information” in introductory provisions.
+Subsec. (g)(1). Pub. L. 108–159, §412(f)(1), inserted "(other than medical contact information treated in the manner required under section 1681c(a)(6) of this title)" after "a consumer report that contains medical information" in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 108–159, §412(f)(2), inserted “(other than medical information treated in the manner required under section 1681c(a)(6) of this title)” after “a creditor shall not obtain or use medical information”.
+Subsec. (g)(2). Pub. L. 108–159, §412(f)(2), inserted "(other than medical information treated in the manner required under section 1681c(a)(6) of this title)" after "a creditor shall not obtain or use medical information".
 
-<b>2002</b>—Subsec. (b)(4)(D). Pub. L. 107–306, §811(b)(8)(A)(i), substituted “Except as provided in subparagraph (E), not later than” for “Not later than”.
+<b>2002</b>—Subsec. (b)(4)(D). Pub. L. 107–306, §811(b)(8)(A)(i), substituted "Except as provided in subparagraph (E), not later than" for "Not later than".
 
 Subsec. (b)(4)(E), (F). Pub. L. 107–306, §811(b)(8)(A)(ii), (iii), added subpar. (E) and redesignated former subpar. (E) as (F).
 
-<b>1998</b>—Subsec. (b)(1)(B). Pub. L. 105–347, §3, inserted “, or has previously provided,” before “a summary”.
+<b>1998</b>—Subsec. (b)(1)(B). Pub. L. 105–347, §3, inserted ", or has previously provided," before "a summary".
 
-Subsec. (b)(2). Pub. L. 105–347, §2(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless—
+Subsec. (b)(2). Pub. L. 105–347, §2(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "A person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless—
 
-&emsp;“(A) a clear and conspicuous disclosure has been made in writing to the consumer at any time before the report is procured or caused to be procured, in a document that consists solely of the disclosure, that a consumer report may be obtained for employment purposes; and
+&emsp;"(A) a clear and conspicuous disclosure has been made in writing to the consumer at any time before the report is procured or caused to be procured, in a document that consists solely of the disclosure, that a consumer report may be obtained for employment purposes; and
 
-&emsp;“(B) the consumer has authorized in writing the procurement of the report by that person.”
+&emsp;"(B) the consumer has authorized in writing the procurement of the report by that person."
 
-Subsec. (b)(3). Pub. L. 105–347, §2(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates—
+Subsec. (b)(3). Pub. L. 105–347, §2(b), amended heading and text of par. (3) generally. Prior to amendment, textread as follows: "In using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates—
 
-&emsp;“(A) a copy of the report; and
+&emsp;"(A) a copy of the report; and
 
-&emsp;“(B) a description in writing of the rights of the consumer under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.”
+&emsp;"(B) a description in writing of the rights of the consumer under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title."
 
-Subsec. (g). Pub. L. 105–347, §6(4), struck out “or a direct marketing transaction” after “or insurance transaction”.
+Subsec. (g). Pub. L. 105–347, §6(4), struck out "or a direct marketing transaction" after "or insurance transaction".
 
 <b>1997</b>—Subsec. (b)(4). Pub. L. 105–107 added par. (4).
 
-<b>1996</b>—Pub. L. 104–208, §§2403(a), 2404(a)(1), designated existing provisions as subsec. (a) and inserted heading, substituted “Subject to subsection (c) of this section, any consumer reporting agency” for “A consumer reporting agency” in introductory provisions, added subpars. (E) and (F) of par. (3), and struck out former subpar. (E) of par. (3) which read as follows: “otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer.”
+<b>1996</b>—Pub. L. 104–208, §§2403(a), 2404(a)(1), designated existing provisions as subsec. (a) and inserted heading, substituted "Subject to subsection (c) of this section, any consumer reporting agency" for "A consumer reporting agency" in introductory provisions, added subpars. (E) and (F) of par. (3), and struck out former subpar. (E) of par. (3) which read as follows: "otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer."
 
 Subsec. (b). Pub. L. 104–208, §2403(b), added subsec. (b).
 
@@ -394,7 +394,7 @@ Subsec. (g). Pub. L. 104–208, §2405, added subsec. (g).
 
 Pars. (4), (5). Pub. L. 104–193 added pars. (4) and (5).
 
-<b>1989</b>—Par. (1). Pub. L. 101–73 inserted “, or a subpoena issued in connection with proceedings before a Federal grand jury” before period at end.
+<b>1989</b>—Par. (1). Pub. L. 101–73 inserted ", or a subpoena issued in connection with proceedings before a Federal grand jury" before period at end.
 
 #### Effective Date of 2010 Amendment
 
@@ -412,7 +412,7 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 Amendment by section 411 of Pub. L. 108–159 effective at end of 180-day period beginning on Dec. 4, 2003, with certain exceptions, see section 411(d) of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681a of this title.
 
-Pub. L. 108–159, title IV, §412(g), Dec. 4, 2003, 117 Stat. 2003, provided that: “The amendments made by this section \[amending this section and sections 1681c, 1681s, and 1681s–2 of this title\] shall take effect at the end of the 15-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\].”
+Pub. L. 108–159, title IV, §412(g), Dec. 4, 2003, 117 Stat. 2003, provided that: "The amendments made by this section \[amending this section and sections 1681c, 1681s, and 1681s–2 of this title\] shall take effect at the end of the 15-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\]."
 
 #### Effective Date of 1998 Amendment
 
@@ -420,7 +420,7 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\].”
+Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\]."
 
 #### Effective Date of 1996 Amendments
 
@@ -430,17 +430,17 @@ For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) o
 
 #### Public Awareness Campaign
 
-Pub. L. 108–159, title II, §213(d), Dec. 4, 2003, 117 Stat. 1979, provided that: “The Commission shall actively publicize and conspicuously post on its website any address and the toll-free telephone number established as part of a notification system for opting out of prescreening under section 604(e) of the Fair Credit Reporting Act (15 U.S.C. 1681b(e)), and otherwise take measures to increase public awareness regarding the availability of the right to opt out of prescreening.”
+Pub. L. 108–159, title II, §213(d), Dec. 4, 2003, 117 Stat. 1979, provided that: "The Commission shall actively publicize and conspicuously post on its website any address and the toll-free telephone number established as part of a notification system for opting out of prescreening under section 604(e) of the Fair Credit Reporting Act (15 U.S.C. 1681b(e)), and otherwise take measures to increase public awareness regarding the availability of the right to opt out of prescreening."
 
 \[For definitions of terms used in section 213(d) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
 
 #### Coordination With Federal Laws Relating to Medical Confidentiality
 
-Pub. L. 108–159, title IV, §412(d), Dec. 4, 2003, 117 Stat. 2002, provided that: “No provision of any amendment made by this section \[amending this section and sections 1681c, 1681s, and 1681s–2 of this title\] shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.”
+Pub. L. 108–159, title IV, §412(d), Dec. 4, 2003, 117 Stat. 2002, provided that: "No provision of any amendment made by this section \[amending this section and sections 1681c, 1681s, and 1681s–2 of this title\] shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality."
 
 #### FTC Guidelines Regarding Prescreening for Insurance Transactions
 
-Pub. L. 104–208, div. A, title II, §2404(c), Sept. 30, 1996, 110 Stat. 3009–434, provided that: “The Federal Trade Commission may issue such guidelines as it deems necessary with respect to the use of consumer reports in connection with insurance transactions that are not initiated by the consumer pursuant to section 604(c) of the Fair Credit Reporting Act \[15 U.S.C. 1681b(c)\], as added by subsection (a) of this section.”
+Pub. L. 104–208, div. A, title II, §2404(c), Sept. 30, 1996, 110 Stat. 3009–434, provided that: "The Federal Trade Commission may issue such guidelines as it deems necessary with respect to the use of consumer reports in connection with insurance transactions that are not initiated by the consumer pursuant to section 604(c) of the Fair Credit Reporting Act \[15 U.S.C. 1681b(c)\], as added by subsection (a) of this section."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

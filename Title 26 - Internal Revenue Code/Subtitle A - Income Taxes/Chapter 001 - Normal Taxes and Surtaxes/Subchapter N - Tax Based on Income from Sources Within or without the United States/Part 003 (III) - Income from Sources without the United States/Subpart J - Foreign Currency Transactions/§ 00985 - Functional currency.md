@@ -8,7 +8,7 @@ Unless otherwise provided in regulations, all determinations under this subtitle
 
 #### (1) In general
 
-&emsp;For purposes of this subtitle, the term “functional currency” means—
+&emsp;For purposes of this subtitle, the term "functional currency" means—
 
 &emsp;&emsp;(A) except as provided in subparagraph (B), the dollar, or
 
@@ -38,15 +38,15 @@ Unless otherwise provided in regulations, all determinations under this subtitle
 
 Pub. L. 99–514, title XII, §1261(e), Oct. 22, 1986, 100 Stat. 2591, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this subpart and amending sections 1092 and 1256 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
-“(2)
+"(2)
 
 Special rules for purposes of sections 902 and 960.—For purposes of applying sections 902 and 960 of the Internal Revenue Code of 1986, the amendments made by this section shall apply to—
 
-&emsp;“(A) earnings and profits of the foreign corporation for taxable years beginning after December 31, 1986, and
+&emsp;"(A) earnings and profits of the foreign corporation for taxable years beginning after December 31, 1986, and
 
-&emsp;“(B) foreign taxes paid or accrued by the foreign corporation with respect to such earnings and profits.”
+&emsp;"(B) foreign taxes paid or accrued by the foreign corporation with respect to such earnings and profits."
 

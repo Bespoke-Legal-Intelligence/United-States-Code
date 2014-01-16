@@ -6,19 +6,19 @@ In this section:
 
 #### (1) Light Station
 
-&emsp;The term “Light Station” means Piedras Blancas Light Station.
+&emsp;The term "Light Station" means Piedras Blancas Light Station.
 
 #### (2) Outstanding Natural Area
 
-&emsp;The term “Outstanding Natural Area” means the Piedras Blancas Historic Light Station Outstanding Natural Area established pursuant to subsection (c).
+&emsp;The term "Outstanding Natural Area" means the Piedras Blancas Historic Light Station Outstanding Natural Area established pursuant to subsection (c).
 
 #### (3) Public lands
 
-&emsp;The term “public lands” has the meaning stated in section 103(e) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1703(e)).<sup>1</sup>
+&emsp;The term "public lands" has the meaning stated in section 103(e) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1703(e)).<sup>1</sup>
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 #### (b) Findings
 
@@ -26,7 +26,7 @@ Congress finds as follows:
 
 &emsp;(1) The publicly owned Piedras Blancas Light Station has nationally recognized historical structures that should be preserved for present and future generations.
 
-&emsp;(2) The coastline adjacent to the Light Station is internationally recognized as having significant wildlife and marine habitat that provides critical information to research institutions throughout the world.
+&emsp;(2) The coastline adjacent to the Light Station is internationally recognized as havingsignificant wildlife and marine habitat that provides critical information to research institutions throughout the world.
 
 &emsp;(3) The Light Station tells an important story about California's coastal prehistory and history in the context of the surrounding region and communities.
 
@@ -48,7 +48,7 @@ Congress finds as follows:
 
 #### (2) Maps and legal descriptions
 
-&emsp;The boundaries of the Outstanding Natural Area as those shown on the map entitled “Piedras Blancas Historic Light Station: Outstanding Natural Area”, dated May 5, 2004, which shall be on file and available for public inspection in the Office of the Director, Bureau of Land Management, United States Department of the Interior, and the State office of the Bureau of Land Management in the State of California.
+&emsp;The boundaries of the Outstanding Natural Area as those shown on the map entitled "Piedras Blancas Historic Light Station: Outstanding Natural Area", dated May 5, 2004, which shall be on file and available for public inspection in the Office of the Director, Bureau of Land Management, United States Department of the Interior, and the State office of the Bureau of Land Management in the State of California.
 
 #### (3) Basis of management
 
@@ -126,7 +126,7 @@ Congress finds as follows:
 
 #### (10) Native American uses and interests
 
-&emsp;In recognition of the past use of the Outstanding Natural Area by Indians and Indian tribes for traditional cultural and religious purposes, the Secretary shall ensure access to the Outstanding Natural Area by Indians and Indian tribes for such traditional cultural and religious purposes. In implementing this subsection, the Secretary, upon the request of an Indian tribe or Indian religious community, shall temporarily close to the general public use of one or more specific portions of the Outstanding Natural Area in order to protect the privacy of traditional cultural and religious activities in such areas by the Indian tribe or Indian religious community. Any such closure shall be made to affect the smallest practicable area for the minimum period necessary for such purposes. Such access shall be consistent with the purpose and intent of Public Law 95–341 (42 U.S.C. 1996 et seq.; commonly referred to as the “American Indian Religious Freedom Act”).
+&emsp;In recognition of the past use of the Outstanding Natural Area by Indians and Indian tribes for traditional cultural and religious purposes, the Secretary shall ensure access to the Outstanding Natural Area by Indians and Indian tribes for such traditional cultural and religious purposes. In implementing this subsection, the Secretary, upon the request of an Indian tribe or Indian religious community, shall temporarily close to the general public use of one or more specific portions of the Outstanding Natural Area in order to protect the privacy of traditional cultural and religious activities in such areas by the Indian tribe or Indian religious community. Any such closure shall be made to affect the smallest practicable area for the minimum period necessary for such purposes. Such access shall be consistent with the purpose and intent of Public Law 95–341 (42 U.S.C. 1996 et seq.; commonly referred to as the "American Indian Religious Freedom Act").
 
 #### (11) No buffer zones
 
@@ -144,7 +144,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(3
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (d)(3)(E), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (d)(3)(E), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
+The National Historic Preservation Act, referred to in subsec. (d)(3)(E), is Pub. L. 89–665, Oct. 15, 1966, 80Stat. 915, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
 
 The American Indian Religious Freedom Act, referred to in subsec. (d)(10), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
@@ -152,11 +152,11 @@ The American Indian Religious Freedom Act, referred to in subsec. (d)(10), is Pu
 
 Section was enacted as part of the Consolidated Natural Resources Act of 2008, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “1702(e)).”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "1702(e))."</i>
 
-<i><sup>2</sup></i><i> So in original. The word “of” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "of" probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. The word “Management” probably should not appear.</i>
+<i><sup>3</sup></i><i> So in original. The word "Management" probably should not appear.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be followed by “the”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be followed by "the".</i>
 

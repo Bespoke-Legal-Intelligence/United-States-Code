@@ -6,5 +6,5 @@ The Secretary of the Army is authorized to transfer, without payment, to the Arc
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–375 struck out “Building” after “Capitol power plant, the Capitol”.
+<b>2004</b>—Pub. L. 108–375 struck out "Building" after "Capitol power plant, the Capitol".
 

@@ -12,7 +12,7 @@ For any period during which a memorandum of understanding is in effect pursuant 
 
 &emsp;(2) all employees in the United States Capitol telephone exchange for whom the employing authority is the Chief Administrative Officer shall be transferred to, and appointed by, the Sergeant at Arms and Doorkeeper; and
 
-&emsp;(3) the Sergeant at Arms and Doorkeeper shall serve as the employing authority for all personnel of the United States Capitol telephone exchange.
+&emsp;(3) the Sergeant at Arms and Doorkeeper shall serve as the employing authority for allpersonnel of the United States Capitol telephone exchange.
 
 #### (c) Pay and leave accrual
 
@@ -30,7 +30,7 @@ In carrying out a memorandum of understanding pursuant to this section, the Serg
 
 #### (e) Reimbursement of expenses by House
 
-(1) A memorandum of understanding under this section may include a provision requiringthe reimbursement by the House of Representatives during a fiscal year (paid out of the applicable accounts of the House) of the expenses incurred by the Sergeant at Arms and Doorkeeper during the fiscal year in carrying out the memorandum with respect to the employees of the United States Capitol telephone exchange whose employing authority prior to the effective date of the memorandum was the Chief Administrative Officer.
+(1) A memorandum of understanding under this section may include a provision requiring the reimbursement by the House of Representatives during a fiscal year (paid out of the applicable accounts of the House) of the expenses incurred by the Sergeant at Arms and Doorkeeper during the fiscal year in carrying out the memorandum with respect to the employees of the United States Capitol telephone exchange whose employing authority prior to the effective date of the memorandum was the Chief Administrative Officer.
 
 (2) Any reimbursement made pursuant to this subsection—
 

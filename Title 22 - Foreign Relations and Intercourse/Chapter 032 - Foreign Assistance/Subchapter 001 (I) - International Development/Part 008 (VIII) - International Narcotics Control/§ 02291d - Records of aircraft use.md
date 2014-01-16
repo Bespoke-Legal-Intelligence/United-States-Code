@@ -12,7 +12,7 @@ The President shall make the records maintained pursuant to subsection (a) of th
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–583 substituted “President” for “Secretary of State” in subsecs. (a) and (b).
+<b>1992</b>—Pub. L. 102–583 substituted "President" for "Secretary of State" in subsecs. (a) and (b).
 
 #### Delegation of Functions
 

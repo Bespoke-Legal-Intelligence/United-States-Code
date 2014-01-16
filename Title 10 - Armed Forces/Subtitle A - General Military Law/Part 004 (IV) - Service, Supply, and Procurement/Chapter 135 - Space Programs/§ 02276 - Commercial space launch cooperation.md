@@ -62,7 +62,7 @@ Defense Cooperation Space Launch Account.—
 
 &emsp;(1)
 
-Establishment.—There is established in the Treasury of the United States a special account to be known as the “Defense Cooperation Space Launch Account”.
+Establishment.—There is established in the Treasury of the United States a special account to be known as the "Defense Cooperation Space Launch Account".
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Covered entity.—The term “covered entity” means a non-Federal entity that—
+Covered entity.—The term "covered entity" means a non-Federal entity that—
 
 &emsp;&emsp;(A) is organized under the laws of the United States or of any jurisdiction within the United States; and
 
@@ -94,15 +94,15 @@ Covered entity.—The term “covered entity” means a non-Federal entity that�
 
 &emsp;(2)
 
-Launch support facilities.—The term “launch support facilities” has the meaning given the term in section 50501(7) of title 51.
+Launch support facilities.—The term "launch support facilities" has the meaning given the term in section 50501(7) of title 51.
 
 &emsp;(3)
 
-Space recovery support facilities.—The term “space recovery support facilities” has the meaning given the term in section 50501(11) of title 51.
+Space recovery support facilities.—The term "space recovery support facilities" has the meaning given the term in section 50501(11) of title 51.
 
 &emsp;(4)
 
-Space transportation infrastructure.—The term “space transportation infrastructure” has the meaning given that term in section 50501(12) of title 51.
+Space transportation infrastructure.—The term "space transportation infrastructure" has the meaning given that term in section 50501(12) of title 51.
 
 (Added Pub. L. 112–239, div. A, title IX, §912(a), Jan. 2, 2013, 126 Stat. 1872.)
 

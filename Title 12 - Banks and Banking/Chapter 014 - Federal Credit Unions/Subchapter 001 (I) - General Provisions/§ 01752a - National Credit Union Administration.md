@@ -30,11 +30,11 @@ The management of the Administration shall be vested in the Board. The Board sha
 
 #### (e) Functions of Chairman
 
-The Chairman of the Board shall be the spokesman for the Board and shall represent theBoard and the National Credit Union Administration in its official relations with other branches of the Government. The Chairman shall determine each Board member's area of responsibility and shall review such assignments biennially. It shall be the Chairman's responsibility to direct the implementation of the adopted policies and regulations of the Board.
+The Chairman of the Board shall be the spokesman for the Board and shall represent the Board and the National Credit Union Administration in its official relations with other branches of the Government. The Chairman shall determine each Board member's area of responsibility and shall review such assignments biennially. It shall be the Chairman's responsibility to direct the implementation of the adopted policies and regulations of the Board.
 
 #### (f) Audit by Government Accountability Office
 
-The financial transactions of the Administration shall be subject to audit by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
+The financial transactions of the Administration shall be subject to audit by the GovernmentAccountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
 
 (June 26, 1934, ch. 750, title I, §102, formerly §3, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; amended Pub. L. 91–206, §3, Mar. 10, 1970, 84 Stat. 49; renumbered title I, §102, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 97–320, title V, §502, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 105–219, title II, §204, Aug. 7, 1998, 112 Stat. 922; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -52,11 +52,11 @@ Section 5 of act June 29, 1948 provided that the Act was to become effective on 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (f). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–219 inserted heading, designated existing provisions as par. (1), and added par. (2).
 
-<b>1982</b>—Subsec. (f). Pub. L. 97–320 struck out “on a calendar year basis” after “subject to audit”.
+<b>1982</b>—Subsec. (f). Pub. L. 97–320 struck out "on a calendar year basis" after "subject to audit".
 
 <b>1978</b>—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest the management of the National Credit Union Administration in the National Credit Union Administration Board.
 
@@ -70,87 +70,87 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 Pub. L. 91–206, §6, Mar. 10, 1970, 84 Stat. 51, provided that:
 
-“(a) All functions, property, records, and personnel of the Bureau of Federal Credit Unions are transferred to the National Credit Union Administration created by this Act \[which generally amended this chapter\].
+"(a) All functions, property, records, and personnel of the Bureau of Federal Credit Unions are transferred to the National Credit Union Administration created by this Act \[which generally amended this chapter\].
 
-“(b) The Director of the Bureau of Federal Credit Unions in office on the date of enactment of this Act \[Mar. 10, 1970\] shall serve as acting Administrator of the National Credit Union Administration pending the appointment of an Administrator in accordance with section 3 of the Federal Credit Union Act as amended by this Act \[this section\].”
+"(b) The Director of the Bureau of Federal Credit Unions in office on the date of enactment of this Act \[Mar. 10, 1970\] shall serve as acting Administrator of the National Credit Union Administration pending the appointment of an Administrator in accordance with section 3 of the Federal Credit Union Act as amended by this Act \[this section\]."
 
 #### Study and Report on Differing Regulatory Treatment
 
 Pub. L. 105–219, title IV, §401, Aug. 7, 1998, 112 Stat. 934, provided that:
 
-“(a)
+"(a)
 
 Study.—The Secretary \[of the Treasury\] shall conduct a study of—
 
-&emsp;“(1) the differences between credit unions and other federally insured financial institutions, including regulatory differences with respect to regulations enforced by the Office of Thrift Supervision, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Administration; and
+&emsp;"(1) the differences between credit unions and other federally insured financial institutions, including regulatory differences with respect to regulations enforced by the Office of Thrift Supervision, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Administration; and
 
-&emsp;“(2) the potential effects of the application of Federal laws, including Federal tax laws, on credit unions in the same manner as those laws are applied to other federally insured financial institutions.
+&emsp;"(2) the potential effects of the application of Federal laws, including Federal tax laws, on credit unions in the same manner as those laws are applied to other federally insured financial institutions.
 
-“(b)
+"(b)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[Aug. 7, 1998\], the Secretary shall submit a report to the Congress on the results of the study required by subsection (a).”
+Report.—Not later than 1 year after the date of enactment of this Act \[Aug. 7, 1998\], the Secretary shallsubmit a report to the Congress on the results of the study required by subsection (a)."
 
 #### Study of Corporate Credit Unions
 
 Pub. L. 104–208, div. A, title II, §2606, Sept. 30, 1996, 110 Stat. 3009–473, provided that:
 
-“(a)
+"(a)
 
 Definitions.—For purposes of this section, the following definitions shall apply:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Administration.—The term ‘Administration’ means the National Credit Union Administration.
+Administration.—The term 'Administration' means the National Credit Union Administration.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Board.—The term ‘Board’ means the National Credit Union Administration Board.
+Board.—The term 'Board' means the National Credit Union Administration Board.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Corporate credit union.—The term ‘corporate credit union’ has the meaning given such term by rule or regulation of the Board.
+Corporate credit union.—The term 'corporate credit union' has the meaning given such term by rule or regulation of the Board.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Fund.—The term ‘Fund’ means the National Credit Union Share Insurance Fund established under section 203 of the Federal Credit Union Act \[12 U.S.C. 1783\].
+Fund.—The term 'Fund' means the National Credit Union Share Insurance Fund established under section 203 of the Federal Credit Union Act \[12 U.S.C. 1783\].
 
-&emsp;“(5)
+&emsp;"(5)
 
-Secretary.—The term ‘Secretary’ means the Secretary of the Treasury.
+Secretary.—The term 'Secretary' means the Secretary of the Treasury.
 
-“(b)
+"(b)
 
 Study.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary, in consultation with the Board, the Corporation, the Comptroller of the Currency, and the Administration, shall conduct a study and evaluation of—
 
-&emsp;&emsp;“(A) the oversight and supervisory practices of the Administration concerning the Fund, including the treatment of amounts deposited in the Fund pursuant to section 202(c) of the Federal Credit Union Act \[12 U.S.C. 1782(c)\], including analysis of—
+&emsp;&emsp;"(A) the oversight and supervisory practices of the Administration concerning the Fund, including the treatment of amounts deposited in the Fund pursuant to section 202(c) of the Federal Credit Union Act \[12 U.S.C. 1782(c)\], including analysis of—
 
-&emsp;&emsp;&emsp;“(i) whether those amounts should be—
+&emsp;&emsp;&emsp;"(i) whether those amounts should be—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) refundable; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) refundable; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) treated as expenses; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) treated as expenses; and
 
-&emsp;&emsp;&emsp;“(ii) the use of those amounts in determining equity capital ratios;
+&emsp;&emsp;&emsp;"(ii) the use of those amounts in determining equity capital ratios;
 
-&emsp;&emsp;“(B) the potential for, and potential effects of, administration of the Fund by an entity other than the Administration;
+&emsp;&emsp;"(B) the potential for, and potential effects of, administration of the Fund by an entity other than the Administration;
 
-&emsp;&emsp;“(C) the 10 largest corporate credit unions in the United States, conducted in cooperation with appropriate employees of other Federal agencies with expertise in the examination of federally insured financial institutions, including—
+&emsp;&emsp;"(C) the 10 largest corporate credit unions in the United States, conducted in cooperation with appropriate employees of other Federal agencies with expertise in the examination of federally insured financial institutions, including—
 
-&emsp;&emsp;&emsp;“(i) the investment practices of those credit unions; and
+&emsp;&emsp;&emsp;"(i) the investment practices of those credit unions; and
 
-&emsp;&emsp;&emsp;“(ii) the financial stability, financial operations, and financial controls of those credit unions;
+&emsp;&emsp;&emsp;"(ii) the financial stability, financial operations, and financial controls of those credit unions;
 
-&emsp;&emsp;“(D) the regulations of the Administration; and
+&emsp;&emsp;"(D) the regulations of the Administration; and
 
-&emsp;&emsp;“(E) the supervision of corporate credit unions by the Administration.
+&emsp;&emsp;"(E) the supervision of corporate credit unions by the Administration.
 
-“(c)
+"(c)
 
-Report.—Not later than 12 months after the date of enactment of this Act \[Sept. 30, 1996\], the Secretary shall submit to the appropriate committees of the Congress, a report that includes the results of the study and evaluation conducted under subsection (b), together with any recommendations that the Secretary considers to be appropriate.”
+Report.—Not later than 12 months after the date of enactment of this Act \[Sept. 30, 1996\], the Secretary shall submit to the appropriate committees of the Congress, a report that includes the results of the study and evaluation conducted under subsection (b), together with any recommendations that the Secretary considers to be appropriate."
 
 #### Study of Credit Union System by GAO
 

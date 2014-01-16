@@ -6,7 +6,7 @@ No person required under a State law to make payments to an unemployment fund sh
 
 #### (b) Federal instrumentalities in general
 
-The legislature of any State may require any instrumentality of the United States (other than an instrumentality to which section 3306(c)(6) applies), and the individuals in its employ, to make contributions to an unemployment fund under a State unemployment compensation law approved by the Secretary of Labor under section 3304 and (except as provided in section 5240 of the Revised Statutes, as amended (12 U.S.C., sec. 484), and as modified by subsection (c)), to comply otherwise with such law. The permission granted in this subsection shall apply (A) only to the extent that no discrimination is made against such instrumentality, so that if the rate of contribution is uniform upon all other persons subject to such law on account of having individuals in their employ, and upon all employees of such persons, respectively, the contributions required of such instrumentality or the individuals in its employ shall not be at a greater rate than is required of such other persons and such employees, and if the rates are determined separately for different persons or classes of persons having individuals in their employ or for different classes of employees, the determination shall be based solely upon unemployment experience and other factors bearing a direct relation to unemployment risk; (B) only if such State law makes provision for the refund of any contributions required under such law from an instrumentality of the United States or its employees for any year in the event such State is not certified by the Secretary of Labor under section 3304 with respect to such year; and (C) only if such State law makes provision for the payment of unemployment compensation to any employee of any such instrumentality of the United States in the same amount, on the same terms, and subject to the same conditions as unemployment compensation is payable to employees of other employers under the State unemployment compensation law.
+The legislature of any State may require any instrumentality of the United States (otherthan an instrumentality to which section 3306(c)(6) applies), and the individuals in its employ, to make contributions to an unemployment fund under a State unemployment compensation law approved by the Secretary of Labor under section 3304 and (except as provided in section 5240 of the Revised Statutes, as amended (12 U.S.C., sec. 484), and as modified by subsection (c)), to comply otherwise with such law. The permission granted in this subsection shall apply (A) only to the extent that no discrimination is made against such instrumentality, so that if the rate of contribution is uniform upon all other persons subject to such law on account of having individuals in their employ, and upon all employees of such persons, respectively, the contributions required of such instrumentality or the individuals in its employ shall not be at a greater rate than is required of such other persons and such employees, and if the rates are determined separately for different persons or classes of persons having individuals in their employ or for different classes of employees, the determination shall be based solely upon unemployment experience and other factors bearing a direct relation to unemployment risk; (B) only if such State law makes provision for the refund of any contributions required under such law from an instrumentality of the United States or its employees for any year in the event such State is not certified by the Secretary of Labor under section 3304 with respect to such year; and (C) only if such State law makes provision for the payment of unemployment compensation to any employee of any such instrumentality of the United States in the same amount, on the same terms, and subject to the same conditions as unemployment compensation is payable to employees of other employers under the State unemployment compensation law.
 
 #### (c) National banks
 
@@ -14,7 +14,7 @@ Nothing contained in section 5240 of the Revised Statutes, as amended (12 U.S.C.
 
 #### (d) Federal property
 
-No person shall be relieved from compliance with a State unemployment compensation law on the ground that services were performed on land or premises owned, held, or possessed by the United States, and any State shall have full jurisdiction and power to enforce the provisions of such law to the same extent and with thesame effect as though such place were not owned, held, or possessed by the United States.
+No person shall be relieved from compliance with a State unemployment compensation law on the ground that services were performed on land or premises owned, held, or possessed by the United States, and any State shall have full jurisdiction and power to enforce the provisions of such law to the same extent and with the same effect as though such place were not owned, held, or possessed by the United States.
 
 #### \[(e) Repealed. Sept. 1, 1954, ch. 1212, §4(c), 68 Stat. 1135\]
 
@@ -52,23 +52,23 @@ Any person required, pursuant to the permission granted by this section, to make
 
 #### Amendments
 
-<b>1976</b>—Subsec. (g). Pub. L. 94–455, §1903(a)(15)(A), struck out “on or after July 1, 1953,” after “respect to service performed”.
+<b>1976</b>—Subsec. (g). Pub. L. 94–455, §1903(a)(15)(A), struck out "on or after July 1, 1953," after "respect to service performed".
 
-Subsec. (h). Pub. L. 94–455, 1903(a)(15)(B), struck out “on or after July 1, 1953, and” after “as to service performed”.
+Subsec. (h). Pub. L. 94–455, 1903(a)(15)(B), struck out "on or after July 1, 1953, and" after "as to service performed".
 
-Subsec. (j). Pub. L. 94–455, §§1903(a)(15)(C), 1906(b)(13)(C), struck out “after December 31, 1971,” after “for any taxable year” and substituted “to the Secretary of the Treasury” for “to the Secretary”.
+Subsec. (j). Pub. L. 94–455, §§1903(a)(15)(C), 1906(b)(13)(C), struck out "after December 31, 1971," after "for any taxable year" and substituted "to the Secretary of the Treasury" for "to the Secretary".
 
 <b>1970</b>—Subsec. (j). Pub. L. 91–373 added subsec. (j).
 
-<b>1960</b>—Subsec. (b). Pub. L. 86–778, §531(a), substituted “(other than an instrumentality to which section3306(c)(6) applies)” for “except such as are (1) wholly owned by the United States, or (2) exempt from the tax imposed by section 3301 by virtue of any other provision of law,” and added cl. (C).
+<b>1960</b>—Subsec. (b). Pub. L. 86–778, §531(a), substituted "(other than an instrumentality to which section 3306(c)(6) applies)" for "except such as are (1) wholly owned by the United States, or (2) exempt from the tax imposed by section 3301 by virtue of any other provision of law," and added cl. (C).
 
-Subsec. (g). Pub. L. 86–778, §531(b), substituted “neither wholly nor partially” for “not wholly”.
+Subsec. (g). Pub. L. 86–778, §531(b), substituted "neither wholly nor partially" for "not wholly".
 
 <b>1954</b>—Subsec. (e). Act Sept. 1, 1954, repealed subsec. (e) which related to the Bonneville Power Administrator.
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–778, title V, §535, Sept. 13, 1960, 74 Stat. 985, provided that: “The amendments made by this part \[part 3 (§§531–535) of title V of Pub. L. 86–778, enacting section 3308 and amending this section and section 3306 of this title\] (other than the amendments made by subsections (e) and (f) of section 531 \[amending sections 1361 and 1367 of Title 42, The Public Health and Welfare\]) shall apply with respect to remuneration paid after 1961 for services performed after 1961. The amendments made by subsections (e) and (f) of section 531 shall apply with respect to any week of unemployment which begins after December 31, 1960.” \[The second sentence of section 535 was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 661.\]
+Pub. L. 86–778, title V, §535, Sept. 13, 1960, 74 Stat. 985, provided that: "The amendments made by this part \[part 3 (§§531–535) of title V of Pub. L. 86–778, enacting section 3308 and amending this section and section 3306 of this title\] (other than the amendments made by subsections (e) and (f) of section 531 \[amending sections 1361 and 1367 of Title 42, The Public Health and Welfare\]) shall apply with respect to remuneration paid after 1961 for services performed after 1961. The amendments made by subsections (e) and (f) of section 531 shall apply with respect to any week of unemployment which begins after December 31, 1960." \[The second sentence of section 535 was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 661.\]
 
 #### Effective Date of 1954 Amendment
 
@@ -76,5 +76,5 @@ Act Sept. 1, 1954, ch. 1212, §4(c), 68 Stat. 1135, provided that the amendment 
 
 #### Applicability to Federal Land Banks, Federal Intermediate Credit Banks, and Banks for Cooperatives
 
-Pub. L. 86–778, title V, §531(g), Sept. 13, 1960, 74 Stat. 984, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding section 203(b) of the Farm Credit Act of 1959, sections 3305(b), 3306(c)(6), and 3308 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and sections 1501(a) and 1507(a) of the Social Security Act \[sections 1361(a) and 1367 of Title 42, The Public Health and Welfare\] shall be applicable, according to their terms, to the Federal land banks, Federal intermediate credit banks, and banks for cooperatives.”
+Pub. L. 86–778, title V, §531(g), Sept. 13, 1960, 74 Stat. 984, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Notwithstanding section 203(b) of the Farm Credit Act of 1959, sections 3305(b), 3306(c)(6), and 3308 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and sections 1501(a) and 1507(a) of the Social Security Act \[sections 1361(a) and 1367 of Title 42, The Public Health and Welfare\] shall be applicable, according to their terms, to the Federal land banks, Federal intermediate credit banks, and banks for cooperatives."
 

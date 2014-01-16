@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) for purposes of enabling the Corporation to examine the facility, agree to allow officers or employees of the Corporation to have access to all books, accounts, financial records, reports, files, and all other papers, things, or property, of any type whatsoever, belonging to or used by the Corporation that are necessary to facilitate an examination of the operations of the facility in connection with securities, and the pools of qualified loans that back securities, for which the Corporation has provided guarantees; and
 
-&emsp;&emsp;(G) adopt appropriate minimum standards and procedures relating to loan administration and disclosure to borrowers concerning the terms and rights applicable to loans for which guarantee is provided, in conformity with uniform standards established by the Corporation.
+&emsp;&emsp;(G) adopt appropriate minimum standards and procedures relating to loan administration and disclosure to borrowers concerning the terms and rights applicable to loans forwhich guarantee is provided, in conformity with uniform standards established by the Corporation.
 
 #### (3) Nondiscrimination requirement
 
@@ -60,9 +60,9 @@ Any certification by the Corporation of an agricultural mortgage marketing facil
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–105, §106(1)(A), inserted “(other than the Corporation)” after “facilities”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–105, §106(1)(A), inserted "(other than the Corporation)" after "facilities".
 
-Subsec. (a)(2). Pub. L. 104–105, §106(1)(B), inserted “(other than the Corporation)” after “facility” in introductory provisions.
+Subsec. (a)(2). Pub. L. 104–105, §106(1)(B), inserted "(other than the Corporation)" after "facility" in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 104–105, §106(2), struck out “(other than the Corporation)” after “System institution”.
+Subsec. (e)(1). Pub. L. 104–105, §106(2), struck out "(other than the Corporation)" after "System institution".
 

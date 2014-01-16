@@ -12,11 +12,11 @@ Authority To Enter Into Share-in-Savings Contracts.—(1) The head of an agency 
 
 &emsp;(ii) usage of the information technology to be acquired is likely to continue for a period of time sufficient to generate reasonable benefit for the government.
 
-(3) Contracts awarded pursuant to the authority of this section shall, to the maximum extent practicable, be performance-based contracts that identify objective outcomes and contain performance standards that will be used to measure achievement and milestones that must be met before payment is made.
+(3) Contracts awarded pursuant to the authority of this section shall, to the maximum extentpracticable, be performance-based contracts that identify objective outcomes and contain performance standards that will be used to measure achievement and milestones that must be met before payment is made.
 
 (4) Contracts awarded pursuant to the authority of this section shall include a provision containing a quantifiable baseline that is to be the basis upon which a savings share ratio is established that governs the amount of payment a contractor is to receive under the contract. Before commencement of performance of such a contract, the senior procurement executive of the agency shall determine in writing that the terms of the provision are quantifiable and will likely yield value to the Government.
 
-(5)(A) The head of the agency may retain savings realized through the use of a share-in-savings contract under this section that are in excess of the total amount of savings paid to the contractor under the contract, but may not retain any portion of such savings that is attributable to a decrease in the number of civilianemployees of the Federal Government performing the function. Except as provided in subparagraph (B), savings shall be credited to the appropriation or fund against which charges were made to carry out the contract and shall be used for information technology.
+(5)(A) The head of the agency may retain savings realized through the use of a share-in-savings contract under this section that are in excess of the total amount of savings paid to the contractor under the contract, but may not retain any portion of such savings that is attributable to a decrease in the number of civilian employees of the Federal Government performing the function. Except as provided in subparagraph (B), savings shall be credited to the appropriation or fund against which charges were made to carry out the contract and shall be used for information technology.
 
 (B) Amounts retained by the agency under this subsection shall—
 
@@ -52,15 +52,15 @@ Cancellation and Termination.—(1) If funds are not made available for the cont
 
 Definitions.—In this section:
 
-&emsp;(1) The term “contractor” means a private entity that enters into a contract with an agency.
+&emsp;(1) The term "contractor" means a private entity that enters into a contract with an agency.
 
-&emsp;(2) The term “savings” means—
+&emsp;(2) The term "savings" means—
 
 &emsp;&emsp;(A) monetary savings to an agency; or
 
 &emsp;&emsp;(B) savings in time or other benefits realized by the agency, including enhanced revenues (other than enhanced revenues from the collection of fees, taxes, debts, claims, or other amounts owed the Federal Government).
 
-&emsp;(3) The term “share-in-savings contract” means a contract under which—
+&emsp;(3) The term "share-in-savings contract" means a contract under which—
 
 &emsp;&emsp;(A) a contractor provides solutions for—
 

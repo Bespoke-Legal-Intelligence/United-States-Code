@@ -14,7 +14,7 @@ To be eligible for benefits from the Facility under this subchapter, a country m
 
 &emsp;(5) that has in effect, has received approval for, or, as appropriate in exceptional circumstances, is making significant progress toward—
 
-&emsp;&emsp;(A) an International Monetary Fund standby arrangement, extended Fund arrangement, or an arrangement under the structural adjustment facility or enhanced structural adjustment facility, or in exceptional circumstances, a Fund monitored programor its equivalent, unless the President determines (after consultation with the Enterprise for the Americas Board) that such an arrangement or program (or its equivalent) could reasonably be expected to have significant adverse social or environmental effects; and
+&emsp;&emsp;(A) an International Monetary Fund standby arrangement, extended Fund arrangement, or an arrangement under the structural adjustment facility or enhanced structural adjustment facility, or in exceptional circumstances, a Fund monitored program or its equivalent, unless the President determines (after consultation with the Enterprise for the Americas Board) that such an arrangement or program (or its equivalent) could reasonably be expected to have significant adverse social or environmental effects; and
 
 &emsp;&emsp;(B) as appropriate, structural or sectoral adjustment loans from the International Bank for Reconstruction and Development or the International Development Association, unless the President determines (after consultation with the Enterprise for the Americas Board) that the resulting adjustment requirements could reasonably be expected to have significant adverse social or environmental effects;
 

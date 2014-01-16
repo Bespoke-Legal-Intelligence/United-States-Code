@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) publicized and disseminated the local educational agency report cards required under section 6311(h)(2) of this title to teachers, school staff, students, parents, and the community;
 
-&emsp;&emsp;&emsp;(ii) used funds made available under this subchapter to provide preschool and family literacy services and the impact of these services on students’ school readiness;
+&emsp;&emsp;&emsp;(ii) used funds made available under this subchapter to provide preschool and family literacy services and the impact of these services on students' school readiness;
 
 &emsp;&emsp;&emsp;(iii) implemented the provisions of section 6318 of this title and afforded parents meaningful opportunities to be involved in the education of their children;
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(H) The costs as compared to the benefits of the activities assisted under this subchapter.
 
-&emsp;&emsp;(I) The extent to which actions authorized under section 6316 of this title are implemented by State educational agencies and local educational agencies to improve the academic achievement of students in low-performing schools, and the effectiveness of the implementation of such actions, including the following:
+&emsp;&emsp;(I) The extent to which actions authorized under section 6316 of this title are implemented by State educational agencies and local educational agencies to improve theacademic achievement of students in low-performing schools, and the effectiveness of the implementation of such actions, including the following:
 
 &emsp;&emsp;&emsp;(i) The number of schools identified for school improvement and how many years the schools remain in this status.
 
@@ -122,7 +122,7 @@
 
 #### (2) Issues to be examined
 
-&emsp;In carrying out this subsection, the Secretary shall ensure that the study referred to in paragraph (1) provides Congress and educators with each of the following:
+&emsp;In carrying out this subsection, the Secretary shall ensure that the study referred toin paragraph (1) provides Congress and educators with each of the following:
 
 &emsp;&emsp;(A) An accurate description and analysis of the short- and long-term effect of the assistance made available under this subchapter on academic achievement.
 
@@ -154,7 +154,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish an independent review panel (in this subsection referred to as the “Review Panel”) to advise the Secretary on methodological and other issues that arise in carrying out subsections (a) and (c) of this section.
+&emsp;The Secretary shall establish an independent review panel (in this subsection referred to as the "Review Panel") to advise the Secretary on methodological and other issues that arise in carrying out subsections (a) and (c) of this section.
 
 #### (2) Appointment of members
 
@@ -210,5 +210,5 @@ A prior section 1501 of Pub. L. 89–10 was classified to section 2911 of this t
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(3). Pub. L. 107–279 substituted “section 9622 of this title” for “section 9010 of this title”.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–279 substituted "section 9622 of this title" for "section 9010 of this title".
 

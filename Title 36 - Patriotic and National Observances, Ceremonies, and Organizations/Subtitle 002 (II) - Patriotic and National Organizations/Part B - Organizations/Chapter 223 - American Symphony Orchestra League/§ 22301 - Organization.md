@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—American Symphony Orchestra League (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—American Symphony Orchestra League (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

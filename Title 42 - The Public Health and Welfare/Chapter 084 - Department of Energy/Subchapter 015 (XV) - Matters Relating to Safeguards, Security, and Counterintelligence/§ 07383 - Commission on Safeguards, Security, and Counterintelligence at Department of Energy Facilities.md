@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established a commission to be known as the Commission on Safeguards, Security, and Counterintelligence at Department of Energy Facilities (in this section referred to as the “Commission”).
+There is hereby established a commission to be known as the Commission on Safeguards, Security, and Counterintelligence at Department of Energy Facilities (in this section referred to as the "Commission").
 
 #### (b) Membership and organization
 
@@ -116,9 +116,9 @@ Section is comprised of section 3142 of Pub. L. 106–65. Subsec. (h)(1) of sect
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Short Title
 
-Pub. L. 106–65, div. C, title XXXI, §3141, Oct. 5, 1999, 113 Stat. 931, provided that: “This subtitle \[subtitle D, §§3141–3156, of title XXXI of div. C of Pub. L. 106–65, enacting this subchapter and section 2282b of this title, amending sections 2165, 2274, 2275, 2277, and 2282a of this title, enacting provisions set out as notes under sections 2165 and 2282b of this title and section 435 of Title 50, War and National Defense, amending provisions set out as a note under section 7274m of this title, and repealing provisions set out as a note under section 7251 of this title\] may be cited as the ‘Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999’.”
+Pub. L. 106–65, div. C, title XXXI, §3141, Oct. 5, 1999, 113 Stat. 931, provided that: "This subtitle \[subtitle D, §§3141–3156, of title XXXI of div. C of Pub. L. 106–65, enacting this subchapter and section 2282b of this title, amending sections 2165, 2274, 2275, 2277, and 2282a of thistitle, enacting provisions set out as notes under sections 2165 and 2282b of this title and section 435 of Title 50, War and National Defense, amending provisions set out as a note under section 7274m of this title, and repealing provisions set out as a note under section 7251 of this title\] may be cited as the 'Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999'."
 

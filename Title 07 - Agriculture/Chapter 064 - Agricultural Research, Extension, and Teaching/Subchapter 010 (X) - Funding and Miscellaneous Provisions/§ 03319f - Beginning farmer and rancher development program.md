@@ -2,7 +2,7 @@
 
 #### (a) Definition of beginning farmer or rancher
 
-In this section, the term “beginning farmer or rancher” means a person that—
+In this section, the term "beginning farmer or rancher" means a person that—
 
 &emsp;(1)(A) has not operated a farm or ranch; or
 
@@ -214,17 +214,17 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Amendments
 
-<b>2013</b>—Subsec. (h)(1). Pub. L. 112–240, §701(e)(3)(A), substituted “Mandatory funding for fiscal years 2009 through 2012” for “In general” in heading.
+<b>2013</b>—Subsec. (h)(1). Pub. L. 112–240, §701(e)(3)(A), substituted "Mandatory funding for fiscal years 2009 through 2012" for "In general" in heading.
 
-Subsec. (h)(2). Pub. L. 112–240, §701(e)(3)(B), inserted “for fiscal years 2008 through 2012” after “appropriations” in heading.
+Subsec. (h)(2). Pub. L. 112–240, §701(e)(3)(B), inserted "for fiscal years 2008 through 2012" after "appropriations" in heading.
 
 Subsec. (h)(3). Pub. L. 112–240, §701(e)(3)(C), added par. (3).
 
-<b>2008</b>—Subsec. (c)(3). Pub. L. 110–246, §7410(a)(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term of a grant under this subsection shall not exceed 3 years.”
+<b>2008</b>—Subsec. (c)(3). Pub. L. 110–246, §7410(a)(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "The term of a grant under this subsection shall not exceed 3 years."
 
 Subsec. (c)(5) to (10). Pub. L. 110–246, §7410(a)(2), (3), added pars. (5) to (7) and redesignated former pars. (5) to (7) as (8) to (10), respectively.
 
-Subsec. (h). Pub. L. 110–246, §7410(b), added subsec. (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2002 through 2007.”
+Subsec. (h). Pub. L. 110–246, §7410(b), added subsec. (h) and struck out former subsec. (h). Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2002 through 2007."
 
 #### Effective Date of 2013 Amendment
 
@@ -236,13 +236,13 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Definitions
 
-Pub. L. 107–171, title VII, §7401, May 13, 2002, 116 Stat. 455, provided that: “In this subtitle \[subtitle D (§7401–7412) of title VII of Pub. L. 107–171, enacting this section and sections 3310a, 3319b, 5925c, 5925d, and 7630 of this title and provisions set out as notes under sections 3101, 3319b, 5925a, and 5925b of this title\]:
+Pub. L. 107–171, title VII, §7401, May 13, 2002, 116 Stat. 455, provided that: "In this subtitle \[subtitle D (§7401–7412) of title VII of Pub. L. 107–171, enacting this section and sections 3310a, 3319b, 5925c, 5925d, and 7630 of this title and provisions set out as notes under sections 3101, 3319b, 5925a, and 5925b of this title\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Department.—The term ‘Department’ means the Department of Agriculture.
+Department.—The term 'Department' means the Department of Agriculture.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Secretary.—The term ‘Secretary’ means the Secretary of Agriculture.”
+Secretary.—The term 'Secretary' means the Secretary of Agriculture."
 

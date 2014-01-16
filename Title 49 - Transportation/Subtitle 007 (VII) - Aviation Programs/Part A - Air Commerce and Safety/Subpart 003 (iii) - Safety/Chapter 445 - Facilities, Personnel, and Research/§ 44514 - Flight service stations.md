@@ -4,7 +4,7 @@
 
 Hours of Operation.—(1) The Secretary of Transportation may close, or reduce the hours of operation of, a flight service station in an area only if the service provided in the area after the closing or during the hours the station is not in operation is provided by an automated flight service station with at least model 1 equipment.
 
-(2) The Secretary shall reopen a flight service station closed after March 24, 1987, but before July 15, 1987, as soon as practicable if the servicein the area in which the station is located has not been provided since the closing by an automatic flight service station with at least model 1 equipment. The hours of operation for the reopened station shall be the same as were the hours of operation for the station on March 25, 1987. After reopening the station, the Secretary may close, or reduce the hours of operation of, the station only as provided in paragraph (1) of this subsection.
+(2) The Secretary shall reopen a flight service station closed after March 24, 1987, but before July 15, 1987, as soon as practicable if the service in the area in which the station is located has not been provided since the closing by an automatic flight service station with at least model 1 equipment. The hours of operation for the reopened station shall be the same as were the hours of operation for the station on March 25, 1987. After reopening the station, the Secretary may close, or reduce the hours of operation of, the station only as provided in paragraph (1) of this subsection.
 
 (b)
 
@@ -38,9 +38,9 @@ Nov. 5, 1990, Pub. L. 101–508, §9115, 104 Stat. 1388–364.
 
 Nov. 5, 1990, Pub. L. 101–516, §330(a), 104 Stat. 2184.
 
-In subsection (a)(1), the words “On or after July 15, 1987” are omitted as obsolete.
+In subsection (a)(1), the words "On or after July 15, 1987" are omitted as obsolete.
 
-In subsection (a)(2), the words “after December 30, 1987” are omitted as obsolete. The words “the date of” are omitted as surplus.
+In subsection (a)(2), the words "after December 30, 1987" are omitted as obsolete. The words "the date of" are omitted as surplus.
 
 In subsection (b), the text of section 9115(b) of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508, 104 Stat. 1388–364) and section 330(a) (last sentence) of the Department of Transportation and Related Agencies Appropriations Act, 1991 (Public Law 101–516, 104 Stat. 2184) is omitted as obsolete.
 

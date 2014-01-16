@@ -14,7 +14,7 @@
 
 #### (B) Effect of objection
 
-&emsp;&emsp;Lands referred to in subparagraph (A) may not be acquired pursuant to paragraph (1) if by majority vote the governing body of the city within whose incorporated boundaries (as such boundaries exist on the date of the Settlement Agreement) the subject lands are situated within formally objects to the Tribe's request to convey the subject lands into trust and notifies the Secretary of such objection in writing within 60 days of receiving a copy of the Tribe's request in accordance with the Settlement Agreement. Upon receipt of such a notification, the Secretary shall deny the acquisition request.
+&emsp;&emsp;Lands referred to in subparagraph (A) may not be acquired pursuant to paragraph (1) ifby majority vote the governing body of the city within whose incorporated boundaries (as such boundaries exist on the date of the Settlement Agreement) the subject lands are situated within formally objects to the Tribe's request to convey the subject lands into trust and notifies the Secretary of such objection in writing within 60 days of receiving a copy of the Tribe's request in accordance with the Settlement Agreement. Upon receipt of such a notification, the Secretary shall deny the acquisition request.
 
 #### (3) Secondary Acquisition Area
 
@@ -58,7 +58,7 @@ All lands acquired by the Tribe under subsection (a) of this section shall—
 
 #### Effective Date
 
-Section effective on date on which the Secretary determines that certain conditions with respect to the Settlement Agreement and provisions of title VI ofPub. L. 106–568 have been met, see section 611(b) of Pub. L. 106–568, set out as a note under section 1778 of this title.
+Section effective on date on which the Secretary determines that certain conditions with respect to the Settlement Agreement and provisions of title VI of Pub. L. 106–568 have been met, see section 611(b) of Pub. L. 106–568, set out as a note under section 1778 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(a)(1)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(a)(1)".</i>
 

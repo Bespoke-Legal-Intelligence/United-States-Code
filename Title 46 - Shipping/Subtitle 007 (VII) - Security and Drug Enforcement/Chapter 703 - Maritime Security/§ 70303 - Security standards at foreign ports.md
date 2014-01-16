@@ -36,5 +36,5 @@ Pub. L. 99–399, title IX, §907(a), (b), (d), (e), Aug. 27, 1986, 100 Stat. 89
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 8 of part II of the Act is classified generally to part VIII (§2349aa et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. Forcomplete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 8 of part II of the Act is classified generally to part VIII (§2349aa et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 

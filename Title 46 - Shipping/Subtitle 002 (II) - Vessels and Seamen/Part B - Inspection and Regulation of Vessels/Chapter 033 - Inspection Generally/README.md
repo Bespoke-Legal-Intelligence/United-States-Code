@@ -35,9 +35,9 @@ The net result has been a patchwork quilt of categories and classifications that
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–324, title VI, §607(b)(2), Oct. 19, 1996, 110 Stat. 3932, substituted “Classification societies” for “United States classification societies” in item 3316.
+<b>1996</b>—Pub. L. 104–324, title VI, §607(b)(2), Oct. 19, 1996, 110 Stat. 3932, substituted "Classification societies" for "United States classification societies" in item 3316.
 
-<b>1986</b>—Pub. L. 99–307, §1(5)(B), May 19, 1986, 100 Stat. 445, substituted “Transporting” for “Carrying” in item 3304.
+<b>1986</b>—Pub. L. 99–307, §1(5)(B), May 19, 1986, 100 Stat. 445, substituted "Transporting" for "Carrying" in item 3304.
 
 
 ---

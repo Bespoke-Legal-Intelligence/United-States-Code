@@ -14,7 +14,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;&emsp;(i)(I) the tuna or products therefrom were not banned from importation under this paragraph before the effective date of section 4 of the International Dolphin Conservation Program Act; or
 
-&emsp;&emsp;&emsp;(II) the tuna or products therefrom were harvested after the effective date of section 4 of the International Dolphin Conservation Program Act by vessels of a nation which participates in the International Dolphin Conservation Program, and such harvesting nation is either a member of the Inter-American TropicalTuna Commission or has initiated (and within 6 months thereafter completed) all steps required of applicant nations, in accordance with article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission, to become a member of that organization;
+&emsp;&emsp;&emsp;(II) the tuna or products therefrom were harvested after the effective date of section 4 of the International Dolphin Conservation Program Act by vessels of a nation which participates in the International Dolphin Conservation Program, and such harvesting nation is either a member of the Inter-American Tropical Tuna Commission or has initiated (and within 6 months thereafter completed) all steps required of applicant nations, in accordance with article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission, to become a member of that organization;
 
 &emsp;&emsp;&emsp;(ii) such nation is meeting the obligations of the International Dolphin Conservation Program and the obligations of membership in the Inter-American Tropical Tuna Commission, including all financial obligations; and
 
@@ -38,11 +38,11 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;(ii) in the case of tuna or a product containing tuna harvested by a nation whose fishing vessels engage in high seas driftnet fishing, shall require that the government of the exporting nation provide documentary evidence that the tuna or tuna product was not harvested with a large-scale driftnet anywhere on the high seas after July 1, 1991.
 
-> &emsp;For purposes of subparagraph (F), the term “driftnet” has the meaning given such term in section 4003 of the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 (16 U.S.C. 1822 note), except that, until January 1, 1994, the term “driftnet” does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community.
+> &emsp;For purposes of subparagraph (F), the term "driftnet" has the meaning given such term in section 4003 of the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 (16 U.S.C. 1822 note), except that, until January 1, 1994, the term "driftnet" does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community.
 
 &emsp;(3)(A) The Secretary, on the basis of the best scientific evidence available and in consultation with the Marine Mammal Commission, is authorized and directed, from time to time, having due regard to the distribution, abundance, breeding habits, and times and lines of migratory movements of such marine mammals, to determine when, to what extent, if at all, and by what means, it is compatible with this chapter to waive the requirements of this section so as to allow taking, or importing of any marine mammal, or any marine mammal product, and to adopt suitable regulations, issue permits, and make determinations in accordance with sections 1372, 1373, 1374, and 1381 of this title permitting and governing such taking and importing, in accordance with such determinations: <i>Provided, however</i>, That the Secretary, in making such determinations must be assured that the taking of such marine mammal is in accord with sound principles of resource protection and conservation as provided in the purposes and policies of this chapter: <i>Provided, further, however</i>, That no marine mammal or no marine mammal product may be imported into the United States unless the Secretary certifies that the program for taking marine mammals in the country of origin is consistent with the provisions and policies of this chapter. Products of nations not so certified may not be imported into the United States for any purpose, including processing for exportation.
 
-&emsp;(B) Except for scientific research purposes, photography for educational or commercial purposes, or enhancing the survival or recovery of a species or stock as provided for in paragraph (1) of this subsection, or as provided for under paragraph (5) of this subsection, during the moratorium no permit may be issued for the taking of any marine mammal which has been designated by the Secretary as depleted, and no importation may be made of any such mammal.
+&emsp;(B) Except for scientific research purposes, photography for educational or commercialpurposes, or enhancing the survival or recovery of a species or stock as provided for in paragraph (1) of this subsection, or as provided for under paragraph (5) of this subsection, during the moratorium no permit may be issued for the taking of any marine mammal which has been designated by the Secretary as depleted, and no importation may be made of any such mammal.
 
 &emsp;(4)(A) Except as provided in subparagraphs (B) and (C), the provisions of this chapter shall not apply to the use of measures—
 
@@ -72,7 +72,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;&emsp;(bb) requirements pertaining to the monitoring and reporting of such taking.
 
-&emsp;(ii) For a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note), a determination of “least practicable adverse impact on such species or stock” under clause (i)(II)(aa) shall include consideration of personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity. Before making the required determination, the Secretary shall consult with the Department of Defense regarding personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity.
+&emsp;(ii) For a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note), a determination of "least practicable adverse impact on such species or stock" under clause (i)(II)(aa) shall include consideration of personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity. Before making the required determination, the Secretary shall consult with the Department of Defense regarding personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity.
 
 &emsp;(iii) Notwithstanding clause (i), for any authorization affecting a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note), the Secretary shall publish the notice required by such clause only in the Federal Register.
 
@@ -86,7 +86,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(ii) Sections 1373 and 1374 of this title shall not apply to the taking of marine mammals under the authority of this paragraph.
 
-&emsp;(D)(i) Upon request therefor by citizens of the United States who engage in a specified activity (other than commercial fishing) within a specific geographic region, the Secretaryshall authorize, for periods of not more than 1 year, subject to such conditions as the Secretary may specify, the incidental, but not intentional, taking by harassment of small numbers of marine mammals of a species or population stock by such citizens while engaging in that activity within that region if the Secretary finds that such harassment during each period concerned—
+&emsp;(D)(i) Upon request therefor by citizens of the United States who engage in a specified activity (other than commercial fishing) within a specific geographic region, the Secretary shall authorize, for periods of not more than 1 year, subject to such conditions as the Secretary may specify, the incidental, but not intentional, taking by harassment of small numbers of marine mammals of a species or population stock by such citizens while engaging in that activity within that region if the Secretary finds that such harassment during each period concerned—
 
 &emsp;&emsp;(I) will have a negligible impact on such species or stock, and
 
@@ -106,7 +106,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(v) A person conducting an activity for which an authorization has been granted under this subparagraph shall not be subject to the penalties of this chapter for taking by harassment that occurs in compliance with such authorization.
 
-&emsp;(vi) For a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note), a determination of “least practicable adverse impact on such species or stock” under clause (i)(I) <sup>1</sup> shall include consideration of personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity. Before making the required determination, the Secretary shall consult with the Department of Defense regarding personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity.
+&emsp;(vi) For a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note), a determination of "least practicable adverse impact on such species or stock" under clause (i)(I) <sup>1</sup> shall include consideration of personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity. Before making the required determination, the Secretary shall consult with the Department of Defense regarding personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity.
 
 &emsp;(vii) Notwithstanding clause (iii), for any authorization affecting a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note), the Secretary shall publish the notice required by such clause only in the Federal Register.
 
@@ -118,7 +118,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;(III) where required under section 1387 of this title, a monitoring program is established under subsection (d) of such section, vessels engaged in such fisheries are registered in accordance with such section, and a take reduction plan has been developed or is being developed for such species or stock.
 
-&emsp;(ii) Upon a determination by the Secretary that the requirements of clause (i) have been met, the Secretary shall publish in the Federal Register a list of those fisheries for which such determination was made, and, for vessels required to register under section 1387 of this title, shall issue an appropriate permit for each authorization granted under such section to vessels to which this paragraph applies. Vessels engaged in a fishery included in the notice published by the Secretary under this clause which are not required to register under section 1387 of this title shall not be subject to the penalties of this chapter for the incidental taking of marine mammals to which this paragraph applies, so long as the owner or master of such vessel reports any incidental mortalityor injury of such marine mammals to the Secretary in accordance with section 1387 of this title.
+&emsp;(ii) Upon a determination by the Secretary that the requirements of clause (i) have been met, the Secretary shall publish in the Federal Register a list of those fisheries for which such determination was made, and, for vessels required to register under section 1387 of this title, shall issue an appropriate permit for each authorization granted under such section to vessels to which this paragraph applies. Vessels engaged in a fishery included in the notice published by the Secretary under this clause which are not required to register under section 1387 of this title shall not be subject tothe penalties of this chapter for the incidental taking of marine mammals to which this paragraph applies, so long as the owner or master of such vessel reports any incidental mortality or injury of such marine mammals to the Secretary in accordance with section 1387 of this title.
 
 &emsp;(iii) If, during the course of the commercial fishing season, the Secretary determines that the level of incidental mortality or serious injury from commercial fisheries for which a determination was made under clause (i) has resulted or is likely to result in an impact that is more than negligible on the endangered or threatened species or stock, the Secretary shall use the emergency authority granted under section 1387 of this title to protect such species or stock, and may modify any permit granted under this paragraph as necessary.
 
@@ -130,11 +130,11 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(F) Notwithstanding the provisions of this subsection, any authorization affecting a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note) shall not be subject to the following requirements:
 
-&emsp;&emsp;(i) In subparagraph (A), “within a specified geographical region” and “within that region of small numbers”.
+&emsp;&emsp;(i) In subparagraph (A), "within a specified geographical region" and "within that region of small numbers".
 
-&emsp;&emsp;(ii) In subparagraph (B), “within a specified geographical region” and “within one or more regions”.
+&emsp;&emsp;(ii) In subparagraph (B), "within a specified geographical region" and "within one or more regions".
 
-&emsp;&emsp;(iii) In subparagraph (D), “within a specific geographic region”, “of small numbers”, and “within that region”.
+&emsp;&emsp;(iii) In subparagraph (D), "within a specific geographic region", "of small numbers", and "within that region".
 
 &emsp;(6)(A) A marine mammal product may be imported into the United States if the product—
 
@@ -146,9 +146,9 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(B) For the purposes of this paragraph, the term—
 
-&emsp;&emsp;(i) “Native inhabitant of Russia, Canada, or Greenland” means a person residing in Russia, Canada, or Greenland who is related by blood, is a member of the same clan or ethnological grouping, or shares a common heritage with an Indian, Aleut, or Eskimo residing in Alaska; and
+&emsp;&emsp;(i) "Native inhabitant of Russia, Canada, or Greenland" means a person residing in Russia, Canada, or Greenland who is related by blood, is a member of the same clan or ethnological grouping, or shares a common heritage with an Indian, Aleut, or Eskimo residing in Alaska; and
 
-&emsp;&emsp;(ii) “cultural exchange” means the sharing or exchange of ideas, information, gifts, clothing, or handicrafts between an Indian, Aleut, or Eskimo residing in Alaska and a Native inhabitant of Russia, Canada, or Greenland, including rendering of raw marine mammal parts as part of such exchange into clothing or handicrafts through carving, painting, sewing, or decorating.
+&emsp;&emsp;(ii) "cultural exchange" means the sharing or exchange of ideas, information, gifts, clothing, or handicrafts between an Indian, Aleut, or Eskimo residing in Alaska and a Native inhabitant of Russia, Canada, or Greenland, including rendering of raw marine mammal parts as part of such exchange into clothing or handicrafts through carving, painting, sewing, or decorating.
 
 #### (b) Exemptions for Alaskan natives
 
@@ -156,11 +156,11 @@ Except as provided in section 1379 of this title, the provisions of this chapter
 
 &emsp;(1) is for subsistence purposes; or
 
-&emsp;(2) is done for purposes of creating and selling authentic native articles of handicrafts and clothing: <i>Provided</i>, That only authentic native articles of handicrafts and clothing may be sold in interstate commerce: <i>And provided further</i>, That any edible portion of marine mammals may be sold in native villages and towns in Alaska or for native consumption. For the purposes of this subsection, the term “authentic native articles of handicrafts and clothing” means items composed wholly or in some significant respect of natural materials, and which are produced, decorated, or fashioned in the exercise of traditional native handicrafts without the use of pantographs, multiple carvers, or other mass copying devices. Traditional native handicrafts include, but are not limited to weaving, carving, stitching, sewing, lacing, beading, drawing and painting; and
+&emsp;(2) is done for purposes of creating and selling authentic native articles of handicrafts and clothing: <i>Provided</i>, That only authentic native articles of handicrafts and clothing may be sold in interstate commerce: <i>And provided further</i>, That any edible portion of marine mammals may be sold in native villages and towns in Alaska or for native consumption. For the purposes of this subsection, the term "authentic native articles of handicrafts and clothing" means items composed wholly or in some significant respect of natural materials, and which are produced, decorated, or fashioned in the exercise of traditional native handicrafts without the use of pantographs, multiple carvers, or other mass copying devices. Traditional native handicrafts include, but are not limited to weaving, carving, stitching, sewing, lacing, beading, drawing and painting; and
 
 &emsp;(3) in each case, is not accomplished in a wasteful manner.
 
-> Notwithstanding the preceding provisions of this subsection, when, under this chapter, the Secretary determines any species or stock of marine mammal subject to taking by Indians, Aleuts, or Eskimos to be depleted, he may prescribe regulations upon the taking of such marine mammals by any Indian, Aleut, or Eskimo described in this subsection. Such regulations may be established with reference to species or stocks, geographical description of the area included, the season for taking, or any other factors related to the reason for establishing such regulations and consistent with the purposes of this chapter. Such regulations shall be prescribed after notice and hearing required by section 1373 of this title and shall be removed as soon as the Secretary determines that the need for their imposition has disappeared. In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or section 1386(b)(2) of this title, or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) of this section that affects stocks or persons to which this subsection applies, the Secretary shall be responsible for demonstrating that such regulation, assessment, determination, or finding is supported by substantial evidence on the basis of the record as a whole. The preceding sentence shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies.
+> Notwithstanding the preceding provisions of this subsection, when, under this chapter, the Secretary determines any species or stock of marine mammal subject to taking by Indians, Aleuts, or Eskimos to be depleted, he may prescribe regulations upon the taking of such marine mammals by any Indian, Aleut, or Eskimo described in this subsection. Such regulations may be established with reference to species or stocks, geographical description of the area included, the season for taking, or any other factors related to the reason for establishing such regulations and consistent with the purposes of this chapter. Such regulations shall be prescribed after notice and hearing required by section 1373 of this title and shall be removed as soon as the Secretary determines that the need for their imposition has disappeared. In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or section 1386(b)(2) of this title,or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) of this section that affects stocks or persons to which this subsection applies, the Secretary shall be responsible for demonstrating that such regulation, assessment, determination, or finding is supported by substantial evidence on the basis of the record as a whole. The preceding sentence shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies.
 
 #### (c) Taking in defense of self or others
 
@@ -218,7 +218,7 @@ Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–6
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(5)(A). Pub. L. 108–136, §319(c)(1), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of former cl. (ii) as items (aa) and (bb) of subcl. (II), respectively, and added cls. (ii) and (iii).
+<b>2003</b>—Subsec. (a)(5)(A). Pub. L. 108–136, §319(c)(1), designated existing provisions as cl. (i), redesignatedformer cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of former cl. (ii) as items (aa) and (bb) of subcl. (II), respectively, and added cls. (ii) and (iii).
 
 Subsec. (a)(5)(D)(vi), (vii). Pub. L. 108–136, §319(c)(2), added cls. (vi) and (vii).
 
@@ -226,7 +226,7 @@ Subsec. (a)(5)(F). Pub. L. 108–136, §319(c)(3), added subpar. (F).
 
 Subsec. (f). Pub. L. 108–136, §319(b), added subsec. (f).
 
-<b>1997</b>—Subsec. (a)(2). Pub. L. 105–42, §4(a), (b)(4), in introductory provisions, inserted after first sentence “Such authorizations may be granted under subchapter IV of this chapter with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to section 1373 of this title.” and struck out “; provided that this goal shall be satisfied in the case of the incidental taking of marine mammals in the course of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable” after “serious injury rate” and, in closing provisions, substituted “For purposes of subparagraph (F)” for “For purposes of subparagraph (E)”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–42, §4(a), (b)(4), in introductory provisions, inserted after first sentence "Such authorizations may be granted under subchapter IV of this chapter with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to section 1373 of this title." and struck out "; provided that this goal shall be satisfied in the case of the incidental taking of marine mammals in the course of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable" after "serious injury rate" and, in closing provisions, substituted "For purposes of subparagraph (F)" for "For purposes of subparagraph (E)".
 
 Subsec. (a)(2)(B). Pub. L. 105–42, §4(b)(1), added subpar. (B) and struck out former subpar. (B) which contained requirement that nations exporting yellowfin tuna harvested with purse seines in eastern tropical Pacific Ocean provide documentary evidence of adoption of regulatory program governing incidental taking of other mammals and comparison of the average rates of incidental taking between harvesting nation and United States.
 
@@ -238,73 +238,73 @@ Subsec. (e). Pub. L. 105–42, §4(c), added subsec. (e).
 
 <b>1996</b>—Subsec. (a)(5)(E)(i). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1824(b) of this title.
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–238, §4(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–238, §4(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—
 
-&emsp;“(A) the taking proposed in the application for any such permit, or
+&emsp;"(A) the taking proposed in the application for any such permit, or
 
-&emsp;“(B) the importation proposed to be made,
+&emsp;"(B) the importation proposed to be made,
 
-> is first reviewed by the Marine Mammal Commission and the Committee of Scientific Advisors on Marine Mammals established under subchapter III of this chapter. The Commission and Committee shall recommend any proposed taking or importation which is consistent with the purposes and policies of section 1361 of this title. The Secretary shall, if he grants approval for importation, issue to the importer concerned a certificate to that effect which shall be in such form as the Secretary of the Treasury prescribes and such importation may be made upon presentation of the certificate to the customs officer concerned.”
+> is first reviewed by the Marine Mammal Commission and the Committee of Scientific Advisors on Marine Mammals established under subchapter III of this chapter. The Commission and Committee shall recommend any proposed taking or importation which is consistent with the purposes and policies of section 1361 of this title. The Secretary shall, if he grants approval for importation, issue to the importer concerned a certificate to that effect which shall be in such form as the Secretary of the Treasury prescribes and such importation may be made upon presentation of the certificate to the customs officer concerned."
 
-Subsec. (a)(2). Pub. L. 103–238, §4(a)(2), inserted before period at end of first sentence “, or in lieu of such permits, authorizations may be granted therefor under section 1387 of this title, subject to regulations prescribed under that section by the Secretary without regard to section 1373 of this title”.
+Subsec. (a)(2). Pub. L. 103–238, §4(a)(2), inserted before period at end of first sentence ", or in lieu of such permits, authorizations may be granted therefor under section 1387 of this title, subject to regulations prescribed under that section by the Secretary without regard to section 1373 of this title".
 
-Subsec. (a)(3)(B). Pub. L. 103–238, §4(a)(3), inserted “, photography for educational or commercial purposes,” after “purposes” and “or as provided for under paragraph (5) of this subsection,” after “subsection,”.
+Subsec. (a)(3)(B). Pub. L. 103–238, §4(a)(3), inserted ", photography for educational or commercial purposes," after "purposes" and "or as provided for under paragraph (5) of this subsection," after "subsection,".
 
 Subsec. (a)(4). Pub. L. 103–238, §4(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
-“(4)(A) During any period of five consecutive years, the Secretary shall allow the incidental, but not the intentional, taking, by citizens of the United States while engaging in commercial fishing operations, of small numbers of marine mammals of a species or population stock that is not depleted if the Secretary, after notice and opportunity for public comment—
+"(4)(A) During any period of five consecutive years, the Secretary shall allow the incidental, but not the intentional, taking, by citizens of the United States while engaging in commercial fishing operations, of small numbers of marine mammals of a species or population stock that is not depleted if the Secretary, after notice and opportunity for public comment—
 
-&emsp;“(i) finds that the total of such taking during such five-year period will have a negligible impact on such species or stock; and
+&emsp;"(i) finds that the total of such taking during such five-year period will have a negligible impact on such species or stock; and
 
-&emsp;“(ii) provides guidelines pertaining to the establishment of a cooperative system among the fishermen involved for the monitoring of such taking.
+&emsp;"(ii) provides guidelines pertaining to the establishment of a cooperative system among the fishermen involved for the monitoring of such taking.
 
-“(B) The Secretary shall withdraw, or suspend for a time certain, the permission to take marine mammals under subparagraph (A) if the Secretary finds, after notice and opportunity for public comment, that—
+"(B) The Secretary shall withdraw, or suspend for a time certain, the permission to take marine mammals under subparagraph (A) if the Secretary finds, after notice and opportunity for public comment, that—
 
-&emsp;“(i) the taking allowed under subparagraph (A) is having more than a negligible impact on the species or stock concerned; or
+&emsp;"(i) the taking allowed under subparagraph (A) is having more than a negligible impact on the species or stock concerned; or
 
-&emsp;“(ii) the policies, purposes and goals of this chapter would be better served through the application of this title without regard to this subsection.
+&emsp;"(ii) the policies, purposes and goals of this chapter would be better served through the application of this title without regard to this subsection.
 
-> Sections 1373 and 1374 of this title shall not apply to the taking of marine mammals under the authority of this paragraph.”
+> Sections 1373 and 1374 of this title shall not apply to the taking of marine mammals under the authority of this paragraph."
 
 Subsec. (a)(5)(D), (E). Pub. L. 103–238, §4(a)(5), added subpars. (D) and (E).
 
 Subsec. (a)(6). Pub. L. 103–238, §4(a)(6), added par. (6).
 
-Subsec. (b). Pub. L. 103–238, §4(b), inserted at end “In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or section 1386(b)(2) of this title, or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) of this section that affects stocks or persons to which this subsection applies, the Secretary shall be responsible for demonstrating that such regulation, assessment, determination, or finding is supported by substantial evidence on the basis of the record as a whole. The preceding sentence shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies.”
+Subsec. (b). Pub. L. 103–238, §4(b), inserted at end "In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or section 1386(b)(2) of this title, or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) of this section that affects stocks or persons to which this subsection applies, the Secretary shall be responsible for demonstrating that such regulation, assessment, determination, or finding is supported by substantial evidence on the basis of the record as a whole. The preceding sentence shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies."
 
-Subsec. (c). Pub. L. 103–238, §4(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In order to minimize undue economic hardship to persons subject to this chapter, other than those engaged in commercial fishing operations referred to in subsection (a)(2) of this section, the Secretary, upon any such person filing an application with him and upon filing such information as the Secretary may require showing, to his satisfaction, such hardship, may exempt such person or class of persons from provisions of this chapter for no more than one year from October 21, 1972, as he determines to be appropriate.”
+Subsec. (c). Pub. L. 103–238, §4(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "In order to minimize undue economic hardship to persons subject to this chapter, other than those engaged in commercial fishing operations referred to in subsection (a)(2) of this section, the Secretary, upon any such person filing an application with him and upon filing such information as the Secretary may require showing, to his satisfaction, such hardship, may exempt such person or class of persons from provisions of this chapter for no more than one year from October 21, 1972, as he determines to be appropriate."
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–582, §103(2), inserted before period at end “, except that, until January 1, 1994, the term ‘driftnet’ does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–582, §103(2), inserted before period at end ", except that, until January 1, 1994, the term 'driftnet' does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community".
 
-Subsec. (a)(2)(C). Pub. L. 102–582, §401(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall require the government of any intermediary nation from which yellowfin tuna or tuna products will be exported to the United States to certify and provide reasonable proof that it has acted to prohibit the importation of such tuna and tuna products from any nation from which direct export to the United States of such tuna and tuna products is banned under this section within sixty days following the effective date of such ban on importation to the United States;”.
+Subsec. (a)(2)(C). Pub. L. 102–582, §401(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "shall require the government of any intermediary nation from which yellowfin tuna or tuna products will be exported to the United States to certify and provide reasonable proof that it has acted to prohibit the importation of such tuna and tuna products from any nation from which direct export to the United States of such tuna and tuna products is banned under this section within sixty days following the effective date of such ban on importation to the United States;".
 
-Subsec. (a)(2)(E)(i). Pub. L. 102–582, §103(1), substituted “January 1, 1993” for “July 1, 1992”.
+Subsec. (a)(2)(E)(i). Pub. L. 102–582, §103(1), substituted "January 1, 1993" for "July 1, 1992".
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–627 added subpar. (E) and concluding provisions.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–711, §5(c), which directed that par. (1) be amended generally to read as follows: “(1) Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—”, was executed as theprobable intent of Congress by substituting such provisions for provisions of par. (1) before subpar. (A) which read as follows: “Permits may be issued by the Secretary for taking and importation for purposes of scientific research and for public display if—”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–711, §5(c), which directed that par. (1) be amended generally to read as follows: "(1) Consistent with the provisions of section 1374of this title, permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—", was executed as the probable intent of Congress by substituting such provisions for provisions of par. (1) before subpar. (A) which read as follows: "Permits may be issued by the Secretary for taking and importation for purposes of scientific research and for public display if—".
 
 Subsec. (a)(2). Pub. L. 100–711, §4(a), inserted provisions at end of subpar. (B) relating to finding by Secretary that regulatory program, or average rate of incidental taking by vessels, of harvesting nation is comparable to that of United States, and added subpars. (C) and (D).
 
-Subsec. (a)(3)(B). Pub. L. 100–711, §5(e)(1), inserted “or enhancing the survival or recovery of a species or stock” after “scientific research purposes”.
+Subsec. (a)(3)(B). Pub. L. 100–711, §5(e)(1), inserted "or enhancing the survival or recovery of a species or stock" after "scientific research purposes".
 
-<b>1986</b>—Subsec. (a)(5)(A). Pub. L. 99–659, §411(a)(1), in provisions preceding cl. (i) struck out “that is not depleted” after “population stock”.
+<b>1986</b>—Subsec. (a)(5)(A). Pub. L. 99–659, §411(a)(1), in provisions preceding cl. (i) struck out "that is not depleted" after "population stock".
 
-Subsec. (a)(5)(A)(i). Pub. L. 99–659, §411(a)(2), substituted “will not have an unmitigable adverse impact” for “its habitat, and”, and inserted “or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 (16 U.S.C. 916 et seq.), pursuant to section 1382(c) of this title”.
+Subsec. (a)(5)(A)(i). Pub. L. 99–659, §411(a)(2), substituted "will not have an unmitigable adverse impact" for "its habitat, and", and inserted "or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 (16 U.S.C. 916 et seq.), pursuant to section 1382(c) of this title".
 
-Subsec. (a)(5)(A)(ii)(I). Pub. L. 99–659, §411(a)(3), inserted “, and on the availability of such species or stock for subsistence uses”.
+Subsec. (a)(5)(A)(ii)(I). Pub. L. 99–659, §411(a)(3), inserted ", and on the availability of such species or stock for subsistence uses".
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–364 amended last sentence generally, restating existing provisions in cl. (A) and adding cl. (B).
 
 <b>1981</b>—Subsec. (a)(2). Pub. L. 97–58, §2(1)(A), provided that the immediate goal of reducing to insignificant levels approaching a zero mortality and serious injury rate the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be satisfied in the case of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable.
 
-Subsec. (a)(3)(B). Pub. L. 97–58, §2(1)(B), struck out “is classified as belonging to an endangered species or threatened species pursuant to the Endangered Species Act of 1973 or” after “the taking of any marine mammal which”.
+Subsec. (a)(3)(B). Pub. L. 97–58, §2(1)(B), struck out "is classified as belonging to an endangered species or threatened species pursuant to the Endangered Species Act of 1973 or" after "the taking of any marine mammal which".
 
 Subsec. (a)(4), (5). Pub. L. 97–58, §2(1)(C), added pars. (4) and (5).
 
-Subsec. (b). Pub. L. 97–58, §2(2), substituted “Except as provided in section 1379 of this title, the provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo who resides in Alaska and” for “The provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo” in provisions preceding par. (1) and, in par. (1), substituted “is for subsistence purposes; or” for “is for subsistence purposes by Alaskan natives who reside in Alaska, or”.
+Subsec. (b). Pub. L. 97–58, §2(2), substituted "Except as provided in section 1379 of this title, the provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo who resides in Alaska and" for "The provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo" in provisions preceding par. (1) and, in par. (1), substituted "is for subsistence purposes; or" for "is for subsistence purposes by Alaskan natives who reside in Alaska, or".
 
-<b>1973</b>—Subsec. (a)(3)(B). Pub. L. 93–205 substituted “or threatened species pursuant to the Endangered Species Act of 1973” for “pursuant to the Endangered Species Conservation Act of 1969”.
+<b>1973</b>—Subsec. (a)(3)(B). Pub. L. 93–205 substituted "or threatened species pursuant to the Endangered Species Act of 1973" for "pursuant to the Endangered Species Conservation Act of 1969".
 
 #### Effective Date of 1997 Amendment
 

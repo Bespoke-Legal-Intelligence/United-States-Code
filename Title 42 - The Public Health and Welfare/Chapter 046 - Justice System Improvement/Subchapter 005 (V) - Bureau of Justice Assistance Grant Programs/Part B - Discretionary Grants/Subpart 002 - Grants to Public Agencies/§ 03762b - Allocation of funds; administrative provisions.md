@@ -28,11 +28,11 @@ For prior section 516 of Pub. L. 90–351, see note set out preceding section 37
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–177 substituted “70” for “80” and “3762a(a)(2) of this title, 10” for “3762a(a)(2) of this title, and 10” and inserted “, and 10 percent for section 3762a(a)(4) of this title” before period at end.
+<b>2008</b>—Subsec. (a). Pub. L. 110–177 substituted "70" for "80" and "3762a(a)(2) of this title, 10" for "3762a(a)(2) of this title, and 10" and inserted ", and 10 percent for section 3762a(a)(4) of this title" before period at end.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330001(b)(2)(A), substituted “10 percent shall be used to make grants under section” for “10 percent for section” in two places.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330001(b)(2)(A), substituted "10 percent shall be used to make grants under section" for "10 percent for section" in two places.
 
-Subsec. (b). Pub. L. 103–322, §330001(b)(2)(B), substituted “paragraph (1) or (3) of section 3762a(a)” for “section 3762a(a)(1) or (a)(3)”.
+Subsec. (b). Pub. L. 103–322, §330001(b)(2)(B), substituted "paragraph (1) or (3) of section 3762a(a)" for "section 3762a(a)(1) or (a)(3)".
 
 #### Transfer of Functions
 

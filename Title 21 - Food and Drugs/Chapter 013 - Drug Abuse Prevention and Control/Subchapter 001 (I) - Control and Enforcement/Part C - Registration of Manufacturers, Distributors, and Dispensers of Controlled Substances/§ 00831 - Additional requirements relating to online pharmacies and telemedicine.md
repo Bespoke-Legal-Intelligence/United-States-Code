@@ -24,7 +24,7 @@ Each online pharmacy shall post in a visible and clear manner on the homepage of
 
 &emsp;(6) The name, address, telephone number, professional degree, and States of licensure of any practitioner who has a contractual relationship to provide medical evaluations or issue prescriptions for controlled substances, through referrals from the website or at the request of the owner or operator of the website, or any employee or agent thereof.
 
-&emsp;(7) The following statement, unless revised by the Attorney General by regulation: “This online pharmacy will only dispense a controlled substance to a person who has a valid prescription issued for a legitimate medical purpose based upon a medical relationship with a prescribing practitioner. This includes at least one prior in-person medical evaluation or medical evaluation via telemedicine in accordance with applicable requirements of section 309.”.
+&emsp;(7) The following statement, unless revised by the Attorney General by regulation: "This online pharmacy will only dispense a controlled substance to a person who has a valid prescription issued for a legitimate medical purpose based upon a medical relationship with a prescribing practitioner. This includes at least one prior in-person medical evaluation or medical evaluation via telemedicine in accordance with applicable requirements of section 309.".
 
 #### (d) Notification
 
@@ -82,7 +82,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 &emsp;&emsp;&emsp;(i) is exempted from such registration in all States under section 822(d) of this title; or
 
-&emsp;&emsp;&emsp;(ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title.
+&emsp;&emsp;&emsp;(ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of VeteransAffairs registered under section 823(f) of this title.
 
 #### (2) Regulations
 
@@ -116,7 +116,7 @@ For effective date of this section, referred to in subsec. (d)(3), see Effective
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (g)(1), (2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
-This chapter, referred to in subsec. (j), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (j), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Effective Date
 

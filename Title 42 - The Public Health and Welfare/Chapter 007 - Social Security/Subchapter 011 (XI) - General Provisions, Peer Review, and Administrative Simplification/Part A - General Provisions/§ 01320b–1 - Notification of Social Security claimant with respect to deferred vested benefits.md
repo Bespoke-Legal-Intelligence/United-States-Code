@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) in the case of the death of the individual referred to in subparagraph (A), by the individual who would be entitled to payment under section 404(d) of this title,
 
-> the Commissioner of Social Security shall transmit to the individual referred to in paragraph (1)or (2) or the individual making the request under paragraph (3) any information, as reported by the employer, regarding any deferred vested benefit transmitted to the Commissioner of Social Security pursuant to such section 6057 with respect to the individual referred to in paragraph (1), (2), or (3)(A) or the person on whose wages and self-employment income entitlement (or claim of entitlement) is based.
+> the Commissioner of Social Security shall transmit to the individual referred to in paragraph (1) or (2) or the individual making the request under paragraph (3) any information, as reported by the employer, regarding any deferred vested benefit transmitted to the Commissioner of Social Security pursuant to such section 6057with respect to the individual referred to in paragraph (1), (2), or (3)(A) or the person on whose wages and self-employment income entitlement (or claim of entitlement) is based.
 
 (b)(1) For purposes of section 401(g)(1) of this title, expenses incurred in the administration of subsection (a) of this section shall be deemed to be expenses incurred for the administration of subchapter II of this chapter.
 
@@ -30,21 +30,21 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A), is classifi
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–296, §108(b)(11)(A), (G), in closing provisions substituted “the Commissioner of Social Security shall transmit” for “he shall transmit”, “paragraph (1) or (2)” for “paragraph (1)”, “paragraph (3)” for “paragraph (2)”, “Commissioner of Social Security pursuant to” for “Secretary pursuant to”, and “paragraph (1), (2), or (3)(A)” for “paragraph (1) or (2)(A)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §108(b)(11)(A), (G), in closing provisions substituted "the Commissioner of Social Security shall transmit" for "he shall transmit", "paragraph (1) or (2)" for "paragraph (1)", "paragraph (3)" for "paragraph (2)", "Commissioner of Social Security pursuant to" for "Secretary pursuant to", and "paragraph (1), (2), or (3)(A)" for "paragraph (1) or (2)(A)".
 
-Subsec. (a)(1). Pub. L. 103–296, §108(b)(11)(A)–(D), substituted “Commissioner of Social Security” for “Secretary” in introductory provisions, inserted “or” at end of subpar. (A), struck out “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “the entitlement under section 426 of this title of any individual to hospital insurance benefits under part A of subchapter XVIII of this chapter, or”.
+Subsec. (a)(1). Pub. L. 103–296, §108(b)(11)(A)–(D), substituted "Commissioner of Social Security" for "Secretary" in introductory provisions, inserted "or" at end of subpar. (A), struck out "or" at end of subpar. (B), and struck out subpar. (C) which read as follows: "the entitlement under section 426 of this title of any individual to hospital insurance benefits under part A of subchapter XVIII of this chapter, or".
 
 Subsec. (a)(2). Pub. L. 103–296, §108(b)(11)(F), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 103–296, §108(b)(11)(A), (E), redesignated par. (2) as (3) and substituted “Commissioner of Social Security” for “Secretary” in introductory provisions and in subpar. (A).
+Subsec. (a)(3). Pub. L. 103–296, §108(b)(11)(A), (E), redesignated par. (2) as (3) and substituted "Commissioner of Social Security" for "Secretary" in introductory provisions and in subpar. (A).
 
-Subsec. (b)(2). Pub. L. 103–296, §108(b)(11)(A), substituted “Commissioner of Social Security” for “Secretary”.
+Subsec. (b)(2). Pub. L. 103–296, §108(b)(11)(A), substituted "Commissioner of Social Security" for "Secretary".
 
-<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369, §2663(e)(7)(B), realigned margin of provisions following par. (2)(B).
 
-Subsec. (a)(2)(B). Pub. L. 98–369, §2663(e)(7)(A), substituted a comma for the period after “section 404(d) of this title”.
+Subsec. (a)(2)(B). Pub. L. 98–369, §2663(e)(7)(A), substituted a comma for the period after "section 404(d) of this title".
 
 #### Effective Date of 1994 Amendment
 

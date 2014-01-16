@@ -22,7 +22,7 @@ Removal or Alteration of Copyright Management Information.—No person shall, wi
 
 (c)
 
-Definition.—As used in this section, the term “copyright management information” means any of the following information conveyed in connection with copies or phonorecords of a work or performances or displays of a work, including in digital form, except that such term does not include any personally identifying information about a user of a work or of a copy, phonorecord, performance, or display of a work:
+Definition.—As used in this section, the term "copyright management information" means any of the following information conveyed in connection with copies or phonorecords of a work or performances or displays of a work, including in digital form, except that such term does not include any personally identifying information about a user of a work or of a copy, phonorecord, performance, or display of a work:
 
 &emsp;(1) The title and other information identifying the work, including the information set forth on a notice of copyright.
 
@@ -42,7 +42,7 @@ Definition.—As used in this section, the term “copyright management informat
 
 (d)
 
-Law Enforcement, Intelligence, and Other Government Activities.—This section does not prohibit any lawfully authorized investigative, protective, information security, or intelligence activity of an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or a person acting pursuant to a contract with the United States, a State, or a political subdivision of a State. For purposes of this subsection, the term “information security” means activities carried out in order to identify and address the vulnerabilities of a government computer, computer system, or computer network.
+Law Enforcement, Intelligence, and Other Government Activities.—This section does not prohibit any lawfully authorized investigative, protective, information security, or intelligence activity of an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or a person acting pursuant to a contract with the United States, a State, or a political subdivision of a State. For purposes of this subsection, the term "information security" means activities carried out in order to identify and address the vulnerabilities of a government computer, computer system, or computer network.
 
 (e)
 
@@ -82,9 +82,9 @@ Digital transmissions.—
 
 Definitions.—As used in this subsection—
 
-&emsp;&emsp;(A) the term “broadcast station” has the meaning given that term in section 3 of the Communications Act of 1934 (47 U.S.C. 153); and
+&emsp;&emsp;(A) the term "broadcast station" has the meaning given that term in section 3 of the Communications Act of 1934 (47 U.S.C. 153); and
 
-&emsp;&emsp;(B) the term “cable system” has the meaning given that term in section 602 of the Communications Act of 1934 (47 U.S.C. 522).
+&emsp;&emsp;(B) the term "cable system" has the meaning given that term in section 602 of the Communications Act of 1934 (47 U.S.C. 522).
 
 (Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2872; amended Pub. L. 106–44, §1(e), Aug. 5, 1999, 113 Stat. 222.)
 
@@ -94,5 +94,5 @@ The effective date of this chapter, referred to in subsec. (e)(2)(B)(ii)(II), is
 
 #### Amendments
 
-<b>1999</b>—Subsec. (e)(2)(B). Pub. L. 106–44 substituted “category of works” for “category or works” in introductory provisions.
+<b>1999</b>—Subsec. (e)(2)(B). Pub. L. 106–44 substituted "category of works" for "category or works" in introductory provisions.
 

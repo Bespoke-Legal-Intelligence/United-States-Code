@@ -12,15 +12,15 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 <b>1988</b>—Pub. L. 100–690 reenacted section without change.
 
-<b>1984</b>—Pub. L. 98–573 substituted “If any vessel, vehicle, aircraft, merchandise, or baggage is not subject to section 1607 of this title” for “If the value of any vessel, vehicle, merchandise, or baggage so seized is greater than $10,000”.
+<b>1984</b>—Pub. L. 98–573 substituted "If any vessel, vehicle, aircraft, merchandise, or baggage is not subject to section 1607 of this title" for "If the value of any vessel, vehicle, merchandise, or baggage so seized is greater than $10,000".
 
 Pub. L. 98–473 amended section in manner substantially identical to amendment by Pub. L. 98–573.
 
-<b>1978</b>—Pub. L. 95–410 substituted “$10,000” for “$2,500” wherever appearing.
+<b>1978</b>—Pub. L. 95–410 substituted "$10,000" for "$2,500" wherever appearing.
 
 <b>1970</b>—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector, and struck out reference to appraiser's return of value.
 
-<b>1954</b>—Act Sept. 1, 1954, substituted “$2,500” for “$1,000”.
+<b>1954</b>—Act Sept. 1, 1954, substituted "$2,500" for "$1,000".
 
 #### Effective Date of 1984 Amendment
 

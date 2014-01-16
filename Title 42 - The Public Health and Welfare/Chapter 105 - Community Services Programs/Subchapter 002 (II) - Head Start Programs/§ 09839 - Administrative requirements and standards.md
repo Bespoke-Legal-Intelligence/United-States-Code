@@ -26,7 +26,7 @@
 
 &emsp;(A) establish specific standards governing salaries, salary increases, travel and per diem allowances, and other employee benefits;
 
-&emsp;(B) assure that only persons capable of discharging their duties with competence and integrity are employed and that employees arepromoted or advanced under impartial procedures calculated to improve agency performance and effectiveness;
+&emsp;(B) assure that only persons capable of discharging their duties with competence and integrity are employed and that employees are promoted or advanced under impartial procedures calculated to improve agency performance and effectiveness;
 
 &emsp;(C) guard against personal or financial conflicts of interest; and
 
@@ -74,7 +74,7 @@ Funds appropriated to carry out this subchapter shall not be used to assist, pro
 
 #### (g) Payments for capital expenditures
 
-(1) Upon a determination by the Secretary that suitable facilities (including public schoolfacilities) are not otherwise available to Indian tribes, rural communities, and other low-income communities to carry out Head Start programs, that the lack of suitable facilities will inhibit the operation of such programs, and that construction of such facilities is more cost effective than purchase of available facilities or renovation, the Secretary, in the discretion of the Secretary, may authorize the use of financial assistance under this subchapter to make payments for capital expenditures related to facilities that will be used to carry out such programs. The Secretary shall establish uniform procedures for Head Start agencies to request approval for such payments, and shall promote, to the extent practicable, the collocation of Head Start programs with other programs serving low-income children and families.
+(1) Upon a determination by the Secretary that suitable facilities (including public school facilities) are not otherwise available to Indian tribes, rural communities, and other low-income communities to carry out Head Start programs, that the lack of suitable facilities will inhibit the operation of such programs, and that construction of such facilities is more cost effective than purchase of available facilities or renovation, the Secretary, in the discretion of the Secretary, may authorize the use of financial assistance under this subchapter to make payments for capital expenditures related to facilities that will be used to carry out such programs. The Secretary shall establish uniform procedures for Head Start agencies to request approval for such payments, and shall promote, to the extent practicable, the collocation of Head Start programs with other programs serving low-income children and families.
 
 (2) Such payments may be used for capital expenditures (including paying the cost of amortizing the principal, and paying interest on, loans) such as expenditures for—
 
@@ -94,29 +94,29 @@ In all personnel actions of the American Indian Programs Branch of the Head Star
 
 #### Codification
 
-In subsec. (g)(3), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931, as amended (40 U.S.C. 276a et seq., commonly known as the ‘Davis-Bacon Act’)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g)(3), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Act of March 3, 1931, as amended (40 U.S.C. 276a et seq., commonly known as the 'Davis-Bacon Act')" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–134, §13(1), added subsec. (a) and struck out former subsec. (a) which related to employment practices, nonpartisanship, staff accountability, and public access to information.
+<b>2007</b>—Subsec. (a). Pub. L. 110–134, §13(1), added subsec. (a) and struck out former subsec. (a) which related toemployment practices, nonpartisanship, staff accountability, and public access to information.
 
 Subsec. (f)(2). Pub. L. 110–134, §13(2)(A), added subpar. (A) and redesignated former subpars. (A) to (E) as (B) to (F), respectively.
 
-Subsec. (f)(3). Pub. L. 110–134, §13(2)(B), struck out “, from the amount reserved under section 9835(a)(2)(A) of this title,” after “financial assistance”.
+Subsec. (f)(3). Pub. L. 110–134, §13(2)(B), struck out ", from the amount reserved under section 9835(a)(2)(A) of this title," after "financial assistance".
 
-<b>1998</b>—Subsec. (f)(2). Pub. L. 105–285 substituted “Financial assistance” for “Except as provided in section 9835(a)(3)(C)(v) of this title, financial assistance”.
+<b>1998</b>—Subsec. (f)(2). Pub. L. 105–285 substituted "Financial assistance" for "Except as provided in section 9835(a)(3)(C)(v) of this title, financial assistance".
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–252, §110(1), struck out “guidelines, instructions,” after “all rules, regulations,”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–252, §110(1), struck out "guidelines, instructions," after "all rules, regulations,".
 
-Subsec. (f)(1). Pub. L. 103–218, §403(1), inserted “, or to request approval of the purchase (after December 31, 1986) of facilities,” after “to purchase facilities” and inserted at end “The Secretary shall suspend any proceedings pending against any Head Start agency to claim costs incurred in purchasing such facilities until the agency has been afforded an opportunity to apply for approval of the purchase and the Secretary has determined whether the purchase will be approved. The Secretary shall not be required to repay claims previously satisfied by Head Start agencies for costs incurred in the purchase of such facilities.”
+Subsec. (f)(1). Pub. L. 103–218, §403(1), inserted ", or to request approval of the purchase (after December 31, 1986) of facilities," after "to purchase facilities" and inserted at end "The Secretary shall suspend any proceedings pending against any Head Start agency to claim costs incurred in purchasing such facilities until the agency has been afforded an opportunity to apply for approval of the purchase and the Secretary has determined whether the purchase will be approved. The Secretary shall not be required to repay claims previously satisfied by Head Start agencies for costs incurred in the purchase of such facilities."
 
-Subsec. (f)(2). Pub. L. 103–252, §110(2)(A), substituted “section 9835(a)(3)(C)(v)” for “section 9835(a)(3)(A)(v)”.
+Subsec. (f)(2). Pub. L. 103–252, §110(2)(A), substituted "section 9835(a)(3)(C)(v)" for "section 9835(a)(3)(A)(v)".
 
-Subsec. (f)(2)(A). Pub. L. 103–218, §403(2)(A), inserted before semicolon at end “or that was previously purchased”.
+Subsec. (f)(2)(A). Pub. L. 103–218, §403(2)(A), inserted before semicolon at end "or that was previously purchased".
 
-Subsec. (f)(2)(C)(i). Pub. L. 103–218, §403(2)(B)(i), inserted “, or the previous purchase has resulted,” after “purchase will result”.
+Subsec. (f)(2)(C)(i). Pub. L. 103–218, §403(2)(B)(i), inserted ", or the previous purchase has resulted," after "purchase will result".
 
-Subsec. (f)(2)(C)(ii). Pub. L. 103–218, §403(2)(B)(ii), inserted “, or would have prevented,” after “will prevent” and struck out “and” after semicolon at end.
+Subsec. (f)(2)(C)(ii). Pub. L. 103–218, §403(2)(B)(ii), inserted ", or would have prevented," after "will prevent" and struck out "and" after semicolon at end.
 
 Subsec. (f)(2)(D), (E). Pub. L. 103–218, §403(2)(C), (D), added subpar. (D) and redesignated former subpar. (D) as (E).
 
@@ -124,13 +124,13 @@ Subsec. (f)(3). Pub. L. 103–252, §110(2)(B), added par. (3).
 
 Subsecs. (g), (h). Pub. L. 103–252, §110(3), added subsecs. (g) and (h).
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–401, §2(j)(1), substituted “Except as provided in subsection (f) of this section, no” for “No”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–401, §2(j)(1), substituted "Except as provided in subsection (f) of this section, no" for "No".
 
-Subsec. (c). Pub. L. 102–401, §2(j)(2), substituted “subsections (a) and (f) of this section” for “subsection (a) of this section”.
+Subsec. (c). Pub. L. 102–401, §2(j)(2), substituted "subsections (a) and (f) of this section" for "subsection (a) of this section".
 
 Subsec. (f). Pub. L. 102–401, §2(j)(3), added subsec. (f).
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–501, §111, inserted “the required” before “non-Federal contributions”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–501, §111, inserted "the required" before "non-Federal contributions".
 
 Subsec. (e). Pub. L. 101–501, §112, added subsec. (e).
 
@@ -150,25 +150,25 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 Pub. L. 103–252, title I, §120, May 18, 1994, 108 Stat. 648, provided that:
 
-“(a)
+"(a)
 
-Study.—The Secretary of Health and Human Services shall conduct a study regarding the benefitsavailable to individuals employed by Head Start agencies under the Head Start Act (42 U.S.C. 9831 et seq.).
+Study.—The Secretary of Health and Human Services shall conduct a study regarding the benefits available to individuals employed by Head Start agencies under the Head Start Act (42 U.S.C. 9831 et seq.).
 
-“(b)
+"(b)
 
 Report.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Preparation.—The Secretary shall prepare a report, containing the results of the study, that—
 
-&emsp;&emsp;“(A) describes the benefits, including health care benefits, family and medical leave, and retirement pension benefits, available to such individuals;
+&emsp;&emsp;"(A) describes the benefits, including health care benefits, family and medical leave, and retirement pension benefits, available to such individuals;
 
-&emsp;&emsp;“(B) includes recommendations for increasing the access of the individuals to benefits, including access to a retirement pension program; and
+&emsp;&emsp;"(B) includes recommendations for increasing the access of the individuals to benefits, including access to a retirement pension program; and
 
-&emsp;&emsp;“(C) addresses the feasibility of participation by such individuals in the Federal Employees’ Retirement System under chapter 84 of title 5, United States Code.
+&emsp;&emsp;"(C) addresses the feasibility of participation by such individuals in the Federal Employees' Retirement System under chapter 84 of title 5, United States Code.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Submission.—The Secretary shall submit the report to the appropriate committees of Congress.”
+Submission.—The Secretary shall submit the report to the appropriate committees of Congress."
 

@@ -10,5 +10,5 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–375 substituted “The Secretary of Defense may participate in a” for “The training program referred to in paragraph (1)(B) is a”, inserted “of” after “acquisition”, struck out “and” after “countries,”, and inserted before period at end “, and in other countries in which, as determined by the Secretary of Defense, there exists a significant threat of such proliferation and acquisition”.
+<b>2004</b>—Pub. L. 108–375 substituted "The Secretary of Defense may participate in a" for "The training program referred to in paragraph (1)(B) is a", inserted "of" after "acquisition", struck out "and" after "countries,", and inserted before period at end ", and in other countries in which, as determined by the Secretary of Defense, there exists a significant threat of such proliferation and acquisition".
 

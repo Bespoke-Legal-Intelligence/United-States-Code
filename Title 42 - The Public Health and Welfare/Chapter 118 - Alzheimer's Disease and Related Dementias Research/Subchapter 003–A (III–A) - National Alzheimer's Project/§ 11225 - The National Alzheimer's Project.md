@@ -2,11 +2,11 @@
 
 #### (a) Definition of Alzheimer's
 
-In this Act, the term “Alzheimer's” means Alzheimer's disease and related dementias.
+In this Act, the term "Alzheimer's" means Alzheimer's disease and related dementias.
 
 #### (b) Establishment
 
-There is established in the Office of the Secretary of Health and Human Services the National Alzheimer's Project (referred to in this Act as the “Project”).
+There is established in the Office of the Secretary of Health and Human Services the National Alzheimer's Project (referred to in this Act as the "Project").
 
 #### (c) Purpose of the Project
 
@@ -40,13 +40,13 @@ The Secretary of Health and Human Services, or the Secretary's designee, shall�
 
 #### (2) National plan
 
-&emsp;The Secretary of Health and Human Services, or the Secretary's designee, shall carryout an annual assessment of the Nation's progress in preparing for the escalating burden of Alzheimer's, including both implementation steps and recommendations for priority actions based on the assessment.
+&emsp;The Secretary of Health and Human Services, or the Secretary's designee, shall carry out an annual assessment of the Nation's progress in preparing for the escalating burden of Alzheimer's, including both implementation steps and recommendations for priority actions based on the assessment.
 
 #### (e) Advisory Council
 
 #### (1) In general
 
-&emsp;There is established an Advisory Council on Alzheimer's Research, Care, and Services (referred to in this Act as the “Advisory Council”).
+&emsp;There is established an Advisory Council on Alzheimer's Research, Care, and Services (referred to in this Act as the "Advisory Council").
 
 #### (2) Membership
 

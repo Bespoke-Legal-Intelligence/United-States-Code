@@ -192,7 +192,7 @@
 | 796f–2. | Grants to centers for independent living in States in which State funding equals or exceeds Federal funding. |
 | 796f–3. | Centers operated by State agencies. |
 | 796f–4. | Standards and assurances for centers for independent living. |
-| 796f–5. | “Eligible agency” defined. |
+| 796f–5. | "Eligible agency" defined. |
 | 796f–6. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -201,7 +201,7 @@
 
 |  |  |
 | :--- | ---: |
-| [796j.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20B%20-%20Independent%20Living%20Services%20for%20Older%20Individuals%20Who%20Are%20Blind/%C2%A7%2000796j%20-%20%E2%80%9COlder%20individual%20who%20is%20blind%E2%80%9D%20defined.md) | “Older individual who is blind” defined. |
+| [796j.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20B%20-%20Independent%20Living%20Services%20for%20Older%20Individuals%20Who%20Are%20Blind/%C2%A7%2000796j%20-%20Older%20individual%20who%20is%20blind%20defined.md) | "Older individual who is blind" defined. |
 | [796k.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20B%20-%20Independent%20Living%20Services%20for%20Older%20Individuals%20Who%20Are%20Blind/%C2%A7%2000796k%20-%20Program%20of%20grants.md) | Program of grants. |
 | 796<i>l.</i> | Authorization of appropriations. |
 

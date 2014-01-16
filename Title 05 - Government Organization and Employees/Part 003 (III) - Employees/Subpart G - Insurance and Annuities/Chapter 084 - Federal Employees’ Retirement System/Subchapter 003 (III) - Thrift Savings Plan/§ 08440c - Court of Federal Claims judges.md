@@ -14,7 +14,7 @@
 
 (B) Section 8433(b) of this title applies to any Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before becoming entitled to an annuity under section 178 of title 28.
 
-(5) With respect to Court of Federal Claims judges to whom this section applies, any of theactions described in paragraph (4)(A) or (B) shall be considered a separation from service for purposes of this subchapter and subchapter VII.
+(5) With respect to Court of Federal Claims judges to whom this section applies, any of the actions described in paragraph (4)(A) or (B) shall be considered a separation from service for purposes of this subchapter and subchapter VII.
 
 (6) For purposes of this section, the terms “retirement” and “retire” include removal from office under section 178(c) of title 28 on the sole ground of mental or physical disability.
 

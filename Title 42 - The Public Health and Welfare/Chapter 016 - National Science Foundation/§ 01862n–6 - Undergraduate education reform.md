@@ -56,7 +56,7 @@ Activities supported by grants under this section may include—
 
 #### Codification
 
-Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as partof the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Definitions
 

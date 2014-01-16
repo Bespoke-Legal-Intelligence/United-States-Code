@@ -20,7 +20,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(G) educational institutions; and
 
-&emsp;&emsp;(H) health care providers;
+&emsp;&emsp;(H) health care providers, including sexual assault forensic examiners;
 
 &emsp;(2) to establish and expand nonprofit, nongovernmental, State, tribal, territorial, and local government victim services in rural communities to child, youth, and adult victims; and
 
@@ -32,13 +32,17 @@ The purposes of this section are—
 
 #### (b) Grants authorized
 
-The Attorney General, acting through the Director of the Office on Violence Against Women (referred to in this section as the “Director”), may award grants to States, Indian tribes, local governments, and nonprofit, public or private entities, including tribal nonprofit organizations, to carry out programs serving rural areas or rural communities that address domestic violence, dating violence, sexual assault, and stalking by—
+The Attorney General, acting through the Director of the Office on Violence Against Women (referred to in this section as the "Director"), may award grants to States, Indian tribes, local governments, and nonprofit, public or private entities, including tribal nonprofit organizations, to carry out programs serving rural areas or rural communities that address domestic violence, dating violence, sexual assault, and stalking by—
 
-&emsp;(1) implementing, expanding, and establishing cooperative efforts and projects among law enforcement officers, prosecutors, victim advocacy groups, and other related parties to investigate and prosecute incidents of domestic violence, dating violence, sexual assault, and stalking;
+&emsp;(1) implementing, expanding, and establishing cooperative efforts and projects among law enforcement officers, prosecutors, victim service providers, and other related parties to investigate and prosecute incidents of domestic violence, dating violence, sexual assault, and stalking, including developing multidisciplinary teams focusing on high risk cases with the goal of preventing domestic and dating violence homicides;
 
-&emsp;(2) providing treatment, counseling, advocacy, and other long- and short-term assistance to adult and minor victims of domestic violence, dating violence, sexual assault, and stalking in rural communities, including assistance in immigration matters; and
+&emsp;(2) providing treatment, counseling, advocacy, legal assistance, and other long-term and short-term victim and population specific services to adult and minor victims of domestic violence, dating violence, sexual assault, and stalking in rural communities, including assistance in immigration matters;
 
-&emsp;(3) working in cooperation with the community to develop education and prevention strategies directed toward such issues.
+&emsp;(3) working in cooperation with the community to develop education and prevention strategies directed toward such issues; and
+
+&emsp;(4) developing, enlarging, or strengthening programs addressing sexual assault, including sexual assault forensic examiner programs, Sexual Assault Response Teams, law enforcement training, and programs addressing rape kit backlogs.
+
+&emsp;(5) developing programs and strategies that focus on the specific needs of victims of domestic violence, dating violence, sexual assault, and stalking who reside in remote rural and geographically isolated areas, including addressing the challenges posed by the lack of access to shelters and victims services, and limited law enforcement resources and training, and providing training and resources to Community Health Aides involved in the delivery of Indian Health Service programs.
 
 #### (c) Use of funds
 
@@ -60,7 +64,7 @@ Funds appropriated pursuant to this section shall be used only for specific prog
 
 #### (A) In general
 
-&emsp;&emsp;Not less than 25 percent of the total amount appropriated in a fiscal year under this section shall fund services that meaningfully address sexual assault in rural communities, however at such time as the amounts appropriated reach the amount of $45,000,000, the percentage allocated shall rise to 30 percent of the total amount appropriated, at such time as the amounts appropriated reach the amount of $50,000,000, the percentage allocated shall rise to 35 percent of the total amount appropriated, and at such time as the amounts appropriated reach the amount of $55,000,000, the percentage allocated shall rise to 40 percent of the amounts appropriated.
+&emsp;&emsp;Not less than 25 percent of the total amount appropriated in a fiscal year underthis section shall fund services that meaningfully address sexual assault in rural communities, however at such time as the amounts appropriated reach the amount of $45,000,000, the percentage allocated shall rise to 30 percent of the total amount appropriated, at such time as the amounts appropriated reach the amount of $50,000,000, the percentage allocated shall rise to 35 percent of the total amount appropriated, and at such time as the amounts appropriated reach the amount of $55,000,000, the percentage allocated shall rise to 40 percent of the amounts appropriated.
 
 #### (B) Multiple purpose applications
 
@@ -82,13 +86,13 @@ Funds appropriated pursuant to this section shall be used only for specific prog
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated $55,000,000 for each of the fiscal years 2007 through 2011 to carry out this section.
+&emsp;There are authorized to be appropriated $50,000,000 for each of fiscal years 2014 through 2018 to carry out this section.
 
 #### (2) Additional funding
 
 &emsp;In addition to funds received through a grant under subsection (b) of this section, a law enforcement agency may use funds received through a grant under part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd et seq.) to accomplish the objectives of this section.
 
-(Pub. L. 103–322, title IV, §40295, Sept. 13, 1994, 108 Stat. 1940; Pub. L. 106–386, div. B, title I, §§1105, 1109(d), title V, §1512(c), Oct. 28, 2000, 114 Stat. 1497, 1503, 1533; Pub. L. 109–162, title II, §203, title IX, §906(d), Jan. 5, 2006, 119 Stat. 2998, 3081; Pub. L. 109–271, §7(b)(1), (2)(A), Aug. 12, 2006, 120 Stat. 764.)
+(Pub. L. 103–322, title IV, §40295, Sept. 13, 1994, 108 Stat. 1940; Pub. L. 106–386, div. B, title I, §§1105, 1109(d), title V, §1512(c), Oct. 28, 2000, 114 Stat. 1497, 1503, 1533; Pub. L. 109–162, title II, §203, title IX, §906(d), Jan. 5, 2006, 119 Stat. 2998, 3081; Pub. L. 109–271, §7(b)(1), (2)(A), Aug. 12, 2006, 120 Stat. 764; Pub. L. 113–4, title II, §202, Mar. 7, 2013, 127 Stat. 81.)
 
 #### References in Text
 
@@ -96,31 +100,45 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a)(1)(H). Pub. L. 113–4, §202(1), inserted ", including sexual assault forensic examiners" before semicolon at end.
+
+Subsec. (b)(1). Pub. L. 113–4, §202(2)(A), substituted "victim service providers" for "victim advocacy groups" and inserted ", including developing multidisciplinary teams focusing on high risk cases with the goal of preventing domestic and dating violence homicides" before semicolon at end.
+
+Subsec. (b)(2). Pub. L. 113–4, §202(2)(B)(i), substituted "legal assistance, and other long-term and short-term victim and population specific services" for "and other long- and short-term assistance".
+
+Subsec. (b)(4), (5). Pub. L. 113–4, §202(2)(B)(ii), (C), (D), added pars. (4) and (5).
+
+Subsec. (e)(1). Pub. L. 113–4, §202(3), substituted "$50,000,000 for each of fiscal years 2014 through 2018" for "$55,000,000 for each of the fiscal years 2007 through 2011".
+
 <b>2006</b>—Pub. L. 109–162, §203, amended section generally, substituting provisions relating to rural domestic violence, dating violence, sexual assault, stalking, and child abuse enforcement assistance for provisions relating to rural domestic violence and child abuse enforcement assistance.
 
-Subsec. (c)(3). Pub. L. 109–162, §906(d), which directed the amendment of subsec. (c) by striking par. (3) and inserting a new par. (3) which read “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this paragraph shall not apply to funds allocated for such program.”, was repealed by Pub. L. 109–271, §7(b)(2)(A).
+Subsec. (c)(3). Pub. L. 109–162, §906(d), which directed the amendment of subsec. (c) by striking par. (3) and inserting a new par. (3) which read "Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this paragraph shall not apply to funds allocated for such program.", was repealed by Pub. L. 109–271, §7(b)(2)(A).
 
-Subsec. (d)(1). Pub. L. 109–271, §7(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Not less than 10 percent of the total amount made available for each fiscal year to carry out this section shall be allocated for grants to Indian tribes or tribal organizations.”
+Subsec. (d)(1). Pub. L. 109–271, §7(b)(1), added par. (1) and struck out former par. (1) which read as follows: "Not less than 10 percent of the total amount made available for each fiscal year to carry out this section shall be allocated for grants to Indian tribes or tribal organizations."
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–386, §1109(d)(1), inserted “and dating violence (as defined in section 3796gg–2 of this title)” after “domestic violence”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–386, §1109(d)(1), inserted "and dating violence (as defined in section 3796gg–2 of this title)" after "domestic violence".
 
-Subsec. (a)(2). Pub. L. 106–386, §1512(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to provide treatment and counseling to victims of domestic violence and dating violence (as defined in section 3796gg–2 of this title) and child abuse; and”.
+Subsec. (a)(2). Pub. L. 106–386, §1512(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "to provide treatment and counseling to victims of domestic violence and dating violence (as defined in section 3796gg–2 of this title) and child abuse; and".
 
-Pub. L. 106–386, §1109(d)(2), inserted “and dating violence (as defined in section 3796gg–2 of this title)” after “domestic violence”.
+Pub. L. 106–386, §1109(d)(2), inserted "and dating violence (as defined in section 3796gg–2 of this title)" after "domestic violence".
 
-Subsec. (c)(1). Pub. L. 106–386, §1105(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “There are authorized to be appropriated to carry out this section—
+Subsec. (c)(1). Pub. L. 106–386, §1105(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "There are authorized to be appropriated to carry out this section—
 
-&emsp;“(A) $7,000,000 for fiscal year 1996;
+&emsp;"(A) $7,000,000 for fiscal year 1996;
 
-&emsp;“(B) $8,000,000 for fiscal year 1997; and
+&emsp;"(B) $8,000,000 for fiscal year 1997; and
 
-&emsp;“(C) $15,000,000 for fiscal year 1998.”
+&emsp;"(C) $15,000,000 for fiscal year 1998."
 
 Subsec. (c)(3). Pub. L. 106–386, §1105(2), added par. (3).
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 3793 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

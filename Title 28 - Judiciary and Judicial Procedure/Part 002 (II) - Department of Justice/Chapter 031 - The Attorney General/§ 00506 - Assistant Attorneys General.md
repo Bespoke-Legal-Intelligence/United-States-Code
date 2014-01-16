@@ -18,13 +18,13 @@ Historical and Revision Notes
 
 R.S. §348.
 
-July 11, 1890, ch. 667, §1 (words between 3d and 4th semicolons under “Department of Justice”), 26 Stat. 265.
+July 11, 1890, ch. 667, §1 (words between 3d and 4th semicolons under "Department of Justice"), 26 Stat. 265.
 
-Mar. 3, 1903, ch. 1006, §1 (so much of 2d par. under “Department of Justice” as provides for appointment, pay, and duties of an additional Assistant Attorney General), 32 Stat. 1062.
+Mar. 3, 1903, ch. 1006, §1 (so much of 2d par. under "Department of Justice" as provides for appointment, pay, and duties of an additional Assistant Attorney General), 32 Stat. 1062.
 
-July 16, 1914, ch. 141, §1 (words between 3d and 4th semicolons under “Department of Justice”), 38 Stat. 497.
+July 16, 1914, ch. 141, §1 (words between 3d and 4th semicolons under "Department of Justice"), 38 Stat. 497.
 
-Mar. 4, 1915, ch. 141, §1 (words between 3d and 4th semicolons under “Department of Justice”), 38 Stat. 1038.
+Mar. 4, 1915, ch. 141, §1 (words between 3d and 4th semicolons under "Department of Justice"), 38 Stat. 1038.
 
 June 16, 1933, ch. 101, §16(b), 48 Stat. 308.
 
@@ -42,13 +42,13 @@ Mar. 2, 1943, ch. 7, 57 Stat. 4.
 
 Sept. 9, 1957, Pub. L. 85–315, §111, 71 Stat. 637.
 
-The words “There shall be in the Department of Justice” are omitted as unnecessary as the title of the positions establishes their location in the Department of Justice.
+The words "There shall be in the Department of Justice" are omitted as unnecessary as the title of the positions establishes their location in the Department of Justice.
 
 The position of sixth Assistant Attorney General, referred to in the Acts of July 16, 1914, and Mar. 4, 1915, was made a permanent position by the Act of Mar. 4, 1915, ch. 141, §6, 38 Stat. 1049.
 
-The number of Assistant Attorneys General referred to in the Act of Mar. 2, 1943, is changed from “six” to “nine” to reflect the three additional Assistant Attorneys General authorized by 1950 Reorg. Plan No. 2, 1953 Reorg. Plan No. 4, and the Act of Sept. 9, 1957.
+The number of Assistant Attorneys General referred to in the Act of Mar. 2, 1943, is changed from "six" to "nine" to reflect the three additional Assistant Attorneys General authorized by 1950 Reorg. Plan No. 2, 1953 Reorg. Plan No. 4, and the Act of Sept. 9, 1957.
 
-The words “learned in the law” are omitted as unnecessary. Such a requirement is not made of the Attorney General, United States attorneys, or United States judges. (See reviser's note under 28 U.S.C. 501, 1964 ed.)
+The words "learned in the law" are omitted as unnecessary. Such a requirement is not made of the Attorney General, United States attorneys, or United States judges. (See reviser's note under 28 U.S.C. 501, 1964 ed.)
 
 The reference in former section 295 of title 5 to the Assistant Attorneys General assisting the Solicitor General are omitted on authority of the transfer of functions made by 1950 Reorg. Plan No. 2 and 1953 Reorg. Plan No. 4.
 
@@ -62,9 +62,9 @@ A prior section 506, act June 25, 1948, ch. 646, 62 Stat. 909, related to vacanc
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–177 substituted “11” for “ten”.
+<b>2006</b>—Pub. L. 109–177 substituted "11" for "ten".
 
-<b>1978</b>—Pub. L. 95–598 substituted “ten” for “nine”.
+<b>1978</b>—Pub. L. 95–598 substituted "ten" for "nine".
 
 #### Effective Date of 1978 Amendment
 

@@ -62,7 +62,7 @@ The Advisory Board may advise the Secretary on—
 
 #### (3) Notice of meetings
 
-&emsp;The chairperson, through the placement of notices in local news media and by other appropriate means shall give 2 weeks’ public notice of each meeting of the Advisory Board.
+&emsp;The chairperson, through the placement of notices in local news media and by other appropriate means shall give 2 weeks' public notice of each meeting of the Advisory Board.
 
 #### (h) No termination
 

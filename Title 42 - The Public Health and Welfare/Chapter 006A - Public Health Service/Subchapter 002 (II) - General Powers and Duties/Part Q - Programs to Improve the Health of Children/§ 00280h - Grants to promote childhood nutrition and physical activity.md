@@ -6,7 +6,7 @@ The Secretary, acting though the Director of the Centers for Disease Control and
 
 #### (b) Eligibility
 
-To be eligible to receive a grant under this section a State or political subdivision of aState shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a plan that describes—
+To be eligible to receive a grant under this section a State or political subdivision of a State shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a plan that describes—
 
 &emsp;(1) how the applicant proposes to develop a comprehensive program of school- and community-based approaches to encourage and promote good nutrition and appropriate levels of physical activity with respect to children or adolescents in local communities;
 
@@ -42,7 +42,7 @@ A grant awarded under subsection (a) of this section shall be for a term of 3 ye
 
 #### (g) Definition
 
-In this section, the term “children and adolescents” means individuals who do not exceed 18 years of age.
+In this section, the term "children and adolescents" means individuals who do not exceed 18 years of age.
 
 #### (h) Authorization of appropriations
 

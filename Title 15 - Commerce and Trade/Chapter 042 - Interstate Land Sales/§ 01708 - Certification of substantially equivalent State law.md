@@ -24,7 +24,7 @@ After the Director has certified a State under subsection (a) of this section, t
 
 If a State fails to meet the standards for certification pursuant to subsection (a) of this section, the Director shall notify the State in writing of the changes in State law, regulation, or administration that are needed in order to obtain certification.
 
-#### (d) Periodic review of certified States’ laws, regulations, and administration; withdrawal of certification
+#### (d) Periodic review of certified States' laws, regulations, and administration; withdrawal of certification
 
 The Director shall periodically review the laws and regulations, and the administration thereof, of States certified under subsection (a) of this section, and may withdraw such certification upon a determination that such laws, regulations, and the administration thereof, taken as a whole, no longer meet the requirements of subsection (a) of this section.
 
@@ -36,7 +36,7 @@ Nothing in this chapter may be construed to prevent or limit the authority of an
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Director” for “Secretary” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" wherever appearing.
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–153 substituted provisions setting forth criteria for determinations respecting certifications of substantially equivalent State law for purposes of disclosure requirements of this chapter, for provisions relating to cooperation with State authorities in administering this chapter.
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, butin no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under section 1701 of this title.
 

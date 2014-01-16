@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to, or enter into contracts with, an accredited public or nonprofit private hospital, school of medicine or osteopathic medicine, academically affiliated physician assistant training program, or a public or private nonprofit entity which the Secretary has determined is capable of carrying out such grant or contract—
+&emsp;The Secretary may make grants to, or enter into contracts with, an accredited public ornonprofit private hospital, school of medicine or osteopathic medicine, academically affiliated physician assistant training program, or a public or private nonprofit entity which the Secretary has determined is capable of carrying out such grant or contract—
 
 &emsp;&emsp;(A) to plan, develop, operate, or participate in an accredited professional training program, including an accredited residency or internship program in the field of family medicine, general internal medicine, or general pediatrics for medical students, interns, residents, or practicing physicians as defined by the Secretary;
 
@@ -94,7 +94,7 @@
 
 #### Codification
 
-Pub. L. 111–148, title V, §5301, Mar. 23, 2010, 124 Stat. 615, which directed the amendment of part C of title VIIby striking out section 747 and inserting a new section 747, without specifying the act to be amended, was executed as an amendment to part C of title VII of act July 1, 1944, by adding this section and repealing former section 293k of this title, to reflect the probable intent of Congress.
+Pub. L. 111–148, title V, §5301, Mar. 23, 2010, 124 Stat. 615, which directed the amendment of part C of title VII by striking out section 747 and inserting a new section 747, without specifying the act to be amended, was executed as an amendment to part C of title VII of act July 1, 1944, by adding this section and repealing former section 293k of this title, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -104,5 +104,5 @@ A prior section 747 of act July 1, 1944, was classified to section 294q–3 of t
 
 Another prior section 747 of act July 1, 1944, was classified to section 294g of this title prior to repeal by Pub. L. 94–484.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “propose”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "propose".</i>
 

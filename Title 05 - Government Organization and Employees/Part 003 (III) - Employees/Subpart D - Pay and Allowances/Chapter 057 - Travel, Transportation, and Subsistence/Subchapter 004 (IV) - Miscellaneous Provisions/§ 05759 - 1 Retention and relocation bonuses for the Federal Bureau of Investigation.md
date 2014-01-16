@@ -34,7 +34,7 @@ Impact on Basic Pay.—A bonus paid under this section is not part of the basic 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(2). Pub. L. 111–259, §443(1), substituted “is subject to a mobility agreement and istransferred to a position in a different geographical area in which there is a shortage of critical skills” for “is transferred to a different geographic area with a higher cost of living”.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–259, §443(1), substituted “is subject to a mobility agreement and is transferred to a position in a different geographical area in which there is a shortage of critical skills” for “is transferred to a different geographic area with a higher cost of living”.
 
 Subsec. (b)(2). Pub. L. 111–259, §443(2), substituted “, including requirements for a bonus recipient's repayment of a bonus in circumstances determined by the Director of the Federal Bureau of Investigation.” for the period.
 

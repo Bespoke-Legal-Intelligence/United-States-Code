@@ -22,7 +22,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;&emsp;(ii) the costs of each United Nations peacekeeping operation for the prior fiscal year; and
 
-&emsp;&emsp;(iii) the amount of United States contributions (both assessed and voluntary) to United Nations peacekeeping operations on an operation-by-operation basis for the prior fiscal year.
+&emsp;&emsp;(iii) the amount of United States contributions (both assessed and voluntary) toUnited Nations peacekeeping operations on an operation-by-operation basis for the prior fiscal year.
 
 &emsp;(C) With respect to other international peacekeeping operations in which the United States participates—
 
@@ -46,7 +46,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;(ii) If an office of the Inspector General has been established at the United Nations, a discussion of whether the Inspector General is keeping the Secretary General and the members of the General Assembly fully informed about problems, deficiencies, the necessity for corrective action, and the progress of corrective action.
 
-&emsp;(iii) For purposes of this subparagraph, the term “office of the Inspector General” means an independent office (or other independent entity) established by the United Nations to conduct and supervise objective audits, inspections, and investigations relating to the programs and operations of the United Nations.
+&emsp;(iii) For purposes of this subparagraph, the term "office of the Inspector General" means an independent office (or other independent entity) established by the United Nations to conduct and supervise objective audits, inspections, and investigations relating to the programs and operations of the United Nations.
 
 &emsp;(B) A description of the status of efforts to reduce the United States peacekeeping assessment rate.
 
@@ -84,17 +84,17 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;&emsp;&emsp;(iii) An estimate of the total cost to the United Nations of each such operation for the period covered by the resolution, and an estimate of the amount of that cost that will be assessed to the United States.
 
-&emsp;&emsp;&emsp;(iv) Any anticipated significant changes in United States participation in or support for each such operation during the period covered by the resolution (including the provision of facilities, training, transportation, communication, and logistical support, but not including intelligence activities reportable under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.)), and the estimated costs to the United States of such changes.
+&emsp;&emsp;&emsp;(iv) Any anticipated significant changes in United States participation in or support for each such operation during the period covered by the resolution (including the provision of facilities, training, transportation, communication, and logistical support, but not including intelligence activities reportable under title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\]), and the estimated costs to the United States of such changes.
 
 &emsp;&emsp;(B) With respect to each new United Nations peacekeeping operation that is anticipated to be authorized by a Security Council resolution during such month, the following information for the period covered by the resolution:
 
-&emsp;&emsp;&emsp;(i) The anticipated duration, mandate, and command and control arrangements of such operation, the planned exit strategy, and the vital national interest to be served.
+&emsp;&emsp;&emsp;(i) The anticipated duration, mandate, and command and control arrangements ofsuch operation, the planned exit strategy, and the vital national interest to be served.
 
 &emsp;&emsp;&emsp;(ii) An estimate of the total cost to the United Nations of the operation, and an estimate of the amount of that cost that will be assessed to the United States.
 
 &emsp;&emsp;&emsp;(iii) A description of the functions that would be performed by any United States Armed Forces participating in or otherwise operating in support of the operation, an estimate of the number of members of the Armed Forces that will participate in or otherwise operate in support of the operation, and an estimate of the cost to the United States of such participation or support.
 
-&emsp;&emsp;&emsp;(iv) A description of any other United States assistance to or support for the operation (including the provision of facilities, training, transportation, communication, and logistical support, but not including intelligence activities reportable under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.)), and an estimate of the cost to the United States of such assistance or support.
+&emsp;&emsp;&emsp;(iv) A description of any other United States assistance to or support for the operation (including the provision of facilities, training, transportation, communication, and logistical support, but not including intelligence activities reportable under title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\]), and an estimate of the cost to the United States of such assistance or support.
 
 &emsp;&emsp;&emsp;(v) A reprogramming of funds pursuant to section 2706 of this title, submitted in accordance with the procedures set forth in such section, describing the source of funds that will be used to pay for the cost of the new United Nations peacekeeping operation, provided that such notification shall also be submitted to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate.
 
@@ -116,7 +116,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 #### (4) New United Nations peacekeeping operation defined
 
-&emsp;As used in paragraph (2), the term “new United Nations peacekeeping operation” includes any existing or otherwise ongoing United Nations peacekeeping operation—
+&emsp;As used in paragraph (2), the term "new United Nations peacekeeping operation" includes any existing or otherwise ongoing United Nations peacekeeping operation—
 
 &emsp;&emsp;(A) where the authorized force strength is to be expanded;
 
@@ -146,7 +146,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 #### (e) Designated congressional committees
 
-In this section, the term “designated congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
+In this section, the term "designated congressional committees" means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
 
 #### (f) Relationship to other notification requirements
 
@@ -158,7 +158,7 @@ Nothing in this section is intended to alter or supersede any notification requi
 
 Section 407(a)(5)(B) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, referred to in subsec. (c)(1)(A), is section 407(a)(5)(B) of Pub. L. 103–236, which was set out below, prior to repeal by Pub. L. 106–113.
 
-The National Security Act of 1947, referred to in subsec. (d)(2)(A)(iv), (B)(iv), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. Title V of the Act is classified generally to subchapter III (§413 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50 and Tables.
+The National Security Act of 1947, referred to in subsec. (d)(2)(A)(iv), (B)(iv), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -166,9 +166,9 @@ Another subsec. (a)(2) of section 724 of Pub. L. 106–113, div. B, §1000(a)(7)
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–228, §405(a)(1), (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text of such resolution and any supporting documentation to the designated congressional committees.”
+<b>2002</b>—Subsec. (b). Pub. L. 107–228, §405(a)(1), (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text of such resolution and any supporting documentation to the designated congressional committees."
 
-Subsecs. (c), (d). Pub. L. 107–228, §405(a)(1), (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively,and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of State shall promptly transmit to the designated congressional committees any published report prepared by the United Nations and distributed to the members of the Security Council that contains assessments of any proposed, ongoing, or concluded United Nations peacekeeping operation.”
+Subsecs. (c), (d). Pub. L. 107–228, §405(a)(1), (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: "The Secretary of State shall promptly transmit to the designated congressional committees any published report prepared by the United Nations and distributed to the members of the Security Council that contains assessments of any proposed, ongoing, or concluded United Nations peacekeeping operation."
 
 Subsec. (e). Pub. L. 107–228, §405(a)(4), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
@@ -176,9 +176,9 @@ Subsec. (e)(5)(B). Pub. L. 107–228, §405(a)(3), added subpar. (B) and struck 
 
 Subsecs. (f), (g). Pub. L. 107–228, §405(a)(4), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(1)\], struck out at end “He shall make special current reports on decisions of the Security Council to take enforcement measures under the provisions of the Charter of the United Nations, and on the participation therein under his instructions, of the representative of the United States.”
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(1)\], struck out at end "He shall make special current reports on decisions of the Security Council to take enforcement measures under the provisions of the Charter of the United Nations, and on the participation therein under his instructions, of the representative of the United States."
 
-Subsecs. (e) to (g). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(2), (b)\], added subsecs. (e) to (g) and struck out heading and text of former subsec. (e). Text read as follows: “As used in this section, the term ‘designated congressional committees’ has the meaning given that term by section 415 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995.”
+Subsecs. (e) to (g). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(2), (b)\], added subsecs. (e) to (g) and struck out heading and text of former subsec. (e). Text read as follows: "As used in this section, the term 'designated congressional committees' has the meaning given that term by section 415 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995."
 
 <b>1994</b>—Pub. L. 103–236 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
 
@@ -200,7 +200,7 @@ Pub. L. 103–236, title IV, §407(a), Apr. 30, 1994, 108 Stat. 448, directed Pr
 
 #### Designated Congressional Committees
 
-Pub. L. 103–236, title IV, §415, Apr. 30, 1994, 108 Stat. 456, provided that: “For purposes of this part \[part A (§§401 to 415) of title IV of Pub. L. 103–236, enacting section 2321n of this title, amending this section, enacting provisions set out as notes under this section and section 287e of this title, and amending provisions set out as notes under section 287e of this title\], the term ‘designated congressional committees’ means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.”
+Pub. L. 103–236, title IV, §415, Apr. 30, 1994, 108 Stat. 456, provided that: "For purposes of this part \[part A (§§401 to 415) of title IV of Pub. L. 103–236, enacting section 2321n of this title, amending this section, enacting provisions set out as notes under this section and section 287e of this title, and amending provisions set out as notes under section 287e of this title\], the term 'designated congressional committees' means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives."
 
 #### Report on Policies Pursued by Other Countries in International Organizations
 

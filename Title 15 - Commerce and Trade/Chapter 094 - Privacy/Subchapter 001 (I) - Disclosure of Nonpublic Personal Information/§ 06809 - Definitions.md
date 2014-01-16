@@ -4,11 +4,11 @@ As used in this subchapter:
 
 #### (1) Federal banking agency
 
-&emsp;The term “Federal banking agency” has the same meaning as given in section 1813 of title 12.
+&emsp;The term "Federal banking agency" has the same meaning as given in section 1813 of title 12.
 
 #### (2) Federal functional regulator
 
-&emsp;The term “Federal functional regulator” means—
+&emsp;The term "Federal functional regulator" means—
 
 &emsp;&emsp;(A) the Board of Governors of the Federal Reserve System;
 
@@ -26,23 +26,23 @@ As used in this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “financial institution” means any institution the business of which is engaging in financial activities as described in section 1843(k) of title 12.
+&emsp;&emsp;The term "financial institution" means any institution the business of which is engaging in financial activities as described in section 1843(k) of title 12.
 
 #### (B) Persons subject to CFTC regulation
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the term “financial institution” does not include any person or entity with respect to any financial activity that is subject to the jurisdiction of the Commodity Futures Trading Commission under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
+&emsp;&emsp;Notwithstanding subparagraph (A), the term "financial institution" does not include any person or entity with respect to any financial activity that is subject to the jurisdiction of the Commodity Futures Trading Commission under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
 
 #### (C) Farm credit institutions
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the term “financial institution” does not include the Federal Agricultural Mortgage Corporation or any entity chartered and operating under the Farm Credit Act of 1971 \[12 U.S.C. 2001 et seq.\].
+&emsp;&emsp;Notwithstanding subparagraph (A), the term "financial institution" does not include the Federal Agricultural Mortgage Corporation or any entity chartered and operating under the Farm Credit Act of 1971 \[12 U.S.C. 2001 et seq.\].
 
 #### (D) Other secondary market institutions
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the term “financial institution” does not include institutions chartered by Congress specifically to engage in transactions described in section 6802(e)(1)(C) of this title, as long as such institutions do not sell or transfer nonpublic personal information to a nonaffiliated third party.
+&emsp;&emsp;Notwithstanding subparagraph (A), the term "financial institution" does not include institutions chartered by Congress specifically to engage in transactions described in section 6802(e)(1)(C) of this title, as long as such institutions do not sell or transfer nonpublic personal information to a nonaffiliated third party.
 
 #### (4) Nonpublic personal information
 
-&emsp;(A) The term “nonpublic personal information” means personally identifiable financial information—
+&emsp;(A) The term "nonpublic personal information" means personally identifiable financial information—
 
 &emsp;&emsp;(i) provided by a consumer to a financial institution;
 
@@ -60,15 +60,15 @@ As used in this subchapter:
 
 #### (5) Nonaffiliated third party
 
-&emsp;The term “nonaffiliated third party” means any entity that is not an affiliate of, or related by common ownership or affiliated by corporate control with, the financial institution, but does not include a joint employee of such institution.
+&emsp;The term "nonaffiliated third party" means any entity that is not an affiliate of, or related by common ownership or affiliated by corporate control with, the financial institution, but does not include a joint employee of such institution.
 
 #### (6) Affiliate
 
-&emsp;The term “affiliate” means any company that controls, is controlled by, or is under common control with another company.
+&emsp;The term "affiliate" means any company that controls, is controlled by, or is under common control with another company.
 
 #### (7) Necessary to effect, administer, or enforce
 
-&emsp;The term “as necessary to effect, administer, or enforce the transaction” means—
+&emsp;The term "as necessary to effect, administer, or enforce the transaction" means—
 
 &emsp;&emsp;(A) the disclosure is required, or is a usual, appropriate, or acceptable method, to carry out the transaction or the product or service business of which the transaction is a part, and record or service or maintain the consumer's account in the ordinary course of providing the financial service or financial product, or to administer or service benefits or claims relating to the transaction or the product or service business of which it is a part, and includes—
 
@@ -90,23 +90,25 @@ As used in this subchapter:
 
 #### (8) State insurance authority
 
-&emsp;The term “State insurance authority” means, in the case of any person engaged in providing insurance, the State insurance authority of the State in which the person is domiciled.
+&emsp;The term "State insurance authority" means, in the case of any person engaged in providing insurance, the State insurance authority of the State in which the person is domiciled.
 
 #### (9) Consumer
 
-&emsp;The term “consumer” means an individual who obtains, from a financial institution, financial products or services which are to be used primarily for personal, family, or household purposes, and also means the legal representative of such an individual.
+&emsp;The term "consumer" means an individual who obtains, from a financial institution, financial products or services which are to be used primarily for personal, family, or household purposes, and also means the legal representative of such an individual.
 
 #### (10) Joint agreement
 
-&emsp;The term “joint agreement” means a formal written contract pursuant to which two or more financial institutions jointly offer, endorse, or sponsor a financial product or service, and as may be further defined in the regulations prescribed under section 6804 of this title.
+&emsp;The term "joint agreement" means a formal written contract pursuant to which two or more financial institutions jointly offer, endorse, or sponsor a financial product or service, and as may be further defined in the regulations prescribed under section 6804 of this title.
 
 #### (11) Customer relationship
 
-&emsp;The term “time of establishing a customer relationship” shall be defined by the regulations prescribed under section 6804 of this title, and shall, in the case of a financial institution engaged in extending credit directly to consumers to finance purchases of goods or services, mean the time of establishing the credit relationship with the consumer.
+&emsp;The term "time of establishing a customer relationship" shall be defined by the regulations prescribed under section 6804 of this title, and shall, in the case of a financial institution engaged in extending credit directly to consumers to finance purchases of goods or services, mean the time of establishing the credit relationship with the consumer.
 
 (Pub. L. 106–102, title V, §509, Nov. 12, 1999, 113 Stat. 1443.)
 
 #### References in Text
+
+This subchapter, referred to in text, was in the original "this subtitle", meaning subtitle A (§§501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 The Commodity Exchange Act, referred to in par. (3)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 

@@ -116,7 +116,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to purchaseor lease any new rail passenger cars for use in commuter rail transportation, and for which a solicitation is made later than 30 days after July 26, 1990, unless all such rail cars are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
+&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to purchase or lease any new rail passenger cars for use in commuter rail transportation, and for which a solicitation is made later than 30 days after July 26, 1990, unless all such rail cars are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
 
 #### (B) Accessibility
 
@@ -178,7 +178,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations of an existing station or part thereof in the intercity or commuter rail transportation systems that affect or could affect the usability of the station or part thereof, for the responsible person, owner, or person in control of the station to fail to make the alterations in such a manner that, to the maximum extent feasible, the altered portions of the station are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations.
+&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations of an existing station or part thereof in the intercity or commuter rail transportation systems that affect or could affect the usability of the station or part thereof, for the responsible person, owner, or person in control of the stationto fail to make the alterations in such a manner that, to the maximum extent feasible, the altered portions of the station are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations.
 
 #### (ii) Alterations to a primary function area
 
@@ -192,7 +192,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(2)(C), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in subsec. (e)(2)(C), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Effective Date
 

@@ -24,9 +24,9 @@ The Secretary shall monitor the use of guarantees under this subchapter by India
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (a), (b). Pub. L. 110–411 substituted “2009 through 2013” for “1997 through 2007”.
+<b>2008</b>—Subsecs. (a), (b). Pub. L. 110–411 substituted "2009 through 2013" for "1997 through 2007".
 
-<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–292 substituted “1997 through 2007” for “1997, 1998, 1999, 2000, and 2001”.
+<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–292 substituted "1997 through 2007" for "1997, 1998, 1999, 2000, and 2001".
 
 #### Effective Date
 

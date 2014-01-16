@@ -2,7 +2,7 @@
 
 #### (a) Professional development activities
 
-A State educational agency that receives a grant under this part shall use the grant fundsto support activities in accordance with the State's plan described in section 1453 of this title, including 1 or more of the following:
+A State educational agency that receives a grant under this part shall use the grant funds to support activities in accordance with the State's plan described in section 1453 of this title, including 1 or more of the following:
 
 &emsp;(1) Carrying out programs that provide support to both special education and regular education teachers of children with disabilities and principals, such as programs that—
 

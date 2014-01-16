@@ -16,7 +16,7 @@ Entry, Inspection, and Impoundment.—(1) In carrying out subsection (a) of this
 
 &emsp;(D) impound for not more than 72 hours for inspection a motor vehicle or motor vehicle equipment that the Secretary reasonably believes is an object of a violation of this chapter.
 
-(2) An inspection or impoundment under this subsection shall be conducted at a reasonable time, in a reasonable way, and with reasonable promptness. The written notice may consist of a warrant issued under section 32707 of this title.
+(2) An inspection or impoundment under this subsection shall be conducted at a reasonable time, in a reasonable way, and with reasonablepromptness. The written notice may consist of a warrant issued under section 32707 of this title.
 
 (c)
 
@@ -100,21 +100,21 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §§414(a)–(c), 416; added July
 
 15:1990f.
 
-In subsection (a), the words “Subject to section 32707 of this title” are added for clarity. The words “appropriate” and “consistent with the purposes of this subsection” are omitted as surplus. The words “The Secretary may give the Attorney General information” are substituted for “Information obtained . . . may be referred to the Attorney General for investigative consideration” to eliminate unnecessary words.
+In subsection (a), the words "Subject to section 32707 of this title" are added for clarity. The words "appropriate" and "consistent with the purposes of this subsection" are omitted as surplus. The words "The Secretary may give the Attorney General information" are substituted for "Information obtained . . . may be referred to the Attorney General for investigative consideration" to eliminate unnecessary words.
 
-In subsection (b)(1), before clause (A), the words “duly” and “stating their purpose and” are omitted as surplus. In clause (A), the words “any factory, warehouse, establishment, or other” are omitted as surplus.
+In subsection (b)(1), before clause (A), the words "duly" and "stating their purpose and" are omitted as surplus. In clause (A), the words "any factory, warehouse, establishment, or other" are omitted as surplus.
 
-In subsection (b)(2), the words “shall be commenced and completed” are omitted as surplus. The words “a warrant issued under section 32707 of this title” are substituted for “an administrative inspection warrant” for clarity.
+In subsection (b)(2), the words "shall be commenced and completed" are omitted as surplus. The words "a warrant issued under section 32707 of this title" are substituted for "an administrative inspection warrant" for clarity.
 
-In subsection (c), the words “the authority of” and “any item of” are omitted as surplus.
+In subsection (c), the words "the authority of" and "any item of" are omitted as surplus.
 
-In subsection (d)(1), before clause (A), the words “the Secretary may require” are substituted for “as the Secretary may reasonably require” and “as the Secretary finds necessary” to eliminate unnecessary words. In clause (B), the words “such officer or employee” and “reason or” are omitted as surplus. In clause (C), the words “duly” and “upon request of such officer or employee” are omitted as surplus.
+In subsection (d)(1), before clause (A), the words "the Secretary may require" are substituted for "as the Secretary may reasonably require" and "as the Secretary finds necessary" to eliminate unnecessary words. In clause (B), the words "such officer or employee" and "reason or" are omitted as surplus. In clause (C), the words "duly" and "upon request of such officer or employee" are omitted as surplus.
 
-In subsection (d)(2), the words “and subsection (e)(1)(B) of this section” are added for clarity.
+In subsection (d)(2), the words "and subsection (e)(1)(B) of this section" are added for clarity.
 
-In subsection (e)(1), before clause (A), the words “In carrying out this chapter” are substituted for “For the purpose of carrying out the provisions of this subchapter”, “In order to carry out the provisions of this subchapter”, “relevant to any function of the Secretary under this subchapter”, and “relating to any function of the Secretary under this subchapter” for consistency. The words “or, with the authorization of the Secretary, any officer or employee of the Department of Transportation” and “or his duly authorized agent” are omitted as surplus because of 49:322(b). In clause (A), the words “inspect and copy” are substituted for “have access to, and for the purposes of examination the right to copy” to eliminate unnecessary words. The word “records” is substituted for “documentary evidence” for consistency. The words “having materials or information” are omitted as surplus. In clause (B), the word “order” is substituted for “require, by general or special orders” to eliminate unnecessary words. The words “in such form as the Secretary may prescribe” and “shall be filed with the Secretary within such reasonable period as the Secretary may prescribe” are omitted as surplus because of 49:322(a). In clause (C), the words “sit and act at such times and places” are omitted as being included in “conduct hearings”.
+In subsection (e)(1), before clause (A), the words "In carrying out this chapter" are substituted for "For the purpose of carrying out the provisions of this subchapter", "In order to carry out the provisions of this subchapter", "relevant to any function of the Secretary under this subchapter", and "relating to any function of the Secretary under this subchapter" for consistency. The words "or, with the authorization of the Secretary, any officer or employee of the Department of Transportation" and "or his duly authorized agent" are omitted as surplus because of 49:322(b). In clause (A), the words "inspect and copy" are substituted for "have access to, and for the purposes of examination the right to copy" to eliminate unnecessary words. The word "records" is substituted for "documentary evidence" for consistency. The words "having materials or information" are omitted as surplus. In clause (B), the word "order" is substituted for "require, by general or special orders" to eliminate unnecessary words. The words "in such form as the Secretary may prescribe" and "shall be filed with the Secretary within such reasonable period as the Secretary may prescribe" are omitted as surplus because of 49:322(a). In clause (C), the words "sit and act at such times and places" are omitted as being included in "conduct hearings".
 
-In subsection (e)(3), the words “A civil action to enforce a subpena or order of the Secretary under this subsection may be brought in the United States district court for the judicial district in which the proceeding by the Secretary was conducted” are substituted for 15:1990d(c)(4) (words before last comma) for consistency in the revised title and to eliminate unnecessary words.
+In subsection (e)(3), the words "A civil action to enforce a subpena or order of the Secretary under this subsection may be brought in the United States district court for the judicial district in which the proceeding by the Secretary was conducted" are substituted for 15:1990d(c)(4) (words before last comma) for consistency in the revised title and to eliminate unnecessary words.
 
 #### Pub. L. 103–429
 
@@ -126,9 +126,9 @@ This amends 49:32706(c) to correct a cross-reference necessary because of the re
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–102 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–102 substituted "subchapter I of chapter 135" for "subchapter II of chapter 105".
 
-<b>1994</b>—Subsec. (e)(3). Pub. L. 103–429 substituted “any judicial district in which the proceeding by the Secretary is conducted.” for “the judicial district in which the proceeding by the Secretary was conducted.”
+<b>1994</b>—Subsec. (e)(3). Pub. L. 103–429 substituted "any judicial district in which the proceeding by the Secretary is conducted." for "the judicial district in which the proceeding by the Secretary was conducted."
 
 #### Effective Date of 1994 Amendment
 

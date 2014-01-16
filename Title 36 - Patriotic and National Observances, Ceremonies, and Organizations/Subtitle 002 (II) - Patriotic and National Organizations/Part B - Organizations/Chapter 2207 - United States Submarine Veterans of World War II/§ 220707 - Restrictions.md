@@ -62,9 +62,9 @@ Nov. 20, 1981, Pub. L. 97–83, §8, 95 Stat. 1095.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “as such” are substituted for “acting as such officer or director” for consistency in the revised title.
+In subsection (b), the words "as such" are substituted for "acting as such officer or director" for consistency in the revised title.
 
-In subsection (c), the words “may not” are substituted for “No part of . . . shall” for consistency in the revised title and to eliminate unnecessary words. The words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “This subsection does not” are substituted for “Nothing in this subsection shall be construed to” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (c), the words "may not" are substituted for "No part of . . . shall" for consistency in the revised title and to eliminate unnecessary words. The words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title. The words "This subsection does not" are substituted for "Nothing in this subsection shall be construed to" for consistency in the revised title and to eliminate unnecessary words.
 

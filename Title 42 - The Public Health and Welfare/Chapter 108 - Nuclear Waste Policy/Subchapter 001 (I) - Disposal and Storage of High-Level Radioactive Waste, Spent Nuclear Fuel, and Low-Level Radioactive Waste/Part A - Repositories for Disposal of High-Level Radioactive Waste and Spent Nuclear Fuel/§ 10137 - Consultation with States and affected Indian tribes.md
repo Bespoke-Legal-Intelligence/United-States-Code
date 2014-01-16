@@ -44,11 +44,11 @@ The Secretary shall offer to any State, Indian tribe or unit of local government
 
 #### Amendments
 
-<b>1995</b>—Subsec. (c). Pub. L. 104–66 struck out after third sentence “If such written agreement is not completed within such period, the Secretary shall report to the Congress in writing within 30 days on the status of negotiations to develop such agreement and the reasons why such agreement has not been completed. Prior to submission of such report to the Congress, the Secretary shall transmit such report to the Governor of such State or the governing body of such affected Indian tribe, as the case may be, for their review and comments. Such comments shall be included in such report prior to submission to the Congress.”
+<b>1995</b>—Subsec. (c). Pub. L. 104–66 struck out after third sentence "If such written agreement is not completed within such period, the Secretary shall report to the Congress in writing within 30 days on the status of negotiations to develop such agreement and the reasons why such agreement has not been completed. Prior to submission of such report to the Congress, the Secretary shall transmit such report to the Governor of such State or the governing body of such affected Indian tribe, as the case may be, for their review and comments. Such comments shall be included in such report prior to submission to the Congress."
 
 <b>1987</b>—Subsec. (d). Pub. L. 100–202 and Pub. L. 100–203 amended section identically, adding subsec. (d).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “locating”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "locating".</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

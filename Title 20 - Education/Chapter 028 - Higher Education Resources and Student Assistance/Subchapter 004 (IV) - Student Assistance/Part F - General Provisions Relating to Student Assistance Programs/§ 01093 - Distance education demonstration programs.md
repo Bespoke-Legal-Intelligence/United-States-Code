@@ -54,7 +54,7 @@ It is the purpose of this section—
 
 &emsp;Each application shall include—
 
-&emsp;&emsp;(A) a description of the institution, system, or consortium's consultation with a recognized accrediting agency or association with respect to quality assurances for the distance education programs to be offered;
+&emsp;&emsp;(A) a description of the institution, system, or consortium's consultation with a recognized accrediting agency or associationwith respect to quality assurances for the distance education programs to be offered;
 
 &emsp;&emsp;(B) a description of the statutory and regulatory requirements described in subsection (b)(2) of this section or, if applicable, subsection (b)(3)(D) of this section for which a waiver is sought and the reasons for which the waiver is sought;
 
@@ -134,9 +134,9 @@ In conducting the demonstration program authorized under this section, the Secre
 
 &emsp;(4) consult with appropriate accrediting agencies or associations and appropriate State regulatory authorities.
 
-#### (h) “Distance education” defined
+#### (h) "Distance education" defined
 
-For the purpose of this section, the term “distance education” means an educational process that is characterized by the separation, in time or place, between instructor and student. Such term may include courses offered principally through the use of—
+For the purpose of this section, the term "distance education" means an educational process that is characterized by the separation, in time or place, between instructor and student. Such term may include courses offered principally through the use of—
 
 &emsp;(1) television, audio, or computer transmission, such as open broadcast, closed circuit, cable, microwave, or satellite transmission;
 
@@ -154,13 +154,13 @@ A prior section 1093, Pub. L. 89–329, title IV, §486, as added Pub. L. 96–3
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e). Pub. L. 110–315, §103(b)(12), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–315, §103(b)(12), substituted "authorizing committees" for "Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives".
 
-Subsec. (f)(3). Pub. L. 110–315, §491, substituted “Annual reports” for “Reports” in heading, in subpar. (B) redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and adjusted their margins, and substituted “The Secretary shall provide reports to the authorizing committees on an annual basis” for former subpar. (A) which required Secretary to report to congressional committees on evaluations of demonstration programs and for introductory provisions of former subpar. (B) which related to additional annual reports.
+Subsec. (f)(3). Pub. L. 110–315, §491, substituted "Annual reports" for "Reports" in heading, in subpar. (B) redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and adjusted their margins, and substituted "The Secretary shall provide reports to the authorizing committees on an annual basis" for former subpar. (A) which required Secretary to report to congressional committees on evaluations of demonstration programs and for introductory provisions of former subpar. (B) which related to additional annual reports.
 
 <b>1998</b>—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized Secretary to make grants to nonprofit private organizations to provide training for student financial aid administrators and TRIO personnel.
 
-<b>1992</b>—Pub. L. 102–325 struck out “and student support” after “aid” in section catchline and amended text generally, substituting present provisions for former subsec. (a) relating to program authority, subsec. (b) relating to use of funds, and subsec. (c) relating to authorization of appropriations.
+<b>1992</b>—Pub. L. 102–325 struck out "and student support" after "aid" in section catchline and amended text generally, substituting present provisions for former subsec. (a) relating to program authority, subsec. (b) relating to use of funds, and subsec. (c) relating to authorization of appropriations.
 
 #### Effective Date of 1998 Amendment
 

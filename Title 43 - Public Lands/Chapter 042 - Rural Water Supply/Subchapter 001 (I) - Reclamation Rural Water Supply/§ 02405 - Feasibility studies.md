@@ -14,7 +14,7 @@ On completion of an appraisal report under section 2404(c) of this title that re
 
 &emsp;(3)(A) provide a grant to, or enter into a cooperative agreement with, a non-Federal project entity to conduct a feasibility study, for submission to the Secretary, if the Secretary determines that—
 
-&emsp;&emsp;(i) the non-Federal entity is qualified to complete the feasibility study in accordance with the criteria promulgated under subsection (d); and
+&emsp;&emsp;(i) the non-Federal entity is qualified to complete the feasibility study in accordancewith the criteria promulgated under subsection (d); and
 
 &emsp;&emsp;(ii) using the non-Federal project entity to conduct the feasibility study is a cost-effective alternative for completing the appraisal investigation; or
 

@@ -12,5 +12,5 @@ Each department, agency, or other instrumentality of the Federal Government whic
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–220 substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in introductory provisions.
+<b>1987</b>—Pub. L. 100–220 substituted "ocean, coastal, and Great Lakes resources" for "ocean and coastal resources" in introductory provisions.
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Dec. 29, 1979, Pub. L. 96–165, §9(a), 93 Stat. 1271.
 
-The word “various” is omitted as unnecessary.
+The word "various" is omitted as unnecessary.
 

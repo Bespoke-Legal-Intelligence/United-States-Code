@@ -38,5 +38,5 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550 substituted “amounts made available to the Secretary by an appropriations Act for such purpose” for “amounts available under this subchapter”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550 substituted "amounts made available to the Secretary by an appropriations Act for such purpose" for "amounts available under this subchapter".
 

@@ -34,17 +34,17 @@ Inapplicability of Certain Property Management Laws.—The conveyance or lease o
 
 #### Amendments
 
-<b>2011</b>—Subsec. (e)(2). Pub. L. 111–350, which directed substitution of “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” in subsec. (d)(2), was executed by making the substitution in subsec. (e)(2) to reflect the probable intent of Congress and the amendment by Pub. L. 110–417. See 2008 Amendment note below.
+<b>2011</b>—Subsec. (e)(2). Pub. L. 111–350, which directed substitution of "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" in subsec. (d)(2), was executed by making the substitution in subsec. (e)(2) to reflect the probable intent of Congress and the amendment by Pub. L. 110–417. See 2008 Amendment note below.
 
 <b>2008</b>—Subsecs. (c) to (e). Pub. L. 110–417 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-<b>2002</b>—Subsec. (d)(2). Pub. L. 107–217, §3(b)(23)(A), substituted “Subtitle I of title 40 and title III of the” for “The” and “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+<b>2002</b>—Subsec. (d)(2). Pub. L. 107–217, §3(b)(23)(A), substituted "Subtitle I of title 40 and title III of the" for "The" and "(41 U.S.C. 251 et seq.)" for "(40 U.S.C. 471 et seq.)".
 
-Subsec. (d)(3). Pub. L. 107–217, §3(b)(23)(B), substituted “Section 1302 of title 40” for “Section 321 of the Act of June 30, 1932 (commonly known as the Economy Act) (40 U.S.C. 303b)”.
+Subsec. (d)(3). Pub. L. 107–217, §3(b)(23)(B), substituted "Section 1302 of title 40" for "Section 321 of the Act of June 30, 1932 (commonly known as the Economy Act) (40 U.S.C. 303b)".
 
-<b>2001</b>—Subsec. (d)(4). Pub. L. 107–107 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+<b>2001</b>—Subsec. (d)(4). Pub. L. 107–107 substituted "McKinney-Vento Homeless Assistance Act" for "Stewart B. McKinney Homeless Assistance Act".
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–65 substituted “eligible entities” for “private persons”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 substituted "eligible entities" for "private persons".
 
-<b>1997</b>—Subsec. (d)(4). Pub. L. 105–85 substituted “11411” for “11401”.
+<b>1997</b>—Subsec. (d)(4). Pub. L. 105–85 substituted "11411" for "11401".
 

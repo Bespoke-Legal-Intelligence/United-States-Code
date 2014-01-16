@@ -26,7 +26,7 @@ The banks for cooperatives are authorized to make loans and commitments to eligi
 
 (4)
 
-Definition of agricultural supply.—In this subsection, the term “agricultural supply” includes—
+Definition of agricultural supply.—In this subsection, the term "agricultural supply" includes—
 
 &emsp;(A) a farm supply; and
 
@@ -56,33 +56,33 @@ The banks for cooperatives may, for the purpose of installing, maintaining, expa
 
 &emsp;(2) public and quasi-public agencies and bodies, and other public and private entities that, under authority of State or local law, establish or operate such facilities.
 
-> For purposes of this subsection, the term “rural area” means all territory of a State that is not within the outer boundary of any city or town having a population of more than 20,000 based on the latest decennial census of the United States.
+> For purposes of this subsection, the term "rural area" means all territory of a State that is not within the outer boundary of any city or town having a population of more than 20,000 based on the latest decennial census of the United States.
 
 (Pub. L. 92–181, title III, §3.7, Dec. 10, 1971, 85 Stat. 605; Pub. L. 96–592, title III, §304, Dec. 24, 1980, 94 Stat. 3444; Pub. L. 101–624, title XXIII, §2323(a), Nov. 28, 1990, 104 Stat. 4013; Pub. L. 102–237, title V, §502(e)(1), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 102–552, title V, §§504, 505, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 103–376, §3, Oct. 19, 1994, 108 Stat. 3497; Pub. L. 107–171, title V, §5402, May 13, 2002, 116 Stat. 350.)
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(1), (2)(A)(i). Pub. L. 107–171, §5402(1), substituted “agricultural supplies” for “farm supplies”.
+<b>2002</b>—Subsec. (b)(1), (2)(A)(i). Pub. L. 107–171, §5402(1), substituted "agricultural supplies" for "farm supplies".
 
 Subsec. (b)(4). Pub. L. 107–171, §5402(2), added par. (4).
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–376, §3(A), substituted “assistance to” for “assistance to (A)”, “bank for the import” for “bank for the export or import”, and “if the bank for cooperatives” for “and (B) a domestic or foreign party in which such an association has at least the minimum ownership interest approved under regulations of the Farm Credit Administration for the purpose of facilitating the association's export or import operations of the type described in subparagraph (A): <i>Provided</i>, That a”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–376, §3(A), substituted "assistance to" for "assistance to (A)", "bank for the import" for "bank for the export or import", and "if the bank for cooperatives" for "and (B) a domestic or foreign party in which such an association has at least the minimum ownership interest approved under regulations of the Farm Credit Administration for the purpose of facilitating the association's export or import operations of the type described in subparagraph (A): <i>Provided</i>, That a".
 
-Subsec. (b)(2). Pub. L. 103–376, §3(B), added par. (2) and struck out former par. (2) which read as follows: “A bank for cooperatives is authorized to make or participate in loans and commitments, and to extend other technical and financial assistance, to any domestic or foreign entity that is eligible for a guarantee or insurance as described in subparagraphs (A) and (B) with respect to transactions involving the Soviet Union (its successor entities or any of the individual republics of the Soviet Union) or an emerging democracy (as defined in section 1542(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5622 note)) for the export of agricultural commodities and products thereof from the United States, including (where applicable) the cost of freight, if in each case—
+Subsec. (b)(2). Pub. L. 103–376, §3(B), added par. (2) and struck out former par. (2) which read as follows: "A bank for cooperatives is authorized to make or participate in loans and commitments, and to extend other technical and financial assistance, to any domestic or foreign entity that is eligible for a guarantee or insurance as described in subparagraphs (A) and (B) with respect to transactions involving the Soviet Union (its successor entities or any of the individual republics of the Soviet Union) or an emerging democracy (as defined in section 1542(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5622 note)) for the export of agricultural commodities and products thereof from the United States, including (where applicable) the cost of freight, if in each case—
 
-&emsp;“(A) the loan involved is unconditionally guaranteed or insured by a department, agency, bureau, board, commission, or establishment of the United States or any corporation wholly owned directly or indirectly by the United States; and
+&emsp;"(A) the loan involved is unconditionally guaranteed or insured by a department, agency, bureau, board, commission, or establishment of the United States or any corporation wholly owned directly or indirectly by the United States; and
 
-&emsp;“(B) the guarantee or insurance—
+&emsp;"(B) the guarantee or insurance—
 
-&emsp;&emsp;“(i) covers at least 95 percent of the amount loaned for the purchase of the commodities or products; and
+&emsp;&emsp;"(i) covers at least 95 percent of the amount loaned for the purchase of the commodities or products; and
 
-&emsp;&emsp;“(ii) is issued on or before September 30, 1995.”
+&emsp;&emsp;"(ii) is issued on or before September 30, 1995."
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–552, §504, inserted “at any time (whether or not they have a loan from the bank outstanding)” after “assistance” in first sentence.
+<b>1992</b>—Subsec. (a). Pub. L. 102–552, §504, inserted "at any time (whether or not they have a loan from the bank outstanding)" after "assistance" in first sentence.
 
-Subsec. (f). Pub. L. 102–552, §505, in introductory provisions, substituted “installing, maintaining, expanding, improving, or operating” for “the installation, expansion, or improvement of” and “extending” for “to extend”.
+Subsec. (f). Pub. L. 102–552, §505, in introductory provisions, substituted "installing, maintaining, expanding, improving, or operating" for "the installation, expansion, or improvement of" and "extending" for "to extend".
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–237 designated existing provisions as par. (1), redesignated cl. (1) as (A) and inserted “or products thereof” after “commodities”, redesignated cl. (2) as (B) and substituted “subparagraph (A)” for “clause (1) of this subsection”, and added pars. (2) and (3).
+<b>1991</b>—Subsec. (b). Pub. L. 102–237 designated existing provisions as par. (1), redesignated cl. (1) as (A) and inserted "or products thereof" after "commodities", redesignated cl. (2) as (B) and substituted "subparagraph (A)" for "clause (1) of this subsection", and added pars. (2) and (3).
 
 <b>1990</b>—Subsec. (f). Pub. L. 101–624 added subsec. (f).
 

@@ -10,9 +10,9 @@ Based on 44 U.S. Code, 1964 ed., §373 (July 7, 1943, ch. 192, §8, 57 Stat. 382
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–497 substituted “Archivist” for “Administrator of General Services”.
+<b>1984</b>—Pub. L. 98–497 substituted "Archivist" for "Administrator of General Services".
 
-<b>1970</b>—Pub. L. 91–287 struck out “by Congress” after “authorized”.
+<b>1970</b>—Pub. L. 91–287 struck out "by Congress" after "authorized".
 
 #### Effective Date of 1984 Amendment
 

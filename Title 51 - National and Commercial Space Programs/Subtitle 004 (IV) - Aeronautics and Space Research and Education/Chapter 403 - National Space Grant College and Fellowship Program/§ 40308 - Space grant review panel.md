@@ -64,7 +64,7 @@ Historical and Revision Notes
 
 Pub. L. 100–147, title II, §210, Oct. 30, 1987, 101 Stat. 874.
 
-In subsection (a), the word “provisions” is substituted for “provisons” to correct an error in the law.
+In subsection (a), the word "provisions" is substituted for "provisons" to correct an error in the law.
 
 #### References in Text
 

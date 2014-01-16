@@ -66,5 +66,5 @@ A State other credit support program approved under this section will be eligibl
 
 (Pub. L. 111–240, title III, §3006, Sept. 27, 2010, 124 Stat. 2577.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Secretary”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Secretary".</i>
 

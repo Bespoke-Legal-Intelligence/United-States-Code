@@ -4,7 +4,7 @@
 
 The Secretary is authorized to—
 
-&emsp;(1) establish two centers for gifted and talented Indian students at tribally controlledcommunity colleges in accordance with this section; and
+&emsp;(1) establish two centers for gifted and talented Indian students at tribally controlled community colleges in accordance with this section; and
 
 &emsp;(2) support demonstration projects described in subsection (c) of this section.
 
@@ -72,7 +72,7 @@ The Secretary shall make grants, or enter into contracts, for the activities des
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of the Interior, shall award 5 grants to schools funded by the Bureau of Indian Affairs (hereafter referred to individually in this section as a “Bureau school”) for program research and development and the development and dissemination of curriculum and teacher training material, regarding—
+&emsp;The Secretary, in consultation with the Secretary of the Interior, shall award 5 grants to schools funded by the Bureau of Indian Affairs (hereafter referred to individually in this section as a "Bureau school") for program research and development and the development and dissemination of curriculum and teacher training material, regarding—
 
 &emsp;&emsp;(A) gifted and talented students;
 
@@ -112,7 +112,7 @@ The Secretary shall make grants, or enter into contracts, for the activities des
 
 #### (A) Division
 
-&emsp;&emsp;The costs of evaluating any activities assisted under paragraph (1) shall be divided between the Bureau schools conducting such activities and the recipients of grants or contracts under subsection (b) of this section who conduct demonstration projects under subsection (a) of this section.
+&emsp;&emsp;The costs of evaluating any activities assisted under paragraph (1) shall be divided between the Bureau schools conducting suchactivities and the recipients of grants or contracts under subsection (b) of this section who conduct demonstration projects under subsection (a) of this section.
 
 #### (B) Grants and contracts
 
@@ -142,5 +142,5 @@ A prior section 7454, Pub. L. 89–10, title VII, §7134, as added Pub. L. 103�
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1)(A). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+<b>2008</b>—Subsec. (b)(1)(A). Pub. L. 110–315 substituted "the Tribally Controlled Colleges and Universities Assistance Act of 1978" for "the Tribally Controlled College or University Assistance Act of 1978".
 

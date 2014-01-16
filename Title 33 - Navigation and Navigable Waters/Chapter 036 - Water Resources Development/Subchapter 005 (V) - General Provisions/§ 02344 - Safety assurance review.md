@@ -48,7 +48,7 @@ This section shall apply to any project in design or under construction on Novem
 
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 

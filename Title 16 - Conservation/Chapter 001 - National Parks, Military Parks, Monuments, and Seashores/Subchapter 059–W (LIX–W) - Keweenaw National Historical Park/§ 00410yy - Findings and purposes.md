@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(6) The corporate-sponsored community planning in Calumet, Michigan, as evidenced in the architecture, municipal design, surnames, foods, and traditions, and the large scale corporate paternalism was unprecedented in American industry and continues to express the heritage of the district.
 
-&emsp;(7) The entire picture of copper mining on Michigan's Keweenaw Peninsula is best represented by three components: the Village of Calumet, the former Calumet and Hecla Mining Company properties (including the Osceola \#13 mine complex), and the former Quincy Mining Company properties. The Village of Calumet best represents the social, ethnic, and commercial themes. Extant Calumet and Hecla buildings best depict corporate paternalism and power, and the themes of extraction and processing are best represented by extant structures of the Quincy Mining Company.
+&emsp;(7) The entire picture of copper mining on Michigan's Keweenaw Peninsula is best represented by three components: the Village ofCalumet, the former Calumet and Hecla Mining Company properties (including the Osceola \#13 mine complex), and the former Quincy Mining Company properties. The Village of Calumet best represents the social, ethnic, and commercial themes. Extant Calumet and Hecla buildings best depict corporate paternalism and power, and the themes of extraction and processing are best represented by extant structures of the Quincy Mining Company.
 
 &emsp;(8) The Secretary of the Interior has designated two National Historic Landmark Districts in the proposed park area, the Calumet National Historic Landmark District and the Quincy Mining Company National Historic Landmark District.
 

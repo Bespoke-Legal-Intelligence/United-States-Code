@@ -72,7 +72,7 @@ There is established a State Homeland Security Grant Program to assist State, lo
 
 &emsp;In allocating funds under this section, the Administrator shall ensure that—
 
-&emsp;&emsp;(A) except as provided in subparagraph (B), each State receives, from the funds appropriated for the State Homeland SecurityGrant Program established under this section, not less than an amount equal to—
+&emsp;&emsp;(A) except as provided in subparagraph (B), each State receives, from the funds appropriated for the State Homeland Security Grant Program established under this section, not less than an amount equal to—
 
 &emsp;&emsp;&emsp;(i) 0.375 percent of the total funds appropriated for grants under this section and section 604 of this title in fiscal year 2008;
 

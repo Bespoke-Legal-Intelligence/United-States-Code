@@ -1,6 +1,6 @@
 ### §753. Reporters
 
-(a) Each district court of the United States, the United States District Court for the Districtof the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands shall appoint one or more court reporters.
+(a) Each district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands shall appoint one or more court reporters.
 
 The number of reporters shall be determined by the Judicial Conference of the United States.
 
@@ -20,7 +20,7 @@ The reporter or other designated individual shall promptly deliver to the clerk 
 
 The transcript in any case certified by the reporter or other individual designated to produce the record shall be deemed prima facie a correct statement of the testimony taken and proceedings had. No transcripts of the proceedings of the court shall be considered as official except those made from the records certified by the reporter or other individual designated to produce the record.
 
-The original notes or other original records and the copy of the transcript in the office of the clerk shall be open during office hours to inspection by any person without charge.
+The original notes or other original records and the copy of the transcript in the office ofthe clerk shall be open during office hours to inspection by any person without charge.
 
 (c) The reporters shall be subject to the supervision of the appointing court and the Judicial Conference in the performance of their duties, including dealings with parties requesting transcripts.
 
@@ -52,9 +52,9 @@ Section consolidates section 9a(a), (b), (c), (d) of title 28, U.S.C., 1940 ed.,
 
 The provisions of section 644 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, relating to clerks and deputy clerks, were incorporated in section 751 of this title. The provision of said section 644 fixing the salary of the reporter at $1,200 per annum was omitted as inconsistent with this section. Certain other provisions of said section 644 were also omitted. (See reviser's note under section 751 of this title.)
 
-Words “including the District Court of the United States for the District of Columbia, and the district courts in the territories and insular possessions” were omitted as covered by “Each district court in the United States, the District Court for the Territory of Alaska, the United States District Court for the District of the Canal Zone, and the District Court of the Virgin Islands.” (See reviser's note under section 88 of this title.) The courts in Hawaii and Puerto Rico are district courts of the United States under definitive section 451 of this title.
+Words "including the District Court of the United States for the District of Columbia, and the district courts in the territories and insular possessions" were omitted as covered by "Each district court in the United States, the District Court for the Territory of Alaska, the United States District Court for the District of the Canal Zone, and the District Court of the Virgin Islands." (See reviser's note under section 88 of this title.) The courts in Hawaii and Puerto Rico are district courts of the United States under definitive section 451 of this title.
 
-Words “for the performance of the duties combined” were substituted for “therefor, as provided by subsection (c) hereof, any provision of law to the contrary notwithstanding”.
+Words "for the performance of the duties combined" were substituted for "therefor, as provided by subsection (c) hereof, any provision of law to the contrary notwithstanding".
 
 Subsections (e) and (f) of this section incorporate part of the provisions of subsection 9a(c) of title 28, U.S.C., 1940 ed. The other provisions of said subsection are incorporated in sections 550 \[see Prior Provisions note under that section\] and 1915 of this title.
 
@@ -66,9 +66,9 @@ The Criminal Justice Act, referred to in subsec. (f), probably means Pub. L. 88�
 
 #### Amendments
 
-<b>2011</b>—Subsec. (g). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes of the United States, as amended (41 U.S.C. 5)”.
+<b>2011</b>—Subsec. (g). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 3709 of the Revised Statutes of the United States, as amended (41 U.S.C. 5)".
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–317 inserted “For the purposes of subchapter III of chapter 83 of title 5 and chapter 84 of such title, a reporter shall be considered a full-time employee during any pay period for which a reporter receives a salary at the annual salary rate fixed for a full-time reporter under the preceding sentence.” after first sentence.
+<b>1996</b>—Subsec. (e). Pub. L. 104–317 inserted "For the purposes of subchapter III of chapter 83 of title 5 and chapter 84 of such title, a reporter shall be considered a full-time employee during any pay period for which a reporter receives a salary at the annual salary rate fixed for a full-time reporter under the preceding sentence." after first sentence.
 
 <b>1982</b>—Subsec. (b). Pub. L. 97–164, amended subsec. (b) generally, substituting provisions permitting proceedings to be recorded using electronic sound recording, or any other method, subject to the approval and authorization of the Judicial Conference and of the presiding judge, for provisions requiring that an official court reporter attend each session of the court and every other proceeding designated by rule or order of the court or one of the judges.
 
@@ -106,11 +106,11 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 #### Savings Provision
 
-Pub. L. 97–164, title IV, §401(b), Apr. 2, 1982, 96 Stat. 57, provided that: “The regulations promulgated by the Judicial Conference pursuant to subsection (b) of section 753 of title 28, as amended by subsection (a) of this section, shall not take effect before one year after the effective date of this Act \[Oct. 1, 1982\]. During the one-year period after the date of the enactment of this Act \[Apr. 2, 1982\], the Judicial Conference shall experiment with the different methods of recording court proceedings. Prior to the effective date of such regulations, the law and regulations in effect the day before the date of enactment of this Act shall remain in full force and effect.”
+Pub. L. 97–164, title IV, §401(b), Apr. 2, 1982, 96 Stat. 57, provided that: "The regulations promulgated by the Judicial Conference pursuant to subsection (b) of section 753 of title 28, as amended by subsection (a) of this section, shall not take effect before one year after the effective date of this Act \[Oct. 1, 1982\]. During the one-year period after the date of the enactment of this Act \[Apr. 2, 1982\], the Judicial Conference shall experiment with the different methods of recording court proceedings. Prior to the effective date of such regulations, the law and regulations in effect the day before the date of enactment of this Act shall remain in full force and effect."
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Salary Limitation for Court Reporters
 
@@ -122,7 +122,7 @@ For termination of the United States District Court for the District of the Cana
 
 <b>1964</b>—Pub. L. 88–426, title IV, §402(c), Aug. 14, 1964, 78 Stat. 434, inserted a new salary limitation for court reporters which reflected the applicable pay increases provided by title I of Pub. L. 88–426 in corresponding rates of compensation for particular government officers and employees.
 
-<b>1962</b>—Pub. L. 87–793, title VI, §1004(c), Oct. 11, 1962, 76 Stat. 866, inserted a new salary limitation for court reporters effective for the pay period beginning on or after Oct. 11, 1962, and ending immediately prior to the first pay period beginning on or after Jan. 1, 1964, and provided for a second salary limitation effective for the first pay period beginning on or after Jan. 1, 1964, which reflected applicable pay increases provided by title II of Pub. L. 87–793 in corresponding rates of compensation for particular government officers and employees.
+<b>1962</b>—Pub. L. 87–793, title VI, §1004(c), Oct. 11, 1962, 76 Stat. 866, inserted a new salary limitation for court reporters effective for the pay period beginning on or after Oct. 11, 1962, and ending immediately prior to the first pay period beginning on or after Jan. 1, 1964, andprovided for a second salary limitation effective for the first pay period beginning on or after Jan. 1, 1964, which reflected applicable pay increases provided by title II of Pub. L. 87–793 in corresponding rates of compensation for particular government officers and employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “or as”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "or as".</i>
 

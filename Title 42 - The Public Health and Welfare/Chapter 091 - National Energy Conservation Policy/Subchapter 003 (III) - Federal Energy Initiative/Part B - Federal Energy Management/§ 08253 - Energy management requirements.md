@@ -2,7 +2,7 @@
 
 #### (a) Energy performance requirement for Federal buildings
 
-(1) Subject to paragraph (2), each agency shall apply energy conservation measures to, and shall improve the design for the construction of, the Federal buildings of the agency (including each industrial or laboratory facility) so that the energy consumption per gross square foot of the Federal buildings of the agency in fiscal years 2006 through 2015 is reduced, as compared with the energy consumption per gross square foot of the Federal buildings of the agency in fiscal year 2003, by the percentage specified in the following table:
+(1) Subject to paragraph (2), each agency shall apply energy conservation measures to, andshall improve the design for the construction of, the Federal buildings of the agency (including each industrial or laboratory facility) so that the energy consumption per gross square foot of the Federal buildings of the agency in fiscal years 2006 through 2015 is reduced, as compared with the energy consumption per gross square foot of the Federal buildings of the agency in fiscal year 2003, by the percentage specified in the following table:
 
 <b>Fiscal Year</b>
 
@@ -66,7 +66,7 @@
 
 (3) This subsection shall not apply to an agency's facilities that generate or transmit electric energy or to the uranium enrichment facilities operated by the Department of Energy.
 
-(4) An agency may participate in the Environmental Protection Agency's “Green Lights” program for purposes of receiving technical assistance in complying with the requirements of this section.
+(4) An agency may participate in the Environmental Protection Agency's "Green Lights" program for purposes of receiving technical assistance in complying with the requirements of this section.
 
 #### (c) Exclusions
 
@@ -104,7 +104,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;(D) otherwise implement this part;
 
-&emsp;(2) perform energy surveys of its Federal buildings to the extent necessary and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to section 8258b of this title;
+&emsp;(2) perform energy surveys of its Federal buildings to the extent necessary and update such surveys as needed, incorporating any relevant information obtained from the surveyconducted pursuant to section 8258b of this title;
 
 &emsp;(3) using such surveys, determine the cost and payback period of energy and water conservation measures likely to achieve the requirements of this section;
 
@@ -138,7 +138,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;&emsp;(ii) include recommendations concerning the amount of funds and the number of trained personnel necessary to gather and use the metering information to track and reduce energy use;
 
-&emsp;&emsp;&emsp;(iii) establish priorities for types and locations of buildings to be metered based oncost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, on which the requirements specified in paragraph (1) shall take effect; and
+&emsp;&emsp;&emsp;(iii) establish priorities for types and locations of buildings to be metered based on cost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, on which the requirements specified in paragraph (1) shall take effect; and
 
 &emsp;&emsp;&emsp;(iv) establish exclusions from the requirements specified in paragraph (1) based on the de minimis quantity of energy use of a Federal building, industrial process, or structure.
 
@@ -184,7 +184,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (A) Commissioning
 
-&emsp;&emsp;The term “commissioning”, with respect to a facility, means a systematic process—
+&emsp;&emsp;The term "commissioning", with respect to a facility, means a systematic process—
 
 &emsp;&emsp;&emsp;(i) of ensuring, using appropriate verification and documentation, during the period beginning on the initial day of the design phase of the facility and ending not earlier than 1 year after the date of completion of construction of the facility, that all facility systems perform interactively in accordance with—
 
@@ -198,7 +198,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “energy manager”, with respect to a facility, means the individual who is responsible for—
+&emsp;&emsp;&emsp;The term "energy manager", with respect to a facility, means the individual who is responsible for—
 
 &emsp;&emsp;&emsp;&emsp;(I) ensuring compliance with this subsection by the facility; and
 
@@ -206,7 +206,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (ii) Inclusions
 
-&emsp;&emsp;&emsp;The term “energy manager” may include—
+&emsp;&emsp;&emsp;The term "energy manager" may include—
 
 &emsp;&emsp;&emsp;&emsp;(I) a contractor of a facility;
 
@@ -218,11 +218,11 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “facility” means any building, installation, structure, or other property (including any applicable fixtures) owned or operated by, or constructed or manufactured and leased to, the Federal Government.
+&emsp;&emsp;&emsp;The term "facility" means any building, installation, structure, or other property (including any applicable fixtures) owned or operated by, or constructed or manufactured and leased to, the Federal Government.
 
 #### (ii) Inclusions
 
-&emsp;&emsp;&emsp;The term “facility” includes—
+&emsp;&emsp;&emsp;The term "facility" includes—
 
 &emsp;&emsp;&emsp;&emsp;(I) a group of facilities at a single location or multiple locations managed as an integrated operation; and
 
@@ -230,17 +230,17 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (iii) Exclusions
 
-&emsp;&emsp;&emsp;The term “facility” does not include any land or site for which the cost of utilities is not paid by the Federal Government.
+&emsp;&emsp;&emsp;The term "facility" does not include any land or site for which the cost of utilities is not paid by the Federal Government.
 
 #### (D) Life cycle cost-effective
 
-&emsp;&emsp;The term “life cycle cost-effective”, with respect to a measure, means a measure, the estimated savings of which exceed the estimated costs over the lifespan of the measure, as determined in accordance with section 8254 of this title.
+&emsp;&emsp;The term "life cycle cost-effective", with respect to a measure, means a measure, the estimated savings of which exceed the estimated costs over the lifespan of the measure, as determined in accordance with section 8254 of this title.
 
 #### (E) Payback period
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the term “payback period”, with respect to a measure, means a value equal to the quotient obtained by dividing—
+&emsp;&emsp;&emsp;Subject to clause (ii), the term "payback period", with respect to a measure, means a value equal to the quotient obtained by dividing—
 
 &emsp;&emsp;&emsp;&emsp;(I) the estimated initial implementation cost of the measure (other than financing costs); by
 
@@ -256,7 +256,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (F) Recommissioning
 
-&emsp;&emsp;The term “recommissioning” means a process—
+&emsp;&emsp;The term "recommissioning" means a process—
 
 &emsp;&emsp;&emsp;(i) of commissioning a facility or system beyond the project development and warranty phases of the facility or system; and
 
@@ -264,7 +264,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (G) Retrocommissioning
 
-&emsp;&emsp;The term “retrocommissioning” means a process of commissioning a facility or system that was not commissioned at the time of construction of the facility or system.
+&emsp;&emsp;The term "retrocommissioning" means a process of commissioning a facility or system that was not commissioned at the time of construction of the facility or system.
 
 #### (2) Facility energy managers
 
@@ -284,7 +284,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (B) Recommissioning and retrocommissioning
 
-&emsp;&emsp;As part of the evaluation under subparagraph (A), the energy manager shall identify and assess recommissioning measures (or, if the facility has never been commissioned, retrocommissioning measures) for each such facility.
+&emsp;&emsp;As part of the evaluation under subparagraph (A), the energy manager shall identifyand assess recommissioning measures (or, if the facility has never been commissioned, retrocommissioning measures) for each such facility.
 
 #### (4) Implementation of identified energy and water efficiency measures
 
@@ -386,7 +386,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (C) Public disclosure
 
-&emsp;&emsp;Each energy manager shall post the information entered into, or generated by, a benchmarking system under this subsection, on the web-based tracking system under paragraph (7)(B). The energy manager shall update such information each year, and shall include in such reporting previous years’ information to allow changes in building performance to be tracked over time.
+&emsp;&emsp;Each energy manager shall post the information entered into, or generated by, a benchmarking system under this subsection,on the web-based tracking system under paragraph (7)(B). The energy manager shall update such information each year, and shall include in such reporting previous years' information to allow changes in building performance to be tracked over time.
 
 #### (9) Federal agency scorecards
 
@@ -434,7 +434,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (1) In general
 
-&emsp;Each Federal agency shall ensure that any large capital energy investment in an existing building that is not a major renovation but involves replacement of installed equipment (such as heating and cooling systems), or involves renovation, rehabilitation, expansion, or remodeling of existing space, employs themost energy efficient designs, systems, equipment, and controls that are life-cycle cost effective.
+&emsp;Each Federal agency shall ensure that any large capital energy investment in an existing building that is not a major renovation but involves replacement of installed equipment (such as heating and cooling systems), or involves renovation, rehabilitation, expansion, or remodeling of existing space, employs the most energy efficient designs, systems, equipment, and controls that are life-cycle cost effective.
 
 #### (2) Process for review of investment decisions
 
@@ -452,29 +452,29 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c)(1)(A)(iii) and (f)(1)(E)(ii), was in the original “this Act”, meaning Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of this title and Tables.
+This chapter, referred to in subsecs. (c)(1)(A)(iii) and (f)(1)(E)(ii), was in the original "this Act", meaning Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of this title and Tables.
 
 The Energy Policy Act of 1992, referred to in subsec. (c)(1)(A)(iii), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (e)(3), (4). Pub. L. 112–210, §8, added pars. (3) and (4) and struck out former par. (3). Prior to amendment, text read as follows: “Not later than 6 months after the date guidelines are established under paragraph (2), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing how the agency will implement the requirements of paragraph (1), including (A) how the agency will designate personnel primarily responsible for achieving the requirements and (B) demonstration by the agency, complete with documentation, of any finding that advanced meters or advanced metering devices, as defined in paragraph (1), are not practicable.”
+<b>2012</b>—Subsec. (e)(3), (4). Pub. L. 112–210, §8, added pars. (3) and (4) and struck out former par. (3). Prior to amendment, text read as follows: "Not later than 6 months after the date guidelines are established under paragraph (2), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing how the agency will implement the requirements of paragraph (1), including (A) how the agency will designate personnel primarily responsible for achieving the requirements and (B) demonstration by the agency, complete with documentation, of any finding that advanced meters or advanced metering devices, as defined in paragraph (1), are not practicable."
 
 Subsec. (f). Pub. L. 112–210, §9(1), redesignated subsec. (f) relating to large capital energy investments as (g).
 
-Subsec. (f)(7)(A). Pub. L. 112–210, §9(2), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “For each facility that meets the criteria established by the Secretary under paragraph (2)(B), the energy manager shall use the web-based tracking system under subparagraph (B) to certify compliance with the requirements for—
+Subsec. (f)(7)(A). Pub. L. 112–210, §9(2), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "For each facility that meets the criteria established by the Secretary under paragraph (2)(B), the energy manager shall use the web-based tracking system under subparagraph (B) to certify compliance with the requirements for—
 
-&emsp;“(i) energy and water evaluations under paragraph (3);
+&emsp;"(i) energy and water evaluations under paragraph (3);
 
-&emsp;“(ii) implementation of identified energy and water measures under paragraph (4); and
+&emsp;"(ii) implementation of identified energy and water measures under paragraph (4); and
 
-&emsp;“(iii) follow-up on implemented measures under paragraph (5).”
+&emsp;"(iii) follow-up on implemented measures under paragraph (5)."
 
 Subsec. (g). Pub. L. 112–210, §9(1), redesignated subsec. (f) relating to large capital energy investments as (g).
 
 <b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §431, added table and struck out former table which listed percentage reductions for fiscal years as follows: 2 percent for fiscal year 2006, 4 percent for fiscal year 2007, 6 percent for fiscal year 2008, 8 percent for fiscal year 2009, 10 percent for fiscal year 2010, 12 percent for fiscal year 2011, 14 percent for fiscal year 2012, 16 percent for fiscal year 2013, 18 percent for fiscal year 2014, and 20 percent for fiscal year 2015.
 
-Subsec. (e)(1). Pub. L. 110–140, §434(b), inserted after second sentence “Not later than October 1, 2016, each agency shall provide for equivalent metering of natural gas and steam, in accordance with guidelines established by the Secretary under paragraph (2).”
+Subsec. (e)(1). Pub. L. 110–140, §434(b), inserted after second sentence "Not later than October 1, 2016, each agency shall provide for equivalent metering of natural gas and steam, in accordance with guidelines established by the Secretary under paragraph (2)."
 
 Subsec. (f). Pub. L. 110–140, §434(a), added subsec. (f) relating to large capital energy investments.
 
@@ -484,29 +484,29 @@ Pub. L. 110–140, §432, added subsec. (f) relating to use of energy and water 
 
 Subsec. (a)(3). Pub. L. 109–58, §102(b), added par. (3).
 
-Subsec. (c)(1). Pub. L. 109–58, §102(c), added par. (1) and struck out former par. (1) which read as follows: “An agency may exclude, from the energy consumption requirements for the year 2000 established under subsection (a) of this section and the requirements of subsection (b)(1) of this section, any Federal building or collection of Federal buildings, and the associated energy consumption and gross square footage, if the head of such agency finds that compliance with such requirements would be impractical. A finding of impracticability shall be based on the energy intensiveness of activities carried out in such Federal buildings or collection of Federal buildings, the type and amount of energy consumed, the technical feasibility of making the desired changes, and, in the cases of the Departments of Defense and Energy, the unique character of certain facilities operated by such Departments.”
+Subsec. (c)(1). Pub. L. 109–58, §102(c), added par. (1) and struck out former par. (1) which read as follows: "An agency may exclude, from the energy consumption requirements for the year 2000 established under subsection (a) of this section and the requirements of subsection (b)(1) of this section, any Federal building or collection of Federal buildings, and the associated energy consumption and gross square footage, if the head of such agency finds that compliance with such requirements would be impractical. A finding of impracticability shall be based on the energy intensiveness of activities carried out in such Federal buildings or collection of Federal buildings, the type and amount of energy consumed, the technical feasibility of making the desired changes, and, in the cases of the Departments of Defense and Energy, the unique character of certain facilities operated by such Departments."
 
-Subsec. (c)(2). Pub. L. 109–58, §102(d), substituted “standards for exclusion” for “impracticability standards”, “the exclusion” for “a finding of impracticability”, and “requirements of subsections (a) and (b)(1) of this section” for “energy consumption requirements”.
+Subsec. (c)(2). Pub. L. 109–58, §102(d), substituted "standards for exclusion" for "impracticability standards", "the exclusion" for "a finding of impracticability", and "requirements of subsections (a) and (b)(1) of this section" for "energy consumption requirements".
 
 Subsec. (c)(3). Pub. L. 109–58, §102(e), added par. (3).
 
 Subsec. (e). Pub. L. 109–58, §103, added subsec. (e).
 
-<b>1995</b>—Subsec. (b)(2). Pub. L. 104–66 in last sentence inserted “, as part of the report required under section 8258(b) of this title,” after “the Secretary shall” and struck out “promptly” after “Congress”.
+<b>1995</b>—Subsec. (b)(2). Pub. L. 104–66 in last sentence inserted ", as part of the report required under section 8258(b) of this title," after "the Secretary shall" and struck out "promptly" after "Congress".
 
-<b>1992</b>—Pub. L. 102–486, §152(b)(1), substituted “requirements” for “goals” in section catchline.
+<b>1992</b>—Pub. L. 102–486, §152(b)(1), substituted "requirements" for "goals" in section catchline.
 
-Subsec. (a). Pub. L. 102–486, §152(b)(2), (3), in heading substituted “requirement” for “goal” and in par. (1) inserted before period at end “and so that the energy consumption per gross square foot of its Federal buildings in use during the fiscal year 2000 is at least 20 percent less than the energy consumption per gross square foot of its Federal buildings in use during fiscal year 1985”.
+Subsec. (a). Pub. L. 102–486, §152(b)(2), (3), in heading substituted "requirement" for "goal" and in par. (1) inserted before period at end "and so that the energy consumption per gross square foot of its Federal buildings in use during the fiscal year 2000 is at least 20 percent less than the energy consumption per gross square foot of its Federal buildings in use during fiscal year 1985".
 
 Subsecs. (b), (c). Pub. L. 102–486, §152(b)(4), added subsecs. (b) and (c). Former subsec. (b) redesignated (d).
 
-Subsec. (d). Pub. L. 102–486, §152(b)(4), (c)(1), redesignated subsec. (b) as (d) and in introductory provisions substituted “The Secretary shall consult with the Secretary of Defense and the Administrator of General Services in developing guidelines for the implementation of this part. To meet the requirements of this section,” for “To achieve the goal established in subsection (a) of this section,”.
+Subsec. (d). Pub. L. 102–486, §152(b)(4), (c)(1), redesignated subsec. (b) as (d) and in introductory provisions substituted "The Secretary shall consult with the Secretary of Defense and the Administrator of General Services in developing guidelines for the implementation of this part. To meet the requirements of this section," for "To achieve the goal established in subsection (a) of this section,".
 
-Subsec. (d)(1). Pub. L. 102–486, §152(c)(2), added par. (1) and struck out former par. (1) which read as follows:“prepare or update, within 6 months after November 5, 1988, a plan describing how the agency intends to meet such goal, including how it will implement this part, designate personnel primarily responsible for achieving such goal, and identify high priority projects;”.
+Subsec. (d)(1). Pub. L. 102–486, §152(c)(2), added par. (1) and struck out former par. (1) which read as follows: "prepare or update, within 6 months after November 5, 1988, a plan describing how the agency intends to meet such goal, including how it will implement this part, designate personnel primarily responsible for achieving such goal, and identify high priority projects;".
 
-Subsec. (d)(2). Pub. L. 102–486, §152(c)(3), inserted before semicolon at end “and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to section 8258b of this title”.
+Subsec. (d)(2). Pub. L. 102–486, §152(c)(3), inserted before semicolon at end "and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to section 8258b of this title".
 
-Subsec. (d)(3) to (5). Pub. L. 102–486, §152(c)(4), (5), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “using such surveys, apply energy conservation measures in a manner which will attain the goal established in subsection (a) of this section in the most cost-effective manner practicable; and”.
+Subsec. (d)(3) to (5). Pub. L. 102–486, §152(c)(4), (5), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: "using such surveys, apply energy conservation measures in a manner which will attain the goal established in subsection (a) of this section in the most cost-effective manner practicable; and".
 
 <b>1988</b>—Pub. L. 100–615 amended section generally, substituting energy management goals statement for statement of purpose to promote (1) use of commonly accepted methods to establish and compare life cycle costs of operating Federal buildings, and life cycle fuel and energy requirements of such buildings, with and without special features for energy conservation and (2) use of solar heating and cooling and other renewable energy sources in Federal buildings.
 
@@ -516,7 +516,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Reporting Baseline
 
-Pub. L. 109–58, title I, §102(a)(2), Aug. 8, 2005, 119 Stat. 606, provided that: “The energy reduction goals and baseline established in paragraph (1) of section 543(a) of the National Energy Conservation Policy Act (42 U.S.C. 8253(a)(1)), as amended by this subsection, supersede all previous goals and baselines under such paragraph, and related reporting requirements.”
+Pub. L. 109–58, title I, §102(a)(2), Aug. 8, 2005, 119 Stat. 606, provided that: "The energy reduction goals and baseline established in paragraph (1) of section 543(a) of the National Energy Conservation Policy Act (42 U.S.C. 8253(a)(1)), as amended by this subsection, supersede all previous goals and baselines under such paragraph, and related reporting requirements."
 
 #### Survey of Energy Saving Potential
 

@@ -14,7 +14,7 @@ Authority of the Secretary To Allow Limitations, Variations, Tolerances, and Exe
 
 (d)
 
-Rate of Pay for Overtime.—When the Secretary permits an increase in the maximum hours of labor stipulated in a contract, the Secretary shall set a rate of pay for overtime. The overtime rate must be at least one and one-half times the basic hourly rate.
+Rate of Pay for Overtime.—When the Secretary permits an increase in the maximumhours of labor stipulated in a contract, the Secretary shall set a rate of pay for overtime. The overtime rate must be at least one and one-half times the basic hourly rate.
 
 (e)
 
@@ -54,13 +54,13 @@ June 30, 1936, ch. 881, §6, 49 Stat. 2038; June 28, 1940, ch. 440, title I, §1
 
 41:40 (last sentence proviso).
 
-In subsection (a), the words “an agency of the United States” are substituted for “the contracting agency or department” for consistency in the chapter. Commas are inserted after “exceptions” and “otherwise” to clarify that the words “when justice or the public interest will be served” apply to exceptions in “specific cases” as well as “otherwise”. The word “thereby” is omitted as unnecessary.
+In subsection (a), the words "an agency of the United States" are substituted for "the contracting agency or department" for consistency in the chapter. Commas are inserted after "exceptions" and "otherwise" to clarify that the words "when justice or the public interest will be served" apply to exceptions in "specific cases" as well as "otherwise". The word "thereby" is omitted as unnecessary.
 
-In subsection (b), the words “an agency of the United States” are substituted for “the contracting agency”, and the words “minimum wages” are substituted for “minimum rates of pay”, for consistency in the chapter.
+In subsection (b), the words "an agency of the United States" are substituted for "the contracting agency", and the words "minimum wages" are substituted for "minimum rates of pay", for consistency in the chapter.
 
-In subsection (c), the word “rules” is omitted as included in “regulations”. The words “as hereinbefore described” are omitted as unnecessary. The words “minimum wages” are substituted for “minimum rates of pay” for consistency in the chapter.
+In subsection (c), the word "rules" is omitted as included in "regulations". The words "as hereinbefore described" are omitted as unnecessary. The words "minimum wages" are substituted for "minimum rates of pay" for consistency in the chapter.
 
-In subsection (d), the words “received by any employee affected” are omitted as unnecessary.
+In subsection (d), the words "received by any employee affected" are omitted as unnecessary.
 
-In subsection (e), the words “or all” are omitted as unnecessary.
+In subsection (e), the words "or all" are omitted as unnecessary.
 

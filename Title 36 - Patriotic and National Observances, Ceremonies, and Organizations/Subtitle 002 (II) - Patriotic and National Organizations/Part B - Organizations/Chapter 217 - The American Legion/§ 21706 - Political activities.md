@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Sept. 16, 1919, ch. 59, §6, 41 Stat. 285.
 
-The words “as an organization” are omitted as unnecessary.
+The words "as an organization" are omitted as unnecessary.
 

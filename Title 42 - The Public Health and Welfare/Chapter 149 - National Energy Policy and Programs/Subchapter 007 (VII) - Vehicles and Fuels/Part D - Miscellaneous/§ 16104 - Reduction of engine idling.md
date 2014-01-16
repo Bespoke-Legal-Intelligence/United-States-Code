@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Environmental Protection Agency.
+&emsp;The term "Administrator" means the Administrator of the Environmental Protection Agency.
 
 #### (2) Advanced truck stop electrification system
 
-&emsp;The term “advanced truck stop electrification system” means a stationary system that delivers heat, air conditioning, electricity, or communications, and is capable of providing verifiable and auditable evidence of use of those services, to a heavy-duty vehicle and any occupants of the heavy-duty vehicle with or without relying on components mounted onboard the heavy-duty vehicle for delivery of those services.
+&emsp;The term "advanced truck stop electrification system" means a stationary system that delivers heat, air conditioning, electricity, or communications, and is capable of providing verifiable and auditable evidence of use of those services, to a heavy-duty vehicle and any occupants of the heavy-duty vehicle with or without relying on components mounted onboard the heavy-duty vehicle for delivery of those services.
 
 #### (3) Auxiliary power unit
 
-&emsp;The term “auxiliary power unit” means an integrated system that—
+&emsp;The term "auxiliary power unit" means an integrated system that—
 
 &emsp;&emsp;(A) provides heat, air conditioning, engine warming, or electricity to components on a heavy-duty vehicle; and
 
@@ -22,7 +22,7 @@ In this section:
 
 #### (4) Heavy-duty vehicle
 
-&emsp;The term “heavy-duty vehicle” means a vehicle that—
+&emsp;The term "heavy-duty vehicle" means a vehicle that—
 
 &emsp;&emsp;(A) has a gross vehicle weight rating greater than 8,500 pounds; and
 
@@ -30,7 +30,7 @@ In this section:
 
 #### (5) Idle reduction technology
 
-&emsp;The term “idle reduction technology” means an advanced truck stop electrification system, auxiliary power unit, or other technology that—
+&emsp;The term "idle reduction technology" means an advanced truck stop electrification system, auxiliary power unit, or other technology that—
 
 &emsp;&emsp;(A) is used to reduce long-duration idling; and
 
@@ -38,17 +38,17 @@ In this section:
 
 #### (6) Energy conservation technology
 
-&emsp;the <sup>1</sup> term “energy conservation technology” means any device, system of devices, or equipment that improves the fuel economy.
+&emsp;the <sup>1</sup> term "energy conservation technology" means any device, system of devices, or equipment that improves the fuel economy.
 
 #### (7) Long-duration idling
 
 #### (A) In general
 
-&emsp;&emsp;The term “long-duration idling” means the operation of a main drive engine or auxiliary refrigeration engine, for a period greater than 15 consecutive minutes, at a time at which the main drive engine is not engaged in gear.
+&emsp;&emsp;The term "long-duration idling" means the operation of a main drive engine or auxiliary refrigeration engine, for a period greater than 15 consecutive minutes, at a time at which the main drive engine is not engaged in gear.
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “long-duration idling” does not include the operation of a main drive engine or auxiliary refrigeration engine during a routine stoppage associated with traffic movement or congestion.
+&emsp;&emsp;The term "long-duration idling" does not include the operation of a main drive engine or auxiliary refrigeration engine during a routine stoppage associated with traffic movement or congestion.
 
 #### (b) Idle reduction technology benefits, programs, and studies
 

@@ -9,9 +9,9 @@
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–508, title XI, §11704(a)(18), Nov. 5, 1990, 104 Stat. 1388–519, substituted “23A—” for “23A.” in chapter heading.
+<b>1990</b>—Pub. L. 101–508, title XI, §11704(a)(18), Nov. 5, 1990, 104 Stat. 1388–519, substituted "23A—" for "23A." in chapter heading.
 
-<b>1988</b>—Pub. L. 100–647, title VII, §7106(a), Nov. 10, 1988, 102 Stat. 3772, reenacted chapter heading and item 3321 without change, substituted “Definitions” for “Taxable period” in item 3322, and omitted item 3323 “Other definitions”.
+<b>1988</b>—Pub. L. 100–647, title VII, §7106(a), Nov. 10, 1988, 102 Stat. 3772, reenacted chapter heading and item 3321 without change, substituted "Definitions" for "Taxable period" in item 3322, and omitted item 3323 "Other definitions".
 
 
 ---

@@ -88,13 +88,13 @@ Historical and Revision Notes
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §312(i); added Nov. 5, 1990, Pub. L. 101–508, §9209(a), 104 Stat. 1388–376.
 
-In this section, the words “institutions of higher education” and “institution of higher education” are substituted for “colleges or universities” and “college or university” for consistency in the revised title.
+In this section, the words "institutions of higher education" and "institution of higher education" are substituted for "colleges or universities" and "college or university" for consistency in the revised title.
 
-In subsection (a), the words “one or more” are omitted as surplus.
+In subsection (a), the words "one or more" are omitted as surplus.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (f). Pub. L. 112–95, §907(a), amended subsec. (f) generally. Prior to amendment, text read as follows: “The United States Government's share of a grant under this section is 50 percent of the costs of establishing and operating the center and related research activities that the grant recipient carries out.”
+<b>2012</b>—Subsec. (f). Pub. L. 112–95, §907(a), amended subsec. (f) generally. Prior to amendment, text read as follows: "The United States Government's share of a grant under this section is 50 percent of the costs of establishing and operating the center and related research activities that the grant recipient carries out."
 
 Subsec. (h). Pub. L. 112–95, §907(b), added subsec. (h).
 
@@ -102,27 +102,27 @@ Subsec. (h). Pub. L. 112–95, §907(b), added subsec. (h).
 
 Pub. L. 112–95, title IX, §908, Feb. 14, 2012, 126 Stat. 140, provided that:
 
-“(a)
+"(a)
 
 Establishment.—Using amounts made available under section 48102(a) of title 49, United States Code, the Administrator \[of the Federal Aviation Administration\] may establish a center of excellence to conduct research on—
 
-&emsp;“(1) human performance in the air transportation environment, including among air transportation personnel such as air traffic controllers, pilots, and technicians; and
+&emsp;"(1) human performance in the air transportation environment, including among air transportationpersonnel such as air traffic controllers, pilots, and technicians; and
 
-&emsp;“(2) any other aviation human resource issue pertinent to developing and maintaining a safe and efficient air transportation system.
+&emsp;"(2) any other aviation human resource issue pertinent to developing and maintaining a safe and efficient air transportation system.
 
-“(b)
+"(b)
 
 Activities.—Activities conducted under this section may include the following:
 
-&emsp;“(1) Research, development, and evaluation of training programs for air traffic controllers, aviation safety inspectors, airway transportation safety specialists, and engineers.
+&emsp;"(1) Research, development, and evaluation of training programs for air traffic controllers, aviation safety inspectors, airway transportation safety specialists, and engineers.
 
-&emsp;“(2) Research and development of best practices for recruitment of individuals into the aviation field for mission critical positions.
+&emsp;"(2) Research and development of best practices for recruitment of individuals into the aviation field for mission critical positions.
 
-&emsp;“(3) Research, in consultation with other relevant Federal agencies, to develop a baseline of general aviation employment statistics and an analysis of future needs in the aviation field.
+&emsp;"(3) Research, in consultation with other relevant Federal agencies, to develop a baseline of general aviation employment statistics and an analysis of future needs in the aviation field.
 
-&emsp;“(4) Research and the development of a comprehensive assessment of the airframe and power plant technician certification process and its effect on employment trends.
+&emsp;"(4) Research and the development of a comprehensive assessment of the airframe and power plant technician certification process and its effect on employment trends.
 
-&emsp;“(5) Evaluation of aviation maintenance technician school environments.
+&emsp;"(5) Evaluation of aviation maintenance technician school environments.
 
-&emsp;“(6) Research and an assessment of the ability to develop training programs to allow for the transition of recently unemployed and highly skilled mechanics into the aviation field.”
+&emsp;"(6) Research and an assessment of the ability to develop training programs to allow for the transition of recently unemployed and highly skilled mechanics into the aviation field."
 

@@ -30,9 +30,9 @@ Historical and Revision Notes
 
 Oct. 15, 1966, Pub. L. 89–670, §4(c), 80 Stat. 933.
 
-In this subchapter, the words “duty or power” are substituted for “functions, powers, and duties” for clarity and consistency. The words “department, agency, or instrumentality of the United States Government” are substituted for “department or agency” for consistency in the revised title and with other titles of the United States Code.
+In this subchapter, the words "duty or power" are substituted for "functions, powers, and duties" for clarity and consistency. The words "department, agency, or instrumentality of the United States Government" are substituted for "department or agency" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), the word “orders” is omitted as being included in “action”.
+In subsection (a), the word "orders" is omitted as being included in "action".
 
 #### References in Text
 
@@ -40,7 +40,7 @@ The Department of Transportation Act, referred to in subsecs. (a) and (b), is Pu
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted “Federal Motor Carrier Safety Administration” for “Federal Highway Administration”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted "Federal Motor Carrier Safety Administration" for "Federal Highway Administration".
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

@@ -28,5 +28,5 @@ Historical and Revision Notes
 
 R.S. 4617.
 
-The word “diligently” is omitted as surplusage.
+The word "diligently" is omitted as surplusage.
 

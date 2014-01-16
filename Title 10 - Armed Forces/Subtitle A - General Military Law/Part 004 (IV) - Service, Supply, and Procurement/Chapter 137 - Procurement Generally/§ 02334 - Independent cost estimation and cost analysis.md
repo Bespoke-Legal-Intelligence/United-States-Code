@@ -8,7 +8,7 @@ In General.—The Director of Cost Assessment and Program Evaluation shall ensur
 
 &emsp;(2) provide guidance to and consult with the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), the Secretaries of the military departments, and the heads of the Defense Agencies with respect to cost estimation in the Department of Defense in general and with respect to specific cost estimates and cost analyses to be conducted in connection with a major defense acquisition program under chapter 144 of this title or a major automated information system program under chapter 144A of this title;
 
-&emsp;(3) issue guidance relating to the proper selection of confidence levels in cost estimates generally, and specifically, for the proper selection of confidence levels in cost estimates for major defense acquisition programs and major automated information system programs;
+&emsp;(3) issue guidance relating to the proper selection of confidence levels in cost estimates generally, and specifically, for the proper selection of confidence levels in cost estimates for major defense acquisition programs andmajor automated information system programs;
 
 &emsp;(4) issue guidance relating to full consideration of life-cycle management and sustainability costs in major defense acquisition programs and major automated information system programs;
 
@@ -26,9 +26,11 @@ In General.—The Director of Cost Assessment and Program Evaluation shall ensur
 
 &emsp;&emsp;&emsp;(iv) any report under section 2445c(f) of this title; and
 
-&emsp;&emsp;(B) at any other time considered appropriate by the Director or upon the request of the Under Secretary of Defense for Acquisition, Technology, and Logistics; and
+&emsp;&emsp;(B) at any other time considered appropriate by the Director or upon the request of the Under Secretary of Defense for Acquisition, Technology, and Logistics;
 
-&emsp;(7) periodically assess and update the cost indexes used by the Department to ensure that such indexes have a sound basis and meet the Department's needs for realistic cost estimation.
+&emsp;(7) periodically assess and update the cost indexes used by the Department to ensure that such indexes have a sound basis and meet the Department's needs for realistic cost estimation; and
+
+&emsp;(8) annually review the cost and associated information required to be included, by section 2432(c)(1) of this title, in the Selected Acquisition Reports required by that section.
 
 (b)
 
@@ -68,7 +70,7 @@ Disclosure of Confidence Levels for Baseline Estimates of Major Defense Acquisit
 
 Estimates for Program Baseline and Analyses and Targets for Contract Negotiation Purposes.—(1) The policies, procedures, and guidance issued by the Director of Cost Assessment and Program Evaluation in accordance with the requirements of subsection (a) shall provide that cost estimates developed for baseline descriptions and other program purposes conducted pursuant to subsection (a)(6) are not to be used for the purpose of contract negotiations or the obligation of funds.
 
-(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall, in consultation with the Director of Cost Assessment and Program Evaluation, develop policies, procedures, and guidance to ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are based on the Government's reasonable expectation of successful contractor performance in accordance with the contractor's proposal and previous experience.
+(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall, in consultation with the Director of Cost Assessment and Program Evaluation, develop policies, procedures, and guidance to ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are based on the Government's reasonable expectation of successful contractor performancein accordance with the contractor's proposal and previous experience.
 
 (3) The Program Manager and contracting officer for each major defense acquisition program and major automated information system program shall ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are carried out in accordance with the requirements of paragraph (1) and the policies, procedures, and guidance issued by the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2).
 
@@ -88,13 +90,15 @@ Estimates for Program Baseline and Analyses and Targets for Contract Negotiation
 
 (f)
 
-Annual Report on Cost Assessment Activities.—(1) The Director of Cost Assessment and Program Evaluation shall prepare an annual report summarizing the cost estimation and cost analysis activities of the Department of Defense during the previous year and assessing the progress of the Department in improving the accuracy of its cost estimates and analyses. Each report shall include, for the year covered by such report, an assessment of—
+Annual Report on Cost Assessment Activities.—(1) The Director of Cost Assessment and Program Evaluation shall prepare an annual report summarizing the cost estimation and cost analysis activities of the Department of Defense during the previous year and assessing the progress of the Department in improving the accuracy of its cost estimates and analyses. Each report shall include, for the year covered by such report—
 
-&emsp;(A) the extent to which each of the military departments and Defense Agencies have complied with policies, procedures, and guidance issued by the Director with regard to the preparation of cost estimates for major defense acquisition programs and major automated information systems;
+&emsp;(A) an assessment of the extent to which each of the military departments and Defense Agencies have complied with policies, procedures, and guidance issued by the Director with regard to the preparation of cost estimates for major defense acquisition programs and major automated information systems;
 
-&emsp;(B) the overall quality of cost estimates prepared by each of the military departments and Defense Agencies for major defense acquisition programs and major automated information system programs; and
+&emsp;(B) an assessment of the overall quality of cost estimates prepared by each of the military departments and Defense Agencies for major defense acquisition programs and major automated information system programs;
 
-&emsp;(C) any consistent differences in methodology or approach among the cost estimates prepared by the military departments, the Defense Agencies, and the Director.
+&emsp;(C) an assessment of any consistent differences in methodology or approach among the cost estimates prepared by the military departments, the Defense Agencies, and the Director; and
+
+&emsp;(D) a summary of the cost and associated information reviewed under subsection (a)(8), an identification of any trends in that information, an aggregation of the cumulative risk of the portfolio of systems reviewed under that subsection, and recommendations for improving cost estimates on the basis of the review under that subsection.
 
 (2) Each report under this subsection shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), and the congressional defense committees not later than 10 days after the transmittal to Congress of the budget of the President for the next fiscal year (as submitted pursuant to section 1105 of title 31).
 
@@ -110,29 +114,37 @@ Annual Report on Cost Assessment Activities.—(1) The Director of Cost Assessme
 
 Staff.—The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.
 
-(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; amended Pub. L. 111–383, div. A, title VIII, §811, Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, §833, Dec. 31, 2011, 125 Stat. 1506.)
+(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; amended Pub. L. 111–383, div. A, title VIII, §811, Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, §833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 113–66, div. A, title VIII, §812(c), Dec. 26, 2013, 127 Stat. 808.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(1). Pub. L. 111–383, §811(1)(A), substituted “paragraph (3)” for “paragraph (2)” and “and the rationale for selecting such confidence level;” for “, the rationale for selecting such confidence level, and, if such confidence level is less than 80 percent, the justification for selecting a confidence level of less than 80 percent; and”.
+<b>2013</b>—Subsec. (a)(8). Pub. L. 113–66, §812(c)(1), added par. (8).
+
+Subsec. (f)(1). Pub. L. 113–66, §812(c)(2)(A), substituted "report—" for "report, an assessment of—" in introductory provisions.
+
+Subsec. (f)(1)(A) to (C). Pub. L. 113–66, §812(c)(2)(B), inserted "an assessment of" at beginning of subpars. (A) to (C).
+
+Subsec. (f)(1)(D). Pub. L. 113–66, §812(c)(2)(C)–(E), added subpar. (D).
+
+<b>2011</b>—Subsec. (d)(1). Pub. L. 111–383, §811(1)(A), substituted "paragraph (3)" for "paragraph (2)" and "and the rationale for selecting such confidence level;" for ", the rationale for selecting such confidence level, and, if such confidence level is less than 80 percent, the justification for selecting a confidence level of less than 80 percent; and".
 
 Subsec. (d)(2), (3). Pub. L. 111–383, §811(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (e). Pub. L. 111–383, §811(3), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1). Pub. L. 112–81, §833(2)(A), (B), substituted “shall provide that” for “shall provide that—”, struck out subpar. (A) designation before “cost estimates”, and substituted period at end for “; and”.
+Subsec. (e)(1). Pub. L. 112–81, §833(2)(A), (B), substituted "shall provide that" for "shall provide that—", struck out subpar. (A) designation before "cost estimates", and substituted period at end for "; and".
 
-Subsec. (e)(2). Pub. L. 112–81, §833(3), substituted “The Under Secretary of Defense for Acquisition, Technology, and Logistics shall, in consultation with the Director of Cost Assessment and Program Evaluation, develop policies, procedures, and guidance to ensure that cost analyses and targets” for “cost analyses and targets”.
+Subsec. (e)(2). Pub. L. 112–81, §833(3), substituted "The Under Secretary of Defense for Acquisition, Technology, and Logistics shall, in consultation with theDirector of Cost Assessment and Program Evaluation, develop policies, procedures, and guidance to ensure that cost analyses and targets" for "cost analyses and targets".
 
 Pub. L. 112–81, §833(2)(C), redesignated par. (1)(B) as (2) and realigned margin. Former par. (2) redesignated (3).
 
-Subsec. (e)(3). Pub. L. 112–81, §833(4), substituted “issued by the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2)” for “issued by the Director of Cost Assessment and Program Evaluation”.
+Subsec. (e)(3). Pub. L. 112–81, §833(4), substituted "issued by the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2)" for "issued by the Director of Cost Assessment and Program Evaluation".
 
 Pub. L. 112–81, §833(1), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
 Subsec. (e)(4). Pub. L. 112–81, §833(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (e)(5). Pub. L. 112–81, §833(5), substituted “paragraph (4)” for “paragraph (3)” in introductory provisions.
+Subsec. (e)(5). Pub. L. 112–81, §833(5), substituted "paragraph (4)" for "paragraph (3)" in introductory provisions.
 
 Pub. L. 112–81, §833(1), redesignated par. (4) as (5).
 

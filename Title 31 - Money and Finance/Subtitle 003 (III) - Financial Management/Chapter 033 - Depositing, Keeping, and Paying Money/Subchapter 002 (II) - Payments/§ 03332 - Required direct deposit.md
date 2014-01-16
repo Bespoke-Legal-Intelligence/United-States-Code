@@ -40,7 +40,7 @@
 
 (i)(1) The Secretary of the Treasury may prescribe regulations that the Secretary considers necessary to carry out this section.
 
-(2) Regulations under this subsection shall ensure that individuals required under subsection\(g) to have an account at a financial institution because of the application of subsection (f)(1)—
+(2) Regulations under this subsection shall ensure that individuals required under subsection (g) to have an account at a financial institution because of the application of subsection (f)(1)—
 
 &emsp;(A) will have access to such an account at a reasonable cost; and
 
@@ -48,15 +48,15 @@
 
 (j) For purposes of this section—
 
-&emsp;(1) The term “electronic funds transfer” means any transfer of funds, other than a transaction originated by cash, check, or similar paper instrument, that is initiated through an electronic terminal, telephone, computer, or magnetic tape, for the purpose of ordering, instructing, or authorizing a financial institution to debit or credit an account. The term includes Automated Clearing House transfers, Fed Wire transfers, transfers made at automatic teller machines, and point-of-sale terminals.
+&emsp;(1) The term "electronic funds transfer" means any transfer of funds, other than a transaction originated by cash, check, or similar paper instrument, that is initiated through an electronic terminal, telephone, computer, or magnetic tape, for the purpose of ordering, instructing, or authorizing a financial institution to debit or credit an account. The term includes Automated Clearing House transfers, Fed Wire transfers, transfers made at automatic teller machines, and point-of-sale terminals.
 
-&emsp;(2) The term “Federal agency” means—
+&emsp;(2) The term "Federal agency" means—
 
 &emsp;&emsp;(A) an agency (as defined in section 101 of this title); and
 
 &emsp;&emsp;(B) a Government corporation (as defined in section 103 of title 5).
 
-&emsp;(3) The term “Federal payments” includes—
+&emsp;(3) The term "Federal payments" includes—
 
 &emsp;&emsp;(A) Federal wage, salary, and retirement payments;
 
@@ -124,23 +124,23 @@ R.S. §3620(d); added Aug. 7, 1972, Pub. L. 92–366, 86 Stat. 506.
 
 31:492(note).
 
-In subsection (a), the definition of “agency” is omitted because of section 101 of the revised title. The words “and the municipal government of the District of Columbia” are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The text of section 1(b)(1st sentence) and (c)(1st sentence) of the Act of July 19, 1975, is omitted as executed. In clause (2), the words “savings bank” are omitted as surplus.
+In subsection (a), the definition of "agency" is omitted because of section 101 of the revised title. The words "and the municipal government of the District of Columbia" are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The text of section 1(b)(1st sentence) and (c)(1st sentence) of the Act of July 19, 1975, is omitted as executed. In clause (2), the words "savings bank" are omitted as surplus.
 
-In subsections (b)–(f), the words “officer or employee” are substituted for “employee” for consistency in the revised title and with other titles of the United States Code.
+In subsections (b)–(f), the words "officer or employee" are substituted for "employee" for consistency in the revised title and with other titles of the United States Code.
 
-In subsections (b) and (d), the word “official” is substituted for “officer” for consistency in the revised title and with other titles of the Code. The words “issue a check payable to” are substituted for “make the payment . . . by sending to . . . a check that is drawn in favor of the organization” for clarity and consistency and to eliminate unnecessary words.
+In subsections (b) and (d), the word "official" is substituted for "officer" for consistency in the revised title and with other titles of the Code. The words "issue a check payable to" are substituted for "make the payment . . . by sending to . . . a check that is drawn in favor of the organization" for clarity and consistency and to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words “Notwithstanding subsection (a) of this section or any other provision of law” are omitted as unnecessary. The words “may designate in writing not more than 3 financial organizations to which a payment of pay of the officer or employee shall be sent and the amount to be sent to each organization” are substituted for “upon the written request of an employee of the agency to whom a payment for wages or salary is to be made . . . in the form of one, two, or three checks (the number of checks . . . if more than one . . . designated by such employee” for clarity, consistency in the revised title and with other titles of the Code, and to eliminate unnecessary words.
+In subsection (b), before clause (1), the words "Notwithstanding subsection (a) of this section or any other provision of law" are omitted as unnecessary. The words "may designate in writing not more than 3 financial organizations to which a payment of pay of the officer or employee shall be sent and the amount to be sent to each organization" are substituted for "upon the written request of an employee of the agency to whom a payment for wages or salary is to be made . . . in the form of one, two, or three checks (the number of checks . . . if more than one . . . designated by such employee" for clarity, consistency in the revised title and with other titles of the Code, and to eliminate unnecessary words.
 
-In subsection (c), the words “(except for a financial organization designated by an officer or employee of either House of Congress)” are substituted for section 1(b)(last sentence) and (c)(last sentence) of the Act of July 19, 1975 (Pub. L. 94–57, 89 Stat. 265), because of the restatement. The words “to which such check is sent” are omitted because of the restatement.
+In subsection (c), the words "(except for a financial organization designated by an officer or employee of either House of Congress)" are substituted for section 1(b)(last sentence) and (c)(last sentence) of the Act of July 19, 1975 (Pub. L. 94–57, 89 Stat. 265), because of the restatement. The words "to which such check is sent" are omitted because of the restatement.
 
-In subsection (d), the words “to whom a payment is to be made” are omitted as surplus. The words “upon the written request of such employee” are omitted as unnecessary. The words “accompanied by a schedule” are added for clarity.
+In subsection (d), the words "to whom a payment is to be made" are omitted as surplus. The words "upon the written request of such employee" are omitted as unnecessary. The words "accompanied by a schedule" are added for clarity.
 
-In subsection (e), the word “payment” is substituted for “acquittance” for clarity and consistency.
+In subsection (e), the word "payment" is substituted for "acquittance" for clarity and consistency.
 
 Subsection (f) is substituted for 31:492(d)(1st–50th words) to eliminate unnecessary words.
 
-In subsection (g), the words “rules and” in section 1(b) and (c) of the Act of July 19, 1975 (Pub. L. 94–57, 89 Stat. 265), are omitted as surplus.
+In subsection (g), the words "rules and" in section 1(b) and (c) of the Act of July 19, 1975 (Pub. L. 94–57, 89 Stat. 265), are omitted as surplus.
 
 #### References in Text
 
@@ -152,9 +152,9 @@ The Internal Revenue Code of 1986, referred to in subsec. (j)(3), is classified 
 
 <b>1996</b>—Subsecs. (e) to (j). Pub. L. 104–134 added subsecs. (e) to (g), redesignated former subsec. (e) as (h), and added subsecs. (i) and (j).
 
-<b>1994</b>—Pub. L. 103–356 substituted “Required direct deposit” for “Checks payable to financial organizations designated by Government officers and employees” as section catchline and amended text generally. Prior to amendment, section authorized agency officers and employees to designate not more than 3 financial organizations to which a payment of pay or other recurring payments was to be sent without charge and required the agency head to authorize issuance of checks payable to those financial organizations in the designated amounts.
+<b>1994</b>—Pub. L. 103–356 substituted "Required direct deposit" for "Checks payable to financial organizations designated by Government officers and employees" as section catchline and amended text generally. Prior to amendment, section authorized agency officers and employees to designate not more than 3 financial organizations to which a payment of pay or other recurring payments was to be sent without charge and required the agency head to authorize issuance of checks payable to those financial organizations in the designated amounts.
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–369, §2814(a), inserted “without charge” after “shall be sent”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §2814(a), inserted "without charge" after "shall be sent".
 
 Subsecs. (c) to (g). Pub. L. 98–369, §2814(b), struck out subsec. (c) which related to reimbursement of an agency for issuing additional checks, and redesignated subsecs. (d) to (g) as (c) to (f), respectively.
 
@@ -166,17 +166,17 @@ Any waiver in effect on Oct. 5, 1999, under subsec. (f)(2)(A)(i) of this section
 
 Pub. L. 110–423, §1, Oct. 15, 2008, 122 Stat. 4818, provided that:
 
-“(a)
+"(a)
 
 In General.—The Office of Personnel Management shall take such measures as may be appropriate to ensure that all employees who receive their pay by electronic funds transfer shall be given the option of receiving their pay stubs electronically.
 
-“(b)
+"(b)
 
 Definitions.—For purposes of this section—
 
-&emsp;“(1) the term ‘electronic funds transfer’ has the meaning given such term by section 3332 of title 31, United States Code;
+&emsp;"(1) the term 'electronic funds transfer' has the meaning given such term by section 3332 of title 31, United States Code;
 
-&emsp;“(2) the term ‘employee’ means an individual employed in or under an Executive agency; and
+&emsp;"(2) the term 'employee' means an individual employed in or under an Executive agency; and
 
-&emsp;“(3) the term ‘Executive agency’ has the meaning given such term by section 105 of title 5, United States Code.”
+&emsp;"(3) the term 'Executive agency' has the meaning given such term by section 105 of title 5, United States Code."
 

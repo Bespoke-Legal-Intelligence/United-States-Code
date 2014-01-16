@@ -20,7 +20,7 @@ An entity is a qualified entity for purposes of subsection (a)(1) of this sectio
 
 &emsp;(B) education in health promotion and disease prevention of the Native Hawaiian population by, wherever possible, Native Hawaiian health care practitioners, community outreach workers, counselors, and cultural educators;
 
-&emsp;(C) services of physicians, physicians’ assistants, nurse practitioners or other health professionals;
+&emsp;(C) services of physicians, physicians' assistants, nurse practitioners or other health professionals;
 
 &emsp;(D) immunizations;
 
@@ -36,7 +36,7 @@ An entity is a qualified entity for purposes of subsection (a)(1) of this sectio
 
 &emsp;(B) collection of data related to the prevention of diseases and illnesses among Native Hawaiians; and
 
-&emsp;(C) services within the meaning of the terms “health promotion”, “disease prevention”, and “primary health services”, as such terms are defined in section 11711 of this title, which are not specifically referred to in paragraph (1) of this subsection.
+&emsp;(C) services within the meaning of the terms "health promotion", "disease prevention", and "primary health services", as such terms are defined in section 11711 of this title, which are not specifically referred to in paragraph (1) of this subsection.
 
 (3) The health care services referred to in paragraphs (1) and (2) which are provided under grants or contracts under subsection (a)(1) of this section may be provided by traditional Native Hawaiian healers.
 
@@ -54,7 +54,7 @@ During a fiscal year, the Secretary under this chapter may make a grant to, or h
 
 &emsp;(A) in an amount exceeding 83.3 percent of the costs of providing health services under the grant or contract; and
 
-&emsp;(B) unless the Native Hawaiian health care system agrees that the Native Hawaiian health care system or the State of Hawaii will make available, directly or through donations to the Native Hawaiian health care system, non-Federal contributions toward such costs in an amount equal to not less than $1 (in cash or in kind under paragraph (2)) for each $5 of Federal funds provided in such grant or contract.
+&emsp;(B) unless the Native Hawaiian health care system agrees that the Native Hawaiian health care system or the State of Hawaii willmake available, directly or through donations to the Native Hawaiian health care system, non-Federal contributions toward such costs in an amount equal to not less than $1 (in cash or in kind under paragraph (2)) for each $5 of Federal funds provided in such grant or contract.
 
 (2) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government or services assisted or subsidized to any significant extent by the Federal Government may not be included in determining the amount of such non-Federal contributions.
 
@@ -100,7 +100,7 @@ The Secretary may not make a grant, or enter into a contract with, any entity un
 
 Amendments by Pub. L. 111–148 are based on section 202(a), (b)(1), of title II of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
+The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on "September 12, 1992", has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
 Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of this section is based on section 1 of Pub. L. 100–579, as subsequently amended.
 
@@ -108,11 +108,11 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of 
 
 <b>2010</b>—Subsec. (c)(4). Pub. L. 111–148, which directed the amendment of section 6(c) of the Native Hawaiian Health Care Act of 1988 by adding par. (4), was executed by making the amendment to this section, which is section 6 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
 
-Subsec. (h)(1). Pub. L. 111–148, which directed the amendment of section 6(h)(1) of the Native Hawaiian Health Care Act of 1988 by substituting “2019” for “2001”, was executed by making the amendment to this section, which is section 6 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
+Subsec. (h)(1). Pub. L. 111–148, which directed the amendment of section 6(h)(1) of the Native Hawaiian Health Care Act of 1988 by substituting "2019" for "2001", was executed by making the amendment to this section, which is section 6 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
 
 <b>1992</b>—Pub. L. 102–396 amended section generally. Prior to amendment, section related to administration of grants and contracts.
 
 #### Effective Date of 2010 Amendment
 
-Section 202(b)(2) of title II of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on December 5, 2006.”
+Section 202(b)(2) of title II of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, provided that: "The amendment made by paragraph (1) \[amending this section\] takes effect on December 5, 2006."
 

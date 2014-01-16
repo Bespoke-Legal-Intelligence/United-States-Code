@@ -46,7 +46,7 @@ In any case where an application for insurance under section 1743 of this title 
 
 The Secretary shall grant preference to applications for insurance under this subchapter to mortgages covering housing of lower rents.
 
-(June 27, 1934, ch. 847, title IX, §908, as added Sept. 1, 1951, ch. 378, title II, §201, 65 Stat. 301; amended June 30, 1953, ch. 170, §10(c), 67 Stat.124; Aug. 2, 1954, ch. 649, title I, §130, 68 Stat. 609; Pub. L. 89–117, title XI, §1108(z), Aug. 10, 1965, 79 Stat. 507; Pub. L. 90–19, §1(a)(2), (3), May 25, 1967, 81 Stat. 17.)
+(June 27, 1934, ch. 847, title IX, §908, as added Sept. 1, 1951, ch. 378, title II, §201, 65 Stat. 301; amended June 30, 1953, ch. 170, §10(c), 67 Stat. 124; Aug. 2, 1954, ch. 649, title I, §130, 68 Stat. 609; Pub. L. 89–117, title XI, §1108(z), Aug. 10, 1965, 79 Stat. 507; Pub. L. 90–19, §1(a)(2), (3), May 25, 1967, 81 Stat. 17.)
 
 #### References in Text
 
@@ -54,17 +54,17 @@ The General Insurance Fund, referred to in text, was established by section 1735
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19, §1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2)(B), (C), last par. following (C), (d), (f), and (h).
+<b>1967</b>—Pub. L. 90–19, §1(a)(3), substituted "Secretary" for "Commissioner" wherever appearing in subsecs. (a), (b)(1), (2)(B), (C), last par. following (C), (d), (f), and (h).
 
-Subsec. (g). Pub. L. 90–19, §1(a)(2), substituted “Secretary of Housing and Urban Development” for “Federal Housing Commissioner”.
+Subsec. (g). Pub. L. 90–19, §1(a)(2), substituted "Secretary of Housing and Urban Development" for "Federal Housing Commissioner".
 
-<b>1965</b>—Subsec. (b)(1). Pub. L. 89–117, §1108(z)(1), substituted “General Insurance Fund” for “National Defense Housing Insurance Fund”.
+<b>1965</b>—Subsec. (b)(1). Pub. L. 89–117, §1108(z)(1), substituted "General Insurance Fund" for "National Defense Housing Insurance Fund".
 
-Subsec. (d). Pub. L. 89–117, §1108(z)(2), struck out provision that reference in section 1713(h) of this title to “the Housing Insurance Fund” shall be deemed for the purposes of this section to be a reference to the National Defense Housing Insurance Fund.
+Subsec. (d). Pub. L. 89–117, §1108(z)(2), struck out provision that reference in section 1713(h) of this title to "the Housing Insurance Fund" shall be deemed for the purposes of this section to be a reference to the National Defense Housing Insurance Fund.
 
-Subsec. (f). Pub. L. 89–117, §1108(z)(3), struck out provision that references in subsections (k) and (l) of section 1713 of this title “Housing Fund” shall be construed to refer to the “National Defense Housing Insurance Fund”.
+Subsec. (f). Pub. L. 89–117, §1108(z)(3), struck out provision that references in subsections (k) and (l) of section 1713 of this title "Housing Fund" shall be construed to refer to the "National Defense Housing Insurance Fund".
 
-<b>1954</b>—Subsec. (b)(3). Act Aug. 2, 1954, substituted requirement that mortgagor shall enter into the agreement required by section 1715r of this title for former provisions relating to certification of builders’ costs, such certifications now being prescribed in said section 1715r.
+<b>1954</b>—Subsec. (b)(3). Act Aug. 2, 1954, substituted requirement that mortgagor shall enter into the agreement required by section 1715r of this title for former provisions relating to certification of builders' costs, such certifications now being prescribed in said section 1715r.
 
-<b>1953</b>—Subsec. (b). Act June 30, 1953, in paragraph commencing “The mortgage shall provide”, substituted “4½ per centum” for “4 per centum”.
+<b>1953</b>—Subsec. (b). Act June 30, 1953, in paragraph commencing "The mortgage shall provide", substituted "4½ per centum" for "4 per centum".
 

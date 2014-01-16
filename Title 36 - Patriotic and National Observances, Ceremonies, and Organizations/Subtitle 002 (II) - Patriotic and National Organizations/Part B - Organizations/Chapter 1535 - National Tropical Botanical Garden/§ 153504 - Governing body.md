@@ -36,7 +36,7 @@ Aug. 19, 1964, Pub. L. 88–449, §5, 78 Stat. 497; Sept. 29, 1972, Pub. L. 92�
 
 Aug. 19, 1964, Pub. L. 88–449, §6, 78 Stat. 497.
 
-In subsection (a), the text of 36:4605(a) is omitted as obsolete. The words “Except for the foregoing provision” in 36:4605(b) and “responsibilities” in 36:4605(c) are omitted as unnecessary.
+In subsection (a), the text of 36:4605(a) is omitted as obsolete. The words "Except for the foregoing provision" in 36:4605(b) and "responsibilities" in 36:4605(c) are omitted as unnecessary.
 
-In subsection (b), the words “as provided” are substituted for “as may be authorized” and “as may be prescribed” for consistency in the revised title.
+In subsection (b), the words "as provided" are substituted for "as may be authorized" and "as may be prescribed" for consistency in the revised title.
 

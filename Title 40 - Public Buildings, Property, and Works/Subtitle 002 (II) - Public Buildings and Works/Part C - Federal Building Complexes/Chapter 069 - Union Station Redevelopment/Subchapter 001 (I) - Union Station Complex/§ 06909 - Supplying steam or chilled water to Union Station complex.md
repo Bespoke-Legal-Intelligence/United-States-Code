@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 90–264, title I, §119(d), as added Pub. L. 97–125, §3(3), Dec. 29, 1981, 95 Stat. 1672.
 
-The words “or his designee or assign” are omitted because of 49:322(b)
+The words "or his designee or assign" are omitted because of 49:322(b)
 

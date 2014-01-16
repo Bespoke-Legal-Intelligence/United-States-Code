@@ -6,7 +6,7 @@ In order to obtain assistance in the development and implementation of the purpo
 
 #### (b) Compensation
 
-The members of any other advisory committees appointed pursuant to this chapter who are not officers or employees of the United States while attending conferences or meetings or while otherwise serving at the request of the Administrator, shall be entitled to receive compensation at a rate to be fixed by the Administrator, but not exceeding $100 per diem, including traveltime, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
+The members of any other advisory committees appointed pursuant to this chapter who are not officers or employees of the United States while attending conferences or meetings or while otherwise serving at the request of the Administrator, shall be entitled to receive compensation at a rate to be fixed by the Administrator, but not exceeding $100 per diem, including traveltime, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem inlieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 
 #### (c) <sup>1</sup> Consultations by Administrator
 
@@ -36,25 +36,25 @@ Section was formerly classified to section 1857e of this title.
 
 #### Amendments
 
-<b>1978</b>—Subsec. (c)(3). Pub. L. 95–623 substituted “7411” for “7411(b)(1)(B)” and “7412” for “7412(b)(1)(B)”.
+<b>1978</b>—Subsec. (c)(3). Pub. L. 95–623 substituted "7411" for "7411(b)(1)(B)" and "7412" for "7412(b)(1)(B)".
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–95, §115(1), (2), redesignated subsec. (d) as (a). Former subsec. (a), establishing an Air Quality Advisory Board in the Environmental Protection Agency, was struck out.
 
-Subsec. (b). Pub. L. 95–95, §115(1)–(3), redesignated subsec. (e) as (b) and substituted “The members of any other advisory committees” for “The members of the Board and other advisory committees” and “conferences or meetings or while otherwise serving” for “conferences or meetings of the Board or while otherwise serving”. Former subsec. (b), setting out the duties of the Air Quality Advisory Board, was struck out.
+Subsec. (b). Pub. L. 95–95, §115(1)–(3), redesignated subsec. (e) as (b) and substituted "The members of any other advisory committees" for "The members of the Board and other advisory committees" and "conferences or meetings or while otherwise serving" for "conferences or meetings of the Board or while otherwise serving". Former subsec. (b), setting out the duties of the Air Quality Advisory Board, was struck out.
 
 Subsecs. (c) to (e). Pub. L. 95–95, §115(1), (2), struck out subsec. (c) which related to clerical and technical assistance for the Air Quality Advisory Board, and redesignated subsecs. (d) and (e) as (a) and (b), respectively.
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted “Environmental Protection Agency” for “Department of Health, Education, and Welfare” and “Administrator” for “Secretary”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted "Environmental Protection Agency" for "Department of Health, Education, and Welfare" and "Administrator" for "Secretary".
 
-Subsec. (b). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
+Subsec. (b). Pub. L. 91–604, §15(c)(2), substituted "Administrator" for "Secretary" wherever appearing.
 
-Subsec. (c). Pub. L. 91–604, §15(c)(2), substituted “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
+Subsec. (c). Pub. L. 91–604, §15(c)(2), substituted "Environmental Protection Agency" for "Department of Health, Education, and Welfare".
 
-Subsecs. (d), (e). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
+Subsecs. (d), (e). Pub. L. 91–604, §15(c)(2), substituted "Administrator" for "Secretary" wherever appearing.
 
 Subsec. (f). Pub. L. 91–604, §4(d), added subsec. (f).
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–148 substituted provisions establishing in the Department of Health, Education, and Welfare an Air Quality Advisory Board and providing for the appointment and term of its members for provisions directing the Secretary to maintain liaison with manufacturers looking toward development of devices and fuels to reduce pollutants in automotive exhaust and to appoint a technical committee and callit together from time to time to evaluate progress and develop and recommend research programs.
+<b>1967</b>—Subsec. (a). Pub. L. 90–148 substituted provisions establishing in the Department of Health, Education, and Welfare an Air Quality Advisory Board and providing for the appointment and term of its members for provisions directing the Secretary to maintain liaison with manufacturers looking toward development of devices and fuels to reduce pollutants in automotive exhaust and to appoint a technical committee and call it together from time to time to evaluate progress and develop and recommend research programs.
 
 Subsec. (b). Pub. L. 90–148 substituted provision setting out the duties of the Air Quality Advisory Board for provisions requiring the Secretary to make semi-annual reports to Congress on measures being taken toward the resolution of vehicle exhaust pollution problems.
 

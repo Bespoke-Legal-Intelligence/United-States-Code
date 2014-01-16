@@ -22,5 +22,5 @@ Section 14302(a) requires the Secretary to measure a vessel to which this chapte
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–281 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Except as provided in section 1602(a) of the Panama Canal Act of 1979 (22 U.S.C. 3792(a)), a vessel measured under this chapter may not be required to be measured under another law.”
+<b>2010</b>—Subsec. (b). Pub. L. 111–281 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Except as provided in section 1602(a) of the Panama Canal Act of 1979 (22 U.S.C. 3792(a)), a vessel measured under this chapter may not be required to be measured under another law."
 

@@ -1,6 +1,6 @@
 ### §5508. Program of applied research by Secretary of Energy for improvement and development of heating systems for commercial application; transmission of results to Secretary and Administrator
 
-(a) The Secretary of Energy shall conduct a program of applied research relevant to (1) the improvement of solar heating components and systems and (2) the development and commercial application of combined solar heating and cooling components and systems as contemplated by the programs under this subchapter.
+(a) The Secretary of Energy shall conduct a program of applied research relevant to (1) the improvement of solar heating components and systems and (2) the development and commercial application of combined solar heating andcooling components and systems as contemplated by the programs under this subchapter.
 
 (b) The Secretary of Energy shall apprise the Secretary and the Administrator on a continuing basis of the results of the programs being conducted in accordance with subsection (a) of this section, and the Secretary and the Administrator shall insure that such results, where appropriate, are incorporated into the development and demonstration programs established by this subchapter.
 
@@ -8,5 +8,5 @@
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted in text for “Director”, meaning Director of National Science Foundation, pursuant to sections 104(f) and 301(h) of Pub. L. 93–438, which are classified to sections 5814(f) and 5871(h) of this title and which transferred functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development to Administrator of Energy Research and Development Administration, and pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+"Secretary of Energy" substituted in text for "Director", meaning Director of National Science Foundation, pursuant to sections 104(f) and 301(h) of Pub. L. 93–438, which are classified to sections 5814(f) and 5871(h) of this title and which transferred functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development to Administrator of Energy Research and Development Administration, and pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 

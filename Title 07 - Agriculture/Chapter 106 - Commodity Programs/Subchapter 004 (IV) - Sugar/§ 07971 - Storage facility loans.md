@@ -32,7 +32,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(2), (3). Pub. L. 110–246, §1404, added par. (2), redesignated former par. (2) as (3), and, in par. (3), inserted “other” after “on such”.
+<b>2008</b>—Subsec. (c)(2), (3). Pub. L. 110–246, §1404, added par. (2), redesignated former par. (2) as (3), and, in par. (3), inserted "other" after "on such".
 
 #### Effective Date of 2008 Amendment
 

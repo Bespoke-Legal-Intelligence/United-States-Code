@@ -18,9 +18,9 @@ Historical and Revision Notes
 
 May 31, 1902, ch. 943, 32 Stat. 282.
 
-The words “may issue” are substituted for the words “Authority is given to \* \* \* in his discretion, to grant permission”. The words “Under such conditions as he may prescribe” are substituted for the words “under such regulations as the Secretary of the Army may impose”. The words “members of the Air Force” are substituted for the word “garrisons”. The words “the Territories, Commonwealths, and possessions” are substituted for the words “or its island possessions”, for clarity.
+The words "may issue" are substituted for the words "Authority is given to \* \* \* in his discretion, to grant permission". The words "Under such conditions as he may prescribe" are substituted for the words "under such regulations as the Secretary of the Army may impose". The words "members of the Air Force" are substituted for the word "garrisons". The words "the Territories, Commonwealths, and possessions" are substituted for the words "or its island possessions", for clarity.
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163 substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
+<b>2006</b>—Pub. L. 109–163 substituted "Commonwealths and possessions" for "Territories, Commonwealths, and possessions".
 

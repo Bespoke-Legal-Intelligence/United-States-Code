@@ -56,9 +56,9 @@ Aug. 14, 1958, Pub. L. 85–642, §§9(a) (1st sentence words before last comma,
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “support” and “any” are added for consistency in the revised title. The words “directly or indirectly, local or national” are omitted as unnecessary and for consistency in the revised title.
+In subsection (b), the words "support" and "any" are added for consistency in the revised title. The words "directly or indirectly, local or national" are omitted as unnecessary and for consistency in the revised title.
 
-In subsection (c), before clause (1), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. In clause (1), the words “bona fide” are omitted as unnecessary.
+In subsection (c), before clause (1), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title. In clause (1), the words "bona fide" are omitted as unnecessary.
 

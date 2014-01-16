@@ -20,7 +20,7 @@
 
 &emsp;(2) may be exercised only to the extent necessary to recruit or retain an individual exceptionally well qualified for the position; and
 
-&emsp;(3) may be exercised only in retaining employees of the Administration or in appointingindividuals who were not employees of another Federal agency as defined under section 5102(a)(1).
+&emsp;(3) may be exercised only in retaining employees of the Administration or in appointing individuals who were not employees of another Federal agency as defined under section 5102(a)(1).
 
 (c)(1) Notwithstanding section 5377, the Administrator may fix the rate of basic pay for a position in the Administration in accordance with this section. The Administrator may not delegate this authority.
 

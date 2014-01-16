@@ -6,15 +6,15 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Indian tribe
 
-&emsp;The term “Indian tribe” has the same meaning as in section 450b(e) of title 25.
+&emsp;The term "Indian tribe" has the same meaning as in section 450b(e) of title 25.
 
 #### (2) Reservation
 
-&emsp;The term “reservation” means the geographically defined area over which a tribal organization exercises governmental jurisdiction.
+&emsp;The term "reservation" means the geographically defined area over which a tribal organization exercises governmental jurisdiction.
 
 #### (3) Tribal organization
 
-&emsp;The term “tribal organization” has the same meaning as in section 450b(l) of title 25.
+&emsp;The term "tribal organization" has the same meaning as in section 450b(l) of title 25.
 
 #### (b) Requirements
 
@@ -28,7 +28,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Standards and licensing
 
-&emsp;If a tribal organization regulates professional boxing matches pursuant to paragraph\(1), the tribal organization shall, by tribal ordinance or resolution, establish and provide for the implementation of health and safety standards, licensing requirements, and other requirements relating to the conduct of professional boxing matches that are at least as restrictive as—
+&emsp;If a tribal organization regulates professional boxing matches pursuant to paragraph (1), the tribal organization shall, by tribal ordinance or resolution, establish and provide for the implementation of health and safety standards, licensing requirements, and other requirements relating to the conduct of professional boxing matches that are at least as restrictive as—
 
 &emsp;&emsp;(A) the otherwise applicable standards and requirements of a State in which the reservation is located; or
 

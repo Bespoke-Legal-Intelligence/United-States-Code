@@ -64,7 +64,7 @@ The Chief Executive Officer shall—
 
 &emsp;&emsp;&emsp;(iv) give consideration to retired and other former law enforcement, fire, rescue, and emergency personnel, and other individuals with backgrounds in disaster preparedness, relief, and recovery; and
 
-&emsp;&emsp;&emsp;(v) consider applicants’ experience in other youth service programs.
+&emsp;&emsp;&emsp;(v) consider applicants' experience in other youth service programs.
 
 #### (D) Community service credit
 
@@ -72,11 +72,11 @@ The Chief Executive Officer shall—
 
 #### (E) Training
 
-&emsp;&emsp;The Director shall provide to other members of the permanent cadre appropriate training in youth development techniques, including techniques for working with and enhancing the development of disadvantaged youth, and the principles of service-learning. All members of the permanent cadre shall be required to participate in the training.
+&emsp;&emsp;The Director shall provide to other members of the permanent cadre appropriatetraining in youth development techniques, including techniques for working with and enhancing the development of disadvantaged youth, and the principles of service-learning. All members of the permanent cadre shall be required to participate in the training.
 
 #### (3) Inapplicability of certain civil service laws
 
-&emsp;The Director, other members of the permanent cadre, and the other staff personnel shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service. The rates of pay of such persons may be established without regard to the provisions of chapter 51 and subchapter III ofchapter 53 of such title. In the case of a member of the permanent cadre who was recommended for appointment in accordance with 12622(b)(1) <sup>1</sup> of this title and is entitled to retired or retainer pay, section 5532 <sup>2</sup> of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre.
+&emsp;The Director, other members of the permanent cadre, and the other staff personnel shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service. The rates of pay of such persons may be established without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. In the case of a member of the permanent cadre who was recommended for appointment in accordance with 12622(b)(1) <sup>1</sup> of this title and is entitled to retired or retainer pay, section 5532 <sup>2</sup> of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre.
 
 #### (4) Voluntary services
 
@@ -98,49 +98,49 @@ Section was formerly classified to section 12653h of this title prior to renumbe
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1509(1)(A), substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1509(1)(A), substituted "National Civilian Community Corps Program" for "Civilian Community Corps Demonstration Program" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 111–13, §1509(1)(B), inserted “including those” before “recommended” and “National” before “Civilian Community Corps”.
+Subsec. (a)(1). Pub. L. 111–13, §1509(1)(B), inserted "including those" before "recommended" and "National" before "Civilian Community Corps".
 
-Subsec. (b)(1). Pub. L. 111–13, §1509(2), inserted “National” before “Civilian Community Corps”.
+Subsec. (b)(1). Pub. L. 111–13, §1509(2), inserted "National" before "Civilian Community Corps".
 
-Subsec. (c)(1)(B)(i). Pub. L. 111–13, §1509(3)(A), inserted “National” before “Civilian Community Corps”.
+Subsec. (c)(1)(B)(i). Pub. L. 111–13, §1509(3)(A), inserted "National" before "Civilian Community Corps".
 
-Subsec. (c)(2)(A). Pub. L. 111–13, §1509(3)(B)(i), substituted “The Chief Executive Officer shall establish a permanent cadre that includes the Director and other appointed” for “The Director shall establish a permanent cadre of” and inserted “National” before “Civilian Community Corps”.
+Subsec. (c)(2)(A). Pub. L. 111–13, §1509(3)(B)(i), substituted "The Chief Executive Officer shall establish a permanent cadre that includes the Director and other appointed" for "The Director shall establish a permanent cadre of" and inserted "National" before "Civilian Community Corps".
 
-Subsec. (c)(2)(B). Pub. L. 111–13, §1509(3)(B)(ii), substituted “The Chief Executive Officer shall consider the recommendations of the Director in appointing the other members” for “The Director shall appoint the members”.
+Subsec. (c)(2)(B). Pub. L. 111–13, §1509(3)(B)(ii), substituted "The Chief Executive Officer shall consider the recommendations of the Director in appointing the other members" for "The Director shall appoint the members".
 
-Subsec. (c)(2)(C). Pub. L. 111–13, §1509(3)(B)(iii)(I), substituted “the Chief Executive Officer” for “the Director” in introductory provisions.
+Subsec. (c)(2)(C). Pub. L. 111–13, §1509(3)(B)(iii)(I), substituted "the Chief Executive Officer" for "the Director" in introductory provisions.
 
-Subsec. (c)(2)(C)(i). Pub. L. 111–13, §1509(3)(B)(iii)(II), substituted “section 12622(b)” for “section 12622(a)(2)”.
+Subsec. (c)(2)(C)(i). Pub. L. 111–13, §1509(3)(B)(iii)(II), substituted "section 12622(b)" for "section 12622(a)(2)".
 
 Subsec. (c)(2)(C)(iv), (v). Pub. L. 111–13, §1509(3)(B)(iii)(III)–(V), added cl. (iv) and redesignated former cl. (iv) as (v).
 
-Subsec. (c)(2)(E). Pub. L. 111–13, §1509(3)(B)(iv), substituted “to other members” for “to members”, inserted “, including techniques for working with and enhancing the development of disadvantaged youth,” after “techniques”, and substituted “service-learning” for “service learning”.
+Subsec. (c)(2)(E). Pub. L. 111–13, §1509(3)(B)(iv), substituted "to other members" for "to members", inserted ", including techniques for working with and enhancing the development of disadvantaged youth," after "techniques", and substituted "service-learning" for "service learning".
 
-Subsec. (c)(3). Pub. L. 111–13, §1509(3)(C), substituted “other members” for “the members” and “12622(b)(1)” for “section 12622(a)(2)(A)”.
+Subsec. (c)(3). Pub. L. 111–13, §1509(3)(C), substituted "other members" for "the members" and "12622(b)(1)" for "section 12622(a)(2)(A)".
 
-<b>1994</b>—Subsec. (c)(2)(C)(i). Pub. L. 103–304 substituted “section 12622(a)(2)” for “section section 12622(a)(2)”.
+<b>1994</b>—Subsec. (c)(2)(C)(i). Pub. L. 103–304 substituted "section 12622(a)(2)" for "section section 12622(a)(2)".
 
-Subsec. (c)(3). Pub. L. 103–337 inserted at end “In the case of a member of the permanent cadre who was recommended for appointment in accordance with section 12622(a)(2)(A) of this title and is entitled to retired or retainer pay, section 5532 of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre.”
+Subsec. (c)(3). Pub. L. 103–337 inserted at end "In the case of a member of the permanent cadre who was recommended for appointment in accordance with section 12622(a)(2)(A) of this title and is entitled to retired or retainer pay, section 5532 of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre."
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–82, §403(a)(1)(A), (B), substituted “Supervision” for “Board” in heading and “The Chief Executive Officer shall monitor” for “The Board shall monitor” and “the Chief Executive Officer shall—” for “the Board shall—” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §403(a)(1)(A), (B), substituted "Supervision" for "Board" in heading and "The Chief Executive Officer shall monitor" for "The Board shall monitor" and "the Chief Executive Officer shall—" for "the Board shall—" in introductory provisions.
 
-Pub. L. 103–82, §104(e)(2)(E)(i)(I), substituted “section 12612” for “section 12653a” in introductory provisions.
+Pub. L. 103–82, §104(e)(2)(E)(i)(I), substituted "section 12612" for "section 12653a" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 103–82, §403(a)(1)(B), (C), substituted “by the Board” for “by the Director” and “as the Chief Executive Officer” for “as the Board”.
+Subsec. (a)(1). Pub. L. 103–82, §403(a)(1)(B), (C), substituted "by the Board" for "by the Director" and "as the Chief Executive Officer" for "as the Board".
 
-Subsec. (a)(2). Pub. L. 103–82, §104(e)(2)(E)(i)(II), substituted “section 12611” for “section 12653”.
+Subsec. (a)(2). Pub. L. 103–82, §104(e)(2)(E)(i)(II), substituted "section 12611" for "section 12653".
 
-Subsec. (b). Pub. L. 103–82, §403(a)(2), substituted “Monitoring and coordination” for “Executive Director” in heading and “The Chief Executive Officer shall” for “The Executive Director of the Commission on National and Community Service shall” in introductory provisions.
+Subsec. (b). Pub. L. 103–82, §403(a)(2), substituted "Monitoring and coordination" for "Executive Director" in heading and "The Chief Executive Officer shall" for "The Executive Director of the Commission on National and Community Service shall" in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 103–82, §402(b)(1), substituted “by the Corporation” for “by the Commission”.
+Subsec. (b)(2). Pub. L. 103–82, §402(b)(1), substituted "by the Corporation" for "by the Commission".
 
-Subsec. (c)(1)(A). Pub. L. 103–82, §403(a)(3)(A), (b), substituted “the Chief Executive Officer shall appoint a Director” for “the Board, in consultation with the Executive Director, shall appoint a Director of the Civilian Community Corps”.
+Subsec. (c)(1)(A). Pub. L. 103–82, §403(a)(3)(A), (b), substituted "the Chief Executive Officer shall appoint a Director" for "the Board, in consultation with the Executive Director, shall appoint a Director of the Civilian Community Corps".
 
-Subsec. (c)(1)(B)(iii). Pub. L. 103–82, §403(a)(3)(B), substituted “the Chief Executive Officer” for “the Board through the Executive Director”.
+Subsec. (c)(1)(B)(iii). Pub. L. 103–82, §403(a)(3)(B), substituted "the Chief Executive Officer" for "the Board through the Executive Director".
 
-Subsec. (c)(2)(C)(i). Pub. L. 103–82, §104(e)(2)(E)(ii), substituted “section 12622(a)(2)” for “12653k(a)(2)”.
+Subsec. (c)(2)(C)(i). Pub. L. 103–82, §104(e)(2)(E)(ii), substituted "section 12622(a)(2)" for "12653k(a)(2)".
 
 #### Effective Date of 2009 Amendment
 
@@ -148,11 +148,11 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 104(b), (e)(2)(E) of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
+Amendment by section 104(b), (e)(2)(E) of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.103–82, set out as a note under section 1701 of Title 16, Conservation.
 
 Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see section 406(a) of Pub. L. 103–82, set out as a note under section 5061 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

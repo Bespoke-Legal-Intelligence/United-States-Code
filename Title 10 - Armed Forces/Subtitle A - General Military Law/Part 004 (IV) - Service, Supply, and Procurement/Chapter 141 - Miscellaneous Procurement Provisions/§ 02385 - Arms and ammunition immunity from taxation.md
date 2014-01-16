@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Jan. 6, 1951, ch. 1213, subch. VII, §706, 64 Stat. 1236.
 
-The words “No \* \* \* may be” are substituted for the words “None \* \* \* shall be subject to any”. The words “by any Act” are omitted as surplusage.
+The words "No \* \* \* may be" are substituted for the words "None \* \* \* shall be subject to any". The words "by any Act" are omitted as surplusage.
 

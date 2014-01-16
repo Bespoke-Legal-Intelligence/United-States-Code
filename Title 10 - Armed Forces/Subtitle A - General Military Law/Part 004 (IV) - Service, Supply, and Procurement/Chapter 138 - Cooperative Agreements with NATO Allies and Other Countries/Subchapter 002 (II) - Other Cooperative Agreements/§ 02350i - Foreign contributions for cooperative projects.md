@@ -2,7 +2,7 @@
 
 (a)
 
-Crediting of Contributions.—Whenever the United States participates in a cooperative project with a friendly foreign country or the North Atlantic Treaty Organization (NATO) on a cost-sharing basis, any contribution received by the United States from that foreign country or NATO to meet its share of the costs of the project may be credited to appropriations available to an appropriate military department or another appropriate organization within the Department of Defense, as determined by the Secretary of Defense.
+Crediting of Contributions.—Whenever the United States participates in a cooperativeproject with a friendly foreign country or the North Atlantic Treaty Organization (NATO) on a cost-sharing basis, any contribution received by the United States from that foreign country or NATO to meet its share of the costs of the project may be credited to appropriations available to an appropriate military department or another appropriate organization within the Department of Defense, as determined by the Secretary of Defense.
 
 (b)
 
@@ -20,7 +20,7 @@ Use of Amounts Credited.—The amount of a contribution credited pursuant to sub
 
 Definitions.—In this section:
 
-&emsp;(1) The term “cooperative project” means a jointly managed arrangement, described in a written cooperative agreement entered into by the participants, that—
+&emsp;(1) The term "cooperative project" means a jointly managed arrangement, described in a written cooperative agreement entered into by the participants, that—
 
 &emsp;&emsp;(A) is undertaken by the participants in order to improve the conventional defense capabilities of the participants; and
 
@@ -32,9 +32,9 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;(iii) the United States to procure a defense article or a defense service from another participant in the cooperative project.
 
-&emsp;(2) The term “defense article” has the meaning given such term in section 47(3) of the Arms Export Control Act (22 U.S.C. 2794(3)).
+&emsp;(2) The term "defense article" has the meaning given such term in section 47(3) of the Arms Export Control Act (22 U.S.C. 2794(3)).
 
-&emsp;(3) The term “defense service” has the meaning given such term in section 47(4) of the Arms Export Control Act (22 U.S.C. 2794(4)).
+&emsp;(3) The term "defense service" has the meaning given such term in section 47(4) of the Arms Export Control Act (22 U.S.C. 2794(4)).
 
 (Added Pub. L. 102–190, div. A, title X, §1047(a), Dec. 5, 1991, 105 Stat. 1467.)
 

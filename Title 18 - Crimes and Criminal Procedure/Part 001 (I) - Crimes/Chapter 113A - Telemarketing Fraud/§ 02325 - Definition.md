@@ -1,6 +1,6 @@
 ### §2325. Definition
 
-In this chapter, “telemarketing”—
+In this chapter, "telemarketing"—
 
 &emsp;(1) means a plan, program, promotion, or campaign that is conducted to induce—
 
@@ -28,25 +28,25 @@ In this chapter, “telemarketing”—
 
 #### Amendments
 
-<b>2001</b>—Par. (1). Pub. L. 107–56 added subpar. (C) and inserted “or charitable contributor, or donor” before semicolon in concluding provisions.
+<b>2001</b>—Par. (1). Pub. L. 107–56 added subpar. (C) and inserted "or charitable contributor, or donor" before semicolon in concluding provisions.
 
 #### Short Title
 
-Pub. L. 103–322, title XXV, §250001, Sept. 13, 1994, 108 Stat. 2081, provided that: “This Act \[probably should be “title”, meaning title XXV (§§250001–250008) of Pub. L. 103–322, which enacted this chapter, amended sections 1029, 1341, and 3059 of this title, and enacted provisions set out as notes under this section and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Senior Citizens Against Marketing Scams Act of 1994’.”
+Pub. L. 103–322, title XXV, §250001, Sept. 13, 1994, 108 Stat. 2081, provided that: "This Act \[probably should be "title", meaning title XXV (§§250001–250008) of Pub. L. 103–322, which enacted this chapter, amended sections 1029, 1341, and 3059 of this title, and enacted provisions set out as notes under this section and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Senior Citizens Against Marketing Scams Act of 1994'."
 
 #### Information Network
 
 Pub. L. 103–322, title XXV, §250008, Sept. 13, 1994, 108 Stat. 2088, as amended by Pub. L. 104–294, title VI, §604(b)(29), Oct. 11, 1996, 110 Stat. 3508, provided that:
 
-“(a)
+"(a)
 
 Hotline.—The Attorney General shall, subject to the availability of appropriations, establish a national toll-free hotline for the purpose of—
 
-&emsp;“(1) providing general information on telemarketing fraud to interested persons; and
+&emsp;"(1) providing general information on telemarketing fraud to interested persons; and
 
-&emsp;“(2) gathering information related to possible violations of provisions of law amended by this title \[see Short Title note above\].
+&emsp;"(2) gathering information related to possible violations of provisions of law amended by this title \[see Short Title note above\].
 
-“(b)
+"(b)
 
-Action on Information Gathered.—The Attorney General shall work in cooperation with the Federal Trade Commission to ensure that information gathered through the hotline shall be acted on in an appropriate manner.”
+Action on Information Gathered.—The Attorney General shall work in cooperation with the Federal Trade Commission to ensure that information gathered through the hotline shall be acted on in an appropriate manner."
 

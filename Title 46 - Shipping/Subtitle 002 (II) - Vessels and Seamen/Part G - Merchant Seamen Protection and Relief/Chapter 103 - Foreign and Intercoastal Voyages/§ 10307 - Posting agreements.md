@@ -18,5 +18,5 @@ Section 10307 requires the master to post a copy of the shipping agreement in a 
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–206 struck out at end “A master violating this section is liable to the United States Government for a civil penalty of $100.”
+<b>1993</b>—Pub. L. 103–206 struck out at end "A master violating this section is liable to the United States Government for a civil penalty of $100."
 

@@ -130,7 +130,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Forward-looking statement
 
-&emsp;The term “forward-looking statement” means—
+&emsp;The term "forward-looking statement" means—
 
 &emsp;&emsp;(A) a statement containing a projection of revenues, income (including income loss), earnings (including earnings loss) per share, capital expenditures, dividends, capital structure, or other financial items;
 
@@ -140,39 +140,39 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(D) any statement of the assumptions underlying or relating to any statement described in subparagraph (A), (B), or (C);
 
-&emsp;&emsp;(E) any report issued by an outside reviewer retained by an issuer, to the extentthat the report assesses a forward-looking statement made by the issuer; or
+&emsp;&emsp;(E) any report issued by an outside reviewer retained by an issuer, to the extent that the report assesses a forward-looking statement made by the issuer; or
 
 &emsp;&emsp;(F) a statement containing a projection or estimate of such other items as may be specified by rule or regulation of the Commission.
 
 #### (2) Investment company
 
-&emsp;The term “investment company” has the same meaning as in section 80a–3(a) of this title.
+&emsp;The term "investment company" has the same meaning as in section 80a–3(a) of this title.
 
 #### (3) Penny stock
 
-&emsp;The term “penny stock” has the same meaning as in section 78c(a)(51) of this title, and the rules and regulations, or orders issued pursuant to that section.
+&emsp;The term "penny stock" has the same meaning as in section 78c(a)(51) of this title, and the rules and regulations, or orders issued pursuant to that section.
 
 #### (4) Going private transaction
 
-&emsp;The term “going private transaction” has the meaning given that term under the rules or regulations of the Commission issued pursuant to section 78m(e) of this title.
+&emsp;The term "going private transaction" has the meaning given that term under the rules or regulations of the Commission issued pursuant to section 78m(e) of this title.
 
 #### (5) Securities laws
 
-&emsp;The term “securities laws” has the same meaning as in section 78c of this title.
+&emsp;The term "securities laws" has the same meaning as in section 78c of this title.
 
 #### (6) Person acting on behalf of an issuer
 
-&emsp;The term “person acting on behalf of an issuer” means an officer, director, or employee of the issuer.
+&emsp;The term "person acting on behalf of an issuer" means an officer, director, or employee of the issuer.
 
 #### (7) Other terms
 
-&emsp;The terms “blank check company”, “rollup transaction”, “partnership”, “limited liability company”, “executive officer of an entity” and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
+&emsp;The terms "blank check company", "rollup transaction", "partnership", "limited liability company", "executive officer of an entity" and "direct participation investment program", have the meanings given those terms by rule or regulation of the Commission.
 
 (May 27, 1933, ch. 38, title I, §27A, as added Pub. L. 104–67, title I, §102(a), Dec. 22, 1995, 109 Stat. 749; amended Pub. L. 105–353, title III, §301(a)(5), Nov. 3, 1998, 112 Stat. 3235; Pub. L. 111–203, title IX, §985(a)(4), July 21, 2010, 124 Stat. 1933.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(1)(B)(ii). Pub. L. 111–203 substituted comma for semicolon after “entity” in introductory provisions.
+<b>2010</b>—Subsec. (c)(1)(B)(ii). Pub. L. 111–203 substituted comma for semicolon after "entity" in introductory provisions.
 
 <b>1998</b>—Pub. L. 105–353 made technical correction relating to placement of section in subchapter.
 

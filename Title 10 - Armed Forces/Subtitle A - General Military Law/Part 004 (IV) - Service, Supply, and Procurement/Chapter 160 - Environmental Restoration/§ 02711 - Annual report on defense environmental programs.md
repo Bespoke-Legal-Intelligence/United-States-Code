@@ -42,9 +42,9 @@ Report Required.—The Secretary of Defense shall submit to Congress each year, 
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “environmental quality program” means a program of activities relating to environmental compliance, conservation, pollution prevention, and other activities relating to environmental quality as the Secretary may designate; and
+&emsp;(1) the term "environmental quality program" means a program of activities relating to environmental compliance, conservation, pollution prevention, and other activities relating to environmental quality as the Secretary may designate; and
 
-&emsp;(2) the term “major activities” with respect to an environmental program means—
+&emsp;(2) the term "major activities" with respect to an environmental program means—
 
 &emsp;&emsp;(A) environmental compliance activities;
 

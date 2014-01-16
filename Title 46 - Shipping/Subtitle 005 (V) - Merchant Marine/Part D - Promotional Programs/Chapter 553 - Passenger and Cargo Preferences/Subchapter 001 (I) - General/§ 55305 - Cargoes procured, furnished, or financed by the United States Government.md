@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “privately-owned commercial vessel of the United States” does not include a vessel that, after September 21, 1961, was built or rebuilt outside the United States or documented under the laws of a foreign country, until the vessel has been documented under the laws of the United States for at least 3 years.
+Definition.—In this section, the term "privately-owned commercial vessel of the United States" does not include a vessel that, after September 21, 1961, was built or rebuilt outside the United States or documented under the laws of a foreign country, until the vessel has been documented under the laws of the United States for at least 3 years.
 
 (b)
 
@@ -20,7 +20,7 @@ Waivers.—The President, the Secretary of Defense, or Congress (by concurrent r
 
 Programs of Other Agencies.—
 
-&emsp;(1) Each department or agency that has responsibility for a program under this section shall administer that program with respect tothis section under regulations and guidance issued by the Secretary of Transportation. The Secretary, after consulting with the department or agency or organization or person involved, shall have the sole responsibility for determining if a program is subject to the requirements of this section.
+&emsp;(1) Each department or agency that has responsibility for a program under this section shall administer that program with respect to this section under regulations and guidance issued by the Secretary of Transportation. The Secretary, after consulting with the department or agency or organization or person involved, shall have the sole responsibility for determining if a program is subject to the requirements of this section.
 
 &emsp;(2) The Secretary—
 
@@ -40,7 +40,7 @@ Security of Government-Impelled Cargo.—
 
 &emsp;(2) The Secretary of Transportation shall direct each department or agency responsible to provide armed personnel under paragraph (1) to reimburse, subject to the availability of appropriations, the owners or operators of applicable vessels for the cost of providing armed personnel.
 
-&emsp;(3) In this subsection, the term “high-risk waters” means waters so designated by the Commandant of the Coast Guard in the Port Security Advisory in effect on the date on which an applicable voyage begins.
+&emsp;(3) In this subsection, the term "high-risk waters" means waters so designated by the Commandant of the Coast Guard in the Port Security Advisory in effect on the date on which an applicable voyage begins.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642; Pub. L. 110–417, div. C, title XXXV, §3511(a), (b), Oct. 14, 2008, 122 Stat. 4769; Pub. L. 112–213, title V, §503, Dec. 20, 2012, 126 Stat. 1575.)
 
@@ -72,9 +72,9 @@ June 29, 1936, ch. 858, title IX, §901(b), as added Aug. 26, 1954, ch. 936, 68 
 
 46 App.:1241(b)(2).
 
-In this section, the words “commercial vessels of the United States” are substituted for “United States-flag commercial vessels” for consistency in the revised title.
+In this section, the words "commercial vessels of the United States" are substituted for "United States-flag commercial vessels" for consistency in the revised title.
 
-In subsection (a), the words “the provisions of this subsection shall not apply to cargoes carried in the vessels of the Panama Canal Company” are omitted as obsolete. The words “Nothing herein shall repeal or otherwise modify the provisions of section 1241–1 of this Appendix” are omitted as unnecessary. The last proviso in 46 App. U.S.C. 1241(b)(1) is omitted as obsolete.
+In subsection (a), the words "the provisions of this subsection shall not apply to cargoes carried in the vessels of the Panama Canal Company" are omitted as obsolete. The words "Nothing herein shall repeal or otherwise modify the provisions of section 1241–1 of this Appendix" are omitted as unnecessary. The last proviso in 46 App. U.S.C. 1241(b)(1) is omitted as obsolete.
 
 #### References in Text
 
@@ -84,13 +84,13 @@ Section 25(c)(1) of the Office of Federal Procurement Policy Act, referred to in
 
 <b>2012</b>—Subsec. (e). Pub. L. 112–213 added subsec. (e).
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–417, §3511(a), substituted “foreign country, organization, or persons” for “foreign country”, “commodities, or provides financing in any way with Federal funds for the account of any persons unless otherwise exempted, within” for “commodities, within”, and “furnishing or obtaining” for “furnishing”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–417, §3511(a), substituted "foreign country, organization, or persons" for "foreign country", "commodities, or provides financing in any way with Federal funds for the account of any persons unless otherwise exempted, within" for "commodities, within", and "furnishing or obtaining" for "furnishing".
 
-Subsec. (d). Pub. L. 110–417, §3511(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “An agency having responsibility under this section shall administer its programs with respect to this section under regulations prescribed by the Secretary of Transportation. The Secretary shall review the administration of those programs and report annually to Congress on their administration.”
+Subsec. (d). Pub. L. 110–417, §3511(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "An agency having responsibility under this section shall administer its programs with respect to this section under regulations prescribed by the Secretary of Transportation. The Secretary shall review the administration of those programs and report annually to Congress on their administration."
 
 #### Regulations
 
-Pub. L. 110–417, div. C, title XXXV, §3511(c), Oct. 14, 2008, 122 Stat. 4770, provided that: “The Secretary of Transportation shall prescribe such rules as are necessary to carry out section 55305(d) of title 46, United States Code. The Secretary may prescribe interim rules necessary to carry out section 55305(d) of such title. An interim rule prescribed under this subsection shall remain in effect until superseded by a final rule.”
+Pub. L. 110–417, div. C, title XXXV, §3511(c), Oct. 14, 2008, 122 Stat. 4770, provided that: "The Secretary of Transportation shall prescribe such rules as are necessary to carry out section 55305(d) of title 46, United States Code. The Secretary may prescribe interim rules necessary to carry out section 55305(d) of such title. An interim rule prescribed under this subsection shall remain in effect until superseded by a final rule."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

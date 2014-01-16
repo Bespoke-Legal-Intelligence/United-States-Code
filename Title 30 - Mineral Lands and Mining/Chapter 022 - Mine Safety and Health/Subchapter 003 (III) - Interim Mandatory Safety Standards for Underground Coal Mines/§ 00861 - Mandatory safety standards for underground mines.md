@@ -2,7 +2,7 @@
 
 #### (a) Coverage; enforcement; review
 
-The provisions of sections 862 through 878 of this title shall be interim mandatory safetystandards applicable to all underground coal mines until superseded in whole or in part by improved mandatory safety standards promulgated by the Secretary under the provisions of section 811 of this title, and shall be enforced in the same manner and to the same extent as any mandatory safety standard promulgated under section 811 of this title. Any orders issued in the enforcement of the interim standards set forth in this subchapter shall be subject to review as provided in subchapter I of this chapter.
+The provisions of sections 862 through 878 of this title shall be interim mandatory safety standards applicable to all underground coal mines until superseded in whole or in part by improved mandatory safety standards promulgated by the Secretary under the provisions of section 811 of this title, and shall be enforced in the same manner and to the same extent as any mandatory safety standard promulgated under section 811 of this title. Any orders issued in the enforcement of the interim standards set forth in this subchapter shall be subject to review as provided in subchapter I of this chapter.
 
 #### (b) Purpose; initiation of studies and research
 
@@ -12,7 +12,7 @@ The purpose of this subchapter is to provide for the immediate application of ma
 
 #### Amendments
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–164, §203(a), substituted “The Secretary of the Interior in coordination with the Secretary shall immediately initiate studies” for “The Secretary shall immediately initiate studies”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–164, §203(a), substituted "The Secretary of the Interior in coordination with the Secretary shall immediately initiate studies" for "The Secretary shall immediately initiate studies".
 
 Subsecs. (c), (d). Pub. L. 95–164, §203(b), struck out subsec. (c) which related to the modification of standards, and subsec. (d) which related to the applicability of section 553 of title 5 in cases where the provisions of sections 862 to 878 of this title had provided that certain actions, conditions, or requirements be carried out as prescribed by the Secretary or the Secretary of Health, Education, and Welfare.
 

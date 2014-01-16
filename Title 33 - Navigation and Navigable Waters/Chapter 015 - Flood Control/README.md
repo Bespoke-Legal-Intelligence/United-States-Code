@@ -5,7 +5,7 @@
 | [701\.](%C2%A7%2000701%20-%20Flood%20control%20generally.md) | Flood control generally. |
 | 701–1. | Declaration of policy of 1944 act. |
 | [701a.](%C2%A7%2000701a%20-%20Declaration%20of%20policy%20of%201936%20act.md) | Declaration of policy of 1936 act. |
-| 701a–1. | “Flood control” defined; jurisdiction of Federal investigations. |
+| 701a–1. | "Flood control" defined; jurisdiction of Federal investigations. |
 | [701b.](%C2%A7%2000701b%20-%20Supervision%20of%20Secretary%20of%20the%20Army%3B%20reclamation%20projects%20unaffected.md) | Supervision of Secretary of the Army; reclamation projects unaffected. |
 | 701b–1. | Transfer of jurisdiction in certain cases to Department of Agriculture. |
 | 701b–2. | Cooperation by Secretaries of the Army and Agriculture; expenditures. |
@@ -105,7 +105,7 @@
 - [&sect; 00701 - Flood control generally](%C2%A7%2000701%20-%20Flood%20control%20generally.md)
 - [&sect; 00701&#8211;1 - Declaration of policy of 1944 act](%C2%A7%2000701%E2%80%931%20-%20Declaration%20of%20policy%20of%201944%20act.md)
 - [&sect; 00701a - Declaration of policy of 1936 act](%C2%A7%2000701a%20-%20Declaration%20of%20policy%20of%201936%20act.md)
-- [&sect; 00701a&#8211;1 - &#8220;Flood control&#8221; defined; jurisdiction of Federal investigations](%C2%A7%2000701a%E2%80%931%20-%20%E2%80%9CFlood%20control%E2%80%9D%20defined%3B%20jurisdiction%20of%20Federal%20investigations.md)
+- [&sect; 00701a&#8211;1 - Flood control defined; jurisdiction of Federal investigations](%C2%A7%2000701a%E2%80%931%20-%20Flood%20control%20defined%3B%20jurisdiction%20of%20Federal%20investigations.md)
 - [&sect; 00701b - Supervision of Secretary of the Army; reclamation projects unaffected](%C2%A7%2000701b%20-%20Supervision%20of%20Secretary%20of%20the%20Army%3B%20reclamation%20projects%20unaffected.md)
 - [&sect; 00701b&#8211;1 - Transfer of jurisdiction in certain cases to Department of Agriculture](%C2%A7%2000701b%E2%80%931%20-%20Transfer%20of%20jurisdiction%20in%20certain%20cases%20to%20Department%20of%20Agriculture.md)
 - [&sect; 00701b&#8211;2 - Cooperation by Secretaries of the Army and Agriculture; expenditures](%C2%A7%2000701b%E2%80%932%20-%20Cooperation%20by%20Secretaries%20of%20the%20Army%20and%20Agriculture%3B%20expenditures.md)

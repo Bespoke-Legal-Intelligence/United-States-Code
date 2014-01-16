@@ -2,7 +2,7 @@
 
 As used in this chapter:
 
-&emsp;(1) The term “employed by the Federal Government outside the United States” means—
+&emsp;(1) The term "employed by the Federal Government outside the United States" means—
 
 &emsp;&emsp;(A) employed as a civilian employee of the Federal Government, as a Federal contractor (including a subcontractor at any tier), or as an employee of a Federal contractor (including a subcontractor at any tier);
 
@@ -10,7 +10,7 @@ As used in this chapter:
 
 &emsp;&emsp;(C) not a national of or ordinarily resident in the host nation.
 
-&emsp;(2) The term “accompanying the Federal Government outside the United States” means—
+&emsp;(2) The term "accompanying the Federal Government outside the United States" means—
 
 &emsp;&emsp;(A) a dependant of—
 

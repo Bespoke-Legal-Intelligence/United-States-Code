@@ -12,7 +12,7 @@ The President is authorized to exempt from the prohibition under subsection (a) 
 
 #### (1) In general
 
-&emsp;The term “sensitive technology” means hardware, software, telecommunications equipment, or any other technology, that the President determines is to be used specifically—
+&emsp;The term "sensitive technology" means hardware, software, telecommunications equipment, or any other technology, that the President determines is to be used specifically—
 
 &emsp;&emsp;(A) to restrict the free flow of unbiased information in Iran; or
 
@@ -20,7 +20,7 @@ The President is authorized to exempt from the prohibition under subsection (a) 
 
 #### (2) Exception
 
-&emsp;The term “sensitive technology” does not include information or informational materials the exportation of which the President does not have the authority to regulate or prohibit pursuant to section 1702(b)(3) of title 50.
+&emsp;The term "sensitive technology" does not include information or informational materials the exportation of which the President does not have the authority to regulate or prohibit pursuant to section 1702(b)(3) of title 50.
 
 #### (d) Government Accountability Office report on effect of procurement prohibition
 

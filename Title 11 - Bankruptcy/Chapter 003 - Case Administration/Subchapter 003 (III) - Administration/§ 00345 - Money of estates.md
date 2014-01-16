@@ -44,11 +44,11 @@ These provisions do not address the question of aggregation of funds by a privat
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–394 substituted semicolon for period at end of par. (2) and inserted concluding provisions after par. (2).
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–554 amended subsec. (b) generally, substituting “approved by the United States trustee for the district” for “approved by the court for the district” in par. (1)(B).
+<b>1986</b>—Subsec. (b). Pub. L. 99–554 amended subsec. (b) generally, substituting "approved by the United States trustee for the district" for "approved by the court for the district" in par. (1)(B).
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–353 added subsec. (c).
 
-<b>1982</b>—Subsec. (b)(2). Pub. L. 97–258 substituted “section 9303 of title 31” for “section 15 of title 6”.
+<b>1982</b>—Subsec. (b)(2). Pub. L. 97–258 substituted "section 9303 of title 31" for "section 15 of title 6".
 
 #### Effective Date of 1994 Amendment
 

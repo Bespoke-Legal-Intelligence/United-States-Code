@@ -6,5 +6,5 @@ As to any land subject to geothermal leasing under section 1002 of this title, a
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–58 inserted section catchline and substituted “geothermal resources” for “geothermal steam and associated geothermal resources” in text.
+<b>2005</b>—Pub. L. 109–58 inserted section catchline and substituted "geothermal resources" for "geothermal steam and associated geothermal resources" in text.
 

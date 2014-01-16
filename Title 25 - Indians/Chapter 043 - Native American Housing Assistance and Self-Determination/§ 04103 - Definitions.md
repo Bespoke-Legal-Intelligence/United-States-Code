@@ -4,7 +4,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (1) Adjusted income
 
-&emsp;The term “adjusted income” means the annual income that remains after excluding the following amounts:
+&emsp;The term "adjusted income" means the annual income that remains after excluding the following amounts:
 
 #### (A) Youths, students, and persons with disabilities
 
@@ -48,33 +48,33 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (2) Affordable housing
 
-&emsp;The term “affordable housing” means housing that complies with the requirements for affordable housing under subchapter II of this chapter. The term includes permanent housing for homeless persons who are persons with disabilities, transitional housing, and single room occupancy housing.
+&emsp;The term "affordable housing" means housing that complies with the requirements for affordable housing under subchapter II of this chapter. The term includes permanent housing for homeless persons who are persons with disabilities, transitional housing, and single room occupancy housing.
 
 #### (3) Drug-related criminal activity
 
-&emsp;The term “drug-related criminal activity” means the illegal manufacture, sale, distribution, use, or possession with intent to manufacture, sell, distribute, or use, of a controlled substance (as such term is defined in section 802 of title 21).
+&emsp;The term "drug-related criminal activity" means the illegal manufacture, sale, distribution, use, or possession with intent to manufacture, sell, distribute, or use, of a controlled substance (as such term is defined in section 802 of title 21).
 
 #### (4) Elderly families and near-elderly families
 
-&emsp;The terms “elderly family” and “near-elderly family” mean a family whose head (or hisor her spouse), or whose sole member, is an elderly person or a near-elderly person, respectively. Such terms include 2 or more elderly persons or near-elderly persons living together, and 1 or more such persons living with 1 or more persons determined under the Indian housing plan for the agency to be essential to their care or well-being.
+&emsp;The terms "elderly family" and "near-elderly family" mean a family whose head (or his or her spouse), or whose sole member, is an elderly person or a near-elderly person, respectively. Such terms include 2 or more elderly persons or near-elderly persons living together, and 1 or more such persons living with 1 or more persons determined under the Indian housing plan for the agency to be essential to their care or well-being.
 
 #### (5) Elderly person
 
-&emsp;The term “elderly person” means a person who is at least 62 years of age.
+&emsp;The term "elderly person" means a person who is at least 62 years of age.
 
 #### (6) Family
 
-&emsp;The term “family” includes a family with or without children, an elderly family, a near-elderly family, a disabled family, and a single person.
+&emsp;The term "family" includes a family with or without children, an elderly family, a near-elderly family, a disabled family, and a single person.
 
 #### (7) Grant beneficiary
 
-&emsp;The term “grant beneficiary” means the Indian tribe or tribes on behalf of which a grant is made under this chapter to a recipient.
+&emsp;The term "grant beneficiary" means the Indian tribe or tribes on behalf of which a grant is made under this chapter to a recipient.
 
 #### (8) Housing related community development
 
 #### (A) In general
 
-&emsp;&emsp;The term “housing related community development” means any facility, community building, business, activity, or infrastructure that—
+&emsp;&emsp;The term "housing related community development" means any facility, community building, business, activity, or infrastructure that—
 
 &emsp;&emsp;&emsp;(i) is owned by an Indian tribe or a tribally designated housing entity;
 
@@ -88,11 +88,11 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (B) Exclusion
 
-&emsp;&emsp;The term “housing and community development” does not include any activity conducted by any Indian tribe under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.).
+&emsp;&emsp;The term "housing and community development" does not include any activity conducted by any Indian tribe under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.).
 
 #### (9) Income
 
-&emsp;The term “income” means income from all sources of each member of the household, as determined in accordance with criteria prescribed by the Secretary, except that the following amounts may not be considered as income under this paragraph:
+&emsp;The term "income" means income from all sources of each member of the household, as determined in accordance with criteria prescribed by the Secretary, except that the following amounts may not be considered as income under this paragraph:
 
 &emsp;&emsp;(A) Any amounts not actually received by the family.
 
@@ -102,31 +102,31 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (10) Indian
 
-&emsp;The term “Indian” means any person who is a member of an Indian tribe.
+&emsp;The term "Indian" means any person who is a member of an Indian tribe.
 
 #### (11) Indian area
 
-&emsp;The term “Indian area” means the area within which an Indian tribe or a tribally designated housing entity, as authorized by 1 or more Indian tribes, provides assistance under this chapter for affordable housing.
+&emsp;The term "Indian area" means the area within which an Indian tribe or a tribally designated housing entity, as authorized by 1 or more Indian tribes, provides assistance under this chapter for affordable housing.
 
 #### (12) Indian housing plan
 
-&emsp;The term “Indian housing plan” means a plan under section 4112 of this title.
+&emsp;The term "Indian housing plan" means a plan under section 4112 of this title.
 
 #### (13) Indian tribe
 
 #### (A) In general
 
-&emsp;&emsp;The term “Indian tribe” means a tribe that is a federally recognized tribe or a State recognized tribe.
+&emsp;&emsp;The term "Indian tribe" means a tribe that is a federally recognized tribe or a State recognized tribe.
 
 #### (B) Federally recognized tribe
 
-&emsp;&emsp;The term “federally recognized tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+&emsp;&emsp;The term "federally recognized tribe" means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
 #### (C) State recognized tribe
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “State recognized tribe” means any tribe, band, nation, pueblo, village, or community—
+&emsp;&emsp;&emsp;The term "State recognized tribe" means any tribe, band, nation, pueblo, village, or community—
 
 &emsp;&emsp;&emsp;&emsp;(I) that has been recognized as an Indian tribe by any State; and
 
@@ -142,11 +142,11 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (14) Low-income family
 
-&emsp;The term “low-income family” means a family whose income does not exceed 80 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may, for purposes of this paragraph, establish income ceilings higher or lower than 80 percent of the median for the area on the basis of the findings of the Secretary or the agency that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
+&emsp;The term "low-income family" means a family whose income does not exceed 80 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may, for purposes of this paragraph, establish income ceilings higher or lower than 80 percent of the median for the area on the basis of the findings of the Secretary or the agency that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
 
 #### (15) Median income
 
-&emsp;The term “median income” means, with respect to an area that is an Indian area, the greater of—
+&emsp;The term "median income" means, with respect to an area that is an Indian area, the greater of—
 
 &emsp;&emsp;(A) the median income for the Indian area, which the Secretary shall determine; or
 
@@ -154,15 +154,15 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (16) Near-elderly person
 
-&emsp;The term “near-elderly person” means a person who is at least 55 years of age and less than 62 years of age.
+&emsp;The term "near-elderly person" means a person who is at least 55 years of age and less than 62 years of age.
 
 #### (17) Nonprofit
 
-&emsp;The term “nonprofit” means, with respect to an organization, association, corporation, or other entity, that no part of the net earnings of the entity inures to the benefit of any member, founder, contributor, or individual.
+&emsp;The term "nonprofit" means, with respect to an organization, association, corporation, or other entity, that no part of the net earnings of the entity inures to the benefit of any member, founder, contributor, or individual.
 
 #### (18) Person with disabilities
 
-&emsp;The term “person with disabilities” means a person who—
+&emsp;The term "person with disabilities" means a person who—
 
 &emsp;&emsp;(A) has a disability as defined in section 423 of title 42;
 
@@ -180,19 +180,19 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (19) Recipient
 
-&emsp;The term “recipient” means an Indian tribe or the entity for one or more Indian tribes that is authorized to receive grant amounts under this chapter on behalf of the tribe or tribes.
+&emsp;The term "recipient" means an Indian tribe or the entity for one or more Indian tribes that is authorized to receive grant amounts under this chapter on behalf of the tribe or tribes.
 
 #### (20) Secretary
 
-&emsp;Except as otherwise specifically provided in this chapter, the term “Secretary” means the Secretary of Housing and Urban Development.
+&emsp;Except as otherwise specifically provided in this chapter, the term "Secretary" means the Secretary of Housing and Urban Development.
 
 #### (21) State
 
-&emsp;The term “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States and Indian tribes.
+&emsp;The term "State" means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States and Indian tribes.
 
 #### (22) Tribally designated housing entity
 
-&emsp;The terms “tribally designated housing entity” and “housing entity” have the following meaning:
+&emsp;The terms "tribally designated housing entity" and "housing entity" have the following meaning:
 
 #### (A) Existing IHA's
 
@@ -224,7 +224,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 The Indian Gaming Regulatory Act, referred to in par. (8)(B), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
@@ -240,17 +240,17 @@ The United States Housing Act of 1937, referred to in pars. (13)(C)(i)(II) and (
 
 <b>2010</b>—Par. (9)(C). Pub. L. 111–269 added subpar. (C).
 
-<b>2008</b>—Pars. (8) to (22). Pub. L. 110–411 added par. (8), redesignated former pars. (8) to (21) as (9) to (22), respectively, and struck out former par. (22) which defined “housing related community development”.
+<b>2008</b>—Pars. (8) to (22). Pub. L. 110–411 added par. (8), redesignated former pars. (8) to (21) as (9) to (22), respectively, and struck out former par. (22) which defined "housing related community development".
 
 <b>2002</b>—Par. (22). Pub. L. 107–292 added par. (22).
 
-<b>2000</b>—Par. (17)(C). Pub. L. 106–402 substituted “as defined in section 15002 of title 42” for “as defined in section 6001 of title 42”.
+<b>2000</b>—Par. (17)(C). Pub. L. 106–402 substituted "as defined in section 15002 of title 42" for "as defined in section 6001 of title 42".
 
-<b>1998</b>—Par. (10). Pub. L. 105–276, §595(e)(1), amended heading and text of par. (10) generally. Prior to amendment, text read as follows: “The term ‘Indian area’ means the area within which a tribally designated housing entity is authorized by one or more Indian tribes to provide assistance under this chapter for affordable housing.”
+<b>1998</b>—Par. (10). Pub. L. 105–276, §595(e)(1), amended heading and text of par. (10) generally. Prior to amendment, text read as follows: "The term 'Indian area' means the area within which a tribally designated housing entity is authorized by one or more Indian tribes to provide assistance under this chapter for affordable housing."
 
-Par. (12)(B). Pub. L. 105–256 substituted “Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)” for “Indian Self-Determination and Education Assistance Act of 1975”.
+Par. (12)(B). Pub. L. 105–256 substituted "Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)" for "Indian Self-Determination and Education Assistance Act of 1975".
 
-Par. (12)(C)(i)(II). Pub. L. 105–276, §595(e)(2), substituted “705” for “107”.
+Par. (12)(C)(i)(II). Pub. L. 105–276, §595(e)(2), substituted "705" for "107".
 
 #### Effective Date
 

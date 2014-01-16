@@ -6,5 +6,5 @@ No individual employed or assigned by or in any Head Start agency or other agenc
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–134 inserted “or in” after “assigned by”.
+<b>2007</b>—Pub. L. 110–134 inserted "or in" after "assigned by".
 

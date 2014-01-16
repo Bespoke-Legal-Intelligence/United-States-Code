@@ -28,7 +28,7 @@ If any person takes any adverse action with respect to any consumer that is base
 
 #### (1) In general
 
-&emsp;Whenever credit for personal, family, or household purposes involving a consumer is denied or the charge for such credit is increased either wholly or partly because of information obtained from a person other than a consumer reporting agency bearing upon the consumer's credit worthiness, credit standing,credit capacity, character, general reputation, personal characteristics, or mode of living, the user of such information shall, within a reasonable period of time, upon the consumer's written request for the reasons for such adverse action received within sixty days after learning of such adverse action, disclose the nature of the information to the consumer. The user of such information shall clearly and accurately disclose to the consumer his right to make such written request at the time such adverse action is communicated to the consumer.
+&emsp;Whenever credit for personal, family, or household purposes involving a consumer is denied or the charge for such credit is increased either wholly or partly because of information obtained from a person other than a consumer reporting agency bearing upon the consumer's credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living, the user of such information shall, within a reasonable period of time, upon the consumer's written request for the reasons for such adverse action received within sixty days after learning of such adverse action, disclose the nature of the information to the consumer. The user of such information shall clearly and accurately disclose to the consumer his right to make such written request at the time such adverse action is communicated to the consumer.
 
 #### (2) Duties of person taking certain actions based on information provided by affiliate
 
@@ -100,7 +100,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (1) Guidelines
 
-&emsp;The Federal banking agencies, the National Credit Union Administration, the Federal Trade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title—
+&emsp;The Federal banking agencies, the National Credit Union Administration, the FederalTrade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title—
 
 &emsp;&emsp;(A) establish and maintain guidelines for use by each financial institution and each creditor regarding identity theft with respect to account holders at, or customers of, such entities, and update such guidelines as often as necessary;
 
@@ -130,7 +130,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (4) Definitions
 
-&emsp;As used in this subsection, the term “creditor”—
+&emsp;As used in this subsection, the term "creditor"—
 
 &emsp;&emsp;(A) means a creditor, as defined in section 1691a of this title, that regularly and in the ordinary course of business—
 
@@ -158,7 +158,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;Nothing in this subsection shall be construed to prohibit—
 
-&emsp;&emsp;(A) the repurchase of a debt in any case in which the assignee of the debt requires suchrepurchase because the debt has resulted from identity theft;
+&emsp;&emsp;(A) the repurchase of a debt in any case in which the assignee of the debt requires such repurchase because the debt has resulted from identity theft;
 
 &emsp;&emsp;(B) the securitization of a debt or the pledging of a portfolio of debt as collateral in connection with a borrowing; or
 
@@ -246,25 +246,25 @@ If a person acting as a debt collector (as that term is defined in subchapter V 
 
 &emsp;&emsp;This section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials identified in that section.
 
-(Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, §2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§114, 154(b), 155, title II, §213(a), title III, §311(a), title VIII, §811(h), Dec. 4, 2003, 117 Stat. 1960, 1967, 1978, 1988, 2012; Pub. L. 111–203, title X, §§1088(a)(2)(C), (7)–(9), 1100F, July 21, 2010, 124 Stat. 2087, 2088, 2112; Pub. L. 111–319, §2(a), Dec. 18, 2010, 124 Stat. 3457.)
+(Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, §2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§114, 154(b), 155, title II, §213(a), title III, §311(a), title VIII, §811(h), Dec. 4, 2003, 117 Stat.1960, 1967, 1978, 1988, 2012; Pub. L. 111–203, title X, §§1088(a)(2)(C), (7)–(9), 1100F, July 21, 2010, 124 Stat. 2087, 2088, 2112; Pub. L. 111–319, §2(a), Dec. 18, 2010, 124 Stat. 3457.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(2) to (4). Pub. L. 111–203, §1100F(1), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “paragraph (3)” for “paragraph (2)” in par. (4).
+<b>2010</b>—Subsec. (a)(2) to (4). Pub. L. 111–203, §1100F(1), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted "paragraph (3)" for "paragraph (2)" in par. (4).
 
-Subsec. (d)(2)(B). Pub. L. 111–203, §1088(a)(7), substituted “the Federal Trade Commission, the Federal banking agencies,” for “the Federal banking agencies”.
+Subsec. (d)(2)(B). Pub. L. 111–203, §1088(a)(7), substituted "the Federal Trade Commission, the Federal banking agencies," for "the Federal banking agencies".
 
-Pub. L. 111–203, §1088(a)(2)(C), substituted “the Bureau” for “the Commission”.
+Pub. L. 111–203, §1088(a)(2)(C), substituted "the Bureau" for "the Commission".
 
-Subsec. (e)(1). Pub. L. 111–203, §1088(a)(8), substituted “the Federal Trade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission” for “and the Commission” in introductory provisions.
+Subsec. (e)(1). Pub. L. 111–203, §1088(a)(8), substituted "the Federal Trade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission" for "and the Commission" in introductory provisions.
 
 Subsec. (e)(4). Pub. L. 111–319 added par. (4).
 
 Subsec. (h)(5)(E). Pub. L. 111–203, §1100F(2), added subpar. (E).
 
-Subsec. (h)(6)(A). Pub. L. 111–203, §1088(a)(9), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Commission and the Board shall jointly prescribe rules.”
+Subsec. (h)(6)(A). Pub. L. 111–203, §1088(a)(9), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "The Commission and the Board shall jointly prescribe rules."
 
-<b>2003</b>—Subsec. (d)(2). Pub. L. 108–159, §213(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A statement under paragraph (1) shall include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title.”
+<b>2003</b>—Subsec. (d)(2). Pub. L. 108–159, §213(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "A statement under paragraph (1) shall include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title."
 
 Subsec. (e). Pub. L. 108–159, §811(h), repealed Pub. L. 104–208, §2411(c). See 1996 Amendment note below.
 
@@ -276,11 +276,11 @@ Subsec. (g). Pub. L. 108–159, §155, added subsec. (g).
 
 Subsec. (h). Pub. L. 108–159, §311(a), added subsec. (h).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2411(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “Whenever credit or insurance for personal, family, or household purposes, or employment involving a consumer is denied or the charge for such credit or insurance is increased either wholly or partly because of information contained in a consumer report from a consumer reporting agency, the user of the consumer report shall so advise the consumer against whom such adverse action has been taken and supply the name and address of the consumer reporting agency making the report.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2411(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "Whenever credit or insurance for personal, family, or household purposes, or employment involving a consumer is denied or the charge for such credit or insurance is increased either wholly or partly because of information contained in a consumer report from a consumer reporting agency, the user of the consumer report shall so advise the consumer against whom such adverse action has been taken and supply the name and address of the consumer reporting agency making the report."
 
 Subsec. (b). Pub. L. 104–208, §2411(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
 
-Subsec. (c). Pub. L. 104–208, §2411(d), substituted “this section” for “subsections (a) and (b) of this section”.
+Subsec. (c). Pub. L. 104–208, §2411(d), substituted "this section" for "subsections (a) and (b) of this section".
 
 Subsec. (d). Pub. L. 104–208, §2411(b), added subsec. (d).
 
@@ -288,7 +288,7 @@ Subsec. (e). Pub. L. 104–208, §2411(c), which added subsec. (e) containing su
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–319, §2(b), Dec. 18, 2010, 124 Stat. 3458, provided that: “The amendment made by this section \[amending this section\] shall become effective on the date of enactment of this Act \[Dec. 18, 2010\].”
+Pub. L. 111–319, §2(b), Dec. 18, 2010, 124 Stat. 3458, provided that: "The amendment made by this section \[amending this section\] shall become effective on the date of enactment of this Act \[Dec. 18, 2010\]."
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
@@ -302,5 +302,5 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 #### Regulations
 
-Pub. L. 108–159, title II, §213(b), Dec. 4, 2003, 117 Stat. 1979, provided that: “Regulations required by section 615(d)(2) of the Fair Credit Reporting Act \[15 U.S.C. 1681m(d)(2)\], as amended by this section, shall be issued in final form not later than 1 year after the date of enactment of this Act \[Dec. 4, 2003\].”
+Pub. L. 108–159, title II, §213(b), Dec. 4, 2003, 117 Stat. 1979, provided that: "Regulations required by section 615(d)(2) of the Fair Credit Reporting Act \[15 U.S.C. 1681m(d)(2)\], as amended by this section, shall be issued in final form not later than 1 year after the date of enactment of this Act \[Dec. 4, 2003\]."
 

@@ -14,21 +14,21 @@ In this section:
 
 #### (1) Low-income student
 
-&emsp;The term “low-income student” means a student who is determined by a local educational agency to be from a low-income family using the measures described in section 6313(a)(5) of this title.
+&emsp;The term "low-income student" means a student who is determined by a local educational agency to be from a low-income family using the measures described in section 6313(a)(5) of this title.
 
 #### (2) Feeder pattern
 
-&emsp;The term “feeder pattern” means a secondary school and the elementary schools and middle schools that channel students into that secondary school.
+&emsp;The term "feeder pattern" means a secondary school and the elementary schools and middle schools that channel students into that secondary school.
 
 #### (c) Contract authorized
 
-From the amount appropriated to carry out this section, the Secretary is authorized to award a five-year contract to Project GRAD USA (referred to in this section as the “contractor”), a nonprofit education organization that has as its primary purpose the improvement of secondary school graduation and postsecondary attendance and completion rates for low-income students. Such contract shall be used to carry out the requirements of subsection (d) and to implement and sustain integrated education reform services through subcontractor activities described in subsection (e)(3) at existing Project GRAD program sites and to promote the expansion to new sites.
+From the amount appropriated to carry out this section, the Secretary is authorized to award a five-year contract to Project GRAD USA (referred to in this section as the "contractor"), a nonprofit education organization that has as its primary purpose the improvement of secondary school graduation and postsecondary attendance and completion rates for low-income students. Such contract shall be used to carry out the requirements of subsection (d) and to implement and sustain integrated education reform services through subcontractor activities described in subsection (e)(3) at existing Project GRAD program sites and to promote the expansion to new sites.
 
 #### (d) Requirements of contract
 
 The Secretary shall enter into an agreement with the contractor that requires that the contractor shall—
 
-&emsp;(1) enter into subcontracts with nonprofit educational organizations that serve a substantial number or percentage of low-income students (referred to in this subsection as “subcontractors”), under which the subcontractors agree to implement the Project GRAD programs described in subsection (e) and provide matching funds for such programs;
+&emsp;(1) enter into subcontracts with nonprofit educational organizations that serve a substantial number or percentage of low-income students (referred to in this subsection as "subcontractors"), under which the subcontractors agree to implement the Project GRAD programs described in subsection (e) and provide matching funds for such programs;
 
 &emsp;(2) directly carry out—
 
@@ -126,7 +126,7 @@ Of the funds made available to carry out this section, not more than five percen
 
 #### (2) Evaluation by contractor and subcontractors
 
-&emsp;The contractor shall require each subcontractor to prepare an in-depth report of the results and the use of funds of each Project GRAD program funded under this section that includes—
+&emsp;The contractor shall require each subcontractor to prepare an in-depth report of theresults and the use of funds of each Project GRAD program funded under this section that includes—
 
 &emsp;&emsp;(A) data on the reading and mathematics achievement of students involved in the Project GRAD program;
 

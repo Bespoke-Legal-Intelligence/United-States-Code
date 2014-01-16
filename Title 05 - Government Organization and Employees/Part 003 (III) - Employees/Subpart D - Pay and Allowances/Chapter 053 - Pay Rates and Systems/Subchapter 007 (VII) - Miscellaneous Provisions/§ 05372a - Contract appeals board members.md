@@ -16,7 +16,7 @@
 
 (c) Rates of pay taking effect under this section shall be printed in the Federal Register and the Code of Federal Regulations.
 
-(Added Pub. L. 101–509, title V, §529 \[title I, §104(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1446; amended Pub. L. 109–163, div. A, title VIII, §847(f)(1), Jan. 6, 2006, 119 Stat. 3395; Pub. L. 111–350, §5(a)(9), Jan. 4, 2011, 124 Stat. 3841.)
+(Added Pub. L. 101–509, title V, §529 \[title I, §104(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1446;amended Pub. L. 109–163, div. A, title VIII, §847(f)(1), Jan. 6, 2006, 119 Stat. 3395; Pub. L. 111–350, §5(a)(9), Jan. 4, 2011, 124 Stat. 3841.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) Controlled group of corporations
 
-For purposes of this part, the term “controlled group of corporations” means any group of—
+For purposes of this part, the term "controlled group of corporations" means any group of—
 
 #### (1) Parent-subsidiary controlled group
 
@@ -72,23 +72,23 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (1) General rule
 
-&emsp;For purposes of this part, the term “stock” does not include—
+&emsp;For purposes of this part, the term "stock" does not include—
 
 &emsp;&emsp;(A) nonvoting stock which is limited and preferred as to dividends,
 
 &emsp;&emsp;(B) treasury stock, and
 
-&emsp;&emsp;(C) stock which is treated as “excluded stock” under paragraph (2).
+&emsp;&emsp;(C) stock which is treated as "excluded stock" under paragraph (2).
 
-#### (2) Stock treated as “excluded stock”
+#### (2) Stock treated as "excluded stock"
 
 #### (A) Parent-subsidiary controlled group
 
-&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as “parent corporation”) owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as “subsidiary corporation”), the following stock of the subsidiary corporation shall be treated as excluded stock—
+&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as "parent corporation") owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as "subsidiary corporation"), the following stock of the subsidiary corporation shall be treated as excluded stock—
 
 &emsp;&emsp;&emsp;(i) stock in the subsidiary corporation held by a trust which is part of a plan of deferred compensation for the benefit of the employees of the parent corporation or the subsidiary corporation,
 
-&emsp;&emsp;&emsp;(ii) stock in the subsidiary corporation owned by an individual (within the meaning of subsection (d)(2)) who is a principal stockholder or officer of the parent corporation. For purposes of this clause, the term “principal stockholder” of a corporation means an individual who owns (within the meaning of subsection (d)(2)) 5 percent or more of the total combined voting power of all classes of stock entitled to vote or 5 percent or more of the total value of shares of all classes of stock in such corporation,
+&emsp;&emsp;&emsp;(ii) stock in the subsidiary corporation owned by an individual (within the meaning of subsection (d)(2)) who is a principal stockholder or officer of the parent corporation. For purposes of this clause, the term "principal stockholder" of a corporation means an individual who owns (within the meaning of subsection (d)(2)) 5 percent or more of the total combined voting power of all classes of stock entitled to vote or 5 percent or more of the total value of shares of all classes of stock in such corporation,
 
 &emsp;&emsp;&emsp;(iii) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an employee of the subsidiary corporation if such stock is subject to conditions which run in favor of such parent (or subsidiary) corporation and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock, or
 
@@ -96,9 +96,9 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (B) Brother-sister controlled group
 
-&emsp;&emsp;For purposes of subsection (a)(2), if 5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as“common owners”) own (within the meaning of subsection (d)(2)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in a corporation, the following stock of such corporation shall be treated as excluded stock—
+&emsp;&emsp;For purposes of subsection (a)(2), if 5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as"common owners") own (within the meaning of subsection (d)(2)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in a corporation, the following stock of such corporation shall be treated as excluded stock—
 
-&emsp;&emsp;&emsp;(i) stock in such corporation held by an employees’ trust described in section 401(a) which is exempt from tax under section 501(a), if such trust is for the benefit of the employees of such corporation,
+&emsp;&emsp;&emsp;(i) stock in such corporation held by an employees' trust described in section 401(a) which is exempt from tax under section 501(a), if such trust is for the benefit of the employees of such corporation,
 
 &emsp;&emsp;&emsp;(ii) stock in such corporation owned (within the meaning of subsection (d)(2)) by an employee of the corporation if such stock is subject to conditions which run in favor of any of such common owners (or such corporation) and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock. If a condition which limits or restricts the employee's right (or the direct owner's right) to dispose of such stock also applies to the stock held by any of the common owners pursuant to a bona fide reciprocal stock purchase arrangement, such condition shall not be treated as one which restricts or limits the employee's right to dispose of such stock, or
 
@@ -138,7 +138,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;(B) Stock owned, directly or indirectly, by or for any portion of a trust of which a person is considered the owner under subpart E of part I of subchapter J (relating to grantors and others treated as substantial owners) shall be considered as owned by such person.
 
-&emsp;(C) This paragraph shall not apply to stock owned by any employees’ trust described in section 401(a) which is exempt from tax under section 501(a).
+&emsp;(C) This paragraph shall not apply to stock owned by any employees' trust described in section 401(a) which is exempt from tax under section 501(a).
 
 #### (4) Attribution from corporations
 
@@ -174,7 +174,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (1) Employee defined
 
-&emsp;For purposes of this section the term “employee” has the same meaning such term is given by paragraphs (1) and (2) of section 3121(d).
+&emsp;For purposes of this section the term "employee" has the same meaning such term is given by paragraphs (1) and (2) of section 3121(d).
 
 #### (2) Operating rules
 
@@ -200,7 +200,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;If—
 
-&emsp;&emsp;(A) a parent corporation (as defined in subsection (c)(2)(A)), or a common owner (as defined in subsection (c)(2)(B)), of a corporation which is a member of a controlled group of corporations is under a duty (arising out of a written agreement) to sell stock of such corporation (referred to in this paragraph as “franchised corporation”) which is franchised to sell the products of another member, or the common owner, of such controlled group;
+&emsp;&emsp;(A) a parent corporation (as defined in subsection (c)(2)(A)), or a common owner (as defined in subsection (c)(2)(B)), of a corporation which is a member of a controlled group of corporations is under a duty (arising out of a written agreement) to sell stock of such corporation (referred to in this paragraph as "franchised corporation") which is franchised to sell the products of another member, or the common owner, of such controlled group;
 
 &emsp;&emsp;(B) such stock is to be sold to an employee (or employees) of such franchised corporation pursuant to a bona fide plan designed to eliminate the stock ownership of the parent corporation or of the common owner in the franchised corporation;
 
@@ -224,13 +224,13 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;Except as specifically provided in an applicable provision, subsection (a)(2) shall be applied to an applicable provision as if it read as follows:
 
-#### “(2) Brother-sister controlled group
+#### "(2) Brother-sister controlled group
 
-&emsp;“Two or more corporations if 5 or fewer persons who are individuals, estates, or trusts own (within the meaning of subsection (d)(2) stock possessing—
+&emsp;"Two or more corporations if 5 or fewer persons who are individuals, estates, or trusts own (within the meaning of subsection (d)(2) stock possessing—
 
-&emsp;&emsp;“(A) at least 80 percent of the total combined voting power of all classes of stock entitled to vote, or at least 80 percent of the total value of shares of all classes of stock, of each corporation, and
+&emsp;&emsp;"(A) at least 80 percent of the total combined voting power of all classes of stock entitled to vote, or at least 80 percent of the total value of shares of all classes of stock, of each corporation, and
 
-&emsp;&emsp;“(B) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.”
+&emsp;&emsp;"(B) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation."
 
 #### (B) Applicable provision
 
@@ -240,33 +240,33 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–357, §900(a), substituted “possessing” for “possessing—”, struck out “(B)” before “more than 50 percent of the total combined voting power”, and struck out subpar. (A) which read as follows: “at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–357, §900(a), substituted "possessing" for "possessing—", struck out "(B)" before "more than 50 percent of the total combined voting power", and struck out subpar. (A) which read as follows: "at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and".
 
 Subsec. (f)(5). Pub. L. 108–357, §900(b), added par. (5).
 
-<b>1988</b>—Subsec. (d)(1)(B). Pub. L. 100–647 substituted “paragraphs (1), (2), and (3) of subsection (e)” for “subsection (e)(1)”.
+<b>1988</b>—Subsec. (d)(1)(B). Pub. L. 100–647 substituted "paragraphs (1), (2), and (3) of subsection (e)" for "subsection (e)(1)".
 
-<b>1986</b>—Subsec. (b)(2)(D). Pub. L. 99–514 struck out “or section 821” after “section 801”.
+<b>1986</b>—Subsec. (b)(2)(D). Pub. L. 99–514 struck out "or section 821" after "section 801".
 
-<b>1984</b>—Subsecs. (a)(4), (b)(2)(D). Pub. L. 98–369 substituted “section 801” for “section 802”.
+<b>1984</b>—Subsecs. (a)(4), (b)(2)(D). Pub. L. 98–369 substituted "section 801" for "section 802".
 
-<b>1976</b>—Subsecs. (b)(4), (f)(3)(B). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (b)(4), (f)(3)(B). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
-<b>1970</b>—Subsec. (f)(1). Pub. L. 91–373 substituted “by paragraphs (1) and (2) of section 2131(d)” for “in section 3306(i)”.
+<b>1970</b>—Subsec. (f)(1). Pub. L. 91–373 substituted "by paragraphs (1) and (2) of section 2131(d)" for "in section 3306(i)".
 
 <b>1969</b>—Subsec. (a)(2). Pub. L. 91–172, §401(c), redesignated existing provisions with minor changes as par. (A) and added par. (B).
 
 Subsec. (c)(2)(A)(iv). Pub. L. 91–172, §401(d)(1), added cl. (iv).
 
-Subsec. (c)(2)(B). Pub. L. 91–172, §401(d)(2), substituted “5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as ‘common owners’) own” for “a person who is an individual, estate, or trust (referred to in this paragraph as ‘common owner’) owns” and in cl. (ii), substituted “any of such common owners”, “any of the common owners” for “such common owner” and “the common owner”, respectively and added cl. (iii).
+Subsec. (c)(2)(B). Pub. L. 91–172, §401(d)(2), substituted "5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as 'common owners') own" for "a person who is an individual, estate, or trust (referred to in this paragraph as 'common owner') owns" and in cl. (ii), substituted "any of such common owners", "any of the common owners" for "such common owner" and "the common owner", respectively and added cl. (iii).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §900(c), Oct. 22, 2004, 118 Stat. 1650, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §900(c), Oct. 22, 2004, 118 Stat. 1650, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1018(s)(3)(B), Nov. 10, 1988, 102 Stat. 3587, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1018(s)(3)(B), Nov. 10, 1988, 102 Stat. 3587, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date of 1986 Amendment
 

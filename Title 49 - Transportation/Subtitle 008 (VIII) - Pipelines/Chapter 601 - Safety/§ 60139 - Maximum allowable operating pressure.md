@@ -50,7 +50,7 @@ Testing Regulations.—
 
 &emsp;(1)
 
-In general.—Not later than 18 months after the date of enactment of this section, the Secretary shall issue regulations for conducting tests to confirm the material strength of previously untested natural gas transmission pipelines located in high-consequence areasand operating at a pressure greater than 30 percent of specified minimum yield strength.
+In general.—Not later than 18 months after the date of enactment of this section, the Secretary shall issue regulations for conducting tests to confirm the material strength of previously untested natural gas transmission pipelines located in high-consequence areas and operating at a pressure greater than 30 percent of specified minimum yield strength.
 
 &emsp;(2)
 
@@ -62,11 +62,11 @@ Considerations.—In developing the regulations, the Secretary shall consider sa
 
 &emsp;(3)
 
-Completion of testing.—The Secretary, in consultation with the Chairman of the Federal Energy Regulatory Commission and State regulators, as appropriate, shall establish timeframes for the completion of such testing that take into account potential consequences to public safety and the environment and that minimize costs and service disruptions.
+Completion of testing.—The Secretary, in consultation with the Chairman of the Federal Energy Regulatory Commission and State regulators, as appropriate, shall establishtimeframes for the completion of such testing that take into account potential consequences to public safety and the environment and that minimize costs and service disruptions.
 
 (e)
 
-High-consequence Area Defined.—In this section, the term “high-consequence area” means an area described in section 60109(a).
+High-consequence Area Defined.—In this section, the term "high-consequence area" means an area described in section 60109(a).
 
 (Added Pub. L. 112–90, §23(a), Jan. 3, 2012, 125 Stat. 1918.)
 

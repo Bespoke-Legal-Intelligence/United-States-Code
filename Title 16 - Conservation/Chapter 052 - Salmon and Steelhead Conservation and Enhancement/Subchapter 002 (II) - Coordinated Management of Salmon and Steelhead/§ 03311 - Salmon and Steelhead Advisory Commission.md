@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Within 90 days after December 22, 1980, the Secretary of Commerce (hereinafter in this subchapter referred to as the “Secretary”) shall establish the Salmon and Steelhead Advisory Commission (hereinafter referred to in this chapter as the “Commission”), which shall consist of one voting member from each of the following:
+Within 90 days after December 22, 1980, the Secretary of Commerce (hereinafter in this subchapter referred to as the "Secretary") shall establish the Salmon and Steelhead Advisory Commission (hereinafter referred to in this chapter as the "Commission"), which shall consist of one voting member from each of the following:
 
 &emsp;(1) The State of Washington.
 
@@ -18,11 +18,11 @@ Within 90 days after December 22, 1980, the Secretary of Commerce (hereinafter i
 
 #### (b) Membership
 
-(1) The voting representatives shall be appointed by the Secretary from a list of qualified individuals submitted by the Governor of each applicable State, by each appropriate tribal coordinating body, and by the Pacific Fishery Management Council. The representative for the National Marine Fisheries Service shall be the Northwest regional director of the Service or his designee.
+(1) The voting representatives shall be appointed by the Secretary from a list of qualified individuals submitted by the Governor of each applicable State, by each appropriate tribal coordinating body, and by the Pacific FisheryManagement Council. The representative for the National Marine Fisheries Service shall be the Northwest regional director of the Service or his designee.
 
 (2) The Commission shall have 6 nonvoting members, 5 of which shall be qualified individuals appointed by the Secretary. The sixth nonvoting member shall be the regional director of the United States Fish and Wildlife Service or his designee.
 
-(3) For the purposes of this subsection, the term “qualified individual” means an individual who is knowledgeable with regard to the management, conservation, or harvesting of the salmon and steelhead resources of the conservation areas.
+(3) For the purposes of this subsection, the term "qualified individual" means an individual who is knowledgeable with regard to the management, conservation, or harvesting of the salmon and steelhead resources of the conservation areas.
 
 #### (c) Report by Commission
 
@@ -52,7 +52,7 @@ No report or revision thereto may be submitted by the Commission to the Secretar
 
 #### (e) Secretarial action on report
 
-Within 4 months after the date of the submission of the comprehensive report, or any revision thereto, under subsection (c) of this section, the Secretary, in consultation with the Secretary of the Interior, shall review the reportand, if he finds that the management structure recommended in the report would, if implemented, meet the objectives and standards specified in this section and be consistent with this chapter, approve the report. If the Secretary, in consultation with the Secretary of the Interior, finds that such structure is not in conformity with the standards and objectives set forth in this section, the provisions of this chapter, or other applicable law, he shall return the report to the Commission together with a written statement of the reasons for not approving the report. If the Commission submits a revised report to the Secretary within 2 months after the date of return, the Secretary shall approve the report if he finds that the objections on which the prior disapproval was based are overcome.
+Within 4 months after the date of the submission of the comprehensive report, or any revision thereto, under subsection (c) of this section, the Secretary, in consultation with the Secretary of the Interior, shall review the report and, if he finds that the management structure recommended in the report would, if implemented, meet the objectives and standards specified in this section and be consistent with this chapter, approve the report. If the Secretary, in consultation with the Secretary of the Interior, finds that such structure is not in conformity with the standards and objectives set forth in this section, the provisions of this chapter, or other applicable law, he shall return the report to the Commission together with a written statement of the reasons for not approving the report. If the Commission submits a revised report to the Secretary within 2 months after the date of return, the Secretary shall approve the report if he finds that the objections on which the prior disapproval was based are overcome.
 
 #### (f) Per diem and travel allowances
 

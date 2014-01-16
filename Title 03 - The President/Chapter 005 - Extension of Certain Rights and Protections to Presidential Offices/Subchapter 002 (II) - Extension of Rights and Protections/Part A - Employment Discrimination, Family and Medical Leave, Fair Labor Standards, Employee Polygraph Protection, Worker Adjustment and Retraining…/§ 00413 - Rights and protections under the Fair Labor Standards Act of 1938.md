@@ -30,7 +30,7 @@ In general.—The President, or the designee of the President, shall issue regul
 
 &emsp;(2)
 
-Agency regulations.—Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+Agency regulations.—Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, thata modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 &emsp;(3)
 

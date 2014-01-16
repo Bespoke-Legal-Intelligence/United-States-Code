@@ -22,9 +22,9 @@ Amounts appropriated pursuant to the authorization of appropriations under secti
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–154, §2(g)(4)(A), substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each” in pars. (1) and (2).
+<b>2005</b>—Subsec. (a). Pub. L. 109–154, §2(g)(4)(A), substituted "Secretary is" for "Secretary of the Interior and the Secretary of Agriculture are each" in pars. (1) and (2).
 
-Subsec. (b). Pub. L. 109–154, §2(g)(4)(B), substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture”.
+Subsec. (b). Pub. L. 109–154, §2(g)(4)(B), substituted "Secretary" for "Secretary of the Interior and the Secretary of Agriculture".
 
 Subsec. (c). Pub. L. 109–154, §2(f)(1), added subsec. (c).
 

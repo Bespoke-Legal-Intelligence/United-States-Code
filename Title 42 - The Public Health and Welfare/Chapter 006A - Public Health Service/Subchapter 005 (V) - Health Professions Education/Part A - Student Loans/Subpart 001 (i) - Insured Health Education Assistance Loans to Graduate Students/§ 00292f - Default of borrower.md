@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Upon default by the borrower on any loan covered by Federal loan insurance pursuant to this subpart, and after a substantial collection effort (including, subject to subsection (h) of this section, commencement and prosecution of an action) as determined under regulations of the Secretary, the insurance beneficiary shall promptly notify the Secretary and the Secretary shall, if requested (at that time or after further collection efforts) by the beneficiary, or may on his own motion, if the insurance is still in effect, pay to the beneficiary the amount of the loss sustained by the insured upon that loan as soon as that amount has been determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for “exceptional performance”, as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.
+&emsp;Upon default by the borrower on any loan covered by Federal loan insurance pursuant to this subpart, and after a substantial collection effort (including, subject to subsection (h) of this section, commencement and prosecution of an action) as determined under regulations of the Secretary, the insurance beneficiary shall promptly notify the Secretary and the Secretary shall, if requested (at that time or after further collection efforts) by the beneficiary, or may on his own motion, if the insurance is still in effect, pay to the beneficiary the amount of the loss sustained by the insured upon that loan as soon as that amount has been determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for "exceptional performance", as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.
 
 #### (2) Exceptional performance
 
@@ -46,7 +46,7 @@
 
 #### (J) Noncompliance
 
-&emsp;&emsp;A lender, holder, or servicer designated under subparagraph (A) that fails to service loans or otherwise comply with applicable program regulations shall be considered in violation of the Federal False Claims Act.
+&emsp;&emsp;A lender, holder, or servicer designated under subparagraph (A) that fails to serviceloans or otherwise comply with applicable program regulations shall be considered in violation of the Federal False Claims Act.
 
 #### (b) Subrogation
 
@@ -58,19 +58,19 @@ Nothing in this section or in this subpart shall be construed to preclude any fo
 
 #### (d) Reasonable care and diligence regarding loans
 
-Nothing in this section or in this subpart shall be construed to excuse the eligible lender or holder of a federally insured loan from exercising reasonable care and diligence in the making of loans under the provisions of this subpart and from exercising a substantial effort in the collection of loans under the provisions of this subpart. If the Secretary, after reasonable notice and opportunity for hearing to an eligible lender, finds that the lender has failed to exercise such care and diligence, to exercise such substantial efforts, to make the reports and statements required under section 292e(a)(3) of thistitle, or to pay the required Federal loan insurance premiums, he shall disqualify that lender from obtaining further Federal insurance on loans granted pursuant to this subpart until he is satisfied that its failure has ceased and finds that there is reasonable assurance that the lender will in the future exercise necessary care and diligence, exercise substantial effort, or comply with such requirements, as the case may be.
+Nothing in this section or in this subpart shall be construed to excuse the eligible lender or holder of a federally insured loan from exercising reasonable care and diligence in the making of loans under the provisions of this subpart and from exercising a substantial effort in the collection of loans under the provisions of this subpart. If the Secretary, after reasonable notice and opportunity for hearing to an eligible lender, finds that the lender has failed to exercise such care and diligence, to exercise such substantial efforts, to make the reports and statements required under section 292e(a)(3) of this title, or to pay the required Federal loan insurance premiums, he shall disqualify that lender from obtaining further Federal insurance on loans granted pursuant to this subpart until he is satisfied that its failure has ceased and finds that there is reasonable assurance that the lender will in the future exercise necessary care and diligence, exercise substantial effort, or comply with such requirements, as the case may be.
 
 #### (e) Definitions
 
 For purposes of this section:
 
-&emsp;(1) The term “insurance beneficiary” means the insured or its authorized assignee in accordance with section 292e(c) of this title.
+&emsp;(1) The term "insurance beneficiary" means the insured or its authorized assignee in accordance with section 292e(c) of this title.
 
-&emsp;(2) The term “amount of the loss” means, with respect to a loan, unpaid balance of the principal amount and interest on such loan, less the amount of any judgment collected pursuant to default proceedings commenced by the eligible lender or holder involved.
+&emsp;(2) The term "amount of the loss" means, with respect to a loan, unpaid balance of the principal amount and interest on such loan, less the amount of any judgment collected pursuant to default proceedings commenced by the eligible lender or holder involved.
 
-&emsp;(3) The term “default” includes only such defaults as have existed for 120 days.
+&emsp;(3) The term "default" includes only such defaults as have existed for 120 days.
 
-&emsp;(4) The term “servicer” means any agency acting on behalf of the insurance beneficiary.
+&emsp;(4) The term "servicer" means any agency acting on behalf of the insurance beneficiary.
 
 #### (f) Reductions in Federal reimbursements or payments for defaulting borrowers
 
@@ -104,7 +104,7 @@ Notwithstanding any other provision of Federal or State law, a debt that is a lo
 
 #### (2) Relationship to claim for payment
 
-&emsp;With respect to an eligible lender or holder that has commenced an action pursuant to subsection (a) of this section, the Secretary shall make the payment required in such subsection, or deny the claim for such payment, not later than 60 days after the date on which the Secretary determines that the lender or holder has made reasonable efforts to secure a judgment and collect on the judgment entered into pursuant to this subsection.
+&emsp;With respect to an eligible lender or holder that has commenced an action pursuant to subsection (a) of this section, the Secretary shall make the payment required in such subsection, or deny the claim for such payment, not later than 60 days after the date on which the Secretary determines that the lender or holder has made reasonable efforts to secure ajudgment and collect on the judgment entered into pursuant to this subsection.
 
 #### (3) State court judgments
 
@@ -118,7 +118,7 @@ Notwithstanding any other provision of Federal or State law, there shall be no l
 
 An institution or postgraduate training program attended by a borrower may assist in the collection of any loan of that borrower made under this subpart which becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower's loans, contacting the borrower in order to encourage repayment, and withholding services in accordance with regulations issued by the Secretary under section 292n(a)(7) of this title. The institution or postgraduate training program shall not be subject to section 1692g of title 15 for purposes of carrying out activities authorized by this section.
 
-(July 1, 1944, ch. 373, title VII, §707, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2002; amended Pub. L. 103–43, title XX,§2014(a)(2), June 10, 1993, 107 Stat. 215; Pub. L. 105–392, title I, §§142(a), (b), 144(a), Nov. 13, 1998, 112 Stat. 3579, 3581.)
+(July 1, 1944, ch. 373, title VII, §707, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2002; amended Pub. L. 103–43, title XX, §2014(a)(2), June 10, 1993, 107 Stat. 215; Pub. L. 105–392, title I, §§142(a), (b), 144(a), Nov. 13, 1998, 112 Stat. 3579, 3581.)
 
 #### References in Text
 
@@ -134,23 +134,23 @@ A prior section 707 of act July 1, 1944, was classified to section 292g of this 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–392, §142(a), designated existing provisions as par. (1), inserted heading, substituted “determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for ‘exceptional performance’, as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.” for “determined.”, struck out at end “Not later than one year after October 13, 1992, the Secretary shall establish performance standards for lenders and holders of loans under this subpart, including fees to be imposed for failing to meet such standards.”, and added par. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–392, §142(a), designated existing provisions as par. (1), inserted heading, substituted "determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for 'exceptional performance', as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan." for "determined.", struck out at end "Not later than one year after October 13, 1992, the Secretary shall establish performance standards for lenders and holders of loans under this subpart, including fees to be imposed for failing to meet such standards.", and added par. (2).
 
 Subsec. (e)(4). Pub. L. 105–392, §142(b), added par. (4).
 
-Subsec. (g). Pub. L. 105–392, §144(a), substituted “Notwithstanding any other provision of Federal or State law, a debt that is a loan insured” for “A debt which is a loan insured” in introductory provisions.
+Subsec. (g). Pub. L. 105–392, §144(a), substituted "Notwithstanding any other provision of Federal or State law, a debt that is a loan insured" for "A debt which is a loan insured" in introductory provisions.
 
-<b>1993</b>—Subsec. (g)(1). Pub. L. 103–43, §2014(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “after the expiration of the five-year period beginning on the first date, as specified in subparagraphs (B) and (C) of section 292d(a)(2) of this title, when repayment of such loan is required;”.
+<b>1993</b>—Subsec. (g)(1). Pub. L. 103–43, §2014(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "after the expiration of the five-year period beginning on the first date, as specified in subparagraphs (B) and (C) of section 292d(a)(2) of this title, when repayment of such loan is required;".
 
 Subsec. (j). Pub. L. 103–43, §2014(a)(2)(B), added subsec. (j).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–392, title I, §142(c), Nov. 13, 1998, 112 Stat. 3581, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to loans submitted to the Secretary for payment on or after the first day of the sixth month that begins after the date of enactment of this Act \[Nov. 13, 1998\].”
+Pub. L. 105–392, title I, §142(c), Nov. 13, 1998, 112 Stat. 3581, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to loans submitted to the Secretary for payment on or after the first day of the sixth month that begins after the date of enactment of this Act \[Nov. 13, 1998\]."
 
-Pub. L. 105–392, title I, §144(b), Nov. 13, 1998, 112 Stat. 3581, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any loan insured under the authority of subpart I of part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) that is listed or scheduled by the debtor in a case under title XI, United States Code \[Title 11, Bankruptcy\], filed—
+Pub. L. 105–392, title I, §144(b), Nov. 13, 1998, 112 Stat. 3581, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any loan insured under the authority of subpart I of part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) that is listed or scheduled by the debtor in a case under title XI, United States Code \[Title 11, Bankruptcy\], filed—
 
-&emsp;“(1) on or after the date of enactment of this Act \[Nov. 13, 1998\]; or
+&emsp;"(1) on or after the date of enactment of this Act \[Nov. 13, 1998\]; or
 
-&emsp;“(2) prior to such date of enactment in which a discharge has not been granted.”
+&emsp;"(2) prior to such date of enactment in which a discharge has not been granted."
 

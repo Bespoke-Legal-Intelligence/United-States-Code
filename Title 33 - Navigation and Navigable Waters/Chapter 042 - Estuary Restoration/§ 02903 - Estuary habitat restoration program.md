@@ -92,7 +92,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 #### (1) In general
 
-&emsp;Pending completion of the estuary habitat restoration strategy to be developed undersection 2905 of this title, the Secretary may take interim actions to carry out an estuary habitat restoration activity.
+&emsp;Pending completion of the estuary habitat restoration strategy to be developed under section 2905 of this title, the Secretary may take interim actions to carry out an estuary habitat restoration activity.
 
 #### (2) Federal share
 
@@ -122,7 +122,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 #### (A) Small project defined
 
-&emsp;&emsp;In this paragraph, the term “small project” means a project carried out under this chapter with an estimated Federal cost of less than $1,000,000.
+&emsp;&emsp;In this paragraph, the term "small project" means a project carried out under this chapter with an estimated Federal cost of less than $1,000,000.
 
 #### (B) Delegation of project implementation
 
@@ -148,19 +148,19 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–114, §5017(c)(1), inserted “through the award of contracts and cooperative agreements” after “assistance”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–114, §5017(c)(1), inserted "through the award of contracts and cooperative agreements" after "assistance".
 
-Subsec. (c)(3)(A). Pub. L. 110–114, §5017(c)(2)(A), inserted “or State” after “Federal”.
+Subsec. (c)(3)(A). Pub. L. 110–114, §5017(c)(2)(A), inserted "or State" after "Federal".
 
-Subsec. (c)(4)(B). Pub. L. 110–114, §5017(c)(2)(B), inserted “or approach” after “technology”.
+Subsec. (c)(4)(B). Pub. L. 110–114, §5017(c)(2)(B), inserted "or approach" after "technology".
 
 Subsec. (d)(1). Pub. L. 110–114, §5017(c)(3)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (d)(2). Pub. L. 110–114, §5017(c)(3)(B), inserted “or approach” after “technology”.
+Subsec. (d)(2). Pub. L. 110–114, §5017(c)(3)(B), inserted "or approach" after "technology".
 
-Subsec. (d)(3). Pub. L. 110–114, §5017(c)(3)(C), inserted “(including monitoring)” after “services”.
+Subsec. (d)(3). Pub. L. 110–114, §5017(c)(3)(C), inserted "(including monitoring)" after "services".
 
-Subsec. (f)(1)(B). Pub. L. 110–114, §5017(c)(4), inserted “long-term” before “maintenance”.
+Subsec. (f)(1)(B). Pub. L. 110–114, §5017(c)(4), inserted "long-term" before "maintenance".
 
 Subsec. (g). Pub. L. 110–114, §5017(c)(5), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

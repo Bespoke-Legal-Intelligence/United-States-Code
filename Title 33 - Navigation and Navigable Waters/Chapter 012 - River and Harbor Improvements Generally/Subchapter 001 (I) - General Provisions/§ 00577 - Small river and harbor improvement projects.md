@@ -28,21 +28,21 @@ This section shall apply to, but not be limited to, the provision of low water a
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b). Pub. L. 110–114 substituted “$7,000,000” for “$4,000,000”.
+<b>2007</b>—Subsec. (b). Pub. L. 110–114 substituted "$7,000,000" for "$4,000,000".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–662 substituted “$35,000,000” for “$25,000,000”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–662 substituted "$35,000,000" for "$25,000,000".
 
-Subsec. (b). Pub. L. 99–662 substituted “$4,000,000” for “$2,000,000”.
+Subsec. (b). Pub. L. 99–662 substituted "$4,000,000" for "$2,000,000".
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–587 substituted “$2,000,000” for “$1,000,000”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–587 substituted "$2,000,000" for "$1,000,000".
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–611 substituted “$25,000,000” for “$10,000,000”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–611 substituted "$25,000,000" for "$10,000,000".
 
-Subsec. (b). Pub. L. 91–611 substituted “$1,000,000” for “$500,000”.
+Subsec. (b). Pub. L. 91–611 substituted "$1,000,000" for "$500,000".
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–298, §310(a)(1), substituted “$10,000,000” for “$2,000,000”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–298, §310(a)(1), substituted "$10,000,000" for "$2,000,000".
 
-Subsec. (b). Pub. L. 89–298, §310(a)(2), substituted “$500,000” for “$200,000”.
+Subsec. (b). Pub. L. 89–298, §310(a)(2), substituted "$500,000" for "$200,000".
 
 #### Effective Date of 1986 Amendment
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 99–662 not applicable to any project under contract for c
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–587, §133(c), Oct. 22, 1976, 90 Stat. 2928, provided that: “The amendments made by this section \[amending this section and section 701s of this title\] shall not apply to any project under contract for construction on the date of enactment of the Water Resources Development Act of 1976 \[Oct. 22, 1976\].”
+Pub. L. 94–587, §133(c), Oct. 22, 1976, 90 Stat. 2928, provided that: "The amendments made by this section \[amending this section and section 701s of this title\] shall not apply to any project under contract for construction on the date of enactment of the Water Resources Development Act of 1976 \[Oct. 22, 1976\]."
 
 #### Effective Date of 1970 Amendment
 

@@ -12,11 +12,11 @@ Section 1749a of title 12, referred to in subsec. (a), was repealed by Pub. L. 9
 
 #### Codification
 
-In subsec. (b), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes \[31 U.S.C. 529\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes \[31 U.S.C. 529\]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Administrator" wherever appearing.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

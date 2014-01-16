@@ -2,7 +2,7 @@
 
 (a)
 
-Defense Acquisition University Structure.—The Secretary of Defense, acting throughthe Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish and maintain a defense acquisition university structure to provide for—
+Defense Acquisition University Structure.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish and maintain a defense acquisition university structure to provide for—
 
 &emsp;(1) the professional educational development and training of the acquisition workforce; and
 
@@ -14,7 +14,7 @@ Civilian Faculty Members.—(1) The Secretary of Defense may employ as many civi
 
 (2) The compensation of persons employed under this subsection shall be as prescribed by the Secretary.
 
-(3) In this subsection, the term “defense acquisition university” includes the Defense Systems Management College.
+(3) In this subsection, the term "defense acquisition university" includes the Defense Systems Management College.
 
 (c)
 
@@ -24,19 +24,19 @@ Curriculum Development.—The President of the Defense Acquisition University sh
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, §877(c)(2)(A), substituted “Defense Acquisition University” for “Defense acquisition university structure” in section catchline.
+<b>2011</b>—Pub. L. 111–383, §877(c)(2)(A), substituted "Defense Acquisition University" for "Defense acquisition university structure" in section catchline.
 
 Subsec. (c). Pub. L. 111–383, §877(c)(1), added subsec. (c).
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology" in introductory provisions.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106 struck out “(1)” before “The Secretary of Defense” and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 struck out "(1)" before "The Secretary of Defense" and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–160 substituted "Under Secretary of Defense for Acquisition and Technology" for "Under Secretary of Defense for Acquisition".
 
 #### Effective Date
 
-Pub. L. 101–510, div. A, title XII, §1209(h)(1), Nov. 5, 1990, 104 Stat. 1667, provided that: “Subsection (b) of section 1746 of title 10, United States Code (as added by section 1202), shall take effect with respect to the Defense Systems Management College on the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–510, div. A, title XII, §1209(h)(1), Nov. 5, 1990, 104 Stat. 1667, provided that: "Subsection (b) of section 1746 of title 10, United States Code (as added by section 1202), shall take effect with respect to the Defense Systems Management College on the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Establishment of Initial Defense Acquisition University Structure
 

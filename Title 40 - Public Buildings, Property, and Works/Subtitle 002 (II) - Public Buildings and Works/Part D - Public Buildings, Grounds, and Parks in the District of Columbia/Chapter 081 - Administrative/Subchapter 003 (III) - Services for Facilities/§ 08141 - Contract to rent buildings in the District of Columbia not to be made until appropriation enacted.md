@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 40:34.
 
-Mar. 3, 1877, ch. 106 (words after 2d semicolon in 3d par. under heading “Miscellaneous”), 19 Stat. 370.
+Mar. 3, 1877, ch. 106 (words after 2d semicolon in 3d par. under heading "Miscellaneous"), 19 Stat. 370.
 

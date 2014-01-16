@@ -30,13 +30,13 @@ A two year period of limitation on applying for broadened reissues is added, cod
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29, §20(d), designated first to fourth pars. as subsecs. (a) to (d), respectively, inserted headings, and, in subsec. (a), struck out “without any deceptive intention” after “error”.
+<b>2011</b>—Pub. L. 112–29, §20(d), designated first to fourth pars. as subsecs. (a) to (d), respectively, inserted headings, and, in subsec. (a), struck out "without any deceptive intention" after "error".
 
-Pub. L. 112–29, §4(b)(2), in third par., inserted “or the application for the original patent was filed by the assignee of the entire interest” after “claims of the original patent”.
+Pub. L. 112–29, §4(b)(2), in third par., inserted "or the application for the original patent was filed by the assignee of the entire interest" after "claims of the original patent".
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in first and second pars.
+<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" in first and second pars.
 
 #### Effective Date of 2011 Amendment
 

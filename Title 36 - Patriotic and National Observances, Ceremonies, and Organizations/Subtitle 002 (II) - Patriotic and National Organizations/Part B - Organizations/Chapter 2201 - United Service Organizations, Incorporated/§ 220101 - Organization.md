@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—United Service Organizations, Incorporated (in this chapter, the “corporation”), is a federally chartered corporation.
+Federal Charter.—United Service Organizations, Incorporated (in this chapter, the "corporation"), is a federally chartered corporation.
 
 (b)
 

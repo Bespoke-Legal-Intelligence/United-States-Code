@@ -58,5 +58,5 @@ Pub. L. 100–480, §5, Oct. 7, 1988, 102 Stat. 2331; Pub. L. 102–392, title I
 
 40:1204(b)(2), (3).
 
-In subsection (a), before clause (1), the words “Upon occupancy by the United States of the building and other improvements constructed under this chapter” are omitted as obsolete.
+In subsection (a), before clause (1), the words "Upon occupancy by the United States of the building and other improvements constructed under this chapter" are omitted as obsolete.
 

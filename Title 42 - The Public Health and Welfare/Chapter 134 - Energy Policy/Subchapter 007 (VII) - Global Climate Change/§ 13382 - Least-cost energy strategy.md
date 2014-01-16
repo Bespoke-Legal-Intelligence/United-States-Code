@@ -2,7 +2,7 @@
 
 #### (a) Strategy
 
-The first National Energy Policy Plan (in this subchapter referred to as the “Plan”) under section 7321 of this title prepared and required to be submitted by the President to Congress after February 1, 1993, and each subsequent such Plan, shall include a least-cost energy strategy prepared by the Secretary. In developing the least-cost energy strategy, the Secretary shall take into consideration the economic, energy, social, environmental, and competitive costs and benefits, including costs and benefits for jobs, of his choices. Such strategy shall also take into account the report required under section 13381 of this title and relevant Federal, State, and local requirements. Such strategy shall be designed to achieve to the maximum extent practicable and at least-cost to the Nation—
+The first National Energy Policy Plan (in this subchapter referred to as the "Plan") under section 7321 of this title prepared and required to be submitted by the President to Congress after February 1, 1993, and each subsequent such Plan, shall include a least-cost energy strategy prepared by the Secretary. In developing the least-cost energy strategy, the Secretary shall take into consideration the economic, energy, social, environmental, and competitive costs and benefits, including costs and benefits for jobs, of his choices. Such strategy shall also take into account the report required under section 13381 of this title and relevant Federal, State, and local requirements. Such strategy shall be designed to achieve to the maximum extent practicable and at least-cost to the Nation—
 
 &emsp;(1) the energy production, utilization, and energy conservation priorities of subsection (d) of this section;
 
@@ -40,7 +40,7 @@ In developing the least-cost energy strategy, the Secretary shall give full cons
 
 &emsp;(1) the relative costs of each energy and energy efficiency resource based upon a comparison of all direct and quantifiable net costs for the resource over its available life, including the cost of production, transportation, distribution, utilization, waste management, environmental compliance, and, in the case of imported energy resources, maintaining access to foreign sources of supply; and
 
-&emsp;(2) the economic, energy, social, environmental, and competitive consequences resulting from the establishment of any particular order of Federal priority as determined under subsection (d) of this section.
+&emsp;(2) the economic, energy, social, environmental, and competitive consequences resulting from the establishment of any particularorder of Federal priority as determined under subsection (d) of this section.
 
 #### (d) Priorities
 
@@ -76,5 +76,5 @@ The Secretary shall provide for a period of public review and comment of the lea
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a), was in the original “this title” meaning title XVI of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2999, which enacted this subchapter and repealed sections 7361 to 7364 of this title.
+This subchapter, referred to in subsec. (a), was in the original "this title" meaning title XVI of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2999, which enacted this subchapter and repealed sections 7361 to 7364 of this title.
 

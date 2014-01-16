@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary is authorized to establish in the Department the position of Under Secretary of Agriculture for Research, Education, and Economics (referred to in this section as the “Under Secretary”).
+The Secretary is authorized to establish in the Department the position of Under Secretary of Agriculture for Research, Education, and Economics (referred to in this section as the "Under Secretary").
 
 #### (b) Confirmation required
 
@@ -46,7 +46,7 @@ The Under Secretary shall—
 
 #### (1) Establishment
 
-&emsp;The Under Secretary shall organize within the office of the Under Secretary 6 Divisions, to be known collectively as the “Research, Education, and Extension Office”, which shall coordinate the research programs and activities of the Department.
+&emsp;The Under Secretary shall organize within the office of the Under Secretary 6 Divisions, to be known collectively as the "Research, Education, and Extension Office", which shall coordinate the research programs and activities of the Department.
 
 #### (2) Division designations
 
@@ -78,7 +78,7 @@ The Under Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;(III) the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates;
 
-&emsp;&emsp;&emsp;(ii) by detail, notwithstanding any Act making appropriations for the Department of Agriculture, whether enacted before, on, or after the date of enactment of this paragraph, requiring reimbursement for thosedetails unless the appropriation Act specifically refers to this subsection and specifically includes these details;
+&emsp;&emsp;&emsp;(ii) by detail, notwithstanding any Act making appropriations for the Department of Agriculture, whether enacted before, on, or after the date of enactment of this paragraph, requiring reimbursement for those details unless the appropriation Act specifically refers to this subsection and specifically includes these details;
 
 &emsp;&emsp;&emsp;(iii) by reassignment or transfer from any other civil service position; and
 
@@ -156,19 +156,19 @@ The Under Secretary shall—
 
 #### (A) Advisory Board
 
-&emsp;&emsp;The term “Advisory Board” means the National Agricultural Research, Extension, Education, and Economics Advisory Board established under section 1408 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3123).
+&emsp;&emsp;The term "Advisory Board" means the National Agricultural Research, Extension, Education, and Economics Advisory Board established under section 1408 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3123).
 
 #### (B) Applied research
 
-&emsp;&emsp;The term “applied research” means research that includes expansion of the findings of fundamental research to uncover practical ways in which new knowledge can be advanced to benefit individuals and society.
+&emsp;&emsp;The term "applied research" means research that includes expansion of the findings of fundamental research to uncover practical ways in which new knowledge can be advanced to benefit individuals and society.
 
 #### (C) Capacity and infrastructure program
 
-&emsp;&emsp;The term “capacity and infrastructure program” means each of the following agricultural research, extension, education, and related programs for which the Secretary has administrative or other authority as of the day before the date of enactment of the Food, Conservation, and Energy Act of 2008:
+&emsp;&emsp;The term "capacity and infrastructure program" means each of the following agricultural research, extension, education, and related programs for which the Secretary has administrative or other authority as of the day before the date of enactment of the Food, Conservation, and Energy Act of 2008:
 
 &emsp;&emsp;&emsp;(i) Each program providing funding to any of the 1994 Institutions under sections 533, 534(a), and 535 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382).
 
-&emsp;&emsp;&emsp;(ii) The program established under section 536 of the Equity in EducationalLand-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382) providing research grants for 1994 Institutions.
+&emsp;&emsp;&emsp;(ii) The program established under section 536 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382) providing research grants for 1994 Institutions.
 
 &emsp;&emsp;&emsp;(iii) Each program established under subsections (b) and (c) of section 343 of this title.
 
@@ -188,7 +188,7 @@ The Under Secretary shall—
 
 &emsp;&emsp;&emsp;(xi) The program providing resident instruction grants for insular areas established under section 1491 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3363).
 
-&emsp;&emsp;&emsp;(xii) Each research and development and related program established under Public Law 87–788 (commonly known as the “McIntire-Stennis Cooperative Forestry Act”) (16 U.S.C. 582a et seq.).
+&emsp;&emsp;&emsp;(xii) Each research and development and related program established under Public Law 87–788 (commonly known as the "McIntire-Stennis Cooperative Forestry Act") (16 U.S.C. 582a et seq.).
 
 &emsp;&emsp;&emsp;(xiii) Each program established under the Renewable Resources Extension Act of 1978 (16 U.S.C. 1671 et seq.).
 
@@ -200,7 +200,7 @@ The Under Secretary shall—
 
 #### (D) Competitive program
 
-&emsp;&emsp;The term “competitive program” means each of the following agricultural research, extension, education, and related programs for which the Secretary has administrative or other authority as of the day before the date of enactment of the Food, Conservation, and Energy Act of 2008:
+&emsp;&emsp;The term "competitive program" means each of the following agricultural research, extension, education, and related programs for which the Secretary has administrative or other authority as of the day before the date of enactment of the Food, Conservation, and Energy Act of 2008:
 
 &emsp;&emsp;&emsp;(i) The Agriculture and Food Research Initiative established under section 450i(b) of this title.
 
@@ -230,11 +230,11 @@ The Under Secretary shall—
 
 #### (E) Director
 
-&emsp;&emsp;The term “Director” means the Director of the Institute.
+&emsp;&emsp;The term "Director" means the Director of the Institute.
 
 #### (F) Fundamental research
 
-&emsp;&emsp;The term “fundamental research” means research that—
+&emsp;&emsp;The term "fundamental research" means research that—
 
 &emsp;&emsp;&emsp;(i) increases knowledge or understanding of the fundamental aspects of phenomena and has the potential for broad application; and
 
@@ -242,13 +242,13 @@ The Under Secretary shall—
 
 #### (G) Institute
 
-&emsp;&emsp;The term “Institute” means the National Institute of Food and Agriculture established by paragraph (2)(A).
+&emsp;&emsp;The term "Institute" means the National Institute of Food and Agriculture established by paragraph (2)(A).
 
 #### (2) Establishment of National Institute of Food and Agriculture
 
 #### (A) Establishment
 
-&emsp;&emsp;The Secretary shall establish within the Department an agency to be known as the “National Institute of Food and Agriculture”.
+&emsp;&emsp;The Secretary shall establish within the Department an agency to be known as the "National Institute of Food and Agriculture".
 
 #### (B) Transfer of authorities
 
@@ -346,7 +346,7 @@ The Under Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;In addition to funds otherwise appropriated to carry out each program administered by the Institute, there are authorizedto be appropriated such sums as are necessary to carry out this subsection for each fiscal year.
+&emsp;&emsp;In addition to funds otherwise appropriated to carry out each program administered by the Institute, there are authorized to be appropriated such sums as are necessary to carry out this subsection for each fiscal year.
 
 #### (B) Allocation
 
@@ -364,7 +364,7 @@ The Hatch Act of 1887, referred to in subsec. (f)(1)(C)(iv), is act Mar. 2, 1887
 
 The National Agricultural Research, Extension, and Teaching Policy Act of 1977, referred to in subsec. (f)(1)(C)(vi), is title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Subtitle E of the Act is classified generally to subchapter V (§3191 et seq.) of chapter 64 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-Public Law 87–788, referred to in subsec. (f)(1)(C)(xii), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Public Law 87–788, referred to in subsec. (f)(1)(C)(xii), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act", which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
 The Renewable Resources Extension Act of 1978, referred to in subsec. (f)(1)(C)(xiii), is Pub. L. 95–306, June 30, 1978, 92 Stat. 349, which is classified generally to subchapter III (§1671 et seq.) of chapter 36 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under section 1600 of Title 16 and Tables.
 
@@ -376,7 +376,7 @@ Section is comprised of section 251 of Pub. L. 103–354. Subsec. (g), formerly 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(a)(1), inserted “(referred to in this section as the ‘Under Secretary’)” before period at end.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(a)(1), inserted "(referred to in this section as the 'Under Secretary')" before period at end.
 
 Subsecs. (b) to (f). Pub. L. 110–246, §7511(a)(2), (4), added subsecs. (b) to (f) and struck out former subsecs. (b) to (d) which related to Senate confirmation, functions of the Under Secretary, and establishment and functions of the Cooperative State Research, Education, and Extension Service.
 

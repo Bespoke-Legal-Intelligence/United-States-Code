@@ -8,5 +8,5 @@ Before any violation of this chapter is reported by the Secretary of Agriculture
 
 See section 1610 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “present”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "present".</i>
 

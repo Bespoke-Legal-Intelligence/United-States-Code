@@ -56,7 +56,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 &emsp;The individual is employed full-time as a librarian in—
 
-&emsp;&emsp;(A) a public library that serves a geographic area within which the public schools have a combined average of 30 percent or more of the schools’ total student enrollments composed of children meeting a measure of poverty under section 6313(a)(5) of this title; or
+&emsp;&emsp;(A) a public library that serves a geographic area within which the public schools have a combined average of 30 percent or more of the schools' total student enrollments composed of children meeting a measure of poverty under section 6313(a)(5) of this title; or
 
 &emsp;&emsp;(B) a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school.
 
@@ -174,7 +174,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 &emsp;&emsp;(A) in a Federal, State, local, or tribal public health agency; or
 
-&emsp;&emsp;(B) in a setting where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences and other settings located in health professional shortage areas, medically underserved areas, or medically underserved populations, as recognized by the Secretary of Health and Human Services.
+&emsp;&emsp;(B) in a setting where patients might require health care services, including acute care facilities, ambulatory care facilities,personal residences and other settings located in health professional shortage areas, medically underserved areas, or medically underserved populations, as recognized by the Secretary of Health and Human Services.
 
 #### (c) Qualified loan amount
 
@@ -204,7 +204,7 @@ In this section:
 
 #### (1) Allied health professional
 
-&emsp;The term “allied health professional” means an allied health professional as defined in section 295p(5) of title 42 who—
+&emsp;The term "allied health professional" means an allied health professional as defined in section 295p(5) of title 42 who—
 
 &emsp;&emsp;(A) has graduated and received an allied health professions degree or certificate from an institution of higher education; and
 
@@ -212,7 +212,7 @@ In this section:
 
 #### (2) Audiologist
 
-&emsp;The term “audiologist” means an individual who—
+&emsp;The term "audiologist" means an individual who—
 
 &emsp;&emsp;(A) has received, at a minimum, a graduate degree in audiology from an institution of higher education accredited by an agency or association recognized by the Secretary pursuant to section 1099b(a) of this title; and
 
@@ -222,7 +222,7 @@ In this section:
 
 #### (3) Early childhood educator
 
-&emsp;The term “early childhood educator” means an individual who—
+&emsp;The term "early childhood educator" means an individual who—
 
 &emsp;&emsp;(A) works directly with children in an eligible preschool program or eligible early childhood education program in a low-income community;
 
@@ -232,7 +232,7 @@ In this section:
 
 #### (4) Eligible preschool program
 
-&emsp;The term “eligible preschool program” means a program that—
+&emsp;The term "eligible preschool program" means a program that—
 
 &emsp;&emsp;(A) provides for the care, development, and education of infants, toddlers, or young children age five and under;
 
@@ -250,7 +250,7 @@ In this section:
 
 #### (5) Eligible early childhood education program
 
-&emsp;The term “eligible early childhood education program” means—
+&emsp;The term "eligible early childhood education program" means—
 
 &emsp;&emsp;(A) a family child care program, center-based child care program, State prekindergarten program, school program, or other out-of-home early childhood development care program, that—
 
@@ -264,15 +264,15 @@ In this section:
 
 #### (6) Low-income community
 
-&emsp;The term “low-income community” means a school attendance area (as defined in section 6313(a)(2)(A) of this title)—
+&emsp;The term "low-income community" means a school attendance area (as defined in section 6313(a)(2)(A) of this title)—
 
 &emsp;&emsp;(A) in which 70 percent of households earn less than 85 percent of the State median household income; or
 
-&emsp;&emsp;(B) that includes a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school.
+&emsp;&emsp;(B) that includes a school that qualifies under section 1087ee(a)(2)(A) of this title forloan cancellation for Perkins loan recipients who teach in such a school.
 
 #### (7) Nurse
 
-&emsp;The term “nurse” means a nurse who meets all of the following:
+&emsp;The term "nurse" means a nurse who meets all of the following:
 
 &emsp;&emsp;(A) The nurse graduated from—
 
@@ -296,7 +296,7 @@ In this section:
 
 #### (8) Occupational therapist
 
-&emsp;The term “occupational therapist” means an individual who—
+&emsp;The term "occupational therapist" means an individual who—
 
 &emsp;&emsp;(A) has received, at a minimum, a baccalaureate degree in occupational therapy from an institution of higher education accredited by an agency or association recognized by the Secretary pursuant to section 1099b(a) of this title; and
 
@@ -306,7 +306,7 @@ In this section:
 
 #### (9) Physical therapist
 
-&emsp;The term “physical therapist” means an individual who—
+&emsp;The term "physical therapist" means an individual who—
 
 &emsp;&emsp;(A) has received, at a minimum, a graduate degree in physical therapy from an institution of higher education accredited by an agency or association recognized by the Secretary pursuant to section 1099b(a) of this title; and
 
@@ -316,7 +316,7 @@ In this section:
 
 #### (10) Speech-language pathologist
 
-&emsp;The term “speech-language pathologist” means a speech-language pathologist who—
+&emsp;The term "speech-language pathologist" means a speech-language pathologist who—
 
 &emsp;&emsp;(A) has received, at a minimum, a graduate degree in speech-language pathology or communication sciences and disorders from an institution of higher education accredited by an agency or association recognized by the Secretary pursuant to section 1099b(a) of this title; and
 
@@ -326,7 +326,7 @@ In this section:
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years to provide loan forgiveness in accordance with this section.
 
-(Pub. L. 89–329, title IV, §428K, as added Pub. L. 105–244, title IV, §425, Oct. 7, 1998, 112 Stat. 1699; amended Pub. L. 110–315, title IV, §430, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV,§402(f)(7), July 1, 2009, 123 Stat. 1944; Pub. L. 111–148, title V, §5205(b), Mar. 23, 2010, 124 Stat. 611.)
+(Pub. L. 89–329, title IV, §428K, as added Pub. L. 105–244, title IV, §425, Oct. 7, 1998, 112 Stat. 1699; amended Pub. L. 110–315, title IV, §430, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(7), July 1, 2009, 123 Stat. 1944; Pub. L. 111–148, title V, §5205(b), Mar. 23, 2010, 124 Stat. 611.)
 
 #### References in Text
 
@@ -338,7 +338,7 @@ The Head Start Act, referred to in subsec. (g)(4)(C)(ii), (5)(B), is subchapter 
 
 Subsec. (g). Pub. L. 111–148, §5205(b)(2), added par. (1) and redesignated former pars. (1) to (9) as (2) to (10), respectively.
 
-<b>2009</b>—Subsec. (g)(9)(B). Pub. L. 111–39 substituted “under subsection (ll)(4) of such section” for “under subsection (ll)(3) of such section”.
+<b>2009</b>—Subsec. (g)(9)(B). Pub. L. 111–39 substituted "under subsection (ll)(4) of such section" for "under subsection (ll)(3) of such section".
 
 <b>2008</b>—Pub. L. 110–315 amended section generally. Prior to amendment, section related to loan forgiveness for child care providers.
 
@@ -352,7 +352,7 @@ Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–24
 
 #### Allied Health Workforce Recruitment and Retention Programs
 
-Pub. L. 111–148, title V, §5205(a), Mar. 23, 2010, 124 Stat. 611, provided that: “The purpose of this section \[amending this section\] is to assure an adequate supply of allied health professionals to eliminate critical allied health workforce shortages in Federal, State, local, and tribal public health agencies or in settings where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences and other settings, as recognized by the Secretary of Health and Human Services by authorizing an Allied Health Loan Forgiveness Program.”
+Pub. L. 111–148, title V, §5205(a), Mar. 23, 2010, 124 Stat. 611, provided that: "The purpose of this section \[amending this section\] is to assure an adequate supply of allied health professionals to eliminate critical allied health workforce shortages in Federal, State, local, and tribal public health agencies or in settings where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences and other settings, as recognized by the Secretary of Health and Human Services by authorizing an Allied Health Loan Forgiveness Program."
 
-\[For definition of “Allied Health Loan Forgiveness Program” as used in section 5205(a) of Pub. L. 111–148, set out above, see section 5002(a) of Pub. L. 111–148, set out as a note under section 294q of Title 42, The Public Health and Welfare.\]
+\[For definition of "Allied Health Loan Forgiveness Program" as used in section 5205(a) of Pub. L. 111–148, set out above, see section 5002(a) of Pub. L. 111–148, set out as a note under section 294q of Title 42, The Public Health and Welfare.\]
 

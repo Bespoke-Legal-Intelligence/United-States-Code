@@ -2,7 +2,7 @@
 
 #### (a) Definition of small impoverished community
 
-In this section, the term “small impoverished community” means a community of 3,000 or fewer individuals that is economically disadvantaged, as determined by the State in which the community is located and based on criteria established by the President.
+In this section, the term "small impoverished community" means a community of 3,000 or fewer individuals that is economically disadvantaged, as determined by the State in which the community is located and based on criteria established by the President.
 
 #### (b) Establishment of program
 
@@ -10,7 +10,7 @@ The President may establish a program to provide technical and financial assista
 
 #### (c) Approval by President
 
-If the President determines that a State or local government has identified natural disaster hazards in areas under its jurisdiction and has demonstrated the ability to form effective public-private natural disaster hazard mitigation partnerships, the President, using amounts in the National Predisaster Mitigation Fund established under subsection (i) of this section (referred to in this section as the “Fund”), may provide technical and financial assistance to the State or local government to be used in accordance with subsection (e) of this section.
+If the President determines that a State or local government has identified natural disaster hazards in areas under its jurisdiction and has demonstrated the ability to form effective public-private natural disaster hazard mitigation partnerships, the President, using amounts in the National Predisaster Mitigation Fund established under subsection (i) of this section (referred to in this section as the "Fund"), may provide technical and financial assistance to the State or local government to be used in accordance with subsection (e) of this section.
 
 #### (d) State recommendations
 
@@ -36,7 +36,7 @@ If the President determines that a State or local government has identified natu
 
 #### (B) Extraordinary circumstances
 
-&emsp;&emsp;In providing assistance to local governments under this section, the President may select a local government that has not been recommended by a Governor under this subsection if the President determines that extraordinary circumstances justify the selection and that making the selection will further the purpose of this section.
+&emsp;&emsp;In providing assistance to local governments under this section, the President may select a local government that has not beenrecommended by a Governor under this subsection if the President determines that extraordinary circumstances justify the selection and that making the selection will further the purpose of this section.
 
 #### (3) Effect of failure to nominate
 
@@ -118,7 +118,7 @@ In determining whether to provide technical and financial assistance to a State 
 
 #### (1) Establishment
 
-&emsp;The President may establish in the Treasury of the United States a fund to be known as the “National Predisaster Mitigation Fund”, to be used in carrying out this section.
+&emsp;The President may establish in the Treasury of the United States a fund to be known as the "National Predisaster Mitigation Fund", to be used in carrying out this section.
 
 #### (2) Transfers to Fund
 
@@ -172,7 +172,7 @@ The President shall not provide financial assistance under this section in an am
 
 #### (1) Definition of multihazard advisory map
 
-&emsp;In this subsection, the term “multihazard advisory map” means a map on which hazard data concerning each type of natural disaster is identified simultaneously for the purpose of showing areas of hazard overlap.
+&emsp;In this subsection, the term "multihazard advisory map" means a map on which hazard data concerning each type of natural disaster is identified simultaneously for the purpose of showing areas of hazard overlap.
 
 #### (2) Development of maps
 
@@ -200,7 +200,7 @@ The President shall not provide financial assistance under this section in an am
 
 #### (l) Report on Federal and State administration
 
-Not later than 18 months after October 30, 2000, the President, in consultation with Stateand local governments, shall submit to Congress a report evaluating efforts to implement this section and recommending a process for transferring greater authority and responsibility for administering the assistance program established under this section to capable States.
+Not later than 18 months after October 30, 2000, the President, in consultation with State and local governments, shall submit to Congress a report evaluating efforts to implement this section and recommending a process for transferring greater authority and responsibility for administering the assistance program established under this section to capable States.
 
 #### (m) Authorization of appropriations
 
@@ -216,7 +216,7 @@ There are authorized to be appropriated to carry out this section—
 
 #### (1) Definition
 
-&emsp;In this subsection, the term “congressionally directed spending” means a statutory provision or report language included primarily at the request of a Senator or a Member, Delegate or Resident Commissioner of the House of Representatives providing, authorizing, or recommending a specific amount of discretionary budget authority, credit authority, or other spending authority for a contract, loan, loan guarantee, grant, loan authority, or other expenditure with or to an entity, or targeted to a specific State, locality, or Congressional district, other than through a statutory or administrative formula-driven or competitive award process.
+&emsp;In this subsection, the term "congressionally directed spending" means a statutory provision or report language included primarily at the request of a Senator or a Member, Delegate or Resident Commissioner of the House of Representatives providing, authorizing, or recommending a specific amount of discretionary budget authority, credit authority, or other spending authority for a contract, loan, loan guarantee, grant, loan authority, or other expenditure with or to an entity, or targeted to a specific State, locality, or Congressional district, other than through a statutory or administrative formula-driven or competitive award process.
 
 #### (2) Prohibition
 
@@ -226,11 +226,11 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;The Administrator of the Federal Emergency Management Agency shall submit to Congress a certification regarding whether all financial assistance under this section was awarded in accordance with this section.
 
-(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690; Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176; Pub. L. 111–351, §§3(a), (b), 4, Jan. 4, 2011, 124 Stat. 3864.)
+(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690;Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176; Pub. L. 111–351, §§3(a), (b), 4, Jan. 4, 2011, 124 Stat. 3864.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (g)(5), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+This chapter, referred to in subsec. (g)(5), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Amendments
 
@@ -240,69 +240,69 @@ Subsec. (m). Pub. L. 111–351, §3(b), amended subsec. (m) generally. Prior to 
 
 Subsec. (n). Pub. L. 111–351, §4, added subsec. (n).
 
-<b>2009</b>—Subsec. (m). Pub. L. 111–83 substituted “September 30, 2010” for “September 30, 2009”.
+<b>2009</b>—Subsec. (m). Pub. L. 111–83 substituted "September 30, 2010" for "September 30, 2009".
 
-<b>2008</b>—Subsec. (m). Pub. L. 110–329 substituted “September 30, 2009” for “September 30, 2008”.
+<b>2008</b>—Subsec. (m). Pub. L. 110–329 substituted "September 30, 2009" for "September 30, 2008".
 
-<b>2005</b>—Subsec. (m). Pub. L. 109–139 substituted “September 30, 2008” for “December 31, 2005”.
+<b>2005</b>—Subsec. (m). Pub. L. 109–139 substituted "September 30, 2008" for "December 31, 2005".
 
-<b>2004</b>—Subsec. (m). Pub. L. 108–447 substituted “2005” for “2004”.
+<b>2004</b>—Subsec. (m). Pub. L. 108–447 substituted "2005" for "2004".
 
-Pub. L. 108–199 substituted “2004” for “2003”.
+Pub. L. 108–199 substituted "2004" for "2003".
 
 #### Findings
 
-Pub. L. 111–351, §2, Jan. 4, 2011, 124 Stat. 3863, provided that: “Congress finds the following:
+Pub. L. 111–351, §2, Jan. 4, 2011, 124 Stat. 3863, provided that: "Congress finds the following:
 
-&emsp;“(1) The predisaster hazard mitigation program has been successful and cost-effective. Funding from the predisaster hazard mitigation program has successfully reduced loss of life, personal injuries, damage to and destruction of property, and disruption of communities from disasters.
+&emsp;"(1) The predisaster hazard mitigation program has been successful and cost-effective. Funding from the predisaster hazard mitigation program has successfully reduced loss of life, personal injuries, damage to and destruction of property, and disruption of communities from disasters.
 
-&emsp;“(2) The predisaster hazard mitigation program has saved Federal taxpayers from spending significant sums on disaster recovery and relief that would have been otherwise incurred had communities not successfully applied mitigation techniques.
+&emsp;"(2) The predisaster hazard mitigation program has saved Federal taxpayers from spending significant sums on disaster recovery and relief that would have been otherwise incurred had communities not successfully applied mitigation techniques.
 
-&emsp;“(3) A 2007 Congressional Budget Office report found that the predisaster hazard mitigation program reduced losses by roughly $3 (measured in 2007 dollars) for each dollar invested in mitigation efforts funded under the predisaster hazard mitigation program. Moreover, the Congressional Budget Office found that projects funded under the predisaster hazard mitigation program could lower the need for post-disaster assistance from the Federal Government so that the predisaster hazard mitigation investment by the Federal Government would actually save taxpayer funds.
+&emsp;"(3) A 2007 Congressional Budget Office report found that the predisaster hazard mitigation program reduced losses by roughly $3 (measured in 2007 dollars) for each dollar invested in mitigation efforts funded under the predisaster hazard mitigation program. Moreover, the Congressional Budget Office found that projects funded under the predisaster hazard mitigation program could lower the need for post-disaster assistance from the Federal Government so that the predisaster hazard mitigation investment by the Federal Government would actually save taxpayer funds.
 
-&emsp;“(4) A 2005 report by the Multihazard Mitigation Council showed substantial benefits and cost savings from the hazard mitigation programs of the Federal Emergency Management Agency generally. Looking at a range of hazard mitigation programs of the Federal Emergency Management Agency, the study found that, on average, $1 invested by the Federal Emergency Management Agency in hazard mitigation provided the Nation with roughly $4 in benefits. Moreover, the report projected that the mitigation grants awarded between 1993 and 2003 would save more than 220 lives and prevent nearly 4,700 injuries over approximately 50 years.
+&emsp;"(4) A 2005 report by the Multihazard Mitigation Council showed substantial benefits and cost savings from the hazard mitigation programs of the Federal Emergency Management Agency generally. Looking at a range of hazard mitigation programs of the Federal Emergency Management Agency, the study found that, on average, $1 invested by the Federal Emergency Management Agency in hazard mitigation provided the Nation with roughly $4 in benefits. Moreover, the report projected that the mitigation grants awarded between 1993 and 2003 would save more than 220 lives and prevent nearly 4,700 injuries over approximately 50 years.
 
-&emsp;“(5) Given the substantial savings generated from the predisaster hazard mitigation program in the years following the provision of assistance under the program, increasing funds appropriated for the program would be a wise investment.”
+&emsp;"(5) Given the substantial savings generated from the predisaster hazard mitigation program in the years following the provision of assistance under the program, increasing funds appropriated for the program would be a wise investment."
 
 #### Findings and Purpose
 
 Pub. L. 106–390, title I, §101, Oct. 30, 2000, 114 Stat. 1552, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress finds that—
 
-&emsp;“(1) natural disasters, including earthquakes, tsunamis, tornadoes, hurricanes, flooding, and wildfires, pose great danger to human life and to property throughout the United States;
+&emsp;"(1) natural disasters, including earthquakes, tsunamis, tornadoes, hurricanes, flooding, and wildfires, pose great danger to human life and to property throughout the United States;
 
-&emsp;“(2) greater emphasis needs to be placed on—
+&emsp;"(2) greater emphasis needs to be placed on—
 
-&emsp;&emsp;“(A) identifying and assessing the risks to States and local governments (including Indian tribes) from natural disasters;
+&emsp;&emsp;"(A) identifying and assessing the risks to States and local governments (including Indian tribes) from natural disasters;
 
-&emsp;&emsp;“(B) implementing adequate measures to reduce losses from natural disasters; and
+&emsp;&emsp;"(B) implementing adequate measures to reduce losses from natural disasters; and
 
-&emsp;&emsp;“(C) ensuring that the critical services and facilities of communities will continue to function after a natural disaster;
+&emsp;&emsp;"(C) ensuring that the critical services and facilities of communities will continue to function after a natural disaster;
 
-&emsp;“(3) expenditures for postdisaster assistance are increasing without commensurate reductions in the likelihood of future losses from natural disasters;
+&emsp;"(3) expenditures for postdisaster assistance are increasing without commensurate reductions in the likelihood of future losses from natural disasters;
 
-&emsp;“(4) in the expenditure of Federal funds under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), high priority should be given to mitigation of hazards at the local level; and
+&emsp;"(4) in the expenditure of Federal funds under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), high priority should be given to mitigation of hazards at the local level; and
 
-&emsp;“(5) with a unified effort of economic incentives, awareness and education, technical assistance, and demonstrated Federal support, States and local governments (including Indian tribes) will be able to—
+&emsp;"(5) with a unified effort of economic incentives, awareness and education, technical assistance, and demonstrated Federal support, States and local governments (including Indian tribes) will be able to—
 
-&emsp;&emsp;“(A) form effective community-based partnerships for hazard mitigation purposes;
+&emsp;&emsp;"(A) form effective community-based partnerships for hazard mitigation purposes;
 
-&emsp;&emsp;“(B) implement effective hazard mitigation measures that reduce the potential damage from natural disasters;
+&emsp;&emsp;"(B) implement effective hazard mitigation measures that reduce the potential damage from natural disasters;
 
-&emsp;&emsp;“(C) ensure continued functionality of critical services;
+&emsp;&emsp;"(C) ensure continued functionality of critical services;
 
-&emsp;&emsp;“(D) leverage additional non-Federal resources in meeting natural disaster resistance goals; and
+&emsp;&emsp;"(D) leverage additional non-Federal resources in meeting natural disaster resistance goals; and
 
-&emsp;&emsp;“(E) make commitments to long-term hazard mitigation efforts to be applied to new and existing structures.
+&emsp;&emsp;"(E) make commitments to long-term hazard mitigation efforts to be applied to new and existing structures.
 
-“(b)
+"(b)
 
 Purpose.—The purpose of this title \[enacting this section and sections 5134, 5165 and 5165a of this title, amending section 5170c of this title, and repealing section 5176 of this title\] is to establish a national disaster hazard mitigation program—
 
-&emsp;“(1) to reduce the loss of life and property, human suffering, economic disruption, and disaster assistance costs resulting from natural disasters; and
+&emsp;"(1) to reduce the loss of life and property, human suffering, economic disruption, and disaster assistance costs resulting from natural disasters; and
 
-&emsp;“(2) to provide a source of predisaster hazard mitigation funding that will assist States and local governments (including Indian tribes) in implementing effective hazard mitigation measures that are designed to ensure the continued functionality of critical services and facilities after a natural disaster.”
+&emsp;"(2) to provide a source of predisaster hazard mitigation funding that will assist States and local governments (including Indian tribes) in implementing effective hazard mitigation measures that are designed to ensure the continued functionality of critical services and facilities after a natural disaster."
 

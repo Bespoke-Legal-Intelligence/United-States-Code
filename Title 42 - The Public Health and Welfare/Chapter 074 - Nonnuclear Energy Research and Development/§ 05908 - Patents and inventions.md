@@ -86,15 +86,15 @@ The Department shall be considered a defense agency of the United States for the
 
 As used in this section—
 
-&emsp;(1) the term “person” means any individual, partnership, corporation, association, institution, or other entity;
+&emsp;(1) the term "person" means any individual, partnership, corporation, association, institution, or other entity;
 
-&emsp;(2) the term “contract” means any contract, grant, agreement, understanding, or other arrangement, which includes research, development, or demonstration work, and includes any assignment, substitution of parties, or subcontract executed or entered into thereunder;
+&emsp;(2) the term "contract" means any contract, grant, agreement, understanding, or other arrangement, which includes research, development, or demonstration work, and includes any assignment, substitution of parties, or subcontract executed or entered into thereunder;
 
-&emsp;(3) the term “made”, when used in relation to any invention, means the conception or first actual reduction to practice of such invention;
+&emsp;(3) the term "made", when used in relation to any invention, means the conception or first actual reduction to practice of such invention;
 
-&emsp;(4) the term “invention” means inventions or discoveries, whether patented or unpatented; and
+&emsp;(4) the term "invention" means inventions or discoveries, whether patented or unpatented; and
 
-&emsp;(5) the term “contractor” means any person having a contract with or on behalf of the Department.
+&emsp;(5) the term "contractor" means any person having a contract with or on behalf of the Department.
 
 #### (n) Report concerning applicability of existing patent policies to energy programs; time for submission to President and appropriate congressional committees
 
@@ -104,35 +104,35 @@ Within twelve months after December 31, 1974, the Secretary with the participati
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary” for “Administrator” in introductory and concluding provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58, §1009(b)(7)(B), substituted "Secretary" for "Administrator" in introductory and concluding provisions.
 
-Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration” in introductory provisions.
+Pub. L. 109–58, §1009(b)(7)(A), substituted "Department" for "Administration" in introductory provisions.
 
-Subsec. (b). Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration” in two places.
+Subsec. (b). Pub. L. 109–58, §1009(b)(7)(A), substituted "Department" for "Administration" in two places.
 
-Subsec. (c). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary” for “Administrator” wherever appearing in introductory provisions.
+Subsec. (c). Pub. L. 109–58, §1009(b)(7)(B), substituted "Secretary" for "Administrator" wherever appearing in introductory provisions.
 
-Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration” in two places in introductory provisions.
+Pub. L. 109–58, §1009(b)(7)(A), substituted "Department" for "Administration" in two places in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 109–58, §1009(b)(7)(C), substituted “Department's” for “Administration's”.
+Subsec. (c)(3). Pub. L. 109–58, §1009(b)(7)(C), substituted "Department's" for "Administration's".
 
-Subsec. (d). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary” for “Administrator” in introductory provisions and par. (11).
+Subsec. (d). Pub. L. 109–58, §1009(b)(7)(B), substituted "Secretary" for "Administrator" in introductory provisions and par. (11).
 
-Subsec. (e). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary” for “Administrator” in introductory provisions.
+Subsec. (e). Pub. L. 109–58, §1009(b)(7)(B), substituted "Secretary" for "Administrator" in introductory provisions.
 
-Subsec. (f)(2). Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration”.
+Subsec. (f)(2). Pub. L. 109–58, §1009(b)(7)(A), substituted "Department" for "Administration".
 
-Subsecs. (j), (k). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary” for “Administrator”.
+Subsecs. (j), (k). Pub. L. 109–58, §1009(b)(7)(B), substituted "Secretary" for "Administrator".
 
-Subsec. (l). Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration”.
+Subsec. (l). Pub. L. 109–58, §1009(b)(7)(A), substituted "Department" for "Administration".
 
-Subsec. (m)(5). Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration”.
+Subsec. (m)(5). Pub. L. 109–58, §1009(b)(7)(A), substituted "Department" for "Administration".
 
-Subsec. (n). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary with” for “Administrator with”.
+Subsec. (n). Pub. L. 109–58, §1009(b)(7)(B), substituted "Secretary with" for "Administrator with".
 
 <b>1980</b>—Subsec. (g). Pub. L. 96–517 struck out subsec. (g) which related to licenses for inventions, promulgation of regulations specifying terms and conditions, criteria and procedures for grant of exclusive or partially exclusive licenses, and record of determinations.
 

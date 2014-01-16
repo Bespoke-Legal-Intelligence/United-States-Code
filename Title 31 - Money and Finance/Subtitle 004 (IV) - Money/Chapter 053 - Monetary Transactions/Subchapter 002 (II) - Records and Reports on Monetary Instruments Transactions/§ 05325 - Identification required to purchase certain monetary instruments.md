@@ -18,7 +18,7 @@ Report to Secretary Upon Request.—Any information required to be recorded by a
 
 (c)
 
-Transaction Account Defined.—For purposes of this section, the term “transaction account” has the meaning given to such term in section 19(b)(1)(C) of the Federal Reserve Act.
+Transaction Account Defined.—For purposes of this section, the term "transaction account" has the meaning given to such term in section 19(b)(1)(C) of the Federal Reserve Act.
 
 (Added Pub. L. 100–690, title VI, §6185(b), Nov. 18, 1988, 102 Stat. 4355.)
 

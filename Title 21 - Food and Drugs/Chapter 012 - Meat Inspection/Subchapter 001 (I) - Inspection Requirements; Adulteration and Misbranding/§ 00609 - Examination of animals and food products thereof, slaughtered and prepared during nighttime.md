@@ -1,6 +1,6 @@
 ### §609. Examination of animals and food products thereof, slaughtered and prepared during nighttime
 
-The Secretary shall cause an examination and inspection of all amenable species, and the food products thereof, slaughtered and prepared in the establishments hereinbefore described for the purposes of commerce to be made during the nighttime as well as during the daytime when the slaughtering of said amenable species, or the preparation of said food products is conducted during the nighttime.
+The Secretary shall cause an examination and inspection of all amenable species, and the foodproducts thereof, slaughtered and prepared in the establishments hereinbefore described for the purposes of commerce to be made during the nighttime as well as during the daytime when the slaughtering of said amenable species, or the preparation of said food products is conducted during the nighttime.
 
 (Mar. 4, 1907, ch. 2907, title I, §9, formerly 7th par., 34 Stat. 1262; renumbered §9 and amended Pub. L. 90–201, §§1, 3, 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 99–641, title IV, §403(d)(1), Nov. 10, 1986, 100 Stat. 3570; Pub. L. 109–97, title VII, §798\[(a)\](1), Nov. 10, 2005, 119 Stat. 2166.)
 
@@ -10,11 +10,11 @@ Section was formerly classified to section 77 of this title.
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines” in two places.
+<b>2005</b>—Pub. L. 109–97 substituted "amenable species" for "cattle, sheep, swine, goats, horses, mules, and other equines" in two places.
 
-<b>1986</b>—Pub. L. 99–641 temporarily inserted “, except as provided in section 606 of this title,” after first reference to “other equines, and”. See Effective and Termination Dates of 1986 Amendment note below.
+<b>1986</b>—Pub. L. 99–641 temporarily inserted ", except as provided in section 606 of this title," after first reference to "other equines, and". See Effective and Termination Dates of 1986 Amendment note below.
 
-<b>1967</b>—Pub. L. 90–201, §§3, 12(a), struck out “interstate or foreign” before “commerce” and “of Agriculture” after “Secretary” and included horses, mules, and other equines in the list of animals, respectively.
+<b>1967</b>—Pub. L. 90–201, §§3, 12(a), struck out "interstate or foreign" before "commerce" and "of Agriculture" after "Secretary" and included horses, mules, and other equines in the list of animals, respectively.
 
 #### Effective Date of 2005 Amendment
 
@@ -26,13 +26,13 @@ Pub. L. 99–641, title IV, §403(d)(1), Nov. 10, 1986, 100 Stat. 3570, provided
 
 Pub. L. 99–641, title IV, §408, Nov. 10, 1986, 100 Stat. 3571, provided that:
 
-“(a)
+"(a)
 
 General Effective Date.—Except as provided in subsection (b) of this section, this title and the amendments made by this title \[amending this section and sections 606, 621, 671, and 676 of this title and enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title\] shall become effective on the date of the enactment of this Act \[Nov. 10, 1986\].
 
-“(b)
+"(b)
 
-Temporary Application of Existing Law.—Sections 6, 9, and 21 of the Federal Meat Inspection Act (21 U.S.C. 606, 609, and 621), as in effect immediately before the date of the enactment of this Act \[Nov. 10, 1986\], shall apply with respect to establishments until the Secretary of Agriculture first issues rules and regulations to implement the amendments made by section 403(a) \[amending section 606 of this title\].”
+Temporary Application of Existing Law.—Sections 6, 9, and 21 of the Federal Meat Inspection Act (21 U.S.C. 606, 609, and 621), as in effect immediately before the date of the enactment of this Act \[Nov. 10, 1986\], shall apply with respect to establishments until the Secretary of Agriculture first issues rules and regulations to implement the amendments made by section 403(a) \[amending section 606 of this title\]."
 
 #### Effective Date of 1967 Amendment
 
@@ -40,9 +40,9 @@ Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect 
 
 #### Savings Provision
 
-Pub. L. 99–641, title IV, §404, Nov. 10, 1986, 100 Stat. 3571, provided that: “The expiration date provisions of section 403 \[enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title\] shall not have the effect of releasing or extinguishing any penalty, forfeiture, or liability incurred under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), as amended by section 403 \[amending this section and sections 606, 621, 671, and 676 of this title\], or under the rules or regulations issued under such Act.”
+Pub. L. 99–641, title IV, §404, Nov. 10, 1986, 100 Stat. 3571, provided that: "The expiration date provisions of section 403 \[enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title\] shall not have the effect of releasing or extinguishing any penalty, forfeiture, or liability incurred under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), as amended by section 403 \[amending this section and sections 606, 621, 671, and 676 of this title\], or under the rules or regulations issued under such Act."
 
 #### Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program
 
-Pub. L. 99–641, title IV, §403(e), Nov. 10, 1986, 100 Stat. 3570, provided that: “The amendments made by this section \[amending this section and sections 606, 621, 671, and 676 of this title\] shall not be construed to authorize the Secretary of Agriculture to refuse to provide inspection under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.) at an establishment solely because such establishment does not participate in a total plant quality-control program.”
+Pub. L. 99–641, title IV, §403(e), Nov. 10, 1986, 100 Stat. 3570, provided that: "The amendments made by this section \[amending this section and sections 606, 621, 671, and 676 of this title\] shall not be construed to authorize the Secretary of Agriculture to refuse to provide inspection under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.) at an establishment solely because such establishment does not participate in a total plant quality-control program."
 

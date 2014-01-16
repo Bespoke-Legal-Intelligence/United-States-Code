@@ -6,5 +6,5 @@ If any provision of this chapter, or the application thereof to any person or ci
 
 #### Amendments
 
-<b>1949</b>—Act Oct. 28, 1949, inserted “title I,” in credit of act May 20, 1936.
+<b>1949</b>—Act Oct. 28, 1949, inserted "title I," in credit of act May 20, 1936.
 

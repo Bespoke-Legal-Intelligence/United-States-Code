@@ -36,7 +36,7 @@ The service projects carried out by the National Civilian Community Corps shall�
 
 #### (2) Innovative local arrangements for project performance
 
-&emsp;The Director shall encourage campus directors to negotiate with representatives of local communities, to the extent practicable, innovative arrangements for the performance of projects. The arrangements may provide for cost-sharing and the provision by the communities of in-kind support and other support.
+&emsp;The Director shall encourage campus directors to negotiate with representatives of localcommunities, to the extent practicable, innovative arrangements for the performance of projects. The arrangements may provide for cost-sharing and the provision by the communities of in-kind support and other support.
 
 (Pub. L. 101–610, title I, §157, formerly §195F, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2526; renumbered §157 and amended Pub. L. 103–82, title I, §104(b), title IV, §§402(b)(2), 403(b), Sept. 21, 1993, 107 Stat. 840, 919, 920; Pub. L. 111–13, title I, §1507, Apr. 21, 2009, 123 Stat. 1524.)
 
@@ -50,25 +50,25 @@ A prior section 157 of Pub. L. 101–610 was classified to section 12602 of this
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1507(1)(A), inserted “National” before “Civilian Community Corps” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1507(1)(A), inserted "National" before "Civilian Community Corps" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 111–13, §1507(1)(B), inserted “, with specific emphasis on projects in support of infrastructure improvement, energy conservation, and urban and rural development” before semicolon at end.
+Subsec. (a)(1). Pub. L. 111–13, §1507(1)(B), inserted ", with specific emphasis on projects in support of infrastructure improvement, energy conservation, and urban and rural development" before semicolon at end.
 
-Subsec. (a)(2). Pub. L. 111–13, §1507(1)(C), substituted “service-learning” for “service learning”.
+Subsec. (a)(2). Pub. L. 111–13, §1507(1)(C), substituted "service-learning" for "service learning".
 
-Subsec. (b)(1)(A). Pub. L. 111–13, §1507(2)(A)(i), substituted “the Secretary of Housing and Urban Development, the Administrator of the Environmental Protection Agency, the Administrator of the Federal Emergency Management Agency, the Secretary of Energy, the Secretary of Transportation, and the Chief of the Forest Service” for “and the Secretary of Housing and Urban Development”.
+Subsec. (b)(1)(A). Pub. L. 111–13, §1507(2)(A)(i), substituted "the Secretary of Housing and Urban Development, the Administrator of the Environmental Protection Agency, the Administrator of the Federal Emergency Management Agency, the Secretary of Energy, the Secretary of Transportation, and the Chief of the Forest Service" for "and the Secretary of Housing and Urban Development".
 
-Subsec. (b)(1)(B). Pub. L. 111–13, §1507(2)(A)(ii), inserted “community-based entities and” before “representatives of local communities” and substituted “campus” for “camp” in two places.
+Subsec. (b)(1)(B). Pub. L. 111–13, §1507(2)(A)(ii), inserted "community-based entities and" before "representatives of local communities" and substituted "campus" for "camp" in two places.
 
-Subsec. (b)(2). Pub. L. 111–13, §1507(2)(B), inserted “State Commissions,” before “and persons involved in other youth service programs.”
+Subsec. (b)(2). Pub. L. 111–13, §1507(2)(B), inserted "State Commissions," before "and persons involved in other youth service programs."
 
-Subsec. (c)(1). Pub. L. 111–13, §1507(3)(A), substituted “campus director of a Corps campus” for “superintendent of a Corps camp” and “campus. The campus director” for “camp. The superintendent”.
+Subsec. (c)(1). Pub. L. 111–13, §1507(3)(A), substituted "campus director of a Corps campus" for "superintendent of a Corps camp" and "campus. The campus director" for "camp. The superintendent".
 
-Subsec. (c)(2). Pub. L. 111–13, §1507(3)(B), substituted “campus directors” for “camp superintendents”.
+Subsec. (c)(2). Pub. L. 111–13, §1507(3)(B), substituted "campus directors" for "camp superintendents".
 
-<b>1993</b>—Subsec. (b)(1)(A). Pub. L. 103–82, §403(b), substituted “Director” for “Director of the Civilian Community Corps”.
+<b>1993</b>—Subsec. (b)(1)(A). Pub. L. 103–82, §403(b), substituted "Director" for "Director of the Civilian Community Corps".
 
-Subsec. (b)(2). Pub. L. 103–82, §402(b)(2), substituted “Corporation” for “Commission on National and Community Service”.
+Subsec. (b)(2). Pub. L. 103–82, §402(b)(2), substituted "Corporation" for "Commission on National and Community Service".
 
 #### Effective Date of 2009 Amendment
 

@@ -16,7 +16,7 @@ Notwithstanding section 337 of this title, the First Responder Network Authority
 
 #### (B) Covered leasing agreement
 
-&emsp;&emsp;For purposes of subparagraph (A), a “covered leasing agreement” means a written agreement resulting from a public-private arrangement to construct, manage, and operate the nationwide public safety broadband network between the First Responder Network Authority and secondary user to permit—
+&emsp;&emsp;For purposes of subparagraph (A), a "covered leasing agreement" means a written agreement resulting from a public-private arrangement to construct, manage, and operate the nationwide public safety broadband network between the First Responder Network Authority and secondary user to permit—
 
 &emsp;&emsp;&emsp;(i) access to network capacity on a secondary basis for non-public safety services; and
 

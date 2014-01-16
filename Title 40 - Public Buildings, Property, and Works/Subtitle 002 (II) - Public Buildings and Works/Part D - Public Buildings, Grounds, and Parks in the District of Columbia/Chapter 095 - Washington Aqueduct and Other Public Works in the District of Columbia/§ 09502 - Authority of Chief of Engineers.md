@@ -44,5 +44,5 @@ R.S. §1810.
 
 R.S. §1811.
 
-In subsection (b)(3), the words “Secretary of the Army” are substituted for “Department of War” \[subsequently changed to “Department of the Army” because of section 205(a) of the National Security Act of 1947 (ch. 343, 61 Stat. 501)\] because of 10:3013(a)(1).
+In subsection (b)(3), the words "Secretary of the Army" are substituted for "Department of War" \[subsequently changed to "Department of the Army" because of section 205(a) of the National Security Act of 1947 (ch. 343, 61 Stat. 501)\] because of 10:3013(a)(1).
 

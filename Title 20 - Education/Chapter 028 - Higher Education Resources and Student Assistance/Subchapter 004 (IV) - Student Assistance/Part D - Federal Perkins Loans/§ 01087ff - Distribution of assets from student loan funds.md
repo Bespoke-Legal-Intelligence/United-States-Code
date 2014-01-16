@@ -20,7 +20,7 @@ After October 1, 2012, each institution with which the Secretary has made an agr
 
 &emsp;(B) The remainder of the capital distribution shall be paid to the institution.
 
-(2) No finding that the liquid assets of a student loan fund established under this part exceed the amount required under paragraph (1) may be made prior to a date which is 2 years after the date on which the institution of higher education received the funds from such institution's allocation under section 1087bb of this title.
+(2) No finding that the liquid assets of a student loan fund established under this part exceed the amount required under paragraph (1) may be made prior to a date which is 2 years after the date on which the institution of highereducation received the funds from such institution's allocation under section 1087bb of this title.
 
 (Pub. L. 89–329, title IV, §466, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1453; amended Pub. L. 102–325, title IV, §466, July 23, 1992, 106 Stat. 584; Pub. L. 103–208, §2(f)(15), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §466, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 110–84, title V, §501, Sept. 27, 2007, 121 Stat. 801.)
 
@@ -30,19 +30,19 @@ A prior section 1087ff, Pub. L. 89–329, title IV, §466, as added Pub. L. 92�
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b). Pub. L. 110–84 substituted “October 1, 2012” for “March 31, 2012”.
+<b>2007</b>—Subsec. (b). Pub. L. 110–84 substituted "October 1, 2012" for "March 31, 2012".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–244, §466(1)(A), in introductory provisions, substituted “2003” for “1996” and “2004” for “1997”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §466(1)(A), in introductory provisions, substituted "2003" for "1996" and "2004" for "1997".
 
-Subsec. (a)(1). Pub. L. 105–244, §466(1)(B), substituted “2003” for “1996”.
+Subsec. (a)(1). Pub. L. 105–244, §466(1)(B), substituted "2003" for "1996".
 
-Subsec. (b). Pub. L. 105–244, §466(2), substituted “2012” for “2005” and “2003” for “1996”.
+Subsec. (b). Pub. L. 105–244, §466(2), substituted "2012" for "2005" and "2003" for "1996".
 
-Subsec. (c)(1). Pub. L. 105–244, §466(3), substituted “2004” for “1997” in introductory provisions.
+Subsec. (c)(1). Pub. L. 105–244, §466(3), substituted "2004" for "1997" in introductory provisions.
 
 <b>1993</b>—Subsec. (c)(2). Pub. L. 103–208 realigned margin.
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–325, §466(1), substituted “2005” for “1997”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–325, §466(1), substituted "2005" for "1997".
 
 Subsec. (c). Pub. L. 102–325, §466(2), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 

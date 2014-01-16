@@ -186,7 +186,7 @@ Nitric acid
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-> For periods before 1992, the item relating to xylene in the preceding table shall be applied by substituting “10.13” for “4.87”.
+> For periods before 1992, the item relating to xylene in the preceding table shall be applied by substituting "10.13" for "4.87".
 
 #### (c) Termination
 
@@ -200,9 +200,9 @@ Amendment by Pub. L. 99–509, title VIII, §8031(d)(2), Oct. 21, 1986, 100 Stat
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–499 inserted at end “For periods before 1992, the item relating to xylene in the preceding table shall be applied by substituting ‘10.13’ for ‘4.87’.”
+<b>1986</b>—Subsec. (b). Pub. L. 99–499 inserted at end "For periods before 1992, the item relating to xylene in the preceding table shall be applied by substituting '10.13' for '4.87'."
 
-Subsec. (c). Pub. L. 99–509 substituted “the Hazardous Substance Superfund financing rate under section 4611 does not apply” for “no tax is imposed under section 4611(a)”.
+Subsec. (c). Pub. L. 99–509 substituted "the Hazardous Substance Superfund financing rate under section 4611does not apply" for "no tax is imposed under section 4611(a)".
 
 #### Effective Date of 1986 Amendments
 
@@ -210,77 +210,77 @@ Amendment by Pub. L. 99–509 effective on commencement date as defined in forme
 
 Pub. L. 99–499, title V, §513(h), Oct. 17, 1986, 100 Stat. 1765, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and section 4662 of this title\] shall take effect on January 1, 1987.
 
-“(2)
+"(2)
 
 Repeal of tax on xylene for periods before october 1, 1985.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Refund of tax previously imposed.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 In general.—In the case of any tax imposed by section 4661 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the sale or use of xylene before October 1, 1985, such tax (including interest, additions to tax, and additional amounts) shall not be assessed, and if assessed, the assessment shall be abated, and if collected shall be credited or refunded (with interest) as an overpayment.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
-Condition to allowance.—Clause (i) shall not apply to a sale of xylene unless the person who (but for clause (i)) would be liable for the tax imposed by section 4661 on such sale meets requirements similar to the requirements of paragraph (1) of section 6416(a) of such Code. For purposes of the preceding sentence, subparagraph (A) of section 6416(a)(1) of such Code shall be applied without regard to the material preceding ‘has not collected’.
+Condition to allowance.—Clause (i) shall not apply to a sale of xylene unless the person who (but for clause (i)) would be liable for the tax imposed by section 4661 on such sale meets requirements similar to the requirements of paragraph (1) of section 6416(a) of such Code. For purposes of the preceding sentence, subparagraph (A) of section 6416(a)(1) of such Code shall be applied without regard to the material preceding 'has not collected'.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Waiver of statute of limitations.—If on the date of the enactment of this Act \[Oct. 17, 1986\] (or at any time within 1 year after such date of enactment) refund or credit of any overpayment of tax resulting from the application of subparagraph (A) is barred by any law or rule of law, refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefor is filed before the date 1 year after the date of the enactment of this Act.
 
-&emsp;“(C)
+&emsp;"(C)
 
-Xylene to include isomers.—For purposes of this paragraph, the term ‘xylene’ shall include any isomer of xylene whether or not separated.
+Xylene to include isomers.—For purposes of this paragraph, the term 'xylene' shall include any isomer of xylene whether or not separated.
 
-“(3)
+"(3)
 
 Inventory exchanges.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Except as otherwise provided in this paragraph, the amendment made by subsection (f) \[amending section 4662 of this title\] shall apply as if included in the amendments made by section 211 of the Hazardous Substance Response Revenue Act of 1980 \[Pub. L. 96–510, enacting this chapter\].
 
-&emsp;“(B)
+&emsp;"(B)
 
 Recipient must agree to treatment as manufacturer.—In the case of any inventory exchange before January 1, 1987, the amendment made by subsection (f) shall apply only if the person receiving the chemical from the manufacturer, producer, or importer in the exchange agrees to be treated as the manufacturer, producer, or importer of such chemical for purposes of subchapter B of chapter 38 of the Internal Revenue Code of 1986.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Exception where manufacturer paid tax.—In the case of any inventory exchange before January 1, 1987, the amendment made by subsection (f) shall not apply if the manufacturer, producer, or importer treated such exchange as a sale for purposes of section 4661 of such Code and paid the tax imposed by such section.
 
-&emsp;“(D)
+&emsp;"(D)
 
 Registration requirements.—Section 4662(c)(2)(B) of such Code (as added by subsection (f)) shall apply to exchanges made after December 31, 1986.
 
-“(4)
+"(4)
 
 Exports of taxable substances.—Subclause (II) of section 4662(e)(2)(A)(ii) of such Code (as added by this section) shall not apply to the export of any taxable substance (as defined in section 4672(a) of such Code) before January 1, 1989.
 
-“(5)
+"(5)
 
 Sales of intermediate hydrocarbon streams.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Except as otherwise provided in this paragraph, the amendment made by subsection (g) \[amending section 4662 of this title\] shall apply as if included in the amendments made by section 211 of the Hazardous Substances Response Revenue Act of 1980.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Purchaser must agree to treatment as manufacturer.—In the case of any sale before January 1, 1987, of any intermediate hydrocarbon stream, the amendment made by subsection (g) shall apply only if the purchaser agrees to be treated as the manufacturer, producer, or importer for purposes of subchapter B of chapter 38 of such Code.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Exception where manufacturer paid tax.—In the case of any sale before January 1, 1987, of any intermediate hydrocarbon stream, the amendment made by subsection (g) shall not apply if the manufacturer, producer, or importer of such stream paid the tax imposed by section 4661 with respect to such sale on all taxable chemicals contained in such stream.
 
-&emsp;“(D)
+&emsp;"(D)
 
-Registration requirements.—Section 4662(b)(10)(C) of such Code (as added by subsection (g)) shall apply to exchanges made after December 31, 1986.”
+Registration requirements.—Section 4662(b)(10)(C) of such Code (as added by subsection (g)) shall apply to exchanges made after December 31, 1986."
 
 #### Effective Date
 

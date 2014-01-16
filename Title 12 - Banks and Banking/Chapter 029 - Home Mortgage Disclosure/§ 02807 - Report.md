@@ -6,15 +6,15 @@ The Bureau, in consultation with the Secretary of Housing and Urban Development,
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Board”.
+<b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board".
 
 <b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows:
 
-“(a) The Board, in consultation with the Secretary of Housing and Urban Development, is authorized and directed to carry out a study to determine the feasibility and usefulness of requiring depository institutions located outside primary metropolitan statistical areas, metropolitan statistical areas, or consolidated metropolitan statistical areas that are not comprised of designated primary metropolitan statistical areas, as defined by the Office of Management and Budget, to make disclosures comparable to those required by this chapter.
+"(a) The Board, in consultation with the Secretary of Housing and Urban Development, is authorized and directed to carry out a study to determine the feasibility and usefulness of requiring depository institutions located outside primary metropolitan statistical areas, metropolitan statistical areas, or consolidated metropolitan statistical areas that are not comprised of designated primary metropolitan statistical areas, as defined by the Office of Management and Budget, to make disclosures comparable to those required by this chapter.
 
-“(b) A report on the study under this section shall be transmitted to the Congress not later than three years after December 31, 1975.”
+"(b) A report on the study under this section shall be transmitted to the Congress not later than three years after December 31, 1975."
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–181 substituted “primary metropolitan statistical areas, metropolitan statistical areas, or consolidated metropolitan statistical areas that are not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical areas”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181 substituted "primary metropolitan statistical areas, metropolitan statistical areas, or consolidated metropolitan statistical areas that are not comprised of designated primary metropolitan statistical areas" for "standard metropolitan statistical areas".
 
 #### Effective Date of 2010 Amendment
 

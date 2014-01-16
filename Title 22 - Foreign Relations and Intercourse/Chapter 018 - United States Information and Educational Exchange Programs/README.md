@@ -11,7 +11,7 @@
 | [1435\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001435%20-%20Delegation%20of%20authority%20by%20Secretary.md) | Delegation of authority by Secretary. |
 | [1436\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001436%20-%20Restriction%20on%20disclosure%20of%20information.md) | Restriction on disclosure of information. |
 | [1437\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001437%20-%20Utilization%20of%20private%20agencies.md) | Utilization of private agencies. |
-| [1438\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001438%20-%20Veterans%E2%80%99%20preference.md) | Veterans’ preference. |
+| [1438\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001438%20-%20Veterans%27%20preference.md) | Veterans' preference. |
 | 1439 to 1441. Repealed or Omitted. |  |
 | [1442\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001442%20-%20Informational%20media%20guaranties.md) | Informational media guaranties. |
 | [1442a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001442a%20-%20National%20security%20measures.md) | National security measures. |

@@ -8,19 +8,19 @@ If the report of the Secretary submitted pursuant to section 1521 of this title 
 
 For the purpose of this section—
 
-&emsp;(1) the term “investment” means the expenditure of, and any irrevocable legal obligation to expend, funds (together with the reasonable interest costs thereof) for the purchase or construction of machinery, equipment, and facilities manufactured, or for services contracted to be furnished, for the development and utilization of a geothermal resource in the United States to provide energy in the form of heat for direct use or for generation of electricity;
+&emsp;(1) the term "investment" means the expenditure of, and any irrevocable legal obligation to expend, funds (together with the reasonable interest costs thereof) for the purchase or construction of machinery, equipment, and facilities manufactured, or for services contracted to be furnished, for the development and utilization of a geothermal resource in the United States to provide energy in the form of heat for direct use or for generation of electricity;
 
-&emsp;(2) the term “geothermal resource” means a resource in the United States including (A) all products of geothermal processes embracing indigenous steam, hot water, and hot brines; (B) steam and other gases, hot water and hot brines resulting from water, gas, or other fluids artificially introduced into geothermal formations; (C) heat or other associated energy found in geothermal formations; and (D) any byproducts derived from them, where “byproduct” means any mineral or minerals (exclusive of oil, hydrocarbon gas, and helium) which are found in solution or in association with other geothermal resources and which have a value of less than 75 per centum of the value of the geothermal steam or are not, because of quantity, quality, or technical difficulties in extraction and production, of sufficient value to warrant extraction and production by themselves;
+&emsp;(2) the term "geothermal resource" means a resource in the United States including (A) all products of geothermal processes embracing indigenous steam, hot water, and hot brines; (B) steam and other gases, hot water and hot brines resulting from water, gas, or other fluids artificially introduced into geothermal formations; (C) heat or other associated energy found in geothermal formations; and (D) any byproducts derived from them, where "byproduct" means any mineral or minerals (exclusive of oil, hydrocarbon gas, and helium) which are found in solution or in association with other geothermal resources and which have a value of less than 75 per centum of the value of the geothermal steam or are not, because of quantity, quality, or technical difficulties in extraction and production, of sufficient value to warrant extraction and production by themselves;
 
-&emsp;(3) the term “risk” means the hazard that a reservoir of geothermal resources will cease to provide sufficient quantities of geothermal resources at minimum conditions required to maintain an economically or technically viable operation for utilization of the geothermal resource;
+&emsp;(3) the term "risk" means the hazard that a reservoir of geothermal resources will cease to provide sufficient quantities of geothermal resources at minimum conditions required to maintain an economically or technically viable operation for utilization of the geothermal resource;
 
-&emsp;(4) the term “reasonable premiums” means premium amounts determined by the Secretary to be reasonable in light of the amount of investment subject to the risk and premiums charged in similar or analogous situations by private insurers where private insurance is concerned and by insurers or guarantors, both public and private, where public insurance is concerned;
+&emsp;(4) the term "reasonable premiums" means premium amounts determined by the Secretary to be reasonable in light of the amount of investment subject to the risk and premiums charged in similar or analogous situations by private insurers where private insurance is concerned and by insurers or guarantors, both public and private, where public insurance is concerned;
 
-&emsp;(5) the term “other insurance” means any combination of private or public insurance other than investment insurance provided by the Secretary under this section;
+&emsp;(5) the term "other insurance" means any combination of private or public insurance other than investment insurance provided by the Secretary under this section;
 
-&emsp;(6) the term “reservoir” means the physical subsurface geologic structure which forms the natural repository for the undisturbed geothermal resource; and
+&emsp;(6) the term "reservoir" means the physical subsurface geologic structure which forms the natural repository for the undisturbed geothermal resource; and
 
-&emsp;(7) the term “person” means any public or private agency, institution, association, partnership, corporation, political subdivision, or other legal entity which is a United States citizen as determined by application of the test for United States citizenship contained in section 50501 of title 46, or in the first sentence of section 27A of the Merchant Marine Act, 1920 (46 U.S.C. 883–1(a)–(e)).<sup>1</sup>
+&emsp;(7) the term "person" means any public or private agency, institution, association, partnership, corporation, political subdivision, or other legal entity which is a United States citizen as determined by application of the test for United States citizenship contained in section 50501 of title 46, or in the first sentence of section 27A of the Merchant Marine Act, 1920 (46 U.S.C. 883–1(a)–(e)).<sup>1</sup>
 
 #### (c) Eligibility for investment insurance
 
@@ -32,7 +32,7 @@ Any eligible person seeking investment insurance under this section shall file a
 
 #### (e) Determinations respecting application for insurance
 
-Unless the Secretary determines the risk proposed by the applicant is unreasonable, the Secretary, within ninety days after receipt of a satisfactory application, shall determine in writing and submit to the applicant (1) the risk which may cause loss of investment for the applicant; (2) the total investment subject to the risk; (3)the amount of the other insurance which is available at reasonable premiums for the purpose of indemnifying the applicant against the risk; (4) the amount of investment insurance available pursuant to this section, which shall be the difference between the total investment subject to the risk and the total other insurance determined to be available at reasonable premiums, but not in excess of the lesser of 90 per centum of, or $50,000,000 of, the loss of investment subject to the risk; and (5) any reasonable terms and conditions necessary for the prudent administration of the program, including reasonable premiums for the insurance pursuant to this section (which shall be deposited in the Geothermal Resources Development Fund).
+Unless the Secretary determines the risk proposed by the applicant is unreasonable, the Secretary, within ninety days after receipt of a satisfactory application, shall determine in writing and submit to the applicant (1) the risk which may cause loss of investment for the applicant; (2) the total investment subject to the risk; (3) the amount of the other insurance which is available at reasonable premiums for the purpose of indemnifying the applicant against the risk; (4) the amount of investment insurance available pursuant to this section, which shall be the difference between the total investment subject to the risk and the total other insurance determined to be available at reasonable premiums, but not in excess of the lesser of 90 per centum of, or $50,000,000 of, the loss of investment subject to the risk; and (5) any reasonable terms and conditions necessary for the prudent administration of the program, including reasonable premiums for the insurance pursuant to this section (which shall be deposited in the Geothermal Resources Development Fund).
 
 #### (f) Certificate of insurance; issuance, etc.
 
@@ -68,7 +68,7 @@ This Act, referred to in subsec. (i), is Pub. L. 96–294, June 30, 1980, 94 Sta
 
 #### Codification
 
-In subsec. (b)(7), “section 50501 of title 46” substituted for “section 2(a)–(c) of the Shipping Act, 1916 (46 U.S.C. 802)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 50501 of Title 46, Shipping.
+In subsec. (b)(7), "section 50501 of title 46" substituted for "section 2(a)–(c) of the Shipping Act, 1916 (46 U.S.C. 802)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 50501 of Title 46, Shipping.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

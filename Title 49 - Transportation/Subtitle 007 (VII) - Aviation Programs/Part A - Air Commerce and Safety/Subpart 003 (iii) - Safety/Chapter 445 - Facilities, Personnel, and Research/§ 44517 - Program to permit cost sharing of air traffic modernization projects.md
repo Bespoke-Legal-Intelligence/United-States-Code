@@ -22,7 +22,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Eligible project.—The term “eligible project” means a project to purchase equipment or software relating to the Nation's air traffic control system that is certified or approved by the Administrator of the Federal Aviation Administration and that promotes safety, efficiency, or mobility. Such projects may include—
+Eligible project.—The term "eligible project" means a project to purchase equipment or software relating to the Nation's air traffic control system that is certified or approved by the Administrator of the Federal Aviation Administration and that promotes safety, efficiency, or mobility. Such projects may include—
 
 &emsp;&emsp;(A) airport-specific air traffic facilities and equipment, including local area augmentation systems, instrument landing systems, weather and wind shear detection equipment, and lighting improvements;
 
@@ -32,7 +32,7 @@ Eligible project.—The term “eligible project” means a project to purchase 
 
 &emsp;(2)
 
-Project sponsor.—The term “project sponsor” means any major user of the national airspace system, as determined by the Secretary, including a public-use airport or a joint venture between a public-use airport and one or more air carriers.
+Project sponsor.—The term "project sponsor" means any major user of the national airspace system, as determined by the Secretary, including a public-use airport or a joint venture between a public-use airport and one or more air carriers.
 
 (f)
 

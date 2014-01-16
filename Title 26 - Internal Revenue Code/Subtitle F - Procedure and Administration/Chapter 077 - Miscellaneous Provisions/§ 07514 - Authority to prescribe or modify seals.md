@@ -6,7 +6,7 @@ The Secretary is authorized to prescribe or modify seals of office for the distr
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 substituted “functions of the Secretary of the Treasury” for “functions of the Secretary” after “whom any of the” and struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 substituted "functions of the Secretary of the Treasury" for "functions of the Secretary" after "whom any of the" and struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date
 

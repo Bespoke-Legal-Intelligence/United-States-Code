@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services (referred to in this section as the “Secretary”), acting through the Director of the Centers for Disease Control and Prevention (referred to in this section as the “Director”), shall award competitive grants to State and local governmental agencies and community-based organizations for the implementation, evaluation, and dissemination of evidence-based community preventive health activities in order to reduce chronic disease rates, prevent the development of secondary conditions, address health disparities, and develop a stronger evidence-base of effective prevention programming, with not less than 20 percent of such grants being awarded to rural and frontier areas.
+The Secretary of Health and Human Services (referred to in this section as the "Secretary"), acting through the Director of the Centers for Disease Control and Prevention (referred to in this section as the "Director"), shall award competitive grants to State and local governmental agencies and community-based organizations for the implementation, evaluation, and dissemination of evidence-based community preventive health activities in order to reduce chronic disease rates, prevent the development of secondary conditions, address health disparities, and develop a stronger evidence-base of effective prevention programming, with not less than 20 percent of such grants being awarded to rural and frontier areas.
 
 #### (b) Eligibility
 
@@ -134,15 +134,15 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §10403(1), inserted “, with not less than 20 percent of such grants being awarded to rural and frontier areas” before period at end.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §10403(1), inserted ", with not less than 20 percent of such grants being awarded to rural and frontier areas" before period at end.
 
-Subsec. (c)(2)(B)(vii). Pub. L. 111–148, §10403(2), substituted “urban, rural, and frontier areas” for “both urban and rural areas”.
+Subsec. (c)(2)(B)(vii). Pub. L. 111–148, §10403(2), substituted "urban, rural, and frontier areas" for "both urban and rural areas".
 
-Subsec. (f). Pub. L. 111–148, §10403(3), substituted “each of fiscal year” for “each fiscal years”.
+Subsec. (f). Pub. L. 111–148, §10403(3), substituted "each of fiscal year" for "each fiscal years".
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “years”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "years".</i>
 

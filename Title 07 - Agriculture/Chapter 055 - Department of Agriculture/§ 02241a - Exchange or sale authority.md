@@ -2,7 +2,7 @@
 
 #### (a) Definition of qualified item of personal property
 
-In this section, the term “qualified item of personal property” means—
+In this section, the term "qualified item of personal property" means—
 
 &emsp;(1) an animal;
 
@@ -30,7 +30,7 @@ Subsection (b) does not apply to the free dissemination of new varieties of seed
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
-Pub. L. 110–234, §7408, and Pub. L. 110–246, §7408, which directed the addition of this section at the end of “Title III of the Department of Agriculture Reorganization Act of 1994 (Public Law 103–354; 108 Stat. 3238)”, was executed by adding this section at the end of title III of the “Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994”, Pub. L. 103–354, to reflect the probable intent of Congress.The Department of Agriculture Reorganization Act of 1994 is title II of Pub. L. 103–354.
+Pub. L. 110–234, §7408, and Pub. L. 110–246, §7408, which directed the addition of this section at the end of "Title III of the Department of Agriculture Reorganization Act of 1994 (Public Law 103–354; 108 Stat. 3238)", was executed by adding this section at the end of title III of the "Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994", Pub. L. 103–354, to reflect the probable intent of Congress. The Department of Agriculture Reorganization Act of 1994 is title II of Pub. L. 103–354.
 
 #### Effective Date
 

@@ -22,9 +22,9 @@ In implementing, reviewing, and prioritizing elements of the plan described in s
 
 #### Prior Provisions
 
-A prior section 300cc–40a, act July 1, 1944, ch. 373, title XXIII, §2352, as added Pub. L. 103–43, title XVIII, §1801(a)(3), June 10, 1993, 107 Stat. 193, which requiredthe establishment of an advisory council and coordinating committees, was transferred to section 300cc–40b of this title.
+A prior section 300cc–40a, act July 1, 1944, ch. 373, title XXIII, §2352, as added Pub. L. 103–43, title XVIII, §1801(a)(3), June 10, 1993, 107 Stat. 193, which required the establishment of an advisory council and coordinating committees, was transferred to section 300cc–40b of this title.
 
 #### Sense of Congress
 
-Pub. L. 110–293, title II, §203(a), July 30, 2008, 122 Stat. 2940, provided that: “Congress recognizes the need and urgency to expand the range of interventions for preventing the transmission of human immunodeficiency virus (HIV), including nonvaccine prevention methods that can be controlled by women.”
+Pub. L. 110–293, title II, §203(a), July 30, 2008, 122 Stat. 2940, provided that: "Congress recognizes the need and urgency to expand the range of interventions for preventing the transmission of human immunodeficiency virus (HIV), including nonvaccine prevention methods that can be controlled by women."
 

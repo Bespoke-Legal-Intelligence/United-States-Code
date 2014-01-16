@@ -108,9 +108,9 @@ Par. (13). Pub. L. 93–618 added par. (13) relating to Special Representative f
 
 #### Effective Date of 2004 Amendment
 
-For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of Title 50, War and National Defense.
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 2002 Amendment
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 89–670 effective 90 days after Secretary of Transportatio
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–82, title II, §201, Aug. 9, 1975, 89 Stat. 419, provided that: “This title \[enacting section 5318 of this title and section 461 of Title 28, Judiciary and Judicial Procedure, amending sections 5305, 5312, 5313, 5314, 5315 and 5316 of this title, sections 31, 60a note, 136a, 136a–1 and 356 of Title 2, The Congress, section 104 of Title 3, The President, section 68 of Title 11, Bankruptcy, sections 5, 44, 135, 173, 213, 252 and 792 of Title 28, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and section 303 of Title 44, Public Printing and Documents, and enacting provisions set out as a note under section 356 of Title 2\] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
+Pub. L. 94–82, title II, §201, Aug. 9, 1975, 89 Stat. 419, provided that: “This title \[see Tables for classification\] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
 
 #### Compensation and Emoluments of Secretary of the Interior; Fixing at Level in Effect on January 1, 2005
 
@@ -164,7 +164,7 @@ Jurisdiction.—Any person aggrieved by an action of the Secretary of the Interi
 
 &emsp;“(2)
 
-Three judge panel.—Any claim challenging the constitutionality of the appointment and continuance in office of the Secretary of the Interior on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution, in an action brought under paragraph (1) shall be heard and determined by a panel of three judges in accordance with section 2284 of title 28, United States Code. It shall be the duty ofthe district court to advance on the docket and to expedite the disposition of any matter brought under this subsection.
+Three judge panel.—Any claim challenging the constitutionality of the appointment and continuance in office of the Secretary of the Interior on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution, in an action brought under paragraph (1) shall be heard and determined by a panel of three judges in accordance with section 2284 of title 28, United States Code. It shall be the duty of the district court to advance on the docket and to expedite the disposition of any matter brought under this subsection.
 
 &emsp;“(3)
 
@@ -172,7 +172,7 @@ Appeal.—
 
 &emsp;&emsp;“(A)
 
-Direct appeal to supreme court.—An appeal may be taken directly to the Supreme Court of the United States from any interlocutory or final judgment, decree, or order upon the validity of the appointment and continuance in office of the Secretary of the Interior under article I, section 6, clause 2, of the Constitution, entered in any action brought under this subsection. Any such appeal shall be taken by a notice of appeal filed within 20 days after such judgment, decree, or order is entered.
+Direct appeal to supreme court.—An appeal may be taken directly to the Supreme Court of the United States from any interlocutory or final judgment, decree, or order upon the validity of the appointment and continuance in office of the Secretary of the Interior under article I, section 6, clause 2, of the Constitution, entered in any actionbrought under this subsection. Any such appeal shall be taken by a notice of appeal filed within 20 days after such judgment, decree, or order is entered.
 
 &emsp;&emsp;“(B)
 

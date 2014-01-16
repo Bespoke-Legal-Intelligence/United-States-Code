@@ -24,13 +24,13 @@ Congress finds as follows:
 
 &emsp;(10) More than 1,100 local rape crisis centers in the 50 States and the District of Columbia partner with RAINN and are members of the National Sexual Assault Hotline network (which has helped more than 970,000 people since its inception in 1994).
 
-&emsp;(11) To better serve victims of sexual assault, 80 percent of whom are under age 30 and44 percent of whom are under age 18, RAINN will soon launch the National Sexual Assault Online Hotline, the web's first secure hotline service offering live help 24 hours a day.
+&emsp;(11) To better serve victims of sexual assault, 80 percent of whom are under age 30 and 44 percent of whom are under age 18, RAINN will soon launch the National Sexual Assault Online Hotline, the web's first secure hotline service offering live help 24 hours a day.
 
 &emsp;(12) Congress and the Department of Justice have given RAINN funding to conduct its crucial work.
 
 &emsp;(13) RAINN is a national model of public/private partnership, raising private sector funds to match congressional appropriations and receiving extensive private in-kind support, including advanced technology provided by the communications and technology industries to launch the National Sexual Assault Hotline and the National Sexual Assault Online Hotline.
 
-&emsp;(14) Worth magazine selected RAINN as one of “America's 100 Best Charities”, in recognition of the organization's “efficiency and effectiveness.”.<sup>1</sup>
+&emsp;(14) Worth magazine selected RAINN as one of "America's 100 Best Charities", in recognition of the organization's "efficiency and effectiveness.".<sup>1</sup>
 
 &emsp;(15) In fiscal year 2005, RAINN spent more than 91 cents of every dollar received directly on program services.
 
@@ -74,11 +74,11 @@ For the purposes of this section:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Office of Juvenile Justice and Delinquency Prevention.
+&emsp;The term "Administrator" means the Administrator of the Office of Juvenile Justice and Delinquency Prevention.
 
 #### (2) RAINN
 
-&emsp;The term “RAINN” means the Rape, Abuse \& Incest National Network, a 501(c)(3) nonprofit corporation headquartered in the District of Columbia.
+&emsp;The term "RAINN" means the Rape, Abuse \& Incest National Network, a 501(c)(3) nonprofit corporation headquartered in the District of Columbia.
 
 #### (d) Authorization of appropriations
 

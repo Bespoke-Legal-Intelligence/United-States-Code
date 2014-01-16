@@ -40,7 +40,7 @@ The Secretaries shall submit the study and their recommendations to the Congress
 
 #### (f) Continuation of level of funding for NARL
 
-Pending submission of the study to the Congress, the President is directed to continue theoperation of NARL at the level of funding provided for in fiscal year 1979.
+Pending submission of the study to the Congress, the President is directed to continue the operation of NARL at the level of funding provided for in fiscal year 1979.
 
 (Pub. L. 96–487, title X, §1007, Dec. 2, 1980, 94 Stat. 2453.)
 

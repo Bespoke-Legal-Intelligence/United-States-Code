@@ -8,7 +8,7 @@
 
 #### (2) Definition
 
-&emsp;The term “alternative dental health care providers” includes community dental health coordinators, advance practice dental hygienists, independent dental hygienists, supervised dental hygienists, primary care physicians, dental therapists, dental health aides, and any other health professional that the Secretary determines appropriate.
+&emsp;The term "alternative dental health care providers" includes community dental health coordinators, advance practice dental hygienists, independent dental hygienists, supervised dental hygienists, primary care physicians, dental therapists, dental health aides, and any other health professional that the Secretary determines appropriate.
 
 #### (b) Timeframe
 
@@ -50,7 +50,7 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 #### (B) Subsequent disbursements
 
-&emsp;&emsp;The remaining amount of grant funds not dispersed under subparagraph (A) shall be dispersed such that not less than 15 percentof such remaining amount is dispersed each subsequent year.
+&emsp;&emsp;The remaining amount of grant funds not dispersed under subparagraph (A) shall be dispersed such that not less than 15 percent of such remaining amount is dispersed each subsequent year.
 
 #### (e) Compliance with State requirements
 
@@ -70,5 +70,5 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
 (July 1, 1944, ch. 373, title III, §340G–1, as added Pub. L. 111–148, title V, §5304, Mar. 23, 2010, 124 Stat. 621.)
 
-<i><sup>1</sup></i><i> So in original. The word “is” probably should appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "is" probably should appear.</i>
 

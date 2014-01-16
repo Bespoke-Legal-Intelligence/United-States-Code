@@ -4,7 +4,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(1)
 
-Arbitration.—The term “arbitration”—
+Arbitration.—The term "arbitration"—
 
 &emsp;&emsp;(A) means the arbitration of disputes, regarding the terms and conditions of employment, that is required under an interstate compact governing an interstate compact agency operating in the national capital area; but
 
@@ -12,11 +12,11 @@ Arbitration.—The term “arbitration”—
 
 &emsp;(2)
 
-Arbitrator.—The term “arbitrator” refers to either a single arbitrator, or a board of arbitrators, chosen under applicable procedures.
+Arbitrator.—The term "arbitrator" refers to either a single arbitrator, or a board of arbitrators, chosen under applicable procedures.
 
 &emsp;(3)
 
-Interstate compact agency operating in the national capital area.—The term “interstate compact agency operating in the national capital area” means any interstate compact agency that provides public transit services and that was established by an interstate compact to which the District of Columbia is a signatory.
+Interstate compact agency operating in the national capital area.—The term "interstate compact agency operating in the national capital area" means any interstate compact agency that provides public transit services and that was established by an interstate compact to which the District of Columbia is a signatory.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1292.)
 

@@ -44,9 +44,9 @@ Use of Information in Civil or Criminal Proceedings.—For purposes of any civil
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “accident investigation” means any form of investigation by Coast Guard personnel of an aircraft accident referred to in subsection (a), other than a safety investigation; and
+&emsp;(1) the term "accident investigation" means any form of investigation by Coast Guard personnel of an aircraft accident referred to in subsection (a), other than a safety investigation; and
 
-&emsp;(2) the term “safety investigation” means an investigation by Coast Guard personnel of an aircraft accident referred to in subsection (a) that is conducted solely to determine the cause of the accident and to obtain information that may prevent the occurrence of similar accidents.
+&emsp;(2) the term "safety investigation" means an investigation by Coast Guard personnel of an aircraft accident referred to in subsection (a) that is conducted solely to determine the cause of the accident and to obtain information that may prevent the occurrence of similar accidents.
 
 (Added Pub. L. 112–213, title II, §214(a), Dec. 20, 2012, 126 Stat. 1553.)
 

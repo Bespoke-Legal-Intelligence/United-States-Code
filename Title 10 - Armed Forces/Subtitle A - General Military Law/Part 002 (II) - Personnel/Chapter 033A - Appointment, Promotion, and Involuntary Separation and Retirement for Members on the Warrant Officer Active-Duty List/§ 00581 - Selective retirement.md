@@ -12,15 +12,15 @@
 
 (e) The Secretary concerned may defer for not more than 90 days the retirement of an officer otherwise approved for early retirement under this section in order to prevent a personal hardship to the officer or for other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
 
-(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L. 102–484, div. A, title X, §1052(5), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(6), Oct. 5, 1994, 108 Stat. 2765; Pub. L.104–106, div. A, title V, §504(a), Feb. 10, 1996, 110 Stat. 295.)
+(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L. 102–484, div. A, title X, §1052(5), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(6), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 104–106, div. A, title V, §504(a), Feb. 10, 1996, 110 Stat. 295.)
 
 #### Amendments
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–106 added subsec. (e).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337 struck out “in the Army, Navy, Air Force, or Marine Corps” after “A regular warrant officer”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 struck out "in the Army, Navy, Air Force, or Marine Corps" after "A regular warrant officer".
 
-<b>1992</b>—Subsec. (d)(2). Pub. L. 102–484 substituted “board” for “Board” in two places in first sentence.
+<b>1992</b>—Subsec. (d)(2). Pub. L. 102–484 substituted "board" for "Board" in two places in first sentence.
 
 #### Effective Date of 1994 Amendment
 

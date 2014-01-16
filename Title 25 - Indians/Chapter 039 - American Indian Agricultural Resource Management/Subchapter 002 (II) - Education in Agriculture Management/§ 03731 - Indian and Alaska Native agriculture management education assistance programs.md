@@ -6,15 +6,15 @@
 
 (2) For purposes of this subsection—
 
-&emsp;(A) the term “agricultural resources intern” means an Indian who—
+&emsp;(A) the term "agricultural resources intern" means an Indian who—
 
 &emsp;&emsp;(i) is attending an approved postsecondary school in a full-time agriculture or related field, and
 
 &emsp;&emsp;(ii) is appointed to one of the agricultural resources intern positions established under paragraph (1);
 
-&emsp;(B) the term “agricultural resources intern positions” means positions established pursuant to paragraph (1) for agricultural resources interns; and
+&emsp;(B) the term "agricultural resources intern positions" means positions established pursuant to paragraph (1) for agricultural resources interns; and
 
-&emsp;(C) the term “agriculture study program” includes (but is not limited to) agricultural engineering, agricultural economics, animal husbandry, animal science, biological sciences, geographic information systems, horticulture, range management, soil science, and veterinary science.
+&emsp;(C) the term "agriculture study program" includes (but is not limited to) agricultural engineering, agricultural economics, animal husbandry, animal science, biological sciences, geographic information systems, horticulture, range management, soil science, and veterinary science.
 
 (3) The Secretary shall pay, by reimbursement or otherwise, all costs for tuition, books, fees, and living expenses incurred by an agricultural resources intern while attending an approved postsecondary or graduate school in a full-time agricultural study program.
 
@@ -34,7 +34,7 @@
 
 &emsp;(B) The Secretary shall develop and maintain a cooperative program with the tribally controlled community colleges to coordinate course requirements, texts, and provide direct technical assistance so that a significant portion of the college credits in both the Haskell and Southwestern Indian Polytechnic Institute programs can be met through local program work at participating tribally controlled community colleges.
 
-&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shallimplement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sources of commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
+&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sources of commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
 
 &emsp;(D) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement research activities to improve the basis for determining appropriate management measures to apply to Indian agricultural management.
 
@@ -78,265 +78,265 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 Pub. L. 105–337, Oct. 31, 1998, 112 Stat. 3171, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘Haskell Indian Nations University and Southwestern Indian Polytechnic Institute Administrative Systems Act of 1998’.
+"This Act may be cited as the 'Haskell Indian Nations University and Southwestern Indian Polytechnic Institute Administrative Systems Act of 1998'.
 
-#### “SEC. 2. FINDINGS.
+#### "SEC. 2. FINDINGS.
 
-“The Congress finds that—
+"The Congress finds that—
 
-&emsp;“(1) the provision of culturally sensitive curricula for higher education programs at Haskell Indian Nations University and the Southwestern Indian Polytechnic Institute is consistent with the commitment of the Federal Government to the fulfillment of treaty obligations to Indian tribes through the principle of self-determination and the use of Federal resources; and
+&emsp;"(1) the provision of culturally sensitive curricula for higher education programs at Haskell Indian Nations University and the Southwestern Indian Polytechnic Institute is consistent with the commitment of the Federal Government to the fulfillment of treaty obligations to Indian tribes through the principle of self-determination and the use of Federal resources; and
 
-&emsp;“(2) giving a greater degree of autonomy to those institutions, while maintaining them as an integral part of the Bureau of Indian Affairs, will facilitate—
+&emsp;"(2) giving a greater degree of autonomy to those institutions, while maintaining them as an integral part of the Bureau of Indian Affairs, will facilitate—
 
-&emsp;&emsp;“(A) the transition of Haskell Indian Nations University to a 4-year university; and
+&emsp;&emsp;"(A) the transition of Haskell Indian Nations University to a 4-year university; and
 
-&emsp;&emsp;“(B) the administration and improvement of the academic program of the Southwestern Indian Polytechnic Institute.
+&emsp;&emsp;"(B) the administration and improvement of the academic program of the Southwestern Indian Polytechnic Institute.
 
-#### “SEC. 3. DEFINITIONS; APPLICABILITY.
+#### "SEC. 3. DEFINITIONS; APPLICABILITY.
 
-“(a)
+"(a)
 
 Definitions.—For purposes of this Act:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+Secretary.—The term 'Secretary' means the Secretary of the Interior.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Employee.—The term ‘employee’, with respect to an institution named in subsection (b), means an individual employed in or under such institution.
+Employee.—The term 'employee', with respect to an institution named in subsection (b), means an individual employed in or under such institution.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Eligible.—The term ‘eligible’ means an individual who has qualified for appointment in the institution involved and whose name has been entered on the appropriate register or list of eligibles.
+Eligible.—The term 'eligible' means an individual who has qualified for appointment in the institution involved and whose name has been entered on the appropriate register or list of eligibles.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Demonstration project.—The term ‘demonstration project’ means a project conducted by or under the supervision of an institution named in subsection (b) to determine whether specified changes in personnel management policies or procedures would result in improved personnel management.
+Demonstration project.—The term 'demonstration project' means a project conducted by or under the supervision of an institution named in subsection (b) to determine whether specified changes in personnel management policies or procedures would result in improved personnel management.
 
-“(b)
+"(b)
 
 Applicability.—This Act applies to—
 
-&emsp;“(1) Haskell Indian Nations University, located in Lawrence, Kansas; and
+&emsp;"(1) Haskell Indian Nations University, located in Lawrence, Kansas; and
 
-&emsp;“(2) Southwestern Indian Polytechnic Institute, located in Albuquerque, New Mexico.
+&emsp;"(2) Southwestern Indian Polytechnic Institute, located in Albuquerque, New Mexico.
 
-#### “SEC. 4. AUTHORITY.
+#### "SEC. 4. AUTHORITY.
 
-“(a)
+"(a)
 
 In General.—Each institution named in section 3(b) may conduct a demonstration project in accordance with the provisions of this Act. The conducting of any such demonstration project shall not be limited by any lack of specific authority under title 5, United States Code, to take the action contemplated, or by any provision of such title or any rule or regulation prescribed under such title which is inconsistent with the action, including any provision of law, rule, or regulation relating to—
 
-&emsp;“(1) the methods of establishing qualification requirements for, recruitment for, and appointment to positions;
+&emsp;"(1) the methods of establishing qualification requirements for, recruitment for, and appointment to positions;
 
-&emsp;“(2) the methods of classifying positions and compensating employees;
+&emsp;"(2) the methods of classifying positions and compensating employees;
 
-&emsp;“(3) the methods of assigning, reassigning, or promoting employees;
+&emsp;"(3) the methods of assigning, reassigning, or promoting employees;
 
-&emsp;“(4) the methods of disciplining employees;
+&emsp;"(4) the methods of disciplining employees;
 
-&emsp;“(5) the methods of providing incentives to employees, including the provision of group or individual incentive bonuses or pay;
+&emsp;"(5) the methods of providing incentives to employees, including the provision of group or individual incentive bonuses or pay;
 
-&emsp;“(6) the hours of work per day or per week;
+&emsp;"(6) the hours of work per day or per week;
 
-&emsp;“(7) the methods of involving employees, labor organizations, and employee organizations in personnel decisions; and
+&emsp;"(7) the methods of involving employees, labor organizations, and employee organizations in personnel decisions; and
 
-&emsp;“(8) the methods of reducing overall staff and grade levels.
+&emsp;"(8) the methods of reducing overall staff and grade levels.
 
-“(b)
+"(b)
 
 Consultation and Other Requirements.—Before commencing a demonstration project under this Act, the president of the institution involved shall—
 
-&emsp;“(1) in consultation with the board of regents of the institution and such other persons or representative bodies as the president considers appropriate, develop a plan for such project which identifies—
+&emsp;"(1) in consultation with the board of regents of the institution and such other persons or representative bodies as the president considers appropriate, develop a plan for such project which identifies—
 
-&emsp;&emsp;“(A) the purposes of the project;
+&emsp;&emsp;"(A) the purposes of the project;
 
-&emsp;&emsp;“(B) the types of employees or eligibles to be included (categorized by occupational series, grade, or organizational unit);
+&emsp;&emsp;"(B) the types of employees or eligibles to be included (categorized by occupational series, grade, or organizational unit);
 
-&emsp;&emsp;“(C) the number of employees or eligibles to be included (in the aggregate and by category);
+&emsp;&emsp;"(C) the number of employees or eligibles to be included (in the aggregate and by category);
 
-&emsp;&emsp;“(D) the methodology;
+&emsp;&emsp;"(D) the methodology;
 
-&emsp;&emsp;“(E) the duration;
+&emsp;&emsp;"(E) the duration;
 
-&emsp;&emsp;“(F) the training to be provided;
+&emsp;&emsp;"(F) the training to be provided;
 
-&emsp;&emsp;“(G) the anticipated costs;
+&emsp;&emsp;"(G) the anticipated costs;
 
-&emsp;&emsp;“(H) the methodology and criteria for evaluation, consistent with subsection (f );
+&emsp;&emsp;"(H) the methodology and criteria for evaluation, consistent with subsection (f );
 
-&emsp;&emsp;“(I) a specific description of any aspect of the project for which there is a lack of specific authority; and
+&emsp;&emsp;"(I) a specific description of any aspect of the project for which there is a lack of specific authority; and
 
-&emsp;&emsp;“(J) a specific citation to any provision of law, rule, or regulation which, if not waived, would prohibit the conducting of the project, or any part of the project as proposed;
+&emsp;&emsp;"(J) a specific citation to any provision of law, rule, or regulation which, if not waived, would prohibit the conducting of the project, or any part of the project as proposed;
 
-&emsp;“(2) publish the plan in the Federal Register;
+&emsp;"(2) publish the plan in the Federal Register;
 
-&emsp;“(3) submit the plan so published to public hearing;
+&emsp;"(3) submit the plan so published to public hearing;
 
-&emsp;“(4) at least 180 days before the date on which the proposed project is to commence, provide notification of such project to—
+&emsp;"(4) at least 180 days before the date on which the proposed project is to commence, provide notification of such project to—
 
-&emsp;&emsp;“(A) employees likely to be affected by the project; and
+&emsp;&emsp;"(A) employees likely to be affected by the project; and
 
-&emsp;&emsp;“(B) each House of Congress;
+&emsp;&emsp;"(B) each House of Congress;
 
-&emsp;“(5) at least 90 days before the date on which the proposed project is to commence, provide each House of Congress with a report setting forth the final version of the plan; and
+&emsp;"(5) at least 90 days before the date on which the proposed project is to commence, provide each House of Congress with a report setting forth the final version of the plan; and
 
-&emsp;“(6) at least 60 days before the date on which the proposed project is to commence, inform all employees as to the final version of the plan, including all information relevant to the making of an election under subsection (h)(2)(A).
+&emsp;"(6) at least 60 days before the date on which the proposed project is to commence, inform all employees as to the final version of the plan, including all information relevant to the making of an election under subsection (h)(2)(A).
 
-“(c)
+"(c)
 
 Limitations.—No demonstration project under this Act may—
 
-&emsp;“(1) provide for a waiver of—
+&emsp;"(1) provide for a waiver of—
 
-&emsp;&emsp;“(A) any provision of law, rule, or regulation providing for—
+&emsp;&emsp;"(A) any provision of law, rule, or regulation providing for—
 
-&emsp;&emsp;&emsp;“(i) equal employment opportunity;
+&emsp;&emsp;&emsp;"(i) equal employment opportunity;
 
-&emsp;&emsp;&emsp;“(ii) Indian preference; or
+&emsp;&emsp;&emsp;"(ii) Indian preference; or
 
-&emsp;&emsp;&emsp;“(iii) veterans’ preference;
+&emsp;&emsp;&emsp;"(iii) veterans' preference;
 
-&emsp;&emsp;“(B) any provision of chapter 23 of title 5, United States Code, or any other provision of such title relating to merit system principles or prohibited personnel practices, or any rule or regulation prescribed under authority of any such provision; or
+&emsp;&emsp;"(B) any provision of chapter 23 of title 5, United States Code, or any other provision of such title relating to merit system principles or prohibited personnel practices, or any rule or regulation prescribed under authority of any such provision; or
 
-&emsp;&emsp;“(C) any provision of subchapter II or III of chapter 73 of title 5, United States Code, or any rule or regulation prescribed under authority of any such provision;
+&emsp;&emsp;"(C) any provision of subchapter II or III of chapter 73 of title 5, United States Code, or any rule or regulation prescribed under authority of any such provision;
 
-&emsp;“(2) impose any duty to engage in collective bargaining with respect to—
+&emsp;"(2) impose any duty to engage in collective bargaining with respect to—
 
-&emsp;&emsp;“(A) classification of positions; or
+&emsp;&emsp;"(A) classification of positions; or
 
-&emsp;&emsp;“(B) pay, benefits, or any other form of compensation; or
+&emsp;&emsp;"(B) pay, benefits, or any other form of compensation; or
 
-&emsp;“(3) provide that any employee be required to pay dues or fees of any kind to a labor organization as a condition of employment.
+&emsp;"(3) provide that any employee be required to pay dues or fees of any kind to a labor organization as a condition of employment.
 
-“(d)
+"(d)
 
 Commencement and Termination Dates.—Each demonstration project under this Act—
 
-&emsp;“(1) shall commence within 2 years after the date of enactment of this Act \[Oct. 31, 1998\]; and
+&emsp;"(1) shall commence within 2 years after the date of enactment of this Act \[Oct. 31, 1998\]; and
 
-&emsp;“(2) shall terminate by the end of the 5-year period beginning on the date on which such project commences, except that the project may continue beyond the end of such 5-year period—
+&emsp;"(2) shall terminate by the end of the 5-year period beginning on the date on which such project commences, except that the project may continue beyond the end of such 5-year period—
 
-&emsp;&emsp;“(A) to the extent necessary to validate the results of the project; and
+&emsp;&emsp;"(A) to the extent necessary to validate the results of the project; and
 
-&emsp;&emsp;“(B) to the extent provided for under subsection (h)(2)(B).
+&emsp;&emsp;"(B) to the extent provided for under subsection (h)(2)(B).
 
-“(e)
+"(e)
 
 Discretionary Authority To Terminate.—A demonstration project under this Act may be terminated by the Secretary or the president of the institution involved if either determines that the project creates a substantial hardship on, or is not in the best interests of, the institution and its educational goals.
 
-“(f)
+"(f)
 
 Evaluation.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary shall provide for an evaluation of the results of each demonstration project under this Act and its impact on improving public management.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Information.—Upon request of the Secretary, an institution named in section 3(b) shall cooperate with and assist the Secretary, to the extent practicable, in any evaluation undertaken under this subsection and provide the Secretary with requested information and reports relating to the conducting of its demonstration project.
 
-“(g)
+"(g)
 
 Role of the Office of Personnel Management.—Upon request of the Secretary or the president of an institution named in section 3(b), the Office of Personnel Management shall furnish information or technical advice on the design, operation, or evaluation, or any other aspect of a demonstration project under this Act.
 
-“(h)
+"(h)
 
 Applicability.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Except as otherwise provided in this subsection, all applicants for employment with, all eligibles and employees of, and all positions in or under an institution named in section 3(b) shall be subject to inclusion in a demonstration project under this Act.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Provisions relating to certain benefits.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Option for certain individuals to remain under current law governing certain benefits.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 Eligible individuals.—This subparagraph applies in the case of any individual who, as of the day before the date on which a demonstration project under this Act is to commence at an institution—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is an employee of such institution; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) is an employee of such institution; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) if benefits under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, are to be affected, has completed at least 1 year of Government service (whether with such institution or otherwise), but taking into account only civilian service creditable under subchapter III of chapter 83 or chapter 84 of such title.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) if benefits under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, are to be affected, has completed at least 1 year of Government service (whether with such institution or otherwise), but taking into account only civilian service creditable under subchapter III of chapter 83 or chapter 84 of such title.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Option.—If a demonstration project is to include changes to any benefits under subpart G of part III of title 5, United States Code, an employee described in clause (i) shall be afforded an election not to become subject to such demonstration project, to the extent those benefits are involved (and to instead remain subject to the provisions of such subpart G as if this Act had not been enacted).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Continuation of certain alternative benefit systems after demonstration project terminates for persons becoming subject thereto under the project.—Notwithstanding any other provision of this Act, the termination of a demonstration project shall not, in the case of any employee who becomes subject to a system of alternative benefits under this Act (in lieu of benefits that would otherwise be determined under subpart G of part III of title 5, United States Code), have the effect of terminating—
 
-&emsp;&emsp;&emsp;“(i) any rights accrued by that individual under the system of alternative benefits involved; or
+&emsp;&emsp;&emsp;"(i) any rights accrued by that individual under the system of alternative benefits involved; or
 
-&emsp;&emsp;&emsp;“(ii) the system under which those alternative benefits are afforded, to the extent continuation of such system beyond the termination date is provided for under the terms of the demonstration project (as in effect on the termination date).
+&emsp;&emsp;&emsp;"(ii) the system under which those alternative benefits are afforded, to the extent continuation of such system beyond the termination date is provided for under the terms of the demonstration project (as in effect on the termination date).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Transition provisions.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Retention of annual and sick leave accrued before becoming subject to demonstration project.—Any individual becoming subject to a demonstration project under this Act shall, in a manner consistent with the requirements of section 6308 of title 5, United States Code, be credited with any annual leave and any sick leave standing to such individual's credit immediately before becoming subject to the project.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Provisions relating to credit for leave upon separating while the demonstration project is still ongoing.—Any demonstration project under this Act shall include provisions consistent with the following:
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 Lump-sum credit for annual leave.—In the case of any individual who, at the time of becoming subject to the demonstration project, has any leave for which a lump-sum payment might be paid under subchapter VI of chapter 55 of title 5, United States Code, such individual shall, if such individual separates from service (in the circumstances described in section 5551 or 5552 of such title 5, as applicable) while the demonstration project is still ongoing, be entitled to a lump-sum payment under such section 5551 or 5552 (as applicable) based on the amount of leave standing to such individual's credit at the time such individual became subject to the demonstration project or the amount of leave standing to such individual's credit at the time of separation, whichever is less.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Retirement credit for sick leave.—In the case of any individual who, at the time of becoming subject to the demonstration project, has any sick leave which would be creditable under section 8339(m) of title 5, United States Code (had such individual then separated from service), any sick leave standing to such individual's credit at the time of separation shall, if separation occurs while the demonstration project is still ongoing, be so creditable, but only to the extent that it does not exceed the amount of creditable sick leave that stood to such individual's credit at the time such individual became subject to the demonstration project.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Transfer of leave remaining upon transfer to another agency.—In the case of any employee who becomes subject to the demonstration project and is subsequently transferred or otherwise appointed (without a break in service of 3 days or longer) to another position in the Federal Government or the government of the District of Columbia under a different leave system (whether while the project is still ongoing or otherwise), any leave remaining to the credit of that individual which was earned or credited under the demonstration project shall be transferred to such individual's credit in the new employing agency on an adjusted basis under regulations prescribed under section 6308 of title 5, United States Code. Any such regulations shall be prescribed taking into account the provisions of subparagraph (B).
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Collective-bargaining agreements.—Any collective-bargaining agreement in effect on the day before a demonstration project under this Act commences shall continue to be recognized by the institution involved until the earlier of—
 
-&emsp;&emsp;&emsp;“(i) the date occurring 3 years after the commencement date of the project;
+&emsp;&emsp;&emsp;"(i) the date occurring 3 years after the commencement date of the project;
 
-&emsp;&emsp;&emsp;“(ii) the date as of which the agreement is scheduled to expire (disregarding any option to renew); or
+&emsp;&emsp;&emsp;"(ii) the date as of which the agreement is scheduled to expire (disregarding any option to renew); or
 
-&emsp;&emsp;&emsp;“(iii) such date as may be determined by mutual agreement of the parties.
+&emsp;&emsp;&emsp;"(iii) such date as may be determined by mutual agreement of the parties.
 
-#### “SEC. 5. DELEGATION OF PROCUREMENT AUTHORITY.
+#### "SEC. 5. DELEGATION OF PROCUREMENT AUTHORITY.
 
-“The Secretary shall, to the maximum extent consistent with applicable law and subject to the availability of appropriations therefor, delegate to the presidents of the respective institutions named in section 3(b) procurement and contracting authority with respect to the conduct of the administrative functions of such institution.
+"The Secretary shall, to the maximum extent consistent with applicable law and subject to the availability of appropriations therefor, delegate to the presidents of the respective institutions named in section 3(b) procurement and contracting authority with respect to the conduct of the administrative functions of such institution.
 
-#### “SEC. 6. AUTHORIZATION OF APPROPRIATIONS.
+#### "SEC. 6. AUTHORIZATION OF APPROPRIATIONS.
 
-“There are authorized to be appropriated, for fiscal year 1999, and each fiscal year thereafter, to each of the respective institutions named in section 3(b)—
+"There are authorized to be appropriated, for fiscal year 1999, and each fiscal year thereafter, to each of the respective institutions named in section 3(b)—
 
-&emsp;“(1) the amount of funds made available by appropriations as operations funding for the administration of such institution for fiscal year 1998; and
+&emsp;"(1) the amount of funds made available by appropriations as operations funding for the administration of such institution for fiscal year 1998; and
 
-&emsp;“(2) such additional sums as may be necessary for the operation of such institution pursuant to this Act.
+&emsp;"(2) such additional sums as may be necessary for the operation of such institution pursuant to this Act.
 
-#### “SEC. 7. REGULATIONS.
+#### "SEC. 7. REGULATIONS.
 
-“The president of each institution named in section 3(b) may, in consultation with the appropriate entities (referred to in section 4(b)(1)), prescribe any regulations necessary to carry out this Act.
+"The president of each institution named in section 3(b) may, in consultation with the appropriate entities (referred to in section 4(b)(1)), prescribe any regulations necessary to carry out this Act.
 
-#### “SEC. 8. LEGISLATION TO MAKE CHANGES PERMANENT.
+#### "SEC. 8. LEGISLATION TO MAKE CHANGES PERMANENT.
 
-“Not later than 6 months before the date on which a demonstration project under this Act is scheduled to expire, the institution conducting such demonstration project shall submit to each House of Congress—
+"Not later than 6 months before the date on which a demonstration project under this Act is scheduled to expire, the institution conducting such demonstration project shall submit to each House of Congress—
 
-&emsp;“(1) recommendations as to whether or not the changes under such project should be continued or made permanent; and
+&emsp;"(1) recommendations as to whether or not the changes under such project should be continued or made permanent; and
 
-&emsp;“(2) proposed legislation for any changes in law necessary to carry out any such recommendations.”
+&emsp;"(2) proposed legislation for any changes in law necessary to carry out any such recommendations."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “postsecondary”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "postsecondary".</i>
 

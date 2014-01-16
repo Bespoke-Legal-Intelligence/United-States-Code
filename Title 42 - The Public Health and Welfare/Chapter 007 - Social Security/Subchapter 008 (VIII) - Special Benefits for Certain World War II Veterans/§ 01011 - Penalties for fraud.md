@@ -32,7 +32,7 @@ Whoever—
 
 #### (2) Related provisions
 
-&emsp;Sections 3612, 3663, and 3664 of title 18 shall apply with respect to the issuance and enforcement of orders of restitution under this subsection. In so applying such sections, the Commissioner of Social Security shall be considered the victim.
+&emsp;Sections 3612, 3663, and 3664 of title 18 shall apply with respect to the issuance and enforcement of orders of restitution under this subsection. In so applying such sections, theCommissioner of Social Security shall be considered the victim.
 
 #### (3) Stated reasons for not ordering restitution
 
@@ -56,7 +56,7 @@ For prior provisions, see note set out under section 1001 of this title.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–203 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “If a person or organization violates subsection (a) of this section in the person's or organization's role as, or in applying to become, a representative payee under section 1007 of this title on behalf of a qualified individual, and the violation includes a willful misuse of funds by the person or entity, the court may also require that full or partial restitution of funds be made to the qualified individual.”
+<b>2004</b>—Subsec. (b). Pub. L. 108–203 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "If a person or organization violates subsection (a) of this section in the person's or organization's role as, or in applying to become, a representative payee under section 1007 of this title on behalf of a qualified individual, and the violation includes a willful misuse of funds by the person or entity, the court may also require that full or partial restitution of funds be made to the qualified individual."
 
 #### Effective Date of 2004 Amendment
 

@@ -30,7 +30,7 @@ In addition to the sanctions referred to in subsection (a), the President shall 
 
 &emsp;&emsp;&emsp;(i) Iran's Revolutionary Guard Corps; or
 
-&emsp;&emsp;&emsp;(ii) financial institutions the property or interests in property of which are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) in connection with—
+&emsp;&emsp;&emsp;(ii) financial institutions the property or interests in property of which are blockedpursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) in connection with—
 
 &emsp;&emsp;&emsp;&emsp;(I) Iran's proliferation of weapons of mass destruction or delivery systems for weapons of mass destruction; or
 

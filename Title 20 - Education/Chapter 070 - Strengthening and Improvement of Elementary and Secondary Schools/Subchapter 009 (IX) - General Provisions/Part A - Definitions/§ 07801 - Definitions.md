@@ -6,7 +6,7 @@ Except as otherwise provided, in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided otherwise by State law or this paragraph, the term “average daily attendance” means—
+&emsp;&emsp;Except as provided otherwise by State law or this paragraph, the term "average daily attendance" means—
 
 &emsp;&emsp;&emsp;(i) the aggregate number of days of attendance of all students during a school year; divided by
 
@@ -30,7 +30,7 @@ Except as otherwise provided, in this chapter:
 
 #### (2) Average per-pupil expenditure
 
-&emsp;The term “average per-pupil expenditure” means, in the case of a State or of the United States—
+&emsp;The term "average per-pupil expenditure" means, in the case of a State or of the United States—
 
 &emsp;&emsp;(A) without regard to the source of funds—
 
@@ -42,19 +42,19 @@ Except as otherwise provided, in this chapter:
 
 #### (3) Beginning teacher
 
-&emsp;The term “beginning teacher” means a teacher in a public school who has been teaching less than a total of three complete school years.
+&emsp;The term "beginning teacher" means a teacher in a public school who has been teaching less than a total of three complete school years.
 
 #### (4) Child
 
-&emsp;The term “child” means any person within the age limits for which the State provides free public education.
+&emsp;The term "child" means any person within the age limits for which the State provides free public education.
 
 #### (5) Child with a disability
 
-&emsp;The term “child with a disability” has the same meaning given that term in section 1401 of this title.
+&emsp;The term "child with a disability" has the same meaning given that term in section 1401 of this title.
 
 #### (6) Community-based organization
 
-&emsp;The term “community-based organization” means a public or private nonprofit organization of demonstrated effectiveness that—
+&emsp;The term "community-based organization" means a public or private nonprofit organization of demonstrated effectiveness that—
 
 &emsp;&emsp;(A) is representative of a community or significant segments of a community; and
 
@@ -62,31 +62,31 @@ Except as otherwise provided, in this chapter:
 
 #### (7) Consolidated local application
 
-&emsp;The term “consolidated local application” means an application submitted by a local educational agency pursuant to section 7845 of this title.
+&emsp;The term "consolidated local application" means an application submitted by a local educational agency pursuant to section 7845 of this title.
 
 #### (8) Consolidated local plan
 
-&emsp;The term “consolidated local plan” means a plan submitted by a local educational agency pursuant to section 7845 of this title.
+&emsp;The term "consolidated local plan" means a plan submitted by a local educational agency pursuant to section 7845 of this title.
 
 #### (9) Consolidated State application
 
-&emsp;The term “consolidated State application” means an application submitted by a State educational agency pursuant to section 7842 of this title.
+&emsp;The term "consolidated State application" means an application submitted by a State educational agency pursuant to section 7842 of this title.
 
 #### (10) Consolidated State plan
 
-&emsp;The term “consolidated State plan” means a plan submitted by a State educational agency pursuant to section 7842 of this title.
+&emsp;The term "consolidated State plan" means a plan submitted by a State educational agency pursuant to section 7842 of this title.
 
 #### (11) Core academic subjects
 
-&emsp;The term “core academic subjects” means English, reading or language arts, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography.
+&emsp;The term "core academic subjects" means English, reading or language arts, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography.
 
 #### (12) County
 
-&emsp;The term “county” means one of the divisions of a State used by the Secretary of Commerce in compiling and reporting data regarding counties.
+&emsp;The term "county" means one of the divisions of a State used by the Secretary of Commerce in compiling and reporting data regarding counties.
 
 #### (13) Covered program
 
-&emsp;The term “covered program” means each of the programs authorized by—
+&emsp;The term "covered program" means each of the programs authorized by—
 
 &emsp;&emsp;(A) part A of subchapter I of this chapter;
 
@@ -114,7 +114,7 @@ Except as otherwise provided, in this chapter:
 
 #### (14) Current expenditures
 
-&emsp;The term “current expenditures” means expenditures for free public education—
+&emsp;The term "current expenditures" means expenditures for free public education—
 
 &emsp;&emsp;(A) including expenditures for administration, instruction, attendance and health services, pupil transportation services, operation and maintenance of plant, fixed charges, and net expenditures to cover deficits for food services and student body activities; but
 
@@ -122,23 +122,23 @@ Except as otherwise provided, in this chapter:
 
 #### (15) Department
 
-&emsp;The term “Department” means the Department of Education.
+&emsp;The term "Department" means the Department of Education.
 
 #### (16) Distance learning
 
-&emsp;The term “distance learning” means the transmission of educational or instructional programming to geographically dispersed individuals and groups via telecommunications.
+&emsp;The term "distance learning" means the transmission of educational or instructional programming to geographically dispersed individuals and groups via telecommunications.
 
 #### (17) Educational service agency
 
-&emsp;The term “educational service agency” means a regional public multiservice agency authorized by State statute to develop, manage, and provide services or programs to local educational agencies.
+&emsp;The term "educational service agency" means a regional public multiservice agency authorized by State statute to develop, manage, and provide services or programs to local educational agencies.
 
 #### (18) Elementary school
 
-&emsp;The term “elementary school” means a nonprofit institutional day or residential school, including a public elementary charter school, that provides elementary education, as determined under State law.
+&emsp;The term "elementary school" means a nonprofit institutional day or residential school, including a public elementary charter school, that provides elementary education, as determined under State law.
 
 #### (19) Exemplary teacher
 
-&emsp;The term “exemplary teacher” means a teacher who—
+&emsp;The term "exemplary teacher" means a teacher who—
 
 &emsp;&emsp;(A) is a highly qualified teacher such as a master teacher;
 
@@ -152,7 +152,7 @@ Except as otherwise provided, in this chapter:
 
 #### (20) Family literacy services
 
-&emsp;The term “family literacy services” means services provided to participants on a voluntary basis that are of sufficient intensity in terms of hours, and of sufficient duration, to make sustainable changes in a family, and that integrate all of the following activities:
+&emsp;The term "family literacy services" means services provided to participants on a voluntary basis that are of sufficient intensity in terms of hours, and of sufficient duration, to make sustainable changes in a family, and that integrate all of the following activities:
 
 &emsp;&emsp;(A) Interactive literacy activities between parents and their children.
 
@@ -164,7 +164,7 @@ Except as otherwise provided, in this chapter:
 
 #### (21) Free public education
 
-&emsp;The term “free public education” means education that is provided—
+&emsp;The term "free public education" means education that is provided—
 
 &emsp;&emsp;(A) at public expense, under public supervision and direction, and without tuition charge; and
 
@@ -172,11 +172,11 @@ Except as otherwise provided, in this chapter:
 
 #### (22) Gifted and talented
 
-&emsp;The term “gifted and talented”, when used with respect to students, children, or youth, means students, children, or youth who give evidence of high achievement capability in areas such as intellectual, creative, artistic, or leadership capacity, or in specific academic fields, and who need services or activities not ordinarily provided by the school in order to fully develop those capabilities.
+&emsp;The term "gifted and talented", when used with respect to students, children, or youth, means students, children, or youth who give evidence of high achievement capability in areas such as intellectual, creative, artistic, or leadership capacity, or in specific academic fields, and who need services or activities not ordinarily provided by the school in order to fully develop those capabilities.
 
 #### (23) Highly qualified
 
-&emsp;The term “highly qualified”—
+&emsp;The term "highly qualified"—
 
 &emsp;&emsp;(A) when used with respect to any public elementary school or secondary school teacher teaching in a State, means that—
 
@@ -190,7 +190,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) holds at least a bachelor's degree; and
 
-&emsp;&emsp;&emsp;&emsp;(II) has demonstrated, by passing a rigorous State test, subject knowledge and teaching skills in reading, writing, mathematics, and other areas of the basic elementary school curriculum (which may consist of passing a State-required certification or licensing test or tests in reading, writing, mathematics, and other areas of the basic elementary school curriculum); or
+&emsp;&emsp;&emsp;&emsp;(II) has demonstrated, by passing a rigorous State test, subject knowledge and teaching skills in reading, writing, mathematics, and other areas of the basic elementary school curriculum (which may consist of passing a State-required certification or licensing test ortests in reading, writing, mathematics, and other areas of the basic elementary school curriculum); or
 
 &emsp;&emsp;&emsp;(ii) a middle or secondary school teacher who is new to the profession, means that the teacher holds at least a bachelor's degree and has demonstrated a high level of competency in each of the academic subjects in which the teacher teaches by—
 
@@ -220,11 +220,11 @@ Except as otherwise provided, in this chapter:
 
 #### (24) Institution of higher education
 
-&emsp;The term “institution of higher education” has the meaning given that term in section 1001(a) of this title.
+&emsp;The term "institution of higher education" has the meaning given that term in section 1001(a) of this title.
 
 #### (25) Limited English proficient
 
-&emsp;The term “limited English proficient”, when used with respect to an individual, means an individual—
+&emsp;The term "limited English proficient", when used with respect to an individual, means an individual—
 
 &emsp;&emsp;(A) who is aged 3 through 21;
 
@@ -250,7 +250,7 @@ Except as otherwise provided, in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “local educational agency” means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State, or of or for a combination of school districts or counties that is recognized in a State as an administrative agency for its public elementary schools or secondary schools.
+&emsp;&emsp;The term "local educational agency" means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State, or of or for a combination of school districts or counties that is recognized in a State as an administrative agency for its public elementary schools or secondary schools.
 
 #### (B) Administrative control and direction
 
@@ -270,27 +270,27 @@ Except as otherwise provided, in this chapter:
 
 #### (27) Mentoring
 
-&emsp;The term “mentoring”, except when used to refer to teacher mentoring, means a process by which a responsible adult, postsecondary student, or secondary school student works with a child to provide a positive role model for the child, to establish a supportive relationship with the child, and to provide the child with academic assistance and exposure to new experiences and examples of opportunity that enhance the ability of the child to become a responsible adult.
+&emsp;The term "mentoring", except when used to refer to teacher mentoring, means a process by which a responsible adult, postsecondary student, or secondary school student works with a child to provide a positive role model for the child, to establish a supportive relationship with the child, and to provide the child with academic assistance and exposure to new experiences and examples of opportunity that enhance the ability of the child to become a responsible adult.
 
 #### (28) Native American and Native American language
 
-&emsp;The terms “Native American” and “Native American language” have the same meaning given those terms in section 2902 of title 25.<sup>1</sup>
+&emsp;The terms "Native American" and "Native American language" have the same meaning given those terms in section 2902 of title 25.<sup>1</sup>
 
 #### (29) Other staff
 
-&emsp;The term “other staff” means pupil services personnel, librarians, career guidance and counseling personnel, education aides, and other instructional and administrative personnel.
+&emsp;The term "other staff" means pupil services personnel, librarians, career guidance and counseling personnel, education aides, and other instructional and administrative personnel.
 
 #### (30) Outlying area
 
-&emsp;The term “outlying area” means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, and for the purpose of section 6331(b) of this title and any other discretionary grant program under this chapter, includes the freely associated states of the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau until an agreement for the extension of United States education assistance under the Compact of Free Association for each of the freely associated states becomes effective after January 8, 2002.
+&emsp;The term "outlying area" means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, and for the purpose of section 6331(b) of this title and any other discretionary grant program under this chapter, includes the freely associated states of the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau until an agreement for the extension of United States education assistance under the Compact of Free Association for each of the freely associated states becomes effective after January 8, 2002.
 
 #### (31) Parent
 
-&emsp;The term “parent” includes a legal guardian or other person standing in loco parentis (such as a grandparent or stepparent with whom the child lives, or a person who is legally responsible for the child's welfare).
+&emsp;The term "parent" includes a legal guardian or other person standing in loco parentis (such as a grandparent or stepparent with whom the child lives, or a person who is legally responsible for the child's welfare).
 
 #### (32) Parental involvement
 
-&emsp;The term “parental involvement” means the participation of parents in regular, two-way, and meaningful communication involving student academic learning and other school activities, including ensuring—
+&emsp;The term "parental involvement" means the participation of parents in regular, two-way, and meaningful communication involving student academic learning and other school activities, including ensuring—
 
 &emsp;&emsp;(A) that parents play an integral role in assisting their child's learning;
 
@@ -302,15 +302,15 @@ Except as otherwise provided, in this chapter:
 
 #### (33) Poverty line
 
-&emsp;The term “poverty line” means the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved.
+&emsp;The term "poverty line" means the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved.
 
 #### (34) Professional development
 
-&emsp;The term “professional development”—
+&emsp;The term "professional development"—
 
 &emsp;&emsp;(A) includes activities that—
 
-&emsp;&emsp;&emsp;(i) improve and increase teachers’ knowledge of the academic subjects the teachers teach, and enable teachers to become highly qualified;
+&emsp;&emsp;&emsp;(i) improve and increase teachers' knowledge of the academic subjects the teachers teach, and enable teachers to become highly qualified;
 
 &emsp;&emsp;&emsp;(ii) are an integral part of broad schoolwide and districtwide educational improvement plans;
 
@@ -318,7 +318,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;(iv) improve classroom management skills;
 
-&emsp;&emsp;&emsp;(v)(I) are high quality, sustained, intensive, and classroom-focused in order tohave a positive and lasting impact on classroom instruction and the teacher's performance in the classroom; and
+&emsp;&emsp;&emsp;(v)(I) are high quality, sustained, intensive, and classroom-focused in order to have a positive and lasting impact on classroom instruction and the teacher's performance in the classroom; and
 
 &emsp;&emsp;&emsp;(II) are not 1-day or short-term workshops or conferences;
 
@@ -338,7 +338,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;(ix) are developed with extensive participation of teachers, principals, parents, and administrators of schools to be served under this chapter;
 
-&emsp;&emsp;&emsp;(x) are designed to give teachers of limited English proficient children, and other teachers and instructional staff, the knowledge and skills to provide instruction and appropriate language and academic support services to those children, including the appropriate use of curricula and assessments;
+&emsp;&emsp;&emsp;(x) are designed to give teachers of limited English proficient children, and otherteachers and instructional staff, the knowledge and skills to provide instruction and appropriate language and academic support services to those children, including the appropriate use of curricula and assessments;
 
 &emsp;&emsp;&emsp;(xi) to the extent appropriate, provide training for teachers and principals in the use of technology so that technology and technology applications are effectively used in the classroom to improve teaching and learning in the curricula and core academic subjects in which the teachers teach;
 
@@ -360,21 +360,21 @@ Except as otherwise provided, in this chapter:
 
 #### (35) Public telecommunications entity
 
-&emsp;The term “public telecommunications entity” has the meaning given that term in section 397(12) of title 47.
+&emsp;The term "public telecommunications entity" has the meaning given that term in section 397(12) of title 47.
 
 #### (36) Pupil services personnel; pupil services
 
 #### (A) Pupil services personnel
 
-&emsp;&emsp;The term “pupil services personnel” means school counselors, school social workers, school psychologists, and other qualified professional personnel involved in providing assessment, diagnosis, counseling, educational, therapeutic, and other necessary services (including related services as that term is defined in section 1401 of this title) as part of a comprehensive program to meet student needs.
+&emsp;&emsp;The term "pupil services personnel" means school counselors, school social workers, school psychologists, and other qualified professional personnel involved in providing assessment, diagnosis, counseling, educational, therapeutic, and other necessary services (including related services as that term is defined in section 1401 of this title) as part of a comprehensive program to meet student needs.
 
 #### (B) Pupil services
 
-&emsp;&emsp;The term “pupil services” means the services provided by pupil services personnel.
+&emsp;&emsp;The term "pupil services" means the services provided by pupil services personnel.
 
 #### (37) Scientifically based research
 
-&emsp;The term “scientifically based research”—
+&emsp;The term "scientifically based research"—
 
 &emsp;&emsp;(A) means research that involves the application of rigorous, systematic, and objective procedures to obtain reliable and valid knowledge relevant to education activities and programs; and
 
@@ -394,23 +394,23 @@ Except as otherwise provided, in this chapter:
 
 #### (38) Secondary school
 
-&emsp;The term “secondary school” means a nonprofit institutional day or residential school, including a public secondary charter school, that provides secondary education, as determined under State law, except that the term does not include any education beyond grade 12.
+&emsp;The term "secondary school" means a nonprofit institutional day or residential school, including a public secondary charter school, that provides secondary education, as determined under State law, except that the term does not include any education beyond grade 12.
 
 #### (39) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Education.
+&emsp;The term "Secretary" means the Secretary of Education.
 
 #### State <sup>3</sup>
 
-&emsp;The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each of the outlying areas.
+&emsp;The term "State" means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each of the outlying areas.
 
 #### (41) State educational agency
 
-&emsp;The term “State educational agency” means the agency primarily responsible for the State supervision of public elementary schools and secondary schools.
+&emsp;The term "State educational agency" means the agency primarily responsible for the State supervision of public elementary schools and secondary schools.
 
 #### (42) Teacher mentoring
 
-&emsp;The term “teacher mentoring” means activities that—
+&emsp;The term "teacher mentoring" means activities that—
 
 &emsp;&emsp;(A) consist of structured guidance and regular and ongoing support for teachers, especially beginning teachers, that—
 
@@ -426,13 +426,13 @@ Except as otherwise provided, in this chapter:
 
 #### (43) Technology
 
-&emsp;The term “technology” means state-of-the-art technology products and services.
+&emsp;The term "technology" means state-of-the-art technology products and services.
 
 (Pub. L. 89–10, title IX, §9101, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1956.)
 
 #### References in Text
 
-Section 2902 of title 25, referred to in par. (28), was in the original “section 103 of the Native American Languages Act of 1990”, which was translated as meaning section 103 of the Native American Languages Act, Pub. L. 101–477, to reflect the probable intent of Congress.
+Section 2902 of title 25, referred to in par. (28), was in the original "section 103 of the Native American Languages Act of 1990", which was translated as meaning section 103 of the Native American Languages Act, Pub. L. 101–477, to reflect the probable intent of Congress.
 
 #### References to Part A of Subchapter III Considered To Be References to Part B of Subchapter III
 
@@ -444,27 +444,27 @@ A prior section 7801, Pub. L. 89–10, title IX, §9101, as added Pub. L. 103–
 
 #### Highly Qualified Teacher
 
-Pub. L. 111–242, §163, as added by Pub. L. 111–322, title I, §1(a)(2), Dec. 22, 2010, 124 Stat. 3521; amended by Pub. L. 112–175, §145, Sept. 28, 2012, 126 Stat. 1322, provided that:
+Pub. L. 111–242, §163, as added by Pub. L. 111–322, title I, §1(a)(2), Dec. 22, 2010, 124 Stat. 3521; amended by Pub. L. 112–175, §145, Sept. 28, 2012, 126 Stat. 1322; Pub. L. 113–46, div. A, §144, Oct. 17, 2013, 127 Stat. 565, provided that:
 
-“(a) A ‘highly qualified teacher’ includes a teacher who meets the requirements in 34 CFR 200.56(a)(2)(ii), as published in the Federal Register on December 2, 2002.
+"(a) A 'highly qualified teacher' includes a teacher who meets the requirements in 34 CFR 200.56(a)(2)(ii), as published in the Federal Register on December 2, 2002.
 
-“(b) This provision is effective on the date of enactment of this provision \[Dec. 22, 2010\] through the end of the 2013–2014 academic year.
+"(b) This provision is effective on the date of enactment of this provision \[Dec. 22, 2010\] through the end of the 2015–2016 academic year.
 
-“(c) Not later than December 31, 2013, the Secretary of Education shall submit a report to the Committees on Appropriations and Health, Education, Labor, and Pensions of the Senate and the Committees on Appropriations and Education and the Workforce of the House of Representatives, using data required under existing law (section 1111(h)(6)(A) of Public Law 107–110 \[probably means section 1111(h)(6)(A) of Pub. L. 89–10, as added by Pub. L. 107–110; 20 U.S.C. 6311(h)(6)(A)\]) by State and each local educational agency, regarding the extent to which students in the following categories are taught by teachers who are deemed highly qualified pursuant to 34 CFR 200.56(a)(2)(ii) as published in the Federal Register on December 2, 2002:
+"(c) Not later than December 31, 2013, the Secretary of Education shall submit a report to the Committees on Appropriations and Health, Education, Labor, and Pensions of the Senate and the Committees on Appropriations and Education and the Workforce of the House of Representatives, using data required under existing law (section 1111(h)(6)(A) of Public Law 107–110 \[probably means section 1111(h)(6)(A) of Pub. L. 89–10, as added by Pub. L. 107–110; 20 U.S.C. 6311(h)(6)(A)\]) by State and each local educational agency, regarding the extent to which students in the following categories are taught by teachers who are deemed highly qualified pursuant to 34 CFR 200.56(a)(2)(ii) as published in the Federal Register on December 2, 2002:
 
-&emsp;“(1) Students with disabilities.
+&emsp;"(1) Students with disabilities.
 
-&emsp;“(2) English Learners.
+&emsp;"(2) English Learners.
 
-&emsp;“(3) Students in rural areas.
+&emsp;"(3) Students in rural areas.
 
-&emsp;“(4) Students from low-income families.”
+&emsp;"(4) Students from low-income families."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be section “6623(a)(3)(B)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be section "6623(a)(3)(B)".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be preceded by paragraph designation “(40)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be preceded by paragraph designation "(40)".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be preceded by “(ii) as”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be preceded by "(ii) as".</i>
 

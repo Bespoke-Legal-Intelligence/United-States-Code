@@ -42,7 +42,7 @@ July 5, 1935, ch. 373, §§2 (1st sentence), 4, 49 Stat. 458.
 
 &nbsp;
 
-In subsection (a), the word “capital” is omitted for consistency in the revised title.
+In subsection (a), the word "capital" is omitted for consistency in the revised title.
 
-In subsection (b), the words “as an organization” are omitted as unnecessary.
+In subsection (b), the words "as an organization" are omitted as unnecessary.
 

@@ -64,7 +64,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;With respect to the imposition of a charge for purposes of paragraph (1)(B)(ii), the Secretary may not make a grant under this part unless, subject to paragraph (5), the applicant for the grant agrees that—
 
-&emsp;&emsp;(A) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
+&emsp;&emsp;(A) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the applicant will not, forany calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
 
 &emsp;&emsp;(B) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 
@@ -114,7 +114,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;(5) the applicant will provide for the establishment of a clinical quality management program—
 
-&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter thatare provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
+&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter that are provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
 
 &emsp;&emsp;(B) to ensure that improvements in the access to and quality of HIV health services are addressed.
 
@@ -130,25 +130,25 @@ Subsec. (a)(1)(C), (D). Pub. L. 109–415, §306(b)(1), added subpars. (C) and (
 
 Subsec. (a)(3), (4). Pub. L. 109–415, §306(b)(2), (3), added pars. (3) and (4).
 
-Subsec. (b)(1). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
+Subsec. (b)(1). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease".
 
-Subsec. (f)(1)(A). Pub. L. 109–415, §306(c), inserted “(except for a program administered by or providing the services of the Indian Health Service)” before semicolon.
+Subsec. (f)(1)(A). Pub. L. 109–415, §306(c), inserted "(except for a program administered by or providing the services of the Indian Health Service)" before semicolon.
 
-Subsec. (g)(3). Pub. L. 109–415, §301(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the applicant will not expend more than 10 percent including planning and evaluation of the grant for administrative expenses with respect to the grant;”.
+Subsec. (g)(3). Pub. L. 109–415, §301(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the applicant will not expend more than 10 percent including planning and evaluation of the grant for administrative expenses with respect to the grant;".
 
-Subsec. (g)(5). Pub. L. 109–415, §301(b)(2), inserted “clinical” before “quality management” in introductory provisions.
+Subsec. (g)(5). Pub. L. 109–415, §301(b)(2), inserted "clinical" before "quality management" in introductory provisions.
 
-Subsec. (g)(5)(A). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
+Subsec. (g)(5)(A). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease".
 
-<b>2000</b>—Subsecs. (e)(5), (f)(2). Pub. L. 106–345, §301(b)(3)(A), (B), struck out “300ff–42(b) or” after “a waiver under section”.
+<b>2000</b>—Subsecs. (e)(5), (f)(2). Pub. L. 106–345, §301(b)(3)(A), (B), struck out "300ff–42(b) or" after "a waiver under section".
 
-Subsec. (g)(3). Pub. L. 106–345, §322(1)(A), substituted “10 percent” for “7.5 percent”.
+Subsec. (g)(3). Pub. L. 106–345, §322(1)(A), substituted "10 percent" for "7.5 percent".
 
 Subsec. (g)(5). Pub. L. 106–345, §322(1)(B), (2), (3), added par. (5).
 
-Subsec. (h). Pub. L. 106–345, §301(b)(3)(C), struck out heading and text of subsec. (h). Text read as follows: “A State may not use amounts received under a grant awarded under section 300ff–41 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.”
+Subsec. (h). Pub. L. 106–345, §301(b)(3)(C), struck out heading and text of subsec. (h). Text read as follows: "A State may not use amounts received under a grant awarded under section 300ff–41 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services."
 
-<b>1996</b>—Subsec. (g)(3). Pub. L. 104–146, §3(d)(5)(B)(i), substituted “7.5 percent including planning and evaluation” for “5 percent”.
+<b>1996</b>—Subsec. (g)(3). Pub. L. 104–146, §3(d)(5)(B)(i), substituted "7.5 percent including planning and evaluation" for "5 percent".
 
 Subsec. (g)(4). Pub. L. 104–146, §3(d)(5)(A), (B)(ii), (C), added par. (4).
 

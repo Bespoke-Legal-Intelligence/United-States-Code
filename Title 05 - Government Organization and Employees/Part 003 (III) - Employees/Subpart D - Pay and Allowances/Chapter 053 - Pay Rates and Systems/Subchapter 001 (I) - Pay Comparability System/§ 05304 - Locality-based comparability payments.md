@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(I) the percentage for the ninth calendar year in which any amounts are payable under this section, and any year thereafter, may not be less than the full amount necessary to reduce the pay disparity of the locality involved to 5 percent.
 
-&emsp;(4) Nothing in this section shall be considered to preclude the President, in his discretion, from adjusting comparability payments to a level higher than the minimum level otherwise required in a calendar year, including to the level necessary to eliminate a locality's pay disparity completely.
+&emsp;(4) Nothing in this section shall be considered to preclude the President, in his discretion, from adjusting comparability paymentsto a level higher than the minimum level otherwise required in a calendar year, including to the level necessary to eliminate a locality's pay disparity completely.
 
 (b) After the ninth calendar year (referred to in subsection (a)(3)(I)), the level of comparability payments payable within such locality may be reduced for any subsequent calendar year, but only if, or to the extent that, the reduction would not immediately create another pay disparity in excess of 5 percent within the locality (taking into consideration any comparability payments remaining payable).
 
@@ -78,7 +78,7 @@
 
 &emsp;(B) 6 shall be representatives of employee organizations which represent substantial numbers of employees holding General Schedule positions, and who shall be selected giving due consideration to such factors as the relative numbers of employees represented by the various organizations, except that not more than 3 members of the Council at any one time shall be from a single employee organization, council, federation, alliance, association, or affiliation of employee organizations.
 
-> Members of the Council shall not receive pay by reason of their service on the Council, nor shall members who are not otherwise employees of the United States be considered employees by reason of any such service. However, members under subparagraph (A) may be paid expenses in accordance with section 5703. The President shall designate one of the members to serve as Chairman of the Federal Salary Council. One ofthe 3 members under subparagraph (A) may be the Chairman of the Federal Prevailing Rate Advisory Committee, notwithstanding the restriction under section 5347(a)(1), and such individual may also be designated to serve as Chairman of the Federal Salary Council.
+> Members of the Council shall not receive pay by reason of their service on the Council, nor shall members who are not otherwise employees of the United States be considered employees by reason of any such service. However, members under subparagraph (A) may be paid expenses in accordance with section 5703. The President shall designate one of the members to serve as Chairman of the Federal Salary Council. One of the 3 members under subparagraph (A) may be the Chairman of the Federal Prevailing RateAdvisory Committee, notwithstanding the restriction under section 5347(a)(1), and such individual may also be designated to serve as Chairman of the Federal Salary Council.
 
 (2) The pay agent shall—
 
@@ -144,7 +144,7 @@
 
 &emsp;(vii) a position to which section 5376 applies (relating to certain senior-level and scientific and professional positions), except for a position covered by subparagraph (C).
 
-(2)(A) Notwithstanding subsection (c)(4) or any other provision of this section, but subject to subparagraph (B) and paragraph (3), upon the request of the head of an Executive agency with respect to 1 or more categories of positions, thePresident may provide that each employee of such agency who holds a position within such category, and within the particular locality involved, shall be entitled to receive comparability payments.
+(2)(A) Notwithstanding subsection (c)(4) or any other provision of this section, but subject to subparagraph (B) and paragraph (3), upon the request of the head of an Executive agency with respect to 1 or more categories of positions, the President may provide that each employee of such agency who holds a position within such category, and within the particular locality involved, shall be entitled to receive comparability payments.
 
 (B) A request by an agency head or exercise of authority by the President under subparagraph (A) shall cover—
 
@@ -406,7 +406,7 @@ In general.—During the transition period described in section 1914 ending on t
 
 &emsp;“(2)
 
-Continuation of cost of living allowance rate.—If an employee, who the day before the date of enactment of this Act was eligible to receive a cost-of-living allowance under section 5941 of title 5, United States Code, would receive a rate of basic pay and applicable locality-based comparability payment which is in excess of the maximum rate limitation set under section 5304(g) of title 5, United States Code, for his position (but for that maximum rate limitation) due to the operation of this subtitle, the employee shall continue to receive the cost-of-living allowance rate in effect on December 31, 2009 without adjustment until—
+Continuation of cost of living allowance rate.—If an employee, who the day before the date of enactment of this Act was eligible to receive a cost-of-living allowance under section 5941 of title 5, United States Code, would receive a rate of basic payand applicable locality-based comparability payment which is in excess of the maximum rate limitation set under section 5304(g) of title 5, United States Code, for his position (but for that maximum rate limitation) due to the operation of this subtitle, the employee shall continue to receive the cost-of-living allowance rate in effect on December 31, 2009 without adjustment until—
 
 &emsp;&emsp;“(A) the employee leaves the allowance area or pay system; or
 

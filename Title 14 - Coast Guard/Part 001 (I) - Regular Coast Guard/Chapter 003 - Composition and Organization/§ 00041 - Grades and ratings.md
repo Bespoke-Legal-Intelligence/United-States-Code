@@ -8,7 +8,7 @@ In the Coast Guard there shall be an admiral, vice admirals; rear admirals; rear
 
 #### 1949 Act
 
-Based on title 14, U.S.C., 1946 ed., §§5, 9, 21 (Apr. 12, 1902, ch. 501, §1, 32 Stat. 100; Jan. 28, 1915, ch. 20, §2, 38Stat. 801; May 18, 1920, ch. 190, §8, 41 Stat. 603; June 5, 1920, ch. 235, §1, 41 Stat. 879; Jan. 12, 1923, ch. 25, §§1, 2, 42 Stat. 1130; July 3, 1926, ch. 742, §§3, 9, 10, 44 Stat. 815, 817).
+Based on title 14, U.S.C., 1946 ed., §§5, 9, 21 (Apr. 12, 1902, ch. 501, §1, 32 Stat. 100; Jan. 28, 1915, ch. 20, §2, 38 Stat. 801; May 18, 1920, ch. 190, §8, 41 Stat. 603; June 5, 1920, ch. 235, §1, 41 Stat. 879; Jan. 12, 1923, ch. 25, §§1, 2, 42 Stat. 1130; July 3, 1926, ch. 742, §§3, 9, 10, 44 Stat. 815, 817).
 
 The grades of vice admiral and rear admiral are added to make provision for the commissioned officer personnel structure of the service as provided for in this revision. The entire rating structure for enlisted men is left to the administrative discretion of the Secretary, as in the past, for reasons of flexibility.
 
@@ -38,19 +38,19 @@ May 29, 1954, ch. 249, §3(a) (less 3d and last sentences, as applicable to temp
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337 substituted “chief warrant officers; cadets; warrant officers;” for “chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2; cadets; warrant officers, W–1;”.
+<b>1994</b>—Pub. L. 103–337 substituted "chief warrant officers; cadets; warrant officers;" for "chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2; cadets; warrant officers, W–1;".
 
-<b>1985</b>—Pub. L. 99–145 substituted “rear admirals (lower half)” for “commodores”.
+<b>1985</b>—Pub. L. 99–145 substituted "rear admirals (lower half)" for "commodores".
 
-<b>1984</b>—Pub. L. 98–557 substituted “members” for “men” in two places.
+<b>1984</b>—Pub. L. 98–557 substituted "members" for "men" in two places.
 
-<b>1983</b>—Pub. L. 97–417 inserted “commodores;” after “rear admirals;”.
+<b>1983</b>—Pub. L. 97–417 inserted "commodores;" after "rear admirals;".
 
-<b>1972</b>—Pub. L. 92–451 substituted “vice admirals” for “a vice admiral”.
+<b>1972</b>—Pub. L. 92–451 substituted "vice admirals" for "a vice admiral".
 
 <b>1960</b>—Pub. L. 86–474 inserted the grade of admiral.
 
-<b>1956</b>—Act Aug. 10, 1956, repealed and reenacted section by general amendment thereby substituting “chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2” for “commissioned warrant officers”, and “warrant officers, W–1” for “warrant officers”.
+<b>1956</b>—Act Aug. 10, 1956, repealed and reenacted section by general amendment thereby substituting "chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2" for "commissioned warrant officers", and "warrant officers, W–1" for "warrant officers".
 
 #### Effective Date of 1994 Amendment
 

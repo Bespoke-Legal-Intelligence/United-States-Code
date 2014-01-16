@@ -16,9 +16,9 @@ Based on 44 U.S. Code, 1964 ed., §396(b) (June 30, 1949, ch. 288, title V, §50
 
 #### Amendments
 
-<b>1984</b>—Pars. (2), (3). Pub. L. 98–497 inserted “and the Archivist” after “Administrator of General Services” in par. (2), and substituted “sections 2101–2117” for “sections 2101–2113” and struck out “2701,” before “2901” in par. (3).
+<b>1984</b>—Pars. (2), (3). Pub. L. 98–497 inserted "and the Archivist" after "Administrator of General Services" in par. (2), and substituted "sections 2101–2117" for "sections 2101–2113" and struck out "2701," before "2901" in par. (3).
 
-<b>1976</b>—Pub. L. 94–575, §3(a)(1), (2), substituted in par. (1) “the creation and over the maintenance” for “the creation, maintenance,” and in par. (3) reference to sections “2901–2909” for “2901, 2903–2909” of this title.
+<b>1976</b>—Pub. L. 94–575, §3(a)(1), (2), substituted in par. (1) "the creation and over the maintenance" for "the creation, maintenance," and in par. (3) reference to sections "2901–2909" for "2901, 2903–2909" of this title.
 
 #### Effective Date of 1984 Amendment
 

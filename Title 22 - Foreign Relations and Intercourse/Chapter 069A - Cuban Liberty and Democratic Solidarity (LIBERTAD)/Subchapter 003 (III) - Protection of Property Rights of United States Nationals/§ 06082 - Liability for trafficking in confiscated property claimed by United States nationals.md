@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(III) the fair market value of that property, calculated as being either the current value of the property, or the value of the property when confiscated plus interest, whichever is greater; and
 
-&emsp;&emsp;(ii) court costs and reasonable attorneys’ fees.
+&emsp;&emsp;(ii) court costs and reasonable attorneys' fees.
 
 &emsp;(B) Interest under subparagraph (A)(i) shall be at the rate set forth in section 1961 of title 28, computed by the court from the date of confiscation of the property involved to the date on which the action is brought under this subsection.
 
@@ -88,7 +88,7 @@
 
 #### (b) Amount in controversy
 
-An action may be brought under this section by a United States national only where the amount in controversy exceeds the sum or value of $50,000, exclusive of interest, costs, and attorneys’ fees. In calculating $50,000 for purposes of the preceding sentence, the applicable amount under subclause (I), (II), or (III) of subsection (a)(1)(A)(i) of this section may not be tripled as provided in subsection (a)(3) of this section.
+An action may be brought under this section by a United States national only where the amount in controversy exceeds the sum or value of $50,000, exclusive of interest, costs, and attorneys' fees. In calculating $50,000 for purposes of the preceding sentence, the applicable amount under subclause (I), (II), or (III) of subsection (a)(1)(A)(i) of this section may not be tripled as provided in subsection (a)(3) of this section.
 
 #### (c) Procedural requirements
 
@@ -112,7 +112,7 @@ In an action brought under this section, any judgment against an agency or instr
 
 &emsp;Subject to paragraph (2)—
 
-&emsp;&emsp;(A) any United States national that brings an action under this section may not bring any other civil action or proceeding under the common law, Federal law, or the law of any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States, that seeks monetary or nonmonetary compensation by reason of the same subject matter; and
+&emsp;&emsp;(A) any United States national that brings an action under this section may not bring any other civil action or proceeding underthe common law, Federal law, or the law of any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States, that seeks monetary or nonmonetary compensation by reason of the same subject matter; and
 
 &emsp;&emsp;(B) any person who brings, under the common law or any provision of law other than this section, a civil action or proceeding for monetary or nonmonetary compensation arising out of a claim for which an action would otherwise be cognizable under this section may not bring an action under this section on that claim.
 
@@ -154,11 +154,11 @@ The Judicial Conference of the United States shall establish a uniform fee that 
 
 #### References in Text
 
-For the effective date of this subchapter, referred to in subsec. (a)(1)(A), as Aug. 1, 1996, or date determinedpursuant to suspension authority of President see section 6085 of this title.
+For the effective date of this subchapter, referred to in subsec. (a)(1)(A), as Aug. 1, 1996, or date determined pursuant to suspension authority of President see section 6085 of this title.
 
 The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1)(A)(i)(I), (3)(A), (5), (f)(2), and (g), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended, which is classified generally to chapter 21 (§1621 et seq.) of this title. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
-This subchapter, referred to in subsecs. (a)(7)(B), (8) and (c)(1), was in the original “this title”, meaning title III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 814, which enacted this subchapter and sections 1643l and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
+This subchapter, referred to in subsecs. (a)(7)(B), (8) and (c)(1), was in the original "this title", meaning title III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 814, which enacted this subchapter and sections 1643l and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
 
 #### Codification
 

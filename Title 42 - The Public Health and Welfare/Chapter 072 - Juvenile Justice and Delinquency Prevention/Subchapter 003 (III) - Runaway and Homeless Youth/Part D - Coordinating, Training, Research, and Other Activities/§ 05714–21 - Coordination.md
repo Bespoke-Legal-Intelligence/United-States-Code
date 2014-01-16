@@ -18,5 +18,5 @@ A prior section 341 of Pub. L. 93–415 was renumbered section 380 and is classi
 
 <b>2003</b>—Par. (3). Pub. L. 108–96 added par. (3).
 
-<b>1999</b>—Pub. L. 106–71 amended section catchline and text generally. Prior to amendment, text read as follows: “With respect to matters relating to the health, education, employment, and housing of runaway and homeless youth, the Secretary shall coordinate the activities of agencies of the Department of Health and Human Services with the activities of other Federal entities and with the activities of entities that are eligible to receive grants under this subchapter”.
+<b>1999</b>—Pub. L. 106–71 amended section catchline and text generally. Prior to amendment, text read as follows: "With respect to matters relating to the health, education, employment, and housing of runaway and homeless youth, the Secretary shall coordinate the activities of agencies of the Department of Health and Human Services with the activities of other Federal entities and with the activities of entities that are eligible to receive grants under this subchapter".
 

@@ -4,7 +4,7 @@ It is the sense of Congress that Radio Free Europe and Radio Liberty should cont
 
 &emsp;(1) a particular nation has clearly demonstrated the successful establishment and consolidation of democratic rule; and
 
-&emsp;(2) its domestic media which provide balanced, accurate, and comprehensive news and information, is firmly established and widelyaccessible to the national audience, thus making redundant broadcasts by Radio Free Europe or Radio Liberty.
+&emsp;(2) its domestic media which provide balanced, accurate, and comprehensive news and information, is firmly established and widely accessible to the national audience, thus making redundant broadcasts by Radio Free Europe or Radio Liberty.
 
 > At such time as a particular nation meets both of these conditions, RFE/RL should phase out broadcasting to that nation.
 

@@ -6,231 +6,231 @@ In order to meet the rapidly expanding demands for water throughout the Nation, 
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–251, title I, §109, Mar. 16, 1974, 88 Stat. 49, provided that: “This title \[enacting sections 1962d–5c and 1962d–15 to 1962d–17 of this title, section 460ee of Title 16, Conservation, and sections 50c–2, 50k, 579, 701b–11, and 1252a of Title 33, Navigation and Navigable Waters, amending section 4482 of this title, sections 460l–13(a), (a)(3) and 460l–14(b)(1) of Title 16, section 275a of Title 22, Foreign Relations and Intercourse, and sections 701g, 701n, 701r, 701r–1(c), 701s, 709a(b), and 1165a(d) of Title 33, and enacting provisions set out as notes under sections 1962d–5 and 1962d–7 of this title and section 460l–13 of Title 16\] may be cited as the ‘Water Resources Development Act of 1974’.”
+Pub. L. 93–251, title I, §109, Mar. 16, 1974, 88 Stat. 49, provided that: "This title \[enacting sections 1962d–5c and 1962d–15 to 1962d–17 of this title, section 460ee of Title 16, Conservation, and sections 50c–2, 50k, 579, 701b–11, and 1252a of Title 33, Navigation and Navigable Waters, amending section 4482 of this title, sections 460l–13(a), (a)(3) and 460l–14(b)(1) of Title 16, section 275a of Title 22, Foreign Relations and Intercourse, and sections 701g, 701n, 701r, 701r–1(c), 701s, 709a(b), and 1165a(d) of Title 33, and enacting provisions set out as notes under sections 1962d–5 and 1962d–7 of this title and section 460l–13 of Title 16\] may be cited as the 'Water Resources Development Act of 1974'."
 
 #### Short Title
 
-Pub. L. 89–80, §1, July 22, 1965, 79 Stat. 244, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Water Resources Planning Act’.”
+Pub. L. 89–80, §1, July 22, 1965, 79 Stat. 244, provided that: "This Act \[enacting this chapter\] may be cited as the 'Water Resources Planning Act'."
 
 #### United States-Mexico Transboundary Aquifer Assessment
 
 Pub. L. 109–448, Dec. 22, 2006, 120 Stat. 3328, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘United States-Mexico Transboundary Aquifer Assessment Act’.
+"This Act may be cited as the 'United States-Mexico Transboundary Aquifer Assessment Act'.
 
-#### “SEC. 2. PURPOSE.
+#### "SEC. 2. PURPOSE.
 
-“The purpose of this Act is to direct the Secretary of the Interior to establish a United States-Mexico transboundary aquifer assessment program to systematically assess priority transboundary aquifers.
+"The purpose of this Act is to direct the Secretary of the Interior to establish a United States-Mexico transboundary aquifer assessment program to systematically assess priority transboundary aquifers.
 
-#### “SEC. 3. DEFINITIONS.
+#### "SEC. 3. DEFINITIONS.
 
-“In this Act:
+"In this Act:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Aquifer.—The term ‘aquifer’ means a subsurface water-bearing geologic formation from which significant quantities of water may be extracted.
+Aquifer.—The term 'aquifer' means a subsurface water-bearing geologic formation from which significant quantities of water may be extracted.
 
-&emsp;“(2) IBWC.—The term ‘IBWC’ means the International Boundary and Water Commission, an agency of the Department of State.
+&emsp;"(2) IBWC.—The term 'IBWC' means the International Boundary and Water Commission, an agency of the Department of State.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Indian tribe.—The term ‘Indian tribe’ means an Indian tribe, band, nation, or other organized group or community—
+Indian tribe.—The term 'Indian tribe' means an Indian tribe, band, nation, or other organized group or community—
 
-&emsp;&emsp;“(A) that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; and
+&emsp;&emsp;"(A) that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; and
 
-&emsp;&emsp;“(B) the reservation of which includes a transboundary aquifer within the exterior boundaries of the reservation.
+&emsp;&emsp;"(B) the reservation of which includes a transboundary aquifer within the exterior boundaries of the reservation.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Participating state.—The term ‘Participating State’ means each of the States of Arizona, New Mexico, and Texas.
+Participating state.—The term 'Participating State' means each of the States of Arizona, New Mexico, and Texas.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Priority transboundary aquifer.—The term ‘priority transboundary aquifer’ means a transboundary aquifer that has been designated for study and analysis under the program.
+Priority transboundary aquifer.—The term 'priority transboundary aquifer' means a transboundary aquifer that has been designated for study and analysis under the program.
 
-&emsp;“(6)
+&emsp;"(6)
 
-Program.—The term ‘program’ means the United States-Mexico transboundary aquifer assessment program established under section 4(a).
+Program.—The term 'program' means the United States-Mexico transboundary aquifer assessment program established under section 4(a).
 
-&emsp;“(7)
+&emsp;"(7)
 
-Reservation.—The term ‘reservation’ means land that has been set aside or that has been acknowledged as having been set aside by the United States for the use of an Indian tribe, the exterior boundaries of which are more particularly defined in a final tribal treaty, agreement, executive order, Federal statute, secretarial order, or judicial determination.
+Reservation.—The term 'reservation' means land that has been set aside or that has been acknowledged as having been set aside by the United States for the use of an Indian tribe, the exterior boundaries of which are more particularly defined in a final tribal treaty, agreement, executive order, Federal statute, secretarial order, or judicial determination.
 
-&emsp;“(8)
+&emsp;"(8)
 
-Secretary.—The term ‘Secretary’ means the Secretary of the Interior, acting through the Director of the United States Geological Survey.
+Secretary.—The term 'Secretary' means the Secretary of the Interior, acting through the Director of the United States Geological Survey.
 
-&emsp;“(9)
+&emsp;"(9)
 
-Transboundary aquifer.—The term ‘transboundary aquifer’ means an aquifer that underlies the boundary between a Participating State and Mexico.
+Transboundary aquifer.—The term 'transboundary aquifer' means an aquifer that underlies the boundary between a Participating State and Mexico.
 
-&emsp;“(10)
+&emsp;"(10)
 
-Tri-regional planning group.—The term ‘Tri-Regional Planning Group’ means the binational planning group comprised of—
+Tri-regional planning group.—The term 'Tri-Regional Planning Group' means the binational planning group comprised of—
 
-&emsp;&emsp;“(A) the Junta Municipal de Agua y Saneamiento de Ciudad Juarez;
+&emsp;&emsp;"(A) the Junta Municipal de Agua y Saneamiento de Ciudad Juarez;
 
-&emsp;&emsp;“(B) the El Paso Water Utilities Public Service Board; and
+&emsp;&emsp;"(B) the El Paso Water Utilities Public Service Board; and
 
-&emsp;&emsp;“(C) the Lower Rio Grande Water Users Organization.
+&emsp;&emsp;"(C) the Lower Rio Grande Water Users Organization.
 
-&emsp;“(11)
+&emsp;"(11)
 
-Water resources research institutes.—The term ‘water resources research institutes’ means the institutes within the Participating States established under section 104 of the Water Resources Research Act of 1984 (42 U.S.C. 10303).
+Water resources research institutes.—The term 'water resources research institutes' means the institutes within the Participating States established under section 104 of the Water Resources Research Act of 1984 (42 U.S.C. 10303).
 
-#### “SEC. 4. ESTABLISHMENT OF PROGRAM.
+#### "SEC. 4. ESTABLISHMENT OF PROGRAM.
 
-“(a)
+"(a)
 
 In General.—The Secretary, in consultation and cooperation with the Participating States, the water resources research institutes, Sandia National Laboratories, and other appropriate entities in the United States and Mexico, and the IBWC, as appropriate, shall carry out the United States-Mexico transboundary aquifer assessment program to characterize, map, and model priority transboundary aquifers along the United States-Mexico border at a level of detail determined to be appropriate for the particular aquifer.
 
-“(b)
+"(b)
 
 Objectives.—The objectives of the program are to—
 
-&emsp;“(1) develop and implement an integrated scientific approach to identify and assess priority transboundary aquifers, including—
+&emsp;"(1) develop and implement an integrated scientific approach to identify and assess priority transboundary aquifers, including—
 
-&emsp;&emsp;“(A) for purposes of subsection (c)(2), specifying priority transboundary aquifers for further analysis by assessing—
+&emsp;&emsp;"(A) for purposes of subsection (c)(2), specifying priority transboundary aquifers for further analysis by assessing—
 
-&emsp;&emsp;&emsp;“(i) the proximity of a proposed priority transboundary aquifer to areas of high population density;
+&emsp;&emsp;&emsp;"(i) the proximity of a proposed priority transboundary aquifer to areas of high population density;
 
-&emsp;&emsp;&emsp;“(ii) the extent to which a proposed priority transboundary aquifer would be used;
+&emsp;&emsp;&emsp;"(ii) the extent to which a proposed priority transboundary aquifer would be used;
 
-&emsp;&emsp;&emsp;“(iii) the susceptibility of a proposed priority transboundary aquifer to contamination; and
+&emsp;&emsp;&emsp;"(iii) the susceptibility of a proposed priority transboundary aquifer to contamination; and
 
-&emsp;&emsp;&emsp;“(iv) any other relevant criteria;
+&emsp;&emsp;&emsp;"(iv) any other relevant criteria;
 
-&emsp;&emsp;“(B) evaluating all available data and publications as part of the development of study plans for each priority transboundary aquifer;
+&emsp;&emsp;"(B) evaluating all available data and publications as part of the development of study plans for each priority transboundary aquifer;
 
-&emsp;&emsp;“(C) creating a new, or enhancing an existing, geographic information system database to characterize the spatial and temporal aspects of each priority transboundary aquifer; and
+&emsp;&emsp;"(C) creating a new, or enhancing an existing, geographic information system database to characterize the spatial and temporal aspects of each priority transboundary aquifer; and
 
-&emsp;&emsp;“(D) using field studies, including support for and expansion of ongoing monitoring and metering efforts, to develop—
+&emsp;&emsp;"(D) using field studies, including support for and expansion of ongoing monitoring and metering efforts, to develop—
 
-&emsp;&emsp;&emsp;“(i) the additional data necessary to adequately define aquifer characteristics; and
+&emsp;&emsp;&emsp;"(i) the additional data necessary to adequately define aquifer characteristics; and
 
-&emsp;&emsp;&emsp;“(ii) scientifically sound groundwater flow models to assist with State and local water management and administration, including modeling of relevant groundwater and surface water interactions;
+&emsp;&emsp;&emsp;"(ii) scientifically sound groundwater flow models to assist with State and local water management and administration, including modeling of relevant groundwater and surface water interactions;
 
-&emsp;“(2) consider the expansion or modification of existing agreements, as appropriate, between the United States Geological Survey, the Participating States, the water resources research institutes, and appropriate authorities in the United States and Mexico, to—
+&emsp;"(2) consider the expansion or modification of existing agreements, as appropriate, between the United States Geological Survey, the Participating States, the water resources research institutes, and appropriate authorities in the United States and Mexico, to—
 
-&emsp;&emsp;“(A) conduct joint scientific investigations;
+&emsp;&emsp;"(A) conduct joint scientific investigations;
 
-&emsp;&emsp;“(B) archive and share relevant data; and
+&emsp;&emsp;"(B) archive and share relevant data; and
 
-&emsp;&emsp;“(C) carry out any other activities consistent with the program; and
+&emsp;&emsp;"(C) carry out any other activities consistent with the program; and
 
-&emsp;“(3) produce scientific products for each priority transboundary aquifer that—
+&emsp;"(3) produce scientific products for each priority transboundary aquifer that—
 
-&emsp;&emsp;“(A) are capable of being broadly distributed; and
+&emsp;&emsp;"(A) are capable of being broadly distributed; and
 
-&emsp;&emsp;“(B) provide the scientific information needed by water managers and natural resource agencies on both sides of the United States-Mexico border to effectively accomplish the missions of the managers and agencies.
+&emsp;&emsp;"(B) provide the scientific information needed by water managers and natural resource agencies on both sides of the United States-Mexico border to effectively accomplish the missions of the managers and agencies.
 
-“(c)
+"(c)
 
 Designation of Priority Transboundary Aquifers.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—For purposes of the program, the Secretary shall designate as priority transboundary aquifers—
 
-&emsp;&emsp;“(A) the Hueco Bolson and Mesilla aquifers underlying parts of Texas, New Mexico, and Mexico;
+&emsp;&emsp;"(A) the Hueco Bolson and Mesilla aquifers underlying parts of Texas, New Mexico, and Mexico;
 
-&emsp;&emsp;“(B) the Santa Cruz River Valley aquifers underlying Arizona and Sonora, Mexico; and
+&emsp;&emsp;"(B) the Santa Cruz River Valley aquifers underlying Arizona and Sonora, Mexico; and
 
-&emsp;&emsp;“(C) the San Pedro aquifers underlying Arizona and Sonora, Mexico.
+&emsp;&emsp;"(C) the San Pedro aquifers underlying Arizona and Sonora, Mexico.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Additional aquifers.—The Secretary may, using the criteria under subsection (b)(1)(A), evaluate and designate additional priority transboundary aquifers which underlie New Mexico or Texas.
 
-“(d)
+"(d)
 
 Cooperation With Mexico.—To ensure a comprehensive assessment of priority transboundary aquifers, the Secretary shall, to the maximum extent practicable, work with appropriate Federal agencies and other organizations to develop partnerships with, and receive input from, relevant organizations in Mexico to carry out the program.
 
-“(e)
+"(e)
 
 Grants and Cooperative Agreements.—The Secretary may provide grants or enter into cooperative agreements and other agreements with the water resources research institutes and other Participating State entities to carry out the program.
 
-#### “SEC. 5. IMPLEMENTATION OF PROGRAM.
+#### "SEC. 5. IMPLEMENTATION OF PROGRAM.
 
-“(a)
+"(a)
 
 Coordination With States, Tribes, and Other Entities.—The Secretary shall coordinate the activities carried out under the program with—
 
-&emsp;“(1) the appropriate water resource agencies in the Participating States;
+&emsp;"(1) the appropriate water resource agencies in the Participating States;
 
-&emsp;“(2) any affected Indian tribes;
+&emsp;"(2) any affected Indian tribes;
 
-&emsp;“(3) any other appropriate entities that are conducting monitoring and metering activity with respect to a priority transboundary aquifer; and
+&emsp;"(3) any other appropriate entities that are conducting monitoring and metering activity with respect to a priority transboundary aquifer; and
 
-&emsp;“(4) the IBWC, as appropriate.
+&emsp;"(4) the IBWC, as appropriate.
 
-“(b)
+"(b)
 
 New Activity.—After the date of enactment of this Act \[Dec. 22, 2006\], the Secretary shall not initiate any new field studies or analyses under the program before consulting with, and coordinating the activity with, any Participating State water resource agencies that have jurisdiction over the aquifer.
 
-“(c)
+"(c)
 
 Study Plans; Cost Estimates.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary shall work closely with appropriate Participating State water resource agencies, water resources research institutes, and other relevant entities to develop a study plan, timeline, and cost estimate for each priority transboundary aquifer to be studied under the program.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Requirements.—A study plan developed under paragraph (1) shall, to the maximum extent practicable—
 
-&emsp;&emsp;“(A) integrate existing data collection and analyses conducted with respect to the priority transboundary aquifer;
+&emsp;&emsp;"(A) integrate existing data collection and analyses conducted with respect to the priority transboundary aquifer;
 
-&emsp;&emsp;“(B) if applicable, improve and strengthen existing groundwater flow models developed for the priority transboundary aquifer; and
+&emsp;&emsp;"(B) if applicable, improve and strengthen existing groundwater flow models developed for the priority transboundary aquifer; and
 
-&emsp;&emsp;“(C) be consistent with appropriate State guidelines and goals.
+&emsp;&emsp;"(C) be consistent with appropriate State guidelines and goals.
 
-#### “SEC. 6. EFFECT.
+#### "SEC. 6. EFFECT.
 
-“(a)
+"(a)
 
 In General.—Nothing in this Act affects—
 
-&emsp;“(1) the jurisdiction or responsibility of a Participating State with respect to managing surface or groundwater resources in the Participating State;
+&emsp;"(1) the jurisdiction or responsibility of a Participating State with respect to managing surface or groundwater resources in the Participating State;
 
-&emsp;“(2) the water rights of any person or entity using water from a transboundary aquifer; or
+&emsp;"(2) the water rights of any person or entity using water from a transboundary aquifer; or
 
-&emsp;“(3) State water law, or an interstate compact or international treaty governing water.
+&emsp;"(3) State water law, or an interstate compact or international treaty governing water.
 
-“(b)
+"(b)
 
 Treaty.—Nothing in this Act shall delay or alter the implementation or operation of any works constructed, modified, acquired, or used within the territorial limits of the United States relating to the waters governed by the Treaty Between the United States and Mexico Regarding Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, Treaty Series 994 (59 Stat. 1219).
 
-#### “SEC. 7. REPORTS.
+#### "SEC. 7. REPORTS.
 
-“Not later than 5 years after the date of enactment of this Act \[Dec. 22, 2006\], and on completion of the program in fiscal year 2016, the Secretary shall submit to the appropriate water resource agency in the Participating States, an interim and final report, respectively, that describes—
+"Not later than 5 years after the date of enactment of this Act \[Dec. 22, 2006\], and on completion of the program in fiscal year 2016, the Secretary shall submit to the appropriate water resource agency in the Participating States, an interim and final report, respectively, that describes—
 
-&emsp;“(1) any activities carried out under the program;
+&emsp;"(1) any activities carried out under the program;
 
-&emsp;“(2) any conclusions of the Secretary relating to the status of priority transboundary aquifers; and
+&emsp;"(2) any conclusions of the Secretary relating to the status of priority transboundary aquifers; and
 
-&emsp;“(3) the level of participation in the program of entities in Mexico.
+&emsp;"(3) the level of participation in the program of entities in Mexico.
 
-#### “SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+#### "SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
 
-“(a)
+"(a)
 
 In General.—There are authorized to be appropriated to carry out this Act $50,000,000 for the period of fiscal years 2007 through 2016.
 
-“(b)
+"(b)
 
 Distribution of Funds.—Of the amounts made available under subsection (a), 50 percent shall be made available to the water resources research institutes to provide funding to appropriate entities in the Participating States (including Sandia National Laboratories, State agencies, universities, the Tri-Regional Planning Group, and other relevant organizations) and to implement cooperative agreements entered into with appropriate entities in Mexico to conduct specific authorized activities in furtherance of the program, including the binational collection and exchange of scientific data.
 
-“(c)
+"(c)
 
 Criteria.—Funding provided to an appropriate entity in Mexico pursuant to subsection (b) shall be contingent on that entity providing 50 percent of the necessary resources (including in-kind services) to further assist in carrying out the authorized activity.
 
-#### “SEC. 9. SUNSET OF AUTHORITY.
+#### "SEC. 9. SUNSET OF AUTHORITY.
 
-“The authority of the Secretary to carry out any provisions of this Act shall terminate 10 years after the date of enactment of this Act \[Dec. 22, 2006\].”
+"The authority of the Secretary to carry out any provisions of this Act shall terminate 10 years after the date of enactment of this Act \[Dec. 22, 2006\]."
 
 #### Watershed Protection and Flood Prevention Projects Exempt From Requirements for Independent Water Project Review
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “securities fraud offense” means a violation of, or a conspiracy or an attempt to violate—
+Definition.—In this section, the term "securities fraud offense" means a violation of, or a conspiracy or an attempt to violate—
 
 &emsp;(1) section 1348;
 

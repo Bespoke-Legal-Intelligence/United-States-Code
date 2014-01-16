@@ -12,5 +12,5 @@ Section was formerly classified to section 573 of Title 5 prior to the general r
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–161 struck out “: <i>Provided</i>, That purchases under this authority shall not be made unless provision is made therefor in the applicable appropriation and the cost thereof is not in excess of limitations prescribed therein” before period at end.
+<b>2007</b>—Pub. L. 110–161 struck out ": <i>Provided</i>, That purchases under this authority shall not be made unless provision is made therefor in the applicable appropriation and the cost thereof is not in excess of limitations prescribed therein" before period at end.
 

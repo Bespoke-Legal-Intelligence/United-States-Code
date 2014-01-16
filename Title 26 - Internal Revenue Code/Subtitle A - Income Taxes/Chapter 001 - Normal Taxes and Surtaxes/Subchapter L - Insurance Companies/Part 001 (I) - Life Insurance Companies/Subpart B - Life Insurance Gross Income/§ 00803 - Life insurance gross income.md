@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of this part, the term “life insurance gross income” means the sum of the following amounts:
+For purposes of this part, the term "life insurance gross income" means the sum of the following amounts:
 
 #### (1) Premiums
 
@@ -22,7 +22,7 @@ For purposes of this part, the term “life insurance gross income” means the 
 
 #### (1) Certain items included
 
-&emsp;For purposes of subsection (a)(1)(A), the term “gross amount of premiums and other consideration” includes—
+&emsp;For purposes of subsection (a)(1)(A), the term "gross amount of premiums and other consideration" includes—
 
 &emsp;&emsp;(A) advance premiums,
 
@@ -44,7 +44,7 @@ For purposes of this part, the term “life insurance gross income” means the 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “return premiums” does not include any policyholder dividends.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "return premiums" does not include any policyholder dividends.
 
 #### (B) Exception for indemnity reinsurance
 

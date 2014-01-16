@@ -14,7 +14,7 @@ Simple Possession.—
 
 &emsp;(1)
 
-In general.—Any individual on a vessel subject to the jurisdiction of the United States who is found by the Secretary, after notice and an opportunity for a hearing, to have knowingly or intentionally possessed a controlled substance within the meaning of the Controlled Substances Act (21 U.S.C. 812) shallbe liable to the United States for a civil penalty of not to exceed $5,000 for each violation. The Secretary shall notify the individual in writing of the amount of the civil penalty.
+In general.—Any individual on a vessel subject to the jurisdiction of the United States who is found by the Secretary, after notice and an opportunity for a hearing, to have knowingly or intentionally possessed a controlled substance within the meaning of the Controlled Substances Act (21 U.S.C. 812) shall be liable to the United States for a civil penalty of not to exceed $5,000 for each violation. The Secretary shall notify the individual in writing of the amount of the civil penalty.
 
 &emsp;(2)
 
@@ -46,7 +46,7 @@ Pub. L. 96–350, §3(g), (j), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–570, 
 
 46 App.:1903(j).
 
-In subsection (b), the words “the commission of which was the object of the attempt or conspiracy” are omitted as unnecessary.
+In subsection (b), the words "the commission of which was the object of the attempt or conspiracy" are omitted as unnecessary.
 
 #### References in Text
 

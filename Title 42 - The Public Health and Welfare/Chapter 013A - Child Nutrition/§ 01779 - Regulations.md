@@ -58,7 +58,7 @@ The Secretary shall prescribe such regulations as the Secretary may deem necessa
 
 #### (c) Transfer of funds; reserve for special projects
 
-In such regulations the Secretary may provide for the transfer of funds by any State between the programs authorized under this chapter and the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] on the basis of an approved State plan of operation for the use of the funds and may provide for the reserve of up to 1 per centum of the funds available for apportionment to any State to carry out special developmental projects.
+In such regulations the Secretary may provide for the transfer of funds by any State betweenthe programs authorized under this chapter and the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] on the basis of an approved State plan of operation for the use of the funds and may provide for the reserve of up to 1 per centum of the funds available for apportionment to any State to carry out special developmental projects.
 
 (Pub. L. 89–642, §10, Oct. 11, 1966, 80 Stat. 889; Pub. L. 91–248, §8, May 14, 1970, 84 Stat. 212; Pub. L. 92–433, §7, Sept. 26, 1972, 86 Stat. 729; Pub. L. 95–166, §17, Nov. 10, 1977, 91 Stat. 1345; Pub. L. 101–147, title III, §323, Nov. 10, 1989, 103 Stat. 916; Pub. L. 103–448, title II, §203, Nov. 2, 1994, 108 Stat. 4738; Pub. L. 104–193, title VII, §725, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 111–296, title II, §208, Dec. 13, 2010, 124 Stat. 3221.)
 
@@ -70,21 +70,21 @@ The Richard B. Russell National School Lunch Act, referred to in text, is act Ju
 
 <b>2010</b>—Pub. L. 111–296 inserted subsec. (a) heading, added subsec. (b), and struck out former subsec. (b) which related to sale of competitive foods approved by the Secretary.
 
-<b>1999</b>—Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act” wherever appearing.
+<b>1999</b>—Pub. L. 106–78 substituted "Richard B. Russell National School Lunch Act" for "National School Lunch Act" wherever appearing.
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–193 redesignated par. (1) as subsec. (b) and struck out pars. (2) to (4) which read as follows:
 
-“(2) The Secretary shall develop and provide to State agencies, for distribution to private elementary schools and to public elementary schools through local educational agencies, model language that bans the sale of competitive foods of minimal nutritional value anywhere on elementary school grounds before the end of the last lunch period.
+"(2) The Secretary shall develop and provide to State agencies, for distribution to private elementary schools and to public elementary schools through local educational agencies, model language that bans the sale of competitive foods of minimal nutritional value anywhere on elementary school grounds before the end of the last lunch period.
 
-“(3) The Secretary shall provide to State agencies, for distribution to private secondary schools and to public secondary schools through local educational agencies, a copy of regulations (in existence on the effective date of this paragraph) concerning the sale of competitive foods of minimal nutritional value.
+"(3) The Secretary shall provide to State agencies, for distribution to private secondary schools and to public secondary schools through local educational agencies, a copy of regulations (in existence on the effective date of this paragraph) concerning the sale of competitive foods of minimal nutritional value.
 
-“(4) Paragraphs (2) and (3) shall not apply to a State that has in effect a ban on the sale of competitive foods of minimal nutritional value in schools in the State.”
+"(4) Paragraphs (2) and (3) shall not apply to a State that has in effect a ban on the sale of competitive foods of minimal nutritional value in schools in the State."
 
-<b>1994</b>—Pub. L. 103–448 designated existing provisions as subsecs. (a) to (c), realigned margins, and in subsec. (b) designated existing provisions as par. (1), substituted “The regulations” for “Such regulations”, and added pars. (2) to (4).
+<b>1994</b>—Pub. L. 103–448 designated existing provisions as subsecs. (a) to (c), realigned margins, and in subsec. (b) designated existing provisions as par. (1), substituted "The regulations" for "Such regulations", and added pars. (2) to (4).
 
-<b>1989</b>—Pub. L. 101–147 substituted “the Secretary” for “he” before “may deem” in first sentence.
+<b>1989</b>—Pub. L. 101–147 substituted "the Secretary" for "he" before "may deem" in first sentence.
 
-<b>1977</b>—Pub. L. 95–166 inserted “approved by the Secretary” after “competitive foods”.
+<b>1977</b>—Pub. L. 95–166 inserted "approved by the Secretary" after "competitive foods".
 
 <b>1972</b>—Pub. L. 92–433 inserted provision that regulations issued under the section shall not prohibit the sale of competitive foods in food service facilities or areas during the time of service of food if the proceeds from the sales of such foods inures to the benefit of the schools or organizations of students approved by the school.
 

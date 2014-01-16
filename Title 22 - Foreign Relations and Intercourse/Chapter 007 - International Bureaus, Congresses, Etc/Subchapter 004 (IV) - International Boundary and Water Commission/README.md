@@ -30,7 +30,7 @@
 - [&sect; 00277d&#8211;18 - Construction, operation, and maintenance of works; Bridge of the Americas](%C2%A7%2000277d%E2%80%9318%20-%20Construction%2C%20operation%2C%20and%20maintenance%20of%20works%3B%20Bridge%20of%20the%20Americas.md)
 - [&sect; 00277d&#8211;19 - Compensation of owners and tenants to prevent economic injury; regulations](%C2%A7%2000277d%E2%80%9319%20-%20Compensation%20of%20owners%20and%20tenants%20to%20prevent%20economic%20injury%3B%20regulations.md)
 - [&sect; 00277d&#8211;20 - Limitation on application for reimbursement or compensation](%C2%A7%2000277d%E2%80%9320%20-%20Limitation%20on%20application%20for%20reimbursement%20or%20compensation.md)
-- [&sect; 00277d&#8211;21 - Attorneys&#8217; fees; penalties](%C2%A7%2000277d%E2%80%9321%20-%20Attorneys%E2%80%99%20fees%3B%20penalties.md)
+- [&sect; 00277d&#8211;21 - Attorneys' fees; penalties](%C2%A7%2000277d%E2%80%9321%20-%20Attorneys%27%20fees%3B%20penalties.md)
 - [&sect; 00277d&#8211;22 - Prohibition against duplicate payments; eligibility for payments unaffected by means employed for acquisition of property; rights&#8230;](%C2%A7%2000277d%E2%80%9322%20-%20Prohibition%20against%20duplicate%20payments%3B%20eligibility%20for%20payments%20unaffected%20by%20means%20employed%20for%20acquisition%20of%20property%3B%20rights%E2%80%A6.md)
 - [&sect; 00277d&#8211;23 - Taxation; exclusion from gross income](%C2%A7%2000277d%E2%80%9323%20-%20Taxation%3B%20exclusion%20from%20gross%20income.md)
 - [&sect; 00277d&#8211;24 - Definitions; exemption from administrative procedure provisions](%C2%A7%2000277d%E2%80%9324%20-%20Definitions%3B%20exemption%20from%20administrative%20procedure%20provisions.md)

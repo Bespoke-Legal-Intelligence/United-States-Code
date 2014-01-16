@@ -42,7 +42,7 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 &emsp;(A) the total equity of the subsidiary corporation, joint venture, or partnership; and
 
-&emsp;(B) the total voting power of the subsidiary corporation, joint venture, or partnership for the purpose of electing directors, the general partner, or principal officers.
+&emsp;(B) the total voting power of the subsidiary corporation, joint venture, or partnership forthe purpose of electing directors, the general partner, or principal officers.
 
 (3) No provision of this subsection shall—
 
@@ -60,7 +60,7 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 #### (g) Civil Rights Act of 1964
 
-For the purposes of implementation of the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\], a Native Corporation and corporations, partnerships, joint ventures, trusts, or affiliates in which the Native Corporation owns not less than 25 per centum of the equity shall be within the class of entities excluded from the definition of “employer” by section 701(b)(1) of Public Law 88–352 (78 Stat. 253), as amended \[42 U.S.C. 2000e(b)(1)\], or successor statutes.
+For the purposes of implementation of the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\], a Native Corporation and corporations, partnerships, joint ventures, trusts, or affiliates in which the Native Corporation owns not less than 25 per centum of the equity shall be within the class of entities excluded from the definition of "employer" by section 701(b)(1) of Public Law 88–352 (78 Stat. 253), as amended \[42 U.S.C. 2000e(b)(1)\], or successor statutes.
 
 (Pub. L. 92–203, §29, as added Pub. L. 94–204, §4, Jan. 2, 1976, 89 Stat. 1147; amended Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1812; Pub. L. 102–415, §§10, 11, Oct. 14, 1992, 106 Stat. 2115; Pub. L. 105–333, §5, Oct. 31, 1998, 112 Stat. 3131; Pub. L. 107–117, div. B, §702, Jan. 10, 2002, 115 Stat. 2312; Pub. L. 107–206, title III, §3003, Aug. 2, 2002, 116 Stat. 924; Pub. L. 110–234, title IV, §4002(b)(1)(A), (C), (2)(GG), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (C), (2)(GG), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
@@ -72,7 +72,7 @@ The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch
 
 Section 502 of P.L. 100–656, referred to in subsec. (e)(4)(B), is section 502 of title V of Pub. L. 100–656, Nov. 15, 1988, 102 Stat. 3881, which amended section 644(g) of Title 15, Commerce and Trade.
 
-Public Law 105–178, referred to in subsec. (e)(4)(C), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended,known as the Transportation Equity Act for the 21st Century. The Disadvantaged Business Enterprise provisions of the Act were contained in section 1101(b), formerly set out as a note under section 101 of Title 23, Highways. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 101 of Title 23 and Tables.
+Public Law 105–178, referred to in subsec. (e)(4)(C), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended, known as the Transportation Equity Act for the 21st Century. The Disadvantaged Business Enterprise provisions of the Act were contained in section 1101(b), formerly set out as a note under section 101 of Title 23, Highways. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 101 of Title 23 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (g), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
@@ -84,33 +84,33 @@ Subsec. (f) amended section 1702(3), (4) of Title 30, Mineral Lands and Mining, 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–246, §4002(b)(1)(C), (2)(GG), which directed substitution of “Food and Nutrition Act of 2008” for “Food Stamp Act”, was executed by making the substitution for “Food Stamp Act of 1964” to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §4002(b)(1)(C), (2)(GG), which directed substitution of "Food and Nutrition Act of 2008" for "Food Stamp Act", was executed by making the substitution for "Food Stamp Act of 1964" to reflect the probable intent of Congress.
 
-Pub. L. 110–246, §4002(b)(1)(A), (2)(GG), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, §4002(b)(1)(A), (2)(GG), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (c)(1). Pub. L. 110–246, §4002(b)(1)(A), (2)(GG), which directed substitution of “supplemental nutrition assistance program” for “food stamp program”, was executed by making the substitution for “Food Stamp Program” to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 110–246, §4002(b)(1)(A), (2)(GG), which directed substitution of "supplemental nutrition assistance program" for "food stamp program", was executed by making the substitution for "Food Stamp Program" to reflect the probable intent of Congress.
 
 <b>2002</b>—Subsec. (e)(4). Pub. L. 107–117 added par. (4).
 
-Subsec. (e)(4)(B). Pub. L. 107–206, §3003(1), substituted “subsections (e)(1) or (e)(2)” for “subsection (e)(2)” and directed the substitution of “small or small disadvantaged business subcontracting goals under section 502 of P.L. 100–656, provided that where lower tier subcontractors exist, the entity shall designate the appropriate contractor or contractors to receive such credit” for “obligations under section 7 of P.L. 87–305”, which was executed by making the substitution for “obligations under section 7 of Public Law 87–305”, to reflect the probable intent of Congress.
+Subsec. (e)(4)(B). Pub. L. 107–206, §3003(1), substituted "subsections (e)(1) or (e)(2)" for "subsection (e)(2)" and directed the substitution of "small or small disadvantaged business subcontracting goals under section 502 of P.L. 100–656, provided that where lower tier subcontractors exist, the entity shall designate the appropriate contractor or contractors to receive such credit" for "obligations under section 7 of P.L. 87–305", which was executed by making the substitution for "obligations under section 7 of Public Law 87–305", to reflect the probable intent of Congress.
 
-Subsec. (e)(4)(C). Pub. L. 107–206, §3003(2), substituted “subsection (e)(1) or (e)(2)” for “subsection (e)(2)”.
+Subsec. (e)(4)(C). Pub. L. 107–206, §3003(2), substituted "subsection (e)(1) or (e)(2)" for "subsection (e)(2)".
 
-<b>1998</b>—Subsec. (c)(3)(A). Pub. L. 105–333, §5(1), inserted “and on bonds received from a Native Corporation”.
+<b>1998</b>—Subsec. (c)(3)(A). Pub. L. 105–333, §5(1), inserted "and on bonds received from a Native Corporation".
 
-Subsec. (c)(3)(B). Pub. L. 105–333, §5(2), inserted before semicolon at end “or bonds issued by a Native Corporation which bonds shall be subject to the protection of section 1606(h) of this title until voluntarily and expressly sold or pledged by the shareholder subsequent to the date of distribution”.
+Subsec. (c)(3)(B). Pub. L. 105–333, §5(2), inserted before semicolon at end "or bonds issued by a Native Corporation which bonds shall be subject to the protection of section 1606(h) of this title until voluntarily and expressly sold or pledged by the shareholder subsequent to the date of distribution".
 
-<b>1992</b>—Subsec. (e)(1), (2). Pub. L. 102–415, §10, inserted “and economically disadvantaged” after “minority”.
+<b>1992</b>—Subsec. (e)(1), (2). Pub. L. 102–415, §10, inserted "and economically disadvantaged" after "minority".
 
-Subsec. (g). Pub. L. 102–415, §11, substituted “of entities excluded from the definition of ‘employer’ by” for “defined in” and “section 701(b)(1)” for “section 701(b)”.
+Subsec. (g). Pub. L. 102–415, §11, substituted "of entities excluded from the definition of 'employer' by" for "defined in" and "section 701(b)(1)" for "section 701(b)".
 
 <b>1988</b>—Subsecs. (c) to (g). Pub. L. 100–241 added subsecs. (c) to (g).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(A), (C), (2)(GG) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

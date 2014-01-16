@@ -6,11 +6,11 @@ This section applies to the promulgation or revision of any regulation issued un
 
 #### (b) Rulemaking docket
 
-Not later than the date of proposal of any action to which this section applies, the Administrator shall establish a rulemaking docket for such action (hereinafter in this subsection referred to as a “rule”). Whenever a rule applies only within a particular State, a second (identical) docket shall be established in the appropriate regional office of the Environmental Protection Agency.
+Not later than the date of proposal of any action to which this section applies, the Administrator shall establish a rulemaking docket for such action (hereinafter in this subsection referred to as a "rule"). Whenever a rule applies only within a particular State, a second (identical) docket shall be established in the appropriate regional office of the Environmental Protection Agency.
 
 #### (c) Inspection and copying
 
-(1) The rulemaking docket required under subsection (b) of this section shall be open for inspection by the public at reasonable times specified in the notice of proposed rulemaking. Any person may copy documents contained in the docket. The Administrator shall provide copyingfacilities which may be used at the expense of the person seeking copies, but the Administrator may waive or reduce such expenses in such instances as the public interest requires. Any person may request copies by mail if the person pays the expenses, including personnel costs to do the copying.
+(1) The rulemaking docket required under subsection (b) of this section shall be open for inspection by the public at reasonable times specified in the notice of proposed rulemaking. Any person may copy documents contained in the docket. The Administrator shall provide copying facilities which may be used at the expense of the person seeking copies, but the Administrator may waive or reduce such expenses in such instances as the public interest requires. Any person may request copies by mail if the person pays the expenses, including personnel costs to do the copying.
 
 (2)(A) Promptly upon receipt by the agency, all written comments and documentary information on the proposed rule received from any person for inclusion in the docket during the comment period shall be placed in the docket. The transcript of public hearings, if any, on the proposed rule shall also be included in the docket promptly upon receipt from the person who transcribed such hearings. All documents which become available after the proposed rule has been published and which the Administrator determines are of central relevance to the rulemaking shall be placed in the docket as soon as possible after their availability.
 

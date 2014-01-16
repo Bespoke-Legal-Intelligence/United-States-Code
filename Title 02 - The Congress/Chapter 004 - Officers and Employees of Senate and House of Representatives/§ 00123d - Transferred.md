@@ -1,0 +1,6 @@
+### §123d. Transferred
+
+#### Codification
+
+Section 123d was editorially reclassified as section 6636 of this title.
+

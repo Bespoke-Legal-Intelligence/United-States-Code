@@ -28,7 +28,7 @@ Reports.—(1) Each certification submitted under subsection (a) of this section
 
 &emsp;(A) the name and address of each person to whom the certification applies that is subject to the safety jurisdiction of the State authority;
 
-&emsp;(B) each accident or incident reported during the prior 12 months by that person involving a fatality, personal injury requiring hospitalization, or property damage or loss of more than an amount the Secretary establishes (even if the person sustaining the fatality, personal injury, or property damage or loss is not subject to the safety jurisdiction of the authority), any other accident the authority considers significant, and a summary of the investigation by the authority of the cause and circumstances surrounding the accident or incident;
+&emsp;(B) each accident or incident reported during the prior 12 months by that person involving a fatality, personal injury requiring hospitalization, or property damage or loss of more than an amount the Secretary establishes (even if the person sustaining the fatality, personal injury, or property damage or loss is not subject to the safety jurisdiction of the authority),any other accident the authority considers significant, and a summary of the investigation by the authority of the cause and circumstances surrounding the accident or incident;
 
 &emsp;(C) the record maintenance, reporting, and inspection practices conducted by the authority to enforce compliance with safety standards prescribed under this chapter to which the certification applies, including the number of inspections of pipeline facilities the authority made during the prior 12 months; and
 
@@ -62,23 +62,23 @@ Historical and Revision Notes
 
 60105(a)
 
-49 App.:1674(a) (1st sentence words before “that such State agency”).
+49 App.:1674(a) (1st sentence words before "that such State agency").
 
 Aug. 12, 1968, Pub. L. 90–481, §5(a), 82 Stat. 722; Aug. 22, 1972, Pub. L. 92–401, §1, 86 Stat. 616; Oct. 11, 1976, Pub. L. 94–477, §5(a), 90 Stat. 2073; Nov. 30, 1979, Pub. L. 96–129, §§101(b), 103(a), (b)(3), 109(g), (h)(1), 93 Stat. 990, 991, 996; Jan. 14, 1983, Pub. L. 97–468, §104, 96 Stat. 2543; Oct. 31, 1988, Pub. L. 100–561, §§103, 303(b)(1), 102 Stat. 2807, 2816; Oct. 24, 1992, Pub. L. 102–508, §§110(a), 111, 106 Stat. 3295.
 
 &nbsp;
 
-49 App.:2004(a) (1st sentence words before “that such State agency”).
+49 App.:2004(a) (1st sentence words before "that such State agency").
 
 Nov. 30, 1979, Pub. L. 96–129, §205(a), 93 Stat. 1006; Oct. 31, 1988, Pub. L. 100–561, §203, 102 Stat. 2810; Oct. 24, 1992, Pub. L. 102–508, §§209(a), 210, 106 Stat. 3304.
 
 60105(b)
 
-49 App.:1674(a) (1st sentence words after “an annual certification”).
+49 App.:1674(a) (1st sentence words after "an annual certification").
 
 &nbsp;
 
-49 App.:2004(a) (1st sentence words after “an annual certification”).
+49 App.:2004(a) (1st sentence words after "an annual certification").
 
 60105(c)
 
@@ -118,25 +118,25 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §5(c) (related to certification)
 
 49 App.:2004(f).
 
-In subsection (a), the words “applicable to same” are omitted as surplus. The words “for the facilities and transportation that complies with subsections (b) and (c) of this section” are added for clarity.
+In subsection (a), the words "applicable to same" are omitted as surplus. The words "for the facilities and transportation that complies with subsections (b) and (c) of this section" are added for clarity.
 
-In subsections (b) and (c), the words “to which the certification applies” and “to whom the certification applies” are added because of the restatement.
+In subsections (b) and (c), the words "to which the certification applies" and "to whom the certification applies" are added because of the restatement.
 
-In subsection (b)(2), the words “Federal safety” and “pursuant to State law” are omitted as surplus.
+In subsection (b)(2), the words "Federal safety" and "pursuant to State law" are omitted as surplus.
 
-In subsection (b)(7), the words “injunctive relief and civil penalties” are substituted for “injunctive and monetary sanctions” for clarity and consistency.
+In subsection (b)(7), the words "injunctive relief and civil penalties" are substituted for "injunctive and monetary sanctions" for clarity and consistency.
 
-In subsection (c)(1), before clause (A), the word “annual” is omitted as surplus. The words “in such form as the Secretary may by regulation provide” are omitted as surplus because of 49:322(a). In clause (B), the words “or loss” are added for consistency in the revised title and with other titles of the United States Code. In clause (C), the words “a detail of” are omitted as surplus.
+In subsection (c)(1), before clause (A), the word "annual" is omitted as surplus. The words "in such form as the Secretary may by regulation provide" are omitted as surplus because of 49:322(a). In clause (B), the words "or loss" are added for consistency in the revised title and with other titles of the United States Code. In clause (C), the words "a detail of" are omitted as surplus.
 
-In subsection (d), the words “with respect” and “new or amended Federal” are omitted as surplus.
+In subsection (d), the words "with respect" and "new or amended Federal" are omitted as surplus.
 
-In subsection (e), the words “conduct whatever . . . may be necessary” and “fully” are omitted as surplus. The words “with the Secretary” are substituted for “in any monitoring of their programs” for clarity.
+In subsection (e), the words "conduct whatever . . . may be necessary" and "fully" are omitted as surplus. The words "with the Secretary" are substituted for "in any monitoring of their programs" for clarity.
 
-In subsection (f), the words “prescribed under this chapter” are added for clarity. The word “reasonable” is omitted as surplus.
+In subsection (f), the words "prescribed under this chapter" are added for clarity. The word "reasonable" is omitted as surplus.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(4). Pub. L. 109–468 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “is encouraging and promoting programs designed to prevent damage by demolition, excavation, tunneling, or construction activity to the pipeline facilities to which the certification applies;”.
+<b>2006</b>—Subsec. (b)(4). Pub. L. 109–468 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "is encouraging and promoting programs designed to prevent damage by demolition, excavation, tunneling, or construction activity to the pipeline facilities to which the certification applies;".
 
-<b>1996</b>—Pub. L. 104–304 substituted “State pipeline safety program certifications” for “State certifications” in section catchline.
+<b>1996</b>—Pub. L. 104–304 substituted "State pipeline safety program certifications" for "State certifications" in section catchline.
 

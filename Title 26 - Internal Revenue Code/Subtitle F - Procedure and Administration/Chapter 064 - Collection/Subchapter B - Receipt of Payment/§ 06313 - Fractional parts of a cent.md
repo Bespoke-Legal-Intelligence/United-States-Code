@@ -6,5 +6,5 @@ In the payment of any tax imposed by this title, a fractional part of a cent sha
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “not payable by stamp” after “title”.
+<b>1976</b>—Pub. L. 94–455 struck out "not payable by stamp" after "title".
 

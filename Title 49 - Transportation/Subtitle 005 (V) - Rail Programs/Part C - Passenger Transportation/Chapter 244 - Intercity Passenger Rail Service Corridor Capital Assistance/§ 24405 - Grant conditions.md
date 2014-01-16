@@ -14,7 +14,7 @@ Buy America.—(1) The Secretary of Transportation may obligate an amount that m
 
 &emsp;(D) including domestic material will increase the cost of the overall project by more than 25 percent.
 
-(3) For purposes of this subsection, in calculating the components’ costs, labor costs involved in final assembly shall not be included in the calculation.
+(3) For purposes of this subsection, in calculating the components' costs, labor costs involved in final assembly shall not be included in the calculation.
 
 (4) If the Secretary determines that it is necessary to waive the application of paragraph (1) based on a finding under paragraph (2), the Secretary shall, before the date on which such finding takes effect—
 
@@ -32,7 +32,7 @@ Buy America.—(1) The Secretary of Transportation may obligate an amount that m
 
 (7) A person is ineligible to receive a contract or subcontract made with amounts authorized under this chapter if a court or department, agency, or instrumentality of the Government decides the person intentionally—
 
-&emsp;(A) affixed a “Made in America” label, or a label with an inscription having the same meaning, to goods sold in or shipped to the United States that are used in a project to which this subsection applies but not produced in the United States; or
+&emsp;(A) affixed a "Made in America" label, or a label with an inscription having the same meaning, to goods sold in or shipped to the United States that are used in a project to which this subsection applies but not produced in the United States; or
 
 &emsp;(B) represented that goods described in subparagraph (A) of this paragraph were produced in the United States.
 
@@ -46,7 +46,7 @@ Buy America.—(1) The Secretary of Transportation may obligate an amount that m
 
 (b)
 
-Operators Deemed Rail Carriers and Employers for Certain Purposes.—A person that conducts rail operations over rail infrastructure constructed or improved with funding provided in whole or in part in a grant made under this chapter shall be considered a rail carrier as defined in section 10102(5) of this title for purposes of this title and any other statute that adoptsthat definition or in which that definition applies, including—
+Operators Deemed Rail Carriers and Employers for Certain Purposes.—A person that conducts rail operations over rail infrastructure constructed or improved with funding provided in whole or in part in a grant made under this chapter shall be considered a rail carrier as defined in section 10102(5) of this title for purposes of this title and any other statute that adopts that definition or in which that definition applies, including—
 
 &emsp;(1) the Railroad Retirement Act of 1974 (45 U.S.C. 231 et seq.);
 
@@ -82,7 +82,7 @@ Replacement of Existing Intercity Passenger Rail Service.—
 
 Collective bargaining agreement for intercity passenger rail projects.—Any entity providing intercity passenger railroad transportation that begins operations after the date of enactment of this Act <sup>2</sup> on a project funded in whole or in part by grants made under this chapter and replaces intercity rail passenger service that was provided by Amtrak, unless such service was provided solely by Amtrak to another entity, as of such date shall enter into an agreement with the authorized bargaining agent or agents for adversely affected employees of the predecessor provider that—
 
-&emsp;&emsp;(A) gives each such qualified employee of the predecessor provider priority in hiring according to the employee's seniority on the predecessor provider for each position with the replacing entity that is in the employee's craft or class and is available within 3 years after the termination of the service being replaced;
+&emsp;&emsp;(A) gives each such qualified employee of the predecessor provider priority in hiring according to the employee's seniority on the predecessor provider for each position with the replacing entity that is in the employee's craft or class and is available within 3years after the termination of the service being replaced;
 
 &emsp;&emsp;(B) establishes a procedure for notifying such an employee of such positions;
 
@@ -138,15 +138,15 @@ The date of enactment of this Act, referred to in subsec. (d)(1), probably means
 
 Section 24102(4) of this title, referred to in subsecs. (e)(1) and (f), was redesignated section 24102(3) of this title by Pub. L. 110–432, div. B, title II, §201(a)(2), Oct. 16, 2008, 122 Stat. 4909.
 
-Section 5302 of this title, referred to in subsec. (e)(1), was amended generally by Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623, and, as so amended, defines the terms “State” and “local governmental authority” in other pars.
+Section 5302 of this title, referred to in subsec. (e)(1), was amended generally by Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623, and, as so amended, defines the terms "State" and "local governmental authority" in other pars.
 
 #### Assistance With Buy America Waiver Requests
 
-Pub. L. 110–432, div. B, title III, §301(c), Oct. 16, 2008, 122 Stat. 4946, provided that: “In implementing section 24405(a) of title 49, United States Code, the Federal Highway Administration shall, upon request by the Federal Railroad Administration, assist the Federal Railroad Administration in developing a process for posting on its website or distributing via email notices of waiver requests received pursuant to such subsection and soliciting public comments on the intent to issue a waiver. The Federal Railroad Administration's development of such a process does not relieve the Federal Railroad Administration of the requirements under paragraph (4) of such subsection.”
+Pub. L. 110–432, div. B, title III, §301(c), Oct. 16, 2008, 122 Stat. 4946, provided that: "In implementing section 24405(a) of title 49, United States Code, the Federal Highway Administration shall, upon request by the Federal Railroad Administration, assist the Federal Railroad Administration in developing a process for posting on its website or distributing via email notices of waiver requests received pursuant to such subsection and soliciting public comments on the intent to issue a waiver. The Federal Railroad Administration's development of such a process does not relieve the Federal Railroad Administration of the requirements under paragraph (4) of such subsection."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(45”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(45".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “governmental”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "governmental".</i>
 

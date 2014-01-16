@@ -48,7 +48,7 @@ Not later than 180 days after August 3, 2007, the Secretary of Homeland Security
 
 #### References in Text
 
-Section 7201, referred to in subsec. (a), is section 7201 of Pub. L. 108–458, title VII, Dec. 17, 2004, 118 Stat. 3808, which enacted section 1776 of Title 8, Aliens and Nationality, and provisions set out as notes under section 1776 of Title 8 and sections 403–1 and 404o of Title 50, War and National Defense.
+Section 7201, referred to in subsec. (a), is section 7201 of Pub. L. 108–458, title VII, Dec. 17, 2004, 118 Stat. 3808, which enacted section 1776 of Title 8, Aliens and Nationality, and provisions set out as notes under section 1776 of Title 8 and sections 3024 and 3056 of Title 50, War and National Defense.
 
 #### Codification
 
@@ -56,7 +56,7 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–53 reenacted section catchline without change and amended text generally, substituting provisions relating to establishment of a program to oversee the implementation of the Secretary's responsibilities with respect to terrorist travel not later than 90 days after Aug. 3, 2007, and relating to the head of the program, such official's duties, and report on implementation for provisions relating to establishment of a program to oversee the implementation of the Department's responsibilities with respect to terrorist travel.
+<b>2007</b>—Pub. L. 110–53 reenacted section catchline without change and amended text generally, substituting provisions relating to establishment of a program to oversee the implementation of the Secretary's responsibilities with respect to terrorist travel not later than 90 days after Aug. 3, 2007, and relating to the head ofthe program, such official's duties, and report on implementation for provisions relating to establishment of a program to oversee the implementation of the Department's responsibilities with respect to terrorist travel.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

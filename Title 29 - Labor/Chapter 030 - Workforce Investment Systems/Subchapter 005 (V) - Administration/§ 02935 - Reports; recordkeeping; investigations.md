@@ -30,7 +30,7 @@
 
 #### (C) Fees to recover costs
 
-&emsp;&emsp;Such recipients may charge fees sufficient to recover costs applicable to the processingof requests for records under subparagraph (A).
+&emsp;&emsp;Such recipients may charge fees sufficient to recover costs applicable to the processing of requests for records under subparagraph (A).
 
 #### (b) Investigations of use of funds
 
@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out any audit under this chapter (other than any initial audit survey or any audit investigating possible criminal or fraudulent conduct), either directly or through grant or contract, the Secretary, the Inspector General of the Department of Labor, or the Comptroller General of the United States shall furnish to the State, recipient, or other entity to be audited, advance notification of the overall objectives and purposes of the audit, and any extensive recordkeeping or data requirements to be met, not later than 14 days (or as soon as practicable), prior to the commencement of the audit.
+&emsp;&emsp;In carrying out any audit under this chapter (other than any initial audit survey orany audit investigating possible criminal or fraudulent conduct), either directly or through grant or contract, the Secretary, the Inspector General of the Department of Labor, or the Comptroller General of the United States shall furnish to the State, recipient, or other entity to be audited, advance notification of the overall objectives and purposes of the audit, and any extensive recordkeeping or data requirements to be met, not later than 14 days (or as soon as practicable), prior to the commencement of the audit.
 
 #### (B) Notification requirement
 
@@ -122,7 +122,7 @@ In requiring entities to maintain records of costs by category under this chapte
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 The Inspector General Act of 1978, referred to in subsec. (b)(3)(D), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

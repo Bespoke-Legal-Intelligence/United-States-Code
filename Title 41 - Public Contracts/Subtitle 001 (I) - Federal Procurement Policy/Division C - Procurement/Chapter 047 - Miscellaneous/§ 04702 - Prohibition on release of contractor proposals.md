@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “proposal” means a proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
+Definition.—In this section, the term "proposal" means a proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
 (b)
 
@@ -38,5 +38,5 @@ June 30, 1949, ch. 288, title III, §303B(m), as added Pub. L. 104–201, title 
 
 41:253b(m)(2).
 
-In subsection (b), the words “Except as provided in paragraph (2)” are omitted as unnecessary.
+In subsection (b), the words "Except as provided in paragraph (2)" are omitted as unnecessary.
 

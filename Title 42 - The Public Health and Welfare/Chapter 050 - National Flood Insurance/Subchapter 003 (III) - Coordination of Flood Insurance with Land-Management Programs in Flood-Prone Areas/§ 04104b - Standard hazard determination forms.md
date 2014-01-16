@@ -24,7 +24,7 @@ In providing information regarding special flood hazards on the form developed u
 
 #### (e) Reliance on previous determination
 
-Any person increasing, extending, renewing, or purchasing a loan secured by improved real estate or a mobile home may rely on a previous determination of whether the building or mobile home is located in an area having special flood hazards (and shall not be liable for any error in such previous determination), if the previous determination was made not more than 7 years before the date of the transaction and the basis forthe previous determination has been set forth on a form under this section, unless—
+Any person increasing, extending, renewing, or purchasing a loan secured by improved real estate or a mobile home may rely on a previous determination of whether the building or mobile home is located in an area having special flood hazards (and shall not be liable for any error in such previous determination), if the previous determination was made not more than 7 years before the date of the transaction and the basis for the previous determination has been set forth on a form under this section, unless—
 
 &emsp;(1) map revisions or updates pursuant to section 4101(f) of this title after such previous determination have resulted in the building or mobile home being located in an area having special flood hazards; or
 
@@ -38,11 +38,11 @@ The regulations under this section requiring use of the form established pursuan
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(1), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(1), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-<b>2012</b>—Subsecs. (a), (b)(2), (e)(2). Pub. L. 112–141 substituted “Administrator” for “Director” wherever appearing.
+<b>2012</b>—Subsecs. (a), (b)(2), (e)(2). Pub. L. 112–141 substituted "Administrator" for "Director" wherever appearing.
 
 #### Transfer of Functions
 

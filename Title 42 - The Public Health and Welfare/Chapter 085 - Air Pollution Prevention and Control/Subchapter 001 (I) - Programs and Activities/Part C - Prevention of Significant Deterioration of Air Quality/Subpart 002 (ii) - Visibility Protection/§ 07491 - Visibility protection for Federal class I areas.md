@@ -6,7 +6,7 @@
 
 (2) Not later than six months after August 7, 1977, the Secretary of the Interior in consultation with other Federal land managers shall review all mandatory class I Federal areas and identify those where visibility is an important value of the area. From time to time the Secretary of the Interior may revise such identifications. Not later than one year after August 7, 1977, the Administrator shall, after consultation with the Secretary of the Interior, promulgate a list of mandatory class I Federal areas in which he determines visibility is an important value.
 
-(3) Not later than eighteen months after August 7, 1977, the Administrator shall complete astudy and report to Congress on available methods for implementing the national goal set forth in paragraph (1). Such report shall include recommendations for—
+(3) Not later than eighteen months after August 7, 1977, the Administrator shall complete a study and report to Congress on available methods for implementing the national goal set forth in paragraph (1). Such report shall include recommendations for—
 
 &emsp;(A) methods for identifying, characterizing, determining, quantifying, and measuring visibility impairment in Federal areas referred to in paragraph (1), and
 
@@ -26,7 +26,7 @@ Regulations under subsection (a)(4) of this section shall—
 
 &emsp;(2) require each applicable implementation plan for a State in which any area listed by the Administrator under subsection (a)(2) of this section is located (or for a State the emissions from which may reasonably be anticipated to cause or contribute to any impairment of visibility in any such area) to contain such emission limits, schedules of compliance and other measures as may be necessary to make reasonable progress toward meeting the national goal specified in subsection (a) of this section, including—
 
-&emsp;&emsp;(A) except as otherwise provided pursuant to subsection (c) of this section, a requirement that each major stationary source which is in existence on August 7, 1977, but which has not been in operation for more than fifteen years as of such date, and which, as determined by the State (or the Administrator in the case of a plan promulgated under section 7410(c) of this title) emits any air pollutant which may reasonably be anticipated to cause or contribute to any impairment of visibility in any such area, shall procure, install, and operate, as expeditiously as practicable (and maintain thereafter) the best available retrofit technology, as determined by the State (or the Administrator in the case of a plan promulgated under section 7410(c) of this title) for controlling emissions from such source for the purpose of eliminating or reducing any such impairment, and
+&emsp;&emsp;(A) except as otherwise provided pursuant to subsection (c) of this section, a requirement that each major stationary source which is in existence on August 7, 1977, but which has not been in operation for more than fifteen years as of such date, andwhich, as determined by the State (or the Administrator in the case of a plan promulgated under section 7410(c) of this title) emits any air pollutant which may reasonably be anticipated to cause or contribute to any impairment of visibility in any such area, shall procure, install, and operate, as expeditiously as practicable (and maintain thereafter) the best available retrofit technology, as determined by the State (or the Administrator in the case of a plan promulgated under section 7410(c) of this title) for controlling emissions from such source for the purpose of eliminating or reducing any such impairment, and
 
 &emsp;&emsp;(B) a long-term (ten to fifteen years) strategy for making reasonable progress toward meeting the national goal specified in subsection (a) of this section.
 
@@ -50,7 +50,7 @@ In promulgating regulations under this section, the Administrator shall not requ
 
 #### (f) Nondiscretionary duty
 
-For purposes of section 7604(a)(2) of this title, the meeting of the national goal specified in subsection (a)(1) of this section by any specific date or dates shall not be considered a “nondiscretionary duty” of the Administrator.
+For purposes of section 7604(a)(2) of this title, the meeting of the national goal specified in subsection (a)(1) of this section by any specific date or dates shall not be considered a "nondiscretionary duty" of the Administrator.
 
 #### (g) Definitions
 
@@ -60,15 +60,15 @@ For the purpose of this section—
 
 &emsp;(2) in determining best available retrofit technology the State (or the Administrator in determining emission limitations which reflect such technology) shall take into consideration the costs of compliance, the energy and nonair quality environmental impacts of compliance, any existing pollution control technology in use at the source, the remaining useful life of the source, and the degree of improvement in visibility which may reasonably be anticipated to result from the use of such technology;
 
-&emsp;(3) the term “manmade air pollution” means air pollution which results directly or indirectly from human activities;
+&emsp;(3) the term "manmade air pollution" means air pollution which results directly or indirectly from human activities;
 
-&emsp;(4) the term “as expeditiously as practicable” means as expeditiously as practicable but in no event later than five years after the date of approval of a plan revision under this section (or the date of promulgation of such a plan revision in the case of action by the Administrator under section 7410(c) of this title for purposes of this section);
+&emsp;(4) the term "as expeditiously as practicable" means as expeditiously as practicable but in no event later than five years after the date of approval of a plan revision under this section (or the date of promulgation of such a plan revision in the case of action by the Administrator under section 7410(c) of this title for purposes of this section);
 
-&emsp;(5) the term “mandatory class I Federal areas” means Federal areas which may not be designated as other than class I under this part;
+&emsp;(5) the term "mandatory class I Federal areas" means Federal areas which may not be designated as other than class I under this part;
 
-&emsp;(6) the terms “visibility impairment” and “impairment of visibility” shall include reduction in visual range and atmospheric discoloration; and
+&emsp;(6) the terms "visibility impairment" and "impairment of visibility" shall include reduction in visual range and atmospheric discoloration; and
 
-&emsp;(7) the term “major stationary source” means the following types of stationary sources with the potential to emit 250 tons or more of any pollutant: fossil-fuel fired steam electric plants of more than 250 million British thermal units per hour heat input, coal cleaning plants (thermal dryers), kraft pulp mills, Portland Cement plants, primary zinc smelters, iron and steel mill plants, primary aluminum ore reduction plants, primary copper smelters, municipal incinerators capable of charging more than 250 tons of refuse per day, hydrofluoric, sulfuric, and nitric acid plants, petroleum refineries, lime plants, phosphate rock processing plants, coke oven batteries, sulfur recovery plants, carbon black plants (furnace process), primary lead smelters, fuel conversion plants, sintering plants, secondary metal production facilities, chemical process plants, fossil-fuel boilers of more than 250 million British thermal units per hour heat input, petroleum storage and transfer facilities with a capacity exceeding 300,000 barrels, taconite ore processing facilities, glass fiber processing plants, charcoal production facilities.
+&emsp;(7) the term "major stationary source" means the following types of stationary sources with the potential to emit 250 tons or more of any pollutant: fossil-fuel fired steam electric plants of more than 250 million British thermal units per hour heat input, coal cleaning plants (thermal dryers), kraft pulp mills, Portland Cement plants, primary zinc smelters, iron and steel mill plants, primary aluminum ore reduction plants, primary copper smelters, municipal incinerators capable of charging more than 250 tons of refuse per day, hydrofluoric, sulfuric, and nitric acid plants, petroleum refineries, lime plants, phosphate rock processing plants, coke oven batteries, sulfur recovery plants, carbon black plants (furnace process), primary lead smelters, fuel conversion plants, sintering plants, secondary metal production facilities, chemical process plants, fossil-fuel boilers of more than 250 million British thermal units per hour heat input, petroleum storage and transfer facilities with a capacity exceeding 300,000 barrels, taconite ore processing facilities, glass fiber processing plants, charcoal production facilities.
 
 (July 14, 1955, ch. 360, title I, §169A, as added Pub. L. 95–95, title I, §128, Aug. 7, 1977, 91 Stat. 742.)
 

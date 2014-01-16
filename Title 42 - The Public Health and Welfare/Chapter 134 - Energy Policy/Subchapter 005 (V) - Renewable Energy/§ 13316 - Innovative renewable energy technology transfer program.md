@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-The Secretary, through the Agency for International Development, and in consultation with the other members of the interagency working group established under section 6276(d) of this title (in this section referred to as the “interagency working group”), shall establish a renewable energy technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after October 24, 1992, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assisted by the Agency for International Development, the Secretary may enter into agreements with other appropriate Federal agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement, each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of the agreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
+The Secretary, through the Agency for International Development, and in consultation with the other members of the interagency working group established under section 6276(d) of this title (in this section referred to as the "interagency working group"), shall establish a renewable energy technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after October 24, 1992, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assisted by the Agency for International Development, the Secretary may enter into agreements with other appropriate Federal agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement, each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of the agreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
 
 #### (b) Purposes of program
 
@@ -14,7 +14,7 @@ The purposes of the technology transfer program under this section are to—
 
 &emsp;(3) encourage the export of United States renewable energy technologies, including services related thereto, to those countries that have a need for developmentally sound facilities to provide energy derived from renewable resources;
 
-&emsp;(4) develop markets for United States renewable energy technologies to be utilized in meeting the energy and environmental requirements of foreign countries;
+&emsp;(4) develop markets for United States renewable energy technologies to be utilized inmeeting the energy and environmental requirements of foreign countries;
 
 &emsp;(5) better ensure that United States participation in energy-related projects in foreign countries includes participation by United States firms as well as utilization of United States technologies that have been developed or demonstrated in the United States through publicly or privately funded demonstration programs;
 
@@ -34,7 +34,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 (1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall—
 
-&emsp;(A) establish appropriate financial mechanisms to increase the participation of United States firms in energy projects utilizing United States renewable energy technologies,and services related thereto, in developing countries;
+&emsp;(A) establish appropriate financial mechanisms to increase the participation of United States firms in energy projects utilizing United States renewable energy technologies, and services related thereto, in developing countries;
 
 &emsp;(B) utilize available financial assistance authorized by this section to counterbalance assistance provided by foreign governments to non-United States firms; and
 
@@ -76,7 +76,7 @@ Pursuant to the agreements under subsection (a) of this section, the Secretary, 
 
 &emsp;(3) consult with government officials in host countries and, as appropriate, with representatives of utilities or other entities in host countries, to determine interest in and support for potential projects; and
 
-&emsp;(4) determine whether each project selected under this section is developmentally sound, as determined under the criteria developed by the Development Assistance Committee of the Organization for Economic Cooperation and Development.
+&emsp;(4) determine whether each project selected under this section is developmentally sound,as determined under the criteria developed by the Development Assistance Committee of the Organization for Economic Cooperation and Development.
 
 #### (h) Selection of projects
 
@@ -130,7 +130,7 @@ The Secretary and the Administrator of the Agency for International Development 
 
 For purposes of this section—
 
-&emsp;(1) the term “host country” means a foreign country which is—
+&emsp;(1) the term "host country" means a foreign country which is—
 
 &emsp;&emsp;(A) the participant in or the site of the proposed renewable energy technology project; and
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) a developing country.
 
-&emsp;(2) the term “developing country” includes, but is not limited to, countries in Central and Eastern Europe or in the independent states of the former Soviet Union.
+&emsp;(2) the term "developing country" includes, but is not limited to, countries in Central and Eastern Europe or in the independent states of the former Soviet Union.
 
 #### (m) Authorization of appropriations
 
@@ -148,5 +148,5 @@ There are authorized to be appropriated to the Secretary to carry out the progra
 
 (Pub. L. 102–486, title XII, §1211, Oct. 24, 1992, 106 Stat. 2965.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “13316(b)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "13316(b)".</i>
 

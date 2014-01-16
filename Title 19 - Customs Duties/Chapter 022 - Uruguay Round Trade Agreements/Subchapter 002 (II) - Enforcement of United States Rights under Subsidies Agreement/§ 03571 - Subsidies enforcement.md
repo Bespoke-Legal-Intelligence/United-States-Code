@@ -122,51 +122,51 @@ For purposes of this section:
 
 #### (1) Adverse effects
 
-&emsp;The term “adverse effects” has the meaning given that term in Articles 5(a) and 5(c) of the Subsidies Agreement.
+&emsp;The term "adverse effects" has the meaning given that term in Articles 5(a) and 5(c) of the Subsidies Agreement.
 
 #### (2) Administering authority
 
-&emsp;The term “administering authority” has the meaning given that term in section 771(1) of the Tariff Act of 1930 (19 U.S.C. 1677(1)).
+&emsp;The term "administering authority" has the meaning given that term in section 771(1) of the Tariff Act of 1930 (19 U.S.C. 1677(1)).
 
 #### (3) Commission
 
-&emsp;The term “Commission” means the United States International Trade Commission.
+&emsp;The term "Commission" means the United States International Trade Commission.
 
 #### (4) Interested party
 
-&emsp;The term “interested party” means a party described in subparagraph (C), (D), (E), (F), or (G) of section 771(9) of the Tariff Act of 1930 (19 U.S.C. 1677(9)(C), (D), (E), (F), or (G)).
+&emsp;The term "interested party" means a party described in subparagraph (C), (D), (E), (F), or (G) of section 771(9) of the Tariff Act of 1930 (19 U.S.C. 1677(9)(C), (D), (E), (F), or (G)).
 
 #### (5) Nonactionable subsidy
 
-&emsp;The term “nonactionable subsidy” means a subsidy described in Article 8.1(b) of the Subsidies Agreement.
+&emsp;The term "nonactionable subsidy" means a subsidy described in Article 8.1(b) of the Subsidies Agreement.
 
 #### (6) Notified subsidy program
 
-&emsp;The term “notified subsidy program” means a subsidy program which has been notified pursuant to Article 8.3 of the Subsidies Agreement.
+&emsp;The term "notified subsidy program" means a subsidy program which has been notified pursuant to Article 8.3 of the Subsidies Agreement.
 
 #### (7) Serious adverse effects
 
-&emsp;The term “serious adverse effects” has the meaning given that term in Article 9.1 of the Subsidies Agreement.
+&emsp;The term "serious adverse effects" has the meaning given that term in Article 9.1 of the Subsidies Agreement.
 
 #### (8) Subsidies Agreement
 
-&emsp;The term “Subsidies Agreement” means the Agreement on Subsidies and Countervailing Measures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
+&emsp;The term "Subsidies Agreement" means the Agreement on Subsidies and Countervailing Measures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
 
 #### (9) Subsidies Committee
 
-&emsp;The term “Subsidies Committee” means the committee established pursuant to Article 24 of the Subsidies Agreement.
+&emsp;The term "Subsidies Committee" means the committee established pursuant to Article 24 of the Subsidies Agreement.
 
 #### (10) Subsidy
 
-&emsp;The term “subsidy” has the meaning given that term in Article 1 of the Subsidies Agreement.
+&emsp;The term "subsidy" has the meaning given that term in Article 1 of the Subsidies Agreement.
 
 #### (11) Trade Representative
 
-&emsp;The term “Trade Representative” means the United States Trade Representative.
+&emsp;The term "Trade Representative" means the United States Trade Representative.
 
 #### (12) Violation of Article 8
 
-&emsp;The term “violation of Article 8” means the failure of a notified subsidy program or an individual subsidy granted pursuant to a notified subsidy program to meet the applicable conditions and criteria described in Article 8.2 of the Subsidies Agreement.
+&emsp;The term "violation of Article 8" means the failure of a notified subsidy program or an individual subsidy granted pursuant to a notified subsidy program to meet the applicable conditions and criteria described in Article 8.2 of the Subsidies Agreement.
 
 #### (i) Treatment of proprietary information
 
@@ -182,11 +182,11 @@ The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 
 
 This Act, referred to in subsec. (e)(1)(C)(ii), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of this title and Tables.
 
-This subchapter, referred to in subsec. (i), was in the original “this part”, meaning part 4 (§§281 to 283) of subtitle B of title II of Pub. L. 103–465, which enacted this subchapter and amended sections 1671b, 1675, 1677d, and 2191 of this title. For complete classification of this part to the Code, see Tables.
+This subchapter, referred to in subsec. (i), was in the original "this part", meaning part 4 (§§281 to 283) of subtitle B of title II of Pub. L. 103–465, which enacted this subchapter and amended sections 1671b, 1675, 1677d, and 2191 of this title. For complete classification of this part to the Code, see Tables.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (h)(4). Pub. L. 104–295 struck out “(A),” after “1677(9)”.
+<b>1996</b>—Subsec. (h)(4). Pub. L. 104–295 struck out "(A)," after "1677(9)".
 
 #### Effective Date
 

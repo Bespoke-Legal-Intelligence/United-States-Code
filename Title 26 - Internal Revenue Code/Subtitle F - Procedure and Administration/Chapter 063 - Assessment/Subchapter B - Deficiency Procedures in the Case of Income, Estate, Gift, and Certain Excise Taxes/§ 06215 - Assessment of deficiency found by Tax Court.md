@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-If the taxpayer files a petition with the Tax Court, the entire amount redetermined as the deficiency by the decision of the Tax Court which has become final shall be assessed and shall be paid upon notice and demand from the Secretary. No part of the amount determined as a deficiency by the Secretary but disallowed as such by the decision of the Tax Court which has become final shall be assessed or be collected by levy or by proceeding in court with or without assessment.
+If the taxpayer files a petition with the Tax Court, the entire amount redetermined as the deficiency by the decision of the Tax Courtwhich has become final shall be assessed and shall be paid upon notice and demand from the Secretary. No part of the amount determined as a deficiency by the Secretary but disallowed as such by the decision of the Tax Court which has become final shall be assessed or be collected by levy or by proceeding in court with or without assessment.
 
 #### (b) Cross references
 
@@ -24,11 +24,11 @@ If the taxpayer files a petition with the Tax Court, the entire amount redetermi
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b)(7), (8). Pub. L. 99–514 redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “For proration of deficiency to installments, see section 6152(c).”
+<b>1986</b>—Subsec. (b)(7), (8). Pub. L. 99–514 redesignated par. (8) as (7) and struck out former par. (7) which read as follows: "For proration of deficiency to installments, see section 6152(c)."
 
-<b>1976</b>—Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
-Subsec. (b)(5). Pub. L. 94–455, §1906(a)(16), struck out “60 Stat. 48;” before “50 U.S.C. App. 1742”.
+Subsec. (b)(5). Pub. L. 94–455, §1906(a)(16), struck out "60 Stat. 48;" before "50 U.S.C. App. 1742".
 
 #### Effective Date of 1986 Amendment
 

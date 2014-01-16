@@ -12,11 +12,11 @@ The Secretary shall award grants for the funding of State Domestic Violence Coal
 
 #### (2) Definition
 
-&emsp;For purposes of this subsection, the term “covered territories” means Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+&emsp;For purposes of this subsection, the term "covered territories" means Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
 #### (c) Application
 
-Each State Domestic Violence Coalition desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary determines to be essential to carry out the objectives of this section. The application submitted by the coalition for the grant shall provide documentation of the coalition's work, satisfactory to the Secretary, demonstrating that the coalition—
+Each State Domestic Violence Coalition desiring a grant under this section shall submit anapplication to the Secretary at such time, in such manner, and containing such information as the Secretary determines to be essential to carry out the objectives of this section. The application submitted by the coalition for the grant shall provide documentation of the coalition's work, satisfactory to the Secretary, demonstrating that the coalition—
 
 &emsp;(1) meets all of the applicable requirements set forth in this chapter; and
 

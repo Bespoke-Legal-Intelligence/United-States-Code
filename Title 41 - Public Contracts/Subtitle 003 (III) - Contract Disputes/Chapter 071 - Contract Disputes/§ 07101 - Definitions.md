@@ -4,11 +4,11 @@ In this chapter:
 
 &emsp;(1)
 
-Administrator.—The term “Administrator” means the Administrator for Federal Procurement Policy appointed pursuant to section 1102 of this title.
+Administrator.—The term "Administrator" means the Administrator for Federal Procurement Policy appointed pursuant to section 1102 of this title.
 
 &emsp;(2)
 
-Agency board or agency board of contract appeals.—The term “agency board” or “agency board of contract appeals” means—
+Agency board or agency board of contract appeals.—The term "agency board" or "agency board of contract appeals" means—
 
 &emsp;&emsp;(A) the Armed Services Board;
 
@@ -20,19 +20,19 @@ Agency board or agency board of contract appeals.—The term “agency board” 
 
 &emsp;(3)
 
-Agency head.—The term “agency head” means the head and any assistant head of an executive agency. The term may include the chief official of a principal division of an executive agency if the head of the executive agency so designates that chief official.
+Agency head.—The term "agency head" means the head and any assistant head of an executive agency. The term may include the chief official of a principal division of an executive agency if the head of the executive agency so designates that chief official.
 
 &emsp;(4)
 
-Armed services board.—The term “Armed Services Board” means the Armed Services Board of Contract Appeals established under section 7105(a)(1) of this title.
+Armed services board.—The term "Armed Services Board" means the Armed Services Board of Contract Appeals established under section 7105(a)(1) of this title.
 
 &emsp;(5)
 
-Civilian board.—The term “Civilian Board” means the Civilian Board of Contract Appeals established under section 7105(b)(1) of this title.
+Civilian board.—The term "Civilian Board" means the Civilian Board of Contract Appeals established under section 7105(b)(1) of this title.
 
 &emsp;(6)
 
-Contracting officer.—The term “contracting officer”—
+Contracting officer.—The term "contracting officer"—
 
 &emsp;&emsp;(A) means an individual who, by appointment in accordance with applicable regulations, has the authority to make and administer contracts and to make determinations and findings with respect to contracts; and
 
@@ -40,11 +40,11 @@ Contracting officer.—The term “contracting officer”—
 
 &emsp;(7)
 
-Contractor.—The term “contractor” means a party to a Federal Government contract other than the Federal Government.
+Contractor.—The term "contractor" means a party to a Federal Government contract other than the Federal Government.
 
 &emsp;(8)
 
-Executive agency.—The term “executive agency” means—
+Executive agency.—The term "executive agency" means—
 
 &emsp;&emsp;(A) an executive department as defined in section 101 of title 5;
 
@@ -56,7 +56,7 @@ Executive agency.—The term “executive agency” means—
 
 &emsp;(9)
 
-Misrepresentation of fact.—The term “misrepresentation of fact” means a false statement of substantive fact, or conduct that leads to a belief of a substantive fact material to proper understanding of the matter in hand, made with intent to deceive or mislead.
+Misrepresentation of fact.—The term "misrepresentation of fact" means a false statement of substantive fact, or conduct that leads to a belief of a substantive fact material to proper understanding of the matter in hand, made with intent to deceive or mislead.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3816.)
 
@@ -76,7 +76,7 @@ Historical and Revision Notes
 
 Pub. L. 95–563, §2, Nov. 1, 1978, 92 Stat. 2383; Pub. L. 104–106, div. D, title XLIII, §4322(b)(5), Feb. 10, 1996, 110 Stat. 677; Pub. L. 109–163, div. A, title VIII, §847(d)(1), Jan. 6, 2006, 119 Stat. 3393.
 
-In paragraph (8)(C), the words “Government Accountability Office” are substituted for “General Accounting Office” because of section 8(b) of the GAO Human Capital Reform Act of 2004 (Public Law 108–271, 118 Stat. 814, 31 U.S.C. 702 note).
+In paragraph (8)(C), the words "Government Accountability Office" are substituted for "General Accounting Office" because of section 8(b) of the GAO Human Capital Reform Act of 2004 (Public Law 108–271, 118 Stat. 814, 31 U.S.C. 702 note).
 
-In paragraph (8)(D), the words “section 9101(3) of title 31” are substituted for “section 846 of title 31” because of section 4(b) of Public Law 97–258 (31 U.S.C. note prec. 101).
+In paragraph (8)(D), the words "section 9101(3) of title 31" are substituted for "section 846 of title 31" because of section 4(b) of Public Law 97–258 (31 U.S.C. note prec. 101).
 

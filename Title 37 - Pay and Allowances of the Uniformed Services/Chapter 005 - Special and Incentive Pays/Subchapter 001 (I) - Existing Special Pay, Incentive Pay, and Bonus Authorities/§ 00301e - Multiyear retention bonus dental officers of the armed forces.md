@@ -22,7 +22,7 @@ Officers Automatically Eligible.—Subsection (a) applies to an officer of the a
 
 (c)
 
-Extension of Bonus to Other Dental Officers.—At the discretion of the Secretary ofthe military department concerned, the Secretary may enter into a written agreement described in subsection (a)(1) with a dental officer who does not have the dental specialty specified in subsection (b)(2), and pay a retention bonus to such an officer as provided in this section, if the officer otherwise satisfies the eligibility requirements specified in subsection (b). The Secretaries shall exercise the authority provided in this section in a manner consistent with regulations prescribed by the Secretary of Defense.
+Extension of Bonus to Other Dental Officers.—At the discretion of the Secretary of the military department concerned, the Secretary may enter into a written agreement described in subsection (a)(1) with a dental officer who does not have the dental specialty specified in subsection (b)(2), and pay a retention bonus to such an officer as provided in this section, if the officer otherwise satisfies the eligibility requirements specified in subsection (b). The Secretaries shall exercise the authority provided in this section in a manner consistent with regulations prescribed by the Secretary of Defense.
 
 (d)
 
@@ -38,7 +38,7 @@ Section 302b(g) of this title, referred to in subsec. (b)(4), was redesignated s
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–163 amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to complete total period of active duty.
 
-<b>2002</b>—Subsec. (a)(2). Pub. L. 107–314 substituted “$50,000” for “$14,000”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–314 substituted "$50,000" for "$14,000".
 
 #### Savings Provision
 

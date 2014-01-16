@@ -26,7 +26,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (2) Agency regulations
 
-&emsp;Except as provided in paragraph (3), the regulations issued under paragraph (1) shall bethe same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+&emsp;Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 #### (3) Irregular work schedules
 
@@ -57,4 +57,24 @@ Section is comprised of section 203 of Pub. L. 104–1. Subsec. (d) of section 2
 <b>1996</b>—Subsec. (a)(3). Pub. L. 104–197, §312(a), inserted “and in subsection (c)(4) of this section” after “subsection (c)(3) of this section”.
 
 Subsec. (c)(4). Pub. L. 104–197, §312(b), added par. (4).
+
+#### Application of Rights and Protections of Fair Labor Standards Act of 1938 to Congressional and Architect of the Capitol Employees
+
+Pub. L. 101–157, §8, Nov. 17, 1989, 103 Stat. 944, provided that:
+
+“(a)
+
+House Employees.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the date the minimum wage rate prescribed by section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) is increased pursuant to the amendment made by section 2, the rights and protections under the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) shall apply with respect to any employee in an employment position in the House of Representatives and to any employing authority of the House of Representatives.
+
+&emsp;“(2)
+
+Administration.—In the administration of this subsection, the remedies and procedures under the Fair Employment Practices Resolution shall be applied. As used in this paragraph, the term “Fair Employment Practices Resolution” means House Resolution 558, One Hundredth Congress, agreed to October 4, 1988, as continued in effect by House Resolution 15, One Hundred First Congress, agreed to January 3, 1989.
+
+“(b)
+
+Architect of the Capitol Employees.—Not later than 180 days after the date the minimum wage rate prescribed by section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) is increased pursuant to the amendment made by section 2, the rights and protections under the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) shall apply with respect to individuals employed under the Office of the Architect of the Capitol.”
 

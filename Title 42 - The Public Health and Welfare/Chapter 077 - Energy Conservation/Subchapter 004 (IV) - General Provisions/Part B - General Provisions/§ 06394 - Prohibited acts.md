@@ -20,5 +20,5 @@ This title, referred to in par. (1), is title V of Pub. L. 94–163, Dec. 22, 19
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “amends”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "amends".</i>
 

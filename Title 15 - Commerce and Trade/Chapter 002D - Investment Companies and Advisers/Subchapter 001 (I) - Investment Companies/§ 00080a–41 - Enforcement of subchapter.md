@@ -66,9 +66,9 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e)(3)(A). Pub. L. 111–203 inserted “and section 78u–6 of this title” after “section 7246 of this title”.
+<b>2010</b>—Subsec. (e)(3)(A). Pub. L. 111–203 inserted "and section 78u–6 of this title" after "section 7246 of this title".
 
-<b>2002</b>—Subsec. (e)(3)(A). Pub. L. 107–204 inserted “, except as otherwise provided in section 7246 of this title” before period at end.
+<b>2002</b>—Subsec. (e)(3)(A). Pub. L. 107–204 inserted ", except as otherwise provided in section 7246 of this title" before period at end.
 
 <b>1990</b>—Subsec. (e). Pub. L. 101–429 added subsec. (e).
 

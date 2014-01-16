@@ -2,7 +2,7 @@
 
 #### (a) Liability for royalty payments
 
-In order to increase receipts and achieve effective collections of royalty and other payments, a lessee who is required to make any royalty or other payment under a lease or under the mineral leasing laws, shall make such payments in the time and manner as may be specified by the Secretary or the applicable delegated State. A lessee may designate a person to make all or part of the payments due under a lease on the lessee's behalf and shall notify the Secretary or the applicable delegated State in writing of such designation, in which event said designated person may, in its own name, pay, offset or credit monies, make adjustments, request and receive refunds and submit reports with respect to payments required by the lessee. Notwithstanding any other provision of this chapter to the contrary, a designee shall not be liable for any payment obligation under the lease. The person owning operating rights in a lease shall be primarily liable for its pro rata share of payment obligations under the lease. If the person owning the legal record title in a lease is other than the operating rights owner, the person owning the legal record title shall be secondarily liable for its pro rata share of such payment obligations under the lease.
+In order to increase receipts and achieve effective collections of royalty and other payments, a lessee who is required to make any royalty or other payment under a lease or under the mineral leasing laws, shall make such payments in the time and manner as may be specified by the Secretary or the applicable delegated State. A lessee may designate a person to make all orpart of the payments due under a lease on the lessee's behalf and shall notify the Secretary or the applicable delegated State in writing of such designation, in which event said designated person may, in its own name, pay, offset or credit monies, make adjustments, request and receive refunds and submit reports with respect to payments required by the lessee. Notwithstanding any other provision of this chapter to the contrary, a designee shall not be liable for any payment obligation under the lease. The person owning operating rights in a lease shall be primarily liable for its pro rata share of payment obligations under the lease. If the person owning the legal record title in a lease is other than the operating rights owner, the person owning the legal record title shall be secondarily liable for its pro rata share of such payment obligations under the lease.
 
 #### (b) Development of and compliance with site security plan and minimum site security measures by operators; notification to Secretary of well production
 
@@ -24,11 +24,11 @@ An operator shall—
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–185 inserted heading and amended text generally. Prior to amendment, text read as follows: “A lessee—
+<b>1996</b>—Subsec. (a). Pub. L. 104–185 inserted heading and amended text generally. Prior to amendment, text read as follows: "A lessee—
 
-&emsp;“(1) who is required to make any royalty or other payment under a lease or under the mineral leasing laws, shall make such payments in the time and manner as may be specified by the Secretary; and
+&emsp;"(1) who is required to make any royalty or other payment under a lease or under the mineral leasing laws, shall make such payments in the time and manner as may be specified by the Secretary; and
 
-&emsp;“(2) shall notify the Secretary, in the time and manner as may be specified by the Secretary, of any assignment the lessee may have made of the obligation to make any royalty or other payment under a lease or under the mineral leasing laws.”
+&emsp;"(2) shall notify the Secretary, in the time and manner as may be specified by the Secretary, of any assignment the lessee may have made of the obligation to make any royalty or other payment under a lease or under the mineral leasing laws."
 
 #### Effective Date of 1996 Amendment
 

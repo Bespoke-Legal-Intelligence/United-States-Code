@@ -6,19 +6,19 @@ In this section:
 
 #### (1) Agency
 
-&emsp;The term “agency” means a Federal agency.
+&emsp;The term "agency" means a Federal agency.
 
 #### (2) Director
 
-&emsp;The term “Director” means the Director of the Office of Science and Technology Policy.
+&emsp;The term "Director" means the Director of the Office of Science and Technology Policy.
 
 #### (3) Federal agency
 
-&emsp;The term “Federal agency” has the meaning given under section 3703 of this title, except that term shall not include any agency of the legislative branch of the Federal Government.
+&emsp;The term "Federal agency" has the meaning given under section 3703 of this title, except that term shall not include any agency of the legislative branch of the Federal Government.
 
 #### (4) Head of an agency
 
-&emsp;The term “head of an agency” means the head of a Federal agency.
+&emsp;The term "head of an agency" means the head of a Federal agency.
 
 #### (b) In general
 
@@ -80,7 +80,7 @@ An individual or entity shall not be deemed ineligible under subsection (g) beca
 
 #### (A) Definition
 
-&emsp;&emsp;In this paragraph, the term “related entity” means a contractor or subcontractor at any tier, and a supplier, user, customer, cooperating party, grantee, investigator, or detailee.
+&emsp;&emsp;In this paragraph, the term "related entity" means a contractor or subcontractor at any tier, and a supplier, user, customer, cooperating party, grantee, investigator, or detailee.
 
 #### (B) Liability
 
@@ -90,7 +90,7 @@ An individual or entity shall not be deemed ineligible under subsection (g) beca
 
 &emsp;Participants shall be required to obtain liability insurance or demonstrate financial responsibility, in amounts determined by the head of an agency, for claims by—
 
-&emsp;&emsp;(A) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a competition, with the Federal Government named as an additional insured under the registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to competition activities; and
+&emsp;&emsp;(A) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a competition, with the Federal Government named as an additionalinsured under the registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to competition activities; and
 
 &emsp;&emsp;(B) the Federal Government for damage or loss to Government property resulting from such an activity.
 
@@ -102,7 +102,7 @@ An individual or entity shall not be deemed ineligible under subsection (g) beca
 
 #### (1) Prohibition on the government acquiring intellectual property rights
 
-&emsp;The Federal Government may not gain an interest in intellectual property developed bya participant in a competition without the written consent of the participant.
+&emsp;The Federal Government may not gain an interest in intellectual property developed by a participant in a competition without the written consent of the participant.
 
 #### (2) Licenses
 
@@ -170,7 +170,7 @@ The head of an agency may enter into an agreement with a private, nonprofit enti
 
 #### (n) General Service <sup>1</sup> Administration assistance
 
-Not later than 180 days after January 4, 2011, the General Services Administration shall provide government wide services to share best practices and assist agencies in developing guidelines for issuing prize competitions. The General Services Administration shall develop a contract vehicle to provide agencies access to relevant products and services, including technical assistance in structuring and conducting prize competitions to take maximum benefit of the marketplace as they identify and pursue prize competitions to further the policy objectives of the Federal Government.
+Not later than 180 days after January 4, 2011, the General Services Administration shall provide government wide services to share best practices and assist agencies in developing guidelines for issuing prize competitions. The General Services Administration shall develop a contract vehicle to provide agencies access to relevant products and services, including technical assistance in structuring and conducting prize competitions to take maximum benefit ofthe marketplace as they identify and pursue prize competitions to further the policy objectives of the Federal Government.
 
 #### (o) Compliance with existing law
 
@@ -186,7 +186,7 @@ Not later than 180 days after January 4, 2011, the General Services Administrati
 
 #### (1) In general
 
-&emsp;Not later than March 1 of each year, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives areport on the activities carried out during the preceding fiscal year under the authority in subsection (b).
+&emsp;Not later than March 1 of each year, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives a report on the activities carried out during the preceding fiscal year under the authority in subsection (b).
 
 #### (2) Information included
 
@@ -226,5 +226,5 @@ The Federal Advisory Committee Act, referred to in subsec. (k)(4), is Pub. L. 92
 
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Services”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Services".</i>
 

@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 Pub. L. 99–399, title IX, §902, Aug. 27, 1986, 100 Stat. 889.
 
-The word “vessel” is substituted for “shipboard” for consistency in the revised title. The words “and commends him on his efforts to date” are omitted as unnecessary.
+The word "vessel" is substituted for "shipboard" for consistency in the revised title. The words "and commends him on his efforts to date" are omitted as unnecessary.
 

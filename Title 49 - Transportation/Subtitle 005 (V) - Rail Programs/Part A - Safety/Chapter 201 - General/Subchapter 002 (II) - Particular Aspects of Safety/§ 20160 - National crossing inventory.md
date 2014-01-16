@@ -30,7 +30,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Crossing.—The term “crossing” means a location within a State, other than a location where one or more railroad tracks cross one or more railroad tracks either at grade or grade-separated, where—
+Crossing.—The term "crossing" means a location within a State, other than a location where one or more railroad tracks cross one or more railroad tracks either at grade or grade-separated, where—
 
 &emsp;&emsp;(A) a public highway, road, or street, or a private roadway, including associated sidewalks and pathways, crosses one or more railroad tracks either at grade or grade-separated; or
 
@@ -38,7 +38,7 @@ Crossing.—The term “crossing” means a location within a State, other than 
 
 &emsp;(2)
 
-State.—The term “State” means a State of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.
+State.—The term "State" means a State of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.
 
 (Added Pub. L. 110–432, div. A, title II, §204(a), Oct. 16, 2008, 122 Stat. 4869.)
 

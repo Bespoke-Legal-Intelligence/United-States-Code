@@ -6,7 +6,7 @@ Exclusive of aliens described in subsection (b) of this section, aliens born in 
 
 &emsp;(1) family-sponsored immigrants described in section 1153(a) of this title (or who are admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent under section 1153(a) of this title) in a number not to exceed in any fiscal year the number specified in subsection (c) of this section for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year;
 
-&emsp;(2) employment-based immigrants described in section 1153(b) of this title (or who are admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent under section 1153(b) of this title), in a number not to exceed in any fiscal year the number specified in subsection (d) of this section for that year, and not to exceed in any of the first 3 quarters of any fiscalyear 27 percent of the worldwide level under such subsection for all of such fiscal year; and
+&emsp;(2) employment-based immigrants described in section 1153(b) of this title (or who are admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent under section 1153(b) of this title), in a number not to exceed in any fiscal year the number specified in subsection (d) of this section for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year; and
 
 &emsp;(3) for fiscal years beginning with fiscal year 1995, diversity immigrants described in section 1153(c) of this title (or who are admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent under section 1153(c) of this title) in a number not to exceed in any fiscal year the number specified in subsection (e) of this section for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year.
 
@@ -72,7 +72,7 @@ Immediate relatives.—For purposes of this subsection, the term “immediate re
 
 (2)(A) The number computed under this paragraph for fiscal year 1992 is zero.
 
-(B) The number computed under this paragraph for fiscal year 1993 is the difference (ifany) between the worldwide level established under paragraph (1) for the previous fiscal year and the number of visas issued under section 1153(b) of this title during that fiscal year.
+(B) The number computed under this paragraph for fiscal year 1993 is the difference (if any) between the worldwide level established under paragraph (1) for the previous fiscal year and the number of visas issued under section 1153(b) of this title during that fiscal year.
 
 (C) The number computed under this paragraph for a subsequent fiscal year is the difference (if any) between the maximum number of visas which may be issued under section 1153(a) of this title (relating to family-sponsored immigrants) during the previous fiscal year and the number of visas issued under that section during that year.
 

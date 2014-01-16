@@ -48,9 +48,9 @@ The monthly annuity installment, after adjustment under this section, shall be r
 
 &emsp;&emsp;&emsp;(ii) ending on the effective date of the adjustment under this section.
 
-#### (2) “Pay” defined
+#### (2) "Pay" defined
 
-&emsp;For purposes of paragraph (1), the term “pay” means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
+&emsp;For purposes of paragraph (1), the term "pay" means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
 
 (Pub. L. 88–643, title II, §291, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3240; amended Pub. L. 103–178, title II, §202(a)(14), Dec. 3, 1993, 107 Stat. 2027.)
 
@@ -64,7 +64,7 @@ A prior section 291 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1054;
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b)(2). Pub. L. 103–178 struck out “or section 2052(c) of this title” after “section 2031(d) of this title”.
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–178 struck out "or section 2052(c) of this title" after "section 2031(d) of this title".
 
 #### Effective Date of 1993 Amendment
 

@@ -17,9 +17,9 @@
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–702, title III, §§301(b), 304(b)(2), Nov. 19, 1988, 102 Stat. 4647, 4648, inserted “and Deputy Director” after “Director” in item 626 and added item 629.
+<b>1988</b>—Pub. L. 100–702, title III, §§301(b), 304(b)(2), Nov. 19, 1988, 102 Stat. 4647, 4648, inserted "and Deputy Director" after "Director" in item 626 and added item 629.
 
-<b>1978</b>—Pub. L. 95–598, title II, §230(2), Nov. 6, 1978, 92 Stat. 2665, struck out item 629 “Organizational provisions”.
+<b>1978</b>—Pub. L. 95–598, title II, §230(2), Nov. 6, 1978, 92 Stat. 2665, struck out item 629 "Organizational provisions".
 
 <b>1967</b>—Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 664, added chapter 42 and items 620 to 629.
 

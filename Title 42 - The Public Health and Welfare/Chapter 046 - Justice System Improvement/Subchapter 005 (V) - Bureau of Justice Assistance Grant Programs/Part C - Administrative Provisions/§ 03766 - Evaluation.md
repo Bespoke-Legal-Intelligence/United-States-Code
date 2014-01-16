@@ -22,7 +22,7 @@ In selecting programs for review, the Director of the National Institute of Just
 
 #### (c) Annual report
 
-The Director of the National Institute of Justice shall annually report to the President, the Attorney General, and the Congress on the nature and findings of the evaluation and research and development activities funded under this section.
+The Director of the National Institute of Justice shall annually report to the President, theAttorney General, and the Congress on the nature and findings of the evaluation and research and development activities funded under this section.
 
 (Pub. L. 90–351, title I, §520, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4337; amended Pub. L. 101–647, title XVIII, §1801(b), Nov. 29, 1990, 104 Stat. 4848; Pub. L. 109–162, title XI, §1111(c)(2)(B), Jan. 5, 2006, 119 Stat. 3101.)
 
@@ -32,13 +32,13 @@ For prior section 520 of Pub. L. 90–351 and prior sections 3766 of this title,
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162, §1111(c)(2)(B)(i), substituted “program evaluations” for “the program evaluations as required by section 3751(c) of this title”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162, §1111(c)(2)(B)(i), substituted "program evaluations" for "the program evaluations as required by section 3751(c) of this title".
 
-Subsec. (a)(2). Pub. L. 109–162, §1111(c)(2)(B)(ii), substituted “evaluations of programs funded under section 3755 (formula grants) and section 3762a (discretionary grants) of this title” for “evaluations of programs funded under section 3756 (formula grants) and sections 3761 and 3762a (discretionary grants) of this title”.
+Subsec. (a)(2). Pub. L. 109–162, §1111(c)(2)(B)(ii), substituted "evaluations of programs funded under section 3755 (formula grants) and section 3762a (discretionary grants) of this title" for "evaluations of programs funded under section 3756 (formula grants) and sections 3761 and 3762a (discretionary grants) of this title".
 
-Subsec. (b)(2). Pub. L. 109–162, §1111(c)(2)(B)(iii), substituted “programs funded under section 3755 (formulagrants)” for “programs funded under section 3756 (formula grants) and section 3761 (discretionary grants)”.
+Subsec. (b)(2). Pub. L. 109–162, §1111(c)(2)(B)(iii), substituted "programs funded under section 3755 (formula grants)" for "programs funded under section 3756 (formula grants) and section 3761 (discretionary grants)".
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–647 substituted “sections 3761 and 3762a” for “section 3761”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–647 substituted "sections 3761 and 3762a" for "section 3761".
 
 #### Effective Date of 2006 Amendment
 

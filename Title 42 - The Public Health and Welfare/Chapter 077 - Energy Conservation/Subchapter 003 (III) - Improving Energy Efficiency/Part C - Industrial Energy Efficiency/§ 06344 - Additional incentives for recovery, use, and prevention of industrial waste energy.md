@@ -36,7 +36,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (3) Transport over private transmission lines
 
-&emsp;The State and the electric utility shall permit, and shall waive or modify such laws aswould otherwise prohibit, the construction and operation of private electric wires constructed, owned, and operated by the project owner or operator, to transport the power to up to 3 purchasers within a 3-mile radius of the project, allowing the wires to use or cross public rights-of-way, without subjecting the project to regulation as a public utility, and according the wires the same treatment for safety, zoning, land use, and other legal privileges as apply or would apply to the wires of the utility, except that—
+&emsp;The State and the electric utility shall permit, and shall waive or modify such laws as would otherwise prohibit, the construction and operation of private electric wires constructed, owned, and operated by the project owner or operator, to transport the power to up to 3 purchasers within a 3-mile radius of the project, allowing the wires to use or cross public rights-of-way, without subjecting the project to regulation as a public utility, and according the wires the same treatment for safety, zoning, land use, and other legal privileges as apply or would apply to the wires of the utility, except that—
 
 &emsp;&emsp;(A) there shall be no grant of any power of eminent domain to take or cross private property for the wires; and
 
@@ -54,7 +54,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (A) Per unit distribution costs
 
-&emsp;&emsp;The term “per unit distribution costs” means (in kilowatt hours) the quotient obtained by dividing—
+&emsp;&emsp;The term "per unit distribution costs" means (in kilowatt hours) the quotient obtained by dividing—
 
 &emsp;&emsp;&emsp;(i) the depreciated book-value distribution system costs of a utility; by
 
@@ -62,7 +62,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (B) Per unit distribution margin
 
-&emsp;&emsp;The term “per unit distribution margin” means—
+&emsp;&emsp;The term "per unit distribution margin" means—
 
 &emsp;&emsp;&emsp;(i) in the case of a State-regulated electric utility, a per-unit gross pretax profit equal to the product obtained by multiplying—
 
@@ -82,7 +82,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (C) Per unit transmission costs
 
-&emsp;&emsp;The term “per unit transmission costs” means the total cost of those transmission services purchased or provided by a utility on a per-kilowatt-hour basis as included in the retail rate of the utility.
+&emsp;&emsp;The term "per unit transmission costs" means the total cost of those transmission services purchased or provided by a utility on a per-kilowatt-hour basis as included in the retail rate of the utility.
 
 #### (2) Options
 
@@ -182,7 +182,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (A) In general
 
-&emsp;&emsp;If a State regulatory authority (with respect to each electric utility for which the authority has ratemaking authority) or nonregulated electric utility declines to implement any standard established by this section, the authority or nonregulated electric utility shall state in writing the reasons for declining to implement the standard.
+&emsp;&emsp;If a State regulatory authority (with respect to each electric utility for which theauthority has ratemaking authority) or nonregulated electric utility declines to implement any standard established by this section, the authority or nonregulated electric utility shall state in writing the reasons for declining to implement the standard.
 
 #### (B) Availability to public
 

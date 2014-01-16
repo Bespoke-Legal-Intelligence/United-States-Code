@@ -40,19 +40,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §7111(1), inserted “(including commodities, livestock, dairy, and specialty crops)” after “agricultural sectors”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §7111(1), inserted "(including commodities, livestock, dairy, and specialty crops)" after "agricultural sectors".
 
-Subsec. (b). Pub. L. 110–246, §7111(2), inserted “(including the Food Agricultural Policy Research Institute, the Agricultural and Food Policy Center, the Rural Policy Research Institute, and the National Drought Mitigation Center)” after “research institutions and organizations”.
+Subsec. (b). Pub. L. 110–246, §7111(2), inserted "(including the Food Agricultural Policy Research Institute, the Agricultural and Food Policy Center, the Rural Policy Research Institute, and the National Drought Mitigation Center)" after "research institutions and organizations".
 
-Subsec. (d). Pub. L. 110–246, §7111(3), substituted “2012” for “2007”.
+Subsec. (d). Pub. L. 110–246, §7111(3), substituted "2012" for "2007".
 
-<b>2002</b>—Subsec. (c)(3). Pub. L. 107–171, §7216, substituted “collect, analyze, and disseminate data” for “collect and analyze data”.
+<b>2002</b>—Subsec. (c)(3). Pub. L. 107–171, §7216, substituted "collect, analyze, and disseminate data" for "collect and analyze data".
 
-Subsec. (d). Pub. L. 107–171, §7103, substituted “2007” for “2002”.
+Subsec. (d). Pub. L. 107–171, §7103, substituted "2007" for "2002".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–185, §224, inserted “and trade agreements” after “public policies” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–185, §224, inserted "and trade agreements" after "public policies" in introductory provisions.
 
-Subsec. (d). Pub. L. 105–185, §301(a)(3), substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
+Subsec. (d). Pub. L. 105–185, §301(a)(3), substituted "each of fiscal years 1996 through 2002" for "fiscal years 1996 and 1997".
 
 #### Effective Date of 2008 Amendment
 

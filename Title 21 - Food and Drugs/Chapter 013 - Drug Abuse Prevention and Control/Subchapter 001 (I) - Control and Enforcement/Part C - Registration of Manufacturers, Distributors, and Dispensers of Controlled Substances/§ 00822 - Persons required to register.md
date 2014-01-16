@@ -50,7 +50,7 @@ The Attorney General is authorized to inspect the establishment of a registrant 
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (b), (c), and (g)(1), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsecs. (b), (c), and (g)(1), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 Section 802(25) of this title, referred to in subsec. (c)(3), was redesignated section 802(26) of this title by Pub. L. 98–473, title II, §507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated section 802(27) of this title by Pub. L. 99–570, title I, §1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
 
@@ -58,13 +58,13 @@ Section 802(25) of this title, referred to in subsec. (c)(3), was redesignated s
 
 <b>2010</b>—Subsec. (g). Pub. L. 111–273 added subsec. (g).
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–200, §3(b)(1), inserted “or list I chemical” after “controlled substance” in two places.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–200, §3(b)(1), inserted "or list I chemical" after "controlled substance" in two places.
 
-Subsec. (b). Pub. L. 103–200, §3(b)(2), inserted “or list I chemicals” after “controlled substances” and “or chemicals” after “such substances”.
+Subsec. (b). Pub. L. 103–200, §3(b)(2), inserted "or list I chemicals" after "controlled substances" and "or chemicals" after "such substances".
 
-Subsec. (c). Pub. L. 103–200, §3(b)(3), inserted “or list I chemical” after “controlled substance” wherever appearing.
+Subsec. (c). Pub. L. 103–200, §3(b)(3), inserted "or list I chemical" after "controlled substance" wherever appearing.
 
-Subsec. (e). Pub. L. 103–200, §3(b)(4), inserted “or list I chemicals” after “controlled substances”.
+Subsec. (e). Pub. L. 103–200, §3(b)(4), inserted "or list I chemicals" after "controlled substances".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–473 designated existing provisions as par. (1), struck out provisions relating to dispensing controlled substances, and added par. (2).
 
@@ -74,61 +74,61 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 
 #### Findings
 
-Pub. L. 111–273, §2, Oct. 12, 2010, 124 Stat. 2858, provided that: “Congress finds the following:
+Pub. L. 111–273, §2, Oct. 12, 2010, 124 Stat. 2858, provided that: "Congress finds the following:
 
-&emsp;“(1) The nonmedical use of prescription drugs is a growing problem in the United States, particularly among teenagers.
+&emsp;"(1) The nonmedical use of prescription drugs is a growing problem in the United States, particularly among teenagers.
 
-&emsp;“(2) According to the Department of Justice's 2009 National Prescription Drug Threat Assessment—
+&emsp;"(2) According to the Department of Justice's 2009 National Prescription Drug Threat Assessment—
 
-&emsp;&emsp;“(A) the number of deaths and treatment admissions for controlled prescription drugs (CPDs) has increased significantly in recent years;
+&emsp;&emsp;"(A) the number of deaths and treatment admissions for controlled prescription drugs (CPDs) has increased significantly in recent years;
 
-&emsp;&emsp;“(B) unintentional overdose deaths involving prescription opioids, for example, increased 114 percent from 2001 to 2005, and the number of treatment admissions for prescription opioids increased 74 percent from 2002 to 2006; and
+&emsp;&emsp;"(B) unintentional overdose deaths involving prescription opioids, for example, increased 114 percent from 2001 to 2005, and the number of treatment admissions for prescription opioids increased 74 percent from 2002 to 2006; and
 
-&emsp;&emsp;“(C) violent crime and property crime associated with abuse and diversion of CPDs has increased in all regions of the United States over the past 5 years.
+&emsp;&emsp;"(C) violent crime and property crime associated with abuse and diversion of CPDs has increased in all regions of the United States over the past 5 years.
 
-&emsp;“(3) According to the Office of National Drug Control Policy's 2008 Report ‘Prescription for Danger’, prescription drug abuse is especially on the rise for teens—
+&emsp;"(3) According to the Office of National Drug Control Policy's 2008 Report 'Prescription for Danger', prescription drug abuse is especially on the rise for teens—
 
-&emsp;&emsp;“(A) one-third of all new abusers of prescription drugs in 2006 were 12- to 17-year-olds;
+&emsp;&emsp;"(A) one-third of all new abusers of prescription drugs in 2006 were 12- to 17-year-olds;
 
-&emsp;&emsp;“(B) teens abuse prescription drugs more than any illicit drug except marijuana—more than cocaine, heroin, and methamphetamine combined; and
+&emsp;&emsp;"(B) teens abuse prescription drugs more than any illicit drug except marijuana—more than cocaine, heroin, and methamphetamine combined; and
 
-&emsp;&emsp;“(C) responsible adults are in a unique position to reduce teen access to prescription drugs because the drugs often are found in the home.
+&emsp;&emsp;"(C) responsible adults are in a unique position to reduce teen access to prescription drugs because the drugs often are found in the home.
 
-&emsp;“(4)(A) Many State and local law enforcement agencies have established drug disposal programs (often called ‘take-back’ programs) to facilitate the collection and destruction of unused, unwanted, or expired medications. These programs help get outdated or unused medications off household shelves and out of the reach of children and teenagers.
+&emsp;"(4)(A) Many State and local law enforcement agencies have established drug disposal programs (often called 'take-back' programs) to facilitate the collection and destruction of unused, unwanted, or expired medications. These programs help get outdated or unused medications off household shelves and out of the reach of children and teenagers.
 
-&emsp;“(B) However, take-back programs often cannot dispose of the most dangerous pharmaceutical drugs—controlled substance medications—because Federal law does not permit take-back programs to accept controlled substances unless they get specific permission from the Drug Enforcement Administration and arrange for full-time law enforcement officers to receive the controlled substances directly from the member of the public who seeks to dispose of them.
+&emsp;"(B) However, take-back programs often cannot dispose of the most dangerous pharmaceutical drugs—controlled substance medications—because Federal law does not permit take-back programs to accept controlled substances unless they get specific permission from the Drug Enforcement Administration and arrange for full-time law enforcement officers to receive the controlled substances directly from the member of the public who seeks to dispose of them.
 
-&emsp;“(C) Individuals seeking to reduce the amount of unwanted controlled substances in their household consequently have few disposal options beyond discarding or flushing the substances, which may not be appropriate means of disposing of the substances. Drug take-back programs are also a convenient and effective means for individuals in various communities to reduce the introduction of some potentially harmful substances into the environment, particularly into water.
+&emsp;"(C) Individuals seeking to reduce the amount of unwanted controlled substances in their household consequently have few disposal options beyond discarding or flushing the substances, which may not be appropriate means of disposing of the substances. Drug take-back programs are also a convenient and effective means for individuals in various communities to reduce the introduction of some potentially harmful substances into the environment, particularly into water.
 
-&emsp;“(D) Long-term care facilities face a distinct set of obstacles to the safe disposal of controlled substances due to the increased volume of controlled substances they handle.
+&emsp;"(D) Long-term care facilities face a distinct set of obstacles to the safe disposal of controlled substances due to the increased volume of controlled substances they handle.
 
-&emsp;“(5) This Act \[see Short Title of 2010 Amendment note set out under section 801 of this title\] gives the Attorney General authority to promulgate new regulations, within the framework of the Controlled Substances Act \[21 U.S.C. 801 et seq.\], that will allow patients to deliver unused pharmaceutical controlledsubstances to appropriate entities for disposal in a safe and effective manner consistent with effective controls against diversion.
+&emsp;"(5) This Act \[see Short Title of 2010 Amendment note set out under section 801 of this title\] gives the Attorney General authority to promulgate new regulations, within the framework of the Controlled Substances Act \[21 U.S.C. 801 et seq.\], that will allow patients to deliver unused pharmaceutical controlled substances to appropriate entities for disposal in a safe and effective manner consistent with effective controls against diversion.
 
-&emsp;“(6) The goal of this Act is to encourage the Attorney General to set controlled substance diversion prevention parameters that will allow public and private entities to develop a variety of methods of collection and disposal of controlled substances, including some pharmaceuticals, in a secure, convenient, and responsible manner. This will also serve to reduce instances of diversion and introduction of some potentially harmful substances into the environment.”
+&emsp;"(6) The goal of this Act is to encourage the Attorney General to set controlled substance diversion prevention parameters that will allow public and private entities to develop a variety of methods of collection and disposal of controlled substances, including some pharmaceuticals, in a secure, convenient, and responsible manner. This will also serve to reduce instances of diversion and introduction of some potentially harmful substances into the environment."
 
 #### Provisional Registration
 
 Pub. L. 91–513, title II, §703, Oct. 27, 1970, 84 Stat. 1283, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(a)(1) Any person who—
+"(a)(1) Any person who—
 
-&emsp;“(A) is engaged in manufacturing, distributing, or dispensing any controlled substance on the day before the effective date of section 302 \[this section\], and
+&emsp;"(A) is engaged in manufacturing, distributing, or dispensing any controlled substance on the day before the effective date of section 302 \[this section\], and
 
-&emsp;“(B) is registered on such day under section 510 of the Federal Food, Drug, and Cosmetic Act \[section 360 of this title\] or under section 4722 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 4722 of Title 26\],
+&emsp;"(B) is registered on such day under section 510 of the Federal Food, Drug, and Cosmetic Act \[section 360 of this title\] or under section 4722 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 4722 of Title 26\],
 
 > shall, with respect to each establishment for which such registration is in effect under any such section, be deemed to have a provisional registration under section 303 \[section 823 of this title\] for the manufacture, distribution, or dispensing (as the case may be) of controlled substances.
 
-“(2) During the period his provisional registration is in effect under this section, the registration number assigned such person under such section 510 \[section 360 of this title\] or under such section 4722 \[section 4722 of Title 26\] (as the case may be) shall be his registration number for purposes of section 303 of this title \[section 823 of this title\].
+"(2) During the period his provisional registration is in effect under this section, the registration number assigned such person under such section 510 \[section 360 of this title\] or under such section 4722 \[section 4722 of Title 26\] (as the case may be) shall be his registration number for purposes of section 303 of this title \[section 823 of this title\].
 
-“(b) The provisions of section 304 \[section 824 of this title\], relating to suspension and revocation of registration, shall apply to a provisional registration under this section.
+"(b) The provisions of section 304 \[section 824 of this title\], relating to suspension and revocation of registration, shall apply to a provisional registration under this section.
 
-“(c) Unless sooner suspended or revoked under subsection (b), a provisional registration of a person under subsection (a)(1) of this section shall be in effect until—
+"(c) Unless sooner suspended or revoked under subsection (b), a provisional registration of a person under subsection (a)(1) of this section shall be in effect until—
 
-&emsp;“(1) the date on which such person has registered with the Attorney General under section 303 \[section 823 of this title\] or has had his registration denied under such section, or
+&emsp;"(1) the date on which such person has registered with the Attorney General under section 303 \[section 823 of this title\] or has had his registration denied under such section, or
 
-&emsp;“(2) such date as may be prescribed by the Attorney General for registration of manufacturers, distributors, or dispensers, as the case may be,
+&emsp;"(2) such date as may be prescribed by the Attorney General for registration of manufacturers, distributors, or dispensers, as the case may be,
 
-> whichever occurs first.”
+> whichever occurs first."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

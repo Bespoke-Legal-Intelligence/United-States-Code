@@ -6,5 +6,5 @@ As soon as practicable after December 11, 1991, the Secretary of Agriculture sha
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 

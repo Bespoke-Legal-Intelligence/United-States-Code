@@ -38,7 +38,7 @@ Pub. L. 108–136, title XXXV, §3527, Nov. 24, 2003, 117 Stat. 1802.
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(c)(3). See 2006 Amendment note below.
 
-Pub. L. 110–181, §3522(a)(9)(C), incorporated the substance of the amendment by Pub. L. 109–163, §3507(c)(3), into this section by substituting “Administrator” for “Secretary of Transportation” in introductory provisions. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Pub. L. 110–181, §3522(a)(9)(C), incorporated the substance of the amendment by Pub. L. 109–163, §3507(c)(3), into this section by substituting "Administrator" for "Secretary of Transportation" in introductory provisions. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 <b>2006</b>—Pub. L. 109–163, §3507(c)(3), which directed the amendment of section 1280b of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Federal land
 
-&emsp;The term “Federal land” means—
+&emsp;The term "Federal land" means—
 
 &emsp;&emsp;(A) land of the National Forest System (as defined in section 1609(a) of title 16) administered by the Secretary of Agriculture, acting through the Chief of the Forest Service; and
 
@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Indian forest land or rangeland
 
-&emsp;The term “Indian forest land or rangeland” means land that—
+&emsp;The term "Indian forest land or rangeland" means land that—
 
 &emsp;&emsp;(A) is held in trust by, or with a restriction against alienation by, the United States for an Indian tribe or a member of an Indian tribe; and
 
@@ -26,11 +26,11 @@ In this section:
 
 #### (3) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 450b of this title.
+&emsp;The term "Indian tribe" has the meaning given the term in section 450b of this title.
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means—
+&emsp;The term "Secretary" means—
 
 &emsp;&emsp;(A) the Secretary of Agriculture, with respect to land under the jurisdiction of the Forest Service; and
 
@@ -126,7 +126,7 @@ Not later than 4 years after July 22, 2004, the Secretary shall submit to Congre
 
 Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in subsecs. (b)(1) and (f)(1), is section §101(e) \[title III, §347\] of Pub. L. 105–277, div. A, as amended, which is set out as a note under section 2104 of Title 16, Conservation.
 
-This section, referred to in subsecs. (f) and (g), was in the original “this Act”, meaning Pub. L. 108–278, July 22, 2004, 118 Stat. 868, which enacted this section and provisions set out as a note under section 3101 of this title.
+This section, referred to in subsecs. (f) and (g), was in the original "this Act", meaning Pub. L. 108–278, July 22, 2004, 118 Stat. 868, which enacted this section and provisions set out as a note under section 3101 of this title.
 
 #### Codification
 

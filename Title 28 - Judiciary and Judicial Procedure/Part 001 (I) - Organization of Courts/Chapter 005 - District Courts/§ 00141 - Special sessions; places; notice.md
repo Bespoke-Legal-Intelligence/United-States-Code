@@ -50,5 +50,5 @@ Changes of phraseology were made.
 
 <b>2005</b>—Pub. L. 109–63 designated first and second undesignated pars. as pars. (1) and (2), respectively, of subsec. (a) and added subsec. (b).
 
-<b>1963</b>—Pub. L. 88–139 substituted “sessions” for “terms” and “session” for “term” wherever appearing in text and section catchline, and struck out “pursuant to rules approved by the judicial council of the circuit” after “court orders” in text.
+<b>1963</b>—Pub. L. 88–139 substituted "sessions" for "terms" and "session" for "term" wherever appearing in text and section catchline, and struck out "pursuant to rules approved by the judicial council of the circuit" after "court orders" in text.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a Klamath Fishery Management Council (hereafter in this subchapter referred to as the “Council”).
+There is established a Klamath Fishery Management Council (hereafter in this subchapter referred to as the "Council").
 
 #### (b) Functions
 
@@ -140,11 +140,11 @@ Any Council member who is an officer or employee of the United States, the State
 
 #### Amendments
 
-<b>1988</b>—Subsec. (g)(1). Pub. L. 100–653, §602(a), substituted “Procedures” for “Decisions of Council” as par. heading and amended text generally. Prior to amendment, text read as follows: “All decisions of the Council must be by unanimous vote of all of the members.”
+<b>1988</b>—Subsec. (g)(1). Pub. L. 100–653, §602(a), substituted "Procedures" for "Decisions of Council" as par. heading and amended text generally. Prior to amendment, text read as follows: "All decisions of the Council must be by unanimous vote of all of the members."
 
-Subsec. (i). Pub. L. 100–653, §603(1), substituted “, the State of California, or the State of Oregon” for “or the State of California”.
+Subsec. (i). Pub. L. 100–653, §603(1), substituted ", the State of California, or the State of Oregon" for "or the State of California".
 
 Subsec. (j)(1). Pub. L. 100–653, §603(2), inserted provision at end that any Council member who is employee of agency or governmental unit and is eligible for travel expenses from that agency or unit for performing services for Council not be eligible for travel expenses under this par.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “knowledgeable”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "knowledgeable".</i>
 

@@ -26,11 +26,11 @@ A prior section 26 of act June 25, 1947, ch. 125, was renumbered section 34 and 
 
 #### Amendments
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–237 substituted “uses” for “use”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–237 substituted "uses" for "use".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–532, §801(o)(1), (2), inserted heading and substituted “regulations. The Administrator” for “regulations; <i>Provided</i>, That the Administrator” in par. (1).
+<b>1988</b>—Subsec. (a). Pub. L. 100–532, §801(o)(1), (2), inserted heading and substituted "regulations. The Administrator" for "regulations; <i>Provided</i>, That the Administrator" in par. (1).
 
-Subsec. (b). Pub. L. 100–532, §801(o)(3), (q)(1)(D), inserted heading and substituted “136i” for “136b” in two places.
+Subsec. (b). Pub. L. 100–532, §801(o)(3), (q)(1)(D), inserted heading and substituted "136i" for "136b" in two places.
 
 Subsec. (c). Pub. L. 100–532, §801(o)(4), inserted heading.
 

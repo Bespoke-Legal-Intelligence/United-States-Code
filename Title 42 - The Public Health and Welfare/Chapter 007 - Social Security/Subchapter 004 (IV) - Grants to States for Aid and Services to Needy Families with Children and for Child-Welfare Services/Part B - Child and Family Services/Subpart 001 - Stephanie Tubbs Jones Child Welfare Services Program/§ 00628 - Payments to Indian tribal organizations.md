@@ -8,23 +8,23 @@ The Secretary may, in appropriate cases (as determined by the Secretary) make pa
 
 Amounts paid under subsection (a) of this section shall be deemed to be a part of the allotment (as determined under section 623 of this title) for the State in which such Indian tribal organization is located.
 
-#### (c) “Indian tribe” and “tribal organization” defined
+#### (c) "Indian tribe" and "tribal organization" defined
 
-For purposes of this section, the terms “Indian tribe” and “tribal organization” shall have the meanings given such terms by subsections (e) and (l) of section 450b of title 25, respectively.
+For purposes of this section, the terms "Indian tribe" and "tribal organization" shall have the meanings given such terms by subsections (e) and (l) of section 450b of title 25, respectively.
 
 (Aug. 14, 1935, ch. 531, title IV, §428, as added Pub. L. 96–272, title I, §103(b), June 17, 1980, 94 Stat. 520; amended Pub. L. 103–66, title XIII, §13711(b)(3), Aug. 10, 1993, 107 Stat. 655; Pub. L. 104–193, title III, §375(d), Aug. 22, 1996, 110 Stat. 2257; Pub. L. 109–288, §6(f)(1), Sept. 28, 2006, 120 Stat. 1247.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–288 substituted “section 623” for “section 621”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–288 substituted "section 623" for "section 621".
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–193 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For purposes of this section—
+<b>1996</b>—Subsec. (c). Pub. L. 104–193 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "For purposes of this section—
 
-&emsp;“(1) the term ‘tribal organization’ means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body; and
+&emsp;"(1) the term 'tribal organization' means the recognized governing body of any Indian tribe, or any legally established organization of Indians which iscontrolled, sanctioned, or chartered by such governing body; and
 
-&emsp;“(2) the term ‘Indian tribe’ means any tribe, band, nation, or other organized group or community of Indians (including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (Public Law 92–203; 85 Stat. 688)) which (A) is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians, or (B) is located on, or in proximity to, a Federal or State reservation or rancheria.”
+&emsp;"(2) the term 'Indian tribe' means any tribe, band, nation, or other organized group or community of Indians (including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (Public Law 92–203; 85 Stat. 688)) which (A) is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians, or (B) is located on, or in proximity to, a Federal or State reservation or rancheria."
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted “under this subpart” for “under this part” in two places.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted "under this subpart" for "under this part" in two places.
 
 #### Effective Date of 2006 Amendment
 

@@ -34,7 +34,7 @@ Amounts received under a grant under subsection (c) shall be used to conduct act
 
 &emsp;(7) encouraging clinicians to work with Health Information Technology Regional Extension Centers as described in section 300jj–32 of this title, to the extent they are available and valuable;
 
-&emsp;(8) supporting public health agencies’ authorized use of and access to electronic health information;
+&emsp;(8) supporting public health agencies' authorized use of and access to electronic health information;
 
 &emsp;(9) promoting the use of electronic health records for quality improvement including through quality measures reporting; and
 
@@ -118,7 +118,7 @@ The Secretary shall annually evaluate the activities conducted under this sectio
 
 (July 1, 1944, ch. 373, title XXX, §3013, as added Pub. L. 111–5, div. A, title XIII, §13301, Feb. 17, 2009, 123 Stat. 250.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “State-designated”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "State-designated".</i>
 
 <i><sup>2</sup></i><i> So in original. Another closing parenthesis probably should precede the semicolon.</i>
 

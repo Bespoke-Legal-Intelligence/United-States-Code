@@ -12,23 +12,23 @@
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–113 struck out “of” after “approval of” in section catchline.
+<b>1999</b>—Pub. L. 106–113 struck out "of" after "approval of" in section catchline.
 
-<b>1994</b>—Subsec. (b)(2). Pub. L. 103–296 inserted before period at end of first sentence “, except that, in so applying such sections and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–296 inserted before period at end of first sentence ", except that, in so applying such sections and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively".
 
-<b>1989</b>—Pub. L. 101–239, §6901(d)(5)(A), substituted “rural health clinics and intermediate care facilities for the mentally retarded” for “rural health clinics” in section catchline.
+<b>1989</b>—Pub. L. 101–239, §6901(d)(5)(A), substituted "rural health clinics and intermediate care facilities for the mentally retarded" for "rural health clinics" in section catchline.
 
-Subsec. (b)(1). Pub. L. 101–239, §6901(d)(5)(B)–(D), substituted “any intermediate care facility for the mentally retarded” for “any skilled nursing or intermediate care facility”, “section 1396a(a)(31) of this title or section 1396d(d) of this title” for “section 1396a(a)(28) of this title or section 1396r of this title or section 1396d(c) of this title”, and “the intermediate care facility for the mentally retarded” for “the skilled nursing facility or intermediate care facility”.
+Subsec. (b)(1). Pub. L. 101–239, §6901(d)(5)(B)–(D), substituted "any intermediate care facility for the mentally retarded" for "any skilled nursing or intermediate care facility", "section 1396a(a)(31) of this title or section 1396d(d) of this title" for "section 1396a(a)(28) of this title or section 1396r of this title or section 1396d(c) of this title", and "the intermediate care facility for the mentally retarded" for "the skilled nursing facility or intermediate care facility".
 
-Subsec. (b)(2). Pub. L. 101–239, §6901(d)(5)(D), substituted “intermediate care facility for the mentally retarded” for “skilled nursing facility or intermediate care facility” in two places.
+Subsec. (b)(2). Pub. L. 101–239, §6901(d)(5)(D), substituted "intermediate care facility for the mentally retarded" for "skilled nursing facility or intermediate care facility" in two places.
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–360, §411(l)(6)(F), as added by Pub. L. 100–485, §608(d)(27)(J), inserted “or section 1396r of this title” after “1396a(a)(28) of this title”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–360, §411(l)(6)(F), as added by Pub. L. 100–485, §608(d)(27)(J), inserted "or section 1396r of this title" after "1396a(a)(28) of this title".
 
-<b>1987</b>—Pub. L. 100–203 struck out “skilled nursing facilities and” before “of rural” in section catchline, redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out former subsec. (a) which related to certification and approval of skilled nursing facilities.
+<b>1987</b>—Pub. L. 100–203 struck out "skilled nursing facilities and" before "of rural" in section catchline, redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out former subsec. (a) which related to certification and approval of skilled nursing facilities.
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–499 added subsec. (c).
 
-<b>1977</b>—Pub. L. 95–210 substituted “facilities and of rural health clinics” for “facilities” in section catchline, redesignated existing subsecs. (a) and (b) as (a)(1) and (2), respectively, and added subsec. (b).
+<b>1977</b>—Pub. L. 95–210 substituted "facilities and of rural health clinics" for "facilities" in section catchline, redesignated existing subsecs. (a) and (b) as (a)(1) and (2), respectively, and added subsec. (b).
 
 #### Effective Date of 1994 Amendment
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 95–210 applicable to medical assistance provided, under a
 
 Section effective with respect to agreements filed with Secretary under section 1395cc of this title by skilled nursing facilities before, on, or after Oct. 30, 1972, but accepted by him on or after such date, see section 249A(e) of Pub. L. 92–603, set out as an Effective Date of 1972 Amendment note under section 1395cc of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

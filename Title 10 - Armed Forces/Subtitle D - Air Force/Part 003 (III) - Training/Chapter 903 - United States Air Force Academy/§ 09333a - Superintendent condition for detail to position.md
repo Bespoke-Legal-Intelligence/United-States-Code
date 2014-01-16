@@ -12,7 +12,7 @@ Minimum Tour of Duty.—An officer who is detailed to the position of Superinten
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–375 designated existing provisions as subsec. (a), inserted heading, inserted “pursuant to section 8921(a) of this title, unless such retirement is waived under section 8921(b) of this title” before period at end, and added subsec. (b).
+<b>2004</b>—Pub. L. 108–375 designated existing provisions as subsec. (a), inserted heading, inserted "pursuant to section 8921(a) of this title, unless such retirement is waived under section 8921(b) of this title" before period at end, and added subsec. (b).
 
 #### Application of Section to Superintendents Serving on October 5, 1999
 

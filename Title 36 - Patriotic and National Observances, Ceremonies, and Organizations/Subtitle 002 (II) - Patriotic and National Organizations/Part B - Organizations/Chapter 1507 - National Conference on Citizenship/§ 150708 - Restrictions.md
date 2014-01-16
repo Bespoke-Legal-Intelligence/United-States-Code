@@ -52,7 +52,7 @@ Aug. 13, 1953, ch. 427, §§9, 10, 12, 67 Stat. 564, 565.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” and “its objects and purposes being solely patriotic and educational” are omitted as unnecessary.
+In subsection (a), the words "any shares of" and "its objects and purposes being solely patriotic and educational" are omitted as unnecessary.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “such person, agency, or organization” are interpreted as referring to a “member, officer, or director” and are omitted as unnecessary. The words “as provided in section 445 of this title” are omitted as unnecessary. The words “This subsection does not prevent” are substituted for “Nothing in this subsection, however, shall be construed to prevent” to eliminate unnecessary words.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title. The words "such person, agency, or organization" are interpreted as referring to a "member, officer, or director" and are omitted as unnecessary. The words "as provided in section 445 of this title" are omitted as unnecessary. The words "This subsection does not prevent" are substituted for "Nothing in this subsection, however, shall be construed to prevent" to eliminate unnecessary words.
 

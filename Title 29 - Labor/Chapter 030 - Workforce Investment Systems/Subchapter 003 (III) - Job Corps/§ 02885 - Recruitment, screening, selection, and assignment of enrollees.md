@@ -100,5 +100,5 @@
 
 Provisions similar to this section were contained in sections 1694 to 1696 of this title prior to repeal by Pub. L. 105–220.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

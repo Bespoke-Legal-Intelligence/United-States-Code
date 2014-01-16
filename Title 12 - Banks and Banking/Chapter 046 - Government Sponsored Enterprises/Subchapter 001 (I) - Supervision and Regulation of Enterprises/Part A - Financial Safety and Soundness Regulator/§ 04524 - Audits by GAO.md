@@ -6,7 +6,7 @@ The Comptroller General may audit the operations of the Agency, and any such aud
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–289 substituted “the Agency” for “the Office” in two places.
+<b>2008</b>—Pub. L. 110–289 substituted "the Agency" for "the Office" in two places.
 
-<b>1996</b>—Pub. L. 104–316, in first sentence, substituted “may audit” for “shall audit” and inserted “, and any such audit shall be conducted” after “Office”, and struck out at end “Audits under this section shall be conducted annually for the first 2 fiscal years following October 28, 1992, and as appropriate thereafter.”
+<b>1996</b>—Pub. L. 104–316, in first sentence, substituted "may audit" for "shall audit" and inserted ", and any such audit shall be conducted" after "Office", and struck out at end "Audits under this section shall be conducted annually for the first 2 fiscal years following October 28, 1992, and as appropriate thereafter."
 

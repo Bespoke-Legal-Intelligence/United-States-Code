@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Downpayment assistance
 
-&emsp;The term “downpayment assistance” means assistance to help a family acquire a principal residence.
+&emsp;The term "downpayment assistance" means assistance to help a family acquire a principal residence.
 
 #### (2) Home repairs
 
-&emsp;The term “home repairs” means capital improvements or repairs that—
+&emsp;The term "home repairs" means capital improvements or repairs that—
 
 &emsp;&emsp;(A) are identified in an appraisal or home inspection completed in conjunction with a home purchase; or
 
@@ -18,11 +18,11 @@ In this section:
 
 #### (3) Participating jurisdiction
 
-&emsp;The term “participating jurisdiction” means a State or unit of general local government designated under section 12746 of this title.
+&emsp;The term "participating jurisdiction" means a State or unit of general local government designated under section 12746 of this title.
 
 #### (4) State
 
-&emsp;The term “State” means any State of the United States and the District of Columbia.
+&emsp;The term "State" means any State of the United States and the District of Columbia.
 
 #### (b) Grant authority
 
@@ -34,7 +34,7 @@ The Secretary may award grants to participating jurisdictions to assist low-inco
 
 #### (A) Downpayment assistance
 
-&emsp;&emsp;Subject to subparagraph (B), grants awarded under this section may be used only for downpayment assistance toward the purchase of single family housing (including 1 to 4 unit family dwelling units, condominium units, cooperative units, and manufactured housing units which are located on land which is owned by the manufactured housing unit owner, owned as a cooperative, or is subject to a leasehold interest with aterm equal to at least the term of the mortgage financing on the unit, and manufactured housing lots) by low-income families who are first-time home-buyers.
+&emsp;&emsp;Subject to subparagraph (B), grants awarded under this section may be used only for downpayment assistance toward the purchase of single family housing (including 1 to 4 unit family dwelling units, condominium units, cooperative units, and manufactured housing units which are located on land which is owned by the manufactured housing unit owner, owned as a cooperative, or is subject to a leasehold interest with a term equal to at least the term of the mortgage financing on the unit, and manufactured housing lots) by low-income families who are first-time home-buyers.
 
 #### (B) Home repairs
 
@@ -108,7 +108,7 @@ To be eligible to receive a grant under this section in any fiscal year, a parti
 
 &emsp;(1) a description of the anticipated use of any grant received under this section;
 
-&emsp;(2) a plan for conducting targeted outreach to residents and tenants of public housing, trailer parks, and manufactured housing, and to other families assisted by public housing agencies, for the purpose of ensuring that grant amounts provided under this section to a participating jurisdiction are used for downpayment assistance for such residents, tenants, and families; and
+&emsp;(2) a plan for conducting targeted outreach to residents and tenants of public housing,trailer parks, and manufactured housing, and to other families assisted by public housing agencies, for the purpose of ensuring that grant amounts provided under this section to a participating jurisdiction are used for downpayment assistance for such residents, tenants, and families; and
 
 &emsp;(3) a description of the actions to be taken to ensure the suitability of families receiving downpayment assistance under this section to undertake and maintain homeownership.
 
@@ -140,7 +140,7 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (i). Pub. L. 111–8 substituted “section after December 31, 2011” for “Act after December 31, 2007”.
+<b>2009</b>—Subsec. (i). Pub. L. 111–8 substituted "section after December 31, 2011" for "Act after December 31, 2007".
 
 <b>2003</b>—Pub. L. 108–186 amended section generally. Prior to amendment, section required the Comptroller General to carry out a study of ways in which financing for affordable housing may be made available to assist in the most efficient implementation of comprehensive housing affordability strategies of participating jurisdictions and to submit to Congress and the Secretary, not later than one year after Nov. 28, 1990, a report containing any recommendations for legislative or administrative actions needed to improve the availability of mortgage finance for affordable housing.
 

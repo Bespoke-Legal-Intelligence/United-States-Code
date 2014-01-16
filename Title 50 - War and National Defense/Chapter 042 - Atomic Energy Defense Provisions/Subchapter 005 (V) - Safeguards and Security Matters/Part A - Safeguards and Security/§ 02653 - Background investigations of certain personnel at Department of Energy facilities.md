@@ -14,9 +14,9 @@ Section was formerly classified to section 7383a of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239 struck out subsec. (a) designation and heading “In general”, substituted “national security laboratory” for “national laboratory” in introductory provisions of text, and struck out subsecs. (b) and (c), which, respectively, required compliance by Secretary with former subsec. (a) and defined “national laboratory” and “Restricted Data”.
+<b>2013</b>—Pub. L. 112–239 struck out subsec. (a) designation and heading "In general", substituted "national security laboratory" for "national laboratory" in introductory provisions of text, and struck out subsecs. (b) and (c), which, respectively, required compliance by Secretary with former subsec. (a) and defined "national laboratory" and "Restricted Data".
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(h)(4)(D)(i), substituted “October 5, 1999,” for “the date of the enactment of this Act” in the original, which for purposes of codification had been changed to “October 5, 1999,” thus requiring no change in text.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(h)(4)(D)(i), substituted "October 5, 1999," for "the date of the enactment of this Act" in the original, which for purposes of codification had been changed to "October 5, 1999," thus requiring no change in text.
 
 Subsec. (c). Pub. L. 108–136, §3141(h)(4)(D)(ii), added subsec. (c).
 

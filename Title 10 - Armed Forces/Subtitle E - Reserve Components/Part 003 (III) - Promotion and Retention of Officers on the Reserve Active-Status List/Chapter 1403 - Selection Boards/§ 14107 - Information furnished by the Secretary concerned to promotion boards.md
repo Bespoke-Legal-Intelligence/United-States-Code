@@ -16,7 +16,7 @@ Integrity of the Promotion Selection Board Process.—(1) The Secretary of Defen
 
 (3) In the case of an eligible officer considered for promotion to a grade above colonel or, in the case of the Navy, captain, any credible information of an adverse nature, including any substantiated adverse finding or conclusion from an officially documented investigation or inquiry, shall be furnished to the selection board in accordance with standards and procedures set out in the regulations prescribed by the Secretary of Defense pursuant to paragraph (1).
 
-(4) Information provided to a promotion board in accordance with paragraphs (2) and (3) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shallbe in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the promotion board.
+(4) Information provided to a promotion board in accordance with paragraphs (2) and (3) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shall be in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the promotion board.
 
 (5) Paragraphs (2), (3), and (4) do not apply to the furnishing of appropriate administrative processing information to the promotion board by an administrative staff designated to assist the board, but only to the extent that oral communications are necessary to facilitate the work of the board.
 
@@ -44,7 +44,7 @@ Information To Be Furnished.—The Secretary of the military department concerne
 
 &emsp;(3) The pertinent records (as determined by the Secretary) of each officer whose name is furnished to the board.
 
-&emsp;(4) Information or guidelines relating to the needs of the armed force concerned for officers having particular skills, including (except in the case of a vacancy promotion board) guidelines or information relating to either a minimum number or a maximum number of officers with particular skills within a competitive category.
+&emsp;(4) Information or guidelines relating to the needs of the armed force concerned for officershaving particular skills, including (except in the case of a vacancy promotion board) guidelines or information relating to either a minimum number or a maximum number of officers with particular skills within a competitive category.
 
 &emsp;(5) Such other information or guidelines as the Secretary concerned may determine to be necessary to enable the board to perform its functions.
 
@@ -66,19 +66,19 @@ Provisions similar to those in subsec. (b) of this section were contained in sec
 
 <b>2006</b>—Subsec. (a)(3). Pub. L. 109–163, §506(b)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 109–163, §506(b)(1)(A), (2)(A), redesignated par. (3) as (4) and substituted “paragraphs (2) and (3)” for “paragraph (2)”. Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 109–163, §506(b)(1)(A), (2)(A), redesignated par. (3) as (4) and substituted "paragraphs (2) and (3)" for "paragraph (2)". Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 109–163, §506(b)(1)(A), (2)(B), redesignated par. (4) as (5) and substituted “, (3), and (4)” for “and (3)”. Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 109–163, §506(b)(1)(A), (2)(B), redesignated par. (4) as (5) and substituted ", (3), and (4)" for "and (3)". Former par. (5) redesignated (6).
 
-Subsec. (a)(6). Pub. L. 109–163, §506(b)(1)(A), (2)(C)(i), redesignated par. (5) as (6) and inserted “, or in paragraph (3),” after “paragraph (2)” in introductory provisions. Former par. (6) redesignated (7).
+Subsec. (a)(6). Pub. L. 109–163, §506(b)(1)(A), (2)(C)(i), redesignated par. (5) as (6) and inserted ", or in paragraph (3)," after "paragraph (2)" in introductory provisions. Former par. (6) redesignated (7).
 
-Subsec. (a)(6)(B). Pub. L. 109–163, §506(b)(2)(C)(ii), inserted “or (3), as applicable” after “paragraph (2)”.
+Subsec. (a)(6)(B). Pub. L. 109–163, §506(b)(2)(C)(ii), inserted "or (3), as applicable" after "paragraph (2)".
 
 Subsec. (a)(7). Pub. L. 109–163, §506(b)(1)(A), redesignated par. (6) as (7).
 
-Subsec. (a)(7)(A). Pub. L. 109–163, §506(b)(2)(D), inserted “or (3)” after “paragraph (2)(B)”.
+Subsec. (a)(7)(A). Pub. L. 109–163, §506(b)(2)(D), inserted "or (3)" after "paragraph (2)(B)".
 
-Subsec. (d). Pub. L. 109–163, §515(b)(1)(QQ), substituted “Navy Reserve” for “Naval Reserve”.
+Subsec. (d). Pub. L. 109–163, §515(b)(1)(QQ), substituted "Navy Reserve" for "Naval Reserve".
 
 #### Effective Date of 2006 Amendment
 

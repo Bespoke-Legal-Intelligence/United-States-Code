@@ -18,7 +18,7 @@ The Termination Act is repealed.
 
 #### (d) Effect on property rights and other obligations
 
-Except as otherwise specifically provided in this subchapter, this subchapter shall not affect any property right or obligation or any contractual right or obligation in existence before the effective date of this subchapter, or any obligation for taxes levied before that date.
+Except as otherwise specifically provided in this subchapter, this subchapter shall not affectany property right or obligation or any contractual right or obligation in existence before the effective date of this subchapter, or any obligation for taxes levied before that date.
 
 #### (e) Extent of jurisdiction
 

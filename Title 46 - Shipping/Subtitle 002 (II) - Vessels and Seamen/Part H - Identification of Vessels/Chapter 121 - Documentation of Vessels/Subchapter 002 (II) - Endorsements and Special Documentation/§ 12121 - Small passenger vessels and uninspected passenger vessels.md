@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Eligible vessel.—The term “eligible vessel” means a vessel that—
+Eligible vessel.—The term "eligible vessel" means a vessel that—
 
 &emsp;&emsp;(A) was not built in the United States and is at least 3 years old; or
 
@@ -14,7 +14,7 @@ Eligible vessel.—The term “eligible vessel” means a vessel that—
 
 &emsp;(2)
 
-Small passenger vessel; uninspected passenger vessel; passenger for hire.—The terms “small passenger vessel”, “uninspected passenger vessel”, and “passenger for hire” have the meaning given those terms in section 2101 of this title.
+Small passenger vessel; uninspected passenger vessel; passenger for hire.—The terms "small passenger vessel", "uninspected passenger vessel", and "passenger for hire" have the meaning given those terms in section 2101 of this title.
 
 (b)
 
@@ -58,7 +58,7 @@ Historical and Revision Notes
 
 Pub. L. 105–383, title V, §§502–504, Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–295, title II, §207(c)(2), Nov. 25, 2002, 116 Stat. 2097.
 
-The definition of “Secretary” is omitted for consistency in the chapter.
+The definition of "Secretary" is omitted for consistency in the chapter.
 
 #### Prior Provisions
 
@@ -74,5 +74,5 @@ A prior section 12124, added Pub. L. 105–383, title IV, §401(a)(2), Nov. 13, 
 
 #### Effect of Repeal
 
-Pub. L. 107–295, title II, §207(c)(1), Nov. 25, 2002, 116 Stat. 2097, provided that: “Section 505 of the Coast Guard Authorization Act of 1998 \[Pub. L. 105–383\] (\[formerly\] 46 U.S.C. 12106 note) is repealed. The repeal of section 505 shall have no effect on the validity of any certificate or endorsement issued under section 502 of that Act \[now 46 U.S.C. 12121(b)\].”
+Pub. L. 107–295, title II, §207(c)(1), Nov. 25, 2002, 116 Stat. 2097, provided that: "Section 505 of the Coast Guard Authorization Act of 1998 \[Pub. L. 105–383\] (\[formerly\] 46 U.S.C. 12106 note) is repealed. The repeal of section 505 shall have no effect on the validity of any certificate or endorsement issued under section 502 of that Act \[now 46 U.S.C. 12121(b)\]."
 

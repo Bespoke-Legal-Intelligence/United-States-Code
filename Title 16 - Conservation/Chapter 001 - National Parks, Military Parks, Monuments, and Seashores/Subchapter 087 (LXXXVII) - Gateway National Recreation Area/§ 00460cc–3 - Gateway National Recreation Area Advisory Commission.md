@@ -2,7 +2,7 @@
 
 #### (a) Establishment; termination date
 
-There is hereby established a Gateway National Recreation Area Advisory Commission (hereinafter referred to as the “Commission”). Said Commission shall terminate twenty years after the date of the establishment of the recreation area.
+There is hereby established a Gateway National Recreation Area Advisory Commission (hereinafter referred to as the "Commission"). Said Commission shall terminate twenty years after the date of the establishment of the recreation area.
 
 #### (b) Membership; appointment; terms of office; representation of interests
 
@@ -38,7 +38,7 @@ The Secretary or his designee shall, from time to time, consult with the members
 
 #### Amendments
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–232 substituted “twenty” for “ten”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–232 substituted "twenty" for "ten".
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–344 substituted in provision preceding par. (1) “fifteen” for “eleven” and in par. (5) “seven” for “three”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–344 substituted in provision preceding par. (1) "fifteen" for "eleven" and in par. (5) "seven" for "three".
 

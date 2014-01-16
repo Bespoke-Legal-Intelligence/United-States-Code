@@ -26,7 +26,7 @@ Section 1812, act May 28, 1956, ch. 327, title I, §124, 70 Stat. 198, authorize
 
 Section 1813, acts May 28, 1956, ch. 327, title I, §125, 70 Stat. 198; Apr. 9, 1960, Pub. L. 86–423, §2, 74 Stat. 42, restricted leasing of government owned land for production of price supported crops in surplus supply.
 
-Section 1814, act May 28, 1956, ch. 327, title I, §126, 70 Stat. 198, authorized Secretary to permit farmers to pool their rights to participate jointly in conservation reserve program on property other than their home farms.
+Section 1814, act May 28, 1956, ch. 327, title I, §126, 70 Stat. 198, authorized Secretary to permit farmers topool their rights to participate jointly in conservation reserve program on property other than their home farms.
 
 Section 1815, act May 28, 1956, ch. 327, title I, §127, as added May 16, 1958, Pub. L. 85–413, 72 Stat. 118, authorized Secretary to provide fair and equitable treatment for producers who entered into acreage reserve or conservation reserve contracts based upon incorrect information furnished under 1956 program through compensation for losses.
 

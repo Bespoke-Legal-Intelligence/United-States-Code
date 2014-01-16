@@ -6,13 +6,13 @@ Every manufacturer of tobacco products, processed tobacco, or cigarette papers a
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–3 inserted “, processed tobacco,” after “tobacco products”.
+<b>2009</b>—Pub. L. 111–3 inserted ", processed tobacco," after "tobacco products".
 
-<b>1976</b>—Pub. L. 94–455 inserted reference to importers, struck out “or his delegate” after “Secretary”, and provided that the required records be available for inspection by any internal revenue officer during business hours.
+<b>1976</b>—Pub. L. 94–455 inserted reference to importers, struck out "or his delegate" after "Secretary", and provided that the required records be available for inspection by any internal revenue officer during business hours.
 
 <b>1965</b>—Pub. L. 89–44 struck out reference to every dealer in tobacco materials.
 
-<b>1958</b>—Pub. L. 85–859 substituted “tobacco products or cigarette papers and tubes, every warehouse proprietor, and every dealer” for “articles and dealer”, and “such manner” for “such form”.
+<b>1958</b>—Pub. L. 85–859 substituted "tobacco products or cigarette papers and tubes, every warehouse proprietor, and every dealer" for "articles and dealer", and "such manner" for "such form".
 
 #### Effective Date of 2009 Amendment
 

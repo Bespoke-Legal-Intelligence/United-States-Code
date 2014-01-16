@@ -128,7 +128,7 @@ The duties described in this subsection are the following:
 
 #### (D) Multi-stakeholder group defined
 
-&emsp;&emsp;In this paragraph, the term “multi-stakeholder group” means, with respect to a quality and efficiency measure, a voluntary collaborative of organizations representing a broad group of stakeholders interested in or affected by the use of such quality and efficiency measure.
+&emsp;&emsp;In this paragraph, the term "multi-stakeholder group" means, with respect to a quality and efficiency measure, a voluntary collaborative of organizations representing a broad group of stakeholders interested in or affected by the use of such quality and efficiency measure.
 
 #### (8) Transmission of multi-stakeholder input
 
@@ -170,7 +170,7 @@ The requirements described in this subsection are the following:
 
 #### (5) Voluntary consensus standards setting organization
 
-&emsp;The entity operates as a voluntary consensus standards setting organization as defined for purposes of section 12(d) of the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113) and Office of Management and Budget Revised Circular A–119 (published in the Federal Register on February 10, 1998).
+&emsp;The entity operates as a voluntary consensus standards setting organization as defined for purposes of section 12(d) of the National Technology Transfer and Advancement Act of1995 (Public Law 104–113) and Office of Management and Budget Revised Circular A–119 (published in the Federal Register on February 10, 1998).
 
 #### (6) Experience
 
@@ -182,9 +182,9 @@ The requirements described in this subsection are the following:
 
 #### (d) Funding
 
-For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for each of fiscal years 2009 through 2013.
+For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1109, Dec. 26, 2013, 127 Stat. 1197.)
 
 #### References in Text
 
@@ -192,7 +192,7 @@ Section 12(d) of the National Technology Transfer and Advancement Act of 1995, r
 
 #### Codification
 
-In subsec. (a)(4), “section 132 of title 41” substituted for “section 4(5) of the Office of Federal ProcurementPolicy Act (41 U.S.C. 403(5))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(4), "section 132 of title 41" substituted for "section 4(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(5))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
@@ -200,21 +200,23 @@ A prior section 1395aaa, act Aug. 14, 1935, ch. 531, title XVIII, §1890, as add
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(4). Pub. L. 112–240, §609(a)(2), struck out par. (4). Text read as follows: “The entity shall promote the development and use of electronic health records that contain the functionality for automated collection, aggregation, and transmission of performance measurement information.”
+<b>2013</b>—Subsec. (b)(4). Pub. L. 112–240, §609(a)(2), struck out par. (4). Text read as follows: "The entity shall promote the development and use of electronic health records that contain the functionality for automated collection, aggregation, and transmission of performance measurement information."
 
-Subsec. (d). Pub. L. 112–240, §609(a)(1), substituted “fiscal years 2009 through 2013” for “fiscal years 2009 through 2012”.
+Subsec. (d). Pub. L. 113–67 inserted at end "Amounts transferred under the preceding sentence shall remain available until expended."
+
+Pub. L. 112–240, §609(a)(1), substituted "fiscal years 2009 through 2013" for "fiscal years 2009 through 2012".
 
 <b>2010</b>—Subsec. (b)(5)(A)(iv) to (vi). Pub. L. 111–148, §3014(a)(2), added cls. (iv) to (vi).
 
 Subsec. (b)(6). Pub. L. 111–148, §3003(b), added par. (6).
 
-Subsec. (b)(7). Pub. L. 111–148, §10304, substituted “quality and efficiency” for “quality” wherever appearing in text.
+Subsec. (b)(7). Pub. L. 111–148, §10304, substituted "quality and efficiency" for "quality" wherever appearing in text.
 
 Pub. L. 111–148, §3014(a)(1), added par. (7).
 
-Subsec. (b)(7)(B). Pub. L. 111–148, §10304, which directed substitution of “quality and efficiency” for “quality” wherever appearing, was executed by substituting “Quality and efficiency” for “Quality” in subpar. heading to reflect the probable intent of Congress.
+Subsec. (b)(7)(B). Pub. L. 111–148, §10304, which directed substitution of "quality and efficiency" for "quality" wherever appearing, was executed by substituting "Quality and efficiency" for "Quality" in subpar. heading to reflect the probable intent of Congress.
 
-Subsec. (b)(7)(B)(i)(I). Pub. L. 111–148, §10322(b), inserted “1395ww(s)(4)(D),” after “1395ww(o)(2),”.
+Subsec. (b)(7)(B)(i)(I). Pub. L. 111–148, §10322(b), inserted "1395ww(s)(4)(D)," after "1395ww(o)(2),".
 
 Subsec. (b)(8). Pub. L. 111–148, §3014(a)(1), added par. (8).
 

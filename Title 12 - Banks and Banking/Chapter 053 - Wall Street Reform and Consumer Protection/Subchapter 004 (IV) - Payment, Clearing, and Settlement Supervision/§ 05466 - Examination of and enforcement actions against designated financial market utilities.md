@@ -52,7 +52,7 @@ For purposes of enforcing the provisions of this subchapter, a designated financ
 
 #### (4) Enforcement action
 
-&emsp;Upon an affirmative vote by a majority of the Council in favor of the Board of Governors’ recommendation under paragraph (3), the Council may require the Supervisory Agency to—
+&emsp;Upon an affirmative vote by a majority of the Council in favor of the Board of Governors' recommendation under paragraph (3), the Council may require the Supervisory Agency to—
 
 &emsp;&emsp;(A) exercise the enforcement authority referenced in subsection (c); and
 
@@ -70,7 +70,7 @@ For purposes of enforcing the provisions of this subchapter, a designated financ
 
 &emsp;&emsp;&emsp;(ii) the condition of a designated financial market utility poses an imminent risk of substantial harm to financial institutions, critical markets, or the broader financial system; and
 
-&emsp;&emsp;(B) the imminent risk of substantial harm precludes the Board of Governors’ use of the procedures in subsection (e).
+&emsp;&emsp;(B) the imminent risk of substantial harm precludes the Board of Governors' use of the procedures in subsection (e).
 
 #### (2) Enforcement authority
 

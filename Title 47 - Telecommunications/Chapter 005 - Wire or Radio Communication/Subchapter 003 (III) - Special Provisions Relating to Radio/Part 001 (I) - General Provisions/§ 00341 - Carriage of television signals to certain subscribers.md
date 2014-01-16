@@ -14,7 +14,7 @@ Deemed Significantly Viewed.—A station described in subsection (a) of this sec
 
 (3)
 
-Definition of Eligible County.—For purposes of this section, the term “eligible county” means any 1 of 4 counties that—
+Definition of Eligible County.—For purposes of this section, the term "eligible county" means any 1 of 4 counties that—
 
 &emsp;(A) are all in a single State;
 

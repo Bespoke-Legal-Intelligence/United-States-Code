@@ -12,7 +12,7 @@ There are authorized to be appropriated for purposes of carrying out this part 
 
 #### References in Text
 
-This part, referred to in subsec. (b), was in the original “this chapter” and was translated as reading “this part” to reflect the probable intent of Congress because title III of Pub. L. 98–377, which comprises this subchapter, does not contain chapters.
+This part, referred to in subsec. (b), was in the original "this chapter" and was translated as reading "this part" to reflect the probable intent of Congress because title III of Pub. L. 98–377, which comprises this subchapter, does not contain chapters.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

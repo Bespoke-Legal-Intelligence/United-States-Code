@@ -2,7 +2,7 @@
 
 #### (a) Advisory Committee on Adoption and Foster Care Information
 
-(1) Not later than 90 days after October 21, 1986, the Secretary shall establish an Advisory Committee on Adoption and Foster Care Information (in this section referred to as the “Advisory Committee”) to study the various methods of establishing, administering, and financing a system for the collection of data with respect to adoption and foster care in the United States.
+(1) Not later than 90 days after October 21, 1986, the Secretary shall establish an Advisory Committee on Adoption and Foster Care Information (in this section referred to as the "Advisory Committee") to study the various methods of establishing, administering, and financing a system for the collection of data with respect to adoption and foster care in the United States.
 
 (2) The study required by paragraph (1) shall—
 
@@ -68,7 +68,7 @@ Any data collection system developed and implemented under this section shall—
 
 &emsp;(1) avoid unnecessary diversion of resources from agencies responsible for adoption and foster care;
 
-&emsp;(2) assure that any data that is collected is reliable and consistent over time and amongjurisdictions through the use of uniform definitions and methodologies;
+&emsp;(2) assure that any data that is collected is reliable and consistent over time and among jurisdictions through the use of uniform definitions and methodologies;
 
 &emsp;(3) provide comprehensive national information with respect to—
 

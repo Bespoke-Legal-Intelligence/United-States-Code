@@ -26,5 +26,5 @@ Loan to responsible public or private organizations, institutions, or agencies, 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–333 struck out “from such donations and bequests of money” before “museum objects”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–333 struck out "from such donations and bequests of money" before "museum objects".
 

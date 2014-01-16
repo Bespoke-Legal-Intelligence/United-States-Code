@@ -6,7 +6,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### Amendments
 
-<b>1969</b>—Pub. L. 91–15 substituted “$1,200,000” for “$1,500,000”.
+<b>1969</b>—Pub. L. 91–15 substituted "$1,200,000" for "$1,500,000".
 
-<b>1966</b>—Pub. L. 89–688 substituted “this title” for “this Act”, which, for purposes of codification, has been changed to “this subchapter”.
+<b>1966</b>—Pub. L. 89–688 substituted "this title" for "this Act", which, for purposes of codification, has been changed to "this subchapter".
 

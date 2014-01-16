@@ -62,7 +62,7 @@ Receiving cash incentives.—The Administrator may receive amounts from rebates 
 
 &emsp;(2)
 
-Receiving goods or services.—The Administrator may accept, from a utility, goodsor services that enhance the energy efficiency of federal facilities.
+Receiving goods or services.—The Administrator may accept, from a utility, goods or services that enhance the energy efficiency of federal facilities.
 
 &emsp;(3)
 
@@ -164,15 +164,15 @@ Pub. L. 105–277, div. A, §101(h) \[title IV, 6th proviso on p. 2681–502\], 
 
 Pub. L. 102–393, title IV, §13, Oct. 6, 1992, 106 Stat. 1751.
 
-In subsection (a), the words “on such date as may be determined by the Administrator” are omitted as obsolete. The text of 40:490(f)(3) and (4) is omitted as executed.
+In subsection (a), the words "on such date as may be determined by the Administrator" are omitted as obsolete. The text of 40:490(f)(3) and (4) is omitted as executed.
 
-In subsection (b)(1)(B), the words “federal building sites or additions” are substituted for “building sites” for consistency with section 581(d) of the revised title.
+In subsection (b)(1)(B), the words "federal building sites or additions" are substituted for "building sites" for consistency with section 581(d) of the revised title.
 
-In subsection (b)(3), the words “To prevent the accumulation of excessive surpluses in the Fund” and “transferred out of the Fund” are added for clarity. See House Report No. 92–989, dated April 14, 1972 (United States Code Congressional and Administrative News, 92d Congress, 2d Session, 1972, Vol. 2, pp. 2370, 2377).
+In subsection (b)(3), the words "To prevent the accumulation of excessive surpluses in the Fund" and "transferred out of the Fund" are added for clarity. See House Report No. 92–989, dated April 14, 1972 (United States Code Congressional and Administrative News, 92d Congress, 2d Session, 1972, Vol. 2, pp. 2370, 2377).
 
-In subsection (c)(4), the words “amounts authorized to be expended from the Fund” are substituted for “this authorization, and hereafter” to restate the provision as general and permanent law without reference to a single year's appropriation Act.
+In subsection (c)(4), the words "amounts authorized to be expended from the Fund" are substituted for "this authorization, and hereafter" to restate the provision as general and permanent law without reference to a single year's appropriation Act.
 
-In subsection (f), the words “during a fiscal year” are omitted as unnecessary.
+In subsection (f), the words "during a fiscal year" are omitted as unnecessary.
 
 #### References in Text
 

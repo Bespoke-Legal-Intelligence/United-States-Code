@@ -20,7 +20,7 @@ Conditions.—(1) Assistance for a project shall be provided under this chapter 
 
 &emsp;(A) a rail carrier certifies that the rail line related to the project carried more than 20 carloads a mile during the most recent year during which transportation was provided by the carrier on the line; and
 
-&emsp;(B) the ratio of benefits to costs for the project, as calculated using the methodologyestablished under subsection (b) of this section, is more than 1.0.
+&emsp;(B) the ratio of benefits to costs for the project, as calculated using the methodology established under subsection (b) of this section, is more than 1.0.
 
 (2) If the rail carrier that provided the transportation on the rail line is no longer in existence, the applicant for the project shall provide the information required by the certification under paragraph (1)(A) of this subsection in the way the Secretary prescribes.
 
@@ -68,19 +68,19 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(b), (c), (n)–(p); added Feb
 
 49 App.:1654(<i>o</i>).
 
-In this chapter, the word “transportation” is substituted for “service” for consistency in the revised title.
+In this chapter, the word "transportation" is substituted for "service" for consistency in the revised title.
 
-In subsection (a), before clause (1), the words “when a rail carrier . . . maintains a rail line in the State” are substituted for “As used in this section, the term ‘State’ means any State in which a rail carrier providing transportation . . . maintains any line of railroad” because of the restatement. The words “the jurisdiction of the Interstate Commerce Commission” are omitted as unnecessary because of 49:ch. 105. In clause (1), the words “by purchase, lease” are omitted as being included in “in any way the State considers appropriate” to eliminate unnecessary words.
+In subsection (a), before clause (1), the words "when a rail carrier . . . maintains a rail line in the State" are substituted for "As used in this section, the term 'State' means any State in which a rail carrier providing transportation . . . maintains any line of railroad" because of the restatement. The words "the jurisdiction of the Interstate Commerce Commission" are omitted as unnecessary because of 49:ch. 105. In clause (1), the words "by purchase, lease" are omitted as being included in "in any way the State considers appropriate" to eliminate unnecessary words.
 
-In subsection (b), the words “no later than July 1, 1990” are omitted as executed.
+In subsection (b), the words "no later than July 1, 1990" are omitted as executed.
 
-In subsection (c)(1), before clause (A), the words “Assistance for a project shall be provided under this chapter only if” are substituted for “No project shall be provided rail freight assistance under this section unless” because of the restatement.
+In subsection (c)(1), before clause (A), the words "Assistance for a project shall be provided under this chapter only if" are substituted for "No project shall be provided rail freight assistance under this section unless" because of the restatement.
 
-In subsection (c)(2), the words “If the rail carrier that provided the transportation on the rail line” are substituted for “In a case where the railroad”, and the words “information required by the certification under paragraph (1)(A) of this subsection” are substituted for “such information”, for clarity.
+In subsection (c)(2), the words "If the rail carrier that provided the transportation on the rail line" are substituted for "In a case where the railroad", and the words "information required by the certification underparagraph (1)(A) of this subsection" are substituted for "such information", for clarity.
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted “part A of subtitle IV” for “subchapter I of chapter 105” in introductory provisions and “Surface Transportation Board” for “Interstate Commerce Commission” in par. (1).
+<b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted "part A of subtitle IV" for "subchapter I of chapter 105" in introductory provisions and "Surface Transportation Board" for "Interstate Commerce Commission" in par. (1).
 
 #### Effective Date of 1995 Amendment
 

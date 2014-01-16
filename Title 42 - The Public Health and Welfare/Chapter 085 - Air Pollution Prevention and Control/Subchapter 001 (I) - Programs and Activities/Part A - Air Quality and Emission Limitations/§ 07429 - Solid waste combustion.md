@@ -20,7 +20,7 @@
 
 #### (3) Control methods and technologies
 
-&emsp;Standards under section 7411 of this title and this section applicable to solid waste incineration units shall be based on methods and technologies for removal or destruction of pollutants before, during, or after combustion, and shall incorporate for new units siting requirements that minimize, on a site specific basis, to the maximum extent practicable, potential risks to public health or the environment.
+&emsp;Standards under section 7411 of this title and this section applicable to solid waste incineration units shall be based on methods and technologies for removal or destruction of pollutants before, during, or after combustion,and shall incorporate for new units siting requirements that minimize, on a site specific basis, to the maximum extent practicable, potential risks to public health or the environment.
 
 #### (4) Numerical emissions limitations
 
@@ -46,7 +46,7 @@
 
 #### (c) Monitoring
 
-The Administrator shall, as part of each performance standard promulgated pursuant to subsection (a) of this section and section 7411 ofthis title, promulgate regulations requiring the owner or operator of each solid waste incineration unit—
+The Administrator shall, as part of each performance standard promulgated pursuant to subsection (a) of this section and section 7411 of this title, promulgate regulations requiring the owner or operator of each solid waste incineration unit—
 
 &emsp;(1) to monitor emissions from the unit at the point at which such emissions are emitted into the ambient air (or within the stack, combustion chamber or pollution control equipment, as appropriate) and at such other points as necessary to protect public health and the environment;
 
@@ -58,7 +58,7 @@ The Administrator shall, as part of each performance standard promulgated pursua
 
 #### (d) Operator training
 
-Not later than 24 months after November 15, 1990, the Administrator shall develop and promote a model State program for the training and certification of solid waste incineration unit operators and high-capacity fossil fuel fired plant operators. The Administrator may authorize any State to implement a model program for the training of solid waste incineration unit operators and high-capacity fossil fuel fired plant operators, if the State has adopted a program which is at least as effective as the model program developed by the Administrator. Beginning on the date 36 months after the date on which performance standards and guidelines are promulgated under subsection (a) of this section and section 7411 of this title for any category of solid waste incineration units it shall be unlawful to operate any unit in the category unless each person with control over processes affecting emissions from such unit has satisfactorily completed a training program meeting the requirements established by the Administrator under this subsection.
+Not later than 24 months after November 15, 1990, the Administrator shall develop and promote a model State program for the training and certification of solid waste incineration unit operators and high-capacity fossil fuel fired plant operators. The Administrator may authorize any State to implement a model program for the training of solid waste incineration unit operators and high-capacity fossil fuel fired plant operators, if the State has adopted a program which is at least as effective as the model program developed by the Administrator. Beginning on the date 36 months after the date on which performance standards and guidelines are promulgated under subsection (a) of this section and section 7411 of this title for any category ofsolid waste incineration units it shall be unlawful to operate any unit in the category unless each person with control over processes affecting emissions from such unit has satisfactorily completed a training program meeting the requirements established by the Administrator under this subsection.
 
 #### (e) Permits
 
@@ -80,7 +80,7 @@ Beginning (1) 36 months after the promulgation of a performance standard under s
 
 #### (4) Coordination with other authorities
 
-&emsp;For purposes of sections 7411(e), 7413, 7414, 7416, 7420, 7603, 7604, 7607 of this title and other provisions for the enforcement of this chapter, each performance standard, emission limitation or other requirement established pursuant to this section by the Administrator or aState or local government, shall be treated in the same manner as a standard of performance under section 7411 of this title which is an emission limitation.
+&emsp;For purposes of sections 7411(e), 7413, 7414, 7416, 7420, 7603, 7604, 7607 of this title and other provisions for the enforcement of this chapter, each performance standard, emission limitation or other requirement established pursuant to this section by the Administrator or a State or local government, shall be treated in the same manner as a standard of performance under section 7411 of this title which is an emission limitation.
 
 #### (g) Definitions
 
@@ -88,27 +88,27 @@ For purposes of section 306 of the Clean Air Act Amendments of 1990 and this sec
 
 #### (1) Solid waste incineration unit
 
-&emsp;The term “solid waste incineration unit” means a distinct operating unit of any facility which combusts any solid waste material from commercial or industrial establishments or the general public (including single and multiple residences, hotels, and motels). Such term does not include incinerators or other units required to have a permit under section 3005 of the Solid Waste Disposal Act \[42 U.S.C. 6925\]. The term “solid waste incineration unit” does not include (A) materials recovery facilities (including primary or secondary smelters) which combust waste for the primary purpose of recovering metals, (B) qualifying small power production facilities, as defined in section 796(17)(C) of title 16, or qualifying cogeneration facilities, as defined in section 796(18)(B) of title 16, which burn homogeneous waste (such as units which burn tires or used oil, but not including refuse-derived fuel) for the production of electric energy or in the case of qualifying cogeneration facilities which burn homogeneous waste for the production of electric energy and steam or forms of useful energy (such as heat) which are used for industrial, commercial, heating or cooling purposes, or (C) air curtain incinerators provided that such incinerators only burn wood wastes, yard wastes and clean lumber and that such air curtain incinerators comply with opacity limitations to be established by the Administrator by rule.
+&emsp;The term "solid waste incineration unit" means a distinct operating unit of any facility which combusts any solid waste material from commercial or industrial establishments or the general public (including single and multiple residences, hotels, and motels). Such term does not include incinerators or other units required to have a permit under section 3005 of the Solid Waste Disposal Act \[42 U.S.C. 6925\]. The term "solid waste incineration unit" does not include (A) materials recovery facilities (including primary or secondary smelters) which combust waste for the primary purpose of recovering metals, (B) qualifying small power production facilities, as defined in section 796(17)(C) of title 16, or qualifying cogeneration facilities, as defined in section 796(18)(B) of title 16, which burn homogeneous waste (such as units which burn tires or used oil, but not including refuse-derived fuel) for the production of electric energy or in the case of qualifying cogeneration facilities which burn homogeneous waste for the production of electric energy and steam or forms of useful energy (such as heat) which are used for industrial, commercial, heating or cooling purposes, or (C) air curtain incinerators provided that such incinerators only burn wood wastes, yard wastes and clean lumber and that such air curtain incinerators comply with opacity limitations to be established by the Administrator by rule.
 
 #### (2) New solid waste incineration unit
 
-&emsp;The term “new solid waste incineration unit” means a solid waste incineration unit the construction of which is commenced after the Administrator proposes requirements under this section establishing emissions standards or other requirements which would be applicable to such unit or a modified solid waste incineration unit.
+&emsp;The term "new solid waste incineration unit" means a solid waste incineration unit the construction of which is commenced after the Administrator proposes requirements under this section establishing emissions standards or other requirements which wouldbe applicable to such unit or a modified solid waste incineration unit.
 
 #### (3) Modified solid waste incineration unit
 
-&emsp;The term “modified solid waste incineration unit” means a solid waste incineration unit at which modifications have occurred after the effective date of a standard under subsection (a) of this section if (A) the cumulative cost of the modifications, over the life of the unit, exceed 50 per centum of the original cost of construction and installation of the unit (not including the cost of any land purchased in connection with such construction or installation) updated to current costs, or (B) the modification is a physical change in or change in the method of operation of the unit which increases the amount of any air pollutant emitted by the unit for which standards have been established under this section or section 7411 of this title.
+&emsp;The term "modified solid waste incineration unit" means a solid waste incineration unit at which modifications have occurred after the effective date of a standard under subsection (a) of this section if (A) the cumulative cost of the modifications, over the life of the unit, exceed 50 per centum of the original cost of construction and installation of the unit (not including the cost of any land purchased in connection with such construction or installation) updated to current costs, or (B) the modification is a physical change in or change in the method of operation of the unit which increases the amount of any air pollutant emitted by the unit for which standards have been established under this section or section 7411 of this title.
 
 #### (4) Existing solid waste incineration unit
 
-&emsp;The term “existing solid waste incineration unit” means a solid waste unit which is not a new or modified solid waste incineration unit.
+&emsp;The term "existing solid waste incineration unit" means a solid waste unit which is not a new or modified solid waste incineration unit.
 
 #### (5) Municipal waste
 
-&emsp;The term “municipal waste” means refuse (and refuse-derived fuel) collected from the general public and from residential, commercial, institutional, and industrial sources consisting of paper, wood, yard wastes, food wastes, plastics, leather, rubber, and other combustible materials and non-combustible materials such as metal, glass and rock, provided that: (A) the term does not include industrial process wastes or medical wastes that are segregated from such other wastes; and (B) an incineration unit shall not be considered to be combusting municipal waste for purposes of section 7411 of this title or this section if it combusts a fuel feed stream, 30 percent or less of the weight of which is comprised, in aggregate, of municipal waste.
+&emsp;The term "municipal waste" means refuse (and refuse-derived fuel) collected from the general public and from residential, commercial, institutional, and industrial sources consisting of paper, wood, yard wastes, food wastes, plastics, leather, rubber, and other combustible materials and non-combustible materials such as metal, glass and rock, provided that: (A) the term does not include industrial process wastes or medical wastes that are segregated from such other wastes; and (B) an incineration unit shall not be considered to be combusting municipal waste for purposes of section 7411 of this title or this section if it combusts a fuel feed stream, 30 percent or less of the weight of which is comprised, in aggregate, of municipal waste.
 
 #### (6) Other terms
 
-&emsp;The terms “solid waste” and “medical waste” shall have the meanings established by the Administrator pursuant to the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\].
+&emsp;The terms "solid waste" and "medical waste" shall have the meanings established by the Administrator pursuant to the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\].
 
 #### (h) Other authority
 
@@ -126,7 +126,7 @@ For purposes of section 306 of the Clean Air Act Amendments of 1990 and this sec
 
 &emsp;&emsp;(A) the performance standards under subsection (a) of this section and section 7411 of this title applicable to a category of solid waste incineration units shall be deemed standards under section 7412(d)(2) of this title, and
 
-&emsp;&emsp;(B) the Administrator shall consider and regulate, if required, the pollutants listedunder subsection (a)(4) of this section and no others.
+&emsp;&emsp;(B) the Administrator shall consider and regulate, if required, the pollutants listed under subsection (a)(4) of this section and no others.
 
 #### (4) Acid rain
 
@@ -146,11 +146,11 @@ The Solid Waste Disposal Act, referred to in subsec. (g)(6), is title II of Pub.
 
 #### Review of Acid Gas Scrubbing Requirements
 
-Pub. L. 101–549, title III, §305(c), Nov. 15, 1990, 104 Stat. 2583, provided that: “Prior to the promulgation of any performance standard for solid waste incineration units combusting municipal waste under section 111 or section 129 of the Clean Air Act \[42 U.S.C. 7411, 7429\], the Administrator shall review the availability of acid gas scrubbers as a pollution control technology for small new units and for existing units (as defined in 54 Federal Register 52190 (December 20, 1989)\[)\], taking into account the provisions of subsection (a)(2) of section 129 of the Clean Air Act.”
+Pub. L. 101–549, title III, §305(c), Nov. 15, 1990, 104 Stat. 2583, provided that: "Prior to the promulgation of any performance standard for solid waste incineration units combusting municipal waste under section 111 or section 129 of the Clean Air Act \[42 U.S.C. 7411, 7429\], the Administrator shall review the availability of acid gas scrubbers as a pollution control technology for small new units and for existing units (as defined in 54 Federal Register 52190 (December 20, 1989)\[)\], taking into account the provisions of subsection (a)(2) of section 129 of the Clean Air Act."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be subsection “(h)(3)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be subsection "(h)(3)".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “the”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "the".</i>
 

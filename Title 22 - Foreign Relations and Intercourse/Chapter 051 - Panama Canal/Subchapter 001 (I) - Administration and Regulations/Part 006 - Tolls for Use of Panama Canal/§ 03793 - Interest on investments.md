@@ -28,23 +28,23 @@ The value of property transferred to the Commission by any other department or a
 
 #### (d) Payment and deposit of interest
 
-The Panama Canal Commission shall pay to the Treasury of the United States interest on the investment of the United States, as determined under this section. Such interest shall be deposited in the general fund of the Treasury.
+The Panama Canal Commission shall pay to the Treasury of the United States interest onthe investment of the United States, as determined under this section. Such interest shall be deposited in the general fund of the Treasury.
 
 (Pub. L. 96–70, title I, §1603, Sept. 27, 1979, 93 Stat. 490; Pub. L. 99–195, §1(b), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, §5425(a), Dec. 22, 1987, 101 Stat. 1330–274.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2)(B), was in the original “this Act”, meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This chapter, referred to in subsec. (b)(2)(B), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Amendments
 
-<b>1987</b>—Subsec. (b)(1)(A). Pub. L. 100–203, §5425(a)(1), substituted “the Panama Canal Revolving Fund,” for “appropriations to the Commission made on or after October 1, 1979”.
+<b>1987</b>—Subsec. (b)(1)(A). Pub. L. 100–203, §5425(a)(1), substituted "the Panama Canal Revolving Fund," for "appropriations to the Commission made on or after October 1, 1979".
 
-Subsec. (b)(2)(A). Pub. L. 100–203, §5425(a)(2), substituted “deposited in the Panama Canal Revolving Fund” for “covered into the Panama Canal Commission Fund pursuant to section 3712 of this title”.
+Subsec. (b)(2)(A). Pub. L. 100–203, §5425(a)(2), substituted "deposited in the Panama Canal Revolving Fund" for "covered into the Panama Canal Commission Fund pursuant to section 3712 of this title".
 
 Subsec. (d). Pub. L. 100–203, §5425(a)(3), added subsec. (d).
 
-<b>1985</b>—Subsec. (b)(2)(A). Pub. L. 99–195 substituted “Panama Canal Commission Fund” for “Treasury”.
+<b>1985</b>—Subsec. (b)(2)(A). Pub. L. 99–195 substituted "Panama Canal Commission Fund" for "Treasury".
 
 #### Effective Date of 1987 Amendment
 

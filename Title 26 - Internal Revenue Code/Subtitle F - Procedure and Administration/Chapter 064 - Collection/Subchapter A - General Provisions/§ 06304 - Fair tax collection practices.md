@@ -14,7 +14,7 @@ Without the prior consent of the taxpayer given directly to the Secretary or the
 
 #### (b) Prohibition of harassment and abuse
 
-The Secretary may not engage in any conduct the natural consequence of which is to harass, oppress, or abuse any person in connection with the collection of any unpaid tax. Without limiting the general application of the foregoing, the following conduct is a violation of this subsection:
+The Secretary may not engage in any conduct the natural consequence of which is to harass,oppress, or abuse any person in connection with the collection of any unpaid tax. Without limiting the general application of the foregoing, the following conduct is a violation of this subsection:
 
 &emsp;(1) The use or threat of use of violence or other criminal means to harm the physical person, reputation, or property of any person.
 
@@ -36,5 +36,5 @@ A prior section 6304, act Aug. 16, 1954, ch. 736, 68A Stat. 776, related to a cr
 
 #### Effective Date
 
-Pub. L. 105–206, title III, §3466(c), July 22, 1998, 112 Stat. 769, provided that: “The amendments made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3466(c), July 22, 1998, 112 Stat. 769, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
 

@@ -24,7 +24,7 @@
 
 #### (B) Multiple types of assistance
 
-&emsp;&emsp;One or more types of housing assistance may be made available under this section, based on the suitability and availability of the types of assistance, to meet the needs of individuals and households in the particular disaster situation.
+&emsp;&emsp;One or more types of housing assistance may be made available under this section, based on the suitability and availability of the types of assistance, to meet the needs ofindividuals and households in the particular disaster situation.
 
 #### (c) Types of housing assistance
 
@@ -34,7 +34,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The President may provide financial assistance to individuals or households to rent alternate housing accommodations, existing rental units, manufactured housing, recreational vehicles, or other readilyfabricated dwellings. Such assistance may include the payment of the cost of utilities, excluding telephone service.
+&emsp;&emsp;&emsp;The President may provide financial assistance to individuals or households to rent alternate housing accommodations, existing rental units, manufactured housing, recreational vehicles, or other readily fabricated dwellings. Such assistance may include the payment of the cost of utilities, excluding telephone service.
 
 #### (ii) Amount
 
@@ -46,13 +46,31 @@
 
 &emsp;&emsp;&emsp;The President may provide temporary housing units, acquired by purchase or lease, directly to individuals or households who, because of a lack of available housing resources, would be unable to make use of the assistance provided under subparagraph (A).
 
-#### (ii) Period of assistance
+#### (ii) Lease and repair of rental units for temporary housing
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The President, to the extent the President determines it would be a cost-effective alternative to other temporary housing options, may—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) enter into lease agreements with owners of multifamily rental property located in areas covered by a major disaster declaration to house individuals and households eligible for assistance under this section; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) make repairs or improvements to properties under such lease agreements, to the extent necessary to serve as safe and adequate temporary housing.
+
+#### (II) Improvements or repairs
+
+&emsp;&emsp;&emsp;&emsp;Under the terms of any lease agreement for property entered into under this subsection, the value of the improvements or repairs—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) shall be deducted from the value of the lease agreement; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) may not exceed the value of the lease agreement.
+
+#### (iii) Period of assistance
 
 &emsp;&emsp;&emsp;The President may not provide direct assistance under clause (i) with respect to a major disaster after the end of the 18-month period beginning on the date of the declaration of the major disaster by the President, except that the President may extend that period if the President determines that due to extraordinary circumstances an extension would be in the public interest.
 
-#### (iii) Collection of rental charges
+#### (iv) Collection of rental charges
 
-&emsp;&emsp;&emsp;After the end of the 18-month period referred to in clause (ii), the President may charge fair market rent for each temporary housing unit provided.
+&emsp;&emsp;&emsp;After the end of the 18-month period referred to in clause (iii), the President may charge fair market rent for each temporary housing unit provided.
 
 #### (2) Repairs
 
@@ -98,7 +116,7 @@
 
 &emsp;&emsp;&emsp;(ii) meets the physical accessibility requirements for individuals with disabilities; and
 
-&emsp;&emsp;&emsp;(iii) is provided by the State or local government, by the owner of the site, or by the occupant who was displaced by the major disaster.
+&emsp;&emsp;&emsp;(iii) is provided by the State or local government, by the owner of the site, orby the occupant who was displaced by the major disaster.
 
 #### (B) Sites provided by the President
 
@@ -142,9 +160,9 @@
 
 #### (e) Financial assistance to address other needs
 
-#### (1) Medical, dental, and funeral expenses
+#### (1) Medical, dental, child care, and funeral expenses
 
-&emsp;The President, in consultation with the Governor of a State, may provide financial assistance under this section to an individual or household in the State who is adversely affected by a major disaster to meet disaster-related medical, dental, and funeral expenses.
+&emsp;The President, in consultation with the Governor of a State, may provide financial assistance under this section to an individual or household in the State who is adversely affected by a major disaster to meet disaster-related medical, dental, child care, and funeral expenses.
 
 #### (2) Personal property, transportation, and other expenses
 
@@ -188,7 +206,7 @@
 
 #### (2) Adjustment of limit
 
-&emsp;The limit established under paragraph (1) shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+&emsp;The limit established under paragraph (1) shall be adjusted annually to reflect changes in the Consumer Price Index for All UrbanConsumers published by the Department of Labor.
 
 #### (i) Verification measures
 
@@ -208,7 +226,7 @@ In carrying out this section, the President shall develop a system, including an
 
 The President shall prescribe rules and regulations to carry out this section, including criteria, standards, and procedures for determining eligibility for assistance.
 
-(Pub. L. 93–288, title IV, §408, as added Pub. L. 100–707, title I, §106(d), Nov. 23, 1988, 102 Stat. 4702; amended Pub. L. 106–390, title II, §206(a), Oct. 30, 2000, 114 Stat. 1566; Pub. L. 109–295, title VI, §§685, 686, 689(c), 689d, 696(c), Oct. 4, 2006, 120 Stat. 1447–1449, 1452, 1461.)
+(Pub. L. 93–288, title IV, §408, as added Pub. L. 100–707, title I, §106(d), Nov. 23, 1988, 102 Stat. 4702; amended Pub. L. 106–390, title II, §206(a), Oct. 30, 2000, 114 Stat. 1566; Pub. L. 109–295, title VI, §§685, 686, 689(c), 689d, 696(c), Oct. 4, 2006, 120 Stat. 1447–1449, 1452, 1461; Pub. L. 113–2, div. B, §§1103, 1108(a), Jan. 29, 2013, 127 Stat. 42, 47.)
 
 #### Prior Provisions
 
@@ -218,17 +236,21 @@ A prior section 408 of Pub. L. 93–288 was classified to section 5178 of this t
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–295, §689(c)(1), inserted “, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable,” after “uninhabitable”.
+<b>2013</b>—Subsec. (c)(1)(B)(ii) to (iv). Pub. L. 113–2, §1103, added cl. (ii), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and, in cl. (iv), substituted "clause (iii)" for "clause (ii)".
 
-Subsec. (c)(1)(A)(i). Pub. L. 109–295, §689d(1), inserted at end “Such assistance may include the payment of the cost of utilities, excluding telephone service.”
+Subsec. (e)(1). Pub. L. 113–2, §1108(a), inserted "child care," after "dental," in heading and text.
 
-Subsec. (c)(1)(A)(ii). Pub. L. 109–295, §689d(2), inserted “security deposits,” after “hookups,”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–295, §689(c)(1), inserted ", or with respect to individuals with disabilities, rendered inaccessible or uninhabitable," after "uninhabitable".
 
-Subsec. (c)(2)(C). Pub. L. 109–295, §686(1), struck out subpar. (C) which read as follows: “The amount of assistance provided to a household under this paragraph shall not exceed $5,000, as adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.”
+Subsec. (c)(1)(A)(i). Pub. L. 109–295, §689d(1), inserted at end "Such assistance may include the payment of the cost of utilities, excluding telephone service."
 
-Subsec. (c)(3)(B), (C). Pub. L. 109–295, §686(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The amount of assistance provided to a household under this paragraph shall not exceed $10,000, as adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.”
+Subsec. (c)(1)(A)(ii). Pub. L. 109–295, §689d(2), inserted "security deposits," after "hookups,".
 
-Subsec. (c)(4). Pub. L. 109–295, §685, in introductory provisions, inserted “or semi-permanent” after “permanent” and struck out “remote” before “locations”.
+Subsec. (c)(2)(C). Pub. L. 109–295, §686(1), struck out subpar. (C) which read as follows: "The amount of assistance provided to a household under this paragraph shall not exceed $5,000, as adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor."
+
+Subsec. (c)(3)(B), (C). Pub. L. 109–295, §686(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "The amount of assistance provided to a household under this paragraph shall not exceed $10,000, as adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor."
+
+Subsec. (c)(4). Pub. L. 109–295, §685, in introductory provisions, inserted "or semi-permanent" after "permanent" and struck out "remote" before "locations".
 
 Subsec. (d)(1)(A)(ii), (iii). Pub. L. 109–295, §689(c)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
@@ -238,5 +260,5 @@ Subsecs. (i), (j). Pub. L. 109–295, §696(c), added subsec. (i) and redesignat
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–390, title II, §206(d), Oct. 30, 2000, 114 Stat. 1571, provided that: “The amendments made by this section \[amending this section and section 5192 of this title and repealing section 5178 of this title\] take effect 18 months after the date of the enactment of this Act \[Oct. 30, 2000\].”
+Pub. L. 106–390, title II, §206(d), Oct. 30, 2000, 114 Stat. 1571, provided that: "The amendments made by this section \[amending this section and section 5192 of this title and repealing section 5178 of this title\] take effect 18 months after the date of the enactment of this Act \[Oct. 30, 2000\]."
 

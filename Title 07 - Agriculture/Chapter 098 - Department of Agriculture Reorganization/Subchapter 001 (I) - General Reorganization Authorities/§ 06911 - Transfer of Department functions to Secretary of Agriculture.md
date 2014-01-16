@@ -24,7 +24,7 @@ The Inspector General Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95�
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(5). Pub. L. 107–171 struck out par. (5) which read as follows: “Functions vested in the Corporate Board of the Alternative Agricultural Research and Commercialization Corporation by the Alternative Agricultural Research and Commercialization Act of 1990 (7 U.S.C. 5901 et seq.).”
+<b>2002</b>—Subsec. (b)(5). Pub. L. 107–171 struck out par. (5) which read as follows: "Functions vested in the Corporate Board of the Alternative Agricultural Research and Commercialization Corporation by the Alternative Agricultural Research and Commercialization Act of 1990 (7 U.S.C. 5901 et seq.)."
 
-<b>1996</b>—Subsec. (b)(5). Pub. L. 104–127 substituted “Corporate Board of the Alternative Agricultural Research and Commercialization Corporation” for “Alternative Agricultural Research and Commercialization Board”.
+<b>1996</b>—Subsec. (b)(5). Pub. L. 104–127 substituted "Corporate Board of the Alternative Agricultural Research and Commercialization Corporation" for "Alternative Agricultural Research and Commercialization Board".
 

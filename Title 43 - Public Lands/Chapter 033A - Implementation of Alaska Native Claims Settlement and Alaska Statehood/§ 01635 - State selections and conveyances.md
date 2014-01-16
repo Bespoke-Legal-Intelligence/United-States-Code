@@ -22,7 +22,7 @@
 
 #### (d) Prior State selections
 
-(1) In furtherance of the State's entitlement to lands under section 6(b) of the Alaska Statehood Act, the United States hereby conveys to the State of Alaska, subject only to valid existing rights and Native selection rights under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], all right, title and interest of the United States in and to all vacant, unappropriated, and unreserved lands, including lands subject to subsection (l) of this section, which are specified in the list entitled “Prior State of Alaska Selections to be Conveyed by Congress”, dated July 24, 1978, submitted by the State of Alaska and on file in the Office of the Secretary except those Federal lands which are specified in a list dated October 19, 1979, submitted by the State of Alaska and on file with the Office of the Secretary. If any of those townships listed above contain lands within the boundaries of any conservation system unit, national conservation area, national recreation area, new national forest or forest addition, established, designated, or expanded by this Act, then only those lands within such townships which have been previously selected by the State of Alaska shall be conveyed pursuant to this subsection.
+(1) In furtherance of the State's entitlement to lands under section 6(b) of the Alaska Statehood Act, the United States hereby conveys to the State of Alaska, subject only to valid existing rights and Native selection rights under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], all right, title and interest of the United States in and to all vacant, unappropriated, and unreserved lands, including lands subject to subsection (l) of this section, which are specified in the list entitled "Prior State of Alaska Selections to be Conveyed by Congress", dated July 24, 1978, submitted by the State of Alaska and on file in the Office of the Secretary except those Federal lands which are specified in a list dated October 19, 1979, submitted by the State of Alaska and on file with the Office of the Secretary. If any of those townships listed above contain lands within the boundaries of any conservation system unit, national conservation area, national recreation area, new national forest or forest addition, established, designated, or expanded by this Act, then only those lands within such townships which have been previously selected by the State of Alaska shall be conveyed pursuant to this subsection.
 
 (2) In furtherance of the State's entitlement to lands under section 6(a) of the Alaska Statehood Act, the United States hereby conveys to the State of Alaska, subject only to valid existing rights and Native selection rights under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], all right, title and interest of the United States in and to all valid land selections made from the national forests under authority of said section 6(a) which have been approved by the Secretary of Agriculture prior to July 1, 1979.
 
@@ -34,9 +34,9 @@
 
 (6) Future valid State land selections shall be subject only to valid existing rights and Native selection rights under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\].
 
-#### (e) Future “top filings”
+#### (e) Future "top filings"
 
-Subject to valid existing rights and Native selection rights under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the State, at its option, may file future selection applications and amendments thereto, pursuant to section 6(a) or (b) of the Alaska Statehood Act or subsection (b) of this section, for lands which are not, on the date of filing of such applications, available within the meaning of section 6(a) or (b) of the Alaska Statehood Act, other than lands within any conservation system unitor the National Petroleum Reserve—Alaska. Each such selection application, if otherwise valid, shall become an effective selection without further action by the State upon the date the lands included in such application become available within the meaning of subsection (a) or (b) of section 6 regardless of whether such date occurs before or after expiration of the State's land selection rights. Selection applications heretofore filed by the State may be refiled so as to become subject to the provisions of this subsection; except that no such refiling shall prejudice any claim of validity which may be asserted regarding the original filing of such application. Nothing contained in this subsection shall be construed to prevent the United States from transferring a Federal reservation or appropriation from one Federal agency to another Federal agency for the use and benefit of the Federal Government.
+Subject to valid existing rights and Native selection rights under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the State, at its option, may file future selection applications and amendments thereto, pursuant to section 6(a) or (b) of the Alaska Statehood Act or subsection (b) of this section, for lands which are not, on the date of filing of such applications, available within the meaning of section 6(a) or (b) of the Alaska Statehood Act, other than lands within any conservation system unit or the National Petroleum Reserve—Alaska. Each such selection application, if otherwise valid, shall become an effective selection without further action by the State upon the date the lands included in such application become available within the meaning of subsection (a) or (b) of section 6 regardless of whether such date occurs before or after expiration of the State's land selection rights. Selection applications heretofore filed by the State may be refiled so as to become subject to the provisions of this subsection; except that no such refiling shall prejudice any claim of validity which may be asserted regarding the original filing of such application. Nothing contained in this subsection shall be construed to prevent the United States from transferring a Federal reservation or appropriation from one Federal agency to another Federal agency for the use and benefit of the Federal Government.
 
 #### (f) Right to overselect
 
@@ -48,7 +48,7 @@ Subject to valid existing rights and Native selection rights under the Alaska Na
 
 #### (g) Conveyance of specified lands
 
-In furtherance of the State's entitlement to lands under section 6(b) of the Alaska Statehood Act, the United States hereby conveys to the State of Alaska all right, title, and interest of the United States in and to all vacant, unappropriated, and unreserved lands, including lands subject to subsection (e) of this section but which lie within those townships outside the boundaries of conservation system units, National Conservation Areas, National Recreation Areas, new national forests and forest additions, established, designated, or expanded by this Act, which are specified in the list entitled “State Selection Lands May 15, 1978”, dated July 24, 1978, submitted by the State of Alaska and on file in the office of the Secretary of the Interior. The denomination of lands in such list which are not, on December 2, 1980, available lands within the meaning of section 6(b) of the Alaska Statehood Act and this Act shall be treated as a future selection application pursuant to subsection (e) of this section, to the extent such an application could have been filed under such subsection (e) of this section.
+In furtherance of the State's entitlement to lands under section 6(b) of the Alaska Statehood Act, the United States hereby conveys to the State of Alaska all right, title, and interest of the United States in and to all vacant, unappropriated, and unreserved lands, including lands subject to subsection (e) of this section but which lie within those townships outside the boundaries of conservation system units, National Conservation Areas, National Recreation Areas, new national forests and forest additions, established, designated, or expanded by this Act, which are specified in the list entitled "State Selection Lands May 15, 1978", dated July 24, 1978, submitted by the State of Alaska and on file in the office of the Secretary of the Interior. The denomination of lands in such list which are not, on December 2, 1980, available lands within the meaning of section 6(b) of the Alaska Statehood Act and this Act shall be treated as a future selection application pursuant to subsection (e) of this section, to the extent such an application could have been filed under such subsection (e) of this section.
 
 #### (h) Limitation of conveyances of specified lands tentative approvals; surveys
 
@@ -60,7 +60,7 @@ In furtherance of the State's entitlement to lands under section 6(b) of the Ala
 
 (ii) In establishing the priorities for tentative approval under clause (i), the State shall—
 
-&emsp;(I) in the case of a selection under section 6(a) of Public Law 85–508 (commonly known as the “Alaska Statehood Act”) (72 Stat. 340), include all land selected; or
+&emsp;(I) in the case of a selection under section 6(a) of Public Law 85–508 (commonly known as the "Alaska Statehood Act") (72 Stat. 340), include all land selected; or
 
 &emsp;(II) in the case of a selection under section 6(b) of that Act—
 
@@ -108,7 +108,7 @@ Notwithstanding any other provision of law, on lands selected by, or granted or 
 
 (3) The administration of rights-of-way or easements reserved to the United States in the tentative approval shall be in the United States, including the right to grant an interest in such right-of-way or easement in whole or in part.
 
-(4) Where the lands tentatively approved do not include all of the land involved with anycontract, lease, license, permit, right-of-way, or easement issued or granted, the administration of such contract, lease, license, permit, right-of-way, or easement shall remain in the United States unless the agency responsible for administration waives such administration.
+(4) Where the lands tentatively approved do not include all of the land involved with any contract, lease, license, permit, right-of-way, or easement issued or granted, the administration of such contract, lease, license, permit, right-of-way, or easement shall remain in the United States unless the agency responsible for administration waives such administration.
 
 (5) Nothing in this subsection shall relieve the State or the United States of any obligations under section 9 of the Alaska Native Claims Settlement Act \[43 U.S.C. 1608\] or the fourth sentence of section 6(h) of the Alaska Statehood Act.
 
@@ -128,7 +128,7 @@ Any extensions of time periods granted to the State pursuant to section 17(d)(2)
 
 #### (o) Status of lands within units
 
-(1) Notwithstanding any other provision of law, subject to valid existing rights any land withdrawn pursuant to section 17(d)(1) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1616(d)(1)\] and within the boundaries of any conservation system unit, National Recreation Area, National Conservation Area, new national forest or forest addition, shall be added to such unit and administered accordingly unless, before, on, or after December 2, 1980, such land has been validly selected by and conveyed to a Native Corporation, or unless before December 2, 1980, such land has been validly selected by, and after December 2, 1980, is conveyed to the State. At such time as the entitlement of any Native Corporation to land under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] is satisfied, any land within a conservation system unit selected by such Native Corporation shall, to the extent that such land is in excess of its entitlement, become part of such unit and administered accordingly: <i>Provided</i>, That nothing in this subsection shall necessarily preclude the future conveyance to the State of those Federal lands which are specified in a list dated October 19, 1979, submitted by the State of Alaska and on file with the Office of the Secretary: <i>Provided further</i>, That nothing in this subsection shall affect any conveyance to the State pursuant to subsections (b), (c), (d), or (g) of this section.
+(1) Notwithstanding any other provision of law, subject to valid existing rights any landwithdrawn pursuant to section 17(d)(1) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1616(d)(1)\] and within the boundaries of any conservation system unit, National Recreation Area, National Conservation Area, new national forest or forest addition, shall be added to such unit and administered accordingly unless, before, on, or after December 2, 1980, such land has been validly selected by and conveyed to a Native Corporation, or unless before December 2, 1980, such land has been validly selected by, and after December 2, 1980, is conveyed to the State. At such time as the entitlement of any Native Corporation to land under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] is satisfied, any land within a conservation system unit selected by such Native Corporation shall, to the extent that such land is in excess of its entitlement, become part of such unit and administered accordingly: <i>Provided</i>, That nothing in this subsection shall necessarily preclude the future conveyance to the State of those Federal lands which are specified in a list dated October 19, 1979, submitted by the State of Alaska and on file with the Office of the Secretary: <i>Provided further</i>, That nothing in this subsection shall affect any conveyance to the State pursuant to subsections (b), (c), (d), or (g) of this section.
 
 (2) Until conveyed, all Federal lands within the boundaries of a conservation system unit, National Recreation Area, National Conservation Area, new national forest or forest addition, shall be administered in accordance with the laws applicable to such unit.
 
@@ -160,7 +160,7 @@ Sections 4 and 5 of the Act of October 4, 1976 (Public Law 94–456), referred t
 
 Section 3 of the Act of November 15, 1977 (Public Law 94–178), referred to in subsec. (n)(1), probably means section 3 of Pub. L. 95–178, Nov. 15, 1977, 91 Stat. 1369, which enacted a provision set out as a note under section 1611 of this title and amended a provision set out as a note under section 1611 of this title.
 
-This chapter, referred to in subsec. (n)(3), was in the original “this title”, meaning title IX of Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2430, which enacted this chapter, amended sections 1614 and 1620 of this title, and amended provisions set out as notes under section 1611 of this title and preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of title IX to the Code, see Tables.
+This chapter, referred to in subsec. (n)(3), was in the original "this title", meaning title IX of Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2430, which enacted this chapter, amended sections 1614 and 1620 of this title, and amended provisions set out as notes under section 1611 of this title and preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of title IX to the Code, see Tables.
 
 Section 10 of the Alaska Statehood Act, referred to in subsec. (p), is section 10 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48.
 
@@ -168,7 +168,7 @@ Section 10 of the Alaska Statehood Act, referred to in subsec. (p), is section 1
 
 Section is comprised of section 906 of Pub. L. 96–487. Subsecs. (a) and (f)(3) of section 906 of Pub. L. 96–487 amended section 6(a) and (b), and section 6(g), respectively, of the Alaska Statehood Act, Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
-In subsec. (j)(5), “December 2, 1980” substituted for “the effective date of this Act”, which probably meant the date of enactment of Pub. L. 96–487.
+In subsec. (j)(5), "December 2, 1980" substituted for "the effective date of this Act", which probably meant the date of enactment of Pub. L. 96–487.
 
 #### Amendments
 
@@ -178,171 +178,171 @@ In subsec. (j)(5), “December 2, 1980” substituted for “the effective date 
 
 Pub. L. 108–452, title I, §103, Dec. 10, 2004, 118 Stat. 3577, provided that:
 
-“(a)
+"(a)
 
 In General.—All reversionary interests held by the United States in land owned by the State \[of Alaska\] or any political subdivision of the State and any Federal land leased by the State under the Act of August 23, 1950 (25 U.S.C. 293b), or the Act of June 4, 1953 (25 U.S.C. 293a), that is prioritized for conveyance by the State under section 906(h)(2) of the Alaska National Interest Lands Conservation Act (43 U.S.C. 1635(h)(2))—
 
-&emsp;“(1) are deemed to be selected; and
+&emsp;"(1) are deemed to be selected; and
 
-&emsp;“(2) may, with the concurrence of the Secretary \[of the Interior\] or the head of the Federal agency with administrative jurisdiction over the land, be conveyed under section 6 of Public Law 85–508 (commonly known as the ‘Alaska Statehood Act’) (72 Stat. 340) \[set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\].
+&emsp;"(2) may, with the concurrence of the Secretary \[of the Interior\] or the head of the Federal agency with administrative jurisdiction over the land, be conveyed under section 6 of Public Law 85–508 (commonly known as the 'Alaska Statehood Act') (72 Stat. 340) \[set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\].
 
-“(b)
+"(b)
 
 Effect on Entitlement.—If, before the date of enactment of this Act \[Dec. 10, 2004\], the entitlement of the State has not been charged with respect to a parcel for which a reversionary interest is conveyed under subsection (a), the total acreage of the parcel shall be charged against the remaining entitlement of the State.
 
-“(c)
+"(c)
 
-Minimum Acreage Requirement Not Applicable.—The minimum acreage requirement under subsections (a) and (b) of section 6 of Public Law 85–508 (commonly known as the ‘Alaska Statehood Act’) (72 Stat. 340) shall not apply to the selection of reversionary interests under subsection (a).
+Minimum Acreage Requirement Not Applicable.—The minimum acreage requirement under subsections (a) and (b) of section 6 of Public Law 85–508 (commonly known as the 'Alaska Statehood Act') (72 Stat. 340) shall not apply to the selection of reversionary interests under subsection (a).
 
-“(d)
+"(d)
 
 State Waiver.—On conveyance to the State of any reversionary interest selected under subsection (a), the State shall be deemed to have waived all right to any future credit should the reversion not occur.
 
-“(e)
+"(e)
 
 Limitation.—This section shall not apply to—
 
-&emsp;“(1) reversionary interests in land acquired by the United States through the use of amounts from the Exxon Valdez Oil Spill Trust Fund; or
+&emsp;"(1) reversionary interests in land acquired by the United States through the use of amounts from the Exxon Valdez Oil Spill Trust Fund; or
 
-&emsp;“(2) reversionary interests in any land conveyed to the State as a result of the ‘Terms and Conditions for Land Consolidation and Management in Cook Inlet Area’ as ratified by section 12 of Public Law 94–204 (43 U.S.C. 1611 note).”
+&emsp;"(2) reversionary interests in any land conveyed to the State as a result of the 'Terms and Conditions for Land Consolidation and Management in Cook Inlet Area' as ratified by section 12 of Public Law 94–204 (43 U.S.C. 1611 note)."
 
 #### Settlement of Remaining Entitlement
 
 Pub. L. 108–452, title I, §106, Dec. 10, 2004, 118 Stat. 3579, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary \[of the Interior\] may enter into a binding written agreement with the State \[of Alaska\] with respect to—
 
-&emsp;“(1) the exact number and location of acres of land remaining to be conveyed under each entitlement established or confirmed by Public Law 85–508 (commonly known as the ‘Alaska Statehood Act’) (72 Stat. 340) \[set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\], from—
+&emsp;"(1) the exact number and location of acres of land remaining to be conveyed under each entitlement established or confirmed by Public Law 85–508 (commonly known as the 'Alaska Statehood Act') (72 Stat. 340) \[set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\], from—
 
-&emsp;&emsp;“(A) the land selected by the State as of January 3, 1994; and
+&emsp;&emsp;"(A) the land selected by the State as of January 3, 1994; and
 
-&emsp;&emsp;“(B) selections under the Act of January 21, 1929 (45 Stat. 1091, chapter 92) \[43 U.S.C. 852 note\];
+&emsp;&emsp;"(B) selections under the Act of January 21, 1929 (45 Stat. 1091, chapter 92) \[43 U.S.C. 852 note\];
 
-&emsp;“(2) the priority in which the land is to be conveyed;
+&emsp;"(2) the priority in which the land is to be conveyed;
 
-&emsp;“(3) the relinquishment of selections which are not to be conveyed; and
+&emsp;"(3) the relinquishment of selections which are not to be conveyed; and
 
-&emsp;“(4) the survey of the exterior boundaries of the land to be conveyed.
+&emsp;"(4) the survey of the exterior boundaries of the land to be conveyed.
 
-“(b)
+"(b)
 
 Consultation.—Before entering into an agreement under subsection (a), the Secretary shall ensure that any concerns or issues identified by any Federal agency potentially affected are given consideration.
 
-“(c)
+"(c)
 
 Errors.—The State, by entering into an agreement under subsection (a), shall receive any gain or bear any loss that results from errors in prior surveys, protraction diagrams, or the computation of the ownership of third parties on any land conveyed under an agreement entered into under subsection (a).
 
-“(d)
+"(d)
 
 Availability of Agreements.—Agreements entered into under subsection (a) shall be available for public inspection in the appropriate offices of the Department of the Interior.
 
-“(e)
+"(e)
 
-Effect.—Nothing in this section increases the entitlement provided to the State under Public Law 85–508 (commonly known as the ‘Alaska Statehood Act’) (72 Stat. 340), or the Act of January 21, 1929 (45 Stat. 1091, chapter 92).”
+Effect.—Nothing in this section increases the entitlement provided to the State under Public Law 85–508 (commonly known as the 'Alaska Statehood Act') (72 Stat. 340), or the Act of January 21, 1929 (45 Stat. 1091, chapter 92)."
 
 #### Effect of Federal Mining Claims
 
 Pub. L. 108–452, title I, §107, Dec. 10, 2004, 118 Stat. 3580, provided that:
 
-“(a)
+"(a)
 
 Conditional Relinquishments.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—To facilitate the conversion of Federal mining claims to State \[of Alaska\] mining claims on land selected or topfiled by the State, a Federal mining claimant may file with the Secretary \[of the Interior\] a voluntary relinquishment of the Federal mining claim conditioned on conveyance of the land to the State.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Conveyance of relinquished claim.—The Secretary may convey the land described in the relinquished Federal mining claim to the State if, with respect to the land—
 
-&emsp;&emsp;“(A) the State has filed as of January 3, 1994—
+&emsp;&emsp;"(A) the State has filed as of January 3, 1994—
 
-&emsp;&emsp;&emsp;“(i) a selection application under Public Law 85–508 (commonly known as the ‘Alaska Statehood Act’) (72 Stat. 339) \[set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\]; or
+&emsp;&emsp;&emsp;"(i) a selection application under Public Law 85–508 (commonly known as the 'Alaska Statehood Act') (72 Stat. 339) \[set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\]; or
 
-&emsp;&emsp;&emsp;“(ii) a future selection application under section 906(e) of the Alaska National Interest Lands Conservation Act \[(\]43 U.S.C. 1635(e)); and
+&emsp;&emsp;&emsp;"(ii) a future selection application under section 906(e) of the Alaska National Interest Lands Conservation Act \[(\]43 U.S.C. 1635(e)); and
 
-&emsp;&emsp;“(B) the land addressed by the selection application or future selection application is conveyed to the State.
+&emsp;&emsp;"(B) the land addressed by the selection application or future selection application is conveyed to the State.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Obligations under federal law.—Until the date on which the land is conveyed under paragraph (2), a Federal mining claimant shall be subject to any obligations relating to the land under Federal law.
 
-&emsp;“(4)
+&emsp;"(4)
 
 No relinquishment.—If the land previously encumbered by the relinquished Federal mining claim is not conveyed to the State under paragraph (2), the relinquishment of land under paragraph (1) shall be of no effect.
 
-“(b)
+"(b)
 
-Rights-of-Way; Other Interest.—On conveyance to the State of a relinquished Federal mining claim under this section, the State shall assume authority over any leases, licenses, permits, rights-of-way, operating plans, other land use authorizations, or reclamation obligations applicable to the relinquished Federal mining claim on the date of conveyance.”
+Rights-of-Way; Other Interest.—On conveyance to the State of a relinquished Federal mining claim under this section, the State shall assume authority over any leases, licenses, permits, rights-of-way, operating plans, other land use authorizations, or reclamation obligations applicable to the relinquished Federal mining claim on the date of conveyance."
 
 #### Final Prioritization of State Selections
 
 Pub. L. 108–452, title IV, §404, Dec. 10, 2004, 118 Stat. 3593, provided that:
 
-“(a)
+"(a)
 
 Filing of Final Priorities.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The State \[of Alaska\] shall, not later than the date that is 4 years after the date of enactment of this Act \[Dec. 10, 2004\], in accordance with section 906(f)(1) of the Alaska National Interest Lands Conservation Act (43 U.S.C. 1635(f)(1)), file final priorities with the Secretary \[of the Interior\] for all land grant entitlements to the State which remain unsatisfied on the date of the filing.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Ranking.—All selection applications on file with the Secretary on the date specified in paragraph (1) shall—
 
-&emsp;&emsp;“(A) be ranked on a Statewide basis in order of priority; and
+&emsp;&emsp;"(A) be ranked on a Statewide basis in order of priority; and
 
-&emsp;&emsp;“(B) include an estimate of the acreage included in each selection.
+&emsp;&emsp;"(B) include an estimate of the acreage included in each selection.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Inclusions.—The State shall include in the prioritized list land which has been top-filed under section 906(e) of the Alaska National Interest Lands Conservation Act (43 U.S.C. 1635(e)).
 
-&emsp;“(4)
+&emsp;"(4)
 
 Acreage limitation.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Acreage for top-filings shall not be counted against the 125 percent limitation established under section 906(f)(1) of the Alaska National Interest Lands Conservation Act (43 U.S.C. 1635(f)(1)).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Relinquishment.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—The State shall relinquish any selections that exceed the 125 percent limitation.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Failure to relinquish.—If the State fails to relinquish a selection under clause (i), the Secretary shall reject the selection.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Lower-priority selections.—Notwithstanding the prioritization of selection applications under paragraph (1), if the Secretary reserves sufficient entitlements for the top-filed selections, the Secretary may continue to convey lower-priority selections.
 
-“(b)
+"(b)
 
 Deadline for Prioritization.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The State shall irrevocably prioritize sufficient selections to allow the Secretary to complete transfer of 101,000,000 acres by September 30, 2009.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Reprioritization.—Any selections remaining after September 30, 2009, may be reprioritized.
 
-“(c)
+"(c)
 
-Financial Assistance.—The Secretary may, using amounts made available to carry out this Act \[see Short Title of 2004 Amendment note set out under section 1601 of this title\], provide financial assistance to other Federal agencies, the State, and Native Corporations and entities to assist in completing the transfer of land by September 30, 2009.”
+Financial Assistance.—The Secretary may, using amounts made available to carry out this Act \[see Short Title of 2004 Amendment note set out under section 1601 of this title\], provide financial assistance to other Federal agencies, the State, and Native Corporations and entities to assist in completing the transfer of land by September 30, 2009."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (e) of this section;”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (e) of this section;".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “permitter,”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "permitter,".</i>
 

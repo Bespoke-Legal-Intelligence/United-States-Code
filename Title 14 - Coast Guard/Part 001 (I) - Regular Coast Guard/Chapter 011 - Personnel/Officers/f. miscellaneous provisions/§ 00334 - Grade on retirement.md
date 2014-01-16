@@ -8,15 +8,15 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–337 substituted “section 580,” for “section 564 of title 10 (as in effect on the day before the effective date of the Warrant Officer Management Act) or”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–337 substituted "section 580," for "section 564 of title 10 (as in effect on the day before the effective date of the Warrant Officer Management Act) or".
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–190 substituted “section 564 of title 10 (as in effect on the day before the effective date of the Warrant Officer Management Act) or 1263, 1293, or 1305 of title 10” for “section 564, 1263, 1293, or 1305 of title 10”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–190 substituted "section 564 of title 10 (as in effect on the day before the effective date of the Warrant Officer Management Act) or 1263, 1293, or 1305 of title 10" for "section 564, 1263, 1293, or 1305 of title 10".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–348, §205(b)(7)(A), struck out “, with retired pay of the grade with which retired” after “satisfactory”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–348, §205(b)(7)(A), struck out ", with retired pay of the grade with which retired" after "satisfactory".
 
-Subsec. (b). Pub. L. 99–348, §205(b)(7), struck out “, with retired pay of the grade with which retired” after “satisfactory” and struck out provision that when the rate of pay of such highest grade is less than the pay of the warrant grade with which the officer would otherwise be retired under section 1371 of title 10, the retired pay was to be based on the higher rate of pay.
+Subsec. (b). Pub. L. 99–348, §205(b)(7), struck out ", with retired pay of the grade with which retired" after "satisfactory" and struck out provision that when the rate of pay of such highest grade is less than the pay of the warrant grade with which the officer would otherwise be retired under section 1371 of title 10, the retired pay was to be based on the higher rate of pay.
 
-<b>1966</b>—Pub. L. 89–444 substituted “Grade on retirement” for “Retirement in cases where higher grade has been held” in section catchline.
+<b>1966</b>—Pub. L. 89–444 substituted "Grade on retirement" for "Retirement in cases where higher grade has been held" in section catchline.
 
 #### Effective Date of 1994 Amendment
 

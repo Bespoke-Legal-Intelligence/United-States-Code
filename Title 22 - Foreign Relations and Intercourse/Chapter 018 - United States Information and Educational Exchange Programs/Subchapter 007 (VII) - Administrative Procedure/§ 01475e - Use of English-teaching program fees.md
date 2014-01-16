@@ -32,9 +32,9 @@ The Mutual Education and Cultural Exchange Act of 1961, referred to in subsec. (
 
 <b>1998</b>—Pub. L. 105–277 amended section catchline and text generally. Prior to amendment, text read as follows:
 
-“(a) Notwithstanding section 3302 of title 31 or any other law or limitation of authority, fees received by or for the use of the United States Information Agency from or in connection with English-teaching and library services, and Agency-produced publications, and not to exceed $100,000 of payments from motion picture and television programs, produced or conducted by or on behalf of the Agency under the authority of this chapter or the Mutual Educational and Cultural Exchange Act of 1961 is authorized to be credited each fiscal year to the appropriate appropriation of the United States Information Agency to such extent as may be provided in advance in an appropriation Act.”
+"(a) Notwithstanding section 3302 of title 31 or any other law or limitation of authority, fees received by or for the use of the United States Information Agency from or in connection with English-teaching and library services, and Agency-produced publications, and not to exceed $100,000 of payments from motion picture and television programs, produced or conducted by or on behalf of the Agency under the authority of this chapter or the Mutual Educational and Cultural Exchange Act of 1961 is authorized to be credited each fiscal year to the appropriate appropriation of the United States Information Agency to such extent as may be provided in advance in an appropriation Act."
 
-<b>1990</b>—Pub. L. 101–246 amended section catchline and text generally. Prior to amendment, section read as follows: “Notwithstanding the provisions of section 3302(b) of title 31 or any other law or limitation of authority, all payments received by or for the use of the United States Information Agency from or in connection with English-teaching and library services conducted by or on behalf of the Agency under the authority of this chapter or the Mutual Educational and Cultural Exchange Act of 1961 may be credited to the Agency's applicable appropriation to such extent as may be provided in advance in an appropriation Act.”
+<b>1990</b>—Pub. L. 101–246 amended section catchline and text generally. Prior to amendment, section read as follows: "Notwithstanding the provisions of section 3302(b) of title 31 or any other law or limitation of authority, all payments received by or for the use of the United States Information Agency from or in connection with English-teaching and library services conducted by or on behalf of the Agency under the authority of this chapter or the Mutual Educational and Cultural Exchange Act of 1961 may be credited to the Agency's applicable appropriation to such extent as may be provided in advance in an appropriation Act."
 
 <b>1987</b>—Pub. L. 100–204 amended section generally, changing structure of section from one consisting of subsecs. (a) and (b) to one consisting of one paragraph.
 
@@ -42,5 +42,5 @@ The Mutual Education and Cultural Exchange Act of 1961, referred to in subsec. (
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should appear at end of par. (6).</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should appear at end of par. (6).</i>
 

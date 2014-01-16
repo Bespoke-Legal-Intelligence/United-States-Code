@@ -64,7 +64,7 @@ An institution which has entered into an agreement under subsection (a) of this 
 
 &emsp;(C) the date of cancellation of the note upon completion of repayment by the borrower of any such loan, or upon cancellation or discharge of the borrower's obligation on the loan for any reason.
 
-(3) Notwithstanding paragraphs (4) and (5) of subsection (a) of section 1681c of title 15, a consumer reporting agency may make a report containing information received from the Secretary or an institution regarding the status of a borrower's account on a loan made under this part until the loan is paid in full.
+(3) Notwithstanding paragraphs (4) and (5) of subsection (a) of section 1681c of title 15, a consumer reporting agency may make a report containing information received from the Secretaryor an institution regarding the status of a borrower's account on a loan made under this part until the loan is paid in full.
 
 (4)(A) Except as provided in subparagraph (B), an institution of higher education, after consultation with the Secretary and pursuant to the agreements entered into under paragraph (1), shall disclose at least annually to any consumer reporting agency with which the Secretary has such an agreement the information set forth in paragraph (2), and shall disclose promptly to such consumer reporting agency any changes to the information previously disclosed.
 
@@ -74,7 +74,7 @@ An institution which has entered into an agreement under subsection (a) of this 
 
 #### (d) Limitation on use of interest bearing accounts
 
-In carrying out the provisions of subsection (a)(9) of this section, the Secretary may not require that any collection agency, collection attorney, or loan servicer collecting loans made under this part deposit amounts collected on such loans in interest bearing accounts, unlesssuch agency, attorney, or servicer holds such amounts for more than 45 days.
+In carrying out the provisions of subsection (a)(9) of this section, the Secretary may not require that any collection agency, collection attorney, or loan servicer collecting loans made under this part deposit amounts collected on such loans in interest bearing accounts, unless such agency, attorney, or servicer holds such amounts for more than 45 days.
 
 #### (e) Special due diligence rule
 
@@ -96,83 +96,83 @@ A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92�
 
 Subsec. (c)(2)(B). Pub. L. 111–39, §405(2)(A)(ii), added subpar. (B) and struck out former subpar. (B), resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §463(b)(2)(C). See 1998 Amendment note below.
 
-Subsec. (c)(3). Pub. L. 111–39, §405(2)(B), substituted “and (5)” for “and (6)” and made technical amendment to reference in original act which appears in text as reference to section 1681c of title 15.
+Subsec. (c)(3). Pub. L. 111–39, §405(2)(B), substituted "and (5)" for "and (6)" and made technical amendment to reference in original act which appears in text as reference to section 1681c of title 15.
 
-<b>2008</b>—Subsec. (a)(4)(B). Pub. L. 110–315, §463(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if the institution is not one described in subparagraph (A), the Secretary may—
+<b>2008</b>—Subsec. (a)(4)(B). Pub. L. 110–315, §463(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "if the institution is not one described in subparagraph (A), the Secretary may—
 
-&emsp;“(i) allow such institution to transfer its interest in such loan to the Secretary, for collection, and the Secretary may use any collections thereon (less an amount not to exceed 30 percent of any such sums collected to cover the Secretary's collection costs) to make allocations to institutions of additional capital contributions in accordance with section 1087bb of this title; or
+&emsp;"(i) allow such institution to transfer its interest in such loan to the Secretary, for collection, and the Secretary may use any collections thereon (less an amount not to exceed 30 percent of any such sums collected to cover the Secretary's collection costs) to make allocations to institutions of additional capital contributions in accordance with section 1087bb of this title; or
 
-&emsp;“(ii) allow such institution to refer such note or agreement to the Secretary, without recompense, except that any sums collected on such a loan (less an amount not to exceed 30 percent of any such sums collected to cover the Secretary's collection costs) shall be repaid to such institution no later than 180 days after collection by the Secretary and treated as an additional capital contribution;”.
+&emsp;"(ii) allow such institution to refer such note or agreement to the Secretary, without recompense, except that any sums collected on such a loan (less an amount not to exceed 30 percent of any such sums collected to cover the Secretary's collection costs) shall be repaid to such institution no later than 180 days after collection by the Secretary and treated as an additional capital contribution;".
 
-Subsec. (a)(9). Pub. L. 110–315, §463(b), inserted “, except that nothing in this paragraph shall be construed to permit the Secretary to require the assignment of loans to the Secretary other than as is provided for in paragraphs (4) and (5)” before period.
+Subsec. (a)(9). Pub. L. 110–315, §463(b), inserted ", except that nothing in this paragraph shall be construed to permit the Secretary to require the assignment of loans to the Secretary other than as is provided for in paragraphs (4) and (5)" before period.
 
-Subsec. (c). Pub. L. 110–315, §432(b)(5)(A), substituted “consumer reporting agencies” for “credit bureau organizations” in heading.
+Subsec. (c). Pub. L. 110–315, §432(b)(5)(A), substituted "consumer reporting agencies" for "credit bureau organizations" in heading.
 
-Subsec. (c)(1). Pub. L. 110–315, §432(b)(5)(B), substituted “consumer reporting agencies” for “credit bureau organizations”.
+Subsec. (c)(1). Pub. L. 110–315, §432(b)(5)(B), substituted "consumer reporting agencies" for "credit bureau organizations".
 
-Subsec. (c)(2). Pub. L. 110–315, §432(b)(5)(C), substituted “such consumer reporting agencies” for “such organizations”.
+Subsec. (c)(2). Pub. L. 110–315, §432(b)(5)(C), substituted "such consumer reporting agencies" for "such organizations".
 
-Subsec. (c)(4)(A). Pub. L. 110–315, §432(b)(5)(D), substituted “consumer reporting agency” for “credit bureau organization” in two places.
+Subsec. (c)(4)(A). Pub. L. 110–315, §432(b)(5)(D), substituted "consumer reporting agency" for "credit bureau organization" in two places.
 
-Subsec. (c)(5). Pub. L. 110–315, §432(b)(5)(E), substituted “consumer reporting agencies” for “credit bureau organizations” and “such consumer reporting agencies” for “such organizations”.
+Subsec. (c)(5). Pub. L. 110–315, §432(b)(5)(E), substituted "consumer reporting agencies" for "credit bureau organizations" and "such consumer reporting agencies" for "such organizations".
 
-<b>1998</b>—Subsec. (a)(2)(B). Pub. L. 105–244, §463(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a capital contribution—
+<b>1998</b>—Subsec. (a)(2)(B). Pub. L. 105–244, §463(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "a capital contribution—
 
-&emsp;“(i) by an institution that—
+&emsp;"(i) by an institution that—
 
-&emsp;&emsp;“(I) is granted permission by the Secretary to participate in an Expanded Lending Option under the program, and
+&emsp;&emsp;"(I) is granted permission by the Secretary to participate in an Expanded Lending Option under the program, and
 
-&emsp;&emsp;“(II) has a default rate which does not exceed 7.5 percent for award year 1993–1994 and has a cohort default rate which does not exceed 15 percent for award year 1994–1995 or for any succeeding award year,
+&emsp;&emsp;"(II) has a default rate which does not exceed 7.5 percent for award year 1993–1994 and has a cohort default rate which does not exceed 15 percent for award year 1994–1995 or for any succeeding award year,
 
 > &emsp;in an amount not less than the amount of the Federal capital contributions described in subparagraph (A); or
 
-&emsp;“(ii) by any other institution, in an amount not less than three-seventeenths of such Federal capital contribution in fiscal year 1993, and one-third of such Federal capital contribution in each of the succeeding fiscal years, of the amount of the Federal capital contributions described in subparagraph (A);”.
+&emsp;"(ii) by any other institution, in an amount not less than three-seventeenths of such Federal capital contribution in fiscal year 1993, and one-third of such Federal capital contribution in each of the succeeding fiscal years, of the amount of the Federal capital contributions described in subparagraph (A);".
 
-Subsec. (a)(4) to (10). Pub. L. 105–244, §463(a)(2), (3), redesignated pars. (5) to (10) as (4) to (9), respectively, and struck out former par. (4) which read as follows: “provide that where a note or written agreement evidencing a note has been in default for (A) 120 days, in the case of a loan which is repayable in monthly installments, or (B) 180 days, in the case of a loan which is repayable in less frequent installments, notice of such default shall be given to the Secretary in an annual report describing the total number of loans from such fund which are in such default;”.
+Subsec. (a)(4) to (10). Pub. L. 105–244, §463(a)(2), (3), redesignated pars. (5) to (10) as (4) to (9), respectively, and struck out former par. (4) which read as follows: "provide that where a note or written agreement evidencing a note has been in default for (A) 120 days, in the case of a loan which is repayable in monthly installments, or (B) 180 days, in the case of a loan which is repayable in less frequent installments, notice of such default shall be given to the Secretary in an annual report describing the total number of loans from such fund which are in such default;".
 
-Subsec. (c)(1). Pub. L. 105–244, §463(b)(1), substituted “the Secretary and each institution of higher education participating in the program under this part shall” for “the Secretary shall” and inserted “and regarding loans held by the Secretary or an institution” after “section 1087gg of this title”.
+Subsec. (c)(1). Pub. L. 105–244, §463(b)(1), substituted "the Secretary and each institution of higher education participating in the program under this part shall" for "the Secretary shall" and inserted "and regarding loans held by the Secretary or an institution" after "section 1087gg of this title".
 
-Subsec. (c)(2). Pub. L. 105–244, §463(b)(2)(A), in introductory provisions, substituted “by the Secretary or an institution, as the case may be, to such organizations, with respect to any loan held by the Secretary or the institution, respectively, of—” for “by the Secretary to such organizations, with respect to any loan for which the Secretary is responsible, of—”.
+Subsec. (c)(2). Pub. L. 105–244, §463(b)(2)(A), in introductory provisions, substituted "by the Secretary or an institution, as the case may be, to such organizations, with respect to any loan held by the Secretary or the institution, respectively, of—" for "by the Secretary to such organizations, with respect to any loan for which the Secretary is responsible, of—".
 
-Subsec. (c)(2)(A). Pub. L. 105–244, §463(b)(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the date of disbursement and the amount of any such loan;”.
+Subsec. (c)(2)(A). Pub. L. 105–244, §463(b)(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the date of disbursement and the amount of any such loan;".
 
-Subsec. (c)(2)(B). Pub. L. 105–244, §463(b)(2)(C), inserted “the repayment and” after “concerning” the first place appearing and substituted “status of such” for “status of any defaulted”.
+Subsec. (c)(2)(B). Pub. L. 105–244, §463(b)(2)(C), inserted "the repayment and" after "concerning" the first place appearing and substituted "status of such" for "status of any defaulted".
 
-Subsec. (c)(2)(C). Pub. L. 105–244, §463(b)(2)(D), inserted “, or upon cancellation or discharge of the borrower's obligation on the loan for any reason” before period at end.
+Subsec. (c)(2)(C). Pub. L. 105–244, §463(b)(2)(D), inserted ", or upon cancellation or discharge of the borrower's obligation on the loan for any reason" before period at end.
 
-Subsec. (c)(3). Pub. L. 105–244, §463(b)(3)(A), in introductory provisions, inserted “or an institution” after “from the Secretary” and substituted “until the loan is paid in full.” for “until—”.
+Subsec. (c)(3). Pub. L. 105–244, §463(b)(3)(A), in introductory provisions, inserted "or an institution" after "from the Secretary" and substituted "until the loan is paid in full." for "until—".
 
 Subsec. (c)(3)(A), (B). Pub. L. 105–244, §463(b)(3)(B), struck out subpars. (A) and (B) which read as follows:
 
-“(A) 7 years from the date on which the Secretary accepted an assignment or referral of a loan, or
+"(A) 7 years from the date on which the Secretary accepted an assignment or referral of a loan, or
 
-“(B) 7 years from the date the Secretary first reports the account to a consumer reporting agency.”
+"(B) 7 years from the date the Secretary first reports the account to a consumer reporting agency."
 
-Subsec. (c)(4). Pub. L. 105–244, §463(b)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Each institution of higher education, after consultation with the Secretary and pursuant to the agreements entered into under paragraph (1), shall disclose at least annually to any credit bureau organization with which the Secretary has such an agreement—
+Subsec. (c)(4). Pub. L. 105–244, §463(b)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Each institution of higher education, after consultation with the Secretary and pursuant to the agreements entered into under paragraph (1), shall disclose at least annually to any credit bureau organization with which the Secretary has such an agreement—
 
-&emsp;“(A) the amount of loans made to any borrower under this part at the time of the disbursement of the loan; and
+&emsp;"(A) the amount of loans made to any borrower under this part at the time of the disbursement of the loan; and
 
-&emsp;“(B) the information set forth in section 1080a(a) of this title.”
+&emsp;"(B) the information set forth in section 1080a(a) of this title."
 
 Subsec. (c)(5). Pub. L. 105–244, §463(b)(4), added par. (5).
 
-Subsec. (d). Pub. L. 105–244, §463(c), substituted “subsection (a)(9)” for “subsection (a)(10)”.
+Subsec. (d). Pub. L. 105–244, §463(c), substituted "subsection (a)(9)" for "subsection (a)(10)".
 
-<b>1993</b>—Subsec. (a)(2)(B)(i)(II). Pub. L. 103–208, §2(f)(5), substituted “7.5 percent for award year 1993–1994 and has a cohort default rate which does not exceed 15 percent for award year 1994–1995 or for any succeeding award year” for “7.5 percent”.
+<b>1993</b>—Subsec. (a)(2)(B)(i)(II). Pub. L. 103–208, §2(f)(5), substituted "7.5 percent for award year 1993–1994 and has a cohort default rate which does not exceed 15 percent for award year 1994–1995 or for any succeeding award year" for "7.5 percent".
 
-Subsec. (c)(4). Pub. L. 103–208, §2(f)(6), substituted “shall disclose at least annually” for “shall disclose” in introductory provisions.
+Subsec. (c)(4). Pub. L. 103–208, §2(f)(6), substituted "shall disclose at least annually" for "shall disclose" in introductory provisions.
 
 Subsecs. (d), (e). Pub. L. 103–208, §2(f)(7), added subsecs. (d) and (e).
 
-<b>1992</b>—Subsec. (a)(2)(B). Pub. L. 102–325, §463(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a capital contribution by such institution in an amount equal to not less than one-ninth of the amount of the Federal capital contributions described in subparagraph (A);”.
+<b>1992</b>—Subsec. (a)(2)(B). Pub. L. 102–325, §463(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "a capital contribution by such institution in an amount equal to not less than one-ninth of the amount of the Federal capital contributions described in subparagraph (A);".
 
-Subsec. (c)(3)(B). Pub. L. 102–325, §463(b)(1), struck out “, if that account has not been previously reported by any other holder of the note” after “agency”.
+Subsec. (c)(3)(B). Pub. L. 102–325, §463(b)(1), struck out ", if that account has not been previously reported by any other holder of the note" after "agency".
 
 Subsec. (c)(4). Pub. L. 102–325, §463(b)(2), added par. (4).
 
-<b>1987</b>—Subsec. (a)(4). Pub. L. 100–50, §13(e), substituted “in an annual report” for “in a report” and struck out “, and made to the Secretary at least semiannually” after “in such default”.
+<b>1987</b>—Subsec. (a)(4). Pub. L. 100–50, §13(e), substituted "in an annual report" for "in a report" and struck out ", and made to the Secretary at least semiannually" after "in such default".
 
-Subsec. (b). Pub. L. 100–50, §13(f), substituted “section 1096 of this title” for “section 1092 of this title”.
+Subsec. (b). Pub. L. 100–50, §13(f), substituted "section 1096 of this title" for "section 1092 of this title".
 
 #### Effective Date of 2009 Amendment
 

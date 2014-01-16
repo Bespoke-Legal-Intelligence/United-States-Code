@@ -22,11 +22,11 @@ Presidential Proclamation No. 5928, referred to in text, is set out under sectio
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–304 substituted “sections 2304 and” for “section”.
+<b>2006</b>—Pub. L. 109–304 substituted "sections 2304 and" for "section".
 
-<b>1998</b>—Pub. L. 105–383 inserted “(including the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988)” after “of the United States”.
+<b>1998</b>—Pub. L. 105–383 inserted "(including the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988)" after "of the United States".
 
-<b>1984</b>—Pub. L. 98–498 substituted “Except as provided in section 2306 of this title, this chapter” for “This chapter”.
+<b>1984</b>—Pub. L. 98–498 substituted "Except as provided in section 2306 of this title, this chapter" for "This chapter".
 
 #### Effective Date of 1984 Amendment
 

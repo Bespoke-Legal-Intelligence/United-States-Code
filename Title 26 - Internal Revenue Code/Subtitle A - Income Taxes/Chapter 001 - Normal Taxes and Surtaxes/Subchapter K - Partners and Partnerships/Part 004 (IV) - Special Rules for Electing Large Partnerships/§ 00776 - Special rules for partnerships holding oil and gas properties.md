@@ -18,7 +18,7 @@ In the case of an electing large partnership, except as provided in subsection (
 
 #### (2) Disqualified person
 
-&emsp;For purposes of paragraph (1), the term “disqualified person” means, with respect to any partnership taxable year—
+&emsp;For purposes of paragraph (1), the term "disqualified person" means, with respect to any partnership taxable year—
 
 &emsp;&emsp;(A) any person referred to in paragraph (2) or (4) of section 613A(d) for such person's taxable year in which such partnership taxable year ends, and
 

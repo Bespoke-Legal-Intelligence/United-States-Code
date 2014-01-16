@@ -2,7 +2,7 @@
 
 In addition to the operations described in section 5351, the proprietor of a bonded wine cellar may, subject to regulations prescribed by the Secretary, on such premises receive taxpaid wine for return to bond, reconditioning, or destruction; prepare for market and store commercial fruit products and by-products not taxable as wines; produce or receive distilling material or vinegar stock; produce (with or without added wine spirits, and without added sugar) or receive on wine premises, subject to tax as wine but not for sale or consumption as beverage wine, (1) heavy bodied blending wines and Spanish-type blending sherries, and (2) other wine products made from natural wine for nonbeverage purposes; and such other operations as may be conducted in a manner that will not jeopardize the revenue or conflict with wine operations.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1380; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(43), July 26, 1979, 93 Stat.287; Pub. L. 105–34, title XIV, §1416(b)(1), Aug. 5, 1997, 111 Stat. 1048.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1380; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(43), July 26, 1979, 93 Stat. 287; Pub. L. 105–34, title XIV, §1416(b)(1), Aug. 5, 1997, 111 Stat. 1048.)
 
 #### Prior Provisions
 
@@ -10,11 +10,11 @@ A prior section 5361, act Aug. 16, 1954, ch. 736, 68A Stat. 664, consisted of pr
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–34 struck out “unmerchantable” after “premises receive”.
+<b>1997</b>—Pub. L. 105–34 struck out "unmerchantable" after "premises receive".
 
-<b>1979</b>—Pub. L. 96–39 substituted “or receive on wine premises” for “or receive on standard wine premises only”.
+<b>1979</b>—Pub. L. 96–39 substituted "or receive on wine premises" for "or receive on standard wine premises only".
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 1997 Amendment
 

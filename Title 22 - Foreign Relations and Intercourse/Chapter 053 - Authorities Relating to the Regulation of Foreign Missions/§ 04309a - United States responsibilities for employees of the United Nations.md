@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;&emsp;(B) the implied obligation to permit and to facilitate the acquisition of facilities in order to conduct such activities within or in proximity to the United Nations Headquarters District, subject to reasonable regulation including regulation of the location and size of such facilities; and
 
-&emsp;(2) taking into account paragraph (1) and consistent with the obligation of the United States to facilitate the functioning of the United Nations, the United States has no additional obligation to permit the conduct of any other activities, including nonofficial activities, by such individuals outside of the United Nations Headquarters District.
+&emsp;(2) taking into account paragraph (1) and consistent with the obligation of the United States to facilitate the functioning of the United Nations, the United States has no additional obligation to permit the conduct of anyother activities, including nonofficial activities, by such individuals outside of the United Nations Headquarters District.
 
 #### (b) Activities of United Nations employees
 
@@ -30,9 +30,9 @@ The Secretary shall report to the Congress—
 
 This section shall not apply with respect to any United States national.
 
-#### (e) “United Nations Headquarters District” defined
+#### (e) "United Nations Headquarters District" defined
 
-For purposes of this section, the term “United Nations Headquarters District” means the area within the United States which is agreed to by the United Nations and the United States to constitute such a district, together with such other areas as the Secretary of State may approve from time to time in order to permit effective functioning of the United Nations or missions to the United Nations.
+For purposes of this section, the term "United Nations Headquarters District" means the area within the United States which is agreed to by the United Nations and the United States to constitute such a district, together with such other areas as the Secretary of State may approve from time to time in order to permit effective functioning of the United Nations or missions to the United Nations.
 
 (Aug. 1, 1956, ch. 841, title II, §209A, as added Pub. L. 99–93, title I, §141, Aug. 16, 1985, 99 Stat. 423; amended Pub. L. 103–236, title I, §139(26), Apr. 30, 1994, 108 Stat. 399.)
 
@@ -42,5 +42,5 @@ Public Law 80–357, referred to in subsec. (a)(1), is act Aug. 4, 1947, ch. 482
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(2). Pub. L. 103–236 struck out par. (2) which read as follows: “The Secretary shall apply to those employees of the United Nations Secretariat who are nationals of a foreign country or members of a foreign mission all terms, limitations, restrictions, and conditions which are applicable pursuant to this chapter to the members of that country's mission or of any other mission to the United Nations unless the Secretary determines and reports to the Congress that national security and foreign policy circumstances require that this paragraph be waived in specific circumstances.”
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–236 struck out par. (2) which read as follows: "The Secretary shall apply to those employees of the United Nations Secretariat who are nationals of a foreign country or members of a foreign mission all terms, limitations, restrictions, and conditions which are applicable pursuant to this chapter to the members of that country's mission or of any other mission to the United Nations unless the Secretary determines and reports to the Congress that national security and foreign policy circumstances require that this paragraph be waived in specific circumstances."
 

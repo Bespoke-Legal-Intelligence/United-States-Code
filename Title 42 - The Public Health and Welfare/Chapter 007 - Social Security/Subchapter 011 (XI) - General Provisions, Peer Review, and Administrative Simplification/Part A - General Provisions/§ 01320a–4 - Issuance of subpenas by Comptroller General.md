@@ -16,5 +16,5 @@ No personal medical record in the possession of the Government Accountability Of
 
 #### Amendments
 
-<b>2004</b>—Subsecs. (b) and (c). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
+<b>2004</b>—Subsecs. (b) and (c). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" wherever appearing.
 

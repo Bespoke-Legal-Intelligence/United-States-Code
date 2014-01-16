@@ -62,15 +62,15 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 49 App.:1655(c)(1).
 
-In subsection (a), the words “under its own terms or until superseded” are substituted for “until their further order, rule, or regulation, or for a specified period of time, as shall be prescribed in the order, rule, or regulation” for clarity and to eliminate unnecessary words. The word “amend” is added for consistency in the revised title. The text of 49 App.:1485(e) is omitted as surplus.
+In subsection (a), the words "under its own terms or until superseded" are substituted for "until their further order, rule, or regulation, or for a specified period of time, as shall be prescribed in the order, rule, or regulation" for clarity and to eliminate unnecessary words. The word "amend" is added for consistency in the revised title. The text of 49 App.:1485(e) is omitted as surplus.
 
-In subsection (c), the words “without complaint” and “if he so orders” are omitted as surplus. The words “prescribe . . . issue” are substituted for “make” for consistency in the revised title and with other titles of the United States Code. The words “just and reasonable” and “as may be essential in the interest of safety in air commerce” are omitted as surplus. The words “without regard to this part and subchapter II of chapter 5 of title 5” are substituted for “without answer orother form of pleading by the interested person or persons, and . . . hearing, or the making or filing of a report” to eliminate unnecessary words. The words “over all others under this chapter” are omitted as surplus.
+In subsection (c), the words "without complaint" and "if he so orders" are omitted as surplus. The words "prescribe . . . issue" are substituted for "make" for consistency in the revised title and with other titles of the United States Code. The words "just and reasonable" and "as may be essential in the interest of safety in air commerce" are omitted as surplus. The words "without regard to this part and subchapter II of chapter 5 of title 5" are substituted for "without answer or other form of pleading by the interested person or persons, and . . . hearing, or the making or filing of a report" to eliminate unnecessary words. The words "over all others under this chapter" are omitted as surplus.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(b)(1), (2), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or” and substituted “, Under Secretary, or Administrator” for “or Administrator” wherever appearing.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(b)(1), (2), inserted "the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or" after "(or" and substituted ", Under Secretary, or Administrator" for "or Administrator" wherever appearing.
 
-Subsec. (b). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator”.
+Subsec. (b). Pub. L. 107–71, §140(b)(2), substituted ", Under Secretary, or Administrator" for "or Administrator".
 
 #### Transfer of Functions
 

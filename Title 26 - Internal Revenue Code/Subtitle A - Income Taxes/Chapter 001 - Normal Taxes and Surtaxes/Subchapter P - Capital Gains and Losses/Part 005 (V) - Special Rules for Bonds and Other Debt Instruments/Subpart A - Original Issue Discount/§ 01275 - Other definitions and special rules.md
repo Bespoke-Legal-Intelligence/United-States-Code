@@ -8,11 +8,11 @@ For purposes of this subpart—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “debt instrument” means a bond, debenture, note, or certificate or other evidence of indebtedness.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "debt instrument" means a bond, debenture, note, or certificate or other evidence of indebtedness.
 
 #### (B) Exception for certain annuity contracts
 
-&emsp;&emsp;The term “debt instrument” shall not include any annuity contract to which section 72 applies and which—
+&emsp;&emsp;The term "debt instrument" shall not include any annuity contract to which section 72 applies and which—
 
 &emsp;&emsp;&emsp;(i) depends (in whole or in substantial part) on the life expectancy of 1 or more individuals, or
 
@@ -28,19 +28,19 @@ For purposes of this subpart—
 
 #### (A) Publicly offered debt instruments
 
-&emsp;&emsp;In the case of any debt instrument which is publicly offered, the term “date of original issue” means the date on which the issue was first issued to the public.
+&emsp;&emsp;In the case of any debt instrument which is publicly offered, the term "date of original issue" means the date on which the issue was first issued to the public.
 
 #### (B) Issues not publicly offered and not issued for property
 
-&emsp;&emsp;In the case of any debt instrument to which section 1273(b)(2) applies, the term “date of original issue” means the date on which the debt instrument was sold by the issuer.
+&emsp;&emsp;In the case of any debt instrument to which section 1273(b)(2) applies, the term "date of original issue" means the date on which the debt instrument was sold by the issuer.
 
 #### (C) Other debt instruments
 
-&emsp;&emsp;In the case of any debt instrument not described in subparagraph (A) or (B), the term “date of original issue” means the date on which the debt instrument was issued in a sale or exchange.
+&emsp;&emsp;In the case of any debt instrument not described in subparagraph (A) or (B), the term "date of original issue" means the date on which the debt instrument was issued in a sale or exchange.
 
 #### (3) Tax-exempt obligation
 
-&emsp;The term “tax-exempt obligation” means any obligation if—
+&emsp;The term "tax-exempt obligation" means any obligation if—
 
 &emsp;&emsp;(A) the interest on such obligation is not includible in gross income under section 103, or
 
@@ -72,7 +72,7 @@ For purposes of this subpart—
 
 #### (3) Personal use property
 
-&emsp;For purposes of this subsection, the term “personal use property” means any property substantially all of the use of which by the taxpayer is not in connection with a trade or business of the taxpayer or an activity described in section 212. The determination of whether property is described in the preceding sentence shall be made as of the time of issuance of the debt instrument.
+&emsp;For purposes of this subsection, the term "personal use property" means any property substantially all of the use of which by the taxpayer is not in connection with a trade or business of the taxpayer or an activity described in section 212. The determination of whether property is described in the preceding sentence shall be made as of the time of issuance of the debt instrument.
 
 #### (c) Information requirements
 
@@ -120,19 +120,19 @@ The Secretary may prescribe regulations providing that where, by reason of varyi
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(1)(B)(ii). Pub. L. 106–554, in introductory provisions, substituted “subchapter L (or by an entity described in section 501(c) and exempt from tax under section 501(a) which would be subject to tax under subchapter L were it not so exempt)” for “subchapter L”.
+<b>2000</b>—Subsec. (a)(1)(B)(ii). Pub. L. 106–554, in introductory provisions, substituted "subchapter L (or by an entity described in section 501(c) and exempt from tax under section 501(a) which would be subject to tax under subchapter L were it not so exempt)" for "subchapter L".
 
 <b>1990</b>—Subsec. (a)(4), (5). Pub. L. 101–508 redesignated par. (5) as (4) and struck out former par. (4) which related to a special rule for determination of issue price in case of exchange of debt instruments in reorganization.
 
-<b>1988</b>—Subsec. (a)(4)(B)(ii)(I). Pub. L. 100–647 substituted “subsection (a)(7)” for “subsection (a)(6)”.
+<b>1988</b>—Subsec. (a)(4)(B)(ii)(I). Pub. L. 100–647 substituted "subsection (a)(7)" for "subsection (a)(6)".
 
-<b>1986</b>—Subsec. (a)(4), (5). Pub. L. 99–514 redesignated par. (4), relating to treatment of obligations distributed to corporations, as (5), and substituted “by corporations” for “to corporations” in heading.
+<b>1986</b>—Subsec. (a)(4), (5). Pub. L. 99–514 redesignated par. (4), relating to treatment of obligations distributed to corporations, as (5), and substituted "by corporations" for "to corporations" in heading.
 
 <b>1984</b>—Subsec. (a)(4). Pub. L. 98–369, §61(c)(2), added par. (4) relating to treatment of obligations distributed to corporations.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §318(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: “The amendment made by this subsection \[amending this section\] shall take effect as if included in the amendments made by section 41 of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\].”
+Pub. L. 106–554, §1(a)(7) \[title III, §318(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: "The amendment made by this subsection \[amending this section\] shall take effect as if included in the amendments made by section 41 of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\]."
 
 #### Effective Date of 1990 Amendment
 

@@ -78,9 +78,9 @@ The Secretary shall hold public hearings and shall develop detailed regulations,
 
 #### Amendments
 
-<b>2005</b>—Subsec. (e)(2). Pub. L. 109–97 designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), a dairy” for “A dairy”, and added subpar. (B).
+<b>2005</b>—Subsec. (e)(2). Pub. L. 109–97 designated existing provisions as subpar. (A), inserted heading, substituted "Except as provided in subparagraph (B), a dairy" for "A dairy", and added subpar. (B).
 
-<b>1991</b>—Subsec. (d)(1)(B). Pub. L. 102–237, §1001(2)(A), substituted “parasiticides” for “paraciticides”.
+<b>1991</b>—Subsec. (d)(1)(B). Pub. L. 102–237, §1001(2)(A), substituted "parasiticides" for "paraciticides".
 
 Subsecs. (g), (h). Pub. L. 102–237, §1001(2)(B), redesignated subsec. (h) as (g).
 

@@ -4,25 +4,25 @@
 
 In furtherance of the purposes of the Wilderness Act of 1964 (16 U.S.C. 1131 et seq.), the following lands in the State of Nevada are designated as wilderness, and, therefore, as components of the National Wilderness Preservation System:
 
-&emsp;(1) Certain lands in the Black Rock Desert Wilderness Study Area comprised of approximately 315,700 acres, as generally depicted on a map entitled “Black Rock Desert Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the Black Rock Desert Wilderness.
+&emsp;(1) Certain lands in the Black Rock Desert Wilderness Study Area comprised of approximately 315,700 acres, as generally depicted on a map entitled "Black Rock Desert Wilderness—Proposed" and dated October 3, 2001, and which shall be known as the Black Rock Desert Wilderness.
 
-&emsp;(2) Certain lands in the Pahute Peak Wilderness Study Area comprised of approximately 57,400 acres, as generally depicted on a map entitled “Pahute Peak Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the Pahute Peak Wilderness.
+&emsp;(2) Certain lands in the Pahute Peak Wilderness Study Area comprised of approximately 57,400 acres, as generally depicted on a map entitled "Pahute Peak Wilderness—Proposed" and dated October 3, 2001, and which shall be known as the Pahute Peak Wilderness.
 
-&emsp;(3) Certain lands in the North Black Rock Range Wilderness Study Area comprised of approximately 30,800 acres, as generally depicted on a map entitled “North Black Rock Range Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the North Black Rock Range Wilderness.
+&emsp;(3) Certain lands in the North Black Rock Range Wilderness Study Area comprised of approximately 30,800 acres, as generally depicted on a map entitled "North Black Rock Range Wilderness—Proposed" and dated October 3, 2001, and which shall be known as the North Black Rock Range Wilderness.
 
-&emsp;(4) Certain lands in the East Fork High Rock Canyon Wilderness Study Area comprised of approximately 52,800 acres, as generally depicted on a map entitled “East Fork High Rock Canyon Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the East Fork High Rock Canyon Wilderness.
+&emsp;(4) Certain lands in the East Fork High Rock Canyon Wilderness Study Area comprised of approximately 52,800 acres, as generally depicted on a map entitled "East Fork High Rock Canyon Wilderness—Proposed" and dated October 3, 2001, and which shall be known as the East Fork High Rock Canyon Wilderness.
 
-&emsp;(5) Certain lands in the High Rock Lake Wilderness Study Area comprised of approximately 59,300 acres, as generally depicted on a map entitled “High Rock Lake Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the High Rock Lake Wilderness.
+&emsp;(5) Certain lands in the High Rock Lake Wilderness Study Area comprised of approximately 59,300 acres, as generally depicted on a map entitled "High Rock Lake Wilderness—Proposed" and dated October 3, 2001, and which shall be known as the High Rock Lake Wilderness.
 
-&emsp;(6) Certain lands in the Little High Rock Canyon Wilderness Study Area comprised of approximately 48,700 acres, as generally depicted on a map entitled “Little High Rock Canyon Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the Little High Rock Canyon Wilderness.
+&emsp;(6) Certain lands in the Little High Rock Canyon Wilderness Study Area comprised of approximately 48,700 acres, as generally depicted on a map entitled "Little High Rock Canyon Wilderness—Proposed" and dated October 3, 2001, and which shall be known as the Little High Rock Canyon Wilderness.
 
-&emsp;(7) Certain lands in the High Rock Canyon Wilderness Study Area and Yellow Rock Canyon Wilderness Study Area comprised of approximately 46,600 acres, as generally depicted on a map entitled “High Rock Canyon Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the High Rock Canyon Wilderness.
+&emsp;(7) Certain lands in the High Rock Canyon Wilderness Study Area and Yellow Rock Canyon Wilderness Study Area comprised of approximately 46,600 acres, as generally depicted on a map entitled "High Rock Canyon Wilderness—Proposed" and dated October 3, 2001, and which shall be known as the High Rock Canyon Wilderness.
 
-&emsp;(8) Certain lands in the Calico Mountains Wilderness Study Area comprised of approximately 65,400 acres, as generally depicted on a map entitled “Calico Mountains Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the Calico Mountains Wilderness.
+&emsp;(8) Certain lands in the Calico Mountains Wilderness Study Area comprised of approximately 65,400 acres, as generally depicted on a map entitled "Calico Mountains Wilderness—Proposed" and dated October 3, 2001, and which shall be known as the Calico Mountains Wilderness.
 
-&emsp;(9) Certain lands in the South Jackson Mountains Wilderness Study Area comprised of approximately 56,800 acres, as generally depicted on a map entitled “South Jackson Mountains Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the South Jackson Mountains Wilderness.
+&emsp;(9) Certain lands in the South Jackson Mountains Wilderness Study Area comprised of approximately 56,800 acres, as generally depicted on a map entitled "South Jackson Mountains Wilderness—Proposed" and dated October 3, 2001, and which shall be known as the South Jackson Mountains Wilderness.
 
-&emsp;(10) Certain lands in the North Jackson Mountains Wilderness Study Area comprised of approximately 24,000 acres, as generally depicted on a map entitled “North Jackson Mountains Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the North Jackson Mountains Wilderness.
+&emsp;(10) Certain lands in the North Jackson Mountains Wilderness Study Area comprised of approximately 24,000 acres, as generally depicted on a map entitled "North Jackson Mountains Wilderness—Proposed" and dated October 3, 2001, and which shall be known as the North Jackson Mountains Wilderness.
 
 #### (b) Administration of wilderness areas
 
@@ -30,7 +30,7 @@ Subject to valid existing rights, each wilderness area designated by this subcha
 
 #### (c) Maps and legal description
 
-As soon as practicable after December 21, 2000, the Secretary shall submit to Congress a mapand legal description of the wilderness areas designated under this subchapter. The map and legal description shall have the same force and effect as if included in this subchapter, except the Secretary may correct clerical and typographical errors in such map and legal description. Copies of the map and legal description shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+As soon as practicable after December 21, 2000, the Secretary shall submit to Congress a map and legal description of the wilderness areas designated under this subchapter. The map and legal description shall have the same force and effect as if included in this subchapter, except the Secretary may correct clerical and typographical errors in such map and legal description. Copies of the map and legal description shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
 
 #### (d) Grazing
 
@@ -54,7 +54,7 @@ Nothing in this subchapter or the Wilderness Act (16 U.S.C. 1131 et seq.) preclu
 
 Congress—
 
-&emsp;(1) finds that the parcels of land in the wilderness study areas referred to in subsection (a) of this section that are not designated as wilderness by subsection (a) of this section have been adequately studied for wilderness designation under section 1782 of title 43; and
+&emsp;(1) finds that the parcels of land in the wilderness study areas referred to in subsection (a) of this section that are not designated aswilderness by subsection (a) of this section have been adequately studied for wilderness designation under section 1782 of title 43; and
 
 &emsp;(2) declares that those parcels are no longer subject to the requirement of subsection (c) of that section pertaining to the management of wilderness study areas in a manner that does not impair the suitability of such areas for preservation as wilderness.
 
@@ -74,7 +74,7 @@ Section is comprised of section 1(a)(4) \[div. B, title I, §125 \[§8\]\] of Pu
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–63, §135(a), substituted “October 3, 2001” for “July 19, 2000” wherever appearing.
+<b>2001</b>—Subsec. (a). Pub. L. 107–63, §135(a), substituted "October 3, 2001" for "July 19, 2000" wherever appearing.
 
 Subsecs. (e) to (g). Pub. L. 107–63, §135(c)–(e), added subsecs. (e) to (g).
 

@@ -10,7 +10,7 @@ In order to preserve biological diversity, the President is authorized to furnis
 
 #### (c) Funding level
 
-For fiscal year 1987, not less than $2,500,000 of the funds available to carry out subchapter I ofthis chapter (excluding funds made available to carry out section 2151b(c)(2) of this title, relating to the Child Survival Fund) shall be allocated for assistance pursuant to subsection (b) of this section for activities which were not funded prior to fiscal year 1987. In addition, the Agency for International Development shall, to the fullest extent possible, continue and increase assistance pursuant to subsection (b) of this section for activities for which assistance was provided in fiscal years prior to fiscal year 1987.
+For fiscal year 1987, not less than $2,500,000 of the funds available to carry out subchapter I of this chapter (excluding funds made available to carry out section 2151b(c)(2) of this title, relating to the Child Survival Fund) shall be allocated for assistance pursuant to subsection (b) of this section for activities which were not funded prior to fiscal year 1987. In addition, the Agency for International Development shall, to the fullest extent possible, continue and increase assistance pursuant to subsection (b) of this section for activities for which assistance was provided in fiscal years prior to fiscal year 1987.
 
 #### (d) Country analysis requirements
 
@@ -68,17 +68,17 @@ A prior section 2151q, Pub. L. 87–195, pt. I, §119, as added Pub. L. 95–88,
 
 #### Amendments
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–167 inserted “, notwithstanding section 2420 of this title,” after “subchapter I of this chapter”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–167 inserted ", notwithstanding section 2420 of this title," after "subchapter I of this chapter".
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–529 added subsec. (c) and struck out former subsec. (c) which read as follows: “The Administrator of the Agency for International Development, in conjunction with the Secretary of State, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of other appropriate Government agencies, shall develop a United States strategy, including specific policies and programs, to protect and conserve biological diversity in developing countries.”
+<b>1986</b>—Subsec. (c). Pub. L. 99–529 added subsec. (c) and struck out former subsec. (c) which read as follows: "The Administrator of the Agency for International Development, in conjunction with the Secretary of State, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of other appropriate Government agencies, shall develop a United States strategy, including specific policies and programs, to protect and conserve biological diversity in developing countries."
 
-Subsec. (d). Pub. L. 99–529 added subsec. (d) and struck out former subsec. (d) which read as follows:“Each annual report required by section 2394(a) of this title shall include, in a separate volume, a report on the implementation of this subsection. Not later than one year after November 22, 1983, the President shall submit a comprehensive report to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate on the United States strategy to protect and conserve biological diversity in developing countries.”
+Subsec. (d). Pub. L. 99–529 added subsec. (d) and struck out former subsec. (d) which read as follows: "Each annual report required by section 2394(a) of this title shall include, in a separate volume, a report on the implementation of this subsection. Not later than one year after November 22, 1983, the President shall submit a comprehensive report to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate on the United States strategy to protect and conserve biological diversity in developing countries."
 
 Subsecs. (e) to (h). Pub. L. 99–529 added subsecs. (e) to (h).
 
 #### Short Title
 
-For short title of title VII of Pub. L. 98–164, which enacted this section and amended section 2452 of this title, as the “International Environment Protection Act of 1983”, see section 701 of Pub. L. 98–164, set out as a Short Title of 1983 Amendment note under section 2151 of this title.
+For short title of title VII of Pub. L. 98–164, which enacted this section and amended section 2452 of this title, as the "International Environment Protection Act of 1983", see section 701 of Pub. L. 98–164, set out as a Short Title of 1983 Amendment note under section 2151 of this title.
 
 #### Delegation of Functions
 

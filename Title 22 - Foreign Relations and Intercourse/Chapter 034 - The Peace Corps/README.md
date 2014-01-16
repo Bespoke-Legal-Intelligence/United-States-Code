@@ -30,7 +30,7 @@
 | [2514a.](%C2%A7%2002514a%20-%20Authorization%20for%20Peace%20Corps%20to%20provide%20separation%20pay%20for%20host%20country%20resident%20personal%20services%20contractors%20of%20the%20Peace%20Corps.md) | Authorization for Peace Corps to provide separation pay for host country resident personal services contractors of the Peace Corps. |
 | [2515\.](%C2%A7%2002515%20-%20Foreign%20Currency%20Fluctuations%20Account.md) | Foreign Currency Fluctuations Account. |
 | [2516\.](%C2%A7%2002516%20-%20Use%20of%20foreign%20currencies.md) | Use of foreign currencies. |
-| [2517\.](%C2%A7%2002517%20-%20Activities%20promoting%20Americans%E2%80%99%20understanding%20of%20other%20peoples.md) | Activities promoting Americans’ understanding of other peoples. |
+| [2517\.](%C2%A7%2002517%20-%20Activities%20promoting%20Americans%27%20understanding%20of%20other%20peoples.md) | Activities promoting Americans' understanding of other peoples. |
 | [2518\.](%C2%A7%2002518%20-%20Seal%20and%20name.md) | Seal and name. |
 | [2519\.](%C2%A7%2002519%20-%20Security%20investigations.md) | Security investigations. |
 | [2520\.](%C2%A7%2002520%20-%20Military%20training%20and%20service%20exemption.md) | Military training and service exemption. |
@@ -74,7 +74,7 @@
 - [&sect; 02514a - Authorization for Peace Corps to provide separation pay for host country resident personal services contractors of the Peace Corps](%C2%A7%2002514a%20-%20Authorization%20for%20Peace%20Corps%20to%20provide%20separation%20pay%20for%20host%20country%20resident%20personal%20services%20contractors%20of%20the%20Peace%20Corps.md)
 - [&sect; 02515 - Foreign Currency Fluctuations Account](%C2%A7%2002515%20-%20Foreign%20Currency%20Fluctuations%20Account.md)
 - [&sect; 02516 - Use of foreign currencies](%C2%A7%2002516%20-%20Use%20of%20foreign%20currencies.md)
-- [&sect; 02517 - Activities promoting Americans&#8217; understanding of other peoples](%C2%A7%2002517%20-%20Activities%20promoting%20Americans%E2%80%99%20understanding%20of%20other%20peoples.md)
+- [&sect; 02517 - Activities promoting Americans' understanding of other peoples](%C2%A7%2002517%20-%20Activities%20promoting%20Americans%27%20understanding%20of%20other%20peoples.md)
 - [&sect; 02518 - Seal and name](%C2%A7%2002518%20-%20Seal%20and%20name.md)
 - [&sect; 02519 - Security investigations](%C2%A7%2002519%20-%20Security%20investigations.md)
 - [&sect; 02520 - Military training and service exemption](%C2%A7%2002520%20-%20Military%20training%20and%20service%20exemption.md)

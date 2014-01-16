@@ -10,7 +10,7 @@
 
 (c) Enlistments or reenlistments in the National Guard may be extended—
 
-&emsp;(1) under regulations to be prescribed by the Secretary concerned, at the request of the member, for any period not less than six months; or
+&emsp;(1) under regulations to be prescribed by the Secretary concerned, at the request of themember, for any period not less than six months; or
 
 &emsp;(2) by proclamation of the President, if Congress declares an emergency, until six months after termination of that emergency.
 
@@ -28,9 +28,9 @@ Historical and Revision Notes
 
 32:124.
 
-June 3, 1916, ch. 134, §69; restated July 11, 1919, ch. 8 (20th par. under “National Guard”); restated June 4, 1920, ch. 227, subch. I, §37; restated June 6, 1924, ch. 275, §4; restated June 15, 1933, ch. 87, §7, 48 Stat. 156; July 9, 1952, ch. 608, §806(a), 66 Stat. 506.
+June 3, 1916, ch. 134, §69; restated July 11, 1919, ch. 8 (20th par. under "National Guard"); restated June 4, 1920, ch. 227, subch. I, §37; restated June 6, 1924, ch. 275, §4; restated June 15, 1933, ch. 87, §7, 48 Stat. 156; July 9, 1952, ch. 608, §806(a), 66 Stat. 506.
 
-32:124 (1st proviso) is omitted as executed. The word “reenlistments” is substituted for the words “subsequent enlistments”.
+32:124 (1st proviso) is omitted as executed. The word "reenlistments" is substituted for the words "subsequent enlistments".
 
 #### Amendments
 
@@ -38,5 +38,5 @@ June 3, 1916, ch. 134, §69; restated July 11, 1919, ch. 8 (20th par. under “N
 
 #### Effective Date of 1961 Amendment
 
-Pub. L. 87–378, §6, Oct. 4, 1961, 75 Stat. 808, provided that: “The amendments made by sections 3, 4, and 5 of this Act \[amending this section and sections 3261 and 8261 of Title 10, Armed Forces\] shall not affect any enlistment, reenlistment, or appointment entered into or made before the effective date of this Act \[Oct. 4, 1961\].”
+Pub. L. 87–378, §6, Oct. 4, 1961, 75 Stat. 808, provided that: "The amendments made by sections 3, 4, and 5 of this Act \[amending this section and sections 3261 and 8261 of Title 10, Armed Forces\] shall not affect any enlistment, reenlistment, or appointment entered into or made before the effective date of this Act \[Oct. 4, 1961\]."
 

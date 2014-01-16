@@ -66,7 +66,7 @@ The Administrator shall provide Federal leadership necessary to prepare for, pro
 
 &emsp;(17) maintaining and operating within the Agency the National Response Coordination Center or its successor;
 
-&emsp;(18) developing a national emergency management system that is capable of preparingfor, protecting against, responding to, recovering from, and mitigating against catastrophic incidents;
+&emsp;(18) developing a national emergency management system that is capable of preparing for, protecting against, responding to, recovering from, and mitigating against catastrophic incidents;
 
 &emsp;(19) assisting the President in carrying out the functions under the national preparedness goal and the national preparedness system and carrying out all functions and authorities of the Administrator under the national preparedness System;
 

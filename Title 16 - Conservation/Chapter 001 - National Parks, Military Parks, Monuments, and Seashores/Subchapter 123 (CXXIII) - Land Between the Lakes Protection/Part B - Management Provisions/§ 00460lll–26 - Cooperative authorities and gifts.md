@@ -24,7 +24,7 @@
 
 #### (3) Subordination of fish and wildlife activities to overall management
 
-&emsp;The management and use of areas and facilities under permit to the United States Fish and Wildlife Service as authorized pursuant to this section shall be subordinate to the overall management of the Recreation Area as directed by the Secretary.
+&emsp;The management and use of areas and facilities under permit to the United States Fishand Wildlife Service as authorized pursuant to this section shall be subordinate to the overall management of the Recreation Area as directed by the Secretary.
 
 #### (b) Authorities
 

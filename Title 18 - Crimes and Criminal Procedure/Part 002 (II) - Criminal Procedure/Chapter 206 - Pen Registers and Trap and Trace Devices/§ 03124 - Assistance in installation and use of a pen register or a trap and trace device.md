@@ -24,7 +24,7 @@ Defense.—A good faith reliance on a court order under this chapter, a request 
 
 Communications Assistance Enforcement Orders.—Pursuant to section 2522, an order may be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.
 
-(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1870; amended Pub. L. 100–690, title VII, §§7040, 7092(b), (d), Nov. 18, 1988, 102 Stat. 4399, 4411; Pub. L. 101–647, title XXXV, §3575, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–414, title II, §201(b)(2), Oct. 25, 1994, 108 Stat. 4290; Pub. L. 107–56, title II, §216(c)(5), (6), Oct. 26, 2001, 115 Stat. 290.)
+(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1870; amended Pub. L. 100–690, title VII, §§7040, 7092(b), (d), Nov. 18, 1988, 102 Stat. 4399, 4411; Pub. L. 101–647, title XXXV, §3575, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–414, titleII, §201(b)(2), Oct. 25, 1994, 108 Stat. 4290; Pub. L. 107–56, title II, §216(c)(5), (6), Oct. 26, 2001, 115 Stat. 290.)
 
 #### References in Text
 
@@ -32,21 +32,21 @@ The Communications Assistance for Law Enforcement Act, referred to in subsec. (f
 
 #### Amendments
 
-<b>2001</b>—Subsec. (b). Pub. L. 107–56, §216(c)(6), inserted “or other facility” after “the appropriate line”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–56, §216(c)(6), inserted "or other facility" after "the appropriate line".
 
-Subsec. (d). Pub. L. 107–56, §216(c)(5), struck out “the terms of” before “a court order”.
+Subsec. (d). Pub. L. 107–56, §216(c)(5), struck out "the terms of" before "a court order".
 
 <b>1994</b>—Subsec. (f). Pub. L. 103–414 added subsec. (f).
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–647 substituted “section 3123(b)” for “subsection 3123(b)”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–647 substituted "section 3123(b)" for "subsection 3123(b)".
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–690, §§7040, 7092(d), inserted “, pursuant to subsection 3123(b) or section 3125 of this title,” after “shall be furnished” and “order” after last reference to “court”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–690, §§7040, 7092(d), inserted ", pursuant to subsection 3123(b) or section 3125 of this title," after "shall be furnished" and "order" after last reference to "court".
 
-Subsec. (d). Pub. L. 100–690, §7092(b)(1), inserted “or request pursuant to section 3125 of this title” after “this chapter”.
+Subsec. (d). Pub. L. 100–690, §7092(b)(1), inserted "or request pursuant to section 3125 of this title" after "this chapter".
 
-Subsec. (e). Pub. L. 100–690, §7092(b)(2), inserted “under this chapter, a request pursuant to section 3125 of this title” after “court order”.
+Subsec. (e). Pub. L. 100–690, §7092(b)(2), inserted "under this chapter, a request pursuant to section 3125 of this title" after "court order".
 
 #### Assistance to Law Enforcement Agencies
 
-Pub. L. 107–56, title II, §222, Oct. 26, 2001, 115 Stat. 292, provided that: “Nothing in this Act \[see Short Title of 2001 Amendment note set out under section 1 of this title\] shall impose any additional technical obligation or requirement on a provider of a wire or electronic communication service or other person to furnish facilities or technical assistance. A provider of a wire or electronic communication service, landlord, custodian, or other person who furnishes facilities or technical assistance pursuant to section 216 \[amending this section and sections 3121, 3123, and 3127 of this title\] shall be reasonably compensated for such reasonable expenditures incurred in providing such facilities or assistance.”
+Pub. L. 107–56, title II, §222, Oct. 26, 2001, 115 Stat. 292, provided that: "Nothing in this Act \[see Short Title of 2001 Amendment note set out under section 1 of this title\] shall impose any additional technical obligation or requirement on a provider of a wire or electronic communication service or other person to furnish facilities or technical assistance. A provider of a wire or electronic communication service, landlord, custodian, or other person who furnishes facilities or technical assistance pursuant to section 216 \[amending this section and sections 3121, 3123, and 3127 of this title\] shall be reasonably compensated for such reasonable expenditures incurred in providing such facilities or assistance."
 

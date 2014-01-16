@@ -42,5 +42,5 @@ Historical and Revision Notes
 
 Feb. 18, 1980, Pub. L. 96–193, §107, 94 Stat. 53.
 
-In subsection (a)(2), the words “for which recovery is sought have” are omitted as surplus.
+In subsection (a)(2), the words "for which recovery is sought have" are omitted as surplus.
 

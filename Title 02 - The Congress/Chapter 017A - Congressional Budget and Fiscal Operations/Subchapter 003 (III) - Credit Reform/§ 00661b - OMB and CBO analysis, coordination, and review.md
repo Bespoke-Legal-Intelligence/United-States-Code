@@ -10,7 +10,7 @@ The Director may delegate to agencies authority to make estimates of costs. The 
 
 #### (c) Coordination with Congressional Budget Office
 
-In developing estimation guidelines, regulations, or criteria to be used by Federal agencies, the Director shall consult with the Director of the Congressional Budget Office.
+In developing estimation guidelines, regulations, or criteria to be used by Federal agencies,the Director shall consult with the Director of the Congressional Budget Office.
 
 #### (d) Improving cost estimates
 
@@ -28,5 +28,5 @@ The Director and the Director of the Congressional Budget Office shall each anal
 
 #### Prior Provisions
 
-A prior section 503 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was classified to section 701 of formerTitle 31, prior to repeal and reenactment in section 1552(a) of Title 31, Money and Finance, by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
+A prior section 503 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was classified to section 701 of former Title 31, prior to repeal and reenactment in section 1552(a) of Title 31, Money and Finance, by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 

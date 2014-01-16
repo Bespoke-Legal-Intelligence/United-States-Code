@@ -34,7 +34,7 @@ Another prior section 319 of Pub. L. 92–225 was renumbered section 318, and wa
 
 <b>2002</b>—Pub. L. 107–155, §303(1), substituted “Contributions and donations by foreign nationals” for “Contributions by foreign nationals” in section catchline.
 
-Subsec. (a). Pub. L. 107–155, §303(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “ It shall be unlawful for a foreign national directly or through any other person to make any contribution of money or other thing of value, or to promise expressly or impliedly to make any such contribution, in connection with an election to any political office or in connection with any primary election, convention, or caucus held to select candidates for any political office; orfor any person to solicit, accept, or receive any such contribution from a foreign national.”
+Subsec. (a). Pub. L. 107–155, §303(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “ It shall be unlawful for a foreign national directly or through any other person to make any contribution of money or other thing of value, or to promise expressly or impliedly to make any such contribution, in connection with an election to any political office or in connection with any primary election, convention, or caucus held to select candidates for any political office; or for any person to solicit, accept, or receive any such contribution from a foreign national.”
 
 Subsec. (b)(2). Pub. L. 107–155, §317, inserted “or a national of the United States (as defined in section 1101(a)(22) of title 8)” after “United States”.
 

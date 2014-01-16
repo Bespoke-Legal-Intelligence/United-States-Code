@@ -6,41 +6,41 @@ As used in this section:
 
 #### (1) Accreditation body
 
-&emsp;The term “accreditation body” means a body that has been approved by the Secretary under subsection (e)(1)(A) of this section to accredit mammography facilities.
+&emsp;The term "accreditation body" means a body that has been approved by the Secretary under subsection (e)(1)(A) of this section to accredit mammography facilities.
 
 #### (2) Certificate
 
-&emsp;The term “certificate” means the certificate described in subsection (b)(1) of this section.
+&emsp;The term "certificate" means the certificate described in subsection (b)(1) of this section.
 
 #### (3) Facility
 
 #### (A) In general
 
-&emsp;&emsp;The term “facility” means a hospital, outpatient department, clinic, radiology practice, or mobile unit, an office of a physician, or other facility as determined by the Secretary, that conducts breast cancer screening or diagnosis through mammography activities. Such term does not include a facility of the Department of Veterans Affairs.
+&emsp;&emsp;The term "facility" means a hospital, outpatient department, clinic, radiology practice, or mobile unit, an office of a physician, or other facility as determined by the Secretary, that conducts breast cancer screening or diagnosis through mammography activities. Such term does not include a facility of the Department of Veterans Affairs.
 
 #### (B) Activities
 
-&emsp;&emsp;For the purposes of this section, the activities of a facility include the operation of equipment to produce the mammogram, the processing of the film, the initial interpretation of the mammogram and the viewing conditions for that interpretation. Where procedures such as the film processing, or the interpretation of the mammogram areperformed in a location different from where the mammogram is performed, the facility performing the mammogram shall be responsible for meeting the quality standards described in subsection (f) of this section.
+&emsp;&emsp;For the purposes of this section, the activities of a facility include the operation of equipment to produce the mammogram, the processing of the film, the initial interpretation of the mammogram and the viewing conditions for that interpretation. Where procedures such as the film processing, or the interpretation of the mammogram are performed in a location different from where the mammogram is performed, the facility performing the mammogram shall be responsible for meeting the quality standards described in subsection (f) of this section.
 
 #### (4) Inspection
 
-&emsp;The term “inspection” means an onsite evaluation of the facility by the Secretary, or State or local agency on behalf of the Secretary.
+&emsp;The term "inspection" means an onsite evaluation of the facility by the Secretary, or State or local agency on behalf of the Secretary.
 
 #### (5) Mammogram
 
-&emsp;The term “mammogram” means a radiographic image produced through mammography.
+&emsp;The term "mammogram" means a radiographic image produced through mammography.
 
 #### (6) Mammography
 
-&emsp;The term “mammography” means radiography of the breast.
+&emsp;The term "mammography" means radiography of the breast.
 
 #### (7) Survey
 
-&emsp;The term “survey” means an onsite physics consultation and evaluation performed by a medical physicist as described in subsection (f)(1)(E) of this section.
+&emsp;The term "survey" means an onsite physics consultation and evaluation performed by a medical physicist as described in subsection (f)(1)(E) of this section.
 
 #### (8) Review physician
 
-&emsp;The term “review physician” means a physician as prescribed by the Secretary under subsection (f)(1)(D) of this section who meets such additional requirements as may be established by an accreditation body under subsection (e) of this section and approved by the Secretary to review clinical images under subsection (e)(1)(B)(i) of this section on behalf of the accreditation body.
+&emsp;The term "review physician" means a physician as prescribed by the Secretary under subsection (f)(1)(D) of this section who meets such additional requirements as may be established by an accreditation body under subsection (e) of this section and approved by the Secretary to review clinical images under subsection (e)(1)(B)(i) of this section on behalf of the accreditation body.
 
 #### (b) Certificate requirement
 
@@ -344,7 +344,7 @@ As used in this section:
 
 #### (F) Records and annual reports
 
-&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which isresponsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Such a State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
+&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Such a State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
 
 #### (2) Inspection of accredited facilities
 
@@ -376,7 +376,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(ii) In carrying out the program, the Secretary may not select a facility for inclusion in the program unless the facility is substantially free of incidents of noncompliance with the standards under subsection (f) of this section. The Secretary may at any time provide that a facility will no longer be included in the program.
 
-&emsp;&emsp;&emsp;(iii) The number of facilities selected for inclusion in the program shall be sufficient to provide a statistically significant sample, subject to compliance with clause (ii).
+&emsp;&emsp;&emsp;(iii) The number of facilities selected for inclusion in the program shall be sufficient to provide a statistically significantsample, subject to compliance with clause (ii).
 
 &emsp;&emsp;&emsp;(iv) Facilities that are selected for inclusion in the program shall be inspected at such intervals as the Secretary determines will reasonably ensure that the facilities are maintaining compliance with such standards.
 
@@ -444,7 +444,7 @@ As used in this section:
 
 #### (3) Ineligibility to own or operate facilities after revocation
 
-&emsp;If the Secretary revokes the certificate of a facility on the basis of an act described in paragraph (1), no person who owned or operated the facility at the time of the act may, within 2 years of the revocation of the certificate, own or operate a facility that requires a certificate under this section.
+&emsp;If the Secretary revokes the certificate of a facility on the basis of an act described inparagraph (1), no person who owned or operated the facility at the time of the act may, within 2 years of the revocation of the certificate, own or operate a facility that requires a certificate under this section.
 
 #### (j) Injunctions
 
@@ -510,7 +510,7 @@ Nothing in this section shall be construed to limit the authority of any State t
 
 #### (1) Establishment
 
-&emsp;In carrying out this section, the Secretary shall establish an advisory committee to be known as the National Mammography Quality Assurance Advisory Committee (hereafter in this subsection referred to as the “Advisory Committee”).
+&emsp;In carrying out this section, the Secretary shall establish an advisory committee to beknown as the National Mammography Quality Assurance Advisory Committee (hereafter in this subsection referred to as the "Advisory Committee").
 
 #### (2) Composition
 
@@ -686,49 +686,49 @@ Sections 263c to 263n, act July 1, 1944, ch. 373, title III, §§355–360F, as 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(1). Pub. L. 108–365, §2(1)(C), substituted “temporary renewal certificate, provisional certificate, or a limited provisional certificate” for “provisional certificate” in concluding provisions.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–365, §2(1)(C), substituted "temporary renewal certificate, provisional certificate, or a limited provisional certificate" for "provisional certificate" in concluding provisions.
 
-Subsec. (b)(1)(A). Pub. L. 108–365, §2(1)(A), inserted “or a temporary renewal certificate” after “certificate” in introductory provisions and substituted “paragraphs (1) or (2) of subsection (c)” for “subsection (c)(1)” in cl. (i).
+Subsec. (b)(1)(A). Pub. L. 108–365, §2(1)(A), inserted "or a temporary renewal certificate" after "certificate" in introductory provisions and substituted "paragraphs (1) or (2) of subsection (c)" for "subsection (c)(1)" in cl. (i).
 
-Subsec. (b)(1)(B). Pub. L. 108–365, §2(1)(B), inserted “or a limited provisional certificate” after “certificate” in introductory provisions and substituted “paragraphs (3) and (4) of subsection (c)” for “subsection (c)(2)” in cl. (i).
+Subsec. (b)(1)(B). Pub. L. 108–365, §2(1)(B), inserted "or a limited provisional certificate" after "certificate" in introductory provisions and substituted "paragraphs (3) and (4) of subsection (c)" for "subsection (c)(2)" in cl. (i).
 
 Subsec. (c)(2) to (4). Pub. L. 108–365, §2(2), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-Subsec. (n)(2). Pub. L. 108–365, §3(1), reenacted subpar. (C) without change, added concluding provisions, and struck out former concluding provisions which read as follows: “whose clinical practice, research specialization, or professional expertise include a significant focus on mammography. The Secretary shall appoint at least 4 individuals from among national breast cancer or consumer health organizations with expertise in mammography and at least 2 practicing physicians who provide mammography services.”
+Subsec. (n)(2). Pub. L. 108–365, §3(1), reenacted subpar. (C) without change, added concluding provisions, and struck out former concluding provisions which read as follows: "whose clinical practice, research specialization, or professional expertise include a significant focus on mammography. The Secretary shall appoint at least 4 individuals from among national breast cancer or consumer health organizations with expertise in mammography and at least 2 practicing physicians who provide mammography services."
 
-Subsec. (n)(4). Pub. L. 108–365, §3(2), substituted “annually” for “biannually”.
+Subsec. (n)(4). Pub. L. 108–365, §3(2), substituted "annually" for "biannually".
 
-Subsec. (r)(2). Pub. L. 108–365, §4, substituted “2007” for “2002” in subpars. (A) and (B).
+Subsec. (r)(2). Pub. L. 108–365, §4, substituted "2007" for "2002" in subpars. (A) and (B).
 
-<b>1998</b>—Subsec. (a)(4). Pub. L. 105–248, §9(1), inserted “or local” after “State”.
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–248, §9(1), inserted "or local" after "State".
 
 Subsec. (a)(8). Pub. L. 105–248, §4(b), added par. (8).
 
-Subsec. (d)(2)(B). Pub. L. 105–248, §3, substituted “part 498 of title 42, Code of Federal Regulations” for “42 C.F.R. 498 and in effect on October 27, 1992”.
+Subsec. (d)(2)(B). Pub. L. 105–248, §3, substituted "part 498 of title 42, Code of Federal Regulations" for "42 C.F.R. 498 and in effect on October 27, 1992".
 
-Subsec. (e)(1)(B)(i)(I), (II). Pub. L. 105–248, §4(a)(1), substituted “review physicians” for “practicing physicians”.
+Subsec. (e)(1)(B)(i)(I), (II). Pub. L. 105–248, §4(a)(1), substituted "review physicians" for "practicing physicians".
 
-Subsec. (e)(1)(B)(ii). Pub. L. 105–248, §4(a)(2), substituted “relationship” for “financial relationship”.
+Subsec. (e)(1)(B)(ii). Pub. L. 105–248, §4(a)(2), substituted "relationship" for "financial relationship".
 
-Subsec. (f)(1)(G)(i). Pub. L. 105–248, §5, added cl. (i) and struck out former cl. (i) which read as follows: “a facility that performs any mammogram maintain the mammogram in the permanent medical records of the patient—
+Subsec. (f)(1)(G)(i). Pub. L. 105–248, §5, added cl. (i) and struck out former cl. (i) which read as follows: "a facility that performs any mammogram maintain the mammogram in the permanent medical records of the patient—
 
-&emsp;“(I) for a period of not less than 5 years, or not less than 10 years if no additional mammograms of such patient are performed at the facility, or longer if mandated by State law; or
+&emsp;"(I) for a period of not less than 5 years, or not less than 10 years if no additional mammograms of such patient are performed at the facility, or longer if mandated by State law; or
 
-&emsp;“(II) until such time as the patient should request that the patient's medical records be forwarded to a medical institution or a physician of the patient;
+&emsp;"(II) until such time as the patient should request that the patient's medical records be forwarded to a medical institution or a physician of the patient;
 
-> whichever is longer; and”.
+> whichever is longer; and".
 
-Subsec. (f)(1)(G)(ii)(IV). Pub. L. 105–248, §6, added subcl. (IV) and struck out former subcl. (IV) which read as follows: “if such report is sent to the patient, the report shall include a summary written in terms easily understood by a lay person; and”.
+Subsec. (f)(1)(G)(ii)(IV). Pub. L. 105–248, §6, added subcl. (IV) and struck out former subcl. (IV) which read as follows: "if such report is sent to the patient, the report shall include a summary written in terms easily understood by a lay person; and".
 
-Subsec. (g)(1). Pub. L. 105–248, §9(1), inserted “or local” after “State” wherever appearing.
+Subsec. (g)(1). Pub. L. 105–248, §9(1), inserted "or local" after "State" wherever appearing.
 
-Subsec. (g)(1)(A). Pub. L. 105–248, §7, in first sentence, struck out “certified” before “facilities” and inserted “the certification requirements under subsection (b) of this section and” after “compliance with”.
+Subsec. (g)(1)(A). Pub. L. 105–248, §7, in first sentence, struck out "certified" before "facilities" and inserted "the certification requirements under subsection (b) of this section and" after "compliance with".
 
-Subsec. (g)(1)(E). Pub. L. 105–248, §8(1), inserted “, subject to paragraph (6)” before period at end.
+Subsec. (g)(1)(E). Pub. L. 105–248, §8(1), inserted ", subject to paragraph (6)" before period at end.
 
-Subsec. (g)(3). Pub. L. 105–248, §9(1), (2), inserted “or local” after “State” in heading and in two places in text.
+Subsec. (g)(3). Pub. L. 105–248, §9(1), (2), inserted "or local" after "State" in heading and in two places in text.
 
-Subsec. (g)(4). Pub. L. 105–248, §9(1), inserted “or local” after “State”.
+Subsec. (g)(4). Pub. L. 105–248, §9(1), inserted "or local" after "State".
 
 Subsec. (g)(6). Pub. L. 105–248, §8(2), added par. (6).
 
@@ -736,23 +736,23 @@ Subsec. (h)(2). Pub. L. 105–248, §10(a), added par. (2) and redesignated form
 
 Subsec. (h)(3). Pub. L. 105–248, §10(a)(1), (b), redesignated par. (2) as (3), added subpar. (C), and redesignated former subpar. (C) as (D). Former par. (3) redesignated (4).
 
-Subsec. (h)(4). Pub. L. 105–248, §10(a)(1), (c), redesignated par. (3) as (4) and substituted “paragraphs (1) through (3)” for “paragraphs (1) and (2)”.
+Subsec. (h)(4). Pub. L. 105–248, §10(a)(1), (c), redesignated par. (3) as (4) and substituted "paragraphs (1) through (3)" for "paragraphs (1) and (2)".
 
-Subsec. (i)(1)(C). Pub. L. 105–248, §11, inserted “(or of an accreditation body approved pursuant to subsection (e) of this section)” after “of the Secretary” and inserted “(or such accreditation body or State carrying out certification program requirements pursuant to subsection (q) of this section)” after “that the Secretary”.
+Subsec. (i)(1)(C). Pub. L. 105–248, §11, inserted "(or of an accreditation body approved pursuant to subsection (e) of this section)" after "of the Secretary" and inserted "(or such accreditation body or State carrying out certification program requirements pursuant to subsection (q) of this section)" after "that the Secretary".
 
-Subsec. (i)(1)(D). Pub. L. 105–248, §9(3), inserted “or local” after “any State” and “or local agency” after “by the State”.
+Subsec. (i)(1)(D). Pub. L. 105–248, §9(3), inserted "or local" after "any State" and "or local agency" after "by the State".
 
-Subsec. (i)(2)(A). Pub. L. 105–248, §12, substituted “has reason to believe that the circumstance of the case will support one or more of the findings described in paragraph (1) and that—” and cls. (i) and (ii) for “makes the finding described in paragraph (1) and determines that—
+Subsec. (i)(2)(A). Pub. L. 105–248, §12, substituted "has reason to believe that the circumstance of the case will support one or more of the findings described in paragraph (1) and that—" and cls. (i) and (ii) for "makes the finding described in paragraph (1) and determines that—
 
-&emsp;“(i) the failure of a facility to comply with the standards established by the Secretary under subsection (f) of this section presents a serious risk to human health; or
+&emsp;"(i) the failure of a facility to comply with the standards established by the Secretary under subsection (f) of this section presents a serious risk to human health; or
 
-&emsp;“(ii) a facility has engaged in an action described in subparagraph (D) or (E) of paragraph (1).”
+&emsp;"(ii) a facility has engaged in an action described in subparagraph (D) or (E) of paragraph (1)."
 
-Subsec. (q)(4)(B). Pub. L. 105–248, §13, substituted “certified” for “accredited”.
+Subsec. (q)(4)(B). Pub. L. 105–248, §13, substituted "certified" for "accredited".
 
-Subsec. (r)(2)(A). Pub. L. 105–248, §2, substituted “subsection (p)” for “subsection (q)” and “2002” for “1997”.
+Subsec. (r)(2)(A). Pub. L. 105–248, §2, substituted "subsection (p)" for "subsection (q)" and "2002" for "1997".
 
-Subsec. (r)(2)(B). Pub. L. 105–248, §2, substituted “fiscal years” for “fiscal year” and “2002” for “1997”.
+Subsec. (r)(2)(B). Pub. L. 105–248, §2, substituted "fiscal years" for "fiscal year" and "2002" for "1997".
 
 #### Change of Name
 
@@ -762,21 +762,21 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### Regulations
 
-Pub. L. 103–183, title VII, §707, Dec. 14, 1993, 107 Stat. 2241, provided that: “The Secretary of Health and Human Services is authorized to issue interim final regulations—
+Pub. L. 103–183, title VII, §707, Dec. 14, 1993, 107 Stat. 2241, provided that: "The Secretary of Health and Human Services is authorized to issue interim final regulations—
 
-&emsp;“(1) under which the Secretary may approve accreditation bodies under section 354(e) of the Public Health Service Act (42 U.S.C. 263b(e)); and
+&emsp;"(1) under which the Secretary may approve accreditation bodies under section 354(e) of the Public Health Service Act (42 U.S.C. 263b(e)); and
 
-&emsp;“(2) establishing quality standards under section 354(f) of the Public Health Service Act (42 U.S.C. 263b(f)).”
+&emsp;"(2) establishing quality standards under section 354(f) of the Public Health Service Act (42 U.S.C. 263b(f))."
 
 #### Study
 
 Section 3 of Pub. L. 102–539 directed Comptroller General of United States to conduct a study of the certification program authorized by this section to determine if the program has resulted in improvement of quality and accessibility of mammography services, and if the program has reduced the frequency of poor quality mammography and improved early detection of breast cancer, with Comptroller General, not later than 3 years from Oct. 27, 1992, submit to Congress an interim report of results of study and, not later than 5 years from such date to submit a final report.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph".</i>
 

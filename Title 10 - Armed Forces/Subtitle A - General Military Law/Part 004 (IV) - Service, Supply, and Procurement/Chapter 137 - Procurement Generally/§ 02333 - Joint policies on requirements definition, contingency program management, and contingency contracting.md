@@ -8,7 +8,7 @@ Joint Policy Requirement.—The Secretary of Defense, in consultation with the C
 
 Requirements Definition Matters Covered.—The joint policy for requirements definition required by subsection (a) shall, at a minimum, provide for the following:
 
-&emsp;(1) The assignment of a senior commissioned officer or civilian member of the senior executive service, with appropriate experience and qualifications related to the definition of requirements to be satisfied through acquisition contracts (such as for delivery of products or services, performance of work, or accomplishment of a project), to act as head of requirements definition and coordination during combat operations, post-conflict operations, and contingency operations, if required, including leading a requirements review board involving all organizations concerned.
+&emsp;(1) The assignment of a senior commissioned officer or civilian member of the senior executive service, with appropriate experience and qualifications related to the definition of requirements to be satisfied through acquisition contracts (such as for delivery of products orservices, performance of work, or accomplishment of a project), to act as head of requirements definition and coordination during combat operations, post-conflict operations, and contingency operations, if required, including leading a requirements review board involving all organizations concerned.
 
 &emsp;(2) An organizational approach to requirements definition and coordination during combat operations, post-conflict operations, and contingency operations that is designed to ensure that requirements are defined in a way that effectively implements United States Government and Department of Defense objectives, policies, and decisions regarding the allocation of resources, coordination of interagency efforts in the theater of operations, and alignment of requirements with the proper use of funds.
 
@@ -52,7 +52,7 @@ Contingency Contracting Matters Covered.—(1) The joint policy for contingency 
 
 &emsp;&emsp;(ii) the appropriate use of rapid acquisition methods, including the use of exceptions to competition requirements under section 2304 of this title, sealed bidding, letter contracts, indefinite delivery-indefinite quantity task orders, set asides under section 8(a) of the Small Business Act (15 U.S.C. 637(a)), undefinitized contract actions, and other tools available to expedite the delivery of goods and services during combat operations or post-conflict operations;
 
-&emsp;&emsp;(iii) the appropriate use of rapid acquisition authority, commanders’ emergency response program funds, and other tools unique to contingency contracting; and
+&emsp;&emsp;(iii) the appropriate use of rapid acquisition authority, commanders' emergency response program funds, and other tools unique to contingency contracting; and
 
 &emsp;&emsp;(iv) instruction on the necessity for the prompt transition from the use of rapid acquisition authority to the use of full and open competition and other methods of contracting that maximize transparency in the acquisition process.
 
@@ -60,13 +60,13 @@ Contingency Contracting Matters Covered.—(1) The joint policy for contingency 
 
 &emsp;(F) Such steps as may be needed to ensure jointness and cross-service coordination in the area of contingency contracting.
 
-(2) To the extent practicable, the joint policy for contingency contracting required by subsection (a) should be taken into account in the development of interagency plans for stabilization and reconstruction operations, consistent with the report submitted by the President under section 1035 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2388) on interagency operating procedures for the planning and conduct of stabilization and reconstruction operations.
+(2) To the extent practicable, the joint policy for contingency contracting required by subsection (a) should be taken into account in the development of interagency plans for stabilization and reconstruction operations, consistentwith the report submitted by the President under section 1035 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2388) on interagency operating procedures for the planning and conduct of stabilization and reconstruction operations.
 
 (e)
 
 Training for Personnel Outside Acquisition Workforce.—(1) The joint policy for requirements definition, contingency program management, and contingency contracting required by subsection (a) shall provide for training of military personnel outside the acquisition workforce (including operational field commanders and officers performing key staff functions for operational field commanders) who are expected to have acquisition responsibility, including oversight duties associated with contracts or contractors, during combat operations, post-conflict operations, and contingency operations.
 
-(2) Training under paragraph (1) shall be sufficient to ensure that the military personnel referred to in that paragraph understand the scopeand scale of contractor support they will experience in contingency operations and are prepared for their roles and responsibilities with regard to requirements definition, program management (including contractor oversight), and contingency contracting.
+(2) Training under paragraph (1) shall be sufficient to ensure that the military personnel referred to in that paragraph understand the scope and scale of contractor support they will experience in contingency operations and are prepared for their roles and responsibilities with regard to requirements definition, program management (including contractor oversight), and contingency contracting.
 
 (3) The joint policy shall also provide for the incorporation of contractors and contract operations in mission readiness exercises for operations that will include contracting and contractor support.
 
@@ -76,27 +76,27 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Contingency contracting personnel.—The term “contingency contracting personnel” means members of the armed forces and civilian employees of the Department of Defense who are members of the defense acquisition workforce and, as part of their duties, are assigned to provide support to contingency operations (whether deployed or not).
+Contingency contracting personnel.—The term "contingency contracting personnel" means members of the armed forces and civilian employees of the Department of Defense who are members of the defense acquisition workforce and, as part of their duties, are assigned to provide support to contingency operations (whether deployed or not).
 
 &emsp;(2)
 
-Contingency contracting.—The term “contingency contracting” means all stages of the process of acquiring property or services by the Department of Defense during a contingency operation.
+Contingency contracting.—The term "contingency contracting" means all stages of the process of acquiring property or services by the Department of Defense during a contingency operation.
 
 &emsp;(3)
 
-Contingency operation.—The term “contingency operation” has the meaning provided in section 101(a)(13) of this title.
+Contingency operation.—The term "contingency operation" has the meaning provided in section 101(a)(13) of this title.
 
 &emsp;(4)
 
-Acquisition support agencies.—The term “acquisition support agencies” means Defense Agencies and Department of Defense Field Activities that carry out and provide support for acquisition-related activities.
+Acquisition support agencies.—The term "acquisition support agencies" means Defense Agencies and Department of Defense Field Activities that carry out and provide support for acquisition-related activities.
 
 &emsp;(5)
 
-Contingency program management.—The term “contingency program management” means the process of planning, organizing, staffing, controlling, and leading the combined efforts of participating civilian and military personnel and organizations for the management of a specific defense acquisition program or programs during combat operations, post-conflict operations, and contingency operations.
+Contingency program management.—The term "contingency program management" means the process of planning, organizing, staffing, controlling, and leading the combined efforts of participating civilian and military personnel and organizations for the management of a specific defense acquisition program or programs during combat operations, post-conflict operations, and contingency operations.
 
 &emsp;(6)
 
-Requirements definition.—The term “requirements definition” means the process of translating policy objectives and mission needs into specific requirements, the description of which will be the basis for awarding acquisition contracts for projects to be accomplished, work to be performed, or products to be delivered.
+Requirements definition.—The term "requirements definition" means the process of translating policy objectives and mission needs into specific requirements, the description of which will be the basis for awarding acquisition contracts for projects to be accomplished, work to be performed, or products to be delivered.
 
 (Added Pub. L. 109–364, div. A, title VIII, §854(a)(1), Oct. 17, 2006, 120 Stat. 2343; amended Pub. L. 110–181, div. A, title VIII, §849(a), Jan. 28, 2008, 122 Stat. 245; Pub. L. 111–84, div. A, title X, §1073(a)(23), Oct. 28, 2009, 123 Stat. 2473.)
 
@@ -106,15 +106,15 @@ Section 1035 of the John Warner National Defense Authorization Act for Fiscal Ye
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d)(1)(D)(ii). Pub. L. 111–84, §1073(a)(23)(A), substituted “indefinite delivery-indefinite quantity” for “indefinite delivery indefinite quantity”.
+<b>2009</b>—Subsec. (d)(1)(D)(ii). Pub. L. 111–84, §1073(a)(23)(A), substituted "indefinite delivery-indefinite quantity" for "indefinite delivery indefinite quantity".
 
-Subsec. (d)(2). Pub. L. 111–84, §1073(a)(23)(B), substituted “the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2388)” for “this Act”.
+Subsec. (d)(2). Pub. L. 111–84, §1073(a)(23)(B), substituted "the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2388)" for "this Act".
 
-Subsec. (f)(3). Pub. L. 111–84, §1073(a)(23)(C), substituted “section 101(a)(13)” for “section 101(13)”.
+Subsec. (f)(3). Pub. L. 111–84, §1073(a)(23)(C), substituted "section 101(a)(13)" for "section 101(13)".
 
 <b>2008</b>—Subsecs. (e), (f). Pub. L. 110–181 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 #### Deadline for Development of Joint Policies
 
-Pub. L. 109–364, div. A, title VIII, §854(b), Oct. 17, 2006, 120 Stat. 2346, provided that: “The Secretary of Defense shall develop the joint policies required under section 2333 of title 10, United States Code, as added by subsection (a), not later than 18 months after the date of enactment of this Act \[Oct. 17, 2006\].”
+Pub. L. 109–364, div. A, title VIII, §854(b), Oct. 17, 2006, 120 Stat. 2346, provided that: "The Secretary of Defense shall develop the joint policies required under section 2333 of title 10, United States Code, as added by subsection (a), not later than 18 months after the date of enactment of this Act \[Oct. 17, 2006\]."
 

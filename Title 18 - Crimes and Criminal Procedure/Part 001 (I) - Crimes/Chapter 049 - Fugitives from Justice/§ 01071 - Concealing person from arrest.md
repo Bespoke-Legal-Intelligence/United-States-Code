@@ -14,9 +14,9 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–273 substituted “fine under this title” for “fine of under this title”.
+<b>2002</b>—Pub. L. 107–273 substituted "fine under this title" for "fine of under this title".
 
-<b>1994</b>—Pub. L. 103–322 substituted “under this title” for “not more than $1,000” after “person, shall be fined” and for “not more than $5,000” after “shall be a fine of”.
+<b>1994</b>—Pub. L. 103–322 substituted "under this title" for "not more than $1,000" after "person, shall be fined" and for "not more than $5,000" after "shall be a fine of".
 
 <b>1954</b>—Act Aug. 20, 1954, increased the penalty from 6 months to 1 year where the violator harbored a person for whom process has been issued on a misdemeanor charge and inserted the penalty provision where the violation occurred after a person has been convicted of any offense or where a process has been issued for a felony.
 

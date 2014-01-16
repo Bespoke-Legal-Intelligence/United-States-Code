@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions generally
 
-Any exemption from any prohibition under this part shall be on such terms and conditions as the Secretary determines appropriate, including terms and conditions requiring the use of effective fuel conservation measures which arepracticable and consistent with the purposes of this chapter. In the case of any temporary exemption, the terms and conditions (which may include a compliance plan meeting the requirements of subsection (b) of this section) shall be designed to insure that upon the expiration of such exemption, the persons and powerplant covered by such exemption will comply with the applicable prohibitions.
+Any exemption from any prohibition under this part shall be on such terms and conditions as the Secretary determines appropriate, including terms and conditions requiring the use of effective fuel conservation measures which are practicable and consistent with the purposes of this chapter. In the case of any temporary exemption, the terms and conditions (which may include a compliance plan meeting the requirements of subsection (b) of this section) shall be designed to insure that upon the expiration of such exemption, the persons and powerplant covered by such exemption will comply with the applicable prohibitions.
 
 #### (b) Compliance plans
 
@@ -16,15 +16,15 @@ A compliance plan meets the requirements of this subsection if it is approved by
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(1)(A), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(1)(A), was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–42 struck out “or installation” after “powerplant”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–42 struck out "or installation" after "powerplant".
 
 #### Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After November 9, 1978
 
 For effectiveness of exemption for certain electric powerplants as prior to 180 days after Nov. 9, 1978, see section 902(a) of Pub. L. 95–620, set out as a note under section 8301 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “for”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "for".</i>
 

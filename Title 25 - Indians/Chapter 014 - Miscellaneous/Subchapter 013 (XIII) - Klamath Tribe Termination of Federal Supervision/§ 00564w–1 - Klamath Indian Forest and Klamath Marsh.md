@@ -28,7 +28,7 @@ Notwithstanding the provisions of sections 564d and 564e of this title, and all 
 
 #### (g) Homesites
 
-&emsp;Any person whose name appears on the final roll of the tribe, and who has since December 31, 1956, continuously resided on any lands taken by the United States by subsections (d) and (f) of this section, shall be entitled to occupy and use as a homesite for his lifetime a reasonable acreage of such lands, as determined by the Secretary of Agriculture, subject to such regulations as the Secretary of Agriculture may issue to safeguard the administration of the national forest and as the Secretary of the Interior may issue to safeguard the administration of the Klamath Marsh National Wildlife Refuge.
+&emsp;Any person whose name appears on the final roll of the tribe, and who has since December 31, 1956, continuously resided on any lands taken by the United States by subsections (d) and (f) of this section, shall be entitled to occupy and use as a homesite for his lifetime a reasonable acreage of such lands, as determined by the Secretary of Agriculture, subjectto such regulations as the Secretary of Agriculture may issue to safeguard the administration of the national forest and as the Secretary of the Interior may issue to safeguard the administration of the Klamath Marsh National Wildlife Refuge.
 
 #### (h) Administration of outstanding timber sales contracts
 
@@ -46,17 +46,17 @@ Act of March 1, 1911, referred to in subsecs. (b), (d), and (e), is act Mar. 1, 
 
 The adjournment of the Eighty-fifth Congress, referred to in subsec. (c) of this section, took place on Aug. 24, 1958.
 
-The Migratory Bird Hunting Stamp Act, referred to in subsec. (f), subsequently renamed the Migratory BirdHunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, as amended, which is classified generally to subchapter IV (§718 et seq.) of chapter 7 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 718 of Title 16 and Tables.
+The Migratory Bird Hunting Stamp Act, referred to in subsec. (f), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, as amended, which is classified generally to subchapter IV (§718 et seq.) of chapter 7 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 718 of Title 16 and Tables.
 
 #### Amendments
 
-<b>1998</b>—Subsecs. (f), (g). Pub. L. 105–312 and Pub. L. 105–321 amended subsecs. (f) and (g) identically, substituting “Klamath Marsh National Wildlife Refuge” for “Klamath Forest National Wildlife Refuge”.
+<b>1998</b>—Subsecs. (f), (g). Pub. L. 105–312 and Pub. L. 105–321 amended subsecs. (f) and (g) identically, substituting "Klamath Marsh National Wildlife Refuge" for "Klamath Forest National Wildlife Refuge".
 
 <b>1959</b>—Subsec. (f). Pub. L. 86–247 changed date for Federal acquisition of Klamath Indian Marsh from April 1, 1961, to earliest date after September 30, 1959, that funds are available to pay for property from sale of stamps.
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4, Ninety-fifth Congress (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Section 105 of Senate Resolution No. 4 established a temporary Select Committee on Indian Affairs having jurisdiction over matters relating to Indian affairs (such matters previously having been within the jurisdiction of the Committee on Interior and Insular Affairs). Senate Resolution No. 127, June 6, 1984, Ninety-eighth Congress, established the Select Committee on Indian Affairs as a permanent committee of the Senate, and section 25 of Senate Resolution No. 71, Feb. 25, 1993, One Hundred Third Congress, redesignated the Select Committee on Indian Affairs as the Committee on Indian Affairs.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4, Ninety-fifth Congress (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977. Section 105 of Senate Resolution No. 4 established a temporary Select Committee on Indian Affairs having jurisdiction over matters relating to Indian affairs (such matters previously having been within the jurisdiction of the Committee on Interior and Insular Affairs). Senate Resolution No. 127, June 6, 1984, Ninety-eighth Congress, established the Select Committee on Indian Affairs as a permanent committee of the Senate, and section 25 of Senate Resolution No. 71, Feb. 25, 1993, One Hundred Third Congress, redesignated the Select Committee on Indian Affairs as the Committee on Indian Affairs.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

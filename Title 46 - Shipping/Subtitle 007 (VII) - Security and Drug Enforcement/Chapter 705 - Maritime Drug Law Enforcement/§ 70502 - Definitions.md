@@ -6,7 +6,7 @@ Application of Other Definitions.—The definitions in section 102 of the Compre
 
 (b)
 
-Vessel of the United States.—In this chapter, the term “vessel of the United States” means—
+Vessel of the United States.—In this chapter, the term "vessel of the United States" means—
 
 &emsp;(1) a vessel documented under chapter 121 of this title or numbered as provided in chapter 123 of this title;
 
@@ -24,7 +24,7 @@ Vessel Subject to the Jurisdiction of the United States.—
 
 &emsp;(1)
 
-In general.—In this chapter, the term “vessel subject to the jurisdiction of the United States” includes—
+In general.—In this chapter, the term "vessel subject to the jurisdiction of the United States" includes—
 
 &emsp;&emsp;(A) a vessel without nationality;
 
@@ -36,7 +36,7 @@ In general.—In this chapter, the term “vessel subject to the jurisdiction of
 
 &emsp;&emsp;(E) a vessel in the territorial waters of a foreign nation if the nation consents to the enforcement of United States law by the United States; and
 
-&emsp;&emsp;(F) a vessel in the contiguous zone of the United States, as defined in PresidentialProclamation 7219 of September 2, 1999 (43 U.S.C. 1331 note), that—
+&emsp;&emsp;(F) a vessel in the contiguous zone of the United States, as defined in Presidential Proclamation 7219 of September 2, 1999 (43 U.S.C. 1331 note), that—
 
 &emsp;&emsp;&emsp;(i) is entering the United States;
 
@@ -58,7 +58,7 @@ Vessel Without Nationality.—
 
 &emsp;(1)
 
-In general.—In this chapter, the term “vessel without nationality” includes—
+In general.—In this chapter, the term "vessel without nationality" includes—
 
 &emsp;&emsp;(A) a vessel aboard which the master or individual in charge makes a claim of registry that is denied by the nation whose registry is claimed;
 
@@ -86,11 +86,11 @@ Semi-submersible Vessel; Submersible Vessel.—In this chapter:
 
 &emsp;(1)
 
-Semi-submersible vessel.—The term “semi-submersible vessel” means any watercraft constructed or adapted to be capable of operating with most of its hull and bulk under the surface of the water, including both manned and unmanned watercraft.
+Semi-submersible vessel.—The term "semi-submersible vessel" means any watercraft constructed or adapted to be capable of operating with most of its hull and bulk under the surface of the water, including both manned and unmanned watercraft.
 
 &emsp;(2)
 
-Submersible vessel.—The term “submersible vessel” means a vessel that is capable of operating completely below the surface of the water, including both manned and unmanned watercraft.
+Submersible vessel.—The term "submersible vessel" means a vessel that is capable of operating completely below the surface of the water, including both manned and unmanned watercraft.
 
 (Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1685; Pub. L. 109–241, title III, §303, July 11, 2006, 120 Stat. 527; Pub. L. 110–181, div. C, title XXXV, §3525(a)(6), (b), Jan. 28, 2008, 122 Stat. 601; Pub. L. 110–407, title II, §203, Oct. 13, 2008, 122 Stat. 4300.)
 
@@ -126,17 +126,17 @@ Pub. L. 96–350, §3(b), (c), (i), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–
 
 46 App.:1903(c)(3).
 
-In subsection (b)(2), before subparagraph (A), the words “individual who is a citizen of the United States” are substituted for “a citizen or national of the United States” because of the definition of “citizen of the United States” in chapter 1 of the revised title. The words “or a territory, commonwealth, or possession of the United States” and “the District of Columbia, or any territory, commonwealth, or possession of the United States” are omitted as unnecessary because of the definition of “State” in chapter 1 of the revised title.
+In subsection (b)(2), before subparagraph (A), the words "individual who is a citizen of the United States" are substituted for "a citizen or national of the United States" because of the definition of "citizen of the United States" in chapter 1 of the revised title. The words "or a territory, commonwealth, or possession of the United States" and "the District of Columbia, or any territory, commonwealth, or possession of the United States" are omitted as unnecessary because of the definition of "State" in chapter 1 of the revised title.
 
-In subsection (b)(3), the words “placed under foreign registry, or operated under the authority of a foreign nation” are substituted for “placed under foreign registry or foreign flag” because of the definition of “foreign vessel” in chapter 1 of the revised title.
+In subsection (b)(3), the words "placed under foreign registry, or operated under the authority of a foreign nation" are substituted for "placed under foreign registry or foreign flag" because of the definition of "foreign vessel" in chapter 1 of the revised title.
 
-In subsection (d)(1)(B), the word “authorized” is substituted for “empowered” for consistency with subsection (b)(2)(B).
+In subsection (d)(1)(B), the word "authorized" is substituted for "empowered" for consistency with subsection (b)(2)(B).
 
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §303. See 2006 Amendment note below.
 
-Subsec. (d)(2). Pub. L. 110–181, §3525(a)(6), incorporated the substance of the amendment by Pub. L. 109–241, §303, into this section by amending heading and text of par. (2) generally. Prior to amendment, text read as follows: “A claim of registry under paragraph (1)(A) or (C) may be verified or denied by radio, telephone, or similar oral or electronic means. The denial of such a claim is proved conclusively by certification of the Secretary of State or the Secretary's designee.” See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (d)(2). Pub. L. 110–181, §3525(a)(6), incorporated the substance of the amendment by Pub. L. 109–241, §303, into this section by amending heading and text of par. (2) generally. Prior to amendment, text read as follows: "A claim of registry under paragraph (1)(A) or (C) may be verified or denied by radio, telephone, or similar oral or electronic means. The denial of such a claim is proved conclusively by certification of the Secretary of State or the Secretary's designee." See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 Subsec. (f). Pub. L. 110–407 added subsec. (f).
 

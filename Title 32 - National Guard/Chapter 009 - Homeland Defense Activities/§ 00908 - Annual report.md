@@ -20,7 +20,7 @@ Content.—The report for a fiscal year shall include the following matters:
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–81 substituted “After the end of any fiscal year during which any assistance was provided or activities were carried out under this chapter,” for “After the end of each fiscal year,”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–81 substituted "After the end of any fiscal year during which any assistance was provided or activities were carried out under this chapter," for "After the end of each fiscal year,".
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364 substituted “(i)(13)” for “(i)”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364 substituted "(i)(13)" for "(i)".
 

@@ -6,7 +6,7 @@ Notwithstanding any other provisions of this chapter, the terms of any loan part
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 98–205 inserted “under regulations issued” after “authorized”.
+<b>1985</b>—Pub. L. 98–205 inserted "under regulations issued" after "authorized".
 
 #### Effective Date of 1985 Amendment
 

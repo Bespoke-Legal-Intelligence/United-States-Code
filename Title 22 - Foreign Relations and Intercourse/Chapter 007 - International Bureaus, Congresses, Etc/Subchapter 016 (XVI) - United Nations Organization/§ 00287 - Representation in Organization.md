@@ -40,11 +40,11 @@ This Act, as amended, referred to in subsec. (b), is Pub. L. 89–206, Sept. 28,
 
 #### Amendments
 
-<b>1999</b>—Subsec. (h). Pub. L. 106–113 inserted at end “The representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the International Atomic Energy Agency.”
+<b>1999</b>—Subsec. (h). Pub. L. 106–113 inserted at end "The representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the International Atomic Energy Agency."
 
 <b>1982</b>—Subsec. (h). Pub. L. 97–241 added subsec. (h).
 
-<b>1980</b>—Subsec. (g). Pub. L. 96–465 substituted “sections 3961, 3962, and 3963 of this title for chiefs of mission, members of the Senior Foreign Service,” for “sections 866 and 867 of this title for chiefs of mission”.
+<b>1980</b>—Subsec. (g). Pub. L. 96–465 substituted "sections 3961, 3962, and 3963 of this title for chiefs of mission, members of the Senior Foreign Service," for "sections 866 and 867 of this title for chiefs of mission".
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–206, §1(a), struck out provisions which related to the appointment, rank and status, tenure and duties of a deputy representative of the United States to the United Nations.
 
@@ -66,7 +66,7 @@ Subsec. (f). Act Oct. 10, 1949, §2, added subsec. (f).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §708(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–462, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 2021 of this title\] shall apply to individuals appointed on or after the date of enactment of this Act \[Nov. 29, 1999\].”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §708(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–462, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 2021 of this title\] shall apply to individuals appointed on or after the date of enactment of this Act \[Nov. 29, 1999\]."
 
 #### Effective Date of 1980 Amendment
 
@@ -74,45 +74,45 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Short Title
 
-Act Dec. 20, 1945, ch. 583, §1, 59 Stat. 619, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘United Nations Participation Act of 1945’.”
+Act Dec. 20, 1945, ch. 583, §1, 59 Stat. 619, provided that: "This Act \[enacting this subchapter\] may be cited as the 'United Nations Participation Act of 1945'."
 
 #### United States Membership on the United Nations Commission on Human Rights and International Narcotics Control Board
 
-Pub. L. 107–228, div. A, title IV, §408, Sept. 30, 2002, 116 Stat. 1391, provided that: “The United States, in connection with its voice and vote in the United Nations General Assembly and the United Nations Economic and Social Council, shall make every reasonable effort—
+Pub. L. 107–228, div. A, title IV, §408, Sept. 30, 2002, 116 Stat. 1391, provided that: "The United States, in connection with its voice and vote in the United Nations General Assembly and the United Nations Economic and Social Council, shall make every reasonable effort—
 
-&emsp;“(1) to secure a seat for the United States on the United Nations Commission on Human Rights;
+&emsp;"(1) to secure a seat for the United States on the United Nations Commission on Human Rights;
 
-&emsp;“(2) to secure a seat for a United States national on the United Nations International Narcotics Control Board; and
+&emsp;"(2) to secure a seat for a United States national on the United Nations International Narcotics Control Board; and
 
-&emsp;“(3) to prevent membership on the Human Rights Commission by any member nation the government of which, in the judgment of the Secretary, based onthe Department's Annual Country Reports on Human Rights and the Annual Report on International Report on Religious Freedom, consistently violates internationally recognized human rights or has engaged in or tolerated particularly severe violations of religious freedom in that country.”
+&emsp;"(3) to prevent membership on the Human Rights Commission by any member nation the government of which, in the judgment of the Secretary, based on the Department's Annual Country Reports on Human Rights and the Annual Report on International Report on Religious Freedom, consistently violates internationally recognized human rights or has engaged in or tolerated particularly severe violations of religious freedom in that country."
 
-\[For definitions of “Secretary” and “Department” as used in section 408 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definitions of "Secretary" and "Department" as used in section 408 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 #### United Nations Policy on Israel and the Palestinians
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §721\], Nov. 29, 1999, 113 Stat. 1536, 1501A–462, provided that:
 
-“(a)
+"(a)
 
 Congressional Statement.—It shall be the policy of the United States to promote an end to the persistent inequity experienced by Israel in the United Nations whereby Israel is the only longstanding member of the organization to be denied acceptance into any of the United Nations regional blocs.
 
-“(b)
+"(b)
 
 Policy on Abolition of Certain United Nations Groups.—It shall be the policy of the United States to seek the abolition of certain United Nations groups the existence of which is inimical to the ongoing Middle East peace process, those groups being the Special Committee to Investigate Israeli Practices Affecting the Human Rights of the Palestinian People and other Arabs of the Occupied Territories; the Committee on the Exercise of the Inalienable Rights of the Palestinian People; the Division for the Palestinian Rights; and the Division on Public Information on the Question of Palestine.
 
-“(c)
+"(c)
 
 Annual Reports.—On January 15 of each year, the Secretary of State shall submit a report to the appropriate congressional committees \[Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate\] (in classified or unclassified form as appropriate) on—
 
-&emsp;“(1) actions taken by representatives of the United States to encourage the nations of the Western Europe and Others Group (WEOG) to accept Israel into their regional bloc;
+&emsp;"(1) actions taken by representatives of the United States to encourage the nations of the Western Europe and Others Group (WEOG) to accept Israel into their regional bloc;
 
-&emsp;“(2) other measures being undertaken, and which will be undertaken, to ensure and promote Israel's full and equal participation in the United Nations; and
+&emsp;"(2) other measures being undertaken, and which will be undertaken, to ensure and promote Israel's full and equal participation in the United Nations; and
 
-&emsp;“(3) steps taken by the United States under subsection (b) to secure abolition by the United Nations of groups described in that subsection.
+&emsp;"(3) steps taken by the United States under subsection (b) to secure abolition by the United Nations of groups described in that subsection.
 
-“(d)
+"(d)
 
-Annual Consultation.—At the time of the submission of each annual report under subsection (c), the Secretary of State shall consult with the appropriate congressional committees on specific responses received by the Secretary of State from each of the nations of the Western Europe and Others Group (WEOG) on their position concerning Israel's acceptance into their organization.”
+Annual Consultation.—At the time of the submission of each annual report under subsection (c), the Secretary of State shall consult with the appropriate congressional committees on specific responses received by the Secretary of State from each of the nations of the Western Europe and Others Group (WEOG) on their position concerning Israel's acceptance into their organization."
 
 #### United States Commission on Improving the Effectiveness of the United Nations
 
@@ -126,41 +126,41 @@ Pub. L. 99–569, title VII, §702, Oct. 27, 1986, 100 Stat. 3204, related to po
 
 Pub. L. 98–164, title I, §115, Nov. 22, 1983, 97 Stat. 1021, as amended by Pub. L. 99–93, title I, §142, Aug. 16, 1985, 99 Stat. 424; Pub. L. 100–204, title VII, §704, Dec. 22, 1987, 101 Stat. 1389, provided that:
 
-“(a) The Congress finds that—
+"(a) The Congress finds that—
 
-&emsp;“(1) the United Nations was founded on the principle of universality;
+&emsp;"(1) the United Nations was founded on the principle of universality;
 
-&emsp;“(2) the United Nations Charter stipulates that members may be suspended by the General Assembly only ‘upon the recommendation of the Security Council’; and
+&emsp;"(2) the United Nations Charter stipulates that members may be suspended by the General Assembly only 'upon the recommendation of the Security Council'; and
 
-&emsp;“(3) any move by the General Assembly that would illegally deny Israel its credentials in the Assembly would be a direct violation of these provisions of the Charter.
+&emsp;"(3) any move by the General Assembly that would illegally deny Israel its credentials in the Assembly would be a direct violation of these provisions of the Charter.
 
-“(b) If Israel is illegally expelled, suspended, denied its credentials, or in any other manner denied its right to participate in any principal or subsidiary organ or in any specialized, technical, or other agency of the United Nations, the United States shall suspend its participation in any such organ or agency until the illegal action is reversed. The United States shall reduce its annual assessed contribution to the United Nations or such specialized agency by 8.34 percent for each month in which United States participation is suspended pursuant to this section. Nothing in this section may be construed to diminish or to affect United States participation in the United Nations Security Council or the Safeguards Program of the International Atomic Energy Agency.”
+"(b) If Israel is illegally expelled, suspended, denied its credentials, or in any other manner denied its right to participate in any principal or subsidiary organ or in any specialized, technical, or other agency of the United Nations, the United States shall suspend its participation in any such organ or agency until the illegal action is reversed. The United States shall reduce its annual assessed contribution to the United Nations or such specialized agency by 8.34 percent for each month in which United States participation is suspended pursuant to this section. Nothing in this section may be construed to diminish or to affect United States participation in the United Nations Security Council or the Safeguards Program of the International Atomic Energy Agency."
 
 #### International Year of the Child
 
-Pub. L. 95–561, title XV, §§1501–1507, Nov. 1, 1978, 92 Stat. 2373–2375, described the purpose of the International Year of the Child (designated as 1979 by the United Nations General Assembly) as promotion of lasting improvements in the well-being of children, provided for the establishment of a National Commission on the International Year of the Child, and for the Commission's membership, functions, coordination and administration, and waiver of certain provisions of law relating to advertising, competitive bidding, and printing, authorized appropriations, and terminated the life of the Commission thirty days after the submission of its final report, which was to be submitted not later than Mar. 31, 1980, but which life was in no case to be extended beyond Apr. 30, 1980.
+Pub. L. 95–561, title XV, §§1501–1507, Nov. 1, 1978, 92 Stat. 2373–2375, described the purpose of the International Year of the Child (designated as 1979 by the United Nations General Assembly) as promotion of lasting improvements in the well-being of children, provided for the establishment of a National Commission on the International Year of the Child, and for the Commission's membership, functions, coordination and administration, and waiver of certain provisions of law relating to advertising, competitive bidding, and printing, authorized appropriations, and terminated the life of the Commission thirty days after the submission of its final report, which was to be submitted not laterthan Mar. 31, 1980, but which life was in no case to be extended beyond Apr. 30, 1980.
 
-Pub. L. 97–35, title V, §511(b)(1), Aug. 13, 1981, 95 Stat. 443, provided that: “No funds are authorized to be appropriated to carry out part A of title XV of the Education Amendments of 1978 \[sections 1501 to 1507 of Pub. L. 95–561, see note above\] for fiscal year 1982, 1983, or 1984.”
+Pub. L. 97–35, title V, §511(b)(1), Aug. 13, 1981, 95 Stat. 443, provided that: "No funds are authorized to be appropriated to carry out part A of title XV of the Education Amendments of 1978 \[sections 1501 to 1507 of Pub. L. 95–561, see note above\] for fiscal year 1982, 1983, or 1984."
 
 #### United Nations Environment Program Participation
 
 Pub. L. 93–188, Dec. 15, 1973, 87 Stat. 713, provided:
 
-“\[
+"\[
 
-Sec. 1. Short Title\] That this Act \[enacting this note\] may be cited as the ‘United Nations Environment Program Participation Act of 1973’.
+Sec. 1. Short Title\] That this Act \[enacting this note\] may be cited as the 'United Nations Environment Program Participation Act of 1973'.
 
-“
+"
 
 Sec. 2. \[Congressional Declaration of Policy\] It is the policy of the United States to participate in coordinated international efforts to solve environmental problems of global and international concern, and in order to assist the implementation of this policy, to contribute funds to the United Nations Environmental Fund for the support of international measures to protect and improve the environment.
 
-“
+"
 
-Sec. 3. \[Authorization of Appropriations\] There is authorized to be appropriated $40,000,000 for contributions to the United Nations Environment Fund, which amount is authorized to remain available until expended, and which may be used upon such terms and conditions as the President may specify: <i>Provided</i>, That not more than $10,000,000 may be appropriated for use in fiscal year 1974.”
+Sec. 3. \[Authorization of Appropriations\] There is authorized to be appropriated $40,000,000 for contributions to the United Nations Environment Fund, which amount is authorized to remain available until expended, and which may be used upon such terms and conditions as the President may specify: <i>Provided</i>, That not more than $10,000,000 may be appropriated for use in fiscal year 1974."
 
 #### United States Grant for Expansion and Improvement of United Nations Headquarters
 
-Pub. L. 91–622, Dec. 31, 1970, 84 Stat. 1867, provided: “That there is hereby authorized to be appropriated to the Secretary of State out of any money in the Treasury not otherwise appropriated, a sum not to exceed $20,000,000, to remain available until expended, for a grant to be made at the discretion of the Secretary of State, to the United Nations to defray a portion of the cost of the expansion and improvement of its headquarters in the city of New York on such terms and conditions as the Secretary of State may determine. Such grant shall not be considered a contribution to the United Nations for purpose of any other applicable law limiting contributions.”
+Pub. L. 91–622, Dec. 31, 1970, 84 Stat. 1867, provided: "That there is hereby authorized to be appropriated to the Secretary of State out of any money in the Treasury not otherwise appropriated, a sum not to exceed $20,000,000, to remain available until expended, for a grant to be made at the discretion of the Secretary of State, to the United Nations to defray a portion of the cost of the expansion and improvement of its headquarters in the city of New York on such terms and conditions as the Secretary of State may determine. Such grant shall not be considered a contribution to the United Nations for purpose of any other applicable law limiting contributions."
 
 #### United States Loan for Construction of Permanent Headquarters in New York City
 
@@ -170,39 +170,39 @@ Act Aug. 11, 1948, ch. 834, 62 Stat. 1286, authorized the President to loan to t
 
 Joint Res. Aug. 4, 1947, ch. 482, 61 Stat. 756, provided that:
 
-“Whereas the Charter of the United Nations was signed on behalf of the United States on June 26, 1945, and was ratified on August 8, 1945, by the President of the United States, by and with the advice and consent of the Senate, and the instrument of ratification of the said Charter was deposited on August 8, 1945; and
+"Whereas the Charter of the United Nations was signed on behalf of the United States on June 26, 1945, and was ratified on August 8, 1945, by the President of the United States, by and with the advice and consent of the Senate, and the instrument of ratification of the said Charter was deposited on August 8, 1945; and
 
-“Whereas the said Charter of the United Nations came into force with respect to the United States on October 24, 1945; and
+"Whereas the said Charter of the United Nations came into force with respect to the United States on October 24, 1945; and
 
-“Whereas article 104 of the Charter provides that ‘The Organization shall enjoy in the territory of each of its Members such legal capacity as may be necessary for the exercise of its functions and the fulfillment of its purposes’; and
+"Whereas article 104 of the Charter provides that 'The Organization shall enjoy in the territory of each of its Members such legal capacity as may be necessary for the exercise of its functions and the fulfillment of its purposes'; and
 
-“Whereas article 105 of the Charter provides that:
+"Whereas article 105 of the Charter provides that:
 
-“1. The Organization shall enjoy in the territory of each of its Members such privileges and immunities as are necessary for the fulfillment of its purposes.
+"1. The Organization shall enjoy in the territory of each of its Members such privileges and immunities as are necessary for the fulfillment of its purposes.
 
-“2. Representatives of the Members of the United Nations and officials of the Organization shall similarly enjoy such privileges and immunities as are necessary for the independent exercise of their functions in connection with the Organization.
+"2. Representatives of the Members of the United Nations and officials of the Organization shall similarly enjoy such privileges and immunities as are necessary for the independent exercise of their functions in connection with the Organization.
 
-“3. The General Assembly may make recommendations with a view to determining the details of the application of paragraphs 1 and 2 of this article or may propose conventions to the Members of the United Nations for this purpose; and
+"3. The General Assembly may make recommendations with a view to determining the details of the application of paragraphs 1 and 2 of this article or may propose conventions to the Members of the United Nations for this purpose; and
 
-“Whereas article 28 and other articles of the Charter of the United Nations contemplate the establishment of a seat for the permanent headquarters of the Organization; and
+"Whereas article 28 and other articles of the Charter of the United Nations contemplate the establishment of a seat for the permanent headquarters of the Organization; and
 
-“Whereas the interim arrangements concluded on June 26, 1945, by the governments represented at the United Nations Conference on International Organization instructed the Preparatory Commission established in pursuance of the arrangements to ‘make studies and prepare recommendations concerning the location of the permanent headquarters of the Organization’; and
+"Whereas the interim arrangements concluded on June 26, 1945, by the governments represented at the United Nations Conference on International Organization instructed the Preparatory Commission established in pursuance of the arrangements to 'make studies and prepare recommendations concerning the location of the permanent headquarters of the Organization'; and
 
-“Whereas during the labors of the said Preparatory Commission, the Congress of the United States in H. Con. Res. 75, passed unanimously by the House of Representatives December 10, 1945, and agreed to unanimously by the Senate December 11, 1945, invited the United Nations ‘to locate the seat of the United Nations Organization within the United States’; and
+"Whereas during the labors of the said Preparatory Commission, the Congress of the United States in H. Con. Res. 75, passed unanimously by the House of Representatives December 10, 1945, and agreed to unanimously by the Senate December 11, 1945, invited the United Nations 'to locate the seat of the United Nations Organization within the United States'; and
 
-“Whereas the General Assembly on December 14, 1946, resolved ‘that the permanent headquarters of the United Nations shall be established in New York City in the area bounded by First Avenue, East Forty-eighth Street, the East River, and East Forty-second Street’; and
+"Whereas the General Assembly on December 14, 1946, resolved 'that the permanent headquarters of the United Nations shall be established in New York City in the area bounded by First Avenue, East Forty-eighth Street, the East River, and East Forty-second Street'; and
 
-“Whereas the General Assembly resolved on December 14, 1946, ‘That the Secretary-General be authorized to negotiate and conclude with the appropriate authorities of the United States of America an agreement concerning the arrangements required as a result of the establishment of the permanent headquarters of the United Nations in the city of New York’ and to be guided in these negotiations by the provisions of a preliminary draft agreement which had been negotiated by the Secretary-General and the Secretary of State of the United States; and
+"Whereas the General Assembly resolved on December 14, 1946, 'That the Secretary-General be authorized to negotiate and conclude with the appropriate authorities of the United States of America an agreement concerning the arrangements required as a result of the establishment of the permanent headquarters of the United Nations in the city of New York' and to be guided in these negotiations by the provisions of a preliminary draft agreement which had been negotiated by the Secretary-General and the Secretary of State of the United States; and
 
-“Whereas the General Assembly resolved on December 14, 1946, that pending the coming into force of the agreement referred to above ‘the Secretary-General be authorized to negotiate and conclude arrangements with the appropriate authorities of the United States of America to determine on a provisional basis the privileges, immunities, and facilities needed in connection with the temporary headquarters of the United Nations.’; and
+"Whereas the General Assembly resolved on December 14, 1946, that pending the coming into force of the agreement referred to above 'the Secretary-General be authorized to negotiate and conclude arrangements with the appropriate authorities of the United States of America to determine on a provisional basis the privileges, immunities, and facilities needed in connection with the temporary headquarters of the United Nations.'; and
 
-“Whereas the Secretary of State of the United States, after consultation with the appropriate authorities of the State and city of New York, signed at Lake Success, New York, on June 26, 1947, on behalf of the United States an agreement with the United Nations regarding the headquarters of the United Nations, which agreement is incorporated herein; and
+"Whereas the Secretary of State of the United States, after consultation with the appropriate authorities of the State and city of New York, signed at Lake Success, New York, on June 26, 1947, on behalf of the United States an agreement with the United Nations regarding the headquarters of the United Nations, which agreement is incorporated herein; and
 
-“Whereas the aforesaid agreement provides that it shall be brought into effect by an exchange of notes between the United States and the Secretary-General of the United Nations: Therefore be it
+"Whereas the aforesaid agreement provides that it shall be brought into effect by an exchange of notes between the United States and the Secretary-General of the United Nations: Therefore be it
 
-<i>“Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, That the President is hereby authorized to bring into effect on the part of the United States the agreement between the United States of America and the United Nations regarding the headquarters of the United Nations, signed at Lake Success, New York, on June 26, 1947 (hereinafter referred to as the ‘agreement’), with such changes therein not contrary to the general tenor thereof and not imposing any additional obligations on the United States as the President may deem necessary and appropriate, and at his discretion, after consultation with the appropriate State and local authorities, to enter into such supplemental agreements with the United Nations as may be necessary to fulfill the purposes of the said agreement: <i>Provided</i>, That any supplemental agreement entered into pursuant to section 5 of the agreement incorporated herein shall be submitted to the Congress for approval. The agreement follows:
+<i>"Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, That the President is hereby authorized to bring into effect on the part of the United States the agreement between the United States of America and the United Nations regarding the headquarters of the United Nations, signed at Lake Success, New York, on June 26, 1947 (hereinafter referred to as the 'agreement'), with such changes therein not contrary to the general tenor thereof and not imposing any additional obligations onthe United States as the President may deem necessary and appropriate, and at his discretion, after consultation with the appropriate State and local authorities, to enter into such supplemental agreements with the United Nations as may be necessary to fulfill the purposes of the said agreement: <i>Provided</i>, That any supplemental agreement entered into pursuant to section 5 of the agreement incorporated herein shall be submitted to the Congress for approval. The agreement follows:
 
-#### “AGREEMENT BETWEEN THE UNITED NATIONS AND THE UNITED STATES OF AMERICA REGARDING THE HEADQUARTERS OF THE UNITED NATIONS
+#### "AGREEMENT BETWEEN THE UNITED NATIONS AND THE UNITED STATES OF AMERICA REGARDING THE HEADQUARTERS OF THE UNITED NATIONS
 
 #### The United Nations and the United States of America:
 
@@ -224,23 +224,23 @@ George C. Marshall,
 
 Who have agreed as follows:
 
-#### “Article I—Definitions
+#### "Article I—Definitions
 
 #### section 1
 
 In this agreement:
 
-(a) The expression ‘headquarters district’ means (1) the area defined as such in Annex 1, (2) any other lands or buildings which from time to time may be included therein by supplemental agreement with the appropriate American authorities;
+(a) The expression 'headquarters district' means (1) the area defined as such in Annex 1, (2) any other lands or buildings which from time to time may be included therein by supplemental agreement with the appropriate American authorities;
 
-(b) the expression ‘appropriate American authorities’ means such federal, state, or local authorities in the United States as may be appropriate in the context and in accordance with the laws and customs of the United States, including the laws and customs of the state and local government involved;
+(b) the expression 'appropriate American authorities' means such federal, state, or local authorities in the United States as may be appropriate in the context and in accordance with the laws and customs of the United States, including the laws and customs of the state and local government involved;
 
-(c) the expression ‘General Convention’ means the Convention on the Privileges and Immunities of the United Nations approved by the General Assembly of the United Nations 13 February 1946, as acceded to by the United States;
+(c) the expression 'General Convention' means the Convention on the Privileges and Immunities of the United Nations approved by the General Assembly of the United Nations 13 February 1946, as acceded to by the United States;
 
-(d) the expression ‘United Nations’ means the international organization established by the Charter of the United Nations, hereinafter referred to as the ‘Charter’:
+(d) the expression 'United Nations' means the international organization established by the Charter of the United Nations, hereinafter referred to as the 'Charter':
 
-(e) the expression ‘Secretary-General’ means the Secretary-General of the United Nations.
+(e) the expression 'Secretary-General' means the Secretary-General of the United Nations.
 
-#### “Article II—The Headquarters District
+#### "Article II—The Headquarters District
 
 #### section 2
 
@@ -276,7 +276,7 @@ In the event that the United Nations should find it necessary and desirable to e
 
 In the event that the United Nations should propose to organize its own postal service, the conditions under which such service shall be set up shall be the subject of a supplemental agreement.
 
-#### “Article III—Law and Authority in the Headquarters District
+#### "Article III—Law and Authority in the Headquarters District
 
 #### section 7
 
@@ -302,7 +302,7 @@ The United Nations shall have the power to make regulations, operative within th
 
 The United Nations may expel or exclude persons from the headquarters district for violation of its regulations adopted under Section 8 or for other cause. Persons who violate such regulations shall be subject to other penalties or to detention under arrest only in accordance with the provisions of such laws or regulations as may be adopted by the appropriate American authorities.
 
-#### “Article IV—Communications and Transit
+#### "Article IV—Communications and Transit
 
 #### section 11
 
@@ -336,7 +336,7 @@ The provisions of Section 11 shall be applicable irrespective of the relations e
 
 The Secretary-General and the appropriate American authorities shall, at the request of either of them, consult as to methods of facilitating entrance into the United States, and the use of available means of transportation, by persons coming from abroad who wish to visit the headquarters district and do not enjoy the rights referred to in this Article.
 
-#### “Article V—Resident Representatives to the United Nations
+#### "Article V—Resident Representatives to the United Nations
 
 #### section 15
 
@@ -344,11 +344,11 @@ The Secretary-General and the appropriate American authorities shall, at the req
 
 (2) such resident members of their staffs as may be agreed upon between the Secretary-General, the Government of the United States and the Government of the Member concerned,
 
-(3) every person designated by a Member of a specialized agency, as defined in Article 57, paragraph 2, of the Charter, as its principal resident representative, with the rank of ambassador or minister plenipotentiary, atthe headquarters of such agency in the United States, and
+(3) every person designated by a Member of a specialized agency, as defined in Article 57, paragraph 2, of the Charter, as its principal resident representative, with the rank of ambassador or minister plenipotentiary, at the headquarters of such agency in the United States, and
 
 (4) such other principal resident representatives of members to a specialized agency and such resident members of the staffs of representatives to a specialized agency as may be agreed upon between the principal executive officer of the specialized agency, the Government of the United States and the Government of the Member concerned, shall, whether residing inside or outside the headquarters district, be entitled in the territory of the United States to the same privileges and immunities, subject to corresponding conditions and obligations, as it accords to diplomatic envoys accredited to it. In the case of Members whose governments are not recognized by the United States, such privileges and immunities need be extended to such representatives, or persons on the staffs of such representatives, only within the headquarters district, at their residences and offices outside the district, in transit between the district and such residences and offices, and in transit on official business to or from foreign countries.
 
-#### “Article VI—Police Protection of the Headquarters District
+#### "Article VI—Police Protection of the Headquarters District
 
 #### section 16
 
@@ -356,7 +356,7 @@ The Secretary-General and the appropriate American authorities shall, at the req
 
 (b) If so requested by the Secretary-General, the appropriate American authorities shall provide a sufficient number of police for the preservation of law and order in the headquarters district, and for the removal therefrom of persons as requested under the authority of the United Nations. The United Nations shall, if requested, enter into arrangements with the appropriate American authorities to reimburse them for the reasonable cost of such services.
 
-#### “Article VII—Public Services and Protection of the Headquarters District
+#### "Article VII—Public Services and Protection of the Headquarters District
 
 #### section 17
 
@@ -372,7 +372,7 @@ The appropriate American authorities shall take all reasonable steps to ensure t
 
 It is agreed that no form of racial or religious discrimination shall be permitted within the headquarters district.
 
-#### “Article VIII—Matters Relating to the Operation of This Agreement
+#### "Article VIII—Matters Relating to the Operation of This Agreement
 
 #### section 20
 
@@ -384,11 +384,11 @@ The Secretary-General and the appropriate American authorities shall settle by a
 
 (b) The Secretary-General or the United States may ask the General Assembly to request of the International Court of Justice an advisory opinion on any legal question arising in the course of such proceedings. Pending the receipt of the opinion of the Court, an interim decision of the arbitral tribunal shall be observed on both parties. Thereafter, the arbitral tribunal shall render a final decision, having regard to the opinion of the Court.
 
-#### “Article IX—Miscellaneous Provisions
+#### "Article IX—Miscellaneous Provisions
 
 #### section 22
 
-(a) The United Nations shall not dispose of all or any part of the land owned by it in the headquarters district without the consent of the United States. If the United States is unwilling to consent to a disposition which the United Nations wishes to make of all or any part of such land, the United States shall buy the same from the United Nations at a price to be determined as provided in paragraph (d) of this section.
+(a) The United Nations shall not dispose of all or any part of the land owned by it in the headquarters district without the consent of the United States. If the United States is unwilling to consent to a dispositionwhich the United Nations wishes to make of all or any part of such land, the United States shall buy the same from the United Nations at a price to be determined as provided in paragraph (d) of this section.
 
 (b) If the seat of the United Nations is removed from the headquarters district, all right, title and interest of the United Nations in and to real property in the headquarters district or any part of it shall, on request of either the United Nations or the United States, be assigned and conveyed to the United States. In the absence of such request, the same shall be assigned and conveyed to the subdivision of a state in which it is located or, if such subdivision shall not desire it, then to the state in which it is located. If none of the foregoing desires the same, it may be disposed of as provided in paragraph (a) of this section.
 
@@ -438,11 +438,11 @@ Trygve Lie,
 
 &emsp;&emsp;&emsp;<i>Secretary-General</i>
 
-#### “Annex 1
+#### "Annex 1
 
 The area referred to in Section 1(a)(1) consists of (a) the premises bounded on the East by the westerly side of Franklin D. Roosevelt Drive, on the West by the easterly side of First Avenue, on the North by the southerly side of East Forty-eighth Street, and on the South by the northerly side of East Forty-second Street, all as proposed to be widened, in the Borough of Manhattan, City and State of New York, and (b) an easement over Franklin D. Roosevelt Drive, above a lower limiting plane to be fixed for the construction and maintenance of an esplanade, together with the structures thereon and foundations and columns to support the same in locations below such limiting plane, the entire area to be more definitely defined by supplemental agreement between the United Nations and the United States of America.
 
-#### “Annex 2—Maintenance of Utilities and Underground Construction
+#### "Annex 2—Maintenance of Utilities and Underground Construction
 
 #### section 1
 
@@ -460,7 +460,7 @@ Sec. 2. For the purpose of carrying out the obligations of the United States und
 
 (c) After the institution of any such condemnation proceedings, possession of the property may be taken at any time the President, or such officer as he may designate, determines is necessary, and the court shall enter such orders as may be necessary to effect entry and occupancy of the property.
 
-(d) The President of the United States, or any officer or governmental agency duly authorized by the President, may, in the name of the United States, transfer or convey possession of and title to any interest in any property acquired or held by the United States, pursuant to paragraph (a) above, to the United Nations on the terms provided in the agreement or in any supplemental agreement, and shall execute and deliver such conveyances and other instruments and perform such other acts in connection therewith as may be necessary to carry out the provisions of the agreement.
+(d) The President of the United States, or any officer or governmental agency duly authorized by the President, may, in the name of the United States, transfer or convey possession of and title to any interest in anyproperty acquired or held by the United States, pursuant to paragraph (a) above, to the United Nations on the terms provided in the agreement or in any supplemental agreement, and shall execute and deliver such conveyances and other instruments and perform such other acts in connection therewith as may be necessary to carry out the provisions of the agreement.
 
 (e) There are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be required to enable the United States to carry out the undertakings hereby authorized: <i>Provided</i>, That any money appropriated under this authorization shall be spent only on a basis of reimbursement by the United Nations in accordance with section 3 of the agreement, and that the money thus reimbursed shall be deposited and covered into the Treasury of the United States as miscellaneous receipts.
 
@@ -470,7 +470,7 @@ Sec. 4. Any States, or, to the extent not inconsistent with State law any politi
 
 Sec. 5. The President is authorized to make effective with respect to the temporary headquarters of the United Nations in the State of New York, on a provisional basis, such of the provisions of the agreement as he may deem appropriate, having due regard for the needs of the United Nations at its temporary headquarters.
 
-Sec. 6. Nothing in the agreement shall be construed as in any way diminishing, abridging, or weakening the right of the United States to safeguard its own security and completely to control the entrance of aliens into any territory of the United States other than the headquarters district and its immediate vicinity, as to be defined and fixed in a supplementary agreement between the Government of the United States and the United Nations in pursuance of section 13(3)(e) of the agreement, and such areas as it is reasonably necessary to traverse in transit between the same and foreign countries. Moreover, nothing in section 14 of the agreement with respect to facilitating entrance into the United States by persons who wish to visit the headquarters district and do not enjoy the right of entry provided in section 11 of the agreement shall be construed to amend or suspend in any way the immigration laws of the United States or to commit the United States in any way to effect any amendment or suspension of such laws.”
+Sec. 6. Nothing in the agreement shall be construed as in any way diminishing, abridging, or weakening the right of the United States to safeguard its own security and completely to control the entrance of aliens into any territory of the United States other than the headquarters district and its immediate vicinity, as to be defined and fixed in a supplementary agreement between the Government of the United States and the United Nations in pursuance of section 13(3)(e) of the agreement, and such areas as it is reasonably necessary to traverse in transit between the same and foreign countries. Moreover, nothing in section 14 of the agreement with respect to facilitating entrance into the United States by persons who wish to visit the headquarters district and do not enjoy the right of entry provided in section 11 of the agreement shall be construed to amend or suspend in any way the immigration laws of the United States or to commit the United States in any way to effect any amendment or suspension of such laws."
 
 #### UN Membership for Communist China
 
@@ -528,7 +528,7 @@ By virtue of the authority vested in me by the United Nations Participation Act 
 
 4\. The Deputy Representative of the United States to the United Nations shall be the Deputy Chief of Mission, who shall act as Chief of Mission in the absence of the Representative of the United States to the United Nations.
 
-5\. This order supersedes Executive Order No. 9844 of April 28, 1947, entitled “Designating the United States Mission to the United Nations and Providing for Its Direction and Administration.”
+5\. This order supersedes Executive Order No. 9844 of April 28, 1947, entitled "Designating the United StatesMission to the United Nations and Providing for Its Direction and Administration."
 
 #### Ex. Ord. No. 10422. Loyalty Procedures for Employees
 
@@ -536,7 +536,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 #### part i—investigation of united states citizens employed or being considered for employment on the secretariat of the united nations
 
-1\. Whenever the Secretary of State receives, from the Secretary General of the United Nations, the name of and other necessary identifying data concerning each United States citizen employed or being considered for employment by the United Nations, the Secretary of State shall, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, cause an investigation to be conducted as provided in paragraph 2 of this Part, or forward the information received from theSecretary General to the Office of Personnel Management, which shall conduct an investigation, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, as provided in paragraphs 3 and 4 of this Part.
+1\. Whenever the Secretary of State receives, from the Secretary General of the United Nations, the name of and other necessary identifying data concerning each United States citizen employed or being considered for employment by the United Nations, the Secretary of State shall, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, cause an investigation to be conducted as provided in paragraph 2 of this Part, or forward the information received from the Secretary General to the Office of Personnel Management, which shall conduct an investigation, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, as provided in paragraphs 3 and 4 of this Part.
 
 2\. With respect to all applicants for short term appointments which will not exceed six months and which are not appointments to United Nations Secretariat professional posts or posts subject to geographical distribution, the Secretary of State shall cause an investigation to be conducted, which investigation shall be limited to a search of the files of the Department of State. If the investigation reveals any derogatory information within the meaning of the standard set forth in Part II of this order, the information received from the Secretary General of the United Nations shall be forwarded to the Office of Personnel Management, which shall conduct an investigation.
 
@@ -568,7 +568,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 (e) Performing or attempting to perform his duties, or otherwise acting, while an employee of the United States Government during a previous period, so as to serve the interests of another government in preference to the interests of the United States.
 
-(f) Knowing membership with the specific intent of furthering the aims of, or adherence to and active participation in, any foreign or domestic organization, association, movement, group or combination of persons, which unlawfully advocates or practices the commission of acts of force or violence to prevent others from exercising their rights under the Constitution or laws of the United States, or of any State, or which seeks to overthrow the Government of the United States or any State or subdivision thereof by unlawful means.
+(f) Knowing membership with the specific intent of furthering the aims of, or adherence to and active participation in, any foreign or domestic organization, association, movement, group or combination of persons, which unlawfully advocates or practices the commission of acts of force or violence to prevent others from exercising their rights under the Constitution or laws of the United States, or of any State, or which seeks tooverthrow the Government of the United States or any State or subdivision thereof by unlawful means.
 
 #### part iii—other international organizations
 

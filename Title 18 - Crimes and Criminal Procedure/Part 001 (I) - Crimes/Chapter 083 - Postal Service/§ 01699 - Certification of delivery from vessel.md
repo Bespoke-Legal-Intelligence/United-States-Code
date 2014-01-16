@@ -2,7 +2,7 @@
 
 No vessel arriving within a port or collection district of the United States shall be allowed to make entry or break bulk until all letters on board are delivered to the nearest post office, except where waybilled for discharge at other ports in the United States at which the vessel is scheduled to call and the Postal Service does not determine that unreasonable delay in the mails will occur, and the master or other person having charge or control thereof has signed and sworn to the following declaration before the collector or other proper customs officer:
 
-I, A. B., master \_\_\_\_\_\_, of the \_\_\_\_\_\_, arriving from \_\_\_\_\_\_, and now lying in the port of \_\_\_\_\_\_, do solemnly swear (or affirm) that I have to the best of my knowledge and belief delivered to the post office at \_\_\_\_\_\_ every letter and every bag,packet, or parcel of letters on board the said vessel during her last voyage, or in my possession or under my power or control, except where waybilled for discharge at other ports in the United States at which the said vessel is scheduled to call and which the Postal Service has not determined will be unreasonably delayed by remaining on board the said vessel for delivery at such ports.
+I, A. B., master \_\_\_\_\_\_, of the \_\_\_\_\_\_, arriving from \_\_\_\_\_\_, and now lying in the port of \_\_\_\_\_\_, do solemnly swear (or affirm) that I have to the best of my knowledge and belief delivered to the post office at \_\_\_\_\_\_ every letter and every bag, packet, or parcel of letters on board the said vessel during her last voyage, or in my possession or under my power or control, except where waybilled for discharge at other ports in the United States at which the said vessel is scheduled to call and which the Postal Service has not determined will be unreasonably delayed by remaining on board the said vessel for delivery at such ports.
 
 Whoever, being the master or other person having charge or control of such vessel, breaks bulk before he has arranged for such delivery or onward carriage, shall be fined under this title.
 
@@ -16,9 +16,9 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $100" in last par.
 
-<b>1970</b>—Pub. L. 91–375 substituted “Postal Service” for “Postmaster General” in two places.
+<b>1970</b>—Pub. L. 91–375 substituted "Postal Service" for "Postmaster General" in two places.
 
 <b>1952</b>—Act July 3, 1952, provided for only the unloading of mail from a vessel as can be expedited by discharge at such port.
 

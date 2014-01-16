@@ -16,7 +16,7 @@ In general.—Except as provided in paragraph (3), it shall be unlawful for any 
 
 &emsp;&emsp;(B) any device designed or intended to launch or guide a rocket or missile described in subparagraph (A); or
 
-&emsp;&emsp;(C) any part or combination of parts designed or redesigned for use in assembling or fabricating a rocket, missile, or device described in subparagraph (A) or (B).
+&emsp;&emsp;(C) any part or combination of parts designed or redesigned for use in assembling orfabricating a rocket, missile, or device described in subparagraph (A) or (B).
 
 &emsp;(2)
 
@@ -62,7 +62,7 @@ Special circumstances.—If the death of another results from a person's violati
 
 (d)
 
-Definition.—As used in this section, the term “aircraft” has the definition set forth in section 40102(a)(6) of title 49, United States Code.
+Definition.—As used in this section, the term "aircraft" has the definition set forth in section 40102(a)(6) of title 49, United States Code.
 
 (Added Pub. L. 108–458, title VI, §6903, Dec. 17, 2004, 118 Stat. 3770.)
 

@@ -20,7 +20,7 @@ The Secretary shall establish criteria for the selection of generation projects 
 
 &emsp;(3) prioritization of projects that result in the repowering or replacement of older, less efficient units;
 
-&emsp;(4) documented broad interest in the procurement of the equipment and utilization ofthe processes used in the projects by owners or operators of facilities for electricity generation;
+&emsp;(4) documented broad interest in the procurement of the equipment and utilization of the processes used in the projects by owners or operators of facilities for electricity generation;
 
 &emsp;(5) equipment and processes beginning in 2006 through 2011 that are projected to achieve a thermal efficiency of—
 
@@ -68,5 +68,5 @@ No technology, or level of emission reduction, shall be treated as adequately de
 
 (Pub. L. 102–486, title XXXI, §3103, as added Pub. L. 109–58, title IV, §421(a), Aug. 8, 2005, 119 Stat. 758.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “purposes”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "purposes".</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Veterans of World War I of the United States of America, Incorporated (in this chapter, the “corporation”), is a federally chartered corporation.
+Federal Charter.—Veterans of World War I of the United States of America, Incorporated (in this chapter, the "corporation"), is a federally chartered corporation.
 
 (b)
 

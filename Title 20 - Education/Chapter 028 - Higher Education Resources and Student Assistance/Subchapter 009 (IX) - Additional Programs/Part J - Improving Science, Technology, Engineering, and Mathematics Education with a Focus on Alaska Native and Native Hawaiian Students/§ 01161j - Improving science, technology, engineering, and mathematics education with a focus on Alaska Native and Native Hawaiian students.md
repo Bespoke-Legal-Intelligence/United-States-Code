@@ -14,11 +14,11 @@ In this section:
 
 #### (1) Alaska Native
 
-&emsp;The term “Alaska Native” has the meaning given such term in section 7546 of this title.
+&emsp;The term "Alaska Native" has the meaning given such term in section 7546 of this title.
 
 #### (2) Eligible partnership
 
-&emsp;The term “eligible partnership” means a partnership that includes—
+&emsp;The term "eligible partnership" means a partnership that includes—
 
 &emsp;&emsp;(A) one or more colleges, schools, or departments of engineering;
 
@@ -38,11 +38,11 @@ In this section:
 
 #### (3) Institution of higher education
 
-&emsp;The term “institution of higher education” has the meaning given such term in section 1001(a) of this title.
+&emsp;The term "institution of higher education" has the meaning given such term in section 1001(a) of this title.
 
 #### (4) Native Hawaiian
 
-&emsp;The term “Native Hawaiian” has the meaning given the term in section 7517 of this title.
+&emsp;The term "Native Hawaiian" has the meaning given the term in section 7517 of this title.
 
 #### (c) Grant authorized
 
@@ -52,9 +52,9 @@ From the amounts appropriated to carry out this section under subsection (i), th
 
 Grant funds under this section shall be used for one or more of the following:
 
-&emsp;(1) Development or implementation of cultural, social, or educational transition programs to assist students to transition into college life and academics in order to increase such students’ retention rates in the fields of science, technology, engineering, or mathematics, with a focus on Alaska Native or Native Hawaiian students.
+&emsp;(1) Development or implementation of cultural, social, or educational transition programs to assist students to transition into college life and academics in order to increase such students' retention rates in the fields of science, technology, engineering, or mathematics, with a focus on Alaska Native or Native Hawaiian students.
 
-&emsp;(2) Development or implementation of academic support or supplemental educationalprograms to increase the graduation rates of students in the fields of science, technology, engineering, or mathematics, with a focus on Alaska Native and Native Hawaiian students.
+&emsp;(2) Development or implementation of academic support or supplemental educational programs to increase the graduation rates of students in the fields of science, technology, engineering, or mathematics, with a focus on Alaska Native and Native Hawaiian students.
 
 &emsp;(3) Development or implementation of internship programs, carried out in coordination with educational institutions and private entities, to prepare students for careers in the fields of science, technology, engineering, or mathematics, with a focus on programs that serve Alaska Native or Native Hawaiian students.
 

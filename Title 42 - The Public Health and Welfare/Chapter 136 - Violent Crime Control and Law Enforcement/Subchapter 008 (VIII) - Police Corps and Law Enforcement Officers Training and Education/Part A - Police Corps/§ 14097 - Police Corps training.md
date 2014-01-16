@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) The Director shall establish programs of training for Police Corps participants. Such programs may be carried out at up to 3 training centers established for this purpose and administered by the Director, or by contracting with existing State training facilities. The Director shall contract with a State training facility upon request of such facility if the Director determines that such facility offers a course oftraining substantially equivalent to the Police Corps training program described in this part.
+(1) The Director shall establish programs of training for Police Corps participants. Such programs may be carried out at up to 3 training centers established for this purpose and administered by the Director, or by contracting with existing State training facilities. The Director shall contract with a State training facility upon request of such facility if the Director determines that such facility offers a course of training substantially equivalent to the Police Corps training program described in this part.
 
 (2) The Director may enter into contracts with individuals, institutions of learning, and government agencies (including State and local police forces) to obtain the services of persons qualified to participate in and contribute to the training process.
 
@@ -34,15 +34,15 @@ The Director shall pay participants in training sessions a stipend of $400 a wee
 
 #### References in Text
 
-Section 14099 of this title, referred to in subsec. (c), was in the original “section 10”, and was translated as reading “section 200110”, meaning section 200110 of Pub. L. 103–322, to reflect the probable intent of Congress, because Pub. L. 103–322 does not contain a section 10, and section 14099 of this title relates to requirements for State Police Corps plans.
+Section 14099 of this title, referred to in subsec. (c), was in the original "section 10", and was translated as reading "section 200110", meaning section 200110 of Pub. L. 103–322, to reflect the probable intent of Congress, because Pub. L. 103–322 does not contain a section 10, and section 14099 of this title relates to requirements for State Police Corps plans.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (f). Pub. L. 107–273 substituted “$400” for “$250”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–273 substituted "$400" for "$250".
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–277, §138(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “A participant in a State Police Corps program shall attend two 8-week training sessions at a training center, one during the summer following completion of sophomore year and one during the summer following completion of junior year. If a participant enters the program after sophomore year, the participant shall complete 16 weeks of training at times determined by the Director.”
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, §138(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "A participant in a State Police Corps program shall attend two 8-week training sessions at a training center, one during the summer following completion of sophomore year and one during the summer following completion of junior year. If a participant enters the program after sophomore year, the participant shall complete 16 weeks of training at times determined by the Director."
 
-Subsec. (c). Pub. L. 105–277, §138(a)(2), substituted “The Police Corps” for “The 16 weeks of Police Corps”.
+Subsec. (c). Pub. L. 105–277, §138(a)(2), substituted "The Police Corps" for "The 16 weeks of Police Corps".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

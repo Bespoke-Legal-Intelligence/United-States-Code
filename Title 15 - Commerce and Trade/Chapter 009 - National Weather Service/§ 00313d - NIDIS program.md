@@ -40,41 +40,41 @@ Each Federal agency shall cooperate as appropriate with the Under Secretary in c
 
 #### References in Text
 
-This section, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 109–430, Dec. 20, 2006, 120 Stat. 2918, which enacted this section and provisions set out as notes under this section and section 311 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 311 of this title and Tables.
+This section, referred to in subsec. (d), was in the original "this Act", meaning Pub. L. 109–430, Dec. 20, 2006, 120 Stat. 2918, which enacted this section and provisions set out as notes under this section and section 311 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 311 of this title and Tables.
 
 #### Authorization of Appropriations
 
-Pub. L. 109–430, §4, Dec. 20, 2006, 120 Stat. 2919, provided that: “There are authorized to be appropriated to carry out this Act \[see Short Title of 2006 Amendment note set out under section 311 of this title\]—
+Pub. L. 109–430, §4, Dec. 20, 2006, 120 Stat. 2919, provided that: "There are authorized to be appropriated to carry out this Act \[see Short Title of 2006 Amendment note set out under section 311 of this title\]—
 
-&emsp;“(1) $11,000,000 for fiscal year 2007;
+&emsp;"(1) $11,000,000 for fiscal year 2007;
 
-&emsp;“(2) $12,000,000 for fiscal year 2008;
+&emsp;"(2) $12,000,000 for fiscal year 2008;
 
-&emsp;“(3) $13,000,000 for fiscal year 2009;
+&emsp;"(3) $13,000,000 for fiscal year 2009;
 
-&emsp;“(4) $14,000,000 for fiscal year 2010;
+&emsp;"(4) $14,000,000 for fiscal year 2010;
 
-&emsp;“(5) $15,000,000 for fiscal year 2011; and
+&emsp;"(5) $15,000,000 for fiscal year 2011; and
 
-&emsp;“(6) $16,000,000 for fiscal year 2012.”
+&emsp;"(6) $16,000,000 for fiscal year 2012."
 
 #### Definitions
 
-Pub. L. 109–430, §2, Dec. 20, 2006, 120 Stat. 2918, provided that: “In this Act \[see Short Title of 2006 Amendment note set out under section 311 of this title\]:
+Pub. L. 109–430, §2, Dec. 20, 2006, 120 Stat. 2918, provided that: "In this Act \[see Short Title of 2006 Amendment note set out under section 311 of this title\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Drought.—The term ‘drought’ means a deficiency in precipitation—
+Drought.—The term 'drought' means a deficiency in precipitation—
 
-&emsp;&emsp;“(A) that leads to a deficiency in surface or subsurface water supplies (including rivers, streams, wetlands, ground water, soil moisture, reservoir supplies, lake levels, and snow pack); and
+&emsp;&emsp;"(A) that leads to a deficiency in surface or subsurface water supplies (including rivers, streams, wetlands, ground water, soil moisture, reservoir supplies, lake levels, and snow pack); and
 
-&emsp;&emsp;“(B) that causes or may cause—
+&emsp;&emsp;"(B) that causes or may cause—
 
-&emsp;&emsp;&emsp;“(i) substantial economic or social impacts; or
+&emsp;&emsp;&emsp;"(i) substantial economic or social impacts; or
 
-&emsp;&emsp;&emsp;“(ii) substantial physical damage or injury to individuals, property, or the environment.
+&emsp;&emsp;&emsp;"(ii) substantial physical damage or injury to individuals, property, or the environment.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Under secretary.—The term ‘Under Secretary’ means the Under Secretary of Commerce for Oceans and Atmosphere.”
+Under secretary.—The term 'Under Secretary' means the Under Secretary of Commerce for Oceans and Atmosphere."
 

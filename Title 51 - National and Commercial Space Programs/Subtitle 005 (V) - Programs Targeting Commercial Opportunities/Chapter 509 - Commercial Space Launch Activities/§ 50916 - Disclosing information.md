@@ -20,11 +20,11 @@ Historical and Revision Notes
 
 Oct. 30, 1984, Pub. L. 98–575, §9(c), 98 Stat. 3059.
 
-The words “data or” are omitted as surplus. The words “the head of” and “executive” are added for consistency in the revised title and with other titles of the United States Code.
+The words "data or" are omitted as surplus. The words "the head of" and "executive" are added for consistency in the revised title and with other titles of the United States Code.
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–314, §4(d)(5)(S), substituted “section 50907(b)” for “section 70106(b)”.
+<b>2010</b>—Pub. L. 111–314, §4(d)(5)(S), substituted "section 50907(b)" for "section 70106(b)".
 
 Pub. L. 111–314, §4(d)(2), (3)(P), successively renumbered section 70114 of title 49 and section 70114 of this title as this section.
 

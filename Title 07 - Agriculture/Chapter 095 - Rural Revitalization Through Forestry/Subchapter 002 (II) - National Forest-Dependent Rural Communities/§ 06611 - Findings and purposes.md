@@ -24,7 +24,7 @@ The purposes of this subchapter are—
 
 &emsp;(1) to provide assistance to rural communities that are located in or near National Forest System land and that are economically dependent upon natural resources or are likely to be economically disadvantaged by Federal or private sector land management practices;
 
-&emsp;(2) to aid in diversifying such communities’ economic bases; and
+&emsp;(2) to aid in diversifying such communities' economic bases; and
 
 &emsp;(3) to improve the economic, social, and environmental well-being of rural America.
 
@@ -32,13 +32,13 @@ The purposes of this subchapter are—
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a)(2). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(A)\], substituted “National Forest System land;” for “national forests;”.
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(A)\], substituted "National Forest System land;" for "national forests;".
 
-Subsec. (a)(4). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(B)\], substituted “National Forest System land” for “the national forests”.
+Subsec. (a)(4). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(B)\], substituted "National Forest System land" for "the national forests".
 
-Subsec. (a)(5). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(C)\], substituted “natural resources;” for “forest resources;”.
+Subsec. (a)(5). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(C)\], substituted "natural resources;" for "forest resources;".
 
-Subsec. (a)(6). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(D)\], substituted “National Forest System land resources” for “national forest resources”.
+Subsec. (a)(6). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(D)\], substituted "National Forest System land resources" for "national forest resources".
 
-Subsec. (b)(1). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(2)\], substituted “National Forest System land” for “national forests” and “natural resources” for “forest resources”.
+Subsec. (b)(1). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(2)\], substituted "National Forest System land" for "national forests" and "natural resources" for "forest resources".
 

@@ -10,9 +10,9 @@
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in two places.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" in two places.
 
-<b>1975</b>—Subsec. (a). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Subsec. (a). Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 1999 Amendment
 

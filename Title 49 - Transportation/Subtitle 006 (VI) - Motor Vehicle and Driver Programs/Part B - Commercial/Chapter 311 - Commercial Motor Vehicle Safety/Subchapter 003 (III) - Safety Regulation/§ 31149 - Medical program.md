@@ -44,7 +44,7 @@ In general.—The Secretary, with the advice of the Medical Review Board and the
 
 &emsp;&emsp;&emsp;(iv) demonstration of a medical examiner's willingness to meet the reporting requirements established by the Secretary;
 
-&emsp;&emsp;(E) require medical examiners to transmit the name of the applicant and numerical identifier, as determined by the Administrator of the Federal Motor Carrier Safety Administration, for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, electronically to the chief medical examiner on monthly basis; and
+&emsp;&emsp;(E) require medical examiners to transmit the name of the applicant and numericalidentifier, as determined by the Administrator of the Federal Motor Carrier Safety Administration, for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, electronically to the chief medical examiner on monthly basis; and
 
 &emsp;&emsp;(F) periodically review a representative sample of the medical examination reports associated with the name and numerical identifiers of applicants transmitted under subparagraph (E) for errors, omissions, or other indications of improper certification.
 
@@ -76,9 +76,9 @@ Regulations.—The Secretary shall issue such regulations as may be necessary to
 
 <i>(1) by amending subparagraph (E) to read as follows:</i>
 
-&emsp;&emsp;<i>“(E) require medical examiners to transmit electronically, on a monthly basis, the name of the applicant, a numerical identifier, and additional information contained on the medical examiner's certificate for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, to the chief medical examiner;”;</i>
+&emsp;&emsp;<i>"(E) require medical examiners to transmit electronically, on a monthly basis, the name of the applicant, a numerical identifier, and additional information contained on the medical examiner's certificate for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, to the chief medical examiner;";</i>
 
-<i>(2) in subparagraph (F), by striking the period at the end and inserting “; and”; and</i>
+<i>(2) in subparagraph (F), by striking the period at the end and inserting "; and"; and</i>
 
 <i>(3) by adding at the end the following:</i>
 
@@ -96,9 +96,9 @@ The Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subs
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c)(1)(D). Pub. L. 112–141, §32302(b), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “develop, as appropriate, specific courses and materials for medical examiners listed in the national registry established under this section, and require those medical examiners to, at a minimum, self-certify that they have completed specific training, including refresher courses, to be listed in the registry;”.
+<b>2012</b>—Subsec. (c)(1)(D). Pub. L. 112–141, §32302(b), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "develop, as appropriate, specific courses and materials for medical examiners listed in the national registry established under this section, and require those medical examiners to, at a minimum, self-certify that they have completed specific training, including refresher courses, to be listed in the registry;".
 
-Subsec. (c)(1)(E). Pub. L. 112–141, §32302(c)(1)(A), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “require medical examiners to transmit the name of the applicant and numerical identifier, as determined by the Administrator of the Federal Motor Carrier Safety Administration, for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, electronically to the chief medical examiner on monthly basis; and”.
+Subsec. (c)(1)(E). Pub. L. 112–141, §32302(c)(1)(A), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "require medical examiners to transmit the name of the applicant and numerical identifier, as determined by the Administrator of the Federal Motor Carrier Safety Administration, for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, electronically to the chief medical examiner on monthly basis; and".
 
 Subsec. (c)(1)(G). Pub. L. 112–141, §32302(c)(1)(B), (C), added subpar. (G).
 
@@ -106,19 +106,19 @@ Subsec. (c)(1)(G). Pub. L. 112–141, §32302(c)(1)(B), (C), added subpar. (G).
 
 Amendment by section 32302(b) of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
-Pub. L. 112–141, div. C, title II, §32302(c)(2)(B), July 6, 2012, 126 Stat. 789, provided that: “The amendments made by section 32303(c)(1) \[probably should be “32302(c)(1)”\] of this Act \[amending this section\] shall take effect on the date the oversight policies and procedures are established pursuant to subparagraph (A).”
+Pub. L. 112–141, div. C, title II, §32302(c)(2)(B), July 6, 2012, 126 Stat. 789, provided that: "The amendments made by section 32303(c)(1) \[probably should be "32302(c)(1)"\] of this Act \[amending this section\] shall take effect on the date the oversight policies and procedures are established pursuant to subparagraph (A)."
 
 #### Effective Date
 
-Pub. L. 109–59, title IV, §4116(f), Aug. 10, 2005, 119 Stat. 1728, as amended by Pub. L. 110–244, title III, §301(d), June 6, 2008, 122 Stat. 1616, provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending section 31136 of this title\] shall take effect on the 365th day following the date of enactment of this Act \[Aug. 10, 2005\].”
+Pub. L. 109–59, title IV, §4116(f), Aug. 10, 2005, 119 Stat. 1728, as amended by Pub. L. 110–244, title III, §301(d), June 6, 2008, 122 Stat. 1616, provided that: "The amendments made by subsections (a) and (b) \[enacting this section and amending section 31136 of this title\] shall take effect on the 365th day following the date of enactment of this Act \[Aug. 10, 2005\]."
 
 \[Amendment by Pub. L. 110–244 to section 4116(f) of Pub. L. 109–59, set out above, effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as an Effective Date of 2008 note under section 101 of Title 23, Highways.\]
 
 #### Deadline for Establishment of National Registry of Medical Examiners
 
-Pub. L. 112–141, div. C, title II, §32302(a), July 6, 2012, 126 Stat. 788, provided that: “Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall establish a national registry of medical examiners in accordance with section 31149(d)(1) of title 49, United States Code.”
+Pub. L. 112–141, div. C, title II, §32302(a), July 6, 2012, 126 Stat. 788, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall establish a national registry of medical examiners in accordance with section 31149(d)(1) of title 49, United States Code."
 
 #### Internal Oversight Policy
 
-Pub. L. 112–141, div. C, title II, §32302(c)(2)(A), July 6, 2012, 126 Stat. 789, provided that: “Not later than 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall establish an oversight policy and procedure to carry out section 31149(c)(1)(G) of title 49, United States Code, as added by section 32302(c)(1) of this Act.”
+Pub. L. 112–141, div. C, title II, §32302(c)(2)(A), July 6, 2012, 126 Stat. 789, provided that: "Not later than 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall establish an oversight policy and procedure to carry out section 31149(c)(1)(G) of title 49, United States Code, as added by section 32302(c)(1) of this Act."
 

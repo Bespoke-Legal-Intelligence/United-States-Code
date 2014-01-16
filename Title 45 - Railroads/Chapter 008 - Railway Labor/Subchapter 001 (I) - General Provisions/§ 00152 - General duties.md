@@ -68,15 +68,15 @@ Section is comprised of pars. designated First to Twelfth of section 2 of act Ma
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–95, §1002, in par. Ninth, inserted after fourth sentence “In any such election for which there are 3 or more options (including the option of not being represented by any labor organization) on the ballot and no such option receives a majority of the valid votes cast, the Mediation Board shall arrange for a second election between the options receiving the largest and the second largest number of votes.”
+<b>2012</b>—Pub. L. 112–95, §1002, in par. Ninth, inserted after fourth sentence "In any such election for which there are 3 or more options (including the option of not being represented by any labor organization) on the ballot and no such option receives a majority of the valid votes cast, the Mediation Board shall arrange for a second election between the options receiving the largest and the second largest number of votes."
 
 Pub. L. 112–95, §1003, added par. Twelfth.
 
 <b>1951</b>—Act Jan. 10, 1951, added par. Eleventh.
 
-<b>1934</b>—Act June 21, 1934, substituted “by the carrier or carriers” for “by the carriers” in par. Second, generally amended pars. Third, Fourth, and Fifth, and added pars. Sixth to Tenth.
+<b>1934</b>—Act June 21, 1934, substituted "by the carrier or carriers" for "by the carriers" in par. Second, generally amended pars. Third, Fourth, and Fifth, and added pars. Sixth to Tenth.
 
 #### Change of Name
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney of the United States”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorney" for "district attorney of the United States". See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 

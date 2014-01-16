@@ -102,7 +102,7 @@ Research carried out under subsection (a) of this section through contracts, gra
 
 #### (7) Disaggregation
 
-&emsp;To the extent feasible, research conducted under this subsection shall be disaggregatedby age, race, gender, and socioeconomic background.
+&emsp;To the extent feasible, research conducted under this subsection shall be disaggregated by age, race, gender, and socioeconomic background.
 
 (Pub. L. 107–279, title I, §133, Nov. 5, 2002, 116 Stat. 1954.)
 
@@ -110,5 +110,5 @@ Research carried out under subsection (a) of this section through contracts, gra
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(11), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “understanding of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "understanding of".</i>
 

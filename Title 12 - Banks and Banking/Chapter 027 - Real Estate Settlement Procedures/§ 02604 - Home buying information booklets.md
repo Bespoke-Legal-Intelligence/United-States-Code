@@ -2,7 +2,7 @@
 
 #### (a) Preparation and distribution
 
-The Director of the Bureau of Consumer Financial Protection (hereafter in this section referred to as the “Director”) shall prepare, at least once every 5 years, a booklet to help consumers applying for federally related mortgage loans to understand the nature and costs of real estate settlement services. The Director shall prepare the booklet in various languages and cultural styles, as the Director determines to be appropriate, so that the booklet is understandable and accessible to homebuyers of different ethnic and cultural backgrounds. The Director shall distribute such booklets to all lenders that make federally related mortgage loans. The Director shall also distribute to such lenders lists, organized by location, of homeownership counselors certified under section 1701x(e) of this title for use in complying with the requirement under subsection (c) of this section.
+The Director of the Bureau of Consumer Financial Protection (hereafter in this section referred to as the "Director") shall prepare, at least once every 5 years, a booklet to help consumers applying for federally related mortgage loans to understand the nature and costs of real estate settlement services. The Director shall prepare the booklet in various languages and cultural styles, as the Director determines to be appropriate, so that the booklet is understandable and accessible to homebuyers of different ethnic and cultural backgrounds. The Director shall distribute such booklets to all lenders that make federally related mortgage loans. The Director shall also distribute to such lenders lists, organized by location, of homeownership counselors certified under section 1701x(e) of this title for use in complying with the requirement under subsection (c) of this section.
 
 #### (b) Contents
 
@@ -26,13 +26,13 @@ Each booklet shall be in such form and detail as the Director shall prescribe an
 
 &emsp;(5) An explanation of the right of rescission as to certain transactions provided by sections 125 and 129 of the Truth in Lending Act \[15 U.S.C. 1635, 1639\].
 
-&emsp;(6) A brief explanation of the nature of a variable rate mortgage and a reference to the booklet entitled “Consumer Handbook on Adjustable Rate Mortgages”, published by the Director, or to any suitable substitute of such booklet that the Director may subsequently adopt pursuant to such section.
+&emsp;(6) A brief explanation of the nature of a variable rate mortgage and a reference to the booklet entitled "Consumer Handbook on Adjustable Rate Mortgages", published by the Director, or to any suitable substitute of such booklet that the Director may subsequently adopt pursuant to such section.
 
 &emsp;(7) A brief explanation of the nature of a home equity line of credit and a reference to the pamphlet required to be provided under section 127A of the Truth in Lending Act \[15 U.S.C. 1637a\].
 
-&emsp;(8) Information about homeownership counseling services made available pursuant to section 1701x(a)(4) of this title, a recommendation that the consumer use such services, and notification that a list of certified providers of homeownership counseling in the area, and their contact information, is available.
+&emsp;(8) Information about homeownership counseling services made available pursuant to section 1701x(a)(4) of this title, a recommendationthat the consumer use such services, and notification that a list of certified providers of homeownership counseling in the area, and their contact information, is available.
 
-&emsp;(9) An explanation of the nature and purpose of escrow accounts when used in connectionwith loans secured by residential real estate and the requirements under section 2609 of this title regarding such accounts.
+&emsp;(9) An explanation of the nature and purpose of escrow accounts when used in connection with loans secured by residential real estate and the requirements under section 2609 of this title regarding such accounts.
 
 &emsp;(10) An explanation of the choices available to buyers of residential real estate in selecting persons to provide necessary services incidental to a real estate settlement.
 
@@ -62,7 +62,7 @@ Booklets may be printed and distributed by lenders if their form and content are
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 93–533, which is classified principally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–533 does not contain titles.
+This chapter, referred to in subsec. (a), was in the original "this title" and was translated as reading "this Act", meaning Pub. L. 93–533, which is classified principally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–533 does not contain titles.
 
 The Truth in Lending Act, referred to in subsec. (b)(3), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. Two sections 129 of the Act have been enacted and are classified to sections 1639 and 1639a of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
@@ -70,23 +70,23 @@ The Truth in Lending Act, referred to in subsec. (b)(3), is title I of Pub. L. 9
 
 <b>2012</b>—Subsec. (b)(14). Pub. L. 112–141 added par. (14).
 
-<b>2010</b>—Pub. L. 111–203, §1450(1), substituted “Home buying” for “Special” in section catchline.
+<b>2010</b>—Pub. L. 111–203, §1450(1), substituted "Home buying" for "Special" in section catchline.
 
-Pub. L. 111–203, §1098(3)(A), substituted “Bureau” for “Secretary” wherever appearing.
+Pub. L. 111–203, §1098(3)(A), substituted "Bureau" for "Secretary" wherever appearing.
 
-Subsec. (a). Pub. L. 111–203, §1450(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Bureau shall prepare and distribute booklets jointly addressing compliance with the requirements of the Truth in Lending Act and the provisions of this chapter, in order to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services. The Bureau shall distribute such booklets to all lenders which make federally related mortgage loans.”
+Subsec. (a). Pub. L. 111–203, §1450(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Bureau shall prepare and distribute booklets jointly addressing compliance with the requirements of the Truth in Lending Act and the provisions of this chapter, in order to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services. The Bureau shall distribute such booklets to all lenders which make federally related mortgage loans."
 
-Pub. L. 111–203, §1098(3)(B), substituted “The Bureau shall prepare and distribute booklets jointly addressing compliance with the requirements of the Truth in Lending Act and the provisions of this chapter, in order to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services.” for “The Secretary shall prepare and distribute booklets to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services.”
+Pub. L. 111–203, §1098(3)(B), substituted "The Bureau shall prepare and distribute booklets jointly addressing compliance with the requirements of the Truth in Lending Act and the provisions of this chapter, in order to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services." for "The Secretary shall prepare and distribute booklets to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services."
 
 Subsec. (b). Pub. L. 111–203, §1450(2), added subsec. (b) and struck out former subsec. (b) which related to form and detail, cost elements, standard settlement form, escrow accounts, selection of persons for settlement services; and consideration of differences in settlement procedures.
 
-Subsec. (c). Pub. L. 111–203, §1450(3), inserted at end “Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to section 1701x(e) of this title and located in the area of the lender.”
+Subsec. (c). Pub. L. 111–203, §1450(3), inserted at end "Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to section 1701x(e) of this title and located in the area of the lender."
 
-Subsec. (d). Pub. L. 111–203, §1450(4), inserted “The lender shall provide the booklet in the version that is most appropriate for the person receiving it.” after the first sentence.
+Subsec. (d). Pub. L. 111–203, §1450(4), inserted "The lender shall provide the booklet in the version that is most appropriate for the person receiving it." after the first sentence.
 
-<b>1992</b>—Subsec. (d). Pub. L. 102–550 substituted “Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.” for “Such booklet shall be provided at the time of receipt or preparation of such application.”
+<b>1992</b>—Subsec. (d). Pub. L. 102–550 substituted "Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period." for "Such booklet shall be provided at the time of receipt or preparation of such application."
 
-<b>1976</b>—Subsecs. (c) to (e). Pub. L. 94–205 added subsec. (c), redesignated former subsec. (c) as (d), substituted “or for whom it prepares a written application” for “an application” and inserted “or preparation” after “receipt”, and redesignated former subsec. (d) as (e).
+<b>1976</b>—Subsecs. (c) to (e). Pub. L. 94–205 added subsec. (c), redesignated former subsec. (c) as (d), substituted "or for whom it prepares a written application" for "an application" and inserted "or preparation" after "receipt", and redesignated former subsec. (d) as (e).
 
 #### Effective Date of 2010 Amendment
 

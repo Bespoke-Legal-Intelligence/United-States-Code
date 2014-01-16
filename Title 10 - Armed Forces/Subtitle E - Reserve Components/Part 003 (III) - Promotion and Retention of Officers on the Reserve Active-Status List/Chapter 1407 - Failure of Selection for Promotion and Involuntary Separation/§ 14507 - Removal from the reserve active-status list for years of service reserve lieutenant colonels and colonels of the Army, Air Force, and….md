@@ -10,7 +10,7 @@ Colonels and Navy Captains.—Unless continued on the reserve active-status list
 
 (c)
 
-Temporary Authority To Retain Certain Officers Designated as Judge Advocates.—(1) Notwithstanding the provisions of subsections (a) and (b), the Secretary of the Air Force may retain on the reserve active-status list any reserve officer of the Air Force who is designated as a judge advocate and who obtained the first professional degree in law while on an educational delay program subsequent to being commissioned through the Reserve Officers’ Training Corps.
+Temporary Authority To Retain Certain Officers Designated as Judge Advocates.—(1) Notwithstanding the provisions of subsections (a) and (b), the Secretary of the Air Force may retain on the reserve active-status list any reserve officer of the Air Force who is designated as a judge advocate and who obtained the first professional degree in law while on an educational delay program subsequent to being commissioned through the Reserve Officers' Training Corps.
 
 (2) No more than 50 officers may be retained on the reserve active-status list under the authority of paragraph (1) at any time.
 
@@ -26,5 +26,5 @@ Temporary Authority To Retain Certain Officers Designated as Judge Advocates.—
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–201, div. A, title V, §508(b), Sept. 23, 1996, 110 Stat. 2513, provided that: “Subsection (c) of section 14507 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. A, title V, §508(b), Sept. 23, 1996, 110 Stat. 2513, provided that: "Subsection (c) of section 14507 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996."
 

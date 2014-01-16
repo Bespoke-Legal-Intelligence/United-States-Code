@@ -12,7 +12,7 @@ Activities eligible to receive assistance through the framework agreements enter
 
 #### (b) Regulation
 
-All activities of the type referred to in subsection (a) of this section shall, where appropriate, include initiatives that link conservationof natural resources with local community development.
+All activities of the type referred to in subsection (a) of this section shall, where appropriate, include initiatives that link conservation of natural resources with local community development.
 
 #### (c) Setting of priorities
 
@@ -40,5 +40,5 @@ The Global Environmental Protection Assistance Act of 1989, referred to in subse
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237 substituted “2281 et seq.);” for “462), and—”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237 substituted "2281 et seq.);" for "462), and—".
 

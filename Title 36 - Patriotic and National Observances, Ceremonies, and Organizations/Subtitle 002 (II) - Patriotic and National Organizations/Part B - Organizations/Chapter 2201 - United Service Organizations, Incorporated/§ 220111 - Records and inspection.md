@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 Dec. 29, 1979, Pub. L. 96–165, §9(d), 93 Stat. 1271.
 
-The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
+The word "records" is substituted for "books and records" for consistency in the revised title and with other titles of the United States Code.
 

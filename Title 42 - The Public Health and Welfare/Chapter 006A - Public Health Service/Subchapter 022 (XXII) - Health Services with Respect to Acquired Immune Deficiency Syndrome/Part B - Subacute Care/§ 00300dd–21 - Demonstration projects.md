@@ -4,9 +4,9 @@
 
 As used in this section:
 
-&emsp;(1) The term “individuals infected with the etiologic agent for acquired immune deficiency syndrome” means individuals who have a disease, or are recovering from a disease, attributable to the infection of such individuals with such etiologic agent, and as a result of the effects of such disease, are in need of subacute-care services.
+&emsp;(1) The term "individuals infected with the etiologic agent for acquired immune deficiency syndrome" means individuals who have a disease, or are recovering from a disease, attributable to the infection of such individuals with such etiologic agent, and as a result of the effects of such disease, are in need of subacute-care services.
 
-&emsp;(2) The term “subacute care” means medical and health care services that are required for individuals recovering from acute care episodes that are less intensive than the level of care provided in acute-care hospitals, and includes skilled nursing care, hospice care, and other types of health services provided in other long-term-care facilities.
+&emsp;(2) The term "subacute care" means medical and health care services that are required for individuals recovering from acute care episodes that are less intensive than the level of care provided in acute-care hospitals, and includes skilled nursing care, hospice care, and other types of health services provided in other long-term-care facilities.
 
 #### (b) Authorization to conduct three projects
 
@@ -22,7 +22,7 @@ The Secretary shall conduct three demonstration projects to determine the effect
 
 &emsp;&emsp;(ii) emergency medical care and specialized diagnostic and therapeutic services as needed and where appropriate, either directly or through affiliation with a hospital that has experience in treating individuals with acquired immune deficiency syndrome; and
 
-&emsp;&emsp;(iii) case management services to ensure, through existing services and programs whenever possible, appropriate discharge planning for such individuals; and
+&emsp;&emsp;(iii) case management services to ensure, through existing services and programswhenever possible, appropriate discharge planning for such individuals; and
 
 &emsp;(B) technical assistance, to other facilities in the region served by such facility, that is directed toward education and training of physicians, nurses, and other health-care professionals in the subacute care and treatment of individuals infected with the etiologic agent for acquired immune deficiency syndrome.
 
@@ -80,35 +80,35 @@ Each demonstration project shall provide for other research to be carried out at
 
 The Secretary shall enter into an agreement with the Secretary of the Department of Veterans Affairs to ensure that appropriate provision will be made for the furnishing, through demonstration projects, of services to eligible veterans, under contract with the Department of Veterans Affairs pursuant to section 1720 of title 38.
 
-(July 1, 1944, ch. 373, title XXIV, §2421, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102Stat. 3088; amended Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 100–690, title II, §2618(h), Nov. 18, 1988, 102 Stat. 4241; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406.)
+(July 1, 1944, ch. 373, title XXIV, §2421, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3088; amended Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 100–690, title II, §2618(h), Nov. 18, 1988, 102 Stat. 4241; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 
-<b>1991</b>—Subsec. (h). Pub. L. 102–83 substituted “section 1720 of title 38” for “section 620 of title 38”.
+<b>1991</b>—Subsec. (h). Pub. L. 102–83 substituted "section 1720 of title 38" for "section 620 of title 38".
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §2618(h)(1), substituted “ ‘individuals infected with the etiologic agent for acquired immune deficiency syndrome’ means individuals who” for “ ‘patients infected with the human immunodeficiency virus’ means persons who” and “such individuals with such etiologic agent” for “such person with the human immunodeficiency virus”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §2618(h)(1), substituted " 'individuals infected with the etiologic agent for acquired immune deficiency syndrome' means individuals who" for " 'patients infected with the human immunodeficiency virus' means persons who" and "such individuals with such etiologic agent" for "such person with the human immunodeficiency virus".
 
-Subsec. (a)(2). Pub. L. 100–690, §2618(h)(2), substituted “individuals” for “persons”.
+Subsec. (a)(2). Pub. L. 100–690, §2618(h)(2), substituted "individuals" for "persons".
 
-Subsec. (b). Pub. L. 100–690, §2618(h)(3), substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus” and “such individuals” for “such patients”.
+Subsec. (b). Pub. L. 100–690, §2618(h)(3), substituted "individuals infected with the etiologic agent for acquired immune deficiency syndrome" for "patients infected with the human immunodeficiency virus" and "such individuals" for "such patients".
 
-Subsec. (c)(1). Pub. L. 100–690, §2618(h)(4)(A), in introductory provisions substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
+Subsec. (c)(1). Pub. L. 100–690, §2618(h)(4)(A), in introductory provisions substituted "individuals infected with the etiologic agent for acquired immune deficiency syndrome" for "patients infected with the human immunodeficiency virus".
 
-Subsec. (c)(1)(A). Pub. L. 100–690, §2618(h)(4)(B), substituted in introductory provisions “such individuals” for “such patients”, in cl. (ii) “individuals with acquired immune deficiency syndrome” for “AIDS patients”, and in cl. (iii) “such individuals” for “patients”.
+Subsec. (c)(1)(A). Pub. L. 100–690, §2618(h)(4)(B), substituted in introductory provisions "such individuals" for "such patients", in cl. (ii) "individuals with acquired immune deficiency syndrome" for "AIDS patients", and in cl. (iii) "such individuals" for "patients".
 
-Subsec. (c)(1)(B), (2)(C). Pub. L. 100–690, §2618(h)(4)(C), (5), substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
+Subsec. (c)(1)(B), (2)(C). Pub. L. 100–690, §2618(h)(4)(C), (5), substituted "individuals infected with the etiologic agent for acquired immune deficiency syndrome" for "patients infected with the human immunodeficiency virus".
 
-Subsec. (d)(2)(B). Pub. L. 100–690, §2618(h)(6), substituted “cases of acquired immune deficiency syndrome” for “AIDS cases”.
+Subsec. (d)(2)(B). Pub. L. 100–690, §2618(h)(6), substituted "cases of acquired immune deficiency syndrome" for "AIDS cases".
 
-Subsec. (e)(2)(A). Pub. L. 100–690, §2618(h)(7), substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
+Subsec. (e)(2)(A). Pub. L. 100–690, §2618(h)(7), substituted "individuals infected with the etiologic agent for acquired immune deficiency syndrome" for "patients infected with the human immunodeficiency virus".
 
-Subsec. (f)(1). Pub. L. 100–690, §2618(h)(8), substituted “acquired immune deficiency syndrome” for “the acquired immunodeficiency syndrome” and “etiologic agent for such syndrome” for “human immunodeficiency virus”.
+Subsec. (f)(1). Pub. L. 100–690, §2618(h)(8), substituted "acquired immune deficiency syndrome" for "the acquired immunodeficiency syndrome" and "etiologic agent for such syndrome" for "human immunodeficiency virus".
 
-Subsec. (f)(2). Pub. L. 100–690, §2618(h)(9), substituted “such syndrome” for “the acquired immunodeficiency syndrome”.
+Subsec. (f)(2). Pub. L. 100–690, §2618(h)(9), substituted "such syndrome" for "the acquired immunodeficiency syndrome".
 
-Subsec. (g)(1). Pub. L. 100–690, §2618(h)(10), substituted “fiscal year 1989” for “fiscal year 1988” and “fiscal years 1990 through 1992” for “fiscal years 1989 through 1991”.
+Subsec. (g)(1). Pub. L. 100–690, §2618(h)(10), substituted "fiscal year 1989" for "fiscal year 1988" and "fiscalyears 1990 through 1992" for "fiscal years 1989 through 1991".
 
-Subsec. (h). Pub. L. 100–527 substituted “Secretary of the Department of Veterans Affairs” and “Department of Veterans Affairs” for “Administrator of the Veterans’ Administration” and “Veterans’ Administration”, respectively.
+Subsec. (h). Pub. L. 100–527 substituted "Secretary of the Department of Veterans Affairs" and "Department of Veterans Affairs" for "Administrator of the Veterans' Administration" and "Veterans' Administration", respectively.
 
 #### Change of Name
 
@@ -120,5 +120,5 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
 
-Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
 

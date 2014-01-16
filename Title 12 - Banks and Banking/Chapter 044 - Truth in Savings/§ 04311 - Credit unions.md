@@ -12,11 +12,11 @@ Within 90 days of the effective date of any regulation prescribed by the Bureau 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1100B(1), substituted “Bureau” for “Board”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1100B(1), substituted "Bureau" for "Board".
 
-Subsec. (b). Pub. L. 111–203, §1100B(3), substituted “regulation prescribed by the Bureau” for “regulation prescribed by the Board” in two places.
+Subsec. (b). Pub. L. 111–203, §1100B(3), substituted "regulation prescribed by the Bureau" for "regulation prescribed by the Board" in two places.
 
-<b>1992</b>—Pub. L. 102–550 made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
+<b>1992</b>—Pub. L. 102–550 made technical amendment to references to "this chapter" wherever appearing to reflect correction of corresponding provision of original act.
 
 #### Effective Date of 2010 Amendment
 

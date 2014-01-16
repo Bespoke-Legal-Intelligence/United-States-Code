@@ -2,7 +2,7 @@
 
 #### (a) Disposal of stocks
 
-To provide for the orderly disposition of quota tobacco held by an association that has entered into a loan agreement with the Commodity Credit Corporation under section 106A or 106B of the Agricultural Act of 1949 (7 U.S.C. 1445–1, 1445–2) (referred to in this section as an “association”), loan pool stocks for each kind of tobacco held by the association shall be disposed of in accordance with this section.
+To provide for the orderly disposition of quota tobacco held by an association that has entered into a loan agreement with the Commodity Credit Corporation under section 106A or 106B of the Agricultural Act of 1949 (7 U.S.C. 1445–1, 1445–2) (referred to in this section as an "association"), loan pool stocks for each kind of tobacco held by the association shall be disposed of in accordance with this section.
 
 #### (b) Disposal by associations
 
@@ -30,5 +30,5 @@ Any funds in the No Net Cost Tobacco Fund or the No Net Cost Tobacco Account of 
 
 #### References in Text
 
-Sections 106A and 106B of the Agricultural Act of 1949, referred to in text, were classified to sections1445–1 and 1445–2, respectively, of this title prior to repeal by Pub. L. 108–357, title VI, §612(a), Oct. 22, 2004, 118 Stat. 1523.
+Sections 106A and 106B of the Agricultural Act of 1949, referred to in text, were classified to sections 1445–1 and 1445–2, respectively, of this title prior to repeal by Pub. L. 108–357, title VI, §612(a), Oct. 22, 2004, 118 Stat. 1523.
 

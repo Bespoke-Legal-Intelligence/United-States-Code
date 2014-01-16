@@ -4,23 +4,23 @@ For purposes of this chapter—
 
 #### (1) Account
 
-&emsp;The term “account” means a demand deposit account or other similar transaction account at a depository institution.
+&emsp;The term "account" means a demand deposit account or other similar transaction account at a depository institution.
 
 #### (2) Board
 
-&emsp;The term “Board” means the Board of Governors of the Federal Reserve System.
+&emsp;The term "Board" means the Board of Governors of the Federal Reserve System.
 
 #### (3) Business day
 
-&emsp;The term “business day” means any day other than a Saturday, Sunday, or legal holiday.
+&emsp;The term "business day" means any day other than a Saturday, Sunday, or legal holiday.
 
 #### (4) Cash
 
-&emsp;The term “cash” means United States coins and currency, including Federal Reserve notes.
+&emsp;The term "cash" means United States coins and currency, including Federal Reserve notes.
 
 #### (5) Cashier's check
 
-&emsp;The term “cashier's check” means any check which—
+&emsp;The term "cashier's check" means any check which—
 
 &emsp;&emsp;(A) is drawn on a depository institution;
 
@@ -30,7 +30,7 @@ For purposes of this chapter—
 
 #### (6) Certified check
 
-&emsp;The term “certified check” means any check with respect to which a depository institution certifies that—
+&emsp;The term "certified check" means any check with respect to which a depository institution certifies that—
 
 &emsp;&emsp;(A) the signature on the check is genuine; and
 
@@ -42,35 +42,35 @@ For purposes of this chapter—
 
 #### (7) Check
 
-&emsp;The term “check” means any negotiable demand draft drawn on or payable through an office of a depository institution located in the United States. Such term does not include noncash items.
+&emsp;The term "check" means any negotiable demand draft drawn on or payable through an office of a depository institution located in the United States. Such term does not include noncash items.
 
 #### (8) Check clearinghouse association
 
-&emsp;The term “check clearinghouse association” means any arrangement by which participant depository institutions exchange deposited checks on a local basis, including an entire metropolitan area, without using the check processing facilities of the Federal Reserve System.
+&emsp;The term "check clearinghouse association" means any arrangement by which participant depository institutions exchange deposited checks on a local basis, including an entire metropolitan area, without using the check processing facilities of the Federal Reserve System.
 
 #### (9) Check processing region
 
-&emsp;The term “check processing region” means the geographical area served by a Federal Reserve bank check processing center or such larger area as the Board may prescribe by regulations.
+&emsp;The term "check processing region" means the geographical area served by a Federal Reserve bank check processing center or such larger area as the Board may prescribe by regulations.
 
 #### (10) Consumer account
 
-&emsp;The term “consumer account” means any account used primarily for personal, family, or household purposes.
+&emsp;The term "consumer account" means any account used primarily for personal, family, or household purposes.
 
 #### (11) Depository check
 
-&emsp;The term “depository check” means any cashier's check, certified check, teller's check, and any other functionally equivalent instrument as determined by the Board.
+&emsp;The term "depository check" means any cashier's check, certified check, teller's check, and any other functionally equivalent instrument as determined by the Board.
 
 #### (12) Depository institution
 
-&emsp;The term “depository institution” has the meaning given such term in clauses (i) through (vi) of section 461(b)(1)(A) of this title. Such term also includes an office, branch, or agency of a foreign bank located in the United States.
+&emsp;The term "depository institution" has the meaning given such term in clauses (i) through (vi) of section 461(b)(1)(A) of this title. Such term also includes an office, branch, or agency of a foreign bank located in the United States.
 
 #### (13) Local originating depository institution
 
-&emsp;The term “local originating depository institution” means any originating depository institution which is located in the same check processing region as the receiving depository institution.
+&emsp;The term "local originating depository institution" means any originating depository institution which is located in the same check processing region as the receiving depository institution.
 
 #### (14) Noncash item
 
-&emsp;The term “noncash item” means—
+&emsp;The term "noncash item" means—
 
 &emsp;&emsp;(A) a check or other demand item to which a passbook, certificate, or other document is attached;
 
@@ -80,11 +80,11 @@ For purposes of this chapter—
 
 #### (15) Nonlocal originating depository institution
 
-&emsp;The term “nonlocal originating depository institution” means any originating depository institution which is not a local depository institution.
+&emsp;The term "nonlocal originating depository institution" means any originating depository institution which is not a local depository institution.
 
 #### (16) Proprietary ATM
 
-&emsp;The term “proprietary ATM” means an automated teller machine which is—
+&emsp;The term "proprietary ATM" means an automated teller machine which is—
 
 &emsp;&emsp;(A) located—
 
@@ -96,15 +96,15 @@ For purposes of this chapter—
 
 #### (17) Originating depository institution
 
-&emsp;The term “originating depository institution” means the branch of a depository institution on which a check is drawn.
+&emsp;The term "originating depository institution" means the branch of a depository institution on which a check is drawn.
 
 #### (18) Nonproprietary ATM
 
-&emsp;The term “nonproprietary ATM” means an automated teller machine which is not a proprietary ATM.
+&emsp;The term "nonproprietary ATM" means an automated teller machine which is not a proprietary ATM.
 
 #### (19) Participant
 
-&emsp;The term “participant” means a depository institution which—
+&emsp;The term "participant" means a depository institution which—
 
 &emsp;&emsp;(A) is located in the same geographic area as that served by a check clearinghouse association; and
 
@@ -112,49 +112,49 @@ For purposes of this chapter—
 
 #### (20) Receiving depository institution
 
-&emsp;The term “receiving depository institution” means the branch of a depository institution or the proprietary ATM in which a check is first deposited.
+&emsp;The term "receiving depository institution" means the branch of a depository institution or the proprietary ATM in which a check is first deposited.
 
 #### (21) State
 
-&emsp;The term “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, or the Virgin Islands.
+&emsp;The term "State" means any State, the District of Columbia, the Commonwealth of Puerto Rico, or the Virgin Islands.
 
 #### (22) Teller's check
 
-&emsp;The term “teller's check” means any check issued by a depository institution and drawn on another depository institution.
+&emsp;The term "teller's check" means any check issued by a depository institution and drawn on another depository institution.
 
 #### (23) United States
 
-&emsp;The term “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the Virgin Islands.
+&emsp;The term "United States" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the Virgin Islands.
 
 #### (24) Unit of general local government
 
-&emsp;The term “unit of general local government” means any city, county, town, township, parish, village, or other general purpose political subdivision of a State.
+&emsp;The term "unit of general local government" means any city, county, town, township, parish, village, or other general purpose political subdivision of a State.
 
 #### (25) Wire transfer
 
-&emsp;The term “wire transfer” has such meaning as the Board shall prescribe by regulations.
+&emsp;The term "wire transfer" has such meaning as the Board shall prescribe by regulations.
 
 (Pub. L. 100–86, title VI, §602, Aug. 10, 1987, 101 Stat. 635.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title VI of Pub. L. 100–86, Aug. 10, 1987, 101 Stat. 635, known as the Expedited Funds Availability Act, which enacted this chapter, amended section 248a of this title, and enacted provisions set out as notes under sections 248a and 4001 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title VI of Pub. L. 100–86, Aug. 10, 1987, 101 Stat. 635, known as the Expedited Funds Availability Act, which enacted this chapter, amended section 248a of this title, and enacted provisions set out as notes under sections 248a and 4001 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Effective Date
 
 Pub. L. 100–86, title VI, §613, Aug. 10, 1987, 101 Stat. 652, provided that:
 
-“(a)
+"(a)
 
 Date of Enactment.—Except as provided in subsection (b), this title \[enacting this chapter, amending section 248a of this title, and enacting provisions set out as notes under this section and section 248a of this title\] shall take effect on the date of the enactment of this title \[Aug. 10, 1987\].
 
-“(b) 1
+"(b) 1
 
-Year After Date of Enactment.—Sections 603, 604, 605, 606, 610, and 611 \[enacting sections 4002 to 4005, 4009, and 4010 of this title\] shall take effect on September 1, 1988.”
+Year After Date of Enactment.—Sections 603, 604, 605, 606, 610, and 611 \[enacting sections 4002 to 4005, 4009, and 4010 of this title\] shall take effect on September 1, 1988."
 
 #### Short Title
 
-Pub. L. 100–86, title VI, §601, Aug. 10, 1987, 101 Stat. 635, provided that: “This title \[enacting this chapter, amending section 248a of this title, and enacting provisions set out as notes under this section and section 248a of this title\] may be cited as the ‘Expedited Funds Availability Act’.”
+Pub. L. 100–86, title VI, §601, Aug. 10, 1987, 101 Stat. 635, provided that: "This title \[enacting this chapter, amending section 248a of this title, and enacting provisions set out as notes under this section and section 248a of this title\] may be cited as the 'Expedited Funds Availability Act'."
 
 #### Separability
 

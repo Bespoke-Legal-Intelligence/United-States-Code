@@ -6,21 +6,21 @@ In addition to other taxes imposed by this chapter, there is hereby imposed for 
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–240 substituted “20 percent” for “15 percent”.
+<b>2013</b>—Pub. L. 112–240 substituted "20 percent" for "15 percent".
 
-<b>2003</b>—Pub. L. 108–27 substituted “equal to 15 percent of the undistributed personal holding company income.” for “equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income.”
+<b>2003</b>—Pub. L. 108–27 substituted "equal to 15 percent of the undistributed personal holding company income." for "equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income."
 
-<b>2001</b>—Pub. L. 107–16 substituted “equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income.” for “equal to 39.6 percent of the undistributed personal holding company income.”
+<b>2001</b>—Pub. L. 107–16 substituted "equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income." for "equal to 39.6 percent of the undistributed personal holding company income."
 
-<b>1993</b>—Pub. L. 103–66, §13202(b), substituted “39.6 percent” for “36 percent”.
+<b>1993</b>—Pub. L. 103–66, §13202(b), substituted "39.6 percent" for "36 percent".
 
-Pub. L. 103–66, §13201(b)(2), substituted “36 percent” for “28 percent”.
+Pub. L. 103–66, §13201(b)(2), substituted "36 percent" for "28 percent".
 
-<b>1990</b>—Pub. L. 101–508 struck out “(38.5 percent in the case of taxable years beginning in 1987)” after “28 percent”.
+<b>1990</b>—Pub. L. 101–508 struck out "(38.5 percent in the case of taxable years beginning in 1987)" after "28 percent".
 
-<b>1986</b>—Pub. L. 99–514 substituted “28 percent (38.5 percent in the case of taxable years beginning in 1987)” for “50 percent”.
+<b>1986</b>—Pub. L. 99–514 substituted "28 percent (38.5 percent in the case of taxable years beginning in 1987)" for "50 percent".
 
-<b>1981</b>—Pub. L. 97–34 substituted “50 percent” for “70 percent”.
+<b>1981</b>—Pub. L. 97–34 substituted "50 percent" for "70 percent".
 
 <b>1964</b>—Pub. L. 88–272 reduced the tax from 75 percent of undistributed income not in excess of $2,000, and 85 percent when in excess of $2,000, to 70 percent.
 

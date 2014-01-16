@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary may compromise any civil or criminal case arising under the internal revenuelaws prior to reference to the Department of Justice for prosecution or defense; and the Attorney General or his delegate may compromise any such case after reference to the Department of Justice for prosecution or defense.
+The Secretary may compromise any civil or criminal case arising under the internal revenue laws prior to reference to the Department of Justice for prosecution or defense; and the Attorney General or his delegate may compromise any such case after reference to the Department of Justice for prosecution or defense.
 
 #### (b) Record
 
@@ -28,7 +28,7 @@ Whenever a compromise is made by the Secretary in any case, there shall be place
 
 #### (ii) Lump-sum offer-in-compromise
 
-&emsp;&emsp;&emsp;For purposes of this section, the term “lump-sum offer-in-compromise” means any offer of payments made in 5 or fewer installments.
+&emsp;&emsp;&emsp;For purposes of this section, the term "lump-sum offer-in-compromise" means any offer of payments made in 5 or fewer installments.
 
 #### (B) Periodic payment offers
 
@@ -64,7 +64,7 @@ Whenever a compromise is made by the Secretary in any case, there shall be place
 
 #### (A) In general
 
-&emsp;&emsp;In prescribing guidelines under paragraph (1), the Secretary shall develop and publish schedules of national and local allowances designed to provide that taxpayers entering into a compromise have an adequate means to provide for basic living expenses.
+&emsp;&emsp;In prescribing guidelines under paragraph (1), the Secretary shall develop and publishschedules of national and local allowances designed to provide that taxpayers entering into a compromise have an adequate means to provide for basic living expenses.
 
 #### (B) Use of schedules
 
@@ -120,9 +120,9 @@ Pub. L. 109–222, §509(b)(2), added subsec. (f) relating to deemed acceptance 
 
 Subsec. (d). Pub. L. 105–206, §3462(c)(1), added subsec. (d).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–168 substituted “$50,000. However, such compromise shall be subject to continuing quality review by the Secretary.” for “$500.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–168 substituted "$50,000. However, such compromise shall be subject to continuing quality review by the Secretary." for "$500."
 
-<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 2006 Amendment
 
@@ -136,17 +136,17 @@ Amendment by Pub. L. 105–206 applicable to proposed offers-in-compromise and i
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–168, title V, §503(b), July 30, 1996, 110 Stat. 1461, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title V, §503(b), July 30, 1996, 110 Stat. 1461, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\]."
 
 #### Preparation of Statement Relating to Offers-in-Compromise
 
-Pub. L. 105–206, title III, §3462(d), July 22, 1998, 112 Stat. 766, provided that: “The Secretary of the Treasury shall prepare a statement which sets forth in simple, nontechnical terms the rights of a taxpayer and the obligations of the Internal Revenue Service relating to offers-in-compromise. Such statement shall—
+Pub. L. 105–206, title III, §3462(d), July 22, 1998, 112 Stat. 766, provided that: "The Secretary of the Treasury shall prepare a statement which sets forth in simple, nontechnical terms the rights of a taxpayer and the obligations of the Internal Revenue Service relating to offers-in-compromise. Such statement shall—
 
-&emsp;“(1) advise taxpayers who have entered into a compromise of the advantages of promptly notifying the Internal Revenue Service of any change of address or marital status;
+&emsp;"(1) advise taxpayers who have entered into a compromise of the advantages of promptly notifying the Internal Revenue Service of any change of address or marital status;
 
-&emsp;“(2) provide notice to taxpayers that in the case of a compromise terminated due to the actions of one spouse or former spouse, the Internal Revenue Service will, upon application, reinstate such compromise with the spouse or former spouse who remains in compliance with such compromise; and
+&emsp;"(2) provide notice to taxpayers that in the case of a compromise terminated due to the actions of one spouse or former spouse, the Internal Revenue Service will, upon application, reinstate such compromise with the spouse or former spouse who remains in compliance with such compromise; and
 
-&emsp;“(3) provide notice to the taxpayer that the taxpayer may appeal the rejection of an offer-in-compromise to the Internal Revenue Service Office of Appeals.”
+&emsp;"(3) provide notice to the taxpayer that the taxpayer may appeal the rejection of an offer-in-compromise to the Internal Revenue Service Office of Appeals."
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (f) have been enacted.</i>
 

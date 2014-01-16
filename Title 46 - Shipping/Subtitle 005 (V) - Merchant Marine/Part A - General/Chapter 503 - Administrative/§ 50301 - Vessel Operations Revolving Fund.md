@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—There is a “Vessel Operations Revolving Fund” for use by the Secretary of Transportation in carrying out duties and powers related to vessel operations, including charter, operation, maintenance, repair, reconditioning, and improvement of merchant vessels under the jurisdiction of the Secretary. The Fund has a working capital of $20,000,000, to remain available until expended.
+In General.—There is a "Vessel Operations Revolving Fund" for use by the Secretary of Transportation in carrying out duties and powers related to vessel operations, including charter, operation, maintenance, repair, reconditioning, and improvement of merchant vessels under the jurisdiction of the Secretary. The Fund has a working capital of $20,000,000, to remain available until expended.
 
 (b)
 
@@ -10,7 +10,7 @@ Relationship to Other Laws.—Notwithstanding any other law, rates for shipping 
 
 (c)
 
-Advancements.—With the approval of the Director of the Office of Management and Budget, the Secretary may advance amounts the Secretary considers necessary, but not more than 2 percent of vessel operating expenses, from the Fund to the appropriation “Salaries and Expenses” in carrying out duties and powers related to vessel operations, without regard to the limitations on amounts stated in that appropriation.
+Advancements.—With the approval of the Director of the Office of Management and Budget, the Secretary may advance amounts the Secretary considers necessary, but not more than 2 percent of vessel operating expenses, from the Fund to the appropriation "Salaries and Expenses" in carrying out duties and powers related to vessel operations, without regard to the limitations on amounts stated in that appropriation.
 
 (d)
 
@@ -70,7 +70,7 @@ Historical and Revision Notes
 
 46 App.:1241a (1st sentence).
 
-June 2, 1951, ch. 121 (pars. under heading “Vessel Operations Revolving Fund”), 65 Stat. 59; Pub. L. 97–31, §12(128), Aug. 6, 1981, 95 Stat. 165; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.
+June 2, 1951, ch. 121 (pars. under heading "Vessel Operations Revolving Fund"), 65 Stat. 59; Pub. L. 97–31, §12(128), Aug. 6, 1981, 95 Stat. 165; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.
 
 50301(b)
 
@@ -104,13 +104,13 @@ June 20, 1956, ch. 415, title I, §101 (4th complete par. on p. 319), 70 Stat. 3
 
 Aug. 1, 1956, ch. 846, 70 Stat. 897; Pub. L. 97–31, §12(130), Aug. 6, 1981, 95 Stat. 165.
 
-In subsection (c), the words “Director of the Office of Management and Budget” are substituted for “Bureau of the Budget” in the Act of June 2, 1951 (ch. 121, 65 Stat. 59), because of sections 101 and 102 of Reorganization Plan No. 2 of 1970 (5 App. U.S.C.) and 31 U.S.C. ch. 5. The words “for the purposes of that appropriation” are omitted for clarity and for consistency in the subsection.
+In subsection (c), the words "Director of the Office of Management and Budget" are substituted for "Bureau of the Budget" in the Act of June 2, 1951 (ch. 121, 65 Stat. 59), because of sections 101 and 102 of Reorganization Plan No. 2 of 1970 (5 App. U.S.C.) and 31 U.S.C. ch. 5. The words "for the purposes of that appropriation" are omitted for clarity and for consistency in the subsection.
 
-In subsection (d), the words “notwithstanding any other provisions of law” and “and consolidated with” are omitted as unnecessary.
+In subsection (d), the words "notwithstanding any other provisions of law" and "and consolidated with" are omitted as unnecessary.
 
-In subsection (e), in paragraph (1), the words “Comptroller General” are substituted for “Government Accountability Office” for consistency in the revised title. Paragraph (3) is substituted for “(except in cases where section 1212 of this Appendix is applicable)” because section 1212 applies to all vessels under a construction-differential subsidy contract.
+In subsection (e), in paragraph (1), the words "Comptroller General" are substituted for "Government Accountability Office" for consistency in the revised title. Paragraph (3) is substituted for "(except in cases where section 1212 of this Appendix is applicable)" because section 1212 applies to all vessels under a construction-differential subsidy contract.
 
-In subsection (f), the words “On and after June 20, 1956”, and the last proviso in the 4th complete par. at 70 Stat. 319 (46 App. U.S.C. 1241b note), are omitted as obsolete.
+In subsection (f), the words "On and after June 20, 1956", and the last proviso in the 4th complete par. at 70 Stat. 319 (46 App. U.S.C. 1241b note), are omitted as obsolete.
 
-In subsection (g), the words “beginning July 1, 1956” and “after July 1, 1956” are omitted as obsolete.
+In subsection (g), the words "beginning July 1, 1956" and "after July 1, 1956" are omitted as obsolete.
 

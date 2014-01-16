@@ -10,23 +10,23 @@
 
 #### Amendments
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–65 struck out “regular” before “officer”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 struck out "regular" before "officer".
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–261 added subsec. (c).
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–337 inserted “or reserve” after “any regular” and “or 1411” after “chapter 60”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–337 inserted "or reserve" after "any regular" and "or 1411" after "chapter 60".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–484 substituted “section 615(b)” for “section 615(a)”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–484 substituted "section 615(b)" for "section 615(a)".
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–456 inserted “(as noted in the guidelines or information furnished the board under section 615(a) of this title)” after “concerned”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–456 inserted "(as noted in the guidelines or information furnished the board under section 615(a) of this title)" after "concerned".
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title V, §503(b), Oct. 5, 1999, 113 Stat. 590, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to boards convened under section 611(a) of title 10, United States Code, on or after the date of the enactment of this Act \[Oct. 5, 1999\].”
+Pub. L. 106–65, div. A, title V, §503(b), Oct. 5, 1999, 113 Stat. 590, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to boards convened under section 611(a) of title 10, United States Code, on or after the date of the enactment of this Act \[Oct. 5, 1999\]."
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title V, §502(c), Oct. 17, 1998, 112 Stat. 2003, provided that: “The amendments made by this section \[amending this section and section 1174 of this title\] shall apply with respect to selectionboards convened under section 611(a) of title 10, United States Code, on or after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title V, §502(c), Oct. 17, 1998, 112 Stat. 2003, provided that: "The amendments made by this section \[amending this section and section 1174 of this title\] shall apply with respect to selection boards convened under section 611(a) of title 10, United States Code, on or after the date of the enactment of this Act \[Oct. 17, 1998\]."
 
 #### Effective Date of 1994 Amendment
 

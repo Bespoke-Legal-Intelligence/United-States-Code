@@ -16,11 +16,11 @@ If real property is declared purchased by the United States at a sale pursuant t
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–719 struck out provisions requiring the endorsement of approval as to the form of the deed by the United States Attorney for the district in which the property is situated.
 
-<b>1958</b>—Subsec. (c). Pub. L. 85–866 struck out “district” before “attorney”.
+<b>1958</b>—Subsec. (c). Pub. L. 85–866 struck out "district" before "attorney".
 
 #### Effective Date of 1966 Amendment
 

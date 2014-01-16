@@ -44,7 +44,7 @@
 
 &emsp;(B) a pro rata share of 100 percent if such former spouse was not married to the participant throughout such creditable service.
 
-(3) A former spouse shall not be qualified for any benefit under this subsection if, before the commencement of any benefit, the former spouse remarries before becoming 55 years of age.
+(3) A former spouse shall not be qualified for any benefit under this subsection if, before thecommencement of any benefit, the former spouse remarries before becoming 55 years of age.
 
 #### (c) Diminution of entitlement of former spouse prohibited
 
@@ -62,7 +62,7 @@ If a participant dies after completing at least 18 months of service or a former
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(4)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a)(4)(A). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Subsec. (b)(3). Pub. L. 99–556 added par. (3).
 

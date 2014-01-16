@@ -88,7 +88,7 @@ Nothing in this subchapter—
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(1), (2). Pub. L. 107–171, §6026(c)(1), substituted “section 2009d(f) of this title” for “section 2009d(g) of this title”.
+<b>2002</b>—Subsec. (a)(1), (2). Pub. L. 107–171, §6026(c)(1), substituted "section 2009d(f) of this title" for "section 2009d(g) of this title".
 
-Subsec. (b)(1). Pub. L. 107–171, §6026(c)(2), substituted “section 2009d(g) of this title” for “section 2009d(h) of this title”.
+Subsec. (b)(1). Pub. L. 107–171, §6026(c)(2), substituted "section 2009d(g) of this title" for "section 2009d(h) of this title".
 

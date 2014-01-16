@@ -50,7 +50,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (3) Other fees imposed by the creditor
 
-&emsp;An itemization of any fees imposed by the creditor in connection with the availability or use of credit under such plan, including annual fees, application fees, transaction fees, and closing costs (including costs commonly described as “points”), and the time when such fees are payable.
+&emsp;An itemization of any fees imposed by the creditor in connection with the availability or use of credit under such plan, including annual fees, application fees, transaction fees, and closing costs (including costs commonly described as "points"), and the time when such fees are payable.
 
 #### (4) Estimates of fees which may be imposed by third parties
 
@@ -172,11 +172,11 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (A) In general
 
-&emsp;&emsp;The disclosures required under subsection (a) of this section with respect to any open end consumer credit plan which provides for any extension of credit which is secured by the consumer's principal dwelling and the pamphlet required under subsection (e) ofthis section shall be provided to any consumer at the time the creditor distributes an application to establish an account under such plan to such consumer.
+&emsp;&emsp;The disclosures required under subsection (a) of this section with respect to any open end consumer credit plan which provides for any extension of credit which is secured by the consumer's principal dwelling and the pamphlet required under subsection (e) of this section shall be provided to any consumer at the time the creditor distributes an application to establish an account under such plan to such consumer.
 
 #### (B) Telephone, publications, and third party applications
 
-&emsp;&emsp;In the case of telephone applications, applications contained in magazines or other publications, or applications provided by a third party, the disclosures required under subsection (a) of this section and the pamphlet required under subsection (e) of this section shall be provided by the creditor before the end of the 3-day period beginning on the date the creditor receives a completed application from a consumer.
+&emsp;&emsp;In the case of telephone applications, applications contained in magazines or other publications, or applications provided by a third party, the disclosures required under subsection (a) of this section and the pamphlet required under subsection (e) of thissection shall be provided by the creditor before the end of the 3-day period beginning on the date the creditor receives a completed application from a consumer.
 
 #### (2) Form
 
@@ -212,9 +212,9 @@ In the case of an application to open an account under any open end consumer cre
 
 &emsp;(2) if such person cannot provide specific terms about the plan because specific information about the plan terms is not available, no nonrefundable fee may be imposed in connection with such application before the end of the 3-day period beginning on the date the consumer receives the disclosures required under subsection (a) of this section with respect to the application.
 
-#### (d) “Principal dwelling” defined
+#### (d) "Principal dwelling" defined
 
-For purposes of this section and sections 1647 and 1665b of this title, the term “principal dwelling” includes any second or vacation home of the consumer.
+For purposes of this section and sections 1647 and 1665b of this title, the term "principal dwelling" includes any second or vacation home of the consumer.
 
 #### (e) Pamphlet
 
@@ -232,9 +232,9 @@ Section 4 of the Home Equity Loan Consumer Protection Act of 1988, referred to i
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a)(14), (b)(2)(B), (e). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Subsecs. (a)(14), (b)(2)(B), (e). Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
-<b>2005</b>—Subsec. (a)(13). Pub. L. 109–8 substituted “tax deductibility” for “consultation of tax advisor” in heading, designated existing provisions as introductory provisions and subpar. (A), inserted dash, substituted “; and” for period at end of subpar. (A), and added subpar. (B).
+<b>2005</b>—Subsec. (a)(13). Pub. L. 109–8 substituted "tax deductibility" for "consultation of tax advisor" in heading, designated existing provisions as introductory provisions and subpar. (A), inserted dash, substituted "; and" for period at end of subpar. (A), and added subpar. (B).
 
 #### Effective Date of 2010 Amendment
 
@@ -252,45 +252,45 @@ For effective date of section, see Regulations; Effective Date note below.
 
 Pub. L. 109–8, title XIII, §1302(c), Apr. 20, 2005, 119 Stat. 209, provided that:
 
-“(1)
+"(1)
 
 In general.—The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the amendments made by this section \[amending this section and sections 1638, 1664, and 1665b of this title\].
 
-“(2)
+"(2)
 
 Effective date.—Regulations issued under paragraph (1) shall not take effect until the later of—
 
-&emsp;“(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
+&emsp;"(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
 
-&emsp;“(B) 12 months after the date of publication of such final regulations by the Board.”
+&emsp;"(B) 12 months after the date of publication of such final regulations by the Board."
 
 #### Regulations; Effective Date
 
 Pub. L. 100–709, §7, Nov. 23, 1988, 102 Stat. 4734, provided that:
 
-“(a)
+"(a)
 
 Regulations.—Before the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 23, 1988\], the Board of Governors of the Federal Reserve System shall prescribe such regulations as may be necessary to carry out the proposes \[sic\] of the amendments made by this Act \[enacting this section and sections 1647 and 1665b of this title, amending sections 1632 and 1637 of this title, and enacting provisions set out as notes under this section and section 1601 of this title\].
 
-“(b)
+"(b)
 
 Effective Date.—The amendments made by this Act, and the regulations prescribed pursuant to subsection (a) with respect to such amendments, shall apply to—
 
-&emsp;“(1) any agreement to open an account under an open end consumer credit plan under which extensions of credit are secured by a consumer's principal dwelling which is entered into after the end of the 5-month period beginning on the date on which the regulations prescribed under subsection (a) become final; and
+&emsp;"(1) any agreement to open an account under an open end consumer credit plan under which extensions of credit are secured by a consumer's principal dwelling which is entered into after the end of the 5-month period beginning on the date on which the regulations prescribed under subsection (a) become final; and
 
-&emsp;“(2) any application to open such an account which is distributed by, or received by a creditor, after the end of such 5-month period.
+&emsp;"(2) any application to open such an account which is distributed by, or received by a creditor, after the end of such 5-month period.
 
-“(c)
+"(c)
 
-Voluntary Compliance.—Notwithstanding subsection (b), any creditor may comply with the amendments made by this Act, in accordance with the regulations prescribed by the Board, before the effective date established under such subsection.”
+Voluntary Compliance.—Notwithstanding subsection (b), any creditor may comply with the amendments made by this Act, in accordance with the regulations prescribed by the Board, before the effective date established under such subsection."
 
 #### Consumer Education
 
-Pub. L. 100–709, §4, Nov. 23, 1988, 102 Stat. 4733, provided that: “The Board of Governors of the Federal Reserve System shall develop and prepare a pamphlet for distribution to consumers which contains—
+Pub. L. 100–709, §4, Nov. 23, 1988, 102 Stat. 4733, provided that: "The Board of Governors of the Federal Reserve System shall develop and prepare a pamphlet for distribution to consumers which contains—
 
-&emsp;“(1) a general description of open end consumer credit plans secured by the consumer's principal dwelling and the terms and conditions under which such loans are generally extended; and
+&emsp;"(1) a general description of open end consumer credit plans secured by the consumer's principal dwelling and the terms and conditions under which such loans are generally extended; and
 
-&emsp;“(2) a discussion of the potential advantages and disadvantages of such plans, including how to compare among home equity plans and between home equity and closed end credit plans.”
+&emsp;"(2) a discussion of the potential advantages and disadvantages of such plans, including how to compare among home equity plans and between home equity and closed end credit plans."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “Loan”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "Loan".</i>
 

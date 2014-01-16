@@ -32,7 +32,7 @@ Exceptions.—(A) An application shall not be published if that application is�
 
 &emsp;(ii) An applicant may rescind a request made under clause (i) at any time.
 
-&emsp;(iii) An applicant who has made a request under clause (i) but who subsequently files, in a foreign country or under a multilateral international agreement specified in clause (i), an application directed to the invention disclosed in the application filed in the Patent and Trademark Office, shall notify the Director of such filing not later than 45 days after the date of the filing of such foreign or international application. A failure of the applicant to provide such notice within the prescribed period shall result in the application being regarded as abandoned, unless it is shown to the satisfaction of the Director that the delay in submitting the notice was unintentional.
+&emsp;(iii) An applicant who has made a request under clause (i) but who subsequently files, in a foreign country or under a multilateral international agreement specified in clause (i), an application directed to the invention disclosed in the application filed in the Patent and Trademark Office, shall notify the Director of such filing not later than 45 days after the date of the filing of such foreign or international application. A failure of the applicant to provide such notice within the prescribed period shall result in the application being regarded as abandoned.
 
 &emsp;(iv) If an applicant rescinds a request made under clause (i) or notifies the Director that an application was filed in a foreign country or under a multilateral international agreement specified in clause (i), the application shall be published in accordance with the provisions of paragraph (1) on or as soon as is practical after the date that is specified in clause (i).
 
@@ -40,7 +40,7 @@ Exceptions.—(A) An application shall not be published if that application is�
 
 (c)
 
-Protest and Pre-Issuance Opposition.—The Director shall establish appropriate procedures to ensure that no protest or other form of pre-issuance opposition to the grant of a patenton an application may be initiated after publication of the application without the express written consent of the applicant.
+Protest and Pre-Issuance Opposition.—The Director shall establish appropriate procedures to ensure that no protest or other form of pre-issuance opposition to the grant of a patent on an application may be initiated after publication of the application without the express written consent of the applicant.
 
 (d)
 
@@ -74,31 +74,27 @@ Other requirements.—Any submission under paragraph (1) shall—
 
 (July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4502(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–561; Pub. L. 112–29, §§8(a), 20(j), Sept. 16, 2011, 125 Stat. 315, 335; Pub. L. 112–211, title II, §202(b)(4), Dec. 18, 2012, 126 Stat. 1536.)
 
-#### Amendment of Subsection (b)(2)(B)(iii)
-
-<i>Pub. L. 112–211, title II, §§202(b)(4), 203, Dec. 18, 2012, 126 Stat. 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, subsection (b)(2)(B)(iii) of this section is amended in the second sentence by striking “, unless it is shown” and all that follows through “unintentional”. See 2012 Amendment note below.</i>
-
 #### Historical and Revision Notes
 
 This section enacts the Patent Office rule of secrecy of applications.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(2)(B)(iii). Pub. L. 112–211 struck out “, unless it is shown to the satisfaction of the Director that the delay in submitting the notice was unintentional” after “regarded as abandoned”.
+<b>2012</b>—Subsec. (b)(2)(B)(iii). Pub. L. 112–211 struck out ", unless it is shown to the satisfaction of the Director that the delay in submitting the notice was unintentional" after "regarded as abandoned".
 
-<b>2011</b>—Subsec. (b)(2)(A)(ii). Pub. L. 112–29, §20(j), struck out “of this title” after “181”.
+<b>2011</b>—Subsec. (b)(2)(A)(ii). Pub. L. 112–29, §20(j), struck out "of this title" after "181".
 
-Subsec. (b)(2)(A)(iii). Pub. L. 112–29, §20(j), struck out “of this title” after “111(b)”.
+Subsec. (b)(2)(A)(iii). Pub. L. 112–29, §20(j), struck out "of this title" after "111(b)".
 
-Subsec. (b)(2)(A)(iv). Pub. L. 112–29, §20(j), struck out “of this title” after “16”.
+Subsec. (b)(2)(A)(iv). Pub. L. 112–29, §20(j), struck out "of this title" after "16".
 
-Subsec. (d). Pub. L. 112–29, §20(j), struck out “of this title” after “17”.
+Subsec. (d). Pub. L. 112–29, §20(j), struck out "of this title" after "17".
 
 Subsec. (e). Pub. L. 112–29, §8(a), added subsec. (e).
 
-<b>1999</b>—Pub. L. 106–113 amended section catchline and text generally. Prior to amendment, text read as follows: “Applications for patents shall be kept in confidence by the Patent and Trademark Office and no information concerning the same given without authority of the applicant or owner unless necessary to carry out the provisions of any Act of Congress or in such special circumstances as may be determined by the Commissioner.”
+<b>1999</b>—Pub. L. 106–113 amended section catchline and text generally. Prior to amendment, text read as follows: "Applications for patents shall be kept in confidence by the Patent and Trademark Office and no information concerning the same given without authority of the applicant or owner unless necessary to carry out the provisions of any Act of Congress or in such special circumstances as may be determined by the Commissioner."
 
-<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 2012 Amendment
 
@@ -106,7 +102,7 @@ Amendment by Pub. L. 112–211 effective on the date that is 1 year after Dec. 1
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–29, §8(b), Sept. 16, 2011, 125 Stat. 316, provided that: “The amendments made by this section \[amending this section\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent application filed before, on, or after that effective date.”
+Pub. L. 112–29, §8(b), Sept. 16, 2011, 125 Stat. 316, provided that: "The amendments made by this section \[amending this section\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent application filed before, on, or after that effective date."
 
 Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
@@ -122,21 +118,21 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4502(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–562, provided that:
 
-“(1)
+"(1)
 
 In general.—The Comptroller General shall conduct a 3-year study of the applicants who file only in the United States on or after the effective date of this subtitle \[see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 10 of this title\] and shall provide the results of such study to the Judiciary Committees of the House of Representatives and the Senate.
 
-“(2)
+"(2)
 
 Contents.—The study conducted under paragraph (1) shall—
 
-&emsp;“(A) consider the number of such applicants in relation to the number of applicants who file in the United States and outside of the United States;
+&emsp;"(A) consider the number of such applicants in relation to the number of applicants who file in the United States and outside of the United States;
 
-&emsp;“(B) examine how many domestic-only filers request at the time of filing not to be published;
+&emsp;"(B) examine how many domestic-only filers request at the time of filing not to be published;
 
-&emsp;“(C) examine how many such filers rescind that request or later choose to file abroad;
+&emsp;"(C) examine how many such filers rescind that request or later choose to file abroad;
 
-&emsp;“(D) examine the status of the entity seeking an application and any correlation that may exist between such status and the publication of patent applications; and
+&emsp;"(D) examine the status of the entity seeking an application and any correlation that may exist between such status and the publication of patent applications; and
 
-&emsp;“(E) examine the abandonment/issuance ratios and length of application pendency before patent issuance or abandonment for published versus unpublished applications.”
+&emsp;"(E) examine the abandonment/issuance ratios and length of application pendency before patent issuance or abandonment for published versus unpublished applications."
 

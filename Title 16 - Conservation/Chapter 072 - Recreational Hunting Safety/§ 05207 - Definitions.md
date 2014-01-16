@@ -4,7 +4,7 @@ As used in this chapter:
 
 #### (1) Federal lands
 
-&emsp;The term “Federal lands” means—
+&emsp;The term "Federal lands" means—
 
 &emsp;&emsp;(A) national forests;
 
@@ -16,7 +16,7 @@ As used in this chapter:
 
 #### (2) Lawful hunt
 
-&emsp;The term “lawful hunt” means the taking or harvesting (or attempted taking or harvesting) of wildlife or fish, on Federal lands, which—
+&emsp;The term "lawful hunt" means the taking or harvesting (or attempted taking or harvesting) of wildlife or fish, on Federal lands, which—
 
 &emsp;&emsp;(A) is lawful under the laws applicable in the place it occurs; and
 
@@ -24,19 +24,19 @@ As used in this chapter:
 
 #### (3) National forest
 
-&emsp;The term “national forest” means lands included in the National Forest System (as defined in section 1609(a) of this title).
+&emsp;The term "national forest" means lands included in the National Forest System (as defined in section 1609(a) of this title).
 
 #### (4) National park
 
-&emsp;The term “national park” means lands and waters included in the National Park System (as defined in section 1c(a) of this title).
+&emsp;The term "national park" means lands and waters included in the National Park System (as defined in section 1c(a) of this title).
 
 #### (5) Public lands
 
-&emsp;The term “public lands” has the same meaning as is provided in section 1702(e) of title 43.
+&emsp;The term "public lands" has the same meaning as is provided in section 1702(e) of title 43.
 
 #### (6) Secretary
 
-&emsp;The term “Secretary” means—
+&emsp;The term "Secretary" means—
 
 &emsp;&emsp;(A) the Secretary of Agriculture with respect to national forests; and
 
@@ -50,11 +50,11 @@ As used in this chapter:
 
 #### (7) Wildlife refuge
 
-&emsp;The term “wildlife refuge” means lands and waters included in the National Wildlife Refuge System (as established by section 668dd of this title).
+&emsp;The term "wildlife refuge" means lands and waters included in the National Wildlife Refuge System (as established by section 668dd of this title).
 
 #### (8) Conduct
 
-&emsp;The term “conduct” does not include speech protected by the first article of amendment to the Constitution.
+&emsp;The term "conduct" does not include speech protected by the first article of amendment to the Constitution.
 
 (Pub. L. 103–322, title XXXII, §320808, Sept. 13, 1994, 108 Stat. 2122.)
 

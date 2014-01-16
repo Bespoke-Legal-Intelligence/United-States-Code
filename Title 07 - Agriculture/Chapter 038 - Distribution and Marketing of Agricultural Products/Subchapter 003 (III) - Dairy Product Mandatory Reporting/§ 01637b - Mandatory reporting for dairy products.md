@@ -132,19 +132,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–239 amended subsec. (d) generally. Prior to amendment, text read as follows:
 
-“(1)
+"(1)
 
 In general.—Subject to the availability of funds under paragraph (3), the Secretary shall establish an electronic reporting system to carry out this section.
 
-“(2)
+"(2)
 
 Frequency of reports.—After the establishment of the electronic reporting system in accordance with paragraph (1), the Secretary shall increase the frequency of the reports required under this section.
 
-“(3)
+"(3)
 
-Authorization of appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this subsection.”
+Authorization of appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this subsection."
 
-<b>2008</b>—Subsec. (c)(3). Pub. L. 110–246, §1510(b), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary shall take such actions as the Secretary considers necessary to verify the accuracy of the information submitted or reported under this subchapter.”
+<b>2008</b>—Subsec. (c)(3). Pub. L. 110–246, §1510(b), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "The Secretary shall take such actions as the Secretary considers necessary to verify the accuracy of the information submitted or reported under this subchapter."
 
 Subsecs. (d), (e). Pub. L. 110–246, §1510(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -154,5 +154,5 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Implementation of Electronic Reporting System
 
-Pub. L. 111–239, §3(b), Sept. 27, 2010, 124 Stat. 2502, provided that: “Not later than one year after the date of enactment of this Act \[Sept. 27, 2010\], the Secretary of Agriculture shall implement the electronic reporting system required by subsection (d) of section 273 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1637b), as amended by subsection (a). Until the electronic reporting system is implemented, the Secretary shall continue to conduct mandatory dairy product information reporting under the authority of such section, as in effect on the day before the date of enactment of this Act.”
+Pub. L. 111–239, §3(b), Sept. 27, 2010, 124 Stat. 2502, provided that: "Not later than one year after the date of enactment of this Act \[Sept. 27, 2010\], the Secretary of Agriculture shall implement the electronic reporting system required by subsection (d) of section 273 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1637b), as amended by subsection (a). Until the electronic reporting system is implemented, the Secretary shall continue to conduct mandatory dairy product information reporting under the authority of such section, as in effect on the day before the date of enactment of this Act."
 

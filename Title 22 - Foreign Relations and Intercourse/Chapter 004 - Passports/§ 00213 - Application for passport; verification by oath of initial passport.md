@@ -20,29 +20,29 @@ Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §236\], Nov. 29, 1999, 113 Stat. 1536, 1501A–430, provided that:
 
-“(a)
+"(a)
 
 In General.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Regulations.—Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of State shall issue regulations providing that before a child under the age of 14 years is issued a passport the requirements under paragraph (2) shall apply under penalty of perjury.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Requirements.—
 
-&emsp;&emsp;“(A) Both parents, or the child's legal guardian, must execute the application and provide documentary evidence demonstrating that they are the parents or guardian; or
+&emsp;&emsp;"(A) Both parents, or the child's legal guardian, must execute the application and provide documentary evidence demonstrating that they are the parents or guardian; or
 
-&emsp;&emsp;“(B) the person executing the application must provide documentary evidence that such person—
+&emsp;&emsp;"(B) the person executing the application must provide documentary evidence that such person—
 
-&emsp;&emsp;&emsp;“(i) has sole custody of the child;
+&emsp;&emsp;&emsp;"(i) has sole custody of the child;
 
-&emsp;&emsp;&emsp;“(ii) has the consent of the other parent to the issuance of the passport; or
+&emsp;&emsp;&emsp;"(ii) has the consent of the other parent to the issuance of the passport; or
 
-&emsp;&emsp;&emsp;“(iii) is in loco parentis and has the consent of both parents, of a parent with sole custody over the child, or of the child's legal guardian, to the issuance of the passport.
+&emsp;&emsp;&emsp;"(iii) is in loco parentis and has the consent of both parents, of a parent with sole custody over the child, or of the child's legal guardian, to the issuance of the passport.
 
-“(b)
+"(b)
 
-Exceptions.—The regulations required by subsection (a) may provide for exceptions in exigent circumstances, such as those involving the health or welfare of the child, or when the Secretary determines that issuance of a passport is warranted by special family circumstances.”
+Exceptions.—The regulations required by subsection (a) may provide for exceptions in exigent circumstances, such as those involving the health or welfare of the child, or when the Secretary determines that issuance of a passport is warranted by special family circumstances."
 

@@ -12,9 +12,9 @@ Based on 44 U.S. Code, 1964 ed., §393(g) (June 30, 1949, ch. 288, title V, §50
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–497 substituted "Archivist of the United States" for "Administrator of General Services".
 
-Subsec. (b). Pub. L. 98–497 substituted “Archivist” for “Administrator”.
+Subsec. (b). Pub. L. 98–497 substituted "Archivist" for "Administrator".
 
 #### Effective Date of 1984 Amendment
 

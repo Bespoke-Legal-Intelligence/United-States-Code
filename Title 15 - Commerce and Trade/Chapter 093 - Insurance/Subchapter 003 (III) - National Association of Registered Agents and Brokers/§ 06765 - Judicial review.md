@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-The appropriate United States district court shall have exclusive jurisdiction over litigation involving the Association, including disputes between the Association and its members that arise under this subchapter. Suits brought in State court involving the Association shall be deemed to have arisen under Federal law and therefore be subject to jurisdiction in the appropriate United States district court.
+The appropriate United States district court shall have exclusive jurisdiction over litigation involving the Association, including disputes between the Association and its members that arise under this subchapter. Suits brought in State court involving the Association shall be deemed to have arisen under Federal law andtherefore be subject to jurisdiction in the appropriate United States district court.
 
 #### (b) Exhaustion of remedies
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 100–542, §6, Oct. 28, 1988, 102 Stat. 2722.
 
-The words “As soon as practicable” and “as the case may be” are omitted as unnecessary.
+The words "As soon as practicable" and "as the case may be" are omitted as unnecessary.
 

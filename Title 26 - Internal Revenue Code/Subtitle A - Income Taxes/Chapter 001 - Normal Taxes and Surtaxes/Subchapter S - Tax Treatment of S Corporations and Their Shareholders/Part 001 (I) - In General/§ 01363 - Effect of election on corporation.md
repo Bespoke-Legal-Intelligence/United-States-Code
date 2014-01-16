@@ -58,7 +58,7 @@ The taxable income of an S corporation shall be computed in the same manner as i
 
 #### (3) LIFO recapture amount
 
-&emsp;For purposes of this subsection, the term “LIFO recapture amount” means the amount (if any) by which—
+&emsp;For purposes of this subsection, the term "LIFO recapture amount" means the amount (if any) by which—
 
 &emsp;&emsp;(A) the inventory amount of the inventory asset under the first-in, first-out method authorized by section 471, exceeds
 
@@ -72,11 +72,11 @@ The taxable income of an S corporation shall be computed in the same manner as i
 
 #### (A) LIFO method
 
-&emsp;&emsp;The term “LIFO method” means the method authorized by section 472.
+&emsp;&emsp;The term "LIFO method" means the method authorized by section 472.
 
 #### (B) Inventory assets
 
-&emsp;&emsp;The term “inventory assets” means stock in trade of the corporation, or other property of a kind which would properly be included in the inventory of the corporation if on hand at the close of the taxable year.
+&emsp;&emsp;The term "inventory assets" means stock in trade of the corporation, or other property of a kind which would properly be included in the inventory of the corporation if on hand at the close of the taxable year.
 
 #### (C) Method of determining inventory amount
 
@@ -108,23 +108,23 @@ Subsec. (e). Pub. L. 100–647, §1006(f)(7), struck out subsec. (e) which provi
 
 <b>1987</b>—Subsec. (d). Pub. L. 100–203 added subsec. (d) relating to recapture of LIFO benefits.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514, §701(e)(4)(J), struck out “and in section 58(d)” after “this subchapter”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §701(e)(4)(J), struck out "and in section 58(d)" after "this subchapter".
 
-Subsec. (c)(2). Pub. L. 99–514, §511(d)(2)(C), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “section 163(d) (relating to limitation on interest on investment indebtedness),”.
+Subsec. (c)(2). Pub. L. 99–514, §511(d)(2)(C), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: "section 163(d) (relating to limitation on interest on investment indebtedness),".
 
-Subsec. (e). Pub. L. 99–514, §632(b), amended subsec. (e) generally, substituting “reorganizations, etc.” for “complete liquidations and reorganizations”, in heading and in text struck out reference to property in complete liquidation of the corporation.
+Subsec. (e). Pub. L. 99–514, §632(b), amended subsec. (e) generally, substituting "reorganizations, etc." for "complete liquidations and reorganizations", in heading and in text struck out reference to property in complete liquidation of the corporation.
 
 <b>1984</b>—Subsec. (b)(4). Pub. L. 98–369, §721(p), added par. (4).
 
-Subsec. (c)(2). Pub. L. 98–369, §721(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out subpar. (A) which provided “subsection (b)(5) or (d)(4) of section 108 (relating to income from discharge of indebtedness),”.
+Subsec. (c)(2). Pub. L. 98–369, §721(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out subpar. (A) which provided "subsection (b)(5) or (d)(4) of section 108 (relating to income from discharge of indebtedness),".
 
-Subsec. (d). Pub. L. 98–369, §721(a)(2), substituted “Except as provided in subsection (e), if” for “If”.
+Subsec. (d). Pub. L. 98–369, §721(a)(2), substituted "Except as provided in subsection (e), if" for "If".
 
 Subsec. (e). Pub. L. 98–369, §721(a)(1), added subsec. (e).
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–135, title IV, §411(b), Dec. 21, 2005, 119 Stat. 2636, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in section 10227 of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
+Pub. L. 109–135, title IV, §411(b), Dec. 21, 2005, 119 Stat. 2636, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 10227 of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -136,17 +136,17 @@ Amendment by section 2004(n) of Pub. L. 100–647 effective, except as otherwise
 
 Pub. L. 100–203, title X, §10227(b), Dec. 22, 1987, 101 Stat. 1330–417, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2) the amendment made by subsection (a) \[amending this section\] shall apply in the case of elections made after December 17, 1987.
 
-“(2)
+"(2)
 
 Exception.—The amendment made by subsection (a) shall not apply in the case of any election made by a corporation after December 17, 1987, and before January 1, 1989, if, on or before December 17, 1987—
 
-&emsp;“(A) there was a resolution adopted by the board of directors of such corporation to make an election under subchapter S of chapter 1 of the Internal Revenue Code of 1986, or
+&emsp;"(A) there was a resolution adopted by the board of directors of such corporation to make an election under subchapter S of chapter 1 of the Internal Revenue Code of 1986, or
 
-&emsp;“(B) there was a ruling request with respect to the business filed with the Internal Revenue Service expressing an intent to make such an election.”
+&emsp;"(B) there was a ruling request with respect to the business filed with the Internal Revenue Service expressing an intent to make such an election."
 
 #### Effective Date of 1986 Amendment
 

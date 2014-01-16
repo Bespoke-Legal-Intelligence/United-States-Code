@@ -22,7 +22,7 @@ Ex. Ord. No. 13230, Oct. 12, 2001, 66 F.R. 52841, which established in the Depar
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for Hispanic Americans
 
-Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extendeduntil Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(d), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -68,7 +68,7 @@ Sec. 2. <i>White House Initiative on Educational Excellence for Hispanics.</i>
 
 &emsp;(iv) ensuring that all Hispanic students have access to excellent teachers and school leaders, in part by supporting efforts to improve the recruitment, preparation, development, and retention of successful Hispanic teachers and school leaders and other effective teachers and school leaders responsible for the education of Hispanic students;
 
-&emsp;(v) reducing the dropout rate of Hispanic students and helping Hispanic students graduate from high school prepared for college and a career, in part by promoting a positive school climate and supporting successful and innovative dropout prevention and recovery strategies that better engage Hispanic youths in their learning, help them catch up academically, and provide those who have left the educational system with pathways to reentry;
+&emsp;(v) reducing the dropout rate of Hispanic students and helping Hispanic students graduate from high school prepared for college and a career, in part by promoting a positive school climate and supporting successful and innovative dropout prevention and recovery strategies that better engage Hispanic youthsin their learning, help them catch up academically, and provide those who have left the educational system with pathways to reentry;
 
 &emsp;(vi) increasing college access and success for Hispanic students and providing support to help ensure that a greater percentage of Hispanics complete college and contribute to the goal of having America again lead the world in the proportion of college graduates by 2020, in part through strategies to strengthen the capacity of Hispanic-Serving Institutions, community colleges, and other institutions of higher education serving large numbers of Hispanic students; and
 
@@ -86,7 +86,7 @@ Sec. 2. <i>White House Initiative on Educational Excellence for Hispanics.</i>
 
 &emsp;(v) advise the Secretary on the development, implementation, and coordination of educational programs and initiatives at the Department and other agencies designed to improve educational opportunities and outcomes for Hispanics of all ages;
 
-&emsp;(vi) encourage and develop partnerships with public, private, philanthropic, and nonprofit stakeholders to improve Hispanics’ readiness for school, college, and career, as well as their college persistence and completion; and
+&emsp;(vi) encourage and develop partnerships with public, private, philanthropic, and nonprofit stakeholders to improve Hispanics' readiness for school, college, and career, as well as their college persistence and completion; and
 
 &emsp;(vii) develop a national network of individuals, organizations, and communities to share and implement best practices related to the education of Hispanics.
 
@@ -141,6 +141,10 @@ Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of President's Advisory Commission on Educational Excellence for Hispanics
+
+Term of President's Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13621. White House Initiative on Educational Excellence for African Americans
 
@@ -198,7 +202,7 @@ Sec. 2. <i>White House Initiative on Educational Excellence for African American
 
 &emsp;(vii) advise the Secretary on the development, implementation, and coordination of educational programs and initiatives at the Department and other agencies that are designed to improve educational opportunities and outcomes for African Americans of all ages; and
 
-&emsp;(viii) encourage and develop partnerships with public, private, philanthropic, and nonprofit stakeholders to improve African Americans’ readiness for school, college, and career, as well as their college persistence and completion.
+&emsp;(viii) encourage and develop partnerships with public, private, philanthropic, and nonprofit stakeholders to improve African Americans' readiness for school, college, and career, as well as their college persistence and completion.
 
 (5) The Initiative shall periodically publish reports on its activities. The Secretary and the Executive Director of the Initiative, in consultation with the Working Group and the Chair of the Commission established under subsection (c) of this section and section 3 of this order, respectively, may develop and submit to the President recommendations designed to advance and promote educational opportunities and attainment for African Americans.
 
@@ -232,7 +236,7 @@ The Commission shall meet periodically, but at least twice a year.
 
 (1) The Commission shall consist of not more than 25 members appointed by the President. The President shall designate one member of the Commission to serve as Chair. The Executive Director of the Initiative shall also serve as the Executive Director of the Commission and administer the work of the Commission. The Chair of the Commission shall work with the Executive Director to convene regular meetings of the Commission, determine its agenda, and direct its work, consistent with this order.
 
-(2) The Commission may include individuals with relevant experience or subject-matter expertise that the President deems appropriate, as well as individuals who may serve as representatives of a variety of sectors, including the education sector (early childhood education, elementary and secondary education, higher education (including HBCUs and PBIs), career and technical education, and adult education), labor organizations, research institutions, the military, corporate and financial institutions, public and private philanthropic organizations, and nonprofit and community-based organizations at the national, State, regional, or local levels.
+(2) The Commission may include individuals with relevant experience or subject-matter expertise that thePresident deems appropriate, as well as individuals who may serve as representatives of a variety of sectors, including the education sector (early childhood education, elementary and secondary education, higher education (including HBCUs and PBIs), career and technical education, and adult education), labor organizations, research institutions, the military, corporate and financial institutions, public and private philanthropic organizations, and nonprofit and community-based organizations at the national, State, regional, or local levels.
 
 (3) In addition to the 25 members appointed by the President, the Commission shall also include two members from the President's Board of Advisors on Historically Black Colleges and Universities (Board), designated by the President. In turn, the Board will henceforth include two members from the Commission, designated by the President. This reciprocal arrangement will foster direct communication and vital consultations that will benefit both bodies.
 
@@ -240,7 +244,7 @@ The Commission shall meet periodically, but at least twice a year.
 
 (5) The Executive Director of the Commission shall be a non-voting, ex officio member of the Board and shall be the Commission's liaison to the Board; and the Executive Director of the Board shall be a non-voting, ex officio member of the Commission and shall be the Board's liaison to the Commission.
 
-(d) <i>Commission Administration</i>. The Department shall provide funding and administrative support for the Commission, to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with the guidelines issued by the Administrator of General Services.
+(d) <i>Commission Administration</i>. The Department shall provide funding and administrative support for the Commission, to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the "Act"), may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with the guidelines issued by the Administrator of General Services.
 
 Sec. 4. <i>General Provisions</i>. (a) The heads of agencies shall assist and provide information to the Initiative as may be necessary to carry out the functions of the Initiative, consistent with applicable law.
 
@@ -255,4 +259,8 @@ Sec. 4. <i>General Provisions</i>. (a) The heads of agencies shall assist and pr
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of President's Advisory Commission on Educational Excellence for African Americans
+
+Term of President's Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

@@ -34,21 +34,21 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–217, §3(c)(3)(A), inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–217, §3(c)(3)(A), inserted "subtitle I of title 40 and title III of" before "the Federal Property and Administrative Services Act of 1949" and substituted "(41 U.S.C. 251 et seq.)" for "(40 U.S.C. 471 et seq.)".
 
-Subsec. (c)(2). Pub. L. 107–217, §3(c)(3)(B), substituted “sections 541–555 of title 40” for “section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)”.
+Subsec. (c)(2). Pub. L. 107–217, §3(c)(3)(B), substituted "sections 541–555 of title 40" for "section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–324, §408, inserted “to the Coast Guard Auxiliary, including any incorporatedunit thereof,” after “with or without charge,” and struck out “to any incorporated unit of the Coast Guard Auxiliary,” after “Boy Scouts of America,”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–324, §408, inserted "to the Coast Guard Auxiliary, including any incorporated unit thereof," after "with or without charge," and struck out "to any incorporated unit of the Coast Guard Auxiliary," after "Boy Scouts of America,".
 
-Subsec. (c)(2). Pub. L. 104–324, §1119, inserted “, except that the Commandant may conduct sales of materials for which the proceeds of sale will not exceed $5,000 under regulations prescribed by the Commandant” before period at end.
+Subsec. (c)(2). Pub. L. 104–324, §1119, inserted ", except that the Commandant may conduct sales of materials for which the proceeds of sale will not exceed $5,000 under regulations prescribed by the Commandant" before period at end.
 
 <b>1992</b>—Subsecs. (c) to (e). Pub. L. 102–587 added subsecs. (c) to (e).
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted “(40 U.S.C. 471 et seq.)” for “, as amended,” after “Act of 1949”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted "(40 U.S.C. 471 et seq.)" for ", as amended," after "Act of 1949".
 
-<b>1951</b>—Subsec. (a). Act Oct. 31, 1951, inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, and substituted “incorporated” for “regularly organized flotilla or other organized”.
+<b>1951</b>—Subsec. (a). Act Oct. 31, 1951, inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, and substituted "incorporated" for "regularly organized flotilla or other organized".
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

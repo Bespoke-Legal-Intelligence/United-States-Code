@@ -66,7 +66,7 @@
 
 #### (5) Science enrichment programs for girls
 
-&emsp;Activities carried out in accordance with paragraph (3)(K) and (L) shall include elementary school and secondary school programs to encourage the ongoing interest of girls in science, mathematics, engineering, and technology and to prepare girls to pursue undergraduate and graduate degrees and careers in science, mathematics, engineering, or technology. Funds made available through awards to partnerships for the purposes of this paragraph may support programs for—
+&emsp;Activities carried out in accordance with paragraph (3)(K) and (L) shall include elementary school and secondary school programs to encourage the ongoing interest of girls in science, mathematics, engineering, and technology and to prepare girls to pursue undergraduate and graduate degrees and careers inscience, mathematics, engineering, or technology. Funds made available through awards to partnerships for the purposes of this paragraph may support programs for—
 
 &emsp;&emsp;(A) encouraging girls to pursue studies in science, mathematics, engineering, and technology and to major in such fields in postsecondary education;
 
@@ -228,9 +228,9 @@
 
 In this section—
 
-&emsp;(1) the term “mathematics and science teacher” means a science, technology, engineering, or mathematics teacher at the elementary school or secondary school level; and
+&emsp;(1) the term "mathematics and science teacher" means a science, technology, engineering, or mathematics teacher at the elementary school or secondary school level; and
 
-&emsp;(2) the term “science”, in the context of elementary and secondary education, includes technology and pre-engineering.
+&emsp;(2) the term "science", in the context of elementary and secondary education, includes technology and pre-engineering.
 
 (Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044; Pub. L. 110–69, title VII, §§7028, 7029, Aug. 9, 2007, 121 Stat. 696, 697.)
 
@@ -244,15 +244,15 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(2)(A). Pub. L. 110–69, §7028(1), substituted “the department, college, or program of education at an institution of higher education, a State educational agency,” for “a State educational agency”.
+<b>2007</b>—Subsec. (a)(2)(A). Pub. L. 110–69, §7028(1), substituted "the department, college, or program of education at an institution of higher education, a State educational agency," for "a State educational agency".
 
-Subsec. (a)(3)(B). Pub. L. 110–69, §7028(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “offering professional development programs, including summer or academic year institutes or workshops, designed to strengthen the capabilities of mathematics and science teachers;”.
+Subsec. (a)(3)(B). Pub. L. 110–69, §7028(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "offering professional development programs, including summer or academic year institutes or workshops, designed to strengthen the capabilities of mathematics and science teachers;".
 
-Subsec. (a)(3)(C). Pub. L. 110–69, §7028(3), inserted “and laboratory experiences” after “technology” and “and laboratory” after “provide technical”.
+Subsec. (a)(3)(C). Pub. L. 110–69, §7028(3), inserted "and laboratory experiences" after "technology" and "and laboratory" after "provide technical".
 
-Subsec. (a)(3)(I). Pub. L. 110–69, §7028(4), inserted “including the use of induction programs, as defined in section 9813(h) of title 20, for teachers in their first 2 years of teaching,” after “and science,”.
+Subsec. (a)(3)(I). Pub. L. 110–69, §7028(4), inserted "including the use of induction programs, as defined in section 9813(h) of title 20, for teachers in their first 2 years of teaching," after "and science,".
 
-Subsec. (a)(3)(K). Pub. L. 110–69, §7028(5), added subpar. (K) and struck out former subpar. (K) which read as follows: “developing and offering mathematics or science enrichment programs for students, including after-school and summer programs;”.
+Subsec. (a)(3)(K). Pub. L. 110–69, §7028(5), added subpar. (K) and struck out former subpar. (K) which read as follows: "developing and offering mathematics or science enrichment programs for students, including after-school and summer programs;".
 
 Subsec. (a)(8), (9). Pub. L. 110–69, §7028(6), added pars. (8) and (9).
 
@@ -262,9 +262,9 @@ Subsec. (b)(2)(E) to (G). Pub. L. 110–69, §7028(7), added subpar. (E) and red
 
 Subsec. (c)(2). Pub. L. 110–69, §7028(8), added par. (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows:
 
-“(A) The results of the evaluation required under paragraph (1) shall be made available to the public and shall be provided to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
+"(A) The results of the evaluation required under paragraph (1) shall be made available to the public and shall be provided to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
-“(B) Materials developed under the program established under subsection (a) of this section that are demonstrated to be effective shall be made widely available to the public.”
+"(B) Materials developed under the program established under subsection (a) of this section that are demonstrated to be effective shall be made widely available to the public."
 
 Subsec. (d). Pub. L. 110–69, §7028(9), added subsec. (d).
 
@@ -272,23 +272,25 @@ Subsec. (d). Pub. L. 110–69, §7028(9), added subsec. (d).
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
 #### Findings
 
-Pub. L. 107–368, §2, Dec. 19, 2002, 116 Stat. 3034, provided that: “Congress finds the following:
+Pub. L. 107–368, §2, Dec. 19, 2002, 116 Stat. 3034, provided that: "Congress finds the following:
 
-&emsp;“(1) The National Science Foundation has made major contributions for more than 50 years to strengthen and sustain the Nation's academic research enterprise that is the envy of the world.
+&emsp;"(1) The National Science Foundation has made major contributions for more than 50 years to strengthen and sustain the Nation's academic research enterprise that is the envy of the world.
 
-&emsp;“(2) The economic strength and national security of the United States and the quality of life of all Americans are grounded in the Nation's scientific and technological capabilities.
+&emsp;"(2) The economic strength and national security of the United States and the quality of life of all Americans are grounded in the Nation's scientific and technological capabilities.
 
-&emsp;“(3) The National Science Foundation carries out important functions in supporting basic research in all science and engineering disciplines and in supporting science, mathematics, engineering, and technology education at all levels.
+&emsp;"(3) The National Science Foundation carries out important functions in supporting basic research in all science and engineering disciplines and in supporting science, mathematics, engineering, and technology education at all levels.
 
-&emsp;“(4) The research and education activities of the National Science Foundation promote the discovery, integration, dissemination, and application of new knowledge in service to society and prepare future generations of scientists, mathematicians, and engineers who will be necessary to ensure America's leadership in the global marketplace.
+&emsp;"(4) The research and education activities of the National Science Foundation promote the discovery, integration, dissemination, and application of new knowledge in service to society and prepare future generations of scientists, mathematicians, and engineers who will be necessary to ensure America's leadership in the global marketplace.
 
-&emsp;“(5) The National Science Foundation must be provided with sufficient resources to enable it to carry out its responsibilities to develop intellectual capital, strengthen the scientific infrastructure, integrate research and education, enhance the delivery of mathematics and science education in the UnitedStates, and improve the technological literacy of all people in the United States.
+&emsp;"(5) The National Science Foundation must be provided with sufficient resources to enable it to carry out its responsibilities to develop intellectual capital, strengthen the scientific infrastructure, integrate research and education, enhance the delivery of mathematics and science education in the United States, and improve the technological literacy of all people in the United States.
 
-&emsp;“(6) The emerging global economic, scientific, and technical environment challenges long-standing assumptions about domestic and international policy, requiring the National Science Foundation to play a more proactive role in sustaining the competitive advantage of the United States through superior research capabilities.
+&emsp;"(6) The emerging global economic, scientific, and technical environment challenges long-standing assumptions about domestic and international policy, requiring the National Science Foundation to play a more proactive role in sustaining the competitive advantage of the United States through superior research capabilities.
 
-&emsp;“(7) Commercial application of the results of Federal investment in basic and computing science is consistent with longstanding United States technology transfer policy and is a critical national priority, particularly with regard to cybersecurity and other homeland security applications, because of the urgent needs of commercial, academic, and individual users as well as the Federal and State Governments.”
+&emsp;"(7) Commercial application of the results of Federal investment in basic and computing science is consistent with longstanding United States technology transfer policy and is a critical national priority, particularly with regard to cybersecurity and other homeland security applications, because of the urgent needs of commercial, academic, and individual users as well as the Federal and State Governments."
 
 #### Report on Foundation Budgetary and Programmatic Expansion
 
@@ -296,89 +298,89 @@ Pub. L. 107–368, §22, Dec. 19, 2002, 116 Stat. 3065, provided for a National 
 
 #### Definitions
 
-Pub. L. 107–368, §4, Dec. 19, 2002, 116 Stat. 3035, provided that: “In this Act \[see Short Title of 2002 Amendment note set out under section 1861 of this title\]:
+Pub. L. 107–368, §4, Dec. 19, 2002, 116 Stat. 3035, provided that: "In this Act \[see Short Title of 2002 Amendment note set out under section 1861 of this title\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Academic unit.—The term ‘academic unit’ means a department, division, institute, school, college, or other subcomponent of an institution of higher education.
+Academic unit.—The term 'academic unit' means a department, division, institute, school, college, or other subcomponent of an institution of higher education.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Board.—The term ‘Board’ means the National Science Board established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
+Board.—The term 'Board' means the National Science Board established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
 
-&emsp;“(3)
+&emsp;"(3)
 
-Community college.—The term ‘community college’ has the meaning given such term in section 3301(3) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7011(3)).
+Community college.—The term 'community college' has the meaning given such term in section 3301(3) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7011(3)).
 
-&emsp;“(4)
+&emsp;"(4)
 
-Director.—The term ‘Director’ means the Director of the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
+Director.—The term 'Director' means the Director of the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
 
-&emsp;“(5)
+&emsp;"(5)
 
-Elementary school.—The term ‘elementary school’ has the meaning given that term by section 9101(18) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(18)).
+Elementary school.—The term 'elementary school' has the meaning given that term by section 9101(18) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(18)).
 
-&emsp;“(6)
+&emsp;"(6)
 
-Eligible nonprofit organization.—The term ‘eligible nonprofit organization’ means a nonprofit research institute, or a nonprofit professional association, with demonstrated experience and effectiveness in mathematics or science education as determined by the Director.
+Eligible nonprofit organization.—The term 'eligible nonprofit organization' means a nonprofit research institute, or a nonprofit professional association, with demonstrated experience and effectiveness in mathematics or science education as determined by the Director.
 
-&emsp;“(7)
+&emsp;"(7)
 
-Foundation.—The term ‘Foundation’ means the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
+Foundation.—The term 'Foundation' means the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
 
-&emsp;“(8)
+&emsp;"(8)
 
-High-need local educational agency.—The term ‘high-need local educational agency’ means a local educational agency that meets one or more of the following criteria:
+High-need local educational agency.—The term 'high-need local educational agency' means a local educational agency that meets one or more of the following criteria:
 
-&emsp;&emsp;“(A) It has at least one school in which 50 percent or more of the enrolled students are eligible for participation in the free and reduced price lunch program established by the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+&emsp;&emsp;"(A) It has at least one school in which 50 percent or more of the enrolled students are eligible for participation in the free and reduced price lunch program established by the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
-&emsp;&emsp;“(B) It has at least one school in which—
+&emsp;&emsp;"(B) It has at least one school in which—
 
-&emsp;&emsp;&emsp;“(i) more than 34 percent of the academic classroom teachers at the secondary level (across all academic subjects) do not have an undergraduate degree with a major or minor in, or a graduate degree in, the academic field in which they teach the largest percentage of their classes; or
+&emsp;&emsp;&emsp;"(i) more than 34 percent of the academic classroom teachers at the secondary level (across all academic subjects) do not have an undergraduate degree with a major or minor in, or a graduate degree in, the academic field in which they teach the largest percentage of their classes; or
 
-&emsp;&emsp;&emsp;“(ii) more than 34 percent of the teachers in two of the academic departments do not have an undergraduate degree with a major or minor in, or a graduate degree in, the academic field in which they teach the largest percentage of their classes.
+&emsp;&emsp;&emsp;"(ii) more than 34 percent of the teachers in two of the academic departments do not have an undergraduate degree with a major or minor in, or a graduate degree in, the academic field in which they teach the largest percentage of their classes.
 
-&emsp;&emsp;“(C) It has at least one school whose teacher attrition rate has been 15 percent or more over the last three school years.
+&emsp;&emsp;"(C) It has at least one school whose teacher attrition rate has been 15 percent or more over the last three school years.
 
-&emsp;“(9)
+&emsp;"(9)
 
-Institution of higher education.—The term ‘institution of higher education’ has the meaning given such term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+Institution of higher education.—The term 'institution of higher education' has the meaning given such term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
 
-&emsp;“(10)
+&emsp;"(10)
 
-Local educational agency.—The term ‘local educational agency’ has the meaning given such term by section 9101(26) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(26)).
+Local educational agency.—The term 'local educational agency' has the meaning given such term by section 9101(26) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(26)).
 
-&emsp;“(11)
+&emsp;"(11)
 
-Master teacher.—The term ‘master teacher’ means a mathematics or science teacher who works to improve the instruction of mathematics or science in kindergarten through grade 12 through—
+Master teacher.—The term 'master teacher' means a mathematics or science teacher who works to improve the instruction of mathematics or science in kindergarten through grade 12 through—
 
-&emsp;&emsp;“(A) participating in the development or revision of science, mathematics, engineering, or technology curricula;
+&emsp;&emsp;"(A) participating in the development or revision of science, mathematics, engineering, or technology curricula;
 
-&emsp;&emsp;“(B) serving as a mentor to mathematics or science teachers;
+&emsp;&emsp;"(B) serving as a mentor to mathematics or science teachers;
 
-&emsp;&emsp;“(C) coordinating and assisting teachers in the use of hands-on inquiry materials, equipment, and supplies, and when appropriate, supervising acquisition and repair of such materials;
+&emsp;&emsp;"(C) coordinating and assisting teachers in the use of hands-on inquiry materials, equipment, and supplies, and when appropriate, supervising acquisition and repair of such materials;
 
-&emsp;&emsp;“(D) providing in-classroom teaching assistance to mathematics or science teachers; and
+&emsp;&emsp;"(D) providing in-classroom teaching assistance to mathematics or science teachers; and
 
-&emsp;&emsp;“(E) providing professional development, including for the purposes of training other master teachers, to mathematics and science teachers.
+&emsp;&emsp;"(E) providing professional development, including for the purposes of training other master teachers, to mathematics and science teachers.
 
-&emsp;“(12)
+&emsp;"(12)
 
-National research facility.—The term ‘national research facility’ means a research facility funded by the Foundation which is available, subject to appropriate policies allocating access, for use by all scientists and engineers affiliated with research institutions located in the United States.
+National research facility.—The term 'national research facility' means a research facility funded by the Foundation which is available, subject to appropriate policies allocating access, for use by all scientists and engineers affiliated with research institutions located in the United States.
 
-&emsp;“(13)
+&emsp;"(13)
 
-Secondary school.—The term ‘secondary school’ has the meaning given that term by section 9101(38) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(38)).
+Secondary school.—The term 'secondary school' has the meaning given that term by section 9101(38) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(38)).
 
-&emsp;“(14)
+&emsp;"(14)
 
-State.—Except with respect to the Experimental Program to Stimulate Competitive Research, the term ‘State’ means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
+State.—Except with respect to the Experimental Program to Stimulate Competitive Research, the term 'State' means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
 
-&emsp;“(15)
+&emsp;"(15)
 
-State educational agency.—The term ‘State educational agency’ has the meaning given such term by section 9101(41) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(41)).
+State educational agency.—The term 'State educational agency' has the meaning given such term by section 9101(41) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(41)).
 
-&emsp;“(16)
+&emsp;"(16)
 
-United states.—The term ‘United States’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.”
+United states.—The term 'United States' means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States."
 

@@ -37,7 +37,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1973aa.](Subchapter%20001%E2%80%93B%20%28I%E2%80%93B%29%20-%20Supplemental%20Provisions/%C2%A7%2001973aa%20-%20Application%20of%20prohibition%20to%20other%20States%3B%20%E2%80%9Ctest%20or%20device%E2%80%9D%20defined.md) | Application of prohibition to other States; “test or device” defined. |
+| [1973aa.](Subchapter%20001%E2%80%93B%20%28I%E2%80%93B%29%20-%20Supplemental%20Provisions/%C2%A7%2001973aa%20-%20Application%20of%20prohibition%20to%20other%20States%3B%20test%20or%20device%20defined.md) | Application of prohibition to other States; "test or device" defined. |
 | 1973aa–1. | Residence requirements for voting. |
 | 1973aa–1a. | Bilingual election requirements. |
 | 1973aa–2. | Judicial relief; civil actions by the Attorney General; three-judge district court; appeal to Supreme Court. |
@@ -53,7 +53,7 @@
 |  |  |
 | :--- | ---: |
 | [1973bb.](Subchapter%20001%E2%80%93C%20%28I%E2%80%93C%29%20-%20Eighteen-Year-Old%20Voting%20Age/%C2%A7%2001973bb%20-%20Enforcement%20of%20twenty-sixth%20amendment.md) | Enforcement of twenty-sixth amendment. |
-| 1973bb–1. | “State” defined. |
+| 1973bb–1. | "State" defined. |
 | 1973bb–2 to 1973bb–4. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -151,7 +151,7 @@
 | [1974b.](Subchapter%20002%20%28II%29%20-%20Federal%20Election%20Records/%C2%A7%2001974b%20-%20Demand%20for%20records%20or%20papers%20by%20Attorney%20General%20or%20representative%3B%20statement%20of%20basis%20and%20purpose.md) | Demand for records or papers by Attorney General or representative; statement of basis and purpose. |
 | [1974c.](Subchapter%20002%20%28II%29%20-%20Federal%20Election%20Records/%C2%A7%2001974c%20-%20Disclosure%20of%20records%20or%20papers.md) | Disclosure of records or papers. |
 | [1974d.](Subchapter%20002%20%28II%29%20-%20Federal%20Election%20Records/%C2%A7%2001974d%20-%20Jurisdiction%20to%20compel%20production%20of%20records%20or%20papers.md) | Jurisdiction to compel production of records or papers. |
-| [1974e.](Subchapter%20002%20%28II%29%20-%20Federal%20Election%20Records/%C2%A7%2001974e%20-%20%E2%80%9COfficer%20of%20election%E2%80%9D%20defined.md) | “Officer of election” defined. |
+| [1974e.](Subchapter%20002%20%28II%29%20-%20Federal%20Election%20Records/%C2%A7%2001974e%20-%20Officer%20of%20election%20defined.md) | "Officer of election" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

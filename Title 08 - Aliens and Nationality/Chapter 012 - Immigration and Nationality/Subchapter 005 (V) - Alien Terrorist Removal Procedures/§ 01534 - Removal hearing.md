@@ -70,7 +70,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 &emsp;&emsp;(A) the Government is authorized to use in a removal proceedings <sup>1</sup> the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106 of that Act \[50 U.S.C. 1806(c), (e), (f), (g), (h)\] and discovery of information derived pursuant to such Act, or otherwise collected for national security purposes, shall not be authorized if disclosure would present a risk to the national security of the United States;
 
-&emsp;&emsp;(B) an alien subject to removal under this subchapter shall not be entitled to suppressevidence that the alien alleges was unlawfully obtained; and
+&emsp;&emsp;(B) an alien subject to removal under this subchapter shall not be entitled to suppress evidence that the alien alleges was unlawfully obtained; and
 
 &emsp;&emsp;(C) section 3504 of title 18 and section 1806(c) of title 50 shall not apply if the Attorney General determines that public disclosure would pose a risk to the national security of the United States because it would disclose classified information or otherwise threaten the integrity of a pending investigation.
 
@@ -142,7 +142,7 @@ Following the receipt of evidence, the Government and the alien shall be given f
 
 #### (g) Burden of proof
 
-In the hearing, it is the Government's burden to prove, by the preponderance of the evidence,that the alien is subject to removal because the alien is an alien terrorist.
+In the hearing, it is the Government's burden to prove, by the preponderance of the evidence, that the alien is subject to removal because the alien is an alien terrorist.
 
 #### (h) Rules of evidence
 

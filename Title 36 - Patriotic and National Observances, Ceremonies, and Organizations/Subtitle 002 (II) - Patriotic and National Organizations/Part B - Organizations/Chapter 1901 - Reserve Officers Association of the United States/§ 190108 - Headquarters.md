@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 June 30, 1950, ch. 431, §16 (1st sentence), 64 Stat. 315
 
-The word “national” is omitted as unnecessary.
+The word "national" is omitted as unnecessary.
 

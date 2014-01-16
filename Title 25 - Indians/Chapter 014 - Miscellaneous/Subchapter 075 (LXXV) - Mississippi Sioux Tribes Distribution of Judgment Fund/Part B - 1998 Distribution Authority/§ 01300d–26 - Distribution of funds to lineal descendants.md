@@ -8,7 +8,7 @@ Subject to section 1300d–27(e) of this title, the Secretary shall, in the mann
 
 #### (1) In general
 
-&emsp;Subject to section 1300d–27(e) of this title, if the number of individuals on the final roll oflineal descendants certified by the Secretary under section 1300d–3(b) of this title is less than 2,588, the Secretary shall distribute a reduced aggregate amount to the lineal descendants referred to in subsection (a) of this section, determined by decreasing—
+&emsp;Subject to section 1300d–27(e) of this title, if the number of individuals on the final roll of lineal descendants certified by the Secretary under section 1300d–3(b) of this title is less than 2,588, the Secretary shall distribute a reduced aggregate amount to the lineal descendants referred to in subsection (a) of this section, determined by decreasing—
 
 &emsp;&emsp;(A) the percentage specified in section 1300d–23(a)(B)(ii) <sup>1</sup> of this title by a percentage amount equal to—
 
@@ -28,7 +28,7 @@ In seeking to verify the Sisseton and Wahpeton Mississippi Sioux Tribe ancestry 
 
 &emsp;(1) the 1909 Sisseton and Wahpeton annuity roll;
 
-&emsp;(2) the list of Sisseton and Wahpeton Sioux prisoners convicted for participating in the outbreak referred to as the “1862 Minnesota Outbreak”;
+&emsp;(2) the list of Sisseton and Wahpeton Sioux prisoners convicted for participating in the outbreak referred to as the "1862 Minnesota Outbreak";
 
 &emsp;(3) the list of Sioux scouts, soldiers, and heirs identified as Sisseton and Wahpeton Sioux on the roll prepared pursuant to the Act of March 3, 1891 (26 Stat. 989 et seq., chapter 543); or
 
@@ -44,5 +44,5 @@ Act of March 3, 1891, referred to in subsec. (c)(3), is act Mar. 3, 1891, ch. 54
 
 Section is comprised of section 7 of Pub. L. 105–387. Subsec. (d) of section 7 of Pub. L. 105–387 amended sections 1300d–3 and 1300d–4 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “1300d–23(a)(1)(B)(ii)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "1300d–23(a)(1)(B)(ii)".</i>
 

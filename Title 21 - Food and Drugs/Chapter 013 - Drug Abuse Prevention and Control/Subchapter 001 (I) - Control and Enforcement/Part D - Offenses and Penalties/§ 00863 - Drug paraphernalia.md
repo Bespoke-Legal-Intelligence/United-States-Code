@@ -18,9 +18,9 @@ Anyone convicted of an offense under subsection (a) of this section shall be imp
 
 Any drug paraphernalia involved in any violation of subsection (a) of this section shall be subject to seizure and forfeiture upon the conviction of a person for such violation. Any such paraphernalia shall be delivered to the Administrator of General Services, General Services Administration, who may order such paraphernalia destroyed or may authorize its use for law enforcement or educational purposes by Federal, State, or local authorities.
 
-#### (d) “Drug paraphernalia” defined
+#### (d) "Drug paraphernalia" defined
 
-The term “drug paraphernalia” means any equipment, product, or material of any kind which is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance, possession of which is unlawful under this subchapter. It includes items primarily intended or designed for use in ingesting, inhaling, or otherwise introducing marijuana,<sup>1</sup> cocaine, hashish, hashish oil, PCP, methamphetamine, or amphetamines into the human body, such as—
+The term "drug paraphernalia" means any equipment, product, or material of any kind which is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance, possession of which is unlawful under this subchapter. It includes items primarily intended or designed for use in ingesting, inhaling, or otherwise introducing marijuana,<sup>1</sup> cocaine, hashish, hashish oil, PCP, methamphetamine, or amphetamines into the human body, such as—
 
 &emsp;(1) metal, wooden, acrylic, glass, stone, plastic, or ceramic pipes with or without screens, permanent screens, hashish heads, or punctured metal bowls;
 
@@ -78,7 +78,7 @@ This section shall not apply to—
 
 &emsp;(1) any person authorized by local, State, or Federal law to manufacture, possess, or distribute such items; or
 
-&emsp;(2) any item that, in the normal lawful course of business, is imported, exported,transported, or sold through the mail or by any other means, and traditionally intended for use with tobacco products, including any pipe, paper, or accessory.
+&emsp;(2) any item that, in the normal lawful course of business, is imported, exported, transported, or sold through the mail or by any other means, and traditionally intended for use with tobacco products, including any pipe, paper, or accessory.
 
 (Pub. L. 91–513, title II, §422, as added and amended Pub. L. 101–647, title XXIV, §2401(a)–(c), Nov. 29, 1990, 104 Stat. 4858, 4859; Pub. L. 106–310, div. B, title XXXVI, §3614, Oct. 17, 2000, 114 Stat. 1230.)
 
@@ -88,17 +88,17 @@ The text of section 857(b) to (f) of this title, which was transferred to subsec
 
 #### Amendments
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–310 inserted “methamphetamine,” after “PCP,” in introductory provisions.
+<b>2000</b>—Subsec. (d). Pub. L. 106–310 inserted "methamphetamine," after "PCP," in introductory provisions.
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–647, §2401(c)(1), substituted “fined under title 18” for “fined not more than $100,000”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–647, §2401(c)(1), substituted "fined under title 18" for "fined not more than $100,000".
 
 Pub. L. 101–647, §2401(b), redesignated subsec. (b) of section 857 of this title as subsec. (b) of this section. See Codification note above.
 
 Subsecs. (c) to (e). Pub. L. 101–647, §2401(b), redesignated subsecs. (c) to (e) of section 857 of this title as subsecs. (c) to (e) of this section. See Codification note above.
 
-Subsec. (f). Pub. L. 101–647, §2401(c)(2), made technical amendment to reference to “This section” to correct reference to corresponding provision of original act.
+Subsec. (f). Pub. L. 101–647, §2401(c)(2), made technical amendment to reference to "This section" to correct reference to corresponding provision of original act.
 
 Pub. L. 101–647, §2401(b), redesignated subsec. (f) of section 857 of this title as subsec. (f) of this section. See Codification note above.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “marihuana,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "marihuana,".</i>
 

@@ -12,7 +12,7 @@ From amounts appropriated under section 9404 of this title the Secretary shall a
 
 #### (2) Non-Federal share
 
-&emsp;The non-Federal share of the cost described in subsections (a) and (e) of this section may be contributed in cash or in kind, fairly evaluated, including facilities, equipment, or services, which may be provided from State or local public sources, or through donations from private entities. For the purposes of this paragraph the term “facilities” includes the use of facilities, but the term “equipment” means donated equipment and not the use of equipment.
+&emsp;The non-Federal share of the cost described in subsections (a) and (e) of this section may be contributed in cash or in kind, fairly evaluated, including facilities, equipment, or services, which may be provided from State or local public sources, or through donations from private entities. For the purposes of this paragraph the term "facilities" includes the use of facilities, but the term "equipment" means donated equipment and not the use of equipment.
 
 #### (c) Maintenance of effort
 

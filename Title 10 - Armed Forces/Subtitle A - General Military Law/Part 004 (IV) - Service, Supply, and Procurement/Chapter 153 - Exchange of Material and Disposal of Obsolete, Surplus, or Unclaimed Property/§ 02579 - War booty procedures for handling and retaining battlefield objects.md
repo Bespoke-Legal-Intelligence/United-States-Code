@@ -26,19 +26,19 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations for the 
 
 #### Regulations
 
-Pub. L. 103–160, div. A, title XI, §1171(b), Nov. 30, 1993, 107 Stat. 1766, provided that: “The initial regulations required by section 2579 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 270 days after the date of enactment of this Act \[Nov. 30, 1993\]. Such regulations shall specifically address the following, consistent with section 2579 of title 10, United States Code, as added by subsection (a):
+Pub. L. 103–160, div. A, title XI, §1171(b), Nov. 30, 1993, 107 Stat. 1766, provided that: "The initial regulations required by section 2579 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 270 days after the date of enactment of this Act \[Nov. 30, 1993\]. Such regulations shall specifically address the following, consistent with section 2579 of title 10, United States Code, as added by subsection (a):
 
-&emsp;“(1) The general procedures for collection and disposition of weapons and other enemy material.
+&emsp;"(1) The general procedures for collection and disposition of weapons and other enemy material.
 
-&emsp;“(2) The criteria and procedures for evaluation and disposition of enemy material for intelligence, testing, or other military purposes.
+&emsp;"(2) The criteria and procedures for evaluation and disposition of enemy material for intelligence, testing, or other military purposes.
 
-&emsp;“(3) The criteria and procedures for determining when retention of enemy material by an individual or a unit in the theater of operations may be appropriate.
+&emsp;"(3) The criteria and procedures for determining when retention of enemy material by an individual or a unit in the theater of operations may be appropriate.
 
-&emsp;“(4) The criteria and procedures for disposition of enemy material to a unit or other Department of Defense entity as a souvenir.
+&emsp;"(4) The criteria and procedures for disposition of enemy material to a unit or other Department of Defense entity as a souvenir.
 
-&emsp;“(5) The criteria and procedures for disposition of enemy material to an individual as an individual souvenir.
+&emsp;"(5) The criteria and procedures for disposition of enemy material to an individual as an individual souvenir.
 
-&emsp;“(6) The criteria and procedures for determining when demilitarization or the rendering unserviceable of firearms is appropriate.
+&emsp;"(6) The criteria and procedures for determining when demilitarization or the rendering unserviceable of firearms is appropriate.
 
-&emsp;“(7) The criteria and procedures necessary to ensure that servicemembers who have obtained battlefield souvenirs in a manner consistent with military customs, traditions, and regulations have a reasonable opportunity to obtain possession of such souvenirs, consistent with the needs of the service.”
+&emsp;"(7) The criteria and procedures necessary to ensure that servicemembers who have obtained battlefield souvenirs in a manner consistent with military customs, traditions, and regulations have a reasonable opportunity to obtain possession of such souvenirs, consistent with the needs of the service."
 

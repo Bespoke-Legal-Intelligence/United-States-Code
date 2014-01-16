@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–107, div. A, title X, §1048(e)(6)(B), Dec. 28, 2001, 115 Stat. 1227, struck out item 1736 “Applicability”.
+<b>2001</b>—Pub. L. 107–107, div. A, title X, §1048(e)(6)(B), Dec. 28, 2001, 115 Stat. 1227, struck out item 1736 "Applicability".
 
 
 ---

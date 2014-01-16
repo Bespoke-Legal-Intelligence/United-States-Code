@@ -10,9 +10,9 @@ The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 9
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–462 substituted “with the Indian Land Consolidation Act or a tribal probate code approved under such Act and regulations to be prescribed by the Secretary of the Interior:” for “with regulations to be prescribed by the Secretary of the Interior:”.
+<b>2000</b>—Pub. L. 106–462 substituted "with the Indian Land Consolidation Act or a tribal probate code approved under such Act and regulations to be prescribed by the Secretary of the Interior:" for "with regulations to be prescribed by the Secretary of the Interior:".
 
-<b>1987</b>—Pub. L. 100–153 which directed amendment of this section by substituting “the age of eighteen years or older” for “the age of twenty-one years, or over” was executed by substituting the new language for “the age of twenty-one years” as the probable intent of Congress because the words “, or over” did not appear.
+<b>1987</b>—Pub. L. 100–153 which directed amendment of this section by substituting "the age of eighteen years or older" for "the age of twenty-one years, or over" was executed by substituting the new language for "the age of twenty-one years" as the probable intent of Congress because the words ", or over" did not appear.
 
 <b>1913</b>—Act Feb. 14, 1913, amended section generally.
 

@@ -28,7 +28,7 @@ The Secretary shall consult with a representative group of guaranty agencies, el
 
 #### (b) Additional information
 
-For the purposes of research and policy analysis, the proposal shall also contain provisions for obtaining additional data concerning thecharacteristics of borrowers and the extent of student loan indebtedness on a statistically valid sample of borrowers under part B of this subchapter. Such data shall include—
+For the purposes of research and policy analysis, the proposal shall also contain provisions for obtaining additional data concerning the characteristics of borrowers and the extent of student loan indebtedness on a statistically valid sample of borrowers under part B of this subchapter. Such data shall include—
 
 &emsp;(1) information concerning the income level of the borrower and his family and the extent of the borrower's need for student financial assistance, including loans;
 
@@ -58,9 +58,9 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;&emsp;(C) defines and explains the categories of information included in the data system;
 
-&emsp;&emsp;(D) provides a summary of the provisions of section 1232g of this title (commonly known as the “Family Educational Rights and Privacy Act of 1974”) and other applicable Federal privacy statutes, and a statement of the students’ rights and responsibilities with respect to such statutes;
+&emsp;&emsp;(D) provides a summary of the provisions of section 1232g of this title (commonly known as the "Family Educational Rights and Privacy Act of 1974") and other applicable Federal privacy statutes, and a statement of the students' rights and responsibilities with respect to such statutes;
 
-&emsp;&emsp;(E) explains the measures taken by the Department to safeguard the students’ data; and
+&emsp;&emsp;(E) explains the measures taken by the Department to safeguard the students' data; and
 
 &emsp;&emsp;(F) includes other information as determined appropriate by the Secretary;
 
@@ -108,7 +108,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;&emsp;&emsp;(i) available mechanisms for providing students and parents with the ability to opt in or opt out of allowing eligible lenders to access their records in the National Student Loan Data System; and
 
-&emsp;&emsp;&emsp;(ii) appropriate protocols for limiting access to the data system, based on the riskassessment required under subchapter III of chapter 35 of title 44.
+&emsp;&emsp;&emsp;(ii) appropriate protocols for limiting access to the data system, based on the risk assessment required under subchapter III of chapter 35 of title 44.
 
 #### (B) Submission of study
 
@@ -154,15 +154,15 @@ Title IV, referred to in subsec. (d)(3)(A), means title IV of the Higher Educati
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(5). Pub. L. 111–39, §407(b)(7)(A), substituted “2501 et seq.)” for “2501 et seq.))”.
+<b>2009</b>—Subsec. (a)(5). Pub. L. 111–39, §407(b)(7)(A), substituted "2501 et seq.)" for "2501 et seq.))".
 
-Subsec. (d)(3)(D). Pub. L. 111–39, §407(b)(7)(B), substituted “commonly known as the ‘Family Educational Rights and Privacy Act of 1974’ ” for “the Family Educational Rights and Privacy Act of 1974”.
+Subsec. (d)(3)(D). Pub. L. 111–39, §407(b)(7)(B), substituted "commonly known as the 'Family Educational Rights and Privacy Act of 1974' " for "the Family Educational Rights and Privacy Act of 1974".
 
-<b>2008</b>—Subsec. (a)(5). Pub. L. 110–315, §489(1)(C), which directed redesignation of par. (5) “as added by Pub. L. 101–234” as (6), was executed by redesignating par. (5) relating to eligible institutions as (6) to reflect the probable intent of Congress. Par. (5) relating to eligible institutions was added by Pub. L. 101–239.
+<b>2008</b>—Subsec. (a)(5). Pub. L. 110–315, §489(1)(C), which directed redesignation of par. (5) "as added by Pub. L. 101–234" as (6), was executed by redesignating par. (5) relating to eligible institutions as (6) to reflect the probable intent of Congress. Par. (5) relating to eligible institutions was added by Pub. L. 101–239.
 
-Pub. L. 110–315, §489(1)(B), substituted “effectiveness;” for “effectiveness.” in par. (5) relating to loan cancellations and deferments.
+Pub. L. 110–315, §489(1)(B), substituted "effectiveness;" for "effectiveness." in par. (5) relating to loan cancellations and deferments.
 
-Subsec. (a)(6). Pub. L. 110–315, §489(1)(C), which directed redesignation of par. (5) “as added by Pub. L. 101–234” as (6), was executed by redesignating par. (5) relating to eligible institutions as (6), to reflect the probable intent of Congress. Par. (5) relating to eligible institutions was added by Pub. L. 101–239.
+Subsec. (a)(6). Pub. L. 110–315, §489(1)(C), which directed redesignation of par. (5) "as added by Pub. L. 101–234" as (6), was executed by redesignating par. (5) relating to eligible institutions as (6), to reflect the probable intent of Congress. Par. (5) relating to eligible institutions was added by Pub. L. 101–239.
 
 Subsec. (a)(7) to (11). Pub. L. 110–315, §489(1)(A), redesignated pars. (6) to (10) as (7) to (11), respectively.
 
@@ -174,17 +174,17 @@ Pub. L. 110–315, §489(2), redesignated subsec. (d) as (e). Former subsec. (e)
 
 Subsecs. (f) to (h). Pub. L. 110–315, §489(2), redesignated subsecs. (e) to (g) as (f) to (h), respectively.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–244 inserted “not later than one year after October 7, 1998” before period at end of third sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244 inserted "not later than one year after October 7, 1998" before period at end of third sentence.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–208, §2(h)(38), substituted “parts C and D of this subchapter” for “part D of this subchapter” and struck out second period at end of third sentence.
+<b>1993</b>—Subsec. (a). Pub. L. 103–208, §2(h)(38), substituted "parts C and D of this subchapter" for "part D of this subchapter" and struck out second period at end of third sentence.
 
-Subsec. (a)(4). Pub. L. 103–208, §2(h)(39), substituted “parts C and D of this subchapter” for “part D of this subchapter”.
+Subsec. (a)(4). Pub. L. 103–208, §2(h)(39), substituted "parts C and D of this subchapter" for "part D of this subchapter".
 
-Subsec. (c). Pub. L. 103–208, §2(h)(40), substituted “part B, C, or D of this subchapter” for “part B or part D of this subchapter”.
+Subsec. (c). Pub. L. 103–208, §2(h)(40), substituted "part B, C, or D of this subchapter" for "part B or part D of this subchapter".
 
-Subsec. (e)(1), (2)(C). Pub. L. 103–208, §2(h)(41), substituted “under this subchapter and part C of subchapter I of chapter 34 of title 42” for “under this part”.
+Subsec. (e)(1), (2)(C). Pub. L. 103–208, §2(h)(41), substituted "under this subchapter and part C of subchapter I of chapter 34 of title 42" for "under this part".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–325, §487(a), inserted “, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan.” after “part D of this subchapter”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–325, §487(a), inserted ", and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan." after "part D of this subchapter".
 
 Subsecs. (e) to (g). Pub. L. 102–325, §487(b), added subsecs. (e) to (g).
 
@@ -192,11 +192,11 @@ Subsecs. (e) to (g). Pub. L. 102–325, §487(b), added subsecs. (e) to (g).
 
 <b>1989</b>—Pub. L. 101–239 amended section generally, substituting subsecs. (a) to (d) for former subsec. (a) relating to authority of Secretary, subsec. (b) relating to access to information, subsec. (c) relating to verification not required, and subsec. (d) relating to report to Congress.
 
-<b>1987</b>—Subsec. (b)(1). Pub. L. 100–50, §15(13)(A), substituted “public agencies” for “Federal agencies”.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–50, §15(13)(A), substituted "public agencies" for "Federal agencies".
 
-Subsec. (b)(2)(D). Pub. L. 100–50, §15(13)(B), substituted “of any borrower” for “of a borrower for whom the guaranty agency provides insurance”.
+Subsec. (b)(2)(D). Pub. L. 100–50, §15(13)(B), substituted "of any borrower" for "of a borrower for whom the guaranty agency provides insurance".
 
-Subsec. (b)(3). Pub. L. 100–50, §15(13)(C), substituted “public agency” for “Federal agency”.
+Subsec. (b)(3). Pub. L. 100–50, §15(13)(C), substituted "public agency" for "Federal agency".
 
 #### Effective Date of 2009 Amendment
 

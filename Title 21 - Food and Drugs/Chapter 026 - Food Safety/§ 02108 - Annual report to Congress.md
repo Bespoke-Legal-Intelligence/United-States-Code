@@ -1,6 +1,6 @@
 ### §2108. Annual report to Congress
 
-The Secretary shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committeeon Energy and Commerce and the Committee on Appropriations of the House of Representatives a report that includes, with respect to the preceding 1-year period—
+The Secretary shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a report that includes, with respect to the preceding 1-year period—
 
 &emsp;(1) the number and amount of food products regulated by the Food and Drug Administration imported into the United States, aggregated by country and type of food;
 
@@ -12,5 +12,5 @@ The Secretary shall, on an annual basis, submit to the Committee on Health, Educ
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in par. (3), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in par. (3), is act June 25, 1938, ch. 675, 52 Stat. 1040,which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 

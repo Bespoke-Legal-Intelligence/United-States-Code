@@ -6,5 +6,5 @@ The Administrator of the Centers for Medicare \& Medicaid Services shall dissemi
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+<b>2003</b>—Pub. L. 108–173 substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".
 

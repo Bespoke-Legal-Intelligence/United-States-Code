@@ -44,9 +44,9 @@ Historical and Revision Notes
 
 Pub. L. 99–662, title IX, §945, Nov. 17, 1986, 100 Stat. 4200.
 
-In subsection (a), the words “U.S. Army Corps of Engineers” are substituted for “Corps of Engineers” for clarity. The words “Secretary of the Army” are substituted for “Secretary” because of section 2 of the Water Resources Development Act of 1986 (33:2201).
+In subsection (a), the words "U.S. Army Corps of Engineers" are substituted for "Corps of Engineers" for clarity. The words "Secretary of the Army" are substituted for "Secretary" because of section 2 of the Water Resources Development Act of 1986 (33:2201).
 
-In subsection (d), the words “U.S. Army Corps of Engineers” are substituted for “Corps of Engineers” for clarity.
+In subsection (d), the words "U.S. Army Corps of Engineers" are substituted for "Corps of Engineers" for clarity.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Appropriations”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Appropriations".</i>
 

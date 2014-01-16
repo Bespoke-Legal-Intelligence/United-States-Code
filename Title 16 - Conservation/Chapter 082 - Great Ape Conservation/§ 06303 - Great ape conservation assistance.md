@@ -130,5 +130,5 @@ The Federal Advisory Committee Act, referred to in subsec. (i)(2), is Pub. L. 92
 
 <b>2006</b>—Subsec. (d)(6). Pub. L. 109–363, §701(1), added par. (6).
 
-Subsec. (i). Pub. L. 109–363, §701(2), designated existing provisions as par. (1), inserted par. heading, substituted “may convene” for “shall convene”, and added par. (2).
+Subsec. (i). Pub. L. 109–363, §701(2), designated existing provisions as par. (1), inserted par. heading, substituted "may convene" for "shall convene", and added par. (2).
 

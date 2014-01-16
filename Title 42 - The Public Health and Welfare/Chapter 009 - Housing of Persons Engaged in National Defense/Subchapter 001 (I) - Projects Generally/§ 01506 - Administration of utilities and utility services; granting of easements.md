@@ -8,7 +8,7 @@
 
 &emsp;(3) to dispose of such installations, when excess to the needs of the agency, and where not excess to grant an option to purchase, to the purchasers or transferees of such housing, for an amount not less than the appraised value of the installations and upon such terms and conditions as the head of the agency shall establish.
 
-(b) Any Federal agency (including any wholly owned Government corporation) having under its jurisdiction lands across which run any partof a utility system for housing under the jurisdiction of the Secretary is authorized to grant to the Secretary, or to the purchasers or transferees of such housing, easements (which may be perpetual) on such land for utility purposes.
+(b) Any Federal agency (including any wholly owned Government corporation) having under its jurisdiction lands across which run any part of a utility system for housing under the jurisdiction of the Secretary is authorized to grant to the Secretary, or to the purchasers or transferees of such housing, easements (which may be perpetual) on such land for utility purposes.
 
 (June 28, 1948, ch. 688, §2, 62 Stat. 1063; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 

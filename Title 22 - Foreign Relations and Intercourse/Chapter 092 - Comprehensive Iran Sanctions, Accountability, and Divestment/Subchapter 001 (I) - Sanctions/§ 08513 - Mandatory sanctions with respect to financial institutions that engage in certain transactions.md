@@ -8,11 +8,11 @@ Congress makes the following findings:
 
 &emsp;(2) Thirty-three countries, plus the European Commission and the Cooperation Council for the Arab States of the Gulf, belong to the Financial Action Task Force. The member countries of the Financial Action Task Force include the United States, Canada, most countries in western Europe, Russia, the People's Republic of China, Japan, South Korea, Argentina, and Brazil.
 
-&emsp;(3) In 2008 the Financial Action Task Force extended its mandate to include addressing “new and emerging threats such as proliferation financing”, meaning the financing of the proliferation of weapons of mass destruction, and published “guidance papers” for members to assist them in implementing various United Nations Security Council resolutions dealing with weapons of mass destruction, including United Nations Security Council Resolutions 1737 (2006) and 1803 (2008), which deal specifically with proliferation by Iran.
+&emsp;(3) In 2008 the Financial Action Task Force extended its mandate to include addressing "new and emerging threats such as proliferation financing", meaning the financing of the proliferation of weapons of mass destruction, and published "guidance papers" for members to assist them in implementing various United Nations Security Council resolutions dealing with weapons of mass destruction, including United Nations Security Council Resolutions 1737 (2006) and 1803 (2008), which deal specifically with proliferation by Iran.
 
 &emsp;(4) The Financial Action Task Force has repeatedly called on members—
 
-&emsp;&emsp;(A) to advise financial institutions in their jurisdictions to give special attention to business relationships and transactions with Iran, including Iranian companies and financial institutions;
+&emsp;&emsp;(A) to advise financial institutions in their jurisdictions to give special attention tobusiness relationships and transactions with Iran, including Iranian companies and financial institutions;
 
 &emsp;&emsp;(B) to apply effective countermeasures to protect their financial sectors from risks relating to money laundering and financing of terrorism that emanate from Iran;
 
@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(D) to take into account risks relating to money laundering and financing of terrorism when considering requests by Iranian financial institutions to open branches and subsidiaries in their jurisdictions.
 
-&emsp;(5) At a February 2010 meeting of the Financial Action Task Force, the Task Force called on members to apply countermeasures “to protect the international financial system from the ongoing and substantial money laundering and terrorist financing (ML/TF) risks” emanating from Iran.
+&emsp;(5) At a February 2010 meeting of the Financial Action Task Force, the Task Force called on members to apply countermeasures "to protect the international financial system from the ongoing and substantial money laundering and terrorist financing (ML/TF) risks" emanating from Iran.
 
 #### (b) Sense of Congress regarding the imposition of sanctions on the Central Bank of Iran
 
@@ -88,7 +88,7 @@ Congress—
 
 #### (i) Application of sanctions
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Secretary of the Treasury determines that the NIOC or the NITC is a person described in clause (i) or (ii) of paragraph (2)(E), the regulations prescribed under paragraph (1) shall apply with respect to a significant transaction or transactions or significant financial services knowingly facilitated or provided by a foreign financial institution for the NIOC or the NITC, as applicable, for the purchase of petroleum or petroleum products from Iran, only if a determination of the President under section 8513a(d)(4)(B) of this title that there is a sufficient supply of petroleum and petroleum products produced in countries other than Iran to permit purchasers of petroleum and petroleum products from Iran to reduce significantly their purchases from Iran is in effect at the time of the transaction or the provision of the service.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Secretary of the Treasury determines thatthe NIOC or the NITC is a person described in clause (i) or (ii) of paragraph (2)(E), the regulations prescribed under paragraph (1) shall apply with respect to a significant transaction or transactions or significant financial services knowingly facilitated or provided by a foreign financial institution for the NIOC or the NITC, as applicable, for the purchase of petroleum or petroleum products from Iran, only if a determination of the President under section 8513a(d)(4)(B) of this title that there is a sufficient supply of petroleum and petroleum products produced in countries other than Iran to permit purchasers of petroleum and petroleum products from Iran to reduce significantly their purchases from Iran is in effect at the time of the transaction or the provision of the service.
 
 #### (ii) Exception for certain countries
 
@@ -104,11 +104,11 @@ Congress—
 
 #### (i) NIOC
 
-&emsp;&emsp;&emsp;The term “NIOC” means the National Iranian Oil Company.
+&emsp;&emsp;&emsp;The term "NIOC" means the National Iranian Oil Company.
 
 #### (ii) NITC
 
-&emsp;&emsp;&emsp;The term “NITC” means the National Iranian Tanker Company.
+&emsp;&emsp;&emsp;The term "NITC" means the National Iranian Tanker Company.
 
 #### (d) Penalties for domestic financial institutions for actions of persons owned or controlled by such financial institutions
 
@@ -140,7 +140,7 @@ Congress—
 
 #### (2) Penalties
 
-&emsp;The penalties provided for in sections 5321(a) and 5322 of title 31 shall apply to a person thatviolates a regulation prescribed under paragraph (1) of this subsection, in the same manner and to the same extent as such penalties would apply to any person that is otherwise subject to such section 5321(a) or 5322.
+&emsp;The penalties provided for in sections 5321(a) and 5322 of title 31 shall apply to a person that violates a regulation prescribed under paragraph (1) of this subsection, in the same manner and to the same extent as such penalties would apply to any person that is otherwise subject to such section 5321(a) or 5322.
 
 #### (f) Waiver
 
@@ -176,23 +176,23 @@ In implementing this section and the regulations prescribed under this section, 
 
 #### (A) Account; correspondent account; payable-through account
 
-&emsp;&emsp;The terms “account”, “correspondent account”, and “payable-through account” have the meanings given those terms in section 5318A of title 31.
+&emsp;&emsp;The terms "account", "correspondent account", and "payable-through account" have the meanings given those terms in section 5318A of title 31.
 
 #### (B) Agent
 
-&emsp;&emsp;The term “agent” includes an entity established by a person for purposes of conducting transactions on behalf of the person in order to conceal the identity of the person.
+&emsp;&emsp;The term "agent" includes an entity established by a person for purposes of conducting transactions on behalf of the person in order to conceal the identity of the person.
 
 #### (C) Financial institution
 
-&emsp;&emsp;The term “financial institution” means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Y) of section 5312(a)(2) of title 31.
+&emsp;&emsp;The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Y) of section 5312(a)(2) of title 31.
 
 #### (D) Foreign financial institution; domestic financial institution
 
-&emsp;&emsp;The terms “foreign financial institution” and “domestic financial institution” shall have the meanings of those terms as determined by the Secretary of the Treasury.
+&emsp;&emsp;The terms "foreign financial institution" and "domestic financial institution" shall have the meanings of those terms as determined by the Secretary of the Treasury.
 
 #### (E) Money laundering
 
-&emsp;&emsp;The term “money laundering” means the movement of illicit cash or cash equivalent proceeds into, out of, or through a country, or into, out of, or through a financial institution.
+&emsp;&emsp;The term "money laundering" means the movement of illicit cash or cash equivalent proceeds into, out of, or through a country, or into, out of, or through a financial institution.
 
 #### (2) Other definitions
 
@@ -212,47 +212,47 @@ The Classified Information Procedures Act, referred to in subsec. (g)(1), is Pub
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c)(2)(B). Pub. L. 112–158, §214(a), substituted “of—” for “of”, inserted cl. (i) designation before “a person subject”, and added cl. (ii).
+<b>2012</b>—Subsec. (c)(2)(B). Pub. L. 112–158, §214(a), substituted "of—" for "of", inserted cl. (i) designation before "a person subject", and added cl. (ii).
 
-Subsec. (c)(2)(E)(ii). Pub. L. 112–158, §215(a), substituted “person” for “financial institution” in introductory provisions.
+Subsec. (c)(2)(E)(ii). Pub. L. 112–158, §215(a), substituted "person" for "financial institution" in introductory provisions.
 
 Subsec. (c)(4). Pub. L. 112–158, §312(b), added par. (4).
 
-Subsec. (f). Pub. L. 112–158, §312(c)(1), inserted “or section 8513b of this title” after “subsection (c)” in introductory provisions.
+Subsec. (f). Pub. L. 112–158, §312(c)(1), inserted "or section 8513b of this title" after "subsection (c)" in introductory provisions.
 
-Subsec. (g). Pub. L. 112–158, §312(c)(2), substituted “paragraph (1) or (4) of subsection (c) or section 8513b of this title” for “subsection (c)(1)” in pars. (1) and (2).
+Subsec. (g). Pub. L. 112–158, §312(c)(2), substituted "paragraph (1) or (4) of subsection (c) or section 8513b of this title" for "subsection (c)(1)" in pars. (1) and (2).
 
 #### Regulations
 
-Pub. L. 112–158, title II, §214(b), Aug. 10, 2012, 126 Stat. 1231, provided that: “Not later than 90 days after the date of the enactment of this Act \[Aug. 10, 2012\], the Secretary of the Treasury shall make such revisions to the regulations prescribed under section 104 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513) as are necessary to carry out the amendments made by subsection (a) \[amending this section\].”
+Pub. L. 112–158, title II, §214(b), Aug. 10, 2012, 126 Stat. 1231, provided that: "Not later than 90 days after the date of the enactment of this Act \[Aug. 10, 2012\], the Secretary of the Treasury shall make such revisions to the regulations prescribed under section 104 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513) as are necessary to carry out the amendments made by subsection (a) \[amending this section\]."
 
-Pub. L. 112–158, title II, §215(b), Aug. 10, 2012, 126 Stat. 1231, provided that: “Not later than 90 days after thedate of the enactment of this Act \[Aug. 10, 2012\], the Secretary of the Treasury shall make such revisions to the regulations prescribed under section 104 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513) as are necessary to carry out the amendment made by subsection (a) \[amending this section\].”
+Pub. L. 112–158, title II, §215(b), Aug. 10, 2012, 126 Stat. 1231, provided that: "Not later than 90 days after the date of the enactment of this Act \[Aug. 10, 2012\], the Secretary of the Treasury shall make such revisions to the regulations prescribed under section 104 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513) as are necessary to carry out the amendment made by subsection (a) \[amending this section\]."
 
 #### Exception to Sanctions Regarding National Iranian Oil Company and National Iranian Tanker Company
 
 Pub. L. 112–158, title III, §312(d), Aug. 10, 2012, 126 Stat. 1250, provided that:
 
-“(1)
+"(1)
 
 In general.—If an exception to sanctions described in clause (i) or (ii) of paragraph (4)(C) of section 104(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[22 U.S.C. 8513(c)\], as added by subsection (b), applies to a person that engages in a transaction described in paragraph (2) at the time of the transaction, the President is authorized not to impose sanctions with respect to the transaction under—
 
-&emsp;“(A) section 302(b)(1) \[22 U.S.C. 8742(b)(1)\];
+&emsp;"(A) section 302(b)(1) \[22 U.S.C. 8742(b)(1)\];
 
-&emsp;“(B) section 104A of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[22 U.S.C. 8513b\], as added by section 216; or
+&emsp;"(B) section 104A of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[22 U.S.C. 8513b\], as added by section 216; or
 
-&emsp;“(C) any other applicable provision of law authorizing the imposition of sanctions with respect to Iran.
+&emsp;"(C) any other applicable provision of law authorizing the imposition of sanctions with respect to Iran.
 
-“(2)
+"(2)
 
 Transaction described.—A transaction described in this paragraph is a transaction—
 
-&emsp;“(A) solely for the purchase of petroleum or petroleum products from Iran; and
+&emsp;"(A) solely for the purchase of petroleum or petroleum products from Iran; and
 
-&emsp;“(B) for which sanctions may be imposed solely as a result of the involvement of the National Iranian Oil Company or the National Iranian Tanker Company in the transaction under—
+&emsp;"(B) for which sanctions may be imposed solely as a result of the involvement of the National Iranian Oil Company or the National Iranian Tanker Company in the transaction under—
 
-&emsp;&emsp;“(i) section 302(b)(1);
+&emsp;&emsp;"(i) section 302(b)(1);
 
-&emsp;&emsp;“(ii) section 104A of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, as added by section 216; or
+&emsp;&emsp;"(ii) section 104A of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, as added by section 216; or
 
-&emsp;&emsp;“(iii) any other applicable provision of law authorizing the imposition of sanctions with respect to Iran.”
+&emsp;&emsp;"(iii) any other applicable provision of law authorizing the imposition of sanctions with respect to Iran."
 

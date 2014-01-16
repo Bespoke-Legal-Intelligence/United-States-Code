@@ -70,7 +70,7 @@ Not later than 6 months after the Assistant Secretary receives the reports descr
 
 &emsp;(3) the names and addresses of organizations that conducted the projects;
 
-&emsp;(4) in the case of projects carried out under subsection (a)(1), a description of the methodsand success of the projects in recruiting older individuals as employees and as volunteers to participate in the projects;
+&emsp;(4) in the case of projects carried out under subsection (a)(1), a description of the methods and success of the projects in recruiting older individuals as employees and as volunteers to participate in the projects;
 
 &emsp;(5) in the case of projects carried out under subsection (a)(1), a description of the success of the projects in retaining older individuals participating in the projects as employees and as volunteers;
 
@@ -86,11 +86,11 @@ As used in this section:
 
 #### (1) Multigenerational activity
 
-&emsp;The term “multigenerational activity” means an activity that provides an opportunity for interaction between 2 or more individuals of different generations, including activities connecting older individuals and youth in a child care program, a youth day care program, an educational assistance program, an at-risk youth intervention program, a juvenile delinquency treatment program, a before- or after-school program, a library program, or a family support program.
+&emsp;The term "multigenerational activity" means an activity that provides an opportunity for interaction between 2 or more individuals of different generations, including activities connecting older individuals and youth in a child care program, a youth day care program, an educational assistance program, an at-risk youth intervention program, a juvenile delinquency treatment program, a before- or after-school program, a library program, or a family support program.
 
 #### (2) Multigenerational coordinator
 
-&emsp;The term “multigenerational coordinator” means a person who—
+&emsp;The term "multigenerational coordinator" means a person who—
 
 &emsp;&emsp;(A) builds the capacity of public and nonprofit organizations to develop meaningful roles and assignments, that use the time, skill, and experience of older individuals to serve those organizations; and
 

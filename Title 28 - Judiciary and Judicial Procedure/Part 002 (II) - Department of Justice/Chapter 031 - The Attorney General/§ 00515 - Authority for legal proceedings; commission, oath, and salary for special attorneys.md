@@ -40,13 +40,13 @@ Aug. 5, 1953, ch. 328, §202 (1st and 2d provisos, as applicable to special assi
 
 July 2, 1954, ch. 456, §202 (as applicable to special assistants and special attorneys), 68 Stat. 421.
 
-In subsection (a), the words “or counselor” are omitted as redundant. The words “United States attorneys” are substituted for “district attorneys” on authority of the Act of June 25, 1948, ch. 646, §1, 62 Stat. 909. The words “any provision of” are omitted as unnecessary.
+In subsection (a), the words "or counselor" are omitted as redundant. The words "United States attorneys" are substituted for "district attorneys" on authority of the Act of June 25, 1948, ch. 646, §1, 62 Stat. 909. The words "any provision of" are omitted as unnecessary.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–273 struck out “at not more than $12,000” before period at end.
+<b>2002</b>—Subsec. (b). Pub. L. 107–273 struck out "at not more than $12,000" before period at end.
 
 #### Change of Name
 
-Words “magistrate judges” substituted for “magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+Words "magistrate judges" substituted for "magistrates" in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 

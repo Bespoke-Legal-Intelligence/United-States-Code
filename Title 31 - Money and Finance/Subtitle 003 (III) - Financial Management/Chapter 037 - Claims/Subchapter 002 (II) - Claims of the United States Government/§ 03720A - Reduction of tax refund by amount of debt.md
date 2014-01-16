@@ -26,7 +26,7 @@
 
 (B) In any case in which an individual files for a waiver under section 204(b) of the Social Security Act within the 60-day period referred to in subsection (b)(2), the Commissioner of Social Security shall not certify to the Secretary of the Treasury that the debt is valid under subsection (b)(4) before rendering a decision on the waiver request under such section 204(b). In lieu of payment, pursuant to subsection (c), to the Commissioner of Social Security of the amount of any reduction under this subsection based on an OASDI overpayment, the Secretary of the Treasury shall deposit such amount in the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, whichever is certified to the Secretary of the Treasury as appropriate by the Commissioner of Social Security.
 
-(g) In the case of refunds of business associations, this section shall apply only to refunds payable on or after January 1, 1995. In the case of refunds of individuals who owe debts to Federal agencies that have not participated in the Federal tax refund offset program prior to the date of enactment of this subsection, this section shall apply only to refunds payable on or after January 1, 1994.
+(g) In the case of refunds of business associations, this section shall apply only to refundspayable on or after January 1, 1995. In the case of refunds of individuals who owe debts to Federal agencies that have not participated in the Federal tax refund offset program prior to the date of enactment of this subsection, this section shall apply only to refunds payable on or after January 1, 1994.
 
 (h)(1) <sup>1</sup> The disbursing official of the Department of the Treasury—
 
@@ -48,7 +48,7 @@
 
 &emsp;(3) shall match payment records with requests for offset by using a name control, taxpayer identifying number (as that term is used in section 6109 of the Internal Revenue Code of 1986), and any other necessary identifiers.
 
-(h)(2) <sup>1</sup> The term “disbursing official” of the Department of the Treasury means the Secretary or his designee.
+(h)(2) <sup>1</sup> The term "disbursing official" of the Department of the Treasury means the Secretary or his designee.
 
 (i) An agency subject to section 9 of the Act of May 18, 1933 (16 U.S.C. 831h), may implement this section at its discretion.
 
@@ -64,31 +64,31 @@ Section 6109 of the Internal Revenue Code of 1986, referred to in subsec. (h)(3)
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(v)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(v)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt."
 
-Subsec. (h). Pub. L. 104–134, §31001(w), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “For purposes of this section—
+Subsec. (h). Pub. L. 104–134, §31001(w), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "For purposes of this section—
 
-&emsp;“(1) the term ‘Federal agency’ means a department, agency, or instrumentality of the United States (other than an agency subject to section 9 of the Act of May 18, 1933 (48 Stat. 63, chapter 32; 16 U.S.C. 831h)), and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code);
+&emsp;"(1) the term 'Federal agency' means a department, agency, or instrumentality of the United States (other than an agency subject to section 9 of the Act of May 18, 1933 (48 Stat. 63, chapter 32; 16 U.S.C. 831h)), and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code);
 
-&emsp;“(2) the term ‘past-due support’ means any delinquency subject to section 464 of the Social Security Act;
+&emsp;"(2) the term 'past-due support' means any delinquency subject to section 464 of the Social Security Act;
 
-&emsp;“(3) the term ‘OASDI overpayment’ means any overpayment of benefits made to an individual under title II of the Social Security Act; and
+&emsp;"(3) the term 'OASDI overpayment' means any overpayment of benefits made to an individual under title II of the Social Security Act; and
 
-&emsp;“(4) the term ‘person’ means an individual; or a sole proprietorship, partnership, corporation, nonprofit organization, or any other form of business association.”
+&emsp;"(4) the term 'person' means an individual; or a sole proprietorship, partnership, corporation, nonprofit organization, or any other form of business association."
 
 Subsec. (i). Pub. L. 104–134, §31001(u)(1), added subsec. (i).
 
-<b>1994</b>—Subsec. (f)(2). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
+<b>1994</b>—Subsec. (f)(2). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary of Health and Human Services" wherever appearing.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–589, §3(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support) by a named person shall, in accordance with regulations issued pursuant to subsection (d), notify the Secretary of the Treasury of the amount of such debt.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–589, §3(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support) by a named person shall, in accordance with regulations issued pursuant to subsection (d), notify the Secretary of the Treasury of the amount of such debt."
 
-Subsec. (b)(3) to (5). Pub. L. 102–589, §3(2), struck out “and” at end of par. (3), substituted “(determined on a government-wide basis) to obtain payment of such debt; and” for “to obtain payment of such debt.” in par. (4), and added par. (5).
+Subsec. (b)(3) to (5). Pub. L. 102–589, §3(2), struck out "and" at end of par. (3), substituted "(determined on a government-wide basis) to obtain payment of such debt; and" for "to obtain payment of such debt." in par. (4), and added par. (5).
 
 Subsec. (g). Pub. L. 102–589, §3(5), added subsec. (g). Former subsec. (g) redesignated (h).
 
 Subsec. (h). Pub. L. 102–589, §3(3), (4), redesignated subsec. (g) as (h) and added par. (4).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §5129(b)(1), struck out “OASDI overpayment and” after “other than any”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §5129(b)(1), struck out "OASDI overpayment and" after "other than any".
 
 Subsecs. (f), (g). Pub. L. 101–508, §5129(b)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g).
 

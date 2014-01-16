@@ -36,5 +36,5 @@ Apr. 3, 1952, ch. 131, §§6, 7, 66 Stat. 39.
 
 36:407(b).
 
-In subsection (a), the word “herein” is omitted as unnecessary. The text of 36:407(c) is omitted as obsolete.
+In subsection (a), the word "herein" is omitted as unnecessary. The text of 36:407(c) is omitted as obsolete.
 

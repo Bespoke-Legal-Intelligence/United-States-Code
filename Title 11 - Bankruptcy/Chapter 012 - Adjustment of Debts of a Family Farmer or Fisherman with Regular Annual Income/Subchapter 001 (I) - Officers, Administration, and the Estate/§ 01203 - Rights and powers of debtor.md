@@ -10,7 +10,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–8, §1007(c)(2), inserted “or commercial fishing operation” after “farm”.
+<b>2005</b>—Pub. L. 109–8, §1007(c)(2), inserted "or commercial fishing operation" after "farm".
 
 #### Effective Date of 2005 Amendment
 

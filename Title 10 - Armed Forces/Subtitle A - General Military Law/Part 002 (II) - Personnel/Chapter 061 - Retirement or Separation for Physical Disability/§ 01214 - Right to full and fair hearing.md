@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §413 (less 1st 17 words), 63 Stat. 825.
 
-The words “including regulations” are omitted as covered by section 1216(a) of this title.
+The words "including regulations" are omitted as covered by section 1216(a) of this title.
 

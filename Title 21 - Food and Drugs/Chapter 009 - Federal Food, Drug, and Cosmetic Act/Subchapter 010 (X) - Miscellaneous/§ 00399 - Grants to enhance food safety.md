@@ -22,7 +22,7 @@ The Secretary is authorized to make grants to eligible entities to—
 
 #### (1) In general
 
-&emsp;In this section, the term “eligible entity” means an entity—
+&emsp;In this section, the term "eligible entity" means an entity—
 
 &emsp;&emsp;(A) that is—
 
@@ -100,5 +100,5 @@ The FDA Food Safety Modernization Act, referred to in subsec. (f), is Pub. L. 11
 
 #### Construction of 2011 Amendment
 
-Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
+Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, toalter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 

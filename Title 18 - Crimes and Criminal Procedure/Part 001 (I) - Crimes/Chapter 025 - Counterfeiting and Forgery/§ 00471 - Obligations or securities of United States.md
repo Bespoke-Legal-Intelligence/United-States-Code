@@ -2,7 +2,7 @@
 
 Whoever, with intent to defraud, falsely makes, forges, counterfeits, or alters any obligation or other security of the United States, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 705; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994,108 Stat. 2147; Pub. L. 107–56, title III, §374(b), Oct. 26, 2001, 115 Stat. 340.)
+(June 25, 1948, ch. 645, 62 Stat. 705; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, §374(b), Oct. 26, 2001, 115 Stat. 340.)
 
 #### Historical and Revision Notes
 
@@ -14,7 +14,7 @@ Changes in phraseology were made.
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–56 substituted “20 years” for “fifteen years”.
+<b>2001</b>—Pub. L. 107–56 substituted "20 years" for "fifteen years".
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 

@@ -6,9 +6,9 @@ The President may provide transportation assistance to relocate individuals disp
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Codification
 
-Another section 425 of Pub. L. 93–288 is classified to section 5189e of this title.
+Another section 425 of Pub. L. 93–288 was renumbered section 427 and is classified to section 5189e of this title.
 

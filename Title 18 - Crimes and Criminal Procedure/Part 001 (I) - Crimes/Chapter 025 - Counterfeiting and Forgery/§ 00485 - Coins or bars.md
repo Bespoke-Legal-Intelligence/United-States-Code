@@ -22,7 +22,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 
-<b>1965</b>—Pub. L. 89–81 struck out “Gold or silver” before “Coins or bars” in section catchline, changed the description of the United States coins covered in first par. from gold or silver coins to any coin of a denomination higher than 5 cents, and made minor structural changes in second par.
+<b>1965</b>—Pub. L. 89–81 struck out "Gold or silver" before "Coins or bars" in section catchline, changed the description of the United States coins covered in first par. from gold or silver coins to any coin of a denomination higher than 5 cents, and made minor structural changes in second par.
 

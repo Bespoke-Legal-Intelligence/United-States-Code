@@ -16,5 +16,5 @@ An individual who participates in a program under subsection (a) of this section
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–435 inserted before period at end “or a Master's degree”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–435 inserted before period at end "or a Master's degree".
 

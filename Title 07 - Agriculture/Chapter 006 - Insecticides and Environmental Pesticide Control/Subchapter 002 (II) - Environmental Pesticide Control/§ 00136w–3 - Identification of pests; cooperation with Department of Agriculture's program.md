@@ -38,7 +38,7 @@ The Administrator, in coordination with the Secretary of Agriculture and the Sec
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–127 struck out “and the information required by section 5882 of this title” after “paragraph (1)”.
+<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–127 struck out "and the information required by section 5882 of this title" after "paragraph (1)".
 
 Subsec. (d). Pub. L. 104–170 added subsec. (d).
 

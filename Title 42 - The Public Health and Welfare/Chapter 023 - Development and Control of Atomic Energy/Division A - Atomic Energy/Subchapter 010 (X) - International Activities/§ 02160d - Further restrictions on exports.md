@@ -18,15 +18,15 @@ Except as provided in subsection (b) of this section, the Commission may issue a
 
 #### (A) Highly enriched uranium
 
-&emsp;&emsp;The term “highly enriched uranium” means uranium enriched to include concentration of U–235 above 20 percent.
+&emsp;&emsp;The term "highly enriched uranium" means uranium enriched to include concentration of U–235 above 20 percent.
 
 #### (B) Medical isotope
 
-&emsp;&emsp;The term “medical isotope” includes Molybdenum 99, Iodine 131, Xenon 133, and other radioactive materials used to produce a radiopharmaceutical for diagnostic, therapeutic procedures or for research and development.
+&emsp;&emsp;The term "medical isotope" includes Molybdenum 99, Iodine 131, Xenon 133, and other radioactive materials used to produce a radiopharmaceutical for diagnostic, therapeutic procedures or for research and development.
 
 #### (C) Radiopharmaceutical
 
-&emsp;&emsp;The term “radiopharmaceutical” means a radioactive isotope that—
+&emsp;&emsp;The term "radiopharmaceutical" means a radioactive isotope that—
 
 &emsp;&emsp;&emsp;(i) contains byproduct material combined with chemical or biological material; and
 
@@ -34,7 +34,7 @@ Except as provided in subsection (b) of this section, the Commission may issue a
 
 #### (D) Recipient country
 
-&emsp;&emsp;The term “recipient country” means Canada, Belgium, France, Germany, and the Netherlands.
+&emsp;&emsp;The term "recipient country" means Canada, Belgium, France, Germany, and the Netherlands.
 
 #### (2) Licenses
 
@@ -46,7 +46,7 @@ Except as provided in subsection (b) of this section, the Commission may issue a
 
 &emsp;&emsp;&emsp;(i) uses an alternative nuclear reactor fuel; or
 
-&emsp;&emsp;&emsp;(ii) is the subject of an agreement with the United States Government to convert to an alternative nuclear reactor fuel when alternative nuclear reactor fuel can be used in the reactor.
+&emsp;&emsp;&emsp;(ii) is the subject of an agreement with the United States Government to convertto an alternative nuclear reactor fuel when alternative nuclear reactor fuel can be used in the reactor.
 
 #### (3) Review of physical protection requirements
 
@@ -144,25 +144,29 @@ At any time after the restriction of export licenses provided for in subsection 
 
 As used in this section—
 
-&emsp;(1) the term “alternative nuclear reactor fuel or target” means a nuclear reactor fuel or target which is enriched to less than 20 percent in the isotope U–235;
+&emsp;(1) the term "alternative nuclear reactor fuel or target" means a nuclear reactor fuel or target which is enriched to less than 20 percent in the isotope U–235;
 
-&emsp;(2) the term “highly enriched uranium” means uranium enriched to 20 percent or more in the isotope U–235;
+&emsp;(2) the term "highly enriched uranium" means uranium enriched to 20 percent or more in the isotope U–235;
 
-&emsp;(3) a fuel or target “can be used” in a nuclear research or test reactor if—
+&emsp;(3) a fuel or target "can be used" in a nuclear research or test reactor if—
 
 &emsp;&emsp;(A) the fuel or target has been qualified by the Reduced Enrichment Research and Test Reactor Program of the Department of Energy; and
 
 &emsp;&emsp;(B) use of the fuel or target will permit the large majority of ongoing and planned experiments and medical isotope production to be conducted in the reactor without a large percentage increase in the total cost of operating the reactor; and
 
-&emsp;(4) the term “medical isotope” includes molybdenum-99, iodine-131, xenon-133, and other radioactive materials used to produce a radiopharmaceutical for diagnostic or therapeutic procedures or for research and development.
+&emsp;(4) the term "medical isotope" includes molybdenum-99, iodine-131, xenon-133, and other radioactive materials used to produce a radiopharmaceutical for diagnostic or therapeutic procedures or for research and development.
 
 (Aug. 1, 1946, ch. 724, title I, §134, as added Pub. L. 102–486, title IX, §903(a)(1), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §630, Aug. 8, 2005, 119 Stat. 785; Pub. L. 112–239, div. C, title XXXI, §3174, Jan. 2, 2013, 126 Stat. 2214.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b)(2), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
 
 <b>2013</b>—Subsecs. (c) to (h). Pub. L. 112–239 added subsecs. (c) to (h) and struck out former subsec. (c), which provided definitions for terms used in this section.
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–58, §630(1), inserted heading and substituted “Except as provided in subsection (b) of this section, the Commission” for “The Commission” in introductory provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58, §630(1), inserted heading and substituted "Except as provided in subsection (b) of this section, the Commission" for "The Commission" in introductory provisions.
 
 Subsecs. (b), (c). Pub. L. 109–58, §630(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 

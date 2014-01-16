@@ -6,7 +6,7 @@ The Secretary at intervals of not longer than 3 years shall estimate the reducti
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
-<b>1954</b>—Act Sept. 1, 1954, substituted “section 3121(b)(9)” for “section 3121(b)(10)”.
+<b>1954</b>—Act Sept. 1, 1954, substituted "section 3121(b)(9)" for "section 3121(b)(10)".
 

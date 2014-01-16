@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 July 16, 1964, Pub. L. 88–378, §13, 78 Stat. 327.
 
-The word “records” is substituted for “books and records” for consistency in the revised title and to eliminate unnecessary words.
+The word "records" is substituted for "books and records" for consistency in the revised title and to eliminate unnecessary words.
 

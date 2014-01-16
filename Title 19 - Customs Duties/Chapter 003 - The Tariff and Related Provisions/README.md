@@ -171,7 +171,7 @@
 |  |  |
 | :--- | ---: |
 | [231\.](Subtitle%20004%20%28IV%29%20-%20Customs%20Administration/Administrative%20Provisions/Part%20001%20-%20Definitions/%C2%A7%2000231%20-%20Repealed.%20June%2017%2C%201930%2C%20ch.%20497%2C%20title%20IV%2C%20%C2%A7651%28a%29%281%29%2C%2046%20Stat.%20762.md) | Repealed. |
-| [232\.](Subtitle%20004%20%28IV%29%20-%20Customs%20Administration/Administrative%20Provisions/Part%20001%20-%20Definitions/%C2%A7%2000232%20-%20%E2%80%9CPort%E2%80%9D%20defined.md) | “Port” defined. |
+| [232\.](Subtitle%20004%20%28IV%29%20-%20Customs%20Administration/Administrative%20Provisions/Part%20001%20-%20Definitions/%C2%A7%2000232%20-%20Port%20defined.md) | "Port" defined. |
 | [233\.](Subtitle%20004%20%28IV%29%20-%20Customs%20Administration/Administrative%20Provisions/Part%20001%20-%20Definitions/%C2%A7%2000233%20-%20Departure%20from%20prescribed%20forms.md) | Departure from prescribed forms. |
 | 234 to 239. Repealed. |  |
 | [240\.](Subtitle%20004%20%28IV%29%20-%20Customs%20Administration/Administrative%20Provisions/Part%20001%20-%20Definitions/%C2%A7%2000240%20-%20Value%20at%20date%20of%20shipment.md) | Value at date of shipment. |

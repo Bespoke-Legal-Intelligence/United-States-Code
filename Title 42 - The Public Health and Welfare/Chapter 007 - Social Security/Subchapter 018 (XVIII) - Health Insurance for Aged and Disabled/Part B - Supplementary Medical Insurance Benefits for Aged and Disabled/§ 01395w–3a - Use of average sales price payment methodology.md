@@ -30,7 +30,7 @@
 
 #### (B) Unit defined
 
-&emsp;&emsp;In this section, the term “unit” means, with respect to each National Drug Code (including package size) associated with a drug or biological, the lowest identifiable quantity (such as a capsule or tablet, milligram of molecules, or grams) of the drug or biological that is dispensed, exclusive of any diluent without reference to volume measures pertaining to liquids. For years after 2004, the Secretary may establish the unit for a manufacturer to report and methods for counting units as the Secretary determines appropriate to implement this section.
+&emsp;&emsp;In this section, the term "unit" means, with respect to each National Drug Code (including package size) associated with a drug or biological, the lowest identifiable quantity (such as a capsule or tablet, milligram of molecules, or grams) of the drug or biological that is dispensed, exclusive of any diluent without reference to volume measures pertaining to liquids. For years after 2004, the Secretary may establish the unit for a manufacturer to report and methods for counting units as the Secretary determines appropriate to implement this section.
 
 #### (3) Multiple source drug
 
@@ -80,7 +80,7 @@
 
 #### (B) Billing unit defined
 
-&emsp;&emsp;For purposes of this subsection, the term “billing unit” means the identifiable quantity associated with a billing and payment code, as established by the Secretary.
+&emsp;&emsp;For purposes of this subsection, the term "billing unit" means the identifiable quantity associated with a billing and payment code, as established by the Secretary.
 
 #### (7) Special rule
 
@@ -110,7 +110,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this section, subject to paragraphs (2) and (3), the manufacturer's “average sales price” means, of a drug or biological for a National Drug Code for a calendar quarter for a manufacturer for a unit—
+&emsp;For purposes of this section, subject to paragraphs (2) and (3), the manufacturer's "average sales price" means, of a drug or biological for a National Drug Code for a calendar quarter for a manufacturer for a unit—
 
 &emsp;&emsp;(A) the manufacturer's sales to all purchasers (excluding sales exempted in paragraph (2)) in the United States for such drug or biological in the calendar quarter; divided by
 
@@ -122,7 +122,7 @@
 
 #### (A) Sales exempt from best price
 
-&emsp;&emsp;Sales exempt from the inclusion in the determination of “best price” under section 1396r–8(c)(1)(C)(i) of this title.
+&emsp;&emsp;Sales exempt from the inclusion in the determination of "best price" under section 1396r–8(c)(1)(C)(i) of this title.
 
 #### (B) Sales at nominal charge
 
@@ -160,19 +160,19 @@
 
 #### (A) Manufacturer
 
-&emsp;&emsp;The term “manufacturer” means, with respect to a drug or biological, the manufacturer (as defined in section 1396r–8(k)(5) of this title).
+&emsp;&emsp;The term "manufacturer" means, with respect to a drug or biological, the manufacturer (as defined in section 1396r–8(k)(5) of this title).
 
 #### (B) Wholesale acquisition cost
 
-&emsp;&emsp;The term “wholesale acquisition cost” means, with respect to a drug or biological, the manufacturer's list price for the drug or biological to wholesalers or direct purchasers in the United States, not including prompt pay or other discounts, rebates or reductions in price, for the most recent month for which the information is available, as reported in wholesale price guides or other publications of drug or biological pricing data.
+&emsp;&emsp;The term "wholesale acquisition cost" means, with respect to a drug or biological, the manufacturer's list price for the drug or biological to wholesalers or direct purchasers in the United States, not including prompt pay or other discounts, rebates or reductions in price, for the most recent month for which the information is available, as reported in wholesale price guides or other publications of drug or biological pricing data.
 
 #### (C) Multiple source drug
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “multiple source drug” means, for a calendar quarter, a drug for which there are 2 or more drug products which—
+&emsp;&emsp;&emsp;The term "multiple source drug" means, for a calendar quarter, a drug for which there are 2 or more drug products which—
 
-&emsp;&emsp;&emsp;&emsp;(I) are rated as therapeutically equivalent (under the Food and Drug Administration's most recent publication of “Approved Drug Products with Therapeutic Equivalence Evaluations”),
+&emsp;&emsp;&emsp;&emsp;(I) are rated as therapeutically equivalent (under the Food and Drug Administration's most recent publication of "Approved Drug Products with Therapeutic Equivalence Evaluations"),
 
 &emsp;&emsp;&emsp;&emsp;(II) except as provided in subparagraph (E), are pharmaceutically equivalent and bioequivalent, as determined under subparagraph (F) and as determined by the Food and Drug Administration, and
 
@@ -184,7 +184,7 @@
 
 #### (D) Single source drug or biological
 
-&emsp;&emsp;The term “single source drug or biological” means—
+&emsp;&emsp;The term "single source drug or biological" means—
 
 &emsp;&emsp;&emsp;(i) a biological; or
 
@@ -204,15 +204,15 @@
 
 #### (G) Inclusion of vaccines
 
-&emsp;&emsp;In applying provisions of section 1396r–8 of this title under this section, “other than a vaccine” is deemed deleted from section 1396r–8(k)(2)(B) of this title.
+&emsp;&emsp;In applying provisions of section 1396r–8 of this title under this section, "other than a vaccine" is deemed deleted from section 1396r–8(k)(2)(B) of this title.
 
 #### (H) Biosimilar biological product
 
-&emsp;&emsp;The term “biosimilar biological product” means a biological product approved under an abbreviated application for a license of a biological product that relies in part on data or information in an application for another biological product licensed under section 262 of this title.
+&emsp;&emsp;The term "biosimilar biological product" means a biological product approved under an abbreviated application for a license of a biological product that relies in part on data or information in an application for another biological product licensed under section 262 of this title.
 
 #### (I) Reference biological product
 
-&emsp;&emsp;The term “reference biological product” means the biological product licensed under such section 262 of this title that is referred to in the application described in subparagraph (H) of the biosimilar biological product.
+&emsp;&emsp;The term "reference biological product" means the biological product licensed under such section 262 of this title that is referred to in the application described in subparagraph (H) of the biosimilar biological product.
 
 #### (d) Monitoring of market prices
 
@@ -236,7 +236,7 @@
 
 #### (B) Applicable threshold percentage defined
 
-&emsp;&emsp;In this paragraph, the term “applicable threshold percentage” means—
+&emsp;&emsp;In this paragraph, the term "applicable threshold percentage" means—
 
 &emsp;&emsp;&emsp;(i) in 2005, in the case of an average sales price for a drug or biological that exceeds widely available market price or the average manufacturer price, 5 percent; and
 
@@ -264,7 +264,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In this subsection, the term “widely available market price” means the price that a prudent physician or supplier would pay for the drug or biological. In determining such price, the Inspector General shall take into account the discounts, rebates, and other price concessions routinely made available to such prudent physicians or suppliers for such drugs or biologicals.
+&emsp;&emsp;In this subsection, the term "widely available market price" means the price that a prudent physician or supplier would pay for the drug or biological. In determining such price, the Inspector General shall take into account the discounts, rebates, and other price concessions routinely made available to such prudent physicians or suppliers for such drugs or biologicals.
 
 #### (B) Considerations
 
@@ -322,11 +322,11 @@ Subsec. (b)(8). Pub. L. 111–148, §3139(a)(1)(B), added par. (8).
 
 Subsec. (c)(6)(H), (I). Pub. L. 111–148, §3139(a)(2), added subpars. (H) and (I).
 
-<b>2007</b>—Subsec. (b)(1). Pub. L. 110–173, §112(b)(1), inserted “paragraph (7) and” after “Subject to” in introductory provisions.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–173, §112(b)(1), inserted "paragraph (7) and" after "Subject to" in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 110–173, §112(a)(1), inserted “for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008” after “paragraph (3)”.
+Subsec. (b)(1)(A). Pub. L. 110–173, §112(a)(1), inserted "for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008" after "paragraph (3)".
 
-Subsec. (b)(4)(A), (B). Pub. L. 110–173, §112(a)(2), inserted “for single source drugs and biologicals furnished before April 1, 2008, and using the methodology applied under paragraph (6) for single source drugs and biologicals furnished on or after April 1, 2008,” after “paragraph (3)”.
+Subsec. (b)(4)(A), (B). Pub. L. 110–173, §112(a)(2), inserted "for single source drugs and biologicals furnished before April 1, 2008, and using the methodology applied under paragraph (6) for single source drugs and biologicals furnished on or after April 1, 2008," after "paragraph (3)".
 
 Subsec. (b)(6). Pub. L. 110–173, §112(a)(3), added par. (6).
 
@@ -334,31 +334,31 @@ Subsec. (b)(7). Pub. L. 110–173, §112(b)(2), added par. (7).
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title III, §3139(b), Mar. 23, 2010, 124 Stat. 440, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payments for biosimilar biological products beginning with the first day of the second calendar quarter after enactment of legislation providing for a biosimilar pathway (as determined by the Secretary \[probably means the Secretary of Health and Human Services\]).”
+Pub. L. 111–148, title III, §3139(b), Mar. 23, 2010, 124 Stat. 440, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to payments for biosimilar biological products beginning with the first day of the second calendar quarter after enactment of legislation providing for a biosimilar pathway (as determined by the Secretary \[probably means the Secretary of Health and Human Services\])."
 
 #### Report on Sales to Pharmacy Benefit Managers
 
 Pub. L. 108–173, title III, §303(c)(2), Dec. 8, 2003, 117 Stat. 2245, provided that:
 
-“(A)
+"(A)
 
 Study.—The Secretary \[of Health and Human Services\] shall conduct a study on sales of drugs and biologicals to large volume purchasers, such as pharmacy benefit managers and health maintenance organizations, for purposes of determining whether the price at which such drugs and biologicals are sold to such purchasers does not represent the price such drugs and biologicals are made available for purchase to prudent physicians.
 
-“(B)
+"(B)
 
-Report.—Not later than January 1, 2006, the Secretary shall submit to Congress a report on the study conducted under paragraph (1), and shall include recommendations on whether such sales to large volume purchasers should be excluded from the computation of a manufacturer's average sales price under section 1847A of the Social Security Act \[this section\], as added by paragraph (1).”
+Report.—Not later than January 1, 2006, the Secretary shall submit to Congress a report on the study conducted under paragraph (1), and shall include recommendations on whether such sales to large volume purchasers should be excluded from the computation of a manufacturer's average sales price under section 1847A of the Social Security Act \[42 U.S.C. 1395w–3a\], as added by paragraph (1)."
 
 #### Inspector General Report on Adequacy of Reimbursement Rate Under Average Sales Price Methodology
 
 Pub. L. 108–173, title III, §303(c)(3), Dec. 8, 2003, 117 Stat. 2245, provided that:
 
-“(A)
+"(A)
 
-Study.—The Inspector General of the Department of Health and Human Services shall conduct a study on the ability of physician practices in the specialties of hematology, hematology/oncology, and medical oncology of different sizes, especially particularly large practices, to obtain drugs and biologicals for the treatment of cancer patients at 106 percent of the average sales price for the drugs and biologicals. In conducting the study, the Inspector General shall conduct an audit of a representative sample of such practices to determine the adequacy of reimbursement under section 1847A of the Social Security Act \[this section\], as added by paragraph (1).
+Study.—The Inspector General of the Department of Health and Human Services shall conduct a study on the ability of physician practices in the specialties of hematology, hematology/oncology, and medical oncology of different sizes, especially particularly large practices, to obtain drugs and biologicals for the treatment of cancer patients at 106 percent of the average sales price for the drugs and biologicals. In conducting the study, the Inspector General shall conduct an audit of a representative sample of such practices to determine the adequacy of reimbursement under section 1847A of the Social Security Act \[42 U.S.C. 1395w–3a\], as added by paragraph (1).
 
-“(B)
+"(B)
 
-Report.—Not later October 1, 2005, the Inspector General shall submit to Congress a report on the study conducted under subparagraph (A), and shall include recommendations on the adequacy of reimbursement for such drugs and biologicals under such section 1847A \[this section\].”
+Report.—Not later October 1, 2005, the Inspector General shall submit to Congress a report on the study conducted under subparagraph (A), and shall include recommendations on the adequacy of reimbursement for such drugs and biologicals under such section 1847A \[42 U.S.C. 1395w–3a\]."
 
 #### Application of 2003 Amendment to Physician Specialties
 

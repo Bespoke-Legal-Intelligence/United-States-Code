@@ -34,5 +34,5 @@ For purposes of carrying out the activities under this section, there are author
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d). Pub. L. 111–211 substituted “2011 through 2015” for “2000 through 2004”.
+<b>2010</b>—Subsec. (d). Pub. L. 111–211 substituted "2011 through 2015" for "2000 through 2004".
 

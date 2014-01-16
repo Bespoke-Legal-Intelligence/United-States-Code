@@ -8,9 +8,9 @@ The President is authorized (subject to the succeeding provisions of this sectio
 
 For the purposes of this section—
 
-&emsp;(1) the term “social security system” means, with respect to a foreign country, a social insurance or pension system which is of general application in the country and under which periodic benefits, or the actuarial equivalent thereof, are paid on account of old age, death, or disability; and
+&emsp;(1) the term "social security system" means, with respect to a foreign country, a social insurance or pension system which is of general application in the country and under which periodic benefits, or the actuarial equivalent thereof, are paid on account of old age, death, or disability; and
 
-&emsp;(2) the term “period of coverage” means a period of payment of contributions or a period of earnings based on wages for employment or on self-employment income, or any similar period recognized as equivalent thereto under this subchapter or under the social security system of a country which is a party to an agreement entered into under this section.
+&emsp;(2) the term "period of coverage" means a period of payment of contributions or a period of earnings based on wages for employment or on self-employment income, or any similar period recognized as equivalent thereto under this subchapter or under the social security system of a country which is a party to an agreement entered into under this section.
 
 #### (c) Crediting periods of coverage; conditions of payment of benefits
 
@@ -42,13 +42,13 @@ The Commissioner of Social Security shall make rules and regulations and establi
 
 #### Amendments
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary".
 
-<b>1984</b>—Subsec. (d). Pub. L. 98–369 struck out “of Health, Education, and Welfare” after “Secretary”.
+<b>1984</b>—Subsec. (d). Pub. L. 98–369 struck out "of Health, Education, and Welfare" after "Secretary".
 
-<b>1983</b>—Subsec. (e)(2). Pub. L. 98–21 substituted “during which at least one House of the Congress has been in session on each of 60 days” for “during which each House of the Congress has been in session on each of 90 days”.
+<b>1983</b>—Subsec. (e)(2). Pub. L. 98–21 substituted "during which at least one House of the Congress has been in session on each of 60 days" for "during which each House of the Congress has been in session on each of 90 days".
 
-<b>1981</b>—Subsec. (c)(2). Pub. L. 97–35 struck out provision permitting the agreement to provide that if the benefit paid by the United States to an individual who legally resides in the United States when added to the benefit paid by the foreign country is less than the benefit amount payable to such individual based on the first figure in, or deemed to be in, column IV of the table in section 415(a) of this title in the case of an individual becoming eligible before Jan. 1, 1979, or based on a primary insurance amount determined under section 415(a)(1)(C)(i)(I) of this title in the case of an individual becoming eligible for such benefit on or after such date, the benefit paid by the United States be increased so that the two benefits equal the benefit amount that would be payable.
+<b>1981</b>—Subsec. (c)(2). Pub. L. 97–35 struck out provision permitting the agreement to provide that if the benefit paid by the United States to an individual who legally resides in the United States when added to the benefit paid by the foreign country is less than the benefit amount payable to such individual based on the first figure in, or deemed to be in, column IV of the table in section 415(a) of this title in the case of an individualbecoming eligible before Jan. 1, 1979, or based on a primary insurance amount determined under section 415(a)(1)(C)(i)(I) of this title in the case of an individual becoming eligible for such benefit on or after such date, the benefit paid by the United States be increased so that the two benefits equal the benefit amount that would be payable.
 
 #### Effective Date of 1994 Amendment
 
@@ -60,7 +60,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 98–21, title III, §326(b), Apr. 20, 1983, 97 Stat. 126, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective on the date of the enactment of this Act \[Apr. 20, 1983\].”
+Pub. L. 98–21, title III, §326(b), Apr. 20, 1983, 97 Stat. 126, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective on the date of the enactment of this Act \[Apr. 20, 1983\]."
 
 #### Effective Date of 1981 Amendment
 

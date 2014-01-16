@@ -38,5 +38,5 @@ Any designated archaeological or ethnological material which is imported into th
 
 #### Codification
 
-Section 2607 of this title, referred to in subsec. (c)(1), was in the original “section 208”, and was translated as section 2607 of this title, which is section 308 of Pub. L. 97–446, as the probable intent of Congress.
+Section 2607 of this title, referred to in subsec. (c)(1), was in the original "section 208", and was translated as section 2607 of this title, which is section 308 of Pub. L. 97–446, as the probable intent of Congress.
 

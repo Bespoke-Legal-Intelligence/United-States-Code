@@ -4,7 +4,7 @@
 
 Section 615ii, Pub. L. 87–483, §1, June 13, 1962, 76 Stat. 96, related to Congressional declaration of policy.
 
-Section 615jj, Pub. L. 87–483, §2, as added Pub. L. 111–11, title X, §10402(a), Mar. 30, 2009, 123 Stat. 1372, authorized construction, operation, and maintenance of Navajo Indian Irrigation Project. Section to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note under section 620 of this title.
+Section 615jj, Pub. L. 87–483, §2, as added Pub. L. 111–11, title X, §10402(a), Mar. 30, 2009, 123 Stat. 1372, authorized construction, operation, and maintenance of Navajo Indian Irrigation Project. Section to be null and void on issuance of a court order terminating a certainAgreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note under section 620 of this title.
 
 A prior section 615jj, Pub. L. 87–483, §2, June 13, 1962, 76 Stat. 96, authorized construction, operation, and maintenance of Navajo Indian irrigation project, prior to repeal by Pub. L. 111–11, title X, §10402(a), Mar. 30, 2009, 123 Stat. 1372. Repeal by Pub. L. 111–11 to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note under section 620 of this title.
 
@@ -34,7 +34,7 @@ Section 615vv, Pub. L. 87–483, §14, June 13, 1962, 76 Stat. 101, required com
 
 Section 615ww, Pub. L. 87–483, §15, June 13, 1962, 76 Stat. 102, related to studies of quality of water of Colorado River system and reports to Congress on results of these studies.
 
-Section 615xx, Pub. L. 87–483, §16, June 13, 1962, 76 Stat. 102, related to compact obligations of “States of the upper division” concerning flow depletion at Lee Ferry and the Mexican treaty obligation.
+Section 615xx, Pub. L. 87–483, §16, June 13, 1962, 76 Stat. 102, related to compact obligations of "States of the upper division" concerning flow depletion at Lee Ferry and the Mexican treaty obligation.
 
 Section 615yy, Pub. L. 87–483, §17, June 13, 1962, 76 Stat. 102, related to determination of appropriations.
 

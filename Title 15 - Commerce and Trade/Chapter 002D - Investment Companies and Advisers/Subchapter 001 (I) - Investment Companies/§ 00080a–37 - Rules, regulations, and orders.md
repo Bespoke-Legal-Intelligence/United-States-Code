@@ -24,7 +24,7 @@ The Trust Indenture Act of 1939, referred to in subsec. (b), is title III of act
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–203 struck out “the Public Utility Holding Company Act of 1935,” after “the Securities Exchange Act of 1934,”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 struck out "the Public Utility Holding Company Act of 1935," after "the Securities Exchange Act of 1934,".
 
 #### Effective Date of 2010 Amendment
 

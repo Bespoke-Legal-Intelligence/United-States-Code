@@ -6,7 +6,7 @@ Requirement for Determination and Notification.—A major weapon system of the D
 
 &emsp;(1) the Secretary of Defense determines that—
 
-&emsp;&emsp;(A) the major weapon system is a commercial item, as defined in section 4(12) <sup>1</sup> of theOffice of Federal Procurement Policy Act (41 U.S.C. 403(12)); and
+&emsp;&emsp;(A) the major weapon system is a commercial item, as defined in section 4(12) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)); and
 
 &emsp;&emsp;(B) such treatment is necessary to meet national security objectives;
 
@@ -16,7 +16,7 @@ Requirement for Determination and Notification.—A major weapon system of the D
 
 (b)
 
-Treatment of Subsystems as Commercial Items.—A subsystem of a major weapon system (other than a commercially available off-the-shelf item as defined in section 35(c) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))) shall be treated as a commercial item and purchased under procedures established for the procurement of commercial items only if—
+Treatment of Subsystems as Commercial Items.—A subsystem of a major weapon system (other than a commercially available off-the-shelf item as defined in section 35(c) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))) shall be treated as a commercialitem and purchased under procedures established for the procurement of commercial items only if—
 
 &emsp;(1) the subsystem is intended for a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial items in accordance with the requirements of subsection (a); or
 
@@ -58,7 +58,7 @@ Delegation.—The authority of the Secretary of Defense to make a determination 
 
 (f)
 
-Major Weapon System Defined.—In this section, the term “major weapon system” means a weapon system acquired pursuant to a major defense acquisition program (as that term is defined in section 2430 of this title).
+Major Weapon System Defined.—In this section, the term "major weapon system" means a weapon system acquired pursuant to a major defense acquisition program (as that term is defined in section 2430 of this title).
 
 (Added Pub. L. 109–163, div. A, title VIII, §803(a)(1), Jan. 6, 2006, 119 Stat. 3370; amended Pub. L. 110–181, div. A, title VIII, §815(a)(1), Jan. 28, 2008, 122 Stat. 222.)
 
@@ -72,13 +72,13 @@ Section 35(c) of the Office of Federal Procurement Policy Act, referred to in su
 
 <b>2008</b>—Subsec. (a)(2), (3). Pub. L. 110–181, §815(a)(1)(A), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (b). Pub. L. 110–181, §815(a)(1)(B), added subsec. (b) and struck out former subsec. (b). Former text read as follows: “A subsystem or component of a major weapon system shall be treated as a commercial item and purchased under procedures established for the procurement of commercial items if such subsystem or component otherwise meets the requirements (other than requirements under subsection (a)) for treatment as a commercial item.”
+Subsec. (b). Pub. L. 110–181, §815(a)(1)(B), added subsec. (b) and struck out former subsec. (b). Former text read as follows: "A subsystem or component of a major weapon system shall be treated as a commercial item and purchased under procedures established for the procurement of commercial items if such subsystem or component otherwise meets the requirements (other than requirements under subsection (a)) for treatment as a commercial item."
 
 Subsecs. (c) to (f). Pub. L. 110–181, §815(a)(1)(C), (D), added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
 
 #### Effective Date
 
-Pub. L. 109–163, div. A, title VIII, §803(b), Jan. 6, 2006, 119 Stat. 3371, provided that: “The amendments madeby subsection (a) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Jan. 6, 2006\], and shall apply to contracts entered into on or after such date.”
+Pub. L. 109–163, div. A, title VIII, §803(b), Jan. 6, 2006, 119 Stat. 3371, provided that: "The amendments made by subsection (a) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Jan. 6, 2006\], and shall apply to contracts entered into on or after such date."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

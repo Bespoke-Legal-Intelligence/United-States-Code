@@ -14,13 +14,13 @@
 
 #### References in Text
 
-The Competition in Contracting Act of 1984, referred to in subsec. (c)(1), is title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 101 of Title 41, Public Contracts, and Tables.
+The Competition in Contracting Act of 1984, referred to in subsec. (c)(1), is title VII of Pub. L. 98–369, div. B,July 18, 1984, 98 Stat. 1175. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 101 of Title 41, Public Contracts, and Tables.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c)(1). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
+<b>2011</b>—Subsec. (c)(1). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 3709 of the Revised Statutes (41 U.S.C. 5)".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted “section 3307 of title 40” for “section 7 of the Public Buildings Act of 1959, as amended (40 U.S.C. 606)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted "section 3307 of title 40" for "section 7 of the Public Buildings Act of 1959, as amended (40 U.S.C. 606)".
 
 #### Change of Name
 

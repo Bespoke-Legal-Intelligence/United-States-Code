@@ -18,9 +18,9 @@ Eligibility of Employees of Nonappropriated Fund Instrumentalities.—A nonappro
 
 Definitions.—In this section:
 
-&emsp;(1) The term “combat zone” has the meaning given that term in section 112(c)(2) of the Internal Revenue Code of 1986.
+&emsp;(1) The term "combat zone" has the meaning given that term in section 112(c)(2) of the Internal Revenue Code of 1986.
 
-&emsp;(2) The term “nonappropriated fund instrumentality employee” has the meaning given that term in section 1587(a)(1) of this title.
+&emsp;(2) The term "nonappropriated fund instrumentality employee" has the meaning given that term in section 1587(a)(1) of this title.
 
 (Added Pub. L. 106–65, div. A, title XI, §1103(b)(1), Oct. 5, 1999, 113 Stat. 776.)
 

@@ -28,15 +28,15 @@ It shall be an unlawful employment practice for any employer, labor organization
 
 #### (e) Businesses or enterprises with personnel qualified on basis of religion, sex, or national origin; educational institutions with personnel of particular religion
 
-Notwithstanding any other provision of this subchapter, (1) it shall not be an unlawful employment practice for an employer to hire and employ employees, for an employment agency to classify, or refer for employment any individual, for a labor organization to classify its membership or to classify or refer for employment any individual, or for an employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining programs to admit or employ any individual in any such program, on the basis of his religion, sex, or national origin in those certain instances where religion, sex, or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of that particular business or enterprise, and (2) it shall not be an unlawful employment practice for a school, college, university, or other educational institution or institution of learning to hire and employ employees of a particular religion if such school, college, university, or other educational institution or institution of learning is, in whole or in substantial part, owned, supported, controlled, or managed by a particular religion or by a particular religious corporation, association, or society, or if the curriculum of such school, college, university, or other educational institution or institution of learning is directed toward the propagation of a particular religion.
+Notwithstanding any other provision of this subchapter, (1) it shall not be an unlawful employment practice for an employer to hire and employ employees, for an employment agency to classify, or refer for employment any individual, for a labor organization to classify its membership or to classify or refer for employment any individual, or for an employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining programs to admit or employ any individual in any such program, on the basis of his religion, sex, or national origin in those certain instances where religion, sex, or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of that particular business or enterprise, and (2) it shall not be an unlawful employment practice for a school, college, university, or other educational institution or institution of learning to hire andemploy employees of a particular religion if such school, college, university, or other educational institution or institution of learning is, in whole or in substantial part, owned, supported, controlled, or managed by a particular religion or by a particular religious corporation, association, or society, or if the curriculum of such school, college, university, or other educational institution or institution of learning is directed toward the propagation of a particular religion.
 
 #### (f) Members of Communist Party or Communist-action or Communist-front organizations
 
-As used in this subchapter, the phrase “unlawful employment practice” shall not be deemed to include any action or measure taken by an employer, labor organization, joint labor-management committee, or employment agency with respect to an individual who is a member of the Communist Party of the United States or of any other organization required to register as a Communist-action or Communist-front organization by final order of the Subversive Activities Control Board pursuant to the Subversive Activities Control Act of 1950 \[50 U.S.C. 781 et seq.\].
+As used in this subchapter, the phrase "unlawful employment practice" shall not be deemed to include any action or measure taken by an employer, labor organization, joint labor-management committee, or employment agency with respect to an individual who is a member of the Communist Party of the United States or of any other organization required to register as a Communist-action or Communist-front organization by final order of the Subversive Activities Control Board pursuant to the Subversive Activities Control Act of 1950 \[50 U.S.C. 781 et seq.\].
 
 #### (g) National security
 
-Notwithstanding any other provision of this subchapter, it shall not be an unlawful employment practice for an employer to fail or refuseto hire and employ any individual for any position, for an employer to discharge any individual from any position, or for an employment agency to fail or refuse to refer any individual for employment in any position, or for a labor organization to fail or refuse to refer any individual for employment in any position, if—
+Notwithstanding any other provision of this subchapter, it shall not be an unlawful employment practice for an employer to fail or refuse to hire and employ any individual for any position, for an employer to discharge any individual from any position, or for an employment agency to fail or refuse to refer any individual for employment in any position, or for a labor organization to fail or refuse to refer any individual for employment in any position, if—
 
 &emsp;(1) the occupancy of such position, or access to the premises in or upon which any part of the duties of such position is performed or is to be performed, is subject to any requirement imposed in the interest of the national security of the United States under any security program in effect pursuant to or administered under any statute of the United States or any Executive order of the President; and
 
@@ -66,7 +66,7 @@ Nothing contained in this subchapter shall be interpreted to require any employe
 
 (ii) If the respondent demonstrates that a specific employment practice does not cause the disparate impact, the respondent shall not be required to demonstrate that such practice is required by business necessity.
 
-(C) The demonstration referred to by subparagraph (A)(ii) shall be in accordance with the law as it existed on June 4, 1989, with respect to the concept of “alternative employment practice”.
+(C) The demonstration referred to by subparagraph (A)(ii) shall be in accordance with the law as it existed on June 4, 1989, with respect to the concept of "alternative employment practice".
 
 (2) A demonstration that an employment practice is required by business necessity may not be used as a defense against a claim of intentional discrimination under this subchapter.
 
@@ -126,9 +126,9 @@ Subsec. (m). Pub. L. 102–166, §107(a), added subsec. (m).
 
 Subsec. (n). Pub. L. 102–166, §108, added subsec. (n).
 
-<b>1972</b>—Subsec. (a)(2). Pub. L. 92–261, §8(a), inserted “or applicants for employment” after “his employees”.
+<b>1972</b>—Subsec. (a)(2). Pub. L. 92–261, §8(a), inserted "or applicants for employment" after "his employees".
 
-Subsec. (c)(2). Pub. L. 92–261, §8(b), inserted “or applicants for membership” after “membership”.
+Subsec. (c)(2). Pub. L. 92–261, §8(b), inserted "or applicants for membership" after "membership".
 
 #### Effective Date of 1991 Amendment
 

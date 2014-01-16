@@ -10,7 +10,7 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–554 substituted “regions” for “districts”.
+<b>1986</b>—Pub. L. 99–554 substituted "regions" for "districts".
 
 #### Effective Date of 1986 Amendment
 

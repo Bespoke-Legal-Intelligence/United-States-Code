@@ -2,7 +2,7 @@
 
 (a) The Board may require—
 
-&emsp;(1) rail carriers, lessors, and associations, or classes of them as the Board may prescribe, to file annual, periodic, and special reports with the Board containing answers to questions asked by it; and
+&emsp;(1) rail carriers, lessors, and associations, or classes of them as the Board may prescribe, tofile annual, periodic, and special reports with the Board containing answers to questions asked by it; and
 
 &emsp;(2) a person furnishing cars to a rail carrier to file reports with the Board containing answers to questions about those cars.
 

@@ -30,9 +30,9 @@ Subsection (d) reinforces section 109 by prohibiting conversion to a chapter unl
 
 #### Amendments
 
-<b>2005</b>—Subsec. (c). Pub. L. 109–8 inserted “or consents to” after “requests”.
+<b>2005</b>—Subsec. (c). Pub. L. 109–8 inserted "or consents to" after "requests".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–394 substituted “1208, or 1307” for “1307, or 1208”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394 substituted "1208, or 1307" for "1307, or 1208".
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–554, §257(q)(1), inserted references to chapter 12 and section 1208 of this title.
 

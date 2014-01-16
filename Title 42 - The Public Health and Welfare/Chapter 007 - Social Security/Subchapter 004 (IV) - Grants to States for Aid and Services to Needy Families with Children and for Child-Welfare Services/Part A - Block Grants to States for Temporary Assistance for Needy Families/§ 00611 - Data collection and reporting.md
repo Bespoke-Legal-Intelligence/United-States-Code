@@ -6,7 +6,7 @@
 
 #### (A) Contents of report
 
-&emsp;&emsp;Each eligible State shall collect on a monthly basis, and report to the Secretary on a quarterly basis, the following disaggregated case record information on the families receiving assistance under the Stateprogram funded under this part (except for information relating to activities carried out under section 603(a)(5) of this title) or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title):
+&emsp;&emsp;Each eligible State shall collect on a monthly basis, and report to the Secretary on a quarterly basis, the following disaggregated case record information on the families receiving assistance under the State program funded under this part (except for information relating to activities carried out under section 603(a)(5) of this title) or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title):
 
 &emsp;&emsp;&emsp;(i) The county of residence of the family.
 
@@ -212,7 +212,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 #### (5) Authority for expeditious implementation
 
-&emsp;The requirements of chapter 5 of title 5 (commonly referred to as the “Administrative Procedure Act”) or any other law relating to rulemaking or publication in the Federal Register shall not apply to the issuance of guidance or instructions by the Secretary with respect to the implementation of this subsection to the extent the Secretary determines that compliance with any such requirement would impede the expeditious implementation of this subsection.
+&emsp;The requirements of chapter 5 of title 5 (commonly referred to as the "Administrative Procedure Act") or any other law relating to rulemaking or publication in the Federal Register shall not apply to the issuance of guidance or instructions by the Secretary with respect to the implementation of this subsectionto the extent the Secretary determines that compliance with any such requirement would impede the expeditious implementation of this subsection.
 
 #### (d) Data exchange standardization for improved interoperability
 
@@ -272,41 +272,41 @@ A prior section 611, act Aug. 14, 1935, ch. 531, title IV, §411, as added Dec. 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1)(A)(ii)(III). Pub. L. 112–96, §4005(e), struck out second closing parenthesis after “1972”.
+<b>2012</b>—Subsec. (a)(1)(A)(ii)(III). Pub. L. 112–96, §4005(e), struck out second closing parenthesis after "1972".
 
 Subsec. (d). Pub. L. 112–96, §4003(a), added subsec. (d).
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–291 added subsec. (c).
 
-<b>2008</b>—Subsec. (a)(1)(A)(ix). Pub. L. 110–246, §4002(b)(1)(E), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+<b>2008</b>—Subsec. (a)(1)(A)(ix). Pub. L. 110–246, §4002(b)(1)(E), (2)(V), substituted "supplemental nutrition assistance program benefits" for "food stamps".
 
-<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–171, §7102(b)(2)(A), inserted “or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” before colon at end of introductory provisions.
+<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–171, §7102(b)(2)(A), inserted "or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" before colon at end of introductory provisions.
 
-Subsec. (a)(1)(B)(ii). Pub. L. 109–171, §7102(b)(2)(B), inserted “and any other State programs funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” after “this part”.
+Subsec. (a)(1)(B)(ii). Pub. L. 109–171, §7102(b)(2)(B), inserted "and any other State programs funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" after "this part".
 
-<b>1999</b>—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(4) \[title VIII, §804(a)(1)\], in introductory provisions, inserted “(except for information relating to activities carried out under section 603(a)(5) of this title)” after “part”.
+<b>1999</b>—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(4) \[title VIII, §804(a)(1)\], in introductory provisions, inserted "(except for information relating to activities carried out under section 603(a)(5) of this title)" after "part".
 
 Subsec. (a)(1)(A)(xviii). Pub. L. 106–113, §1000(a)(4) \[title VIII, §804(a)(2)\], struck out cl. (xviii) which related to families participating in a program operated with funds provided under section 603(a)(5) of this title.
 
 <b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
-Subsec. (a)(1)(A)(ii). Pub. L. 105–33, §5507(1)(A)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: “Whether a child receiving such assistance or an adult in the family is disabled.”
+Subsec. (a)(1)(A)(ii). Pub. L. 105–33, §5507(1)(A)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: "Whether a child receiving such assistance or an adult in the family is disabled."
 
-Subsec. (a)(1)(A)(iv). Pub. L. 105–33, §5507(1)(A)(ii), substituted “head of” for “youngest child in”.
+Subsec. (a)(1)(A)(iv). Pub. L. 105–33, §5507(1)(A)(ii), substituted "head of" for "youngest child in".
 
-Subsec. (a)(1)(A)(vii), (viii). Pub. L. 105–33, §5507(1)(A)(iii), substituted “level” for “status”.
+Subsec. (a)(1)(A)(vii), (viii). Pub. L. 105–33, §5507(1)(A)(iii), substituted "level" for "status".
 
 Subsec. (a)(1)(A)(xvii). Pub. L. 105–33, §5507(1)(A)(iv), added cl. (xvii).
 
 Subsec. (a)(1)(A)(xviii). Pub. L. 105–33, §5001(e)(1), added cl. (xviii).
 
-Subsec. (a)(1)(B). Pub. L. 105–33, §5507(1)(B), substituted “samples” for “estimates” in heading and “disaggregated case record information on a sample of families selected” for “an estimate which is obtained” in cl. (i).
+Subsec. (a)(1)(B). Pub. L. 105–33, §5507(1)(B), substituted "samples" for "estimates" in heading and "disaggregated case record information on a sample of families selected" for "an estimate which is obtained" in cl. (i).
 
-Subsec. (a)(2). Pub. L. 105–33, §5001(e)(2), inserted before period at end “, with a separate statement of the percentage of such funds that are used to cover administrative costs or overhead incurred for programs operated with funds provided under section 603(a)(5) of this title”.
+Subsec. (a)(2). Pub. L. 105–33, §5001(e)(2), inserted before period at end ", with a separate statement of the percentage of such funds that are used to cover administrative costs or overhead incurred for programs operated with funds provided under section 603(a)(5) of this title".
 
-Subsec. (a)(3). Pub. L. 105–33, §5001(e)(3), inserted before period at end “, with a separate statement of the total amount expended by the State during the quarter on programs operated with funds provided under section 603(a)(5) of this title”.
+Subsec. (a)(3). Pub. L. 105–33, §5001(e)(3), inserted before period at end ", with a separate statement of the total amount expended by the State during the quarter on programs operated with funds provided under section 603(a)(5) of this title".
 
-Subsec. (a)(4). Pub. L. 105–33, §5001(e)(4), inserted before period at end “, with a separate statement of the number of such parents who participated in programs operated with funds provided under section 603(a)(5) of this title”.
+Subsec. (a)(4). Pub. L. 105–33, §5001(e)(4), inserted before period at end ", with a separate statement of the number of such parents who participated in programs operated with funds provided under section 603(a)(5) of this title".
 
 Subsec. (a)(6). Pub. L. 105–33, §5507(2), added par. (6). Former par. (6) redesignated (7).
 
@@ -314,19 +314,19 @@ Subsec. (a)(6)(C). Pub. L. 105–33, §5001(e)(5), added subpar. (C).
 
 Subsec. (a)(7). Pub. L. 105–33, §5507(2), redesignated par. (6) as (7).
 
-Pub. L. 105–33, §5001(e)(6), inserted before period at end “, and shall consult with the Secretary of Labor in defining the data elements with respect to programs operated with funds provided under section 603(a)(5) of this title”.
+Pub. L. 105–33, §5001(e)(6), inserted before period at end ", and shall consult with the Secretary of Labor in defining the data elements with respect to programs operated with funds provided under section 603(a)(5) of this title".
 
 #### Effective Date of 2012 Amendment; Regulations
 
 Pub. L. 112–96, title IV, §4003(b), Feb. 22, 2012, 126 Stat. 196, provided that:
 
-“(1)
+"(1)
 
 Data exchange standards.—The Secretary of Health and Human Services shall issue a proposed rule under section 411(d)(1) of the Social Security Act \[42 U.S.C. 611(d)(1)\] within 12 months after the date of the enactment of this section \[Feb. 22, 2012\], and shall issue a final rule under such section 411(d)(1), after public comment, within 24 months after such date of enactment.
 
-“(2)
+"(2)
 
-Data reporting standards.—The reporting standards required under section 411(d)(2) of such Act \[42 U.S.C. 611(d)(2)\] shall become effective with respect to reports required in the first reporting period, after the effective date of the final rule referred to in paragraph (1) of this subsection, for which the authority for data collection and reporting is established or renewed under the Paperwork Reduction Act \[44 U.S.C. 3501 et seq.\].”
+Data reporting standards.—The reporting standards required under section 411(d)(2) of such Act \[42 U.S.C. 611(d)(2)\] shall become effective with respect to reports required in the first reporting period, after the effective date of the final rule referred to in paragraph (1) of this subsection, for which the authority for data collection and reporting is established or renewed under the Paperwork Reduction Act \[44 U.S.C. 3501 et seq.\]."
 
 #### Effective Date of 2008 Amendment
 

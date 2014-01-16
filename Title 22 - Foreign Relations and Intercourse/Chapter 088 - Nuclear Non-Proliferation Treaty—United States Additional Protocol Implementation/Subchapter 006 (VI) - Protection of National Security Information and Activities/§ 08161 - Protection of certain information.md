@@ -10,7 +10,7 @@ No information of direct national security significance regarding any location, 
 
 #### (c) Restricted data
 
-Nothing in this chapter shall be construed to permit the communication or disclosure to the IAEA or IAEA employees of restricted data controlled by the provisions of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), including in particular “Restricted Data” as defined under paragraph (1) of section 11 y. of such Act (42 U.S.C. 2014(y)).
+Nothing in this chapter shall be construed to permit the communication or disclosure to the IAEA or IAEA employees of restricted data controlled by the provisions of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), including in particular "Restricted Data" as defined under paragraph (1) of section 11 y. of such Act (42 U.S.C. 2014(y)).
 
 #### (d) Classified information
 
@@ -20,7 +20,7 @@ Nothing in this Act shall be construed to permit the communication or disclosure
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (c), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (c), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 This Act, referred to in subsec. (d), is Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which enacted this chapter and chapter 87 (§8001 et seq.) of this title and amended section 2652c of this title and section 2153 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 

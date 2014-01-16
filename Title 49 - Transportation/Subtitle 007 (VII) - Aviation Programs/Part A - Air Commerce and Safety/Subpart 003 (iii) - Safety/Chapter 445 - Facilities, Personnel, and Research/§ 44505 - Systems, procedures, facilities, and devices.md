@@ -34,7 +34,7 @@ Research on Human Factors and Simulation Models.—The Administrator shall condu
 
 &emsp;(6) to develop a better understanding of the relationship between human factors and unmanned aircraft system safety; and
 
-&emsp;(7) to develop dynamic simulation models for integrating all classes of unmanned aircraft systems into the national airspace system without any degradation of existing levels of safety for all national airspace system users.
+&emsp;(7) to develop dynamic simulation models for integrating all classes of unmanned aircraftsystems into the national airspace system without any degradation of existing levels of safety for all national airspace system users.
 
 (c)
 
@@ -124,11 +124,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §312(c) (2d, 3d sentences); adde
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §312(c) (4th sentence); added Nov. 5, 1990, Pub. L. 101–508, §9209(c), 104 Stat. 1388–378.
 
-In this section, the word “Administrator” in section 312(c) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 752) is retained on authority of 49:106(g).
+In this section, the word "Administrator" in section 312(c) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 752) is retained on authority of 49:106(g).
 
-In subsection (a)(1) and (3), the words “the armed forces” are substituted for “military agencies” and “the military” because of the definition of “armed forces” in 10:101.
+In subsection (a)(1) and (3), the words "the armed forces" are substituted for "military agencies" and "the military" because of the definition of "armed forces" in 10:101.
 
-In subsection (a)(3), the words “military department” are substituted for “military agency” because of the definition of “military department” in 10:101. The words “the needs of” and “to the maximum extent necessary” are omitted as surplus.
+In subsection (a)(3), the words "military department" are substituted for "military agency" because of the definition of "military department" in 10:101. The words "the needs of" and "to the maximum extent necessary" are omitted as surplus.
 
 #### References in Text
 
@@ -146,207 +146,207 @@ Subsecs. (d), (e). Pub. L. 112–95, §905, added subsec. (d) and redesignated f
 
 Pub. L. 112–95, title V, §507, Feb. 14, 2012, 126 Stat. 106, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Transportation shall carry out a pilot program at not more than 5 public-use airports under which the Federal Aviation Administration shall use funds made available under section 48101(a) \[probably means section 48101(a) of title 49, United States Code\] to test air traffic flow management tools, methodologies, and procedures that will allow air traffic controllers of the Administration to better manage the flow of aircraft on the ground and reduce the length of ground holds and idling time for aircraft.
 
-“(b)
+"(b)
 
 Selection Criteria.—In selecting from among airports at which to conduct the pilot program, the Secretary shall give priority consideration to airports at which improvements in ground control efficiencies are likely to achieve the greatest fuel savings or air quality or other environmental benefits, as measured by the amount of reduced fuel, reduced emissions, or other environmental benefits per dollar of funds expended under the pilot program.
 
-“(c)
+"(c)
 
-Maximum Amount.—Not more than a total of $2,500,000 may be expended under the pilot program at any single public-use airport.”
+Maximum Amount.—Not more than a total of $2,500,000 may be expended under the pilot program at any single public-use airport."
 
 #### Research Program on Runways
 
-Pub. L. 112–95, title IX, §904, Feb. 14, 2012, 126 Stat. 139, provided that: “Using amounts made available under section 48102(a) of title 49, United States Code, the Administrator \[of the Federal Aviation Administration\] shall continue to carry out a research program under which the Administrator may make grants to and enter into cooperative agreements with institutions of higher education and pavement research organizations for research and technology demonstrations related to—
+Pub. L. 112–95, title IX, §904, Feb. 14, 2012, 126 Stat. 139, provided that: "Using amounts made available under section 48102(a) of title 49, United States Code, the Administrator \[of the Federal Aviation Administration\] shall continue to carry out a research program under which the Administrator may make grants to and enter into cooperative agreements with institutions of higher education and pavement research organizations for research and technology demonstrations related to—
 
-&emsp;“(1) the design, construction, rehabilitation, and repair of airfield pavements to aid in the development of safer, more cost effective, and more durable airfield pavements; and
+&emsp;"(1) the design, construction, rehabilitation, and repair of airfield pavements to aid in the developmentof safer, more cost effective, and more durable airfield pavements; and
 
-&emsp;“(2) engineered material restraining systems for runways at both general aviation airports and airports with commercial air carrier operations.”
+&emsp;"(2) engineered material restraining systems for runways at both general aviation airports and airports with commercial air carrier operations."
 
 #### Wake Turbulence, Volcanic Ash, and Weather Research
 
-Pub. L. 112–95, title IX, §915, Feb. 14, 2012, 126 Stat. 144, provided that: “Not later than 60 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\] shall—
+Pub. L. 112–95, title IX, §915, Feb. 14, 2012, 126 Stat. 144, provided that: "Not later than 60 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\] shall—
 
-&emsp;“(1) initiate an evaluation of proposals related to research on the nature of wake vortexes that would increase national airspace system capacity by reducing existing spacing requirements between aircraft of all sizes;
+&emsp;"(1) initiate an evaluation of proposals related to research on the nature of wake vortexes that would increase national airspace system capacity by reducing existing spacing requirements between aircraft of all sizes;
 
-&emsp;“(2) begin implementation of a system to improve volcanic ash avoidance options for aircraft, including the development of a volcanic ash warning and notification system for aviation; and
+&emsp;"(2) begin implementation of a system to improve volcanic ash avoidance options for aircraft, including the development of a volcanic ash warning and notification system for aviation; and
 
-&emsp;“(3) coordinate with NOAA \[National Oceanic and Atmospheric Administration\], NASA \[National Aeronautics and Space Administration\], and other appropriate Federal agencies to conduct research to reduce the hazards presented to commercial aviation related to—
+&emsp;"(3) coordinate with NOAA \[National Oceanic and Atmospheric Administration\], NASA \[National Aeronautics and Space Administration\], and other appropriate Federal agencies to conduct research to reduce the hazards presented to commercial aviation related to—
 
-&emsp;&emsp;“(A) ground de-icing and anti-icing, ice pellets, and freezing drizzle;
+&emsp;&emsp;"(A) ground de-icing and anti-icing, ice pellets, and freezing drizzle;
 
-&emsp;&emsp;“(B) oceanic weather, including convective weather;
+&emsp;&emsp;"(B) oceanic weather, including convective weather;
 
-&emsp;&emsp;“(C) en route turbulence prediction and detection; and
+&emsp;&emsp;"(C) en route turbulence prediction and detection; and
 
-&emsp;&emsp;“(D) all hazards during oceanic operations, where commercial traffic is high and only rudimentary satellite sensing is available.”
+&emsp;&emsp;"(D) all hazards during oceanic operations, where commercial traffic is high and only rudimentary satellite sensing is available."
 
 #### Assessment of Wake Turbulence Research and Development Program
 
-Pub. L. 108–176, title V, §505, Dec. 12, 2003, 117 Stat. 2559, required the Administrator of the Federal Aviation Administration to enter into an arrangement with the National Research Council for an assessment of theFederal Aviation Administration's proposed wake turbulence research and development program and required that a report on the assessment be provided to Committees of Congress not later than 1 year after Dec. 12, 2003.
+Pub. L. 108–176, title V, §505, Dec. 12, 2003, 117 Stat. 2559, required the Administrator of the Federal Aviation Administration to enter into an arrangement with the National Research Council for an assessment of the Federal Aviation Administration's proposed wake turbulence research and development program and required that a report on the assessment be provided to Committees of Congress not later than 1 year after Dec. 12, 2003.
 
 #### Ensuring Appropriate Standards for Airfield Pavements
 
 Pub. L. 108–176, title VII, §705, Dec. 12, 2003, 117 Stat. 2581, provided that:
 
-“(a)
+"(a)
 
 In General.—The Administrator of the Federal Aviation Administration shall review and determine whether the Federal Aviation Administration's standards used to determine the appropriate thickness for asphalt and concrete airfield pavements are in accordance with the Federal Aviation Administration's standard 20-year-life requirement using the most up-to-date available information on the life of airfield pavements. If the Administrator determines that such standards are not in accordance with that requirement, the Administrator shall make appropriate adjustments to the Federal Aviation Administration's standards for airfield pavements.
 
-“(b)
+"(b)
 
-Report.—Within 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shall report the results of the review conducted under subsection (a) and the adjustments, if any, made on the basis of that review to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure and Committee on Science \[now Committee on Science, Space, and Technology\].”
+Report.—Within 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shall report the results of the review conducted under subsection (a) and the adjustments, if any, made on the basis of that review to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure and Committee on Science \[now Committee on Science, Space, and Technology\]."
 
 #### Use of Recycled Materials
 
 Pub. L. 106–181, title I, §157, Apr. 5, 2000, 114 Stat. 89, provided that:
 
-“(a)
+"(a)
 
 Study.—The Administrator \[of the Federal Aviation Administration\] shall conduct a study of the use of recycled materials (including recycled pavements, waste materials, and byproducts) in pavement used for runways, taxiways, and aprons and the specification standards in tests necessary for the use of recycled materials in such pavement. The primary focus of the study shall be on the long-term physical performance, safety implications, and environmental benefits of using recycled materials in aviation pavement.
 
-“(b)
+"(b)
 
 Contracting.—The Administrator may carry out the study by entering into a contract with a university of higher education with expertise necessary to carry out the study.
 
-“(c)
+"(c)
 
 Report.—Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a report on the results of the study, together with recommendations concerning the use of recycled materials in aviation pavement.
 
-“(d)
+"(d)
 
-Funding.—Of the amounts appropriated pursuant to section 106(k) of title 49, United States Code, not to exceed $1,500,000 may be used to carry out this section.”
+Funding.—Of the amounts appropriated pursuant to section 106(k) of title 49, United States Code, not to exceed $1,500,000 may be used to carry out this section."
 
 #### Airfield Pavement Conditions
 
 Pub. L. 106–181, title I, §160, Apr. 5, 2000, 114 Stat. 90, provided that:
 
-“(a)
+"(a)
 
 Evaluation of Options.—The Administrator \[of the Federal Aviation Administration\] shall evaluate options for improving the quality of information available to the Federal Aviation Administration on airfield pavement conditions for airports that are part of the national air transportation system, including—
 
-&emsp;“(1) improving the existing runway condition information contained in the airport safety data program by reviewing and revising rating criteria and providing increased training for inspectors;
+&emsp;"(1) improving the existing runway condition information contained in the airport safety data program by reviewing and revising rating criteria and providing increased training for inspectors;
 
-&emsp;“(2) requiring such airports to submit pavement condition index information as part of their airport master plan or as support in applications for airport improvement grants; and
+&emsp;"(2) requiring such airports to submit pavement condition index information as part of their airport master plan or as support in applications for airport improvement grants; and
 
-&emsp;“(3) requiring all such airports to submit pavement condition index information on a regular basis and using this information to create a pavement condition database that could be used in evaluating the cost-effectiveness of project applications and forecasting anticipated pavement needs.
+&emsp;"(3) requiring all such airports to submit pavement condition index information on a regular basis and using this information to create a pavement condition database that could be used in evaluating the cost-effectiveness of project applications and forecasting anticipated pavement needs.
 
-“(b)
+"(b)
 
-Report to Congress.—Not later than 12 months after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit a report containing an evaluation of the options described in subsection (a) to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.”
+Report to Congress.—Not later than 12 months after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit a report containing an evaluation of the options described in subsection (a) to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure."
 
 #### Pilot Program To Permit Cost-Sharing of Air Traffic Modernization Projects
 
 Pub. L. 106–181, title III, §304, Apr. 5, 2000, 114 Stat. 122, provided that:
 
-“(a)
+"(a)
 
 Purpose.—It is the purpose of this section to improve aviation safety and enhance mobility of the Nation's air transportation system by encouraging non-Federal investment on a pilot program basis in critical air traffic control facilities and equipment.
 
-“(b)
+"(b)
 
 In General.—Subject to the requirements of this section, the Secretary \[of Transportation\] shall carry out a pilot program under which the Secretary may make grants to project sponsors for not more than 10 eligible projects.
 
-“(c)
+"(c)
 
 Federal Share.—The Federal share of the cost of an eligible project carried out under the program shall not exceed 33 percent. The non-Federal share of the cost of an eligible project shall be provided from non-Federal sources, including revenues collected pursuant to section 40117 of title 49, United States Code.
 
-“(d)
+"(d)
 
 Limitation on Grant Amounts.—No eligible project may receive more than $15,000,000 under the program.
 
-“(e)
+"(e)
 
 Funding.—The Secretary shall use amounts appropriated under section 48101(a) of title 49, United States Code, for fiscal years 2001 through 2003 to carry out the program.
 
-“(f)
+"(f)
 
 Definitions.—In this section, the following definitions apply:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Eligible project.—The term ‘eligible project’ means a project relating to the Nation's air traffic control system that is certified or approved by the Administrator \[of the Federal Aviation Administration\] and that promotes safety, efficiency, or mobility. Such projects may include—
+Eligible project.—The term 'eligible project' means a project relating to the Nation's air traffic control system that is certified or approved by the Administrator \[of the Federal Aviation Administration\] and that promotes safety, efficiency, or mobility. Such projects may include—
 
-&emsp;&emsp;“(A) airport-specific air traffic facilities and equipment, including local area augmentation systems, instrument landings systems, weather and wind shear detection equipment, lighting improvements, and control towers;
+&emsp;&emsp;"(A) airport-specific air traffic facilities and equipment, including local area augmentation systems, instrument landings systems, weather and wind shear detection equipment, lighting improvements, and control towers;
 
-&emsp;&emsp;“(B) automation tools to effect improvements in airport capacity, including passive final approach spacing tools and traffic management advisory equipment; and
+&emsp;&emsp;"(B) automation tools to effect improvements in airport capacity, including passive final approach spacing tools and traffic management advisory equipment; and
 
-&emsp;&emsp;“(C) facilities and equipment that enhance airspace control procedures, including consolidation of terminal radar control facilities and equipment, or assist in en route surveillance, including oceanic and offshore flight tracking.
+&emsp;&emsp;"(C) facilities and equipment that enhance airspace control procedures, including consolidation of terminal radar control facilities and equipment, or assist in en route surveillance, including oceanic and offshore flight tracking.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Project sponsor.—The term ‘project sponsor’ means a public-use airport or a joint venture between a public-use airport and one or more air carriers.
+Project sponsor.—The term 'project sponsor' means a public-use airport or a joint venture between a public-use airport and one or more air carriers.
 
-“(g)
+"(g)
 
 Transfers of Equipment.—Notwithstanding any other provision of law, project sponsors may transfer, without consideration, to the Federal Aviation Administration, facilities, equipment, and automation tools, the purchase of which was assisted by a grant made under this section. The Administration shall accept such facilities, equipment, and automation tools, which shall thereafter be operated and maintained by the Administration in accordance with criteria of the Administration.
 
-“(h)
+"(h)
 
-Guidelines.—Not later than 90 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall issue advisory guidelines on the implementation of the program.”
+Guidelines.—Not later than 90 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall issue advisory guidelines on the implementation of the program."
 
 #### Aircraft Dispatchers
 
 Pub. L. 106–181, title V, §516, Apr. 5, 2000, 114 Stat. 145, provided that:
 
-“(a)
+"(a)
 
 Study.—The Administrator \[of the Federal Aviation Administration\] shall conduct a study of the role of aircraft dispatchers in enhancing aviation safety.
 
-“(b)
+"(b)
 
 Contents.—The study shall include an assessment of whether or not aircraft dispatchers should be required for those operations not presently requiring aircraft dispatcher assistance, operational control issues related to the aircraft dispatching functions, and whether or not designation of positions within the Federal Aviation Administration for oversight of dispatchers would enhance aviation safety.
 
-“(c)
+"(c)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a report on the results of the study conducted under this section.”
+Report.—Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a report on the results of the study conducted under this section."
 
 #### Occupational Injuries of Airport Workers
 
 Pub. L. 106–181, title V, §520, Apr. 5, 2000, 114 Stat. 149, provided that:
 
-“(a)
+"(a)
 
 Study.—The Administrator \[of the Federal Aviation Administration\] shall conduct a study to determine the number of persons working at airports who are injured or killed as a result of being struck by a moving vehicle while on an airport tarmac, the seriousness of the injuries to such persons, and whether or not reflective safety vests or other actions should be required to enhance the safety of such workers.
 
-“(b)
+"(b)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a report on the results of the study conducted under this section.”
+Report.—Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a report on the results of the study conducted under this section."
 
 #### Alkali Silica Reactivity Distress
 
 Pub. L. 106–181, title VII, §743, Apr. 5, 2000, 114 Stat. 175, provided that:
 
-“(a)
+"(a)
 
 In General.—The Administrator \[of the Federal Aviation Administration\] may conduct a study on the impact of alkali silica reactivity distress on airport runways and taxiways and the use of lithium salts and other alternatives for mitigation and prevention of such distress. The study shall include a determination based on in-the-field inspections followed by petrographic analysis or other similar techniques.
 
-“(b)
+"(b)
 
 Authority To Make Grants.—The Administrator may carry out the study by making a grant to, or entering into a cooperative agreement with, a nonprofit organization for the conduct of all or a part of the study.
 
-“(c)
+"(c)
 
-Report.—Not later than 18 months after the date of initiation of the study under subsection (a), the Administrator shall transmit to Congress a report on the results of the study.”
+Report.—Not later than 18 months after the date of initiation of the study under subsection (a), the Administrator shall transmit to Congress a report on the results of the study."
 
 #### Research Program To Improve Airfield Pavements
 
 Pub. L. 108–176, title VII, §704, Dec. 12, 2003, 117 Stat. 2581, provided that:
 
-“(a)
+"(a)
 
 Continuation of Program.—The Administrator of the Federal Aviation Administration shall continue the program to consider awards to nonprofit concrete and asphalt pavement research foundations to improve the design, construction, rehabilitation, and repair of airfield pavements to aid in the development of safer, more cost effective, and more durable airfield pavements.
 
-“(b)
+"(b)
 
 Use of Grants or Cooperative Agreements.—The Administrator may use grants or cooperative agreements in carrying out this section.
 
-“(c)
+"(c)
 
-Statutory Construction.—Nothing in this section requires the Administrator to prioritize an airfield pavement research program above safety, security, Flight 21, environment, or energy research programs.”
+Statutory Construction.—Nothing in this section requires the Administrator to prioritize an airfield pavement research program above safety, security, Flight 21, environment, or energy research programs."
 
-Pub. L. 106–181, title IX, §905, Apr. 5, 2000, 114 Stat. 196, provided that: “The Administrator \[of the Federal Aviation Administration\] shall consider awards to nonprofit concrete pavement research foundations to improve the design, construction, rehabilitation, and repair of rigid concrete airfield pavements to aid in the development of safer, more cost-effective, and durable airfield pavements. The Administrator may use a grant or cooperative agreement for this purpose. Nothing in this section shall require the Administrator to prioritize an airfield pavement research program above safety, security, Flight 21, environment, or energy research programs.”
+Pub. L. 106–181, title IX, §905, Apr. 5, 2000, 114 Stat. 196, provided that: "The Administrator \[of the Federal Aviation Administration\] shall consider awards to nonprofit concrete pavement research foundations to improve the design, construction, rehabilitation, and repair of rigid concrete airfield pavements to aid in the development of safer, more cost-effective, and durable airfield pavements. The Administrator may use a grant or cooperative agreement for this purpose. Nothing in this section shall require the Administrator to prioritize an airfield pavement research program above safety, security, Flight 21, environment, or energy research programs."
 

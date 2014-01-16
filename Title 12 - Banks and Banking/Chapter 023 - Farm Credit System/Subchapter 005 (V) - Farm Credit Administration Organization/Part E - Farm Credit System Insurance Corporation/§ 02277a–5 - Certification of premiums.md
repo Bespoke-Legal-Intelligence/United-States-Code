@@ -2,7 +2,7 @@
 
 #### (a) Filing certified statement
 
-On a date to be determined in the sole discretion of the Board of Directors of the Corporation, each insured System bank that became insured before the beginning of the period for which premiums are being assessed (referred to in this section as the “period”) shall file with the Corporation a certified statement showing—
+On a date to be determined in the sole discretion of the Board of Directors of the Corporation, each insured System bank that became insured before the beginning of the period for which premiums are being assessed (referred to in this section as the "period") shall file with the Corporation a certified statement showing—
 
 &emsp;(1) the average outstanding insured obligations for the period issued by the bank;
 
@@ -22,7 +22,7 @@ On a date to be determined in the sole discretion of the Board of Directors of t
 
 #### (b) Contents and form of statement
 
-The certified statement required to be filed with the Corporation under subsection (a) of this section shall be in such form and set forth such supporting information as the Board of Directors shall prescribe, and shall be certified by the president of the bank or any other officer designated by its board of directors that to the best of the person's knowledge and belief the statement is true, correct, complete, and has been prepared in accordance with this part and all regulations issued thereunder.
+The certified statement required to be filed with the Corporation under subsection (a) of thissection shall be in such form and set forth such supporting information as the Board of Directors shall prescribe, and shall be certified by the president of the bank or any other officer designated by its board of directors that to the best of the person's knowledge and belief the statement is true, correct, complete, and has been prepared in accordance with this part and all regulations issued thereunder.
 
 #### (c) Premium payments
 
@@ -48,19 +48,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §5405(a), added subsec. (a) and struck out former subsec. (a) which related to the required annual filing of a certified statement from each insured System bank that became insured before the beginning of the year.
 
-Subsec. (c). Pub. L. 110–246, §5405(b), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Each System bank shall pay to the Corporation the amount of the initial premium it is required to certify under subsection (a) of this section as soon as practicable after January 1, 1990, based on the application of section 2277a–4 of this title to the accruing loan volume of the bank for calendar year 1989.”
+Subsec. (c). Pub. L. 110–246, §5405(b), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "Each System bank shall pay to the Corporation the amount of the initial premium it is required to certify under subsection (a) of this section as soon as practicable after January 1, 1990, based on the application of section 2277a–4 of this title to the accruing loan volume of the bank for calendar year 1989."
 
-Subsecs. (d), (e). Pub. L. 110–246, §5405(c), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The premium payments required from insured System banks under subsection (a) of this section shall be made not less frequently than annually in such manner and at such time or times as the Board of Directors shall prescribe, except that the amount of the premium shall be established not later than 60 days after filing the certified statement setting forth the amount of the premium.”
+Subsecs. (d), (e). Pub. L. 110–246, §5405(c), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "The premium payments required from insured System banks under subsection (a) of this section shall be made not less frequently than annually in such manner and at such time or times as the Board of Directors shall prescribe, except that the amount of the premium shall be established not later than 60 days after filing the certified statement setting forth the amount of the premium."
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §5403(a)(2)(B)(i), inserted “and Government Sponsored Enterprise-guaranteed loans (as defined in section 2277a–4(a)(4) of this title)” after “government-guaranteed loans”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §5403(a)(2)(B)(i), inserted "and Government Sponsored Enterprise-guaranteed loans (as defined in section 2277a–4(a)(4) of this title)" after "government-guaranteed loans".
 
 Subsec. (a)(4) to (6). Pub. L. 107–171, §5403(a)(2)(B)(ii), (iii), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-<b>1996</b>—Subsec. (a)(2), (3). Pub. L. 104–105 substituted “2277a–4(a)(3) of this title” for “2277a–4(a)(2) of this title”.
+<b>1996</b>—Subsec. (a)(2), (3). Pub. L. 104–105 substituted "2277a–4(a)(3) of this title" for "2277a–4(a)(2) of this title".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Annually, on a date to be determined in the sole discretion of the Board of Directors, each insured System bank that became insured before the beginning of the year shall file with the Corporation a certified statement showing the annual average principal outstanding on loans made by the bank that are in accrual status, the annual average principal outstanding on loans that are in nonaccrual status, and the amount of the premium due the Corporation from the bank for such year.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Annually, on a date to be determined in the sole discretion of the Board of Directors, each insured System bank that became insured before the beginning of the year shall file with the Corporation a certified statement showing the annual average principal outstanding on loans made by the bank that are in accrual status, the annual average principal outstanding on loans that are in nonaccrual status, and the amount of the premium due the Corporation from the bank for such year."
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–399 substituted “of the year” for “of such year”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–399 substituted "of the year" for "of such year".
 
 #### Effective Date of 2008 Amendment
 

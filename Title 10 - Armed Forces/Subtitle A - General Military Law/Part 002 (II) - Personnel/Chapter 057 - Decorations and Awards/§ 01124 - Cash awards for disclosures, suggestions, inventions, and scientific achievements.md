@@ -8,7 +8,7 @@
 
 (d) A cash award under this section is in addition to the pay and allowances of the recipient. The acceptance of such an award shall constitute—
 
-&emsp;(1) an agreement by the member that the use by the United States of any idea, method, or device for which the award is made may not be the basis of a claim against the United States by the member, his heirs, or assigns, or by any person whose claim is alleged to be derived through the member; and
+&emsp;(1) an agreement by the member that the use by the United States of any idea, method, ordevice for which the award is made may not be the basis of a claim against the United States by the member, his heirs, or assigns, or by any person whose claim is alleged to be derived through the member; and
 
 &emsp;(2) a warranty by the member that he has not at the time of acceptance transferred, assigned, or otherwise divested himself of legal or equitable title in any property right residing in the idea, method, or device for which the award is made.
 
@@ -28,19 +28,19 @@ Another section 1124 was renumbered 1126 of this title.
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (a), (b), (g). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2002</b>—Subsecs. (a), (b), (g). Pub. L. 107–296 substituted "Secretary of Homeland Security" for "Secretary of Transportation".
 
-<b>1985</b>—Pub. L. 99–145 inserted “disclosures,” and substituted “and” for “or” in section catchline, and inserted “disclosure,” before “suggestion” in subsecs. (a), (b), (c), and (f).
+<b>1985</b>—Pub. L. 99–145 inserted "disclosures," and substituted "and" for "or" in section catchline, and inserted "disclosure," before "suggestion" in subsecs. (a), (b), (c), and (f).
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–527 authorized payment of awards to retired members of the armed forces, required the basis for awards to have been made when in an active reserve status, and required the member to be ineligible for incentive award under chapter 45 of title 5.
 
 Subsec. (g). Pub. L. 96–470 struck out provision requiring the Secretary of Defense and the Secretary of Transportation to annually report to the President, for transmittal to Congress, on progress of the awards program.
 
-Subsec. (h). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+Subsec. (h). Pub. L. 96–513 substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration".
 
-<b>1968</b>—Subsecs. (a), (b), (g). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1968</b>—Subsecs. (a), (b), (g). Pub. L. 90–623 substituted "Secretary of Transportation" for "Secretary of the Treasury".
 
-<b>1966</b>—Subsec. (g). Pub. L. 89–718 substituted “progress report” for “program report”.
+<b>1966</b>—Subsec. (g). Pub. L. 89–718 substituted "progress report" for "program report".
 
 #### Effective Date of 2002 Amendment
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–145, title XII, §1225(a)(3), Nov. 8, 1985, 99 Stat. 730, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title XII, §1225(a)(3), Nov. 8, 1985, 99 Stat. 730, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1985."
 
 #### Effective Date of 1980 Amendment
 

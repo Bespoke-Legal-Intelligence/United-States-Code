@@ -178,7 +178,7 @@
 
 #### (3) Credit exposure
 
-&emsp;For purposes of paragraph (2), “credit exposure” to a company means—
+&emsp;For purposes of paragraph (2), "credit exposure" to a company means—
 
 &emsp;&emsp;(A) all extensions of credit to the company, including loans, deposits, and lines of credit;
 
@@ -202,7 +202,7 @@
 
 #### (6) Exemptions
 
-&emsp;This subsection shall not apply to any Federal home loan bank. The Board of Governors may, by regulation or order, exempt transactions, in whole or in part, from the definition of the term “credit exposure” for purposes of this subsection, if the Board of Governors finds that the exemption is in the public interest and is consistent with the purpose of this subsection.
+&emsp;This subsection shall not apply to any Federal home loan bank. The Board of Governors may, by regulation or order, exempt transactions, in whole or in part, from the definition of the term "credit exposure" for purposes of this subsection, if the Board of Governors finds that the exemption is in the public interest and is consistent with the purpose of this subsection.
 
 #### (7) Transition period
 
@@ -230,7 +230,7 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 #### (3) Short-term debt defined
 
-&emsp;For purposes of this subsection, the term “short-term debt” means such liabilities with short-dated maturity that the Board of Governors identifies, by regulation, except that such term does not include insured deposits.
+&emsp;For purposes of this subsection, the term "short-term debt" means such liabilities with short-dated maturity that the Board of Governors identifies, by regulation, except that such term does not include insured deposits.
 
 #### (4) Rulemaking authority
 
@@ -306,7 +306,7 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 &emsp;&emsp;Each Federal primary financial regulatory agency, in coordination with the Board of Governors and the Federal Insurance Office, shall issue consistent and comparable regulations to implement this paragraph that shall—
 
-&emsp;&emsp;&emsp;(i) define the term “stress test” for purposes of this paragraph;
+&emsp;&emsp;&emsp;(i) define the term "stress test" for purposes of this paragraph;
 
 &emsp;&emsp;&emsp;(ii) establish methodologies for the conduct of stress tests required by this paragraph that shall provide for at least 3 different sets of conditions, including baseline, adverse, and severely adverse;
 
@@ -340,13 +340,13 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 #### (3) Off-balance-sheet activities defined
 
-&emsp;For purposes of this subsection, the term “off-balance-sheet activities” means an existing liability of a company that is not currently a balance sheet liability, but may become one upon the happening of some future event, including the following transactions, to the extent that they may create a liability:
+&emsp;For purposes of this subsection, the term "off-balance-sheet activities" means an existing liability of a company that is not currently a balance sheet liability, but may become one upon the happening of some future event, including the following transactions, to the extent that they may create a liability:
 
 &emsp;&emsp;(A) Direct credit substitutes in which a bank substitutes its own credit for a third party, including standby letters of credit.
 
 &emsp;&emsp;(B) Irrevocable letters of credit that guarantee repayment of commercial paper or tax-exempt securities.
 
-&emsp;&emsp;(C) Risk participations in bankers’ acceptances.
+&emsp;&emsp;(C) Risk participations in bankers' acceptances.
 
 &emsp;&emsp;(D) Sale and repurchase agreements.
 
@@ -368,7 +368,7 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 #### References in Text
 
-Subchapter II, referred to in subsec. (d)(6), was in the original “title II”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§5381 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
+Subchapter II, referred to in subsec. (d)(6), was in the original "title II", meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§5381 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
 
 The Bank Holding Company Act of 1956, referred to in subsec. (g)(5), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 

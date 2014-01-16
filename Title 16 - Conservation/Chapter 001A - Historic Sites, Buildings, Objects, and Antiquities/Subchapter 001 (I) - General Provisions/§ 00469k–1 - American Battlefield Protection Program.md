@@ -26,15 +26,15 @@ The purpose of this section is to assist citizens, public and private institutio
 
 #### (A) Battlefield Report
 
-&emsp;&emsp;The term “Battlefield Report” means the document entitled “Report on the Nation's Civil War Battlefields”, prepared by the Civil War Sites Advisory Commission, and dated July 1993.
+&emsp;&emsp;The term "Battlefield Report" means the document entitled "Report on the Nation's Civil War Battlefields", prepared by the Civil War Sites Advisory Commission, and dated July 1993.
 
 #### (B) Eligible entity
 
-&emsp;&emsp;The term “eligible entity” means a State or local government.
+&emsp;&emsp;The term "eligible entity" means a State or local government.
 
 #### (C) Eligible site
 
-&emsp;&emsp;The term “eligible site” means a site—
+&emsp;&emsp;The term "eligible site" means a site—
 
 &emsp;&emsp;&emsp;(i) that is not within the exterior boundaries of a unit of the National Park System; and
 
@@ -42,11 +42,11 @@ The purpose of this section is to assist citizens, public and private institutio
 
 #### (D) Secretary
 
-&emsp;&emsp;The term “Secretary” means the Secretary of the Interior, acting through the American Battlefield Protection Program.
+&emsp;&emsp;The term "Secretary" means the Secretary of the Interior, acting through the American Battlefield Protection Program.
 
 #### (2) Establishment
 
-&emsp;The Secretary shall establish a battlefield acquisition grant program under which theSecretary may provide grants to eligible entities to pay the Federal share of the cost of acquiring interests in eligible sites for the preservation and protection of those eligible sites.
+&emsp;The Secretary shall establish a battlefield acquisition grant program under which the Secretary may provide grants to eligible entities to pay the Federal share of the cost of acquiring interests in eligible sites for the preservation and protection of those eligible sites.
 
 #### (3) Nonprofit partners
 

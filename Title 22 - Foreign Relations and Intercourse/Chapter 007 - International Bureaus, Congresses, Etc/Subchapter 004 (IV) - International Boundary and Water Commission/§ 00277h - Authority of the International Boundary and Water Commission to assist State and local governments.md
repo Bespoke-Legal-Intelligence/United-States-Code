@@ -10,5 +10,5 @@ Reimbursements shall be paid in advance of the goods or services ordered and sha
 
 (Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §702\], Nov. 29, 1999, 113 Stat. 1536, 1501A–459.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “other”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "other".</i>
 

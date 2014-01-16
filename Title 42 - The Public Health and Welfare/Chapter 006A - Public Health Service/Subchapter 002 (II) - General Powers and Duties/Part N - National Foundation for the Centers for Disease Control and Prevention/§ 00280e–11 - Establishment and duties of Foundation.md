@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There shall be established in accordance with this section a nonprofit private corporation to be known as the National Foundation for the Centers for Disease Control and Prevention (in this part referred to as the “Foundation”). The Foundation shall not be an agency or instrumentality of the Federal Government, and officers, employees, and members of the board of the Foundation shall not be officers or employees of the Federal Government.
+There shall be established in accordance with this section a nonprofit private corporation to be known as the National Foundation for the Centers for Disease Control and Prevention (in this part referred to as the "Foundation"). The Foundation shall not be an agency or instrumentality of the Federal Government, and officers, employees, and members of the board of the Foundation shall not be officers or employees of the Federal Government.
 
 #### (b) Purpose of Foundation
 
@@ -42,11 +42,11 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 #### (1) Board of directors
 
-&emsp;The Foundation shall have a board of directors (in this part referred to as the “Board”), which shall be established and conducted in accordance with subsection (f) of this section. The Board shall establish the general policies of the Foundation for carrying out subsection (b) of this section, including the establishment of the bylaws of the Foundation.
+&emsp;The Foundation shall have a board of directors (in this part referred to as the "Board"), which shall be established and conducted in accordance with subsection (f) of this section. The Board shall establish the general policies of the Foundation for carrying out subsection\(b) of this section, including the establishment of the bylaws of the Foundation.
 
 #### (2) Executive director
 
-&emsp;The Foundation shall have an executive director (in this part referred to as the “Director”), who shall be appointed by the Board, who shall serve at the pleasure of the Board, and for whom the Board shall establish the rate of compensation. Subject to compliance with the policies and bylaws established by the Board pursuant to paragraph (1), the Director shall be responsible for the daily operations of the Foundation in carrying out subsection (b) of this section.
+&emsp;The Foundation shall have an executive director (in this part referred to as the "Director"), who shall be appointed by the Board, who shall serve at the pleasure of the Board, and for whom the Board shall establish the rate of compensation. Subject to compliance with the policies and bylaws established by the Board pursuant to paragraph (1), the Director shall be responsible for the daily operations of the Foundation in carrying out subsection (b) of this section.
 
 #### (3) Nonprofit status
 
@@ -84,7 +84,7 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 #### (3) Chair
 
-&emsp;The Board shall, from among the members of the Board, designate an individual to serve as the chair of the Board (in this subsection referred to as the “Chair”).
+&emsp;The Board shall, from among the members of the Board, designate an individual to serve as the chair of the Board (in this subsection referred to as the "Chair").
 
 #### (4) Appointments, vacancies, and terms
 
@@ -222,13 +222,13 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (1) In general
 
-&emsp;There shall be established in accordance with this subsection a committee to carry out the functions described in paragraph (2) (which committee is referred to in this subsection as the “Committee”).
+&emsp;There shall be established in accordance with this subsection a committee to carry out the functions described in paragraph (2) (which committee is referred to in this subsection as the "Committee").
 
 #### (2) Functions
 
 &emsp;The functions referred to in paragraph (1) for the Committee are as follows:
 
-&emsp;&emsp;(A) To carry out such activities as may be necessary to incorporate the Foundation under the laws of the State involved, including serving as incorporators for the Foundation. Such activities shall include ensuringthat the articles of incorporation for the Foundation require that the Foundation be established and operated in accordance with the applicable provisions of this part (or any successor to this part), including such provisions as may be in effect pursuant to amendments enacted after October 27, 1992.
+&emsp;&emsp;(A) To carry out such activities as may be necessary to incorporate the Foundation under the laws of the State involved, including serving as incorporators for the Foundation. Such activities shall include ensuring that the articles of incorporation for the Foundation require that the Foundation be established and operated in accordance with the applicable provisions of this part (or any successor to this part), including such provisions as may be in effect pursuant to amendments enacted after October 27, 1992.
 
 &emsp;&emsp;(B) To ensure that the Foundation qualifies for and maintains the status described in subsection (e)(3) of this section (regarding taxation).
 
@@ -292,7 +292,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 The Ethics in Government Act, referred to in subsec. (h)(4)(A), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
-The Technology Transfer Act, referred to in subsec. (h)(4)(A), may mean the Federal Technology TransferAct of 1986, Pub. L. 99–502, Oct. 20, 1986, 100 Stat. 1785, as amended, or the National Competitiveness Technology Transfer Act of 1989, part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, Nov. 29, 1989, 103 Stat. 1674. For complete classification of these Acts to the Code, see Short Title of 1986 Amendment note and Short Title of 1989 Amendment note both set out under section 3701 of Title 15, Commerce and Trade, and Tables.
+The Technology Transfer Act, referred to in subsec. (h)(4)(A), may mean the Federal Technology Transfer Act of 1986, Pub. L. 99–502, Oct. 20, 1986, 100 Stat. 1785, as amended, or the National Competitiveness Technology Transfer Act of 1989, part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, Nov. 29, 1989, 103 Stat. 1674. For complete classification of these Acts to the Code, see Short Title of 1986 Amendment note and Short Title of 1989 Amendment note both set out under section 3701 of Title 15, Commerce and Trade, and Tables.
 
 #### Codification
 
@@ -304,15 +304,15 @@ A prior section 399G of act July 1, 1944, was renumbered section 399H and was cl
 
 #### Amendments
 
-<b>2006</b>—Subsec. (h)(2)(A). Pub. L. 109–245, §1(a), substituted “In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual until such time as the private funding for such individual ends.” for “In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual for not more than 2 years.”
+<b>2006</b>—Subsec. (h)(2)(A). Pub. L. 109–245, §1(a), substituted "In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual until such time as the private funding for such individual ends." for "In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual for not more than 2 years."
 
-Subsec. (h)(7)(A). Pub. L. 109–245, §1(b)(1), inserted “, including an accounting of the use of amounts provided for under subsection (i)” before period at end of second sentence.
+Subsec. (h)(7)(A). Pub. L. 109–245, §1(b)(1), inserted ", including an accounting of the use of amounts provided for under subsection (i)" before period at end of second sentence.
 
-Subsec. (h)(7)(C). Pub. L. 109–245, §1(b)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “The Foundation shall make copies of each report submitted under subparagraph (A) available for public inspection, and shall upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.”
+Subsec. (h)(7)(C). Pub. L. 109–245, §1(b)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: "The Foundation shall make copies of each report submitted under subparagraph (A) available for public inspection, and shall upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy."
 
-Subsec. (i)(2)(A). Pub. L. 109–245, §1(c)(1)(A), substituted “$1,250,000” for “$500,000”.
+Subsec. (i)(2)(A). Pub. L. 109–245, §1(c)(1)(A), substituted "$1,250,000" for "$500,000".
 
-Subsec. (i)(2)(B). Pub. L. 109–245, §1(c)(1)(B), substituted “not less than $500,000, and not more than $1,250,000” for “not more than $500,000”.
+Subsec. (i)(2)(B). Pub. L. 109–245, §1(c)(1)(B), substituted "not less than $500,000, and not more than $1,250,000" for "not more than $500,000".
 
 Subsec. (i)(4). Pub. L. 109–245, §1(c)(2), added par. (4).
 

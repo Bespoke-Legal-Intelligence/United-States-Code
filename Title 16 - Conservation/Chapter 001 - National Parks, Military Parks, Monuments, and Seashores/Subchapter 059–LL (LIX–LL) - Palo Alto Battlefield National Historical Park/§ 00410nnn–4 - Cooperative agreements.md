@@ -6,5 +6,5 @@ In furtherance of the purposes of this subchapter, the Secretary is authorized t
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–11 substituted “historical park” for “historic site”.
+<b>2009</b>—Pub. L. 111–11 substituted "historical park" for "historic site".
 

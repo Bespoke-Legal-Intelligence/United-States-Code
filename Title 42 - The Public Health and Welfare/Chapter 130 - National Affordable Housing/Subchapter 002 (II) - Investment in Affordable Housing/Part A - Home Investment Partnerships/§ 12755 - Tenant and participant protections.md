@@ -20,17 +20,11 @@ The owner of rental housing assisted under this subchapter shall adopt written t
 
 &emsp;(2) are reasonably related to program eligibility and the applicant's ability to perform the obligations of the lease,
 
-&emsp;(3) give reasonable consideration to the housing needs of families that would have a preference under section 1437d(c)(4)(A) <sup>1</sup> of this title, and
+&emsp;(3) give reasonable consideration to the housing needs of families that would have a preference under section 1437d(c)(4)(A) of this title, and
 
 &emsp;(4) provide for (A) the selection of tenants from a written waiting list in the chronological order of their application, insofar as is practicable, and (B) for <sup>2</sup> the prompt notification in writing of any rejected applicant of the grounds for any rejection.
 
 (Pub. L. 101–625, title II, §225, Nov. 28, 1990, 104 Stat. 4113.)
 
-#### References in Text
-
-Section 1437d(c)(4)(A) of this title, referred to in subsec. (d)(3), was redesignated section 1437d(c)(5)(A) of this title by Pub. L. 109–162, title VI, §607(1), Jan. 5, 2006, 119 Stat. 3048.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. The word “for” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "for" probably should not appear.</i>
 

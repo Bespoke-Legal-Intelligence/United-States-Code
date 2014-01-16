@@ -12,7 +12,7 @@
 
 #### (3) State bucket shop laws
 
-&emsp;No State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate—
+&emsp;No State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of "bucket shops" or other similar or related activities, shall invalidate—
 
 &emsp;&emsp;(A) any put, call, straddle, option, privilege, or other security subject to this chapter (except any security that has a pari-mutuel payout or otherwise is determined by the Commission, acting by rule, regulation, or order, to be appropriately subject to such laws), or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such security;
 
@@ -22,11 +22,11 @@
 
 #### (4) Other State provisions
 
-&emsp;No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security-based swap or a security futures product, except that this paragraph may not be construed as limiting any State antifraud law of general applicability. A security-based swap may not be regulated as an insurance contract under any provision of State law.
+&emsp;No provision of State law regarding the offer, sale, or distribution of securities shallapply to any transaction in a security-based swap or a security futures product, except that this paragraph may not be construed as limiting any State antifraud law of general applicability. A security-based swap may not be regulated as an insurance contract under any provision of State law.
 
 #### (b) Modification of disciplinary procedures
 
-Nothing in this chapter shall be construed to modify existing law with regard to the binding effect (1) on any member of or participant in anyself-regulatory organization of any action taken by the authorities of such organization to settle disputes between its members or participants, (2) on any municipal securities dealer or municipal securities broker of any action taken pursuant to a procedure established by the Municipal Securities Rulemaking Board to settle disputes between municipal securities dealers and municipal securities brokers, or (3) of any action described in paragraph (1) or (2) on any person who has agreed to be bound thereby.
+Nothing in this chapter shall be construed to modify existing law with regard to the binding effect (1) on any member of or participant in any self-regulatory organization of any action taken by the authorities of such organization to settle disputes between its members or participants, (2) on any municipal securities dealer or municipal securities broker of any action taken pursuant to a procedure established by the Municipal Securities Rulemaking Board to settle disputes between municipal securities dealers and municipal securities brokers, or (3) of any action described in paragraph (1) or (2) on any person who has agreed to be bound thereby.
 
 #### (c) Continuing validity of disciplinary sanctions
 
@@ -84,7 +84,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) is made by or on behalf of the issuer or an affiliate of the issuer to holders of equity securities of the issuer; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) concerns decisions of such equity holders with respect to voting their securities, acting in response to a tender or exchange offer, or exercising dissenters’ or appraisal rights.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) concerns decisions of such equity holders with respect to voting their securities, acting in response to a tender or exchange offer, or exercising dissenters' or appraisal rights.
 
 #### (B) State actions
 
@@ -94,7 +94,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (ii) State pension plan defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “State pension plan” means a pension plan established and maintained for its employees by the government of a State or political subdivision thereof, or by any agency or instrumentality thereof.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "State pension plan" means a pension plan established and maintained for its employees by the government of a State or political subdivision thereof, or by any agency or instrumentality thereof.
 
 #### (C) Actions under contractual agreements between issuers and indenture trustees
 
@@ -114,11 +114,11 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (A) Affiliate of the issuer
 
-&emsp;&emsp;The term “affiliate of the issuer” means a person that directly or indirectly, through one or more intermediaries, controls or is controlled by or is under common control with, the issuer.
+&emsp;&emsp;The term "affiliate of the issuer" means a person that directly or indirectly, through one or more intermediaries, controls or is controlled by or is under common control with, the issuer.
 
 #### (B) Covered class action
 
-&emsp;&emsp;The term “covered class action” means—
+&emsp;&emsp;The term "covered class action" means—
 
 &emsp;&emsp;&emsp;(i) any single lawsuit in which—
 
@@ -134,7 +134,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (C) Exception for derivative actions
 
-&emsp;&emsp;Notwithstanding subparagraph (B), the term “covered class action” does not include an exclusively derivative action brought by one or more shareholders on behalf of a corporation.
+&emsp;&emsp;Notwithstanding subparagraph (B), the term "covered class action" does not include an exclusively derivative action brought byone or more shareholders on behalf of a corporation.
 
 #### (D) Counting of certain class members
 
@@ -142,7 +142,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (E) Covered security
 
-&emsp;&emsp;The term “covered security” means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 18(b) of the Securities Act of 1933 \[15 U.S.C. 77r(b)\], at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] pursuant to rules issued by the Commission under section 4(2) <sup>1</sup> of that Act \[15 U.S.C. 77d(a)(2)\].
+&emsp;&emsp;The term "covered security" means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 18(b) of the Securities Act of 1933 \[15 U.S.C. 77r(b)\], at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] pursuant to rules issued by the Commission under section 4(2) <sup>1</sup> of that Act \[15 U.S.C. 77d(a)(2)\].
 
 #### (F) Rule of construction
 
@@ -156,7 +156,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (c) and (e), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a) to (c) and (e), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Securities Act of 1933, referred to in subsec. (f)(5)(E), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. Section 4(2) of the Act was redesignated section 4(a)(2) by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314, and is classified to section 77d(a)(2) of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
@@ -164,23 +164,23 @@ The Securities Act of 1933, referred to in subsec. (f)(5)(E), is act May 27, 193
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to rights and remedies provided by this chapter and applicability of certain State securities laws.
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §210\], inserted “subject to this chapter” after “privilege, or other security”, substituted “any such security” for “any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title”, and inserted at end “No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except that this sentence shall not be construed as limiting any State antifraud law of general applicability.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §210\], inserted "subject to this chapter" after "privilege, or other security", substituted "any such security" for "any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title", and inserted at end "No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except that this sentence shall not be construed as limiting any State antifraud law of general applicability."
 
 Subsec. (e)(4). Pub. L. 106–554, §1(a)(5) \[title II, §203(a)(2)\], added par. (4).
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–353, §101(b)(1)(A), substituted “Except as provided in subsection (f) of this section, the rights and remedies” for “The rights and remedies”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–353, §101(b)(1)(A), substituted "Except as provided in subsection (f) of this section, the rights and remedies" for "The rights and remedies".
 
 Subsec. (f). Pub. L. 105–353, §101(b)(1)(B), added subsec. (f).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–290 substituted “Except as otherwise specifically provided in this chapter, nothing” for “Nothing”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–290 substituted "Except as otherwise specifically provided in this chapter, nothing" for "Nothing".
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–181, §327, substituted “on” for “or” after “self-regulatory organization”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–181, §327, substituted "on" for "or" after "self-regulatory organization".
 
-Subsec. (d). Pub. L. 100–181, §328, substituted “change in beneficial” for “change is beneficial”.
+Subsec. (d). Pub. L. 100–181, §328, substituted "change in beneficial" for "change is beneficial".
 
-Subsec. (e)(1). Pub. L. 100–181, §329, substituted “subsequent to the date of enactment of the Securities Acts Amendments of 1975” for “subsequent to the date of enactment of the Securities Acts Amendments in 1975”, which for purposes of codification was translated as “subsequent to June 4, 1975,” thus requiring no change in text.
+Subsec. (e)(1). Pub. L. 100–181, §329, substituted "subsequent to the date of enactment of the Securities Acts Amendments of 1975" for "subsequent to the date of enactment of the Securities Acts Amendments in 1975", which for purposes of codification was translated as "subsequent to June 4, 1975," thus requiring no change in text.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–303 inserted provision that no State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate any put, call, straddle, option, privilege, or other security, or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title.
+<b>1982</b>—Subsec. (a). Pub. L. 97–303 inserted provision that no State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of "bucket shops" or other similar or related activities, shall invalidate any put, call, straddle, option, privilege, or other security, or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title.
 
 <b>1975</b>—Subsec. (b). Pub. L. 94–29, §21(1), struck out provisions that nothing in this chapter be construed to modify existing law with regard to the binding effect on any member of an exchange of any disciplinary action taken by the authorities of an exchange and made the remaining provisions applicable to all members of and participants in all self-regulatory organizations as well as municipal securities professionals.
 

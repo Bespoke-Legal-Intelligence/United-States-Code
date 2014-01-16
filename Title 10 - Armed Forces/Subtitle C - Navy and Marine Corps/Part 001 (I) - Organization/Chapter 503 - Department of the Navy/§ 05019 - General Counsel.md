@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–456 inserted “, by and with the advice and consent of the Senate” before period at end.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 inserted ", by and with the advice and consent of the Senate" before period at end.
 
 #### Effective Date of 1988 Amendment
 

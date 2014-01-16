@@ -24,11 +24,11 @@
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–138, §153(d)(1)(A), (B), redesignated former subsec. (a) as par. (1), redesignated former subsec. (b) as par. (2) of subsec. (a) and substituted “paragraph (1)” for “subsection (a) of this section” and “under this subsection” for “under this section”, and added par. (3).
+<b>1991</b>—Subsec. (a). Pub. L. 102–138, §153(d)(1)(A), (B), redesignated former subsec. (a) as par. (1), redesignatedformer subsec. (b) as par. (2) of subsec. (a) and substituted "paragraph (1)" for "subsection (a) of this section" and "under this subsection" for "under this section", and added par. (3).
 
 Subsec. (b). Pub. L. 102–138, §153(d)(1)(C), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–12 substituted “1214 or 1221” for “1206”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–12 substituted "1214 or 1221" for "1206".
 
 #### Effective Date of 1991 Amendment
 

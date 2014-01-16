@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If the Commissioner of Social Security determines that the interest of any qualified individual under this subchapter would be served thereby, payment of the qualified individual's benefit under this subchapter may be made, regardless of the legal competency or incompetency of the qualified individual, either directly to the qualified individual, or for his or her use and benefit, to another person (the meaning of which term, for purposes of this section, includes an organization) with respect to whom the requirements of subsection (b) of this section have been met (in this section referred to as the qualified individual's “representative payee”). If the Commissioner of Social Security determines that a representative payee has misused any benefit paid to the representative payee pursuant to this section, 405(j) of this title, or section 1383(a)(2) of this title, the Commissioner of Social Security shall promptly revoke the person's designation as the qualified individual's representative payee under this subsection, and shall make payment to an alternative representative payee or, if the interest of the qualified individual under this subchapter would be served thereby, to the qualified individual.
+If the Commissioner of Social Security determines that the interest of any qualified individual under this subchapter would be served thereby, payment of the qualified individual's benefit under this subchapter may be made, regardless of the legal competency or incompetency of the qualified individual, either directly to the qualified individual, or for his or her use and benefit, to another person (the meaning of which term, for purposes of this section, includes an organization) with respect to whom the requirements of subsection (b) of this section have been met (in this section referred to as the qualified individual's "representative payee"). If the Commissioner of Social Security determines that a representative payee has misused any benefit paid to the representative payee pursuant to this section, 405(j) of this title, or section 1383(a)(2) of this title, the Commissioner of Social Security shall promptly revoke the person's designation as the qualified individual's representative payee under this subsection, and shall make payment to an alternative representative payee or, if the interest of the qualified individual under this subchapter would be served thereby, to the qualified individual.
 
 #### (b) Examination of fitness of prospective representative payee
 
@@ -60,7 +60,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 #### (2) Exemptions
 
-&emsp;(A) The Commissioner of Social Security may prescribe circumstances under which the Commissioner of Social Security may grant anexemption from paragraph (1) to any person on a case-by-case basis if the exemption is in the best interest of the qualified individual whose benefits would be paid to the person pursuant to this section.
+&emsp;(A) The Commissioner of Social Security may prescribe circumstances under which the Commissioner of Social Security may grant an exemption from paragraph (1) to any person on a case-by-case basis if the exemption is in the best interest of the qualified individual whose benefits would be paid to the person pursuant to this section.
 
 &emsp;(B) Paragraph (1)(C) shall not apply with respect to any person who is a creditor referred to in such paragraph if the creditor is—
 
@@ -70,7 +70,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 &emsp;&emsp;(iii) a facility that is licensed or certified as a care facility under the law of the political jurisdiction in which the qualified individual resides;
 
-&emsp;&emsp;(iv) a person who is an administrator, owner, or employee of a facility referred to in clause (iii), if the qualified individual resides in the facility, and the payment to the facility or the person is made only after the Commissioner of Social Security has made a good faith effort to locate an alternative representative payee to whom payment would serve the best interests of the qualified individual; or
+&emsp;&emsp;(iv) a person who is an administrator, owner, or employee of a facility referred to in clause (iii), if the qualified individual resides in the facility, and the payment to the facility or the person is made only after the Commissioner of Social Security has made a good faith effort to locate an alternative representative payee to whom paymentwould serve the best interests of the qualified individual; or
 
 &emsp;&emsp;(v) a person who is determined by the Commissioner of Social Security, on the basis of written findings and pursuant to procedures prescribed by the Commissioner of Social Security, to be acceptable to serve as a representative payee.
 
@@ -126,7 +126,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (1) In general
 
-&emsp;In any case where payment under this subchapter is made to a person other than the qualified individual entitled to the payment,the Commissioner of Social Security shall establish a system of accountability monitoring under which the person shall report not less often than annually with respect to the use of the payments. The Commissioner of Social Security shall establish and implement statistically valid procedures for reviewing the reports in order to identify instances in which persons are not properly using the payments.
+&emsp;In any case where payment under this subchapter is made to a person other than the qualified individual entitled to the payment, the Commissioner of Social Security shall establish a system of accountability monitoring under which the person shall report not less often than annually with respect to the use of the payments. The Commissioner of Social Security shall establish and implement statistically valid procedures for reviewing the reports in order to identify instances in which persons are not properly using the payments.
 
 #### (2) Special reports
 
@@ -134,7 +134,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (3) Authority to redirect delivery of benefit payments when a representative payee fails to provide required accounting
 
-&emsp;In any case in which the person described in paragraph (1) or (2) receiving benefit payments on behalf of a qualified individual fails to submit a report required by the Commissioner of Social Security under paragraph (1) or (2), the Commissioner may, after furnishing notice to such person and the qualified individual, require that such person appear in person at a United States Government facility designated by the Social Security Administration as serving the area in which the qualified individual resides in order to receive such benefit payments.
+&emsp;In any case in which the person described in paragraph (1) or (2) receiving benefit payments on behalf of a qualified individual fails to submit a report required by the Commissioner ofSocial Security under paragraph (1) or (2), the Commissioner may, after furnishing notice to such person and the qualified individual, require that such person appear in person at a United States Government facility designated by the Social Security Administration as serving the area in which the qualified individual resides in order to receive such benefit payments.
 
 #### (4) Maintaining lists of payees
 
@@ -160,7 +160,7 @@ In any case where the negligent failure of the Commissioner of Social Security t
 
 #### (j) Misuse of benefits
 
-For purposes of this subchapter, misuse of benefits by a representative payee occurs in any case in which the representative payee receives payment under this subchapter for the use and benefit of another person under this subchapter and converts such payment, or any part thereof, to a use other than for the use and benefit of such person. The Commissioner of Social Security may prescribe by regulation the meaning of the term “use and benefit” for purposes of this subsection.
+For purposes of this subchapter, misuse of benefits by a representative payee occurs in any case in which the representative payee receives payment under this subchapter for the use and benefit of another person under this subchapter and converts such payment, or any part thereof, to a use other than for the use and benefit of such person. The Commissioner of Social Security may prescribe by regulation the meaning of the term "use and benefit" for purposes of this subsection.
 
 #### (k) Periodic onsite review
 
@@ -214,7 +214,7 @@ For prior provisions, see note set out under section 1001 of this title.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–203, §101(b)(3), substituted “for his or her use and benefit” for “for his or her benefit”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–203, §101(b)(3), substituted "for his or her use and benefit" for "for his or her benefit".
 
 Subsec. (b)(2)(D) to (F). Pub. L. 108–203, §103(b)(1), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
 
@@ -242,5 +242,5 @@ Amendment by section 105(b) of Pub. L. 108–203 applicable to benefit misuse by
 
 Amendment by section 106(b) of Pub. L. 108–203 effective 180 days after Mar. 2, 2004, see section 106(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “1383(a)(2)(A)(iii)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "1383(a)(2)(A)(iii)".</i>
 

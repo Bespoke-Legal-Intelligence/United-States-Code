@@ -20,7 +20,7 @@ The date of entry into force of the Protocol of Accession of the People's Republ
 
 #### Codification
 
-Part, referred to in subsecs. (a) and (c), was in the original “subtitle” which was translated as reading “chapter”, meaning chapter 2 of title IV of Pub. L. 93–618, as added, which enacted this part, to reflect the probable intent of Congress, because title IV of Pub. L. 93–618 contains no subtitles.
+Part, referred to in subsecs. (a) and (c), was in the original "subtitle" which was translated as reading "chapter", meaning chapter 2 of title IV of Pub. L. 93–618, as added, which enacted this part, to reflect the probable intent of Congress, because title IV of Pub. L. 93–618 contains no subtitles.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 

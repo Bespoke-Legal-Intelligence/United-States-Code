@@ -40,13 +40,13 @@
 
 (f) As used in this section—
 
-&emsp;(1) the terms “phonorecord” and “copies” have, respectively, the meanings set forth in section 101 (relating to definitions) of title 17;
+&emsp;(1) the terms "phonorecord" and "copies" have, respectively, the meanings set forth in section 101 (relating to definitions) of title 17;
 
-&emsp;(2) the terms “reproduction” and “distribution” refer to the exclusive rights of a copyright owner under clauses (1) and (3) respectively of section 106 (relating to exclusive rights in copyrighted works), as limited by sections 107 through 122, of title 17;
+&emsp;(2) the terms "reproduction" and "distribution" refer to the exclusive rights of a copyright owner under clauses (1) and (3) respectively of section 106 (relating to exclusive rights in copyrighted works), as limited by sections 107 through 122, of title 17;
 
-&emsp;(3) the term “financial gain” has the meaning given the term in section 101 of title 17; and
+&emsp;(3) the term "financial gain" has the meaning given the term in section 101 of title 17; and
 
-&emsp;(4) the term “work being prepared for commercial distribution” has the meaning given the term in section 506(a) of title 17.
+&emsp;(4) the term "work being prepared for commercial distribution" has the meaning given the term in section 506(a) of title 17.
 
 (Added Pub. L. 97–180, §3, May 24, 1982, 96 Stat. 92; amended Pub. L. 102–561, Oct. 28, 1992, 106 Stat. 4233; Pub. L. 105–80, §12(b)(2), Nov. 13, 1997, 111 Stat. 1536; Pub. L. 105–147, §2(d), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 107–273, div. C, title III, §13211(a), Nov. 2, 2002, 116 Stat. 1910; Pub. L. 109–9, title I, §103(b), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110–403, title II, §208, Oct. 13, 2008, 122 Stat. 4263.)
 
@@ -56,51 +56,51 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set 
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (b)(2), (c)(2). Pub. L. 110–403, §208(1), (2), inserted “is a felony and” after “the offense” and substituted “subsection (a)” for “paragraph (1)”.
+<b>2008</b>—Subsecs. (b)(2), (c)(2). Pub. L. 110–403, §208(1), (2), inserted "is a felony and" after "the offense" and substituted "subsection (a)" for "paragraph (1)".
 
-Subsec. (d)(3). Pub. L. 110–403, §208(3), inserted “is a felony and” after “the offense” and “under subsection (a)” before the semicolon.
+Subsec. (d)(3). Pub. L. 110–403, §208(3), inserted "is a felony and" after "the offense" and "under subsection (a)" before the semicolon.
 
-Subsec. (d)(4). Pub. L. 110–403, §208(4), inserted “is a felony and” after “the offense”.
+Subsec. (d)(4). Pub. L. 110–403, §208(4), inserted "is a felony and" after "the offense".
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–9, §103(b)(1), substituted “Any person who” for “Whoever” and “, (c), and (d)” for “and (c) of this section”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–9, §103(b)(1), substituted "Any person who" for "Whoever" and ", (c), and (d)" for "and (c) of this section".
 
-Subsec. (b). Pub. L. 109–9, §103(b)(2), substituted “section 506(a)(1)(A)” for “section 506(a)(1)” in introductory provisions.
+Subsec. (b). Pub. L. 109–9, §103(b)(2), substituted "section 506(a)(1)(A)" for "section 506(a)(1)" in introductory provisions.
 
-Subsec. (c). Pub. L. 109–9, §103(b)(3), substituted “section 506(a)(1)(B) of title 17” for “section 506(a)(2) of title 17, United States Code” in introductory provisions.
+Subsec. (c). Pub. L. 109–9, §103(b)(3), substituted "section 506(a)(1)(B) of title 17" for "section 506(a)(2) of title 17, United States Code" in introductory provisions.
 
 Subsecs. (d), (e). Pub. L. 109–9, §103(b)(4), (5), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 109–9, §103(b)(4), (6), redesignated subsec. (e) as (f) and added pars. (3) and (4).
 
-<b>2002</b>—Subsec. (e)(2). Pub. L. 107–273 substituted “107 through 122” for “107 through 120”.
+<b>2002</b>—Subsec. (e)(2). Pub. L. 107–273 substituted "107 through 122" for "107 through 120".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–147, §2(d)(1), substituted “subsections (b) and (c)” for “subsection (b)”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–147, §2(d)(1), substituted "subsections (b) and (c)" for "subsection (b)".
 
-Subsec. (b). Pub. L. 105–147, §2(d)(2)(A), substituted “section 506(a)(1) of title 17” for “subsection (a) of this section” in introductory provisions.
+Subsec. (b). Pub. L. 105–147, §2(d)(2)(A), substituted "section 506(a)(1) of title 17" for "subsection (a) of this section" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 105–147, §2(d)(2)(B), inserted “including by electronic means,” after “if the offense consists of the reproduction or distribution,” and substituted “which have a total retail value of more than $2,500” for “with a retail value of more than $2,500”.
+Subsec. (b)(1). Pub. L. 105–147, §2(d)(2)(B), inserted "including by electronic means," after "if the offense consists of the reproduction or distribution," and substituted "which have a total retail value of more than $2,500" for "with a retail value of more than $2,500".
 
-Pub. L. 105–80, substituted “at least 10 copies” for “at last 10 copies”.
+Pub. L. 105–80, substituted "at least 10 copies" for "at last 10 copies".
 
 Subsecs. (c) to (e). Pub. L. 105–147, §2(d)(3), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–561, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person who commits an offense under subsection (a) of this section—
+<b>1992</b>—Subsec. (b). Pub. L. 102–561, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Any person who commits an offense under subsection (a) of this section—
 
-&emsp;“(1) shall be fined not more than $250,000 or imprisoned for not more than five years, or both, if the offense—
+&emsp;"(1) shall be fined not more than $250,000 or imprisoned for not more than five years, or both, if the offense—
 
-&emsp;&emsp;“(A) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of at least one thousand phonorecords or copies infringing the copyright in one or more sound recordings;
+&emsp;&emsp;"(A) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of at least one thousand phonorecords or copies infringing the copyright in one or more sound recordings;
 
-&emsp;&emsp;“(B) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of at least sixty-five copies infringing the copyright in one or more motion pictures or other audiovisual works; or
+&emsp;&emsp;"(B) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of at least sixty-five copies infringing the copyright in one or more motion pictures or other audiovisual works; or
 
-&emsp;&emsp;“(C) is a second or subsequent offense under either of subsection (b)(1) or (b)(2) of this section, where a prior offense involved a sound recording, or a motion picture or other audiovisual work;
+&emsp;&emsp;"(C) is a second or subsequent offense under either of subsection (b)(1) or (b)(2) of this section, where a prior offense involved a sound recording, or a motion picture or other audiovisual work;
 
-&emsp;“(2) shall be fined not more than $250,000 or imprisoned for not more than two years, or both, if the offense—
+&emsp;"(2) shall be fined not more than $250,000 or imprisoned for not more than two years, or both, if the offense—
 
-&emsp;&emsp;“(A) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of more than one hundred but less than one thousand phonorecords or copies infringing the copyright in one or more sound recordings; or
+&emsp;&emsp;"(A) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of more than one hundred but less than one thousand phonorecords or copies infringing the copyright in one or more sound recordings; or
 
-&emsp;&emsp;“(B) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of more than seven but less than sixty-five copies infringing the copyright in one or more motion pictures or other audiovisual works; and
+&emsp;&emsp;"(B) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of more than seven but less than sixty-five copies infringing the copyright in one or more motion pictures or other audiovisual works; and
 
-&emsp;“(3) shall be fined not more than $25,000 or imprisoned for not more than one year, or both, in any other case.”
+&emsp;"(3) shall be fined not more than $25,000 or imprisoned for not more than one year, or both, in any other case."
 
-Subsec. (c). Pub. L. 102–561, §2, substituted “ ‘phonorecord’ ” for “ ‘sound recording’, ‘motion picture’, ‘audiovisual work’, ‘phonorecord’,” in par. (1) and “120” for “118” in par. (2).
+Subsec. (c). Pub. L. 102–561, §2, substituted " 'phonorecord' " for " 'sound recording', 'motion picture', 'audiovisual work', 'phonorecord'," in par. (1) and "120" for "118" in par. (2).
 

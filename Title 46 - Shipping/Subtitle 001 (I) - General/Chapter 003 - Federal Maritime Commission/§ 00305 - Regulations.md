@@ -26,5 +26,5 @@ June 29, 1936, ch. 858, title II, §201(c) (related to rules and regulations), 4
 
 Pub. L. 98–237, §17, Mar. 20, 1984, 98 Stat. 84.
 
-The words “to carry out its duties and powers” are substituted for “in regard to its procedure and the conduct of its business” in 46 App. U.S.C. 1111(c) and “to carry out this chapter” in 46 App. U.S.C. 1716(a) for consistency in the revised title. The text of 46 App. U.S.C. 1716(b) is omitted as executed and obsolete.
+The words "to carry out its duties and powers" are substituted for "in regard to its procedure and the conduct of its business" in 46 App. U.S.C. 1111(c) and "to carry out this chapter" in 46 App. U.S.C. 1716(a) for consistency in the revised title. The text of 46 App. U.S.C. 1716(b) is omitted as executed and obsolete.
 

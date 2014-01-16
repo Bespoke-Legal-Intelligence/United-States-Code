@@ -6,7 +6,7 @@ For the purpose of this chapter—
 
 &emsp;(2) the term “annuitant” means a former employee or Member who, on the basis of that individual's service, meets all requirements for title to an annuity under subchapter II or V of this chapter and files claim therefor;
 
-&emsp;(3) the term “average pay” means the largest annual rate resulting from averaging an employee's or Member's rates of basic pay ineffect over any 3 consecutive years of service or, in the case of an annuity under this chapter based on service of less than 3 years, over the total service, with each rate weighted by the period it was in effect;
+&emsp;(3) the term “average pay” means the largest annual rate resulting from averaging an employee's or Member's rates of basic pay in effect over any 3 consecutive years of service or, in the case of an annuity under this chapter based on service of less than 3 years, over the total service, with each rate weighted by the period it was in effect;
 
 &emsp;(4) the term “basic pay” has the meaning given such term by section 8331(3);
 
@@ -164,7 +164,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(C) in the commissioned corps of the National Oceanic and Atmospheric Administration, or a predecessor entity in function, after June 30, 1961;
 
-> &emsp;and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
+> &emsp;and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
 
 &emsp;(32) the term “nonforfeitable account balance” means any amounts in an account, established and maintained under subchapter III, which are nonforfeitable (as determined under section 8432(g));
 
@@ -178,7 +178,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(B) a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B);
 
-&emsp;(36) the term “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years; and
+&emsp;(36) the term “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years;
 
 &emsp;(37) the term “revised annuity employee” means any individual who—
 
@@ -190,9 +190,21 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(iii) has less than 5 years of creditable civilian service under section 8411; and
 
-&emsp;&emsp;(B) after December 31, 2012, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411.
+&emsp;&emsp;(B) after December 31, 2012, and before January 1, 2014, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411; and
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(o), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, §104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, §226(a)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(b)(1), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 110–181, div. A, title XI, §1115(b), Jan. 28, 2008, 122 Stat. 361; Pub. L. 111–84, div. A, title XIX, §1904(b)(1), Oct. 28, 2009, 123 Stat. 2616; Pub. L. 112–96, title V, §5001(a), Feb. 22, 2012, 126 Stat. 199.)
+&emsp;(38) the term “further revised annuity employee” means any individual who—
+
+&emsp;&emsp;(A) on December 31, 2013—
+
+&emsp;&emsp;&emsp;(i) is not an employee or Member covered under this chapter;
+
+&emsp;&emsp;&emsp;(ii) is not performing civilian service which is creditable service under section 8411; and
+
+&emsp;&emsp;&emsp;(iii) has less than 5 years of creditable civilian service under section 8411; and
+
+&emsp;&emsp;(B) after December 31, 2013, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(o), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, §104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, §226(a)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(b)(1), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 110–181, div. A, title XI, §1115(b), Jan. 28, 2008, 122 Stat. 361; Pub. L. 111–84, div. A, title XIX, §1904(b)(1), Oct. 28, 2009, 123 Stat. 2616; Pub. L. 112–96, title V, §5001(a), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, §401(a), Dec. 26, 2013, 127 Stat. 1183.)
 
 #### References in Text
 
@@ -209,6 +221,10 @@ The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 198
 The date of the enactment of the Legislative Branch Appropriations Act, 2004, referred to in par. (20), is the date of enactment of Pub. L. 108–83, which was approved Sept. 30, 2003.
 
 #### Amendments
+
+<b>2013</b>—Par. (37)(B). Pub. L. 113–67, §401(a)(2), inserted “and before January 1, 2014,” after “after December 31, 2012,”.
+
+Par. (38). Pub. L. 113–67, §401(a)(1), added par. (38).
 
 <b>2012</b>—Par. (37). Pub. L. 112–96 added par. (37).
 
@@ -326,7 +342,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1990 Amendments
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department orCoast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 Amendment by Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
@@ -378,7 +394,7 @@ Pub. L. 101–335, §1, July 17, 1990, 104 Stat. 319, provided that: “This Act
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–43, §1, May 22, 1987, 101 Stat. 315, provided: “That this Act \[amending section 8438 of this title\] may be cited as the ‘Thrift Savings Fund Investment Act of 1987’.”
+Pub. L. 100–43, §1, May 22, 1987, 101 Stat. 315, provided: “That this Act \[amending section 8438 of this title\]may be cited as the ‘Thrift Savings Fund Investment Act of 1987’.”
 
 #### Short Title of 1986 Amendment
 
@@ -386,7 +402,7 @@ Pub. L. 99–556, §1, Oct. 27, 1986, 100 Stat. 3131, provided that: “This Act
 
 #### Short Title
 
-Pub. L. 99–335, title I, §100(a), June 6, 1986, 100 Stat. 514, provided that: “This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notesunder section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
+Pub. L. 99–335, title I, §100(a), June 6, 1986, 100 Stat. 514, provided that: “This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
 
 #### Transfer of Functions
 

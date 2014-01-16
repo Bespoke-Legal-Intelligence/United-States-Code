@@ -10,7 +10,7 @@ Eligibility.—On or after September 11, 2001, a member of a reserve component i
 
 (b)
 
-Disabled Members.—Notwithstanding the eligibility requirements in subsection (a), a member who was ordered to active service asprescribed under subsection (a)(1) or (a)(2) but is released from duty before completing 90 consecutive days because of an injury, illness or disease incurred or aggravated in the line of duty shall be entitled to educational assistance under this chapter at the rate prescribed in section 16162(c)(4)(A) of this title.
+Disabled Members.—Notwithstanding the eligibility requirements in subsection (a), a member who was ordered to active service as prescribed under subsection (a)(1) or (a)(2) but is released from duty before completing 90 consecutive days because of an injury, illness or disease incurred or aggravated in the line of duty shall be entitled to educational assistance under this chapter at the rate prescribed in section 16162(c)(4)(A) of this title.
 
 (c)
 
@@ -36,13 +36,13 @@ The Hostage Relief Act of 1980, referred to in subsec. (e)(1), is Pub. L. 96–4
 
 #### Amendments
 
-<b>2009</b>—Subsec. (e)(1). Pub. L. 111–84 substituted “such program” for “such programs”.
+<b>2009</b>—Subsec. (e)(1). Pub. L. 111–84 substituted "such program" for "such programs".
 
-<b>2008</b>—Subsec. (e)(1). Pub. L. 110–252 inserted “33,” after “32,”.
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–252 inserted "33," after "32,".
 
-<b>2006</b>—Subsec. (e)(1). Pub. L. 109–163 substituted “Secretary of Veterans Affairs” for “Secretary concerned”.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–163 substituted "Secretary of Veterans Affairs" for "Secretary concerned".
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–252, title V, §5003(d), June 30, 2008, 122 Stat. 2378, provided that: “This section \[enacting chapter 33 of Title 38, Veterans’ Benefits, amending this section and sections 3033, 3485, 3688 to 3690, 3692, 3695, 3697, and 3697A of Title 38, and enacting provisions set out as a note under section 3301 of Title 38\] and the amendments made by this section shall take effect on August 1, 2009.”
+Pub. L. 110–252, title V, §5003(d), June 30, 2008, 122 Stat. 2378, provided that: "This section \[enacting chapter 33 of Title 38, Veterans' Benefits, amending this section and sections 3033, 3485, 3688 to 3690, 3692, 3695, 3697, and 3697A of Title 38, and enacting provisions set out as a note under section 3301 of Title 38\] and the amendments made by this section shall take effect on August 1, 2009."
 

@@ -4,9 +4,9 @@
 
 (1)(A) The obligations of the United States under Article 8 of and Annex I to the Protocol shall be implemented by applying the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) to proposals for Federal agency activities in Antarctica, as specified in this section.
 
-(B) The obligations contained in section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) shall apply to all proposals for Federal agency activities occurring in Antarctica and affecting the quality of the human environment in Antarctica or dependent or associated ecosystems, only as specified in this section. For purposes of the application of such section 102(2)(C) under this subsection, the term “significantly affecting the quality of the human environment” shall have the same meaning as the term “more than a minor or transitory impact”.
+(B) The obligations contained in section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) shall apply to all proposals for Federal agency activities occurring in Antarctica and affecting the quality of the human environment in Antarctica or dependent or associated ecosystems, only as specified in this section. For purposes of the application of such section 102(2)(C) under this subsection, the term "significantly affecting the quality of the human environment" shall have the same meaning as the term "more than a minor or transitory impact".
 
-(2)(A) Unless an agency which proposes to conduct a Federal activity in Antarctica determines that the activity will have less than a minor or transitory impact, or unless a comprehensive environmental evaluation is being prepared in accordance with subparagraph (C), the agency shall prepare an initial environmentalevaluation in accordance with Article 2 of Annex I to the Protocol.
+(2)(A) Unless an agency which proposes to conduct a Federal activity in Antarctica determines that the activity will have less than a minor or transitory impact, or unless a comprehensive environmental evaluation is being prepared in accordance with subparagraph (C), the agency shall prepare an initial environmental evaluation in accordance with Article 2 of Annex I to the Protocol.
 
 (B) If the agency determines, through the preparation of the initial environmental evaluation, that the proposed Federal activity is likely to have no more than a minor or transitory impact, the activity may proceed if appropriate procedures are put in place to assess and verify the impact of the activity.
 
@@ -14,11 +14,11 @@
 
 (3) Any agency decision under this section on whether a proposed Federal activity, to which paragraph (2)(C) applies, should proceed, and, if so, whether in its original or in a modified form, shall be based on the comprehensive environmental evaluation as well as other considerations which the agency, in the exercise of its discretion, considers relevant.
 
-(4) For the purposes of this section, the term “Federal activity” includes all activities conducted under a Federal agency research program in Antarctica, whether or not conducted by a Federal agency.
+(4) For the purposes of this section, the term "Federal activity" includes all activities conducted under a Federal agency research program in Antarctica, whether or not conducted by a Federal agency.
 
 #### (b) Federal activities carried out jointly with foreign governments
 
-(1) For the purposes of this subsection, the term “Antarctic joint activity” means any Federal activity in Antarctica which is proposed to be conducted, or which is conducted, jointly or in cooperation with one or more foreign governments. Such term shall be defined in regulations promulgated by such agencies as the President may designate.
+(1) For the purposes of this subsection, the term "Antarctic joint activity" means any Federal activity in Antarctica which is proposed to be conducted, or which is conducted, jointly or in cooperation with one or more foreign governments. Such term shall be defined in regulations promulgated by such agencies as the President may designate.
 
 (2) Where the Secretary of State, in cooperation with the lead United States agency planning an Antarctic joint activity, determines that—
 
@@ -70,5 +70,5 @@ Whenever the Secretary of State makes a determination under paragraph (2) of sub
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1,1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

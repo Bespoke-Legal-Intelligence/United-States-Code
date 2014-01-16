@@ -46,7 +46,7 @@ The President may contribute up to 75 percent of the cost of hazard mitigation m
 
 #### (2) Criteria
 
-&emsp;The President, in consultation and coordination with States and local governments, shall establish criteria for the approval of applications submitted under paragraph (1). The criteria shall include, at a minimum—
+&emsp;The President, in consultation and coordination with States and local governments, shall establish criteria for the approval of applications submitted under paragraph (1). Until such time as the Administrator promulgates regulations to implement this paragraph, the Administrator may waive notice and comment rulemaking, if the Administrator determines doing so is necessary to expeditiously implement this section, and may carry out this section as a pilot program. The criteria shall include, at a minimum—
 
 &emsp;&emsp;(A) the demonstrated ability of the State to manage the grant program under this section;
 
@@ -66,11 +66,33 @@ The President may contribute up to 75 percent of the cost of hazard mitigation m
 
 &emsp;The President shall provide for periodic audits of the hazard mitigation grant programs administered by States under this subsection.
 
-(Pub. L. 93–288, title IV, §404, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4698; amended Pub. L. 103–181, §§2(a), 3, Dec. 3, 1993, 107 Stat. 2054; Pub. L. 106–390, title I, §104(c)(1), title II, §204, Oct. 30, 2000, 114 Stat. 1559, 1561; Pub. L. 108–7, div. K, title IV, §417, Feb. 20, 2003, 117 Stat. 525; Pub. L. 109–295, title VI, §684, Oct. 4, 2006, 120 Stat. 1447; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
+#### (d) Streamlined procedures
+
+#### (1) In general
+
+&emsp;For the purpose of providing assistance under this section, the President shall ensure that—
+
+&emsp;&emsp;(A) adequate resources are devoted to ensure that applicable environmental reviews under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and historic preservation reviews under the National Historic Preservation Act \[16 U.S.C. 470 et seq.\] are completed on an expeditious basis; and
+
+&emsp;&emsp;(B) the shortest existing applicable process under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and the National Historic Preservation Act \[16 U.S.C. 470 et seq.\] is utilized.
+
+#### (2) Authority for other expedited procedures
+
+&emsp;The President may utilize expedited procedures in addition to those required under paragraph (1) for the purpose of providing assistance under this section, such as procedures under the Prototype Programmatic Agreement of the Federal Emergency Management Agency, for the consideration of multiple structures as a group and for an analysis of the cost-effectiveness and fulfillment of cost-share requirements for proposed hazard mitigation measures.
+
+#### (e) Advance assistance
+
+The President may provide not more than 25 percent of the amount of the estimated cost of hazard mitigation measures to a State grantee eligible for a grant under this section before eligible costs are incurred.
+
+(Pub. L. 93–288, title IV, §404, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4698; amended Pub. L. 103–181, §§2(a), 3, Dec. 3, 1993, 107 Stat. 2054; Pub. L. 106–390, title I, §104(c)(1), title II, §204, Oct. 30, 2000, 114 Stat. 1559, 1561; Pub. L. 108–7, div. K, title IV, §417, Feb. 20, 2003, 117 Stat. 525; Pub. L. 109–295, title VI, §684, Oct. 4, 2006, 120 Stat. 1447; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 113–2, div. B, §1104(a), (b), Jan. 29, 2013, 127 Stat. 43.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+
+The National Historic Preservation Act, referred to in subsec. (d)(1), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
 
 #### Prior Provisions
 
@@ -78,25 +100,37 @@ A prior section 404 of Pub. L. 93–288 was classified to section 5174 of this t
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1), (2). Pub. L. 111–351 substituted “Administrator” for “Director” wherever appearing.
+<b>2013</b>—Subsec. (c)(2). Pub. L. 113–2, §1104(b), inserted "Until such time as the Administrator promulgates regulations to implement this paragraph, the Administrator may waive notice and comment rulemaking, if the Administrator determines doing so is necessary to expeditiously implement this section, and may carry out this section as a pilot program." after "applications submitted under paragraph (1)." in introductory provisions.
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–295, in last sentence, substituted “15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000” for “7.5 percent”.
+Subsecs. (d), (e). Pub. L. 113–2, §1104(a), added subsecs. (d) and (e).
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–7 substituted “7.5 percent” for “15 percent”.
+<b>2011</b>—Subsec. (b)(1), (2). Pub. L. 111–351 substituted "Administrator" for "Director" wherever appearing.
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–390, §104(c)(1), substituted “section 5165” for “section 5176” in second sentence and “Subject to section 5165 of this title, the total” for “The total” in third sentence.
+<b>2006</b>—Subsec. (a). Pub. L. 109–295, in last sentence, substituted "15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000" for "7.5 percent".
+
+<b>2003</b>—Subsec. (a). Pub. L. 108–7 substituted "7.5 percent" for "15 percent".
+
+<b>2000</b>—Subsec. (a). Pub. L. 106–390, §104(c)(1), substituted "section 5165" for "section 5176" in second sentence and "Subject to section 5165 of this title, the total" for "The total" in third sentence.
 
 Subsec. (c). Pub. L. 106–390, §204, added subsec. (c).
 
-<b>1993</b>—Pub. L. 103–181 designated existing provisions as subsec. (a), inserted heading, substituted “75 percent” for “50 percent” in first sentence, substituted “15 percent of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster” for “10 percent of the estimated aggregate amounts of grants to be made under section 5172 of this title with respect to such major disaster” in last sentence, and added subsec. (b).
+<b>1993</b>—Pub. L. 103–181 designated existing provisions as subsec. (a), inserted heading, substituted "75 percent" for "50 percent" in first sentence, substituted "15 percent of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster" for "10 percent of the estimated aggregate amounts of grants to be made under section 5172 of this title with respect to such major disaster" in last sentence, and added subsec. (b).
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 113–2, div. B, §1104(c), Jan. 29, 2013, 127 Stat. 43, provided that: "The authority under the amendments made by this section \[amending this section\] shall apply to—
+
+&emsp;"(1) any major disaster or emergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) on or after the date of enactment of this division \[Jan. 29, 2013\]; and
+
+&emsp;"(2) a major disaster or emergency declared under that Act before the date of enactment of this division for which the period for processing requests for assistance has not ended as of the date of enactment of this division."
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–181, §2(b), Dec. 3, 1993, 107 Stat. 2054, provided that: “The amendments made by this section \[amending this section\] shall apply to any major disaster declared by the President pursuant to The \[the\] Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) on or after June 10, 1993.”
+Pub. L. 103–181, §2(b), Dec. 3, 1993, 107 Stat. 2054, provided that: "The amendments made by this section \[amending this section\] shall apply to any major disaster declared by the President pursuant to The \[the\] Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) on or after June 10, 1993."
 
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) andsections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

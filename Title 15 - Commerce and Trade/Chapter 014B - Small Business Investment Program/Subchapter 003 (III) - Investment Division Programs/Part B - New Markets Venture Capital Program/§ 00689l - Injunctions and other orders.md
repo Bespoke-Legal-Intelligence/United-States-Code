@@ -22,5 +22,5 @@ In any proceeding under subsection (a) of this section, the court as a court of 
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under section 661 of this title.
+For definition of "this chapter", referred to in subsec. (a), see References in Text note set out under section 661 of this title.
 

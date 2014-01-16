@@ -16,9 +16,9 @@ A prior section 1745, act June 25, 1948, ch. 646, 62 Stat. 948, related to print
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “United States Patent Office”.
+<b>1999</b>—Pub. L. 106–113 substituted "United States Patent and Trademark Office" for "United States Patent Office".
 
-<b>1964</b>—Pub. L. 88–619, among other changes, inserted “or applications for foreign letters patent, and copies of excerpts of the official journals and other official publications of foreign patent offices belonging to the United States Patent Office” in text, and substituted “documents” for “specifications and drawings” in section catchline.
+<b>1964</b>—Pub. L. 88–619, among other changes, inserted "or applications for foreign letters patent, and copies of excerpts of the official journals and other official publications of foreign patent offices belonging to the United States Patent Office" in text, and substituted "documents" for "specifications and drawings" in section catchline.
 
 <b>1949</b>—Act May 24, 1949, renumbered section 1746 of this title as this section.
 

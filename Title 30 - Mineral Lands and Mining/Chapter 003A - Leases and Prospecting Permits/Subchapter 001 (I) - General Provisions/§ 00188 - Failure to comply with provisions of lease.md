@@ -100,15 +100,15 @@ The Mineral Leasing Act for Acquired Lands, referred to in subsec. (d)(1), is ac
 
 #### Amendments
 
-<b>2005</b>—Subsec. (d)(2)(A), (B). Pub. L. 109–58 added subpars. (A) and (B) and struck out former subpars. (A) and\(B), which related to reinstatement with respect to any lease that terminated under subsec. (b) of this section prior to Jan. 12, 1983, and reinstatement with respect to any lease that terminated under subsec. (b) of this section on or after Jan. 12, 1983.
+<b>2005</b>—Subsec. (d)(2)(A), (B). Pub. L. 109–58 added subpars. (A) and (B) and struck out former subpars. (A) and (B), which related to reinstatement with respect to any lease that terminated under subsec. (b) of this section prior to Jan. 12, 1983, and reinstatement with respect to any lease that terminated under subsec. (b) of this section on or after Jan. 12, 1983.
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House” in concluding provisions.
+<b>1994</b>—Subsec. (e). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" before "of the House" in concluding provisions.
 
 <b>1990</b>—Subsec. (g)(3), (4). Pub. L. 101–567 added pars. (3) and (4).
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–203, §5104, amended first sentence generally. Prior to amendment, first sentence read as follows: “Any lease issued after August 21, 1935, under the provisions of section 226 of this title shall be subject to cancellation by the Secretary of the Interior after thirty days’ notice upon the failure of the lessee to comply with any of the provisions of the lease, unless or until the land covered by any such lease is known to contain valuable deposits of oil or gas.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–203, §5104, amended first sentence generally. Prior to amendment, first sentence read as follows: "Any lease issued after August 21, 1935, under the provisions of section 226 of this title shall be subject to cancellation by the Secretary of the Interior after thirty days' notice upon the failure of the lessee to comply with any of the provisions of the lease, unless or until the land covered by any such lease is known to contain valuable deposits of oil or gas."
 
-Subsec. (h). Pub. L. 100–203, §5102(d)(2), substituted “section 226(m)” for “section 226(j)”.
+Subsec. (h). Pub. L. 100–203, §5102(d)(2), substituted "section 226(m)" for "section 226(j)".
 
 <b>1983</b>—Subsecs. (d) to (j). Pub. L. 97–451 added subsecs. (d) to (i) and redesignated former subsec. (d) as (j).
 
@@ -130,25 +130,25 @@ See note set out under section 181 of this title.
 
 Pub. L. 109–58, title III, §371(a), Aug. 8, 2005, 119 Stat. 734, provided that:
 
-“Notwithstanding section 31(d)(2)(B) of the Mineral Leasing Act (30 U.S.C. 188(d)(2)(B)) as in effect before the effective date of this section \[probably means the date of enactment of Pub. L. 109–58, Aug. 8, 2005\], and notwithstanding the amendment made by subsection (b) of this section \[amending this section\], the Secretary of the Interior may reinstate any oil and gas lease issued under that Act \[30 U.S.C. 181 et seq.\] that was terminated for failure of a lessee to pay the full amount of rental on or before the anniversary date of the lease, during the period beginning on September 1, 2001, and ending on June 30, 2004, if—
+"Notwithstanding section 31(d)(2)(B) of the Mineral Leasing Act (30 U.S.C. 188(d)(2)(B)) as in effect before the effective date of this section \[probably means the date of enactment of Pub. L. 109–58, Aug. 8, 2005\], and notwithstanding the amendment made by subsection (b) of this section \[amending this section\], the Secretary of the Interior may reinstate any oil and gas lease issued under that Act \[30 U.S.C. 181 et seq.\] that was terminated for failure of a lessee to pay the full amount of rental on or before the anniversary date of the lease, during the period beginning on September 1, 2001, and ending on June 30, 2004, if—
 
-&emsp;“(1) not later than 120 days after the date of enactment of this Act \[Aug. 8, 2005\], the lessee—
+&emsp;"(1) not later than 120 days after the date of enactment of this Act \[Aug. 8, 2005\], the lessee—
 
-&emsp;&emsp;“(A) files a petition for reinstatement of the lease;
+&emsp;&emsp;"(A) files a petition for reinstatement of the lease;
 
-&emsp;&emsp;“(B) complies with the conditions of section 31(e) of the Mineral Leasing Act (30 U.S.C. 188(e)); and
+&emsp;&emsp;"(B) complies with the conditions of section 31(e) of the Mineral Leasing Act (30 U.S.C. 188(e)); and
 
-&emsp;&emsp;“(C) certifies that the lessee did not receive a notice of termination by the date that was 13 months before the date of termination; and
+&emsp;&emsp;"(C) certifies that the lessee did not receive a notice of termination by the date that was 13 months before the date of termination; and
 
-&emsp;“(2) the land is available for leasing.”
+&emsp;"(2) the land is available for leasing."
 
 #### Authority for Issuance of Leases Unaffected by Reinstatement of Leases
 
-Pub. L. 87–822, §2, Oct. 15, 1962, 76 Stat. 943, provided that: “Nothing in this Act \[amending this section\] shall be construed as limiting the authority of the Secretary of the Interior to issue, during the periods in which petitions for reinstatement may be filed, oil and gas leases for any of the lands affected.”
+Pub. L. 87–822, §2, Oct. 15, 1962, 76 Stat. 943, provided that: "Nothing in this Act \[amending this section\] shall be construed as limiting the authority of the Secretary of the Interior to issue, during the periods in which petitions for reinstatement may be filed, oil and gas leases for any of the lands affected."
 
 #### Outer Continental Shelf; Cancellation of Leases
 
 Cancellation of mineral leases on submerged lands of outer Continental Shelf, see sections 1334 and 1337 of Title 43, Public Lands.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “royalty”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "royalty".</i>
 

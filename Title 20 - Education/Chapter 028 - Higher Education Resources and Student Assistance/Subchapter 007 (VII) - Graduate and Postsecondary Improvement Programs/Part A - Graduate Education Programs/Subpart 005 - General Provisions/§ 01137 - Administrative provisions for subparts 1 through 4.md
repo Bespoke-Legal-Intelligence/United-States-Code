@@ -40,13 +40,13 @@ Section 1137b, Pub. L. 89–329, title XI, §1113, as added Pub. L. 99–498, ti
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–315, §706(a)(2), substituted “subparts 1 through 4” for “subparts 1, 2, and 3” in section catchline.
+<b>2008</b>—Pub. L. 110–315, §706(a)(2), substituted "subparts 1 through 4" for "subparts 1, 2, and 3" in section catchline.
 
-Subsecs. (a), (b). Pub. L. 110–315, §706(a)(3)(A), substituted “subparts 1 through 4” for “subparts 1, 2, and 3”.
+Subsecs. (a), (b). Pub. L. 110–315, §706(a)(3)(A), substituted "subparts 1 through 4" for "subparts 1, 2, and 3".
 
-Subsec. (d). Pub. L. 110–315, §706(a)(3)(B), substituted “subpart 1, 2, 3, or 4” for “subpart 1, 2, or 3”.
+Subsec. (d). Pub. L. 110–315, §706(a)(3)(B), substituted "subpart 1, 2, 3, or 4" for "subpart 1, 2, or 3".
 
-Subsec. (e). Pub. L. 110–315, §704(i), struck out subsec. (e). Prior to amendment, text read as follows: “The Secretary, using funds appropriated to carry out subparts 1 and 2 of this part, and before awarding any assistance under such parts to a recipient that did not receive assistance under part C or D of title IX (as such parts were in effect prior to October 7, 1998) shall continue to provide funding to recipients of assistance under such part C or D (as so in effect), as the case may be, pursuant to any multiyear award of such assistance.”
+Subsec. (e). Pub. L. 110–315, §704(i), struck out subsec. (e). Prior to amendment, text read as follows: "The Secretary, using funds appropriated to carry out subparts 1 and 2 of this part, and before awarding any assistance under such parts to a recipient that did not receive assistance under part C or D of title IX (as such parts were in effect prior to October 7, 1998) shall continue to provide funding to recipients of assistance under such part C or D (as so in effect), as the case may be, pursuant to any multiyear award of such assistance."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparts”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subparts".</i>
 

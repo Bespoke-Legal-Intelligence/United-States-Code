@@ -1,6 +1,6 @@
 ### §3238. Offenses not committed in any district
 
-The trial of all offenses begun or committed upon the high seas, or elsewhere out of the jurisdiction of any particular State or district, shall be in the district in which the offender, or any one of two or more joint offenders, is arrested or is first brought; but if such offender or offenders are not so arrested or brought into any district, an indictment or information may be filed in the district of the last known residence of the offender or of any one of two or more joint offenders, or if no such residence is known the indictment or information may be filed in the District of Columbia.
+The trial of all offenses begun or committed upon the high seas, or elsewhere out of the jurisdiction of any particular State or district, shall be in the district in which the offender, or any one of two or more joint offenders, is arrested or is first brought; but if such offender or offenders are not so arrested or brought into any district, an indictment or information may be filed inthe district of the last known residence of the offender or of any one of two or more joint offenders, or if no such residence is known the indictment or information may be filed in the District of Columbia.
 
 (June 25, 1948, ch. 645, 62 Stat. 826; Pub. L. 88–27, May 23, 1963, 77 Stat. 48.)
 
@@ -8,7 +8,7 @@ The trial of all offenses begun or committed upon the high seas, or elsewhere ou
 
 Based on section 102 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Mar. 3, 1911, ch. 231, §41, 36 Stat. 1100).
 
-Words “begun or” were inserted to clarify scope of this section and section 3237 of this title.
+Words "begun or" were inserted to clarify scope of this section and section 3237 of this title.
 
 This section is similar to section 219 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse, providing in part that unlawful issuance of passports may be prosecuted in the district where the offender may be arrested or in custody. Said provision is therefore omitted as covered by this section. The remaining provisions of said section 219 are incorporated in section 1541 of this title.
 

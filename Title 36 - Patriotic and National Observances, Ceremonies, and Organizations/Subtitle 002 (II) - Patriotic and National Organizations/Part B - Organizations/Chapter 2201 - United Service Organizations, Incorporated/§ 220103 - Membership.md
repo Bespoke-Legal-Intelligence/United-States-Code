@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 Dec. 29, 1979, Pub. L. 96–165, §5(a), 93 Stat. 1270.
 
-The text of 36:1305(a) (1st–3d sentences) and the word “Thereafter” are omitted as executed and obsolete.
+The text of 36:1305(a) (1st–3d sentences) and the word "Thereafter" are omitted as executed and obsolete.
 

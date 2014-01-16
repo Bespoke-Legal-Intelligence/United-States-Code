@@ -42,7 +42,7 @@ For the purpose of carrying out this subpart, there are authorized to be appropr
 
 #### Amendments
 
-<b>1998</b>—Subsec. (e). Pub. L. 105–392 substituted “1991, such sums” for “1991, and such sums” and inserted before period at end “, $8,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–392 substituted "1991, such sums" for "1991, and such sums" and inserted before period at end ", $8,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002".
 
-<b>1990</b>—Subsec. (e). Pub. L. 101–557 substituted “there are” for “there is” and inserted before period at end “, $7,500,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–557 substituted "there are" for "there is" and inserted before period at end ", $7,500,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993".
 

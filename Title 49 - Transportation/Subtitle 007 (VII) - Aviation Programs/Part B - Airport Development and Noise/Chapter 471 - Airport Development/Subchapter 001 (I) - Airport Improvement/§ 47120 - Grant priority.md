@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 Sept. 3, 1982, Pub. L. 97–248, §509(b)(9), 96 Stat. 685.
 
-The words “In making a grant under this subchapter” are substituted for “In establishing priorities for distribution of funds available pursuant to section 2206 of this Appendix” for consistency in this chapter and to eliminate unnecessary words.
+The words "In making a grant under this subchapter" are substituted for "In establishing priorities for distribution of funds available pursuant to section 2206 of this Appendix" for consistency in this chapter and to eliminate unnecessary words.
 
 #### Amendments
 

@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Feb. 15, 1980, Pub. L. 96–191, §4(i), 94 Stat. 31.
 
-The words “to do so” and “corrective” are omitted as surplus. The words “under section 753 of this title” are added for clarity.
+The words "to do so" and "corrective" are omitted as surplus. The words "under section 753 of this title" are added for clarity.
 
 #### Change of Name
 

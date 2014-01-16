@@ -2,7 +2,7 @@
 
 #### (a) Employment, compensation and benefits
 
-The board shall have power to select, employ, and fix the salary and benefits of such officers, employees, attorneys, and agents as shall be necessary for the performance of its duties under this subchapter, without regard to the provisions of title 5 governing appointments in the competitive service, classification, and General Schedule pay rates, except that no officer, employee, attorney, or agent of the corporation may be paid salary at a rate in excess of the rate for level IV of the Executive Schedule, except that the board-appointed officers may be paid salary at a rate not to exceed level II of the Executive Schedule. The Corporation shall also apply the provisions of section 5307(a)(1), (b)(1) and (b)(2) of title 5 governing limitations on certain pay as if its employees were Federal employees receiving payments under title 5.
+The board shall have power to select, employ, and fix the salary and benefits of such officers,employees, attorneys, and agents as shall be necessary for the performance of its duties under this subchapter, without regard to the provisions of title 5 governing appointments in the competitive service, classification, and General Schedule pay rates, except that no officer, employee, attorney, or agent of the corporation may be paid salary at a rate in excess of the rate for level IV of the Executive Schedule, except that the board-appointed officers may be paid salary at a rate not to exceed level II of the Executive Schedule. The Corporation shall also apply the provisions of section 5307(a)(1), (b)(1) and (b)(2) of title 5 governing limitations on certain pay as if its employees were Federal employees receiving payments under title 5.
 
 #### (b) Appointment of executive director
 
@@ -28,11 +28,11 @@ Levels II and IV of the Executive Schedule, referred to in subsec. (a), are set 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–117 inserted “, except that the board-appointed officers may be paid salary at a rate not to exceed level II of the Executive Schedule” before period at end of first sentence.
+<b>2009</b>—Subsec. (a). Pub. L. 111–117 inserted ", except that the board-appointed officers may be paid salary at a rate not to exceed level II of the Executive Schedule" before period at end of first sentence.
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–199, title III, \[(2)\], added second sentence.
 
-Pub. L. 108–199, title III, \[(1)\], which directed the substitution of “salary” for “compensation”, was executedby making the substitution both places that “compensation” appeared to reflect the probable intent of Congress.
+Pub. L. 108–199, title III, \[(1)\], which directed the substitution of "salary" for "compensation", was executed by making the substitution both places that "compensation" appeared to reflect the probable intent of Congress.
 
-Pub. L. 108–199, title III, \[(1)\], which directed substitution of “rate for level IV of the Executive Schedule” for “highest rate provided for GS–18 of the General Schedule under section 5332 of title 5 United States Code”, was executed by making the substitution for “highest rate provided for GS–18 of the General Schedule under section 5332 of title 5, United States Code” to reflect the probable intent of Congress.
+Pub. L. 108–199, title III, \[(1)\], which directed substitution of "rate for level IV of the Executive Schedule" for "highest rate provided for GS–18 of the General Schedule under section 5332 of title 5 United States Code", was executed by making the substitution for "highest rate provided for GS–18 of the General Schedule under section 5332 of title 5, United States Code" to reflect the probable intent of Congress.
 

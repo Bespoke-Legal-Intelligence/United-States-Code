@@ -18,5 +18,5 @@ The Watershed Protection and Flood Prevention Act of August 4, 1954, as amended,
 
 #### Amendments
 
-<b>1973</b>—Pub. L. 93–126 substituted “$50,000” for “$23,000”.
+<b>1973</b>—Pub. L. 93–126 substituted "$50,000" for "$23,000".
 

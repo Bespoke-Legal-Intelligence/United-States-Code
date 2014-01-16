@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 108–136, title XIV, §1431(b), Nov. 24, 2003, 117 Stat. 1671.
 
-The words “Not later than 180 days after the date of the enactment of this Act” are omitted, and the word “maintain” is substituted for “establish”, to eliminate obsolete words.
+The words "Not later than 180 days after the date of the enactment of this Act" are omitted, and the word "maintain" is substituted for "establish", to eliminate obsolete words.
 

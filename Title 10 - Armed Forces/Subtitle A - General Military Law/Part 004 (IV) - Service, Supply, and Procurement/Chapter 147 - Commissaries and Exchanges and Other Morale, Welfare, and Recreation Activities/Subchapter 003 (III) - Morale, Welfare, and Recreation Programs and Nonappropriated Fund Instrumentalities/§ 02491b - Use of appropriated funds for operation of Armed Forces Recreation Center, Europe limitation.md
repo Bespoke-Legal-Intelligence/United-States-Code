@@ -14,5 +14,5 @@ Exception.—Subsection (a) does not apply to the use of funds for the payment o
 
 <b>2004</b>—Pub. L. 108–375 renumbered section 2247 of this title as this section.
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted “the maintenance, repair, or renovation of real property, and the transportation” for “real property maintenance, and transportation”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted "the maintenance, repair, or renovation of real property, and the transportation" for "real property maintenance, and transportation".
 

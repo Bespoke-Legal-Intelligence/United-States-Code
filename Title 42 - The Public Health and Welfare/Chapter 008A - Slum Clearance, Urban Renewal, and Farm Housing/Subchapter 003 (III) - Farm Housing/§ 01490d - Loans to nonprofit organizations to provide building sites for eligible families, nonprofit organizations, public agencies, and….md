@@ -2,7 +2,7 @@
 
 (a)(1)
 
-In general.—The Secretary may make loans, on such terms and conditions and in such amounts he deems necessary, to public or private nonprofit organizations and to Indian tribes for the acquisition and development of land as building sites to be subdivided and sold to families, nonprofit organizations, public agencies, and cooperatives eligible for assistance under any section of this subchapter or under any other law which provides financial assistance for housing low- and moderate-income families. Such a loan shall bear interest at a rate prescribed by the Secretary taking into consideration a rate determined annually by the Secretary of the Treasury as the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted to the nearest one-eighth of 1 per centum, and shall be repaid within a period not to exceed two years from the making of the loan or within such additional period as may be authorized by the Secretary in any case as being necessary to carry out the purposes of this section.
+In general.—The Secretary may make loans, on such terms and conditions and in such amounts he deems necessary, to public or private nonprofit organizations and to Indian tribes for the acquisition and development of land as building sites to be subdivided and soldto families, nonprofit organizations, public agencies, and cooperatives eligible for assistance under any section of this subchapter or under any other law which provides financial assistance for housing low- and moderate-income families. Such a loan shall bear interest at a rate prescribed by the Secretary taking into consideration a rate determined annually by the Secretary of the Treasury as the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted to the nearest one-eighth of 1 per centum, and shall be repaid within a period not to exceed two years from the making of the loan or within such additional period as may be authorized by the Secretary in any case as being necessary to carry out the purposes of this section.
 
 (2)
 
@@ -18,5 +18,5 @@ Revolving funds.—The Secretary may make grants to nonprofit housing agencies t
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–399 inserted reference to Indian tribes.
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–383 provided for applicability to public agencies and substituted “any section of this subchapter or under any other law which provides financial assistance for housing low- and moderate-income families” for “section 1715z or 1715z–1 of title 12 or section 1490a of this title”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–383 provided for applicability to public agencies and substituted "any section of this subchapter or under any other law which provides financial assistance for housing low- and moderate-income families" for "section 1715z or 1715z–1 of title 12 or section 1490a of this title".
 

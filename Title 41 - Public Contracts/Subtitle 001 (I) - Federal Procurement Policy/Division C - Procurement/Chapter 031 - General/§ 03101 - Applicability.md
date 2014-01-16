@@ -72,17 +72,17 @@ June 30, 1949, ch. 288, title III, §302B, as added Pub. L. 103–355, title IV,
 
 3101(c)(1)
 
-41:252(a) (words after 1st semicolon and before “but when”).
+41:252(a) (words after 1st semicolon and before "but when").
 
 3101(c)(2)
 
-41:252(a) (words after “other law”).
+41:252(a) (words after "other law").
 
 41:260.
 
 June 30, 1949, ch. 288, title III, §310, 63 Stat. 397; July 12, 1952, ch. 703, §1(m), (n), 66 Stat. 594; Pub. L. 85–800, §6, Aug. 28, 1958, 72 Stat. 967; Pub. L. 89–343, §5, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 98–369, div. B, title VII, §2714(a)(6), July 18, 1984, 98 Stat. 1185.
 
-In subsection (c)(1)(B), the words “except as provided in paragraph (2)” are added for clarity. The words “section 113(e) of title 40 or any other” are omitted as unnecessary.
+In subsection (c)(1)(B), the words "except as provided in paragraph (2)" are added for clarity. The words "section 113(e) of title 40 or any other" are omitted as unnecessary.
 
 #### Ex. Ord. No. 13005. Empowerment Contracting
 
@@ -118,9 +118,9 @@ Sec. 4. <i>Implementation Guidelines</i>. In implementing this order, the Secret
 
 Sec. 5. <i>Definitions</i>. For purposes of this Executive order:
 
-(a) “Agency” means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10).
+(a) "Agency" means any authority of the United States that is an "agency" under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10).
 
-(b) “Area of general economic distress” shall be defined, for all urban and rural communities, as any census tract that has a poverty rate of at least 20 percent or any designated Federal Empowerment Zone, Supplemental Empowerment Zone, Enhanced Enterprise Community, or Enterprise Community. In addition, the Secretary may designate as an area of general economic distress any additional rural or Indian reservation area after considering the following factors:
+(b) "Area of general economic distress" shall be defined, for all urban and rural communities, as any census tract that has a poverty rate of at least 20 percent or any designated Federal Empowerment Zone, Supplemental Empowerment Zone, Enhanced Enterprise Community, or Enterprise Community. In addition, the Secretary may designate as an area of general economic distress any additional rural or Indian reservation area after considering the following factors:
 
 (1) Unemployment rate;
 
@@ -130,13 +130,13 @@ Sec. 5. <i>Definitions</i>. For purposes of this Executive order:
 
 (4) Rate of business formation and rate of business growth.
 
-(c) “Qualified large business” means a large for-profit or not-for-profit trade or business that (1) employs a significant number of residents from the area of general economic distress; and (2) either has a significant physical presence in the area of general economic distress or has a direct impact on generating significant economic activity in the area of general economic distress.
+(c) "Qualified large business" means a large for-profit or not-for-profit trade or business that (1) employs a significant number of residents from the area of general economic distress; and (2) either has a significant physical presence in the area of general economic distress or has a direct impact on generating significant economic activity in the area of general economic distress.
 
-(d) “Qualified small business” means a small for-profit or not-for-profit trade or business that (1) employs a significant number of residents from the area of general economic distress; (2) has a significant physical presence in the area of general economic distress; or (3) has a direct impact on generating significant economic activity in the area of general economic distress.
+(d) "Qualified small business" means a small for-profit or not-for-profit trade or business that (1) employs a significant number of residents from the area of general economic distress; (2) has a significant physical presence in the area of general economic distress; or (3) has a direct impact on generating significant economic activity in the area of general economic distress.
 
-(e) “Secretary” means the Secretary of Commerce.
+(e) "Secretary" means the Secretary of Commerce.
 
-Sec. 6. <i>Agency Authority</i>. Nothing in this Executive order shall be construed as displacing the agencies’ authority or responsibilities, as authorized by law, including specifically other programs designed to promote the development of small or disadvantaged businesses.
+Sec. 6. <i>Agency Authority</i>. Nothing in this Executive order shall be construed as displacing the agencies' authority or responsibilities, as authorized by law, including specifically other programs designed to promote the development of small or disadvantaged businesses.
 
 Sec. 7. <i>Judicial Review</i>. This Executive order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
@@ -148,7 +148,7 @@ Ex. Ord. No. 13627, Sept. 25, 2012, 77 F.R. 60029, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act (40 U.S.C. 101 et seq.) and the Trafficking Victims Protection Act of 2000, as amended (TVPA) (Public Law 106–386, Division A), and in order to strengthen protections against trafficking in persons in Federal contracting, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. More than 20 million men, women, and children throughout the world are victims of severe forms of trafficking in persons (“trafficking” or “trafficking in persons”)—defined in section 103 of the TVPA, 22 U.S.C. 7102(8), to include sex trafficking in which a commercial sex act is induced by force, fraud, or coercion, or in which the person induced to perform such act has not attained 18 years of age, or the recruitment, harboring, transportation, provision, or obtaining of a person for labor or services, through the use of force, fraud, or coercion, for the purpose of subjection to involuntary servitude, peonage, debt bondage, or slavery.
+Section 1. <i>Policy</i>. More than 20 million men, women, and children throughout the world are victims of severe forms of trafficking in persons ("trafficking" or "trafficking in persons")—defined in section 103 of the TVPA, 22 U.S.C. 7102(8) \[now (9)\], to include sex trafficking in which a commercial sex act is induced by force, fraud, or coercion, or in which the person induced to perform such act has not attained 18 years of age, or the recruitment, harboring, transportation, provision, or obtaining of a person for labor or services, through the use of force, fraud, or coercion, for the purpose of subjection to involuntary servitude, peonage, debt bondage, or slavery.
 
 The United States has long had a zero-tolerance policy regarding Government employees and contractor personnel engaging in any form of this criminal behavior. As the largest single purchaser of goods and services in the world, the United States Government bears a responsibility to ensure that taxpayer dollars do not contribute to trafficking in persons. By providing our Government workforce with additional tools and training to apply and enforce existing policy, and by providing additional clarity to Government contractors and subcontractors on the steps necessary to fully comply with that policy, this order will help to protect vulnerable individuals as contractors and subcontractors perform vital services and manufacture the goods procured by the United States.
 
@@ -164,7 +164,7 @@ Sec. 2. <i>Anti-Trafficking Provisions</i>. (a) Within 180 days of the date of t
 
 &emsp;(ii) charging employees recruitment fees;
 
-&emsp;(iii) destroying, concealing, confiscating, or otherwise denying access by an employee to the employee's identity documents, such as passports or drivers’ licenses; and
+&emsp;(iii) destroying, concealing, confiscating, or otherwise denying access by an employee to the employee's identity documents, such as passports or drivers' licenses; and
 
 &emsp;(iv) for portions of contracts and subcontracts:
 
@@ -190,7 +190,7 @@ Sec. 2. <i>Anti-Trafficking Provisions</i>. (a) Within 180 days of the date of t
 
 &emsp;(i) an awareness program to inform employees about:
 
-&emsp;(I) the policy of ensuring that employees do not engage in trafficking in persons or related activities, including those specified in subsection (a)(1)(A) ofthis section, the procurement of commercial sex acts, or the use of forced labor; and
+&emsp;(I) the policy of ensuring that employees do not engage in trafficking in persons or related activities, including those specified in subsection (a)(1)(A) of this section, the procurement of commercial sex acts, or the use of forced labor; and
 
 &emsp;(II) the actions that will be taken against employees for violation of such policy;
 
@@ -252,7 +252,7 @@ The Federal Government has an overriding obligation to American taxpayers. It sh
 
 Since 2001, spending on Government contracts has more than doubled, reaching over $500 billion in 2008. During this same period, there has been a significant increase in the dollars awarded without full and open competition and an increase in the dollars obligated through cost-reimbursement contracts. Between fiscal years 2000 and 2008, for example, dollars obligated under cost-reimbursement contracts nearly doubled, from $71 billion in 2000 to $135 billion in 2008. Reversing these trends away from full and open competition and toward cost-reimbursement contracts could result in savings of billions of dollars each year for the American taxpayer.
 
-Excessive reliance by executive agencies on sole-source contracts (or contracts with a limited number of sources) and cost-reimbursement contracts creates a risk that taxpayer funds will be spent on contracts that are wasteful, inefficient, subject to misuse, or otherwise not well designed to serve the needs of the Federal Government or the interests of the American taxpayer. Reports by agency Inspectors General, the Government Accountability Office (GAO), and other independent reviewing bodies have shown that noncompetitive and cost-reimbursement contracts have been misused, resulting in wasted taxpayer resources, poor contractor performance, and inadequate accountability for results.
+Excessive reliance by executive agencies on sole-source contracts (or contracts with a limited number of sources) and cost-reimbursement contracts creates a risk that taxpayer funds will be spent on contracts that are wasteful, inefficient, subject to misuse, or otherwise not well designed to serve the needs of the Federal Government or the interests of the American taxpayer. Reports by agency Inspectors General, the GovernmentAccountability Office (GAO), and other independent reviewing bodies have shown that noncompetitive and cost-reimbursement contracts have been misused, resulting in wasted taxpayer resources, poor contractor performance, and inadequate accountability for results.
 
 When awarding Government contracts, the Federal Government must strive for an open and competitive process. However, executive agencies must have the flexibility to tailor contracts to carry out their missions and achieve the policy goals of the Government. In certain exigent circumstances, agencies may need to consider whether a competitive process will not accomplish the agency's mission. In such cases, the agency must ensure that the risks associated with noncompetitive contracts are minimized.
 

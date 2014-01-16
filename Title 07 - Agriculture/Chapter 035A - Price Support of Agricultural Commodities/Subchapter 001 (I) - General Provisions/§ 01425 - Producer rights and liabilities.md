@@ -18,15 +18,15 @@ This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 10
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–237 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) Notwithstanding any other provision of law, the Secretary may provide a negotiable certificate to any producer who repays, together with interest, a price support loan made available to such producer under any of the annual programs, for wheat, feed grains, upland cotton, or rice established under this Act.
+"(1) Notwithstanding any other provision of law, the Secretary may provide a negotiable certificate to any producer who repays, together with interest, a price support loan made available to such producer under any of the annual programs, for wheat, feed grains, upland cotton, or rice established under this Act.
 
-“(2) The amount of such certificates shall be equal to the amount of the interest paid by the producer on such loan.
+"(2) The amount of such certificates shall be equal to the amount of the interest paid by the producer on such loan.
 
-“(3) Such certificate shall be redeemable in wheat, feed grains, upland cotton, or rice, as the case may be, owned by the Commodity Credit Corporation.
+"(3) Such certificate shall be redeemable in wheat, feed grains, upland cotton, or rice, as the case may be, owned by the Commodity Credit Corporation.
 
-“(4) The issuance of such certificate shall be subject to the availability of commodities owned by the Corporation.”
+"(4) The issuance of such certificate shall be subject to the availability of commodities owned by the Corporation."
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–460 substituted “Except as otherwise provided in section 1425a of this title, no producer” for “No producer”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–460 substituted "Except as otherwise provided in section 1425a of this title, no producer" for "No producer".
 
 <b>1985</b>—Pub. L. 99–198 temporarily designated existing provisions as subsec. (a) and added subsec. (b). See Effective and Termination Dates of 1985 Amendment note below.
 
@@ -42,7 +42,7 @@ Pub. L. 99–198, title X, §1004, Dec. 23, 1985, 99 Stat. 1447, provided that t
 
 #### Exceptions From Transfer of Functions
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervisionof said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 #### Inapplicability of Section
 

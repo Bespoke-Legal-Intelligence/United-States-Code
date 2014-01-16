@@ -14,7 +14,7 @@
 
 (e)(1) The following shall be subject to forfeiture to the United States and no property right shall exist in them:
 
-&emsp;(A) Any property, real or personal, used or intended to be used to commit or to facilitate the commission of any violation of this chapter.
+&emsp;(A) Any property, real or personal, used or intended to be used to commit or to facilitatethe commission of any violation of this chapter.
 
 &emsp;(B) Any property, real or personal, which constitutes or is derived from proceeds traceable to any violation of this chapter.
 

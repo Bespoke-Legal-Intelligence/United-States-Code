@@ -6,5 +6,5 @@ The Secretary of the Interior is authorized to perform any and all acts and to m
 
 #### Amendments
 
-<b>1936</b>—Act June 4, 1936, substituted “within which” for “with which”.
+<b>1936</b>—Act June 4, 1936, substituted "within which" for "with which".
 

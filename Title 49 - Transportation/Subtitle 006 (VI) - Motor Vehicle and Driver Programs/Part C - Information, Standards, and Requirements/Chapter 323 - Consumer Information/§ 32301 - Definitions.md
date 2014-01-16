@@ -2,11 +2,11 @@
 
 In this chapter—
 
-&emsp;(1) “crash avoidance” means preventing or mitigating a crash;
+&emsp;(1) "crash avoidance" means preventing or mitigating a crash;
 
-&emsp;(2) “crashworthiness” means the protection a passenger motor vehicle gives its passengers against personal injury or death from a motor vehicle accident; and
+&emsp;(2) "crashworthiness" means the protection a passenger motor vehicle gives its passengers against personal injury or death from a motor vehicle accident; and
 
-&emsp;(3) “damage susceptibility” means the susceptibility of a passenger motor vehicle to damage in a motor vehicle accident.
+&emsp;(3) "damage susceptibility" means the susceptibility of a passenger motor vehicle to damage in a motor vehicle accident.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1035; Pub. L. 112–141, div. C, title I, §31305(a), July 6, 2012, 126 Stat. 765.)
 
@@ -28,7 +28,7 @@ Oct. 20, 1972, Pub. L. 92–513, §2(13), (14), 86 Stat. 948; Dec. 22, 1975, Pub
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 added par. (1), redesignated former pars. (1) and (2) as (2) and (3), respectively, and, in par. (2), substituted “; and” for period at end.
+<b>2012</b>—Pub. L. 112–141 added par. (1), redesignated former pars. (1) and (2) as (2) and (3), respectively, and, in par. (2), substituted "; and" for period at end.
 
 #### Effective Date of 2012 Amendment
 

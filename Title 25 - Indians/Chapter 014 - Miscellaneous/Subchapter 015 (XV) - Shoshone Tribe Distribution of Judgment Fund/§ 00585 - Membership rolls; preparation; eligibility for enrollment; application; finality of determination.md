@@ -2,7 +2,7 @@
 
 For the purpose of apportioning the award in accordance with sections 581 to 590 of this title, membership rolls, duly approved by the Secretary of the Interior, shall be prepared for each of the three groups, as follows:
 
-(a) The governing body of the Shoshone Tribe of the Wind River Reservation and the governing body of the Shoshone-Bannock Tribes, each shall, with the assistance of the Secretary, bringcurrent the membership rolls of their respective tribes, to include all persons born prior to and alive on December 18, 1971, who are enrolled or eligible to be enrolled in accordance with the membership requirements of their respective tribes.
+(a) The governing body of the Shoshone Tribe of the Wind River Reservation and the governing body of the Shoshone-Bannock Tribes, each shall, with the assistance of the Secretary, bring current the membership rolls of their respective tribes, to include all persons born prior to and alive on December 18, 1971, who are enrolled or eligible to be enrolled in accordance with the membership requirements of their respective tribes.
 
 (b) The proposed roll of the Northwestern Bands of Shoshone Indians entitled to participate in the distribution of the judgment funds shall be prepared by the governing officers of said Northwestern Bands, with the assistance of the Secretary of the Interior, within six months after December 18, 1971, authorizing distribution of said funds. The roll shall include all persons who meet all of the following requirements of eligibility:
 

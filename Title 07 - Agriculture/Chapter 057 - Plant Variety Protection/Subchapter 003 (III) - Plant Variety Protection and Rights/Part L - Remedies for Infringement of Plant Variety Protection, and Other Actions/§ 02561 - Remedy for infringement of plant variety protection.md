@@ -6,7 +6,7 @@ An owner shall have remedy by civil action for infringement of plant variety pro
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–349 struck out “his” before “plant” in first sentence.
+<b>1994</b>—Pub. L. 103–349 struck out "his" before "plant" in first sentence.
 
 #### Effective Date of 1994 Amendment
 

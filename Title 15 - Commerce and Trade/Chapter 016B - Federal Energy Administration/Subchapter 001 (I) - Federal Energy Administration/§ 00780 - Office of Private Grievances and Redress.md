@@ -16,7 +16,7 @@ The Administrator shall submit to the Secretary for inclusion in the annual repo
 
 #### Amendments
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–470 substituted “submit to the Secretary for inclusion in the annual report required by section 7267 of title 42 a statement” for “report quarterly to the Congress”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–470 substituted "submit to the Secretary for inclusion in the annual report required by section 7267 of title 42 a statement" for "report quarterly to the Congress".
 
 #### Transfer of Functions
 

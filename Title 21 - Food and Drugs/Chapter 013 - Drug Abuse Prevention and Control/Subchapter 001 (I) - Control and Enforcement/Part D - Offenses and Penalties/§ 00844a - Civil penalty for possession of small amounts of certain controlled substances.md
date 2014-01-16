@@ -50,7 +50,7 @@ The Attorney General shall dismiss the proceedings under this section against an
 
 &emsp;(5) the individual agrees to submit to a drug test, and such test shows the individual to be drug free.
 
-> A nonpublic record of a disposition under this subsection shall be retained by the Department of Justice solely for the purpose of determining in any subsequent proceeding whether the person qualified for a civil penalty or expungement under this section. If a record is expunged underthis subsection, an individual concerning whom such an expungement has been made shall not be held thereafter under any provision of law to be guilty of perjury, false swearing, or making a false statement by reason of his failure to recite or acknowledge a proceeding under this section or the results thereof in response to an inquiry made of him for any purpose.
+> A nonpublic record of a disposition under this subsection shall be retained by the Department of Justice solely for the purpose of determining in any subsequent proceeding whether the person qualified for a civil penalty or expungement under this section. If a record is expunged under this subsection, an individual concerning whom such an expungement has been made shall not be held thereafter under any provision of law to be guilty of perjury, false swearing, or making a false statement by reason of his failure to recite or acknowledge a proceeding under this section or the results thereof in response to an inquiry made of him for any purpose.
 
 (Pub. L. 91–513, title II, §405, formerly Pub. L. 100–690, title VI, §6486, Nov. 18, 1988, 102 Stat. 4384, renumbered §405 of Pub. L. 91–513, and amended Pub. L. 101–647, title X, §1002(g)(1), (2), Nov. 29, 1990, 104 Stat. 4828.)
 
@@ -62,7 +62,7 @@ A prior section 405 of Pub. L. 91–513 was renumbered section 418 and is classi
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–647, §1002(g)(2)(A), made technical amendments to references to sections 841(b)(1)(A) and 844 of this title to correct references to corresponding provisions of original act.
 
-Subsecs. (c), (j)(4). Pub. L. 101–647, §1002(g)(2)(B), (C), struck out “as defined in section 802 of this title” after “controlled substance”.
+Subsecs. (c), (j)(4). Pub. L. 101–647, §1002(g)(2)(B), (C), struck out "as defined in section 802 of this title" after "controlled substance".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

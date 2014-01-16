@@ -10,5 +10,5 @@ Provisions similar to this section were contained in section 1805(a)(1) of this 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437 substituted “Energy Committees” for “Joint Committee” in two places.
+<b>1994</b>—Pub. L. 103–437 substituted "Energy Committees" for "Joint Committee" in two places.
 

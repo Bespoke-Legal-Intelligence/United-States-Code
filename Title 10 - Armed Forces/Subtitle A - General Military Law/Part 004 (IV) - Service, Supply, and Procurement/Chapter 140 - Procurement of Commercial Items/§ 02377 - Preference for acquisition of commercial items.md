@@ -52,7 +52,7 @@ Preliminary Market Research.—(1) The head of an agency shall conduct market re
 
 (3) In conducting market research, the head of an agency should not require potential sources to submit more than the minimum information that is necessary to make the determinations required in paragraph (2).
 
-(4) The head of an agency shall take appropriate steps to ensure that any prime contractor of a contract (or task order or delivery order) in an amount in excess of $5,000,000 for the procurement of items other than commercial items engages in such market research as may be necessary to carry out the requirements of subsection (b)(2) before making purchases for or on behalf of the Department of Defense.
+(4) The head of an agency shall take appropriate steps to ensure that any prime contractorof a contract (or task order or delivery order) in an amount in excess of $5,000,000 for the procurement of items other than commercial items engages in such market research as may be necessary to carry out the requirements of subsection (b)(2) before making purchases for or on behalf of the Department of Defense.
 
 (Added Pub. L. 103–355, title VIII, §8104(a), Oct. 13, 1994, 108 Stat. 3390; Pub. L. 110–181, div. A, title VIII, §826(a), Jan. 28, 2008, 122 Stat. 227.)
 
@@ -66,15 +66,15 @@ Subsec. (c)(4). Pub. L. 110–181, §826(a)(2), added par. (4).
 
 Pub. L. 110–417, \[div. A\], title VIII, §803, Oct. 14, 2008, 122 Stat. 4519, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Defense shall ensure that contracting officials identify and evaluate, at all stages of the acquisition process (including concept refinement, concept decision, and technology development), opportunities for the use of commercial computer software and other non-developmental software.
 
-“(b)
+"(b)
 
-Report.—Not later than 270 days after the date of enactment of this Act \[Oct. 14, 2008\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on actions taken to implement subsection (a), including a description of any relevant regulations and policy guidance.”
+Report.—Not later than 270 days after the date of enactment of this Act \[Oct. 14, 2008\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on actions taken to implement subsection (a), including a description of any relevant regulations and policy guidance."
 
 #### Requirement To Develop Training and Tools
 
-Pub. L. 110–181, div. A, title VIII, §826(b), Jan. 28, 2008, 122 Stat. 228, provided that: “The Secretary of Defense shall develop training to assist contracting officers, and market research tools to assist such officers and prime contractors, in performing appropriate market research as required by subsection (c) of section 2377 of title 10, United States Code, as amended by this section.”
+Pub. L. 110–181, div. A, title VIII, §826(b), Jan. 28, 2008, 122 Stat. 228, provided that: "The Secretary of Defense shall develop training to assist contracting officers, and market research tools to assist such officers and prime contractors, in performing appropriate market research as required by subsection (c) of section 2377 of title 10, United States Code, as amended by this section."
 

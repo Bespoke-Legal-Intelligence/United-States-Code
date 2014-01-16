@@ -12,7 +12,7 @@ During the period in which a demonstration project established under subsection 
 
 #### (c) Waiver of procurement laws
 
-The Secretary may waive such provisions of Federal procurement law as are necessary to enable any Indian tribe to develop and test administrative systems under the demonstration project established under subsection (a) of thissection, but only if such waiver does not diminish or endanger the delivery of health care services to Indians.
+The Secretary may waive such provisions of Federal procurement law as are necessary to enable any Indian tribe to develop and test administrative systems under the demonstration project established under subsection (a) of this section, but only if such waiver does not diminish or endanger the delivery of health care services to Indians.
 
 #### (d) Termination; evaluation and report
 
@@ -32,15 +32,15 @@ The Secretary may waive such provisions of Federal procurement law as are necess
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title XIX of the Public Health Service Act is classified generally to part A (§300w et seq.) of subchapter XVII of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title XIX of the Public Health Service Act is classified generally to part A (§300w et seq.) of subchapter XVII of chapter 6A of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (d)(1). Pub. L. 102–573, §808(1)(A), inserted before period at end “, or, in the case of a demonstration project for which a grant is made after September 30, 1990, three years after the date on which such grant is made”.
+<b>1992</b>—Subsec. (d)(1). Pub. L. 102–573, §808(1)(A), inserted before period at end ", or, in the case of a demonstration project for which a grant is made after September 30, 1990, three years after the date on which such grant is made".
 
-Subsec. (d)(2). Pub. L. 102–573, §808(1)(B), substituted “1996” for “1994”.
+Subsec. (d)(2). Pub. L. 102–573, §808(1)(B), substituted "1996" for "1994".
 
-Subsec. (e). Pub. L. 102–573, §808(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.”
+Subsec. (e). Pub. L. 102–573, §808(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section."
 
-<i><sup>1</sup></i><i> So in original. The words “, shall be recoverable” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The words ", shall be recoverable" probably should not appear.</i>
 

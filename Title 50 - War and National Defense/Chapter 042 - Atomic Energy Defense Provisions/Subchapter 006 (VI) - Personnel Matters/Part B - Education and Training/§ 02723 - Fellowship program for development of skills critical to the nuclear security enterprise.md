@@ -6,7 +6,7 @@ The Secretary of Energy shall conduct a fellowship program for the development o
 
 #### (b) Eligible individuals
 
-Individuals eligible for participation in the fellowship program are United States citizens who are the following:
+Individuals eligible for participation in the fellowship program are United States citizens who are either of the following:
 
 &emsp;(1) Students pursuing graduate degrees in fields of science or engineering that are related to nuclear weapons engineering or to the science and technology base of the Department of Energy.
 
@@ -30,7 +30,7 @@ The Secretary shall, in consultation with the Assistant Secretary of Energy for 
 
 (2) An agreement referred to in paragraph (1) shall be in writing, shall be signed by the participant, and shall include the participant's agreement to serve, after completion of the course of study for which the assistance was provided, as a full-time employee in a position in the nuclear security enterprise for a period of time to be established by the Secretary of Energy of not less than one year, if such a position is offered to the participant.
 
-(Pub. L. 107–314, div. D, title XLVI, §4623, formerly Pub. L. 104–106, div. C, title XXXI, §3140, Feb. 10, 1996, 110 Stat. 621; Pub. L. 106–65, div. C, title XXXI, §3162(a)–(d), Oct. 5, 1999, 113 Stat. 943; renumbered Pub. L. 107–314, div. D, title XLVI, §4623, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(10), Nov. 24, 2003, 117 Stat. 1779; Pub. L. 112–239, div. C, title XXXI, §3131(s)(1), Jan. 2, 2013, 126 Stat. 2184.)
+(Pub. L. 107–314, div. D, title XLVI, §4623, formerly Pub. L. 104–106, div. C, title XXXI, §3140, Feb. 10, 1996, 110 Stat. 621; Pub. L. 106–65, div. C, title XXXI, §3162(a)–(d), Oct. 5, 1999, 113 Stat. 943; renumbered Pub. L. 107–314, div. D, title XLVI, §4623, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(10), Nov. 24, 2003, 117 Stat. 1779; Pub. L. 112–239, div. C, title XXXI, §3131(s)(1), Jan. 2, 2013, 126 Stat. 2184; Pub. L. 113–66, div. C, title XXXI, §3146(g)(8), Dec. 26, 2013, 127 Stat. 1080.)
 
 #### Codification
 
@@ -38,37 +38,39 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239, §3131(s)(1)(A), substituted “nuclear security enterprise” for “Department of Energy nuclear weapons complex” in section catchline.
+<b>2013</b>—Pub. L. 112–239, §3131(s)(1)(A), substituted "nuclear security enterprise" for "Department of Energy nuclear weapons complex" in section catchline.
 
-Subsec. (a). Pub. L. 112–239, §3131(s)(1)(B), substituted “nuclear security enterprise” for “Department of Energy nuclear weapons complex” in two places.
+Subsec. (a). Pub. L. 112–239, §3131(s)(1)(B), substituted "nuclear security enterprise" for "Department of Energy nuclear weapons complex" in two places.
 
-Subsec. (c). Pub. L. 112–239, §3131(s)(1)(C), substituted “national security laboratories and nuclear weapons production facilities.” for “following facilities:
+<b>2013</b>—Subsec. (b). Pub. L. 113–66 inserted "either of" after "who are" in introductory provisions.
 
-&emsp;“(1) The Kansas City Plant, Kansas City, Missouri.
+Subsec. (c). Pub. L. 112–239, §3131(s)(1)(C), substituted "national security laboratories and nuclear weapons production facilities." for "following facilities:
 
-&emsp;“(2) The Pantex Plant, Amarillo, Texas.
+&emsp;"(1) The Kansas City Plant, Kansas City, Missouri.
 
-&emsp;“(3) The Y–12 Plant, Oak Ridge, Tennessee.
+&emsp;"(2) The Pantex Plant, Amarillo, Texas.
 
-&emsp;“(4) The Savannah River Site, Aiken, South Carolina.
+&emsp;"(3) The Y–12 Plant, Oak Ridge, Tennessee.
 
-&emsp;“(5) The Lawrence Livermore National Laboratory, Livermore, California.
+&emsp;"(4) The Savannah River Site, Aiken, South Carolina.
 
-&emsp;“(6) The Los Alamos National Laboratory, Los Alamos, New Mexico.
+&emsp;"(5) The Lawrence Livermore National Laboratory, Livermore, California.
 
-&emsp;“(7) The Sandia National Laboratories, Albuquerque, New Mexico, and Livermore, California.”
+&emsp;"(6) The Los Alamos National Laboratory, Los Alamos, New Mexico.
 
-Subsec. (f)(2). Pub. L. 112–239, §3131(s)(1)(D), substituted “the nuclear security enterprise for” for “the Department of Energy for”.
+&emsp;"(7) The Sandia National Laboratories, Albuquerque, New Mexico, and Livermore, California."
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–65, §3162(a), substituted “Secretary shall” for “Secretary shall—”, struck out par. (1) designation before “provide educational assistance”, and struck out pars. (2) and (3) which read as follows:
+Subsec. (f)(2). Pub. L. 112–239, §3131(s)(1)(D), substituted "the nuclear security enterprise for" for "the Department of Energy for".
 
-“(2) employ eligible individuals at the facilities described in subsection (c) in order to facilitate the development of such skills by these individuals; or
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §3162(a), substituted "Secretary shall" for "Secretary shall—", struck out par. (1) designation before "provide educational assistance", and struck out pars. (2) and (3) which read as follows:
 
-“(3) provide eligible individuals with the assistance and the employment.”
+"(2) employ eligible individuals at the facilities described in subsection (c) in order to facilitate the development of such skills by these individuals; or
 
-Subsec. (b). Pub. L. 106–65, §3162(b), inserted “are United States citizens who” after “program” in introductory provisions.
+"(3) provide eligible individuals with the assistance and the employment."
+
+Subsec. (b). Pub. L. 106–65, §3162(b), inserted "are United States citizens who" after "program" in introductory provisions.
 
 Subsec. (c)(5) to (7). Pub. L. 106–65, §3162(c), added pars. (5) to (7).
 
-Subsec. (f). Pub. L. 106–65, §3162(d), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Of the funds authorized to be appropriated to the Department of Energy for fiscal year 1996 under section 3101(b), $10,000,000 may be used for the purpose of carrying out the fellowship program under this section.”
+Subsec. (f). Pub. L. 106–65, §3162(d), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "Of the funds authorized to be appropriated to the Department of Energy for fiscal year 1996 under section 3101(b), $10,000,000 may be used for the purpose of carrying out the fellowship program under this section."
 

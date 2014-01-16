@@ -6,7 +6,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01101 - Definitions for this chapter](%C2%A7%2001101%20-%20Definitions%20for%20this%20chapter.md)
-- [&sect; 01102 - Creditors&#8217; and equity security holders&#8217; committees](%C2%A7%2001102%20-%20Creditors%E2%80%99%20and%20equity%20security%20holders%E2%80%99%20committees.md)
+- [&sect; 01102 - Creditors' and equity security holders' committees](%C2%A7%2001102%20-%20Creditors%27%20and%20equity%20security%20holders%27%20committees.md)
 - [&sect; 01103 - Powers and duties of committees](%C2%A7%2001103%20-%20Powers%20and%20duties%20of%20committees.md)
 - [&sect; 01104 - Appointment of trustee or examiner](%C2%A7%2001104%20-%20Appointment%20of%20trustee%20or%20examiner.md)
 - [&sect; 01105 - Termination of trustee's appointment](%C2%A7%2001105%20-%20Termination%20of%20trustee%27s%20appointment.md)

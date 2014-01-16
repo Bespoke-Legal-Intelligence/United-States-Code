@@ -12,7 +12,7 @@ The Congress finds and declares that—
 
 &emsp;(4) international efforts to obtain information on the activities of multinational enterprises and other international investors have accelerated recently;
 
-&emsp;(5) the potential consequences of international investment cannot be evaluated accurately because the United States Government lacks sufficient information on such investment and its actual or possible effects on thenational security, commerce, employment, inflation, general welfare, and foreign policy of the United States;
+&emsp;(5) the potential consequences of international investment cannot be evaluated accurately because the United States Government lacks sufficient information on such investment and its actual or possible effects on the national security, commerce, employment, inflation, general welfare, and foreign policy of the United States;
 
 &emsp;(6) accurate and comprehensive information on international investment is needed by the Congress to develop an informed United States policy on such investment;
 
@@ -34,17 +34,17 @@ Nothing in this chapter is intended to restrain or deter foreign investment in t
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–533 inserted “to authorize the collection and use of information on direct investments owned or controlled directly or indirectly by foreign governments or persons,” after “the impact of such investment and trade,” in first sentence.
+<b>1990</b>—Subsec. (b). Pub. L. 101–533 inserted "to authorize the collection and use of information on direct investments owned or controlled directly or indirectly by foreign governments or persons," after "the impact of such investment and trade," in first sentence.
 
-<b>1984</b>—Subsec. (a)(7) to (9). Pub. L. 98–573, §306(b)(2)(A), added pars. (7) and (8), redesignated former par. (7) as (9), and inserted “and trade in services” after “international investment” in par. (9).
+<b>1984</b>—Subsec. (a)(7) to (9). Pub. L. 98–573, §306(b)(2)(A), added pars. (7) and (8), redesignated former par. (7) as (9), and inserted "and trade in services" after "international investment" in par. (9).
 
-Subsec. (b). Pub. L. 98–573, §306(b)(2)(B), substituted “international investment and United States foreign trade in services, whether directly or by affiliates, including related information necessary for assessing the impact of such investment and trade,” for “international investment”, and “international investment and trade in services” for “international investment”.
+Subsec. (b). Pub. L. 98–573, §306(b)(2)(B), substituted "international investment and United States foreign trade in services, whether directly or by affiliates, including related information necessary for assessing the impact of such investment and trade," for "international investment", and "international investment and trade in services" for "international investment".
 
 Subsec. (c). Pub. L. 98–573, §306(b)(2)(C), inserted reference to trade in services.
 
 #### Short Title
 
-Pub. L. 94–472, §1, Oct. 11, 1976, 90 Stat. 2059, as amended by Pub. L. 98–573, title III, §306(b)(1), Oct. 30, 1984, 98 Stat. 3009, provided that: “This Act \[enacting this chapter\] may be cited as the ‘International Investment and Trade in Services Survey Act’.”
+Pub. L. 94–472, §1, Oct. 11, 1976, 90 Stat. 2059, as amended by Pub. L. 98–573, title III, §306(b)(1), Oct. 30, 1984, 98 Stat. 3009, provided that: "This Act \[enacting this chapter\] may be cited as the 'International Investment and Trade in Services Survey Act'."
 
 #### Ex. Ord. No. 11961. International Investment and Trade in Services
 

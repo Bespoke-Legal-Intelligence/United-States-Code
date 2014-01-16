@@ -64,11 +64,11 @@ Aug. 24, 1954, ch. 911, §§9, 10, 12, 68 Stat. 799.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b)(1), the words “directly or indirectly” are omitted as unnecessary.
+In subsection (b)(1), the words "directly or indirectly" are omitted as unnecessary.
 
-In subsection (c), the word “income” is substituted for “net earnings” for consistency in the revised title.
+In subsection (c), the word "income" is substituted for "net earnings" for consistency in the revised title.
 
-In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection.
+In subsection (d), the words "or advance" are added in 2 places for consistency in the subsection.
 

@@ -52,7 +52,7 @@ Each Institute may cooperate with—
 
 &emsp;(1) researchers and cooperative extension programs at colleges, community colleges, and universities in the States of Arizona, New Mexico, and Colorado that have a demonstrated capability to conduct research described in subsection (c); and
 
-&emsp;(2) other organizations and entities in the interior West (such as the Western Governors’ Association).
+&emsp;(2) other organizations and entities in the interior West (such as the Western Governors' Association).
 
 #### (f) Annual work plans
 

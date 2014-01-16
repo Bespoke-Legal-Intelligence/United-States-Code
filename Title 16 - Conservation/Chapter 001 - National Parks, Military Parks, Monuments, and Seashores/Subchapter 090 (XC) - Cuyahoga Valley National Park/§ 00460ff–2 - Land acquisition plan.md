@@ -12,17 +12,17 @@ Within one year after December 27, 1974, the Secretary shall submit, in writing,
 
 #### (b) Congressional intent for land acquisition completion
 
-It is the express intent of the Congress that the Secretary should substantially complete the land acquisition program contemplated by this subchapter within six years after December 27, 1974.
+It is the express intent of the Congress that the Secretary should substantially complete theland acquisition program contemplated by this subchapter within six years after December 27, 1974.
 
 (Pub. L. 93–555, §3, Dec. 27, 1974, 88 Stat. 1786; Pub. L. 106–291, title I, §149(c)(2), Oct. 11, 2000, 114 Stat. 956.)
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(i), (ii). Pub. L. 106–291 substituted “park” for “recreation area”.
+<b>2000</b>—Subsec. (a)(i), (ii). Pub. L. 106–291 substituted "park" for "recreation area".
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

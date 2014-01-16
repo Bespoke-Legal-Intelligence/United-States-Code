@@ -6,11 +6,11 @@ In order to assist in increasing the effectiveness and efficiency of administrat
 
 #### (b) Allocation for carrying out direct grant programs
 
-Such portion of the sums appropriated pursuant to subsection (a) of this section for any fiscal year as the Secretary may determine, but not in excess of $1,000,000 in the case of the fiscal year ending June 30, 1963, and $2,000,000 in the case of any fiscal year thereafter, shall be available for carrying out subsection (f) of this section. From the remainder of the sums so appropriated for any fiscal year, the Secretary shall make allotments to the States on the basis of (1)population, (2) relative need for trained public welfare personnel, particularly for personnel to provide self-support and self-care services, and (3) financial need.
+Such portion of the sums appropriated pursuant to subsection (a) of this section for any fiscal year as the Secretary may determine, but not in excess of $1,000,000 in the case of the fiscal year ending June 30, 1963, and $2,000,000 in the case of any fiscal year thereafter, shall be available for carrying out subsection (f) of this section. From the remainder of the sums so appropriated for any fiscal year, the Secretary shall make allotments to the States on the basis of (1) population, (2) relative need for trained public welfare personnel, particularly for personnel to provide self-support and self-care services, and (3) financial need.
 
 #### (c) Payments to States for cost of grant programs to certain agencies and institutions
 
-From each State's allotment under subsection (b) of this section, the Secretary shall from time to time pay to such State its costs of carrying out the purposes of this section through (1) grants to public or other nonprofit institutions of higher learning for training personnel employed or preparing for employment in public assistance programs, (2) special courses of study or seminars of short duration conducted for such personnel by experts hired on a temporary basis for the purpose, and (3) establishing and maintaining, directly or through grants to such institutions, fellowships or traineeships for such personnel at such institutions, with such stipends and allowances as may be permitted under regulations of the Secretary.
+From each State's allotment under subsection (b) of this section, the Secretary shall from time to time pay to such State its costs of carrying out the purposes of this section through (1) grants to public or other nonprofit institutions of higher learning for training personnel employed or preparing for employment in public assistance programs, (2) special courses of study or seminars of short duration conducted for such personnel by experts hired on a temporary basis for the purpose, and (3) establishing and maintaining, directly or through grants to such institutions, fellowships or traineeships for such personnel at such institutions, with such stipendsand allowances as may be permitted under regulations of the Secretary.
 
 #### (d) Advance payments to States
 
@@ -32,19 +32,19 @@ The amount of any allotment to a State under subsection (b) of this section for 
 
 #### Amendments
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–543, §123(a), substituted “for the fiscal year ending June 30, 1963, the sum of $3,500,000, and for each fiscal year thereafter the sum of $5,000,000” for “for the fiscal year ending June 30, 1958, the sum of $5,000,000, and for each of the five succeeding fiscal years such sums as the Congress may determine”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–543, §123(a), substituted "for the fiscal year ending June 30, 1963, the sum of $3,500,000, and for each fiscal year thereafter the sum of $5,000,000" for "for the fiscal year ending June 30, 1958, the sum of $5,000,000, and for each of the five succeeding fiscal years such sums as the Congress may determine".
 
 Subsec. (b). Pub. L. 87–543, §123(b), required appropriated moneys to be made available for carrying out subsec. (f) of this section.
 
 Subsec. (f). Pub. L. 87–543, §123(c), added subsec. (f).
 
-<b>1961</b>—Subsec. (a). Pub. L. 87–31, §3(a), substituted “five” for “four”.
+<b>1961</b>—Subsec. (a). Pub. L. 87–31, §3(a), substituted "five" for "four".
 
-Subsec. (c). Pub. L. 87–31, §3(b), substituted “its costs of carrying out the purposes of this section” for “80 per centum of the total of its expenditures in carrying out the purposes of this section”.
+Subsec. (c). Pub. L. 87–31, §3(b), substituted "its costs of carrying out the purposes of this section" for "80 per centum of the total of its expenditures in carrying out the purposes of this section".
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–543, title II, §202(b), July 25, 1962, 76 Stat. 208, provided that: “The amendments made by sections 102(c), 123, and 132(d) \[enacting section 727 of this title, amending this section and sections 722 and 726 of this title, and repealing credits to section 1308 of this title and provisions set out as notes under section 1308 of this title\] shall be applicable in the case of fiscal years beginning after June 30, 1962.”
+Pub. L. 87–543, title II, §202(b), July 25, 1962, 76 Stat. 208, provided that: "The amendments made by sections 102(c), 123, and 132(d) \[enacting section 727 of this title, amending this section and sections 722 and 726 of this title, and repealing credits to section 1308 of this title and provisions set out as notes under section 1308 of this title\] shall be applicable in the case of fiscal years beginning after June 30, 1962."
 
 #### Effective Date of 1961 Amendment
 

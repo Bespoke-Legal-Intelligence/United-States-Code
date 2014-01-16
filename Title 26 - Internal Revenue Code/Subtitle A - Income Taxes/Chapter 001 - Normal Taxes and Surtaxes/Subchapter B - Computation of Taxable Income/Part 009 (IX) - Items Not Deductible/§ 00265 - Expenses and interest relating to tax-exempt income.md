@@ -26,7 +26,7 @@ No deduction shall be allowed for—
 
 #### (A) In general
 
-&emsp;&emsp;The term “interest” includes any amount paid or incurred—
+&emsp;&emsp;The term "interest" includes any amount paid or incurred—
 
 &emsp;&emsp;&emsp;(i) by any person making a short sale in connection with personal property used in such short sale, or
 
@@ -74,7 +74,7 @@ No deduction shall be allowed for—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A), the term “qualified tax-exempt obligation” means a tax-exempt obligation—
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), the term "qualified tax-exempt obligation" means a tax-exempt obligation—
 
 &emsp;&emsp;&emsp;&emsp;(I) which is issued after August 7, 1986, by a qualified small issuer,
 
@@ -94,7 +94,7 @@ No deduction shall be allowed for—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (B), the term “qualified small issuer” means, with respect to obligations issued during any calendar year, any issuer if the reasonably anticipated amount of tax-exempt obligations (other than obligations described in clause (ii)) which will be issued by such issuer during such calendar year does not exceed $10,000,000.
+&emsp;&emsp;&emsp;For purposes of subparagraph (B), the term "qualified small issuer" means, with respect to obligations issued during any calendar year, any issuer if the reasonably anticipated amount of tax-exempt obligations (other than obligations described in clause (ii)) which will be issued by such issuer during such calendar year does not exceed $10,000,000.
 
 #### (ii) Obligations not taken into account in determining status as qualified small issuer
 
@@ -164,7 +164,7 @@ No deduction shall be allowed for—
 
 #### (i) Increase in limitation
 
-&emsp;&emsp;&emsp;In the case of obligations issued during 2009 or 2010, subparagraphs (C)(i), (D)(i), and (D)(iii)(II) shall each be applied by substituting “$30,000,000” for “$10,000,000”.
+&emsp;&emsp;&emsp;In the case of obligations issued during 2009 or 2010, subparagraphs (C)(i), (D)(i), and (D)(iii)(II) shall each be applied by substituting "$30,000,000" for "$10,000,000".
 
 #### (ii) Qualified 501(c)(3) bonds treated as issued by exempt organization
 
@@ -180,15 +180,15 @@ No deduction shall be allowed for—
 
 #### (iv) Qualified financing issue
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified financing issue” means any composite, pooled, or other conduit financing issue the proceeds of which are used directly or indirectly to make or finance loans to 1 or more ultimate borrowers each of whom is a qualified borrower.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified financing issue" means any composite, pooled, or other conduit financing issue the proceeds of which are used directly or indirectly to make or finance loans to 1 or more ultimate borrowers each of whom is a qualified borrower.
 
 #### (v) Qualified portion
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified portion” means that portion of the proceeds which are used with respect to each qualified borrower under the issue.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified portion" means that portion of the proceeds which are used with respect to each qualified borrower under the issue.
 
 #### (vi) Qualified borrower
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified borrower” means a borrower which is a State or political subdivision thereof or an organization described in section 501(c)(3) and exempt from taxation under section 501(a).
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified borrower" means a borrower which is a State or political subdivision thereof or an organization described in section 501(c)(3) and exempt from taxation under section 501(a).
 
 #### (4) Definitions
 
@@ -196,15 +196,15 @@ No deduction shall be allowed for—
 
 #### (A) Interest expense
 
-&emsp;&emsp;The term “interest expense” means the aggregate amount allowable to the taxpayer as a deduction for interest for the taxable year (determined without regard to this subsection, section 264, and section 291). For purposes of the preceding sentence, the term “interest” includes amounts (whether or not designated as interest) paid in respect of deposits, investment certificates, or withdrawable or repurchasable shares.
+&emsp;&emsp;The term "interest expense" means the aggregate amount allowable to the taxpayer as a deduction for interest for the taxable year (determined without regard to this subsection, section 264, and section 291). For purposes of the preceding sentence, the term "interest" includes amounts (whether or not designated as interest) paid in respect of deposits, investment certificates, or withdrawable or repurchasable shares.
 
 #### (B) Tax-exempt obligation
 
-&emsp;&emsp;The term “tax-exempt obligation” means any obligation the interest on which is wholly exempt from taxes imposed by this subtitle. Such term includes shares of stock of a regulated investment company which during the taxable year of the holder thereof distributes exempt-interest dividends.
+&emsp;&emsp;The term "tax-exempt obligation" means any obligation the interest on which is wholly exempt from taxes imposed by this subtitle. Such term includes shares of stock of a regulated investment company which during the taxable year of the holder thereof distributes exempt-interest dividends.
 
 #### (5) Financial institution
 
-&emsp;For purposes of this subsection, the term “financial institution” means any person who—
+&emsp;For purposes of this subsection, the term "financial institution" means any person who—
 
 &emsp;&emsp;(A) accepts deposits from the public in the ordinary course of such person's trade or business, and is subject to Federal or State supervision as a financial institution, or
 
@@ -256,15 +256,15 @@ Another section 1084(c) of Pub. L. 105–34 amended section 264 of this title.
 
 Subsec. (b)(7). Pub. L. 111–5, §1501(a), added par. (7).
 
-<b>1997</b>—Subsec. (b)(4)(A). Pub. L. 105–34 inserted “, section 264,” before “and section 291”.
+<b>1997</b>—Subsec. (b)(4)(A). Pub. L. 105–34 inserted ", section 264," before "and section 291".
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–508, §11801(c)(4), struck out before period at end “, or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–508, §11801(c)(4), struck out before period at end ", or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128".
 
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–647 amended par. (3) generally, reenacting subpar. (A) without change, revising and restating provisions of subpars. (B) to (E), and adding subpar. (F).
 
 <b>1986</b>—Pub. L. 99–514, §902(a), (d), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Par. (2). Pub. L. 99–514, §902(b), struck out last sentence which read as follows: “In applying the preceding sentence to a financial institution (other than a bank) which is a face-amount certificate company registered under the Investment Company Act of 1940 (15 U.S.C. 80a–1 and following) and which is subject to the banking laws of the State in which such institution is incorporated, interest on face-amount certificates (as defined in section 2(a)(15) of such Act) issued by such institution, and interest on amounts received for the purchase of such certificates to be issued by such institution, shall not be considered as interest on indebtedness incurred or continued to purchase or carry obligations the interest on which is wholly exempt from the taxes imposed by this subtitle, to the extent that the average amount of such obligations held by such institution during the taxable year (as determined under regulations prescribed by the Secretary) does not exceed 15 percent of the average of the total assets held by such institution during the taxable year (as so determined).”
+Par. (2). Pub. L. 99–514, §902(b), struck out last sentence which read as follows: "In applying the preceding sentence to a financial institution (other than a bank) which is a face-amount certificate company registered under the Investment Company Act of 1940 (15 U.S.C. 80a–1 and following) and which is subject to the banking laws of the State in which such institution is incorporated, interest on face-amount certificates (as defined in section 2(a)(15) of such Act) issued by such institution, and interest on amounts received for the purchase of such certificates to be issued by such institution, shall not be considered as interest on indebtedness incurred or continued to purchase or carry obligations the interest on which is wholly exempt from the taxes imposed by this subtitle, to the extent that the average amount of such obligations held by such institution during the taxable year (as determined under regulations prescribed by the Secretary) does not exceed 15 percent of the average of the total assets held by such institution during the taxable year (as so determined)."
 
 Par. (6). Pub. L. 99–514, §144, added par. (6).
 
@@ -272,13 +272,13 @@ Par. (6). Pub. L. 99–514, §144, added par. (6).
 
 Par. (5). Pub. L. 98–369, §56(c), added par. (5).
 
-<b>1981</b>—Par. (2). Pub. L. 97–34, §302(c)(2), (d)(1), provided that, applicable to taxable years beginning after Dec. 31, 1984, par. (2) is amended by striking out “or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128” and inserting in lieu thereof “or to purchase or carry obligations or shares, or to make other deposits or investments, the interest on which is described in section 128(c)(1) to the extent such interest is excludable from gross income under section 128”. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by such section 302(c), had not been enacted.
+<b>1981</b>—Par. (2). Pub. L. 97–34, §302(c)(2), (d)(1), provided that, applicable to taxable years beginning after Dec. 31, 1984, par. (2) is amended by striking out "or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128" and inserting in lieu thereof "or to purchase or carry obligations or shares, or to make other deposits or investments, the interest on which is described in section 128(c)(1) to the extent such interest is excludable from gross income under section 128". Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by such section 302(c), had not been enacted.
 
-Pub. L. 97–34, §301(b)(2), inserted “, or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128” after “116”.
+Pub. L. 97–34, §301(b)(2), inserted ", or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128" after "116".
 
-<b>1980</b>—Par. (2). Pub. L. 96–223 inserted “, or to purchase or carry obligations or shares, or to make deposits or other investments, the interest on which is described in section 116(c) to the extent such interest is excludable from gross income under section 116” after “subtitle”.
+<b>1980</b>—Par. (2). Pub. L. 96–223 inserted ", or to purchase or carry obligations or shares, or to make deposits or other investments, the interest on which is described in section 116(c) to the extent such interest is excludable from gross income under section 116" after "subtitle".
 
-<b>1976</b>—Par. (2). Pub. L. 94–455, §§1901(a)(37), 1906(b)(13)(A), struck out “(other than obligations of the United States issued after September 24, 1917, and originally subscribed for by the taxpayer)” after “to purchase or carry obligations” and “or his delegate” after “Secretary”.
+<b>1976</b>—Par. (2). Pub. L. 94–455, §§1901(a)(37), 1906(b)(13)(A), struck out "(other than obligations of the United States issued after September 24, 1917, and originally subscribed for by the taxpayer)" after "to purchase or carry obligations" and "or his delegate" after "Secretary".
 
 Pars. (3), (4). Pub. L. 94–455, §2137(e), added pars. (3) and (4).
 
@@ -286,9 +286,9 @@ Pars. (3), (4). Pub. L. 94–455, §2137(e), added pars. (3) and (4).
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–5, div. B, title I, §1501(c), Feb. 17, 2009, 123 Stat. 353, provided that: “The amendments made by this section \[amending this section and section 291 of this title\] shall apply to obligations issued after December 31, 2008.”
+Pub. L. 111–5, div. B, title I, §1501(c), Feb. 17, 2009, 123 Stat. 353, provided that: "The amendments made by this section \[amending this section and section 291 of this title\] shall apply to obligations issued after December 31, 2008."
 
-Pub. L. 111–5, div. B, title I, §1502(b), Feb. 17, 2009, 123 Stat. 354, provided that: “The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2008.”
+Pub. L. 111–5, div. B, title I, §1502(b), Feb. 17, 2009, 123 Stat. 354, provided that: "The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2008."
 
 #### Effective Date of 1997 Amendment
 
@@ -298,27 +298,27 @@ Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997,
 
 Pub. L. 100–647, title I, §1009(b)(3)(B)–(D), Nov. 10, 1988, 102 Stat. 3448, 3449, as amended by Pub. L. 101–239, title VII, §7811(f)(2), Dec. 19, 1989, 103 Stat. 2409, provided that:
 
-“(B) In the case of any obligation issued after August 7, 1986, and before January 1, 1987, the time for making a designation with respect to such obligation under section 265(b)(3)(B)(i)(III) of the 1986 Code shall not expire before January 1, 1989.
+"(B) In the case of any obligation issued after August 7, 1986, and before January 1, 1987, the time for making a designation with respect to such obligation under section 265(b)(3)(B)(i)(III) of the 1986 Code shall not expire before January 1, 1989.
 
-“(C) If—
+"(C) If—
 
-&emsp;“(i) an obligation is issued on or after January 1, 1986, and on or before August 7, 1986,
+&emsp;"(i) an obligation is issued on or after January 1, 1986, and on or before August 7, 1986,
 
-&emsp;“(ii) when such obligation was issued, the issuer made a designation that it intended to qualify under section 802(e)(3) of H.R. 3838 of the 99th Congress as passed by the House of Representatives \[H.R. 3838 was enacted as Pub. L. 99–514\], and
+&emsp;"(ii) when such obligation was issued, the issuer made a designation that it intended to qualify under section 802(e)(3) of H.R. 3838 of the 99th Congress as passed by the House of Representatives \[H.R. 3838 was enacted as Pub. L. 99–514\], and
 
-&emsp;“(iii) the issuer makes an election under this subparagraph with respect to such obligation,
+&emsp;"(iii) the issuer makes an election under this subparagraph with respect to such obligation,
 
 > for purposes of section 265(b)(3) of the 1986 Code, such obligation shall be treated as issued on August 8, 1986.
 
-“(D)(i) Except as provided in clause (ii), the following provisions of section 265(b)(3) of the 1986 Code (as amended by this subparagraph (A)) shall apply to obligations issued after June 30, 1987:
+"(D)(i) Except as provided in clause (ii), the following provisions of section 265(b)(3) of the 1986 Code (as amended by this subparagraph (A)) shall apply to obligations issued after June 30, 1987:
 
-&emsp;“(I) subparagraph (C)(ii)(III),
+&emsp;"(I) subparagraph (C)(ii)(III),
 
-&emsp;“(II) clauses (ii) and (iii) of subparagraph (D), and
+&emsp;"(II) clauses (ii) and (iii) of subparagraph (D), and
 
-&emsp;“(III) subparagraphs (E) and (F).
+&emsp;"(III) subparagraphs (E) and (F).
 
-“(ii) At the election of an issuer (made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe), the provisions referred to in clause (i) shall apply to such issuer as if included in the amendments made by section 902(a) of the Tax Reform Act of 1986 \[section 902(a) of Pub. L. 99–514, amending this section\].”
+"(ii) At the election of an issuer (made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe), the provisions referred to in clause (i) shall apply to such issuer as if included in the amendments made by section 902(a) of the Tax Reform Act of 1986 \[section 902(a) of Pub. L. 99–514, amending this section\]."
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -328,71 +328,71 @@ Amendment by section 144 of Pub. L. 99–514 applicable to taxable years beginni
 
 Pub. L. 99–514, title IX, §902(f), Oct. 22, 1986, 100 Stat. 2382, as amended by Pub. L. 100–647, title I, §1009(b)(1), (2), (7), Nov. 10, 1988, 102 Stat. 3445, 3446, 3449, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in this subsection, the amendments made by this section \[amending this section and sections 163, 291, and 1277 of this title\] shall apply to taxable years ending after December 31, 1986.
 
-“(2)
+"(2)
 
 Obligations acquired pursuant to certain commitments.—For purposes of sections 265(b) and 291(e)(1)(B) of the Internal Revenue Code of 1986, any tax-exempt obligation which is acquired after August 7, 1986, pursuant to a direct or indirect written commitment—
 
-&emsp;“(A) to purchase or repurchase such obligation, and
+&emsp;"(A) to purchase or repurchase such obligation, and
 
-&emsp;“(B) entered into on or before September 25, 1985,
+&emsp;"(B) entered into on or before September 25, 1985,
 
 > shall be treated as an obligation acquired before August 8, 1986.
 
-“(3)
+"(3)
 
 Transitional rules.—For purposes of sections 265(b) and 291(e)(1)(B) of the Internal Revenue Code of 1986, obligations with respect to any of the following projects shall be treated as obligations acquired before August 8, 1986, in the hands of the first and any subsequent financial institution acquiring such obligations:
 
-&emsp;“(A) Park Forest, Illinois, redevelopment project.
+&emsp;"(A) Park Forest, Illinois, redevelopment project.
 
-&emsp;“(B) Clinton, Tennessee, Carriage Trace project.
+&emsp;"(B) Clinton, Tennessee, Carriage Trace project.
 
-&emsp;“(C) Savannah, Georgia, Mall Terrace Warehouse project.
+&emsp;"(C) Savannah, Georgia, Mall Terrace Warehouse project.
 
-&emsp;“(D) Chattanooga, Tennessee, Warehouse Row project.
+&emsp;"(D) Chattanooga, Tennessee, Warehouse Row project.
 
-&emsp;“(E) Dalton, Georgia, Towne Square project.
+&emsp;"(E) Dalton, Georgia, Towne Square project.
 
-&emsp;“(F) Milwaukee, Wisconsin, Standard Electric Supply Company—distribution facility.
+&emsp;"(F) Milwaukee, Wisconsin, Standard Electric Supply Company—distribution facility.
 
-&emsp;“(G) Wausau, Wisconsin, urban renewal project.
+&emsp;"(G) Wausau, Wisconsin, urban renewal project.
 
-&emsp;“(H) Cassville, Missouri, UDAG project.
+&emsp;"(H) Cassville, Missouri, UDAG project.
 
-&emsp;“(I) Outlook Envelope Company—plant expansion.
+&emsp;"(I) Outlook Envelope Company—plant expansion.
 
-&emsp;“(J) Woodstock, Connecticut, Crabtree Warehouse partnership.
+&emsp;"(J) Woodstock, Connecticut, Crabtree Warehouse partnership.
 
-&emsp;“(K) Louisville, Kentucky, Speed Mansion renovation project.
+&emsp;"(K) Louisville, Kentucky, Speed Mansion renovation project.
 
-&emsp;“(L) Charleston, South Carolina, 2 Festival Market Place projects at Union Pier Terminal and 1 project at the Remount Road Container Yard, State Pier No. 15 at North Charleston Terminal.
+&emsp;"(L) Charleston, South Carolina, 2 Festival Market Place projects at Union Pier Terminal and 1 project at the Remount Road Container Yard, State Pier No. 15 at North Charleston Terminal.
 
-&emsp;“(M) New Orleans, Louisiana, Upper Pontalba Building renovation.
+&emsp;"(M) New Orleans, Louisiana, Upper Pontalba Building renovation.
 
-&emsp;“(N) Woodward Wight Building.
+&emsp;"(N) Woodward Wight Building.
 
-&emsp;“(O) Minneapolis, Minnesota, Miller Milling Company—flour mill project.
+&emsp;"(O) Minneapolis, Minnesota, Miller Milling Company—flour mill project.
 
-&emsp;“(P) Homewood, Alabama, the Club Apartments.
+&emsp;"(P) Homewood, Alabama, the Club Apartments.
 
-&emsp;“(Q) Charlotte, North Carolina—qualified mortgage bonds acquired by NCNB bank ($5,250,000).
+&emsp;"(Q) Charlotte, North Carolina—qualified mortgage bonds acquired by NCNB bank ($5,250,000).
 
-&emsp;“(R) Grand Rapids, Michigan, Central Bank project.
+&emsp;"(R) Grand Rapids, Michigan, Central Bank project.
 
-&emsp;“(S) Ruppman Marketing Services, Inc.—building project.
+&emsp;"(S) Ruppman Marketing Services, Inc.—building project.
 
-&emsp;“(T) Bellows Falls, Vermont—building project.
+&emsp;"(T) Bellows Falls, Vermont—building project.
 
-&emsp;“(U) East Broadway Project, Louisville, Kentucky.
+&emsp;"(U) East Broadway Project, Louisville, Kentucky.
 
-&emsp;“(V) O.K. Industries, Oklahoma.
+&emsp;"(V) O.K. Industries, Oklahoma.
 
-“(4)
+"(4)
 
-Additional transitional rule.—Obligations issued pursuant to an allocation of a State's volume limitation for private activity bonds, which allocation was made by Executive Order 25 signed by the Governor of the State on May 22, 1986 (as such order may be amended before January 1, 1987), and qualified 501(c)(3) bonds designated by such Governor for purposes of this paragraph, shall be treated as acquired on or before August 7, 1986, in the hands of the first and any subsequent financial institution acquiring such obligation. The aggregate face amount of obligations to which this paragraph applies shall not exceed $200,000,000.”
+Additional transitional rule.—Obligations issued pursuant to an allocation of a State's volume limitation for private activity bonds, which allocation was made by Executive Order 25 signed by the Governor of the State on May 22, 1986 (as such order may be amended before January 1, 1987), and qualified 501(c)(3) bonds designated by such Governor for purposes of this paragraph, shall be treated as acquired on or before August 7, 1986, in the hands of the first and any subsequent financial institution acquiring such obligation. The aggregate face amount of obligations to which this paragraph applies shall not exceed $200,000,000."
 
 #### Effective Date of 1984 Amendment
 
@@ -404,17 +404,17 @@ Amendment by section 56(c) of Pub. L. 98–369 applicable to short sales after J
 
 Pub. L. 97–34, title III, §301(d), Aug. 13, 1981, 95 Stat. 270, provided that:
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 128 of this title and amending this section and sections 584, 643, and 702 of this title\] shall apply to taxable years ending after September 30, 1981.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Conforming amendments.—The amendments made by subsection (b)(6) \[amending sections 584, 643, and 702 of this title\] shall apply to taxable years beginning after December 31, 1981.”
+Conforming amendments.—The amendments made by subsection (b)(6) \[amending sections 584, 643, and 702 of this title\] shall apply to taxable years beginning after December 31, 1981."
 
 #### Effective and Termination Dates of 1980 Amendment
 
-Pub. L. 96–223, title IV, §404(c), Apr. 2, 1980, 94 Stat. 308, as amended by Pub. L. 97–34, title III, §302(b)(1), Aug. 13, 1981, 95 Stat. 272, provided that: “The amendments made by this section \[amending this section and sections 116, 584, 643, 702, 854, and 857 of this title\] shall apply with respect to taxable years beginning after December 31, 1980, and before January 1, 1982.”
+Pub. L. 96–223, title IV, §404(c), Apr. 2, 1980, 94 Stat. 308, as amended by Pub. L. 97–34, title III, §302(b)(1), Aug. 13, 1981, 95 Stat. 272, provided that: "The amendments made by this section \[amending this section and sections 116, 584, 643, 702, 854, and 857 of this title\] shall apply with respect to taxable years beginning after December 31, 1980, and before January 1, 1982."
 
 #### Effective Date of 1976 Amendment
 
@@ -424,7 +424,7 @@ Amendment by section 2137(e) of Pub. L. 94–455 effective for taxable years beg
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–272, title II, §216(b), Feb. 26, 1964, 78 Stat. 56, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Feb. 21, 1964\].”
+Pub. L. 88–272, title II, §216(b), Feb. 26, 1964, 78 Stat. 56, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Feb. 21, 1964\]."
 
 #### Savings Provision
 

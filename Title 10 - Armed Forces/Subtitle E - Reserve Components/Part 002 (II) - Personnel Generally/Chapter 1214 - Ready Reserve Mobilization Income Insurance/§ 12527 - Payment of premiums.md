@@ -8,7 +8,7 @@ Methods of Payment.—(1) The monthly premium for coverage of a member of the Se
 
 (b)
 
-Advance Pay for Premium.—The Secretary concerned may advance to an insured member the amount equal to the first insurance premium payment due under this chapter. The advance may be paid out of appropriations for military pay. An advance to a member shall becollected from the member either by deducting and withholding the amount from basic pay payable for the member or by collecting it from the member directly. No disbursing or certifying officer shall be responsible for any loss resulting from an advance under this subsection.
+Advance Pay for Premium.—The Secretary concerned may advance to an insured member the amount equal to the first insurance premium payment due under this chapter. The advance may be paid out of appropriations for military pay. An advance to a member shall be collected from the member either by deducting and withholding the amount from basic pay payable for the member or by collecting it from the member directly. No disbursing or certifying officer shall be responsible for any loss resulting from an advance under this subsection.
 
 (c)
 
@@ -18,11 +18,11 @@ Premiums To Be Deposited in Fund.—Premium amounts deducted and withheld from t
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–201, §547(1), inserted “of the Selected Reserve” after “a member”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–201, §547(1), inserted "of the Selected Reserve" after "a member".
 
-Subsec. (a)(2). Pub. L. 104–201, §547(2), added par. (2) and struck out former par. (2) which read as follows: “An insured member who does not receive pay on a monthly basis shall pay the Secretary directly the premium amount applicable for the level of benefits for which the member is insured.”
+Subsec. (a)(2). Pub. L. 104–201, §547(2), added par. (2) and struck out former par. (2) which read as follows: "An insured member who does not receive pay on a monthly basis shall pay the Secretary directly the premium amount applicable for the level of benefits for which the member is insured."
 
 #### Effective Date of 2002 Amendment
 

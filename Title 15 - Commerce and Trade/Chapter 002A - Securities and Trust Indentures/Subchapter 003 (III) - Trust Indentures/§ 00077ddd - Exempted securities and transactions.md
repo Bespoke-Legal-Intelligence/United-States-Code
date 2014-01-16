@@ -60,31 +60,31 @@ The Small Business Investment Act of 1958, referred to in subsec. (e), is Pub. L
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted “section 2(a) of such Act” for “section 2 of such Act”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted "section 2(a) of such Act" for "section 2 of such Act".
 
-<b>1998</b>—Subsec. (a)(4)(A). Pub. L. 105–353 substituted “(13) of section” for “(14) of subsection”.
+<b>1998</b>—Subsec. (a)(4)(A). Pub. L. 105–353 substituted "(13) of section" for "(14) of subsection".
 
-<b>1996</b>—Subsec. (a)(4)(A). Pub. L. 104–290 substituted “(11), or (14)” for “or (11)”.
+<b>1996</b>—Subsec. (a)(4)(A). Pub. L. 104–290 substituted "(11), or (14)" for "or (11)".
 
-<b>1990</b>—Subsec. (a)(3). Pub. L. 101–550, §403(1)(A), struck out par. (3) which read as follows: “any security which, prior to or within six months after August 3, 1939, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer subsequent to such six months;”.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–550, §403(1)(A), struck out par. (3) which read as follows: "any security which, prior to or within six months after August 3, 1939, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer subsequent to such six months;".
 
-Subsec. (a)(4)(A). Pub. L. 101–550, §403(1)(B), struck out “, as heretofore amended,” after “1933”.
+Subsec. (a)(4)(A). Pub. L. 101–550, §403(1)(B), struck out ", as heretofore amended," after "1933".
 
-Subsec. (d). Pub. L. 101–550, §403(2), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Commission may, on application by the issuer and after opportunity for hearing thereon, by order exempt from any one or more of the provisions of this subchapter any security issued or proposed to be issued by a person organized and existing under the laws of a foreign government or a political subdivision thereof, if and to the extent that the Commission finds that compliance with such provision or provisions is not necessary in the public interest and for the protection of investors.”
+Subsec. (d). Pub. L. 101–550, §403(2), added subsec. (d) and struck out former subsec. (d) which read as follows: "The Commission may, on application by the issuer and after opportunity for hearing thereon, by order exempt from any one or more of the provisions of this subchapter any security issued or proposed to be issued by a person organized and existing under the laws of a foreign government or a political subdivision thereof, if and to the extent that the Commission finds that compliance with such provision or provisions is not necessary in the public interest and for the protection of investors."
 
-<b>1980</b>—Subsec. (a)(8). Pub. L. 96–477, §302(a), substituted “an aggregate principal amount of securitiesof the same issuer greater than the figure stated in section 3(b) of the Securities Act of 1933 limiting exemptions thereunder, or such lesser amount as the Commission may establish by its rules and regulations” for “more than $250,000 aggregate principal amount of any securities of the same issuer”.
+<b>1980</b>—Subsec. (a)(8). Pub. L. 96–477, §302(a), substituted "an aggregate principal amount of securities of the same issuer greater than the figure stated in section 3(b) of the Securities Act of 1933 limiting exemptions thereunder, or such lesser amount as the Commission may establish by its rules and regulations" for "more than $250,000 aggregate principal amount of any securities of the same issuer".
 
-Subsec. (a)(9). Pub. L. 96–477, §302(b), substituted “$10,000,000, or such lesser amount as the Commission may establish by its rules and regulations” for “$1,000,000 or less”, “more than $10,000,000” for “more than $1,000,000”, and inserted “, or such lesser amount as the Commission may establish by its rules and regulations” after “same issuer”.
+Subsec. (a)(9). Pub. L. 96–477, §302(b), substituted "$10,000,000, or such lesser amount as the Commission may establish by its rules and regulations" for "$1,000,000 or less", "more than $10,000,000" for "more than $1,000,000", and inserted ", or such lesser amount as the Commission may establish by its rules and regulations" after "same issuer".
 
 <b>1970</b>—Subsec. (a)(4). Pub. L. 91–567 designated existing provisions as cl. (A) and added cl. (B).
 
 <b>1966</b>—Subsec. (a)(10). Pub. L. 89–754 added par. (10).
 
-<b>1960</b>—Subsec. (c). Pub. L. 86–760 inserted “or on January 1, 1959, such securities were outstanding”.
+<b>1960</b>—Subsec. (c). Pub. L. 86–760 inserted "or on January 1, 1959, such securities were outstanding".
 
 <b>1958</b>—Subsec. (e). Pub. L. 85–699 added subsec. (e).
 
-<b>1954</b>—Subsec. (b). Act Aug. 10, 1954, struck out “as heretofore amended,”.
+<b>1954</b>—Subsec. (b). Act Aug. 10, 1954, struck out "as heretofore amended,".
 
 #### Effective Date of 2010 Amendment
 

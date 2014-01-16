@@ -2,7 +2,7 @@
 
 #### (a) Definition
 
-For purposes of this section, the term “hydrographic product” means any publicly or commercially available product produced by a non-Federal entity that includes or displays hydrographic data.
+For purposes of this section, the term "hydrographic product" means any publicly or commercially available product produced by a non-Federal entity that includes or displays hydrographic data.
 
 #### (b) Program
 
@@ -28,7 +28,7 @@ The Government of the United States shall not be liable for any negligence by a 
 
 #### (1) Establishment
 
-&emsp;There is established in the Treasury a separate account, which shall be known as the “Hydrographic Services Account”.
+&emsp;There is established in the Treasury a separate account, which shall be known as the "Hydrographic Services Account".
 
 #### (2) Content
 
@@ -54,11 +54,11 @@ After November 13, 1998, the Administrator may not—
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(1). Pub. L. 107–372 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Administrator may—
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–372 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Administrator may—
 
-&emsp;“(A) develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title;
+&emsp;"(A) develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title;
 
-&emsp;“(B) authorize the use of the emblem or any trademark of the Administration on a hydrographic product certified under subparagraph (A); and
+&emsp;"(B) authorize the use of the emblem or any trademark of the Administration on a hydrographic product certified under subparagraph (A); and
 
-&emsp;“(C) charge a fee for such certification and use.”
+&emsp;"(C) charge a fee for such certification and use."
 

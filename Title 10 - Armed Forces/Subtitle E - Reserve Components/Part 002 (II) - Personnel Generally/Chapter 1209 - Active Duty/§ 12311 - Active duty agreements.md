@@ -4,7 +4,7 @@
 
 (b) An agreement may not be made under subsection (a) unless the specified period of duty is at least 12 months longer than any period of active duty that the member is otherwise required to perform.
 
-(c) Agreements made under subsection (a) shall be uniform so far as practicable, and are subject to such standards and policies as may be prescribed by the Secretary of Defense for the armed forces under his jurisdiction or by theSecretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+(c) Agreements made under subsection (a) shall be uniform so far as practicable, and are subject to such standards and policies as may be prescribed by the Secretary of Defense for the armed forces under his jurisdiction or by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
 (d) If an agreement made under subsection (a) expires during a war or during a national emergency declared by Congress or the President after January 1, 1953, the Reserve concerned may be kept on active duty, without his consent, as otherwise prescribed by law.
 
@@ -46,19 +46,19 @@ July 9, 1952, ch. 608, §§235 (less last sentence of (a), and less (b)), 236, 6
 
 50:964.
 
-In subsection (a), the words “To provide definite terms of active duty for” are substituted for the words “In order that \* \* \* may remain on or be ordered to active duty \* \* \* for terms of service of definite duration”. The words “with their consent” are substituted for the word “voluntarily”. The words “requiring the member to serve” are substituted for 50:963(c). The words “more than” are substituted for the words “to exceed”. The second sentence is substituted for 50:963(a) (2d sentence). The word “hereafter” is omitted as surplusage. 50:963(f) is omitted as executed. The words “under his jurisdiction” are inserted for clarity.
+In subsection (a), the words "To provide definite terms of active duty for" are substituted for the words "In order that \* \* \* may remain on or be ordered to active duty \* \* \* for terms of service of definite duration". The words "with their consent" are substituted for the word "voluntarily". The words "requiring the member to serve" are substituted for 50:963(c). The words "more than" are substituted for the words "to exceed". The second sentence is substituted for 50:963(a) (2d sentence). The word "hereafter" is omitted as surplusage. 50:963(f) is omitted as executed. The words "under his jurisdiction" are inserted for clarity.
 
-In subsection (b), the words “is at least \* \* \* longer” are substituted for the words “exceeds by at least”. The words “active duty that the member is otherwise required to perform” are substituted for the words “obligated or involuntary active duty to which he is otherwise liable”.
+In subsection (b), the words "is at least \* \* \* longer" are substituted for the words "exceeds by at least". The words "active duty that the member is otherwise required to perform" are substituted for the words "obligated or involuntary active duty to which he is otherwise liable".
 
-In subsection (c), the words “for the armed forces under his jurisdiction” are inserted for clarity.
+In subsection (c), the words "for the armed forces under his jurisdiction" are inserted for clarity.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted "Secretary of Homeland Security" for "Secretary of Transportation".
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 679 of this title as this section.
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted "Secretary of Transportation" for "Secretary of the Treasury".
 
 #### Effective Date of 2002 Amendment
 

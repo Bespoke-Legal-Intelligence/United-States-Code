@@ -12,7 +12,7 @@ Except as authorized under subsection (b) of this section, no consumer reporting
 
 (4) Accounts placed for collection or charged to profit and loss which antedate the report by more than seven years.
 
-(5) Any other adverse item of information, other than records of convictions of crimes which antedates the report by more than seven years.
+(5) Any other adverse item of information, other than records of convictions of crimeswhich antedates the report by more than seven years.
 
 (6) The name, address, and telephone number of any medical information furnisher that has notified the agency of its status, unless—
 
@@ -66,7 +66,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 #### (2) Limitation
 
-&emsp;This subsection shall apply only to receipts that are electronically printed, and shall not apply to transactions in which the sole meansof recording a credit card or debit card account number is by handwriting or by an imprint or copy of the card.
+&emsp;This subsection shall apply only to receipts that are electronically printed, and shall not apply to transactions in which the sole means of recording a credit card or debit card account number is by handwriting or by an imprint or copy of the card.
 
 #### (3) Effective date
 
@@ -80,7 +80,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 #### (1) In general
 
-&emsp;If a person has requested a consumer report relating to a consumer from a consumer reporting agency described in section 1681a(p) of this title, the request includes an address for the consumer that substantially differs from the addresses in the file of the consumer, and the agency provides a consumer report in response to the request, the consumer reporting agency shall notify the requester of the existence of the discrepancy.
+&emsp;If a person has requested a consumer report relating to a consumer from a consumer reporting agency described in section 1681a(p) ofthis title, the request includes an address for the consumer that substantially differs from the addresses in the file of the consumer, and the agency provides a consumer report in response to the request, the consumer reporting agency shall notify the requester of the existence of the discrepancy.
 
 #### (2) Regulations
 
@@ -104,17 +104,17 @@ The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541
 
 #### Amendments
 
-<b>2010</b>—Subsec. (h)(2)(A). Pub. L. 111–203, §1088(a)(5), substituted “, in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,” for “with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title”.
+<b>2010</b>—Subsec. (h)(2)(A). Pub. L. 111–203, §1088(a)(5), substituted ", in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission," for "with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title".
 
-Pub. L. 111–203, §1088(a)(2)(D), substituted “The Bureau shall” for “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly”.
+Pub. L. 111–203, §1088(a)(2)(D), substituted "The Bureau shall" for "The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly".
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–159, §811(c)(1), substituted “(1) Cases” for “(1) cases”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–159, §811(c)(1), substituted "(1) Cases" for "(1) cases".
 
 Subsec. (a)(2). Pub. L. 108–159, §811(c)(2)(A), made technical correction to directory language of Pub. L. 105–347, §5(1). See 1998 Amendment note below.
 
 Subsec. (a)(6). Pub. L. 108–159, §412(b), added par. (6).
 
-Subsec. (b). Pub. L. 108–159, §412(c), substituted “The provisions of paragraphs (1) through (5) of subsection (a)” for “The provisions of subsection (a)” in introductory provisions.
+Subsec. (b). Pub. L. 108–159, §412(c), substituted "The provisions of paragraphs (1) through (5) of subsection (a)" for "The provisions of subsection (a)" in introductory provisions.
 
 Subsec. (d). Pub. L. 108–159, §212(d), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -122,15 +122,15 @@ Subsec. (g). Pub. L. 108–159, §113, added subsec. (g).
 
 Subsec. (h). Pub. L. 108–159, §315, added subsec. (h).
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–347, §5(1), as amended by Pub. L. 108–159, §811(c)(2)(A), substituted “Civil suits, civil judgments, and records of arrest that” for “Suits and judgments which”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–347, §5(1), as amended by Pub. L. 108–159, §811(c)(2)(A), substituted "Civil suits, civil judgments, and records of arrest that" for "Suits and judgments which".
 
-Subsec. (a)(5), (6). Pub. L. 105–347, §5(2)–(4), redesignated par. (6) as (5), inserted “, other than records of convictions of crimes” after “of information”, and struck out former par. (5) which read as follows: “Records of arrest, indictment, or conviction of crime which, from date of disposition, release, or parole, antedate the report by more than seven years.”
+Subsec. (a)(5), (6). Pub. L. 105–347, §5(2)–(4), redesignated par. (6) as (5), inserted ", other than records of convictions of crimes" after "of information", and struck out former par. (5) which read as follows: "Records of arrest, indictment, or conviction of crime which, from date of disposition, release, or parole, antedate the report by more than seven years."
 
 <b>1996</b>—Pub. L. 104–208, §2406(e)(1), amended section catchline.
 
 Subsec. (a). Pub. L. 104–208, §2406(a)(1), inserted heading.
 
-Subsec. (b). Pub. L. 104–208, §2406(a)(2), substituted “$150,000” for “$50,000” in pars. (1) and (2) and “$75,000” for “$20,000” in par. (3).
+Subsec. (b). Pub. L. 104–208, §2406(a)(2), substituted "$150,000" for "$50,000" in pars. (1) and (2) and "$75,000" for "$20,000" in par. (3).
 
 Subsec. (c). Pub. L. 104–208, §2406(b), added subsec. (c).
 
@@ -138,7 +138,7 @@ Subsec. (d). Pub. L. 104–208, §2406(c), added subsec. (d).
 
 Subsecs. (e), (f). Pub. L. 104–208, §2406(d), added subsecs. (e) and (f).
 
-<b>1978</b>—Subsec. (a)(1). Pub. L. 95–598 substituted “cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years” for “Bankruptcies which, from date of adjudication of the most recent bankruptcy, antedate the report by more than fourteen years”.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–598 substituted "cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years" for "Bankruptcies which, from date of adjudication of the most recent bankruptcy, antedate the report by more than fourteen years".
 
 #### Effective Date of 2010 Amendment
 
@@ -146,11 +146,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed byFederal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
 Amendment by section 412 of Pub. L. 108–159 effective at end of 15-month period beginning on Dec. 4, 2003, see section 412(g) of Pub. L. 108–159, set out as a note under section 1681b of this title.
 
-Pub. L. 108–159, title VIII, §811(c)(2)(B), Dec. 4, 2003, 117 Stat. 2011, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall be deemed to have the same effective date as section 5(1) of Public Law 105–347 (112 Stat. 3211) \[see Effective Date of 1998 Amendment note below\].”
+Pub. L. 108–159, title VIII, §811(c)(2)(B), Dec. 4, 2003, 117 Stat. 2011, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall be deemed to have the same effective date as section 5(1) of Public Law 105–347 (112 Stat. 3211) \[see Effective Date of 1998 Amendment note below\]."
 
 #### Effective Date of 1998 Amendment
 
@@ -158,13 +158,13 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance,see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “which”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "which".</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 

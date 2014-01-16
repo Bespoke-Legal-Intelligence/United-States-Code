@@ -42,5 +42,5 @@ Dec. 4, 1980, Pub. L. 96–497, §§3 (related to discrimination in holding offi
 
 &nbsp;
 
-In subsections (a) and (b), the words “and in conformity with the laws of the State or States where incorporated” in 36:1606 and 36:1607 are omitted as unnecessary.
+In subsections (a) and (b), the words "and in conformity with the laws of the State or States where incorporated" in 36:1606 and 36:1607 are omitted as unnecessary.
 

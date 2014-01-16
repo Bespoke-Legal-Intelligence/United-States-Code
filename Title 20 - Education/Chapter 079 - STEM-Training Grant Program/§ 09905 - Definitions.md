@@ -4,15 +4,15 @@ In this chapter:
 
 #### (1) Field-based course
 
-&emsp;The term “field-based course” means a course of instruction offered by an institution of higher education that includes a requirement that students teach a minimum of 3 lessons or sequences of lessons to elementary or secondary students.
+&emsp;The term "field-based course" means a course of instruction offered by an institution of higher education that includes a requirement that students teach a minimum of 3 lessons or sequences of lessons to elementary or secondary students.
 
 #### (2) Institution of higher education
 
-&emsp;The term “institution of higher education” has the meaning given that term by section 1001 of this title.
+&emsp;The term "institution of higher education" has the meaning given that term by section 1001 of this title.
 
 #### (3) Master teacher
 
-&emsp;The term “master teacher” means an individual—
+&emsp;The term "master teacher" means an individual—
 
 &emsp;&emsp;(A) who has been awarded a master's or doctoral degree by an institution of higher education;
 
@@ -24,11 +24,11 @@ In this chapter:
 
 #### (4) Mentor teacher
 
-&emsp;The term “mentor teacher” means an elementary or secondary school classroom teacher who assists with the training of students participating in a field-based course.
+&emsp;The term "mentor teacher" means an elementary or secondary school classroom teacher who assists with the training of students participating in a field-based course.
 
 #### (5) Director
 
-&emsp;The term “Director” means the Director of the National Science Foundation.
+&emsp;The term "Director" means the Director of the National Science Foundation.
 
 (Pub. L. 111–358, title V, §555, Jan. 4, 2011, 124 Stat. 4025.)
 

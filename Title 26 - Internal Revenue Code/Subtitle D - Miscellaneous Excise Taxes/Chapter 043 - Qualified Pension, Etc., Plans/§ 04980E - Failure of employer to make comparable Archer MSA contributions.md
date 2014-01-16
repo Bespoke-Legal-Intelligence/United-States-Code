@@ -22,7 +22,7 @@ In the case of a failure which is due to reasonable cause and not to willful neg
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term “comparable contributions” means contributions—
+&emsp;&emsp;For purposes of paragraph (1), the term "comparable contributions" means contributions—
 
 &emsp;&emsp;&emsp;(i) which are the same amount, or
 
@@ -30,11 +30,11 @@ In the case of a failure which is due to reasonable cause and not to willful neg
 
 #### (B) Part-year employees
 
-&emsp;&emsp;In the case of an employee who is employed by the employer for only a portion of the calendar year, a contribution to the Archer MSA of such employee shall be treated as comparable if it is an amount which bears the same ratio to the comparable amount (determined without regard to this subparagraph) as such portion bears to the entire calendar year.
+&emsp;&emsp;In the case of an employee who is employed by the employer for only a portion ofthe calendar year, a contribution to the Archer MSA of such employee shall be treated as comparable if it is an amount which bears the same ratio to the comparable amount (determined without regard to this subparagraph) as such portion bears to the entire calendar year.
 
 #### (3) Comparable participating employees
 
-&emsp;For purposes of paragraph (1), the term “comparable participating employees” means all employees—
+&emsp;For purposes of paragraph (1), the term "comparable participating employees" means all employees—
 
 &emsp;&emsp;(A) who are eligible individuals covered under any high deductible health plan of the employer, and
 
@@ -50,7 +50,7 @@ In the case of a failure which is due to reasonable cause and not to willful neg
 
 #### (B) Part-time employee
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “part-time employee” means any employee who is customarily employed for fewer than 30 hours per week.
+&emsp;&emsp;For purposes of subparagraph (A), the term "part-time employee" means any employee who is customarily employed for fewer than 30 hours per week.
 
 #### (e) Controlled groups
 
@@ -64,13 +64,13 @@ Terms used in this section which are also used in section 220 have the respectiv
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–147 substituted “Archer MSA contributions” for “medical savings account contributions” in section catchline.
+<b>2002</b>—Pub. L. 107–147 substituted "Archer MSA contributions" for "medical savings account contributions" in section catchline.
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(8)\], substituted “Archer MSA” for “medical savings account”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(8)\], substituted "Archer MSA" for "medical savings account".
 
-Subsecs. (b), (d)(1). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(D)\], substituted “Archer MSAs” for “medical savings accounts”.
+Subsecs. (b), (d)(1). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(D)\], substituted "Archer MSAs" for "medical savings accounts".
 
-Subsec. (d)(2)(B). Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(8)\], substituted “Archer MSA” for “medical savings account”.
+Subsec. (d)(2)(B). Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(8)\], substituted "Archer MSA" for "medical savings account".
 
 #### Effective Date
 

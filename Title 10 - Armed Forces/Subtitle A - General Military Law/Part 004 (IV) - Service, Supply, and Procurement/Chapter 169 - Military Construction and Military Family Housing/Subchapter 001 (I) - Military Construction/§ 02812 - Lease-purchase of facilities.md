@@ -48,7 +48,7 @@
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c)(1)(B). Pub. L. 108–136 inserted before period at end “or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and economic analysis are provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (c)(1)(B). Pub. L. 108–136 inserted before period at end "or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and economic analysis are provided in an electronic medium pursuant to section 480 of this title".
 
 <b>1990</b>—Subsec. (a)(2)(I). Pub. L. 101–510 added subpar. (I).
 

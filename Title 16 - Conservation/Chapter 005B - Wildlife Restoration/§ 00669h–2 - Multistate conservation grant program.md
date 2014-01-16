@@ -50,7 +50,7 @@
 
 #### (4) Publication
 
-&emsp;The Assistant Director for Wildlife and Sport Fish Restoration Programs shall publish in the Federal Register each priority list submitted under paragraph (3)(C).
+&emsp;The Assistant Director for Wildlife and Sport Fish Restoration Programs shall publishin the Federal Register each priority list submitted under paragraph (3)(C).
 
 #### (c) Eligible grantees
 

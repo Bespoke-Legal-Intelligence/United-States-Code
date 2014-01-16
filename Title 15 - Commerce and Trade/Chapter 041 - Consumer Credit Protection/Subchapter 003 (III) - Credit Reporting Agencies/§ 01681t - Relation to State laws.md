@@ -12,7 +12,7 @@ No requirement or prohibition may be imposed under the laws of any State—
 
 &emsp;&emsp;(A) subsection (c) or (e) of section 1681b of this title, relating to the prescreening of consumer reports;
 
-&emsp;&emsp;(B) section 1681i of this title, relating to the time by which a consumer reportingagency must take any action, including the provision of notification to a consumer or other person, in any procedure related to the disputed accuracy of information in a consumer's file, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
+&emsp;&emsp;(B) section 1681i of this title, relating to the time by which a consumer reporting agency must take any action, including the provision of notification to a consumer or other person, in any procedure related to the disputed accuracy of information in a consumer's file, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
 
 &emsp;&emsp;(C) subsections (a) and (b) of section 1681m of this title, relating to the duties of a person who takes any adverse action with respect to a consumer;
 
@@ -20,7 +20,7 @@ No requirement or prohibition may be imposed under the laws of any State—
 
 &emsp;&emsp;(E) section 1681c of this title, relating to information contained in consumer reports, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
 
-&emsp;&emsp;(F) section 1681s–2 of this title, relating to the responsibilities of persons who furnish information to consumer reporting agencies, except that this paragraph shall not apply—
+&emsp;&emsp;(F) section 1681s–2 of this title, relating to the responsibilities of persons who furnishinformation to consumer reporting agencies, except that this paragraph shall not apply—
 
 &emsp;&emsp;&emsp;(i) with respect to section 54A(a) of chapter 93 of the Massachusetts Annotated Laws (as in effect on September 30, 1996); or
 
@@ -78,9 +78,9 @@ No requirement or prohibition may be imposed under the laws of any State—
 
 &emsp;&emsp;(I) section 1681w of this title.
 
-#### (c) “Firm offer of credit or insurance” defined
+#### (c) "Firm offer of credit or insurance" defined
 
-Notwithstanding any definition of the term “firm offer of credit or insurance” (or any equivalent term) under the laws of any State, the definition of that term contained in section 1681a(l) of this title shall be construed to apply in the enforcement and interpretation of the laws of any State governing consumer reports.
+Notwithstanding any definition of the term "firm offer of credit or insurance" (or any equivalent term) under the laws of any State, the definition of that term contained in section 1681a(l) of this title shall be construed to apply in the enforcement and interpretation of the laws of any State governing consumer reports.
 
 #### (d) Limitations
 
@@ -94,9 +94,9 @@ A prior section 625 of Pub. L. 90–321 was renumbered section 626 and is classi
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–159, §711(1), inserted “or for the prevention or mitigation of identity theft,” after “information on consumers,”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–159, §711(1), inserted "or for the prevention or mitigation of identity theft," after "information on consumers,".
 
-Subsec. (b)(1)(E). Pub. L. 108–159, §214(c)(2)(A), struck out “or” after semicolon at end.
+Subsec. (b)(1)(E). Pub. L. 108–159, §214(c)(2)(A), struck out "or" after semicolon at end.
 
 Subsec. (b)(1)(G). Pub. L. 108–159, §151(a)(2), added subpar. (G).
 
@@ -104,21 +104,21 @@ Subsec. (b)(1)(H). Pub. L. 108–159, §214(c)(2)(B), added subpar. (H).
 
 Subsec. (b)(1)(I). Pub. L. 108–159, §311(b), added subpar. (I).
 
-Subsec. (b)(3), (4). Pub. L. 108–159, §212(e), added pars. (3) and (4) and struck out former par. (3) which read as follows: “with respect to the form and content of any disclosure required to be made under section 1681g(c) of this title.”
+Subsec. (b)(3), (4). Pub. L. 108–159, §212(e), added pars. (3) and (4) and struck out former par. (3) which read as follows: "with respect to the form and content of any disclosure required to be made under section 1681g(c) of this title."
 
 Subsec. (b)(5). Pub. L. 108–159, §711(2), added par. (5).
 
-Subsec. (d). Pub. L. 108–159, §711(3), substituted “(c) of this section” for “(c) of this section—”, struck out par. (1) designation before “do not affect”, substituted “1996.” for “1996; and”, and struck out par. (2) which read as follows:
+Subsec. (d). Pub. L. 108–159, §711(3), substituted "(c) of this section" for "(c) of this section—", struck out par. (1) designation before "do not affect", substituted "1996." for "1996; and", and struck out par. (2) which read as follows:
 
-“(2) do not apply to any provision of State law (including any provision of a State constitution) that—
+"(2) do not apply to any provision of State law (including any provision of a State constitution) that—
 
-&emsp;“(A) is enacted after January 1, 2004;
+&emsp;"(A) is enacted after January 1, 2004;
 
-&emsp;“(B) states explicitly that the provision is intended to supplement this subchapter; and
+&emsp;"(B) states explicitly that the provision is intended to supplement this subchapter; and
 
-&emsp;“(C) gives greater protection to consumers than is provided under this subchapter.”
+&emsp;"(C) gives greater protection to consumers than is provided under this subchapter."
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted “Except as provided in subsections (b) and (c) of this section, this subchapter” for “This subchapter”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted "Except as provided in subsections (b) and (c) of this section, this subchapter" for "This subchapter".
 
 Subsecs. (b) to (d). Pub. L. 104–208, §2419(2), added subsecs. (b) to (d).
 

@@ -10,5 +10,5 @@ A State in which a local educational agency that has a local flexibility demonst
 
 (Pub. L. 89–10, title VI, §6156, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1890.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “7321(c)(10)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "7321(c)(10)".</i>
 

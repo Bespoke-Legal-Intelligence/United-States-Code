@@ -6,7 +6,7 @@ The Secretary is authorized and directed to establish, equip, and maintain four 
 
 #### (b) Acquisition of land for laboratories; donations
 
-For the purposes of subsection (a) of this section, the Secretary is authorized to acquire land and interests therein, and to accept in the name of the United States donations of any property, real or personal, to any laboratory establishedpursuant to this section, and to utilize voluntary or uncompensated services at such laboratories. Donations to any one of such laboratories shall not be available for use by any other of such laboratories.
+For the purposes of subsection (a) of this section, the Secretary is authorized to acquire land and interests therein, and to accept in the name of the United States donations of any property, real or personal, to any laboratory established pursuant to this section, and to utilize voluntary or uncompensated services at such laboratories. Donations to any one of such laboratories shall not be available for use by any other of such laboratories.
 
 #### (c) Cooperation with governmental agencies, associations, etc.
 
@@ -36,9 +36,9 @@ It shall be the duty of the Secretary to use available funds to stimulate and wi
 
 Pub. L. 91–430, Sept. 26, 1970, 84 Stat. 885, provided:
 
-“\[Section 1. Short Title\]. That this Act shall be known as the ‘Wheat Research and Promotion Act.’
+"\[Section 1. Short Title\]. That this Act shall be known as the 'Wheat Research and Promotion Act.'
 
-“
+"
 
-Sec. 2 \[Contract authority; sale of export marketing certificates and pro rata share of such certificates for financing agreements; rules and regulations\]. The Secretary of Agriculture is authorized to enter into agreements with organizations of wheat growers, farm organizations, and such other organizations as he may deem appropriate to carry out a program of research and promotion designed to expand domestic and foreign markets and increase utilization for United States wheat and to carry out any other such program which he deems will benefit wheat producers in the United States. Notwithstanding any other provision of law, the Secretary shall use the total net proceeds from the sale of export marketing certificates during the marketing year ending June 30, 1969, to finance the cost of such agreements, except that he shall provide for the issuance of a pro rata share of export marketing certificates for such marketing year to any producer eligible therefor under section 379c of the Agricultural Adjustment Act of 1938, as amended \[section 1379c of this title\], who applies for such certificates not later than ninety days after the date of enactment of this Act \[Sept. 26, 1970\]. The Secretary is authorized to prescribe such rules and regulations as may be necessary to carry out the provisions of this Act.”
+Sec. 2 \[Contract authority; sale of export marketing certificates and pro rata share of such certificates for financing agreements; rules and regulations\]. The Secretary of Agriculture is authorized to enter into agreements with organizations of wheat growers, farm organizations, and such other organizations as he may deem appropriate to carry out a program of research and promotion designed to expand domestic and foreign markets and increase utilization for United States wheat and to carry out any other such program which he deems will benefit wheat producers in the United States. Notwithstanding any other provision of law, the Secretary shall use the total net proceeds from the sale of export marketing certificates during the marketing year ending June 30, 1969, to finance the cost of such agreements, except that he shall provide for the issuance of a pro rata share of export marketing certificates for such marketing year to any producer eligible therefor under section 379c of the Agricultural Adjustment Act of 1938, as amended \[section 1379c of this title\], who applies for such certificates not later than ninety days after the date of enactment of this Act \[Sept. 26, 1970\]. The Secretary is authorized to prescribe such rules and regulations as may be necessary to carry out the provisions of this Act."
 

@@ -2,7 +2,7 @@
 
 #### (a) Definition
 
-In this section, the term “Federal authorization”—
+In this section, the term "Federal authorization"—
 
 &emsp;(1) means any authorization required under Federal law with respect to an application for authorization under section 717b of this title or a certificate of public convenience and necessity under section 717f of this title; and
 
@@ -12,7 +12,7 @@ In this section, the term “Federal authorization”—
 
 #### (1) In general
 
-&emsp;The Commission shall act as the lead agency for the purposes of coordinating all applicable Federal authorizations and for the purposes ofcomplying with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+&emsp;The Commission shall act as the lead agency for the purposes of coordinating all applicable Federal authorizations and for the purposes of complying with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (2) Other agencies
 
@@ -58,5 +58,5 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–58 substituted “Process coordination; hearings; rules of procedure” for “Hearings; rules of procedure” in section catchline, added subsecs. (a) to (d), and redesignated former subsecs. (a) and (b) as (e) and (f), respectively.
+<b>2005</b>—Pub. L. 109–58 substituted "Process coordination; hearings; rules of procedure" for "Hearings; rules of procedure" in section catchline, added subsecs. (a) to (d), and redesignated former subsecs. (a) and (b) as (e) and (f), respectively.
 

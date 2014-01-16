@@ -16,15 +16,15 @@ The Native American Housing Assistance and Self-Determination Act of 1996, refer
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–276, §586(c), designated existing provisions as subsec. (a), inserted heading, substituted “recipients of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entities”, inserted “and violent” after “drug-related”, and added subsec. (b).
+<b>1998</b>—Pub. L. 105–276, §586(c), designated existing provisions as subsec. (a), inserted heading, substituted "recipients of assistance under the Native American Housing Assistance and Self-Determination Act of 1996" for "tribally designated housing entities", inserted "and violent" after "drug-related", and added subsec. (b).
 
-Pub. L. 105–276, §220(1), inserted “Indian tribes” before “and private”.
+Pub. L. 105–276, §220(1), inserted "Indian tribes" before "and private".
 
-<b>1996</b>—Pub. L. 104–330 struck out “(including Indian Housing Authorities)” after “grants to public housing agencies” and inserted “tribally designated housing entities,” before “and private”.
+<b>1996</b>—Pub. L. 104–330 struck out "(including Indian Housing Authorities)" after "grants to public housing agencies" and inserted "tribally designated housing entities," before "and private".
 
-<b>1992</b>—Pub. L. 102–550 inserted “, public housing resident management corporations that are principally managing, as determined by the Secretary, public housing projects owned by public housing agencies,” after “Authorities)”.
+<b>1992</b>—Pub. L. 102–550 inserted ", public housing resident management corporations that are principally managing, as determined by the Secretary, public housing projects owned by public housing agencies," after "Authorities)".
 
-<b>1990</b>—Pub. L. 101–625 amended section generally. Prior to amendment, section read as follows: “The Secretary of Housing and Urban Development, in accordance with the provisions of this subchapter, may make grants to public housing agencies (including Indian housing authorities) for use in eliminating drug-related crime in public housing projects.”
+<b>1990</b>—Pub. L. 101–625 amended section generally. Prior to amendment, section read as follows: "The Secretary of Housing and Urban Development, in accordance with the provisions of this subchapter, may make grants to public housing agencies (including Indian housing authorities) for use in eliminating drug-related crime in public housing projects."
 
 #### Effective Date of 1998 Amendment
 

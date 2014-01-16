@@ -2,7 +2,7 @@
 
 In this subchapter—
 
-&emsp;(1) “air carrier airport” means a public airport regularly served by—
+&emsp;(1) "air carrier airport" means a public airport regularly served by—
 
 &emsp;&emsp;(A) an air carrier certificated by the Secretary of Transportation under section 41102 of this title (except a charter air carrier); or
 
@@ -12,7 +12,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ii) having at least 2,500 passenger boardings at the airport during the prior calendar year.
 
-&emsp;(2) “airport”—
+&emsp;(2) "airport"—
 
 &emsp;&emsp;(A) means—
 
@@ -24,7 +24,7 @@ In this subchapter—
 
 &emsp;&emsp;(B) includes a heliport.
 
-&emsp;(3) “airport development” means the following activities, if undertaken by the sponsor, owner, or operator of a public-use airport:
+&emsp;(3) "airport development" means the following activities, if undertaken by the sponsor, owner, or operator of a public-use airport:
 
 &emsp;&emsp;(A) constructing, repairing, or improving a public-use airport, including—
 
@@ -68,13 +68,13 @@ In this subchapter—
 
 &emsp;&emsp;(G) acquiring land for, or work necessary to construct, a pad suitable for deicing aircraft before takeoff at a commercial service airport, including constructing or reconstructing paved areas, drainage collection structures, treatment and discharge systems, appropriate lighting, paved access for deicing vehicles and aircraft, and including acquiring glycol recovery vehicles, but not including acquiring aircraft deicing fluids or constructing or reconstructing storage facilities for aircraft deicing equipment or fluids.
 
-&emsp;&emsp;(H) routine work to preserve and extend the useful life of runways, taxiways, and aprons at nonhub airports and airports that are not primary airports, under guidelines issued by the Administrator of the Federal Aviation Administration.
+&emsp;&emsp;(H) routine work to preserve and extend the useful life of runways, taxiways, and aprons at nonhub airports and airports thatare not primary airports, under guidelines issued by the Administrator of the Federal Aviation Administration.
 
 &emsp;&emsp;(I) constructing, reconstructing, or improving an airport, or purchasing nonrevenue generating capital equipment to be owned by an airport, for the purpose of transferring passengers, cargo, or baggage between the aeronautical and ground transportation modes on airport property.
 
 &emsp;&emsp;(J) constructing an air traffic control tower or acquiring and installing air traffic control, communications, and related equipment at an air traffic control tower under the terms specified in section 47124(b)(4).
 
-&emsp;&emsp;(K) work necessary to construct or modify airport facilities to provide low-emissionfuel systems, gate electrification, and other related air quality improvements at a commercial service airport if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) <sup>1</sup> and if such project will result in an airport receiving appropriate emission credits, as described in section 47139.
+&emsp;&emsp;(K) work necessary to construct or modify airport facilities to provide low-emission fuel systems, gate electrification, and other related air quality improvements at a commercial service airport if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) <sup>1</sup> and if such project will result in an airport receiving appropriate emission credits, as described in section 47139.
 
 &emsp;&emsp;(L) a project for the acquisition or conversion of vehicles and ground support equipment, owned by a commercial service airport, to low-emission technology, if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) <sup>1</sup> and if such project will result in an airport receiving appropriate emission credits as described in section 47139.
 
@@ -84,9 +84,9 @@ In this subchapter—
 
 &emsp;&emsp;(O) acquiring and installing facilities and equipment to provide air conditioning, heating, or electric power from terminal-based, nonexclusive use facilities to aircraft parked at a public use airport for the purpose of reducing energy use or harmful emissions as compared to the provision of such air conditioning, heating, or electric power from aircraft-based systems.
 
-&emsp;(4) “airport hazard” means a structure or object of natural growth located on or near a public-use airport, or a use of land near the airport, that obstructs or otherwise is hazardous to the landing or taking off of aircraft at or from the airport.
+&emsp;(4) "airport hazard" means a structure or object of natural growth located on or near a public-use airport, or a use of land near the airport, that obstructs or otherwise is hazardous to the landing or taking off of aircraft at or from the airport.
 
-&emsp;(5) “airport planning” means planning as defined by regulations the Secretary prescribes and includes—
+&emsp;(5) "airport planning" means planning as defined by regulations the Secretary prescribes and includes—
 
 &emsp;&emsp;(A) integrated airport system planning;
 
@@ -94,17 +94,17 @@ In this subchapter—
 
 &emsp;&emsp;(C) developing a plan for recycling and minimizing the generation of airport solid waste, consistent with applicable State and local recycling laws, including the cost of a waste audit.
 
-&emsp;(6) “amount made available under section 48103” or “amount newly made available” means the amount authorized for grants under section 48103 as that amount may be limited in that year by a subsequent law, but as determined without regard to grant obligation recoveries made in that year or amounts covered by section 47107(f).
+&emsp;(6) "amount made available under section 48103" or "amount newly made available" means the amount authorized for grants under section 48103 as that amount may be limited in that year by a subsequent law, but as determined without regard to grant obligation recoveries made in that year or amounts covered by section 47107(f).
 
-&emsp;(7) “commercial service airport” means a public airport in a State that the Secretary determines has at least 2,500 passenger boardings each year and is receiving scheduled passenger aircraft service.
+&emsp;(7) "commercial service airport" means a public airport in a State that the Secretary determines has at least 2,500 passenger boardings each year and is receiving scheduled passenger aircraft service.
 
-&emsp;(8) “general aviation airport” means a public airport that is located in a State and that, as determined by the Secretary—
+&emsp;(8) "general aviation airport" means a public airport that is located in a State and that, as determined by the Secretary—
 
 &emsp;&emsp;(A) does not have scheduled service; or
 
 &emsp;&emsp;(B) has scheduled service with less than 2,500 passenger boardings each year.
 
-&emsp;(9) “integrated airport system planning” means developing for planning purposes information and guidance to decide the extent, kind, location, and timing of airport development needed in a specific area to establish a viable, balanced, and integrated system of public-use airports, including—
+&emsp;(9) "integrated airport system planning" means developing for planning purposes information and guidance to decide the extent, kind, location, and timing of airport development needed in a specific area to establish a viable, balanced, and integrated system of public-use airports, including—
 
 &emsp;&emsp;(A) identifying system needs;
 
@@ -114,31 +114,31 @@ In this subchapter—
 
 &emsp;&emsp;(D) standards prescribed by a State, except standards for safety of approaches, for airport development at nonprimary public-use airports.
 
-&emsp;(10) “landed weight” means the weight of aircraft transporting only cargo in intrastate, interstate, and foreign air transportation, as the Secretary determines under regulations the Secretary prescribes.
+&emsp;(10) "landed weight" means the weight of aircraft transporting only cargo in intrastate, interstate, and foreign air transportation, as the Secretary determines under regulations the Secretary prescribes.
 
-&emsp;(11) “large hub airport” means a commercial service airport that has at least 1.0 percent of the passenger boardings.
+&emsp;(11) "large hub airport" means a commercial service airport that has at least 1.0 percent of the passenger boardings.
 
-&emsp;(12) “low-emission technology” means technology for vehicles and equipment whose emission performance is the best achievable under emission standards established by the Environmental Protection Agency and that relies exclusively on alternative fuels that are substantially nonpetroleum based, as defined by the Department of Energy, but not excluding hybrid systems or natural gas powered vehicles.
+&emsp;(12) "low-emission technology" means technology for vehicles and equipment whose emission performance is the best achievable under emission standards established by the Environmental Protection Agency and that relies exclusively on alternative fuels that are substantially nonpetroleum based, as defined by the Department of Energy, but not excluding hybrid systems or natural gas powered vehicles.
 
-&emsp;(13) “medium hub airport” means a commercial service airport that has at least 0.25 percent but less than 1.0 percent of the passenger boardings.
+&emsp;(13) "medium hub airport" means a commercial service airport that has at least 0.25 percent but less than 1.0 percent of the passenger boardings.
 
-&emsp;(14) “nonhub airport” means a commercial service airport that has less than 0.05 percent of the passenger boardings.
+&emsp;(14) "nonhub airport" means a commercial service airport that has less than 0.05 percent of the passenger boardings.
 
-&emsp;(15) “passenger boardings”—
+&emsp;(15) "passenger boardings"—
 
-&emsp;&emsp;(A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar year on an aircraft in service in air commerce, as the Secretary determines under regulations the Secretary prescribes; and
+&emsp;&emsp;(A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar year on an aircraft in service in air commerce, asthe Secretary determines under regulations the Secretary prescribes; and
 
 &emsp;&emsp;(B) includes passengers who continue on an aircraft in international flight that stops at an airport in the 48 contiguous States, Alaska, or Hawaii for a nontraffic purpose.
 
-&emsp;(16) “primary airport” means a commercial service airport the Secretary determines to have more than 10,000 passenger boardings each year.
+&emsp;(16) "primary airport" means a commercial service airport the Secretary determines to have more than 10,000 passenger boardings each year.
 
-&emsp;(17) “project” means a project, separate projects included in one project grant application, or all projects to be undertaken at an airport in a fiscal year, to achieve airport development or airport planning.
+&emsp;(17) "project" means a project, separate projects included in one project grant application, or all projects to be undertaken at an airport in a fiscal year, to achieve airport development or airport planning.
 
-&emsp;(18) “project cost” means a cost involved in carrying out a project.
+&emsp;(18) "project cost" means a cost involved in carrying out a project.
 
-&emsp;(19) “project grant” means a grant of money the Secretary makes to a sponsor to carry out at least one project.
+&emsp;(19) "project grant" means a grant of money the Secretary makes to a sponsor to carry out at least one project.
 
-&emsp;(20) “public agency” means—
+&emsp;(20) "public agency" means—
 
 &emsp;&emsp;(A) a State or political subdivision of a State;
 
@@ -146,13 +146,13 @@ In this subchapter—
 
 &emsp;&emsp;(C) an Indian tribe or pueblo.
 
-&emsp;(21) “public airport” means an airport used or intended to be used for public purposes—
+&emsp;(21) "public airport" means an airport used or intended to be used for public purposes—
 
 &emsp;&emsp;(A) that is under the control of a public agency; and
 
 &emsp;&emsp;(B) of which the area used or intended to be used for the landing, taking off, or surface maneuvering of aircraft is publicly owned.
 
-&emsp;(22) “public-use airport” means—
+&emsp;(22) "public-use airport" means—
 
 &emsp;&emsp;(A) a public airport; or
 
@@ -162,21 +162,21 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ii) determined by the Secretary to have at least 2,500 passenger boardings each year and to receive scheduled passenger aircraft service.
 
-&emsp;(23) “reliever airport” means an airport the Secretary designates to relieve congestion at a commercial service airport and to provide more general aviation access to the overall community.
+&emsp;(23) "reliever airport" means an airport the Secretary designates to relieve congestion at a commercial service airport and to provide more general aviation access to the overall community.
 
-&emsp;(24) “revenue producing aeronautical support facilities” means fuel farms, hangar buildings, self-service credit card aeronautical fueling systems, airplane wash racks, major rehabilitation of a hangar owned by a sponsor, or other aeronautical support facilities that the Secretary determines will increase the revenue producing ability of the airport.
+&emsp;(24) "revenue producing aeronautical support facilities" means fuel farms, hangar buildings, self-service credit card aeronautical fueling systems, airplane wash racks, major rehabilitation of a hangar owned by a sponsor, or other aeronautical support facilities that the Secretary determines will increase the revenue producing ability of the airport.
 
-&emsp;(25) “small hub airport” means a commercial service airport that has at least 0.05 percent but less than 0.25 percent of the passenger boardings.
+&emsp;(25) "small hub airport" means a commercial service airport that has at least 0.05 percent but less than 0.25 percent of the passenger boardings.
 
-&emsp;(26) “sponsor” means—
+&emsp;(26) "sponsor" means—
 
 &emsp;&emsp;(A) a public agency that submits to the Secretary under this subchapter an application for financial assistance; and
 
 &emsp;&emsp;(B) a private owner of a public-use airport that submits to the Secretary under this subchapter an application for financial assistance for the airport.
 
-&emsp;(27) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and Guam.
+&emsp;(27) "State" means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and Guam.
 
-&emsp;(28) “terminal development” means—
+&emsp;(28) "terminal development" means—
 
 &emsp;&emsp;(A) development of—
 
@@ -298,37 +298,37 @@ Sept. 3, 1982, Pub. L. 97–248, §503(a)(12), 96 Stat. 673; Dec. 30, 1987, Pub.
 
 49 App.:2202(a)(23).
 
-In this section, before clause (1), the words “In this subchapter” are substituted for “As used in this chapter” and “Whenever in this chapter reference is made to . . . such reference shall mean” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
+In this section, before clause (1), the words "In this subchapter" are substituted for "As used in this chapter" and "Whenever in this chapter reference is made to . . . such reference shall mean" for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
 
-Clause (1) restates the definition of “air carrier airport” that was contained in section 11(1) of the Airport and Airway Development Act of 1970 as in effect both on February 18, 1980, and immediately before September 3, 1982. The clause is added to this section to eliminate the cross-references to definitions in section 11 of the Airport and Airway Development Act of 1970 that are contained in the source provisions restated in sections 47106(d) and 47119(a) of the revised title. Because some of the terms used in the definition of “air carrier airport” were themselves defined in section 11, the definitions of those terms are incorporated in the definition added in clause (1) to the extent they differ from the definitions of those terms restated in this section. The words “Secretary of Transportation” and “Secretary” are substituted for “Civil Aeronautics Board”because of the transfer of authority under 49 App.:1551(b)(1)(E).
+Clause (1) restates the definition of "air carrier airport" that was contained in section 11(1) of the Airport and Airway Development Act of 1970 as in effect both on February 18, 1980, and immediately before September 3, 1982. The clause is added to this section to eliminate the cross-references to definitions in section 11 of the Airport and Airway Development Act of 1970 that are contained in the source provisions restated in sections 47106(d) and 47119(a) of the revised title. Because some of the terms used in the definition of "air carrier airport" were themselves defined in section 11, the definitions of those terms are incorporated in the definition added in clause (1) to the extent they differ from the definitions of those terms restated in this section. The words "Secretary of Transportation" and "Secretary" are substituted for "Civil Aeronautics Board" because of the transfer of authority under 49 App.:1551(b)(1)(E).
 
-In clause (2), before subclause (A), the text of 49 App.:2202(a)(21) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section. In subclause (A)(iii), the words “those areas” are substituted for “thereon” for clarity.
+In clause (2), before subclause (A), the text of 49 App.:2202(a)(21) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section. In subclause (A)(iii), the words "those areas" are substituted for "thereon" for clarity.
 
-In clause (3)(A), before subclause (i), the words “any work involved in” and “or portion thereof” are eliminated as unnecessary. The word “reconstructing” is omitted as being included in “constructing”. In subclause (ii), the words “carrying out a field investigation” are substituted for “field investigations incidental thereto” for clarity.
+In clause (3)(A), before subclause (i), the words "any work involved in" and "or portion thereof" are eliminated as unnecessary. The word "reconstructing" is omitted as being included in "constructing". In subclause (ii), the words "carrying out a field investigation" are substituted for "field investigations incidental thereto" for clarity.
 
-In clause (3)(B), before subclause (i), the word “for” is substituted for “by” for clarity. In subclause (i), the words “required by the acquisition or installation” are substituted for “thereby required” for clarity. In subclause (ii), the word “individuals” is substituted for “persons” for clarity and consistency in the revised title and with other titles of the Code.
+In clause (3)(B), before subclause (i), the word "for" is substituted for "by" for clarity. In subclause (i), the words "required by the acquisition or installation" are substituted for "thereby required" for clarity. In subclause (ii), the word "individuals" is substituted for "persons" for clarity and consistency in the revised title and with other titles of the Code.
 
-In clause (3)(C), before subclause (i), the words “interest in land or airspace” are substituted for “land or of any interest therein, or of any easement through or other interest in airspace” to eliminate unnecessary words. In subclause (ii), the words “existing airport hazard . . . the creation of a new airport hazard” are added for clarity and consistency in this chapter.
+In clause (3)(C), before subclause (i), the words "interest in land or airspace" are substituted for "land or of any interest therein, or of any easement through or other interest in airspace" to eliminate unnecessary words. In subclause (ii), the words "existing airport hazard . . . the creation of a new airport hazard" are added for clarity and consistency in this chapter.
 
-In clause (3)(D), the words “any . . . work involved to” are omitted as surplus. The word “Secretary” is substituted for “Department of Transportation” because of 49:102(b). The words “Administrator of the” are added because of 49:106(b).
+In clause (3)(D), the words "any . . . work involved to" are omitted as surplus. The word "Secretary" is substituted for "Department of Transportation" because of 49:102(b). The words "Administrator of the" are added because of 49:106(b).
 
-In clause (4), the word “near” is substituted for “in the vicinity of” to eliminate unnecessary words. The words “obstructs or otherwise is hazardous to the landing or taking off” are substituted for “obstructs the airspace required for the flight of aircraft in landing or taking off . . . or is otherwise hazardous to such landing or taking off” for clarity and to eliminate unnecessary words.
+In clause (4), the word "near" is substituted for "in the vicinity of" to eliminate unnecessary words. The words "obstructs or otherwise is hazardous to the landing or taking off" are substituted for "obstructs the airspace required for the flight of aircraft in landing or taking off . . . or is otherwise hazardous to such landing or taking off" for clarity and to eliminate unnecessary words.
 
-In clause (6), the words “for a fiscal year . . . for that fiscal year” are omitted as surplus. The words “authorized for grants” are substituted for “made available for obligation” for clarity and consistency. The word “law” is substituted for “Act of Congress” for consistency in the revised title and with other titles of the Code. The words “or limited” are omitted as surplus.
+In clause (6), the words "for a fiscal year . . . for that fiscal year" are omitted as surplus. The words "authorized for grants" are substituted for "made available for obligation" for clarity and consistency. The word "law" is substituted for "Act of Congress" for consistency in the revised title and with other titles of the Code. The words "or limited" are omitted as surplus.
 
-In clause (8), before subclause (A), the words “the initial as well as continuing” and “nature” are omitted as surplus. In subclause (C), the words “needed to decide which aeronautical needs should be met” are substituted for “as may be necessary to determine the short-, intermediate-, and long-range aeronautical demands required to be met” for clarity and to eliminate unnecessary words. The word “particular” is eliminated as unnecessary. In subclause (D), the word “prescribed” is substituted for “the establishment . . . of” for consistency in the revised title and with other titles of the Code.
+In clause (8), before subclause (A), the words "the initial as well as continuing" and "nature" are omitted as surplus. In subclause (C), the words "needed to decide which aeronautical needs should be met" are substituted for "as may be necessary to determine the short-, intermediate-, and long-range aeronautical demands required to be met" for clarity and to eliminate unnecessary words. The word "particular" is eliminated as unnecessary. In subclause (D), the word "prescribed" is substituted for "the establishment . . . of" for consistency in the revised title and with other titles of the Code.
 
-In clause (9), the words “scheduled and nonscheduled” are omitted as surplus. The word “cargo” is substituted for “property (including mail)” for consistency in the revised title.
+In clause (9), the words "scheduled and nonscheduled" are omitted as surplus. The word "cargo" is substituted for "property (including mail)" for consistency in the revised title.
 
-In clause (10), before subclause (A), the words “passenger boardings” are substituted for “passengers enplaned” for clarity. In subclause (A), the words “domestic, territorial, and international”, “in the States”, “scheduled and nonscheduled”, and “intrastate, interstate, and foreign” are omitted as surplus. In subclause (B), the words “who continue on an aircraft in” are substituted for “on board” for clarity. (See Cong. Rec., pp. S15296, 15297, Oct. 28, 1987, daily ed.). The words “that stops” are substituted for “which transit” for clarity. The word “located” is omitted as surplus.
+In clause (10), before subclause (A), the words "passenger boardings" are substituted for "passengers enplaned" for clarity. In subclause (A), the words "domestic, territorial, and international", "in the States", "scheduled and nonscheduled", and "intrastate, interstate, and foreign" are omitted as surplus. In subclause (B), the words "who continue on an aircraft in" are substituted for "on board" for clarity. (See Cong. Rec., pp. S15296, 15297, Oct. 28, 1987, daily ed.). The words "that stops" are substituted for "which transit" for clarity. The word "located" is omitted as surplus.
 
-In clause (12), the words “included in one project grant application” are substituted for “submitted together”, and the words “or all projects to be undertaken” are substituted for “including the combined submission of all projects”, for clarity and consistency in this chapter.
+In clause (12), the words "included in one project grant application" are substituted for "submitted together", and the words "or all projects to be undertaken" are substituted for "including the combined submission of all projects", for clarity and consistency in this chapter.
 
-In clause (15)(A), the words “or any agency of a State, a municipality . . . other” are omitted as surplus.
+In clause (15)(A), the words "or any agency of a State, a municipality . . . other" are omitted as surplus.
 
-In clause (19)(A), the words “either individually or jointly with one or more other public agencies” are omitted as surplus.
+In clause (19)(A), the words "either individually or jointly with one or more other public agencies" are omitted as surplus.
 
-In clause (20), the words “the Commonwealth of” and “the Government of” are omitted as surplus.
+In clause (20), the words "the Commonwealth of" and "the Government of" are omitted as surplus.
 
 #### References in Text
 
@@ -340,13 +340,13 @@ The Federal Water Pollution Control Act, referred to in par. (3)(F), is act June
 
 #### Amendments
 
-<b>2012</b>—Par. (3)(B)(iv). Pub. L. 112–95, §132(a)(1), substituted “9” for “20”.
+<b>2012</b>—Par. (3)(B)(iv). Pub. L. 112–95, §132(a)(1), substituted "9" for "20".
 
-Par. (3)(G). Pub. L. 112–95, §132(a)(2), inserted “and including acquiring glycol recovery vehicles,” after “vehicles and aircraft,”.
+Par. (3)(G). Pub. L. 112–95, §132(a)(2), inserted "and including acquiring glycol recovery vehicles," after "vehicles and aircraft,".
 
 Par. (3)(M) to (O). Pub. L. 112–95, §132(a)(3), added subpars. (M) to (O).
 
-Par. (5). Pub. L. 112–95, §132(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “ ‘airport planning’ means planning as defined by regulations the Secretary prescribes and includes integrated airport system planning.”
+Par. (5). Pub. L. 112–95, §132(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: " 'airport planning' means planning as defined by regulations the Secretary prescribes and includes integrated airport system planning."
 
 Par. (8). Pub. L. 112–95, §132(c)(3), added par. (8). Former par. (8) redesignated (9).
 
@@ -358,31 +358,31 @@ Pars. (25) to (27). Pub. L. 112–95, §132(c)(1), redesignated pars. (23) to (2
 
 Par. (28). Pub. L. 112–95, §132(e), added par. (28).
 
-<b>2003</b>—Par. (3)(B)(x). Pub. L. 108–176, §142, inserted “; except that such activities shall be eligible for funding under this subchapter only using amounts apportioned under section 47114” before period at end.
+<b>2003</b>—Par. (3)(B)(x). Pub. L. 108–176, §142, inserted "; except that such activities shall be eligible for funding under this subchapter only using amounts apportioned under section 47114" before period at end.
 
-Par. (3)(H). Pub. L. 108–176, §141, inserted “nonhub airports and” before “airports that are not primary airports”.
+Par. (3)(H). Pub. L. 108–176, §141, inserted "nonhub airports and" before "airports that are not primary airports".
 
-Par. (3)(J). Pub. L. 108–176, §159(b)(1)(A), redesignated subpar. (M) as (J) and struck out former subpar. (J) which read as follows: “in fiscal year 2002, any additional security related activity required by law or by the Secretary after September 11, 2001, and before October 1, 2002.”
+Par. (3)(J). Pub. L. 108–176, §159(b)(1)(A), redesignated subpar. (M) as (J) and struck out former subpar. (J) which read as follows: "in fiscal year 2002, any additional security related activity required by law or by the Secretary after September 11, 2001, and before October 1, 2002."
 
 Par. (3)(K), (L). Pub. L. 108–176, §159(b)(1), added subpars. (K) and (L) and struck out former subpars. (K) and (L) which read as follows:
 
-“(K) in fiscal year 2002 with respect to funds apportioned under section 47114 in fiscal years 2001 and 2002, any activity, including operational activities, of an airport that is not a primary airport if that airport is located within the confines of enhanced class B airspace, as defined by Notice to Airmen FDC 1/0618 issued by the Federal Aviation Administration and the activity wascarried out when any restriction in the Notice is in effect.
+"(K) in fiscal year 2002 with respect to funds apportioned under section 47114 in fiscal years 2001 and 2002, any activity, including operational activities, of an airport that is not a primary airport if that airport is located within the confines of enhanced class B airspace, as defined by Notice to Airmen FDC 1/0618 issued by the Federal Aviation Administration and the activity was carried out when any restriction in the Notice is in effect.
 
-“(L) in fiscal year 2002, payments for debt service on indebtedness incurred to carry out a project at an airport owned or controlled by the sponsor or at a privately owned or operated airport passenger terminal financed by indebtedness incurred by the sponsor if the Secretary determines that such payments are necessary to prevent a default on the indebtedness.”
+"(L) in fiscal year 2002, payments for debt service on indebtedness incurred to carry out a project at an airport owned or controlled by the sponsor or at a privately owned or operated airport passenger terminal financed by indebtedness incurred by the sponsor if the Secretary determines that such payments are necessary to prevent a default on the indebtedness."
 
 Par. (3)(M). Pub. L. 108–176, §159(b)(1)(A), redesignated subpar. (M) as (J).
 
 Pub. L. 108–7 added subpar. (M).
 
-Par. (6). Pub. L. 108–176, §801(a)(6), added par. (6) and struck out former par. (6) which read as follows: “ ‘amount made available under section 48103 of this title’ means the amount authorized for grants under section 48103 of this title as reduced by any law enacted after September 3, 1982.”
+Par. (6). Pub. L. 108–176, §801(a)(6), added par. (6) and struck out former par. (6) which read as follows: " 'amount made available under section 48103 of this title' means the amount authorized for grants under section 48103 of this title as reduced by any law enacted after September 3, 1982."
 
 Par. (10). Pub. L. 108–176, §801(a)(5), added par. (10). Former par. (10) redesignated (14).
 
 Par. (10)(A), (B). Pub. L. 108–176, §801(a)(3), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
-“(A) means revenue passenger boardings on an aircraft in service in air commerce as the Secretary determines under regulations the Secretary prescribes; and
+"(A) means revenue passenger boardings on an aircraft in service in air commerce as the Secretary determines under regulations the Secretary prescribes; and
 
-“(B) includes passengers who continue on an aircraft in international flight that stops at an airport in the 48 contiguous States, Alaska, or Hawaii for a nontraffic purpose.”
+"(B) includes passengers who continue on an aircraft in international flight that stops at an airport in the 48 contiguous States, Alaska, or Hawaii for a nontraffic purpose."
 
 Par. (11). Pub. L. 108–176, §159(d), amended section as amended by Pub. L. 108–176, §801, by adding par. (11).
 
@@ -402,9 +402,9 @@ Pars. (24), (25). Pub. L. 108–176, §801(a)(1), redesignated pars. (19) and (2
 
 Par. (3)(J) to (L). Pub. L. 107–71, §119(a)(1), added subpars. (J) to (L).
 
-<b>2000</b>—Par. (3)(B)(ii). Pub. L. 106–181, §121(c)(1), substituted “, universal access systems, and emergency call boxes,” for “and universal access systems,” and inserted “and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices” before semicolon at end.
+<b>2000</b>—Par. (3)(B)(ii). Pub. L. 106–181, §121(c)(1), substituted ", universal access systems, and emergency call boxes," for "and universal access systems," and inserted "and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices" before semicolon at end.
 
-Par. (3)(B)(iii). Pub. L. 106–181, §121(c)(2), inserted before semicolon at end “, including closed circuit weather surveillance equipment if the airport is located in Alaska”.
+Par. (3)(B)(iii). Pub. L. 106–181, §121(c)(2), inserted before semicolon at end ", including closed circuit weather surveillance equipment if the airport is located in Alaska".
 
 Par. (3)(B)(vii), (viii). Pub. L. 106–181, §122, added cls. (vii) and (viii).
 
@@ -414,11 +414,11 @@ Par. (3)(H). Pub. L. 106–181, §123(b), added subpar. (H).
 
 Par. (3)(I). Pub. L. 106–181, §137(b), added subpar. (I).
 
-<b>1996</b>—Par. (3)(E). Pub. L. 104–264, §142(b)(1)(A), inserted “or under section 40117” before period at end.
+<b>1996</b>—Par. (3)(E). Pub. L. 104–264, §142(b)(1)(A), inserted "or under section 40117" before period at end.
 
-Par. (3)(F). Pub. L. 104–264, §142(b)(1)(B), struck out “paid for by a grant under this subchapter and” after “airport, if”.
+Par. (3)(F). Pub. L. 104–264, §142(b)(1)(B), struck out "paid for by a grant under this subchapter and" after "airport, if".
 
-<b>1994</b>—Par. (3)(B)(ii). Pub. L. 103–305 inserted “, including explosive detection devices and universal access systems,” after “or security equipment”.
+<b>1994</b>—Par. (3)(B)(ii). Pub. L. 103–305 inserted ", including explosive detection devices and universal access systems," after "or security equipment".
 
 #### Effective Date of 2003 Amendment
 
@@ -440,13 +440,13 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 Pub. L. 108–176, title I, §159(b)(2), Dec. 12, 2003, 117 Stat. 2510, provided that:
 
-“(A)
+"(A)
 
 Eligible low-emission modifications and improvements.—The Secretary of Transportation, in consultation with the Administrator of the Environmental Protection Agency, shall issue guidance describing eligible low-emission modifications and improvements, and stating how airport sponsors will demonstrate benefits, under section 47102(3)(K) of title 49, United States Code, as added by this subsection.
 
-“(B)
+"(B)
 
-Eligible low-emission vehicle technology.—The Secretary, in consultation with the Administrator, shall issue guidance describing eligible low-emission vehicle technology, and stating how airport sponsors will demonstrate benefits, under section 47102(3)(L) of title 49, United States Code, as added by this subsection.”
+Eligible low-emission vehicle technology.—The Secretary, in consultation with the Administrator, shall issue guidance describing eligible low-emission vehicle technology, and stating how airport sponsors will demonstrate benefits, under section 47102(3)(L) of title 49, United States Code, as added by this subsection."
 
 <i><sup>1</sup></i><i> So in original. There probably should be a second closing parenthesis.</i>
 

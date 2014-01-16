@@ -72,7 +72,7 @@ Procedures.—For a forensic pathology investigation under this section, the Arm
 
 (f)
 
-Definition of State.—In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and Guam.
+Definition of State.—In this section, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, and Guam.
 
 (Added Pub. L. 106–65, div. A, title VII, §721(a), Oct. 5, 1999, 113 Stat. 692.)
 

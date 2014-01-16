@@ -38,13 +38,13 @@
 
 (B) For press and poster advertisements, each such statement and (where applicable) any required statement relating to tar, nicotine, or other constituent yield shall comprise at least 20 percent of the area of the advertisement.
 
-(C) The word “WARNING” shall appear in capital letters, and each label statement shall appear in conspicuous and legible type.
+(C) The word "WARNING" shall appear in capital letters, and each label statement shall appear in conspicuous and legible type.
 
 (D) The text of the label statement shall be black on a white background, or white on a black background, in an alternating fashion under the plan submitted under paragraph (3).
 
-(E) The label statements shall be enclosed by a rectangular border that is the same color as the letters of the statements and that is the width of the first downstroke of the capital “W” of the word “WARNING” in the label statements.
+(E) The label statements shall be enclosed by a rectangular border that is the same color as the letters of the statements and that is the width of the first downstroke of the capital "W" of the word "WARNING" in the label statements.
 
-(F) The text of such label statements shall be in a typeface pro rata to the following requirements: 45-point type for a whole-page broadsheet newspaper advertisement; 39-point type for a half-page broadsheet newspaper advertisement; 39-point type for a whole-page tabloid newspaper advertisement; 27-point type for a half-page tabloid newspaper advertisement; 31.5-point type for a double page spread magazine or whole-page magazine advertisement; 22.5-point type for a 28 centimeter by 3 column advertisement; and 15-point type for a 20 centimeter by 2 column advertisement.
+(F) The text of such label statements shall be in a typeface pro rata to the following requirements: 45-point type for a whole-page broadsheet newspaper advertisement; 39-point type for a half-page broadsheet newspaper advertisement; 39-point type for a whole-page tabloid newspaper advertisement; 27-point type for a half-page tabloid newspaper advertisement; 31.5-point typefor a double page spread magazine or whole-page magazine advertisement; 22.5-point type for a 28 centimeter by 3 column advertisement; and 15-point type for a 20 centimeter by 2 column advertisement.
 
 (G) The label statements shall be in English, except that—
 
@@ -52,7 +52,7 @@
 
 &emsp;(ii) in the case of any other advertisement that is not in English, the statements shall appear in the same language as that principally used in the advertisement.
 
-(3)(A) The label statements specified in subsection (a)(1) shall be randomly displayed in each 12-month period, in as equal a number oftimes as is possible on each brand of the product and be randomly distributed in all areas of the United States in which the product is marketed in accordance with a plan submitted by the tobacco product manufacturer, importer, distributor, or retailer and approved by the Secretary.
+(3)(A) The label statements specified in subsection (a)(1) shall be randomly displayed in each 12-month period, in as equal a number of times as is possible on each brand of the product and be randomly distributed in all areas of the United States in which the product is marketed in accordance with a plan submitted by the tobacco product manufacturer, importer, distributor, or retailer and approved by the Secretary.
 
 (B) The label statements specified in subsection (a)(1) shall be rotated quarterly in alternating sequence in advertisements for each brand of smokeless tobacco product in accordance with a plan submitted by the tobacco product manufacturer, importer, distributor, or retailer to, and approved by, the Secretary.
 
@@ -88,7 +88,7 @@ Subsec. (d). Pub. L. 111–31, §205(a), amended section as amended by Pub. L. 1
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–31, div. A, title II, §204(b), June 22, 2009, 123 Stat. 1848, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 12 months after the date of enactment of this Act \[June 22, 2009\]. Such effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 3 of the Comprehensive Smokeless Tobacco Health Education Act of 1986 (15 U.S.C. 4402), as amended by subsection (a).”
+Pub. L. 111–31, div. A, title II, §204(b), June 22, 2009, 123 Stat. 1848, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 12 months after the date of enactment of this Act \[June 22, 2009\]. Such effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 3 of the Comprehensive Smokeless Tobacco Health Education Act of 1986 (15 U.S.C. 4402), as amended by subsection (a)."
 
 #### Effective Date
 

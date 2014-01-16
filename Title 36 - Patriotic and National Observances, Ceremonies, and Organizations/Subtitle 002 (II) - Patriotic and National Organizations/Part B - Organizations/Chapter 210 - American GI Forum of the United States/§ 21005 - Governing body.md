@@ -42,7 +42,7 @@ Aug. 13, 1998, Pub. L. 105–231, §§6, 7, 8(g) (related to directors and offic
 
 &nbsp;
 
-In subsections (a) and (b), the words “Except as provided in section 5908(g) of this title” and “and in conformity with the laws of the State of Texas” are omitted as unnecessary.
+In subsections (a) and (b), the words "Except as provided in section 5908(g) of this title" and "and in conformity with the laws of the State of Texas" are omitted as unnecessary.
 
-In subsection (c), the words “The requirements for serving as a director or officer” are substituted for “in determining the requirements for serving on the board of directors or as an officer of the association” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (c), the words "The requirements for serving as a director or officer" are substituted for "in determining the requirements for serving on the board of directors or as an officer of the association" for consistency in the revised title and to eliminate unnecessary words.
 

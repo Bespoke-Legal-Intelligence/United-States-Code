@@ -14,13 +14,13 @@ It shall be unlawful for any person, with intent to deceive the listening or vie
 
 &emsp;(5) To conspire with any other person or persons to do any act or thing prohibited by paragraph (1), (2), (3), or (4) of this subsection, if one or more of such persons do any act to effect the object of such conspiracy.
 
-#### (b) “Contest” and “the listening or viewing public” defined
+#### (b) "Contest" and "the listening or viewing public" defined
 
 For the purposes of this section—
 
-&emsp;(1) The term “contest” means any contest broadcast by a radio station in connectionwith which any money or any other thing of value is offered as a prize or prizes to be paid or presented by the program sponsor or by any other person or persons, as announced in the course of the broadcast.
+&emsp;(1) The term "contest" means any contest broadcast by a radio station in connectionwith which any money or any other thing of value is offered as a prize or prizes to be paid or presented by the program sponsor or by any other person or persons, as announced in the course of the broadcast.
 
-&emsp;(2) The term “the listening or viewing public” means those members of the public who, with the aid of radio receiving sets, listen to or view programs broadcast by radio stations.
+&emsp;(2) The term "the listening or viewing public" means those members of the public who, with the aid of radio receiving sets, listen to or view programs broadcast by radio stations.
 
 #### (c) Penalties
 

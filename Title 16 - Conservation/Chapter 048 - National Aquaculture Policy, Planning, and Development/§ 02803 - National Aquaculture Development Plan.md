@@ -4,7 +4,7 @@
 
 (1) Within eighteen months after September 26, 1980, the Secretaries shall establish the National Aquaculture Development Plan.
 
-(2) In developing the Plan, and revisions thereto under subsection (d) of this section, beginning not later than six months after September 26, 1980, the Secretary shall consult with the Secretary of Commerce and the Secretary of the Interior, other appropriate Federal officers, States, regional fishery management councils established under section 1852 of this title, and representatives of the aquaculture industry. In addition, the Secretary shall give interested persons and organizations an opportunity to comment during the development of the Plan.
+(2) In developing the Plan, and revisions thereto under subsection (d) of this section, beginning not later than six months after September 26, 1980, the Secretary shall consult with the Secretary of Commerce and the Secretary of the Interior, other appropriate Federal officers, States, regional fishery management councils established under section 1852 of this title, andrepresentatives of the aquaculture industry. In addition, the Secretary shall give interested persons and organizations an opportunity to comment during the development of the Plan.
 
 #### (b) Contents of Plan
 
@@ -94,13 +94,13 @@ Reorganization Plan Numbered 4 of 1970, referred to in subsec. (c)(A), is Reorg.
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
-<b>1985</b>—Subsec. (a)(2). Pub. L. 99–198, §1734(1)(A), (B), substituted “Secretary” for “Secretaries” wherever appearing and inserted provisions requiring consultations with the Secretary of Commerce and the Secretary of the Interior.
+<b>1985</b>—Subsec. (a)(2). Pub. L. 99–198, §1734(1)(A), (B), substituted "Secretary" for "Secretaries" wherever appearing and inserted provisions requiring consultations with the Secretary of Commerce and the Secretary of the Interior.
 
 Subsec. (a)(3). Pub. L. 99–198, §1734(1)(C), struck out par. (3) which provided for the establishment of an advisory committee to assist in the initial development of the Plan.
 
-Subsec. (b). Pub. L. 99–198, §1734(2), inserted “to” after “determine” in par. (1), substituted “Secretary deems” for “Secretaries deem” in par. (6), and substituted “Secretary” for “Secretaries” in provisions following par. (6).
+Subsec. (b). Pub. L. 99–198, §1734(2), inserted "to" after "determine" in par. (1), substituted "Secretary deems" for "Secretaries deem" in par. (6), and substituted "Secretary" for "Secretaries" in provisions following par. (6).
 
-Subsec. (c)(1). Pub. L. 99–198, §1734(3)(A), substituted “Secretary determines” for “Secretaries determine”.
+Subsec. (c)(1). Pub. L. 99–198, §1734(3)(A), substituted "Secretary determines" for "Secretaries determine".
 
 Subsec. (c)(2)(C). Pub. L. 99–198, §1734(3)(B)–(D), added subpar. (C).
 

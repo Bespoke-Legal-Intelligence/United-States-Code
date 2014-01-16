@@ -36,9 +36,9 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337, §1070(a)(3), substituted “November 30, 1993,” for “the date of the enactment of this section”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §1070(a)(3), substituted "November 30, 1993," for "the date of the enactment of this section".
 
 Subsec. (e). Pub. L. 103–337, §541(g), added subsec. (e).
 

@@ -22,19 +22,19 @@ For purposes of this subchapter, debt obligations of—
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–226, in concluding provisions, struck out before period at end “or to a debt obligation of a domestic corporation if any interest on such obligation, were such interest received by the decedent at the time of his death, would be treated by reason of section 861(a)(1)(A) as income from sources without the United States”.
+<b>2010</b>—Subsec. (c). Pub. L. 111–226, in concluding provisions, struck out before period at end "or to a debt obligation of a domestic corporation if any interest on such obligation, were such interest received by the decedent at the time of his death, would be treated by reason of section 861(a)(1)(A) as income from sources without the United States".
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–188 substituted “section 861(a)(1)(A)” for “subparagraph (A), (C), or (D) of section 861(a)(1)” in concluding provisions.
+<b>1996</b>—Subsec. (c). Pub. L. 104–188 substituted "section 861(a)(1)(A)" for "subparagraph (A), (C), or (D) of section 861(a)(1)" in concluding provisions.
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–647 substituted “subparagraph (A), (C), or (D) of section 861(a)(1)” for “section 861(a)(1)(B), section 861(a)(1)(G), or section 861(a)(1)(H)”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–647 substituted "subparagraph (A), (C), or (D) of section 861(a)(1)" for "section 861(a)(1)(B), section 861(a)(1)(G), or section 861(a)(1)(H)".
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted “and transfers within 3 years of death” for “and transfers in contemplation of death” after “Revocable transfers”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted "and transfers within 3 years of death" for "and transfers in contemplation of death" after "Revocable transfers".
 
 <b>1975</b>—Subsec. (c). Pub. L. 93–625 inserted reference to section 861(a)(1)(H) of this title in last sentence.
 
 <b>1973</b>—Subsec. (c). Pub. L. 93–17 made subsec. (c) inapplicable to debt obligations where interest on such obligations is treated as income from sources without the United States by reason of section 861(a)(1)(G) of this title.
 
-<b>1969</b>—Subsec. (c). Pub. L. 91–172 substituted “December 31, 1969” for “December 31, 1972” in provisions deeming deposit with a domestic branch of a foreign corporation if such branch is engaged in the commercial banking business to be property within the United States.
+<b>1969</b>—Subsec. (c). Pub. L. 91–172 substituted "December 31, 1969" for "December 31, 1972" in provisions deeming deposit with a domestic branch of a foreign corporation if such branch is engaged in the commercial banking business to be property within the United States.
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–809 added subsec. (c).
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 93–625 applicable with respect to estates of decedents dy
 
 #### Effective Date of 1973 Amendment
 
-Pub. L. 93–17, §3(a)(2), Apr. 10, 1973, 87 Stat. 12, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1972, except that in the case of the assumption of a debt obligation of a foreign corporation which is treated as issued under section 4912(c)(2) after December 31, 1972, and before January 1, 1974, the amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1973.”
+Pub. L. 93–17, §3(a)(2), Apr. 10, 1973, 87 Stat. 12, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1972, except that in the case of the assumption of a debt obligation of a foreign corporation which is treated as issued under section 4912(c)(2) after December 31, 1972, and before January 1, 1974, the amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1973."
 
 #### Effective Date of 1966 Amendment
 
@@ -64,5 +64,5 @@ Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dy
 
 #### Short Title of 1973 Amendment
 
-Pub. L. 93–17, §1(a), Apr. 10, 1973, 87 Stat. 12, provided that: “This Act \[enacting sections 4922 and 6689 of this title, amending this section and sections 4911, 4912, 4914, 4915, 4916, 4918, 4919, 4920, and 6611 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Interest Equalization Tax Extension Act of 1973’.”
+Pub. L. 93–17, §1(a), Apr. 10, 1973, 87 Stat. 12, provided that: "This Act \[enacting sections 4922 and 6689 of this title, amending this section and sections 4911, 4912, 4914, 4915, 4916, 4918, 4919, 4920, and 6611 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Interest Equalization Tax Extension Act of 1973'."
 

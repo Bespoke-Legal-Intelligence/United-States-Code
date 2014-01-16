@@ -60,7 +60,7 @@
 
 #### (6) Definition of State
 
-&emsp;For purposes of this subsection, the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;For purposes of this subsection, the term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 #### (c) Subgrants to local educational agencies
 
@@ -72,7 +72,7 @@
 
 #### (A) Minimum subgrant amount
 
-&emsp;&emsp;In making subgrants under paragraph (1), a State educational agency shall allocate toeach eligible local educational agency that receives such a subgrant, at a minimum, an amount that bears the same relation to the funds made available under subsection (b)(4) of this section as the amount the eligible local educational agency received under part A of this subchapter for the preceding fiscal year bears to the amount all the local educational agencies in the State received under part A of this subchapter for the preceding fiscal year.
+&emsp;&emsp;In making subgrants under paragraph (1), a State educational agency shall allocate to each eligible local educational agency that receives such a subgrant, at a minimum, an amount that bears the same relation to the funds made available under subsection (b)(4) of this section as the amount the eligible local educational agency received under part A of this subchapter for the preceding fiscal year bears to the amount all the local educational agencies in the State received under part A of this subchapter for the preceding fiscal year.
 
 #### (B) Priority
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;Subject to paragraph (8), an eligible local educational agency that receives a subgrant under this subsection may use the funds provided under the subgrant to carry out the following activities:
 
-&emsp;&emsp;&emsp;(i) Humanities-based family literacy programs (which may be referred to as “Prime Time Family Reading Time”) that bond families around the acts of reading and using public libraries.
+&emsp;&emsp;&emsp;(i) Humanities-based family literacy programs (which may be referred to as "Prime Time Family Reading Time") that bond families around the acts of reading and using public libraries.
 
 &emsp;&emsp;&emsp;(ii) Providing training in the essential components of reading instruction to a parent or other individual who volunteers to be a student's reading tutor, to enable such parent or individual to support instructional practices that are based on scientifically based reading research and are being used by the student's teacher.
 
@@ -202,7 +202,7 @@
 
 &emsp;&emsp;(B) to strengthen and enhance preservice courses for students preparing, at all public institutions of higher education in the State, to teach kindergarten through grade 3 by—
 
-&emsp;&emsp;&emsp;(i) reviewing such courses to determine whether the courses’ content is consistent with the findings of the most current scientifically based reading research, including findings on the essential components of reading instruction;
+&emsp;&emsp;&emsp;(i) reviewing such courses to determine whether the courses' content is consistent with the findings of the most current scientifically based reading research, including findings on the essential components of reading instruction;
 
 &emsp;&emsp;&emsp;(ii) following up such reviews with recommendations to ensure that such institutions offer courses that meet the highest standards; and
 
@@ -240,7 +240,7 @@
 
 &emsp;&emsp;&emsp;(i) Administering the distribution of competitive subgrants to eligible local educational agencies under subsection (c) of this section and section 6364(d) of this title.
 
-&emsp;&emsp;&emsp;(ii) Assessing and evaluating, on a regular basis, eligible local educational agency activities assisted under this subpart, with respect to whether they have been effective in increasing the number of children in grades 1, 2, and 3 served under this subpart who can read at or above grade level.
+&emsp;&emsp;&emsp;(ii) Assessing and evaluating, on a regular basis, eligible local educational agencyactivities assisted under this subpart, with respect to whether they have been effective in increasing the number of children in grades 1, 2, and 3 served under this subpart who can read at or above grade level.
 
 #### (C) Annual reporting
 
@@ -286,7 +286,7 @@
 
 #### (3) Consequences of insufficient progress
 
-&emsp;After submission of the progress report described in paragraph (1), if the Secretary determines that the State educational agency is not making significant progress in meetingthe purposes of this subpart, the Secretary may withhold from the State educational agency, in whole or in part, further payments under this section in accordance with section 1234d of this title or take such other action authorized by law as the Secretary determines necessary, including providing technical assistance upon request of the State educational agency.
+&emsp;After submission of the progress report described in paragraph (1), if the Secretary determines that the State educational agency is not making significant progress in meeting the purposes of this subpart, the Secretary may withhold from the State educational agency, in whole or in part, further payments under this section in accordance with section 1234d of this title or take such other action authorized by law as the Secretary determines necessary, including providing technical assistance upon request of the State educational agency.
 
 #### (f) Funds not used for State level activities
 
@@ -304,7 +304,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (c)(7)(A
 
 #### Prior Provisions
 
-A prior section 6362, Pub. L. 89–10, title I, §1202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3578; amended Pub. L. 105–220, title II, §251(b)(2)(A), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, §101(f) \[title VIII, §§201, 202\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407, 2681–408; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §§1604(c)–(e), 1606(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–329, 2763A–330, 2763A–334, authorized Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381a of this title.
+A prior section 6362, Pub. L. 89–10, title I, §1202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3578; amended Pub. L. 105–220, title II, §251(b)(2)(A),Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, §101(f) \[title VIII, §§201, 202\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407, 2681–408; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §§1604(c)–(e), 1606(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–329, 2763A–330, 2763A–334, authorized Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381a of this title.
 
 A prior section 1202 of Pub. L. 89–10 was classified to section 2782 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 

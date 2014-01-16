@@ -6,5 +6,5 @@ For purposes of carrying out the activities under this subchapter, there are aut
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–211, §242(b)(3)(A), substituted “2011 through 2015” for “2000 through 2004”.
+<b>2010</b>—Pub. L. 111–211, §242(b)(3)(A), substituted "2011 through 2015" for "2000 through 2004".
 

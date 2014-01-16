@@ -30,7 +30,7 @@ For purposes of this subpart:
 
 #### (1) Eligible applicant
 
-&emsp;The term “eligible applicant” means—
+&emsp;The term "eligible applicant" means—
 
 &emsp;&emsp;(A) one or more local educational agencies that are eligible to receive a subgrant under subpart 1 of this part;
 
@@ -40,11 +40,11 @@ For purposes of this subpart:
 
 #### (2) Scientifically based reading research
 
-&emsp;The term “scientifically based reading research” has the same meaning given to that term in section 6368 of this title.
+&emsp;The term "scientifically based reading research" has the same meaning given to that term in section 6368 of this title.
 
 #### (3) Screening reading assessment
 
-&emsp;The term “screening reading assessment” has the same meaning given to that term in section 6368 of this title.
+&emsp;The term "screening reading assessment" has the same meaning given to that term in section 6368 of this title.
 
 (Pub. L. 89–10, title I, §1221, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1552.)
 

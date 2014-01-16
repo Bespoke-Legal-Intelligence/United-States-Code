@@ -1,6 +1,6 @@
 ### §9503. Streamlined critical pay authority
 
-(a) Notwithstanding section 9502, and without regard to the provisions of this title governing appointments in the competitive service or the Senior Executive Service and chapters 51 and 53 (relating to classification and pay rates), the Secretary of the Treasury may, before July 23, 2013, establish, fix the compensation of, and appoint individuals to, designated critical administrative, technical, and professional positions needed to carry out the functions of the Internal Revenue Service, if—
+(a) Notwithstanding section 9502, and without regard to the provisions of this title governing appointments in the competitive service or the Senior Executive Service and chapters 51 and 53 (relating to classification and pay rates), the Secretary of the Treasury may, Before <sup>1</sup> September 30, 2013, establish, fix the compensation of, and appoint individuals to, designated critical administrative, technical, and professional positions needed to carry out the functions of the Internal Revenue Service, if—
 
 &emsp;(1) the positions—
 
@@ -24,7 +24,7 @@
 
 (b) Individuals appointed under this section shall not be considered to be employees for purposes of subchapter II of chapter 75.
 
-(Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 712; amended Pub. L. 110–161, div. D, title I, §105, Dec. 26, 2007, 121 Stat. 1977.)
+(Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 712; amended Pub. L. 110–161, div. D, title I, §105, Dec. 26, 2007, 121 Stat. 1977; Pub. L. 113–6, div. F, title III, §1309, Mar. 26, 2013, 127 Stat. 418.)
 
 #### References in Text
 
@@ -32,5 +32,9 @@ The provisions of this title governing appointments in the competitive service, 
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a). Pub. L. 113–6, which directed substitution of “Before September 30, 2013” for “Before July 23, 2013” wherever appearing, was executed by making the substitution for “before July 23, 2013” in introductory provisions to reflect the probable intent of Congress.
+
 <b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted “before July 23, 2013” for “for a period of 10 years after the date of enactment of this section” in introductory provisions.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

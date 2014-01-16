@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Pearl Harbor Survivors Association (in this chapter, the “corporation”), a nonprofit corporation incorporated in Missouri, is a federally chartered corporation.
+Federal Charter.—Pearl Harbor Survivors Association (in this chapter, the "corporation"), a nonprofit corporation incorporated in Missouri, is a federally chartered corporation.
 
 (b)
 

@@ -24,7 +24,7 @@ In making selections under subsection (b)(3) of this section the Secretary shall
 
 #### (e) Funding; types of awards
 
-Using sums in the Coastal Zone Management Fund established under section 1456a of this title and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title), the Secretary shall establish and execute appropriate awards, to be known as the “Walter B. Jones Awards”, including—
+Using sums in the Coastal Zone Management Fund established under section 1456a of this title and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title), the Secretary shall establish and execute appropriate awards, to be known as the "Walter B. Jones Awards", including—
 
 &emsp;(1) cash awards in an amount not to exceed $5,000 each;
 
@@ -40,5 +40,5 @@ A prior section 1460, Pub. L. 89–454, title III, §314, formerly §311, as add
 
 #### Amendments
 
-<b>1992</b>—Subsecs. (a), (e). Pub. L. 102–587, §2205(b)(20)(B), (C), after “under section 1456a of this title” inserted “and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title)”.
+<b>1992</b>—Subsecs. (a), (e). Pub. L. 102–587, §2205(b)(20)(B), (C), after "under section 1456a of this title" inserted "and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title)".
 

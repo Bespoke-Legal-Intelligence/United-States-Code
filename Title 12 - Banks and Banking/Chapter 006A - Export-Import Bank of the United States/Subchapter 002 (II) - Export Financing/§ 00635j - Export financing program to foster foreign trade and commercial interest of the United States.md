@@ -6,7 +6,7 @@ It is the policy of the Congress that the Export-Import Bank of the United State
 
 #### (b) Designation of transactions on books of the Bank; limitation on commitments
 
-The Bank shall specially designate loans, guarantees, and insurance on the books of the Bank made under authority of this subchapter. In connection with guarantees and insurance, not less than 25 per centum of the related contractual liability of the Bank shall be taken into account for the purpose of applying the limitation imposed by section 635e of this title; but the full amount of the related contractual liability of such guarantees and insurance shall be taken into account for the purpose of applying the limitation in section 635(c)(1) of this title, concerning the amount of guarantees and insurance the Bank may have outstanding at any one time thereunder. The aggregate amount of loans plus 25 per centum of the contractual liability of guarantees and insurance outstanding at any one time under this subchapter shall not exceed $500,000,000.
+The Bank shall specially designate loans, guarantees, and insurance on the books of theBank made under authority of this subchapter. In connection with guarantees and insurance, not less than 25 per centum of the related contractual liability of the Bank shall be taken into account for the purpose of applying the limitation imposed by section 635e of this title; but the full amount of the related contractual liability of such guarantees and insurance shall be taken into account for the purpose of applying the limitation in section 635(c)(1) of this title, concerning the amount of guarantees and insurance the Bank may have outstanding at any one time thereunder. The aggregate amount of loans plus 25 per centum of the contractual liability of guarantees and insurance outstanding at any one time under this subchapter shall not exceed $500,000,000.
 
 (Pub. L. 90–390, §1, July 7, 1968, 82 Stat. 296; Pub. L. 96–470, title I, §115, Oct. 19, 1980, 94 Stat. 2240.)
 
@@ -28,13 +28,13 @@ WHEREAS it is desirable and appropriate that guidance concerning the commercial 
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States, it is ordered as follows:
 
-Section 1. <i>Establishment of Advisory Committee</i>. (a) There is hereby established the Export Expansion Advisory Committee (hereinafter referred to as “the Committee”).
+Section 1. <i>Establishment of Advisory Committee</i>. (a) There is hereby established the Export Expansion Advisory Committee (hereinafter referred to as "the Committee").
 
 (b) The Committee shall be composed of the following members: the Secretary of Commerce, who shall be Chairman of the Committee, the Secretary of the Treasury, the Secretary of State, and the President and Chairman of the Board of the Export-Import Bank of the United States.
 
 Sec. 2. <i>Functions of the Committee</i>. The Committee shall review and make recommendations concerning applications and proposals for loans, guarantees, and insurance to be charged against allocations made to finance export expansion and shall provide guidance to the Board of Directors of the Bank concerning the use of such allocations with the view to fostering the foreign trade and long-term commercial interest of the United States.
 
-Sec. 3. <i>Construction</i>. Nothing in this order shall be construed to abrogate, modify, or restrict any function vested by law in, or assigned pursuant to law to, any Federal agency or any officer thereof or to any Federal interagency council or committee. As used herein the term “any Federal agency” includes any executive department and any other executive agency.
+Sec. 3. <i>Construction</i>. Nothing in this order shall be construed to abrogate, modify, or restrict any function vested by law in, or assigned pursuant to law to, any Federal agency or any officer thereof or to any Federal interagency council or committee. As used herein the term "any Federal agency" includes any executive department and any other executive agency.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

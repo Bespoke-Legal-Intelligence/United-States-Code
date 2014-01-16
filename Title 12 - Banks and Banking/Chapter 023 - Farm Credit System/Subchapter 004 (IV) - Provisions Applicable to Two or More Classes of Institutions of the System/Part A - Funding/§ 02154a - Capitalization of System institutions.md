@@ -6,7 +6,7 @@ As used in this section:
 
 #### (1) Permanent capital
 
-&emsp;The term “permanent capital” means—
+&emsp;The term "permanent capital" means—
 
 &emsp;&emsp;(A) current year retained earnings;
 
@@ -24,7 +24,7 @@ As used in this section:
 
 #### (2) Stock
 
-&emsp;The term “stock” means voting and nonvoting stock (including preferred stock), equivalent contributions to a guaranty fund, participation certificates, allocated equities, and other forms and types of equities.
+&emsp;The term "stock" means voting and nonvoting stock (including preferred stock), equivalent contributions to a guaranty fund, participation certificates, allocated equities, and other forms and types of equities.
 
 #### (b) Adoption of bylaws
 
@@ -70,7 +70,7 @@ Subject to approval by shareholders under subsection (c)(2) of this section, eac
 
 #### (2) Effective date
 
-&emsp;The bylaws adopted by the board of directors of a System institution under subsection (b) of this section shall take effect only on approval of a majority of the stockholders of such institution present and voting, or voting by written proxy, at a duly authorized stockholders’ meeting.
+&emsp;The bylaws adopted by the board of directors of a System institution under subsection (b) of this section shall take effect only on approval of a majority of the stockholders of such institution present and voting, or voting by written proxy, at a duly authorized stockholders' meeting.
 
 #### (d) Reduction of capital
 
@@ -130,23 +130,23 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>1996</b>—Subsecs. (f) to (h). Pub. L. 104–105 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–552 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘permanent capital’ means current year retained earnings, allocated and unallocated earnings, all surplus (less allowances for losses), and stock issued by a System institution, except stock that—
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–552 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'permanent capital' means current year retained earnings, allocated and unallocated earnings, all surplus (less allowances for losses), and stock issued by a System institution, except stock that—
 
-&emsp;“(A) may be retired by the holder thereof on repayment of the holder's loan, or otherwise at the option or request of the holder; or
+&emsp;"(A) may be retired by the holder thereof on repayment of the holder's loan, or otherwise at the option or request of the holder; or
 
-&emsp;“(B) is protected under section 2162 of this title or is otherwise not at risk.”
+&emsp;"(B) is protected under section 2162 of this title or is otherwise not at risk."
 
-<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–399, §301(b), substituted “section 2162 of this title” for “section 4.9B”.
+<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–399, §301(b), substituted "section 2162 of this title" for "section 4.9B".
 
-Subsec. (c)(1)(D)(i). Pub. L. 100–399, §301(c)(1), substituted “producers or” for “producers, or”.
+Subsec. (c)(1)(D)(i). Pub. L. 100–399, §301(c)(1), substituted "producers or" for "producers, or".
 
-Subsec. (c)(1)(G). Pub. L. 100–399, §301(c)(2), substituted “voting stock issued” for “stock issued”.
+Subsec. (c)(1)(G). Pub. L. 100–399, §301(c)(2), substituted "voting stock issued" for "stock issued".
 
-Subsec. (c)(1)(H). Pub. L. 100–399, §301(d), inserted “, except as otherwise provided in this section” after “the borrower”.
+Subsec. (c)(1)(H). Pub. L. 100–399, §301(d), inserted ", except as otherwise provided in this section" after "the borrower".
 
-Subsec. (c)(1)(I). Pub. L. 100–399, §301(e), struck out “standards issued under” after “established under”.
+Subsec. (c)(1)(I). Pub. L. 100–399, §301(e), struck out "standards issued under" after "established under".
 
-Subsec. (d)(1). Pub. L. 100–399, §301(f), struck out “and in section 2162 of this title” after “paragraph (2)” and “or allocated equities” after “retirement of stock”.
+Subsec. (d)(1). Pub. L. 100–399, §301(f), struck out "and in section 2162 of this title" after "paragraph (2)" and "or allocated equities" after "retirement of stock".
 
 #### Effective Date of 2008 Amendment
 

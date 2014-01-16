@@ -2,7 +2,7 @@
 
 (a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Homeland Security, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
 
-(b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
+(b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit undersection 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
 
 (c)(1) Under regulations prescribed by the Secretary concerned, an amount that a member of the uniformed services is administratively determined to owe the United States or any of its instrumentalities may be deducted from the member's pay in monthly installments.
 
@@ -38,7 +38,7 @@
 
 (3) The Secretaries concerned shall prescribe regulations to carry out this subsection.
 
-(4) In this subsection, the term “service relief society” means the Army Emergency Relief, the Air Force Aid Society, the Navy Relief Society, or the Coast Guard Mutual Assistance.
+(4) In this subsection, the term "service relief society" means the Army Emergency Relief, the Air Force Aid Society, the Navy Relief Society, or the Coast Guard Mutual Assistance.
 
 (i)(1) There shall be deducted each month from the pay of each enlisted member, warrant officer, and limited duty officer of the armed forces on active duty an amount (determined under paragraph (3)) not to exceed $1.00.
 
@@ -148,69 +148,69 @@ Provisions similar to those in subsec. (i) of this section were contained in sec
 
 #### Amendments
 
-<b>2010</b>—Subsec. (i)(3). Pub. L. 111–281, §205(b)(2)(A), inserted “or, in the case of the Coast Guard, the Commandant” after “Secretary of Defense”.
+<b>2010</b>—Subsec. (i)(3). Pub. L. 111–281, §205(b)(2)(A), inserted "or, in the case of the Coast Guard, the Commandant" after "Secretary of Defense".
 
-Subsec. (i)(4), (5). Pub. L. 111–281, §205(b)(2)(B), (C), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “In this subsection, the term ‘armed forces’ does not include the Coast Guard when it is not operating as a service in the Navy.”
+Subsec. (i)(4), (5). Pub. L. 111–281, §205(b)(2)(B), (C), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "In this subsection, the term 'armed forces' does not include the Coast Guard when it is not operating as a service in the Navy."
 
-<b>2009</b>—Subsec. (c)(3). Pub. L. 111–84, §661(a), (b), designated existing provisions as subpar. (A), substituted “15 percent” for “20 percent”, and added subpar. (B).
+<b>2009</b>—Subsec. (c)(3). Pub. L. 111–84, §661(a), (b), designated existing provisions as subpar. (A), substituted "15 percent" for "20 percent", and added subpar. (B).
 
-Subsec. (c)(4). Pub. L. 111–84, §661(c), amended par. (4) generally. Prior to amendment, text read as follows: “If a member of the uniformed services is injured or wounded under the circumstances described in section 310(a)(2)(C) of this title or, while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary of Defense, any overpayment of pay or allowances made to the member while the member recovers from the wound, injury, or illness may not be deducted from the member's pay until—
+Subsec. (c)(4). Pub. L. 111–84, §661(c), amended par. (4) generally. Prior to amendment, text read as follows: "If a member of the uniformed services is injured or wounded under the circumstances described in section 310(a)(2)(C) of this title or, while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary of Defense, any overpayment of pay or allowances made to the member while the member recovers from the wound, injury, or illness may not be deducted from the member's pay until—
 
-&emsp;“(A) the end of the 90-day period beginning on the date on which the member is notified of the overpayment; or
+&emsp;"(A) the end of the 90-day period beginning on the date on which the member is notified of the overpayment; or
 
-&emsp;“(B) such earlier date as may be requested or agreed to by the member.”
+&emsp;"(B) such earlier date as may be requested or agreed to by the member."
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–364 designated existing provisions as pars. (1) and (2), in pars. (1) and (2) substituted “the member's pay” for “his pay”, in par. (2) substituted “After” for “However, after” and inserted “by a member of the uniformed services” after “actually received”, and added pars. (3) and (4).
+<b>2006</b>—Subsec. (c). Pub. L. 109–364 designated existing provisions as pars. (1) and (2), in pars. (1) and (2) substituted "the member's pay" for "his pay", in par. (2) substituted "After" for "However, after" and inserted "by a member of the uniformed services" after "actually received", and added pars. (3) and (4).
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-Subsec. (e). Pub. L. 107–314 substituted “Army, Navy, Air Force, or Marine Corps” for “Army or the Air Force”.
+Subsec. (e). Pub. L. 107–314 substituted "Army, Navy, Air Force, or Marine Corps" for "Army or the Air Force".
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–65 struck out at end “An amount due the United States from an enlisted member of the Army or the Air Force for tobacco sold to him by the United States under section 4623 or 9623 of title 10 shall be deducted from his pay in the manner provided for the settlement of clothing accounts.”
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 struck out at end "An amount due the United States from an enlisted member of the Army or the Air Force for tobacco sold to him by the United States under section 4623 or 9623 of title 10 shall be deducted from his pay in the manner provided for the settlement of clothing accounts."
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201 inserted “(or the Secretary of Transportation, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 inserted "(or the Secretary of Transportation, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy)" after "Secretary of Defense".
 
-Pub. L. 104–106 substituted “Secretary of Defense, or upon the denial of relief of an officer pursuant to section 3527 of title 31” for “Secretary concerned”.
+Pub. L. 104–106 substituted "Secretary of Defense, or upon the denial of relief of an officer pursuant to section 3527 of title 31" for "Secretary concerned".
 
-<b>1994</b>—Subsec. (i)(1). Pub. L. 103–337 substituted “$1.00” for “50 cents”.
+<b>1994</b>—Subsec. (i)(1). Pub. L. 103–337 substituted "$1.00" for "50 cents".
 
-<b>1992</b>—Subsec. (i)(3). Pub. L. 102–484 substituted “, warrant officers, and limited duty officers” for “and warrant officers”.
+<b>1992</b>—Subsec. (i)(3). Pub. L. 102–484 substituted ", warrant officers, and limited duty officers" for "and warrant officers".
 
-<b>1991</b>—Subsec. (d). Pub. L. 102–25 struck out “of this section” after “subsection (c)”.
+<b>1991</b>—Subsec. (d). Pub. L. 102–25 struck out "of this section" after "subsection (c)".
 
-<b>1990</b>—Subsec. (i)(1). Pub. L. 101–510, §1533(b)(1), substituted “, warrant officer, and limited duty officer” for “and warrant officer”.
+<b>1990</b>—Subsec. (i)(1). Pub. L. 101–510, §1533(b)(1), substituted ", warrant officer, and limited duty officer" for "and warrant officer".
 
-Subsec. (i)(2). Pub. L. 101–510, §1533(b)(2), added par. (2) and struck out former par. (2) which read as follows: “Amounts deducted under paragraph (1) shall be—
+Subsec. (i)(2). Pub. L. 101–510, §1533(b)(2), added par. (2) and struck out former par. (2) which read as follows: "Amounts deducted under paragraph (1) shall be—
 
-&emsp;“(A) deposited in the Soldiers’ Home, permanent fund, in the case of deductions from the pay of enlisted members and warrant officers in the Army and Air Force; and
+&emsp;"(A) deposited in the Soldiers' Home, permanent fund, in the case of deductions from the pay of enlisted members and warrant officers in the Army and Air Force; and
 
-&emsp;“(B) credited to the funds available for the operation of the Naval Home, in the case of deductions from the pay of enlisted members and warrant officers in the Navy, Marine Corps, or Coast Guard (when it is operating as a service in the Navy).”
+&emsp;"(B) credited to the funds available for the operation of the Naval Home, in the case of deductions from the pay of enlisted members and warrant officers in the Navy, Marine Corps, or Coast Guard (when it is operating as a service in the Navy)."
 
-Subsec. (i)(2)(B). Pub. L. 101–510, §1533(b)(1), which directed amendment of subpar. (B) by substituting “, warrant officer, and limited duty officer” for “and warrant officer”, could not be executed because the words “and warrant officer” did not appear.
+Subsec. (i)(2)(B). Pub. L. 101–510, §1533(b)(1), which directed amendment of subpar. (B) by substituting ", warrant officer, and limited duty officer" for "and warrant officer", could not be executed because the words "and warrant officer" did not appear.
 
-Subsec. (i)(3). Pub. L. 101–510, §1533(b)(3), substituted “Armed Forces Retirement Home Board” for “Governor of the Naval Home and the board of commissioners for the United States Soldiers’ and Airmen's Home” and “of the Armed Forces Retirement Home” for “of the homes”.
+Subsec. (i)(3). Pub. L. 101–510, §1533(b)(3), substituted "Armed Forces Retirement Home Board" for "Governor of the Naval Home and the board of commissioners for the United States Soldiers' and Airmen's Home" and "of the Armed Forces Retirement Home" for "of the homes".
 
-Pub. L. 101–510, §1533(b)(1), which directed amendment of par. (3) by substituting “, warrant officer, and limited duty officer” for “and warrant officer”, could not be executed because the words “and warrant officer” did not appear.
+Pub. L. 101–510, §1533(b)(1), which directed amendment of par. (3) by substituting ", warrant officer, and limited duty officer" for "and warrant officer", could not be executed because the words "and warrant officer" did not appear.
 
-Subsec. (i)(5). Pub. L. 101–510, §1533(b)(4), substituted “, warrant officer, or limited duty officer” for “or warrant officer”.
+Subsec. (i)(5). Pub. L. 101–510, §1533(b)(4), substituted ", warrant officer, or limited duty officer" for "or warrant officer".
 
 <b>1989</b>—Subsec. (i). Pub. L. 101–189 added subsec. (i).
 
 <b>1987</b>—Subsec. (h). Pub. L. 100–180 added subsec. (h).
 
-<b>1985</b>—Subsec. (c). Pub. L. 99–145 substituted “uniformed services” for “armed forces”.
+<b>1985</b>—Subsec. (c). Pub. L. 99–145 substituted "uniformed services" for "armed forces".
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–525 substituted “a member of the armed forces” for “an enlisted member of the Army or the Air Force”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–525 substituted "a member of the armed forces" for "an enlisted member of the Army or the Air Force".
 
 <b>1967</b>—Subsec. (b). Pub. L. 90–83 struck out requirement that, in case of a member of the Army, the report be made to Chief of Finance.
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–718, §71, substituted “section 5512 of title 5” for “section 82 of title 5”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718, §71, substituted "section 5512 of title 5" for "section 82 of title 5".
 
-Subsec. (c). Pub. L. 89–718, §72, substituted “pay” for “basic pay” as the amount which cannot be reduced below one-third through deductions from enlisted men of the Army or Air Force who have been administratively determined to owe the United States, payable by deductions in monthly installments.
+Subsec. (c). Pub. L. 89–718, §72, substituted "pay" for "basic pay" as the amount which cannot be reduced below one-third through deductions from enlisted men of the Army or Air Force who have been administratively determined to owe the United States, payable by deductions in monthly installments.
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title VI, §661(d), Oct. 28, 2009, 123 Stat. 2370, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to an overpayment of pay or allowances made to a member of the uniformed services after the date of the enactment of this Act \[Oct. 28, 2009\].”
+Pub. L. 111–84, div. A, title VI, §661(d), Oct. 28, 2009, 123 Stat. 2370, provided that: "The amendments made by this section \[amending this section\] shall apply only with respect to an overpayment of pay or allowances made to a member of the uniformed services after the date of the enactment of this Act \[Oct. 28, 2009\]."
 
 #### Effective Date of 2002 Amendments
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–337, div. A, title III, §371(d)(1), Oct. 5, 1994, 108 Stat. 2735, provided that: “(1) The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1995, and apply to years that begin on or after that date.”
+Pub. L. 103–337, div. A, title III, §371(d)(1), Oct. 5, 1994, 108 Stat. 2735, provided that: "(1) The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1995, and apply to years that begin on or after that date."
 
 #### Effective Date of 1990 Amendment
 
@@ -230,13 +230,13 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 
 Pub. L. 101–189, div. A, title III, §343(b), Nov. 29, 1989, 103 Stat. 1421, provided that:
 
-“(1) Except as provided in paragraph (2), subsection (i) of section 1007 of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].
+"(1) Except as provided in paragraph (2), subsection (i) of section 1007 of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].
 
-“(2) With respect to deductions from the pay of an enlisted member or warrant officer in the Navy, Marine Corps, or Coast Guard (when it is operating as a service in the Navy), such subsection shall take effect on October 1, 1990.”
+"(2) With respect to deductions from the pay of an enlisted member or warrant officer in the Navy, Marine Corps, or Coast Guard (when it is operating as a service in the Navy), such subsection shall take effect on October 1, 1990."
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–180, div. A, title VI, §633(b), Dec. 4, 1987, 101 Stat. 1106, provided that: “Subsection (h) of section 1007 of title 37, United States Code (as added by subsection (a)), shall apply with respect to debts incurred by members of the uniformed services after the date of the enactment of this Act \[Dec. 4, 1987\].”
+Pub. L. 100–180, div. A, title VI, §633(b), Dec. 4, 1987, 101 Stat. 1106, provided that: "Subsection (h) of section 1007 of title 37, United States Code (as added by subsection (a)), shall apply with respect to debts incurred by members of the uniformed services after the date of the enactment of this Act \[Dec. 4, 1987\]."
 
 #### Transfer of Functions
 

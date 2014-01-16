@@ -12,9 +12,7 @@
 
 > &emsp;not to exceed (from such funds not otherwise appropriated) $820,000,000 in fiscal year 2006.
 
-#### (2) Mandatory funds for eligible not-for-profit servicers
-
-&emsp;For fiscal years 2010 through 2019, there shall be available to the Secretary, in addition toany other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated, funds to be obligated for administrative costs of servicing contracts with eligible not-for-profit servicers as described in section 1087f of this title.
+#### (2) Repealed. Pub. L. 113–67, div. A, title V, §502(2), Dec. 26, 2013, 127 Stat. 1187
 
 #### (3) Authorization for administrative costs beginning in fiscal years 2007 through 2014
 
@@ -40,7 +38,7 @@
 
 #### (C) Definition
 
-&emsp;&emsp;In this paragraph, the term “assistance” means the provision of technical support, training, materials, technical assistance, and financial assistance.
+&emsp;&emsp;In this paragraph, the term "assistance" means the provision of technical support, training, materials, technical assistance, and financial assistance.
 
 #### (7) Additional payments
 
@@ -64,7 +62,7 @@ Account maintenance fees payable to guaranty agencies under subsection (a)(4) sh
 
 No funds may be expended under this section unless the Secretary includes in the Department of Education's annual budget justification to Congress a detailed description of the specific activities for which the funds made available by this section have been used in the prior and current years (if applicable), the activities and costs planned for the budget year, and the projection of activities and costs for each remaining year for which administrative expenses under this section are made available.
 
-(Pub. L. 89–329, title IV, §458, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 573; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 353; Pub. L. 104–19, title I, §601, July 27, 1995, 109 Stat. 219; Pub. L. 105–33, title VI, §6103, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(l), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §454, Oct. 7, 1998, 112 Stat. 1717; Pub. L. 109–171, title VIII, §8015, Feb. 8, 2006, 120 Stat. 172; Pub. L. 109–292, §5, Sept. 30, 2006, 120 Stat. 1341; Pub. L. 110–84, title III, §306, Sept. 27, 2007, 121 Stat. 800; Pub. L. 110–315, title IV, §452, Aug. 14, 2008, 122 Stat. 3263; Pub. L. 111–152, title II, §2212(b), Mar. 30, 2010, 124 Stat. 1080.)
+(Pub. L. 89–329, title IV, §458, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 573; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 353; Pub. L. 104–19, title I, §601, July 27, 1995, 109 Stat. 219; Pub. L. 105–33, title VI, §6103, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(l), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §454, Oct. 7, 1998, 112 Stat. 1717; Pub. L. 109–171, title VIII, §8015, Feb. 8, 2006, 120 Stat. 172; Pub. L. 109–292, §5, Sept. 30, 2006, 120 Stat. 1341; Pub. L. 110–84, title III, §306, Sept. 27, 2007, 121 Stat. 800; Pub. L. 110–315, title IV, §452, Aug. 14, 2008, 122 Stat. 3263; Pub. L. 111–152, title II, §2212(b), Mar. 30, 2010, 124 Stat. 1080; Pub. L. 113–67, div. A, title V, §502(2), Dec. 26, 2013, 127 Stat. 1187.)
 
 #### References in Text
 
@@ -72,35 +70,37 @@ Paragraph (3), referred to in subsec. (a)(5), was redesignated par. (4) by Pub. 
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a)(2). Pub. L. 113–67 struck out par. (2). Text read as follows: "For fiscal years 2010 through 2019, there shall be available to the Secretary, in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated, funds to be obligated for administrative costs of servicing contracts with eligible not-for-profit servicers as described in section 1087f of this title."
+
 <b>2010</b>—Subsec. (a)(2) to (8). Pub. L. 111–152, §2212(b)(1), added pars. (2), (6), and (7) and redesignated former pars. (2), (3), (4), and (5) as (3), (4), (5), and (8), respectively.
 
-Subsec. (b). Pub. L. 111–152, §2212(b)(2), substituted “subsection (a)(4)” for “subsection (a)(3)”.
+Subsec. (b). Pub. L. 111–152, §2212(b)(2), substituted "subsection (a)(4)" for "subsection (a)(3)".
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–315, §452(1), substituted “2014” for “2011” in heading and text.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–315, §452(1), substituted "2014" for "2011" in heading and text.
 
-Subsec. (a)(3). Pub. L. 110–315, §452(2), substituted “2014” for “2011”.
+Subsec. (a)(3). Pub. L. 110–315, §452(2), substituted "2014" for "2011".
 
-<b>2007</b>—Subsec. (b). Pub. L. 110–84 substituted “0.06 percent” for “0.10 percent”.
+<b>2007</b>—Subsec. (b). Pub. L. 110–84 substituted "0.06 percent" for "0.10 percent".
 
 <b>2006</b>—Pub. L. 109–171 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to administrative expenses, calculation basis for account maintenance fees payable to guaranty agencies, special rules relating to caps on account maintenance fees and insufficient funding, and budget justification for funds expended, respectively.
 
-Subsec. (b). Pub. L. 109–292 substituted “shall be calculated on” for “shall not exceed”.
+Subsec. (b). Pub. L. 109–292 substituted "shall be calculated on" for "shall not exceed".
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–244, §454(1), amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) related to availability of funds for administrative costs and cost allowances.
 
-Subsec. (b). Pub. L. 105–244, §454(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Funds made available under subsection (a) of this section shall remain available until expended.”
+Subsec. (b). Pub. L. 105–244, §454(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Funds made available under subsection (a) of this section shall remain available until expended."
 
 Subsec. (c). Pub. L. 105–244, §454(5), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 105–244, §454(4), redesignated subsec. (c) as (d).
 
-Pub. L. 105–244, §454(3), struck out heading and text of subsec. (d). Text read as follows: “In the event the Secretary finds it necessary to use the authority provided to the Secretary under subsection (a) of this section to draw funds for administrative expenses from a future year's funds, no funds may be expended under this section unless the Secretary immediately notifies the Committees on Appropriations of the Senate and of the House of Representatives, and the Labor and Human Resources Committee of the Senate and the Education and Labor Committee of the House of Representatives, of such action and explain the reasons for such action.”
+Pub. L. 105–244, §454(3), struck out heading and text of subsec. (d). Text read as follows: "In the event the Secretary finds it necessary to use the authority provided to the Secretary under subsection (a) of this section to draw funds for administrative expenses from a future year's funds, no funds may be expended under this section unless the Secretary immediately notifies the Committees on Appropriations of the Senate and of the House of Representatives, and the Labor and Human Resources Committee of the Senate and the Education and Labor Committee of the House of Representatives, of such action and explain the reasons for such action."
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Each fiscal year, there shall be available to the Secretary of Education from funds available pursuant to section 1072(g) of this title and from funds not otherwise appropriated, funds to be obligated for administrative costs under this part, including the costs of the transition from the loan programs under part B of this subchapter to the direct student loan programs under this part (including the costs of annually assessing the program under this part and the progress of the transition) and transition support (including administrative costs) for the expenses of guaranty agencies in servicing outstanding loans in their portfolios and in guaranteeing new loans, not to exceed (from such funds not otherwise appropriated) $260,000,000 in fiscal year 1994, $284,000,000 in fiscal year 1995, $550,000,000 in fiscal year 1996, $595,000,000 in fiscal year 1997, and $750,000,000 in fiscal year 1998. If in any fiscal year the Secretary determines that additional funds for administrative expenses are needed as a result of such transition or the expansion of the direct student loan programs under this part, the Secretary is authorized to use funds available under this section for a subsequent fiscal year for such expenses, except that the total expenditures by the Secretary (from such funds not otherwise appropriated) shall not exceed $2,439,000,000 in fiscal years 1994 through 1998. The Secretary is also authorized to carry over funds available under this section to a subsequent fiscal year.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–33 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "Each fiscal year, there shall be available to the Secretary of Education from funds available pursuant to section 1072(g) of this title and from funds not otherwise appropriated, funds to be obligated for administrative costs under this part, including the costs of the transition from the loan programs under part B of this subchapter to the direct student loan programs under this part (including the costs of annually assessing the program under this part and the progress of the transition) and transition support (including administrative costs) for the expenses of guaranty agencies in servicing outstanding loans in their portfolios and in guaranteeing new loans, not to exceed (from such funds not otherwise appropriated) $260,000,000 in fiscal year 1994, $284,000,000 in fiscal year 1995, $550,000,000 in fiscal year 1996, $595,000,000 in fiscal year 1997, and $750,000,000 in fiscal year 1998. If in any fiscal year the Secretary determines that additional funds for administrative expenses are needed as a result of such transition or the expansion of the direct student loan programs under this part, the Secretary is authorized to use funds available under this section for a subsequent fiscal year for such expenses, except that the total expenditures by the Secretary (from such funds not otherwise appropriated) shall not exceed $2,439,000,000 in fiscal years 1994 through 1998. The Secretary is also authorized to carry over funds available under this section to a subsequent fiscal year."
 
-Subsec. (a)(1). Pub. L. 105–78 substituted “$507,000,000” for “$532,000,000” in closing provisions.
+Subsec. (a)(1). Pub. L. 105–78 substituted "$507,000,000" for "$532,000,000" in closing provisions.
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–19 substituted “$284,000,000 in fiscal year 1995” for “$345,000,000 in fiscal year 1995” and “$2,439,000,000 in fiscal years 1994 through 1998” for “$2,500,000,000 in fiscal years 1994 through 1998”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–19 substituted "$284,000,000 in fiscal year 1995" for "$345,000,000 in fiscal year 1995" and "$2,439,000,000 in fiscal years 1994 through 1998" for "$2,500,000,000 in fiscal years 1994 through 1998".
 
 <b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to funds for administrative expenses for former provisions relating to reports.
 
@@ -122,11 +122,11 @@ Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a
 
 #### Construction
 
-Pub. L. 105–78, title VI, §609(m), Nov. 13, 1997, 111 Stat. 1524, provided that: “Nothing in this Act \[see Tables for classification\] or an amendment made by this Act shall be construed to prohibit the Secretary of Education from using funds that are returned or otherwise recovered by the Secretary under section 422(g) of the Higher Education Act of 1965 (20 U.S.C. 1072(g)) including the balances of returned reserve funds, formerly held by the Higher Education Assistance Foundation, that are currently held in Higher Education Assistance Foundation Claims Reserves, Treasury account number 91X6192, for expenditure for expenses pursuant to section 458 of such Act (20 U.S.C. 1087h).”
+Pub. L. 105–78, title VI, §609(m), Nov. 13, 1997, 111 Stat. 1524, provided that: "Nothing in this Act \[see Tables for classification\] or an amendment made by this Act shall be construed to prohibit the Secretary of Education from using funds that are returned or otherwise recovered by the Secretary under section 422(g) of the Higher Education Act of 1965 (20 U.S.C. 1072(g)) including the balances of returned reserve funds, formerly held by the Higher Education Assistance Foundation, that are currently held in Higher Education Assistance Foundation Claims Reserves, Treasury account number 91X6192, for expenditure for expenses pursuant to section 458 of such Act (20 U.S.C. 1087h)."
 
 #### Use of Funds for Administrative Expenses of William D. Ford Direct Loan Program Prohibited
 
-Pub. L. 104–208, div. A, title I, §101(e) \[title III, §304\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–261, provided in part that: “Notwithstanding section 458 of the Higher Education Act \[of 1965\] \[20 U.S.C. 1087h\], the Secretary may not use funds available under that section or any other section for subsequent fiscal years for administrative expenses of the William D. Ford Direct Loan Program.”
+Pub. L. 104–208, div. A, title I, §101(e) \[title III, §304\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–261, provided in part that: "Notwithstanding section 458 of the Higher Education Act \[of 1965\] \[20 U.S.C. 1087h\], the Secretary may not use funds available under that section or any other section for subsequent fiscal years for administrative expenses of the William D. Ford Direct Loan Program."
 
 Similar provisions were contained in the following prior appropriation act:
 

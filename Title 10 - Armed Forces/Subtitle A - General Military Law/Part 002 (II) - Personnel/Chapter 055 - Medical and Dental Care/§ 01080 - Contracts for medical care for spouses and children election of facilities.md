@@ -14,7 +14,7 @@ Waivers and Exceptions to Requirements.—(1) A covered beneficiary enrolled in 
 
 (2) The Secretary of Defense may waive the requirement to obtain nonavailability-of-health-care statements following an evaluation of the effectiveness of such statements in optimizing the use of facilities of the uniformed services.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–557, §19(8), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 103–160, div. A, title VII, §716(b)(1), Nov. 30, 1993, 107 Stat. 1692; Pub. L. 104–201, div. A, title VII,§734(a)(1), (b)(1), (c), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, §712(c), Oct. 5, 1999, 113 Stat. 687.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–557, §19(8), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 103–160, div. A, title VII, §716(b)(1), Nov. 30, 1993, 107 Stat. 1692; Pub. L. 104–201, div. A, title VII, §734(a)(1), (b)(1), (c), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, §712(c), Oct. 5, 1999, 113 Stat. 687.)
 
 Historical and Revision Notes
 
@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 June 7, 1956, ch. 374, §201(c), 70 Stat. 252.
 
-The words “a plan contracted for under section 1079 of this title” are substituted for the words “such insurance, medical service, or health plan or plans as may be provided by the authority contained in this section”. The words “under the terms of this chapter” are omitted as surplusage.
+The words "a plan contracted for under section 1079 of this title" are substituted for the words "such insurance, medical service, or health plan or plans as may be provided by the authority contained in this section". The words "under the terms of this chapter" are omitted as surplusage.
 
 #### Prior Provisions
 
@@ -38,11 +38,11 @@ A prior section 1080, act Aug. 10, 1956, ch. 1041, 70A Stat. 85, related to styl
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–65 inserted at end “Notwithstanding any other provision of law, with respect to obstetrics and gynecological care for beneficiaries not enrolled in a managed care plan offered pursuant to any contract or agreement under this chapter, a nonavailability-of-health-care statement shall be required for receipt of health care services related to outpatient prenatal, outpatient or inpatient delivery, and outpatient post-partum care subsequent to the visit which confirms the pregnancy.”
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 inserted at end "Notwithstanding any other provision of law, with respect to obstetrics and gynecological care for beneficiaries not enrolled in a managed care plan offered pursuant to any contract or agreement under this chapter, a nonavailability-of-health-care statement shall be required for receipt of health care services related to outpatient prenatal, outpatient or inpatient delivery, and outpatient post-partum care subsequent to the visit which confirms the pregnancy."
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201, §734(a)(1), inserted “inpatient” before “medical care” in first sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §734(a)(1), inserted "inpatient" before "medical care" in first sentence.
 
-Subsec. (b). Pub. L. 104–201, §734(c), substituted “Nonavailability-of-Health-Care Statements” for “Nonavailability of Health Care Statements” in heading and “nonavailability-of-health-care statement” for “nonavailability of health care statement” in text.
+Subsec. (b). Pub. L. 104–201, §734(c), substituted "Nonavailability-of-Health-Care Statements" for "Nonavailability of Health Care Statements" in heading and "nonavailability-of-health-care statement" for "nonavailability of health care statement" in text.
 
 Subsec. (c). Pub. L. 104–201, §734(b)(1), added subsec. (c).
 
@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 104–201, §734(b)(1), added subsec. (c).
 
 <b>1984</b>—Pub. L. 98–557 substituted reference to administering Secretaries for reference to Secretary of Health and Human Services.
 
-<b>1980</b>—Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1980</b>—Pub. L. 96–513 substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare".
 
 #### Effective Date of 1980 Amendment
 

@@ -10,7 +10,7 @@ In General.—Any person at any time may cite to the Office in writing—
 
 (b)
 
-Official File.—If the person citing prior art or written statements pursuant to subsection (a) explains in writing the pertinence and manner of applying the prior art or written statements to at least 1 claim of the patent, the citation of the prior art or written statements and the explanation thereof shall become a part of the official file of the patent.
+Official File.—If the person citing prior art or written statements pursuant to subsection (a) explains in writing the pertinenceand manner of applying the prior art or written statements to at least 1 claim of the patent, the citation of the prior art or written statements and the explanation thereof shall become a part of the official file of the patent.
 
 (c)
 
@@ -28,11 +28,11 @@ Confidentiality.—Upon the written request of the person citing prior art or wr
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 amended section generally. Prior to amendment, text read as follows: “Any person at any time may cite to the Office in writing prior art consisting of patents or printed publications which that person believes to have a bearing on the patentability of any claim of a particular patent. If the person explains in writing the pertinency and manner of applying such prior art to at least one claim of the patent, the citation of such prior art and the explanation thereof will become a part of the official file of the patent. At the written request of the person citing the prior art, his or her identity will be excluded from the patent file and kept confidential.”
+<b>2011</b>—Pub. L. 112–29 amended section generally. Prior to amendment, text read as follows: "Any person at any time may cite to the Office in writing prior art consisting of patents or printed publications which that person believes to have a bearing on the patentability of any claim of a particular patent. If the person explains in writing the pertinency and manner of applying such prior art to at least one claim of the patent, the citation of such prior art and the explanation thereof will become a part of the official file of the patent. At the written request of the person citing the prior art, his or her identity will be excluded from the patent file and kept confidential."
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–29, §6(g)(3), Sept. 16, 2011, 125 Stat. 312, provided that: “The amendments made by this subsection \[amending this section\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent issued before, on, or after that effective date.”
+Pub. L. 112–29, §6(g)(3), Sept. 16, 2011, 125 Stat. 312, provided that: "The amendments made by this subsection \[amending this section\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent issued before, on, or after that effective date."
 
 #### Effective Date
 

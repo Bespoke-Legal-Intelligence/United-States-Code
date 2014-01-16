@@ -106,7 +106,7 @@ Section is comprised of section 103 of Pub. L. 105–185. Subsec. (f) of section
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(c)(30), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service” in heading and “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service” in text of pars. (1) and (2)(A).
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(c)(30), substituted "National Institute of Food and Agriculture" for "Cooperative State Research, Education, and Extension Service" in heading and "the National Institute of Food and Agriculture" for "the Cooperative State Research, Education, and Extension Service" in text of pars. (1) and (2)(A).
 
 Subsec. (a)(3). Pub. L. 110–246, §7301, added par. (3).
 

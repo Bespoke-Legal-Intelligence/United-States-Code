@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Costs.—The term “costs”, with respect to a proceeding, means all costs incurred by a contractor, whether before or after the commencement of the proceeding, including—
+Costs.—The term "costs", with respect to a proceeding, means all costs incurred by a contractor, whether before or after the commencement of the proceeding, including—
 
 &emsp;&emsp;(A) administrative and clerical expenses;
 
@@ -18,11 +18,11 @@ Costs.—The term “costs”, with respect to a proceeding, means all costs inc
 
 &emsp;(2)
 
-Penalty.—The term “penalty” does not include restitution, reimbursement, or compensatory damages.
+Penalty.—The term "penalty" does not include restitution, reimbursement, or compensatory damages.
 
 &emsp;(3)
 
-Proceeding.—The term “proceeding” includes an investigation.
+Proceeding.—The term "proceeding" includes an investigation.
 
 (b)
 
@@ -86,7 +86,7 @@ Content of regulations.—Regulations issued for the purpose of subparagraph (A)
 
 &emsp;(3)
 
-When otherwise allowable costs are not allowable.—In the case of a proceedingreferred to in paragraph (1), contractor costs otherwise allowable as reimbursable costs under this subsection are not allowable if—
+When otherwise allowable costs are not allowable.—In the case of a proceeding referred to in paragraph (1), contractor costs otherwise allowable as reimbursable costs under this subsection are not allowable if—
 
 &emsp;&emsp;(A) the proceeding involves the same contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding; and
 
@@ -132,7 +132,7 @@ June 30, 1949, ch. 288, title III, §306(k), as added Pub. L. 100–700, §8(a)(
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b). Pub. L. 112–239, §828(d)(1), substituted “commenced by the Federal Government, by a State, or by a contractor or grantee employee submitting a complaint under section 4712 of this title” for “commenced by the Federal Government or a State”.
+<b>2013</b>—Subsec. (b). Pub. L. 112–239, §828(d)(1), substituted "commenced by the Federal Government, by a State, or by a contractor or grantee employee submitting a complaint under section 4712 of this title" for "commenced by the Federal Government or a State".
 
-Subsec. (c)(3). Pub. L. 112–239, §828(d)(2), substituted “the imposition of a monetary penalty or an order to take corrective action under section 4712 of this title” for “the imposition of a monetary penalty”.
+Subsec. (c)(3). Pub. L. 112–239, §828(d)(2), substituted "the imposition of a monetary penalty or an order to take corrective action under section 4712 of this title" for "the imposition of a monetary penalty".
 

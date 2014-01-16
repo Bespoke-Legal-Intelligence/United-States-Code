@@ -398,7 +398,7 @@
 | 1070c–2. | Applications for leveraging educational assistance partnership programs. |
 | 1070c–3. | Administration of State programs; judicial review. |
 | 1070c–3a. | Grants for access and persistence. |
-| 1070c–4. | “Community service” defined. |
+| 1070c–4. | "Community service" defined. |
 | 1070d to 1070d–1d. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

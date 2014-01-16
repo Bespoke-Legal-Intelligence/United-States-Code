@@ -24,7 +24,7 @@ Section 330 of the Public Health Service Act, referred to in subsec. (a)(2), is 
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

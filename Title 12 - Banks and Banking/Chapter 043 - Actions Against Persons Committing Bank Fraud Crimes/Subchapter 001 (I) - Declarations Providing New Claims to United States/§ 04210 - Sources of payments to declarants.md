@@ -6,7 +6,7 @@ Notwithstanding any other law, an award under this chapter <sup>1</sup> may be 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, and was translated as reading “this subtitle”, meaning subtitle H of title XXV of Pub. L. 101–647, known as the Financial Institutions Anti-Fraud Enforcement Act of 1990, which is classified principally to this chapter, as the probable intent of Congress. For complete classification of subtitle H to the Code, see Short Title note set out under section 4201 of this title and Tables.
+This chapter, referred to in text, was in the original "this title", and was translated as reading "this subtitle", meaning subtitle H of title XXV of Pub. L.101–647, known as the Financial Institutions Anti-Fraud Enforcement Act of 1990, which is classified principally to this chapter, as the probable intent of Congress. For complete classification of subtitle H to the Code, see Short Title note set out under section 4201 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

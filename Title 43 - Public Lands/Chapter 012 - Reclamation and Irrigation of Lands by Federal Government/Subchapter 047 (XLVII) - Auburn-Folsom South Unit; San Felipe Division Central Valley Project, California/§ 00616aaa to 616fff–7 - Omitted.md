@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 616aaa, Pub. L. 89–161, §1, Sept. 2, 1965, 79 Stat. 615, authorized construction, operation, andmaintenance of the Auburn-Folsom South unit, American River division, Central Valley project, California, and described principal features of this unit.
+Section 616aaa, Pub. L. 89–161, §1, Sept. 2, 1965, 79 Stat. 615, authorized construction, operation, and maintenance of the Auburn-Folsom South unit, American River division, Central Valley project, California, and described principal features of this unit.
 
 Section 616bbb, Pub. L. 89–161, §2, Sept. 2, 1965, 79 Stat. 616, provided for financial and operational integration and coordination of this unit with Central Valley project.
 
@@ -14,7 +14,7 @@ Section 616eee, Pub. L. 89–161, §5, Sept. 2, 1965, 79 Stat. 618, related to a
 
 Section 616fff, Pub. L. 89–161, §6, Sept. 2, 1965, 79 Stat. 618, authorized appropriations for this unit.
 
-Section 616fff–1, Pub. L. 90–72, §1, Aug. 27, 1967, 81 Stat. 173, authorized construction, operation, and maintenance of San Felipe division, Central Valley project, California.
+Section 616fff–1, Pub. L. 90–72, §1, Aug. 27, 1967, 81 Stat. 173, authorized construction, operation, andmaintenance of San Felipe division, Central Valley project, California.
 
 Section 616fff–2, Pub. L. 90–72, §2, Aug. 27, 1967, 81 Stat. 174, related to conservation and development of fish and wildlife and enhancement of recreational facilities in connection with this division.
 

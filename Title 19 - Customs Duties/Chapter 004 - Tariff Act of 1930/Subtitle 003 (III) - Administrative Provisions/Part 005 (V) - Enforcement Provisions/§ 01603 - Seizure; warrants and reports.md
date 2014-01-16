@@ -18,9 +18,9 @@ A prior provision requiring the collector or other person causing a seizure to b
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–690, §7365, substituted “Seizure; warrants and reports” for “Seizure; customs officer's reports” in section catchline, added subsec. (a), and designated existing provisions as subsec. (b).
+<b>1988</b>—Pub. L. 100–690, §7365, substituted "Seizure; warrants and reports" for "Seizure; customs officer's reports" in section catchline, added subsec. (a), and designated existing provisions as subsec. (b).
 
-<b>1978</b>—Pub. L. 95–410 inserted “promptly” after “to report”.
+<b>1978</b>—Pub. L. 95–410 inserted "promptly" after "to report".
 
 <b>1970</b>—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector or principal local officer of Customs Agency Service.
 

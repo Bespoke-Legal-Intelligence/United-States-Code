@@ -6,7 +6,7 @@
 
 (2) The Secretary, after consulting with appropriate Federal agencies, shall establish regulations setting criteria for determining the adequacy of reception facilities for garbage at a port or terminal, and stating such additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that such facilities are available, for receiving garbage in accordance with those regulations.
 
-(3) The Secretary and the Administrator, after consulting with appropriate Federal agencies, shall jointly prescribe regulations setting criteria for determining the adequacy of reception facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues at a port or terminal, and stating any additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that reception facilities are available, in accordance with those regulations. The Secretary and the Administrator may jointly prescribe regulations to certify, and may issue certificates to the effect, that a port's or terminal's facilities for receiving ozone depleting substances, equipment containing such substances,and exhaust gas cleaning residues from ships are adequate.
+(3) The Secretary and the Administrator, after consulting with appropriate Federal agencies, shall jointly prescribe regulations setting criteria for determining the adequacy of reception facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues at a port or terminal, and stating any additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that reception facilities are available, in accordance with those regulations. The Secretary and the Administrator may jointly prescribe regulations to certify, and may issue certificates to the effect, that a port's or terminal's facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues from ships are adequate.
 
 #### (b) Traffic considerations
 
@@ -26,7 +26,7 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 &emsp;(A) is valid for the 5-year period beginning on the date of issuance of the certificate, except that if—
 
-&emsp;&emsp;(i) the charge for operation of the port or terminal is transferred to a person or entity other than the person or entity that is the operator on the date of issuance of the certificate—
+&emsp;&emsp;(i) the charge for operation of the port or terminal is transferred to a person or entityother than the person or entity that is the operator on the date of issuance of the certificate—
 
 &emsp;&emsp;&emsp;(I) the certificate shall expire on the date that is 30 days after the date of the transfer; and
 
@@ -70,43 +70,43 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 <b>2008</b>—Subsec. (a)(3). Pub. L. 110–280, §7(1), added par. (3).
 
-Subsec. (b). Pub. L. 110–280, §7(2), inserted “or the Administrator” after “Secretary”.
+Subsec. (b). Pub. L. 110–280, §7(2), inserted "or the Administrator" after "Secretary".
 
-Subsec. (e)(2). Pub. L. 110–280, §7(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary may deny the entry ofa ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations.”
+Subsec. (e)(2). Pub. L. 110–280, §7(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary may deny the entry of a ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations."
 
-Subsec. (f)(1). Pub. L. 110–280, §7(4), substituted “Secretary and the Administrator are” for “Secretary is”.
+Subsec. (f)(1). Pub. L. 110–280, §7(4), substituted "Secretary and the Administrator are" for "Secretary is".
 
-Subsec. (f)(2). Pub. L. 110–280, §7(5), struck out subpar. (A) designation before “Not later”.
+Subsec. (f)(2). Pub. L. 110–280, §7(5), struck out subpar. (A) designation before "Not later".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–227, §201(d)(1), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–227, §201(d)(1), inserted "or the Antarctic Protocol" after "the MARPOL Protocol".
 
-Subsec. (c)(2). Pub. L. 104–324, §801(a)(1), (2), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), if” for “If”, and added subpars. (B) and (C).
+Subsec. (c)(2). Pub. L. 104–324, §801(a)(1), (2), designated existing provisions as subpar. (A), substituted "Subject to subparagraph (B), if" for "If", and added subpars. (B) and (C).
 
-Subsec. (c)(3)(A). Pub. L. 104–324, §801(a)(3), added subpar. (A) and struck out former subpar. (A) which read as follows: “is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and”.
+Subsec. (c)(3)(A). Pub. L. 104–324, §801(a)(3), added subpar. (A) and struck out former subpar. (A) which read as follows: "is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and".
 
-Subsec. (d). Pub. L. 104–324, §801(a)(4), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary shall periodically cause to be published in the Federal Register a list of the ports or terminals holding a valid certificate issued under this section.”
+Subsec. (d). Pub. L. 104–324, §801(a)(4), added subsec. (d) and struck out former subsec. (d) which read as follows: "The Secretary shall periodically cause to be published in the Federal Register a list of the ports or terminals holding a valid certificate issued under this section."
 
-Subsec. (e)(1). Pub. L. 104–227, §201(d)(2), (3), inserted “or the Antarctic Protocol” after “the Convention” in introductory provisions and inserted “or Article 9 of Annex IV to the Antarctic Protocol” after “the Convention” in subpar. (A).
+Subsec. (e)(1). Pub. L. 104–227, §201(d)(2), (3), inserted "or the Antarctic Protocol" after "the Convention" in introductory provisions and inserted "or Article 9 of Annex IV to the Antarctic Protocol" after "the Convention" in subpar. (A).
 
 Subsec. (f). Pub. L. 104–324, §801(b), designated existing provisions as par. (1) and added par. (2)(A).
 
-Pub. L. 104–227, §201(d)(4), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
+Pub. L. 104–227, §201(d)(4), inserted "or the Antarctic Protocol" after "the MARPOL Protocol".
 
-<b>1989</b>—Subsec. (c)(1). Pub. L. 101–225 substituted “Annex I and Annex II” for “Annex V”.
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–225 substituted "Annex I and Annex II" for "Annex V".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–220, §2103(a), designated existing provisions as par. (1), substituted “a port's or terminal's reception facilities for mixtures containing oil or noxious liquid substances” for “reception facilities of a port or terminal”, and added par. (2).
+<b>1987</b>—Subsec. (a). Pub. L. 100–220, §2103(a), designated existing provisions as par. (1), substituted "a port's or terminal's reception facilities for mixtures containing oil or noxious liquid substances" for "reception facilities of a port or terminal", and added par. (2).
 
-Subsec. (b). Pub. L. 100–220, §2103(b), inserted “and in establishing regulations under subsection (a) of this section,” and “ships or”.
+Subsec. (b). Pub. L. 100–220, §2103(b), inserted "and in establishing regulations under subsection (a) of this section," and "ships or".
 
-Subsec. (c). Pub. L. 100–220, §2103(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If, upon inspection, reception facilities of a port or terminal are adequate to meet the requirements of the MARPOL Protocol and the regulations established hereunder, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant. A certificate issued under this subsection—
+Subsec. (c). Pub. L. 100–220, §2103(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "If, upon inspection, reception facilities of a port or terminal are adequate to meet the requirements of the MARPOL Protocol and the regulations established hereunder, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant. A certificate issued under this subsection—
 
-&emsp;“(1) is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and
+&emsp;"(1) is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and
 
-&emsp;“(2) shall be available for inspection upon the request of the master, other person in charge, or agent of a seagoing ship using or intending to use the port or terminal.
+&emsp;"(2) shall be available for inspection upon the request of the master, other person in charge, or agent of a seagoing ship using or intending to use the port or terminal.
 
-> The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretary and acted on by him in the manner prescribed by regulation.”
+> The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretary and acted on by him in the manner prescribed by regulation."
 
-Subsec. (e). Pub. L. 100–220, §2103(d), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted “Annexes I and II of the Convention” for “the MARPOL Protocol”, and added par. (2).
+Subsec. (e). Pub. L. 100–220, §2103(d), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted "Annexes I and II of the Convention" for "the MARPOL Protocol", and added par. (2).
 
 #### Effective Date of 1987 Amendment
 

@@ -40,7 +40,7 @@
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Higher Education Act of 1965 are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.) of subchapter IV of chapter 28 of Title 20, Education, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219,as amended. Parts B, D, and E of title IV of the Higher Education Act of 1965 are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.) of subchapter IV of chapter 28 of Title 20, Education, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 
@@ -48,35 +48,35 @@ The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89�
 
 <b>2006</b>—Subsec. (a)(1)(D). Pub. L. 109–163, §537(a), added subpar. (D).
 
-Subsec. (a)(2). Pub. L. 109–163, §537(b), substituted “a member in an officer program or military specialty” for “an enlisted member in a military specialty”.
+Subsec. (a)(2). Pub. L. 109–163, §537(b), substituted "a member in an officer program or military specialty" for "an enlisted member in a military specialty".
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 struck out "or" at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-<b>1994</b>—Pub. L. 103–337, §1663(e)(6), substituted “Education loan repayment program: enlisted members on active duty in specified military specialties” for “General educational loan repayment program” as section catchline.
+<b>1994</b>—Pub. L. 103–337, §1663(e)(6), substituted "Education loan repayment program: enlisted members on active duty in specified military specialties" for "General educational loan repayment program" as section catchline.
 
-Subsec. (a)(1)(B). Pub. L. 103–337, §1663(e)(1), struck out “or” after “(B)”.
+Subsec. (a)(1)(B). Pub. L. 103–337, §1663(e)(1), struck out "or" after "(B)".
 
-Subsec. (a)(2). Pub. L. 103–337, §1663(e)(2), substituted “case of any person for—
+Subsec. (a)(2). Pub. L. 103–337, §1663(e)(2), substituted "case of any person for—
 
-&emsp;“(A) service performed—
+&emsp;"(A) service performed—
 
-&emsp;&emsp;“(i) as an enlisted member of the Selected Reserve of the Ready Reserve of an armed force; and
+&emsp;&emsp;"(i) as an enlisted member of the Selected Reserve of the Ready Reserve of an armed force; and
 
-&emsp;&emsp;“(ii) in a reserve component and military specialty specified by the Secretary of Defense; or
+&emsp;&emsp;"(ii) in a reserve component and military specialty specified by the Secretary of Defense; or
 
-&emsp;“(B) service performed”
+&emsp;"(B) service performed"
 
-> and struck out at end “In the case of service described in clause (A) of the first sentence of this paragraph, the Secretary may repay a loan described in paragraph (1) only if the person to whom the loan was made performed such service after the loan was made.”
+> and struck out at end "In the case of service described in clause (A) of the first sentence of this paragraph, the Secretary may repay a loan described in paragraph (1) only if the person to whom the loan was made performed such service after the loan was made."
 
-Subsec. (b). Pub. L. 103–337, §1663(e)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The portion or amount of a loan that may be repaid under subsection (a) is—
+Subsec. (b). Pub. L. 103–337, §1663(e)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The portion or amount of a loan that may be repaid under subsection (a) is—
 
-&emsp;“(1) 15 percent or $500, whichever is greater, for each year of service, in the case of service described in subsection (a)(2)(A); or
+&emsp;"(1) 15 percent or $500, whichever is greater, for each year of service, in the case of service described in subsection (a)(2)(A); or
 
-&emsp;“(2) 331/3 percent or $1,500, whichever is greater, for each year of service, in the case of service described in subsection (a)(2)(B).”
+&emsp;"(2) 331/3 percent or $1,500, whichever is greater, for each year of service, in the case of service described in subsection (a)(2)(B)."
 
-Subsec. (e). Pub. L. 103–337, §1663(e)(4), substituted “A person who transfers from service making the person eligible for repayment of loans under this section (as described in subsection (a)(2)) to service making the person eligible for repayment of loans under section 16301 of this title (as described in subsection (a)(2) of that section)” for “Any individual who transfers from service described in clause (A) or (B) of subsection (a)(2) to service described in the other clause of such subsection”.
+Subsec. (e). Pub. L. 103–337, §1663(e)(4), substituted "A person who transfers from service making the person eligible for repayment of loans under this section (as described in subsection (a)(2)) to service making the person eligible for repayment of loans under section 16301 of this title (as described in subsection (a)(2) of that section)" for "Any individual who transfers from service described in clause (A) or (B) of subsection (a)(2) to service described in the other clause of such subsection".
 
-Subsec. (f). Pub. L. 103–337, §1663(e)(5), inserted “and section 16301 of this title” after “this section” and “and section 16301(a) of this title” after “subsection (a)”.
+Subsec. (f). Pub. L. 103–337, §1663(e)(5), inserted "and section 16301 of this title" after "this section" and "and section 16301(a) of this title" after "subsection (a)".
 
 #### Effective Date of 1994 Amendment
 
@@ -84,11 +84,11 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date
 
-Pub. L. 99–145, title VI, §671(b)(1), Nov. 8, 1985, 99 Stat. 663, provided that: “The authority provided under section 2171 of title 10, United States Code, as added by subsection (a), shall apply only—
+Pub. L. 99–145, title VI, §671(b)(1), Nov. 8, 1985, 99 Stat. 663, provided that: "The authority provided under section 2171 of title 10, United States Code, as added by subsection (a), shall apply only—
 
-&emsp;“(A) in the case of persons who enlist or reenlist in the Selected Reserve of the Ready Reserve of an Armed Force or enlist or reenlist for service on active duty after September 30, 1980;
+&emsp;"(A) in the case of persons who enlist or reenlist in the Selected Reserve of the Ready Reserve of an Armed Force or enlist or reenlist for service on active duty after September 30, 1980;
 
-&emsp;“(B) with respect to service performed after that date; and
+&emsp;"(B) with respect to service performed after that date; and
 
-&emsp;“(C) with respect to loans made after October 1, 1975.”
+&emsp;"(C) with respect to loans made after October 1, 1975."
 

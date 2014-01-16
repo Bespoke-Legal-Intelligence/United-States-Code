@@ -6,5 +6,5 @@ The Secretary and the Farm Credit Administration shall prescribe such regulation
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–354 in first sentence substituted “The” for “Within 150 days after January 6, 1988, the” and inserted at end “The regulations prescribed by the Secretary shall require qualifying States to adequately train mediators to address all of the issues covered by the mediation program of the State.”
+<b>1994</b>—Pub. L. 103–354 in first sentence substituted "The" for "Within 150 days after January 6, 1988, the" and inserted at end "The regulations prescribed by the Secretary shall require qualifying States to adequately train mediators to address all of the issues covered by the mediation program of the State."
 

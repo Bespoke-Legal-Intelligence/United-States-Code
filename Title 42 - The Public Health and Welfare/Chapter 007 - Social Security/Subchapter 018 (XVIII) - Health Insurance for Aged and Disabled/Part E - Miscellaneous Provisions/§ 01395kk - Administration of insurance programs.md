@@ -36,11 +36,11 @@ In the course of any hearing, investigation, or other proceeding that he is auth
 
 #### (2) Qualified entities
 
-&emsp;For purposes of this subsection, the term “qualified entity” means a public or private entity that—
+&emsp;For purposes of this subsection, the term "qualified entity" means a public or private entity that—
 
 &emsp;&emsp;(A) is qualified (as determined by the Secretary) to use claims data to evaluate the performance of providers of services and suppliers on measures of quality, efficiency, effectiveness, and resource use; and
 
-&emsp;&emsp;(B) agrees to meet the requirements described in paragraph (4) and meets suchother requirements as the Secretary may specify, such as ensuring security of data.
+&emsp;&emsp;(B) agrees to meet the requirements described in paragraph (4) and meets such other requirements as the Secretary may specify, such as ensuring security of data.
 
 #### (3) Data described
 
@@ -74,7 +74,7 @@ In the course of any hearing, investigation, or other proceeding that he is auth
 
 &emsp;&emsp;Any report by a qualified entity evaluating the performance of providers of services and suppliers using data made available under this subsection shall—
 
-&emsp;&emsp;&emsp;(i) include an understandable description of the measures, which shall include quality measures and the rationale for use of other measures described in subparagraph (B)(ii)(II), risk adjustment methods, physician attribution methods, other applicable methods, data specifications and limitations, and the sponsors, so that consumers, providers of services and suppliers, health plans, researchers, and other stakeholders can assess such reports;
+&emsp;&emsp;&emsp;(i) include an understandable description of the measures, which shall include quality measures and the rationale for use of other measures described in subparagraph (B)(ii)(II), risk adjustment methods, physician attribution methods, other applicable methods, data specifications and limitations, and the sponsors, so that consumers, providers of services and suppliers, healthplans, researchers, and other stakeholders can assess such reports;
 
 &emsp;&emsp;&emsp;(ii) be made available confidentially, to any provider of services or supplier to be identified in such report, prior to the public release of such report, and provide an opportunity to appeal and correct errors;
 
@@ -94,7 +94,7 @@ The Railroad Retirement Act of 1974, referred to in subsec. (a), is act Aug. 29,
 
 The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is classified generally to Title 26, Internal Revenue Code.
 
-July 15, 2008, referred to in subsec. (d)(1)(A) and (B), was in the original “the date of the enactment of this section” and “such date”, which were translated as meaning the date of enactment of Pub. L. 110–275, which enacted subsec. (d), to reflect the probable intent of Congress.
+July 15, 2008, referred to in subsec. (d)(1)(A) and (B), was in the original "the date of the enactment of this section" and "such date", which were translated as meaning the date of enactment of Pub. L. 110–275, which enacted subsec. (d), to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -102,7 +102,7 @@ July 15, 2008, referred to in subsec. (d)(1)(A) and (B), was in the original “
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–275 added subsec. (d).
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–445 substituted “Railroad Retirement Act of 1974” for “Railroad Retirement Act of 1937”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–445 substituted "Railroad Retirement Act of 1974" for "Railroad Retirement Act of 1937".
 
 <b>1972</b>—Subsec. (c). Pub. L. 92–603 added subsec. (c).
 
@@ -110,7 +110,7 @@ July 15, 2008, referred to in subsec. (d)(1)(A) and (B), was in the original “
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title X, §10332(b), Mar. 23, 2010, 124 Stat. 970, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2012.”
+Pub. L. 111–148, title X, §10332(b), Mar. 23, 2010, 124 Stat. 970, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2012."
 
 #### Effective Date of 2008 Amendment
 

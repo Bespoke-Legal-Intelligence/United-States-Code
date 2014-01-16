@@ -22,7 +22,7 @@ After an application for naturalization has been filed with the Attorney General
 
 #### (f) Transfer of application
 
-An applicant for naturalization who moves from the district of the Service in the United States in which the application is pending may, at any time thereafter, request the Service to transfer the application to any district of the Service in the United States which may act on the application. The transfer shall not be made without the consent of the Attorney General. In the case of such a transfer, the proceedings on the application shall continue as though the application had originally been filed in the districtof the Service to which the application is transferred.
+An applicant for naturalization who moves from the district of the Service in the United States in which the application is pending may, at any time thereafter, request the Service to transfer the application to any district of the Service in the United States which may act on the application. The transfer shall not be made without the consent of the Attorney General. In the case of such a transfer, the proceedings on the application shall continue as though the application had originally been filed in the district of the Service to which the application is transferred.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §335, 66 Stat. 255; Pub. L. 97–116, §15(c), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 100–525, §9(aa), (bb), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §§401(c), 407(c)(16), (d)(13), Nov. 29, 1990, 104 Stat. 5038, 5041, 5043; Pub. L. 102–232, title III, §305(f), Dec. 12, 1991, 105 Stat. 1750.)
 

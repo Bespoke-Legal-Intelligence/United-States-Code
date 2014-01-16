@@ -14,9 +14,9 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted "Department of Homeland Security" for "Department of Transportation" in introductory provisions.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "Department of Health and Human Services" for "Department of Health, Education, and Welfare".
 
 #### Effective Date of 2002 Amendment
 

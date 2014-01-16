@@ -42,7 +42,7 @@ The Assistant Secretary shall provide technical assistance and training (by cont
 
 (2) No provision of this subchapter shall be construed as prohibiting a State agency or area agency on aging from providing services by using funds from sources not described in paragraph (1).
 
-(Pub. L. 89–73, title III, §301, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1516; amended Pub. L. 97–115, §3(a), (d), Dec. 29, 1981, 95 Stat. 1596, 1597; Pub. L. 98–459, title III, §301, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§104(b), 105(c), 121, 129(a), Nov. 29, 1987, 101 Stat. 929, 930, 933, 934; Pub. L. 100–628, title VII, §705(3), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–54, §13(q)(9)(B), June 13, 1991, 105 Stat. 281; Pub. L. 102–321, title I, §163(c)(2)(B), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(1)(A), title III, §301, title VII, §708(a)(2)(B), Sept. 30, 1992, 106 Stat. 1200, 1219, 1292; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §301, title VIII, §801(c)(1), Nov. 13, 2000, 114 Stat. 2238, 2292; Pub. L. 109–365, title III, §301, Oct. 17, 2006, 120 Stat. 2538.)
+(Pub. L. 89–73, title III, §301, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1516; amended Pub. L. 97–115, §3(a), (d), Dec. 29, 1981, 95 Stat. 1596, 1597; Pub. L. 98–459, title III, §301, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§104(b), 105(c), 121, 129(a), Nov. 29, 1987, 101 Stat. 929, 930, 933, 934; Pub. L. 100–628, title VII, §705(3), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–54, §13(q)(9)(B), June 13, 1991, 105 Stat. 281; Pub. L. 102–321, title I, §163(c)(2)(B), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(1)(A), title III, §301, title VII, §708(a)(2)(B), Sept. 30, 1992, 106 Stat. 1200, 1219, 1292; Pub. L. 103–171,§3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §301, title VIII, §801(c)(1), Nov. 13, 2000, 114 Stat. 2238, 2292; Pub. L. 109–365, title III, §301, Oct. 17, 2006, 120 Stat. 2538.)
 
 #### Prior Provisions
 
@@ -54,43 +54,43 @@ Another prior section 3021, Pub. L. 89–73, title III, §301, July 14, 1965, 79
 
 <b>2006</b>—Subsec. (a)(2)(F). Pub. L. 109–365 added subpar. (F).
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–501, §801(c)(1), substituted “3027(a)(9)” for “3027(a)(12)”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–501, §801(c)(1), substituted "3027(a)(9)" for "3027(a)(12)".
 
 Subsec. (d). Pub. L. 106–501, §301, added subsec. (d).
 
-<b>1993</b>—Subsecs. (b), (c). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+<b>1993</b>—Subsecs. (b), (c). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" wherever appearing.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–375, §301, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It is the purpose of this subchapter to encourage and assist State and area agencies to concentrate resources in order to develop greater capacity and foster the development and implementation of comprehensive and coordinated service systems to serve older individuals by entering into new cooperative arrangements in each State with State and area agencies, with Indian tribes, tribal organizations, and Native Hawaiian organizations, and with the providers, including voluntary organizations, of supportive services, including nutrition services and multipurpose senior centers, for the planning, and for the provision of, supportive services, nutrition services, and multipurpose senior centers, in order to—
+<b>1992</b>—Subsec. (a). Pub. L. 102–375, §301, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "It is the purpose of this subchapter to encourage and assist State and area agencies to concentrate resources in order to develop greater capacity and foster the development and implementation of comprehensive and coordinated service systems to serve older individuals by entering into new cooperative arrangements in each State with State and area agencies, with Indian tribes, tribal organizations, and Native Hawaiian organizations, and with the providers, including voluntary organizations, of supportive services, including nutrition services and multipurpose senior centers, for the planning, and for the provision of, supportive services, nutrition services, and multipurpose senior centers, in order to—
 
-&emsp;“(1) secure and maintain maximum independence and dignity in a home environment for older individuals capable of self care with appropriate supportive services;
+&emsp;"(1) secure and maintain maximum independence and dignity in a home environment for older individuals capable of self care with appropriate supportive services;
 
-&emsp;“(2) remove individual and social barriers to economic and personal independence for older individuals; and
+&emsp;"(2) remove individual and social barriers to economic and personal independence for older individuals; and
 
-&emsp;“(3) provide a continuum of care for the vulnerable elderly.”
+&emsp;"(3) provide a continuum of care for the vulnerable elderly."
 
-Subsec. (b)(1). Pub. L. 102–375, §102(b)(1)(A), substituted “Administration” for “Administration on Aging”.
+Subsec. (b)(1). Pub. L. 102–375, §102(b)(1)(A), substituted "Administration" for "Administration on Aging".
 
-Subsec. (b)(2). Pub. L. 102–321 substituted “the Substance Abuse and Mental Health Services Administration” for “the Alcohol, Drug Abuse, and Mental Health Administration”.
+Subsec. (b)(2). Pub. L. 102–321 substituted "the Substance Abuse and Mental Health Services Administration" for "the Alcohol, Drug Abuse, and Mental Health Administration".
 
-Subsec. (c). Pub. L. 102–375, §708(a)(2)(B), substituted “in accordance with section 3058g of this title, and to individuals within such programs designated under section 3058g of this title” for “, and to individuals designated under such section”.
+Subsec. (c). Pub. L. 102–375, §708(a)(2)(B), substituted "in accordance with section 3058g of this title, and to individuals within such programs designated under section 3058g of this title" for ", and to individuals designated under such section".
 
-<b>1991</b>—Subsec. (b)(2). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–54 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–628 substituted “Native Hawaiian organizations,” for “Native Hawaiian organizations,,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–628 substituted "Native Hawaiian organizations," for "Native Hawaiian organizations,,".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–175, §121, inserted “, with Indian tribes, tribal organizations, and Native Hawaiian organizations,” after second reference to “agencies”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–175, §121, inserted ", with Indian tribes, tribal organizations, and Native Hawaiian organizations," after second reference to "agencies".
 
-Subsec. (b)(2). Pub. L. 100–175, §105(c), inserted “the Alcohol, Drug Abuse, and Mental Health Administration,” after “Veterans’ Administration,”.
+Subsec. (b)(2). Pub. L. 100–175, §105(c), inserted "the Alcohol, Drug Abuse, and Mental Health Administration," after "Veterans' Administration,".
 
-Pub. L. 100–175, §104(b), inserted “, the Veterans’ Administration,” after “Office of Community Services”.
+Pub. L. 100–175, §104(b), inserted ", the Veterans' Administration," after "Office of Community Services".
 
 Subsec. (c). Pub. L. 100–175, §129(a), added subsec. (c).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–459 substituted “area agencies” for “local agencies” in two places, inserted “and implementation”, inserted “, including voluntary organizations,”, and struck out “for the provision of” after “planning”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–459 substituted "area agencies" for "local agencies" in two places, inserted "and implementation", inserted ", including voluntary organizations,", and struck out "for the provision of" after "planning".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services” in two places.
+<b>1981</b>—Subsec. (a). Pub. L. 97–115, §3(d), substituted "supportive services" for "social services" in two places.
 
-Subsec. (b)(2). Pub. L. 97–115, §3(a), substituted “cooperation of the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Office of Community Services, and such other agencies and departments” for “cooperation of the Department of Labor, the Community Services Administration, the Department of Housing and Urban Development, the Department of Transportation, and such other agencies and departments”.
+Subsec. (b)(2). Pub. L. 97–115, §3(a), substituted "cooperation of the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Office of Community Services, and such other agencies and departments" for "cooperation of the Department of Labor, the Community Services Administration, the Department of Housing and Urban Development, the Department of Transportation, and such other agencies and departments".
 
 #### Effective Date of 1992 Amendments
 
@@ -116,17 +116,17 @@ Part effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, 
 
 Pub. L. 95–478, title I, §103(a), Oct. 18, 1978, 92 Stat. 1516, provided that:
 
-“(1) The Congress finds that—
+"(1) The Congress finds that—
 
-&emsp;“(A) approximately 3 percent of the eligible population is presently served under community services programs authorized under the Older Americans Act of 1965 \[this chapter\], 17 percent of whom are minority group members;
+&emsp;"(A) approximately 3 percent of the eligible population is presently served under community services programs authorized under the Older Americans Act of 1965 \[this chapter\], 17 percent of whom are minority group members;
 
-&emsp;“(B) approximately 1 percent of the eligible population is presently served by the nutrition program authorized under the Older Americans Act of 1965 \[this chapter\], 21 percent of whom are minority group members;
+&emsp;"(B) approximately 1 percent of the eligible population is presently served by the nutrition program authorized under the Older Americans Act of 1965 \[this chapter\], 21 percent of whom are minority group members;
 
-&emsp;“(C) there is program fragmentation at the national, State, and local levels which inhibits effective use of existing resources; and
+&emsp;"(C) there is program fragmentation at the national, State, and local levels which inhibits effective use of existing resources; and
 
-&emsp;“(D) coordination and consolidation of services provided under the Older Americans Act of 1965 \[this chapter\] allowing greater local determination to assess the need for services will facilitate achieving the goals of the Older Americans Act of 1965.
+&emsp;"(D) coordination and consolidation of services provided under the Older Americans Act of 1965 \[this chapter\] allowing greater local determination to assess the need for services will facilitate achieving the goals of the Older Americans Act of 1965.
 
-“(2) It is the purpose of the amendments made by subsection (b) \[amending sections 3021 to 3029 of this title and enacting sections 3030 to 3030g of this title\] to combine within a consolidated title, subject to the modifications imposed by the provisions and requirements of the amendments made by subsection (b), the programs authorized by title III, title V, and title VII of the Older Americans Act of 1965 \[former subchapters III, V, and VII of this chapter, respectively, as in effect prior to their revision by Pub. L. 95–478\] in the fiscal year 1978, and funds appropriated to carry out such consolidated title shall be used solely for the purposes and for the assistance of the same types of programs authorized under the provisions of such titles.”
+"(2) It is the purpose of the amendments made by subsection (b) \[amending sections 3021 to 3029 of this title and enacting sections 3030 to 3030g of this title\] to combine within a consolidated title, subject to themodifications imposed by the provisions and requirements of the amendments made by subsection (b), the programs authorized by title III, title V, and title VII of the Older Americans Act of 1965 \[former subchapters III, V, and VII of this chapter, respectively, as in effect prior to their revision by Pub. L. 95–478\] in the fiscal year 1978, and funds appropriated to carry out such consolidated title shall be used solely for the purposes and for the assistance of the same types of programs authorized under the provisions of such titles."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

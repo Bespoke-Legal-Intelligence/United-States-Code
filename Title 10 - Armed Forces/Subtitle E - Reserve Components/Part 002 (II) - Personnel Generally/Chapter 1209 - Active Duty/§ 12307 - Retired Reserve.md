@@ -20,13 +20,13 @@ July 9, 1952, ch. 608, §207(c), 66 Stat. 483.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–106 substituted “Retired Reserve (other” for “Ready Reserve (other”.
+<b>1996</b>—Pub. L. 104–106 substituted "Retired Reserve (other" for "Ready Reserve (other".
 
-<b>1994</b>—Pub. L. 103–337, §1675(c)(5), substituted “688 or 12301(a)” for “672(a) or 688”, “12641(b)” for “1001(b)”, and “1223” for “67”.
+<b>1994</b>—Pub. L. 103–337, §1675(c)(5), substituted "688 or 12301(a)" for "672(a) or 688", "12641(b)" for "1001(b)", and "1223" for "67".
 
 Pub. L. 103–337, §1662(e)(2), renumbered section 675 of this title as this section.
 
-<b>1989</b>—Pub. L. 101–189 inserted at end “A member of the Ready Reserve (other than a member transferred to the Retired Reserve under section 1001(b) of this title) who is ordered to active duty or other appropriate duty in a retired status may be credited under chapter 67 of this title with service performed pursuant to such order. A member in a retired status is not eligible for promotion (or for consideration for promotion) as a Reserve.”
+<b>1989</b>—Pub. L. 101–189 inserted at end "A member of the Ready Reserve (other than a member transferred to the Retired Reserve under section 1001(b) of this title) who is ordered to active duty or other appropriate duty in a retired status may be credited under chapter 67 of this title with service performed pursuant to such order. A member in a retired status is not eligible for promotion (or for consideration for promotion) as a Reserve."
 
 <b>1983</b>—Pub. L. 98–94 inserted reference to section 688.
 

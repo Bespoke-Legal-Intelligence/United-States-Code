@@ -36,13 +36,13 @@ Provisions similar to those comprising this section were contained in sections 1
 
 #### Amendments
 
-<b>2012</b>—Subsec. (e). Pub. L. 112–231, §2(b)(2)(A)(i), substituted “and receiver” for “receiver, and committee of estates of lunatics”.
+<b>2012</b>—Subsec. (e). Pub. L. 112–231, §2(b)(2)(A)(i), substituted "and receiver" for "receiver, and committee of estates of lunatics".
 
-Subsec. (f). Pub. L. 112–231, §2(b)(2)(A)(ii), substituted “or receiver” for “receiver, or committee of estates of lunatics”.
+Subsec. (f). Pub. L. 112–231, §2(b)(2)(A)(ii), substituted "or receiver" for "receiver, or committee of estates of lunatics".
 
-<b>1994</b>—Pub. L. 103–328 inserted section catchline and, in subsec. (a), inserted heading and substituted “Any national bank” for “Any national banking association”.
+<b>1994</b>—Pub. L. 103–328 inserted section catchline and, in subsec. (a), inserted heading and substituted "Any national bank" for "Any national banking association".
 
 #### Short Title
 
-Act Nov. 7, 1918, ch. 209, §1, as added by Pub. L. 103–328, title I, §102(b)(4)(C), Sept. 29, 1994, 108 Stat. 2351, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘National Bank Consolidation and Merger Act’.”
+Act Nov. 7, 1918, ch. 209, §1, as added by Pub. L. 103–328, title I, §102(b)(4)(C), Sept. 29, 1994, 108 Stat. 2351, provided that: "This Act \[enacting this subchapter\] may be cited as the 'National Bank Consolidation and Merger Act'."
 

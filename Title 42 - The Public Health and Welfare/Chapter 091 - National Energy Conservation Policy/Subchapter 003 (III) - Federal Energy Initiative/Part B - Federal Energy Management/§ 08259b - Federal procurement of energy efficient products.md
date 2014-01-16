@@ -6,23 +6,23 @@ In this section:
 
 #### (1) Agency
 
-&emsp;The term “agency” has the meaning given that term in section 7902(a) of title 5.
+&emsp;The term "agency" has the meaning given that term in section 7902(a) of title 5.
 
 #### (2) Energy Star product
 
-&emsp;The term “Energy Star product” means a product that is rated for energy efficiency under an Energy Star program.
+&emsp;The term "Energy Star product" means a product that is rated for energy efficiency under an Energy Star program.
 
 #### (3) Energy Star program
 
-&emsp;The term “Energy Star program” means the program established by section 6294a of this title.
+&emsp;The term "Energy Star program" means the program established by section 6294a of this title.
 
 #### (4) FEMP designated product
 
-&emsp;The term “FEMP designated product” means a product that is designated under the Federal Energy Management Program of the Department of Energy as being among the highest 25 percent of equivalent products for energy efficiency.
+&emsp;The term "FEMP designated product" means a product that is designated under the Federal Energy Management Program of the Department of Energy as being among the highest 25 percent of equivalent products for energy efficiency.
 
 #### (5) Product
 
-&emsp;The term “product” does not include any energy consuming product or system designed or procured for combat or combat-related missions.
+&emsp;The term "product" does not include any energy consuming product or system designed or procured for combat or combat-related missions.
 
 #### (b) Procurement of energy efficient products
 
@@ -68,7 +68,7 @@ Energy Star products and FEMP designated products shall be clearly identified an
 
 #### (1) Definition of eligible product
 
-&emsp;In this subsection, the term “eligible product” means a commercially available, off-the-shelf product that—
+&emsp;In this subsection, the term "eligible product" means a commercially available, off-the-shelf product that—
 
 &emsp;&emsp;(A)(i) uses external standby power devices; or
 
@@ -108,9 +108,9 @@ Not later than 180 days after August 8, 2005, the Secretary shall issue guidelin
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §525(a)(1), inserted “in a product category covered by the Energy Star program or the Federal Energy Management Program for designated products” after “energy consuming product” in introductory provisions.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §525(a)(1), inserted "in a product category covered by the Energy Star program or the Federal Energy Management Program for designated products" after "energy consuming product" in introductory provisions.
 
-Subsec. (c). Pub. L. 110–140, §525(a)(2), in second sentence, inserted “list in their catalogues, represent as available, and” after “shall” and substituted “in which the head of the agency” for “where the agency”.
+Subsec. (c). Pub. L. 110–140, §525(a)(2), in second sentence, inserted "list in their catalogues, represent as available, and" after "shall" and substituted "in which the head of the agency" for "where the agency".
 
 Subsecs. (e), (f). Pub. L. 110–140, §524, added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -120,5 +120,5 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Catalogue Listing Deadline
 
-Pub. L. 110–140, title V, §525(b), Dec. 19, 2007, 121 Stat. 1663, provided that: “Not later than 9 months after the date of enactment of this Act \[Dec. 19, 2007\], the General Services Administration and the Defense Logistics Agency shall ensure that the requirement established by the amendment made by subsection (a)(2)(A) \[amending this section\] has been fully complied with.”
+Pub. L. 110–140, title V, §525(b), Dec. 19, 2007, 121 Stat. 1663, provided that: "Not later than 9 months after the date of enactment of this Act \[Dec. 19, 2007\], the General Services Administration and the Defense Logistics Agency shall ensure that the requirement established by the amendment made by subsection (a)(2)(A) \[amending this section\] has been fully complied with."
 

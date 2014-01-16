@@ -12,19 +12,19 @@ General Rule.—The appropriate authorities of each State—
 
 Definitions.—In this section:
 
-&emsp;“child” means—
+&emsp;"child" means—
 
 &emsp;&emsp;(A) a person under 18 years of age; and
 
 &emsp;&emsp;(B) a person 18 or more years of age with respect to whom a child support order has been issued pursuant to the laws of a State.
 
-&emsp;“child's State” means the State in which a child resides.
+&emsp;"child's State" means the State in which a child resides.
 
-&emsp;“child's home State” means the State in which a child lived with a parent or a personacting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
+&emsp;"child's home State" means the State in which a child lived with a parent or a person acting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
 
-&emsp;“child support” means a payment of money, continuing support, or arrearages or the provision of a benefit (including payment of health insurance, child care, and educational expenses) for the support of a child.
+&emsp;"child support" means a payment of money, continuing support, or arrearages or the provision of a benefit (including payment of health insurance, child care, and educational expenses) for the support of a child.
 
-&emsp;“child support order”—
+&emsp;"child support order"—
 
 &emsp;&emsp;(A) means a judgment, decree, or order of a court requiring the payment of child support in periodic amounts or in a lump sum; and
 
@@ -34,7 +34,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;(ii) an initial order or a modification of an order.
 
-&emsp;“contestant” means—
+&emsp;"contestant" means—
 
 &emsp;&emsp;(A) a person (including a parent) who—
 
@@ -46,11 +46,11 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) a State or political subdivision of a State to which the right to obtain child support has been assigned.
 
-&emsp;“court” means a court or administrative agency of a State that is authorized by State law to establish the amount of child support payable by a contestant or make a modification of a child support order.
+&emsp;"court" means a court or administrative agency of a State that is authorized by State law to establish the amount of child support payable by a contestant or make a modification of a child support order.
 
-&emsp;“modification” means a change in a child support order that affects the amount, scope, or duration of the order and modifies, replaces, supersedes, or otherwise is made subsequent to the child support order.
+&emsp;"modification" means a change in a child support order that affects the amount, scope, or duration of the order and modifies, replaces, supersedes, or otherwise is made subsequent to the child support order.
 
-&emsp;“State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and Indian country (as defined in section 1151 of title 18).
+&emsp;"State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and Indian country (as defined in section 1151 of title 18).
 
 (c)
 
@@ -80,7 +80,7 @@ Authority To Modify Orders.—A court of a State may modify a child support orde
 
 (f)
 
-Recognition of Child Support Orders.—If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
+Recognition of Child Support Orders.—If 1 or more child support orders have been issuedwith regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
 
 &emsp;(1) If only 1 court has issued a child support order, the order of that court must be recognized.
 
@@ -110,7 +110,7 @@ Law of state of issuance of order.—In interpreting a child support order inclu
 
 &emsp;(3)
 
-Period of limitation.—In an action to enforce arrears under a child support order, acourt shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
+Period of limitation.—In an action to enforce arrears under a child support order, a court shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
 
 (i)
 
@@ -120,33 +120,33 @@ Registration for Modification.—If there is no individual contestant or child r
 
 #### Amendments
 
-<b>1997</b>—Subsec. (f)(4). Pub. L. 105–33, §5554(1), substituted “a court having jurisdiction over the parties shall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
+<b>1997</b>—Subsec. (f)(4). Pub. L. 105–33, §5554(1), substituted "a court having jurisdiction over the parties shall issue a child support order, which must be recognized." for "a court may issue a child support order, which must be recognized."
 
-Subsec. (f)(5). Pub. L. 105–33, §5554(2), inserted “under subsection (d)” after “jurisdiction”.
+Subsec. (f)(5). Pub. L. 105–33, §5554(2), inserted "under subsection (d)" after "jurisdiction".
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–193, §322(1), substituted “subsections (e), (f), and (i)” for “subsection (e)”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–193, §322(1), substituted "subsections (e), (f), and (i)" for "subsection (e)".
 
-Subsec. (b). Pub. L. 104–193, §322(2), inserted par. defining “child's home State”.
+Subsec. (b). Pub. L. 104–193, §322(2), inserted par. defining "child's home State".
 
-Subsec. (c). Pub. L. 104–193, §322(3), inserted “by a court of a State” before “is made” in introductory provisions.
+Subsec. (c). Pub. L. 104–193, §322(3), inserted "by a court of a State" before "is made" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 104–193, §322(4), inserted “and subsections (e), (f), and (g)” after “located”.
+Subsec. (c)(1). Pub. L. 104–193, §322(4), inserted "and subsections (e), (f), and (g)" after "located".
 
-Subsec. (d). Pub. L. 104–193, §322(5), inserted “individual” before “contestant” and substituted “subsections (e) and (f)” for “subsection (e)”.
+Subsec. (d). Pub. L. 104–193, §322(5), inserted "individual" before "contestant" and substituted "subsections (e) and (f)" for "subsection (e)".
 
-Subsec. (e). Pub. L. 104–193, §322(6), substituted “modify a child support order issued” for “make a modification of a child support order with respect to a child that is made” in introductory provisions.
+Subsec. (e). Pub. L. 104–193, §322(6), substituted "modify a child support order issued" for "make a modification of a child support order with respect to a child that is made" in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 104–193, §322(7), inserted “pursuant to subsection (i)” after “order”.
+Subsec. (e)(1). Pub. L. 104–193, §322(7), inserted "pursuant to subsection (i)" after "order".
 
-Subsec. (e)(2). Pub. L. 104–193, §322(8), inserted “individual” before “contestant” in subpars. (A) and (B) and substituted “with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume” for “to that court's making the modification and assuming” in subpar. (B).
+Subsec. (e)(2). Pub. L. 104–193, §322(8), inserted "individual" before "contestant" in subpars. (A) and (B) and substituted "with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume" for "to that court's making the modification and assuming" in subpar. (B).
 
 Subsec. (f). Pub. L. 104–193, §322(10), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 104–193, §322(11), substituted “Modified” for “Prior” in heading and “subsections (e) and (f)” for “subsection (e)” in text.
+Subsec. (g). Pub. L. 104–193, §322(11), substituted "Modified" for "Prior" in heading and "subsections (e) and (f)" for "subsection (e)" in text.
 
 Pub. L. 104–193, §322(9), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 104–193, §322(12), inserted “including the duration of current payments and other obligations of support” before comma in par. (2) and “arrears under” after “enforce” in par. (3).
+Subsec. (h). Pub. L. 104–193, §322(12), inserted "including the duration of current payments and other obligations of support" before comma in par. (2) and "arrears under" after "enforce" in par. (3).
 
 Pub. L. 104–193, §322(9), redesignated subsec. (g) as (h).
 
@@ -164,47 +164,47 @@ For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) o
 
 Pub. L. 103–383, §2, Oct. 20, 1994, 108 Stat. 4063, provided that:
 
-“(a)
+"(a)
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) there is a large and growing number of child support cases annually involving disputes between parents who reside in different States;
+&emsp;"(1) there is a large and growing number of child support cases annually involving disputes between parents who reside in different States;
 
-&emsp;“(2) the laws by which the courts of different jurisdictions determine their authority to establish child support orders are not uniform;
+&emsp;"(2) the laws by which the courts of different jurisdictions determine their authority to establish child support orders are not uniform;
 
-&emsp;“(3) those laws, along with the limits imposed by the Federal system on the authority of each State to take certain actions outside its own boundaries—
+&emsp;"(3) those laws, along with the limits imposed by the Federal system on the authority of each State to take certain actions outside its own boundaries—
 
-&emsp;&emsp;“(A) encourage noncustodial parents to relocate outside the States where their children and the custodial parents reside to avoid the jurisdiction of the courts of such States, resulting in an increase in the amount of interstate travel and communication required to establish and collect on child support orders and a burden on custodial parents that is expensive, time consuming, and disruptive of occupations and commercial activity;
+&emsp;&emsp;"(A) encourage noncustodial parents to relocate outside the States where their children and the custodial parents reside to avoid the jurisdiction of the courts of such States, resulting in an increase inthe amount of interstate travel and communication required to establish and collect on child support orders and a burden on custodial parents that is expensive, time consuming, and disruptive of occupations and commercial activity;
 
-&emsp;&emsp;“(B) contribute to the pressing problem of relatively low levels of child support payments in interstate cases and to inequities in child support payments levels that are based solely on the noncustodial parent's choice of residence;
+&emsp;&emsp;"(B) contribute to the pressing problem of relatively low levels of child support payments in interstate cases and to inequities in child support payments levels that are based solely on the noncustodial parent's choice of residence;
 
-&emsp;&emsp;“(C) encourage a disregard of court orders resulting in massive arrearages nationwide;
+&emsp;&emsp;"(C) encourage a disregard of court orders resulting in massive arrearages nationwide;
 
-&emsp;&emsp;“(D) allow noncustodial parents to avoid the payment of regularly scheduled child support payments for extensive periods of time, resulting in substantial hardship for the children for whom support is due and for their custodians; and
+&emsp;&emsp;"(D) allow noncustodial parents to avoid the payment of regularly scheduled child support payments for extensive periods of time, resulting in substantial hardship for the children for whom support is due and for their custodians; and
 
-&emsp;&emsp;“(E) lead to the excessive relitigation of cases and to the establishment of conflicting orders by the courts of various jurisdictions, resulting in confusion, waste of judicial resources, disrespect for the courts, and a diminution of public confidence in the rule of law; and
+&emsp;&emsp;"(E) lead to the excessive relitigation of cases and to the establishment of conflicting orders by the courts of various jurisdictions, resulting in confusion, waste of judicial resources, disrespect for the courts, and a diminution of public confidence in the rule of law; and
 
-&emsp;“(4) among the results of the conditions described in this subsection are—
+&emsp;"(4) among the results of the conditions described in this subsection are—
 
-&emsp;&emsp;“(A) the failure of the courts of the States to give full faith and credit to the judicial proceedings of the other States;
+&emsp;&emsp;"(A) the failure of the courts of the States to give full faith and credit to the judicial proceedings of the other States;
 
-&emsp;&emsp;“(B) the deprivation of rights of liberty and property without due process of law;
+&emsp;&emsp;"(B) the deprivation of rights of liberty and property without due process of law;
 
-&emsp;&emsp;“(C) burdens on commerce among the States; and
+&emsp;&emsp;"(C) burdens on commerce among the States; and
 
-&emsp;&emsp;“(D) harm to the welfare of children and their parents and other custodians.
+&emsp;&emsp;"(D) harm to the welfare of children and their parents and other custodians.
 
-“(b)
+"(b)
 
 Statement of Policy.—In view of the findings made in subsection (a), it is necessary to establish national standards under which the courts of the various States shall determine their jurisdiction to issue a child support order and the effect to be given by each State to child support orders issued by the courts of other States.
 
-“(c)
+"(c)
 
 Purposes.—The purposes of this Act \[enacting this section and provisions set out as a note under section 1 of this title\] are—
 
-&emsp;“(1) to facilitate the enforcement of child support orders among the States;
+&emsp;"(1) to facilitate the enforcement of child support orders among the States;
 
-&emsp;“(2) to discourage continuing interstate controversies over child support in the interest of greater financial stability and secure family relationships for the child; and
+&emsp;"(2) to discourage continuing interstate controversies over child support in the interest of greater financial stability and secure family relationships for the child; and
 
-&emsp;“(3) to avoid jurisdictional competition and conflict among State courts in the establishment of child support orders.”
+&emsp;"(3) to avoid jurisdictional competition and conflict among State courts in the establishment of child support orders."
 

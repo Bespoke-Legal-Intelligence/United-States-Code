@@ -62,31 +62,31 @@ The Secretary shall report to Congress annually on the activities taken under th
 
 Section 1247 of Pub. L. 101–624, as amended by Pub. L. 102–237, title X, §1018(c), Dec. 13, 1991, 105 Stat. 1905, provided that:
 
-“(a)
+"(a)
 
-Establishment.—The Secretary of Agriculture may establish an International Forest Products Trade Institute (hereafter in this section referred to as the ‘Institute’).
+Establishment.—The Secretary of Agriculture may establish an International Forest Products Trade Institute (hereafter in this section referred to as the 'Institute').
 
-“(b)
+"(b)
 
 Mission.—The mission of the Institute will be to increase the competitive position of the forest industries of the northeastern United States as major producers of international forest products in order to increase domestic employment and stimulate rural development, and to provide a knowledgeable, objective analysis of global forest resource problems.
 
-“(c)
+"(c)
 
 Functions.—The Institute shall—
 
-&emsp;“(1) emphasize the application of existing knowledge to the manufacturing and international marketing of forest products as well as conduct new research related to the competitiveness of the northeastern forest products industry;
+&emsp;"(1) emphasize the application of existing knowledge to the manufacturing and international marketing of forest products as well as conduct new research related to the competitiveness of the northeastern forest products industry;
 
-&emsp;“(2) study and evaluate domestic and international forest, forest sector, agroforestry, development, economic, and trade policies;
+&emsp;"(2) study and evaluate domestic and international forest, forest sector, agroforestry, development, economic, and trade policies;
 
-&emsp;“(3) design, analyze and test technologically appropriate manufacturing, processing and marketing systems which are supportive of and consistent with forest policy and management strategies formulated by the Institute and which enhance opportunities for markets in forest products; and
+&emsp;"(3) design, analyze and test technologically appropriate manufacturing, processing and marketing systems which are supportive of and consistent with forest policy and management strategies formulated by the Institute and which enhance opportunities for markets in forest products; and
 
-&emsp;“(4) formulate and test management strategies for—
+&emsp;"(4) formulate and test management strategies for—
 
-&emsp;&emsp;“(A) United States forests, and
+&emsp;&emsp;"(A) United States forests, and
 
-&emsp;&emsp;“(B) manufacturing facilities that promote ecologically sustainable use, and long-term management, of international forests.
+&emsp;&emsp;"(B) manufacturing facilities that promote ecologically sustainable use, and long-term management, of international forests.
 
-“(d)
+"(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.”
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section."
 

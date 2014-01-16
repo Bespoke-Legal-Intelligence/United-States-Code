@@ -24,7 +24,7 @@ Except as otherwise distinctly expressed or manifestly intended, the same item (
 
 #### (e) Privacy Act of 1974
 
-The provisions of subsections (d)(2), (3), and (4), and (g) of section 552a of title 5, UnitedStates Code, shall not be applied, directly or indirectly, to the determination of the existence or possible existence of liability (or the amount thereof) of any person for any tax, penalty, interest, fine, forfeiture, or other imposition or offense to which the provisions of this title apply.
+The provisions of subsections (d)(2), (3), and (4), and (g) of section 552a of title 5, United States Code, shall not be applied, directly or indirectly, to the determination of the existence or possible existence of liability (or the amount thereof) of any person for any tax, penalty, interest, fine, forfeiture, or other imposition or offense to which the provisions of this title apply.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 922; Pub. L. 94–455, title XII, §1202(g), Oct. 4, 1976, 90 Stat. 1688; Pub. L. 100–647, title I, §1012(aa)(1)(A), Nov. 10, 1988, 102 Stat. 3531.)
 
@@ -38,13 +38,13 @@ The Privacy Act of 1974, referred to in subsec. (e), is Pub. L. 93–579, Dec. 3
 
 #### Amendments
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–647 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No provision of this title shall apply in any case where its application would be contrary to any treaty obligation of the United States in effect on the date of enactment of this title.”
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "No provision of this title shall apply in any case where its application would be contrary to any treaty obligation of the United States in effect on the date of enactment of this title."
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–455 added subsec. (e).
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1012(aa)(1)(B), Nov. 10, 1988, 102 Stat. 3531, provided that: “Section 7852(d)(1) of the 1986 Code, as added by subparagraph (A), shall apply to any taxable period with respect to which the time for assessment of any deficiency has not expired by reason of any law or rule of law before the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1012(aa)(1)(B), Nov. 10, 1988, 102 Stat. 3531, provided that: "Section 7852(d)(1) of the 1986 Code, as added by subparagraph (A), shall apply to any taxable period with respect to which the time for assessment of any deficiency has not expired by reason of any law or rule of law before the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 94–455 effective Jan. 1, 1977, see section 1202(i) of Pub
 
 #### Application of Subsec. (d) to Pub. L. 87–834
 
-Pub. L. 87–834, §31, Oct. 16, 1962, 76 Stat. 1069, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Section 7852(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to treaty obligations) shall not apply in respect of any amendment made by this Act \[see Short Title of 1962 Amendments note set out under section 1 of this title\].”
+Pub. L. 87–834, §31, Oct. 16, 1962, 76 Stat. 1069, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Section 7852(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to treaty obligations) shall not apply in respect of any amendment made by this Act \[see Short Title of 1962Amendments note set out under section 1 of this title\]."
 

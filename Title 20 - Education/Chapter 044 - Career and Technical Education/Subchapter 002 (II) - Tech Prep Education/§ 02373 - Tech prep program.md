@@ -160,7 +160,7 @@ Each tech prep program may—
 
 #### (2) Number and percent
 
-&emsp;For purposes of subparagraphs (B) and (C) of paragraph (1), the numbers and percentagesshall be determined separately with respect to each clause of each such subparagraph.
+&emsp;For purposes of subparagraphs (B) and (C) of paragraph (1), the numbers and percentages shall be determined separately with respect to each clause of each such subparagraph.
 
 (Pub. L. 88–210, title II, §203, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 738; amended Pub. L. 110–315, title IX, §941(k)(2)(D)(iii), Aug. 14, 2008, 122 Stat. 3466.)
 
@@ -182,5 +182,5 @@ Another prior section 203 of Pub. L. 88–210 was classified to section 2333 of 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(B)(i)(I)(bb)(AA). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+<b>2008</b>—Subsec. (a)(1)(B)(i)(I)(bb)(AA). Pub. L. 110–315 substituted "the Tribally Controlled Colleges and Universities Assistance Act of 1978" for "the Tribally Controlled College or University Assistance Act of 1978".
 

@@ -28,7 +28,7 @@
 
 &emsp;(E) such other information as the Secretary may require.
 
-(2)(A) The health systems agency for the health service area in which is located a hospital applying for a grant under the program shall (i) in making the review of the applicant's application under section 300l–2(e) <sup>1</sup> of this title,determine the need for each service or part proposed to be discontinued by the applicant, (ii) in the case of an application for the conversion of a facility, determine the need for each service which will be provided as a result of the conversion, and (iii) make a recommendation to the State Agency for the State in which the applicant is located respecting approval by the Secretary of the applicant's application.
+(2)(A) The health systems agency for the health service area in which is located a hospital applying for a grant under the program shall (i) in making the review of the applicant's application under section 300l–2(e) <sup>1</sup> of this title, determine the need for each service or part proposed to be discontinued by the applicant, (ii) in the case of an application for the conversion of a facility, determine the need for each service which will be provided as a result of the conversion, and (iii) make a recommendation to the State Agency for the State in which the applicant is located respecting approval by the Secretary of the applicant's application.
 
 (B) A State Agency which has received a recommendation from a health systems agency under subparagraph (A) respecting an application shall, after consideration of such recommendation, make a recommendation to the Secretary respecting the approval by the Secretary of the application. A State Agency's recommendation under this subparagraph respecting the approval of an application (i) shall be based upon (I) the need for each service or part proposed to be discontinued by the applicant, (II) in the case of an application for the conversion of a facility, the need for each service which will be provided as a result of the conversion, and (III) such other criteria as the Secretary may prescribe, and (ii) shall be accompanied by the health systems agency's recommendation made with respect to the approval of the application.
 
@@ -40,7 +40,7 @@
 
 &emsp;(ii) if the Secretary is unable to determine that the cost of providing inpatient health services in the health service area in which the applicant is located will be less than if the inpatient health services proposed to be discontinued were not discontinued.
 
-(B) In considering applications of hospitals for grants the Secretary shall consider the recommendations of health systems agencies and State Agencies and shall give special consideration to applications (i) which will assist health systems agencies and State Agencies to meet the goals in their health systems plans and State health plans, or (ii) which will result in the greatest reduction in hospital costs within a health service area.
+(B) In considering applications of hospitals for grants the Secretary shall consider the recommendations of health systems agencies and State Agencies and shall give special consideration to applications (i) which will assist health systems agencies and State Agencies to meetthe goals in their health systems plans and State health plans, or (ii) which will result in the greatest reduction in hospital costs within a health service area.
 
 #### (c) Certification of protective arrangements for employment benefits and interests; guidelines; satisfactory arrangement determinations
 
@@ -60,9 +60,9 @@
 
 The records and audits requirements of section 292e <sup>2</sup> of this title shall apply with respect to grants made under subsection (a) of this section.
 
-#### (e) “Hospital” defined
+#### (e) "Hospital" defined
 
-For purposes of this part, the term “hospital” means, with respect to any fiscal year, an institution (including a distinct part of an institution participating in the programs established under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\])—
+For purposes of this part, the term "hospital" means, with respect to any fiscal year, an institution (including a distinct part of an institution participating in the programs established under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\])—
 
 &emsp;(1) which satisfies paragraphs (1) and (7) of section 1861(e) of such Act \[42 U.S.C. 1395x(e)\],
 
@@ -72,11 +72,11 @@ For purposes of this part, the term “hospital” means, with respect to any fi
 
 > but such term does not include a Federal hospital or a psychiatric hospital (as described in section 1861(f)(1) of the Social Security Act \[42 U.S.C. 1395x(f)(1)\]).
 
-(July 1, 1944, ch. 373, title XVI, §1642, as added Pub. L. 96–79, title III, §301(a), Oct. 4, 1979, 93Stat. 637; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+(July 1, 1944, ch. 373, title XVI, §1642, as added Pub. L. 96–79, title III, §301(a), Oct. 4, 1979, 93 Stat. 637; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
-#### References In Text
+#### References in Text
 
-Section 300l–2, of this title, referred to in subsec. (b)(2)(A), was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
+Section 300l–2 of this title, referred to in subsec. (b)(2)(A), was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
 
 The National Labor Relations Act, referred to in subsec. (c)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
@@ -86,11 +86,11 @@ The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 5
 
 #### Codification
 
-In subsec. (b)(1)(D), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b)(1)(D), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act)" and "section 3145 of title 40" substituted for "section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c)(2) and (3), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (c)(2) and (3), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

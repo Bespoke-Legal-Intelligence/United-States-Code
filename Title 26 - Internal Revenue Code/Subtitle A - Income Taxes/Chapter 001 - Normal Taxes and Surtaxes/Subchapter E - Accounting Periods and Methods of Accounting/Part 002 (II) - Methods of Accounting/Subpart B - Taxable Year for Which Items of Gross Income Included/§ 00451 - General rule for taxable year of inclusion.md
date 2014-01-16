@@ -42,7 +42,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (A) Utility services
 
-&emsp;&emsp;The term “utility services” includes—
+&emsp;&emsp;The term "utility services" includes—
 
 &emsp;&emsp;&emsp;(i) the providing of electrical energy, water, or sewage disposal,
 
@@ -56,7 +56,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;&emsp;The taxable year in which services are treated as provided to customers shall not, in any manner, be determined by reference to—
 
-&emsp;&emsp;&emsp;(i) the period in which the customers’ meters are read, or
+&emsp;&emsp;&emsp;(i) the period in which the customers' meters are read, or
 
 &emsp;&emsp;&emsp;(ii) the period in which the taxpayer bills (or may bill) the customers for such service.
 
@@ -80,7 +80,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (4) Frozen deposit
 
-&emsp;For purposes of this subsection, the term “frozen deposit” means any deposit if, as of the close of the calendar year, any portion of such deposit may not be withdrawn because of—
+&emsp;For purposes of this subsection, the term "frozen deposit" means any deposit if, as of the close of the calendar year, any portion of such deposit may not be withdrawn because of—
 
 &emsp;&emsp;(A) the bankruptcy or insolvency of the qualified financial institution (or threat thereof), or
 
@@ -88,7 +88,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (5) Other definitions
 
-&emsp;For purposes of this subsection, the terms “qualified individual”, “qualified financial institution”, and “deposit” have the same respective meanings as when used in section 165(l).
+&emsp;For purposes of this subsection, the terms "qualified individual", "qualified financial institution", and "deposit" have the same respective meanings as when used in section 165(l).
 
 #### (h) Special rule for cash options for receipt of qualified prizes
 
@@ -102,7 +102,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified prize option” means an option which—
+&emsp;&emsp;The term "qualified prize option" means an option which—
 
 &emsp;&emsp;&emsp;(i) entitles an individual to receive a single cash payment in lieu of receiving a qualified prize (or remaining portion thereof), and
 
@@ -110,7 +110,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (B) Qualified prize
 
-&emsp;&emsp;The term “qualified prize” means any prize or award which—
+&emsp;&emsp;The term "qualified prize" means any prize or award which—
 
 &emsp;&emsp;&emsp;(i) is awarded as a part of a contest, lottery, jackpot, game, or other similar arrangement,
 
@@ -138,7 +138,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (2) Qualified gain
 
-&emsp;For purposes of this subsection, the term “qualified gain” means, with respect to any qualifying electric transmission transaction in any taxable year—
+&emsp;For purposes of this subsection, the term "qualified gain" means, with respect to any qualifying electric transmission transaction in any taxable year—
 
 &emsp;&emsp;(A) any ordinary income derived from such transaction which would be required to be recognized under section 1245 or 1250 for such taxable year (determined without regard to this subsection), and
 
@@ -146,7 +146,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (3) Qualifying electric transmission transaction
 
-&emsp;For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008 (before January 1, 2014, in the case of a qualified electric utility), of—
+&emsp;For purposes of this subsection, the term "qualifying electric transmission transaction" means any sale or other disposition before January 1, 2008 (before January 1, 2014, in the case of a qualified electric utility), of—
 
 &emsp;&emsp;(A) property used in the trade or business of providing electric transmission services, or
 
@@ -156,7 +156,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (4) Independent transmission company
 
-&emsp;For purposes of this subsection, the term “independent transmission company” means—
+&emsp;For purposes of this subsection, the term "independent transmission company" means—
 
 &emsp;&emsp;(A) an independent transmission provider approved by the Federal Energy Regulatory Commission,
 
@@ -178,7 +178,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (A) In general
 
-&emsp;&emsp;The term “exempt utility property” means property used in the trade or business of—
+&emsp;&emsp;The term "exempt utility property" means property used in the trade or business of—
 
 &emsp;&emsp;&emsp;(i) generating, transmitting, distributing, or selling electricity, or
 
@@ -190,11 +190,11 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (C) Exception for property located outside the United States
 
-&emsp;&emsp;The term “exempt utility property” shall not include any property which is located outside the United States.
+&emsp;&emsp;The term "exempt utility property" shall not include any property which is located outside the United States.
 
 #### (6) Qualified electric utility
 
-&emsp;For purposes of this subsection, the term “qualified electric utility” means a personthat, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
+&emsp;For purposes of this subsection, the term "qualified electric utility" means a personthat, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
 
 &emsp;&emsp;(A) a transmitting utility (as defined in section 3(23) of the Federal Power Act (16 U.S.C. 796(23))) with respect to the transmission facilities to which the election under this subsection applies, and
 
@@ -234,21 +234,21 @@ The Disaster Assistance Act of 1988, referred to in subsec. (d), is Pub. L. 100�
 
 #### Amendments
 
-<b>2013</b>—Subsec. (i)(3). Pub. L. 112–240 substituted “January 1, 2014” for “January 1, 2012” in introductory provisions.
+<b>2013</b>—Subsec. (i)(3). Pub. L. 112–240 substituted "January 1, 2014" for "January 1, 2012" in introductory provisions.
 
-<b>2010</b>—Subsec. (i)(3). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2010” in introductory provisions.
+<b>2010</b>—Subsec. (i)(3). Pub. L. 111–312 substituted "January 1, 2012" for "January 1, 2010" in introductory provisions.
 
-<b>2008</b>—Subsec. (i)(3). Pub. L. 110–343, §109(a)(1), inserted “(before January 1, 2010, in the case of a qualified electric utility)” after “January 1, 2008” in introductory provisions.
+<b>2008</b>—Subsec. (i)(3). Pub. L. 110–343, §109(a)(1), inserted "(before January 1, 2010, in the case of a qualified electric utility)" after "January 1, 2008" in introductory provisions.
 
-Subsec. (i)(4)(B)(ii). Pub. L. 110–343, §109(b), substituted “the date which is 4 years after the close of the taxable year in which the transaction occurs” for “December 31, 2007”.
+Subsec. (i)(4)(B)(ii). Pub. L. 110–343, §109(b), substituted "the date which is 4 years after the close of the taxable year in which the transaction occurs" for "December 31, 2007".
 
 Subsec. (i)(5)(C). Pub. L. 110–343, §109(c), added subpar. (C).
 
 Subsec. (i)(6) to (11). Pub. L. 110–343, §109(a)(2), added par. (6) and redesignated former pars. (6) to (10) as (7) to (11), respectively.
 
-<b>2005</b>—Subsec. (i)(3). Pub. L. 109–58, §1305(a), substituted “2008” for “2007” in introductory provisions.
+<b>2005</b>—Subsec. (i)(3). Pub. L. 109–58, §1305(a), substituted "2008" for "2007" in introductory provisions.
 
-Subsec. (i)(4)(B)(ii). Pub. L. 109–58, §1305(b), substituted “December 31, 2007” for “the close of the period applicable under subsection (a)(2)(B) as extended under paragraph (2)”.
+Subsec. (i)(4)(B)(ii). Pub. L. 109–58, §1305(b), substituted "December 31, 2007" for "the close of the period applicable under subsection (a)(2)(B) as extended under paragraph (2)".
 
 <b>2004</b>—Subsec. (e)(3). Pub. L. 108–357, §311(c), added par. (3).
 
@@ -256,11 +256,11 @@ Subsec. (i). Pub. L. 108–357, §909(a), added subsec. (i).
 
 <b>1998</b>—Subsec. (h). Pub. L. 105–277 added subsec. (h).
 
-<b>1997</b>—Subsec. (e). Pub. L. 105–34 inserted “, flood, or other weather-related conditions” after “drought” in heading and substituted “drought, flood, or other weather-related conditions, and that such conditions” for “drought conditions, and that these drought conditions” in par. (1).
+<b>1997</b>—Subsec. (e). Pub. L. 105–34 inserted ", flood, or other weather-related conditions" after "drought" in heading and substituted "drought, flood, or other weather-related conditions, and that such conditions" for "drought conditions, and that these drought conditions" in par. (1).
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–647, §6033(a), inserted “or title II of the Disaster Assistance Act of 1988,” after “the Agricultural Act of 1949, as amended,”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–647, §6033(a), inserted "or title II of the Disaster Assistance Act of 1988," after "the Agricultural Act of 1949, as amended,".
 
-Subsec. (e)(1). Pub. L. 100–647, §6030(a), struck out “(other than livestock described in section 1231(b)(3))” after “exchange of livestock”.
+Subsec. (e)(1). Pub. L. 100–647, §6030(a), struck out "(other than livestock described in section 1231(b)(3))" after "exchange of livestock".
 
 Subsecs. (f), (g). Pub. L. 100–647, §1009(d)(3), redesignated subsec. (f), relating to treatment of interest on frozen deposits in certain financial institutions, as (g).
 
@@ -268,7 +268,7 @@ Subsecs. (f), (g). Pub. L. 100–647, §1009(d)(3), redesignated subsec. (f), re
 
 Pub. L. 99–514, §821(a), added subsec. (f) relating to special rule for utility services.
 
-<b>1976</b>—Subsec. (d). Pub. L. 94–455, §§1906(b)(13)(A), 2102(a), (b), inserted reference to disaster payments in heading, provided that payments received under the Agricultural Act of 1949, as amended, be treated as insurance proceeds received as a result of destruction or damage to crops if the payments are received as the result of destruction or damage from drought, flood, or other natural disaster, or as the result of inability to plant crops because of drought, flood, or other naturaldisaster, and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (d). Pub. L. 94–455, §§1906(b)(13)(A), 2102(a), (b), inserted reference to disaster payments in heading, provided that payments received under the Agricultural Act of 1949, as amended, be treated as insurance proceeds received as a result of destruction or damage to crops if the payments are received as the result of destruction or damage from drought, flood, or other natural disaster, or as the result of inability to plant crops because of drought, flood, or other naturaldisaster, and struck out "or his delegate" after "Secretary".
 
 Subsec. (e). Pub. L. 94–455, §2141(a), added subsec. (e).
 
@@ -278,119 +278,119 @@ Subsec. (e). Pub. L. 94–455, §2141(a), added subsec. (e).
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–240, title IV, §411(b), Jan. 2, 2013, 126 Stat. 2343, provided that: “The amendment made by this section \[amending this section\] shall apply to dispositions after December 31, 2011.”
+Pub. L. 112–240, title IV, §411(b), Jan. 2, 2013, 126 Stat. 2343, provided that: "The amendment made by this section \[amending this section\] shall apply to dispositions after December 31, 2011."
 
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–58, title XIII, §1305(c), Aug. 8, 2005, 119 Stat. 997, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by subsection (a) \[amending this section\] shall apply to transactions occurring after the date of the enactment of this Act \[Aug. 8, 2005\].
 
-“(2)
+"(2)
 
-Technical amendment.—The amendment made by subsection (b) \[amending this section\] shall take effect as if included in the amendments made by section 909 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357, amending this section\].”
+Technical amendment.—The amendment made by subsection (b) \[amending this section\] shall take effect as if included in the amendments made by section 909 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357, amending this section\]."
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–312, title VII, §705(b), Dec. 17, 2010, 124 Stat. 3311, provided that: “The amendment made by this section \[amending this section\] shall apply to dispositions after December 31, 2009.”
+Pub. L. 111–312, title VII, §705(b), Dec. 17, 2010, 124 Stat. 3311, provided that: "The amendment made by this section \[amending this section\] shall apply to dispositions after December 31, 2009."
 
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–343, div. B, title I, §109(d), Oct. 3, 2008, 122 Stat. 3822, provided that:
 
-“(1)
+"(1)
 
 Extension.—The amendments made by subsection (a) \[amending this section\] shall apply to transactions after December 31, 2007.
 
-“(2)
+"(2)
 
 Transfers of operational control.—The amendment made by subsection (b) \[amending this section\] shall take effect as if included in section 909 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\].
 
-“(3)
+"(3)
 
-Exception for property located outside the united states.—The amendment made by subsection (c) \[amending this section\] shall apply to transactions after the date of the enactment of this Act \[Oct. 3, 2008\].”
+Exception for property located outside the united states.—The amendment made by subsection (c) \[amending this section\] shall apply to transactions after the date of the enactment of this Act \[Oct. 3, 2008\]."
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title III, §311(d), Oct. 22, 2004, 118 Stat. 1467, provided that: “The amendments made by this section \[amending this section and section 1033 of this title\] shall apply to any taxable year with respect to which the due date (without regard to extensions) for the return is after December 31, 2002.”
+Pub. L. 108–357, title III, §311(d), Oct. 22, 2004, 118 Stat. 1467, provided that: "The amendments made by this section \[amending this section and section 1033 of this title\] shall apply to any taxable year with respect to which the due date (without regard to extensions) for the return is after December 31, 2002."
 
-Pub. L. 108–357, title VIII, §909(b), Oct. 22, 2004, 118 Stat. 1659, provided that: “The amendments made by this section \[amending this section\] shall apply to transactions occurring after the date of the enactment of this Act \[Oct. 22, 2004\], in taxable years ending after such date.”
+Pub. L. 108–357, title VIII, §909(b), Oct. 22, 2004, 118 Stat. 1659, provided that: "The amendments made by this section \[amending this section\] shall apply to transactions occurring after the date of the enactment of this Act \[Oct. 22, 2004\], in taxable years ending after such date."
 
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–277, div. J, title V, §5301(b), Oct. 21, 1998, 112 Stat. 2681–918, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by this section \[amending this section\] shall apply to any prize to which a person first becomes entitled after the date of enactment of this Act \[Oct. 21, 1998\].
 
-“(2)
+"(2)
 
 Transition rule.—The amendment made by this section shall apply to any prize to which a person first becomes entitled on or before the date of enactment of this Act, except that in determining whether an option is a qualified prize option as defined in section 451(h)(2)(A) of the Internal Revenue Code of 1986 (as added by such amendment)—
 
-&emsp;“(A) clause (ii) of such section 451(h)(2)(A) shall not apply, and
+&emsp;"(A) clause (ii) of such section 451(h)(2)(A) shall not apply, and
 
-&emsp;“(B) such option shall be treated as a qualified prize option if it is exercisable only during all or part of the 18-month period beginning on July 1, 1999.”
+&emsp;"(B) such option shall be treated as a qualified prize option if it is exercisable only during all or part of the 18-month period beginning on July 1, 1999."
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title IX, §913(c), Aug. 5, 1997, 111 Stat. 878, provided that: “The amendments made by this section \[amending this section and section 1033 of this title\] shall apply to sales and exchanges after December 31, 1996.”
+Pub. L. 105–34, title IX, §913(c), Aug. 5, 1997, 111 Stat. 878, provided that: "The amendments made by this section \[amending this section and section 1033 of this title\] shall apply to sales and exchanges after December 31, 1996."
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1009(d)(3) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, §6030(b), Nov. 10, 1988, 102 Stat. 3694, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to sales or exchanges occurring after December 31, 1987.”
+Pub. L. 100–647, title VI, §6030(b), Nov. 10, 1988, 102 Stat. 3694, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to sales or exchanges occurring after December 31, 1987."
 
-Pub. L. 100–647, title VI, §6033(b), Nov. 10, 1988, 102 Stat. 3695, as amended by Pub. L. 101–239, title VII, §7816(g), Dec. 19, 1989, 103 Stat. 2421, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments received before, on, or after the date of enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6033(b), Nov. 10, 1988, 102 Stat. 3695, as amended by Pub. L. 101–239, title VII, §7816(g), Dec. 19, 1989, 103 Stat. 2421, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to payments received before, on, or after the date of enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date of 1986 Amendment
 
 Pub. L. 99–514, title VIII, §821(b), Oct. 22, 1986, 100 Stat. 2373, as amended by Pub. L. 100–647, title I, §1008(h), Nov. 10, 1988, 102 Stat. 3444, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
-“(2)
+"(2)
 
 Change in method of accounting.—If a taxpayer is required by the amendments made by this section to change its method of accounting for any taxable year—
 
-&emsp;“(A) such change shall be treated as initiated by the taxpayer,
+&emsp;"(A) such change shall be treated as initiated by the taxpayer,
 
-&emsp;“(B) such change shall be treated as having been made with the consent of the Secretary, and
+&emsp;"(B) such change shall be treated as having been made with the consent of the Secretary, and
 
-&emsp;“(C) the adjustments under section 481 of the Internal Revenue Code of 1954 \[now 1986\] by reason of such change shall be taken into account ratably over a period no longer than the first 4 taxable years beginning after December 31, 1986.
+&emsp;"(C) the adjustments under section 481 of the Internal Revenue Code of 1954 \[now 1986\] by reason of such change shall be taken into account ratably over a period no longer than the first 4 taxable years beginning after December 31, 1986.
 
-“(3)
+"(3)
 
-Special rule for certain cycle billing.—If a taxpayer for any taxable year beginning before August 16, 1986, for purposes of chapter 1 of the Internal Revenue Code of 1986 took into account income from services described in section 451(f) of such Code (as added by subsection (a)) on the basis of the period in which the customers’ meters were read, then such treatment for such year shall be deemed to be proper. The preceding sentence shall also apply to any taxable year beginning after August 16, 1986, and before January 1, 1987, if the taxpayer treated such income in the same manner for the taxable year preceding such taxable year.”
+Special rule for certain cycle billing.—If a taxpayer for any taxable year beginning before August 16, 1986, for purposes of chapter 1 of the Internal Revenue Code of 1986 took into account income from services described in section 451(f) of such Code (as added by subsection (a)) on the basis of the period in which the customers' meters were read, then such treatment for such year shall be deemed to be proper. The preceding sentence shall also apply to any taxable year beginning after August 16, 1986, and before January 1, 1987, if the taxpayer treated such income in the same manner for the taxable year preceding such taxable year."
 
 Pub. L. 99–514, title IX, §905(c), Oct. 22, 1986, 100 Stat. 2387, as amended by Pub. L. 100–647, title I, §1009(d)(2), Nov. 10, 1988, 102 Stat. 3450, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by subsection (a) \[amending section 165 of this title\] shall apply to taxable years beginning after December 31, 1981, and, except as provided in paragraph (2), the amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1982.
 
-“(2)
+"(2)
 
 Special rules for subsection (b).—
 
-&emsp;“(A) The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1982, and before January 1, 1987, only if the qualified individual elects to have such amendment apply for all such taxable years.
+&emsp;"(A) The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1982, and before January 1, 1987, only if the qualified individual elects to have such amendment apply for all such taxable years.
 
-&emsp;“(B) In the case of interest attributable to the period beginning January 1, 1983, and ending December31, 1987, the interest deduction of financial institutions shall be determined without regard to paragraph (3) of section 451(f) of the Internal Revenue Code of 1986 (as added by subsection (b)).”
+&emsp;"(B) In the case of interest attributable to the period beginning January 1, 1983, and ending December31, 1987, the interest deduction of financial institutions shall be determined without regard to paragraph (3) of section 451(f) of the Internal Revenue Code of 1986 (as added by subsection (b))."
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XXI, §2102(c), Oct. 4, 1976, 90 Stat. 1900, provided that: “The amendments made by this section \[amending this section\] shall apply to payments received after December 31, 1973, in taxable years ending after such date.”
+Pub. L. 94–455, title XXI, §2102(c), Oct. 4, 1976, 90 Stat. 1900, provided that: "The amendments made by this section \[amending this section\] shall apply to payments received after December 31, 1973, in taxable years ending after such date."
 
-Pub. L. 94–455, title XXI, §2141(b), Oct. 4, 1976, 90 Stat. 1933, provided that: “The amendment made by this section \[amending this section\] applies to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title XXI, §2141(b), Oct. 4, 1976, 90 Stat. 1933, provided that: "The amendment made by this section \[amending this section\] applies to taxable years beginning after December 31, 1975."
 
 #### Effective Date of 1969 Amendment
 
-Pub. L. 91–172, title II, §215(b), Dec. 30, 1969, 83 Stat. 573, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Dec. 30, 1969\].”
+Pub. L. 91–172, title II, §215(b), Dec. 30, 1969, 83 Stat. 573, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Dec. 30, 1969\]."
 
 #### Effective Date of 1965 Amendment
 
@@ -408,87 +408,87 @@ For provisions relating to credit or refund of overpayments of tax, and assessme
 
 Pub. L. 97–248, title II, §229, Sept. 3, 1982, 96 Stat. 493, as amended by Pub. L. 98–369, div. A, title VII, §712(m), July 18, 1984, 98 Stat. 955, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of the Treasury shall modify the income tax regulations relating to accounting for long-term contracts to—
 
-&emsp;“(1) clarify the time at which a contract is to be considered completed,
+&emsp;"(1) clarify the time at which a contract is to be considered completed,
 
-&emsp;“(2) clarify when—
+&emsp;"(2) clarify when—
 
-&emsp;&emsp;“(A) one agreement will be treated as more than one contract, and
+&emsp;&emsp;"(A) one agreement will be treated as more than one contract, and
 
-&emsp;&emsp;“(B) two or more agreements will be treated as one contract, and
+&emsp;&emsp;"(B) two or more agreements will be treated as one contract, and
 
-&emsp;“(3) properly allocate all costs which directly benefit, or are incurred by reason of, the extended period long-term contract activities of the taxpayer.
+&emsp;"(3) properly allocate all costs which directly benefit, or are incurred by reason of, the extended period long-term contract activities of the taxpayer.
 
-“(b)
+"(b)
 
 Extended Period Long-Term Contracts Defined.—For purposes of this section—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—The term ‘extended period long-term contract’ means any long-term contract which the taxpayer estimates (at the time such contract is entered into) will not be completed within the 2-year period beginning on the contract commencement date of such contract.
+In general.—The term 'extended period long-term contract' means any long-term contract which the taxpayer estimates (at the time such contract is entered into) will not be completed within the 2-year period beginning on the contract commencement date of such contract.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Certain construction contracts.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-In general.—The term ‘extended period long-term contract’ does not include any construction contract entered into by a taxpayer—
+In general.—The term 'extended period long-term contract' does not include any construction contract entered into by a taxpayer—
 
-&emsp;&emsp;&emsp;“(i) who estimates (at the time such contract is entered into) that such contract will be completed within the 3-year period beginning on the contract commencement date of such contract, or
+&emsp;&emsp;&emsp;"(i) who estimates (at the time such contract is entered into) that such contract will be completed within the 3-year period beginning on the contract commencement date of such contract, or
 
-&emsp;&emsp;&emsp;“(ii) whose average annual gross receipts over the 3 taxable years preceding the taxable year in which such contract is entered into do not exceed $25,000,000.
+&emsp;&emsp;&emsp;"(ii) whose average annual gross receipts over the 3 taxable years preceding the taxable year in which such contract is entered into do not exceed $25,000,000.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Determination of taxpayer's gross receipts.—For purposes of subparagraph (A), the gross receipts of—
 
-&emsp;&emsp;&emsp;“(i) all trades or businesses (whether or not incorporated) which are under common control with the taxpayer (within the meaning of section 52(b)), and
+&emsp;&emsp;&emsp;"(i) all trades or businesses (whether or not incorporated) which are under common control with the taxpayer (within the meaning of section 52(b)), and
 
-&emsp;&emsp;&emsp;“(ii) all members of any controlled group of corporations of which the taxpayer is a member,
+&emsp;&emsp;&emsp;"(ii) all members of any controlled group of corporations of which the taxpayer is a member,
 
 &nbsp;&nbsp;for the 3 taxable years of such persons preceding the taxable year in which the contract described in subparagraph (A) is entered into shall be included in the gross receipts of the taxpayer for the period described in subparagraph (A). The Secretary shall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who engage in construction contracts through partnerships, joint ventures, and corporations.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
-Controlled group of corporations.—The term ‘controlled group of corporations’ has the meaning given to such term by section 1563(a), except that—
+Controlled group of corporations.—The term 'controlled group of corporations' has the meaning given to such term by section 1563(a), except that—
 
-&emsp;&emsp;&emsp;“(i) ‘more than 50 percent’ shall be substituted for ‘at least 80 percent’ each place it appears in section 1563(a)(1), and
+&emsp;&emsp;&emsp;"(i) 'more than 50 percent' shall be substituted for 'at least 80 percent' each place it appears in section 1563(a)(1), and
 
-&emsp;&emsp;&emsp;“(ii) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
+&emsp;&emsp;&emsp;"(ii) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Construction contract.—The term ‘construction contract’ means any contract for the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, improvements to real property.
+Construction contract.—The term 'construction contract' means any contract for the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, improvements to real property.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Contract commencement date.—The term ‘contract commencement date’ means, with respect to any contract, the first date on which any costs (other than costs such as bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
+Contract commencement date.—The term 'contract commencement date' means, with respect to any contract, the first date on which any costs (other than costs such as bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
 
-“(c)
+"(c)
 
 Effective Dates; Special Rules.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The modifications to regulations which are required to be made under paragraphs (1) and (2) of subsection (a) shall apply with respect to taxable years ending after December 31, 1982.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Cost allocation.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Any modification to Income Tax Regulation 1.451–3 made under subsection (a)(3) which requires additional costs to be allocated to a contract shall apply only to the applicable percentage of such additional costs incurred in taxable years beginning after December 31, 1982, with respect to contracts entered into after such date.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Applicable percentage.—For purposes of subparagraph (A), the applicable percentage shall be determined in accordance with the following table:
 
-> &emsp;<b>  “If the taxable year begins</b>
+> &emsp;<b>  "If the taxable year begins</b>
 
 <b>The applicable</b>
 
@@ -512,89 +512,89 @@ Applicable percentage.—For purposes of subparagraph (A), the applicable percen
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&emsp;“(3)
+&emsp;"(3)
 
 Special rules.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Time of completion.—Any contract of a taxpayer which would (but for this paragraph) be treated as having been completed prior to the first taxable year of such taxpayer ending after December 31, 1982, solely by reason of any modification to regulations made under subsection (a)(1), shall be treated as having been completed on the first day of such taxable year.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Aggregation and severance.—Any contract of a taxpayer which would (but for this paragraph) be treated as having been completed prior to the first taxable year of such taxpayer ending after December 31, 1982—
 
-&emsp;&emsp;&emsp;“(i) solely by reason of any modification to regulations made under subsection (a)(2), or
+&emsp;&emsp;&emsp;"(i) solely by reason of any modification to regulations made under subsection (a)(2), or
 
-&emsp;&emsp;&emsp;“(ii) solely by reason of any modifications to regulations made under both paragraphs (1) and (2) of subsection (a),
+&emsp;&emsp;&emsp;"(ii) solely by reason of any modifications to regulations made under both paragraphs (1) and (2) of subsection (a),
 
 &nbsp;&nbsp;shall be treated as having been completed on the first day after December 31, 1982, on which any contract which was severed from such contract (by reason of the modifications made by subsection (a)(2)) is completed (determined after the application of any modifications to regulations made under subsection (a)(1)).
 
-&emsp;“(4)
+&emsp;"(4)
 
-Underpayments of estimated tax for 1982.—To the extent provided in regulations, no addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1954 for the taxpayer's first taxable year ending after December 31, 1982, by reason of a long-term contract, but only with respect to installments required to be paid before April 13, 1983.”
+Underpayments of estimated tax for 1982.—To the extent provided in regulations, no addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1954 for the taxpayer's first taxable year ending after December 31, 1982, by reason of a long-term contract, but only with respect to installments required to be paid before April 13, 1983."
 
 #### Private Deferred Compensation Plans; Taxable Years Ending on or after February 1, 1978
 
 Pub. L. 95–600, title I, §132, Nov. 6, 1978, 92 Stat. 2782, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(a)
+"(a)
 
 General Rule.—The taxable year of inclusion in gross income of any amount covered by a private deferred compensation plan shall be determined in accordance with the principles set forth in regulations, rulings, and judicial decisions relating to deferred compensation which were in effect on February 1, 1978.
 
-“(b)
+"(b)
 
 Private Deferred Compensation Plan Defined.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—For purposes of this section, the term ‘private deferred compensation plan’ means a plan, agreement, or arrangement—
+In general.—For purposes of this section, the term 'private deferred compensation plan' means a plan, agreement, or arrangement—
 
-&emsp;&emsp;“(A) where the person for whom the service is performed is not a State (within the meaning of paragraph (1) of section 457(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and not an organization which is exempt from tax under section 501 of such Code, and
+&emsp;&emsp;"(A) where the person for whom the service is performed is not a State (within the meaning of paragraph (1) of section 457(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and not an organization which is exempt from tax under section 501 of such Code, and
 
-&emsp;&emsp;“(B) under which the payment or otherwise making available of compensation is deferred.
+&emsp;&emsp;"(B) under which the payment or otherwise making available of compensation is deferred.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Certain plans excluded.—Paragraph (1) shall not apply to—
 
-&emsp;&emsp;“(A) a plan described in section 401(a) of the Internal Revenue Code of 1986 which includes a trust, exempt from tax under section 501(a) of such Code,
+&emsp;&emsp;"(A) a plan described in section 401(a) of the Internal Revenue Code of 1986 which includes a trust, exempt from tax under section 501(a) of such Code,
 
-&emsp;&emsp;“(B) an annuity plan or contract described in section 403 of such Code,
+&emsp;&emsp;"(B) an annuity plan or contract described in section 403 of such Code,
 
-&emsp;&emsp;“(C) a qualified bond purchase plan described in section 405(a) of such Code,
+&emsp;&emsp;"(C) a qualified bond purchase plan described in section 405(a) of such Code,
 
-&emsp;&emsp;“(D) that portion of any plan which consists of a transfer of property described in section 83 (determined without regard to subsection (e) thereof of such Code, and
+&emsp;&emsp;"(D) that portion of any plan which consists of a transfer of property described in section 83 (determined without regard to subsection (e) thereof of such Code, and
 
-&emsp;&emsp;“(E) that portion of any plan which consists of a trust to which section 402(b) of such Code applies.
+&emsp;&emsp;"(E) that portion of any plan which consists of a trust to which section 402(b) of such Code applies.
 
-“(c)
+"(c)
 
-Effective Date.—This section shall apply to taxable years ending on or after February 1, 1978.”
+Effective Date.—This section shall apply to taxable years ending on or after February 1, 1978."
 
 #### Year of Inclusion for Disaster or Deficiency Payments Received in 1978; Election
 
 Pub. L. 95–258, §1, Apr. 7, 1978, 92 Stat. 195, provided that:
 
-“(a)
+"(a)
 
 In General.—In the case of a taxpayer reporting on the cash receipts and disbursements method of accounting, if—
 
-&emsp;“(1)(A) the taxpayer receives in his first taxable year beginning in 1978 payments under the Agricultural Act of 1949, as amended, \[see Short Title note set out under section 1421 of Title 7, Agriculture\], as a result of—
+&emsp;"(1)(A) the taxpayer receives in his first taxable year beginning in 1978 payments under the Agricultural Act of 1949, as amended, \[see Short Title note set out under section 1421 of Title 7, Agriculture\], as a result of—
 
-&emsp;&emsp;“(i) the destruction or damage to crops caused by drought, flood, or any other natural disaster, or
+&emsp;&emsp;"(i) the destruction or damage to crops caused by drought, flood, or any other natural disaster, or
 
-&emsp;&emsp;“(ii) the inability to plant crops because of such a natural disaster, and
+&emsp;&emsp;"(ii) the inability to plant crops because of such a natural disaster, and
 
-&emsp;“(B) the taxpayer establishes that, under his practice, income from such crops could have been reported for his last taxable year beginning in 1977, or
+&emsp;"(B) the taxpayer establishes that, under his practice, income from such crops could have been reported for his last taxable year beginning in 1977, or
 
-&emsp;“(2)(A) the taxpayer receives in his first taxable year beginning in 1978 deficiency (or ‘target price’) payments under the Agricultural Act of 1949, as amended, for any 1977 crop, and
+&emsp;"(2)(A) the taxpayer receives in his first taxable year beginning in 1978 deficiency (or 'target price') payments under the Agricultural Act of 1949, as amended, for any 1977 crop, and
 
-&emsp;“(B) the fifth month of such crop's marketing year ends before December 1, 1977,
+&emsp;"(B) the fifth month of such crop's marketing year ends before December 1, 1977,
 
 > then the taxpayer may elect to include such proceeds in income for his last taxable year beginning in 1977.
 
-“(b)
+"(b)
 
-Making and Effect of Election—An election under this section for any taxable year shall be made at such time and in such manner as the Secretary of the Treasury may by regulations prescribe and shall apply with respect to all proceeds described in subsection (a) which were received by the taxpayer.”
+Making and Effect of Election—An election under this section for any taxable year shall be made at such time and in such manner as the Secretary of the Treasury may by regulations prescribe and shall apply with respect to all proceeds described in subsection (a) which were received by the taxpayer."
 

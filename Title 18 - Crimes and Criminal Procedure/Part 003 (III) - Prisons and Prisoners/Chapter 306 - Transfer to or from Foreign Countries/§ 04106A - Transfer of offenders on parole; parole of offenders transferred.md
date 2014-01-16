@@ -28,7 +28,7 @@
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–647, §3599B, inserted “of” before second reference to “offenders” in section catchline.
+<b>1990</b>—Pub. L. 101–647, §3599B, inserted "of" before second reference to "offenders" in section catchline.
 
 Subsec. (b)(1)(C). Pub. L. 101–647, §3599C, inserted period at end.
 

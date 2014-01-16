@@ -6,9 +6,9 @@ The Secretary of Housing and Urban Development, in consultation with the Secreta
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–541 substituted “shall prescribe” and “to insure whenever possible” for “is authorized to prescribe such” and “as may be necessary to insure”, respectively.
+<b>1976</b>—Pub. L. 94–541 substituted "shall prescribe" and "to insure whenever possible" for "is authorized to prescribe such" and "as may be necessary to insure", respectively.
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

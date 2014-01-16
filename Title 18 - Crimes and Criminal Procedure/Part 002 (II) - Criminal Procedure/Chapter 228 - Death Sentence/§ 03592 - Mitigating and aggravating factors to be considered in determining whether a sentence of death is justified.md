@@ -128,7 +128,7 @@ High public officials.—The defendant committed the offense against—
 
 &emsp;&emsp;&emsp;(iii) because of his or her status as a public servant.
 
-> &emsp;&emsp;For purposes of this subparagraph, a “law enforcement officer” is a public servant authorized by law or by a Government agency or Congress to conduct or engage in the prevention, investigation, or prosecution or adjudication of an offense, and includes those engaged in corrections, parole, or probation functions.
+> &emsp;&emsp;For purposes of this subparagraph, a "law enforcement officer" is a public servant authorized by law or by a Government agency or Congress to conduct or engage in the prevention, investigation, or prosecution or adjudication of an offense, and includes those engaged in corrections, parole, or probation functions.
 
 &emsp;(15)
 
@@ -188,17 +188,17 @@ The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c)(1). Pub. L. 109–248 inserted “section 2245 (offenses resulting in death),” after “section 1992 (wrecking trains),”.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–248 inserted "section 2245 (offenses resulting in death)," after "section 1992 (wrecking trains),".
 
-<b>2002</b>—Subsec. (c)(1). Pub. L. 107–273 substituted “section 37” for “section 36”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–273 substituted "section 37" for "section 36".
 
-<b>1996</b>—Subsec. (c)(1). Pub. L. 104–294, §601(b)(7), substituted “section 2332a (use of weapons of mass destruction)” for “section 2339 (use of weapons of mass destruction)”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–294, §601(b)(7), substituted "section 2332a (use of weapons of mass destruction)" for "section 2339 (use of weapons of mass destruction)".
 
-Subsec. (c)(12). Pub. L. 104–294, §604(b)(35), substituted “Comprehensive Drug Abuse Prevention and Control Act of 1970” for “Controlled Substances Act”.
+Subsec. (c)(12). Pub. L. 104–294, §604(b)(35), substituted "Comprehensive Drug Abuse Prevention and Control Act of 1970" for "Controlled Substances Act".
 
 Subsec. (c)(16). Pub. L. 104–132 added par. (16).
 
-<b>1994</b>—Subsec. (c)(1). Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–322, §330021(1), substituted "kidnapping" for "kidnaping".
 
 #### Effective Date of 1996 Amendment
 

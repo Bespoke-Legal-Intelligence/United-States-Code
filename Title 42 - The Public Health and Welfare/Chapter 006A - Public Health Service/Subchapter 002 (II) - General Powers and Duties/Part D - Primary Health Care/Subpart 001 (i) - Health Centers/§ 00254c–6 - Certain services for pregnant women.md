@@ -48,13 +48,13 @@
 
 #### (B) Rule of construction regarding training of trainers
 
-&emsp;&emsp;With respect to individuals who under a grant under paragraph (1) provide training for the designated staff of eligible health centers (referred to in this subparagraph as “trainers”), subparagraph (A)(iii) may not be construed as establishing any limitation regarding the geographic area in which the trainers receive instruction in being such trainers. A trainer may receive such instruction in a different geographic area than the area in which the trainer trains (or will train) the designated staff of eligible health centers.
+&emsp;&emsp;With respect to individuals who under a grant under paragraph (1) provide training for the designated staff of eligible health centers (referred to in this subparagraph as "trainers"), subparagraph (A)(iii) may not be construed as establishing any limitation regarding the geographic area in which the trainers receive instruction in being such trainers. A trainer may receive such instruction in a different geographic area than the area in which the trainer trains (or will train) the designated staff of eligible health centers.
 
 #### (4) Adoption organizations; eligible health centers; other definitions
 
 &emsp;For purposes of this section:
 
-&emsp;&emsp;(A) The term “adoption organization” means a national, regional, or local organization—
+&emsp;&emsp;(A) The term "adoption organization" means a national, regional, or local organization—
 
 &emsp;&emsp;&emsp;(i) among whose primary purposes are adoption;
 
@@ -62,9 +62,9 @@
 
 &emsp;&emsp;&emsp;(iii) that is a nonprofit private entity.
 
-&emsp;&emsp;(B) The term “designated staff”, with respect to an eligible health center, means staff of the center who provide pregnancy or adoption information and referrals (or will provide such information and referrals after receiving training under a grant under paragraph (1)).
+&emsp;&emsp;(B) The term "designated staff", with respect to an eligible health center, means staff of the center who provide pregnancy or adoption information and referrals (or will provide such information and referrals after receiving training under a grant under paragraph (1)).
 
-&emsp;&emsp;(C) The term “eligible health centers” means public and nonprofit private entities that provide health services to pregnant women.
+&emsp;&emsp;(C) The term "eligible health centers" means public and nonprofit private entities that provide health services to pregnant women.
 
 #### (5) Training for certain eligible health centers
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(B) All costs of such centers in obtaining the training shall be reimbursed by the organization that provides the training, using grants under paragraph (1).
 
-&emsp;&emsp;(C) Not later than 1 year after October 17, 2000, the Secretary shall submit to the appropriate committees of the Congress a report evaluating the extent to which adoption information and referral, upon request, are provided by eligible health centers. Within a reasonable time after training under this section is initiated, the Secretary shall submit to the appropriate committees of the Congress a report evaluating the extent to which adoption information and referral, upon request, are provided by eligible health centers in order to determine the effectiveness of such training and the extent to which such training complies with subsection (a)(1) of this section. In preparing the reports required by this subparagraph, the Secretary shall in no respect interpret the provisions of this section to allow any interference in the provider-patient relationship, any breach of patient confidentiality, or any monitoring or auditing of the counseling process or patient records which breaches patient confidentiality or reveals patient identity. The reports required by this subparagraph shall be conducted by the Secretary acting through the Administrator of the Health Resources and Services Administration and in collaboration with the Director of the Agency for Healthcare Research and Quality.
+&emsp;&emsp;(C) Not later than 1 year after October 17, 2000, the Secretary shall submit to the appropriate committees of the Congress a report evaluating the extent to which adoption information and referral, upon request, are provided by eligible health centers. Within a reasonable time after training under this section is initiated, the Secretary shall submit to the appropriate committees of the Congress a report evaluating the extent towhich adoption information and referral, upon request, are provided by eligible health centers in order to determine the effectiveness of such training and the extent to which such training complies with subsection (a)(1) of this section. In preparing the reports required by this subparagraph, the Secretary shall in no respect interpret the provisions of this section to allow any interference in the provider-patient relationship, any breach of patient confidentiality, or any monitoring or auditing of the counseling process or patient records which breaches patient confidentiality or reveals patient identity. The reports required by this subparagraph shall be conducted by the Secretary acting through the Administrator of the Health Resources and Services Administration and in collaboration with the Director of the Agency for Healthcare Research and Quality.
 
 #### (b) Application for grant
 

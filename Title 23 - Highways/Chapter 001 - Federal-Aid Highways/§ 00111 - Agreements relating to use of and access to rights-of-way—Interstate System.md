@@ -40,7 +40,7 @@ Limitation on use of revenues.—A State shall use any revenues received from th
 
 (c)
 
-Vending Machines.—Notwithstanding subsection (a), any State may permit the placement of vending machines in rest and recreation areas, and in safety rest areas, constructed or located on rights-of-way of the Interstate System in such State. Such vending machines may only dispense such food, drink, and other articles as the State transportation department determines are appropriate and desirable. Such vending machines may only be operated by the State. In permitting the placement of vending machines, the State shall give priority to vending machines which are operated through the State licensing agency designated pursuant to section 2(a)(5) of the Act of June 20, 1936, commonly known as the “Randolph-Sheppard Act” (20 U.S.C. 107a(a)(5)). The costs of installation, operation, and maintenance of vending machines shall not be eligible for Federal assistance under this title.
+Vending Machines.—Notwithstanding subsection (a), any State may permit the placement of vending machines in rest and recreation areas, and in safety rest areas, constructed or located on rights-of-way of the Interstate System in such State. Such vending machines may only dispense such food, drink, and other articles as the State transportation department determines are appropriate and desirable. Such vending machines may only be operated by the State. In permitting the placement of vending machines, the State shall give priority to vending machines which are operated through the State licensing agency designated pursuant to section 2(a)(5) of the Act of June 20, 1936, commonly known as the "Randolph-Sheppard Act" (20 U.S.C. 107a(a)(5)). The costs of installation, operation, and maintenance of vending machines shall not be eligible for Federal assistance under this title.
 
 (d)
 
@@ -86,7 +86,7 @@ Justification Reports.—If the Secretary requests or requires a justification r
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §1539(a)(1), inserted “and will not change the boundary of any right-of-way on the Interstate System to accommodate construction of, or afford access to, an automotive service station or other commercial establishment” before period at end of second sentence.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §1539(a)(1), inserted "and will not change the boundary of any right-of-way on the Interstate System to accommodate construction of, or afford access to, an automotive service station or other commercial establishment" before period at end of second sentence.
 
 Subsecs. (b) to (d). Pub. L. 112–141, §1539(a)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
@@ -96,7 +96,7 @@ Subsec. (e). Pub. L. 112–141, §1505, added subsec. (e).
 
 <b>2005</b>—Subsec. (d). Pub. L. 109–59 added subsec. (d).
 
-<b>1998</b>—Subsecs. (a), (b). Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
+<b>1998</b>—Subsecs. (a), (b). Pub. L. 105–178 substituted "State transportation department" for "State highway department".
 
 <b>1995</b>—Subsec. (c). Pub. L. 104–59 added subsec. (c).
 
@@ -104,7 +104,7 @@ Subsec. (e). Pub. L. 112–141, §1505, added subsec. (e).
 
 <b>1978</b>—Pub. L. 95–599 inserted provision listing situations which would not require the discontinuance, obstruction, or removal of any establishment for serving motor vehicle users.
 
-<b>1961</b>—Pub. L. 87–61 substituted “to use or permit the use of the airspace above and below the established grade line of the highway pavement for such purposes as will not impair the full use and safety of the highway, as will not require or permit vehicular access to such space directly from such established grade line of the highway, or otherwise interfere” for “to use the airspace above and below the established grade line of the highway pavement for the parking of motor vehicles provided such use does not interfere”.
+<b>1961</b>—Pub. L. 87–61 substituted "to use or permit the use of the airspace above and below the established grade line of the highway pavement for such purposes as will not impair the full use and safety of the highway, as will not require or permit vehicular access to such space directly from such established grade line of the highway, or otherwise interfere" for "to use the airspace above and below the established grade line of the highway pavement for the parking of motor vehicles provided such use does not interfere".
 
 #### Effective Date of 2012 Amendment
 
@@ -114,39 +114,39 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 Pub. L. 109–59, title I, §1310, Aug. 10, 2005, 119 Stat. 1219, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 180 days after the date of enactment of this section \[Aug. 10, 2005\], in consultation with the States and other interested parties, the Secretary \[of Transportation\] shall—
 
-&emsp;“(1) establish an interstate oasis program; and
+&emsp;"(1) establish an interstate oasis program; and
 
-&emsp;“(2) after providing an opportunity for public comment, develop standards for designating, as an interstate oasis, a facility that—
+&emsp;"(2) after providing an opportunity for public comment, develop standards for designating, as an interstate oasis, a facility that—
 
-&emsp;&emsp;“(A) offers—
+&emsp;&emsp;"(A) offers—
 
-&emsp;&emsp;&emsp;“(i) products and services to the public;
+&emsp;&emsp;&emsp;"(i) products and services to the public;
 
-&emsp;&emsp;&emsp;“(ii) 24-hour access to restrooms; and
+&emsp;&emsp;&emsp;"(ii) 24-hour access to restrooms; and
 
-&emsp;&emsp;&emsp;“(iii) parking for automobiles and heavy trucks; and
+&emsp;&emsp;&emsp;"(iii) parking for automobiles and heavy trucks; and
 
-&emsp;&emsp;“(B) meets other standards established by the Secretary.
+&emsp;&emsp;"(B) meets other standards established by the Secretary.
 
-“(b)
+"(b)
 
 Standards for Designation.—The standards for designation under subsection (a) shall include standards relating to—
 
-&emsp;“(1) the appearance of a facility; and
+&emsp;"(1) the appearance of a facility; and
 
-&emsp;“(2) the proximity of the facility to the Dwight D. Eisenhower National System of Interstate and Defense Highways.
+&emsp;"(2) the proximity of the facility to the Dwight D. Eisenhower National System of Interstate and Defense Highways.
 
-“(c)
+"(c)
 
 Eligibility for Designation.—If a State (as defined in section 101(a) of title 23, United States Code) elects to participate in the interstate oasis program, any facility meeting the standards established by the Secretary \[of Transportation\] shall be eligible for designation under this section.
 
-“(d)
+"(d)
 
-Logo.—The Secretary \[of Transportation\] shall design a logo to be displayed by a facility designated under this section.”
+Logo.—The Secretary \[of Transportation\] shall design a logo to be displayed by a facility designated under this section."
 
 #### Vending Machines; Placement in Rest, Recreation, and Safety Rest Areas; State Operation of Machines
 

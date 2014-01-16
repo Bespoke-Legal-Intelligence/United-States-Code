@@ -54,7 +54,7 @@ Annual Report.—(1) The Secretary of the Army shall direct the Superintendent o
 
 &emsp;(A) The number of sexual assaults, rapes, and other sexual offenses involving cadets or other Academy personnel that have been reported to Academy officials during the program year and, of those reported cases, the number that have been substantiated.
 
-&emsp;(B) The policies, procedures, and processes implemented by the Secretary of the Armyand the leadership of the Academy in response to sexual harassment and sexual violence involving cadets or other Academy personnel during the program year.
+&emsp;(B) The policies, procedures, and processes implemented by the Secretary of the Army and the leadership of the Academy in response to sexual harassment and sexual violence involving cadets or other Academy personnel during the program year.
 
 &emsp;(C) A plan for the actions that are to be taken in the following Academy program year regarding prevention of and response to sexual harassment and sexual violence involving cadets or other Academy personnel.
 
@@ -66,25 +66,29 @@ Annual Report.—(1) The Secretary of the Army shall direct the Superintendent o
 
 (Added Pub. L. 109–364, div. A, title V, §532(a)(1), Oct. 17, 2006, 120 Stat. 2200.)
 
+#### Prevention of Sexual Assault at Military Service Academies
+
+Pub. L. 113–66, div. A, title XVII, §1746, Dec. 26, 2013, 127 Stat. 983, provided that: "The Secretary of Defense shall ensure that the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy include a section in the curricula of that military service academy that outlines honor, respect, and character development as such pertain to the issue of preventing sexual assault in the Armed Forces. Such curricula section shall include a brief history of the problem of sexual assault in the Armed Forces, a definition of sexual assault, information relating to reporting a sexual assault, victims' rights, and dismissal and dishonorable discharge for offenders. Training in such section in the curricula shall be provided within 14 days after the initial arrival of a new cadet or midshipman at that military service academy and repeated annually thereafter."
+
 #### Further Information From Cadets and Midshipmen at the Service Academies on Sexual Assault and Sexual Harassment Issues
 
 Pub. L. 109–364, div. A, title V, §532(b), Oct. 17, 2006, 120 Stat. 2205, provided that:
 
-“(1)
+"(1)
 
 Use of focus groups for years when survey not required.—In any year in which the Secretary of a military department is not required by law to conduct a survey at the service academy under the Secretary's jurisdiction on matters relating to sexual assault and sexual harassment issues at that Academy, the Secretary shall provide for focus groups to be conducted at that Academy for the purposes of ascertaining information relating to sexual assault and sexual harassment issues at that Academy.
 
-“(2)
+"(2)
 
 Inclusion in report.—Information ascertained from a focus group conducted pursuant to paragraph (1) shall be included in the Secretary's annual report to Congress on sexual harassment and sexual violence at the service academies.
 
-“(3)
+"(3)
 
-Service academies.—For purposes of this subsection, the term ‘service academy’ means the following:
+Service academies.—For purposes of this subsection, the term 'service academy' means the following:
 
-&emsp;“(A) The United States Military Academy.
+&emsp;"(A) The United States Military Academy.
 
-&emsp;“(B) The United States Naval Academy.
+&emsp;"(B) The United States Naval Academy.
 
-&emsp;“(C) The United States Air Force Academy.”
+&emsp;"(C) The United States Air Force Academy."
 

@@ -28,7 +28,7 @@ Design.—The process for providing access to the Motor Carrier Management Infor
 
 (d)
 
-Serious Driver-Related Safety Violation Defined.—In this section, the term “serious driver-related violation” means a violation by an operator of a commercial motor vehicle that the Secretary determines will result in the operator being prohibited from continuing to operate a commercial motor vehicle until the violation is corrected.
+Serious Driver-Related Safety Violation Defined.—In this section, the term "serious driver-related violation" means a violation by an operator of a commercial motor vehicle that the Secretary determines will result in the operator being prohibited from continuing to operate a commercial motor vehicle until the violation is corrected.
 
 (Added Pub. L. 109–59, title IV, §4117(a), Aug. 10, 2005, 119 Stat. 1728.)
 

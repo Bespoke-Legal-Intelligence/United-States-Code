@@ -8,7 +8,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “finished good” means any good or product (other than a panel) containing—
+&emsp;&emsp;The term "finished good" means any good or product (other than a panel) containing—
 
 &emsp;&emsp;&emsp;(i) hardwood plywood;
 
@@ -18,7 +18,7 @@ In this section:
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “finished good” does not include—
+&emsp;&emsp;The term "finished good" does not include—
 
 &emsp;&emsp;&emsp;(i) any component part or other part used in the assembly of a finished good; or
 
@@ -30,13 +30,13 @@ In this section:
 
 #### (2) Hardboard
 
-&emsp;The term “hardboard” has such meaning as the Administrator shall establish, by regulation, pursuant to subsection (d).
+&emsp;The term "hardboard" has such meaning as the Administrator shall establish, by regulation, pursuant to subsection (d).
 
 #### (3) Hardwood plywood
 
 #### (A) In general
 
-&emsp;&emsp;The term “hardwood plywood” means a hardwood or decorative panel that is—
+&emsp;&emsp;The term "hardwood plywood" means a hardwood or decorative panel that is—
 
 &emsp;&emsp;&emsp;(i) intended for interior use; and
 
@@ -54,7 +54,7 @@ In this section:
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “hardwood plywood” does not include—
+&emsp;&emsp;The term "hardwood plywood" does not include—
 
 &emsp;&emsp;&emsp;(i) military-specified plywood;
 
@@ -62,9 +62,9 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) any other product specified in—
 
-&emsp;&emsp;&emsp;&emsp;(I) the standard entitled “Voluntary Product Standard—Structural Plywood” and numbered PS 1–07; or
+&emsp;&emsp;&emsp;&emsp;(I) the standard entitled "Voluntary Product Standard—Structural Plywood" and numbered PS 1–07; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the standard entitled “Voluntary Product Standard—Performance Standard for Wood-Based Structural-Use Panels” and numbered PS 2–04.
+&emsp;&emsp;&emsp;&emsp;(II) the standard entitled "Voluntary Product Standard—Performance Standard for Wood-Based Structural-Use Panels" and numbered PS 2–04.
 
 #### (C) Laminated products
 
@@ -72,7 +72,7 @@ In this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The Administrator shall conduct a rulemaking process pursuant to subsection (d) that uses all available and relevant information from State authorities, industry, and other available sources of such information, and analyzes that information to determine, at the discretion of the Administrator, whether the definition of the term “hardwood plywood” should exempt engineered veneer or any laminated product.
+&emsp;&emsp;&emsp;&emsp;The Administrator shall conduct a rulemaking process pursuant to subsection (d) that uses all available and relevant information from State authorities, industry, and other available sources of such information, and analyzes that information to determine, at the discretion of the Administrator, whether the definition of the term "hardwood plywood" should exempt engineered veneer or any laminated product.
 
 #### (II) Modification
 
@@ -80,7 +80,7 @@ In this section:
 
 #### (ii) Laminated product
 
-&emsp;&emsp;&emsp;The term “laminated product” means a product—
+&emsp;&emsp;&emsp;The term "laminated product" means a product—
 
 &emsp;&emsp;&emsp;&emsp;(I) in which a wood veneer is affixed to—
 
@@ -100,15 +100,15 @@ In this section:
 
 #### (4) Manufactured home
 
-&emsp;The term “manufactured home” has the meaning given the term in section 3280.2 of title 24, Code of Federal Regulations (as in effect on the date of promulgation of regulations pursuant to subsection (d)).
+&emsp;The term "manufactured home" has the meaning given the term in section 3280.2 of title 24, Code of Federal Regulations (as in effect on the date of promulgation of regulations pursuant to subsection (d)).
 
 #### (5) Medium-density fiberboard
 
-&emsp;The term “medium-density fiberboard” means a panel composed of cellulosic fibers made by dry forming and pressing a resinated fiber mat (as determined under the standard numbered ANSI A208.2–2009).
+&emsp;The term "medium-density fiberboard" means a panel composed of cellulosic fibers made by dry forming and pressing a resinated fiber mat (as determined under the standard numbered ANSI A208.2–2009).
 
 #### (6) Modular home
 
-&emsp;The term “modular home” means a home that is constructed in a factory in 1 or more modules—
+&emsp;The term "modular home" means a home that is constructed in a factory in 1 or more modules—
 
 &emsp;&emsp;(A) each of which meet applicable State and local building codes of the area in which the home will be located; and
 
@@ -118,17 +118,17 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;(i) The term “no-added formaldehyde-based resin” means a resin formulated with no added formaldehyde as part of the resin cross-linking structure in a composite wood product that meets the emission standards in subparagraph (C) as measured by—
+&emsp;&emsp;(i) The term "no-added formaldehyde-based resin" means a resin formulated with no added formaldehyde as part of the resin cross-linking structure in a composite wood product that meets the emission standards in subparagraph (C) as measured by—
 
 &emsp;&emsp;&emsp;(I) one test conducted pursuant to test method ASTM E–1333–96 (2002) or, subject to clause (ii), ASTM D–6007–02; and
 
-&emsp;&emsp;&emsp;(II) 3 months of routine quality control tests pursuant to ASTM D–6007–02 or ASTM D–5582 or such other routine quality control test methods as may be established by the Administrator through rulemaking.
+&emsp;&emsp;&emsp;(II) 3 months of routine quality control tests pursuant to ASTM D–6007–02 orASTM D–5582 or such other routine quality control test methods as may be established by the Administrator through rulemaking.
 
 &emsp;&emsp;(ii) Test results obtained under clause (i)(I) or (II) by any test method other than ASTM E–1333–96 (2002) must include a showing of equivalence by means established by the Administrator through rulemaking.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “no-added formaldehyde-based resin” may include any resin made from—
+&emsp;&emsp;The term "no-added formaldehyde-based resin" may include any resin made from—
 
 &emsp;&emsp;&emsp;(i) soy;
 
@@ -148,21 +148,21 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “particleboard” means a panel composed of cellulosic material in the form of discrete particles (as distinguished from fibers, flakes, or strands) that are pressed together with resin (as determined under the standard numbered ANSI A208.1–2009).
+&emsp;&emsp;The term "particleboard" means a panel composed of cellulosic material in the form of discrete particles (as distinguished from fibers, flakes, or strands) that are pressed together with resin (as determined under the standard numbered ANSI A208.1–2009).
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “particleboard” does not include any product specified in the standard entitled “Voluntary Product Standard—Performance Standard for Wood-Based Structural-Use Panels” and numbered PS 2–04.
+&emsp;&emsp;The term "particleboard" does not include any product specified in the standard entitled "Voluntary Product Standard—Performance Standard for Wood-Based Structural-Use Panels" and numbered PS 2–04.
 
 #### (9) Recreational vehicle
 
-&emsp;The term “recreational vehicle” has the meaning given the term in section 3282.8 of title 24, Code of Federal Regulations (as in effect on the date of promulgation of regulations pursuant to subsection (d)).
+&emsp;The term "recreational vehicle" has the meaning given the term in section 3282.8 of title 24, Code of Federal Regulations (as in effect on the date of promulgation of regulations pursuant to subsection (d)).
 
 #### (10) Ultra low-emitting formaldehyde resin
 
 #### (A) In general
 
-&emsp;&emsp;(i) The term “ultra low-emitting formaldehyde resin” means a resin in a composite wood product that meets the emission standards in subparagraph (C) as measured by—
+&emsp;&emsp;(i) The term "ultra low-emitting formaldehyde resin" means a resin in a composite wood product that meets the emission standards in subparagraph (C) as measured by—
 
 &emsp;&emsp;&emsp;(I) 2 quarterly tests conducted pursuant to test method ASTM E–1333–96 (2002) or, subject to clause (ii), ASTM D–6007–02; and
 
@@ -172,7 +172,7 @@ In this section:
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “ultra low-emitting formaldehyde resin” may include—
+&emsp;&emsp;The term "ultra low-emitting formaldehyde resin" may include—
 
 &emsp;&emsp;&emsp;(i) melamine-urea-formaldehyde resin;
 
@@ -214,7 +214,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Except as provided in an applicable sell-through regulation promulgated pursuant to subsection (d), effective beginning on the date that is 180 days after the date of promulgation of those regulations, the emission standards described in paragraph (2), shall apply to hardwood plywood, medium-density fiberboard, and particleboard sold, supplied, offered for sale, or manufactured in the United States.
+&emsp;Except as provided in an applicable sell-through regulation promulgated pursuant to subsection (d), effective beginning on the date that is 180 days after the date of promulgation of those regulations, the emission standardsdescribed in paragraph (2), shall apply to hardwood plywood, medium-density fiberboard, and particleboard sold, supplied, offered for sale, or manufactured in the United States.
 
 #### (2) Emission standards
 
@@ -272,17 +272,17 @@ The formaldehyde emission standard referred to in subsection (b)(1) shall not ap
 
 &emsp;(1) hardboard;
 
-&emsp;(2) structural plywood, as specified in the standard entitled “Voluntary Product Standard—Structural Plywood” and numbered PS 1–07;
+&emsp;(2) structural plywood, as specified in the standard entitled "Voluntary Product Standard—Structural Plywood" and numbered PS 1–07;
 
-&emsp;(3) structural panels, as specified in the standard entitled “Voluntary Product Standard—Performance Standard for Wood-Based Structural-Use Panels” and numbered PS 2–04;
+&emsp;(3) structural panels, as specified in the standard entitled "Voluntary Product Standard—Performance Standard for Wood-Based Structural-Use Panels" and numbered PS 2–04;
 
-&emsp;(4) structural composite lumber, as specified in the standard entitled “Standard Specification for Evaluation of Structural Composite Lumber Products” and numbered ASTM D 5456–06;
+&emsp;(4) structural composite lumber, as specified in the standard entitled "Standard Specification for Evaluation of Structural Composite Lumber Products" and numbered ASTM D 5456–06;
 
 &emsp;(5) oriented strand board;
 
-&emsp;(6) glued laminated lumber, as specified in the standard entitled “Structural Glued Laminated Timber” and numbered ANSI A190.1–2002;
+&emsp;(6) glued laminated lumber, as specified in the standard entitled "Structural Glued Laminated Timber" and numbered ANSI A190.1–2002;
 
-&emsp;(7) prefabricated wood I-joists, as specified in the standard entitled “Standard Specification for Establishing and Monitoring Structural Capacities of Prefabricated Wood I-Joists” and numbered ASTM D 5055–05;
+&emsp;(7) prefabricated wood I-joists, as specified in the standard entitled "Standard Specification for Establishing and Monitoring Structural Capacities of Prefabricated Wood I-Joists" and numbered ASTM D 5055–05;
 
 &emsp;(8) finger-jointed lumber;
 
@@ -310,7 +310,7 @@ The formaldehyde emission standard referred to in subsection (b)(1) shall not ap
 
 &emsp;&emsp;(A) the doors are made from composite wood products manufactured with no-added formaldehyde-based resins or ultra low-emitting formaldehyde resins; or
 
-&emsp;&emsp;(B) the doors contain less than 3 percent by volume of hardwood plywood, particleboard, or medium-density fiberboard, combined, in relation to the total volume of the finished exterior door or garage door.
+&emsp;&emsp;(B) the doors contain less than 3 percent by volume of hardwood plywood,particleboard, or medium-density fiberboard, combined, in relation to the total volume of the finished exterior door or garage door.
 
 #### (d) Regulations
 
@@ -368,7 +368,7 @@ The formaldehyde emission standard referred to in subsection (b)(1) shall not ap
 
 #### (C) Definition
 
-&emsp;&emsp;For purposes of this paragraph, the term “stockpiling” means manufacturing or purchasing a composite wood product or finished good containing a regulated composite wood product between July 7, 2010, and the date 180 days following the promulgation of the regulations pursuant to this subsection at a rate which is significantly greater (as determined by the Administrator) than the rate at which such product or good was manufactured or purchased during a base period (as determined by the Administrator) ending before July 7, 2010.
+&emsp;&emsp;For purposes of this paragraph, the term "stockpiling" means manufacturing or purchasing a composite wood product or finished good containing a regulated composite wood product between July 7, 2010, and the date 180 days following the promulgation of the regulations pursuant to this subsection at a rate which is significantly greater (as determined by the Administrator) than the rate at which such product or good was manufactured or purchased during a base period (as determined by the Administrator) ending before July 7, 2010.
 
 #### (4) Import regulations
 
@@ -386,7 +386,7 @@ An individual or entity that violates any requirement under this section (includ
 
 #### Modification of Regulation
 
-Pub. L. 111–199, §4, July 7, 2010, 124 Stat. 1367, provided that: “Not later than 180 days after the date of promulgation of regulations pursuant to section 601(d) of the Toxic Substances Control Act \[15 U.S.C. 2697(d)\] (as amended by section 2), the Secretary of Housing and Urban Development shall update the regulation contained in section 3280.308 of title 24, Code of Federal Regulations (as in effect on the date of enactment of this Act \[July 7, 2010\]), to ensure that the regulation reflects the standards established by section 601 of the Toxic Substances Control Act \[15 U.S.C. 2697\].”
+Pub. L. 111–199, §4, July 7, 2010, 124 Stat. 1367, provided that: "Not later than 180 days after the date of promulgation of regulations pursuant to section 601(d) of the Toxic Substances Control Act \[15 U.S.C. 2697(d)\] (as amended by section 2), the Secretary of Housing and Urban Development shall update the regulation contained in section 3280.308 of title 24, Code of Federal Regulations (as in effect on the date of enactment of this Act \[July 7, 2010\]), to ensure that the regulation reflects the standards established by section 601 of the Toxic Substances Control Act \[15 U.S.C. 2697\]."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

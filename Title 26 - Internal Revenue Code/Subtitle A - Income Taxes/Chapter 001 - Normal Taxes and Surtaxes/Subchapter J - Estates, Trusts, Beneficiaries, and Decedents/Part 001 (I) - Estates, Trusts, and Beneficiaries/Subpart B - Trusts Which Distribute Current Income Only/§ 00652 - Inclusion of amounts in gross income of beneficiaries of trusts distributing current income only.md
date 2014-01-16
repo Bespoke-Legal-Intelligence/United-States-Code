@@ -16,5 +16,5 @@ If the taxable year of a beneficiary is different from that of the trust, the am
 
 #### Amendments
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

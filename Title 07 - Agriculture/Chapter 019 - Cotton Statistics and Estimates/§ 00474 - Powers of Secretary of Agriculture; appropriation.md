@@ -6,7 +6,7 @@ The Secretary of Agriculture may cooperate with any department or agency of the 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 inserted at end “The Secretary of Agriculture shall maintain until at least January 1, 1999, all cotton classing office locations in the State of Missouri that existed on January 1, 1996.”
+<b>1996</b>—Pub. L. 104–127 inserted at end "The Secretary of Agriculture shall maintain until at least January 1, 1999, all cotton classing office locations in the State of Missouri that existed on January 1, 1996."
 
 #### Transfer of Functions
 

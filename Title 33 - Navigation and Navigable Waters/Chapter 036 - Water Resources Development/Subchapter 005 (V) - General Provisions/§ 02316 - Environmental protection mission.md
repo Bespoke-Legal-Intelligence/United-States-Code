@@ -8,7 +8,7 @@ The Secretary shall include environmental protection as one of the primary missi
 
 Nothing in this section affects—
 
-&emsp;(1) existing Corps of Engineers’ authorities, including its authorities with respect to navigation and flood control;
+&emsp;(1) existing Corps of Engineers' authorities, including its authorities with respect to navigation and flood control;
 
 &emsp;(2) pending Corps of Engineers permit applications or pending lawsuits involving permits or water resources projects; or
 
@@ -20,7 +20,7 @@ Nothing in this section affects—
 
 Section was enacted as part of the Water Resources Development Act of 1990, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 

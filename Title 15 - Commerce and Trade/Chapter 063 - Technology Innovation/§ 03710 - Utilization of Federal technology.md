@@ -46,7 +46,7 @@ The National Technical Information Service shall—
 
 #### (e) Establishment of Federal Laboratory Consortium for Technology Transfer
 
-(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer (hereinafter referred to as the “Consortium”) which, in cooperation with Federal laboratories and the private sector, shall—
+(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer (hereinafter referred to as the "Consortium") which, in cooperation with Federal laboratories and the private sector, shall—
 
 &emsp;(A) develop and (with the consent of the Federal laboratory concerned) administer techniques, training courses, and materials concerning technology transfer to increase the awareness of Federal laboratory employees regarding the commercial potential of laboratory technology and innovations;
 
@@ -124,7 +124,7 @@ The National Technical Information Service shall—
 
 #### (4) Public availability
 
-&emsp;Each Federal agency reporting under this subsection is also strongly encouraged tomake the information contained in such report available to the public through Internet sites or other electronic means.
+&emsp;Each Federal agency reporting under this subsection is also strongly encouraged to make the information contained in such report available to the public through Internet sites or other electronic means.
 
 #### (g) Functions of Secretary
 
@@ -150,7 +150,7 @@ Content.—The report shall—
 
 &emsp;&emsp;(i) draw upon the reports prepared by the agencies under subsection (f) of this section;
 
-&emsp;&emsp;(ii) discuss technology transfer best practices and effective approaches in the licensing and transfer of technology in the context of the agencies’ missions; and
+&emsp;&emsp;(ii) discuss technology transfer best practices and effective approaches in the licensing and transfer of technology in the context of the agencies' missions; and
 
 &emsp;&emsp;(iii) discuss the progress made toward development of additional useful measures of the outcomes of technology transfer programs of Federal agencies.
 
@@ -182,93 +182,93 @@ The Director of a laboratory, or the head of any Federal agency or department, m
 
 #### References in Text
 
-The Government Performance and Results Act of 1993, referred to in subsec. (h), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+The Government Performance and Results Act of 1993, referred to in subsec. (h), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service,amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (g)(1). Pub. L. 110–69 struck out “through the Under Secretary, and” after “The Secretary,” in introductory provisions.
+<b>2007</b>—Subsec. (g)(1). Pub. L. 110–69 struck out "through the Under Secretary, and" after "The Secretary," in introductory provisions.
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–404, §10(a)(1), struck out at end “The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry.”
+<b>2000</b>—Subsec. (b). Pub. L. 106–404, §10(a)(1), struck out at end "The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry."
 
-Subsec. (e)(1). Pub. L. 106–404, §7(5), substituted “in cooperation with Federal laboratories” for “in cooperation with Federal Laboratories” in introductory provisions.
+Subsec. (e)(1). Pub. L. 106–404, §7(5), substituted "in cooperation with Federal laboratories" for "in cooperation with Federal Laboratories" in introductory provisions.
 
 Subsec. (f). Pub. L. 106–404, §10(a)(2), added subsec. (f).
 
-Subsec. (g)(2). Pub. L. 106–404, §10(a)(3), added par. (2) and struck out former par. (2) which read as follows: “Two years after October 20, 1986, and every two years thereafter, the Secretary shall submit a summary report to the President and the Congress on the use bythe agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report's preparation.”
+Subsec. (g)(2). Pub. L. 106–404, §10(a)(3), added par. (2) and struck out former par. (2) which read as follows: "Two years after October 20, 1986, and every two years thereafter, the Secretary shall submit a summary report to the President and the Congress on the use by the agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report's preparation."
 
 Subsec. (h). Pub. L. 106–404, §10(a)(4), added subsec. (h).
 
-Subsec. (i). Pub. L. 106–404, §7(6), substituted “a gift under this section” for “a gift under the section”.
+Subsec. (i). Pub. L. 106–404, §7(6), substituted "a gift under this section" for "a gift under the section".
 
 <b>1998</b>—Subsec. (e)(1)(K). Pub. L. 105–394 added subpar. (K).
 
-<b>1996</b>—Subsec. (e)(7)(B). Pub. L. 104–113, §3, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A transfer shall be made by any Federal agency under subparagraph (A), for any fiscal year, only if—
+<b>1996</b>—Subsec. (e)(7)(B). Pub. L. 104–113, §3, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "A transfer shall be made by any Federal agency under subparagraph (A), for any fiscal year, only if—
 
-&emsp;“(i) the amount so transferred by that agency (as determined under such subparagraph) would exceed $10,000; and
+&emsp;"(i) the amount so transferred by that agency (as determined under such subparagraph) would exceed $10,000; and
 
-&emsp;“(ii) such transfer is made with respect to the fiscal year 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, or 1996.”
+&emsp;"(ii) such transfer is made with respect to the fiscal year 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, or 1996."
 
-Subsec. (i). Pub. L. 104–113, §9, inserted “loan, lease, or” before “give”.
+Subsec. (i). Pub. L. 104–113, §9, inserted "loan, lease, or" before "give".
 
-<b>1995</b>—Subsec. (f). Pub. L. 104–66 struck out heading and text of subsec. (f). Text read as follows: “Each Federal agency which operates or directs one or more Federal laboratories shall report annually to the Congress, as part of the agency's annual budget submission, on the activities performed by that agency and its Federal laboratories pursuant to the provisions of this section.”
+<b>1995</b>—Subsec. (f). Pub. L. 104–66 struck out heading and text of subsec. (f). Text read as follows: "Each Federal agency which operates or directs one or more Federal laboratories shall report annually to the Congress, as part of the agency's annual budget submission, on the activities performed by that agency and its Federal laboratories pursuant to the provisions of this section."
 
-<b>1992</b>—Subsec. (e)(2). Pub. L. 102–245, §301(a), inserted “senior” before “representative”.
+<b>1992</b>—Subsec. (e)(2). Pub. L. 102–245, §301(a), inserted "senior" before "representative".
 
-Subsec. (e)(6). Pub. L. 102–245, §301(b), inserted at end “Such report shall include an annual independent audit of the financial statements of the Consortium, conducted in accordance with generally accepted accounting principles.”
+Subsec. (e)(6). Pub. L. 102–245, §301(b), inserted at end "Such report shall include an annual independent audit of the financial statements of the Consortium, conducted in accordance with generally accepted accounting principles."
 
-Subsec. (e)(7)(B)(ii). Pub. L. 102–245, §301(c), substituted “1991, 1992, 1993, 1994, 1995, or 1996” for “or 1991”.
+Subsec. (e)(7)(B)(ii). Pub. L. 102–245, §301(c), substituted "1991, 1992, 1993, 1994, 1995, or 1996" for "or 1991".
 
 Subsec. (e)(8). Pub. L. 102–245, §301(d), struck out former par. (8) which read as follows:
 
-“(A) The Consortium shall use 5 percent of the funds provided in paragraph (7)(A) to establish demonstration projects in technology transfer. To carry out such projects, the Consortium may arrange for grants or awards to, or enter into agreements with, nonprofit State, local, or private organizations or entities whose primary purposes are to facilitate cooperative research between the Federal laboratories and organizations not associated with the Federal laboratories, to transfer technology from the Federal laboratories, and to advance State and local economic activity.
+"(A) The Consortium shall use 5 percent of the funds provided in paragraph (7)(A) to establish demonstration projects in technology transfer. To carry out such projects, the Consortium may arrange for grants or awards to, or enter into agreements with, nonprofit State, local, or private organizations or entities whose primary purposes are to facilitate cooperative research between the Federal laboratories and organizations not associated with the Federal laboratories, to transfer technology from the Federal laboratories, and to advance State and local economic activity.
 
-“(B) The demonstration projects established under subparagraph (A) shall serve as model programs. Such projects shall be designed to develop programs and mechanisms for technology transfer from the Federal laboratories which may be utilized by the States and which will enhance Federal, State, and local programs for the transfer of technology.
+"(B) The demonstration projects established under subparagraph (A) shall serve as model programs. Such projects shall be designed to develop programs and mechanisms for technology transfer from the Federal laboratories which may be utilized by the States and which will enhance Federal, State, and local programs for the transfer of technology.
 
-“(C) Application for such grants, awards, or agreements shall be in such form and contain such information as the Consortium or its designee shall specify.
+"(C) Application for such grants, awards, or agreements shall be in such form and contain such information as the Consortium or its designee shall specify.
 
-“(D) Any person who receives or utilizes any proceeds of a grant or award made, or agreement entered into, under this paragraph shall keep such records as the Consortium or its designee shall determine are necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition of such proceeds and the total cost of the project in connection with which such proceeds were used.”
+"(D) Any person who receives or utilizes any proceeds of a grant or award made, or agreement entered into, under this paragraph shall keep such records as the Consortium or its designee shall determine are necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition of such proceeds and the total cost of the project in connection with which such proceeds were used."
 
 Subsec. (i). Pub. L. 102–245, §303, added subsec. (i).
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–189 struck out “after September 30, 1981,” after “(2)”, substituted “sufficient funding, either as a separate line item or from the agency's research and development budget,” for “not less than 0.5 percent of the agency's research and development budget”, struck out “agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the” after “transfer process. The”, and substituted “agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry” for “reasons for the waiver and alternate plans for conducting the technology transfer function at the agency”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 struck out "after September 30, 1981," after "(2)", substituted "sufficient funding, either as a separate line item or from the agency's research and development budget," for "not less than 0.5 percent of the agency's research and development budget", struck out "agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the" after "transfer process. The", and substituted "agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry" for "reasons for the waiver and alternate plans for conducting the technology transfer function at the agency".
 
 <b>1988</b>—Subsec. (d)(6). Pub. L. 100–418, §5163(c)(3), added par. (6).
 
-Subsec. (e)(4). Pub. L. 100–418, §5115(b)(2), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” and “Institute” for “Bureau”.
+Subsec. (e)(4). Pub. L. 100–418, §5115(b)(2), substituted "National Institute of Standards and Technology" for "National Bureau of Standards" and "Institute" for "Bureau".
 
-Subsec. (e)(7)(A). Pub. L. 100–418, §5162(b), substituted “0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of” for “0.005 percent of that portion of the research and development budget of each Federal agency that is to be utilized by”.
+Subsec. (e)(7)(A). Pub. L. 100–418, §5162(b), substituted "0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of" for "0.005 percent of that portion of the research and development budget of each Federal agency that is to be utilized by".
 
-Pub. L. 100–418, §5115(b)(2), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” and “Institute” for “Bureau”.
+Pub. L. 100–418, §5115(b)(2), substituted "National Institute of Standards and Technology" for "National Bureau of Standards" and "Institute" for "Bureau".
 
 Subsec. (g)(1). Pub. L. 100–519, §201(d)(3), inserted reference to the Under Secretary.
 
-Subsec. (h). Pub. L. 100–519, §212(a)(4), struck out subsec. (h) which read as follows: “None of the activities or functions of the National Technical Information Service which are not performed by contractors as of September 30, 1987, shall be contracted out or otherwise transferred from the Federal Government unless such transfer is expressly authorized by statute, or unless the value of all work performed under the contract and related contracts in each fiscal year does not exceed $250,000.”
+Subsec. (h). Pub. L. 100–519, §212(a)(4), struck out subsec. (h) which read as follows: "None of the activities or functions of the National Technical Information Service which are not performed by contractors as of September 30, 1987, shall be contracted out or otherwise transferred from the Federal Government unless such transfer is expressly authorized by statute, or unless the value of all work performed under the contract and related contracts in each fiscal year does not exceed $250,000."
 
 Pub. L. 100–418, §5163(c)(1), added subsec. (h).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–502, §4(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 99–502, §4(b)(1), substituted “200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions” for “a total annual budget exceeding $20,000,000 shall provide at least one professional individual full-time”, inserted “Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process.”, substituted “requirement set forth in clause (2) of the preceding sentence” for “requirements set forth in (1) and/or (2) of this subsection”, and substituted “such requirement” for “either requirement (1) or (2)”.
+Subsec. (b). Pub. L. 99–502, §4(b)(1), substituted "200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions" for "a total annual budget exceeding $20,000,000 shall provide at least one professional individual full-time", inserted "Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process.", substituted "requirement set forth in clause (2) of the preceding sentence" for "requirements set forth in (1) and/or (2) of this subsection", and substituted "such requirement" for "either requirement (1) or (2)".
 
-Subsec. (c)(1). Pub. L. 99–502, §4(b)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “to prepare an application assessment of each research and development project in which that laboratory is engaged which has potential for successful application in State or local government or in private industry;”.
+Subsec. (c)(1). Pub. L. 99–502, §4(b)(2)(A), added par. (1) and struck out former par. (1) which read as follows: "to prepare an application assessment of each research and development project in which that laboratory is engaged which has potential for successful application in State or local government or in private industry;".
 
-Subsec. (c)(3). Pub. L. 99–502, §4(b)(2)(B), substituted “the National Technical Information Service, the Federal Laboratory Consortium for Technology Transfer,” for “the Center for the Utilization of Federal Technology” and struck out “and” after the semicolon.
+Subsec. (c)(3). Pub. L. 99–502, §4(b)(2)(B), substituted "the National Technical Information Service, the Federal Laboratory Consortium for Technology Transfer," for "the Center for the Utilization of Federal Technology" and struck out "and" after the semicolon.
 
-Subsec. (c)(4). Pub. L. 99–502, §4(b)(2)(C), substituted “to State and local government officials; and” for “in response to requests from State and local government officials.”.
+Subsec. (c)(4). Pub. L. 99–502, §4(b)(2)(C), substituted "to State and local government officials; and" for "in response to requests from State and local government officials.".
 
 Subsec. (c)(5). Pub. L. 99–502, §4(b)(2)(D), added par. (5).
 
-Subsec. (d). Pub. L. 99–502, §4(c)(1), substituted “The National Technical Information Service shall” for “There is hereby established in the Department of Commerce a Center for the Utilization of Federal Technology. The Center for the Utilization of Federal Technology shall” in introductory par.
+Subsec. (d). Pub. L. 99–502, §4(c)(1), substituted "The National Technical Information Service shall" for "There is hereby established in the Department of Commerce a Center for the Utilization of Federal Technology. The Center for the Utilization of Federal Technology shall" in introductory par.
 
-Subsec. (d)(2). Pub. L. 99–502, §4(c)(2), (3), redesignated par. (3) as (2) and struck out “existing” before “Federal Laboratory”. Former par. (2), which required the Center for the Utilization of Federal Technology to coordinate the activities of the Offices of Research and Technology Applications of the Federal laboratories, was struck out.
+Subsec. (d)(2). Pub. L. 99–502, §4(c)(2), (3), redesignated par. (3) as (2) and struck out "existing" before "Federal Laboratory". Former par. (2), which required the Center for the Utilization of Federal Technology to coordinate the activities of the Offices of Research and Technology Applications of the Federal laboratories, was struck out.
 
 Subsec. (d)(3). Pub. L. 99–502, §4(c)(4), added par. (3). Former par. (3) redesignated (2).
 
-Subsec. (d)(4). Pub. L. 99–502, §4(c)(4)–(6), redesignated par. (5) as (4) and substituted “subsection (c)(3)” for “subsection (c)(4)”. Former par. (4), which required the Center for the Utilization of Federal Technology to receive requests for technical assistance from State and local governments and refer those requests to the appropriate Federal laboratories, was struck out.
+Subsec. (d)(4). Pub. L. 99–502, §4(c)(4)–(6), redesignated par. (5) as (4) and substituted "subsection (c)(3)" for "subsection (c)(4)". Former par. (4), which required the Center for the Utilization of Federal Technology to receive requests for technical assistance from State and local governments and refer those requests to the appropriate Federal laboratories, was struck out.
 
 Subsec. (d)(5), (6). Pub. L. 99–502, §4(c)(5), redesignated pars. (5) and (6) as (4) and (5), respectively.
 
-Subsecs. (e), (f). Pub. L. 99–502, §§3, 4(d), added subsec. (e), redesignated former subsec. (e) as (f), substituted “report annually to the Congress, as part of the agency's annual budget submission, on the activities” for “prepare biennially a report summarizing the activities”, and struck out “The report shall be transmitted to the Center for the Utilization of Federal Technology by November 1 of each year in which it is due.”.
+Subsecs. (e), (f). Pub. L. 99–502, §§3, 4(d), added subsec. (e), redesignated former subsec. (e) as (f), substituted "report annually to the Congress, as part of the agency's annual budget submission, on the activities" for "prepare biennially a report summarizing the activities", and struck out "The report shall be transmitted to the Center for the Utilization of Federal Technology by November 1 of each year in which it is due.".
 
 Subsec. (g). Pub. L. 99–502, §5, added subsec. (g).
 
@@ -306,7 +306,7 @@ Sec. 2. <i>Establishment of the Technology Share Program</i>. The Secretaries of
 
 (a) Identify areas of research and technology of potential importance to long-term national economic competitiveness and in which the laboratory possesses special competence and/or unique facilities;
 
-(b) Establish a mechanism through which the laboratory performs research in areas identified in Section 2(a) as a participant of a consortium composed of United States industries and universities. All consortia so established shall have, at a minimum, three individual companies that conduct the majority of their business in the United States; and
+(b) Establish a mechanism through which the laboratory performs research in areas identified in Section 2(a) as a participant of a consortium composed of United States industries and universities. All consortiaso established shall have, at a minimum, three individual companies that conduct the majority of their business in the United States; and
 
 (c) Limit its participation in any consortium so established to the use of laboratory personnel and facilities. However, each laboratory may also provide financial support generally not to exceed 25 percent of the total budget for the activities of the consortium. Such financial support by any laboratory in all such consortia shall be limited to a maximum of $5 million per annum.
 

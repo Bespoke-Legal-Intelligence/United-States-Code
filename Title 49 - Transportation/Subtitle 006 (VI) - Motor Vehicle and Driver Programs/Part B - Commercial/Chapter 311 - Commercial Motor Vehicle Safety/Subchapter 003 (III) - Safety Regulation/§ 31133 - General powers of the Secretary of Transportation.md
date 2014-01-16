@@ -58,43 +58,43 @@ Oct. 30, 1984, Pub. L. 98–554, §211, 98 Stat. 2841.
 
 49 App.:2510(b) (last sentence).
 
-In subsection (a), the words before clause (1) are substituted for “In carrying out the Secretary's functions under this chapter, the Secretary is authorized to” and “to carry out the provisions of this chapter, or regulations issued pursuant to section 2302 of this Appendix” to eliminate unnecessary words. Clause (10) is substituted for “perform such acts . . . as the Secretary determines necessary”. The text of 49 App.:2510(a) is omitted as covered by 49 App.:2510(b) (1st sentence).
+In subsection (a), the words before clause (1) are substituted for "In carrying out the Secretary's functions under this chapter, the Secretary is authorized to" and "to carry out the provisions of this chapter, or regulations issued pursuant to section 2302 of this Appendix" to eliminate unnecessary words. Clause (10) is substituted for "perform such acts . . . as the Secretary determines necessary". The text of 49 App.:2510(a) is omitted as covered by 49 App.:2510(b) (1st sentence).
 
-In subsection (b), the words “In conducting inspections and investigations” are substituted for “To carry out the Secretary's inspection and investigation functions” to eliminate unnecessary words. The words “or the Secretary's agent” are omitted as unnecessary.
+In subsection (b), the words "In conducting inspections and investigations" are substituted for "To carry out the Secretary's inspection and investigation functions" to eliminate unnecessary words. The words "or the Secretary's agent" are omitted as unnecessary.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178 inserted “and make contracts for” after “conduct”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178 inserted "and make contracts for" after "conduct".
 
 #### Border Staffing Standards
 
 Pub. L. 106–159, title II, §218, Dec. 9, 1999, 113 Stat. 1767, provided that:
 
-“(a)
+"(a)
 
 Development and Implementation.—Not later than 1 year after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall develop and implement appropriate staffing standards for Federal and State motor carrier safety inspectors in international border areas.
 
-“(b)
+"(b)
 
 Factors To Be Considered.—In developing standards under subsection (a), the Secretary shall consider volume of traffic, hours of operation of the border facility, types of commercial motor vehicles, types of cargo, delineation of responsibility between Federal and State inspectors, and such other factors as the Secretary determines appropriate.
 
-“(c)
+"(c)
 
 Maintenance of Effort.—The standards developed and implemented under subsection (a) shall ensure that the United States and each State will not reduce its respective level of staffing of motor carrier safety inspectors in international border areas from its average level staffing for fiscal year 2000.
 
-“(d)
+"(d)
 
 Border Commercial Motor Vehicle and Safety Enforcement Programs.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Enforcement.—If, on October 1, 2001, and October 1 of each fiscal year thereafter, the Secretary has not ensured that the levels of staffing required by the standards developed under subsection (a) are deployed, the Secretary should designate the amount made available for allocation under \[former\] section 31104(f)(2)(B) of title 49, United States Code, for such fiscal year for States, local governments, and other persons for carrying out border commercial motor vehicle safety programs and enforcement activities and projects.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Allocation.—If the Secretary makes a designation of an amount under paragraph (1), such amount shall be allocated by the Secretary to State agencies, local governments, and other persons that use and train qualified officers and employees in coordination with State motor vehicle safety agencies.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Limitation.—If the Secretary makes a designation pursuant to paragraph (1) for a fiscal year, the Secretary may not make a designation under \[former\] section 31104(f)(2)(B) of title 49, United States Code, for such fiscal year.”
+Limitation.—If the Secretary makes a designation pursuant to paragraph (1) for a fiscal year, the Secretary may not make a designation under \[former\] section 31104(f)(2)(B) of title 49, United States Code, for such fiscal year."
 

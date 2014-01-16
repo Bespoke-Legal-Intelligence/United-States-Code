@@ -28,5 +28,5 @@ Historical and Revision Notes
 
 Dec. 29, 1950, ch. 1189, §4, 64 Stat. 1130.
 
-The section is reorganized, with minor changes in phraseology. The words “as prescribed by section 1033 of this title” are omitted as surplusage. The words “of the United States” following “Attorney General” are omitted as unnecessary.
+The section is reorganized, with minor changes in phraseology. The words "as prescribed by section 1033 of this title" are omitted as surplusage. The words "of the United States" following "Attorney General" are omitted as unnecessary.
 

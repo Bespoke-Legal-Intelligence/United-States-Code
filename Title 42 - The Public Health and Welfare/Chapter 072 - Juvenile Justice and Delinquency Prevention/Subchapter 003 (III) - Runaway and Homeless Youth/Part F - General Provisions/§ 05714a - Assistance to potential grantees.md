@@ -6,21 +6,21 @@ The Secretary shall provide informational assistance to potential grantees inter
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–71, §3(j), struck out at end: “Such assistance shall consist of information on—
+<b>1999</b>—Pub. L. 106–71, §3(j), struck out at end: "Such assistance shall consist of information on—
 
-&emsp;“(1) steps necessary to establish a runaway and homeless youth center or transitional living youth project, including information on securing space for such center or such project, obtaining insurance, staffing, and establishing operating procedures;
+&emsp;"(1) steps necessary to establish a runaway and homeless youth center or transitional living youth project, including information on securing space for such center or such project, obtaining insurance, staffing, and establishing operating procedures;
 
-&emsp;“(2) securing local private or public financial support for the operation of such center or such project, including information on procedures utilized by grantees under this subchapter; and
+&emsp;"(2) securing local private or public financial support for the operation of such center or such project, including information on procedures utilized by grantees under this subchapter; and
 
-&emsp;“(3) the need for the establishment of additional runaway and homeless youth centers in the geographical area identified by the potential grantee involved.”
+&emsp;"(3) the need for the establishment of additional runaway and homeless youth centers in the geographical area identified by the potential grantee involved."
 
-<b>1988</b>—Pub. L. 100–690, §7273(a)(1), inserted “and transitional living youth projects” after “homeless youth centers” in introductory provisions.
+<b>1988</b>—Pub. L. 100–690, §7273(a)(1), inserted "and transitional living youth projects" after "homeless youth centers" in introductory provisions.
 
-Par. (1). Pub. L. 100–690, §7273(a)(2), (3), inserted “or transitional living youth project” after “homeless youth center” and “or such project” after “such center”.
+Par. (1). Pub. L. 100–690, §7273(a)(2), (3), inserted "or transitional living youth project" after "homeless youth center" and "or such project" after "such center".
 
-Par. (2). Pub. L. 100–690, §7273(a)(3), inserted “such project” after “such center”.
+Par. (2). Pub. L. 100–690, §7273(a)(3), inserted "such project" after "such center".
 
-Par. (3). Pub. L. 100–690, §7273(a)(4), inserted “and homeless” after “runaway”.
+Par. (3). Pub. L. 100–690, §7273(a)(4), inserted "and homeless" after "runaway".
 
 #### Effective Date of 1988 Amendment
 

@@ -24,17 +24,17 @@ The Board and the appropriate Federal banking agencies are authorized to issue s
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(2). Pub. L. 111–203 inserted “each” after “notify”.
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–203 inserted "each" after "notify".
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–351, §602(b)(5)(A), substituted “insured depository institution” for “insured bank”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–351, §602(b)(5)(A), substituted "insured depository institution" for "insured bank".
 
-Subsec. (c). Pub. L. 109–351, §602(b)(5)(B), substituted “a depository institution” for “a bank” in two places in introductory provisions and “the depository institution” for “the bank” in pars. (1) and (2).
+Subsec. (c). Pub. L. 109–351, §602(b)(5)(B), substituted "a depository institution" for "a bank" in two places in introductory provisions and "the depository institution" for "the bank" in pars. (1) and (2).
 
-<b>1996</b>—Pub. L. 104–208, §2613(h)(3), substituted “companies” for “corporations” in section catchline.
+<b>1996</b>—Pub. L. 104–208, §2613(h)(3), substituted "companies" for "corporations" in section catchline.
 
-Subsec. (a). Pub. L. 104–208, §2613(h)(1), (2), substituted “company” for “corporation” wherever appearing and inserted “or principal member” after “principal shareholder” and “or member” after “other shareholder”.
+Subsec. (a). Pub. L. 104–208, §2613(h)(1), (2), substituted "company" for "corporation" wherever appearing and inserted "or principal member" after "principal shareholder" and "or member" after "other shareholder".
 
-Subsec. (b). Pub. L. 104–208, §2613(h)(1), substituted “company” for “corporation” wherever appearing.
+Subsec. (b). Pub. L. 104–208, §2613(h)(1), substituted "company" for "corporation" wherever appearing.
 
 <b>1983</b>—Subsec. (b). Pub. L. 97–457 substituted reference to section 1818 of this title for reference to the Financial Institutions Supervisory Act of 1966 (12 U.S.C. 1818(b) et seq.).
 

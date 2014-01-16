@@ -30,9 +30,9 @@ Act
 
 June 3, 1916, ch. 134, §57, 39 Stat. 197; June 28, 1947, ch. 162, §7 (as applicable to §57 of the Act of June 3, 1916, ch. 134), 61 Stat. 192.
 
-In subsection (a), the words “who have made a declaration of intention” are substituted for the words “who have or shall have declared their intention”. The words “at least 17 years of age and \* \* \* under 45 years of age” are substituted for the words “who shall be more than seventeen years of age and \* \* \* not more than forty-five years of age”. The words “except as provided in section 313 of title 32” are substituted for the words “except as hereinafter provided”, to make explicit the exception as to maximum age.
+In subsection (a), the words "who have made a declaration of intention" are substituted for the words "who have or shall have declared their intention". The words "at least 17 years of age and \* \* \* under 45 years of age" are substituted for the words "who shall be more than seventeen years of age and \* \* \* not more than forty-five years of age". The words "except as provided in section 313 of title 32" are substituted for the words "except as hereinafter provided", to make explicit the exception as to maximum age.
 
-In subsection (b), the words “The organized militia, which consists of the National Guard and the Naval Militia” are substituted for the words “the National Guard, the Naval Militia”, since the National Guard and the Naval Militia constitute the organized militia.
+In subsection (b), the words "The organized militia, which consists of the National Guard and the Naval Militia" are substituted for the words "the National Guard, the Naval Militia", since the National Guard and the Naval Militia constitute the organized militia.
 
 1958
 
@@ -50,11 +50,11 @@ Act
 
 July 30, 1956, ch. 789, §1, 70 Stat. 729.
 
-The words “appointed as . . . under section 4 of this title” are omitted as surplusage.
+The words "appointed as . . . under section 4 of this title" are omitted as surplusage.
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–160 substituted “members” for “commissioned officers”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160 substituted "members" for "commissioned officers".
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–861 included female citizens of the United States who are commissioned officers of the National Guard.
 

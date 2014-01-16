@@ -6,21 +6,21 @@ In this section:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
+&emsp;The term "Administrator" means the Administrator of the Federal Emergency Management Agency.
 
 #### (2) COASTAL Formula
 
-&emsp;The term “COASTAL Formula” means the formula established under subsection (b).
+&emsp;The term "COASTAL Formula" means the formula established under subsection (b).
 
 #### (3) Coastal State
 
-&emsp;The term “coastal State” has the meaning given the term “coastal state” in section 1453 of title 16.
+&emsp;The term "coastal State" has the meaning given the term "coastal state" in section 1453 of title 16.
 
 #### (4) Indeterminate loss
 
 #### (A) In general
 
-&emsp;&emsp;The term “indeterminate loss” means, as determined by an insurance claims adjuster certified under the national flood insurance program and in consultation with an engineer as appropriate, a loss resulting from physical damage to, or loss of, property located in any coastal State arising from the combined perils of flood and wind associated with a named storm.
+&emsp;&emsp;The term "indeterminate loss" means, as determined by an insurance claims adjuster certified under the national flood insurance program and in consultation with an engineer as appropriate, a loss resulting from physical damage to, or loss of, property located in any coastal State arising from the combined perils of flood and wind associated with a named storm.
 
 #### (B) Requirements
 
@@ -32,31 +32,31 @@ In this section:
 
 #### (5) Named storm
 
-&emsp;The term “named storm” means any organized weather system with a defined surface circulation and maximum winds of not less than 39 miles per hour which the National Hurricane Center of the United States National Weather Service names as a tropical storm or a hurricane.
+&emsp;The term "named storm" means any organized weather system with a defined surface circulation and maximum winds of not less than 39 miles per hour which the National Hurricane Center of the United States National Weather Service names as a tropical storm or a hurricane.
 
 #### (6) Post-storm assessment
 
-&emsp;The term “post-storm assessment” means the post-storm assessment developed under section 3611(b) of title 33.
+&emsp;The term "post-storm assessment" means the post-storm assessment developed under section 3611(b) of title 33.
 
 #### (7) State
 
-&emsp;The term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
+&emsp;The term "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
 
 #### (8) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Homeland Security.
+&emsp;The term "Secretary" means the Secretary of Homeland Security.
 
 #### (9) Standard insurance policy
 
-&emsp;The term “standard insurance policy” means any insurance policy issued under the national flood insurance program that covers loss or damage to property resulting from water peril.
+&emsp;The term "standard insurance policy" means any insurance policy issued under the national flood insurance program that covers loss or damage to property resulting from water peril.
 
 #### (10) Property
 
-&emsp;The term “property” means real or personal property that is insured under a standard insurance policy for loss or damage to structure or contents.
+&emsp;The term "property" means real or personal property that is insured under a standard insurance policy for loss or damage to structure or contents.
 
 #### (11) Under Secretary
 
-&emsp;The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere, in the Under Secretary's capacity as Administrator of the National Oceanic and Atmospheric Administration.
+&emsp;The term "Under Secretary" means the Under Secretary of Commerce for Oceans and Atmosphere, in the Under Secretary's capacity as Administrator of the National Oceanic and Atmospheric Administration.
 
 #### (b) Establishment of flood loss allocation formula for indeterminate claims
 
@@ -178,7 +178,7 @@ Nothing in this subsection <sup>3</sup> shall be construed to require the Admin
 
 Subsection (c) shall apply with respect to an indeterminate loss associated with a named storm that occurs after the date on which the Administrator issues the rule establishing the COASTAL Formula under subsection (b).
 
-#### (j) Rule of construction
+#### (j) Rule of Construction
 
 Nothing in this subsection <sup>3</sup> shall be construed to negate, set aside, or void any policy limit, including any loss limitation, set forth in a standard insurance policy.
 
@@ -186,7 +186,7 @@ Nothing in this subsection <sup>3</sup> shall be construed to negate, set aside
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraphs”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraphs".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “this section”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "this section".</i>
 

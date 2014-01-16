@@ -50,11 +50,11 @@ June 6, 1924, ch. 270, §8(a)–(c), as added July 19, 1952, ch. 949, §1, 66 St
 
 40:71g(c).
 
-In subsection (a), the words “Act of June 20, 1938” are substituted for “Act of March 1, 1920” to correct an error in the law.
+In subsection (a), the words "Act of June 20, 1938" are substituted for "Act of March 1, 1920" to correct an error in the law.
 
-In subsection (b), the words “properly”, “at its discretion”, and “or its representative” are omitted as unnecessary.
+In subsection (b), the words "properly", "at its discretion", and "or its representative" are omitted as unnecessary.
 
-In subsection (c)(1), the words “from time to time” are omitted as unnecessary.
+In subsection (c)(1), the words "from time to time" are omitted as unnecessary.
 
 #### References in Text
 

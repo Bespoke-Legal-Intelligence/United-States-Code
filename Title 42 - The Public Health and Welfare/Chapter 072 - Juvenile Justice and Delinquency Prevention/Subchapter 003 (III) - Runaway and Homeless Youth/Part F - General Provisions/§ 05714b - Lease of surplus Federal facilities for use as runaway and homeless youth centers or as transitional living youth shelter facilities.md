@@ -24,11 +24,11 @@ A prior section 381 of Pub. L. 93–415 was renumbered section 382 and is classi
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(3). Pub. L. 105–277 substituted “unit of local government” for “unit of general local government”.
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–277 substituted "unit of local government" for "unit of general local government".
 
-<b>1988</b>—Pub. L. 100–690, §7273(b)(1), inserted “or as transitional living youth shelter facilities” at end of section catchline.
+<b>1988</b>—Pub. L. 100–690, §7273(b)(1), inserted "or as transitional living youth shelter facilities" at end of section catchline.
 
-Subsec. (a). Pub. L. 100–690, §7273(b)(2), inserted “or as transitional living youth shelter facilities” after “runaway and homeless youth centers” in introductory provisions and “or transitional living youth project, as the case may be, under this subchapter” after “homeless youth center” in par. (1).
+Subsec. (a). Pub. L. 100–690, §7273(b)(2), inserted "or as transitional living youth shelter facilities" after "runaway and homeless youth centers" in introductory provisions and "or transitional living youth project, as thecase may be, under this subchapter" after "homeless youth center" in par. (1).
 
 #### Effective Date of 1988 Amendment
 

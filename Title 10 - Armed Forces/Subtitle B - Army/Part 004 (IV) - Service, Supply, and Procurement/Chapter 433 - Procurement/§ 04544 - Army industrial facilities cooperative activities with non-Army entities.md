@@ -72,7 +72,7 @@ Approval Authority.—The authority of an Army industrial facility to enter into
 
 (g)
 
-Commercial Sales.—Except in the case of work performed for the Department of Defense, for a contract of the Department of Defense, for foreign military sales, or for authorized foreigndirect commercial sales (defense articles or defense services sold to a foreign government or international organization under export controls), a sale of articles or services may be made under this section only if the approval authority described in subsection (f) determines that the articles or services are not available from a commercial source located in the United States in the required quantity or quality, or within the time required.
+Commercial Sales.—Except in the case of work performed for the Department of Defense, for a contract of the Department of Defense, for foreign military sales, or for authorized foreign direct commercial sales (defense articles or defense services sold to a foreign government or international organization under export controls), a sale of articles or services may be made under this section only if the approval authority described in subsection (f) determines that the articles or services are not available from a commercial source located in the United States in the required quantity or quality, or within the time required.
 
 (h)
 
@@ -90,9 +90,9 @@ Relationship to Other Laws.—Nothing in this section shall be construed to affe
 
 Definitions.—In this section:
 
-&emsp;(1) The term “Army industrial facility” includes an ammunition plant, an arsenal, a depot, and a manufacturing plant.
+&emsp;(1) The term "Army industrial facility" includes an ammunition plant, an arsenal, a depot, and a manufacturing plant.
 
-&emsp;(2) The term “non-Army entity” includes the following:
+&emsp;(2) The term "non-Army entity" includes the following:
 
 &emsp;&emsp;(A) A Federal agency (other than the Department of the Army).
 
@@ -102,37 +102,37 @@ Definitions.—In this section:
 
 &emsp;&emsp;(D) An institution of higher education or vocational training institution.
 
-&emsp;(3) The term “incremental funding” means a series of partial payments that—
+&emsp;(3) The term "incremental funding" means a series of partial payments that—
 
 &emsp;&emsp;(A) are made as the work on manufacture or articles is being performed or services are being performed or equipment or facilities are used, as the case may be; and
 
 &emsp;&emsp;(B) result in full payment being completed as the required work is being completed.
 
-&emsp;(4) The term “full costs”, with respect to articles or services provided under a cooperative arrangement entered into under subsection (a), means the variable costs and the fixed costs that are directly related to the production of the articles or the provision of the services.
+&emsp;(4) The term "full costs", with respect to articles or services provided under a cooperative arrangement entered into under subsection (a), means the variable costs and the fixed costs that are directly related to the production of the articles or the provision of the services.
 
-&emsp;(5) The term “variable costs” means the costs that are expected to fluctuate directly with the volume of sales or services provided or the use of equipment or facilities.
+&emsp;(5) The term "variable costs" means the costs that are expected to fluctuate directly with the volume of sales or services provided or the use of equipment or facilities.
 
 (Added Pub. L. 108–375, div. A, title III, §353(a), Oct. 28, 2004, 118 Stat. 1859; amended Pub. L. 109–163, div. A, title III, §321, Jan. 6, 2006, 119 Stat. 3191; Pub. L. 109–364, div. A, title X, §1071(a)(29), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 110–181, div. A, title III, §328(a), Jan. 28, 2008, 122 Stat. 66; Pub. L. 111–84, div. A, title III, §324(a), Oct. 28, 2009, 123 Stat. 2253; Pub. L. 112–81, div. A, title III, §323(a), Dec. 31, 2011, 125 Stat. 1362.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–81, §323(a)(1), struck out second sentence which read as follows: “This authority may be used to enter into not more than eight contracts or cooperative agreements in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181).”
+<b>2011</b>—Subsec. (a). Pub. L. 112–81, §323(a)(1), struck out second sentence which read as follows: "This authority may be used to enter into not more than eight contracts or cooperative agreements in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181)."
 
-Subsec. (k). Pub. L. 112–81, §323(a)(2), struck out subsec. (k). Prior to amendment, text read as follows: “The authority to enter into a cooperative arrangement under subsection (a) expires September 30, 2014.”
+Subsec. (k). Pub. L. 112–81, §323(a)(2), struck out subsec. (k). Prior to amendment, text read as follows: "The authority to enter into a cooperative arrangement under subsection (a) expires September 30, 2014."
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–84 inserted “in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181)” after “not more than eight contracts or cooperative agreements”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84 inserted "in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181)" after "not more than eight contracts or cooperative agreements".
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, §328(a)(1), inserted at end “This authority may be used to enter into not more than eight contracts or cooperative agreements.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §328(a)(1), inserted at end "This authority may be used to enter into not more than eight contracts or cooperative agreements."
 
-Subsec. (k). Pub. L. 110–181, §328(a)(2), substituted “2014” for “2009”.
+Subsec. (k). Pub. L. 110–181, §328(a)(2), substituted "2014" for "2009".
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–364 substituted “Arrangement” for “Arangement” in heading.
+<b>2006</b>—Subsec. (d). Pub. L. 109–364 substituted "Arrangement" for "Arangement" in heading.
 
-Pub. L. 109–163, §321(b)(1), substituted “subsection (f)” for “subsection (e)” in introductory provisions.
+Pub. L. 109–163, §321(b)(1), substituted "subsection (f)" for "subsection (e)" in introductory provisions.
 
 Subsecs. (e), (f). Pub. L. 109–163, §321(b)(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 109–163, §321(b)(4), substituted “subsection (f)” for “subsection (e)”.
+Subsec. (g). Pub. L. 109–163, §321(b)(4), substituted "subsection (f)" for "subsection (e)".
 
 Pub. L. 109–163, §321(b)(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
@@ -140,7 +140,7 @@ Subsecs. (h), (i). Pub. L. 109–163, §321(b)(2), redesignated subsecs. (g) and
 
 Subsec. (j). Pub. L. 109–163, §321(b)(2), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-Pub. L. 109–163, §321(a), substituted “September 30, 2009.” for “September 30, 2009, and arrangements entered into under such subsection shall terminate not later than that date.”
+Pub. L. 109–163, §321(a), substituted "September 30, 2009." for "September 30, 2009, and arrangements entered into under such subsection shall terminate not later than that date."
 
 Subsec. (k). Pub. L. 109–163, §321(b)(2), redesignated subsec. (j) as (k).
 
@@ -148,19 +148,19 @@ Subsec. (k). Pub. L. 109–163, §321(b)(2), redesignated subsec. (j) as (k).
 
 Pub. L. 110–181, div. A, title III, §328(b), Jan. 28, 2008, 122 Stat. 66, as amended by Pub. L. 111–84, div. A, title III, §324(b), Oct. 28, 2009, 123 Stat. 2253; Pub. L. 112–81, div. A, title III, §323(b), Dec. 31, 2011, 125 Stat. 1362; Pub. L. 112–239, div. A, title X, §1076(a)(2), Jan. 2, 2013, 126 Stat. 1948, provided that:
 
-“(1)
+"(1)
 
 Annual report on use of authority.—The Secretary of the Army shall submit to Congress at the same time the budget of the President is submitted to Congress for fiscal years 2009 through 2016 under section 1105 of title 31, United States Code, a report on the use of the authority provided under section 4544 of title 10, United States Code.
 
-“(2)
+"(2)
 
 Analysis of use of authority.—Not later than September 30, 2012, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report—
 
-&emsp;“(A) assessing the effect of the use of such authority on the rates charged by each Army industrial facility when bidding on contracts for the Army or for a Defense agency and providing recommendations to improve the ability of each category of Army industrial facility (as defined in section 4544(j) of title 10, United States Code) to compete for such contracts;
+&emsp;"(A) assessing the effect of the use of such authority on the rates charged by each Army industrial facility when bidding on contracts for the Army or for a Defense agency and providing recommendations to improve the ability of each category of Army industrial facility (as defined in section 4544(j) of title 10, United States Code) to compete for such contracts;
 
-&emsp;“(B) assessing the benefit to the Federal Government of using such authority;
+&emsp;"(B) assessing the benefit to the Federal Government of using such authority;
 
-&emsp;“(C) assessing the impact of the use of such authority on the availability of facilities needed by the Army and on the private sector; and
+&emsp;"(C) assessing the impact of the use of such authority on the availability of facilities needed by the Army and on the private sector; and
 
-&emsp;“(D) describing the steps taken to comply with the requirements under section 4544(g) of title 10, United States Code.”
+&emsp;"(D) describing the steps taken to comply with the requirements under section 4544(g) of title 10, United States Code."
 

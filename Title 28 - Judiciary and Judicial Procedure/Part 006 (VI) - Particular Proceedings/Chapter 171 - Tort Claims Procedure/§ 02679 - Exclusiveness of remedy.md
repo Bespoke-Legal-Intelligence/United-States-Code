@@ -16,7 +16,7 @@
 
 (2) Upon certification by the Attorney General that the defendant employee was acting within the scope of his office or employment at the time of the incident out of which the claim arose, any civil action or proceeding commenced upon such claim in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States for the district and division embracing the place in which the action or proceeding is pending. Such action or proceeding shall be deemed to be an action or proceeding brought against the United States under the provisions of this title and all references thereto, and the United States shall be substituted as the party defendant. This certification of the Attorney General shall conclusively establish scope of office or employment for purposes of removal.
 
-(3) In the event that the Attorney General has refused to certify scope of office or employment under this section, the employee may at any time before trial petition the court to find and certify that the employee was acting within the scope of his office or employment. Upon such certification by the court, such action or proceeding shall be deemed to be an action or proceeding brought against the United States under the provisions of this title and all references thereto, and the United States shall be substituted as the party defendant. A copy of the petition shall be served upon the United Statesin accordance with the provisions of Rule 4(d)(4) of the Federal Rules of Civil Procedure. In the event the petition is filed in a civil action or proceeding pending in a State court, the action or proceeding may be removed without bond by the Attorney General to the district court of the United States for the district and division embracing the place in which it is pending. If, in considering the petition, the district court determines that the employee was not acting within the scope of his office or employment, the action or proceeding shall be remanded to the State court.
+(3) In the event that the Attorney General has refused to certify scope of office or employment under this section, the employee may at any time before trial petition the court to find and certify that the employee was acting within the scope of his office or employment. Upon such certification by the court, such action or proceeding shall be deemed to be an action or proceeding brought against the United States under the provisions of this title and all references thereto, and the United States shall be substituted as the party defendant. A copy of the petition shall be served upon the United Statesin accordance with the provisions of Rule 4(d)(4) <sup>1</sup> of the Federal Rules of Civil Procedure. In the event the petition is filed in a civil action or proceeding pending in a State court, the action or proceeding may be removed without bond by the Attorney General to the district court of the United States for the district and division embracing the place in which it is pending. If, in considering the petition, the district court determines that the employee was not acting within the scope of his office or employment, the action or proceeding shall be remanded to the State court.
 
 (4) Upon certification, any action or proceeding subject to paragraph (1), (2), or (3) shall proceed in the same manner as any action against the United States filed pursuant to section 1346(b) of this title and shall be subject to the limitations and exceptions applicable to those actions.
 
@@ -38,7 +38,7 @@ Changes were made in phraseology.
 
 #### Senate Revision Amendment
 
-The catchline and text of this section were changed and the section was renumbered “2678” by Senate amendment. See 80th Congress Senate Report No. 1559.
+The catchline and text of this section were changed and the section was renumbered "2678" by Senate amendment. See 80th Congress Senate Report No. 1559.
 
 #### References in Text
 
@@ -46,11 +46,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(3), are set out
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–694, §5, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The remedy against the United States provided by sections 1346(b) and 2672 of this title for injury or loss of property or personal injury or death, resulting from the operation by any employee of the Government of any motor vehicle while acting within the scope of his office or employment, shall hereafter be exclusive of any other civil action or proceeding by reason of the same subject matter against the employee or his estate whose act or omission gave rise to the claim.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–694, §5, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The remedy against the United States provided by sections 1346(b) and 2672 of this title for injury or loss of property or personal injury or death, resulting from the operation by any employee of the Government of any motor vehicle while acting within the scope of his office or employment, shall hereafter be exclusive of any other civil action or proceeding by reason of the same subject matter against the employee or his estate whose act or omission gave rise to the claim."
 
-Subsec. (d). Pub. L. 100–694, §6, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Upon a certification by the Attorney General that the defendant employee was acting within the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States for the district and division embracing the place wherein it is pending and the proceedings deemed a tort action brought against the United States under the provisions of this title and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merits that the case so removed is one in which a remedy by suit within the meaning of subsection (b) of this section is not available against the United States, the case shall be remanded to the State court.”
+Subsec. (d). Pub. L. 100–694, §6, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Upon a certification by the Attorney General that the defendant employee was acting within the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States for the district and division embracing the place wherein it is pending and the proceedings deemed a tort action brought against the United States under the provisions of this title and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merits that the case so removed is one in which a remedy by suit within the meaning of subsection (b) of this section is not available against the United States, the case shall be remanded to the State court."
 
-<b>1966</b>—Subsec. (b). Pub. L. 89–506 inserted reference to section 2672 of this title and substituted “remedy” for “remedy by suit”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–506 inserted reference to section 2672 of this title and substituted "remedy" for "remedy by suit".
 
 <b>1961</b>—Pub. L. 87–258 designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
 
@@ -58,21 +58,21 @@ Subsec. (d). Pub. L. 100–694, §6, amended subsec. (d) generally. Prior to ame
 
 Pub. L. 100–694, §8, Nov. 18, 1988, 102 Stat. 4565, provided that:
 
-“(a)
+"(a)
 
 General Rule.—This Act and the amendments made by this Act \[enacting section 831c–2 of Title 16, Conservation, amending this section and sections 2671 and 2674 of this title, and enacting provisions set out as notes under this section and section 2671 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1988\].
 
-“(b)
+"(b)
 
 Applicability to Proceedings.—The amendments made by this Act \[amending this section and sections 2671 and 2674 of this title\] shall apply to all claims, civil actions, and proceedings pending on, or filed on or after, the date of the enactment of this Act.
 
-“(c)
+"(c)
 
 Pending State Proceedings.—With respect to any civil action or proceeding pending in a State court to which the amendments made by this Act apply, and as to which the period for removal under section 2679(d) of title 28, United States Code (as amended by section 6 of this Act), has expired, the Attorney General shall have 60 days after the date of the enactment of this Act during which to seek removal under such section 2679(d).
 
-“(d)
+"(d)
 
-Claims Accruing Before Enactment.—With respect to any civil action or proceeding to which the amendments made by this Act apply in which the claim accrued before the date of the enactment of this Act, the period during which the claim shall be deemed to be timely presented under section 2679(d)(5) of title 28, United States Code (as amended by section 6 of this Act) shall be that period within which the claim could have been timely filed under applicable State law, but in no event shall such period exceed two years from the date of the enactment of this Act.”
+Claims Accruing Before Enactment.—With respect to any civil action or proceeding to which the amendments made by this Act apply in which the claim accrued before the date of the enactment of this Act, the period during which the claim shall be deemed to be timely presented under section 2679(d)(5) of title 28, United States Code (as amended by section 6 of this Act) shall be that period within which the claim could have been timely filed under applicable State law, but in no event shall such period exceed two years from the date of the enactment of this Act."
 
 #### Effective Date of 1966 Amendment
 
@@ -80,5 +80,7 @@ Amendment by Pub. L. 89–506 applicable to claims accruing six months or more a
 
 #### Effective Date of 1961 Amendment
 
-Pub. L. 87–258, §2, Sept. 21, 1961, 75 Stat. 539, provided that: “The amendments made by this Act \[amending this section\] shall be deemed to be in effect six months after the enactment hereof \[Sept. 21, 1961\] but any rights or liabilities then existing shall not be affected.”
+Pub. L. 87–258, §2, Sept. 21, 1961, 75 Stat. 539, provided that: "The amendments made by this Act \[amending this section\] shall be deemed to be in effect six months after the enactment hereof \[Sept. 21, 1961\] but any rights or liabilities then existing shall not be affected."
+
+<i><sup>1</sup></i><i> So in original. Probably should be a reference to Rule 4(i).</i>
 

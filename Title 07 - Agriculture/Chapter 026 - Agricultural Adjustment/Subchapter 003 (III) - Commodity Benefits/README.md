@@ -18,7 +18,7 @@
 - [&sect; 00608f - Repealed. Pub. L. 89&#8211;106, &sect;9, Aug. 4, 1965, 79 Stat. 432](%C2%A7%2000608f%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93106%2C%20%C2%A79%2C%20Aug.%204%2C%201965%2C%2079%20Stat.%20432.md)
 - [&sect; 00609 - Processing tax; methods of computation; rate; what constitutes processing; publicity as to tax to avoid profiteering](%C2%A7%2000609%20-%20Processing%20tax%3B%20methods%20of%20computation%3B%20rate%3B%20what%20constitutes%20processing%3B%20publicity%20as%20to%20tax%20to%20avoid%20profiteering.md)
 - [&sect; 00610 - Administration](%C2%A7%2000610%20-%20Administration.md)
-- [&sect; 00611 - &#8220;Basic agricultural commodity&#8221; defined; exclusion of commodities](%C2%A7%2000611%20-%20%E2%80%9CBasic%20agricultural%20commodity%E2%80%9D%20defined%3B%20exclusion%20of%20commodities.md)
+- [&sect; 00611 - Basic agricultural commodity defined; exclusion of commodities](%C2%A7%2000611%20-%20Basic%20agricultural%20commodity%20defined%3B%20exclusion%20of%20commodities.md)
 - [&sect; 00612 - Appropriation; use of revenues; administrative expenses](%C2%A7%2000612%20-%20Appropriation%3B%20use%20of%20revenues%3B%20administrative%20expenses.md)
 - [&sect; 00612a, 612b - Omitted](%C2%A7%2000612a%2C%20612b%20-%20Omitted.md)
 - [&sect; 00612c - Appropriation to encourage exportation and domestic consumption of agricultural products](%C2%A7%2000612c%20-%20Appropriation%20to%20encourage%20exportation%20and%20domestic%20consumption%20of%20agricultural%20products.md)

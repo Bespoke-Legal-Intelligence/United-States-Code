@@ -12,13 +12,13 @@ Calculation of Period.—The time of the absence of the defendant from the Unite
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239, §1251(a)(1), substituted “10 years” for “4 years”.
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §1251(a)(1), substituted "10 years" for "4 years".
 
-Subsec. (b). Pub. L. 112–239, §1251(a)(2), substituted “10-year period” for “4-year period”.
+Subsec. (b). Pub. L. 112–239, §1251(a)(2), substituted "10-year period" for "4-year period".
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title XII, §1251(b), Jan. 2, 2013, 126 Stat. 2017, provided that: “The amendments made by this section \[amending this section\] shall apply to any civil action arising under section 2333 of title 18, United States Code, that is pending on, or commenced on or after, the date of the enactment of this Act \[Jan. 2, 2013\].”
+Pub. L. 112–239, div. A, title XII, §1251(b), Jan. 2, 2013, 126 Stat. 2017, provided that: "The amendments made by this section \[amending this section\] shall apply to any civil action arising under section 2333 of title 18, United States Code, that is pending on, or commenced on or after, the date of the enactment of this Act \[Jan. 2, 2013\]."
 
 #### Effective Date
 

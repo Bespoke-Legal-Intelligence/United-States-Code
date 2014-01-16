@@ -6,7 +6,7 @@ In consultation with an affected Indian tribe or lineal descendant, the Secretar
 
 #### (b) Reburial
 
-With the consent of the affected Indian tribe or lineal descendent, the Secretary may recover and rebury, at Federal expense or using other available funds, human remains and cultural items described in subsection (a) at the National Forest System land identified under that subsection.
+With the consent of the affected Indian tribe or lineal descendent, the Secretary may recoverand rebury, at Federal expense or using other available funds, human remains and cultural items described in subsection (a) at the National Forest System land identified under that subsection.
 
 #### (c) Authorization of use
 
@@ -24,7 +24,7 @@ With the consent of the affected Indian tribe or lineal descendent, the Secretar
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
-#### Definition of “Secretary”
+#### Definition of "Secretary"
 
-“Secretary” as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
+"Secretary" as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
 

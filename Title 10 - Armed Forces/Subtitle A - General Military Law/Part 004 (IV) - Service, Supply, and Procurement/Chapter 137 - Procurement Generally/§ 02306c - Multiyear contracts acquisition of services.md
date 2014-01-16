@@ -48,7 +48,7 @@ Restrictions Applicable Generally.—(1) The head of an agency may not initiate 
 
 (3) The head of an agency may not terminate a multiyear procurement contract for services until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
 
-(4) Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may beawarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the congressional defense committees, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
+(4) Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the congressional defense committees, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
 
 (5) In the case of a contract described in subsection (a) with a cancellation ceiling described in paragraph (4), if the budget for the contract does not include proposed funding for the costs of contract cancellation up to the cancellation ceiling established in the contract, the head of the agency concerned shall give written notification to the congressional defense committees of—
 
@@ -76,37 +76,37 @@ Multiyear Contract Defined.—For the purposes of this section, a multiyear cont
 
 (h)
 
-Military Installation Defined.—In this section, the term “military installation” has the meaning given such term in section 2801(c)(4) of this title.
+Military Installation Defined.—In this section, the term "military installation" has the meaning given such term in section 2801(c)(4) of this title.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–203; amended Pub. L. 107–314, div. A, title VIII, §§811(a), 827, Dec. 2, 2002, 116 Stat. 2608, 2617; Pub. L. 108–136, div. A, title VIII, §843(a), title X, §1043(c)(1), Nov. 24, 2003, 117 Stat. 1553, 1611; Pub. L. 108–375, div. A, title VIII, §814(b), Oct. 28, 2004, 118 Stat. 2014; Pub. L. 111–84, div. A, title X, §1073(a)(22), Oct. 28, 2009, 123 Stat. 2473.)
 
 #### Amendments
 
-<b>2009</b>—Subsec. (h). Pub. L. 111–84 substituted “section 2801(c)(4)” for “section 2801(c)(2)”.
+<b>2009</b>—Subsec. (h). Pub. L. 111–84 substituted "section 2801(c)(4)" for "section 2801(c)(2)".
 
-<b>2004</b>—Subsec. (d)(1), (3), (4). Pub. L. 108–375, §814(b)(1), substituted “congressional defense committees” for “committees of Congress named in paragraph (5)”.
+<b>2004</b>—Subsec. (d)(1), (3), (4). Pub. L. 108–375, §814(b)(1), substituted "congressional defense committees" for "committees of Congress named in paragraph (5)".
 
-Subsec. (d)(5). Pub. L. 108–375, §814(b)(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The committees of Congress referred to in paragraphs (1), (3), and (4) are as follows:
+Subsec. (d)(5). Pub. L. 108–375, §814(b)(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The committees of Congress referred to in paragraphs (1), (3), and (4) are as follows:
 
-&emsp;“(A) The Committee on Armed Services and the Committee on Appropriations of the Senate.
+&emsp;"(A) The Committee on Armed Services and the Committee on Appropriations of the Senate.
 
-&emsp;“(B) The Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+&emsp;"(B) The Committee on Armed Services and the Committee on Appropriations of the House of Representatives."
 
 <b>2003</b>—Subsec. (g). Pub. L. 108–136, §843(a), struck out heading and text of subsec. (g). Text read as follows:
 
-“(1) The authority and restrictions of this section, including the authority to enter into contracts for periods of not more than five years, shall apply with respect to task order and delivery order contracts entered into under the authority of section 2304a, 2304b, or 2304c of this title.
+"(1) The authority and restrictions of this section, including the authority to enter into contracts for periods of not more than five years, shall apply with respect to task order and delivery order contracts entered into under the authority of section 2304a, 2304b, or 2304c of this title.
 
-“(2) The regulations implementing this subsection shall establish a preference that, to the maximum extent practicable, multi-year requirements for task order and delivery order contracts be met with separate awards to two or more sources under the authority of section 2304a(d)(1)(B) of this title.”
+"(2) The regulations implementing this subsection shall establish a preference that, to the maximum extent practicable, multi-year requirements for task order and delivery order contracts be met with separate awards to two or more sources under the authority of section 2304a(d)(1)(B) of this title."
 
-Subsec. (h). Pub. L. 108–136, §1043(c)(1), substituted “
+Subsec. (h). Pub. L. 108–136, §1043(c)(1), substituted "
 
-Military Installation Defined.—In this section, the term” for “
+Military Installation Defined.—In this section, the term" for "
 
 Additional Definitions.—In this section:
 
-&emsp;“(1) The term ‘base closure law’ has the meaning given such term in section 2667(h)(2) of this title.
+&emsp;"(1) The term 'base closure law' has the meaning given such term in section 2667(h)(2) of this title.
 
-&emsp;“(2) The term”.
+&emsp;"(2) The term".
 
 <b>2002</b>—Subsec. (b)(5). Pub. L. 107–314, §827(a), added par. (5).
 
@@ -116,9 +116,9 @@ Subsec. (h). Pub. L. 107–314, §827(b), added subsec. (h).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VIII, §811(b), Dec. 2, 2002, 116 Stat. 2608, as amended by Pub. L. 108–11, title I, §1315, Apr. 16, 2003, 117 Stat. 570, provided that: “Subsection (g) of section 2306c of title 10, United States Code, as added by subsection (a), shall apply to all task order and delivery order contracts entered into on or after January 1, 2004.”
+Pub. L. 107–314, div. A, title VIII, §811(b), Dec. 2, 2002, 116 Stat. 2608, as amended by Pub. L. 108–11, title I, §1315, Apr. 16, 2003, 117 Stat. 570, provided that: "Subsection (g) of section 2306c of title 10, United States Code, as added by subsection (a), shall apply to all task order and delivery order contracts entered into on or after January 1, 2004."
 
 #### Effective Date
 
-Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, provided that: “Section 2306c of title 10, United States Code (as added by subsection (a)), shall apply with respect to contracts for which solicitations of offers are issued after the date of the enactment of this Act \[Oct. 30, 2000\].”
+Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, provided that: "Section 2306c of title 10, United States Code (as added by subsection (a)), shall apply with respect to contracts for which solicitations of offers are issued after the date of the enactment of this Act \[Oct. 30, 2000\]."
 

@@ -24,7 +24,7 @@
 
 (d) This section does not apply in a case to which section 1502 of title 10 applies.
 
-(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 628; amended Pub. L. 102–25, title VII, §702(b)(1),\(c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, §569(c)(1), Feb. 10, 1996, 110 Stat. 351.)
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 628; amended Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, §569(c)(1), Feb. 10, 1996, 110 Stat. 351.)
 
 Historical and Revision Notes
 
@@ -58,17 +58,17 @@ Mar. 7, 1942, ch. 166, §9(b) (as applicable to §5); added Aug. 29, 1957, Pub. 
 
 Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
 
-In subsection (a), the words “member of a uniformed service” are substituted for “person”. The words “in a missing status” and “in that status” are substituted for “absence” in three places. The words “Secretary concerned” are substituted for “head of the department concerned” in two places. In the second sentence, the words “or his designee” are supplied on authority of 50 App. U.S.C. 1009 which is codified in part in revised section 556(a) of this chapter. In clause (1), the words “member” and “his” are substituted for “person's” and “person”, respectively.
+In subsection (a), the words "member of a uniformed service" are substituted for "person". The words "in a missing status" and "in that status" are substituted for "absence" in three places. The words "Secretary concerned" are substituted for "head of the department concerned" in two places. In the second sentence, the words "or his designee" are supplied on authority of 50 App. U.S.C. 1009 which is codified in part in revised section 556(a) of this chapter. In clause (1), the words "member" and "his" are substituted for "person's" and "person", respectively.
 
-In subsection (b), the words “under subsection (a) of this section” are inserted for clarity. In clause (A), the words “day on which the 12-month period in a missing status ends” are substituted for “day of expiration of an absence of twelve months”. In clause (B), the words “under subsection (a) of this section” are substituted for “as hereinbefore authorized”. The words “Secretary concerned” are substituted for “head of the department concerned.” The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter.
+In subsection (b), the words "under subsection (a) of this section" are inserted for clarity. In clause (A), the words "day on which the 12-month period in a missing status ends" are substituted for "day of expiration of an absence of twelve months". In clause (B), the words "under subsection (a) of this section" are substituted for "as hereinbefore authorized". The words "Secretary concerned" are substituted for "head of the department concerned." The words "or his designee" are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter.
 
-In subsection (c), the first sentence is substituted for 50 App. U.S.C. 1009(b) (1st 31 words, as applicable to §1005). The words “Secretary concerned” are substituted for “head of the department concerned”. The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter. The words “departments and agencies of the United States” are substituted for “departments of the Government” in view of the definition of “department” in 50 App. U.S.C. 1001(d). The words “This subsection does not entitle” are substituted for “<i>Provided</i>, That nothing in this section shall be construed as conferring . . . any right”.
+In subsection (c), the first sentence is substituted for 50 App. U.S.C. 1009(b) (1st 31 words, as applicable to §1005). The words "Secretary concerned" are substituted for "head of the department concerned". The words "or his designee" are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter. The words "departments and agencies of the United States" are substituted for "departments of the Government" in view of the definition of "department" in 50 App. U.S.C. 1001(d). The words "This subsection does not entitle" are substituted for "<i>Provided</i>, That nothing in this section shall be construed as conferring . . . any right".
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106, §569(c)(1)(A), substituted “Except as provided in subsection (d), when” for “When”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §569(c)(1)(A), substituted "Except as provided in subsection (d), when" for "When".
 
 Subsec. (d). Pub. L. 104–106, §569(c)(1)(B), added subsec. (d).
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)” in two places.
+<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)" in two places.
 

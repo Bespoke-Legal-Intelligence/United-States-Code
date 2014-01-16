@@ -44,7 +44,7 @@
 | 1962c–2. | State programs; approval by Council; submission; requirements; notice and hearing prior to disapproval. |
 | 1962c–3. | Noncompliance; curtailing of payments. |
 | 1962c–4. | Payments to States; computation of amount. |
-| 1962c–5. | “State” defined. |
+| 1962c–5. | "State" defined. |
 | 1962c–6. | Records; audit and examination. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

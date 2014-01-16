@@ -8,9 +8,9 @@
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director” in subsecs. (a) and (b).
+<b>2012</b>—Pub. L. 112–141 substituted "Administrator" for "Director" in subsecs. (a) and (b).
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” in subsecs. (a) and (b).
+<b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" in subsecs. (a) and (b).
 
 #### Transfer of Functions
 

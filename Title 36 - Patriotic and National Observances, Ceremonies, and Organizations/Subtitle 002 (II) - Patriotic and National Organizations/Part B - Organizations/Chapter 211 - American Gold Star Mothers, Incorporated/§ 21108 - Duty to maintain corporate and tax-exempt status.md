@@ -32,5 +32,5 @@ June 12, 1984, Pub. L. 98–314, §§8(e), 15 (1st sentence), 98 Stat. 238, 239.
 
 &nbsp;
 
-In subsection (a), the words “organized and” are omitted as unnecessary. The words “each State” are substituted for “State or States” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (a), the words "organized and" are omitted as unnecessary. The words "each State" are substituted for "State or States" for consistency in the revised title and to eliminate unnecessary words.
 

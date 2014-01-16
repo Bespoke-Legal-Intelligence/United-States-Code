@@ -6,5 +6,5 @@ It shall be unlawful for any person to violate any provision of section 13251, 1
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–58 substituted “13257, or 13263a” for “or 13257”.
+<b>2005</b>—Pub. L. 109–58 substituted "13257, or 13263a" for "or 13257".
 

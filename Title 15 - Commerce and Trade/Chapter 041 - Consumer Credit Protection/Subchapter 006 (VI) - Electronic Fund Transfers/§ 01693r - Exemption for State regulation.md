@@ -16,7 +16,7 @@ A prior section 922 of Pub. L. 90–321 was renumbered section 923 and is classi
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1084(1), substituted “Bureau” for “Board” in two places.
+<b>2010</b>—Pub. L. 111–203, §1084(1), substituted "Bureau" for "Board" in two places.
 
 #### Effective Date of 2010 Amendment
 

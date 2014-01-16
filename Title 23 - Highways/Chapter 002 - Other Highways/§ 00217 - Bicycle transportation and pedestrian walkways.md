@@ -14,7 +14,7 @@ Use of Federal Lands Highway Funds.—Funds authorized for forest highways, fore
 
 (d)
 
-State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) <sup>1</sup> of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
+State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) <sup>1</sup> of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promotingand facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
 
 (e)
 
@@ -60,19 +60,19 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Bicycle transportation facility.—The term “bicycle transportation facility” means a new or improved lane, path, or shoulder for use by bicyclists and a traffic control device, shelter, or parking facility for bicycles.
+Bicycle transportation facility.—The term "bicycle transportation facility" means a new or improved lane, path, or shoulder for use by bicyclists and a traffic control device, shelter, or parking facility for bicycles.
 
 &emsp;(2)
 
-Electric bicycle.—The term “electric bicycle” means any bicycle or tricycle with a low-powered electric motor weighing under 100 pounds, with a top motor-powered speed not in excess of 20 miles per hour.
+Electric bicycle.—The term "electric bicycle" means any bicycle or tricycle with a low-powered electric motor weighing under 100 pounds, with a top motor-powered speed not in excess of 20 miles per hour.
 
 &emsp;(3)
 
-Pedestrian.—The term “pedestrian” means any person traveling by foot and any mobility-impaired person using a wheelchair.
+Pedestrian.—The term "pedestrian" means any person traveling by foot and any mobility-impaired person using a wheelchair.
 
 &emsp;(4)
 
-Wheelchair.—The term “wheelchair” means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
+Wheelchair.—The term "wheelchair" means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
 
 (Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, §1954, Aug. 10, 2005, 119 Stat. 1515; Pub. L. 112–141, div. A, title I, §1104(c)(4), July 6, 2012, 126 Stat. 427.)
 
@@ -82,35 +82,35 @@ Section 104 of this title, referred to in subsecs. (a), (b), and (d), was amende
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–141 substituted “National Highway Performance Program” for “National Highway System” in heading.
+<b>2012</b>—Subsec. (b). Pub. L. 112–141 substituted "National Highway Performance Program" for "National Highway System" in heading.
 
-<b>2005</b>—Subsec. (c). Pub. L. 109–59 struck out “in conjunction with such trails, roads, highways, and parkways” before period at end.
+<b>2005</b>—Subsec. (c). Pub. L. 109–59 struck out "in conjunction with such trails, roads, highways, and parkways" before period at end.
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–178, §1202(a)(1), inserted “pedestrian walkways and” after “construction of” and struck out “(other than the Interstate System)” after “on the National Highway System”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–178, §1202(a)(1), inserted "pedestrian walkways and" after "construction of" and struck out "(other than the Interstate System)" after "on the National Highway System".
 
-Subsec. (e). Pub. L. 105–178, §1202(a)(2), struck out “, other than a highway access to which is fully controlled,” after “located on a highway”.
+Subsec. (e). Pub. L. 105–178, §1202(a)(2), struck out ", other than a highway access to which is fully controlled," after "located on a highway".
 
-Subsec. (g). Pub. L. 105–178, §1202(a)(3), added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows: “Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Such plans shall provide due consideration for safety and contiguous routes.”
+Subsec. (g). Pub. L. 105–178, §1202(a)(3), added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows: "Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Such plans shall provide due consideration for safety and contiguous routes."
 
-Subsec. (h). Pub. L. 105–178, §1202(a)(4), substituted “Motorized vehicles may not” for “No motorized vehicles shall” in introductory provisions.
+Subsec. (h). Pub. L. 105–178, §1202(a)(4), substituted "Motorized vehicles may not" for "No motorized vehicles shall" in introductory provisions.
 
-Subsec. (h)(3). Pub. L. 105–178, §1202(a)(5), substituted “motorized wheelchairs;” for “when State and local regulations permit, motorized wheelchairs; and”.
+Subsec. (h)(3). Pub. L. 105–178, §1202(a)(5), substituted "motorized wheelchairs;" for "when State and local regulations permit, motorized wheelchairs; and".
 
 Subsec. (h)(4), (5). Pub. L. 105–178, §1202(a)(6), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (j). Pub. L. 105–178, §1202(a)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “For purposes of this section, a ‘bicycle transportation facility’ means new or improved lanes, paths, or shoulders for use by bicyclists, traffic control devices, shelters, and parking facilities for bicycles.”
+Subsec. (j). Pub. L. 105–178, §1202(a)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: "For purposes of this section, a 'bicycle transportation facility' means new or improved lanes, paths, or shoulders for use by bicyclists, traffic control devices, shelters, and parking facilities for bicycles."
 
-<b>1995</b>—Subsec. (f). Pub. L. 104–59 substituted “determined in accordance with section 120(b)” for “80 percent”.
+<b>1995</b>—Subsec. (f). Pub. L. 104–59 substituted "determined in accordance with section 120(b)" for "80 percent".
 
-<b>1991</b>—Pub. L. 102–240 substituted “walkways” for “walkway” in section catchline and amended text generally, substituting present provisions for provisions authorizing States to construct pedestrian walkways and bicycle lanes, paths, etc., as Federal-aid highway projects, relating to safe accommodation of bicycles on bridge with deck replaced or rehabilitated with Federal participation, prohibiting bicycle project under this section unless principally for transportation purposes, deeming walkway and bicycle projects as highway projects and setting Federal share at 100 per centum, allowing use of funds authorized for forest highways, forest development roads and trails, etc., for construction of walkways and bicycle routes, prohibiting use of motor vehicles on trails and walkways, and relating to obligation of funds.
+<b>1991</b>—Pub. L. 102–240 substituted "walkways" for "walkway" in section catchline and amended text generally, substituting present provisions for provisions authorizing States to construct pedestrian walkwaysand bicycle lanes, paths, etc., as Federal-aid highway projects, relating to safe accommodation of bicycles on bridge with deck replaced or rehabilitated with Federal participation, prohibiting bicycle project under this section unless principally for transportation purposes, deeming walkway and bicycle projects as highway projects and setting Federal share at 100 per centum, allowing use of funds authorized for forest highways, forest development roads and trails, etc., for construction of walkways and bicycle routes, prohibiting use of motor vehicles on trails and walkways, and relating to obligation of funds.
 
-<b>1987</b>—Subsec. (b)(1). Pub. L. 100–17 inserted “and sums apportioned or allocated for highway substitute projects in accordance with section 103(e)(4) of this title” after “title” in second sentence.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–17 inserted "and sums apportioned or allocated for highway substitute projects in accordance with section 103(e)(4) of this title" after "title" in second sentence.
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–424 designated as subsec. (a) that portion of former subsec. (a) relating to pedestrian walkways. Remainder of former subsec. (a) relating to bicycles was redesignated (b)(1).
 
 Subsec. (b). Pub. L. 97–424 redesignated as par. (1) that portion of former subsec. (a) relating to bicycles and added pars. (2) and (3). Provisions of former subsec. (b) relating to pedestrian walkways and bicycles projects were redesignated (c) and (d), respectively.
 
-Subsec. (c). Pub. L. 97–424 redesignated as subsec. (c) that portion of former subsec. (b) relating to pedestrianwalkways. Provisions of former subsec. (c) relating to pedestrian walkways and to bicycle routes were redesignated (e) and (f), respectively.
+Subsec. (c). Pub. L. 97–424 redesignated as subsec. (c) that portion of former subsec. (b) relating to pedestrian walkways. Provisions of former subsec. (c) relating to pedestrian walkways and to bicycle routes were redesignated (e) and (f), respectively.
 
 Subsec. (d). Pub. L. 97–424 redesignated as subsec. (d) that portion of former subsec. (b) relating to bicycle projects. Former subsec. (d) redesignated (g).
 
@@ -124,7 +124,7 @@ Subsec. (h). Pub. L. 97–424 redesignated former subsec. (e) as (h), substitute
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–599 inserted provision relating to energy conservation and struck out requirement that such construction be in conjunction with Federal-aid highways.
 
-<b>1976</b>—Subsec. (e). Pub. L. 94–280 substituted “$45,000,000” for “$40,000,000” and “$2,500,000” for “$2,000,000”.
+<b>1976</b>—Subsec. (e). Pub. L. 94–280 substituted "$45,000,000" for "$40,000,000" and "$2,500,000" for "$2,000,000".
 
 #### Effective Date of 2012 Amendment
 
@@ -138,69 +138,69 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 Pub. L. 109–59, title I, §1807, Aug. 10, 2005, 119 Stat. 1460, as amended by Pub. L. 110–244, title I, §106, June 6, 2008, 122 Stat. 1602, provided that:
 
-“(a)
+"(a)
 
 Establishment.—The Secretary \[of Transportation\] shall establish and carry out a nonmotorized transportation pilot program to construct, in the following 4 communities selected by the Secretary, a network of nonmotorized transportation infrastructure facilities, including sidewalks, bicycle lanes, and pedestrian and bicycle trails, that connect directly with transit stations, schools, residences, businesses, recreation areas, and other community activity centers:
 
-&emsp;“(1) Columbia, Missouri.
+&emsp;"(1) Columbia, Missouri.
 
-&emsp;“(2) Marin County, California.
+&emsp;"(2) Marin County, California.
 
-&emsp;“(3) Minneapolis, Minnesota.
+&emsp;"(3) Minneapolis, Minnesota.
 
-&emsp;“(4) Sheboygan County, Wisconsin.
+&emsp;"(4) Sheboygan County, Wisconsin.
 
-“(b)
+"(b)
 
 Purpose.—The purpose of the program shall be to demonstrate the extent to which bicycling and walking can carry a significant part of the transportation load, and represent a major portion of the transportation solution, within selected communities.
 
-“(c)
+"(c)
 
 Grants.—In carrying out the program, the Secretary \[of Transportation\] may make a grant of $6,250,000 per fiscal year for each of the communities set forth in subsection (a) to State, local, and regional agencies that the Secretary determines are suitably equipped and organized to carry out the objectives and requirements of this section. An agency that receives a grant under this section may suballocate grant funds to a nonprofit organization to carry out the program under this section.
 
-“(d)
+"(d)
 
 Statistical Information.—In carrying out the program, the Secretary \[of Transportation\] shall develop statistical information on changes in motor vehicle, nonmotorized transportation, and public transportation usage in communities participating in the program and assess how such changes decrease congestion and energy usage, increase the frequency of bicycling and walking, and promote better health and a cleaner environment.
 
-“(e)
+"(e)
 
 Reports.—The Secretary \[of Transportation\] shall submit to Congress an interim report not later than September 30, 2007, and a final report not later than September 30, 2010, on the results of the program.
 
-“(f)
+"(f)
 
 Funding.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Authorization of appropriations.—There is authorized to be appropriated to carry out this section, out of the Highway Trust Fund (other than the Mass Transit Account), $25,000,000 for each of fiscal years 2006 through 2009.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Contract authority.—Funds authorized to be appropriated by this section shall be available for obligation in the same manner and to the same extent as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of the project shall be 100 percent, and the funds shall remain available until expended and shall not be transferable.
 
-“(g)
+"(g)
 
-Treatment of Projects.—Notwithstanding any other provision of law, projects assisted under this subsection shall be treated as projects on a Federal-aid system under chapter 1 of title 23, United States Code.”
+Treatment of Projects.—Notwithstanding any other provision of law, projects assisted under this subsection shall be treated as projects on a Federal-aid system under chapter 1 of title 23, United States Code."
 
 #### Design Guidance
 
 Pub. L. 105–178, title I, §1202(b), June 9, 1998, 112 Stat. 169, provided that:
 
-“(1)
+"(1)
 
 In general.—In implementing section 217(g) of title 23, United States Code, the Secretary, in cooperation with the American Association of State Highway and Transportation Officials, the Institute of Transportation Engineers, and other interested organizations, shall develop guidance on the various approaches to accommodating bicycles and pedestrian travel.
 
-“(2)
+"(2)
 
 Issues to be addressed.—The guidance shall address issues such as the level and nature of the demand, volume, and speed of motor vehicle traffic, safety, terrain, cost, and sight distance.
 
-“(3)
+"(3)
 
 Recommendations.—The guidance shall include recommendations on amending and updating the policies of the American Association of State Highway and Transportation Officials relating to highway and street design standards to accommodate bicyclists and pedestrians.
 
-“(4)
+"(4)
 
-Time period for development.—The guidance shall be developed within 18 months after the date of enactment of this Act \[June 9, 1998\].”
+Time period for development.—The guidance shall be developed within 18 months after the date of enactment of this Act \[June 9, 1998\]."
 
 #### Energy Conservation Bicycle Transportation Program; Report
 

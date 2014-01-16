@@ -22,11 +22,11 @@ No loan may be made under this part for any educational program, activity or ser
 
 No loan may be made to an institution under this part if the institution discriminates on account of race, color, religion, national origin, sex (to the extent provided in title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\]), or disabling condition; except that the prohibition with respect to religion shall not apply to an institution which is controlled by or which is closely identified with the tenets of a particular religious organization if the application of this section would not be consistent with the religious tenets of such organization.
 
-(Pub. L. 89–329, title III, §344, formerly title VII, §724, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 745; renumbered title III, §344, Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998, 112 Stat. 1636; Pub. L. 110–315, title III, §314(c), Aug. 14, 2008, 122 Stat. 3181.)
+(Pub. L. 89–329, title III, §344, formerly title VII, §724, as added Pub. L. 102–325, title VII, §704,July 23, 1992, 106 Stat. 745; renumbered title III, §344, Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998, 112 Stat. 1636; Pub. L. 110–315, title III, §314(c), Aug. 14, 2008, 122 Stat. 3181.)
 
 #### References in Text
 
-The Education Amendments of 1972, referred to in subsec. (d), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235,as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (d), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
 
 #### Codification
 
@@ -38,9 +38,9 @@ A prior section 344 of Pub. L. 89–329 was classified to section 1069 of this t
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315, §314(c)(1), substituted “$1,100,000,000” for “$375,000,000” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §314(c)(1), substituted "$1,100,000,000" for "$375,000,000" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 110–315, §314(c)(2), substituted “$733,333,333” for “$250,000,000”.
+Subsec. (a)(1). Pub. L. 110–315, §314(c)(2), substituted "$733,333,333" for "$250,000,000".
 
-Subsec. (a)(2). Pub. L. 110–315, §314(c)(3), substituted “$366,666,667” for “$125,000,000”.
+Subsec. (a)(2). Pub. L. 110–315, §314(c)(3), substituted "$366,666,667" for "$125,000,000".
 

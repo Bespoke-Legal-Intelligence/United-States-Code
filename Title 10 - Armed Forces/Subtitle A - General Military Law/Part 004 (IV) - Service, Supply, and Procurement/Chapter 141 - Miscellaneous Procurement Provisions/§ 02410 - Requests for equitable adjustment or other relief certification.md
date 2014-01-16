@@ -18,7 +18,7 @@ Restriction on Legislative Payment of Claims.—In the case of a contract of an 
 
 (c)
 
-Definition.—In this section, the term “simplified acquisition threshold” has the meaning given that term in section 134 of title 41.
+Definition.—In this section, the term "simplified acquisition threshold" has the meaning given that term in section 134 of title 41.
 
 (Added Pub. L. 103–355, title II, §2301(a), Oct. 13, 1994, 108 Stat. 3320; amended Pub. L. 111–350, §5(b)(27), Jan. 4, 2011, 124 Stat. 3845.)
 
@@ -32,7 +32,7 @@ A prior section, added Pub. L. 100–370, §1(h)(2), July 19, 1988, 102 Stat. 84
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c). Pub. L. 111–350 substituted “section 134 of title 41” for “section 4(11) of the Office of Federal Procurement Policy Act”.
+<b>2011</b>—Subsec. (c). Pub. L. 111–350 substituted "section 134 of title 41" for "section 4(11) of the Office of Federal Procurement Policy Act".
 
 #### Effective Date
 

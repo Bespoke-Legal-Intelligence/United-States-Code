@@ -18,7 +18,7 @@ In making the determination required by subsection (a) of this section, the Secr
 
 #### (1) Notification
 
-&emsp;Prior to issuing a permit to any person under this section, the Secretary shall firstnotify the Administrator of the Secretary's intention to do so and provide necessary and appropriate information concerning the permit to the Administrator. Within 30 days of receiving such information, the Administrator shall review the information and request any additional information the Administrator deems necessary to evaluate the proposed permit.
+&emsp;Prior to issuing a permit to any person under this section, the Secretary shall first notify the Administrator of the Secretary's intention to do so and provide necessary and appropriate information concerning the permit to the Administrator. Within 30 days of receiving such information, the Administrator shall review the information and request any additional information the Administrator deems necessary to evaluate the proposed permit.
 
 #### (2) Concurrence by Administrator
 
@@ -48,9 +48,9 @@ In connection with Federal projects involving dredged material, the Secretary ma
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–580, §506(b), inserted “maximum” before “extent feasible” and inserted three sentences at end.
+<b>1992</b>—Subsec. (b). Pub. L. 102–580, §506(b), inserted "maximum" before "extent feasible" and inserted three sentences at end.
 
-Subsec. (c). Pub. L. 102–580, §504(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Prior to issuing any permit under this section, the Secretary shall first notify the Administrator of his intention to do so. In any case in which the Administrator disagrees with the determination of the Secretary as to compliance with the criteria established pursuant to section 1412(a) of this title relating to the effects of the dumping or with the restrictions established pursuant to section 1412(c) of this title relating to critical areas, the determination of the Administrator shall prevail. Unless the Administrator grants a waiver pursuant to subsection (d) of this section, the Secretary shall not issue a permit which does not comply with such criteria and with such restrictions.”
+Subsec. (c). Pub. L. 102–580, §504(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Prior to issuing any permit under this section, the Secretary shall first notify the Administrator of his intention to do so. In any case in which the Administrator disagrees with the determination of the Secretary as to compliance with the criteria established pursuant to section 1412(a) of this title relating to the effects of the dumping or with the restrictions established pursuant to section 1412(c) of this title relating to critical areas, the determination of the Administrator shall prevail. Unless the Administrator grants a waiver pursuant to subsection (d) of this section, the Secretary shall not issue a permit which does not comply with such criteria and with such restrictions."
 
-Subsec. (e). Pub. L. 102–580, §504(b), inserted before period at end “and section 1414(a) and (d) of this title”.
+Subsec. (e). Pub. L. 102–580, §504(b), inserted before period at end "and section 1414(a) and (d) of this title".
 

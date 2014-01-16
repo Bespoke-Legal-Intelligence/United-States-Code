@@ -26,7 +26,7 @@ The Secretary shall not provide financial assistance under this part unless the 
 
 #### (c) Annual update of data used in allocating funds
 
-Effective with fiscal year 1991, and annually thereafter, the Secretary shall update the population, eligible households, climatic, residentialenergy use, and all other data used in allocating the funds under this part among the States pursuant to subsection (a) of this section.
+Effective with fiscal year 1991, and annually thereafter, the Secretary shall update the population, eligible households, climatic, residential energy use, and all other data used in allocating the funds under this part among the States pursuant to subsection (a) of this section.
 
 (Pub. L. 94–385, title IV, §414, Aug. 14, 1976, 90 Stat. 1154; Pub. L. 96–294, title V, §§573(c), 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 101–440, §7(c), (g), Oct. 18, 1990, 104 Stat. 1012, 1014; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(38), (f)(29)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
 
@@ -38,19 +38,19 @@ The Economic Opportunity Act of 1964, referred to in subsec. (b)(4), is Pub. L. 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(29)\], struck out “the Job Training Partnership Act or” after “pursuant to”.
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(29)\], struck out "the Job Training Partnership Act or" after "pursuant to".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(38)\], substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act of 1973”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(38)\], substituted "the Job Training Partnership Act or title I of the Workforce Investment Act of 1998" for "the Comprehensive Employment and Training Act of 1973".
 
-<b>1990</b>—Subsec. (a)(D). Pub. L. 101–440, §7(c)(1), inserted “, such as the cost of heating and cooling,” after “necessary”.
+<b>1990</b>—Subsec. (a)(D). Pub. L. 101–440, §7(c)(1), inserted ", such as the cost of heating and cooling," after "necessary".
 
 Subsec. (b)(3). Pub. L. 101–440, §7(g), added cl. (B) and redesignated former cl. (B) as (C).
 
 Subsec. (c). Pub. L. 101–440, §7(c)(2), added subsec. (c).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–294, §577(2), substituted “Secretary” for “Administrator” wherever appearing.
+<b>1980</b>—Subsec. (a). Pub. L. 96–294, §577(2), substituted "Secretary" for "Administrator" wherever appearing.
 
-Subsec. (b). Pub. L. 96–294, §§573(c), 577(2), substituted “Secretary” for “Administrator” and added par. (4).
+Subsec. (b). Pub. L. 96–294, §§573(c), 577(2), substituted "Secretary" for "Administrator" and added par. (4).
 
 #### Effective Date of 1998 Amendment
 

@@ -4,9 +4,9 @@
 
 Definitions.—
 
-&emsp;“conviction” includes a finding, under State or Federal law, that a person has committed an act of juvenile delinquency involving a violent or controlled substances felony.
+&emsp;"conviction" includes a finding, under State or Federal law, that a person has committed an act of juvenile delinquency involving a violent or controlled substances felony.
 
-&emsp;“criminal street gang” means an ongoing group, club, organization, or association of 5 or more persons—
+&emsp;"criminal street gang" means an ongoing group, club, organization, or association of 5 or more persons—
 
 &emsp;&emsp;(A) that has as 1 of its primary purposes the commission of 1 or more of the criminal offenses described in subsection (c);
 
@@ -14,7 +14,7 @@ Definitions.—
 
 &emsp;&emsp;(C) the activities of which affect interstate or foreign commerce.
 
-&emsp;“State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+&emsp;"State" means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (b)
 
@@ -44,7 +44,7 @@ Circumstances.—The circumstances described in this section are that the offens
 
 &emsp;&emsp;(B) a State offense—
 
-&emsp;&emsp;&emsp;(i) involving a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)) for which the maximum penalty is not less than 5 years’ imprisonment; or
+&emsp;&emsp;&emsp;(i) involving a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)) for which the maximum penalty is not less than 5 years' imprisonment; or
 
 &emsp;&emsp;&emsp;(ii) that is a felony crime of violence that has as an element the use or attempted use of physical force against the person of another;
 
@@ -56,7 +56,7 @@ Circumstances.—The circumstances described in this section are that the offens
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–273 realigned margins of par. defining “State”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 realigned margins of par. defining "State".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–294 inserted par. defining “State” at end.
+<b>1996</b>—Subsec. (a). Pub. L. 104–294 inserted par. defining "State" at end.
 

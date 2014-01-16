@@ -20,13 +20,13 @@ Act
 
 Apr. 3, 1939, ch. 35, §4, 53 Stat. 556.
 
-The words “in his discretion and”, “rules”, “limitations”, and “on hand and belonging to the Government such articles as may appear to be” are omitted as surplusage. The words “Department of the Air Force or the Department of the Army” are substituted for the words “Military Establishment”, since the authority is reciprocal.
+The words "in his discretion and", "rules", "limitations", and "on hand and belonging to the Government such articles as may appear to be" are omitted as surplusage. The words "Department of the Air Force or the Department of the Army" are substituted for the words "Military Establishment", since the authority is reciprocal.
 
 #### 1982 Act
 
-In 10:9656, the words “, and at least one of which is designated by the Civil Aeronautics Authority for the training of Negro air pilots” are stricken as obsolete.
+In 10:9656, the words ", and at least one of which is designated by the Civil Aeronautics Authority for the training of Negro air pilots" are stricken as obsolete.
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–295 struck out “, and at least one of which is designated by the Civil Aeronautics Authority for the training of Negro air pilots” after “competent orders”.
+<b>1982</b>—Pub. L. 97–295 struck out ", and at least one of which is designated by the Civil Aeronautics Authority for the training of Negro air pilots" after "competent orders".
 

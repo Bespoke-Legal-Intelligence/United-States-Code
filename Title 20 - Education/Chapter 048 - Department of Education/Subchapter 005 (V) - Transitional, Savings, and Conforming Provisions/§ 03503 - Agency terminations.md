@@ -18,9 +18,9 @@ Each position which was expressly authorized by law, or the incumbent of which w
 
 #### Codification
 
-In subsec. (a), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
+In subsec. (a), "May 4, 1980" substituted for "the effective date of this chapter" pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
 #### Amendments
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–145 struck out par. (1) designation and par. (2) which provided for terminationof Office of Dependents’ Education of Department of Defense whenever President exercises authority under section 3442(a) of this title.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 struck out par. (1) designation and par. (2) which provided for termination of Office of Dependents' Education of Department of Defense whenever President exercises authority under section 3442(a) of this title.
 

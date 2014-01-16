@@ -36,11 +36,11 @@ Historical and Revision Notes
 
 10:1163 (last par., less 1st 32 words).
 
-Mar. 2, 1901, ch. 804 (2d proviso under “Permanent Establishment”); restated Apr. 19, 1910, ch. 174 (38th par. under “Buildings and Grounds”), 36 Stat. 323.
+Mar. 2, 1901, ch. 804 (2d proviso under "Permanent Establishment"); restated Apr. 19, 1910, ch. 174 (38th par. under "Buildings and Grounds"), 36 Stat. 323.
 
-In subsection (a), the word “violations” is substituted for the words “infractions of the same”. The words “to embody a clear” are omitted as surplusage.
+In subsection (a), the word "violations" is substituted for the words "infractions of the same". The words "to embody a clear" are omitted as surplusage.
 
-In subsection (b), the words “the penalty for which is or may be” are substituted for the words “which would involve”. The words “may not be dismissed for that offense except under sentence of such a court” are substituted for the words “shall be granted”.
+In subsection (b), the words "the penalty for which is or may be" are substituted for the words "which would involve". The words "may not be dismissed for that offense except under sentence of such a court" are substituted for the words "shall be granted".
 
-In subsection (c), the words “a regular component” are inserted, since the source statute historically applied only to the regular components.
+In subsection (c), the words "a regular component" are inserted, since the source statute historically applied only to the regular components.
 

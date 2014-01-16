@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) it determines, based on the notice sent under paragraph (2)(A) of subsection (b) of this section, that there is reason to believe that the plan is not sufficient for benefit liabilities,
 
-&emsp;&emsp;&emsp;&emsp;(II) it otherwise determines, on the basis of information provided by affectedparties or otherwise obtained by the corporation, that there is reason to believe that the plan is not sufficient for benefit liabilities, or
+&emsp;&emsp;&emsp;&emsp;(II) it otherwise determines, on the basis of information provided by affected parties or otherwise obtained by the corporation, that there is reason to believe that the plan is not sufficient for benefit liabilities, or
 
 &emsp;&emsp;&emsp;&emsp;(III) it determines that any other requirement of subparagraph (A) or (B) of this paragraph or of subsection (a)(2) of this section has not been met, unless it further determines that the issuance of such notice would be inconsistent with the interests of participants and beneficiaries.
 
@@ -212,7 +212,7 @@
 
 &emsp;&emsp;&emsp;The requirements of this clause are met by a person if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such person has filed, or has had filed against such person, as of the proposed termination date, a petition seeking reorganization in a case under title 11 or under any similar law of a State orpolitical subdivision of a State (or a case described in clause (i) filed by or against such person has been converted, as of such date, to such a case in which reorganization is sought),
+&emsp;&emsp;&emsp;&emsp;(I) such person has filed, or has had filed against such person, as of the proposed termination date, a petition seeking reorganization in a case under title 11 or under any similar law of a State or political subdivision of a State (or a case described in clause (i) filed by or against such person has been converted, as of such date, to such a case in which reorganization is sought),
 
 &emsp;&emsp;&emsp;&emsp;(II) such case has not, as of the proposed termination date, been dismissed,
 
@@ -264,7 +264,7 @@
 
 #### (iv) Authorized representative
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “authorized representative” means any employee organization representing participants in the pension plan.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "authorized representative" means any employee organization representing participants in the pension plan.
 
 #### (3) Termination procedure
 
@@ -284,7 +284,7 @@
 
 #### (i) Cases of sufficiency for benefit liabilities
 
-&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for benefit liabilities, the plan administrator shall proceed to distribute the plan's assets, and make certification to the corporation with respect to such distribution,in the manner described in subsection (b)(3) of this section, and shall take such other actions as may be appropriate to carry out the termination of the plan.
+&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for benefit liabilities, the plan administrator shall proceed to distribute the plan's assets, and make certification to the corporation with respect to such distribution, in the manner described in subsection (b)(3) of this section, and shall take such other actions as may be appropriate to carry out the termination of the plan.
 
 #### (ii) Cases of sufficiency for guaranteed benefits without a finding of sufficiency for benefit liabilities
 
@@ -344,7 +344,7 @@ For purposes of this section—
 
 The adoption of an amendment to a plan which causes the plan to become a plan described in section 1321(b)(1) of this title constitutes a termination of the plan. Such an amendment may take effect only after the plan satisfies the requirements for standard termination under subsection (b) of this section or distress termination under subsection (c) of this section.
 
-(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept.26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050; Pub. L. 109–280, title IV, §409(a), title V, §506(a), Aug. 17, 2006, 120 Stat. 933, 946; Pub. L. 110–458, title I, §§104(d), 105(e)(1), Dec. 23, 2008, 122 Stat. 5104, 5105.)
+(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050; Pub. L. 109–280, title IV, §409(a), title V, §506(a), Aug. 17, 2006, 120 Stat. 933, 946; Pub. L. 110–458, title I, §§104(d), 105(e)(1), Dec. 23, 2008, 122 Stat. 5104, 5105.)
 
 #### References in Text
 
@@ -354,23 +354,23 @@ Chapter 11, referred to in subsec. (c)(2)(B)(ii)(IV), probably means chapter 11 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(5)(A). Pub. L. 110–458, §104(d), substituted “subparagraphs (B) and (D)” for “subparagraph (B)” in introductory provisions.
+<b>2008</b>—Subsec. (b)(5)(A). Pub. L. 110–458, §104(d), substituted "subparagraphs (B) and (D)" for "subparagraph (B)" in introductory provisions.
 
-Subsec. (c)(2)(D)(i). Pub. L. 110–458, §105(e)(1), substituted “subparagraph (A) or the regulations under subsection (a)(2)” for “subsection (a)(2)”.
+Subsec. (c)(2)(D)(i). Pub. L. 110–458, §105(e)(1), substituted "subparagraph (A) or the regulations under subsection (a)(2)" for "subsection (a)(2)".
 
 <b>2006</b>—Subsec. (b)(5). Pub. L. 109–280, §409(a), added par. (5).
 
-Subsec. (c)(1)(C). Pub. L. 109–280, §506(a)(2), substituted “subparagraphs (B) and (D)” for “subparagraph (B)”.
+Subsec. (c)(1)(C). Pub. L. 109–280, §506(a)(2), substituted "subparagraphs (B) and (D)" for "subparagraph (B)".
 
 Subsec. (c)(2)(D). Pub. L. 109–280, §506(a)(1), added subpar. (D).
 
-<b>1994</b>—Subsec. (b)(2)(C)(i)(I). Pub. L. 103–465, §778(a)(1)(A), added subcl. (I) and struck out former subcl. (I) which read as follows: “It has reason to believe that any requirement of subsection (a)(2) of this section or subparagraph (A) or (B) has not been met, or”.
+<b>1994</b>—Subsec. (b)(2)(C)(i)(I). Pub. L. 103–465, §778(a)(1)(A), added subcl. (I) and struck out former subcl. (I) which read as follows: "It has reason to believe that any requirement of subsection (a)(2) of this section or subparagraph (A) or (B) has not been met, or".
 
 Subsec. (b)(2)(C)(i)(III). Pub. L. 103–465, §778(a)(1)(B), (C), added subcl. (III).
 
-Subsec. (b)(3)(A)(ii). Pub. L. 103–465, §776(b)(3), inserted at end “A transfer of assets to the corporation in accordance with section 1350 of this title on behalf of a missing participant shall satisfy this subparagraph with respect to such participant.”
+Subsec. (b)(3)(A)(ii). Pub. L. 103–465, §776(b)(3), inserted at end "A transfer of assets to the corporation in accordance with section 1350 of this title on behalf of a missing participant shall satisfy this subparagraph with respect to such participant."
 
-Subsec. (c)(2)(B)(i)(I). Pub. L. 103–465, §778(b)(1), inserted “Federal law or” after “under any similar”.
+Subsec. (c)(2)(B)(i)(I). Pub. L. 103–465, §778(b)(1), inserted "Federal law or" after "under any similar".
 
 <b>1989</b>—Subsec. (b)(2)(A). Pub. L. 101–239, §7881(g)(6), realigned margin of last sentence.
 
@@ -378,87 +378,87 @@ Subsec. (b)(2)(B). Pub. L. 101–239, §7893(c), realigned margin of last senten
 
 Subsec. (b)(3)(B). Pub. L. 101–239, §7881(g)(4), inserted period at end.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 101–239, §7881(g)(3), in introductory provisions, inserted “unless the corporation determines the information is not necessary for purposes of paragraph (3)(A) or section 1362 of this title,” before “certification”, in subcl. (I), inserted “and, if applicable, the proposed distribution date” after “termination date”, and in subcls. (II) to (V), substituted “dates” for “date”.
+Subsec. (c)(2)(A)(ii). Pub. L. 101–239, §7881(g)(3), in introductory provisions, inserted "unless the corporationdetermines the information is not necessary for purposes of paragraph (3)(A) or section 1362 of this title," before "certification", in subcl. (I), inserted "and, if applicable, the proposed distribution date" after "termination date", and in subcls. (II) to (V), substituted "dates" for "date".
 
-Subsec. (c)(2)(A)(iii)(II). Pub. L. 101–239, §7881(f)(7)(A), (B), struck out “(or its designee under section 1349(b) of this title)” before “to be able” and substituted “section 1322(c) of this title” for “section 1349 of this title”.
+Subsec. (c)(2)(A)(iii)(II). Pub. L. 101–239, §7881(f)(7)(A), (B), struck out "(or its designee under section 1349(b) of this title)" before "to be able" and substituted "section 1322(c) of this title" for "section 1349 of this title".
 
-Subsec. (c)(2)(B). Pub. L. 101–239, §7881(g)(2), substituted “(as of the proposed termination date)” for “(as of the termination date)”.
+Subsec. (c)(2)(B). Pub. L. 101–239, §7881(g)(2), substituted "(as of the proposed termination date)" for "(as of the termination date)".
 
 Subsec. (c)(2)(B)(i), (ii). Pub. L. 101–239, §7881(g)(5), made clarifying amendment to directory language of Pub. L. 100–203, §9313(b)(3), see 1987 Amendment note below.
 
-Subsec. (c)(3)(C)(i). Pub. L. 101–239, §7881(f)(7)(C), struck out at end “If the corporation concurs in the finding of the plan administrator (or the corporation itself makes such a finding) the corporation shall take the actions set forth in subparagraph (B)(ii)(II) relating to the trust established for purposes of section 1349 of this title.”
+Subsec. (c)(3)(C)(i). Pub. L. 101–239, §7881(f)(7)(C), struck out at end "If the corporation concurs in the finding of the plan administrator (or the corporation itself makes such a finding) the corporation shall take the actions set forth in subparagraph (B)(ii)(II) relating to the trust established for purposes of section 1349 of this title."
 
 Subsec. (c)(3)(D). Pub. L. 101–239, §7893(d)(1), realigned margins.
 
-Subsec. (c)(3)(D)(ii)(I). Pub. L. 101–239, §7893(d)(2), substituted “under this subsection” for “of this subsection”.
+Subsec. (c)(3)(D)(ii)(I). Pub. L. 101–239, §7893(d)(2), substituted "under this subsection" for "of this subsection".
 
-Subsec. (d)(1). Pub. L. 101–239, §7881(g)(1), substituted “sufficient for benefit liabilities” for “sufficient for benefit commitments”.
+Subsec. (d)(1). Pub. L. 101–239, §7881(g)(1), substituted "sufficient for benefit liabilities" for "sufficient for benefit commitments".
 
-<b>1987</b>—Subsec. (b)(1)(D). Pub. L. 100–203, §9313(a)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “when the final distribution of assets occurs, the plan is sufficient for benefit commitments (determined as of the termination date).”
+<b>1987</b>—Subsec. (b)(1)(D). Pub. L. 100–203, §9313(a)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "when the final distribution of assets occurs, the plan is sufficient for benefit commitments (determined as of the termination date)."
 
-Subsec. (b)(2)(A). Pub. L. 100–203, §9314(a)(1)(B), inserted at end “Clause (i) and clause (iii)(I) shall not apply to a plan described in section 412(i) of title 26.”
+Subsec. (b)(2)(A). Pub. L. 100–203, §9314(a)(1)(B), inserted at end "Clause (i) and clause (iii)(I) shall not apply to a plan described in section 412(i) of title 26."
 
-Subsec. (b)(2)(A)(i). Pub. L. 100–203, §9313(a)(2)(A), substituted “benefit liabilities” for “benefit commitments” in subcls. (II) and (III).
+Subsec. (b)(2)(A)(i). Pub. L. 100–203, §9313(a)(2)(A), substituted "benefit liabilities" for "benefit commitments" in subcls. (II) and (III).
 
-Subsec. (b)(2)(A)(iii). Pub. L. 100–203, §9314(a)(1)(A), added cl. (iii) and struck out former cl. (iii) which read as follows: “certification by the plan administrator that the information on which the enrolled actuary based the certification under clause (i) and the information provided to the corporation under clause (ii) are accurate and complete.”
+Subsec. (b)(2)(A)(iii). Pub. L. 100–203, §9314(a)(1)(A), added cl. (iii) and struck out former cl. (iii) which read as follows: "certification by the plan administrator that the information on which the enrolled actuary based the certification under clause (i) and the information provided to the corporation under clause (ii) are accurate and complete."
 
-Subsec. (b)(2)(B). Pub. L. 100–203, §9313(a)(2)(B), substituted “the amount of the benefit liabilities (if any) attributable to such person” for “the amount of such person's benefit commitments (if any)” in cl. (i), and “such benefit liabilities” for “such benefit commitments” in cl. (ii).
+Subsec. (b)(2)(B). Pub. L. 100–203, §9313(a)(2)(B), substituted "the amount of the benefit liabilities (if any) attributable to such person" for "the amount of such person's benefit commitments (if any)" in cl. (i), and "such benefit liabilities" for "such benefit commitments" in cl. (ii).
 
-Subsec. (b)(2)(C)(i)(II), (D)(ii). Pub. L. 100–203, §9313(a)(2)(A), substituted “benefit liabilities” for “benefit commitments”.
+Subsec. (b)(2)(C)(i)(II), (D)(ii). Pub. L. 100–203, §9313(a)(2)(A), substituted "benefit liabilities" for "benefit commitments".
 
-Subsec. (b)(3)(A)(i). Pub. L. 100–203, §9313(a)(2)(C)(i), added cl. (i) and struck out former cl. (i) which read as follows: “purchase irrevocable commitments from an insurer to provide the benefit liabilities under the plan and all other benefits (if any) under the plan to which assets are required to be allocated under section 1344 of this title, or”.
+Subsec. (b)(3)(A)(i). Pub. L. 100–203, §9313(a)(2)(C)(i), added cl. (i) and struck out former cl. (i) which read as follows: "purchase irrevocable commitments from an insurer to provide the benefit liabilities under the plan and all other benefits (if any) under the plan to which assets are required to be allocated under section 1344 of this title, or".
 
-Pub. L. 100–203, §9313(a)(2)(A), substituted “benefit liabilities” for “benefit commitments”.
+Pub. L. 100–203, §9313(a)(2)(A), substituted "benefit liabilities" for "benefit commitments".
 
-Subsec. (b)(3)(A)(ii). Pub. L. 100–203, §9313(a)(2)(C)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: “in accordance with the provisions of the plan and any applicable regulations of the corporation, otherwise fully provide the benefit liabilities under the plan and all other benefits (if any) under the plan to which assets are required to be allocated under section 1344 of this title.”
+Subsec. (b)(3)(A)(ii). Pub. L. 100–203, §9313(a)(2)(C)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: "in accordance with the provisions of the plan and any applicable regulations of the corporation, otherwise fully provide the benefit liabilities under the plan and all other benefits (if any) under the plan to which assets are required to be allocated under section 1344 of this title."
 
-Pub. L. 100–203, §9313(a)(2)(A), substituted “benefit liabilities” for “benefit commitments”.
+Pub. L. 100–203, §9313(a)(2)(A), substituted "benefit liabilities" for "benefit commitments".
 
-Subsec. (b)(3)(B). Pub. L. 100–203, §9313(a)(2)(C)(ii), substituted “so as to pay all benefit liabilities under the plan” for “so as to pay the benefit liabilities under the plan and all other benefits under the plan to which assets are required to be allocated under section 1344 of this title.”
+Subsec. (b)(3)(B). Pub. L. 100–203, §9313(a)(2)(C)(ii), substituted "so as to pay all benefit liabilities under the plan" for "so as to pay the benefit liabilities under the plan and all other benefits under the plan to which assets are required to be allocated under section 1344 of this title."
 
-Pub. L. 100–203, §9313(a)(2)(A), substituted “benefit liabilities” for “benefit commitments”.
+Pub. L. 100–203, §9313(a)(2)(A), substituted "benefit liabilities" for "benefit commitments".
 
-Subsec. (c)(2)(A). Pub. L. 100–203, §9314(a)(1)(B), inserted at end “Clause (ii) and clause (iv)(I) shall not apply to a plan described in section 412(i) of title 26.”
+Subsec. (c)(2)(A). Pub. L. 100–203, §9314(a)(1)(B), inserted at end "Clause (ii) and clause (iv)(I) shall not apply to a plan described in section 412(i) of title 26."
 
-Subsec. (c)(2)(A)(ii). Pub. L. 100–203, §9313(a)(2)(D), substituted “benefit liabilities” for “benefit commitments” in subcls. (II) and (III).
+Subsec. (c)(2)(A)(ii). Pub. L. 100–203, §9313(a)(2)(D), substituted "benefit liabilities" for "benefit commitments" in subcls. (II) and (III).
 
-Subsec. (c)(2)(A)(iii). Pub. L. 100–203, §9313(a)(2)(D), substituted “benefit liabilities” for “benefit commitments” in introductory provision.
+Subsec. (c)(2)(A)(iii). Pub. L. 100–203, §9313(a)(2)(D), substituted "benefit liabilities" for "benefit commitments" in introductory provision.
 
-Subsec. (c)(2)(A)(iv). Pub. L. 100–203, §9314(a)(2)(A), added cl. (iv) and struck out former cl. (iv) which read as follows: “certification by the plan administrator that the information on which the enrolled actuary based the certifications under clause (ii) and the information provided to the corporation under clauses (i) and (iii) are accurate and complete.”
+Subsec. (c)(2)(A)(iv). Pub. L. 100–203, §9314(a)(2)(A), added cl. (iv) and struck out former cl. (iv) which read as follows: "certification by the plan administrator that the information on which the enrolled actuary based the certifications under clause (ii) and the information provided to the corporation under clauses (i) and (iii) are accurate and complete."
 
-Subsec. (c)(2)(B). Pub. L. 100–203, §9313(b)(1)(A), substituted “a member” for “a substantial member” in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 100–203, §9313(b)(1)(A), substituted "a member" for "a substantial member" in introductory provisions.
 
-Subsec. (c)(2)(B)(i). Pub. L. 100–203, §9313(b)(3), as amended by Pub. L. 101–239, §7881(g)(5), substituted “proposed termination date” for “termination date” in subcls. (I) and (II).
+Subsec. (c)(2)(B)(i). Pub. L. 100–203, §9313(b)(3), as amended by Pub. L. 101–239, §7881(g)(5), substituted "proposed termination date" for "termination date" in subcls. (I) and (II).
 
-Pub. L. 100–203, §9313(b)(4), inserted “(or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought)” in subcl. (I).
+Pub. L. 100–203, §9313(b)(4), inserted "(or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought)" in subcl. (I).
 
-Subsec. (c)(2)(B)(ii)(I). Pub. L. 100–203, §9313(b)(3), as amended by Pub. L. 101–239, §7881(g)(5), substituted “proposed termination date” for “termination date”.
+Subsec. (c)(2)(B)(ii)(I). Pub. L. 100–203, §9313(b)(3), as amended by Pub. L. 101–239, §7881(g)(5), substituted "proposed termination date" for "termination date".
 
-Subsec. (c)(2)(B)(ii)(II). Pub. L. 100–203 §9313(b)(5)(A), struck out “and” at end.
+Subsec. (c)(2)(B)(ii)(II). Pub. L. 100–203 §9313(b)(5)(A), struck out "and" at end.
 
-Pub. L. 100–203, §9313(b)(3), as amended by Pub. L. 101–239, §7881(g)(5), substituted “proposed termination date” for “termination date”.
+Pub. L. 100–203, §9313(b)(3), as amended by Pub. L. 101–239, §7881(g)(5), substituted "proposed termination date" for "termination date".
 
 Subsec. (c)(2)(B)(ii)(III). Pub. L. 100–203, §9313(b)(5)(C), added subcl. (III). Former subcl. (III) redesignated (IV).
 
-Subsec. (c)(2)(B)(ii)(IV). Pub. L. 100–203, §9313(b)(2), (5)(B), (D), redesignated former subcl. (III) as (IV) and substituted “(or such other appropriate court) determines that, unless the plan is terminated, such person will be unable to pay all its debts pursuant to a plan of reorganization and will be unable to continue in business outside the chapter 11 reorganization process and approves the termination” for “(or other appropriate court in a case under such similar law of a State or political subdivision) approves the termination”.
+Subsec. (c)(2)(B)(ii)(IV). Pub. L. 100–203, §9313(b)(2), (5)(B), (D), redesignated former subcl. (III) as (IV) and substituted "(or such other appropriate court) determines that, unless the plan is terminated, such person will be unable to pay all its debts pursuant to a plan of reorganization and will be unable to continue in business outside the chapter 11 reorganization process and approves the termination" for "(or other appropriate court in a case under such similar law of a State or political subdivision) approves the termination".
 
-Subsec. (c)(2)(C), (D). Pub. L. 100–203, §9313(b)(1)(B), redesignated former subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “For purposes of subparagraph (B), the term ‘substantial member’ of a controlled group means a person whose assets comprise 5 percent or more of the total assets of the controlled group as a whole.”
+Subsec. (c)(2)(C), (D). Pub. L. 100–203, §9313(b)(1)(B), redesignated former subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "For purposes of subparagraph (B), the term 'substantial member' of a controlled group means a person whose assets comprise 5 percent or more of the total assets of the controlled group as a whole."
 
-Subsec. (c)(3)(A). Pub. L. 100–203, §9313(a)(2)(D), substituted “benefit liabilities” for “benefit commitments” in heading and in cl. (ii).
+Subsec. (c)(3)(A). Pub. L. 100–203, §9313(a)(2)(D), substituted "benefit liabilities" for "benefit commitments" in heading and in cl. (ii).
 
-Subsec. (c)(3)(B)(i). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text “benefit liabilities” for “benefit commitments”.
+Subsec. (c)(3)(B)(i). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text "benefit liabilities" for "benefit commitments".
 
-Subsec. (c)(3)(B)(ii). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text “benefit liabilities” for “benefit commitments”.
+Subsec. (c)(3)(B)(ii). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text "benefit liabilities" for "benefit commitments".
 
-Pub. L. 100–203, §9312(c)(1), struck out former subcl. (I) designation and substituted comma for dash before “the plan administrator”, substituted period for “, and” after “termination of the plan”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title.”
+Pub. L. 100–203, §9312(c)(1), struck out former subcl. (I) designation and substituted comma for dash before "the plan administrator", substituted period for ", and" after "termination of the plan", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title."
 
-Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before “the corporation shall commence”, substituted period for “, and” after “section 1342 of this title”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title.”
+Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before "the corporation shall commence", substituted period for ", and" after "section1342 of this title", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title."
 
-Subsec. (c)(3)(C)(i). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text “benefit liabilities” for “benefit commitments”.
+Subsec. (c)(3)(C)(i). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text "benefit liabilities" for "benefit commitments".
 
-Subsec. (c)(3)(D)(ii)(IV). Pub. L. 100–203, §9313(a)(2)(D), substituted “benefit liabilities” for “benefit commitments”.
+Subsec. (c)(3)(D)(ii)(IV). Pub. L. 100–203, §9313(a)(2)(D), substituted "benefit liabilities" for "benefit commitments".
 
-Subsec. (d)(1). Pub. L. 100–203, §9313(a)(2)(E), substituted in text, “no amount of unfunded benefit liabilities” for “no amount of unfunded benefit commitments” and in heading, “benefit liabilities” for “benefit commitments”.
+Subsec. (d)(1). Pub. L. 100–203, §9313(a)(2)(E), substituted in text, "no amount of unfunded benefit liabilities" for "no amount of unfunded benefit commitments" and in heading, "benefit liabilities" for "benefit commitments".
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–272, §11007(a), added subsec. (a) relating to general rules governing single-employer plan terminations and struck out former subsec. (a) relating to filing of notice that the plan is to be terminated.
 
@@ -474,7 +474,7 @@ Subsec. (f). Pub. L. 99–272, §11009(b)(2), redesignated subsec. (f) as (e).
 
 Pub. L. 99–272, §11008(b), amended subsec. (f) generally, substituting provisions relating to limitation on the conversion of a defined benefit plan to a defined contribution plan, for provisions relating to amendment of a plan with respect to which basic benefits are guaranteed.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–364, §403(d)(2), inserted “single-employer” after “termination of a”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §403(d)(2), inserted "single-employer" after "termination of a".
 
 Subsec. (g). Pub. L. 96–364, §403(d)(3), struck out subsec. (g) which related to petition to the appropriate court for appointment of a trustee.
 
@@ -484,25 +484,25 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title IV, §409(b), Aug. 17, 2006, 120 Stat. 934, provided that: “The amendments made by this section \[amending this section\] shall apply to any transaction or series of transactions occurring on and after the date of the enactment of this Act \[Aug. 17, 2006\].”
+Pub. L. 109–280, title IV, §409(b), Aug. 17, 2006, 120 Stat. 934, provided that: "The amendments made by this section \[amending this section\] shall apply to any transaction or series of transactions occurring on and after the date of the enactment of this Act \[Aug. 17, 2006\]."
 
 Pub. L. 109–280, title V, §506(c), Aug. 17, 2006, 120 Stat. 948, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section and section 1342 of this title\] shall apply to any plan termination under title IV of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1301 et seq.) with respect to which the notice of intent to terminate (or in the case of a termination by the Pension Benefit Guaranty Corporation, a notice of determination under section 4042 of such Act (29 U.S.C. 1342)) occurs after the date of enactment of this Act \[Aug. 17, 2006\].
 
-“(2)
+"(2)
 
-Transition rule.—If notice under section 4041(c)(2)(D) or 4042(c)(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1341(c)(2)(D), 1342(c)(3)\] (as added by this section) would otherwise be required to be provided before the 90th day after the date of the enactment of this Act \[Aug. 17, 2006\], such notice shall not be required to be provided until such 90th day.”
+Transition rule.—If notice under section 4041(c)(2)(D) or 4042(c)(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1341(c)(2)(D), 1342(c)(3)\] (as added by this section) would otherwise be required to be provided before the 90th day after the date of the enactment of this Act \[Aug. 17, 2006\], such notice shall not be required to be provided until such 90th day."
 
 #### Effective Date of 1994 Amendment
 
 Amendment by section 776(b)(3) of Pub. L. 103–465 effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
 
-Pub. L. 103–465, title VII, §778(a)(2), Dec. 8, 1994, 108 Stat. 5049, provided that: “The amendments made bythis subsection \[amending this section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice of noncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified.”
+Pub. L. 103–465, title VII, §778(a)(2), Dec. 8, 1994, 108 Stat. 5049, provided that: "The amendments made by this subsection \[amending this section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice of noncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified."
 
-Pub. L. 103–465, title VII, §778(b)(2), Dec. 8, 1994, 108 Stat. 5050, provided that: “The amendment made by this subsection \[amending this section\] shall be effective as if included in the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272, title XI\].”
+Pub. L. 103–465, title VII, §778(b)(2), Dec. 8, 1994, 108 Stat. 5050, provided that: "The amendment made by this subsection \[amending this section\] shall be effective as if included in the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272, title XI\]."
 
 #### Effective Date of 1989 Amendment
 
@@ -520,95 +520,95 @@ Amendment by section 9313(a)(1)–(2)(E), (b)(1)–(5) of Pub. L. 100–203 appl
 
 Pub. L. 99–272, title XI, §11019, Apr. 7, 1986, 100 Stat. 280, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as otherwise provided in this title, the amendments made by this title \[see Short Title of 1986 Amendment note set out under section 1001 of this title\] shall be effective as of January 1, 1986, except that such amendments shall not apply with respect to terminations for which—
 
-&emsp;“(1) notices of intent to terminate were filed with the Pension Benefit Guaranty Corporation under section 4041 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1341\] before such date, or
+&emsp;"(1) notices of intent to terminate were filed with the Pension Benefit Guaranty Corporation under section 4041 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1341\] before such date, or
 
-&emsp;“(2) proceedings were commenced under section 4042 of such Act \[29 U.S.C. 1342\] before such date.
+&emsp;"(2) proceedings were commenced under section 4042 of such Act \[29 U.S.C. 1342\] before such date.
 
-“(b)
+"(b)
 
 Transitional Rules.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—In the case of a single-employer plan termination for which a notice of intent to terminate was filed with the Pension Benefit Guaranty Corporation under section 4041 of the Employee Retirement Income Security Act of 1974 (as in effect before the amendments made by this title) \[29 U.S.C. 1341\] on or after January 1, 1986, but before the date of the enactment of this Act \[Apr. 7, 1986\], the amendments made by this title \[see Short Title of 1986 Amendment note set out under section 1001 of this title\] shall apply with respect to such termination, as modified by paragraphs (2) and (3).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Deemed compliance with notice requirements.—The requirements of subsections (a)(2), (b)(1)(A), and (c)(1)(A) of section 4041 of the Employee Retirement Income Security Act of 1974 (as amended by this title) \[29 U.S.C. 1341\] shall be considered to have been met with respect to a termination described in paragraph (1) if—
 
-&emsp;&emsp;“(A) the plan administrator provided notice to the participants in the plan regarding the termination in compliance with applicable regulations of the Pension Benefit Guaranty Corporation as in effect on the date of the notice, and
+&emsp;&emsp;"(A) the plan administrator provided notice to the participants in the plan regarding the termination in compliance with applicable regulations of the Pension Benefit Guaranty Corporation as in effect on the date of the notice, and
 
-&emsp;&emsp;“(B) the notice of intent to terminate provided to the Pension Benefit Guaranty Corporation in connection with the termination was filed with the Corporation not less than 10 days before the proposed date of termination specified in the notice.
+&emsp;&emsp;"(B) the notice of intent to terminate provided to the Pension Benefit Guaranty Corporation in connection with the termination was filed with the Corporation not less than 10 days before the proposed date of termination specified in the notice.
 
 > &emsp;For purposes of section 4041 of such Act (as amended by this title), the proposed date of termination specified in the notice of intent to terminate referred to in subparagraph (B) shall be considered the proposed termination date.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Special termination procedures.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—This paragraph shall apply with respect to any termination described in paragraph (1) if, within 90 days after the date of enactment of this Act \[Apr. 7, 1986\], the plan administrator notifies the Corporation in writing—
 
-&emsp;&emsp;&emsp;“(i) that the plan administrator wishes the termination to proceed as a standard termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 (as amended by this title) \[29 U.S.C. 1341(b)\] in accordance with subparagraph (B),
+&emsp;&emsp;&emsp;"(i) that the plan administrator wishes the termination to proceed as a standard termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 (as amended by this title) \[29 U.S.C. 1341(b)\] in accordance with subparagraph (B),
 
-&emsp;&emsp;&emsp;“(ii) that the plan administrator wishes the termination to proceed as a distress termination under section 4041(c) of such Act (as amended by this title) in accordance with subparagraph (C), or
+&emsp;&emsp;&emsp;"(ii) that the plan administrator wishes the termination to proceed as a distress termination under section 4041(c) of such Act (as amended by this title) in accordance with subparagraph (C), or
 
-&emsp;&emsp;&emsp;“(iii) that the plan administrator wishes to stop the termination proceedings in accordance with subparagraph (D).
+&emsp;&emsp;&emsp;"(iii) that the plan administrator wishes to stop the termination proceedings in accordance with subparagraph (D).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Terminations proceeding as standard termination.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 Terminations for which sufficiency notices have not been issued.—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
 In general.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, if, during the 90-day period commencing on the date of the notice required in subclause (II), all benefit commitments under the plan have been satisfied, the termination shall be treated as a standard termination under section 4041(b) of such Act (as amended by this title).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
 Special notice regarding sufficiency for terminations for which notices of sufficiency have not been issued as of date of enactment.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, the Corporation shall make the determinations described in section 4041(c)(3)(A)(i) and (ii) (as amended by this title) and notify the plan administrator of such determinations as provided in section 4041(c)(3)(A)(iii) (as amended by this title).
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
-Terminations for which notices of sufficiency have been issued.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has been issued by the Corporation before the date of the enactment of this Act, clause (i)(I) shall apply, except that the 90-day period referredto in clause (i)(I) shall begin on the date of the enactment of this Act.
+Terminations for which notices of sufficiency have been issued.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has been issued by the Corporation before the date of the enactment of this Act, clause (i)(I) shall apply, except that the 90-day period referred to in clause (i)(I) shall begin on the date of the enactment of this Act.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Terminations proceeding as distress termination.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(ii), if the requirements of section 4041(c)(2)(B) of such Act (as amended by this title) are met, the termination shall be treated as a distress termination under section 4041(c) of such Act (as amended by this title).
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Termination of proceedings by plan administrator.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—Except as provided in clause (ii), in the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(iii), the termination shall not take effect.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Terminations with respect to which final distribution of assets has commenced.—Clause (i) shall not apply with respect to a termination with respect to which the final distribution of assets has commenced before the date of the enactment of this Act unless, within 90 days after the date of the enactment of this Act, the plan has been restored in accordance with procedures issued by the Corporation pursuant to subsection (c).
 
-&emsp;&emsp;“(E)
+&emsp;&emsp;"(E)
 
 Authority of corporation to extend 90-day periods to permit standard termination.—The Corporation may, on a case-by-case basis in accordance with subsection (c), provide for extensions of the applicable 90-day period referred to in clause (i) or (ii) of subparagraph (B) if it is demonstrated to the satisfaction of the Corporation that—
 
-&emsp;&emsp;&emsp;“(i) the plan could not otherwise, pursuant to the preceding provisions of this paragraph, terminate in a termination treated as a standard termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 (as amended by this title), and
+&emsp;&emsp;&emsp;"(i) the plan could not otherwise, pursuant to the preceding provisions of this paragraph, terminate in a termination treated as a standard termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 (as amended by this title), and
 
-&emsp;&emsp;&emsp;“(ii) the extension would result in a greater likelihood that benefit commitments under the plan would be paid in full,
+&emsp;&emsp;&emsp;"(ii) the extension would result in a greater likelihood that benefit commitments under the plan would be paid in full,
 
 &nbsp;&nbsp;except that any such period may not be so extended beyond one year after the date of the enactment of this Act.
 
-“(c)
+"(c)
 
-Authority To Prescribe Temporary Procedures.—The Pension Benefit Guaranty Corporation may prescribe temporary procedures for purposes of carrying out the amendments made by this title \[see Short Title of 1986 Amendment note set out under section 1001 of this title\] during the 180-day period beginning on the date described in subsection (a).”
+Authority To Prescribe Temporary Procedures.—The Pension Benefit Guaranty Corporation may prescribe temporary procedures for purposes of carrying out the amendments made by this title \[see Short Title of 1986 Amendment note set out under section 1001 of this title\] during the 180-day period beginning on the date described in subsection (a)."
 
 #### Effective Date of 1980 Amendment
 
@@ -616,55 +616,55 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### 60-Day Extension by Pension Benefit Guaranty Corporation for Notice of Noncompliance
 
-Pub. L. 99–272, title XI, §11008(c), Apr. 7, 1986, 100 Stat. 247, provided that: “In the case of a standard termination of a plan under section 4041(b) of the Employee Retirement Income Security Act of 1974 (as amended by this section) \[29 U.S.C. 1341(b)\] with respect to which a notice of intent to terminate is filed before 120 days after the date of the enactment of this Act \[Apr. 7, 1986\], the Pension Benefit Guaranty Corporation may, without the consent of the plan administrator, extend the 60-day period under section 4041(b)(2)(C)(i) of such Act (as so amended) for a period not to exceed 60 days.”
+Pub. L. 99–272, title XI, §11008(c), Apr. 7, 1986, 100 Stat. 247, provided that: "In the case of a standard termination of a plan under section 4041(b) of the Employee Retirement Income Security Act of 1974 (as amended by this section) \[29 U.S.C. 1341(b)\] with respect to which a notice of intent to terminate is filed before 120 days after the date of the enactment of this Act \[Apr. 7, 1986\], the Pension Benefit Guaranty Corporation may, without the consent of the plan administrator, extend the 60-day period under section 4041(b)(2)(C)(i) of such Act (as so amended) for a period not to exceed 60 days."
 
 #### Special Temporary Rule for Termination of Single-Employer Plan
 
 Pub. L. 99–272, title XI, §11008(d), Apr. 7, 1986, 100 Stat. 247, provided that:
 
-“(1)
+"(1)
 
 Requirements to be met before final distribution of assets.—In the case of the termination of a single-employer plan described in paragraph (2) with respect to which the amount payable to the employer pursuant to section 4044(d) \[29 U.S.C. 1344(d)\] exceeds $1,000,000 (determined as of the proposed date of final distribution of assets), the final distribution of assets pursuant to such termination may not occur unless the Pension Benefit Guaranty Corporation—
 
-&emsp;“(A) determines that the assets of the plan are sufficient for benefit commitments (within the meaning of section 4041(d)(1) of the Employee Retirement Income Security Act of 1974 (as amended by section 11007) \[29 U.S.C. 1341(d)(1)\]) under the plan, and
+&emsp;"(A) determines that the assets of the plan are sufficient for benefit commitments (within the meaning of section 4041(d)(1) of the Employee Retirement Income Security Act of 1974 (as amended by section 11007) \[29 U.S.C. 1341(d)(1)\]) under the plan, and
 
-&emsp;“(B) issues to the plan administrator a written notice setting forth the determination described in subparagraph (A).
+&emsp;"(B) issues to the plan administrator a written notice setting forth the determination described in subparagraph (A).
 
-“(2)
+"(2)
 
 Plans to which subsection applies.—A single-employer plan is described in this paragraph if—
 
-&emsp;“(A) the plan administrator has filed a notice of intent to terminate with the Pension Benefit Guaranty Corporation, and—
+&emsp;"(A) the plan administrator has filed a notice of intent to terminate with the Pension Benefit Guaranty Corporation, and—
 
-&emsp;&emsp;“(i) the filing was made before January 1, 1986, and the Corporation has not issued a notice of sufficiency for such plan before the date of the enactment of this Act \[Apr. 7, 1986\], or
+&emsp;&emsp;"(i) the filing was made before January 1, 1986, and the Corporation has not issued a notice of sufficiency for such plan before the date of the enactment of this Act \[Apr. 7, 1986\], or
 
-&emsp;&emsp;“(ii) the filing is made on or after January 1, 1986, and before 60 days after the date of the enactment of this Act and the Corporation has not issued a notice of sufficiency for such plan before the date of the enactment of this Act, and
+&emsp;&emsp;"(ii) the filing is made on or after January 1, 1986, and before 60 days after the date of the enactment of this Act and the Corporation has not issued a notice of sufficiency for such plan before the date of the enactment of this Act, and
 
-&emsp;“(B) of the persons who are (as of the termination date) participants in the plan, the lesser of 10 percent or 200 have filed complaints with the Corporation regarding such termination—
+&emsp;"(B) of the persons who are (as of the termination date) participants in the plan, the lesser of 10 percent or 200 have filed complaints with the Corporation regarding such termination—
 
-&emsp;&emsp;“(i) in the case of plans described in subparagraph (A)(i), before 15 days after the date of the enactment of this Act, or
+&emsp;&emsp;"(i) in the case of plans described in subparagraph (A)(i), before 15 days after the date of the enactment of this Act, or
 
-&emsp;&emsp;“(ii) in any other case, before the later of 15 days after the date of the enactment of this Act or 45 days after the date of the filing of such notice.
+&emsp;&emsp;"(ii) in any other case, before the later of 15 days after the date of the enactment of this Act or 45 days after the date of the filing of such notice.
 
-“(3)
+"(3)
 
 Consideration of complaints.—The Corporation shall consider and respond to such complaints not later than 90 days after the date on which the Corporation makes the determination described in paragraph (1)(A). The Corporation may hold informal hearings to expedite consideration of such complaints. Any such hearing shall be exempt from the requirements of chapter 5 of title 5, United States Code.
 
-“(4)
+"(4)
 
 Delay on issuance of notice.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 General rule.—Except as provided in subparagraph (B), the Corporation shall not issue any notice described in paragraph (1)(B) until 90 days after the date on which the Corporation makes the determination described in paragraph (1)(A).
 
-&emsp;“(B)
+&emsp;"(B)
 
-Exception in cases of substantial business hardship.—Except in the case of an acquisition, takeover, or leveraged buyout, the preceding provisions of this subsection shall not apply if the contributing sponsor demonstrates to the satisfaction of the Corporation that the contributing sponsor is experiencing substantial business hardship. For purposes of this subparagraph, a contributing sponsor shall be considered as experiencing substantial business hardship if the contributing sponsor has been operating, and can demonstrate that the contributing sponsor will continue to operate, at an economic loss.”
+Exception in cases of substantial business hardship.—Except in the case of an acquisition, takeover, or leveraged buyout, the preceding provisions of this subsection shall not apply if the contributing sponsor demonstrates to the satisfaction of the Corporation that the contributing sponsor is experiencing substantial business hardship. For purposes of this subparagraph, a contributing sponsor shall be considered as experiencing substantial business hardship if the contributing sponsor has been operating, and can demonstrate that the contributing sponsor will continue to operate, at an economic loss."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “benefit liabilities”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "benefit liabilities".</i>
 
-<i><sup>3</sup></i><i> So in original. The word “a” probably should appear.</i>
+<i><sup>3</sup></i><i> So in original. The word "a" probably should appear.</i>
 

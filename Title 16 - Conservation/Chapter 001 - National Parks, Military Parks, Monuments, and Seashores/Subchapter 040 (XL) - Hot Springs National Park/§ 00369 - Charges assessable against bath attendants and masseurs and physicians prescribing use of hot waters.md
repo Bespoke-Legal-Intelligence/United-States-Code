@@ -14,5 +14,5 @@ As originally enacted, this section authorized reasonable charges against physic
 
 #### Change of Name
 
-“Hot Springs National Park” substituted in text for “Hot Springs Reservation” pursuant to act Mar. 4, 1921.
+"Hot Springs National Park" substituted in text for "Hot Springs Reservation" pursuant to act Mar. 4, 1921.
 

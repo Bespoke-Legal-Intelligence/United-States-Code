@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 102–588, title VI, §607, Nov. 4, 1992, 106 Stat. 5131; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.
 
-The words “Office of Foreign Disaster Assistance” are substituted for “Office of Foreign Disaster” to correct an error in the law.
+The words "Office of Foreign Disaster Assistance" are substituted for "Office of Foreign Disaster" to correct an error in the law.
 

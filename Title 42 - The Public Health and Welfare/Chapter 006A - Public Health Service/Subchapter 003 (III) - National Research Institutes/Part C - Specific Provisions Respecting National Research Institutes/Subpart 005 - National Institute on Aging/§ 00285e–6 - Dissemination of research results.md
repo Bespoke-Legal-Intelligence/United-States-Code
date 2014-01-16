@@ -12,5 +12,5 @@ Section was formerly classified to section 11242 of this title prior to renumber
 
 <b>1988</b>—Pub. L. 100–607, §142(a), renumbered section 11242 of this title as this section.
 
-Pub. L. 100–607, §142(d)(3), substituted “the Institute” for “the National Institute on Aging” and “section 285e–5 of this title and this section” for “this part”.
+Pub. L. 100–607, §142(d)(3), substituted "the Institute" for "the National Institute on Aging" and "section 285e–5 of this title and this section" for "this part".
 

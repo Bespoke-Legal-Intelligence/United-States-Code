@@ -8,9 +8,9 @@ The refusal of any person, whether in or out of office, charged with the safe-ke
 
 Based on title 18, U.S.C., 1940 ed., §180 (Mar. 4, 1909, ch. 321, §94, 35 Stat. 1106; June 10, 1921, ch. 18, §304, 42 Stat. 24).
 
-“General Accounting Office” was substituted for “proper accounting officer of the Treasury”.
+"General Accounting Office" was substituted for "proper accounting officer of the Treasury".
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 

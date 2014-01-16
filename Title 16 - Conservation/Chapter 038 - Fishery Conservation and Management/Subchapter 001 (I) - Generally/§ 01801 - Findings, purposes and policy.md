@@ -8,7 +8,7 @@ The Congress finds and declares the following:
 
 &emsp;(2) Certain stocks of fish have declined to the point where their survival is threatened, and other stocks of fish have been so substantially reduced in number that they could become similarly threatened as a consequence of (A) increased fishing pressure, (B) the inadequacy of fishery resource conservation and management practices and controls, or (C) direct and indirect habitat losses which have resulted in a diminished capacity to support existing fishing levels.
 
-&emsp;(3) Commercial and recreational fishing constitutes a major source of employment and contributes significantly to the economy of the Nation. Many coastal areas are dependent upon fishing and related activities, and their economies have been badly damaged by theoverfishing of fishery resources at an ever-increasing rate over the past decade. The activities of massive foreign fishing fleets in waters adjacent to such coastal areas have contributed to such damage, interfered with domestic fishing efforts, and caused destruction of the fishing gear of United States fishermen.
+&emsp;(3) Commercial and recreational fishing constitutes a major source of employment and contributes significantly to the economy of the Nation. Many coastal areas are dependent upon fishing and related activities, and their economies have been badly damaged by the overfishing of fishery resources at an ever-increasing rate over the past decade. The activities of massive foreign fishing fleets in waters adjacent to such coastal areas have contributed to such damage, interfered with domestic fishing efforts, and caused destruction of the fishing gear of United States fishermen.
 
 &emsp;(4) International fishery agreements have not been effective in preventing or terminating the overfishing of these valuable fishery resources. There is danger that irreversible effects from overfishing will take place before an effective international agreement on fishery management jurisdiction can be negotiated, signed, ratified, and implemented.
 
@@ -32,7 +32,7 @@ The Congress finds and declares the following:
 
 It is therefore declared to be the purposes of the Congress in this chapter—
 
-&emsp;(1) to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fishery resources of the United States, by exercising (A) sovereign rights for the purposes of exploring, exploiting, conserving, and managing all fish, within the exclusive economic zone established by Presidential Proclamation 5030, dated March 10, 1983, and (B) exclusive fishery management authority beyond the exclusive economic zone over such anadromous species and Continental Shelf fishery resources;
+&emsp;(1) to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fisheryresources of the United States, by exercising (A) sovereign rights for the purposes of exploring, exploiting, conserving, and managing all fish, within the exclusive economic zone established by Presidential Proclamation 5030, dated March 10, 1983, and (B) exclusive fishery management authority beyond the exclusive economic zone over such anadromous species and Continental Shelf fishery resources;
 
 &emsp;(2) to support and encourage the implementation and enforcement of international fishery agreements for the conservation and management of highly migratory species, and to encourage the negotiation and implementation of additional such agreements as necessary;
 
@@ -54,7 +54,7 @@ It is further declared to be the policy of the Congress in this chapter—
 
 &emsp;(2) to authorize no impediment to, or interference with, recognized legitimate uses of the high seas, except as necessary for the conservation and management of fishery resources, as provided for in this chapter;
 
-&emsp;(3) to assure that the national fishery conservation and management program utilizes, and is based upon, the best scientific information available; involves, and is responsive to the needs of, interested and affected States and citizens; considers efficiency; draws uponFederal, State, and academic capabilities in carrying out research, administration, management, and enforcement; considers the effects of fishing on immature fish and encourages development of practical measures that minimize bycatch and avoid unnecessary waste of fish; and is workable and effective;
+&emsp;(3) to assure that the national fishery conservation and management program utilizes, and is based upon, the best scientific information available; involves, and is responsive to the needs of, interested and affected States and citizens; considers efficiency; draws upon Federal, State, and academic capabilities in carrying out research, administration, management, and enforcement; considers the effects of fishing on immature fish and encourages development of practical measures that minimize bycatch and avoid unnecessary waste of fish; and is workable and effective;
 
 &emsp;(4) to permit foreign fishing consistent with the provisions of this chapter;
 
@@ -68,11 +68,11 @@ It is further declared to be the policy of the Congress in this chapter—
 
 #### Amendment of Subsection (b)(1)
 
-<i>Pub. L. 102–251, title III, §§301(a), 308, Mar. 9, 1992, 106 Stat. 62, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1) is amended by inserting “, and fishery resources in the special areas” before the semicolon at the end.</i>
+<i>Pub. L. 102–251, title III, §§301(a), 308, Mar. 9, 1992, 106 Stat. 62, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1) is amended by inserting ", and fishery resources in the special areas" before the semicolon at the end.</i>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(11), (b), and (c), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsecs. (a)(11), (b), and (c), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 Presidential Proclamation 5030, referred to in subsec. (b)(1), is set out under section 1453 of this title.
 
@@ -82,57 +82,57 @@ Presidential Proclamation 5030, referred to in subsec. (b)(1), is set out under 
 
 Subsec. (a)(12). Pub. L. 109–479, §402, added par. (12).
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–297, §101(1), added par. (2) and struck out former par. (2) which read as follows: “As a consequence of increased fishing pressure and because of the inadequacy of fishery conservation and management practices and controls (A) certain stocks of such fish have been overfished to the point where their survival is threatened, and (B) other such stocks have been so substantially reduced in number that they could become similarly threatened.”
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–297, §101(1), added par. (2) and struck out former par. (2) which read as follows: "As a consequence of increased fishing pressure and because of the inadequacy of fishery conservation and management practices and controls (A) certain stocks of such fish have been overfished to the point wheretheir survival is threatened, and (B) other such stocks have been so substantially reduced in number that they could become similarly threatened."
 
-Subsec. (a)(6). Pub. L. 104–297, §101(2), inserted “to facilitate long-term protection of essential fish habitats,” after “to insure conservation,”.
+Subsec. (a)(6). Pub. L. 104–297, §101(2), inserted "to facilitate long-term protection of essential fish habitats," after "to insure conservation,".
 
 Subsec. (a)(9), (10). Pub. L. 104–297, §101(3), added pars. (9) and (10).
 
-Subsec. (b)(3). Pub. L. 104–297, §101(4), substituted “principles, including the promotion of catch and release programs in recreational fishing” for “principles”.
+Subsec. (b)(3). Pub. L. 104–297, §101(4), substituted "principles, including the promotion of catch and release programs in recreational fishing" for "principles".
 
-Subsec. (b)(5). Pub. L. 104–297, §101(5), struck out “and” after semicolon at end.
+Subsec. (b)(5). Pub. L. 104–297, §101(5), struck out "and" after semicolon at end.
 
-Subsec. (b)(6). Pub. L. 104–297, §101(6), substituted “development in a non-wasteful manner; and” for “development.”
+Subsec. (b)(6). Pub. L. 104–297, §101(6), substituted "development in a non-wasteful manner; and" for "development."
 
 Subsec. (b)(7). Pub. L. 104–297, §101(7), added par. (7).
 
-Subsec. (c)(3). Pub. L. 104–297, §101(8), substituted “considers efficiency” for “promotes efficiency” and inserted “minimize bycatch and” after “practical measures that”.
+Subsec. (c)(3). Pub. L. 104–297, §101(8), substituted "considers efficiency" for "promotes efficiency" and inserted "minimize bycatch and" after "practical measures that".
 
 Subsec. (c)(7). Pub. L. 104–297, §101(9)–(11), added par. (7).
 
 <b>1990</b>—Subsec. (a)(8). Pub. L. 101–627, §101(a), added par. (8).
 
-Subsec. (b)(1)(A). Pub. L. 101–627, §101(b)(1), struck out “except highly migratory species” after “fish”.
+Subsec. (b)(1)(A). Pub. L. 101–627, §101(b)(1), struck out "except highly migratory species" after "fish".
 
-Subsec. (b)(5). Pub. L. 101–627, §101(b)(2), substituted “exercise sound judgment in the stewardship of fishery resources through the preparation, monitoring, and revision of” for “prepare, monitor, and revise”.
+Subsec. (b)(5). Pub. L. 101–627, §101(b)(2), substituted "exercise sound judgment in the stewardship of fishery resources through the preparation, monitoring, and revision of" for "prepare, monitor, and revise".
 
-Subsec. (c)(3). Pub. L. 101–627, §101(c)(1), inserted “considers the effects of fishing on immature fish and encourages development of practical measures that avoid unnecessary waste of fish;” after “and enforcement;”.
+Subsec. (c)(3). Pub. L. 101–627, §101(c)(1), inserted "considers the effects of fishing on immature fish and encourages development of practical measures that avoid unnecessary waste of fish;" after "and enforcement;".
 
-Subsec. (c)(5). Pub. L. 101–627, §101(c)(3), substituted “, and to secure agreements to regulate fishing by vessels or persons beyond the exclusive economic zones of any nation; and” for period at end.
+Subsec. (c)(5). Pub. L. 101–627, §101(c)(3), substituted ", and to secure agreements to regulate fishing by vessels or persons beyond the exclusive economic zones of any nation; and" for period at end.
 
 Subsec. (c)(6). Pub. L. 101–627, §101(c)(4), added par. (6).
 
-<b>1986</b>—Subsec. (b)(1). Pub. L. 99–659, §101(c)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fishery resources of the United States, by establishing (A) a fishery conservation zone within which the United States will assume exclusive fishery management authority over all fish, except highly migratory species, and (B) exclusive fishery management authority beyond such zone over such anadromous species and Continental Shelf fishery resources;”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–659, §101(c)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fishery resources of the United States, by establishing (A) a fishery conservation zone within which the United States will assume exclusive fishery management authority over all fish, except highly migratory species, and (B) exclusive fishery management authority beyond such zone over such anadromous species and Continental Shelf fishery resources;".
 
-Subsec. (c)(5). Pub. L. 99–659, §101(c)(1)(B), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “to support and encourage continued active United States efforts to obtain an internationally acceptable treaty, at the Third United Nations Conference on the Law of the Sea, which provides for effective conservation and management of fishery resources.”
+Subsec. (c)(5). Pub. L. 99–659, §101(c)(1)(B), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "to support and encourage continued active United States efforts to obtain an internationally acceptable treaty, at the Third United Nations Conference on the Law of the Sea, which provides for effective conservation and management of fishery resources."
 
-<b>1980</b>—Subsec. (b)(6). Pub. L. 96–561 inserted “, and to that end, to ensure that optimum yield determinations promote such development” after “fish off Alaska”.
+<b>1980</b>—Subsec. (b)(6). Pub. L. 96–561 inserted ", and to that end, to ensure that optimum yield determinations promote such development" after "fish off Alaska".
 
-<b>1978</b>—Subsec. (a)(7). Pub. L. 95–354, §2(a), substituted “the United States fishing industry” for “United States fishermen”.
+<b>1978</b>—Subsec. (a)(7). Pub. L. 95–354, §2(a), substituted "the United States fishing industry" for "United States fishermen".
 
 Subsec. (b)(6). Pub. L. 95–354, §2(b), inserted requirement for development by the United States fishing industry.
 
 #### References to Magnuson-Stevens Fishery Conservation and Management Act Considered To Include Section 401(a) of Pub. L. 108–219
 
-References to the Magnuson-Stevens Fishery Conservation and Management Act or any provision of that Act considered to be references to that Act as it wouldbe in effect if section 401(a) of Pub. L. 108–219 were a provision of that Act, see section 401(c)(1) of Pub. L. 108–219, set out in an Implementation of Pacific Albacore Tuna Treaty note under section 1821 of this title.
+References to the Magnuson-Stevens Fishery Conservation and Management Act or any provision of that Act considered to be references to that Act as it would be in effect if section 401(a) of Pub. L. 108–219 were a provision of that Act, see section 401(c)(1) of Pub. L. 108–219, set out in an Implementation of Pacific Albacore Tuna Treaty note under section 1821 of this title.
 
 #### References to Magnuson Fishery Conservation and Management Act Redesignated as References to Magnuson-Stevens Fishery Conservation and Management Act
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Effective 15 days after the enactment of the Sustainable Fisheries Act \[Pub. L. 104–297, enacted Oct. 11, 1996\], all references to the Magnuson Fishery Conservation and Management Act \[see Short Title note below\] shall be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.”
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Effective 15 days after the enactment of the Sustainable Fisheries Act \[Pub. L. 104–297, enacted Oct. 11, 1996\], all references to the Magnuson Fishery Conservation and Management Act \[see Short Title note below\] shall be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act."
 
 #### References to Fishery Conservation and Management Act of 1976 Redesignated as References to Magnuson Fishery Conservation and Management Act
 
-Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that: “Effective 15 days after the date of enactment of this title \[Dec. 22, 1980\], all references to the Fishery Conservation and Management Act of 1976 \[see Short title note below\] shall be redesignated as references to the Magnuson Fishery Conservation and Management Act.”
+Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that: "Effective 15 days after the date of enactment of this title \[Dec. 22, 1980\], all references to the Fishery Conservation and Management Act of 1976 \[see Short title note below\] shall be redesignated as references to the Magnuson Fishery Conservation and Management Act."
 
 #### Effective Date of 1992 Amendment
 
@@ -140,47 +140,47 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–183, §1, Oct. 5, 2012, 126 Stat. 1422, provided that: “This Act \[enacting section 1827a of this title and provisions set out as a note under section 1827a of this title\] may be cited as the ‘Billfish Conservation Act of 2012’.”
+Pub. L. 112–183, §1, Oct. 5, 2012, 126 Stat. 1422, provided that: "This Act \[enacting section 1827a of this title and provisions set out as a note under section 1827a of this title\] may be cited as the 'Billfish Conservation Act of 2012'."
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 111–348, title I, §101, Jan. 4, 2011, 124 Stat. 3668, provided that: “This title \[amending sections 1826i to 1826k, 1857, and 4107 of this title and enacting provisions set out as notes under sections 1826k and 1857 of this title\] may be cited as the ‘Shark Conservation Act of 2010’.”
+Pub. L. 111–348, title I, §101, Jan. 4, 2011, 124 Stat. 3668, provided that: "This title \[amending sections 1826i to 1826k, 1857, and 4107 of this title and enacting provisions set out as notes under sections 1826k and 1857 of this title\] may be cited as the 'Shark Conservation Act of 2010'."
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 109–479, §1(a), Jan. 12, 2007, 120 Stat. 3575, provided that: “This Act \[enacting chapters 88 and 89 of this title, chapter 45 of Title 33, Navigation and Navigable Waters, subchapters VI of chapter 31 and of chapter 38 of this title, sections 1826h to 1826k, 1829, 1853a, 1864 to 1869, and 1884 of this title, amending this section, sections 757d, 773f, 773g, 971a, 971h, 971i, 1377, 1802, 1803, 1812, 1821, 1824, 1826a, 1826b, 1851 to 1853, 1854, 1855, 1857, 1861, 1861a, 1862, 1881, 1881a, 1881c, 1882, 1883, 3645, 4107, 5156, 5610, and 5727 of this title, and section 53706 of Title 46, Shipping, enacting provisions set out as notes under sections 460ss, 1361, 1853 to 1855, 1861a, 1864, 6901, and 7001 of this title and section 3201 of Title 33, and amending provisions set out as notes under sections 1822, 1851, 1855, and 1856 of this title\] may be cited as the ‘Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006’.”
+Pub. L. 109–479, §1(a), Jan. 12, 2007, 120 Stat. 3575, provided that: "This Act \[enacting chapters 88 and 89 of this title, chapter 45 of Title 33, Navigation and Navigable Waters, subchapters VI of chapter 31 and of chapter 38 of this title, sections 1826h to 1826k, 1829, 1853a, 1864 to 1869, and 1884 of this title, amending this section, sections 757d, 773f, 773g, 971a, 971h, 971i, 1377, 1802, 1803, 1812, 1821, 1824, 1826a, 1826b, 1851 to 1853, 1854, 1855, 1857, 1861, 1861a, 1862, 1881, 1881a, 1881c, 1882, 1883, 3645, 4107, 5156, 5610, and 5727 of this title, and section 53706 of Title 46, Shipping, enacting provisions set out as notes under sections 460ss, 1361, 1853 to 1855, 1861a, 1864, 6901, and 7001 of this title and section 3201 of Title 33, and amending provisions set out as notes under sections 1822, 1851, 1855, and 1856 of this title\] may be cited as the 'Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006'."
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–297, §1(a), Oct. 11, 1996, 110 Stat. 3559, provided that: “This Act \[enacting sections 1803, 1861a, 1881 to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as a note under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title\] may be cited as the ‘Sustainable Fisheries Act’.”
+Pub. L. 104–297, §1(a), Oct. 11, 1996, 110 Stat. 3559, provided that: "This Act \[enacting sections 1803, 1861a, 1881to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as a note under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title\] may be cited as the 'Sustainable Fisheries Act'."
 
 #### Short Title of 1995 Amendment
 
-Pub. L. 104–43, title VI, §601, Nov. 3, 1995, 109 Stat. 391, provided that: “This title \[enacting sections 1826d to 1826g of this title and provisions set out as a note under section 1826d of this title\] may be cited as the ‘High Seas Driftnet Fishing Moratorium Protection Act’.”
+Pub. L. 104–43, title VI, §601, Nov. 3, 1995, 109 Stat. 391, provided that: "This title \[enacting sections 1826d to 1826g of this title and provisions set out as a note under section 1826d of this title\] may be cited as the 'High Seas Driftnet Fishing Moratorium Protection Act'."
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–582, §1, Nov. 2, 1992, 106 Stat. 4900, provided that: “This Act \[enacting sections 1826a to 1826c of this title and section 1707a of Title 46, Appendix, Shipping, amending sections 1362, 1371, 1852, and 1862 of this title, section 1978 of Title 22, Foreign Relations and Intercourse, and section 2110 of Title 46, repealing section 1111c of Title 46, Appendix, and enacting provisions set out as notes under sections 1823, 1826a, and 1861 of this title and section 2110 of Title 46\] may be cited as the ‘High Seas Driftnet Fisheries Enforcement Act’.”
+Pub. L. 102–582, §1, Nov. 2, 1992, 106 Stat. 4900, provided that: "This Act \[enacting sections 1826a to 1826c of this title and section 1707a of Title 46, Appendix, Shipping, amending sections 1362, 1371, 1852, and 1862 of this title, section 1978 of Title 22, Foreign Relations and Intercourse, and section 2110 of Title 46, repealing section 1111c of Title 46, Appendix, and enacting provisions set out as notes under sections 1823, 1826a, and 1861 of this title and section 2110 of Title 46\] may be cited as the 'High Seas Driftnet Fisheries Enforcement Act'."
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–627, §1(a), Nov. 28, 1990, 104 Stat. 4436, provided that: “The Act \[enacting sections 971b–1, 1385, and 1862 of this title, amending this section, sections 757d, 758e–5, 971a, 971b, 971d, 971h, 1371, 1802, 1811, 1812, 1821, 1822, 1824 to 1826, 1852 to 1861, 1882, 4005, 4006, 4008, 4103, and 4107 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1977 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under sections 971a, 1373, 1802, 1812, 1822, 1825, 1854, 4004, and 4005 of this title\] may be cited as the ‘Fishery Conservation Amendments of 1990’.”
+Pub. L. 101–627, §1(a), Nov. 28, 1990, 104 Stat. 4436, provided that: "The Act \[enacting sections 971b–1, 1385, and 1862 of this title, amending this section, sections 757d, 758e–5, 971a, 971b, 971d, 971h, 1371, 1802, 1811, 1812, 1821, 1822, 1824 to 1826, 1852 to 1861, 1882, 4005, 4006, 4008, 4103, and 4107 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1977 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under sections 971a, 1373, 1802, 1812, 1822, 1825, 1854, 4004, and 4005 of this title\] may be cited as the 'Fishery Conservation Amendments of 1990'."
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–220, §1, Dec. 29, 1987, 101 Stat. 1458, provided that: “This Act \[enacting section 1912 of Title 33, Navigation and Navigable Waters, amending sections 1121 to 1131, 1901 to 1903, 1905, and 1907 to 1909 of Title 33, and enacting provisions set out as notes under this section, sections 1822 and 1823 of this title, sections 883a, 1121, 1125, 1901, 1902, and 2267 of Title 33, and section 6981 of Title 42, The Public Health and Welfare\] may be cited as the ‘United States-Japan Fishery Agreement Approval Act of 1987’.”
+Pub. L. 100–220, §1, Dec. 29, 1987, 101 Stat. 1458, provided that: "This Act \[enacting section 1912 of Title 33, Navigation and Navigable Waters, amending sections 1121 to 1131, 1901 to 1903, 1905, and 1907 to 1909 of Title 33, and enacting provisions set out as notes under this section, sections 1822 and 1823 of this title, sections 883a, 1121, 1125, 1901, 1902, and 2267 of Title 33, and section 6981 of Title 42, The Public Health and Welfare\] may be cited as the 'United States-Japan Fishery Agreement Approval Act of 1987'."
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–561, title II, §201, Dec. 22, 1980, 94 Stat. 3287, provided that: “This title \[enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3 of Title 15, sections 1972 and 1980 of Title 22, Foreign Relations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22\] may be cited as the ‘American Fisheries Promotion Act’.”
+Pub. L. 96–561, title II, §201, Dec. 22, 1980, 94 Stat. 3287, provided that: "This title \[enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3 of Title 15, sections 1972 and 1980 of Title 22, Foreign Relations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22\] may be cited as the 'American Fisheries Promotion Act'."
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–6, §1, Feb. 21, 1977, 91 Stat. 14, provided: “That this joint resolution \[enacting section 1826 of this title, repealing sections 981 to 991 of this title, and enacting provisions set out as notes under sections 981and 1823 of this title\] may be cited as the ‘Fishery Conservation Zone Transition Act’.”
+Pub. L. 95–6, §1, Feb. 21, 1977, 91 Stat. 14, provided: "That this joint resolution \[enacting section 1826 of this title, repealing sections 981 to 991 of this title, and enacting provisions set out as notes under sections 981 and 1823 of this title\] may be cited as the 'Fishery Conservation Zone Transition Act'."
 
 #### Short Title
 
-Pub. L. 94–265, §1, Apr. 13, 1976, 90 Stat. 331, as amended by Pub. L. 96–561, title II, §238(a), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided: “That this Act \[enacting this chapter, amending section 971 of this title and sections 1972 and 1973 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and sections 971, 1362, 1857 of this title, and sections 1972 and 1973 of Title 22, and repealing chapters 21 and 21A of this title\] may be cited as the ‘Magnuson-Stevens Fishery Conservation and Management Act’.”
+Pub. L. 94–265, §1, Apr. 13, 1976, 90 Stat. 331, as amended by Pub. L. 96–561, title II, §238(a), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided: "That this Act \[enacting this chapter, amending section 971 of this title and sections 1972 and 1973 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and sections 971, 1362, 1857 of this title, and sections 1972 and 1973 of Title 22, and repealing chapters 21 and 21A of this title\] may be cited as the 'Magnuson-Stevens Fishery Conservation and Management Act'."
 
 \[Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by section 101(a) \[§211(a)\] to section 1 of Pub. L. 94–265, set out above, is effective 15 days after Oct. 11, 1996.\]
 
@@ -212,7 +212,7 @@ Section 1. <i>Federal Agency Duties</i>. Federal agencies shall, to the extent p
 
 (j) assisting private landowners to conserve and enhance aquatic resources on their lands.
 
-Sec. 2. <i>National Recreational Fisheries Coordination Council</i>. A National Recreational Fisheries Coordination Council (“Coordination Council”) is hereby established. The Coordination Council shall consist of seven members, one member designated by each of the following Secretaries—Interior, Commerce, Agriculture, Energy, Transportation, and Defense—and one by the Administrator of the Environmental Protection Agency. The Coordination Council shall: (a) ensure that the social and economic values of healthy aquatic systems that support recreational fisheries are considered by Federal agencies in the course of their actions;
+Sec. 2. <i>National Recreational Fisheries Coordination Council</i>. A National Recreational Fisheries Coordination Council ("Coordination Council") is hereby established. The Coordination Council shall consist of seven members, one member designated by each of the following Secretaries—Interior, Commerce, Agriculture, Energy, Transportation, and Defense—and one by the Administrator of the Environmental Protection Agency. The Coordination Council shall: (a) ensure that the social and economic values of healthy aquatic systems that support recreational fisheries are considered by Federal agencies in the course of their actions;
 
 (b) reduce duplicative and cost-inefficient programs among Federal agencies involved in conserving or managing recreational fisheries;
 
@@ -224,13 +224,13 @@ Sec. 2. <i>National Recreational Fisheries Coordination Council</i>. A National 
 
 > The representatives designated by the Secretaries of Commerce and the Interior shall cochair the Coordination Council.
 
-Sec. 3. <i>Recreational Fishery Resources Conservation Plan</i>. (a) Within 12 months of the date of this order, the Coordination Council, in cooperation with Federal agencies, States, and Tribes, and after consulting with the Federally chartered Sport Fishing and Boating Partnership Council, shall develop a comprehensive Recreational Fishery Resources Conservation Plan (“Conservation Plan”).
+Sec. 3. <i>Recreational Fishery Resources Conservation Plan</i>. (a) Within 12 months of the date of this order, the Coordination Council, in cooperation with Federal agencies, States, and Tribes, and after consulting with the Federally chartered Sport Fishing and Boating Partnership Council, shall develop a comprehensive Recreational Fishery Resources Conservation Plan ("Conservation Plan").
 
 (b) The Conservation Plan will set forth a 5-year agenda for Federal agencies identified by the Coordination Council. In so doing, the Conservation Plan will establish, to the extent permitted by law and where practicable; (1) measurable objectives to conserve and restore aquatic systems that support viable and healthy recreational fishery resources, (2) actions to be taken by the identified Federal agencies, (3) a method of ensuring the accountability of such Federal agencies, and (4) a comprehensive mechanism to evaluate achievements. The Conservation Plan will, to the extent practicable, be integrated with existing plans and programs, reduce duplication, and will include recommended actions for cooperation with States, Tribes, conservation groups, and the recreational fisheries community.
 
-Sec. 4. <i>Joint Policy for Administering the Endangered Species Act of 1973</i>. All Federal agencies will aggressively work to identify and minimize conflicts between recreational fisheries and their respective responsibilities under the Endangered Species Act of 1973 (“ESA”) (16 U.S.C. 1531 <i>et seq</i>.). Within 6 months of the date of this order, the Fish and Wildlife Service and the National Marine Fisheries Service will promote compatibility and reduce conflicts between the administration of the ESA and recreational fisheries by developing a joint agency policy that will; (1) ensure consistency in the administration of the ESA between and within the two agencies, (2) promote collaboration with other Federal, State, and Tribal fisheries managers, and (3) improve and increase efforts to inform nonfederal entities of the requirements of the ESA.
+Sec. 4. <i>Joint Policy for Administering the Endangered Species Act of 1973</i>. All Federal agencies will aggressively work to identify and minimize conflicts between recreational fisheries and their respective responsibilities under the Endangered Species Act of 1973 ("ESA") (16 U.S.C. 1531 <i>et seq</i>.). Within 6 months of the date of this order, the Fish and Wildlife Service and the National Marine Fisheries Service will promote compatibility and reduce conflicts between the administration of the ESA and recreational fisheries by developing a joint agency policy that will; (1) ensure consistency in the administration of the ESA between and within the two agencies, (2) promote collaboration with other Federal, State, and Tribal fisheries managers, and (3) improve and increase efforts to inform nonfederal entities of the requirements of the ESA.
 
-Sec. 5. <i>Sport Fishing and Boating Partnership Council</i>. To assist in the implementation of this order, the Secretary of the Interior shall expand the role of the SportFishing and Boating Partnership Council to: (a) monitor specific Federal activities affecting aquatic systems and the recreational fisheries they support;
+Sec. 5. <i>Sport Fishing and Boating Partnership Council</i>. To assist in the implementation of this order, the Secretary of the Interior shall expand the role of the Sport Fishing and Boating Partnership Council to: (a) monitor specific Federal activities affecting aquatic systems and the recreational fisheries they support;
 
 (b) review and evaluate the relation of Federal policies and activities to the status and conditions of recreational fishery resources; and
 

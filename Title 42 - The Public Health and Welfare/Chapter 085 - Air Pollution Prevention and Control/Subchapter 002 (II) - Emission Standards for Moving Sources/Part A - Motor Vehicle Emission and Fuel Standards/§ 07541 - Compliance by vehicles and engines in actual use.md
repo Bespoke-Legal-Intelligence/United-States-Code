@@ -2,11 +2,11 @@
 
 #### (a) Warranty; certification; payment of replacement costs of parts, devices, or components designed for emission control
 
-(1) Effective with respect to vehicles and engines manufactured in model years beginning more than 60 days after December 31, 1970, the manufacturer of each new motor vehicle and new motor vehicle engine shall warrant to the ultimate purchaser and each subsequent purchaser that such vehicle or engine is (A) designed, built, and equipped so as to conform at the time of sale with applicable regulationsunder section 7521 of this title, and (B) free from defects in materials and workmanship which cause such vehicle or engine to fail to conform with applicable regulations for its useful life (as determined under section 7521(d) of this title). In the case of vehicles and engines manufactured in the model year 1995 and thereafter such warranty shall require that the vehicle or engine is free from any such defects for the warranty period provided under subsection (i) of this section.
+(1) Effective with respect to vehicles and engines manufactured in model years beginning more than 60 days after December 31, 1970, the manufacturer of each new motor vehicle and new motor vehicle engine shall warrant to the ultimate purchaser and each subsequent purchaser that such vehicle or engine is (A) designed, built, and equipped so as to conform at the time of sale with applicable regulations under section 7521 of this title, and (B) free from defects in materials and workmanship which cause such vehicle or engine to fail to conform with applicable regulations for its useful life (as determined under section 7521(d) of this title). In the case of vehicles and engines manufactured in the model year 1995 and thereafter such warranty shall require that the vehicle or engine is free from any such defects for the warranty period provided under subsection (i) of this section.
 
 (2) In the case of a motor vehicle part or motor vehicle engine part, the manufacturer or rebuilder of such part may certify that use of such part will not result in a failure of the vehicle or engine to comply with emission standards promulgated under section 7521 of this title. Such certification shall be made only under such regulations as may be promulgated by the Administrator to carry out the purposes of subsection (b) of this section. The Administrator shall promulgate such regulations no later than two years following August 7, 1977.
 
-(3) The cost of any part, device, or component of any light-duty vehicle that is designed for emission control and which in the instructions issued pursuant to subsection (c)(3) of this section is scheduled for replacement during the useful life of the vehicle in order to maintain compliance with regulations under section 7521 of this title, the failure of which shall not interfere with the normal performance of the vehicle, and the expected retail price of which, including installation costs, is greater than 2 percent of the suggested retail price of such vehicle, shall be borne or reimbursed at the time of replacement by the vehicle manufacturer and such replacement shall be provided without cost to the ultimate purchaser, subsequent purchaser, or dealer. The term “designed for emission control” as used in the preceding sentence means a catalytic converter, thermal reactor, or other component installed on or in a vehicle for the sole or primary purpose of reducing vehicle emissions (not including those vehicle components which were in general use prior to model year 1968 and the primary function of which is not related to emission control).
+(3) The cost of any part, device, or component of any light-duty vehicle that is designed for emission control and which in the instructions issued pursuant to subsection (c)(3) of this section is scheduled for replacement during the useful life of the vehicle in order to maintain compliance with regulations under section 7521 of this title, the failure of which shall not interfere with the normal performance of the vehicle, and the expected retail price of which, including installation costs, is greater than 2 percent of the suggested retail price of such vehicle, shall be borne or reimbursed at the time of replacement by the vehicle manufacturer and such replacement shall be provided without cost to the ultimate purchaser, subsequent purchaser, or dealer. The term "designed for emission control" as used in the preceding sentence means a catalytic converter, thermal reactor, or other component installed on or in a vehicle for the sole or primary purpose of reducing vehicle emissions (not including those vehicle components which were in general use prior to model year 1968 and the primary function of which is not related to emission control).
 
 #### (b) Testing methods and procedures
 
@@ -14,7 +14,7 @@ If the Administrator determines that (i) there are available testing methods and
 
 &emsp;(1) he shall establish such methods and procedures by regulation, and
 
-&emsp;(2) at such time as he determines that inspection facilities or equipment are available for purposes of carrying out testing methods and procedures established under paragraph (1), he shall prescribe regulations which shall require manufacturers to warrant the emission control device or system of each new motor vehicle or new motor vehicle engine to which a regulation under section 7521 of this title applies and which is manufactured in a model year beginning after the Administrator first prescribes warranty regulations under this paragraph (2). The warranty under such regulations shall run to the ultimate purchaser and each subsequent purchaser and shall provide that if—
+&emsp;(2) at such time as he determines that inspection facilities or equipment are available for purposes of carrying out testing methods and procedures established under paragraph\(1), he shall prescribe regulations which shall require manufacturers to warrant the emission control device or system of each new motor vehicle or new motor vehicle engine to which a regulation under section 7521 of this title applies and which is manufactured in a model year beginning after the Administrator first prescribes warranty regulations under this paragraph (2). The warranty under such regulations shall run to the ultimate purchaser and each subsequent purchaser and shall provide that if—
 
 &emsp;&emsp;(A) the vehicle or engine is maintained and operated in accordance with instructions under subsection (c)(3) of this section,
 
@@ -136,7 +136,7 @@ Useful life.—In the case of the in-use standards applicable under this paragra
 
 &emsp;(5)
 
-Final in-use standards.—(A) After the model year 1995, for purposes of applying this subsection, in the case of the percentage specified in the implementation schedule below of each manufacturer's sales volume of light-duty trucks of up to 6,000 lbs. gross vehicle weight rating (GVWR) and light duty <sup>2</sup> vehicles, the standards for NMHC, CO, and NO<sub>x</sub> shall be as provided in Table G in section 7521(g) of this title, except that in applying the standards set forth in Table G for purposes of determining compliance with this subsection, the applicable useful life shall be (i) 5 years or 50,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 50,000 miles; and (ii) 10 years or 100,000 miles (or the equivalent), whichever first occurs in the caseof standards applicable for purposes of certification at 100,000 miles, except that no testing shall be done beyond 7 years or 75,000 miles, or the equivalent whichever first occurs.
+Final in-use standards.—(A) After the model year 1995, for purposes of applying this subsection, in the case of the percentage specified in the implementation schedule below of each manufacturer's sales volume of light-duty trucks of up to 6,000 lbs. gross vehicle weight rating (GVWR) and light duty <sup>2</sup> vehicles, the standards for NMHC, CO, and NO<sub>x</sub> shall be as provided in Table G in section 7521(g) of this title, except that in applying the standards set forth in Table G for purposes of determining compliance with this subsection, the applicable useful life shall be (i) 5 years or 50,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 50,000 miles; and (ii) 10 years or 100,000 miles (or the equivalent), whichever first occurs in the case of standards applicable for purposes of certification at 100,000 miles, except that no testing shall be done beyond 7 years or 75,000 miles, or the equivalent whichever first occurs.
 
 LDTs up to 6,000
 
@@ -214,19 +214,19 @@ For the purposes of this section, the owner of any motor vehicle or motor vehicl
 
 #### (2) Specified major emission control components
 
-&emsp;In the case of a specified major emission control component, the warranty period for new light-duty trucks and new light-duty vehicles and engines manufactured in the model year 1995 and thereafter for purposes of subsection (a)(1) of this section and subsection (b) of this section shall be 8 years or 80,000 miles of use (whichever first occurs). As used in this paragraph, the term “specified major emission control component” means only a catalytic converter, an electronic emissions control unit, and an onboard emissions diagnostic device, except that the Administrator may designate any other pollution control device or component as a specified major emission control component if—
+&emsp;In the case of a specified major emission control component, the warranty period for new light-duty trucks and new light-duty vehicles and engines manufactured in the model year 1995 and thereafter for purposes of subsection (a)(1) of this section and subsection (b) of this section shall be 8 years or 80,000 miles of use (whichever first occurs). As used in this paragraph, the term "specified major emission control component" means only a catalytic converter, an electronic emissions control unit, and an onboard emissions diagnostic device, except that the Administrator may designate any other pollution control device or component as a specified major emission control component if—
 
 &emsp;&emsp;(A) the device or component was not in general use on vehicles and engines manufactured prior to the model year 1990; and
 
 &emsp;&emsp;(B) the Administrator determines that the retail cost (exclusive of installation costs) of such device or component exceeds $200 (in 1989 dollars), adjusted for inflation or deflation as calculated by the Administrator at the time of such determination.
 
-> &emsp;For purposes of this paragraph, the term “onboard emissions diagnostic device” means any device installed for the purpose of storing or processing emissions related diagnostic information, but not including any parts or other systems which it monitors except specified major emissions control components. Nothing in this chapter shall be construed to provide that any part (other than a part referred to in the preceding sentence) shall be required to be warranted under this chapter for the period of 8 years or 80,000 miles referred to in this paragraph.
+> &emsp;For purposes of this paragraph, the term "onboard emissions diagnostic device" means any device installed for the purpose of storing or processing emissions related diagnostic information, but not including any parts or other systems which it monitors except specified major emissions control components. Nothing in this chapter shall be construed to provide that any part (other than a part referred to in the preceding sentence) shall be required to be warranted under this chapter for the period of 8 years or 80,000 miles referred to in this paragraph.
 
 #### (3) Instructions
 
 &emsp;Subparagraph (A) of subsection (b)(2) of this section shall apply only where the Administrator has made a determination that the instructions concerned conform to the requirements of subsection (c)(3) of this section.
 
-(July 14, 1955, ch. 360, title II, §207, as added Pub. L. 91–604, §8(a), Dec. 31, 1970, 84 Stat. 1696; amended Pub. L. 95–95, title II, §§205, 208–210, 212, Aug. 7, 1977, 91 Stat. 754–756, 758; Pub. L. 95–190, §14(a)(70)–(72), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title II, §§209, 210, 230(9), Nov. 15, 1990, 104 Stat. 2484, 2485, 2529.)
+(July 14, 1955, ch. 360, title II, §207, as added Pub. L. 91–604, §8(a), Dec. 31, 1970, 84 Stat. 1696; amended Pub. L. 95–95, title II, §§205, 208–210, 212, Aug. 7, 1977, 91 Stat. 754–756, 758; Pub. L. 95–190, §14(a)(70)–(72), Nov. 16, 1977, 91 Stat. 1403; Pub. L.101–549, title II, §§209, 210, 230(9), Nov. 15, 1990, 104 Stat. 2484, 2485, 2529.)
 
 #### Codification
 
@@ -238,13 +238,13 @@ A prior section 207 of act July 14, 1955, was renumbered section 208 by Pub. L. 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §209(4), inserted at end “In the case of vehicles and engines manufactured in the model year 1995 and thereafter such warranty shall require that the vehicle or engine is free from any such defects for the warranty period provided under subsection (i) of this section.”
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §209(4), inserted at end "In the case of vehicles and engines manufactured in the model year 1995 and thereafter such warranty shall require that the vehicle or engine is free from any such defects for the warranty period provided under subsection (i) of this section."
 
-Subsec. (b). Pub. L. 101–549, §209(1), (2), substituted “the warranty period (as determined under subsection (i) of this section)” for “useful life (as determined under section 7521(d) of this title)” in introductory provisions and par. (2)(B), and struck out closing provisions which read as follows: “For purposes of the warranty under this subsection, for the period after twenty-four months or twenty-four thousand miles (whichever first occurs) the term ‘emission control device or system’ means a catalytic converter, thermal reactor, or other component installed on or in a vehicle for the sole or primary purpose of reducing vehicle emissions. Such term shall not include those vehicle components which were in general use prior to model year 1968.”
+Subsec. (b). Pub. L. 101–549, §209(1), (2), substituted "the warranty period (as determined under subsection (i) of this section)" for "useful life (as determined under section 7521(d) of this title)" in introductory provisions and par. (2)(B), and struck out closing provisions which read as follows: "For purposes of the warranty under this subsection, for the period after twenty-four months or twenty-four thousand miles (whichever first occurs) the term 'emission control device or system' means a catalytic converter, thermal reactor, or other component installed on or in a vehicle for the sole or primary purpose of reducing vehicle emissions. Such term shall not include those vehicle components which were in general use prior to model year 1968."
 
 Subsec. (c)(4) to (6). Pub. L. 101–549, §210, added pars. (4) to (6).
 
-Subsec. (g). Pub. L. 101–549, §230(9), substituted “the last sentence of subsection (a)(3) of this section)” for “the last three sentences of subsection (a)(1) of this section”.
+Subsec. (g). Pub. L. 101–549, §230(9), substituted "the last sentence of subsection (a)(3) of this section)" for "the last three sentences of subsection (a)(1) of this section".
 
 Subsec. (i). Pub. L. 101–549, §209(3), added subsec. (i).
 
@@ -252,7 +252,7 @@ Subsec. (i). Pub. L. 101–549, §209(3), added subsec. (i).
 
 Pub. L. 95–95, §205, added cl. (3).
 
-Subsec. (b). Pub. L. 95–95, §209(a), (c), inserted provisions to par. (2) that no warranty be held invalid on the basis of any part used in the maintenance or repair of a vehicle or engine if the part was certified as provided in subsec. (a)(2) of this section, and, following par. (2), inserted provisions defining “emission control device or system”.
+Subsec. (b). Pub. L. 95–95, §209(a), (c), inserted provisions to par. (2) that no warranty be held invalid on the basis of any part used in the maintenance or repair of a vehicle or engine if the part was certified as provided in subsec. (a)(2) of this section, and, following par. (2), inserted provisions defining "emission control device or system".
 
 Subsec. (c)(3). Pub. L. 95–95, §208, designated existing provisions as subpars. (A) and (C), added requirement for the bold face printing of a required notice on the first page of the written maintenance instructions in subpar. (A), and added subpar. (B).
 
@@ -262,7 +262,7 @@ Subsec. (g). Pub. L. 95–95, §210, added subsec. (g).
 
 Subsec. (h). Pub. L. 95–190, §14(a)(71), redesignated subsec. (f) as added by Pub. L. 95–95, §212, as (h).
 
-Subsec. (h)(2). Pub. L. 95–190, §14(a)(72), substituted “determined under” for “determined and”.
+Subsec. (h)(2). Pub. L. 95–190, §14(a)(72), substituted "determined under" for "determined and".
 
 #### Effective Date of 1990 Amendment
 
@@ -270,7 +270,7 @@ Pub. L. 101–549, title II, §209, Nov. 15, 1990, 104 Stat. 2484, provided that
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Effective Date
 
@@ -280,9 +280,9 @@ Section not applicable to vehicles or engines imported into United States before
 
 All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “its” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "its" probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “light-duty”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "light-duty".</i>
 
 <i><sup>3</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
 

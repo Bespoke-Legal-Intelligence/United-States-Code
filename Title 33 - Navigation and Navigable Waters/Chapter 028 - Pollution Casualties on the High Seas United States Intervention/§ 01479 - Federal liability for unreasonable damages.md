@@ -16,9 +16,9 @@ With respect to intervention for a substance identified pursuant to section 1473
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1982</b>—Subsec. (b). Pub. L. 97–164 substituted “Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–164 substituted "Claims Court" for "Court of Claims".
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–302 added subsec. (c).
 

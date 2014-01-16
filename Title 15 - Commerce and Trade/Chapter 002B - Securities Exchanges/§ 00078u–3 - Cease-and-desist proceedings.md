@@ -24,11 +24,11 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 #### (i) Issuance of temporary order
 
-&emsp;&emsp;&emsp;Whenever, during the course of a lawful investigation involving possible violations of the Federal securities laws by an issuer of publicly traded securities or any of its directors, officers, partners, controlling persons, agents, or employees, it shall appear to the Commission that it is likely that the issuer will make extraordinary payments (whether compensation or otherwise) to any of the foregoing persons, the Commission may petition a Federal district court for a temporary order requiring the issuer to escrow, subject to court supervision, those payments in an interest-bearing account for 45 days.
+&emsp;&emsp;&emsp;Whenever, during the course of a lawful investigation involving possible violationsof the Federal securities laws by an issuer of publicly traded securities or any of its directors, officers, partners, controlling persons, agents, or employees, it shall appear to the Commission that it is likely that the issuer will make extraordinary payments (whether compensation or otherwise) to any of the foregoing persons, the Commission may petition a Federal district court for a temporary order requiring the issuer to escrow, subject to court supervision, those payments in an interest-bearing account for 45 days.
 
 #### (ii) Standard
 
-&emsp;&emsp;&emsp;A temporary order shall be entered under clause (i), only after notice and opportunity for a hearing, unless the courtdetermines that notice and hearing prior to entry of the order would be impracticable or contrary to the public interest.
+&emsp;&emsp;&emsp;A temporary order shall be entered under clause (i), only after notice and opportunity for a hearing, unless the court determines that notice and hearing prior to entry of the order would be impracticable or contrary to the public interest.
 
 #### (iii) Effective period
 
@@ -84,23 +84,23 @@ In any cease-and-desist proceeding under subsection (a) of this section, the Com
 
 #### (f) Authority of the Commission to prohibit persons from serving as officers or directors
 
-In any cease-and-desist proceeding under subsection (a) of this section, the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 78j(b) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
+In any cease-and-desist proceeding under subsection (a) of this section, the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 78j(b) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
 
 (June 6, 1934, ch. 404, title I, §21C, as added Pub. L. 101–429, title II, §203, Oct. 15, 1990, 104 Stat. 939; amended Pub. L. 107–204, §3(b)(3), title XI, §§1103, 1105(a), July 30, 2002, 116 Stat. 749, 807, 809; Pub. L. 111–203, title IX, §985(b)(8), July 21, 2010, 124 Stat. 1934.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsec. (a), was in the original "this title". See References in Text note set out under section 78a of this title.
 
-Section 7201 of this title, referred to in subsec. (c)(2), was in the original “section 2 of the Sarbanes-Oxley Act of 2002”, Pub. L. 107–204, which enacted section 7201 of this title and amended section 78c of this title.
+Section 7201 of this title, referred to in subsec. (c)(2), was in the original "section 2 of the Sarbanes-Oxley Act of 2002", Pub. L. 107–204, which enacted section 7201 of this title and amended section 78c of this title.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(2). Pub. L. 111–203 substituted “Paragraph (1)” for “paragraph (1) subsection”.
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–203 substituted "Paragraph (1)" for "paragraph (1) subsection".
 
-<b>2002</b>—Subsec. (c)(2). Pub. L. 107–204, §1103(b), substituted “paragraph (1)” for “This”.
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–204, §1103(b), substituted "paragraph (1)" for "This".
 
-Pub. L. 107–204, §3(b)(3), inserted “registered public accounting firm (as defined in section 7201 of this title),” after “government securities dealer,”.
+Pub. L. 107–204, §3(b)(3), inserted "registered public accounting firm (as defined in section 7201 of this title)," after "government securities dealer,".
 
 Subsec. (c)(3). Pub. L. 107–204, §1103(a), added par. (3).
 

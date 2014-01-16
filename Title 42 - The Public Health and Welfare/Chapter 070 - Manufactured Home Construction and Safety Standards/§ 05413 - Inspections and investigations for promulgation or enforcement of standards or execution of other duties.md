@@ -24,7 +24,7 @@ For the purpose of carrying out the provisions of this chapter, the Secretary is
 
 &emsp;(3) to require, by general or special orders, any person to file, in such form as the Secretary may prescribe, reports or answers in writing to specific questions relating to any function of the Secretary under this chapter. Such reports and answers shall be made under oath or otherwise, and shall be filed with the Secretary within such reasonable period as the Secretary may prescribe;
 
-&emsp;(4) to request from any Federal agency any information he deems necessary to carry out his functions under this chapter, and each such agency is authorized and directed to cooperate with the Secretary and to furnish such information upon request made by the Secretary, and the head of any Federal agency is authorized to detail, on a reimbursable basis,any personnel of such agency to assist in carrying out the duties of the Secretary under this chapter; and
+&emsp;(4) to request from any Federal agency any information he deems necessary to carry out his functions under this chapter, and each such agency is authorized and directed to cooperate with the Secretary and to furnish such information upon request made by the Secretary, and the head of any Federal agency is authorized to detail, on a reimbursable basis, any personnel of such agency to assist in carrying out the duties of the Secretary under this chapter; and
 
 &emsp;(5) to make available to the public any information which may indicate the existence of a defect which relates to manufactured home construction or safety or of the failure of a manufactured home to comply with applicable manufactured home construction and safety standards. The Secretary shall disclose so much of other information obtained under this subsection to the public as he determines will assist in carrying out this chapter; but he shall not (under the authority of this sentence) make available or disclosure to the public any information which contains or relates to a trade secret or any information the disclosure of which would put the person furnishing such information at a substantial competitive disadvantage, unless he determines that it is necessary to carry out the purpose of this chapter.
 
@@ -56,13 +56,13 @@ All information reported to or otherwise obtained by the Secretary or his repres
 
 #### Codification
 
-References to “mobile homes”, wherever appearing in text, changed to “manufactured homes” in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of “manufactured home” for “mobile home” wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms “mobile home” and “manufactured home” shall be deemed to include the terms “mobile homes” and “manufactured homes”, respectively.
+References to "mobile homes", wherever appearing in text, changed to "manufactured homes" in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of "manufactured home" for "mobile home" wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms "mobile home" and "manufactured home" shall be deemed to include the terms "mobile homes" and "manufactured homes", respectively.
 
 #### Amendments
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–569 substituted “retailer” for “dealer” wherever appearing.
+<b>2000</b>—Subsec. (f). Pub. L. 106–569 substituted "retailer" for "dealer" wherever appearing.
 
-<b>1980</b>—Subsecs. (a), (c)(5), (f), (g). Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
+<b>1980</b>—Subsecs. (a), (c)(5), (f), (g). Pub. L. 96–399 substituted "manufactured home" for "mobile home" wherever appearing.
 
 #### Effective Date of 2000 Amendment
 

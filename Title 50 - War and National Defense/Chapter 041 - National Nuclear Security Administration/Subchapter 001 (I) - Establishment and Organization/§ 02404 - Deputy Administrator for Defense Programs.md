@@ -18,5 +18,5 @@ Subject to the authority, direction, and control of the Administrator, the Deput
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c). Pub. L. 107–107 struck out heading and text of subsec. (c). Text read as follows: “The head of each national security laboratory and nuclear weapons production facility shall, consistent with applicable contractual obligations, report to the Deputy Administrator for Defense Programs.”
+<b>2001</b>—Subsec. (c). Pub. L. 107–107 struck out heading and text of subsec. (c). Text read as follows: "The head of each national security laboratory and nuclear weapons production facility shall, consistent with applicable contractual obligations, report to the Deputy Administrator for Defense Programs."
 

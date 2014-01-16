@@ -14,7 +14,7 @@ Presentation as Amicus Curiae Permitted.—Nothing in this chapter shall prevent
 
 <b>1987</b>—Pub. L. 100–191 amended section generally, substituting provisions relating to relationship with Department of Justice for substantially similar provisions.
 
-<b>1983</b>—Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
+<b>1983</b>—Pub. L. 97–409, §2(a)(1)(A), substituted "independent counsel" for "special prosecutor" wherever appearing.
 
 #### Effective Date of 1987 Amendment
 

@@ -38,9 +38,9 @@ Provisions similar to those in this section were contained in sections 4501 and 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337, §811(1), substituted “head of any department” for “Secretary of Defense”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §811(1), substituted "head of any department" for "Secretary of Defense".
 
-Subsec. (c). Pub. L. 103–337, §811, substituted “through the head of any department” for “throughthe Secretary of Defense” and “opinion of the head of that department” for “opinion of the Secretary of Defense” in introductory provisions and “head of such department” for “Secretary” in pars. (2) and (3).
+Subsec. (c). Pub. L. 103–337, §811, substituted "through the head of any department" for "through the Secretary of Defense" and "opinion of the head of that department" for "opinion of the Secretary of Defense" in introductory provisions and "head of such department" for "Secretary" in pars. (2) and (3).
 
-Subsec. (d). Pub. L. 103–337, §811(1), substituted “head of any department” for “Secretary of Defense”.
+Subsec. (d). Pub. L. 103–337, §811(1), substituted "head of any department" for "Secretary of Defense".
 

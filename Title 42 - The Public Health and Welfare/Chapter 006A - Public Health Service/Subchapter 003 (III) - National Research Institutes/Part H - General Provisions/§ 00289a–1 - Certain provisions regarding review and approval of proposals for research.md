@@ -4,7 +4,7 @@
 
 #### (1) Protection of human research subjects
 
-&emsp;(A) In the case of any application submitted to the Secretary for financial assistance to conduct research, the Secretary may not approve or fund any application that is subject to review under section 289(a) of this title by an Institutional Review Board unless the application has undergone review in accordance with such section and has been recommended for approval by a majority of the members of the Board conducting such review.
+&emsp;(A) In the case of any application submitted to the Secretary for financial assistance toconduct research, the Secretary may not approve or fund any application that is subject to review under section 289(a) of this title by an Institutional Review Board unless the application has undergone review in accordance with such section and has been recommended for approval by a majority of the members of the Board conducting such review.
 
 &emsp;(B) In the case of research that is subject to review under procedures established by the Secretary for the protection of human subjects in clinical research conducted by the National Institutes of Health, the Secretary may not authorize the conduct of the research unless the research has, pursuant to such procedures, been recommended for approval.
 
@@ -42,11 +42,11 @@
 
 &emsp;(B) A statement issued under subparagraph (A) shall include a request that interested individuals submit to the Secretary recommendations specifying the particular individuals who should be appointed to the advisory board involved. The Secretary shall consider such recommendations in making appointments to the board.
 
-&emsp;(C) The Secretary may not make appointments to an advisory board under paragraph (1) until the expiration of the 30-day period beginning on the date on which the statementrequired in subparagraph (A) is made with respect to the board.
+&emsp;(C) The Secretary may not make appointments to an advisory board under paragraph (1) until the expiration of the 30-day period beginning on the date on which the statement required in subparagraph (A) is made with respect to the board.
 
 #### (5) Ethics advisory boards
 
-&emsp;(A) Any advisory board convened for purposes of paragraph (1) shall be known as an ethics advisory board (in this paragraph referred to as an “ethics board”).
+&emsp;(A) Any advisory board convened for purposes of paragraph (1) shall be known as an ethics advisory board (in this paragraph referred to as an "ethics board").
 
 &emsp;(B)(i) An ethics board shall advise, consult with, and make recommendations to the Secretary regarding the ethics of the project of biomedical or behavioral research with respect to which the board has been convened.
 
@@ -80,15 +80,15 @@
 
 &emsp;(K) An ethics board shall terminate 30 days after the date on which the report required in subparagraph (B)(ii) is submitted to the Secretary and the congressional committees specified in such subparagraph.
 
-#### (6) “Ethical considerations” defined
+#### (6) "Ethical considerations" defined
 
-&emsp;For purposes of this subsection, the term “ethical considerations” means considerations as to whether the nature of the research involved is such that it is unethical to conduct or support the research.
+&emsp;For purposes of this subsection, the term "ethical considerations" means considerations as to whether the nature of the research involved is such that it is unethical to conduct or support the research.
 
 (July 1, 1944, ch. 373, title IV, §492A, as added Pub. L. 103–43, title I, §101, June 10, 1993, 107 Stat. 126; amended Pub. L. 109–482, title I, §102(e), Jan. 15, 2007, 120 Stat. 3684.)
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(2). Pub. L. 109–482 inserted before period at end “, and unless a majority of the voting members of the appropriate advisory council under section 284a of this title, or as applicable, of the advisory council under section 282(k) of this title, has recommended the proposal for approval”.
+<b>2007</b>—Subsec. (a)(2). Pub. L. 109–482 inserted before period at end ", and unless a majority of the voting members of the appropriate advisory council under section 284a of this title, or as applicable, of the advisory council under section 282(k) of this title, has recommended the proposal for approval".
 
 #### Change of Name
 

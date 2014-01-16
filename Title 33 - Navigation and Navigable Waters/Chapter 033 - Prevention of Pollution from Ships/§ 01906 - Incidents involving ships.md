@@ -22,7 +22,7 @@ The master or person in charge of—
 
 <b>1991</b>—Pub. L. 102–241 amended section generally. Prior to amendment, section read as follows:
 
-“(a) As soon as he has knowledge of an incident, the master or other person in charge of a ship shall report it to the Secretary in the manner prescribed by Article 8 of the Convention.
+"(a) As soon as he has knowledge of an incident, the master or other person in charge of a ship shall report it to the Secretary in the manner prescribed by Article 8 of the Convention.
 
-“(b) Upon receipt of the report of an incident involving a ship, other than one of United States registry or nationality or one operated under the authority of the United States, the Secretary shall take the action required by Article 8 of the Convention.”
+"(b) Upon receipt of the report of an incident involving a ship, other than one of United States registry or nationality or one operated under the authority of the United States, the Secretary shall take the action required by Article 8 of the Convention."
 

@@ -18,12 +18,6 @@ Annual Briefings.—Not later than March 15 of each year, the Secretary of Defen
 
 (c)
 
-Notification of Anomalies.—(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system of the United States that is reported to the Secretary of Defense or the Nuclear Weapons Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
-
-(2) In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
-
-(d)
-
 Reports on 2010
 
 Nuclear Posture Review Implementation Study Decisions.—During each of fiscal years 2012 through 2021, not later than 60 days before the date on which the President carries out the results of the decisions made pursuant to the 2010 Nuclear Posture Review Implementation Study that would alter the nuclear weapons employment strategy, guidance, plans, or options of the United States, the President shall—
@@ -34,7 +28,7 @@ Nuclear Posture Review Implementation Study Decisions.—During each of fiscal y
 
 &emsp;(3) transmit to the congressional defense committees a report providing the high-, medium-, and low- confidence assessments of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))) as to whether the United States will have significant warning of a strategic surprise or breakout caused by foreign nuclear weapons developments.
 
-(Added Pub. L. 112–81, div. A, title X, §1046(b)(1), Dec. 31, 2011, 125 Stat. 1579; amended Pub. L. 112–239, div. A, title X, §§1031(a), 1032, Jan. 2, 2013, 126 Stat. 1917, 1919.)
+(Added Pub. L. 112–81, div. A, title X, §1046(b)(1), Dec. 31, 2011, 125 Stat. 1579; amended Pub. L. 112–239, div. A, title X, §§1031(a), 1032, Jan. 2, 2013, 126 Stat. 1917, 1919; Pub. L. 113–66, div. A, title X, §1052(b), Dec. 26, 2013, 127 Stat. 861.)
 
 #### Codification
 
@@ -46,13 +40,35 @@ Section 1043(a)(1) of the National Defense Authorization Act for Fiscal Year 201
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239, §1031(a)(2)(A)–(D), inserted “weapons” after “Nuclear” in section catchline, substituted “nuclear weapons employment strategy” for “nuclear employment strategy” in two places in introductory provisions and “to the nuclear weapons employment strategy, plans, and options of” for “to nuclear employment strategy of” in par. (1), and added par. (4).
+<b>2013</b>—Pub. L. 112–239, §1031(a)(2)(A)–(D), inserted "weapons" after "Nuclear" in section catchline, substituted "nuclear weapons employment strategy" for "nuclear employment strategy" in two places in introductory provisions and "to the nuclear weapons employment strategy, plans, and options of" for "to nuclear employment strategy of" in par. (1), and added par. (4).
 
-Subsec. (a). Pub. L. 112–239, §1032(a), substituted “By not later than 60 days before the date on which the President implements” for “On the date on which the President issues” in introductory provisions.
+Subsec. (a). Pub. L. 112–239, §1032(a), substituted "By not later than 60 days before the date on which the President implements" for "On the date on which the President issues" in introductory provisions.
 
 Pub. L. 112–239, §1031(a)(2)(E), designated existing provisions as subsec. (a) and inserted heading.
 
-Subsecs. (b), (c). Pub. L. 112–239, §1031(a)(2)(F), added subsecs. (b) and (c).
+Subsec. (b). Pub. L. 112–239, §1031(a)(2)(F), added subsec. (b).
 
-Subsec. (d). Pub. L. 112–239, §1032(b), added subsec. (d).
+Subsec. (c). Pub. L. 113–66, §1052(b), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows:
+
+"(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system of the United States that is reported to the Secretary of Defense or the Nuclear Weapons Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
+
+"(2) In this subsection, the term 'anomaly' means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system."
+
+Pub. L. 112–239, §1031(a)(2)(F), added subsec. (c).
+
+Subsec. (d). Pub. L. 113–66, §1052(b)(2), redesignated subsec. (d) as (c).
+
+Pub. L. 112–239, §1032(b), added subsec. (d).
+
+#### Delegation of Reporting Functions Specified in Section 491 of Title 10, United States Code
+
+Memorandum of President of the United States, June 19, 2013, 78 F.R. 37923, provided:
+
+Memorandum for the Secretary of Defense
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to you the reporting functions conferred upon the President by section 491 of title 10, United States Code.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

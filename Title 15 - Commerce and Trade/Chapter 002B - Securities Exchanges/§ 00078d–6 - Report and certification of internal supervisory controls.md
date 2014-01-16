@@ -64,5 +64,5 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 For definitions of terms used in this section, see section 5301 of Title 12, Banks and Banking.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(e).”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(e)."</i>
 

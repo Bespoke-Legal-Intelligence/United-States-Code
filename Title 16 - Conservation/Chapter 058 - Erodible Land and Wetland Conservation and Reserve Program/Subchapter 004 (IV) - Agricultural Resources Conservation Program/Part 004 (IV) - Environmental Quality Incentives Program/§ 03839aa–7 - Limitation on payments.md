@@ -28,17 +28,17 @@ A prior section 3839aa–7, Pub. L. 99–198, title XII, §1240G, as added Pub. 
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §2508, designated existing provisions as subsec. (a), inserted heading, substituted “Subject to subsection (b), a person or legal entity” for “An individual or entity” and “$300,000” for “$450,000”, substituted “the person” for “the individual” in two places, and added subsec. (b).
+<b>2008</b>—Pub. L. 110–246, §2508, designated existing provisions as subsec. (a), inserted heading, substituted "Subject to subsection (b), a person or legal entity" for "An individual or entity" and "$300,000" for "$450,000", substituted "the person" for "the individual" in two places, and added subsec. (b).
 
-<b>2006</b>—Pub. L. 109–171 substituted “any six-year period” for “the period of fiscal years 2002 through 2007”.
+<b>2006</b>—Pub. L. 109–171 substituted "any six-year period" for "the period of fiscal years 2002 through 2007".
 
-<b>2004</b>—Pub. L. 108–447 inserted “(excluding funding arrangements with federally recognized Native American Indian Tribes or Alaska Native Corporations under section 3839aa–2(h) of this title)” after “2007,”.
+<b>2004</b>—Pub. L. 108–447 inserted "(excluding funding arrangements with federally recognized Native American Indian Tribes or Alaska Native Corporations under section 3839aa–2(h) of this title)" after "2007,".
 
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should follow “title)”.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should follow "title)".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 July 8, 1937, ch. 444, §4, 50 Stat. 480.
 
-The words “On and after the effective date of the regulations prescribed under section 721 of this title” are omitted as obsolete. The words “the circumstances are such that” are omitted as unnecessary.
+The words "On and after the effective date of the regulations prescribed under section 721 of this title" are omitted as obsolete. The words "the circumstances are such that" are omitted as unnecessary.
 

@@ -14,19 +14,19 @@ Until the record in such hearing has been filed in a court of appeals as provide
 
 #### (d) Service
 
-Complaints, orders, and other processes of the Secretary of Agriculture under this section may be served by anyone duly authorized by the Secretary of Agriculture, either (1) by delivering a copy thereof to the person to be served, or to a member of the partnership to be served, or to the president, secretary, or other executive officer or a director of the corporation to be served; or (2) by leaving a copy thereof at the principal office or place of business of such person, partnership, or corporation; or (3) by mailing a copy thereof by registered mail or by certified mail addressed to such person, partnership, or corporation at his or its last known principal office or place of business. The verified return by the person so serving said complaint, order, or other process setting forth the manner of said order shall be proof of the same, and the return postoffice receipt for said complaint, order, or other process mailed by registered mail or by certified mail as aforesaid shall be proof of the service of the same.
+Complaints, orders, and other processes of the Secretary of Agriculture under this section maybe served by anyone duly authorized by the Secretary of Agriculture, either (1) by delivering a copy thereof to the person to be served, or to a member of the partnership to be served, or to the president, secretary, or other executive officer or a director of the corporation to be served; or (2) by leaving a copy thereof at the principal office or place of business of such person, partnership, or corporation; or (3) by mailing a copy thereof by registered mail or by certified mail addressed to such person, partnership, or corporation at his or its last known principal office or place of business. The verified return by the person so serving said complaint, order, or other process setting forth the manner of said order shall be proof of the same, and the return postoffice receipt for said complaint, order, or other process mailed by registered mail or by certified mail as aforesaid shall be proof of the service of the same.
 
 (Aug. 9, 1939, ch. 615, title IV, §409, 53 Stat. 1287; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §24(a), Aug. 28, 1958, 72 Stat. 949; Pub. L. 86–507, §1(7), June 11, 1960, 74 Stat. 200.)
 
 #### Amendments
 
-<b>1960</b>—Subsec. (d). Pub. L. 86–507 substituted “mailing a copy thereof by registered mail or by certified mail” for “registering and mailing a copy thereof” and “mailed by registered mail or by certified mail” for “registered and mailed”.
+<b>1960</b>—Subsec. (d). Pub. L. 86–507 substituted "mailing a copy thereof by registered mail or by certified mail" for "registering and mailing a copy thereof" and "mailed by registered mail or by certified mail" for "registered and mailed".
 
-<b>1958</b>—Subsec. (c). Pub. L. 85–791 struck out “a transcript of” before “the record”.
+<b>1958</b>—Subsec. (c). Pub. L. 85–791 struck out "a transcript of" before "the record".
 
 #### Change of Name
 
-Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals” which appeared in subsec. (c) of this section.
+Act June 25, 1948, as amended by act May 24, 1949, substituted "court of appeals" for "circuit court of appeals" which appeared in subsec. (c) of this section.
 
 #### Effective Date
 

@@ -40,7 +40,7 @@
 
 (8)
 
-Continuity of benefits.—To the extent appropriations are provided in advance for thispurpose or are otherwise available, not later than 30 days after August 8, 2005, the Secretary shall implement such actions as are necessary to ensure that any employee who—
+Continuity of benefits.—To the extent appropriations are provided in advance for this purpose or are otherwise available, not later than 30 days after August 8, 2005, the Secretary shall implement such actions as are necessary to ensure that any employee who—
 
 &emsp;(A) is involved in providing infrastructure or environmental remediation services at the Portsmouth, Ohio, or the Paducah, Kentucky, Gaseous Diffusion Plant;
 
@@ -52,7 +52,7 @@ Continuity of benefits.—To the extent appropriations are provided in advance f
 
 #### (b) Former Federal employees
 
-(1)(A) An employee of the Corporation that was subject to either the Civil Service Retirement System (referred to in this section as “CSRS”) or the Federal Employees’ Retirement System (referred to in this section as “FERS”) on the day immediately preceding the privatization date shall elect—
+(1)(A) An employee of the Corporation that was subject to either the Civil Service Retirement System (referred to in this section as "CSRS") or the Federal Employees' Retirement System (referred to in this section as "FERS") on the day immediately preceding the privatization date shall elect—
 
 &emsp;(i) to retain the employee's coverage under either CSRS or FERS, as applicable, in lieu of coverage by the Corporation's retirement system, or
 
@@ -64,13 +64,13 @@ Continuity of benefits.—To the extent appropriations are provided in advance f
 
 &emsp;(A) such employee deductions and agency contributions as are required by sections 8334, 8422, and 8423 of title 5 for those employees who elect to retain their coverage under either CSRS or FERS pursuant to paragraph (1);
 
-&emsp;(B) such additional agency contributions as are determined necessary by the Office of Personnel Management to pay, in combination with the sums under subparagraph (A), the “normal cost” (determined using dynamic assumptions) of retirement benefits for those employees who elect to retain their coverage under CSRS pursuant to paragraph (1), with the concept of “normal cost” being used consistent with generally accepted actuarial standards and principles; and
+&emsp;(B) such additional agency contributions as are determined necessary by the Office of Personnel Management to pay, in combination with the sums under subparagraph (A), the "normal cost" (determined using dynamic assumptions) of retirement benefits for those employees who elect to retain their coverage under CSRS pursuant to paragraph (1), with the concept of "normal cost" being used consistent with generally accepted actuarial standards and principles; and
 
 &emsp;(C) such additional amounts, not to exceed two percent of the amounts under subparagraphs (A) and (B), as are determined necessary by the Office of Personnel Management to pay the cost of administering retirement benefits for employees who retire from the Corporation after the privatization date under either CSRS or FERS, for their survivors, and for survivors of employees of the Corporation who die after the privatization date (which amounts shall be available to the Office of Personnel Management as provided in section 8348(a)(1)(B) of title 5).
 
 (3) The Corporation shall pay to the Thrift Savings Fund such employee and agency contributions as are required or authorized by sections 8432 and 8351 of title 5 for employees who elect to retain their coverage under CSRS or FERS pursuant to paragraph (1).
 
-(4) Any employee of the Corporation who was subject to the Federal Employee Health Benefits Program (referred to in this section as “FEHBP”) on the day immediately preceding the privatization date and who elects to retain coverage under either CSRS or FERS pursuant to paragraph (1) shall have the option to receive health benefits from a health benefit plan established by the Corporation or to continue without interruption coverage under the FEHBP, in lieu of coverage by the Corporation's health benefit system.
+(4) Any employee of the Corporation who was subject to the Federal Employee Health Benefits Program (referred to in this section as "FEHBP") on the day immediately preceding the privatization date and who elects to retain coverage under either CSRS or FERS pursuant to paragraph (1) shall have the option to receive health benefits from a health benefit plan established by the Corporation or to continue without interruption coverage under the FEHBP, in lieu of coverage by the Corporation's health benefit system.
 
 (5) The Corporation shall pay to the Employees Health Benefits Fund—
 
@@ -86,9 +86,9 @@ Continuity of benefits.—To the extent appropriations are provided in advance f
 
 The National Labor Relations Act, referred to in subsec. (a)(3), (7)(C), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
-Sections 3161 and 3162 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (a)(5), were classified to sections 7274h and 7274i, respectively, of this title and were renumbered sections 4604 and 4643, respectively, of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(5)(A)–(C), (14)(A)–(C), Nov. 24, 2003, 117 Stat. 1777, 1779, 1780, which are classified to sections 2704 and2733, respectively, of Title 50, War and National Defense.
+Sections 3161 and 3162 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (a)(5), were classified to sections 7274h and 7274i, respectively, of this title and were renumbered sections 4604 and 4643, respectively, of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(5)(A)–(C), (14)(A)–(C), Nov. 24, 2003, 117 Stat. 1777, 1779, 1780, which are classified to sections 2704 and 2733, respectively, of Title 50, War and National Defense.
 
-Section 185 of title 29, referred to in subsec. (a)(7)(A), was in the original “section 301 of the Labor Management Relations Act (29 U.S.C. 185)”, and has been translated as reading section 301 of the Labor Management Relations Act, 1947, to reflect the probable intent of Congress.
+Section 185 of title 29, referred to in subsec. (a)(7)(A), was in the original "section 301 of the Labor Management Relations Act (29 U.S.C. 185)", and has been translated as reading section 301 of the Labor Management Relations Act, 1947, to reflect the probable intent of Congress.
 
 #### Codification
 
@@ -98,7 +98,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 <b>2005</b>—Subsec. (a)(8). Pub. L. 109–58 added par. (8).
 
-<b>1996</b>—Subsec. (b)(3). Pub. L. 104–206 which directed the amendment of subsec. (b) by inserting par. (3), was executed to reflect the probable intent of Congress by substituting par. (3) for former par. (3) which read as follows: “The Corporation shall pay to the Thrift Savings Fund such employee and agency contributions as are required by section 8432 of title 5 for those employees who elect to retain their coverage under FERS pursuant to paragraph (1).”
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–206 which directed the amendment of subsec. (b) by inserting par. (3), was executed to reflect the probable intent of Congress by substituting par. (3) for former par. (3) which read as follows: "The Corporation shall pay to the Thrift Savings Fund such employee and agency contributions as are required by section 8432 of title 5 for those employees who elect to retain their coverage under FERS pursuant to paragraph (1)."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

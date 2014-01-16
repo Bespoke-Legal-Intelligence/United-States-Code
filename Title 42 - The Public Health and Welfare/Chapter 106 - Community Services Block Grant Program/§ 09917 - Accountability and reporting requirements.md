@@ -20,7 +20,7 @@
 
 #### (1) Performance measurement
 
-&emsp;The Secretary, in collaboration with the States and with eligible entities throughout the Nation, shall facilitate the development of one or more model performance measurement systems, which may be used by the States andby eligible entities to measure their performance in carrying out the requirements of this chapter and in achieving the goals of their community action plans. The Secretary shall provide technical assistance, including support for the enhancement of electronic data systems, to States and to eligible entities to enhance their capability to collect and report data for such a system and to aid in their participation in such a system.
+&emsp;The Secretary, in collaboration with the States and with eligible entities throughout the Nation, shall facilitate the development of one or more model performance measurement systems, which may be used by the States and by eligible entities to measure their performance in carrying out the requirements of this chapter and in achieving the goals of their community action plans. The Secretary shall provide technical assistance, including support for the enhancement of electronic data systems, to States and to eligible entities to enhance their capability to collect and report data for such a system and to aid in their participation in such a system.
 
 #### (2) Reporting requirements
 

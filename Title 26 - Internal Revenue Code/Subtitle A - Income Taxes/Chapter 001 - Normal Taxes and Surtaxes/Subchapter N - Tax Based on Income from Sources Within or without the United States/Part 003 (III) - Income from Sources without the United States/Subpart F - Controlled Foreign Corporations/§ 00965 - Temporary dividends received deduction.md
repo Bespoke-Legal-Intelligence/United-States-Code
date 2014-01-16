@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (1) Applicable financial statement
 
-&emsp;The term “applicable financial statement” means—
+&emsp;The term "applicable financial statement" means—
 
 &emsp;&emsp;(A) with respect to a United States shareholder which is required to file a financial statement with the Securities and Exchange Commission (or which is included in such a statement so filed by another person), the most recent audited annual financial statement (including the notes which form an integral part of such statement) of such shareholder (or which includes such shareholder)—
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (3) Dividend
 
-&emsp;The term “dividend” shall not include amounts includible in gross income as a dividend under section 78, 367, or 1248. In the case of a liquidation under section 332 to which section 367(b) applies, the preceding sentence shall not apply to the extent the United States shareholder actually receives cash as part of the liquidation.
+&emsp;The term "dividend" shall not include amounts includible in gross income as a dividend under section 78, 367, or 1248. In the case of a liquidation under section 332 to which section 367(b) applies, the preceding sentence shall not apply to the extent the United States shareholder actually receives cash as part of the liquidation.
 
 #### (4) Coordination with dividends received deduction
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 #### (3) Nondeductible CFC dividends
 
-&emsp;For purposes of this subsection, the term “nondeductible CFC dividends” means the excess of the amount of dividends taken into account under subsection (a) over the deduction allowed under subsection (a) for such dividends.
+&emsp;For purposes of this subsection, the term "nondeductible CFC dividends" means the excess of the amount of dividends taken into account under subsection (a) over the deduction allowed under subsection (a) for such dividends.
 
 #### (f) Election
 
@@ -216,33 +216,33 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(2)(B). Pub. L. 109–135, §403(q)(1), inserted “from another controlled foreign corporation in such chain of ownership” before “, but only to the extent”.
+<b>2005</b>—Subsec. (a)(2)(B). Pub. L. 109–135, §403(q)(1), inserted "from another controlled foreign corporation in such chain of ownership" before ", but only to the extent".
 
-Subsec. (b)(2)(A). Pub. L. 109–135, §403(q)(2), inserted “cash” before “dividends”.
+Subsec. (b)(2)(A). Pub. L. 109–135, §403(q)(2), inserted "cash" before "dividends".
 
-Subsec. (b)(3). Pub. L. 109–135, §403(q)(3), inserted at end “The Secretary may prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this paragraph, including regulations which provide that cash dividends shall not be taken into account under subsection (a) to the extent such dividends are attributable to the direct or indirect transfer (including through the use of intervening entities or capital contributions) of cash or other property from a related person (as so defined) to a controlled foreign corporation.”
+Subsec. (b)(3). Pub. L. 109–135, §403(q)(3), inserted at end "The Secretary may prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this paragraph, including regulations which provide that cash dividends shall not be taken into account under subsection (a) to the extent such dividends are attributable to the direct or indirect transfer (including through the use of intervening entities or capital contributions) of cash or other property from a related person (as so defined) to a controlled foreign corporation."
 
-Subsec. (c)(1). Pub. L. 109–135, §403(q)(4), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘applicable financial statement’ means, with respect to a United States shareholder, the most recently audited financial statement (including notes and other documents which accompany such statement) which includes such shareholder—
+Subsec. (c)(1). Pub. L. 109–135, §403(q)(4), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'applicable financial statement' means, with respect to a United States shareholder, the most recently audited financial statement (including notes and other documents which accompany such statement) which includes such shareholder—
 
-&emsp;“(A) which is certified on or before June 30, 2003, as being prepared in accordance with generally accepted accounting principles, and
+&emsp;"(A) which is certified on or before June 30, 2003, as being prepared in accordance with generally accepted accounting principles, and
 
-&emsp;“(B) which is used for the purposes of a statement or report—
+&emsp;"(B) which is used for the purposes of a statement or report—
 
-&emsp;&emsp;“(i) to creditors,
+&emsp;&emsp;"(i) to creditors,
 
-&emsp;&emsp;“(ii) to shareholders, or
+&emsp;&emsp;"(ii) to shareholders, or
 
-&emsp;&emsp;“(iii) for any other substantial nontax purpose.
+&emsp;&emsp;"(iii) for any other substantial nontax purpose.
 
-> In the case of a corporation required to file a financial statement with the Securities and Exchange Commission, such term means the most recent such statement filed on or before June 30, 2003.”
+> In the case of a corporation required to file a financial statement with the Securities and Exchange Commission, such term means the most recent such statement filed on or before June 30, 2003."
 
-Subsec. (d)(2). Pub. L. 109–135, §403(q)(5), substituted “directly allocable” for “properly allocated and apportioned”.
+Subsec. (d)(2). Pub. L. 109–135, §403(q)(5), substituted "directly allocable" for "properly allocated and apportioned".
 
 Subsec. (d)(4). Pub. L. 109–135, §403(q)(6), added par. (4).
 
-Subsec. (e)(1). Pub. L. 109–135, §403(q)(7), inserted “which are imposed by foreign countries and possessions of the United States and are” after “taxes” in concluding provisions.
+Subsec. (e)(1). Pub. L. 109–135, §403(q)(7), inserted "which are imposed by foreign countries and possessions of the United States and are" after "taxes" in concluding provisions.
 
-Subsec. (f). Pub. L. 109–135, §403(q)(8), inserted “on or” before “before the due date” in concluding provisions.
+Subsec. (f). Pub. L. 109–135, §403(q)(8), inserted "on or" before "before the due date" in concluding provisions.
 
 #### Effective Date of 2005 Amendment
 

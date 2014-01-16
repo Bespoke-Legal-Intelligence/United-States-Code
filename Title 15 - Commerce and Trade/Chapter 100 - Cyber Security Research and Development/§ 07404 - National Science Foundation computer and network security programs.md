@@ -98,7 +98,7 @@
 
 #### (1) In general
 
-&emsp;The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs for graduate students who pursue computer and network security research leading to a doctorate degree by providing funding and other assistance, and by providing graduate students with research experience in government or industry related to the students’ computer and network security studies.
+&emsp;The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs for graduate students who pursue computer and network security research leading to a doctorate degree by providing funding and other assistance, and by providing graduate students with research experience in government or industry related to the students' computer and network security studies.
 
 #### (2) Merit review
 
@@ -118,7 +118,7 @@
 
 #### (4) Traineeship amount
 
-&emsp;Traineeships provided under paragraph (3)(A) shall be in the amount of $25,000 peryear, or the level of the National Science Foundation Graduate Research Fellowships, whichever is greater, for up to 3 years.
+&emsp;Traineeships provided under paragraph (3)(A) shall be in the amount of $25,000 per year, or the level of the National Science Foundation Graduate Research Fellowships, whichever is greater, for up to 3 years.
 
 #### (5) Selection process
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;(D) the nature and quality of the internship program established through collaborations with government laboratories, nonprofit research institutions, and for-profit institutions;
 
-&emsp;&emsp;(E) the integration of internship opportunities into graduate students’ research; and
+&emsp;&emsp;(E) the integration of internship opportunities into graduate students' research; and
 
 &emsp;&emsp;(F) the relevance of the proposed program to current and future computer and network security needs.
 

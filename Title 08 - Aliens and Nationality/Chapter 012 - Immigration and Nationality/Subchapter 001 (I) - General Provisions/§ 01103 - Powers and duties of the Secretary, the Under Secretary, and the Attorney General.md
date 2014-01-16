@@ -32,7 +32,7 @@
 
 (1) The Attorney General may contract for or buy any interest in land, including temporary use rights, adjacent to or in the vicinity of an international land border when the Attorney General deems the land essential to control and guard the boundaries and borders of the United States against any violation of this chapter.
 
-(2) The Attorney General may contract for or buy any interest in land identified pursuant toparagraph (1) as soon as the lawful owner of that interest fixes a price for it and the Attorney General considers that price to be reasonable.
+(2) The Attorney General may contract for or buy any interest in land identified pursuant to paragraph (1) as soon as the lawful owner of that interest fixes a price for it and the Attorney General considers that price to be reasonable.
 
 (3) When the Attorney General and the lawful owner of an interest identified pursuant to paragraph (1) are unable to agree upon a reasonable price, the Attorney General may commence condemnation proceedings pursuant to section 3113 of title 40.
 
@@ -74,7 +74,7 @@ The Attorney General shall allocate to each State not fewer than 10 full-time ac
 
 #### References in Text
 
-This chapter, referred to in text, was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in text, was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see ShortTitle note set out under section 1101 of this title and Tables.
 
 The Immigration Reform, Accountability and Security Enhancement Act of 2002, referred to in subsec. (g)(1), was S. 2444 of the 107th Congress, as introduced on May 2, 2002, which was not enacted into law. Provisions relating to the Executive Office for Immigration Review are contained in section 521 of Title 6, Domestic Security.
 

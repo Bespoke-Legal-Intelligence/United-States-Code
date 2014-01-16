@@ -6,11 +6,11 @@ Definitions.—In this section—
 
 &emsp;(1)
 
-Executive agency.—The term “executive agency” means an executive department or independent establishment in the executive branch of the Federal Government, including a wholly owned Government corporation.
+Executive agency.—The term "executive agency" means an executive department or independent establishment in the executive branch of the Federal Government, including a wholly owned Government corporation.
 
 &emsp;(2)
 
-Real property of the government.—The term “real property of the Government” excludes—
+Real property of the government.—The term "real property of the Government" excludes—
 
 &emsp;&emsp;(A) public land (including minerals, vegetative, and other resources) in the United States, including—
 
@@ -28,11 +28,11 @@ Real property of the government.—The term “real property of the Government�
 
 &emsp;(3)
 
-State.—The term “State” means a State of the United States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
+State.—The term "State" means a State of the United States, the District of Columbia,Puerto Rico, and the territories and possessions of the United States.
 
 (b)
 
-Grant of Easement.—When a State, a political subdivision or agency of a State, or a person applies for the grant of an easement in, over, or on real property of the Government, the executive agency having control of the real property may grant to the applicant, on behalf of the Government, an easement that the head of theagency decides will not be adverse to the interests of the Government, subject to reservations, exceptions, limitations, benefits, burdens, terms, or conditions that the head of the agency considers necessary to protect the interests of the Government. The grant may be made without consideration, or with monetary or other consideration, including an interest in real property.
+Grant of Easement.—When a State, a political subdivision or agency of a State, or a person applies for the grant of an easement in, over, or on real property of the Government, the executive agency having control of the real property may grant to the applicant, on behalf of the Government, an easement that the head of the agency decides will not be adverse to the interests of the Government, subject to reservations, exceptions, limitations, benefits, burdens, terms, or conditions that the head of the agency considers necessary to protect the interests of the Government. The grant may be made without consideration, or with monetary or other consideration, including an interest in real property.
 
 (c)
 
@@ -108,11 +108,11 @@ Pub. L. 87–852, Oct. 23, 1962, 76 Stat. 1129.
 
 Pub. L. 94–579, title VII, §706(a) (related to the Act of Oct. 23, 1962 (Pub. L. 87—852, 76 Stat. 1129)), Oct. 21, 1976, 90 Stat. 2793.
 
-In subsection (a), the text of 40:319c(c) is omitted because of 1:1. In clause (3), the words “territories and” are added for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the text of 40:319c(c) is omitted because of 1:1. In clause (3), the words "territories and" are added for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b), the words “for a right-of-way or other purpose” are omitted as unnecessary.
+In subsection (b), the words "for a right-of-way or other purpose" are omitted as unnecessary.
 
-In subsection (c), the words “affected” and “concerned” before “a notice” are omitted as unnecessary. The words “chief executive officer” are substituted for “Governor” for clarity.
+In subsection (c), the words "affected" and "concerned" before "a notice" are omitted as unnecessary. The words "chief executive officer" are substituted for "Governor" for clarity.
 
 #### References in Text
 

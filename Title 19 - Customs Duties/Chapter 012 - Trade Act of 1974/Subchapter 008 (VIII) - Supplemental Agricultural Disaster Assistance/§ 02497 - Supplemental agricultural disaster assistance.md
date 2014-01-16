@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Actual production history yield
 
-&emsp;The term “actual production history yield” means the weighted average of the actual production history for each insurable commodity or noninsurable commodity, as calculated under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or the noninsured crop disaster assistance program, respectively.
+&emsp;The term "actual production history yield" means the weighted average of the actual production history for each insurable commodity or noninsurable commodity, as calculated under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or the noninsured crop disaster assistance program, respectively.
 
 #### (2) Actual production on the farm
 
-&emsp;The term “actual production on the farm” means the sum of the value of all crops produced on the farm, as determined under subsection (b)(6)(B).
+&emsp;The term "actual production on the farm" means the sum of the value of all crops produced on the farm, as determined under subsection (b)(6)(B).
 
 #### (3) Adjusted actual production history yield
 
-&emsp;The term “adjusted actual production history yield” means—
+&emsp;The term "adjusted actual production history yield" means—
 
 &emsp;&emsp;(A) in the case of an eligible producer on a farm that has at least 4 years of actual production history yields for an insurable commodity that are established other than pursuant to section 508(g)(4)(B) of the Federal Crop Insurance Act (7 U.S.C. 1508(g)(4)(B)), the actual production history for the eligible producer without regard to any yields established under that section;
 
@@ -24,7 +24,7 @@ In this section:
 
 #### (4) Adjusted noninsured crop disaster assistance program yield
 
-&emsp;The term “adjusted noninsured crop disaster assistance program yield” means—
+&emsp;The term "adjusted noninsured crop disaster assistance program yield" means—
 
 &emsp;&emsp;(A) in the case of an eligible producer on a farm that has at least 4 years of production history under the noninsured crop disaster assistance program that are not replacement yields, the noninsured crop disaster assistance program yield without regard to any replacement yields;
 
@@ -34,7 +34,7 @@ In this section:
 
 #### (5) Counter-cyclical program payment yield
 
-&emsp;The term “counter-cyclical program payment yield” means the weighted average payment yield established under under— <sup>1</sup>
+&emsp;The term "counter-cyclical program payment yield" means the weighted average payment yield established under under— <sup>1</sup>
 
 &emsp;&emsp;(i) section 7912 or 7952 of title 7;
 
@@ -44,17 +44,17 @@ In this section:
 
 #### (6) Crop of economic significance
 
-&emsp;The term “crop of economic significance” shall have the uniform meaning given the term by the Secretary for purposes of subsections (b)(1)(B) and (g)(6).
+&emsp;The term "crop of economic significance" shall have the uniform meaning given the term by the Secretary for purposes of subsections (b)(1)(B) and (g)(6).
 
 #### (7) Disaster county
 
 #### (A) In general
 
-&emsp;&emsp;The term “disaster county” means a county included in the geographic area covered by a qualifying natural disaster declaration.
+&emsp;&emsp;The term "disaster county" means a county included in the geographic area covered by a qualifying natural disaster declaration.
 
 #### (B) Inclusion
 
-&emsp;&emsp;The term “disaster county” includes—
+&emsp;&emsp;The term "disaster county" includes—
 
 &emsp;&emsp;&emsp;(i) a county contiguous to a county described in subparagraph (A); and
 
@@ -64,7 +64,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible producer on a farm” means an individual or entity described in subparagraph (B) that, as determined by the Secretary, assumes the production and market risks associated with the agricultural production of crops or livestock.
+&emsp;&emsp;The term "eligible producer on a farm" means an individual or entity described in subparagraph (B) that, as determined by the Secretary, assumes the production and market risks associated with the agricultural production of crops or livestock.
 
 #### (B) Description
 
@@ -82,27 +82,27 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “farm” means, in relation to an eligible producer on a farm, the sum of all crop acreage in all counties that is planted or intended to be planted for harvest for sale or on-farm livestock feeding (including native grassland intended for haying) by the eligible producer.
+&emsp;&emsp;The term "farm" means, in relation to an eligible producer on a farm, the sum of all crop acreage in all counties that is planted or intended to be planted for harvest for sale or on-farm livestock feeding (including native grassland intended for haying) by the eligible producer.
 
 #### (B) Aquaculture
 
-&emsp;&emsp;In the case of aquaculture, the term “farm” means, in relation to an eligible producer on a farm, all fish being produced in all counties that are intended to be harvested for sale by the eligible producer.
+&emsp;&emsp;In the case of aquaculture, the term "farm" means, in relation to an eligible producer on a farm, all fish being produced in all counties that are intended to be harvested for sale by the eligible producer.
 
 #### (C) Honey
 
-&emsp;&emsp;In the case of honey, the term “farm” means, in relation to an eligible producer on a farm, all bees and beehives in all counties that are intended to be harvested for a honey crop for sale by the eligible producer.
+&emsp;&emsp;In the case of honey, the term "farm" means, in relation to an eligible producer on a farm, all bees and beehives in all counties that are intended to be harvested for a honey crop for sale by the eligible producer.
 
 #### (10) Farm-raised fish
 
-&emsp;The term “farm-raised fish” means any aquatic species that is propagated and reared in a controlled environment.
+&emsp;The term "farm-raised fish" means any aquatic species that is propagated and reared in a controlled environment.
 
 #### (11) Insurable commodity
 
-&emsp;The term “insurable commodity” means an agricultural commodity (excluding livestock) for which the producer on a farm is eligible to obtain a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
+&emsp;The term "insurable commodity" means an agricultural commodity (excluding livestock) for which the producer on a farm is eligible to obtain a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
 
 #### (12) Livestock
 
-&emsp;The term “livestock” includes—
+&emsp;The term "livestock" includes—
 
 &emsp;&emsp;(A) cattle (including dairy cattle);
 
@@ -120,31 +120,31 @@ In this section:
 
 #### (13) Noninsurable commodity
 
-&emsp;The term “noninsurable commodity” means a crop for which the eligible producers on a farm are eligible to obtain assistance under the noninsured crop assistance program.
+&emsp;The term "noninsurable commodity" means a crop for which the eligible producers on a farm are eligible to obtain assistance under the noninsured crop assistance program.
 
 #### (14) Noninsured crop assistance program
 
-&emsp;The term “noninsured crop assistance program” means the program carried out under section 7333 of title 7.
+&emsp;The term "noninsured crop assistance program" means the program carried out under section 7333 of title 7.
 
 #### (15) Normal production on the farm
 
-&emsp;The term “normal production on the farm” means the sum of the expected revenue for all crops on the farm, as determined under subsection (b)(6)(A).
+&emsp;The term "normal production on the farm" means the sum of the expected revenue for all crops on the farm, as determined under subsection (b)(6)(A).
 
 #### (16) Qualifying natural disaster declaration
 
-&emsp;The term “qualifying natural disaster declaration” means a natural disaster declared by the Secretary for production losses under section 1961(a) of title 7.
+&emsp;The term "qualifying natural disaster declaration" means a natural disaster declared by the Secretary for production losses under section 1961(a) of title 7.
 
 #### (17) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 #### (18) Socially disadvantaged farmer or rancher
 
-&emsp;The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) of title 7.
+&emsp;The term "socially disadvantaged farmer or rancher" has the meaning given the term in section 2279(e) of title 7.
 
 #### (19) State
 
-&emsp;The term “State” means—
+&emsp;The term "State" means—
 
 &emsp;&emsp;(A) a State;
 
@@ -156,11 +156,11 @@ In this section:
 
 #### (20) Trust Fund
 
-&emsp;The term “Trust Fund” means the Agricultural Disaster Relief Trust Fund established under section 2497a of this title.
+&emsp;The term "Trust Fund" means the Agricultural Disaster Relief Trust Fund established under section 2497a of this title.
 
 #### (21) United States
 
-&emsp;The term “United States” when used in a geographical sense, means all of the States.
+&emsp;The term "United States" when used in a geographical sense, means all of the States.
 
 #### (b) Supplemental revenue assistance payments
 
@@ -344,7 +344,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “covered livestock” means livestock of an eligible livestock producer that, during the 60 days prior to the beginning date of a qualifying drought or fire condition, as determined by the Secretary, the eligible livestock producer—
+&emsp;&emsp;&emsp;The term "covered livestock" means livestock of an eligible livestock producer that, during the 60 days prior to the beginning date of a qualifying drought or fire condition, as determined by the Secretary, the eligible livestock producer—
 
 &emsp;&emsp;&emsp;&emsp;(I) owned;
 
@@ -364,17 +364,17 @@ In this section:
 
 #### (ii) Exclusion
 
-&emsp;&emsp;&emsp;The term “covered livestock” does not include livestock that were or would have been in a feedlot, on the beginning date of the qualifying drought or fire condition, as a part of the normal business operation of the eligible livestock producer, as determined by the Secretary.
+&emsp;&emsp;&emsp;The term "covered livestock" does not include livestock that were or would have been in a feedlot, on the beginning date of the qualifying drought or fire condition, as a part of the normal business operation of the eligible livestock producer, as determined by the Secretary.
 
 #### (B) Drought monitor
 
-&emsp;&emsp;The term “drought monitor” means a system for classifying drought severity according to a range of abnormally dry to exceptional drought, as defined by the Secretary.
+&emsp;&emsp;The term "drought monitor" means a system for classifying drought severity according to a range of abnormally dry to exceptional drought, as defined by the Secretary.
 
 #### (C) Eligible livestock producer
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “eligible livestock producer” means an eligible producer on a farm that—
+&emsp;&emsp;&emsp;The term "eligible livestock producer" means an eligible producer on a farm that—
 
 &emsp;&emsp;&emsp;&emsp;(I) is an owner, cash or share lessee, or contract grower of covered livestock that provides the pastureland or grazing land, including cash-leased pastureland or grazing land, for the livestock;
 
@@ -386,15 +386,15 @@ In this section:
 
 #### (ii) Exclusion
 
-&emsp;&emsp;&emsp;The term “eligible livestock producer” does not include an owner, cash or share lessee, or contract grower of livestock that rents or leases pastureland or grazing land owned by another person on a rate-of-gain basis.
+&emsp;&emsp;&emsp;The term "eligible livestock producer" does not include an owner, cash or share lessee, or contract grower of livestock that rents or leases pastureland or grazing land owned by another person on a rate-of-gain basis.
 
 #### (D) Normal carrying capacity
 
-&emsp;&emsp;The term “normal carrying capacity”, with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expected from the grazing land or pastureland for livestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
+&emsp;&emsp;The term "normal carrying capacity", with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expected from the grazing land or pastureland for livestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
 
 #### (E) Normal grazing period
 
-&emsp;&emsp;The term “normal grazing period”, with respect to a county, means the normal grazing period during the calendar year for the county, as determined under paragraph (3)(D)(i).
+&emsp;&emsp;The term "normal grazing period", with respect to a county, means the normal grazing period during the calendar year for the county, as determined under paragraph (3)(D)(i).
 
 #### (2) Program
 
@@ -584,19 +584,19 @@ In this section:
 
 #### (A) Eligible orchardist
 
-&emsp;&emsp;The term “eligible orchardist” means a person that produces annual crops from trees for commercial purposes.
+&emsp;&emsp;The term "eligible orchardist" means a person that produces annual crops from trees for commercial purposes.
 
 #### (B) Natural disaster
 
-&emsp;&emsp;The term “natural disaster” means plant disease, insect infestation, drought, fire, freeze, flood, earthquake, lightning, or other occurrence, as determined by the Secretary.
+&emsp;&emsp;The term "natural disaster" means plant disease, insect infestation, drought, fire, freeze, flood, earthquake, lightning, or other occurrence, as determined by the Secretary.
 
 #### (C) Nursery tree grower
 
-&emsp;&emsp;The term “nursery tree grower” means a person who produces nursery, ornamental, fruit, nut, or Christmas trees for commercial sale, as determined by the Secretary.
+&emsp;&emsp;The term "nursery tree grower" means a person who produces nursery, ornamental, fruit, nut, or Christmas trees for commercial sale, as determined by the Secretary.
 
 #### (D) Tree
 
-&emsp;&emsp;The term “tree” includes a tree, bush, and vine.
+&emsp;&emsp;The term "tree" includes a tree, bush, and vine.
 
 #### (2) Eligibility
 
@@ -626,7 +626,7 @@ In this section:
 
 #### (A) Definitions of legal entity and person
 
-&emsp;&emsp;In this paragraph, the terms “legal entity” and “person” have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
+&emsp;&emsp;In this paragraph, the terms "legal entity" and "person" have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
 
 #### (B) Amount
 
@@ -720,9 +720,9 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) the amount that would have been calculated under subparagraph (A) of subsection (b)(3) if—
 
-&emsp;&emsp;&emsp;&emsp;(I) in clause (i) of that subparagraph, “120 percent” is substituted for “115 percent”; and
+&emsp;&emsp;&emsp;&emsp;(I) in clause (i) of that subparagraph, "120 percent" is substituted for "115 percent"; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in clause (ii) of that subparagraph, “125” <sup>6</sup> is substituted for “120 percent”.
+&emsp;&emsp;&emsp;&emsp;(II) in clause (ii) of that subparagraph, "125" <sup>6</sup> is substituted for "120 percent".
 
 #### (D) Limitation
 
@@ -750,7 +750,7 @@ In this section:
 
 #### (1) Definitions of legal entity and person
 
-&emsp;In this subsection, the terms “legal entity” and “person” have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
+&emsp;In this subsection, the terms "legal entity" and "person" have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
 
 #### (2) Amount
 
@@ -786,7 +786,7 @@ The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(4)(A
 
 The Food Security Act of 1985, referred to in subsec. (d)(3)(A)(ii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
-The date of enactment of this subchapter, referred to in subsecs. (d)(5)(C) and (g)(4)(A), was in the original “the date of enactment of this subtitle”, and was translated as meaning the date of enactment of title IX of Pub. L. 93–618, as added by Pub. L. 110–246, which was approved June 18, 2008, to reflect the probable intent of Congress.
+The date of enactment of this subchapter, referred to in subsecs. (d)(5)(C) and (g)(4)(A), was in the original "the date of enactment of this subtitle", and was translated as meaning the date of enactment of title IX of Pub. L. 93–618, as added by Pub. L. 110–246, which was approved June 18, 2008, to reflect the probable intent of Congress.
 
 Section 1001(a) of the Food Security Act of 1985 (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008), referred to in subsecs. (f)(4)(A) and (h)(1), means section 1001(a) of Pub. L. 99–198, as amended by section 1603 of Pub. L. 110–246, which is classified to section 1308(a) of Title 7, Agriculture.
 
@@ -800,31 +800,31 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 <b>2009</b>—Subsec. (g)(7). Pub. L. 111–5 added par. (7).
 
-Subsec. (g)(7)(F). Pub. L. 111–80, §745(b)(1), inserted “(including multiyear assistance)” after “assistance” in introductory provisions.
+Subsec. (g)(7)(F). Pub. L. 111–80, §745(b)(1), inserted "(including multiyear assistance)" after "assistance" in introductory provisions.
 
-Subsec. (g)(7)(F)(i). Pub. L. 111–80, §745(b)(2), inserted “or multiyear production losses” after “a production loss”.
+Subsec. (g)(7)(F)(i). Pub. L. 111–80, §745(b)(2), inserted "or multiyear production losses" after "a production loss".
 
 <b>2008</b>—Subsec. (a)(2). Pub. L. 110–398, §2(b)(1)(F), added par. (2). Former par. (2) redesignated (3).
 
 Subsec. (a)(3). Pub. L. 110–398, §2(b)(1)(E), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (a)(3)(B). Pub. L. 110–398, §2(b)(1)(A), inserted “has” after “on a farm that”.
+Subsec. (a)(3)(B). Pub. L. 110–398, §2(b)(1)(A), inserted "has" after "on a farm that".
 
 Subsec. (a)(4). Pub. L. 110–398, §2(b)(1)(E), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Pub. L. 110–398, §2(b)(1)(B), substituted “under—” for “section 7912 of title 7, section 1102 of the Food, Conservation, and Energy Act of 2008, or a successor section.” and added cls. (i) to (iii).
+Pub. L. 110–398, §2(b)(1)(B), substituted "under—" for "section 7912 of title 7, section 1102 of the Food, Conservation, and Energy Act of 2008, or a successor section." and added cls. (i) to (iii).
 
 Subsec. (a)(5). Pub. L. 110–398, §2(b)(1)(E), redesignated par. (4) as (5). Former par. (5) redesignated (7).
 
-Subsec. (a)(5)(B)(ii). Pub. L. 110–398, §2(b)(1)(C), substituted “the actual production on the farm is less than 50 percent of the normal production on the farm.” for “, the total loss of production of the farm relating to weather is greater than 50 percent of the normal production of the farm, as determined by the Secretary.”
+Subsec. (a)(5)(B)(ii). Pub. L. 110–398, §2(b)(1)(C), substituted "the actual production on the farm is less than 50 percent of the normal production on the farm." for ", the total loss of production of the farm relating to weather is greater than 50 percent of the normal production of the farm, as determined by the Secretary."
 
 Subsec. (a)(6). Pub. L. 110–398, §2(b)(1)(G), added par. (6). Former par. (6) redesignated (8).
 
 Subsec. (a)(7). Pub. L. 110–398, §2(b)(1)(E), redesignated par. (5) as (7). Former par. (7) redesignated (9).
 
-Subsec. (a)(7)(A). Pub. L. 110–398, §2(b)(1)(D)(i), inserted “for sale or on-farm livestock feeding (including native grassland intended for haying)” after “harvest”.
+Subsec. (a)(7)(A). Pub. L. 110–398, §2(b)(1)(D)(i), inserted "for sale or on-farm livestock feeding (including native grassland intended for haying)" after "harvest".
 
-Subsec. (a)(7)(C). Pub. L. 110–398, §2(b)(1)(D)(ii), inserted “for sale” after “crop”.
+Subsec. (a)(7)(C). Pub. L. 110–398, §2(b)(1)(D)(ii), inserted "for sale" after "crop".
 
 Subsec. (a)(8) to (14). Pub. L. 110–398, §2(b)(1)(E), redesignated pars. (6) to (12) as (8) to (14), respectively. Former pars. (13) and (14) redesignated (16) and (17), respectively.
 
@@ -832,45 +832,45 @@ Subsec. (a)(15). Pub. L. 110–398, §2(b)(1)(H), added par. (15). Former par. (
 
 Subsec. (a)(16) to (21). Pub. L. 110–398, §2(b)(1)(E), redesignated pars. (13) to (18) as (16) to (21), respectively.
 
-Subsec. (b)(1). Pub. L. 110–398, §2(b)(2)(A), substituted “Payments” for “In general” as par. heading, inserted subpar. (A) designation and heading, and added subpar. (B).
+Subsec. (b)(1). Pub. L. 110–398, §2(b)(2)(A), substituted "Payments" for "In general" as par. heading, inserted subpar. (A) designation and heading, and added subpar. (B).
 
 Subsec. (b)(2)(C). Pub. L. 110–398, §2(b)(2)(B), added subpar. (C).
 
-Subsec. (b)(3)(A)(ii)(III). Pub. L. 110–398, §2(b)(2)(C)(i), inserted “50 percent of” before “the higher of” in introductory provisions.
+Subsec. (b)(3)(A)(ii)(III). Pub. L. 110–398, §2(b)(2)(C)(i), inserted "50 percent of" before "the higher of" in introductory provisions.
 
-Subsec. (b)(3)(A)(ii)(III)(aa). Pub. L. 110–398, §2(b)(2)(C)(ii), struck out “guarantee” after “yield”.
+Subsec. (b)(3)(A)(ii)(III)(aa). Pub. L. 110–398, §2(b)(2)(C)(ii), struck out "guarantee" after "yield".
 
-Subsec. (b)(4)(A)(i)(I). Pub. L. 110–398, §2(b)(2)(D)(i)(I), added subcl. (I) and struck out former subcl. (I) which read as follows: “the actual crop acreage harvested by an eligible producer on a farm;”.
+Subsec. (b)(4)(A)(i)(I). Pub. L. 110–398, §2(b)(2)(D)(i)(I), added subcl. (I) and struck out former subcl. (I) which read as follows: "the actual crop acreage harvested by an eligible producer on a farm;".
 
-Subsec. (b)(4)(A)(i)(II), (III). Pub. L. 110–398, §2(b)(2)(D)(i), redesignated subcl. (III) as (II) and struck out former subcl. (II) which read as follows: “the estimated actual yield of the crop production; and”.
+Subsec. (b)(4)(A)(i)(II), (III). Pub. L. 110–398, §2(b)(2)(D)(i), redesignated subcl. (III) as (II) and struck out former subcl. (II) which read as follows: "the estimated actual yield of the crop production; and".
 
 Subsec. (b)(4)(B)(iii). Pub. L. 110–398, §2(b)(2)(D)(ii), (iii), added cl. (iii).
 
-Subsec. (b)(5). Pub. L. 110–398, §2(b)(2)(E)(i), struck out “the sum obtained by adding” after “equal” in introductory provisions.
+Subsec. (b)(5). Pub. L. 110–398, §2(b)(2)(E)(i), struck out "the sum obtained by adding" after "equal" in introductory provisions.
 
-Subsec. (b)(5)(A). Pub. L. 110–398, §2(b)(2)(E)(ii)(I), substituted “for each insurable commodity, the product” for “the product” in introductory provisions.
+Subsec. (b)(5)(A). Pub. L. 110–398, §2(b)(2)(E)(ii)(I), substituted "for each insurable commodity, the product" for "the product" in introductory provisions.
 
-Subsec. (b)(5)(A)(i). Pub. L. 110–398, §2(b)(2)(E)(ii)(II), substituted “greater” for “greatest”.
+Subsec. (b)(5)(A)(i). Pub. L. 110–398, §2(b)(2)(E)(ii)(II), substituted "greater" for "greatest".
 
-Subsec. (b)(5)(A)(iii). Pub. L. 110–398, §2(b)(2)(E)(ii)(III), substituted “of the price election for the commodity used to calculate an indemnity for an applicable policy of insurance if an indemnity is triggered; and” for “of the insurance price guarantee; and”.
+Subsec. (b)(5)(A)(iii). Pub. L. 110–398, §2(b)(2)(E)(ii)(III), substituted "of the price election for the commodity used to calculate an indemnity for an applicable policy of insurance if an indemnity is triggered; and" for "of the insurance price guarantee; and".
 
-Subsec. (b)(5)(B). Pub. L. 110–398, §2(b)(2)(E)(iii)(I), substituted “for each noninsurable crop, the product” for “the product” in introductory provisions.
+Subsec. (b)(5)(B). Pub. L. 110–398, §2(b)(2)(E)(iii)(I), substituted "for each noninsurable crop, the product" for "the product" in introductory provisions.
 
 Subsec. (b)(5)(B)(ii), (iii). Pub. L. 110–398, §2(b)(2)(E)(iii)(II)–(IV), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
 Subsec. (b)(6). Pub. L. 110–398, §2(b)(2)(F), added par. (6).
 
-Subsec. (d)(5)(B)(ii). Pub. L. 110–398, §2(b)(3), substituted “subsection” for “section”.
+Subsec. (d)(5)(B)(ii). Pub. L. 110–398, §2(b)(3), substituted "subsection" for "section".
 
-Subsec. (f)(2)(A). Pub. L. 110–398, §2(b)(4), substituted “the Secretary shall use such sums as are necessary from the Trust Fund to provide” for “the Secretary shall provide” in introductory provisions.
+Subsec. (f)(2)(A). Pub. L. 110–398, §2(b)(4), substituted "the Secretary shall use such sums as are necessary from the Trust Fund to provide" for "the Secretary shall provide" in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 110–398, §2(b)(6)(A)(i), substituted “(other than subsections (c) and (d))” for “(other than subsection (c))” in introductory provisions.
+Subsec. (g)(1). Pub. L. 110–398, §2(b)(6)(A)(i), substituted "(other than subsections (c) and (d))" for "(other than subsection (c))" in introductory provisions.
 
-Subsec. (g)(1)(A). Pub. L. 110–398, §2(b)(6)(A)(ii), inserted “, excluding grazing land” after “producers on the farm”.
+Subsec. (g)(1)(A). Pub. L. 110–398, §2(b)(6)(A)(ii), inserted ", excluding grazing land" after "producers on the farm".
 
-Subsec. (g)(2). Pub. L. 110–398, §2(b)(6)(B), substituted “planted or” for “grazed, planted, or”.
+Subsec. (g)(2). Pub. L. 110–398, §2(b)(6)(B), substituted "planted or" for "grazed, planted, or".
 
-Subsec. (g)(4). Pub. L. 110–398, §2(b)(6)(C), (D), substituted “Waivers for certain crop years” for “Waiver for 2008 crop year” in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
+Subsec. (g)(4). Pub. L. 110–398, §2(b)(6)(C), (D), substituted "Waivers for certain crop years" for "Waiver for 2008 crop year" in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
 
 Subsec. (g)(6). Pub. L. 110–398, §2(b)(5), added par. (6).
 
@@ -882,7 +882,7 @@ Enactment of this subchapter and repeal of Pub. L. 110–234 by Pub. L. 110–24
 
 #### Transition Provisions
 
-Pub. L. 110–234, title XV, §15101(b), May 22, 2008, 122 Stat. 1499, and Pub. L. 110–246, §4(a), title XV, §15101(b), June 18, 2008, 122 Stat. 1664, 2261, provided that: “For purposes of the 2008 crop year, the Secretary \[of Agriculture\] shall carry out subsections (f)(4) and (h) of section 901 of the Trade Act of 1974 \[19 U.S.C. 2497(f)(4), (h)\] (as added by subsection (a)) in accordance with the terms and conditions of sections 1001 through 1001D of the Food Security Act of 1985 (16 \[probably should be 7\] U.S.C. 1308 et seq.), as in effect on September 30, 2007.”
+Pub. L. 110–234, title XV, §15101(b), May 22, 2008, 122 Stat. 1499, and Pub. L. 110–246, §4(a), title XV, §15101(b), June 18, 2008, 122 Stat. 1664, 2261, provided that: "For purposes of the 2008 crop year, the Secretary \[of Agriculture\] shall carry out subsections (f)(4) and (h) of section 901 of the Trade Act of 1974 \[19 U.S.C. 2497(f)(4), (h)\] (as added by subsection (a)) in accordance with the terms and conditions of sections 1001 through 1001D of the Food Security Act of 1985 (16 \[probably should be 7\] U.S.C. 1308 et seq.), as in effect on September 30, 2007."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
@@ -896,7 +896,7 @@ Pub. L. 110–234, title XV, §15101(b), May 22, 2008, 122 Stat. 1499, and Pub. 
 
 <i><sup>5</sup></i><i> So in original. There probably should be a second closing parenthesis.</i>
 
-<i><sup>6</sup></i><i> So in original. Probably should be “ ‘125 percent’ ”.</i>
+<i><sup>6</sup></i><i> So in original. Probably should be " '125 percent' ".</i>
 
 <i><sup>7</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
 

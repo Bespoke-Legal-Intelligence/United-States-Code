@@ -4,5 +4,5 @@ The State of New York shall have jurisdiction over offenses committed by or agai
 
 (July 2, 1948, ch. 809, 62 Stat. 1224.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "of".</i>
 

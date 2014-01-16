@@ -28,9 +28,9 @@ The head of each Federal agency and department shall design and implement a comp
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b). Pub. L. 111–13 amended subsec. (b) generally. Prior to amendment, text read as follows: “Not later than 180 days after November 16, 1990, and on a regular basis thereafter, the head of each Federal agency and department shall prepare and submit, to the appropriate Committees of Congress, a report concerning the implementation of this section.”
+<b>2009</b>—Subsec. (b). Pub. L. 111–13 amended subsec. (b) generally. Prior to amendment, text read as follows: "Not later than 180 days after November 16, 1990, and on a regular basis thereafter, the head of each Federal agency and department shall prepare and submit, to the appropriate Committees of Congress, a report concerning the implementation of this section."
 
-<b>1993</b>—Subsec. (a)(2), (3). Pub. L. 103–82 substituted “partnership” for “adult volunteer and partnership” wherever appearing.
+<b>1993</b>—Subsec. (a)(2), (3). Pub. L. 103–82 substituted "partnership" for "adult volunteer and partnership" wherever appearing.
 
 #### Effective Date of 2009 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Eligible Surface Warfare Officer Defined.—In this section, the term “eligible surface warfare officer” means an officer of the Regular Navy or Navy Reserve on active duty who—
+Eligible Surface Warfare Officer Defined.—In this section, the term "eligible surface warfare officer" means an officer of the Regular Navy or Navy Reserve on active duty who—
 
 &emsp;(1) is qualified and serving as a surface warfare officer;
 
@@ -38,15 +38,15 @@ Regulations.—The Secretary of the Navy shall prescribe regulations to carry ou
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163, §515(d)(1)(E), substituted “Navy Reserve” for “Naval Reserve” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §515(d)(1)(E), substituted "Navy Reserve" for "Naval Reserve" in introductory provisions.
 
 Subsec. (f). Pub. L. 109–163, §687(b)(28), amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when officer receives bonus but fails to complete total period of agreed upon active duty as department head on surface vessel.
 
-<b>2001</b>—Subsec. (a)(3). Pub. L. 107–107 inserted “or is within one year of completing such commitment” before period at end.
+<b>2001</b>—Subsec. (a)(3). Pub. L. 107–107 inserted "or is within one year of completing such commitment" before period at end.
 
 #### Effective Date
 
-Pub. L. 106–65, div. A, title VI, §627(b), Oct. 5, 1999, 113 Stat. 657, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 1999.”
+Pub. L. 106–65, div. A, title VI, §627(b), Oct. 5, 1999, 113 Stat. 657, provided that: "The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 1999."
 
 #### Savings Provision
 

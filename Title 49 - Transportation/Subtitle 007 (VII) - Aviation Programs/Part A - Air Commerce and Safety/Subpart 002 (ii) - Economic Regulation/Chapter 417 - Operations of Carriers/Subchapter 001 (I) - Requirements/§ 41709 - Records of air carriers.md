@@ -48,9 +48,9 @@ Aug. 23, 1958, Pub. L. 85–726, §407(e) (1st–3d sentences), 72 Stat. 766; Ja
 
 49 App.:1551(b)(1)(E).
 
-In subsection (a), the word “unreasonable” is substituted for “undue” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the word "unreasonable" is substituted for "undue" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b)(1)(A) and (B), the word “inspect” is substituted for “have access to” for consistency in the revised title and with other titles of the Code.
+In subsection (b)(1)(A) and (B), the word "inspect" is substituted for "have access to" for consistency in the revised title and with other titles of the Code.
 
-In subsection (b)(2), the words “to carry out this subsection” are substituted for “who shall have authority under the orders of the Board to inspect and examine lands, buildings, equipment, accounts, records, and memorandums to which the Board has access under this subsection” to eliminate unnecessary words.
+In subsection (b)(2), the words "to carry out this subsection" are substituted for "who shall have authority under the orders of the Board to inspect and examine lands, buildings, equipment, accounts, records, and memorandums to which the Board has access under this subsection" to eliminate unnecessary words.
 

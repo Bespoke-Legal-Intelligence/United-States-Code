@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The plan described in section 402(h)(2)(C) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)(2)(C)) shall include any amount transferred to the plan under subsections (h) and (i) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232).
+&emsp;&emsp;The plan described in section 402(h)(2)(C) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)(2)(C)) shall include any amount transferred to the plan under subsections (h) and (i) of <sup>1</sup> the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232).
 
 #### (B) Use of funds
 
@@ -40,11 +40,11 @@
 
 #### (1) In general
 
-&emsp;The 1992 UMWA Benefit Plan shall only provide health benefits coverage to any eligiblebeneficiary who is not eligible for benefits under the Combined Fund and shall not provide such coverage to any other individual.
+&emsp;The 1992 UMWA Benefit Plan shall only provide health benefits coverage to any eligible beneficiary who is not eligible for benefits under the Combined Fund and shall not provide such coverage to any other individual.
 
 #### (2) Eligible beneficiary
 
-&emsp;For purposes of this section, the term “eligible beneficiary” means an individual who—
+&emsp;For purposes of this section, the term "eligible beneficiary" means an individual who—
 
 &emsp;&emsp;(A) but for the enactment of this chapter, would be eligible to receive benefits from the 1950 UMWA Benefit Plan or the 1974 UMWA Benefit Plan, based upon age and service earned as of February 1, 1993; or
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;(C) limiting benefit payments to physicians to the allowable charge under title XVIII of the Social Security Act, while protecting beneficiaries from balance billing by providers,
 
-&emsp;&emsp;(D) utilizing, in the claims payment function “appropriateness of service” protocols under title XVIII of the Social Security Act if more stringent,
+&emsp;&emsp;(D) utilizing, in the claims payment function "appropriateness of service" protocols under title XVIII of the Social Security Act if more stringent,
 
 &emsp;&emsp;(E) creating mandatory utilization review (UR) procedures, but placing the responsibility to follow such procedures on the physician or hospital, not the beneficiaries,
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;(B) The provision of a security (in the form of a bond, letter of credit, or cash escrow) in an amount equal to a portion of the projected future cost to the 1992 UMWA Benefit Plan of providing health benefits for eligible and potentially eligible beneficiaries attributable to the 1988 last signatory operator.
 
-&emsp;&emsp;(C) If the amounts transferred under subsection (a)(3) are less than the amounts required to be transferred to the 1992 UMWA Benefit Plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), the payment of an additional backstop premium by each 1988 last signatory operator which is equal to such operator's share of the amounts required to be so transferred but which were not so transferred, determined on the basis of the number of eligibleand potentially eligible beneficiaries attributable to the operator.
+&emsp;&emsp;(C) If the amounts transferred under subsection (a)(3) are less than the amounts required to be transferred to the 1992 UMWA Benefit Plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), the payment of an additional backstop premium by each 1988 last signatory operator which is equal to such operator's share of the amounts required to be so transferred but which were not so transferred, determined on the basis of the number of eligible and potentially eligible beneficiaries attributable to the operator.
 
 #### (2) Adjustments
 
@@ -128,9 +128,9 @@
 
 #### (6) 1988 last signatory operator
 
-&emsp;For purposes of this section, the term “1988 last signatory operator” means a last signatory operator which is a 1988 agreement operator.
+&emsp;For purposes of this section, the term "1988 last signatory operator" means a last signatory operator which is a 1988 agreement operator.
 
-(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3053; amended Pub. L. 109–432, div. C, title II, §§211(c), 212(b)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 3023, 3025, 3026.)
+(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3053; amended Pub. L. 109–432,div. C, title II, §§211(c), 212(b)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 3023, 3025, 3026.)
 
 #### References in Text
 
@@ -142,13 +142,15 @@ The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 
 
 Subsec. (d)(1). Pub. L. 109–432, §212(b)(2)(A), amended text of par. (1) generally. Prior to amendment, par. (1) provided that the contribution requirements of all 1988 last signatory operators include the payment of an annual prefunding premium for all eligible and potentially eligible beneficiaries, payment of a monthly per beneficiary premium, and provision of security.
 
-Subsec. (d)(2)(B). Pub. L. 109–432, §212(b)(2)(B)(i), substituted “backstop” for “prefunding”.
+Subsec. (d)(2)(B). Pub. L. 109–432, §212(b)(2)(B)(i), substituted "backstop" for "prefunding".
 
-Subsec. (d)(3). Pub. L. 109–432, §212(b)(2)(B)(ii), substituted “paragraph (1)(A)” for “paragraph (1)(B)”.
+Subsec. (d)(3). Pub. L. 109–432, §212(b)(2)(B)(ii), substituted "paragraph (1)(A)" for "paragraph (1)(B)".
 
-Subsec. (d)(4). Pub. L. 109–432, §211(c), inserted at end “The provisions of section 9711(c)(2) shall apply to any last signatory operator described in such section (without regard to whether security is provided under such section, a payment is made under section 9704(j), or both) and if security meeting the requirements of section 9711(c)(3) is provided, the common parent described in section 9711(c)(2)(B) shall be exclusively responsible for any liability for premiums under this section which, but for this sentence, would be required to be paid by the last signatory operator or any related person.”
+Subsec. (d)(4). Pub. L. 109–432, §211(c), inserted at end "The provisions of section 9711(c)(2) shall apply to any last signatory operator described in such section (without regard to whether security is provided under such section, a payment is made under section 9704(j), or both) and if security meeting the requirements of section 9711(c)(3) is provided, the common parent described in section 9711(c)(2)(B) shall be exclusively responsible for any liability for premiums under this section which, but for this sentence, would be required to be paid by the last signatory operator or any related person."
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. C, title II, §212(b)(2)(C), Dec. 20, 2006, 120 Stat. 3026, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to fiscal years beginning on or after October 1, 2010.”
+Pub. L. 109–432, div. C, title II, §212(b)(2)(C), Dec. 20, 2006, 120 Stat. 3026, provided that: "The amendments made by this paragraph \[amending this section\] shall apply to fiscal years beginning on or after October 1, 2010."
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "section 402 of".</i>
 

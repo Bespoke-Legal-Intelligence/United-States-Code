@@ -38,15 +38,15 @@
 
 #### (A) Part D eligible individual
 
-&emsp;&emsp;The term “part D eligible individual” means an individual who is entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter.
+&emsp;&emsp;The term "part D eligible individual" means an individual who is entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter.
 
 #### (B) MA plan
 
-&emsp;&emsp;The term “MA plan” has the meaning given such term in section 1395w–28(b)(1) of this title.
+&emsp;&emsp;The term "MA plan" has the meaning given such term in section 1395w–28(b)(1) of this title.
 
 #### (C) MA–PD plan
 
-&emsp;&emsp;The term “MA–PD plan” means an MA plan that provides qualified prescription drug coverage.
+&emsp;&emsp;The term "MA–PD plan" means an MA plan that provides qualified prescription drug coverage.
 
 #### (b) Enrollment process for prescription drug plans
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;Section 1395w–21(h) of this title, relating to approval of marketing material and application forms.
 
-> &emsp;&emsp;In applying clauses (ii), (iv), and (v) of this subparagraph, any reference to section 1395w–21(e) of this title shall be treated as a reference to such section as applied pursuant to clause (iii) of this subparagraph.
+> &emsp;&emsp;In applying clauses (ii), (iv), and (v) of this subparagraph, any reference to section1395w–21(e) of this title shall be treated as a reference to such section as applied pursuant to clause (iii) of this subparagraph.
 
 #### (C) Special rule
 
@@ -102,7 +102,7 @@
 
 #### (B) Continuing periods
 
-&emsp;&emsp;In the case of an individual who becomes a part D eligible individual after November 15, 2005, there shall be an initial enrollment period which is the period under section 1395w–21(e)(1) of this title, as applied under paragraph (1)(B)(iii) of this section, as if “entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter” were substituted for “entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter”, but in no case shall such period end before the period described in subparagraph (A).
+&emsp;&emsp;In the case of an individual who becomes a part D eligible individual after November 15, 2005, there shall be an initial enrollment period which is the period under section 1395w–21(e)(1) of this title, as applied under paragraph (1)(B)(iii) of this section, as if "entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter" were substituted for "entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter", but in no case shall such period end before the period described in subparagraph (A).
 
 #### (3) Additional special enrollment periods
 
@@ -226,197 +226,197 @@
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(1)(C). Pub. L. 111–148, §3303(b)(1), inserted “except as provided in subparagraph (D),” after “shall include,”.
+<b>2010</b>—Subsec. (b)(1)(C). Pub. L. 111–148, §3303(b)(1), inserted "except as provided in subparagraph (D)," after "shall include,".
 
 Subsec. (b)(1)(D). Pub. L. 111–148, §3303(b)(2), added subpar. (D).
 
-<b>2006</b>—Subsec. (b)(1)(B)(iii). Pub. L. 109–432 substituted “subparagraphs (B), (C), and (E)” for “subparagraphs (B) and (C)”.
+<b>2006</b>—Subsec. (b)(1)(B)(iii). Pub. L. 109–432 substituted "subparagraphs (B), (C), and (E)" for "subparagraphs (B) and (C)".
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title III, §3303(c), Mar. 23, 2010, 124 Stat. 469, provided that: “The amendments made by this subsection \[probably should be “this section”, amending this section and section 1395w–114 of this title\] shall apply to premiums for months, and enrollments for plan years, beginning on or after January 1, 2011.”
+Pub. L. 111–148, title III, §3303(c), Mar. 23, 2010, 124 Stat. 469, provided that: "The amendments made by this subsection \[probably should be "this section", amending this section and section 1395w–114 of this title\] shall apply to premiums for months, and enrollments for plan years, beginning on or after January 1, 2011."
 
 #### Office of the Inspector General Studies and Reports
 
 Pub. L. 111–148, title III, §3313, Mar. 23, 2010, 124 Stat. 477, provided that:
 
-“(a)
+"(a)
 
-Study and Annual Report on Part D Formularies’ Inclusion of Drugs Commonly Used by Dual Eligibles.—
+Study and Annual Report on Part D Formularies' Inclusion of Drugs Commonly Used by Dual Eligibles.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-Study.—The Inspector General of the Department of Health and Human Services shall conduct a study of the extent to which formularies used by prescription drug plans and MA–PD plans under part D \[this part\] include drugs commonly used by full-benefit dual eligible individuals (as defined in section 1935(c)(6) of the Social Security Act (42 U.S.C. 1396u–5(c)(6))).
+Study.—The Inspector General of the Department of Health and Human Services shall conduct a study of the extent to which formularies used by prescription drug plans and MA–PD plans under part D \[42 U.S.C. 1395w–101 et seq.\] include drugs commonly used by full-benefit dual eligible individuals (as defined in section 1935(c)(6) of the Social Security Act (42 U.S.C. 1396u–5(c)(6))).
 
-&emsp;“(2)
+&emsp;"(2)
 
-Annual reports.—Not later than July 1 of each year (beginning with 2011), the Inspector General shall submit to Congress a report on the study conducted under paragraph (1), together with such recommendations as the Inspector General determines appropriate.
+Annual reports.—Not later than July 1 of each year (beginning with 2011), the Inspector General shall submit to Congress a report on the studyconducted under paragraph (1), together with such recommendations as the Inspector General determines appropriate.
 
-“(b)
+"(b)
 
 Study and Report on Prescription Drug Prices Under Medicare Part D and Medicaid.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Study.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The Inspector General of the Department of Health and Human Services shall conduct a study on prices for covered part D drugs under the Medicare prescription drug program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] and for covered outpatient drugs under title XIX \[42 U.S.C. 1396 et seq.\]. Such study shall include the following:
 
-&emsp;&emsp;&emsp;“(i) A comparison, with respect to the 200 most frequently dispensed covered part D drugs under such program and covered outpatient drugs under such title (as determined by the Inspector General based on volume and expenditures), of—
+&emsp;&emsp;&emsp;"(i) A comparison, with respect to the 200 most frequently dispensed covered part D drugs under such program and covered outpatient drugs under such title (as determined by the Inspector General based on volume and expenditures), of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the prices paid for covered part D drugs by PDP sponsors of prescription drug plans and Medicare Advantage organizations offering MA–PD plans; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the prices paid for covered part D drugs by PDP sponsors of prescription drug plans and Medicare Advantage organizations offering MA–PD plans; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the prices paid for covered outpatient drugs by a State plan under title XIX.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the prices paid for covered outpatient drugs by a State plan under title XIX.
 
-&emsp;&emsp;&emsp;“(ii) An assessment of—
+&emsp;&emsp;&emsp;"(ii) An assessment of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the financial impact of any discrepancies in such prices on the Federal Government; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the financial impact of any discrepancies in such prices on the Federal Government; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the financial impact of any such discrepancies on enrollees under part D or individuals eligible for medical assistance under a State plan under title XIX.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the financial impact of any such discrepancies on enrollees under part D or individuals eligible for medical assistance under a State plan under title XIX.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Price.—For purposes of subparagraph (A), the price of a covered part D drug or a covered outpatient drug shall include any rebate or discount under such program or such title, respectively, including any negotiated price concession described in section 1860D–2(d)(1)(B) of the Social Security Act (42 U.S.C. 1395w–102(d)(1)(B)) or rebate under an agreement under section 1927 of the Social Security Act (42 U.S.C. 1396r–8).
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Authority to collect any necessary information.—Notwithstanding any other provision of law, the Inspector General of the Department of Health and Human Services shall be able to collect any information related to the prices of covered part D drugs under such program and covered outpatient drugs under such title XIX necessary to carry out the comparison under subparagraph (A).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Report.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Not later than October 1, 2011, subject to subparagraph (B), the Inspector General shall submit to Congress a report containing the results of the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Inspector General determines appropriate.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Limitation on information contained in report.—The report submitted under subparagraph (A) shall not include any information that the Inspector General determines is proprietary or is likely to negatively impact the ability of a PDP sponsor or a State plan under title XIX \[42 U.S.C. 1396 et seq.\] to negotiate prices for covered part D drugs or covered outpatient drugs, respectively.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Definitions.—In this section:
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-Covered part d drug.—The term ‘covered part D drug’ has the meaning given such term in section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)).
+Covered part d drug.—The term 'covered part D drug' has the meaning given such term in section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Covered outpatient drug.—The term ‘covered outpatient drug’ has the meaning given such term in section 1927(k) of such Act (42 U.S.C. 1396r\[–8\](k)).
+Covered outpatient drug.—The term 'covered outpatient drug' has the meaning given such term in section 1927(k) of such Act (42 U.S.C. 1396r\[–8\](k)).
 
-&emsp;&emsp;“(C) MA–PD
+&emsp;&emsp;"(C) MA–PD
 
-plan.—The term ‘MA–PD plan’ has the meaning given such term in section 1860D–41(a)(9) of such Act (42 U.S.C. 1395w–151(a)(9)).
+plan.—The term 'MA–PD plan' has the meaning given such term in section 1860D–41(a)(9) of such Act (42 U.S.C. 1395w–151(a)(9)).
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
-Medicare advantage organization.—The term ‘Medicare Advantage organization’ has the meaning given such term in section 1859(a)(1) of such Act (42 U.S.C. 1395w–28)\[sic\](a)(1)).
+Medicare advantage organization.—The term 'Medicare Advantage organization' has the meaning given such term in section 1859(a)(1) of such Act (42 U.S.C. 1395w–28)\[sic\](a)(1)).
 
-&emsp;&emsp;“(E) PDP
+&emsp;&emsp;"(E) PDP
 
-sponsor.—The term ‘PDP sponsor’ has the meaning given such term in section 1860D–41(a)(13) of such Act (42 U.S.C. 1395w–151(a)(13)).
+sponsor.—The term 'PDP sponsor' has the meaning given such term in section 1860D–41(a)(13) of such Act (42 U.S.C. 1395w–151(a)(13)).
 
-&emsp;&emsp;“(F)
+&emsp;&emsp;"(F)
 
-Prescription drug plan.—The term ‘prescription drug plan’ has the meaning given such term in section 1860D–41(a)(14) of such Act (42 U.S.C. 1395w–151(a)(14)).”
+Prescription drug plan.—The term 'prescription drug plan' has the meaning given such term in section 1860D–41(a)(14) of such Act (42 U.S.C. 1395w–151(a)(14))."
 
 #### Submission of Legislative Proposal
 
-Pub. L. 108–173, title I, §101(b), Dec. 8, 2003, 117 Stat. 2150, provided that: “Not later than 6 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall submit to the appropriate committees of Congress a legislative proposal providing for such technical and conforming amendments in the law as are required by the provisions of this title and title II \[see Tables for classification\].”
+Pub. L. 108–173, title I, §101(b), Dec. 8, 2003, 117 Stat. 2150, provided that: "Not later than 6 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall submit to the appropriate committees of Congress a legislative proposal providing for such technical and conforming amendments in the law as are required by the provisions of this title and title II \[see Tables for classification\]."
 
 #### Study on Transitioning Part B Prescription Drug Coverage
 
-Pub. L. 108–173, title I, §101(c), Dec. 8, 2003, 117 Stat. 2150, provided that: “Not later than January 1, 2005, the Secretary \[of Health and Human Services\] shall submit a report to Congress that makes recommendations regarding methods for providing benefits under subpart 1 of part D of title XVIII of the Social Security Act \[this subpart\] for outpatient prescription drugs for which benefits are provided under part B of such title \[part B of this subchapter\].”
+Pub. L. 108–173, title I, §101(c), Dec. 8, 2003, 117 Stat. 2150, provided that: "Not later than January 1, 2005, the Secretary \[of Health and Human Services\] shall submit a report to Congress that makes recommendations regarding methods for providing benefits under subpart 1 of part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] for outpatient prescription drugs for which benefits are provided under part B of such title \[42 U.S.C. 1395j et seq.\]."
 
 #### Report on Progress in Implementation of Prescription Drug Benefit
 
-Pub. L. 108–173, title I, §101(d), Dec. 8, 2003, 117 Stat. 2150, provided that: “Not later than March 1, 2005, the Secretary \[of Health and Human Services\] shall submit a report to Congress on the progress that has been made in implementing the prescription drug benefit under this title \[see Tables for classification\]. The Secretary shall include in the report specific steps that have been taken, and that need to be taken, to ensure a timely start of the program on January 1, 2006. The report shall include recommendations regarding an appropriate transition from the program under section 1860D–31 of the Social Security Act \[section 1395w–141 of this title\] to prescription drug benefits under subpart 1 of part D of title XVIII of such Act \[this subpart\].”
+Pub. L. 108–173, title I, §101(d), Dec. 8, 2003, 117 Stat. 2150, provided that: "Not later than March 1, 2005, the Secretary \[of Health and Human Services\] shall submit a report to Congress on the progress that has been made in implementing the prescription drug benefit under this title \[see Tables for classification\]. The Secretary shall include in the report specific steps that have been taken, and that need to be taken, to ensure a timely start of the program on January 1, 2006. The report shall include recommendations regarding an appropriate transition from the program under section 1860D–31 of the Social Security Act \[42 U.S.C. 1395w–141\] to prescription drug benefits under subpart 1 of part D of title XVIII of such Act \[42 U.S.C. 1395w–101 et seq.\]."
 
 #### State Pharmaceutical Assistance Transition Commission
 
 Pub. L. 108–173, title I, §106, Dec. 8, 2003, 117 Stat. 2168, provided that:
 
-“(a)
+"(a)
 
 Establishment.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—There is established, as of the first day of the third month beginning after the date of the enactment of this Act \[Dec. 8, 2003\], a State Pharmaceutical Assistance Transition Commission (in this section referred to as the ‘Commission’) to develop a proposal for addressing the unique transitional issues facing State pharmaceutical assistance programs, and program participants, due to the implementation of the voluntary prescription drug benefit program under part D of title XVIII of the Social Security Act \[this part\], as added by section 101.
+In general.—There is established, as of the first day of the third month beginning after the date of the enactment of this Act \[Dec. 8, 2003\], a State Pharmaceutical Assistance Transition Commission (in this section referred to as the 'Commission') to develop a proposal for addressing the unique transitional issues facing State pharmaceutical assistance programs, and program participants, due to the implementation of the voluntary prescription drug benefit program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\], as added by section 101.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Definitions.—For purposes of this section:
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-State pharmaceutical assistance program defined.—The term ‘State pharmaceutical assistance program’ means a program (other than the medicaid program) operated by a State (or under contract with a State) that provides as of the date of the enactment of this Act \[Dec. 8, 2003\] financial assistance to medicare beneficiaries for the purchase of prescription drugs.
+State pharmaceutical assistance program defined.—The term 'State pharmaceutical assistance program' means a program (other than the medicaid program) operated by a State (or under contract with a State) that provides as of the date of the enactment of this Act \[Dec. 8, 2003\] financial assistance to medicare beneficiaries for the purchase of prescription drugs.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Program participant.—The term ‘program participant’ means a low-income medicare beneficiary who is a participant in a State pharmaceutical assistance program.
+Program participant.—The term 'program participant' means a low-income medicare beneficiary who is a participant in a State pharmaceutical assistance program.
 
-“(b)
+"(b)
 
 Composition.—The Commission shall include the following:
 
-&emsp;“(1) A representative of each Governor of each State that the Secretary \[of Health and Human Services\] identifies as operating on a statewide basis a State pharmaceutical assistance program that provides for eligibility and benefits that are comparable or more generous than the low-income assistance eligibility and benefits offered under section 1860D–14 of the Social Security Act \[section 1395w–114 of this title\].
+&emsp;"(1) A representative of each Governor of each State that the Secretary \[of Health and Human Services\] identifies as operating on a statewide basis a State pharmaceutical assistance program that provides for eligibility and benefits that are comparable or more generous than the low-income assistance eligibility and benefits offered under section 1860D–14 of the Social Security Act \[42 U.S.C. 1395w–114\].
 
-&emsp;“(2) Representatives from other States that the Secretary identifies have in operation other State pharmaceutical assistance programs, as appointed by the Secretary.
+&emsp;"(2) Representatives from other States that the Secretary identifies have in operation other State pharmaceutical assistance programs, as appointed by the Secretary.
 
-&emsp;“(3) Representatives of organizations that have an inherent interest in program participants or the program itself, as appointed by the Secretary but not to exceed the number of representatives under paragraphs (1) and (2).
+&emsp;"(3) Representatives of organizations that have an inherent interest in program participants or the program itself, as appointed by the Secretary but not to exceed the number of representatives under paragraphs (1) and (2).
 
-&emsp;“(4) Representatives of Medicare Advantage organizations, pharmaceutical benefit managers, and other private health insurance plans, as appointed by the Secretary.
+&emsp;"(4) Representatives of Medicare Advantage organizations, pharmaceutical benefit managers, and other private health insurance plans, as appointed by the Secretary.
 
-&emsp;“(5) The Secretary (or the Secretary's designee) and such other members as the Secretary may specify.
+&emsp;"(5) The Secretary (or the Secretary's designee) and such other members as the Secretary may specify.
 
 > The Secretary shall designate a member to serve as Chair of the Commission and the Commission shall meet at the call of the Chair.
 
-“(c)
+"(c)
 
 Development of Proposal.—The Commission shall develop the proposal described in subsection (a) in a manner consistent with the following principles:
 
-&emsp;“(1) Protection of the interests of program participants in a manner that is the least disruptive to such participants and that includes a single point of contact for enrollment and processing of benefits.
+&emsp;"(1) Protection of the interests of program participants in a manner that is the least disruptive to such participants and that includes a single point of contact for enrollment and processing of benefits.
 
-&emsp;“(2) Protection of the financial and flexibility interests of States so that States are not financially worse off as a result of the enactment of this title \[see Tables for classification\].
+&emsp;"(2) Protection of the financial and flexibility interests of States so that States are not financially worse off as a result of the enactment of this title \[see Tables for classification\].
 
-&emsp;“(3) Principles of medicare modernization under this Act \[see Tables for classification\].
+&emsp;"(3) Principles of medicare modernization under this Act \[see Tables for classification\].
 
-“(d)
+"(d)
 
 Report.—By not later than January 1, 2005, the Commission shall submit to the President and Congress a report that contains a detailed proposal (including specific legislative or administrative recommendations, if any) and such other recommendations as the Commission deems appropriate.
 
-“(e)
+"(e)
 
 Support.—The Secretary shall provide the Commission with the administrative support services necessary for the Commission to carry out its responsibilities under this section.
 
-“(f)
+"(f)
 
-Termination.—The Commission shall terminate 30 days after the date of submission of the report under subsection (d).”
+Termination.—The Commission shall terminate 30 days after the date of submission of the report under subsection (d)."
 
 #### Conflict of Interest Study
 
 Pub. L. 108–173, title I, §110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
-“(a)
+"(a)
 
 Study.—The Federal Trade Commission shall conduct a study of differences in payment amounts for pharmacy services provided to enrollees in group health plans that utilize pharmacy benefit managers. Such study shall include the following:
 
-&emsp;“(1) An assessment of the differences in costs incurred by such enrollees and plans for prescription drugs dispensed by mail-order pharmacies owned by pharmaceutical benefit managers compared to mail-order pharmacies not owned by pharmaceutical benefit managers, and community pharmacies.
+&emsp;"(1) An assessment of the differences in costs incurred by such enrollees and plans for prescription drugs dispensed by mail-order pharmacies owned by pharmaceutical benefit managers compared to mail-order pharmacies not owned by pharmaceutical benefit managers, and community pharmacies.
 
-&emsp;“(2) Whether such plans are acting in a manner that maximizes competition and results in lower prescription drug prices for enrollees.
+&emsp;"(2) Whether such plans are acting in a manner that maximizes competition and results in lower prescription drug prices for enrollees.
 
-“(b)
+"(b)
 
-Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Commission shall submit to Congress a report on the study conducted under subsection (a). Such report shall include recommendations regarding any need for legislation to ensure the fiscal integrity of the voluntary prescription drug benefit program under part D of title XVIII \[this part\], as added by section 101, that may be appropriated as the result of such study.
+Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Commission shall submit to Congress a report on the study conducted under subsection (a). Such report shall include recommendations regarding any need for legislation to ensure the fiscal integrity of the voluntary prescription drug benefit program under part D of title XVIII \[42 U.S.C. 1395w–101 et seq.\], as added by section 101, that may be appropriated as the result of such study.
 
-“(c)
+"(c)
 
-Exemption From Paperwork Reduction Act.—Chapter 35 of title 44, United States Code, shall not apply to the collection of information under subsection (a).”
+Exemption From Paperwork Reduction Act.—Chapter 35 of title 44, United States Code, shall not apply to the collection of information under subsection (a)."
 
 <i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
 

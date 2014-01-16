@@ -62,13 +62,13 @@ Aug. 10, 1982, Pub. L. 97–234, §8(a)–(e), 96 Stat. 262.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “as such” are substituted for “acting as such officer or director” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (b), the words "as such" are substituted for "acting as such officer or director" for consistency in the revised title and to eliminate unnecessary words.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–284 substituted “board of directors” for “board or directors”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–284 substituted "board of directors" for "board or directors".
 

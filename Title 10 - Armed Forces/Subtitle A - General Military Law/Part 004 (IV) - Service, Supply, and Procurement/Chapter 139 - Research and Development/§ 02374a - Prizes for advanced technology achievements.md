@@ -48,37 +48,39 @@ Suspension of authority for failure to include information.—For each program u
 
 (f)
 
-Period of Authority.—The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2013.
+Period of Authority.—The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2018.
 
-(Added Pub. L. 106–65, div. A, title II, §244(a), Oct. 5, 1999, 113 Stat. 552; amended Pub. L. 107–314, div. A, title II, §248(a), Dec. 2, 2002, 116 Stat. 2502; Pub. L. 108–136, div. A, title X, §1031(a)(20), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–163, div. A, title II, §257, Jan. 6, 2006, 119 Stat. 3184; Pub. L. 109–364, div. A, title II, §212, Oct. 17, 2006, 120 Stat. 2119; Pub. L. 111–84, div. A, title II, §253, Oct. 28, 2009, 123 Stat. 2243; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324.)
+(Added Pub. L. 106–65, div. A, title II, §244(a), Oct. 5, 1999, 113 Stat. 552; amended Pub. L. 107–314, div. A, title II, §248(a), Dec. 2, 2002, 116 Stat. 2502; Pub. L. 108–136, div. A, title X, §1031(a)(20), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–163, div. A, title II, §257, Jan. 6, 2006, 119 Stat. 3184; Pub. L. 109–364, div. A, title II, §212, Oct. 17, 2006, 120 Stat. 2119; Pub. L. 111–84, div. A, title II, §253, Oct. 28, 2009, 123 Stat. 2243; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 113–66, div. A, title II, §263, Dec. 26, 2013, 127 Stat. 726.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
+<b>2013</b>—Subsec. (f). Pub. L. 113–66 substituted "September 30, 2018" for "September 30, 2013".
 
-<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “2013” for “2010”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "Assistant Secretary of Defense for Research and Engineering" for "Director of Defense Research and Engineering".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–364, §212(a)(1), substituted “Director of Defense Research and Engineering and the service acquisition executive for each military department” for “Director of the Defense Advanced Research Projects Agency” and “programs” for “a program”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted "2013" for "2010".
 
-Subsec. (b). Pub. L. 109–364, §212(a)(2)(A), substituted “Each program” for “The program”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364, §212(a)(1), substituted "Director of Defense Research and Engineering and the service acquisition executive for each military department" for "Director of the Defense Advanced Research Projects Agency" and "programs" for "a program".
 
-Subsec. (d). Pub. L. 109–364, §212(a)(2)(B), substituted “A program” for “The program” and “an official referred to in that subsection” for “the Director”.
+Subsec. (b). Pub. L. 109–364, §212(a)(2)(A), substituted "Each program" for "The program".
+
+Subsec. (d). Pub. L. 109–364, §212(a)(2)(B), substituted "A program" for "The program" and "an official referred to in that subsection" for "the Director".
 
 Subsec. (e). Pub. L. 109–364, §212(c), reenacted heading without change and amended text generally. Prior to amendment, subsec. (e) required an annual report, which included the results of consultations between the Director and officials of the military departments, a description of goals, cash prizes, methods used for submissions, a description of resources, and a description of transition plans.
 
-Pub. L. 109–163 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Promptly after the end of each fiscal year during which one or more prizes are awarded under the program under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the administration of the program for that fiscal year. The report shall include the following:
+Pub. L. 109–163 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Promptly after the end of each fiscal year during which one or more prizes are awarded under the program under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the administration of the program for that fiscal year. The report shall include the following:
 
-&emsp;“(1) The military applications of the research, technology, or prototypes for which prizes were awarded.
+&emsp;"(1) The military applications of the research, technology, or prototypes for which prizes were awarded.
 
-&emsp;“(2) The total amount of the prizes awarded.
+&emsp;"(2) The total amount of the prizes awarded.
 
-&emsp;“(3) The methods used for solicitation and evaluation of submissions, together with an assessment of the effectiveness of those methods.”
+&emsp;"(3) The methods used for solicitation and evaluation of submissions, together with an assessment of the effectiveness of those methods."
 
-Subsec. (f). Pub. L. 109–364, §212(b), substituted “2010” for “2007”.
+Subsec. (f). Pub. L. 109–364, §212(b), substituted "2010" for "2007".
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–136 inserted “during which one or more prizes are awarded under the program under subsection (a)” after “each fiscal year” in introductory provisions.
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 inserted "during which one or more prizes are awarded under the program under subsection (a)" after "each fiscal year" in introductory provisions.
 
-<b>2002</b>—Subsec. (f). Pub. L. 107–314 substituted “September 30, 2007” for “September 30, 2003”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–314 substituted "September 30, 2007" for "September 30, 2003".
 
 #### Effective Date of 2011 Amendment
 

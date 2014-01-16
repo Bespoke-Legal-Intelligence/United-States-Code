@@ -2,11 +2,11 @@
 
 (a)
 
-Use of Fuel to Meet Department of Defense Needs.—The Secretary of Defense shall develop a strategy to use fuel produced, in whole or in part, from coal, oil shale, and tar sands (referred to in this section as a “covered fuel”) that are extracted by either mining or in-situ methods and refined or otherwise processed in the United States in order to assist in meeting the fuel requirements of the Department of Defense when the Secretary determines that it is in the national interest.
+Use of Fuel to Meet Department of Defense Needs.—The Secretary of Defense shall develop a strategy to use fuel produced, in whole or in part, from coal, oil shale, and tar sands (referred to in this section as a "covered fuel") that are extracted by either mining or in-situ methods and refined or otherwise processed in the United States in order to assist in meeting the fuel requirements of the Department of Defense when the Secretary determines that it is in the national interest.
 
 (b)
 
-Authority to Procure.—The Secretary of Defense may enter into one or more contracts or other agreements (that meet the requirements of this section) to procure a covered fuel to meetone or more fuel requirements of the Department of Defense.
+Authority to Procure.—The Secretary of Defense may enter into one or more contracts or other agreements (that meet the requirements of this section) to procure a covered fuel to meet one or more fuel requirements of the Department of Defense.
 
 (c)
 
@@ -24,7 +24,7 @@ Fuel Source Analysis.—In order to facilitate the procurement by the Department
 
 #### Amendments
 
-<b>2011</b>—Subsecs. (b), (d). Pub. L. 111–383 substituted “one or more” for “1 or more” wherever appearing.
+<b>2011</b>—Subsecs. (b), (d). Pub. L. 111–383 substituted "one or more" for "1 or more" wherever appearing.
 
 <b>2006</b>—Pub. L. 109–364 renumbered section 2398a of this title as this section.
 

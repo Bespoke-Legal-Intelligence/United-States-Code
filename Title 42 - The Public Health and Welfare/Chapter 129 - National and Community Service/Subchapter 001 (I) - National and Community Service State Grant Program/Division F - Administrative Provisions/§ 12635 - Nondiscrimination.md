@@ -6,9 +6,9 @@
 
 &emsp;An individual with responsibility for the operation of a project that receives assistance under this subchapter shall not discriminate against a participant in, or member of the staff of, such project on the basis of race, color, national origin, sex, age, or political affiliation of such participant or member, or on the basis of disability, if the participant or member is a qualified individual with a disability.
 
-#### (2) “Qualified individual with a disability” defined
+#### (2) "Qualified individual with a disability" defined
 
-&emsp;As used in paragraph (1), the term “qualified individual with a disability” has the meaning given the term in section 12111(8) of this title.
+&emsp;As used in paragraph (1), the term "qualified individual with a disability" has the meaning given the term in section 12111(8) of this title.
 
 #### (b) Federal financial assistance
 
@@ -34,7 +34,7 @@ The Chief Executive Officer shall promulgate rules and regulations to provide fo
 
 The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (b), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (b), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act,is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
 The Age Discrimination Act of 1975, referred to in subsec. (b), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 

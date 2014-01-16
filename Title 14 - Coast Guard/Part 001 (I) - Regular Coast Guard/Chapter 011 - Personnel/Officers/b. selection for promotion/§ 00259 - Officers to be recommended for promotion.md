@@ -22,13 +22,13 @@
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c)(1). Pub. L. 112–213 substituted “In selecting” for “After selecting”.
+<b>2012</b>—Subsec. (c)(1). Pub. L. 112–213 substituted "In selecting" for "After selecting".
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–281 inserted “, giving due consideration to the needs of the Coast Guard for officers with particular skills so noted in specific direction furnished to the board by the Secretary under section 258 of this title,” after “whom the board”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–281 inserted ", giving due consideration to the needs of the Coast Guard for officers with particular skills so noted in specific direction furnished to the board by the Secretary under section 258 of this title," after "whom the board".
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–295 added subsec. (c).
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore".
 
-<b>1983</b>—Subsec. (b). Pub. L. 97–417 substituted “commodore” for “real admiral”.
+<b>1983</b>—Subsec. (b). Pub. L. 97–417 substituted "commodore" for "real admiral".
 

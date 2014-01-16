@@ -1,14 +1,14 @@
 ### §474A. Deterrents to counterfeiting of obligations and securities
 
-(a) Whoever has in his control or possession, after a distinctive paper has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States, any similar paper adapted to the making of any such obligation or other security, except under the authority of the Secretary of the Treasury, is guilty of a class B felony.
+(a) Whoever has in his control or possession, after a distinctive paper has been adopted by the Secretary of the Treasury for the obligationsand other securities of the United States, any similar paper adapted to the making of any such obligation or other security, except under the authority of the Secretary of the Treasury, is guilty of a class B felony.
 
 (b) Whoever has in his control or possession, after a distinctive counterfeit deterrent has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States by publication in the Federal Register, any essentially identical feature or device adapted to the making of any such obligation or security, except under the authority of the Secretary of the Treasury, is guilty of a class B felony.
 
 (c) As used in this section—
 
-&emsp;(1) the term “distinctive paper” includes any distinctive medium of which currency is made, whether of wood pulp, rag, plastic substrate, or other natural or artificial fibers or materials; and
+&emsp;(1) the term "distinctive paper" includes any distinctive medium of which currency is made, whether of wood pulp, rag, plastic substrate, or other natural or artificial fibers or materials; and
 
-&emsp;(2) the term “distinctive counterfeit deterrent” includes any ink, watermark, seal, security thread, optically variable device, or other feature or device;
+&emsp;(2) the term "distinctive counterfeit deterrent" includes any ink, watermark, seal, security thread, optically variable device, or other feature or device;
 
 &emsp;&emsp;(A) in which the United States has an exclusive property interest; or
 
@@ -18,7 +18,7 @@
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (a), (b). Pub. L. 104–208, §§101(f) \[title VI, §648(a)\] and 2603(a), amended section identically, substituting “class B felony” for “class C felony”.
+<b>1996</b>—Subsecs. (a), (b). Pub. L. 104–208, §§101(f) \[title VI, §648(a)\] and 2603(a), amended section identically, substituting "class B felony" for "class C felony".
 
 #### Effective Date of 1996 Amendment
 

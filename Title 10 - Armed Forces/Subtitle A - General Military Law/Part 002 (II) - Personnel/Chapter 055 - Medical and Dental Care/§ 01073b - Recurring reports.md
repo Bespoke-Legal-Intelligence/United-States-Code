@@ -30,5 +30,5 @@ For purposes of amendment by Pub. L. 108–375 adding this section, references t
 
 #### Initial Reports
 
-Pub. L. 108–375, div. A, title VII, §739(a)(3), Oct. 28, 2004, 118 Stat. 2002, directed that the first reports under this section be completed not later than 180 days after Oct. 28, 2004.
+Pub. L. 108–375, div. A, title VII, §739(a)(3), Oct. 28, 2004, 118 Stat. 2002, directed that the first reports underthis section be completed not later than 180 days after Oct. 28, 2004.
 

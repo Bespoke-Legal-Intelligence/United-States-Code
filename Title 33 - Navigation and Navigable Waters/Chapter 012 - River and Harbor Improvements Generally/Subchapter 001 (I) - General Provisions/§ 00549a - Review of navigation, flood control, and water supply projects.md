@@ -6,7 +6,7 @@ The Secretary of the Army, acting through the Chief of Engineers, is authorized 
 
 #### Codification
 
-Section is from Pub. L. 91–611, popularly known as the “Flood Control Act of 1970”.
+Section is from Pub. L. 91–611, popularly known as the "Flood Control Act of 1970".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “due to”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "due to".</i>
 

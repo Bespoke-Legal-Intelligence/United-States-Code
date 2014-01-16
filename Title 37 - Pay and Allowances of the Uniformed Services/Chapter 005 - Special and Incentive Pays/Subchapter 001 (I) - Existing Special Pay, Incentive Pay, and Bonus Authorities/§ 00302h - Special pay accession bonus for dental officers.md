@@ -2,7 +2,7 @@
 
 (a)
 
-Accession Bonus Authorized.—(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2013, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+Accession Bonus Authorized.—(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2014, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (2) The amount of an accession bonus under paragraph (1) may not exceed $200,000.
 
@@ -22,37 +22,39 @@ Agreement.—The agreement referred to in subsection (a) shall provide that, con
 
 Repayment.—A person who, after signing an agreement under subsection (a), is not commissioned as an officer of the armed forces, does not become licensed as a dentist, or does not complete the period of active duty specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(Added Pub. L. 104–201, div. A, title VI, §615(c)(1), Sept. 23, 1996, 110 Stat. 2545; amended Pub. L. 107–107, div. A, title VI, §618, Dec. 28, 2001, 115 Stat. 1137; Pub. L. 107–314, div. A, title VI, §612(f), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §612(f), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(f), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(f), 687(b)(11), Jan. 6, 2006, 119 Stat. 3294, 3329; Pub. L. 109–364, div. A, title VI, §§612(f), 617(a), Oct. 17, 2006, 120 Stat. 2248, 2249; Pub. L. 110–181, div. A, title VI, §612(f), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §612(f), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(5), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(5), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(5), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §612(b)(5), Jan. 2, 2013, 126 Stat. 1776.)
+(Added Pub. L. 104–201, div. A, title VI, §615(c)(1), Sept. 23, 1996, 110 Stat. 2545; amended Pub. L. 107–107, div. A, title VI, §618, Dec. 28, 2001, 115 Stat. 1137; Pub. L. 107–314, div. A, title VI, §612(f), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §612(f), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(f), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(f), 687(b)(11), Jan. 6, 2006, 119 Stat. 3294, 3329; Pub. L. 109–364, div. A, title VI, §§612(f), 617(a), Oct. 17, 2006, 120 Stat. 2248, 2249; Pub. L. 110–181, div. A, title VI, §612(f), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §612(f), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(5), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(5), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(5), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §612(b)(5), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §612(b)(5), Dec. 26, 2013, 127 Stat. 780.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+<b>2013</b>—Subsec. (a)(1). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–364, §612(f), substituted “December 31, 2007” for “December 31, 2006”.
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
-Pub. L. 109–163, §622(f), substituted “December 31, 2006” for “December 31, 2005”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–364, §612(f), substituted "December 31, 2007" for "December 31, 2006".
 
-Subsec. (a)(2). Pub. L. 109–364, §617(a), substituted “$200,000” for “$30,000”.
+Pub. L. 109–163, §622(f), substituted "December 31, 2006" for "December 31, 2005".
+
+Subsec. (a)(2). Pub. L. 109–364, §617(a), substituted "$200,000" for "$30,000".
 
 Subsec. (d). Pub. L. 109–163, §687(b)(11), amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to become and remain certified or licensed as dentist or fails to complete total period of active duty.
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–375 substituted "December 31, 2005" for "December 31, 2004".
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted "December 31, 2004" for "December 31, 2003".
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–314 substituted "December 31, 2003" for "December 31, 2002".
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 substituted “September 23, 1996, and ending on December 31, 2002” for “the date of the enactment of this section, and ending on September 30, 2002”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 substituted "September 23, 1996, and ending on December 31, 2002" for "the date of the enactment of this section, and ending on September 30, 2002".
 
 #### Effective Date of 2008 Amendment
 
@@ -60,11 +62,11 @@ Amendment by Pub. L. 110–181 effective as of Dec. 31, 2007, and subject to var
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title VI, §617(e), Oct. 17, 2006, 120 Stat. 2251, provided that: “The amendments madeby this section \[enacting sections 302k and 302l of this title and amending this section\] shall take effect on October 1, 2006, and shall apply to agreements—
+Pub. L. 109–364, div. A, title VI, §617(e), Oct. 17, 2006, 120 Stat. 2251, provided that: "The amendments made by this section \[enacting sections 302k and 302l of this title and amending this section\] shall take effect on October 1, 2006, and shall apply to agreements—
 
-&emsp;“(1) entered into or revised under section 302h of title 37, United States Code, on or after that date; or
+&emsp;"(1) entered into or revised under section 302h of title 37, United States Code, on or after that date; or
 
-&emsp;“(2) entered into under section 302k or 302l of such title, as added by subsections (b) and (c), on or after that date.”
+&emsp;"(2) entered into under section 302k or 302l of such title, as added by subsections (b) and (c), on or after that date."
 
 #### Savings Provision
 

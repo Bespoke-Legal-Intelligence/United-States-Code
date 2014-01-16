@@ -14,5 +14,5 @@ The Secretary, subject to regulations prescribed by the Secretary, is authorized
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” in provisions preceding par. (1).
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" in provisions preceding par. (1).
 

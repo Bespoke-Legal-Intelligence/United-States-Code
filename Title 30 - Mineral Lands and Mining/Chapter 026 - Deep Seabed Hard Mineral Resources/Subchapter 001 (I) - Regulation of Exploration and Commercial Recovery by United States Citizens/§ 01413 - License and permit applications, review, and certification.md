@@ -16,7 +16,7 @@
 
 &emsp;(ii) commercial recovery activities in the proposed location would result in a significant adverse impact on the quality of the environment which cannot be avoided by the imposition of reasonable restrictions.
 
-(E) For purposes of subparagraph (D), “logical mining unit” means—
+(E) For purposes of subparagraph (D), "logical mining unit" means—
 
 &emsp;(i) in the case of a license for exploration, an area of the deep seabed which can be explored under the license in an efficient, economical, and orderly manner with due regard for conservation and protection of the environment, taking into consideration the resource data, other relevant physical and environmental characteristics, and the state of the technology of the applicant as set forth in the exploration plan; or
 
@@ -58,7 +58,7 @@ Before the Administrator may certify any application for issuance or transfer of
 
 (6) The issuance or transfer of a license or permit under this subchapter shall not be admissible in any way as a defense to any civil or criminal action for violation of the antitrust laws of the United States, nor shall it in any way modify or abridge any private right of action under such laws.
 
-(7) As used in this subsection, the term “antitrust laws” means the Act of July 2, 1890 (commonly known as the Sherman Act; 15 U.S.C. 1–7); sections 73 through 76 of the Act of August 27, 1894 (commonly known as the Wilson Tariff Act; 15 U.S.C. 8–11); the Clayton Act (15 U.S.C. 12 et seq.); the Act of June 19, 1936 (commonly known as the Robinson-Patman Price Discrimination Act; 15 U.S.C. 13–13b and 21a); and the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+(7) As used in this subsection, the term "antitrust laws" means the Act of July 2, 1890 (commonly known as the Sherman Act; 15 U.S.C. 1–7); sections 73 through 76 of the Act of August 27, 1894 (commonly known as the Wilson Tariff Act; 15 U.S.C. 8–11); the Clayton Act (15 U.S.C. 12 et seq.); the Act of June 19, 1936 (commonly known as the Robinson-Patman Price Discrimination Act; 15 U.S.C. 13–13b and 21a); and the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
 
 #### (e) Other Federal agencies
 
@@ -70,7 +70,7 @@ All time periods for the review of an application for issuance or transfer of a 
 
 #### (g) Application certification
 
-Upon making the applicable determinations and findings required in sections 1411, 1412 of this title, and this section with respect to any applicant for the issuance or transfer of a license or a permit and the exploration or commercial recovery proposed by such applicant, after completion of procedures for receiving the application required by this chapter, and upon payment by the applicant of the fee required under section 1414 of this title, the Administrator shall certify the application for the issuance or transfer of the license or permit. The Administrator, to the maximum extent possible, shall endeavor to complete certification action on the application within 100 days after its submission. If final certification or denial of certification has not occurred within 100 days after submission of the application, the Administrator shall inform the applicant in writing of the then pending unresolved issues, the Administrator's efforts to resolve them, and an estimate of the time required to do so.
+Upon making the applicable determinations and findings required in sections 1411, 1412 of this title, and this section with respect to anyapplicant for the issuance or transfer of a license or a permit and the exploration or commercial recovery proposed by such applicant, after completion of procedures for receiving the application required by this chapter, and upon payment by the applicant of the fee required under section 1414 of this title, the Administrator shall certify the application for the issuance or transfer of the license or permit. The Administrator, to the maximum extent possible, shall endeavor to complete certification action on the application within 100 days after its submission. If final certification or denial of certification has not occurred within 100 days after submission of the application, the Administrator shall inform the applicant in writing of the then pending unresolved issues, the Administrator's efforts to resolve them, and an estimate of the time required to do so.
 
 (Pub. L. 96–283, title I, §103, June 28, 1980, 94 Stat. 560; Pub. L. 107–273, div. C, title IV, §14102(c)(2)(E), Nov. 2, 2002, 116 Stat. 1921.)
 
@@ -88,7 +88,7 @@ The Federal Trade Commission Act (15 U.S.C. 41 et seq.), referred to in subsec. 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d)(7). Pub. L. 107–273 substituted “76” for “77”.
+<b>2002</b>—Subsec. (d)(7). Pub. L. 107–273 substituted "76" for "77".
 
 #### Effective Date of 2002 Amendment
 

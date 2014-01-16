@@ -2,7 +2,7 @@
 
 #### (a) Planning of programs or projects undertaken by Federal agencies or with Federal financial assistance
 
-Programs or projects undertaken by a Federal agency or with Federal financial assistance shall be planned in a manner that (1) recognizes, at an early stage in the planning of such programs or projects and before the commencement of any actions which will cause displacements, the problems associated with the displacement of individuals, families, businesses, and farm operations, and (2) provides for the resolution of such problems in order to minimize adverse impacts on displaced persons and to expedite program or project advancement and completion.
+Programs or projects undertaken by a Federal agency or with Federal financial assistance shall be planned in a manner that (1) recognizes, at an early stage in the planning of such programs or projects and before the commencement of any actions which will cause displacements,the problems associated with the displacement of individuals, families, businesses, and farm operations, and (2) provides for the resolution of such problems in order to minimize adverse impacts on displaced persons and to expedite program or project advancement and completion.
 
 #### (b) Availability of advisory services
 
@@ -46,11 +46,11 @@ Notwithstanding section 4601(1) of this title, in any case in which a displacing
 
 #### References in Text
 
-This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+This chapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–17, substituted “Relocation planning, assistance coordination, and advisory services” for “Relocation assistance advisory services” in catchline and amended text generally, revising and restating as subsecs. (a) to (f) provisions formerly contained in subsecs. (a) to (d).
+<b>1987</b>—Pub. L. 100–17, substituted "Relocation planning, assistance coordination, and advisory services" for "Relocation assistance advisory services" in catchline and amended text generally, revising and restating as subsecs. (a) to (f) provisions formerly contained in subsecs. (a) to (d).
 
 #### Effective Date of 1987 Amendment
 

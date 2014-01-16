@@ -36,19 +36,19 @@ Historical and Revision Notes
 
 Sept. 3, 1982, Pub. L. 97–248, §521, 96 Stat. 694.
 
-In this section, before clause (1), the words “on activities carried out” are substituted for “describing his operations” for clarity.
+In this section, before clause (1), the words "on activities carried out" are substituted for "describing his operations" for clarity.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–95 substituted “June 1” for “April 1” in introductory provisions, added pars. (1) to (4), and struck out former pars. (1) to (4) which read as follows:
+<b>2012</b>—Subsec. (a). Pub. L. 112–95 substituted "June 1" for "April 1" in introductory provisions, added pars. (1) to (4), and struck out former pars. (1) to (4) which read as follows:
 
-“(1) a detailed statement of airport development completed;
+"(1) a detailed statement of airport development completed;
 
-“(2) the status of each project undertaken;
+"(2) the status of each project undertaken;
 
-“(3) the allocation of appropriations;
+"(3) the allocation of appropriations;
 
-“(4) an itemized statement of expenditures and receipts; and”.
+"(4) an itemized statement of expenditures and receipts; and".
 
 <b>2000</b>—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, added par. (5) of subsec. (a), and added subsec. (b).
 

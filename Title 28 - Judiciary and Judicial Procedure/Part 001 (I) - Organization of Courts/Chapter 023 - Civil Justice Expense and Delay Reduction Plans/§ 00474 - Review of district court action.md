@@ -4,7 +4,7 @@
 
 &emsp;(A) review each plan and report submitted pursuant to section 472(d) of this title; and
 
-&emsp;(B) make such suggestions for additional actions or modified actions of that district courtas the committee considers appropriate for reducing cost and delay in civil litigation in the district court.
+&emsp;(B) make such suggestions for additional actions or modified actions of that district court as the committee considers appropriate for reducing cost and delay in civil litigation in the district court.
 
 (2) The chief judge of a circuit may designate another judge of the court of appeals of that circuit, and the chief judge of a district court may designate another judge of such court, to perform that chief judge's responsibilities under paragraph (1) of this subsection.
 
@@ -18,7 +18,7 @@
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–198, §2(2)(A), substituted “chief judge” for “chief judges” and struck out “court of appeals for such” after “judge of the” in introductory provisions.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–198, §2(2)(A), substituted "chief judge" for "chief judges" and struck out "court of appeals for such" after "judge of the" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 102–198, §2(2)(B), substituted “circuit may designate another judge of the court of appeals of that circuit,” for “court of appeals” and “court, to perform that” for “court to perform the”.
+Subsec. (a)(2). Pub. L. 102–198, §2(2)(B), substituted "circuit may designate another judge of the court of appeals of that circuit," for "court of appeals" and "court, to perform that" for "court to perform the".
 

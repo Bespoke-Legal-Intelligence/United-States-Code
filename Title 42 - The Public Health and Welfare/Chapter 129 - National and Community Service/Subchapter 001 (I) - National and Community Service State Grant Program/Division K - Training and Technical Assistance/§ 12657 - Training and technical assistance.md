@@ -26,7 +26,7 @@ Such training and technical assistance activities may include—
 
 &emsp;(5) providing for or improving the training provided to the participants in programs under the national service laws;
 
-&emsp;(6) facilitating the education of individuals participating in national service programs inrisk management procedures, including the training of participants in appropriate risk management practices;
+&emsp;(6) facilitating the education of individuals participating in national service programs in risk management procedures, including the training of participants in appropriate risk management practices;
 
 &emsp;(7) training individuals operating or overseeing national service programs—
 

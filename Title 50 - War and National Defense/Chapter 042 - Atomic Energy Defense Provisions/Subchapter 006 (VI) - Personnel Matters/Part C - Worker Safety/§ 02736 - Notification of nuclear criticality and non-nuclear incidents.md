@@ -2,7 +2,7 @@
 
 #### (a) Notification
 
-The Secretary of Energy and the Administrator, as the case may be, shall submit to the appropriate congressional committees a notification of a nuclear criticality incident resulting from a covered program that results in an injury or fatality or results in the shutdown, or partial shutdown, of a covered facility by not later than 15 days after the date of such incident.
+The Secretary of Energy or the Administrator, as the case may be, shall submit to the appropriate congressional committees a notification of a nuclear criticality incident resulting from a covered program that results in an injury or fatality or results in the shutdown, or partial shutdown, of a covered facility by not later than 15 days after the date of such incident.
 
 #### (b) Elements of notification
 
@@ -34,23 +34,27 @@ In carrying out this section, the Secretary and the Administrator shall ensure t
 
 In this section:
 
-&emsp;(1) The term “appropriate congressional committees” means—
+&emsp;(1) The term "appropriate congressional committees" means—
 
 &emsp;&emsp;(A) the congressional defense committees; and
 
 &emsp;&emsp;(B) the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
 
-&emsp;(2) The term “covered facility” means—
+&emsp;(2) The term "covered facility" means—
 
 &emsp;&emsp;(A) a facility of the nuclear security enterprise; and
 
 &emsp;&emsp;(B) a facility conducting activities for the defense environmental cleanup program of the Office of Environmental Management of the Department of Energy.
 
-&emsp;(3) The term “covered program” means—
+&emsp;(3) The term "covered program" means—
 
 &emsp;&emsp;(A) programs of the Administration; and
 
 &emsp;&emsp;(B) defense environmental cleanup programs of the Office of Environmental Management of the Department of Energy.
 
-(Pub. L. 107–314, div. D, title XLVI, §4646, as added Pub. L. 112–239, div. C, title XXXI, §3142(a)(1), Jan. 2, 2013, 126 Stat. 2194.)
+(Pub. L. 107–314, div. D, title XLVI, §4646, as added Pub. L. 112–239, div. C, title XXXI, §3142(a)(1), Jan. 2, 2013, 126 Stat. 2194; amended Pub. L. 113–66, div. C, title XXXI, §3146(g)(13), Dec. 26, 2013, 127 Stat. 1080.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 113–66 substituted "Energy or" for "Energy and".
 

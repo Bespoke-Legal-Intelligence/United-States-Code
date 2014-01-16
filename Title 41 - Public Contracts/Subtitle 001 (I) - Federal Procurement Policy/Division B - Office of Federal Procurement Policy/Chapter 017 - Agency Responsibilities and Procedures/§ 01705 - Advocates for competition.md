@@ -16,7 +16,7 @@ Designation.—The head of each executive agency shall—
 
 &emsp;&emsp;(B) not assign those officers or employees duties or responsibilities that are inconsistent with the duties and responsibilities of the advocates for competition; and
 
-&emsp;&emsp;(C) provide those officers or employees with the staff or assistance necessary to carry out the duties and responsibilities of the advocate for competition, such as individuals who are specialists in engineering, technical operations, contract administration, financial management, supply management, and utilization of small and disadvantaged business concerns.
+&emsp;&emsp;(C) provide those officers or employees with the staff or assistance necessary to carry out the duties and responsibilities of the advocate for competition, such as individuals who are specialists in engineering,technical operations, contract administration, financial management, supply management, and utilization of small and disadvantaged business concerns.
 
 (b)
 

@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 June 5, 1942, ch. 327, 56 Stat. 308.
 
-The words “members of the naval service and to civilian employees of the Department of the Navy” are substituted for the words “officers, enlisted men, and civilian employees of the Navy and Marine Corps” for uniformity. The words “in kind” and the word “aircraft” are omitted as surplusage.
+The words "members of the naval service and to civilian employees of the Department of the Navy" are substituted for the words "officers, enlisted men, and civilian employees of the Navy and Marine Corps" for uniformity. The words "in kind" and the word "aircraft" are omitted as surplusage.
 

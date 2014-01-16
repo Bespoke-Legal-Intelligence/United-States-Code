@@ -2,7 +2,7 @@
 
 For purposes of this subchapter:
 
-&emsp;(1) The term “eligible low-income housing” means any housing financed by a loan or mortgage—
+&emsp;(1) The term "eligible low-income housing" means any housing financed by a loan or mortgage—
 
 &emsp;&emsp;(A) that is—
 
@@ -16,15 +16,15 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) that, under regulation or contract in effect before February 5, 1988, is or will within 24 months become eligible for prepayment without prior approval of the Secretary.
 
-&emsp;(2) The term “Federal cost limit” means, for any eligible low-income housing, the amount determined under section 4105(a) of this title.
+&emsp;(2) The term "Federal cost limit" means, for any eligible low-income housing, the amount determined under section 4105(a) of this title.
 
-&emsp;(3) The term “low-income affordability restrictions” means limits imposed by regulation or regulatory agreement on tenant rents, rent contributions, or income eligibility in eligible low-income housing.
+&emsp;(3) The term "low-income affordability restrictions" means limits imposed by regulation or regulatory agreement on tenant rents, rent contributions, or income eligibility in eligible low-income housing.
 
-&emsp;(4) The terms “low-income families or persons” and “very low-income families or persons” mean families or persons whose incomes do not exceed the respective levels established for low-income families and very low-income families, respectively, under section 1437a(b)(2) of title 42.
+&emsp;(4) The terms "low-income families or persons" and "very low-income families or persons" mean families or persons whose incomes do not exceed the respective levels established for low-income families and very low-income families, respectively, under section 1437a(b)(2) of title 42.
 
-&emsp;(5) The term “moderate-income families or persons” means families or persons whose incomes are between 80 percent and 95 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families.
+&emsp;(5) The term "moderate-income families or persons" means families or persons whose incomes are between 80 percent and 95 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families.
 
-&emsp;(6) The term “nonprofit organization” means any private, nonprofit organization that—
+&emsp;(6) The term "nonprofit organization" means any private, nonprofit organization that—
 
 &emsp;&emsp;(A) is organized or chartered under State or local laws;
 
@@ -34,9 +34,9 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(D) has among its principal purposes significant activities related to the provision of decent housing that is affordable to very low-, low-, and moderate-income families.
 
-&emsp;(7) The term “owner” means the current or subsequent owner or owners of eligible low-income housing.
+&emsp;(7) The term "owner" means the current or subsequent owner or owners of eligible low-income housing.
 
-&emsp;(8) The term “preservation equity” means, for any eligible low-income housing—
+&emsp;(8) The term "preservation equity" means, for any eligible low-income housing—
 
 &emsp;&emsp;(A) for purposes of determining the authorized return under section 4104(a) of this title and providing incentives to extend the low-income affordability restrictions on the housing under section 4109 of this title—
 
@@ -50,11 +50,11 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(ii) the outstanding balance of the federally-assisted mortgage or mortgages for the housing.
 
-&emsp;(9) The term “preservation value” means, for any eligible low-income housing, the applicable value determined under paragraph (1) or (2) of section 4103(b) of this title.
+&emsp;(9) The term "preservation value" means, for any eligible low-income housing, the applicable value determined under paragraph (1) or (2) of section 4103(b) of this title.
 
-&emsp;(10) The term “Secretary” means the Secretary of Housing and Urban Development.
+&emsp;(10) The term "Secretary" means the Secretary of Housing and Urban Development.
 
-&emsp;(11) The term “resident council” means any incorporated nonprofit organization or association that—
+&emsp;(11) The term "resident council" means any incorporated nonprofit organization or association that—
 
 &emsp;&emsp;(A) is representative of the residents of the housing;
 
@@ -76,19 +76,19 @@ Amendment by Pub. L. 103–327 is based on section 601(e) of title VI of S. 2281
 
 <b>1994</b>—Par. (4). Pub. L. 103–327 temporarily amended par. (4) to read as follows:
 
-“(4)(A) The term ‘low-income tenants’ means families or persons with incomes that exceed 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size) but do not exceed 80 percent of the median income for the area (as determined by the Secretary with adjustments for family size).
+"(4)(A) The term 'low-income tenants' means families or persons with incomes that exceed 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size) but do not exceed 80 percent of the median income for the area (as determined by the Secretary with adjustments for family size).
 
-“(B) The term ‘very low-income tenants’ means families or persons with incomes that are less than or equal to 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size).” See Effective and Termination Dates of 1994 Amendment note below.
+"(B) The term 'very low-income tenants' means families or persons with incomes that are less than or equal to 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size)." See Effective and Termination Dates of 1994 Amendment note below.
 
-<b>1992</b>—Par. (1)(A)(i). Pub. L. 102–550, §310, substituted “receiving loan management assistance under section 1437f of title 42 due to a conversion from section 1701s of this title” for “assisted under section 1701s of this title or section 1437f of title 42”.
+<b>1992</b>—Par. (1)(A)(i). Pub. L. 102–550, §310, substituted "receiving loan management assistance under section 1437f of title 42 due to a conversion from section 1701s of this title" for "assisted under section 1701s of this title or section 1437f of title 42".
 
-Par. (11)(A). Pub. L. 102–550, §317(a)(5), substituted “residents” for “resident”.
+Par. (11)(A). Pub. L. 102–550, §317(a)(5), substituted "residents" for "resident".
 
 #### Effective and Termination Dates of 1994 Amendment
 
 Amendment by Pub. L. 103–327 effective only during fiscal year 1995, see provision of title II of Pub. L. 103–327 set out as a note under section 4112 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

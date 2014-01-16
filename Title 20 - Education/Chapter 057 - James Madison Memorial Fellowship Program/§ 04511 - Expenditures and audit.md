@@ -12,5 +12,5 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in two places.
 

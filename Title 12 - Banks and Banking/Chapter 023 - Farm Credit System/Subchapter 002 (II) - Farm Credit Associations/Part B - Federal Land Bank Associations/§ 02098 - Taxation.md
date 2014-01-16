@@ -12,7 +12,7 @@ A prior section 2.16 of Pub. L. 92–181 was renumbered section 2.15 and is clas
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–399, §401(x), substituted “derived therefrom, shall” for “derived therefrom shall”, “by the associations” for “by the banks”, and “3124” for “742(a)”.
+<b>1988</b>—Pub. L. 100–399, §401(x), substituted "derived therefrom, shall" for "derived therefrom shall", "by the associations" for "by the banks", and "3124" for "742(a)".
 
 #### Effective Date of 1988 Amendment
 

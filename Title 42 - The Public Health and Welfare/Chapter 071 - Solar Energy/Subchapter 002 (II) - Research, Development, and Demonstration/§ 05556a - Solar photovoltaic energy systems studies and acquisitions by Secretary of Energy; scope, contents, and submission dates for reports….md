@@ -2,7 +2,7 @@
 
 (a) The Secretary of Energy shall—
 
-&emsp;(1) initiate and conduct an “application and system design study”, cooperatively with appropriate Federal agencies, to determine the potential for the use of solar photovoltaic systems at specific Federal installations; and this study shall—
+&emsp;(1) initiate and conduct an "application and system design study", cooperatively with appropriate Federal agencies, to determine the potential for the use of solar photovoltaic systems at specific Federal installations; and this study shall—
 
 &emsp;&emsp;(A) include an analysis of those sites that are currently cost-effective for solar photovoltaic energy systems, using life-cycle costing techniques, as well as those which would be cost-effective at expected future market prices;
 
@@ -26,7 +26,7 @@
 
 &emsp;(3) initiate and conduct a study involving the prospects for applications of solar photovoltaic energy systems for power generation in foreign countries, particularly lesser developed countries, and the potential for the exportation of these energy systems. This study shall involve the cooperation of the Department of State and the Department of Commerce, as well as other Federal agencies which the Secretary of Energy deems appropriate. A final report shall be submitted to the Congress, as well as a preliminary report within twelve months of February 25, 1978; and
 
-&emsp;(4) be authorized to acquire up to an additional 4.0 megawatts (peak) of solar photovoltaic energy systems. The sum of $13,000,000 is hereby authorized to be appropriated (in addition to any other amounts authorized by this Act to be appropriated) for the fiscal year ending September 30, 1978, and for delivery in the following twelve months. Such sums shall remain available until expended. The solar photovoltaic energy systems acquired shall be available for use for power generation by Federal agencies, provided that no procurement takes place until their application on Federalsites is determined to be life cycle cost effective.
+&emsp;(4) be authorized to acquire up to an additional 4.0 megawatts (peak) of solar photovoltaic energy systems. The sum of $13,000,000 is hereby authorized to be appropriated (in addition to any other amounts authorized by this Act to be appropriated) for the fiscal year ending September 30, 1978, and for delivery in the following twelve months. Such sums shall remain available until expended. The solar photovoltaic energy systems acquired shall be available for use for power generation by Federal agencies, provided that no procurement takes place until their application on Federal sites is determined to be life cycle cost effective.
 
 (b) For technology development, particularly for engineering design and development of the manufacturing process of solar photovoltaic energy systems (primarily for the implementation of automated processes and other cost reducing production technologies), the sum of $6,000,000 is hereby authorized by this Act to be appropriated for the fiscal year ending September 30, 1978.
 

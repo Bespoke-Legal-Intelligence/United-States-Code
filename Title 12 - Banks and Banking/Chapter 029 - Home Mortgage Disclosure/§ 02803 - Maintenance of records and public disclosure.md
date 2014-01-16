@@ -16,7 +16,7 @@
 
 Any item of information relating to mortgage loans required to be maintained under subsection (a) of this section shall be further itemized in order to disclose for each such item—
 
-&emsp;(1) the number and dollar amount of mortgage loans which are insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\] or which are guaranteed under chapter 37 of title 38;
+&emsp;(1) the number and dollar amount of mortgage loans which are insured under title II of the National Housing Act \[12 U.S.C. 1707 etseq.\] or under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\] or which are guaranteed under chapter 37 of title 38;
 
 &emsp;(2) the number and dollar amount of mortgage loans made to mortgagors who did not, at the time of execution of the mortgage, intend to reside in the property securing the mortgage loan;
 
@@ -156,7 +156,7 @@ The requirements of subsections (b)(4), (b)(5), and (b)(6) of this section shall
 
 #### (4) Reasonable charge for information
 
-&emsp;Any depository institution which provides information under this subsection may impose a reasonable fee for any cost incurred in reproducing such information.
+&emsp;Any depository institution which provides information under this subsection may imposea reasonable fee for any cost incurred in reproducing such information.
 
 #### (5) Time of disclosure
 
@@ -238,9 +238,9 @@ The requirements of subsections (b)(4), (b)(5), and (b)(6) of this section shall
 
 #### (n) Timing of certain disclosures
 
-The data required to be disclosed under subsection (b) shall be submitted to the Bureau or to the appropriate agency for any institution reporting under this chapter, in accordance with regulations prescribed by the Bureau. Institutions shall not be required to report new data under paragraph (5) or (6) of subsection (b) before the first January 1 that occurs after the end of the 9-month period beginning on the date on which regulations are issued by the Bureau in final form with respect to such disclosures.
+The data required to be disclosed under subsection (b) shall be submitted to the Bureau or to the appropriate agency for any institution reporting under this chapter, in accordance with regulations prescribed by the Bureau. Institutions shall not be required to report new data under paragraph (5) or (6) of subsection (b) before the first January 1 that occurs after the endof the 9-month period beginning on the date on which regulations are issued by the Bureau in final form with respect to such disclosures.
 
-(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title I \[title VII, §701(a)\], Nov. 30, 1983, 97 Stat. 1266; Pub. L.100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416; Pub. L. 111–203, title X, §1094(1), (3), July 21, 2010, 124 Stat. 2097.)
+(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title I \[title VII, §701(a)\], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416; Pub. L. 111–203, title X, §1094(1), (3), July 21, 2010, 124 Stat. 2097.)
 
 #### References in Text
 
@@ -254,71 +254,71 @@ Section 2802(2)(A) of this title, referred to in subsecs. (h)(2)(B) and (i), was
 
 #### Amendments
 
-Subsec. (a)(1). Pub. L. 111–203, §1094(1), substituted “Bureau” for “Board”.
+Subsec. (a)(1). Pub. L. 111–203, §1094(1), substituted "Bureau" for "Board".
 
-Subsec. (b)(4). Pub. L. 111–203, §1094(3)(A)(i), inserted “age,” before “and gender”.
+Subsec. (b)(4). Pub. L. 111–203, §1094(3)(A)(i), inserted "age," before "and gender".
 
 Subsec. (b)(5), (6). Pub. L. 111–203, §1094(3)(A)(ii)–(iv), added pars. (5) and (6).
 
-Subsec. (e). Pub. L. 111–203, §1094(1), substituted “Bureau” for “Board”.
+Subsec. (e). Pub. L. 111–203, §1094(1), substituted "Bureau" for "Board".
 
 Subsec. (h). Pub. L. 111–203, §1094(3)(B), added subsec. (h) and struck out former subsec. (h) which related to submission to agencies.
 
-Subsec. (i). Pub. L. 111–203, §1094(3)(C), substituted “subsections (b)(4), (b)(5), and (b)(6)” for “subsection (b)(4)”.
+Subsec. (i). Pub. L. 111–203, §1094(3)(C), substituted "subsections (b)(4), (b)(5), and (b)(6)" for "subsection (b)(4)".
 
-Subsec. (j)(1). Pub. L. 111–203, §1094(1), substituted “Bureau” for “Board” in two places.
+Subsec. (j)(1). Pub. L. 111–203, §1094(1), substituted "Bureau" for "Board" in two places.
 
-Subsec. (j)(2)(A). Pub. L. 111–203, §1094(3)(D)(ii), substituted “in such formats as the Bureau may require” for “in the format in which such information is maintained by the institution”.
+Subsec. (j)(2)(A). Pub. L. 111–203, §1094(3)(D)(ii), substituted "in such formats as the Bureau may require" for "in the format in which such information is maintained by the institution".
 
-Subsec. (j)(2)(B). Pub. L. 111–203, §1094(1), substituted “Bureau” for “Board” in two places.
+Subsec. (j)(2)(B). Pub. L. 111–203, §1094(1), substituted "Bureau" for "Board" in two places.
 
-Subsec. (j)(3). Pub. L. 111–203, §1094(3)(D)(i), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in the form in which the institution maintains such information.”
+Subsec. (j)(3). Pub. L. 111–203, §1094(3)(D)(i), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in the form in which the institution maintains such information."
 
-Subsecs. (j)(7), (k)(1), (l)(2)(A). Pub. L. 111–203, §1094(1), substituted “Bureau” for “Board” wherever appearing.
+Subsecs. (j)(7), (k)(1), (l)(2)(A). Pub. L. 111–203, §1094(1), substituted "Bureau" for "Board" wherever appearing.
 
-Subsec. (m)(2). Pub. L. 111–203, §1094(3)(E), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In complying with paragraph (1), a depository institution shall, in the sole discretion of the institution, provide the person requesting the information with—
+Subsec. (m)(2). Pub. L. 111–203, §1094(3)(E), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "In complying with paragraph (1), a depository institution shall, in the sole discretion of the institution, provide the person requesting the information with—
 
-&emsp;“(A) a paper copy of the information requested; or
+&emsp;"(A) a paper copy of the information requested; or
 
-&emsp;“(B) if acceptable to the person, the information through a form of electronic medium, such as a computer disk.”
+&emsp;"(B) if acceptable to the person, the information through a form of electronic medium, such as a computer disk."
 
 Subsec. (n). Pub. L. 111–203, §1094(3)(F), added subsec. (n).
 
 <b>1996</b>—Subsec. (m). Pub. L. 104–208 added subsec. (m).
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–550, §932(b), inserted “, other than loan application register information under subsection (j) of this section,” after “under this section”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–550, §932(b), inserted ", other than loan application register information under subsection (j) of this section," after "under this section".
 
 Subsecs. (j) to (l). Pub. L. 102–550, §932(a), added subsecs. (j) to (l).
 
-<b>1991</b>—Subsec. (h)(1). Pub. L. 102–242, §212(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “the Comptroller of the Currency for national banks;”.
+<b>1991</b>—Subsec. (h)(1). Pub. L. 102–242, §212(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: "the Comptroller of the Currency for national banks;".
 
-Subsec. (h)(3). Pub. L. 102–242, §212(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “the Federal Deposit Insurance Corporation for banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), mutual savings banks, and any other depository institution described in section 2802(2)(A) of this title which is not otherwise referred to in this paragraph;”.
+Subsec. (h)(3). Pub. L. 102–242, §212(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: "the Federal Deposit Insurance Corporation for banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), mutual savings banks, and any other depository institution described in section 2802(2)(A) of this title which is not otherwise referred to in this paragraph;".
 
-<b>1989</b>—Subsec. (a)(1). Pub. L. 101–73, §1211(c)(1), inserted “(or for which the institution received completed applications)” after “originated”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–73, §1211(c)(1), inserted "(or for which the institution received completed applications)" after "originated".
 
-Subsec. (a)(2). Pub. L. 101–73, §1211(c)(2)(A), inserted “(or for which completed applications were received)” after “originated or purchased” in last sentence.
+Subsec. (a)(2). Pub. L. 101–73, §1211(c)(2)(A), inserted "(or for which completed applications were received)" after "originated or purchased" in last sentence.
 
-Pub. L. 101–73, §1211(f), inserted at end “For purposes of this paragraph, other lending institutions shall be deemed to have a home office or branch office within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas if such institutions have originated or purchased or received completed applications for at least 5 mortgage loans in such area in the preceding calendar year.”
+Pub. L. 101–73, §1211(f), inserted at end "For purposes of this paragraph, other lending institutions shall be deemed to have a home office or branch office within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas if such institutions have originated or purchased or received completed applications for at least 5 mortgage loans in such area in the preceding calendar year."
 
 Subsec. (b)(4). Pub. L. 101–73, §1211(a), added par. (4).
 
-Subsec. (e). Pub. L. 101–73, §1211(i), substituted “Subject to subsection (h) of this section, the Board” for “The Board”.
+Subsec. (e). Pub. L. 101–73, §1211(i), substituted "Subject to subsection (h) of this section, the Board" for "The Board".
 
-Subsec. (g)(1). Pub. L. 101–73, §1211(c)(2)(B), inserted “(or for which completed applications are received)” after “made”.
+Subsec. (g)(1). Pub. L. 101–73, §1211(c)(2)(B), inserted "(or for which completed applications are received)" after "made".
 
-Subsec. (g)(2). Pub. L. 101–73, §1211(c)(2)(C), inserted “(or for which completed applications are received)” after “approved”.
+Subsec. (g)(2). Pub. L. 101–73, §1211(c)(2)(C), inserted "(or for which completed applications are received)" after "approved".
 
 Subsec. (h). Pub. L. 101–73, §1211(b), added subsec. (h).
 
 Subsec. (i). Pub. L. 101–73, §1211(j), added subsec. (i).
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242, §570(h), substituted “at least one branch” for “at at least one branch”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242, §570(h), substituted "at least one branch" for "at at least one branch".
 
 Subsec. (g). Pub. L. 100–242, §565(a)(2), added subsec. (g).
 
-<b>1983</b>—Subsecs. (a), (f). Pub. L. 98–181 substituted “primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical area” wherever appearing.
+<b>1983</b>—Subsecs. (a), (f). Pub. L. 98–181 substituted "primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas" for "standard metropolitan statistical area" wherever appearing.
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–399, §340(a)(1), substituted “Department of Commerce” for “Office of Management and Budget”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–399, §340(a)(1), substituted "Department of Commerce" for "Office of Management and Budget".
 
 Subsec. (a)(2)(A). Pub. L. 96–399, §340(a)(2), revised applicable factors so as to include mortgage loans in a census tract, or by a county, and exclude readily available and reasonably costing census tracts, or by ZIP code.
 
@@ -330,7 +330,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–550, title IX, §932(c), Oct. 28, 1992, 106 Stat. 3891, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to information disclosed under section 304of the Home Mortgage Disclosure Act of 1975 \[this section\] for any year which ends after the date of the enactment of this Act \[Oct. 28, 1992\].”
+Pub. L. 102–550, title IX, §932(c), Oct. 28, 1992, 106 Stat. 3891, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to information disclosed under section 304 of the Home Mortgage Disclosure Act of 1975 \[this section\] for any year which ends after the date of the enactment of this Act \[Oct. 28, 1992\]."
 
 #### Effective Date of 1989 Amendment
 

@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (3) Counternarcotics efforts
 
-&emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production, and the reduction of the overall supply and demand for illicit narcotics in Afghanistan and the region, with particular emphasis on assistance to—
+&emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production, and the reduction of the overall supply and demand for illicit narcotics in Afghanistan andthe region, with particular emphasis on assistance to—
 
 &emsp;&emsp;(i) eradicate opium poppy, promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers, purchase nonopium products from farmers in opium-growing areas, quick-impact public works programs to divert labor from narcotics production, develop projects directed specifically at narcotics production, processing, or trafficking areas to provide incentives to cooperation in narcotics suppression activities, and related programs;
 
@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (4) Reestablishment of food security, rehabilitation of the agriculture sector, improvement in health conditions, and the reconstruction of basic infrastructure
 
-&emsp;To assist in expanding access to markets in Afghanistan, to increase the availability of food in markets in Afghanistan, to rehabilitate the agriculture sector in Afghanistan by creating jobs for former combatants, returning refugees, and internally displaced persons,to improve health conditions, and assist in the rebuilding of basic infrastructure in Afghanistan, including assistance such as—
+&emsp;To assist in expanding access to markets in Afghanistan, to increase the availability of food in markets in Afghanistan, to rehabilitate the agriculture sector in Afghanistan by creating jobs for former combatants, returning refugees, and internally displaced persons, to improve health conditions, and assist in the rebuilding of basic infrastructure in Afghanistan, including assistance such as—
 
 &emsp;&emsp;(A) rehabilitation of the agricultural infrastructure, including irrigation systems and rural roads;
 
@@ -146,7 +146,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;(C) facilitate expanded trade with countries in the region;
 
-&emsp;&emsp;(D) promote and foster respect for basic workers’ rights and protections against exploitation of child labor;
+&emsp;&emsp;(D) promote and foster respect for basic workers' rights and protections against exploitation of child labor;
 
 &emsp;&emsp;(E) develop handicraft and other small-scale industries; and
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (A) Assistance objectives
 
-&emsp;&emsp;To assist women and girls in Afghanistan in the areas of political and human rights, health care, education, training, security, and shelter, with particular emphasis on assistance—
+&emsp;&emsp;To assist women and girls in Afghanistan in the areas of political and human rights,health care, education, training, security, and shelter, with particular emphasis on assistance—
 
 &emsp;&emsp;&emsp;(i) to support construction of, provide equipment and medical supplies to, and otherwise facilitate the establishment and rehabilitation of, health care facilities in order to improve the health care of women, children, and infants;
 
@@ -256,13 +256,13 @@ Section 7536 of this title, referred to in subsec. (d)(1)(C), was omitted from t
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–458, §7104(e)(1)(B), substituted “any other” for “section 512 of Public Law 107–115 or any other similar” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458, §7104(e)(1)(B), substituted "any other" for "section 512 of Public Law 107–115 or any other similar" in introductory provisions.
 
-Subsec. (a)(3)(A)(i). Pub. L. 108–458, §7104(j)(1)(A), substituted “promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers,” for “establish crop substitution programs,”.
+Subsec. (a)(3)(A)(i). Pub. L. 108–458, §7104(j)(1)(A), substituted "promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers," for "establish crop substitution programs,".
 
-Subsec. (a)(3)(A)(ii). Pub. L. 108–458, §7104(j)(1)(B), inserted “, and to create special counternarcotics courts, prosecutors, and places of incarceration” before semicolon at end.
+Subsec. (a)(3)(A)(ii). Pub. L. 108–458, §7104(j)(1)(B), inserted ", and to create special counternarcotics courts, prosecutors, and places of incarceration" before semicolon at end.
 
-Subsec. (a)(3)(A)(iii). Pub. L. 108–458, §7104(j)(1)(C), inserted before semicolon at end “, in particular, notwithstanding section 2420 of this title, by providing non-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units”.
+Subsec. (a)(3)(A)(iii). Pub. L. 108–458, §7104(j)(1)(C), inserted before semicolon at end ", in particular, notwithstanding section 2420 of this title, by providing non-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units".
 
 Subsec. (a)(3)(A)(vi). Pub. L. 108–458, §7104(j)(1)(D)–(F), added cl. (vi).
 
@@ -270,7 +270,7 @@ Subsec. (a)(4)(M). Pub. L. 108–458, §7104(f)(3), added subpar. (M).
 
 Subsec. (a)(5). Pub. L. 108–458, §7104(f)(2), amended heading and text of par. (5) generally, substituting provisions relating to education, the rule of law, and related issues, for provisions relating to reestablishment of Afghanistan as a viable nation-state.
 
-Subsec. (a)(7)(A)(xii). Pub. L. 108–458, §7104(k)(2), substituted “Afghan Independent” for “National”.
+Subsec. (a)(7)(A)(xii). Pub. L. 108–458, §7104(k)(2), substituted "Afghan Independent" for "National".
 
 Subsec. (d). Pub. L. 108–458, §7104(g), added subsec. (d).
 
@@ -280,211 +280,219 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Authority To Establish a Program To Develop and Carry Out Infrastructure Projects in Afghanistan
 
-Pub. L. 111–383, div. A, title XII, §1217, Jan. 7, 2011, 124 Stat. 4393, as amended by Pub. L. 112–81, div. A, title XII, §1217, Dec. 31, 2011, 125 Stat. 1632; Pub. L. 112–239, div. A, title XII, §1219, Jan. 2, 2013, 126 Stat. 1991, provided that:
+Pub. L. 111–383, div. A, title XII, §1217, Jan. 7, 2011, 124 Stat. 4393, as amended by Pub. L. 112–81, div. A, title XII, §1217, Dec. 31, 2011, 125 Stat. 1632; Pub. L. 112–239, div. A, title XII, §1219, Jan. 2, 2013, 126 Stat. 1991; Pub. L. 113–66, div. A, title XII, §1215(a), Dec. 26, 2013, 127 Stat. 907, provided that:
 
-“(a)
+"(a)
 
 Authority.—The Secretary of Defense and the Secretary of State are authorized to establish a program to develop and carry out infrastructure projects in Afghanistan in accordance with the requirements of this section.
 
-“(b)
+"(b)
 
 Formulation and Execution of Program.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary of State and the Secretary of Defense shall jointly develop any project under the program authorized under subsection (a). Except as provided in paragraph (2), the Secretary of State, in coordination with the Secretary of Defense, shall implement any project under the program authorized under subsection (a).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Exception.—The Secretary of Defense shall implement a project under the program authorized under subsection (a) if the Secretary of Defense and the Secretary of State jointly determine that the Secretary of Defense should implement the project.
 
-“(c)
+"(c)
 
 Types of Projects.—Infrastructure projects under the program authorized under subsection (a) may include—
 
-&emsp;“(1) water, power, and transportation projects; and
+&emsp;"(1) water, power, and transportation projects; and
 
-&emsp;“(2) other projects in support of the counterinsurgency strategy in Afghanistan.
+&emsp;"(2) other projects in support of the counterinsurgency strategy in Afghanistan.
 
-“(d)
+"(d)
 
 Authority in Addition to Other Authorities.—The authority to establish the program and develop and carry out infrastructure projects under subsection (a) is in addition to any other authority to provide assistance to foreign countries.
 
-“(e)
+"(e)
 
 Applicability of Certain Administrative Provisions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The administrative provisions of chapter 2 of part III of the Foreign Assistance Act of 1961 (22 U.S.C. 2381 et seq.) shall apply to funds made available to the Secretary of State for purposes of carrying out infrastructure projects under the program authorized under subsection (a) to the same extent and in the same manner as such administrative provisions apply to funds made available to carry out part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Gifts, etc.—The Secretary of Defense and the Secretary of State may accept and use in furtherance of the purposes of this section, money, funds, property, and services of any kind made available by gift, devise, bequest, grant, or otherwise for such purposes.
 
-“(f)
+"(f)
 
 Funding.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Subject to paragraph (2), to carry out the program authorized under subsection (a), the Secretary of Defense may use amounts as follows:
 
-&emsp;&emsp;“(A) Up to $400,000,000 made available to the Department of Defense for operation and maintenance for fiscal year 2012.
+&emsp;&emsp;"(A) Up to $400,000,000 made available to the Department of Defense for operation and maintenance for fiscal year 2012.
 
-&emsp;&emsp;“(B) Up to $350,000,000 made available to the Department of Defense for operation and maintenance for fiscal year 2013.
+&emsp;&emsp;"(B) Up to $350,000,000 made available to the Department of Defense for operation and maintenance for fiscal year 2013.
 
-&emsp;“(2)
+&emsp;&emsp;"(C) Up to $250,000,000 made available to the Department of Defense for operation and maintenance for fiscal year 2014.
 
-Limitation.—The Secretary of Defense may use not more than 50 percent of the amount specified in paragraph (1) for a fiscal year after fiscal year 2011 to carry out the program authorized under subsection (a) until the Secretary of Defense, in consultation with the Secretary of State, submits to the appropriate congressional committees a plan for the allocation and use of funds under the program for such fiscal year, including for each project to be initiated during such fiscal year the following:
+&emsp;"(2)
 
-&emsp;&emsp;“(A) An estimate of the financial and other requirements necessary to sustain such project on an annual basis after the completion of such project.
+Limitation.—The Secretary of Defense may use not more than 50 percent of the amount specified in paragraph (1) for a fiscal year after fiscal year 2011 to carry out the program authorized under subsection (a) until the Secretary of Defense, in consultation with the Secretary of State, submits to the appropriate congressional committees a plan for the allocation and use of funds under the program for such fiscal year, including for each project, or phase of aproject, to be initiated during such fiscal year the following:
 
-&emsp;&emsp;“(B) An assessment whether the Government of Afghanistan is committed to and has the capacity to maintain and use such project after its completion.
+&emsp;&emsp;"(A) An estimate of the financial and other requirements necessary to sustain such project on an annual basis after the completion of such project.
 
-&emsp;&emsp;“(C) A description of any arrangements for the sustainment of such project following its completion if the Government of Afghanistan lacks the capacity (in either financial or human resources) to maintain such project.
+&emsp;&emsp;"(B) An assessment whether the Government of Afghanistan is committed to and has the capacity to maintain and use such project after its completion.
 
-&emsp;“(3)
+&emsp;&emsp;"(C) An assessment of the capability of the Afghan National Security Forces (ANSF) to provide security for such project after January 1, 2015, including an estimate of the ANSF force levels, if any, required to secure such project. Such assessment should include the estimated costs of providing security and whether or not the Government of Afghanistan is committed to providing such security.
+
+&emsp;&emsp;"(D) A description of any arrangements for the sustainment of such project following its completion if the Government of Afghanistan lacks the capacity (in either financial or human resources) to maintain such project.
+
+&emsp;"(3)
 
 Availability.—Funds made available by paragraph (1) are authorized to remain available as follows:
 
-&emsp;&emsp;“(A) In the case of funds for fiscal year 2011, until September 30, 2012.
+&emsp;&emsp;"(A) In the case of funds for fiscal year 2011, until September 30, 2012.
 
-&emsp;&emsp;“(B) In the case of funds for fiscal year 2012, until September 30, 2013.
+&emsp;&emsp;"(B) In the case of funds for fiscal year 2012, until September 30, 2013.
 
-&emsp;&emsp;“(C) In the case of funds for fiscal year 2013, until September 30, 2014.
+&emsp;&emsp;"(C) In the case of funds for fiscal year 2013, until September 30, 2014.
 
-“(g)
+&emsp;&emsp;"(D) In the case of funds for fiscal year 2014, until September 30, 2015.
+
+"(g)
 
 Congressional Notification.—The Secretary of Defense shall notify the appropriate congressional committees not less than 15 days before obligating or expending funds to carry out a project or transferring funds to the Secretary of State for the purpose of implementing a project under the program authorized under subsection (a). Such notification shall be in writing and contain a description of the details of the proposed project, including—
 
-&emsp;“(1) a plan for the sustainment of the project; and
+&emsp;"(1) a plan for the sustainment of the project; and
 
-&emsp;“(2) a description of how the project supports the counterinsurgency strategy in Afghanistan.
+&emsp;"(2) a description of how the project supports the counterinsurgency strategy in Afghanistan.
 
-“(h)
+"(h)
 
 Return of Unexpended Funds.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Any unexpended funds transferred to the Secretary of State for the purpose of implementing a project under the program authorized under subsection (a) shall be returned to the Secretary of Defense if the Secretary of State, in coordination with the Secretary of Defense, determines that the project cannot be implemented for any reason or that the project no longer supports the counterinsurgency strategy in Afghanistan.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Availability.—Any funds returned to the Secretary of Defense under this subsection shall be available for use under this section and shall be treated in the same manner as funds not transferred to the Secretary of State.
 
-“(i)
+"(i)
 
 Reports.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Report required.—Not later than 30 days after the end of each fiscal year in which funds are obligated, expended, or transferred under the program authorized under subsection (a), the Secretary of Defense, in coordination with the Secretary of State, shall submit to the appropriate congressional committees a report regarding implementation of the program during such fiscal year.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Matters to be included.—The report required under paragraph (1) shall include the following:
 
-&emsp;&emsp;“(A) The allocation and use of funds under the program during the fiscal year.
+&emsp;&emsp;"(A) The allocation and use of funds under the program during the fiscal year.
 
-&emsp;&emsp;“(B) A description of each project for which funds were expended or transferred during the fiscal year.
+&emsp;&emsp;"(B) A description of each project for which funds were expended or transferred during the fiscal year.
 
-“(j)
+"(j)
 
-Definition.—In this section, the term ‘appropriate congressional committees’ means—
+Definition.—In this section, the term 'appropriate congressional committees' means—
 
-&emsp;“(1) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives; and
+&emsp;"(1) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives; and
 
-&emsp;“(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.”
+&emsp;"(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate."
+
+\[Pub. L. 113–66, div. A, title XII, §1215(b), Dec. 26, 2013, 127 Stat. 908, provided that: "The amendments made by this section \[amending section 1217 of Pub. L. 111–383, set out above\] shall take effect on October 1, 2013."\]
 
 #### Performance Monitoring System for United States-Led Provincial Reconstruction Teams in Afghanistan
 
 Pub. L. 110–417, \[div. A\], title XII, §1215, Oct. 14, 2008, 122 Stat. 4632, provided that:
 
-“(a)
+"(a)
 
 In General.—The President, acting through the Secretary of Defense and the Secretary of State, shall develop and implement a system to monitor the performance of United States-led Provincial Reconstruction Teams (PRTs) in Afghanistan.
 
-“(b)
+"(b)
 
 Elements of Performance Monitoring System.—The performance monitoring system required under subsection (a) shall include—
 
-&emsp;“(1) PRT-specific work plans that incorporate the long-term strategy, mission, and clearly defined objectives required by section 1230(c)(3) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 386), and include plans for developing the capacity of national, provincial, and local government and other civil institutions in Afghanistan to assume increasing responsibility for the formulation, implementation, and oversight of reconstruction and development activities; and
+&emsp;"(1) PRT-specific work plans that incorporate the long-term strategy, mission, and clearly defined objectives required by section 1230(c)(3) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 386), and include plans for developing the capacity of national, provincial, and local government and other civil institutions in Afghanistan to assume increasing responsibility for the formulation, implementation, and oversight of reconstruction and development activities; and
 
-&emsp;“(2) comprehensive performance indicators and measures of progress toward sustainable long-term security and stability in Afghanistan, and include performance standards and progress goals together with a notional timetable for achieving such goals, consistent with the requirements of section 1230(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 388).
+&emsp;"(2) comprehensive performance indicators and measures of progress toward sustainable long-term security and stability in Afghanistan, and include performance standards and progress goals together with a notional timetable for achieving such goals, consistent with the requirements of section 1230(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 388).
 
-“(c)
+"(c)
 
 Report.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the President shall submit to the appropriate congressional committees a report on the implementation of the performance monitoring system required under subsection (a).
 
-“(d)
+"(d)
 
-Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
 
-&emsp;“(1) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Affairs of the House of Representatives; and
+&emsp;"(1) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Affairs of the House of Representatives; and
 
-&emsp;“(2) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate.”
+&emsp;"(2) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate."
 
 #### Declarations of Policy
 
-Pub. L. 108–458, title VII, §7104(e)(1)(A), Dec. 17, 2004, 118 Stat. 3781, provided that: “Congress reaffirms the authorities contained in title I of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 \[7511\] et seq.), relating to economic and democratic development assistance for Afghanistan.”
+Pub. L. 108–458, title VII, §7104(e)(1)(A), Dec. 17, 2004, 118 Stat. 3781, provided that: "Congress reaffirms the authorities contained in title I of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 \[7511\] et seq.), relating to economic and democratic development assistance for Afghanistan."
 
-Pub. L. 108–458, title VII, §7104(f)(1), Dec. 17, 2004, 118 Stat. 3783, provided that: “Congress declares that, although Afghanistan has adopted a new constitution and made progress on primary education, the United States must invest in a concerted effort in Afghanistan to improve the rule of law, good governance, and effective policing, to accelerate work on secondary and university education systems, and to establish new initiatives to increase the capacity of civil society.”
+Pub. L. 108–458, title VII, §7104(f)(1), Dec. 17, 2004, 118 Stat. 3783, provided that: "Congress declares that, although Afghanistan has adopted a new constitution and made progress on primary education, the United States must invest in a concerted effort in Afghanistan to improve the rule of law, good governance, and effective policing, to accelerate work on secondary and university education systems, and to establish new initiatives to increase the capacity of civil society."
 
 #### Relief for Afghan Women and Children
 
 Pub. L. 107–81, Dec. 12, 2001, 115 Stat. 811, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘Afghan Women and Children Relief Act of 2001’.
+"This Act may be cited as the 'Afghan Women and Children Relief Act of 2001'.
 
-#### “SEC. 2. FINDINGS.
+#### "SEC. 2. FINDINGS.
 
-“Congress makes the following findings:
+"Congress makes the following findings:
 
-&emsp;“(1) In Afghanistan, Taliban restrictions on women's participation in society make it nearly impossible for women to exercise their basic human rights. The Taliban restrictions on Afghan women's freedom of expression, association, and movement deny women full participation in society and, consequently, from effectively securing basic access to work, education, and health care.
+&emsp;"(1) In Afghanistan, Taliban restrictions on women's participation in society make it nearly impossible for women to exercise their basic human rights. The Taliban restrictions on Afghan women's freedom of expression, association, and movement deny women full participation in society and, consequently, from effectively securing basic access to work, education, and health care.
 
-&emsp;“(2) Afghanistan has one of the highest infant (165 of 1000) and child (257 of 1000) mortality rates in the world.
+&emsp;"(2) Afghanistan has one of the highest infant (165 of 1000) and child (257 of 1000) mortality rates in the world.
 
-&emsp;“(3) Only 5 percent of rural and 39 percent of urban Afghans have access to safe drinking water.
+&emsp;"(3) Only 5 percent of rural and 39 percent of urban Afghans have access to safe drinking water.
 
-&emsp;“(4) It is estimated that 42 percent of all deaths in Afghanistan are due to diarrheal diseases caused by contaminated food and water.
+&emsp;"(4) It is estimated that 42 percent of all deaths in Afghanistan are due to diarrheal diseases caused by contaminated food and water.
 
-&emsp;“(5) Over one-third of Afghan children under 5 years of age suffer from malnutrition, 85,000 of whom die annually.
+&emsp;"(5) Over one-third of Afghan children under 5 years of age suffer from malnutrition, 85,000 of whom die annually.
 
-&emsp;“(6) Seventy percent of the health care system in Afghanistan is dependent on foreign assistance.
+&emsp;"(6) Seventy percent of the health care system in Afghanistan is dependent on foreign assistance.
 
-&emsp;“(7) As of May 1998, only 20 percent of hospital medical and surgical beds dedicated to adults were available for women, and thousands of Afghan women and girls are routinely denied health care.
+&emsp;"(7) As of May 1998, only 20 percent of hospital medical and surgical beds dedicated to adults were available for women, and thousands of Afghan women and girls are routinely denied health care.
 
-&emsp;“(8) Women are forbidden to leave their homes without being escorted by a male relative. This prevents many women from seeking basic necessities like health care and food for their children. Doctors, virtually all of whom are male, are also not permitted to provide certain types of care not deemed appropriate by the Taliban.
+&emsp;"(8) Women are forbidden to leave their homes without being escorted by a male relative. This prevents many women from seeking basic necessities like health care and food for their children. Doctors, virtually all of whom are male, are also not permitted to provide certain types of care not deemed appropriate by the Taliban.
 
-&emsp;“(9) Before the Taliban took control of Kabul, schools were coeducational, with women accounting for 70 percent of the teaching force. Women represented about 50 percent of the civil service corps, and 40 percent of the city's physicians were women. Today, the Taliban prohibits women from working as teachers, doctors, and in any other occupation.
+&emsp;"(9) Before the Taliban took control of Kabul, schools were coeducational, with women accounting for 70 percent of the teaching force. Women represented about 50 percent of the civil service corps, and 40 percent of the city's physicians were women. Today, the Taliban prohibits women from working as teachers, doctors, and in any other occupation.
 
-&emsp;“(10) The Taliban prohibit \[sic\] girls and women from attending school. In 1998, the Taliban ordered the closing of more than 100 privately funded schools where thousands of young women and girls were receiving education and training in skills that would have helped them support themselves and their families.
+&emsp;"(10) The Taliban prohibit \[sic\] girls and women from attending school. In 1998, the Taliban ordered the closing of more than 100 privately funded schools where thousands of young women and girls were receiving education and training in skills that would have helped them support themselves and their families.
 
-&emsp;“(11) Of the many tens of thousands of war widows in Afghanistan, many are forced to beg for food and to sell their possessions because they are not allowed to work.
+&emsp;"(11) Of the many tens of thousands of war widows in Afghanistan, many are forced to beg for food and to sell their possessions because they are not allowed to work.
 
-&emsp;“(12) Resistance movements courageously continue to educate Afghan girls in secrecy and in foreign countries against Taliban law.
+&emsp;"(12) Resistance movements courageously continue to educate Afghan girls in secrecy and in foreign countries against Taliban law.
 
-#### “SEC. 3. AUTHORIZATION OF ASSISTANCE.
+#### "SEC. 3. AUTHORIZATION OF ASSISTANCE.
 
-“(a)
+"(a)
 
 In General.—Subject to subsection (b), the President is authorized, on such terms and conditions as the President may determine, to provide educational and health care assistance for the women and children living in Afghanistan and as refugees in neighboring countries.
 
-“(b)
+"(b)
 
 Implementation.—(1) In providing assistance under subsection (a), the President shall ensure that such assistance is provided in a manner that protects and promotes the human rights of all people in Afghanistan, utilizing indigenous institutions and nongovernmental organizations, especially women's organizations, to the extent possible.
 
-“(2) Beginning 6 months after the date of enactment of this Act \[Dec. 12, 2001\], and at least annually for the 2 years thereafter, the Secretary of State shall submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives describing the activities carried out under this Act and otherwise describing the condition and status of women and children in Afghanistan and the persons in refugee camps while United States aid is given to displaced Afghans.
+"(2) Beginning 6 months after the date of enactment of this Act \[Dec. 12, 2001\], and at least annually for the 2 years thereafter, the Secretary of State shall submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives describing the activities carried out under this Act and otherwise describing the condition and status of women and children in Afghanistan and the persons in refugee camps while United States aid is given to displaced Afghans.
 
-“(c)
+"(c)
 
-Availability of Funds.—Funds made available under the 2001 Emergency Supplemental Appropriations Act for Recovery from and Response to Terrorist Attacks on the United States (Public Law 107–38) \[115 Stat. 220\], shall be available to carry out this Act.”
+Availability of Funds.—Funds made available under the 2001 Emergency Supplemental Appropriations Act for Recovery from and Response to Terrorist Attacks on the United States (Public Law 107–38) \[115 Stat. 220\], shall be available to carry out this Act."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “ordnance.”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "ordnance."</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

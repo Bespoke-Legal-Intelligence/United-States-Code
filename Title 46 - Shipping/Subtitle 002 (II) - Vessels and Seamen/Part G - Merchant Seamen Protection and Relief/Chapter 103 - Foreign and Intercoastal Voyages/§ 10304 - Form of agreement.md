@@ -94,5 +94,5 @@ Section 10304 provides the form of the shipping articles of agreement. While the
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–206 struck out “Shipping commissioner's signature or initials” immediately below “In what capacity” in the form.
+<b>1993</b>—Pub. L. 103–206 struck out "Shipping commissioner's signature or initials" immediately below "In what capacity" in the form.
 

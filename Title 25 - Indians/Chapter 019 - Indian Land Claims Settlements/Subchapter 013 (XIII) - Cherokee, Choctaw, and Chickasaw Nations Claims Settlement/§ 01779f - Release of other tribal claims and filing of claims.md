@@ -6,7 +6,7 @@
 
 &emsp;As of December 13, 2002—
 
-&emsp;&emsp;(A) all right, title, and interest of any Indian nation or tribe other than any Indian Nation defined in section 1779b of this title (referred to in this section and section 1779g of this title as a “claimant tribe”) in or to the Disclaimed Drybed Lands, and any such right, title, or interest held by the United States on behalf of such a claimant tribe, shall be considered to be extinguished in accordance with section 177 of title 25;
+&emsp;&emsp;(A) all right, title, and interest of any Indian nation or tribe other than any Indian Nation defined in section 1779b of this title (referred to in this section and section 1779g of this title as a "claimant tribe") in or to the Disclaimed Drybed Lands, and any such right, title, or interest held by the United States on behalf of such a claimant tribe, shall be considered to be extinguished in accordance with section 177 of title 25;
 
 &emsp;&emsp;(B) if any party other than a claimant tribe holds transferred interests in or to the Disclaimed Drybed Lands in violation of section 177 of title 25, Congress approves and ratifies those transfers of interests to the extent that the transfers are in accordance with other applicable law; and
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) any remaining amount in the special holding account attributable to the claim shall be transferred to the appropriate tribal trust account for the Indian Nation established by section 1779d(a) of this title; and
 
-&emsp;&emsp;&emsp;(ii) if the final judgment awards to a claimant an amount that exceeds the amount of funds in the special holding account attributable to the Indian Nation from the allocation of which under section 1779c(d) of this title the funds in the special holding account are derived—
+&emsp;&emsp;&emsp;(ii) if the final judgment awards to a claimant an amount that exceeds theamount of funds in the special holding account attributable to the Indian Nation from the allocation of which under section 1779c(d) of this title the funds in the special holding account are derived—
 
 &emsp;&emsp;&emsp;&emsp;(I) the balance of funds in the special holding account attributable to the Indian Nation shall be distributed to the claimant tribe that filed the claim; and
 
@@ -98,7 +98,7 @@ Congress declares that—
 
 #### References in Text
 
-Section 1779d(a) of this title, referred to in subsec. (b)(3)(C)(i), was in the original “section 6(a)” and was translated as reading “section 606(a)”, meaning section 606(a) of Pub. L. 107–331, to reflect the probable intent of Congress, because Pub. L. 107–331 does not contain a section 6, and section 1779d(a) establishes three tribal trust fund accounts.
+Section 1779d(a) of this title, referred to in subsec. (b)(3)(C)(i), was in the original "section 6(a)" and was translated as reading "section 606(a)", meaning section 606(a) of Pub. L. 107–331, to reflect the probable intent of Congress, because Pub. L. 107–331 does not contain a section 6, and section 1779d(a) establishes three tribal trust fund accounts.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

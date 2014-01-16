@@ -26,7 +26,7 @@ Authorized Activities.—
 
 &emsp;&emsp;(D) distribution of publications pertinent to engagement with maritime authorities of foreign governments; and
 
-&emsp;&emsp;(E) personnel expenses for Coast Guard civilian and military personnel to the extentthat those expenses relate to participation in an activity described in subparagraph (C) or (D).
+&emsp;&emsp;(E) personnel expenses for Coast Guard civilian and military personnel to the extent that those expenses relate to participation in an activity described in subparagraph (C) or (D).
 
 &emsp;(2) An activity may not be conducted under this subsection with a foreign country unless the Secretary of State approves the conduct of such activity in that foreign country.
 
@@ -44,7 +44,7 @@ It seems probable that the increased collaboration with foreign governments afte
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–213, §216(d), struck out at end “Members so detailed may accept, from the government to which detailed, offices and such compensation and emoluments thereunder appertaining as may be first approved by the Secretary. While so detailed such members shall receive, in addition to the compensation and emoluments allowed them by such governments, the pay and allowances to which they are entitled in the Coast Guard and shall be allowed the same credit for longevity, retirement, and for all other purposes that they would receive if they were serving with the Coast Guard.”
+<b>2012</b>—Subsec. (a). Pub. L. 112–213, §216(d), struck out at end "Members so detailed may accept, from the government to which detailed, offices and such compensation and emoluments thereunder appertaining as may be first approved by the Secretary. While so detailed such members shall receive, in addition to the compensation and emoluments allowed them by such governments, the pay and allowances to which they are entitled in the Coast Guard and shall be allowed the same credit for longevity, retirement, and for all other purposes that they would receive if they were serving with the Coast Guard."
 
 Subsec. (d)(3). Pub. L. 112–213, §203, added par. (3).
 
@@ -52,9 +52,9 @@ Subsec. (d)(3). Pub. L. 112–213, §203, added par. (3).
 
 Subsec. (d). Pub. L. 111–281, §220, added subsec. (d).
 
-<b>2006</b>—Pub. L. 109–241 substituted “Assistance to foreign governments and maritime authorities” for “Detail of members to assist foreign governments” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–241 substituted "Assistance to foreign governments and maritime authorities" for "Detail of members to assist foreign governments" in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1984</b>—Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men in three places in text, and in catchline substituted “members” for “officers and men”.
+<b>1984</b>—Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men in three places in text, and in catchline substituted "members" for "officers and men".
 
 #### Delegation of Authority
 

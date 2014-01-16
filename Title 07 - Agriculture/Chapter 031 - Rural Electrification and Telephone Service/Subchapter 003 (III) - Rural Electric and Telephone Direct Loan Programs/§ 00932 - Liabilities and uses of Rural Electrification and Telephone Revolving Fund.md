@@ -22,7 +22,7 @@ The assets of the fund shall be available only for the following purposes:
 
 &emsp;(7) payment of taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application, and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, expenses for necessary services, including construction inspections, commercial appraisals, loan servicing, consulting business advisory or other commercial and technical services, and other program services, and other expenses and advances authorized in section 907 of this title in connection with insured loans. Such items may be paid in connection with guaranteed loans after or in connection with the acquisition of such loans or security thereof after default, to the extent determined to be necessary to protect the interest of the Government, or in connection with any other activity authorized in this chapter;
 
-&emsp;(8) payment of the purchase price and any costs and expenses incurred in connectionwith the purchase, acquisition, or operation of property pursuant to section 907 of this title.
+&emsp;(8) payment of the purchase price and any costs and expenses incurred in connection with the purchase, acquisition, or operation of property pursuant to section 907 of this title.
 
 #### (c) Separate electric and telephone accounts
 
@@ -44,9 +44,9 @@ Section 905 of this title, referred to in subsecs. (a) and (b)(1), was repealed 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–127 struck out “pursuant to section 903(a) of this title” after “purposes”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–127 struck out "pursuant to section 903(a) of this title" after "purposes".
 
-<b>1994</b>—Subsecs. (a), (b)(2), (4), (5), (c)(1), (2). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1994</b>—Subsecs. (a), (b)(2), (4), (5), (c)(1), (2). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–624 added subsec. (c).
 

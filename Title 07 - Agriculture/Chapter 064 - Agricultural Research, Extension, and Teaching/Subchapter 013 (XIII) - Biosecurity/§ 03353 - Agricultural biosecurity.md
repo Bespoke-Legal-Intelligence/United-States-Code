@@ -4,7 +4,7 @@
 
 #### (1) Grants
 
-&emsp;The Secretary of Agriculture (referred to in this section as the “Secretary”) may award grants to covered entities to review security standards and practices at their facilities in order to protect against bioterrorist attacks.
+&emsp;The Secretary of Agriculture (referred to in this section as the "Secretary") may award grants to covered entities to review security standards and practices at their facilities in order to protect against bioterrorist attacks.
 
 #### (2) Covered entities
 

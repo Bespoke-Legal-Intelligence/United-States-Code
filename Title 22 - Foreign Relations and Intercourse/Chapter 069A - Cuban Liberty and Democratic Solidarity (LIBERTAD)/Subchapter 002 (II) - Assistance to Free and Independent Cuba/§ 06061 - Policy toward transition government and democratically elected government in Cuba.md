@@ -20,7 +20,7 @@ The policy of the United States is as follows:
 
 &emsp;(6) Through such assistance, to facilitate a peaceful transition to representative democracy and a market economy in Cuba and to consolidate democracy in Cuba.
 
-&emsp;(7) To deliver such assistance to the Cuban people only through a transition governmentin Cuba, through a democratically elected government in Cuba, through United States Government organizations, or through United States, international, or indigenous nongovernmental organizations.
+&emsp;(7) To deliver such assistance to the Cuban people only through a transition government in Cuba, through a democratically elected government in Cuba, through United States Government organizations, or through United States, international, or indigenous nongovernmental organizations.
 
 &emsp;(8) To encourage other countries and multilateral organizations to provide similar assistance, and to work cooperatively with such countries and organizations to coordinate such assistance.
 

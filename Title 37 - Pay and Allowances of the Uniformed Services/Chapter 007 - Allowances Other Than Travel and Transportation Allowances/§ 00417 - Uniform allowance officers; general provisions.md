@@ -8,7 +8,7 @@
 
 (d)(1) For purposes of sections 415 and 416 of this title, a period for which an officer of an armed force, while employed as a National Guard technician, is required to wear a uniform under section 709(b) of title 32 shall be treated as a period of active duty (other than for training).
 
-(2) A uniform allowance may not be paid, and uniforms may not be furnished, to an officer under section 1593 of title 10 or section 5901 of title 5 for a period of employment referred to in paragraph (1) for which an officer is paid a uniform allowance under section 415 or 416 of this title.
+(2) A uniform allowance may not be paid, and uniforms may not be furnished, to an officerunder section 1593 of title 10 or section 5901 of title 5 for a period of employment referred to in paragraph (1) for which an officer is paid a uniform allowance under section 415 or 416 of this title.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title X, §1038(b), Feb. 10, 1996, 110 Stat. 432; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
 
@@ -34,19 +34,19 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §305 (1st proviso of (a)), (d), (e); added Aug. 10, 1956, ch. 1041, §20(d) (1st proviso of 1st par., 4th par., and 5th par.), 70A Stat. 629.
 
-In subsection (a), the words “within that department” are inserted for clarity. The words “may prescribe” are substituted for the words “shall prescribe”, since the words “that he considers necessary” indicate that the prescribing of regulations is not mandatory.
+In subsection (a), the words "within that department" are inserted for clarity. The words "may prescribe" are substituted for the words "shall prescribe", since the words "that he considers necessary" indicate that the prescribing of regulations is not mandatory.
 
-Subsection (b) is substituted for section 255(d) (less last sentence) of existing title 37. Section 255(d) last sentence) of existing title 37 is omitted, since the categories named therein are excluded by the words “a reserve officer”. (See revision note for section 415(a) of this revised title.)
+Subsection (b) is substituted for section 255(d) (less last sentence) of existing title 37. Section 255(d) last sentence) of existing title 37 is omitted, since the categories named therein are excluded by the words "a reserve officer". (See revision note for section 415(a) of this revised title.)
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–106 added subsec. (d).
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–25 struck out “of this section” after “subsections (a) and (b)”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–25 struck out "of this section" after "subsections (a) and (b)".
 
-<b>1968</b>—Subsecs. (a), (b). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1968</b>—Subsecs. (a), (b). Pub. L. 90–623 substituted "Secretary of Transportation" for "Secretary of the Treasury".
 
 #### Effective Date of 2002 Amendment
 

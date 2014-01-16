@@ -8,7 +8,7 @@
 
 &emsp;(B) Within 1 year after September 13, 1994, the Director of the Federal Bureau of Investigation shall arrange for periodic blind external tests to determine the proficiency of DNA analysis performed at the Federal Bureau of Investigation laboratory.
 
-&emsp;(C) In this paragraph, “blind external test” means a test that is presented to the laboratory through a second agency and appears to the analysts to involve routine evidence.
+&emsp;(C) In this paragraph, "blind external test" means a test that is presented to the laboratory through a second agency and appears to the analysts to involve routine evidence.
 
 #### (2) Report
 
@@ -46,9 +46,9 @@
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(2). Pub. L. 108–405 substituted “$250,000, or imprisoned for a period of not more than one year, or both” for “$100,000”.
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–405 substituted "$250,000, or imprisoned for a period of not more than one year, or both" for "$100,000".
 
-<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–546 substituted “semiannual” for “, at regular intervals of not to exceed 180 days,”.
+<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–546 substituted "semiannual" for ", at regular intervals of not to exceed 180 days,".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “statutes”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "statutes".</i>
 

@@ -18,7 +18,7 @@ The Secretary is authorized to make grants to States and other public and nonpro
 
 #### (c) Private nonprofit entities; limitation on amount of grant or contract
 
-The Secretary is authorized to support by grant or contract (and to encourage others to support) private nonprofit entities working in health information and health promotion, preventive health services, and education in the appropriate use of health care. The amount of any grant or contract for a fiscal year beginning after September 30, 1978, for an entity may not exceed 25 per centum of the expenses of the entity for such fiscal year for health information and health promotion, preventive health services, and education in the appropriate use of health care.
+The Secretary is authorized to support by grant or contract (and to encourage others to support) private nonprofit entities working inhealth information and health promotion, preventive health services, and education in the appropriate use of health care. The amount of any grant or contract for a fiscal year beginning after September 30, 1978, for an entity may not exceed 25 per centum of the expenses of the entity for such fiscal year for health information and health promotion, preventive health services, and education in the appropriate use of health care.
 
 (July 1, 1944, ch. 373, title XVII, §1703, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 697.)
 

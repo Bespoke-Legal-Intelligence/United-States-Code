@@ -22,29 +22,29 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §24; added Apr. 2, 1987, Pub. L. 
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–59 substituted “public transportation” for “mass transportation”.
+<b>2005</b>—Pub. L. 109–59 substituted "public transportation" for "mass transportation".
 
 #### Regulations
 
-Pub. L. 109–59, title III, §3028(c), Aug. 10, 2005, 119 Stat. 1624, provided that: “Not later than 180 days after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] and the Secretary of Homeland Security shall issue jointly final regulations to establish the characteristics of and requirements for public transportation security grants, including funding priorities, eligible activities, methods for awarding grants, and limitations on administrative expenses.”
+Pub. L. 109–59, title III, §3028(c), Aug. 10, 2005, 119 Stat. 1624, provided that: "Not later than 180 days after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] and the Secretary of Homeland Security shall issue jointly final regulations to establish the characteristics of and requirements for public transportation security grants, including funding priorities, eligible activities, methods for awarding grants, and limitations on administrative expenses."
 
 #### Public Transportation Security
 
 Pub. L. 109–59, title III, §3028(b), Aug. 10, 2005, 119 Stat. 1624, provided that:
 
-“(1)
+"(1)
 
 In general.—Not later than 45 days after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall execute an annex to the memorandum of understanding between the Secretary and the Secretary of Homeland Security, dated September 28, 2004, to define and clarify the respective roles and responsibilities of the Department of Transportation and the Department of Homeland Security relating to public transportation security.
 
-“(2)
+"(2)
 
 Contents.—The annex to be executed under paragraph (1) shall—
 
-&emsp;“(A) establish a process to develop security standards for public transportation agencies;
+&emsp;"(A) establish a process to develop security standards for public transportation agencies;
 
-&emsp;“(B) create a method of direct coordination with public transportation agencies on security matters;
+&emsp;"(B) create a method of direct coordination with public transportation agencies on security matters;
 
-&emsp;“(C) address any other issues determined to be appropriate by the Secretary and the Secretary of Homeland Security; and
+&emsp;"(C) address any other issues determined to be appropriate by the Secretary and the Secretary of Homeland Security; and
 
-&emsp;“(D) include a formal and permanent mechanism to ensure coordination and involvement by the Department of Transportation, as appropriate, in public transportation security.”
+&emsp;"(D) include a formal and permanent mechanism to ensure coordination and involvement by the Department of Transportation, as appropriate, in public transportation security."
 

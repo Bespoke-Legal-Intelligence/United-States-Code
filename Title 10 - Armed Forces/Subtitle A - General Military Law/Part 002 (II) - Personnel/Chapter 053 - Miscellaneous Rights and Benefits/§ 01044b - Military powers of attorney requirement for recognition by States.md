@@ -20,7 +20,7 @@ Statement To Be Included.—(1) Under regulations prescribed by the Secretary co
 
 (d)
 
-State Defined.—In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and a possession of the United States.
+State Defined.—In this section, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, and a possession of the United States.
 
 (Added Pub. L. 103–160, div. A, title V, §574(a), Nov. 30, 1993, 107 Stat. 1674.)
 

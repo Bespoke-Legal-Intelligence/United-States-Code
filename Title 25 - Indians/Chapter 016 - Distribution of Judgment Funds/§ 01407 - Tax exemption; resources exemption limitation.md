@@ -10,7 +10,7 @@ None of the funds which—
 
 &emsp;(4) are paid by the State of Minnesota to the Bois Forte Band of Chippewa Indians pursuant to the agreements of such Band to voluntarily restrict tribal rights to hunt and fish in territory cede <sup>2</sup> under the Treaty of September 30, 1854 (10 Stat. 1109), including all interest accrued on such funds during any period in which such funds are held in a minor's trust,
 
-> including all interest and investment income accrued thereon while such funds are so held in trust, shall be subject to Federal or State income taxes, nor shall such funds nor their availability be considered as income or resources nor otherwise utilized as the basis for denying or reducing the financial assistance or other benefits to which such household or member would otherwise be entitled under the Social SecurityAct \[42 U.S.C. 301 et seq.\] or, except for per capita shares in excess of $2,000, any Federal or federally assisted program.
+> including all interest and investment income accrued thereon while such funds are so held in trust, shall be subject to Federal or State income taxes, nor shall such funds nor their availability be considered as income or resources nor otherwise utilized as the basis for denying or reducing the financial assistance or other benefits to which such household or member would otherwise be entitled under the Social Security Act \[42 U.S.C. 301 et seq.\] or, except for per capita shares in excess of $2,000, any Federal or federally assisted program.
 
 (Pub. L. 93–134, §7, Oct. 19, 1973, 87 Stat. 468; Pub. L. 97–458, §4, Jan. 12, 1983, 96 Stat. 2513; Pub. L. 106–568, title VIII, §818, Dec. 27, 2000, 114 Stat. 2918.)
 
@@ -22,9 +22,9 @@ The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 
 
 <b>2000</b>—Par. (4). Pub. L. 106–568 added par. (4).
 
-<b>1983</b>—Pub. L. 97–458 amended section generally. Prior to amendment, section read as follows: “None of the funds distributed per capita or held in trust under the provisions of this chapter shall be subject to Federal or State income taxes, and the per capita payments shall not be considered as income or resources when determining the extent of eligibility for assistance under the Social Security Act”.
+<b>1983</b>—Pub. L. 97–458 amended section generally. Prior to amendment, section read as follows: "None of the funds distributed per capita or held in trust under the provisions of this chapter shall be subject to Federal or State income taxes, and the per capita payments shall not be considered as income or resources when determining the extent of eligibility for assistance under the Social Security Act".
 
-<i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "or" probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “ceded”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "ceded".</i>
 

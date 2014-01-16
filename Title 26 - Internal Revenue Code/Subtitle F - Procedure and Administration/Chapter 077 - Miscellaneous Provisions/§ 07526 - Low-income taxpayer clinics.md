@@ -12,7 +12,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified low-income taxpayer clinic” means a clinic that—
+&emsp;&emsp;The term "qualified low-income taxpayer clinic" means a clinic that—
 
 &emsp;&emsp;&emsp;(i) does not charge more than a nominal fee for its services (except for reimbursement of actual costs incurred); and
 
@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (2) Clinic
 
-&emsp;The term “clinic” includes—
+&emsp;The term "clinic" includes—
 
 &emsp;&emsp;(A) a clinical program at an accredited law, business, or accounting school in which students represent low-income taxpayers in controversies arising under this title; and
 
@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (3) Qualified representative
 
-&emsp;The term “qualified representative” means any individual (whether or not an attorney) who is authorized to practice before the Internal Revenue Service or the applicable court.
+&emsp;The term "qualified representative" means any individual (whether or not an attorney) who is authorized to practice before the Internal Revenue Service or the applicable court.
 
 #### (c) Special rules and limitations
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;In determining whether to make a grant under this section, the Secretary shall consider—
 
-&emsp;&emsp;(A) the numbers of taxpayers who will be served by the clinic, including the number of taxpayers in the geographical area for whom English is a second language;
+&emsp;&emsp;(A) the numbers of taxpayers who will be served by the clinic, including the number oftaxpayers in the geographical area for whom English is a second language;
 
 &emsp;&emsp;(B) the existence of other low-income taxpayer clinics serving the same population;
 
@@ -80,5 +80,5 @@ For purposes of this section—
 
 #### Effective Date
 
-Pub. L. 105–206, title III, §3601(c), July 22, 1998, 112 Stat. 776, provided that: “The amendments made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3601(c), July 22, 1998, 112 Stat. 776, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
 

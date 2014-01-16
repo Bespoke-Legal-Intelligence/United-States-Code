@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(A) the alien spouse and the petitioning spouse (if not deceased) jointly must submit to the Secretary of Homeland Security, during the period described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1), and
 
-&emsp;&emsp;(B) in accordance with subsection (d)(3), the alien spouse and the petitioning spouse (if not deceased) must appear for a personal interview before an officer or employee ofthe Department of Homeland Security respecting the facts and information described in subsection (d)(1).
+&emsp;&emsp;(B) in accordance with subsection (d)(3), the alien spouse and the petitioning spouse (if not deceased) must appear for a personal interview before an officer or employee of the Department of Homeland Security respecting the facts and information described in subsection (d)(1).
 
 #### (2) Termination of permanent resident status for failure to file petition or have personal interview
 
@@ -92,13 +92,15 @@
 
 #### (4) Hardship waiver
 
-&emsp;The Secretary of Homeland Security, in the Attorney General's <sup>2</sup> discretion, may remove the conditional basis of the permanent resident status for an alien who fails to meet the requirements of paragraph (1) if the alien demonstrates that—
+&emsp;The Secretary of Homeland Security, in the Secretary's discretion, may remove the conditional basis of the permanent resident status for an alien who fails to meet the requirements of paragraph (1) if the alien demonstrates that—
 
-&emsp;&emsp;(A) extreme hardship would result if such alien is removed,
+&emsp;&emsp;(A) extreme hardship would result if such alien is removed;
 
-&emsp;&emsp;(B) the qualifying marriage was entered into in good faith by the alien spouse, but the qualifying marriage has been terminated (other than through the death of the spouse) and the alien was not at fault in failing to meet the requirements of paragraph (1), or
+&emsp;&emsp;(B) the qualifying marriage was entered into in good faith by the alien spouse, but the qualifying marriage has been terminated (other than through the death of the spouse) and the alien was not at fault in failing to meet the requirements of paragraph (1); or
 
-&emsp;&emsp;(C) the qualifying marriage was entered into in good faith by the alien spouse and during the marriage the alien spouse or child was battered by or was the subject of extreme cruelty perpetrated by his or her spouse or citizen or permanent resident parent and the alien was not at fault in failing to meet the requirements of paragraph (1).
+&emsp;&emsp;(C) the qualifying marriage was entered into in good faith by the alien spouse and during the marriage the alien spouse or child was battered by or was the subject of extreme cruelty perpetrated by his or her spouse or citizen or permanent resident parent and the alien was not at fault in failing to meet the requirements of paragraph (1); or
+
+&emsp;&emsp;(D) the alien meets the requirements under section 1154(a)(1)(A)(iii)(II)(aa)(BB) of this title and following the marriage ceremony was battered by or subject to extreme cruelty perpetrated by the alien's intended spouse and was not at fault in failing to meet the requirements of paragraph (1).
 
 > &emsp;In determining extreme hardship, the Secretary of Homeland Security shall consider circumstances occurring only during the period that the alien was admitted for permanent residence on a conditional basis. In acting on applications under this paragraph, the Secretary of Homeland Security shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Secretary of Homeland Security. The Secretary of Homeland Security shall, by regulation, establish measures to protect the confidentiality of information concerning any abused alien spouse or child, including information regarding the whereabouts of such spouse or child.
 
@@ -120,7 +122,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) was not entered into for the purpose of procuring an alien's admission as an immigrant; and
 
-&emsp;&emsp;&emsp;(ii) no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) of this title or subsection (d) or (p) <sup>3</sup> of section 1184 of this title with respect to the alien spouse or alien son or daughter.
+&emsp;&emsp;&emsp;(ii) no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) of this title or subsection (d) or (p) <sup>2</sup> of section 1184 of this title with respect to the alien spouse or alien son or daughter.
 
 #### (B) Statement of additional information
 
@@ -186,7 +188,7 @@ In this section:
 
 &emsp;(4) The term “petitioning spouse” means the spouse of a qualifying marriage, other than the alien.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621; Pub. L. 106–553, §1(a)(2) \[title XI, §1103(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–145; Pub. L. 112–58, §1, Nov. 23, 2011, 125 Stat. 747.)
+(June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100 Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621; Pub. L. 106–553, §1(a)(2) \[title XI, §1103(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–145; Pub. L. 112–58, §1, Nov. 23, 2011, 125 Stat. 747; Pub. L. 113–4, title VIII, §806, Mar. 7, 2013, 127 Stat. 112.)
 
 #### References in Text
 
@@ -199,6 +201,12 @@ Subsection (p) of section 1184 of this title, referred to in subsec. (d)(1)(A)(i
 Another section 216 of act June 27, 1952, was renumbered section 218 and is classified to section 1188 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(4). Pub. L. 113–4, §806(b)(2), which, in concluding provisions, directed the substitution of “Secretary of Homeland Security” for “Attorney General” in the first sentence and “Secretary” for “Attorney General” in the second to fourth sentences, could not be executed because of the prior amendment by Pub. L. 112–58, §1(b)(2)(B). See 2011 Amendment note below.
+
+Pub. L. 113–4, §806(b)(1), which directed the substitution of “The Secretary of Homeland Security, in the Secretary's” for “The Attorney General, in the Attorney General's” in introductory provisions, was executed by making the substitution for “The Secretary of Homeland Security, in the Attorney General's”, to reflect the probable intent of Congress and the prior amendment by Pub. L. 112–58, §1(b)(2)(B). See 2011 Amendment note below.
+
+Subsec. (c)(4)(D). Pub. L. 113–4, §806(a), added subpar. (D).
 
 <b>2011</b>—Pub. L. 112–58, §1(b)(2)(B), substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing except in subsec. (g)(2).
 
@@ -248,7 +256,7 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–322, title IV, §40702(b), Sept. 13, 1994, 108 Stat. 1955, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Sept. 13, 1994\] and shall apply to applications made before, on, or after such date.”
+Pub. L. 103–322, title IV, §40702(b), Sept. 13, 1994, 108 Stat. 1955, provided that: “The amendment made bysubsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Sept. 13, 1994\] and shall apply to applications made before, on, or after such date.”
 
 #### Effective Date of 1991 Amendment
 
@@ -268,7 +276,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Secretary's”.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -2,31 +2,31 @@
 
 For purposes of this subchapter, the term—
 
-&emsp;(a) “construction programs” means programs for the planning, design, construction, repair, improvement, and expansion of buildings or facilities, including, but not limited to, housing, law enforcement and detention facilities, sanitation and water systems, roads, schools, administration and health facilities, irrigation and agricultural work, and water conservation, flood control, or port facilities;
+&emsp;(a) "construction programs" means programs for the planning, design, construction, repair, improvement, and expansion of buildings or facilities, including, but not limited to, housing, law enforcement and detention facilities, sanitation and water systems, roads, schools, administration and health facilities, irrigation and agricultural work, and water conservation, flood control, or port facilities;
 
-&emsp;(b) “contract funding base” means the base level from which contract funding needs are determined, including all contract costs;
+&emsp;(b) "contract funding base" means the base level from which contract funding needs are determined, including all contract costs;
 
-&emsp;(c) “direct program costs” means costs that can be identified specifically with a particular contract objective;
+&emsp;(c) "direct program costs" means costs that can be identified specifically with a particular contract objective;
 
-&emsp;(d) “Indian” means a person who is a member of an Indian tribe;
+&emsp;(d) "Indian" means a person who is a member of an Indian tribe;
 
-&emsp;(e) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
+&emsp;(e) "Indian tribe" means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
 
-&emsp;(f) “indirect costs” means costs incurred for a common or joint purpose benefiting more than one contract objective, or which are not readily assignable to the contract objectives specifically benefited without effort disproportionate to the results achieved;
+&emsp;(f) "indirect costs" means costs incurred for a common or joint purpose benefiting more than one contract objective, or which are not readily assignable to the contract objectives specifically benefited without effort disproportionate to the results achieved;
 
-&emsp;(g) “indirect cost rate” means the rate arrived at through negotiation between an Indian tribe or tribal organization and the appropriate Federal agency;
+&emsp;(g) "indirect cost rate" means the rate arrived at through negotiation between an Indian tribe or tribal organization and the appropriate Federal agency;
 
-&emsp;(h) “mature contract” means a self-determination contract that has been continuously operated by a tribal organization for three or more years, and for which there are no significant and material audit exceptions in the annual financial audit of the tribal organization: <i>Provided</i>, That upon the request of a tribal organization or the tribal organization's Indian tribe for purposes of section 450f(a) of this title, a contract of the tribal organization which meets this definition shall be considered to be a mature contract;
+&emsp;(h) "mature contract" means a self-determination contract that has been continuously operated by a tribal organization for three or more years, and for which there are no significant and material audit exceptions in the annual financial audit of the tribal organization: <i>Provided</i>, That upon the request of a tribal organization or the tribal organization's Indian tribe for purposes of section 450f(a) of this title, a contract of the tribal organization which meets this definition shall be considered to be a mature contract;
 
-&emsp;(i) “Secretary”, unless otherwise designated, means either the Secretary of Health and Human Services or the Secretary of the Interior or both;
+&emsp;(i) "Secretary", unless otherwise designated, means either the Secretary of Health and Human Services or the Secretary of the Interior or both;
 
-&emsp;(j) “self-determination contract” means a contract (or grant or cooperative agreement utilized under section 450e–1 of this title) entered into under part A of this subchapter between a tribal organization and the appropriate Secretary for the planning, conduct and administration of programs or services which are otherwise provided to Indian tribes and their members pursuant to Federal law: <i>Provided</i>, That except as provided <sup>1</sup> the last proviso in section 450j(a) <sup>2</sup> of this title, no contract (or grant or cooperative agreement utilized under section 450e–1 of this title) entered into under part A of this subchapter shall be construed to be a procurement contract;
+&emsp;(j) "self-determination contract" means a contract (or grant or cooperative agreement utilized under section 450e–1 of this title) entered into under part A of this subchapter between a tribal organization and the appropriate Secretary for the planning, conduct and administration of programs or services which are otherwise provided to Indian tribes and their members pursuant to Federal law: <i>Provided</i>, That except as provided <sup>1</sup> the last proviso in section 450j(a) <sup>2</sup> of this title, no contract (or grant or cooperative agreement utilized under section 450e–1 of this title) entered into under part A of this subchapter shall be construed to be a procurement contract;
 
-&emsp;(k) “State education agency” means the State board of education or other agency or officer primarily responsible for supervision by the State of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law;
+&emsp;(k) "State education agency" means the State board of education or other agency or officer primarily responsible for supervision by the State of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law;
 
-&emsp;(l) “tribal organization” means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: <i>Provided</i>, That in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and
+&emsp;(l) "tribal organization" means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: <i>Provided</i>, That in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and
 
-&emsp;(m) “construction contract” means a fixed-price or cost-reimbursement self-determination contract for a construction project, except that such term does not include any contract—
+&emsp;(m) "construction contract" means a fixed-price or cost-reimbursement self-determination contract for a construction project, except that such term does not include any contract—
 
 &emsp;&emsp;(1) that is limited to providing planning services and construction management services (or a combination of such services);
 
@@ -38,37 +38,37 @@ For purposes of this subchapter, the term—
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+This subchapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43, and Tables.
 
-Part A of this subchapter, referred to in subsec. (j), was in the original “title I of this act”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
+Part A of this subchapter, referred to in subsec. (j), was in the original "title I of this act", meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-Section 450j(a) of this title, referred to in subsec. (j), was repealed and a new subsec. (a) of section 450j wasadded by Pub. L. 103–413, title I, §102(10), Oct. 25, 1994, 108 Stat. 4253, which does not contain provisos.
+Section 450j(a) of this title, referred to in subsec. (j), was repealed and a new subsec. (a) of section 450j was added by Pub. L. 103–413, title I, §102(10), Oct. 25, 1994, 108 Stat. 4253, which does not contain provisos.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (g). Pub. L. 103–413, §102(1)(A), substituted “indirect cost rate” for “indirect costs rate”.
+<b>1994</b>—Subsec. (g). Pub. L. 103–413, §102(1)(A), substituted "indirect cost rate" for "indirect costs rate".
 
 Subsec. (m). Pub. L. 103–413, §102(1)(B)–(D), added subsec. (m).
 
-<b>1990</b>—Subsec. (e). Pub. L. 101–301, §2(a)(1), inserted a comma before “which is recognized”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–301, §2(a)(1), inserted a comma before "which is recognized".
 
-Subsec. (h). Pub. L. 101–644, §202(1), struck out “in existence on October 5, 1988,” before “which meets this definition”.
+Subsec. (h). Pub. L. 101–644, §202(1), struck out "in existence on October 5, 1988," before "which meets this definition".
 
-Subsec. (j). Pub. L. 101–644, §202(2), substituted “contract (or grant or cooperative agreement utilized under section 450e–1 of this title) entered” for “contract entered” in two places.
+Subsec. (j). Pub. L. 101–644, §202(2), substituted "contract (or grant or cooperative agreement utilized under section 450e–1 of this title) entered" for "contract entered" in two places.
 
-Pub. L. 101–301, §2(a)(2), (3), substituted “under this subchapter” for “pursuant to this Act” in two places and struck out “the” before “Secretary”.
+Pub. L. 101–301, §2(a)(2), (3), substituted "under this subchapter" for "pursuant to this Act" in two places and struck out "the" before "Secretary".
 
-<b>1988</b>—Pub. L. 100–472 amended section generally, substituting subsecs. (a) to (l) for former subsecs. (a) to (d) and (f) which defined “Indian”, “Indian tribe”, “Tribal organization”, “Secretary”, and “State education agency”.
+<b>1988</b>—Pub. L. 100–472 amended section generally, substituting subsecs. (a) to (l) for former subsecs. (a) to (d) and (f) which defined "Indian", "Indian tribe", "Tribal organization", "Secretary", and "State education agency".
 
-Subsec. (h). Pub. L. 100–581, §208(a)(1), substituted “by a tribal organization” for “by tribal organization”.
+Subsec. (h). Pub. L. 100–581, §208(a)(1), substituted "by a tribal organization" for "by tribal organization".
 
-Pub. L. 100–581, §208(a)(2), which directed the amendment of subsec. (h) by substituting “a tribal organization or the tribal organization's Indian tribe for purposes of section 450f(a) of this title” for “a tribal organization or a tribal governing body” was executed by substituting the new language for “a tribal organization or tribal governing body” to reflect the probable intent of Congress.
+Pub. L. 100–581, §208(a)(2), which directed the amendment of subsec. (h) by substituting "a tribal organization or the tribal organization's Indian tribe for purposes of section 450f(a) of this title" for "a tribal organization or a tribal governing body" was executed by substituting the new language for "a tribal organization or tribal governing body" to reflect the probable intent of Congress.
 
-Subsec. (j). Pub. L. 100–581, §208(b), substituted “the Secretary for the planning” for “Secretary the planning” and “except as provided the last proviso in section 450j(a) of this title, no contract” for “no contract”.
+Subsec. (j). Pub. L. 100–581, §208(b), substituted "the Secretary for the planning" for "Secretary the planning" and "except as provided the last proviso in section 450j(a) of this title, no contract" for "no contract".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “provided in”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "provided in".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

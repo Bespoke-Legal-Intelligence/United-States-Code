@@ -16,7 +16,7 @@
 | [1872\.](%C2%A7%2001872%20-%20Issues%20of%20fact%20in%20Supreme%20Court.md) | Issues of fact in Supreme Court. |
 | [1873\.](%C2%A7%2001873%20-%20Admiralty%20and%20maritime%20cases.md) | Admiralty and maritime cases. |
 | [1874\.](%C2%A7%2001874%20-%20Actions%20on%20bonds%20and%20specialties.md) | Actions on bonds and specialties. |
-| [1875\.](%C2%A7%2001875%20-%20Protection%20of%20jurors%E2%80%99%20employment.md) | Protection of jurors’ employment. |
+| [1875\.](%C2%A7%2001875%20-%20Protection%20of%20jurors%27%20employment.md) | Protection of jurors' employment. |
 | [1876\.](%C2%A7%2001876%20-%20Trial%20by%20jury%20in%20the%20Court%20of%20International%20Trade.md) | Trial by jury in the Court of International Trade. |
 | [1877\.](%C2%A7%2001877%20-%20Protection%20of%20jurors.md) | Protection of jurors. |
 | [1878\.](%C2%A7%2001878%20-%20Optional%20use%20of%20a%20one-step%20summoning%20and%20qualification%20procedure.md) | Optional use of a one-step summoning and qualification procedure. |
@@ -25,7 +25,7 @@
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572, title IV, §403(b), Oct. 29, 1992, 106 Stat. 4512, substituted “Optional” for “Experimental” in item 1878.
+<b>1992</b>—Pub. L. 102–572, title IV, §403(b), Oct. 29, 1992, 106 Stat. 4512, substituted "Optional" for "Experimental" in item 1878.
 
 <b>1988</b>—Pub. L. 100–702, title VIII, §805(b), Nov. 19, 1988, 102 Stat. 4659, added item 1878.
 
@@ -35,7 +35,7 @@
 
 <b>1978</b>—Pub. L. 95–572, §6(a)(2), Nov. 2, 1978, 92 Stat. 2456, added item 1875.
 
-<b>1968</b>—Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 53, substituted “Declaration of policy” for “Qualifications” as item 1861, “Discrimination prohibited” for “Exemptions” as item 1862, “Plan for random jury selection” for “Exclusion or excuse from service” as item 1863, “Drawing of names from the master jury wheel; completion of juror qualification form” for “Manner of drawing; jury commissioners and their compensation” as item 1864, “Qualifications for jury service” for “Apportionment within district; additional jury commissioners” as item 1865, “Selection and summoning of jury panels” for “Special petit juries; talesmen from bystanders” as item 1866, “Challenging compliance with selection procedures” for “Summoning jurors” as item 1867, “Maintenance and inspection of records” for “Disqualification of marshal or deputy” as item 1868, “Definitions” for “Frequency of service” as item 1869, and reenacted items 1870–1874 without change.
+<b>1968</b>—Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 53, substituted "Declaration of policy" for "Qualifications" as item 1861, "Discrimination prohibited" for "Exemptions" as item 1862, "Plan for random jury selection" for "Exclusion or excuse from service" as item 1863, "Drawing of names from the master jury wheel; completion of juror qualification form" for "Manner of drawing; jury commissioners and their compensation" as item 1864, "Qualifications for jury service" for "Apportionment within district; additional jury commissioners" as item 1865, "Selection and summoning of jury panels" for "Special petit juries; talesmen from bystanders" as item 1866, "Challenging compliance with selection procedures" for "Summoning jurors" as item 1867, "Maintenance and inspection of records" for "Disqualification of marshal or deputy" as item 1868, "Definitions" for "Frequency of service" as item 1869, and reenacted items 1870–1874 without change.
 
 
 ---
@@ -56,7 +56,7 @@
 - [&sect; 01872 - Issues of fact in Supreme Court](%C2%A7%2001872%20-%20Issues%20of%20fact%20in%20Supreme%20Court.md)
 - [&sect; 01873 - Admiralty and maritime cases](%C2%A7%2001873%20-%20Admiralty%20and%20maritime%20cases.md)
 - [&sect; 01874 - Actions on bonds and specialties](%C2%A7%2001874%20-%20Actions%20on%20bonds%20and%20specialties.md)
-- [&sect; 01875 - Protection of jurors&#8217; employment](%C2%A7%2001875%20-%20Protection%20of%20jurors%E2%80%99%20employment.md)
+- [&sect; 01875 - Protection of jurors' employment](%C2%A7%2001875%20-%20Protection%20of%20jurors%27%20employment.md)
 - [&sect; 01876 - Trial by jury in the Court of International Trade](%C2%A7%2001876%20-%20Trial%20by%20jury%20in%20the%20Court%20of%20International%20Trade.md)
 - [&sect; 01877 - Protection of jurors](%C2%A7%2001877%20-%20Protection%20of%20jurors.md)
 - [&sect; 01878 - Optional use of a one-step summoning and qualification procedure](%C2%A7%2001878%20-%20Optional%20use%20of%20a%20one-step%20summoning%20and%20qualification%20procedure.md)

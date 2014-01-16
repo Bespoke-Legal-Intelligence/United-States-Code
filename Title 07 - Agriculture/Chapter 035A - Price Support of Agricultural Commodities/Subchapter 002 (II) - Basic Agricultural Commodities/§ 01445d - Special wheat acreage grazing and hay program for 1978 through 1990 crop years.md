@@ -4,7 +4,7 @@ Notwithstanding any other provision of law—
 
 #### (a) Authorization for program; acreage designation; payment
 
-The Secretary is authorized to administer a special wheat acreage grazing and hay program (hereinafter in this section referred to as the “special program”) in each of the crop years 1978 through 1990. If a special program is implemented, a producer shall be permitted to designate, under such regulations as established by the Secretary, a portion of the acreage on the farm intended to be planted to wheat, feed grains, or upland cotton for harvest, not in excess of 40 per centum thereof, or 50 acres, whichever is greater, which shall be planted to wheat (or some other commodity other than corn or grain sorghum) and used by the producer for grazing purposes or hay rather than for commercial grain production. A producer who elects to participate in the special program shall receive a payment as provided in subsection (c) of this section.
+The Secretary is authorized to administer a special wheat acreage grazing and hay program (hereinafter in this section referred to as the "special program") in each of the crop years 1978 through 1990. If a special program is implemented, a producer shall be permitted to designate, under such regulations as established by the Secretary, a portion of the acreage on the farm intended to be planted to wheat, feed grains, or upland cotton for harvest, not in excess of 40 per centum thereof, or 50 acres, whichever is greater, which shall be planted to wheat (or some other commodity other than corn or grain sorghum) and used by the producer for grazing purposes or hay rather than for commercial grain production. A producer who elects to participate in the special program shall receive a payment as provided in subsection (c) of this section.
 
 #### (b) Specific farm acreage
 
@@ -12,7 +12,7 @@ Any producer who elects to participate in the special program under this section
 
 #### (c) Determination of payment
 
-The Secretary shall pay the producer participating in the special program an amount determined by multiplying the farm program payment yield for wheat established for the farm, by the number of acres included in the special program, by a rate of payment determined by the Secretary to be fair and reasonable. The producer shall not be eligible for any other payment or price support on any portion of the acreage for the farm which the producer elects to include in the special program.
+The Secretary shall pay the producer participating in the special program an amount determined by multiplying the farm program payment yield for wheat established for the farm, by the number of acres included in the special program, by a rate of payment determined by the Secretary to be fair and reasonable. The producer shall not be eligible for any other payment or price support on any portion of theacreage for the farm which the producer elects to include in the special program.
 
 #### (d) Other acreage set-aside programs
 
@@ -30,11 +30,11 @@ The Secretary shall carry out the special program through the Commodity Credit C
 
 #### Amendments
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted “1990” for “1985”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted "1990" for "1985".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–98, §1110(1), (2), substituted “1985” for “1981” and “If a special program is implemented” for “Under the special program”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–98, §1110(1), (2), substituted "1985" for "1981" and "If a special program is implemented" for "Under the special program".
 
-Subsec. (d). Pub. L. 97–98, §1110(3), inserted “, reduced acreage, or land diversion”.
+Subsec. (d). Pub. L. 97–98, §1110(3), inserted ", reduced acreage, or land diversion".
 
 #### Effective Date of 1981 Amendment
 

@@ -1,6 +1,6 @@
 ### §5335. Periodic step-increases
 
-(a) An employee paid on an annual basis, and occupying a permanent position within the scope of the General Schedule, who has not reached the maximum rate of pay for the grade in which his position is placed, shall be advanced in pay successively to the next higher rate within the grade at the beginning of the next pay period following the completion of—
+(a) An employee paid on an annual basis, and occupying a permanent position within thescope of the General Schedule, who has not reached the maximum rate of pay for the grade in which his position is placed, shall be advanced in pay successively to the next higher rate within the grade at the beginning of the next pay period following the completion of—
 
 &emsp;(1) each 52 calendar weeks of service in pay rates 1, 2, and 3;
 
@@ -86,11 +86,15 @@ Oct. 29, 1965, Pub. L. 89–301, §3, 79 Stat. 1112.
 
 The word “officer” is omitted as included in “employee”, and the word “agency” is substituted for “department” to conform to the definition in 5 U.S.C. 5331.
 
+#### References in Text
+
+The General Schedule, referred to in subsec. (a), is set out under section 5332 of this title.
+
 #### Amendments
 
 <b>1993</b>—Subsec. (e). Pub. L. 103–89, §3(b)(1)(H)(i), struck out “covered by the performance management and recognition system established under chapter 54 of this title, or,” after “individual”.
 
-Subsecs. (f), (g). Pub. L. 103–89, §3(b)(1)(H)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Notwithstanding subsection (b) or (e) of this section, an increase in pay granted under section 5404 of this title is an equivalent increase in pay within the meaning of subsection (a) of this section and shall be taken into account in the case of any employee who, before becoming subject to this section, was granted such an increase while covered by the performance management and recognition system established under chapter 54 of this title.”
+Subsecs. (f), (g). Pub. L. 103–89, §3(b)(1)(H)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Notwithstanding subsection (b) or (e) of this section, an increase in pay granted under section 5404 of this title is an equivalent increase in pay within the meaning of subsection (a) of this section and shall be taken into account in the case of any employee who, before becoming subject to this section,was granted such an increase while covered by the performance management and recognition system established under chapter 54 of this title.”
 
 <b>1990</b>—Subsec. (a)(B). Pub. L. 101–509 struck out “, except an administrative law judge appointed under section 3105 of this title,” after “work of the employee”.
 
@@ -116,7 +120,7 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 #### Effective Date of 1990 Amendments
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 

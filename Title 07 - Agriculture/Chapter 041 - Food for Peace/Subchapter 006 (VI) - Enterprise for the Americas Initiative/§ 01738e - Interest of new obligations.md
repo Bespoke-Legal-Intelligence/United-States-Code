@@ -22,5 +22,5 @@ If an eligible country to which a new obligation has been issued under section 1
 
 #### Amendments
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–237 inserted “accounts” after “Corporation”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–237 inserted "accounts" after "Corporation".
 

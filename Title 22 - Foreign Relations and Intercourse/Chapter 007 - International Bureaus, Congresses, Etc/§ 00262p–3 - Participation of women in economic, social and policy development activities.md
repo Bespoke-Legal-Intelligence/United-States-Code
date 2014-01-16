@@ -36,5 +36,5 @@ Section 1604 of Pub. L. 95–118 is based on section 701 of title VII of H.R. 37
 
 The definitions in section 262p–5 of this title apply to this section.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “integration”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "integration".</i>
 

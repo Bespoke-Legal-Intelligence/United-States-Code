@@ -6,9 +6,9 @@ Any contract of insurance or guarantee executed by the Secretary under this subc
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
+<b>1994</b>—Pub. L. 103–354 substituted "Secretary" for "Administrator".
 
-<b>1975</b>—Pub. L. 94–124 substituted “of which the holder had actual knowledge at the time it became a holder” for “of which the holder has actual knowledge”.
+<b>1975</b>—Pub. L. 94–124 substituted "of which the holder had actual knowledge at the time it became a holder" for "of which the holder has actual knowledge".
 
 #### Effective Date
 

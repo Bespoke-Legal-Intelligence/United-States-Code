@@ -10,5 +10,5 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–662 substituted “fiftieth” for “fifteenth”.
+<b>1986</b>—Pub. L. 99–662 substituted "fiftieth" for "fifteenth".
 

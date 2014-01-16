@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 32:74.
 
-May 12, 1917, ch. 12 (10th proviso under “National Guard”), 40 Stat. 68.
+May 12, 1917, ch. 12 (10th proviso under "National Guard"), 40 Stat. 68.
 
-The word “instructors” is substituted for the words “inspector-instructors”, since there are no longer any “inspector-instructors”.
+The word "instructors" is substituted for the words "inspector-instructors", since there are no longer any "inspector-instructors".
 

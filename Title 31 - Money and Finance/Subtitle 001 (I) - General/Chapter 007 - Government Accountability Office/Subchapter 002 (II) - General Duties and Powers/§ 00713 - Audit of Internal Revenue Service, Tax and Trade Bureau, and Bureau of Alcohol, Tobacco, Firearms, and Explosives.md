@@ -10,7 +10,7 @@
 
 (2) At least once every 6 months, the Comptroller General shall designate each officer and employee of the Government Accountability Office by name and title to whom returns, return information, or records or property of the Service or either Bureau that can identify a particular taxpayer may be made available. Each designation or a certified copy of the designation shall be sent to the Committee on Finance of the Senate, the Committee on Ways and Means of the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on Government Operations of the House, the Joint Committee on Taxation, the Commissioner of Internal Revenue, the Tax and Trade Bureau, Department of the Treasury, and the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice.
 
-(3) Except as expressly provided by law, an officer or employee of the Office may make known information derived from a record or property of, or in use by, the Service or either Bureau that can identify a particular taxpayer only toanother officer or employee of the Office whose duties or powers require that the record or property be made known.
+(3) Except as expressly provided by law, an officer or employee of the Office may make known information derived from a record or property of, or in use by, the Service or either Bureau that can identify a particular taxpayer only to another officer or employee of the Office whose duties or powers require that the record or property be made known.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 889; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–296, title XI, §1112(m), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -40,29 +40,29 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §117(d)(1)–(3); added Oct. 7, 1977, Pu
 
 31:67(d)(2)(1st sentence proviso, last sentence).
 
-In subsection (a), the words “rules and” and “findings or” are omitted as surplus. The words “or his delegate” are omitted as unnecessary because of sections 301(b) and 321(a)(2) of the revised title.
+In subsection (a), the words "rules and" and "findings or" are omitted as surplus. The words "or his delegate" are omitted as unnecessary because of sections 301(b) and 321(a)(2) of the revised title.
 
-In subsection (b)(1), before clause (A), the words “To carry out” are substituted for “For the purposes of, and to the extent necessary in, making the audits required by”, and the word “only” is substituted for “but notwithstanding the provisions of any other law”, to eliminate unnecessary words. The words “the requirements imposed by” are omitted as surplus. The words “Comptroller General” are substituted for “representatives of the General Accounting Office” for consistency. In clause (B), the word “records” is substituted for “books, accounts, financial records, reports, files, papers” for consistency in the revised title and with other titles of the United States Code. The words “other” and “things” are omitted as surplus.
+In subsection (b)(1), before clause (A), the words "To carry out" are substituted for "For the purposes of, and to the extent necessary in, making the audits required by", and the word "only" is substituted for "but notwithstanding the provisions of any other law", to eliminate unnecessary words. The words "the requirements imposed by" are omitted as surplus. The words "Comptroller General" are substituted for "representatives of the General Accounting Office" for consistency. In clause (B), the word "records" is substituted for "books, accounts, financial records, reports, files, papers" for consistency in the revised title and with other titles of the United States Code. The words "other" and "things" are omitted as surplus.
 
-In subsection (b)(2), the words “in writing” and “pursuant to the provisions of paragraph (2) of this subsection” are omitted as surplus. The words “records or property of the Service or the Bureau” are substituted for “any information described in clause (B) of such paragraph (2)” for clarity. The words “in a form . . . be associated with or otherwise . . . directly or indirectly”, “such written”, and “promptly” are omitted as surplus.
+In subsection (b)(2), the words "in writing" and "pursuant to the provisions of paragraph (2) of this subsection" are omitted as surplus. The words "records or property of the Service or the Bureau" are substituted for "any information described in clause (B) of such paragraph (2)" for clarity. The words "in a form . . . be associated with or otherwise . . . directly or indirectly", "such written", and "promptly" are omitted as surplus.
 
-In subsection (b)(3), the words “divulge . . . in any manner whatever to any person” are omitted as surplus. The words “information derived from a record or property of, or in use by, the Service or the Bureau” are substituted for “any information described in clause (B)” for clarity and consistency. The words “in a form . . . be associated with or otherwise . . . directly or indirectly” are omitted as surplus. The word “powers” is substituted for “responsibilities” for consistency. The words “that the record or property be made known” are substituted for “such disclosure” for clarity. The text of 31:67(d)(2)(last sentence) is omitted as surplus.
+In subsection (b)(3), the words "divulge . . . in any manner whatever to any person" are omitted as surplus. The words "information derived from a record or property of, or in use by, the Service or the Bureau" are substituted for "any information described in clause (B)" for clarity and consistency. The words "in a form . . . be associated with or otherwise . . . directly or indirectly" are omitted as surplus. The word "powers" is substituted for "responsibilities" for consistency. The words "that the record or property be made known" are substituted for "such disclosure" for clarity. The text of 31:67(d)(2)(last sentence) is omitted as surplus.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>2002</b>—Pub. L. 107–296, §1112(m)(1), substituted “, Tax and Trade Bureau, and Bureau of Alcohol, Tobacco, Firearms, and Explosives” for “and Bureau of Alcohol, Tobacco, and Firearms” in section catchline.
+<b>2002</b>—Pub. L. 107–296, §1112(m)(1), substituted ", Tax and Trade Bureau, and Bureau of Alcohol, Tobacco, Firearms, and Explosives" for "and Bureau of Alcohol, Tobacco, and Firearms" in section catchline.
 
-Subsec. (a). Pub. L. 107–296, §1112(m)(2), substituted “Tax and Trade Bureau, Department of the Treasury, and the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms,”.
+Subsec. (a). Pub. L. 107–296, §1112(m)(2), substituted "Tax and Trade Bureau, Department of the Treasury, and the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice" for "Bureau of Alcohol, Tobacco, and Firearms,".
 
-Subsec. (b)(1)(B). Pub. L. 107–296, §1112(m)(3)(A), substituted “or either Bureau” for “or the Bureau”.
+Subsec. (b)(1)(B). Pub. L. 107–296, §1112(m)(3)(A), substituted "or either Bureau" for "or the Bureau".
 
-Subsec. (b)(2). Pub. L. 107–296, §1112(m)(3)(B), substituted “or either Bureau” for “or the Bureau” and “the Tax and Trade Bureau, Department of the Treasury, and the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “and the Director of the Bureau”.
+Subsec. (b)(2). Pub. L. 107–296, §1112(m)(3)(B), substituted "or either Bureau" for "or the Bureau" and "the Tax and Trade Bureau, Department of the Treasury, and the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice" for "and the Director of the Bureau".
 
-Subsec. (b)(3). Pub. L. 107–296, §1112(m)(3)(C), substituted “or either Bureau” for “or the Bureau”.
+Subsec. (b)(3). Pub. L. 107–296, §1112(m)(3)(C), substituted "or either Bureau" for "or the Bureau".
 
-<b>1986</b>—Subsecs. (a), (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
+<b>1986</b>—Subsecs. (a), (b)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing.
 
 #### Change of Name
 

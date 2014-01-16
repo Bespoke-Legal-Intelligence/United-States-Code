@@ -16,9 +16,9 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act Jun
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–31 substituted “section 1002(b)” for “section 902(b)”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–31 substituted "section 1002(b)" for "section 902(b)".
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of the Army (referred to in section <sup>1</sup> as the “Secretary”) shall designate as nonnavigable the areas described in paragraph (3) <sup>2</sup> unless the Secretary, after consultation with local and regional public officials (including local and regional planning organizations), makes a determination that 1 or more projects proposed to be carried out in 1 or more areas described in paragraph (2) are not in the public interest.
+&emsp;The Secretary of the Army (referred to in section <sup>1</sup> as the "Secretary") shall designate as nonnavigable the areas described in paragraph (3) <sup>2</sup> unless the Secretary, after consultation with local and regional public officials (including local and regional planning organizations), makes a determination that 1 or more projects proposed to be carried out in 1 or more areas described in paragraph (2) are not in the public interest.
 
 #### (2) Description of areas
 
@@ -144,11 +144,11 @@ Act of March 3, 1899, referred to in subsec. (b)(2)(A), is act Mar. 3, 1899, ch.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "this".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be paragraph “(2)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be paragraph "(2)".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “aforementioned”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "aforementioned".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “subsection (a)(2)”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "subsection (a)(2)".</i>
 

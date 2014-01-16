@@ -4,7 +4,7 @@ As used in this subchapter—
 
 &emsp;(a) all terms that are defined in the Colorado River Compact shall have the meanings therein defined;
 
-&emsp;(b) “Colorado River Basin States” means the States of Arizona, California, Colorado, Nevada, New Mexico, Utah, and Wyoming.
+&emsp;(b) "Colorado River Basin States" means the States of Arizona, California, Colorado, Nevada, New Mexico, Utah, and Wyoming.
 
 (Pub. L. 93–320, title II, §209, June 24, 1974, 88 Stat. 275.)
 

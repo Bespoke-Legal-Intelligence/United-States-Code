@@ -26,7 +26,7 @@ Any party may demand a jury trial where a jury trial would be available in an ac
 
 &emsp;&emsp;(B) any successor office to the Office of House Employment Counsel which is established after November 12, 2001; and
 
-&emsp;&emsp;(C) any other person authorized and directed in accordance with the Rules of the House of Representatives to provide legal assistance and representation to employing offices of the House of Representatives in connection with actions brought under this subchapter.
+&emsp;&emsp;(C) any other person authorized and directed in accordance with the Rules of theHouse of Representatives to provide legal assistance and representation to employing offices of the House of Representatives in connection with actions brought under this subchapter.
 
 (Pub. L. 104–1, title IV, §408, Jan. 23, 1995, 109 Stat. 37; Pub. L. 107–68, title I, §119(a), Nov. 12, 2001, 115 Stat. 573.)
 

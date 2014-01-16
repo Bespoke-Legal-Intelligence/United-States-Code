@@ -2,35 +2,35 @@
 
 In this chapter—
 
-&emsp;(1) “automobile” has the same meaning given that term in section 32901(a) of this title.
+&emsp;(1) "automobile" has the same meaning given that term in section 32901(a) of this title.
 
-&emsp;(2) “certificate of title” means a document issued by a State showing ownership of an automobile.
+&emsp;(2) "certificate of title" means a document issued by a State showing ownership of an automobile.
 
-&emsp;(3) “insurance carrier” means an individual or entity engaged in the business of underwriting automobile insurance.
+&emsp;(3) "insurance carrier" means an individual or entity engaged in the business of underwriting automobile insurance.
 
-&emsp;(4) “junk automobile” means an automobile that—
+&emsp;(4) "junk automobile" means an automobile that—
 
 &emsp;&emsp;(A) is incapable of operating on public streets, roads, and highways; and
 
 &emsp;&emsp;(B) has no value except as a source of parts or scrap.
 
-&emsp;(5) “junk yard” means an individual or entity engaged in the business of acquiring or owning junk automobiles for—
+&emsp;(5) "junk yard" means an individual or entity engaged in the business of acquiring or owning junk automobiles for—
 
 &emsp;&emsp;(A) resale in their entirety or as spare parts; or
 
 &emsp;&emsp;(B) rebuilding, restoration, or crushing.
 
-&emsp;(6) “operator” means the individual or entity authorized or designated as the operator of the National Motor Vehicle Title Information System under section 30502(b) of this title, or the Attorney General, if there is no authorized or designated individual or entity.
+&emsp;(6) "operator" means the individual or entity authorized or designated as the operator of the National Motor Vehicle Title Information System under section 30502(b) of this title, or the Attorney General, if there is no authorized or designated individual or entity.
 
-&emsp;(7) “salvage automobile” means an automobile that is damaged by collision, fire, flood, accident, trespass, or other event, to the extent that its fair salvage value plus the cost of repairing the automobile for legal operation on public streets, roads, and highways would be more than the fair market value of the automobile immediately before the event that caused the damage.
+&emsp;(7) "salvage automobile" means an automobile that is damaged by collision, fire, flood, accident, trespass, or other event, to the extent that its fair salvage value plus the cost of repairing the automobile for legal operation on public streets, roads, and highways would be more than the fair market value of the automobile immediately before the event that caused the damage.
 
-&emsp;(8) “salvage yard” means an individual or entity engaged in the business of acquiring or owning salvage automobiles for—
+&emsp;(8) "salvage yard" means an individual or entity engaged in the business of acquiring or owning salvage automobiles for—
 
 &emsp;&emsp;(A) resale in their entirety or as spare parts; or
 
 &emsp;&emsp;(B) rebuilding, restoration, or crushing.
 
-&emsp;(9) “State” means a State of the United States or the District of Columbia.
+&emsp;(9) "State" means a State of the United States or the District of Columbia.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 979; Pub. L. 104–152, §§2(c), 3(a), July 2, 1996, 110 Stat. 1384; Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215.)
 
@@ -50,15 +50,15 @@ Historical and Revision Notes
 
 Oct. 25, 1992, Pub. L. 102–519, §201, 106 Stat. 3389.
 
-In subsection (a)(2), the word “showing” is substituted for “evidencing” to use a more commonly understood term.
+In subsection (a)(2), the word "showing" is substituted for "evidencing" to use a more commonly understood term.
 
-In subsection (a)(3), (5), and (8), the words “individual or entity” are substituted for “individual, corporation, or other entity” for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(3), (5), and (8), the words "individual or entity" are substituted for "individual, corporation, or other entity" for clarity and consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(4) and (7), the words “public streets, roads, and highways” are substituted for “roads or highways” for clarity and consistency in the revised title.
+In subsection (a)(4) and (7), the words "public streets, roads, and highways" are substituted for "roads or highways" for clarity and consistency in the revised title.
 
-In subsection (a)(6), the words “National Automobile Title Information System” are substituted for “information system” for clarity. The words “no authorized or designated individual or entity” are substituted for “no such individual or entity is authorized” for clarity
+In subsection (a)(6), the words "National Automobile Title Information System" are substituted for "information system" for clarity. The words "no authorized or designated individual or entity" are substituted for "no such individual or entity is authorized" for clarity
 
-In subsection (a)(7), the word “event” is substituted for “occurrence” for clarity and consistency.
+In subsection (a)(7), the word "event" is substituted for "occurrence" for clarity and consistency.
 
 The text of 15:2041(9) is omitted because the complete title of the Secretary of Transportation is used the first time the term appears in a section.
 
@@ -66,9 +66,9 @@ The text of 15:2041(9) is omitted because the complete title of the Secretary of
 
 <b>1997</b>—Par. (6). Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment note below.
 
-<b>1996</b>—Par. (6). Pub. L. 104–152, §3(a), substituted “Attorney General” for “Secretary of Transportation”.
+<b>1996</b>—Par. (6). Pub. L. 104–152, §3(a), substituted "Attorney General" for "Secretary of Transportation".
 
-Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, §3(b), substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System”.
+Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, §3(b), substituted "National Motor Vehicle Title Information System" for "National Automobile Title Information System".
 
 #### Effective Date of 1997 Amendment
 

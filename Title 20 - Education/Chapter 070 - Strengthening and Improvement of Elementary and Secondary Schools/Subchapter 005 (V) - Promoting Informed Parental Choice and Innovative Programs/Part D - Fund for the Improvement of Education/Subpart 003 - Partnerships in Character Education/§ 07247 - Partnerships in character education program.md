@@ -12,7 +12,7 @@
 
 #### (2) Eligible entity
 
-&emsp;In this section, the term “eligible entity” means—
+&emsp;In this section, the term "eligible entity" means—
 
 &emsp;&emsp;(A) a State educational agency in partnership with—
 
@@ -44,7 +44,7 @@
 
 #### (1) Evaluation
 
-&emsp;Each eligible entity awarded a grant under this section may contract with outside sources, including institutions of higher education and private and nonprofit organizations, for the purposes of—
+&emsp;Each eligible entity awarded a grant under this section may contract with outsidesources, including institutions of higher education and private and nonprofit organizations, for the purposes of—
 
 &emsp;&emsp;(A) evaluating the program for which the assistance is made available;
 
@@ -112,7 +112,7 @@ Of the total funds received in any fiscal year under this section by an eligible
 
 #### (1) In general
 
-&emsp;Each eligible entity desiring a grant under this section shall submit an application to theSecretary at such time and in such manner as the Secretary may require.
+&emsp;Each eligible entity desiring a grant under this section shall submit an application to the Secretary at such time and in such manner as the Secretary may require.
 
 #### (2) Required information
 

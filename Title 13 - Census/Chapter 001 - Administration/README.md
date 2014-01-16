@@ -35,7 +35,7 @@
 | [21\.](Subchapter%20002%20%28II%29%20-%20Officers%20and%20Employees/%C2%A7%2000021%20-%20Director%20of%20the%20Census%3B%20duties.md) | Director of the Census; duties. |
 | [22\.](Subchapter%20002%20%28II%29%20-%20Officers%20and%20Employees/%C2%A7%2000022%20-%20Qualifications%20of%20permanent%20personnel.md) | Qualifications of permanent personnel. |
 | [23\.](Subchapter%20002%20%28II%29%20-%20Officers%20and%20Employees/%C2%A7%2000023%20-%20Additional%20officers%20and%20employees.md) | Additional officers and employees. |
-| [24\.](Subchapter%20002%20%28II%29%20-%20Officers%20and%20Employees/%C2%A7%2000024%20-%20Special%20employment%20provisions.md) | Special agents, supervisors, supervisors’ clerks, enumerators, and interpreters; compensation; details.<sup>3</sup> |
+| [24\.](Subchapter%20002%20%28II%29%20-%20Officers%20and%20Employees/%C2%A7%2000024%20-%20Special%20employment%20provisions.md) | Special agents, supervisors, supervisors' clerks, enumerators, and interpreters; compensation; details.<sup>3</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -52,13 +52,13 @@
 
 <b>1979</b>—Pub. L. 96–52, §1(b), Aug. 13, 1979, 93 Stat. 358, added item 15.
 
-<b>1976</b>—Pub. L. 94–521, §§3(b), 4(b), 5(b), 6(b), Oct. 17, 1976, 90 Stat. 2459–2461, inserted reference to “regulations” in item 4, substituted “Questionnaires” for “Schedules” in item 5, substituted “Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources” for “Requests to other departments and offices for information, acquisition of reports from governmental and other sources” in item 6, and substituted “Authenticated transcripts or copies” for “Certified copies” in item 8, respectively.
+<b>1976</b>—Pub. L. 94–521, §§3(b), 4(b), 5(b), 6(b), Oct. 17, 1976, 90 Stat. 2459–2461, inserted reference to "regulations" in item 4, substituted "Questionnaires" for "Schedules" in item 5, substituted "Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources" for "Requests to other departments and offices for information, acquisition of reports from governmental and other sources" in item 6, and substituted "Authenticated transcripts or copies" for "Certified copies" in item 8, respectively.
 
-<b>1966</b>—Pub. L. 89–473, §2(b), June 29, 1966, 80 Stat. 221, struck out item 14 “Reimbursement between appropriations”. Pub. L. 89–473 was subsequently repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 92 Stat. 1068.
+<b>1966</b>—Pub. L. 89–473, §2(b), June 29, 1966, 80 Stat. 221, struck out item 14 "Reimbursement between appropriations". Pub. L. 89–473 was subsequently repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 92 Stat. 1068.
 
 <b>1962</b>—Pub. L. 87–489, §1(b), June 19, 1962, 76 Stat. 104, added item 14.
 
-<b>1957</b>—Pub. L. 85–207, §1, Aug. 28, 1957, 71 Stat. 481, inserted “, acquisition of reports from governmental and other sources” in item 6, and added items 12, 13 and 26.
+<b>1957</b>—Pub. L. 85–207, §1, Aug. 28, 1957, 71 Stat. 481, inserted ", acquisition of reports from governmental and other sources" in item 6, and added items 12, 13 and 26.
 
 <i><sup>1</sup></i><i> Section repealed by Pub. L. 86–682 without corresponding amendment of chapter analysis.</i>
 

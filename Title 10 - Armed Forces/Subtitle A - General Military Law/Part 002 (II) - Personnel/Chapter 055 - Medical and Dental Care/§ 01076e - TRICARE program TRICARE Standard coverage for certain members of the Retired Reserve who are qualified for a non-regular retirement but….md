@@ -34,9 +34,9 @@ Regulations.—The Secretary of Defense, in consultation with the other administ
 
 Definitions.—In this section:
 
-&emsp;(1) The term “immediate family”, with respect to a member of a reserve component, means all of the member's dependents described in subparagraphs (A), (D), and (I) of section 1072(2) of this title.
+&emsp;(1) The term "immediate family", with respect to a member of a reserve component, means all of the member's dependents described in subparagraphs (A), (D), and (I) of section 1072(2) of this title.
 
-&emsp;(2) The term “TRICARE Standard” means—
+&emsp;(2) The term "TRICARE Standard" means—
 
 &emsp;&emsp;(A) medical care to which a dependent described in section 1076(b)(1) of this title is entitled; and
 
@@ -46,5 +46,5 @@ Definitions.—In this section:
 
 #### Effective Date
 
-Pub. L. 111–84, div. A, title VII, §705(c), Oct. 28, 2009, 123 Stat. 2375, provided that: “Section 1076e of title 10, United States Code, as inserted by subsection (a), shall apply to coverage for months beginning on or after October 1, 2009, or such earlier date as the Secretary of Defense may specify.”
+Pub. L. 111–84, div. A, title VII, §705(c), Oct. 28, 2009, 123 Stat. 2375, provided that: "Section 1076e of title 10, United States Code, as inserted by subsection (a), shall apply to coverage for months beginning on or after October 1, 2009, or such earlier date as the Secretary of Defense may specify."
 

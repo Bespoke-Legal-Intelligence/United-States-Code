@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 Pub. L. 100–324, §4, May 30, 1988, 102 Stat. 576.
 
-In subsection (a), the words “a vessel (including a foreign vessel)” are substituted for “a United States vessel or to a foreign-flag vessel” to eliminate unnecessary words.
+In subsection (a), the words "a vessel (including a foreign vessel)" are substituted for "a United States vessel or to a foreign-flag vessel" to eliminate unnecessary words.
 

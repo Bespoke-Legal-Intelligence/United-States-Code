@@ -6,5 +6,5 @@ Every person subject to a requirement to file any report or to certify any infor
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–34 struck out “description or” after “requirement to file any”.
+<b>1997</b>—Pub. L. 105–34 struck out "description or" after "requirement to file any".
 

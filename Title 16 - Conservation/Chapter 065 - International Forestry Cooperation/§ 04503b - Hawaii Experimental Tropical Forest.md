@@ -6,19 +6,19 @@ As used in this section:
 
 #### (1) Forest
 
-&emsp;The term “Forest” means the Hawaii Experimental Tropical Forest.
+&emsp;The term "Forest" means the Hawaii Experimental Tropical Forest.
 
 #### (2) Governor
 
-&emsp;The term “Governor” means the Governor of Hawaii.
+&emsp;The term "Governor" means the Governor of Hawaii.
 
 #### (3) Lands
 
-&emsp;The term “lands” means lands, waters, and interests in lands and waters.
+&emsp;The term "lands" means lands, waters, and interests in lands and waters.
 
 #### (4) State
 
-&emsp;The term “State” means the State of Hawaii.
+&emsp;The term "State" means the State of Hawaii.
 
 #### (b) Establishment and management
 

@@ -14,9 +14,9 @@ It shall be unlawful for any investment adviser by use of the mails or any means
 
 #### Amendments
 
-<b>2010</b>—Par. (3). Pub. L. 111–203 inserted “or” at end.
+<b>2010</b>—Par. (3). Pub. L. 111–203 inserted "or" at end.
 
-<b>1960</b>—Pub. L. 86–750, §8, struck out “registered under section 80b–3 of this title” from introductory text.
+<b>1960</b>—Pub. L. 86–750, §8, struck out "registered under section 80b–3 of this title" from introductory text.
 
 Par. (4). Pub. L. 86–750, §9, added par. (4).
 

@@ -10,7 +10,7 @@ Lifting Advisories.—A travel advisory issued under subsection (a) may be lifte
 
 (c)
 
-Notice to Congress.—The Secretary of State shall notify Congress immediately of any change in the status of a travel advisory issued under this section.
+Notice to Congress.—The Secretary of State shall notify Congress immediately of anychange in the status of a travel advisory issued under this section.
 
 (Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1684.)
 
@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 Pub. L. 99–399, title IX, §908, Aug. 27, 1986, 100 Stat. 891; Pub. L. 105–277, div. G, title XXII, §2224(b), Oct. 21, 1998, 112 Stat. 2681–819.
 
-In subsection (b), the words “with respect to which the Secretary of Transportation had made the determination described in section 1803(d) of this Appendix” are omitted as unnecessary.
+In subsection (b), the words "with respect to which the Secretary of Transportation had made the determination described in section 1803(d) of this Appendix" are omitted as unnecessary.
 

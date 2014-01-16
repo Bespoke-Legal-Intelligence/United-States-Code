@@ -24,7 +24,7 @@
 
 (b)(1) Notwithstanding any other provision of law, including specifically section 2151 of this title, and except as provided in paragraphs (2) and (3), no nuclear materials and equipment or sensitive nuclear technology, including items and assistance authorized by section 2077(b) of this title and regulated under part 810 of title 10, Code of Federal Regulations, and nuclear-related items on the Commerce Control List maintained under part 774 of title 15 of the Code of Federal Regulations, shall be exported or reexported, or transferred or retransferred whether directly or indirectly, and no Federal agency shall issue any license, approval, or authorization for the export or reexport, or transfer, or retransfer, whether directly or indirectly, of these items or assistance (as defined in this paragraph) to any country whose government has been identified by the Secretary of State as engaged in state sponsorship of terrorist activities (specifically including any country the government of which has been determined by the Secretary of State under section 2371(a) of title 22, section 2405(j)(1) of title 50, Appendix, or section 2780(d) of title 22 to have repeatedly provided support for acts of international terrorism).
 
-(2) This subsection shall not apply to exports, reexports, transfers, or retransfers of radiationmonitoring technologies, surveillance equipment, seals, cameras, tamper-indication devices, nuclear detectors, monitoring systems, or equipment necessary to safely store, transport, or remove hazardous materials, whether such items, services, or information are regulated by the Department of Energy, the Department of Commerce, or the Commission, except to the extent that such technologies, equipment, seals, cameras, devices, detectors, or systems are available for use in the design or construction of nuclear reactors or nuclear weapons.
+(2) This subsection shall not apply to exports, reexports, transfers, or retransfers of radiation monitoring technologies, surveillance equipment, seals, cameras, tamper-indication devices, nuclear detectors, monitoring systems, or equipment necessary to safely store, transport, or remove hazardous materials, whether such items, services, or information are regulated by the Department of Energy, the Department of Commerce, or the Commission, except to the extent that such technologies, equipment, seals, cameras, devices, detectors, or systems are available for use in the design or construction of nuclear reactors or nuclear weapons.
 
 (3) The President may waive the application of paragraph (1) to a country if the President determines and certifies to Congress that the waiver will not result in any increased risk that the country receiving the waiver will acquire nuclear weapons, nuclear reactors, or any materials or components of nuclear weapons and—
 
@@ -40,15 +40,15 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–369 substituted “Congress adopts, and there is enacted, a joint resolution” for “Congress adopts a concurrent resolution” in concluding provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–369 substituted "Congress adopts, and there is enacted, a joint resolution" for "Congress adopts a concurrent resolution" in concluding provisions.
 
 <b>2005</b>—Pub. L. 109–58 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1994</b>—Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in closing provisions.
+<b>1994</b>—Pub. L. 103–437 substituted "Foreign Affairs" for "International Relations" in closing provisions.
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–58, title VI, §632(b), Aug. 8, 2005, 119 Stat. 789, provided that: “Subsection b. of section 129 of Atomic Energy Act of 1954 \[42 U.S.C. 2158(b)\], as added by subsection (a) of this section, shall apply with respect to exports that have been approved for transfer as of the date of the enactment of this Act \[Aug. 8, 2005\] but have not yet been transferred as of that date.”
+Pub. L. 109–58, title VI, §632(b), Aug. 8, 2005, 119 Stat. 789, provided that: "Subsection b. of section 129 of Atomic Energy Act of 1954 \[42 U.S.C. 2158(b)\], as added by subsection (a) of this section, shall apply with respect to exports that have been approved for transfer as of the date of the enactment of this Act \[Aug. 8, 2005\] but have not yet been transferred as of that date."
 
 #### Effective Date
 

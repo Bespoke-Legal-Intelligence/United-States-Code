@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director, shall carry out a Native American export and trade promotion program (referred to in this section as the “program”).
+The Secretary, acting through the Director, shall carry out a Native American export and trade promotion program (referred to in this section as the "program").
 
 #### (b) Coordination of Federal programs and services
 
@@ -42,7 +42,7 @@ In conjunction with the activities described in subsection (c) of this section, 
 
 #### (e) Priorities
 
-In carrying out the duties and activities described in subsections (b) and (c) of this section, the Secretary, acting through the Director, shall give priority to activities that—
+In carrying out the duties and activities described in subsections (b) and (c) of this section,the Secretary, acting through the Director, shall give priority to activities that—
 
 &emsp;(1) provide the greatest degree of economic benefits to Indians; and
 

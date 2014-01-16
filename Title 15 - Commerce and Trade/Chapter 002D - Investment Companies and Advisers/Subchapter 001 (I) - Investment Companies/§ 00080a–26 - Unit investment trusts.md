@@ -64,11 +64,11 @@ Whenever the Commission has reason to believe that a unit investment trust is in
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–290 added subsec. (e).
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–181, §618, substituted “intended” for “intend”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–181, §618, substituted "intended" for "intend".
 
-Subsec. (c). Pub. L. 100–181, §619, substituted “contract or agreement” for “contract of agreement”.
+Subsec. (c). Pub. L. 100–181, §619, substituted "contract or agreement" for "contract of agreement".
 
-<b>1970</b>—Subsecs. (b) to (d). Pub. L. 91–547 added subsec. (b), redesignated former subsec. (b) as (c), struck out “at the effective date of this subchapter” before “comply”, substituted “contract of agreement” for “contract or agreement”, and redesignated former subsec. (c) as (d).
+<b>1970</b>—Subsecs. (b) to (d). Pub. L. 91–547 added subsec. (b), redesignated former subsec. (b) as (c), struck out "at the effective date of this subchapter" before "comply", substituted "contract of agreement" for "contract or agreement", and redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1999 Amendment
 

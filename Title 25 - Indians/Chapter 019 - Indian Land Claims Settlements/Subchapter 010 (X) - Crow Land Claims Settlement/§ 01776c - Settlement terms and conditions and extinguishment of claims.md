@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) A disclaimer and relinquishment by the Crow Tribe of all right, title, claim, or interest in all the land and minerals within parcel number 1, except for the rights, titles, and interests recognized as beneficially owned by the Crow Tribe and as part of the Crow Indian Reservation in subparagraphs (B) through (D) of paragraph (1).
 
-&emsp;&emsp;(B) A release by the Crow Tribe of all persons and entities, including the United States, from any liability arising from, or related to, the 1891 survey and the subsequent occupancy and use of parcel number 1.
+&emsp;&emsp;(B) A release by the Crow Tribe of all persons and entities, including the United States, from any liability arising from, orrelated to, the 1891 survey and the subsequent occupancy and use of parcel number 1.
 
 #### (b) Property within parcel number 2
 
@@ -76,7 +76,7 @@ With respect to the land exchanges with the State of Montana and private landown
 
 #### (1) In general
 
-&emsp;(A) The Secretary shall negotiate with the State of Montana for the purpose of exchanging public lands within the State of Montana for State trust lands within the Crow Reservation having a total value substantially equal to the value of the surface estate of the approximately 46,625 acres of State trust lands obtained by the State of Montana pursuant to the Act of February 22, 1889 (commonly known as the “Montana Enabling Act”; 25 Stat. 676, chapter 180), and the Act entitled “An Act to provide for the allotment of lands of the Crow Tribe for the distribution of tribal funds and for other purposes” approved June 4, 1920 (commonly known as the “Crow Allotment Act”; 41 Stat. 751, chapter 224) within the Crow Indian Reservation and the disputed area.
+&emsp;(A) The Secretary shall negotiate with the State of Montana for the purpose of exchanging public lands within the State of Montana for State trust lands within the Crow Reservation having a total value substantially equal to the value of the surface estate of the approximately 46,625 acres of State trust lands obtained by the State of Montana pursuant to the Act of February 22, 1889 (commonly known as the "Montana Enabling Act"; 25 Stat. 676, chapter 180), and the Act entitled "An Act to provide for the allotment of lands of the Crow Tribe for the distribution of tribal funds and for other purposes" approved June 4, 1920 (commonly known as the "Crow Allotment Act"; 41 Stat. 751, chapter 224) within the Crow Indian Reservation and the disputed area.
 
 &emsp;(B) The exchange described in subparagraph (A) shall be in accordance with the exchange procedures set forth in section 1716 of title 43.
 
@@ -92,7 +92,7 @@ With respect to the land exchanges with the State of Montana and private landown
 
 &emsp;&emsp;(ii) transfer title to the public lands disposed of pursuant to the exchanges with the State of Montana by such means of conveyance as the Secretary considers appropriate.
 
-&emsp;(G) Title to the State trust lands acquired pursuant to the exchanges made with the State of Montana pursuant to this paragraph shall be vested in the United States in trust for the sole use and benefit of the Crow Tribe and shall be recognized as part of the Crow Indian Reservation.
+&emsp;(G) Title to the State trust lands acquired pursuant to the exchanges made with the State of Montana pursuant to this paragraph shall be vested in the United States in trustfor the sole use and benefit of the Crow Tribe and shall be recognized as part of the Crow Indian Reservation.
 
 #### (2) Requirement for exchanges
 
@@ -136,5 +136,5 @@ Act June 4, 1920, referred to in subsec. (d)(1)(A), is act June 4, 1920, ch. 224
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(3). Pub. L. 104–109 made technical amendment to reference to “this subsection” to correct underlying provisions of original act.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–109 made technical amendment to reference to "this subsection" to correct underlying provisions of original act.
 

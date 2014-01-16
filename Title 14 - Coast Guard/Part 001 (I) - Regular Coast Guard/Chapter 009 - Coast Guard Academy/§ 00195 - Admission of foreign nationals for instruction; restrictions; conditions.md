@@ -16,11 +16,11 @@
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c). Pub. L. 112–213 substituted “foreign national” for “person” in two places and “pay, allowances, and emoluments” for “pay and allowances” in two places.
+<b>2012</b>—Subsec. (c). Pub. L. 112–213 substituted "foreign national" for "person" in two places and "pay, allowances, and emoluments" for "pay and allowances" in two places.
 
-Subsec. (d). Pub. L. 112–213, §204(1), substituted “foreign national” for “person” in introductory provisions.
+Subsec. (d). Pub. L. 112–213, §204(1), substituted "foreign national" for "person" in introductory provisions.
 
-<b>1976</b>—Pub. L. 94–468 substituted “foreign nationals” for “foreigners” in section catchline.
+<b>1976</b>—Pub. L. 94–468 substituted "foreign nationals" for "foreigners" in section catchline.
 
 Subsec. (a). Pub. L. 94–468 substituted provision barring foreign nationals from receiving instruction at the Academy unless authorized by this section, for provision which authorized the Secretary to permit four persons at a time from the Republic of the Philippines, as designated by the President, to attend the Academy.
 

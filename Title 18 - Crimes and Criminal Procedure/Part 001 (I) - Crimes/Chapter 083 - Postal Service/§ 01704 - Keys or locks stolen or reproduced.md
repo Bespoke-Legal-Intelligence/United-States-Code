@@ -22,9 +22,9 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500" in last par.
 
-<b>1970</b>—Pub. L. 91–375 inserted “or the Postal Service” after “Post Office Department” in first and third pars.
+<b>1970</b>—Pub. L. 91–375 inserted "or the Postal Service" after "Post Office Department" in first and third pars.
 
 #### Effective Date of 1970 Amendment
 

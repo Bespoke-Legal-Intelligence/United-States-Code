@@ -34,21 +34,21 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(3). Pub. L. 110–181 substituted “except as provided under section 1251 or 1253 of this title” for “but such period may not (except as provided under section 1251(b) of this title) extend beyond the date of the officer's sixty-second birthday”.
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–181 substituted "except as provided under section 1251 or 1253 of this title" for "but such period may not (except as provided under section 1251(b) of this title) extend beyond the date of the officer's sixty-second birthday".
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–510, §521(b)(1)(A), inserted at end “The period of the continuation on active duty of an officer under this section may be reduced by the Secretary concerned in the case of any officer as provided in section 638a of this title.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–510, §521(b)(1)(A), inserted at end "The period of the continuation on active duty of an officer under this section may be reduced by the Secretary concerned in the case of any officer as provided in section 638a of this title."
 
 Subsecs. (d), (e). Pub. L. 101–510, §521(b)(1)(B), (C), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1985</b>—Subsec. (b)(2). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (b)(2). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore".
 
-<b>1984</b>—Subsec. (a)(2). Pub. L. 98–525, §1405(15)(A), substituted “20” for “twenty”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–525, §1405(15)(A), substituted "20" for "twenty".
 
-Subsec. (a)(3). Pub. L. 98–525, §1405(15)(B), substituted “24” for “twenty-four”.
+Subsec. (a)(3). Pub. L. 98–525, §1405(15)(B), substituted "24" for "twenty-four".
 
-<b>1981</b>—Subsec. (b)(1). Pub. L. 97–22, §4(e)(1), substituted “section 633 or 634” for “section 633, 634, 635, or 636”.
+<b>1981</b>—Subsec. (b)(1). Pub. L. 97–22, §4(e)(1), substituted "section 633 or 634" for "section 633, 634, 635, or 636".
 
-Subsec. (b)(2). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+Subsec. (b)(2). Pub. L. 97–86 substituted "commodore" for "commodore admiral".
 
 Pub. L. 97–22, §4(e)(2), inserted provision that an officer subject to retirement under section 635 or 636 of this title who is serving in the grade of brigadier general, commodore admiral, major general, or rear admiral may, subject to the needs of the service, have his retirement deferred and be continued on active duty by the Secretary concerned and struck out requirement that the deferral of the retirement of an officer subject to retirement under section 635 or 636 of this title serving in a grade above major general or rear admiral was subject to the needs of the service.
 

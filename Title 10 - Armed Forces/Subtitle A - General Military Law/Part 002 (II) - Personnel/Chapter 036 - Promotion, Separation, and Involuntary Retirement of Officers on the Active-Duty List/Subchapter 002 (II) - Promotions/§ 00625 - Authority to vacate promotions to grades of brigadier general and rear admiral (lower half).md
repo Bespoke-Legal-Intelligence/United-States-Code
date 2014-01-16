@@ -10,9 +10,9 @@
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” in section catchline and subsecs. (a) and (c).
+<b>1985</b>—Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore" in section catchline and subsecs. (a) and (c).
 
-<b>1981</b>—Pub. L. 97–86 substituted “commodore” for “commodore admiral” in section catchline and subsecs. (a) and (c).
+<b>1981</b>—Pub. L. 97–86 substituted "commodore" for "commodore admiral" in section catchline and subsecs. (a) and (c).
 
 #### Effective Date of 1981 Amendment
 

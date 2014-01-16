@@ -10,7 +10,7 @@ Notice of Results of Review.—Upon making a determination under subsection (a) 
 
 (c)
 
-Definition.—In this section, the term “Member of Congress” means—
+Definition.—In this section, the term "Member of Congress" means—
 
 &emsp;(1) a Senator; or
 
@@ -20,19 +20,19 @@ Definition.—In this section, the term “Member of Congress” means—
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136, §1031(a)(11)(B), struck out “and recommendation” after “review” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §1031(a)(11)(B), struck out "and recommendation" after "review" in section catchline.
 
-Subsec. (a). Pub. L. 108–136, §1031(a)(11)(A)(i), struck out “and the other determinations necessary to comply with subsection (b)” before period at end.
+Subsec. (a). Pub. L. 108–136, §1031(a)(11)(A)(i), struck out "and the other determinations necessary to comply with subsection (b)" before period at end.
 
-Subsec. (b). Pub. L. 108–136, §1031(a)(11)(A)(ii), substituted “a detailed discussion of the rationale supporting the determination.” for “notice in writing of one of the following:
+Subsec. (b). Pub. L. 108–136, §1031(a)(11)(A)(ii), substituted "a detailed discussion of the rationale supporting the determination." for "notice in writing of one of the following:
 
-&emsp;“(1) The posthumous or honorary promotion or appointment does not warrant approval on the merits.
+&emsp;"(1) The posthumous or honorary promotion or appointment does not warrant approval on the merits.
 
-&emsp;“(2) The posthumous or honorary promotion or appointment warrants approval and authorization by law for the promotion or appointment is recommended.
+&emsp;"(2) The posthumous or honorary promotion or appointment warrants approval and authorization by law for the promotion or appointment is recommended.
 
-&emsp;“(3) The posthumous or honorary promotion or appointment warrants approval on the merits and has been recommended to the President as an exception to policy.
+&emsp;"(3) The posthumous or honorary promotion or appointment warrants approval on the merits and has been recommended to the President as an exception to policy.
 
-&emsp;“(4) The posthumous or honorary promotion or appointment warrants approval on the merits and authorization by law for the promotion or appointment is required but is not recommended.
+&emsp;"(4) The posthumous or honorary promotion or appointment warrants approval on the merits and authorization by law for the promotion or appointment is required but is not recommended.
 
-> A notice under paragraph (1) or (4) shall be accompanied by a statement of the reasons for the decision of the Secretary.”
+> A notice under paragraph (1) or (4) shall be accompanied by a statement of the reasons for the decision of the Secretary."
 

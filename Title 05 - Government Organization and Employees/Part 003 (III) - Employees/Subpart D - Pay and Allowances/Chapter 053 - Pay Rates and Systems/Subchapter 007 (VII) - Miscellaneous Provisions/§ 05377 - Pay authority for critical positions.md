@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(F) a position in a category as to which a designation is in effect under subsection (i); and
 
-&emsp;&emsp;(G) a position at the Federal Bureau of Investigation, the primary duties and responsibilities of which relate to intelligence functions (as determined by the Director of the Federal Bureau of Investigation).
+&emsp;&emsp;(G) a position at the Federal Bureau of Investigation, the primary duties and responsibilities of which relate to intelligencefunctions (as determined by the Director of the Federal Bureau of Investigation).
 
 (b) Authority under this section—
 
@@ -40,7 +40,7 @@
 
 &emsp;(1) whenever the Office of Personnel Management determines (in accordance with such procedures and subject to such terms or conditions as such Office by regulation prescribes) that 1 or more of the requirements of subsection (b) are no longer met; or
 
-&emsp;(2) as of such date as such Office may otherwise specify, except that termination under this paragraph may not take effect before theauthority has been available for such position for at least 1 calendar year.
+&emsp;(2) as of such date as such Office may otherwise specify, except that termination under this paragraph may not take effect before the authority has been available for such position for at least 1 calendar year.
 
 (f) The Office of Personnel Management may not authorize the exercise of authority under this section with respect to more than 800 positions at any time, of which not more than 30 may, at any such time, be positions the rate of basic pay for which would otherwise be determined under subchapter II.
 
@@ -90,5 +90,5 @@ Section effective on such date as the President shall determine, but not earlier
 
 #### Delegation of Functions
 
-Functions of President under this section assigned to the Director of the Office of Personnel Management by section 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under section 4505a of this title.
+Functions of President under this section assigned to the Director of the Office of Personnel Management bysection 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under section 4505a of this title.
 

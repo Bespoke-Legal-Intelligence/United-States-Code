@@ -12,11 +12,11 @@ Congress finds the following:
 
 &emsp;(5) United States efforts to promote democracy and protect human rights can be strengthened to improve assistance for such reformers, including through an enhanced role for United States diplomats when properly trained and given the right incentives.
 
-&emsp;(6) The promotion of democracy requires a broad-based effort with cooperation betweenall democratic countries, including through the Community of Democracies.
+&emsp;(6) The promotion of democracy requires a broad-based effort with cooperation between all democratic countries, including through the Community of Democracies.
 
 (Pub. L. 110–53, title XXI, §2102, Aug. 3, 2007, 121 Stat. 526.)
 
 #### Short Title
 
-Pub. L. 110–53, title XXI, §2101, Aug. 3, 2007, 121 Stat. 526, provided that: “This title \[enacting this chapter and amending provisions set out as a note under section 2151n of this title\] may be cited as the ‘Advance Democratic Values, Address Nondemocratic Countries, and Enhance Democracy Act of 2007’ or the ‘ADVANCE Democracy Act of 2007’.”
+Pub. L. 110–53, title XXI, §2101, Aug. 3, 2007, 121 Stat. 526, provided that: "This title \[enacting this chapter and amending provisions set out as a note under section 2151n of this title\] may be cited as the 'Advance Democratic Values, Address Nondemocratic Countries, and Enhance Democracy Act of 2007' or the 'ADVANCE Democracy Act of 2007'."
 

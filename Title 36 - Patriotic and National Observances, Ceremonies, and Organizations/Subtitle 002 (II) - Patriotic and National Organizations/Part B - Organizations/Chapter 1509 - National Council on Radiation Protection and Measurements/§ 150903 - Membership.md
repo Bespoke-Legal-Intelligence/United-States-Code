@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 July 14, 1964, Pub. L. 88–376, §6, 78 Stat. 322.
 
-In subsection (b), the words “the right to” are omitted as unnecessary.
+In subsection (b), the words "the right to" are omitted as unnecessary.
 

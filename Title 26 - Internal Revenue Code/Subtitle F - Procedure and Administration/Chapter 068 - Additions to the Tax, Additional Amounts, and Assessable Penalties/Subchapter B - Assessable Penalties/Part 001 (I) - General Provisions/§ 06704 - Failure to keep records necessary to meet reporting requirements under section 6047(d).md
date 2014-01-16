@@ -38,7 +38,7 @@ Any person who—
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–514 substituted “section 6047(d)” for “section 6047(e)” in section catchline and in subsec. (a).
+<b>1986</b>—Pub. L. 99–514 substituted "section 6047(d)" for "section 6047(e)" in section catchline and in subsec. (a).
 
 #### Effective Date of 1986 Amendment
 

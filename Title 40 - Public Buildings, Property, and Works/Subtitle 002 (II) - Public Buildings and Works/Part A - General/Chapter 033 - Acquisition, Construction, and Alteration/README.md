@@ -23,7 +23,7 @@
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–140, title III, §323(c)(2), Dec. 19, 2007, 121 Stat. 1591, added items 3313 to 3316 and struck out former items 3313 “Delegation”, 3314 “Report to Congress”, and 3315 “Certain authority not affected”.
+<b>2007</b>—Pub. L. 110–140, title III, §323(c)(2), Dec. 19, 2007, 121 Stat. 1591, added items 3313 to 3316 and struck out former items 3313 "Delegation", 3314 "Report to Congress", and 3315 "Certain authority not affected".
 
 
 ---

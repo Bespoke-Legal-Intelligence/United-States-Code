@@ -52,7 +52,7 @@ The State educational agency for a State that receives a grant under section 661
 
 &emsp;(9) Funding projects to promote reciprocity of teacher and principal certification or licensing between or among States, except that no reciprocity agreement developed under this paragraph or developed using funds provided under this part may lead to the weakening of any State teaching certification or licensing requirement.
 
-&emsp;(10) Developing or assisting local educational agencies in the development and use of proven, innovative strategies to deliver intensive professional development programs that are both cost-effective and easily accessible, such as strategies that involve delivery through the use of technology, peer networks, and distance learning.
+&emsp;(10) Developing or assisting local educational agencies in the development and useof proven, innovative strategies to deliver intensive professional development programs that are both cost-effective and easily accessible, such as strategies that involve delivery through the use of technology, peer networks, and distance learning.
 
 &emsp;(11) Encouraging and supporting the training of teachers and administrators to effectively integrate technology into curricula and instruction, including training to improve the ability to collect, manage, and analyze data to improve teaching, decisionmaking, school improvement efforts, and accountability.
 
@@ -80,7 +80,7 @@ A State educational agency or State agency for higher education receiving a gran
 
 #### (e) Coordination
 
-A State that receives a grant to carry out this subpart and a grant under section 202 <sup>1</sup> of the Higher Education Act of 1965 shall coordinatethe activities carried out under this subpart and the activities carried out under that section.
+A State that receives a grant to carry out this subpart and a grant under section 202 <sup>1</sup> of the Higher Education Act of 1965 shall coordinate the activities carried out under this subpart and the activities carried out under that section.
 
 #### (f) Supplement, not supplant
 

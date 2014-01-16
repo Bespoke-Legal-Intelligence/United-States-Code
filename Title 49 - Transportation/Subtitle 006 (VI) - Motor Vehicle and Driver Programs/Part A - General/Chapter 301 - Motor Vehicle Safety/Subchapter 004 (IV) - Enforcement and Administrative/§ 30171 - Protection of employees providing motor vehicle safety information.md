@@ -2,7 +2,7 @@
 
 (a)
 
-Discrimination Against Employees of Manufacturers, Part Suppliers, and Dealerships.—No motor vehicle manufacturer, part supplier, or dealership may discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee)—
+Discrimination Against Employees of Manufacturers, Part Suppliers, and Dealerships.—No motor vehicle manufacturer, part supplier, or dealership may discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment becausethe employee (or any person acting pursuant to a request of the employee)—
 
 &emsp;(1) provided, caused to be provided, or is about to provide (with any knowledge of the employer) or cause to be provided to the employer or the Secretary of Transportation information relating to any motor vehicle defect, noncompliance, or any violation or alleged violation of any notification or reporting requirement of this chapter;
 
@@ -20,7 +20,7 @@ Complaint Procedure.—
 
 &emsp;(1)
 
-Filing and notification.—A person who believes that he or she has been discharged orotherwise discriminated against by any person in violation of subsection (a) may file (or have any person file on his or her behalf), not later than 180 days after the date on which such violation occurs, a complaint with the Secretary of Labor (hereinafter in this section referred to as the “Secretary”) alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
+Filing and notification.—A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may file (or have any person file on his or her behalf), not later than 180 days after the date on which such violation occurs, a complaint with the Secretary of Labor (hereinafter in this section referred to as the "Secretary") alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ Remedy.—If, in response to a complaint filed under paragraph (1), the Secretar
 
 &emsp;&emsp;(C)
 
-Attorneys’ fees.—If such an order is issued under this paragraph, the Secretary, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys’ and expert witness fees) reasonably incurred, as determined by the Secretary, by the complainant for, or in connection with, bringing the complaint upon which the order was issued.
+Attorneys' fees.—If such an order is issued under this paragraph, the Secretary, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys' and expert witness fees) reasonably incurred, as determined by the Secretary, by the complainant for, or in connection with, bringing the complaint upon which the order was issued.
 
 &emsp;&emsp;(D)
 
@@ -78,7 +78,7 @@ Frivolous complaints.—If the Secretary determines that a complaint under parag
 
 &emsp;&emsp;(E)
 
-De novo review.—With respect to a complaint under paragraph (1), if the Secretary has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdictionover such an action without regard to the amount in controversy, and which action shall, at the request of either party to the action, be tried by the court with a jury. The action shall be governed by the same legal burdens of proof specified in paragraph (2)(B) for review by the Secretary.
+De novo review.—With respect to a complaint under paragraph (1), if the Secretary has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to the action, be tried by the court with a jury. The action shall be governed by the same legal burdens of proof specified in paragraph (2)(B) for review by the Secretary.
 
 &emsp;(4)
 

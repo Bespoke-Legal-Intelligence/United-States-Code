@@ -20,15 +20,15 @@ The first paragraph is implied in the present statutes, and the part of the last
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 designated first to third pars. as subsecs. (a) to (c), respectively, inserted headings, and, in subsec. (c), struck out “and such error arose without any deceptive intention on his part,” before “the Director”.
+<b>2011</b>—Pub. L. 112–29 designated first to third pars. as subsecs. (a) to (c), respectively, inserted headings, and, in subsec. (c), struck out "and such error arose without any deceptive intention on his part," before "the Director".
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in two places.
+<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" in two places.
 
-<b>1984</b>—Pub. L. 98–622 amended first par. generally, striking out “and each sign the application” after “patent jointly” and inserting sentence beginning “Inventors may apply”.
+<b>1984</b>—Pub. L. 98–622 amended first par. generally, striking out "and each sign the application" after "patent jointly" and inserting sentence beginning "Inventors may apply".
 
-<b>1982</b>—Pub. L. 97–247 substituted “Inventors” for “Joint inventors” as section catchline, and substituted “through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application” for “a person is joined in an application for patent as joint inventor through error, or a joint inventor is not included in an application through error”.
+<b>1982</b>—Pub. L. 97–247 substituted "Inventors" for "Joint inventors" as section catchline, and substituted "through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application" for "a person is joined in an application for patent as joint inventor through error, or a joint inventor is not included in an application through error".
 
 #### Effective Date of 2011 Amendment
 

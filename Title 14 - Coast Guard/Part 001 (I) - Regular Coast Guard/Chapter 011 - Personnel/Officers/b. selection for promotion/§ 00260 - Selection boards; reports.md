@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–281 inserted “to meet the needs of the service (as noted in specific direction furnished the board by the Secretary under section 258 of this title)” after “qualified for promotion”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–281 inserted "to meet the needs of the service (as noted in specific direction furnished the board by the Secretary under section 258 of this title)" after "qualified for promotion".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–295 inserted “and the names of those officers recommended to be advanced to the top of the list of selectees established by the Secretary under section 271(a) of this title” before period at end.
+<b>2002</b>—Subsec. (a). Pub. L. 107–295 inserted "and the names of those officers recommended to be advanced to the top of the list of selectees established by the Secretary under section 271(a) of this title" before period at end.
 

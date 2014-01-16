@@ -6,7 +6,7 @@
 | :--- | ---: |
 | [381\.](Subchapter%20001%20%28I%29%20-%20Net%20Income%20Taxes/%C2%A7%2000381%20-%20Imposition%20of%20net%20income%20tax.md) | Imposition of net income tax. |
 | [382\.](Subchapter%20001%20%28I%29%20-%20Net%20Income%20Taxes/%C2%A7%2000382%20-%20Assessment%20of%20net%20income%20taxes.md) | Assessment of net income taxes. |
-| [383\.](Subchapter%20001%20%28I%29%20-%20Net%20Income%20Taxes/%C2%A7%2000383%20-%20%E2%80%9CNet%20income%20tax%E2%80%9D%20defined.md) | “Net income tax” defined. |
+| [383\.](Subchapter%20001%20%28I%29%20-%20Net%20Income%20Taxes/%C2%A7%2000383%20-%20Net%20income%20tax%20defined.md) | "Net income tax" defined. |
 | [384\.](Subchapter%20001%20%28I%29%20-%20Net%20Income%20Taxes/%C2%A7%2000384%20-%20Separability.md) | Separability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

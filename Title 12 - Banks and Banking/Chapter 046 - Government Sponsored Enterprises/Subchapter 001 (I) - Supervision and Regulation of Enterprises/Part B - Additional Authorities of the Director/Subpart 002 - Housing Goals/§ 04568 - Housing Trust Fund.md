@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Housing and Urban Development (in this section referred to as the “Secretary”) shall establish and manage a Housing Trust Fund, which shall be funded with amounts allocated by the enterprises under section 4567 of this title and any amounts as are or may be appropriated, transferred, or credited to such Housing Trust Fund under any other provisions of law. The purpose of the Housing Trust Fund under this section is to provide grants to States (as such term is defined in section 4502 of this title) for use—
+&emsp;The Secretary of Housing and Urban Development (in this section referred to as the "Secretary") shall establish and manage a Housing Trust Fund, which shall be funded with amounts allocated by the enterprises under section 4567 of this title and any amounts as are or may be appropriated, transferred, or credited to such Housing Trust Fund under any other provisions of law. The purpose of the Housing Trust Fund under this section is to provide grants to States (as such term is defined in section 4502 of this title) for use—
 
 &emsp;&emsp;(A) to increase and preserve the supply of rental housing for extremely low- and very low-income families, including homeless families; and
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(iv) The ratio of very low-income renter households in the State paying more than 50 percent of income on rent relative to the aggregate number of very low-income renter households paying more than 50 percent of income on rent in all the States.
 
-&emsp;&emsp;&emsp;(v) The resulting sum calculated from the factors described in clauses (i) through (iv) shall be multiplied by the relative cost of construction in the State. For purposes of this subclause,<sup>1</sup> the term “cost of construction”—
+&emsp;&emsp;&emsp;(v) The resulting sum calculated from the factors described in clauses (i) through (iv) shall be multiplied by the relative cost of construction in the State. For purposes of this subclause,<sup>1</sup> the term "cost of construction"—
 
 &emsp;&emsp;&emsp;&emsp;(I) means the cost of construction or building rehabilitation in the State relative to the national cost of construction or building rehabilitation; and
 
@@ -300,17 +300,17 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Extremely low-income renter household
 
-&emsp;The term “extremely low-income renter household” means a household whose income is not in excess of 30 percent of the area median income, with adjustments for smaller and larger families, as determined by the Secretary.
+&emsp;The term "extremely low-income renter household" means a household whose income is not in excess of 30 percent of the area median income, with adjustments for smaller and larger families, as determined by the Secretary.
 
 #### (2) Recipient
 
-&emsp;The term “recipient” means an individual or entity that receives assistance from a State or State designated entity from amounts made available to the State or State designated entity under this section.
+&emsp;The term "recipient" means an individual or entity that receives assistance from a State or State designated entity from amounts made available to the State or State designated entity under this section.
 
 #### (3) Shortage of standard rental units both affordable and available to extremely low-income renter households
 
 #### (A) In general
 
-&emsp;&emsp;The term “shortage of standard rental units both affordable and available to extremely low-income renter households” means for any State or other geographical area the gap between—
+&emsp;&emsp;The term "shortage of standard rental units both affordable and available to extremely low-income renter households" means for any State or other geographical area the gap between—
 
 &emsp;&emsp;&emsp;(i) the number of units with complete plumbing and kitchen facilities with a rent that is 30 percent or less of 30 percent of the adjusted area median income as determined by the Secretary that are occupied by extremely low-income renter households or are vacant for rent; and
 
@@ -324,7 +324,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (A) In general
 
-&emsp;&emsp;The term “shortage of standard rental units both affordable and available to very low-income renter households” means for any State or other geographical area the gap between—
+&emsp;&emsp;The term "shortage of standard rental units both affordable and available to very low-income renter households" means for any State or other geographical area the gap between—
 
 &emsp;&emsp;&emsp;(i) the number of units with complete plumbing and kitchen facilities with a rent that is 30 percent or less of 50 percent of the adjusted area median income as determined by the Secretary that are occupied by very low-income renter households or are vacant for rent; and
 
@@ -336,11 +336,11 @@ For purposes of this section, the following definitions shall apply:
 
 #### (5) Very low-income family
 
-&emsp;The term “very low-income family” has the meaning given such term in section 4502 of this title, except that such term includes any family that resides in a rural area that has an income that does not exceed the poverty line (as such term is defined in section 9902(2) of title 42, including any revision required by such section) applicable to a family of the size involved.
+&emsp;The term "very low-income family" has the meaning given such term in section 4502 of this title, except that such term includes any family that resides in a rural area that has an income that does not exceed the poverty line (as such term is defined in section 9902(2) of title 42, including any revision required by such section) applicable to a family of the size involved.
 
 #### (6) Very low-income renter households
 
-&emsp;The term “very low-income renter households” means a household whose income is in excess of 30 percent but not greater than 50 percent of the area median income, with adjustments for smaller and larger families, as determined by the Secretary.
+&emsp;The term "very low-income renter households" means a household whose income is in excess of 30 percent but not greater than 50 percent of the area median income, with adjustments for smaller and larger families, as determined by the Secretary.
 
 #### (g) Regulations
 
@@ -388,13 +388,13 @@ Any grant under this section to a grantee by a State or State designated entity,
 
 #### References in Text
 
-Section 4103 of title 25, referred to in subsec. (c)(2), was in the original “section 4 of the Native American Housing Assistance and Self-Determination Act of 1997 (25 U.S.C. 4103)”, and was translated as meaning section 4 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
+Section 4103 of title 25, referred to in subsec. (c)(2), was in the original "section 4 of the Native American Housing Assistance and Self-Determination Act of 1997 (25 U.S.C. 4103)", and was translated as meaning section 4 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (c)(7)(B)(i)(II), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
 Section 132 of the Federal Housing Finance Regulatory Reform Act of 2008, referred to in subsec. (c)(7)(B)(iv), probably means section 1132 of Pub. L. 110–289, which is set out as a note under section 1701x of this title.
 
-This chapter, referred to in subsec. (h), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in subsec. (h), was in the original "this title", meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 The Federal Funding Accountability and Transparency Act of 2006, referred to in subsec. (i), is Pub. L. 109–282, Sept. 26, 2006, 120 Stat. 1186, which is set out as a note under section 6101 of Title 31, Money and Finance.
 
@@ -402,11 +402,11 @@ The Federal Funding Accountability and Transparency Act of 2006, referred to in 
 
 A prior section 1338 of Pub. L. 102–550, title XIII, Oct. 28, 1992, 106 Stat. 3964, was set out as a note under section 4562 of this title, prior to repeal by Pub. L. 110–289, div. A, title I, §1122(a)(2), July 30, 2008, 122 Stat. 2689.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this clause,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this clause,".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “cause”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "cause".</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 
-<i><sup>4</sup></i><i> So in original. A word appears to be missing before “the”.</i>
+<i><sup>4</sup></i><i> So in original. A word appears to be missing before "the".</i>
 

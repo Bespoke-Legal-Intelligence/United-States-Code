@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible hard white wheat seed
 
-&emsp;The term “eligible hard white wheat seed” means hard white wheat seed that, as determined by the Secretary, is—
+&emsp;The term "eligible hard white wheat seed" means hard white wheat seed that, as determined by the Secretary, is—
 
 &emsp;&emsp;(A) certified;
 
@@ -18,11 +18,11 @@ In this section:
 
 #### (2) Program
 
-&emsp;The term “program” means the hard white wheat development program established under subsection (b)(1).
+&emsp;The term "program" means the hard white wheat development program established under subsection (b)(1).
 
 #### (3) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture, in consultation with the State Departments of Agriculture and the State Wheat Commissions of the States in regions in which hard white wheat is produced, as determined by the Secretary.
+&emsp;The term "Secretary" means the Secretary of Agriculture, in consultation with the State Departments of Agriculture and the State Wheat Commissions of the States in regions in which hard white wheat is produced, as determined by the Secretary.
 
 #### (b) Establishment
 
@@ -34,7 +34,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C) and subsection (c), if funds are made available for any of the 2009 through 2012 crops of hard white wheat, the Secretary shall makeavailable incentive payments to producers of those crops.
+&emsp;&emsp;Subject to subparagraphs (B) and (C) and subsection (c), if funds are made available for any of the 2009 through 2012 crops of hard white wheat, the Secretary shall make available incentive payments to producers of those crops.
 
 #### (B) Acreage limitation
 

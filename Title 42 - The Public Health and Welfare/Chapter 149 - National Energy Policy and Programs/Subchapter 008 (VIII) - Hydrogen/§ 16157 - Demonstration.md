@@ -44,7 +44,7 @@ In carrying out the programs under this section, the Secretary shall fund a limi
 
 #### (1) <sup>1</sup> In general
 
-&emsp;As a component of the demonstration program under this section, the Secretary shall provide grants, on a cost share basis as appropriate, to eligible entities (as determined by the Secretary) for use in—
+&emsp;As a component of the demonstration program under this section, the Secretary shallprovide grants, on a cost share basis as appropriate, to eligible entities (as determined by the Secretary) for use in—
 
 &emsp;&emsp;(A) devising system design concepts that provide for the use of advanced composite vehicles in programs under section 16122 of this title that—
 
@@ -68,7 +68,7 @@ In carrying out the demonstrations under subsection (a), the Secretary, in consu
 
 &emsp;(1) after 2008 for stationary and portable applications, and after 2010 for vehicles, identify new requirements that refine technological concepts, planning, and applications; and
 
-&emsp;(2) during the second phase of the learning demonstrations under subsection (b)(1)(A)(ii),redesign subsequent program work to incorporate those requirements.
+&emsp;(2) during the second phase of the learning demonstrations under subsection (b)(1)(A)(ii), redesign subsequent program work to incorporate those requirements.
 
 #### (d) Authorization of appropriations
 

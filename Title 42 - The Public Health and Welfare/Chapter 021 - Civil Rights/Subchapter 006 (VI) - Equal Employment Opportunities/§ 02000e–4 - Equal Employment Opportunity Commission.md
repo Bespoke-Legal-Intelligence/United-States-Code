@@ -6,7 +6,7 @@ There is hereby created a Commission to be known as the Equal Employment Opportu
 
 #### (b) General Counsel; appointment; term; duties; representation by attorneys and Attorney General
 
-(1) There shall be a General Counsel of the Commission appointed by the President, by and with the advice and consent of the Senate, for a term of four years. The General Counsel shall have responsibility for the conduct of litigation as provided in sections 2000e–5 and 2000e–6 of this title. The General Counsel shall have such other duties as the Commission may prescribe or as may be provided by law and shall concur with the Chairman of the Commission on the appointment and supervision of regional attorneys. The General Counsel of the Commission on the effective date of this Act shall continue in such position and perform the functions specified in this subsection until a successor is appointed and qualified.
+(1) There shall be a General Counsel of the Commission appointed by the President, by and with the advice and consent of the Senate, for a term of four years. The General Counsel shall have responsibility for the conduct of litigation as provided in sections 2000e–5 and 2000e–6 of this title. The General Counsel shall have such other duties as the Commission may prescribe or as may be provided by law and shall concur withthe Chairman of the Commission on the appointment and supervision of regional attorneys. The General Counsel of the Commission on the effective date of this Act shall continue in such position and perform the functions specified in this subsection until a successor is appointed and qualified.
 
 (2) Attorneys appointed under this section may, at the direction of the Commission, appear for and represent the Commission in any case in court, provided that the Attorney General shall conduct all litigation to which the Commission is a party in the Supreme Court pursuant to this subchapter.
 
@@ -68,7 +68,7 @@ All officers, agents, attorneys, and employees of the Commission shall be subjec
 
 #### (k) EEOC Education, Technical Assistance, and Training Revolving Fund
 
-(1) There is hereby established in the Treasury of the United States a revolving fund to be known as the “EEOC Education, Technical Assistance, and Training Revolving Fund” (hereinafter in this subsection referred to as the “Fund”) and to pay the cost (including administrative and personnel expenses) of providing education, technical assistance, and training relating to laws administered by the Commission. Monies in the Fund shall be available without fiscal year limitation to the Commission for such purposes.
+(1) There is hereby established in the Treasury of the United States a revolving fund to be known as the "EEOC Education, Technical Assistance, and Training Revolving Fund" (hereinafter in this subsection referred to as the "Fund") and to pay the cost (including administrative and personnel expenses) of providing education, technical assistance, and training relating to laws administered by the Commission. Monies in the Fund shall be available without fiscal year limitation to the Commission for such purposes.
 
 (2)(A) The Commission shall charge fees in accordance with the provisions of this paragraph to offset the costs of education, technical assistance, and training provided with monies in the Fund. Such fees for any education, technical assistance, or training—
 
@@ -86,7 +86,7 @@ All officers, agents, attorneys, and employees of the Commission shall be subjec
 
 &emsp;(ii) the cost to the Commission to provide such education, technical assistance, or training to such persons and entities, and
 
-&emsp;(iii) the amount of any fees received by the Commission from such persons and entities forsuch education, technical assistance, or training.
+&emsp;(iii) the amount of any fees received by the Commission from such persons and entities for such education, technical assistance, or training.
 
 (3) The Secretary of the Treasury shall invest the portion of the Fund not required to satisfy current expenditures from the Fund, as determined by the Commission, in obligations of the United States or obligations guaranteed as to principal by the United States. Investment proceeds shall be deposited in the Fund.
 
@@ -104,13 +104,13 @@ Section 7324 of title 5, referred to in subsec. (i), which related to Executive 
 
 #### Codification
 
-In subsec. (a), reference to section “5372” of title 5 substituted for reference to section “5362” on authority of Pub. L. 95–454, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221, which redesignated sections 5361 through 5365 of title 5 as sections 5371 through 5375.
+In subsec. (a), reference to section "5372" of title 5 substituted for reference to section "5362" on authority of Pub. L. 95–454, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221, which redesignated sections 5361 through 5365 of title 5 as sections 5371 through 5375.
 
-In subsec. (i), “section 7324 of title 5” substituted for “section 9 of the Act of August 2, 1939, as amended (the Hatch Act)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Prior to the enactment of Title 5, section 9 of the Act of August 2, 1939, as amended, was classified to section 118i of Title 5.
+In subsec. (i), "section 7324 of title 5" substituted for "section 9 of the Act of August 2, 1939, as amended (the Hatch Act)" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Prior to the enactment of Title 5, section 9 of the Act of August 2, 1939, as amended, was classified to section 118i of Title 5.
 
 #### Amendments
 
-<b>1995</b>—Subsec. (k)(2)(C). Pub. L. 104–66 substituted “including information, presented in the aggregate, relating to” for “including” in introductory provisions, “the number of persons and entities” for “the identity of each person or entity” in cl. (i), “such persons and entities” for “such person or entity” in cl. (ii), and “fees” for “fee” and “such persons and entities” for “such person or entity” in cl. (iii).
+<b>1995</b>—Subsec. (k)(2)(C). Pub. L. 104–66 substituted "including information, presented in the aggregate, relating to" for "including" in introductory provisions, "the number of persons and entities" for "the identity of each person or entity" in cl. (i), "such persons and entities" for "such person or entity" in cl. (ii), and "fees" for "fee" and "such persons and entities" for "such person or entity" in cl. (iii).
 
 <b>1992</b>—Subsec. (k). Pub. L. 102–411 added subsec. (k).
 
@@ -118,7 +118,7 @@ In subsec. (i), “section 7324 of title 5” substituted for “section 9 of th
 
 Subsec. (j). Pub. L. 102–166, §110(a), added subsec. (j).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing.
+<b>1978</b>—Subsec. (a). Pub. L. 95–251 substituted "administrative law judges" for "hearing examiners" wherever appearing.
 
 <b>1975</b>—Subsec. (e). Pub. L. 93–608 struck out reporting requirement of names, salaries, and duties of all individuals in employ of Commission.
 
@@ -132,7 +132,7 @@ Subsecs. (h) to (j). Pub. L. 92–261, §8(e)(2), (3), struck out subsec. (h) wh
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–166, title I, §110(b), Nov. 21, 1991, 105 Stat. 1078, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 21, 1991\].”
+Pub. L. 102–166, title I, §110(b), Nov. 21, 1991, 105 Stat. 1078, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 21, 1991\]."
 
 Amendment by section 111 of Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise provided, see section 402 of Pub. L. 102–166, set out as a note under section 1981 of this title.
 
@@ -190,7 +190,7 @@ So much of the personnel, property, records and unexpended balances of appropria
 
 This Reorganization Plan shall become effective at such time or times, on or before October 1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5 of the United States Code.
 
-\[Pursuant to Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053, the transfer to the Equal Employment Opportunity Commission of certain functions of the Civil Service Commission relating to enforcement of equal employment opportunity programs as provided by sections 1 to 4 of this Reorg. Plan is effective Jan. 1, 1979.\]
+\[Pursuant to Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053, the transfer to the Equal Employment Opportunity Commission of certain functions of the Civil Service Commission relating to enforcement of equalemployment opportunity programs as provided by sections 1 to 4 of this Reorg. Plan is effective Jan. 1, 1979.\]
 
 \[Pursuant to Ex. Ord. No. 12144, June 22, 1979, 44 F.R. 37193, sections 1 and 2 of this Reorg. Plan are effective July 1, 1979, except for transfer of functions already effective Jan. 1, 1979, under Ex. Ord. No. 12106 above.\]
 
@@ -204,15 +204,15 @@ To the Congress of the United States:
 
 I am submitting to you today Reorganization Plan No. 1 of 1978. This Plan makes the Equal Employment Opportunity Commission the principal Federal agency in fair employment enforcement. Together with actions I shall take by Executive Order, it consolidates Federal equal employment opportunity activities and lays, for the first time, the foundation of a unified, coherent Federal structure to combat job discrimination in all its forms.
 
-In 1940 President Roosevelt issued the first Executive Order forbidding discrimination in employment by the Federal government. Since that time the Congress, thecourts and the Executive Branch—spurred by the courage and sacrifice of many people and organizations—have taken historic steps to extend equal employment opportunity protection throughout the private as well as public sector. But each new prohibition against discrimination unfortunately has brought with it a further dispersal of Federal equal employment opportunity responsibility. This fragmentation of authority among a number of Federal agencies has meant confusion and ineffective enforcement for employees, regulatory duplication and needless expense for employers.
+In 1940 President Roosevelt issued the first Executive Order forbidding discrimination in employment by the Federal government. Since that time the Congress, the courts and the Executive Branch—spurred by the courage and sacrifice of many people and organizations—have taken historic steps to extend equal employment opportunity protection throughout the private as well as public sector. But each new prohibition against discrimination unfortunately has brought with it a further dispersal of Federal equal employment opportunity responsibility. This fragmentation of authority among a number of Federal agencies has meant confusion and ineffective enforcement for employees, regulatory duplication and needless expense for employers.
 
 Fair employment is too vital for haphazard enforcement. My Administration will aggressively enforce our civil rights laws. Although discrimination in any area has severe consequences, limiting economic opportunity affects access to education, housing and health care. I, therefore, ask you to join with me to reorganize administration of the civil rights laws and to begin that effort by reorganizing the enforcement of those laws which ensure an equal opportunity to a job.
 
 Eighteen government units now exercise important responsibilities under statutes, Executive Orders and regulations relating to equal employment opportunity:
 
-<i>The Equal Employment Opportunity Commission (EEOC)</i> enforces Title VII of the Civil Rights Act of 1964, \[section 2000e et seq. of this title\] which bans employment discrimination based on race, national origin, sex or religion. The EEOC acts on individual complaints and also initiates private sector cases involving a “pattern or practice” of discrimination.
+<i>The Equal Employment Opportunity Commission (EEOC)</i> enforces Title VII of the Civil Rights Act of 1964, \[section 2000e et seq. of this title\] which bans employment discrimination based on race, national origin, sex or religion. The EEOC acts on individual complaints and also initiates private sector cases involving a "pattern or practice" of discrimination.
 
-<i>The Department of Labor</i> and 11 other agencies enforce Executive Order 11246 \[set out as a note under section 2000e of this title\]. This prohibits discrimination in employment on the basis of race, national origin, sex, or religion and requires affirmative action by government contractors. While the Department now coordinates enforcement of this “contract compliance” program, it is actually administered by eleven other departments and agencies. The Department also administers those statutes requiring contractors to take affirmative action to employ handicapped people, disabled veterans and Vietnam veterans.
+<i>The Department of Labor</i> and 11 other agencies enforce Executive Order 11246 \[set out as a note under section 2000e of this title\]. This prohibits discrimination in employment on the basis of race, national origin, sex, or religion and requires affirmative action by government contractors. While the Department now coordinates enforcement of this "contract compliance" program, it is actually administered by eleven other departments and agencies. The Department also administers those statutes requiring contractors to take affirmative action to employ handicapped people, disabled veterans and Vietnam veterans.
 
 In addition, the Labor Department enforces the Equal Pay Act of 1963 \[section 206(d) of Title 29, Labor\], which prohibits employers from paying unequal wages based on sex, and the Age Discrimination in Employment Act of 1967 \[section 621 et seq. of Title 29\], which forbids age discrimination against persons between the ages of 40 and 65.
 
@@ -250,9 +250,9 @@ On October 1, 1978, shift enforcement of equal employment opportunity for Federa
 
 On July 1, 1979, shift responsibility for enforcing both the Equal Pay Act and the Age Discrimination in Employment Act from the Labor Department to the EEOC (198 positions and $5.3 million shifted for Equal Pay; 119 positions and $3.5 million for Age Discrimination).
 
-Clarify the Attorney General's authority to initiate “pattern or practice” suits under Title VII in the public sector.
+Clarify the Attorney General's authority to initiate "pattern or practice" suits under Title VII in the public sector.
 
-In addition, I will issue an Executive Order on October 1, 1978, to consolidate the contract compliance program—now the responsibility of Labor and eleven “compliance agencies”—into the Labor Department (1,517 positions and $33.1 million shifted).
+In addition, I will issue an Executive Order on October 1, 1978, to consolidate the contract compliance program—now the responsibility of Labor and eleven "compliance agencies"—into the Labor Department (1,517 positions and $33.1 million shifted).
 
 These proposed transfers and consolidations reduce from fifteen to three the number of Federal agencies having important equal employment opportunity responsibilities under Title VII of the Civil Rights Act of 1964 and Federal contract compliance provisions.
 
@@ -274,7 +274,7 @@ The transfer will strengthen efforts to combat sex discrimination. Such efforts 
 
 There is now virtually complete overlap in the employers, labor organizations, and employment agencies covered by Title VII and by the Age Discrimination in Employment Act. This overlap is burdensome to employers and confusing to victims of discrimination. The proposed transfer of the age discrimination program from the Labor Department to the EEOC will eliminate the duplication.
 
-The Plan I am proposing will not affect the Attorney General's responsibility to enforce Title VII against State or local governments or to represent the Federal government in suits against Federal contractors and grant recipients. In 1972, the Congress determined that the Attorney General should be involved in suits against State and local governments. This proposal reinforces that judgment and clarifies the Attorney General's authority to initiate litigation against State or local governments engaged in a “pattern or practice” of discrimination. This in no way diminishes the EEOC's existing authority to investigate complaints filed against State or local governments and, where appropriate, to refer them to the Attorney General. The Justice Department and the EEOC will cooperate so that the Department sues on valid referrals, as well as on its own “pattern or practice” cases.
+The Plan I am proposing will not affect the Attorney General's responsibility to enforce Title VII against State or local governments or to represent the Federal government in suits against Federal contractors and grant recipients. In 1972, the Congress determined that the Attorney General should be involved in suits against State and local governments. This proposal reinforces that judgment and clarifies the Attorney General's authority to initiate litigation against State or local governments engaged in a "pattern or practice" of discrimination. This in no way diminishes the EEOC's existing authority to investigate complaints filed against State or local governments and, where appropriate, to refer them to the Attorney General. The Justice Department and the EEOC will cooperate so that the Department sues on valid referrals, as well as on its own "pattern or practice" cases.
 
 A critical element of my proposals will be accomplished by Executive Order rather than by the Reorganization Plan. This involves consolidation in the Labor Department of the responsibility to ensure that Federal contractors comply with Executive Order 11246. Consolidation will achieve the following: promote consistent standards, procedures, and reporting requirements; remove contractors from the jurisdiction of multiple agencies; prevent an agency's equal employment objectives from being outweighed by its procurement and construction objectives; and produce more effective law enforcement through unification of planning, training and sanctions. By 1981, after I have had an opportunity to review the manner in which both the EEOC and the Labor Department are exercising their new responsibilities, I will determine whether further action is appropriate.
 
@@ -298,47 +298,47 @@ By the authority vested in me as President of the United States of America by Se
 
 1–101. The transfer to the Equal Employment Opportunity Commission of certain functions of the Civil Service Commission, relating to enforcement of equal employment opportunity programs as provided by Sections 1, 2, 3 and 4 of Reorganization Plan No. 1 of 1978 (43 FR 19807) shall be effective on January 1, 1979.
 
-1–102. Executive Order No. 11478, as amended \[set out as a note under section 2000e of this title\], is further amended by deleting the preamble, by substituting “national origin, handicap, or age” for “or national origin” in the first sentence of Section 1, and revising Sections 3, 4, and 5 to read as follows:
+1–102. Executive Order No. 11478, as amended \[set out as a note under section 2000e of this title\], is further amended by deleting the preamble, by substituting "national origin, handicap, or age" for "or national origin" in the first sentence of Section 1, and revising Sections 3, 4, and 5 to read as follows:
 
-“
+"
 
 Sec. 3. The Equal Employment Opportunity Commission shall be responsible for directing and furthering the implementation of the policy of the Government of the United States to provide equal opportunity in Federal employment for all employees or applicants for employment (except with regard to aliens employed outside the limits of the United States) and to prohibit discrimination in employment because of race, color, religion, sex, national origin, handicap, or age.
 
-“
+"
 
 Sec. 4. The Equal Employment Opportunity Commission, after consultation with all affected departments and agencies, shall issue such rules, regulations, orders, and instructions and request such information from the affected departments and agencies as it deems necessary and appropriate to carry out this Order.
 
-“
+"
 
-Sec. 5. All departments and agencies shall cooperate with and assist the Equal Employment Opportunity Commission in the performance of its functions under this Order and shall furnish the Commission such reports and information as it may request. The head of each department or agency shall comply with rules, regulations, orders and instructions issued by the Equal Employment Opportunity Commission pursuant to Section 4 of this Order.”
+Sec. 5. All departments and agencies shall cooperate with and assist the Equal Employment Opportunity Commission in the performance of its functions under this Order and shall furnish the Commission such reports and information as it may request. The head of each department or agency shall comply with rules, regulations, orders and instructions issued by the Equal Employment Opportunity Commission pursuant to Section 4 of this Order."
 
 1–103. Executive Order No. 11022, as amended \[set out as a note under section 3001 of this title\], is further amended by revising Section 1(b) to read as follows:
 
-“(b) The Council shall be composed of the Secretary of Health, Education, and Welfare \[now Health and Human Services\], who shall be Chairman, the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Labor, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Administrator of Veterans Affairs, the Director of the Office of Personnel Management, the Director of the Community Services Administration, and the Chairman of the Equal Employment Opportunity Commission.”
+"(b) The Council shall be composed of the Secretary of Health, Education, and Welfare \[now Health and Human Services\], who shall be Chairman, the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Labor, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Administrator of Veterans Affairs, the Director of the Office of Personnel Management, the Director of the Community Services Administration, and the Chairman of the Equal Employment Opportunity Commission."
 
-1–104. Executive Order No. 11480 of September 9, 1969 \[set out as a note under section 791 of Title 29, Labor\], is amended by deleting “and the Chairman of the United States Civil Service Commission” in Section 4 and substituting therefor “Director of the Office of Personnel Management, and the Chairman of the Equal Employment Opportunity Commission”.
+1–104. Executive Order No. 11480 of September 9, 1969 \[set out as a note under section 791 of Title 29, Labor\], is amended by deleting "and the Chairman of the United States Civil Service Commission" in Section 4 and substituting therefor "Director of the Office of Personnel Management, and the Chairman of the Equal Employment Opportunity Commission".
 
 1–105. Executive Order No. 11830 of January 9, 1975 \[set out as a note under section 791 of Title 29, Labor\], is amended by deleting Section 2 and revising Section 1 to read as follows:
 
-“In accord with Section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791) and Section 4 of Reorganization Plan No. 1 of 1978 (43 FR 19808) the Interagency Committee on Handicapped Employees is enlarged and composed of the following, or their designees whose positions are Executive level IV or higher:
+"In accord with Section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791) and Section 4 of Reorganization Plan No. 1 of 1978 (43 FR 19808) the Interagency Committee on Handicapped Employees is enlarged and composed of the following, or their designees whose positions are Executive level IV or higher:
 
-“(1) Secretary of Defense.
+"(1) Secretary of Defense.
 
-“(2) Secretary of Labor.
+"(2) Secretary of Labor.
 
-“(3) Secretary of Health, Education, and Welfare \[now Health and Human Services\], Co-Chairman.
+"(3) Secretary of Health, Education, and Welfare \[now Health and Human Services\], Co-Chairman.
 
-“(4) Director of the Office of Personnel Management.
+"(4) Director of the Office of Personnel Management.
 
-“(5) Administrator of Veterans Affairs.
+"(5) Administrator of Veterans Affairs.
 
-“(6) Administrator of General Services.
+"(6) Administrator of General Services.
 
-“(7) Chairman of the Federal Communications Commission.
+"(7) Chairman of the Federal Communications Commission.
 
-“(8) Chairman of the Equal Employment Opportunity Commission, Co-Chairman.
+"(8) Chairman of the Equal Employment Opportunity Commission, Co-Chairman.
 
-“(9) Such other members as the President may designate.”
+"(9) Such other members as the President may designate."
 
 1–106. This Order shall be effective on January 1, 1979.
 

@@ -22,7 +22,7 @@ For purposes of subsection (a), the Administrator of Federal <sup>1</sup> Emerg
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–351 substituted “Administrator” for “Director” in subsecs. (a) and (b).
+<b>2011</b>—Pub. L. 111–351 substituted "Administrator" for "Director" in subsecs. (a) and (b).
 
-<i><sup>1</sup></i><i> So in original. The word “the” probably should appear before “Federal”.</i>
+<i><sup>1</sup></i><i> So in original. The word "the" probably should appear before "Federal".</i>
 

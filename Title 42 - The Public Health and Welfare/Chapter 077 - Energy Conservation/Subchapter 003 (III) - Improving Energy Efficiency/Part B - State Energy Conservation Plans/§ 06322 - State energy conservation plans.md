@@ -84,7 +84,7 @@ Each proposed State energy conservation plan may include—
 
 #### (e) Standby plans
 
-The Governor of any State may submit to the Secretary a State energy conservation plan which is a standby energy conservation plan to significantly reduce energy demand by regulating the public and private consumption of energy during a severe energy supply interruption, which plan may be separately eligible for Federal assistance under this part without regard to subsections (c) and (d) of this section.
+The Governor of any State may submit to the Secretary a State energy conservation planwhich is a standby energy conservation plan to significantly reduce energy demand by regulating the public and private consumption of energy during a severe energy supply interruption, which plan may be separately eligible for Federal assistance under this part without regard to subsections (c) and (d) of this section.
 
 #### (f) Energy Technology Commercialization Services Program
 
@@ -112,15 +112,15 @@ The Governor of any State may submit to the Secretary a State energy conservatio
 
 (3) Each State energy technology commercialization services program shall develop and maintain a data base of engineering and scientific experts in energy technologies and product commercialization interested in participating in the service. Such data base shall, at a minimum, include faculty of institutions of higher education, retired manufacturing experts, and national laboratory personnel.
 
-(4) The services provided by the energy technology commercialization services programs established under this subsection shall be available to any small or start-up business. Such service programs shall charge fees which are affordable to a party eligible for assistance, whichshall be determined by examining factors, including the following: (A) the costs of the services received; (B) the need of the recipient for the services; and (C) the ability of the recipient to pay for the services.
+(4) The services provided by the energy technology commercialization services programs established under this subsection shall be available to any small or start-up business. Such service programs shall charge fees which are affordable to a party eligible for assistance, which shall be determined by examining factors, including the following: (A) the costs of the services received; (B) the need of the recipient for the services; and (C) the ability of the recipient to pay for the services.
 
 (5) For the purposes of this subsection, the term—
 
-&emsp;(A) “institution of higher education” has the same meaning as such term is defined in section 1001 of title 20;
+&emsp;(A) "institution of higher education" has the same meaning as such term is defined in section 1001 of title 20;
 
-&emsp;(B) “small business” means a private firm that does not exceed the numerical size standard promulgated by the Small Business Administration under section 632(a) of title 15 for the Standard Industrial Classification (SIC) codes designated by the Secretary of Energy; and
+&emsp;(B) "small business" means a private firm that does not exceed the numerical size standard promulgated by the Small Business Administration under section 632(a) of title 15 for the Standard Industrial Classification (SIC) codes designated by the Secretary of Energy; and
 
-&emsp;(C) “start-up business” means a small business which has been in existence for 5 years or less.
+&emsp;(C) "start-up business" means a small business which has been in existence for 5 years or less.
 
 #### (g) Review of plans
 
@@ -132,25 +132,25 @@ The Secretary shall, at least once every 3 years, invite the Governor of each St
 
 <b>2005</b>—Subsec. (g). Pub. L. 109–58 added subsec. (g).
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–388, §5(a)(8)(A), inserted “of” after “of the implementation”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–388, §5(a)(8)(A), inserted "of" after "of the implementation".
 
-Subsec. (d)(12). Pub. L. 105–388, §5(a)(8)(B), substituted “subsection (f)(2)” for “subsection (g)”.
+Subsec. (d)(12). Pub. L. 105–388, §5(a)(8)(B), substituted "subsection (f)(2)" for "subsection (g)".
 
-Subsec. (f)(5)(A). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+Subsec. (f)(5)(A). Pub. L. 105–244 substituted "section 1001" for "section 1141(a)".
 
-<b>1992</b>—Subsec. (c)(5). Pub. L. 102–486, §141(c)(1), substituted “and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and” for “; and”.
+<b>1992</b>—Subsec. (c)(5). Pub. L. 102–486, §141(c)(1), substituted "and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and" for "; and".
 
 Subsec. (d)(13) to (17). Pub. L. 102–486, §141(b), added pars. (13) to (16) and redesignated former par. (13) as (17).
 
 <b>1990</b>—Subsec. (c)(6). Pub. L. 101–440, §3(a), added par. (6).
 
-Subsec. (d)(3). Pub. L. 101–440, §4(a)(1), added par. (3) and struck out former par. (3) which read as follows: “transportation controls;”.
+Subsec. (d)(3). Pub. L. 101–440, §4(a)(1), added par. (3) and struck out former par. (3) which read as follows: "transportation controls;".
 
-Subsec. (d)(5) to (13). Pub. L. 101–440, §4(a)(3), added pars. (5) to (13) and struck out former par. (5) which read as follows: “any other appropriate method or programs to conserve and to improve efficiency in the use of energy.”
+Subsec. (d)(5) to (13). Pub. L. 101–440, §4(a)(3), added pars. (5) to (13) and struck out former par. (5) which read as follows: "any other appropriate method or programs to conserve and to improve efficiency in the use of energy."
 
 Subsec. (f). Pub. L. 101–440, §4(b), added subsec. (f).
 
-<b>1978</b>—Subsecs. (a), (b), (e). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsecs. (a), (b), (e). Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Effective Date of 1998 Amendment
 
@@ -158,17 +158,17 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title I, §141(c)(2), Oct. 24, 1992, 106 Stat. 2841, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect January 1, 1995.”
+Pub. L. 102–486, title I, §141(c)(2), Oct. 24, 1992, 106 Stat. 2841, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect January 1, 1995."
 
 #### Study Regarding Impact of Permitting Right and Left Turns on Red Lights
 
 Pub. L. 102–486, title I, §141(d), Oct. 24, 1992, 106 Stat. 2841, provided that:
 
-“(1)
+"(1)
 
 In General.—The Administrator of the National Highway Traffic Safety Administration, in consultation with State agencies with jurisdiction over traffic safety issues, shall conduct a study on the safety impact of the requirement specified in section 362(c)(5) of the Energy Policy and Conservation Act (42 U.S.C. 6322(c)(5)), particularly with respect to the impact on pedestrian safety.
 
-“(2)
+"(2)
 
-Report.—The Administrator shall report the findings of the study conducted under paragraph (1) to the Congress and the Secretary not later than 2 years after the date of the enactment of this Act \[Oct. 24, 1992\].”
+Report.—The Administrator shall report the findings of the study conducted under paragraph (1) to the Congress and the Secretary not later than 2 years after the date of the enactment of this Act \[Oct. 24, 1992\]."
 

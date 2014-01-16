@@ -56,7 +56,7 @@ The Council shall be composed of 16 members as follows:
 
 &emsp;&emsp;(B) Two individuals who are eminent in the semiconductor equipment and materials industry.
 
-&emsp;&emsp;(C) Three individuals who are eminent in the semiconductor user industry, including representatives from the telecommunications and computer industries.
+&emsp;&emsp;(C) Three individuals who are eminent in the semiconductor user industry, includingrepresentatives from the telecommunications and computer industries.
 
 &emsp;&emsp;(D) One individual who is eminent in an academic institution.
 
@@ -98,39 +98,39 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is
 
 #### Amendments
 
-<b>1999</b>—Subsec. (c)(1). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>1999</b>—Subsec. (c)(1). Pub. L. 106–65 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
-<b>1994</b>—Subsec. (b)(2)(I). Pub. L. 103–337 inserted “and submit to Congress by March 31 of each year” after “Publish”.
+<b>1994</b>—Subsec. (b)(2)(I). Pub. L. 103–337 inserted "and submit to Congress by March 31 of each year" after "Publish".
 
-<b>1993</b>—Pub. L. 103–160, §263(b), substituted “Semiconductor Technology Council” for “Advisory Council” in section catchline.
+<b>1993</b>—Pub. L. 103–160, §263(b), substituted "Semiconductor Technology Council" for "Advisory Council" in section catchline.
 
-Subsec. (a). Pub. L. 103–160, §263(b), added subsec. (a) and struck out former subsec. (a) which read as follows: “There is established the Advisory Council on Federal Participation in Sematech.”
+Subsec. (a). Pub. L. 103–160, §263(b), added subsec. (a) and struck out former subsec. (a) which read as follows: "There is established the Advisory Council on Federal Participation in Sematech."
 
 Subsec. (b). Pub. L. 103–160, §263(b), added subsec. (b) and struck out former subsec. (b) which related to the functions of the Advisory Council of Federal Participation in Sematech.
 
 Subsec. (c). Pub. L. 103–160, §263(b), added subsec. (c) and struck out former subsec. (c) which related to the membership of the Advisory Council on Federal Participation in Sematech.
 
-Subsec. (d). Pub. L. 103–160, §263(c)(3)(A), substituted “subsection (c)(7)” for “subsection (c)(6)” and “five shall be appointed for a term of two years” for “two shall be appointed for a term of two years”.
+Subsec. (d). Pub. L. 103–160, §263(c)(3)(A), substituted "subsection (c)(7)" for "subsection (c)(6)" and "five shall be appointed for a term of two years" for "two shall be appointed for a term of two years".
 
-Subsec. (e). Pub. L. 103–160, §263(c)(3)(B), substituted “subsection (c)(7)” for “subsection (c)(6)”.
+Subsec. (e). Pub. L. 103–160, §263(c)(3)(B), substituted "subsection (c)(7)" for "subsection (c)(6)".
 
-Subsec. (f). Pub. L. 103–160, §263(c)(3)(C), substituted “Eleven members” for “Seven members”.
+Subsec. (f). Pub. L. 103–160, §263(c)(3)(C), substituted "Eleven members" for "Seven members".
 
-Subsec. (g). Pub. L. 103–160, §263(d), substituted “a Cochairman” for “the Chairman or a majority of its members”.
+Subsec. (g). Pub. L. 103–160, §263(d), substituted "a Cochairman" for "the Chairman or a majority of its members".
 
 Subsec. (j). Pub. L. 103–160, §263(e), added subsec. (j).
 
-<b>1992</b>—Subsec. (c)(4). Pub. L. 102–245 substituted “Technology” for “Economic Affairs”.
+<b>1992</b>—Subsec. (c)(4). Pub. L. 102–245 substituted "Technology" for "Economic Affairs".
 
 #### Termination of Advisory Council on Federal Participation in Sematech
 
-Pub. L. 103–160, div. A, title II, §263(a), Nov. 30, 1993, 107 Stat. 1608, provided that: “The advisory council known as the Advisory Council on Federal Participation in Sematech, established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 (15 U.S.C. 4603), is hereby terminated.”
+Pub. L. 103–160, div. A, title II, §263(a), Nov. 30, 1993, 107 Stat. 1608, provided that: "The advisory council known as the Advisory Council on Federal Participation in Sematech, established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 (15 U.S.C. 4603), is hereby terminated."
 
 #### First Meeting of Semiconductor Technology Council
 
-Pub. L. 103–160, div. A, title II, §263(f), Nov. 30, 1993, 107 Stat. 1610, provided that: “The first meeting of the Semiconductor Technology Council shall be held not later than 45 days after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title II, §263(f), Nov. 30, 1993, 107 Stat. 1610, provided that: "The first meeting of the Semiconductor Technology Council shall be held not later than 45 days after the date of the enactment of this Act \[Nov. 30, 1993\]."
 
 #### References to Terminated Council
 
-Pub. L. 103–160, div. A, title II, §263(g), Nov. 30, 1993, 107 Stat. 1610, provided that: “A reference in any provision of law to the Advisory Council on Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[15 U.S.C. 4603\], as amended by subsection (b).”
+Pub. L. 103–160, div. A, title II, §263(g), Nov. 30, 1993, 107 Stat. 1610, provided that: "A reference in any provision of law to the Advisory Council on Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[15 U.S.C. 4603\], as amended by subsection (b)."
 

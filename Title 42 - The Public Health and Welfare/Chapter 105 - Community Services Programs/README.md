@@ -5,7 +5,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [9801\.](Subchapter%20001%20%28I%29%20-%20Community%20Economic%20Development/%C2%A7%2009801%20-%20Statement%20of%20purpose.md) | Statement of purpose. |
-| [9802\.](Subchapter%20001%20%28I%29%20-%20Community%20Economic%20Development/%C2%A7%2009802%20-%20%E2%80%9CCommunity%20development%20corporation%E2%80%9D%20defined.md) | “Community development corporation” defined. |
+| [9802\.](Subchapter%20001%20%28I%29%20-%20Community%20Economic%20Development/%C2%A7%2009802%20-%20Community%20development%20corporation%20defined.md) | "Community development corporation" defined. |
 | [9803\.](Subchapter%20001%20%28I%29%20-%20Community%20Economic%20Development/%C2%A7%2009803%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93285%2C%20title%20II%2C%20%C2%A7202%28b%29%281%29%2C%20Oct.%2027%2C%201998%2C%20112%20Stat.%202755.md) | Repealed. |
 | [9804\.](Subchapter%20001%20%28I%29%20-%20Community%20Economic%20Development/%C2%A7%2009804%20-%20Advisory%20Community%20Investment%20Board.md) | Advisory Community Investment Board. |
 

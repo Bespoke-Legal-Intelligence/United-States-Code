@@ -6,5 +6,5 @@ It is unlawful for any person to engage in, finance, or otherwise knowingly prov
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–227 substituted “It” for “Pending a new agreement among the Antarctic Treaty Consultative Parties in force for the United States, to which the Senate has given advice and consent or which is authorized by further legislation by the Congress, which provides an indefinite ban on Antarctic mineral resource activities, it”.
+<b>1996</b>—Pub. L. 104–227 substituted "It" for "Pending a new agreement among the Antarctic Treaty Consultative Parties in force for the United States, to which the Senate has given advice and consent or which is authorized by further legislation by the Congress, which provides an indefinite ban on Antarctic mineral resource activities, it".
 

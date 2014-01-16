@@ -22,11 +22,11 @@
 
 &emsp;(2) Effective from its commencing date, an annuity payable from the Fund to an annuitant's survivor (except a child entitled under section 8341(e) of this title), which annuity commences the day after the death of the annuitant and after the effective date of the first increase under this section, shall be increased by the total percent increase the annuitant was receiving under this section at death. However, the increase in a survivor annuity authorized by section 8 of the Act of May 29, 1930, as amended to July 6, 1950, shall be computed as if the annuity commencing date had been the effective date of the first increase under this section.
 
-&emsp;(3) For the purpose of computing the annuity of a child under section 8341(e) of this title that commences after October 31, 1969, the items $900, $1,080, $2,700, and $3,240 appearing in section 8341(e) of this title shall be increased by the total percent increases allowed and in force under this section on or after such day and, in case of a deceased annuitant, the items 60 percent and 75 percent appearing in section 8341(e) of this title shall be increased by the total percent allowed and in force to the annuitant under this section on or after such day.
+&emsp;(3) For the purpose of computing the annuity of a child under section 8341(e) of this title that commences after October 31, 1969, the items $900, $1,080, $2,700, and $3,240 appearing in section 8341(e) of this title shall be increased by the total percent increases allowed and in force under this section on or after such day and, in case of a deceased annuitant, the items 60 percent and 75 percent appearing insection 8341(e) of this title shall be increased by the total percent allowed and in force to the annuitant under this section on or after such day.
 
 (d) This section does not authorize an increase in an additional annuity purchased at retirement by voluntary contributions.
 
-(e) The monthly installment of annuity after adjustment under this section shall be rounded to the next lowest dollar. However, the monthlyinstallment shall after adjustment reflect an increase of at least $1.
+(e) The monthly installment of annuity after adjustment under this section shall be rounded to the next lowest dollar. However, the monthly installment shall after adjustment reflect an increase of at least $1.
 
 (f) Effective September 1, 1966, or on the commencing date of annuity, whichever is later, the annuity of each surviving spouse whose entitlement to annuity payable from the Fund resulted from the death of—
 
@@ -122,9 +122,11 @@ In subsection (f), the words “September 1, 1966,” are substituted for “the
 
 Section 8 of the Act of May 29, 1930, as amended to July 6, 1950, referred to in subsec. (c)(2), is the predecessor of section 8338 of this title.
 
+The General Schedule, referred to in subsec. (g)(1)(B), is set out under section 5332 of this title.
+
 #### Amendments
 
-<b>1986</b>—Subsec. (c)(1). Pub. L. 99–251 substituted “, widower, or former spouse,” for first reference to “or widower”, and “, widower, former spouse, or insurable interest designee” for second and third references to “or widower”.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–251 substituted “, widower, or former spouse,” for first reference to “orwidower”, and “, widower, former spouse, or insurable interest designee” for second and third references to “or widower”.
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–270 substituted provisions defining term “base quarter” as meaning the calendar quarter ending Sept. 30 of a year and providing that the price index for a base quarter is the arithmetical mean of such index for the three months comprising such quarter for former provisions which had directed that, effective Dec. 1, 1965, each annuity payable from the Fund having a commencing date before Dec. 2, 1965, was increased by (1) the percent rise in the price index, adjusted to the nearest 1/10 of 1 percent, determined by the Office of Personnel Management on the basis of the annual average price index for calendar year 1962 and the price index for the base month of July 1965; plus (2) 6½ percent if the commencing date (or in the case of the survivor of a deceased annuitant the commencing date of the annuity of the retired employee) occurred before Oct. 2, 1956, or 1½ percent if the commencing date (or in the case of the survivor of a deceased annuitant the commencing date of the annuity of the retired employee) occurred after Oct. 1, 1956, that each annuity payable from the Fund (other than the immediate annuity of an annuitant's survivor or of a child entitled under section 8341(e) of this title) having a commencing date after Dec. 1, 1965, but before Jan. 1, 1966, was increased from its commencing date as if the annuity commencing date were Dec. 1, 1965, and that each survivor annuity authorized by (A) section 8 of the Act of May 29, 1930, as amended to July 6, 1950, or (B) section 2 of the Act of June 25, 1958 (72 Stat. 219), was increased by any additional amount required to make the total increase under this subsection equal to the smaller of 15 percent or $10 a month.
 
@@ -174,7 +176,7 @@ Section 201(b) of Pub. L. 98–270 provided that:
 
 Section 304(c) of Pub. L. 97–253 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 8345 of this title\] shall apply with respect to any annuity commencing on or after October 1, 1982, and with respect to any adjustment or redetermination of any annuity made on or after such date”.
 
-Section 309(b) of Pub. L. 97–253 provided that: “The amendment made by subsection (a) of this section\[amending this section\] shall not cause any annuity to be reduced below the rate that is payable on the date of the enactment of this Act \[Sept. 8, 1982\], but shall apply to any adjustment occurring on or after such date of enactment under section 8340 of title 5, United States Code, to any annuity payable from the Civil Service Retirement and Disability Fund, whether such annuity has a commencing date before, on, or after the date of enactment of this Act.”
+Section 309(b) of Pub. L. 97–253 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall not cause any annuity to be reduced below the rate that is payable on the date of the enactment of this Act \[Sept. 8, 1982\], but shall apply to any adjustment occurring on or after such date of enactment under section 8340 of title 5, United States Code, to any annuity payable from the Civil Service Retirement and Disability Fund, whether such annuity has a commencing date before, on, or after the date of enactment of this Act.”
 
 #### Effective Date of 1981 Amendment
 
@@ -234,7 +236,7 @@ Section 2201(a) of Pub. L. 98–369 provided that: “Notwithstanding any other 
 
 #### Cost-of-Living Adjustments During Fiscal Years 1983, 1984, and 1985
 
-Section 301(a)–(c) of Pub. L. 97–253, as amended by Pub. L. 98–270, title I, §201(c), Apr. 18, 1984, 98 Stat. 158; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403, provided that:
+Pub. L. 97–253, title III, §301(a)–(c), Sept. 8, 1982, 96 Stat. 790, 791, as amended by Pub. L. 98–270, title I, §201(c), Apr. 18, 1984, 98 Stat. 158; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403, provided that:
 
 “(a)(1) Except as provided in paragraph (3), the cost-of-living increase under any Government retirement system in annuity or retired or retainer pay of any early retiree taking effect in each of fiscal years 1983, 1984, and 1985, shall be equal to one-half of the assumed increase in the price index for that year.
 
@@ -276,7 +278,7 @@ Section 301(a)–(c) of Pub. L. 97–253, as amended by Pub. L. 98–270, title 
 
 &emsp;“(2) section 826 of the Foreign Service Act of 1980 \[22 U.S.C. 4066\];
 
-&emsp;“(3) the Central Intelligence Agency Act of 1964 for Certain Employees (50 U.S.C. 403 note);
+&emsp;“(3) the Central Intelligence Agency Act of 1964 for Certain Employees (\[former\] 50 U.S.C. 403 note);
 
 &emsp;“(4) section 1401a(b) of title 10, United States Code; or
 

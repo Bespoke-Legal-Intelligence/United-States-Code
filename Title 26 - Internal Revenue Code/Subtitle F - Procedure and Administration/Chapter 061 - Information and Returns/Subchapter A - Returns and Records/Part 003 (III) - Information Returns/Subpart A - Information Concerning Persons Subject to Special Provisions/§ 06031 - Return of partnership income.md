@@ -18,7 +18,7 @@ Any person who holds an interest in a partnership as a nominee for another perso
 
 #### (d) Separate statement of items of unrelated business taxable income
 
-In the case of any partnership regularly carrying on a trade or business (within the meaning of section 512(c)(1)), the information required under subsection (b) to be furnished to its partners shall include such information as is necessary to enable each partner to compute its distributive share of partnership income or loss from such trade or business in accordance with section 512(a)(1), but without regard to the modifications described in paragraphs (8) through (15) of section 512(b).
+In the case of any partnership regularly carrying on a trade or business (within the meaning of section 512(c)(1)), the information required under subsection (b) to be furnished to its partners shall include such information as is necessary to enable each partner to compute its distributive share of partnership income or loss from such trade or business in accordance withsection 512(a)(1), but without regard to the modifications described in paragraphs (8) through (15) of section 512(b).
 
 #### (e) Foreign partnerships
 
@@ -46,15 +46,15 @@ In the case of any electing investment partnership (as defined in section 743(e)
 
 <b>2004</b>—Subsec. (f). Pub. L. 108–357 added subsec. (f).
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–34, §1223(a), inserted at end “In the case of an electing large partnership (as defined in section 775), such information shall be furnished on or before the first March 15 following the close of such taxable year.”
+<b>1997</b>—Subsec. (b). Pub. L. 105–34, §1223(a), inserted at end "In the case of an electing large partnership (as defined in section 775), such information shall be furnished on or before the first March 15 following the close of such taxable year."
 
 Subsec. (e). Pub. L. 105–34, §1141(a), added subsec. (e).
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–647 added subsec. (d).
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1501(c)(16), substituted “was required to be filed” for “was filed” and “required to be shown on such return” for “shown on such return”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1501(c)(16), substituted "was required to be filed" for "was filed" and "required to be shown on such return" for "shown on such return".
 
-Pub. L. 99–514, §1811(b)(1)(A)(i), inserted “or who holds an interest in such partnership as a nominee for another person” after “who is a partner”.
+Pub. L. 99–514, §1811(b)(1)(A)(i), inserted "or who holds an interest in such partnership as a nominee for another person" after "who is a partner".
 
 Subsec. (c). Pub. L. 99–514, §1811(b)(1)(A)(ii), added subsec. (c).
 
@@ -62,27 +62,27 @@ Subsec. (c). Pub. L. 99–514, §1811(b)(1)(A)(ii), added subsec. (c).
 
 Subsec. (b). Pub. L. 97–248, §403(a), added subsec. (b).
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to transfers after Oct. 22, 2004, with transition rule in the case of an electing investment partnership which is in existenceon June 4, 2004, see section 833(d)(2) of Pub. L. 108–357, set out as a note under section 743 of this title.
+Amendment by Pub. L. 108–357 applicable to transfers after Oct. 22, 2004, with transition rule in the case of an electing investment partnership which is in existence on June 4, 2004, see section 833(d)(2) of Pub. L. 108–357, set out as a note under section 743 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XI, §1141(c), Aug. 5, 1997, 111 Stat. 981, provided that: “The amendments made by this section \[amending this section and section 6231 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XI, §1141(c), Aug. 5, 1997, 111 Stat. 981, provided that: "The amendments made by this section \[amending this section and section 6231 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 Amendment by section 1223(a) of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title V, §5074(b), Nov. 10, 1988, 102 Stat. 3682, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1988.”
+Pub. L. 100–647, title V, §5074(b), Nov. 10, 1988, 102 Stat. 3682, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1988."
 
 #### Effective Date of 1986 Amendment
 
 Amendment by section 1501(c)(16) of Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
-Pub. L. 99–514, title XVIII, §1811(b)(1)(B), Oct. 22, 1986, 100 Stat. 2832, provided that: “The amendments made by this subsection \[amending this section and section 6050K of this title\] shall apply to partnership taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVIII, §1811(b)(1)(B), Oct. 22, 1986, 100 Stat. 2832, provided that: "The amendments made by this subsection \[amending this section and section 6050K of this title\] shall apply to partnership taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 #### Effective Date of 1982 Amendment
 
@@ -94,7 +94,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Returns Required From All Partnerships With United States Partners
 
-Pub. L. 97–248, title IV, §404, Sept. 3, 1982, 96 Stat. 669, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except as hereafter provided in regulations prescribed by the Secretary of the Treasury or his delegate, nothing in section 6031 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be treated as excluding any partnership from the filing requirements of such section for any taxable year if the income tax liability under subtitle A of such Code of any United States person is determined in whole or in part by taking into account (directly or indirectly) partnership items of such partnership for such taxable year.”
+Pub. L. 97–248, title IV, §404, Sept. 3, 1982, 96 Stat. 669, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except as hereafter provided in regulations prescribed by the Secretary of the Treasury or his delegate, nothing in section 6031 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be treated as excluding any partnership from the filing requirements of such section for any taxable year if the income tax liability under subtitle A of such Code of any United States person is determined in whole or in part by taking into account (directly or indirectly) partnership items of such partnership for such taxable year."
 
 #### Special Rule for Certain International Satellite Partnerships
 

@@ -6,7 +6,7 @@ Smoking Prohibition in Interstate and Intrastate Air Transportation.—An indivi
 
 &emsp;(1) in an aircraft in scheduled passenger interstate or intrastate air transportation; or
 
-&emsp;(2) in an aircraft in nonscheduled passenger interstate or intrastate air transportation, if a flight attendant is a required crewmember onthe aircraft (as determined by the Administrator of the Federal Aviation Administration).
+&emsp;(2) in an aircraft in nonscheduled passenger interstate or intrastate air transportation, if a flight attendant is a required crewmember on the aircraft (as determined by the Administrator of the Federal Aviation Administration).
 
 (b)
 
@@ -22,7 +22,7 @@ Limitation on Applicability.—
 
 &emsp;(1)
 
-In general.—If a foreign government objects to the application of subsection (b) on the basis that subsection (b) provides for an extraterritorial application of the laws of the United States, the Secretary shall waive the application of subsection (b) to a foreign air carrier licensed by that foreign government at such time as an alternative prohibition negotiated under paragraph (2) becomes effective and is enforced by the Secretary.
+In general.—If a foreign government objects to the application of subsection (b) on the basis that subsection (b) provides for anextraterritorial application of the laws of the United States, the Secretary shall waive the application of subsection (b) to a foreign air carrier licensed by that foreign government at such time as an alternative prohibition negotiated under paragraph (2) becomes effective and is enforced by the Secretary.
 
 &emsp;(2)
 
@@ -56,43 +56,43 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §404(d)(1); added Dec. 22, 1987,
 
 Nov. 21, 1989, Pub. L. 101–164, §335 (related to effective date), 103 Stat. 1099.
 
-In subsection (a), before clause (1), the words “On and after the date of expiration of the 4-month period following December 22, 1987” are omitted as executed. The words “of an aircraft” are added for clarity. The text of 49 App.:1374 (note) is omitted as executed.
+In subsection (a), before clause (1), the words "On and after the date of expiration of the 4-month period following December 22, 1987" are omitted as executed. The words "of an aircraft" are added for clarity. The text of 49 App.:1374 (note) is omitted as executed.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–95, §401(a)(1), substituted “passenger” for “scheduled” in section catchline.
+<b>2012</b>—Pub. L. 112–95, §401(a)(1), substituted "passenger" for "scheduled" in section catchline.
 
 Subsecs. (a), (b). Pub. L. 112–95, §401(a)(2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
-“(a)
+"(a)
 
 Smoking Prohibition in Intrastate and Interstate Air Transportation.—An individual may not smoke in an aircraft in scheduled passenger interstate air transportation or scheduled passenger intrastate air transportation.
 
-“(b)
+"(b)
 
-Smoking Prohibition in Foreign Air Transportation.—The Secretary of Transportation shall require all air carriers and foreign air carriers to prohibit smoking in any aircraft in scheduled passenger foreign air transportation.”
+Smoking Prohibition in Foreign Air Transportation.—The Secretary of Transportation shall require all air carriers and foreign air carriers to prohibit smoking in any aircraft in scheduled passenger foreign air transportation."
 
 <b>2000</b>—Pub. L. 106–181 amended section catchline and text generally. Prior to amendment, text read as follows:
 
-“(a)
+"(a)
 
 General.—An individual may not smoke in the passenger cabin or lavatory of an aircraft on a scheduled airline flight segment in air transportation or intrastate air transportation that is—
 
-&emsp;“(1) between places in a State of the United States, the District of Columbia, Puerto Rico, or the Virgin Islands;
+&emsp;"(1) between places in a State of the United States, the District of Columbia, Puerto Rico, or the Virgin Islands;
 
-&emsp;“(2) between a place in any jurisdiction referred to in clause (1) of this subsection (except Alaska and Hawaii) and a place in any other of those jurisdictions; or
+&emsp;"(2) between a place in any jurisdiction referred to in clause (1) of this subsection (except Alaska and Hawaii) and a place in any other of those jurisdictions; or
 
-&emsp;“(3)(A) scheduled for not more than 6 hours’ duration; and
+&emsp;"(3)(A) scheduled for not more than 6 hours' duration; and
 
-&emsp;“(B)(i) between a place referred to in clause (1) of this subsection (except Alaska and Hawaii) and Alaska or Hawaii; or
+&emsp;"(B)(i) between a place referred to in clause (1) of this subsection (except Alaska and Hawaii) and Alaska or Hawaii; or
 
-&emsp;“(ii) between Alaska and Hawaii.
+&emsp;"(ii) between Alaska and Hawaii.
 
-“(b)
+"(b)
 
-Regulations.—The Secretary of Transportation shall prescribe regulations necessary to carry out this section.”
+Regulations.—The Secretary of Transportation shall prescribe regulations necessary to carry out this section."
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–181, title VII, §708(b), Apr. 5, 2000, 114 Stat. 159, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Apr. 5, 2000\].”
+Pub. L. 106–181, title VII, §708(b), Apr. 5, 2000, 114 Stat. 159, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Apr. 5, 2000\]."
 

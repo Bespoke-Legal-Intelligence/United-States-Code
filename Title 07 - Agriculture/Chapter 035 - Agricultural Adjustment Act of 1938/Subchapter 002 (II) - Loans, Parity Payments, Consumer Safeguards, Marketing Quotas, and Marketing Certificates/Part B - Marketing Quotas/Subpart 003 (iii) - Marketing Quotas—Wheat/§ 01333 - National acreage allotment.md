@@ -2,7 +2,7 @@
 
 The Secretary shall proclaim a national acreage allotment for each crop of wheat. The amount of the national acreage allotment for any crop of wheat shall be the number of acres which the Secretary determines on the basis of the projected national yield and expected underplantings (acreage other than that not harvested because of program incentives) of farm acreage allotments will produce an amount of wheat equal to the national marketing quota for wheat for the marketing year for such crop, or if a national marketing quota was not proclaimed, the quota which would have been determined if one had been proclaimed.
 
-(Feb. 16, 1938, ch. 30, title III, §333, 52 Stat. 53; June 20, 1938, ch. 518, 52 Stat. 775; July 26, 1939,ch. 377, 53 Stat. 1125; July 3, 1948, ch. 827, title II, §207(b), 62 Stat. 1257; Pub. L. 87–703, title III, §312, Sept. 27, 1962, 76 Stat. 620; Pub. L. 89–321, title V, §501(2), Nov. 3, 1965, 79 Stat. 1199; Pub. L. 99–198, title III, §303, Dec. 23, 1985, 99 Stat. 1379.)
+(Feb. 16, 1938, ch. 30, title III, §333, 52 Stat. 53; June 20, 1938, ch. 518, 52 Stat. 775; July 26, 1939, ch. 377, 53 Stat. 1125; July 3, 1948, ch. 827, title II, §207(b), 62 Stat. 1257; Pub. L. 87–703, title III, §312, Sept. 27, 1962, 76 Stat. 620; Pub. L. 89–321, title V, §501(2), Nov. 3, 1965, 79 Stat. 1199; Pub. L. 99–198, title III, §303, Dec. 23, 1985, 99 Stat. 1379.)
 
 #### Amendments
 
@@ -36,7 +36,7 @@ Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act Ju
 
 #### Inapplicability of Section
 
-Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicableto milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 

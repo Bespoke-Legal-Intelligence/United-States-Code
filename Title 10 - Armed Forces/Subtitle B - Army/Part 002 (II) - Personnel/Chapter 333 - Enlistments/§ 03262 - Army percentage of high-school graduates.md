@@ -16,5 +16,5 @@ A prior section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 180; Sept. 2, 1958, Pub
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–370 substituted “Notwithstanding section 520(b) of this title, of” for “Of”.
+<b>1988</b>—Pub. L. 100–370 substituted "Notwithstanding section 520(b) of this title, of" for "Of".
 

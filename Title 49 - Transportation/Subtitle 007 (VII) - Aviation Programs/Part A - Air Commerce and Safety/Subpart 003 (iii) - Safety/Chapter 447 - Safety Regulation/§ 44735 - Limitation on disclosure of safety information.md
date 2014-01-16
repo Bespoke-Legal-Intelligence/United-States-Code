@@ -28,7 +28,7 @@ In general.—The limitation established by subsection (a) shall not apply to a 
 
 &emsp;(2)
 
-De-identified defined.—In this subsection, the term “de-identified” means the process by which all information that is likely to establish the identity of the specific persons or entities submitting reports, data, or other information is removed from the reports, data, or other information.
+De-identified defined.—In this subsection, the term "de-identified" means the process by which all information that is likely to establish the identity of the specific persons or entities submitting reports, data, or other information is removed from the reports, data, or other information.
 
 (Added Pub. L. 112–95, title III, §310(a), Feb. 14, 2012, 126 Stat. 64.)
 

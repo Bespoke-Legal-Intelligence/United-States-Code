@@ -38,7 +38,7 @@ It shall be unlawful for any person—
 
 &emsp;(15) to distribute a scheduled listed chemical product to a regulated seller, or to a regulated person referred to in section 830(b)(3)(B) of this title, unless such regulated seller or regulated person is, at the time of such distribution, currently registered with the Drug Enforcement Administration, or on the list of persons referred to under section 830(e)(1)(B)(v) of this title.
 
-> As used in paragraph (11), the term “laboratory supply” means a listed chemical or any chemical, substance, or item on a special surveillance list published by the Attorney General, which contains chemicals, products, materials, or equipment used in the manufacture of controlled substances and listed chemicals. For purposes of paragraph (11), there is a rebuttable presumption of reckless disregard at trial if the Attorney General notifies a firm in writing that a laboratory supply sold by the firm, or any other person or firm, has been used by a customer of the notified firm, or distributed further by that customer, for the unlawful production of controlled substances or listed chemicals a firm distributes and 2 weeks or more after the notification the notified firm distributes a laboratory supply to the customer. For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under section 830(e)(1)(B)(v) of this title, the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under section 830(e)(1)(B)(v) of this title.
+> As used in paragraph (11), the term "laboratory supply" means a listed chemical or any chemical, substance, or item on a special surveillance list published by the Attorney General, which contains chemicals, products, materials, or equipment used in the manufacture of controlled substances and listed chemicals. For purposes of paragraph (11), there is a rebuttable presumption of reckless disregard at trial if the Attorney General notifies a firm in writing that a laboratory supply sold by the firm, or any other person or firm, has been used by a customer of the notified firm, or distributed further by that customer, for the unlawful production of controlled substances or listed chemicals a firm distributes and 2 weeks or more after the notification the notified firm distributes a laboratory supply to the customer. For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under section 830(e)(1)(B)(v) of this title, the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under section 830(e)(1)(B)(v) of this title.
 
 #### (b) Manufacture
 
@@ -66,7 +66,7 @@ It shall be unlawful for any person who is a registrant to manufacture a control
 
 (B) An order under subparagraph (A) may be imposed only through the same procedures as apply under section 824(c) of this title for an order to show cause.
 
-(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L.104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103; Pub. L. 105–277, div. A, §101(b) \[title I, §117\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68; Pub. L. 107–273, div. B, title IV, §4002(b)(16), (d)(2)(B), Nov. 2, 2002, 116 Stat. 1808, 1809; Pub. L. 109–177, title VII, §§711(f)(1)(A), (2), 714, Mar. 9, 2006, 120 Stat. 262–264; Pub. L. 111–268, §§4, 5, Oct. 12, 2010, 124 Stat. 2847, 2848.)
+(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103; Pub. L. 105–277, div. A, §101(b) \[title I, §117\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68; Pub. L. 107–273, div. B, title IV, §4002(b)(16), (d)(2)(B), Nov. 2, 2002, 116 Stat. 1808, 1809; Pub. L. 109–177, title VII, §§711(f)(1)(A), (2), 714, Mar. 9, 2006, 120 Stat. 262–264; Pub. L. 111–268, §§4, 5, Oct. 12, 2010, 124 Stat. 2847, 2848.)
 
 #### References in Text
 
@@ -74,41 +74,41 @@ Schedules I and II, referred to in subsec. (b), are set out in section 812(c) of
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–268, §4(4), inserted “For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under section 830(e)(1)(B)(v) of this title, the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under section 830(e)(1)(B)(v) of this title.” at end of concluding provisions.
+<b>2010</b>—Subsec. (a). Pub. L. 111–268, §4(4), inserted "For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under section 830(e)(1)(B)(v) of this title, the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under section 830(e)(1)(B)(v) of this title." at end of concluding provisions.
 
-Subsec. (a)(10). Pub. L. 111–268, §5, inserted “or negligently to fail to self-certify as required under section 830 of this title” before semicolon.
+Subsec. (a)(10). Pub. L. 111–268, §5, inserted "or negligently to fail to self-certify as required under section 830 of this title" before semicolon.
 
 Subsec. (a)(15). Pub. L. 111–268, §4(1)–(3), added par. (15).
 
 <b>2006</b>—Subsec. (a)(12) to (14). Pub. L. 109–177, §711(f)(1)(A), added pars. (12) to (14).
 
-Subsec. (b). Pub. L. 109–177, §714, inserted “, or ephedrine, pseudoephedrine, or phenylpropanolamine or any of the salts, optical isomers, or salts of optical isomers of such chemical,” after “manufacture a controlled substance in schedule I or II” in introductory provisions.
+Subsec. (b). Pub. L. 109–177, §714, inserted ", or ephedrine, pseudoephedrine, or phenylpropanolamine or any of the salts, optical isomers, or salts of optical isomers of such chemical," after "manufacture a controlled substance in schedule I or II" in introductory provisions.
 
 Subsec. (c)(4). Pub. L. 109–177, §711(f)(2), added par. (4).
 
-<b>2002</b>—Subsec. (c)(2)(A). Pub. L. 107–273, §4002(d)(2)(B)(i), substituted “under title 18” for “of not more than $25,000”.
+<b>2002</b>—Subsec. (c)(2)(A). Pub. L. 107–273, §4002(d)(2)(B)(i), substituted "under title 18" for "of not more than $25,000".
 
-Subsec. (c)(2)(B). Pub. L. 107–273, §4002(d)(2)(B)(ii), substituted “under title 18” for “of $50,000”.
+Subsec. (c)(2)(B). Pub. L. 107–273, §4002(d)(2)(B)(ii), substituted "under title 18" for "of $50,000".
 
 Subsec. (c)(2)(C). Pub. L. 107–273, §4002(b)(16), realigned margins.
 
-<b>1998</b>—Subsec. (a)(5). Pub. L. 105–277, §101(b) \[title I, §117(1)\], inserted “negligently” before “fail”.
+<b>1998</b>—Subsec. (a)(5). Pub. L. 105–277, §101(b) \[title I, §117(1)\], inserted "negligently" before "fail".
 
-Subsec. (a)(10). Pub. L. 105–277, §101(b) \[title I, §117(2)\], inserted “negligently” before “to fail”.
+Subsec. (a)(10). Pub. L. 105–277, §101(b) \[title I, §117(2)\], inserted "negligently" before "to fail".
 
-Subsec. (c)(1). Pub. L. 105–277, §101(b) \[title I, §117(3)\], designated existing provisions as subpar. (A), inserted “subparagraph (B) of this paragraph and” before “paragraph (2)”, and added subpar. (B).
+Subsec. (c)(1). Pub. L. 105–277, §101(b) \[title I, §117(3)\], designated existing provisions as subpar. (A), inserted "subparagraph (B) of this paragraph and" before "paragraph (2)", and added subpar. (B).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–237, §205(a), added par. (11) and closing provisions.
 
 Subsec. (c)(2)(C). Pub. L. 104–237, §205(b), added subpar. (C).
 
-<b>1988</b>—Subsec. (a)(8). Pub. L. 100–690, §6056(a), inserted “, or to use to his own advantage or reveal (other than as authorized by section 830 of this title) any information that is confidential under such section” after “protection”.
+<b>1988</b>—Subsec. (a)(8). Pub. L. 100–690, §6056(a), inserted ", or to use to his own advantage or reveal (other than as authorized by section 830 of this title) any information that is confidential under such section" after "protection".
 
-Subsec. (a)(9). Pub. L. 100–690, §6056(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “to distribute or sell piperidine in violation of regulations established under section 830(a)(2) of this title, respecting presentation of identification.”
+Subsec. (a)(9). Pub. L. 100–690, §6056(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "to distribute or sell piperidine in violation of regulations established under section 830(a)(2) of this title, respecting presentation of identification."
 
 Subsec. (a)(10). Pub. L. 100–690, §6056(d), added par. (10).
 
-Subsec. (c)(2)(C). Pub. L. 100–690, §6056(c), struck out subpar. (C) which read as follows: “Subparagraphs (A) and (B) shall not apply to a violation of subsection (a)(5) of this section with respect to a refusal or failure to make a report required under section 830(a) of this title (relating to piperidine reporting).”
+Subsec. (c)(2)(C). Pub. L. 100–690, §6056(c), struck out subpar. (C) which read as follows: "Subparagraphs (A) and (B) shall not apply to a violation of subsection (a)(5) of this section with respect to a refusal or failure to make a report required under section 830(a) of this title (relating to piperidine reporting)."
 
 <b>1978</b>—Subsec. (a)(9). Pub. L. 95–633, §202(b)(1), added par. (9).
 
@@ -130,5 +130,5 @@ Amendment by Pub. L. 95–633 effective Nov. 10, 1978, see section 203(a) of Pub
 
 Pub. L. 96–359, §8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsecs. (a)(9) and (c)(2)(C) of this section effective Jan. 1, 1981.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section 830(a)(3) of this title;”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section 830(a)(3) of this title;".</i>
 

@@ -20,9 +20,9 @@ A prior section 614, act Aug. 14, 1935, ch. 531, title IV, §414, as added Aug. 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–96 substituted “fiscal year 2012” for “each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, 2002, and 2003”.
+<b>2012</b>—Subsec. (b). Pub. L. 112–96 substituted "fiscal year 2012" for "each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, 2002, and 2003".
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–40 substituted “2002, and 2003” for “and 2002”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–40 substituted "2002, and 2003" for "and 2002".
 
 <b>1997</b>—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 

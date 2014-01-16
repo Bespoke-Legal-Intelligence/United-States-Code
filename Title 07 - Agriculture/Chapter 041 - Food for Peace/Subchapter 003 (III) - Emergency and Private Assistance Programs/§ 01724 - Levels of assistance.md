@@ -24,53 +24,53 @@
 
 &emsp;The Administrator may waive the requirement of paragraph (1) for any fiscal year in which the Administrator determines that the requirements of the programs established under this subchapter will not be best served by the enforcement of such requirement under such paragraph.
 
-(July 10, 1954, ch. 469, title II, §204, 68 Stat. 458; Pub. L. 85–128, §1(1), Aug. 13, 1957, 71 Stat. 345; Pub. L. 85–931, §5, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 86–341, title I, §1, Sept. 21, 1959, 73 Stat. 606; Pub. L. 87–128, title II, §202(2), Aug. 8, 1961, 75 Stat. 307; Pub. L. 88–638, §1(15), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–113, title XII, §1203, Sept. 29, 1977, 91 Stat. 956; Pub. L. 97–98, title XII,§1212, Dec. 22, 1981, 95 Stat. 1281; Pub. L. 99–198, title XI, §1101, Dec. 23, 1985, 99 Stat. 1465; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3639; Pub. L. 104–127, title II, §209, Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, §3004, May 13, 2002, 116 Stat. 282; Pub. L. 108–199, div. A, title VII, §758, Jan. 23, 2004, 118 Stat. 38; Pub. L. 110–246, title III, §3010, June 18, 2008, 122 Stat. 1824.)
+(July 10, 1954, ch. 469, title II, §204, 68 Stat. 458; Pub. L. 85–128, §1(1), Aug. 13, 1957, 71 Stat. 345; Pub. L. 85–931, §5, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 86–341, title I, §1, Sept. 21, 1959, 73 Stat. 606; Pub. L. 87–128, title II, §202(2), Aug. 8, 1961, 75 Stat. 307; Pub. L. 88–638, §1(15), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–113, title XII, §1203, Sept. 29, 1977, 91 Stat. 956; Pub. L. 97–98, title XII, §1212, Dec. 22, 1981, 95 Stat. 1281; Pub. L. 99–198, title XI, §1101, Dec. 23, 1985, 99 Stat. 1465; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3639; Pub. L. 104–127, title II, §209, Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, §3004, May 13, 2002, 116 Stat. 282; Pub. L. 108–199, div. A, title VII, §758, Jan. 23, 2004, 118 Stat. 38; Pub. L. 110–246, title III, §3010, June 18, 2008, 122 Stat. 1824.)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1), (2). Pub. L. 110–246 substituted “2008 through 2012” for “2002 through 2007”.
+<b>2008</b>—Subsec. (a)(1), (2). Pub. L. 110–246 substituted "2008 through 2012" for "2002 through 2007".
 
-<b>2004</b>—Subsec. (a)(3). Pub. L. 108–199 substituted “the Committees on International Relations, Agriculture and Appropriations of the House of Representatives, and the Committees on Appropriations and” for “the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–199 substituted "the Committees on International Relations, Agriculture and Appropriations of the House of Representatives, and the Committees on Appropriations and" for "the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on".
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §3004(1), (2), substituted “2002 through 2007” for “1996 through 2002” and “2,500,000 metric tons” for “2,025,000 metric tons”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §3004(1), (2), substituted "2002 through 2007" for "1996 through 2002" and "2,500,000 metric tons" for "2,025,000 metric tons".
 
-Subsec. (a)(2). Pub. L. 107–171, §3004(1), (3), substituted “2002 through 2007” for “1996 through 2002” and “1,875,000 metric tons” for “1,550,000 metric tons”.
+Subsec. (a)(2). Pub. L. 107–171, §3004(1), (3), substituted "2002 through 2007" for "1996 through 2002" and "1,875,000 metric tons" for "1,550,000 metric tons".
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–127, §209(1)(A), substituted “amount that for each of fiscal years 1996 through 2002 is not less than 2,025,000 metric tons.” for “amount that—
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–127, §209(1)(A), substituted "amount that for each of fiscal years 1996 through 2002 is not less than 2,025,000 metric tons." for "amount that—
 
-&emsp;“(A) for fiscal year 1991, is not less than 1,925,000 metric tons;
+&emsp;"(A) for fiscal year 1991, is not less than 1,925,000 metric tons;
 
-&emsp;“(B) for fiscal year 1992, is not less than 1,950,000 metric tons;
+&emsp;"(B) for fiscal year 1992, is not less than 1,950,000 metric tons;
 
-&emsp;“(C) for fiscal year 1993, is not less than 1,975,000 metric tons;
+&emsp;"(C) for fiscal year 1993, is not less than 1,975,000 metric tons;
 
-&emsp;“(D) for fiscal year 1994, is not less than 2,000,000 metric tons; and
+&emsp;"(D) for fiscal year 1994, is not less than 2,000,000 metric tons; and
 
-&emsp;“(E) for fiscal year 1995, is not less than 2,025,000 metric tons.”
+&emsp;"(E) for fiscal year 1995, is not less than 2,025,000 metric tons."
 
-Subsec. (a)(2). Pub. L. 104–127, §209(1)(B), substituted “amount that for each of fiscal years 1996 through 2002 is not less than 1,550,000 metric tons.” for “an amount that—
+Subsec. (a)(2). Pub. L. 104–127, §209(1)(B), substituted "amount that for each of fiscal years 1996 through 2002 is not less than 1,550,000 metric tons." for "an amount that—
 
-&emsp;“(A) for fiscal year 1991, is not less than 1,450,000 metric tons;
+&emsp;"(A) for fiscal year 1991, is not less than 1,450,000 metric tons;
 
-&emsp;“(B) for fiscal year 1992, is not less than 1,475,000 metric tons;
+&emsp;"(B) for fiscal year 1992, is not less than 1,475,000 metric tons;
 
-&emsp;“(C) for fiscal year 1993, is not less than 1,500,000 metric tons;
+&emsp;"(C) for fiscal year 1993, is not less than 1,500,000 metric tons;
 
-&emsp;“(D) for fiscal year 1994, is not less than 1,525,000 metric tons; and
+&emsp;"(D) for fiscal year 1994, is not less than 1,525,000 metric tons; and
 
-&emsp;“(E) for fiscal year 1995, is not less than 1,550,000 metric tons.”
+&emsp;"(E) for fiscal year 1995, is not less than 1,550,000 metric tons."
 
-Subsec. (a)(3). Pub. L. 104–127, §209(1)(C), inserted at end “No waiver shall be made before the beginning of the applicable fiscal year.”
+Subsec. (a)(3). Pub. L. 104–127, §209(1)(C), inserted at end "No waiver shall be made before the beginning of the applicable fiscal year."
 
-Subsec. (b)(1). Pub. L. 104–127, §209(2), inserted before period at end “and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States”.
+Subsec. (b)(1). Pub. L. 104–127, §209(2), inserted before period at end "and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States".
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to authorization of appropriations for reimbursement of Commodity Credit Corporation for costs incurred in connection with programs of assistance undertaken under this subchapter, and appropriations for purchase of foreign currencies.
 
-<b>1985</b>—Pub. L. 99–198 substituted “fiscal” for “calendar” in two places in first sentence and authorized a waiver of limitation on assistance when the President determines waiver is necessary to undertake programs of assistance to meet humanitarian needs.
+<b>1985</b>—Pub. L. 99–198 substituted "fiscal" for "calendar" in two places in first sentence and authorized a waiver of limitation on assistance when the President determines waiver is necessary to undertake programs of assistance to meet humanitarian needs.
 
-<b>1981</b>—Pub. L. 97–98 substituted “$1,000,000,000” for “$750,000,000”.
+<b>1981</b>—Pub. L. 97–98 substituted "$1,000,000,000" for "$750,000,000".
 
-<b>1977</b>—Pub. L. 95–113 substituted “$750,000,000” for “$600,000,000”.
+<b>1977</b>—Pub. L. 95–113 substituted "$750,000,000" for "$600,000,000".
 
 <b>1966</b>—Pub. L. 89–808 substituted part of provisions of former section 1723 of this title relating to authorization of appropriations for reimbursement of the CCC, limitations on amount, and use of funds for purchase of foreign currencies for former provisions for termination date for assistance under this subchapter (Dec. 31, 1966), now provided for by section 1736c of this title.
 

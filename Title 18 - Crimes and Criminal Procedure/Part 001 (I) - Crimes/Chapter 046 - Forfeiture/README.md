@@ -20,7 +20,7 @@
 
 <b>1992</b>—Pub. L. 102–550, title XV, §§1522(b), 1523(b), Oct. 28, 1992, 106 Stat. 4063, 4064, added items 984 and 986.
 
-<b>1988</b>—Pub. L. 100–690, title VII, §7069, Nov. 18, 1988, 102 Stat. 4405, substituted “forfeiture” for “Forfeiture” in items 981 and 982.
+<b>1988</b>—Pub. L. 100–690, title VII, §7069, Nov. 18, 1988, 102 Stat. 4405, substituted "forfeiture" for "Forfeiture" in items 981 and 982.
 
 
 ---

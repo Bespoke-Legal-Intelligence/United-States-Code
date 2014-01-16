@@ -118,7 +118,7 @@ Section 4 of the Presidential Transition Act of 1963, referred to in subsec. (a)
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–311, §3(1), substituted a period for comma after “$10,000” in par. (2) and struck out “except that the amount of insurance may not exceed the annual rate of basic pay payable for positions at level II of the Executive Schedule under section 5313 of this title, rounded to the next higher multiple of $1,000, plus $2,000.” before last sentence.
+<b>1998</b>—Subsec. (c). Pub. L. 105–311, §3(1), substituted a period for comma after “$10,000” in par. (2) and struck out “except that the amount of insurance may not exceed the annual rate of basic pay payable for positionsat level II of the Executive Schedule under section 5313 of this title, rounded to the next higher multiple of $1,000, plus $2,000.” before last sentence.
 
 Subsec. (d)(1)(B). Pub. L. 105–311, §4, inserted “or foster child” after “stepchild” in two places in introductory provisions.
 
@@ -274,7 +274,7 @@ Pub. L. 103–409, §3(b), Oct. 25, 1994, 108 Stat. 4232, provided that:
 
 &emsp;“(B) such other elections as the Office allows may be made.
 
-“(2) The Office shall take such action as may be necessary to ensure that employees and any other individuals who would be eligible to make an election underthis subsection are afforded advance notification to that effect.”
+“(2) The Office shall take such action as may be necessary to ensure that employees and any other individuals who would be eligible to make an election under this subsection are afforded advance notification to that effect.”
 
 #### Continued Coverage Under Certain Federal Employee Benefit Programs for Certain Employees of Saint Elizabeths Hospital
 

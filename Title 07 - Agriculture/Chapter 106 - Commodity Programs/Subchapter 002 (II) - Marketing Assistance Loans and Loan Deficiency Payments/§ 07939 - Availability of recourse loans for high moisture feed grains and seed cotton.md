@@ -28,7 +28,7 @@
 
 #### (3) High moisture state defined
 
-&emsp;In this subsection, the term “high moisture state” means corn or grain sorghum having a moisture content in excess of Commodity Credit Corporation standards for marketing assistance loans made by the Secretary under section 7931 of this title.
+&emsp;In this subsection, the term "high moisture state" means corn or grain sorghum having a moisture content in excess of Commodity Credit Corporation standards for marketing assistance loans made by the Secretary under section 7931 of this title.
 
 #### (b) Recourse loans available for seed cotton
 

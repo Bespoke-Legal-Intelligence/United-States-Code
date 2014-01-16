@@ -18,5 +18,5 @@ Except for officials of the United States Government, all Panel members, alterna
 
 GS–15 of the General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “171”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "171".</i>
 

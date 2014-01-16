@@ -76,7 +76,7 @@ In general.—In prescribing the evaluation factors to be included in each solic
 
 &emsp;(2)
 
-Restriction on implementing regulations.—Regulations implementing paragraph (1)(C) may not define the terms “significantly more important” and “significantly less important” as specific numeric weights that would be applied uniformly to all solicitations or a class of solicitations.
+Restriction on implementing regulations.—Regulations implementing paragraph (1)(C) may not define the terms "significantly more important" and "significantly less important" as specific numeric weights that would be applied uniformly to all solicitations or a class of solicitations.
 
 (d)
 
@@ -96,7 +96,7 @@ Authorization of Telecommuting for Federal Contractors.—
 
 &emsp;(1)
 
-Definition.—In this subsection, the term “executive agency” has the meaning given that term in section 133 of this title.
+Definition.—In this subsection, the term "executive agency" has the meaning given that term in section 133 of this title.
 
 &emsp;(2)
 
@@ -134,5 +134,5 @@ June 30, 1949, ch. 288, title III, §303A, as added Pub. L. 98–369, title VII,
 
 Pub. L. 108–136, title XIV, §1428, Nov. 24, 2003, 117 Stat. 1670.
 
-In subsection (f)(2), the words “Not later than 180 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall amend” are omitted as obsolete.
+In subsection (f)(2), the words "Not later than 180 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall amend" are omitted as obsolete.
 

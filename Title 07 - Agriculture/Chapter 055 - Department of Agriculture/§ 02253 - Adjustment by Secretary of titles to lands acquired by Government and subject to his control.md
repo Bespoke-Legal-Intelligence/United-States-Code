@@ -10,7 +10,7 @@ Section was formerly classified to section 567 of Title 5 prior to the general r
 
 #### Amendments
 
-<b>1962</b>—Pub. L. 87–869 struck out “within twenty years” after “shall find”.
+<b>1962</b>—Pub. L. 87–869 struck out "within twenty years" after "shall find".
 
 <b>1952</b>—Act Mar. 3, 1952, increased period of limitation during which Secretary may adjust land titles from ten to twenty years.
 

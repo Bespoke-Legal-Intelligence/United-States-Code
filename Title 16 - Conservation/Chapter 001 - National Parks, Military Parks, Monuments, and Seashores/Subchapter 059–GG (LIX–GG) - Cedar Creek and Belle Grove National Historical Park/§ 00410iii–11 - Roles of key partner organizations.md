@@ -20,7 +20,7 @@ Roles of the current key partners include the following:
 
 #### (2) National Trust for Historic Preservation and Belle Grove Incorporated
 
-&emsp;The National Trust for Historic Preservation and Belle Grove Incorporated may continue to own, operate, and manage Belle Grove Plantation and its structures and grounds within the Park boundary. Belle Grove Incorporated may continue to own the house and grounds known as Bowman's Fort or Harmony Hall for the purpose of permanent preservation, with along-term goal of opening the property to the public.
+&emsp;The National Trust for Historic Preservation and Belle Grove Incorporated may continue to own, operate, and manage Belle Grove Plantation and its structures and grounds within the Park boundary. Belle Grove Incorporated may continue to own the house and grounds known as Bowman's Fort or Harmony Hall for the purpose of permanent preservation, with a long-term goal of opening the property to the public.
 
 #### (3) Shenandoah County
 

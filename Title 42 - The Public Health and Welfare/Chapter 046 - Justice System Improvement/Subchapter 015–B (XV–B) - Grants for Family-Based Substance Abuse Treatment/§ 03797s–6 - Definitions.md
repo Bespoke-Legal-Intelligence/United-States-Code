@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Nonviolent parent drug offender
 
-&emsp;The term “nonviolent parent drug offender” means an offender who is—
+&emsp;The term "nonviolent parent drug offender" means an offender who is—
 
 &emsp;&emsp;(A) a parent of an individual under 18 years of age; and
 
@@ -12,11 +12,11 @@ In this subchapter:
 
 #### (2) Nonviolent offense
 
-&emsp;The term “nonviolent offense” has the meaning given that term in section 3797aa(a) of this title.
+&emsp;The term "nonviolent offense" has the meaning given that term in section 3797aa(a) of this title.
 
 #### (3) Prison-based family treatment program
 
-&emsp;The term “prison-based family treatment program” means a program for incarcerated parents in a correctional facility that provides a comprehensive response to offender needs, including substance abuse treatment, child early intervention services, family counseling,legal services, medical care, mental health services, nursery and preschool, parenting skills training, pediatric care, physical therapy, prenatal care, sexual abuse therapy, relapse prevention, transportation, and vocational or GED training.
+&emsp;The term "prison-based family treatment program" means a program for incarcerated parents in a correctional facility that provides a comprehensive response to offender needs, including substance abuse treatment, child early intervention services, family counseling, legal services, medical care, mental health services, nursery and preschool, parenting skills training, pediatric care, physical therapy, prenatal care, sexual abuse therapy, relapse prevention, transportation, and vocational or GED training.
 
 (Pub. L. 90–351, title I, §2927, as added Pub. L. 110–199, title I, §113, Apr. 9, 2008, 122 Stat. 676.)
 

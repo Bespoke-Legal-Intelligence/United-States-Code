@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, it shall not be unlawful for authori
 
 &emsp;(D) A summary description of the aircraft interception activity for which the United States Government provided any form of assistance under subsection (b) of this section.
 
-(2) In the case of a report required to be submitted under paragraph (1) to the congressional intelligence committees (as defined in section 401a of title 50), the submittal date for such report shall be as provided in section 415b of title 50.
+(2) In the case of a report required to be submitted under paragraph (1) to the congressional intelligence committees (as defined in section 3003 of title 50), the submittal date for such report shall be as provided in section 3106 of title 50.
 
 (3) Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
@@ -36,11 +36,11 @@ Notwithstanding any other provision of law, it shall not be unlawful for authori
 
 For purposes of this section:
 
-&emsp;(1) The terms “interdict” and “interdiction”, with respect to an aircraft, mean to damage, render inoperative, or destroy the aircraft.
+&emsp;(1) The terms "interdict" and "interdiction", with respect to an aircraft, mean to damage, render inoperative, or destroy the aircraft.
 
-&emsp;(2) The term “illicit drug trafficking” means illicit trafficking in narcotic drugs, psychotropic substances, and other controlled substances, as such activities are described by any international narcotics control agreement to which the United States is a signatory, or by the domestic law of the country in whose territory or airspace the interdiction is occurring.
+&emsp;(2) The term "illicit drug trafficking" means illicit trafficking in narcotic drugs, psychotropic substances, and other controlled substances, as such activities are described by any international narcotics control agreement to which the United States is a signatory, or by the domestic law of the country in whose territory or airspace the interdiction is occurring.
 
-&emsp;(3) The term “assistance” includes operational, training, intelligence, logistical, technical, and administrative assistance.
+&emsp;(3) The term "assistance" includes operational, training, intelligence, logistical, technical, and administrative assistance.
 
 (Pub. L. 103–337, div. A, title X, §1012, Oct. 5, 1994, 108 Stat. 2837; Pub. L. 107–108, title V, §503, Dec. 28, 2001, 115 Stat. 1405; Pub. L. 107–306, title VIII, §811(b)(6), Nov. 27, 2002, 116 Stat. 2425.)
 
@@ -50,11 +50,11 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c)(1). Pub. L. 107–306, §811(b)(6)(A), substituted “Except as provided in paragraph (2), not later than” for “Not later than”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–306, §811(b)(6)(A), substituted "Except as provided in paragraph (2), not later than" for "Not later than".
 
 Subsec. (c)(2), (3). Pub. L. 107–306, §811(b)(6)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-<b>2001</b>—Subsec. (a)(2). Pub. L. 107–108, §503(a), substituted “has, during the 12-month period ending on the date of the interdiction, certified to Congress” for “, before the interdiction occurs, has determined” in introductory provisions.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–108, §503(a), substituted "has, during the 12-month period ending on the date of the interdiction, certified to Congress" for ", before the interdiction occurs, has determined" in introductory provisions.
 
 Subsecs. (c), (d). Pub. L. 107–108, §503(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -66,7 +66,9 @@ Functions of President under subsec. (c) of this section delegated to Secretary 
 
 The President made the determination required by subsec. (a)(2) of this section for the following countries:
 
-Brazil.—Determination No. 2013–01, Oct. 11, 2012, 77 F.R. 65457.
+Brazil.—Determination No. 2014–02, Oct. 10, 2013, 78 F.R. 62953.
+
+Determination No. 2013–01, Oct. 11, 2012, 77 F.R. 65457.
 
 Determination No. 2012–02, Oct. 14, 2011, 76 F.R. 70635.
 
@@ -84,7 +86,9 @@ Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
 
 Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
 
-Colombia.—Determination No. 2012–13, Aug. 10, 2012, 77 F.R. 50559.
+Colombia.—Determination No. 2013–12, Aug. 9, 2013, 78 F.R. 51647, 73377.
+
+Determination No. 2012–13, Aug. 10, 2012, 77 F.R. 50559.
 
 Determination No. 2011–13, Aug. 10, 2011, 76 F.R. 53299.
 

@@ -22,11 +22,11 @@
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203 inserted at end “Each appropriate Federal banking agency shall seek to make the capital standards required under this section or other provisions of Federal law for insured depository institutions countercyclical so that the amount of capital required to be maintained by an insured depository institution increases in times of economic expansion and decreases in times of economic contraction, consistent with the safety and soundness of the insured depository institution.”
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203 inserted at end "Each appropriate Federal banking agency shall seek to make the capital standards required under this section or other provisions of Federal law for insured depository institutions countercyclical so that the amount of capital required to be maintained by an insured depository institution increases in times of economic expansion and decreases in times of economic contraction, consistent with the safety and soundness of the insured depository institution."
 
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 616(e) of Pub. L. 111–203, set out as a note under section 1467a of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “capital”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "capital".</i>
 

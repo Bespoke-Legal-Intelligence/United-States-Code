@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) Mechanisms and resources to provide meaningful opportunities for public participation, including—
 
-&emsp;&emsp;&emsp;(i) public access to documents that the State, Indian tribe, or party conducting the cleanup is relying on or developing in making cleanup decisions or conducting site activities;
+&emsp;&emsp;&emsp;(i) public access to documents that the State, Indian tribe, or party conducting the cleanup is relying on or developing inmaking cleanup decisions or conducting site activities;
 
 &emsp;&emsp;&emsp;(ii) prior notice and opportunity for comment on proposed cleanup plans and site activities; and
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;(i) the State requests that the President provide assistance in the performance of a response action;
 
-&emsp;&emsp;&emsp;(ii) the Administrator determines that contamination has migrated or will migrate across a State line, resulting in the need for further response action to protecthuman health or the environment, or the President determines that contamination has migrated or is likely to migrate onto property subject to the jurisdiction, custody, or control of a department, agency, or instrumentality of the United States and may impact the authorized purposes of the Federal property;
+&emsp;&emsp;&emsp;(ii) the Administrator determines that contamination has migrated or will migrate across a State line, resulting in the need for further response action to protect human health or the environment, or the President determines that contamination has migrated or is likely to migrate onto property subject to the jurisdiction, custody, or control of a department, agency, or instrumentality of the United States and may impact the authorized purposes of the Federal property;
 
 &emsp;&emsp;&emsp;(iii) after taking into consideration the response activities already taken, the Administrator determines that—
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II)(aa) wait 48 hours for a reply from the State under clause (ii); or
 
-&emsp;&emsp;&emsp;&emsp;(bb) if the State fails to reply to the notification or if the Administrator makes a determination under clause (iii), take immediate action under that clause.
+&emsp;&emsp;&emsp;&emsp;(bb) if the State fails to reply to the notification or if the Administratormakes a determination under clause (iii), take immediate action under that clause.
 
 #### (ii) State reply
 
@@ -158,7 +158,7 @@ Nothing in this section affects any liability or response authority under any Fe
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1)(A), (B), (2)(B)(i) and (c)(1), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsecs. (b)(1)(A), (B), (2)(B)(i) and (c)(1), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (c)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 

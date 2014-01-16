@@ -10,7 +10,7 @@ The Consolidated Farm and Rural Development Act, referred to in text, is title I
 
 #### Codification
 
-Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2006, and not as part of the Consolidated Farm and Rural Development Act which comprises this chapter.
+Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2006, and not as partof the Consolidated Farm and Rural Development Act which comprises this chapter.
 
 #### Prior Provisions
 

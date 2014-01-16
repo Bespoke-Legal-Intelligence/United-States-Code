@@ -4,19 +4,19 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (1) Admitted insurer
 
-&emsp;The term “admitted insurer” means, with respect to a State, an insurer licensed to engage in the business of insurance in such State.
+&emsp;The term "admitted insurer" means, with respect to a State, an insurer licensed to engage in the business of insurance in such State.
 
 #### (2) Affiliate
 
-&emsp;The term “affiliate” means, with respect to an insured, any entity that controls, is controlled by, or is under common control with the insured.
+&emsp;The term "affiliate" means, with respect to an insured, any entity that controls, is controlled by, or is under common control with the insured.
 
 #### (3) Affiliated group
 
-&emsp;The term “affiliated group” means any group of entities that are all affiliated.
+&emsp;The term "affiliated group" means any group of entities that are all affiliated.
 
 #### (4) Control
 
-&emsp;An entity has “control” over another entity if—
+&emsp;An entity has "control" over another entity if—
 
 &emsp;&emsp;(A) the entity directly or indirectly or acting through 1 or more other persons owns, controls, or has the power to vote 25 percent or more of any class of voting securities of the other entity; or
 
@@ -24,7 +24,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (5) Exempt commercial purchaser
 
-&emsp;The term “exempt commercial purchaser” means any person purchasing commercial insurance that, at the time of placement, meets the following requirements:
+&emsp;The term "exempt commercial purchaser" means any person purchasing commercial insurance that, at the time of placement, meets the following requirements:
 
 &emsp;&emsp;(A) The person employs or retains a qualified risk manager to negotiate insurance coverage.
 
@@ -48,7 +48,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “home State” means, with respect to an insured—
+&emsp;&emsp;Except as provided in subparagraph (B), the term "home State" means, with respect to an insured—
 
 &emsp;&emsp;&emsp;(i) the State in which an insured maintains its principal place of business or, in the case of an individual, the individual's principal residence; or
 
@@ -56,27 +56,27 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (B) Affiliated groups
 
-&emsp;&emsp;If more than 1 insured from an affiliated group are named insureds on a single nonadmitted insurance contract, the term “home State” means the home State, as determined pursuant to subparagraph (A), of the member of the affiliated group that has the largest percentage of premium attributed to it under such insurance contract.
+&emsp;&emsp;If more than 1 insured from an affiliated group are named insureds on a single nonadmitted insurance contract, the term "home State" means the home State, as determined pursuant to subparagraph (A), of the member of the affiliated group that has the largest percentage of premium attributed to it under such insurance contract.
 
 #### (7) Independently procured insurance
 
-&emsp;The term “independently procured insurance” means insurance procured directly by an insured from a nonadmitted insurer.
+&emsp;The term "independently procured insurance" means insurance procured directly by an insured from a nonadmitted insurer.
 
 #### (8) NAIC
 
-&emsp;The term “NAIC” means the National Association of Insurance Commissioners or any successor entity.
+&emsp;The term "NAIC" means the National Association of Insurance Commissioners or any successor entity.
 
 #### (9) Nonadmitted insurance
 
-&emsp;The term “nonadmitted insurance” means any property and casualty insurance permitted to be placed directly or through a surplus lines broker with a nonadmitted insurer eligible to accept such insurance.
+&emsp;The term "nonadmitted insurance" means any property and casualty insurance permitted to be placed directly or through a surplus lines broker with a nonadmitted insurer eligible to accept such insurance.
 
 #### (10) Non-Admitted Insurance Model Act
 
-&emsp;The term “Non-Admitted Insurance Model Act” means the provisions of the Non-Admitted Insurance Model Act, as adopted by the NAIC on August 3, 1994, and amended on September 30, 1996, December 6, 1997, October 2, 1999, and June 8, 2002.
+&emsp;The term "Non-Admitted Insurance Model Act" means the provisions of the Non-Admitted Insurance Model Act, as adopted by the NAIC on August 3, 1994, and amended on September 30, 1996, December 6, 1997, October 2, 1999, and June 8, 2002.
 
 #### (11) Nonadmitted insurer
 
-&emsp;The term “nonadmitted insurer”—
+&emsp;The term "nonadmitted insurer"—
 
 &emsp;&emsp;(A) means, with respect to a State, an insurer not licensed to engage in the business of insurance in such State; but
 
@@ -84,11 +84,11 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (12) Premium tax
 
-&emsp;The term “premium tax” means, with respect to surplus lines or independently procured insurance coverage, any tax, fee, assessment, or other charge imposed by a government entity directly or indirectly based on any payment made as consideration for an insurance contract for such insurance, including premium deposits, assessments, registration fees, and any other compensation given in consideration for a contract of insurance.
+&emsp;The term "premium tax" means, with respect to surplus lines or independently procured insurance coverage, any tax, fee, assessment, or other charge imposed by a government entity directly or indirectly based on any payment made as consideration for an insurance contract for such insurance, including premium deposits, assessments, registration fees, and any other compensation given in consideration for a contract of insurance.
 
 #### (13) Qualified risk manager
 
-&emsp;The term “qualified risk manager” means, with respect to a policyholder of commercial insurance, a person who meets all of the following requirements:
+&emsp;The term "qualified risk manager" means, with respect to a policyholder of commercial insurance, a person who meets all of the following requirements:
 
 &emsp;&emsp;(A) The person is an employee of, or third-party consultant retained by, the commercial policyholder.
 
@@ -102,7 +102,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(bb) has—
 
-&emsp;&emsp;&emsp;&emsp;(AA) a designation as a Chartered Property and Casualty Underwriter (in this subparagraph referred to as “CPCU”) issued by the American Institute for CPCU/Insurance Institute of America;
+&emsp;&emsp;&emsp;&emsp;(AA) a designation as a Chartered Property and Casualty Underwriter (in this subparagraph referred to as "CPCU") issued by the American Institute for CPCU/Insurance Institute of America;
 
 &emsp;&emsp;&emsp;&emsp;(BB) a designation as an Associate in Risk Management (ARM) issued by the American Institute for CPCU/Insurance Institute of America;
 
@@ -122,15 +122,15 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (14) Reinsurance
 
-&emsp;The term “reinsurance” means the assumption by an insurer of all or part of a risk undertaken originally by another insurer.
+&emsp;The term "reinsurance" means the assumption by an insurer of all or part of a risk undertaken originally by another insurer.
 
 #### (15) Surplus lines broker
 
-&emsp;The term “surplus lines broker” means an individual, firm, or corporation which is licensed in a State to sell, solicit, or negotiate insurance on properties, risks, or exposures located or to be performed in a State with nonadmitted insurers.
+&emsp;The term "surplus lines broker" means an individual, firm, or corporation which is licensed in a State to sell, solicit, or negotiate insurance on properties, risks, or exposures located or to be performed in a State with nonadmitted insurers.
 
 #### (16) State
 
-&emsp;The term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.
+&emsp;The term "State" includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.
 
 (Pub. L. 111–203, title V, §527, July 21, 2010, 124 Stat. 1591.)
 

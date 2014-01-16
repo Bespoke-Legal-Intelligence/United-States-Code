@@ -22,7 +22,7 @@ The Administrator of the United States Agency for International Development shal
 
 #### (c) Authorization of appropriations
 
-To carry out this section, there are authorized to be appropriated to the Administrator of theUnited States Agency for International Development $200,000,000 for each of the fiscal years 2008 through 2012.
+To carry out this section, there are authorized to be appropriated to the Administrator of the United States Agency for International Development $200,000,000 for each of the fiscal years 2008 through 2012.
 
 (Pub. L. 110–140, title IX, §911, Dec. 19, 2007, 121 Stat. 1725.)
 

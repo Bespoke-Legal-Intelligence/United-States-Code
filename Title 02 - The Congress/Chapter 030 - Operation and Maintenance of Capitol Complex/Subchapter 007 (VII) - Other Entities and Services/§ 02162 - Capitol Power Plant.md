@@ -2,7 +2,7 @@
 
 #### (a) Designation
 
-The heating, lighting, and power plant constructed under the terms of the Act approved April 28, 1904 (33 Stat. 479, chapter 1762) shall be known as the “Capitol Power Plant”.
+The heating, lighting, and power plant constructed under the terms of the Act approvedApril 28, 1904 (33 Stat. 479, chapter 1762) shall be known as the “Capitol Power Plant”.
 
 #### (b) Definition
 
@@ -22,7 +22,7 @@ The Architect of the Capitol shall conduct a feasibility study evaluating the av
 
 #### (1) In general
 
-&emsp;If the feasibility study determines that a demonstration project to capture and store oruse Capitol Power Plant carbon dioxide emissions is technologically feasible and economically justified (including direct and indirect economic and environmental benefits), the Architect of the Capitol may conduct 1 or more demonstration projects to capture and store or use carbon dioxide emitted from the Capitol Power Plant as a result of burning fossil fuels.
+&emsp;If the feasibility study determines that a demonstration project to capture and store or use Capitol Power Plant carbon dioxide emissions is technologically feasible and economically justified (including direct and indirect economic and environmental benefits), the Architect of the Capitol may conduct 1 or more demonstration projects to capture and store or use carbon dioxide emitted from the Capitol Power Plant as a result of burning fossil fuels.
 
 #### (2) Factors for consideration
 

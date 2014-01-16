@@ -24,5 +24,5 @@ Discharge.—When the director of the facility in which the person is hospitaliz
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–473 amended section generally, substituting “Hospitalization of an imprisoned person suffering from mental disease or defect” for “Mental incompetency undisclosed at trial” in section catchline, and substituting provisions relating to motion, examination and report, hearing, etc., to determine present mental condition of imprisoned person, for provisions relating to procedures and authorities regarding mental incompetency undisclosed at trial.
+<b>1984</b>—Pub. L. 98–473 amended section generally, substituting "Hospitalization of an imprisoned person suffering from mental disease or defect" for "Mental incompetency undisclosed at trial" in section catchline, and substituting provisions relating to motion, examination and report, hearing, etc., to determine present mental condition of imprisoned person, for provisions relating to procedures and authorities regarding mental incompetency undisclosed at trial.
 

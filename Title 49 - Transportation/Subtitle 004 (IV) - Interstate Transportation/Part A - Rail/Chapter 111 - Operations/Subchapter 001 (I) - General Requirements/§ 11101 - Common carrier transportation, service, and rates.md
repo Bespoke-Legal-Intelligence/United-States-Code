@@ -1,6 +1,6 @@
 ### §11101. Common carrier transportation, service, and rates
 
-(a) A rail carrier providing transportation or service subject to the jurisdiction of the Board under this part shall provide the transportation or service on reasonable request. A rail carrier shall not be found to have violated this section because it fulfills its reasonable commitments under contracts authorized under section 10709 of this title before responding to reasonable requests for service. Commitments which deprivea carrier of its ability to respond to reasonable requests for common carrier service are not reasonable.
+(a) A rail carrier providing transportation or service subject to the jurisdiction of the Board under this part shall provide the transportation or service on reasonable request. A rail carrier shall not be found to have violated this section because it fulfills its reasonable commitments under contracts authorized under section 10709 of this title before responding to reasonable requests for service. Commitments which deprive a carrier of its ability to respond to reasonable requests for common carrier service are not reasonable.
 
 (b) A rail carrier shall also provide to any person, on request, the carrier's rates and other service terms. The response by a rail carrier to a request for the carrier's rates and other service terms shall be—
 
@@ -28,7 +28,7 @@ A prior section 11101, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1419; Pub. L. 9
 
 #### Amendments
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of the ICC Termination Act of 1995".
 
 #### Effective Date
 

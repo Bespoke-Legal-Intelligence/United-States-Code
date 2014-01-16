@@ -58,7 +58,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (1) In general
 
-&emsp;The Inspector General of the Department of the Interior shall procure the performance ofbiennial audits, in accordance with generally accepted accounting principles, of expenditures and obligations of amounts used by the Secretary of the Interior for expenses for administration incurred in implementation of this chapter.
+&emsp;The Inspector General of the Department of the Interior shall procure the performance of biennial audits, in accordance with generally accepted accounting principles, of expenditures and obligations of amounts used by the Secretary of the Interior for expenses for administration incurred in implementation of this chapter.
 
 #### (2) Auditor
 
@@ -82,13 +82,13 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### Codification
 
-In subsec. (d)(2)(A), “section 132 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d)(2)(A), "section 132 of title 41" substituted for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>2005</b>—Subsecs. (a), (b)(1). Pub. L. 109–59 substituted “section 777c(b)” for “section 777c(d)(1)” in introductory provisions.
+<b>2005</b>—Subsecs. (a), (b)(1). Pub. L. 109–59 substituted "section 777c(b)" for "section 777c(d)(1)" in introductory provisions.
 
-<b>2000</b>—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: “Out of the deductions set aside for administering and executing this chapter the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the District of Columbia and elsewhere, to be taken from the eligible lists of the civil service; to rent or construct buildings outside of the District of Columbia; to purchase such supplies, materials, equipment, office fixtures, and apparatus; and to incur such travel and other expenses, including publication of technical and administrative reports, purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the provisions of this chapter.”
+<b>2000</b>—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: "Out of the deductions set aside for administering and executing this chapter the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the District of Columbia and elsewhere, to be taken from the eligible lists of the civil service; to rent or construct buildings outside of the District of Columbia; to purchase such supplies, materials, equipment, office fixtures, and apparatus; and to incur such travel and other expenses, including publication of technical and administrative reports, purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the provisions of this chapter."
 
 #### Change of Name
 

@@ -24,7 +24,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted “1996” for “1990” in introductory provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted "1996" for "1990" in introductory provisions.
 
 #### Effective Date of 1990 Amendment
 

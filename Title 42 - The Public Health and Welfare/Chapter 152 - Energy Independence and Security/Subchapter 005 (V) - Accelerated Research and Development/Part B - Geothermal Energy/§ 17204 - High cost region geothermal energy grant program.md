@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means—
+&emsp;The term "eligible entity" means—
 
 &emsp;&emsp;(A) a utility;
 
@@ -22,7 +22,7 @@ In this section:
 
 #### (2) High-cost region
 
-&emsp;The term “high-cost region” means a region in which the average cost of electrical power exceeds 150 percent of the national average retail cost, as determined by the Secretary.
+&emsp;The term "high-cost region" means a region in which the average cost of electrical power exceeds 150 percent of the national average retail cost, as determined by the Secretary.
 
 #### (b) Program
 

@@ -10,7 +10,7 @@ A prior section 5662, act Aug. 16, 1954, ch. 736, 68A Stat. 695, consisted of pr
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” and “stamp,” before “mark,”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" and "stamp," before "mark,".
 
 #### Effective Date of 1976 Amendment
 

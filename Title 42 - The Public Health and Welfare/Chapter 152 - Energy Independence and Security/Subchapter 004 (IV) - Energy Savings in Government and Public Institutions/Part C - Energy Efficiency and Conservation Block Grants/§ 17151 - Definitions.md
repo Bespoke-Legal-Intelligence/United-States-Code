@@ -4,7 +4,7 @@ In this part:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means—
+&emsp;The term "eligible entity" means—
 
 &emsp;&emsp;(A) a State;
 
@@ -14,7 +14,7 @@ In this part:
 
 #### (2) Eligible unit of local government
 
-&emsp;The term “eligible unit of local government” means—
+&emsp;The term "eligible unit of local government" means—
 
 &emsp;&emsp;(A) an eligible unit of local government-alternative 1; and
 
@@ -22,7 +22,7 @@ In this part:
 
 #### (3)(A) Eligible unit of local government-alternative 1
 
-&emsp;The term “eligible unit of local government-alternative 1” means—
+&emsp;The term "eligible unit of local government-alternative 1" means—
 
 &emsp;&emsp;(i) a city with a population—
 
@@ -38,7 +38,7 @@ In this part:
 
 #### (B) Eligible unit of local government-alternative 2
 
-&emsp;The term “eligible unit of local government-alternative 2” means—
+&emsp;The term "eligible unit of local government-alternative 2" means—
 
 &emsp;&emsp;(i) a city with a population of at least 50,000; or
 
@@ -46,15 +46,15 @@ In this part:
 
 #### (4) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
 
 #### (5) Program
 
-&emsp;The term “program” means the Energy Efficiency and Conservation Block Grant Program established under section 17152(a) of this title.
+&emsp;The term "program" means the Energy Efficiency and Conservation Block Grant Program established under section 17152(a) of this title.
 
 #### (6) State
 
-&emsp;The term “State” means—
+&emsp;The term "State" means—
 
 &emsp;&emsp;(A) a State;
 

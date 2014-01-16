@@ -18,7 +18,7 @@ Plans.—(1) Each person owning or operating a gas pipeline facility or hazardou
 
 (b)
 
-Inspection and Testing.—(1) The Secretary shall inspect and require appropriate testing of a pipeline facility subject to this chapter that is not covered by a certificationunder section 60105 of this title or an agreement under section 60106 of this title. The Secretary shall decide on the frequency and type of inspection and testing under this subsection on a case-by-case basis after considering the following:
+Inspection and Testing.—(1) The Secretary shall inspect and require appropriate testing of a pipeline facility subject to this chapter that is not covered by a certification under section 60105 of this title or an agreement under section 60106 of this title. The Secretary shall decide on the frequency and type of inspection and testing under this subsection on a case-by-case basis after considering the following:
 
 &emsp;(A) the location of the pipeline facility.
 
@@ -46,9 +46,9 @@ Inspection and Testing.—(1) The Secretary shall inspect and require appropriat
 
 Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
-&emsp;(A) “abandoned” means permanently removed from service.
+&emsp;(A) "abandoned" means permanently removed from service.
 
-&emsp;(B) “pipeline facility” includes an underwater abandoned pipeline facility.
+&emsp;(B) "pipeline facility" includes an underwater abandoned pipeline facility.
 
 &emsp;(C) if a pipeline facility has no operator, the most recent operator of the facility is deemed to be the operator of the facility.
 
@@ -78,7 +78,7 @@ Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 (C) The Secretary may extend the time period specified in subparagraph (B) of this paragraph for not more than 6 months if the operator of a facility satisfies the Secretary that the operator has made a good faith effort, with reasonable diligence, but has been unable to comply by the end of that period.
 
-(6)(A) The operator of a pipeline facility abandoned after October 24, 1992, shall report theabandonment to the Secretary in a way that specifies whether the facility has been abandoned properly according to applicable United States Government and State requirements.
+(6)(A) The operator of a pipeline facility abandoned after October 24, 1992, shall report the abandonment to the Secretary in a way that specifies whether the facility has been abandoned properly according to applicable United States Government and State requirements.
 
 (B) Not later than October 24, 1995, the operator of a pipeline facility abandoned before October 24, 1992, shall report to the Secretary reasonably available information related to the facility, including information that a third party possesses. The information shall include the location, size, date, and method of abandonment, whether the facility has been abandoned properly under applicable law, and other relevant information the Secretary may require. Not later than April 24, 1994, the Secretary shall specify how the information shall be reported. The Secretary shall ensure that the Government maintains the information in a way accessible to appropriate Government agencies and State authorities.
 
@@ -264,35 +264,35 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §203(<i>l</i>)(5), (6); added Oc
 
 Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §13(c); added Oct. 24, 1992, Pub. L. 102–508, §107, 106 Stat. 3293.
 
-In subsection (a)(1), the word “prepare” is omitted as surplus. The words “or offices” are omitted because of 1:1. The words “in accordance with regulations prescribed by the Secretary or appropriate State agency” in 49 App.:1680(a) (1st sentence), “in accordance with regulations prescribed by the Secretary or, where a certification or agreement pursuant to section 2004 of this Appendix is in effect, by the appropriate State agency” in 49 App.:2009(a) (1st sentence), and “by regulation” are omitted as surplus because of 49:322(a) and sections 60102–60105 of the revised title.
+In subsection (a)(1), the word "prepare" is omitted as surplus. The words "or offices" are omitted because of 1:1. The words "in accordance with regulations prescribed by the Secretary or appropriate State agency" in 49 App.:1680(a) (1st sentence), "in accordance with regulations prescribed by the Secretary or, where a certification or agreement pursuant to section 2004 of this Appendix is in effect, by the appropriate State agency" in 49 App.:2009(a) (1st sentence), and "by regulation" are omitted as surplus because of 49:322(a) and sections 60102–60105 of the revised title.
 
-In subsection (a)(2), before clause (A), the words “the Secretary or” are added for clarity. The words “at any time” in 49 App.:1680(a) (3d sentence) are omitted as surplus.
+In subsection (a)(2), before clause (A), the words "the Secretary or" are added for clarity. The words "at any time" in 49 App.:1680(a) (3d sentence) are omitted as surplus.
 
-In subsection (a)(3), the word “appropriate” is omitted as surplus.
+In subsection (a)(3), the word "appropriate" is omitted as surplus.
 
-In subsection (b)(1), before clause (A), the words “to ensure the safety of such pipeline facilities” and “factors” are omitted as surplus. In clause (G), the words “if any” are omitted as surplus.
+In subsection (b)(1), before clause (A), the words "to ensure the safety of such pipeline facilities" and "factors" are omitted as surplus. In clause (G), the words "if any" are omitted as surplus.
 
 In subsection (b)(2), the text of 49 App.:1680(b)(1) (3d sentence) and 2009(d)(1) (3d sentence) is omitted as obsolete.
 
-In subsection (c)(1)(B), the words “except with respect to the initial inspection required under paragraph (1)” are omitted as obsolete.
+In subsection (c)(1)(B), the words "except with respect to the initial inspection required under paragraph (1)" are omitted as obsolete.
 
-In subsection (c)(1)(C), the word “current” is omitted as surplus.
+In subsection (c)(1)(C), the word "current" is omitted as surplus.
 
-In subsection (c)(2)(B), before clause (i), the words “to carry out” are substituted for “under” because the Secretary does not prescribe regulations under 49 App.:1672(h)(3) or 2002(l)(3).
+In subsection (c)(2)(B), before clause (i), the words "to carry out" are substituted for "under" because the Secretary does not prescribe regulations under 49 App.:1672(h)(3) or 2002(l)(3).
 
 In subsection (c)(3), the text of 49 App.:1672(h)(1) and 2002(l)(1) is omitted as executed.
 
 In subsection (c)(4)(A), the text of 49 App.:1672(h)(4)(A) and 2002(l)(4)(A) is omitted as obsolete.
 
-In subsection (c)(5)(A), the words “for the purposes of this paragraph” are omitted as surplus.
+In subsection (c)(5)(A), the words "for the purposes of this paragraph" are omitted as surplus.
 
-In subsection (c)(5)(C), the words “an additional period of” and “and care” are omitted as surplus.
+In subsection (c)(5)(C), the words "an additional period of" and "and care" are omitted as surplus.
 
-In subsection (c)(6)(C), the words “relating to coordination of Federal information policies” are omitted as surplus.
+In subsection (c)(6)(C), the words "relating to coordination of Federal information policies" are omitted as surplus.
 
-In subsection (c)(7), the words “regulation under” are omitted as surplus. The word “because” is substituted for “on the basis of the fact that” to eliminate unnecessary words.
+In subsection (c)(7), the words "regulation under" are omitted as surplus. The word "because" is substituted for "on the basis of the fact that" to eliminate unnecessary words.
 
-In subsection (d)(2), the words “(relating to coordination of Federal information policy)” are omitted as surplus.
+In subsection (d)(2), the words "(relating to coordination of Federal information policy)" are omitted as surplus.
 
 #### References in Text
 
@@ -302,29 +302,29 @@ Section 203(l)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, referr
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–90, §18(a), substituted “a gas pipeline” for “an intrastate gas pipeline”.
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–90, §18(a), substituted "a gas pipeline" for "an intrastate gas pipeline".
 
 Subsec. (c)(8). Pub. L. 112–90, §21(c), added par. (8).
 
 Subsec. (d)(4). Pub. L. 112–90, §7(a), added par. (4).
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–304, §6(1), struck out “transporting gas or hazardous liquid or” after “Each person” and “a person”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–304, §6(1), struck out "transporting gas or hazardous liquid or" after "Each person" and "a person".
 
-Subsec. (b)(2). Pub. L. 104–304, §6(2), struck out after first sentence “However, an inspection must occur at least once every 2 years.”
+Subsec. (b)(2). Pub. L. 104–304, §6(2), struck out after first sentence "However, an inspection must occur at least once every 2 years."
 
-Subsec. (c). Pub. L. 104–304, §6(3), substituted “
+Subsec. (c). Pub. L. 104–304, §6(3), substituted "
 
-Other Waters” for “
+Other Waters" for "
 
-Navigable Waters” in heading.
+Navigable Waters" in heading.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 104–304, §6(4), added cl. (ii) and struck out former cl. (ii) which read as follows: “any other pipeline facility crossing under, over, or through navigable waters (as defined by the Secretary) if the Secretary decides that the location of the facility in those navigable waters could pose a hazard to navigation or public safety.”
+Subsec. (c)(2)(A)(ii). Pub. L. 104–304, §6(4), added cl. (ii) and struck out former cl. (ii) which read as follows: "any other pipeline facility crossing under, over, or through navigable waters (as defined by the Secretary) if the Secretary decides that the location of the facility in those navigable waters could pose a hazard to navigation or public safety."
 
-Subsec. (c)(2)(B). Pub. L. 104–304, §20(h)(1), substituted “standards” for “regulations” in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 104–304, §20(h)(1), substituted "standards" for "regulations" in introductory provisions.
 
-Subsec. (c)(4)(A). Pub. L. 104–304, §20(h)(2), substituted “establish a standard” for “require by regulation”.
+Subsec. (c)(4)(A). Pub. L. 104–304, §20(h)(2), substituted "establish a standard" for "require by regulation".
 
-Subsecs. (c)(4)(B), (d)(3). Pub. L. 104–304, §20(h)(1), substituted “standards” for “regulations”.
+Subsecs. (c)(4)(B), (d)(3). Pub. L. 104–304, §20(h)(1), substituted "standards" for "regulations".
 
 #### Transfer of Functions
 
@@ -334,57 +334,57 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 112–90, §8, Jan. 3, 2012, 125 Stat. 1911, provided that:
 
-“(a)
+"(a)
 
 Leak Detection Report.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 1 year after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives a report on leak detection systems utilized by operators of hazardous liquid pipeline facilities and transportation-related flow lines.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Contents.—The report shall include—
 
-&emsp;&emsp;“(A) an analysis of the technical limitations of current leak detection systems, including the ability of the systems to detect ruptures and small leaks that are ongoing or intermittent, and what can be done to foster development of better technologies; and
+&emsp;&emsp;"(A) an analysis of the technical limitations of current leak detection systems, including the ability of the systems to detect ruptures and small leaks that are ongoing or intermittent, and what can be done to foster development of better technologies; and
 
-&emsp;&emsp;“(B) an analysis of the practicability of establishing technically, operationally, and economicallyfeasible standards for the capability of such systems to detect leaks, and the safety benefits and adverse consequences of requiring operators to use leak detection systems.
+&emsp;&emsp;"(B) an analysis of the practicability of establishing technically, operationally, and economicallyfeasible standards for the capability of such systems to detect leaks, and the safety benefits and adverse consequences of requiring operators to use leak detection systems.
 
-“(b)
+"(b)
 
 Rulemaking Requirements.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-Review period defined.—In this subsection, the term ‘review period’ means the period beginning on the date of enactment of this Act \[Jan. 3, 2012\] and ending on the earlier of—
+Review period defined.—In this subsection, the term 'review period' means the period beginning on the date of enactment of this Act \[Jan. 3, 2012\] and ending on the earlier of—
 
-&emsp;&emsp;“(A) the date that is 1 year after the date of completion of the report under subsection (a); or
+&emsp;&emsp;"(A) the date that is 1 year after the date of completion of the report under subsection (a); or
 
-&emsp;&emsp;“(B) the date that is 2 years after the date of enactment of this Act.
+&emsp;&emsp;"(B) the date that is 2 years after the date of enactment of this Act.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Congressional authority.—In order to provide Congress the necessary time to review the results of the report required by subsection (a) and implement appropriate recommendations, the Secretary, during the review period, shall not issue final regulations described in paragraph (3).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Standards.—As soon as practicable following the review period, if the report required by subsection (a) finds that it is practicable to establish technically, operationally, and economically feasible standards for the capability of leak detection systems to detect leaks, the Secretary shall issue final regulations that—
 
-&emsp;&emsp;“(A) require operators of hazardous liquid pipeline facilities to use leak detection systems where practicable; and
+&emsp;&emsp;"(A) require operators of hazardous liquid pipeline facilities to use leak detection systems where practicable; and
 
-&emsp;&emsp;“(B) establish technically, operationally, and economically feasible standards for the capability of such systems to detect leaks.
+&emsp;&emsp;"(B) establish technically, operationally, and economically feasible standards for the capability of such systems to detect leaks.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Savings clause.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Notwithstanding any other provision of this subsection, the Secretary, during the review period, may issue final regulations described in paragraph (3) if the Secretary determines that a condition that poses a risk to public safety, property, or the environment is present or an imminent hazard exists and that the regulations will address the risk or hazard.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Imminent hazard defined.—In subparagraph (A), the term ‘imminent hazard’ means the existence of a condition related to pipelines or pipeline operations that presents a substantial likelihood that death, serious illness, severe personal injury, or substantial endangerment to health, property, or the environment may occur.”
+Imminent hazard defined.—In subparagraph (A), the term 'imminent hazard' means the existence of a condition related to pipelines or pipeline operations that presents a substantial likelihood that death, serious illness, severe personal injury, or substantial endangerment to health, property, or the environment may occur."
 
 \[Terms used in section 8 of Pub. L. 112–90, set out above, have the meaning given those terms in this chapter, see section 1(c)(1) of Pub. L. 112–90, set out as a note under section 60101 of this title.\]
 

@@ -2,7 +2,7 @@
 
 (a) In this section—
 
-&emsp;(1) the term “avoidable cost” means all expenses that would be incurred by a rail carrier in providing transportation that would not be incurred if the railroad line over which the transportation was provided were abandoned or if the transportation were discontinued. Expenses include cash inflows foregone and cash outflows incurred by the rail carrier as a result of not abandoning or discontinuing the transportation. Cash inflows foregone and cash outflows incurred include—
+&emsp;(1) the term "avoidable cost" means all expenses that would be incurred by a rail carrier in providing transportation that would not be incurred if the railroad line over which the transportation was provided were abandoned or if the transportation were discontinued. Expenses include cash inflows foregone and cash outflows incurred by the rail carrier as a result of not abandoning or discontinuing the transportation. Cash inflows foregone and cash outflows incurred include—
 
 &emsp;&emsp;(A) working capital and required capital expenditure;
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(D) the foregone tax benefits from not retiring properties from rail service and other effects of applicable Federal and State income taxes; and
 
-&emsp;(2) the term “reasonable return” means—
+&emsp;(2) the term "reasonable return" means—
 
 &emsp;&emsp;(A) if a rail carrier is not in reorganization, the cost of capital to the rail carrier, as determined by the Board; and
 
@@ -28,7 +28,7 @@
 
 &emsp;(4) any other information that the Board considers necessary to allow a potential offeror to calculate an adequate subsidy or purchase offer.
 
-(c) Within 4 months after an application is filed under section 10903, any person may offer to subsidize or purchase the railroad line that is the subject of such application. Such offer shall be filed concurrently with the Board. If the offer to subsidize or purchase is less than the carrier'sestimate stated pursuant to subsection (b)(1), the offer shall explain the basis of the disparity, and the manner in which the offer is calculated.
+(c) Within 4 months after an application is filed under section 10903, any person may offer to subsidize or purchase the railroad line that is the subject of such application. Such offer shall be filed concurrently with the Board. If the offer to subsidize or purchase is less than the carrier's estimate stated pursuant to subsection (b)(1), the offer shall explain the basis of the disparity, and the manner in which the offer is calculated.
 
 (d)(1) Unless the Board, within 15 days after the expiration of the 4-month period described in subsection (c), finds that one or more financially responsible persons (including a governmental authority) have offered financial assistance regarding that part of the railroad line to be abandoned or over which all rail transportation is to be discontinued, abandonment or discontinuance may be carried out in accordance with section 10903.
 
@@ -44,7 +44,7 @@
 
 &emsp;(A) the Board shall render its decision within 30 days;
 
-&emsp;(B) for proposed sales, the Board shall determine the price and other terms of sale, except that in no case shall the Board set a price which is below the fair market value of the line (including, unless otherwise mutually agreed, all facilities on the line or portion necessary to provide effective transportation services); and
+&emsp;(B) for proposed sales, the Board shall determine the price and other terms of sale, exceptthat in no case shall the Board set a price which is below the fair market value of the line (including, unless otherwise mutually agreed, all facilities on the line or portion necessary to provide effective transportation services); and
 
 &emsp;(C) for proposed subsidies, the Board shall establish the compensation as the difference between the revenues attributable to that part of the railroad line and the avoidable cost of providing rail freight transportation on the line, plus a reasonable return on the value of the line.
 

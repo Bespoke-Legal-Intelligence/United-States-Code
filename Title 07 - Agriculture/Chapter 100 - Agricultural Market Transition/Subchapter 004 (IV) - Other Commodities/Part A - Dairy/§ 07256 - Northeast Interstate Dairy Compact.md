@@ -34,13 +34,13 @@ Congress hereby consents to the Northeast Interstate Dairy Compact entered into 
 
 #### References in Text
 
-Section 608c(5) of this title, referred to in par. (6), was in the original “section 8(c)5 of the Agricultural Adjustment Act (7 U.S.C. 608c), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937,” which was translated as meaning section 8c(5) of the Agricultural Adjustment Act, to reflect the probable intent of Congress.
+Section 608c(5) of this title, referred to in par. (6), was in the original "section 8(c)5 of the Agricultural Adjustment Act (7 U.S.C. 608c), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937," which was translated as meaning section 8c(5) of the Agricultural Adjustment Act, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>1999</b>—Par. (3). Pub. L. 106–113 substituted “on September 30, 2001.” for “concurrent with the Secretary's implementation of the dairy pricing and Federal milk marketing order consolidation and reforms under section 7253 of this title.”
+<b>1999</b>—Par. (3). Pub. L. 106–113 substituted "on September 30, 2001." for "concurrent with the Secretary's implementation of the dairy pricing and Federal milk marketing order consolidation and reforms under section 7253 of this title."
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "of".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

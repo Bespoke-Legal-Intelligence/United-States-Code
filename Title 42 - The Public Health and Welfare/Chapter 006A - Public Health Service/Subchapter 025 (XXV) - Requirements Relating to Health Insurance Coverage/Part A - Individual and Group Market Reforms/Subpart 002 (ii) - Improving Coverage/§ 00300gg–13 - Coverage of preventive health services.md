@@ -4,7 +4,7 @@
 
 A group health plan and a health insurance issuer offering group or individual health insurance coverage shall, at a minimum provide coverage for and shall not impose any cost sharing requirements for—
 
-&emsp;(1) evidence-based items or services that have in effect a rating of “A” or “B” in the current recommendations of the United States Preventive Services Task Force;
+&emsp;(1) evidence-based items or services that have in effect a rating of "A" or "B" in the current recommendations of the United States Preventive Services Task Force;
 
 &emsp;(2) immunizations that have in effect a recommendation from the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention with respect to the individual involved; and <sup>1</sup>
 
@@ -34,7 +34,7 @@ The Secretary may develop guidelines to permit a group health plan and a health 
 
 #### Prior Provisions
 
-A prior section 300gg–13, act July 1, 1944, ch. 373, title XXVII, §2713, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1966, was renumbered section 2709 of act July 1, 1944, and transferred to section 300gg–9 of this title by Pub. L. 111–148, title I, §§1001(3),1563(c)(10)(C), formerly §1562(c)(10)(C), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 268, 911.
+A prior section 300gg–13, act July 1, 1944, ch. 373, title XXVII, §2713, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1966, was renumbered section 2709 of act July 1, 1944, and transferred to section 300gg–9 of this title by Pub. L. 111–148, title I, §§1001(3), 1563(c)(10)(C), formerly §1562(c)(10)(C), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 268, 911.
 
 Another prior section 2713 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238l of this title.
 
@@ -42,7 +42,7 @@ Another prior section 2713 of act July 1, 1944, was successively renumbered by s
 
 Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section 1004 of Pub. L. 111–148, set out as a note under section 300gg–11 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

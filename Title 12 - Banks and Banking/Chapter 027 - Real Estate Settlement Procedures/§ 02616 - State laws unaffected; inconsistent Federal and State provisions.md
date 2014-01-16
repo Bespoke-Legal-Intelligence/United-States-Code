@@ -6,9 +6,9 @@ This chapter does not annul, alter, or affect, or exempt any person subject to t
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Secretary” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Secretary" wherever appearing.
 
-<b>1976</b>—Pub. L. 94–205 struck out “(a)” before “This chapter” and struck out subsec. (b) which provided for Federal protection against liability for acts done or omitted in good faith in accordance with the rules, regulations, or interpretations issued by the Secretary. See section 2617 (b) of this title.
+<b>1976</b>—Pub. L. 94–205 struck out "(a)" before "This chapter" and struck out subsec. (b) which provided for Federal protection against liability for acts done or omitted in good faith in accordance with the rules, regulations, or interpretations issued by the Secretary. See section 2617 (b) of this title.
 
 #### Effective Date of 2010 Amendment
 

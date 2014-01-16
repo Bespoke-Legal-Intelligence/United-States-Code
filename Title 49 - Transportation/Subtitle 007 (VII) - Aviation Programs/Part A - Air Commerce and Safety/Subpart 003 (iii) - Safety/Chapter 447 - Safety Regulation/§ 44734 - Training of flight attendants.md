@@ -20,11 +20,11 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Air carrier.—The term “air carrier” means a person, including a commercial enterprise, that has been issued an air carrier operating certificate under section 44705.
+Air carrier.—The term "air carrier" means a person, including a commercial enterprise, that has been issued an air carrier operating certificate under section 44705.
 
 &emsp;(2)
 
-Flight attendant.—The term “flight attendant” has the meaning given that term in section 44728(g).
+Flight attendant.—The term "flight attendant" has the meaning given that term in section 44728(g).
 
 (Added Pub. L. 112–95, title III, §309(a), Feb. 14, 2012, 126 Stat. 64.)
 

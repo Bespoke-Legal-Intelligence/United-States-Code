@@ -6,7 +6,7 @@ Prescribing Standards.—The Secretary may prescribe, in regulations, standards 
 
 (b)
 
-Judicial Review.—An interested person has the right of judicial review of any legal question relating to interpretation of the terms “regular dealer” and “manufacturer” as defined pursuant to subsection (a).
+Judicial Review.—An interested person has the right of judicial review of any legal question relating to interpretation of the terms "regular dealer" and "manufacturer" as defined pursuant to subsection (a).
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3811.)
 
@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 June 30, 1936, ch. 881, §11, as added Pub. L. 103–355, title VII, §7201(4), Oct. 13, 1994, 108 Stat. 3378; Pub. L. 104–106, div. D, title XLIII, §4321(f)(1)(A), Feb. 10, 1996, 110 Stat. 675.
 
-In subsection (a), the words “an agency of the United States” are substituted for “any executive department, independent establishment, or other agency or instrumentality of the United States, or by the District of Columbia, or by any corporation all the stock of which is beneficially owned by the United States” because of the definition in section 6501 of the revised title.
+In subsection (a), the words "an agency of the United States" are substituted for "any executive department, independent establishment, or other agency or instrumentality of the United States, or by the District of Columbia, or by any corporation all the stock of which is beneficially owned by the United States" because of the definition in section 6501 of the revised title.
 

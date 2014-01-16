@@ -10,7 +10,7 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 #### (b) Closure; report on proposed closure
 
-(1) Notwithstanding any provision of law other than this subsection, no Service hospital or outpatient health care facility of the Service, or any portion of such a hospital or facility, may be closed if the Secretary has not submitted to the Congress at least 1 year prior to the datesuch hospital or facility (or portion thereof) is proposed to be closed an evaluation of the impact of such proposed closure which specifies, in addition to other considerations—
+(1) Notwithstanding any provision of law other than this subsection, no Service hospital or outpatient health care facility of the Service, or any portion of such a hospital or facility, may be closed if the Secretary has not submitted to the Congress at least 1 year prior to the date such hospital or facility (or portion thereof) is proposed to be closed an evaluation of the impact of such proposed closure which specifies, in addition to other considerations—
 
 &emsp;(A) the accessibility of alternative health care resources for the population served by such hospital or facility;
 
@@ -38,7 +38,7 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 &emsp;&emsp;&emsp;(i) shall be developed in consultation with Indian tribes and tribal organizations;
 
-&emsp;&emsp;&emsp;(ii) shall give Indian tribes’ needs the highest priority;
+&emsp;&emsp;&emsp;(ii) shall give Indian tribes' needs the highest priority;
 
 &emsp;&emsp;&emsp;(iii)(I) may include the lists required in paragraph (2)(B)(ii); and
 
@@ -88,7 +88,7 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 #### (I) Facilities Appropriation Advisory Board
 
-&emsp;&emsp;&emsp;&emsp;The term “Facilities Appropriation Advisory Board” means the advisory board, comprised of 12 members representing Indian tribes and 2 members representing the Service, established at the discretion of the Director—
+&emsp;&emsp;&emsp;&emsp;The term "Facilities Appropriation Advisory Board" means the advisory board, comprised of 12 members representing Indian tribes and 2 members representing the Service, established at the discretion of the Director—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) to provide advice and recommendations for policies and procedures of the programs funded pursuant to facilities appropriations; and
 
@@ -96,7 +96,7 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 #### (II) Facilities Needs Assessment Workgroup
 
-&emsp;&emsp;&emsp;&emsp;The term “Facilities Needs Assessment Workgroup” means the workgroup established at the discretion of the Director—
+&emsp;&emsp;&emsp;&emsp;The term "Facilities Needs Assessment Workgroup" means the workgroup established at the discretion of the Director—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) to review the health care facilities construction priority system; and
 
@@ -106,7 +106,7 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Not later than 1 year after March 23, 2010, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representativesa report that describes the comprehensive, national, ranked list of all health care facilities needs for the Service, Indian tribes, and tribal organizations (including inpatient health care facilities, outpatient health care facilities, specialized health care facilities (such as for long-term care and alcohol and drug abuse treatment), wellness centers, and staff quarters, and the renovation and expansion needs, if any, of such facilities) developed by the Service, Indian tribes, and tribal organizations for the Facilities Needs Assessment Workgroup and the Facilities Appropriation Advisory Board.
+&emsp;&emsp;&emsp;&emsp;Not later than 1 year after March 23, 2010, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes the comprehensive, national, ranked list of all health care facilities needs for the Service, Indian tribes, and tribal organizations (including inpatient health care facilities, outpatient health care facilities, specialized health care facilities (such as for long-term care and alcohol and drug abuse treatment), wellness centers, and staff quarters, and the renovation and expansion needs, if any, of such facilities) developed by the Service, Indian tribes, and tribal organizations for the Facilities Needs Assessment Workgroup and the Facilities Appropriation Advisory Board.
 
 #### (II) Inclusions
 
@@ -190,7 +190,7 @@ The Secretary shall consult and cooperate with Indian tribes and tribal organiza
 
 #### (h) <sup>1</sup> Funds appropriated subject to section 450f of this title
 
-All funds appropriated under section 13 of this title for the planning, design, construction, or renovation of health facilities for the benefit ofan Indian tribe or tribes shall be subject to the provisions of section 102 of the Indian Self-Determination Act \[25 U.S.C. 450f\].
+All funds appropriated under section 13 of this title for the planning, design, construction, or renovation of health facilities for the benefit of an Indian tribe or tribes shall be subject to the provisions of section 102 of the Indian Self-Determination Act \[25 U.S.C. 450f\].
 
 #### (g) <sup>2</sup> Priority of certain projects protected
 
@@ -228,21 +228,21 @@ Amendment by Pub. L. 111–148 is based on sections 141 and 142 of title I of S.
 
 <b>2010</b>—Pub. L. 111–148 added subsecs. (c) to (f), redesignated former subsec. (d) as (h), added subsec. (g) at end, and struck out former subsec. (c) which related to annual report on health facility priority system.
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–573, §301(1), substituted “Health Care Organizations” for “Hospitals”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–573, §301(1), substituted "Health Care Organizations" for "Hospitals".
 
-Subsec. (b)(1). Pub. L. 102–573, §301(2), struck out “other” before “outpatient health care facility” in introductory provisions and added subpars. (F) and (G).
+Subsec. (b)(1). Pub. L. 102–573, §301(2), struck out "other" before "outpatient health care facility" in introductory provisions and added subpars. (F) and (G).
 
-Subsec. (c). Pub. L. 102–573, §301(3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The President shall include with the budget submitted under section 1105 of title 31, for each of the fiscal years 1990, 1991, and 1992, program information documents for the construction of 10 Indian health facilities which—
+Subsec. (c). Pub. L. 102–573, §301(3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: "The President shall include with the budget submitted under section 1105 of title 31, for each of the fiscal years 1990, 1991, and 1992, program information documents for the construction of 10 Indian health facilities which—
 
-&emsp;“(1) comply with applicable construction standards, and
+&emsp;"(1) comply with applicable construction standards, and
 
-&emsp;“(2) have been approved by the Secretary.”
+&emsp;"(2) have been approved by the Secretary."
 
-Subsec. (c)(1). Pub. L. 102–573, §301(4), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall submit to the Congress an annual report which sets forth—”.
+Subsec. (c)(1). Pub. L. 102–573, §301(4), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "The Secretary shall submit to the Congress an annual report which sets forth—".
 
-Subsec. (c)(2) to (5). Pub. L. 102–573, §301(5), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31.”
+Subsec. (c)(2) to (5). Pub. L. 102–573, §301(5), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: "The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31."
 
-Subsecs. (d), (e). Pub. L. 102–573, §§301(3), 902(4)(B), redesignated subsec. (e) as (d) and substituted “section 102 of the Indian Self-Determination Act” for “sections 102 and 103(b) of the Indian Self-Determination Act”. Former subsec. (d) redesignated (c).
+Subsecs. (d), (e). Pub. L. 102–573, §§301(3), 902(4)(B), redesignated subsec. (e) as (d) and substituted "section 102 of the Indian Self-Determination Act" for "sections 102 and 103(b) of the Indian Self-Determination Act". Former subsec. (d) redesignated (c).
 
 <b>1988</b>—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (e) relating to consultation, closure of facilities, and reports for former subsecs. (a) to (c) relating to construction and renovation of Service facilities.
 
@@ -250,5 +250,5 @@ Subsecs. (d), (e). Pub. L. 102–573, §§301(3), 902(4)(B), redesignated subsec
 
 <i><sup>2</sup></i><i> So in original. Subsec. (h) is set out above.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “paragraph (1) or (2)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "paragraph (1) or (2)".</i>
 

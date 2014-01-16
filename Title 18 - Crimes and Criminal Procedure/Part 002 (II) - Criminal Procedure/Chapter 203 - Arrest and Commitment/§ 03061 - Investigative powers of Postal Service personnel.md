@@ -34,7 +34,7 @@
 
 &emsp;(B) conduct investigations, on and off the property in question, of offenses that may have been committed against property owned or occupied by the Postal Service or persons on the property.
 
-(4)(A) As to such property, the Postmaster General may prescribe regulations necessary for the protection and administration of property owned or occupied by the Postal Service and persons on the property. The regulations may include reasonable penalties, within the limits prescribed in subparagraph (B), for violations of the regulations. The regulations shall be posted and remain posted in a conspicuous place on the property.
+(4)(A) As to such property, the Postmaster General may prescribe regulations necessary for the protection and administration of property owned or occupied by the Postal Service and persons on the property. The regulations may include reasonable penalties, within the limits prescribed in subparagraph (B), for violations ofthe regulations. The regulations shall be posted and remain posted in a conspicuous place on the property.
 
 (B) A person violating a regulation prescribed under this subsection shall be fined under this title, imprisoned for not more than 30 days, or both.
 
@@ -44,27 +44,27 @@
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–435 added subsec. (c).
 
-<b>1988</b>—Pub. L. 100–690 substituted “Investigative powers of Postal Service personnel” for “Powers of postal personnel” in section catchline, and amended text generally. Prior to amendment, text read as follows:
+<b>1988</b>—Pub. L. 100–690 substituted "Investigative powers of Postal Service personnel" for "Powers of postal personnel" in section catchline, and amended text generally. Prior to amendment, text read as follows:
 
-“(a) Subject to subsection (b) of this section, officers and employees of the Postal Service performing duties related to the inspection of postal matters may, to the extent authorized by the Board of Governors—
+"(a) Subject to subsection (b) of this section, officers and employees of the Postal Service performing duties related to the inspection of postal matters may, to the extent authorized by the Board of Governors—
 
-&emsp;“(1) serve warrants and subpenas issued under the authority of the United States;
+&emsp;"(1) serve warrants and subpenas issued under the authority of the United States;
 
-&emsp;“(2) make arrests without warrant for offenses against the United States committed in their presence; and
+&emsp;"(2) make arrests without warrant for offenses against the United States committed in their presence; and
 
-&emsp;“(3) make arrests without warrant for felonies cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such a felony.
+&emsp;"(3) make arrests without warrant for felonies cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such a felony.
 
-“(b) The powers granted by subsection (a) of this section shall be exercised only in the enforcement of laws regarding property of the United States in the custody of the Postal Service, including property of the Postal Service, the use of the mails, and other postal offenses.”
+"(b) The powers granted by subsection (a) of this section shall be exercised only in the enforcement of laws regarding property of the United States in the custody of the Postal Service, including property of the Postal Service, the use of the mails, and other postal offenses."
 
-<b>1970</b>—Pub. L. 91–375, §6(j)(38)(A)(i), substituted “postal personnel” for “postal inspectors” in section catchline.
+<b>1970</b>—Pub. L. 91–375, §6(j)(38)(A)(i), substituted "postal personnel" for "postal inspectors" in section catchline.
 
-Subsec. (a). Pub. L. 91–375, §6(j)(38)(A)(ii), substituted “officers and employees of the Postal Service performing duties related to the inspection of postal matters may, to the extent authorized by the Board of Governors—” for “postal inspectors may, to the extent authorized by the Postmaster General—”.
+Subsec. (a). Pub. L. 91–375, §6(j)(38)(A)(ii), substituted "officers and employees of the Postal Service performing duties related to the inspection of postal matters may, to the extent authorized by the Board of Governors—" for "postal inspectors may, to the extent authorized by the Postmaster General—".
 
-Subsec. (b). Pub. L. 91–375, §6(j)(38)(A)(iii), substituted “Postal Service, including property of the Postal Service,” for “postal service”.
+Subsec. (b). Pub. L. 91–375, §6(j)(38)(A)(iii), substituted "Postal Service, including property of the Postal Service," for "postal service".
 
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “United”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "United".</i>
 

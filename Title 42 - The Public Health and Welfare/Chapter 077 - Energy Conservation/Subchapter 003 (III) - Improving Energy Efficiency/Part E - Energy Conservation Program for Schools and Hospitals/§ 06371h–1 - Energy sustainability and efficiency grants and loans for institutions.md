@@ -6,31 +6,31 @@ In this section:
 
 #### (1) Combined heat and power
 
-&emsp;The term “combined heat and power” means the generation of electric energy and heat in a single, integrated system, with an overall thermal efficiency of 60 percent or greater on a higher-heating-value basis.
+&emsp;The term "combined heat and power" means the generation of electric energy and heat in a single, integrated system, with an overall thermal efficiency of 60 percent or greater on a higher-heating-value basis.
 
 #### (2) District energy systems
 
-&emsp;The term “district energy systems” means systems providing thermal energy from a renewable energy source, thermal energy source, or highly efficient technology to more than 1 building or fixed energy-consuming use from 1 or more thermal-energy production facilities through pipes or other means to provide space heating, space conditioning, hot water, steam, compression, process energy, or other end uses for that energy.
+&emsp;The term "district energy systems" means systems providing thermal energy from a renewable energy source, thermal energy source, or highly efficient technology to more than 1 building or fixed energy-consuming use from 1 or more thermal-energy production facilities through pipes or other means to provide space heating, space conditioning, hot water, steam, compression, process energy, or other end uses for that energy.
 
 #### (3) Energy sustainability
 
-&emsp;The term “energy sustainability” includes using a renewable energy source, thermal energy source, or a highly efficient technology for transportation, electricity generation, heating, cooling, lighting, or other energy services in fixed installations.
+&emsp;The term "energy sustainability" includes using a renewable energy source, thermal energy source, or a highly efficient technology for transportation, electricity generation, heating, cooling, lighting, or other energy services in fixed installations.
 
 #### (4) Institution of higher education
 
-&emsp;The term “institution of higher education” has the meaning given the term in section 15801 of this title.
+&emsp;The term "institution of higher education" has the meaning given the term in section 15801 of this title.
 
 #### (5) Institutional entity
 
-&emsp;The term “institutional entity” means an institution of higher education, a public school district, a local government, a municipal utility, or a designee of 1 of those entities.
+&emsp;The term "institutional entity" means an institution of higher education, a public school district, a local government, a municipal utility, or a designee of 1 of those entities.
 
 #### (6) Renewable energy source
 
-&emsp;The term “renewable energy source” has the meaning given the term in section 918c of title 7.
+&emsp;The term "renewable energy source" has the meaning given the term in section 918c of title 7.
 
 #### (7) Sustainable energy infrastructure
 
-&emsp;The term “sustainable energy infrastructure” means—
+&emsp;The term "sustainable energy infrastructure" means—
 
 &emsp;&emsp;(A) facilities for production of energy from renewable energy sources, thermal energy sources, or highly efficient technologies, including combined heat and power or other waste heat use; and
 
@@ -38,7 +38,7 @@ In this section:
 
 #### (8) Thermal energy source
 
-&emsp;The term “thermal energy source” means—
+&emsp;The term "thermal energy source" means—
 
 &emsp;&emsp;(A) a natural source of cooling or heating from lake or ocean water; and
 
@@ -288,7 +288,7 @@ Not later than 180 days after December 19, 2007, the Secretary shall establish p
 
 #### (1) Grants
 
-&emsp;There is authorized to be appropriated for the cost of grants authorized in subsections (b), (c), and (d) $250,000,000 for each of fiscal years 2009 through 2013, of which not more than 5 percent may be used for administrative expenses.
+&emsp;There is authorized to be appropriated for the cost of grants authorized in subsections\(b), (c), and (d) $250,000,000 for each of fiscal years 2009 through 2013, of which not more than 5 percent may be used for administrative expenses.
 
 #### (2) Loans
 

@@ -34,13 +34,13 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: “Upon the declaration of war if Congress so directs in the declaration or when the President directs, the Coast Guard shall operate as a service in the Navy, and shall so continue until the President, by Executive order, transfers the Coast Guard back to the Department of Homeland Security. While operating as a service in the Navy, the Coast Guard shall be subject to the orders of the Secretary of the Navy who may order changes in Coast Guard operations to render them uniform, to the extent he deems advisable, with Navy operations.”
+<b>2012</b>—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: "Upon the declaration of war if Congress so directs in the declaration or when the President directs, the Coast Guard shall operate as a service in the Navy, and shall so continue until the President, by Executive order, transfers the Coast Guard back to the Department of Homeland Security. While operating as a service in the Navy, the Coast Guard shall be subject to the orders of the Secretary of the Navy who may order changes in Coast Guard operations to render them uniform, to the extent he deems advisable, with Navy operations."
 
-<b>2006</b>—Pub. L. 109–241 inserted “if Congress so directs in the declaration” after “Upon the declaration of war”.
+<b>2006</b>—Pub. L. 109–241 inserted "if Congress so directs in the declaration" after "Upon the declaration of war".
 
-<b>2002</b>—Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
+<b>2002</b>—Pub. L. 107–296 substituted "Department of Homeland Security" for "Department of Transportation".
 
-<b>1976</b>—Pub. L. 94–546 substituted “Executive” for “executive” and “Department of Transportation” for “Treasury Department”.
+<b>1976</b>—Pub. L. 94–546 substituted "Executive" for "executive" and "Department of Transportation" for "Treasury Department".
 
 #### Effective Date of 2002 Amendment
 

@@ -6,7 +6,7 @@ Decisions Made Before October 1, 1988.—For each eligible place for which a dec
 
 (b)
 
-Decisions Not Made Before October 1, 1988.—(1) The Secretary shall decide on the level of basic essential air service for each eligibleplace for which a decision was not made before October 1, 1988, establishing the level of essential air transportation, when the Secretary receives notice that service to that place will be provided by only one air carrier. The Secretary shall make the decision by the last day of the 6-month period beginning on the date the Secretary receives the notice. The Secretary may impose notice requirements necessary to carry out this subsection. Before making a decision, the Secretary shall consider the views of any interested community and the appropriate State authority of the State in which the community is located.
+Decisions Not Made Before October 1, 1988.—(1) The Secretary shall decide on the level of basic essential air service for each eligible place for which a decision was not made before October 1, 1988, establishing the level of essential air transportation, when the Secretary receives notice that service to that place will be provided by only one air carrier. The Secretary shall make the decision by the last day of the 6-month period beginning on the date the Secretary receives the notice. The Secretary may impose notice requirements necessary to carry out this subsection. Before making a decision, the Secretary shall consider the views of any interested community and the appropriate State authority of the State in which the community is located.
 
 (2) Until the Secretary has made a decision on a level of basic essential air service for an eligible place under this subsection, the Secretary, on petition by an appropriate representative of the place, shall prohibit an air carrier from ending, suspending, or reducing air transportation to that place that appears to deprive the place of basic essential air service.
 
@@ -18,7 +18,7 @@ Availability of Compensation.—(1) If the Secretary decides that basic essentia
 
 &emsp;(B) the contractual and marketing arrangements the applicant has made with a larger carrier to ensure service beyond the hub airport;
 
-&emsp;(C) the interline arrangements that the applicant has made with a larger carrier to allow passengers and cargo of the applicant at the hub airport to be transported by the larger carrier through one reservation, ticket, and baggage check-in;
+&emsp;(C) the interline arrangements that the applicant has made with a larger carrier to allow passengers and cargo of the applicant at thehub airport to be transported by the larger carrier through one reservation, ticket, and baggage check-in;
 
 &emsp;(D) the preferences of the actual and potential users of air transportation at the eligible place, giving substantial weight to the views of the elected officials representing the users;
 
@@ -74,13 +74,13 @@ Determination by secretary.—The Secretary shall issue an order restoring the e
 
 &emsp;&emsp;&emsp;(i) the rate of subsidy per passenger under the proposal does not exceed the subsidy cap;
 
-&emsp;&emsp;&emsp;(ii) the proposal is likely to result in an average number of enplanements per daythat will satisfy the requirement in section 41731(a)(1)(B); and
+&emsp;&emsp;&emsp;(ii) the proposal is likely to result in an average number of enplanements per day that will satisfy the requirement in section 41731(a)(1)(B); and
 
 &emsp;&emsp;&emsp;(iii) the proposal is consistent with the legal and regulatory requirements of the essential air service program.
 
 (h)
 
-Subsidy Cap Defined.—In this section, the term “subsidy cap” means the subsidy-per-passenger cap established by section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 (Public Law 106–69; 113 Stat. 1022).
+Subsidy Cap Defined.—In this section, the term "subsidy cap" means the subsidy-per-passenger cap established by section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 (Public Law 106–69; 113 Stat. 1022).
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1145; Pub. L. 106–181, title II, §209(b), Apr. 5, 2000, 114 Stat. 95; Pub. L. 112–95, title IV, §§423–425, Feb. 14, 2012, 126 Stat. 97, 98.)
 
@@ -120,13 +120,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(b)(1), (3), (4), (9); added
 
 49 App.:1389(b)(1)(D).
 
-In subsection (a), the words “the level of basic essential air service for that place shall be the level established by the Secretary of Transportation for that place” are substituted for “Such determination shall be made” because the determinations for those places have been made. The words “by not later than December 29, 1988” are substituted for “no later than the last day of the 1-year period beginning on December 30, 1987” for clarity. The words “and only after consideration of the views of any interested community and the State agency of the State in which such community is located” and 49 App.:1389(b)(1)(C) are omitted as executed.
+In subsection (a), the words "the level of basic essential air service for that place shall be the level established by the Secretary of Transportation for that place" are substituted for "Such determination shall bemade" because the determinations for those places have been made. The words "by not later than December 29, 1988" are substituted for "no later than the last day of the 1-year period beginning on December 30, 1987" for clarity. The words "and only after consideration of the views of any interested community and the State agency of the State in which such community is located" and 49 App.:1389(b)(1)(C) are omitted as executed.
 
-In subsections (b)(1) and (e), the words “appropriate State authority” are substituted for “State agency” for clarity and consistency with the source provisions restated in section 41734(a) of the revised title.
+In subsections (b)(1) and (e), the words "appropriate State authority" are substituted for "State agency" for clarity and consistency with the source provisions restated in section 41734(a) of the revised title.
 
-In section (b)(2), the words “that appears to deprive” are substituted for “which reasonably appears to deprive” to eliminate an unnecessary word.
+In section (b)(2), the words "that appears to deprive" are substituted for "which reasonably appears to deprive" to eliminate an unnecessary word.
 
-In subsection (c)(1), before clause (A), the words “an air carrier may apply to provide basic essential air service to the place for compensation” are substituted for “applications may be submitted by any air carrier that is willing to provide such service to such point for compensation” for clarity and to eliminate unnecessary words.
+In subsection (c)(1), before clause (A), the words "an air carrier may apply to provide basic essential air service to the place for compensation" are substituted for "applications may be submitted by any air carrier that is willing to provide such service to such point for compensation" for clarity and to eliminate unnecessary words.
 
 #### References in Text
 
@@ -144,7 +144,7 @@ Subsec. (f). Pub. L. 112–95, §424, added subsec. (f).
 
 Subsecs. (g), (h). Pub. L. 112–95, §425, added subsecs. (g) and (h).
 
-<b>2000</b>—Subsec. (e). Pub. L. 106–181 inserted before period at end “, to the extent such adjustments are to a level not less than the basic essential air service level established under subsection (a) for the airport that serves the community”.
+<b>2000</b>—Subsec. (e). Pub. L. 106–181 inserted before period at end ", to the extent such adjustments are to a level not less than the basic essential air service level established under subsection (a) for the airport that serves the community".
 
 #### Effective Date of 2000 Amendment
 
@@ -152,5 +152,5 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effect on Certain Orders
 
-Pub. L. 106–181, title II, §209(c), Apr. 5, 2000, 114 Stat. 95, provided that: “All orders issued by the Secretary \[of Transportation\] after September 30, 1999, and before the date of the enactment of this Act \[Apr. 5, 2000\] establishing, modifying, or revoking essential air service levels shall be null and void beginning on the 90th day following such date of enactment. During the 90-day period, the Secretary shall reconsider such orders and shall issue new orders consistent with the amendments made by this section \[amending this section and section 41742 of this title\].”
+Pub. L. 106–181, title II, §209(c), Apr. 5, 2000, 114 Stat. 95, provided that: "All orders issued by the Secretary \[of Transportation\] after September 30, 1999, and before the date of the enactment of this Act \[Apr. 5, 2000\] establishing, modifying, or revoking essential air service levels shall be null and void beginning on the 90th day following such date of enactment. During the 90-day period, the Secretary shall reconsider such orders and shall issue new orders consistent with the amendments made by this section \[amending this section and section 41742 of this title\]."
 

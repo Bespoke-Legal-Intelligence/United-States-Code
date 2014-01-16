@@ -44,15 +44,15 @@ Subsec. (e) of this section, relating to the payment of the actual expenses of p
 
 <b>1987</b>—Subsec. (k). Pub. L. 100–204 added subsec. (k).
 
-<b>1978</b>—Subsec. (j). Pub. L. 95–426 inserted “or destitute United States citizens abroad” after “incarcerated abroad”.
+<b>1978</b>—Subsec. (j). Pub. L. 95–426 inserted "or destitute United States citizens abroad" after "incarcerated abroad".
 
 <b>1977</b>—Subsec. (j). Pub. L. 95–45 added subsec. (j).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department ofState when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–426, title I, §108(b), Oct. 7, 1978, 92 Stat. 966, provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1978.”
+Pub. L. 95–426, title I, §108(b), Oct. 7, 1978, 92 Stat. 966, provided that: "The amendment made by this section \[amending this section\] shall take effect on October 1, 1978."
 

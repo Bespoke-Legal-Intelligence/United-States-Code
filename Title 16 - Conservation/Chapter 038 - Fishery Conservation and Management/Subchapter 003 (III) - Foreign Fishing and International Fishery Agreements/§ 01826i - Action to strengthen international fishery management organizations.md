@@ -16,7 +16,7 @@ The Secretary, in consultation with the Secretary of State, and in cooperation w
 
 &emsp;&emsp;(F) to adopt shark conservation measures, including measures to prohibit removal of any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea;
 
-&emsp;(2) urging international fishery management organizations to which the United States is a member, as well as all members of those organizations, to adopt and expand the use of market-related measures to combat illegal, unreported, or unregulated fishing, including—
+&emsp;(2) urging international fishery management organizations to which the United States is amember, as well as all members of those organizations, to adopt and expand the use of market-related measures to combat illegal, unreported, or unregulated fishing, including—
 
 &emsp;&emsp;(A) import prohibitions, landing restrictions, or other market-based measures needed to enforce compliance with international fishery management organization measures, such as quotas and catch limits;
 
@@ -38,7 +38,7 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 <b>2011</b>—Par. (1)(F). Pub. L. 111–348, §102(a)(1), added subpar. (F).
 
-Par. (2)(C). Pub. L. 111–348, §102(a)(2), struck out “and” at end.
+Par. (2)(C). Pub. L. 111–348, §102(a)(2), struck out "and" at end.
 
 Par. (3). Pub. L. 111–348, §102(a)(4), added par. (3). Former par. (3) redesignated (4).
 

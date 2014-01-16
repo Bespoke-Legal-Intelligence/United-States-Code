@@ -152,35 +152,35 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §611(e); added July 21, 1968, Pu
 
 49 App.:1655(c)(1).
 
-In this section, the word “Administrator” in section 609(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 779) is retained on authority of 49:106(g). The words “modifying”, “modify”, and “modified” are omitted as surplus.
+In this section, the word "Administrator" in section 609(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 779) is retained on authority of 49:106(g). The words "modifying", "modify", and "modified" are omitted as surplus.
 
-In subsection (a), the words “airman holding a certificate issued under section 44703 of this title” are substituted for “civil airman” for clarity.
+In subsection (a), the words "airman holding a certificate issued under section 44703 of this title" are substituted for "civil airman" for clarity.
 
-In subsection (b)(1), before subclause (A), the words “certificate issued under this chapter” are substituted for “type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate (including airport operating certificate), or air agency certificate” to eliminate unnecessary words.
+In subsection (b)(1), before subclause (A), the words "certificate issued under this chapter" are substituted for "type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate (including airport operating certificate), or air agency certificate" to eliminate unnecessary words.
 
-In subsection (b)(2), the words “in his discretion” and “regarding the use or operation of an aircraft” in 49 App.:1429(b) are omitted as surplus.
+In subsection (b)(2), the words "in his discretion" and "regarding the use or operation of an aircraft" in 49 App.:1429(b) are omitted as surplus.
 
-In subsection (c), the words “cases of” in 49 App.:1429(a) are omitted as surplus.
+In subsection (c), the words "cases of" in 49 App.:1429(a) are omitted as surplus.
 
-In subsection (d)(1), before clause (A), the word “adversely” is substituted for “whose certificate is” in 49 App.:1429(a), and the words “an opportunity for a” are added, for consistency in the revised title and with other titles of the United States Code. The words “of the FAA” in 49 App.:1431(e) are omitted as surplus.
+In subsection (d)(1), before clause (A), the word "adversely" is substituted for "whose certificate is" in 49 App.:1429(a), and the words "an opportunity for a" are added, for consistency in the revised title and with other titles of the United States Code. The words "of the FAA" in 49 App.:1431(e) are omitted as surplus.
 
-In subsection (d)(2), the words “consistent with this subsection” are omitted as surplus.
+In subsection (d)(2), the words "consistent with this subsection" are omitted as surplus.
 
-In subsection (d)(3), the word “Administrator” is substituted for “Federal Aviation Administration” because of 49:106(b) and (g).
+In subsection (d)(3), the word "Administrator" is substituted for "Federal Aviation Administration" because of 49:106(b) and (g).
 
-In subsection (e), before clause (1), the words “the effectiveness of” are omitted as surplus.
+In subsection (e), before clause (1), the words "the effectiveness of" are omitted as surplus.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d)(3). Pub. L. 112–153 struck out “but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law” after “Administrator”.
+<b>2012</b>—Subsec. (d)(3). Pub. L. 112–153 struck out "but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law" after "Administrator".
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–176 inserted “design organization, production certificate holder,” after “appliance,”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–176 inserted "design organization, production certificate holder," after "appliance,".
 
-<b>2000</b>—Subsec. (e). Pub. L. 106–181 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “When a person files an appeal with the Board under subsection (d) of the section, the order of the Administrator is stayed. However, if the Administrator advises the Board that an emergency exists and safety in air commerce or air transportation requires the order to be effective immediately—
+<b>2000</b>—Subsec. (e). Pub. L. 106–181 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "When a person files an appeal with the Board under subsection (d) of the section, the order of the Administrator is stayed. However, if the Administrator advises the Board that an emergency exists and safety in air commerce or air transportation requires the order to be effective immediately—
 
-&emsp;“(1) the order is effective; and
+&emsp;"(1) the order is effective; and
 
-&emsp;“(2) the Board shall make a final disposition of the appeal not later than 60 days after the Administrator so advises the Board.”
+&emsp;"(2) the Board shall make a final disposition of the appeal not later than 60 days after the Administrator so advises the Board."
 
 #### Effective Date of 2003 Amendment
 

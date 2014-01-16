@@ -38,5 +38,5 @@ A prior section 2017, Pub. L. 95–561, title XI, §1137, as added Pub. L. 103�
 
 Another prior section 2017, Pub. L. 95–561, title XI, §1137, Nov. 1, 1978, 92 Stat. 2327, related to constitutional and civil rights of Indian children attending Bureau schools, prior to the general amendment of this chapter by Pub. L. 103–382.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “2509”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "2509".</i>
 

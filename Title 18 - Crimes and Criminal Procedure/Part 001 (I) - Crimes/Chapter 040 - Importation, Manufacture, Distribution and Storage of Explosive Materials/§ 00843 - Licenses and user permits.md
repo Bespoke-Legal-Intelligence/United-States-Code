@@ -1,6 +1,6 @@
 ### §843. Licenses and user permits
 
-(a) An application for a user permit or limited permit or a license to import, manufacture, or deal in explosive materials shall be in such form and contain such information as the Attorney General shall by regulation prescribe, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person. Each applicant for a license or permit shall pay a fee to becharged as set by the Attorney General, said fee not to exceed $50 for a limited permit and $200 for any other license or permit. Each license or user permit shall be valid for not longer than 3 years from the date of issuance and each limited permit shall be valid for not longer than 1 year from the date of issuance. Each license or permit shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit, and upon payment of a renewal fee not to exceed one-half of the original fee.
+(a) An application for a user permit or limited permit or a license to import, manufacture, or deal in explosive materials shall be in such form and contain such information as the Attorney General shall by regulation prescribe, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person. Each applicant for a license or permit shall pay a fee to be charged as set by the Attorney General, said fee not to exceed $50 for a limited permit and $200 for any other license or permit. Each license or user permit shall be valid for not longer than 3 years from the date of issuance and each limited permit shall be valid for not longer than 1 year from the date of issuance. Each license or permit shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit, and upon payment of a renewal fee not to exceed one-half of the original fee.
 
 (b) Upon the filing of a proper application and payment of the prescribed fee, and subject to the provisions of this chapter and other applicable laws, the Attorney General shall issue to such applicant the appropriate license or permit if—
 
@@ -20,7 +20,7 @@
 
 &emsp;(7) in the case of a limited permit, the applicant has certified in writing that the applicant will not receive explosive materials on more than 6 separate occasions during the 12-month period for which the limited permit is valid.
 
-(c) The Attorney General shall approve or deny an application within a period of 90 days for licenses and permits, beginning on the date such application is received by the Attorney General.
+(c) The Attorney General shall approve or deny an application within a period of 90 daysfor licenses and permits, beginning on the date such application is received by the Attorney General.
 
 (d) The Attorney General may revoke any license or permit issued under this section if in the opinion of the Attorney General the holder thereof has violated any provision of this chapter or any rule or regulation prescribed by the Attorney General under this chapter, or has become ineligible to acquire explosive materials under section 842(d). The Secretary's <sup>2</sup> action under this subsection may be reviewed only as provided in subsection (e)(2) of this section.
 
@@ -68,31 +68,31 @@ Reimbursement.—The Secretary <sup>1</sup> shall, by regulation, authorize rei
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–296, §1122(c), in first sentence, inserted “or limited permit” after “user permit” and inserted before period at end “, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person”, in second sentence, substituted “$50 for a limited permit and $200 for any other” for “$200 for each”, inserted third and fourth sentences, and struck out former third sentence which read as follows: “Each license or permit shall be valid for no longer than three years from date of issuance and shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit and upon payment of a renewal fee not to exceed one-half of the original fee.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–296, §1122(c), in first sentence, inserted "or limited permit" after "user permit" and inserted before period at end ", including thenames of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person", in second sentence, substituted "$50 for a limited permit and $200 for any other" for "$200 for each", inserted third and fourth sentences, and struck out former third sentence which read as follows: "Each license or permit shall be valid for no longer than three years from date of issuance and shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit and upon payment of a renewal fee not to exceed one-half of the original fee."
 
-Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
+Pub. L. 107–296, §1112(e)(3), substituted "Attorney General" for "Secretary" in two places.
 
-Subsec. (b). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” in introductory provisions.
+Subsec. (b). Pub. L. 107–296, §1112(e)(3), substituted "Attorney General" for "Secretary" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 107–296, §1122(d)(1), added par. (1) and struck out former par. (1) which read as follows: “the applicant (including in the case of a corporation, partnership, or association, any individual possessing, directly or indirectly, the power to direct or cause the direction of the management and policies of the corporation, partnership, or association) is not a person to whom the distribution of explosive materials would be unlawful under section 842(d) of this chapter;”.
+Subsec. (b)(1). Pub. L. 107–296, §1122(d)(1), added par. (1) and struck out former par. (1) which read as follows: "the applicant (including in the case of a corporation, partnership, or association, any individual possessing, directly or indirectly, the power to direct or cause the direction of the management and policies of the corporation, partnership, or association) is not a person to whom the distribution of explosive materials would be unlawful under section 842(d) of this chapter;".
 
-Subsec. (b)(4). Pub. L. 107–296, §1122(d)(2), designated existing provisions as subpar. (A), inserted “the Secretary verifies by inspection or, if the application is for an original limited permit or the first or second renewal of such a permit, by such other means as the Secretary determines appropriate, that” before “the applicant”, and added subpar. (B).
+Subsec. (b)(4). Pub. L. 107–296, §1122(d)(2), designated existing provisions as subpar. (A), inserted "the Secretary verifies by inspection or, if the application is for an original limited permit or the first or second renewal of such a permit, by such other means as the Secretary determines appropriate, that" before "the applicant", and added subpar. (B).
 
-Pub. L. 107–296, §1112(e)(3), substituted “the Attorney General by regulations” for “the Secretary by regulations”.
+Pub. L. 107–296, §1112(e)(3), substituted "the Attorney General by regulations" for "the Secretary by regulations".
 
 Subsec. (b)(6), (7). Pub. L. 107–296, §1122(d)(3), (4), added pars. (6) and (7).
 
-Subsec. (c). Pub. L. 107–296, §1122(e), substituted “90 days for licenses and permits,” for “forty-five days”.
+Subsec. (c). Pub. L. 107–296, §1122(e), substituted "90 days for licenses and permits," for "forty-five days".
 
-Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
+Pub. L. 107–296, §1112(e)(3), substituted "Attorney General" for "Secretary" in two places.
 
-Subsecs. (d), (e). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
+Subsecs. (d), (e). Pub. L. 107–296, §1112(e)(3), substituted "Attorney General" for "Secretary" wherever appearing.
 
-Subsec. (f). Pub. L. 107–296, §1122(f), in first sentence, substituted “Licensees and holders of user permits” for “Licensees and permittees” and inserted “licensees and permittees” before “shall submit”, in second sentence, substituted “holder of a user permit” for “permittee”, and inserted at end “The Secretary may inspect the places of storage for explosive materials of an applicant for a limited permit or, at the time of renewal of such permit, a holder of a limited permit, only as provided in subsection (b)(4).”
+Subsec. (f). Pub. L. 107–296, §1122(f), in first sentence, substituted "Licensees and holders of user permits" for "Licensees and permittees" and inserted "licensees and permittees" before "shall submit", in second sentence, substituted "holder of a user permit" for "permittee", and inserted at end "The Secretary may inspect the places of storage for explosive materials of an applicant for a limited permit or, at the time of renewal of such permit, a holder of a limited permit, only as provided in subsection (b)(4)."
 
-Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
+Pub. L. 107–296, §1112(e)(3), substituted "Attorney General" for "Secretary" wherever appearing.
 
-Subsec. (g). Pub. L. 107–296, §1122(g), inserted “user” before “permits”.
+Subsec. (g). Pub. L. 107–296, §1122(g), inserted "user" before "permits".
 
 Subsec. (h). Pub. L. 107–296, §1122(h), added subsec. (h).
 
@@ -104,19 +104,19 @@ Amendment by sections 1112(e)(3) and 1124 of Pub. L. 107–296 effective 60 days
 
 Pub. L. 107–296, title XI, §1122(i), Nov. 25, 2002, 116 Stat. 2283, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section and sections 841 and 842 of this title\] shall take effect 180 days after the date of enactment of this Act \[Nov. 25, 2002\].
 
-“(2)
+"(2)
 
-Exception.—Notwithstanding any provision of this Act \[see Tables for classification\], a license or permit issued under section 843 of title 18, United States Code, before the date of enactment of this Act \[Nov. 25, 2002\], shall remain valid until that license or permit is revoked under section 843(d) or expires, or until a timely application for renewal is acted upon.”
+Exception.—Notwithstanding any provision of this Act \[see Tables for classification\], a license or permit issued under section 843 of title 18, United States Code, before the date of enactment of this Act \[Nov. 25, 2002\], shall remain valid until that license or permit is revoked under section 843(d) or expires, or until a timely application for renewal is acted upon."
 
 #### Continuation in Business or Operation of Any Person Engaged in Business or Operation on October 15, 1970
 
-Filing of application for a license or permit prior to the effective date of this section as authorizing any person engaged in a business or operation requiring alicense or a permit on Oct. 15, 1970 to continue such business or operation pending final action on such application, see section 1105(c) of Pub. L. 91–452, set out as a note under section 841 of this title.
+Filing of application for a license or permit prior to the effective date of this section as authorizing any person engaged in a business or operation requiring a license or a permit on Oct. 15, 1970 to continue such business or operation pending final action on such application, see section 1105(c) of Pub. L. 91–452, set out as a note under section 841 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Attorney General”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Attorney General".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Attorney General's”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Attorney General's".</i>
 

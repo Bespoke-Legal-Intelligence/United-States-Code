@@ -78,7 +78,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any failure by any partnership to pay on the date prescribed therefor any amount required by subsection (a)(2) or (b)(1)(A), there is hereby imposed on such partnership a penalty of 10 percent of the underpayment. For purposes of the preceding sentence, the term “underpayment” means the excess of any payment required under this section over the amount (if any) paid on or before the date prescribed therefor.
+&emsp;&emsp;In the case of any failure by any partnership to pay on the date prescribed therefor any amount required by subsection (a)(2) or (b)(1)(A), there is hereby imposed on such partnership a penalty of 10 percent of the underpayment. For purposes of the preceding sentence, the term "underpayment" means the excess of any payment required under this section over the amount (if any) paid on or before the date prescribed therefor.
 
 #### (B) Accuracy-related and fraud penalties made applicable
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (1) Partnership adjustment
 
-&emsp;The term “partnership adjustment” means any adjustment in the amount of any partnership item of an electing large partnership.
+&emsp;The term "partnership adjustment" means any adjustment in the amount of any partnership item of an electing large partnership.
 
 #### (2) When adjustment takes effect
 
@@ -104,11 +104,11 @@ For purposes of this section—
 
 #### (3) Adjusted year
 
-&emsp;The term “adjusted year” means the partnership taxable year to which the item being adjusted relates.
+&emsp;The term "adjusted year" means the partnership taxable year to which the item being adjusted relates.
 
 #### (4) Return due date
 
-&emsp;The term “return due date” means, with respect to any taxable year, the date prescribed for filing the partnership return for such taxable year (determined without regard to extensions).
+&emsp;The term "return due date" means, with respect to any taxable year, the date prescribed for filing the partnership return for such taxable year (determined without regard to extensions).
 
 #### (5) Adjustments involving changes in character
 
@@ -122,7 +122,7 @@ No deduction shall be allowed under subtitle A for any payment required to be ma
 
 #### Prior Provisions
 
-A prior section 6242, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1691, directed that shareholder's return be consistent with corporate return, prior to repeal byPub. L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
+A prior section 6242, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1691, directed that shareholder's return be consistent with corporate return, prior to repeal by Pub. L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
 
 A prior section 6243, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1691, directed that shareholders be notified of proceedings and given opportunity to participate, prior to repeal by Pub. L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
 

@@ -6,7 +6,7 @@ The provisions of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321
 
 #### (b) Annual reports
 
-The Administrator shall include in the annual report submitted by the Western Area PowerAdministration (1) a description of the activities undertaken by the Administrator and by customers under sections 7275 to 7276c of this title and (2) an estimate of the energy savings and renewable resource benefits achieved as a result of such activities.
+The Administrator shall include in the annual report submitted by the Western Area Power Administration (1) a description of the activities undertaken by the Administrator and by customers under sections 7275 to 7276c of this title and (2) an estimate of the energy savings and renewable resource benefits achieved as a result of such activities.
 
 #### (c) State regulated investor-owned utilities
 

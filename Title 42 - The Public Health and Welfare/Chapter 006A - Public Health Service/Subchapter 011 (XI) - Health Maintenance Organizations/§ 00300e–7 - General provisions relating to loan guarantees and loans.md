@@ -2,7 +2,7 @@
 
 #### (a) Conditions
 
-(1) The Secretary may not approve an application for a loan guarantee under this subchapter unless he determines that (A) the terms, conditions, security (if any), and schedule and amount of repayments with respect to the loan are sufficient to protect the financial interests of the United States and are otherwise reasonable, including a determination that the rate of interest does not exceed such per centum per annum on the principal obligation outstanding as the Secretary determines to be reasonable,taking into account the range of interest rates prevailing in the private market for loans with similar maturities, terms, conditions, and security and the risks assumed by the United States, and (B) the loan would not be available on reasonable terms and conditions without the guarantee under this subchapter.
+(1) The Secretary may not approve an application for a loan guarantee under this subchapter unless he determines that (A) the terms, conditions, security (if any), and schedule and amount of repayments with respect to the loan are sufficient to protect the financial interests of the United States and are otherwise reasonable, including a determination that the rate of interest does not exceed such per centum per annum on the principal obligation outstanding as the Secretary determines to be reasonable, taking into account the range of interest rates prevailing in the private market for loans with similar maturities, terms, conditions, and security and the risks assumed by the United States, and (B) the loan would not be available on reasonable terms and conditions without the guarantee under this subchapter.
 
 (2)(A) The United States shall be entitled to recover from the applicant for a loan guarantee under this subchapter the amount of any payment made pursuant to such guarantee, unless the Secretary for good cause waives such right of recovery; and, upon making any such payment, the United States shall be subrogated to all of the rights of the recipient of the payments with respect to which the guarantee was made.
 
@@ -38,41 +38,41 @@
 
 #### (d) Loan guarantee fund
 
-(1) There is established in the Treasury a loan guarantee fund (hereinafter in this subsection referred to as the “fund”) which shall be available to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriation Acts, to enable him to discharge his responsibilities under loan guarantees issued by him under this subchapter and to take the action authorized by subsection\(f) of this section. There are authorized to be appropriated from time to time such amounts as may be necessary to provide the sums required for the fund. To the extent authorized in appropriation Acts, there shall also be deposited in the fund amounts received by the Secretary in connection with loan guarantees under this subchapter and other property or assets derived by him from his operations respecting such loan guarantees, including any money derived from the sale of assets.
+(1) There is established in the Treasury a loan guarantee fund (hereinafter in this subsection referred to as the "fund") which shall be available to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriation Acts, to enable him to discharge his responsibilities under loan guarantees issued by him under this subchapter and to take the action authorized by subsection (f) of this section. There are authorized to be appropriated from time to time such amounts as may be necessary to provide the sums required for the fund. To the extent authorized in appropriation Acts, there shall also be deposited in the fund amounts received by the Secretary in connection with loan guarantees under this subchapter and other property or assets derived by him from his operations respecting such loan guarantees, including any money derived from the sale of assets.
 
 (2) If at any time the sums in the funds are insufficient to enable the Secretary to discharge his responsibilities under guarantees issued by him before October 1, 1986, under this subchapter and to take the action authorized by subsection (f) of this section, he is authorized to issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions, as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury shall purchase any notes and other obligations issued under this paragraph and for that purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which the securities may be issued under that chapter are extended to include any purchase of such notes and obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this paragraph. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States. Sums borrowed under this paragraph shall be deposited in the fund and redemption of such notes and obligations shall be made by the Secretary from the fund.
 
 #### (e) Loan fund
 
-There is established in the Treasury a loan fund (hereinafter in this subsection referred to as the “fund”) which shall be available to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriation Acts, to enable him to make loans under this subchapter and to take the action authorized by subsection (f) of this section. There shall also be deposited in the fund amounts received by the Secretary as interest payments and repayment of principal on loans made under this subchapter and other property or assets derived by him from his operations respecting such loans, from the sale of loans under subsection (c) of this section, or from the sale of assets.
+There is established in the Treasury a loan fund (hereinafter in this subsection referred to as the "fund") which shall be available to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriation Acts, to enable him to make loans under this subchapter and to take the action authorized by subsection (f) of this section. There shall also be deposited in the fund amounts received by the Secretary as interest payments and repayment of principal on loans made under this subchapter and other property or assets derived by him from his operations respecting such loans, from the sale of loans under subsection (c) of this section, or from the sale of assets.
 
 #### (f) Actions to protect interest of United States in event of default
 
-The Secretary may take such action as he deems appropriate to protect the interest of the United States in the event of a default on a loan made or guaranteed under this subchapter, including taking possession of, holding, and using real property pledged as security for such a loan or loan guarantee.
+The Secretary may take such action as he deems appropriate to protect the interest of the United States in the event of a default on a loanmade or guaranteed under this subchapter, including taking possession of, holding, and using real property pledged as security for such a loan or loan guarantee.
 
 (July 1, 1944, ch. 373, title XIII, §1308, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 927; amended Pub. L. 94–460, title I, §109(b)(2), (c), Oct. 8, 1976, 90 Stat. 1950; Pub. L. 95–559, §4(c), Nov. 1, 1978, 92 Stat. 2132; Pub. L. 97–35, title IX, §945, Aug. 13, 1981, 95 Stat. 577; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–660, title VIII, §807, Nov. 14, 1986, 100 Stat. 3800.)
 
 #### Codification
 
-In subsec. (d)(2), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act” and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d)(2), "chapter 31 of title 31" and "that chapter" substituted for "the Second Liberty Bond Act" and "that Act", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>1986</b>—Subsec. (c)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (c)(3). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-Subsec. (d)(2). Pub. L. 99–660 inserted “before October 1, 1986,” after “guarantees issued by him”.
+Subsec. (d)(2). Pub. L. 99–660 inserted "before October 1, 1986," after "guarantees issued by him".
 
 <b>1981</b>—Subsec. (b)(2). Pub. L. 97–35 inserted provisions relating to changes in the rate of interest by the Secretary, and in cl. (D) made changes in nomenclature.
 
-<b>1978</b>—Subsec. (d). Pub. L. 95–559, §4(c)(2)(A), in pars. (1) and (2) inserted “and to take the action authorized by subsection (f) of this section” after “by him under this subchapter”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–559, §4(c)(2)(A), in pars. (1) and (2) inserted "and to take the action authorized by subsection (f) of this section" after "by him under this subchapter".
 
-Subsec. (e). Pub. L. 95–559, §4(c)(2)(B), inserted “and to take the action authorized by subsection (f) of this section” after “loans under this subchapter”.
+Subsec. (e). Pub. L. 95–559, §4(c)(2)(B), inserted "and to take the action authorized by subsection (f) of this section" after "loans under this subchapter".
 
 Subsec. (f). Pub. L. 95–559, §4(c)(1), added subsec. (f).
 
-<b>1976</b>—Subsec. (a)(1)(A). Pub. L. 94–460, §109(c)(1), substituted “for loans with similar maturities, terms, conditions, and security” for “for similar loans”.
+<b>1976</b>—Subsec. (a)(1)(A). Pub. L. 94–460, §109(c)(1), substituted "for loans with similar maturities, terms, conditions, and security" for "for similar loans".
 
-Subsec. (b)(2)(D). Pub. L. 94–460, §109(c)(2), substituted “marketable obligations of the United States of comparable maturities, adjusted to provide for appropriate administrative charges” for “loans guaranteed under this subchapter”.
+Subsec. (b)(2)(D). Pub. L. 94–460, §109(c)(2), substituted "marketable obligations of the United States of comparable maturities, adjusted to provide for appropriate administrative charges" for "loans guaranteed under this subchapter".
 
 Subsec. (c)(5). Pub. L. 94–460, §109(b)(2), added par. (5).
 

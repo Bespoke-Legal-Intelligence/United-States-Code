@@ -66,9 +66,9 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–241 substituted “Involuntary retirement of enlisted members” for “Enlisted Personnel Board” in section catchline and amended text generally. Prior to amendment, text provided that the Commandant assemble annually a Coast Guard Enlisted Personnel Board to recommend enlisted members for retirement, that the recommendations be transmitted to the Commandant for approval, in which event the enlisted members concerned would be notified and given opportunity to file a written protest, which would require a subsequent annual Board determination and approval by the Commandant to effect the involuntary retirement of that member, and further provided that an enlisted member with twenty years’ service retired from active duty by the Commandant pursuant to this section was to receive retired pay, and that an enlisted member voluntarily or involuntarily retired by reason of twenty years’ service who had been cited for extraordinary heroism was entitled to an increase in retired pay.
+<b>1991</b>—Pub. L. 102–241 substituted "Involuntary retirement of enlisted members" for "Enlisted Personnel Board" in section catchline and amended text generally. Prior to amendment, text provided that the Commandant assemble annually a Coast Guard Enlisted Personnel Board to recommend enlisted members for retirement, that the recommendations be transmitted to the Commandant for approval, in which event the enlisted members concerned would be notified and given opportunity to file a written protest, which would require a subsequent annual Board determination and approval by the Commandant to effect the involuntary retirement of that member, and further provided that an enlisted member with twenty years' service retired from active duty by the Commandant pursuant to this section was to receive retired pay, and that an enlisted member voluntarily or involuntarily retired by reason of twenty years' service who had been cited for extraordinary heroism was entitled to an increase in retired pay.
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–348, §205(b)(9)(A), substituted “retired pay” for “the retired pay of the grade or rating with which retired”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–348, §205(b)(9)(A), substituted "retired pay" for "the retired pay of the grade or rating with which retired".
 
 Subsec. (c). Pub. L. 99–348, §205(b)(9)(B), substituted provision that retired pay be increased by an amount equal to 10 percent of the active-duty pay and permanent additions thereto of the grade or rating with which retired, in the case of a member whose retired pay is computed under 423(a) of this title, or the member's retired pay base under section 1407 of title 10, in the case of a member whose retired pay is computed under section 423(b) of this title for provision that the retired pay be increased by an amount equal to 10 per cent of the active-duty pay and permanent additions thereto of the grade or rating with which retired.
 
@@ -78,13 +78,13 @@ Subsec. (a). Pub. L. 98–557, §15(a)(3)(B), substituted reference to enlisted 
 
 <b>1963</b>—Subsec. (c). Pub. L. 88–114 struck out provisions which entitled enlisted men whose average marks in conduct were not less than 97½ percent of the maximum to a 10-percent increase of their retired pay.
 
-<b>1950</b>—Subsec. (c). Act Aug. 3, 1950, substituted “years’ ” for “years”.
+<b>1950</b>—Subsec. (c). Act Aug. 3, 1950, substituted "years' " for "years".
 
 #### Service Credit for Certain Enlisted Personnel
 
-Act June 3, 1948, ch. 394, 62 Stat. 302, provided: “That those enlisted men of the Coast Guard who, during 1940 and 1941, were discharged from the Coast Guard to accept employment as policemen and guards at the Ivigtut Cryolite Mine, Greenland, and who reenlisted in the Coast Guard within three months after the termination of their service as such policemen and guards, shall be credited with the time between discharge and reenlistment for purposes of longevity pay and retirement, but no increased retroactive pay shall accrue by reason of the enactment of this Act.”
+Act June 3, 1948, ch. 394, 62 Stat. 302, provided: "That those enlisted men of the Coast Guard who, during 1940 and 1941, were discharged from the Coast Guard to accept employment as policemen and guards at the Ivigtut Cryolite Mine, Greenland, and who reenlisted in the Coast Guard within three months after the termination of their service as such policemen and guards, shall be credited with the time between discharge and reenlistment for purposes of longevity pay and retirement, but no increased retroactive pay shall accrue by reason of the enactment of this Act."
 
 #### Enlisted Men in Service on September 6, 1963
 
-Pub. L. 88–114, §2, Sept. 6, 1963, 77 Stat. 144, provided that: “The amendment made by subsection (1) of section 1 of this Act \[amending this section\] does not apply to any enlisted man in service on the effective date of this Act \[Sept. 6, 1963\].”
+Pub. L. 88–114, §2, Sept. 6, 1963, 77 Stat. 144, provided that: "The amendment made by subsection (1) of section 1 of this Act \[amending this section\] does not apply to any enlisted man in service on the effective date of this Act \[Sept. 6, 1963\]."
 

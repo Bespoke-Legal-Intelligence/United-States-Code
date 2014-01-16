@@ -18,19 +18,19 @@
 
 #### Findings
 
-Pub. L. 112–127, §2, June 5, 2012, 126 Stat. 370, provided that: “Congress finds the following:
+Pub. L. 112–127, §2, June 5, 2012, 126 Stat. 370, provided that: "Congress finds the following:
 
-&emsp;“(1) Trafficking and smuggling organizations are intensifying their efforts to enter the United States through tunnels and other subterranean passages between Mexico and the United States.
+&emsp;"(1) Trafficking and smuggling organizations are intensifying their efforts to enter the United States through tunnels and other subterranean passages between Mexico and the United States.
 
-&emsp;“(2) Border tunnels are most often used to transport narcotics from Mexico to the United States, but can also be used to transport people and other contraband.
+&emsp;"(2) Border tunnels are most often used to transport narcotics from Mexico to the United States, but can also be used to transport people and other contraband.
 
-&emsp;“(3) From Fiscal Year 1990 to Fiscal Year 2011, law enforcement authorities discovered 149 cross-border tunnels along the border between Mexico and the United States, 139 of which have been discovered since Fiscal Year 2001. There has been a dramatic increase in the number of cross-border tunnels discovered in Arizona and California since Fiscal Year 2006, with 40 tunnels discovered in California and 74 tunnels discovered in Arizona.
+&emsp;"(3) From Fiscal Year 1990 to Fiscal Year 2011, law enforcement authorities discovered 149 cross-border tunnels along the border between Mexico and the United States, 139 of which have been discovered since Fiscal Year 2001. There has been a dramatic increase in the number of cross-border tunnels discovered in Arizona and California since Fiscal Year 2006, with 40 tunnels discovered in California and 74 tunnels discovered in Arizona.
 
-&emsp;“(4) Section 551 of the Department of Homeland Security Appropriations Act, 2007 (Public Law 109–295) added a new section to title 18, United States Code (18 U.S.C. 555), which—
+&emsp;"(4) Section 551 of the Department of Homeland Security Appropriations Act, 2007 (Public Law 109–295) added a new section to title 18, United States Code (18 U.S.C. 555), which—
 
-&emsp;&emsp;“(A) criminalizes the construction or financing of an unauthorized tunnel or subterranean passage across an international border into the United States; and
+&emsp;&emsp;"(A) criminalizes the construction or financing of an unauthorized tunnel or subterranean passage across an international border into the United States; and
 
-&emsp;&emsp;“(B) prohibits any person from recklessly permitting others to construct or use an unauthorized tunnel or subterranean passage on the person's land.
+&emsp;&emsp;"(B) prohibits any person from recklessly permitting others to construct or use an unauthorized tunnel or subterranean passage on the person's land.
 
-&emsp;“(5) Any person convicted of using a tunnel or subterranean passage to smuggle aliens, weapons, drugs, terrorists, or illegal goods is subject to an enhanced sentence for the underlying offense. Additional sentence enhancements would further deter tunnel activities and increase prosecutorial options.”
+&emsp;"(5) Any person convicted of using a tunnel or subterranean passage to smuggle aliens, weapons, drugs, terrorists, or illegal goods is subject to an enhanced sentence for the underlying offense. Additional sentence enhancements would further deter tunnel activities and increase prosecutorial options."
 

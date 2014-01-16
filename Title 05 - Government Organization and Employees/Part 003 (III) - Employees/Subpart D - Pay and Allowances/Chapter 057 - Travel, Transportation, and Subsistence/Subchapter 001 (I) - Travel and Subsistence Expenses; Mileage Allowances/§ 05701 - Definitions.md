@@ -100,11 +100,11 @@ Pub. L. 104–201, div. A, title XVII, §1701, Sept. 23, 1996, 110 Stat. 2752, p
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–234, §1, Jan. 2, 1986, 99 Stat. 1756, provided that: “This Act \[enacting sections 5706a and 5734 of thistitle and section 420 of Title 41, Public Contracts, amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 420 of Title 41\] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
+Pub. L. 99–234, §1, Jan. 2, 1986, 99 Stat. 1756, provided that: “This Act \[enacting sections 5706a and 5734 of this title and section 420 of Title 41, Public Contracts, amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 420 of Title 41\] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–22, §1, May 19, 1975, 89 Stat. 84, provided: “That this Act \[amending this section, sections 5702, 5703, 5704, 5705, and 5707 of this title, and section 68b of Title 2, The Congress, and enacting provisions set out as a note under section 5707 of this title\] may be cited as the “Travel Expense Amendments Act of 1975’.”
+Pub. L. 94–22, §1, May 19, 1975, 89 Stat. 84, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Travel Expense Amendments Act of 1975’.”
 
 #### Construction
 
@@ -136,7 +136,7 @@ Required Internal Controls for Centrally Billed Accounts.—The head of an execu
 
 “(b)
 
-Guidance.—Not later than 180 days after the date of the enactment of this Act \[Oct. 5, 2012\], the Director of the Office of Management and Budget shall review the existing guidance and, as necessary, prescribe additional guidance for executive agencies implementing the requirements of subsection (a).”
+Guidance.—Not later than 180 days after the date of the enactment of this Act \[Oct. 5, 2012\], the Directorof the Office of Management and Budget shall review the existing guidance and, as necessary, prescribe additional guidance for executive agencies implementing the requirements of subsection (a).”
 
 \[For definitions of “executive agency” and “employee” as used in section 4 of Pub. L. 112–194, set out above, see section 5 of Pub. L. 112–194, set out below.\]
 
@@ -178,7 +178,7 @@ In General.—Under regulations issued by the Administrator of General Services 
 
 “(b)
 
-Agency Exemption.—The head of a Federal agency or the designee of such head may exempt any payment, person, type or class of payments, or type orclass of agency personnel from subsection (a) if the agency head or the designee determines the exemption to be necessary in the interest of the agency. Not later than 30 days after granting such an exemption, the head of such agency or the designee shall notify the Administrator of General Services in writing of such exemption stating the reasons for the exemption.
+Agency Exemption.—The head of a Federal agency or the designee of such head may exempt any payment, person, type or class of payments, or type or class of agency personnel from subsection (a) if the agency head or the designee determines the exemption to be necessary in the interest of the agency. Not later than 30 days after granting such an exemption, the head of such agency or the designee shall notify the Administrator of General Services in writing of such exemption stating the reasons for the exemption.
 
 “(c)
 
@@ -270,7 +270,7 @@ Required safeguards and internal controls.—The head of each executive agency t
 
 &emsp;&emsp;“(E) Each executive agency has specific policies regarding travel charge cards issued for various component organizations and categories of component organizations, the credit limits authorized for various categories of card holders, and categories of employees eligible to be issued travel charge cards, and designs those policies to minimize the financial risk to the Federal Government of the issuance of the travel charge cards and to ensure the integrity of travel charge card holders.
 
-&emsp;&emsp;“(F) Each executive agency has policies to ensure its contractual arrangement with each travel charge card issuing contractor contains a requirement that the creditworthiness of an individual be evaluated before the individual is issued a travel charge card, and that no individual be issued a travel charge card if that individual is found not creditworthy as a result of the evaluation (except that this paragraph shall not preclude issuance of a restricted use, prepaid, declining balance, controlled-spend, or stored value card when the individual lacks a credit history or has a credit score below the minimum credit score established by the Director of the Office of Management and Budget). The Director of the Office of Management andBudget shall establish a minimum credit score for determining the creditworthiness of an individual based on rigorous statistical analysis of the population of card holders and historical behaviors. Notwithstanding any other provision of law, such evaluation shall include an assessment of an individual's consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a).
+&emsp;&emsp;“(F) Each executive agency has policies to ensure its contractual arrangement with each travel charge card issuing contractor contains a requirement that the creditworthiness of an individual be evaluated before the individual is issued a travel charge card, and that no individual be issued a travel charge card if that individual is found not creditworthy as a result of the evaluation (except that this paragraph shall not preclude issuance of a restricted use, prepaid, declining balance, controlled-spend, or stored value card when the individual lacks a credit history or has a credit score below the minimum credit score established by the Director of the Office of Management and Budget). The Director of the Office of Management and Budget shall establish a minimum credit score for determining the creditworthiness of an individual based on rigorous statistical analysis of the population of card holders and historical behaviors. Notwithstanding any other provision of law, such evaluation shall include an assessment of an individual's consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a).
 
 &emsp;&emsp;“(G) Each executive agency uses effective systems, techniques, and technologies to prevent or identify improper purchases.
 

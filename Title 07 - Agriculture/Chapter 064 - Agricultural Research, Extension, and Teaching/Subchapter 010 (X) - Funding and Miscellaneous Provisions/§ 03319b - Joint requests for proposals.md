@@ -36,11 +36,11 @@ A prior section 3319b, Pub. L. 95–113, title XIV, §1473B, as added Pub. L. 99
 
 Pub. L. 107–171, title VII, §7403(a), May 13, 2002, 116 Stat. 456, provided that:
 
-“The purposes of this section \[enacting this section\] are—
+"The purposes of this section \[enacting this section\] are—
 
-&emsp;“(1) to reduce the duplication of administrative functions relating to grant awards and administration among Federal agencies conducting similar types of research, education, and extension programs;
+&emsp;"(1) to reduce the duplication of administrative functions relating to grant awards and administration among Federal agencies conducting similar types of research, education, and extension programs;
 
-&emsp;“(2) to maximize the use of peer review resources in research, education, and extension programs; and
+&emsp;"(2) to maximize the use of peer review resources in research, education, and extension programs; and
 
-&emsp;“(3) to reduce the burden on potential recipients that may offer similar proposals to receive competitive grants under different Federal programs in overlapping subject areas.”
+&emsp;"(3) to reduce the burden on potential recipients that may offer similar proposals to receive competitive grants under different Federal programs in overlapping subject areas."
 

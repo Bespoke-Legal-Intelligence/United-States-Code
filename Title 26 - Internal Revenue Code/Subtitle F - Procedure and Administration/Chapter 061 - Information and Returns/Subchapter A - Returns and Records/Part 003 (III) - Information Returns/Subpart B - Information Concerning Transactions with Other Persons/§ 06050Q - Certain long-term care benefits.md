@@ -24,7 +24,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 #### (c) Long-term care benefits
 
-For purposes of this section, the term “long-term care benefit” means—
+For purposes of this section, the term "long-term care benefit" means—
 
 &emsp;(1) any payment under a product which is advertised, marketed, or offered as long-term care insurance, and
 
@@ -34,7 +34,7 @@ For purposes of this section, the term “long-term care benefit” means—
 
 #### Amendments
 
-<b>1997</b>—Subsec. (b)(1). Pub. L. 105–34 inserted “, address, and phone number of the information contact” after “name”.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–34 inserted ", address, and phone number of the information contact" after "name".
 
 #### Effective Date of 1997 Amendment
 
@@ -42,5 +42,5 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 #### Effective Date
 
-Pub. L. 104–191, title III, §323(d), Aug. 21, 1996, 110 Stat. 2063, provided that: “The amendments made by this section \[enacting this section and amending section 6724 of this title\] shall apply to benefits paid after December 31, 1996.”
+Pub. L. 104–191, title III, §323(d), Aug. 21, 1996, 110 Stat. 2063, provided that: "The amendments made by this section \[enacting this section and amending section 6724 of this title\] shall apply to benefits paid after December 31, 1996."
 

@@ -216,7 +216,7 @@
 
 #### (C) Special entity defined
 
-&emsp;&emsp;For purposes of this subsection, the term “special entity” means—
+&emsp;&emsp;For purposes of this subsection, the term "special entity" means—
 
 &emsp;&emsp;&emsp;(i) a Federal agency;
 
@@ -486,9 +486,9 @@ Section and amendment by Pub. L. 111–203 effective on the later of 360 days af
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a third closing parenthesis.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “a”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "a".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “section 1a(18)(A)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "section 1a(18)(A)".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “Act”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "Act".</i>
 

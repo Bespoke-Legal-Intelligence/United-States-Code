@@ -22,11 +22,9 @@ Following any adjustment made under subsection (a) of this section, the Committe
 
 (1) In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency requirement pursuant to 901(b)(2)(A) <sup>1</sup> of this title, the chair of the Committee on the Budget of the House of Representatives shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
 
-(2)(A) In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
+(2)(A) In the House of Representatives, a proposal to strike a designation under paragraph (1) shall be excluded from an evaluation of budgetary effects for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
 
-(B) In the House of Representatives, a proposal to strike a designation under subparagraph (A) shall be excluded from an evaluation of budgetary effects for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
-
-(C) An amendment offered under subparagraph (B) that also proposes to reduce each amount appropriated or otherwise made available by the pending measure that is not required to be appropriated or otherwise made available shall be in order at any point in the reading of the pending measure.
+(B) An amendment offered under subparagraph (A) that also proposes to reduce each amount appropriated or otherwise made available by the pending measure that is not required to be appropriated or otherwise made available shall be in order at any point in the reading of the pending measure.
 
 #### (e) Senate point of order against an emergency designation
 
@@ -54,15 +52,17 @@ Following any adjustment made under subsection (a) of this section, the Committe
 
 #### (5) Conference reports
 
-&emsp;When the Senate is considering a conference report on, or an amendment between theHouses in relation to, a bill, upon a point of order being made by any Senator pursuant to this section, and such point of order being sustained, such material contained in such conference report shall be deemed stricken, and the Senate shall proceed to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
+&emsp;When the Senate is considering a conference report on, or an amendment between the Houses in relation to, a bill, upon a point of order being made by any Senator pursuant to this section, and such point of order being sustained, such material contained in such conference report shall be deemed stricken, and the Senate shall proceed to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
 
 #### (f) Enforcement of discretionary spending caps
 
-It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause the discretionary spending limits as set forth in section 901 of this title to be exceeded.
+It shall not be in order in the House of Representatives or the Senate to consider any bill,joint resolution, amendment, motion, or conference report that would cause the discretionary spending limits as set forth in section 901 of this title to be exceeded.
 
-(Pub. L. 93–344, title III, §314, as added Pub. L. 105–33, title X, §10114(a), Aug. 5, 1997, 111 Stat. 688; amended Pub. L. 105–89, title II, §201(b)(2), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 112–25, title I, §105(a), Aug. 2, 2011, 125 Stat. 246; Pub. L. 112–78, title V, §511, Dec. 23, 2011, 125 Stat. 1291.)
+(Pub. L. 93–344, title III, §314, as added Pub. L. 105–33, title X, §10114(a), Aug. 5, 1997, 111 Stat. 688; amended Pub. L. 105–89, title II, §201(b)(2), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 112–25, title I, §105(a), Aug. 2, 2011, 125 Stat. 246; Pub. L. 112–78, title V, §511, Dec. 23, 2011, 125 Stat. 1291; Pub. L. 113–67, div. A, title I, §122(10), Dec. 26, 2013, 127 Stat. 1176.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d)(2). Pub. L. 113–67 redesignated subpar. (B) as (A) and substituted “under paragraph (1)” for “under subparagraph (A)”, redesignated subpar. (C) as (B) and substituted “under subparagraph (A)” for “under subparagraph (B)”, and struck out former subpar. (A) which read as follows: “In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.”
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–25, §105(a)(1), added subsec. (a) and struck out former subsec. (a) which related to general adjustment provisions and described the matters to be adjusted.
 

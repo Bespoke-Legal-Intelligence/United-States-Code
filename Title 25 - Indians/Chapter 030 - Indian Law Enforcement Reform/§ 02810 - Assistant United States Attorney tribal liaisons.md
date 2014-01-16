@@ -12,9 +12,9 @@ The duties of a tribal liaison shall include the following:
 
 &emsp;(2) Developing multidisciplinary teams to combat child abuse and domestic and sexual violence offenses against Indians.
 
-&emsp;(3) Consulting and coordinating with tribal justice officials and victims’ advocates to address any backlog in the prosecution of major crimes in Indian country in the district.
+&emsp;(3) Consulting and coordinating with tribal justice officials and victims' advocates to address any backlog in the prosecution of major crimes in Indian country in the district.
 
-&emsp;(4) Developing working relationships and maintaining communication with tribal leaders, tribal community and victims’ advocates, and tribal justice officials to gather information from, and share appropriate information with, tribal justice officials.
+&emsp;(4) Developing working relationships and maintaining communication with tribal leaders, tribal community and victims' advocates, and tribal justice officials to gather information from, and share appropriate information with, tribal justice officials.
 
 &emsp;(5) Coordinating with tribal prosecutors in cases in which a tribal government has concurrent jurisdiction over an alleged crime, in advance of the expiration of any applicable statute of limitation.
 

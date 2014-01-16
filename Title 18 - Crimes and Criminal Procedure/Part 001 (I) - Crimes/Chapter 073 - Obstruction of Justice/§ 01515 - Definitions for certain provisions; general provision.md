@@ -2,7 +2,7 @@
 
 (a) As used in sections 1512 and 1513 of this title and in this section—
 
-&emsp;(1) the term “official proceeding” means—
+&emsp;(1) the term "official proceeding" means—
 
 &emsp;&emsp;(A) a proceeding before a judge or court of the United States, a United States magistrate judge, a bankruptcy judge, a judge of the United States Tax Court, a special trial judge of the Tax Court, a judge of the United States Court of Federal Claims, or a Federal grand jury;
 
@@ -12,9 +12,9 @@
 
 &emsp;&emsp;(D) a proceeding involving the business of insurance whose activities affect interstate commerce before any insurance regulatory official or agency or any agent or examiner appointed by such official or agency to examine the affairs of any person engaged in the business of insurance whose activities affect interstate commerce;
 
-&emsp;(2) the term “physical force” means physical action against another, and includes confinement;
+&emsp;(2) the term "physical force" means physical action against another, and includes confinement;
 
-&emsp;(3) the term “misleading conduct” means—
+&emsp;(3) the term "misleading conduct" means—
 
 &emsp;&emsp;(A) knowingly making a false statement;
 
@@ -26,13 +26,13 @@
 
 &emsp;&emsp;(E) knowingly using a trick, scheme, or device with intent to mislead;
 
-&emsp;(4) the term “law enforcement officer” means an officer or employee of the Federal Government, or a person authorized to act for or on behalf of the Federal Government or serving the Federal Government as an adviser or consultant—
+&emsp;(4) the term "law enforcement officer" means an officer or employee of the Federal Government, or a person authorized to act for or on behalf of the Federal Government or serving the Federal Government as an adviser or consultant—
 
 &emsp;&emsp;(A) authorized under law to engage in or supervise the prevention, detection, investigation, or prosecution of an offense; or
 
 &emsp;&emsp;(B) serving as a probation or pretrial services officer under this title;
 
-&emsp;(5) the term “bodily injury” means—
+&emsp;(5) the term "bodily injury" means—
 
 &emsp;&emsp;(A) a cut, abrasion, bruise, burn, or disfigurement;
 
@@ -44,33 +44,33 @@
 
 &emsp;&emsp;(E) any other injury to the body, no matter how temporary; and
 
-&emsp;(6) the term “corruptly persuades” does not include conduct which would be misleading conduct but for a lack of a state of mind.
+&emsp;(6) the term "corruptly persuades" does not include conduct which would be misleading conduct but for a lack of a state of mind.
 
-(b) As used in section 1505, the term “corruptly” means acting with an improper purpose, personally or by influencing another, including making a false or misleading statement, or withholding, concealing, altering, or destroying a document or other information.
+(b) As used in section 1505, the term "corruptly" means acting with an improper purpose, personally or by influencing another, including making a false or misleading statement, or withholding, concealing, altering, or destroying a document or other information.
 
 (c) This chapter does not prohibit or punish the providing of lawful, bona fide, legal representation services in connection with or anticipation of an official proceeding.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1252; amended Pub. L. 99–646, §50(b), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7029(b), (d), Nov. 18, 1988, 102 Stat. 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–322, title XXXII, §320604(a), Sept. 13, 1994, 108 Stat. 2118; Pub. L. 104–292, §3, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, §604(b)(39), Oct. 11, 1996, 110 Stat. 3509.)
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1252; amended Pub. L. 99–646, §50(b), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7029(b), (d), Nov. 18, 1988, 102 Stat. 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–322, title XXXII, §320604(a),Sept. 13, 1994, 108 Stat. 2118; Pub. L. 104–292, §3, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, §604(b)(39), Oct. 11, 1996, 110 Stat. 3509.)
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1)(D). Pub. L. 104–294 struck out “or” after semicolon at end.
+<b>1996</b>—Subsec. (a)(1)(D). Pub. L. 104–294 struck out "or" after semicolon at end.
 
 Subsecs. (b), (c). Pub. L. 104–292 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 <b>1994</b>—Subsec. (a)(1)(D). Pub. L. 103–322 added subpar. (D).
 
-<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1988</b>—Subsec. (a)(1)(A). Pub. L. 100–690, §7029(b), inserted “a judge of the United States Tax Court, a special trial judge of the Tax Court, a judge of the United States Claims Court,” after “bankruptcy judge,”.
+<b>1988</b>—Subsec. (a)(1)(A). Pub. L. 100–690, §7029(b), inserted "a judge of the United States Tax Court, a special trial judge of the Tax Court, a judge of the United States Claims Court," after "bankruptcy judge,".
 
 Subsec. (a)(6). Pub. L. 100–690, §7029(d), added par. (6).
 
-<b>1986</b>—Pub. L. 99–646 inserted “; general provision” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1986</b>—Pub. L. 99–646 inserted "; general provision" in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
 #### Change of Name
 
-“United States magistrate judge” substituted for “United States magistrate” in subsec. (a)(1)(A) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judge" substituted for "United States magistrate" in subsec. (a)(1)(A) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1996 Amendment
 

@@ -22,9 +22,9 @@ Historical and Revision Notes
 
 10:1412.
 
-July 9, 1918, ch. 143 (words after 2d semicolon of 12th par. under “Ordnance Department”); restated Jan. 24, 1920, ch. 55, §1 (last sentence); restated Dec. 15, 1942, ch. 736, 56 Stat. 1052.
+July 9, 1918, ch. 143 (words after 2d semicolon of 12th par. under "Ordnance Department"); restated Jan. 24, 1920, ch. 55, §1 (last sentence); restated Dec. 15, 1942, ch. 736, 56 Stat. 1052.
 
-The words “may award” are inserted to conform to other sections of this chapter. The words “if the person earned” are inserted for clarity. The words “commanded by” are omitted as surplusage.
+The words "may award" are inserted to conform to other sections of this chapter. The words "if the person earned" are inserted for clarity. The words "commanded by" are omitted as surplusage.
 
 #### Amendments
 

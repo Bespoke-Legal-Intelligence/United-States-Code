@@ -32,7 +32,7 @@ Form.—The reports required by subsection (a)(1) shall be submitted in unclassi
 
 (c)
 
-Appropriate Congressional Committees Defined.—In this section, the term “appropriate congressional committees” means the following:
+Appropriate Congressional Committees Defined.—In this section, the term "appropriate congressional committees" means the following:
 
 &emsp;(1) The congressional defense committees.
 

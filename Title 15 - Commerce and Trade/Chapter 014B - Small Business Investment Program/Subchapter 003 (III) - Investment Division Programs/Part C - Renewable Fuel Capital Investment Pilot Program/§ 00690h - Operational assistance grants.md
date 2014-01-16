@@ -8,7 +8,7 @@
 
 #### (2) Terms
 
-&emsp;A grant under this subsection shall be made over a multiyear period not to exceed 10 years, under such other terms as the Administrator may require.
+&emsp;A grant under this subsection shall be made over a multiyear period not to exceed 10 years,under such other terms as the Administrator may require.
 
 #### (3) Grant amount
 
@@ -58,5 +58,5 @@ None of the assistance made available under this section may be used for any ove
 
 <i><sup>1</sup></i><i> So in original. The article probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “than”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "than".</i>
 

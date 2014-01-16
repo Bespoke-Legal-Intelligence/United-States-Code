@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2201\.](%C2%A7%2002201%20-%20%E2%80%9CSecretary%E2%80%9D%20defined.md) | “Secretary” defined. |
+| [2201\.](%C2%A7%2002201%20-%20Secretary%20defined.md) | "Secretary" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -167,7 +167,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02201 - &#8220;Secretary&#8221; defined](%C2%A7%2002201%20-%20%E2%80%9CSecretary%E2%80%9D%20defined.md)
+- [&sect; 02201 - Secretary defined](%C2%A7%2002201%20-%20Secretary%20defined.md)
 - [Subchapter 001 (I) - Cost Sharing](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/README.md)
 - [Subchapter 002 (II) - Harbor Development](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/README.md)
 - [Subchapter 003 (III) - Inland Waterway Transportation System](Subchapter%20003%20%28III%29%20-%20Inland%20Waterway%20Transportation%20System/README.md)

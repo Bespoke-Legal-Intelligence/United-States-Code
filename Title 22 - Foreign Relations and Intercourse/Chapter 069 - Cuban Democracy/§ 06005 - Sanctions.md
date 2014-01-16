@@ -22,17 +22,17 @@
 
 #### (3) Inapplicability of ship stores general license
 
-&emsp;No commodities which may be exported under a general license described in section 771.9 of title 15, Code of Federal Regulations, as in effect on May 1, 1992, may be exported under a general license to any vessel carrying goods or passengers to or from Cuba or carrying goods in which Cuba or a Cuban national has an interest.
+&emsp;No commodities which may be exported under a general license described in section771.9 of title 15, Code of Federal Regulations, as in effect on May 1, 1992, may be exported under a general license to any vessel carrying goods or passengers to or from Cuba or carrying goods in which Cuba or a Cuban national has an interest.
 
 #### (4) Definitions
 
 &emsp;As used in this subsection—
 
-&emsp;&emsp;(A) the term “vessel” includes every description of water craft or other contrivance used, or capable of being used, as a means of transportation in water, but does not include aircraft;
+&emsp;&emsp;(A) the term "vessel" includes every description of water craft or other contrivance used, or capable of being used, as a means of transportation in water, but does not include aircraft;
 
-&emsp;&emsp;(B) the term “United States” includes the territories and possessions of the United States and the customs waters of the United States (as defined in section 1401 of title 19; and
+&emsp;&emsp;(B) the term "United States" includes the territories and possessions of the United States and the customs waters of the United States (as defined in section 1401 of title 19; and
 
-&emsp;&emsp;(C) the term “Cuban national” means a national of Cuba, as the term “national” is defined in section 515.302 of title 31, Code of Federal Regulations, as of August 1, 1992.
+&emsp;&emsp;(C) the term "Cuban national" means a national of Cuba, as the term "national" is defined in section 515.302 of title 31, Code of Federal Regulations, as of August 1, 1992.
 
 #### (c) Restrictions on remittances to Cuba
 

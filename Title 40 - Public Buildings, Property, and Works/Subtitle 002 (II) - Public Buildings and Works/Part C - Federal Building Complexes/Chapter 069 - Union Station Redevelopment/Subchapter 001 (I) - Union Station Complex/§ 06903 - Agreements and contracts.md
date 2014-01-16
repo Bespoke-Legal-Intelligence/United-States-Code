@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 90–264, title I, §115(d), as added Pub. L. 97–125, §3(3), Dec. 29, 1981, 95 Stat. 1671.
 
-The words “corporations, financial institutions” are omitted as included in “person”. The text of 40:815(d) (last sentence) is omitted as obsolete.
+The words "corporations, financial institutions" are omitted as included in "person". The text of 40:815(d) (last sentence) is omitted as obsolete.
 

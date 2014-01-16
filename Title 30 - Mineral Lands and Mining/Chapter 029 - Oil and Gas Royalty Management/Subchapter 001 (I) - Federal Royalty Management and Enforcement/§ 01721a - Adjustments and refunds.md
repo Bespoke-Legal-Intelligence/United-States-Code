@@ -32,7 +32,7 @@
 
 #### (3) Payment period
 
-&emsp;A refund under this subsection shall be paid or denied (with an explanation of the reasons for the denial) within 120 days of the date on which the request for refund is received by the Secretary. Such refund shall be subject tolater audit by the Secretary or the applicable delegated State and subject to the provisions of this chapter.
+&emsp;A refund under this subsection shall be paid or denied (with an explanation of the reasons for the denial) within 120 days of the date on which the request for refund is received by the Secretary. Such refund shall be subject to later audit by the Secretary or the applicable delegated State and subject to the provisions of this chapter.
 
 #### (4) Prohibition against reduction of refunds or credits
 
@@ -54,5 +54,5 @@ Section applicable with respect to production of oil and gas after the first day
 
 Section not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as an Applicability of 1996 Amendment note under section 1701 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “principal”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "principal".</i>
 

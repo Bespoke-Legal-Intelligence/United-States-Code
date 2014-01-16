@@ -22,7 +22,7 @@ Act
 
 Feb. 18, 1896, ch. 22 (proviso), 29 Stat. 8; May 16, 1928, ch. 579, 45 Stat. 573; June 2, 1945, ch. 172, 59 Stat. 230.
 
-The words “The chaplain may be reappointed” are substituted for the words “and said chaplain shall be eligible for reappointment for an additional term or terms”. The figures “$5,482.80” and “$6,714” are substituted for the figures “$4,000” and “$5,000” to reflect increases in the rates of salary of that office effected by the Federal Employees Pay Act of 1945, 59 Stat. 295, the Federal Employees Pay Act of 1946, 60 Stat. 216, the Postal Rate Revision and Federal Employees Salary Act of 1948, 62 Stat. 1260, and the Classification Act of 1949, 63 Stat. 954.
+The words "The chaplain may be reappointed" are substituted for the words "and said chaplain shall be eligible for reappointment for an additional term or terms". The figures "$5,482.80" and "$6,714" are substituted for the figures "$4,000" and "$5,000" to reflect increases in the rates of salary of that office effected by the Federal Employees Pay Act of 1945, 59 Stat. 295, the Federal Employees Pay Act of 1946, 60 Stat. 216, the Postal Rate Revision and Federal Employees Salary Act of 1948, 62 Stat. 1260, and the Classification Act of 1949, 63 Stat. 954.
 
 #### 1962 Act
 
@@ -30,13 +30,13 @@ The change reflects the opinion of the Assistant General Counsel, Civil Service 
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–107 substituted “a monthly housing allowance in the same amount as the basic allowance for housing allowed to a lieutenant colonel” for “the same allowances for public quarters as are allowed to a captain”.
+<b>2001</b>—Pub. L. 107–107 substituted "a monthly housing allowance in the same amount as the basic allowance for housing allowed to a lieutenant colonel" for "the same allowances for public quarters as are allowed to a captain".
 
 <b>1962</b>—Pub. L. 87–651 struck out provisions which prescribed the salary of chaplain on appointment and reappointment.
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §540(b), Dec. 28, 2001, 115 Stat. 1109, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title V, §540(b), Dec. 28, 2001, 115 Stat. 1109, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[Dec. 28, 2001\]."
 
 #### Delegation of Functions
 

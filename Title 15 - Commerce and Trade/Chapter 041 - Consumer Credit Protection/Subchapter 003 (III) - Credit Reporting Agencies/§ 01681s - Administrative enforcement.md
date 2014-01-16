@@ -10,7 +10,7 @@
 
 #### (A) Knowing violations
 
-&emsp;&emsp;Except as otherwise provided by subtitle B of the Consumer Financial Protection Act of 2010, in the event of a knowing violation, which constitutes a pattern or practice of violations of this subchapter, the Federal Trade Commission may commence a civil action to recover a civil penalty in a district court of the United States against any person that violates this subchapter. In such action, such person shall be liable for a civil penalty of not more than $2,500 per violation.
+&emsp;&emsp;Except as otherwise provided by subtitle B of the Consumer Financial Protection Act of2010, in the event of a knowing violation, which constitutes a pattern or practice of violations of this subchapter, the Federal Trade Commission may commence a civil action to recover a civil penalty in a district court of the United States against any person that violates this subchapter. In such action, such person shall be liable for a civil penalty of not more than $2,500 per violation.
 
 #### (B) Determining penalty amount
 
@@ -116,7 +116,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of t
 
 #### (2) Deference
 
-&emsp;Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to a Federal agency with respect to a determination made by such agency relating to the meaning or interpretation of any provision of this subchapter that is subject to the jurisdiction of such agency shall be applied as if that agency were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter <sup>2</sup> The regulations prescribed by theBureau under this subchapter shall apply to any person that is subject to this subchapter, notwithstanding the enforcement authorities granted to other agencies under this section.
+&emsp;Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to a Federal agency with respect to a determination made by such agency relating to the meaning or interpretation of any provision of this subchapter that is subject to the jurisdiction of such agency shall be applied as if that agency were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter <sup>2</sup> The regulations prescribed by the Bureau under this subchapter shall apply to any person that is subject to this subchapter, notwithstanding the enforcement authorities granted to other agencies under this section.
 
 #### (f) Coordination of consumer complaint investigations
 
@@ -154,7 +154,7 @@ The Commodity Exchange Act, referred to in subsec. (b)(1)(F), is act Sept. 21, 1
 
 #### Codification
 
-In subsec. (b)(1)(D), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
+In subsec. (b)(1)(D), "part A of subtitle VII of title 49" substituted for "the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)" and "that part" substituted for "that Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 #### Amendments
 
@@ -162,79 +162,79 @@ In subsec. (b)(1)(D), “part A of subtitle VII of title 49” substituted for �
 
 Subsec. (b). Pub. L. 111–203, §1088(a)(10)(B), added subsec. (b) and struck out former subsec. (b) which related to enforcement under section 8 of the Federal Deposit Insurance Act, the Federal Credit Union Act, subtitle IV of title 49, part A of subtitle VII of title 49, and the Packers and Stockyards Act, 1921.
 
-Subsec. (c)(2). Pub. L. 111–203, §1088(a)(10)(C), in introductory provisions, inserted “and the Federal Trade Commission” before “or the appropriate” and before “or appropriate” in two places.
+Subsec. (c)(2). Pub. L. 111–203, §1088(a)(10)(C), in introductory provisions, inserted "and the Federal Trade Commission" before "or the appropriate" and before "or appropriate" in two places.
 
-Pub. L. 111–203, §1088(a)(2)(C), in introductory provisions, substituted “provide the Bureau” for “provide the Commission”.
+Pub. L. 111–203, §1088(a)(2)(C), in introductory provisions, substituted "provide the Bureau" for "provide the Commission".
 
-Pub. L. 111–203, §1088(a)(2)(A), in introductory provisions, substituted “upon the Bureau” for “upon the Federal Trade Commission” and “The Bureau” for “The Federal Trade Commission”.
+Pub. L. 111–203, §1088(a)(2)(A), in introductory provisions, substituted "upon the Bureau" for "upon the Federal Trade Commission" and "The Bureau" for "The Federal Trade Commission".
 
-Subsec. (c)(4). Pub. L. 111–203, §1088(a)(10)(D), inserted “, the Federal Trade Commission,” before “or the appropriate” in two places.
+Subsec. (c)(4). Pub. L. 111–203, §1088(a)(10)(D), inserted ", the Federal Trade Commission," before "or the appropriate" in two places.
 
-Pub. L. 111–203, §1088(a)(2)(C), substituted “complaint of the Bureau” for “complaint of the Commission”.
+Pub. L. 111–203, §1088(a)(2)(C), substituted "complaint of the Bureau" for "complaint of the Commission".
 
-Pub. L. 111–203, §1088(a)(2)(A), substituted “If the Bureau” for “If the Federal Trade Commission”.
+Pub. L. 111–203, §1088(a)(2)(A), substituted "If the Bureau" for "If the Federal Trade Commission".
 
 Subsec. (e). Pub. L. 111–203, §1088(a)(10)(E), added subsec. (e) and struck out former subsec. (e) which related to prescription of regulations by certain Federal banking agencies, the Board of Governors of the Federal Reserve System, and the Board of the National Credit Union Administration.
 
-Subsec. (f)(2). Pub. L. 111–203, §1088(a)(10)(F), substituted “the Federal Trade Commission, the Federal banking agencies,” for “the Federal banking agencies”.
+Subsec. (f)(2). Pub. L. 111–203, §1088(a)(10)(F), substituted "the Federal Trade Commission, the Federal banking agencies," for "the Federal banking agencies".
 
-Subsec. (f)(3). Pub. L. 111–203, §1088(a)(2)(C), substituted “the Bureau” for “the Commission”.
+Subsec. (f)(3). Pub. L. 111–203, §1088(a)(2)(C), substituted "the Bureau" for "the Commission".
 
-Subsec. (g). Pub. L. 111–203, §1088(a)(2)(C), substituted “the Bureau” for “the Commission” in two places.
+Subsec. (g). Pub. L. 111–203, §1088(a)(2)(C), substituted "the Bureau" for "the Commission" in two places.
 
-Pub. L. 111–203, §1088(a)(2)(B), substituted “Bureau” for “FTC” in heading.
+Pub. L. 111–203, §1088(a)(2)(B), substituted "Bureau" for "FTC" in heading.
 
-<b>2003</b>—Subsec. (b)(1)(B). Pub. L. 108–159, §811(f), substituted “25A” for “25(a)”.
+<b>2003</b>—Subsec. (b)(1)(B). Pub. L. 108–159, §811(f), substituted "25A" for "25(a)".
 
-Subsec. (c)(1)(B)(ii). Pub. L. 108–159, §312(e)(2)(A), substituted “described in any of paragraphs (1) through (3) of section 1681s–2(c)” for “of section 1681s–2(a)”.
+Subsec. (c)(1)(B)(ii). Pub. L. 108–159, §312(e)(2)(A), substituted "described in any of paragraphs (1) through (3) of section 1681s–2(c)" for "of section 1681s–2(a)".
 
-Subsec. (c)(5). Pub. L. 108–159, §312(e)(2)(B)(ii), substituted “certain violations” for “violation of section 1681s–2(a)(1)” in heading.
+Subsec. (c)(5). Pub. L. 108–159, §312(e)(2)(B)(ii), substituted "certain violations" for "violation of section 1681s–2(a)(1)" in heading.
 
-Subsec. (c)(5)(A), (B). Pub. L. 108–159, §312(e)(2)(B)(i), substituted “described in any of paragraphs (1) through (3) of section 1681s–2(c)” for “of section 1681s–2(a)(1)”.
+Subsec. (c)(5)(A), (B). Pub. L. 108–159, §312(e)(2)(B)(i), substituted "described in any of paragraphs (1) through (3) of section 1681s–2(c)" for "of section 1681s–2(a)(1)".
 
 Subsec. (f). Pub. L. 108–159, §153, added subsec. (f).
 
 Subsec. (g). Pub. L. 108–159, §412(e), added subsec. (g).
 
-<b>1999</b>—Subsec. (a)(4). Pub. L. 106–102, §506(b), struck out par. (4) which read as follows: “Neither the Commission nor any other agency referred to in subsection (b) of this section may prescribe trade regulation rules or other regulations with respect to this subchapter.”
+<b>1999</b>—Subsec. (a)(4). Pub. L. 106–102, §506(b), struck out par. (4) which read as follows: "Neither the Commission nor any other agency referred to in subsection (b) of this section may prescribe trade regulation rules or other regulations with respect to this subchapter."
 
-Subsec. (d). Pub. L. 106–102, §506(a)(1), struck out at the end “Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter.”
+Subsec. (d). Pub. L. 106–102, §506(a)(1), struck out at the end "Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may,during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter."
 
-Subsec. (e). Pub. L. 106–102, §506(a)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “The Board of Governors of the Federal Reserve System may issue interpretations of any provision of this subchapter as such provision may apply to any persons identified under paragraph (1), (2), and (3) of subsection (b) of this section, or to the holding companies and affiliates of such persons, in consultation with Federal agencies identified in paragraphs (1), (2), and (3) of subsection (b) of this section.”
+Subsec. (e). Pub. L. 106–102, §506(a)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "The Board of Governors of the Federal Reserve System may issue interpretations of any provision of this subchapter as such provision may apply to any persons identified under paragraph (1), (2), and (3) of subsection (b) of this section, or to the holding companies and affiliates of such persons, in consultation with Federal agencies identified in paragraphs (1), (2), and (3) of subsection (b) of this section."
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–347 struck out “or (e)” after “subject to subsection (d)” in introductory provisions.
+<b>1998</b>—Subsec. (b). Pub. L. 105–347 struck out "or (e)" after "subject to subsection (d)" in introductory provisions.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2416(b)(1), which directed the amendment of subsec. (a) by inserting heading “Enforcement by Federal Trade Commission” before “Compliance with the requirements”, was executed by making the insertion after “(a)”, to reflect the probable intent of Congress and the amendment by Pub. L. 104–208, §2416(a). See below.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2416(b)(1), which directed the amendment of subsec. (a) by inserting heading "Enforcement by Federal Trade Commission" before "Compliance with the requirements", was executed by making the insertion after "(a)", to reflect the probable intent of Congress and the amendment by Pub. L. 104–208, §2416(a). See below.
 
-Pub. L. 104–208, §2416(a), inserted “(1)” after “(a)” and added pars. (2) to (4).
+Pub. L. 104–208, §2416(a), inserted "(1)" after "(a)" and added pars. (2) to (4).
 
-Subsec. (b). Pub. L. 104–208, §2416(b)(2), inserted heading and in introductory provisions substituted “Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies, persons who furnish information to such agencies, and users of information that are subject to subsection (d) or (e) of section 1681m of this title shall be enforced under—” for “Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies and persons who use consumer reports from such agencies shall be enforced under—”.
+Subsec. (b). Pub. L. 104–208, §2416(b)(2), inserted heading and in introductory provisions substituted "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies, persons who furnish information to such agencies, and users of information that are subject to subsection (d) or (e) of section 1681m of this title shall be enforced under—" for "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies and persons who use consumer reports from such agencies shall be enforced under—".
 
 Subsec. (c). Pub. L. 104–208, §2417(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Pub. L. 104–208, §2416(c), inserted at end “Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter.”
+Pub. L. 104–208, §2416(c), inserted at end "Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter."
 
 Subsec. (d). Pub. L. 104–208, §2417(1), redesignated subsec. (c) as (d).
 
 Subsec. (e). Pub. L. 104–208, §2418, added subsec. (e).
 
-<b>1995</b>—Subsec. (b)(4). Pub. L. 104–88 substituted “Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board” for “Interstate Commerce Commission with respect to any common carrier subject to those Acts”.
+<b>1995</b>—Subsec. (b)(4). Pub. L. 104–88 substituted "Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board" for "Interstate Commerce Commission with respect to any common carrier subject to those Acts".
 
 <b>1992</b>—Subsec. (b)(1)(C). Pub. L. 102–550 substituted semicolon for period at end.
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–242, §212(c)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
+<b>1991</b>—Subsec. (b). Pub. L. 102–242, §212(c)(2), inserted at end "The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)."
 
-Pub. L. 102–242, §212(c)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of:
+Pub. L. 102–242, §212(c)(1), added par. (1) and struck out former par. (1) which read as follows: "section 8 of the Federal Deposit Insurance Act, in the case of:
 
-&emsp;“(A) national banks, by the Comptroller of the Currency;
+&emsp;"(A) national banks, by the Comptroller of the Currency;
 
-&emsp;“(B) member banks of the Federal Reserve System (other than national banks), by the Federal Reserve Board; and
+&emsp;"(B) member banks of the Federal Reserve System (other than national banks), by the Federal Reserve Board; and
 
-&emsp;“(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation.”
+&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation."
 
-<b>1989</b>—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;”.
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;".
 
-<b>1984</b>—Subsec. (b)(5). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
+<b>1984</b>—Subsec. (b)(5). Pub. L. 98–443 substituted "Secretary of Transportation" for "Civil Aeronautics Board".
 
 #### Effective Date of 2010 Amendment
 
@@ -274,5 +274,5 @@ Functions vested in Administrator of National Credit Union Administration transf
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “Bureau,”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "Bureau,".</i>
 

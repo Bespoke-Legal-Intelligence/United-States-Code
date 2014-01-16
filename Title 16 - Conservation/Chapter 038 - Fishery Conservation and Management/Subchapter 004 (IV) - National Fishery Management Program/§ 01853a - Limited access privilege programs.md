@@ -74,7 +74,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;&emsp;&emsp;(III) consist of residents who conduct commercial or recreational fishing, processing, or fishery-dependent support businesses within the Council's management area; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastal communities, including those that have not historically had the resources to participate in the fishery, for approvalbased on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
+&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastal communities, including those that have not historically had the resources to participate in the fishery, for approval based on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
 
 #### (ii) Failure to comply with plan
 
@@ -180,7 +180,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 #### (D) New England and Gulf referendum
 
-&emsp;&emsp;(i) Except as provided in clause (iii) for the Gulf of Mexico commercial red snapper fishery, the New England and Gulf Councils may not submit, and the Secretary may not approve or implement, a fishery management plan or amendment that creates an individual fishing quota program, including a Secretarial plan, unless such a system, as ultimately developed, has been approved by more than 2/3 of those voting in a referendum among eligible permit holders, or other persons described in clause (v), with respect to the New England Council, and by a majority of those voting in the referendum among eligible permit holders with respect to the Gulf Council. For multispecies permits in the Gulf of Mexico, only those participants who have substantially fished the species proposed to be included in the individual fishing quota program shall be eligible to vote in such a referendum. If an individual fishing quota program fails to be approved by the requisite number of those voting, it may be revised and submitted for approval in a subsequent referendum.
+&emsp;&emsp;(i) Except as provided in clause (iii) for the Gulf of Mexico commercial red snapper fishery, the New England and Gulf Councils may not submit, and the Secretary may not approve or implement, a fishery managementplan or amendment that creates an individual fishing quota program, including a Secretarial plan, unless such a system, as ultimately developed, has been approved by more than 2/3 of those voting in a referendum among eligible permit holders, or other persons described in clause (v), with respect to the New England Council, and by a majority of those voting in the referendum among eligible permit holders with respect to the Gulf Council. For multispecies permits in the Gulf of Mexico, only those participants who have substantially fished the species proposed to be included in the individual fishing quota program shall be eligible to vote in such a referendum. If an individual fishing quota program fails to be approved by the requisite number of those voting, it may be revised and submitted for approval in a subsequent referendum.
 
 &emsp;&emsp;(ii) The Secretary shall conduct a referendum under this subparagraph, including notifying all persons eligible to participate in the referendum and making available to them information concerning the schedule, procedures, and eligibility requirements for the referendum process and the proposed individual fishing quota program. Within 1 year after January 12, 2007, the Secretary shall publish guidelines and procedures to determine procedures and voting eligibility requirements for referenda and to conduct such referenda in a fair and equitable manner.
 
@@ -190,7 +190,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;(v) The Secretary shall promulgate criteria for determining whether additional fishery participants are eligible to vote in the New England referendum described in clause (i) in order to ensure that crew members who derive a significant percentage of their total income from the fishery under the proposed program are eligible to vote in the referendum.
 
-&emsp;&emsp;(vi) In this subparagraph, the term “individual fishing quota” does not include a sector allocation.
+&emsp;&emsp;(vi) In this subparagraph, the term "individual fishing quota" does not include a sector allocation.
 
 #### (7) Transferability
 
@@ -206,7 +206,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 #### (9) Antitrust savings clause
 
-&emsp;Nothing in this chapter shall be construed to modify, impair, or supersede the operation of any of the antitrust laws. For purposes of the preceding sentence, the term “antitrust laws” has the meaning given such term in subsection (a) of section 12 of title 15, except that such term includes section 45 of title 15 to the extent that such section 45 applies to unfair methods of competition.
+&emsp;Nothing in this chapter shall be construed to modify, impair, or supersede the operation of any of the antitrust laws. For purposes of the preceding sentence, the term "antitrust laws" has the meaning given such term in subsection (a) of section 12 of title 15, except that such term includes section 45 of title 15 to the extent that such section 45 applies to unfair methods of competition.
 
 #### (d) Auction and other programs
 
@@ -268,15 +268,15 @@ The requirements of this section shall not apply to any quota program, including
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b), (c)(1)(G), (9), (g)(2), and (h), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (b), (c)(1)(G), (9), (g)(2), and (h), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, referred to in subsec. (h), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575. Section 302(f) of the Act (120 Stat. 3624) is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(4)(A)(iii). Pub. L. 110–161, §529(1), substituted “association, among willing parties” for “association”.
+<b>2007</b>—Subsec. (c)(4)(A)(iii). Pub. L. 110–161, §529(1), substituted "association, among willing parties" for "association".
 
-Subsec. (i). Pub. L. 110–161, §529(2)–(4), struck out designation and heading of par. (1), redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out heading and text of former par. (2). Text of former par. (2) read as follows: “The requirements of this section, other than subparagraphs (A) and (B) of subsection (c)(1) and subparagraphs (A), (B), and (C) of paragraph (1) of this subsection, shall not apply to any proposal authorized under section 302(f) of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 that is submitted within the timeframe prescribed by that section.”
+Subsec. (i). Pub. L. 110–161, §529(2)–(4), struck out designation and heading of par. (1), redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out heading and text of former par. (2). Text of former par. (2) read as follows: "The requirements of this section, other than subparagraphs (A) and (B) of subsection (c)(1) and subparagraphs (A), (B), and (C) of paragraph (1) of this subsection, shall not apply to any proposal authorized under section 302(f) of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 that is submitted within the timeframe prescribed by that section."
 
 #### Effective Date of 2007 Amendment
 
@@ -284,7 +284,7 @@ Pub. L. 110–161, div. B, title V, §529, Dec. 26, 2007, 121 Stat. 1930, provid
 
 #### Application With American Fisheries Act
 
-Pub. L. 109–479, title I, §106(e), Jan. 12, 2007, 120 Stat. 3594, provided that: “Nothing in section 303A of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) \[16 U.S.C. 1853a\], as added by subsection (a), shall be construed to modify or supersede any provision of the American Fisheries Act \[title II of div. C of Pub. L. 105–277, see Tables for classification\] (\[former\] 46 U.S.C. 12102 note \[see 46 U.S.C. 12113(e), (f), (h), (i)\]; 16 U.S.C. 1851 note; et alia).”
+Pub. L. 109–479, title I, §106(e), Jan. 12, 2007, 120 Stat. 3594, provided that: "Nothing in section 303A of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) \[16 U.S.C. 1853a\], as added by subsection (a), shall be construed to modify or supersede any provision of the American Fisheries Act \[title II of div. C of Pub. L. 105–277, see Tables for classification\] (\[former\] 46 U.S.C. 12102 note \[see 46 U.S.C. 12113(e), (f), (h), (i)\]; 16 U.S.C. 1851 note; et alia)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “its”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "its".</i>
 

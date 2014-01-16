@@ -23,7 +23,7 @@ Part III—Ascertainment, Collection, and Recovery of Duties
 - [&sect; 01494 - Expense of weighing and measuring](%C2%A7%2001494%20-%20Expense%20of%20weighing%20and%20measuring.md)
 - [&sect; 01495 - Partnership bond](%C2%A7%2001495%20-%20Partnership%20bond.md)
 - [&sect; 01496 - Examination of baggage](%C2%A7%2001496%20-%20Examination%20of%20baggage.md)
-- [&sect; 01496a - Clearance restrictions of individuals returning from abroad; special circumstances; &#8220;baggage and effects&#8221; defined](%C2%A7%2001496a%20-%20Clearance%20restrictions%20of%20individuals%20returning%20from%20abroad%3B%20special%20circumstances%3B%20%E2%80%9Cbaggage%20and%20effects%E2%80%9D%20defined.md)
+- [&sect; 01496a - Clearance restrictions of individuals returning from abroad; special circumstances; baggage and effects defined](%C2%A7%2001496a%20-%20Clearance%20restrictions%20of%20individuals%20returning%20from%20abroad%3B%20special%20circumstances%3B%20baggage%20and%20effects%20defined.md)
 - [&sect; 01497 - Penalties for failure to declare](%C2%A7%2001497%20-%20Penalties%20for%20failure%20to%20declare.md)
 - [&sect; 01498 - Entry under regulations](%C2%A7%2001498%20-%20Entry%20under%20regulations.md)
 - [&sect; 01499 - Examination of merchandise](%C2%A7%2001499%20-%20Examination%20of%20merchandise.md)

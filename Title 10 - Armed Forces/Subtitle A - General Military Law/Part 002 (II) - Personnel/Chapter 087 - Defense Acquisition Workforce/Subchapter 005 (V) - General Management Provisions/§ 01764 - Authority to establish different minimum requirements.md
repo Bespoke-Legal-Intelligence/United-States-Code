@@ -24,7 +24,7 @@ Applicability.—This section applies to the following acquisition positions in 
 
 (c)
 
-Definition.—In this section, the term “contract contingency force”, with respect to an armed force, has the meaning given such term in regulations prescribed by the Secretary concerned.
+Definition.—In this section, the term "contract contingency force", with respect to an armed force, has the meaning given such term in regulations prescribed by the Secretary concerned.
 
 (Added Pub. L. 108–136, div. A, title VIII, §835(2), Nov. 24, 2003, 117 Stat. 1551; amended Pub. L. 108–375, div. A, title VIII, §812(c), Oct. 28, 2004, 118 Stat. 2013.)
 
@@ -34,7 +34,7 @@ A prior section 1764, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(1). Pub. L. 108–375, §812(c)(2), substituted “in paragraph (6)” for “in paragraph (5)”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–375, §812(c)(2), substituted "in paragraph (6)" for "in paragraph (5)".
 
 Subsec. (b)(5), (6). Pub. L. 108–375, §812(c)(1), added par. (5) and redesignated former par. (5) as (6).
 

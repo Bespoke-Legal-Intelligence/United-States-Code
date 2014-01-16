@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “intelligence community” means the intelligence and intelligence-related activities of the following units of the United States Government:
+Definition.—In this section, "intelligence community" means the intelligence and intelligence-related activities of the following units of the United States Government:
 
 &emsp;(1) the Department of State.
 
@@ -82,29 +82,29 @@ Nov. 16, 1990, Pub. L. 101–604, §111(c), 104 Stat. 3080.
 
 Nov. 16, 1990, Pub. L. 101–604, §111(d), 104 Stat. 3080.
 
-In this section, the word “units” is substituted for “agencies” for consistency in the revised title and with other titles of the United States Code.
+In this section, the word "units" is substituted for "agencies" for consistency in the revised title and with other titles of the United States Code.
 
-In subsections (b) and (e), the words “Not later than 180 days after the date of enactment of this Act” in section 111(a) and (d) of the Aviation Security Improvement Act of 1990 (Public Law 101–640, 104 Stat. 3080) are omitted as obsolete.
+In subsections (b) and (e), the words "Not later than 180 days after the date of enactment of this Act" in section 111(a) and (d) of the Aviation Security Improvement Act of 1990 (Public Law 101–640, 104 Stat. 3080) are omitted as obsolete.
 
-In subsection (b), the words “the heads of other units in the intelligence community, the Secretary of Transportation, and the Administrator of the Federal Aviation Administration” are substituted for “other members of the intelligence community, the Department of Transportation, and the Federal Aviation Administration” for clarity and consistency in the revised title and with other titles of the Code.
+In subsection (b), the words "the heads of other units in the intelligence community, the Secretary of Transportation, and the Administrator of the Federal Aviation Administration" are substituted for "other members of the intelligence community, the Department of Transportation, and the Federal Aviation Administration" for clarity and consistency in the revised title and with other titles of the Code.
 
-In subsections (c) and (e), the words “heads of units in the intelligence community” are substituted for “intelligence community” for clarity and consistency in the revised title and with other titles of the Code.
+In subsections (c) and (e), the words "heads of units in the intelligence community" are substituted for "intelligence community" for clarity and consistency in the revised title and with other titles of the Code.
 
-In subsection (e), the words “memorandums of understanding” are omitted as being included in “written working agreements”.
+In subsection (e), the words "memorandums of understanding" are omitted as being included in "written working agreements".
 
 #### Amendments
 
-<b>2001</b>—Subsec. (b). Pub. L. 107–71, §102(b), struck out “international” before “terrorism”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–71, §102(b), struck out "international" before "terrorism".
 
-Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+Pub. L. 107–71, §101(f)(7), (9), substituted "Under Secretary of Transportation for Security" for "Administrator of the Federal Aviation Administration".
 
-Subsec. (c). Pub. L. 107–71, §102(c), substituted “place” for “consider placing”.
+Subsec. (c). Pub. L. 107–71, §102(c), substituted "place" for "consider placing".
 
-Subsec. (e). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
+Subsec. (e). Pub. L. 107–71, §101(f)(7), substituted "Under Secretary" for "Administrator" in two places.
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Transfer of Functions
 

@@ -82,7 +82,7 @@ Before execution sale.—(A) Before execution sale, the United States marshal ma
 
 &emsp;(B) A judgment debtor who sells or disposes of property replevied under subparagraph (A) shall pay the United States marshal the stipulated value of such property.
 
-&emsp;(C) If the judgment debtor fails to deliver such property to the United States marshal pursuant to the terms of the delivery described in subparagraph (A)(ii)(I) and fails to pay the United States marshal the stipulated value of such property, the United States marshal shall endorse the bond “forfeited” and return it to the court from which the writ of execution issued. If the judgment is not fully satisfied, the court shall issue a writ of execution against the judgment debtor and the sureties on the bond for the amount due, not exceeding the stipulated value of the property, on which execution no delivery bond shall be taken, which instruction shall be endorsed on the writ.
+&emsp;(C) If the judgment debtor fails to deliver such property to the United States marshal pursuant to the terms of the delivery described in subparagraph (A)(ii)(I) and fails to pay the United States marshal the stipulated value of such property, the United States marshal shall endorse the bond "forfeited" and return it to the court from which the writ of execution issued. If the judgment is not fully satisfied, the court shall issue a writ of execution against the judgment debtor and the sureties on the bond for the amount due, not exceeding the stipulated value of the property, on which execution no delivery bond shall be taken, which instruction shall be endorsed on the writ.
 
 &emsp;(2)
 
@@ -148,7 +148,7 @@ Sale of personal property.—(i) Personal property levied on shall be offered fo
 
 Postponement of sale.—The United States marshal may postpone an execution sale from time to time by continuing the required posting or publication of notice until the date to which the sale is postponed, and appending, at the foot of each such notice of a current copy of the following:
 
-&emsp;“The above sale is postponed until the        day of          , 19  , at    o'clock   .M.,            , United States Marshal for the District of            , by                , Deputy, dated            .”
+&emsp;"The above sale is postponed until the        day of          , 19  , at    o'clock   .M.,            , United States Marshal for the District of            , by                , Deputy, dated            ."
 
 &emsp;(3)
 
@@ -202,5 +202,5 @@ Further levy if execution not satisfied.—If the proceeds of the execution sale
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4950.)
 
-<i><sup>1</sup></i><i> So in original. The word “property” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "property" probably should not appear.</i>
 

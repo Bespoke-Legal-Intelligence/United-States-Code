@@ -50,13 +50,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–246, §6103, added subsec. (c).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127 substituted “, except that, with respect to any loan” for “: <i>Provided, however</i>, That with respect to any loan” and struck out “, and with respect to any loan made under section 905 of this title, the payment of principal or interest shall not be extended more than two years after such payment shall have become due: <i>And provided further</i>, That the provisions of this section shall not apply to any obligations or the security therefor which may be held by the Reconstruction Finance Corporation under the provisions of section 903 of this title” after “such payment shall have become due”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127 substituted ", except that, with respect to any loan" for ": <i>Provided, however</i>, That with respect to any loan" and struck out ", and with respect to any loan made under section 905 of this title, the payment of principal or interest shall not be extended more than two years after such payment shall have become due: <i>And provided further</i>, That the provisions of this section shall not apply to any obligations or the security therefor which may be held by the Reconstruction Finance Corporation under the provisions of section 903 of this title" after "such payment shall have become due".
 
-<b>1994</b>—Subsecs. (a), (b)(1), (4). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1994</b>—Subsecs. (a), (b)(1), (4). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
 <b>1990</b>—Pub. L. 101–624 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1949</b>—Act Oct. 28, 1949, inserted “or section 922” after “904” in first proviso, and inserted “title I,” in credit of act May 20, 1936.
+<b>1949</b>—Act Oct. 28, 1949, inserted "or section 922" after "904" in first proviso, and inserted "title I," in credit of act May 20, 1936.
 
 #### Effective Date of 2008 Amendment
 

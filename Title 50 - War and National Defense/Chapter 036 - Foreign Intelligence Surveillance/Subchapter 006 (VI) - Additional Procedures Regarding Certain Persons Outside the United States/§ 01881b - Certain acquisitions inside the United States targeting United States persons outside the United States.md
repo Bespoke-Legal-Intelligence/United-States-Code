@@ -100,7 +100,7 @@
 
 #### (D) Review of certification
 
-&emsp;&emsp;If the judge determines that an application pursuant to subsection (b) does not contain all of the required elements, or that the certification or certifications are clearly erroneous on the basis of the statement made under subsection (b)(1)(F)(v) and any other information furnished under subsection (b)(3), the judge shall enter an order so stating and provide a written statement for the record of the reasons for the determination. The Government may appeal an order under this subparagraph pursuant to subsection (f).
+&emsp;&emsp;If the judge determines that an application pursuant to subsection (b) does not contain all of the required elements, or that the certification or certifications are clearly erroneous on the basis of the statement made under subsection (b)(1)(F)(v) and any otherinformation furnished under subsection (b)(3), the judge shall enter an order so stating and provide a written statement for the record of the reasons for the determination. The Government may appeal an order under this subparagraph pursuant to subsection (f).
 
 #### (4) Specifications
 
@@ -172,7 +172,7 @@ No cause of action shall lie in any court against any electronic communication s
 
 #### (2) Certiorari to the Supreme Court
 
-&emsp;The Government may file a petition for a writ of certiorari for review of a decision ofthe Court of Review issued under paragraph (1). The record for such review shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
+&emsp;The Government may file a petition for a writ of certiorari for review of a decision of the Court of Review issued under paragraph (1). The record for such review shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
 
 #### (g) Construction
 
@@ -186,7 +186,7 @@ Except as provided in this section, nothing in this chapter shall be construed t
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (d)(1), and (g), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (a), (d)(1), and (g), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Effective Date of Repeal
 

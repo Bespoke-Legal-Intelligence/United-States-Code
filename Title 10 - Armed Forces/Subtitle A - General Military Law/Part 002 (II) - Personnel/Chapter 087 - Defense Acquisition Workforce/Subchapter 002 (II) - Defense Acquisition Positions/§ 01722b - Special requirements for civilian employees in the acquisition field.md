@@ -16,7 +16,7 @@ Objectives.—Policies established and guidance issued pursuant to subsection (a
 
 &emsp;(4) A sufficient number of qualified, trained members eligible for and active in the acquisition field to ensure adequate capacity, capability, and effective succession for acquisition functions, including contingency contracting, of the Department of Defense.
 
-&emsp;(5) A deliberate workforce development strategy that ensures diversity in promotion,advancement, and experiential opportunities commensurate with the general workforce outlined in this section.
+&emsp;(5) A deliberate workforce development strategy that ensures diversity in promotion, advancement, and experiential opportunities commensurate with the general workforce outlined in this section.
 
 (c)
 
@@ -34,7 +34,7 @@ Inclusion of Information in Annual Report.—The Secretary of Defense shall incl
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(3). Pub. L. 112–239, §1076(d)(1)(A), substituted “subsections (b)(1)(A) and (b)(1)(B)” for “subsections (b)(2)(A) and (b)(2)(B)”.
+<b>2013</b>—Subsec. (c)(3). Pub. L. 112–239, §1076(d)(1)(A), substituted "subsections (b)(1)(A) and (b)(1)(B)" for "subsections (b)(2)(A) and (b)(2)(B)".
 
-Subsec. (c)(4). Pub. L. 112–239, §1076(d)(1)(B), substituted “or 1734(d)” for “1734(d), or 1736(c)”.
+Subsec. (c)(4). Pub. L. 112–239, §1076(d)(1)(B), substituted "or 1734(d)" for "1734(d), or 1736(c)".
 

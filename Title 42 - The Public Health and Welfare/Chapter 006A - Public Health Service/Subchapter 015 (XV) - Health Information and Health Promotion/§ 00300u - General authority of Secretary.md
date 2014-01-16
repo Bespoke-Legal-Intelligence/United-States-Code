@@ -16,7 +16,7 @@ The Secretary shall—
 
 &emsp;&emsp;(C) establish systematic processes for the exploration, development, demonstration, and evaluation of innovative health promotion concepts;
 
-&emsp;(4) undertake and support research and demonstrations respecting health information and health promotion, preventive health services,and education in the appropriate use of health care;
+&emsp;(4) undertake and support research and demonstrations respecting health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
 &emsp;(5) undertake and support appropriate training in, and undertake and support appropriate training in the operation of programs concerned with, health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
@@ -58,39 +58,39 @@ No grant may be made or contract entered into under this subchapter unless an ap
 
 #### Codification
 
-In subsec. (c), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–392 substituted “2002” for “1996”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–392 substituted "2002" for "1996".
 
-<b>1992</b>—Subsec. (a)(11)(C). Pub. L. 102–531 substituted “preventive health services (which may include information concerning models and standards for insurance coverage of such services),” for “preventive health services,”.
+<b>1992</b>—Subsec. (a)(11)(C). Pub. L. 102–531 substituted "preventive health services (which may include information concerning models and standards for insurance coverage of such services)," for "preventive health services,".
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–168 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “To carry out sections 300u through 300u–4 of this title, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, $10,000,000 for the fiscal year ending September 30, 1987, and $10,000,000 for each of the fiscal years 1989 through 1991.”
+<b>1991</b>—Subsec. (b). Pub. L. 102–168 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "To carry out sections 300u through 300u–4 of this title, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, $10,000,000 for the fiscal year ending September 30, 1987, and $10,000,000 for each of the fiscal years 1989 through 1991."
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–607, §312(c)(2), in concluding provisions, struck out “The Secretary shall administer this subchapter in a manner consistent with the national health priorities set forth in section 300k–2 of this title.” before “The Secretary shall appoint”, and substituted “paragraph (11)” for “paragraph (10)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–607, §312(c)(2), in concluding provisions, struck out "The Secretary shall administer this subchapter in a manner consistent with the national health priorities set forth in section 300k–2 of this title." before "The Secretary shall appoint", and substituted "paragraph (11)" for "paragraph (10)".
 
 Subsec. (a)(7), (8). Pub. L. 100–607, §312(b)(1), added par. (7) and redesignated former par. (7) as (8). Former par. (8) redesignated (9).
 
-Subsec. (a)(9). Pub. L. 100–607, §312(c)(1), substituted “paragraph (8)” for “paragraph (7)”.
+Subsec. (a)(9). Pub. L. 100–607, §312(c)(1), substituted "paragraph (8)" for "paragraph (7)".
 
 Pub. L. 100–607, §312(b)(1)(A), redesignated par. (8) as (9). Former par. (9) redesignated (10).
 
 Subsec. (a)(10), (11). Pub. L. 100–607, §312(b)(1)(A), redesignated pars. (9) and (10) as (10) and (11), respectively.
 
-Subsec. (b). Pub. L. 100–607, §312(a)(1), substituted “sections 300u through 300u–4 of this title” for “this subchapter”, struck out “and” after “September 30, 1986,”, and inserted “, and $10,000,000 for each of the fiscal years 1989 through 1991”.
+Subsec. (b). Pub. L. 100–607, §312(a)(1), substituted "sections 300u through 300u–4 of this title" for "this subchapter", struck out "and" after "September 30, 1986,", and inserted ", and $10,000,000 for each of the fiscal years 1989 through 1991".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–551, §2(a)(1), added par. (10), and in provisions following par. (10) struck out “and with health planning and resource development activities undertaken under subchapters XIII and XIV of this chapter” after “section 300k–2 of this title” and inserted provisions for appointment of a Director for Office of Disease Prevention and Health Promotion and cooperation in administration of this subchapter.
+<b>1984</b>—Subsec. (a). Pub. L. 98–551, §2(a)(1), added par. (10), and in provisions following par. (10) struck out "and with health planning and resource development activities undertaken under subchapters XIII and XIV of this chapter" after "section 300k–2 of this title" and inserted provisions for appointment of a Director for Office of Disease Prevention and Health Promotion and cooperation in administration of this subchapter.
 
-Subsec. (b). Pub. L. 98–551, §2(a)(2), substituted “To carry out this subchapter, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, and $10,000,000 for the fiscal year ending September 30, 1987” for “For payments under grants and contracts under this subchapter (other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title) there are authorized to be appropriated $7,000,000 for the fiscal year ending September 30, 1977, $10,000,000 for the fiscal year ending September 30, 1978, $14,000,000 for the fiscal year ending September 30, 1979, $14,000,000 for the fiscal year ending September 30, 1980, $15,000,000 for the fiscal year ending September 30, 1981, and $16,000,000 for the fiscal year ending September 30, 1982.”
+Subsec. (b). Pub. L. 98–551, §2(a)(2), substituted "To carry out this subchapter, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, and $10,000,000 for the fiscal year ending September 30, 1987" for "For payments under grants and contracts under this subchapter (other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title) there are authorized to be appropriated $7,000,000 for the fiscal year ending September 30, 1977, $10,000,000 for the fiscal year ending September 30, 1978, $14,000,000 for the fiscal year ending September 30, 1979, $14,000,000 for the fiscal year ending September 30, 1980, $15,000,000 for the fiscal year ending September 30, 1981, and $16,000,000 for the fiscal year ending September 30, 1982."
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–76 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1980, Sept. 30, 1981, and Sept. 30, 1982.
 
-Pub. L. 96–32 inserted “(other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title)” after “grants and contracts under this subchapter”.
+Pub. L. 96–32 inserted "(other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title)" after "grants and contracts under this subchapter".
 
 #### Short Title
 
-For short title of title I of Pub. L. 94–317, which enacted this subchapter as the “National Consumer Health Information and Health Promotion Act of 1976”, see section 101 of Pub. L. 94–317, set out as a Short Title of 1976 Amendments note under section 201 of this title.
+For short title of title I of Pub. L. 94–317, which enacted this subchapter as the "National Consumer Health Information and Health Promotion Act of 1976", see section 101 of Pub. L. 94–317, set out as a Short Title of 1976 Amendments note under section 201 of this title.
 
 #### Model Programs for Employee Health Promotion and Disease Prevention; Development Completion
 
@@ -104,7 +104,7 @@ Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539
 
 Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and to expand the executive branch's program for physical fitness and sports and establish the President's Council on Physical Fitness and Sports \[probably should be “President's Council on Fitness, Sports, and Nutrition”\] (the “Council”), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to expand the executive branch's program for physical fitness and sports and establish the President's Council on Physical Fitness and Sports \[probably should be "President's Council on Fitness, Sports, and Nutrition"\] (the "Council"), it is hereby ordered as follows:
 
 Section 1. <i>Purpose</i>. The Secretary of Health and Human Services (Secretary), in carrying out the Secretary's responsibilities for public health and human services, shall develop and coordinate a national program to enhance physical activity, fitness, sports participation, and good nutrition. Through this program, the Secretary shall, in consultation with the Secretaries of Agriculture and Education, seek to:
 
@@ -154,7 +154,7 @@ Sec. 5. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as anote under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -182,7 +182,9 @@ Term of the President's Council on Physical Fitness and Sports extended until Se
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Council on Fitness, Sports, and Nutrition extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Fitness, Sports, and Nutrition extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Council on Fitness, Sports, and Nutrition extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Ex. Ord. No. 13266. Activities To Promote Personal Fitness
 
@@ -198,7 +200,7 @@ Section 1. <i>Policy</i>. This order is issued consistent with the following fin
 
 (c) Individuals of all ages, locations, and levels of personal fitness can benefit from some level of appropriate physical activity, dietary guidance, preventive health screening, and making healthy choices.
 
-(d) While personal fitness is an individual responsibility, the Federal Government may, within the authorityand funds otherwise available, expand the opportunities for individuals to empower themselves to improve their general health. Such opportunities may include improving the flow of information about personal fitness, assisting in the utilization of that information, increasing the accessibility of resources for physical activity, and reducing barriers to achieving good personal fitness.
+(d) While personal fitness is an individual responsibility, the Federal Government may, within the authority and funds otherwise available, expand the opportunities for individuals to empower themselves to improve their general health. Such opportunities may include improving the flow of information about personal fitness, assisting in the utilization of that information, increasing the accessibility of resources for physical activity, and reducing barriers to achieving good personal fitness.
 
 Sec. 2. <i>Agency Responsibilities in Promoting Personal Fitness.</i>
 
@@ -208,7 +210,7 @@ Sec. 2. <i>Agency Responsibilities in Promoting Personal Fitness.</i>
 
 (c) There shall be a Personal Fitness Interagency Working Group (Working Group), composed of the Secretaries or Director of the departments and office included in section 2(a) (or their designees) and chaired by the Secretary of HHS or his designee. In order to improve efficiency through information sharing and to eliminate waste and overlap, the Working Group shall work to ensure the cooperation of Federal agencies in coordinating Federal personal fitness activities. The Working Group shall meet subject to the call of the Chair, but not less than twice a year. The Department of Health and Human Services shall provide such administrative support to the Working Group as the Secretary of HHS deems necessary. Each member of the Working Group shall be a full-time or permanent part-time officer or employee of the Federal Government.
 
-Sec. 3. <i>General Provisions</i>. This order is intended only to improve the internal management of the executive branch and it is not intended to, and does not, create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies or entities, its officers or employees, or any person.
+Sec. 3. <i>General Provisions</i>. This order is intended only to improve the internal management of the executive branch and it is not intended to, and does not, createany right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies or entities, its officers or employees, or any person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -238,7 +240,7 @@ Sec. 2. <i>Policy</i>. In fulfilling its responsibilities, the work of the Natio
 
 (e) Improves the coordination of care and information among hospitals, laboratories, physician offices, and other ambulatory care providers through an effective infrastructure for the secure and authorized exchange of health care information; and
 
-(f) Ensures that patients’ individually identifiable health information is secure and protected.
+(f) Ensures that patients' individually identifiable health information is secure and protected.
 
 Sec. 3. <i>Responsibilities of the National Health Information Technology Coordinator</i>. (a) The National Coordinator shall, to the extent permitted by law, develop, maintain, and direct the implementation of a strategic plan to guide the nationwide implementation of interoperable health information technology in both the public and private health care sectors that will reduce medical errors, improve quality, and produce greater value for health care expenditures. The National Coordinator shall report to the Secretary regarding progress on the development and implementation of the strategic plan within 90 days after the National Coordinator begins operations and periodically thereafter. The plan shall:
 
@@ -258,7 +260,7 @@ Sec. 3. <i>Responsibilities of the National Health Information Technology Coordi
 
 &emsp;(i) Serve as the Secretary's principal advisor on the development, application, and use of health information technology, and direct the Department of Health and Human Service's health information technology programs;
 
-&emsp;(ii) Ensure that health information technology policy and programs of the Department of Health and Human Services (HHS) are coordinated with those of relevant executive branch agencies (including Federal commissions) with a goal of avoiding duplicationof efforts and of helping to ensure that each agency undertakes activities primarily within the areas of its greatest expertise and technical capability;
+&emsp;(ii) Ensure that health information technology policy and programs of the Department of Health and Human Services (HHS) are coordinated with those of relevant executive branch agencies (including Federal commissions) with a goal of avoiding duplication of efforts and of helping to ensure that each agency undertakes activities primarily within the areas of its greatest expertise and technical capability;
 
 &emsp;(iii) To the extent permitted by law, coordinate outreach and consultation by the relevant executive branch agencies (including Federal commissions) with public and private parties of interest, including consumers, providers, payers, and administrators; and
 
@@ -286,13 +288,13 @@ Section 1. <i>Purpose</i>. It is the purpose of this order to ensure that health
 
 Sec. 2. <i>Definitions</i>. For purposes of this order:
 
-(a) “Agency” means an agency of the Federal Government that administers or sponsors a Federal health care program.
+(a) "Agency" means an agency of the Federal Government that administers or sponsors a Federal health care program.
 
-(b) “Federal health care program” means the Federal Employees Health Benefit Program, the Medicare program, programs operated directly by the Indian Health Service, the TRICARE program for the Department of Defense and other uniformed services, and the health care program operated by the Department of Veterans Affairs. For purposes of this order, “Federal health care program” does not include State operated or funded federally subsidized programs such as Medicaid, the State Children's Health Insurance Program, or services provided to Department of Veterans’ Affairs beneficiaries under 38 U.S.C. 1703.
+(b) "Federal health care program" means the Federal Employees Health Benefit Program, the Medicare program, programs operated directly by the Indian Health Service, the TRICARE program for the Department of Defense and other uniformed services, and the health care program operated by the Department of Veterans Affairs. For purposes of this order, "Federal health care program" does not include State operated or funded federally subsidized programs such as Medicaid, the State Children's Health Insurance Program, or services provided to Department of Veterans' Affairs beneficiaries under 38 U.S.C. 1703.
 
-(c) “Interoperability” means the ability to communicate and exchange data accurately, effectively, securely, and consistently with different information technology systems, software applications, and networks in various settings, and exchange data such that clinical or operational purpose and meaning of the data are preserved and unaltered.
+(c) "Interoperability" means the ability to communicate and exchange data accurately, effectively, securely, and consistently with different information technology systems, software applications, and networks in various settings, and exchange data such that clinical or operational purpose and meaning of the data are preserved and unaltered.
 
-(d) “Recognized interoperability standards” means interoperability standards recognized by the Secretary of Health and Human Services (the “Secretary”), in accordance with guidance developed by the Secretary, as existing on the date of the implementation, acquisition, or upgrade of health information technology systems under subsections (1) or (2) of section 3(a) of this order.
+(d) "Recognized interoperability standards" means interoperability standards recognized by the Secretary of Health and Human Services (the "Secretary"), in accordance with guidance developed by the Secretary, as existing on the date of the implementation, acquisition, or upgrade of health information technology systems under subsections (1) or (2) of section 3(a) of this order.
 
 Sec. 3. <i>Directives for Agencies</i>. Agencies shall perform the following functions:
 

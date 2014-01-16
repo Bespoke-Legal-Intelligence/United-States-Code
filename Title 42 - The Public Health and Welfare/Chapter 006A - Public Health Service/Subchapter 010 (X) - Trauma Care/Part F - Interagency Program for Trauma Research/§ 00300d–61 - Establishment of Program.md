@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the National Institutes of Health (in this section referred to as the “Director”), shall establish a comprehensive program of conducting basic and clinical research on trauma (in this section referred to as the “Program”). The Program shall include research regarding the diagnosis, treatment, rehabilitation, and general management of trauma.
+The Secretary, acting through the Director of the National Institutes of Health (in this section referred to as the "Director"), shall establish a comprehensive program of conducting basic and clinical research on trauma (in this section referred to as the "Program"). The Program shall include research regarding the diagnosis, treatment, rehabilitation, and general management of trauma.
 
 #### (b) Plan for Program
 
@@ -12,7 +12,7 @@ The Secretary, acting through the Director of the National Institutes of Health 
 
 #### (2) Submission to Congress
 
-&emsp;Not later than December 1, 1993, the Director shall submit the plan required in paragraph (1) to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions of the Senate, together with an estimate of the funds needed for each of the fiscal years 1994 through 1996 to implement the plan.
+&emsp;Not later than December 1, 1993, the Director shall submit the plan required in paragraph (1)to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions of the Senate, together with an estimate of the funds needed for each of the fiscal years 1994 through 1996 to implement the plan.
 
 #### (c) Participating agencies; coordination and collaboration
 
@@ -58,7 +58,7 @@ The Director shall assure the availability of appropriate resources to carry out
 
 #### (1) In general
 
-&emsp;There shall be established a Trauma Research Interagency Coordinating Committee (in this section referred to as the “Coordinating Committee”).
+&emsp;There shall be established a Trauma Research Interagency Coordinating Committee (in this section referred to as the "Coordinating Committee").
 
 #### (2) Duties
 
@@ -76,13 +76,13 @@ The Director shall assure the availability of appropriate resources to carry out
 
 For purposes of this section:
 
-&emsp;(1) The term “designated trauma center” has the meaning given such term in section 300d–31(1) of this title.
+&emsp;(1) The term "designated trauma center" has the meaning given such term in section 300d–31(1) of this title.
 
-&emsp;(2) The term “Director” means the Director of the National Institutes of Health.
+&emsp;(2) The term "Director" means the Director of the National Institutes of Health.
 
-&emsp;(3) The term “trauma” means any serious injury that could result in loss of life or in significant disability and that would meet pre-hospital triage criteria for transport to a designated trauma center.
+&emsp;(3) The term "trauma" means any serious injury that could result in loss of life or in significant disability and that would meet pre-hospital triage criteria for transport to a designated trauma center.
 
-&emsp;(4) The term “traumatic brain injury” means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
+&emsp;(4) The term "traumatic brain injury" means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
 
 #### (i) Authorization of appropriations
 
@@ -92,23 +92,23 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–206, §5(1), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–206, §5(1), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources".
 
-Subsec. (d)(4)(D). Pub. L. 110–206, §5(2), substituted “brain injury” for “head brain injury”.
+Subsec. (d)(4)(D). Pub. L. 110–206, §5(2), substituted "brain injury" for "head brain injury".
 
-Subsec. (i). Pub. L. 110–206, §5(3), inserted “, and such sums as may be necessary for each of the fiscal years 2009 through 2012” before period at end.
+Subsec. (i). Pub. L. 110–206, §5(3), inserted ", and such sums as may be necessary for each of the fiscal years 2009 through 2012" before period at end.
 
-<b>2000</b>—Subsec. (d)(4)(A). Pub. L. 106–310, §1303(a)(1), substituted “degree of brain injury” for “degree of injury”.
+<b>2000</b>—Subsec. (d)(4)(A). Pub. L. 106–310, §1303(a)(1), substituted "degree of brain injury" for "degree of injury".
 
-Subsec. (d)(4)(B). Pub. L. 106–310, §1303(a)(2), which directed amendment of subpar. (B) by substituting “acute brain injury” for “acute injury”, could not be executed because the phrase “acute injury” does not appear in text.
+Subsec. (d)(4)(B). Pub. L. 106–310, §1303(a)(2), which directed amendment of subpar. (B) by substituting "acute brain injury" for "acute injury", could not be executed because the phrase "acute injury" does not appear in text.
 
-Subsec. (d)(4)(C). Pub. L. 106–310, §1303(c)(1), struck out “and” after semicolon at end.
+Subsec. (d)(4)(C). Pub. L. 106–310, §1303(c)(1), struck out "and" after semicolon at end.
 
-Subsec. (d)(4)(D). Pub. L. 106–310, §1303(a)(3), (c)(2), substituted “brain injury treatment” for “injury treatment” and “; and” for period at end.
+Subsec. (d)(4)(D). Pub. L. 106–310, §1303(a)(3), (c)(2), substituted "brain injury treatment" for "injury treatment" and "; and" for period at end.
 
 Subsec. (d)(4)(E). Pub. L. 106–310, §1303(c)(3), added subpar. (E).
 
-Subsec. (h)(4). Pub. L. 106–310, §1303(b), substituted “anoxia due to trauma” for “anoxia due to near drowning” in second sentence and inserted before period at end “, after consultation with States and other appropriate public or nonprofit private entities”.
+Subsec. (h)(4). Pub. L. 106–310, §1303(b), substituted "anoxia due to trauma" for "anoxia due to near drowning" in second sentence and inserted before period at end ", after consultation with States and other appropriate public or nonprofit private entities".
 
 Subsec. (i). Pub. L. 106–310, §1303(d), added subsec. (i).
 

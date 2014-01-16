@@ -8,15 +8,19 @@ Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 St
 
 (Pub. L. 93–205, §18, as added Pub. L. 100–478, title I, §1012, Oct. 7, 1988, 102 Stat. 2314; amended Pub. L. 106–201, §1(a), May 18, 2000, 114 Stat. 307.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–201, in introductory provisions, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), on” for “On”.
+<b>2000</b>—Pub. L. 106–201, in introductory provisions, substituted "Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), on" for "On".
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–201, §1(b), May 18, 2000, 114 Stat. 307, provided that: “The amendment made by this section \[amending this section\] takes effect on the earlier of—
+Pub. L. 106–201, §1(b), May 18, 2000, 114 Stat. 307, provided that: "The amendment made by this section \[amending this section\] takes effect on the earlier of—
 
-&emsp;“(1) the date of enactment of this Act \[May 18, 2000\]; or
+&emsp;"(1) the date of enactment of this Act \[May 18, 2000\]; or
 
-&emsp;“(2) December 19, 1999.”
+&emsp;"(2) December 19, 1999."
 

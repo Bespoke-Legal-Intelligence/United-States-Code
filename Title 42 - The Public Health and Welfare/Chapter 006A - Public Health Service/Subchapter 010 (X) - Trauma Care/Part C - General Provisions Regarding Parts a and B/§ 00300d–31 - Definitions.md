@@ -4,31 +4,31 @@ For purposes of this part and parts A and B of this subchapter:
 
 #### (1) Designated trauma center
 
-&emsp;The term “designated trauma center” means a trauma center designated in accordance with the modifications to the State plan described in section 300d–13 of this title.
+&emsp;The term "designated trauma center" means a trauma center designated in accordance with the modifications to the State plan described in section 300d–13 of this title.
 
 #### (2) State plan regarding emergency medical services
 
-&emsp;The term “State plan”, with respect to the provision of emergency medical services, means a plan for a comprehensive, organized system to provide for the access, response, triage, field stabilization, transport, hospital stabilization, definitive care, and rehabilitation of patients of all ages with respect to emergency medical services.
+&emsp;The term "State plan", with respect to the provision of emergency medical services, means a plan for a comprehensive, organized system to provide for the access, response, triage, field stabilization, transport, hospital stabilization, definitive care, and rehabilitation of patients of all ages with respect to emergency medical services.
 
 #### (3) State
 
-&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (4) Trauma
 
-&emsp;The term “trauma” means an injury resulting from exposure to a mechanical force.
+&emsp;The term "trauma" means an injury resulting from exposure to a mechanical force.
 
 #### (5) Trauma care component of State plan
 
-&emsp;The term “trauma care component”, with respect to components of the State plan for the provision of emergency medical services, means a plan for a comprehensive health care system, within rural and urban areas of the State, for the prompt recognition, prehospital care, emergency medical care, acute surgical and medical care, rehabilitation, and outcome evaluation of seriously injured patients.
+&emsp;The term "trauma care component", with respect to components of the State plan for the provision of emergency medical services, means a plan for a comprehensive health care system, within rural and urban areas of the State, for the prompt recognition, prehospital care, emergency medical care, acute surgical and medical care, rehabilitation, and outcome evaluation of seriously injured patients.
 
 (July 1, 1944, ch. 373, title XII, §1231, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2926; amended Pub. L. 102–321, title VI, §602(2), July 10, 1992, 106 Stat. 436; Pub. L. 103–183, title VI, §601(f)(4), Dec. 14, 1993, 107 Stat. 2239.)
 
 #### Amendments
 
-<b>1993</b>—Par. (3). Pub. L. 103–183 substituted “Puerto Rico,” for “Puerto Rico;”.
+<b>1993</b>—Par. (3). Pub. L. 103–183 substituted "Puerto Rico," for "Puerto Rico;".
 
-<b>1992</b>—Pub. L. 102–321 substituted “this part and parts A and B of this subchapter” for “this subchapter” in introductory provisions.
+<b>1992</b>—Pub. L. 102–321 substituted "this part and parts A and B of this subchapter" for "this subchapter" in introductory provisions.
 
 #### Effective Date of 1992 Amendment
 

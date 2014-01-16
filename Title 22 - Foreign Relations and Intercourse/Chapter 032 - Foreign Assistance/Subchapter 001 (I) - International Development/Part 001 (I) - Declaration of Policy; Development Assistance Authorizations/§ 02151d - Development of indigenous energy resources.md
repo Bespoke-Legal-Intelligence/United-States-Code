@@ -20,7 +20,7 @@
 
 #### (b) General assistance authority; cooperative programs in energy production and conservation; program goals
 
-(1) In order to help developing countries alleviate their energy problems by improving their ability to use indigenous energy resources to produce the energy needed by their economies, the President is authorized to furnish assistance, on such terms and conditions as he maydetermine, to enable such countries to prepare for and undertake development of their energy resources. Such assistance may include data collection and analysis, the training of skilled personnel, research on and development of suitable energy sources, and pilot projects to test new methods of energy production.
+(1) In order to help developing countries alleviate their energy problems by improving their ability to use indigenous energy resources to produce the energy needed by their economies, the President is authorized to furnish assistance, on such terms and conditions as he may determine, to enable such countries to prepare for and undertake development of their energy resources. Such assistance may include data collection and analysis, the training of skilled personnel, research on and development of suitable energy sources, and pilot projects to test new methods of energy production.
 
 (2) The President is authorized to furnish assistance under this part for cooperative programs with developing countries in energy production and conservation, through research on and development and use of small-scale, decentralized, renewable energy sources for rural areas carried out as integral parts of rural development efforts in accordance with section 2151a of this title. Such programs shall also be directed toward the earliest practicable development and use of energy technologies which are environmentally acceptable, require minimum capital investment, are most acceptable to and affordable by the people using them, are simple and inexpensive to use and maintain, and are transferable from one region of the world to another. Such programs may include research on and the development, demonstration, and application of suitable energy technologies (including use of wood); analysis of energy uses, needs, and resources; training and institutional development; and scientific interchange.
 
@@ -30,7 +30,7 @@ The agency primarily responsible for administering subchapter I of this chapter 
 
 #### (d) Assistance for programs of technical cooperation and development, research, etc.
 
-The President is authorized to furnish assistance, on such terms and conditions as he may determine, for the following activities, to the extent that such activities are not authorized by sections 2151a, 2151b, and 2151c of this title:
+The President is authorized to furnish assistance, on such terms and conditions as he maydetermine, for the following activities, to the extent that such activities are not authorized by sections 2151a, 2151b, and 2151c of this title:
 
 &emsp;(1) programs of technical cooperation and development, particularly the development efforts of United States private and voluntary agencies and regional and international development organizations;
 
@@ -76,9 +76,9 @@ Subsec. (e)(1). Pub. L. 97–113, §304(b), substituted appropriations of $147,2
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–533, §304(b), designated existing provisions as subpar. (1)(A), substituted subpar. (B), (C), and (D) for par. (2), (3), and (4) designations, substituted in subpar. (C), cl. (i), (ii), and (iii) for (A), (B), and (C) designations, and added par. (2).
 
-Subsec. (b). Pub. L. 96–533, §304(c), (d), designated existing provisions as subpar. (1)(A), substituted subpar. (B) for par. (2) designation, substituted in subpar. (1)(B) “fiscal year 1981 shall be used for purposes of subparagraph (A)” for “fiscal year 1980 shall be used for purposes of paragraph (1)” and added par. (2).
+Subsec. (b). Pub. L. 96–533, §304(c), (d), designated existing provisions as subpar. (1)(A), substituted subpar. (B) for par. (2) designation, substituted in subpar. (1)(B) "fiscal year 1981 shall be used for purposes of subparagraph (A)" for "fiscal year 1980 shall be used for purposes of paragraph (1)" and added par. (2).
 
-Subsecs. (c) to (e). Pub. L. 96–533, §304(d)–(f), added subsec. (c), redesignated former subsecs. (c) and (d) as (d) and (e), respectively, and in subsec. (e) designated text as pars. (1) and (2), and in par. (1) as so designated, substituted appropriations authorization of “$140,000,000 for the fiscal year 1981” for such appropriation of “$125,000,000 for the fiscal year 1980”.
+Subsecs. (c) to (e). Pub. L. 96–533, §304(d)–(f), added subsec. (c), redesignated former subsecs. (c) and (d) as (d) and (e), respectively, and in subsec. (e) designated text as pars. (1) and (2), and in par. (1) as so designated, substituted appropriations authorization of "$140,000,000 for the fiscal year 1981" for such appropriation of "$125,000,000 for the fiscal year 1980".
 
 <b>1979</b>—Subsecs. (a), (b). Pub. L. 96–53, §104(b)(2), (3), added subsecs. (a) and (b). Former subsecs. (a) and (b) redesignated (c) and (d), respectively.
 
@@ -86,7 +86,7 @@ Subsec. (c). Pub. L. 96–53, §104(b)(1), (2), redesignated former subsec. (a) 
 
 Subsec. (d). Pub. L. 96–53, §§104(b)(2), 105, redesignated former subsec. (b) as (d) and substituted provisions authorizing appropriations for fiscal year 1980 of $125,000,000, for provisions authorizing appropriations for fiscal year 1979 of $126,244,000, and setting forth requirements for appropriations available to private voluntary agencies of the United States.
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–424 substituted “$126,244,000 for the fiscal year 1979, which amount is” for “$104,500,000 for the fiscal year 1977 and $105,000,000 for the fiscal year 1978, which amounts are”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–424 substituted "$126,244,000 for the fiscal year 1979, which amount is" for "$104,500,000 for the fiscal year 1977 and $105,000,000 for the fiscal year 1978, which amounts are".
 
 <b>1977</b>—Subsec. (b). Pub. L. 95–88 struck out provisions authorizing an appropriation of $99,550,000 for fiscal year 1976 and inserted provisions authorizing an appropriation of $105,000,000 for fiscal year 1978.
 

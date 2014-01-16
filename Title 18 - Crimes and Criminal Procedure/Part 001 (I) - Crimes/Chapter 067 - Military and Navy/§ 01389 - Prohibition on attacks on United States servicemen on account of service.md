@@ -18,11 +18,11 @@ Exception.—This section shall not apply to conduct by a person who is subject 
 
 Definitions.—In this section—
 
-&emsp;(1) the term “Armed Forces” has the meaning given that term in section 1388;
+&emsp;(1) the term "Armed Forces" has the meaning given that term in section 1388;
 
-&emsp;(2) the term “immediate family member” has the meaning given that term in section 115; and
+&emsp;(2) the term "immediate family member" has the meaning given that term in section 115; and
 
-&emsp;(3) the term “United States serviceman”—
+&emsp;(3) the term "United States serviceman"—
 
 &emsp;&emsp;(A) means a member of the Armed Forces; and
 

@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 5 U.S.C. 300d.
 
-Aug. 31, 1964, Pub. L. 88–527, §201 (2nd par. under “Federal Bureau of Investigation”), 78 Stat. 718.
+Aug. 31, 1964, Pub. L. 88–527, §201 (2nd par. under "Federal Bureau of Investigation"), 78 Stat. 718.
 
 5 U.S.C. 341c (last sentence).
 

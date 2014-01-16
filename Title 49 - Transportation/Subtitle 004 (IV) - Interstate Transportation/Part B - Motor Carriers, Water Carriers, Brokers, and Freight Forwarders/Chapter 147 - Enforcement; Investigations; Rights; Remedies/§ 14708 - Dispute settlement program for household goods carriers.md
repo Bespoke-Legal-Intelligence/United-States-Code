@@ -78,7 +78,7 @@ Limitation of Applicability to Collect-on-Delivery Transportation.—The provisi
 
 Review by Secretary.—Not later than 18 months after January 1, 1996, the Secretary shall complete a review of the dispute settlement program established under this section. If, after notice and opportunity for comment, the Secretary determines that changes are necessary to such program to ensure the fair and equitable resolution of disputes under this section, the Secretary shall implement such changes and transmit a report to Congress on such changes.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 910; amended Pub. L. 104–287, §5(38), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 106–159, title II, §209(b), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §4208, Aug. 10, 2005, 119 Stat. 1757.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 910; amended Pub. L. 104–287, §5(38),Oct. 11, 1996, 110 Stat. 3392; Pub. L. 106–159, title II, §209(b), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §4208, Aug. 10, 2005, 119 Stat. 1757.)
 
 #### Prior Provisions
 
@@ -86,15 +86,15 @@ Provisions similar to those in this section were contained in section 11711 of t
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59, §4208(a), inserted “and to determine whether carrier charges, in addition to those collected at delivery, must be paid by shippers for transportation and services related to transportation of household goods” before period at end.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §4208(a), inserted "and to determine whether carrier charges, in addition to those collected at delivery, must be paid by shippers for transportation and services related to transportation of household goods" before period at end.
 
-Subsec. (b)(6). Pub. L. 109–59, §4208(b), substituted “$10,000” for “$5,000” in two places.
+Subsec. (b)(6). Pub. L. 109–59, §4208(b), substituted "$10,000" for "$5,000" in two places.
 
-Subsec. (b)(8). Pub. L. 109–59, §4208(c), substituted “compensation for damages, and an order requiring the payment of additional carrier charges” for “and compensation for damages”.
+Subsec. (b)(8). Pub. L. 109–59, §4208(c), substituted "compensation for damages, and an order requiring the payment of additional carrier charges" for "and compensation for damages".
 
 Subsec. (d)(3). Pub. L. 109–59, §4208(d), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
-<b>1999</b>—Subsec. (b)(6). Pub. L. 106–159 substituted “$5000” for “$1000” in two places.
+<b>1999</b>—Subsec. (b)(6). Pub. L. 106–159 substituted "$5000" for "$1000" in two places.
 
-<b>1996</b>—Subsec. (g). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of this section".
 

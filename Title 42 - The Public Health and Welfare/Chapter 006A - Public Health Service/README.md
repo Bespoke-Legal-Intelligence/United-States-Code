@@ -158,7 +158,7 @@
 | 247b–4a. | Early detection, diagnosis, and interventions for newborns and infants with hearing loss. |
 | 247b–4b to 247b–4e. Repealed. |  |
 | 247b–4f. | Research relating to preterm labor and delivery and the care, treatment, and outcomes of preterm and low birthweight infants. |
-| 247b–4g. | Interagency Coordinating Council on Prematurity and Low Birthweight. |
+| 247b–4g. | Repealed. |
 | 247b–5. | Preventive health measures with respect to prostate cancer. |
 | 247b–6. | National strategy for combating and eliminating tuberculosis. |
 | 247b–7. | Loan repayment program. |
@@ -193,7 +193,7 @@
 | 247d–6. | Public health countermeasures to a bioterrorist attack. |
 | 247d–6a. | Authority for use of certain procedures regarding qualified countermeasure research and development activities. |
 | 247d–6b. | Strategic National Stockpile and security countermeasure procurements. |
-| 247d–6c. | Reports regarding authorities under this Act. |
+| 247d–6c. | Repealed. |
 | 247d–6d. | Targeted liability protections for pandemic and epidemic products and security countermeasures. |
 | 247d–6e. | Covered countermeasure process. |
 | 247d–7. | Demonstration program to enhance bioterrorism training, coordination, and readiness. |
@@ -445,6 +445,7 @@
 | 274f–2. | Grants regarding hospital organ donation coordinators. |
 | 274f–3. | Studies relating to organ donation and the recovery, preservation, and transportation of organs. |
 | 274f–4. | Report relating to organ donation and the recovery, preservation, and transportation of organs. |
+| 274f–5. | Criteria, standards, and regulations with respect to organs infected with HIV. |
 | [274g.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20H%20-%20Organ%20Transplants/%C2%A7%2000274g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -567,7 +568,7 @@
 | 280g–1. | Early detection, diagnosis, and treatment regarding hearing loss in newborns and infants. |
 | 280g–2. | Childhood malignancies. |
 | 280g–3. | .Controlled substance monitoring program. |
-| 280g–4. | Grants to foster public health responses to domestic violence, dating violence, sexual assault, and stalking. |
+| 280g–4. | Grants to strengthen the healthcare system's response to domestic violence, dating violence, sexual assault, and stalking. |
 | 280g–5. | Public and health care provider education and support services. |
 | 280g–6. | Chronic kidney disease initiatives. |
 | 280g–7. | Amyotrophic lateral sclerosis registry. |
@@ -661,7 +662,7 @@
 | [282\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282%20-%20Director%20of%20National%20Institutes%20of%20Health.md) | Director of National Institutes of Health. |
 | [282a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282a%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [282b.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282b%20-%20Electronic%20coding%20of%20grants%20and%20activities.md) | Electronic coding of grants and activities. |
-| [282c.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282c%20-%20Public%20access%20to%20funded%20investigators%E2%80%99%20final%20manuscripts.md) | Public access to funded investigators’ final manuscripts. |
+| [282c.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282c%20-%20Public%20access%20to%20funded%20investigators%27%20final%20manuscripts.md) | Public access to funded investigators' final manuscripts. |
 | [282d.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282d%20-%20Transferred.md) | Transferred. |
 | [283\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283%20-%20Biennial%20reports%20of%20Director%20of%20NIH.md) | Biennial reports of Director of NIH. |
 | [283a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283a%20-%20Annual%20reporting%20to%20increase%20interagency%20collaboration%20and%20coordination.md) | Annual reporting to increase interagency collaboration and coordination. |
@@ -1460,8 +1461,7 @@
 | [294e.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294e%20-%20Allied%20health%20and%20other%20disciplines.md) | Allied health and other disciplines. |
 | 294e–1. | Mental and behavioral health education and training grants. |
 | [294f.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294f%20-%20Advisory%20Committee%20on%20Interdisciplinary%2C%20Community-Based%20Linkages.md) | Advisory Committee on Interdisciplinary, Community-Based Linkages. |
-| [294g.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294g%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93148%2C%20title%20V%2C%20%C2%A75306%28a%29%281%29%2C%20Mar.%2023%2C%202010%2C%20124%20Stat.%20626.md) | Repealed. |
-| [294h.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294h%20-%20Interdisciplinary%20training%20and%20education%20on%20domestic%20violence%20and%20other%20types%20of%20violence%20and%20abuse.md) | Interdisciplinary training and education on domestic violence and other types of violence and abuse. |
+| 294g, 294h. | Repealed. |
 | [294i.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294i%20-%20Program%20for%20education%20and%20training%20in%20pain%20care.md) | Program for education and training in pain care. |
 | [294j.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294j%20-%20Demonstration%20program%20to%20integrate%20quality%20improvement%20and%20patient%20safety%20training%20into%20clinical%20education%20of%20health%20professionals.md) | Demonstration program to integrate quality improvement and patient safety training into clinical education of health professionals. |
 
@@ -1886,7 +1886,7 @@
 | 300e–6. | Administration of assistance programs. |
 | 300e–7. | General provisions relating to loan guarantees and loans. |
 | 300e–8. | Authorization of appropriations. |
-| 300e–9. | Employees’ health benefits plans. |
+| 300e–9. | Employees' health benefits plans. |
 | 300e–10. | Restrictive State laws and practices. |
 | 300e–11. | Continued regulation of health maintenance organizations. |
 | 300e–12. | Limitation on source of funding for health maintenance organizations. |
@@ -2766,6 +2766,7 @@
 |  |  |
 | :--- | ---: |
 | 300hh–10. | Coordination of preparedness for and response to all-hazards public health emergencies. |
+| 300hh–10a. | National Advisory Committee on Children and Disasters. |
 | 300hh–11. | National Disaster Medical System. |
 | 300hh–12. | Transferred. |
 | 300hh–13. | Evaluation of new and emerging technologies regarding bioterrorist attack and other public health emergencies. |

@@ -24,7 +24,7 @@ Contracts and subcontracts for supplies or services, including personal services
 
 The head of any Federal agency may, for purposes of this chapter—
 
-&emsp;(1) transfer or loan any property to, and perform administrative and technical support functions and services for the operations of, the Department of State (with reimbursements to agencies under this paragraph to be credited to the current applicable appropriation of the agency concerned); and
+&emsp;(1) transfer or loan any property to, and perform administrative and technical supportfunctions and services for the operations of, the Department of State (with reimbursements to agencies under this paragraph to be credited to the current applicable appropriation of the agency concerned); and
 
 &emsp;(2) acquire and accept services from the Department of State, including (whenever the Secretary determines it to be in furtherance of the purposes of this chapter) acquisitions without regard to laws normally applicable to the acquisition of services by such agency.
 
@@ -48,13 +48,13 @@ Except as otherwise provided, any determination required under this chapter shal
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c)(1). Pub. L. 103–236, §162(o)(6)(B), substituted “Department of State” for “Office of Foreign Missions”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–236, §162(o)(6)(B), substituted "Department of State" for "Office of Foreign Missions".
 
-Subsec. (d). Pub. L. 103–236, §162(o)(6)(A), substituted “behalf of the Secretary” for “behalf of the Director”.
+Subsec. (d). Pub. L. 103–236, §162(o)(6)(A), substituted "behalf of the Secretary" for "behalf of the Director".
 
-Subsecs. (e), (f). Pub. L. 103–236, §162(o)(6)(B), substituted “Department of State” for “Office of Foreign Missions” wherever appearing.
+Subsecs. (e), (f). Pub. L. 103–236, §162(o)(6)(B), substituted "Department of State" for "Office of Foreign Missions" wherever appearing.
 
-Subsec. (h)(2). Pub. L. 103–236, §162(o)(6)(C), struck out “Director or the” after “received by the”.
+Subsec. (h)(2). Pub. L. 103–236, §162(o)(6)(C), struck out "Director or the" after "received by the".
 
 #### Effective Date of 1994 Amendment
 

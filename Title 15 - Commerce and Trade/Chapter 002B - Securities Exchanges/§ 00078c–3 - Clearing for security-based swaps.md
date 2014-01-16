@@ -24,7 +24,7 @@
 
 #### (2) Swap submissions
 
-&emsp;(A) A clearing agency shall submit to the Commission each security-based swap, or any group, category, type, or class of security-based swaps that it plans to accept for clearing and provide notice to its members (in a manner to be determined by the Commission) of such submission.
+&emsp;(A) A clearing agency shall submit to the Commission each security-based swap, or any group, category, type, or class of security-based swaps that it plans to accept for clearing and provide notice to its members (in amanner to be determined by the Commission) of such submission.
 
 &emsp;(B) Any security-based swap or group, category, type, or class of security-based swaps listed for clearing by a clearing agency as of July 21, 2010, shall be considered submitted to the Commission.
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) review each submission made under subparagraphs (A) and (B), and determine whether the security-based swap, or group, category, type, or class of security-based swaps, described in the submission is required to be cleared; and
 
-&emsp;&emsp;(iii) provide at least a 30-day public comment period regarding its determinationwhether the clearing requirement under subsection (a)(1) shall apply to the submission.
+&emsp;&emsp;(iii) provide at least a 30-day public comment period regarding its determination whether the clearing requirement under subsection (a)(1) shall apply to the submission.
 
 #### (3) Deadline
 
@@ -92,7 +92,7 @@
 
 #### (2) Duty of Commission to investigate and take certain actions
 
-&emsp;To the extent the Commission finds that a particular security-based swap or any group, category, type, or class of security-based swaps that would otherwise be subject to mandatory clearing but no clearing agency has listed the security-based swap or the group, category, type, or class of security-based swaps for clearing, the Commission shall—
+&emsp;To the extent the Commission finds that a particular security-based swap or any group,category, type, or class of security-based swaps that would otherwise be subject to mandatory clearing but no clearing agency has listed the security-based swap or the group, category, type, or class of security-based swaps for clearing, the Commission shall—
 
 &emsp;&emsp;(A) investigate the relevant facts and circumstances;
 
@@ -146,7 +146,7 @@ Rules adopted by the Commission under this section shall provide for the reporti
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of this subsection, the term “financial entity” means—
+&emsp;&emsp;For the purposes of this subsection, the term "financial entity" means—
 
 &emsp;&emsp;&emsp;(i) a swap dealer;
 
@@ -292,11 +292,11 @@ Exemptions from the requirements of this section to clear a security-based swap 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (d)(1), was in the original “this Act”, and this chapter, referred to in subsec. (j)(2)(D), (3)(A)(i), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(1) and (d)(1), was in the original "this Act", and this chapter, referred to in subsec. (j)(2)(D), (3)(A)(i), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 For the effective date of this section, referred to in subsec. (e), see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 77b of this title.
 
-Subsection (c) of that section, referred to in subsec. (g)(4)(B)(v), was in the original “subsection (c) of that Act”, and was translated as meaning subsec. (c) of section 3 of act Aug. 22, 1940, ch. 686, to reflect the probable intent of Congress.
+Subsection (c) of that section, referred to in subsec. (g)(4)(B)(v), was in the original "subsection (c) of that Act", and was translated as meaning subsec. (c) of section 3 of act Aug. 22, 1940, ch. 686, to reflect the probable intent of Congress.
 
 #### Effective Date
 

@@ -16,7 +16,7 @@ The actions described in this subsection are as follows:
 
 #### References in Text
 
-The S.A.F.E. Mortgage Licensing Act of 2008, referred to in subsec. (b)(2), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 5101 of this title and Tables.
+The S.A.F.E. Mortgage Licensing Act of 2008, referred to in subsec. (b)(2), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 #### Prior Provisions
 

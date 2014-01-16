@@ -10,7 +10,7 @@ The notice of the Administrator shall be deemed to be a finding under section 74
 
 #### (c) Reciprocity
 
-This section shall apply only to a foreign country which the Administrator determines has given the United States essentially the same rights with respect to the prevention or control of air pollution occurring in that country as is given that country by this section.
+This section shall apply only to a foreign country which the Administrator determineshas given the United States essentially the same rights with respect to the prevention or control of air pollution occurring in that country as is given that country by this section.
 
 #### (d) Recommendations
 
@@ -26,27 +26,27 @@ Section was formerly classified to section 1857d of this title.
 
 <b>1977</b>—Pub. L. 95–95 completely revised section by substituting provisions establishing a mechanism for the Administrator to trigger a revision of a State implementation plan under section 7410(a)(2)(H) upon a petition of an international agency or the Secretary of State if he finds that emissions originating in a State endanger the health or welfare of persons in a foreign country for provisions calling for the abatement of air pollution by means of conference procedures.
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–604, §4(b)(2), inserted “and which is covered by subsection (b) or (c) of this section” after “persons”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–604, §4(b)(2), inserted "and which is covered by subsection (b) or (c) of this section" after "persons".
 
-Subsec. (b). Pub. L. 91–604, §§4(b)(3), (4), (5), 15(c)(2), redesignated former subsec. (d)(1)(A), (B), and (C) as (b)(1), (2), and (3), substituted “Administrator” for “Secretary” wherever appearing, and added subsec. (b)(4). Former subsec. (b), which related to the encouragement of municipal, State, and interstate action to abate air pollution, was struck out.
+Subsec. (b). Pub. L. 91–604, §§4(b)(3), (4), (5), 15(c)(2), redesignated former subsec. (d)(1)(A), (B), and (C) as (b)(1), (2), and (3), substituted "Administrator" for "Secretary" wherever appearing, and added subsec. (b)(4). Former subsec. (b), which related to the encouragement of municipal, State, and interstate action to abate air pollution, was struck out.
 
-Subsec. (c). Pub. L. 91–604, §§4(b)(3), (6), 15(c)(2), redesignated former subsec. (d)(1)(D) as (c) and substituted “Administrator” for “Secretary” and “Secretary of Health, Education, and Welfare” wherever appearing and “subsection” for “subparagraph” wherever appearing. Former subsec. (c), which related to the procedure for the promulgation of State air quality standards, was struck out.
+Subsec. (c). Pub. L. 91–604, §§4(b)(3), (6), 15(c)(2), redesignated former subsec. (d)(1)(D) as (c) and substituted "Administrator" for "Secretary" and "Secretary of Health, Education, and Welfare" wherever appearing and "subsection" for "subparagraph" wherever appearing. Former subsec. (c), which related to the procedure for the promulgation of State air quality standards, was struck out.
 
-Subsec. (d). Pub. L. 91–604, §§4(b)(4), (6), (7), (8), 15(c)(2), redesignated former subsec. (d)(2) and (3) as (d)(1) and (2), in (d)(1) substituted “Administrator” for “Secretary” wherever appearing and “any conference under this section” for “such conference”, and in (d)(2) substituted “Administrator” for “Secretary”. Former subsec. (d)(1)(A), (B), and (C) were redesignated as (b)(1), (2), and (3), respectively, and subsec. (d)(1)(D) was redesignated as (c).
+Subsec. (d). Pub. L. 91–604, §§4(b)(4), (6), (7), (8), 15(c)(2), redesignated former subsec. (d)(2) and (3) as (d)(1) and (2), in (d)(1) substituted "Administrator" for "Secretary" wherever appearing and "any conference under this section" for "such conference", and in (d)(2) substituted "Administrator" for "Secretary". Former subsec. (d)(1)(A), (B), and (C) were redesignated as (b)(1), (2), and (3), respectively, and subsec. (d)(1)(D) was redesignated as (c).
 
-Subsec. (e). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
+Subsec. (e). Pub. L. 91–604, §15(c)(2), substituted "Administrator" for "Secretary" wherever appearing.
 
-Subsec. (f). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” wherever appearing and “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
+Subsec. (f). Pub. L. 91–604, §15(c)(2), substituted "Administrator" for "Secretary" wherever appearing and "Environmental Protection Agency" for "Department of Health, Education, and Welfare".
 
-Subsec. (g). Pub. L. 91–604, §§4(b)(9), 15(c)(2), substituted “Administrator” for “Secretary” and “subsection (c)” for “subparagraph (D) of subsection (d)”.
+Subsec. (g). Pub. L. 91–604, §§4(b)(9), 15(c)(2), substituted "Administrator" for "Secretary" and "subsection (c)" for "subparagraph (D) of subsection (d)".
 
-Subsecs. (i), (j). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
+Subsecs. (i), (j). Pub. L. 91–604, §15(c)(2), substituted "Administrator" for "Secretary" wherever appearing.
 
 Subsec. (k). Pub. L. 91–604, §4(b)(3), (10), substituted provisions relating to compliance with any requirement of an applicable implementation plan or with any standard prescribed under section 7411 of this title or section 7412 of this title, for provisions relating to the enjoining of imminent and substantial endangerment from pollution sources.
 
 <b>1967</b>—Subsec. (b). Pub. L. 90–148 substituted reference to subsec. (c), (h), or (k) of this section for reference to subsec. (g) of this section.
 
-Subsecs. (c), (d). Pub. L. 90–148 added subsec. (c), redesignated former subsec. (c) as (d), inserted in par. (2) provisions for the delivery prior to the conference of a Federal report to agencies and interested parties covering matters before the conference, raised from threeweeks to thirty days the required notice of the conference, and inserted provisions for notice by newspapers, presentation of views on the Federal report, and transcript of proceedings. Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 90–148 added subsec. (c), redesignated former subsec. (c) as (d), inserted in par. (2) provisions for the delivery prior to the conference of a Federal report to agencies and interested parties covering matters before the conference, raised from three weeks to thirty days the required notice of the conference, and inserted provisions for notice by newspapers, presentation of views on the Federal report, and transcript of proceedings. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 90–148 redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f) and amended.
 
@@ -62,11 +62,11 @@ Subsec. (j). Pub. L. 90–148 redesignated former subsec. (i) as (j).
 
 Subsec. (k). Pub. L. 90–148 added subsec. (k).
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–272, §101(2), substituted “this title” for “this Act”, which for purposes of codification has been changed to “this subchapter”.
+<b>1965</b>—Subsec. (b). Pub. L. 89–272, §101(2), substituted "this title" for "this Act", which for purposes of codification has been changed to "this subchapter".
 
 Subsec. (c)(1)(D). Pub. L. 89–272, §102(a), added subpar. (D).
 
-Subsec. (d)(3). Pub. L. 89–272, §101(2), substituted “subchapter” for “chapter”.
+Subsec. (d)(3). Pub. L. 89–272, §101(2), substituted "subchapter" for "chapter".
 
 Subsec. (f)(1). Pub. L. 89–272, §102(b), designated existing provisions as cl. (A) and added cl. (B).
 
@@ -82,17 +82,17 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 
 Pub. L. 95–426, title VI, §612, Oct. 7, 1978, 92 Stat. 990, provided that:
 
-“(a) The Congress finds that—
+"(a) The Congress finds that—
 
-&emsp;“(1) the United States and Canada share a common environment along a 5,500 mile border;
+&emsp;"(1) the United States and Canada share a common environment along a 5,500 mile border;
 
-&emsp;“(2) the United States and Canada are both becoming increasingly concerned about the effects of pollution, particularly that resulting from power generation facilities, since the facilities of each country affect the environment of the other;
+&emsp;"(2) the United States and Canada are both becoming increasingly concerned about the effects of pollution, particularly that resulting from power generation facilities, since the facilities of each country affect the environment of the other;
 
-&emsp;“(3) the United States and Canada have subscribed to international conventions; have joined in the environmental work of the United Nations, the Organization for Economic Cooperation and Development, and other international environmental forums; and have entered into and implemented effectively the provisions of the historic Boundary Waters Treaty of 1909; and
+&emsp;"(3) the United States and Canada have subscribed to international conventions; have joined in the environmental work of the United Nations, the Organization for Economic Cooperation and Development, and other international environmental forums; and have entered into and implemented effectively the provisions of the historic Boundary Waters Treaty of 1909; and
 
-&emsp;“(4) the United States and Canada have a tradition of cooperative resolution of issues of mutual concern which is nowhere more evident than in the environmental area.
+&emsp;"(4) the United States and Canada have a tradition of cooperative resolution of issues of mutual concern which is nowhere more evident than in the environmental area.
 
-“(b) It is the sense of the Congress that the President should make every effort to negotiate a cooperative agreement with the Government of Canada aimed at preserving the mutual airshed of the United States and Canada so as to protect and enhance air resources and insure the attainment and maintenance of air quality protective of public health and welfare.
+"(b) It is the sense of the Congress that the President should make every effort to negotiate a cooperative agreement with the Government of Canada aimed at preserving the mutual airshed of the United States and Canada so as to protect and enhance air resources and insure the attainment and maintenance of air quality protective of public health and welfare.
 
-“(c) It is further the sense of the Congress that the President, through the Secretary of State working in concert with interested Federal agencies and the affected States, should take whatever diplomatic actions appear necessary to reduce or eliminate any undesirable impact upon the United States and Canada resulting from air pollution from any source.”
+"(c) It is further the sense of the Congress that the President, through the Secretary of State working in concert with interested Federal agencies and the affected States, should take whatever diplomatic actions appear necessary to reduce or eliminate any undesirable impact upon the United States and Canada resulting from air pollution from any source."
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Agricultural water enhancement activity
 
-&emsp;The term “agricultural water enhancement activity” includes the following activities carried out with respect to agricultural land:
+&emsp;The term "agricultural water enhancement activity" includes the following activities carried out with respect to agricultural land:
 
 &emsp;&emsp;(A) Water quality or water conservation plan development, including resource condition assessment and modeling.
 
@@ -22,7 +22,7 @@ In this section:
 
 #### (2) Partner
 
-&emsp;The term “partner” means an entity that enters into a partnership agreement with the Secretary to carry out agricultural water enhancement activities on a regional basis, including—
+&emsp;The term "partner" means an entity that enters into a partnership agreement with the Secretary to carry out agricultural water enhancement activities on a regional basis, including—
 
 &emsp;&emsp;(A) an agricultural or silvicultural producer association or other group of such producers;
 
@@ -32,11 +32,11 @@ In this section:
 
 #### (3) Partnership agreement
 
-&emsp;The term “partnership agreement” means an agreement between the Secretary and a partner.
+&emsp;The term "partnership agreement" means an agreement between the Secretary and a partner.
 
 #### (4) Program
 
-&emsp;The term “program” means the agricultural water enhancement program established under subsection (b).
+&emsp;The term "program" means the agricultural water enhancement program established under subsection (b).
 
 #### (b) Establishment of program
 
@@ -146,7 +146,7 @@ To assist in the implementation of agricultural water enhancement activities und
 
 #### (2) Payments to producers in States with water quantity concerns
 
-&emsp;The Secretary shall provide payments for a period of five years to producers participatingin agricultural water enhancement activities under proposals described in subsection (e)(3) in an amount sufficient to encourage producers to convert from irrigated farming to dryland farming.
+&emsp;The Secretary shall provide payments for a period of five years to producers participating in agricultural water enhancement activities under proposals described in subsection (e)(3) in an amount sufficient to encourage producers to convert from irrigated farming to dryland farming.
 
 #### (i) Consistency with State law
 
@@ -184,9 +184,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Transition Provisions
 
-Pub. L. 110–234, title II, §2903(b), May 22, 2008, 122 Stat. 1091, and Pub. L. 110–246, §4(a), title II, §2903(b), June 18, 2008, 122 Stat. 1664, 1819, provided that: “During the period beginning on the date of the enactment of this Act \[June 18, 2008\] and ending on September 30, 2008, the Secretary of Agriculture shall continue to carry out the ground and surface water conservation program under section 1240I of the Food Security Act of 1985 (16 U.S.C. 3839aa–9), as in effect before the amendment made by section 2510, using the terms, conditions, and funds available to the Secretary to carry out such program on the day before the date of the enactment of this Act.”
+Pub. L. 110–234, title II, §2903(b), May 22, 2008, 122 Stat. 1091, and Pub. L. 110–246, §4(a), title II, §2903(b), June 18, 2008, 122 Stat. 1664, 1819, provided that: "During the period beginning on the date of the enactment of this Act \[June 18, 2008\] and ending on September 30, 2008, the Secretary of Agriculture shall continue to carry out the ground and surface water conservation program under section 1240I of the Food Security Act of 1985 (16 U.S.C. 3839aa–9), as in effect before the amendment made by section 2510, using the terms, conditions, and funds available to the Secretary to carry out such program on the day before the date of the enactment of this Act."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Secretary”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Secretary".</i>
 

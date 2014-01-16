@@ -19,4 +19,4 @@
 - [&sect; 01037 - Sale of reserved mineral interests; disposition of proceeds](%C2%A7%2001037%20-%20Sale%20of%20reserved%20mineral%20interests%3B%20disposition%20of%20proceeds.md)
 - [&sect; 01038 - Regulations; delegations of authority](%C2%A7%2001038%20-%20Regulations%3B%20delegations%20of%20authority.md)
 - [&sect; 01039 - Time for filing purchase applications](%C2%A7%2001039%20-%20Time%20for%20filing%20purchase%20applications.md)
-- [&sect; 01040 - Farmers&#8217; Home Administration funds account](%C2%A7%2001040%20-%20Farmers%E2%80%99%20Home%20Administration%20funds%20account.md)
+- [&sect; 01040 - Farmers' Home Administration funds account](%C2%A7%2001040%20-%20Farmers%27%20Home%20Administration%20funds%20account.md)

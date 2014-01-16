@@ -26,7 +26,7 @@ R.S. §3679(i)(1)(words before semicolon related to (a), (b)); Mar. 3, 1905, ch.
 
 July 16, 1914, ch. 141, §5(c)(2)(2d sentence), 38 Stat. 508; restated Aug. 2, 1946, ch. 744, §16(a), 60 Stat. 810.
 
-In subsection (a), the words “In addition to any penalty or liability under other law” are omitted as surplus. The words “District of Columbia government” are added because of section 47–105 of the D.C. Code.
+In subsection (a), the words "In addition to any penalty or liability under other law" are omitted as surplus. The words "District of Columbia government" are added because of section 47–105 of the D.C. Code.
 
-In subsection (b), the words “of the Government” and “from duty” are omitted as unnecessary because of the restatement. The word “pay” is substituted for “compensation” for consistency. The word “agency” is substituted for “department” because of section 101 of the revised title and for consistency.
+In subsection (b), the words "of the Government" and "from duty" are omitted as unnecessary because of the restatement. The word "pay" is substituted for "compensation" for consistency. The word "agency" is substituted for "department" because of section 101 of the revised title and for consistency.
 

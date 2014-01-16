@@ -4,7 +4,7 @@
 
 (b)(1) In the case of a selection board to consider warrant officers for selection for promotion to the grade of chief warrant officer, W–3, chief warrant officer, W–4, or chief warrant officer, W–5, the Secretary concerned shall establish the number of warrant officers that the selection board may recommend from among warrant officers being considered from below the promotion zone within each grade (or grade and competitive category). The number of warrant officers recommended for promotion from below the promotion zone does not increase the maximum number of warrant officers which the board is authorized under section 574 of this title to recommend for promotion.
 
-(2) The number of officers recommended for promotion from below the promotion zone may not exceed 10 percent of the total number recommended, except that the Secretary of Defense and the Secretary of Homeland Security, when the Coast Guard is not operating as a service in the Navy, may authorize such percentage to be increased to not more than 15 percent. If the number determined under this subsection with respect to a promotion zone within a grade (or grade and competitive category) is less than one, the board may recommend one such officer for promotion from below the zone within that grade (or grade and competitive category).
+(2) The number of officers recommended for promotion from below the promotion zone may not exceed 10 percent of the total number recommended, except that the Secretary of Defense and the Secretary of Homeland Security, when the Coast Guard is not operating as a service in the Navy, may authorize such percentage to be increased to not more than 15 percent. If the number determined under this subsection with respect to a promotion zone within a grade (or grade and competitive category) is less than one, the board may recommend one such officerfor promotion from below the zone within that grade (or grade and competitive category).
 
 (c) A selection board convened under section 573(a) of this title may not recommend a warrant officer for promotion unless—
 
@@ -18,15 +18,15 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65 inserted at end “If the number determined under this subsection with respect to a promotion zone within a grade (or grade and competitive category) is less than one, the board may recommend one such officer for promotion from below the zone within that grade (or grade and competitive category).”
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65 inserted at end "If the number determined under this subsection with respect to a promotion zone within a grade (or grade and competitive category) is less than one, the board may recommend one such officer for promotion from below the zone within that grade (or grade and competitive category)."
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–201 inserted “chief warrant officer, W–3,” after “promotion to the grade of” in first sentence.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–201 inserted "chief warrant officer, W–3," after "promotion to the grade of" in first sentence.
 
-<b>1994</b>—Subsec. (b)(2). Pub. L. 103–337, §541(b)(3), inserted “and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–337, §541(b)(3), inserted "and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy," after "Secretary of Defense".
 
-Subsec. (d). Pub. L. 103–337, §501(a), inserted “(except for a warrant officer precluded from consideration under regulations prescribed by the Secretary concerned under section 577 of this title)” after “under consideration”.
+Subsec. (d). Pub. L. 103–337, §501(a), inserted "(except for a warrant officer precluded from consideration under regulations prescribed by the Secretary concerned under section 577 of this title)" after "under consideration".
 
 #### Effective Date of 2002 Amendment
 

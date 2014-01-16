@@ -30,9 +30,9 @@ The Safe Drinking Water Act, referred to in subsec. (a)(7), is title XIV of act 
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(1). Pub. L. 109–97 inserted “not appearing on the National List” after “ingredient”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–97 inserted "not appearing on the National List" after "ingredient".
 
-<b>2000</b>—Subsec. (a)(3). Pub. L. 106–387 inserted “except in the production of wine,” after “sulfites,”.
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–387 inserted "except in the production of wine," after "sulfites,".
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237 substituted “postharvest” for “post harvest”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237 substituted "postharvest" for "post harvest".
 

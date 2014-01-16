@@ -22,7 +22,7 @@
 
 #### (3) Effect of failure to timely notify
 
-&emsp;Except as provided in paragraph (2), the failure to timely provide the notice requiredunder this subsection shall relieve the approved insurance provider from the debt owed the Corporation.
+&emsp;Except as provided in paragraph (2), the failure to timely provide the notice required under this subsection shall relieve the approved insurance provider from the debt owed the Corporation.
 
 #### (c) Reconciling producer information
 
@@ -46,7 +46,7 @@ The Secretary shall develop and implement a coordinated plan for the Corporation
 
 #### (3) Use of field infrastructure
 
-&emsp;The plan required by paragraph (1) shall provide for the use of the field infrastructure of the Farm Service Agency. The Secretary shall ensure that relevant Farm Service Agency personnel are appropriately trained for any responsibilities assigned to the personnel under the plan. At a minimum, the personnel shall receive the same level of training and pass the same basic competency tests as required of loss adjusters of approved insurance providers.
+&emsp;The plan required by paragraph (1) shall provide for the use of the field infrastructure of the Farm Service Agency. The Secretary shall ensure that relevant Farm Service Agency personnel are appropriately trained for any responsibilities assigned to the personnel under the plan. At a minimum, the personnel shall receive the same level of training and pass thesame basic competency tests as required of loss adjusters of approved insurance providers.
 
 #### (4) Maintenance of provider effort
 
@@ -86,7 +86,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 &emsp;The Secretary shall establish procedures under which the Corporation will be able to identify the following:
 
-&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this subchapter wherethe loss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
+&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this subchapter where the loss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
 
 &emsp;&emsp;(B) Any person performing loss adjustment services relative to coverage offered under this subchapter where such loss adjustments performed by the person result in accepted or denied claims equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for accepted or denied claims (as applicable) for all other persons performing loss adjustment services in the same area, as determined by the Corporation.
 
@@ -208,7 +208,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 #### (3) Use of private sector
 
-&emsp;The Secretary may enter into contracts to use private sector expertise and technological resources in implementing this subsection, which shall be subject to competition on a periodic basis, as determined by the Secretary.
+&emsp;The Secretary may enter into contracts to use private sector expertise and technological resources in implementing this subsection,which shall be subject to competition on a periodic basis, as determined by the Secretary.
 
 #### (k) Funding
 
@@ -232,7 +232,7 @@ The Commodity Credit Corporation Charter Act, referred to in subsec. (h)(3)(B)(i
 
 The Agricultural Adjustment Act of 1938, referred to in subsec. (h)(3)(B)(v), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the "Sodbuster Law", is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (h)(3)(B)(vii), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
@@ -246,17 +246,17 @@ A prior section, act Feb. 16, 1938, ch. 30, title V, §515, 52 Stat. 77, provide
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (c) to (h). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
+<b>2008</b>—Subsecs. (c) to (h). Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter" wherever appearing.
 
-Subsec. (h)(3)(B)(i). Pub. L. 110–246, §12033(c)(2)(A), substituted “This subchapter” for “This chapter”.
+Subsec. (h)(3)(B)(i). Pub. L. 110–246, §12033(c)(2)(A), substituted "This subchapter" for "This chapter".
 
-Subsec. (j)(1), (2). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
+Subsec. (j)(1), (2). Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter".
 
-Subsec. (j)(3). Pub. L. 110–246, §12021(a), inserted before period at end “, which shall be subject to competition on a periodic basis, as determined by the Secretary”.
+Subsec. (j)(3). Pub. L. 110–246, §12021(a), inserted before period at end ", which shall be subject to competition on a periodic basis, as determined by the Secretary".
 
 Subsec. (k). Pub. L. 110–246, §12021(b), added subsec. (k) and struck out former subsec. (k) which related to funding to carry out this section and sections 1502(c), 1506(h), 1508(a)(3)(B), and 1508(f)(3)(A) of this title in fiscal years 2001 through 2005.
 
-Subsec. (k)(1). Pub. L. 110–398 substituted “2010, and not more than $9,000,000 for fiscal year 2011” for “2011”.
+Subsec. (k)(1). Pub. L. 110–398 substituted "2010, and not more than $9,000,000 for fiscal year 2011" for "2011".
 
 <b>2000</b>—Pub. L. 106–224 amended section generally, substituting present provisions for provisions which had authorized establishment of Advisory Committee for Federal Crop Insurance, described primary responsibility, membership of Committee, and administrative provisions, required annual report regarding progress toward implementation and improved crop insurance coverage, soundness of program, and rate of participation, and set forth termination of authority on Sept. 30, 1998.
 

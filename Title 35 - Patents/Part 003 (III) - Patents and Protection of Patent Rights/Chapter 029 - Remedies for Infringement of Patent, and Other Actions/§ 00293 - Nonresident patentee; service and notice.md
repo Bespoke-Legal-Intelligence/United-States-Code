@@ -10,9 +10,9 @@ This section provides for service on non-resident patentees.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
+<b>2011</b>—Pub. L. 112–29 substituted "United States District Court for the Eastern District of Virginia" for "United States District Court for the District of Columbia".
 
-<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 2011 Amendment
 

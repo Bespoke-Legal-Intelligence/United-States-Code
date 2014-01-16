@@ -2,7 +2,7 @@
 
 #### (a) Limitations on liability
 
-For any closed end consumer credit transaction that is secured by real property or a dwelling, that is subject to this subchapter, and that is consummated before September 30, 1995, a creditor or any assignee of a creditor shall have no civil, administrative, or criminal liability under this subchapter for, and a consumer shall have no extended rescission rights under section 1635(f) of this title with respect to—
+For any closed end consumer credit transaction that is secured by real property or a dwelling, that is subject to this subchapter, andthat is consummated before September 30, 1995, a creditor or any assignee of a creditor shall have no civil, administrative, or criminal liability under this subchapter for, and a consumer shall have no extended rescission rights under section 1635(f) of this title with respect to—
 
 &emsp;(1) the creditor's treatment, for disclosure purposes, of—
 
@@ -40,9 +40,9 @@ Subsection (a) of this section shall not apply to—
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(2). Pub. L. 111–203 substituted “Bureau” for “Board”.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–203 substituted "Bureau" for "Board".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208 substituted “For any closed end consumer credit transaction that is secured by real property or a dwelling, that is subject to this subchapter, and” for “For any consumer credit transaction subject to this subchapter”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208 substituted "For any closed end consumer credit transaction that is secured by real property or a dwelling, that is subject to this subchapter, and" for "For any consumer credit transaction subject to this subchapter".
 
 #### Effective Date of 2010 Amendment
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. A, title II, §2107(b), Sept. 30, 1996, 110 Stat. 3009–402, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of September 30, 1995.”
+Pub. L. 104–208, div. A, title II, §2107(b), Sept. 30, 1996, 110 Stat. 3009–402, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as of September 30, 1995."
 

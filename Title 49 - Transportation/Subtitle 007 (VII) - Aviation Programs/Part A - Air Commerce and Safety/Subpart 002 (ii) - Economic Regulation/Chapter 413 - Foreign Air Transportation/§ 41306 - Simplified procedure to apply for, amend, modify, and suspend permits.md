@@ -40,9 +40,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 49 App.:1372(h) (last sentence).
 
-In subsection (a)(1), the words “acting on” are substituted for “disposition of” for consistency. The word “provide” is substituted for “engage in” for consistency in the revised title.
+In subsection (a)(1), the words "acting on" are substituted for "disposition of" for consistency. The word "provide" is substituted for "engage in" for consistency in the revised title.
 
-In subsection (a)(2), the word “alteration” is omitted as surplus. The word “transfer” is omitted because 49 App.:1372(f) does not cover transfer of a permit.
+In subsection (a)(2), the word "alteration" is omitted as surplus. The word "transfer" is omitted because 49 App.:1372(f) does not cover transfer of a permit.
 
-In subsection (b), the word “adequate” is omitted as surplus.
+In subsection (b), the word "adequate" is omitted as surplus.
 

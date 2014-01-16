@@ -10,7 +10,7 @@ In this section:
 
 #### (1) Prosecutor
 
-&emsp;The term “prosecutor” means a full-time employee of a State or unit of local government who—
+&emsp;The term "prosecutor" means a full-time employee of a State or unit of local government who—
 
 &emsp;&emsp;(A) is continually licensed to practice law; and
 
@@ -18,7 +18,7 @@ In this section:
 
 #### (2) Public defender
 
-&emsp;The term “public defender” means an attorney who—
+&emsp;The term "public defender" means an attorney who—
 
 &emsp;&emsp;(A) is continually licensed to practice law; and
 
@@ -28,13 +28,13 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) a full-time employee of a nonprofit organization operating under a contract with a State or unit of local government, who devotes substantially all of the employee's full-time employment to providing legal representation to indigent persons in criminal or juvenile delinquency cases (including supervision, education, or training of other persons providing such representation); or
 
-&emsp;&emsp;&emsp;(iii) employed as a full-time Federal defender attorney in a defender organization established pursuant to subsection (g) of section 3006A of title 18 that provides legal representation to indigent persons in criminal or juvenile delinquency cases.
+&emsp;&emsp;&emsp;(iii) employed as a full-time Federal defender attorney in a defender organizationestablished pursuant to subsection (g) of section 3006A of title 18 that provides legal representation to indigent persons in criminal or juvenile delinquency cases.
 
 #### (3) Student loan
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “student loan” means—
+&emsp;&emsp;Except as provided in subparagraph (B), the term "student loan" means—
 
 &emsp;&emsp;&emsp;(i) a loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq.);
 
@@ -44,7 +44,7 @@ In this section:
 
 #### (B) Exclusion of parent PLUS loans
 
-&emsp;&emsp;The term “student loan” does not include any of the following loans:
+&emsp;&emsp;The term "student loan" does not include any of the following loans:
 
 &emsp;&emsp;&emsp;(i) A loan made to the parents of a dependent student under section 428B of the Higher Education Act of 1965 (20 U.S.C. 1078–2).
 
@@ -70,7 +70,7 @@ The Attorney General shall establish a program by which the Department of Justic
 
 &emsp;&emsp;(B) if the borrower is involuntarily separated from employment on account of misconduct, or voluntarily separates from employment, before the end of the period specified in the agreement, the borrower will repay the Attorney General the amount of any benefits received by such employee under this section;
 
-&emsp;&emsp;(C) if the borrower is required to repay an amount to the Attorney General under subparagraph (B) and fails to repay such amount, a sum equal to that amount shall be recoverable by the Federal Government from the employee (or such employee's estate, if applicable) by such methods as areprovided by law for the recovery of amounts owed to the Federal Government;
+&emsp;&emsp;(C) if the borrower is required to repay an amount to the Attorney General under subparagraph (B) and fails to repay such amount, a sum equal to that amount shall be recoverable by the Federal Government from the employee (or such employee's estate, if applicable) by such methods as are provided by law for the recovery of amounts owed to the Federal Government;
 
 &emsp;&emsp;(D) the Attorney General may waive, in whole or in part, a right of recovery under this subsection if it is shown that recovery would be against equity and good conscience or against the public interest; and
 

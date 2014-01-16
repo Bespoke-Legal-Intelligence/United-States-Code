@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 29, 1916, ch. 415, §13, 39 Stat. 540.
 
-The word “erasure” is omitted as being included in “alteration”. The words “whatever be the nature and purpose of the change” are omitted as surplus. The word “terms” is substituted for “tenor” for clarity.
+The word "erasure" is omitted as being included in "alteration". The words "whatever be the nature and purpose of the change" are omitted as surplus. The word "terms" is substituted for "tenor" for clarity.
 

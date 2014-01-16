@@ -18,13 +18,13 @@ If any employer fails to deduct and withhold any tax under chapter 24 or subchap
 
 &emsp;In the case of an employer who fails to meet the applicable requirements of section 6041(a), 6041A, or 6051 with respect to any employee, unless such failure is due to reasonable cause and not willful neglect, subsection (a) shall be applied with respect to such employee—
 
-&emsp;&emsp;(A) by substituting “3 percent” for “1.5 percent” in paragraph (1); and
+&emsp;&emsp;(A) by substituting "3 percent" for "1.5 percent" in paragraph (1); and
 
-&emsp;&emsp;(B) by substituting “40 percent” for “20 percent” in paragraph (2).
+&emsp;&emsp;(B) by substituting "40 percent" for "20 percent" in paragraph (2).
 
 #### (2) Applicable requirements
 
-&emsp;For purposes of paragraph (1), the term “applicable requirements” means the requirements described in paragraph (1) which would be applicable consistent with the employer's treatment of the employee as not being an employee for purposes of chapter 24 or subchapter A of chapter 21.
+&emsp;For purposes of paragraph (1), the term "applicable requirements" means the requirements described in paragraph (1) which would be applicable consistent with the employer's treatment of the employee as not being an employee for purposes of chapter 24 or subchapter A of chapter 21.
 
 #### (c) Section not to apply in cases of intentional disregard
 
@@ -60,9 +60,9 @@ For purposes of this section—
 
 #### Amendments
 
-<b>1990</b>—Subsec. (d)(3). Pub. L. 101–508 substituted “subsection (d)(3)” for “subsection (d)(4)”.
+<b>1990</b>—Subsec. (d)(3). Pub. L. 101–508 substituted "subsection (d)(3)" for "subsection (d)(4)".
 
-<b>1988</b>—Subsec. (d)(3). Pub. L. 100–647 substituted “subsection (d)(4)” for “subsection (d)(3)”.
+<b>1988</b>—Subsec. (d)(3). Pub. L. 100–647 substituted "subsection (d)(4)" for "subsection (d)(3)".
 
 #### Effective Date of 1990 Amendment
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 101–508 effective as if included in the enactment of Pub.
 
 #### Effective Date
 
-Pub. L. 97–248, title II, §270(c), Sept. 3, 1982, 96 Stat. 554, provided that: “The amendment made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[Sept. 3, 1982\], except that such amendments shall not apply to any assessment made before January 1, 1983.”
+Pub. L. 97–248, title II, §270(c), Sept. 3, 1982, 96 Stat. 554, provided that: "The amendment made by this section \[enacting this section\] shall take effect on thedate of the enactment of this Act \[Sept. 3, 1982\], except that such amendments shall not apply to any assessment made before January 1, 1983."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

@@ -14,7 +14,7 @@ The Congress finds and declares that—
 
 &emsp;(6) an undergraduate scholarship program for students of limited financial means from developing countries to study in the United States would complement current assistance efforts in the areas of advanced education and training of people of developing countries in such disciplines as are required for planning and implementation of public and private development activities;
 
-&emsp;(7) the National Bipartisan Commission on Central America has recommended a program of 10,000 United States Government-sponsored scholarships to bring Central American students to the United States, which program would involve careful targeting to encourage participation by young people from all social and economic classes, would maintain existing admission standards by providing intensive English and other training, and would encourage graduates to return to their home countries after completing their education; and
+&emsp;(7) the National Bipartisan Commission on Central America has recommended a program of 10,000 United States Government-sponsored scholarships to bring Central American students to the United States, which program would involve careful targeting to encourage participation by young people from all social and economic classes, would maintain existing admission standards by providing intensiveEnglish and other training, and would encourage graduates to return to their home countries after completing their education; and
 
 &emsp;(8) it is also in the interest of the United States, as well as peaceful cooperation in the Western Hemisphere, that particular attention be given to the students of the Caribbean region.
 
@@ -24,7 +24,7 @@ The Congress finds and declares that—
 
 <b>1993</b>—Pars. (6) to (10). Pub. L. 103–199 redesignated pars. (8) to (10) as (6) to (8), respectively, and struck out former pars. (6) and (7) which read as follows:
 
-“(6) the number of United States Government-sponsored scholarships for students in developing countries has been exceeded as much as twelve times in a given year by the number of scholarships offered by Soviet-bloc governments to students in developing countries, and this disparity entails the serious long-run cost of having so many of the potential future leaders of the developing world educated in Soviet-bloc countries;
+"(6) the number of United States Government-sponsored scholarships for students in developing countries has been exceeded as much as twelve times in a given year by the number of scholarships offered by Soviet-bloc governments to students in developing countries, and this disparity entails the serious long-run cost of having so many of the potential future leaders of the developing world educated in Soviet-bloc countries;
 
-“(7) from 1972 through 1982 the Soviet Union and Eastern European governments collectively increased their education exchange programs to Latin America and the Caribbean by 205 percent while those of the United States declined by 52 percent;”.
+"(7) from 1972 through 1982 the Soviet Union and Eastern European governments collectively increased their education exchange programs to Latin America and the Caribbean by 205 percent while those of the United States declined by 52 percent;".
 

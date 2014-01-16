@@ -6,5 +6,5 @@ There are authorized to be appropriated $40,000,000 for each fiscal year to carr
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–237 substituted “and 5812” for “and 5813”.
+<b>1991</b>—Pub. L. 102–237 substituted "and 5812" for "and 5813".
 

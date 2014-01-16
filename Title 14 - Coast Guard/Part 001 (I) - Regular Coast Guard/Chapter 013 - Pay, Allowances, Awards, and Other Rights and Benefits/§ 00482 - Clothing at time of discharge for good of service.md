@@ -14,5 +14,5 @@ Changes in phraseology were made in order to adapt said section to this revision
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–557 substituted “Enlisted members” for “Enlisted men”.
+<b>1984</b>—Pub. L. 98–557 substituted "Enlisted members" for "Enlisted men".
 

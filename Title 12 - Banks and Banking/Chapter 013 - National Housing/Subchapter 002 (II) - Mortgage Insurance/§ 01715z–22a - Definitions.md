@@ -2,21 +2,21 @@
 
 For purposes of this subtitle:
 
-&emsp;(1) The term “multifamily housing” means housing accommodations on the mortgaged property that are designed principally for residential use, conform to standards satisfactory to the Secretary, and consist of not less than 5 rental units on 1 site. These units may be detached, semidetached, row house, or multifamily structures.
+&emsp;(1) The term "multifamily housing" means housing accommodations on the mortgaged property that are designed principally for residential use, conform to standards satisfactory to the Secretary, and consist of not less than 5 rental units on 1 site. These units may be detached, semidetached, row house, or multifamily structures.
 
-&emsp;(2) The term “qualified housing finance agency” means any State or local housing finance agency that—
+&emsp;(2) The term "qualified housing finance agency" means any State or local housing finance agency that—
 
-&emsp;&emsp;(A) carries the designation of “top tier” or its equivalent, as evaluated by Standard and Poors or any other nationally recognized rating agency;
+&emsp;&emsp;(A) carries the designation of "top tier" or its equivalent, as evaluated by Standard and Poors or any other nationally recognized rating agency;
 
-&emsp;&emsp;(B) receives a rating of “A” for its general obligation bonds from a nationally recognized rating agency; or
+&emsp;&emsp;(B) receives a rating of "A" for its general obligation bonds from a nationally recognized rating agency; or
 
 &emsp;&emsp;(C) otherwise demonstrates its capacity as a sound and experienced agency based on, but not limited to, its experience in financing multifamily housing, fund balances, administrative capabilities, investment policy, internal controls and financial management, portfolio quality, and State or local support.
 
-&emsp;(3) The term “reinsurance agreement” means a contractual obligation under which the Secretary, in exchange for appropriate compensation, agrees to assume a specified portion of the risk of loss that a lender or other party has previously assumed with respect to a mortgage on a multifamily housing property.
+&emsp;(3) The term "reinsurance agreement" means a contractual obligation under which the Secretary, in exchange for appropriate compensation, agrees to assume a specified portion of the risk of loss that a lender or other party has previously assumed with respect to a mortgage on a multifamily housing property.
 
-&emsp;(4) The term “Secretary” means the Secretary of Housing and Urban Development.
+&emsp;(4) The term "Secretary" means the Secretary of Housing and Urban Development.
 
-&emsp;(5) The term “qualified participating entity” means an entity approved by the Secretary for participation in the pilot program under this subsection, which may include—
+&emsp;(5) The term "qualified participating entity" means an entity approved by the Secretary for participation in the pilot program under this subsection, which may include—
 
 &emsp;&emsp;(A) the Federal National Mortgage Association;
 
@@ -40,7 +40,7 @@ Section was enacted as part of the Multifamily Housing Finance Improvement Act a
 
 #### Amendments
 
-<b>1994</b>—Par. (1). Pub. L. 103–233, §307(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘multifamily housing’ means a property consisting of more than 4 dwelling units.”
+<b>1994</b>—Par. (1). Pub. L. 103–233, §307(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "The term 'multifamily housing' means a property consisting of more than 4 dwelling units."
 
 Par. (5). Pub. L. 103–233, §307(c)(2), added par. (5).
 

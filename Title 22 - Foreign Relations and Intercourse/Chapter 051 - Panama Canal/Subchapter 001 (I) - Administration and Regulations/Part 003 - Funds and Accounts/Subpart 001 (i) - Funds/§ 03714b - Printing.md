@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted “Sections 501 through 517 and 1101 through 1123” for “Section 501”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted "Sections 501 through 517 and 1101 through 1123" for "Section 501".
 

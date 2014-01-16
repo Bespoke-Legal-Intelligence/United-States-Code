@@ -6,5 +6,5 @@ The provisions of sections 593 to 595 of this title relating to river and harbor
 
 #### Amendments
 
-<b>1951</b>—Act Oct. 31, 1951, struck out “558a and” in the reference to other sections.
+<b>1951</b>—Act Oct. 31, 1951, struck out "558a and" in the reference to other sections.
 

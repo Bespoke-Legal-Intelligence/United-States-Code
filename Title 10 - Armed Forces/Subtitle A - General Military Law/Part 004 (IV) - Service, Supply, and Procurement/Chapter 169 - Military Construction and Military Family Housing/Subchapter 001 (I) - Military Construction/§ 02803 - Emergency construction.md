@@ -2,7 +2,7 @@
 
 (a) Subject to subsections (b) and (c), the Secretary concerned may carry out a military construction project not otherwise authorized by law if the Secretary determines (1) that the project is vital to the national security or to the protection of health, safety, or the quality of the environment, and (2) that the requirement for the project is so urgent that deferral of the project for inclusion in the next Military Construction Authorization Act would be inconsistent with national security or the protection of health, safety, or environmental quality, as the case may be.
 
-(b) When a decision is made to carry out a military construction project under this section, the Secretary concerned shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include (1) the justification for the project and the current estimate of the cost of the project, (2) the justification for carrying out the project under this section, and (3) a statement of the source of the funds to be used to carry out the project. The project may then be carried outonly after the end of the seven-day period beginning on the date the notification is received by such committees or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
+(b) When a decision is made to carry out a military construction project under this section, the Secretary concerned shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include (1) the justification for the project and the current estimate of the cost of the project, (2) the justification for carrying out the project under this section, and (3) a statement of the source of the funds to be used to carry out the project. The project may then be carried out only after the end of the seven-day period beginning on the date the notification is received by such committees or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
 
 (c)(1) The maximum amount that the Secretary concerned may obligate in any fiscal year under this section is $50,000,000.
 
@@ -12,19 +12,19 @@
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 112–81 substituted “after the end of the seven-day period” for “after the end of the 21-day period”.
+<b>2011</b>—Subsec. (b). Pub. L. 112–81 substituted "after the end of the seven-day period" for "after the end of the 21-day period".
 
-<b>2006</b>—Subsec. (c)(1). Pub. L. 109–364 substituted “$50,000,000” for “$45,000,000”.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–364 substituted "$50,000,000" for "$45,000,000".
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–136, §1031(a)(34), inserted before period at end “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §1031(a)(34), inserted before period at end "or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title".
 
-Subsec. (c)(1). Pub. L. 108–136, §2802, substituted “$45,000,000” for “$30,000,000”.
+Subsec. (c)(1). Pub. L. 108–136, §2802, substituted "$45,000,000" for "$30,000,000".
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–484 made technical amendment to directory language of Pub. L. 102–190, §2870(2). See 1991 Amendment note below.
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–190, §2803, substituted “or to the protection of health, safety, or the quality of the environment, and” for “, and” in cl. (1) and inserted “or the protection of health, safety, or environmental quality, as the case may be” before period at end of cl. (2).
+<b>1991</b>—Subsec. (a). Pub. L. 102–190, §2803, substituted "or to the protection of health, safety, or the quality of the environment, and" for ", and" in cl. (1) and inserted "or the protection of health, safety, or environmental quality, as the case may be" before period at end of cl. (2).
 
-Subsec. (b). Pub. L. 102–190, §2870(2), as amended by Pub. L. 102–484, struck out “, or after each such committee has approved the project, if the committee approves the project before the end of that period” after “by such committees”.
+Subsec. (b). Pub. L. 102–190, §2870(2), as amended by Pub. L. 102–484, struck out ", or after each such committee has approved the project, if the committee approves the project before the end of that period" after "by such committees".
 
 #### Effective Date of 1992 Amendment
 

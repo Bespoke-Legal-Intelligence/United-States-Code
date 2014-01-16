@@ -16,5 +16,5 @@ Effective date of this subchapter, referred to in subsec. (b), means the date of
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Interior and Insular Affairs Committees of the United States Senate and House of Representatives”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted "Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives" for "Interior and Insular Affairs Committees of the United States Senate and House of Representatives".
 

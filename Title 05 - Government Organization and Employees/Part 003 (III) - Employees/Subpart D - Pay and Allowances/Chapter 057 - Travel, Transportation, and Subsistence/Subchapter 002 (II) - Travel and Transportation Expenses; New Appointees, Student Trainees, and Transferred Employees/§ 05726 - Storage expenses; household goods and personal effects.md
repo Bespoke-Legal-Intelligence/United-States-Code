@@ -1,6 +1,6 @@
 ### §5726. Storage expenses; household goods and personal effects
 
-(a) For the purpose of subsection (b) of this section, “household goods and personal effects” means such personal property of an employee and his dependents as authorized under regulations prescribed under section 5738 of this title to be transported or stored, including, in emergencies, motor vehicles authorized to be shipped at Government expense.
+(a) For the purpose of subsection (b) of this section, “household goods and personal effects” means such personal property of an employeeand his dependents as authorized under regulations prescribed under section 5738 of this title to be transported or stored, including, in emergencies, motor vehicles authorized to be shipped at Government expense.
 
 (b) Under regulations prescribed under section 5738 of this title, an employee, including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title, assigned to a permanent duty station outside the continental United States may be allowed storage expenses and related transportation and other expenses for his household goods and personal effects when—
 

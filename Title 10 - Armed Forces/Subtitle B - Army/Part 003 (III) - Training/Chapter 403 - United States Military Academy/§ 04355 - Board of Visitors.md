@@ -4,7 +4,7 @@
 
 &emsp;(1) the chairman of the Committee on Armed Services of the Senate, or his designee;
 
-&emsp;(2) three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate;
+&emsp;(2) three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom aremembers of the Committee on Appropriations of the Senate;
 
 &emsp;(3) the chairman of the Committee on Armed Services of the House of Representatives, or his designee;
 
@@ -74,23 +74,23 @@ June 29, 1948, ch. 714, §§1–6, 62 Stat. 1094; June 30, 1954, ch. 432, §732,
 
 10:1060.
 
-In subsections (a) and (b), the word “designated” is substituted for the word “appointed” to make it clear that the positions described are not constitutional offices.
+In subsections (a) and (b), the word "designated" is substituted for the word "appointed" to make it clear that the positions described are not constitutional offices.
 
 Subsection (b) is substituted for 10:1056(e) (2d sentence).
 
-In subsection (c), the words “during the term for which such member was appointed” and “Such successor shall be appointed \* \* \* who died or resigned” are omitted as surplusage.
+In subsection (c), the words "during the term for which such member was appointed" and "Such successor shall be appointed \* \* \* who died or resigned" are omitted as surplusage.
 
-In subsection (g), the words “as it may deem necessary or advisable effectuate the duties imposed upon it by the provisions of sections 1055–1060 of this title” are omitted as surplusage.
+In subsection (g), the words "as it may deem necessary or advisable effectuate the duties imposed upon it by the provisions of sections 1055–1060 of this title" are omitted as surplusage.
 
-In subsection (h), the words “called for consultation by the Board in connection with the business of the Board” are omitted as surplusage.
+In subsection (h), the words "called for consultation by the Board in connection with the business of the Board" are omitted as surplusage.
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a)(3). Pub. L. 106–65, substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–65, substituted "Committee on Armed Services" for "Committee on National Security".
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–106, §1502(a)(12), substituted “National Security” for “Armed Services”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–106, §1502(a)(12), substituted "National Security" for "Armed Services".
 
-Subsec. (h). Pub. L. 104–106, §1061(e)(2), struck out “is entitled to not more than $5 a day and” after “each adviser”.
+Subsec. (h). Pub. L. 104–106, §1061(e)(2), struck out "is entitled to not more than $5 a day and" after "each adviser".
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–579 required member whose term of office had expired to continue service until appointment of a successor.
 

@@ -30,7 +30,7 @@ In developing and implementing the plan described in subsection (a)(2), the Secr
 
 &emsp;(1) processes to assure that data made public, either by the Centers for Medicare \& Medicaid Services or by other entities, is statistically valid and reliable, including risk adjustment mechanisms used by the Secretary;
 
-&emsp;(2) processes by which a physician or other eligible professional whose performance on measures is being publicly reported has a reasonable opportunity, as determined by theSecretary, to review his or her individual results before they are made public;
+&emsp;(2) processes by which a physician or other eligible professional whose performance on measures is being publicly reported has a reasonable opportunity, as determined by the Secretary, to review his or her individual results before they are made public;
 
 &emsp;(3) processes by the Secretary to assure that the implementation of the plan and the data made available on Physician Compare provide a robust and accurate portrayal of a physician's performance;
 
@@ -72,19 +72,19 @@ In this section:
 
 #### (1) Eligible professional
 
-&emsp;The term “eligible professional” has the meaning given that term for purposes of the Physician Quality Reporting Initiative under section 1848 of the Social Security Act (42 U.S.C. 1395w–4).
+&emsp;The term "eligible professional" has the meaning given that term for purposes of the Physician Quality Reporting Initiative under section 1848 of the Social Security Act (42 U.S.C. 1395w–4).
 
 #### (2) Physician
 
-&emsp;The term “physician” has the meaning given that term in section 1861(r) of such Act (42 U.S.C. 1395x(r)).
+&emsp;The term "physician" has the meaning given that term in section 1861(r) of such Act (42 U.S.C. 1395x(r)).
 
 #### (3) Physician Compare
 
-&emsp;The term “Physician Compare” means the Internet website developed under subsection (a)(1).
+&emsp;The term "Physician Compare" means the Internet website developed under subsection (a)(1).
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services.
 
 (Pub. L. 111–148, title X, §10331, Mar. 23, 2010, 124 Stat. 966.)
 
@@ -100,7 +100,7 @@ The Social Security Act, referred to in subsecs. (g) and (h), is act Aug. 14, 19
 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Social Security Act which comprises this chapter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 
-<i><sup>2</sup></i><i> So in original. The word “this” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "this" probably should not appear.</i>
 

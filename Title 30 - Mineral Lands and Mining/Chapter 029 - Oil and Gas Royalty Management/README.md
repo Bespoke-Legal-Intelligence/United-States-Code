@@ -26,7 +26,7 @@
 | [1721a.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001721a%20-%20Adjustments%20and%20refunds.md) | Adjustments and refunds. |
 | [1722\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001722%20-%20Injunction%20and%20specific%20enforcement%20authority.md) | Injunction and specific enforcement authority. |
 | [1723\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001723%20-%20Rewards.md) | Rewards. |
-| [1724\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001724%20-%20Secretarial%20and%20delegated%20States%E2%80%99%20actions%20and%20limitation%20periods.md) | Secretarial and delegated States’ actions and limitation periods. |
+| [1724\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001724%20-%20Secretarial%20and%20delegated%20States%27%20actions%20and%20limitation%20periods.md) | Secretarial and delegated States' actions and limitation periods. |
 | [1725\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001725%20-%20Assessments.md) | Assessments. |
 | [1726\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001726%20-%20Alternatives%20for%20marginal%20properties.md) | Alternatives for marginal properties. |
 

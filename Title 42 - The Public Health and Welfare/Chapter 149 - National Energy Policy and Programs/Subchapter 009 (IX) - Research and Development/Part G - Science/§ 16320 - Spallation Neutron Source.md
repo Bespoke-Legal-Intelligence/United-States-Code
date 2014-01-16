@@ -6,23 +6,23 @@ In this section:
 
 #### (1) SING
 
-&emsp;The term “SING” means the Spallation Neutron Source Instruments Next Generation major item of equipment.
+&emsp;The term "SING" means the Spallation Neutron Source Instruments Next Generation major item of equipment.
 
 #### (2) SNS power upgrade
 
-&emsp;The term “SNS power upgrade” means the Spallation Neutron Source power upgrade described in the 20-year facilities plan of the Office of Science of the Department.
+&emsp;The term "SNS power upgrade" means the Spallation Neutron Source power upgrade described in the 20-year facilities plan of the Office of Science of the Department.
 
 #### (3) SNS second target station
 
-&emsp;The term “SNS second target station” means the Spallation Neutron Source second target station described in the 20-year facilities plan of the Office of Science of the Department.
+&emsp;The term "SNS second target station" means the Spallation Neutron Source second target station described in the 20-year facilities plan of the Office of Science of the Department.
 
 #### (4) Spallation Neutron Source Facility
 
-&emsp;The terms “Spallation Neutron Source Facility” and “Facility” mean the completed Spallation Neutron Source scientific user facility located at Oak Ridge National Laboratory, Oak Ridge, Tennessee.
+&emsp;The terms "Spallation Neutron Source Facility" and "Facility" mean the completed Spallation Neutron Source scientific user facility located at Oak Ridge National Laboratory, Oak Ridge, Tennessee.
 
 #### (5) Spallation Neutron Source Project
 
-&emsp;The terms “Spallation Neutron Source Project” and “Project” means Department Project 99–E–334, Oak Ridge National Laboratory, Oak Ridge, Tennessee.
+&emsp;The terms "Spallation Neutron Source Project" and "Project" means Department Project 99–E–334, Oak Ridge National Laboratory, Oak Ridge, Tennessee.
 
 #### (b) Spallation Neutron Source Project
 
@@ -54,7 +54,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) is based on peer review of proposals submitted for use of the Facility;
 
-&emsp;&emsp;&emsp;(ii) includes scientific and technical support to ensure that external users, including researchers based at institutions of higher education, are able to make full useof a variety of high quality scientific instruments; and
+&emsp;&emsp;&emsp;(ii) includes scientific and technical support to ensure that external users, including researchers based at institutions of higher education, are able to make full use of a variety of high quality scientific instruments; and
 
 &emsp;&emsp;&emsp;(iii) phases in systems upgrades to ensure that the Facility remains at the forefront of international scientific endeavors in the field of the Facility throughout the operating life of the Facility;
 

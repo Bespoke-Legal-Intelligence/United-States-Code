@@ -32,5 +32,5 @@ A prior section 1070a–27, Pub. L. 89–329, title IV, §404G, as added Pub. L.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–315 inserted at end “Such evaluation shall include a separate analysis of—” and pars. (1) and (2).
+<b>2008</b>—Subsec. (c). Pub. L. 110–315 inserted at end "Such evaluation shall include a separate analysis of—" and pars. (1) and (2).
 

@@ -16,9 +16,9 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 #### Amendments
 
-<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–221, §309(a)(4), substituted “Board” for “Administrator” wherever appearing, such change having been previously made by Pub. L. 95–630.
+<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–221, §309(a)(4), substituted "Board" for "Administrator" wherever appearing, such change having been previously made by Pub. L. 95–630.
 
-<b>1978</b>—Pub. L. 95–630, §502(b), substituted “Board” for “Administrator” wherever appearing.
+<b>1978</b>—Pub. L. 95–630, §502(b), substituted "Board" for "Administrator" wherever appearing.
 
 #### Effective Date of 1978 Amendment
 

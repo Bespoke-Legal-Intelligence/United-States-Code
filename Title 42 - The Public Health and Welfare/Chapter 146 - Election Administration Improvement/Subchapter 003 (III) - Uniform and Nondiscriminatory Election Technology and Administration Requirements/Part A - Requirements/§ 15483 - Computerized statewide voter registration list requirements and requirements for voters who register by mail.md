@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), each State, acting through the chief State election official, shall implement, in a uniform and nondiscriminatory manner, a single, uniform, official, centralized, interactive computerized statewide voter registration list defined, maintained, and administered at the State level that contains the name and registration information of every legally registered voter in the State and assigns a unique identifier to each legally registered voter in the State (in this subsection referred to as the “computerized list”), and includes the following:
+&emsp;&emsp;Except as provided in subparagraph (B), each State, acting through the chief State election official, shall implement, in a uniform and nondiscriminatory manner, a single, uniform, official, centralized, interactive computerized statewide voter registration list defined, maintained, and administered at the State level that contains the name and registration information of every legally registered voter in the Stateand assigns a unique identifier to each legally registered voter in the State (in this subsection referred to as the "computerized list"), and includes the following:
 
 &emsp;&emsp;&emsp;(i) The computerized list shall serve as the single system for storing and managing the official list of registered voters throughout the State.
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) under section 8(a)(3)(B) of such Act (42 U.S.C. 1973gg–6(a)(3)(B)), the State shall coordinate the computerized list with State agency records on felony status; and
 
-&emsp;&emsp;&emsp;&emsp;(II) by reason of the death of the registrant under section 8(a)(4)(A) of such Act (42 U.S.C. 1973gg–6(a)(4)(A)), theState shall coordinate the computerized list with State agency records on death.
+&emsp;&emsp;&emsp;&emsp;(II) by reason of the death of the registrant under section 8(a)(4)(A) of such Act (42 U.S.C. 1973gg–6(a)(4)(A)), the State shall coordinate the computerized list with State agency records on death.
 
 &emsp;&emsp;&emsp;(iii) Notwithstanding the preceding provisions of this subparagraph, if a State is described in section 4(b) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–2(b)), that State shall remove the names of ineligible voters from the computerized list in accordance with State law.
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(B)(i) the individual has not previously voted in an election for Federal office in the State; or
 
-&emsp;&emsp;(ii) the individual has not previously voted in such an election in the jurisdiction andthe jurisdiction is located in a State that does not have a computerized list that complies with the requirements of subsection (a) of this section.
+&emsp;&emsp;(ii) the individual has not previously voted in such an election in the jurisdiction and the jurisdiction is located in a State that does not have a computerized list that complies with the requirements of subsection (a) of this section.
 
 #### (2) Requirements
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(II) at least the last 4 digits of the individual's social security number; and
 
-&emsp;&emsp;(ii) with respect to whom a State or local election official matches the information submitted under clause (i) with an existing State identification record bearing the same number, name and date of birth as provided in such registration; or
+&emsp;&emsp;(ii) with respect to whom a State or local election official matches the information submitted under clause (i) with an existing State identification record bearing the samenumber, name and date of birth as provided in such registration; or
 
 &emsp;&emsp;(C) who is—
 
@@ -174,11 +174,11 @@
 
 &emsp;&emsp;The mail voter registration form developed under section 6 of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–4) shall include the following:
 
-&emsp;&emsp;&emsp;(i) The question “Are you a citizen of the United States of America?” and boxes for the applicant to check to indicate whether the applicant is or is not a citizen of the United States.
+&emsp;&emsp;&emsp;(i) The question "Are you a citizen of the United States of America?" and boxes for the applicant to check to indicate whether the applicant is or is not a citizen of the United States.
 
-&emsp;&emsp;&emsp;(ii) The question “Will you be 18 years of age on or before election day?” and boxes for the applicant to check to indicate whether or not the applicant will be 18 years of age or older on election day.
+&emsp;&emsp;&emsp;(ii) The question "Will you be 18 years of age on or before election day?" and boxes for the applicant to check to indicate whether or not the applicant will be 18 years of age or older on election day.
 
-&emsp;&emsp;&emsp;(iii) The statement “If you checked ‘no’ in response to either of these questions, do not complete this form.”.
+&emsp;&emsp;&emsp;(iii) The statement "If you checked 'no' in response to either of these questions, do not complete this form.".
 
 &emsp;&emsp;&emsp;(iv) A statement informing the individual that if the form is submitted by mail and the individual is registering for the first time, the appropriate information required under this section must be submitted with the mail-in registration form in order to avoid the additional identification requirements upon voting for the first time.
 
@@ -204,7 +204,7 @@ The last 4 digits of a social security number described in subsections (a)(5)(A)
 
 #### (B) Waiver
 
-&emsp;&emsp;If a State or jurisdiction certifies to the Commission not later than January 1, 2004, that the State or jurisdiction will not meet the deadline described in subparagraph (A) for good cause and includes in the certification the reasons for the failure to meet such deadline, subparagraph (A) shall apply to the State or jurisdiction as if the reference in such subparagraph to “January 1, 2004” were a reference to “January 1, 2006”.
+&emsp;&emsp;If a State or jurisdiction certifies to the Commission not later than January 1, 2004, that the State or jurisdiction will not meet the deadline described in subparagraph (A) for good cause and includes in the certification the reasons for the failure to meet such deadline, subparagraph (A) shall apply to the State or jurisdiction as if the reference in such subparagraph to "January 1, 2004" were a reference to "January 1, 2006".
 
 #### (2) Requirement for voters who register by mail
 

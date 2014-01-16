@@ -24,7 +24,7 @@ Development of Additional Incentives.—(1) The Secretary of Defense may develop
 
 (3) Not later than 30 days before first offering any incentive developed under this subsection, the Secretary shall submit to the congressional defense committees a report that contains a description of that incentive and an explanation why a bonus under subsection (a) or other pay and allowances are not sufficient to alleviate the high-demand, low-density military capability or otherwise fill critical military specialties.
 
-(4) In this subsection, the term “congressional defense committees” has the meaning given that term in section 101(a)(16) of title 10.
+(4) In this subsection, the term "congressional defense committees" has the meaning given that term in section 101(a)(16) of title 10.
 
 (e)
 
@@ -40,7 +40,7 @@ Repayment.—A member who does not complete the period of active duty specified 
 
 (h)
 
-High-Demand, Low-Density Military Capability.—In this section, the term “high-demand, low-density military capability” means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
+High-Demand, Low-Density Military Capability.—In this section, the term "high-demand, low-density military capability" means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
 
 (i)
 
@@ -54,5 +54,5 @@ Termination of Authority.—No agreement under subsection (a) or (d) may be ente
 
 #### Effective Date
 
-Pub. L. 109–364, div. A, title VI, §621(e), Oct. 17, 2006, 120 Stat. 2255, provided that: “No agreement may be entered into under section 329 of title 37, United States Code, as added by subsection (a), before October 1, 2006.”
+Pub. L. 109–364, div. A, title VI, §621(e), Oct. 17, 2006, 120 Stat. 2255, provided that: "No agreement may be entered into under section 329 of title 37, United States Code, as added by subsection (a), before October 1, 2006."
 

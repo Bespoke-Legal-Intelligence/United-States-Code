@@ -2,11 +2,11 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) the term “tribe” means the Ysleta del Sur Pueblo (as so designated by section 1300g–1 of this title);
+&emsp;(1) the term "tribe" means the Ysleta del Sur Pueblo (as so designated by section 1300g–1 of this title);
 
-&emsp;(2) the term “Secretary” means the Secretary of the Interior or his designated representative;
+&emsp;(2) the term "Secretary" means the Secretary of the Interior or his designated representative;
 
-&emsp;(3) the term “reservation” means lands within El Paso and Hudspeth Counties, Texas—
+&emsp;(3) the term "reservation" means lands within El Paso and Hudspeth Counties, Texas—
 
 &emsp;&emsp;(A) held by the tribe on August 18, 1987;
 
@@ -16,11 +16,11 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(D) subsequently acquired and held in trust by the Secretary for the benefit of the tribe.<sup>1</sup>
 
-&emsp;(4) the term “State” means the State of Texas;
+&emsp;(4) the term "State" means the State of Texas;
 
-&emsp;(5) the term “Tribal Council” means the governing body of the tribe as recognized by the Texas Indian Commission on August 18, 1987, and such tribal council's successors; and
+&emsp;(5) the term "Tribal Council" means the governing body of the tribe as recognized by the Texas Indian Commission on August 18, 1987, and such tribal council's successors; and
 
-&emsp;(6) the term “Tiwa Indians Act” means the Act entitled “An Act relating to the Tiwa Indians of Texas.” and approved April 12, 1968 (82 Stat. 93).
+&emsp;(6) the term "Tiwa Indians Act" means the Act entitled "An Act relating to the Tiwa Indians of Texas." and approved April 12, 1968 (82 Stat. 93).
 
 (Pub. L. 100–89, title I, §101, Aug. 18, 1987, 101 Stat. 666.)
 
@@ -30,7 +30,7 @@ The Tiwa Indians Act, referred to in par. (6), is Pub. L. 90–287, Apr. 12, 196
 
 #### Short Title
 
-For short title of Pub. L. 100–89, which enacted this subchapter, subchapter XXXI–A of this chapter, and provisions set out as notes under section 731 of this title, as the “Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act”, see section 1 of Pub. L. 100–89, set out as a note under section 731 of this title.
+For short title of Pub. L. 100–89, which enacted this subchapter, subchapter XXXI–A of this chapter, and provisions set out as notes under section 731 of this title, as the "Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act", see section 1 of Pub. L. 100–89, set out as a note under section 731 of this title.
 
 #### Regulations
 

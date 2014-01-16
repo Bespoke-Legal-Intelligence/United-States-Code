@@ -12,5 +12,5 @@ There are authorized to be appropriated to the Secretary for carrying out this s
 
 #### Short Title
 
-This part known as the “Solar Energy Research and Advancement Act of 2007”, see Short Title note set out under section 17001 of this title.
+This part known as the "Solar Energy Research and Advancement Act of 2007", see Short Title note set out under section 17001 of this title.
 

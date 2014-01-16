@@ -4,7 +4,7 @@ Part H—Organ Transplants
 
 A prior part H related to grants to Alaska for mental health, prior to the general revision of part H by Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2342.
 
-Another prior part H, entitled “National Library of Medicine”, as added by act Aug. 3, 1956, ch. 907, 70 Stat. 960, was redesignated part I and classified to section 275 et seq. of this title, prior to repeal by Pub. L. 99–158.
+Another prior part H, entitled "National Library of Medicine", as added by act Aug. 3, 1956, ch. 907, 70 Stat. 960, was redesignated part I and classified to section 275 et seq. of this title, prior to repeal by Pub. L. 99–158.
 
 
 ---
@@ -25,4 +25,5 @@ Another prior part H, entitled “National Library of Medicine”, as added by a
 - [&sect; 00274f&#8211;2 - Grants regarding hospital organ donation coordinators](%C2%A7%2000274f%E2%80%932%20-%20Grants%20regarding%20hospital%20organ%20donation%20coordinators.md)
 - [&sect; 00274f&#8211;3 - Studies relating to organ donation and the recovery, preservation, and transportation of organs](%C2%A7%2000274f%E2%80%933%20-%20Studies%20relating%20to%20organ%20donation%20and%20the%20recovery%2C%20preservation%2C%20and%20transportation%20of%20organs.md)
 - [&sect; 00274f&#8211;4 - Report relating to organ donation and the recovery, preservation, and transportation of organs](%C2%A7%2000274f%E2%80%934%20-%20Report%20relating%20to%20organ%20donation%20and%20the%20recovery%2C%20preservation%2C%20and%20transportation%20of%20organs.md)
+- [&sect; 00274f&#8211;5 - Criteria, standards, and regulations with respect to organs infected with HIV](%C2%A7%2000274f%E2%80%935%20-%20Criteria%2C%20standards%2C%20and%20regulations%20with%20respect%20to%20organs%20infected%20with%20HIV.md)
 - [&sect; 00274g - Authorization of appropriations](%C2%A7%2000274g%20-%20Authorization%20of%20appropriations.md)

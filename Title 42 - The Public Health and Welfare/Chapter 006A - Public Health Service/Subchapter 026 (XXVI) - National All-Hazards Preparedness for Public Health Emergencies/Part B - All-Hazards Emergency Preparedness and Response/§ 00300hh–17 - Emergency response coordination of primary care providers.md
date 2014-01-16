@@ -8,5 +8,5 @@ The Secretary, acting through Administrator <sup>1</sup> of the Health Resource
 
 (July 1, 1944, ch. 373, title XXVIII, §2815, as added Pub. L. 110–355, §6(a), Oct. 8, 2008, 122 Stat. 3994.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

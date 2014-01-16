@@ -24,7 +24,7 @@ A participating jurisdiction's line of credit shall be reduced by—
 
 #### (d) Certification
 
-A participating jurisdiction may draw funds from its HOME Investment Trust Fund, but not to exceed the remaining line of credit, only after providing certification that the funds shall be used pursuant to the participating jurisdiction's approved housing strategy and in compliance with all requirements of this subchapter. When such certification is received, the Secretary shall immediately disburse such funds in accordance with the form of the assistance determined by the participating jurisdiction.
+A participating jurisdiction may draw funds from its HOME Investment Trust Fund, but not to exceed the remaining line of credit, only after providing certification that the funds shall be used pursuant to the participating jurisdiction's approved housing strategy and in compliancewith all requirements of this subchapter. When such certification is received, the Secretary shall immediately disburse such funds in accordance with the form of the assistance determined by the participating jurisdiction.
 
 #### (e) Investment within 15 days
 
@@ -36,7 +36,7 @@ The Secretary shall not charge any interest or levy any other fee with regard to
 
 #### (g) Expiration of right to draw funds
 
-If any funds becoming available to a participating jurisdiction under this subchapter arenot placed under binding commitment to affordable housing within 24 months after the last day of the month in which such funds are deposited in the jurisdiction's HOME Investment Trust Fund, the jurisdiction's right to draw such funds from the HOME Investment Trust Fund shall expire. The Secretary shall reduce the line of credit in the participating jurisdiction's HOME Investment Trust Fund by the expiring amount and shall reallocate the funds by formula in accordance with section 12747(d) of this title.
+If any funds becoming available to a participating jurisdiction under this subchapter are not placed under binding commitment to affordable housing within 24 months after the last day of the month in which such funds are deposited in the jurisdiction's HOME Investment Trust Fund, the jurisdiction's right to draw such funds from the HOME Investment Trust Fund shall expire. The Secretary shall reduce the line of credit in the participating jurisdiction's HOME Investment Trust Fund by the expiring amount and shall reallocate the funds by formula in accordance with section 12747(d) of this title.
 
 #### (h) Administrative provision
 
@@ -46,13 +46,13 @@ The Secretary shall keep each participating jurisdiction informed of the status 
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–550, §221, inserted “or within the boundaries of contiguous jurisdictions in joint projects which serve residents from both jurisdictions” after “boundaries”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §221, inserted "or within the boundaries of contiguous jurisdictions in joint projects which serve residents from both jurisdictions" after "boundaries".
 
-Subsec. (g). Pub. L. 102–550, §203(c), substituted “If” for “Except as provided in section 12747(b)(1)(A)(ii) of this title, if”.
+Subsec. (g). Pub. L. 102–550, §203(c), substituted "If" for "Except as provided in section 12747(b)(1)(A)(ii) of this title, if".
 
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “12753”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "12753".</i>
 

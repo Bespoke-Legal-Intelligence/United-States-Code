@@ -8,7 +8,7 @@
 
 &emsp;(3) to improve the quality and availability of instrumentation for mathematics, science, and engineering instruction;
 
-&emsp;(4) to encourage partnerships in education between local and State education agencies, business and industry, colleges and universities, and cultural and professional institutions and societies; and
+&emsp;(4) to encourage partnerships in education between local and State education agencies,business and industry, colleges and universities, and cultural and professional institutions and societies; and
 
 &emsp;(5) to improve the quality of education at all levels in the fields of mathematics, science, and engineering.
 
@@ -24,9 +24,9 @@ A prior section 3911, Pub. L. 98–377, title I, §101, Aug. 11, 1984, 98 Stat. 
 
 Pub. L. 100–570, title I, §112, Oct. 31, 1988, 102 Stat. 2870, provided that:
 
-“(a) The Congress finds that the support of undergraduate science and engineering education is a critical component in a comprehensive national policy intended to ensure the Nation's future supply of scientists and engineers.
+"(a) The Congress finds that the support of undergraduate science and engineering education is a critical component in a comprehensive national policy intended to ensure the Nation's future supply of scientists and engineers.
 
-“(b) In accordance with the provisions of this Act \[see Tables for classification\], the Foundation shall support undergraduate science and engineering activities in instrumentation and laboratory improvement, undergraduate faculty enhancement, undergraduate research opportunities, undergraduate curriculum development, and efforts to encourage the participation of women, minorities, and the disabled in such fields.
+"(b) In accordance with the provisions of this Act \[see Tables for classification\], the Foundation shall support undergraduate science and engineering activities in instrumentation and laboratory improvement, undergraduate faculty enhancement, undergraduate research opportunities, undergraduate curriculum development, and efforts to encourage the participation of women, minorities, and the disabled in such fields.
 
-“(c) In carrying out the provisions of this section, the Foundation shall take into account the special needs of two-year and four-year colleges and universities.”
+"(c) In carrying out the provisions of this section, the Foundation shall take into account the special needs of two-year and four-year colleges and universities."
 

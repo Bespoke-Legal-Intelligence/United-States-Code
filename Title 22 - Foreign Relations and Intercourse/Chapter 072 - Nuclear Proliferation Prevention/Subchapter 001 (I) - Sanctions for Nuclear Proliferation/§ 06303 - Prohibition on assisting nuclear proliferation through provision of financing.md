@@ -1,8 +1,8 @@
 ### §6303. Prohibition on assisting nuclear proliferation through provision of financing
 
-#### (a) “Prohibited activity” defined
+#### (a) "Prohibited activity" defined
 
-For purposes of this section, the term “prohibited activity” means the act of knowingly, materially, and directly contributing or attempting to contribute, through the provision of financing, to—
+For purposes of this section, the term "prohibited activity" means the act of knowingly, materially, and directly contributing or attempting to contribute, through the provision of financing, to—
 
 &emsp;(1) the acquisition of unsafeguarded special nuclear material; or
 
@@ -26,7 +26,7 @@ The following sanctions shall be imposed pursuant to any order issued under subs
 
 #### (A) Designation as primary dealer
 
-&emsp;&emsp;Neither the Board of Governors of the Federal Reserve System nor the Federal Reserve Bank of New York may designate, or permit the continuation of any prior designation of, the person as a primary dealer in United States Government debt instruments.
+&emsp;&emsp;Neither the Board of Governors of the Federal Reserve System nor the Federal Reserve Bank of New York may designate, or permitthe continuation of any prior designation of, the person as a primary dealer in United States Government debt instruments.
 
 #### (B) Service as depositary
 
@@ -92,11 +92,11 @@ The Attorney General may bring an action in an appropriate district court of the
 
 &emsp;(2) any order issued pursuant to subsection (c) of this section.
 
-#### (i) “Knowingly” defined
+#### (i) "Knowingly" defined
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “knowingly” means the state of mind of a person with respect to conduct, a circumstance, or a result in which—
+&emsp;For purposes of this section, the term "knowingly" means the state of mind of a person with respect to conduct, a circumstance, or a result in which—
 
 &emsp;&emsp;(A) such person is aware that such person is engaging in such conduct, that such circumstance exists, or that such result is substantially certain to occur; or
 
@@ -118,9 +118,9 @@ For the date this subchapter takes effect, referred to in subsec. (j), as 60 day
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–164, §157(b)(1), struck out “in writing after opportunity for a hearing on the record” after “If the President determines,”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–164, §157(b)(1), struck out "in writing after opportunity for a hearing on the record" after "If the President determines,".
 
-Subsec. (e). Pub. L. 104–164, §157(b)(2), (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “Any determination of the President under subsection (c) of this section shall be subject to judicial review in accordance with chapter 7 of part I of title 5.”
+Subsec. (e). Pub. L. 104–164, §157(b)(2), (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: "Any determination of the President under subsection (c) of this section shall be subject to judicial review in accordance with chapter 7 of part I of title 5."
 
 Subsecs. (f) to (k). Pub. L. 104–164, §157(b)(3), redesignated subsecs. (g) to (k) as (f) to (j), respectively. Former subsec. (f) redesignated (e).
 

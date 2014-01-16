@@ -6,5 +6,5 @@ Whenever an action has been commenced in any court of the United States seeking 
 
 #### Amendments
 
-<b>1972</b>—Pub. L. 92–318 inserted “sex” after “religion,”.
+<b>1972</b>—Pub. L. 92–318 inserted "sex" after "religion,".
 

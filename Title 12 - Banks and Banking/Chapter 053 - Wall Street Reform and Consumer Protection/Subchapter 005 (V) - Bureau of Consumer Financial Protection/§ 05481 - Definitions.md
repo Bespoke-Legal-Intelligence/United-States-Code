@@ -4,23 +4,23 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (1) Affiliate
 
-&emsp;The term “affiliate” means any person that controls, is controlled by, or is under common control with another person.
+&emsp;The term "affiliate" means any person that controls, is controlled by, or is under common control with another person.
 
 #### (2) Bureau
 
-&emsp;The term “Bureau” means the Bureau of Consumer Financial Protection.
+&emsp;The term "Bureau" means the Bureau of Consumer Financial Protection.
 
 #### (3) Business of insurance
 
-&emsp;The term “business of insurance” means the writing of insurance or the reinsuring of risks by an insurer, including all acts necessary to such writing or reinsuring and the activities relating to the writing of insurance or the reinsuring of risks conducted by persons who act as, or are, officers, directors, agents, or employees of insurers or who are other persons authorized to act on behalf of such persons.
+&emsp;The term "business of insurance" means the writing of insurance or the reinsuring of risks by an insurer, including all acts necessary to such writing or reinsuring and the activities relating to the writing of insurance or the reinsuring of risks conducted by persons who act as, or are, officers, directors, agents, or employees of insurers or who are other persons authorized to act on behalf of such persons.
 
 #### (4) Consumer
 
-&emsp;The term “consumer” means an individual or an agent, trustee, or representative acting on behalf of an individual.
+&emsp;The term "consumer" means an individual or an agent, trustee, or representative acting on behalf of an individual.
 
 #### (5) Consumer financial product or service
 
-&emsp;The term “consumer financial product or service” means any financial product or service that is described in one or more categories under—
+&emsp;The term "consumer financial product or service" means any financial product or service that is described in one or more categories under—
 
 &emsp;&emsp;(A) paragraph (15) and is offered or provided for use by consumers primarily for personal, family, or household purposes; or
 
@@ -28,7 +28,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (6) Covered person
 
-&emsp;The term “covered person” means—
+&emsp;The term "covered person" means—
 
 &emsp;&emsp;(A) any person that engages in offering or providing a consumer financial product or service; and
 
@@ -36,11 +36,11 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (7) Credit
 
-&emsp;The term “credit” means the right granted by a person to a consumer to defer payment of a debt, incur debt and defer its payment, or purchase property or services and defer payment for such purchase.
+&emsp;The term "credit" means the right granted by a person to a consumer to defer payment of a debt, incur debt and defer its payment, or purchase property or services and defer payment for such purchase.
 
 #### (8) Deposit-taking activity
 
-&emsp;The term “deposit-taking activity” means—
+&emsp;The term "deposit-taking activity" means—
 
 &emsp;&emsp;(A) the acceptance of deposits, maintenance of deposit accounts, or the provision of services related to the acceptance of deposits or the maintenance of deposit accounts;
 
@@ -50,15 +50,15 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (9) Designated transfer date
 
-&emsp;The term “designated transfer date” means the date established under section 5582 of this title.
+&emsp;The term "designated transfer date" means the date established under section 5582 of this title.
 
 #### (10) Director
 
-&emsp;The term “Director” means the Director of the Bureau.
+&emsp;The term "Director" means the Director of the Bureau.
 
 #### (11) Electronic conduit services
 
-&emsp;The term “electronic conduit services”—
+&emsp;The term "electronic conduit services"—
 
 &emsp;&emsp;(A) means the provision, by a person, of electronic data transmission, routing, intermediate or transient storage, or connections to a telecommunications system or network; and
 
@@ -72,7 +72,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (12) Enumerated consumer laws
 
-&emsp;Except as otherwise specifically provided in section 5519 of this title, subtitle G or subtitle H, the term “enumerated consumer laws” means—
+&emsp;Except as otherwise specifically provided in section 5519 of this title, subtitle G or subtitle H, the term "enumerated consumer laws" means—
 
 &emsp;&emsp;(A) the Alternative Mortgage Transaction Parity Act of 1982 (12 U.S.C. 3801 et seq.);
 
@@ -112,17 +112,17 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (13) Fair lending
 
-&emsp;The term “fair lending” means fair, equitable, and nondiscriminatory access to credit for consumers.
+&emsp;The term "fair lending" means fair, equitable, and nondiscriminatory access to credit for consumers.
 
 #### (14) Federal consumer financial law
 
-&emsp;The term “Federal consumer financial law” means the provisions of this title,<sup>1</sup> the enumerated consumer laws, the laws for which authorities are transferred under subtitles F and H, and any rule or order prescribed by the Bureau under this title,<sup>1</sup> an enumerated consumer law, or pursuant to the authorities transferred under subtitles F and H. The term does not include the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+&emsp;The term "Federal consumer financial law" means the provisions of this title,<sup>1</sup> the enumerated consumer laws, the laws for which authorities are transferred under subtitles F and H, and any rule or order prescribed by the Bureau under this title,<sup>1</sup> an enumerated consumer law, or pursuant to the authorities transferred under subtitles F and H. The term does not include the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
 #### (15) Financial product or service
 
 #### (A) In general
 
-&emsp;&emsp;The term “financial product or service” means—
+&emsp;&emsp;The term "financial product or service" means—
 
 &emsp;&emsp;&emsp;(i) extending credit and servicing loans, including acquiring, purchasing, selling, brokering, or other extensions of credit (other than solely extending commercial credit to a person who originates consumer credit transactions);
 
@@ -204,7 +204,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (C) Exclusions
 
-&emsp;&emsp;The term “financial product or service” does not include—
+&emsp;&emsp;The term "financial product or service" does not include—
 
 &emsp;&emsp;&emsp;(i) the business of insurance; or
 
@@ -212,27 +212,27 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (16) Foreign exchange
 
-&emsp;The term “foreign exchange” means the exchange, for compensation, of currency of the United States or of a foreign government for currency of another government.
+&emsp;The term "foreign exchange" means the exchange, for compensation, of currency of the United States or of a foreign government for currency of another government.
 
 #### (17) Insured credit union
 
-&emsp;The term “insured credit union” has the same meaning as in section 1752 of this title.
+&emsp;The term "insured credit union" has the same meaning as in section 1752 of this title.
 
 #### (18) Payment instrument
 
-&emsp;The term “payment instrument” means a check, draft, warrant, money order, traveler's check, electronic instrument, or other instrument, payment of funds, or monetary value (other than currency).
+&emsp;The term "payment instrument" means a check, draft, warrant, money order, traveler's check, electronic instrument, or other instrument, payment of funds, or monetary value (other than currency).
 
 #### (19) Person
 
-&emsp;The term “person” means an individual, partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity.
+&emsp;The term "person" means an individual, partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity.
 
 #### (20) Person regulated by the Commodity Futures Trading Commission
 
-&emsp;The term “person regulated by the Commodity Futures Trading Commission” means any person that is registered, or required by statute or regulation to be registered, with the Commodity Futures Trading Commission, but only to the extent that the activities of such person are subject to the jurisdiction of the Commodity Futures Trading Commission under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
+&emsp;The term "person regulated by the Commodity Futures Trading Commission" means any person that is registered, or required by statute or regulation to be registered, with the Commodity Futures Trading Commission, but only to the extent that the activities of such person are subject to the jurisdiction of the Commodity Futures Trading Commission under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
 
 #### (21) Person regulated by the Commission
 
-&emsp;The term “person regulated by the Commission” means a person who is—
+&emsp;The term "person regulated by the Commission" means a person who is—
 
 &emsp;&emsp;(A) a broker or dealer that is required to be registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\];
 
@@ -260,11 +260,11 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (22) Person regulated by a State insurance regulator
 
-&emsp;The term “person regulated by a State insurance regulator” means any person that is engaged in the business of insurance and subject to regulation by any State insurance regulator, but only to the extent that such person acts in such capacity.
+&emsp;The term "person regulated by a State insurance regulator" means any person that is engaged in the business of insurance and subject to regulation by any State insurance regulator, but only to the extent that such person acts in such capacity.
 
 #### (23) Person that performs income tax preparation activities for consumers
 
-&emsp;The term “person that performs income tax preparation activities for consumers” means—
+&emsp;The term "person that performs income tax preparation activities for consumers" means—
 
 &emsp;&emsp;(A) any tax return preparer (as defined in section 7701(a)(36) of title 26), regardless of whether compensated, but only to the extent that the person acts in such capacity;
 
@@ -274,7 +274,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (24) Prudential regulator
 
-&emsp;The term “prudential regulator” means—
+&emsp;The term "prudential regulator" means—
 
 &emsp;&emsp;(A) in the case of an insured depository institution or depository institution holding company (as defined in section 1813 of this title), or subsidiary of such institution or company, the appropriate Federal banking agency, as that term is defined in section 1813 of this title; and
 
@@ -282,7 +282,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (25) Related person
 
-&emsp;The term “related person”—
+&emsp;The term "related person"—
 
 &emsp;&emsp;(A) shall apply only with respect to a covered person that is not a bank holding company (as that term is defined in section 1841 of this title), credit union, or depository institution;
 
@@ -304,7 +304,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (A) In general
 
-&emsp;&emsp;The term “service provider” means any person that provides a material service to a covered person in connection with the offering or provision by such covered person of a consumer financial product or service, including a person that—
+&emsp;&emsp;The term "service provider" means any person that provides a material service to a covered person in connection with the offering or provision by such covered person of a consumer financial product or service, including a person that—
 
 &emsp;&emsp;&emsp;(i) participates in designing, operating, or maintaining the consumer financial product or service; or
 
@@ -312,7 +312,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “service provider” does not include a person solely by virtue of such person offering or providing to a covered person—
+&emsp;&emsp;The term "service provider" does not include a person solely by virtue of such person offering or providing to a covered person—
 
 &emsp;&emsp;&emsp;(i) a support service of a type provided to businesses generally or a similar ministerial service; or
 
@@ -324,17 +324,17 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (27) State
 
-&emsp;The term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands or any federally recognized Indian tribe, as defined by the Secretary of the Interior under section 479a–1(a) of title 25.
+&emsp;The term "State" means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands or any federally recognized Indian tribe, as defined by the Secretary of the Interior under section 479a–1(a) of title 25.
 
 #### (28) Stored value
 
 #### (A) In general
 
-&emsp;&emsp;The term “stored value” means funds or monetary value represented in any electronic format, whether or not specially encrypted, and stored or capable of storage on electronic media in such a way as to be retrievable and transferred electronically, and includes a prepaid debit card or product, or any other similar product, regardless of whether the amount of the funds or monetary value may be increased or reloaded.
+&emsp;&emsp;The term "stored value" means funds or monetary value represented in any electronic format, whether or not specially encrypted, and stored or capable of storage on electronic media in such a way as to be retrievable and transferred electronically, and includes a prepaid debit card or product, or any other similar product, regardless of whether the amount of the funds or monetary value may be increased or reloaded.
 
 #### (B) Exclusion
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the term “stored value” does not include a special purpose card or certificate, which shall be defined for purposes of this paragraph as funds or monetary value represented in any electronic format, whether or not specially encrypted, that is—
+&emsp;&emsp;Notwithstanding subparagraph (A), the term "stored value" does not include a special purpose card or certificate, which shall be defined for purposes of this paragraph as funds or monetary value represented in any electronic format, whether or not specially encrypted, that is—
 
 &emsp;&emsp;&emsp;(i) issued by a merchant, retailer, or other seller of nonfinancial goods or services;
 
@@ -348,7 +348,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (29) Transmitting or exchanging funds
 
-&emsp;The term “transmitting or exchanging funds” means receiving currency, monetary value, or payment instruments from a consumer for the purpose of exchanging or transmitting the same by any means, including transmission by wire, facsimile, electronic transfer, courier, the Internet, or through bill payment services or through other businesses that facilitate third-party transfers within the United States or to or from the United States.
+&emsp;The term "transmitting or exchanging funds" means receiving currency, monetary value, or payment instruments from a consumer for the purpose of exchanging or transmitting the same by any means, including transmission by wire, facsimile, electronic transfer, courier, the Internet, or through bill payment services or through other businesses that facilitate third-party transfers within the United States or to or from the United States.
 
 (Pub. L. 111–203, title X, §1002, July 21, 2010, 124 Stat. 1955.)
 
@@ -410,9 +410,9 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 #### Designation as Enumerated Consumer Law Under the Purview of the Bureau of Consumer Financial Protection
 
-Pub. L. 111–203, title XIV, §1400(b), July 21, 2010, 124 Stat. 2136, provided that: “Subtitles A, B, C, and E \[subtitles A (§§1401–1406), B (§§1411–1422), C (§§1431–1433), and E (§§1461–1465) of title XIV of Pub. L. 111–203, enacting sections 1638a, 1639b to 1639d, 1639f, and 1639g of Title 15, Commerce and Trade, amending section 2605 of this title, sections 1602, 1607, 1638, 1639 to 1639d, and 1640 of Title 15, and enacting provisions set out as notes under sections 1601 and 1639b to 1639d of Title 15\] and sections 1471 \[enacting section 1639h of Title 15\], 1472 \[enacting section 1639e of Title 15 and amending section 1604 of Title 15\], 1475 \[amending section 2603 of this title\], and 1476 \[not classified to the Code\], and the amendmentsmade by such subtitles and sections, shall be enumerated consumer laws, as defined in section 1002 \[12 U.S.C. 5481\], and come under the purview of the Bureau of Consumer Financial Protection for purposes of title X \[see Short Title note set out under section 5301 of this title\], including the transfer of functions and personnel under subtitle F of title X \[§§1061–1067, enacting part F of this subchapter\] and the savings provisions of such subtitle.”
+Pub. L. 111–203, title XIV, §1400(b), July 21, 2010, 124 Stat. 2136, provided that: "Subtitles A, B, C, and E \[subtitles A (§§1401–1406), B (§§1411–1422), C (§§1431–1433), and E (§§1461–1465) of title XIV of Pub. L. 111–203, enacting sections 1638a, 1639b to 1639d, 1639f, and 1639g of Title 15, Commerce and Trade, amending section 2605 of this title, sections 1602, 1607, 1638, 1639 to 1639d, and 1640 of Title 15, and enacting provisions set out as notes under sections 1601 and 1639b to 1639d of Title 15\] and sections 1471 \[enacting section 1639h of Title 15\], 1472 \[enacting section 1639e of Title 15 and amending section 1604 of Title 15\], 1475 \[amending section 2603 of this title\], and 1476 \[not classified to the Code\], and the amendmentsmade by such subtitles and sections, shall be enumerated consumer laws, as defined in section 1002 \[12 U.S.C. 5481\], and come under the purview of the Bureau of Consumer Financial Protection for purposes of title X \[see Short Title note set out under section 5301 of this title\], including the transfer of functions and personnel under subtitle F of title X \[§§1061–1067, enacting part F of this subchapter\] and the savings provisions of such subtitle."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Homeowners”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Homeowners".</i>
 

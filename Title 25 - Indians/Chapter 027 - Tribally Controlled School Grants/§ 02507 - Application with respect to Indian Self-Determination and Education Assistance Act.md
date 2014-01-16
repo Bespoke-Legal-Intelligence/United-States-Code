@@ -68,7 +68,7 @@ No funds may be provided under any contract entered into under the Indian Self-D
 
 #### (e) Exceptions, problems, and disputes
 
-Any exception or problem cited in an audit conducted pursuant to section 2505(b)(1) of this title, any dispute regarding a grant authorized to be made pursuant to this chapter or any amendment to such grant, and any dispute involving an administrative cost grant under section 2008 of this title shall be administered under the provisions governing such exceptions, problems, or disputes in the case of contracts under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]. TheEqual Access to Justice Act shall apply to administrative appeals filed after September 8, 1988, by grantees regarding a grant under this chapter, including an administrative cost grant.
+Any exception or problem cited in an audit conducted pursuant to section 2505(b)(1) of this title, any dispute regarding a grant authorized to be made pursuant to this chapter or any amendment to such grant, and any dispute involving an administrative cost grant under section 2008 of this title shall be administered under the provisions governing such exceptions, problems, or disputes in the case of contracts under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]. The Equal Access to Justice Act shall apply to administrative appeals filed after September 8, 1988, by grantees regarding a grant under this chapter, including an administrative cost grant.
 
 (Pub. L. 100–297, title V, §5208, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2076.)
 
@@ -86,17 +86,17 @@ A prior section 2507, Pub. L. 100–297, title V, §5208, Apr. 28, 1988, 102 Sta
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “1(b)(5)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "1(b)(5)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “1(b)(7)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "1(b)(7)".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “1(b)(8)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "1(b)(8)".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “1(b)(9)”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "1(b)(9)".</i>
 
 <i><sup>5</sup></i><i> So in original. There probably should be a second closing parenthesis.</i>
 
-<i><sup>6</sup></i><i> So in original. Probably should be followed by “the”.</i>
+<i><sup>6</sup></i><i> So in original. Probably should be followed by "the".</i>
 
-<i><sup>7</sup></i><i> So in original. Probably should be “than”.</i>
+<i><sup>7</sup></i><i> So in original. Probably should be "than".</i>
 

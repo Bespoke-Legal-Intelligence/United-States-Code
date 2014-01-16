@@ -1,0 +1,6 @@
+### §69–1. Transferred
+
+#### Codification
+
+Section 69–1 was editorially reclassified as section 4334 of this title.
+

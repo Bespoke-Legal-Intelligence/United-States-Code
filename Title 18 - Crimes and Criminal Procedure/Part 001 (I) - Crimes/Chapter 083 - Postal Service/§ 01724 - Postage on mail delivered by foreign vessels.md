@@ -1,6 +1,6 @@
 ### §1724. Postage on mail delivered by foreign vessels
 
-Except as otherwise provided by treaty or convention the Postal Service may require the transportation by any steamship of mail between the United States and any foreign port at the compensation fixed under authority of law. Upon refusal by the master or the commander of such steamship or vessel to accept the mail, when tendered by the Postal Service or its representative, the collector or other officer of the port empowered to grant clearance, on notice of the refusal aforesaid, shall withhold clearance, until the collector or other officer of the port isinformed by the Postal Service or its representative that the master or commander of the steamship or vessel has accepted the mail or that conveyance by his steamship or vessel is no longer required by the Postal Service.
+Except as otherwise provided by treaty or convention the Postal Service may require the transportation by any steamship of mail between the United States and any foreign port at the compensation fixed under authority of law. Upon refusal by the master or the commander of such steamship or vessel to accept the mail, when tendered by the Postal Service or its representative, the collector or other officer of the port empowered to grant clearance, on notice of the refusal aforesaid, shall withhold clearance, until the collector or other officer of the port is informed by the Postal Service or its representative that the master or commander of the steamship or vessel has accepted the mail or that conveyance by his steamship or vessel is no longer required by the Postal Service.
 
 (June 25, 1948, ch. 645, 62 Stat. 784; Sept. 25, 1951, ch. 413, §1(4), 65 Stat. 336; Pub. L. 91–375, §6(j)(32), Aug. 12, 1970, 84 Stat. 780.)
 
@@ -10,7 +10,7 @@ Based on title 18, U.S.C., 1940 ed., §326 (Mar. 4, 1909, ch. 321, §203, 35 Sta
 
 #### Amendments
 
-<b>1970</b>—Pub. L. 91–375 substituted “Postal Service” and “Postal Service or its representative” for “Postmaster General” and “Postmaster General or his representative”, respectively, in two places.
+<b>1970</b>—Pub. L. 91–375 substituted "Postal Service" and "Postal Service or its representative" for "Postmaster General" and "Postmaster General or his representative", respectively, in two places.
 
 <b>1951</b>—Act Sept. 25, 1951, repealed former first paragraph relating to penalties for failure to pay postage on or unlawful conveyance of mail to or from any part of the United States by foreign vessels.
 

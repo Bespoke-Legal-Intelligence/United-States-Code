@@ -14,7 +14,7 @@ Whenever an order is issued under this section to abate such violation, at the r
 
 #### (d) Defenses
 
-This section shall have no application to any employee who acting without discretion fromhis employer (or his agent) deliberately violates any requirement of this chapter.
+This section shall have no application to any employee who acting without discretion from his employer (or his agent) deliberately violates any requirement of this chapter.
 
 #### (e) Presidential evaluations of potential loss of shifts of employment resulting from administration or enforcement of provisions; investigations; procedures applicable, etc.
 
@@ -24,7 +24,7 @@ The President shall conduct continuing evaluations of potential loss of shifts o
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b), (d), and (e), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b), (d), and (e), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

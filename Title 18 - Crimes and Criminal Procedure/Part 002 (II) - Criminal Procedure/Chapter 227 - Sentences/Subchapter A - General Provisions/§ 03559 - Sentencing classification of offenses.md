@@ -46,25 +46,25 @@ Mandatory life imprisonment.—Notwithstanding any other provision of law, a per
 
 Definitions.—For purposes of this subsection—
 
-&emsp;&emsp;(A) the term “assault with intent to commit rape” means an offense that has as its elements engaging in physical contact with another person or using or brandishing a weapon against another person with intent to commit aggravated sexual abuse or sexual abuse (as described in sections 2241 and 2242);
+&emsp;&emsp;(A) the term "assault with intent to commit rape" means an offense that has as its elements engaging in physical contact with another person or using or brandishing a weapon against another person with intent to commit aggravated sexual abuse or sexual abuse (as described in sections 2241 and 2242);
 
-&emsp;&emsp;(B) the term “arson” means an offense that has as its elements maliciously damaging or destroying any building, inhabited structure, vehicle, vessel, or real property by means of fire or an explosive;
+&emsp;&emsp;(B) the term "arson" means an offense that has as its elements maliciously damaging or destroying any building, inhabited structure, vehicle, vessel, or real property by means of fire or an explosive;
 
-&emsp;&emsp;(C) the term “extortion” means an offense that has as its elements the extraction of anything of value from another person by threatening or placing that person in fear of injury to any person or kidnapping of any person;
+&emsp;&emsp;(C) the term "extortion" means an offense that has as its elements the extraction of anything of value from another person by threatening or placing that person in fear of injury to any person or kidnapping of any person;
 
-&emsp;&emsp;(D) the term “firearms use” means an offense that has as its elements those described in section 924(c) or 929(a), if the firearm was brandished, discharged, or otherwise used as a weapon and the crime of violence or drug trafficking crime during and relation to which the firearm was used was subject to prosecution in a court of the United States or a court of a State, or both;
+&emsp;&emsp;(D) the term "firearms use" means an offense that has as its elements those described in section 924(c) or 929(a), if the firearm was brandished, discharged, or otherwise used as a weapon and the crime of violence or drug trafficking crime during and relation to which the firearm was used was subject to prosecution in a court of the United States or a court of a State, or both;
 
-&emsp;&emsp;(E) the term “kidnapping” means an offense that has as its elements the abduction, restraining, confining, or carrying away of another person by force or threat of force;
+&emsp;&emsp;(E) the term "kidnapping" means an offense that has as its elements the abduction, restraining, confining, or carrying away of another person by force or threat of force;
 
-&emsp;&emsp;(F) the term “serious violent felony” means—
+&emsp;&emsp;(F) the term "serious violent felony" means—
 
 &emsp;&emsp;&emsp;(i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commit murder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in section 46502 of Title 49); robbery (as described in section 2111, 2113, or 2118); carjacking (as described in section 2119); extortion; arson; firearms use; firearms possession (as described in section 924(c)); or attempt, conspiracy, or solicitation to commit any of the above offenses; and
 
 &emsp;&emsp;&emsp;(ii) any other offense punishable by a maximum term of imprisonment of 10 years or more that has as an element the use, attempted use, or threatened use of physical force against the person of another or that, by its nature, involves a substantial risk that physical force against the person of another may be used in the course of committing the offense;
 
-&emsp;&emsp;(G) the term “State” means a State of the United States, the District of Columbia, and a commonwealth, territory, or possession of the United States; and
+&emsp;&emsp;(G) the term "State" means a State of the United States, the District of Columbia, and a commonwealth, territory, or possession of the United States; and
 
-&emsp;&emsp;(H) the term “serious drug offense” means—
+&emsp;&emsp;(H) the term "serious drug offense" means—
 
 &emsp;&emsp;&emsp;(i) an offense that is punishable under section 401(b)(1)(A) or 408 of the Controlled Substances Act (21 U.S.C. 841(b)(1)(A), 848) or section 1010(b)(1)(A) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)(1)(A)); or
 
@@ -130,25 +130,25 @@ Mandatory Life Imprisonment for Repeated Sex Offenses Against Children.—
 
 &emsp;(1)
 
-In general.—A person who is convicted of a Federal sex offense in which a minor is the victim shall be sentenced to life imprisonment if the person has a prior sex conviction in which a minor was the victim, unless the sentence of death is imposed.
+In general.—A person who is convicted of a Federal sex offense in which a minor isthe victim shall be sentenced to life imprisonment if the person has a prior sex conviction in which a minor was the victim, unless the sentence of death is imposed.
 
 &emsp;(2)
 
 Definitions.—For the purposes of this subsection—
 
-&emsp;&emsp;(A) the term “Federal sex offense” means an offense under section 1591 (relating to sex trafficking of children), 2241 (relating to aggravated sexual abuse), 2242 (relating to sexual abuse), 2244(a)(1) (relating to abusive sexual contact), 2245 (relating to sexual abuse resulting in death), 2251 (relating to sexual exploitation of children), 2251A (relating to selling or buying of children), 2422(b) (relating to coercion and enticement of a minor into prostitution), or 2423(a) (relating to transportation of minors);
+&emsp;&emsp;(A) the term "Federal sex offense" means an offense under section 1591 (relating to sex trafficking of children), 2241 (relating to aggravated sexual abuse), 2242 (relating to sexual abuse), 2244(a)(1) (relating to abusive sexual contact), 2245 (relating to sexual abuse resulting in death), 2251 (relating to sexual exploitation of children), 2251A (relating to selling or buying of children), 2422(b) (relating to coercion and enticement of a minor into prostitution), or 2423(a) (relating to transportation of minors);
 
-&emsp;&emsp;(B) the term “State sex offense” means an offense under State law that is punishable by more than one year in prison and consists of conduct that would be a Federal sex offense if, to the extent or in the manner specified in the applicable provision of this title—
+&emsp;&emsp;(B) the term "State sex offense" means an offense under State law that is punishable by more than one year in prison and consists of conduct that would be a Federal sex offense if, to the extent or in the manner specified in the applicable provision of this title—
 
 &emsp;&emsp;&emsp;(i) the offense involved interstate or foreign commerce, or the use of the mails; or
 
 &emsp;&emsp;&emsp;(ii) the conduct occurred in any commonwealth, territory, or possession of the United States, within the special maritime and territorial jurisdiction of the United States, in a Federal prison, on any land or building owned by, leased to, or otherwise used by or under the control of the Government of the United States, or in the Indian country (as defined in section 1151);
 
-&emsp;&emsp;(C) the term “prior sex conviction” means a conviction for which the sentence was imposed before the conduct occurred constituting the subsequent Federal sex offense, and which was for a Federal sex offense or a State sex offense;
+&emsp;&emsp;(C) the term "prior sex conviction" means a conviction for which the sentence was imposed before the conduct occurred constituting the subsequent Federal sex offense, and which was for a Federal sex offense or a State sex offense;
 
-&emsp;&emsp;(D) the term “minor” means an individual who has not attained the age of 17 years; and
+&emsp;&emsp;(D) the term "minor" means an individual who has not attained the age of 17 years; and
 
-&emsp;&emsp;(E) the term “State” has the meaning given that term in subsection (c)(2).
+&emsp;&emsp;(E) the term "State" has the meaning given that term in subsection (c)(2).
 
 &emsp;(3)
 
@@ -174,15 +174,15 @@ Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—A
 
 (2) As used in this section—
 
-&emsp;(A) the term “falsely registers” means registers in a manner that prevents the effective identification of or contact with the person who registers; and
+&emsp;(A) the term "falsely registers" means registers in a manner that prevents the effective identification of or contact with the person who registers; and
 
-&emsp;(B) the term “domain name” has the meaning given that term is <sup>1</sup> section 45 of the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes” approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946”) (15 U.S.C. 1127).
+&emsp;(B) the term "domain name" has the meaning given that term is <sup>1</sup> section 45 of the Act entitled "An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes" approved July 5, 1946 (commonly referred to as the "Trademark Act of 1946") (15 U.S.C. 1127).
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 100–185, §5, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §7041, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title VII, §70001, Sept. 13, 1994, 108 Stat. 1982; Pub. L. 105–314, title V, §501, Oct. 30, 1998, 112 Stat. 2980; Pub. L. 105–386, §1(b), Nov. 13, 1998, 112 Stat. 3470; Pub. L. 108–21, title I, §106(a), Apr. 30, 2003, 117 Stat. 654; Pub. L. 108–482, title II, §204(a), Dec. 23, 2004, 118 Stat. 3917; Pub. L. 109–248, title II, §§202, 206(c), July 27, 2006, 120 Stat. 612, 614.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e)(2)(A). Pub. L. 109–248, §206(c), inserted “1591 (relating to sex trafficking of children),” after “under section”.
+<b>2006</b>—Subsec. (e)(2)(A). Pub. L. 109–248, §206(c), inserted "1591 (relating to sex trafficking of children)," after "under section".
 
 Subsecs. (f), (g). Pub. L. 109–248, §202, added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -190,29 +190,29 @@ Subsecs. (f), (g). Pub. L. 109–248, §202, added subsec. (f) and redesignated 
 
 <b>2003</b>—Subsec. (e). Pub. L. 108–21 added subsec. (e).
 
-<b>1998</b>—Subsec. (c)(2)(F)(i). Pub. L. 105–386 inserted “firearms possession (as described in section 924(c));” after “firearms use;”.
+<b>1998</b>—Subsec. (c)(2)(F)(i). Pub. L. 105–386 inserted "firearms possession (as described in section 924(c));" after "firearms use;".
 
 Subsec. (d). Pub. L. 105–314 added subsec. (d).
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–322, §70001(1), substituted “Except as provided in subsection (c), an” for “An”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322, §70001(1), substituted "Except as provided in subsection (c), an" for "An".
 
 Subsec. (c). Pub. L. 103–322, §70001(2), added subsec. (c).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7041(a)(1), substituted “classified if the maximum term of imprisonment authorized is—” for “classified—
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7041(a)(1), substituted "classified if the maximum term of imprisonment authorized is—" for "classified—
 
-&emsp;“(1) if the maximum term of imprisonment authorized is—”.
+&emsp;"(1) if the maximum term of imprisonment authorized is—".
 
-Subsec. (a)(1) to (9). Pub. L. 100–690, §7041(a)(2), (b), redesignated subpars. (A) to (I) as pars. (1) to (9), respectively, and substituted “twenty-five” for “twenty” in pars. (2) and (3).
+Subsec. (a)(1) to (9). Pub. L. 100–690, §7041(a)(2), (b), redesignated subpars. (A) to (I) as pars. (1) to (9), respectively, and substituted "twenty-five" for "twenty" in pars. (2) and (3).
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–185 substituted “, except that the maximum term of imprisonment is the term authorized by the law describing the offense.” for “except that:
+<b>1987</b>—Subsec. (b). Pub. L. 100–185 substituted ", except that the maximum term of imprisonment is the term authorized by the law describing the offense." for "except that:
 
-&emsp;“(1) the maximum fine that may be imposed is the fine authorized by the statute describing the offense, or by this chapter, whichever is the greater; and
+&emsp;"(1) the maximum fine that may be imposed is the fine authorized by the statute describing the offense, or by this chapter, whichever is the greater; and
 
-&emsp;“(2) the maximum term of imprisonment is the term authorized by the statute describing the offense.”
+&emsp;"(2) the maximum term of imprisonment is the term authorized by the statute describing the offense."
 
 #### Effective Date
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “in”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "in".</i>
 

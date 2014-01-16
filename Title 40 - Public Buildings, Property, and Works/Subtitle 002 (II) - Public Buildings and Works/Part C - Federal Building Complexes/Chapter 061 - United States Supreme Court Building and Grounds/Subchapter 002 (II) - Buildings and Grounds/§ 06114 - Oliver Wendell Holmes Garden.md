@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 22, 1940, ch. 908, §6, 54 Stat. 1208.
 
-The words “After the completion and dedication of” are omitted as executed.
+The words "After the completion and dedication of" are omitted as executed.
 

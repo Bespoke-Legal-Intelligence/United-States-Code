@@ -56,7 +56,7 @@
 
 #### (2) Definition of school site
 
-&emsp;For purposes of this subsection, the term “school site” means the physical location and the facilities of an elementary or secondary educational or residential program operated by, or under contract or grant with, the Bureau for which a discreet <sup>1</sup> student count is identified under the funding formula established under section 1127 of the Education Amendments of 1978 \[25 U.S.C. 2007\].
+&emsp;For purposes of this subsection, the term "school site" means the physical location and the facilities of an elementary or secondary educational or residential program operated by, or under contract or grant with, the Bureau for which a discreet <sup>1</sup> student count is identified under the funding formula established under section 1127 of the Education Amendments of 1978 \[25 U.S.C. 2007\].
 
 #### (d) No requirement to accept grants
 
@@ -84,7 +84,7 @@ Grants provided under this chapter shall not terminate, modify, suspend, or redu
 
 #### (3) Transfer of equipment and materials
 
-&emsp;Except as otherwise determined by the Secretary, the tribe or tribal organization operating the program to be retroceded must transfer to the Secretary (or to the tribe or tribal organization which will operate the program as a contract school) the existing equipment and materials which were acquired—
+&emsp;Except as otherwise determined by the Secretary, the tribe or tribal organization operating the program to be retroceded must transfer to the Secretary (or to the tribe or tribal organization which will operate the programas a contract school) the existing equipment and materials which were acquired—
 
 &emsp;&emsp;(A) with assistance under this chapter; or
 
@@ -110,5 +110,5 @@ A prior section 2502, Pub. L. 100–297, title V, §5203, Apr. 28, 1988, 102 Sta
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “discrete”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "discrete".</i>
 

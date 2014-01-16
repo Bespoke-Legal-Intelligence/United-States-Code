@@ -86,7 +86,7 @@
 
 &emsp;(B) the provision of such assistance will not adversely affect the military preparedness of the United States (as determined by the Secretary of Defense in such Secretary's discretion).
 
-(2) As used in this subsection, the term “emergency situation” means a circumstance—
+(2) As used in this subsection, the term "emergency situation" means a circumstance—
 
 &emsp;(A) that poses a serious threat to the interests of the United States; and
 
@@ -108,7 +108,7 @@
 
 (f) As used in this section—
 
-&emsp;(1) the term “nuclear material” means material containing any—
+&emsp;(1) the term "nuclear material" means material containing any—
 
 &emsp;&emsp;(A) plutonium;
 
@@ -118,11 +118,11 @@
 
 &emsp;&emsp;(D) uranium 233;
 
-&emsp;(2) the term “nuclear byproduct material” means any material containing any radioactive isotope created through an irradiation process in the operation of a nuclear reactor or accelerator;
+&emsp;(2) the term "nuclear byproduct material" means any material containing any radioactive isotope created through an irradiation process in the operation of a nuclear reactor or accelerator;
 
-&emsp;(3) the term “international organization” means a public international organization designated as such pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288) or a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs;
+&emsp;(3) the term "international organization" means a public international organization designated as such pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288) or a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs;
 
-&emsp;(4) the term “serious bodily injury” means bodily injury which involves—
+&emsp;(4) the term "serious bodily injury" means bodily injury which involves—
 
 &emsp;&emsp;(A) a substantial risk of death;
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;(D) protracted loss or impairment of the function of a bodily member, organ, or mental faculty;
 
-&emsp;(5) the term “bodily injury” means—
+&emsp;(5) the term "bodily injury" means—
 
 &emsp;&emsp;(A) a cut, abrasion, bruise, burn, or disfigurement;
 
@@ -144,9 +144,9 @@
 
 &emsp;&emsp;(E) any other injury to the body, no matter how temporary;
 
-&emsp;(6) the term “national of the United States” has the same meaning as in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)); and
+&emsp;(6) the term "national of the United States" has the same meaning as in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)); and
 
-&emsp;(7) the term “United States corporation or other legal entity” means any corporation or other entity organized under the laws of the United States or any State, Commonwealth, territory, possession, or district of the United States.
+&emsp;(7) the term "United States corporation or other legal entity" means any corporation or other entity organized under the laws of the United States or any State, Commonwealth, territory, possession, or district of the United States.
 
 (Added Pub. L. 97–351, §2(a), Oct. 18, 1982, 96 Stat. 1663; amended Pub. L. 100–690, title VII, §7022, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–272, §5(e)(6), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §330016(2)(C), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title V, §502, Apr. 24, 1996, 110 Stat. 1282.)
 
@@ -156,73 +156,73 @@ A prior section 831, acts June 25, 1948, ch. 645, 62 Stat. 738; Sept. 6, 1960, P
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–132, §502(1)(A), substituted “nuclear material or nuclear byproduct material” for “nuclear material” wherever appearing.
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §502(1)(A), substituted "nuclear material or nuclear byproduct material" for "nuclear material" wherever appearing.
 
-Subsec. (a)(1)(A). Pub. L. 104–132, §502(1)(B)(i), inserted “or to the environment” after “damage to property”.
+Subsec. (a)(1)(A). Pub. L. 104–132, §502(1)(B)(i), inserted "or to the environment" after "damage to property".
 
-Subsec. (a)(1)(B). Pub. L. 104–132, §502(1)(B)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “knows that circumstances exist which are likely to cause the death of or serious bodily injury to any person or substantial damage to property;”.
+Subsec. (a)(1)(B). Pub. L. 104–132, §502(1)(B)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "knows that circumstances exist which are likely to cause the death of or serious bodily injury to any person or substantial damage to property;".
 
-Subsec. (a)(6). Pub. L. 104–132, §502(1)(C), inserted “or to the environment” after “damage to property”.
+Subsec. (a)(6). Pub. L. 104–132, §502(1)(C), inserted "or to the environment" after "damage to property".
 
-Subsec. (c)(2). Pub. L. 104–132, §502(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the defendant is a national of the United States, as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101);”.
+Subsec. (c)(2). Pub. L. 104–132, §502(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the defendant is a national of the United States, as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101);".
 
-Subsec. (c)(3). Pub. L. 104–132, §502(2)(B), struck out “at the time of the offense the nuclear material is in use, storage, or transport, for peaceful purposes, and” before “after the conduct” and struck out “or” at end.
+Subsec. (c)(3). Pub. L. 104–132, §502(2)(B), struck out "at the time of the offense the nuclear material is in use, storage, or transport, for peaceful purposes, and" before "after the conduct" and struck out "or" at end.
 
-Subsec. (c)(4). Pub. L. 104–132, §502(2)(C), substituted “nuclear material or nuclear byproduct material” for “nuclear material for peaceful purposes” and “; or” for period at end.
+Subsec. (c)(4). Pub. L. 104–132, §502(2)(C), substituted "nuclear material or nuclear byproduct material" for "nuclear material for peaceful purposes" and "; or" for period at end.
 
 Subsec. (c)(5). Pub. L. 104–132, §502(2)(D), added par. (5).
 
-Subsec. (f)(1)(A). Pub. L. 104–132, §502(3)(A)(i), struck out “with an isotopic concentration not in excess of 80 percent plutonium 238” after “plutonium”.
+Subsec. (f)(1)(A). Pub. L. 104–132, §502(3)(A)(i), struck out "with an isotopic concentration not in excess of 80 percent plutonium 238" after "plutonium".
 
-Subsec. (f)(1)(C). Pub. L. 104–132, §502(3)(A)(ii), substituted “enriched uranium, defined as uranium” for “uranium”.
+Subsec. (f)(1)(C). Pub. L. 104–132, §502(3)(A)(ii), substituted "enriched uranium, defined as uranium" for "uranium".
 
 Subsec. (f)(2) to (7). Pub. L. 104–132, §502(3)(B)–(F), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and added pars. (6) and (7).
 
-<b>1994</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 103–322 substituted “fined under this title” for “fine of not more than $250,000”.
+<b>1994</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 103–322 substituted "fined under this title" for "fine of not more than $250,000".
 
-Subsec. (c)(1). Pub. L. 103–272 substituted “section 46501 of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)”.
+Subsec. (c)(1). Pub. L. 103–272 substituted "section 46501 of title 49" for "section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)".
 
 <b>1988</b>—Subsec. (e)(2) to (6). Pub. L. 100–690 redesignated pars. (3) to (6) as (2) to (5), respectively.
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–351, §1, Oct. 18, 1982, 96 Stat. 1663, provided that: “This Act \[enacting this section and amending section 1116 of this title\] may be cited as the ‘Convention on the Physical Protection of Nuclear Material Implementation Act of 1982’.”
+Pub. L. 97–351, §1, Oct. 18, 1982, 96 Stat. 1663, provided that: "This Act \[enacting this section and amending section 1116 of this title\] may be cited as the 'Convention on the Physical Protection of Nuclear Material Implementation Act of 1982'."
 
 #### Findings and Purpose of Title V of Pub. L. 104–132 Relating to Nuclear Materials
 
 Pub. L. 104–132, title V, §501, Apr. 24, 1996, 110 Stat. 1281, provided that:
 
-“(a)
+"(a)
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) nuclear materials, including byproduct materials, can be used to create radioactive dispersal devices that are capable of causing serious bodily injury as well as substantial damage to property and to the environment;
+&emsp;"(1) nuclear materials, including byproduct materials, can be used to create radioactive dispersal devices that are capable of causing serious bodily injury as well as substantial damage to property and to the environment;
 
-&emsp;“(2) the potential use of nuclear materials, including byproduct materials, enhances the threat posed by terrorist activities and thereby has a greater effect on the security interests of the United States;
+&emsp;"(2) the potential use of nuclear materials, including byproduct materials, enhances the threat posed by terrorist activities and thereby has a greater effect on the security interests of the United States;
 
-&emsp;“(3) due to the widespread hazards presented by the threat of nuclear contamination, as well as nuclear bombs, the United States has a strong interest in ensuring that persons who are engaged in the illegal acquisition and use of nuclear materials, including byproduct materials, are prosecuted for their offenses;
+&emsp;"(3) due to the widespread hazards presented by the threat of nuclear contamination, as well as nuclear bombs, the United States has a strong interest in ensuring that persons who are engaged in the illegal acquisition and use of nuclear materials, including byproduct materials, are prosecuted for their offenses;
 
-&emsp;“(4) the threat that nuclear materials will be obtained and used by terrorist and other criminal organizations has increased substantially since the enactment in 1982 of the legislation that implemented the Convention on the Physical Protection of Nuclear Material, codified at section 831 of title 18, United States Code;
+&emsp;"(4) the threat that nuclear materials will be obtained and used by terrorist and other criminal organizations has increased substantially since the enactment in 1982 of the legislation that implemented the Convention on the Physical Protection of Nuclear Material, codified at section 831 of title 18, United States Code;
 
-&emsp;“(5) the successful efforts to obtain agreements from other countries to dismantle nuclear weapons have resulted in increased packaging and transportation of nuclear materials, thereby decreasing the security of such materials by increasing the opportunity for unlawful diversion and theft;
+&emsp;"(5) the successful efforts to obtain agreements from other countries to dismantle nuclear weaponshave resulted in increased packaging and transportation of nuclear materials, thereby decreasing the security of such materials by increasing the opportunity for unlawful diversion and theft;
 
-&emsp;“(6) the trafficking in the relatively more common, commercially available, and usable nuclear and byproduct materials creates the potential for significant loss of life and environmental damage;
+&emsp;"(6) the trafficking in the relatively more common, commercially available, and usable nuclear and byproduct materials creates the potential for significant loss of life and environmental damage;
 
-&emsp;“(7) report trafficking incidents in the early 1990's suggest that the individuals involved in trafficking in these materials from Eurasia and Eastern Europe frequently conducted their black market sales of these materials within the Federal Republic of Germany, the Baltic States, the former Soviet Union, Central Europe, and to a lesser extent in the Middle European countries;
+&emsp;"(7) report trafficking incidents in the early 1990's suggest that the individuals involved in trafficking in these materials from Eurasia and Eastern Europe frequently conducted their black market sales of these materials within the Federal Republic of Germany, the Baltic States, the former Soviet Union, Central Europe, and to a lesser extent in the Middle European countries;
 
-&emsp;“(8) the international community has become increasingly concerned over the illegal possession of nuclear and nuclear byproduct materials;
+&emsp;"(8) the international community has become increasingly concerned over the illegal possession of nuclear and nuclear byproduct materials;
 
-&emsp;“(9) the potentially disastrous ramifications of increased access to nuclear and nuclear byproduct materials pose such a significant threat that the United States must use all lawful methods available to combat the illegal use of such materials;
+&emsp;"(9) the potentially disastrous ramifications of increased access to nuclear and nuclear byproduct materials pose such a significant threat that the United States must use all lawful methods available to combat the illegal use of such materials;
 
-&emsp;“(10) the United States has an interest in encouraging United States corporations to do business in the countries that comprised the former Soviet Union, and in other developing democracies;
+&emsp;"(10) the United States has an interest in encouraging United States corporations to do business in the countries that comprised the former Soviet Union, and in other developing democracies;
 
-&emsp;“(11) protection of such United States corporations from threats created by the unlawful use of nuclear materials is important to the success of the effort to encourage business ventures in these countries, and to further the foreign relations and commerce of the United States;
+&emsp;"(11) protection of such United States corporations from threats created by the unlawful use of nuclear materials is important to the success of the effort to encourage business ventures in these countries, and to further the foreign relations and commerce of the United States;
 
-&emsp;“(12) the nature of nuclear contamination is such that it may affect the health, environment, and property of United States nationals even if the acts that constitute the illegal activity occur outside the territory of the United States, and are primarily directed toward foreign nationals; and
+&emsp;"(12) the nature of nuclear contamination is such that it may affect the health, environment, and property of United States nationals even if the acts that constitute the illegal activity occur outside the territory of the United States, and are primarily directed toward foreign nationals; and
 
-&emsp;“(13) there is presently no Federal criminal statute that provides adequate protection to United States interests from nonweapons grade, yet hazardous radioactive material, and from the illegal diversion of nuclear materials that are held for other than peaceful purposes.
+&emsp;"(13) there is presently no Federal criminal statute that provides adequate protection to United States interests from nonweapons grade, yet hazardous radioactive material, and from the illegal diversion of nuclear materials that are held for other than peaceful purposes.
 
-“(b)
+"(b)
 
-Purpose.—The purpose of this title \[enacting section 2332c of this title, amending this section and sections 175, 177, 178, and 2332a of this title, and enacting provisions set out as notes under section 262 of Title 42, The Public Health and Welfare, and section 1522 of Title 50, War and National Defense\] is to provide Federal law enforcement agencies with the necessary means and the maximum authority permissible under the Constitution to combat the threat of nuclear contamination and proliferation that may result from the illegal possession and use of radioactive materials.”
+Purpose.—The purpose of this title \[enacting section 2332c of this title, amending this section and sections 175, 177, 178, and 2332a of this title, and enacting provisions set out as notes under section 262 of Title 42, The Public Health and Welfare, and section 1522 of Title 50, War and National Defense\] is to provide Federal law enforcement agencies with the necessary means and the maximum authority permissible under the Constitution to combat the threat of nuclear contamination and proliferation that may result from the illegal possession and use of radioactive materials."
 

@@ -1,6 +1,6 @@
 ### §9816. Department of Housing and Urban Development programs
 
-The Secretary of Housing and Urban Development, after consultation with the Secretary, shall take all necessary steps to assist community development corporations and local cooperative associations to qualify for and receive (1) such assistance in connection with technical assistance, counseling to tenants and homeowners, and loans to sponsors of low-income and moderate-income housing under section 106 of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701x\], as amended by section 811 of the Housing and Community Development Act of 1974; (2) such land for housing and business location and expansion under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\]; and (3) such funds for comprehensive planning under section 701 of the Housing Act of 1954,<sup>1</sup> as amended by section 401 of the Housing and Community Development Act of 1974, as shall further the purposes of this subchapter.
+The Secretary of Housing and Urban Development, after consultation with the Secretary, shall take all necessary steps to assist community development corporations and local cooperative associations to qualify for and receive (1) such assistance in connection with technical assistance, counseling to tenants and homeowners, and loans to sponsors of low-income and moderate-income housing under section 106 of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701x\], as amended by section 811 of the Housing and Community Development Act of 1974; (2) such land for housing and business location and expansion under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\]; and (3) such funds for comprehensive planning under section 701 of the Housing Act of 1954,<sup>1</sup> as amended by section 401 of the Housing and Community DevelopmentAct of 1974, as shall further the purposes of this subchapter.
 
 (Pub. L. 97–35, title VI, §627, Aug. 13, 1981, 95 Stat. 497.)
 
@@ -18,31 +18,31 @@ Section 401 of the Housing and Community Development Act of 1974, referred to in
 
 Pub. L. 103–120, §4, Oct. 27, 1993, 107 Stat. 1148, as amended by Pub. L. 105–18, title II, §10004, June 12, 1997, 111 Stat. 201, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary is authorized to provide assistance through the National Community Development Initiative, Local Initiatives Support Corporation, The Enterprise Foundation, Habitat for Humanity, and Youthbuild USA to develop the capacity and ability of community development corporations and community housing development organizations to undertake community development and affordable housing projects and programs.
 
-“(b)
+"(b)
 
 Form of Assistance.—Assistance under this section may be used for—
 
-&emsp;“(1) training, education, support, and advice to enhance the technical and administrative capabilities of community development corporations and community housing development organizations;
+&emsp;"(1) training, education, support, and advice to enhance the technical and administrative capabilities of community development corporations and community housing development organizations;
 
-&emsp;“(2) loans, grants, or predevelopment assistance to community development corporations and community housing development organizations to carry out community development and affordable housing activities that benefit low-income families; and
+&emsp;"(2) loans, grants, or predevelopment assistance to community development corporations and community housing development organizations to carry out community development and affordable housing activities that benefit low-income families; and
 
-&emsp;“(3) such other activities as may be determined by the National Community Development Initiative, Local Initiatives Support Corporation, The Enterprise Foundation, Habitat for Humanity, and Youthbuild USA in consultation with the Secretary.
+&emsp;"(3) such other activities as may be determined by the National Community Development Initiative, Local Initiatives Support Corporation, The Enterprise Foundation, Habitat for Humanity, and Youthbuild USA in consultation with the Secretary.
 
-“(c)
+"(c)
 
 Matching Requirement.—Assistance provided under this section shall be matched from private sources in an amount equal to 3 times the amount made available under this section.
 
-“(d)
+"(d)
 
 Implementation.—The Secretary shall by notice establish such requirements as may be necessary to carry out the provisions of this section. The notice shall take effect upon issuance.
 
-“(e)
+"(e)
 
-Authorization.—There are authorized to be appropriated $25,000,000 for fiscal year 1994 to carry out this section.”
+Authorization.—There are authorized to be appropriated $25,000,000 for fiscal year 1994 to carry out this section."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

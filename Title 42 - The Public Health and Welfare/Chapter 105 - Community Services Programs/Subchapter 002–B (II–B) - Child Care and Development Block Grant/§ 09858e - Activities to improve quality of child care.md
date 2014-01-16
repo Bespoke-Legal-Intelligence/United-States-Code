@@ -2,7 +2,7 @@
 
 A State that receives funds to carry out this subchapter for a fiscal year, shall use not less than 4 percent of the amount of such funds for activities that are designed to provide comprehensive consumer education to parents and the public, activities that increase parental choice, and activities designed to improve the quality and availability of child care (such as resource and referral services).
 
-(Pub. L. 97–35, title VI, §658G, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat.1388–241; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §607, Aug. 22, 1996, 110 Stat. 2283.)
+(Pub. L. 97–35, title VI, §658G, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–241; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §607, Aug. 22, 1996, 110 Stat. 2283.)
 
 #### Amendments
 

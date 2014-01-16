@@ -22,7 +22,7 @@ Assistance To Be Provided.—(1) The Secretary shall actively attempt to match p
 
 &emsp;(B) procedures and techniques for qualifying for and applying for jobs in such organizations.
 
-(3) The Secretary may provide personnel registered under subsection (b) with access to the interstate job bank program of the United States Employment Service if the Secretary determines that such program meets the needs of separating members of the armed forces for job placement.
+(3) The Secretary may provide personnel registered under subsection (b) with access to the interstate job bank program of the UnitedStates Employment Service if the Secretary determines that such program meets the needs of separating members of the armed forces for job placement.
 
 (e)
 
@@ -34,7 +34,7 @@ Delegation.—The Secretary, with the concurrence of the Secretary of Labor, may
 
 (g)
 
-Definitions.—In this section, the term “public service and community service organization” includes the following organizations:
+Definitions.—In this section, the term "public service and community service organization" includes the following organizations:
 
 &emsp;(1) Any organization that provides the following services:
 
@@ -60,11 +60,11 @@ Coast Guard.—This section shall apply to the Coast Guard in the same manner an
 
 #### Amendments
 
-<b>2013</b>—Subsec. (h). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “for the Coast Guard”.
+<b>2013</b>—Subsec. (h). Pub. L. 112–239 inserted "when it is not operating as a service in the Navy" after "for the Coast Guard".
 
-<b>2002</b>—Subsec. (h). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (h). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1994</b>—Pub. L. 103–337, §542(a)(3)(A), struck out “: Department of Defense” after “service” in section catchline.
+<b>1994</b>—Pub. L. 103–337, §542(a)(3)(A), struck out ": Department of Defense" after "service" in section catchline.
 
 Subsec. (h). Pub. L. 103–337, §542(a)(3)(B), added subsec. (h).
 
@@ -84,23 +84,23 @@ Pub. L. 102–484, div. D, title XLIV, §4463, Oct. 23, 1992, 106 Stat. 2740, as
 
 Pub. L. 102–484, div. D, title XLIV, §4464, Oct. 23, 1992, 106 Stat. 2741, provided that:
 
-“(a)
+"(a)
 
 Recomputation of Retired Pay.—(1) If a member or former member of the Armed Forces retired under section 4403(a) \[10 U.S.C. 1293 note\] or any other provision of law authorizing retirement from the Armed Forces (other than for disability) before the completion of at least 20 years of active duty service (as computed under the applicable provision of law) is employed by a public service or community service organization listed on the registry maintained under section 1143a(c) of title 10, United States Code (as added by section 4462(a)), within the period of the member's enhanced retirement qualification period, the member's or former member's retired or retainer pay shall be recomputed effective on the first day of the first month beginning after the date on which the member or former member attains 62 years of age.
 
-“(2) For purposes of recomputing a member's or former member's retired pay—
+"(2) For purposes of recomputing a member's or former member's retired pay—
 
-&emsp;“(A) the years of the member's or former member's employment by a public service or community service organization referred to in paragraph (1) during the member's or former member's enhanced retirement qualification period shall be treated as years of active duty service in the Armed Forces; and
+&emsp;"(A) the years of the member's or former member's employment by a public service or community service organization referred to in paragraph (1) during the member's or former member's enhanced retirement qualification period shall be treated as years of active duty service in the Armed Forces; and
 
-&emsp;“(B) in applying section 1401a of title 10, United States Code, the member's or former member's years of active duty service shall be deemed as of the date of retirement to have included the years of employment referred to in subparagraph (A).
+&emsp;"(B) in applying section 1401a of title 10, United States Code, the member's or former member's years of active duty service shall be deemed as of the date of retirement to have included the years of employment referred to in subparagraph (A).
 
-“(3) Section 1405(b) of title 10, United States Code, shall apply in determining years of service under this subsection.
+"(3) Section 1405(b) of title 10, United States Code, shall apply in determining years of service under this subsection.
 
-“(4) In this subsection, the term ‘enhanced retirement qualification period’, with respect to a member or former member retired under a provision of law referred to in paragraph (1), means the period beginning on the date of the retirement of the member or former member and ending the number of years (including any fraction of a year) after that date which when added to the number of years (including any fraction of a year) of service credited for purposes of computing the retired pay of the member or former member upon retirement equals 20 years.
+"(4) In this subsection, the term 'enhanced retirement qualification period', with respect to a member or former member retired under a provision of law referred to in paragraph (1), means the period beginning on the date of the retirement of the member or former member and ending the number of years (including any fraction of a year) after that date which when added to the number of years (including any fraction of a year) of service credited for purposes of computing the retired pay of the member or former member upon retirement equals 20 years.
 
-“(b)
+"(b)
 
 SBP Annuities.—(1) Effective on the first day of the first month after a member or former member of the Armed Forces retired under a provision of law referred to in subsection (a)(1) attains 62 years of age or, in the event of death before attaining that age, would have attained that age, the base amount applicable under section 1447(2) \[see 1447(6)\] of title 10, United States Code, to any Survivor Benefit Plan annuity provided by that member or former member shall be recomputed. For the recomputation the total years (including any fraction of a year) of the member's or former member's active service shall be treated as having included the member's or former member's years (including any fraction of a year) of employment referred to in subsection (a)(1) as of the date when the member or former member became eligible for retired pay under this section.
 
-“(2) In this subsection, the term ‘Survivor Benefit Plan’ means the plan established under subchapter II of chapter 73 of title 10, United States Code.”
+"(2) In this subsection, the term 'Survivor Benefit Plan' means the plan established under subchapter II of chapter 73 of title 10, United States Code."
 

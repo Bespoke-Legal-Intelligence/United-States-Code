@@ -24,21 +24,21 @@
 
 <b>2008</b>—Subsec. (b)(3). Pub. L. 110–458 added par. (3).
 
-<b>1986</b>—Subsecs. (a), (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsecs. (a), (b)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–76, §419(a)(1), substituted “(a) Except as provided in subsection (b) of this section and the Internal Revenue Code of 1954, notwithstanding” for “Notwithstanding”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–76, §419(a)(1), substituted "(a) Except as provided in subsection (b) of this section and the Internal Revenue Code of 1954, notwithstanding" for "Notwithstanding".
 
-Subsec. (b)(1). Pub. L. 98–76, §419(a)(2), substituted “(b)(1) This” for “: <i>Provided, however</i>, That the provisions of this”.
+Subsec. (b)(1). Pub. L. 98–76, §419(a)(2), substituted "(b)(1) This" for ": <i>Provided, however</i>, That the provisions of this".
 
 Subsec. (b)(2). Pub. L. 98–76, §419(a)(3), added par. (2).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–458, title I, §110(b)(1), Dec. 23, 2008, 122 Stat. 5112, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply with respect to payments due for months after August 2007. If, prior to the effective date of such amendment, payment pursuant to paragraph (2) of section 14(b) of the Railroad Retirement Act of 1974 (45 U.S.C. 231m(b)) was terminated because of the employee's death, payment to the former spouse may be reinstated for months after August 2007.”
+Pub. L. 110–458, title I, §110(b)(1), Dec. 23, 2008, 122 Stat. 5112, provided that: "The amendment made by subsection (a)(1) \[amending this section\] shall apply with respect to payments due for months after August 2007. If, prior to the effective date of such amendment, payment pursuant to paragraph (2) of section 14(b) of the Railroad Retirement Act of 1974 (45 U.S.C. 231m(b)) was terminated because of the employee's death, payment to the former spouse may be reinstated for months after August 2007."
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 98–76, title IV, §419(b), Aug. 12, 1983, 97 Stat. 438, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to annuity amounts payable for months beginning after the date of the enactment of this Act \[Aug. 12, 1983\].”
+Pub. L. 98–76, title IV, §419(b), Aug. 12, 1983, 97 Stat. 438, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to annuity amounts payable for months beginning after the date of the enactment of this Act \[Aug. 12, 1983\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

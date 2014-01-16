@@ -24,7 +24,7 @@
 
 #### (B) Distribution of minimum amounts
 
-&emsp;&emsp;The Attorney General shall distribute minimum amounts allocated for section13703(a) of this title to an eligible State not later than 30 days after receiving an application that demonstrates that such State qualifies for a Violent Offender Incarceration grant under section 13703 of this title or a Truth-in-Sentencing Incentive grant under section 13704 of this title.
+&emsp;&emsp;The Attorney General shall distribute minimum amounts allocated for section 13703(a) of this title to an eligible State not later than 30 days after receiving an application that demonstrates that such State qualifies for a Violent Offender Incarceration grant under section 13703 of this title or a Truth-in-Sentencing Incentive grant under section 13704 of this title.
 
 #### (b) Limitations on funds
 
@@ -64,13 +64,13 @@ A prior section 13708, Pub. L. 103–322, title II, §20108, Sept. 13, 1994, 108
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(4). Pub. L. 110–199 inserted at end “Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent as may provided in appropriations Acts, for the purpose described in section 13702(a)(4) of this title for any subsequent fiscal year. The further obligation of such funds by an official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.”
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–199 inserted at end "Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent as may provided in appropriations Acts, for the purpose described in section 13702(a)(4) of this title for any subsequent fiscal year. The further obligation of such funds by an official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch."
 
 #### Construction of 2008 Amendment
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 17504 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “be”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "be".</i>
 

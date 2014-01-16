@@ -24,9 +24,9 @@ A death gratuity payment under this section shall be made as follows:
 
 As used in this section—
 
-&emsp;(1) the term “Foreign Service employee” means any member of the Service or United States representative to an international organization or commission; and
+&emsp;(1) the term "Foreign Service employee" means any member of the Service or United States representative to an international organization or commission; and
 
-&emsp;(2) each of the terms “widow”, “widower”, “child”, and “parent” shall have the same meaning given each such term by section 8101 of title 5.
+&emsp;(2) each of the terms "widow", "widower", "child", and "parent" shall have the same meaning given each such term by section 8101 of title 5.
 
 (Pub. L. 96–465, title I, §413, Oct. 17, 1980, 94 Stat. 2092.)
 

@@ -28,5 +28,5 @@ States receiving grants under this section shall make information generated unde
 
 (Pub. L. 101–508, title VI, §6605, Nov. 5, 1990, 104 Stat. 1388–323.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “businesses”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "businesses".</i>
 

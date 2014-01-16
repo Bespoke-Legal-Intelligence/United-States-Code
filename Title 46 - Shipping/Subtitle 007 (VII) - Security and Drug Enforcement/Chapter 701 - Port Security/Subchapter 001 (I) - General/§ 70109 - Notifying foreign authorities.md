@@ -12,5 +12,5 @@ Training Program.—The Secretary, in cooperation with the Secretary of State, s
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–281 substituted “Unless the Secretary finds that a port in a foreign country maintains effective antiterrorism measures,” for “If the Secretary, after conducting an assessment under section 70108, finds that a port in a foreign country does not maintain effective antiterrorism measures,”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–281 substituted "Unless the Secretary finds that a port in a foreign country maintains effective antiterrorism measures," for "If the Secretary, after conducting an assessment under section 70108, finds that a port in a foreign country does not maintain effective antiterrorism measures,".
 

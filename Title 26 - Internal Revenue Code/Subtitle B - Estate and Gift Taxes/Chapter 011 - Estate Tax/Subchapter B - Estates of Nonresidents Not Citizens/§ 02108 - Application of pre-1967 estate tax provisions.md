@@ -28,9 +28,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1902(a)(6), substituted “November 13, 1976” for “the date of enactment of this section” after “on or after”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1902(a)(6), substituted "November 13, 1976" for "the date of enactment of this section" after "on or after".
 
-Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 1976 Amendment
 

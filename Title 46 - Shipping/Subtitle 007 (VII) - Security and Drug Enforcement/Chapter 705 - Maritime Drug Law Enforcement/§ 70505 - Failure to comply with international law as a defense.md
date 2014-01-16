@@ -22,5 +22,5 @@ Pub. L. 96–350, §3(d), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–570, title
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–407 substituted “this title, or against whom a civil enforcement proceeding is brought under section 70508,” for “this title”.
+<b>2008</b>—Pub. L. 110–407 substituted "this title, or against whom a civil enforcement proceeding is brought under section 70508," for "this title".
 

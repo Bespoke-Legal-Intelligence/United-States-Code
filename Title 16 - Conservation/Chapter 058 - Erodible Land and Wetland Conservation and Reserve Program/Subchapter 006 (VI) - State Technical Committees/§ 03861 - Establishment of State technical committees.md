@@ -46,7 +46,7 @@ Each State technical committee shall be composed of agricultural producers and o
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(2), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+This chapter, referred to in subsecs. (a) and (b)(2), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -58,9 +58,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §2711, which directed the general amendment of section 1261 of the “Farm SecurityAct of 1985”, was executed by making the amendment to this section, which is section 1261 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section related to the establishment in each State of a technical committee to assist the Secretary in the technical considerations relating to implementation of conservation provisions under this chapter, composition of each such committee, and development of standards to be used in the development of guidelines under former section 3862(b) of this title.
+<b>2008</b>—Pub. L. 110–246, §2711, which directed the general amendment of section 1261 of the "Farm Security Act of 1985", was executed by making the amendment to this section, which is section 1261 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section related to the establishment in each State of a technical committee to assist the Secretary in the technical considerations relating to implementation of conservation provisions under this chapter, composition of each such committee, and development of standards to be used in the development of guidelines under former section 3862(b) of this title.
 
-Subsec. (c)(4). Pub. L. 110–246, §7511(c)(38), which directed amendment of par. (4) by substituting “National Institute of Food and Agriculture” for “Extension Service”, could not be executed because “Extension Service” did not appear subsequent to amendment by Pub. L. 110–246, §2711. See above.
+Subsec. (c)(4). Pub. L. 110–246, §7511(c)(38), which directed amendment of par. (4) by substituting "National Institute of Food and Agriculture" for "Extension Service", could not be executed because "Extension Service" did not appear subsequent to amendment by Pub. L. 110–246, §2711. See above.
 
 <b>1996</b>—Subsec. (c)(9) to (12). Pub. L. 104–127 added pars. (9) to (12).
 

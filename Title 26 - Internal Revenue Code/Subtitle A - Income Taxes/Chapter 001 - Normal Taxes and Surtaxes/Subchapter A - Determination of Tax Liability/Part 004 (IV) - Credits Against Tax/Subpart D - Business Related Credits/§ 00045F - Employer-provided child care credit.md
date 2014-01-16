@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified child care expenditure” means any amount paid or incurred—
+&emsp;&emsp;The term "qualified child care expenditure" means any amount paid or incurred—
 
 &emsp;&emsp;&emsp;(i) to acquire, construct, rehabilitate, or expand property—
 
@@ -38,13 +38,13 @@ For purposes of this section—
 
 #### (B) Fair market value
 
-&emsp;&emsp;The term “qualified child care expenditures” shall not include expenses in excess of the fair market value of such care.
+&emsp;&emsp;The term "qualified child care expenditures" shall not include expenses in excess of the fair market value of such care.
 
 #### (2) Qualified child care facility
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified child care facility” means a facility—
+&emsp;&emsp;The term "qualified child care facility" means a facility—
 
 &emsp;&emsp;&emsp;(i) the principal use of which is to provide child care assistance, and
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified child care resource and referral expenditure” means any amount paid or incurred under a contract to provide child care resource and referral services to an employee of the taxpayer.
+&emsp;&emsp;The term "qualified child care resource and referral expenditure" means any amount paid or incurred under a contract to provide child care resource and referral services to an employee of the taxpayer.
 
 #### (B) Nondiscrimination
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (3) Recapture event defined
 
-&emsp;For purposes of this subsection, the term “recapture event” means—
+&emsp;For purposes of this subsection, the term "recapture event" means—
 
 #### (A) Cessation of operation
 
@@ -198,7 +198,7 @@ For purposes of this section—
 
 #### (B) Certain dispositions
 
-&emsp;&emsp;If, during any taxable year, there is a recapture amount determined with respect to any property the basis of which was reduced under subparagraph (A), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term “recapture amount” means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection (d).
+&emsp;&emsp;If, during any taxable year, there is a recapture amount determined with respect to any property the basis of which was reduced under subparagraph (A), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term "recapture amount" means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection (d).
 
 #### (2) Other deductions and credits
 
@@ -208,7 +208,7 @@ For purposes of this section—
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d)(4)(B). Pub. L. 107–147 substituted “this chapter or for purposes of section 55” for “subpart A, B, or D of this part”.
+<b>2002</b>—Subsec. (d)(4)(B). Pub. L. 107–147 substituted "this chapter or for purposes of section 55" for "subpart A, B, or D of this part".
 
 #### Effective Date of 2002 Amendment
 

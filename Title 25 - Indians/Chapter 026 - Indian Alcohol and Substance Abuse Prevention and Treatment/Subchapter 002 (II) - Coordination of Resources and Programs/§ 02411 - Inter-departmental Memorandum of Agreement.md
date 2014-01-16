@@ -26,7 +26,7 @@ Not later than 1 year after July 29, 2010, the Secretary of the Interior, the At
 
 &emsp;(6) direct Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit directors to cooperate fully with tribal requests made pursuant to section 2412 of this title, and
 
-&emsp;(7) provide for an annual review of such agreements by the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services.
+&emsp;(7) provide for an annual review of such agreements by the Secretary of the Interior,the Attorney General, and the Secretary of Health and Human Services.
 
 #### (b) Character of activities
 
@@ -58,17 +58,17 @@ Section 2010 of this title, referred to in subsec. (b), was in the original a re
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–211, §241(a)(1)(A)(i), in introductory provisions, substituted “Not later than 1 year after July 29, 2010” for “Not later than 120 days after October 27, 1986” and inserted “, the Attorney General,” after “Secretary of the Interior”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211, §241(a)(1)(A)(i), in introductory provisions, substituted "Not later than 1 year after July 29, 2010" for "Not later than 120 days after October 27, 1986" and inserted ", the Attorney General," after "Secretary of the Interior".
 
-Subsec. (a)(2)(A). Pub. L. 111–211, §241(a)(1)(A)(ii), which directed insertion of “, Office of Justice Programs, Substance Abuse and Mental Health Services Administration,” after “Bureau of Indian Affairs,”, was executed by making the insertion after “Bureau of Indian Affairs” to reflect the probable intent of Congress.
+Subsec. (a)(2)(A). Pub. L. 111–211, §241(a)(1)(A)(ii), which directed insertion of ", Office of Justice Programs, Substance Abuse and Mental Health Services Administration," after "Bureau of Indian Affairs,", was executed by making the insertion after "Bureau of Indian Affairs" to reflect the probable intent of Congress.
 
-Subsec. (a)(4), (5). Pub. L. 111–211, §241(a)(1)(A)(iii), (iv), inserted “, Department of Justice, Substance Abuse and Mental Health Services Administration,” after “Bureau of Indian Affairs”.
+Subsec. (a)(4), (5). Pub. L. 111–211, §241(a)(1)(A)(iii), (iv), inserted ", Department of Justice, Substance Abuse and Mental Health Services Administration," after "Bureau of Indian Affairs".
 
-Subsec. (a)(7). Pub. L. 111–211, §241(a)(1)(A)(v), inserted “, the Attorney General,” after “Secretary of the Interior”.
+Subsec. (a)(7). Pub. L. 111–211, §241(a)(1)(A)(v), inserted ", the Attorney General," after "Secretary of the Interior".
 
-Subsec. (c). Pub. L. 111–211, §241(a)(1)(B), inserted “, the Attorney General,” after “Secretary of the Interior” in introductory provisions.
+Subsec. (c). Pub. L. 111–211, §241(a)(1)(B), inserted ", the Attorney General," after "Secretary of the Interior" in introductory provisions.
 
-Subsec. (d). Pub. L. 111–211, §241(a)(1)(C), substituted “July 29, 2010” for “October 27, 1986”.
+Subsec. (d). Pub. L. 111–211, §241(a)(1)(C), substituted "July 29, 2010" for "October 27, 1986".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

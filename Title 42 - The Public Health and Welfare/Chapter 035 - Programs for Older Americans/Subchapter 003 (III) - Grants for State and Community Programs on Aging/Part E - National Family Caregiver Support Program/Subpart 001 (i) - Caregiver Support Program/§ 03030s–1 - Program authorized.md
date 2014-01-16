@@ -56,7 +56,7 @@ In carrying out this subpart, each area agency on aging shall make use of traine
 
 #### (3) Reports
 
-&emsp;The State shall prepare and submit to the Assistant Secretary reports on the data andrecords required under paragraph (2), including information on the services funded under this subpart, and standards and mechanisms by which the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
+&emsp;The State shall prepare and submit to the Assistant Secretary reports on the data and records required under paragraph (2), including information on the services funded under this subpart, and standards and mechanisms by which the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
 
 #### (f) Caregiver allotment
 
@@ -78,7 +78,7 @@ In carrying out this subpart, each area agency on aging shall make use of traine
 
 &emsp;(iii) American Samoa and the Commonwealth of the Northern Mariana Islands shall each be allotted 1/16 of 1 percent of the amount appropriated for the fiscal year for which the determination is made.
 
-&emsp;(C) For the purposes of subparagraph (B)(i), the term “State” does not include Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands.
+&emsp;(C) For the purposes of subparagraph (B)(i), the term "State" does not include Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands.
 
 #### (g) Availability of funds
 
@@ -100,21 +100,21 @@ In carrying out this subpart, each area agency on aging shall make use of traine
 
 &emsp;&emsp;A State may use not more than 10 percent of the total Federal and non-Federal share available to the State to provide support services to grandparents and older individuals who are relative caregivers of a child who is not more than 18 years of age.
 
-(Pub. L. 89–73, title III, §373, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat. 2254; amended Pub. L. 109–365, title III, §321, Oct. 17, 2006, 120 Stat. 2551.)
+(Pub. L. 89–73, title III, §373, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat.2254; amended Pub. L. 109–365, title III, §321, Oct. 17, 2006, 120 Stat. 2551.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(3). Pub. L. 109–365, §321(1), substituted “assist the caregivers in the areas of health, nutrition, and financial literacy, and in making decisions and solving problems relating to their caregiving roles;” for “caregivers to assist the caregivers in making decisions and solving problems relating to their caregiving roles;”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–365, §321(1), substituted "assist the caregivers in the areas of health, nutrition, and financial literacy, and in making decisions and solving problems relating to their caregiving roles;" for "caregivers to assist the caregivers in making decisions and solving problems relating to their caregiving roles;".
 
-Subsec. (c)(1)(B). Pub. L. 109–365, §321(2)(A), substituted “subparagraph (A)(i) or (B) of section 3002(22)” for “subparagraph (A)(i) or (B) of section 3002(28)”.
+Subsec. (c)(1)(B). Pub. L. 109–365, §321(2)(A), substituted "subparagraph (A)(i) or (B) of section 3002(22)" for "subparagraph (A)(i) or (B) of section 3002(28)".
 
-Subsec. (c)(2). Pub. L. 109–365, §321(2)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In providing services under this subpart, the State shall give priority for services to older individuals with greatest social and economic need, (with particular attention to low-income older individuals) and older individuals providing care and support to persons with mental retardation and related developmental disabilities (as defined in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6001)) (referred to in this subpart as ‘developmental disabilities’).”
+Subsec. (c)(2). Pub. L. 109–365, §321(2)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "In providing services under this subpart, the State shall give priority for services to older individuals with greatest social and economic need, (with particular attention to low-income older individuals) and older individuals providing care and support to persons with mental retardation and related developmental disabilities (as defined in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6001)) (referred to in this subpart as 'developmental disabilities')."
 
-Subsec. (d). Pub. L. 109–365, §321(3), amended subsec. (d) generally. Prior to amendment, text read as follows: “In carrying out this subpart, each area agency on aging shall coordinate the activities of the agency, or entity that such agency has contracted with, with the activities of other community agencies and voluntary organizations providing the types of services described in subsection (b) of this section.”
+Subsec. (d). Pub. L. 109–365, §321(3), amended subsec. (d) generally. Prior to amendment, text read as follows: "In carrying out this subpart, each area agency on aging shall coordinate the activities of the agency, or entity that such agency has contracted with, with the activities of other community agencies and voluntary organizations providing the types of services described in subsection (b) of this section."
 
-Subsec. (e)(3). Pub. L. 109–365, §321(4), inserted at end “The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.”
+Subsec. (e)(3). Pub. L. 109–365, §321(4), inserted at end "The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities."
 
-Subsec. (f)(1)(A). Pub. L. 109–365, §321(5), substituted “2007, 2008, 2009, 2010, and 2011” for “2001 through 2005”.
+Subsec. (f)(1)(A). Pub. L. 109–365, §321(5), substituted "2007, 2008, 2009, 2010, and 2011" for "2001 through 2005".
 
-Subsec. (g)(2)(C). Pub. L. 109–365, §321(6), inserted “of a child who is not more than 18 years of age” before period at end.
+Subsec. (g)(2)(C). Pub. L. 109–365, §321(6), inserted "of a child who is not more than 18 years of age" before period at end.
 

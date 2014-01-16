@@ -54,7 +54,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (D) OASDI overpayment
 
-&emsp;&emsp;For purposes of this paragraph, the term “OASDI overpayment” means any overpayment of benefits made to an individual under title II of the Social Security Act.
+&emsp;&emsp;For purposes of this paragraph, the term "OASDI overpayment" means any overpayment of benefits made to an individual under title II of the Social Security Act.
 
 #### (e) Collection of past-due, legally enforceable State income tax obligations
 
@@ -104,7 +104,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (5) Past-due, legally enforceable State income tax obligation
 
-&emsp;For purposes of this subsection, the term “past-due, legally enforceable State income tax obligation” means a debt—
+&emsp;For purposes of this subsection, the term "past-due, legally enforceable State income tax obligation" means a debt—
 
 &emsp;&emsp;(A)(i) which resulted from—
 
@@ -116,7 +116,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 &emsp;&emsp;(B) which resulted from a State income tax which has been assessed but not collected, the time for redetermination of which has expired, and which has not been delinquent for more than 10 years.
 
-> &emsp;For purposes of this paragraph, the term “State income tax” includes any local income tax administered by the chief tax administration agency of the State.
+> &emsp;For purposes of this paragraph, the term "State income tax" includes any local income tax administered by the chief tax administration agency of the State.
 
 #### (6) Regulations
 
@@ -124,7 +124,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (7) Erroneous payment to State
 
-&emsp;Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordance with such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to such State under such paragraph have been paid to such State).
+&emsp;Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordance with such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to suchState under such paragraph have been paid to such State).
 
 #### (f) Collection of unemployment compensation debts
 
@@ -170,7 +170,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (4) Covered unemployment compensation debt
 
-&emsp;For purposes of this subsection, the term “covered unemployment compensation debt” means—
+&emsp;For purposes of this subsection, the term "covered unemployment compensation debt" means—
 
 &emsp;&emsp;(A) a past-due debt for erroneous payment of unemployment compensation due to fraud or the person's failure to report earnings which has become final under the law of a State certified by the Secretary of Labor pursuant to section 3304 and which remains uncollected;
 
@@ -194,7 +194,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (6) Erroneous payment to State
 
-&emsp;Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordance with such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to such State under such paragraph have been paid to such State).
+&emsp;Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordancewith such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to such State under such paragraph have been paid to such State).
 
 #### (g) Review of reductions
 
@@ -202,7 +202,7 @@ No court of the United States shall have jurisdiction to hear any action, whethe
 
 #### (h) Federal agency
 
-For purposes of this section, the term “Federal agency” means a department, agency, or instrumentality of the United States, and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code).
+For purposes of this section, the term "Federal agency" means a department, agency, or instrumentality of the United States, and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code).
 
 #### (i) Treatment of payments to States
 
@@ -220,7 +220,7 @@ Notwithstanding any other provision of law, in the case of an insolvent corporat
 
 In the case of a disallowance of a claim for refund, the Secretary shall provide the taxpayer with an explanation for such disallowance.
 
-(Aug. 6, 1954, ch. 736, 68A Stat. 791; Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 97–35, title XXIII, §2331(c), Aug. 13, 1981, 95 Stat. 861; Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), July 18, 1984, 98 Stat. 1154, 1155; Pub. L. 98–378, §21(e), Aug. 16, 1984, 98 Stat. 1325; Pub. L. 100–647, title VI, §6276, Nov. 10, 1988, 102 Stat. 3753; Pub. L. 101–508, titleV, §5129(c), Nov. 5, 1990, 104 Stat. 1388–288; Pub. L. 103–296, title I, §108(h)(7), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–134, title III, §31001(u)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title I, §110(l)(7), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–206, title III, §§3505(a), 3711(a), (c), July 22, 1998, 112 Stat. 771, 779, 781; Pub. L. 109–171, title VII, §7301(d), Feb. 8, 2006, 120 Stat. 144; Pub. L. 110–328, §3(a), (d), Sept. 30, 2008, 122 Stat. 3570, 3573; Pub. L. 111–291, title VIII, §801(a), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 111–312, title V, §503(a), Dec. 17, 2010, 124 Stat. 3308.)
+(Aug. 6, 1954, ch. 736, 68A Stat. 791; Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 97–35, title XXIII, §2331(c), Aug. 13, 1981, 95 Stat. 861; Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), July 18, 1984, 98 Stat. 1154, 1155; Pub. L. 98–378, §21(e), Aug. 16, 1984, 98 Stat. 1325; Pub. L. 100–647, title VI, §6276, Nov. 10, 1988, 102 Stat. 3753; Pub. L. 101–508, title V, §5129(c), Nov. 5, 1990, 104 Stat. 1388–288; Pub. L. 103–296, title I, §108(h)(7), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–134, title III, §31001(u)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title I, §110(l)(7), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–206, title III, §§3505(a), 3711(a), (c), July 22, 1998, 112 Stat. 771, 779, 781; Pub. L. 109–171, title VII, §7301(d), Feb. 8, 2006, 120 Stat. 144; Pub. L. 110–328, §3(a), (d), Sept. 30, 2008, 122 Stat. 3570, 3573; Pub. L. 111–291, title VIII, §801(a), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 111–312, title V, §503(a), Dec. 17, 2010, 124 Stat. 3308.)
 
 #### References in Text
 
@@ -228,55 +228,55 @@ The Social Security Act, referred to in subsecs. (c), (d)(2), (3)(D), and (g), i
 
 #### Amendments
 
-<b>2010</b>—Subsec. (f). Pub. L. 111–291, §801(a)(1), struck out “resulting from fraud” after “debts” in heading.
+<b>2010</b>—Subsec. (f). Pub. L. 111–291, §801(a)(1), struck out "resulting from fraud" after "debts" in heading.
 
-Subsec. (f)(3). Pub. L. 111–291, §801(a)(2), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows: “Paragraph (1) shall apply to an overpayment by any person for a taxable year only if the address shown on the Federal return for such taxable year of the overpayment is an address within the State seeking the offset.”
+Subsec. (f)(3). Pub. L. 111–291, §801(a)(2), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows: "Paragraph (1) shall apply to an overpayment by any person for a taxable year only if the address shown on the Federal return for such taxable year of the overpayment is an address within the State seeking the offset."
 
-Subsec. (f)(3)(A). Pub. L. 111–291, §801(a)(3)(A), struck out “by certified mail with return receipt” after “notifies”.
+Subsec. (f)(3)(A). Pub. L. 111–291, §801(a)(3)(A), struck out "by certified mail with return receipt" after "notifies".
 
-Subsec. (f)(3)(B). Pub. L. 111–291, §801(a)(3)(B), substituted “is not a covered unemployment compensation debt” for “due to fraud”.
+Subsec. (f)(3)(B). Pub. L. 111–291, §801(a)(3)(B), substituted "is not a covered unemployment compensation debt" for "due to fraud".
 
-Subsec. (f)(3)(C). Pub. L. 111–312 substituted “is a covered unemployment compensation debt” for “is not a covered unemployment compensation debt”.
+Subsec. (f)(3)(C). Pub. L. 111–312 substituted "is a covered unemployment compensation debt" for "is not a covered unemployment compensation debt".
 
-Pub. L. 111–291, §801(a)(3)(C), substituted “is not a covered unemployment compensation debt” for “due to fraud”.
+Pub. L. 111–291, §801(a)(3)(C), substituted "is not a covered unemployment compensation debt" for "due to fraud".
 
 Subsec. (f)(4). Pub. L. 111–291, §801(a)(2), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
-Subsec. (f)(4)(A). Pub. L. 111–291, §801(a)(4)(A), inserted “or the person's failure to report earnings” after “due to fraud” and struck out “for not more than 10 years” after “remains uncollected”.
+Subsec. (f)(4)(A). Pub. L. 111–291, §801(a)(4)(A), inserted "or the person's failure to report earnings" after "due to fraud" and struck out "for not more than 10 years" after "remains uncollected".
 
-Subsec. (f)(4)(B). Pub. L. 111–291, §801(a)(4)(B), struck out “due to fraud” after “to be liable” and “for not more than 10 years” after “remain uncollected”.
+Subsec. (f)(4)(B). Pub. L. 111–291, §801(a)(4)(B), struck out "due to fraud" after "to be liable" and "for not more than 10 years" after "remain uncollected".
 
-Subsec. (f)(5) to (8). Pub. L. 111–291, §801(a)(2), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out par. (8). Prior to amendment, text of par. (8) read as follows: “This section shall not apply to refunds payable after the date which is 10 years after the date of the enactment of this subsection.”
+Subsec. (f)(5) to (8). Pub. L. 111–291, §801(a)(2), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out par. (8). Prior to amendment, text of par. (8) read as follows: "This section shall not apply to refunds payable after the date which is 10 years after the date of the enactment of this subsection."
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–328, §3(d)(1), substituted “(c), (d), (e), and (f)” for “(c), (d), and (e),”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–328, §3(d)(1), substituted "(c), (d), (e), and (f)" for "(c), (d), and (e),".
 
-Subsec. (d)(2). Pub. L. 110–328, §3(d)(2), substituted “and before such overpayment is reduced pursuant to subsections (e) and (f)” for “and before such overpayment is reduced pursuant to subsection (e)”.
+Subsec. (d)(2). Pub. L. 110–328, §3(d)(2), substituted "and before such overpayment is reduced pursuant to subsections (e) and (f)" for "and before such overpayment is reduced pursuant to subsection (e)".
 
-Subsec. (e)(3). Pub. L. 110–328, §3(d)(3), inserted “or subsection (f)” after “paragraph (1)” in concluding provisions.
+Subsec. (e)(3). Pub. L. 110–328, §3(d)(3), inserted "or subsection (f)" after "paragraph (1)" in concluding provisions.
 
 Subsec. (f). Pub. L. 110–328, §3(a), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 110–328, §3(a), (d)(4), redesignated subsec. (f) as (g) and substituted “(c), (d), (e), or (f)” for “(c), (d), or (e)”. Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 110–328, §3(a), (d)(4), redesignated subsec. (f) as (g) and substituted "(c), (d), (e), or (f)" for "(c), (d), or (e)". Former subsec. (g) redesignated (h).
 
 Subsec. (h). Pub. L. 110–328, §3(a), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 110–328, §3(a), (d)(5), redesignated subsec. (h) as (i) and substituted “subsection (c), (e), or (f)” for “subsection (c) or (e)”. Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 110–328, §3(a), (d)(5), redesignated subsec. (h) as (i) and substituted "subsection (c), (e), or (f)" for "subsection (c) or (e)". Former subsec. (i) redesignated (j).
 
 Subsecs. (j) to (l). Pub. L. 110–328, §3(a), redesignated subsecs. (i) to (k) as (j) to (l), respectively.
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–171 substituted “of such Act.” for “the Social Security Act.” in first sentence and “The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law.” for “A reduction under this subsection shall be applied first to satisfy any past-due support which has been assigned to the State under section 402(a)(26) or 471(a)(17) of the Social Security Act, and shall be applied to satisfy any other past-due support after any other reductions allowed by law (but before a credit against future liability for an internal revenue tax) have been made.” in third sentence.
+<b>2006</b>—Subsec. (c). Pub. L. 109–171 substituted "of such Act." for "the Social Security Act." in first sentence and "The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law." for "A reduction under this subsection shall be applied first to satisfy any past-due support which has been assigned to the State under section 402(a)(26) or 471(a)(17) of the Social Security Act, and shall be applied to satisfy any other past-due support after any other reductions allowed by law (but before a credit against future liability for an internal revenue tax) have been made." in third sentence.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–206, §3711(c)(1), substituted “(c), (d), and (e)” for “(c) and (d)”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–206, §3711(c)(1), substituted "(c), (d), and (e)" for "(c) and (d)".
 
-Subsec. (d)(2). Pub. L. 105–206, §3711(c)(2), substituted “and before such overpayment is reduced pursuant to subsection (e) and before such overpayment” for “and before such overpayment”.
+Subsec. (d)(2). Pub. L. 105–206, §3711(c)(2), substituted "and before such overpayment is reduced pursuant to subsection (e) and before such overpayment" for "and before such overpayment".
 
 Subsec. (e). Pub. L. 105–206, §3711(a), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 105–206, §3711(a), (c)(3), redesignated subsec. (e) as (f) and substituted “(c), (d), or (e)” for “(c) or (d)” and “Federal agency or State” for “Federal agency”. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 105–206, §3711(a), (c)(3), redesignated subsec. (e) as (f) and substituted "(c), (d), or (e)" for "(c) or (d)" and "Federal agency or State" for "Federal agency". Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 105–206, §3711(a), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 105–206, §3711(a), (c)(4), redesignated subsec. (g) as (h) and substituted “subsection (c) or (e)” for “subsection (c)”. Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 105–206, §3711(a), (c)(4), redesignated subsec. (g) as (h) and substituted "subsection (c) or (e)" for "subsection (c)". Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 105–206, §3711(a), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
@@ -288,31 +288,31 @@ Subsec. (k). Pub. L. 105–206, §3711(a), redesignated subsec. (j) as (k).
 
 <b>1997</b>—Subsecs. (a), (e) to (j). Pub. L. 105–33 repealed Pub. L. 104–193, §110(l)(7). See 1996 Amendment notes below.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–193, §110(l)(7)(A), which directed substitution of “(c), (d), and (e)” for “(c) and (d)”, was repealed by Pub. L. 105–33.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §110(l)(7)(A), which directed substitution of "(c), (d), and (e)" for "(c) and (d)", was repealed by Pub. L. 105–33.
 
-Subsec. (e). Pub. L. 104–193, §110(l)(7)(C), which directed amendment by adding subsec. (e), reading as follows: “
+Subsec. (e). Pub. L. 104–193, §110(l)(7)(C), which directed amendment by adding subsec. (e), reading as follows: "
 
-Collection of Overpayments Under Title IV–A of the Social Security Act.—The amount of any overpayment to be refunded to the person making the overpayment shall be reduced (after reductions pursuant to subsections (c) and (d), but before a credit against future liability for an internal revenue tax) in accordance with section 405(e) of the Social Security Act (concerning recovery of overpayments to individuals under State plans approved under part A of title IV of such Act).”, was repealed by Pub. L. 105–33.
+Collection of Overpayments Under Title IV–A of the Social Security Act.—The amount of any overpayment to be refunded to the person making the overpayment shall be reduced (after reductions pursuant to subsections (c) and (d), but before a credit against future liability for an internal revenue tax) in accordance with section 405(e) of the Social Security Act (concerning recovery of overpayments to individuals under State plans approved under part A of title IV of such Act).", was repealed by Pub. L. 105–33.
 
 Subsec. (f). Pub. L. 104–193, §110(l)(7)(B), which directed amendment by redesignating subsec. (e) as (f), was repealed by Pub. L. 105–33.
 
-Pub. L. 104–134 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “For purposes of this section, the term ‘Federal agency’ means a department, agency, or instrumentality of the United States (other than an agency subject to section 9 of the Act of May 18, 1933 (48 Stat. 63, chapter 32; 16 U.S.C. 831h)), and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code).”
+Pub. L. 104–134 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "For purposes of this section, the term 'Federal agency' means a department, agency, or instrumentality of the United States (other than an agency subject to section 9 of the Act of May 18, 1933 (48 Stat. 63, chapter 32; 16 U.S.C. 831h)), and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code)."
 
 Subsecs. (g) to (j). Pub. L. 104–193, §110(l)(7)(B), which directed amendment by redesignating subsecs. (f) to (i) as (g) to (j), respectively, was repealed by Pub. L. 105–33.
 
-<b>1994</b>—Subsecs. (d)(3)(C), (e). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
+<b>1994</b>—Subsecs. (d)(3)(C), (e). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary of Health and Human Services" wherever appearing.
 
-<b>1990</b>—Subsec. (d)(1). Pub. L. 101–508, §5129(c)(1)(A), struck out “any OASDI overpayment and” after “(other than”.
+<b>1990</b>—Subsec. (d)(1). Pub. L. 101–508, §5129(c)(1)(A), struck out "any OASDI overpayment and" after "(other than".
 
-Subsec. (d)(3). Pub. L. 101–508, §5129(c)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “For purposes of this subsection the term ‘OASDI overpayment’ means any overpayment of benefits made to an individual under title II of the Social Security Act.”
+Subsec. (d)(3). Pub. L. 101–508, §5129(c)(1)(B), added par. (3) and struck out former par. (3) which read as follows: "For purposes of this subsection the term 'OASDI overpayment' means any overpayment of benefits made to an individual under title II of the Social Security Act."
 
-Subsec. (e). Pub. L. 101–508, §5129(c)(2), inserted before period at end “or any such action against the Secretary of Health and Human Services which is otherwise available with respect to recoveries of overpayments of benefits under section 204 of the Social Security Act”.
+Subsec. (e). Pub. L. 101–508, §5129(c)(2), inserted before period at end "or any such action against the Secretary of Health and Human Services which is otherwise available with respect to recoveries of overpayments of benefits under section 204 of the Social Security Act".
 
 <b>1988</b>—Subsec. (i). Pub. L. 100–647 added subsec. (i).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2653(b)(2), substituted “subsections (c) and (d)” for “subsection (c)”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2653(b)(2), substituted "subsections (c) and (d)" for "subsection (c)".
 
-Subsec. (c). Pub. L. 98–378, §21(e)(1), substituted “collecting such support” for “to which such support has been assigned” and inserted provision that a reduction under this subsection shall be applied first to satisfy any past-due support which has been assigned to the State under section 402(a)(26) or 471(a)(17) of the Social Security Act, and shall be applied to satisfy any other past-due support after any other reductions allowed by law (but before a credit against future liability for an internal revenue tax) have been made.
+Subsec. (c). Pub. L. 98–378, §21(e)(1), substituted "collecting such support" for "to which such support has been assigned" and inserted provision that a reduction under this subsection shall be applied first to satisfy any past-due support which has been assigned to the State under section 402(a)(26) or 471(a)(17) of the Social Security Act, and shall be applied to satisfy any other past-due support after any other reductions allowed by law (but before a credit against future liability for an internal revenue tax) have been made.
 
 Subsecs. (d) to (f). Pub. L. 98–369, §2653(b)(1), added subsecs. (d) to (f).
 
@@ -326,13 +326,13 @@ Subsec. (h). Pub. L. 98–378, §21(e)(2), redesignated former subsec. (g) as (h
 
 Subsec. (c). Pub. L. 97–35, §2331(c)(2), added subsec. (c).
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–312, title V, §503(b), Dec. 17, 2010, 124 Stat. 3308, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in section 801 of the Claims Resolution Act of 2010 \[Pub. L. 111–291\].”
+Pub. L. 111–312, title V, §503(b), Dec. 17, 2010, 124 Stat. 3308, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in section 801 of the Claims Resolution Act of 2010 \[Pub. L. 111–291\]."
 
-Pub. L. 111–291, title VIII, §801(b), Dec. 8, 2010, 124 Stat. 3157, provided that: “The amendments made by this section \[amending this section\] shall apply to refunds payable under section 6402 of the Internal Revenue Code of 1986 on or after the date of the enactment of this Act \[Dec. 8, 2010\].”
+Pub. L. 111–291, title VIII, §801(b), Dec. 8, 2010, 124 Stat. 3157, provided that: "The amendments made by this section \[amending this section\] shall apply to refunds payable under section 6402 of the Internal Revenue Code of 1986 on or after the date of the enactment of this Act \[Dec. 8, 2010\]."
 
 #### Effective Date of 2008 Amendment
 
@@ -344,7 +344,7 @@ Amendment by Pub. L. 109–171 effective Oct. 1, 2009, and applicable to payment
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3505(b), July 22, 1998, 112 Stat. 771, provided that: “The amendment made by this section \[amending this section\] shall apply to disallowances after the 180th day after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3505(b), July 22, 1998, 112 Stat. 771, provided that: "The amendment made by thissection \[amending this section\] shall apply to disallowances after the 180th day after the date of the enactment of this Act \[July 22, 1998\]."
 
 Amendment by section 3711 of Pub. L. 105–206 applicable to refunds payable under this section after Dec. 31, 1999, see section 3711(d) of Pub. L. 105–206, set out as a note under section 6103 of this title.
 
@@ -362,19 +362,19 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title V, §5129(d), Nov. 5, 1990, 104 Stat. 1388–289, provided that: “The amendments made by this section \[amending this section, section 3720A of Title 31, Money and Finance, and section 404 of Title 42, The Public Health and Welfare\]—
+Pub. L. 101–508, title V, §5129(d), Nov. 5, 1990, 104 Stat. 1388–289, provided that: "The amendments made by this section \[amending this section, section 3720A of Title 31, Money and Finance, and section 404 of Title 42, The Public Health and Welfare\]—
 
-&emsp;“(1) shall take effect January 1, 1991, and
+&emsp;"(1) shall take effect January 1, 1991, and
 
-&emsp;“(2) shall not apply to refunds to which the amendments made by section 2653 of the Deficit Reduction Act of 1984 (98 Stat. 1153) \[enacting section 3720A of Title 31 and amending this section and sections 6103 and 7213 of this title\] do not apply.”
+&emsp;"(2) shall not apply to refunds to which the amendments made by section 2653 of the Deficit Reduction Act of 1984 (98 Stat. 1153) \[enacting section 3720A of Title 31 and amending this section and sections 6103 and 7213 of this title\] do not apply."
 
 #### Effective Date of 1984 Amendments
 
 Amendment by Pub. L. 98–378 applicable with respect to refunds payable under this section after Dec. 31, 1985, see section 21(g) of Pub. L. 98–378, set out as a note under section 6103 of this title.
 
-Pub. L. 98–369, div. B, title VI, §2653(c), July 18, 1984, 98 Stat. 1156, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9402(a), Dec. 22, 1987, 101 Stat. 1330–376; Pub. L. 100–485, title VII, §701(a), Oct. 13, 1988, 102 Stat. 2425; Pub. L. 102–164, title IV, §401(a), Nov. 15, 1991, 105 Stat. 1061, provided that: “The amendments made by this section \[enacting section 3720A of Title 31, Money and Finance, and amending this section and sections 6103 and 7213 of this title\] shall apply with respect to refunds payable under section 6402 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after December 31, 1985.”
+Pub. L. 98–369, div. B, title VI, §2653(c), July 18, 1984, 98 Stat. 1156, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9402(a), Dec. 22, 1987, 101 Stat. 1330–376; Pub. L. 100–485, title VII, §701(a), Oct. 13, 1988, 102 Stat. 2425; Pub. L. 102–164, title IV, §401(a), Nov. 15, 1991, 105 Stat. 1061, provided that: "The amendments made by this section \[enacting section 3720A of Title 31, Money and Finance, and amending this section and sections 6103 and 7213 of this title\] shall apply with respect to refunds payable under section 6402 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after December 31, 1985."
 
-\[Pub. L. 102–164, title IV, §401(b), Nov. 15, 1991, 105 Stat. 1061, provided that: “The amendment made by this section \[amending section 2653(c) of Pub. L. 98–369, set out above\] shall take effect on October 1, 1991.”\]
+\[Pub. L. 102–164, title IV, §401(b), Nov. 15, 1991, 105 Stat. 1061, provided that: "The amendment made by this section \[amending section 2653(c) of Pub. L. 98–369, set out above\] shall take effect on October 1, 1991."\]
 
 #### Effective Date of 1981 Amendment
 
@@ -384,35 +384,35 @@ Amendment by Pub. L. 97–35 effective, except as otherwise specifically provide
 
 Pub. L. 104–191, title III, §371, Aug. 21, 1996, 110 Stat. 2072, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of the Treasury shall, to the extent practicable, include with the mailing of any payment of a refund of individual income tax made during the period beginning on February 1, 1997, and ending on June 30, 1997, a copy of the document described in subsection (b).
 
-“(b)
+"(b)
 
 Text of Document.—The Secretary of the Treasury shall, after consultation with the Secretary of Health and Human Services and organizations promoting organ and tissue (including eye) donation, prepare a document suitable for inclusion with individual income tax refund payments which—
 
-&emsp;“(1) encourages organ and tissue donation;
+&emsp;"(1) encourages organ and tissue donation;
 
-&emsp;“(2) includes a detachable organ and tissue donor card; and
+&emsp;"(2) includes a detachable organ and tissue donor card; and
 
-&emsp;“(3) urges recipients to—
+&emsp;"(3) urges recipients to—
 
-&emsp;&emsp;“(A) sign the organ and tissue donor card;
+&emsp;&emsp;"(A) sign the organ and tissue donor card;
 
-&emsp;&emsp;“(B) discuss organ and tissue donation with family members and tell family members about the recipient's desire to be an organ and tissue donor if the occasion arises; and
+&emsp;&emsp;"(B) discuss organ and tissue donation with family members and tell family members about the recipient's desire to be an organ and tissue donor if the occasion arises; and
 
-&emsp;&emsp;“(C) encourage family members to request or authorize organ and tissue donation if the occasion arises.”
+&emsp;&emsp;"(C) encourage family members to request or authorize organ and tissue donation if the occasion arises."
 
 #### Clarification of Congressional Intent as to Scope of Amendments by Section 2653 of Pub. L. 98–369
 
 Pub. L. 100–203, title IX, §9402(b), Dec. 22, 1987, 101 Stat. 1330–376, provided that:
 
-“(1) Nothing in the amendments made by section 2653 of the Deficit Reduction Act of 1984 \[enacting section 3720A of Title 31, Money and Finance, and amending this section and sections 6103 and 7213 of this title\] shall be construed as exempting debts of corporations or any other category of persons from the application of such amendments.
+"(1) Nothing in the amendments made by section 2653 of the Deficit Reduction Act of 1984 \[enacting section 3720A of Title 31, Money and Finance, and amending this section and sections 6103 and 7213 of this title\] shall be construed as exempting debts of corporations or any other category of persons from the application of such amendments.
 
-“(2) It is the intent of the Congress that, to the extent practicable, the amendments made by section 2653 of the Deficit Reduction Act of 1984 shall extend to all Federal agencies (as defined in the amendments made by such section).
+"(2) It is the intent of the Congress that, to the extent practicable, the amendments made by section 2653 of the Deficit Reduction Act of 1984 shall extend to all Federal agencies (as defined in the amendments made by such section).
 
-“(3) The Secretary of the Treasury shall issue regulations to carry out the purposes of this subsection.”
+"(3) The Secretary of the Treasury shall issue regulations to carry out the purposes of this subsection."
 
 #### Study by General Accounting Office of Operation and Effectiveness of Amendments by Section 2653 of Pub. L. 98–369
 

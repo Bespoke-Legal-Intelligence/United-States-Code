@@ -26,7 +26,7 @@
 
 With respect to compliance with subsection (a) as a condition of receiving payments under section 300d–11(a) of this title—
 
-&emsp;(1) a State may make the non-Federal contributions required in such subsection in cashor in kind, fairly evaluated, including plant, equipment, or services; and
+&emsp;(1) a State may make the non-Federal contributions required in such subsection in cash or in kind, fairly evaluated, including plant, equipment, or services; and
 
 &emsp;(2) the Secretary may not, in making a determination of the amount of non-Federal contributions, include amounts provided by the Federal Government or services assisted or subsidized to any significant extent by the Federal Government.
 
@@ -36,5 +36,5 @@ With respect to compliance with subsection (a) as a condition of receiving payme
 
 <b>2007</b>—Pub. L. 110–23 amended section generally. Prior to amendment, section related to requirement of matching funds for fiscal years subsequent to first fiscal year of payments.
 
-<b>1993</b>—Subsec. (a)(2)(A). Pub. L. 103–183 substituted “section 300d–11(b)” for “section 300d–11(c)”.
+<b>1993</b>—Subsec. (a)(2)(A). Pub. L. 103–183 substituted "section 300d–11(b)" for "section 300d–11(c)".
 

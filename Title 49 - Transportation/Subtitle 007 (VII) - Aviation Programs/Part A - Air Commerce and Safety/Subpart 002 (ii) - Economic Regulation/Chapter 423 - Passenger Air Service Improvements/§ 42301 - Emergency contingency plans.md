@@ -102,15 +102,15 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Commercial airport.—The term “commercial airport” means a large hub, medium hub, small hub, or nonhub airport.
+Commercial airport.—The term "commercial airport" means a large hub, medium hub, small hub, or nonhub airport.
 
 &emsp;(2)
 
-Covered air transportation.—The term “covered air transportation” means scheduled or public charter passenger air transportation provided by an air carrier that operates an aircraft that as originally designed has a passenger capacity of 30 or more seats.
+Covered air transportation.—The term "covered air transportation" means scheduled or public charter passenger air transportation provided by an air carrier that operates an aircraft that as originally designed has a passenger capacity of 30 or more seats.
 
 &emsp;(3)
 
-Tarmac delay.—The term “tarmac delay” means the period during which passengers are on board an aircraft on the tarmac—
+Tarmac delay.—The term "tarmac delay" means the period during which passengers are on board an aircraft on the tarmac—
 
 &emsp;&emsp;(A) awaiting takeoff after the aircraft doors have been closed or after passengers have been boarded if the passengers have not been advised they are free to deplane; or
 
@@ -118,7 +118,7 @@ Tarmac delay.—The term “tarmac delay” means the period during which passen
 
 &emsp;(4)
 
-Excessive tarmac delay.—The term “excessive tarmac delay” means a tarmac delay that lasts for a length of time, as determined by the Secretary.
+Excessive tarmac delay.—The term "excessive tarmac delay" means a tarmac delay that lasts for a length of time, as determined by the Secretary.
 
 (Added Pub. L. 112–95, title IV, §415(a), Feb. 14, 2012, 126 Stat. 93.)
 
@@ -128,5 +128,5 @@ The date of enactment of this section, referred to in subsec. (a), is the date o
 
 #### Effective Date
 
-Pub. L. 112–95, title IV, §415(c), Feb. 14, 2012, 126 Stat. 96, provided that: “Except as otherwise provided, the requirements of chapter 423 of title 49, United States Code, as added by this section, shall begin to apply 60 days after the date of enactment of this Act \[Feb. 14, 2012\].”
+Pub. L. 112–95, title IV, §415(c), Feb. 14, 2012, 126 Stat. 96, provided that: "Except as otherwise provided, the requirements of chapter 423 of title 49, United States Code, as added by this section, shall begin to apply 60 days after the date of enactment of this Act \[Feb. 14, 2012\]."
 

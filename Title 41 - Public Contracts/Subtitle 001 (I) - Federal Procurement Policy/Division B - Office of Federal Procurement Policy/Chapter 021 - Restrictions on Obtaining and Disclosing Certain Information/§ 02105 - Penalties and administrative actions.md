@@ -26,7 +26,7 @@ Types of action that federal agency may take.—A Federal agency that receives i
 
 &emsp;&emsp;&emsp;(i) the contractor or someone acting for the contractor has been convicted for an offense punishable under subsection (a); or
 
-&emsp;&emsp;&emsp;(ii) the head of the agency that awarded the contract has determined, based on apreponderance of the evidence, that the contractor or a person acting for the contractor has engaged in conduct constituting the offense.
+&emsp;&emsp;&emsp;(ii) the head of the agency that awarded the contract has determined, based on a preponderance of the evidence, that the contractor or a person acting for the contractor has engaged in conduct constituting the offense.
 
 &emsp;&emsp;(C) Initiating a suspension or debarment proceeding for the protection of the Federal Government in accordance with procedures in the Federal Acquisition Regulation.
 
@@ -66,9 +66,9 @@ Pub. L. 93–400, §27(e), as added Pub. L. 100–679, §6(a), Nov. 17, 1988, 10
 
 41:423(e)(3).
 
-In subsection (a), the word “violates” is substituted for “engages in conduct constituting a violation of” to eliminate unnecessary words.
+In subsection (a), the word "violates" is substituted for "engages in conduct constituting a violation of" to eliminate unnecessary words.
 
-In subsection (b), the words “liable to the Federal Government for” are substituted for “subject to” for consistency in the revised title and with other titles of the United States Code.
+In subsection (b), the words "liable to the Federal Government for" are substituted for "subject to" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (c)(1), the words “has violated” are substituted for “has engaged in conduct constituting a violation of” to eliminate unnecessary words.
+In subsection (c)(1), the words "has violated" are substituted for "has engaged in conduct constituting a violation of" to eliminate unnecessary words.
 

@@ -24,7 +24,7 @@ Except as otherwise provided by law, the Secretary shall interpret all Federal l
 
 In connection with any compact or funding agreement executed pursuant to this part or an agreement negotiated under the Tribal Self-Governance Demonstration Project established under title III,<sup>1</sup> as in effect before August 18, 2000, upon the request of an Indian tribe, the Secretary—
 
-&emsp;(1) shall permit an Indian tribe to use existing school buildings, hospitals, and other facilities and all equipment therein or appertaining thereto and other personal property owned by the Government within the Secretary's jurisdiction under such terms and conditions as may be agreed upon by the Secretary and the Indian tribe for their use and maintenance;
+&emsp;(1) shall permit an Indian tribe to use existing school buildings, hospitals, and other facilities and all equipment therein or appertaining thereto and other personal propertyowned by the Government within the Secretary's jurisdiction under such terms and conditions as may be agreed upon by the Secretary and the Indian tribe for their use and maintenance;
 
 &emsp;(2) may donate to an Indian tribe title to any personal or real property found to be excess to the needs of any agency of the Department, or the General Services Administration, except that—
 
@@ -53,6 +53,8 @@ Each provision of this part and each provision of a compact or funding agreement
 #### References in Text
 
 Title III, referred to in subsec. (c), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, and amended, which was set out as a note under section 450f of this title prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
+
+This subchapter, referred to in subsec. (d), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

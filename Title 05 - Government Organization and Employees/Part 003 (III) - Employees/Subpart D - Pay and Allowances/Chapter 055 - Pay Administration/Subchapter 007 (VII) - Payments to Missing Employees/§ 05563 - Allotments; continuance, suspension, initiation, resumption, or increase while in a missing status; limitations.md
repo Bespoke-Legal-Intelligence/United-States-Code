@@ -1,6 +1,6 @@
 ### §5563. Allotments; continuance, suspension, initiation, resumption, or increase while in a missing status; limitations
 
-(a) An allotment (including one for the purchase of United States savings bonds) made byan employee before he was in a missing status may be continued for the period he is in that status, notwithstanding the end of the period for which the allotment was made.
+(a) An allotment (including one for the purchase of United States savings bonds) made by an employee before he was in a missing status may be continued for the period he is in that status, notwithstanding the end of the period for which the allotment was made.
 
 (b) In the absence of an allotment or when an allotment is insufficient for a purpose authorized by the head of the agency concerned, he or his designee may authorize such a new or increased allotment as circumstances warrant, which is payable for the period the employee concerned is in a missing status.
 

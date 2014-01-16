@@ -8,7 +8,7 @@
 
 #### (2) Participation among States
 
-&emsp;The Secretary shall ensure, to the maximum extent practicable, that owners and operators in each State have an equitable opportunity toparticipate in the program established under this section.
+&emsp;The Secretary shall ensure, to the maximum extent practicable, that owners and operators in each State have an equitable opportunity to participate in the program established under this section.
 
 #### (b) Eligible acreage
 

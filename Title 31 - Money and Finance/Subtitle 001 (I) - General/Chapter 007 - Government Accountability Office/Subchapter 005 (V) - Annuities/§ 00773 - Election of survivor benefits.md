@@ -46,21 +46,21 @@ June 10, 1921, ch. 18, 42 Stat. 20, §319(b), (c); added July 13, 1959, Pub. L. 
 
 June 10, 1921, ch. 18, 42 Stat. 20, §319(q); added July 13, 1959, Pub. L. 86–87, 73 Stat. 200.
 
-In subsections (a) and (b), the word “pay” is substituted for “salary”, and the word “annuity” is substituted for “retirement pay”, for consistency in the revised title and with other titles of the United States Code.
+In subsections (a) and (b), the word "pay" is substituted for "salary", and the word "annuity" is substituted for "retirement pay", for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), the words “To provide” are substituted for “for purposes of” for clarity. The words “or in the case of the Comptroller General currently in office and any retired Comptroller General, within six months after July 13, 1959” are omitted as executed. The words “as hereinafter provided” are omitted as surplus.
+In subsection (a), the words "To provide" are substituted for "for purposes of" for clarity. The words "or in the case of the Comptroller General currently in office and any retired Comptroller General, within six months after July 13, 1959" are omitted as executed. The words "as hereinafter provided" are omitted as surplus.
 
-In subsection (b), before clause (1), the words “of the United States” are omitted as surplus. The words “or retired Comptroller General” are omitted as executed. The word “provide” is substituted for “receive” for clarity and consistency. In clause (2), before subclause (A), the word “redeposit” is substituted for “covering” for clarity. The words “the general fund of” and “a sum equal to” are omitted as surplus. In subclause (A), the words “the date current . . . from his salary and retirement pay” and 31:43b(c)(last sentence) are omitted as surplus. In subclause (B), the words “salary . . . or compensation for service” are omitted as surplus. The words “member of Congress” are substituted for “Senator, Representative, Delegate, or Resident Commissioner in the Congress of the United States” for consistency and to eliminate unnecessary words.
+In subsection (b), before clause (1), the words "of the United States" are omitted as surplus. The words "or retired Comptroller General" are omitted as executed. The word "provide" is substituted for "receive" for clarity and consistency. In clause (2), before subclause (A), the word "redeposit" is substituted for "covering" for clarity. The words "the general fund of" and "a sum equal to" are omitted as surplus. In subclause (A), the words "the date current . . . from his salary and retirement pay" and 31:43b(c)(last sentence) are omitted as surplus. In subclause (B), the words "salary . . . or compensation for service" are omitted as surplus. The words "member of Congress" are substituted for "Senator, Representative, Delegate, or Resident Commissioner in the Congress of the United States" for consistency and to eliminate unnecessary words.
 
-In subsection (c), the words “be construed to” and “eligible therefore” are omitted as surplus. The words “receiving another annuity while” are substituted for “simultaneously . . . and any annuity . . . to which she would otherwise be entitled under any other law” to eliminate unnecessary words. The words “(including old age and survivor benefits)” and “without regard to this section” are omitted as surplus.
+In subsection (c), the words "be construed to" and "eligible therefore" are omitted as surplus. The words "receiving another annuity while" are substituted for "simultaneously . . . and any annuity . . . to which she would otherwise be entitled under any other law" to eliminate unnecessary words. The words "(including old age and survivor benefits)" and "without regard to this section" are omitted as surplus.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in introductory provisions.
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–426, §204(1), inserted “5 percent of the” before “annuity”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–426, §204(1), inserted "5 percent of the" before "annuity".
 
-Subsec. (b)(2)(C). Pub. L. 100–426, §204(2), substituted “3 percent” for “4.5 percent”.
+Subsec. (b)(2)(C). Pub. L. 100–426, §204(2), substituted "3 percent" for "4.5 percent".
 
 Subsec. (d). Pub. L. 100–426, §204(3), added subsec. (d).
 

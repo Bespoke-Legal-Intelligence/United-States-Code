@@ -6,7 +6,7 @@ The Attorney General shall conduct a study of the means by which abusive spouses
 
 &emsp;(1) the findings of the study concerning the means by which information concerning the addresses or locations of abused spouses may be obtained by abusers; and
 
-&emsp;(2) analysis of the feasibility of creating effective means of protecting the confidentiality of information concerning the addresses andlocations of abused spouses to protect such persons from exposure to further abuse while preserving access to such information for legitimate purposes.
+&emsp;(2) analysis of the feasibility of creating effective means of protecting the confidentiality of information concerning the addresses and locations of abused spouses to protect such persons from exposure to further abuse while preserving access to such information for legitimate purposes.
 
 #### (b) Use of components
 

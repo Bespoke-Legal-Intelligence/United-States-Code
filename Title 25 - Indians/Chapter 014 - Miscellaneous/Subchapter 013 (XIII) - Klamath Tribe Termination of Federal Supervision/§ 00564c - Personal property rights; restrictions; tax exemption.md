@@ -10,5 +10,5 @@ Upon publication in the Federal Register of the final roll as provided in sectio
 
 #### Revolving Fund: Interest-Free Loans to Klamath Indians; Refinancing Lending Agency Loans
 
-Use of Revolving Loan Fund for Indians to assist Klamath Indians during period for terminating Federal supervision, see note set out under section 564 of this title.
+Use of Revolving Loan Fund for Indians to assist Klamath Indians during period for terminating Federalsupervision, see note set out under section 564 of this title.
 

@@ -60,7 +60,7 @@ Applicability.—(1) This section does not apply to a contract for an amount les
 
 (g)
 
-Regulations.—The Secretary of Defense, after consultation with the Secretary of State, shall prescribe regulations to carry out this section. Such regulations shall include a definition of the term “significant interest”.
+Regulations.—The Secretary of Defense, after consultation with the Secretary of State, shall prescribe regulations to carry out this section. Such regulations shall include a definition of the term "significant interest".
 
 (Added Pub. L. 99–500, §101(c) \[title X, §951(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §951(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §951(a)(1), Nov. 14, 1986, 100 Stat. 3944, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title XII, §1231(8), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–224, §5(b)(2), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 105–85, div. A, title VIII, §843, Nov. 18, 1997, 111 Stat. 1844; Pub. L. 108–136, div. A, title X, §1031(a)(16), Nov. 24, 2003, 117 Stat. 1597.)
 
@@ -76,25 +76,25 @@ A prior section 2327 was renumbered section 2347 of this title.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c)(1)(A). Pub. L. 108–136, §1031(a)(16)(A), substituted “if in the best interests of the Government” for “after the date on which such head of an agency submits to Congress a report on the contract”.
+<b>2003</b>—Subsec. (c)(1)(A). Pub. L. 108–136, §1031(a)(16)(A), substituted "if in the best interests of the Government" for "after the date on which such head of an agency submits to Congress a report on the contract".
 
-Subsec. (c)(1)(B). Pub. L. 108–136, §1031(a)(16)(B), substituted “The Secretary shall maintain records of each contract entered into by reason of subparagraph (A). Such records” for “A report under subparagraph (A)”.
+Subsec. (c)(1)(B). Pub. L. 108–136, §1031(a)(16)(B), substituted "The Secretary shall maintain records of each contract entered into by reason of subparagraph (A). Such records" for "A report under subparagraph (A)".
 
-Subsec. (c)(1)(C). Pub. L. 108–136, §1031(a)(16)(C), struck out subpar. (C) which read as follows: “After the head of an agency submits a report to Congress under subparagraph (A) with respect to a firm or a subsidiary, such head of an agency is not required to submit a report before entering into any subsequent contract with such firm or subsidiary unless the information required to be included in such report under subparagraph (B) has materially changed since the submission of the previous report.”
+Subsec. (c)(1)(C). Pub. L. 108–136, §1031(a)(16)(C), struck out subpar. (C) which read as follows: "After the head of an agency submits a report to Congress under subparagraph (A) with respect to a firm or a subsidiary, such head of an agency is not required to submit a report before entering into any subsequent contract with such firm or subsidiary unless the information required to be included in such report under subparagraph (B) has materially changed since the submission of the previous report."
 
 <b>1997</b>—Subsecs. (d) to (g). Pub. L. 105–85 added subsecs. (d) and (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
-<b>1987</b>—Subsecs. (a), (b)(2). Pub. L. 100–224 substituted “50 U.S.C. App.” for “50 U.S.C.” in parenthetical after “Export Administration Act of 1979”.
+<b>1987</b>—Subsecs. (a), (b)(2). Pub. L. 100–224 substituted "50 U.S.C. App." for "50 U.S.C." in parenthetical after "Export Administration Act of 1979".
 
 Subsec. (d)(1). Pub. L. 100–180 inserted par. (1) designation.
 
 #### Effective Date
 
-Pub. L. 99–500, §101(c) \[title X, §951(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–165, Pub. L. 99–591, §101(c) \[title X, §951(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–165, and Pub. L. 99–661, div. A, title IX, formerly title IV, §951(c), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2327 of title 10, United States Code (asadded by subsection (a)(1)), shall apply to contracts entered into by the Secretary of Defense after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
+Pub. L. 99–500, §101(c) \[title X, §951(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–165, Pub. L. 99–591, §101(c) \[title X, §951(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–165, and Pub. L. 99–661, div. A, title IX, formerly title IV, §951(c), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "Section 2327 of title 10, United States Code (as added by subsection (a)(1)), shall apply to contracts entered into by the Secretary of Defense after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Reports by Defense Contractors of Dealings With Terrorist Countries
 

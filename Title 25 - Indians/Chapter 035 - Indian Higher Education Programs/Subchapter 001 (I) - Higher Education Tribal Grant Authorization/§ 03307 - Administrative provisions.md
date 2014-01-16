@@ -22,9 +22,9 @@ Whenever an Indian tribe requests retrocession of any program for which assistan
 
 For the purposes of this subchapter:
 
-&emsp;(1) The term “Secretary” means the Secretary of the Interior.
+&emsp;(1) The term "Secretary" means the Secretary of the Interior.
 
-&emsp;(2) The terms “Indian” and “Indian tribe” have the same meaning given those terms in sections <sup>1</sup> 4(d) and (e), respectively, of the Indian Self Determination and Education Assistance Act \[25 U.S.C. 450b(d), (e)\].
+&emsp;(2) The terms "Indian" and "Indian tribe" have the same meaning given those terms insections <sup>1</sup> 4(d) and (e), respectively, of the Indian Self Determination and Education Assistance Act \[25 U.S.C. 450b(d), (e)\].
 
 (Pub. L. 102–325, title XIII, §1317, July 23, 1992, 106 Stat. 802.)
 
@@ -34,7 +34,7 @@ The Indian Self-Determination Act, referred to in subsec. (e), is title I of Pub
 
 #### Codification
 
-Subsec. (a) of this section, which required the Secretary to submit a biennial report to Congress on programs established under this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub.L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 79 of House Document No. 103–7.
+Subsec. (a) of this section, which required the Secretary to submit a biennial report to Congress on programs established under this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 79 of House Document No. 103–7.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

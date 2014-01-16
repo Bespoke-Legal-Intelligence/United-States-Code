@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Mar. 3, 1893, ch. 211, §3, 27 Stat. 715.
 
-The words “On and after March 3, 1893” are omitted as obsolete.
+The words "On and after March 3, 1893" are omitted as obsolete.
 

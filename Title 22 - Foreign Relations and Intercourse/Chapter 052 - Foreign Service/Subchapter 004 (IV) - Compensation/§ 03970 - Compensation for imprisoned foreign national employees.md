@@ -6,7 +6,7 @@ The head of any agency or other Government establishment (including any in the l
 
 #### (b) Time spent imprisoned considered as period of employment
 
-Any period of imprisonment of a current or former foreign national employee which is compensable under this section shall be considered for purposes of any other employee benefit to be a period of employment by the Government, except that a period of imprisonment shall not be creditable—
+Any period of imprisonment of a current or former foreign national employee which is compensable under this section shall be considered for purposes of any other employee benefit to bea period of employment by the Government, except that a period of imprisonment shall not be creditable—
 
 &emsp;(1) for purposes of subchapter III of chapter 83 of title 5, unless it is expressly creditable under that subchapter; or
 
@@ -28,5 +28,5 @@ The Secretary of State may prescribe regulations governing payments under this s
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 

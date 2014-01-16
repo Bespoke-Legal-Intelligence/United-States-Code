@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Within 2 years after August 23, 1988, the Secretary of Commerce shall establish the Data Bank. The Secretary shall manage the Data Bank. The Data Bank shall consist of two data systems, to be designated the International Economic Data System, as described in subsection (b) of this section and the Export Promotion Data System, as described in subsection (c) of this section.
+Within 2 years after August 23, 1988, the Secretary of Commerce shall establish the DataBank. The Secretary shall manage the Data Bank. The Data Bank shall consist of two data systems, to be designated the International Economic Data System, as described in subsection (b) of this section and the Export Promotion Data System, as described in subsection (c) of this section.
 
 #### (b) International Economic Data System
 
@@ -90,5 +90,5 @@ The export promotion data system shall include data and information collected by
 
 (Pub. L. 100–418, title V, §5406, Aug. 23, 1988, 102 Stat. 1464.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “port”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "port".</i>
 

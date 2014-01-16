@@ -6,7 +6,7 @@
 
 &emsp;(2) 2½ percent of the years of service credited to that person under section 12733 of this title.
 
-(b) If a person entitled to retired pay under this chapter has been credited by the Secretary concerned with extraordinary heroism in the line of duty and if the highest grade held satisfactorily by that person at any time in the armed forces is an enlisted grade, the person's retired pay shall be increased by 10 percent of the amount determined under subsection (a). The Secretary's determination as to extraordinary heroism is conclusive for all purposes.
+(b) If a person entitled to retired pay under this chapter has been credited by the Secretary concerned with extraordinary heroism in the line of duty and if the highest grade held satisfactorily by that person at any time in thearmed forces is an enlisted grade, the person's retired pay shall be increased by 10 percent of the amount determined under subsection (a). The Secretary's determination as to extraordinary heroism is conclusive for all purposes.
 
 (c)(1) Except as provided in paragraph (2), the total amount of the monthly retired pay computed under subsections (a) and (b) may not exceed 75 percent of the retired pay base upon which the computation is based.
 
@@ -42,17 +42,17 @@ Provisions similar to those in this section were contained in formula 3 of the t
 
 <b>2009</b>—Subsec. (e). Pub. L. 111–84 added subsec. (e).
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–364 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and added par. (2).
+<b>2006</b>—Subsec. (c). Pub. L. 109–364 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), the" for "The", and added par. (2).
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–314, §632(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 107–314, §632(a)(1), (b), redesignated subsec. (b) as (c) and substituted “total amount of the monthly retired pay computed under subsections (a) and (b)” for “amount computed under subsection (a)”. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 107–314, §632(a)(1), (b), redesignated subsec. (b) as (c) and substituted "total amount of the monthly retired pay computed under subsections (a) and (b)" for "amount computed under subsection (a)". Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 107–314, §632(a)(1), redesignated subsec. (c) as (d).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VI, §632(c), Dec. 2, 2002, 116 Stat. 2572, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 2002, and shall apply with respect to retired pay for months beginning on or after that date.”
+Pub. L. 107–314, div. A, title VI, §632(c), Dec. 2, 2002, 116 Stat. 2572, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 2002, and shall apply with respect to retired pay for months beginning on or after that date."
 
 #### Effective Date
 

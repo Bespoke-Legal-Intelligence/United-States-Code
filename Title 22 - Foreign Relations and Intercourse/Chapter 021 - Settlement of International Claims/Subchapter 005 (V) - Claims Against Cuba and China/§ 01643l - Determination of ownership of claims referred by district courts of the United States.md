@@ -8,5 +8,5 @@ Notwithstanding any other provision of this chapter and only for purposes of sec
 
 Section effective Aug. 1, 1996, or date determined pursuant to suspension authority of President, see section 6085 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “States”.</i>
+<i><sup>1</sup></i><i>So in original. Probably should be "States".</i>
 

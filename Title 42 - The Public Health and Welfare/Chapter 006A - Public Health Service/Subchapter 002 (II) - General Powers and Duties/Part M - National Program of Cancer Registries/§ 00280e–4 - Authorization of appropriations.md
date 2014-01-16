@@ -6,7 +6,7 @@ For the purpose of carrying out this part (other than section 280e–3a of this 
 
 #### (b) Breast cancer study
 
-Of the amounts appropriated for the National Cancer Institute under subpart 1 of part C of subchapter III of this chapter for any fiscal year in which the study required in section 280e–3 of this title is being carried out, the Secretary shall expend not less than $1,000,000 for the study.
+Of the amounts appropriated for the National Cancer Institute under subpart 1 of part C of subchapter III of this chapter for any fiscal yearin which the study required in section 280e–3 of this title is being carried out, the Secretary shall expend not less than $1,000,000 for the study.
 
 (July 1, 1944, ch. 373, title III, §399F, formerly §399L, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3376; amended Pub. L. 103–43, title XX, §2003, June 10, 1993, 107 Stat. 208; Pub. L. 103–183, title VII, §705(c), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–340, title II, §202, Oct. 31, 1998, 112 Stat. 3194; renumbered §399F and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (D), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 110–285, §4(b)(2), July 29, 2008, 122 Stat. 2631.)
 
@@ -16,17 +16,17 @@ A prior section 399F of act July 1, 1944, was renumbered section 399G and is cla
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–285 inserted “(other than section 280e–3a of this title)” after “this part”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–285 inserted "(other than section 280e–3a of this title)" after "this part".
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–310, §502(2)(D)(ii), substituted “section 280e–2 of this title” for “subsection 280e–2 of this title”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–310, §502(2)(D)(ii), substituted "section 280e–2 of this title" for "subsection 280e–2 of this title".
 
 Pub. L. 106–310, §502(2)(D)(i), made technical amendment to reference in original act which appears in text as reference to section 280e–1 of this title.
 
 Subsec. (b). Pub. L. 106–310, §502(2)(D)(iii), made technical amendment to reference in original act which appears in text as reference to section 280e–3 of this title.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–340 substituted “2003” for “1998”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–340 substituted "2003" for "1998".
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–183 substituted “through 1998” for “through 1996”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–183 substituted "through 1998" for "through 1996".
 
-Pub. L. 103–43 substituted “there are authorized to be appropriated $30,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1996” for “the Secretary may use $30,000,000 for each of the fiscal years 1993 through 1997” in first sentence and “Of the amounts appropriated under the preceding sentence” for “Out of any amounts used” in second sentence.
+Pub. L. 103–43 substituted "there are authorized to be appropriated $30,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1996" for "the Secretary may use $30,000,000 for each of the fiscal years 1993 through 1997" in first sentence and "Of the amounts appropriated under the preceding sentence" for "Out of any amounts used" in second sentence.
 

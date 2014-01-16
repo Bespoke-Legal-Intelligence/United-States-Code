@@ -18,5 +18,5 @@ Another section 505 of title V of Pub. L. 93–415, as added by Pub. L. 102–58
 
 #### Amendments
 
-<b>1974</b>—Pub. L. 93–415 amended section generally, substituting “Detention prior to disposition”, for “Arrest, detention and bail” in section catchline, striking out provisions relating to discretionary power of arresting officer or marshal to confine juvenile in jail, provisions relating to bail and default of bail, and inserting provisions relating to mandatory separation of juvenile from adjudicated delinquents, and provisions relating to the physical conditions of confining facility.
+<b>1974</b>—Pub. L. 93–415 amended section generally, substituting "Detention prior to disposition", for "Arrest, detention and bail" in section catchline, striking out provisions relating to discretionary power of arresting officer or marshal to confine juvenile in jail, provisions relating to bail and default of bail, and inserting provisions relating to mandatory separation of juvenile from adjudicated delinquents, and provisions relating to the physical conditions of confining facility.
 

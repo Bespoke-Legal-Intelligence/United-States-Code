@@ -138,7 +138,7 @@ Misrepresentations.—Any person who knowingly materially misrepresents under th
 
 &emsp;(2) that material or activity was removed or disabled by mistake or misidentification,
 
-> shall be liable for any damages, including costs and attorneys’ fees, incurred by the alleged infringer, by any copyright owner or copyright owner's authorized licensee, or by a service provider, who is injured by such misrepresentation, as the result of the service provider relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing, or in replacing the removed material or ceasing to disable access to it.
+> shall be liable for any damages, including costs and attorneys' fees, incurred by the alleged infringer, by any copyright owner or copyright owner's authorized licensee, or by a service provider, who is injured by such misrepresentation, as the result of the service provider relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing, or in replacing the removed material or ceasing to disable access to it.
 
 (g)
 
@@ -222,7 +222,7 @@ Accommodation of technology.—The limitations on liability established by this 
 
 &emsp;(2)
 
-Definition.—As used in this subsection, the term “standard technical measures” means technical measures that are used by copyright owners to identify or protect copyrighted works and—
+Definition.—As used in this subsection, the term "standard technical measures" means technical measures that are used by copyright owners to identify or protect copyrighted works and—
 
 &emsp;&emsp;(A) have been developed pursuant to a broad consensus of copyright owners and service providers in an open, fair, voluntary, multi-industry standards process;
 
@@ -272,13 +272,13 @@ Definitions.—
 
 &emsp;(1)
 
-Service provider.—(A) As used in subsection (a), the term “service provider” means an entity offering the transmission, routing, or providing of connections for digital online communications, between or among points specified by a user, of material of the user's choosing, without modification to the content of the material as sent or received.
+Service provider.—(A) As used in subsection (a), the term "service provider" means an entity offering the transmission, routing, or providing of connections for digital online communications, between or among points specified by a user, of material of the user's choosing, without modification to the content of the material as sent or received.
 
-&emsp;(B) As used in this section, other than subsection (a), the term “service provider” means a provider of online services or network access, or the operator of facilities therefor, and includes an entity described in subparagraph (A).
+&emsp;(B) As used in this section, other than subsection (a), the term "service provider" means a provider of online services or network access, or the operator of facilities therefor, and includes an entity described in subparagraph (A).
 
 &emsp;(2)
 
-Monetary relief.—As used in this section, the term “monetary relief” means damages, costs, attorneys’ fees, and any other form of monetary payment.
+Monetary relief.—As used in this section, the term "monetary relief" means damages, costs, attorneys' fees, and any other form of monetary payment.
 
 (l)
 
@@ -308,15 +308,15 @@ Another section 512 was renumbered section 513 of this title.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(2). Pub. L. 111–295 struck out “, in both electronic and hard copy formats” after “Internet” in concluding provisions.
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–295 struck out ", in both electronic and hard copy formats" after "Internet" in concluding provisions.
 
-<b>1999</b>—Subsec. (e). Pub. L. 106–44, §1(d)(1)(A), substituted “Limitation on Liability of Nonprofit Educational Institutions” for “Limitation on liability of nonprofit educational institutions” in heading.
+<b>1999</b>—Subsec. (e). Pub. L. 106–44, §1(d)(1)(A), substituted "Limitation on Liability of Nonprofit Educational Institutions" for "Limitation on liability of nonprofit educational institutions" in heading.
 
-Subsec. (e)(2). Pub. L. 106–44, §1(d)(1)(B), struck out par. heading “Injunctions”.
+Subsec. (e)(2). Pub. L. 106–44, §1(d)(1)(B), struck out par. heading "Injunctions".
 
-Subsec. (j)(3). Pub. L. 106–44, §1(d)(2), substituted “Notice and ex parte orders” for “Notice and Ex Parte Orders” in heading.
+Subsec. (j)(3). Pub. L. 106–44, §1(d)(2), substituted "Notice and ex parte orders" for "Notice and Ex Parte Orders" in heading.
 
 #### Effective Date
 
-Pub. L. 105–304, title II, §203, Oct. 28, 1998, 112 Stat. 2886, provided that: “This title \[enacting this section and provisions set out as a note under section 101 of this title\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\].”
+Pub. L. 105–304, title II, §203, Oct. 28, 1998, 112 Stat. 2886, provided that: "This title \[enacting this section and provisions set out as a note under section 101 of this title\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\]."
 

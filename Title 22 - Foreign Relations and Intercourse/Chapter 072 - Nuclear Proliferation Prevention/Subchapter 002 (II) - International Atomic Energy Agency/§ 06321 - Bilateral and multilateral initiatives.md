@@ -4,7 +4,7 @@ It is the sense of the Congress that in order to maintain and enhance internatio
 
 &emsp;(1) build international support for the principle that nuclear supply relationships must require purchasing nations to agree to full-scope international safeguards;
 
-&emsp;(2) encourage each nuclear-weapon state within the meaning of the Treaty to undertake a comprehensive review of its own procedures for declassifying information relating to the design or production of nuclear explosive devices and to investigate any measures that would reduce the risk of such information contributing to nuclear weapons proliferation;
+&emsp;(2) encourage each nuclear-weapon state within the meaning of the Treaty to undertake a comprehensive review of its own procedures for declassifying information relating to the design or production of nuclear explosivedevices and to investigate any measures that would reduce the risk of such information contributing to nuclear weapons proliferation;
 
 &emsp;(3) encourage the deferral of efforts to produce weapons-grade nuclear material for large-scale commercial uses until such time as safeguards are developed that can detect, on a timely and reliable basis, the diversion of significant quantities of such material for nuclear explosive purposes;
 
@@ -30,23 +30,23 @@ It is the sense of the Congress that in order to maintain and enhance internatio
 
 Pub. L. 108–136, div. C, title XXXVI, §3631, Nov. 24, 2003, 117 Stat. 1825, provided that:
 
-“(a)
+"(a)
 
 Sense of Congress Regarding Initiation of Dialogue Between the IAEA and the OECD.—It is the sense of Congress that—
 
-&emsp;“(1) the United States should seek to initiate discussions between the International Atomic Energy Agency and the Organization for Economic Cooperation and Development for the purpose of exploring issues of nuclear and radiological security and safety, including the creation of new sources of revenue (including debt reduction) for states to provide nuclear security; and
+&emsp;"(1) the United States should seek to initiate discussions between the International Atomic Energy Agency and the Organization for Economic Cooperation and Development for the purpose of exploring issues of nuclear and radiological security and safety, including the creation of new sources of revenue (including debt reduction) for states to provide nuclear security; and
 
-&emsp;“(2) the discussions referred to in paragraph (1) should also provide a forum to explore possible sources of funds in support of the G–8 Global Partnership Against the Spread of Weapons and Materials of Mass Destruction.
+&emsp;"(2) the discussions referred to in paragraph (1) should also provide a forum to explore possible sources of funds in support of the G–8 Global Partnership Against the Spread of Weapons and Materials of Mass Destruction.
 
-“(b)
+"(b)
 
 Contingent Report.—(1) Except as provided in paragraph (2), the President shall, not later than 12 months after the date of the enactment of this Act \[Nov. 24, 2003\], submit to Congress a report on—
 
-&emsp;“(A) the efforts made by the United States to initiate the discussions described in subsection (a);
+&emsp;"(A) the efforts made by the United States to initiate the discussions described in subsection (a);
 
-&emsp;“(B) the results of those efforts; and
+&emsp;"(B) the results of those efforts; and
 
-&emsp;“(C) any plans for further discussions and the purposes of such discussions.
+&emsp;"(C) any plans for further discussions and the purposes of such discussions.
 
-“(2) Paragraph (1) shall not apply if no efforts referred to in paragraph (1)(A) have been made.”
+"(2) Paragraph (1) shall not apply if no efforts referred to in paragraph (1)(A) have been made."
 

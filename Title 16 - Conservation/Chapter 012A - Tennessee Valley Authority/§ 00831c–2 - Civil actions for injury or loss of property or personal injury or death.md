@@ -32,7 +32,7 @@ Section was enacted as part of the Federal Employees Liability Reform and Tort C
 
 Section effective Nov. 18, 1988, and applicable to all claims, civil actions, and proceedings pending on, or filed on or after Nov. 18, 1988, see section 8 of Pub. L. 100–694, set out as an Effective Date of 1988 Amendment note under section 2679 of Title 28, Judiciary and Judicial Procedure.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “exclusive”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "exclusive".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

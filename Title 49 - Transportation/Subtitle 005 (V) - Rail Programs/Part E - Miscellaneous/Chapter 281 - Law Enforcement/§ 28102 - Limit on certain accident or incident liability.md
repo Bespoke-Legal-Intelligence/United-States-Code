@@ -38,9 +38,9 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §810; added July 6, 1990, Pub. 
 
 45:649(b).
 
-In subsection (a), the words “Notwithstanding any other provision of law”, “whether for compensatory or”, and “occurring” are omitted as surplus.
+In subsection (a), the words "Notwithstanding any other provision of law", "whether for compensatory or", and "occurring" are omitted as surplus.
 
-In subsection (c), the words “an indemnification contract” are substituted for “coverage” for clarity.
+In subsection (c), the words "an indemnification contract" are substituted for "coverage" for clarity.
 
 #### Amendments
 

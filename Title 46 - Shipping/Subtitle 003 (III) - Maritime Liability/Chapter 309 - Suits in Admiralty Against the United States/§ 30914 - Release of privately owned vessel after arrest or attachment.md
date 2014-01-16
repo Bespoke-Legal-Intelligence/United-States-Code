@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Mar. 9, 1920, ch. 95, §4, 41 Stat. 526.
 
-The words “on a statement” are substituted for “upon the suggestion” as more appropriate.
+The words "on a statement" are substituted for "upon the suggestion" as more appropriate.
 

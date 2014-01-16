@@ -8,35 +8,35 @@ The Director of the Institute shall conduct and support research into spinal cor
 
 Pub. L. 99–158, §7, Nov. 20, 1985, 99 Stat. 881, provided that:
 
-“(a)
+"(a)
 
-Establishment.—Within 90 days after the date of enactment of this Act \[Nov. 20, 1985\], the Secretary of Health and Human Services shall establish in the National Institute of Neurological and Communicative Diseases and Stroke an Interagency Committee on Spinal Cord Injury (hereafter in this section referred to as the ‘Interagency Committee’). The Interagency Committee shall plan, develop, coordinate, and implement comprehensive Federal initiatives in research on spinal cord injury and regeneration.
+Establishment.—Within 90 days after the date of enactment of this Act \[Nov. 20, 1985\], the Secretary ofHealth and Human Services shall establish in the National Institute of Neurological and Communicative Diseases and Stroke an Interagency Committee on Spinal Cord Injury (hereafter in this section referred to as the 'Interagency Committee'). The Interagency Committee shall plan, develop, coordinate, and implement comprehensive Federal initiatives in research on spinal cord injury and regeneration.
 
-“(b)
+"(b)
 
 Committee Composition and Meetings.—(1) The Interagency Committee shall consist of representatives from—
 
-&emsp;“(A) the National Institute on Neurological and Communicative Disorders and Stroke;
+&emsp;"(A) the National Institute on Neurological and Communicative Disorders and Stroke;
 
-&emsp;“(B) the Department of Defense;
+&emsp;"(B) the Department of Defense;
 
-&emsp;“(C) the Department of Education;
+&emsp;"(C) the Department of Education;
 
-&emsp;“(D) the Veterans’ Administration;
+&emsp;"(D) the Veterans' Administration;
 
-&emsp;“(E) the Office of Science and Technology Policy; and
+&emsp;"(E) the Office of Science and Technology Policy; and
 
-&emsp;“(F) the National Science Foundation;
+&emsp;"(F) the National Science Foundation;
 
 > designated by the heads of such entities.
 
-“(2) The Interagency Committee shall meet at least four times. The Secretary of Health and Human Services shall select the Chairman of the Interagency Committee from the members of the Interagency Committee.
+"(2) The Interagency Committee shall meet at least four times. The Secretary of Health and Human Services shall select the Chairman of the Interagency Committee from the members of the Interagency Committee.
 
-“(c)
+"(c)
 
 Report.—Within the 18 months after the date of enactment of this Act \[Nov. 20, 1985\], the Interagency Committee shall prepare and transmit to the Congress a report concerning its activities under this section. The report shall include a description of research projects on spinal cord injury and regeneration conducted or supported by Federal agencies during such 18-month period, the nature and purpose of each such project, the amounts expended for each such project, and an identification of the entity which conducted the research under each such project.
 
-“(d)
+"(d)
 
-Termination.—The Interagency Committee shall terminate 90 days after the date on which the Interagency Committee transmits the report required by subsection (c) to the Congress.”
+Termination.—The Interagency Committee shall terminate 90 days after the date on which the Interagency Committee transmits the report required by subsection (c) to the Congress."
 

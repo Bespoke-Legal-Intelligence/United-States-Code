@@ -20,7 +20,7 @@ Nothing in this part shall be construed as requiring the Secretary to report for
 
 #### (e) Compliance with regulations
 
-Except as provided in the first sentence of section 360ss of this title, compliance with this partor any regulations issued thereunder shall not relieve any person from liability at common law or under statutory law.
+Except as provided in the first sentence of section 360ss of this title, compliance with this part or any regulations issued thereunder shall not relieve any person from liability at common law or under statutory law.
 
 #### (f) Additional remedies
 
@@ -36,15 +36,15 @@ Section was classified to section 263k of Title 42, The Public Health and Welfar
 
 <b>1993</b>—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263k of Title 42, The Public Health and Welfare, as this section.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–629, §19(a)(2)(G)(i), (ii), substituted “section 360oo” for “section 263j” and “section 360kk” for “section 263f”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–629, §19(a)(2)(G)(i), (ii), substituted "section 360oo" for "section 263j" and "section 360kk" for "section 263f".
 
-Subsec. (b)(1). Pub. L. 101–629, §19(a)(2)(G)(ii), substituted “section 360oo” for “section 263j” in two places.
+Subsec. (b)(1). Pub. L. 101–629, §19(a)(2)(G)(ii), substituted "section 360oo" for "section 263j" in two places.
 
-Subsec. (d). Pub. L. 101–629, §19(a)(1)(B), substituted “this part” for “this subpart” in two places.
+Subsec. (d). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart" in two places.
 
-Subsec. (e). Pub. L. 101–629, §19(a)(1)(B), (2)(G)(iii), substituted “section 360ss” for “section 263n” and “this part” for “this subpart”.
+Subsec. (e). Pub. L. 101–629, §19(a)(1)(B), (2)(G)(iii), substituted "section 360ss" for "section 263n" and "this part" for "this subpart".
 
-Subsec. (f). Pub. L. 101–629, §19(a)(1)(B), substituted “this part” for “this subpart”.
+Subsec. (f). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart".
 
 #### Noninterference With Other Federal Agencies
 

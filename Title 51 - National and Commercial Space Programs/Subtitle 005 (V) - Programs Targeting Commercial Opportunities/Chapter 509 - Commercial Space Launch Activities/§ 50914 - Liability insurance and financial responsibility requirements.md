@@ -110,17 +110,17 @@ Oct. 30, 1984, Pub. L. 98–575, §15(c), 98 Stat. 3061; restated Nov. 15, 1988,
 
 49 App.:2615(c).
 
-In subsection (a), the word “particular” is omitted as surplus.
+In subsection (a), the word "particular" is omitted as surplus.
 
-In subsection (a)(1), before clause (A), the word “sufficient” is omitted as surplus. In clauses (A) and (B), the words “in connection with any particular launch” are omitted as surplus.
+In subsection (a)(1), before clause (A), the word "sufficient" is omitted as surplus. In clauses (A) and (B), the words "in connection with any particular launch" are omitted as surplus.
 
-In subsection (a)(4), before clause (A), the words “made . . . a requirement described in” are omitted as surplus.
+In subsection (a)(4), before clause (A), the words "made . . . a requirement described in" are omitted as surplus.
 
-In subsection (b)(2), the words “department, agency, and instrumentality of the Government” are substituted for “Federal agency” for consistency in the revised title and with other titles of the United States Code.
+In subsection (b)(2), the words "department, agency, and instrumentality of the Government" are substituted for "Federal agency" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (d)(2), the words “if appropriate” are omitted as surplus.
+In subsection (d)(2), the words "if appropriate" are omitted as surplus.
 
-In subsection (f), the words “department, agency, or instrumentality of the Government” are substituted for “Federal agency or department” for consistency in the revised title and with other titles of the Code. The words “insurance proceeds or . . . other” and “proceeds or other” are omitted as surplus.
+In subsection (f), the words "department, agency, or instrumentality of the Government" are substituted for "Federal agency or department" for consistency in the revised title and with other titles of the Code. The words "insurance proceeds or . . . other" and "proceeds or other" are omitted as surplus.
 
 #### Pub. L. 104–287, §5(93)
 
@@ -130,25 +130,25 @@ This amends 49:70112(a)(3)(B) to clarify a cross-reference in the codification e
 
 <b>2010</b>—Pub. L. 111–314 successively renumbered section 70112 of title 49 and section 70112 of this title as this section.
 
-<b>2004</b>—Subsec. (b)(2). Pub. L. 108–492 inserted “crew, space flight participants,” after “transferee, contractors, subcontractors,” and “or by space flight participants,” after “its own employees”.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–492 inserted "crew, space flight participants," after "transferee, contractors, subcontractors," and "or by space flight participants," after "its own employees".
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–303, §102(a)(12)(A), inserted “launch or reentry” before “license is issued”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–303, §102(a)(12)(A), inserted "launch or reentry" before "license is issued".
 
-Subsec. (a)(3). Pub. L. 105–303, §102(a)(12)(B), inserted “or reentry” after “one launch” in introductory provisions.
+Subsec. (a)(3). Pub. L. 105–303, §102(a)(12)(B), inserted "or reentry" after "one launch" in introductory provisions.
 
-Subsec. (a)(4). Pub. L. 105–303, §102(a)(12)(C), inserted “or reentry services” after “launch services” in introductory provisions.
+Subsec. (a)(4). Pub. L. 105–303, §102(a)(12)(C), inserted "or reentry services" after "launch services" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 105–303, §102(a)(12)(D)–(F), inserted “launch or reentry” before “license issued or transferred”, “or reentry services” after “launch services”, and “applicable” after “carried out under the”.
+Subsec. (b)(1). Pub. L. 105–303, §102(a)(12)(D)–(F), inserted "launch or reentry" before "license issued or transferred", "or reentry services" after "launch services", and "applicable" after "carried out under the".
 
-Subsec. (b)(2). Pub. L. 105–303, §102(a)(12)(E), (F), inserted “or reentry services” after “launch services” wherever appearing and “applicable” after “carried out under the”.
+Subsec. (b)(2). Pub. L. 105–303, §102(a)(12)(E), (F), inserted "or reentry services" after "launch services" wherever appearing and "applicable" after "carried out under the".
 
-Subsec. (e). Pub. L. 105–303, §102(a)(12)(G), (H), inserted “or Reentries” after “Launches” in heading and “or reentry site or a reentry” after “launch site” in text.
+Subsec. (e). Pub. L. 105–303, §102(a)(12)(G), (H), inserted "or Reentries" after "Launches" in heading and "or reentry site or a reentry" after "launch site" in text.
 
-Subsec. (f). Pub. L. 105–303, §102(a)(12)(I), inserted “launch or reentry” before “license issued or transferred”.
+Subsec. (f). Pub. L. 105–303, §102(a)(12)(I), inserted "launch or reentry" before "license issued or transferred".
 
-<b>1996</b>—Subsec. (a)(3)(B). Pub. L. 104–287, §5(93), substituted “clause (A)(i) or (ii)” for “clause (A)”.
+<b>1996</b>—Subsec. (a)(3)(B). Pub. L. 104–287, §5(93), substituted "clause (A)(i) or (ii)" for "clause (A)".
 
-Subsec. (d)(1). Pub. L. 104–287, §5(74), substituted “Committee on Science” for “Committee on Science, Space, and Technology”.
+Subsec. (d)(1). Pub. L. 104–287, §5(74), substituted "Committee on Science" for "Committee on Science, Space, and Technology".
 
 #### Change of Name
 

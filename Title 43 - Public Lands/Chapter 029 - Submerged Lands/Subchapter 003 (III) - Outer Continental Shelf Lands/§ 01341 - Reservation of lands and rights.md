@@ -14,7 +14,7 @@ All leases issued under this subchapter, and leases, the maintenance and operati
 
 #### (d) National defense areas; suspension of operations; extension of leases
 
-The United States reserves and retains the right to designate by and through the Secretary of Defense, with the approval of the President, as areas restricted from exploration and operation that part of the outer Continental Shelf needed for national defense; and so long as such designation remains in effect no exploration or operations may be conducted on any part of the surface of such area except with the concurrence of the Secretary of Defense; and if operations or production under any lease theretofore issued on lands within any such restricted area shall be suspended, any payment of rentals, minimum royalty, and royalty prescribed by such leaselikewise shall be suspended during such period of suspension of operation and production, and the term of such lease shall be extended by adding thereto any such suspension period, and the United States shall be liable to the lessee for such compensation as is required to be paid under the Constitution of the United States.
+The United States reserves and retains the right to designate by and through the Secretary of Defense, with the approval of the President, as areas restricted from exploration and operation that part of the outer Continental Shelf needed for national defense; and so long as such designation remains in effect no exploration or operations may be conducted on any part of the surface of such area except with the concurrence of the Secretary of Defense; and if operations or production under any lease theretofore issued on lands within any such restricted area shall be suspended, any payment of rentals, minimum royalty, and royalty prescribed by such lease likewise shall be suspended during such period of suspension of operation and production, and the term of such lease shall be extended by adding thereto any such suspension period, and the United States shall be liable to the lessee for such compensation as is required to be paid under the Constitution of the United States.
 
 #### (e) Source materials essential to production of fissionable materials
 
@@ -28,7 +28,7 @@ The United States reserves and retains the ownership of and the right to extract
 
 #### References in Text
 
-Paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, as amended, referred to in subsec. (e), is par. (1) of section 5(b) of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified to section 1805 of Title 42, The Public Health and Welfare, prior to the general amendment of the Atomic Energy Act of 1946 by act Aug. 30, 1954, ch. 1073, 68 Stat. 921. See section 2014(z) of Title 42.
+Paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, as amended, referred to in subsec. (e), is par. (1) of section 5(b) of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified to section 1805 of Title 42, The Public Health and Welfare, prior to thegeneral amendment of the Atomic Energy Act of 1946 by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919. See section 2014(z) of Title 42.
 
 #### Key Largo Coral Reef Preserve
 

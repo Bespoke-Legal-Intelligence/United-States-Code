@@ -14,7 +14,7 @@ The limitation under subsection (a), and the increased limitation under subsecti
 
 #### (d) Adjustments for inflation
 
-The amounts specified in subsections (a) and (e)(1) shall be adjusted each year after 2008 forinflation as measured by the Consumer Price Index for All Urban Consumers published by the Secretary of Labor.
+The amounts specified in subsections (a) and (e)(1) shall be adjusted each year after 2008 for inflation as measured by the Consumer Price Index for All Urban Consumers published by the Secretary of Labor.
 
 #### (e) Waiver authority and reporting requirement
 

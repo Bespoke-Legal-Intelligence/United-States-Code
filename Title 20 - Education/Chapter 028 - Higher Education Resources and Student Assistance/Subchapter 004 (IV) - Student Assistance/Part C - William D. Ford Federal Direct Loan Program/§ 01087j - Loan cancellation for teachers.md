@@ -42,7 +42,7 @@ The Secretary shall carry out a program of canceling the obligation to repay a q
 
 &emsp;&emsp;&emsp;(ii) whose qualifying employment for purposes of such subsection is as a special education teacher whose primary responsibility is to provide special education to children with disabilities (as those terms are defined in section 1401 of this title); and
 
-&emsp;&emsp;&emsp;(iii) who, as certified by the chief administrative officer of the public or non-profit private elementary school or secondary school in which the borrower is employed, or, in the case of a teacher who is employed by an educational service agency, as certified by the chief administrative officer of such agency, is teaching childrenwith disabilities that correspond with the borrower's special education training and has demonstrated knowledge and teaching skills in the content areas of the elementary school or secondary school curriculum that the borrower is teaching.
+&emsp;&emsp;&emsp;(iii) who, as certified by the chief administrative officer of the public or non-profit private elementary school or secondary school in which the borrower is employed, or, in the case of a teacher who is employed by an educational service agency, as certified by the chief administrative officer of such agency, is teaching children with disabilities that correspond with the borrower's special education training and has demonstrated knowledge and teaching skills in the content areas of the elementary school or secondary school curriculum that the borrower is teaching.
 
 #### (d) Regulations
 
@@ -80,9 +80,9 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 &emsp;An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 7801 of this title, and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
 
-#### (h) “Year” defined
+#### (h) "Year" defined
 
-For the purpose of this section, the term “year” where applied to service as a teacher means an academic year as defined by the Secretary.
+For the purpose of this section, the term "year" where applied to service as a teacher means an academic year as defined by the Secretary.
 
 (Pub. L. 89–329, title IV, §460, as added Pub. L. 105–244, title IV, §456, Oct. 7, 1998, 112 Stat. 1719; amended Pub. L. 108–409, §3(a)(1)(B), (b)(2), Oct. 30, 2004, 118 Stat. 2300, 2301; Pub. L. 109–171, title VIII, §8013(e)(2), Feb. 8, 2006, 120 Stat. 167; Pub. L. 110–315, title IV, §454, Aug. 14, 2008, 122 Stat. 3265; Pub. L. 111–39, title IV, §404(b)(4), July 1, 2009, 123 Stat. 1946.)
 
@@ -96,33 +96,33 @@ A prior section 1087j, Pub. L. 89–329, title IV, §459A, as added Pub. L. 102�
 
 #### Amendments
 
-<b>2009</b>—Subsec. (c)(1). Pub. L. 111–39, §404(b)(4)(A), inserted at end “No borrower may receive a reduction of loan obligations under both this section and section 1078–10 of this title.”
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–39, §404(b)(4)(A), inserted at end "No borrower may receive a reduction of loan obligations under both this section and section 1078–10 of this title."
 
-Subsec. (g)(2). Pub. L. 111–39, §404(b)(4)(B), redesignated subpars. (B) to (D) as (A) to (C), respectively, substituted “12601” for “12571” in subpar. (C), and struck out former subpar. (A) which read as follows: “section 1078–10 of this title;”.
+Subsec. (g)(2). Pub. L. 111–39, §404(b)(4)(B), redesignated subpars. (B) to (D) as (A) to (C), respectively, substituted "12601" for "12571" in subpar. (C), and struck out former subpar. (A) which read as follows: "section 1078–10 of this title;".
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–315, §454(c), struck out “(1) In general” before “The Secretary shall”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and struck out par. (2). Prior to amendment, text of par. (2) read as follows: “No borrower may obtain a reduction of loan obligations under both this section and section 1078–10 of this title.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–315, §454(c), struck out "(1) In general" before "The Secretary shall", redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and struck out par. (2). Prior to amendment, text of par. (2) read as follows: "No borrower may obtain a reduction of loan obligations under both this section and section 1078–10 of this title."
 
-Subsec. (b)(1)(A)(i). Pub. L. 110–315, §454(a)(1), inserted “or location” after “a school” and “or locations” after “such schools”.
+Subsec. (b)(1)(A)(i). Pub. L. 110–315, §454(a)(1), inserted "or location" after "a school" and "or locations" after "such schools".
 
-Subsec. (c)(1). Pub. L. 110–315, §454(d)(1), substituted “subsection (b)(1)” for “subsection (b)(1)(A)”.
+Subsec. (c)(1). Pub. L. 110–315, §454(d)(1), substituted "subsection (b)(1)" for "subsection (b)(1)(A)".
 
-Subsec. (c)(3)(A)(i), (B)(i). Pub. L. 110–315, §454(d)(2), substituted “subsection (b)” for “subsection (b)(1)”.
+Subsec. (c)(3)(A)(i), (B)(i). Pub. L. 110–315, §454(d)(2), substituted "subsection (b)" for "subsection (b)(1)".
 
-Subsec. (c)(3)(B)(iii). Pub. L. 110–315, §454(a)(2), inserted “or, in the case of a teacher who is employed by an educational service agency, as certified by the chief administrative officer of such agency,” after “borrower is employed,”.
+Subsec. (c)(3)(B)(iii). Pub. L. 110–315, §454(a)(2), inserted "or, in the case of a teacher who is employed by an educational service agency, as certified by the chief administrative officer of such agency," after "borrower is employed,".
 
-Subsec. (g)(2). Pub. L. 110–315, §454(b), amended par. (2) generally. Prior to amendment, text read as follows: “No borrower may, for the same volunteer service, receive a benefit under both this section and subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 et seq.)”.
+Subsec. (g)(2). Pub. L. 110–315, §454(b), amended par. (2) generally. Prior to amendment, text read as follows: "No borrower may, for the same volunteer service, receive a benefit under both this section and subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 et seq.)".
 
-Subsec. (g)(3). Pub. L. 110–315, §454(d)(3), substituted “subsection (b)(1)(B)” for “subsection (b)(1)(A)(ii)”.
+Subsec. (g)(3). Pub. L. 110–315, §454(d)(3), substituted "subsection (b)(1)(B)" for "subsection (b)(1)(A)(ii)".
 
-<b>2006</b>—Subsec. (b)(1)(A)(ii). Pub. L. 109–171, §8013(e)(2)(A), inserted “, or meets the requirements of subsection (g)(3)” after “section 7801 of this title”.
+<b>2006</b>—Subsec. (b)(1)(A)(ii). Pub. L. 109–171, §8013(e)(2)(A), inserted ", or meets the requirements of subsection (g)(3)" after "section 7801 of this title".
 
 Subsec. (g)(3). Pub. L. 109–171, §8013(e)(2)(B), added par. (3).
 
 <b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–409, §3(a)(1)(B), added cl. (ii) and struck out former cls. (ii) and (iii) which read as follows:
 
-“(ii) if employed as a secondary school teacher, is teaching a subject area that is relevant to the borrower's academic major as certified by the chief administrative officer of the public or non-profit private secondary school in which the borrower is employed; and
+"(ii) if employed as a secondary school teacher, is teaching a subject area that is relevant to the borrower's academic major as certified by the chief administrative officer of the public or non-profit private secondary school in which the borrower is employed; and
 
-“(iii) if employed as an elementary school teacher, has demonstrated, as certified by the chief administrative officer of the public or nonprofit private elementary school in which the borrower is employed, knowledge and teaching skills in reading, writing, mathematics and other areas of the elementary school curriculum; and”.
+"(iii) if employed as an elementary school teacher, has demonstrated, as certified by the chief administrative officer of the public or nonprofit private elementary school in which the borrower is employed, knowledge and teaching skills in reading, writing, mathematics and other areas of the elementary school curriculum; and".
 
 Subsec. (c)(3). Pub. L. 108–409, §3(b)(2), added par. (3).
 

@@ -8,9 +8,9 @@
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director” in subsecs. (a) and (b).
+<b>2012</b>—Pub. L. 112–141 substituted "Administrator" for "Director" in subsecs. (a) and (b).
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” in subsecs. (a) and (b).
+<b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" in subsecs. (a) and (b).
 
 <b>1973</b>—Subsecs. (b), (c). Pub. L. 93–234 redesignated subsec. (c) as (b) and struck out former subsec. (b) prescribing formula for sharing losses between Government and industry and permit necessary flexibility in loss sharing to take into account longer-term loss experience trends and to compensate for lack of precision in actuarial computations.
 

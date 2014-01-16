@@ -38,15 +38,15 @@ The regulations prescribed under this section shall set forth factors which are 
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–486 added subsec. (c).
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239 inserted “(or as in part stock and in part indebtedness)” before period at end.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239 inserted "(or as in part stock and in part indebtedness)" before period at end.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1936(b), Oct. 24, 1992, 106 Stat. 3032, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to instruments issued after the date of the enactment of this Act \[Oct. 24, 1992\].”
+Pub. L. 102–486, title XIX, §1936(b), Oct. 24, 1992, 106 Stat. 3032, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to instruments issued after the date of the enactment of this Act \[Oct. 24, 1992\]."
 
 #### Regulations Not To Be Applied Retroactively
 
-Pub. L. 101–239, title VII, §7208(a)(2), Dec. 19, 1989, 103 Stat. 2337, provided that: “Any regulations issued pursuant to the authority granted by the amendment made by paragraph (1) \[amending this section\] shall only apply with respect to instruments issued after the date on which the Secretary of the Treasury or his delegate provides public guidance as to the characterization of such instruments whether by regulation, ruling, or otherwise.”
+Pub. L. 101–239, title VII, §7208(a)(2), Dec. 19, 1989, 103 Stat. 2337, provided that: "Any regulations issued pursuant to the authority granted by the amendment made by paragraph (1) \[amending this section\] shall only apply with respect to instruments issued after the date on which the Secretary of the Treasury or his delegate provides public guidance as to the characterization of such instruments whether by regulation, ruling, or otherwise."
 

@@ -120,7 +120,7 @@ The Secretary shall—
 
 #### (B) Disapproval
 
-&emsp;&emsp;The Secretary shall not finally disapprove the proposed amendment, except after givingthe local educational agency notice and an opportunity for a hearing.
+&emsp;&emsp;The Secretary shall not finally disapprove the proposed amendment, except after giving the local educational agency notice and an opportunity for a hearing.
 
 #### (C) Notification
 
@@ -148,13 +148,13 @@ The Secretary shall—
 
 #### (3) Treatment of program funds withdrawn from agreement
 
-&emsp;Beginning on the effective date of an amendment executed under paragraph (1)(A), each program requirement of each program removed from the scope of a local flexibility demonstration agreement shall apply to the use of funds made available under the program by the local educational agency.
+&emsp;Beginning on the effective date of an amendment executed under paragraph (1)(A), eachprogram requirement of each program removed from the scope of a local flexibility demonstration agreement shall apply to the use of funds made available under the program by the local educational agency.
 
 (Pub. L. 89–10, title VI, §6151, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1884.)
 
 #### References in Text
 
-Section 7321a of this title, referred to in subsec. (e)(1)(B), was in the original “section 6251”, meaning section 6251 of Pub. L. 89–10, which was translated as reading section 6152 of that Act to reflect the probable intent of Congress, because that Act does not contain a section 6251, and section 6152 of that Act describes programs.
+Section 7321a of this title, referred to in subsec. (e)(1)(B), was in the original "section 6251", meaning section 6251 of Pub. L. 89–10, which was translated as reading section 6152 of that Act to reflect the probable intent of Congress, because that Act does not contain a section 6251, and section 6152 of that Act describes programs.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

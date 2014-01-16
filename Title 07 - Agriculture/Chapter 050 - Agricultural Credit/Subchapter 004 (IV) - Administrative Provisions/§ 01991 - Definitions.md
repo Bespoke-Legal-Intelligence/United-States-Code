@@ -2,27 +2,27 @@
 
 (a) As used in this chapter:
 
-&emsp;(1) The term “farmer” includes a person who is engaged in, or who, with assistance afforded under this chapter, intends to engage in, fish farming.
+&emsp;(1) The term "farmer" includes a person who is engaged in, or who, with assistance afforded under this chapter, intends to engage in, fish farming.
 
-&emsp;(2) The term “farming” shall be deemed to include fish farming.
+&emsp;(2) The term "farming" shall be deemed to include fish farming.
 
-&emsp;(3) The term “owner-operator” shall include in the State of Hawaii the lessee-operator of real property in any case in which the Secretary determines that such real property cannot be acquired in fee simple by such lessee-operator, that adequate security is provided for the loan with respect to such real property for which such lessee-operator applies under this chapter, and that there is a reasonable probability of accomplishing the objectives and repayment of such loan.
+&emsp;(3) The term "owner-operator" shall include in the State of Hawaii the lessee-operator of real property in any case in which the Secretary determines that such real property cannot be acquired in fee simple by such lessee-operator, that adequate security is provided for the loan with respect to such real property for which such lessee-operator applies under this chapter, and that there is a reasonable probability of accomplishing the objectives and repayment of such loan.
 
-&emsp;(4) The word “insure” as used in this chapter includes guarantee, which means to guarantee the payment of a loan originated, held, and serviced by a private financial agency or other lender approved by the Secretary.
+&emsp;(4) The word "insure" as used in this chapter includes guarantee, which means to guarantee the payment of a loan originated, held, and serviced by a private financial agency or other lender approved by the Secretary.
 
-&emsp;(5) The term “contract of insurance” includes a contract of guarantee.
+&emsp;(5) The term "contract of insurance" includes a contract of guarantee.
 
-&emsp;(6) The terms “United States” and “State” shall include each of the several States, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and, to the extent the Secretary determines it to be feasible and appropriate, the Trust Territory of the Pacific Islands.
+&emsp;(6) The terms "United States" and "State" shall include each of the several States, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, AmericanSamoa, the Commonwealth of the Northern Mariana Islands, and, to the extent the Secretary determines it to be feasible and appropriate, the Trust Territory of the Pacific Islands.
 
-&emsp;(7) The term “joint operation” means a joint farming operation in which two or more farmers work together sharing equally or unequally land, labor, equipment, expenses, and income.
+&emsp;(7) The term "joint operation" means a joint farming operation in which two or more farmers work together sharing equally or unequally land, labor, equipment, expenses, and income.
 
-&emsp;(8) The term “beginning farmer or rancher” means such term as defined by the Secretary.
+&emsp;(8) The term "beginning farmer or rancher" means such term as defined by the Secretary.
 
-&emsp;(9) The term “direct loan” means a loan made or insured from funds in the account created by section 1929 of this title.
+&emsp;(9) The term "direct loan" means a loan made or insured from funds in the account created by section 1929 of this title.
 
-&emsp;(10) The term “farmer program loan” means a farm ownership loan (FO) under section 1923 of this title, operating loan (OL) under section 1942 of this title, soil and water loan (SW) under section 1924 of this title, emergency loan (EM) under section 1961 of this title, economic emergency loan (EE) under section 202 of the Emergency Agricultural Credit Adjustment Act (title II of Public Law 95-334), economic opportunity loan (EO) under the Economic Opportunity Act of 1961 (42 U.S.C. 2942), softwood timber loan (ST) under section 1254 of the Food Security Act of 1985, or rural housing loan for farm service buildings (RHF) under section 1472 of title 42.
+&emsp;(10) The term "farmer program loan" means a farm ownership loan (FO) under section 1923 of this title, operating loan (OL) under section 1942 of this title, soil and water loan (SW) under section 1924 of this title, emergency loan (EM) under section 1961 of this title, economic emergency loan (EE) under section 202 of the Emergency Agricultural Credit Adjustment Act (title II of Public Law 95-334), economic opportunity loan (EO) under the Economic Opportunity Act of 1961 (42 U.S.C. 2942), softwood timber loan (ST) under section 1254 of the Food Security Act of 1985, or rural housing loan for farm service buildings (RHF) under section 1472 of title 42.
 
-&emsp;(11) The term “qualified beginning farmer or rancher” means an applicant, regardless of whether the applicant is participating in a program under section 1935 of this title—
+&emsp;(11) The term "qualified beginning farmer or rancher" means an applicant, regardless of whether the applicant is participating in a program under section 1935 of this title—
 
 &emsp;&emsp;(A) who is eligible for assistance under this chapter;
 
@@ -66,7 +66,7 @@ Debt forgiveness.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), the term “debt forgiveness” means reducing or terminating a farmer program loan made or guaranteed under this chapter, in a manner that results in a loss to the Secretary, through—
+In general.—Except as provided in subparagraph (B), the term "debt forgiveness" means reducing or terminating a farmer program loan made or guaranteed under this chapter, in a manner that results in a loss to the Secretary, through—
 
 &emsp;&emsp;&emsp;(i) writing down or writing off a loan under section 2001 of this title;
 
@@ -78,7 +78,7 @@ In general.—Except as provided in subparagraph (B), the term “debt forgivene
 
 &emsp;&emsp;(B)
 
-Exceptions.—The term “debt forgiveness” does not include—
+Exceptions.—The term "debt forgiveness" does not include—
 
 &emsp;&emsp;&emsp;(i) consolidation, rescheduling, reamortization, or deferral of a loan; or
 
@@ -90,7 +90,7 @@ Rural and rural area.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraphs (B) through (G), the terms “rural” and “rural area” mean any area other than—
+In general.—Subject to subparagraphs (B) through (G), the terms "rural" and "rural area" mean any area other than—
 
 &emsp;&emsp;&emsp;(i) a city or town that has a population of greater than 50,000 inhabitants; and
 
@@ -98,11 +98,11 @@ In general.—Subject to subparagraphs (B) through (G), the terms “rural” an
 
 &emsp;&emsp;(B)
 
-Water and waste disposal grants and direct and guaranteed loans.—For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1), (2), and (24) of section 1926(a) of this title, the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
+Water and waste disposal grants and direct and guaranteed loans.—For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1), (2), and (24) of section 1926(a) of this title, the terms "rural" and "rural area" mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
 
 &emsp;&emsp;(C)
 
-Community facility loans and grants.—For the purpose of community facility direct and guaranteed loans and grants under paragraphs (1), (19), (20), (21), and (24) of section 1926(a) of this title, the terms “rural” and “rural area” mean any area other than a city, town, or unincorporated area that has a population of greater than 20,000 inhabitants.
+Community facility loans and grants.—For the purpose of community facility direct and guaranteed loans and grants under paragraphs (1), (19), (20), (21), and (24) of section 1926(a) of this title, the terms "rural" and "rural area" mean any area other than a city, town, or unincorporated area that has a population of greater than 20,000 inhabitants.
 
 &emsp;&emsp;(D)
 
@@ -138,7 +138,7 @@ Administration.—In carrying out this subparagraph, the Under Secretary for Rur
 
 &emsp;&emsp;&emsp;&emsp;(V) make a determination under this subparagraph not less than 15 days, and not more than 60 days, after the release of the notice under subclause (IV);
 
-&emsp;&emsp;&emsp;&emsp;(VI) submit to the Committee on Agriculture of the House of Representativesand the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report on actions taken to carry out this subparagraph; and
+&emsp;&emsp;&emsp;&emsp;(VI) submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report on actions taken to carry out this subparagraph; and
 
 &emsp;&emsp;&emsp;&emsp;(VII) terminate a determination under this subparagraph that part of an area is a rural area on the date that data is available for the next decennial census conducted under section 141(a) of title 13.
 
@@ -182,11 +182,11 @@ Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph,
 
 (b) As used in sections 1927(e), 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
 
-&emsp;(1) The term “borrower” means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
+&emsp;(1) The term "borrower" means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
 
-&emsp;(2) The term “loan service program” means, with respect to a farmer program borrower, a primary loan service program or a preservation loan service program.
+&emsp;(2) The term "loan service program" means, with respect to a farmer program borrower, a primary loan service program or a preservation loan service program.
 
-&emsp;(3) The term “primary loan service program” means—
+&emsp;(3) The term "primary loan service program" means—
 
 &emsp;&emsp;(A) loan consolidation, rescheduling, or reamortization;
 
@@ -198,13 +198,13 @@ Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph,
 
 &emsp;(4)
 
-Preservation loan service program.—The term “preservation loan service program” means homestead retention as authorized under section 2000 of this title.
+Preservation loan service program.—The term "preservation loan service program" means homestead retention as authorized under section 2000 of this title.
 
 (Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, §6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, §4(a), title VI, §6018(a), June 18, 2008, 122 Stat. 1664, 1931.)
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsec. (a), see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in subsec. (a), see note set out under section 1921 of this title.
 
 Section 202 of the Emergency Agricultural Credit Adjustment Act, referred to in subsec. (a)(10), is section 202 of Pub. L. 95–334, title II, Aug. 4, 1978, 92 Stat. 429, as amended, which was set out in a note preceding section 1961 of this title prior to repeal by Pub. L. 101–624, title XVIII, §1851, Nov. 28, 1990, 104 Stat. 3837.
 
@@ -218,41 +218,41 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-Subsec. (a)(13). Pub. L. 110–246, §6018(a), amended par. (13) generally, substituting provisions defining “rural” and “rural area”, provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining “rural” and “rural area” and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
+Subsec. (a)(13). Pub. L. 110–246, §6018(a), amended par. (13) generally, substituting provisions defining "rural" and "rural area", provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining "rural" and "rural area" and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
 
-<b>2002</b>—Subsec. (a)(11)(F). Pub. L. 107–171, §5310(a), substituted “30 percent” for “25 percent”.
+<b>2002</b>—Subsec. (a)(11)(F). Pub. L. 107–171, §5310(a), substituted "30 percent" for "25 percent".
 
-Subsec. (a)(12)(B). Pub. L. 107–171, §5310(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘debt forgiveness’ does not include consolidation, rescheduling, reamortization, or deferral.”
+Subsec. (a)(12)(B). Pub. L. 107–171, §5310(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: "The term 'debt forgiveness' does not include consolidation, rescheduling, reamortization, or deferral."
 
 Subsec. (a)(13). Pub. L. 107–171, §6020(a), added par. (13).
 
-<b>1997</b>—Subsec. (a)(11)(F). Pub. L. 105–113 struck out “taken under section 142 of title 13” after “census of agriculture”.
+<b>1997</b>—Subsec. (a)(11)(F). Pub. L. 105–113 struck out "taken under section 142 of title 13" after "census of agriculture".
 
-<b>1996</b>—Subsec. (a)(10). Pub. L. 104–127, §661(h)(1), struck out “recreation loan (RL) under section 1924 of this title,” before “emergency loan (EM)”.
+<b>1996</b>—Subsec. (a)(10). Pub. L. 104–127, §661(h)(1), struck out "recreation loan (RL) under section 1924 of this title," before "emergency loan (EM)".
 
-Subsec. (a)(11). Pub. L. 104–127, §640(1)(A), in introductory provisions, substituted “applicant, regardless of whether the applicant is participating in a program under section 1935 of this title” for “applicant”.
+Subsec. (a)(11). Pub. L. 104–127, §640(1)(A), in introductory provisions, substituted "applicant, regardless of whether the applicant is participating in a program under section 1935 of this title" for "applicant".
 
-Subsec. (a)(11)(F). Pub. L. 104–127, §640(1)(B), substituted “25 percent” for “15 percent” and inserted before semicolon at end “, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter”.
+Subsec. (a)(11)(F). Pub. L. 104–127, §640(1)(B), substituted "25 percent" for "15 percent" and inserted before semicolon at end ", except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter".
 
 Subsec. (a)(12). Pub. L. 104–127, §640(2), added par. (12).
 
-Subsec. (b). Pub. L. 104–127, §§661(h)(2)(A), 749(b)(2), in introductory provisions, substituted “1988(b), 2000(b) and (c)” for “1988(f), 1999(h), 2000(b) and (c)”.
+Subsec. (b). Pub. L. 104–127, §§661(h)(2)(A), 749(b)(2), in introductory provisions, substituted "1988(b), 2000(b) and (c)" for "1988(f), 1999(h), 2000(b) and (c)".
 
-Subsec. (b)(4). Pub. L. 104–127, §661(h)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “The term ‘preservation loan service program’ means—
+Subsec. (b)(4). Pub. L. 104–127, §661(h)(2)(B), added par. (4) and struck out former par. (4) which read as follows: "The term 'preservation loan service program' means—
 
-&emsp;“(A) homestead retention as authorized under section 2000 of this title; and
+&emsp;"(A) homestead retention as authorized under section 2000 of this title; and
 
-&emsp;“(B) a leaseback or buyback of farmland authorized under section 1985 of this title.”
+&emsp;"(B) a leaseback or buyback of farmland authorized under section 1985 of this title."
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–554 substituted “this chapter:” and par. (1) for “this chapter (1) the term ‘farmers’ shall be deemed to include persons who are engaged in, or who, with assistance afforded under this chapter, intend to engage in, fish farming,”, in pars. (2) to (8), realigned margins and substituted “The” for “the” first place appearing in each par. and a period for a comma at end of each par., in par. (9), realigned margin and substituted “The” for “the” first place appearing and a period for “, and” at end, in par. (10), realigned margin and substituted “The” for “the” first place appearing, and added par. (11).
+<b>1992</b>—Subsec. (a). Pub. L. 102–554 substituted "this chapter:" and par. (1) for "this chapter (1) the term 'farmers' shall be deemed to include persons who are engaged in, or who, with assistance afforded under this chapter, intend to engage in, fish farming,", in pars. (2) to (8), realigned margins and substituted "The" for "the" first place appearing in each par. and a period for a comma at end of each par., in par. (9), realigned margin and substituted "The" for "the" first place appearing and a period for ", and" at end, in par. (10), realigned margin and substituted "The" for "the" first place appearing, and added par. (11).
 
 <b>1991</b>—Subsec. (a)(1), (3). Pub. L. 102–237, §702(h)(1)(A), (B), made technical amendment to directory language of Pub. L. 101–624, §2388(h)(1), (2). See 1990 Amendment note below.
 
 Subsec. (a)(5). Pub. L. 102–237, §702(h)(1)(C), repealed Pub. L. 101–624, §2388(h)(3). See 1990 Amendment note below.
 
-<b>1990</b>—Subsec. (a)(1), (3). Pub. L. 101–624, §2388(h)(1), (2), as amended by Pub. L. 102–237, §702(h)(1)(A), (B), struck out “and” after “fish farming,” in par. (1), and “and” after “such loan,” in par. (3).
+<b>1990</b>—Subsec. (a)(1), (3). Pub. L. 101–624, §2388(h)(1), (2), as amended by Pub. L. 102–237, §702(h)(1)(A), (B), struck out "and" after "fish farming," in par. (1), and "and" after "such loan," in par. (3).
 
-Subsec. (a)(5). Pub. L. 101–624, §2388(h)(3), which directed substitution of “ ‘contract of insurance’ ” for “contract of insurance”, was repealed by Pub. L. 102–237, §702(h)(1)(C). See Construction of 1990 Amendment note below.
+Subsec. (a)(5). Pub. L. 101–624, §2388(h)(3), which directed substitution of " 'contract of insurance' " for "contract of insurance", was repealed by Pub. L. 102–237, §702(h)(1)(C). See Construction of 1990 Amendment note below.
 
 Subsec. (a)(8) to (10). Pub. L. 101–624, §1814, added pars. (8) to (10).
 
@@ -266,7 +266,7 @@ Subsec. (a)(8) to (10). Pub. L. 101–624, §1814, added pars. (8) to (10).
 
 <b>1972</b>—Pub. L. 92–419 added cls. (4) and (5).
 
-<b>1966</b>—Pub. L. 89–586 struck out “and” before “(2)” and inserted cl. (3) defining “owner-operator”. See Effective and Termination Date of 1966 Amendment note below.
+<b>1966</b>—Pub. L. 89–586 struck out "and" before "(2)" and inserted cl. (3) defining "owner-operator". See Effective and Termination Date of 1966 Amendment note below.
 
 #### Effective Date of 2008 Amendment
 
@@ -274,7 +274,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–113, §3(d), Nov. 21, 1997, 111 Stat. 2276, provided that: “This section \[amending this section and repealing section 142 of Title 13, Census\] and the amendments made by this section shall take effect October 1, 1998.”
+Pub. L. 105–113, §3(d), Nov. 21, 1997, 111 Stat. 2276, provided that: "This section \[amending this section and repealing section 142 of Title 13, Census\] and the amendments made by this section shall take effect October 1, 1998."
 
 #### Effective Date of 1996 Amendment
 
@@ -290,7 +290,7 @@ Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809, as amended by Pub. L. 90–426, 
 
 #### Construction of 1990 Amendment
 
-Pub. L. 102–237, title VII, §702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: “The Consolidated Farm and Rural Development Act \[title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted.”
+Pub. L. 102–237, title VII, §702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: "The Consolidated Farm and Rural Development Act \[title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted."
 
 #### Termination of Trust Territory of the Pacific Islands
 

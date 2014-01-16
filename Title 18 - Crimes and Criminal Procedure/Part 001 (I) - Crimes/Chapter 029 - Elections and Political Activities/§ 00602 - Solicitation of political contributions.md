@@ -8,7 +8,7 @@
 
 &emsp;(3) an officer or employee of the United States or any department or agency thereof; or
 
-&emsp;(4) a person receiving any salary or compensation for services from money derived from the Treasury of the United States; to knowingly solicit any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined under this title or imprisoned not more than 3 years, or both.
+&emsp;(4) a person receiving any salary or compensation for services from money derived from the Treasury of the United States; toknowingly solicit any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined under this title or imprisoned not more than 3 years, or both.
 
 (b) The prohibition in subsection (a) shall not apply to any activity of an employee (as defined in section 7322(1) of title 5) or any individual employed in or under the United States Postal Service or the Postal Regulatory Commission, unless that activity is prohibited by section 7323 or 7324 of such title.
 
@@ -20,7 +20,7 @@ Based on title 18, U.S.C., 1940 ed., §§208, 212 (Mar. 4, 1909, ch. 321, §§11
 
 This section consolidates sections 208 and 212 of title 18, U.S.C., 1940 ed.
 
-This section, like section 201 of this title, was expanded to embrace all officers or persons acting on behalf of any independent agencies or Government-owned or controlled corporations by inserting words “or any department or agency thereof.” (See definitive section 6 of this title.)
+This section, like section 201 of this title, was expanded to embrace all officers or persons acting on behalf of any independent agencies or Government-owned or controlled corporations by inserting words "or any department or agency thereof." (See definitive section 6 of this title.)
 
 The punishment provision was taken from section 212 of title 18, U.S.C., 1940 ed., which, by reference, made the punishment applicable to the crime described in this section.
 
@@ -32,17 +32,17 @@ Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subs
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
-<b>1994</b>—Pub. L. 103–322, which directed the amendment of this section by substituting “under this title” for “not more than $5,000”, could not be executed because the phrase “not more than $5,000” does not appear in text. See 1993 Amendment note below.
+<b>1994</b>—Pub. L. 103–322, which directed the amendment of this section by substituting "under this title" for "not more than $5,000", could not be executed because the phrase "not more than $5,000" does not appear in text. See 1993 Amendment note below.
 
-<b>1993</b>—Pub. L. 103–94 designated existing provisions as subsec. (a), substituted “; to knowingly solicit any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined under this title or imprisoned not more than 3 years, or both” for “to knowingly solicit, any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined not more than $5,000 or imprisoned not more than three years, or both” in par. (4), and added subsec. (b).
+<b>1993</b>—Pub. L. 103–94 designated existing provisions as subsec. (a), substituted "; to knowingly solicit any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined under this title or imprisoned not more than 3 years, or both" for "to knowingly solicit, any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined not more than $5,000 or imprisoned not more than three years, or both" in par. (4), and added subsec. (b).
 
 <b>1980</b>—Pub. L. 96–187 amended section generally to conform its terms to revision of the Federal Election Campaign Act of 1971 by title I of Pub. L. 96–187.
 
 #### Effective Date of 1993 Amendment; Savings Provision
 
-Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to release or extinguish any penalty, forfeiture, or liability incurred under amendedprovision, which is to be treated as remaining in force for purpose of sustaining any proper proceeding or action for enforcement of that penalty, forfeiture, or liability, and no provision of Pub. L. 103–94 to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as an Effective Date; Savings Provision note under section 7321 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to release or extinguish any penalty, forfeiture, or liability incurred under amended provision, which is to be treated as remaining in force for purpose of sustaining any proper proceeding or action for enforcement of that penalty, forfeiture, or liability, and no provision of Pub. L. 103–94 to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as an Effective Date; Savings Provision note under section 7321 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Imposition of penalty
 
-If a taxpayer has a reportable transaction understatement for any taxable year, there shall be added to the tax an amount equal to 20 percent of the amount of such understatement.
+If a taxpayer has a reportable transaction understatement for any taxable year, there shallbe added to the tax an amount equal to 20 percent of the amount of such understatement.
 
 #### (b) Reportable transaction understatement
 
@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “reportable transaction understatement” means the sum of—
+&emsp;The term "reportable transaction understatement" means the sum of—
 
 &emsp;&emsp;(A) the product of—
 
@@ -32,11 +32,11 @@ For purposes of this section—
 
 #### (c) Higher penalty for nondisclosed listed and other avoidance transactions
 
-Subsection (a) shall be applied by substituting “30 percent” for “20 percent” with respect to the portion of any reportable transaction understatement with respect to which the requirement of section 6664(d)(2)(A) <sup>1</sup> is not met.
+Subsection (a) shall be applied by substituting "30 percent" for "20 percent" with respect to the portion of any reportable transaction understatement with respect to which the requirement of section 6664(d)(2)(A) <sup>1</sup> is not met.
 
 #### (d) Definitions of reportable and listed transactions
 
-For purposes of this section, the terms “reportable transaction” and “listed transaction” have the respective meanings given to such terms by section 6707A(c).
+For purposes of this section, the terms "reportable transaction" and "listed transaction" have the respective meanings given to such terms by section 6707A(c).
 
 #### (e) Special rules
 
@@ -74,29 +74,29 @@ Section 1409(b)(3) of Pub. L. 111–152, which directed the amendment of section
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e)(2)(B). Pub. L. 111–152 substituted “certain increased underpayment penalties” for “gross valuation misstatement penalty” in heading and “subsections (h) or (i) of section 6662” for “section 6662(h)” in text. See Codification note above.
+<b>2010</b>—Subsec. (e)(2)(B). Pub. L. 111–152 substituted "certain increased underpayment penalties" for "gross valuation misstatement penalty" in heading and "subsections (h) or (i) of section 6662" for "section 6662(h)" in text. See Codification note above.
 
 <b>2005</b>—Subsec. (e)(2). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
-“(A)
+"(A)
 
 Application of fraud penalty.—References to an underpayment in section 6663 shall be treated as including references to a reportable transaction understatement.
 
-“(B)
+"(B)
 
 No double penalty.—This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6663.
 
-“(C)
+"(C)
 
 Coordination with valuation penalties.—
 
-&emsp;“(i)
+&emsp;"(i)
 
 Section 6662(e).—Section 6662(e) shall not apply to any portion of an understatement on which a penalty is imposed under this section.
 
-&emsp;“(ii)
+&emsp;"(ii)
 
-Section 6662(h).—This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6662(h).”
+Section 6662(h).—This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6662(h)."
 
 #### Effective Date of 2010 Amendment
 
@@ -114,31 +114,31 @@ Section applicable to taxable years ending after Oct. 22, 2004, see section 812(
 
 Pub. L. 111–240, title II, §2103, Sept. 27, 2010, 124 Stat. 2564, provided that:
 
-“(a)
+"(a)
 
 In General.—The Commissioner of Internal Revenue, in consultation with the Secretary of the Treasury, shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on the penalties assessed by the Internal Revenue Service during the preceding year under each of the following provisions of the Internal Revenue Code of 1986:
 
-&emsp;“(1) Section 6662A (relating to accuracy-related penalty on understatements with respect to reportable transactions).
+&emsp;"(1) Section 6662A (relating to accuracy-related penalty on understatements with respect to reportable transactions).
 
-&emsp;“(2) Section 6700(a) (relating to promoting abusive tax shelters).
+&emsp;"(2) Section 6700(a) (relating to promoting abusive tax shelters).
 
-&emsp;“(3) Section 6707 (relating to failure to furnish information regarding reportable transactions).
+&emsp;"(3) Section 6707 (relating to failure to furnish information regarding reportable transactions).
 
-&emsp;“(4) Section 6707A (relating to failure to include reportable transaction information with return).
+&emsp;"(4) Section 6707A (relating to failure to include reportable transaction information with return).
 
-&emsp;“(5) Section 6708 (relating to failure to maintain lists of advisees with respect to reportable transactions).
+&emsp;"(5) Section 6708 (relating to failure to maintain lists of advisees with respect to reportable transactions).
 
-“(b)
+"(b)
 
 Additional Information.—The report required under subsection (a) shall also include information on the following with respect to each year:
 
-&emsp;“(1) Any action taken under section 330(b) of title 31, United States Code, with respect to any reportable transaction (as defined in section 6707A(c) of the Internal Revenue Code of 1986).
+&emsp;"(1) Any action taken under section 330(b) of title 31, United States Code, with respect to any reportable transaction (as defined in section 6707A(c) of the Internal Revenue Code of 1986).
 
-&emsp;“(2) Any extension of the time for assessment of tax enforced, or assessment of any amount under such an extension, under paragraph (10) of section 6501(c) of the Internal Revenue Code of 1986.
+&emsp;"(2) Any extension of the time for assessment of tax enforced, or assessment of any amount under such an extension, under paragraph (10) of section 6501(c) of the Internal Revenue Code of 1986.
 
-“(c)
+"(c)
 
-Date of Report.—The first report required under subsection (a) shall be submitted not later than December 31, 2010.”
+Date of Report.—The first report required under subsection (a) shall be submitted not later than December 31, 2010."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

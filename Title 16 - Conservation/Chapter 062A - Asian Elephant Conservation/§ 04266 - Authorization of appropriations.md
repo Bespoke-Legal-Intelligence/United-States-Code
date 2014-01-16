@@ -12,11 +12,11 @@ Of amounts available each fiscal year to carry out this chapter, the Secretary m
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–133, §2(c), substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–133, §2(c), substituted "2007 through 2012" for "2001, 2002, 2003, 2004, 2005, 2006, and 2007".
 
-Subsec. (b). Pub. L. 110–133, §2(b), substituted “$100,000” for “$80,000”.
+Subsec. (b). Pub. L. 110–133, §2(b), substituted "$100,000" for "$80,000".
 
-<b>2002</b>—Pub. L. 107–141, §3, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized” for “There are authorized”, and added subsec. (b).
+<b>2002</b>—Pub. L. 107–141, §3, designated existing provisions as subsec. (a), inserted heading, substituted "There is authorized" for "There are authorized", and added subsec. (b).
 
-Pub. L. 107–141, §2, substituted “2001, 2002, 2003, 2004, 2005, 2006, and 2007” for “1998, 1999, 2000, 2001, and 2002”.
+Pub. L. 107–141, §2, substituted "2001, 2002, 2003, 2004, 2005, 2006, and 2007" for "1998, 1999, 2000, 2001, and 2002".
 

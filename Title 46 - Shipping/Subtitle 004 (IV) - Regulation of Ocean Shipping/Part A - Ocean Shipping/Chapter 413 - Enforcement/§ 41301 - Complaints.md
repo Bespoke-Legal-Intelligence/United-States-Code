@@ -38,5 +38,5 @@ Pub. L. 98–237, §11(a), (b), (g) (related to time limit), Mar. 20, 1984, 98 S
 
 46 App.:1710(b) (last sentence).
 
-In subsection (a), the words “If the complaint is filed within 3 years after the claim accrues” are substituted for “For any complaint filed within 3 years after the cause of action accrued” in 46 App. U.S.C. 1710(g) to alert the reader to that time limitation.
+In subsection (a), the words "If the complaint is filed within 3 years after the claim accrues" are substituted for "For any complaint filed within 3 years after the cause of action accrued" in 46 App. U.S.C. 1710(g) to alert the reader to that time limitation.
 

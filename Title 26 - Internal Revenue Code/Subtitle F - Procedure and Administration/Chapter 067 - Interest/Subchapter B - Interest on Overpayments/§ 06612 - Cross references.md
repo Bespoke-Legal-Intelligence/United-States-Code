@@ -20,7 +20,7 @@ The Federal Unemployment Tax Act, referred to in subsec. (c), is act Aug. 16, 19
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c). Pub. L. 107–16 struck out “section 2011(c) (relating to refunds due to credit for State taxes),” after “see”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–16 struck out "section 2011(c) (relating to refunds due to credit for State taxes)," after "see".
 
 <b>1956</b>—Subsec. (c). Act June 29, 1956, inserted reference to section 6421 of this title.
 
@@ -34,5 +34,5 @@ Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and gene
 
 Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act June 29, 1956, set out as an Effective Date note under section 4041 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "sections".</i>
 

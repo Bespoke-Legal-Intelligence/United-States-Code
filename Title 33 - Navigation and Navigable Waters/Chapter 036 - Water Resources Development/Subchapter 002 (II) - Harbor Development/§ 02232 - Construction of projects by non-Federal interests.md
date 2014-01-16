@@ -14,7 +14,7 @@ The Secretary is authorized to complete and transmit to the appropriate non-Fede
 
 #### (d) Authority to carry out improvement
 
-Any non-Federal interest which has requested and received from the Secretary pursuant to subsection (b) or (c) of this section, the completed study and engineering for an improvement to a harbor or an inland harbor, or separable element thereof, for the purpose of constructing such improvement and for which improvement a final environmental impact statement has been filed, shall be authorized to carry out the terms of the plan for such improvement. Any plan of improvement proposed to be implemented in accordance with this subsection shall be deemed to satisfy the requirements for obtaining the appropriate permits required under the Secretary's authority and such permits shall be granted subject to the non-Federal interest's acceptance of the terms and conditions of such permits: Provided, That the Secretary determines that the applicable regulatory criteria and procedures have been satisfied. The Secretary shall monitor any project for which permits are granted under this subsection in order to ensure that such project is constructed (and, in those cases where such activities will not be the responsibility of the Secretary, operated and maintained) in accordance with the terms and conditions of such permits.
+Any non-Federal interest which has requested and received from the Secretary pursuant to subsection (b) or (c) of this section, the completed study and engineering for an improvement to a harbor or an inland harbor, or separable element thereof, for the purpose of constructing such improvement and for which improvement a final environmental impact statement has been filed, shall be authorized to carry out the terms of the plan for such improvement. Any plan of improvement proposed to be implemented in accordance with this subsection shall be deemed to satisfy the requirements for obtaining the appropriate permits required under the Secretary's authority and such permits shall be granted subject to the non-Federal interest's acceptance of the terms and conditions of such permits: Provided, That the Secretary determines that the applicable regulatory criteria and procedures have been satisfied. The Secretary shall monitor any project for which permits are granted under this subsection in order to ensure that such project is constructed (and, in those cases where such activities will not be the responsibility of the Secretary, operated andmaintained) in accordance with the terms and conditions of such permits.
 
 #### (e) Reimbursement
 
@@ -58,15 +58,15 @@ For the purpose of demonstrating the potential advantages and efficiencies of no
 
 Sections 201 and 202 of this title, referred to in subsec. (a), are sections 201 and 202 of title II of Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4089, 4091, which are not classified to the Code.
 
-This subchapter, referred to in subsec. (f)(1), was in the original “this title” which, in addition to this subchapter, consisted of sections 201 and 202 of Pub. L. 99–662, which are not classified to the Code.
+This subchapter, referred to in subsec. (f)(1), was in the original "this title" which, in addition to this subchapter, consisted of sections 201 and 202 of Pub. L. 99–662, which are not classified to the Code.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–640, §303(a), inserted after first sentence “The Secretary is further authorized to complete and transmit to the appropriate non-Federal interest any study for improvement to harbors or inland harbors of the United States that is initiated pursuant to section 577 of this title or, upon request of such non-Federal interest, to terminate such study and transmit such partially completed study to the non-Federal interest.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–640, §303(a), inserted after first sentence "The Secretary is further authorized to complete and transmit to the appropriate non-Federal interest any study for improvement to harbors or inland harbors of the United States that is initiated pursuant to section 577 of this title or, upon request of such non-Federal interest, to terminate such study and transmit such partially completed study to the non-Federal interest."
 
 Subsec. (e). Pub. L. 101–640, §303(b)(1), redesignated subsec. (e), relating to operation and maintenance, as (f).
 
-Subsec. (e)(1). Pub. L. 101–640, §303(b)(2), (3), in introductory provisions inserted “including any small navigation project approved pursuant to section 577 of this title,” after “or separable element thereof,” and in subpar. (A) inserted “(or, in the case of a small navigation project, after completion of a favorable project report by the Corps of Engineers)” after “authorization of the project”.
+Subsec. (e)(1). Pub. L. 101–640, §303(b)(2), (3), in introductory provisions inserted "including any small navigation project approved pursuant to section 577 of this title," after "or separable element thereof," and in subpar. (A) inserted "(or, in the case of a small navigation project, after completion of a favorable project report by the Corps of Engineers)" after "authorization of the project".
 
 Subsec. (f). Pub. L. 101–640, §303(b)(1), redesignated subsec. (e), relating to operation and maintenance, as (f). Former subsec. (f) redesignated (g).
 
@@ -76,15 +76,15 @@ Subsec. (g). Pub. L. 101–640, §303(b)(1), redesignated subsec. (f) as (g).
 
 Pub. L. 101–640, title IV, §404, Nov. 28, 1990, 104 Stat. 4646, provided that:
 
-“(a)
+"(a)
 
 In General.—For purposes of demonstrating the safety benefits and economic efficiencies which would accrue as a consequence of non-Federal management of harbor improvement projects, the Secretary shall enter into agreements with 2 non-Federal interests pursuant to which the non-Federal interests will undertake part or all of a harbor project authorized by law, by utilizing their own personnel or by procuring outside services, if the cost of doing so will not exceed the cost of the Secretary undertaking the project. If proposals for such agreements meet the criteria of section 204 of the Water Resources Development Act of 1986 \[33 U.S.C. 2232\], the agreements shall be entered into not later than 1 year after the date of the enactment of this Act \[Nov. 28, 1990\].
 
-“(b)
+"(b)
 
-Limitation.—At least 1 project carried out pursuant to this section shall pertain to improvements to a major ship channel which carries a substantial volume of both passenger and cargo traffic.
+Limitation.—At least 1 project carried out pursuant to this section shall pertain to improvements toa major ship channel which carries a substantial volume of both passenger and cargo traffic.
 
-“(c)
+"(c)
 
-Report.—The Secretary shall transmit to Congress a report regarding the safety benefits and economic efficiencies accrued from entering into agreements with non-Federal interests under this section.”
+Report.—The Secretary shall transmit to Congress a report regarding the safety benefits and economic efficiencies accrued from entering into agreements with non-Federal interests under this section."
 

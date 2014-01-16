@@ -216,7 +216,7 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 &emsp;(1) A description of the populations to be served by the entity, including specific information regarding how the entity will serve high risk populations described in subsection (d)(4).
 
-&emsp;(2) An assurance that the entity will give priority to serving low-income eligible families and eligible families who reside in at risk communities identified in the statewide needs assessment required under subsection (b)(1)(A).
+&emsp;(2) An assurance that the entity will give priority to serving low-income eligible families and eligible families who reside in at risk communities identified in the statewide needsassessment required under subsection (b)(1)(A).
 
 &emsp;(3) The service delivery model or models described in subsection (d)(3)(A) that the entity will use under the program and the basis for the selection of the model or models.
 
@@ -388,7 +388,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible entity” means a State, an Indian Tribe, Tribal Organization, or Urban Indian Organization, Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa.
+&emsp;&emsp;The term "eligible entity" means a State, an Indian Tribe, Tribal Organization, or Urban Indian Organization, Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa.
 
 #### (B) Nonprofit organizations
 
@@ -396,7 +396,7 @@ In this section:
 
 #### (2) Eligible family
 
-&emsp;The term “eligible family” means—
+&emsp;The term "eligible family" means—
 
 &emsp;&emsp;(A) a woman who is pregnant, and the father of the child if the father is available; or
 
@@ -404,7 +404,7 @@ In this section:
 
 #### (3) Indian Tribe; Tribal Organization
 
-&emsp;The terms “Indian Tribe” and “Tribal Organization”, and “Urban Indian Organization” have the meanings given such terms in section 1603 of title 25.
+&emsp;The terms "Indian Tribe" and "Tribal Organization", and "Urban Indian Organization" have the meanings given such terms in section 1603 of title 25.
 
 (Aug. 14, 1935, ch. 531, title V, §511, as added Pub. L. 111–148, title II, §2951, Mar. 23, 2010, 124 Stat. 334.)
 

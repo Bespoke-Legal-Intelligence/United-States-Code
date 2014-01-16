@@ -34,7 +34,7 @@ With respect to the provision of comprehensive community mental health services 
 
 #### (4) Targeted services to rural and homeless populations
 
-&emsp;The plan describes the State's outreach to and services for individuals who are homeless and how community-based services will be provided to individuals residing in rural areas.
+&emsp;The plan describes the State's outreach to and services for individuals who are homelessand how community-based services will be provided to individuals residing in rural areas.
 
 #### (5) Management systems
 
@@ -46,7 +46,7 @@ With respect to the provision of comprehensive community mental health services 
 
 #### (1) Establishment by Secretary of definitions; dissemination
 
-&emsp;For purposes of this subpart, the Secretary shall establish definitions for the terms “adults with a serious mental illness” and “children with a serious emotional disturbance”. The Secretary shall disseminate the definitions to the States.
+&emsp;For purposes of this subpart, the Secretary shall establish definitions for the terms "adults with a serious mental illness" and "children with a serious emotional disturbance". The Secretary shall disseminate the definitions to the States.
 
 #### (2) Standardized methods
 

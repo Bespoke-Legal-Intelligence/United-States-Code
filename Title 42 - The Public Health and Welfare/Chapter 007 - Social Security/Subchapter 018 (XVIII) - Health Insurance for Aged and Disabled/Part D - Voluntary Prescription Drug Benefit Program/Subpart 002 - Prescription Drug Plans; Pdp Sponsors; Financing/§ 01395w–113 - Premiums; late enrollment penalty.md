@@ -20,7 +20,7 @@
 
 #### (iii) Adjusted national average monthly bid amount defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “adjusted national average monthly bid amount” means the national average monthly bid amount computed under paragraph (4), as adjusted under section 1395w–115(c)(2) of this title.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "adjusted national average monthlybid amount" means the national average monthly bid amount computed under paragraph (4), as adjusted under section 1395w–115(c)(2) of this title.
 
 #### (C) Increase for supplemental prescription drug benefits
 
@@ -84,7 +84,7 @@
 
 #### (5) Standardized bid amount defined
 
-&emsp;For purposes of this subsection, the term “standardized bid amount” means the following:
+&emsp;For purposes of this subsection, the term "standardized bid amount" means the following:
 
 #### (A) Prescription drug plans
 
@@ -102,13 +102,13 @@
 
 #### (6) PDP approved bid defined
 
-&emsp;For purposes of this part, the term “PDP approved bid” means, with respect to a prescription drug plan, the bid amount approved for the plan under this part.
+&emsp;For purposes of this part, the term "PDP approved bid" means, with respect to a prescription drug plan, the bid amount approved for the plan under this part.
 
 #### (7) Increase in base beneficiary premium based on income
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an individual whose modified adjusted gross income exceeds the threshold amount applicable under paragraph (2) of section 1395r(i) of this title (including application of paragraph (5) of such section) for the calendar year, the monthly amount of the beneficiary premium applicable under this section for a month after December 2010 shall be increased by the monthly adjustment amount specified in subparagraph (B).
+&emsp;&emsp;In the case of an individual whose modified adjusted gross income exceeds the threshold amount applicable under paragraph (2) of section 1395r(i) of this title (including application of paragraph (5) of such section) for the calendar year, the monthly amount of the beneficiary premium applicable underthis section for a month after December 2010 shall be increased by the monthly adjustment amount specified in subparagraph (B).
 
 #### (B) Monthly adjustment amount
 
@@ -124,7 +124,7 @@
 
 #### (C) Modified adjusted gross income
 
-&emsp;&emsp;For purposes of this paragraph, the term “modified adjusted gross income” has the meaning given such term in subparagraph (A) of section 1395r(i)(4) of this title, determined for the taxable year applicable under subparagraphs (B) and (C) of such section.
+&emsp;&emsp;For purposes of this paragraph, the term "modified adjusted gross income" has the meaning given such term in subparagraph (A) of section 1395r(i)(4) of this title, determined for the taxable year applicable under subparagraphs (B) and (C) of such section.
 
 #### (D) Determination by Commissioner of Social Security
 
@@ -174,11 +174,11 @@
 
 #### (B) Uncovered month defined
 
-&emsp;&emsp;For purposes of this subsection, the term “uncovered month” means, with respect to a part D eligible individual, any month beginning after the end of the initial enrollment period under section 1395w–101(b)(2) of this title unless the individual can demonstrate that the individual had creditable prescription drug coverage (as defined in paragraph (4)) for any portion of such month.
+&emsp;&emsp;For purposes of this subsection, the term "uncovered month" means, with respect to a part D eligible individual, any month beginning after the end of the initial enrollment period under section 1395w–101(b)(2) of this title unless the individual can demonstrate that the individual had creditable prescription drug coverage (as defined in paragraph (4)) for any portion of such month.
 
 #### (4) Creditable prescription drug coverage defined
 
-&emsp;For purposes of this part, the term “creditable prescription drug coverage” means any of the following coverage, but only if the coverage meets the requirement of paragraph (5):
+&emsp;For purposes of this part, the term "creditable prescription drug coverage" means any of the following coverage, but only if the coverage meets the requirement of paragraph (5):
 
 #### (A) Coverage under prescription drug plan or MA–PD plan
 
@@ -196,7 +196,7 @@
 
 &emsp;&emsp;Coverage under a State pharmaceutical assistance program described in section 1395w–133(b)(1) of this title.
 
-#### (E) Veterans’ coverage of prescription drugs
+#### (E) Veterans' coverage of prescription drugs
 
 &emsp;&emsp;Coverage for veterans, and survivors and dependents of veterans, under chapter 17 of title 38.
 
@@ -240,7 +240,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), for purposes of this subsection, the term “continuous period of eligibility” means, with respect to a part D eligible individual, the period that begins with the first day on which the individual is eligible to enroll in a prescription drug plan under this part and ends with the individual's death.
+&emsp;&emsp;Subject to subparagraph (B), for purposes of this subsection, the term "continuous period of eligibility" means, with respect to a part D eligible individual, the period that begins with the first day on which the individual is eligible to enroll in a prescription drug plan under this part and ends with the individual's death.
 
 #### (B) Separate period
 
@@ -294,11 +294,11 @@
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1)(F), (G). Pub. L. 111–148, §3308(b)(1), added subpar. (F), redesignated former subpar. (F) as (G), and substituted “(D), (E), and (F)” for “(D) and (E)” in subpar. (G).
+<b>2010</b>—Subsec. (a)(1)(F), (G). Pub. L. 111–148, §3308(b)(1), added subpar. (F), redesignated former subpar. (F) as (G), and substituted "(D), (E), and (F)" for "(D) and (E)" in subpar. (G).
 
 Subsec. (a)(7). Pub. L. 111–148, §3308(a)(1), added par. (7).
 
-Subsec. (c)(1). Pub. L. 111–148, §3308(a)(2)(A), substituted “(2), (3), and (4)” for “(2) and (3)”.
+Subsec. (c)(1). Pub. L. 111–148, §3308(a)(2)(A), substituted "(2), (3), and (4)" for "(2) and (3)".
 
 Subsec. (c)(4). Pub. L. 111–148, §3308(a)(2)(B), added par. (4).
 
@@ -306,9 +306,9 @@ Subsec. (c)(4). Pub. L. 111–148, §3308(a)(2)(B), added par. (4).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–275, title I, §114(b), July 15, 2008, 122 Stat. 2507, provided that: “The amendments made by this section \[amending this section and section 1395w–114 of this title\] shall apply to subsidies for months beginning with January 2009.”
+Pub. L. 110–275, title I, §114(b), July 15, 2008, 122 Stat. 2507, provided that: "The amendments made by this section \[amending this section and section 1395w–114 of this title\] shall apply to subsidies for months beginning with January 2009."
 
-<i><sup>1</sup></i><i> So in original. The word “of” probably should appear after “product”.</i>
+<i><sup>1</sup></i><i> So in original. The word "of" probably should appear after "product".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section 426(b)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "section 426(b)".</i>
 

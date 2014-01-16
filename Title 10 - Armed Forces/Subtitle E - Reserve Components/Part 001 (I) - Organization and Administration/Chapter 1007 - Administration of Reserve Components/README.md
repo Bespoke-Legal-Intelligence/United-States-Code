@@ -28,13 +28,13 @@
 
 <b>2013</b>—Pub. L. 112–239, div. A, title V, §581(a)(2), Jan. 2, 2013, 126 Stat. 1765, added item 10219.
 
-<b>2006</b>—Pub. L. 109–163, div. A, title VII, §732(c), Jan. 6, 2006, 119 Stat. 3352, struck out “periodic” before “physical” in item 10206.
+<b>2006</b>—Pub. L. 109–163, div. A, title VII, §732(c), Jan. 6, 2006, 119 Stat. 3352, struck out "periodic" before "physical" in item 10206.
 
-<b>1999</b>—Pub. L. 106–65, div. A, title V, §§522(a)(2), 523(b), Oct. 5, 1999, 113 Stat. 597, 598, struck out “military” after “status” in item 10217 and added item 10218.
+<b>1999</b>—Pub. L. 106–65, div. A, title V, §§522(a)(2), 523(b), Oct. 5, 1999, 113 Stat. 597, 598, struck out "military" after "status" in item 10217 and added item 10218.
 
-<b>1997</b>—Pub. L. 105–85, div. A, title V, §§522(h)(2), 523(a)(2), Nov. 18, 1997, 111 Stat. 1736, 1737, inserted “(dual status)” after “technicians” in item 10216 and added item 10217.
+<b>1997</b>—Pub. L. 105–85, div. A, title V, §§522(h)(2), 523(a)(2), Nov. 18, 1997, 111 Stat. 1736, 1737, inserted "(dual status)" after "technicians" in item 10216 and added item 10217.
 
-<b>1996</b>—Pub. L. 104–106, div. A, title V, §513(c)(2), title XV, §1501(b)(4), Feb. 10, 1996, 110 Stat. 306, 496, struck out “Individual” after “Members of” in item 10205, substituted “Reserve” for “reserve” in item 10211, and added item 10216.
+<b>1996</b>—Pub. L. 104–106, div. A, title V, §513(c)(2), title XV, §1501(b)(4), Feb. 10, 1996, 110 Stat. 306, 496, struck out "Individual" after "Members of" in item 10205, substituted "Reserve" for "reserve" in item 10211, and added item 10216.
 
 
 ---

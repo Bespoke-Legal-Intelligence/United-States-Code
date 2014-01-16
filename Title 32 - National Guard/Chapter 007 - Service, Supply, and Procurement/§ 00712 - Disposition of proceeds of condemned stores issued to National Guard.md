@@ -8,7 +8,7 @@ The following shall be covered into the Treasury:
 
 &emsp;(3) Stoppage against members of the National Guard for the loss or destruction of, or damage to, property described in clause (1).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 616; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29,1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 616; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes
 
@@ -24,11 +24,11 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §88, 39 Stat. 205; Oct. 31, 1951, ch. 654, §3(5), 65 Stat. 708.
 
-The introductory clause is substituted for the words “shall be covered into the Treasury of the United States” and “as shall also”. The words “United States” are substituted for the word “Government”. The words “members of the National Guard” are substituted for the words “officers and enlisted men”.
+The introductory clause is substituted for the words "shall be covered into the Treasury of the United States" and "as shall also". The words "United States" are substituted for the word "Government". The words "members of the National Guard" are substituted for the words "officers and enlisted men".
 
 #### Amendments
 
-<b>2006</b>—Par. (1). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
+<b>2006</b>—Par. (1). Pub. L. 109–163 substituted "State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands" for "State or Territory, Puerto Rico, or the District of Columbia".
 
-<b>1988</b>—Par. (1). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Par. (1). Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 

@@ -6,5 +6,5 @@ Said reserve shall be known as the Battle Mountain Sanitarium Reserve, and shall
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Board of Managers of the National Home for Disabled Volunteer Soldiers” and “as the Secretary may consider necessary” for “as they may deem necessary”.
+<b>1991</b>—Pub. L. 102–54 substituted "Secretary of Veterans Affairs" for "Board of Managers of the National Home for Disabled Volunteer Soldiers" and "as the Secretary may consider necessary" for "as they may deem necessary".
 

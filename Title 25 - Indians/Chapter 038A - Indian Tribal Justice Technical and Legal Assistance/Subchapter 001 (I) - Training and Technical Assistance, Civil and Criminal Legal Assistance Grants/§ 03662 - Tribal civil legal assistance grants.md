@@ -6,5 +6,5 @@ Subject to the availability of appropriations, the Attorney General, in consulta
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–211 inserted “(including guardians ad litem and court-appointed special advocates for children and juveniles)” after “civil legal assistance”.
+<b>2010</b>—Pub. L. 111–211 inserted "(including guardians ad litem and court-appointed special advocates for children and juveniles)" after "civil legal assistance".
 

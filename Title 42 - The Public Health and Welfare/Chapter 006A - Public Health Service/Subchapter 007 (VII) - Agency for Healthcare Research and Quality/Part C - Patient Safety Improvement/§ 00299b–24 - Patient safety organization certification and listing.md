@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) The mission and primary activity of the entity are to conduct activities that are to improve patient safety and the quality of health care delivery.
 
-&emsp;&emsp;(B) The entity has appropriately qualified staff (whether directly or through contract), including licensed or certified medical professionals.
+&emsp;&emsp;(B) The entity has appropriately qualified staff (whether directly or through contract),including licensed or certified medical professionals.
 
 &emsp;&emsp;(C) The entity, within each 24-month period that begins after the date of the initial listing under subsection (d) of this section, has bona fide contracts, each of a reasonable period of time, with more than 1 provider for the purpose of receiving and reviewing patient safety work product.
 
@@ -102,7 +102,7 @@ The Secretary shall compile and maintain a listing of entities with respect to w
 
 #### (1) New data
 
-&emsp;With respect to the privilege and confidentiality protections described in section 299b–22 of this title, data submitted to an entity within 30 days after the entity is removed from the listing under subsection (e)(3)(A) of this section shall have the same status as data submitted while the entity was still listed.
+&emsp;With respect to the privilege and confidentiality protections described in section 299b–22 of this title, data submitted to an entity within 30 days after the entity is removed from thelisting under subsection (e)(3)(A) of this section shall have the same status as data submitted while the entity was still listed.
 
 #### (2) Protection to continue to apply
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) publicizing existing sources of financial aid available to students in the education program of such a school or who are undertaking training necessary to qualify them to enroll in such a program;
 
-&emsp;&emsp;(F) paying such scholarships as the Secretary may determine for such individuals for any period of health professions education at a health professions school;
+&emsp;&emsp;(F) paying such scholarships as the Secretary may determine for such individualsfor any period of health professions education at a health professions school;
 
 &emsp;&emsp;(G) paying such stipends as the Secretary may approve for such individuals for any period of education in student-enhancement programs (other than regular courses), except that such a stipend may not be provided to an individual for more than 12 months, and such a stipend shall be in an amount determined appropriate by the Secretary (notwithstanding any other provision of law regarding the amount of stipends);
 
@@ -30,7 +30,7 @@
 
 #### (3) Definition
 
-&emsp;In this section, the term “regular course of education of such a school” as used in subparagraph (D) includes a graduate program in behavioral or mental health.
+&emsp;In this section, the term "regular course of education of such a school" as used in subparagraph (D) includes a graduate program in behavioral or mental health.
 
 #### (b) Requirements for awards
 

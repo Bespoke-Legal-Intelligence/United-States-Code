@@ -20,7 +20,7 @@ A prior section 191 was renumbered section 202 of this title and subsequently re
 
 #### Amendments
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–26 substituted “October 1, 1986” for “the date of the enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–26 substituted "October 1, 1986" for "the date of the enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986".
 
 #### Comptroller General Review of Operations of Defense Logistics Agency
 
@@ -28,7 +28,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title IX, §917\], Oct. 30, 2000, 114 Stat.
 
 #### Comptroller General Review of Operations of Defense Information Systems Agency
 
-Pub. L. 106–398, §1 \[\[div. A\], title IX, §918\], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, directed the Comptroller General to review the operations of the Defense Information Systems Agency and to submit to committees of Congress one or more reports setting forth theComptroller General's findings not later than Feb. 1, 2002.
+Pub. L. 106–398, §1 \[\[div. A\], title IX, §918\], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, directed the Comptroller General to review the operations of the Defense Information Systems Agency and to submit to committees of Congress one or more reports setting forth the Comptroller General's findings not later than Feb. 1, 2002.
 
 #### Reassessment of Defense Agencies and Department of Defense Field Activities
 

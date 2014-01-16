@@ -8,7 +8,7 @@
 
 #### (2) Prohibition
 
-&emsp;Peace Corps Medical Officers, Safety and Security Officers, and program staff may notserve as victim advocates. The victim advocate referred to in paragraph (1) may not have any other duties in the Peace Corps that are not reasonably connected to victim advocacy.
+&emsp;Peace Corps Medical Officers, Safety and Security Officers, and program staff may not serve as victim advocates. The victim advocate referred to in paragraph (1) may not have any other duties in the Peace Corps that are not reasonably connected to victim advocacy.
 
 #### (3) Exemption
 
@@ -42,5 +42,5 @@ This section shall cease to be effective on October 1, 2018.
 
 (Pub. L. 87–293, title I, §8C, as added Pub. L. 112–57, §2, Nov. 21, 2011, 125 Stat. 739.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Victim”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Victim".</i>
 

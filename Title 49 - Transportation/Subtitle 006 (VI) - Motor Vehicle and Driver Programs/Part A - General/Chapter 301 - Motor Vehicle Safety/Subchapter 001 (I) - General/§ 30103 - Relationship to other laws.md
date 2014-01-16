@@ -6,7 +6,7 @@ Uniformity of Regulations.—The Secretary of Transportation may not prescribe a
 
 (b)
 
-Preemption.—(1) When a motor vehicle safety standard is in effect under this chapter, aState or a political subdivision of a State may prescribe or continue in effect a standard applicable to the same aspect of performance of a motor vehicle or motor vehicle equipment only if the standard is identical to the standard prescribed under this chapter. However, the United States Government, a State, or a political subdivision of a State may prescribe a standard for a motor vehicle or motor vehicle equipment obtained for its own use that imposes a higher performance requirement than that required by the otherwise applicable standard under this chapter.
+Preemption.—(1) When a motor vehicle safety standard is in effect under this chapter, a State or a political subdivision of a State may prescribe or continue in effect a standard applicable to the same aspect of performance of a motor vehicle or motor vehicle equipment only if the standard is identical to the standard prescribed under this chapter. However, the United States Government, a State, or a political subdivision of a State may prescribe a standard for a motor vehicle or motor vehicle equipment obtained for its own use that imposes a higher performance requirement than that required by the otherwise applicable standard under this chapter.
 
 (2) A State may enforce a standard that is identical to a standard prescribed under this chapter.
 
@@ -74,19 +74,19 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §§124(e), 160; added Oct. 27, 1
 
 Sept. 9, 1966, Pub. L. 89–563, §108(k), 80 Stat. 723; Oct. 31, 1988, Pub. L. 100–562, §2(b), 102 Stat. 2818.
 
-In subsection (a), the words “or the Transportation of Explosives Act, as amended (18 U.S.C. 831–835)” are omitted as obsolete because 18:831–835 have been repealed. The word “prescribe” is substituted for “adopt” for consistency. The words “or continue in effect” and “In prescribing safety regulations” are omitted as surplus. The word “prescribed” is substituted for “issued” for consistency. The words “to comply” and “Federal” are omitted as surplus. The words “in effect” are added for clarity.
+In subsection (a), the words "or the Transportation of Explosives Act, as amended (18 U.S.C. 831–835)" are omitted as obsolete because 18:831–835 have been repealed. The word "prescribe" is substituted for "adopt" for consistency. The words "or continue in effect" and "In prescribing safety regulations" are omitted as surplus. The word "prescribed" is substituted for "issued" for consistency. The words "to comply" and "Federal" are omitted as surplus. The words "in effect" are added for clarity.
 
-In subsection (b)(1), the word “Federal” is omitted as surplus. The word “prescribe” is substituted for “either to establish, or to continue in effect” for consistency and to eliminate unnecessary words. The words “standard prescribed under this chapter” are substituted for “Federal standard” for clarity. The words “However, the United States . . . may prescribe” are substituted for “Nothing in this section shall be construed to prevent the Federal . . . from establishing” for consistency. The words “of a State” are substituted for “thereof” for clarity. The word “standard” is substituted for “safety requirement” for consistency. The words “performance requirement” are substituted for “standard of performance” to avoid using “standard” in 2 different ways.
+In subsection (b)(1), the word "Federal" is omitted as surplus. The word "prescribe" is substituted for "either to establish, or to continue in effect" for consistency and to eliminate unnecessary words. The words "standard prescribed under this chapter" are substituted for "Federal standard" for clarity. The words "However, the United States . . . may prescribe" are substitutedfor "Nothing in this section shall be construed to prevent the Federal . . . from establishing" for consistency. The words "of a State" are substituted for "thereof" for clarity. The word "standard" is substituted for "safety requirement" for consistency. The words "performance requirement" are substituted for "standard of performance" to avoid using "standard" in 2 different ways.
 
 Subsection (b)(2) is substituted for 15:1392(d) (2d sentence) for consistency and to eliminate unnecessary words.
 
-In subsection (c), the words “be deemed to” and “of the United States” are omitted as surplus.
+In subsection (c), the words "be deemed to" and "of the United States" are omitted as surplus.
 
-In subsection (d), the words “United States” are substituted for “Federal” in 15:1420 for consistency. The words “Consumer” in 15:1420, “not in lieu of” in 15:1410a(e) and 1420, and “not in substitution for” in 15:1394(a)(6) are omitted as surplus. The word “other” is added for clarity.
+In subsection (d), the words "United States" are substituted for "Federal" in 15:1420 for consistency. The words "Consumer" in 15:1420, "not in lieu of" in 15:1410a(e) and 1420, and "not in substitution for" in 15:1394(a)(6) are omitted as surplus. The word "other" is added for clarity.
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105” in two places.
+<b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted "subchapter I of chapter 135" for "subchapter II of chapter 105" in two places.
 
 #### Effective Date of 1995 Amendment
 

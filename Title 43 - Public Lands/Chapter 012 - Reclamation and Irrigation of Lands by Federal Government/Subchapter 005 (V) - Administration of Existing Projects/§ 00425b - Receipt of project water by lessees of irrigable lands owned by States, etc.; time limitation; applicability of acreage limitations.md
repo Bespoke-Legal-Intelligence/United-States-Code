@@ -10,5 +10,5 @@ The Federal reclamation law, referred to in text, probably means act June 17, 19
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–293 struck out “for a period not to exceed twenty-five years” after “may receive project water”.
+<b>1982</b>—Pub. L. 97–293 struck out "for a period not to exceed twenty-five years" after "may receive project water".
 

@@ -12,5 +12,5 @@ It is the sense of the Congress that the following, which are based in part on t
 
 #### Amendments
 
-<b>1999</b>—Par. (3). Pub. L. 106–36 substituted “WTO member country (as defined in section 3501(10) of title 19)” for “contracting party to the General Agreement on Tariffs and Trade” and “World Trade Organization (as defined in section 3501(8) of title 19)” for “latter organization”.
+<b>1999</b>—Par. (3). Pub. L. 106–36 substituted "WTO member country (as defined in section 3501(10) of title 19)" for "contracting party to the General Agreement on Tariffs and Trade" and "World Trade Organization (as defined in section 3501(8) of title 19)" for "latter organization".
 

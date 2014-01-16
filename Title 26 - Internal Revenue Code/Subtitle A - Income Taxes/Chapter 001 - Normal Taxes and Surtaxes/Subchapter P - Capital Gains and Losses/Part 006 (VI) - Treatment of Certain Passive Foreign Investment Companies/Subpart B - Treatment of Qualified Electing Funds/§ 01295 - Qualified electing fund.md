@@ -26,27 +26,27 @@ For purposes of this part, any passive foreign investment company shall be treat
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647, §6127(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this part, the term ‘qualified electing fund’ means any passive foreign investment company if—
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §6127(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "For purposes of this part, the term 'qualified electing fund' means any passive foreign investment company if—
 
-&emsp;“(1) an election under subsection (b) applies to such company for the taxable year, and
+&emsp;"(1) an election under subsection (b) applies to such company for the taxable year, and
 
-&emsp;“(2) such company complies for such taxable year with such requirements as the Secretary may prescribe for purposes of—
+&emsp;"(2) such company complies for such taxable year with such requirements as the Secretary may prescribe for purposes of—
 
-&emsp;&emsp;“(A) determining the ordinary earnings and net capital gain of such company for the taxable year,
+&emsp;&emsp;"(A) determining the ordinary earnings and net capital gain of such company for the taxable year,
 
-&emsp;&emsp;“(B) ascertaining the ownership of its outstanding stock, and
+&emsp;&emsp;"(B) ascertaining the ownership of its outstanding stock, and
 
-&emsp;&emsp;“(C) otherwise carrying out the purposes of this subpart.”
+&emsp;&emsp;"(C) otherwise carrying out the purposes of this subpart."
 
 Subsec. (b). Pub. L. 100–647, §6127(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1)
+"(1)
 
 In general.—A passive foreign investment company may make an election under this subsection for any taxable year. Such an election, once made, shall apply to all subsequent taxable years of such company for which such company is a passive foreign investment company unless revoked with the consent of the Secretary.
 
-“(2)
+"(2)
 
-When made.—An election under this subsection may be made for any taxable year at any time before the 15th day of the 3rd month of the following taxable year. To the extent provided in regulations, such an election may be made later than as required by the preceding sentence in cases where the company failed to make a timely election because it reasonably believed it was not a passive foreign investment company.”
+When made.—An election under this subsection may be made for any taxable year at any time before the 15th day of the 3rd month of the following taxable year. To the extent provided in regulations, such an election may be made later than as required by the preceding sentence in cases where the company failed to make a timely election because it reasonably believed it was not a passive foreign investment company."
 
 Pub. L. 100–647, §1012(p)(37)(A), inserted sentence at end of par. (2) permitting a later election when a company reasonably believed it was not a passive foreign investment company.
 
@@ -56,13 +56,13 @@ Amendment by section 1012(p)(37)(A) of Pub. L. 100–647 effective, except as ot
 
 Pub. L. 100–647, title VI, §6127(c), Nov. 10, 1988, 102 Stat. 3715, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section and section 1291 of this title\] shall take effect as if included in the amendments made by section 1235 of the Reform Act \[Pub. L. 99–514\].
 
-“(2)
+"(2)
 
-Time for making election.—The period during which an election under section 1295(b) of the 1986 Code may be made shall in no event expire before the date 60 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Time for making election.—The period during which an election under section 1295(b) of the 1986 Code may be made shall in no event expire before the date 60 days after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date
 
@@ -70,5 +70,5 @@ Section applicable to taxable years of foreign corporations beginning after Dec.
 
 #### Expiration of Subsection (b) Election Period
 
-Pub. L. 100–647, title I, §1012(p)(37)(B), Nov. 10, 1988, 102 Stat. 3522, provided that: “The period during which an election under section 1295(b) of the 1986 Code may be made shall in no event expire before the date 60 days after the date of enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1012(p)(37)(B), Nov. 10, 1988, 102 Stat. 3522, provided that: "The period during which an election under section 1295(b) of the 1986 Code may be made shall in no event expire before the date 60 days after the date of enactment of this Act \[Nov. 10, 1988\]."
 

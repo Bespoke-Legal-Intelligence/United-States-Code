@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—There is established in the Department of Homeland Security a board to be known as the “Transportation Security Oversight Board”.
+In General.—There is established in the Department of Homeland Security a board to be known as the "Transportation Security Oversight Board".
 
 (b)
 
@@ -58,13 +58,13 @@ Consideration of Security Information.—A majority of the Board may vote to clo
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(1)(F). Pub. L. 111–259 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “The Director of the Central Intelligence Agency, or the Director's designee.”
+<b>2010</b>—Subsec. (b)(1)(F). Pub. L. 111–259 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "The Director of the Central Intelligence Agency, or the Director's designee."
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–296, §426(a)(1), substituted “Department of Homeland Security” for “Department of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296, §426(a)(1), substituted "Department of Homeland Security" for "Department of Transportation".
 
-Subsec. (b)(1). Pub. L. 107–296, §426(a)(2), added subpar. (A), redesignated former subpars. (A) to (F) as (B) to (G), respectively, and struck out former subpar. (G) which read as follows: “One member appointed by the President to represent the Office of Homeland Security.”
+Subsec. (b)(1). Pub. L. 107–296, §426(a)(2), added subpar. (A), redesignated former subpars. (A) to (F) as (B) to (G), respectively, and struck out former subpar. (G) which read as follows: "One member appointed by the President to represent the Office of Homeland Security."
 
-Subsec. (b)(2). Pub. L. 107–296, §426(a)(3), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+Subsec. (b)(2). Pub. L. 107–296, §426(a)(3), substituted "Secretary of Homeland Security" for "Secretary of Transportation".
 
 #### Effective Date of 2002 Amendment
 

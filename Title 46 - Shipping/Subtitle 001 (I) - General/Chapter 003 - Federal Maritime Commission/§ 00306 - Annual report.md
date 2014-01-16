@@ -42,5 +42,5 @@ June 29, 1936, ch. 858, title II, §208 (related to Commission), 49 Stat. 1988; 
 
 Pub. L. 100–418, title X, §10002(g), Aug. 23, 1988, 102 Stat. 1572.
 
-In subsection (a), the words “a statement of all receipts under this chapter” are omitted as inapplicable to the Commission.
+In subsection (a), the words "a statement of all receipts under this chapter" are omitted as inapplicable to the Commission.
 

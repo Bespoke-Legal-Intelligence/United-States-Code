@@ -1,8 +1,8 @@
 ### §1600a. Definitions
 
-(a) The term “Committees” refers to the Committee on Natural Resources of the United States House of Representatives and the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the United States Senate.
+(a) The term "Committees" refers to the Committee on Natural Resources of the United States House of Representatives and the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the United States Senate.
 
-(b) The term “financial assistance” means any form of loan, grant, guaranty, insurance, payment, rebate, subsidy, or any other form of direct or indirect Federal assistance other than—
+(b) The term "financial assistance" means any form of loan, grant, guaranty, insurance, payment, rebate, subsidy, or any other form of direct or indirect Federal assistance other than—
 
 &emsp;(1) general revenue-sharing grants made under section 6702 <sup>1</sup> of title 31;
 
@@ -16,11 +16,11 @@
 
 > Such term also includes flood insurance described in sections <sup>2</sup> 4029(a) and (b) of title 42 on and after the dates on which the provisions of those sections <sup>2</sup> become effective.
 
-(c) The term “Secretary” means the Secretary of the Interior.
+(c) The term "Secretary" means the Secretary of the Interior.
 
-(d) The term “water district” means any public agency providing water service, including water districts, county water districts, public utility districts, and irrigation districts.
+(d) The term "water district" means any public agency providing water service, including water districts, county water districts, public utility districts, and irrigation districts.
 
-(e) The term “Floodway” means the Colorado River Floodway established in section 1600c of this title.
+(e) The term "Floodway" means the Colorado River Floodway established in section 1600c of this title.
 
 (Pub. L. 99–450, §3, Oct. 8, 1986, 100 Stat. 1129; Pub. L. 103–437, §16(a)(4), Nov. 2, 1994, 108 Stat. 4594.)
 
@@ -32,11 +32,11 @@ The dates on which the provisions of sections 4029(a) and (b) of title 42 become
 
 #### Codification
 
-In subsec. (b)(1), “section 6702 of title 31” substituted for “section 102 of the State and Local Fiscal Assistance Amendments of 1972 (31 U.S.C. 1221)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(1), "section 6702 of title 31" substituted for "section 102 of the State and Local Fiscal Assistance Amendments of 1972 (31 U.S.C. 1221)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" before "of the United States House".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

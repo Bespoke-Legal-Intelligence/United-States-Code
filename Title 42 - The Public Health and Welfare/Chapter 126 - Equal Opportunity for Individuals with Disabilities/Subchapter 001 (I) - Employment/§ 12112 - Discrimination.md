@@ -6,7 +6,7 @@ No covered entity shall discriminate against a qualified individual on the basis
 
 #### (b) Construction
 
-As used in subsection (a) of this section, the term “discriminate against a qualified individual on the basis of disability” includes—
+As used in subsection (a) of this section, the term "discriminate against a qualified individual on the basis of disability" includes—
 
 &emsp;(1) limiting, segregating, or classifying a job applicant or employee in a way that adversely affects the opportunities or status of such applicant or employee because of the disability of such applicant or employee;
 
@@ -108,13 +108,13 @@ As used in subsection (a) of this section, the term “discriminate against a qu
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(3)(B)(iii), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in subsec. (d)(3)(B)(iii), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–325, §5(a)(1), substituted “on the basis of disability” for “with a disability because of the disability of such individual”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–325, §5(a)(1), substituted "on the basis of disability" for "with a disability because of the disability of such individual".
 
-Subsec. (b). Pub. L. 110–325, §5(a)(2), substituted “discriminate against a qualified individual on the basis of disability” for “discriminate” in introductory provisions.
+Subsec. (b). Pub. L. 110–325, §5(a)(2), substituted "discriminate against a qualified individual on the basis of disability" for "discriminate" in introductory provisions.
 
 <b>1991</b>—Subsecs. (c), (d). Pub. L. 102–166 added subsec. (c) and redesignated former subsec. (c) as (d).
 

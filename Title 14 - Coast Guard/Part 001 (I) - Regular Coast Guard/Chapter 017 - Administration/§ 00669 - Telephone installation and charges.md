@@ -6,7 +6,7 @@ Under regulations prescribed by the Secretary, amounts appropriated to the Depar
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 #### Effective Date of 2002 Amendment
 

@@ -4,13 +4,13 @@
 
 In this section—
 
-&emsp;(1) the term “attorney general” means the attorney general or other chief law enforcement officer of a State or the designee thereof;
+&emsp;(1) the term "attorney general" means the attorney general or other chief law enforcement officer of a State or the designee thereof;
 
-&emsp;(2) the term “intoxicating liquor” means any spirituous, vinous, malted, fermented, or other intoxicating liquor of any kind;
+&emsp;(2) the term "intoxicating liquor" means any spirituous, vinous, malted, fermented, or other intoxicating liquor of any kind;
 
-&emsp;(3) the term “person” means any individual and any partnership, corporation, company, firm, society, association, joint stock company, trust, or other entity capable of holding a legal or beneficial interest in property, but does not include a State or agency thereof; and
+&emsp;(3) the term "person" means any individual and any partnership, corporation, company, firm, society, association, joint stock company, trust, or other entity capable of holding a legal or beneficial interest in property, but does not include a State or agency thereof; and
 
-&emsp;(4) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
+&emsp;(4) the term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
 
 #### (b) Action by State attorney general
 
@@ -98,9 +98,9 @@ This section shall be construed only to extend the jurisdiction of Federal court
 
 #### Effective Date
 
-Pub. L. 106–386, div. C, §2004(b), Oct. 28, 2000, 114 Stat. 1548, provided that: “This section \[enacting this section and section 122b of this title and provisions set out as a note under this section\] and the amendments made by this section shall become effective 90 days after the date of the enactment of this Act \[Oct. 28, 2000\].”
+Pub. L. 106–386, div. C, §2004(b), Oct. 28, 2000, 114 Stat. 1548, provided that: "This section \[enacting this section and section 122b of this title and provisions set out as a note under this section\] and the amendments made by this section shall become effective 90 days after the date of the enactment of this Act \[Oct. 28, 2000\]."
 
 #### Impact Study
 
-Pub. L. 106–386, div. C, §2004(c), Oct. 28, 2000, 114 Stat. 1548, provided that: “The Attorney General shall carry out the study to determine the impact of this section \[enacting this section and section 122b of this title andprovisions set out as a note under this section\] and shall submit the results of such study not later than 180 days after the enactment of this Act \[Oct. 28, 2000\].”
+Pub. L. 106–386, div. C, §2004(c), Oct. 28, 2000, 114 Stat. 1548, provided that: "The Attorney General shall carry out the study to determine the impact of this section \[enacting this section and section 122b of this title andprovisions set out as a note under this section\] and shall submit the results of such study not later than 180 days after the enactment of this Act \[Oct. 28, 2000\]."
 

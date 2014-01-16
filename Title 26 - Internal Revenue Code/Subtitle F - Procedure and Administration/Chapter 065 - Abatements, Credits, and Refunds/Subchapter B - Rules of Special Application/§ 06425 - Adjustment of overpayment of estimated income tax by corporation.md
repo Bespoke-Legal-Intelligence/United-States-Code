@@ -8,7 +8,7 @@
 
 #### (2) Form of application, etc.
 
-&emsp;An application under this subsection shall be verified in the manner prescribed by section 6065 in the case of a return of the taxpayer, and shall be filed in the manner and form required by regulations prescribed by the Secretary. The application shall set forth—
+&emsp;An application under this subsection shall be verified in the manner prescribed by section6065 in the case of a return of the taxpayer, and shall be filed in the manner and form required by regulations prescribed by the Secretary. The application shall set forth—
 
 &emsp;&emsp;(A) the estimated income tax paid by the corporation during the taxable year,
 
@@ -40,9 +40,9 @@
 
 For purposes of this section and section 6655(h) (relating to excessive adjustment)—
 
-&emsp;(1) The term “income tax liability” means the excess of—
+&emsp;(1) The term "income tax liability" means the excess of—
 
-&emsp;&emsp;(A) The sum of—
+&emsp;&emsp;(A) The <sup>1</sup> sum of—
 
 &emsp;&emsp;&emsp;(i) the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever is applicable,
 
@@ -66,13 +66,13 @@ If the corporation seeking an adjustment under this section paid its estimated i
 
 #### Amendments
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–203 substituted “section 6655(h)” for “section 6655(g)”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–203 substituted "section 6655(h)" for "section 6655(g)".
 
 <b>1986</b>—Subsec. (c)(1)(A). Pub. L. 99–514 amended subpar. (A) generally, restating existing provisions as cl. (i) and adding cl. (ii).
 
-Pub. L. 99–499 amended subsec. (c)(1)(A), as amended by the Tax Reform Act of 1986 (Pub. L. 99–514), by striking out “plus” at end of cl. (i), substituting “plus” for “over” at end of cl. (ii), and adding cl. (iii).
+Pub. L. 99–499 amended subsec. (c)(1)(A), as amended by the Tax Reform Act of 1986 (Pub. L. 99–514), by striking out "plus" at end of cl. (i), substituting "plus" for "over" at end of cl. (ii), and adding cl. (iii).
 
-<b>1976</b>—Subsecs. (a), (b), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b), (d). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 1987 Amendment
 
@@ -91,4 +91,6 @@ Section applicable with respect to taxable years beginning after Dec. 31, 1967, 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
 For applicability of amendment by Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, see section 1012(aa)(2) of Pub. L. 100–647, set out as a note under section 861 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

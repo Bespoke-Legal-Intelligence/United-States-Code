@@ -46,7 +46,7 @@
 
 &emsp;(C) such temporary permits will be issued only with respect to injection wells in operation on the date on which such State's permit program approved under this part first takes effect and for which there was inadequate time to process its permit application; and
 
-&emsp;(D) the Administrator determines the temporary permits require the use of adequate safeguards established by rules adopted by him.
+&emsp;(D) the Administrator determines the temporary permits require the use of adequatesafeguards established by rules adopted by him.
 
 (2) The Administrator may, upon application of the Governor of a State which authorizes underground injection by means of permits, authorize such State to issue (without regard to subsection (b)(1)(B)(i) of this section), but after reasonable notice and hearing, one or more temporary permits each of which is applicable to a particular injection well and to the underground injection of a particular fluid and which may be effective until the expiration of four years after December 16, 1974, if the State finds, on the record of such hearing—
 
@@ -56,13 +56,13 @@
 
 &emsp;(C) that available technology or other means have been employed (and will be employed) to reduce the volume and toxicity of the fluid and to minimize the potentially adverse effect of the injection on the public health.
 
-#### (d) “Underground injection” defined; underground injection endangerment of drinking water sources
+#### (d) "Underground injection" defined; underground injection endangerment of drinking water sources
 
 For purposes of this part:
 
 &emsp;(1)
 
-Underground injection.—The term “underground injection”—
+Underground injection.—The term "underground injection"—
 
 &emsp;&emsp;(A) means the subsurface emplacement of fluids by well injection; and
 
@@ -82,13 +82,13 @@ Section 300j–6(b) of this title, referred to in subsec. (b)(1)(D), was repeale
 
 #### Amendments
 
-<b>2005</b>—Subsec. (d)(1). Pub. L. 109–58 inserted heading and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘underground injection’ means the subsurface emplacement of fluids by well injection. Such term does not include the underground injection of natural gas for purposes of storage.”
+<b>2005</b>—Subsec. (d)(1). Pub. L. 109–58 inserted heading and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'underground injection' means the subsurface emplacement of fluids by well injection. Such term does not include the underground injection of natural gas for purposes of storage."
 
-<b>1996</b>—Subsec. (b)(3)(B)(i). Pub. L. 104–182 substituted “number of States” for “number or States”.
+<b>1996</b>—Subsec. (b)(3)(B)(i). Pub. L. 104–182 substituted "number of States" for "number or States".
 
-<b>1986</b>—Subsec. (b)(2)(A). Pub. L. 99–339 inserted “or natural gas storage operations” after “production”.
+<b>1986</b>—Subsec. (b)(2)(A). Pub. L. 99–339 inserted "or natural gas storage operations" after "production".
 
-<b>1980</b>—Subsec. (b)(1)(A). Pub. L. 96–502, §4(c), substituted “effective on the date on which the applicable underground injection control program takes effect” for “effective three years after December 16, 1974”.
+<b>1980</b>—Subsec. (b)(1)(A). Pub. L. 96–502, §4(c), substituted "effective on the date on which the applicable underground injection control program takes effect" for "effective three years after December 16, 1974".
 
 Subsec. (d)(1). Pub. L. 96–502, §3, inserted provision that such term does not include the underground injection of natural gas for purposes of storage.
 

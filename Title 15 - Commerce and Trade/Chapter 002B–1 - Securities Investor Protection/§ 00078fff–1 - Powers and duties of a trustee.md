@@ -28,7 +28,7 @@ The trustee shall—
 
 &emsp;(1) as soon as practicable, investigate the acts, conduct, property, liabilities, and financial condition of the debtor, the operation of its business, and any other matter, to the extent relevant to the liquidation proceeding, and report thereon to the court;
 
-&emsp;(2) examine, by deposition or otherwise, the directors and officers of the debtor and any other witnesses concerning any of the matters referred to in paragraph (1);
+&emsp;(2) examine, by deposition or otherwise, the directors and officers of the debtor and anyother witnesses concerning any of the matters referred to in paragraph (1);
 
 &emsp;(3) report to the court any facts ascertained by the trustee with respect to fraud, misconduct, mismanagement, and irregularities, and to any causes of action available to the estate; and
 
@@ -42,11 +42,11 @@ A prior section 7 of Pub. L. 91–598 was renumbered section 11 and is classifie
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–598, §308(i), substituted “trustee in a case under title 11” for “trustee in bankruptcy under the Bankruptcy Act has with respect to a bankrupt and the property of a bankrupt”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–598, §308(i), substituted "trustee in a case under title 11" for "trustee in bankruptcy under the Bankruptcy Act has with respect to a bankrupt and the property of a bankrupt".
 
-Subsec. (b). Pub. L. 95–598, §308(j), substituted “trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7,” for “trustee in bankruptcy”.
+Subsec. (b). Pub. L. 95–598, §308(j), substituted "trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7," for "trustee in bankruptcy".
 
-Subsec. (c). Pub. L. 95–598, §308(k), substituted “required of a trustee in a case under chapter 7 of title 11” for “required by the Bankruptcy Act”.
+Subsec. (c). Pub. L. 95–598, §308(k), substituted "required of a trustee in a case under chapter 7 of title 11" for "required by the Bankruptcy Act".
 
 #### Effective Date of 1978 Amendment
 

@@ -56,7 +56,7 @@ Following issuance of an order establishing a spacing unit under subsection (f) 
 
 (1) Each pooling order issued under subsection (g) of this section shall provide for the establishment of an escrow account into which the payment of costs and proceeds attributable to the conflicting interests shall be deposited and held for the interest of the claimants as follows:
 
-&emsp;(A) Each participating working interest owner, except for the unit operator, shall deposit in the escrow account its proportionate share of the costs allocable to the ownership interest claimed by each such participating working interest owner as set forth in the pooling order issued by the Secretary of the Interior.
+&emsp;(A) Each participating working interest owner, except for the unit operator, shall deposit in the escrow account its proportionate share of the costs allocable to the ownership interest claimed by each such participating working interest owner as set forth in thepooling order issued by the Secretary of the Interior.
 
 &emsp;(B) The unit operator shall deposit in the escrow account all proceeds attributable to the conflicting interests of lessees, plus all proceeds in excess of ongoing operational expenses (including reasonable overhead costs) attributable to conflicting working interests.
 
@@ -96,7 +96,7 @@ No entity may drill any well for the production of coalbed methane gas from a co
 
 (4) The consent required under this subsection shall in no way be deemed to impair, abridge, or affect any contractual rights or objections arising out of a coalbed methane gas contract or coalbed methane gas lease in existence as of October 24, 1992,<sup>1</sup> between the coalbed methane operator and the coal operator, and the existence of such lease or contractual agreement and any extensions or renewals of such lease shall be deemed to fully meet the requirements of this section.
 
-(5) Nothing in this subsection precludes either a coal operator or a coalbed methane operator from seeking in the appropriate State forum compensation for the consequences of a determination by the Secretary of the Interior pursuant to paragraph (2).
+(5) Nothing in this subsection precludes either a coal operator or a coalbed methane operatorfrom seeking in the appropriate State forum compensation for the consequences of a determination by the Secretary of the Interior pursuant to paragraph (2).
 
 #### (k) Notice and objection
 
@@ -148,31 +148,31 @@ The Secretary of the Interior shall comply with all applicable Federal and State
 
 As used in this section—
 
-&emsp;(1) The term “Affected State” means a State listed by the Secretary of the Interior, with the participation of the Secretary of Energy, under subsection (b) of this section.
+&emsp;(1) The term "Affected State" means a State listed by the Secretary of the Interior, with the participation of the Secretary of Energy, under subsection (b) of this section.
 
-&emsp;(2) The term “coalbed methane gas” means occluded natural gas produced (or which may be produced) from coalbeds and rock strata associated therewith.
+&emsp;(2) The term "coalbed methane gas" means occluded natural gas produced (or which may be produced) from coalbeds and rock strata associated therewith.
 
-&emsp;(3) The term “unit operator” means the entity designated in a pooling order to develop a spacing unit by the drilling of one or more wells on the unit.
+&emsp;(3) The term "unit operator" means the entity designated in a pooling order to develop a spacing unit by the drilling of one or more wells on the unit.
 
-&emsp;(4) The term “nonparticipating working interest owner” means a gas or oil owner of a tract included in a spacing unit which elects to share in the operation of the well on a carried basis by agreeing to have its proportionate share of the costs allocable to its interest charged against its share of production of the well in accordance with subsection (f)(3) of this section.
+&emsp;(4) The term "nonparticipating working interest owner" means a gas or oil owner of a tract included in a spacing unit which elects to share in the operation of the well on a carried basis by agreeing to have its proportionate share of the costs allocable to its interest charged against its share of production of the well in accordance with subsection (f)(3) of this section.
 
-&emsp;(5) The term “participating working interest owner” means a gas or oil owner which elects to bear a share of the risks and costs of drilling, completing, equipping, gathering, operating (including any and all disposal costs) <sup>2</sup> plugging, and abandoning a well on a spacing unit and to receive a share of production from the well equal to the proportion which the acreage in the spacing unit it owns or holds under lease bears to the total acreage of the spacing unit.
+&emsp;(5) The term "participating working interest owner" means a gas or oil owner which elects to bear a share of the risks and costs of drilling, completing, equipping, gathering, operating (including any and all disposal costs) <sup>2</sup> plugging, and abandoning a well on a spacing unit and to receive a share of production from the well equal to the proportion which the acreage in the spacing unit it owns or holds under lease bears to the total acreage of the spacing unit.
 
-&emsp;(6) The term “coal seam” means any stratum of coal 20 inches or more in thickness, unless a stratum of less thickness is being commercially worked, or can in the judgment of the Secretary of the Interior forseeably <sup>3</sup> be commercially worked and will require protection if wells are being drilled through it.
+&emsp;(6) The term "coal seam" means any stratum of coal 20 inches or more in thickness, unless a stratum of less thickness is being commercially worked, or can in the judgment of the Secretary of the Interior forseeably <sup>3</sup> be commercially worked and will require protection if wells are being drilled through it.
 
 (Pub. L. 102–486, title XIII, §1339, Oct. 24, 1992, 106 Stat. 2986.)
 
 #### Codification
 
-October 24, 1992, referred to in subsec. (j)(4), was in the original “the effective date of this section”, which was translated as meaning the date of enactment of Pub. L. 102–486, which enacted this section.
+October 24, 1992, referred to in subsec. (j)(4), was in the original "the effective date of this section", which was translated as meaning the date of enactment of Pub. L. 102–486, which enacted this section.
 
 #### Federal Coalbed Methane Regulation
 
-Pub. L. 109–58, title III, §387, Aug. 8, 2005, 119 Stat. 744, provided that: “Any State currently on the list of Affected States established under section 1339(b) of the Energy Policy Act of 1992 (42 U.S.C. 13368(b)) shall be removed from the list if, not later than 3 years after the date of enactment of this Act \[Aug. 8, 2005\], the State takes, or prior to the date of enactment has taken, any of the actions required for removal from the list under such section 1339(b).”
+Pub. L. 109–58, title III, §387, Aug. 8, 2005, 119 Stat. 744, provided that: "Any State currently on the list of Affected States established under section 1339(b) of the Energy Policy Act of 1992 (42 U.S.C. 13368(b)) shall be removed from the list if, not later than 3 years after the date of enactment of this Act \[Aug. 8, 2005\], the State takes, or prior to the date of enactment has taken, any of the actions required for removal from the list under such section 1339(b)."
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “foreseeably”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "foreseeably".</i>
 

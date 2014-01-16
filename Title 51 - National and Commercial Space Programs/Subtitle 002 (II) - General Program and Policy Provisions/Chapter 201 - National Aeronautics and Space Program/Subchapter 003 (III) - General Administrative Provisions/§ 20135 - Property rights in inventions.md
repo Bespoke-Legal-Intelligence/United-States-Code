@@ -6,15 +6,15 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Contract.—The term “contract” means any actual or proposed contract, agreement, understanding, or other arrangement, and includes any assignment, substitution of parties, or subcontract executed or entered into thereunder.
+Contract.—The term "contract" means any actual or proposed contract, agreement, understanding, or other arrangement, and includes any assignment, substitution of parties, or subcontract executed or entered into thereunder.
 
 &emsp;(2)
 
-Made.—The term “made”, when used in relation to any invention, means the conception or first actual reduction to practice of such invention.
+Made.—The term "made", when used in relation to any invention, means the conception or first actual reduction to practice of such invention.
 
 &emsp;(3)
 
-Person.—The term “person” means any individual, partnership, corporation, association, institution, or other entity.
+Person.—The term "person" means any individual, partnership, corporation, association, institution, or other entity.
 
 (b)
 
@@ -38,7 +38,7 @@ Contract Provisions for Furnishing Reports of Inventions, Discoveries, Improveme
 
 (d)
 
-Patent Application.—No patent may be issued to any applicant other than the Administrator for any invention which appears to the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (hereafter in this section referred to as the “Director”) to have significant utility in the conduct of aeronautical and space activities unless the applicant files with the Director, with the application or within 30 days after request therefor by the Director, a written statement executed under oath setting forth the full facts concerning the circumstances under which the invention was made and stating the relationship (if any) of the invention to the performance of any work under any contract of the Administration. Copies of each such statement and the application to which it relates shall be transmitted forthwith by the Director to the Administrator.
+Patent Application.—No patent may be issued to any applicant other than the Administrator for any invention which appears to the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (hereafter in this section referred to as the "Director") to have significant utility in the conduct of aeronautical and space activities unless the applicant files with the Director, with the application or within 30 days after request therefor by the Director, a written statement executed under oath setting forth the full facts concerning the circumstances under which the invention was made and stating the relationship (if any) of the invention to the performance of any work under any contract of the Administration. Copies of each such statement and the application to which it relates shall be transmitted forthwith by the Director to the Administrator.
 
 (e)
 
@@ -88,9 +88,9 @@ Pub. L. 85–568, title III, §305, July 29, 1958, 72 Stat. 435; Pub. L. 96–51
 
 #### Amendments
 
-<b>2011</b>—Subsec. (e). Pub. L. 112–29 substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences” in two places and inserted “and derivation” after “established for interference”.
+<b>2011</b>—Subsec. (e). Pub. L. 112–29 substituted "Patent Trial and Appeal Board" for "Board of Patent Appeals and Interferences" in two places and inserted "and derivation" after "established for interference".
 
-Subsec. (f). Pub. L. 112–29, §7(d)(2)(A), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+Subsec. (f). Pub. L. 112–29, §7(d)(2)(A), substituted "Patent Trial and Appeal Board" for "Board of Patent Appeals and Interferences".
 
 #### Effective Date of 2011 Amendment
 

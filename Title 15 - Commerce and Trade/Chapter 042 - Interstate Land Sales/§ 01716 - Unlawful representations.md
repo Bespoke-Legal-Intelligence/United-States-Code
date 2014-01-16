@@ -6,7 +6,7 @@ The fact that a statement of record with respect to a subdivision has been filed
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Director” for “Secretary” in two places.
+<b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" in two places.
 
 #### Effective Date of 2010 Amendment
 

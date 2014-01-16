@@ -23,7 +23,7 @@
 | 262k–1. | Transparency of budgets. |
 | 262k–2. | Female genital mutilation. |
 | 262<i>l.</i> | Environmental reform measures and remedial measures; Committee on Health and the Environment. |
-| 262l–1. | Sustainable economic growth and management of natural resources; environmental impact of loans; pest management; addition of trained professionals; “early warning system”. |
+| 262l–1. | Sustainable economic growth and management of natural resources; environmental impact of loans; pest management; addition of trained professionals; "early warning system". |
 | 262l–2. | Sustainable use of natural resources; use of agricultural and industrial chemicals. |
 | 262l–3. | Environmental and energy initiatives; benchmarks; Global Warming Initiative; appropriations. |
 | [262m.](%C2%A7%2000262m%20-%20Congressional%20findings%20and%20policies%20for%20multilateral%20development%20banks%20respecting%20environment%2C%20public%20health%2C%20natural%20resources%2C%20and%E2%80%A6.md) | Congressional findings and policies for multilateral development banks respecting environment, public health, natural resources, and indigenous peoples. |
@@ -71,7 +71,7 @@
 | 262p–6. | Improvement of the Heavily Indebted Poor Countries Initiative. |
 | 262p–7. | Reform of the Enhanced Structural Adjustment Facility. |
 | 262p–8. | Modification of the Enhanced HIPC Initiative. |
-| 262p–9. | Reform of the “Doing Business” Report of the World Bank. |
+| 262p–9. | Reform of the "Doing Business" Report of the World Bank. |
 | 262p–10. | Enhancing the transparency and effectiveness of the Inspection Panel process of the World Bank. |
 | 262p–11. | Opposition to loans or funds for countries that support terrorism. |
 | 262p–12. | Cancellation of Haiti's debts to international financial institutions. |
@@ -97,7 +97,7 @@
 | [267b.](%C2%A7%2000267b%20-%20International%20Joint%20Commission%3B%20invitation%20to%20establish%3B%20personnel%3B%20duties.md) | International Joint Commission; invitation to establish; personnel; duties. |
 | [268\.](%C2%A7%2000268%20-%20International%20Joint%20Commission%3B%20salaries%3B%20powers.md) | International Joint Commission; salaries; powers. |
 | [268a.](%C2%A7%2000268a%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20650.md) | Repealed. |
-| [268b.](%C2%A7%2000268b%20-%20Advances%20from%20appropriation%20%E2%80%9CBoundary%20line%2C%20Alaska%20and%20Canada%2C%20and%20the%20United%20States%20and%20Canada%E2%80%9D.md) | Advances from appropriation “Boundary line, Alaska and Canada, and the United States and Canada”. |
+| [268b.](%C2%A7%2000268b%20-%20Advances%20from%20appropriation%20Boundary%20line%2C%20Alaska%20and%20Canada%2C%20and%20the%20United%20States%20and%20Canada.md) | Advances from appropriation "Boundary line, Alaska and Canada, and the United States and Canada". |
 | [268c.](%C2%A7%2000268c%20-%20Limitation%20on%20expenditure%20of%20funds%20for%20compensation%20of%20International%20Boundary%20Commissioner%20to%20actual%20hours%20worked.md) | Limitation on expenditure of funds for compensation of International Boundary Commissioner to actual hours worked. |
 | [269\.](%C2%A7%2000269%20-%20Permanent%20International%20Association%20of%20Road%20Congresses%3B%20authorization%20of%20membership.md) | Permanent International Association of Road Congresses; authorization of membership. |
 | [269a.](%C2%A7%2000269a%20-%20Central%20Bureau%20of%20the%20International%20Map%20of%20the%20World%20on%20the%20Millionth%20Scale%3B%20authorization%20of%20appropriations.md) | Central Bureau of the International Map of the World on the Millionth Scale; authorization of appropriations. |
@@ -120,7 +120,7 @@
 | [274b.](%C2%A7%2000274b%20-%20Cooperation%20of%20Federal%20and%20non-Federal%20departments%2C%20agencies%2C%20and%20organizations%3B%20transfers%20of%20funds.md) | Cooperation of Federal and non-Federal departments, agencies, and organizations; transfers of funds. |
 | [275\.](%C2%A7%2000275%20-%20International%20Hydrographic%20Bureau.md) | International Hydrographic Bureau. |
 | [275a.](%C2%A7%2000275a%20-%20Permanent%20International%20Commission%20of%20the%20Congresses%20of%20Navigation%3B%20authorization%20of%20appropriations.md) | Permanent International Commission of the Congresses of Navigation; authorization of appropriations. |
-| 276a to 276b. Repealed. |  |
+| 276 to 276b. Repealed. |  |
 | [276c.](%C2%A7%2000276c%20-%20Designation%20of%20Senate%20delegates%20to%20Conferences%20of%20the%20Interparliamentary%20Union.md) | Designation of Senate delegates to Conferences of the Interparliamentary Union. |
 | 276c–1. | Reports of expenditures by members of American groups or delegations and employees; consolidated reports by congressional committees; public inspection. |
 | 276c–2. | Employee benefits for United States citizen-representatives to international financial institutions; Treasury Department as collecting, accounting, and depositing agency for employee payments; contributions from appropriated funds. |
@@ -232,7 +232,7 @@
 | 277d–18. | Construction, operation, and maintenance of works; Bridge of the Americas. |
 | 277d–19. | Compensation of owners and tenants to prevent economic injury; regulations. |
 | 277d–20. | Limitation on application for reimbursement or compensation. |
-| 277d–21. | Attorneys’ fees; penalties. |
+| 277d–21. | Attorneys' fees; penalties. |
 | 277d–22. | Prohibition against duplicate payments; eligibility for payments unaffected by means employed for acquisition of property; rights and powers unaffected. |
 | 277d–23. | Taxation; exclusion from gross income. |
 | 277d–24. | Definitions; exemption from administrative procedure provisions. |
@@ -592,7 +592,7 @@
 | [287h.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287h%20-%20Limitation%20on%20loan.md) | Limitation on loan. |
 | [287i.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287i%20-%20Deduction%20of%20principal%20and%20interest%20from%20annual%20payment%20of%20assessed%20share%20of%20United%20States%20of%20budget.md) | Deduction of principal and interest from annual payment of assessed share of United States of budget. |
 | [287j.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287j%20-%20Participation%20in%20future%20United%20Nations%20borrowing%3B%20promotion%20of%20pattern%20of%20financing%20to%20avoid%20future%20large-scale%20deficits%3B%20report%20to%E2%80%A6.md) | Participation in future United Nations borrowing; promotion of pattern of financing to avoid future large-scale deficits; report to Congress. |
-| [287k.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287k%20-%20Congressional%20expression%20of%20satisfaction%20that%20expenditures%20relating%20to%20operations%20in%20Middle%20East%20and%20in%20the%20Congo%20are%20%E2%80%9Cexpenses%20of%20the%E2%80%A6.md) | Congressional expression of satisfaction that expenditures relating to operations in Middle East and in the Congo are “expenses of the Organization”. |
+| [287k.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287k%20-%20Congressional%20expression%20of%20satisfaction%20that%20expenditures%20relating%20to%20operations%20in%20Middle%20East%20and%20in%20the%20Congo%20are%20expenses%20of%20the%E2%80%A6.md) | Congressional expression of satisfaction that expenditures relating to operations in Middle East and in the Congo are "expenses of the Organization". |
 | 287<i>l.</i> | Congressional declaration that United Nations take steps to give effect to advisory opinion of International Court of Justice on financial obligations of members. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -616,7 +616,7 @@
 
 |  |  |
 | :--- | ---: |
-| [288\.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288%20-%20%E2%80%9CInternational%20organization%E2%80%9D%20defined%3B%20authority%20of%20President.md) | “International organization” defined; authority of President. |
+| [288\.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288%20-%20International%20organization%20defined%3B%20authority%20of%20President.md) | "International organization" defined; authority of President. |
 | [288a.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288a%20-%20Privileges%2C%20exemptions%2C%20and%20immunities%20of%20international%20organizations.md) | Privileges, exemptions, and immunities of international organizations. |
 | [288b.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288b%20-%20Baggage%20and%20effects%20of%20officers%20and%20employees%20exempted%20from%20customs%20duties%20and%20internal%20revenue%20taxes.md) | Baggage and effects of officers and employees exempted from customs duties and internal revenue taxes. |
 | [288c.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288c%20-%20Exemption%20from%20property%20taxes.md) | Exemption from property taxes. |
@@ -790,7 +790,7 @@
 | [290m.](Subchapter%20028%20%28XXVIII%29%20-%20North%20American%20Development%20Bank%20and%20Related%20Provisions/%C2%A7%2000290m%20-%20North%20American%20Development%20Bank.md) | North American Development Bank. |
 | 290m–1. | Status, immunities, and privileges. |
 | 290m–2. | Community adjustment and investment program. |
-| 290m–3. | “Border Environment Cooperation Agreement” defined. |
+| 290m–3. | "Border Environment Cooperation Agreement" defined. |
 | 290m–4. | Authority to agree to certain amendments to the Border Environment Cooperation Agreement. |
 | 290m–5. | Grants out of paid-in capital resources. |
 | 290m–6. | Annual report. |
@@ -831,6 +831,14 @@
 |  |  |
 | :--- | ---: |
 | [290p.](Subchapter%20031%20%28XXXI%29%20-%20International%20Renewable%20Energy%20Agency/%C2%A7%2000290p%20-%20Acceptance%20of%20statute%20and%20membership.md) | Acceptance of statute and membership. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XXXII—ORGANIZATION OF AMERICAN STATES
+
+|  |  |
+| :--- | ---: |
+| [290q.](Subchapter%20032%20%28XXXII%29%20-%20Organization%20of%20American%20States/%C2%A7%2000290q%20-%20Organization%20of%20American%20States%20revitalization%20and%20reform%20strategy.md) | Organization of American States revitalization and reform strategy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -908,7 +916,7 @@
 - [&sect; 00262p&#8211;6 - Improvement of the Heavily Indebted Poor Countries Initiative](%C2%A7%2000262p%E2%80%936%20-%20Improvement%20of%20the%20Heavily%20Indebted%20Poor%20Countries%20Initiative.md)
 - [&sect; 00262p&#8211;7 - Reform of the Enhanced Structural Adjustment Facility](%C2%A7%2000262p%E2%80%937%20-%20Reform%20of%20the%20Enhanced%20Structural%20Adjustment%20Facility.md)
 - [&sect; 00262p&#8211;8 - Modification of the Enhanced HIPC Initiative](%C2%A7%2000262p%E2%80%938%20-%20Modification%20of%20the%20Enhanced%20HIPC%20Initiative.md)
-- [&sect; 00262p&#8211;9 - Reform of the &#8220;Doing Business&#8221; Report of the World Bank](%C2%A7%2000262p%E2%80%939%20-%20Reform%20of%20the%20%E2%80%9CDoing%20Business%E2%80%9D%20Report%20of%20the%20World%20Bank.md)
+- [&sect; 00262p&#8211;9 - Reform of the Doing Business Report of the World Bank](%C2%A7%2000262p%E2%80%939%20-%20Reform%20of%20the%20Doing%20Business%20Report%20of%20the%20World%20Bank.md)
 - [&sect; 00262p&#8211;10 - Enhancing the transparency and effectiveness of the Inspection Panel process of the World Bank](%C2%A7%2000262p%E2%80%9310%20-%20Enhancing%20the%20transparency%20and%20effectiveness%20of%20the%20Inspection%20Panel%20process%20of%20the%20World%20Bank.md)
 - [&sect; 00262p&#8211;11 - Opposition to loans or funds for countries that support terrorism](%C2%A7%2000262p%E2%80%9311%20-%20Opposition%20to%20loans%20or%20funds%20for%20countries%20that%20support%20terrorism.md)
 - [&sect; 00262p&#8211;12 - Cancellation of Haiti's debts to international financial institutions](%C2%A7%2000262p%E2%80%9312%20-%20Cancellation%20of%20Haiti%27s%20debts%20to%20international%20financial%20institutions.md)
@@ -935,7 +943,7 @@
 - [&sect; 00267b - International Joint Commission; invitation to establish; personnel; duties](%C2%A7%2000267b%20-%20International%20Joint%20Commission%3B%20invitation%20to%20establish%3B%20personnel%3B%20duties.md)
 - [&sect; 00268 - International Joint Commission; salaries; powers](%C2%A7%2000268%20-%20International%20Joint%20Commission%3B%20salaries%3B%20powers.md)
 - [&sect; 00268a - Repealed. Pub. L. 89&#8211;554, &sect;8(a), Sept. 6, 1966, 80 Stat. 650](%C2%A7%2000268a%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20650.md)
-- [&sect; 00268b - Advances from appropriation &#8220;Boundary line, Alaska and Canada, and the United States and Canada&#8221;](%C2%A7%2000268b%20-%20Advances%20from%20appropriation%20%E2%80%9CBoundary%20line%2C%20Alaska%20and%20Canada%2C%20and%20the%20United%20States%20and%20Canada%E2%80%9D.md)
+- [&sect; 00268b - Advances from appropriation Boundary line, Alaska and Canada, and the United States and Canada](%C2%A7%2000268b%20-%20Advances%20from%20appropriation%20Boundary%20line%2C%20Alaska%20and%20Canada%2C%20and%20the%20United%20States%20and%20Canada.md)
 - [&sect; 00268c - Limitation on expenditure of funds for compensation of International Boundary Commissioner to actual hours worked](%C2%A7%2000268c%20-%20Limitation%20on%20expenditure%20of%20funds%20for%20compensation%20of%20International%20Boundary%20Commissioner%20to%20actual%20hours%20worked.md)
 - [&sect; 00269 - Permanent International Association of Road Congresses; authorization of membership](%C2%A7%2000269%20-%20Permanent%20International%20Association%20of%20Road%20Congresses%3B%20authorization%20of%20membership.md)
 - [&sect; 00269a - Central Bureau of the International Map of the World on the Millionth Scale; authorization of appropriations](%C2%A7%2000269a%20-%20Central%20Bureau%20of%20the%20International%20Map%20of%20the%20World%20on%20the%20Millionth%20Scale%3B%20authorization%20of%20appropriations.md)
@@ -1002,3 +1010,4 @@
 - [Subchapter 029 (XXIX) - United States-Mexico Border Health Commission](Subchapter%20029%20%28XXIX%29%20-%20United%20States-Mexico%20Border%20Health%20Commission/README.md)
 - [Subchapter 030 (XXX) - Middle East Development Bank](Subchapter%20030%20%28XXX%29%20-%20Middle%20East%20Development%20Bank/README.md)
 - [Subchapter 031 (XXXI) - International Renewable Energy Agency](Subchapter%20031%20%28XXXI%29%20-%20International%20Renewable%20Energy%20Agency/README.md)
+- [Subchapter 032 (XXXII) - Organization of American States](Subchapter%20032%20%28XXXII%29%20-%20Organization%20of%20American%20States/README.md)

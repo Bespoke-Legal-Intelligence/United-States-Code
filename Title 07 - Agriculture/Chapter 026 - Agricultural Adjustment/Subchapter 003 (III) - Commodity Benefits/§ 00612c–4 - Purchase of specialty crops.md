@@ -10,7 +10,7 @@ The Secretary of Agriculture shall purchase fresh fruits and vegetables for dist
 
 #### (c) Definitions
 
-In this section, the terms “fruits”, “vegetables”, and “other specialty food crops” shall have the meaning given the terms by the Secretary of Agriculture.
+In this section, the terms "fruits", "vegetables", and "other specialty food crops" shall have the meaning given the terms by the Secretary of Agriculture.
 
 (Pub. L. 107–171, title X, §10603, May 13, 2002, 116 Stat. 511; Pub. L. 110–234, title IV, §4404(c), May 22, 2008, 122 Stat. 1138; Pub. L. 110–246, §4(a), title IV, §4404(c), June 18, 2008, 122 Stat. 1664, 1899.)
 

@@ -12,9 +12,9 @@
 
 (d) In this section:
 
-&emsp;(1) The term “dependent” has the meaning given that term in section 551 of title 37.
+&emsp;(1) The term "dependent" has the meaning given that term in section 551 of title 37.
 
-&emsp;(2) The term “Secretary concerned” has the meaning given that term in section 101 of that title.
+&emsp;(2) The term "Secretary concerned" has the meaning given that term in section 101 of that title.
 
 (Added Pub. L. 99–399, title VIII, §806(b)(1), Aug. 27, 1986, 100 Stat. 885, §1051; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(25), Nov. 14, 1986, 100 Stat. 3994; renumbered §1032 and amended Pub. L. 100–26, §§3(8), 7(e)(1)(A), Apr. 21, 1987, 101 Stat. 274, 281; Pub. L. 101–189, div. A, title XVI, §1622(e)(2), Nov. 29, 1989, 103 Stat. 1605.)
 
@@ -24,15 +24,15 @@ A prior section 1032, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, provided that a
 
 #### Amendments
 
-<b>1989</b>—Subsec. (d)(1). Pub. L. 101–189, §1622(e)(2)(A), substituted “The term ‘dependent’ has” for “ ‘Dependent’ has”.
+<b>1989</b>—Subsec. (d)(1). Pub. L. 101–189, §1622(e)(2)(A), substituted "The term 'dependent' has" for " 'Dependent' has".
 
-Subsec. (d)(2). Pub. L. 101–189, §1622(e)(2)(B), inserted “The term” after “(2)”.
+Subsec. (d)(2). Pub. L. 101–189, §1622(e)(2)(B), inserted "The term" after "(2)".
 
 <b>1987</b>—Pub. L. 100–26, §7(e)(1)(A), renumbered the second section 1051 of this title as this section.
 
 Subsec. (d)(1), (2). Pub. L. 100–26, §3(8), amended directory language of Pub. L. 99–661. See 1986 Amendment note below.
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–661, §1343(a)(25), as amended by Pub. L. 100–26, §3(8), substituted “title 37” for “that title” in par. (1), and “has the meaning given that term” for “and ‘uniformed services’ have the meanings given those terms” in par. (2).
+<b>1986</b>—Subsec. (d). Pub. L. 99–661, §1343(a)(25), as amended by Pub. L. 100–26, §3(8), substituted "title 37" for "that title" in par. (1), and "has the meaning given that term" for "and 'uniformed services' have the meanings given those terms" in par. (2).
 
 #### Effective Date of 1987 Amendment
 
@@ -40,9 +40,9 @@ Amendment by section 3(8) of Pub. L. 100–26 applicable as if included in Pub. 
 
 #### Effective Date
 
-Pub. L. 99–399, title VIII, §806(b)(3), Aug. 27, 1986, 100 Stat. 886, provided that: “Section 1051 \[now 1032\] of title 10, United States Code, as added by paragraph (1), shall apply with respect to any disability or death resulting from an injury that occurs after January 21, 1981.”
+Pub. L. 99–399, title VIII, §806(b)(3), Aug. 27, 1986, 100 Stat. 886, provided that: "Section 1051 \[now 1032\] of title 10, United States Code, as added by paragraph (1), shall apply with respect to any disability or death resulting from an injury that occurs after January 21, 1981."
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense, see section 4 of Ex. Ord. No.12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
+Functions of President under this section delegated to Secretary of Defense, see section 4 of Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
 

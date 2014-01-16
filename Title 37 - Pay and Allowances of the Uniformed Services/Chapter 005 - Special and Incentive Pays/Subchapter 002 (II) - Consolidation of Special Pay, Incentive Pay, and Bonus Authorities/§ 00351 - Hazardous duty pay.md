@@ -46,7 +46,7 @@ Administration and Retroactive Payments.—The effective date for the designatio
 
 (e)
 
-Determination of Fact.—Any determination of fact that is made in connection with determining whether a triggering event has occurred for the provision of hazardous duty pay under subsection (a)(1) is conclusive. The determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the Secretary concerned may change the determination on the basis of new evidence or for other good cause.
+Determination of Fact.—Any determination of fact that is made in connection with determining whether a triggering event has occurred for the provision of hazardous duty payunder subsection (a)(1) is conclusive. The determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the Secretary concerned may change the determination on the basis of new evidence or for other good cause.
 
 (f)
 
@@ -66,27 +66,29 @@ Prohibition on Variable Rates.—The regulations prescribed to administer this s
 
 (h)
 
-Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2013.
+Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2014.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(6), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §§614(6), 616(b), Dec. 31, 2011, 125 Stat. 1450, 1451; Pub. L. 112–239, div. A, title VI, §614(6), Jan. 2, 2013, 126 Stat. 1777.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(6), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §§614(6), 616(b), Dec. 31, 2011, 125 Stat. 1450, 1451; Pub. L. 112–239, div. A, title VI, §614(6), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(6), Dec. 26, 2013, 127 Stat. 781.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (h). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+<b>2013</b>—Subsec. (h). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
-<b>2011</b>—Subsec. (c)(2). Pub. L. 112–81, §616(b), substituted “receipt of hazardous duty pay—” for “receipt of hazardous duty pay, the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.” and added subpars. (A) and (B).
+Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-Subsec. (h). Pub. L. 112–81, §614(6), substituted “December 31, 2012” for “December 31, 2011”.
+<b>2011</b>—Subsec. (c)(2). Pub. L. 112–81, §616(b), substituted "receipt of hazardous duty pay—" for "receipt of hazardous duty pay, the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month." and added subpars. (A) and (B).
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+Subsec. (h). Pub. L. 112–81, §614(6), substituted "December 31, 2012" for "December 31, 2011".
+
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
 <b>2009</b>—Subsecs. (c) to (h). Pub. L. 111–84, §618(b), added subsec. (c), redesignated former subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsecs. (c) and (d), which related to method of payment and reserve component members performing inactive duty training.
 
 Subsec. (i). Pub. L. 111–84, §618(b)(1), redesignated subsec. (i) as (h).
 
-Pub. L. 111–84, §614(6), substituted “December 31, 2010” for “December 31, 2009”.
+Pub. L. 111–84, §614(6), substituted "December 31, 2010" for "December 31, 2009".
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–417, §618(d), substituted “paragraph (1) or (3) of subsection (a)” for “subsection (a)”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–417, §618(d), substituted "paragraph (1) or (3) of subsection (a)" for "subsection (a)".
 
-Subsec. (f). Pub. L. 110–417, §618(e), substituted “in connection with determining whether a triggering event has occurred for the provision of hazardous duty pay under subsection (a)(1)” for “in administering subsection (a)” and struck out at end “The regulations prescribed to administer this section shall define the activities that are considered hazardous for purposes of subsection (a)(2).”
+Subsec. (f). Pub. L. 110–417, §618(e), substituted "in connection with determining whether a triggering event has occurred for the provision of hazardous duty pay under subsection (a)(1)" for "in administering subsection (a)" and struck out at end "The regulations prescribed to administer this section shall define the activities that are considered hazardous for purposes of subsection (a)(2)."
 

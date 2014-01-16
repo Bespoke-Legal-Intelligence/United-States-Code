@@ -20,5 +20,5 @@ As additional information becomes available, the President shall provide to the 
 
 Functions of President under this subchapter relating to reports to Congress delegated to Coordinator of the SEED Program by section 1 of Ex. Ord. No. 12703, Feb. 20, 1990, 55 F.R. 6351, set out as a note under section 5401 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

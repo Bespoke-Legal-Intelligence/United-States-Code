@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 90–264, title I, §120, as added Pub. L. 105–178, title I, §1211(b), June 9, 1998, 112 Stat. 188.
 
-The words “or their designees” are omitted because of 49:322(b).
+The words "or their designees" are omitted because of 49:322(b).
 

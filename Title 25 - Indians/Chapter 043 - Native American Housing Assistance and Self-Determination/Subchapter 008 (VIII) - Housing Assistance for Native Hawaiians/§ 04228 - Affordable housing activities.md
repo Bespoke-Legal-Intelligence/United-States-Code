@@ -40,7 +40,7 @@
 
 #### (ii) Limitations
 
-&emsp;&emsp;&emsp;The Secretary shall establish limitations on the amount of assistance that may beprovided under this subchapter for activities for families that are not low-income families.
+&emsp;&emsp;&emsp;The Secretary shall establish limitations on the amount of assistance that may be provided under this subchapter for activities for families that are not low-income families.
 
 #### (C) Other families
 

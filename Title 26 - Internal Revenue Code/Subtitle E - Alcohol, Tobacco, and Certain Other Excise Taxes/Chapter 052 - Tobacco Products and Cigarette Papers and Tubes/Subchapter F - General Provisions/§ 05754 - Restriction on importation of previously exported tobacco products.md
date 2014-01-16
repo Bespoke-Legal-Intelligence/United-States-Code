@@ -38,19 +38,19 @@ For purposes of this section, an article is labeled for export or contains an ex
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c)(1). Pub. L. 109–432 substituted “5761(d)” for “5761(c)”.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–432 substituted "5761(d)" for "5761(c)".
 
 <b>2000</b>—Pub. L. 106–476 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
-“(a)
+"(a)
 
 In General.—Tobacco products and cigarette papers and tubes previously exported from the United States may be imported or brought into the United States only as provided in section 5704(d). For purposes of this section, section 5704(d), section 5761, and such other provisions as the Secretary may specify by regulations, references to exportation shall be treated as including a reference to shipment to the Commonwealth of Puerto Rico.
 
-“(b)
+"(b)
 
 Cross Reference.—
 
-&emsp;<b>“For penalty for the sale of tobacco products and cigarette papers and tubes in the United States which are labeled for export, see section 5761(c).”</b>
+&emsp;<b>"For penalty for the sale of tobacco products and cigarette papers and tubes in the United States which are labeled for export, see section 5761(c)."</b>
 
 #### Effective Date of 2006 Amendment
 

@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;A poultry growing arrangement or swine production contract shall contain on the first page a statement identified as “Additional Capital Investments Disclosure Statement”, which shall conspicuously state that additional large capital investments may be required of the poultry grower or swine production contract grower during the term of the poultry growing arrangement or swine production contract.
+&emsp;A poultry growing arrangement or swine production contract shall contain on the first page a statement identified as "Additional Capital Investments Disclosure Statement", which shall conspicuously state that additional large capital investments may be required of the poultry grower or swine production contract grower during the term of the poultry growing arrangement or swine production contract.
 
 #### (2) Application
 

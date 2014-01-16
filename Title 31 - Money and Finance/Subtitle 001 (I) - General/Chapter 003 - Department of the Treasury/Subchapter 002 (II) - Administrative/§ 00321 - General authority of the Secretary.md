@@ -50,7 +50,7 @@
 
 &emsp;(6) buy arms and ammunition required by officers and employees of the Department in carrying out their duties and powers; and
 
-&emsp;(7) notwithstanding any other provision of law, fulfill any requirement to issue a report on the financial condition of any fund on the books of the Treasury by including the required information in a consolidated report, except that information with respect to a specific fund shall be separately reported if theSecretary determines that the consolidation of such information would result in an unwarranted delay in the availability of such information.
+&emsp;(7) notwithstanding any other provision of law, fulfill any requirement to issue a report on the financial condition of any fund on the books of the Treasury by including the required information in a consolidated report, except that information with respect to a specific fund shall be separately reported if the Secretary determines that the consolidation of such information would result in an unwarranted delay in the availability of such information.
 
 (c) Duties and powers of officers and employees of the Department are vested in the Secretary except duties and powers—
 
@@ -90,7 +90,7 @@ R.S. §248(less words between 4th and 5th semicolons).
 
 31:427.
 
-R.S. §251(words after “Treasury” and before “shall prescribe forms of entries”).
+R.S. §251(words after "Treasury" and before "shall prescribe forms of entries").
 
 321(a)(6)
 
@@ -160,13 +160,13 @@ Reorg. Plan No. 26 of 1950, eff. July 31, 1950, §§2, 4, 64 Stat. 1281.
 
 31:1017.
 
-June 12, 1917, ch. 27, §1(4th par. under heading “Miscellaneous Objects, Treasury Department”), 40 Stat. 118; Mar. 4, 1921, ch. 161, §1(1st par. under heading “Miscellaneous Objects, Treasury Department”), 41 Stat. 1374.
+June 12, 1917, ch. 27, §1(4th par. under heading "Miscellaneous Objects, Treasury Department"), 40 Stat. 118; Mar. 4, 1921, ch. 161, §1(1st par. under heading "Miscellaneous Objects, Treasury Department"), 41 Stat. 1374.
 
 321(b)(5)
 
 31:486.
 
-Apr. 28, 1904, ch. 1762, §1(proviso immediately before heading “Revenue-Cutter Service”), 33 Stat. 460.
+Apr. 28, 1904, ch. 1762, §1(proviso immediately before heading "Revenue-Cutter Service"), 33 Stat. 460.
 
 321(b)(6)
 
@@ -182,41 +182,41 @@ Reorg. Plan No. 26 of 1950, eff. July 31, 1950, §1(a), (b), 64 Stat. 1280.
 
 In subsection (a)(1)–(3), the words between the 2d and 3d semicolons are omitted as superseded by section 3512 of the revised title.
 
-In subsection (a)(1), the word “digest” is omitted as being included in “prepare”. The word “receipts” is substituted for “revenue”, and the words “managing the public debt” are substituted for “for the support of the public credit”, for consistency in the revised title.
+In subsection (a)(1), the word "digest" is omitted as being included in "prepare". The word "receipts" is substituted for "revenue", and the words "managing the public debt" are substituted for "for the support of the public credit", for consistency in the revised title.
 
-In subsection (a)(2), the words “carry out” are substituted for “generally shall perform” for consistency in the revised title and with other titles of the United States Code. The words “that the Secretary is required” are substituted for “as he shall be directed” because of the restatement.
+In subsection (a)(2), the words "carry out" are substituted for "generally shall perform" for consistency in the revised title and with other titles of the United States Code. The words "that the Secretary is required" are substituted for "as he shall be directed" because of the restatement.
 
-In subsection (a)(3), the word “issue” is substituted for “shall grant” for consistency. The words “under limitations herein established or to be provided” are omitted as unnecessary. The word “consistent” is substituted for “in pursuance of”, and the words “by law” are omitted, for consistency.
+In subsection (a)(3), the word "issue" is substituted for "shall grant" for consistency. The words "under limitations herein established or to be provided" are omitted as unnecessary. The word "consistent" is substituted for "in pursuance of", and the words "by law" are omitted, for consistency.
 
 Subsection (a)(4) is included to reflect all the major duties of the Secretary of the Treasury. See chapter 51 of the revised title.
 
-In subsection (a)(5), before subclause (A), the words “prescribe regulations” are substituted for “make and issue from time to time such instructions and regulations” for consistency in the revised title and to eliminate unnecessary words. The words “applicable to anyone” are substituted for “to the several collectors, receivers, depositaries, officers, and others” for clarity and to eliminate unnecessary words. In subclause (A), the words “for the Government” are inserted because section 8 of the Act of June 30, 1864 (ch. 172, 13 Stat. 221), from which section 251 of the Revised Statutes is derived, used the phrase “in behalf of the United States”. In subclause (B), the words “those notes and securities” are substituted for “the same” for clarity.
+In subsection (a)(5), before subclause (A), the words "prescribe regulations" are substituted for "make and issue from time to time such instructions and regulations" for consistency in the revised title and to eliminate unnecessary words. The words "applicable to anyone" are substituted for "to the several collectors, receivers, depositaries, officers, and others" for clarity and to eliminate unnecessary words. In subclause (A), the words "for the Government" are inserted because section 8 of the Act of June 30, 1864 (ch. 172, 13 Stat. 221), from which section 251 of the Revised Statutes is derived, used the phrase "in behalf of the UnitedStates". In subclause (B), the words "those notes and securities" are substituted for "the same" for clarity.
 
-In subsection (a)(6), the word “collect” is substituted for “superintend the collection” because of the source provisions restated in section 321(c) of the revised title. The word “receipts” is substituted for “revenue” for consistency in the revised title.
+In subsection (a)(6), the word "collect" is substituted for "superintend the collection" because of the source provisions restated in section 321(c) of the revised title. The word "receipts" is substituted for "revenue" for consistency in the revised title.
 
-In subsection (a)(7), the words “Secretary of the Treasury” are substituted for “General Counsel of the Department of the Treasury, under the direction of the Secretary of the Treasury” because of the source provisions restated in subsection (c) of this section. The words “with a view to prosecuting persons” are substituted for “for the prosecution of persons charged with the commission thereof” for clarity. The words “take steps to discover fraud and attempted fraud” are substituted for “take cognizance of all frauds or attempted frauds” for clarity. The words “involving receipts” are substituted for “upon the revenue” for consistency in the revised title. The words “decide on ways to prevent and detect fraud” are substituted for “exercise a general supervision over the measures for their prevention and detection” for clarity and to eliminate unnecessary words.
+In subsection (a)(7), the words "Secretary of the Treasury" are substituted for "General Counsel of the Department of the Treasury, under the direction of the Secretary of the Treasury" because of the source provisions restated in subsection (c) of this section. The words "with a view to prosecuting persons" are substituted for "for the prosecution of persons charged with the commission thereof" for clarity. The words "take steps to discover fraud and attempted fraud" are substituted for "take cognizance of all frauds or attempted frauds" for clarity. The words "involving receipts" are substituted for "upon the revenue" for consistency in the revised title. The words "decide on ways to prevent and detect fraud" are substituted for "exercise a general supervision over the measures for their prevention and detection" for clarity and to eliminate unnecessary words.
 
-In subsection (a)(8), before subclause (A), the word “maintain” is substituted for “shall be kept” for consistency. The words “all moneys” and “internal” are omitted as unnecessary because of the restatement. The words “duties or” are omitted as being included in “taxes”. The word “possession” is added for consistency in the revised title and with other titles of the Code. The word “listing” is substituted for “so as to exhibit, as far as may be” for clarity and to eliminate unnecessary words. In subclause (A), the word “kind” is substituted for “species” for consistency. The words “that shall accrue” are omitted as surplus. In subclause (B), the words “each tax” are substituted for “each source of revenue” for clarity. In subclause (C), the word “pay” is substituted for “compensation” for consistency. The words “officers and employees” are substituted for “collectors and deputy collectors, inspectors, and other officers” for consistency and to eliminate unnecessary words.
+In subsection (a)(8), before subclause (A), the word "maintain" is substituted for "shall be kept" for consistency. The words "all moneys" and "internal" are omitted as unnecessary because of the restatement. The words "duties or" are omitted as being included in "taxes". The word "possession" is added for consistency in the revised title and with other titles of the Code. The word "listing" is substituted for "so as to exhibit, as far as may be" for clarity and to eliminate unnecessary words. In subclause (A), the word "kind" is substituted for "species" for consistency. The words "that shall accrue" are omitted as surplus. In subclause (B), the words "each tax" are substituted for "each source of revenue" for clarity. In subclause (C), the word "pay" is substituted for "compensation" for consistency. The words "officers and employees" are substituted for "collectors and deputy collectors, inspectors, and other officers" for consistency and to eliminate unnecessary words.
 
 Subsection (b)(1) is included as a general statement of the authority of the Secretary of the Treasury to prescribe regulations to avoid repeating each time specific authority of the Secretary to carry out certain provisions of law.
 
-In subsection (b)(2), the words “make such provisions” in 31:1001(note) are omitted as unnecessary. The words “or by any agency” are omitted and the words “duties and powers” are substituted for “function”, for consistency in the revised title and with other titles of the Code. The words “including any function transferred to the Secretary by the provisions of this reorganization plan” are omitted as executed.
+In subsection (b)(2), the words "make such provisions" in 31:1001(note) are omitted as unnecessary. The words "or by any agency" are omitted and the words "duties and powers" are substituted for "function", for consistency in the revised title and with other titles of the Code. The words "including any function transferred to the Secretary by the provisions of this reorganization plan" are omitted as executed.
 
-In subsection (b)(3), the word “effect ” is omitted as unnecessary. The words “(available or to be made available)” are omitted as surplus. The words “delegation made under clause (2) of this subsection” are substituted for “provisions of this reorganization plan” because the only provision of Reorganization Plan No. 26 of 1950 (eff. July 31, 1950, 64 Stat. 1281) that continues to have legal effect is section 2 that is restated in clause (2).
+In subsection (b)(3), the word "effect " is omitted as unnecessary. The words "(available or to be made available)" are omitted as surplus. The words "delegation made under clause (2) of this subsection" are substituted for "provisions of this reorganization plan" because the only provision of Reorganization Plan No. 26 of 1950 (eff. July 31, 1950, 64 Stat. 1281) that continues to have legal effect is section 2 that is restated in clause (2).
 
-In subsection (b)(4), before subclause (A), the word “detail” is substituted for “to use for, and in connection with” to eliminate unnecessary words. The words “in addition to details authorized under another law” are substituted for 31:1017(last sentence) to eliminate unnecessary words and because subsequent laws would also provide additional authority to detail. The words “and the several branches of the public service under its control” are omitted as being included in “Department”. The words “officers and employees” are substituted for “persons” for clarity and consistency in the revised title. In subclause (B), the words “agents or from the appropriation for the foregoing purpose” are omitted as unnecessary because of the restatement.
+In subsection (b)(4), before subclause (A), the word "detail" is substituted for "to use for, and in connection with" to eliminate unnecessary words. The words "in addition to details authorized under another law" are substituted for 31:1017(last sentence) to eliminate unnecessary words and because subsequent laws would also provide additional authority to detail. The words "and the several branches of the public service under its control" are omitted as being included in "Department". The words "officers and employees" are substituted for "persons" for clarity and consistency in the revised title. In subclause (B), the words "agents or from the appropriation for the foregoing purpose" are omitted as unnecessary because of the restatement.
 
-In subsection (b)(5), the words “the proceeds thereof to be accounted for and paid into the Treasury of the United States” are omitted as unnecessary because of section 3302 of the revised title.
+In subsection (b)(5), the words "the proceeds thereof to be accounted for and paid into the Treasury of the United States" are omitted as unnecessary because of section 3302 of the revised title.
 
-In subsection (b)(6), the word “buy” is substituted for “make expenditures” for consistency in the revised title and with other titles of the Code. The words “officers or employees” are substituted for “civilian employees”, and the words “in carrying out their duties and powers” are substituted for “in the performance of their official duties”, for consistency in the revised title and with other titles of the Code.
+In subsection (b)(6), the word "buy" is substituted for "make expenditures" for consistency in the revised title and with other titles of the Code. The words "officers or employees" are substituted for "civilian employees", and the words "in carrying out their duties and powers" are substituted for "in the performance of their official duties", for consistency in the revised title and with other titles of the Code.
 
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(9). Pub. L. 111–203, §502(b), added par. (9).
 
-Subsec. (c). Pub. L. 111–203, §378(1)(A), inserted “and” at end of par. (1), substituted period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “of the Director of the Office of Thrift Supervision;”.
+Subsec. (c). Pub. L. 111–203, §378(1)(A), inserted "and" at end of par. (1), substituted period for "; and" at end of par. (2), and struck out par. (3) which read as follows: "of the Director of the Office of Thrift Supervision;".
 
-Subsec. (e). Pub. L. 111–203, §378(1)(B), struck out subsec. (e). Text read as follows: “The Secretary of the Treasury may not merge or consolidate the Office of Thrift Supervision, or any of the functions or responsibilities of the Office or the Director of such office, with the Office of the Comptroller of the Currency or the Comptroller of the Currency.”
+Subsec. (e). Pub. L. 111–203, §378(1)(B), struck out subsec. (e). Text read as follows: "The Secretary of the Treasury may not merge or consolidate the Office of Thrift Supervision, or any of the functions or responsibilities of the Office or the Director of such office, with the Office of the Comptroller of the Currency or the Comptroller of the Currency."
 
 <b>1995</b>—Subsec. (b)(7). Pub. L. 104–66 added par. (7).
 
@@ -238,5 +238,5 @@ For assignment of certain emergency preparedness functions to Secretary of the T
 
 #### Use of Aircraft in Emergency Law Enforcement Support
 
-Pub. L. 104–52, title I, §107, Nov. 19, 1995, 109 Stat. 476, provided that: “The Secretary of the Treasury is authorized in fiscal year 1996 and hereafter, to use Treasury Department aircraft, with or without reimbursement, to assist bureaus within the Department of the Treasury or other Federal agencies, Departments or offices outside of the Department of the Treasury to provide emergency law enforcement support to protect human life, property, public health, or safety.”
+Pub. L. 104–52, title I, §107, Nov. 19, 1995, 109 Stat. 476, provided that: "The Secretary of the Treasury is authorized in fiscal year 1996 and hereafter, to use Treasury Department aircraft, with or without reimbursement, to assist bureaus within the Department of the Treasury or other Federal agencies, Departments or offices outside of the Department of the Treasury to provide emergency law enforcement support to protect human life, property, public health, or safety."
 

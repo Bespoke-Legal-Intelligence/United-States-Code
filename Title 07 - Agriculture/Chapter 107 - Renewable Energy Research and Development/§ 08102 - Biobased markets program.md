@@ -4,7 +4,7 @@
 
 #### (1) Definition of procuring agency
 
-&emsp;In this subsection, the term “procuring agency” means—
+&emsp;In this subsection, the term "procuring agency" means—
 
 &emsp;&emsp;(A) any Federal agency that is using Federal funds for procurement; or
 
@@ -32,7 +32,7 @@
 
 #### (B) Flexibility
 
-&emsp;&emsp;Notwithstanding subparagraph (A), a procuring agency may decide not to procureitems described in that subparagraph if the procuring agency determines that the items—
+&emsp;&emsp;Notwithstanding subparagraph (A), a procuring agency may decide not to procure items described in that subparagraph if the procuring agency determines that the items—
 
 &emsp;&emsp;&emsp;(i) are not reasonably available within a reasonable period of time;
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the results of the annual review and monitoring program established under paragraph (2)(C)(iv);
 
-&emsp;&emsp;&emsp;&emsp;(III) the number and dollar value of contracts entered into during the year that include the direct procurement of biobased products;
+&emsp;&emsp;&emsp;&emsp;(III) the number and dollar value of contracts entered into during the yearthat include the direct procurement of biobased products;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the number of service and construction (including renovations) contracts entered into during the year that include language on the use of biobased products; and
 
@@ -158,7 +158,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Administrator, shall establish a voluntary program under which the Secretary authorizes producers of biobased products to use the label “USDA Certified Biobased Product”.
+&emsp;The Secretary, in consultation with the Administrator, shall establish a voluntary program under which the Secretary authorizes producers of biobased products to use the label "USDA Certified Biobased Product".
 
 #### (2) Eligibility criteria
 
@@ -254,7 +254,7 @@ A prior section 8102, Pub. L. 107–171, title IX, §9002, May 13, 2002, 116 Sta
 
 #### Amendments
 
-<b>2013</b>—Subsec. (h)(2). Pub. L. 112–240 substituted “2013” for “2012”.
+<b>2013</b>—Subsec. (h)(2). Pub. L. 112–240 substituted "2013" for "2012".
 
 #### Effective Date of 2013 Amendment
 
@@ -286,7 +286,7 @@ Section 1. <i>Actions Related to Executive Order 13514</i>. (a) Agencies shall i
 
 (c) The Office of Management and Budget (OMB) shall emphasize biobased purchasing in the fiscal year 2012 and 2013 Sustainability/Energy scorecard, which is the periodic evaluation of agency performance on sustainable acquisition pursuant to section 4 of Executive Order 13514.
 
-Sec. 2. <i>Biobased Product Designations</i>. The USDA has already designated 64 categories of biobased productsfor preferred Federal procurement. Although these categories represent an estimated 9,000 individual products, less than half of the known biobased products are currently included in the preference program. Increasing the number of products subject to the Federal procurement preference will increase procurement of biobased products. Therefore, I direct the Secretary of Agriculture to:
+Sec. 2. <i>Biobased Product Designations</i>. The USDA has already designated 64 categories of biobased products for preferred Federal procurement. Although these categories represent an estimated 9,000 individual products, less than half of the known biobased products are currently included in the preference program. Increasing the number of products subject to the Federal procurement preference will increase procurement of biobased products. Therefore, I direct the Secretary of Agriculture to:
 
 (a) increase both the number of categories of biobased products designated and individual products eligible for preferred purchasing by 50 percent within 1 year of the date of this memorandum; and
 
@@ -298,7 +298,7 @@ Sec. 3. <i>Changes in Procurement Mechanisms</i>. Several actions can be taken t
 
 (b) the Secretary of Agriculture to work with relevant officials in agencies that have electronic product procurement catalogs to identify and implement solutions to increase the visibility of biobased and other sustainable products;
 
-(c) the Senior Sustainability Officers of all agencies that have established agency-specific product specifications, in coordination with any other appropriate officials, to review and revise all specifications under their control to assure that, wherever possible and appropriate, such specifications require the use of sustainable products, including USDA-designated biobased products, and that any language prohibiting the use of biobased products is removed. The review shall be on a 4-year cycle. Significant review should be completed within 1 year of the date of this memorandum, and the results of the reviews shall be annually reported to OMB and the Office of Science and Technology Policy (OSTP); and
+(c) the Senior Sustainability Officers of all agencies that have established agency-specific product specifications, in coordination with any other appropriate officials, to review and revise all specifications under their control to assure that, wherever possible and appropriate, such specifications require the use of sustainable products, including USDA-designated biobased products, and that any language prohibiting the use ofbiobased products is removed. The review shall be on a 4-year cycle. Significant review should be completed within 1 year of the date of this memorandum, and the results of the reviews shall be annually reported to OMB and the Office of Science and Technology Policy (OSTP); and
 
 (d) the Secretary of Agriculture to amend USDA's automated contract writing system, the Integrated Acquisition System, to serve as a model for biobased product procurement throughout the Federal Government by adding elements related to acquisition planning, evaluation factors for source selection, and specifications and requirements. Once completed, USDA shall share the model with all agencies and, as appropriate, assist any agency efforts to adopt similar mechanisms.
 
@@ -336,11 +336,11 @@ Sec. 7. <i>Education and Outreach</i>. In compliance with the 2002 Farm Bill, se
 
 (c) the Secretary of Agriculture to work actively with the Committee for Purchase From People Who Are Blind or Severely Disabled to promote education and outreach to program, technical, and contracting personnel, and to purchase card holders on BioPreferred AbilityOne products.
 
-Sec. 8. <i>General Provisions</i>. (a) This memorandum shall apply to an agency with respect to the activities, personnel, resources, and facilities of the agency that are located within the United States. The head of an agency may provide that this memorandum shall apply in whole or in part with respect to the activities, personnel, resources, and facilities of the agency that are not located within the United States, if the head of theagency determines that such application is in the interest of the United States.
+Sec. 8. <i>General Provisions</i>. (a) This memorandum shall apply to an agency with respect to the activities, personnel, resources, and facilities of the agency that are located within the United States. The head of an agency may provide that this memorandum shall apply in whole or in part with respect to the activities, personnel, resources, and facilities of the agency that are not located within the United States, if the head of the agency determines that such application is in the interest of the United States.
 
 (b) The head of an agency shall manage activities, personnel, resources, and facilities of the agency that are not located within the United States, and with respect to which the head of the agency has not made a determination under subsection (a) of this section, in a manner consistent with the policies set forth in this memorandum, to the extent the head of the agency determines practicable.
 
-(c) For purposes of this memorandum, “biobased product” shall have the meaning set forth in section 8101(4) of title 7, United States Code.
+(c) For purposes of this memorandum, "biobased product" shall have the meaning set forth in section 8101(4) of title 7, United States Code.
 
 (d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 

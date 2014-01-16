@@ -8,11 +8,11 @@ In carrying out this subchapter, the Secretary of the Interior and the Secretary
 
 &emsp;(2) determine with other Federal agencies the areas under the administrative jurisdiction of these agencies which are appropriate for carrying out programs using members of the Corps, and determine and select appropriate work and education programs and projects for participation by members of the Corps;
 
-&emsp;(3) determine the rates of pay, hours, and other conditions of employment in the Corps, except that all members of the Corps shall not be deemed to be Federal employees other than for the purpose of chapter 171 of title 28, and chapter 81 of title 5.
+&emsp;(3) determine the rates of pay, hours, and other conditions of employment in the Corps, except that all members of the Corps shall not be deemed to be Federal employees other than for the purpose of chapter 171 of title 28, and chapter 81 of title 5.<sup>1</sup>
 
 &emsp;(4) provide for such transportation, lodging, subsistence, and other services and equipment as they may deem necessary or appropriate for the needs of members of the Corps in their duties;
 
-&emsp;(5) promulgate regulation to insure the safety, health, and welfare of the Corps members; and
+&emsp;(5) promulgate regulation <sup>2</sup> to insure the safety, health, and welfare of the Corps members; and
 
 &emsp;(6) provide to the extent possible, that permanent or semipermanent facilities used as Corps camps be made available to local schools, school districts, State junior colleges and universities, and other education institutions for use as environmental/ecological education camps during periods of nonuse by the Corps program.
 
@@ -30,7 +30,7 @@ The Secretary of the Interior and the Secretary of Agriculture may contract with
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–82, §105(2), substituted “subchapter” for “chapter” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §105(2), substituted "subchapter" for "chapter" in introductory provisions.
 
 <b>1974</b>—Pub. L. 93–408 reenacted existing provisions with minor changes.
 
@@ -39,4 +39,8 @@ The Secretary of the Interior and the Secretary of Agriculture may contract with
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "regulations".</i>
 

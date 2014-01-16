@@ -16,7 +16,7 @@ In the case of any farming syndicate (as defined in subsection (c))—
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “farming syndicate” means—
+&emsp;For purposes of this section, the term "farming syndicate" means—
 
 &emsp;&emsp;(A) a partnership or any other enterprise other than a corporation which is not an S corporation engaged in the trade or business of farming, if at any time interests in such partnership or enterprise have been offered for sale in any offering required to be registered with any Federal or State agency having authority to regulate the offering of securities for sale, or
 
@@ -34,9 +34,9 @@ In the case of any farming syndicate (as defined in subsection (c))—
 
 &emsp;&emsp;(D) in the case of an individual whose principal business activity involves active participation in the management of a trade or business of farming, any interest in any other trade or business of farming, and,
 
-&emsp;&emsp;(E) any interest held by a member of the family (or a spouse of any such member) or a grandparent of an individual described in subparagraph (A), (B), (C), or (D) if the interest in the partnership or the enterprise is attributable to the active participation of the individual described in subparagraph (A), (B), (C), or (D).
+&emsp;&emsp;(E) any interest held by a member of the family (or a spouse of any such member) of a grandparent of an individual described in subparagraph (A), (B), (C), or (D) if the interest in the partnership or the enterprise is attributable to the active participation of the individual described in subparagraph (A), (B), (C), or (D).
 
-> &emsp;For purposes of subparagraph (A), where one farm is substituted for or added to another farm, both farms shall be treated as one farm. For purposes of subparagraph (E), the term “family” has the meaning given to such term by section 267(c)(4).
+> &emsp;For purposes of subparagraph (A), where one farm is substituted for or added to another farm, both farms shall be treated as one farm. For purposes of subparagraph (E), the term "family" has the meaning given to such term by section 267(c)(4).
 
 #### (d) Exception
 
@@ -48,11 +48,11 @@ For purposes of this section—
 
 #### (1) Farming
 
-&emsp;The term “farming” means the cultivation of land or the raising or harvesting of any agricultural or horticultural commodity including the raising, shearing, feeding, caring for, training, and management of animals. For purposes of the preceding sentence, trees (other than trees bearing fruit or nuts) shall not be treated as an agricultural or horticultural commodity.
+&emsp;The term "farming" means the cultivation of land or the raising or harvesting of any agricultural or horticultural commodity including the raising, shearing, feeding, caring for, training, and management of animals. For purposes of the preceding sentence, trees (other than trees bearing fruit or nuts) shall not be treated as an agricultural or horticultural commodity.
 
 #### (2) Limited entrepreneur
 
-&emsp;The term “limited entrepreneur” means a person who—
+&emsp;The term "limited entrepreneur" means a person who—
 
 &emsp;&emsp;(A) has an interest in an enterprise other than as a limited partner, and
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term “qualified farm-related taxpayer” means any farm-related taxpayer if—
+&emsp;&emsp;For purposes of this subsection, the term "qualified farm-related taxpayer" means any farm-related taxpayer if—
 
 &emsp;&emsp;&emsp;(i)(I) the aggregate prepaid farm supplies for the 3 taxable years preceding the taxable year are less than 50 percent of,
 
@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (B) Farm-related taxpayer
 
-&emsp;&emsp;For purposes of this paragraph, the term “farm-related taxpayer” means any taxpayer—
+&emsp;&emsp;For purposes of this paragraph, the term "farm-related taxpayer" means any taxpayer—
 
 &emsp;&emsp;&emsp;(i) whose principal residence (within the meaning of section 121) is on a farm,
 
@@ -102,15 +102,15 @@ For purposes of this section—
 
 #### (A) Excess prepaid farm supplies
 
-&emsp;&emsp;The term “excess prepaid farm supplies” means the prepaid farm supplies for the taxable year to the extent the amount of such supplies exceeds 50 percent of the deductible farming expenses for the taxable year (other than prepaid farm supplies).
+&emsp;&emsp;The term "excess prepaid farm supplies" means the prepaid farm supplies for the taxable year to the extent the amount of such supplies exceeds 50 percent of the deductible farming expenses for the taxable year (other than prepaid farm supplies).
 
 #### (B) Prepaid farm supplies
 
-&emsp;&emsp;The term “prepaid farm supplies” means any amounts which are described in subsection (a) or (b) and would be allowable for a subsequent taxable year under the rules of subsections (a) and (b).
+&emsp;&emsp;The term "prepaid farm supplies" means any amounts which are described in subsection (a) or (b) and would be allowable for a subsequent taxable year under the rules of subsections (a) and (b).
 
 #### (C) Deductible farming expenses
 
-&emsp;&emsp;The term “deductible farming expenses” means any amount allowable as a deduction under this chapter (including any amount allowable as a deduction for depreciation or amortization) which is properly allocable to the trade or business of farming.
+&emsp;&emsp;The term "deductible farming expenses" means any amount allowable as a deduction under this chapter (including any amount allowable as a deduction for depreciation or amortization) which is properly allocable to the trade or business of farming.
 
 #### (g) Termination
 
@@ -120,23 +120,23 @@ Except as provided in subsection (f), subsections (a) and (b) shall not apply to
 
 #### Amendments
 
-<b>1997</b>—Subsec. (f)(3)(B)(i). Pub. L. 105–34 substituted “section 121” for “section 1034”.
+<b>1997</b>—Subsec. (f)(3)(B)(i). Pub. L. 105–34 substituted "section 121" for "section 1034".
 
 <b>1988</b>—Subsec. (g). Pub. L. 100–647 added subsec. (g).
 
-<b>1986</b>—Pub. L. 99–514, §404(b)(1), substituted “for certain farming” for “in case of farming syndicates” in section catchline.
+<b>1986</b>—Pub. L. 99–514, §404(b)(1), substituted "for certain farming" for "in case of farming syndicates" in section catchline.
 
-Subsec. (d). Pub. L. 99–514, §803(b)(8), substituted “Exception” for “Exceptions” as heading and amended text generally. Prior to amendment, text read as follows: “Subsection (a) shall not apply to—
+Subsec. (d). Pub. L. 99–514, §803(b)(8), substituted "Exception" for "Exceptions" as heading and amended text generally. Prior to amendment, text read as follows: "Subsection (a) shall not apply to—
 
-&emsp;“(1) any amount paid for supplies which are on hand at the close of the taxable year on account of fire, storm, flood, or other casualty or on account of disease or drought, or
+&emsp;"(1) any amount paid for supplies which are on hand at the close of the taxable year on account of fire, storm, flood, or other casualty or on account of disease or drought, or
 
-&emsp;“(2) any amount required to be charged to capital account under section 278.”
+&emsp;"(2) any amount required to be charged to capital account under section 278."
 
 Subsec. (f). Pub. L. 99–514, §404(a), added subsec. (f).
 
-<b>1982</b>—Subsec. (c)(1)(A), (B). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
+<b>1982</b>—Subsec. (c)(1)(A), (B). Pub. L. 97–354 substituted "an S corporation" for "an electing small business corporation (as defined in section 1371(b))".
 
-<b>1978</b>—Subsec. (c)(2). Pub. L. 95–600 substituted in subpar. (E) “(or a spouse of any such member)” for “(within the meaning of section 267(c)(4))” and provided that for purposes of subpar. (E) the term “family” has the meaning given to such term by section 267(c)(4).
+<b>1978</b>—Subsec. (c)(2). Pub. L. 95–600 substituted in subpar. (E) "(or a spouse of any such member)" for "(within the meaning of section 267(c)(4))" and provided that for purposes of subpar. (E) the term "family" has the meaning given to such term by section 267(c)(4).
 
 #### Effective Date of 1997 Amendment
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by section 803(b)(8) of Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
 
-Pub. L. 99–514, title IV, §404(c), Oct. 22, 1986, 100 Stat. 2224, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after March 1, 1986, in taxable years beginning after such date.”
+Pub. L. 99–514, title IV, §404(c), Oct. 22, 1986, 100 Stat. 2224, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after March 1, 1986, in taxable years beginning after such date."
 
 Amendment by section 803(b)(8) of Pub. L. 99–514 applicable to costs incurred after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided, see section 803(d) of Pub. L. 99–514, set out as an Effective Date note under section 263A of this title.
 
@@ -166,11 +166,11 @@ Amendment by Pub. L. 95–600 effective as if included in this section or sectio
 
 Pub. L. 94–455, title II, §207(a)(3), Oct. 4, 1976, 90 Stat. 1537, provided that:
 
-“(A)
+"(A)
 
 In general.—Except as provided in subparagraph (B), the amendments made by this subsection \[enacting this section\] shall apply to taxable years beginning after December 31, 1975.
 
-“(B)
+"(B)
 
-Transitional rule.—In the case of a farming syndicate in existence on December 31, 1975, and for which there was no change of membership throughout its taxable year beginning in 1976, the amendments made by this subsection shall apply to taxable years beginning after December 31, 1976.”
+Transitional rule.—In the case of a farming syndicate in existence on December 31, 1975, and for which there was no change of membership throughout its taxable year beginning in 1976, the amendments made by this subsection shall apply to taxable years beginning after December 31, 1976."
 

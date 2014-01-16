@@ -2,7 +2,7 @@
 
 (a) It shall be unlawful—
 
-&emsp;(1) for any manufacturer to introduce, or to deliver for introduction, into commerce, or to import into the United States, any electronic product which does not comply with an applicable standard prescribed pursuant to section 360kk of this title;
+&emsp;(1) for any manufacturer to introduce, or to deliver for introduction, into commerce, or toimport into the United States, any electronic product which does not comply with an applicable standard prescribed pursuant to section 360kk of this title;
 
 &emsp;(2) for any person to fail to furnish any notification or other material or information required by section 360ll or 360nn of this title; or to fail to comply with the requirements of section 360ll(f) of this title;
 
@@ -24,15 +24,15 @@ Section was classified to section 263j of Title 42, The Public Health and Welfar
 
 <b>1993</b>—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263j of Title 42, The Public Health and Welfare, as this section.
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–629, §19(a)(2)(F)(i), substituted “section 360kk” for “section 263f”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–629, §19(a)(2)(F)(i), substituted "section 360kk" for "section 263f".
 
-Subsec. (a)(2). Pub. L. 101–629, §19(a)(2)(F)(ii), (iii), substituted “section 360ll or 360nn” for “section 263g or 263i” and “section 360ll(f)” for “section 263g(f)”.
+Subsec. (a)(2). Pub. L. 101–629, §19(a)(2)(F)(ii), (iii), substituted "section 360ll or 360nn" for "section 263g or 263i" and "section 360ll(f)" for "section 263g(f)".
 
-Subsec. (a)(3). Pub. L. 101–629, §19(a)(1)(B), (2)(F)(iii), substituted “this part” for “this subpart” and “section 360nn” for “section 263i”.
+Subsec. (a)(3). Pub. L. 101–629, §19(a)(1)(B), (2)(F)(iii), substituted "this part" for "this subpart" and "section 360nn" for "section 263i".
 
-Subsec. (a)(4). Pub. L. 101–629, §19(a)(2)(F)(iii), substituted “section 360nn(b)” for “section 263i(b)” and “section 360nn(f)” for “section 263i(f)”.
+Subsec. (a)(4). Pub. L. 101–629, §19(a)(2)(F)(iii), substituted "section 360nn(b)" for "section 263i(b)" and "section 360nn(f)" for "section 263i(f)".
 
-Subsec. (a)(5). Pub. L. 101–629, §19(a)(2)(F)(i), substituted “section 360kk(h)” for “section 263f(h)” in two places.
+Subsec. (a)(5). Pub. L. 101–629, §19(a)(2)(F)(i), substituted "section 360kk(h)" for "section 263f(h)" in two places.
 
 #### Noninterference With Other Federal Agencies
 

@@ -32,21 +32,21 @@ The date of enactment of this subsection, referred to in subsec. (g)(1), is Aug.
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
 
-<b>1982</b>—Subsec. (f). Pub. L. 97–295, §2(13), substituted “chapter 51, subchapter III of chapter 53, and sections 5542–5546 of title 5” for “the civil service classification laws and titles II and III of the Federal Employees Pay Act of 1945 as amended”.
+<b>1982</b>—Subsec. (f). Pub. L. 97–295, §2(13), substituted "chapter 51, subchapter III of chapter 53, and sections 5542–5546 of title 5" for "the civil service classification laws and titles II and III of the Federal Employees Pay Act of 1945 as amended".
 
-Subsec. (g). Pub. L. 97–295, §2(11), substituted “percent” for “per centum”.
+Subsec. (g). Pub. L. 97–295, §2(11), substituted "percent" for "per centum".
 
-<b>1979</b>—Subsec. (g). Pub. L. 96–23 substituted “$15,000” for “$7,500”.
+<b>1979</b>—Subsec. (g). Pub. L. 96–23 substituted "$15,000" for "$7,500".
 
-<b>1970</b>—Subsec. (g). Pub. L. 91–278 substituted “$7,500” for “$5,100”.
+<b>1970</b>—Subsec. (g). Pub. L. 91–278 substituted "$7,500" for "$5,100".
 
-<b>1959</b>—Subsec. (g). Pub. L. 86–309 substituted “$5,100” for “$3,750”.
+<b>1959</b>—Subsec. (g). Pub. L. 86–309 substituted "$5,100" for "$3,750".
 
-<b>1955</b>—Subsec. (f). Act Aug. 9, 1955, §1, inserted “as amended”.
+<b>1955</b>—Subsec. (f). Act Aug. 9, 1955, §1, inserted "as amended".
 
 Subsec. (g). Act Aug. 9, 1955, §2, authorized head of department in which the Coast Guard is operating to regulate hours of duty and pay.
 
 #### Retroactive Pay
 
-Pub. L. 96–23, §5(b), June 13, 1979, 93 Stat. 69, provided that: “The Coast Guard may issue retroactive pay to its remaining civilian lighthouse keepers in an amount equal to the difference between what the keeper actually received and what he would have received under the General Schedule salary rates had there not been a statutory limitation of $7,500 on his annual salary. This amount is to be calculated from the time at which his salary reached the statutory limitation to the date of enactment of this Act \[June 13, 1979\].”
+Pub. L. 96–23, §5(b), June 13, 1979, 93 Stat. 69, provided that: "The Coast Guard may issue retroactive pay to its remaining civilian lighthouse keepers in an amount equal to the difference between what the keeper actually received and what he would have received under the General Schedule salary rates had there not been a statutory limitation of $7,500 on his annual salary. This amount is to be calculated from the time at which his salary reached the statutory limitation to the date of enactment of this Act \[June 13, 1979\]."
 

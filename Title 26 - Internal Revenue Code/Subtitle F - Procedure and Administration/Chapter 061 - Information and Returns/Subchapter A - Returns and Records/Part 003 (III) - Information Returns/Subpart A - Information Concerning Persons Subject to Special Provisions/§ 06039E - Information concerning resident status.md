@@ -38,7 +38,7 @@ Notwithstanding any other provision of law, any agency of the United States whic
 
 #### (e) Exemption
 
-The Secretary may by regulations exempt any class of individuals from the requirements ofthis section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section.
+The Secretary may by regulations exempt any class of individuals from the requirements of this section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section.
 
 (Added Pub. L. 99–514, title XII, §1234(a)(1), Oct. 22, 1986, 100 Stat. 2565; amended Pub. L. 100–647, title I, §1012(o), Nov. 10, 1988, 102 Stat. 3515.)
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Pub. L. 99–514, title XII, §1234(a)(3), Oct. 22, 1986, 100 Stat. 2566, provided that: “The amendments made by this subsection \[enacting this section\] shall apply to applications submitted after December 31, 1987 (or, if earlier, the effective date which shall not be earlier than January 1, 1987) of the initial regulations issued under section 6039E of the Internal Revenue Code of 1986 as added by this subsection).”
+Pub. L. 99–514, title XII, §1234(a)(3), Oct. 22, 1986, 100 Stat. 2566, provided that: "The amendments made by this subsection \[enacting this section\] shall apply to applications submitted after December 31, 1987 (or, if earlier, the effective date which shall not be earlier than January 1, 1987) of the initial regulations issued under section 6039E of the Internal Revenue Code of 1986 as added by this subsection)."
 

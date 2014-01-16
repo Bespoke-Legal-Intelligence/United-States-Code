@@ -50,11 +50,11 @@ A certificate of sale of personal property given or a deed to real property exec
 
 #### Amendments
 
-<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 <b>1966</b>—Subsecs. (c), (d). Pub. L. 89–719 added subsecs. (c) and (d).
 
-<b>1958</b>—Subsec. (b)(2). Pub. L. 85–866 substituted “as” for “of” after “Deed” in heading.
+<b>1958</b>—Subsec. (b)(2). Pub. L. 85–866 substituted "as" for "of" after "Deed" in heading.
 
 #### Effective Date of 1966 Amendment
 

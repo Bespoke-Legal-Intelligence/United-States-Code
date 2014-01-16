@@ -6,7 +6,7 @@ The corporation shall provide advice and assistance to individuals with respect 
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Pub. L. 101–239 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 #### Effective Date of 1989 Amendment
 

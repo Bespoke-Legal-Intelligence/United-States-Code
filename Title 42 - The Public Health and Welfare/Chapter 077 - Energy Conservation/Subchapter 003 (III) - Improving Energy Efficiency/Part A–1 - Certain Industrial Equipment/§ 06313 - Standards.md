@@ -72,7 +72,7 @@ In general.—
 
 &emsp;&emsp;(i)
 
-Analysis of potential energy savings.—If ASHRAE/IES Standard 90.1 is amended with respect to the standard levels or design requirements applicable under that standard to any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks, not later than 180 days after the amendment of the standard, the Secretary shall publish in the Federal Register for public comment an analysis of the energy savings potential of amended energy efficiency standards.
+Analysis of potential energy savings.—If ASHRAE/IES Standard 90.1 is amended with respect to the standard levels or design requirements applicable under that standard to any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks, not later than 180 days after the amendment of thestandard, the Secretary shall publish in the Federal Register for public comment an analysis of the energy savings potential of amended energy efficiency standards.
 
 &emsp;&emsp;(ii)
 
@@ -188,7 +188,7 @@ Consideration of prices and operating patterns.—If the Secretary is considerin
 
 &emsp;(ii) with respect to large commercial package air conditioning and heating equipment and very large commercial package air conditioning and heating equipment, on or after a date which is three years after the effective date of the applicable minimum energy efficiency requirement in the amended ASHRAE/IES standard referred to in subparagraph (A);
 
-> except that an energy conservation standard amended by the Secretary pursuant to a rule under subparagraph (B) shall become effective for products manufactured on or after a datewhich is four years after the date such rule is published in the Federal Register.
+> except that an energy conservation standard amended by the Secretary pursuant to a rule under subparagraph (B) shall become effective for products manufactured on or after a date which is four years after the date such rule is published in the Federal Register.
 
 (7) Small commercial package air conditioning and heating equipment (other than single package vertical air conditioners and single package vertical heat pumps) shall meet the following standards:
 
@@ -254,7 +254,7 @@ Single package vertical air conditioners and single package vertical heat pumps.
 
 &emsp;(A)
 
-In general.—Single package vertical air conditioners and single package vertical heatpumps manufactured on or after January 1, 2010, shall meet the following standards:
+In general.—Single package vertical air conditioners and single package vertical heat pumps manufactured on or after January 1, 2010, shall meet the following standards:
 
 &emsp;&emsp;(i) The minimum energy efficiency ratio of single package vertical air conditioners less than 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0.
 
@@ -351,17 +351,17 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 
 (1) In this subsection:
 
-&emsp;(A) The term “AV” means the adjusted volume (ft<sup>3</sup>) (defined as 1.63 x frozen temperature compartment volume (ft<sup>3</sup>) + chilled temperature compartment volume (ft<sup>3</sup>)) with compartment volumes measured in accordance with the Association of Home Appliance Manufacturers Standard HRF1–1979.
+&emsp;(A) The term "AV" means the adjusted volume (ft<sup>3</sup>) (defined as 1.63 x frozen temperature compartment volume (ft<sup>3</sup>) + chilled temperature compartment volume (ft<sup>3</sup>)) with compartment volumes measured in accordance with the Association of Home Appliance Manufacturers Standard HRF1–1979.
 
-&emsp;(B) The term “V” means the chilled or frozen compartment volume (ft<sup>3</sup>) (as defined in the Association of Home Appliance Manufacturers Standard HRF1–1979).
+&emsp;(B) The term "V" means the chilled or frozen compartment volume (ft<sup>3</sup>) (as defined in the Association of Home Appliance Manufacturers Standard HRF1–1979).
 
-&emsp;(C) The term “service over the counter, self-contained, medium temperature commercial refrigerator” or “(SOC–SC–M)” means a medium temperature commercial refrigerator—
+&emsp;(C) The term "service over the counter, self-contained, medium temperature commercial refrigerator" or "(SOC–SC–M)" means a medium temperature commercial refrigerator—
 
 &emsp;&emsp;(i) with a self-contained condensing unit and equipped with sliding or hinged doors in the back intended for use by sales personnel, and with glass or other transparent material in the front for displaying merchandise; and
 
 &emsp;&emsp;(ii) that has a height not greater than 66 inches and is intended to serve as a counter for transactions between sales personnel and customers.
 
-&emsp;(D) The term “TDA” means the total display area (ft<sup>2</sup>) of the refrigerated case, as defined in AHRI Standard 1200.
+&emsp;(D) The term "TDA" means the total display area (ft<sup>2</sup>) of the refrigerated case, as defined in AHRI Standard 1200.
 
 &emsp;(E) Other terms have such meanings as may be established by the Secretary, based on industry-accepted definitions and practice.
 
@@ -583,9 +583,9 @@ Paragraph (2), referred to in subsec. (b)(1), probably means par. (3), formerly 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(6)(A)(i). Pub. L. 112–210, §5(b)(1), inserted “the standard levels or design requirements applicable under that standard to” before “any small commercial”.
+<b>2012</b>—Subsec. (a)(6)(A)(i). Pub. L. 112–210, §5(b)(1), inserted "the standard levels or design requirements applicable under that standard to" before "any small commercial".
 
-Subsec. (a)(6)(B). Pub. L. 112–210, §10(a)(3)(A)(i)–(iii), designated existing provisions as cl. (i), inserted cl. (i) heading, and substituted “subparagraph (A)(ii)(II)” for “clause (ii)(II)” and “subparagraph (A)(i)” for “clause (i)”.
+Subsec. (a)(6)(B). Pub. L. 112–210, §10(a)(3)(A)(i)–(iii), designated existing provisions as cl. (i), inserted cl. (i) heading, and substituted "subparagraph (A)(ii)(II)" for"clause (ii)(II)" and "subparagraph (A)(i)" for "clause (i)".
 
 Subsec. (a)(6)(B)(ii). Pub. L. 112–210, §10(a)(3)(A)(iv), added cl. (ii).
 
@@ -593,9 +593,9 @@ Subsec. (a)(6)(B)(iii). Pub. L. 112–210, §10(a)(4), redesignated cl. (iii), r
 
 Pub. L. 112–210, §10(a)(3)(A)(iv), added cl. (iii). Former cl. (iii) redesignated cl. (vi) of subsec. (a)(6)(C).
 
-Subsec. (a)(6)(C)(i). Pub. L. 112–210, §5(b)(2)(A), in introductory provisions, substituted “Every 6 years,” for “Not later than 6 years after issuance of any final rule establishing or amending a standard, as required for a product under this part,” and inserted “conduct an evaluation of each class of covered equipment and shall” after “the Secretary shall”.
+Subsec. (a)(6)(C)(i). Pub. L. 112–210, §5(b)(2)(A), in introductory provisions, substituted "Every 6 years," for "Not later than 6 years after issuance of any final rule establishing or amending a standard, as required for a product under this part," and inserted "conduct an evaluation of each class of covered equipment and shall" after "the Secretary shall".
 
-Subsec. (a)(6)(C)(iv). Pub. L. 112–210, §10(a)(3)(B), substituted “Notwithstanding subparagraph (D), an amendment prescribed under this subparagraph” for “An amendment prescribed under this subsection” in introductory provisions.
+Subsec. (a)(6)(C)(iv). Pub. L. 112–210, §10(a)(3)(B), substituted "Notwithstanding subparagraph (D), an amendment prescribed under this subparagraph" for "An amendment prescribed under this subsection" in introductory provisions.
 
 Subsec. (a)(6)(C)(vi). Pub. L. 112–210, §10(a)(4), redesignated cl. (iii) of subsec. (a)(6)(B), relating to consideration of prices and operating patterns, as cl. (vi) of subsec. (a)(6)(C).
 
@@ -605,25 +605,25 @@ Subsec. (c)(1)(C) to (E). Pub. L. 112–210, §4(1), added subpars. (C) and (D) 
 
 Subsec. (c)(4) to (6). Pub. L. 112–210, §4(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-Subsec. (f)(1). Pub. L. 112–210, §2(1), substituted “paragraphs (2) through (6)” for “paragraphs (2) through (5)” in introductory provisions.
+Subsec. (f)(1). Pub. L. 112–210, §2(1), substituted "paragraphs (2) through (6)" for "paragraphs (2) through (5)" in introductory provisions.
 
 Subsec. (f)(6). Pub. L. 112–210, §2(2), added par. (6).
 
-<b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §314(b)(1), (2), in introductory provisions, inserted “(including single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” and struck out “but before January 1, 2010,” after “January 1, 1994,”.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §314(b)(1), (2), in introductory provisions, inserted "(including single package vertical air conditioners and single package vertical heat pumps)" after "heating equipment" and struck out "but before January 1, 2010," after "January 1, 1994,".
 
-Subsec. (a)(2). Pub. L. 110–140, §314(b)(1), inserted “(including single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” in introductory provisions.
+Subsec. (a)(2). Pub. L. 110–140, §314(b)(1), inserted "(including single package vertical air conditioners and single package vertical heat pumps)" after "heating equipment" in introductory provisions.
 
 Subsec. (a)(6). Pub. L. 110–140, §305(b), inserted heading, added subpars. (A) to (C), redesignated former subpar. (C) as (D), and struck out former subpars. (A) and (B) which related to, in subpar. (A), establishment of amended uniform national standards for certain air conditioning and heating equipment and products if ASHRAE/IES Standard 90.1 had been amended and, if such standard had not been amended, initiation of a rulemaking to determine whether a more stringent standard would result in additional energy conservation and be technologically feasible and economically justified, and, in subpar. (B), establishment of an amended standard, including factors to be considered, if a rule had been issued pursuant to a subpar. (A) determination and prohibition of an amended standard which would decrease energy efficiency or would likely result in the unavailability of a product type.
 
 Subsec. (a)(6)(B)(iii). Pub. L. 110–140, §306(c), added cl. (iii) at end.
 
-Subsec. (a)(7). Pub. L. 110–140, §314(b)(3), (4)(A), in introductory provisions, inserted “(other than single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” and struck out “manufactured on or after January 1, 2010,” before “shall meet”.
+Subsec. (a)(7). Pub. L. 110–140, §314(b)(3), (4)(A), in introductory provisions, inserted "(other than single package vertical air conditioners and single package vertical heat pumps)" after "heating equipment" and struck out "manufactured on or after January 1, 2010," before "shall meet".
 
-Subsec. (a)(7)(A) to (C). Pub. L. 110–140, §314(b)(4)(B), substituted “For equipment manufactured on or after January 1, 2010, the” for “The”.
+Subsec. (a)(7)(A) to (C). Pub. L. 110–140, §314(b)(4)(B), substituted "For equipment manufactured on or after January 1, 2010, the" for "The".
 
 Subsec. (a)(7)(D). Pub. L. 110–140, §314(b)(4)(C), added subpar. (D).
 
-Subsec. (a)(8), (9). Pub. L. 110–140, §314(b)(3), inserted “(other than single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” in introductory provisions.
+Subsec. (a)(8), (9). Pub. L. 110–140, §314(b)(3), inserted "(other than single package vertical air conditioners and single package vertical heat pumps)" after "heating equipment" in introductory provisions.
 
 Subsec. (a)(10). Pub. L. 110–140, §314(b)(5), added par. (10).
 
@@ -631,15 +631,15 @@ Subsec. (b)(2) to (4). Pub. L. 110–140, §313(b)(1), added par. (2) and redesi
 
 Subsec. (f). Pub. L. 110–140, §312(b), added subsec. (f).
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–58, §136(b)(1), substituted “Small, large, and very large” for “Small and large” in heading.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58, §136(b)(1), substituted "Small, large, and very large" for "Small and large" in heading.
 
-Subsec. (a)(1). Pub. L. 109–58, §136(b)(2), inserted “but before January 1, 2010,” after “January 1, 1994,” in introductory provisions.
+Subsec. (a)(1). Pub. L. 109–58, §136(b)(2), inserted "but before January 1, 2010," after "January 1, 1994," in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 109–58, §136(b)(3), inserted “but before January 1, 2010,” after “January 1, 1995,” in introductory provisions.
+Subsec. (a)(2). Pub. L. 109–58, §136(b)(3), inserted "but before January 1, 2010," after "January 1, 1995," in introductory provisions.
 
-Subsec. (a)(6)(A). Pub. L. 109–58, §136(b)(4)(A), designated existing provisions as cl. (i), substituted “January 1, 2010” for “October 24, 1992”, inserted “and very large commercial package air conditioning and heating equipment, or if ASHRAE/IES Standard 90.1, as in effect on October 24, 1992, is amended with respect to any” after “large commercial package air conditioning and heating equipment,”, and added cl. (ii).
+Subsec. (a)(6)(A). Pub. L. 109–58, §136(b)(4)(A), designated existing provisions as cl. (i), substituted "January 1, 2010" for "October 24, 1992", inserted "and very large commercial package air conditioning and heating equipment, or if ASHRAE/IES Standard 90.1, as in effect on October 24, 1992, is amended with respect to any" after "large commercial package air conditioning and heating equipment,", and added cl. (ii).
 
-Subsec. (a)(6)(C)(ii). Pub. L. 109–58, §136(b)(4)(B), inserted “and very large commercial package air conditioning and heating equipment” after “large commercial package air conditioning and heating equipment”.
+Subsec. (a)(6)(C)(ii). Pub. L. 109–58, §136(b)(4)(B), inserted "and very large commercial package air conditioning and heating equipment" after "large commercial package air conditioning and heating equipment".
 
 Subsec. (a)(7) to (9). Pub. L. 109–58, §136(b)(5), added pars. (7) to (9).
 
@@ -653,13 +653,13 @@ Amendment by section 10(a)(3), (4) of Pub. L. 112–210 effective as if included
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–140, title III, §313(b)(2), Dec. 19, 2007, 121 Stat. 1569, provided that: “The amendments made by paragraph (1) \[amending this section\] take effect on the date that is 3 years after the date of enactment of this Act \[Dec. 19, 2007\].”
+Pub. L. 110–140, title III, §313(b)(2), Dec. 19, 2007, 121 Stat. 1569, provided that: "The amendments made by paragraph (1) \[amending this section\] take effect on the date that is 3 years after the date of enactment of this Act \[Dec. 19, 2007\]."
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. There are two cls. designated (vi).</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “than”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "than".</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 

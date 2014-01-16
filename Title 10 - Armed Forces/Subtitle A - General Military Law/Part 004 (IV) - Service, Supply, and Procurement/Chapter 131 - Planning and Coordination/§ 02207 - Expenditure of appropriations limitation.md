@@ -26,11 +26,11 @@ Historical and Revision Notes
 
 June 30, 1954, ch. 432, §719, 68 Stat. 353.
 
-The following substitutions are made: “spent” for “expended”; “United States” for “Government”; “if a contract is terminated under clause (1)” for “that in the event any such contract is so terminated”; and “has . . . that it would have had if” for “shall be entitled . . . to pursue . . . as it could pursue in the event of”. The word “official” is inserted for clarity. The words “entered into after June 30, 1954” are omitted as executed.
+The following substitutions are made: "spent" for "expended"; "United States" for "Government"; "if a contract is terminated under clause (1)" for "that in the event any such contract is so terminated"; and "has . . . that it would have had if" for "shall be entitled . . . to pursue . . . as it could pursue in the event of". The word "official" is inserted for clarity. The words "entered into after June 30, 1954" are omitted as executed.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted “section 134 of title 41” for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))”.
+<b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted "section 134 of title 41" for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))".
 
 <b>1996</b>—Pub. L. 104–106 designated existing provisions as subsec. (a) and added subsec. (b).
 

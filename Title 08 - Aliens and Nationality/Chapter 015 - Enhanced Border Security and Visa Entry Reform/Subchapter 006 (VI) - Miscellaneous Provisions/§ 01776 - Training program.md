@@ -72,7 +72,7 @@ The Secretary of Homeland Security may assist States, Indian tribes, local gover
 
 #### (5) Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary for each of the fiscalyears 2005 through 2009 to carry out the provisions of this section.
+There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2005 through 2009 to carry out the provisions of this section.
 
 (Pub. L. 108–458, title VII, §7201(d), Dec. 17, 2004, 118 Stat. 3811.)
 

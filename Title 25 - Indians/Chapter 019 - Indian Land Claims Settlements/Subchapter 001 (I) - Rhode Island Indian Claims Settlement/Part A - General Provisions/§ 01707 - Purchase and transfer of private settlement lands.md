@@ -2,7 +2,7 @@
 
 #### (a) Determination by Secretary; assignment of settlement lands to State Corporation
 
-When the Secretary determines that the State Corporation described in section 1706(a) of thistitle has been created and will accept the settlement lands, the Secretary shall exercise within sixty days the options entered into pursuant to section 1704 of this title and assign the private settlement lands thereby purchased to the State Corporation.
+When the Secretary determines that the State Corporation described in section 1706(a) of this title has been created and will accept the settlement lands, the Secretary shall exercise within sixty days the options entered into pursuant to section 1704 of this title and assign the private settlement lands thereby purchased to the State Corporation.
 
 #### (b) Moneys remaining in fund
 

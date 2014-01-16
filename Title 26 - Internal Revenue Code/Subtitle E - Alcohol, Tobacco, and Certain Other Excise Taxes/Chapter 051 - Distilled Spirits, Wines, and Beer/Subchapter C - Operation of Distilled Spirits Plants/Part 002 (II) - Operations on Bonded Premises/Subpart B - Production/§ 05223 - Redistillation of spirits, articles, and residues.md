@@ -18,7 +18,7 @@ Distilled spirits recovered by the redistillation of denatured distilled spirits
 
 #### (e) Products of redistillation
 
-All distilled spirits redistilled on bonded premises subsequent to production gauge shall be treated the same as if such spirits had been originally produced by the redistiller and all provisions of this chapter applicable to the original production of distilled spirits shall beapplicable thereto. Any prior obligation as to taxes, liens, and bonds with respect to such distilled spirits shall be extinguished on redistillation. Nothing in this subsection shall be construed as affecting any provision of law relating to the labeling of distilled spirits or as limiting the authority of the Secretary to regulate the marking, branding, or identification of distilled spirits redistilled under this section.
+All distilled spirits redistilled on bonded premises subsequent to production gauge shall be treated the same as if such spirits had been originally produced by the redistiller and all provisions of this chapter applicable to the original production of distilled spirits shall be applicable thereto. Any prior obligation as to taxes, liens, and bonds with respect to such distilled spirits shall be extinguished on redistillation. Nothing in this subsection shall be construed as affecting any provision of law relating to the labeling of distilled spirits or as limiting the authority of the Secretary to regulate the marking, branding, or identification of distilled spirits redistilled under this section.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1365; amended Pub. L. 89–44, title VIII, §805(d), (f)(8), (10), June 21, 1965, 79 Stat. 161, 162; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(31), July 26, 1979, 93 Stat. 286.)
 
@@ -37,17 +37,17 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 635, 64
 
 #### Amendments
 
-<b>1979</b>—Subsec. (c). Pub. L. 96–39, §807(a)(31)(A), inserted “or on the bonded premises of a distilled spirits plant” after “subchapter D,”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–39, §807(a)(31)(A), inserted "or on the bonded premises of a distilled spirits plant" after "subchapter D,".
 
 Subsec. (e). Pub. L. 96–39, §807(a)(31)(B), struck out provisions relating to the treatment of the processing of distilled spirits, subsequent to production gauge, in the manufacture of vodka in the production facilities of a distilled spirits plant as a redistillation of the spirits for purposes of this subsection, subsection (a), and sections 5025(d) and 5215.
 
-<b>1976</b>—Subsecs. (a) to (c), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (c), (e). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
-<b>1965</b>—Pub. L. 89–44, §805(f)(8), substituted “spirits, articles, and residues” for “spirits” in section catchline.
+<b>1965</b>—Pub. L. 89–44, §805(f)(8), substituted "spirits, articles, and residues" for "spirits" in section catchline.
 
 Subsec. (c). Pub. L. 89–44, §805(d), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 89–44, §805(d), (f)(10), redesignated subsec. (c) as (d), inserted “, articles, and residues” after “distilled spirits” in heading, and inserted “, or by the redistillation of the articles or residues described in subsection (c),” after “denatured distilled spirits” in text. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 89–44, §805(d), (f)(10), redesignated subsec. (c) as (d), inserted ", articles, and residues" after "distilled spirits" in heading, and inserted ", or by the redistillation of the articles or residues described in subsection (c)," after "denatured distilled spirits" in text. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 89–11, §805(d), redesignated former subsec. (d) as (e).
 

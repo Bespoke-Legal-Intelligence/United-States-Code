@@ -6,7 +6,7 @@ Any payment which becomes due under section 2391 of this title prior to the tran
 
 #### Amendments
 
-<b>1975</b>—Pub. L. 94–187 substituted “Administrator” for “Commission” where appearing first time and “Energy Research and Development Administration” for “Commission” where appearing second time.
+<b>1975</b>—Pub. L. 94–187 substituted "Administrator" for "Commission" where appearing first time and "Energy Research and Development Administration" for "Commission" where appearing second time.
 
 #### Transfer of Functions
 

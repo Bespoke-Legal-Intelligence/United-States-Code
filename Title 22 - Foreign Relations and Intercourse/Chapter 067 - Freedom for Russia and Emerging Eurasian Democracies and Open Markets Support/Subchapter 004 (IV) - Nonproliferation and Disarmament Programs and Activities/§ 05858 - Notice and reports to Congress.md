@@ -26,7 +26,7 @@ Not later than April 30, 1993, and not later than October 30, 1993, the Presiden
 
 As used in this section—
 
-&emsp;(1) the term “appropriate congressional committees” means—
+&emsp;(1) the term "appropriate congressional committees" means—
 
 &emsp;&emsp;(A) the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations of the House and the Senate, wherever the account, budget activity, or program is funded from appropriations made under the international affairs budget function (150);
 
@@ -38,7 +38,7 @@ As used in this section—
 
 #### References in Text
 
-Section 506(a), referred to in subsecs. (a) and (b), is section 506(a) of Pub. L. 102–511, which was classified to section 5856(a) of this title and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, set out as a note under section 2551 of this title, but did not become effective, pursuant to section 5856(c) of this title.
+Section 506(a), referred to in subsecs. (a) and (b), is section 506(a) of Pub. L. 102–511, which was classified tosection 5856(a) of this title and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, set out as a note under section 2551 of this title, but did not become effective, pursuant to section 5856(c) of this title.
 
 The Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c)(2), is title II of Pub. L. 102–228, Dec. 12, 1991, 105 Stat. 1693. The reference to subtitle B of the Act probably means part B of title II of Pub. L. 102–228, which is set out as a note under section 2551 of this title. Title II of Pub. L. 102–228 does not contain a subtitle B. For complete classification of this Act to the Code, see Tables.
 

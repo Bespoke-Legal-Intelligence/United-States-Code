@@ -6,9 +6,9 @@ The basis of property contributed to a partnership by a partner shall be the adj
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–369 inserted “under section 721(b)” after “gain recognized”.
+<b>1984</b>—Pub. L. 98–369 inserted "under section 721(b)" after "gain recognized".
 
-<b>1976</b>—Pub. L. 94–455 inserted “increased by the amount (if any) of gain recognized to the contributing partner at such time” after “at the time of the contribution”.
+<b>1976</b>—Pub. L. 94–455 inserted "increased by the amount (if any) of gain recognized to the contributing partner at such time" after "at the time of the contribution".
 
 #### Effective Date of 1984 Amendment
 

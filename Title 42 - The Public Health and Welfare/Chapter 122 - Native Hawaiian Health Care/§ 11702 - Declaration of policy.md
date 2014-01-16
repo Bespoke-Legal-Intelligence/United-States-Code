@@ -126,7 +126,7 @@ The Secretary shall submit to the President, for inclusion in each report requir
 
 #### Codification
 
-The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
+The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on "September 12, 1992", has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
 Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of this section is based on section 1 of Pub. L. 100–579, as subsequently amended.
 
@@ -134,9 +134,9 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of 
 
 <b>1992</b>—Pub. L. 102–396 amended section generally. Prior to amendment, section related to comprehensive health care master plan for Native Hawaiians.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “age”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "age".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “prevalence”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "prevalence".</i>
 
-<i><sup>3</sup></i><i> So in original. The “; and” probably should be a period.</i>
+<i><sup>3</sup></i><i> So in original. The "; and" probably should be a period.</i>
 

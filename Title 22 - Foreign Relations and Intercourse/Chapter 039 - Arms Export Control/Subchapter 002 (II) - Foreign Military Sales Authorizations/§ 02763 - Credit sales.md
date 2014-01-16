@@ -14,9 +14,9 @@ The President shall require repayment in United States dollars within a period n
 
 (2) For purposes of financing provided under this section—
 
-&emsp;(A) the term “concessional rate of interest” means any rate of interest which is less than market rates of interest; and
+&emsp;(A) the term "concessional rate of interest" means any rate of interest which is less than market rates of interest; and
 
-&emsp;(B) the term “market rate of interest” means any rate of interest which is equal to or greater than the current average interest rate (as of the last day of the month preceding the financing of the procurement under this section) that the United States Government pays on outstanding marketable obligations of comparable maturity.
+&emsp;(B) the term "market rate of interest" means any rate of interest which is equal to or greater than the current average interest rate (as of the last day of the month preceding the financing of the procurement under this section) that the United States Government pays on outstanding marketable obligations of comparable maturity.
 
 #### (d) Participations in credits
 
@@ -36,17 +36,17 @@ For each fiscal year, the Secretary of Defense, as requested by the Director of 
 
 (1) For each country and international organization that has been approved for cash flow financing under this section, any letter of offer and acceptance or other purchase agreement, or any amendment thereto, for a procurement of defense articles, defense services, or design and construction services in excess of $100,000,000 that is to be financed in whole or in part with funds made available under this chapter or the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be submitted to the congressional committees specified in section 634A(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1(a)\] in accordance with the procedures applicable to reprogramming notifications under that section.
 
-(2) For purposes of this subsection, the term “cash flow financing” has the meaning givensuch term in subsection (d) of section 2765 of this title.
+(2) For purposes of this subsection, the term "cash flow financing" has the meaning given such term in subsection (d) of section 2765 of this title.
 
 #### (h) Limitation on use of funds for direct commercial contracts
 
 Of the amounts made available for a fiscal year to carry out this section, not more than $100,000,000 for such fiscal year may be made available for countries other than Israel and Egypt for the purpose of financing the procurement of defense articles, defense services, and design and construction services that are not sold by the United States Government under this chapter.
 
-(Pub. L. 90–629, ch. 2, §23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, §45(a)(2), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §208(a), June 30, 1976, 90 Stat. 739; Pub. L. 96–533, title I, §105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, §102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, §101(e) \[title V, §572\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, §580, Nov. 5, 1990, 104 Stat. 2045; Pub. L. 104–164, title I, §102(a)–(c), July 21, 1996, 110 Stat. 1422.)
+(Pub. L. 90–629, ch. 2, §23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, §45(a)(2), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §208(a), June 30, 1976, 90 Stat. 739; Pub. L. 96–533, title I,§105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, §102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, §101(e) \[title V, §572\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, §580, Nov. 5, 1990, 104 Stat. 2045; Pub. L. 104–164, title I, §102(a)–(c), July 21, 1996, 110 Stat. 1422.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (g)(1), and (h), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsecs. (a), (g)(1), and (h), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (g)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -58,15 +58,15 @@ The Foreign Assistance Act of 1961, referred to in subsec. (g)(1), is Pub. L. 87
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–202 inserted sentence at end authorizing financing to Israel and Egypt for commercial leasing of defense articles, not including Major Defense Equipment, with exception for certain aircraft, upon a Presidential determination that there are compelling foreign policy or national defense reasons for such leasing.
 
-<b>1985</b>—Pub. L. 99–83 amended section generally. Prior to amendment, section read as follows: “The President is authorized to finance procurements of defense articles, defense services, and design and construction services by friendly foreign countries and international organizations on terms requiring the payment to the United States Government in United States dollars of—
+<b>1985</b>—Pub. L. 99–83 amended section generally. Prior to amendment, section read as follows: "The President is authorized to finance procurements of defense articles, defense services, and design and construction services by friendly foreign countries and international organizations on terms requiring the payment to the United States Government in United States dollars of—
 
-&emsp;“(1) the value of such articles or services within a period not to exceed twelve years after the delivery of such articles or the rendering of such services; and
+&emsp;"(1) the value of such articles or services within a period not to exceed twelve years after the delivery of such articles or the rendering of such services; and
 
-&emsp;“(2) interest on the unpaid balance of that obligation for payment of the value of such articles or services, at a rate equivalent to the current average interest rate, as of the last day of the month preceding the financing of such procurement, that the United States Government pays on outstanding marketable obligations of comparable maturity, unless the President certifies to Congress that the national interest requires a lesser rate of interest and states in the certification the lesser rate so required and the justification therefor.”
+&emsp;"(2) interest on the unpaid balance of that obligation for payment of the value of such articles or services, at a rate equivalent to the current average interest rate, as of the last day of the month preceding the financing of such procurement, that the United States Government pays on outstanding marketable obligations of comparable maturity, unless the President certifies to Congress that the national interest requires a lesser rate of interest and states in the certification the lesser rate so required and the justification therefor."
 
-<b>1980</b>—Pub. L. 96–533 substituted “defense articles, defense services, and design and construction services” for “defense articles and defense services”.
+<b>1980</b>—Pub. L. 96–533 substituted "defense articles, defense services, and design and construction services" for "defense articles and defense services".
 
-<b>1976</b>—Par. (1). Pub. L. 94–329 substituted “twelve years” for “ten years”.
+<b>1976</b>—Par. (1). Pub. L. 94–329 substituted "twelve years" for "ten years".
 
 <b>1974</b>—Pub. L. 93–559 incorporated existing provisions in cl. (1) and added cl. (2).
 
@@ -76,15 +76,35 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–329, title II, §208(b), June 30, 1976, 90 Stat. 739, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to financing under agreements entered into on or after the date of enactment of this Act \[June 30, 1976\] for the procurement of defense articles to be delivered, or defense services to be rendered, after such date.”
+Pub. L. 94–329, title II, §208(b), June 30, 1976, 90 Stat. 739, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to financing under agreements entered into on or after the date of enactment of this Act \[June 30, 1976\] for the procurement of defense articles to be delivered, or defense services to be rendered, after such date."
 
 #### Delegation of Functions
 
-Functions of President under this section and section 580 of Pub. L. 100–461, see Similar Provisions note below, except those functions relating to determinations of a rate of interest which is less than the market rate, delegated to Secretary of Defense, to be exercised in consultation with Secretary of State and Secretary of the Treasury, by section 1(e) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of functions of the President under this section and section 7069 of div. I of Pub. L. 112–74 (see Similar Provisions note below), with certain conditions and exceptions, see section 1(e) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 #### Similar Provisions
 
-Provisions similar to those in last sentence of subsec. (a) of this section which were applicable to NATO and major non-NATO allies in addition to Israel and Egypt were contained in the following appropriation acts and were not repeated in subsequent appropriation acts:
+Provisions similar to those in last sentence of subsec. (a) of this section which were applicable to NATO and major non-NATO allies in addition to Israel and Egypt were contained in the following appropriation acts:
+
+Pub. L. 112–74, div. I, title VII, §7069, Dec. 23, 2011, 125 Stat. 1253.
+
+Pub. L. 111–117, div. F, title VII, §7083, Dec. 16, 2009, 123 Stat. 3400.
+
+Pub. L. 111–8, div. H, title VII, §7085, Mar. 11, 2009, 123 Stat. 912.
+
+Pub. L. 110–161, div. J, title VI, §610, Dec. 26, 2007, 121 Stat. 2316.
+
+Pub. L. 109–102, title V, §510, Nov. 14, 2005, 119 Stat. 2198.
+
+Pub. L. 108–447, div. D, title V, §510, Dec. 8, 2004, 118 Stat. 2993.
+
+Pub. L. 108–199, div. D, title V, §510, Jan. 23, 2004, 118 Stat. 170.
+
+Pub. L. 108–7, div. E, title V, §575, Feb. 20, 2003, 117 Stat. 210.
+
+Pub. L. 107–115, title V, §580, Jan. 10, 2002, 115 Stat. 2170.
+
+Pub. L. 106–429, §101(a) \[title V, §589\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59.
 
 Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §528\], Nov. 29, 1999, 113 Stat. 1535, 1501A–90.
 

@@ -6,7 +6,7 @@ Notwithstanding the provisions of section 405(b) <sup>1</sup> but subject to su
 
 #### (b) Conclusiveness of records
 
-The records of the Selective Service System or of the Department of Defense shall be conclusive as to whether an alien was relieved or discharged from such liability for training or service because he was an alien.
+The records of the Selective Service System or of the Department of Defense shall be conclusiveas to whether an alien was relieved or discharged from such liability for training or service because he was an alien.
 
 #### (c) Service in armed forces of foreign country
 

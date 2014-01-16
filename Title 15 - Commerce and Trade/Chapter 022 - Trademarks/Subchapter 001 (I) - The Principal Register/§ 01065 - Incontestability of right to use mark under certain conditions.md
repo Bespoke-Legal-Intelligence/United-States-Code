@@ -6,7 +6,7 @@ Except on a ground for which application to cancel may be filed at any time unde
 
 &emsp;(2) there is no proceeding involving said rights pending in the United States Patent and Trademark Office or in a court and not finally disposed of; and
 
-&emsp;(3) an affidavit is filed with the Director within one year after the expiration of any such five-year period setting forth those goodsor services stated in the registration on or in connection with which such mark has been in continuous use for such five consecutive years and is still in use in commerce, and other matters specified in paragraphs (1) and (2) of this section; and
+&emsp;(3) an affidavit is filed with the Director within one year after the expiration of any such five-year period setting forth those goods or services stated in the registration on or in connection with which such mark has been in continuous use for such five consecutive years and is still in use in commerce, and other matters specified in paragraphs (1) and (2) of this section; and
 
 &emsp;(4) no incontestable right shall be acquired in a mark which is the generic name for the goods or services or a portion thereof, for which it is registered.
 
@@ -22,21 +22,21 @@ Acts March 3, 1881 and February 20, 1905, referred to in text, are acts Mar. 3, 
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–146, §3(b)(1), substituted “right of the owner” for “right of the registrant” in introductory provisions.
+<b>2010</b>—Pub. L. 111–146, §3(b)(1), substituted "right of the owner" for "right of the registrant" in introductory provisions.
 
-Par. (1). Pub. L. 111–146, §3(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “there has been no final decision adverse to registrant's claim of ownership of such mark for such goods or services, or to registrant's right to register the same or to keep the same on the register; and”.
+Par. (1). Pub. L. 111–146, §3(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "there has been no final decision adverse to registrant's claim of ownership of such mark for such goods or services, or to registrant's right to register the same or to keep the same on the register; and".
 
-Par. (2). Pub. L. 111–146, §3(b)(3), inserted “United States” before “Patent and Trademark Office”.
+Par. (2). Pub. L. 111–146, §3(b)(3), inserted "United States" before "Patent and Trademark Office".
 
-<b>1999</b>—Pub. L. 106–113 substituted “Director” for “Commissioner” in par. (3) and in two places in concluding provisions.
+<b>1999</b>—Pub. L. 106–113 substituted "Director" for "Commissioner" in par. (3) and in two places in concluding provisions.
 
-<b>1988</b>—Pub. L. 100–667, in introductory provisions, substituted “paragraphs (3) and (5)” for “subsections (c) and (e)”, in par. (3) “paragraphs” for “subsections”, and in par. (4) “the generic name for the goods or services or a portion thereof, for which it is registered” for “the common descriptive name of any article or substance, patented or otherwise”.
+<b>1988</b>—Pub. L. 100–667, in introductory provisions, substituted "paragraphs (3) and (5)" for "subsections (c) and (e)", in par. (3) "paragraphs" for "subsections", and in par. (4) "the generic name for the goods or services or a portion thereof, for which it is registered" for "the common descriptive name of any article or substance, patented or otherwise".
 
-<b>1982</b>—Pub. L. 97–247 substituted “registration” for “the publication” in provision preceding par. (1).
+<b>1982</b>—Pub. L. 97–247 substituted "registration" for "the publication" in provision preceding par. (1).
 
-<b>1975</b>—Par. (2). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Par. (2). Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
-<b>1962</b>—Pub. L. 87–772 substituted “(c) and (e) of section 1064” for “(c) and (d) of section 1064” in provision preceding par. (1), and struck out “or trade name” after “in a mark” in par. (4).
+<b>1962</b>—Pub. L. 87–772 substituted "(c) and (e) of section 1064" for "(c) and (d) of section 1064" in provision preceding par. (1), and struck out "or trade name" after "in a mark" in par. (4).
 
 #### Effective Date of 1999 Amendment
 

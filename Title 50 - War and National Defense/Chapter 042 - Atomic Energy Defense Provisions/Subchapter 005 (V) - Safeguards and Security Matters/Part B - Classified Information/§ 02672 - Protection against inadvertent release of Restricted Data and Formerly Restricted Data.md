@@ -2,7 +2,7 @@
 
 #### (a) Plan for protection against release
 
-The Secretary of Energy and the Archivist of the United States shall, after consultation with the members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a plan to prevent the inadvertent release of records containing Restricted Data or Formerly Restricted Data during the automatic declassification of records under Executive Order No. 12958 (50 U.S.C. 435 note).
+The Secretary of Energy and the Archivist of the United States shall, after consultation with the members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a plan to prevent the inadvertent release of records containing Restricted Data or Formerly Restricted Data during the automatic declassification of records under Executive Order No. 12958 (\[former\] 50 U.S.C. 435 note).
 
 #### (b) Plan elements
 
@@ -30,7 +30,7 @@ The plan under subsection (a) shall include the following:
 
 (2) Any record determined as a result of a review under paragraph (1) to contain Restricted Data or Formerly Restricted Data may not be declassified until the Secretary of Energy, in conjunction with the head of the agency having custody of the record, determines that the document is suitable for declassification.
 
-(3) After the date occurring 60 days after the submission of the plan required by subsection (a) to the committees referred to in paragraphs (1) and (2) of subsection (d), the requirement under paragraph (1) to review a record on a page-by-page basis shall not apply in the case of a record determined, under the actions specifiedin the plan pursuant to subsection (b)(1), to be a record that is highly unlikely to contain Restricted Data or Formerly Restricted Data.
+(3) After the date occurring 60 days after the submission of the plan required by subsection (a) to the committees referred to in paragraphs (1) and (2) of subsection (d), the requirement under paragraph (1) to review a record on a page-by-page basis shall not apply in the case of a record determined, under the actions specified in the plan pursuant to subsection (b)(1), to be a record that is highly unlikely to contain Restricted Data or Formerly Restricted Data.
 
 #### (d) Submission of plan
 
@@ -52,15 +52,11 @@ The Secretary of Energy shall, in each even-numbered year, submit a summary of t
 
 (2) The Secretary of Energy shall, in each even-numbered year beginning in 2010, submit to the committees and Assistant to the President specified in subsection (d) a report identifying any inadvertent releases of Restricted Data or Formerly Restricted Data under Executive Order No. 12958 discovered in the two-year period preceding the submittal of the report.
 
-#### (g) Definition
-
-In this section, the term “Restricted Data” has the meaning given that term in section 2014(y) of title 42.
-
-(Pub. L. 107–314, div. D, title XLV, §4522, formerly Pub. L. 105–261, div. C, title XXXI, §3161, Oct. 17, 1998, 112 Stat. 2259; Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. C, title XXXI, §3193(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480; renumbered Pub. L. 107–314, div. D, title XLV, §4522, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(12), Nov. 24, 2003, 117 Stat. 1774; Pub. L. 110–417, div. C, title XXXI, §3123, Oct. 14, 2008, 122 Stat. 4759.)
+(Pub. L. 107–314, div. D, title XLV, §4522, formerly Pub. L. 105–261, div. C, title XXXI, §3161, Oct. 17, 1998, 112 Stat. 2259; Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. C, title XXXI, §3193(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480; renumbered Pub. L. 107–314, div. D, title XLV, §4522, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(12), Nov. 24, 2003, 117 Stat. 1774; Pub. L. 110–417, div. C, title XXXI, §3123, Oct. 14, 2008, 122 Stat. 4759; Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(H), Dec. 26, 2013, 127 Stat. 1073.)
 
 #### References in Text
 
-Executive Order No. 12958, referred to in subsecs. (a), (b)(1), and (f), which was formerly set out as a note under section 435 of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
+Executive Order No. 12958, referred to in subsecs. (a), (b)(1), and (f), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Codification
 
@@ -68,21 +64,23 @@ Section was formerly set out as a note under section 435 of this title prior to 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e). Pub. L. 110–417, §3121(a)(1), (b), substituted “in each even-numbered year” for “on a periodic basis” and “subsection (b)(5)” for “subsection (b)(4)”.
+<b>2013</b>—Subsec. (g). Pub. L. 113–66 struck out subsec. (g) which defined "Restricted Data".
 
-Subsec. (f). Pub. L. 110–417, §3123(a)(2), added par. (2) and struck out former par. (2) which read as follows: “Commencing with inadvertent releases discovered on or after October 30, 2000, the Secretary of Energy shall, on a quarterly basis, submit a report to the committees and Assistant to the President specified in subsection (d). The report shall state whether any inadvertent releases described in paragraph (1) occurred during the immediately preceding quarter and, if so, shall identify each such release.”
+<b>2008</b>—Subsec. (e). Pub. L. 110–417, §3121(a)(1), (b), substituted "in each even-numbered year" for "on a periodic basis" and "subsection (b)(5)" for "subsection (b)(4)".
 
-<b>2003</b>—Subsec. (c)(1). Pub. L. 108–136, §3141(h)(12)(D)(i), substituted “October 17, 1998,” for “the date of the enactment of this Act”.
+Subsec. (f). Pub. L. 110–417, §3123(a)(2), added par. (2) and struck out former par. (2) which read as follows: "Commencing with inadvertent releases discovered on or after October 30, 2000, the Secretary of Energy shall, on a quarterly basis, submit a report to the committees and Assistant to the President specified in subsection (d). The report shall state whether any inadvertent releases described in paragraph (1) occurred during the immediately preceding quarter and, if so, shall identify each such release."
 
-Subsec. (f)(1). Pub. L. 108–136, §3141(h)(12)(D)(ii), substituted “October 17, 1998” for “the date of the enactment of this Act”.
+<b>2003</b>—Subsec. (c)(1). Pub. L. 108–136, §3141(h)(12)(D)(i), substituted "October 17, 1998," for "the date of the enactment of this Act".
 
-Subsec. (f)(2). Pub. L. 108–136, §3141(h)(12)(D)(iii), substituted “Commencing with inadvertent releases discovered on or after October 30, 2000, the Secretary” for “The Secretary”.
+Subsec. (f)(1). Pub. L. 108–136, §3141(h)(12)(D)(ii), substituted "October 17, 1998" for "the date of the enactment of this Act".
 
-<b>2000</b>—Subsec. (f)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than 30 days after any such inadvertent release occurring after the date of the enactment of this Act, the Secretary of Energy shall notify the committees and Assistant to the President specified in subsection (d) of such releases.”
+Subsec. (f)(2). Pub. L. 108–136, §3141(h)(12)(D)(iii), substituted "Commencing with inadvertent releases discovered on or after October 30, 2000, the Secretary" for "The Secretary".
 
-<b>1999</b>—Subsec. (d)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>2000</b>—Subsec. (f)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Not later than 30 days after any such inadvertent release occurring after the date of the enactment of this Act, the Secretary of Energy shall notify the committees and Assistant to the President specified in subsection (d) of such releases."
+
+<b>1999</b>—Subsec. (d)(2). Pub. L. 106–65 substituted "Committee on Armed Services" for "Committee on National Security".
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3193(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, provided that: “The amendment made by subsection (a) \[amending this section\] apply \[sic\] with respect to inadvertent releases of Restricted Data and Formerly Restricted Data that are discovered on or after the date of the enactment of this Act \[Oct. 30, 2000\].”
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3193(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, provided that: "The amendment made by subsection (a) \[amending this section\] apply \[sic\] with respect to inadvertent releases of Restricted Data and Formerly Restricted Data that are discovered on or after the date of the enactment of this Act \[Oct. 30, 2000\]."
 

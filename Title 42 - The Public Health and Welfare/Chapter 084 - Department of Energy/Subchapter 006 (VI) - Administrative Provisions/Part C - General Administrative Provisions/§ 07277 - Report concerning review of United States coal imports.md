@@ -32,7 +32,7 @@ Section was enacted as part of the Energy Policy and Conservation Amendments Act
 
 #### Short Title
 
-Pub. L. 99–58, title II, §201, July 2, 1985, 99 Stat. 107, provided that: “This title \[enacting this section and provisions set out as a note below\] may be cited as the ‘National Coal Imports Reporting Act of 1985’.”
+Pub. L. 99–58, title II, §201, July 2, 1985, 99 Stat. 107, provided that: "This title \[enacting this section andprovisions set out as a note below\] may be cited as the 'National Coal Imports Reporting Act of 1985'."
 
 #### Termination of Reporting Requirements
 
@@ -42,37 +42,37 @@ For termination, effective May 15, 2000, of provisions in this section requiring
 
 Pub. L. 99–58, title II, §203, July 2, 1985, 99 Stat. 108, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Energy shall, through the Energy Information Administration, conduct a comprehensive analysis of the coal import market in the United States and report the findings of such analysis to the Committee on Energy and Natural Resources of the Senate and the appropriate committees of the House of Representatives, within nine months of the date of enactment of this Act \[July 2, 1985\].
 
-“(b)
+"(b)
 
 Contents.—The report required by this section shall—
 
-&emsp;“(1) contain a detailed analysis of potential domestic markets for foreign coals, by producing nation, between 1985 and 1995;
+&emsp;"(1) contain a detailed analysis of potential domestic markets for foreign coals, by producing nation, between 1985 and 1995;
 
-&emsp;“(2) identify potential domestic consuming sectors of imported coal and evaluate the magnitude of any potential economic disruptions for each impacted State, including analysis of direct and indirect employment impact in the domestic coal industry and resulting income loss to each State;
+&emsp;"(2) identify potential domestic consuming sectors of imported coal and evaluate the magnitude of any potential economic disruptions for each impacted State, including analysis of direct and indirect employment impact in the domestic coal industry and resulting income loss to each State;
 
-&emsp;“(3) identify domestically produced coal that potentially could be replaced by imported coal;
+&emsp;"(3) identify domestically produced coal that potentially could be replaced by imported coal;
 
-&emsp;“(4) identify contractual commitments of domestic utilities expiring between 1985 and 1995 and describe spot buying practices of domestic utilities, fuel cost patterns, plant modification costs required to burn foreign coals, proximity of navigable waters to utilities, demand for compliance coal, availability of less expensive purchased power from Canada, and State and local considerations;
+&emsp;"(4) identify contractual commitments of domestic utilities expiring between 1985 and 1995 and describe spot buying practices of domestic utilities, fuel cost patterns, plant modification costs required to burn foreign coals, proximity of navigable waters to utilities, demand for compliance coal, availability of less expensive purchased power from Canada, and State and local considerations;
 
-&emsp;“(5) evaluate increased coal consumption by domestic electric utilities resulting from increased power sales and analyze the potential coal import market represented by this increased coal consumption, including consumption by existing coal-fired plants, new coal-fired plants projected up to the year 1995, and plants planning to convert to coal by 1995;
+&emsp;"(5) evaluate increased coal consumption by domestic electric utilities resulting from increased power sales and analyze the potential coal import market represented by this increased coal consumption, including consumption by existing coal-fired plants, new coal-fired plants projected up to the year 1995, and plants planning to convert to coal by 1995;
 
-&emsp;“(6) identify existing authorities available to the Federal Government relating to coal imports, assess the potential impact of exercising each of these authorities, and describe executive branch plans and strategies to address coal imports;
+&emsp;"(6) identify existing authorities available to the Federal Government relating to coal imports, assess the potential impact of exercising each of these authorities, and describe executive branch plans and strategies to address coal imports;
 
-&emsp;“(7) identify and characterize the coal export policies of all major coal exporting nations, including the United States, Australia, Canada, Colombia, Poland, and South Africa, with specific analysis of—
+&emsp;"(7) identify and characterize the coal export policies of all major coal exporting nations, including the United States, Australia, Canada, Colombia, Poland, and South Africa, with specific analysis of—
 
-&emsp;&emsp;“(A) direct or indirect Government subsidies to coal exporters;
+&emsp;&emsp;"(A) direct or indirect Government subsidies to coal exporters;
 
-&emsp;&emsp;“(B) health, safety, and environmental regulations imposed on each coal producer; and
+&emsp;&emsp;"(B) health, safety, and environmental regulations imposed on each coal producer; and
 
-&emsp;&emsp;“(C) trade policies relating to coal exports;
+&emsp;&emsp;"(C) trade policies relating to coal exports;
 
-&emsp;“(8) evaluate the excess capacity of foreign producers, potential development of new export-oriented coal mines in foreign nations, operating costs of foreign coal mines, capacity of ocean vessels to transport foreign coal, and constraints on importing coal into the United States because of port and harbor availability;
+&emsp;"(8) evaluate the excess capacity of foreign producers, potential development of new export-oriented coal mines in foreign nations, operating costs of foreign coal mines, capacity of ocean vessels to transport foreign coal, and constraints on importing coal into the United States because of port and harbor availability;
 
-&emsp;“(9) identify specifically the participation of all United States corporations involved in mining and exporting coal from foreign nations; and
+&emsp;"(9) identify specifically the participation of all United States corporations involved in mining and exporting coal from foreign nations; and
 
-&emsp;“(10) identify the policies governing coal imports of all coal-importing industrialized nations (including the United States, Japan, and European nations) by considering such factors as import duties or tariffs, import quotas, and other governmental restrictions or trade policies impacting coal imports.”
+&emsp;"(10) identify the policies governing coal imports of all coal-importing industrialized nations (including the United States, Japan, and European nations) by considering such factors as import duties or tariffs, import quotas, and other governmental restrictions or trade policies impacting coal imports."
 

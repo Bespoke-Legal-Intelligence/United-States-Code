@@ -34,7 +34,7 @@
 
 (1) The Secretary may not approve an application for the assignment of a member of the Corps described in subparagraph (C) of section 254d(a)(1) of this title to an entity unless the application of the entity contains assurances satisfactory to the Secretary that the entity (A) has sufficient financial resources to provide the member of the Corps with an income of not less than the income to which the member would be entitled if the member was a member described in subparagraph (B) of section 254d(a)(1) of this title, or (B) would have such financial resources if a grant was made to the entity under paragraph (2).
 
-(2)(A) If in approving an application of an entity for the assignment of a member of the Corps described in subparagraph (C) of section 254d(a)(1) of this title the Secretary determines that the entity does not have sufficient financial resources to provide the member of the Corps with an income of not less than the income to which the member would be entitled if the member was a member described in subparagraph (B) of section 254d(a)(1) of this title, theSecretary may make a grant to the entity to assure that the member of the Corps assigned to it will receive during the period of assignment to the entity such an income.
+(2)(A) If in approving an application of an entity for the assignment of a member of the Corps described in subparagraph (C) of section 254d(a)(1) of this title the Secretary determines that the entity does not have sufficient financial resources to provide the member of the Corps with an income of not less than the income to which the member would be entitled if the member was a member described in subparagraph (B) of section 254d(a)(1) of this title, the Secretary may make a grant to the entity to assure that the member of the Corps assigned to it will receive during the period of assignment to the entity such an income.
 
 (B) The amount of any grant under subparagraph (A) shall be determined by the Secretary. Payments under such a grant may be made in advance or by way of reimbursement, and at such intervals and on such conditions, as the Secretary finds necessary. No grant may be made unless an application therefor is submitted to and approved by the Secretary. Such an application shall be in such form, submitted in such manner, and contain such information, as the Secretary shall by regulation prescribe.
 
@@ -44,7 +44,7 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 #### (d) Entities entitled to aid; forms of assistance; coordination of efforts; agreements for assignment of Corps members; qualified entity
 
-(1) The Secretary may provide technical assistance to a public or private entity which is located in a health professional shortage area and which desires to make an application under this section for assignment of a Corps member to such area. Assistance provided under this paragraph may include assistance to an entity in (A) analyzing the potential use of health professions personnel in defined health services delivery areas by the residents of such areas, (B) determining the need for such personnel in such areas, (C) determining the extent to which such areas will have a financial base to support the practice of such personnel and the extent to which additional financial resources are needed to adequately support the practice, (D) determining the types of inpatient and other health services that should be provided by such personnel in such areas, and (E) developing long-term plans for addressing health professional shortages and improving access to health care. The Secretary shall encourage entities that receive technical assistance under this paragraph to communicate with other communities, State Offices of Rural Health, State Primary Care Associations and Offices, and other entities concerned with site development and community needs assessment.
+(1) The Secretary may provide technical assistance to a public or private entity which is located in a health professional shortage area and which desires to make an application under this section for assignment of a Corps member to such area. Assistance provided under this paragraph may include assistance to an entity in (A) analyzing the potential use of health professions personnel in defined health services delivery areas by the residents of such areas, (B) determining the need for such personnel in such areas, (C) determining the extent to which such areas will have a financial base to support the practice of such personnel and the extent to which additional financial resources are needed to adequately support the practice, (D) determining the types of inpatient and other health services that should be provided by such personnel in such areas, and (E) developing long-term plans for addressing health professional shortages and improving access to health care. The Secretary shall encourage entities that receivetechnical assistance under this paragraph to communicate with other communities, State Offices of Rural Health, State Primary Care Associations and Offices, and other entities concerned with site development and community needs assessment.
 
 (2) The Secretary may provide, to public and private entities which are located in a health professional shortage area to which area a Corps member has been assigned, technical assistance to assist in the retention of such member in such area after the completion of such member's assignment to the area.
 
@@ -58,7 +58,7 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 > the Secretary will assign under this section members of the Corps in accordance with the program.
 
-(B) For purposes of subparagraph (A), the term “qualified entity” means a State, political subdivision of a State, an agency of a State or political subdivision, or other public or private entity operating solely within one State, which the Secretary determines is able—
+(B) For purposes of subparagraph (A), the term "qualified entity" means a State, political subdivision of a State, an agency of a State or political subdivision, or other public or private entity operating solely within one State, which the Secretary determines is able—
 
 &emsp;(i) to analyze the potential use of health professions personnel in defined health services delivery areas by the residents of such areas;
 
@@ -78,7 +78,7 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 Notwithstanding any other law, any member of the Corps licensed to practice medicine, osteopathic medicine, dentistry, or any other health profession in any State shall, while serving in the Corps, be allowed to practice such profession in any State.
 
-(July 1, 1944, ch. 373, title III, §333, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2272; amended Pub. L. 97–35, title XXVII, §2703, Aug. 13, 1981, 95 Stat. 904; Pub. L. 100–177, title III, §§303, 304, Dec. 1, 1987, 101 Stat. 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988,102 Stat. 3146; Pub. L. 101–597, title I, §103, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §303, Oct. 26, 2002, 116 Stat. 1645; Pub. L. 108–163, §2(g), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 110–355, §3(c), Oct. 8, 2008, 122 Stat. 3993.)
+(July 1, 1944, ch. 373, title III, §333, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2272; amended Pub. L. 97–35, title XXVII, §2703, Aug. 13, 1981, 95 Stat. 904; Pub. L. 100–177, title III, §§303, 304, Dec. 1, 1987, 101 Stat. 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §103, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §303, Oct. 26, 2002, 116 Stat. 1645; Pub. L. 108–163, §2(g), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 110–355, §3(c), Oct. 8, 2008, 122 Stat. 3993.)
 
 #### Amendments
 
@@ -86,23 +86,23 @@ Notwithstanding any other law, any member of the Corps licensed to practice medi
 
 <b>2003</b>—Subsec. (a)(1)(C). Pub. L. 108–163 realigned margin.
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §303(1)(A)(i), struck out “(specified in the agreement described in section 254g of this title)” after “assignment period” in introductory provisions.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §303(1)(A)(i), struck out "(specified in the agreement described in section 254g of this title)" after "assignment period" in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 107–251, §303(1)(A)(ii), struck out “nonprofit” before “private entity”.
+Subsec. (a)(1)(A). Pub. L. 107–251, §303(1)(A)(ii), struck out "nonprofit" before "private entity".
 
-Subsec. (a)(1)(C). Pub. L. 107–251, §303(1)(A)(iii), added subpar. (C) and struck out former subpar. (C) which read as follows: “an agreement has been entered into between the entity which has applied and the Secretary, in accordance with section 254g of this title; and”.
+Subsec. (a)(1)(C). Pub. L. 107–251, §303(1)(A)(iii), added subpar. (C) and struck out former subpar. (C) which read as follows: "an agreement has been entered into between the entity which has applied and the Secretary, in accordance with section 254g of this title; and".
 
-Subsec. (a)(3). Pub. L. 107–251, §303(1)(B), inserted at end “In approving such applications, the Secretary shall give preference to applications in which a nonprofit entity or public entity shall provide a site to which Corps members may be assigned.”
+Subsec. (a)(3). Pub. L. 107–251, §303(1)(B), inserted at end "In approving such applications, the Secretary shall give preference to applications in which a nonprofit entity or public entity shall provide a site to which Corps members may be assigned."
 
-Subsec. (d)(1). Pub. L. 107–251, §303(2), struck out “nonprofit” before “private entity” in first sentence, added cl. (E), and inserted at end “The Secretary shall encourage entities that receive technical assistance under this paragraph to communicate with other communities, State Offices of Rural Health, State Primary Care Associations and Offices, and other entities concerned with site development and community needs assessment.”
+Subsec. (d)(1). Pub. L. 107–251, §303(2), struck out "nonprofit" before "private entity" in first sentence, added cl. (E), and inserted at end "The Secretary shall encourage entities that receive technical assistance under this paragraph to communicate with other communities, State Offices of Rural Health, State Primary Care Associations and Offices, and other entities concerned with site development and community needs assessment."
 
-Subsec. (d)(2). Pub. L. 107–251, §303(2)(A), struck out “nonprofit” before “private entities”.
+Subsec. (d)(2). Pub. L. 107–251, §303(2)(A), struck out "nonprofit" before "private entities".
 
-Subsec. (d)(4). Pub. L. 107–251, §303(2)(A), struck out “nonprofit” before “private entities” in introductory provisions of subpar. (A) and before “private entity” in introductory provisions of subpar. (B).
+Subsec. (d)(4). Pub. L. 107–251, §303(2)(A), struck out "nonprofit" before "private entities" in introductory provisions of subpar. (A) and before "private entity" in introductory provisions of subpar. (B).
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in introductory and closing provisions.
 
-Subsec. (a)(1)(D)(ii)(II). Pub. L. 101–597, §103(a), substituted “has been” and “any Corps” for “will be” and “Corps”, respectively.
+Subsec. (a)(1)(D)(ii)(II). Pub. L. 101–597, §103(a), substituted "has been" and "any Corps" for "will be" and "Corps", respectively.
 
 Subsec. (b). Pub. L. 101–597, §103(b), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to approval of application for assignment of Corps personnel subject to review and comment on application by health service agencies in designated area.
 
@@ -126,7 +126,7 @@ Subsec. (i). Pub. L. 101–597, §103(b)(2), redesignated subsec. (i) as (e).
 
 Subsecs. (j), (k). Pub. L. 101–597, §103(b)(1), struck out subsecs. (j) and (k) which provided for placement of physicians in medically underserved areas and assignment of family physicians, respectively.
 
-<b>1988</b>—Subsec. (i). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy”.
+<b>1988</b>—Subsec. (i). Pub. L. 100–607 substituted "osteopathic medicine" for "osteopathy".
 
 <b>1987</b>—Subsec. (j). Pub. L. 100–177, §303, added subsec. (j).
 
@@ -138,9 +138,9 @@ Subsec. (c). Pub. L. 97–35, §2703(c), struck out par. (2) which related to sp
 
 Subsecs. (d) to (f). Pub. L. 97–35, §2703(d), added subsec. (d) and redesignated former subsecs. (d), (e), and (f) as (e), (f), and (g), respectively.
 
-Subsec. (g). Pub. L. 97–35, §2703(d), (e), redesignated former subsec. (f) as (g) and substituted “may” for “shall” in pars. (1) to (3), inserted provisions respecting health professions personnel in par. (1), added par. (4), and struck out requirement respecting demonstrated interest in pars. (1) and (2). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 97–35, §2703(d), (e), redesignated former subsec. (f) as (g) and substituted "may" for "shall" in pars. (1) to (3), inserted provisions respecting health professions personnel in par. (1), added par. (4), and struck out requirement respecting demonstrated interest in pars. (1) and (2). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 97–35, §2703(d), (f), redesignated former subsec. (g) as (h) and directed that “may” be substituted for “shall” which was executed by substituting “may” for “shall” in two places preceding par. (1). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 97–35, §2703(d), (f), redesignated former subsec. (g) as (h) and directed that "may" be substituted for "shall" which was executed by substituting "may" for "shall" in two places preceding par. (1). Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 97–35, §2703(d), (g), redesignated former subsec. (h) as (i) and inserted reference to other health profession.
 

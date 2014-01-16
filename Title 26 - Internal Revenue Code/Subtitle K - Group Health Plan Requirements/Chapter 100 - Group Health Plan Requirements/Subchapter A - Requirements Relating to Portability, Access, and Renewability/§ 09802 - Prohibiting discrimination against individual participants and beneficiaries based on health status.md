@@ -80,7 +80,7 @@
 
 #### (4) Research exception
 
-&emsp;Notwithstanding paragraph (1), a group health plan may request, but not require, that a participant or beneficiary undergo a genetic test if each of the following conditions is met:
+&emsp;Notwithstanding paragraph (1), a group health plan may request, but not require, thata participant or beneficiary undergo a genetic test if each of the following conditions is met:
 
 &emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 
@@ -142,7 +142,7 @@ Section 264 of the Health Insurance Portability and Accountability Act of 1996, 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(2)(A). Pub. L. 110–233, §103(a)(1), inserted “except as provided in paragraph (3)” before semicolon.
+<b>2008</b>—Subsec. (b)(2)(A). Pub. L. 110–233, §103(a)(1), inserted "except as provided in paragraph (3)" before semicolon.
 
 Subsec. (b)(3). Pub. L. 110–233, §103(a)(2), added par. (3).
 
@@ -156,15 +156,15 @@ Pub. L. 110–233, §103(b), redesignated subsec. (c) as (f) relating to special
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–233, title I, §103(f)(2), May 21, 2008, 122 Stat. 899, provided that: “The amendments made by this section \[enacting section 9834 of this title and amending this section and section 9832 of this title\] shall apply with respect to group health plans for plan years beginning after the date that is 1 year after the date of the enactment of this Act \[May 21, 2008\].”
+Pub. L. 110–233, title I, §103(f)(2), May 21, 2008, 122 Stat. 899, provided that: "The amendments made by this section \[enacting section 9834 of this title and amending this section and section 9832 of this title\] shall apply with respect to group health plans for plan years beginning after the date that is 1 year after the date of the enactment of this Act \[May 21, 2008\]."
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XV, §1532(b), Aug. 5, 1997, 111 Stat. 1085, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 401(a) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\].”
+Pub. L. 105–34, title XV, §1532(b), Aug. 5, 1997, 111 Stat. 1085, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 401(a) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\]."
 
 #### Regulations
 
-Pub. L. 110–233, title I, §103(f)(1), May 21, 2008, 122 Stat. 899, provided that: “The Secretary of the Treasury shall issue final regulations or other guidance not later than 12 months after the date of the enactment of this Act \[May 21, 2008\] to carry out the amendments made by this section \[enacting section 9834 of this title and amending this section and section 9832 of this title\].”
+Pub. L. 110–233, title I, §103(f)(1), May 21, 2008, 122 Stat. 899, provided that: "The Secretary of the Treasury shall issue final regulations or other guidance not later than 12 months after the date of the enactment of this Act \[May 21, 2008\] to carry out the amendments made by this section \[enacting section 9834 of this title and amending this section and section 9832 of this title\]."
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (f) have been enacted.</i>
 

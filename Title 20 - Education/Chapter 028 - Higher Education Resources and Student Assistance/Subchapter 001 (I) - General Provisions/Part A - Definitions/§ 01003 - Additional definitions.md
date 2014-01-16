@@ -4,23 +4,23 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 #### (1) Authorizing committees
 
-&emsp;The term “authorizing committees” means the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives.
+&emsp;The term "authorizing committees" means the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives.
 
 #### (2) Combination of institutions of higher education
 
-&emsp;The term “combination of institutions of higher education” means a group of institutions of higher education that have entered into a cooperative arrangement for the purpose of carrying out a common objective, or a public or private nonprofit agency, organization, or institution designated or created by a group of institutions of higher education for the purpose of carrying out a common objective on the group's behalf.
+&emsp;The term "combination of institutions of higher education" means a group of institutions of higher education that have entered into a cooperative arrangement for the purpose of carrying out a common objective, or a public or private nonprofit agency, organization, or institution designated or created by a group of institutions of higher education for the purpose of carrying out a common objective on the group's behalf.
 
 #### (3) Critical foreign language
 
-&emsp;Except as otherwise provided, the term “critical foreign language” means each of the languages contained in the list of critical languages designated by the Secretary in the Federal Register on August 2, 1985 (50 Fed. Reg. 31412; promulgated under the authority of section 212(d) of the Education for Economic Security Act (repealed by section 2303 of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988)), as updated by the Secretary from time to time and published in the Federal Register, except that in the implementation of this definition with respect to a specific title, the Secretary may set priorities according to the purposes of such title and the national security, economic competitiveness, and educational needs of the United States.
+&emsp;Except as otherwise provided, the term "critical foreign language" means each of the languages contained in the list of critical languages designated by the Secretary in the Federal Register on August 2, 1985 (50 Fed. Reg. 31412; promulgated under the authority of section 212(d) of the Education for Economic Security Act (repealed by section 2303 of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988)), as updated by the Secretary from time to time and published in the Federal Register, except that in the implementation of this definition with respect to a specific title, the Secretary may set priorities according to the purposes of such title and the national security, economic competitiveness, and educational needs of the United States.
 
 #### (4) Department
 
-&emsp;The term “Department” means the Department of Education.
+&emsp;The term "Department" means the Department of Education.
 
 #### (5) Diploma mill
 
-&emsp;The term “diploma mill” means an entity that—
+&emsp;The term "diploma mill" means an entity that—
 
 &emsp;&emsp;(A)(i) offers, for a fee, degrees, diplomas, or certificates, that may be used to represent to the general public that the individual possessing such a degree, diploma, or certificate has completed a program of postsecondary education or training; and
 
@@ -34,13 +34,13 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 #### (6) Disability
 
-&emsp;The term “disability” has the same meaning given that term under section 12102(2) of title 42.
+&emsp;The term "disability" has the same meaning given that term under section 12102(2) of title 42.
 
 #### (7) Distance education
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided, the term “distance education” means education that uses one or more of the technologies described in subparagraph (B)—
+&emsp;&emsp;Except as otherwise provided, the term "distance education" means education that uses one or more of the technologies described in subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) to deliver instruction to students who are separated from the instructor; and
 
@@ -60,7 +60,7 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 #### (8) Early childhood education program
 
-&emsp;The term “early childhood education program” means—
+&emsp;The term "early childhood education program" means—
 
 &emsp;&emsp;(A) a Head Start program or an Early Head Start program carried out under the Head Start Act (42 U.S.C. 9831 et seq.), including a migrant or seasonal Head Start program, an Indian Head Start program, or a Head Start program or an Early Head Start program that also receives State funding;
 
@@ -80,31 +80,31 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 #### (9) Elementary school
 
-&emsp;The term “elementary school” has the same meaning given that term under section 7801 of this title.
+&emsp;The term "elementary school" has the same meaning given that term under section 7801 of this title.
 
 #### (10) Gifted and talented
 
-&emsp;The term “gifted and talented” has the same meaning given that term under section 7801 of this title.
+&emsp;The term "gifted and talented" has the same meaning given that term under section 7801 of this title.
 
 #### (11) Local educational agency
 
-&emsp;The term “local educational agency” has the same meaning given that term under section 7801 of this title.
+&emsp;The term "local educational agency" has the same meaning given that term under section 7801 of this title.
 
 #### (12) New borrower
 
-&emsp;The term “new borrower” when used with respect to any date means an individual who on that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;The term "new borrower" when used with respect to any date means an individual who on that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (13) Nonprofit
 
-&emsp;The term “nonprofit” as applied to a school, agency, organization, or institution means aschool, agency, organization, or institution owned and operated by one or more nonprofit corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+&emsp;The term "nonprofit" as applied to a school, agency, organization, or institution means a school, agency, organization, or institution owned and operated by one or more nonprofit corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 #### (14) Poverty line
 
-&emsp;The term “poverty line” means the poverty line (as defined in section 9902(2) of title 42) applicable to a family of the size involved.
+&emsp;The term "poverty line" means the poverty line (as defined in section 9902(2) of title 42) applicable to a family of the size involved.
 
 #### (15) School or department of divinity
 
-&emsp;The term “school or department of divinity” means an institution, or a department or a branch of an institution, the program of instruction of which is designed for the education of students—
+&emsp;The term "school or department of divinity" means an institution, or a department or a branch of an institution, the program of instruction of which is designed for the education of students—
 
 &emsp;&emsp;(A) to prepare the students to become ministers of religion or to enter upon some other religious vocation (or to provide continuing training for any such vocation); or
 
@@ -112,45 +112,45 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 #### (16) Secondary school
 
-&emsp;The term “secondary school” has the same meaning given that term under section 7801 of this title.
+&emsp;The term "secondary school" has the same meaning given that term under section 7801 of this title.
 
 #### (17) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Education.
+&emsp;The term "Secretary" means the Secretary of Education.
 
 #### (18) Service-learning
 
-&emsp;The term “service-learning” has the same meaning given that term under section 12511(23) <sup>1</sup> of title 42.
+&emsp;The term "service-learning" has the same meaning given that term under section 12511(23) <sup>1</sup> of title 42.
 
 #### (19) Special education teacher
 
-&emsp;The term “special education teacher” means teachers who teach children with disabilities as defined in section 602 of the Individuals with Disabilities Education Act.
+&emsp;The term "special education teacher" means teachers who teach children with disabilities as defined in section 602 of the Individuals with Disabilities Education Act.
 
 #### (20) State educational agency
 
-&emsp;The term “State educational agency” has the same meaning given that term under section 7801 of this title.
+&emsp;The term "State educational agency" has the same meaning given that term under section 7801 of this title.
 
 #### (21) State; Freely Associated States
 
 #### (A) State
 
-&emsp;&emsp;The term “State” includes, in addition to the several States of the United States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.
+&emsp;&emsp;The term "State" includes, in addition to the several States of the United States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.
 
 #### (B) Freely Associated States
 
-&emsp;&emsp;The term “Freely Associated States” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+&emsp;&emsp;The term "Freely Associated States" means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (22) State higher education agency
 
-&emsp;The term “State higher education agency” means the officer or agency primarily responsible for the State supervision of higher education.
+&emsp;The term "State higher education agency" means the officer or agency primarily responsible for the State supervision of higher education.
 
 #### (23) Universal design
 
-&emsp;The term “universal design” has the meaning given the term in section 3002 of title 29.
+&emsp;The term "universal design" has the meaning given the term in section 3002 of title 29.
 
 #### (24) Universal design for learning
 
-&emsp;The term “universal design for learning” means a scientifically valid framework for guiding educational practice that—
+&emsp;The term "universal design for learning" means a scientifically valid framework for guiding educational practice that—
 
 &emsp;&emsp;(A) provides flexibility in the ways information is presented, in the ways students respond or demonstrate knowledge and skills, and in the ways students are engaged; and
 
@@ -178,13 +178,13 @@ Another prior section 1003, Pub. L. 89–329, title I, §103, as added Pub. L. 9
 
 Another prior section 1003, Pub. L. 89–329, title I, §103, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1375, related to duties of the Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1003, Pub. L. 89–329, title I, §103, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 92–318, title I, §102(a)(2), June 23, 1972, 86 Stat. 237; Pub. L. 94–482, title I, §101(b)(2), (g)(2), Oct. 12, 1976, 90 Stat. 2084, 2086; Pub. L. 95–43, §1(a)(1), June 15, 1977, 91 Stat. 213; Pub. L. 96–96, §1, Oct. 31, 1979, 93 Stat. 729, provided for the allotment of funds to States, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1003, Pub. L. 89–329, title I, §103, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 92–318, title I,§102(a)(2), June 23, 1972, 86 Stat. 237; Pub. L. 94–482, title I, §101(b)(2), (g)(2), Oct. 12, 1976, 90 Stat. 2084, 2086; Pub. L. 95–43, §1(a)(1), June 15, 1977, 91 Stat. 213; Pub. L. 96–96, §1, Oct. 31, 1979, 93 Stat. 729, provided for the allotment of funds to States, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1004, Pub. L. 89–329, title I, §104, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 460; amended Pub. L. 103–208, §2(a)(2), Dec. 20, 1993, 107 Stat. 2457, related to grant applications, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 Another prior section 1004, Pub. L. 89–329, title I, §104, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1376, related to administrative provisions and powers of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1004, Pub. L. 89–329, title I, §104, Nov. 8, 1965, 79 Stat. 1220; Pub. L. 94–482, title I, §101(b)(3), Oct. 12, 1976, 90 Stat. 2084; Pub. L. 95–43, §1(a)(2), June 15, 1977, 91 Stat. 213, described the allowable uses of States’ allotments of funds, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1004, Pub. L. 89–329, title I, §104, Nov. 8, 1965, 79 Stat. 1220; Pub. L. 94–482, title I, §101(b)(3), Oct. 12, 1976, 90 Stat. 2084; Pub. L. 95–43, §1(a)(2), June 15, 1977, 91 Stat. 213, described the allowable uses of States' allotments of funds, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1005, Pub. L. 89–329, title I, §105, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 461, related to peer review of applications, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
@@ -218,7 +218,7 @@ Section 1010, Pub. L. 89–329, title I, §113, formerly §110, Nov. 8, 1965, 79
 
 Pars. (17) to (24). Pub. L. 110–315, §103(a)(1), added pars. (17) to (24).
 
-<b>2002</b>—Pars. (4) to (6), (10), (14). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Pars. (4) to (6), (10), (14). Pub. L. 107–110 substituted "7801" for "8801".
 
 #### Change of Name
 

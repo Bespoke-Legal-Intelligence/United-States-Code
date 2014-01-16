@@ -24,27 +24,27 @@ In this section:
 
 #### (1) Collection
 
-&emsp;The term “collection” means a collection of intellectual and cultural artifacts, including documents, sculpture, and works of art.
+&emsp;The term "collection" means a collection of intellectual and cultural artifacts, including documents, sculpture, and works of art.
 
 #### (2) Eligible entity
 
-&emsp;The term “eligible entity” means a Federal entity, State, local, or tribal government, educational institution, or nonprofit organization.
+&emsp;The term "eligible entity" means a Federal entity, State, local, or tribal government, educational institution, or nonprofit organization.
 
 #### (3) Historic property
 
-&emsp;The term “historic property” has the meaning given the term in section 470w of this title.
+&emsp;The term "historic property" has the meaning given the term in section 470w of this title.
 
 #### (4) Nationally significant
 
-&emsp;The term “nationally significant” means a collection or historic property that meets the applicable criteria for national significance, in accordance with regulations promulgated by the Secretary pursuant to section 470a(a)(2) of this title.
+&emsp;The term "nationally significant" means a collection or historic property that meets the applicable criteria for national significance, in accordance with regulations promulgated by the Secretary pursuant to section 470a(a)(2) of this title.
 
 #### (5) Program
 
-&emsp;The term “program” means the Save America's Treasures Program established under subsection (c)(1).
+&emsp;The term "program" means the Save America's Treasures Program established under subsection (c)(1).
 
 #### (6) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior, acting through the Director of the National Park Service.
+&emsp;The term "Secretary" means the Secretary of the Interior, acting through the Director of the National Park Service.
 
 #### (c) Establishment
 
@@ -116,7 +116,7 @@ In this section:
 
 #### (B) Notification
 
-&emsp;&emsp;Not later than 30 days before the date on which the Secretary provides grants for a fiscal year under the program, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate, the Committee on Appropriations of the Senate, the Committee on Natural Resources of the House of Representatives, and the Committee on Appropriations of the House of Representatives a list of any eligible projects that are to be provided grants under the program for the fiscal year.
+&emsp;&emsp;Not later than 30 days before the date on which the Secretary provides grants for afiscal year under the program, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate, the Committee on Appropriations of the Senate, the Committee on Natural Resources of the House of Representatives, and the Committee on Appropriations of the House of Representatives a list of any eligible projects that are to be provided grants under the program for the fiscal year.
 
 #### (7) Cost-sharing requirement
 

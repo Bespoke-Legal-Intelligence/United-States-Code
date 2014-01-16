@@ -6,7 +6,7 @@ The purposes of this part are—
 
 &emsp;(2) to provide funding for efforts by nonprofit providers and State and local governments to quickly rehouse homeless individuals and families while minimizing the trauma and dislocation caused to individuals, families, and communities by homelessness;
 
-&emsp;(3) to promote access to, and effective utilization of, mainstream programs described in section 11313(a)(7) of this title and programs funded with State or local resources; and
+&emsp;(3) to promote access to, and effective utilization of, mainstream programs described insection 11313(a)(7) of this title and programs funded with State or local resources; and
 
 &emsp;(4) to optimize self-sufficiency among individuals and families experiencing homelessness.
 
@@ -24,7 +24,7 @@ Section effective on the earlier of 18 months after May 20, 2009, or 3 months af
 
 #### Transitional Provision
 
-Pub. L. 102–550, title XIV, §1403(b), Oct. 28, 1992, 106 Stat. 4021, as amended by Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: “Notwithstanding the amendment made by subsection (a) \[adding part C and repealing former parts C and D of this subchapter\], before the date of the effectiveness of the regulations issued under section 427 of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11387\] (as amended by subsection (a) of this section) the Secretary may make grants under the provisions of subtitles C and D of \[title IV of\] the McKinney-Vento Homeless Assistance Act \[former parts C and D of this subchapter\], as in effect immediately before the enactment of this Act \[Oct. 28, 1992\]. Any grants made before such effective date shall be subject to the provisions of such subtitles.”
+Pub. L. 102–550, title XIV, §1403(b), Oct. 28, 1992, 106 Stat. 4021, as amended by Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: "Notwithstanding the amendment made by subsection (a) \[adding part C and repealing former parts C and D of this subchapter\], before the date of the effectiveness of the regulations issued under section 427 of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11387\] (as amended by subsection (a) of this section) the Secretary may make grants under the provisions of subtitles C and D of \[title IV of\] the McKinney-Vento Homeless Assistance Act \[former parts C and D of this subchapter\], as in effect immediately before the enactment of this Act \[Oct. 28, 1992\]. Any grants made before such effective date shall be subject to the provisions of such subtitles."
 
 #### Demonstration Projects To Reduce Number of Homeless Families in Welfare Hotels
 
@@ -32,5 +32,5 @@ Pub. L. 100–628, title IX, §903, Nov. 7, 1988, 102 Stat. 3258, as amended by 
 
 #### Definition
 
-For provisions relating to definition of “local government” as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
+For provisions relating to definition of "local government" as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
 

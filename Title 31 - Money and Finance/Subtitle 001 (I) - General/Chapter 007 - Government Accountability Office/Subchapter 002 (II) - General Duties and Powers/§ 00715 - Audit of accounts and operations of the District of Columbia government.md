@@ -2,7 +2,7 @@
 
 (a) In addition to the audit carried out under section 455 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 803; D.C. Code, §47–117), the Comptroller General each year shall audit the accounts and operations of the District of Columbia government. An audit shall be carried out according to principles, under regulations, and in a way the Comptroller General prescribes. When prescribing the procedures to follow and the extent of the inspection of records, the Comptroller General shall consider generally accepted principles of auditing, including the effectiveness of accounting organizations and systems, internal audit and control, and related administrative practices.
 
-(b) The Comptroller General shall submit each audit report to Congress and (other than the audit reports of the District of Columbia Courts)the Mayor and Council of the District of Columbia. The report shall include the scope of an audit, information the Comptroller General considers necessary to keep Congress, the Mayor, and the Council informed of operations audited, and recommendations the Comptroller General considers advisable.
+(b) The Comptroller General shall submit each audit report to Congress and (other than the audit reports of the District of Columbia Courts) the Mayor and Council of the District of Columbia. The report shall include the scope of an audit, information the Comptroller General considers necessary to keep Congress, the Mayor, and the Council informed of operations audited, and recommendations the Comptroller General considers advisable.
 
 (c)(1) By the 90th day after receiving an audit report from the Comptroller General, the Mayor shall state in writing to the Council measures the District of Columbia government is taking to comply with the recommendations of the Comptroller General. A copy of the statement shall be sent to Congress.
 
@@ -44,19 +44,19 @@ Dec. 24, 1973, Pub. L. 93–198, §736, 87 Stat. 823.
 
 31:61(a)(last sentence).
 
-In subsection (a), the words “Comptroller General” are substituted for “General Accounting Office” for consistency. The words “of Columbia” are added for clarity. The words “rules and” are omitted as surplus. The word “way” is substituted for “procedures” and “detail” to eliminate unnecessary words. The words “of the United States” are omitted as surplus. The word “records” is substituted for “vouchers and other documents” to eliminate unnecessary words.
+In subsection (a), the words "Comptroller General" are substituted for "General Accounting Office" for consistency. The words "of Columbia" are added for clarity. The words "rules and" are omitted as surplus. The word "way" is substituted for "procedures" and "detail" to eliminate unnecessary words. The words "of the United States" are omitted as surplus. The word "records" is substituted for "vouchers and other documents" to eliminate unnecessary words.
 
-In subsection (b), the words “of the District of Columbia” are added for clarity. The words “comments and” are omitted as surplus. The word “audited” is substituted for “to which the reports relate” for consistency and to eliminate unnecessary words. The words “with respect thereto” are omitted as surplus.
+In subsection (b), the words "of the District of Columbia" are added for clarity. The words "comments and" are omitted as surplus. The word "audited" is substituted for "to which the reports relate" for consistency and to eliminate unnecessary words. The words "with respect thereto" are omitted as surplus.
 
-In subsection (c)(2), the words “After the Council receives the statement of the Mayor” are substituted for “After the Mayor has had an opportunity to be heard”, and the words “of the Comptroller General” are added, for clarity. The word “thereto” is omitted as surplus.
+In subsection (c)(2), the words "After the Council receives the statement of the Mayor" are substituted for "After the Mayor has had an opportunity to be heard", and the words "of the Comptroller General" are added, for clarity. The word "thereto" is omitted as surplus.
 
-In subsection (d), the words “To carry out this section” are added for clarity. The words “records and property of or used by . . . shall be made available to the Comptroller General” are substituted for 31:61(a)(last sentence 1st–30th words) for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words “of Columbia government” are added for consistency. The words “The Mayor shall provide facilities to carry out an audit” are substituted for 31:61(a)(last sentence words after last comma) for clarity.
+In subsection (d), the words "To carry out this section" are added for clarity. The words "records and property of or used by . . . shall be made available to the Comptroller General" are substituted for 31:61(a)(last sentence 1st–30th words) for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words "of Columbia government" are added for consistency. The words "The Mayor shall provide facilities to carry out an audit" are substituted for 31:61(a)(last sentence words after last comma) for clarity.
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33, §11717(b), substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §11717(b), substituted "District of Columbia Home Rule Act" for "District of Columbia Self-Government and Governmental Reorganization Act".
 
-Subsec. (b). Pub. L. 105–33, §11244(b), substituted “and (other than the audit reports of the District of Columbia Courts) the Mayor” for “and the Mayor”.
+Subsec. (b). Pub. L. 105–33, §11244(b), substituted "and (other than the audit reports of the District of Columbia Courts) the Mayor" for "and the Mayor".
 
 <b>1991</b>—Subsec. (e). Pub. L. 102–102 added subsec. (e).
 
@@ -70,11 +70,11 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provid
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–102, §2(e), Aug. 17, 1991, 105 Stat. 496, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 17, 1991\].”
+Pub. L. 102–102, §2(e), Aug. 17, 1991, 105 Stat. 496, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 17, 1991\]."
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit annual audit reports to Congress under subsec. (b) of this section is listed on page 4), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit annual audit reports to Congress under subsec. (b) of this section is listed on page 4), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Abolition of House Committee on the District of Columbia
 

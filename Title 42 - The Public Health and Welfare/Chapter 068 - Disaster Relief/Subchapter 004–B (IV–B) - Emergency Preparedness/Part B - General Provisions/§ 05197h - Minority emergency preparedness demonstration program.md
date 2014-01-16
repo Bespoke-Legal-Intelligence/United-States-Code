@@ -34,17 +34,17 @@ To be eligible to receive a grant, contract, or cooperative agreement under this
 
 #### (f) Authorization of appropriation
 
-There is authorized to be appropriated to carry out this section $1,500,000 for fiscal year 2002 and such funds as may be necessary for fiscal years 2003 through 2007. Such sums shall remain available until expended.
+There is authorized to be appropriated to carry out this section $1,500,000 for fiscal year2002 and such funds as may be necessary for fiscal years 2003 through 2007. Such sums shall remain available until expended.
 
 (Pub. L. 93–288, title VI, §629, as added Pub. L. 107–73, title IV, §431, Nov. 26, 2001, 115 Stat. 697; amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
 #### References in Text
 
-Subparagraph (A), (B), or (C) of section 1063b(e)(1) of title 20, referred to in subsec. (d)(4), was in the original “subparagraph (A), (B), or (C) of section 326 of that Act (20 U.S.C. 1063b(e)(1)(A), (B), or (C))”, which was translated as reading “subparagraph (A), (B), or (C) of section 326(e)(1) of that Act (20 U.S.C. 1063b(e)(1)(A), (B), or (C))” to reflect the probable intent of Congress.
+Subparagraph (A), (B), or (C) of section 1063b(e)(1) of title 20, referred to in subsec. (d)(4), was in the original "subparagraph (A), (B), or (C) of section 326 of that Act (20 U.S.C. 1063b(e)(1)(A), (B), or (C))", which was translated as reading "subparagraph (A), (B), or (C) of section 326(e)(1) of that Act (20 U.S.C. 1063b(e)(1)(A), (B), or (C))" to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–351 substituted “Administrator” for “Director” wherever appearing.
+<b>2011</b>—Pub. L. 111–351 substituted "Administrator" for "Director" wherever appearing.
 
 #### Transfer of Functions
 

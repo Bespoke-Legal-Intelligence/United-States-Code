@@ -4,15 +4,15 @@ In this subchapter:
 
 #### (1) Participating county
 
-&emsp;The term “participating county” means an eligible county that elects under section 7112(d) of this title to expend a portion of the Federal funds received under section 7112 of this title in accordance with this subchapter.
+&emsp;The term "participating county" means an eligible county that elects under section 7112(d) of this title to expend a portion of the Federal funds received under section 7112 of this title in accordance with this subchapter.
 
 #### (2) Project funds
 
-&emsp;The term “project funds” means all funds an eligible county elects under section 7112(d) of this title to reserve for expenditure in accordance with this subchapter.
+&emsp;The term "project funds" means all funds an eligible county elects under section 7112(d) of this title to reserve for expenditure in accordance with this subchapter.
 
 #### (3) Resource advisory committee
 
-&emsp;The term “resource advisory committee” means—
+&emsp;The term "resource advisory committee" means—
 
 &emsp;&emsp;(A) an advisory committee established by the Secretary concerned under section 7125 of this title; or
 
@@ -20,7 +20,7 @@ In this subchapter:
 
 #### (4) Resource management plan
 
-&emsp;The term “resource management plan” means—
+&emsp;The term "resource management plan" means—
 
 &emsp;&emsp;(A) a land use plan prepared by the Bureau of Land Management for units of the Federal land described in section 7102(7)(B) of this title pursuant to section 1712 of title 43; or
 

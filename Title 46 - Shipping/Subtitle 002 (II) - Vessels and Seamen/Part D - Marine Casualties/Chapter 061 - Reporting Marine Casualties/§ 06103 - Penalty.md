@@ -22,11 +22,11 @@ Section 6103 provides for a civil penalty of $1,000 for any owner, charterer, ma
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–324 inserted “or 6102” before “is liable” and substituted “not more than $25,000” for “$1,000”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–324 inserted "or 6102" before "is liable" and substituted "not more than $25,000" for "$1,000".
 
 <b>1988</b>—Pub. L. 100–424 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1984</b>—Pub. L. 98–498 struck out “or incident” after “a casualty”.
+<b>1984</b>—Pub. L. 98–498 struck out "or incident" after "a casualty".
 
 #### Effective Date of 1984 Amendment
 

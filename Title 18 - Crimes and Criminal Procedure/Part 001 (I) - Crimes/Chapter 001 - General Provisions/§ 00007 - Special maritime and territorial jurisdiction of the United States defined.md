@@ -1,6 +1,6 @@
 ### §7. Special maritime and territorial jurisdiction of the United States defined
 
-The term “special maritime and territorial jurisdiction of the United States”, as used in this title, includes:
+The term "special maritime and territorial jurisdiction of the United States", as used in this title, includes:
 
 &emsp;(1) The high seas, any other waters within the admiralty and maritime jurisdiction of the United States and out of the jurisdiction of any particular State, and any vessel belonging in whole or in part to the United States or any citizen thereof, or to any corporation created by or under the laws of the United States, or of any State, Territory, District, or possession thereof, when such vessel is within the admiralty and maritime jurisdiction of the United States and out of the jurisdiction of any particular State.
 
@@ -20,7 +20,7 @@ The term “special maritime and territorial jurisdiction of the United States�
 
 &emsp;(9) With respect to offenses committed by or against a national of the United States as that term is used in section 101 of the Immigration and Nationality Act—
 
-&emsp;&emsp;(A) the premises of United States diplomatic, consular, military or other UnitedStates Government missions or entities in foreign States, including the buildings, parts of buildings, and land appurtenant or ancillary thereto or used for purposes of those missions or entities, irrespective of ownership; and
+&emsp;&emsp;(A) the premises of United States diplomatic, consular, military or other United States Government missions or entities in foreign States, including the buildings, parts of buildings, and land appurtenant or ancillary thereto or used for purposes of those missions or entities, irrespective of ownership; and
 
 &emsp;&emsp;(B) residences in foreign States and the land appurtenant or ancillary thereto, irrespective of ownership, used for purposes of those missions or entities or used by United States personnel assigned to those missions or entities.
 
@@ -32,13 +32,13 @@ The term “special maritime and territorial jurisdiction of the United States�
 
 Based on title 18, U.S.C., 1940 ed., §451 (Mar. 4, 1909, ch. 321, §272, 35 Stat. 1142; June 11, 1940, ch. 323, 54 Stat. 304).
 
-The words “The term ‘special maritime and territorial jurisdiction of the United States’ as used in this title includes:” were substituted for the words “The crimes and offenses defined in sections 451–468 of this title shall be punished as herein prescribed.”
+The words "The term 'special maritime and territorial jurisdiction of the United States' as used in this title includes:" were substituted for the words "The crimes and offenses defined in sections 451–468 of this title shall be punished as herein prescribed."
 
 This section first appeared in the 1909 Criminal Code. It made it possible to combine in one chapter all the penal provisions covering acts within the admiralty and maritime jurisdiction without the necessity of repeating in each section the places covered.
 
 The present section has made possible the allocation of the diverse provisions of chapter 11 of Title 18, U.S.C., 1940 ed., to particular chapters restricted to particular offenses, as contemplated by the alphabetical chapter arrangement.
 
-In several revised sections of said chapter 11 the words “within the special maritime and territorial jurisdiction of the United States” have been added. Thus the jurisdictional limitation will be preserved in all sections of said chapter 11 describing an offense.
+In several revised sections of said chapter 11 the words "within the special maritime and territorial jurisdiction of the United States" have been added. Thus the jurisdictional limitation will be preserved in all sections of said chapter 11 describing an offense.
 
 Enumeration of names of Great Lakes was omitted as unnecessary.
 
@@ -62,5 +62,5 @@ Section 101 of the Immigration and Nationality Act, referred to in par. (9), is 
 
 #### Territorial Sea Extending to Twelve Miles Included in Special Maritime and Territorial Jurisdiction
 
-Pub. L. 104–132, title IX, §901(a), Apr. 24, 1996, 110 Stat. 1317, provided that: “The Congress declares that all the territorial sea of the United States, as defined by Presidential Proclamation 5928 of December 27, 1988 \[set out as a note under section 1331 of Title 43, Public Lands\], for purposes of Federal criminal jurisdiction is part of the United States, subject to its sovereignty, and is within the special maritime and territorial jurisdiction of the United States for the purposes of title 18, United States Code.”
+Pub. L. 104–132, title IX, §901(a), Apr. 24, 1996, 110 Stat. 1317, provided that: "The Congress declares that all the territorial sea of the United States, as defined by Presidential Proclamation 5928 of December 27, 1988 \[set out as a note under section 1331 of Title 43, Public Lands\], for purposes of Federal criminal jurisdiction is part of the United States, subject to its sovereignty, and is within the special maritime and territorial jurisdiction of the United States for the purposes of title 18, United States Code."
 

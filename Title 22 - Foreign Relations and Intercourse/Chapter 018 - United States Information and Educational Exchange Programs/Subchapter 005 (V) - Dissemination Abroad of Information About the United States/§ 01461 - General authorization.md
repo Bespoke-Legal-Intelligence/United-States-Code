@@ -20,7 +20,7 @@ The Secretary and the Broadcasting Board of Governors are authorized to use fund
 
 &emsp;(B) the Archivist shall be the official custodian of the material and shall issue necessary regulations to ensure that persons seeking its release in the United States have secured and paid for necessary United States rights and licenses and that all costs associated with the provision of the material by the Archivist shall be paid by the persons seeking its release, in accordance with paragraph (4).
 
-(3) The Archivist may undertake the functions described in paragraph (1) on behalf of and at the request of the Secretary or the Broadcasting Board of Governors.
+(3) The Archivist may undertake the functions described in paragraph (1) on behalf of and atthe request of the Secretary or the Broadcasting Board of Governors.
 
 (4) The Archivist may charge fees to recover the costs described in paragraphs (1) and (2), in accordance with section 2116(c) of title 44. Such fees shall be paid into, administered, and expended as part of the National Archives Trust Fund.
 
@@ -32,7 +32,7 @@ Nothing in this section may be construed to require the Secretary or the Broadca
 
 #### References in Text
 
-The United States International Broadcasting Act of 1994, referred to in subsec. (b)(1), is title III of Pub. L.103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The United States International Broadcasting Act of 1994, referred to in subsec. (b)(1), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 The Radio Broadcasting to Cuba Act, referred to in subsec. (b)(1), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§1465 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
@@ -44,11 +44,11 @@ For the effective date of section 1078 of the National Defense Authorization Act
 
 <b>2013</b>—Pub. L. 112–239 amended section generally. Prior to amendment, section provided general authorization to disseminate information about the United States abroad and domestically.
 
-<b>1990</b>—Pub. L. 101–246 designated existing provisions as subsec. (a), substituted “Subject to subsection (b) of this section, any such information” for “Any such information” in second sentence, and added subsec. (b).
+<b>1990</b>—Pub. L. 101–246 designated existing provisions as subsec. (a), substituted "Subject to subsection (b) of this section, any such information" for "Any such information" in second sentence, and added subsec. (b).
 
-<b>1979</b>—Pub. L. 96–60 substituted “ ‘Problems of Communism’ and the ‘English Teaching Forum’ which may be sold” for “ ‘Problems of Communism’ which may continue to be sold” in parenthetical clause.
+<b>1979</b>—Pub. L. 96–60 substituted " 'Problems of Communism' and the 'English Teaching Forum' which may be sold" for " 'Problems of Communism' which may continue to be sold" in parenthetical clause.
 
-<b>1972</b>—Pub. L. 92–352 substituted provisions relating to the prohibition, except as otherwise provided, on the dissemination of information within the United States, its territories, or possessions, other than “Problems of Communism” which could continue to be sold at the Government Printing Office, for provisions relating to the availability of press release or radio scripts for examination by representatives of United States press associations, newspapers, magazines, radio systems, and stations, and, on request, Members of Congress.
+<b>1972</b>—Pub. L. 92–352 substituted provisions relating to the prohibition, except as otherwise provided, on the dissemination of information within the United States, its territories, or possessions, other than "Problems of Communism" which could continue to be sold at the Government Printing Office, for provisions relating to the availability of press release or radio scripts for examination by representatives of United States press associations, newspapers, magazines, radio systems, and stations, and, on request, Members of Congress.
 
 #### Effective Date of 2013 Amendment
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 112–239 effective and applicable on the date that is 180 
 
 #### Rule of Construction
 
-Pub. L. 112–239, div. A, title X, §1078(b), Jan. 2, 2013, 126 Stat. 1958, provided that: “Nothing in this section \[amending this section and sections 1437, 1461–1a, and 1462 of this title and enacting provisions set out as a note under section 1437 of this title\], or in the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1431 et seq.), may be construed to affect the allocation of funds appropriated or otherwise made specifically available for public diplomacy or to authorize appropriations for Broadcasting Board of Governors programming other than for foreign audiences abroad.”
+Pub. L. 112–239, div. A, title X, §1078(b), Jan. 2, 2013, 126 Stat. 1958, provided that: "Nothing in this section \[amending this section and sections 1437, 1461–1a, and 1462 of this title and enacting provisions set out as a note under section 1437 of this title\], or in the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1431 et seq.), may be construed to affect the allocation of funds appropriated or otherwise made specifically available for public diplomacy or to authorize appropriations for Broadcasting Board of Governors programming other than for foreign audiences abroad."
 
 #### Transfer of Functions
 
@@ -64,17 +64,17 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 #### USIA Network for Dissemination of Information Concerning United States Programs To Combat Narcotics and Other Controlled Substances
 
-Pub. L. 101–246, title II, §210, Feb. 16, 1990, 104 Stat. 54, provided that: “The United States Information Agency shall establish and maintain an international narcotics information network. The network shall disseminate prompt, accurate, and comprehensive information to foreign governments concerning programs and activities of the United States Government—
+Pub. L. 101–246, title II, §210, Feb. 16, 1990, 104 Stat. 54, provided that: "The United States Information Agency shall establish and maintain an international narcotics information network. The network shall disseminate prompt, accurate, and comprehensive information to foreign governments concerning programs and activities of the United States Government—
 
-&emsp;“(1) to eliminate the illicit production, trafficking, and abuse of narcotic and psychotropic drugs and other controlled substances within the United States; and
+&emsp;"(1) to eliminate the illicit production, trafficking, and abuse of narcotic and psychotropic drugs and other controlled substances within the United States; and
 
-&emsp;“(2) to promote drug prevention and rehabilitation in the United States.”
+&emsp;"(2) to promote drug prevention and rehabilitation in the United States."
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 
 #### Public Service Announcements To Promote Child Survival
 
-Pub. L. 101–246, title II, §233, Feb. 16, 1990, 104 Stat. 57, provided that: “The United States Information Agency shall establish and maintain through the Voice of America a system of public service announcements focusing on child survival techniques.”
+Pub. L. 101–246, title II, §233, Feb. 16, 1990, 104 Stat. 57, provided that: "The United States Information Agency shall establish and maintain through the Voice of America a system of public service announcements focusing on child survival techniques."
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 
@@ -86,9 +86,9 @@ Pub. L. 100–204, title II, §204, Dec. 22, 1987, 101 Stat. 1373, prohibited us
 
 Pub. L. 97–241, title III, §303, Aug. 24, 1982, 96 Stat. 291, provided that:
 
-“(a) The International Communication Agency, established by Reorganization Plan Numbered 2 of 1977 \[set out as a note below\], is hereby redesignated the United States Information Agency. The Director of the International Communication Agency or any other official of the International Communication Agency is hereby redesignated the Director or other official, as appropriate, of the United States Information Agency.
+"(a) The International Communication Agency, established by Reorganization Plan Numbered 2 of 1977 \[set out as a note below\], is hereby redesignated the United States Information Agency. The Director of the International Communication Agency or any other official of the International Communication Agency is hereby redesignated the Director or other official, as appropriate, of the United States Information Agency.
 
-“(b) Any reference in any statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding to the International Communication Agency or the Director or other official of the International Communication Agency shall be deemed to refer respectively to the United States Information Agency or the Director or other official of the United States Information Agency, as so redesignated by subsection (a).”
+"(b) Any reference in any statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding to the International Communication Agency or the Director or other official of the International Communication Agency shall be deemed to refer respectively to the United States Information Agency or the Director or other official of the United States Information Agency, as so redesignated by subsection (a)."
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 
@@ -160,7 +160,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Director
 
-\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Sectionprovided for appointment and responsibilities of Director of the Agency.\]
+\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for appointment and responsibilities of Director of the Agency.\]
 
 #### Sec. 3. Deputy Director
 
@@ -212,9 +212,9 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (15) Section 201 of Public Law 89–665, as amended by section 201(5) of Public Law 94–422 (16 U.S.C. 470i(a)(9));
 
-(16) The third proviso in the twenty-third unnumbered paragraph of title V of Public Law 95–86 (headed “UNITED STATES INFORMATION AGENCY, SALARIES AND EXPENSES”), 91 Stat. 440–41 \[Aug. 2, 1977\];
+(16) The third proviso in the twenty-third unnumbered paragraph of title V of Public Law 95–86 (headed "UNITED STATES INFORMATION AGENCY, SALARIES AND EXPENSES"), 91 Stat. 440–41 \[Aug. 2, 1977\];
 
-(17) The twentieth unnumbered paragraph of title I of Public Law 95–86 (headed “CENTER FOR CULTURAL AND TECHNICAL INTERCHANGE BETWEEN EAST AND WEST”), 91 Stat. 424;
+(17) The twentieth unnumbered paragraph of title I of Public Law 95–86 (headed "CENTER FOR CULTURAL AND TECHNICAL INTERCHANGE BETWEEN EAST AND WEST"), 91 Stat. 424;
 
 (18) Sections 4(d)(1)(F), 4(f)(1)(F), 4(g)(1)(F), and 4(h)(1)(F) of the Foreign Service Buildings Act, 1926, as amended (22 U.S.C. 295(d)(1)(F), 295(f)(1)(F), 295(g)(1)(F), and 295(h)(1)(F)); and
 
@@ -226,11 +226,11 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 8. Establishment of the United States Advisory Commission on International Communication, Cultural, and Educational Affairs
 
-(a) There is hereby established an advisory commission, to be known as the United States Advisory Commission on International Communication, Cultural and Educational Affairs (the “Commission”) \[the United States Advisory Commission on Public Diplomacy\]. The Commission shall consist of seven members who shall be appointed by the President, by and with the advice and consent of the Senate. The members of the Commission shall represent the public interest and shall be selected from the cross section of educational, communications, cultural, scientific, technical, public service, labor and business and professional backgrounds. Not more than four members shall be from any one political party. The term of each member shall be three years except that of the original seven appointments, two shall be for a term of one year and two shall be for a term of two years. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which a predecessor was appointed shall be appointed for the remainder of such term. Upon the expiration of a member's term of office, such member may continue to serve until a successor is appointed and has qualified. The President shall designate a member to chair the Commission.
+(a) There is hereby established an advisory commission, to be known as the United States Advisory Commission on International Communication, Cultural and Educational Affairs (the "Commission") \[the United States Advisory Commission on Public Diplomacy\]. The Commission shall consist of seven members who shall be appointed by the President, by and with the advice and consent of the Senate. The members of theCommission shall represent the public interest and shall be selected from the cross section of educational, communications, cultural, scientific, technical, public service, labor and business and professional backgrounds. Not more than four members shall be from any one political party. The term of each member shall be three years except that of the original seven appointments, two shall be for a term of one year and two shall be for a term of two years. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which a predecessor was appointed shall be appointed for the remainder of such term. Upon the expiration of a member's term of office, such member may continue to serve until a successor is appointed and has qualified. The President shall designate a member to chair the Commission.
 
 (b) The functions now vested in the United States Advisory Commission on Information and in the United States Advisory Commission on International Educational and Cultural Affairs under sections 601 through 603 and 801(6) of the United States Information and Educational Exchange Act of 1948, as amended (22 U.S.C. 1466–1468, 1471(6)), and under sections 106(b) and 107 of the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2456(b), 2457), respectively, are hereby consolidated and vested in the Commission, as follows:
 
-The Commission shall formulate and recommend to the Director, the Secretary of State, and the President policies and programs to carry out the functions vested in the Director or the Agency, and shall appraise theeffectiveness of policies and programs of the Agency. The Commission shall submit to the Congress, the President, the Secretary of State and the Director annual reports on programs and activities carried on by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations. The Commission may also submit such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency. The Commission's reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
+The Commission shall formulate and recommend to the Director, the Secretary of State, and the President policies and programs to carry out the functions vested in the Director or the Agency, and shall appraise the effectiveness of policies and programs of the Agency. The Commission shall submit to the Congress, the President, the Secretary of State and the Director annual reports on programs and activities carried on by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations. The Commission may also submit such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency. The Commission's reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
 
 (c) The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO. \[As amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790.\]
 
@@ -276,7 +276,7 @@ This Reorganization Plan shall become effective at such time or times, on or bef
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 2 of 1977 to consolidate certain international communication, educational and cultural, and broadcasting activities of the United States Government. I am acting under the authority vested in me by the Reorganization Act, chapter 9 of title 5 of the United States Code. I am also acting pursuant to section 501 of the Foreign Relations Authorization Act, Fiscal Year 1978 (Public Law 95–105), which provides that my recommendations for reorganizing these activities be transmitted by October 31, 1977.
+I transmit herewith Reorganization Plan No. 2 of 1977 to consolidate certain international communication, educational and cultural, and broadcasting activities of the United States Government. I am acting under the authority vested in me by the Reorganization Act,chapter 9 of title 5 of the United States Code. I am also acting pursuant to section 501 of the Foreign Relations Authorization Act, Fiscal Year 1978 (Public Law 95–105), which provides that my recommendations for reorganizing these activities be transmitted by October 31, 1977.
 
 This reorganization will consolidate into a new agency, to be known as the Agency for International Communication, the functions now exercised by the State Department's Bureau of Educational and Cultural Affairs and the United States Information Agency.
 
@@ -306,7 +306,7 @@ Several principles guided me in shaping this reorganization plan. Among the most
 
 &emsp;—Maintaining the integrity of the educational and cultural exchange programs is imperative. To this end, the plan retains the Board of Foreign Scholarships, whose strong leadership has done so much to insure the high quality of the educational exchange program. In addition, I intend to nominate an Associate Director who will be responsible for the administration and supervision of educational and cultural functions consolidated in the new Agency. The responsibilities presently exercised by the Department of State in relation to the Center for Technical and Cultural Interchange Between East and West, Inc., will be transferred to the new agency without alteration.
 
-&emsp;—Keeping the Voice of America's news gathering and reporting functions independent and objective. The Voice's charter, enacted into law in 1976, provides that “VOA news will be accurate, objective, and comprehensive”; that VOA will “present a balanced and comprehensive projection of significant American thought and institutions”; and that VOA will present U.S. policies “clearly and effectively, and will also present responsible discussion and opinion on these policies.” Under this Administration, VOA will be solely responsible for the content of news broadcasts—for there is no more valued coin than candor in the international marketplace of ideas. I also plan to nominate an Associate Director who will be responsible for the administration and supervision of the Voice of America.
+&emsp;—Keeping the Voice of America's news gathering and reporting functions independent and objective. The Voice's charter, enacted into law in 1976, provides that "VOA news will be accurate, objective, and comprehensive"; that VOA will "present a balanced and comprehensive projection of significant American thought and institutions"; and that VOA will present U.S. policies "clearly and effectively, and will also present responsible discussion and opinion on these policies." Under this Administration, VOA will be solely responsible for the content of news broadcasts—for there is no more valued coin than candor in the international marketplace of ideas. I also plan to nominate an Associate Director who will be responsible for the administration and supervision of the Voice of America.
 
 &emsp;—The new agency's activities must be straightforward, open, candid, balanced, and representative. They will not be given over to the advancement of the views of any one group, any one party or any one Administration. The agency must not operate in a covert, manipulative, or propagandistic way.
 
@@ -326,7 +326,7 @@ In presenting this plan, I ask the support of Congress to strengthen and simplif
 
 Such action will make us better able to project the great variety and vitality of American life to those abroad, and to enrich our own lives with a fuller knowledge of the vitality and variety of other societies.
 
-The new Agency for International Communication will help us demonstrate “a decent respect for the opinions of mankind,” and to deal intelligently with a world awakening to a new spirit of freedom.
+The new Agency for International Communication will help us demonstrate "a decent respect for the opinions of mankind," and to deal intelligently with a world awakening to a new spirit of freedom.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -334,7 +334,7 @@ The White House, October 11, 1977.
 
 #### Ex. Ord. No. 12048. International Communication Agency
 
-Ex. Ord. No. 12048, Mar. 27, 1978, 43 F.R. 13361, as amended by Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R.46245; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 12048, Mar. 27, 1978, 43 F.R. 13361, as amended by Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 By virtue of the authority vested in me by the Constitution and laws of the United States of America, including Section 11 of Reorganization Plan No. 2 of 1977 (42 FR 62461 (December 13, 1977)) \[set out above\], Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order to provide for the establishment of the International Communication Agency, it is hereby ordered as follows:
 

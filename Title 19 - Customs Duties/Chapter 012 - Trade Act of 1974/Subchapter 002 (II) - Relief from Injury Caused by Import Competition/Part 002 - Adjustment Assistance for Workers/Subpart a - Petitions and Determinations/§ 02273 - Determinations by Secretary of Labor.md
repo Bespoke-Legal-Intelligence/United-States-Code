@@ -40,23 +40,23 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-<b>2009</b>—Subsec. (b). Pub. L. 111–5, §§1803(1), 1893, temporarily substituted “before the worker's application under section 2291 of this title occurred more than one year before the date of the petition on which such certification was granted.” for “or appropriate subdivision of the firm before his application under section 2291 of this title occurred—
+<b>2009</b>—Subsec. (b). Pub. L. 111–5, §§1803(1), 1893, temporarily substituted "before the worker's application under section 2291 of this title occurred more than one year before the date of the petition on which such certification was granted." for "or appropriate subdivision of the firm before his application under section 2291 of this title occurred—
 
-&emsp;“(1) more than one year before the date of the petition on which such certification was granted, or
+&emsp;"(1) more than one year before the date of the petition on which such certification was granted, or
 
-&emsp;“(2) more than 6 months before the effective date of this part.”
+&emsp;"(2) more than 6 months before the effective date of this part."
 
 > See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (c). Pub. L. 111–5, §§1803(2), 1858(a), 1893, temporarily substituted “a determination” for “his determination” and “and on the website of the Department of Labor, together with the Secretary's reasons” for “together with his reasons”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c). Pub. L. 111–5, §§1803(2), 1858(a), 1893, temporarily substituted "a determination" for "his determination" and "and on the website of the Department of Labor, together with the Secretary's reasons" for "together with his reasons". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (d). Pub. L. 111–5, §§1803(3), 1893, temporarily substituted “, that total or partial separations from such firm are no longer attributable to the conditions specified in section 2272 of this title, the Secretary shall” for “or subdivision of the firm, that total or partial separations from such firm or subdivision are no longer attributable to the conditions specified in section 2272 of this title, he shall” and “and on the website of the Department of Labor, together with the Secretary's reasons” for “together with his reasons”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (d). Pub. L. 111–5, §§1803(3), 1893, temporarily substituted ", that total or partial separations from such firm are no longer attributable to the conditions specified in section 2272 of this title, the Secretary shall" for "or subdivision of the firm, that total or partial separations from such firm or subdivision are no longer attributable to the conditions specified in section 2272 of this title, he shall" and "and on the website of the Department of Labor, together with the Secretary's reasons" for "together with his reasons". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (e). Pub. L. 111–5, §§1803(4), 1893, temporarily added subsec. (e). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–210 substituted “40 days” for “60 days”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–210 substituted "40 days" for "60 days".
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted “assistance under this subpart” for “assistance under this part”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted "assistance under this subpart" for "assistance under this part".
 
 #### Effective and Termination Dates of 2011 Revival
 

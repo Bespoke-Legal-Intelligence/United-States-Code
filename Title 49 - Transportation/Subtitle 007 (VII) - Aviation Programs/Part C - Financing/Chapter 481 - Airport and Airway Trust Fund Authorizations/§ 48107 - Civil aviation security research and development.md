@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(d)(9); added Nov. 16, 1990, Pub. L. 101–604, §107, 104 Stat. 3077.
 
-The words “to the Secretary of Transportation” are added for clarity and consistency in this chapter.
+The words "to the Secretary of Transportation" are added for clarity and consistency in this chapter.
 

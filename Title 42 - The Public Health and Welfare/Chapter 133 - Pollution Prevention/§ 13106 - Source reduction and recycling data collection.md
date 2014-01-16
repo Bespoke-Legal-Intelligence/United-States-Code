@@ -6,7 +6,7 @@ Each owner or operator of a facility required to file an annual toxic chemical r
 
 #### (b) Items included in report
 
-The toxic chemical source reduction and recycling report required under subsection (a) of thissection shall set forth each of the following on a facility-by-facility basis for each toxic chemical:
+The toxic chemical source reduction and recycling report required under subsection (a) of this section shall set forth each of the following on a facility-by-facility basis for each toxic chemical:
 
 &emsp;(1) The quantity of the chemical entering any waste stream (or otherwise released into the environment) prior to recycling, treatment, or disposal during the calendar year for which the report is filed and the percentage change from the previous year. The quantity reported shall not include any amount reported under paragraph (7). When actual measurements of the quantity of a toxic chemical entering the waste streams are not readily available, reasonable estimates should be made based on best engineering judgment.
 
@@ -50,7 +50,7 @@ Subject to section 11042 of this title, the Administrator shall make data collec
 
 SARA, referred to in the heading of subsec. (c), means the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613, as amended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “preceding”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "preceding".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraphs”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraphs".</i>
 

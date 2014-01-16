@@ -74,9 +74,9 @@ If any term or condition described in section 1637a(a) of this title which is di
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(4)(B). Pub. L. 111–203 substituted “Bureau” for “Board” in heading and text.
+<b>2010</b>—Subsec. (c)(4)(B). Pub. L. 111–203 substituted "Bureau" for "Board" in heading and text.
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–325 inserted at end “This subsection does not apply to reverse mortgage transactions.”
+<b>1994</b>—Subsec. (b). Pub. L. 103–325 inserted at end "This subsection does not apply to reverse mortgage transactions."
 
 #### Effective Date of 2010 Amendment
 
@@ -90,5 +90,5 @@ For effective date of section, see Regulations; Effective Date note below.
 
 For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709 \[enacting this section\], and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph".</i>
 

@@ -20,11 +20,11 @@ The Indian Self-Determination Act, referred to in subsec. (c), is title I of Pub
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–435, §16(a)(1), struck out “who have worked in an Indian health program (as defined in section 1616a(a)(2) of this title) for a substantial period of time” after “health professionals” and inserted at end “In selecting participants for a program established under this subsection, the Secretary, acting through the Service, shall give priority to applicants who are employed by the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations, at the time of the submission of the applications.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–435, §16(a)(1), struck out "who have worked in an Indian health program (as defined in section 1616a(a)(2) of this title) for a substantial period of time" after "health professionals" and inserted at end "In selecting participants for a program established under this subsection, the Secretary, acting through the Service, shall give priority to applicants who are employed by the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations, at the time of the submission of the applications."
 
-Subsec. (b). Pub. L. 103–435, §16(a)(2), inserted “(as defined in section 1616a(a)(2) of this title)” after “Indian health program”.
+Subsec. (b). Pub. L. 103–435, §16(a)(2), inserted "(as defined in section 1616a(a)(2) of this title)" after "Indian health program".
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–573, §108(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “The Secretary shall develop standards for appropriate recoupment for such remaining service.”
+<b>1992</b>—Subsec. (b). Pub. L. 102–573, §108(1), amended last sentence generally. Prior to amendment, last sentence read as follows: "The Secretary shall develop standards for appropriate recoupment for such remaining service."
 
 Subsec. (d). Pub. L. 102–573, §108(2), struck out subsec. (d) which directed Secretary to prescribe regulations to carry out this section.
 

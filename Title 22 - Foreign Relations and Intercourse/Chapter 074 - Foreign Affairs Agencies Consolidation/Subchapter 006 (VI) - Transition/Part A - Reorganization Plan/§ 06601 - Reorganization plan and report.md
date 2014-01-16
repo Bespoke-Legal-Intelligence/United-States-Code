@@ -6,7 +6,7 @@ Not later than 60 days after October 21, 1998, the President shall transmit to t
 
 &emsp;(1) the abolition of the United States Arms Control and Disarmament Agency, the United States Information Agency, and the United States International Development Cooperation Agency in accordance with this chapter;
 
-&emsp;(2) with respect to the Agency for International Development, the consolidation and streamlining of the Agency and the transfer of certain functions of the Agency to the Department in accordance with section 6581 of this title;
+&emsp;(2) with respect to the Agency for International Development, the consolidation andstreamlining of the Agency and the transfer of certain functions of the Agency to the Department in accordance with section 6581 of this title;
 
 &emsp;(3) the termination of functions of each covered agency as may be necessary to effectuate the reorganization under this chapter, and the termination of the affairs of each agency abolished under this chapter;
 
@@ -44,7 +44,7 @@ The plan transmitted under subsection (a) of this section shall contain, consist
 
 In addition to applicable provisions of subsection (c) of this section, the reorganization plan transmitted under this section for the Agency for International Development—
 
-&emsp;(1) may provide for the abolition of the Agency for International Development and thetransfer of all its functions to the Department of State; or
+&emsp;(1) may provide for the abolition of the Agency for International Development and the transfer of all its functions to the Department of State; or
 
 &emsp;(2) in lieu of the abolition and transfer of functions under paragraph (1)—
 
@@ -118,7 +118,7 @@ The reorganization plan described in this section shall be printed in the Federa
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (3), (4), (c), and (f)(5), was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (3), (4), (c), and (f)(5), was in the original "this subdivision", meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
 #### Delegation of the Functions Vested in the President by Sections 1601(e) and 1601(g) of the Foreign Affairs Reform and Restructuring Act of 1998, as Enacted in Public Law 105–277
 

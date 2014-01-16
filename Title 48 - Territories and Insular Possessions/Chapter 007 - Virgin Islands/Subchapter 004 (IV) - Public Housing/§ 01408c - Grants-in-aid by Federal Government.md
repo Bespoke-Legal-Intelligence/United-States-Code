@@ -12,7 +12,7 @@ This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, a
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” for “Housing and Home Finance Administrators.”
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary of Housing and Urban Development" for "Housing and Home Finance Administrators."
 
-<b>1955</b>—Act Aug. 11, 1955, included urban renewal projects, and inserted “as amended” after (Public Law 171, Eighty-first Congress), after “this Act”, and after “Housing Act of 1949” in cl. (1).
+<b>1955</b>—Act Aug. 11, 1955, included urban renewal projects, and inserted "as amended" after (Public Law 171, Eighty-first Congress), after "this Act", and after "Housing Act of 1949" in cl. (1).
 

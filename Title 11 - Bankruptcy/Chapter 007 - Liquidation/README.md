@@ -8,7 +8,7 @@
 | [702\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000702%20-%20Election%20of%20trustee.md) | Election of trustee. |
 | [703\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000703%20-%20Successor%20trustee.md) | Successor trustee. |
 | [704\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000704%20-%20Duties%20of%20trustee.md) | Duties of trustee. |
-| [705\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000705%20-%20Creditors%E2%80%99%20committee.md) | Creditors’ committee. |
+| [705\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000705%20-%20Creditors%27%20committee.md) | Creditors' committee. |
 | [706\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000706%20-%20Conversion.md) | Conversion. |
 | [707\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000707%20-%20Dismissal%20of%20a%20case%20or%20conversion%20to%20a%20case%20under%20chapter%2011%20or%2013.md) | Dismissal of a case or conversion to a case under chapter 11 or 13. |
 
@@ -76,11 +76,11 @@
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–8, title I, §102(k), title VII, §719(b)(2), title IX, §907(p)(2), Apr. 20, 2005, 119 Stat. 35, 133, 182, added items 753 and 767, substituted “Dismissal of a case or conversion to a case under chapter 11 or 13” for “Dismissal” in item 707, and struck out item 728 “Special tax provisions”.
+<b>2005</b>—Pub. L. 109–8, title I, §102(k), title VII, §719(b)(2), title IX, §907(p)(2), Apr. 20, 2005, 119 Stat. 35, 133, 182, added items 753 and 767, substituted "Dismissal of a case or conversion to a case under chapter 11 or 13" for "Dismissal" in item 707, and struck out item 728 "Special tax provisions".
 
 <b>2000</b>—Pub. L. 106–554, §1(a)(5) \[title I, §112(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–396, added subchapter V heading and items 781 to 784.
 
-<b>1984</b>—Pub. L. 98–353, title III, §471, July 10, 1984, 98 Stat. 380, substituted “Successor” for “Succesor” in item 703.
+<b>1984</b>—Pub. L. 98–353, title III, §471, July 10, 1984, 98 Stat. 380, substituted "Successor" for "Succesor" in item 703.
 
 
 ---

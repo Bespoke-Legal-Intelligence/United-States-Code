@@ -6,7 +6,7 @@ From the sums appropriated therefor and the allotments available under section 7
 
 #### (b) Unobligated allotments
 
-Any amount payable to a State under this subchapter from allotments for a fiscal year which remains unobligated at the end of such year shall remain available to such State for obligation during the next fiscal year. No payment may be made to a State under this subchapterfrom allotments for a fiscal year for expenditures made after the following fiscal year.
+Any amount payable to a State under this subchapter from allotments for a fiscal year which remains unobligated at the end of such year shall remain available to such State for obligation during the next fiscal year. No payment may be made to a State under this subchapter from allotments for a fiscal year for expenditures made after the following fiscal year.
 
 #### (c) Reduction of payments; fair market value of supplies or equipment, value of salaries, travel expenses, etc.
 
@@ -16,7 +16,7 @@ The Secretary, at the request of a State, may reduce the amount of payments unde
 
 &emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the State and the amount of any other costs incurred in connection with the detail of such officer or employee,
 
-> when the furnishing of supplies or equipment or the detail of an officer or employee is for the convenience of and at the request of the State and for the purpose of conducting activities described in section 705(a) of this title on a temporary basis. The amount by which any payment is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment or in detailing the personnel, on which the reduction of the payment is based, and the amount shall be deemed to be part of the payment and shall be deemed to have been paid to the State.
+> when the furnishing of supplies or equipment or the detail of an officer or employee is for the convenience of and at the request of the State and for the purpose of conducting activities described in section 705(a) of this title on a temporary basis. The amount by which any payment is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment or in detailing thepersonnel, on which the reduction of the payment is based, and the amount shall be deemed to be part of the payment and shall be deemed to have been paid to the State.
 
 (Aug. 14, 1935, ch. 531, title V, §503, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 821; amended Pub. L. 98–369, div. B, title III, §2373(a)(1), July 18, 1984, 98 Stat. 1111; Pub. L. 101–239, title VI, §§6502(b), 6503(c)(4), Dec. 19, 1989, 103 Stat. 2276, 2278.)
 
@@ -30,11 +30,11 @@ Provisions similar to those comprising former section 703 were contained in sect
 
 #### Amendments
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §6502(b), substituted “702(c)” for “702(b)” in two places.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §6502(b), substituted "702(c)" for "702(b)" in two places.
 
-Subsec. (c). Pub. L. 101–239, §6503(c)(4), substituted “705(a)” for “705” in penultimate sentence.
+Subsec. (c). Pub. L. 101–239, §6503(c)(4), substituted "705(a)" for "705" in penultimate sentence.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted “section 6503(a) of title 31” for “section 203 of the Intergovernmental Cooperation Act of 1968 (42 U.S.C. 4213)”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted "section 6503(a) of title 31" for "section 203 of the Intergovernmental Cooperation Act of 1968 (42 U.S.C. 4213)".
 
 #### Effective Date of 1989 Amendment
 

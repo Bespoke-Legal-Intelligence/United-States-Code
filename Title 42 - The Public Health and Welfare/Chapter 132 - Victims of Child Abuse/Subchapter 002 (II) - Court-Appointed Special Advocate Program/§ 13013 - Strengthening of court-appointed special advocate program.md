@@ -20,7 +20,7 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 (2) In general, the grant criteria established pursuant to paragraph (1) shall require that a court-appointed special advocate program provide screening, training, and supervision of court-appointed special advocates in accordance with standards developed by the National Court-Appointed Special Advocate Association. Such criteria may include the requirements that—
 
-&emsp;(A) a court-appointed special advocate association program have a mission and purpose in keeping with the mission and purpose of the National Court-Appointed Special Advocate Association and that it abide by the National Court-Appointed Special Advocate Association Code of Ethics;
+&emsp;(A) a court-appointed special advocate association program have a mission and purpose in keeping with the mission and purpose of the National Court-Appointed Special Advocate Association and that it abide by the National Court-Appointed Special Advocate Association Standards for Programs;
 
 &emsp;(B) a court-appointed special advocate association program operate with access to legal counsel;
 
@@ -36,7 +36,7 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 &emsp;(H) a court-appointed special advocate volunteer be an individual who has been screened and trained by a recognized court-appointed special advocate program and appointed by the court to advocate for children who come into the court system primarily as a result of abuse or neglect; and
 
-&emsp;(I) a court-appointed special advocate volunteer serve the function of reviewing records, facilitating prompt, thorough review of cases, and interviewing appropriate parties in order to make recommendations on what would be in the best interests of the child.
+&emsp;(I) a court-appointed special advocate volunteer serve the function of reviewing records,facilitating prompt, thorough review of cases, and interviewing appropriate parties in order to make recommendations on what would be in the best interests of the child.
 
 (3) In awarding grants under this section, the Administrator shall ensure that grants are distributed to localities that have no existing court-appointed special advocate program and to programs in need of expansion.
 
@@ -44,19 +44,31 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 State and local Court Appointed Special Advocate programs are authorized to request fingerprint-based criminal background checks from the Federal Bureau of Investigation's criminal history database for prospective volunteers. The requesting program is responsible for the reasonable costs associated with the Federal records check.
 
-(Pub. L. 101–647, title II, §217, Nov. 29, 1990, 104 Stat. 4794; Pub. L. 107–273, div. C, title II, §12221(b)(1)(C), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 109–162, title I, §112(c), Jan. 5, 2006, 119 Stat. 2986.)
+#### (e) Reporting
+
+An organization that receives a grant under this section for a fiscal year shall submit to the Administrator a report regarding the use of the grant for the fiscal year, including a discussion of outcome performance measures (which shall be established by the Administrator) to determine the effectiveness of the programs of the organization in meeting the needs of children in the child welfare system.
+
+(Pub. L. 101–647, title II, §217, Nov. 29, 1990, 104 Stat. 4794; Pub. L. 107–273, div. C, title II, §12221(b)(1)(C), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 109–162, title I, §112(c), Jan. 5, 2006, 119 Stat. 2986; Pub. L. 113–4, title I, §106(2), Mar. 7, 2013, 127 Stat. 77.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–162, §112(c)(1), substituted “to initiate, sustain, and expand” for “to expand”.
+<b>2013</b>—Subsec. (c)(2)(A). Pub. L. 113–4, §106(2)(A), substituted "Standards for Programs" for "Code of Ethics".
 
-Subsec. (b)(1). Pub. L. 109–162, §112(c)(2)(A), substituted “subsection (a) of this section—” for “subsection (a) of this section”, inserted subpar. (A) designation before “shall be”, and substituted “(B) may be” for “(2) may be” and “to initiate, sustain, and expand” for “to initiate or expand”.
+Subsec. (e). Pub. L. 113–4, §106(2)(B), added subsec. (e).
 
-Subsec. (b)(2). Pub. L. 109–162, §112(c)(2)(B), substituted “(1)(A)” for “(1)(a)” and “to initiate, sustain, and expand” for “to initiate and to expand”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §112(c)(1), substituted "to initiate, sustain, and expand" for "to expand".
+
+Subsec. (b)(1). Pub. L. 109–162, §112(c)(2)(A), substituted "subsection (a) of this section—" for "subsection (a) of this section", inserted subpar. (A) designation before "shall be", and substituted "(B) may be" for "(2) may be" and "to initiate, sustain, and expand" for "to initiate or expand".
+
+Subsec. (b)(2). Pub. L. 109–162, §112(c)(2)(B), substituted "(1)(A)" for "(1)(a)" and "to initiate, sustain, and expand" for "to initiate and to expand".
 
 Subsec. (d). Pub. L. 109–162, §112(c)(3), added subsec. (d).
 
-<b>2002</b>—Subsec. (c)(1). Pub. L. 107–273 substituted “sections 5673 and 5676 of this title” for “sections 5665a, 5673, and 5676 of this title”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–273 substituted "sections 5673 and 5676 of this title" for "sections 5665a, 5673, and 5676 of this title".
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 2002 Amendment
 

@@ -12,17 +12,17 @@ The supervisory committee shall be appointed by the board of directors and shall
 
 No member of the board or of any other committee shall, as such, be compensated, except that reasonable health, accident, similar insurance protection, and the reimbursement of reasonable expenses incurred in the execution of the duties of the position shall not be considered compensation.
 
-(June 26, 1934, ch. 750, title I, §111, formerly §11, 48 Stat. 1219; June 15, 1940, ch. 366, 54 Stat. 398; July 31, 1946, ch. 711, §§3–6, 60 Stat. 745; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; Oct. 25, 1949, ch. 713, §2, 63 Stat. 890; June 30, 1954, ch. 426, §1, 68 Stat. 335; Aug. 24, 1954, ch. 905, §§1, 2, 68 Stat. 792; renumbered §12 and amended Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 632; Pub. L. 88–353, §2, July 2, 1964, 78 Stat. 269; Pub. L. 91–206, §2(3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §111, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–495,title I, §116, Oct. 28, 1974, 88 Stat. 1507; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §520, Oct. 15, 1982, 96 Stat. 1531.)
+(June 26, 1934, ch. 750, title I, §111, formerly §11, 48 Stat. 1219; June 15, 1940, ch. 366, 54 Stat. 398; July 31, 1946, ch. 711, §§3–6, 60 Stat. 745; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; Oct. 25, 1949, ch. 713, §2, 63 Stat. 890; June 30, 1954, ch. 426, §1, 68 Stat. 335; Aug. 24, 1954, ch. 905, §§1, 2, 68 Stat. 792; renumbered §12 and amended Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 632; Pub. L. 88–353, §2, July 2, 1964, 78 Stat. 269; Pub. L. 91–206, §2(3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §111, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–495, title I, §116, Oct. 28, 1974, 88 Stat. 1507; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §520, Oct. 15, 1982, 96 Stat. 1531.)
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–320 substituted provisions divided into subsecs. (a), (b), and (c) relating to the management of a Federal credit union, including the board of directors, credit and supervisory committees, and the matter of their compensation, for provisions which read as follows: “The business affairs of a Federal credit union shall be managed by a board of not less than five directors, and a credit committee of not less than three members, all to be elected at the annual members’ meeting by and from the members, and by a supervisory committee of not less than three members nor more than five members, one of whom may be a director other than the treasurer, to be appointed by the board. Any vacancy occurring in the supervisory committee shall be filled in the same manner as original appointments to such committee. All members of the board and of such committees shall hold office for such terms, respectively, as the bylaws may provide. A record of the names and addresses of the members of the board and such committees and of the officers of the credit union shall be filed with the Administration within ten days after their election or appointment. No member of the board or of either such committee shall, as such, be compensated: <i>Provided, however</i>, That reasonable health, accident, and similar insurance protection shall not be considered compensation under regulations promulgated by the Board.”
+<b>1982</b>—Pub. L. 97–320 substituted provisions divided into subsecs. (a), (b), and (c) relating to the management of a Federal credit union, including the board of directors, credit and supervisory committees, and the matter of their compensation, for provisions which read as follows: "The business affairs of a Federal credit union shall be managed by a board of not less than five directors, and a credit committee of not less than three members, all to be elected at the annual members' meeting by and from the members, and by a supervisory committee of not less than three members nor more than five members, one of whom may be a director other than the treasurer, to be appointed by the board. Any vacancy occurring in the supervisory committee shall be filled in the same manner as original appointments to such committee. All members of the board and of such committees shall hold office for such terms, respectively, as the bylaws may provide. A record of the names and addresses of the members of the board and such committees and of the officers of the credit union shall be filed with the Administration within ten days after their election or appointment. No member of the board or of either such committee shall, as such, be compensated: <i>Provided, however</i>, That reasonable health, accident, and similar insurance protection shall not be considered compensation under regulations promulgated by the Board."
 
-<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator”.
+<b>1978</b>—Pub. L. 95–630 substituted "Board" for "Administrator".
 
 <b>1974</b>—Pub. L. 93–495 inserted proviso relating to compensation in the form of health, accident, and similar insurance protection.
 
-<b>1970</b>—Pub. L. 91–206 substituted “Administration” for “Bureau”.
+<b>1970</b>—Pub. L. 91–206 substituted "Administration" for "Bureau".
 
 <b>1964</b>—Pub. L. 88–353 increased size of supervisory committee from three members to not less than three members nor more than five members.
 
@@ -32,15 +32,15 @@ No member of the board or of any other committee shall, as such, be compensated,
 
 Subsec. (c). Act June 30, 1954, inserted provision with respect to interest refunds.
 
-<b>1949</b>—Subsec. (d). Act Oct. 25, 1949, substituted “$400” for “$300” wherever appearing.
+<b>1949</b>—Subsec. (d). Act Oct. 25, 1949, substituted "$400" for "$300" wherever appearing.
 
-<b>1946</b>—Subsec. (c). Act July 31, 1946, struck out “fix the amount and character of the surety bond required of any officer having custody of funds” and inserted “require any officer or employee having custody of or handling funds to give bond with good and sufficient surety in an amount and character to be determined, from time to time, by the board and authorize the payment of the premium or premiums therefor from the funds of the Federal credit union”.
+<b>1946</b>—Subsec. (c). Act July 31, 1946, struck out "fix the amount and character of the surety bond required of any officer having custody of funds" and inserted "require any officer or employee having custody of or handling funds to give bond with good and sufficient surety in an amount and character to be determined, from time to time, by the board and authorize the payment of the premium or premiums therefor from the funds of the Federal credit union".
 
 Subsec. (d). Act July 31, 1946, struck out requirement that notice of meeting of the credit committee must be given by the treasurer and increased the maximum amount of an unsecured loan to a member from $100 to $300.
 
-Subsec. (e). Act July 31, 1946, inserted last sentence defining “passbook”.
+Subsec. (e). Act July 31, 1946, inserted last sentence defining "passbook".
 
-<b>1940</b>—Subsec. (d). Act June 15, 1940, substituted “$100” for “$50” in fourth sentence.
+<b>1940</b>—Subsec. (d). Act June 15, 1940, substituted "$100" for "$50" in fourth sentence.
 
 #### Effective Date of 1978 Amendment
 

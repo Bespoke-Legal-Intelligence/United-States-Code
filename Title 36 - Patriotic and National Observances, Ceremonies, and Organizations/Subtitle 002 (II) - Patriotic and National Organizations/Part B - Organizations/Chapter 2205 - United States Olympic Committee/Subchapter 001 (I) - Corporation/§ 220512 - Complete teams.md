@@ -6,5 +6,5 @@ In obtaining representation for the United States in each competition and event 
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–284 substituted “and the corporation” for “and the Corporation”.
+<b>2006</b>—Pub. L. 109–284 substituted "and the corporation" for "and the Corporation".
 

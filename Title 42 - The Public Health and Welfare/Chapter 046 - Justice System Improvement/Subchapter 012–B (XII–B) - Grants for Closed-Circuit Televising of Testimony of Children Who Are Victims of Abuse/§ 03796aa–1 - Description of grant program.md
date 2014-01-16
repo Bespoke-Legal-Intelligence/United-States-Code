@@ -6,7 +6,7 @@ The Director is authorized to make grants to provide equipment and personnel tra
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 struck out “to States, for the use of States and units of local government in the States” after “make grants”.
+<b>1994</b>—Pub. L. 103–322 struck out "to States, for the use of States and units of local government in the States" after "make grants".
 
 #### Transfer of Functions
 

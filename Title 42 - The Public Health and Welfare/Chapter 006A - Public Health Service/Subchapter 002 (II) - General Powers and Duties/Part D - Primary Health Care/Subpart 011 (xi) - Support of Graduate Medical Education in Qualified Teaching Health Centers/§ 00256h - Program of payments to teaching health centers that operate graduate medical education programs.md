@@ -120,7 +120,7 @@ To carry out this section, there are appropriated such sums as may be necessary,
 
 #### (B) Limitation on payment
 
-&emsp;&emsp;A teaching health center may only receive payment in a cost reporting period for a number of such resident positions that is greater than the base level of primary care resident positions, as determined by the Secretary. For purposes of this subparagraph, the “base level of primary care residents” for a teaching health center is the level of such residents as of a base period.
+&emsp;&emsp;A teaching health center may only receive payment in a cost reporting period for a number of such resident positions that is greater than the base level of primary care resident positions, as determined by the Secretary. For purposes of this subparagraph, the "base level of primary care residents" for a teaching health center is the level of such residents as of a base period.
 
 #### (3) Reduction in payment for failure to report
 
@@ -128,7 +128,7 @@ To carry out this section, there are appropriated such sums as may be necessary,
 
 &emsp;&emsp;The amount payable under this section to a qualified teaching health center for a fiscal year shall be reduced by at least 25 percent if the Secretary determines that—
 
-&emsp;&emsp;&emsp;(i) the qualified teaching health center has failed to provide the Secretary, as anaddendum to the qualified teaching health center's application under this section for such fiscal year, the report required under paragraph (1) for the previous fiscal year; or
+&emsp;&emsp;&emsp;(i) the qualified teaching health center has failed to provide the Secretary, as an addendum to the qualified teaching health center's application under this section for such fiscal year, the report required under paragraph (1) for the previous fiscal year; or
 
 &emsp;&emsp;&emsp;(ii) such report fails to provide complete and accurate information required under any subparagraph of such paragraph.
 
@@ -150,19 +150,19 @@ In this section:
 
 #### (1) Approved graduate medical residency training program
 
-&emsp;The term “approved graduate medical residency training program” means a residency or other postgraduate medical training program—
+&emsp;The term "approved graduate medical residency training program" means a residency or other postgraduate medical training program—
 
-&emsp;&emsp;(A) participation in which may be counted toward certification in a specialty or subspecialty and includes formal postgraduate training programs in geriatric medicine approved by the Secretary; and
+&emsp;&emsp;(A) participation in which may be counted toward certification in a specialty or subspecialty and includes formal postgraduatetraining programs in geriatric medicine approved by the Secretary; and
 
 &emsp;&emsp;(B) that meets criteria for accreditation (as established by the Accreditation Council for Graduate Medical Education, the American Osteopathic Association, or the American Dental Association).
 
 #### (2) Primary care residency program
 
-&emsp;The term “primary care residency program” has the meaning given that term in section 293l–1 of this title.
+&emsp;The term "primary care residency program" has the meaning given that term in section 293l–1 of this title.
 
 #### (3) Qualified teaching health center
 
-&emsp;The term “qualified teaching health center” has the meaning given the term “teaching health center” in section 293l–1 of this title.
+&emsp;The term "qualified teaching health center" has the meaning given the term "teaching health center" in section 293l–1 of this title.
 
 (July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670.)
 
@@ -170,13 +170,13 @@ In this section:
 
 Section 4410 of the Balanced Budget Act of 1997, referred to in subsec. (c)(2)(A)(ii), is section 4410 of Pub. L. 105–33, which is set out as a note under section 1395ww of this title.
 
-Section 1395ww(d) of this title, referred to in subsec. (f), was in the original “section 1186(d) of such Act”, and was translated as meaning section 1886(d) of act Aug. 14, 1935, ch. 531, known as the Social Security Act, to reflect the probable intent of Congress. The Social Security Act does not contain a section 1186.
+Section 1395ww(d) of this title, referred to in subsec. (f), was in the original "section 1186(d) of such Act", and was translated as meaning section 1886(d) of act Aug. 14, 1935, ch. 531, known as the Social Security Act, to reflect the probable intent of Congress. The Social Security Act does not contain a section 1186.
 
 #### Codification
 
 Another section 340H of act July 1, 1944, ch. 373, as added by Pub. L. 111–148, title X, §10333, March 23, 2010, 124 Stat. 970, is classified to section 256i of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsections".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

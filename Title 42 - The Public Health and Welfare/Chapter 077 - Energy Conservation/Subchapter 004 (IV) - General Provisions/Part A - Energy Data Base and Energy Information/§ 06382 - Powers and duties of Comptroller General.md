@@ -8,7 +8,7 @@ For the purpose of carrying out his authority under section 6381 of this title�
 
 &emsp;&emsp;(A) sign and issue subpenas for the attendance and testimony of witnesses and the production of books, records, papers, and other documents;
 
-&emsp;&emsp;(B) require any person, by general or special order, to submit answers in writing to interrogatories, to submit books, records,papers, or other documents, or to submit any other information or reports, and such answers or other submissions shall be made within such reasonable period, and under oath or otherwise, as the Comptroller General may determine; and
+&emsp;&emsp;(B) require any person, by general or special order, to submit answers in writing to interrogatories, to submit books, records, papers, or other documents, or to submit any other information or reports, and such answers or other submissions shall be made within such reasonable period, and under oath or otherwise, as the Comptroller General may determine; and
 
 &emsp;&emsp;(C) administer oaths.
 
@@ -46,9 +46,9 @@ Section 754 of title 15, referred to in subsec. (e)(2), was omitted from the Cod
 
 #### Amendments
 
-<b>2004</b>—Subsec. (e)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (e)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–316 struck out subsec. (f) which read as follows: “The Comptroller General shall prepare and submit to the Congress an annual report with respect to the exercise of its authorities under this part, which report shall specifically identify any deficiencies in energy information or financial information reviewed by the Comptroller General and include a discussion of action taken by the person or company so examined, if any, to correct any such deficiencies.”
+<b>1996</b>—Subsec. (f). Pub. L. 104–316 struck out subsec. (f) which read as follows: "The Comptroller General shall prepare and submit to the Congress an annual report with respect to the exercise of its authorities under this part, which report shall specifically identify any deficiencies in energy information or financial information reviewed by the Comptroller General and include a discussion of action taken by the person or company so examined, if any, to correct any such deficiencies."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

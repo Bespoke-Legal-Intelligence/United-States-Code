@@ -4,7 +4,7 @@
 
 For the purpose (i) of developing or assisting in the development of any implementation plan under section 7410 or section 7411(d) of this title, any standard of performance under section 7411 of this title, any emission standard under section 7412 of this title,,<sup>1</sup> or any regulation of solid waste combustion under section 7429 of this title, or any regulation under section 7429 of this title (relating to solid waste combustion), (ii) of determining whether any person is in violation of any such standard or any requirement of such a plan, or (iii) carrying out any provision of this chapter (except a provision of subchapter II of this chapter with respect to a manufacturer of new motor vehicles or new motor vehicle engines)—
 
-&emsp;(1) the Administrator may require any person who owns or operates any emission source, who manufactures emission control equipment or process equipment, who the Administrator believes may have information necessary for the purposes set forth in this subsection, or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title with respect to a provision of subchapter II of this chapter) on a one-time, periodic or continuous basis to—
+&emsp;(1) the Administrator may require any person who owns or operates any emission source,who manufactures emission control equipment or process equipment, who the Administrator believes may have information necessary for the purposes set forth in this subsection, or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title with respect to a provision of subchapter II of this chapter) on a one-time, periodic or continuous basis to—
 
 &emsp;&emsp;(A) establish and maintain such records;
 
@@ -56,23 +56,23 @@ Section was formerly classified to section 1857c–9 of this title.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–549, §702(a)(1), which directed that “or” be struck out in first sentence immediately before “any emission standard under section 7412 of this title,” could not be executed because of the prior amendment by Pub. L. 101–549, §302(c), see below.
+<b>1990</b>—Subsec. (a). Pub. L. 101–549, §702(a)(1), which directed that "or" be struck out in first sentence immediately before "any emission standard under section 7412 of this title," could not be executed because of the prior amendment by Pub. L. 101–549, §302(c), see below.
 
-Pub. L. 101–549, §702(a)(2), inserted “or any regulation under section 7429 of this title (relating to solid waste combustion),” before “(ii) of determining”.
+Pub. L. 101–549, §702(a)(2), inserted "or any regulation under section 7429 of this title (relating to solid waste combustion)," before "(ii) of determining".
 
-Pub. L. 101–549, §302(c), struck out “or” after “performance under section 7411 of this title,” and inserted “, or any regulation of solid waste combustion under section 7429 of this title,” after “standard under section 7412 of this title”.
+Pub. L. 101–549, §302(c), struck out "or" after "performance under section 7411 of this title," and inserted ", or any regulation of solid waste combustion under section 7429 of this title," after "standard under section 7412 of this title".
 
-Subsec. (a)(1). Pub. L. 101–549, §702(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the Administrator may require any person who owns or operates any emission source or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title) with respect to a provision of subchapter II of this chapter to (A) establish and maintain such records, (B) make such reports, (C) install, use, and maintain such monitoring equipment or methods, (D) sample such emissions (in accordance with such methods, at such locations, at such intervals, and in such manner as the Administrator shall prescribe), and (E) provide such other information as he may reasonably require; and”.
+Subsec. (a)(1). Pub. L. 101–549, §702(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "the Administrator may require any person who owns or operates any emission source or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title) with respect to a provision of subchapter II of this chapter to (A) establish and maintain such records, (B) make such reports, (C) install, use, and maintain such monitoring equipment or methods, (D) sample such emissions (in accordance with such methods, at such locations, at such intervals, and in such manner as the Administrator shall prescribe), and (E) provide such other information as he may reasonably require; and".
 
 Subsec. (a)(3). Pub. L. 101–549, §702(b), added par. (3).
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–190, §14(a)(22), inserted reference to subchapter II of this chapter and “new” before “motor” in two places.
+<b>1977</b>—Subsec. (a). Pub. L. 95–190, §14(a)(22), inserted reference to subchapter II of this chapter and "new" before "motor" in two places.
 
-Pub. L. 95–95, §305(d), substituted “carrying out any provision of this chapter (except with respect to a manufacturer of motor vehicles or motor vehicle engines)” for “carrying out sections 119 or 303” in cl. (iii) preceding par. (1), substituted “any person subject to any requirement of this chapter (other than a manufacturer subject to the provisions of sections 7525(c) or 7542 of this title)” for “the owner or operator of any emission source” in par. (1), substituted “any premises of such person” for “any premises in which an emission source is located” in subpar. (A) of par. (2), and substituted “emissions which such person is required to sample” for “emissions which the owner or operator of such source is required to sample” in subpar. (B) of subpar. (2).
+Pub. L. 95–95, §305(d), substituted "carrying out any provision of this chapter (except with respect to a manufacturer of motor vehicles or motor vehicle engines)" for "carrying out sections 119 or 303" in cl. (iii) preceding par. (1), substituted "any person subject to any requirement of this chapter (other than a manufacturer subject to the provisions of sections 7525(c) or 7542 of this title)" for "the owner or operator of any emission source" in par. (1), substituted "any premises of such person" for "any premises in which an emission source is located" in subpar. (A) of par. (2), and substituted "emissions which such person is required to sample" for "emissions which the owner or operator of such source is required to sample" in subpar. (B) of subpar. (2).
 
-Subsec. (a)(1). Pub. L. 95–190, §14(a)(23), inserted reference to subchapter II of this chapter and “who owns or operates any emission source or who is” after “any person”.
+Subsec. (a)(1). Pub. L. 95–190, §14(a)(23), inserted reference to subchapter II of this chapter and "who owns or operates any emission source or who is" after "any person".
 
-Subsec. (b)(1). Pub. L. 95–95, §109(d)(3), struck out “(except with respect to new sources owned or operated by the United States)” after “to carry out this section”.
+Subsec. (b)(1). Pub. L. 95–95, §109(d)(3), struck out "(except with respect to new sources owned or operated by the United States)" after "to carry out this section".
 
 Subsec. (d). Pub. L. 95–95, §113, added subsec. (d).
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any otherofficer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
@@ -92,9 +92,9 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. The “and” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The "and" probably should not appear.</i>
 
-<i><sup>3</sup></i><i> The period probably should be “; and”.</i>
+<i><sup>3</sup></i><i> The period probably should be "; and".</i>
 
 <i><sup>4</sup></i><i> So in original. Probably should not be capitalized.</i>
 

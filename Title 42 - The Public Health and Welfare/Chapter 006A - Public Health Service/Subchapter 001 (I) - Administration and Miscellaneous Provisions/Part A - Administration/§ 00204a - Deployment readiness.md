@@ -36,7 +36,7 @@
 
 #### (5) Urgent or emergency public health care need
 
-&emsp;For purposes of this section and section 215 of this title, the term “urgent or emergency public health care need” means a health care need, as determined by the Secretary, arising as the result of—
+&emsp;For purposes of this section and section 215 of this title, the term "urgent or emergency public health care need" means a health care need, as determined by the Secretary, arising as the result of—
 
 &emsp;&emsp;(A) a national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.);
 
@@ -72,15 +72,15 @@ For purposes of pay, allowances, and benefits of a Commissioned Corps officer wh
 
 The National Emergencies Act, referred to in subsec. (a)(5)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(5)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(5)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended,which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Purpose
 
-Pub. L. 109–417, title II, §206(a), Dec. 19, 2006, 120 Stat. 2851, provided that: “It is the purpose of this section \[enacting this section and amending sections 215 and 254d of this title\] to improve the force management and readiness of the Commissioned Corps to accomplish the following objectives:
+Pub. L. 109–417, title II, §206(a), Dec. 19, 2006, 120 Stat. 2851, provided that: "It is the purpose of this section \[enacting this section and amending sections 215 and 254d of this title\] to improve the force management and readiness of the Commissioned Corps to accomplish the following objectives:
 
-&emsp;“(1) To ensure the Corps is ready to respond rapidly to urgent or emergency public health care needs and challenges.
+&emsp;"(1) To ensure the Corps is ready to respond rapidly to urgent or emergency public health care needs and challenges.
 
-&emsp;“(2) To ensure the availability of the Corps for assignments that address clinical and public health needs in isolated, hardship, and hazardous duty positions, and, when required, to address needs related to the well-being, security, and defense of the United States.
+&emsp;"(2) To ensure the availability of the Corps for assignments that address clinical and public health needs in isolated, hardship, and hazardous duty positions, and, when required, to address needs related to the well-being, security, and defense of the United States.
 
-&emsp;“(3) To establish the Corps as a resource available to Federal and State Government agencies for assistance in meeting public health leadership and service roles.”
+&emsp;"(3) To establish the Corps as a resource available to Federal and State Government agencies for assistance in meeting public health leadership and service roles."
 

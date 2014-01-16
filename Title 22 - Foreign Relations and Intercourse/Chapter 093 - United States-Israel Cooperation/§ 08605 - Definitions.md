@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Appropriate congressional committees
 
-&emsp;The term “appropriate congressional committees” means—
+&emsp;The term "appropriate congressional committees" means—
 
 &emsp;&emsp;(A) the Committee on Appropriations, the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
 
@@ -12,11 +12,11 @@ In this chapter:
 
 #### (2) Qualitative military edge
 
-&emsp;The term “qualitative military edge” has the meaning given the term in section 2776(h)(2) of this title.
+&emsp;The term "qualitative military edge" has the meaning given the term in section 2776(h)(2) of this title.
 
 (Pub. L. 112–150, §7, July 27, 2012, 126 Stat. 1149.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 112–150, July 27, 2012, 126Stat. 1146, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8601 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 112–150, July 27, 2012, 126 Stat. 1146, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8601 of this title and Tables.
 

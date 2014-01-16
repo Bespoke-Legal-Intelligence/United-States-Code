@@ -26,9 +26,9 @@ Any person who—
 
 &emsp;(D) the reason for issuing the permit.
 
-#### (c) “Aircraft” defined
+#### (c) "Aircraft" defined
 
-As used in this section, the term “aircraft” means any contrivance used for flight in the air.
+As used in this section, the term "aircraft" means any contrivance used for flight in the air.
 
 #### (d) Enforcement; regulations; arrest; search; issuance and execution of warrants and process; cooperative agreements
 
@@ -36,7 +36,7 @@ The Secretary of the Interior shall enforce the provisions of this section and s
 
 #### (e) Forfeiture
 
-All birds, fish, or other animals shot or captured contrary to the provisions of this section,or of any regulation issued hereunder, and all guns, aircraft, and other equipment used to aid in the shooting, attempting to shoot, capturing, or harassing of any bird, fish, or other animal in violation of this section or of any regulation issued hereunder shall be subject to forfeiture to the United States.
+All birds, fish, or other animals shot or captured contrary to the provisions of this section, or of any regulation issued hereunder, and all guns, aircraft, and other equipment used to aid in the shooting, attempting to shoot, capturing, or harassing of any bird, fish, or other animal in violation of this section or of any regulation issued hereunder shall be subject to forfeiture to the United States.
 
 #### (f) Certain customs laws applied
 
@@ -50,9 +50,9 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of a
 
 #### Change of Name
 
-“United States magistrate judge” substituted for “United States magistrate” in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judge" substituted for "United States magistrate" in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date
 
-Pub. L. 92–159, §3, Nov. 18, 1971, 85 Stat. 481, provided that: “The amendments made by the first section of this Act \[enacting this section\] shall take effect as of the thirtieth day after the date of enactment of such section \[Nov. 18, 1971\]; except that, in any case in which a State is not authorized to issue any permit referred to in the amendments made by such first section, such amendments shall take effect in any such State as of the thirtieth day after the expiration of the next regular session of the legislature of such State which begins on or after the date of enactment of this Act.”
+Pub. L. 92–159, §3, Nov. 18, 1971, 85 Stat. 481, provided that: "The amendments made by the first section of this Act \[enacting this section\] shall take effect as of the thirtieth day after the date of enactment of such section \[Nov. 18, 1971\]; except that, in any case in which a State is not authorized to issue any permit referred to in the amendments made by such first section, such amendments shall take effect in any such State as of the thirtieth day after the expiration of the next regular session of the legislature of such State which begins on or after the date of enactment of this Act."
 

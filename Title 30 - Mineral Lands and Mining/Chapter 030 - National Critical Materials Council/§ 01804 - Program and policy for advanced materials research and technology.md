@@ -24,5 +24,5 @@ The National Materials and Minerals Policy, Research and Development Act of 1980
 
 Pub. L. 100–418, title V, §5181, Aug. 23, 1988, 102 Stat. 1454, directed National Critical Materials Council to prepare the national Federal program plan for advanced materials research and development under 30 U.S.C. 1804(a)(1)(A) and to submit such plan to Congress not later than 180 days after Aug. 23, 1988.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “and provide”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "and provide".</i>
 

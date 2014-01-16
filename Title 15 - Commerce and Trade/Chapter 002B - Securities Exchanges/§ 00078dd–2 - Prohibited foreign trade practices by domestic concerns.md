@@ -54,7 +54,7 @@ It shall be an affirmative defense to actions under subsection (a) or (i) of thi
 
 #### (e) Guidelines by Attorney General
 
-Not later than 6 months after August 23, 1988, the Attorney General, after consultation with the Securities and Exchange Commission, the Secretary of Commerce, the United States Trade Representative, the Secretary of State, and the Secretary of the Treasury, and after obtaining the views of all interested persons through public notice and comment procedures, shall determine to what extent compliance with this section would be enhanced and the business community would be assisted by further clarification of the preceding provisions of this section and may, based on such determination and to the extent necessary and appropriate, issue—
+Not later than 6 months after August 23, 1988, the Attorney General, after consultation withthe Securities and Exchange Commission, the Secretary of Commerce, the United States Trade Representative, the Secretary of State, and the Secretary of the Treasury, and after obtaining the views of all interested persons through public notice and comment procedures, shall determine to what extent compliance with this section would be enhanced and the business community would be assisted by further clarification of the preceding provisions of this section and may, based on such determination and to the extent necessary and appropriate, issue—
 
 &emsp;(1) guidelines describing specific types of conduct, associated with common types of export sales arrangements and business contracts, which for purposes of the Department of Justice's present enforcement policy, the Attorney General determines would be in conformance with the preceding provisions of this section; and
 
@@ -88,21 +88,21 @@ Not later than 6 months after August 23, 1988, the Attorney General, after consu
 
 For purposes of this section:
 
-&emsp;(1) The term “domestic concern” means—
+&emsp;(1) The term "domestic concern" means—
 
 &emsp;&emsp;(A) any individual who is a citizen, national, or resident of the United States; and
 
 &emsp;&emsp;(B) any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship which has its principal place of business in the United States, or which is organized under the laws of a State of the United States or a territory, possession, or commonwealth of the United States.
 
-&emsp;(2)(A) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
+&emsp;(2)(A) The term "foreign official" means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
 
-&emsp;(B) For purposes of subparagraph (A), the term “public international organization” means—
+&emsp;(B) For purposes of subparagraph (A), the term "public international organization" means—
 
 &emsp;&emsp;(i) an organization that is designated by Executive order pursuant to section 288 of title 22; or
 
 &emsp;&emsp;(ii) any other international organization that is designated by the President by Executive order for the purposes of this section, effective as of the date of publication of such order in the Federal Register.
 
-&emsp;(3)(A) A person's state of mind is “knowing” with respect to conduct, a circumstance, or a result if—
+&emsp;(3)(A) A person's state of mind is "knowing" with respect to conduct, a circumstance, or a result if—
 
 &emsp;&emsp;(i) such person is aware that such person is engaging in such conduct, that such circumstance exists, or that such result is substantially certain to occur; or
 
@@ -110,7 +110,7 @@ For purposes of this section:
 
 &emsp;(B) When knowledge of the existence of a particular circumstance is required for an offense, such knowledge is established if a person is aware of a high probability of the existence of such circumstance, unless the person actually believes that such circumstance does not exist.
 
-&emsp;(4)(A) The term “routine governmental action” means only an action which is ordinarily and commonly performed by a foreign official in—
+&emsp;(4)(A) The term "routine governmental action" means only an action which is ordinarily and commonly performed by a foreign official in—
 
 &emsp;&emsp;(i) obtaining permits, licenses, or other official documents to qualify a person to do business in a foreign country;
 
@@ -122,9 +122,9 @@ For purposes of this section:
 
 &emsp;&emsp;(v) actions of a similar nature.
 
-&emsp;(B) The term “routine governmental action” does not include any decision by a foreign official whether, or on what terms, to award new business to or to continue business with a particular party, or any action taken by a foreign official involved in the decision-making process to encourage a decision to award new business to or continue business with a particular party.
+&emsp;(B) The term "routine governmental action" does not include any decision by a foreign official whether, or on what terms, to award new business to or to continue business with a particular party, or any action taken by a foreign official involved in the decision-making process to encourage a decision to award new business to or continue business with a particular party.
 
-&emsp;(5) The term “interstate commerce” means trade, commerce, transportation, or communication among the several States, or between any foreign country and any State or between any State and any place or ship outside thereof, and such term includes the intrastate use of—
+&emsp;(5) The term "interstate commerce" means trade, commerce, transportation, or communication among the several States, or between any foreign country and any State or between any State and any place or ship outside thereof, and such term includes the intrastate use of—
 
 &emsp;&emsp;(A) a telephone or other interstate means of communication, or
 
@@ -134,7 +134,7 @@ For purposes of this section:
 
 (1) It shall also be unlawful for any United States person to corruptly do any act outside the United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a) of this section, for the purposes set forth therein, irrespective of whether such United States person makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
 
-(2) As used in this subsection, the term “United States person” means a national of the United States (as defined in section 1101 of title 8) or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.
+(2) As used in this subsection, the term "United States person" means a national of the United States (as defined in section 1101 of title 8) or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.
 
 (Pub. L. 95–213, title I, §104, Dec. 19, 1977, 91 Stat. 1496; Pub. L. 100–418, title V, §5003(c), Aug. 23, 1988, 102 Stat. 1419; Pub. L. 103–322, title XXXIII, §330005, Sept. 13, 1994, 108 Stat. 2142; Pub. L. 105–366, §3, Nov. 10, 1998, 112 Stat. 3304.)
 
@@ -146,43 +146,43 @@ Section was enacted as part of Pub. L. 95–213, the Foreign Corrupt Practices A
 
 <b>1998</b>—Subsec. (a)(1)(A). Pub. L. 105–366, §3(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
-“(A)(i) influencing any act or decision of such foreign official in his official capacity, or (ii) inducing such foreign official to do or omit to do any act in violation of the lawful duty of such official, or”.
+"(A)(i) influencing any act or decision of such foreign official in his official capacity, or (ii) inducing such foreign official to do or omit to do any act in violation of the lawful duty of such official, or".
 
 Subsec. (a)(2)(A). Pub. L. 105–366, §3(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
-“(A)(i) influencing any act or decision of such party, official, or candidate in its or his official capacity, or (ii) inducing such party, official, or candidate to do or omit to do an act in violation of the lawful duty of such party, official, or candidate,”.
+"(A)(i) influencing any act or decision of such party, official, or candidate in its or his official capacity, or (ii) inducing such party, official, or candidate to do or omit to do an act in violation of the lawful duty of such party, official, or candidate,".
 
 Subsec. (a)(3)(A). Pub. L. 105–366, §3(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
-“(A)(i) influencing any act or decision of such foreign official, political party, party official, or candidate in his or its official capacity, or (ii) inducing such foreign official, political party, party official, or candidate to do or omit to do any act in violation of the lawful duty of such foreign official, political party, party official, or candidate, or”.
+"(A)(i) influencing any act or decision of such foreign official, political party, party official, or candidate in his or its official capacity, or (ii) inducing such foreign official, political party, party official, or candidate to do or omit to do any act in violation of the lawful duty of such foreign official, political party, party official, or candidate, or".
 
-Subsec. (b). Pub. L. 105–366, §3(d)(2), substituted “Subsections (a) and (i)” for “Subsection (a)”.
+Subsec. (b). Pub. L. 105–366, §3(d)(2), substituted "Subsections (a) and (i)" for "Subsection (a)".
 
-Subsec. (c). Pub. L. 105–366, §3(d)(3), substituted “subsection (a) or (i)” for “subsection (a)” in introductory provisions.
+Subsec. (c). Pub. L. 105–366, §3(d)(3), substituted "subsection (a) or (i)" for "subsection (a)" in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 105–366, §3(d)(4), substituted “subsection (a) or (i)” for “subsection (a)”.
+Subsec. (d)(1). Pub. L. 105–366, §3(d)(4), substituted "subsection (a) or (i)" for "subsection (a)".
 
 Subsec. (g)(1). Pub. L. 105–366, §3(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
-“(1)(A) Any domestic concern that violates subsection (a) of this section shall be fined not more than $2,000,000.
+"(1)(A) Any domestic concern that violates subsection (a) of this section shall be fined not more than $2,000,000.
 
-“(B) Any domestic concern that violates subsection (a) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General.”
+"(B) Any domestic concern that violates subsection (a) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General."
 
 Subsec. (g)(2). Pub. L. 105–366, §3(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
-“(2)(A) Any officer or director of a domestic concern, or stockholder acting on behalf of such domestic concern, who willfully violates subsection (a) of this section shall be fined not more than $100,000, or imprisoned not more than 5 years, or both.
+"(2)(A) Any officer or director of a domestic concern, or stockholder acting on behalf of such domestic concern, who willfully violates subsection (a) of this section shall be fined not more than $100,000, or imprisoned not more than 5 years, or both.
 
-“(B) Any employee or agent of a domestic concern who is a United States citizen, national, or resident or is otherwise subject to the jurisdiction of the United States (other than an officer, director, or stockholder acting on behalf of such domestic concern), and who willfully violates subsection (a) of this section, shall be fined not more than $100,000, or imprisoned not more than 5 years, or both.
+"(B) Any employee or agent of a domestic concern who is a United States citizen, national, or resident or is otherwise subject to the jurisdiction of the United States (other than an officer, director, or stockholder acting on behalf of such domestic concern), and who willfully violates subsection (a) of this section, shall be fined not more than $100,000, or imprisoned not more than 5 years, or both.
 
-“(C) Any officer, director, employee, or agent of a domestic concern, or stockholder acting on behalf of such domestic concern, who violates subsection (a) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General.”
+"(C) Any officer, director, employee, or agent of a domestic concern, or stockholder acting on behalf of such domestic concern, who violates subsection (a) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General."
 
-Subsec. (h)(2). Pub. L. 105–366, §3(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘foreign official’ means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality.”
+Subsec. (h)(2). Pub. L. 105–366, §3(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'foreign official' means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality."
 
-Subsec. (h)(4)(A). Pub. L. 105–366, §3(e), substituted “The” for “For purposes of paragraph (1), the” in introductory provisions.
+Subsec. (h)(4)(A). Pub. L. 105–366, §3(e), substituted "The" for "For purposes of paragraph (1), the" in introductory provisions.
 
 Subsec. (i). Pub. L. 105–366, §3(d)(1), added subsec. (i).
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322 substituted “domestic concern” for “issuer” in closing provisions.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322 substituted "domestic concern" for "issuer" in closing provisions.
 
-<b>1988</b>—Pub. L. 100–418 substituted “Prohibited foreign trade” for “Foreign corrupt” in section catchline and amended text generally, revising and restating as subsecs. (a) to (h) provisions of former subsecs. (a) to (d).
+<b>1988</b>—Pub. L. 100–418 substituted "Prohibited foreign trade" for "Foreign corrupt" in section catchline and amended text generally, revising and restating as subsecs. (a) to (h) provisions of former subsecs. (a) to (d).
 

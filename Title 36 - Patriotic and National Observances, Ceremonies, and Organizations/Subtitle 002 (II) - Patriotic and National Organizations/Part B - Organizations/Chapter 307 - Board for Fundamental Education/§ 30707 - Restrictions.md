@@ -62,9 +62,9 @@ July 19, 1954, ch. 536, §§9, 10, 12, 68 Stat. 491.
 
 &nbsp;
 
-In subsection (a), the word “pecuniary” is omitted as unnecessary.
+In subsection (a), the word "pecuniary" is omitted as unnecessary.
 
-In subsection (b), the words “any shares of” are omitted as unnecessary.
+In subsection (b), the words "any shares of" are omitted as unnecessary.
 
-In subsection (d), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “as provided in section 515 of this title” are omitted as unnecessary.
+In subsection (d), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title. The words "as provided in section 515 of this title" are omitted as unnecessary.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Any State or local government law enforcement officer who has authority to enforce State criminal laws may make an arrest for violation of a security zone regulation prescribed under section 1 of title II of the Act of June 15, 1917 (chapter 30; 50 U.S.C. 191) or security or safety zone regulation under section7(b) of the Ports and Waterways Safety Act (33 U.S.C. 1226(b)) or a safety zone regulation prescribed under section 10(d) of the Deepwater Port Act of 1974 (33 U.S.C. 1509(d)) by a Coast Guard official authorized by law to prescribe such regulations, if—
+In General.—Any State or local government law enforcement officer who has authority to enforce State criminal laws may make an arrest for violation of a security zone regulation prescribed under section 1 of title II of the Act of June 15, 1917 (chapter 30; 50 U.S.C. 191) or security or safety zone regulation under section 7(b) of the Ports and Waterways Safety Act (33 U.S.C. 1226(b)) or a safety zone regulation prescribed under section 10(d) of the Deepwater Port Act of 1974 (33 U.S.C. 1509(d)) by a Coast Guard official authorized by law to prescribe such regulations, if—
 
 &emsp;(1) such violation is a felony; and
 

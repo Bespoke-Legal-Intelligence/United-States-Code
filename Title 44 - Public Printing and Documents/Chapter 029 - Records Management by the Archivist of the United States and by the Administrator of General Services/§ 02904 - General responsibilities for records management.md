@@ -16,7 +16,7 @@
 
 &emsp;(5) to direct the continuing attention of Federal agencies and the Congress on the need for adequate policies governing records management;
 
-&emsp;(6) to conduct records management studies and, in his discretion, designate the heads ofexecutive agencies to conduct records management studies with respect to establishing systems and techniques designed to save time and effort in records management;
+&emsp;(6) to conduct records management studies and, in his discretion, designate the heads of executive agencies to conduct records management studies with respect to establishing systems and techniques designed to save time and effort in records management;
 
 &emsp;(7) to conduct inspections or surveys of the records and the records management programs and practices within and between Federal agencies;
 
@@ -40,29 +40,29 @@ Provisions similar to those comprising pars. (8) to (10) of this section were co
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–497 substituted “for records management” for “of Administrator” in section catchline.
+<b>1984</b>—Pub. L. 98–497 substituted "for records management" for "of Administrator" in section catchline.
 
-Subsec. (a). Pub. L. 98–497 designated existing first sentence as subsec. (a) and substituted “Archivist” for “Administrator” and “ensuring adequate and proper documentation of the policies and transactions of the Federal Government and ensuring proper records disposition” for “records creation, records maintenance and use, and records disposition”.
+Subsec. (a). Pub. L. 98–497 designated existing first sentence as subsec. (a) and substituted "Archivist" for "Administrator" and "ensuring adequate and proper documentation of the policies and transactions of the Federal Government and ensuring proper records disposition" for "records creation, records maintenance and use, and records disposition".
 
 Subsec. (b). Pub. L. 98–497 added subsec. (b).
 
-Subsec. (c). Pub. L. 98–497 designated existing second sentence as subsec. (c), substituted “In carrying out the responsibilities under subsection (a) or (b), respectively” for “In providing such guidance and assistance,”, and inserted reference to Archivist in text preceding par. (1).
+Subsec. (c). Pub. L. 98–497 designated existing second sentence as subsec. (c), substituted "In carrying out the responsibilities under subsection (a) or (b), respectively" for "In providing such guidance and assistance,", and inserted reference to Archivist in text preceding par. (1).
 
 Subsec. (c)(1). Pub. L. 98–497 redesignated par. (2) as (1). Provisions contained in former par. (1) are now contained substantially in subsec. (d).
 
 Subsec. (c)(2). Pub. L. 98–497 redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Subsec. (c)(3). Pub. L. 98–497 redesignated par. (6) as (3) and inserted “to collect and”, “training programs”, and “other activities”. Former par. (3) redesignated (2).
+Subsec. (c)(3). Pub. L. 98–497 redesignated par. (6) as (3) and inserted "to collect and", "training programs", and "other activities". Former par. (3) redesignated (2).
 
-Subsec. (c)(4). Pub. L. 98–497 redesignated par. (5) as (4). Former par. (4), which read “serve as a clearinghouse for information with respect to records management and as a central source for reference and training materials with respect to records management”, was struck out.
+Subsec. (c)(4). Pub. L. 98–497 redesignated par. (5) as (4). Former par. (4), which read "serve as a clearinghouse for information with respect to records management and as a central source for reference and training materials with respect to records management", was struck out.
 
-Subsec. (c)(5). Pub. L. 98–497 redesignated par. (7) as (5) and struck out “the burden placed on the Federal Government by unnecessary paperwork” after “Congress on”, “creation” before “maintenance”, and “and use, and disposition” after “maintenance”. Former par. (5) redesignated (4).
+Subsec. (c)(5). Pub. L. 98–497 redesignated par. (7) as (5) and struck out "the burden placed on the Federal Government by unnecessary paperwork" after "Congress on", "creation" before "maintenance", and "and use, and disposition" after "maintenance". Former par. (5) redesignated (4).
 
-Subsec. (c)(6). Pub. L. 98–497 redesignated par. (8) as (6) and struck out “with particular attention given to standards and procedures governing records creation” at end. Former par. (6) redesignated (3).
+Subsec. (c)(6). Pub. L. 98–497 redesignated par. (8) as (6) and struck out "with particular attention given to standards and procedures governing records creation" at end. Former par. (6) redesignated (3).
 
-Subsec. (c)(7). Pub. L. 98–497 redesignated par. (9) as (7) and substituted “surveys of the records and the records management programs and practices within and between Federal agencies” for “records management studies which involve a review of the programs and practices of more than one Federal agency and which examine interaction among and relationships between Federal agencies with respect to records and records management”. Former par. (7) redesignated (5).
+Subsec. (c)(7). Pub. L. 98–497 redesignated par. (9) as (7) and substituted "surveys of the records and the records management programs and practices within and between Federal agencies" for "records management studies which involve a review of the programs and practices of more than one Federal agency and which examine interaction among and relationships between Federal agencies with respect to records and records management". Former par. (7) redesignated (5).
 
-Subsec. (c)(8). Pub. L. 98–497 redesignated par. (10) as (8) and inserted “in January of each year”, “the Archivist or”, and substituted “(7)” for “(9)” and “(6)” and “(7)” for “(8)” and “(9)”, respectively, in subpars. (A) and (B).
+Subsec. (c)(8). Pub. L. 98–497 redesignated par. (10) as (8) and inserted "in January of each year", "the Archivist or", and substituted "(7)" for "(9)" and "(6)" and "(7)" for "(8)" and "(9)", respectively, in subpars. (A) and (B).
 
 Subsec. (c)(9), (10). Pub. L. 98–497 redesignated pars. (9) and (10) as (7) and (8), respectively.
 
@@ -76,9 +76,9 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–511, §5, Dec. 11, 1980, 94 Stat. 2826, provided: “This Act \[enacting chapter 35 of this title, amending this section, section 2905 of this title, section 5315 of Title 5, Government Organization and Employees, section 1221–3 of Title 20, Education, section 1211 of Title 30, Mineral Lands and Mining, and section 292h of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 101 and 3503 of this title\] shall take effect on April 1, 1981.”
+Pub. L. 96–511, §5, Dec. 11, 1980, 94 Stat. 2826, provided: "This Act \[enacting chapter 35 of this title, amending this section, section 2905 of this title, section 5315 of Title 5, Government Organization and Employees, section 1221–3 of Title 20, Education, section 1211 of Title 30, Mineral Lands and Mining, and section 292h of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 101 and 3503 of this title\] shall take effect on April 1, 1981."
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to appropriate oversight and appropriations committees of Congress under subsec. (c)(8) of this section is listed as the 9th item on page 173 and as the 5th item on page 180), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to appropriate oversight and appropriations committees of Congress under subsec. (c)(8) of this section is listed as the 9th item on page 173 and as the 5th item on page 180), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set outas notes under section 1113 of Title 31, Money and Finance.
 

@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall make grants to States, with approved State regulatory programs under section 1395ss of this title, that submit applications to the Secretary that meet the requirements of this section for the purpose of providing information, counseling, and assistance relating to the procurement of adequate and appropriate health insurance coverage to individuals who are eligible to receive benefits under this subchapter (in this section referred to as “eligible individuals”). The Secretary shall prescribe regulations to establish a minimum level of funding for a grant issued under this section.
+The Secretary of Health and Human Services (in this section referred to as the "Secretary") shall make grants to States, with approved State regulatory programs under section 1395ss of this title, that submit applications to the Secretary that meet the requirements of this section for the purpose of providing information, counseling, and assistance relating to the procurement of adequate and appropriate health insurance coverage to individuals who are eligible to receive benefits under this subchapter (in this section referred to as "eligible individuals"). The Secretary shall prescribe regulations to establish a minimum level of funding for a grant issued under this section.
 
 #### (b) Grant applications
 
@@ -10,7 +10,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 (2) As part of an application for a grant under this section, a State shall submit a plan for a State-wide health insurance information, counseling, and assistance program. Such program shall—
 
-&emsp;(A) establish or improve upon a health insurance information, counseling, and assistance program that provides counseling and assistance to eligible individuals in need of health insurance information, including—
+&emsp;(A) establish or improve upon a health insurance information, counseling, and assistanceprogram that provides counseling and assistance to eligible individuals in need of health insurance information, including—
 
 &emsp;&emsp;(i) information that may assist individuals in obtaining benefits and filing claims under this subchapter and subchapter XIX of this chapter;
 
@@ -42,7 +42,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 (1) A State that is conducting a health insurance information, counseling, and assistance program that is substantially similar to a program described in subsection (b)(2) of this section shall, as a requirement for eligibility for a grant under this section, demonstrate, to the satisfaction of the Secretary, that such State shall maintain the activities of such program at least at the level that such activities were conducted immediately preceding the date of the issuance of any grant during the period of time covered by such grant under this section.
 
-(2) If the Secretary determines that the existing health insurance information, counseling, and assistance program is substantially similar to a program described in subsection (b)(2) of this section, the Secretary may waive some or all of the requirements described in such subsection and issue a grant to the State for the purpose of increasing the number of services offered by the health insurance information, counseling, and assistance program, experimentingwith new methods of outreach in conducting such program, or expanding such program to geographic areas of the State not previously served by the program.
+(2) If the Secretary determines that the existing health insurance information, counseling, and assistance program is substantially similar to a program described in subsection (b)(2) of this section, the Secretary may waive some or all of the requirements described in such subsection and issue a grant to the State for the purpose of increasing the number of services offered by the health insurance information, counseling, and assistance program, experimenting with new methods of outreach in conducting such program, or expanding such program to geographic areas of the State not previously served by the program.
 
 #### (d) Criteria for issuing grants
 
@@ -102,29 +102,29 @@ Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, an
 
 #### Amendments
 
-<b>1998</b>—Subsec. (f). Pub. L. 105–362 substituted “Beginning with 1992” for “Not later than 180 days after November 5, 1990”.
+<b>1998</b>—Subsec. (f). Pub. L. 105–362 substituted "Beginning with 1992" for "Not later than 180 days after November 5, 1990".
 
-<b>1994</b>—Subsec. (b)(2)(A)(ii). Pub. L. 103–432, §171(i)(1), inserted closing parenthesis after “of this title”.
+<b>1994</b>—Subsec. (b)(2)(A)(ii). Pub. L. 103–432, §171(i)(1), inserted closing parenthesis after "of this title".
 
-Subsec. (b)(2)(D). Pub. L. 103–432, §171(i)(2), substituted “counseling” for “services” before “described in subparagraph (A)”.
+Subsec. (b)(2)(D). Pub. L. 103–432, §171(i)(2), substituted "counseling" for "services" before "described in subparagraph (A)".
 
-Subsec. (b)(2)(I). Pub. L. 103–432, §171(i)(3), substituted “referrals” for “assistance”.
+Subsec. (b)(2)(I). Pub. L. 103–432, §171(i)(3), substituted "referrals" for "assistance".
 
-Subsec. (c)(1). Pub. L. 103–432, §171(i)(4), struck out “and that such activities will continue to be maintained at such level” after “covered by such grant under this section”.
+Subsec. (c)(1). Pub. L. 103–432, §171(i)(4), struck out "and that such activities will continue to be maintained at such level" after "covered by such grant under this section".
 
-Subsec. (d)(3). Pub. L. 103–432, §171(i)(5), substituted “eligible individuals residing in rural areas” for “to the rural areas”.
+Subsec. (d)(3). Pub. L. 103–432, §171(i)(5), substituted "eligible individuals residing in rural areas" for "to the rural areas".
 
-Subsec. (e). Pub. L. 103–432, §171(i)(6)(A), (B), in introductory provisions, substituted “this section” for “subsection (c) or (d) of this section” and “and annually thereafter during the period of the grant, issue a report” for “and annually thereafter, issue an annual report”.
+Subsec. (e). Pub. L. 103–432, §171(i)(6)(A), (B), in introductory provisions, substituted "this section" for "subsection (c) or (d) of this section" and "and annually thereafter during the period of the grant, issue a report" for "and annually thereafter, issue an annual report".
 
-Subsec. (e)(1). Pub. L. 103–432, §171(i)(6)(C), struck out “State-wide” before “health insurance information”.
+Subsec. (e)(1). Pub. L. 103–432, §171(i)(6)(C), struck out "State-wide" before "health insurance information".
 
-Subsec. (f). Pub. L. 103–437, §15(b)(1), in introductory provisions, substituted “and the Committee on Energy and Commerce” for “the Committee on Energy and Commerce of the House of Representatives, and the Select Committee on Aging”.
+Subsec. (f). Pub. L. 103–437, §15(b)(1), in introductory provisions, substituted "and the Committee on Energy and Commerce" for "the Committee on Energy and Commerce of the House of Representatives, and the Select Committee on Aging".
 
 Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
 
-Pub. L. 103–432, §171(i)(8)(A), in subsec. (f), relating to authorization of appropriations for grants, substituted “1993, 1994, 1995, and 1996” for “and 1993”.
+Pub. L. 103–432, §171(i)(8)(A), in subsec. (f), relating to authorization of appropriations for grants, substituted "1993, 1994, 1995, and 1996" for "and 1993".
 
-Subsec. (f)(2) to (5). Pub. L. 103–432, §171(i)(7), in subsec. (f), relating to report to Congress, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “summarizes the scope and content of training conferences convened under this section;”.
+Subsec. (f)(2) to (5). Pub. L. 103–432, §171(i)(7), in subsec. (f), relating to report to Congress, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: "summarizes the scope and content of training conferences convened under this section;".
 
 Subsec. (g). Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
 
@@ -140,31 +140,31 @@ Amendment by Pub. L. 103–432 effective as if included in the enactment of Pub.
 
 Pub. L. 110–275, title I, §186, July 15, 2008, 122 Stat. 2588, provided that:
 
-“(a)
+"(a)
 
-Establishment.—Within one year after the date of the enactment of this Act \[July 15, 2008\], the Secretary (in this section referred to as the ‘Secretary’) shall establish a demonstration project to determine the greatest needs and most effective methods of outreach to medicare beneficiaries who were previously uninsured.
+Establishment.—Within one year after the date of the enactment of this Act \[July 15, 2008\], the Secretary (in this section referred to as the 'Secretary') shall establish a demonstration project to determine the greatest needs and most effective methods of outreach to medicare beneficiaries who were previously uninsured.
 
-“(b)
+"(b)
 
-Scope.—The demonstration shall be in no fewer than 10 sites, and shall include state health insurance assistance programs, community health centers, community-based organizations, community health workers, and other service providers under parts A, B, and C of title XVIII of the Social Security Act \[parts A, B, and C of this subchapter\]. Grantees that are plans operating under part C shall document that enrollees who were previously uninsured receive the ‘Welcome to Medicare’ physical exam.
+Scope.—The demonstration shall be in no fewer than 10 sites, and shall include state health insurance assistance programs, community health centers, community-based organizations, community health workers, and other service providers under parts A, B, and C of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq., 1395w–21 et seq.\]. Grantees that are plans operating under part C shall document that enrollees who were previously uninsured receive the 'Welcome to Medicare' physical exam.
 
-“(c)
+"(c)
 
 Duration.—The Secretary shall conduct the demonstration project for a period of 2 years.
 
-“(d)
+"(d)
 
 Report and Evaluation.—The Secretary shall conduct an evaluation of the demonstration and not later than 1 year after the completion of the project shall submit to Congress a report including the following:
 
-&emsp;“(1) An analysis of the effectiveness of outreach activities targeting beneficiaries who were previously uninsured, such as revising outreach and enrollment materials (including the potential for use of video information), providing one-on-one counseling, working with community health workers, and amending the Medicare and You handbook.
+&emsp;"(1) An analysis of the effectiveness of outreach activities targeting beneficiaries who were previously uninsured, such as revising outreach and enrollment materials (including the potential for use of video information), providing one-on-one counseling, working with community health workers, and amending the Medicare and You handbook.
 
-&emsp;“(2) The effect of such outreach on beneficiary access to care, utilization of services, efficiency and cost-effectiveness of health care delivery, patient satisfaction, and select health outcomes.”
+&emsp;"(2) The effect of such outreach on beneficiary access to care, utilization of services, efficiency and cost-effectiveness of health care delivery, patient satisfaction, and select health outcomes."
 
 #### State Regulatory Programs
 
 For provisions relating to changes required to conform State regulatory programs to amendments by section 171 of Pub. L. 103–432, see section 171(m) of Pub. L. 103–432, set out as a note under section 1395ss of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “to”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "to".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be paragraph “(2)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be paragraph "(2)".</i>
 

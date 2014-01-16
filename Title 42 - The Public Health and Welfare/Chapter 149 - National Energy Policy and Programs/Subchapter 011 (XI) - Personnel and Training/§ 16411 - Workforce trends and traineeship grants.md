@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Energy technology industry
 
-&emsp;The term “energy technology industry” includes—
+&emsp;The term "energy technology industry" includes—
 
 &emsp;&emsp;(A) a renewable energy industry;
 
@@ -24,7 +24,7 @@ In this section:
 
 #### (2) Skilled technical personnel
 
-&emsp;The term “skilled technical personnel” means—
+&emsp;The term "skilled technical personnel" means—
 
 &emsp;&emsp;(A) journey- and apprentice-level workers who are enrolled in, or have completed, a federally-recognized or State-recognized apprenticeship program; and
 

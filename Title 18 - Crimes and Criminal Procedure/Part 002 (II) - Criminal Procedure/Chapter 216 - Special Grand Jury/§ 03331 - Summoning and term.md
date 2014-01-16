@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted “, the Associate Attorney General” after “Deputy Attorney General”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted ", the Associate Attorney General" after "Deputy Attorney General".
 

@@ -30,5 +30,5 @@ June 29, 1936, ch. 858, title VI, §607(a) (2d sentence related to deposits), (l
 
 46 App.:1177(a) (last sentence).
 
-In subsection (a), the words “agreed to be appropriate” are substituted for “agreed upon as necessary or appropriate” to eliminate unnecessary words.
+In subsection (a), the words "agreed to be appropriate" are substituted for "agreed upon as necessary or appropriate" to eliminate unnecessary words.
 

@@ -12,7 +12,7 @@ For purposes of this section, the applicable percentage is 20 percent.
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “qualified zone wages” means any wages paid or incurred by an employer for services performed by an employee while such employee is a qualified zone employee.
+&emsp;For purposes of this section, the term "qualified zone wages" means any wages paid or incurred by an employer for services performed by an employee while such employee is a qualified zone employee.
 
 #### (2) Only first $15,000 of wages per year taken into account
 
@@ -22,7 +22,7 @@ For purposes of this section, the applicable percentage is 20 percent.
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified zone wages” shall not include wages taken into account in determining the credit under section 51.
+&emsp;&emsp;The term "qualified zone wages" shall not include wages taken into account in determining the credit under section 51.
 
 #### (B) Coordination with paragraph (2)
 
@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the term “qualified zone employee” means, with respect to any period, any employee of an employer if—
+&emsp;Except as otherwise provided in this subsection, the term "qualified zone employee" means, with respect to any period, any employee of an employer if—
 
 &emsp;&emsp;(A) substantially all of the services performed during such period by such employee for such employer are performed within an empowerment zone in a trade or business of the employer, and
 
@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (2) Certain individuals not eligible
 
-&emsp;The term “qualified zone employee” shall not include—
+&emsp;The term "qualified zone employee" shall not include—
 
 &emsp;&emsp;(A) any individual described in subparagraph (A), (B), or (C) of section 51(i)(1),
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788.
+The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -92,23 +92,23 @@ A prior section 1396, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title I, §113(a)\], amended subsec. (b) generally, substituting provisions establishing an applicable percentage of 20 percent for provisions setting out tables for determining the applicable percentage.
 
-Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title I, §113(b)\], struck out heading and text of subsec. (e). Text read as follows: “This section shall be applied without regard to any empowerment zone designated under section 1391(g).”
+Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title I, §113(b)\], struck out heading and text of subsec. (e). Text read as follows: "This section shall be applied without regard to any empowerment zone designated under section 1391(g)."
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–34 substituted “For purposes of this section—
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 substituted "For purposes of this section—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—Except as provided in paragraph (2), the term ‘applicable percentage’ means the percentage determined in accordance with the following table:”
+In general.—Except as provided in paragraph (2), the term 'applicable percentage' means the percentage determined in accordance with the following table:"
 
-> for “For purposes of this section, the term ‘applicable percentage’ means the percentage determined in accordance with the following table:” and added par. (2).
+> for "For purposes of this section, the term 'applicable percentage' means the percentage determined in accordance with the following table:" and added par. (2).
 
 Subsec. (e). Pub. L. 105–34, §952(b), added subsec. (e).
 
-<b>1996</b>—Subsec. (c)(3). Pub. L. 104–188 substituted “work opportunity credit” for “targeted jobs credit” in heading.
+<b>1996</b>—Subsec. (c)(3). Pub. L. 104–188 substituted "work opportunity credit" for "targeted jobs credit" in heading.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title I, §113(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, provided that: “The amendments made by this section \[amending this section and section 1400 of this title\] shall apply to wages paid or incurred after December 31, 2001.”
+Pub. L. 106–554, §1(a)(7) \[title I, §113(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, provided that: "The amendments made by this section \[amending this section and section 1400 of this title\] shall apply to wages paid or incurred after December 31, 2001."
 
 #### Effective Date of 1997 Amendment
 

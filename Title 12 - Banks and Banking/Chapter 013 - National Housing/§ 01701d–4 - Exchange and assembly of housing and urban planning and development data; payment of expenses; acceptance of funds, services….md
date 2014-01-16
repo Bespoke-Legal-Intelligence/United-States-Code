@@ -22,5 +22,5 @@ Section was enacted as part of the Housing Act of 1957, and not as part of the N
 
 <b>1968</b>—Pub. L. 90–448 designated existing provisions as subsec. (a), inserted reference to assembly of data from other nations, and authorized payment of expenses of participation in activities conducted under authority of this section, and acceptance from international organizations, foreign countries, and private nonprofit foundations of funds, services, facilities, materials and other donations to be utilized jointly, and added subsec. (b).
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” and “Department of Housing and Urban Development” for “Housing and Home Finance Administrator” and “Housing and Home Finance Agency”, respectively.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary of Housing and Urban Development" and "Department of Housing and Urban Development" for "Housing and Home Finance Administrator" and "Housing and Home Finance Agency", respectively.
 

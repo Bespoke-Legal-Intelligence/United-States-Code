@@ -20,7 +20,7 @@ Consultation.—In establishing and implementing the Northwest Fisheries Reinves
 
 (3)
 
-Activities Under Program.—Subject to the availability of appropriations, the Secretary shall award contracts, grants and other financial assistance to United States citizens to carry out the purposes of subsection <sup>1</sup> (1), under the terms and conditions provided in section 713c–3(c) of title 15, except that, in making awards under this section for projects involving participation in fisheries for underutilized species, the Secretary shall give the highest priority to a person who owns or operates a fishing vessel permitted under this chapter to participate in the New England groundfish fishery who agrees to surrender that permit to the Secretary during the duration of the contract, grant or other assistance.
+Activities Under Program.—Subject to the availability of appropriations, the Secretary shall award contracts, grants and other financial assistance to United States citizens to carry out the purposes of subsection <sup>1</sup> (1), under the terms and conditions provided in section 713c–3(c) of title 15, except that, in making awards under this section for projects involving participation in fisheries for underutilized species, the Secretary shall give the highest priority to a person who owns or operates a fishingvessel permitted under this chapter to participate in the New England groundfish fishery who agrees to surrender that permit to the Secretary during the duration of the contract, grant or other assistance.
 
 (4)
 
@@ -34,21 +34,21 @@ The Secretary shall actively seek the assistance of other Federal agencies in th
 
 The New England Fishery Management Council, in consultation with other appropriate Councils, shall develop fishery management plans as soon as possible for any underutilized species of the northwest Atlantic Ocean that is not covered under such a plan, in order to prevent overfishing of that species.
 
-#### (d) “Underutilized species” defined
+#### (d) "Underutilized species" defined
 
-For purposes of this section, the term “underutilized species of the northwest Atlantic Ocean” means any fish species of the northwest Atlantic Ocean that is identified, by the Director of the Northeast Fisheries Center of the National Marine Fisheries Service, as an underutilized species.
+For purposes of this section, the term "underutilized species of the northwest Atlantic Ocean" means any fish species of the northwest Atlantic Ocean that is identified, by the Director of the Northeast Fisheries Center of the National Marine Fisheries Service, as an underutilized species.
 
 (Pub. L. 94–265, title III, §314, as added Pub. L. 102–567, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4317; amended Pub. L. 104–297, title I, §117(b), Oct. 11, 1996, 110 Stat. 3604.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(3), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (a)(3), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (b), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7, Agriculture, and Tables.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(4). Pub. L. 104–297 substituted “1999” for “1997”.
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–297 substituted "1999" for "1997".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph".</i>
 

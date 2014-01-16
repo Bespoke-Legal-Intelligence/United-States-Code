@@ -24,7 +24,7 @@ Continued Entitlement to Retired Pay and Benefits.—The eligibility of a retire
 
 (f)
 
-Retired Member Defined.—In this section, the term “retired member” means a member or former member of the uniformed services who is entitled to receive retired or retainer pay.
+Retired Member Defined.—In this section, the term "retired member" means a member or former member of the uniformed services who is entitled to receive retired or retainer pay.
 
 (g)
 
@@ -34,11 +34,11 @@ Civil Employment by Foreign Governments.—For a provision of law providing the 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–136 struck out heading and text of subsec. (d). Text read as follows: “The Secretary concerned and the Secretary of State shall notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives of each approval under subsection (b) and each determination under subsection (c).”
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 struck out heading and text of subsec. (d). Text read as follows: "The Secretary concerned and the Secretary of State shall notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives of each approval under subsection (b) and each determination under subsection (c)."
 
-<b>1999</b>—Subsec. (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–106 substituted “Committee on National Security and the Committee on International Relations” for “Committee on Armed Services and the Committee on Foreign Affairs”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–106 substituted "Committee on National Security and the Committee on International Relations" for "Committee on Armed Services and the Committee on Foreign Affairs".
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 1058 of this title as this section.
 
@@ -48,17 +48,17 @@ Pub. L. 103–160, div. A, title XIV, §1433(d), Nov. 30, 1993, 107 Stat. 1835, 
 
 #### Restoration of Withheld Benefits
 
-Pub. L. 103–236, title I, §182(a), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–337, div. A, title X, §1070(d)(7), Oct. 5, 1994, 108 Stat. 2858; Pub. L. 103–415, §1(j), Oct. 25, 1994, 108 Stat. 4301, provided that: “With respect to any person for which the Secretary of State and the Secretary concerned within the Department of Defense have approved the employment or the holding of a position pursuant to the provisions of section 1060 of title 10, United States Code, before April 30, 1994, the consents, approvals and determinations under that section shall be deemed to be effective as of January 1, 1993.”
+Pub. L. 103–236, title I, §182(a), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–337, div. A, title X, §1070(d)(7), Oct. 5, 1994, 108 Stat. 2858; Pub. L. 103–415, §1(j), Oct. 25, 1994, 108 Stat. 4301, provided that: "With respect to any person for which the Secretary of State and the Secretary concerned within the Department of Defense have approved the employment or the holding of a position pursuant to the provisions of section 1060 of title 10, United States Code, before April 30, 1994, the consents, approvals and determinations under that section shall be deemed to be effective as of January 1, 1993."
 
 #### Congressional Findings
 
-Pub. L. 103–160, div. A, title XIV, §1433(a), Nov. 30, 1993, 107 Stat. 1833, provided that: “The Congress makes the following findings:
+Pub. L. 103–160, div. A, title XIV, §1433(a), Nov. 30, 1993, 107 Stat. 1833, provided that: "The Congress makes the following findings:
 
-&emsp;“(1) It is in the national security interest of the United States to promote democracy throughout the world.
+&emsp;"(1) It is in the national security interest of the United States to promote democracy throughout the world.
 
-&emsp;“(2) The armed forces of newly democratic nations often lack the democratic traditions that are a hallmark of the Armed Forces of the United States.
+&emsp;"(2) The armed forces of newly democratic nations often lack the democratic traditions that are a hallmark of the Armed Forces of the United States.
 
-&emsp;“(3) The understanding of military roles and missions in a democracy is essential for the development and preservation of democratic forms of government.
+&emsp;"(3) The understanding of military roles and missions in a democracy is essential for the development and preservation of democratic forms of government.
 
-&emsp;“(4) The service of retired members of the Armed Forces of the United States in the armed forces of newly democratic nations could lead to a better understanding of military roles and missions in a democracy.”
+&emsp;"(4) The service of retired members of the Armed Forces of the United States in the armed forces of newly democratic nations could lead to a better understanding of military roles and missions in a democracy."
 

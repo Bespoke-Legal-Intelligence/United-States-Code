@@ -38,7 +38,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 #### (5) Employee of the Office of the Architect of the Capitol
 
-&emsp;The term “employee of the Office of the Architect of the Capitol” includes any employee of the Office of the Architect of the Capitol or the Botanic Garden.
+&emsp;The term “employee of the Office of the Architect of the Capitol” includes any employeeof the Office of the Architect of the Capitol or the Botanic Garden.
 
 #### (6) Employee of the Capitol Police
 
@@ -76,7 +76,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 &emsp;The term “Office” means the Office of Compliance.
 
-(Pub. L. 104–1, title I, §101, Jan. 23, 1995, 109 Stat. 4; Pub. L. 110–279, §1(g)(1), July 17, 2008, 122 Stat.2609; Pub. L. 110–437, title IV, §422(b)(1), (2), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 111–145, §2(a)(5)(A), Mar. 4, 2010, 124 Stat. 50.)
+(Pub. L. 104–1, title I, §101, Jan. 23, 1995, 109 Stat. 4; Pub. L. 110–279, §1(g)(1), July 17, 2008, 122 Stat. 2609; Pub. L. 110–437, title IV, §422(b)(1), (2), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 111–145, §2(a)(5)(A), Mar. 4, 2010, 124 Stat. 50.)
 
 #### References in Text
 

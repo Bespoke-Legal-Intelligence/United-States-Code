@@ -6,5 +6,5 @@ Each reserve officer of the Army, Navy, Air Force, or Marine Corps in a grade be
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–364 substituted “62” for “60” in section catchline and text.
+<b>2006</b>—Pub. L. 109–364 substituted "62" for "60" in section catchline and text.
 

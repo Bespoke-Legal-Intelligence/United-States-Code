@@ -16,7 +16,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 &emsp;(3) An advance recourse loan under section 424 \[7 U.S.C. 1433c\] shall come due at such time immediately following harvest as the Secretary determines appropriate. Each loan contract entered into under section 424 shall specify the date on which the loan is to come due.
 
-&emsp;(4)(A) The Secretary shall establish procedures, when practicable, under which a producer, simultaneously with repayment of his recourse loan, may obtain a nonrecourse loan on his crop (as otherwise provided for in the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\]) in an amount sufficient to repay his recourse loan.
+&emsp;(4)(A) The Secretary shall establish procedures, when practicable, under which a producer, simultaneously with repayment of his recourse loan, may obtain a nonrecourse loan on his crop (as otherwise provided for in the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\])in an amount sufficient to repay his recourse loan.
 
 &emsp;(B) In cases in which nonrecourse loans under such Act are not normally made available directly to producers, the Secretary shall establish procedures under which a producer may repay a recourse loan at the same time the producer receives advances or other payment from the producer's disposition of his crop.
 
@@ -54,7 +54,7 @@ Section was enacted as part of the Food Security Improvements Act of 1986, and n
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(2)(B). Pub. L. 108–357 struck out “tobacco and” before “peanuts”.
+<b>2004</b>—Subsec. (a)(2)(B). Pub. L. 108–357 struck out "tobacco and" before "peanuts".
 
 #### Effective Date of 2004 Amendment
 

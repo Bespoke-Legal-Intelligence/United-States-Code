@@ -2,7 +2,7 @@ Part C—Financial Assistance Programs
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1586, inserted “Part C—Financial Assistance Programs”.
+<b>2006</b>—Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1586, inserted "Part C—Financial Assistance Programs".
 
 
 ---

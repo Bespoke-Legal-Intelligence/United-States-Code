@@ -2,7 +2,7 @@
 
 #### (a) Education partnerships
 
-The Secretary may authorize each Department research and development facility, to the extent practicable and consistent with the provisions of the laboratory's management and operating contract, to enter into education partnership agreements with educational institutions in the United States (including local educational agencies, colleges, and universities) for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education.
+The Secretary may authorize each Department research and development facility, to theextent practicable and consistent with the provisions of the laboratory's management and operating contract, to enter into education partnership agreements with educational institutions in the United States (including local educational agencies, colleges, and universities) for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education.
 
 #### (b) Types of assistance
 
@@ -26,7 +26,7 @@ Under a partnership agreement entered into with an educational institution under
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58, §1102(c)(1), added par. (1) and struck out former par. (1) which read as follows: “loaning equipment to the institution;”.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58, §1102(c)(1), added par. (1) and struck out former par. (1) which read as follows: "loaning equipment to the institution;".
 
 Subsec. (b)(7). Pub. L. 109–58, §1102(c)(2)–(4), added par. (7).
 

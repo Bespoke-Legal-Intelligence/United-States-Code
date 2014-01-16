@@ -74,67 +74,67 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2201, amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall establish a wetlands reserve program to assist owners of eligible lands in restoring and protecting wetlands.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2201, amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary shall establish a wetlands reserve program to assist owners of eligible lands in restoring and protecting wetlands."
 
-Subsec. (b)(1). Pub. L. 110–246, §2202(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The total number of acres enrolled in the wetlands reserve program shall not exceed 2,275,000 acres, of which, to the maximum extent practicable, the Secretary shall enroll 250,000 acres in each calendar year.”
+Subsec. (b)(1). Pub. L. 110–246, §2202(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The total number of acres enrolled in the wetlands reserve program shall not exceed 2,275,000 acres, of which, to the maximum extent practicable, the Secretary shall enroll 250,000 acres in each calendar year."
 
-Subsec. (b)(2). Pub. L. 110–246, §2202(2), substituted “Subject to paragraph (3), the Secretary” for “The Secretary”.
+Subsec. (b)(2). Pub. L. 110–246, §2202(2), substituted "Subject to paragraph (3), the Secretary" for "The Secretary".
 
 Subsec. (b)(3). Pub. L. 110–246, §2202(3), added par. (3).
 
-Subsec. (c). Pub. L. 110–246, §2203(a)(1), in introductory provisions, substituted “1991 through 2012 fiscal years” for “1991 through 2007 calendar years” and “private or tribal land shall be eligible” for “land shall be eligible”.
+Subsec. (c). Pub. L. 110–246, §2203(a)(1), in introductory provisions, substituted "1991 through 2012 fiscal years" for "1991 through 2007 calendar years" and "private or tribal land shall be eligible" for "land shall be eligible".
 
-Subsec. (c)(2). Pub. L. 110–246, §2203(a)(2), added par. (2) and struck out former par. (2) which read as follows: “such land is farmed wetland or converted wetland, together with adjacent lands that are functionally dependent on such wetlands, except that converted wetlands where the conversion was not commenced prior to December 23, 1985, shall not be eligible to be enrolled in the program under this section; and”.
+Subsec. (c)(2). Pub. L. 110–246, §2203(a)(2), added par. (2) and struck out former par. (2) which read as follows: "such land is farmed wetland or converted wetland, together with adjacent lands that are functionally dependent on such wetlands, except that converted wetlands where the conversion was not commenced prior to December 23, 1985, shall not be eligible to be enrolled in the program under this section; and".
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–171, §2202(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
-“(1)
+"(1)
 
 Maximum enrollment.—The total number of acres enrolled in the wetlands reserve program shall not exceed 975,000 acres.
 
-“(2)
+"(2)
 
 Methods of enrollment.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Subject to subparagraph (B), effective beginning October 1, 1996, to the maximum extent practicable, the Secretary shall enroll into the wetlands reserve program—
 
-&emsp;&emsp;“(i) 1/3 of the acres through the use of permanent easements;
+&emsp;&emsp;"(i) 1/3 of the acres through the use of permanent easements;
 
-&emsp;&emsp;“(ii) 1/3 of the acres through the use of 30-year easements; and
+&emsp;&emsp;"(ii) 1/3 of the acres through the use of 30-year easements; and
 
-&emsp;&emsp;“(iii) 1/3 of the acres through the use of restoration cost-share agreements.
+&emsp;&emsp;"(iii) 1/3 of the acres through the use of restoration cost-share agreements.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Temporary easements.—Effective beginning October 1, 1996, the Secretary shall not enroll acres in the wetlands reserve program through the use of new permanent easements until the Secretary has enrolled at least 75,000 acres in the program through the use of temporary easements.
 
-&emsp;“(C) For purposes of subparagraph (A), to the maximum extent practicable should be interpreted to mean that acceptance of wetlands reserve program bids may be in proportion to landowner interest expressed in program options.”
+&emsp;"(C) For purposes of subparagraph (A), to the maximum extent practicable should be interpreted to mean that acceptance of wetlands reserve program bids may be in proportion to landowner interest expressed in program options."
 
-Subsec. (c). Pub. L. 107–171, §2201, substituted “2007” for “2002” in introductory provisions.
+Subsec. (c). Pub. L. 107–171, §2201, substituted "2007" for "2002" in introductory provisions.
 
-Subsec. (g). Pub. L. 107–171, §2202(2), struck out heading and text of subsec. (g). Text read as follows: “The Secretary shall enroll lands in the wetland reserve through the purchase of easements as provided for in section 3837a of this title.”
+Subsec. (g). Pub. L. 107–171, §2202(2), struck out heading and text of subsec. (g). Text read as follows: "The Secretary shall enroll lands in the wetland reserve through the purchase of easements as provided for in section 3837a of this title."
 
 <b>1998</b>—Subsec. (b)(2)(C). Pub. L. 105–277 added subpar. (C).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–127, §333(a), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary shall enroll into the wetlands reserve program—
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §333(a), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "The Secretary shall enroll into the wetlands reserve program—
 
-&emsp;“(1) a total of not less than 330,000 acres by the end of the 1995 calendar year; and
+&emsp;"(1) a total of not less than 330,000 acres by the end of the 1995 calendar year; and
 
-&emsp;“(2) a total of not less than 975,000 acres during the 1991 through 2000 calendar years.”
+&emsp;"(2) a total of not less than 975,000 acres during the 1991 through 2000 calendar years."
 
-Subsec. (c). Pub. L. 104–127, §333(b), substituted “2002” for “2000” in introductory provisions, added par. (1), and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+Subsec. (c). Pub. L. 104–127, §333(b), substituted "2002" for "2000" in introductory provisions, added par. (1), and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-Subsec. (d). Pub. L. 104–127, §333(c), in introductory provisions, inserted “, land that maximizes wildlife benefits and that is” after “subsection (c) of this section” and, in par. (2), substituted “or” for “and” at end.
+Subsec. (d). Pub. L. 104–127, §333(c), in introductory provisions, inserted ", land that maximizes wildlife benefits and that is" after "subsection (c) of this section" and, in par. (2), substituted "or" for "and" at end.
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–66, §1402(c)(1), added subsec. (b) and struck out former subsec. (b) “
+<b>1993</b>—Subsec. (b). Pub. L. 103–66, §1402(c)(1), added subsec. (b) and struck out former subsec. (b) "
 
-Number of Acres” which read as follows: “To the extent practicable, the Secretary shall attempt to enroll into the wetlands reserve program, 1,000,000 acres of land during the 1991 through 1995 calendar years; except that the Secretary may not enroll more than 200,000 acres in 1991, 400,000 acres in the 1991 to 1992 period, 600,000 acres in the 1991 to 1993 period, 800,000 acres in the 1991 to 1994 period, and 1,000,000 acres in the 1991 to 1995 period.”
+Number of Acres" which read as follows: "To the extent practicable, the Secretary shall attempt to enroll into the wetlands reserve program, 1,000,000 acres of land during the 1991 through 1995 calendar years; except that the Secretary may not enroll more than 200,000 acres in 1991, 400,000 acres in the 1991 to 1992 period, 600,000 acres in the 1991 to 1993 period, 800,000 acres in the 1991 to 1994 period, and 1,000,000 acres in the 1991 to 1995 period."
 
-Subsec. (c). Pub. L. 103–66, §1402(c)(2), substituted “2000” for “1995”.
+Subsec. (c). Pub. L. 103–66, §1402(c)(2), substituted "2000" for "1995".
 
-<b>1991</b>—Subsec. (d). Pub. L. 102–237 substituted “subsection (c)” for “subsection (d)” in introductory provisions.
+<b>1991</b>—Subsec. (d). Pub. L. 102–237 substituted "subsection (c)" for "subsection (d)" in introductory provisions.
 
 #### Effective Date of 2008 Amendment
 
@@ -142,5 +142,5 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effect of 1996 Amendments on Existing Agreements
 
-Pub. L. 104–127, title III, §333(f), Apr. 4, 1996, 110 Stat. 996, provided that: “The amendments made by this section \[amending this section and sections 3837a and 3837c of this title\] shall not affect the validity or terms of any agreements entered into by the Secretary of Agriculture under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837 et seq.) before the date of enactment of this Act \[Apr. 4, 1996\] or any payments required to be made in connection with the agreements.”
+Pub. L. 104–127, title III, §333(f), Apr. 4, 1996, 110 Stat. 996, provided that: "The amendments made by this section \[amending this section and sections 3837a and 3837c of this title\] shall not affect the validity or terms of any agreements entered into by the Secretary of Agriculture under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837 et seq.) before the date of enactment of this Act \[Apr. 4, 1996\] or any payments required to be made in connection with the agreements."
 

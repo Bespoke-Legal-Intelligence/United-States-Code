@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 180 days after September 13, 1994, the Attorney General shall develop, in cooperation with the States, a national voluntary motor vehicle theft prevention program (in this section referred to as the “program”) under which—
+Not later than 180 days after September 13, 1994, the Attorney General shall develop, in cooperation with the States, a national voluntary motor vehicle theft prevention program (in this section referred to as the "program") under which—
 
 &emsp;(1) the owner of a motor vehicle may voluntarily sign a consent form with a participating State or locality in which the motor vehicle owner—
 
@@ -106,7 +106,7 @@ There are authorized to carry out this section.<sup>1</sup>
 
 #### Short Title
 
-For short title of this subchapter as the “Motor Vehicle Theft Prevention Act”, see section 220001 of Pub. L. 103–322, set out as a note under section 13701 of this title.
+For short title of this subchapter as the "Motor Vehicle Theft Prevention Act", see section 220001 of Pub. L. 103–322, set out as a note under section 13701 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a dash.</i>
 

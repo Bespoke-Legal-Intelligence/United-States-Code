@@ -54,7 +54,7 @@ Each such demand shall—
 
 (1) Any such demand may be served by any antitrust investigator, or by any United States marshal or deputy marshal, at any place within the territorial jurisdiction of any court of the United States.
 
-(2) any such demand or any petition filed under section 1314 of this title may be served upon any person who is not to be found within the territorial jurisdiction of any court of the United States, in such manner as the Federal Rules of Civil Procedure prescribe for service in a foreign country. To the extent that the courts of the United States can assert jurisdiction over such person consistent with due process, the United States District Court for the District of Columbia shall have the same jurisdiction to take any action respecting compliance with this chapter by such person that such court would have if such person were personally within the jurisdiction of such court.
+(2) any <sup>1</sup> such demand or any petition filed under section 1314 of this title may be served upon any person who is not to be found within the territorial jurisdiction of any court of the United States, in such manner as the Federal Rules of Civil Procedure prescribe for service in a foreign country. To the extent that the courts of the United States can assert jurisdiction over such person consistent with due process, the United States District Court for the District of Columbia shall have the same jurisdiction to take any action respecting compliance with this chapter by such person that such court would have if such person were personally within the jurisdiction of such court.
 
 #### (e) Service upon legal entities and natural persons
 
@@ -88,15 +88,15 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 
 (1) The examination of any person pursuant to a demand for oral testimony served under this section shall be taken before an officer authorized to administer oaths and affirmations by the laws of the United States or of the place where the examination is held. The officer before whom the testimony is to be taken shall put the witness on oath or affirmation and shall personally, or by someone acting under his direction and in his presence, record the testimony of the witness. The testimony shall be taken stenographically and transcribed. When the testimony is fully transcribed, the officer before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
 
-(2) The antitrust investigator or investigators conducting the examination shall exclude from the place where the examination is held all other persons except the person being examined, his counsel, the officer before whom the testimony is to be taken, and any stenographer taking such testimony. The provisions of section 30 <sup>1</sup> of this title shall not apply to such examinations.
+(2) The antitrust investigator or investigators conducting the examination shall exclude from the place where the examination is held all other persons except the person being examined, his counsel, the officer before whom the testimony is to be taken, and any stenographer taking such testimony. The provisions of section 30 <sup>2</sup> of this title shall not apply to such examinations.
 
-(3) The oral testimony of any person taken pursuant to a demand served under this section shall be taken in the judicial district of theUnited States within which such person resides, is found, or transacts business, or in such other place as may be agreed upon by the antitrust investigator conducting the examination and such person.
+(3) The oral testimony of any person taken pursuant to a demand served under this section shall be taken in the judicial district of the United States within which such person resides, is found, or transacts business, or in such other place as may be agreed upon by the antitrust investigator conducting the examination and such person.
 
 (4) When the testimony is fully transcribed, the antitrust investigator or the officer shall afford the witness (who may be accompanied by counsel) a reasonable opportunity to examine the transcript; and the transcript shall be read to or by the witness, unless such examination and reading are waived by the witness. Any changes in form or substance which the witness desires to make shall be entered and identified upon the transcript by the officer or the antitrust investigator with a statement of the reasons given by the witness for making such changes. The transcript shall then be signed by the witness, unless the witness in writing waives the signing, is ill, cannot be found, or refuses to sign. If the transcript is not signed by the witness within thirty days of his being afforded a reasonable opportunity to examine it, the officer or the antitrust investigator shall sign it and state on the record the fact of the waiver, illness, absence of the witness, or the refusal to sign, together with the reason, if any, given therefor.
 
 (5) The officer shall certify on the transcript that the witness was duly sworn by him and that the transcript is a true record of the testimony given by the witness, and the officer or antitrust investigator shall promptly deliver it or send it by registered or certified mail to the custodian.
 
-(6) Upon payment of reasonable charges therefor, the antitrust investigator shall furnish a copy of the transcript to the witness only, except that the Assistant Attorney General in charge of the Antitrust Division may for good cause limit such witness to inspection of the official transcript of his testimony.
+(6) Upon payment of reasonable charges therefor, the antitrust investigator shall furnish acopy of the transcript to the witness only, except that the Assistant Attorney General in charge of the Antitrust Division may for good cause limit such witness to inspection of the official transcript of his testimony.
 
 (7)(A) Any person compelled to appear under a demand for oral testimony pursuant to this section may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, either upon the request of such person or upon counsel's own initiative, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may properly be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person shall not otherwise object to or refuse to answer any question, and shall not by himself or through counsel otherwise interrupt the oral examination. If such person refuses to answer any question, the antitrust investigator conducting the examination may petition the district court of the United States pursuant to section 1314 of this title for an order compelling such person to answer such question.
 
@@ -110,13 +110,13 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 
 The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (a), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-This chapter, referred to in subsecs. (c)(1)(B), (2) and (d), was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
+This chapter, referred to in subsecs. (c)(1)(B), (2) and (d), was in the original "this Act", meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
 
 Section 30 of this title, referred to in subsec. (i)(2), was repealed by Pub. L. 107–273, div. C, title IV, §14102(f), Nov. 2, 2002, 116 Stat. 1922.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–438 inserted “or, with respect to the International Antitrust Enforcement Assistance Act of 1994, an investigation authorized by section 3 of such Act” after “investigation” and “by the United States” after “proceeding”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–438 inserted "or, with respect to the International Antitrust Enforcement Assistance Act of 1994, an investigation authorized by section 3 of such Act" after "investigation" and "by the United States" after "proceeding".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–349, §2(b)(1), inserted provision for service and notice of a civil investigative demand for any product of discovery.
 
@@ -124,7 +124,7 @@ Subsec. (b). Pub. L. 96–349, §2(b)(2), inserted provision respecting time dem
 
 Subsec. (c). Pub. L. 96–349, §2(b)(3), designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), and added par. (2).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–435 struck out “under investigation” before “may be in possession”, inserted “or may have any information” after “any documentary material”, and inserted provision requiring the production of documentary material for inspection or reproduction, answers in writing to written interrogatories, the giving of oral testimony concerning documentary material or information, and the furnishing of any combination of such material, answers, or testimony.
+<b>1976</b>—Subsec. (a). Pub. L. 94–435 struck out "under investigation" before "may be in possession", inserted "or may have any information" after "any documentary material", and inserted provision requiring the production of documentary material for inspection or reproduction, answers in writing to written interrogatories, the giving of oral testimony concerning documentary material or information, and the furnishing of any combination of such material, answers, or testimony.
 
 Subsec. (b). Pub. L. 94–435 restructured subsec. (b) and as so restructured, in par. (1) inserted provisions of cl. (B), in par. (2), added cls. (B) and (C), in par. (3) substituted provisions relating to written interrogatories for provisions relating to prescription of a return date for demanded material, and in par. (4), substituted provisions relating to oral testimony for provisions requiring a demand to identify the custodian to whom demanded material shall be made available.
 
@@ -132,7 +132,7 @@ Subsec. (c). Pub. L. 94–435 inserted provision relating to the submission of a
 
 Subsec. (d). Pub. L. 94–435 redesignated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 94–435 redesignated existing provisions as par. (1), inserted “return receipt requested” after “certified mail” in par. (C), and added par. (2).
+Subsec. (e). Pub. L. 94–435 redesignated existing provisions as par. (1), inserted "return receipt requested" after "certified mail" in par. (C), and added par. (2).
 
 Subsecs. (g) to (i). Pub. L. 94–435 added subsecs. (g) to (i).
 
@@ -140,5 +140,7 @@ Subsecs. (g) to (i). Pub. L. 94–435 added subsecs. (g) to (i).
 
 Amendment by Pub. L. 94–435 effective Sept. 30, 1976, except subsec. (i)(8) of this section effective Oct. 1, 1976, see section 106 of Pub. L. 94–435, set out as a note under section 1311 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established as an independent authority within the NTIA the “First Responder Network Authority” or “FirstNet”.
+There is established as an independent authority within the NTIA the "First Responder Network Authority" or "FirstNet".
 
 #### (b) Board
 
@@ -130,7 +130,7 @@ There is established as an independent authority within the NTIA the “First Re
 
 #### (2) Transparency
 
-&emsp;Meetings of the Board, including any committee of the Board, shall be open to the public. The Board may, by majority vote, close any such meeting only for the time necessary to preserve the confidentiality of commercial or financial information that is privileged or confidential, to discuss personnel matters, or to discuss legal matters affecting the First Responder Network Authority, including pending or potential litigation.
+&emsp;Meetings of the Board, including any committee of the Board, shall be open to the public. The Board may, by majority vote, close any such meeting only for the time necessary to preserve the confidentiality of commercial or financial information that is privileged orconfidential, to discuss personnel matters, or to discuss legal matters affecting the First Responder Network Authority, including pending or potential litigation.
 
 #### (f) Quorum
 

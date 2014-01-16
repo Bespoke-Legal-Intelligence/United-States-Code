@@ -18,7 +18,7 @@
 
 &emsp;(B) because of a personal emergency situation (such as serious illness, injury, or death of a member of the employee's family, or an emergency situation such as fire, flood, or act of God), may be allowed, with the approval of an appropriate official of the agency concerned, reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and payments pursuant to subsection (a) of this section until that location is reached.
 
-(2)(A) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and who, with the approval of an appropriate official of the agency concerned, interrupts the travel assignment prior to its completion for a reason specified in subparagraph (A) or (B) of paragraph (1) of this subsection, may be allowed (subject tothe limitation provided in subparagraph (B) of this paragraph)—
+(2)(A) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and who, with the approval of an appropriate official of the agency concerned, interrupts the travel assignment prior to its completion for a reason specified in subparagraph (A) or (B) of paragraph (1) of this subsection, may be allowed (subject to the limitation provided in subparagraph (B) of this paragraph)—
 
 &emsp;(i) reimbursement for expenses of transportation to the location where necessary medical services are provided or the emergency situation exists,
 

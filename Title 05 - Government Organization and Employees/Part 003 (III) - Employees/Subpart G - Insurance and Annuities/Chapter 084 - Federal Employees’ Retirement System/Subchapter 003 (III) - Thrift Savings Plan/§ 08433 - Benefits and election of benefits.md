@@ -112,7 +112,7 @@ Subsec. (f)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(
 
 Subsec. (g)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(5)(A)\]\], struck out “after December 31, 1987, and” after “At any time”, and inserted at end “Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance.”
 
-Subsec. (g)(2) to (5). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(5)(B)\]\], redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2)which read as follows: “An application under this subsection may be approved only for—
+Subsec. (g)(2) to (5). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(5)(B)\]\], redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “An application under this subsection may be approved only for—
 
 &emsp;“(A) the purchase of a primary residence;
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless pos
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under suchamendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendments
 
@@ -206,7 +206,7 @@ Amendment by section 6(a)(2) of Pub. L. 101–335 effective as of second electio
 
 #### Regulations
 
-Pub. L. 101–335, §6(b)(4), July 17, 1990, 104 Stat. 324, provided that: “The Executive Director (as appointed under section 8474(a) of title 5, United States Code) shall prescribe regulations under which the purposes of the amendments made by this section \[amending this section and sections 8351, 8401, 8435, 8440a, and 8440b of this title\] shall be carried out with respect to any individuals participating in the Thrift Savings Plan who would not otherwise be affected by this section.”
+Pub. L. 101–335, §6(b)(4), July 17, 1990, 104 Stat. 324, provided that: “The Executive Director (as appointed under section 8474(a) of title 5, United States Code)shall prescribe regulations under which the purposes of the amendments made by this section \[amending this section and sections 8351, 8401, 8435, 8440a, and 8440b of this title\] shall be carried out with respect to any individuals participating in the Thrift Savings Plan who would not otherwise be affected by this section.”
 
 #### Invalidity of Certain Prior Elections
 

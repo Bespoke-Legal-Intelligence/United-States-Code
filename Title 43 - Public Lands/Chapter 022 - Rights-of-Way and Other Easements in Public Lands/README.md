@@ -17,7 +17,7 @@
 | [940\.](%C2%A7%2000940%20-%20Forfeiture%20of%20rights%20where%20railroad%20not%20constructed%20in%20five%20years%20after%20location.md) | Forfeiture of rights where railroad not constructed in five years after location. |
 | [941\.](%C2%A7%2000941%20-%20Railroad%20stations%20on%20rights%20of%20way%20granted.md) | Railroad stations on rights of way granted. |
 | [942\.](%C2%A7%2000942%20-%20Omitted.md) | Omitted. |
-| 942–1. | Rights of way in Alaska; railroad rights of way; reservations; water transportation connections; State title to submerged lands; Federal repossession as trustee; “navigable waters” defined; posting schedules of rates; changes in rates. |
+| 942–1. | Rights of way in Alaska; railroad rights of way; reservations; water transportation connections; State title to submerged lands; Federal repossession as trustee; "navigable waters" defined; posting schedules of rates; changes in rates. |
 | 942–2. | Rights of several roads through canyons. |
 | 942–3. | Condemnation of land. |
 | 942–4. | Filing preliminary survey, map and profile of road. |

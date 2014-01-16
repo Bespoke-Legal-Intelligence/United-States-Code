@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Covered judicial or administrative action
 
-&emsp;The term “covered judicial or administrative action” means any judicial or administrative action brought by the Commission under this chapter that results in monetary sanctions exceeding $1,000,000.
+&emsp;The term "covered judicial or administrative action" means any judicial or administrative action brought by the Commission under this chapter that results in monetary sanctions exceeding $1,000,000.
 
 #### (2) Fund
 
-&emsp;The term “Fund” means the Commodity Futures Trading Commission Customer Protection Fund established under subsection (g).
+&emsp;The term "Fund" means the Commodity Futures Trading Commission Customer Protection Fund established under subsection (g).
 
 #### (3) Monetary sanctions
 
-&emsp;The term “monetary sanctions”, when used with respect to any judicial or administrative action means—
+&emsp;The term "monetary sanctions", when used with respect to any judicial or administrative action means—
 
 &emsp;&emsp;(A) any monies, including penalties, disgorgement, restitution, and interest ordered to be paid; and
 
@@ -22,7 +22,7 @@ In this section:
 
 #### (4) Original information
 
-&emsp;The term “original information” means information that—
+&emsp;The term "original information" means information that—
 
 &emsp;&emsp;(A) is derived from the independent knowledge or analysis of a whistleblower;
 
@@ -32,15 +32,15 @@ In this section:
 
 #### (5) Related action
 
-&emsp;The term “related action”, when used with respect to any judicial or administrative action brought by the Commission under this chapter, means any judicial or administrative action brought by an entity described in subclauses (I) through (VI) of subsection (h)(2)(C) that is based upon the original information provided by a whistleblower pursuant to subsection (a) that led to the successful enforcement of the Commission action.
+&emsp;The term "related action", when used with respect to any judicial or administrative action brought by the Commission under this chapter, means any judicial or administrative action brought by an entity described in subclauses (I) through (VI) of subsection (h)(2)(C) that is based upon the original information provided by a whistleblower pursuant to subsection (a) that led to the successful enforcement of the Commission action.
 
 #### (6) Successful resolution
 
-&emsp;The term “successful resolution”, when used with respect to any judicial or administrative action brought by the Commission under this chapter, includes any settlement of such action.
+&emsp;The term "successful resolution", when used with respect to any judicial or administrative action brought by the Commission under this chapter, includes any settlement of such action.
 
 #### (7) Whistleblower
 
-&emsp;The term “whistleblower” means any individual, or 2 or more individuals acting jointly, who provides information relating to a violation of this chapter to the Commission, in a manner established by rule or regulation by the Commission.
+&emsp;The term "whistleblower" means any individual, or 2 or more individuals acting jointly, who provides information relating to a violation of this chapter to the Commission, in a manner established by rule or regulation by the Commission.
 
 #### (b) Awards
 
@@ -142,7 +142,7 @@ No contract with the Commission is necessary for any whistleblower to receive an
 
 #### (1) Establishment
 
-&emsp;There is established in the Treasury of the United States a revolving fund to be known as the “Commodity Futures Trading Commission Customer Protection Fund”.
+&emsp;There is established in the Treasury of the United States a revolving fund to be known as the "Commodity Futures Trading Commission Customer Protection Fund".
 
 #### (2) Use of Fund
 
@@ -336,7 +336,7 @@ A prior section 26, act Sept. 21, 1922, ch. 369, §23, as added Jan. 11, 1983, P
 
 Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section 706”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "section 706".</i>
 

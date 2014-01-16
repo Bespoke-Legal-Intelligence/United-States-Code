@@ -22,7 +22,7 @@ Guidelines.—The Secretary, in consultation with the Administrator of the Envir
 
 (f)
 
-Eligible Equipment Defined.—In this section, the term “eligible equipment” means ground service or maintenance equipment that is located at the airport, is used to support aeronautical and related activities at the airport, and will remain in operation at the airport for the life or useful life of the equipment, whichever is earlier.
+Eligible Equipment Defined.—In this section, the term "eligible equipment" means ground service or maintenance equipment that is located at the airport, is used to support aeronautical and related activities at the airport, and will remain in operation at the airport for the life or useful life of the equipment, whichever is earlier.
 
 (Added Pub. L. 108–176, title I, §159(a)(1), Dec. 12, 2003, 117 Stat. 2509.)
 

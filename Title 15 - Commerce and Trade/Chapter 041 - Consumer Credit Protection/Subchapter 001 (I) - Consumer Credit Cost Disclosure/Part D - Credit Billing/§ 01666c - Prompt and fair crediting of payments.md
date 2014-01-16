@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Payments received from an obligor under an open end consumer credit plan by the creditor shall be posted promptly to the obligor's account as specified in regulations of the Bureau. Such regulations shall prevent a finance charge from being imposed on any obligor if the creditor has received the obligor's payment in readily identifiable form, by 5:00 p.m. on the date on which such payment is due, in the amount, manner, and location indicated by the creditor to avoid the imposition thereof.
+Payments received from an obligor under an open end consumer credit plan by the creditor shall be posted promptly to the obligor's account as specified in regulations of the Bureau. Such regulations shall prevent a finance chargefrom being imposed on any obligor if the creditor has received the obligor's payment in readily identifiable form, by 5:00 p.m. on the date on which such payment is due, in the amount, manner, and location indicated by the creditor to avoid the imposition thereof.
 
 #### (b) Application of payments
 
@@ -22,15 +22,15 @@ If a card issuer makes a material change in the mailing address, office, or proc
 
 #### Codification
 
-Pub L. 111–203, §1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of Pub. L. 90–321, was executed to this section, which is section 164 of title I of Pub. L. 90–321. Section 1087 of Pub. L. 111–203, which directed the making of an identical amendment in title III of Pub. L. 93–495, which added this section to title I of Pub. L. 90–321, has not been executed.
+Pub L. 111–203, §1100A(2), which directed the substitution of "Bureau" for "Board" wherever appearing in title I of Pub. L. 90–321, was executed to this section, which is section 164 of title I of Pub. L. 90–321. Section 1087 of Pub. L. 111–203, which directed the making of an identical amendment in title III of Pub. L. 93–495, which added this section to title I of Pub. L. 90–321, has not been executed.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board”. See Codification note above.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board". See Codification note above.
 
-<b>2009</b>—Pub. L. 111–24, §104(1), substituted “Prompt and fair crediting of payments” for “Prompt crediting of payments” in section catchline, designated existing provisions as subsec. (a), and inserted subsec. (a) heading.
+<b>2009</b>—Pub. L. 111–24, §104(1), substituted "Prompt and fair crediting of payments" for "Prompt crediting of payments" in section catchline, designated existing provisions as subsec. (a), and inserted subsec. (a) heading.
 
-Subsec. (a). Pub. L. 111–24, §104(2), (3), inserted “, by 5:00 p.m. on the date on which such payment is due,” after “in readily identifiable form” and substituted “manner, and location” for “manner, location, and time”.
+Subsec. (a). Pub. L. 111–24, §104(2), (3), inserted ", by 5:00 p.m. on the date on which such payment is due," after "in readily identifiable form" and substituted "manner, and location" for "manner, location, and time".
 
 Subsecs. (b), (c). Pub. L. 111–24, §104(4), added subsecs. (b) and (c).
 

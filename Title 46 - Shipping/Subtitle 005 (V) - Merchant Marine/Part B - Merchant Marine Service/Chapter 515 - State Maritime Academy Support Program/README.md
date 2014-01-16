@@ -18,7 +18,7 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3523(a)(1), Jan. 28, 2008, 122 Stat. 598, substituted “Navy Reserve” for “Naval Reserve” in item 51511.
+<b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3523(a)(1), Jan. 28, 2008, 122 Stat. 598, substituted "Navy Reserve" for "Naval Reserve" in item 51511.
 
 
 ---

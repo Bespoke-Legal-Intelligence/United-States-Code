@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Golden Gate National Recreation Area Advisory Commission (hereinafter referred to as the “Commission”).
+There is hereby established the Golden Gate National Recreation Area Advisory Commission (hereinafter referred to as the "Commission").
 
 #### (b) Membership; appointment; term of office
 
@@ -32,15 +32,15 @@ The Commission shall cease to exist thirty years after October 27, 1972.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (g). Pub. L. 102–525 substituted “thirty” for “twenty”.
+<b>1992</b>—Subsec. (g). Pub. L. 102–525 substituted "thirty" for "twenty".
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–607, §1001(6), substituted “eighteen” for “seventeen”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–607, §1001(6), substituted "eighteen" for "seventeen".
 
-Pub. L. 96–344, §4(2), substituted “five” for “three” and inserted proviso that the terms of members appointed or reappointed subsequent to Jan. 1, 1979, be extended so as not to expire before June 1, 1985.
+Pub. L. 96–344, §4(2), substituted "five" for "three" and inserted proviso that the terms of members appointed or reappointed subsequent to Jan. 1, 1979, be extended so as not to expire before June 1, 1985.
 
-Subsec. (e). Pub. L. 96–607, §1001(7), substituted “Marin, San Mateo,” for “Marin”.
+Subsec. (e). Pub. L. 96–607, §1001(7), substituted "Marin, San Mateo," for "Marin".
 
-Subsec. (g). Pub. L. 96–344, §4(3), substituted “twenty” for “ten”.
+Subsec. (g). Pub. L. 96–344, §4(3), substituted "twenty" for "ten".
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–625 increased Commission membership from fifteen to seventeen.
 

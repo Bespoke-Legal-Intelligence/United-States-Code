@@ -22,7 +22,7 @@ Subsection (a)(2) of this section does not apply to—
 
 &emsp;(1) any amount actually disbursed before October 21, 1986, to any person or class of persons pursuant to section 155 of Public Law 97–377 or any final judicial or administrative order or judgment (including any settlement agreement or declaratory judgment);
 
-&emsp;(2) any amount to which any person or class of persons has an enforceable right, created or vested, or governed by the terms and conditions of the settlement approved on July 7, 1986, in In Re: the Department of Energy Stripper Well Exemption Litigation, M.D.L. No. 378, in the United States District Court for the District of Kansas; and
+&emsp;(2) any amount to which any person or class of persons has an enforceable right, created orvested, or governed by the terms and conditions of the settlement approved on July 7, 1986, in In Re: the Department of Energy Stripper Well Exemption Litigation, M.D.L. No. 378, in the United States District Court for the District of Kansas; and
 
 &emsp;(3) any amount designated by judicial or administrative order or judgment (including any settlement agreement or declaratory judgment) for disbursement at any time to any specific person or class of persons—
 
@@ -50,5 +50,5 @@ Section 155 of Public Law 97–377, referred to in subsec. (c)(1), is section 15
 
 #### Short Title
 
-Pub. L. 99–509, title III, §3001, Oct. 21, 1986, 100 Stat. 1881, provided that: “This subtitle \[subtitle A (§§3001–3008) of title III of Pub. L. 99–509, enacting this chapter\] may be cited as the ‘Petroleum Overcharge Distribution and Restitution Act of 1986’.”
+Pub. L. 99–509, title III, §3001, Oct. 21, 1986, 100 Stat. 1881, provided that: "This subtitle \[subtitle A (§§3001–3008) of title III of Pub. L. 99–509, enacting this chapter\] may be cited as the 'Petroleum Overcharge Distribution and Restitution Act of 1986'."
 

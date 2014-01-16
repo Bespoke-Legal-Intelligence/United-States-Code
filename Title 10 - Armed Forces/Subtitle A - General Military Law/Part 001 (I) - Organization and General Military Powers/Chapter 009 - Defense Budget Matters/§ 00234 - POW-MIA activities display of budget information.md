@@ -20,7 +20,7 @@ Requirements for Budget Display.—The budget display under subsection (a) for a
 
 (c)
 
-Department of Defense POW/MIA Accounting and Recovery Organizations.—In this section, the term “Department of Defense POW/MIA accounting and recovery organization” means any of the following (and any successor organization):
+Department of Defense POW/MIA Accounting and Recovery Organizations.—In this section, the term "Department of Defense POW/MIA accounting and recovery organization" means any of the following (and any successor organization):
 
 &emsp;(1) The Defense Prisoner of War/Missing Personnel Office (DPMO).
 
@@ -36,9 +36,9 @@ Department of Defense POW/MIA Accounting and Recovery Organizations.—In this s
 
 Other Definitions.—In this section:
 
-&emsp;(1) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
+&emsp;(1) The term "defense budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-&emsp;(2) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
+&emsp;(2) The term "budget", with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
 
 (Added Pub. L. 109–364, div. A, title V, §563(a), Oct. 17, 2006, 120 Stat. 2221.)
 

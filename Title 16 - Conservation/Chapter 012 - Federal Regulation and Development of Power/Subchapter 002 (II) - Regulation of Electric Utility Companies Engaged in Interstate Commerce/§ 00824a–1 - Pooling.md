@@ -26,7 +26,7 @@ The Commission may, on its own motion, and shall, on application of any person o
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(2), means Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the “Public Utility Regulatory Policies Act of 1978”. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+This Act, referred to in subsec. (b)(2), means Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the "Public Utility Regulatory Policies Act of 1978". For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 The Federal Power Act, referred to in subsec. (b)(2), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 

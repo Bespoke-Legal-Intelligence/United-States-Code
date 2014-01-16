@@ -6,7 +6,7 @@ Any person who fails to comply with the requirements of section 4374 (relating t
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 substituted “liability for tax on policies issued by foreign insurers” for “the affixing of stamps on insurance policies, etc.”.
+<b>1976</b>—Pub. L. 94–455 substituted "liability for tax on policies issued by foreign insurers" for "the affixing of stamps on insurance policies, etc.".
 
 #### Effective Date of 1976 Amendment
 

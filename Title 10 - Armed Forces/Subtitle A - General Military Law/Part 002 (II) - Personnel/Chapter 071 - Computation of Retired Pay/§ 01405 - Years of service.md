@@ -24,7 +24,7 @@ Exclusion of Time Required To Be Made Up or Excluded.—(1) Time required to be 
 
 (2) Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this section any time identified with respect to that officer under that section.
 
-(Added Pub. L. 85–422, §11(a)(1)(A), May 20, 1958, 72 Stat. 130; amended Pub. L. 85–861, §1(31A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–649, §6(f)(4), Sept. 7, 1962, 76 Stat. 494; Pub. L. 87–651, title I, §109, Sept. 7, 1962, 76 Stat. 509; Pub. L. 90–130, §1(7), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title I, §113(b), Dec. 12, 1980, 94 Stat. 2877; Pub. L. 97–295, §1(17), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 99–348, title I, §106, July 1, 1986, 100 Stat. 691; Pub. L. 103–337, div. A, title VI, §635(d), title XVI, §1662(j)(3), Oct. 5, 1994, 108 Stat. 2789, 3004; Pub. L. 104–106, div. A, title V, §561(d)(1), Feb. 10, 1996, 110 Stat. 322; Pub. L. 104–201, div. A, title X, §1074(b)(1), Sept. 23, 1996, 110 Stat. 2660; Pub. L.107–107, div. A, title X, §1048(c)(7), Dec. 28, 2001, 115 Stat. 1226.)
+(Added Pub. L. 85–422, §11(a)(1)(A), May 20, 1958, 72 Stat. 130; amended Pub. L. 85–861, §1(31A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–649, §6(f)(4), Sept. 7, 1962, 76 Stat. 494; Pub. L. 87–651, title I, §109, Sept. 7, 1962, 76 Stat. 509; Pub. L. 90–130, §1(7), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title I, §113(b), Dec. 12, 1980, 94 Stat. 2877; Pub. L. 97–295, §1(17), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 99–348, title I, §106, July 1, 1986, 100 Stat. 691; Pub. L. 103–337, div. A, title VI, §635(d), title XVI, §1662(j)(3), Oct. 5, 1994, 108 Stat. 2789, 3004; Pub. L. 104–106, div. A, title V, §561(d)(1), Feb. 10, 1996, 110 Stat. 322; Pub. L. 104–201, div. A, title X, §1074(b)(1), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 107–107, div. A, title X, §1048(c)(7), Dec. 28, 2001, 115 Stat. 1226.)
 
 Historical and Revision Notes<br>1958
 
@@ -54,17 +54,17 @@ This amends 10:1405 to correct an inadvertent error in the codification of title
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c)(1). Pub. L. 107–107 substituted “October 5, 1994,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995,”.
+<b>2001</b>—Subsec. (c)(1). Pub. L. 107–107 substituted "October 5, 1994," for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995,".
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–106, as amended by Pub. L. 104–201, substituted “Made Up or Excluded” for “Made Up” in heading, designated existing provisions as par. (1), substituted “section 972(a) of this title, or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995,” for “section 972 of this title”, and added par. (2).
+<b>1996</b>—Subsec. (c). Pub. L. 104–106, as amended by Pub. L. 104–201, substituted "Made Up or Excluded" for "Made Up" in heading, designated existing provisions as par. (1), substituted "section 972(a) of this title, or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995," for "section 972 of this title", and added par. (2).
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–337, §1662(j)(3), substituted “12733” for “1333” and “12731” for “1331”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–337, §1662(j)(3), substituted "12733" for "1333" and "12731" for "1331".
 
 Subsec. (c). Pub. L. 103–337, §635(d), added subsec. (c).
 
-<b>1986</b>—Pub. L. 99–348 designated existing provision as subsec. (a), inserted heading, and in provision preceding par. (1) substituted “the computation of the years of service of a member of the armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member” for “section 1401 (formulas 4 and 5), 3991 (formula A), 3992 (formula B), 6151(b), 6323(e), 6325(a)(2) and (b)(2), 6383(c)(2), 8991 (formula A), or 8992 (formula B) of this title, the years of service of a member of the armed forces”, and added subsec. (b).
+<b>1986</b>—Pub. L. 99–348 designated existing provision as subsec. (a), inserted heading, and in provision preceding par. (1) substituted "the computation of the years of service of a member of the armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member" for "section 1401 (formulas 4 and 5), 3991 (formula A), 3992 (formula B), 6151(b), 6323(e), 6325(a)(2) and (b)(2), 6383(c)(2), 8991 (formula A), or 8992 (formula B) of this title, the years of service of a member of the armed forces", and added subsec. (b).
 
-<b>1982</b>—Pub. L. 97–295, §1(17), substituted “3991 (formula A), 3992 (formula B)” for “3991 (formula B)”, struck out “or” first time appearing, and substituted “8991 (formula A), or 8992 (formula B)” for “8991 (formula B)”.
+<b>1982</b>—Pub. L. 97–295, §1(17), substituted "3991 (formula A), 3992 (formula B)" for "3991 (formula B)", struck out "or" first time appearing, and substituted "8991 (formula A), or 8992 (formula B)" for "8991 (formula B)".
 
 <b>1980</b>—Pub. L. 96–513 struck out provisions that permitted the crediting of certain periods of constructive service in computing the retired pay of medical and dental officers and provided that members would compute their years of service for retirement pay by adding (1) years of active service, (2) years of service not otherwise counted with which the member was entitled to be credited on May 31, 1958, and (3) years of service not otherwise counted with which he would be credited under section 1333 if he were entitled to retired pay under section 1331.
 
@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 103–337, §635(d), added subsec. (c).
 
 <b>1962</b>—Pub. L. 87–651 struck out references to sections 6391(h) and 6394(g)(2) of this title and inserted a reference to section 6394(h) of this title.
 
-Pub. L. 87–649 substituted “section 205(a)(7) and (8) of title 37” for “section 233(a)(7) of title 37” in cl. (2).
+Pub. L. 87–649 substituted "section 205(a)(7) and (8) of title 37" for "section 233(a)(7) of title 37" in cl. (2).
 
 <b>1958</b>—Pub. L. 85–861 inserted references to sections 6323(e) and 6391(h) of this title.
 
@@ -82,13 +82,13 @@ Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any pe
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–337, div. A, title VI, §635(e), Oct. 5, 1994, 108 Stat. 2789, provided that: “This section \[amending this section and sections 3925, 3991, 3992, 6333, 8925, 8991, and 8992 of this title\] shall apply to—
+Pub. L. 103–337, div. A, title VI, §635(e), Oct. 5, 1994, 108 Stat. 2789, provided that: "This section \[amending this section and sections 3925, 3991, 3992, 6333, 8925, 8991, and 8992 of this title\] shall apply to—
 
-&emsp;“(1) the computation of the retired pay of any enlisted member who retires on or after the date of the enactment of this Act \[Oct. 5, 1994\];
+&emsp;"(1) the computation of the retired pay of any enlisted member who retires on or after the date of the enactment of this Act \[Oct. 5, 1994\];
 
-&emsp;“(2) the computation of the retainer pay of any enlisted member who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve on or after the date of the enactment of this Act; and
+&emsp;"(2) the computation of the retainer pay of any enlisted member who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve on or after the date of the enactment of this Act; and
 
-&emsp;“(3) the recomputation of the retired pay of any enlisted member who is advanced on the retired list on or after the date of the enactment of this Act.”
+&emsp;"(3) the recomputation of the retired pay of any enlisted member who is advanced on the retired list on or after the date of the enactment of this Act."
 
 Amendment by section 1662(j)(3) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 

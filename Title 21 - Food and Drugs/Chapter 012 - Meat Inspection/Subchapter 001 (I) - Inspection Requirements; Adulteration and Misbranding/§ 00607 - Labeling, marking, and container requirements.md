@@ -2,7 +2,7 @@
 
 #### (a) Labeling receptacles or coverings of meat or meat food products inspected and passed; supervision by inspectors
 
-When any meat or meat food product prepared for commerce which has been inspected as hereinbefore provided and marked “Inspected and passed” shall be placed or packed in any can, pot, tin, canvas, or other receptacle or covering in any establishment where inspection under the provisions of this chapter is maintained, the person, firm, or corporation preparing said product shall cause a label to be attached to said can, pot, tin, canvas, or other receptacle or covering, under the supervision of an inspector, which label shall state that the contents thereof have been “inspected and passed” under the provisions of this chapter; and no inspection and examination of meat or meat food products deposited or inclosed in cans, tins, pots, canvas, or other receptacle or covering in any establishment where inspection under the provisions of this chapter is maintained shall be deemed to be complete until such meat or meat food products have been sealed or inclosed in said can, tin, pot, canvas, or other receptacle or covering under the supervision of an inspector.
+When any meat or meat food product prepared for commerce which has been inspected as hereinbefore provided and marked "Inspected and passed" shall be placed or packed in any can, pot, tin, canvas, or other receptacle or covering in any establishment where inspection under the provisions of this chapter is maintained, the person, firm, or corporation preparing said product shall cause a label to be attached to said can, pot, tin, canvas, or other receptacle or covering, under the supervision of an inspector, which label shall state that the contents thereof have been "inspected and passed" under the provisions of this chapter; and no inspection and examination of meat or meat food products deposited or inclosed in cans, tins, pots, canvas, or other receptacle or covering in any establishment where inspection under the provisions of this chapter is maintained shall be deemed to be complete until such meat or meat food products have been sealed or inclosed in said can, tin, pot, canvas, or other receptacle or covering under the supervision of an inspector.
 
 #### (b) Information on articles or containers; legible form
 
@@ -30,7 +30,7 @@ The Secretary, consistent with United States international obligations, shall es
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
-Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and theFederal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, and amended, which are classified generally to subchapters I to IV (§601 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note under section 601 of this title and Tables.
+Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and the Federal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, and amended, which are classified generally to subchapters I to IV (§601 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note under section 601 of this title and Tables.
 
 #### Codification
 
@@ -40,13 +40,13 @@ Section was formerly classified to section 75 of this title.
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–127 added subsec. (f).
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–201, §§3(a), 6(a), (b), struck out “interstate or foreign” before “commerce” and provisions prohibiting sales of meat or meat food products in interstate or foreign commerce under any false or deceptive names and permitting trade names or names which are usual to such products and are not false and deceptive and are approved by the Secretary of Agriculture, now incorporated in subsec. (d), and designated remaining provisions as subsecs. (a), respectively.
+<b>1967</b>—Subsec. (a). Pub. L. 90–201, §§3(a), 6(a), (b), struck out "interstate or foreign" before "commerce" and provisions prohibiting sales of meat or meat food products in interstate or foreign commerce under any false or deceptive names and permitting trade names or names which are usual to such products and are not false and deceptive and are approved by the Secretary of Agriculture, now incorporated in subsec. (d), and designated remaining provisions as subsecs. (a), respectively.
 
 Subsecs. (b) to (e). Pub. L. 90–201, §6(c), added subsecs. (b) to (e).
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c)(2) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (c)(2) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1967 Amendment
 

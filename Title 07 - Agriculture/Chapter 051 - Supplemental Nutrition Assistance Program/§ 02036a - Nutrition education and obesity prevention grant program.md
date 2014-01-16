@@ -2,7 +2,7 @@
 
 #### (a) Definition of eligible individual
 
-In this section, the term “eligible individual” means an individual who is eligible to receive benefits under a nutrition education and obesity prevention program under this section as a result of being—
+In this section, the term "eligible individual" means an individual who is eligible to receive benefits under a nutrition education and obesity prevention program under this section as a result of being—
 
 &emsp;(1) an individual eligible for benefits under—
 
@@ -174,7 +174,7 @@ Not later than January 1, 2012, the Secretary shall publish in the Federal Regis
 
 #### Amendments
 
-Subsec. (d)(1)(B) to (F). Pub. L. 112–240 added subpars. (B) to (F) and struck out former subpar. (B) which read as follows: “for fiscal year 2012 and each subsequent fiscal year, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.”
+Subsec. (d)(1)(B) to (F). Pub. L. 112–240 added subpars. (B) to (F) and struck out former subpar. (B) which read as follows: "for fiscal year 2012 and each subsequent fiscal year, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor."
 
 #### Effective Date of 2013 Amendment
 

@@ -68,7 +68,7 @@ In accordance with guidelines established by the Federal Director and the Commer
 
 &emsp;&emsp;&emsp;(v) the demonstrated capacity of at least 1 university to replicate lessons learned among nearby or sister universities, preferably by participation in groups or consortia that promote sustainability;
 
-&emsp;&emsp;&emsp;(vi) the demonstrated capacity of at least 1 university to have officially-adopted, institution-wide “high-performance green building” guidelines for all campus building projects; and
+&emsp;&emsp;&emsp;(vi) the demonstrated capacity of at least 1 university to have officially-adopted, institution-wide "high-performance green building" guidelines for all campus building projects; and
 
 &emsp;&emsp;&emsp;(vii) the demonstrated capacity of at least 1 university to have been recognized by similar institutions as a national leader in sustainability education and curriculum for students of the university; and
 
@@ -110,5 +110,5 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d), is set out 
 
 <i><sup>2</sup></i><i> So in original. A comma probably should appear.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "subsection".</i>
 

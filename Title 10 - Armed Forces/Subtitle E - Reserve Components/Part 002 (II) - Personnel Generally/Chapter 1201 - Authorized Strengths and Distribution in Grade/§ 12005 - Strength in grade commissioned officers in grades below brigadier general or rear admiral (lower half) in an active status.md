@@ -28,7 +28,7 @@
 | Lieutenant | 37   percent&nbsp;&nbsp; |
 | Lieutenant (junior grade) and ensign (when combined with the number authorized for flag officer grades under section 12004 of this title) | 32\.5 percent. |
 
-(2) When the actual number of line officers in an active status in any grade is less than the number authorized by paragraph (1) for that grade, the difference may be applied to increase the number authorized by that paragraph for any lower grade or grades.
+(2) When the actual number of line officers in an active status in any grade is less than thenumber authorized by paragraph (1) for that grade, the difference may be applied to increase the number authorized by that paragraph for any lower grade or grades.
 
 (c)(1) The authorized strengths of the Marine Corps Reserve in officers in an active status in the grades of colonel, lieutenant colonel, major, and captain, and in the grades of first lieutenant and second lieutenant combined, are the following percentages of the total authorized number of those officers:
 
@@ -56,9 +56,9 @@ Provisions similar to those in this section were contained in sections 3219, 545
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in introductory provisions.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve" in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+Subsec. (d)(2). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
 <b>2004</b>—Subsec. (c)(1). Pub. L. 108–375 amended table generally, increasing percentages of authorized number of officers in grades other than colonel.
 

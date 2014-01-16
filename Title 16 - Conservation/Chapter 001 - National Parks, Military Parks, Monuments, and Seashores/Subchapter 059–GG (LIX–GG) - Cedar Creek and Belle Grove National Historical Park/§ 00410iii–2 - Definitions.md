@@ -4,19 +4,19 @@ In this subchapter:
 
 #### (1) Commission
 
-&emsp;The term “Commission” means the Cedar Creek and Belle Grove National Historical Park Advisory Commission established by section 410iii–7 of this title.
+&emsp;The term "Commission" means the Cedar Creek and Belle Grove National Historical Park Advisory Commission established by section 410iii–7 of this title.
 
 #### (2) Map
 
-&emsp;The term “Map” means the map entitled “Boundary Map Cedar Creek and Belle Grove National Historical Park”, numbered CEBE–80,001, and dated September 2002.
+&emsp;The term "Map" means the map entitled "Boundary Map Cedar Creek and Belle Grove National Historical Park", numbered CEBE–80,001, and dated September 2002.
 
 #### (3) Park
 
-&emsp;The term “Park” means the Cedar Creek and Belle Grove National Historical Park established under section 410iii–3 of this title and depicted on the Map.
+&emsp;The term "Park" means the Cedar Creek and Belle Grove National Historical Park established under section 410iii–3 of this title and depicted on the Map.
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 (Pub. L. 107–373, §4, Dec. 19, 2002, 116 Stat. 3105.)
 

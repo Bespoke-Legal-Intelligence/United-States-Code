@@ -28,5 +28,5 @@ A prior section 3 of Pub. L. 92–367 was renumbered section 4 and is classified
 
 #### Transfer of Functions
 
-“Federal Energy Regulatory Commission” substituted in text for “Federal Power Commission” on authority of Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
+"Federal Energy Regulatory Commission" substituted in text for "Federal Power Commission" on authority of Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
 

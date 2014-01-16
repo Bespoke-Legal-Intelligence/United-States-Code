@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 Nov. 14, 1988, Pub. L. 100–655, §110, 102 Stat. 3851.
 
-The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
+The word "records" is substituted for "books and records" for consistency in the revised title and with other titles of the United States Code. The words "Nothing in this section shall be construed to contravene any applicable State law" are omitted as unnecessary.
 

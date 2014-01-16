@@ -160,7 +160,7 @@ In carrying out this section, the Secretary, in consultation with the Secretary 
 
 <b>2007</b>—Subsec. (b)(4). Pub. L. 110–140, §231(1), added par. (4).
 
-Subsec. (c)(2) to (4). Pub. L. 110–140, §231(2), in par. (2), substituted “$377,000,000” for “$251,000,000”, in par. (3), substituted “$398,000,000” for “$274,000,000”, and added par. (4).
+Subsec. (c)(2) to (4). Pub. L. 110–140, §231(2), in par. (2), substituted "$377,000,000" for "$251,000,000", in par. (3), substituted "$398,000,000" for "$274,000,000", and added par. (4).
 
 #### Effective Date of 2007 Amendment
 

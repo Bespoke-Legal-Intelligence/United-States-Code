@@ -38,25 +38,25 @@ Section 351 of the Public Health Service Act, referred to in subsec. (b), is cla
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–148 inserted “, or section 351 of the Public Health Service Act” before period.
+<b>2010</b>—Subsec. (b). Pub. L. 111–148 inserted ", or section 351 of the Public Health Service Act" before period.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted “merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930),” for “Canadian merchandise,”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted "merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930)," for "Canadian merchandise,".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–449 temporarily substituted “1986,” for “1954 or” and inserted “or in any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of Canadian merchandise, as determined by the administering authority,” after “title 11,”. See Effective and Termination Dates of 1988 Amendment note below.
+<b>1988</b>—Subsec. (a). Pub. L. 100–449 temporarily substituted "1986," for "1954 or" and inserted "or in any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of Canadian merchandise, as determined by the administering authority," after "title 11,". See Effective and Termination Dates of 1988 Amendment note below.
 
-Subsec. (b). Pub. L. 100–670 inserted “or 512” after “505”.
+Subsec. (b). Pub. L. 100–670 inserted "or 512" after "505".
 
 <b>1984</b>—Pub. L. 98–417 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1978</b>—Pub. L. 95–598 inserted reference to proceedings under section 505 or 1146 of title 11.
 
-<b>1976</b>—Pub. L. 94–455 substituted “taxes other than actions brought under section 7428 of the Internal Revenue Code of 1954” for “taxes”.
+<b>1976</b>—Pub. L. 94–455 substituted "taxes other than actions brought under section 7428 of the Internal Revenue Code of 1954" for "taxes".
 
 <b>1958</b>—Pub. L. 85–508 struck out provisions which related to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
 <b>1954</b>—Act Aug. 28, 1954, extended provisions to Alaska.
 
-<b>1949</b>—Act May 24, 1949, corrected spelling of “or” in second sentence.
+<b>1949</b>—Act May 24, 1949, corrected spelling of "or" in second sentence.
 
 #### Effective Date of 1993 Amendment
 

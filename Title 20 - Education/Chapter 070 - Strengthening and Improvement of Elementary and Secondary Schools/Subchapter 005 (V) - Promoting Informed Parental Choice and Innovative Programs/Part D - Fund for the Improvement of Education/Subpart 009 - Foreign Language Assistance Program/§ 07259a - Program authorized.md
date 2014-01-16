@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to make grants, on a competitive basis, to State educational agencies or local educational agencies to pay the Federal share of the cost of innovative model programs providing for the establishment, improvement, or expansion of foreign language study for elementary school and secondary school students.
+&emsp;The Secretary is authorized to make grants, on a competitive basis, to State educationalagencies or local educational agencies to pay the Federal share of the cost of innovative model programs providing for the establishment, improvement, or expansion of foreign language study for elementary school and secondary school students.
 
 #### (2) Duration
 

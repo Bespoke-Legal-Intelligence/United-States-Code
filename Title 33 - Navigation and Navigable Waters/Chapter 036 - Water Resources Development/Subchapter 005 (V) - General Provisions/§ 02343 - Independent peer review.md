@@ -26,7 +26,7 @@
 
 #### (i) Agency request
 
-&emsp;&emsp;&emsp;A project study shall be considered by the Chief of Engineers for peer review under this section if the head of a Federal or State agency charged with reviewing the project study determines that the project is likely to have a significant adverse impact on environmental, cultural, or other resources under the jurisdiction of the agency after implementation of proposed mitigation plans and requests a peer review by an independent panel of experts.
+&emsp;&emsp;&emsp;A project study shall be considered by the Chief of Engineers for peer reviewunder this section if the head of a Federal or State agency charged with reviewing the project study determines that the project is likely to have a significant adverse impact on environmental, cultural, or other resources under the jurisdiction of the agency after implementation of proposed mitigation plans and requests a peer review by an independent panel of experts.
 
 #### (ii) Deadline for decision
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(iii) has minimal life safety risk; or
 
-&emsp;&emsp;(C) if the project study does not include an environmental impact statement and is a project study pursued under section 701s of this title, section 701g of this title, section 701r of this title, section 577(a) of this title,section 426g of this title, section 426i of this title, section 603a of this title, section 2309a of this title, or section 2330 of this title.
+&emsp;&emsp;(C) if the project study does not include an environmental impact statement and is a project study pursued under section 701s of this title, section 701g of this title, section 701r of this title, section 577(a) of this title, section 426g of this title, section 426i of this title, section 603a of this title, section 2309a of this title, or section 2330 of this title.
 
 #### (6) Determination of total cost
 
@@ -146,7 +146,7 @@ A panel of experts established for a peer review for a project study under this 
 
 #### (1) Consideration by the Chief of Engineers
 
-&emsp;After receiving a report on a project study from a panel of experts under this section andbefore entering a final record of decision for the project, the Chief of Engineers shall consider any recommendations contained in the report and prepare a written response for any recommendations adopted or not adopted.
+&emsp;After receiving a report on a project study from a panel of experts under this section and before entering a final record of decision for the project, the Chief of Engineers shall consider any recommendations contained in the report and prepare a written response for any recommendations adopted or not adopted.
 
 #### (2) Public availability and transmittal to Congress
 
@@ -182,7 +182,7 @@ This section shall apply to—
 
 #### (1) Initial report
 
-&emsp;Not later than 3 years after November 8, 2007, the Chief of Engineers shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of this section.
+&emsp;Not later than 3 years after November 8, 2007, the Chief of Engineers shall submit to theCommittee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of this section.
 
 #### (2) Additional report
 
@@ -202,7 +202,7 @@ In this section, the following definitions apply:
 
 #### (1) Project study
 
-&emsp;The term “project study” means—
+&emsp;The term "project study" means—
 
 &emsp;&emsp;(A) a feasibility study or reevaluation study for a water resources project, including the environmental impact statement prepared for the study; and
 
@@ -210,11 +210,11 @@ In this section, the following definitions apply:
 
 #### (2) Affected State
 
-&emsp;The term “affected State”, as used with respect to a water resources project, means a State all or a portion of which is within the drainage basin in which the project is or would be located and would be economically or environmentally affected as a consequence of the project.
+&emsp;The term "affected State", as used with respect to a water resources project, means a State all or a portion of which is within the drainage basin in which the project is or would be located and would be economically or environmentally affected as a consequence of the project.
 
 #### (3) Eligible organization
 
-&emsp;The term “eligible organization” means an organization that—
+&emsp;The term "eligible organization" means an organization that—
 
 &emsp;&emsp;(A) is described in section 501(c)(3), and exempt from Federal tax under section 501(a), of title 26;
 
@@ -228,7 +228,7 @@ In this section, the following definitions apply:
 
 #### (4) Total cost
 
-&emsp;The term “total cost”, as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodic nourishment over the life of the project, the term includes the total cost of the nourishment.
+&emsp;The term "total cost", as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodic nourishment over the life of the project, the term includes the total cost of the nourishment.
 
 (Pub. L. 110–114, title II, §2034, Nov. 8, 2007, 121 Stat. 1086.)
 
@@ -240,5 +240,5 @@ The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 

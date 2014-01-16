@@ -10,9 +10,9 @@ Act of June 18, 1934, referred to in text, popularly known as the Indian Reorgan
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” wherever appearing.
+<b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court" wherever appearing.
 
-<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims” wherever appearing.
+<b>1982</b>—Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims" wherever appearing.
 
 #### Effective Date of 1992 Amendment
 

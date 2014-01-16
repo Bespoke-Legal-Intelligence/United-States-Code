@@ -42,7 +42,7 @@ Sept. 23, 1996, Pub. L. 104–201, title XVIII, §§1806, 1807, 1808(g) (related
 
 &nbsp;
 
-In subsections (a) and (b), the words “and in conformity with the laws of the State of Delaware” are omitted as unnecessary.
+In subsections (a) and (b), the words "and in conformity with the laws of the State of Delaware" are omitted as unnecessary.
 
-In subsection (c), the words “The requirements for serving as a director or officer” are substituted for “in determining the requirements for serving on the board of directors or as an officer of the association” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (c), the words "The requirements for serving as a director or officer" are substituted for "in determining the requirements for serving on the board of directors or as an officer of the association" for consistency in the revised title and to eliminate unnecessary words.
 

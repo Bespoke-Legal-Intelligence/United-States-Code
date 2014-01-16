@@ -6,5 +6,5 @@ No project shall be considered by any committee of Congress with a view to its a
 
 #### Codification
 
-Section is from act Sept. 22, 1922, popularly known as the “Rivers and Harbors Appropriation Act of 1918”.
+Section is from act Sept. 22, 1922, popularly known as the "Rivers and Harbors Appropriation Act of 1918".
 

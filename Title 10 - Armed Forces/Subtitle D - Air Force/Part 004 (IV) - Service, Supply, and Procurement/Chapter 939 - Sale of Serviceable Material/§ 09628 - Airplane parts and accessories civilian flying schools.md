@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 10:298c.
 
-Feb. 12, 1940, ch. 27, Title I (proviso under “Air Corps”), 54 Stat. 25.
+Feb. 12, 1940, ch. 27, Title I (proviso under "Air Corps"), 54 Stat. 25.
 
-The words “under the provisions of the Act of April 3, 1939 (53 Stat. 555)”, are omitted as obsolete, since training formerly performed under that act is now performed under section 9301 of this title. The words “personnel of the Departments” are substituted for the words “flying cadets”, since the authority is reciprocal, and to conform to section 9656 of this title. The words “flying cadet” are omitted as obsolete. 10:298c (last 28 words) is omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
+The words "under the provisions of the Act of April 3, 1939 (53 Stat. 555)", are omitted as obsolete, since training formerly performed under that act is now performed under section 9301 of this title. The words "personnel of the Departments" are substituted for the words "flying cadets", since the authority is reciprocal, and to conform to section 9656 of this title. The words "flying cadet" are omitted as obsolete. 10:298c (last 28 words) is omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 

@@ -4,9 +4,9 @@
 
 Incentive Pay.—The Secretary of Defense may pay incentive pay under this section to an individual who—
 
-&emsp;(1) is enrolled as a member of the Senior Reserve Officers’ Training Corps or the Marine Corps Platoon Leaders Class, as determined in accordance with regulations prescribed by the Secretary of Defense under subsection (e); and
+&emsp;(1) is enrolled as a member of the Senior Reserve Officers' Training Corps or the Marine Corps Platoon Leaders Class, as determined in accordance with regulations prescribed by the Secretary of Defense under subsection (e); and
 
-&emsp;(2) participates in a language immersion program approved for purposes of the Senior Reserve Officers’ Training Corps, or in study abroad, or is enrolled in an academic course that involves instruction in a foreign language of strategic interest to the Department of Defense as designated by the Secretary of Defense for purposes of this section.
+&emsp;(2) participates in a language immersion program approved for purposes of the Senior Reserve Officers' Training Corps, or in study abroad, or is enrolled in an academic course that involves instruction in a foreign language of strategic interest to the Department of Defense as designated by the Secretary of Defense for purposes of this section.
 
 (b)
 
@@ -18,7 +18,7 @@ Amount.—The amount of incentive pay payable to an individual under this sectio
 
 (d)
 
-Repayment.—An individual who is paid incentive pay under this section but who does not satisfactorily complete participation in the individual's language program or study as described in subsection (a)(2), or who does not complete the requirements of the Senior Reserve Officers’ Training Corps or the Marine Corps Platoon Leaders Class, as applicable, shall be subject to the repayment provisions of section 303a(e) of this title.
+Repayment.—An individual who is paid incentive pay under this section but who does not satisfactorily complete participation in the individual's language program or study as described in subsection (a)(2), or who does not complete the requirements of the Senior Reserve Officers' Training Corps or the Marine Corps Platoon Leaders Class, as applicable, shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (e)
 
@@ -36,13 +36,13 @@ Reports.—Not later than April 1, 2012, and annually thereafter through 2014, t
 
 &emsp;(4) The languages for which incentive pay was paid under this section, including the total amount paid for each such language.
 
-&emsp;(5) The effectiveness of incentive pay under this section in assisting the Department of Defense in securing proficiency in foreign languages of strategic interest to the Department of Defense, including a description of how recipients of pay under this section are assigned and utilized following completion of the program of study.
+&emsp;(5) The effectiveness of incentive pay under this section in assisting the Department of Defense in securing proficiency in foreign languages of strategic interest to the Department of Defense, including a description of how recipients of pay under this section are assignedand utilized following completion of the program of study.
 
 (g)
 
-Termination of Authority.—No incentive pay may be paid under this section after December 31, 2013.
+Termination of Authority.—No incentive pay may be paid under this section after December 31, 2014.
 
-(Added Pub. L. 110–417, \[div. A\], title VI, §619(b)(1), Oct. 14, 2008, 122 Stat. 4488; amended Pub. L. 112–81, div. A, title X, §1065(b), Dec. 31, 2011, 125 Stat. 1588.)
+(Added Pub. L. 110–417, \[div. A\], title VI, §619(b)(1), Oct. 14, 2008, 122 Stat. 4488; amended Pub. L. 112–81, div. A, title X, §1065(b), Dec. 31, 2011, 125 Stat. 1588; Pub. L. 113–66, div. A, title VI, §616, Dec. 26, 2013, 127 Stat. 781.)
 
 #### Prior Provisions
 
@@ -50,5 +50,7 @@ A prior section 316a, added Pub. L. 102–190, div. A, title VI, §636(a), Dec. 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (f). Pub. L. 112–81 substituted “April 1, 2012” for “January 1, 2010” in introductory provisions.
+<b>2013</b>—Subsec. (g). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
+
+<b>2011</b>—Subsec. (f). Pub. L. 112–81 substituted "April 1, 2012" for "January 1, 2010" in introductory provisions.
 

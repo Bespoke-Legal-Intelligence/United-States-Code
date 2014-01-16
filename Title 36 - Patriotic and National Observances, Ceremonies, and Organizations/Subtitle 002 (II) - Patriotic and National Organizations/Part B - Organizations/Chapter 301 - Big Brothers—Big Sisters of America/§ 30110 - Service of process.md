@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Sept. 2, 1958, Pub. L. 85–870, §5(b), 72 Stat. 1692.
 
-The words “at all times” are omitted as unnecessary.
+The words "at all times" are omitted as unnecessary.
 

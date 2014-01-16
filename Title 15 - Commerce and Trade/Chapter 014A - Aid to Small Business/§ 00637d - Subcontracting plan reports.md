@@ -6,7 +6,7 @@ Not later than 1 year after January 2, 2013, the Administrator of the Small Busi
 
 #### (2) Annual report
 
-Not later than March 31 of each year, the Administrator of the Small Business Administration shall provide the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report, based on data available through existing systems, that sets forth, by agency (and to the extent practicable, by type of goal or plan), the following information:
+Not later than March 31 of each year, the Administrator of the Small Business Administration shall provide the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report, based on data available through existing systems, that sets forth, by agency (and to the extent practicable,by type of goal or plan), the following information:
 
 &emsp;(A) the percentage of entities required to submit reports pursuant to section 637(d)(6) of this title that filed such reports and that failed to file such reports during the prior fiscal year;
 

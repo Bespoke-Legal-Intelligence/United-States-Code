@@ -16,5 +16,5 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–640 substituted “up to 100 percent” for “not more than 40 percent”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–640 substituted "up to 100 percent" for "not more than 40 percent".
 

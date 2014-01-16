@@ -1,6 +1,6 @@
 ### \[§522. Repealed. Pub. L. 108–375, div. A, title V, §501(b)(1), Oct. 28, 2004, 118 Stat. 1873\]
 
-Section, added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2841; amended Pub. L. 98–525, title V, §522,Oct. 19, 1984, 98 Stat. 2523; Pub. L. 102–190, div. A, title XI, §1131(1)(B), Dec. 5, 1991, 105 Stat. 1505, related to authorized total strengths of regular commissioned officers on active duty.
+Section, added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2841; amended Pub. L. 98–525, title V, §522, Oct. 19, 1984, 98 Stat. 2523; Pub. L. 102–190, div. A, title XI, §1131(1)(B), Dec. 5, 1991, 105 Stat. 1505, related to authorized total strengths of regular commissioned officers on active duty.
 
 #### Effective Date of Repeal
 

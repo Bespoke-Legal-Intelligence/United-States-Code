@@ -64,11 +64,11 @@ The Board shall assess and collect a registration fee and an annual fee from eac
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §982(c)(1), substituted “It” for “Beginning 180 days after the date of the determination of the Commission under section 7211(d) of this title, it”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §982(c)(1), substituted "It" for "Beginning 180 days after the date of the determination of the Commission under section 7211(d) of this title, it".
 
-Subsec. (b)(2)(A). Pub. L. 111–203, §982(c)(2)(A), substituted “issuers, brokers, and dealers” for “issuers”.
+Subsec. (b)(2)(A). Pub. L. 111–203, §982(c)(2)(A), substituted "issuers, brokers, and dealers" for "issuers".
 
-Subsec. (b)(2)(B), (G). Pub. L. 111–203, §982(c)(2)(B), substituted “issuer, broker, or dealer” for “issuer” wherever appearing.
+Subsec. (b)(2)(B), (G). Pub. L. 111–203, §982(c)(2)(B), substituted "issuer, broker, or dealer" for "issuer" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

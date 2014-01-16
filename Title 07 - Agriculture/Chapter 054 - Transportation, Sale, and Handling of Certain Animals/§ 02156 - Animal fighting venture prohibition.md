@@ -12,7 +12,7 @@
 
 #### (b) Buying, selling, delivering, possessing, training, or transporting animals for participation in animal fighting venture
 
-It shall be unlawful for any person to knowingly sell, buy, possess, train, transport, deliver,or receive any animal for purposes of having the animal participate in an animal fighting venture.
+It shall be unlawful for any person to knowingly sell, buy, possess, train, transport, deliver, or receive any animal for purposes of having the animal participate in an animal fighting venture.
 
 #### (c) Use of Postal Service or other interstate instrumentality for promoting or furthering animal fighting venture
 
@@ -34,13 +34,13 @@ The Secretary or any other person authorized by him shall make such investigatio
 
 In this section—
 
-&emsp;(1) the term “animal fighting venture” means any event, in or affecting interstate or foreign commerce, that involves a fight conducted or to be conducted between at least 2 animals for purposes of sport, wagering, or entertainment, except that the term “animal fighting venture” shall not be deemed to include any activity the primary purpose of which involves the use of one or more animals in hunting another animal;
+&emsp;(1) the term "animal fighting venture" means any event, in or affecting interstate or foreign commerce, that involves a fight conducted or to be conducted between at least 2 animals for purposes of sport, wagering, or entertainment, except that the term "animal fighting venture" shall not be deemed to include any activity the primary purpose of which involves the use of one or more animals in hunting another animal;
 
-&emsp;(2) the term “instrumentality of interstate commerce” means any written, wire, radio, television or other form of communication in, or using a facility of, interstate commerce;
+&emsp;(2) the term "instrumentality of interstate commerce" means any written, wire, radio, television or other form of communication in, or using a facility of, interstate commerce;
 
-&emsp;(3) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States; <sup>3</sup>
+&emsp;(3) the term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States; <sup>3</sup>
 
-&emsp;(4) the term “animal” means any live bird, or any live mammal, except man.
+&emsp;(4) the term "animal" means any live bird, or any live mammal, except man.
 
 #### (h) Relationship to other provisions
 
@@ -62,35 +62,35 @@ The criminal penalties for violations of subsection (a), (b), (c), or (e) are pr
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section is comprised of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279. Subsec. (i)(2) of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279, amended section 3001(a) of Title 39, Postal Service.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §14207(a)(1)(A), struck out “, if any animal in the venture was moved in interstate or foreign commerce” before period at end.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §14207(a)(1)(A), struck out ", if any animal in the venture was moved in interstate or foreign commerce" before period at end.
 
-Subsec. (a)(2). Pub. L. 110–246, §14207(a)(1)(B), which directed amendment of par. (2) by substituting “State” for “state” in heading, was executed by making the substitution for “states” in heading, to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 110–246, §14207(a)(1)(B), which directed amendment of par. (2) by substituting "State" for "state" in heading, was executed by making the substitution for "states" in heading, to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 110–246, §14207(a)(2), inserted heading and substituted “possess, train, transport, deliver, or receive any animal for purposes of having the animal participate” for “transport, deliver, or receive for purposes of transportation, in interstate or foreign commerce, any dog or other animal for purposes of having the dog or other animal participate”.
+Subsec. (b). Pub. L. 110–246, §14207(a)(2), inserted heading and substituted "possess, train, transport, deliver, or receive any animal for purposes of having the animal participate" for "transport, deliver, or receive for purposes of transportation, in interstate or foreign commerce, any dog or other animal for purposes of having the dog or other animal participate".
 
-Subsec. (c). Pub. L. 110–246, §14207(a)(3), inserted heading and inserted “advertising an animal, or an instrument described in subsection (e), for use in an animal fighting venture,” after “for purposes of”.
+Subsec. (c). Pub. L. 110–246, §14207(a)(3), inserted heading and inserted "advertising an animal, or an instrument described in subsection (e), for use in an animal fighting venture," after "for purposes of".
 
 Subsec. (d). Pub. L. 110–246, §14207(a)(4), inserted heading.
 
 Subsec. (e). Pub. L. 110–246, §14207(a)(5), inserted heading.
 
-Subsec. (f). Pub. L. 110–246, §14207(a)(6), inserted heading and, in last sentence, struck out “by the United States” after “Costs incurred”, inserted “(1)” after “owner of the animals”, and substituted “proceeding, or (2) in” for “proceeding or in”.
+Subsec. (f). Pub. L. 110–246, §14207(a)(6), inserted heading and, in last sentence, struck out "by the United States" after "Costs incurred", inserted "(1)" after "owner of the animals", and substituted "proceeding, or (2) in" for "proceeding or in".
 
-Subsec. (g). Pub. L. 110–246, §14207(a)(7), inserted subsec. heading, in introductory provisions, substituted “In this section” for “For purposes of this section”, in par. (1), substituted “any event, in or affecting interstate or foreign commerce, that involves a fight conducted or to be conducted between at least 2 animals for purposes of sport, wagering, or entertainment,” for “any event which involves a fight between at least two animals and is conducted for purposes of sport, wagering, or entertainment”, redesignated pars. (3) to (5) as (2) to (4), respectively, in par. (4), substituted “mammal” for “dog or other mammal” and period for “; and” at end, and struck out former par. (2) which read as follows: “the term ‘interstate or foreign commerce’ means—
+Subsec. (g). Pub. L. 110–246, §14207(a)(7), inserted subsec. heading, in introductory provisions, substituted "In this section" for "For purposes of this section", in par. (1), substituted "any event, in or affecting interstate or foreign commerce, that involves a fight conducted or to be conducted between at least 2 animals for purposes of sport, wagering, or entertainment," for "any event which involves a fight between at least two animals and is conducted for purposes of sport, wagering, or entertainment", redesignated pars. (3) to (5) as (2) to (4), respectively, in par. (4), substituted "mammal" for "dog or other mammal" and period for "; and" at end, and struck out former par. (2) which read as follows: "the term 'interstate or foreign commerce' means—
 
-&emsp;“(A) any movement between any place in a State to any place in another State or between places in the same State through another State; or
+&emsp;"(A) any movement between any place in a State to any place in another State or between places in the same State through another State; or
 
-&emsp;“(B) any movement from a foreign country into any State or from any State into any foreign country;”.
+&emsp;"(B) any movement from a foreign country into any State or from any State into any foreign country;".
 
 Subsec. (g)(6). Pub. L. 110–246, §14207(a)(11), redesignated subsec. (g)(6) as (h).
 
-Subsec. (h). Pub. L. 110–246, §14207(a)(11), redesignated subsec. (g)(6) as (h), inserted heading, and substituted “The” for “the”.
+Subsec. (h). Pub. L. 110–246, §14207(a)(11), redesignated subsec. (g)(6) as (h), inserted heading, and substituted "The" for "the".
 
 Pub. L. 110–246, §14207(a)(8), redesignated subsec. (h) as (i).
 
@@ -98,31 +98,31 @@ Subsec. (i). Pub. L. 110–246, §14207(a)(8), (9), redesignated subsec. (h) as 
 
 Subsec. (j). Pub. L. 110–246, §14207(a)(8), (10), redesignated subsec. (i) as (j) and inserted heading.
 
-<b>2007</b>—Subsec. (c). Pub. L. 110–22, §3(1), substituted “instrumentality of interstate commerce for commercial speech” for “interstate instrumentality”.
+<b>2007</b>—Subsec. (c). Pub. L. 110–22, §3(1), substituted "instrumentality of interstate commerce for commercial speech" for "interstate instrumentality".
 
-Subsec. (d). Pub. L. 110–22, §3(2), substituted “such subsection” for “such subsections”.
+Subsec. (d). Pub. L. 110–22, §3(2), substituted "such subsection" for "such subsections".
 
-Subsec. (e). Pub. L. 110–22, §3(3), added subsec. (e) and struck out former subsec. (e) which read as follows: “Any person who violates subsection (a), (b), or (c) of this section shall be fined not more than $15,000 or imprisoned for not more than 1 year, or both, for each such violation.”
+Subsec. (e). Pub. L. 110–22, §3(3), added subsec. (e) and struck out former subsec. (e) which read as follows: "Any person who violates subsection (a), (b), or (c) of this section shall be fined not more than $15,000 or imprisoned for not more than 1 year, or both, for each such violation."
 
-Subsec. (g)(1). Pub. L. 110–22, §3(4)(A), struck out “or animals, such as waterfowl, bird, raccoon, or fox hunting” after “hunting another animal”.
+Subsec. (g)(1). Pub. L. 110–22, §3(4)(A), struck out "or animals, such as waterfowl, bird, raccoon, or fox hunting" after "hunting another animal".
 
-Subsec. (g)(3). Pub. L. 110–22, §3(4)(B), added par. (3) and struck out former par. (3) which read as follows: “the term ‘interstate instrumentality’ means telegraph, telephone, radio, or television operating in interstate or foreign commerce;”.
+Subsec. (g)(3). Pub. L. 110–22, §3(4)(B), added par. (3) and struck out former par. (3) which read as follows: "the term 'interstate instrumentality' means telegraph, telephone, radio, or television operating in interstate or foreign commerce;".
 
 Subsec. (i). Pub. L. 110–22, §3(5), added subsec. (i).
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171, §10302(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person to knowingly sponsor or exhibit an animal in any animal fighting venture to which any animal was moved in interstate or foreign commerce.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §10302(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: "It shall be unlawful for any person to knowingly sponsor or exhibit an animal in any animal fighting venture to which any animal was moved in interstate or foreign commerce."
 
-Subsec. (b). Pub. L. 107–171, §10302(a)(2), substituted “deliver, or receive” for “or deliver to another person or receive from another person”.
+Subsec. (b). Pub. L. 107–171, §10302(a)(2), substituted "deliver, or receive" for "or deliver to another person or receive from another person".
 
-Subsec. (d). Pub. L. 107–171, §10302(a)(3), substituted “subsection (c) of this section” for “subsections (a), (b), or (c) of this section”.
+Subsec. (d). Pub. L. 107–171, §10302(a)(3), substituted "subsection (c) of this section" for "subsections (a), (b), or (c) of this section".
 
-Subsec. (e). Pub. L. 107–171, §10303(a)(1), inserted heading and substituted “$15,000” for “$5,000” in text.
+Subsec. (e). Pub. L. 107–171, §10303(a)(1), inserted heading and substituted "$15,000" for "$5,000" in text.
 
-Subsec. (g)(2)(B). Pub. L. 107–171, §10303(a)(2), inserted “or from any State into any foreign country” before semicolon.
+Subsec. (g)(2)(B). Pub. L. 107–171, §10303(a)(2), inserted "or from any State into any foreign country" before semicolon.
 
 #### Change of Name
 
-“United States magistrate judge” substituted for “United States magistrate” in subsec. (f) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judge" substituted for "United States magistrate" in subsec. (f) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 2008 Amendment
 
@@ -130,13 +130,13 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–171, title X, §10302(b), May 13, 2002, 116 Stat. 492, provided that: “The amendments made by this section \[amending this section\] take effect 1 year after the date of enactment of this Act \[May 13, 2002\].”
+Pub. L. 107–171, title X, §10302(b), May 13, 2002, 116 Stat. 492, provided that: "The amendments made by this section \[amending this section\] take effect 1 year after the date of enactment of this Act \[May 13, 2002\]."
 
-Pub. L. 107–171, title X, §10303(b), May 13, 2002, 116 Stat. 492, provided that: “The amendment made by this section \[amending this section\] takes effect 1 year after the date of enactment of this Act \[May 13, 2002\].”
+Pub. L. 107–171, title X, §10303(b), May 13, 2002, 116 Stat. 492, provided that: "The amendment made by this section \[amending this section\] takes effect 1 year after the date of enactment of this Act \[May 13, 2002\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “States”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "States".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “or”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "or".</i>
 
-<i><sup>3</sup></i><i> So in original. The word “and” probably should appear.</i>
+<i><sup>3</sup></i><i> So in original. The word "and" probably should appear.</i>
 

@@ -30,7 +30,7 @@
 
 #### (C) Protected State laws
 
-&emsp;&emsp;For purposes of this paragraph, the term “protected State law” means a State law—
+&emsp;&emsp;For purposes of this paragraph, the term "protected State law" means a State law—
 
 &emsp;&emsp;&emsp;(i) regarding any requirements relating to private mortgage insurance in connection with residential mortgage transactions;
 

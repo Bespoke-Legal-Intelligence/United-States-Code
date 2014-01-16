@@ -50,11 +50,11 @@
 
 #### (E) Number of grants
 
-&emsp;&emsp;Such loans and grants shall be made during each fiscal year to the full extent of the amounts held by the rural economic development subaccount, subject only to limitations as may be from time-to-time imposed by law.
+&emsp;&emsp;Such loans and grants shall be made during each fiscal year to the full extent of theamounts held by the rural economic development subaccount, subject only to limitations as may be from time-to-time imposed by law.
 
 (May 20, 1936, ch. 432, title III, §313, as added Pub. L. 100–203, title I, §1403, Dec. 22, 1987, 101 Stat. 1330–21; amended Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Amendments
 
-<b>1994</b>—Subsecs. (a)(1), (b)(2)(A) to (C). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
+<b>1994</b>—Subsecs. (a)(1), (b)(2)(A) to (C). Pub. L. 103–354 substituted "Secretary" for "Administrator".
 

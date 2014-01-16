@@ -1,6 +1,6 @@
 ### §§961 to 967. Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641
 
-Section 961, acts July 9, 1952, ch. 608, pt. II, §233, 66 Stat. 489; Aug. 9, 1955, ch. 665, §2(e)–(g), 69 Stat. 599, related to liability of members for active duty, limitation on recall, annual training, voluntary active duty, notification prior to active-duty orders, utilization of officers, protection of members of organized units, and to ministers of religion. See sections 12102, 12201, 12204, 12301, 12302, 12317, and 12682 of Title 10, Armed Forces. Act Aug. 9, 1955, ch. 665, §2(e)–(g), 69 Stat. 599, was repealed by Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.
+Section 961, acts July 9, 1952, ch. 608, pt. II, §233, 66 Stat. 489; Aug. 9, 1955, ch. 665, §2(e)–(g), 69 Stat. 599, related to liability of members for active duty, limitation on recall, annual training, voluntary active duty, notification prior to active-duty orders, utilization ofofficers, protection of members of organized units, and to ministers of religion. See sections 12102, 12201, 12204, 12301, 12302, 12317, and 12682 of Title 10, Armed Forces. Act Aug. 9, 1955, ch. 665, §2(e)–(g), 69 Stat. 599, was repealed by Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.
 
 Section 962, act July 9, 1952, ch. 608, pt. II, §234, 66 Stat. 490, related to active duty in connection with Reserve training and administration. See sections 12301 and 12310 of Title 10.
 

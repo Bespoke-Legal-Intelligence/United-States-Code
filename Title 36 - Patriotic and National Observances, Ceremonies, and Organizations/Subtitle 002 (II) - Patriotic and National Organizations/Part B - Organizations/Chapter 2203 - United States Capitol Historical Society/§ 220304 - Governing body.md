@@ -8,7 +8,7 @@ Board of Trustees.—(1) The board of trustees is the governing body of the corp
 
 (3) The officers of the corporation are ex officio members of the board with all the rights and privileges of trustees, including the right to vote.
 
-(4) The board shall meet at least once a year in the Capitol of the United States. The board may meet at other times as decided by the chairman. A meeting may be held only at a time and place stated in the bylaws or on 30 days’ written notice.
+(4) The board shall meet at least once a year in the Capitol of the United States. The board may meet at other times as decided by the chairman. A meeting may be held only at a time and place stated in the bylaws or on 30 days' written notice.
 
 (b)
 
@@ -90,15 +90,15 @@ Oct. 20, 1978, Pub. L. 95–493, §§7, 8, 92 Stat. 1645.
 
 &nbsp;
 
-In this section, the word “active” is omitted as unnecessary.
+In this section, the word "active" is omitted as unnecessary.
 
-In subsection (a)(1), the words “The board of trustees is the governing body of the corporation” are added for clarity and consistency in the revised title. The words “is responsible for” are substituted for “shall be vested in” for consistency in the revised title. The word “management” is omitted as included in “control”.
+In subsection (a)(1), the words "The board of trustees is the governing body of the corporation" are added for clarity and consistency in the revised title. The words "is responsible for" are substituted for "shall be vested in" for consistency in the revised title. The word "management" is omitted as included in "control".
 
-In subsection (a)(3), the words “During their respective terms of office” are omitted as unnecessary.
+In subsection (a)(3), the words "During their respective terms of office" are omitted as unnecessary.
 
-In subsection (a)(4), the words “at Washington, District of Columbia” and “in advance of any such meeting” are omitted as unnecessary.
+In subsection (a)(4), the words "at Washington, District of Columbia" and "in advance of any such meeting" are omitted as unnecessary.
 
-In subsection (b)(4), the words “other remuneration” as \[sic\] are omitted as unnecessary.
+In subsection (b)(4), the words "other remuneration" as \[sic\] are omitted as unnecessary.
 
-In subsection (c), the word “activities” is substituted for “programs and business” to eliminate unnecessary words.
+In subsection (c), the word "activities" is substituted for "programs and business" to eliminate unnecessary words.
 

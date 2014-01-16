@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) in direct support of or directly related to a military operation, including a contingency operation (as defined in section 101(13) of title 10) or an operation in response to an emergency declared by the President; and
 
-&emsp;&emsp;&emsp;(II) the employee's dependents were residing either outside the continental United States or within the continental United States when the employee died; and
+&emsp;&emsp;&emsp;(II) the employee's dependents were residing either outside the continentalUnited States or within the continental United States when the employee died; and
 
 &emsp;(3) the travel expenses of not more than 2 persons to escort the remains of a deceased employee, if death occurred while the employee was in travel status away from his official station in the United States or while performing official duties outside the United States or in transit thereto or therefrom, from the place of death to the home or official station of such person, or such other place appropriate for interment as is determined by the head of the agency concerned.
 

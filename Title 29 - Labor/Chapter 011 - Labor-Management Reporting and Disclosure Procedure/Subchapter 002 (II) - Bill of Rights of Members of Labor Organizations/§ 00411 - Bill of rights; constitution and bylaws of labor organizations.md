@@ -14,7 +14,7 @@ Except in the case of a federation of national or international labor organizati
 
 &emsp;(A) in the case of a local labor organization, (i) by majority vote by secret ballot of the members in good standing voting at a general or special membership meeting, after reasonable notice of the intention to vote upon such question, or (ii) by majority vote of the members in good standing voting in a membership referendum conducted by secret ballot; or
 
-&emsp;(B) in the case of a labor organization, other than a local labor organization or a federation of national or international labor organizations, (i) by majority vote of the delegates voting at a regular convention, or at a special convention of such labor organization held upon not less than thirty days’ written notice to the principal office of each local or constituent labor organization entitled to such notice, or (ii) by majority vote of the members in good standing of such labor organization voting in a membership referendum conducted by secret ballot, or (iii) by majority vote of the members of the executive board or similar governing body of such labor organization, pursuant to express authority contained in the constitution and bylaws of such labor organization: <i>Provided</i>, That such action on the part of the executive board or similar governing body shall be effective only until the next regular convention of such labor organization.
+&emsp;(B) in the case of a labor organization, other than a local labor organization or a federation of national or international labor organizations, (i) by majority vote of the delegates voting at a regular convention, or at a special convention of such labor organization held upon not less than thirty days' written notice to the principal office of each local or constituent labor organization entitled to such notice, or (ii) by majority vote of the members in good standing of such labor organization voting in a membership referendum conducted by secret ballot, or (iii) by majority vote of the members of the executive board or similar governing body of such labor organization, pursuant to express authority contained in the constitution and bylaws of such labor organization: <i>Provided</i>, That such action on the part of the executive board or similar governing body shall be effective only until the next regular convention of such labor organization.
 
 #### (4) Protection of the right to sue
 
@@ -22,7 +22,7 @@ No labor organization shall limit the right of any member thereof to institute a
 
 #### (5) Safeguards against improper disciplinary action
 
-No member of any labor organization may be fined, suspended, expelled, or otherwise disciplined except for nonpayment of dues by such organization or by any officer thereof unless such member has been (A) served with written specific charges; (B) given a reasonable time to prepare his defense; (C) afforded a full and fair hearing.
+No member of any labor organization may be fined, suspended, expelled, or otherwise disciplined except for nonpayment of dues by such organization or by any officer thereof unless such member has been (A) served with writtenspecific charges; (B) given a reasonable time to prepare his defense; (C) afforded a full and fair hearing.
 
 #### (b) Invalidity of constitution and bylaws
 

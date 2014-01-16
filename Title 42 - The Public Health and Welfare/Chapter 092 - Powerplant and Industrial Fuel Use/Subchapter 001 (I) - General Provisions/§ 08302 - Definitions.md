@@ -4,11 +4,11 @@
 
 Unless otherwise expressly provided, for the purposes of this chapter—
 
-&emsp;(1) The term “Secretary” means the Secretary of Energy.
+&emsp;(1) The term "Secretary" means the Secretary of Energy.
 
-&emsp;(2) The term “person” means any (A) individual, corporation, company, partnership, association, firm, institution, society, trust, joint venture, or joint stock company, (B) any State, the District of Columbia, Puerto Rico, and any territory or possession of the United States, or (C) any agency or instrumentality (including any municipality) thereof.
+&emsp;(2) The term "person" means any (A) individual, corporation, company, partnership, association, firm, institution, society, trust, joint venture, or joint stock company, (B) any State, the District of Columbia, Puerto Rico, and any territory or possession of the UnitedStates, or (C) any agency or instrumentality (including any municipality) thereof.
 
-&emsp;(3)(A) Except as provided in subparagraph (B), the term “natural gas” means any fuel consisting in whole or in part of—
+&emsp;(3)(A) Except as provided in subparagraph (B), the term "natural gas" means any fuel consisting in whole or in part of—
 
 &emsp;&emsp;(i) natural gas;
 
@@ -18,7 +18,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(iv) any mixture of natural gas and synthetic gas.
 
-&emsp;(B) The term “natural gas” does not include—
+&emsp;(B) The term "natural gas" does not include—
 
 &emsp;&emsp;(i) natural gas which is commercially unmarketable (either by reason of quality or quantity), as determined under rules prescribed by the Secretary;
 
@@ -28,7 +28,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(iv) synthetic gas, derived from coal or other alternate fuel, the heat content of which is less than 600 Btu's per cubic foot at 14.73 pounds per square inch (absolute) and 60 degrees Fahrenheit.
 
-&emsp;(4) The term “petroleum” means crude oil and products derived from crude oil, other than—
+&emsp;(4) The term "petroleum" means crude oil and products derived from crude oil, other than—
 
 &emsp;&emsp;(A) synthetic gas derived from crude oil;
 
@@ -38,9 +38,9 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(D) petroleum coke or waste gases from industrial operations.
 
-&emsp;(5) The term “coal” means anthracite and bituminous coal, lignite, and any fuel derivative thereof.
+&emsp;(5) The term "coal" means anthracite and bituminous coal, lignite, and any fuel derivative thereof.
 
-&emsp;(6) The term “alternate fuel” means electricity or any fuel, other than natural gas or petroleum, and includes—
+&emsp;(6) The term "alternate fuel" means electricity or any fuel, other than natural gas or petroleum, and includes—
 
 &emsp;&emsp;(A) petroleum coke, shale oil, uranium, biomass, and municipal, industrial, or agricultural wastes, wood, and renewable and geothermal energy sources;
 
@@ -48,13 +48,13 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(C) waste gases from industrial operations.
 
-&emsp;(7)(A) The terms “electric powerplant” and “powerplant” mean any stationary electric generating unit, consisting of a boiler, a gas turbine, or a combined cycle unit, which produces electric power for purposes of sale or exchange and—
+&emsp;(7)(A) The terms "electric powerplant" and "powerplant" mean any stationary electric generating unit, consisting of a boiler, a gas turbine, or a combined cycle unit, which produces electric power for purposes of sale or exchange and—
 
 &emsp;&emsp;(i) has the design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 100 million Btu's per hour or greater; or
 
-&emsp;&emsp;(ii) is in a combination of two or more electric generating units which are locatedat the same site and which in the aggregate have a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
+&emsp;&emsp;(ii) is in a combination of two or more electric generating units which are located at the same site and which in the aggregate have a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
 
-&emsp;(B) For purposes of subparagraph (A), the term “electric generating unit” does not include—
+&emsp;(B) For purposes of subparagraph (A), the term "electric generating unit" does not include—
 
 &emsp;&emsp;(i) any electric generating unit subject to the licensing jurisdiction of the Nuclear Regulatory Commission; and
 
@@ -62,7 +62,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule, to be appropriate.
 
-&emsp;(8) The term “new electric powerplant” means—
+&emsp;(8) The term "new electric powerplant" means—
 
 &emsp;&emsp;(A) any electric powerplant for which construction or acquisition began on a date on or after November 9, 1978; and
 
@@ -72,17 +72,17 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) imposing substantial financial penalty (as determined under rules prescribed by the Secretary).
 
-&emsp;(9)(A) The term “existing electric powerplant” means any electric powerplant other than a new electric powerplant.
+&emsp;(9)(A) The term "existing electric powerplant" means any electric powerplant other than a new electric powerplant.
 
 &emsp;(B) Any powerplant treated under this chapter as an existing electric powerplant shall not be treated thereafter as a new electric powerplant merely by reason of a transfer of ownership.
 
-&emsp;(10)(A) The terms “major fuel-burning installation” and “installation” means a stationary unit consisting of a boiler, gas turbine unit, combined cycle unit, or internal combustion engine which—
+&emsp;(10)(A) The terms "major fuel-burning installation" and "installation" means a stationary unit consisting of a boiler, gas turbine unit, combined cycle unit, or internal combustion engine which—
 
 &emsp;&emsp;(i) has a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 100 million Btu's per hour or greater; or
 
 &emsp;&emsp;(ii) is in a combination of two or more such units which are located at the same site and which in the aggregate have a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
 
-&emsp;(B) The terms “major fuel-burning installation” and “installation” do not include—
+&emsp;(B) The terms "major fuel-burning installation" and "installation" do not include—
 
 &emsp;&emsp;(i) any electric powerplant; or
 
@@ -90,7 +90,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule to be appropriate.
 
-&emsp;(11) The term “new major fuel-burning installation” means—
+&emsp;(11) The term "new major fuel-burning installation" means—
 
 &emsp;&emsp;(A) any major fuel-burning installation on which construction or acquisition began on a date on or after November 9, 1978; and
 
@@ -100,7 +100,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) imposing substantial financial penalty (as determined under rules prescribed by the Secretary).
 
-&emsp;(12)(A) The term “existing major fuel-burning installation” means any installation which is not a new major fuel-burning installation.
+&emsp;(12)(A) The term "existing major fuel-burning installation" means any installation which is not a new major fuel-burning installation.
 
 &emsp;(B) Such term does not include a major fuel-burning installation for the extraction of mineral resources located—
 
@@ -112,7 +112,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(C) Any installation treated as an existing major fuel-burning installation shall not be treated thereafter as a new major fuel-burning installation merely by reason of a transfer of ownership.
 
-&emsp;(13) The term “construction or acquisition began” means, when used with reference to a certain date, that—
+&emsp;(13) The term "construction or acquisition began" means, when used with reference to a certain date, that—
 
 &emsp;&emsp;(A) construction in accordance with final drawings or equivalent design documents (as defined by the Secretary, by rule) began on or after that date; or
 
@@ -122,15 +122,15 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(II) in the case of a powerplant, without adversely affecting electric system reliability (as determined by the Secretary after consultation with the Federal Energy Regulatory Commission and the appropriate State authority).
 
-&emsp;(14) The term “construction” means substantial onsite construction or reconstruction, as defined by rule by the Secretary.
+&emsp;(14) The term "construction" means substantial onsite construction or reconstruction, as defined by rule by the Secretary.
 
-&emsp;(15) The term “primary energy source” means the fuel or fuels used by any existing or new electric powerplant, except it does not include, as determined under rules prescribed by the Secretary—
+&emsp;(15) The term "primary energy source" means the fuel or fuels used by any existing or new electric powerplant, except it does not include, as determined under rules prescribed by the Secretary—
 
 &emsp;&emsp;(A) the minimum amounts of fuel required for unit ignition, startup, testing, flame stabilization, and control uses, and
 
 &emsp;&emsp;(B) the minimum amounts of fuel required to alleviate or prevent (i) unanticipated equipment outages and (ii) emergencies directly affecting the public health, safety, or welfare which would result from electric power outages.
 
-&emsp;(16) The term “site limitation” means, when used with respect to any powerplant, any specific physical limitation associated with a particular site which relates to the use of coal or other alternate fuels as a primary energy source for such powerplant, such as—
+&emsp;(16) The term "site limitation" means, when used with respect to any powerplant, any specific physical limitation associated with a particular site which relates to the use of coal or other alternate fuels as a primary energy source for such powerplant, such as—
 
 &emsp;&emsp;(A) inaccessibility to coal or other alternate fuels;
 
@@ -142,37 +142,37 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(E) lack of an adequate and reliable supply of water, including water for use in compliance with applicable environmental requirements.
 
-&emsp;(17) The term “applicable environmental requirements” includes—
+&emsp;(17) The term "applicable environmental requirements" includes—
 
 &emsp;&emsp;(A) any standard, limitation, or other requirement established by or pursuant to Federal or State law (including any final order of any Federal or State court) applicable to emissions of environmental pollutants (including air and water pollutants) or disposal of solid waste residues resulting from the use of coal or other alternate fuels or natural gas or petroleum as a primary energy source or from the operation of pollution control equipment in connection with such use, taking into account any variance of law granted or issued in accordance with Federal law or in accordance with State law to the extent consistent with Federal law; and
 
-&emsp;&emsp;(B) any other standard, limitation, or other requirement established by, or pursuant to, the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\], or the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
+&emsp;&emsp;(B) any other standard, limitation, or other requirement established by, or pursuant to, the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\], or theNational Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
 
-&emsp;(18)(A) The term “peakload powerplant” means a powerplant the electrical generation of which in kilowatt hours does not exceed, for any 12-calendar-month period, such powerplant's design capacity multiplied by 1,500 hours.
+&emsp;(18)(A) The term "peakload powerplant" means a powerplant the electrical generation of which in kilowatt hours does not exceed, for any 12-calendar-month period, such powerplant's design capacity multiplied by 1,500 hours.
 
-&emsp;(B) The term “intermediate load powerplant” means a powerplant (other than a peakload powerplant), the electrical generation of which in kilowatt hours does not exceed, for any 12-calendar-month period, such powerplant's design capacity multiplied by 3,500 hours.
+&emsp;(B) The term "intermediate load powerplant" means a powerplant (other than a peakload powerplant), the electrical generation of which in kilowatt hours does not exceed, for any 12-calendar-month period, such powerplant's design capacity multiplied by 3,500 hours.
 
-&emsp;(C) The term “base load powerplant” means a powerplant the electrical generation of which in kilowatt hours exceeds, for any 12-calendar-month period, such powerplant's design capacity multiplied by 3,500 hours.
+&emsp;(C) The term "base load powerplant" means a powerplant the electrical generation of which in kilowatt hours exceeds, for any 12-calendar-month period, such powerplant's design capacity multiplied by 3,500 hours.
 
 &emsp;(D) Not later than 90 days after November 9, 1978, the Federal Energy Regulatory Commission shall prescribe rules under which a powerplant's design capacity may be determined for purposes of this paragraph.
 
-&emsp;(19) the <sup>1</sup> term “cogeneration facility” means an electric powerplant which produces—
+&emsp;(19) the <sup>1</sup> term "cogeneration facility" means an electric powerplant which produces—
 
 &emsp;&emsp;(A) electric power; and
 
 &emsp;&emsp;(B) any other form of useful energy (such as steam, gas, or heat) which is, or will be, used for industrial, commercial, or space heating purposes.
 
-&emsp;(20) The term “cost”, unless the context indicates otherwise, means total costs (both operating and capital) incurred over the estimated remaining useful life of an electric powerplant, discounted to present value, as determined by the Secretary (in the case of powerplants, in consultation with the State regulatory authorities). In the case of an electric powerplant, such costs shall take into account any change required in the use of existing electric powerplants in the relevant dispatching system and other economic factors which are included in planning for the production, transmission, and distribution of electric power within such system.
+&emsp;(20) The term "cost", unless the context indicates otherwise, means total costs (both operating and capital) incurred over the estimated remaining useful life of an electric powerplant, discounted to present value, as determined by the Secretary (in the case of powerplants, in consultation with the State regulatory authorities). In the case of an electric powerplant, such costs shall take into account any change required in the use of existing electric powerplants in the relevant dispatching system and other economic factors which are included in planning for the production, transmission, and distribution of electric power within such system.
 
-&emsp;(21) The term “State regulatory authority” means any State agency which has ratemaking authority with respect to the sale of electricity by any State regulated electric utility.
+&emsp;(21) The term "State regulatory authority" means any State agency which has ratemaking authority with respect to the sale of electricity by any State regulated electric utility.
 
-&emsp;(22) The term “air pollution control agency” has the same meaning as given such term by section 302(b) of the Clean Air Act \[42 U.S.C. 7602(b)\].
+&emsp;(22) The term "air pollution control agency" has the same meaning as given such term by section 302(b) of the Clean Air Act \[42 U.S.C. 7602(b)\].
 
-&emsp;(23) The term “electric utility” means any person, including any affiliate, or Federal agency which sells electric power.
+&emsp;(23) The term "electric utility" means any person, including any affiliate, or Federal agency which sells electric power.
 
-&emsp;(24) The term “affiliate”, when used in relation to a person, means another person which controls, is controlled by, or is under common control with, such person.
+&emsp;(24) The term "affiliate", when used in relation to a person, means another person which controls, is controlled by, or is under common control with, such person.
 
-&emsp;(25) The term “Federal agency” means each authority of the Government of the United States, whether or not it is within or subject to review by another agency, but does not include—
+&emsp;(25) The term "Federal agency" means each authority of the Government of the United States, whether or not it is within or subject to review by another agency, but does not include—
 
 &emsp;&emsp;(A) the Congress;
 
@@ -182,17 +182,17 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(D) the government of the District of Columbia.
 
-&emsp;(26) The term “Btu” means British thermal unit.
+&emsp;(26) The term "Btu" means British thermal unit.
 
-&emsp;(27) the term “Mcf” means, when used in relation to natural gas, 1,000 cubic feet of natural gas.
+&emsp;(27) the term "Mcf" means, when used in relation to natural gas, 1,000 cubic feet of natural gas.
 
-&emsp;(28) The term “mixture”, when used in relation to fuels used in a unit, means a mixture of such fuels or a combination of such fuels used simultaneously or alternately in such unit.
+&emsp;(28) The term "mixture", when used in relation to fuels used in a unit, means a mixture of such fuels or a combination of such fuels used simultaneously or alternately in such unit.
 
-&emsp;(29) The term “fluidized bed combustion” means combustion of fuel in connection with a bed of inert material, such as limestone or dolomite, which is held in a fluid-like state by the means of air or other gases being passed through such materials.
+&emsp;(29) The term "fluidized bed combustion" means combustion of fuel in connection with a bed of inert material, such as limestone or dolomite, which is held in a fluid-like state by the means of air or other gases being passed through such materials.
 
 #### (b) Special rules relating to definitions of natural gas and alternate fuel
 
-(1) Subject to paragraph (2), natural gas which is to be used by a powerplant shall for purposes of this chapter (other than this subsection), be excluded from the definition of “natural gas” under subsection (a)(3)(B)(iii) of this section and shall be included within the definition of “alternate fuel” under subsection (a)(6) of this section if the person proposing to use such natural gas certifies to the Secretary (together with such supporting documents as the Secretary may require) that—
+(1) Subject to paragraph (2), natural gas which is to be used by a powerplant shall for purposes of this chapter (other than this subsection), be excluded from the definition of "natural gas" under subsection (a)(3)(B)(iii) of this section and shall be included within the definition of "alternate fuel" under subsection (a)(6) of this section if the person proposing to use such natural gas certifies to the Secretary (together with such supporting documents as the Secretary may require) that—
 
 &emsp;(A) such person owns, or is entitled to receive, at the point of manufacture, synthetic gas derived from coal or another alternate fuel;
 
@@ -210,13 +210,13 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 (3) Repealed. Pub. L. 100–42, §1(c)(2)(H), May 21, 1987, 101 Stat. 310.
 
-(4) For purposes of this subsection, the term “pipeline” means any interstate or intrastate pipeline or local distribution company.
+(4) For purposes of this subsection, the term "pipeline" means any interstate or intrastate pipeline or local distribution company.
 
 (Pub. L. 95–620, title I, §103, Nov. 9, 1978, 92 Stat. 3292; Pub. L. 100–42, §1(c)(2), May 21, 1987, 101 Stat. 310.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(1), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(1), was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 The Clean Air Act, referred to in subsec. (a)(17)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
@@ -228,23 +228,23 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(17)(B)
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a)(13)(B)(ii). Pub. L. 100–42, §1(c)(2)(A), inserted “and” at end of subcl. (I), substituted period for “; or” at end of subcl. (II), and struck out subcl. (III) which read as follows: “in the case of a major fuel-burning installation, without incurring significant operational detriment of the unit (as determined by the Secretary).”
+<b>1987</b>—Subsec. (a)(13)(B)(ii). Pub. L. 100–42, §1(c)(2)(A), inserted "and" at end of subcl. (I), substituted period for "; or" at end of subcl. (II), and struck out subcl. (III) which read as follows: "in the case of a major fuel-burning installation, without incurring significant operational detriment of the unit (as determined by the Secretary)."
 
-Subsec. (a)(15). Pub. L. 100–42, §1(c)(2)(B), struck out “or major fuel-burning installation” after “electric powerplant”.
+Subsec. (a)(15). Pub. L. 100–42, §1(c)(2)(B), struck out "or major fuel-burning installation" after "electric powerplant".
 
-Subsec. (a)(16). Pub. L. 100–42, §1(c)(2)(C), struck out “or installation” after “any powerplant” in introductory provisions and after “such powerplant” in introductory provisions and subpar. (D).
+Subsec. (a)(16). Pub. L. 100–42, §1(c)(2)(C), struck out "or installation" after "any powerplant" in introductory provisions and after "such powerplant" in introductory provisions and subpar. (D).
 
-Subsec. (a)(19). Pub. L. 100–42, §1(c)(2)(D), struck out “or a major fuel-burning installation” after “electric powerplant”.
+Subsec. (a)(19). Pub. L. 100–42, §1(c)(2)(D), struck out "or a major fuel-burning installation" after "electric powerplant".
 
-Subsec. (a)(20). Pub. L. 100–42, §1(c)(2)(E), struck out “or major fuel-burning installation” after “life of an electric powerplant”.
+Subsec. (a)(20). Pub. L. 100–42, §1(c)(2)(E), struck out "or major fuel-burning installation" after "life of an electric powerplant".
 
-Subsec. (b)(1). Pub. L. 100–42, §1(c)(2)(F), struck out “or major fuel-burning installation” after “used by a powerplant” in introductory provisions.
+Subsec. (b)(1). Pub. L. 100–42, §1(c)(2)(F), struck out "or major fuel-burning installation" after "used by a powerplant" in introductory provisions.
 
-Subsec. (b)(1)(D). Pub. L. 100–42, §1(c)(2)(G), substituted a period for “, except that for purposes of the prohibition under section 8311(2) of this title against powerplants being constructed without the capability of using coal or another alternate fuel, only permits, licenses, and approvals for the construction of such synthetic gas facilities shall be required under this subparagraph to be certified and documented.”
+Subsec. (b)(1)(D). Pub. L. 100–42, §1(c)(2)(G), substituted a period for ", except that for purposes of the prohibition under section 8311(2) of this title against powerplants being constructed without the capability of using coal or another alternate fuel, only permits, licenses, and approvals for the construction of such synthetic gas facilities shall be required under this subparagraph to be certified and documented."
 
-Subsec. (b)(2). Pub. L. 100–42, §1(c)(2)(F), struck out “or major fuel-burning installation” after “by any powerplant” in introductory provisions.
+Subsec. (b)(2). Pub. L. 100–42, §1(c)(2)(F), struck out "or major fuel-burning installation" after "by any powerplant" in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 100–42, §1(c)(2)(H), struck out par. (3) which read as follows: “In the case of any boiler subject to a prohibition under section 8371 of this title, the preceding provisions of this subsection shall apply with respect to such boiler to the same extent and in the same manner as they apply in the case of major fuel-burning installations.”
+Subsec. (b)(3). Pub. L. 100–42, §1(c)(2)(H), struck out par. (3) which read as follows: "In the case of any boiler subject to a prohibition under section 8371 of this title, the preceding provisions of this subsection shall apply with respect to such boiler to the same extent and in the same manner as they apply in the case of major fuel-burning installations."
 
 #### Transfer of Functions
 

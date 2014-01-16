@@ -78,11 +78,11 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;If a participant, labor organization, or other interested individual described in paragraph (1) prevails under a binding arbitration proceeding, the State or local applicant described in paragraph (1) that is a party to such grievance shall pay the total cost of such proceeding and the attorneys’ fees of such participant, labor organization, or individual, as the case may be.
+&emsp;&emsp;&emsp;If a participant, labor organization, or other interested individual described in paragraph (1) prevails under a binding arbitration proceeding, the State or local applicant described in paragraph (1) that is a party to such grievance shall pay the total cost of such proceeding and the attorneys' fees of such participant, labor organization, or individual, as the case may be.
 
 #### (5) Proposed placement
 
-&emsp;If a grievance is filed regarding a proposed placement of a participant in a project that receives assistance under this subchapter,such placement shall not be made unless the placement is consistent with the resolution of the grievance pursuant to this subsection.
+&emsp;If a grievance is filed regarding a proposed placement of a participant in a project that receives assistance under this subchapter, such placement shall not be made unless the placement is consistent with the resolution of the grievance pursuant to this subsection.
 
 #### (6) Remedies
 
@@ -118,25 +118,25 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 #### References in Text
 
-This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(2)(A). Pub. L. 111–13, §1604(1), substituted “1 or more periods of 30 days not to exceed a total of 90 days” for “30 days”.
+<b>2009</b>—Subsec. (a)(2)(A). Pub. L. 111–13, §1604(1), substituted "1 or more periods of 30 days not to exceed a total of 90 days" for "30 days".
 
-Subsec. (f)(1). Pub. L. 111–13, §1604(2)(A), substituted “An entity” for “A State or local applicant”.
+Subsec. (f)(1). Pub. L. 111–13, §1604(2)(A), substituted "An entity" for "A State or local applicant".
 
 Subsec. (f)(6)(D), (E). Pub. L. 111–13, §1604(2)(B), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission” in two places.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–82, §402(b)(1), substituted "Corporation" for "Commission" in two places.
 
-Pub. L. 103–82, §116(a)(1), inserted “, or revoke the designation of positions, related to the grant or contract, as approved national service positions,” after “assistance under this subchapter”.
+Pub. L. 103–82, §116(a)(1), inserted ", or revoke the designation of positions, related to the grant or contract, as approved national service positions," after "assistance under this subchapter".
 
-Subsec. (a)(2). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission” in introductory provisions.
+Subsec. (a)(2). Pub. L. 103–82, §402(b)(1), substituted "Corporation" for "Commission" in introductory provisions.
 
-Subsec. (a)(2)(B). Pub. L. 103–82, §116(a)(2), inserted “or revoked” after “terminated”.
+Subsec. (a)(2)(B). Pub. L. 103–82, §116(a)(2), inserted "or revoked" after "terminated".
 
-Subsec. (e). Pub. L. 103–82, §116(b), inserted before period at end “, other than assistance provided pursuant to this chapter”.
+Subsec. (e). Pub. L. 103–82, §116(b), inserted before period at end ", other than assistance provided pursuant to this chapter".
 
 Subsec. (f). Pub. L. 103–82, §116(c), amended subsec. (f) generally, substituting pars. (1) to (6) for former pars. (1) to (6) relating to same subjects and adding par. (7).
 

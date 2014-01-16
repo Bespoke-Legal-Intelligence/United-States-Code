@@ -6,7 +6,7 @@ In carrying out this chapter, special emphasis shall be placed on procurement in
 
 #### (b) Information to Congress on credit sales and guaranties
 
-No credit sale shall be extended under section 2763 of this title, and no guarantee shall be issued under section 2764 of this title, in any case involving coproduction or licensed, production outside the United States of any defense article of United States origin unless the Secretary of State shall, in advance of any such transaction, advise the appropriate committees of the Congress and furnish the Speaker of the House of Representatives and the President of the Senate with full information regarding the proposed transaction, including, but not limited to, a description of the particular defense article or articles which would be produced under a license or coproduced outside the United States, the estimated value of such production or coproduction, and the probable impact of the proposed transaction on employment and production within the United States.
+No credit sale shall be extended under section 2763 of this title, and no guarantee shall be issued under section 2764 of this title, in any case involving coproduction or licensed, production outside the United States of any defense article of United States origin unless the Secretary of State shall, in advance of any such transaction, advise the appropriate committees of the Congress and furnish the Speaker of the House of Representatives and the President of the Senate with full information regarding the proposed transaction, including, but not limited to, a description of the particular defense article or articles which would be produced under a licenseor coproduced outside the United States, the estimated value of such production or coproduction, and the probable impact of the proposed transaction on employment and production within the United States.
 
 #### (c) Availability of funds for procurement outside United States
 
@@ -46,21 +46,21 @@ The President shall, to the maximum extent possible and consistent with the purp
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277 struck out par. (1) designation, struck out “the assessment of the Director of the United States Arms Control and Disarmament Agency as to” after “, and (C)”, and struck out par. (2) which read as follows: “Any proposed sale made pursuant to this chapter shall be approved only after consultation with the Director of the United States Arms Control and Disarmament Agency. The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that a sale under this section would be detrimental to the national security of the United States, to recommend to the President that such sale be disapproved.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 struck out par. (1) designation, struck out "the assessment of the Director of the United States Arms Control and Disarmament Agency as to" after ", and (C)", and struck out par. (2) which read as follows: "Any proposed sale made pursuant to this chapter shall be approved only after consultation with the Director of the United States Arms Control and Disarmament Agency. The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that a sale under this section would be detrimental to the national security of the United States, to recommend to the President that such sale be disapproved."
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–236 designated existing provisions as par. (1), redesignated former cls. (1) to (3) as cls. (A) to (C), respectively, amended cl. (C) generally, and added par. (2). Prior to being amended generally, cl. (C) read as follows: “in coordination with the Director of the United States Arms Control and Disarmament Agency, the Director's opinion as to the extent to which such sale might contribute to an arms race, or increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–236 designated existing provisions as par. (1), redesignated former cls. (1) to (3) as cls. (A) to (C), respectively, amended cl. (C) generally, and added par. (2). Prior to being amended generally, cl. (C) read as follows: "in coordination with the Director of the United States Arms Control and Disarmament Agency, the Director's opinion as to the extent to which such sale might contribute to an arms race, or increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements."
 
 <b>1986</b>—Subsec. (e)(1), (3). Pub. L. 99–661 repealed section 1102(a)(4) of Pub. L. 99–145 and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
 
 <b>1985</b>—Subsec. (e)(1), (3). Pub. L. 99–83 inserted reference to contracts under section 2767(d) of this title.
 
-Pub. L. 99–145, §1102(a)(4), which enacted amendments similar to those provided in Pub. L. 99–83, was repealed. See 1986 Amendments note below and former section 1102(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
+Pub. L. 99–145, §1102(a)(4), which enacted amendments similar to those provided in Pub. L. 99–83, was repealed.See 1986 Amendments note below and former section 1102(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
 
-<b>1982</b>—Subsecs. (d)(1), (e)(1), (3)(A). Pub. L. 97–392 substituted “2769 and 2770” for “and 2769”.
+<b>1982</b>—Subsecs. (d)(1), (e)(1), (3)(A). Pub. L. 97–392 substituted "2769 and 2770" for "and 2769".
 
 <b>1980</b>—Subsecs. (d)(1), (e)(1), (3). Pub. L. 96–533, §105(e)(3), inserted reference to section 2769 of this title.
 
@@ -70,7 +70,7 @@ Subsec. (f). Pub. L. 94–329, §605(b), added subsec. (f).
 
 <b>1975</b>—Subsec. (a)(3). Pub. L. 94–141 inserted provision relating to coordination with the Director of the United States Arms Control and Disarmament Agency.
 
-<b>1972</b>—Subsec. (a). Pub. L. 92–226, §401(e), (f)(1), added cl. (3) and inserted “, subject to the provisions of subsection (b) of this section,” before “consideration shall also be given”, respectively.
+<b>1972</b>—Subsec. (a). Pub. L. 92–226, §401(e), (f)(1), added cl. (3) and inserted ", subject to the provisions of subsection (b) of this section," before "consideration shall also be given", respectively.
 
 Subsecs. (b) to (d). Pub. L. 92–226, §401(f)(2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d).
 
@@ -84,5 +84,5 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under subsecs. (c) and (f) of this section delegated to Secretary of Defense, with concurrence of Secretary of State and Secretary of the Treasury required for any determination proposed under subsec. (c) of this section, by section 1(p) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of functions of the President under subsecs. (c) and (f) of this section, with certain conditions, see section 1(r) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 

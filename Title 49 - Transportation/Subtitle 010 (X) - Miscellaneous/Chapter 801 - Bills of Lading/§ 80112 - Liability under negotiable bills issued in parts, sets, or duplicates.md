@@ -6,7 +6,7 @@ Parts and Sets.—A negotiable bill of lading issued in a State for the transpor
 
 (b)
 
-Duplicates.—When at least 2 negotiable bills of lading are issued in a State for the same goods to be transported to a place in the 48 contiguous States or the District of Columbia, the word “duplicate” or another word indicating that the bill is not an original must be put plainly on the face of each bill except the original. A common carrier violating this subsection is liable for damages caused by the violation to a purchaser of the bill for value in good faith as an original bill even though the purchase occurred after the carrier delivered the goods to the holder of the original bill.
+Duplicates.—When at least 2 negotiable bills of lading are issued in a State for the same goods to be transported to a place in the 48 contiguous States or the District of Columbia, the word "duplicate" or another word indicating that the bill is not an original must be put plainly on the face of each bill except the original. A common carrier violating this subsection is liable for damages caused by the violation to a purchaser of the bill for value in good faith as an original bill even though the purchase occurred after the carrier delivered the goods to the holder of the original bill.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1351.)
 
@@ -30,7 +30,7 @@ Aug. 29, 1916, ch. 415, §§4, 5, 39 Stat. 539.
 
 49 App.:85.
 
-In this section, the words “48 contiguous States or the District of Columbia” are substituted for “United States on the Continent of North America, except Alaska and Panama” and the text of 49 App.:84 (proviso) and 85 (proviso) for clarity.
+In this section, the words "48 contiguous States or the District of Columbia" are substituted for "United States on the Continent of North America, except Alaska and Panama" and the text of 49 App.:84 (proviso) and 85 (proviso) for clarity.
 
-In subsection (a), the words “If so issued” and “described therein” are omitted as surplus. The word “occurred” is added for clarity.
+In subsection (a), the words "If so issued" and "described therein" are omitted as surplus. The word "occurred" is added for clarity.
 

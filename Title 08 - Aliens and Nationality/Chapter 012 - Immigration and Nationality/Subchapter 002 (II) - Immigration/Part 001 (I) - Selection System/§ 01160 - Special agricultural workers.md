@@ -208,7 +208,7 @@
 
 &emsp;No application fees collected by the Service pursuant to this subsection may be used by the Service to offset the costs of the special agricultural worker legalization program until the Service implements the program consistent with the statutory mandate as follows:
 
-&emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) of this section the Service may grant temporary admission to the United States, work authorization,and provide an “employment authorized” endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status under subsection (a) of this section at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
+&emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) of this section the Service may grant temporary admission to the United States, work authorization, and provide an “employment authorized” endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status under subsection (a) of this section at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
 
 &emsp;&emsp;(B) During the application period described in subsection (a)(1)(A) of this section any alien who has filed an application for adjustment of status within the United States as provided in subsection (b)(1)(A) of this section pursuant to the provision of 8 CFR section 210.1(j) is subject to paragraph (2) of this subsection.
 
@@ -238,7 +238,7 @@
 
 #### (B) Standard for judicial review
 
-&emsp;&emsp;Such judicial review shall be based solely upon the administrative record established at the time of the review by the appellate authority and the findings of fact and determinations contained in such record shall be conclusive unless the applicant can establish abuse of discretion or that the findings are directly contrary to clear and convincing facts contained in the record considered as a whole.
+&emsp;&emsp;Such judicial review shall be based solely upon the administrative record establishedat the time of the review by the appellate authority and the findings of fact and determinations contained in such record shall be conclusive unless the applicant can establish abuse of discretion or that the findings are directly contrary to clear and convincing facts contained in the record considered as a whole.
 
 #### (f) Temporary disqualification of newly legalized aliens from receiving aid to families with dependent children
 
@@ -288,7 +288,7 @@ Subsec. (d)(3)(B). Pub. L. 103–416, §219(z)(7), made technical correction to 
 
 Subsec. (d)(3). Pub. L. 102–232, §309(b)(6)(A)–(C), realigned margins of par. (3) and its subparagraphs, and in introductory provisions substituted “Service” for “the Immigration and Naturalization Service (INS)” and “Service” for “INS” in two places.
 
-Subsec. (d)(3)(A). Pub. L. 102–232, §309(b)(6)(D), (E), substituted “period described in” for “period as defined in” and “Service” for “INS”, and made technical amendment to reference to this chapter involving corresponding provision of original act.
+Subsec. (d)(3)(A). Pub. L. 102–232, §309(b)(6)(D), (E), substituted “period described in” for “period as defined in” and “Service” for “INS”, and made technicalamendment to reference to this chapter involving corresponding provision of original act.
 
 Subsec. (d)(3)(B). Pub. L. 102–232, §309(b)(6)(F), as amended by Pub. L. 103–416, §219(z)(7), substituted “described in subsection (a)(1)(A)” for “as defined in subsection (a)(B)(1)(B)”.
 
@@ -338,7 +338,7 @@ Pub. L. 102–232, title III, §307(j), Dec. 12, 1991, 105 Stat. 1756, provided 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–649 applicable to applications for adjustment of status made on or after June 1,1991, see section 601(e)(2) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 101–649 applicable to applications for adjustment of status made on or after June 1, 1991, see section 601(e)(2) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1988 Amendment
 

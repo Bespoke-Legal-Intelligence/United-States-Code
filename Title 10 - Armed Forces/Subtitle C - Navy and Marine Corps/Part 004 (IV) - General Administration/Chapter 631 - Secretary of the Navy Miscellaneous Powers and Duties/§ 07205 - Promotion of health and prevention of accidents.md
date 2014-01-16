@@ -42,15 +42,15 @@ Aug. 2, 1946, ch. 756, §40(b), (c), 60 Stat. 858.
 
 Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
-In subsection (a) the word “maintenance” is omitted as surplusage.
+In subsection (a) the word "maintenance" is omitted as surplusage.
 
-In subsection (b) the words “except the authority to prescribe regulations” are omitted, since 5 U.S.C. 421e(b) contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
+In subsection (b) the words "except the authority to prescribe regulations" are omitted, since 5 U.S.C. 421e(b) contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a)(4). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+<b>1980</b>—Subsec. (a)(4). Pub. L. 96–513 substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration".
 
-<b>1966</b>—Subsec. (a)(4). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+<b>1966</b>—Subsec. (a)(4). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey".
 
 #### Effective Date of 1980 Amendment
 

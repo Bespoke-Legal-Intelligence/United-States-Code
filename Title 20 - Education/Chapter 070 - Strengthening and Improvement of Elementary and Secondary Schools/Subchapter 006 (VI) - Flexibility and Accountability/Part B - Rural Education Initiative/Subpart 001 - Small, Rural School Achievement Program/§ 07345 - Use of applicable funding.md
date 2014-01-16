@@ -40,7 +40,7 @@
 
 #### (c) Applicable funding defined
 
-In this section, the term “applicable funding” means funds provided under any of the following provisions:
+In this section, the term "applicable funding" means funds provided under any of the following provisions:
 
 &emsp;(1) Subpart 2 of this part and section 6762(a)(2)(A) of this title.
 

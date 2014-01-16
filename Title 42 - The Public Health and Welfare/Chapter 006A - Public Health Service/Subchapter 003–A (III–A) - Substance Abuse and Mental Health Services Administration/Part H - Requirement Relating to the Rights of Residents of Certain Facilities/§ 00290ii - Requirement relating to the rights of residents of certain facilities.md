@@ -22,7 +22,7 @@ In this section:
 
 #### (1) Restraints
 
-&emsp;The term “restraints” means—
+&emsp;The term "restraints" means—
 
 &emsp;&emsp;(A) any physical restraint that is a mechanical or personal restriction that immobilizes or reduces the ability of an individual to move his or her arms, legs, or head freely, not including devices, such as orthopedically prescribed devices, surgical dressings or bandages, protective helmets, or any other methods that involves the physical holding of a resident for the purpose of conducting routine physical examinations or tests or to protect the resident from falling out of bed or to permit the resident to participate in activities without the risk of physical harm to the resident (such term does not include a physical escort); and
 
@@ -30,15 +30,15 @@ In this section:
 
 #### (2) Seclusion
 
-&emsp;The term “seclusion” means a behavior control technique involving locked isolation. Such term does not include a time out.
+&emsp;The term "seclusion" means a behavior control technique involving locked isolation. Such term does not include a time out.
 
 #### (3) Physical escort
 
-&emsp;The term “physical escort” means the temporary touching or holding of the hand, wrist, arm, shoulder or back for the purpose of inducing a resident who is acting out to walk to a safe location.
+&emsp;The term "physical escort" means the temporary touching or holding of the hand, wrist, arm, shoulder or back for the purpose of inducing a resident who is acting out to walk to a safe location.
 
 #### (4) Time out
 
-&emsp;The term “time out” means a behavior management technique that is part of an approved treatment program and may involve the separation of the resident from the group, in a non-locked setting, for the purpose of calming. Time out is not seclusion.
+&emsp;The term "time out" means a behavior management technique that is part of an approved treatment program and may involve the separation of the resident from the group, in a non-locked setting, for the purpose of calming. Time out is not seclusion.
 
 (July 1, 1944, ch. 373, title V, §591, as added Pub. L. 106–310, div. B, title XXXII, §3207, Oct. 17, 2000, 114 Stat. 1195.)
 

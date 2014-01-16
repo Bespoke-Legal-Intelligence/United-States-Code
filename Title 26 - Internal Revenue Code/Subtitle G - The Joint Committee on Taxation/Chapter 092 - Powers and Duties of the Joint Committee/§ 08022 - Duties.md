@@ -42,21 +42,21 @@ It shall be the duty of the Joint Committee—
 
 #### Amendments
 
-<b>2004</b>—Par. (3)(C). Pub. L. 108–311 substituted “2005” for “2004” and “with respect to the matters addressed in the joint review referred to in section 8021(f)(2).” for “with respect to—
+<b>2004</b>—Par. (3)(C). Pub. L. 108–311 substituted "2005" for "2004" and "with respect to the matters addressed in the joint review referred to in section 8021(f)(2)." for "with respect to—
 
-&emsp;“(i) strategic and business plans for the Internal Revenue Service;
+&emsp;"(i) strategic and business plans for the Internal Revenue Service;
 
-&emsp;“(ii) progress of the Internal Revenue Service in meeting its objectives;
+&emsp;"(ii) progress of the Internal Revenue Service in meeting its objectives;
 
-&emsp;“(iii) the budget for the Internal Revenue Service and whether it supports its objectives;
+&emsp;"(iii) the budget for the Internal Revenue Service and whether it supports its objectives;
 
-&emsp;“(iv) progress of the Internal Revenue Service in improving taxpayer service and compliance;
+&emsp;"(iv) progress of the Internal Revenue Service in improving taxpayer service and compliance;
 
-&emsp;“(v) progress of the Internal Revenue Service on technology modernization; and
+&emsp;"(v) progress of the Internal Revenue Service on technology modernization; and
 
-&emsp;“(vi) the annual filing season.”
+&emsp;"(vi) the annual filing season."
 
-<b>1998</b>—Par. (3). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “To report, from time to time, to the Committee on Finance and the Committee on Ways and Means, and, in its discretion, to the Senate or the House of Representatives, or both, the results of its investigations, together with such recommendation as it may deem advisable.”
+<b>1998</b>—Par. (3). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "To report, from time to time, to the Committee on Finance and the Committee on Ways and Means, and, in its discretion, to the Senate or the House of Representatives, or both, the results of its investigations, together with such recommendation as it may deem advisable."
 
 #### Change of Name
 
@@ -66,51 +66,51 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title IV, §4002(b), July 22, 1998, 112 Stat. 784, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title IV, §4002(b), July 22, 1998, 112 Stat. 784, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Analysis To Accompany Certain Legislation
 
 Pub. L. 105–206, title IV, §4022(b), July 22, 1998, 112 Stat. 785, provided that:
 
-“(1)
+"(1)
 
 In general.—The Joint Committee on Taxation, in consultation with the Internal Revenue Service and the Department of the Treasury, shall include a tax complexity analysis in each report for legislation, or provide such analysis to members of the committee reporting the legislation as soon as practicable after the report is filed, if—
 
-&emsp;“(A) such legislation is reported by the Committee on Finance in the Senate, the Committee on Ways and Means of the House of Representatives, or any committee of conference; and
+&emsp;"(A) such legislation is reported by the Committee on Finance in the Senate, the Committee on Ways and Means of the House of Representatives, or any committee of conference; and
 
-&emsp;“(B) such legislation includes a provision which would directly or indirectly amend the Internal Revenue Code of 1986 and which has widespread applicability to individuals or small businesses.
+&emsp;"(B) such legislation includes a provision which would directly or indirectly amend the Internal Revenue Code of 1986 and which has widespread applicability to individuals or small businesses.
 
-“(2)
+"(2)
 
-Tax complexity analysis.—For purposes of this subsection, the term ‘tax complexity analysis’ means, with respect to any legislation, a report on the complexity and administrative difficulties of each provision described in paragraph (1)(B) which—
+Tax complexity analysis.—For purposes of this subsection, the term 'tax complexity analysis' means, with respect to any legislation, a report on the complexity and administrative difficulties of each provision described in paragraph (1)(B) which—
 
-&emsp;“(A) includes—
+&emsp;"(A) includes—
 
-&emsp;&emsp;“(i) an estimate of the number of taxpayers affected by the provision; and
+&emsp;&emsp;"(i) an estimate of the number of taxpayers affected by the provision; and
 
-&emsp;&emsp;“(ii) if applicable, the income level of taxpayers affected by the provision; and
+&emsp;&emsp;"(ii) if applicable, the income level of taxpayers affected by the provision; and
 
-&emsp;“(B) should include (if determinable)—
+&emsp;"(B) should include (if determinable)—
 
-&emsp;&emsp;“(i) the extent to which tax forms supplied by the Internal Revenue Service would require revision and whether any new forms would be required;
+&emsp;&emsp;"(i) the extent to which tax forms supplied by the Internal Revenue Service would require revision and whether any new forms would be required;
 
-&emsp;&emsp;“(ii) the extent to which taxpayers would be required to keep additional records;
+&emsp;&emsp;"(ii) the extent to which taxpayers would be required to keep additional records;
 
-&emsp;&emsp;“(iii) the estimated cost to taxpayers to comply with the provision;
+&emsp;&emsp;"(iii) the estimated cost to taxpayers to comply with the provision;
 
-&emsp;&emsp;“(iv) the extent to which enactment of the provision would require the Internal Revenue Service to develop or modify regulatory guidance;
+&emsp;&emsp;"(iv) the extent to which enactment of the provision would require the Internal Revenue Service to develop or modify regulatory guidance;
 
-&emsp;&emsp;“(v) the extent to which the provision may result in disagreements between taxpayers and the Internal Revenue Service; and
+&emsp;&emsp;"(v) the extent to which the provision may result in disagreements between taxpayers and the Internal Revenue Service; and
 
-&emsp;&emsp;“(vi) any expected impact on the Internal Revenue Service from the provision (including the impact on internal training, revision of the Internal Revenue Manual, reprogramming of computers, and the extent to which the Internal Revenue Service would be required to divert or redirect resources in response to the provision).
+&emsp;&emsp;"(vi) any expected impact on the Internal Revenue Service from the provision (including the impact on internal training, revision of the Internal Revenue Manual, reprogramming of computers, and the extent to which the Internal Revenue Service would be required to divert or redirect resources in response to the provision).
 
-“(3)
+"(3)
 
 Legislation subject to point of order in house of representatives.—\[Amended the Rules of the House of Representatives, which are not classified to the Code.\]
 
-“(4)
+"(4)
 
-Effective date.—This subsection shall apply to legislation considered on and after January 1, 1999.”
+Effective date.—This subsection shall apply to legislation considered on and after January 1, 1999."
 
 #### Tax Revision Study
 

@@ -6,7 +6,7 @@ Delivery on Court Order and Surety Bond.—If a negotiable bill of lading is los
 
 (b)
 
-Liability to Holder.—Delivery of goods under a court order under subsection (a) of this section does not relieve a common carrier from liability to a person to whom the negotiable billhas been or is negotiated for value without notice of the court proceeding or of the delivery of the goods.
+Liability to Holder.—Delivery of goods under a court order under subsection (a) of this section does not relieve a common carrier from liability to a person to whom the negotiable bill has been or is negotiated for value without notice of the court proceeding or of the delivery of the goods.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1352.)
 
@@ -30,5 +30,5 @@ Aug. 29, 1916, ch. 415, §14, 39 Stat. 540.
 
 49 App.:94 (last par.).
 
-In subsection (a), the word “If” is substituted for “Where” for clarity. The words “upon satisfactory proof of such loss, theft, or destruction” are omitted as unnecessary. The words “if the person claiming the goods gives a surety bond” are substituted for “and upon the giving of a bond, with sufficient surety” to clarify the condition precedent to court approval of delivery. The words “in an amount” are added for clarity. The word “indemnify” is substituted for “protect” because it is more accurate. The words “against liability under the outstanding original bill” are substituted for “from any liability or loss incurred by reason of the original bill remaining outstanding” for clarity. The words “surety bond” are substituted for “indemnifying bond” for consistency in this section.
+In subsection (a), the word "If" is substituted for "Where" for clarity. The words "upon satisfactoryproof of such loss, theft, or destruction" are omitted as unnecessary. The words "if the person claiming the goods gives a surety bond" are substituted for "and upon the giving of a bond, with sufficient surety" to clarify the condition precedent to court approval of delivery. The words "in an amount" are added for clarity. The word "indemnify" is substituted for "protect" because it is more accurate. The words "against liability under the outstanding original bill" are substituted for "from any liability or loss incurred by reason of the original bill remaining outstanding" for clarity. The words "surety bond" are substituted for "indemnifying bond" for consistency in this section.
 

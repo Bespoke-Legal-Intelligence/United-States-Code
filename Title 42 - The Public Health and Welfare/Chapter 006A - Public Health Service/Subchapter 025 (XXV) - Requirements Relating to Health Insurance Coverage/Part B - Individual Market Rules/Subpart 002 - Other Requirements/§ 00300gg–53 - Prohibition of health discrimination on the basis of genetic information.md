@@ -54,7 +54,7 @@
 
 &emsp;Notwithstanding paragraph (1), a health insurance issuer offering health insurance coverage in the individual market may request, but not require, that an individual or a family member of such individual undergo a genetic test if each of the following conditions is met:
 
-&emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
+&emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45,Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 
 &emsp;&emsp;(B) The issuer clearly indicates to each individual, or in the case of a minor child, to the legal guardian of such child, to whom the request is made that—
 
@@ -110,5 +110,5 @@ Section applicable, with respect to group health plans and health insurance cove
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subsections”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subsections".</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Grant program authorized
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, is authorized to award grants to States for the purpose of helping States develop and implement innovative programs to address the dental workforce needs of designated dental health professional shortage areas in a manner that is appropriate to the States’ individual needs.
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, is authorized to award grants to States for the purpose of helping States develop and implement innovative programs to address the dental workforce needs of designated dental health professional shortage areas in a manner that is appropriate to the States' individual needs.
 
 #### (b) State activities
 
@@ -16,7 +16,7 @@ A State receiving a grant under subsection (a) of this section may use funds rec
 
 &emsp;&emsp;(C) agree to—
 
-&emsp;&emsp;&emsp;(i) provide services to patients regardless of such patients’ ability to pay; and
+&emsp;&emsp;&emsp;(i) provide services to patients regardless of such patients' ability to pay; and
 
 &emsp;&emsp;&emsp;(ii) use a sliding payment scale for patients who are unable to pay the total cost of services;
 
@@ -46,7 +46,7 @@ A State receiving a grant under subsection (a) of this section may use funds rec
 
 &emsp;(11) the establishment of faculty recruitment programs at accredited dental training institutions whose mission includes community outreach and service and that have a demonstrated record of serving underserved States;
 
-&emsp;(12) the development of a State dental officer position or the augmentation of a State dentaloffice to coordinate oral health and access issues in the State; and
+&emsp;(12) the development of a State dental officer position or the augmentation of a State dental office to coordinate oral health and access issues in the State; and
 
 &emsp;(13) any other activities determined to be appropriate by the Secretary.
 
@@ -76,9 +76,9 @@ There is authorized to be appropriated to carry out this section, $25,000,000 fo
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended.Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–355 substituted “$25,000,000” for “$50,000,000” and “2008” for “2002”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–355 substituted "$25,000,000" for "$50,000,000" and "2008" for "2002".
 

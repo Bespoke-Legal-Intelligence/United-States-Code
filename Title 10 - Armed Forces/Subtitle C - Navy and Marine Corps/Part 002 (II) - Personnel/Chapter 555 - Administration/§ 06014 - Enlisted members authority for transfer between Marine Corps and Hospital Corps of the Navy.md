@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 34 U.S.C. 34 (proviso of 2d sentence).
 
-Aug. 29, 1916, ch. 417 (proviso of 2d sentence in 1st paragraph under “Hospital Corps”), 39 Stat. 572; Aug. 4, 1947, ch. 459, §301(a), 61 Stat. 738.
+Aug. 29, 1916, ch. 417 (proviso of 2d sentence in 1st paragraph under "Hospital Corps"), 39 Stat. 572; Aug. 4, 1947, ch. 459, §301(a), 61 Stat. 738.
 
 &nbsp;
 

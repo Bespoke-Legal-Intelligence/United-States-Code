@@ -12,7 +12,7 @@ Prior provisions on the subject of this section were formerly contained in secti
 
 <b>1964</b>—Pub. L. 88–560 authorized investment of funds in participations and other instruments which are lawful investments.
 
-<b>1961</b>—Pub. L. 87–70 inserted “or other security holdings” after “mortgages”.
+<b>1961</b>—Pub. L. 87–70 inserted "or other security holdings" after "mortgages".
 
-<b>1959</b>—Pub. L. 86–372 substituted “in obligations of the United States or guaranteed thereby, or in obligations which are lawful investments for fiduciary, trust, or public funds” for “in bonds or other obligations of, or in bonds or other obligations guaranteed as to principal and interest by, the United States”.
+<b>1959</b>—Pub. L. 86–372 substituted "in obligations of the United States or guaranteed thereby, or in obligations which are lawful investments for fiduciary, trust, or public funds" for "in bonds or other obligations of, or in bonds or other obligations guaranteed as to principal and interest by, the United States".
 

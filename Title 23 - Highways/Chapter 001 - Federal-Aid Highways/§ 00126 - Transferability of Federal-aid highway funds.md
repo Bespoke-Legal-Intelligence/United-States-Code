@@ -26,7 +26,7 @@ A prior section 126, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 93�
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to uniform transferability of Federal-aid highway funds.
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59, which directed insertion of “under” after “State's apportionment”, was executed by making the insertion after “State's apportionment” the second place it appeared, to reflect the probable intent of Congress.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, which directed insertion of "under" after "State's apportionment", was executed by making the insertion after "State's apportionment" the second place it appeared, to reflect the probable intent of Congress.
 
 <b>1999</b>—Pub. L. 106–159 renumbered section 110 of this title as this section.
 

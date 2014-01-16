@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 270 days after January 4, 2011, the Secretary of Health and Human Services (referred to in this section as the “Secretary”), taking into account recommendations from the Secretary of Agriculture and representatives of State departments of health and agriculture, shall establish pilot projects in coordination with the food industry to explore and evaluate methods to rapidly and effectively identify recipients of food to prevent or mitigate a foodborne illness outbreak and to address credible threats of serious adverse health consequences or death to humans or animals as a result of such food being adulterated under section 342 of this title or misbranded under section 343(w) of this title.
+&emsp;Not later than 270 days after January 4, 2011, the Secretary of Health and Human Services (referred to in this section as the "Secretary"), taking into account recommendations from the Secretary of Agriculture and representatives of State departments of health and agriculture, shall establish pilot projects in coordination with the food industry to explore and evaluate methods to rapidly and effectively identify recipients of food to prevent or mitigate a foodborne illness outbreak and to address credible threats of serious adverse health consequences or death to humans or animals as a result of such food being adulterated under section 342 of this title or misbranded under section 343(w) of this title.
 
 #### (2) Content
 
@@ -44,7 +44,7 @@
 
 #### (c) Product tracing system
 
-The Secretary, in consultation with the Secretary of Agriculture, shall, as appropriate, establish within the Food and Drug Administration a product tracing system to receive information that improves the capacity of the Secretary to effectively and rapidly track and trace food that is in the United States or offered for import into the United States. Prior to the establishment of such product tracing system, the Secretary shall examine the results of applicable pilot projects and shall ensure that the activities of such system are adequately supported by the results of such pilot projects.
+The Secretary, in consultation with the Secretary of Agriculture, shall, as appropriate, establish within the Food and Drug Administration a product tracing system to receive information that improves the capacity of the Secretary to effectively and rapidly track and tracefood that is in the United States or offered for import into the United States. Prior to the establishment of such product tracing system, the Secretary shall examine the results of applicable pilot projects and shall ensure that the activities of such system are adequately supported by the results of such pilot projects.
 
 #### (d) Additional recordkeeping requirements for high risk foods
 
@@ -92,7 +92,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 &emsp;&emsp;&emsp;(i) the known safety risks of a particular food, including the history and severity of foodborne illness outbreaks attributed to such food, taking into consideration foodborne illness data collected by the Centers for Disease Control and Prevention;
 
-&emsp;&emsp;&emsp;(ii) the likelihood that a particular food has a high potential risk for microbiological or chemical contamination or would support the growth of pathogenicmicroorganisms due to the nature of the food or the processes used to produce such food;
+&emsp;&emsp;&emsp;(ii) the likelihood that a particular food has a high potential risk for microbiological or chemical contamination or would support the growth of pathogenic microorganisms due to the nature of the food or the processes used to produce such food;
 
 &emsp;&emsp;&emsp;(iii) the point in the manufacturing process of the food where contamination is most likely to occur;
 
@@ -152,11 +152,11 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 &emsp;&emsp;&emsp;For the purposes of this subparagraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) the term “commingled raw agricultural commodity” means any commodity that is combined or mixed after harvesting, but before processing;
+&emsp;&emsp;&emsp;&emsp;(I) the term "commingled raw agricultural commodity" means any commodity that is combined or mixed after harvesting, but before processing;
 
-&emsp;&emsp;&emsp;&emsp;(II) the term “commingled raw agricultural commodity” shall not include types of fruits and vegetables that are raw agricultural commodities for which the Secretary has determined that standards promulgated under section 350h of this title (as added by section 105) <sup>2</sup> would minimize the risk of serious adverse health consequences or death; and
+&emsp;&emsp;&emsp;&emsp;(II) the term "commingled raw agricultural commodity" shall not include types of fruits and vegetables that are raw agricultural commodities for which the Secretary has determined that standards promulgated under section 350h of this title (as added by section 105) <sup>2</sup> would minimize the risk of serious adverse health consequences or death; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the term “processing” means operations that alter the general state of the commodity, such as canning, cooking, freezing, dehydration, milling, grinding, pasteurization, or homogenization.
+&emsp;&emsp;&emsp;&emsp;(III) the term "processing" means operations that alter the general state of the commodity, such as canning, cooking, freezing, dehydration, milling, grinding, pasteurization, or homogenization.
 
 #### (E) Exemption of other foods
 
@@ -168,7 +168,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 #### (G) Grocery stores
 
-&emsp;&emsp;With respect to a sale of a food described in subparagraph (H) to a grocery store, the Secretary shall not require such grocery store to maintain records under this subsection other than records documenting the farm that was the source of such food. The Secretary shall not require that such records be kept for more than 180 days.
+&emsp;&emsp;With respect to a sale of a food described in subparagraph (H) to a grocery store, theSecretary shall not require such grocery store to maintain records under this subsection other than records documenting the farm that was the source of such food. The Secretary shall not require that such records be kept for more than 180 days.
 
 #### (H) Farm sales to consumers
 
@@ -214,7 +214,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 #### (2) Manner of request
 
-&emsp;In making a request under paragraph (1), the Secretary, in consultation and coordination with State and local agencies responsible for food safety, as appropriate, shall issue a written notice to the owner, operator, or agent of the farm to which the article of food has been traced. The individual providing such noticeshall present to such owner, operator, or agent appropriate credentials and shall deliver such notice at reasonable times and within reasonable limits and in a reasonable manner.
+&emsp;In making a request under paragraph (1), the Secretary, in consultation and coordination with State and local agencies responsible for food safety, as appropriate, shall issue a written notice to the owner, operator, or agent of the farm to which the article of food has been traced. The individual providing such notice shall present to such owner, operator, or agent appropriate credentials and shall deliver such notice at reasonable times and within reasonable limits and in a reasonable manner.
 
 #### (3) Delivery of information requested
 
@@ -250,15 +250,15 @@ Notwithstanding any other provision of law, the regulations promulgated under su
 
 Section 105, referred to in subsec. (d)(6)(D)(ii)(II), means section 105 of Pub. L. 111–353.
 
-Section 350g of this title, referred to in subsec. (i), was in the original “section 103”, meaning section 103 of Pub. L. 111–353, which enacted section 350g of this title, amended section 331 of this title, and enacted provisions set out as notes under sections 342, 350d, and 350g of this title, and was translated as section 350g of this title to reflect the probable intent of Congress because section 350g(n) of this title directs the Secretary of Health and Human Services to define “small business” and “very small business”.
+Section 350g of this title, referred to in subsec. (i), was in the original "section 103", meaning section 103 of Pub. L. 111–353, which enacted section 350g of this title, amended section 331 of this title, and enacted provisions set out as notes under sections 342, 350d, and 350g of this title, and was translated as section 350g of this title to reflect the probable intent of Congress because section 350g(n) of this title directs the Secretary of Health and Human Services to define "small business" and "very small business".
 
 #### Codification
 
 Section is comprised of section 204 of Pub. L. 111–353. Subsec. (j) of section 204 of Pub. L. 111–353 amended sections 331 and 381 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “title”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "title".</i>
 

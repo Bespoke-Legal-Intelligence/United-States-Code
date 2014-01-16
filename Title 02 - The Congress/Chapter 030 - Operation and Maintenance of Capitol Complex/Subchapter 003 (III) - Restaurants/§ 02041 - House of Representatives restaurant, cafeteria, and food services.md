@@ -14,7 +14,7 @@ All authority, responsibility, and functions vested in or imposed upon the Archi
 
 #### (d) Effective date
 
-The provisions of this section shall become effective on the first day of the first calendarmonth beginning after the date of adoption of this resolution, until otherwise provided by law.
+The provisions of this section shall become effective on the first day of the first calendar month beginning after the date of adoption of this resolution, until otherwise provided by law.
 
 (Pub. L. 92–51, July 9, 1971, 85 Stat. 133; Pub. L. 104–186, title II, §221(3)(A), Aug. 20, 1996, 110 Stat. 1748.)
 

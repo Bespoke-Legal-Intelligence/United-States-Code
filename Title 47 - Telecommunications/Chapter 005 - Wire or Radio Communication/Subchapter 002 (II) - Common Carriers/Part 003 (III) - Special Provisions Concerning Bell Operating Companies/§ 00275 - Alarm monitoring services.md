@@ -26,15 +26,15 @@ The Commission shall establish procedures for the receipt and review of complain
 
 A local exchange carrier may not record or use in any fashion the occurrence or contents of calls received by providers of alarm monitoring services for the purposes of marketing such services on behalf of such local exchange carrier, or any other entity. Any regulations necessary to enforce this subsection shall be issued initially within 6 months after February 8, 1996.
 
-#### (e) “Alarm monitoring service” defined
+#### (e) "Alarm monitoring service" defined
 
-The term “alarm monitoring service” means a service that uses a device located at a residence, place of business, or other fixed premises—
+The term "alarm monitoring service" means a service that uses a device located at a residence, place of business, or other fixed premises—
 
 &emsp;(1) to receive signals from other devices located at or about such premises regarding a possible threat at such premises to life, safety, or property, from burglary, fire, vandalism, bodily injury, or other emergency, and
 
-&emsp;(2) to transmit a signal regarding such threat by means of transmission facilities of a local exchange carrier or one of its affiliates to a remote monitoring center to alert a person at such center of the need to inform the customer or another person or police, fire, rescue, security, or public safety personnel of such threat,
+&emsp;(2) to transmit a signal regarding such threat by means of transmission facilities of alocal exchange carrier or one of its affiliates to a remote monitoring center to alert a person at such center of the need to inform the customer or another person or police, fire, rescue, security, or public safety personnel of such threat,
 
-> but does not include a service that uses a medical monitoring device attached to an individualfor the automatic surveillance of an ongoing medical condition.
+> but does not include a service that uses a medical monitoring device attached to an individual for the automatic surveillance of an ongoing medical condition.
 
 (June 19, 1934, ch. 652, title II, §275, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 110 Stat. 105.)
 

@@ -24,7 +24,7 @@ If the Secretary makes a determination under subsection (a) of this section that
 
 &emsp;(A) The United States hereby approves any transfer, waiver, release, relinquishment, or other commitment carried out pursuant to paragraph (1).
 
-&emsp;(B) A transfer made pursuant to paragraph (1) shall be deemed to have been made in accordance with all provisions of Federal law that specifically apply to transfers of lands or natural resources from, by, or on behalf of an Indian, Indian nation, or tribe of Indians (including the Act popularly known as the “Trade and Intercourse Act of 1790”; section 4 of the Act of July 22, 1790 (1 Stat. 137, chapter 33)). The approval of the United States made pursuant to subparagraph (A) shall apply to the transfer beginning on the date of the transfer.
+&emsp;(B) A transfer made pursuant to paragraph (1) shall be deemed to have been made in accordance with all provisions of Federal law that specifically apply to transfers of lands or natural resources from, by, or on behalf of an Indian, Indian nation, or tribe of Indians (including the Act popularly known as the "Trade and Intercourse Act of 1790"; section 4 of the Act of July 22, 1790 (1 Stat. 137, chapter 33)). The approval of the United States made pursuant to subparagraph (A) shall apply to the transfer beginning on the date of the transfer.
 
 #### (d) Extinguishment of claims
 
@@ -44,11 +44,11 @@ If the Secretary makes a determination under subsection (a) of this section that
 
 #### (2) Approval by the United States
 
-&emsp;An extinguishment made pursuant to this subsection shall be deemed to have been made in accordance with all provisions of Federal law that specifically apply to transfers of lands or natural resources from, by, or on behalf of an Indian, Indian nation, or tribe of Indians (including the Act popularly known as the “Trade and Intercourse Act of 1790”; section 4 of the Act of July 22, 1790 (1 Stat. 137, chapter 33)).
+&emsp;An extinguishment made pursuant to this subsection shall be deemed to have been made in accordance with all provisions of Federal law that specifically apply to transfers of lands or natural resources from, by, or on behalf of an Indian, Indian nation, or tribe of Indians (including the Act popularly known as the "Trade and Intercourse Act of 1790"; section 4 of the Act of July 22, 1790 (1 Stat. 137, chapter 33)).
 
 #### (e) Transfers
 
-Subject to subsection (g) of this section, any transfer of lands or natural resources located within the State of Connecticut, including any such transfer made pursuant to any applicable Federal or State law (including any applicable treaty), made by, from, or on behalf of the Mohegan Tribe or any predecessor or successor in interest of the Mohegan Tribe shall be deemed to be in full force and effect, as provided in subsection (c)(1) of this section.
+Subject to subsection (g) of this section, any transfer of lands or natural resources locatedwithin the State of Connecticut, including any such transfer made pursuant to any applicable Federal or State law (including any applicable treaty), made by, from, or on behalf of the Mohegan Tribe or any predecessor or successor in interest of the Mohegan Tribe shall be deemed to be in full force and effect, as provided in subsection (c)(1) of this section.
 
 #### (f) Limitation
 

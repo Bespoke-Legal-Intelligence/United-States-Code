@@ -34,13 +34,13 @@ Section 13108 sets forth the manner that the Secretary shall compute the amounts
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted “section 13104” for “section 13103” in introductory provisions and “section 13106” for “section 13105” in par. (1).
+<b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted "section 13104" for "section 13103" in introductory provisions and "section 13106" for "section 13105" in par. (1).
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–324 substituted “preceding” for “proceeding” and “Secretary” for “Secertary”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–324 substituted "preceding" for "proceeding" and "Secretary" for "Secertary".
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–595 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “During the last quarter of a fiscal year and on the basis of computations made under section 13105 of this title and submitted by the States, the Secretary shall determine the percentage of the amounts available for the next fiscal year to which each eligible State is entitled.”
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–595 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "During the last quarter of a fiscal year and on the basis of computations made under section 13105 of this title and submitted by the States, the Secretary shall determine the percentage of the amounts available for the next fiscal year to which each eligible State is entitled."
 
-<b>1984</b>—Subsec. (c)(1), (2). Pub. L. 98–369 struck out “and facilities improvement” after “boating safety”.
+<b>1984</b>—Subsec. (c)(1), (2). Pub. L. 98–369 struck out "and facilities improvement" after "boating safety".
 
 #### Effective Date of 1984 Amendment
 

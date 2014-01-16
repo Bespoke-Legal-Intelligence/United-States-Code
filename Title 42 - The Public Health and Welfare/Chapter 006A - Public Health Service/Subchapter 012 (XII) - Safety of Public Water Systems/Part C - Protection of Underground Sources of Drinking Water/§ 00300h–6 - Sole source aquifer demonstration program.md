@@ -4,9 +4,9 @@
 
 The purpose of this section is to establish procedures for development, implementation, and assessment of demonstration programs designed to protect critical aquifer protection areas located within areas designated as sole or principal source aquifers under section 300h–3(e) of this title.
 
-#### (b) “Critical aquifer protection area” defined
+#### (b) "Critical aquifer protection area" defined
 
-For purposes of this section, the term “critical aquifer protection area” means either of the following:
+For purposes of this section, the term "critical aquifer protection area" means either of the following:
 
 &emsp;(1) All or part of an area located within an area for which an application or designation as a sole or principal source aquifer pursuant to section 300h–3(e) of this title, has been submitted and approved by the Administrator and which satisfies the criteria established by the Administrator under subsection (d) of this section.
 
@@ -34,7 +34,7 @@ An application submitted to the Administrator by any applicant for a demonstrati
 
 &emsp;(1) The application shall propose boundaries for the critical aquifer protection area within its jurisdiction.
 
-&emsp;(2) The application shall designate or, if necessary, establish a planning entity (which shall be a public agency and which shall include representation of elected local and State governmental officials) to develop a comprehensive management plan (hereinafter in this section referred to as the “plan”) for the critical protection area. Where a local government planning agency exists with adequate authority to carry out this section with respect to any proposed critical protection area, such agency shall be designated as the planning entity.
+&emsp;(2) The application shall designate or, if necessary, establish a planning entity (which shall be a public agency and which shall include representation of elected local and State governmental officials) to develop a comprehensive management plan (hereinafter in this section referred to as the "plan") for the critical protection area. Where a local government planning agency exists with adequate authority to carry out this section with respect to any proposed critical protection area, such agency shall be designated as the planning entity.
 
 &emsp;(3) The application shall establish procedures for public participation in the development of the plan, for review, approval, and adoption of the plan, and for assistance to municipalities and other public agencies with authority under State law to implement the plan.
 
@@ -92,7 +92,7 @@ Within 120 days after receipt of an application under this section, the Administ
 
 #### (j) Grants and reimbursement
 
-Upon entering a cooperative agreement under subsection (i) of this section, the Administrator may provide to the applicant, on a matching basis, a grant of 50 per centum of the costs of implementing the plan established under this section. The Administrator may also reimburse the applicant of an approved plan up to 50 per centum of the costs of developing such plan, except for plans approved under section 208 of the Clean Water Act \[33 U.S.C. 1288\]. The total amount of grants under this section for any one aquifer, designated under section 300h–3(e) of this title, shall not exceed $4,000,000 in any one fiscal year.
+Upon entering a cooperative agreement under subsection (i) of this section, the Administrator may provide to the applicant, on a matching basis, a grant of 50 per centum of the costs of implementing the plan established under this section. The Administrator may also reimburse the applicant of an approved plan up to 50 per centum of the costs of developing such plan, except for plans approved under section 208 of the Clean Water Act \[33 U.S.C. 1288\]. The total amount of grants under this section for any oneaquifer, designated under section 300h–3(e) of this title, shall not exceed $4,000,000 in any one fiscal year.
 
 #### (k) Activities funded under other law
 
@@ -133,13 +133,13 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 
 <b>1996</b>—Pub. L. 104–182, §501(f)(3), made technical amendment to section catchline and subsec. (a) designation.
 
-Subsec. (b)(1). Pub. L. 104–182, §120(a)(1), struck out “not later than 24 months after June 19, 1986,” after “by the Administrator”.
+Subsec. (b)(1). Pub. L. 104–182, §120(a)(1), struck out "not later than 24 months after June 19, 1986," after "by the Administrator".
 
-Subsec. (k). Pub. L. 104–182, §501(b)(2), substituted “this section” for “this subsection”.
+Subsec. (k). Pub. L. 104–182, §501(b)(2), substituted "this section" for "this subsection".
 
 Subsec. (m). Pub. L. 104–182, §120(a)(2), inserted table item relating to fiscal years 1992 through 2003.
 
-<b>1995</b>—Subsecs. (l) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (l) and (m), respectively, and struck out heading and text of former subsec. (l). Text read as follows: “Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary.”
+<b>1995</b>—Subsecs. (l) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (l) and (m), respectively, and struck out heading and text of former subsec. (l). Text read as follows: "Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary."
 
 <b>1986</b>—Subsec. (n). Pub. L. 99–339 added subsec. (n).
 

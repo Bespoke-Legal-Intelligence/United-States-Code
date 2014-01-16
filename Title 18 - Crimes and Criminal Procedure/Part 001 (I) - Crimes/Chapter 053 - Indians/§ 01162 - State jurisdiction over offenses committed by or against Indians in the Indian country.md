@@ -13,7 +13,7 @@
 | Oregon | All Indian country within the State, except the Warm Springs Reservation. |
 | Wisconsin | All Indian country within the State. |
 
-(b) Nothing in this section shall authorize the alienation, encumbrance, or taxation of any real or personal property, including water rights, belonging to any Indian or any Indian tribe, band, or community that is held in trust by the United States or is subject to a restriction against alienation imposed by the United States; or shall authorize regulation of the use of such property in a manner inconsistent with any Federal treaty, agreement, or statute or with any regulation made pursuant thereto; orshall deprive any Indian or any Indian tribe, band, or community of any right, privilege, or immunity afforded under Federal treaty, agreement, or statute with respect to hunting, trapping, or fishing or the control, licensing, or regulation thereof.
+(b) Nothing in this section shall authorize the alienation, encumbrance, or taxation of any real or personal property, including water rights, belonging to any Indian or any Indian tribe, band, or community that is held in trust by the United States or is subject to a restriction against alienation imposed by the United States; or shall authorize regulation of the use of such property in a manner inconsistent with any Federal treaty, agreement, or statute or with any regulation made pursuant thereto; or shall deprive any Indian or any Indian tribe, band, or community of any right, privilege, or immunity afforded under Federal treaty, agreement, or statute with respect to hunting, trapping, or fishing or the control, licensing, or regulation thereof.
 
 (c) The provisions of sections 1152 and 1153 of this chapter shall not be applicable within the areas of Indian country listed in subsection (a) of this section as areas over which the several States have exclusive jurisdiction.
 
@@ -31,7 +31,7 @@
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–523, §1, substituted provisions relating to the jurisdiction of the State of Alaska over offenses by or against Indians in the Indian country, and certain excepted areas, for provisions relating to the jurisdiction of the Territory of Alaska over offenses by or against Indians in the Indian country.
 
-Subsec. (c). Pub. L. 91–523, §2, inserted “as areas over which the several States have exclusive jurisdiction” after “subsection (a) of this section”.
+Subsec. (c). Pub. L. 91–523, §2, inserted "as areas over which the several States have exclusive jurisdiction" after "subsection (a) of this section".
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–615 gave Alaska jurisdiction over offenses committed by or against Indians in all Indian country within the Territory of Alaska.
 

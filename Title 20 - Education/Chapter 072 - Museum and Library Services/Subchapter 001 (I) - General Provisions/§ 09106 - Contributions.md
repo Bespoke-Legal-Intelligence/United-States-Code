@@ -6,5 +6,5 @@ The Institute is authorized to solicit, accept, receive, and invest in the name 
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–81, §504(e), which directed substitution of “property or services” for “property of services”, could not be executed because the words “property of services” did not appear in text.
+<b>2003</b>—Pub. L. 108–81, §504(e), which directed substitution of "property or services" for "property of services", could not be executed because the words "property of services" did not appear in text.
 

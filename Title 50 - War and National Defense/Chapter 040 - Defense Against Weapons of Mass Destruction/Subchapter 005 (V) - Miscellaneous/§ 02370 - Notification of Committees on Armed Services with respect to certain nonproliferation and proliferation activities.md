@@ -4,7 +4,7 @@
 
 The Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, the Secretary of State, and the Nuclear Regulatory Commission shall keep the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives informed with respect to—
 
-&emsp;(1) any activities undertaken by any such Secretary or the Commission to carry out the purposes and policies of the Secretaries and the Commission with respect to nonproliferation programs; and
+&emsp;(1) any activities undertaken by any such Secretary or the Commission to carry out thepurposes and policies of the Secretaries and the Commission with respect to nonproliferation programs; and
 
 &emsp;(2) any other activities undertaken by any such Secretary or the Commission to prevent the proliferation of nuclear, chemical, or biological weapons or the means of delivery of such weapons.
 
@@ -16,7 +16,7 @@ The Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, th
 
 #### (2) Fully and currently informed defined
 
-&emsp;For purposes of paragraph (1), the term “fully and currently informed” means thetransmittal of credible information with respect to an activity described in such paragraph not later than 60 days after becoming aware of the activity.
+&emsp;For purposes of paragraph (1), the term "fully and currently informed" means the transmittal of credible information with respect to an activity described in such paragraph not later than 60 days after becoming aware of the activity.
 
 (Pub. L. 110–417, \[div. A\], title X, §1062, Oct. 14, 2008, 122 Stat. 4614.)
 

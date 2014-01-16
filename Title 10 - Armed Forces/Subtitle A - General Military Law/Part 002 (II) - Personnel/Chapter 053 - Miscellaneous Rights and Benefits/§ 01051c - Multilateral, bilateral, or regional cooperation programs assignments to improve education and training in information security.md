@@ -18,7 +18,7 @@ Multi-year Availability of Funds.—Funds available to carry out this section sh
 
 (e)
 
-Information Security Defined.—In this section, the term “information security” refers to—
+Information Security Defined.—In this section, the term "information security" refers to—
 
 &emsp;(1) the confidentiality, integrity, or availability of an information system or the information such system processes, stores, or transmits; and
 

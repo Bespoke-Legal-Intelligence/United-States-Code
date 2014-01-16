@@ -4,15 +4,15 @@
 
 As used in this chapter—
 
-&emsp;(1) the term “employer” means any business enterprise that employs—
+&emsp;(1) the term "employer" means any business enterprise that employs—
 
 &emsp;&emsp;(A) 100 or more employees, excluding part-time employees; or
 
 &emsp;&emsp;(B) 100 or more employees who in the aggregate work at least 4,000 hours per week (exclusive of hours of overtime);
 
-&emsp;(2) the term “plant closing” means the permanent or temporary shutdown of a single site of employment, or one or more facilities or operating units within a single site of employment, if the shutdown results in an employment loss at the single site of employment during any 30-day period for 50 or more employees excluding any part-time employees;
+&emsp;(2) the term "plant closing" means the permanent or temporary shutdown of a single site of employment, or one or more facilities or operating units within a single site of employment, if the shutdown results in an employment loss at the single site of employment during any 30-day period for 50 or more employees excluding any part-time employees;
 
-&emsp;(3) the term “mass layoff” means a reduction in force which—
+&emsp;(3) the term "mass layoff" means a reduction in force which—
 
 &emsp;&emsp;(A) is not the result of a plant closing; and
 
@@ -24,15 +24,15 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(ii) at least 500 employees (excluding any part-time employees);
 
-&emsp;(4) the term “representative” means an exclusive representative of employees within the meaning of section 159(a) or 158(f) of this title or section 152 of title 45;
+&emsp;(4) the term "representative" means an exclusive representative of employees within the meaning of section 159(a) or 158(f) of this title or section 152 of title 45;
 
-&emsp;(5) the term “affected employees” means employees who may reasonably be expected to experience an employment loss as a consequence of a proposed plant closing or mass layoff by their employer;
+&emsp;(5) the term "affected employees" means employees who may reasonably be expected to experience an employment loss as a consequence of a proposed plant closing or mass layoff by their employer;
 
-&emsp;(6) subject to subsection (b) of this section, the term “employment loss” means (A) an employment termination, other than a discharge for cause, voluntary departure, or retirement, (B) a layoff exceeding 6 months, or (C) a reduction in hours of work of more than 50 percent during each month of any 6-month period;
+&emsp;(6) subject to subsection (b) of this section, the term "employment loss" means (A) an employment termination, other than a discharge for cause, voluntary departure, or retirement, (B) a layoff exceeding 6 months, or (C) a reduction in hours of work of more than 50 percent during each month of any 6-month period;
 
-&emsp;(7) the term “unit of local government” means any general purpose political subdivision of a State which has the power to levy taxes and spend funds, as well as general corporate and police powers; and
+&emsp;(7) the term "unit of local government" means any general purpose political subdivision of a State which has the power to levy taxes and spend funds, as well as general corporate and police powers; and
 
-&emsp;(8) the term “part-time employee” means an employee who is employed for an average of fewer than 20 hours per week or who has been employed for fewer than 6 of the 12 months preceding the date on which notice is required.
+&emsp;(8) the term "part-time employee" means an employee who is employed for an average of fewer than 20 hours per week or who has been employed for fewer than 6 of the 12 months preceding the date on which notice is required.
 
 #### (b) Exclusions from definition of employment loss
 
@@ -48,9 +48,9 @@ As used in this chapter—
 
 #### Effective Date
 
-Pub. L. 100–379, §11, Aug. 4, 1988, 102 Stat. 895, provided that: “This Act \[enacting this chapter\] shall take effect on the date which is 6 months after the date of enactment of this Act \[Aug. 4, 1988\], except that the authority of the Secretary of Labor under section 8 \[section 2107 of this title\] is effective upon enactment.”
+Pub. L. 100–379, §11, Aug. 4, 1988, 102 Stat. 895, provided that: "This Act \[enacting this chapter\] shall take effect on the date which is 6 months after the date of enactment of this Act \[Aug. 4, 1988\], except that the authority of the Secretary of Labor under section 8 \[section 2107 of this title\] is effective upon enactment."
 
 #### Short Title
 
-Pub. L. 100–379, §1(a), Aug. 4, 1988, 102 Stat. 890, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Worker Adjustment and Retraining Notification Act’.”
+Pub. L. 100–379, §1(a), Aug. 4, 1988, 102 Stat. 890, provided that: "This Act \[enacting this chapter\] may be cited as the 'Worker Adjustment and Retraining Notification Act'."
 

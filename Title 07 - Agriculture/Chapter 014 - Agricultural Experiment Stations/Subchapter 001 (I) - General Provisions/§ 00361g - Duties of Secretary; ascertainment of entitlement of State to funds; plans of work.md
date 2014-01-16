@@ -62,13 +62,13 @@ Section was formerly classified to section 379 of this title. See section 361h o
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–171 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Whenever it shall appear to the Secretary of Agriculture from the annual statement of receipts and expenditures of funds by any State agricultural experiment station that any portion of the preceding annual appropriation allotted to that station under sections 361a to 361i of this title remains unexpended, such amount shall be deducted from the next succeeding annual allotment to the State concerned.”
+<b>2002</b>—Subsec. (c). Pub. L. 107–171 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "Whenever it shall appear to the Secretary of Agriculture from the annual statement of receipts and expenditures of funds by any State agricultural experiment station that any portion of the preceding annual appropriation allotted to that station under sections 361a to 361i of this title remains unexpended, such amount shall be deducted from the next succeeding annual allotment to the State concerned."
 
 <b>1998</b>—Pub. L. 105–185, §202(b), inserted section catchline, designated existing provisions as subsecs. (a) to (c), inserted subsec. headings, and added subsecs. (d) to (g).
 
-Pub. L. 105–185, §103(f)(2), struck out at end “If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus.”
+Pub. L. 105–185, §103(f)(2), struck out at end "If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus."
 
-<b>1976</b>—Pub. L. 94–273 substituted “October” for “July” in second par.
+<b>1976</b>—Pub. L. 94–273 substituted "October" for "July" in second par.
 
 <b>1960</b>—Pub. L. 86–533 repealed provisions which required the Secretary of Agriculture to make a report to the Congress of the receipts, expenditures and work of the agricultural experiment stations in all the States under the provisions of sections 361a to 361i of this title.
 

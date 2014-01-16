@@ -24,19 +24,19 @@ Elements of Program.—The program shall include—
 
 Pub. L. 107–295, title I, §110(c), Nov. 25, 2002, 116 Stat. 2092, provided that:
 
-“Within 1 year after the secure system of transportation program is implemented under section 70116 of title 46, United States Code, as amended by this Act, the Secretary of the department in which the Coast Guard is operating shall transmit a report to the Senate Committees on Commerce, Science, and Transportation and Finance and the House of Representatives Committees on Transportation and Infrastructure and Ways and Means that—
+"Within 1 year after the secure system of transportation program is implemented under section 70116 of title 46, United States Code, as amended by this Act, the Secretary of the department in which the Coast Guard is operating shall transmit a report to the Senate Committees on Commerce, Science, and Transportation and Finance and the House of Representatives Committees on Transportation and Infrastructure and Ways and Means that—
 
-&emsp;“(1) evaluates the secure system of transportation program and its components;
+&emsp;"(1) evaluates the secure system of transportation program and its components;
 
-&emsp;“(2) states the Secretary's view as to whether any procedure, system, or technology evaluated as part of the program offers a higher level of security than requiring imported goods to clear customs under existing procedures and for the requirements of the National Maritime Security Plan for reopening of United States ports to commerce;
+&emsp;"(2) states the Secretary's view as to whether any procedure, system, or technology evaluated as part of the program offers a higher level of security than requiring imported goods to clear customs under existing procedures and for the requirements of the National Maritime Security Plan for reopening of United States ports to commerce;
 
-&emsp;“(3) states the Secretary's view as to the integrity of the procedures, technology, or systems evaluated as part of the program;
+&emsp;"(3) states the Secretary's view as to the integrity of the procedures, technology, or systems evaluated as part of the program;
 
-&emsp;“(4) makes a recommendation with respect to whether the program, or any procedure, system, or technology should be incorporated in a nationwide system for preclearance of imports of waterborne goods and for the requirements of the National Maritime Security Plan for the reopening of United States ports to Commerce;
+&emsp;"(4) makes a recommendation with respect to whether the program, or any procedure, system, or technology should be incorporated in a nationwide system for preclearance of imports of waterborne goods and for the requirements of the National Maritime Security Plan for the reopening of United States ports to Commerce;
 
-&emsp;“(5) describes the impact of the program on staffing levels at the department in which the Coast Guard is operating, and the Customs Service; and
+&emsp;"(5) describes the impact of the program on staffing levels at the department in which the Coast Guard is operating, and the Customs Service; and
 
-&emsp;“(6) states the Secretary's views as to whether there is a method by which the United States could validate foreign ports so that cargo from those ports is preapproved for entry into the United States and for the purpose of the requirements of the National Maritime Security Plan for the reopening of United States ports to commerce.”
+&emsp;"(6) states the Secretary's views as to whether there is a method by which the United States could validate foreign ports so that cargo from those ports is preapproved for entry into the United States and for the purpose of the requirements of the National Maritime Security Plan for the reopening of United States ports to commerce."
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -44,11 +44,11 @@ Pub. L. 107–295, title I, §110(c), Nov. 25, 2002, 116 Stat. 2092, provided th
 
 #### Performance Standards
 
-Pub. L. 107–295, title I, §111, Nov. 25, 2002, 116 Stat. 2092, provided that: “Not later than January 1, 2004, the Secretary of the department in which the Coast Guard is operating, in consultation with the Transportation Security Oversight Board, shall—
+Pub. L. 107–295, title I, §111, Nov. 25, 2002, 116 Stat. 2092, provided that: "Not later than January 1, 2004, the Secretary of the department in which the Coast Guard is operating, in consultation with the Transportation Security Oversight Board, shall—
 
-&emsp;“(1) develop and maintain an antiterrorism cargo identification, tracking, and screening system for containerized cargo shipped to and from the United States either directly or via a foreign port; and
+&emsp;"(1) develop and maintain an antiterrorism cargo identification, tracking, and screening system for containerized cargo shipped to and from the United States either directly or via a foreign port; and
 
-&emsp;“(2) develop performance standards to enhance the physical security of shipping containers, including standards for seals and locks.”
+&emsp;"(2) develop performance standards to enhance the physical security of shipping containers, including standards for seals and locks."
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

@@ -20,7 +20,7 @@ Agreement.—A written agreement referred to in subsection (a) is a written agre
 
 (d)
 
-Payment Method.—Upon acceptance of a written agreement under subsection (a) by the Secretary concerned, the total amount of the accession bonus payable under the agreement becomes fixed. The agreement shall specify whether the accession bonus will be paid in a lump sum or installments.
+Payment Method.—Upon acceptance of a written agreement under subsection (a) by theSecretary concerned, the total amount of the accession bonus payable under the agreement becomes fixed. The agreement shall specify whether the accession bonus will be paid in a lump sum or installments.
 
 (e)
 
@@ -28,23 +28,25 @@ Repayment.—A person who, having received all or part of the bonus under a writ
 
 (f)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2013.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2014.
 
-(Added Pub. L. 109–364, div. A, title VI, §622(a)(1), Oct. 17, 2006, 120 Stat. 2255; amended Pub. L. 110–181, div. A, title VI, §614(g), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(g), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(8), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(8), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(8), Dec. 31, 2011, 125 Stat. 1451; Pub. L. 112–239, div. A, title VI, §615(8), Jan. 2, 2013, 126 Stat. 1777.)
+(Added Pub. L. 109–364, div. A, title VI, §622(a)(1), Oct. 17, 2006, 120 Stat. 2255; amended Pub. L. 110–181, div. A, title VI, §614(g), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(g), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(8), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(8), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(8), Dec. 31, 2011, 125 Stat. 1451; Pub. L. 112–239, div. A, title VI, §615(8), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §615(8), Dec. 26, 2013, 127 Stat. 781.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (f). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+<b>2013</b>—Subsec. (f). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
-<b>2011</b>—Subsec. (f). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (f). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
+
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
 #### Effective Date of 2008 Amendment
 
@@ -52,5 +54,5 @@ Amendment by Pub. L. 110–181 effective as of Dec. 31, 2007, and subject to var
 
 #### Effective Date
 
-Pub. L. 109–364, div. A, title VI, §622(a)(3), Oct. 17, 2006, 120 Stat. 2256, provided that: “The amendments made by this subsection \[enacting this section\] shall take effect on October 1, 2006.”
+Pub. L. 109–364, div. A, title VI, §622(a)(3), Oct. 17, 2006, 120 Stat. 2256, provided that: "The amendments made by this subsection \[enacting this section\] shall take effect on October 1, 2006."
 

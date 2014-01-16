@@ -1,6 +1,6 @@
 ### §794. Gathering or delivering defense information to aid foreign government
 
-(a) Whoever, with intent or reason to believe that it is to be used to the injury of the United States or to the advantage of a foreign nation, communicates, delivers, or transmits, or attempts to communicate, deliver, or transmit, to any foreign government, or to any faction or party or military or naval force within a foreign country, whether recognized or unrecognized bythe United States, or to any representative, officer, agent, employee, subject, or citizen thereof, either directly or indirectly, any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, note, instrument, appliance, or information relating to the national defense, shall be punished by death or by imprisonment for any term of years or for life, except that the sentence of death shall not be imposed unless the jury or, if there is no jury, the court, further finds that the offense resulted in the identification by a foreign power (as defined in section 101(a) of the Foreign Intelligence Surveillance Act of 1978) of an individual acting as an agent of the United States and consequently in the death of that individual, or directly concerned nuclear weaponry, military spacecraft or satellites, early warning systems, or other means of defense or retaliation against large-scale attack; war plans; communications intelligence or cryptographic information; or any other major weapons system or major element of defense strategy.
+(a) Whoever, with intent or reason to believe that it is to be used to the injury of the United States or to the advantage of a foreign nation, communicates, delivers, or transmits, or attempts to communicate, deliver, or transmit, to any foreign government, or to any faction or party or military or naval force within a foreign country, whether recognized or unrecognized by the United States, or to any representative, officer, agent, employee, subject, or citizen thereof, either directly or indirectly, any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, note, instrument, appliance, or information relating to the national defense, shall be punished by death or by imprisonment for any term of years or for life, except that the sentence of death shall not be imposed unless the jury or, if there is no jury, the court, further finds that the offense resulted in the identification by a foreign power (as defined in section 101(a) of the Foreign Intelligence Surveillance Act of 1978) of an individual acting as an agent of the United States and consequently in the death of that individual, or directly concerned nuclear weaponry, military spacecraft or satellites, early warning systems, or other means of defense or retaliation against large-scale attack; war plans; communications intelligence or cryptographic information; or any other major weapons system or major element of defense strategy.
 
 (b) Whoever, in time of war, with intent that the same shall be communicated to the enemy, collects, records, publishes, or communicates, or attempts to elicit any information with respect to the movement, numbers, description, condition, or disposition of any of the Armed Forces, ships, aircraft, or war materials of the United States, or with respect to the plans or conduct, or supposed plans or conduct of any naval or military operations, or with respect to any works or measures undertaken for or connected with, or intended for the fortification or defense of any place, or any other information relating to the public defense, which might be useful to the enemy, shall be punished by death or by imprisonment for any term of years or for life.
 
@@ -10,9 +10,9 @@
 
 &emsp;(A) any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, as the result of such violation, and
 
-&emsp;(B) any of the person's property used, or intended to be used, in any manner or part, to commit, or to facilitate the commission of, such violation.
+&emsp;(B) any of the person's property used, or intended to be used, in any manner or part, tocommit, or to facilitate the commission of, such violation.
 
-> For the purposes of this subsection, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+> For the purposes of this subsection, the term "State" includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (2) The court, in imposing sentence on a defendant for a conviction of a violation of this section, shall order that the defendant forfeit to the United States all property described in paragraph (1) of this subsection.
 
@@ -36,7 +36,7 @@ Based on sections 32 and 34 of title 50, U.S.C., 1940 ed., War and National Defe
 
 Section consolidates sections 32 and 34 of title 50, U.S.C., 1940 ed., War and National Defense.
 
-The words “or induces or aids another” were omitted as unnecessary in view of definition of “principal” in section 2 of this title.
+The words "or induces or aids another" were omitted as unnecessary in view of definition of "principal" in section 2 of this title.
 
 The conspiracy provision of said section 34 was also incorporated in section 2388 of this title.
 
@@ -50,13 +50,13 @@ Section 101(a) of the Foreign Intelligence Surveillance Act of 1978, referred to
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–294, §604(b)(2), amended directory language of Pub. L. 103–322, §60003(a)(2). See 1994 Amendment note below.
 
-Subsec. (d)(1). Pub. L. 104–294, §607(b), inserted at end “For the purposes of this subsection, the term ‘State’ includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
+Subsec. (d)(1). Pub. L. 104–294, §607(b), inserted at end "For the purposes of this subsection, the term 'State' includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States."
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, as amended by Pub. L. 104–294, §604(b)(2), substituted for period at end “, except that the sentence of death shall not be imposed unless the jury or, if there is no jury, the court, further finds that the offense resulted in the identification by a foreign power (as defined in section 101(a) of the Foreign Intelligence Surveillance Act of 1978) of an individual acting as an agent of the United States and consequently in the death of that individual, or directly concerned nuclear weaponry, military spacecraft or satellites, early warning systems, or other means of defense or retaliation against large-scale attack; war plans; communications intelligence or cryptographic information; or any other major weapons system or major element of defense strategy.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, as amended by Pub. L. 104–294, §604(b)(2), substituted for period at end ", except that the sentence of death shall not be imposed unless the jury or, if there is no jury, the court, further finds that the offense resulted in the identification by a foreign power (as defined in section 101(a) of the Foreign Intelligence Surveillance Act of 1978) of an individual acting as an agent of the United States and consequently in the death of that individual, or directly concerned nuclear weaponry, military spacecraft or satellites, early warning systems, or other means of defense or retaliation against large-scale attack; war plans; communications intelligence or cryptographic information; or any other major weapons system or major element of defense strategy."
 
-Subsec. (d)(3). Pub. L. 103–359 substituted “(p)” for “(o)” in two places.
+Subsec. (d)(3). Pub. L. 103–359 substituted "(p)" for "(o)" in two places.
 
-<b>1988</b>—Subsec. (d)(4). Pub. L. 100–690 substituted “amounts” for “amount”.
+<b>1988</b>—Subsec. (d)(4). Pub. L. 100–690 substituted "amounts" for "amount".
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–399 added subsec. (d).
 

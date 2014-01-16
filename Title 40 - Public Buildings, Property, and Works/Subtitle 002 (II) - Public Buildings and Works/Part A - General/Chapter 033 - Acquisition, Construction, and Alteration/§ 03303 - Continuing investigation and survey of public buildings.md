@@ -70,9 +70,9 @@ Pub. L. 86–249, §12(c), as added Pub. L. 94–541, title I, §103(3), Oct. 18
 
 40:611(d).
 
-In subsection (c)(1), the word “historical” is substituted for “historic” to conform to the defined term.
+In subsection (c)(1), the word "historical" is substituted for "historic" to conform to the defined term.
 
-In subsection (c)(2), the word “purchase” is omitted as being included in \[“\]‘acquisition”.
+In subsection (c)(2), the word "purchase" is omitted as being included in \["\]'acquisition".
 
 #### References in Text
 

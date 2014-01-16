@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (1) Tax-exempt organization
 
-&emsp;The term “tax-exempt organization” means any organization which—
+&emsp;The term "tax-exempt organization" means any organization which—
 
 &emsp;&emsp;(A) is described in subsection (c) or (d) of section 501 and exempt from taxation under section 501(a), or
 
@@ -40,5 +40,5 @@ For purposes of this section—
 
 #### Effective Date
 
-Pub. L. 100–203, title X, §10705(c), Dec. 22, 1987, 101 Stat. 1330–464, provided that: “The amendments made by this section \[enacting this section\] shall apply to offers and solicitations after January 31, 1988.”
+Pub. L. 100–203, title X, §10705(c), Dec. 22, 1987, 101 Stat. 1330–464, provided that: "The amendments made by this section \[enacting this section\] shall apply to offers and solicitations after January 31, 1988."
 

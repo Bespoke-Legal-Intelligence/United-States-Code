@@ -20,7 +20,7 @@ Subject to subsection (b) of this section, not later than 90 days after the Pres
 
 #### (A) Description
 
-&emsp;&emsp;An evaluation, in consultation with the Secretary of State, the Ambassador at Large, the Commission, the Special Adviser, the parties described in section 6443(c) and (d) of this title, and whoever else the President deems appropriate, of—
+&emsp;&emsp;An evaluation, in consultation with the Secretary of State, the Ambassador atLarge, the Commission, the Special Adviser, the parties described in section 6443(c) and (d) of this title, and whoever else the President deems appropriate, of—
 
 &emsp;&emsp;&emsp;(i) the impact upon the foreign government;
 
@@ -42,7 +42,7 @@ Subject to subsection (b) of this section, not later than 90 days after the Pres
 
 #### (b) Delay in transmittal of report
 
-If, on or before the date that the President is required (but for this subsection) to submit a report under subsection (a) of this section to Congress, the President determines and certifies to Congress that a single, additional period of time not to exceed 90 days is necessary pursuant to section 6441(b)(3) or 6442(c)(3) of this title, thenthe President shall not be required to submit the report to Congress until the expiration of that period of time.
+If, on or before the date that the President is required (but for this subsection) to submit a report under subsection (a) of this section to Congress, the President determines and certifies to Congress that a single, additional period of time not to exceed 90 days is necessary pursuant to section 6441(b)(3) or 6442(c)(3) of this title, then the President shall not be required to submit the report to Congress until the expiration of that period of time.
 
 (Pub. L. 105–292, title IV, §404, Oct. 27, 1998, 112 Stat. 2805.)
 

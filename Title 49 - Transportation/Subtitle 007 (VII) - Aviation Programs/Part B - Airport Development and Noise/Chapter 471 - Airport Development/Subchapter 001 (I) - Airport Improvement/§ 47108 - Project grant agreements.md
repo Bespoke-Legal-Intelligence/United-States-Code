@@ -40,7 +40,7 @@ Change in Airport Status.—
 
 &emsp;(1)
 
-Changes to nonprimary airport status.—If the status of a primary airportchanges to a nonprimary airport at a time when a development project under a multiyear agreement under subsection (a) is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the agreement, subject to the availability of funds.
+Changes to nonprimary airport status.—If the status of a primary airport changes to a nonprimary airport at a time when a development project under a multiyear agreement under subsection (a) is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the agreement, subject to the availability of funds.
 
 &emsp;(2)
 
@@ -84,17 +84,17 @@ Sept. 3, 1982, Pub. L. 97–248, §512(b), 96 Stat. 688; restated Dec. 30, 1987,
 
 Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §512(d); added Dec. 30, 1987, Pub. L. 100–223, §110(b), 101 Stat. 1502.
 
-In subsection (a), the words “on behalf of the United States” are omitted as surplus. The words “or sponsors” are omitted because of 1:1. The words “of the application” are omitted as surplus. The words “under section 47110 of this title” are added for clarity. The words “and conditions” are omitted as being included in “terms”. The words “for the project” are added for clarity. The words “an offer of a grant for a project” are substituted for “In any case where the Secretary approves a project grant application for a project . . . the offer” to eliminate unnecessary words. The words “(including future fiscal years)” are omitted as surplus. The words “An offer that is accepted in writing by the sponsor is an agreement binding on the Government and the sponsor” are substituted for “If and when an offer is accepted in writing by the sponsor, the offer and acceptance shall comprise an agreement constituting an obligation of the United States and of the sponsor” to eliminate unnecessary words. The words “which have been or may be incurred” are omitted as surplus.
+In subsection (a), the words "on behalf of the United States" are omitted as surplus. The words "or sponsors" are omitted because of 1:1. The words "of the application" are omitted as surplus. The words "under section 47110 of this title" are added for clarity. The words "and conditions" are omitted as being included in "terms". The words "for the project" are added for clarity. The words "an offer of a grant for a project" are substituted for "In any case where the Secretary approves a project grant application for a project . . . the offer" to eliminate unnecessary words. The words "(including future fiscal years)" are omitted as surplus. The words "An offer that is accepted in writing by the sponsor is an agreement binding on the Government and the sponsor" are substituted for "If and when an offer is accepted in writing by the sponsor, the offer and acceptance shall comprise an agreement constituting an obligation of the United States and of the sponsor" to eliminate unnecessary words. The words "which have been or may be incurred" are omitted as surplus.
 
-In subsection (b)(1), the words “by a sponsor” are omitted as surplus. The words “amount the Government will pay” are substituted for “obligation of the United States” for clarity and consistency in this section.
+In subsection (b)(1), the words "by a sponsor" are omitted as surplus. The words "amount the Government will pay" are substituted for "obligation of the United States" for clarity and consistency in this section.
 
 In subsection (b)(2), the text of 49 App.:2211(b)(2) (last sentence) is restated to apply only to 49 App.:2211(b)(2) (1st sentence) to carry out the probable intent of Congress.
 
-In subsection (b)(3)(B), the words “for fiscal year 1993 and thereafter” are omitted as unnecessary.
+In subsection (b)(3)(B), the words "for fiscal year 1993 and thereafter" are omitted as unnecessary.
 
-In subsection (c), the words “Notwithstanding any other provision of law” are omitted as surplus. The words “a project receiving assistance under” are added for consistency.
+In subsection (c), the words "Notwithstanding any other provision of law" are omitted as surplus. The words "a project receiving assistance under" are added for consistency.
 
-In subsection (d), the word “sponsor” is substituted for “grant recipient” for clarity. The words “amount the Government may pay” are substituted for “obligation of the United States authorized” for clarity and consistency in this section.
+In subsection (d), the word "sponsor" is substituted for "grant recipient" for clarity. The words "amount the Government may pay" are substituted for "obligation of the United States authorized" for clarity and consistency in this section.
 
 #### References in Text
 
@@ -104,11 +104,11 @@ The Airport and Airway Development Act of 1970, referred to in subsec. (c), is t
 
 #### Amendments
 
-<b>2012</b>—Subsec. (e)(3). Pub. L. 112–95 substituted “accordance with section 47119(a)” for “accordance with section 47110(d)(2)” and “allowable under section 47119(a)” for “allowable under section 47110(d)”.
+<b>2012</b>—Subsec. (e)(3). Pub. L. 112–95 substituted "accordance with section 47119(a)" for "accordance with section 47110(d)(2)" and "allowable under section 47119(a)" for "allowable under section 47110(d)".
 
 <b>2005</b>—Subsec. (e)(3). Pub. L. 109–115 added par. (3).
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–176 inserted “or 47114(d)(3)(A)” after “under section 47114(c)”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–176 inserted "or 47114(d)(3)(A)" after "under section 47114(c)".
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–181 added subsec. (e).
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Land Acquisition Costs
 
-Pub. L. 107–71, title I, §143, Nov. 19, 2001, 115 Stat. 644, provided that: “In the case of a grant for land acquisition issued to an airport under chapter 471 of title 49, United States Code, prior to January 1, 1995, the Secretary of Transportation may waive the provisions of section 47108 of such title and provide an upward adjustment in the maximum obligation of the United States under that chapter to assist the airport in funding land acquisition costs (and associated eligible costs) that increased as a result of a judicial order.”
+Pub. L. 107–71, title I, §143, Nov. 19, 2001, 115 Stat. 644, provided that: "In the case of a grant for land acquisition issued to an airport under chapter 471 of title 49, United States Code, prior to January 1, 1995, the Secretary of Transportation may waive the provisions of section 47108 of such title and provide an upward adjustment in the maximum obligation of the United States under that chapter to assist the airport in funding land acquisition costs (and associated eligible costs) that increased as a result of a judicial order."
 
-\[For definitions of “airport” and “United States” used in section 143 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.\]
+\[For definitions of "airport" and "United States" used in section 143 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.\]
 

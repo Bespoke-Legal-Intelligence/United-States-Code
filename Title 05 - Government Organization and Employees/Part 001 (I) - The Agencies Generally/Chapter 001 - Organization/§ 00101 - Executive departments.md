@@ -2,35 +2,35 @@
 
 The Executive departments are:
 
-&emsp;The Department of State.
+&emsp;&emsp;The Department of State.
 
-&emsp;The Department of the Treasury.
+&emsp;&emsp;The Department of the Treasury.
 
-&emsp;The Department of Defense.
+&emsp;&emsp;The Department of Defense.
 
-&emsp;The Department of Justice.
+&emsp;&emsp;The Department of Justice.
 
-&emsp;The Department of the Interior.
+&emsp;&emsp;The Department of the Interior.
 
-&emsp;The Department of Agriculture.
+&emsp;&emsp;The Department of Agriculture.
 
-&emsp;The Department of Commerce.
+&emsp;&emsp;The Department of Commerce.
 
-&emsp;The Department of Labor.
+&emsp;&emsp;The Department of Labor.
 
 &emsp;&emsp;The Department of Health and Human Services.
 
 &emsp;&emsp;The Department of Housing and Urban Development.
 
-&emsp;The Department of Transportation.
+&emsp;&emsp;The Department of Transportation.
 
-&emsp;The Department of Energy.
+&emsp;&emsp;The Department of Energy.
 
-&emsp;The Department of Education.
+&emsp;&emsp;The Department of Education.
 
-&emsp;The Department of Veterans Affairs.
+&emsp;&emsp;The Department of Veterans Affairs.
 
-&emsp;The Department of Homeland Security.
+&emsp;&emsp;The Department of Homeland Security.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378; Pub. L. 89–670, §10(b), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(c)(1), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, §710(a), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–88, title V, §508(b), Oct. 17, 1979, 93 Stat. 692; Pub. L. 100–527, §13(b), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 109–241, title IX, §902(a)(1), July 11, 2006, 120 Stat. 566.)
 

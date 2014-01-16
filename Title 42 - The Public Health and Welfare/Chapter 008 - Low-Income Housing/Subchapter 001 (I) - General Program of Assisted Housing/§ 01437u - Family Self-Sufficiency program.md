@@ -60,7 +60,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (5) Nonparticipation
 
-&emsp;Assistance under the certificate or voucher programs under section 1437f of this title for a family that elects not to participate in a local program shall not be delayed by reason of such election.
+&emsp;Assistance under the certificate or voucher programs under section 1437f of this title for a family that elects not to participate in a localprogram shall not be delayed by reason of such election.
 
 #### (c) Contract of participation
 
@@ -108,7 +108,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (2) Escrow savings accounts
 
-&emsp;For each participating family whose monthly adjusted income is less than 50 percent of the area median income, the difference between 30 percent of the adjusted income of the participating family and the amount of rent paid by a participating family shall be placed in an interest-bearing escrow account established by the public housing agency on behalf of the participating family. For families with incomes between 50 and 80 percent of the area median income, the Secretary shall provide for escrow of the difference between 30 percent of the family income and the amount paid by the family for rent as determined by the Secretary under paragraph (1). The Secretary shall not escrow any amounts for any family whose adjusted income exceeds 80 percent of the area median income. Amounts in the escrow account may be withdrawn by the participating family after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c) of this section, as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency.
+&emsp;For each participating family whose monthly adjusted income is less than 50 percent of the area median income, the difference between 30 percent of the adjusted income of the participating family and the amount of rent paid by a participating family shall be placed in an interest-bearing escrow account established by the public housing agency on behalf of the participating family. For families with incomes between 50 and 80 percent of the area median income, the Secretary shall provide for escrow of the difference between 30 percent of the family income and the amount paid by the family for rent as determined by the Secretary under paragraph (1). The Secretary shall not escrow any amounts for any family whose adjusted income exceeds 80 percent of the area median income. Amounts in the escrow account may be withdrawn by the participating family after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c) of this section, as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may makecertain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency.
 
 #### (3) Plan
 
@@ -178,7 +178,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Criteria
 
-&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiencyprogram under this section. The Secretary shall establish perfomance <sup>3</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
+&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiency program under this section. The Secretary shall establish perfomance <sup>3</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
 
 #### (3) Use
 
@@ -222,17 +222,17 @@ In establishing and carrying out the self-sufficiency program under this section
 
 As used in this section:
 
-&emsp;(1) The term “contract of participation” means a contract under subsection (c) of this section entered into by a public housing agency carrying out a local program under this section and a participating family.
+&emsp;(1) The term "contract of participation" means a contract under subsection (c) of this section entered into by a public housing agency carrying out a local program under this section and a participating family.
 
-&emsp;(2) The term “earned income” means income from wages, tips, salaries, and other employee compensation, and any earnings from self-employment. The term does not include any pension or annuity, transfer payments, or any cash or in-kind benefits.
+&emsp;(2) The term "earned income" means income from wages, tips, salaries, and other employee compensation, and any earnings from self-employment. The term does not include any pension or annuity, transfer payments, or any cash or in-kind benefits.
 
-&emsp;(3) The term “eligible family” means a family whose head of household is not elderly, disabled, pregnant, a primary caregiver for children under the age of 3, or for whom the family self-sufficiency program would otherwise be unsuitable. Notwithstanding the preceding sentence, a public housing agency may enroll such families if they choose to participate in the program.
+&emsp;(3) The term "eligible family" means a family whose head of household is not elderly, disabled, pregnant, a primary caregiver for children under the age of 3, or for whom the family self-sufficiency program would otherwise be unsuitable. Notwithstanding the preceding sentence, a public housing agency may enroll such families if they choose to participate in the program.
 
-&emsp;(4) The term “local program” means a program for providing supportive services to participating families carried out by a public housing agency within the jurisdiction of the public housing agency.
+&emsp;(4) The term "local program" means a program for providing supportive services to participating families carried out by a public housing agency within the jurisdiction of the public housing agency.
 
-&emsp;(5) The term “participating family” means a family that resides in public housing or housing assisted under section 1437f of this title and elects to participate in a local self-sufficiency program under this section.
+&emsp;(5) The term "participating family" means a family that resides in public housing or housing assisted under section 1437f of this title and elects to participate in a local self-sufficiency program under this section.
 
-&emsp;(6) The term “vacant unit” means a dwelling unit that has been vacant for not less than 9 consecutive months.
+&emsp;(6) The term "vacant unit" means a dwelling unit that has been vacant for not less than 9 consecutive months.
 
 #### (o) Effective date and regulations
 
@@ -258,69 +258,69 @@ Section 1437g(c) of this title, referred to in subsec. (h)(2), was amended gener
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1)(A). Pub. L. 105–276, §509(a)(1)(A)(i), struck out “and” at end.
+<b>1998</b>—Subsec. (b)(1)(A). Pub. L. 105–276, §509(a)(1)(A)(i), struck out "and" at end.
 
-Subsec. (b)(1)(B). Pub. L. 105–276, §509(a)(1)(A)(ii), substituted “, subject to the limitations in paragraph (4); and” for period at end.
+Subsec. (b)(1)(B). Pub. L. 105–276, §509(a)(1)(A)(ii), substituted ", subject to the limitations in paragraph (4); and" for period at end.
 
 Subsec. (b)(1)(C). Pub. L. 105–276, §509(a)(1)(A)(iii), added subpar. (C).
 
-Subsec. (b)(2)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(23)(A)\], struck out “the Job Training Partnership Act or” after “programs under”.
+Subsec. (b)(2)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(23)(A)\], struck out "the Job Training Partnership Act or" after "programs under".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(31)(A)\], substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the” for “the Job Training Partnerships Act or the”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(31)(A)\], substituted "the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the" for "the Job Training Partnerships Act or the".
 
-Subsec. (b)(3). Pub. L. 105–276, §509(a)(1)(B), substituted “Subject to paragraph (4), each” for “Each” in introductory provisions.
+Subsec. (b)(3). Pub. L. 105–276, §509(a)(1)(B), substituted "Subject to paragraph (4), each" for "Each" in introductory provisions.
 
 Subsec. (b)(4), (5). Pub. L. 105–276, §509(a)(1)(C), (D), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (d)(3). Pub. L. 105–276, §509(a)(2), struck out heading and text of par. (3) relating to use of escrow savings accounts. Text read as follows: “Notwithstanding paragraph (3), a family that uses assistance under section 1437f(y) of this title to purchase a dwelling may use up to 50 percent of the amount in its escrow account established under paragraph (3) for a downpayment on the dwelling. In addition, after the family purchases the dwelling, the family may use any amounts remaining in the escrow account to cover the costs of major repair and replacement needs of the dwelling. If a family defaults in connection with the loan to purchase a dwelling and the mortgage is foreclosed, the remaining amounts in the escrow account shall be recaptured by the Secretary.”
+Subsec. (d)(3). Pub. L. 105–276, §509(a)(2), struck out heading and text of par. (3) relating to use of escrow savings accounts. Text read as follows: "Notwithstanding paragraph (3), a family that uses assistance under section 1437f(y) of this title to purchase a dwelling mayuse up to 50 percent of the amount in its escrow account established under paragraph (3) for a downpayment on the dwelling. In addition, after the family purchases the dwelling, the family may use any amounts remaining in the escrow account to cover the costs of major repair and replacement needs of the dwelling. If a family defaults in connection with the loan to purchase a dwelling and the mortgage is foreclosed, the remaining amounts in the escrow account shall be recaptured by the Secretary."
 
-Subsec. (f)(1). Pub. L. 105–276, §509(a)(3), inserted “carrying out a local program under this section” after “Each public housing agency”.
+Subsec. (f)(1). Pub. L. 105–276, §509(a)(3), inserted "carrying out a local program under this section" after "Each public housing agency".
 
-Subsec. (f)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(23)(B)\], struck out “the Job Training Partnership Act or” after “programs under”.
+Subsec. (f)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(23)(B)\], struck out "the Job Training Partnership Act or" after "programs under".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(31)(B)\], substituted “programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the” for “programs under the Job Training Partnership Act and the”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(31)(B)\], substituted "programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the" for "programs under the Job Training Partnership Act and the".
 
-Subsec. (g)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(23)(C)(i)\], struck out “the Job Training Partnership Act or” after “programs under”.
+Subsec. (g)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(23)(C)(i)\], struck out "the Job Training Partnership Act or" after "programs under".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(31)(C)(i)\], substituted “programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the” for “for programs under the Job Training Partnership Act and the”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(31)(C)(i)\], substituted "programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the" for "for programs under the Job Training Partnership Act and the".
 
-Subsec. (g)(3)(H). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(23)(C)(ii)\], struck out “the Job Training Partnership Act or” after “programs under”.
+Subsec. (g)(3)(H). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(23)(C)(ii)\], struck out "the Job Training Partnership Act or" after "programs under".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(31)(C)(ii)\], substituted “programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 and any other” for “program under the Job Training Partnership Act and any other”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(31)(C)(ii)\], substituted "programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 and any other" for "program under the Job Training Partnership Act and any other".
 
-<b>1996</b>—Subsec. (m). Pub. L. 104–316 substituted “may” for “shall” after “United States”, struck out “(1)
+<b>1996</b>—Subsec. (m). Pub. L. 104–316 substituted "may" for "shall" after "United States", struck out "(1)
 
-In general.—” before “The Comptroller General”, and struck out par. (2) which read as follows:
+In general.—" before "The Comptroller General", and struck out par. (2) which read as follows:
 
-“(2)
+"(2)
 
 Timing.—The Comptroller General shall submit the following reports under this subsection:
 
-&emsp;“(A) An interim report, not later than the expiration of the 2-year period beginning on November 28, 1990.
+&emsp;"(A) An interim report, not later than the expiration of the 2-year period beginning on November 28, 1990.
 
-&emsp;“(B) A final report, not later than the expiration of the 5-year period beginning on November 28, 1990.”
+&emsp;"(B) A final report, not later than the expiration of the 5-year period beginning on November 28, 1990."
 
-Subsec. (o)(2). Pub. L. 104–330 struck out heading and text of par. (2). Text read as follows: “Notwithstanding any other provision of law, the provisions of this section shall be optional for Indian housing authorities.”
+Subsec. (o)(2). Pub. L. 104–330 struck out heading and text of par. (2). Text read as follows: "Notwithstanding any other provision of law, the provisions of this section shall be optional for Indian housing authorities."
 
 <b>1992</b>—Subsec. (b)(2). Pub. L. 102–550, §106(b), added subpars. (A) to (D) and concluding provisions and struck out former subpars. (A) to (D) which read as follows:
 
-“(A) lack of supportive services funding;
+"(A) lack of supportive services funding;
 
-“(B) lack of funding for reasonable administrative costs;
+"(B) lack of funding for reasonable administrative costs;
 
-“(C) lack of cooperation by other units of State or local government; or
+"(C) lack of cooperation by other units of State or local government; or
 
-“(D) any other circumstances that the Secretary may consider appropriate.”
+"(D) any other circumstances that the Secretary may consider appropriate."
 
 Subsec. (b)(4). Pub. L. 102–550, §106(c), added par. (4).
 
-Subsec. (c)(1). Pub. L. 102–550, §106(d), in second sentence, inserted “, shall establish specific interim and final goals by which compliance with and performance of the contract may be measured,” after “program” and substituted last sentence for former last sentence which read as follows: “The contract shall provide that the public housing agency may terminate or withhold assistance under section 1437f of this title and services under paragraph (2) of this section if the family fails to comply with the requirements under the contract.”
+Subsec. (c)(1). Pub. L. 102–550, §106(d), in second sentence, inserted ", shall establish specific interim and final goals by which compliance with and performance of the contract may be measured," after "program" and substituted last sentence for former last sentence which read as follows: "The contract shall provide that the public housing agency may terminate or withhold assistance under section 1437f of this title and services under paragraph (2) of this section if the family fails to comply with the requirements under the contract."
 
-Subsec. (c)(2). Pub. L. 102–550, §106(e), struck out “to each participating family” after “paragraph (1)” in introductory provisions.
+Subsec. (c)(2). Pub. L. 102–550, §106(e), struck out "to each participating family" after "paragraph (1)" in introductory provisions.
 
-Subsec. (d). Pub. L. 102–550, §106(g)(1), substituted “Incentives for participation” for “Maximum rents and escrow savings accounts” in heading.
+Subsec. (d). Pub. L. 102–550, §106(g)(1), substituted "Incentives for participation" for "Maximum rents and escrow savings accounts" in heading.
 
-Subsec. (d)(2). Pub. L. 102–550, §106(f), substituted “after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c) of this section, as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency.” for “only after the family is no longer a recipient of any Federal, State, or other public assistance for housing.”
+Subsec. (d)(2). Pub. L. 102–550, §106(f), substituted "after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c) of this section, as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency." for "only after the family is no longer a recipient of any Federal, State, or other public assistance for housing."
 
 Subsec. (d)(3). Pub. L. 102–550, §185(b), added par. (3) relating to use of escrow savings accounts.
 
@@ -328,19 +328,19 @@ Pub. L. 102–550, §106(g)(2), added par. (3) relating to a plan to offer incen
 
 Subsec. (g)(3)(D) to (I). Pub. L. 102–550, §106(h), added subpars. (D) and (I) and redesignated former subpars (D) to (G) as (E) to (H), respectively.
 
-Subsec. (h)(2). Pub. L. 102–550, §106(a), amended last sentence generally. Prior to amendment, last sentence read as follows: “Of any amounts appropriated under section 1437g(c) of this title for each of fiscal years 1991 and 1992, $25,000,000 is authorized to be used for costs under this paragraph.”
+Subsec. (h)(2). Pub. L. 102–550, §106(a), amended last sentence generally. Prior to amendment, last sentence read as follows: "Of any amounts appropriated under section 1437g(c) of this title for each of fiscal years 1991 and 1992, $25,000,000 is authorized to be used for costs under this paragraph."
 
 Subsec. (n)(3) to (6). Pub. L. 102–550, §106(i), added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and added par. (6).
 
-Subsec. (o)(2). Pub. L. 102–550, §106(j), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “(2)
+Subsec. (o)(2). Pub. L. 102–550, §106(j), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "(2)
 
-Applicability to indian public housing.—In accordance with section 1437aa(b)(2) of this title, the provisions of this section shall also apply to public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority.”
+Applicability to indian public housing.—In accordance with section 1437aa(b)(2) of this title, the provisions of this section shall also apply to public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority."
 
 #### Effective Date of 1998 Amendments
 
 Amendment by section 101(f) \[title VIII, §405(d)(31)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(23)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
-Pub. L. 105–276, title V, §509(b), Oct. 21, 1998, 112 Stat. 2531, provided that: “The amendments made by this subsection \[probably means subsec. (a), amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §509(b), Oct. 21, 1998, 112 Stat. 2531, provided that: "The amendments made by this subsection \[probably means subsec. (a), amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -348,11 +348,11 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 #### GAO Study on Linking Federal Housing Assistance to Economic Self-Sufficiency Programs
 
-Pub. L. 101–625, title V, §554(b), Nov. 28, 1990, 104 Stat. 4231, directed Comptroller General to submit to Congress, not later than 18 months after Nov. 28, 1990, a report (1) evaluating the policy and administrative implications of requiring State and local governments to require participation in an economic self-sufficiency program as a condition of the receipt of rental assistance under 42 U.S.C. 1437f and public housing assistance, (2) determining the additional costs to public housing agencies under such programs and recommending a change in the amount of the administrative fee under 42 U.S.C. 1437f(q) to cover the additional costs of carrying out the Family Self-Sufficiency Program under this section, and (3) examining how housing and social service policies affect beneficiaries, particularly persons receiving public assistance, when such beneficiaries gain employment and experience a rise in income.
+Pub. L. 101–625, title V, §554(b), Nov. 28, 1990, 104 Stat. 4231, directed Comptroller General to submit to Congress, not later than 18 months after Nov. 28, 1990, a report (1) evaluating the policy and administrative implications of requiring State and local governments to require participation in an economic self-sufficiency program as a condition of the receipt of rental assistance under 42 U.S.C. 1437f and public housing assistance, (2) determining the additional costs to public housing agencies under such programs and recommending a change in the amount of the administrative fee under 42 U.S.C. 1437f(q) to cover the additional costs of carrying out the Family Self-Sufficiency Program under thissection, and (3) examining how housing and social service policies affect beneficiaries, particularly persons receiving public assistance, when such beneficiaries gain employment and experience a rise in income.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “performance”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "performance".</i>
 

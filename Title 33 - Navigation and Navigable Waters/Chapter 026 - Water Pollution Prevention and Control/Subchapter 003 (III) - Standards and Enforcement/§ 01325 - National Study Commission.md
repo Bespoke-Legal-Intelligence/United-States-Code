@@ -26,7 +26,7 @@ The members of the Commission who are not officers or employees of the United St
 
 #### (g) Appointment of personnel
 
-In addition to authority to appoint personnel subject to the provisions of title 5 governing appointments in the competitive service, and to pay such personnel in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, the Commission shall have authority to enter into contracts with private or public organizations who shall furnish the Commission with such administrative and technical personnel as may be necessary to carry out the purpose of this section. Personnel furnished by such organizations under this subsection are not, and shall not be considered to be, Federal employees for any purposes, but in the performance of their duties shall be guided by the standards which apply to employees of the legislative branches under rules 41 and 43 <sup>1</sup> of the Senate and House of Representatives, respectively.
+In addition to authority to appoint personnel subject to the provisions of title 5 governing appointments in the competitive service, and to pay such personnel in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, the Commission shall have authority to enter into contracts with private or public organizations who shall furnish the Commission with such administrative and technical personnel as may be necessary to carry out the purpose of this section. Personnel furnished by such organizations under this subsection are not, and shall not be considered to be, Federal employees for any purposes, but in the performance of their duties shall be guided by the standards which apply to employees of the legislative branches under rules 41 and43 <sup>1</sup> of the Senate and House of Representatives, respectively.
 
 #### (h) Authorization of appropriation
 
@@ -44,15 +44,15 @@ The Rules of the House of Representatives for the One Hundred Sixth Congress wer
 
 #### Amendments
 
-<b>1976</b>—Subsec. (h). Pub. L. 94–238 substituted “$17,250,000” for “$17,000,000”.
+<b>1976</b>—Subsec. (h). Pub. L. 94–238 substituted "$17,250,000" for "$17,000,000".
 
-<b>1975</b>—Subsec. (h). Pub. L. 93–592 substituted “$17,000,000” for “$15,000,000”.
+<b>1975</b>—Subsec. (h). Pub. L. 93–592 substituted "$17,000,000" for "$15,000,000".
 
 <b>1973</b>—Subsecs. (g), (h). Pub. L. 93–207 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 #### Change of Name
 
-Committee on Public Works of Senate abolished and replaced by Committee on Environment and Public Works of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Public Works of Senate abolished and replaced by Committee on Environment and Public Works of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 
 Committee on Public Works of House of Representatives changed to Committee on Public Works and Transportation of House of Representatives, effective Jan. 3, 1975, by House Resolution No. 988, 93d Congress. Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

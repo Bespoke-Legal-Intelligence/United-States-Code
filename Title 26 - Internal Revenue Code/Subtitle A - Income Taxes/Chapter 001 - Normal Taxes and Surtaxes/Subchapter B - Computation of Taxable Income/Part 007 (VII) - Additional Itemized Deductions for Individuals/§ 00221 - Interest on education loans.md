@@ -44,7 +44,7 @@ $2,500.
 
 #### (B) Amount of reduction
 
-&emsp;&emsp;The amount determined under this subparagraph is the amount which bears thesame ratio to the amount which would be so taken into account as—
+&emsp;&emsp;The amount determined under this subparagraph is the amount which bears the same ratio to the amount which would be so taken into account as—
 
 &emsp;&emsp;&emsp;(i) the excess of—
 
@@ -56,7 +56,7 @@ $2,500.
 
 #### (C) Modified adjusted gross income
 
-&emsp;&emsp;The term “modified adjusted gross income” means adjusted gross income determined—
+&emsp;&emsp;The term "modified adjusted gross income" means adjusted gross income determined—
 
 &emsp;&emsp;&emsp;(i) without regard to this section and sections 199, 222, 911, 931, and 933, and
 
@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (1) Qualified education loan
 
-&emsp;The term “qualified education loan” means any indebtedness incurred by the taxpayer solely to pay qualified higher education expenses—
+&emsp;The term "qualified education loan" means any indebtedness incurred by the taxpayer solely to pay qualified higher education expenses—
 
 &emsp;&emsp;(A) which are incurred on behalf of the taxpayer, the taxpayer's spouse, or any dependent of the taxpayer as of the time the indebtedness was incurred,
 
@@ -80,25 +80,25 @@ For purposes of this section—
 
 &emsp;&emsp;(C) which are attributable to education furnished during a period during which the recipient was an eligible student.
 
-> &emsp;Such term includes indebtedness used to refinance indebtedness which qualifies as a qualified education loan. The term “qualified education loan” shall not include any indebtedness owed to a person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer or to any person by reason of a loan under any qualified employer plan (as defined in section 72(p)(4)) or under any contract referred to in section 72(p)(5).
+> &emsp;Such term includes indebtedness used to refinance indebtedness which qualifies as a qualified education loan. The term "qualified education loan" shall not include any indebtedness owed to a person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer or to any person by reason of a loan under any qualified employer plan (as defined in section 72(p)(4)) or under any contract referred to in section 72(p)(5).
 
 #### (2) Qualified higher education expenses
 
-&emsp;The term “qualified higher education expenses” means the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087ll, as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) at an eligible educational institution, reduced by the sum of—
+&emsp;The term "qualified higher education expenses" means the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087ll, as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) at an eligible educational institution, reduced by the sum of—
 
 &emsp;&emsp;(A) the amount excluded from gross income under section 127, 135, 529, or 530 by reason of such expenses, and
 
 &emsp;&emsp;(B) the amount of any scholarship, allowance, or payment described in section 25A(g)(2).
 
-> &emsp;For purposes of the preceding sentence, the term “eligible educational institution” has the same meaning given such term by section 25A(f)(2), except that such term shall also include an institution conducting an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility which offers postgraduate training.
+> &emsp;For purposes of the preceding sentence, the term "eligible educational institution" has the same meaning given such term by section 25A(f)(2), except that such term shall also include an institution conducting an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility which offers postgraduate training.
 
 #### (3) Eligible student
 
-&emsp;The term “eligible student” has the meaning given such term by section 25A(b)(3).
+&emsp;The term "eligible student" has the meaning given such term by section 25A(b)(3).
 
 #### (4) Dependent
 
-&emsp;The term “dependent” has the meaning given such term by section 152 (determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof).
+&emsp;The term "dependent" has the meaning given such term by section 152 (determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof).
 
 #### (e) Special rules
 
@@ -122,13 +122,13 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2001" for "calendar year 1992" in subparagraph (B) thereof.
 
 #### (2) Rounding
 
 &emsp;If any amount as adjusted under paragraph (1) is not a multiple of $5,000, such amount shall be rounded to the next lowest multiple of $5,000.
 
-(Added Pub. L. 105–34, title II, §202(a), Aug. 5, 1997, 111 Stat. 806; amended Pub. L. 105–206, title VI, §6004(b), July 22, 1998, 112 Stat. 792; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(A), (3), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§402(b)(2)(B), 412(a)(1), (b)(1), (2), 431(c)(2), June 7, 2001, 115 Stat. 62–64, 68; Pub. L. 108–311, title II, §207(20), title IV, §408(b)(5), Oct. 4, 2004, 118 Stat. 1178, 1192; Pub. L. 108–357, title I, §102(d)(2), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–135, title IV, §412(t), Dec. 21, 2005, 119 Stat. 2638.)
+(Added Pub. L. 105–34, title II, §202(a), Aug. 5, 1997, 111 Stat. 806; amended Pub. L. 105–206, titleVI, §6004(b), July 22, 1998, 112 Stat. 792; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(A), (3), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§402(b)(2)(B), 412(a)(1), (b)(1), (2), 431(c)(2), June 7, 2001, 115 Stat. 62–64, 68; Pub. L. 108–311, title II, §207(20), title IV, §408(b)(5), Oct. 4, 2004, 118 Stat. 1178, 1192; Pub. L. 108–357, title I, §102(d)(2), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–135, title IV, §412(t), Dec. 21, 2005, 119 Stat. 2638.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -146,49 +146,49 @@ Another prior section 221, added Pub. L. 97–34, title I, §103(a), Aug. 13, 19
 
 #### Amendments
 
-<b>2005</b>—Subsec. (d)(2). Pub. L. 109–135 substituted “the Taxpayer Relief Act of 1997” for “this Act”.
+<b>2005</b>—Subsec. (d)(2). Pub. L. 109–135 substituted "the Taxpayer Relief Act of 1997" for "this Act".
 
-<b>2004</b>—Subsec. (b)(2)(C)(i). Pub. L. 108–357 inserted “199,” before “222”.
+<b>2004</b>—Subsec. (b)(2)(C)(i). Pub. L. 108–357 inserted "199," before "222".
 
-Subsec. (d)(4). Pub. L. 108–311, §207(20), inserted “(determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof)” after “section 152”.
+Subsec. (d)(4). Pub. L. 108–311, §207(20), inserted "(determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof)" after "section 152".
 
 Subsec. (f)(1). Pub. L. 108–311, §408(b)(5), amended directory language of Pub. L. 107–16, §412(b)(2). See 2001 Amendment note below.
 
 <b>2001</b>—Subsec. (b)(2)(B)(i), (ii). Pub. L. 107–16, §412(b)(1), amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
 
-“(i) the excess of—
+"(i) the excess of—
 
-&emsp;“(I) the taxpayer's modified adjusted gross income for such taxable year, over
+&emsp;"(I) the taxpayer's modified adjusted gross income for such taxable year, over
 
-&emsp;“(II) $40,000 ($60,000 in the case of a joint return), bears to
+&emsp;"(II) $40,000 ($60,000 in the case of a joint return), bears to
 
-“(ii) $15,000.”
+"(ii) $15,000."
 
-Subsec. (b)(2)(C)(i). Pub. L. 107–16, §431(c)(2), inserted “222,” before “911”.
+Subsec. (b)(2)(C)(i). Pub. L. 107–16, §431(c)(2), inserted "222," before "911".
 
-Subsec. (d). Pub. L. 107–16, §412(a)(1), redesignated subsec. (e) as (d), and struck out heading and text of former subsec. (d). Text read as follows: “A deduction shall be allowed under this section only with respect to interest paid on any qualified education loan during the first 60 months (whether or not consecutive) in which interest payments are required. For purposes of this paragraph, any loan and all refinancings of such loan shall be treated as 1 loan. Such 60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section.”
+Subsec. (d). Pub. L. 107–16, §412(a)(1), redesignated subsec. (e) as (d), and struck out heading and text of former subsec. (d). Text read as follows: "A deduction shall be allowed under this section only with respect to interest paid on any qualified education loan during the first 60 months (whether or not consecutive) in which interest payments are required. For purposes of this paragraph, any loan and all refinancings of such loan shall be treated as 1 loan. Such 60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section."
 
 Subsec. (e). Pub. L. 107–16, §412(a)(1), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (e)(2)(A). Pub. L. 107–16, §402(b)(2)(B), inserted “529,” after “135,”.
+Subsec. (e)(2)(A). Pub. L. 107–16, §402(b)(2)(B), inserted "529," after "135,".
 
 Subsec. (f). Pub. L. 107–16, §412(a)(1), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (f)(1). Pub. L. 107–16, §412(b)(2), as amended by Pub. L. 108–311, §408(b)(5), substituted “$50,000 and $100,000 amounts” for “$40,000 and $60,000 amounts”.
+Subsec. (f)(1). Pub. L. 107–16, §412(b)(2), as amended by Pub. L. 108–311, §408(b)(5), substituted "$50,000 and $100,000 amounts" for "$40,000 and $60,000 amounts".
 
 Subsec. (g). Pub. L. 107–16, §412(a)(1), redesignated subsec. (g) as (f).
 
-<b>1998</b>—Subsec. (b)(2)(C). Pub. L. 105–277, §4003(a)(2)(A)(iii), struck out concluding provisions which read as follows: “For purposes of sections 86, 135, 137, 219, and 469, adjusted gross income shall be determined without regard to the deduction allowed under this section.”
+<b>1998</b>—Subsec. (b)(2)(C). Pub. L. 105–277, §4003(a)(2)(A)(iii), struck out concluding provisions which read as follows: "For purposes of sections 86, 135, 137, 219, and 469, adjusted gross income shall be determined without regard to the deduction allowed under this section."
 
-Subsec. (b)(2)(C)(i). Pub. L. 105–277, §4003(a)(2)(A)(i), struck out “135, 137,” after “sections”.
+Subsec. (b)(2)(C)(i). Pub. L. 105–277, §4003(a)(2)(A)(i), struck out "135, 137," after "sections".
 
-Subsec. (b)(2)(C)(ii). Pub. L. 105–277, §4003(a)(2)(A)(ii), inserted “135, 137,” after “sections 86,”.
+Subsec. (b)(2)(C)(ii). Pub. L. 105–277, §4003(a)(2)(A)(ii), inserted "135, 137," after "sections 86,".
 
-Subsec. (d). Pub. L. 105–206, §6004(b)(2), inserted at end “Such 60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section.”
+Subsec. (d). Pub. L. 105–206, §6004(b)(2), inserted at end "Such 60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section."
 
-Subsec. (e)(1). Pub. L. 105–277, §4003(a)(3), inserted before period at end “or to any person by reason of a loan under any qualified employer plan (as defined in section 72(p)(4)) or under any contract referred to in section 72(p)(5)”.
+Subsec. (e)(1). Pub. L. 105–277, §4003(a)(3), inserted before period at end "or to any person by reason of a loan under any qualified employer plan (as defined in section 72(p)(4)) or under any contract referred to in section 72(p)(5)".
 
-Pub. L. 105–206, §6004(b)(1), inserted “by the taxpayer solely” after “incurred” in introductory provisions.
+Pub. L. 105–206, §6004(b)(1), inserted "by the taxpayer solely" after "incurred" in introductory provisions.
 
 #### Effective Date of 2004 Amendments
 
@@ -200,9 +200,9 @@ Amendment by section 207(20) of Pub. L. 108–311 applicable to taxable years be
 
 Amendment by section 402(b)(2)(B) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as a note under section 72 of this title.
 
-Pub. L. 107–16, title IV, §412(a)(3), June 7, 2001, 115 Stat. 64, provided that: “The amendments made by this subsection \[amending this section and section 6050S of this title\] shall apply with respect to any loan interest paid after December 31, 2001, in taxable years ending after such date.”
+Pub. L. 107–16, title IV, §412(a)(3), June 7, 2001, 115 Stat. 64, provided that: "The amendments made by this subsection \[amending this section and section 6050S of this title\] shall apply with respect to any loan interest paid after December 31, 2001, in taxable years ending after such date."
 
-Pub. L. 107–16, title IV, §412(b)(3), June 7, 2001, 115 Stat. 64, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 2001.”
+Pub. L. 107–16, title IV, §412(b)(3), June 7, 2001, 115 Stat. 64, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 2001."
 
 Amendment by section 431(c)(2) of Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 

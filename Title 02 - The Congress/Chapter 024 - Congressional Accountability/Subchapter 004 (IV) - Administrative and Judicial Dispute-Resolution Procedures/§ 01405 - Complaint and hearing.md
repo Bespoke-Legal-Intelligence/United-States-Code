@@ -58,7 +58,7 @@ Reasonable prehearing discovery may be permitted at the discretion of the hearin
 
 #### (A) In general
 
-&emsp;&emsp;If a person fails to comply with a subpoena, the Board may authorize the General Counsel to apply, in the name of the Office, to an appropriate United States district court for an order requiring that person to appear before the hearing officer to give testimony or produce records. The application may be made within the judicial district where the hearing is conducted or where that person is found, resides, or transacts business. Any failure to obey a lawful order of the district court issued pursuant to this section may be held by such court to be a civil contempt thereof.
+&emsp;&emsp;If a person fails to comply with a subpoena, the Board may authorize the General Counsel to apply, in the name of the Office, to an appropriate United States district court for an order requiring that person to appear before the hearing officer to give testimony or produce records. The applicationmay be made within the judicial district where the hearing is conducted or where that person is found, resides, or transacts business. Any failure to obey a lawful order of the district court issued pursuant to this section may be held by such court to be a civil contempt thereof.
 
 #### (B) Service of process
 

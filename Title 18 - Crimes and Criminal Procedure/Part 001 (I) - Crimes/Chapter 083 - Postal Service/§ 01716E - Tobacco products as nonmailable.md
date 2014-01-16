@@ -68,7 +68,7 @@ Contents.—The final rule issued under clause (i) shall require—
 
 &emsp;&emsp;(C)
 
-Definition.—In this paragraph, the term “minor” means an individual who is less than the minimum age required for the legal sale or purchase of tobacco products as determined by applicable law at the place the individual is located.
+Definition.—In this paragraph, the term "minor" means an individual who is less than the minimum age required for the legal sale or purchase of tobacco products as determined by applicable law at the place the individual is located.
 
 &emsp;(4)
 
@@ -106,7 +106,7 @@ Contents.—The final rule issued under clause (i) shall require—
 
 &emsp;&emsp;(C)
 
-Definition.—In this paragraph, the term “minor” means an individual who is less than the minimum age required for the legal sale or purchase of tobacco products as determined by applicable law at the place the individual is located.
+Definition.—In this paragraph, the term "minor" means an individual who is less than the minimum age required for the legal sale or purchase of tobacco products as determined by applicable law at the place the individual is located.
 
 &emsp;(5)
 
@@ -160,7 +160,7 @@ Contents.—The final rule issued under clause (i) shall require—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the recipient has signed a written statement that is in effect indicating that the recipient wishes to receive the mailings; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) the manufacturer or the legally authorized agent of the manufacturer has offered the opportunity for the recipient to withdraw the written statement described in item (cc) not less frequently than once in every 3-month period;
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) the manufacturer or the legally authorized agent of the manufacturer has offered the opportunity for the recipient to withdraw the written statement described in item (cc) not lessfrequently than once in every 3-month period;
 
 &emsp;&emsp;&emsp;&emsp;(III) the legally operating cigarette manufacturer or the legally authorized agent of the manufacturer submitting the cigarettes into the mails under this paragraph to affirm that any package mailed under this paragraph contains not more than 12 packs of cigarettes (240 cigarettes) on which all taxes levied on the cigarettes by the State and locality of delivery have been paid and all related State tax stamps or other tax-payment indicia have been applied;
 
@@ -176,9 +176,9 @@ Contents.—The final rule issued under clause (i) shall require—
 
 Definitions.—In this paragraph—
 
-&emsp;&emsp;&emsp;(i) the term “adult” means an individual who is not less than 21 years of age; and
+&emsp;&emsp;&emsp;(i) the term "adult" means an individual who is not less than 21 years of age; and
 
-&emsp;&emsp;&emsp;(ii) the term “consumer testing” means testing limited to formal data collection and analysis for the specific purpose of evaluating the product for quality assurance and benchmarking purposes of cigarette brands or sub-brands among existing adult smokers.
+&emsp;&emsp;&emsp;(ii) the term "consumer testing" means testing limited to formal data collection and analysis for the specific purpose of evaluating the product for quality assurance and benchmarking purposes of cigarette brands or sub-brands among existing adult smokers.
 
 &emsp;(6)
 
@@ -198,7 +198,7 @@ Criminal Penalty.—Whoever knowingly deposits for mailing or delivery, or knowi
 
 (f)
 
-Use of Penalties.—There is established a separate account in the Treasury, to be known as the “PACT Postal Service Fund”. Notwithstanding any other provision of law, an amount equal to 50 percent of any criminal fines, civil penalties, or other monetary penalties collected by the Federal Government in enforcing this section shall be transferred into the PACT Postal Service Fund and shall be available to the Postmaster General for the purpose of enforcing this subsection.
+Use of Penalties.—There is established a separate account in the Treasury, to be known as the "PACT Postal Service Fund". Notwithstanding any other provision of law, an amount equal to 50 percent of any criminal fines, civil penalties, or other monetary penalties collected by the Federal Government in enforcing this section shall be transferred into the PACT Postal Service Fund and shall be available to the Postmaster General for the purpose of enforcing this subsection.
 
 (g)
 
@@ -230,7 +230,7 @@ Other enforcement actions.—Nothing in this subsection shall be construed to pr
 
 (i)
 
-Definition.—In this section, the term “State” has the meaning given that term in section 1716(k).
+Definition.—In this section, the term "State" has the meaning given that term in section 1716(k).
 
 (Added Pub. L. 111–154, §3(a), Mar. 31, 2010, 124 Stat. 1103.)
 
@@ -252,7 +252,7 @@ Section effective on the date that is 90 days after March 31, 2010, see section 
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “a”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "a".</i>
 
 <i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

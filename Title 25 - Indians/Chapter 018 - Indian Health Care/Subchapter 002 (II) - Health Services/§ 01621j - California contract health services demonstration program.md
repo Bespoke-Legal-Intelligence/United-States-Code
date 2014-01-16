@@ -14,7 +14,7 @@ The Secretary shall establish a demonstration program to evaluate the use of a c
 
 #### (c) Advisory board
 
-There is hereby established an advisory board which shall advise the California Rural IndianHealth Board in carrying out the demonstration pursuant to this section. The advisory board shall be composed of representatives, selected by the California Rural Indian Health Board, from not less than 8 tribal health programs serving California Indians covered under such demonstration, at least one half of whom are not affiliated with the California Rural Indian Health Board.
+There is hereby established an advisory board which shall advise the California Rural Indian Health Board in carrying out the demonstration pursuant to this section. The advisory board shall be composed of representatives, selected by the California Rural Indian Health Board, from not less than 8 tribal health programs serving California Indians covered under such demonstration, at least one half of whom are not affiliated with the California Rural Indian Health Board.
 
 #### (d) Commencement and termination dates
 
@@ -30,9 +30,9 @@ Not later than July 1, 1998, the California Rural Indian Health Board shall subm
 
 &emsp;(3) the efficient management of high-cost contract care cases.
 
-#### (f) “High-cost contract care cases” defined
+#### (f) "High-cost contract care cases" defined
 
-For the purposes of this section, the term “high-cost contract care cases” means those cases in which the cost of the medical treatment provided to an individual—
+For the purposes of this section, the term "high-cost contract care cases" means those cases in which the cost of the medical treatment provided to an individual—
 
 &emsp;(1) would otherwise be eligible for reimbursement from the Catastrophic Health Emergency Fund established under section 1621a of this title, except that the cost of such treatment does not meet the threshold cost requirement established pursuant to section 1621a(b)(2) <sup>1</sup> of this title; and
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 111–148 is based on section 101(b)(3) of title I of S. 17
 
 <b>2010</b>—Subsec. (g). Pub. L. 111–148 struck out subsec. (g) which authorized appropriations for fiscal years 1996 through 2000.
 
-<b>1996</b>—Subsec. (g). Pub. L. 104–313 substituted “1996 through 2000” for “1993, 1994, 1995, 1996, and 1997”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–313 substituted "1996 through 2000" for "1993, 1994, 1995, 1996, and 1997".
 
 #### Termination of Advisory Boards
 

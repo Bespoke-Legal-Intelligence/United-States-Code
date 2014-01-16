@@ -8,97 +8,97 @@
 
 &emsp;(2) shall utilize the provisions and procedures contained in or prescribed by this part (other than section 4054 of this title) and sections 4081 and 4082 of this title to such extent and in such manner as he may consider necessary or appropriate to carry out the purpose of this section.
 
-(Pub. L. 90–448, title XIII, §1336, as added Pub. L. 91–152, title IV, §408, Dec. 24, 1969, 83 Stat. 396; amended Pub. L. 92–213, §2(a), Dec. 22, 1971, 85 Stat. 775; Pub. L. 93–234, title I, §106, Dec. 31, 1973, 87 Stat. 979; Pub. L. 94–173, §5, Dec. 23, 1975, 89 Stat. 1028; Pub. L. 94–375, §14(b), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 95–128, title VII, §701(b), Oct. 12, 1977, 91 Stat. 1144; Pub. L. 95–406, §6(b), Sept. 30, 1978, 92 Stat. 880; Pub. L. 95–557, title III, §308(b), Oct. 31, 1978, 92 Stat. 2098; Pub. L. 96–153, title VI, §602(b), Dec. 21, 1979, 93 Stat. 1137; Pub. L. 97–35, title III, §341(b)(2), Aug. 13, 1981, 95 Stat. 419; Pub. L. 97–289, §4(b), Oct. 6, 1982, 96 Stat. 1231; Pub. L. 98–35, §4(b), May 26, 1983, 97 Stat. 198; Pub. L. 98–109, §5(b), Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–181, title I \[title IV, §451(b), (d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 99–120, §4(a)(2), Oct. 8, 1985, 99 Stat. 503; Pub. L. 99–156, §4(a)(2), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, §4(a)(2), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, §4(a)(2), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, §3010(a)(2), Apr. 7, 1986, 100 Stat. 106; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title V, §541(b), Feb. 5, 1988, 101 Stat. 1939; Pub. L. 101–137, §1(b), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(b), Nov. 5, 1990, 104 Stat. 1388–23; Pub. L. 103–325, title V, §571(b), Sept. 23, 1994, 108 Stat. 2277; Pub. L. 105–46, §118, Sept. 30, 1997, 111 Stat. 1157; Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1377; Pub. L. 105–276, title III, title V, §599D(b), Oct. 21, 1998, 112 Stat. 2502, 2663; Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 689; Pub. L. 108–3, §2(a)(3), Jan. 13, 2003, 117 Stat. 7; Pub. L. 108–171, §2(a)(3), Dec. 6, 2003, 117 Stat. 2064; Pub. L. 108–199, div. H, §136(a)(3), Jan. 23, 2004, 118 Stat. 442; Pub. L. 108–264, title I, §101(c), June 30, 2004, 118 Stat. 714; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
+(Pub. L. 90–448, title XIII, §1336, as added Pub. L. 91–152, title IV, §408, Dec. 24, 1969, 83 Stat. 396; amended Pub. L. 92–213, §2(a), Dec. 22, 1971, 85 Stat. 775; Pub. L. 93–234, title I, §106, Dec. 31, 1973, 87 Stat. 979; Pub. L. 94–173, §5, Dec. 23, 1975, 89 Stat. 1028; Pub. L. 94–375, §14(b), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 95–128, title VII, §701(b), Oct. 12, 1977, 91 Stat. 1144; Pub. L. 95–406, §6(b), Sept. 30, 1978, 92 Stat. 880; Pub. L. 95–557, title III, §308(b), Oct. 31, 1978, 92 Stat. 2098; Pub. L. 96–153, title VI, §602(b), Dec. 21, 1979, 93 Stat. 1137; Pub. L. 97–35, title III, §341(b)(2), Aug. 13, 1981, 95 Stat. 419; Pub. L. 97–289, §4(b), Oct. 6, 1982, 96 Stat. 1231; Pub. L. 98–35, §4(b), May 26, 1983, 97 Stat. 198; Pub. L. 98–109, §5(b), Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–181, title I \[title IV, §451(b), (d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 99–120, §4(a)(2), Oct. 8, 1985, 99 Stat. 503; Pub. L. 99–156, §4(a)(2), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, §4(a)(2), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, §4(a)(2), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, §3010(a)(2), Apr. 7, 1986, 100 Stat. 106; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub.L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title V, §541(b), Feb. 5, 1988, 101 Stat. 1939; Pub. L. 101–137, §1(b), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(b), Nov. 5, 1990, 104 Stat. 1388–23; Pub. L. 103–325, title V, §571(b), Sept. 23, 1994, 108 Stat. 2277; Pub. L. 105–46, §118, Sept. 30, 1997, 111 Stat. 1157; Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1377; Pub. L. 105–276, title III, title V, §599D(b), Oct. 21, 1998, 112 Stat. 2502, 2663; Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 689; Pub. L. 108–3, §2(a)(3), Jan. 13, 2003, 117 Stat. 7; Pub. L. 108–171, §2(a)(3), Dec. 6, 2003, 117 Stat. 2064; Pub. L. 108–199, div. H, §136(a)(3), Jan. 23, 2004, 118 Stat. 442; Pub. L. 108–264, title I, §101(c), June 30, 2004, 118 Stat. 714; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director” in subsecs. (a) and (b).
+<b>2012</b>—Pub. L. 112–141 substituted "Administrator" for "Director" in subsecs. (a) and (b).
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–264 substituted “during the period ending on the date specified in section 4026 of this title, in accordance” for identical language.
+<b>2004</b>—Subsec. (a). Pub. L. 108–264 substituted "during the period ending on the date specified in section 4026 of this title, in accordance" for identical language.
 
 Pub. L. 108–199 made amendment identical to that made by Pub. L. 108–171. See 2003 Amendment note below.
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–171 substituted “on the date specified in section 4026 of this title” for “December 31, 2003”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–171 substituted "on the date specified in section 4026 of this title" for "December 31, 2003".
 
-Pub. L. 108–3 substituted “ending December 31, 2003, in” for “ending December 31, 2002, in”.
+Pub. L. 108–3 substituted "ending December 31, 2003, in" for "ending December 31, 2002, in".
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–73 substituted “December 31, 2002” for “September 30, 2001”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–73 substituted "December 31, 2002" for "September 30, 2001".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–276, §599D(b), which directed the substitution of “2001” for “1998”, was executed by substituting “2001” for “1999” to reflect the probable intent of Congress and the amendment by Pub. L. 105–276, title III, see below.
+<b>1998</b>—Subsec. (a). Pub. L. 105–276, §599D(b), which directed the substitution of "2001" for "1998", was executed by substituting "2001" for "1999" to reflect the probable intent of Congress and the amendment by Pub. L. 105–276, title III, see below.
 
-Pub. L. 105–276, title III, substituted “1999” for “1998”.
+Pub. L. 105–276, title III, substituted "1999" for "1998".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–65 substituted “September 30, 1998” for “October 23, 1997”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–65 substituted "September 30, 1998" for "October 23, 1997".
 
-Pub. L. 105–46 substituted “October 23, 1997” for “September 30, 1996”.
+Pub. L. 105–46 substituted "October 23, 1997" for "September 30, 1996".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–325 substituted “September 30, 1996” for “September 30, 1995”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–325 substituted "September 30, 1996" for "September 30, 1995".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508 substituted “September 30, 1995” for “September 30, 1991”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508 substituted "September 30, 1995" for "September 30, 1991".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–137 substituted “September 30, 1991” for “September 30, 1989”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–137 substituted "September 30, 1991" for "September 30, 1989".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–242 substituted “September 30, 1989” for “March 15, 1988”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–242 substituted "September 30, 1989" for "March 15, 1988".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–200 substituted "March 15, 1988" for "December 16, 1987".
 
-Pub. L. 100–179 substituted “December 16, 1987” for “December 2, 1987”.
+Pub. L. 100–179 substituted "December 16, 1987" for "December 2, 1987".
 
-Pub. L. 100–170 substituted “December 2, 1987” for “November 15, 1987”.
+Pub. L. 100–170 substituted "December 2, 1987" for "November 15, 1987".
 
-Pub. L. 100–154 substituted “November 15, 1987” for “October 31, 1987”.
+Pub. L. 100–154 substituted "November 15, 1987" for "October 31, 1987".
 
-Pub. L. 100–122 substituted “October 31, 1987” for “September 30, 1987”.
+Pub. L. 100–122 substituted "October 31, 1987" for "September 30, 1987".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–430 substituted "September 30, 1987" for "September 30, 1986".
 
-Pub. L. 99–345 substituted “September 30, 1986” for “June 6, 1986”.
+Pub. L. 99–345 substituted "September 30, 1986" for "June 6, 1986".
 
-Pub. L. 99–289 substituted “June 6, 1986” for “April 30, 1986”.
+Pub. L. 99–289 substituted "June 6, 1986" for "April 30, 1986".
 
-Pub. L. 99–272 directed amendment identical to Pub. L. 99–219 substituting “March 17, 1986” for “December 15, 1985”.
+Pub. L. 99–272 directed amendment identical to Pub. L. 99–219 substituting "March 17, 1986" for "December 15, 1985".
 
-Pub. L. 99–267 substituted “April 30, 1986” for “March 17, 1986”.
+Pub. L. 99–267 substituted "April 30, 1986" for "March 17, 1986".
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–219 substituted “March 17, 1986” for “December 15, 1985”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–219 substituted "March 17, 1986" for "December 15, 1985".
 
-Pub. L. 99–156 substituted “December 15, 1985” for “November 14, 1985”.
+Pub. L. 99–156 substituted "December 15, 1985" for "November 14, 1985".
 
-Pub. L. 99–120 substituted “November 14, 1985” for “September 30, 1985”.
+Pub. L. 99–120 substituted "November 14, 1985" for "September 30, 1985".
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181, §451(d)(1), substituted "Director" for "Secretary".
 
-Pub. L. 98–181, §451(b), substituted “September 30, 1985” for “November 30, 1983”.
+Pub. L. 98–181, §451(b), substituted "September 30, 1985" for "November 30, 1983".
 
-Pub. L. 98–109 substituted “November 30, 1983” for “September 30, 1983”.
+Pub. L. 98–109 substituted "November 30, 1983" for "September 30, 1983".
 
-Pub. L. 98–35 substituted “September 30, 1983” for “May 20, 1983”.
+Pub. L. 98–35 substituted "September 30, 1983" for "May 20, 1983".
 
-Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
+Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted "Director" for "Secretary".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–289 substituted “May 20, 1983” for “September 30, 1982”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–289 substituted "May 20, 1983" for "September 30, 1982".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted “1982” for “1981”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted "1982" for "1981".
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–153 substituted “1981” for “1980”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–153 substituted "1981" for "1980".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–557 substituted “September 30, 1980” for “October 31, 1978”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–557 substituted "September 30, 1980" for "October 31, 1978".
 
-Pub. L. 95–406 substituted “October 31, 1978” for “September 30, 1978”.
+Pub. L. 95–406 substituted "October 31, 1978" for "September 30, 1978".
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–128 substituted “1978” for “1977”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–128 substituted "1978" for "1977".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–375 substituted “September 30, 1977” for “December 31, 1976”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–375 substituted "September 30, 1977" for "December 31, 1976".
 
-<b>1975</b>—Subsec. (a). Pub. L. 94–173 substituted “1976” for “1975”.
+<b>1975</b>—Subsec. (a). Pub. L. 94–173 substituted "1976" for "1975".
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–234 substituted “1975” for “1973”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–234 substituted "1975" for "1973".
 
-<b>1971</b>—Subsec. (a). Pub. L. 92–213 substituted “1973” for “1971”.
+<b>1971</b>—Subsec. (a). Pub. L. 92–213 substituted "1973" for "1971".
 
 #### Effective Date of 2004 Amendment
 

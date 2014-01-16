@@ -68,7 +68,7 @@
 
 #### (1) Multiservice projects
 
-&emsp;Under a plan published under subsection (a) of this section, the Secretary shall, through grants or contracts, carry out multiservice projects—
+&emsp;Under a plan published under subsection (a) of this section, the Secretary shall, throughgrants or contracts, carry out multiservice projects—
 
 &emsp;&emsp;(A) that will test an array of approaches to the provision of employment and training services to a variety of targeted populations;
 
@@ -140,7 +140,7 @@
 
 #### (d) Dislocated worker projects
 
-Of the amount made available pursuant to section 2862(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects, relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (c)(4)(C) of this section. Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered through the dislocated worker office described in section 2918(b) of this title.
+Of the amount made available pursuant to section 2862(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects, relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (c)(4)(C) of this section. Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Suchprojects shall be administered through the dislocated worker office described in section 2918(b) of this title.
 
 #### (e) Energy efficiency and renewable energy worker training program
 
@@ -210,13 +210,13 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Under the program established under paragraph (1), the Secretary shall awardNational Energy Training Partnerships Grants on a competitive basis to eligible entities to enable such entities to carry out training that leads to economic self-sufficiency and to develop an energy efficiency and renewable energy industries workforce. Grants shall be awarded under this subparagraph so as to ensure geographic diversity with at least 2 grants awarded to entities located in each of the 4 Petroleum Administration for Defense Districts with no subdistricts, and at least 1 grant awarded to an entity located in each of the subdistricts of the Petroleum Administration for Defense District with subdistricts.
+&emsp;&emsp;&emsp;Under the program established under paragraph (1), the Secretary shall award National Energy Training Partnerships Grants on a competitive basis to eligible entities to enable such entities to carry out training that leads to economic self-sufficiency and to develop an energy efficiency and renewable energy industries workforce. Grants shall be awarded under this subparagraph so as to ensure geographic diversity with at least 2 grants awarded to entities located in each of the 4 Petroleum Administration for Defense Districts with no subdistricts, and at least 1 grant awarded to an entity located in each of the subdistricts of the Petroleum Administration for Defense District with subdistricts.
 
 #### (ii) Eligibility
 
 &emsp;&emsp;&emsp;To be eligible to receive a grant under clause (i), an entity shall be a nonprofit partnership that—
 
-&emsp;&emsp;&emsp;&emsp;(I) includes the equal participation of industry, including public or private employers, and labor organizations, including joint labor-management training programs, and may include workforce investment boards, community-based organizations, qualified service and conservation corps, educational institutions, small businesses, cooperatives, State and local veterans agencies, and veterans service organizations; and
+&emsp;&emsp;&emsp;&emsp;(I) includes the equal participation of industry, including public or private employers, and labor organizations, including joint labor-management training programs, and may include workforce investment boards, community-based organizations, qualified service and conservation corps, educational institutions, small businesses, cooperatives, State andlocal veterans agencies, and veterans service organizations; and
 
 &emsp;&emsp;&emsp;&emsp;(II) demonstrates—
 
@@ -398,7 +398,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### (7) Definition
 
-&emsp;As used in this subsection, the term “renewable energy” has the meaning given such term in section 15852(b)(2) of title 42.
+&emsp;As used in this subsection, the term "renewable energy" has the meaning given such term in section 15852(b)(2) of title 42.
 
 #### (8) Authorization of appropriations
 
@@ -414,7 +414,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1)(H) and (c)(2)(B)(i)(II), was in the original “this title” meaningtitle I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (b)(1)(H) and (c)(2)(B)(i)(II), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 The Wagner-Peyser Act, referred to in subsec. (e)(2)(C)(ii), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
@@ -424,7 +424,7 @@ This Act, referred to in subsec. (e)(4)(B), is Pub. L. 105–220, Aug. 7, 1998, 
 
 <b>2007</b>—Subsec. (e). Pub. L. 110–140 added subsec. (e).
 
-<b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–277, which directed the amendment of subsec. (b)(2) of this section by substituting “in accordance with generally applicable Federal requirements.” for “ ‘only on a competitive’ and all that follows through the period”, was executed to subsec. (b)(2)(A) by making the substitution for “only on a competitive basis, except that a noncompetitive award may be made in the case of a project that is funded jointly with other public or private sector entities that provide a portion of the funding for the project.”, to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–277, which directed the amendment of subsec. (b)(2) of this section by substituting "in accordance with generally applicable Federal requirements." for " 'only on a competitive' and all that follows through the period", was executed to subsec. (b)(2)(A) by making the substitution for "only on a competitive basis, except that a noncompetitive award may be made in the case of a project that is funded jointly with other public or private sector entities that provide a portion of the funding for the project.", to reflect the probable intent of Congress.
 
 #### Change of Name
 
@@ -438,5 +438,5 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 Pub. L. 105–277, div. C, title IV, §414(c), Oct. 21, 1998, 112 Stat. 2681–653, as amended, formerly set out as a note under this section, was transferred and is classified to section 2916a of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(6)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be paragraph "(6)".</i>
 

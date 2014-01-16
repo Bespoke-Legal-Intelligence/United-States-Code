@@ -76,15 +76,25 @@ The report required by subsection (b) of this section shall be submitted in uncl
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (d)(3), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50, War and National Defense, and Tables.
+The National Security Act of 1947, referred to in subsec. (d)(3), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Delegation of Functions
 
 For delegation of Congressional reporting functions of President under subsec. (d) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46075, set out as a note under section 301 of Title 3, The President.
+
+#### Delegation of Functions Under Section 804(h)(2)(A) of the Foreign Narcotics Kingpin Designation Act
+
+Memorandum of President of the United States, May 31, 2013, 78 F.R. 33943, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate the functions conferred upon the President by section 804(h)(2)(A) of the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1903(h)(2)(A)), to the Secretary of the Treasury.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

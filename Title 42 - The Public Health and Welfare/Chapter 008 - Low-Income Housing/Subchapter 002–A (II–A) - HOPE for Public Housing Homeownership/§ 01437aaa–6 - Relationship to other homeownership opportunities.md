@@ -10,9 +10,9 @@ Section 1437c(h) of this title, referred to in text, was repealed and a new sect
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–276, which directed amendment of text by striking out “section 5(h) and” in original (a reference to section 1437c(h) of this title), could not be executed because the word “and” does not appear.
+<b>1998</b>—Pub. L. 105–276, which directed amendment of text by striking out "section 5(h) and" in original (a reference to section 1437c(h) of this title), could not be executed because the word "and" does not appear.
 
-<b>1996</b>—Pub. L. 104–330 struck out “and subchapter II of this chapter” after “section 1437c(h) of this title”.
+<b>1996</b>—Pub. L. 104–330 struck out "and subchapter II of this chapter" after "section 1437c(h) of this title".
 
 #### Effective Date of 1998 Amendment
 

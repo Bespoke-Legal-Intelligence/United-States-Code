@@ -8,7 +8,7 @@ Establishment.—The Secretary of Defense may establish a Defense Intelligence S
 
 Regulations Consistent With Title 5
 
-Provisions.—The Secretary of Defense shall prescribe regulations for the Defense Intelligence Senior Executive Service which are consistent with the requirements set forth in sections 3131, 3132(a)(2), 3396(c), 3592, 3595(a), 5384, and 6304 of title 5, subsections (a), (b), and (c) of section 7543 of such title (except that any hearing or appeal to which a member of the Defense Intelligence Senior Executive Service is entitled shall be held or decided pursuant to those regulations), and subchapter II of chapter 43 of such title. To the extent that the Secretary determines itpracticable to apply to members of, or applicants for, the Defense Intelligence Senior Executive Service other provisions of title 5 that apply to members of, or applicants for, the Senior Executive Service, the Secretary shall also prescribe regulations to implement those provisions with respect to the Defense Intelligence Senior Executive Service.
+Provisions.—The Secretary of Defense shall prescribe regulations for the Defense Intelligence Senior Executive Service which are consistent with the requirements set forth in sections 3131, 3132(a)(2), 3396(c), 3592, 3595(a), 5384, and 6304 of title 5, subsections (a), (b), and (c) of section 7543 of such title (except that any hearing or appeal to which a member of the Defense Intelligence Senior Executive Service is entitled shall be held or decided pursuant to those regulations), and subchapter II of chapter 43 of such title. To the extent that the Secretary determines it practicable to apply to members of, or applicants for, the Defense Intelligence Senior Executive Service other provisions of title 5 that apply to members of, or applicants for, the Senior Executive Service, the Secretary shall also prescribe regulations to implement those provisions with respect to the Defense Intelligence Senior Executive Service.
 
 (c)
 
@@ -30,13 +30,13 @@ Provisions similar to those in this section were contained in sections 1590(f), 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “594” for “544”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted "594" for "544".
 
 <b>2004</b>—Subsec. (d). Pub. L. 108–375 added subsec. (d).
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted “544” for “517”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted "544" for "517".
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “517” for “492”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted "517" for "492".
 
 #### Effective Date
 

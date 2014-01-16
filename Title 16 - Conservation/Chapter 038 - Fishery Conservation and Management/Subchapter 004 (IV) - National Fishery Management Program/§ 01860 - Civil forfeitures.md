@@ -44,7 +44,7 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c), (d)(2), and (e), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (c), (d)(2), and (e), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
@@ -52,21 +52,21 @@ This chapter, referred to in subsecs. (c), (d)(2), and (e), was in the original 
 
 <b>1990</b>—Subsec. (e). Pub. L. 101–627 designated existing provisions as par. (1) and added par. (2).
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–659, §109(a)(1), amended second sentence generally. Prior to amendment, second sentence of subsec. (c) read as follows: “The provisions of the customs laws relating to—
+<b>1986</b>—Subsec. (c). Pub. L. 99–659, §109(a)(1), amended second sentence generally. Prior to amendment, second sentence of subsec. (c) read as follows: "The provisions of the customs laws relating to—
 
-&emsp;“(1) the disposition of forfeited property,
+&emsp;"(1) the disposition of forfeited property,
 
-&emsp;“(2) the proceeds from the sale of forfeited property,
+&emsp;"(2) the proceeds from the sale of forfeited property,
 
-&emsp;“(3) the remission or mitigation of forfeitures, and
+&emsp;"(3) the remission or mitigation of forfeitures, and
 
-&emsp;“(4) the compromise of claims,
+&emsp;"(4) the compromise of claims,
 
-> shall apply to any forfeiture ordered, and to any case in which forfeiture is alleged to be authorized, under this section, unless such provisions are inconsistent with the purposes, policy, and provisions of this chapter.”
+> shall apply to any forfeiture ordered, and to any case in which forfeiture is alleged to be authorized, under this section, unless such provisions are inconsistent with the purposes, policy, and provisions of this chapter."
 
 Subsec. (d)(1). Pub. L. 99–659, §109(a)(2), inserted provision that nothing in this paragraph may be construed to require the Secretary, except in the Secretary's discretion or pursuant to the order of a court under section 1861(d) of this title, to release on bond any seized fish or other property or the proceeds from the sale thereof.
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–453 inserted “(or the fair market value thereof)” after “fish” wherever appearing.
+<b>1983</b>—Subsec. (a). Pub. L. 97–453 inserted "(or the fair market value thereof)" after "fish" wherever appearing.
 
 #### Effective Date
 

@@ -33,3 +33,4 @@
 - [&sect; 01355 - Restrictions on employment of former officers or employees of Department of the Interior](%C2%A7%2001355%20-%20Restrictions%20on%20employment%20of%20former%20officers%20or%20employees%20of%20Department%20of%20the%20Interior.md)
 - [&sect; 01356 - Documentary, registry and manning requirements](%C2%A7%2001356%20-%20Documentary%2C%20registry%20and%20manning%20requirements.md)
 - [&sect; 01356a - Coastal impact assistance program](%C2%A7%2001356a%20-%20Coastal%20impact%20assistance%20program.md)
+- [&sect; 01356b - Transboundary hydrocarbon agreements](%C2%A7%2001356b%20-%20Transboundary%20hydrocarbon%20agreements.md)

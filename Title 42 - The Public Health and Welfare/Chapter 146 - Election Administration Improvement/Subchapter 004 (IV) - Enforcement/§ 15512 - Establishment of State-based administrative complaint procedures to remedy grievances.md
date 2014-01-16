@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(G) If, under the procedures, the State determines that there is no violation, the State shall dismiss the complaint and publish the results of the procedures.
 
-&emsp;&emsp;(H) The State shall make a final determination with respect to a complaint prior to the expiration of the 90-day period which begins on the date the complaint is filed, unless the complainant consents to a longer period for making such a determination.
+&emsp;&emsp;(H) The State shall make a final determination with respect to a complaint prior to the expiration of the 90-day period whichbegins on the date the complaint is filed, unless the complainant consents to a longer period for making such a determination.
 
 &emsp;&emsp;(I) If the State fails to meet the deadline applicable under subparagraph (H), the complaint shall be resolved within 60 days under alternative dispute resolution procedures established for purposes of this section. The record and other materials from any proceedings conducted under the complaint procedures established under this section shall be made available for use under the alternative dispute resolution procedures.
 
@@ -44,13 +44,13 @@
 
 #### (3) Nonparticipating State defined
 
-&emsp;In this section, a “nonparticipating State” is a State which, during 2003, does not notify any office which is responsible for making payments to States under any program under this chapter of its intent to participate in, and receive funds under, the program.
+&emsp;In this section, a "nonparticipating State" is a State which, during 2003, does not notify any office which is responsible for making payments to States under any program under this chapter of its intent to participate in, and receive funds under, the program.
 
 (Pub. L. 107–252, title IV, §402, Oct. 29, 2002, 116 Stat. 1715.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (b)(1)(A), (3), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (b)(1)(A), (3), was in the original "this Act", meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
 
-Subchapter III of this chapter, referred to in subsecs. (a)(2)(B), (F) and (b)(1)(B), (2), was in the original “title III”, meaning title III of Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1704, which is classified principally to subchapter III (§15481 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
+Subchapter III of this chapter, referred to in subsecs. (a)(2)(B), (F) and (b)(1)(B), (2), was in the original "title III", meaning title III of Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1704, which is classified principally to subchapter III (§15481 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
 

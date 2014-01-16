@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Feb. 18, 1980, Pub. L. 96–193, §106, 94 Stat. 53.
 
-The words “land uses which are” are omitted as surplus. The words “civil action” are substituted for “suit or action” for consistency in the revised title and with other titles of the United States Code. The words “damages or other” are omitted as surplus.
+The words "land uses which are" are omitted as surplus. The words "civil action" are substituted for "suit or action" for consistency in the revised title and with other titles of the United States Code. The words "damages or other" are omitted as surplus.
 

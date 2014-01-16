@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Navy Wives Clubs of America (in this chapter, the “corporation”), incorporated in California, is a federally chartered corporation.
+Federal Charter.—Navy Wives Clubs of America (in this chapter, the "corporation"), incorporated in California, is a federally chartered corporation.
 
 (b)
 

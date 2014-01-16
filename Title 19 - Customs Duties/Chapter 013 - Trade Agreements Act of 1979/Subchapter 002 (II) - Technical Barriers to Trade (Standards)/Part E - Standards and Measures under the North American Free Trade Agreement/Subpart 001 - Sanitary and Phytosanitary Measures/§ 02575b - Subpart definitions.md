@@ -4,11 +4,11 @@ Notwithstanding section 2571 of this title, for purposes of this subpart—
 
 #### (1) Animal
 
-&emsp;The term “animal” includes fish, bees, and wild fauna.
+&emsp;The term "animal" includes fish, bees, and wild fauna.
 
 #### (2) Approval procedure
 
-&emsp;The term “approval procedure” means any registration, notification, or other mandatory administrative procedure for—
+&emsp;The term "approval procedure" means any registration, notification, or other mandatory administrative procedure for—
 
 &emsp;&emsp;(A) approving the use of an additive for a stated purpose or under stated conditions, or
 
@@ -18,19 +18,19 @@ Notwithstanding section 2571 of this title, for purposes of this subpart—
 
 #### (3) Contaminant
 
-&emsp;The term “contaminant” includes pesticide and veterinary drug residues and extraneous matter.
+&emsp;The term "contaminant" includes pesticide and veterinary drug residues and extraneous matter.
 
 #### (4) Control or inspection procedure
 
-&emsp;The term “control or inspection procedure” means any procedure used, directly or indirectly, to determine that a sanitary or phytosanitary measure is fulfilled, including sampling, testing, inspection, evaluation, verification, monitoring, auditing, assurance of conformity, accreditation, registration, certification, or other procedure involving the physical examination of a good, of the packaging of a good, or of the equipment or facilities directly related to production, marketing, or use of a good, but does not mean an approval procedure.
+&emsp;The term "control or inspection procedure" means any procedure used, directly or indirectly, to determine that a sanitary or phytosanitary measure is fulfilled, including sampling, testing, inspection, evaluation, verification, monitoring, auditing, assurance of conformity, accreditation, registration, certification, or other procedure involving the physical examination of a good, of the packaging of a good, or of the equipment or facilities directly related to production, marketing, or use of a good, but does not mean an approval procedure.
 
 #### (5) Plant
 
-&emsp;The term “plant” includes wild flora.
+&emsp;The term "plant" includes wild flora.
 
 #### (6) Risk assessment
 
-&emsp;The term “risk assessment” means an evaluation of—
+&emsp;The term "risk assessment" means an evaluation of—
 
 &emsp;&emsp;(A) the potential for the introduction, establishment or spread of a pest or disease and associated biological and economic consequences; or
 
@@ -40,7 +40,7 @@ Notwithstanding section 2571 of this title, for purposes of this subpart—
 
 #### (A) In general
 
-&emsp;&emsp;The term “sanitary or phytosanitary measure” means a measure to—
+&emsp;&emsp;The term "sanitary or phytosanitary measure" means a measure to—
 
 &emsp;&emsp;&emsp;(i) protect animal or plant life or health in the United States from risks arising from the introduction, establishment, or spread of a pest or disease;
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—National Tropical Botanical Garden (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—National Tropical Botanical Garden (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

@@ -44,7 +44,7 @@ June 27, 1944, ch. 287, §§2 (1st 76 words), 11, 58 Stat. 387, 390.
 
 July 19, 1940, ch. 640 §4 “Sec. 12(d) (1st sentence)”, 54 Stat. 769.
 
-Subsection (a) is based on former section 633(3) (less last 10 words). The regulation-making power conferred by that section covers the power conferred by former section 633(2)7 (last 17 words) which is, therefore, omitted. The requirement of notice is preserved in section 3304. The words “through its members or the examiners” are omitted as unnecessary in view of section 1104. The authority of the President to prescribe rules, basedon former section 633(1) is carried into sections 2951, 3302, 3304(a), 3306(a), 3321, 7152, 7153, 7321, and 7322 of this title.
+Subsection (a) is based on former section 633(3) (less last 10 words). The regulation-making power conferred by that section covers the power conferred by former section 633(2)7 (last 17 words) which is, therefore, omitted. The requirement of notice is preserved in section 3304. The words “through its members or the examiners” are omitted as unnecessary in view of section 1104. The authority of the President to prescribe rules, based on former section 633(1) is carried into sections 2951, 3302, 3304(a), 3306(a), 3321, 7152, 7153, 7321, and 7322 of this title.
 
 In subsections (b)–(d), the word “rules” is omitted as included in “regulations”.
 

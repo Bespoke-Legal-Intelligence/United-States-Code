@@ -122,9 +122,9 @@
 
 #### (1) In general
 
-&emsp;For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 <sup>1</sup> of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 <sup>1</sup> of this title as a result of such investigation, the administering authority shall consider whether—
+&emsp;For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 <sup>1</sup> of this title (hereafter in this paragraph referred to as the "later-developed merchandise") is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 <sup>1</sup> of this title as a result of such investigation, the administering authority shall consider whether—
 
-&emsp;&emsp;(A) the later-developed merchandise has the same general physical characteristics as the merchandise with respect to which the order was originally issued (hereafter in this paragraph referred to as the “earlier product”),
+&emsp;&emsp;(A) the later-developed merchandise has the same general physical characteristics as the merchandise with respect to which the order was originally issued (hereafter in this paragraph referred to as the "earlier product"),
 
 &emsp;&emsp;(B) the expectations of the ultimate purchasers of the later-developed merchandise are the same as for the earlier product,
 

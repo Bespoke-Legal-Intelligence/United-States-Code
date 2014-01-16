@@ -4,9 +4,9 @@
 
 Promotions of officers of the Regular Corps to any grade up to and including the director grade shall be either permanent promotions based on length of service, other permanent promotions to fill vacancies, or temporary promotions. Permanent promotions shall be made by the President, and temporary promotions shall be made by the President. Each permanent promotion shall be to the next higher grade, and shall be made only after examination given in accordance with regulations of the President.
 
-#### (b) Promotion to certain grades only to fill vacancies; regulations; “restricted grade” defined
+#### (b) Promotion to certain grades only to fill vacancies; regulations; "restricted grade" defined
 
-The President may by regulation provide that in a specified professional category permanent promotions to the senior grade, or to both the full grade and the senior grade, shall be made only if there are vacancies in such grade. A grade in any category with respect to which such regulations have been issued is referred to in this section as a “restricted grade”.
+The President may by regulation provide that in a specified professional category permanent promotions to the senior grade, or to both the full grade and the senior grade, shall be made only if there are vacancies in such grade. A grade in any category with respect to which such regulations have been issued is referred to in this section as a "restricted grade".
 
 #### (c) Examinations
 
@@ -32,11 +32,11 @@ If an officer who has completed the years of service required for promotion to a
 
 If, for reasons other than physical disability, an officer of the Regular Corps in the warrant officer (W–1) grade or junior assistant grade is found pursuant to subsection (c) of this section not to be qualified for promotion he shall be separated from the Service. If, for reasons other than physical disability, an officer of the Regular Corps in the chief warrant officer (W–2), chief warrant officer (W–3), assistant, senior assistant, or full grade, after having been twice examined for promotion (other than promotion to a restricted grade), fails to be promoted—
 
-&emsp;(1) if in the chief warrant officer (W–2) or assistant grade he shall be separated from the Service and paid six months’ basic pay and allowances;
+&emsp;(1) if in the chief warrant officer (W–2) or assistant grade he shall be separated from the Service and paid six months' basic pay and allowances;
 
 &emsp;(2) if in the chief warrant officer (W–3) or senior assistant grade he shall be separated from the Service and paid one year's basic pay and allowances;
 
-&emsp;(3) if in the full grade he shall be considered as not in line for promotion and shall, at such time thereafter as the Surgeon General may determine, be retired from the Service with retired pay (unless he is entitled to a greater amount by reason of another provision of law)—
+&emsp;(3) if in the full grade he shall be considered as not in line for promotion and shall, at suchtime thereafter as the Surgeon General may determine, be retired from the Service with retired pay (unless he is entitled to a greater amount by reason of another provision of law)—
 
 &emsp;&emsp;(A) in the case of an officer who first became a member of a uniformed service before September 8, 1980, at the rate of 2½ percent of the retired pay base determined under section 1406(h) of title 10 for each year, not in excess of 30, of his active commissioned service in the Service; or
 
@@ -52,7 +52,7 @@ If an officer of the Regular Corps, eligible to take an examination for promotio
 
 #### (i) Review of record; separation from service
 
-At the end of his first three years of service, the record of each officer of the Regular Corps originally appointed to the senior assistant grade or above, shall be reviewed in accordance with regulations of the President and, if found not qualified for further service, he shall be separated from the Service and paid six months’ pay and allowances.
+At the end of his first three years of service, the record of each officer of the Regular Corps originally appointed to the senior assistant grade or above, shall be reviewed in accordance with regulations of the President and, if found not qualified for further service, he shall be separated from the Service and paid six months' pay and allowances.
 
 #### (j) Determination of order of seniority
 
@@ -70,23 +70,23 @@ Whenever the number of officers of the Regular Corps on active duty, plus the nu
 
 #### (m) Acceptance of promotion; oath and affidavit
 
-Any officer of the Regular Corps, or any officer of the Reserve Corps on active duty, who is promoted to a higher grade shall, unless he expressly declines such promotion, be deemed for all purposes to have accepted such promotion; and shall not be required to renew his oath of office, or to execute a new affidavit as required by section 3332 of title 5.
+Any officer of the Regular Corps, or any officer of the Reserve Corps on active duty, who is promoted to a higher grade shall, unless he expressly declines such promotion, be deemed for all purposes to have accepted such promotion;and shall not be required to renew his oath of office, or to execute a new affidavit as required by section 3332 of title 5.
 
 (July 1, 1944, ch. 373, title II, §210, 58 Stat. 687; Feb. 28, 1948, ch. 83, §6(a), 62 Stat. 42; Oct. 12, 1949, ch. 681, title V, §521(c), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §4(a), 70 Stat. 117; Pub. L. 86–415, §5(c), Apr. 8, 1960, 74 Stat. 34; Pub. L. 87–649, §11(2), Sept. 7, 1962, 76 Stat. 497; Pub. L. 96–76, title III, §307, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(1), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 99–348, title II, §207(a), July 1, 1986, 100 Stat. 701; Pub. L. 112–166, §2(ff)(2), Aug. 10, 2012, 126 Stat. 1290.)
 
 #### Codification
 
-In subsec. (m), “section 3332 of title 5” substituted for “the Act of December 11, 1926, as amended (5 U.S.C. 21a)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (m), "section 3332 of title 5" substituted for "the Act of December 11, 1926, as amended (5 U.S.C. 21a)" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” after “Permanent promotions shall be made by the President”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" after "Permanent promotions shall be made by the President".
 
 <b>1986</b>—Subsec. (g)(3). Pub. L. 99–348 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
-“(A) in the case of an officer who first became a member of a uniformed service before September 8, 1980, at the rate of 2½ per centum of basic pay of the permanent grade held by him at the time of retirement for each year, not in excess of thirty, of his active commissioned service in the Service; or
+"(A) in the case of an officer who first became a member of a uniformed service before September 8, 1980, at the rate of 2½ per centum of basic pay of the permanent grade held by him at the time of retirement for each year, not in excess of thirty, of his active commissioned service in the Service; or
 
-“(B) in the case of an officer who first became a member of a uniformed service on or after September 8, 1980, 2½ per centum of the monthly retired pay base computed under section 1407(h) of title 10, for each year, not in excess of thirty, of his active commissioned service in the Service.”
+"(B) in the case of an officer who first became a member of a uniformed service on or after September 8, 1980, 2½ per centum of the monthly retired pay base computed under section 1407(h) of title 10, for each year, not in excess of thirty, of his active commissioned service in the Service."
 
 <b>1980</b>—Subsec. (g)(3). Pub. L. 96–342 revised provisions into subpars. (A) and (B) and substituted provisions respecting computation of retired pay for officers who became members of the uniformed service before Sept. 8, 1980, and for officers who became members of the uniformed service on or after Sept. 8, 1980, for provisions respecting computation of retired pay for officers.
 
@@ -94,13 +94,13 @@ In subsec. (m), “section 3332 of title 5” substituted for “the Act of Dece
 
 Subsec. (g). Pub. L. 96–76, §307(b), in provision before par. (1), inserted applicability to separation from Service of warrant officers and chief warrant officers subsequent to one examination or two examinations, respectively, in par. (1), inserted applicability to a chief warrant officer (W–2), and in par. (2), inserted applicability to a chief warrant officer (W–3).
 
-<b>1962</b>—Subsec. (g). Pub. L. 87–649 substituted “basic pay” for “pay” in cls. (1) and (2).
+<b>1962</b>—Subsec. (g). Pub. L. 87–649 substituted "basic pay" for "pay" in cls. (1) and (2).
 
-<b>1960</b>—Subsec. (g). Pub. L. 86–415 substituted “of the basic pay of the permanent grade held by him at the time of retirement for each year” for “of his active duty pay at the time of retirement for each complete year” in cl. (3).
+<b>1960</b>—Subsec. (g). Pub. L. 86–415 substituted "of the basic pay of the permanent grade held by him at the time of retirement for each year" for "of his active duty pay at the time of retirement for each complete year" in cl. (3).
 
-<b>1956</b>—Subsec. (d)(2). Act Apr. 27, 1956, struck out “pay period and for purposes of” before “seniority in grade”.
+<b>1956</b>—Subsec. (d)(2). Act Apr. 27, 1956, struck out "pay period and for purposes of" before "seniority in grade".
 
-<b>1949</b>—Subsec. (g). Act Oct. 12, 1949, struck out “incurred in line of duty” wherever appearing.
+<b>1949</b>—Subsec. (g). Act Oct. 12, 1949, struck out "incurred in line of duty" wherever appearing.
 
 <b>1948</b>—Act Feb. 28, 1948, amended subsecs. (a) to (c) generally and added subsecs. (d) to (m).
 

@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Environmental Protection Agency.
+&emsp;The term "Administrator" means the Administrator of the Environmental Protection Agency.
 
 #### (2) Alternative fuel
 
-&emsp;The term “alternative fuel” means—
+&emsp;The term "alternative fuel" means—
 
 &emsp;&emsp;(A) liquefied natural gas, compressed natural gas, liquefied petroleum gas, hydrogen, or propane;
 
@@ -20,7 +20,7 @@ In this section:
 
 #### (3) Clean school bus
 
-&emsp;The term “clean school bus” means a school bus with a gross vehicle weight of greater than 14,000 pounds that—
+&emsp;The term "clean school bus" means a school bus with a gross vehicle weight of greater than 14,000 pounds that—
 
 &emsp;&emsp;(A) is powered by a heavy duty engine; and
 
@@ -30,7 +30,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term “eligible recipient” means—
+&emsp;&emsp;Subject to subparagraph (B), the term "eligible recipient" means—
 
 &emsp;&emsp;&emsp;(i) 1 or more local or State governmental entities responsible for—
 
@@ -48,11 +48,11 @@ In this section:
 
 #### (5) Retrofit technology
 
-&emsp;The term “retrofit technology” means a particulate filter or other emissions control equipment that is verified or certified by the Administrator or the California Air Resources Board as an effective emission reduction technology when installed on an existing school bus.
+&emsp;The term "retrofit technology" means a particulate filter or other emissions control equipment that is verified or certified by the Administrator or the California Air Resources Board as an effective emission reduction technology when installed on an existing school bus.
 
 #### (6) Ultra-low sulfur diesel fuel
 
-&emsp;The term “ultra-low sulfur diesel fuel” means diesel fuel that contains sulfur at not more than 15 parts per million.
+&emsp;The term "ultra-low sulfur diesel fuel" means diesel fuel that contains sulfur at not more than 15 parts per million.
 
 #### (b) Program for retrofit or replacement of certain existing school buses with clean school buses
 

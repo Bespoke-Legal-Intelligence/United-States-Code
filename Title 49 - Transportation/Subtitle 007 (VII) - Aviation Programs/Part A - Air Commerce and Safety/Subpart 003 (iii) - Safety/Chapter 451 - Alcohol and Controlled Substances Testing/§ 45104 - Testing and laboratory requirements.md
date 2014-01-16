@@ -6,7 +6,7 @@ In carrying out section 45102 of this title, the Administrator of the Federal Av
 
 &emsp;(2) for laboratories and testing procedures for controlled substances, incorporate the Department of Health and Human Services scientific and technical guidelines dated April 11, 1988, and any amendments to those guidelines, including mandatory guidelines establishing—
 
-&emsp;&emsp;(A) comprehensive standards for every aspect of laboratory controlled substances testing and laboratory procedures to be applied in carrying out this chapter, including standards requiring the use of the best available technology to ensure the complete reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimens collected for controlled substances testing;
+&emsp;&emsp;(A) comprehensive standards for every aspect of laboratory controlled substancestesting and laboratory procedures to be applied in carrying out this chapter, including standards requiring the use of the best available technology to ensure the complete reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimens collected for controlled substances testing;
 
 &emsp;&emsp;(B) the minimum list of controlled substances for which individuals may be tested; and
 
@@ -42,15 +42,15 @@ Historical and Revision Notes
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §614(d); added Oct. 28, 1991, Pub. L. 102–143, §3(a), 105 Stat. 955.
 
-In this section, the word “samples” is omitted as surplus.
+In this section, the word "samples" is omitted as surplus.
 
-In clause (2), before subclause (A), the word “subsequent” is omitted as surplus.
+In clause (2), before subclause (A), the word "subsequent" is omitted as surplus.
 
-In clause (3), the words “of any individual” are omitted as surplus.
+In clause (3), the words "of any individual" are omitted as surplus.
 
-In clause (4), the words “by any individual” are omitted as surplus.
+In clause (4), the words "by any individual" are omitted as surplus.
 
-In clause (5), the word “tested” is substituted for “assayed” for consistency. The words “2d confirmation test” are substituted for “independent test” for clarity and consistency.
+In clause (5), the word "tested" is substituted for "assayed" for consistency. The words "2d confirmation test" are substituted for "independent test" for clarity and consistency.
 
-In clause (6), the word “Secretary” is substituted for “Department” for consistency in the revised title and with other titles of the United States Code.
+In clause (6), the word "Secretary" is substituted for "Department" for consistency in the revised title and with other titles of the United States Code.
 

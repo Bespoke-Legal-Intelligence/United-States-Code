@@ -36,7 +36,7 @@ Pub. L. 104–106, div. E, title LIII, §5303, Feb. 10, 1996, 110 Stat. 692.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–314 and Pub. L. 107–347 amended subsec. (a) identically, substituting “the pilot” for “a pilot” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–314 and Pub. L. 107–347 amended subsec. (a) identically, substituting "the pilot" for "a pilot" in introductory provisions.
 
 #### Effective Date of 2002 Amendment
 

@@ -98,7 +98,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 #### (3) Suspension period
 
-&emsp;For purposes of this subsection, the term “suspension period” means the period—
+&emsp;For purposes of this subsection, the term "suspension period" means the period—
 
 &emsp;&emsp;(A) beginning on the day after the close of the 36-month period under paragraph (1); and
 
@@ -128,7 +128,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;&emsp;<b>For authority to suspend running of interest, etc. by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 94–455, title XII, §1212(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1712, 1834; Pub. L. 96–589, §6(b)(2), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 99–514, title XV, §1563(a), Oct. 22, 1986, 100 Stat. 2762; Pub. L. 100–647, title I, §1015(n), title VI, §6229(a), Nov. 10, 1988, 102 Stat. 3572, 3733; Pub. L. 104–168, title III, §§301(a), (b), 302(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1457, 1464; Pub. L. 105–206, title III, §§3305(a),3309(a), July 22, 1998, 112 Stat. 743, 745; Pub. L. 105–277, div. J, title IV, §4003(e)(2), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–134, title I, §112(d)(1), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–357, title VIII, §903(a)–(c), Oct. 22, 2004, 118 Stat. 1652; Pub. L. 109–135, title III, §303(b)(1), Dec. 21, 2005, 119 Stat. 2609; Pub. L. 110–28, title VIII, §8242(a), May 25, 2007, 121 Stat. 200.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 94–455, title XII, §1212(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1712, 1834; Pub. L. 96–589, §6(b)(2), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 99–514, title XV, §1563(a), Oct. 22, 1986, 100 Stat. 2762; Pub. L. 100–647, title I, §1015(n), title VI, §6229(a), Nov. 10, 1988, 102 Stat. 3572, 3733; Pub. L. 104–168, title III, §§301(a), (b), 302(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1457, 1464; Pub. L. 105–206, title III, §§3305(a), 3309(a), July 22, 1998, 112 Stat. 743, 745; Pub. L. 105–277, div. J, title IV, §4003(e)(2), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–134, title I, §112(d)(1), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–357, title VIII, §903(a)–(c), Oct. 22, 2004, 118 Stat. 1652; Pub. L. 109–135, title III, §303(b)(1), Dec. 21, 2005, 119 Stat. 2609; Pub. L. 110–28, title VIII, §8242(a), May 25, 2007, 121 Stat. 200.)
 
 #### References in Text
 
@@ -138,11 +138,11 @@ Section 6664(d)(2)(A), referred to in subsec. (g)(2)(E), was redesignated as sec
 
 #### Amendments
 
-<b>2007</b>—Subsec. (g)(1)(A), (3)(A). Pub. L. 110–28 substituted “36-month period” for “18-month period”.
+<b>2007</b>—Subsec. (g)(1)(A), (3)(A). Pub. L. 110–28 substituted "36-month period" for "18-month period".
 
-<b>2005</b>—Subsec. (g)(1). Pub. L. 109–135 inserted at end “If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing that the taxpayer owes an additional amount of tax for the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed.”
+<b>2005</b>—Subsec. (g)(1). Pub. L. 109–135 inserted at end "If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing that the taxpayer owes an additional amount of tax for the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed."
 
-<b>2004</b>—Subsec. (g)(1)(A). Pub. L. 108–357, §903(a), substituted “18-month period” for “1-year period (18-month period in the case of taxable years beginning before January 1, 2004)” in introductory provisions.
+<b>2004</b>—Subsec. (g)(1)(A). Pub. L. 108–357, §903(a), substituted "18-month period" for "1-year period (18-month period in the case of taxable years beginning before January 1, 2004)" in introductory provisions.
 
 Subsec. (g)(2)(D). Pub. L. 108–357, §903(b), added subpar. (D). Former subpar. (D) redesignated (E).
 
@@ -152,9 +152,9 @@ Pub. L. 108–357, §903(b), redesignated subpar. (D) as (E).
 
 Subsec. (g)(2)(F). Pub. L. 108–357, §903(c), redesignated subpar. (E) as (F).
 
-Subsec. (g)(3)(A). Pub. L. 108–357, §903(a), substituted “18-month period” for “1-year period (18-month period in the case of taxable years beginning before January 1, 2004)”.
+Subsec. (g)(3)(A). Pub. L. 108–357, §903(a), substituted "18-month period" for "1-year period (18-month period in the case of taxable years beginning before January 1, 2004)".
 
-<b>2002</b>—Subsecs. (h), (i). Pub. L. 107–134 added subsec. (i), redesignated former subsec. (i) as (h), and struck out former subsec. (h), which had authorized abatement of interest on underpayments by taxpayers in Presidentially declared disaster areas and defined the term “Presidentially declared disaster area” for purposes of this provision.
+<b>2002</b>—Subsecs. (h), (i). Pub. L. 107–134 added subsec. (i), redesignated former subsec. (i) as (h), and struck out former subsec. (h), which had authorized abatement of interest on underpayments by taxpayers in Presidentially declared disaster areas and defined the term "Presidentially declared disaster area" for purposes of this provision.
 
 <b>1998</b>—Subsec. (g). Pub. L. 105–206, §3305(a), added subsec. (g). Former subsec. (g) redesignated (h).
 
@@ -162,87 +162,87 @@ Subsec. (h). Pub. L. 105–206, §3309(a), added subsec. (h). Former subsec. (h)
 
 Pub. L. 105–206, §3305(a), redesignated subsec. (g) as (h).
 
-Subsec. (h)(2). Pub. L. 105–277 inserted “Robert T. Stafford” before “Disaster”.
+Subsec. (h)(2). Pub. L. 105–277 inserted "Robert T. Stafford" before "Disaster".
 
 Subsec. (i). Pub. L. 105–206, §3309(a), redesignated subsec. (h) as (i).
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–168, §301(b), substituted “Abatement of interest attributable to unreasonable errors” for “Assessments of interest attributable to errors” in heading.
+<b>1996</b>—Subsec. (e). Pub. L. 104–168, §301(b), substituted "Abatement of interest attributable to unreasonable errors" for "Assessments of interest attributable to errors" in heading.
 
-Subsec. (e)(1)(A), (B). Pub. L. 104–168, §301(a), inserted “unreasonable” before “error” and substituted “in performing a ministerial or managerial act” for “in performing a ministerial act”.
+Subsec. (e)(1)(A), (B). Pub. L. 104–168, §301(a), inserted "unreasonable" before "error" and substituted "in performing a ministerial or managerial act" for "in performing a ministerial act".
 
 Subsec. (g). Pub. L. 104–168, §302(a), added subsec. (g).
 
-Subsec. (g)(1). Pub. L. 104–168, §701(c)(3), substituted “section 7430(c)(4)(A)(ii)” for “section 7430(c)(4)(A)(iii)”.
+Subsec. (g)(1). Pub. L. 104–168, §701(c)(3), substituted "section 7430(c)(4)(A)(ii)" for "section 7430(c)(4)(A)(iii)".
 
-<b>1988</b>—Subsec. (e)(1)(B). Pub. L. 100–647, §1015(n), inserted “error or” before “delay” and “erroneous or” before “dilatory”.
+<b>1988</b>—Subsec. (e)(1)(B). Pub. L. 100–647, §1015(n), inserted "error or" before "delay" and "erroneous or" before "dilatory".
 
 Subsec. (f). Pub. L. 100–647, §6229(a), added subsec. (f).
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–514 added subsec. (e).
 
-<b>1980</b>—Subsec. (d). Pub. L. 96–589 substituted “section 6213(g)(2)(A)” for “section 6213(f)(2)(A)”.
+<b>1980</b>—Subsec. (d). Pub. L. 96–589 substituted "section 6213(g)(2)(A)" for "section 6213(f)(2)(A)".
 
-<b>1976</b>—Subsecs. (a), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
 Subsec. (d). Pub. L. 94–455, §1212(a), added subsec. (d).
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–28, title VIII, §8242(b), May 25, 2007, 121 Stat. 200, provided that: “The amendments made by this section \[amending this section\] shall apply to notices provided by the Secretary of the Treasury, or his delegate, after the date which is 6 months after the date of the enactment of this Act \[May 25, 2007\].”
+Pub. L. 110–28, title VIII, §8242(b), May 25, 2007, 121 Stat. 200, provided that: "The amendments made by this section \[amending this section\] shall apply to notices provided by the Secretary of the Treasury, or his delegate, after the date which is 6 months after the date of the enactment of this Act \[May 25, 2007\]."
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–135, title III, §303(b)(2), Dec. 21, 2005, 119 Stat. 2609, provided that: “The amendment made by this subsection \[amending this section\] shall apply to documents provided on or after the date of the enactment of this Act \[Dec. 21, 2005\].”
+Pub. L. 109–135, title III, §303(b)(2), Dec. 21, 2005, 119 Stat. 2609, provided that: "The amendment made by this subsection \[amending this section\] shall apply to documents provided on or after the date of the enactment of this Act \[Dec. 21, 2005\]."
 
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–357, title VIII, §903(d), Oct. 22, 2004, 118 Stat. 1652, as amended by Pub. L. 109–135, title III, §303(a)(1), Dec. 21, 2005, 119 Stat. 2608; Pub. L. 109–432, div. A, title IV, §426(b)(1), Dec. 20, 2006, 120 Stat. 2975, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2003.
 
-“(2)
+"(2)
 
 Exception for reportable or listed transactions.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The amendments made by subsection (c) \[amending this section\] shall apply with respect to interest accruing after October 3, 2004.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Special rule for certain listed and reportable transactions.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 In general.—Except as provided in clauses (ii), (iii), and (iv), the amendments made by subsection (c) shall also apply with respect to interest accruing on or before October 3, 2004.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
 Participants in settlement initiatives.—Clause (i) shall not apply to any transaction if, as of January 23, 2006—
 
-&emsp;&emsp;&emsp;“(I) the taxpayer is participating in a settlement initiative described in Internal Revenue Service Announcement 2005–80 with respect to such transaction, or
+&emsp;&emsp;&emsp;"(I) the taxpayer is participating in a settlement initiative described in Internal Revenue Service Announcement 2005–80 with respect to such transaction, or
 
-&emsp;&emsp;&emsp;“(II) the taxpayer has entered into a settlement agreement pursuant to such an initiative.
+&emsp;&emsp;&emsp;"(II) the taxpayer has entered into a settlement agreement pursuant to such an initiative.
 
 &nbsp;&nbsp;Subclause (I) shall not apply to any taxpayer if, after January 23, 2006, the taxpayer withdraws from, or terminates, participation in the initiative or the Secretary of the Treasury or the Secretary's delegate determines that a settlement agreement will not be reached pursuant to the initiative within a reasonable period of time.
 
-&emsp;&emsp;“(iii)
+&emsp;&emsp;"(iii)
 
 Taxpayers acting in good faith.—The Secretary of the Treasury or the Secretary's delegate may except from the application of clause (i) any transaction in which the taxpayer has acted reasonably and in good faith.
 
-&emsp;&emsp;“(iv)
+&emsp;&emsp;"(iv)
 
 Closed transactions.—Clause (i) shall not apply to a transaction if, as of December 14, 2005—
 
-&emsp;&emsp;&emsp;“(I) the assessment of all Federal income taxes for the taxable year in which the tax liability to which the interest relates arose is prevented by the operation of any law or rule of law, or
+&emsp;&emsp;&emsp;"(I) the assessment of all Federal income taxes for the taxable year in which the tax liability to which the interest relates arose is prevented by the operation of any law or rule of law, or
 
-&emsp;&emsp;&emsp;“(II) a closing agreement under section 7121 has been entered into with respect to the tax liability arising in connection with the transaction.”
+&emsp;&emsp;&emsp;"(II) a closing agreement under section 7121 has been entered into with respect to the tax liability arising in connection with the transaction."
 
-\[Pub. L. 109–432, div. A, title IV, §426(b)(2), Dec. 20, 2006, 120 Stat. 2975, provided that: “The amendment made by this subsection \[amending section 903(d) of Pub. L. 108–357, set out above\] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\] to which it relates.”\]
+\[Pub. L. 109–432, div. A, title IV, §426(b)(2), Dec. 20, 2006, 120 Stat. 2975, provided that: "The amendment made by this subsection \[amending section 903(d) of Pub. L. 108–357, set out above\] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\] to which it relates."\]
 
-\[Pub. L. 109–135, title III, §303(a)(2), Dec. 21, 2005, 119 Stat. 2609, provided that: “The amendment made by this subsection \[amending section 903(d) of Pub. L. 108–357, set out above\] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\] to which it relates.”\]
+\[Pub. L. 109–135, title III, §303(a)(2), Dec. 21, 2005, 119 Stat. 2609, provided that: "The amendment made by this subsection \[amending section 903(d) of Pub. L. 108–357, set out above\] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\] to which it relates."\]
 
 #### Effective Date of 2002 Amendment
 
@@ -252,49 +252,49 @@ Amendment by Pub. L. 107–134 applicable to disasters and terroristic or milita
 
 Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
-Pub. L. 105–206, title III, §3305(b), July 22, 1998, 112 Stat. 743, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3305(b), July 22, 1998, 112 Stat. 743, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[July 22, 1998\]."
 
 Pub. L. 105–206, title III, §3309(b), (c), July 22, 1998, 112 Stat. 745, provided that:
 
-“(b)
+"(b)
 
 Effective Date.—The amendment made by this section \[amending this section\] shall apply to disasters declared after December 31, 1997, with respect to taxable years beginning after December 31, 1997.
 
-“(c)
+"(c)
 
 Emergency Designation.—
 
-&emsp;“(1) For the purposes of section 252(e) of the Balanced Budget and Emergency Deficit Control Act \[2 U.S.C. 902(e)\], Congress designates the provisions of this section as an emergency requirement.
+&emsp;"(1) For the purposes of section 252(e) of the Balanced Budget and Emergency Deficit Control Act \[2 U.S.C. 902(e)\], Congress designates the provisions of this section as an emergency requirement.
 
-&emsp;“(2) The amendments made by subsections (a) and (b) of this section \[amending this section\] shall only take effect upon the transmittal by the President to the Congress of a message designating the provisions of subsections (a) and (b) as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act.”
+&emsp;"(2) The amendments made by subsections (a) and (b) of this section \[amending this section\] shall only take effect upon the transmittal by the President to the Congress of a message designating the provisions of subsections (a) and (b) as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act."
 
 \[For message of the President dated July 22, 1998, designating the provisions of section 3309(a), (b) of Pub. L. 105–206 as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act of 1985 on July 22, 1998, see Cong. Rec., vol. 144, p. H6160, Daily Issue.\]
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–168, title III, §301(c), July 30, 1996, 110 Stat. 1457, provided that: “The amendments made by this section \[amending this section\] shall apply to interest accruing with respect to deficiencies or payments for taxable years beginning after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title III, §301(c), July 30, 1996, 110 Stat. 1457, provided that: "The amendments made by this section \[amending this section\] shall apply to interest accruing with respect to deficiencies or payments for taxable years beginning after the date of the enactment of this Act \[July 30, 1996\]."
 
-Pub. L. 104–168, title III, §302(b), July 30, 1996, 110 Stat. 1458, provided that: “The amendment made by this section \[amending this section\] shall apply to requests for abatement after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title III, §302(b), July 30, 1996, 110 Stat. 1458, provided that: "The amendment made by this section \[amending this section\] shall apply to requests for abatement after the date of the enactment of this Act \[July 30, 1996\]."
 
-Pub. L. 104–168, title VII, §701(d), July 30, 1996, 110 Stat. 1464, provided that: “The amendments made by this section \[amending this section and sections 6656 and 7430 of this title\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title VII, §701(d), July 30, 1996, 110 Stat. 1464, provided that: "The amendments made by this section \[amending this section and sections 6656 and 7430 of this title\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\]."
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1015(n) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, §6229(b), Nov. 10, 1988, 102 Stat. 3733, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to advice requested on or after January 1, 1989.”
+Pub. L. 100–647, title VI, §6229(b), Nov. 10, 1988, 102 Stat. 3733, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to advice requested on or after January 1, 1989."
 
 #### Effective Date of 1986 Amendment
 
 Pub. L. 99–514, title XV, §1563(b), Oct. 22, 1986, 100 Stat. 2762, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by subsection (a) \[amending this section\] shall apply to interest accruing with respect to deficiencies or payments for taxable years beginning after December 31, 1978.
 
-“(2)
+"(2)
 
-Statute of limitations.—If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such amount (to the extent attributable to the application of the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period.”
+Statute of limitations.—If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such amount (to the extent attributable to the application of the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period."
 
 #### Effective Date of 1980 Amendment
 
@@ -302,7 +302,7 @@ Amendment by Pub. L. 96–589 effective on Oct. 1, 1979, but not applicable to p
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XII, §1212(b), Oct. 4, 1976, 90 Stat. 1712, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to returns filed for taxable years ending after the date of enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XII, §1212(b), Oct. 4, 1976, 90 Stat. 1712, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to returns filed for taxable years ending after the date of enactment of this Act \[Oct. 4, 1976\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

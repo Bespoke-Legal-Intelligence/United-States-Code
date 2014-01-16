@@ -28,7 +28,7 @@
 
 #### (B) Qualifying insured System bank
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “qualifying insured System bank” means any insured System bank that—
+&emsp;&emsp;For purposes of subparagraph (A), the term "qualifying insured System bank" means any insured System bank that—
 
 &emsp;&emsp;&emsp;(i) is in receivership;
 
@@ -60,7 +60,7 @@
 
 #### (ii) Rule for liquidations
 
-&emsp;&emsp;&emsp;For purposes of this subsection, the determination of the costs of liquidation of any insured System bank shall be made as of the earliest of—
+&emsp;&emsp;&emsp;For purposes of this subsection, the determination of the costs of liquidation ofany insured System bank shall be made as of the earliest of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the date on which a conservator is appointed for the insured System bank;
 
@@ -70,7 +70,7 @@
 
 #### (D) Rule for stand-alone assistance
 
-&emsp;&emsp;Before providing any assistance under paragraph (1), the Corporation shall evaluatethe adequacy of managerial resources of the insured System bank. The continued service of any director or senior ranking officer who serves in a policymaking role for the assisted insured System bank, as determined by the Corporation, shall be subject to approval by the Corporation as a condition of assistance.
+&emsp;&emsp;Before providing any assistance under paragraph (1), the Corporation shall evaluate the adequacy of managerial resources of the insured System bank. The continued service of any director or senior ranking officer who serves in a policymaking role for the assisted insured System bank, as determined by the Corporation, shall be subject to approval by the Corporation as a condition of assistance.
 
 #### (E) Discretionary determinations
 
@@ -116,7 +116,7 @@ Any agreement that shall diminish or defeat the right, title, or interest of the
 
 #### (e) Insured System bank
 
-As used in this section, the terms “insured System bank” and “bank” include each production credit association and other association making direct loans under the authority provided under section 2279b of this title.
+As used in this section, the terms "insured System bank" and "bank" include each production credit association and other association making direct loans under the authority provided under section 2279b of this title.
 
 #### (f) Effective date
 
@@ -126,21 +126,21 @@ The Corporation shall not exercise any authority under this section during the 5
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–105, §217(b)(1), substituted “Stand-alone assistance” for “In general” in par. heading.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–105, §217(b)(1), substituted "Stand-alone assistance" for "In general" in par. heading.
 
-Subsec. (a)(2). Pub. L. 104–105, §217(b)(2)(A), substituted “Facilitation of mergers or consolidation” for “Enumerated powers” in par. heading.
+Subsec. (a)(2). Pub. L. 104–105, §217(b)(2)(A), substituted "Facilitation of mergers or consolidation" for "Enumerated powers" in par. heading.
 
-Subsec. (a)(2)(A). Pub. L. 104–105, §217(b)(2)(B), substituted “In general” for “Facilitation of mergers or consolidation” in subpar. heading.
+Subsec. (a)(2)(A). Pub. L. 104–105, §217(b)(2)(B), substituted "In general" for "Facilitation of mergers or consolidation" in subpar. heading.
 
-Subsec. (a)(3)(A). Pub. L. 104–105, §217(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Assistance shall not be provided to an insured System bank under this subsection if the amount of such assistance exceeds an amount determined by the Corporation to be the cost of liquidating the bank (including paying the insured obligations issued on behalf of the bank). This subparagraph shall not apply to the provision of assistance to a bank if the Corporation determines that the continued operation of the bank is essential to provide adequate agricultural credit services in the area of operations of the bank.”
+Subsec. (a)(3)(A). Pub. L. 104–105, §217(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: "Assistance shall not be provided to an insured System bank under this subsection if the amount of such assistance exceeds an amount determined by the Corporation to be the cost of liquidating the bank (including paying the insured obligations issued on behalf of the bank). This subparagraph shall not apply to the provision of assistance to a bank if the Corporation determines that the continued operation of the bank is essential to provide adequate agricultural credit services in the area of operations of the bank."
 
 Subsec. (a)(3)(B) to (F). Pub. L. 104–105, §217(a), added subpars. (B) to (E) and redesignated former subpar. (B) as (F).
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–624 substituted “prior to January 1, 1993” for “beginning on the date of the enactment of this part”.
+<b>1990</b>—Subsec. (f). Pub. L. 101–624 substituted "prior to January 1, 1993" for "beginning on the date of the enactment of this part".
 
-<b>1989</b>—Subsec. (e). Pub. L. 101–220 inserted “and other association making direct loans under the authority provided under section 2279b of this title,” after “production credit association”.
+<b>1989</b>—Subsec. (e). Pub. L. 101–220 inserted "and other association making direct loans under the authority provided under section 2279b of this title," after "production credit association".
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm Credit System Insurance Corporation under this chapter on or after Jan. 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and effective for the calculation of the initial premium payment required under section 2277a–5(c) of this title, see section 6(c) of Pub. L. 101–220, set out as a note under section 2020 of this title.
+Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm Credit System InsuranceCorporation under this chapter on or after Jan. 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and effective for the calculation of the initial premium payment required under section 2277a–5(c) of this title, see section 6(c) of Pub. L. 101–220, set out as a note under section 2020 of this title.
 

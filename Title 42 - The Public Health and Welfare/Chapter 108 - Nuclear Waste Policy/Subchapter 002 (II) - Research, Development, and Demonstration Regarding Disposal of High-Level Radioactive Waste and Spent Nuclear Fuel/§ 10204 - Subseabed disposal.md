@@ -30,11 +30,11 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–245 which directed the substitution of “Science” for “Energy Research”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–245 which directed the substitution of "Science" for "Energy Research", was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-Subsec. (b)(2). Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research”.
+Subsec. (b)(2). Pub. L. 105–245 substituted "Office of Science" for "Office of Energy Research".
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–66 struck out subsec. (a) which required Secretary of Energy to report to Congress on subseabed disposal of spent nuclear fuel and high-level radioactive waste.
 
-Subsec. (b)(5). Pub. L. 104–66 struck out par. (5) which read as follows: “The Director of the Office of Subseabed Disposal Research shall annually prepare and submit a report to the Congress on the activities and expenditures of the Office.”
+Subsec. (b)(5). Pub. L. 104–66 struck out par. (5) which read as follows: "The Director of the Office of Subseabed Disposal Research shall annually prepare and submit a report to the Congress on the activities and expenditures of the Office."
 

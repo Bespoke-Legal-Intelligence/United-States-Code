@@ -16,7 +16,7 @@
 
 &emsp;(7) his position is changed from one grade to another grade.
 
-> For the purpose of this subsection, an individual employed by the Appalachian Regional Commission under section 14306(a)(2) of title 40, who was a Federal employee immediately prior to such employment by a commission and within 6 months after separation from such employment is employed in a position to which this subchapter applies, shall be treated as if transferredfrom a position in the executive branch to which this subchapter does not apply.
+> For the purpose of this subsection, an individual employed by the Appalachian Regional Commission under section 14306(a)(2) of title 40, who was a Federal employee immediately prior to such employment by a commission and within 6 months after separation from such employment is employed in a position to which this subchapter applies, shall be treated as if transferred from a position in the executive branch to which this subchapter does not apply.
 
 (b) An employee who is promoted or transferred to a position in a higher grade is entitled to basic pay at the lowest rate of the higher grade which exceeds his existing rate of basic pay by not less than two step-increases of the grade from which he is promoted or transferred. If, in the case of an employee so promoted or transferred who is receiving basic pay at a rate in excess of the maximum rate of his grade, there is no rate in the higher grade which is at least two step-increases above his existing rate of basic pay, he is entitled to—
 
@@ -54,7 +54,7 @@
 
 &emsp;(B) if the employee's highest previous rate of basic pay (as described in subparagraph (A)) is between two rates of the appropriate grade, the higher of those two rates; or
 
-&emsp;(C) if the employee's highest previous rate of basic pay (as described in subparagraph (A)) exceeds the maximum rate of the appropriate grade, the maximum rate of the appropriate grade.
+&emsp;(C) if the employee's highest previous rate of basic pay (as described in subparagraph (A))exceeds the maximum rate of the appropriate grade, the maximum rate of the appropriate grade.
 
 (2) In the case of a nonappropriated fund employee who is moved involuntarily from such nonappropriated fund instrumentality without a break in service of more than 3 days and without substantial change in duties to a position that is subject to this subchapter, the employee's pay shall be set at a rate (not above the maximum for the grade, except as may be provided for under section 5365) that is not less than the employee's rate of basic pay under the nonappropriated fund instrumentality immediately prior to so moving.
 
@@ -66,7 +66,7 @@
 
 > any rate adjustment under the preceding provisions of this section, with respect to such employee in connection with such move, shall be made—
 
-&emsp;(A) first, by determining the rate of pay to which such employee would be entitled at the new official duty station based on such employee's position, grade, and step (or relativeposition in the rate range) before the move, and
+&emsp;(A) first, by determining the rate of pay to which such employee would be entitled at the new official duty station based on such employee's position, grade, and step (or relative position in the rate range) before the move, and
 
 &emsp;(B) then, by applying the provisions of this section that would otherwise apply (if any), treating the rate determined under subparagraph (A) as if it were the rate last received by the employee before the rate adjustment.
 

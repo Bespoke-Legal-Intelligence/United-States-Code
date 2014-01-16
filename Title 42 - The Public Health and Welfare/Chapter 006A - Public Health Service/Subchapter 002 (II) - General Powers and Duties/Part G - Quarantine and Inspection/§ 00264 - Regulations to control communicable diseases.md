@@ -14,9 +14,9 @@ Except as provided in subsection (d) of this section, regulations prescribed und
 
 #### (d) Apprehension and examination of persons reasonably believed to be infected
 
-(1) Regulations prescribed under this section may provide for the apprehension and examination of any individual reasonably believed to be infected with a communicable disease in a qualifying stage and (A) to be moving or about to move from a State to another State; or (B) to be a probable source of infection to individuals who, while infected with such disease in a qualifying stage, will be moving from a State to another State. Such regulations may provide that if upon examination any such individual is found to be infected, he may be detained for such time and in such manner as may be reasonably necessary. For purposes of this subsection, the term “State” includes, in addition to the several States, only the District of Columbia.
+(1) Regulations prescribed under this section may provide for the apprehension and examination of any individual reasonably believed to be infected with a communicable disease in a qualifying stage and (A) to be moving or about to move from a State to another State; or (B) to be a probable source of infection to individuals who, while infected with such disease in a qualifying stage, will be moving from a State to another State. Such regulations may provide that if upon examination any such individual is found to be infected, he may be detained for such time and in such manner as may be reasonably necessary. For purposes of this subsection, the term "State" includes, in addition to the several States, only the District of Columbia.
 
-(2) For purposes of this subsection, the term “qualifying stage”, with respect to a communicable disease, means that such disease—
+(2) For purposes of this subsection, the term "qualifying stage", with respect to a communicable disease, means that such disease—
 
 &emsp;(A) is in a communicable stage; or
 
@@ -32,13 +32,13 @@ Nothing in this section or section 266 of this title, or the regulations promulg
 
 <b>2002</b>—Pub. L. 107–188, §142(a)(1), (2), (b)(1), and (c), which directed certain amendments to section 361 of the Public Health Act, was executed by making the amendments to this section, which is section 361 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
 
-Subsec. (b). Pub. L. 107–188, §142(a)(1), substituted “Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General,” for “Executive orders of the President upon the recommendation of the National Advisory Health Council and the Surgeon General”.
+Subsec. (b). Pub. L. 107–188, §142(a)(1), substituted "Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General," for "Executive orders of the President upon the recommendation of the National Advisory Health Council and the Surgeon General".
 
-Subsec. (d). Pub. L. 107–188, §142(a)(2), (b)(1), substituted in first sentence “Regulations” for “On recommendation of the National Advisory Health Council, regulations”, “in a qualifying stage” for “in a communicable stage” in two places, designated existing text as par. (1) and substituted “(A)” and “(B)” for “(1)” and “(2)”, respectively, and added par. (2).
+Subsec. (d). Pub. L. 107–188, §142(a)(2), (b)(1), substituted in first sentence "Regulations" for "On recommendation of the National Advisory Health Council, regulations", "in a qualifying stage" for "in a communicable stage" in two places, designated existing text as par. (1) and substituted "(A)" and "(B)" for "(1)" and "(2)", respectively, and added par. (2).
 
 Subsec. (e). Pub. L. 107–188, §142(c), added subsec. (e).
 
-<b>1976</b>—Subsec. (d). Pub. L. 94–317 inserted provision defining “State” to include, in addition to the several States, only the District of Columbia.
+<b>1976</b>—Subsec. (d). Pub. L. 94–317 inserted provision defining "State" to include, in addition to the several States, only the District of Columbia.
 
 <b>1960</b>—Subsec. (c). Pub. L. 86–624 struck out reference to Territory of Hawaii.
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 86–624 effective Aug. 21, 1959, see section 47(f) of Pub.
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 
@@ -56,23 +56,23 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 Pub. L. 110–392, title I, §121, Oct. 13, 2008, 122 Stat. 4200, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 180 days after the date of enactment of the Comprehensive Tuberculosis Elimination Act of 2008 \[Oct. 13, 2008\], the Secretary of Health and Human Services shall prepare and submit to the appropriate committees of Congress a report that evaluates and provides recommendations on changes needed to Federal and State public health authorities to address current disease containment challenges such as isolation and quarantine.
 
-“(b)
+"(b)
 
 Contents of Evaluation.—The report described in subsection (a) shall include—
 
-&emsp;“(1) an evaluation of the effectiveness of current policies to detain patients with active tuberculosis;
+&emsp;"(1) an evaluation of the effectiveness of current policies to detain patients with active tuberculosis;
 
-&emsp;“(2) an evaluation of whether Federal laws should be strengthened to expressly address the movement of individuals with active tuberculosis; and
+&emsp;"(2) an evaluation of whether Federal laws should be strengthened to expressly address the movement of individuals with active tuberculosis; and
 
-&emsp;“(3) specific legislative recommendations for changes to Federal laws, if any.
+&emsp;"(3) specific legislative recommendations for changes to Federal laws, if any.
 
-“(c)
+"(c)
 
-Update of Quarantine Regulations.—Not later than 240 days after the date of enactment of this Act \[Oct. 13, 2008\], the Secretary of Health and Human Services shall promulgate regulations to update the current interstate and foreign quarantine regulations found in parts 70 and 71 of title 42, Code of Federal Regulations.”
+Update of Quarantine Regulations.—Not later than 240 days after the date of enactment of this Act \[Oct. 13, 2008\], the Secretary of Health and Human Services shall promulgate regulations to update the current interstate and foreign quarantine regulations found in parts 70 and 71 of title 42, Code of Federal Regulations."
 
 #### Executive Order No. 12452
 
@@ -82,9 +82,9 @@ Ex. Ord. No. 12452, Dec. 22, 1983, 48 F.R. 56927, which specified certain commun
 
 Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, as amended by Ex. Ord. No. 13375, §1, Apr. 1, 2005, 70 F.R. 17299, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 361(b) of the Public Health Service Act (42 U.S.C. 264(b)), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 361(b) of the Public Health Service Act (42 U.S.C. 264(b)), it is hereby ordered as follows:
 
-Section 1. Based upon the recommendation of the Secretary of Health and Human Services (the “Secretary”), in consultation with the Surgeon General, and for the purpose of specifying certain communicable diseases for regulations providing for the apprehension, detention, or conditional release of individuals to prevent the introduction, transmission, or spread of suspected communicable diseases, the following communicable diseases are hereby specified pursuant to section 361(b) of the Public Health Service Act:
+Section 1. Based upon the recommendation of the Secretary of Health and Human Services (the "Secretary"), in consultation with the Surgeon General, and for the purpose of specifying certain communicable diseases for regulations providing for the apprehension, detention, or conditional release of individuals to prevent the introduction, transmission, or spread of suspected communicable diseases, the following communicable diseases are hereby specified pursuant to section 361(b) of the Public Health Service Act:
 
 (a) Cholera; Diphtheria; infectious Tuberculosis; Plague; Smallpox; Yellow Fever; and Viral Hemorrhagic Fevers (Lassa, Marburg, Ebola, Crimean-Congo, South American, and others not yet isolated or named).
 

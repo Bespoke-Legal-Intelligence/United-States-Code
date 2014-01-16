@@ -10,15 +10,15 @@ Leave ordered under this section may be taken in the United States or its territ
 
 #### (c) Availability for work or duties in Department
 
-While on a leave of absence ordered under this section, the services of any member of the Service shall be available for such work or duties in the Department or elsewhere as the Secretarymay prescribe, but the time of such work or duties shall not be counted as leave.
+While on a leave of absence ordered under this section, the services of any member of the Service shall be available for such work or duties in the Department or elsewhere as the Secretary may prescribe, but the time of such work or duties shall not be counted as leave.
 
 (Pub. L. 96–465, title I, §903, Oct. 17, 1980, 94 Stat. 2127; Pub. L. 103–236, title I, §180(a)(8), Apr. 30, 1994, 108 Stat. 416; Pub. L. 109–234, title I, §1602(d)(2), June 15, 2006, 120 Stat. 442; Pub. L. 110–321, §2(2), Sept. 19, 2008, 122 Stat. 3535.)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–321 substituted “or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands” for “, its territories and possessions, or the Commonwealth of Puerto Rico”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–321 substituted "or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United StatesVirgin Islands" for ", its territories and possessions, or the Commonwealth of Puerto Rico".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–234, which directed substitution of “12 months” for “18 months” in section 903(a) of the Foreign Service Act, was executed to subsec. (a) of this section, which is section 903 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (a). Pub. L. 109–234, which directed substitution of "12 months" for "18 months" in section 903(a) of the Foreign Service Act, was executed to subsec. (a) of this section, which is section 903 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–236 inserted “(other than a member employed under section 3951 of this title)” after “member of the Service” in two places.
+<b>1994</b>—Subsec. (a). Pub. L. 103–236 inserted "(other than a member employed under section 3951 of this title)" after "member of the Service" in two places.
 

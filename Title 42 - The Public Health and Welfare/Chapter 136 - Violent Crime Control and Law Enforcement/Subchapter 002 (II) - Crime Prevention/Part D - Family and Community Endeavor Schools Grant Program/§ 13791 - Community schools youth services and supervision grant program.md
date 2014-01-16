@@ -2,15 +2,15 @@
 
 #### (a) Short title
 
-This section may be cited as the “Community Schools Youth Services and Supervision Grant Program Act of 1994”.
+This section may be cited as the "Community Schools Youth Services and Supervision Grant Program Act of 1994".
 
 #### (b) Definitions
 
 In this section—
 
-&emsp;“child” means a person who is not younger than 5 and not older than 18 years old.
+&emsp;"child" means a person who is not younger than 5 and not older than 18 years old.
 
-&emsp;“community-based organization” means a private, locally initiated, community-based organization that—
+&emsp;"community-based organization" means a private, locally initiated, community-based organization that—
 
 &emsp;&emsp;(A) is a nonprofit organization, as defined in section 5603(23) of this title; and
 
@@ -32,17 +32,17 @@ In this section—
 
 &emsp;&emsp;&emsp;(viii) Other interested parties.
 
-&emsp;“eligible community” means an area identified pursuant to subsection (e) of this section.
+&emsp;"eligible community" means an area identified pursuant to subsection (e) of this section.
 
-&emsp;“Indian tribe” means a tribe, band, pueblo, nation, or other organized group or community of Indians, including an Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;"Indian tribe" means a tribe, band, pueblo, nation, or other organized group or community of Indians, including an Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-&emsp;“poverty line” means the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title <sup>1</sup> applicable to a family of the size involved.
+&emsp;"poverty line" means the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title <sup>1</sup> applicable to a family of the size involved.
 
-&emsp;“public school” means a public elementary school, as defined in section 1001(i) <sup>2</sup> of title 20,and a public secondary school, as defined in section 1001(d) <sup>2</sup> of title 20.
+&emsp;"public school" means a public elementary school, as defined in section 1001(i) <sup>2</sup> of title 20, and a public secondary school, as defined in section 1001(d) <sup>2</sup> of title 20.
 
-&emsp;“Secretary” means the Secretary of Health and Human Services, in consultation and coordination with the Attorney General.
+&emsp;"Secretary" means the Secretary of Health and Human Services, in consultation and coordination with the Attorney General.
 
-&emsp;“State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the United States Virgin Islands.
+&emsp;"State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the United States Virgin Islands.
 
 #### (c) Program authority
 
@@ -108,7 +108,7 @@ In this section—
 
 #### (1) Identification
 
-&emsp;To be eligible to receive a grant under this section, a community-based organization shallidentify an eligible community to be assisted under this section.
+&emsp;To be eligible to receive a grant under this section, a community-based organization shall identify an eligible community to be assisted under this section.
 
 #### (2) Criteria
 
@@ -170,7 +170,7 @@ In this section—
 
 &emsp;&emsp;(J) include a description of charitable private resources, and all other resources, that will be made available to achieve the goals of the program;
 
-&emsp;&emsp;(K) contain an assurance that the community-based organization will use competitive procedures when purchasing, contracting, or otherwise providing for goods, activities, or services to carry out programs under this section;
+&emsp;&emsp;(K) contain an assurance that the community-based organization will use competitive procedures when purchasing, contracting, orotherwise providing for goods, activities, or services to carry out programs under this section;
 
 &emsp;&emsp;(L) contain an assurance that the program will maintain a staff-to-participant ratio (including volunteers) that is appropriate to the activity or services provided by the program;
 
@@ -278,15 +278,15 @@ The Secretary shall conduct a thorough evaluation of the programs assisted under
 
 #### References in Text
 
-This subchapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1836, which enacted this subchapter, sections 3796ff to 3796ff–4 of this title, and sections 6701 to 6720 of Title 31, Money and Finance, amended sections 3791, 3793, and 3797 of this title, sections 2502 to 2504, 2506, and 2512 of Title 16, Conservation, and section 3621 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as notes under section 13701 of this title and sections 6701 and 6702 of Title 31. For complete classification of title III to the Code, see Tables.
+This subchapter, referred to in subsec. (b), was in the original "this title", meaning title III of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1836, which enacted this subchapter, sections 3796ff to 3796ff–4 of this title, and sections 6701 to 6720 of Title 31, Money and Finance, amended sections 3791, 3793, and 3797 of this title, sections 2502 to 2504, 2506, and 2512 of Title 16, Conservation, and section 3621 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as notes under section 13701 of this title and sections 6701 and 6702 of Title 31. For complete classification of title III to the Code, see Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (b), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-Section 1001 of title 20, referred to in subsec. (b), does not have a subsec. (d) or (i) and does not define “elementary school” or “secondary school”. However, such terms are defined in section 1003 of Title 20, Education.
+Section 1001 of title 20, referred to in subsec. (b), does not have a subsec. (d) or (i) and does not define "elementary school" or "secondary school". However, such terms are defined in section 1003 of Title 20, Education.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–244 substituted “section 1001(i)” for “section 1141(i)” and “section 1001(d)” for “section 1141(d)” in definition for “public school”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–244 substituted "section 1001(i)" for "section 1141(i)" and "section 1001(d)" for "section 1141(d)" in definition for "public school".
 
 #### Effective Date of 1998 Amendment
 
@@ -298,5 +298,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 <i><sup>3</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be subsection “(k)”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be subsection "(k)".</i>
 

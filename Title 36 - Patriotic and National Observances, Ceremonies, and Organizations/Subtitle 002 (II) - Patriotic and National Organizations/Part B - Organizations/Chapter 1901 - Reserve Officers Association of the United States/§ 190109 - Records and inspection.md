@@ -32,11 +32,11 @@ Historical and Revision Notes
 
 June 30, 1950, ch. 431, §13, 64 Stat. 314.
 
-In this section, the word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
+In this section, the word "records" is substituted for "books and records" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(1), the word “correct” is substituted for “current” for consistency in the revised title.
+In subsection (a)(1), the word "correct" is substituted for "current" for consistency in the revised title.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(2). Pub. L. 111–113 substituted “other national entities of the corporation;” for “national council;”.
+<b>2009</b>—Subsec. (a)(2). Pub. L. 111–113 substituted "other national entities of the corporation;" for "national council;".
 

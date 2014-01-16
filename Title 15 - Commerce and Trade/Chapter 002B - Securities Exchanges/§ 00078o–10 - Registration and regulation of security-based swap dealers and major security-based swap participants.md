@@ -138,7 +138,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The prudential regulators, the Commission, and the Securities and Exchange Commission shall periodically (but not less frequently than annually) consult on minimum capital requirements and minimum initial and variation margin requirements.
+&emsp;&emsp;&emsp;The prudential regulators, the Commission, and the Securities and ExchangeCommission shall periodically (but not less frequently than annually) consult on minimum capital requirements and minimum initial and variation margin requirements.
 
 #### (ii) Comparability
 
@@ -154,7 +154,7 @@
 
 &emsp;Each registered security-based swap dealer and major security-based swap participant—
 
-&emsp;&emsp;(A) shall make such reports as are required by the Commission, by rule or regulation, regarding the transactions and positions andfinancial condition of the registered security-based swap dealer or major security-based swap participant;
+&emsp;&emsp;(A) shall make such reports as are required by the Commission, by rule or regulation, regarding the transactions and positions and financial condition of the registered security-based swap dealer or major security-based swap participant;
 
 &emsp;&emsp;(B)(i) for which there is a prudential regulator, shall keep books and records of all activities related to the business as a security-based swap dealer or major security-based swap participant in such form and manner and for such period as may be prescribed by the Commission by rule or regulation; and
 
@@ -214,7 +214,7 @@
 
 #### (C) Special entity defined
 
-&emsp;&emsp;For purposes of this subsection, the term “special entity” means—
+&emsp;&emsp;For purposes of this subsection, the term "special entity" means—
 
 &emsp;&emsp;&emsp;(i) a Federal agency;
 
@@ -236,7 +236,7 @@
 
 &emsp;&emsp;&emsp;(i) information about the material risks and characteristics of the security-based swap;
 
-&emsp;&emsp;&emsp;(ii) any material incentives or conflicts of interest that the security-based swapdealer or major security-based swap participant may have in connection with the security-based swap; and
+&emsp;&emsp;&emsp;(ii) any material incentives or conflicts of interest that the security-based swap dealer or major security-based swap participant may have in connection with the security-based swap; and
 
 &emsp;&emsp;&emsp;(iii)(I) for cleared security-based swaps, upon the request of the counterparty, receipt of the daily mark of the transaction from the appropriate derivatives clearing organization; and
 
@@ -318,7 +318,7 @@
 
 #### (1) In general
 
-&emsp;Each registered security-based swap dealer and major security-based swap participantshall conform with such standards as may be prescribed by the Commission, by rule or regulation, that relate to timely and accurate confirmation, processing, netting, documentation, and valuation of all security-based swaps.
+&emsp;Each registered security-based swap dealer and major security-based swap participant shall conform with such standards as may be prescribed by the Commission, by rule or regulation, that relate to timely and accurate confirmation, processing, netting, documentation, and valuation of all security-based swaps.
 
 #### (2) Rules
 
@@ -500,7 +500,7 @@ Each registered security-based swap dealer and major security-based swap partici
 
 #### References in Text
 
-This chapter, referred to in subsecs. (e)(3)(B)(ii), (j)(5)(A), (6), (k)(2)(E), (3)(A)(i), and (l)(1)(B), (C), was in the original “this title”, and this chapter, referred to in subsec. (h)(3)(D), (5)(B), was in the original “this Act”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (e)(3)(B)(ii), (j)(5)(A), (6), (k)(2)(E), (3)(A)(i), and (l)(1)(B), (C), was in the original "this title", and this chapter, referred to in subsec. (h)(3)(D), (5)(B), was in the original "this Act". See References in Text note set out under section 78a of this title.
 
 The Commodity Exchange Act, referred to in subsec. (e)(3)(B)(ii), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
@@ -512,11 +512,11 @@ Subtitle B of the Wall Street Transparency and Accountability Act of 2010, refer
 
 Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 77b of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “a”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "a".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “constitutes”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "constitutes".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

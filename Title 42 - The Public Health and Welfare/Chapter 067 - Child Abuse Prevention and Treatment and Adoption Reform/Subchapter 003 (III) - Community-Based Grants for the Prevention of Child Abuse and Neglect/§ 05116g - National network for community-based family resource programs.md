@@ -24,7 +24,7 @@ Another prior section 207 of Pub. L. 93–247 was classified to section 5116f of
 
 #### Amendments
 
-<b>2010</b>—Pars. (1), (2), (4). Pub. L. 111–320, §138, inserted a comma after “operate”.
+<b>2010</b>—Pars. (1), (2), (4). Pub. L. 111–320, §138, inserted a comma after "operate".
 
-<b>2003</b>—Par. (3). Pub. L. 108–36 substituted “community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect” for “Statewide networks of community-based, prevention-focused, family resource and support programs”.
+<b>2003</b>—Par. (3). Pub. L. 108–36 substituted "community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect" for "Statewide networks of community-based, prevention-focused, family resource and support programs".
 

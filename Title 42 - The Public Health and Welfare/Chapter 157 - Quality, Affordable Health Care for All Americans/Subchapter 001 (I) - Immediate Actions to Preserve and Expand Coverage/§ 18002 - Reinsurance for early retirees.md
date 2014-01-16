@@ -12,15 +12,15 @@
 
 #### (A) Health benefits
 
-&emsp;&emsp;The term “health benefits” means medical, surgical, hospital, prescription drug, and such other benefits as shall be determined by the Secretary, whether self-funded, or delivered through the purchase of insurance or otherwise.
+&emsp;&emsp;The term "health benefits" means medical, surgical, hospital, prescription drug, and such other benefits as shall be determined by the Secretary, whether self-funded, or delivered through the purchase of insurance or otherwise.
 
 #### (B) Employment-based plan
 
-&emsp;&emsp;The term “employment-based plan” means a group benefits plan providing health benefits that—
+&emsp;&emsp;The term "employment-based plan" means a group benefits plan providing health benefits that—
 
 &emsp;&emsp;&emsp;(i) is—
 
-&emsp;&emsp;&emsp;&emsp;(I) maintained by one or more current or former employers (including without limitation any State or local government or political subdivision thereof or any agency or instrumentality of any of the foregoing), employee organization, avoluntary employees’ beneficiary association, or a committee or board of individuals appointed to administer such plan; or
+&emsp;&emsp;&emsp;&emsp;(I) maintained by one or more current or former employers (including without limitation any State or local government or political subdivision thereof or any agency or instrumentality of any of the foregoing), employee organization, a voluntary employees' beneficiary association, or a committee or board of individuals appointed to administer such plan; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a multiemployer plan (as defined in section 1002(37) of title 29); and
 
@@ -28,7 +28,7 @@
 
 #### (C) Early retirees
 
-&emsp;&emsp;The term “early retirees” means individuals who are age 55 and older but are not eligible for coverage under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], and who are not active employees of an employer maintaining, or currently contributing to, the employment-based plan or of any employer that has made substantial contributions to fund such plan.
+&emsp;&emsp;The term "early retirees" means individuals who are age 55 and older but are not eligible for coverage under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], and who are not active employees of an employer maintaining, or currently contributing to, the employment-based plan or of any employer that has made substantial contributions to fund such plan.
 
 #### (b) Participation
 
@@ -106,7 +106,7 @@ The Social Security Act, referred to in subsec. (a)(2)(C), is act Aug. 14, 1935,
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(2)(B). Pub. L. 111–148, §10102(a)(1), substituted “group benefits plan providing health benefits” for “group health benefits plan” in introductory provisions.
+<b>2010</b>—Subsec. (a)(2)(B). Pub. L. 111–148, §10102(a)(1), substituted "group benefits plan providing health benefits" for "group health benefits plan" in introductory provisions.
 
-Subsec. (a)(2)(B)(i)(I). Pub. L. 111–148, §10102(a)(2), inserted “or any agency or instrumentality of any of the foregoing” after “political subdivision thereof”.
+Subsec. (a)(2)(B)(i)(I). Pub. L. 111–148, §10102(a)(2), inserted "or any agency or instrumentality of any of the foregoing" after "political subdivision thereof".
 

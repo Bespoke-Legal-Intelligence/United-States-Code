@@ -20,13 +20,13 @@ Historical and Revision Notes
 
 Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(j); added Oct. 31, 1988, Pub. L. 100–562, §2(b), 102 Stat. 2824.
 
-The word “conditions” is omitted as being included in “terms”, and the word “studies” is omitted as being included in “research”. The word “solely” is omitted as unnecessary.
+The word "conditions" is omitted as being included in "terms", and the word "studies" is omitted as being included in "research". The word "solely" is omitted as unnecessary.
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–178 substituted “competitive racing events, show, or display” for “or competitive racing events”.
+<b>1998</b>—Pub. L. 105–178 substituted "competitive racing events, show, or display" for "or competitive racing events".
 
 #### Transition Rule
 
-Pub. L. 105–178, title VII, §7107(b), June 9, 1998, 112 Stat. 469, provided that: “A person who is the owner of a motor vehicle located in the United States on the date of enactment of this Act \[June 9, 1998\] may seek an exemption under section 30114 of title 49, United States Code, as amended by subsection (a) of this section, for a period of 6 months after the date regulations of the Secretary of Transportation promulgated in response to such amendment take effect.”
+Pub. L. 105–178, title VII, §7107(b), June 9, 1998, 112 Stat. 469, provided that: "A person who is the owner of a motor vehicle located in the United States on the date of enactment of this Act \[June 9, 1998\] may seek an exemption under section 30114 of title 49, United States Code, as amended by subsection (a) of this section, for a period of 6 months after the date regulations of the Secretary of Transportation promulgated in response to such amendment take effect."
 

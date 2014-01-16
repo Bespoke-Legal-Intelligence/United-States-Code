@@ -60,13 +60,13 @@ A prior section 602 of Pub. L. 95–501 enacted section 1765b–1 of this title 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–239 substituted “cotton, pork,” for “cotton,”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–239 substituted "cotton, pork," for "cotton,".
 
-<b>1999</b>—Subsec. (a)(1). Pub. L. 106–78, §§921, 942, temporarily inserted “, beef,” after “cotton” in introductory provisions. See Termination Date of 1999 Amendment note below.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–78, §§921, 942, temporarily inserted ", beef," after "cotton" in introductory provisions. See Termination Date of 1999 Amendment note below.
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237, §327(1), substituted “designate produced” for “designate as produced” in introductory provisions.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237, §327(1), substituted "designate produced" for "designate as produced" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 102–237, §327(2), struck out “in accordance with subsection (c)” after “shall remain confidential”.
+Subsec. (a)(2). Pub. L. 102–237, §327(2), struck out "in accordance with subsection (c)" after "shall remain confidential".
 
 #### Termination Date of 1999 Amendment
 

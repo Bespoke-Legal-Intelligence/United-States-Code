@@ -12,13 +12,13 @@ This section is based on part of section 241 of title 28, U.S.C., 1940 ed. That 
 
 A provision for monthly salary payments was omitted since time of payment is a matter for administrative determination. (See 20 Comp. Gen. 834.)
 
-The term “chief judge” was substituted for “Chief Justice.” (See reviser's note under section 136 of this title.)
+The term "chief judge" was substituted for "Chief Justice." (See reviser's note under section 136 of this title.)
 
 Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court” in three places.
+<b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court" and "Court of Federal Claims" for "Claims Court" in three places.
 
 <b>1982</b>—Pub. L. 97–164 amended section generally, substituting provisions relating to times and places of holding court (formerly contained in section 174) for provisions relating to the tenure and salaries of judges of the Court of Claims. See section 172 of this title.
 
@@ -42,5 +42,5 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 
 #### Effective Date of 1955 Amendment
 
-Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under section 31 of Title 2, The Congress.
+Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under section 4501 of Title 2, The Congress.
 

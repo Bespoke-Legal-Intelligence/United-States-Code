@@ -12,5 +12,5 @@ A prior section 2991d, Pub. L. 88–452, title VIII, §805, as added Pub. L. 89�
 
 #### Amendments
 
-<b>1992</b>—Subsecs. (a), (b). Pub. L. 102–375 substituted “Commissioner” for “Secretary”.
+<b>1992</b>—Subsecs. (a), (b). Pub. L. 102–375 substituted "Commissioner" for "Secretary".
 

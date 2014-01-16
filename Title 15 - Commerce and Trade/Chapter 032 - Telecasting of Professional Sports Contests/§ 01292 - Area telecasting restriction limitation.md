@@ -6,5 +6,5 @@ Section 1291 of this title shall not apply to any joint agreement described in t
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–800 substituted “described in the first sentence of such section” for “described in such section”.
+<b>1966</b>—Pub. L. 89–800 substituted "described in the first sentence of such section" for "described in such section".
 

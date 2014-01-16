@@ -38,7 +38,7 @@
 
 #### (B) Investment by Secretary
 
-&emsp;&emsp;Except as provided in this section and section 1779e of this title, the principal of such funds deposited into the accounts established hereunder and any interest earnedthereon shall be invested by the Secretary in accordance with current laws and regulations for the investing of tribal trust funds.
+&emsp;&emsp;Except as provided in this section and section 1779e of this title, the principal of such funds deposited into the accounts established hereunder and any interest earned thereon shall be invested by the Secretary in accordance with current laws and regulations for the investing of tribal trust funds.
 
 #### (C) Use of principal funds
 
@@ -56,7 +56,7 @@
 
 #### References in Text
 
-Section 1779c(c) and (d) of this title, referred to in subsec. (b)(1)(A), was in the original “sections 205(c) and (d)” and was translated as reading “section 605(c) and (d)”, meaning section 605(c) and (d) of Pub. L. 107–331, to reflect the probable intent of Congress.
+Section 1779c(c) and (d) of this title, referred to in subsec. (b)(1)(A), was in the original "sections 205(c) and (d)" and was translated as reading "section 605(c) and (d)", meaning section 605(c) and (d) of Pub. L. 107–331, to reflect the probable intent of Congress.
 
 The River and Harbor Act of 1946, as amended by the Flood Control Act of 1948 and the Flood Control Act of 1950, referred to in subsec. (b)(4), probably means the act July 24, 1946, ch. 596, 60 Stat. 641, known as the Flood Control Act of 1946, as amended by act June 30, 1948, ch. 771, title II, 62 Stat. 1175, and act May 17, 1950, ch. 188, title II, 64 Stat. 170. For complete classification of these acts to the Code, see Tables.
 

@@ -26,7 +26,7 @@ The report shall include a description of—
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(2) to (5). Pub. L. 111–364, §2(d)(1), inserted “, rebate,” after “grant” wherever appearing.
+<b>2011</b>—Subsec. (b)(2) to (5). Pub. L. 111–364, §2(d)(1), inserted ", rebate," after "grant" wherever appearing.
 
 Subsec. (b)(7). Pub. L. 111–364, §2(d)(2)–(4), added par. (7).
 

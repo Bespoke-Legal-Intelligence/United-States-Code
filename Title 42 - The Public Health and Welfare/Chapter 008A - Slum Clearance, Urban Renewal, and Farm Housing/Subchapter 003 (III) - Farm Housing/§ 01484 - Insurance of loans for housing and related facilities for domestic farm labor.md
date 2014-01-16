@@ -38,11 +38,11 @@ Amounts made available pursuant to section 1483 of this title shall be available
 
 As used in this section—
 
-&emsp;(1) the term “housing” means (A) new structures (including household furnishings) suitable for dwelling use by domestic farm labor, and (B) existing structures (including household furnishings) which can be made suitable for dwelling use by domestic farm labor by rehabilitation, alteration, conversion, or improvement;
+&emsp;(1) the term "housing" means (A) new structures (including household furnishings) suitable for dwelling use by domestic farm labor, and (B) existing structures (including household furnishings) which can be made suitable for dwelling use by domestic farm labor by rehabilitation, alteration, conversion, or improvement;
 
-&emsp;(2) the term “related facilities” means (A) new structures (including household furnishings) suitable for use as dining halls, community rooms or buildings, or infirmaries, or for other essential services facilities, and (B) existing structures (including household furnishings) which can be made suitable for the above uses by rehabilitation, alteration, conversion, or improvement and (C) land necessary for an adequate site; and
+&emsp;(2) the term "related facilities" means (A) new structures (including household furnishings) suitable for use as dining halls, community rooms or buildings, or infirmaries, or for other essential services facilities, and (B) existing structures (including household furnishings) which can be made suitable for the above uses by rehabilitation, alteration, conversion, or improvement and (C) land necessary for an adequate site; and
 
-&emsp;(3) the term “domestic farm labor” means any person (and the family of such person) who receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities, the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities, without respect to the source of employment, except that—
+&emsp;(3) the term "domestic farm labor" means any person (and the family of such person) who receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities, the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities, without respect to the source of employment, except that—
 
 &emsp;&emsp;(A) such person shall be a citizen of the United States or a person legally admitted for permanent residence;
 
@@ -58,7 +58,7 @@ As used in this section—
 
 #### (g) Waiver of interest rate limitations
 
-The Secretary may waive the interest rate limitation contained in subsection (a)(2) of this section and the requirement of section 1471(c)(3) of this title in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and the interest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under section 1481 of this title and have maturities comparable to such a loan.
+The Secretary may waive the interest rate limitation contained in subsection (a)(2) of this section and the requirement of section 1471(c)(3) of this title in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and theinterest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under section 1481 of this title and have maturities comparable to such a loan.
 
 #### (h) Determination of need for assistance
 
@@ -90,19 +90,19 @@ Another section 801(b) of Pub. L. 91–609 amended section 1460(c)(1) of this ti
 
 #### Amendments
 
-<b>2008</b>—Subsec. (f)(3). Pub. L. 110–246, §6205, substituted “, the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities” for “or the handling of such commodities in the unprocessed stage” in introductory provisions.
+<b>2008</b>—Subsec. (f)(3). Pub. L. 110–246, §6205, substituted ", the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities" for "or the handling of such commodities in the unprocessed stage" in introductory provisions.
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–569, §703, substituted “limited partnership” for “nonprofit limited partnership” in first sentence of introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–569, §703, substituted "limited partnership" for "nonprofit limited partnership" in first sentence of introductory provisions.
 
-Subsec. (j). Pub. L. 106–569, §708(b), struck out heading and text of subsec. (j). Text read as follows: “Whoever, as an owner, agent, or manger, or who is otherwise in custody, control, or possession of property that is security for a loan made or insured under this section willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other funds derived from such property, for any purpose other than to meet actual or necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulations adopted pursuant to this subchapter, shall be fined not more than $250,000 or imprisoned not more than 5 years, or both.”
+Subsec. (j). Pub. L. 106–569, §708(b), struck out heading and text of subsec. (j). Text read as follows: "Whoever, as an owner, agent, or manger, or who is otherwise in custody, control, or possession of property that is security for a loan made or insured under this section willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other funds derived from such property, for any purpose other than to meet actual or necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulations adopted pursuant to this subchapter, shall be fined not more than $250,000 or imprisoned not more than 5 years, or both."
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–276 inserted “, or any nonprofit limited partnership in which the general partner is a nonprofit entity,” after “private nonprofit organization” in first sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–276 inserted ", or any nonprofit limited partnership in which the general partner is a nonprofit entity," after "private nonprofit organization" in first sentence.
 
 <b>1996</b>—Subsec. (j). Pub. L. 104–180 added subsec. (j).
 
-<b>1988</b>—Subsec. (f)(1). Pub. L. 100–242, §316(b), struck out “and” at end.
+<b>1988</b>—Subsec. (f)(1). Pub. L. 100–242, §316(b), struck out "and" at end.
 
-Subsec. (f)(3). Pub. L. 100–242, §305(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘domestic farm labor’ means persons who receive a substantial portion (as determined by the Secretary) of their income as laborers on farms situated in the United States, Puerto Rico, or the Virgin Islands and either (A) are citizens of the United States, or (B) reside in the United States, Puerto Rico, or the Virgin Islands after being legally admitted for permanent residence therein.”
+Subsec. (f)(3). Pub. L. 100–242, §305(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the term 'domestic farm labor' means persons who receive a substantial portion (as determined by the Secretary) of their income as laborers on farms situated in the United States, Puerto Rico, or the Virgin Islands and either (A) are citizens of the United States, or (B) reside in the United States, Puerto Rico, or the Virgin Islands after being legally admitted for permanent residence therein."
 
 Subsec. (i). Pub. L. 100–628 added subsec. (i).
 
@@ -112,25 +112,25 @@ Subsec. (i). Pub. L. 100–628 added subsec. (i).
 
 <b>1979</b>—Subsec. (d). Pub. L. 96–153 repealed subsec. (d) which provided for a maximum of $38,000,000 for the aggregate amount of principal obligations of loans insured under this section.
 
-<b>1978</b>—Subsec. (d). Pub. L. 95–557, §501(d), substituted “$38,000,000 (subject to approval in an appropriation Act)” for “$25,000,000”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–557, §501(d), substituted "$38,000,000 (subject to approval in an appropriation Act)" for "$25,000,000".
 
 Subsec. (g). Pub. L. 95–557, §504, added subsec. (g).
 
-<b>1977</b>—Subsec. (f)(3). Pub. L. 95–128 extended definition of “domestic farm labor” to include laborers on farms situated in Puerto Rico and the Virgin Islands and the residents of the islands after being legally admitted for permanent residence.
+<b>1977</b>—Subsec. (f)(3). Pub. L. 95–128 extended definition of "domestic farm labor" to include laborers on farms situated in Puerto Rico and the Virgin Islands and the residents of the islands after being legally admitted for permanent residence.
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–609, §801(a), authorized insurance of loans to broad-based nonprofit organizations and nonprofit organizations of farmworkers incorporated within the State and provided for housing and related facilities for domestic farm labor any place within the State where need exists.
 
-Subsec. (a)(2). Pub. L. 91–609, §801(b), substituted “1” for “5” per centum.
+Subsec. (a)(2). Pub. L. 91–609, §801(b), substituted "1" for "5" per centum.
 
-Subsec. (f)(1), (2). Pub. L. 91–609, §801(c), substituted “structures (including household furnishings)” for “structures” in cls. (A) and (B).
+Subsec. (f)(1), (2). Pub. L. 91–609, §801(c), substituted "structures (including household furnishings)" for "structures" in cls. (A) and (B).
 
-<b>1968</b>—Subsec. (f)(2). Pub. L. 90–448 included land necessary for an adequate site within the definition of “related facilities”.
+<b>1968</b>—Subsec. (f)(2). Pub. L. 90–448 included land necessary for an adequate site within the definition of "related facilities".
 
 <b>1964</b>—Subsec. (f)(3). Pub. L. 88–560 included residents of the United States after being legally admitted for permanent residence.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,13 +6,13 @@ In carrying out this chapter, the Administrator shall consult with other departm
 
 #### References in Text
 
-This chapter, referred to in text, was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in text, was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director”.
+<b>2012</b>—Pub. L. 112–141 substituted "Administrator" for "Director".
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary”.
+<b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary".
 
 #### Transfer of Functions
 

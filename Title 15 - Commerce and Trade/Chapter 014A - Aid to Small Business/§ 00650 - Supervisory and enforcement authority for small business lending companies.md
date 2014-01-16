@@ -46,7 +46,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 &emsp;(A) The Administrator, after finding extraordinary circumstances and in order to protect the financial or legal position of the United States, may issue a suspension order without conducting a hearing pursuant to subsection (f) of this section. If the Administrator issues a suspension under the preceding sentence, the Administrator shall within two business days follow the procedures set forth in subsection (f) of this section.
 
-&emsp;(B) Any suspension under paragraph (1) shall remain in effect until the Administrator makes a decision pursuant to subparagraph (4) to permanently revoke the authority of the small business lending company or non-Federally regulated lender, suspend the authority for a time certain, or terminate the suspension.
+&emsp;(B) Any suspension under paragraph (1) shall remain in effect until the Administratormakes a decision pursuant to subparagraph (4) to permanently revoke the authority of the small business lending company or non-Federally regulated lender, suspend the authority for a time certain, or terminate the suspension.
 
 (3) The small business lending company or non-Federally regulated lender must notify borrowers of a revocation and that a new entity has been appointed to service their loans. The Administrator or an employee of the Administration designated by the Administrator may provide such notice to the borrower.
 
@@ -54,7 +54,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (e) Cease and desist order
 
-(1) Where a small business lending company, a non-Federally regulated lender, or other person violates this chapter or is engaging or is about to engage in any acts or practices which constitute or will constitute a violation of thischapter, the Administrator may order, after the opportunity for hearing pursuant to subsection (f) of this section, the company, lender, or other person to cease and desist from such action or failure to act. The Administrator may delegate the authority under the preceding sentence only to the Deputy Administrator and only if the Administrator is unavailable to take such action.
+(1) Where a small business lending company, a non-Federally regulated lender, or other person violates this chapter or is engaging or is about to engage in any acts or practices which constitute or will constitute a violation of this chapter, the Administrator may order, after the opportunity for hearing pursuant to subsection (f) of this section, the company, lender, or other person to cease and desist from such action or failure to act. The Administrator may delegate the authority under the preceding sentence only to the Deputy Administrator and only if the Administrator is unavailable to take such action.
 
 (2) The Administrator, after finding extraordinary circumstances and in order to protect the financial or legal position of the United States, may issue a cease and desist order without conducting a hearing pursuant to subsection (f) of this section. If the Administrator issues a cease and desist order under the preceding sentence, the Administrator shall within two business days follow the procedures set forth in subsection (f) of this section.
 
@@ -74,7 +74,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (1) Definition
 
-&emsp;In this section, the term “management official” means, with respect to a small business lending company or a non-Federally regulated lender, an officer, director, general partner, manager, employee, agent, or other participant in the management of the affairs of the company's or lender's activities under section 636(a) of this title.
+&emsp;In this section, the term "management official" means, with respect to a small business lending company or a non-Federally regulated lender, an officer, director, general partner, manager, employee, agent, or other participant in the management of the affairs of the company's or lender's activities under section 636(a) of this title.
 
 #### (2) Removal of management official
 
@@ -96,7 +96,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (B) Contents of notice
 
-&emsp;&emsp;A notice under subparagraph (A) shall contain a statement of the facts constituting grounds therefor and shall fix a time and place at which a hearing, conducted pursuant to sections 554, 556, and 557 of title 5, will be held thereon.
+&emsp;&emsp;A notice under subparagraph (A) shall contain a statement of the facts constituting grounds therefor and shall fix a time andplace at which a hearing, conducted pursuant to sections 554, 556, and 557 of title 5, will be held thereon.
 
 #### (C) Hearing
 
@@ -116,7 +116,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the event of consent under subparagraph (C)(ii), or if upon the record made at a hearing under this subsection, the Administrator finds that any of the groundsspecified in the notice of removal has been established, the Administrator may issue such orders of removal from office as the Administrator deems appropriate.
+&emsp;&emsp;&emsp;In the event of consent under subparagraph (C)(ii), or if upon the record made at a hearing under this subsection, the Administrator finds that any of the grounds specified in the notice of removal has been established, the Administrator may issue such orders of removal from office as the Administrator deems appropriate.
 
 #### (ii) Effectiveness
 
@@ -164,7 +164,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (D) Authority upon dismissal or other disposition
 
-&emsp;&emsp;A finding of not guilty or other disposition of charges described in subparagraph (A) shall not preclude the Administrator from instituting proceedings under subsection (e) or (f) of this section.
+&emsp;&emsp;A finding of not guilty or other disposition of charges described in subparagraph (A) shall not preclude the Administrator frominstituting proceedings under subsection (e) or (f) of this section.
 
 #### (5) Notification to small business lending company or a non-Federally regulated lender
 
@@ -178,7 +178,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (B) Judicial review
 
-&emsp;&emsp;An adversely aggrieved party shall have 20 days from the date of issuance of the orderto seek judicial review in an appropriate district court.
+&emsp;&emsp;An adversely aggrieved party shall have 20 days from the date of issuance of the order to seek judicial review in an appropriate district court.
 
 #### (h) Appointment of receiver
 

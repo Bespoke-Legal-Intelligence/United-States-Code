@@ -36,9 +36,9 @@ Section was enacted as part of the Marine Plastic Pollution Research and Control
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–324 struck out “for a period of 6 years” after “triennially thereafter” and inserted “and, not later than 1 year after October 19, 1996, and annually thereafter, shall publish in the Federal Register a list of the enforcement actions taken against any domestic or foreign ship (including any commercial or recreational ship) pursuant to the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.)” before period at end.
+<b>1996</b>—Subsec. (a). Pub. L. 104–324 struck out "for a period of 6 years" after "triennially thereafter" and inserted "and, not later than 1 year after October 19, 1996, and annually thereafter, shall publish in the Federal Register a list of the enforcement actions taken against any domestic or foreign ship (including any commercial or recreational ship) pursuant to the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.)" before period at end.
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–66 substituted “triennially” for “biennially”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–66 substituted "triennially" for "biennially".
 
 #### Transfer of Functions
 

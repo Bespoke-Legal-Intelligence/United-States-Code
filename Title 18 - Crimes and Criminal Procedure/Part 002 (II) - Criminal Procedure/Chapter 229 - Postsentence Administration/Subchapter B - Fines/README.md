@@ -22,7 +22,7 @@
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–132, title II, §207(d), Apr. 24, 1996, 110 Stat. 1240, amended table of sections generally, inserting “or restitution” after “fine” in items 3611, 3612, and 3614, reenacting items 3613 and 3615 without change, and adding item 3613A.
+<b>1996</b>—Pub. L. 104–132, title II, §207(d), Apr. 24, 1996, 110 Stat. 1240, amended table of sections generally, inserting "or restitution" after "fine" in items 3611, 3612, and 3614, reenacting items 3613 and 3615 without change, and adding item 3613A.
 
 <b>1994</b>—Pub. L. 103–322, title XXXIII, §330010(3), Sept. 13, 1994, 108 Stat. 2143, transferred analysis of this subchapter to follow heading for this subchapter.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-State Defined.—In this section, the term “State” means the 50 States and the District of Columbia.
+State Defined.—In this section, the term "State" means the 50 States and the District of Columbia.
 
 (b)
 
@@ -82,7 +82,7 @@ In general.—Not later than 90 days after the date of enactment of the SAFETEA�
 
 &emsp;&emsp;(B) the completion of requirements needed for the electronic reporting of fuel transactions from carriers and terminal operators,
 
-&emsp;&emsp;(C) the operation and maintenance of an excise summary terminal activity reportingsystem and other systems used to provide strategic analyses of domestic and foreign motor fuel distribution trends and patterns,
+&emsp;&emsp;(C) the operation and maintenance of an excise summary terminal activity reporting system and other systems used to provide strategic analyses of domestic and foreign motor fuel distribution trends and patterns,
 
 &emsp;&emsp;(D) the collection, analysis, and sharing of information on fuel distribution and compliance or noncompliance with fuel taxes, and
 
@@ -122,15 +122,15 @@ Provisions similar to those in this section were contained in Pub. L. 102–240,
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(2). Pub. L. 112–141, §1110(1)(A), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Funds made available to carry out this section may be allocated to the Internal Revenue Service and the States at the discretion of the Secretary; except that of funds so made available for each of fiscal years 2005 through 2009, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training.”
+<b>2012</b>—Subsec. (b)(2). Pub. L. 112–141, §1110(1)(A), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Funds made available to carry out this section may be allocated to the Internal Revenue Service and the States at the discretion of the Secretary; except that of funds so made available for each of fiscal years 2005 through 2009, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training."
 
-Subsec. (b)(8). Pub. L. 112–141, §1110(1)(B), substituted “section 104(b)(2)” for “section 104(b)(3)”.
+Subsec. (b)(8). Pub. L. 112–141, §1110(1)(B), substituted "section 104(b)(2)" for "section 104(b)(3)".
 
-Subsec. (c)(3). Pub. L. 112–141, §1110(2), substituted “for each fiscal year,” for “for each of fiscal years 2005 through 2009,”.
+Subsec. (c)(3). Pub. L. 112–141, §1110(2), substituted "for each fiscal year," for "for each of fiscal years 2005 through 2009,".
 
-<b>2005</b>—Subsec. (b)(2). Pub. L. 109–59, §1115(a)(1), inserted before period at end “; except that of funds so made available for each of fiscal years 2005 through 2009, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training”.
+<b>2005</b>—Subsec. (b)(2). Pub. L. 109–59, §1115(a)(1), inserted before period at end "; except that of funds so made available for each of fiscal years 2005 through 2009, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training".
 
-Subsec. (b)(3). Pub. L. 109–59, §1115(a)(2), substituted “Except as otherwise provided in this section, the” for “The”.
+Subsec. (b)(3). Pub. L. 109–59, §1115(a)(2), substituted "Except as otherwise provided in this section, the" for "The".
 
 Subsec. (b)(4)(H), (I). Pub. L. 109–59, §1115(a)(3), added subpars. (H) and (I).
 
@@ -140,19 +140,19 @@ Subsec. (c). Pub. L. 109–59, §1115(b), amended heading and text of subsec. (c
 
 <b>1998</b>—Pub. L. 105–178 amended section catchline and text generally, substituting provisions relating to highway use tax evasion projects for provisions relating to economic growth center development highways.
 
-Subsec. (c)(1). Pub. L. 105–178, §1114(c)(1), as added by Pub. L. 105–206, §9002(h), substituted “August 1” for “April 1”.
+Subsec. (c)(1). Pub. L. 105–178, §1114(c)(1), as added by Pub. L. 105–206, §9002(h), substituted "August 1" for "April 1".
 
-Subsec. (c)(3). Pub. L. 105–178, §1114(c)(2), (3), as added by Pub. L. 105–206, §9002(h), in heading inserted “priority” after “Funding” and in text inserted “and prior to funding any other activity under this section,” after “2003,”.
+Subsec. (c)(3). Pub. L. 105–178, §1114(c)(2), (3), as added by Pub. L. 105–206, §9002(h), in heading inserted "priority" after "Funding" and in text inserted "and prior to funding any other activity under this section," after "2003,".
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–87, §122(a), (c), substituted “projects” for “demonstration projects” and “a Federal-aid system (other than the Interstate System)” for “the Federal-aid primary system” and deleted “to demonstrate the role that highways can play” before “to promote”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–87, §122(a), (c), substituted "projects" for "demonstration projects" and "a Federal-aid system (other than the Interstate System)" for "the Federal-aid primary system" and deleted "to demonstrate the role that highways can play" before "to promote".
 
-Subsec. (b). Pub. L. 93–87, §122(a), substituted “projects” for “demonstration projects” and “a Federal-aid system (other than the Interstate System)” for “the Federal-aid primary system”.
+Subsec. (b). Pub. L. 93–87, §122(a), substituted "projects" for "demonstration projects" and "a Federal-aidsystem (other than the Interstate System)" for "the Federal-aid primary system".
 
-Subsec. (c). Pub. L. 93–87, §122(a), substituted “project” for “demonstration project” and “a Federal-aid system (other than the Interstate System)” for “the Federal-aid primary system”.
+Subsec. (c). Pub. L. 93–87, §122(a), substituted "project" for "demonstration project" and "a Federal-aid system (other than the Interstate System)" for "the Federal-aid primary system".
 
-Subsec. (d). Pub. L. 93–87, §122(a), substituted “highways on the Federal-aid system on which such development highway is located” for “Federal-aid primary highways”.
+Subsec. (d). Pub. L. 93–87, §122(a), substituted "highways on the Federal-aid system on which such development highway is located" for "Federal-aid primary highways".
 
-Subsec. (e). Pub. L. 93–87, §122(b), inserted introductory text “Except as otherwise provided in subsection (c) of this section,” and substituted “the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be the same as that provided under this title for any other project on the Federal-aid system on which such development highway is located” for “the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be increased by not to exceed an additional 20 per centum of the cost of such project, except that in no case shall the Federal share exceed 95 per centum of the cost of such project”.
+Subsec. (e). Pub. L. 93–87, §122(b), inserted introductory text "Except as otherwise provided in subsection (c) of this section," and substituted "the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be the same as that provided under this title for any other project on the Federal-aid system on which such development highway is located" for "the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be increased by not to exceed an additional 20 per centum of the cost of such project, except that in no case shall the Federal share exceed 95 per centum of the cost of such project".
 
 #### Effective Date of 2012 Amendment
 
@@ -166,9 +166,9 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Pub. L. 102–240, title VIII, §8002(g), (h), Dec. 18, 1991, 105 Stat. 2204, 2205, as amended by Pub. L. 105–178, title I, §1114(b)(3), June 9, 1998, 112 Stat. 154, provided that:
 
-“(g)
+"(g)
 
 Use of Revenues for Enforcement of Highway Trust Fund Taxes.—The Secretary of Transportation shall not impose any condition on the use of funds transferred under section 143 of title 23, United States Code, to the Internal Revenue Service. The Secretary of the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to be financed with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(b)(1)\].
 
-“\[(h) Repealed. Pub. L. 105–178, title I, §1114(b)(3)(B), June 9, 1998, 112 Stat. 154.\]”
+"\[(h) Repealed. Pub. L. 105–178, title I, §1114(b)(3)(B), June 9, 1998, 112 Stat. 154.\]"
 

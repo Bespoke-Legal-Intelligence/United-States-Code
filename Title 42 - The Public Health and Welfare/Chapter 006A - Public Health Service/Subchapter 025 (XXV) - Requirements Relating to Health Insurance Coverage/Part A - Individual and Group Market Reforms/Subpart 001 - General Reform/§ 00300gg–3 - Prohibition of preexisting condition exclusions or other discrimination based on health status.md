@@ -12,7 +12,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;The term “preexisting condition exclusion” means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
+&emsp;&emsp;The term "preexisting condition exclusion" means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
 
 #### (B) Treatment of genetic information
 
@@ -20,11 +20,11 @@ For purposes of this part—
 
 #### (2) Enrollment date
 
-&emsp;The term “enrollment date” means, with respect to an individual covered under a group health plan or health insurance coverage, the date of enrollment of the individual in the plan or coverage or, if earlier, the first day of the waiting period for such enrollment.
+&emsp;The term "enrollment date" means, with respect to an individual covered under a group health plan or health insurance coverage, the date of enrollment of the individual in the plan or coverage or, if earlier, the first day of the waiting period for such enrollment.
 
 #### (3) Late enrollee
 
-&emsp;The term “late enrollee” means, with respect to coverage under a group health plan, a participant or beneficiary who enrolls under the plan other than during—
+&emsp;The term "late enrollee" means, with respect to coverage under a group health plan, a participant or beneficiary who enrolls under the plan other than during—
 
 &emsp;&emsp;(A) the first period in which the individual is eligible to enroll under the plan, or
 
@@ -32,13 +32,13 @@ For purposes of this part—
 
 #### (4) Waiting period
 
-&emsp;The term “waiting period” means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
+&emsp;The term "waiting period" means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
 
 #### (c) Rules relating to crediting previous coverage
 
-#### (1) “Creditable coverage” defined
+#### (1) "Creditable coverage" defined
 
-&emsp;For purposes of this subchapter, the term “creditable coverage” means, with respect to an individual, coverage of the individual under any of the following:
+&emsp;For purposes of this subchapter, the term "creditable coverage" means, with respect to an individual, coverage of the individual under any of the following:
 
 &emsp;&emsp;(A) A group health plan.
 
@@ -82,7 +82,7 @@ For purposes of this part—
 
 #### (ii) Definitions
 
-&emsp;&emsp;&emsp;The terms “TAA-eligible individual” and “TAA-related loss of coverage” have the meanings given such terms in section 300bb–5(b)(4) of this title.
+&emsp;&emsp;&emsp;The terms "TAA-eligible individual" and "TAA-related loss of coverage" have the meanings given such terms in section 300bb–5(b)(4) of this title.
 
 #### (3) Method of crediting coverage
 
@@ -250,7 +250,7 @@ For purposes of this part—
 
 #### (ii) Disclosure about group health plan benefits to States for Medicaid and CHIP eligible individuals
 
-&emsp;&emsp;&emsp;In the case of an enrollee in a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or under a State child health plan under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance <sup>3</sup> Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act \[42 U.S.C. 1397ee(c)(2)(B), (3), (10)\] or otherwise) concerning the cost-effectiveness of the State providing medical or childhealth assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
+&emsp;&emsp;&emsp;In the case of an enrollee in a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or under a State child health plan under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance <sup>3</sup> Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act \[42 U.S.C. 1397ee(c)(2)(B), (3), (10)\] or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
 
 #### (g) Use of affiliation period by HMOs as alternative to preexisting condition exclusion
 
@@ -264,9 +264,9 @@ For purposes of this part—
 
 #### (2) Affiliation period
 
-#### (A) “Affiliation period” defined
+#### (A) "Affiliation period" defined
 
-&emsp;&emsp;For purposes of this subchapter, the term “affiliation period” means a period which, under the terms of the health insurance coverage offered by the health maintenance organization, must expire before the health insurance coverage becomes effective. The organization is not required to provide health care services or benefits during such period and no premium shall be charged to the participant or beneficiary for any coverage during the period.
+&emsp;&emsp;For purposes of this subchapter, the term "affiliation period" means a period which, under the terms of the health insurance coverage offered by the health maintenance organization, must expire before the health insurance coverage becomes effective. The organization is not required to provide health care services or benefits during such period and no premium shall be charged to the participant or beneficiary for any coverage during the period.
 
 #### (B) Beginning
 
@@ -282,10 +282,6 @@ For purposes of this part—
 
 (July 1, 1944, ch. 373, title XXVII, §2704, formerly §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat. 70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; renumbered §2704 and amended Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(3), (4), Oct. 21, 2011, 125 Stat. 419.)
 
-#### Amendment of Section
-
-<i>For delayed effective date of amendment and renumbering by section 1201(2) of Pub. L. 111–148, see Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 Subsection (a) of this section, referred to in subsecs. (b)(1)(B) and (c)(3)(A), (B), was struck out, and a new subsec. (a) was added, by Pub. L. 111–148, title I, §1201(2)(A), Mar. 23, 2010, 124 Stat. 154, and as so amended, subsec. (a) no longer contains paragraphs.
@@ -296,9 +292,9 @@ Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization 
 
 #### Codification
 
-Section was classified to section 300gg of this title prior to amendment and renumbering by Pub. L. 111–148. For text of section 300gg prior to amendment and renumbering, see Prior Provisions note under section 300gg of this title.
+Section was classified to section 300gg of this title prior to amendment and renumbering by Pub. L. 111–148.
 
-Section 242(a)(3) of Pub. L. 112–40 amended section 2701 of act July 1, 1944, “as in effect for plan years beginning before January 1, 2014”, which was classified to section 300gg of this title prior to amendment and renumbering by Pub. L. 111–148. Section 242(a)(4) of Pub. L. 112–40 made identical amendment to section 2704 of act July 1, 1944, “as in effect for plan years beginning on or after January 1, 2014”, which is set out as this section. See 2011 Amendment note below. For effective date of renumbering by section 1201(2) of Pub. L. 111–148, see Effective Date of 2010 Amendment note below.
+Section 242(a)(3) of Pub. L. 112–40 amended section 2701 of act July 1, 1944, "as in effect for plan years beginning before January 1, 2014", which was classified to section 300gg of this title prior to amendment and renumbering by Pub. L. 111–148. Section 242(a)(4) of Pub. L. 112–40 made identical amendment to section 2704 of act July 1, 1944, "as in effect for plan years beginning on or after January 1, 2014", which is set out as this section. See 2011 Amendment note below. For effective date of renumbering by section 1201(2) of Pub. L. 111–148, see Effective Date of 2010 Amendment note below.
 
 #### Prior Provisions
 
@@ -308,21 +304,21 @@ Another prior section 2704 of act July 1, 1944, was successively renumbered by s
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c)(2)(C). Pub. L. 112–40 substituted “January 1, 2014” for “February 13, 2011” in introductory provisions. See Codification note above.
+<b>2011</b>—Subsec. (c)(2)(C). Pub. L. 112–40 substituted "January 1, 2014" for "February 13, 2011" in introductory provisions. See Codification note above.
 
-<b>2010</b>—Pub. L. 111–148, §1201(2)(A), substituted “Prohibition of preexisting condition exclusions or other discrimination based on health status” for “Increased portability through limitation on preexisting condition exclusions” in section catchline, added subsec. (a), and struck out former subsec. (a) which related to limitation on preexisting condition exclusion period.
+<b>2010</b>—Pub. L. 111–148, §1201(2)(A), substituted "Prohibition of preexisting condition exclusions or other discrimination based on health status" for "Increased portability through limitation on preexisting condition exclusions" in section catchline, added subsec. (a), and struck out former subsec. (a) which related to limitation on preexisting condition exclusion period.
 
-Subsec. (c)(2)(A), (B). Pub. L. 111–148, §1563(c)(1)(A)(i), formerly §1562(c)(1)(A)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health plan” for “group health plan”.
+Subsec. (c)(2)(A), (B). Pub. L. 111–148, §1563(c)(1)(A)(i), formerly §1562(c)(1)(A)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health plan" for "group health plan".
 
-Subsec. (c)(2)(C). Pub. L. 111–344 substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+Subsec. (c)(2)(C). Pub. L. 111–344 substituted "February 13, 2011" for "January 1, 2011" in introductory provisions.
 
-Subsec. (c)(3)(A), (B). Pub. L. 111–148, §1563(c)(1)(A)(ii)(I), formerly §1562(c)(1)(A)(ii)(I), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health insurance” for “group health insurance”.
+Subsec. (c)(3)(A), (B). Pub. L. 111–148, §1563(c)(1)(A)(ii)(I), formerly §1562(c)(1)(A)(ii)(I), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance" for "group health insurance".
 
-Subsec. (c)(3)(D). Pub. L. 111–148, §1563(c)(1)(A)(ii)(II), formerly §1562(c)(1)(A)(ii)(II), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “individual or group” for “small or large” in introductory provisions.
+Subsec. (c)(3)(D). Pub. L. 111–148, §1563(c)(1)(A)(ii)(II), formerly §1562(c)(1)(A)(ii)(II), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "individual or group" for "small or large" in introductory provisions.
 
-Subsec. (d)(1) to (3). Pub. L. 111–148, §1563(c)(1)(B), formerly §1562(c)(1)(B), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health insurance” for “group health insurance”.
+Subsec. (d)(1) to (3). Pub. L. 111–148, §1563(c)(1)(B), formerly §1562(c)(1)(B), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance" for "group health insurance".
 
-Subsec. (e)(1)(A). Pub. L. 111–148, §1563(c)(1)(C), formerly §1562(c)(1)(C), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health insurance” for “group health insurance” in introductory provisions.
+Subsec. (e)(1)(A). Pub. L. 111–148, §1563(c)(1)(C), formerly §1562(c)(1)(C), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance" for "group health insurance" in introductory provisions.
 
 <b>2009</b>—Subsec. (c)(2)(C). Pub. L. 111–5 added subpar. (C).
 
@@ -350,5 +346,5 @@ Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child hea
 
 <i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by the word “Program”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by the word "Program".</i>
 

@@ -20,7 +20,7 @@ Eligibility.—In order to receive a grant under this section, a State or unit o
 
 (c)
 
-Assurances.—The Secretary shall require a State or unit of local government to which agrant may be made under this section for a land use plan or a project resulting from such plan to provide—
+Assurances.—The Secretary shall require a State or unit of local government to which a grant may be made under this section for a land use plan or a project resulting from such plan to provide—
 
 &emsp;(1) assurances satisfactory to the Secretary that the plan—
 
@@ -52,41 +52,41 @@ Sunset.—This section shall not be in effect after September 30, 2015.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (f). Pub. L. 112–95 amended subsec. (f) generally. Prior to amendment, text read as follows: “This section shall not be in effect after February 17, 2012.”
+<b>2012</b>—Subsec. (f). Pub. L. 112–95 amended subsec. (f) generally. Prior to amendment, text read as follows: "This section shall not be in effect after February 17, 2012."
 
-Pub. L. 112–91 substituted “February 17, 2012.” for “January 31, 2012.”
+Pub. L. 112–91 substituted "February 17, 2012." for "January 31, 2012."
 
-<b>2011</b>—Subsec. (f). Pub. L. 112–30 substituted “January 31, 2012.” for “September 16, 2011.”
+<b>2011</b>—Subsec. (f). Pub. L. 112–30 substituted "January 31, 2012." for "September 16, 2011."
 
-Pub. L. 112–27 substituted “September 16, 2011.” for “July 22, 2011.”
+Pub. L. 112–27 substituted "September 16, 2011." for "July 22, 2011."
 
-Pub. L. 112–21 substituted “July 22, 2011.” for “June 30, 2011.”
+Pub. L. 112–21 substituted "July 22, 2011." for "June 30, 2011."
 
-Pub. L. 112–16 substituted “June 30, 2011.” for “May 31, 2011.”
+Pub. L. 112–16 substituted "June 30, 2011." for "May 31, 2011."
 
-Pub. L. 112–7 substituted “May 31, 2011.” for “March 31, 2011.”
+Pub. L. 112–7 substituted "May 31, 2011." for "March 31, 2011."
 
-<b>2010</b>—Subsec. (f). Pub. L. 111–329 substituted “March 31, 2011.” for “December 31, 2010.”
+<b>2010</b>—Subsec. (f). Pub. L. 111–329 substituted "March 31, 2011." for "December 31, 2010."
 
-Pub. L. 111–249 substituted “December 31, 2010.” for “September 30, 2010.”
+Pub. L. 111–249 substituted "December 31, 2010." for "September 30, 2010."
 
-Pub. L. 111–216 substituted “September 30, 2010.” for “August 1, 2010.”
+Pub. L. 111–216 substituted "September 30, 2010." for "August 1, 2010."
 
-Pub. L. 111–197 substituted “August 1, 2010.” for “July 3, 2010.”
+Pub. L. 111–197 substituted "August 1, 2010." for "July 3, 2010."
 
-Pub. L. 111–161 substituted “July 3, 2010.” for “April 30, 2010.”
+Pub. L. 111–161 substituted "July 3, 2010." for "April 30, 2010."
 
-Pub. L. 111–153 substituted “April 30, 2010.” for “March 31, 2010.”
+Pub. L. 111–153 substituted "April 30, 2010." for "March 31, 2010."
 
-<b>2009</b>—Subsec. (f). Pub. L. 111–116 substituted “March 31, 2010.” for “December 31, 2009.”
+<b>2009</b>—Subsec. (f). Pub. L. 111–116 substituted "March 31, 2010." for "December 31, 2009."
 
-Pub. L. 111–69 substituted “December 31, 2009.” for “September 30, 2009.”
+Pub. L. 111–69 substituted "December 31, 2009." for "September 30, 2009."
 
-Pub. L. 111–12 substituted “September 30, 2009.” for “March 31, 2009.”
+Pub. L. 111–12 substituted "September 30, 2009." for "March 31, 2009."
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–330 substituted “March 31, 2009” for “September 30, 2008”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–330 substituted "March 31, 2009" for "September 30, 2008".
 
-Pub. L. 110–253 substituted “September 30, 2008” for “September 30, 2007”.
+Pub. L. 110–253 substituted "September 30, 2008" for "September 30, 2007".
 
 #### Effective Date of 2011 Amendment
 
@@ -132,91 +132,91 @@ Section applicable only to fiscal years beginning after Sept. 30, 2003, except a
 
 Pub. L. 112–95, title VIII, §822, Feb. 14, 2012, 126 Stat. 128, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall establish a pilot program under which operators of up to 4 public-use airports may receive grants for activities related to the redevelopment of airport properties in accordance with the requirements of this section.
 
-“(b)
+"(b)
 
 Grants.—Under the pilot program, the Administrator may make a grant in a fiscal year, from funds made available for grants under section 47117(e)(1)(A) of title 49, United States Code, to an airport operator for a project—
 
-&emsp;“(1) to support joint planning, engineering, design, and environmental permitting of projects, including the assembly and redevelopment of property purchased with noise mitigation funds made available under section 48103 of such title or passenger facility revenue collected under section 40117 of such title; and
+&emsp;"(1) to support joint planning, engineering, design, and environmental permitting of projects, including the assembly and redevelopment of property purchased with noise mitigation funds made available under section 48103 of such title or passenger facility revenue collected under section 40117 of such title; and
 
-&emsp;“(2) to encourage airport-compatible land uses and generate economic benefits to the local airport authority and adjacent community.
+&emsp;"(2) to encourage airport-compatible land uses and generate economic benefits to the local airport authority and adjacent community.
 
-“(c)
+"(c)
 
 Eligibility.—An airport operator shall be eligible to participate in the pilot program if—
 
-&emsp;“(1) the operator has received approval for a noise compatibility program under section 47504 of such title; and
+&emsp;"(1) the operator has received approval for a noise compatibility program under section 47504 of such title; and
 
-&emsp;“(2) the operator demonstrates, as determined by the Administrator—
+&emsp;"(2) the operator demonstrates, as determined by the Administrator—
 
-&emsp;&emsp;“(A) a readiness to implement cooperative land use management and redevelopment plans with neighboring local jurisdictions; and
+&emsp;&emsp;"(A) a readiness to implement cooperative land use management and redevelopment plans with neighboring local jurisdictions; and
 
-&emsp;&emsp;“(B) the probability of a clear economic benefit to neighboring local jurisdictions and financial return to the airport through the implementation of those plans.
+&emsp;&emsp;"(B) the probability of a clear economic benefit to neighboring local jurisdictions and financial return to the airport through the implementation of those plans.
 
-“(d)
+"(d)
 
 Distribution.—The Administrator shall seek to award grants under the pilot program to airport operators representing different geographic areas of the United States.
 
-“(e)
+"(e)
 
 Partnership With Neighboring Local Jurisdictions.—An airport operator shall use grant funds made available under the pilot program only in partnership with neighboring local jurisdictions.
 
-“(f)
+"(f)
 
 Grant Requirements.—The Administrator may not make a grant to an airport operator under the pilot program unless the grant is—
 
-&emsp;“(1) made to enable the airport operator and local jurisdictions undertaking community redevelopment efforts to expedite those efforts;
+&emsp;"(1) made to enable the airport operator and local jurisdictions undertaking community redevelopment efforts to expedite those efforts;
 
-&emsp;“(2) subject to a requirement that the local jurisdiction governing the property interests subject to the redevelopment efforts has adopted and will continue in effect zoning regulations that permit airport-compatible redevelopment; and
+&emsp;"(2) subject to a requirement that the local jurisdiction governing the property interests subject to the redevelopment efforts has adopted and will continue in effect zoning regulations that permit airport-compatible redevelopment; and
 
-&emsp;“(3) subject to a requirement that, in determining the part of the proceeds from disposing of land that is subject to repayment and reinvestment requirements under section 47107(c)(2)(A) of such title, the total amount of a grant issued under the pilot program that is attributable to the redevelopment of such land shall be added to other amounts that must be repaid or reinvested under that section upon disposal of such land by the airport operator.
+&emsp;"(3) subject to a requirement that, in determining the part of the proceeds from disposing of land that is subject to repayment and reinvestment requirements under section 47107(c)(2)(A) of such title, the total amount of a grant issued under the pilot program that is attributable to the redevelopment of such land shall be added to other amounts that must be repaid or reinvested under that section upon disposal of such land by the airport operator.
 
-“(g)
+"(g)
 
 Exceptions to Repayment and Reinvestment Requirements.—Amounts paid to the Secretary of Transportation under subsection (f)(3)—
 
-&emsp;“(1) shall be available to the Secretary for, giving preference to the actions in descending order—
+&emsp;"(1) shall be available to the Secretary for, giving preference to the actions in descending order—
 
-&emsp;&emsp;“(A) reinvestment in an approved noise compatibility project at the applicable airport;
+&emsp;&emsp;"(A) reinvestment in an approved noise compatibility project at the applicable airport;
 
-&emsp;&emsp;“(B) reinvestment in another approved project at the airport that is eligible for funding under section 47117(e) of such title;
+&emsp;&emsp;"(B) reinvestment in another approved project at the airport that is eligible for funding under section 47117(e) of such title;
 
-&emsp;&emsp;“(C) reinvestment in an approved airport development project at the airport that is eligible for funding under section 47114, 47115, or 47117 of such title;
+&emsp;&emsp;"(C) reinvestment in an approved airport development project at the airport that is eligible for funding under section 47114, 47115, or 47117 of such title;
 
-&emsp;&emsp;“(D) transfer to an operator of another public airport to be reinvested in an approved noise compatibility project at such airport; and
+&emsp;&emsp;"(D) transfer to an operator of another public airport to be reinvested in an approved noise compatibility project at such airport; and
 
-&emsp;&emsp;“(E) deposit in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502);
+&emsp;&emsp;"(E) deposit in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502);
 
-&emsp;“(2) shall be available in addition to amounts authorized under section 48103 of such title;
+&emsp;"(2) shall be available in addition to amounts authorized under section 48103 of such title;
 
-&emsp;“(3) shall not be subject to any limitation on grant obligations for any fiscal year; and
+&emsp;"(3) shall not be subject to any limitation on grant obligations for any fiscal year; and
 
-&emsp;“(4) shall remain available until expended.
+&emsp;"(4) shall remain available until expended.
 
-“(h)
+"(h)
 
 Federal Share.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Notwithstanding any other provision of law, the Federal share of the allowable costs of a project carried out under the pilot program shall be 80 percent.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Allowable costs.—In determining the allowable costs, the Administrator shall deduct from the total costs of the activities described in subsection (b) that portion of the costs which is equal to that portion of the total property to be redeveloped under this section that is not owned or to be acquired by the airport operator pursuant to the noise compatibility program or that is not owned by the affected neighboring local jurisdictions or other public entities.
 
-“(i)
+"(i)
 
 Maximum Amount.—Not more than $5,000,000 of the funds made available for grants under section 47117(e)(1)(A) of such title may be expended under the pilot program for any single public-use airport.
 
-“(j)
+"(j)
 
 Use of Passenger Revenue.—An airport operator participating in the pilot program may use passenger facility revenue collected under section 40117 of such title to pay any project cost described in subsection (b) that is not financed by a grant under the pilot program.
 
-“(k)
+"(k)
 
-Sunset.—This section shall not be in effect after September 30, 2015.”
+Sunset.—This section shall not be in effect after September 30, 2015."
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of this part, except as otherwise provided in this section, the term “qualified 501(c)(3) bond” means any private activity bond issued as part of an issue if—
+For purposes of this part, except as otherwise provided in this section, the term "qualified 501(c)(3) bond" means any private activity bond issued as part of an issue if—
 
 &emsp;(1) all property which is to be provided by the net proceeds of the issue is to be owned by a 501(c)(3) organization or a governmental unit, and
 
@@ -10,7 +10,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 &emsp;&emsp;(A) 501(c)(3) organizations were treated as governmental units with respect to their activities which do not constitute unrelated trades or businesses, determined by applying section 513(a), and
 
-&emsp;&emsp;(B) paragraphs (1) and (2) of section 141(b) were applied by substituting “5 percent” for “10 percent” each place it appears and by substituting “net proceeds” for “proceeds” each place it appears.
+&emsp;&emsp;(B) paragraphs (1) and (2) of section 141(b) were applied by substituting "5 percent" for "10 percent" each place it appears and by substituting "net proceeds" for "proceeds" each place it appears.
 
 #### (b) $150,000,000 limitation on bonds other than hospital bonds
 
@@ -64,7 +64,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 #### (c) Qualified hospital bond
 
-For purposes of this section, the term “qualified hospital bond” means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used with respect to a hospital.
+For purposes of this section, the term "qualified hospital bond" means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used with respect to a hospital.
 
 #### (d) Restrictions on bonds used to provide residential rental housing for family units
 
@@ -108,11 +108,11 @@ For purposes of this section, the term “qualified hospital bond” means any b
 
 #### (i) Tax-exempt financing
 
-&emsp;&emsp;&emsp;The term “tax-exempt financing” means financing provided by tax-exempt bonds.
+&emsp;&emsp;&emsp;The term "tax-exempt financing" means financing provided by tax-exempt bonds.
 
 #### (ii) Taxable financing
 
-&emsp;&emsp;&emsp;The term “taxable financing” means financing which is not tax-exempt financing.
+&emsp;&emsp;&emsp;The term "taxable financing" means financing which is not tax-exempt financing.
 
 #### (4) Substantial rehabilitation
 
@@ -148,15 +148,15 @@ A prior section 145, act Aug. 16, 1954, ch. 736, 68A Stat. 42, made a cross refe
 
 <b>1997</b>—Subsec. (b)(5). Pub. L. 105–34 added par. (5).
 
-<b>1990</b>—Subsec. (d)(4). Pub. L. 101–508 substituted “section 47(c)(1)(C)” for “section 48(g)(1)(C)” wherever appearing and “section 47(c)(1)(C)(i)” for “section 48(g)(1)(C)(i)”.
+<b>1990</b>—Subsec. (d)(4). Pub. L. 101–508 substituted "section 47(c)(1)(C)" for "section 48(g)(1)(C)" wherever appearing and "section 47(c)(1)(C)(i)" for "section 48(g)(1)(C)(i)".
 
 <b>1989</b>—Subsec. (d)(3), (4). Pub. L. 101–239 added par. (3) and redesignated former par. (3) as (4).
 
-<b>1988</b>—Subsec. (b)(2)(B)(ii)(I). Pub. L. 100–647, §1013(a)(6), substituted “section 103(b)(2)” for “section 103(b)”.
+<b>1988</b>—Subsec. (b)(2)(B)(ii)(I). Pub. L. 100–647, §1013(a)(6), substituted "section 103(b)(2)" for "section 103(b)".
 
-Subsec. (b)(2)(C)(i). Pub. L. 100–647, §1013(a)(7), substituted “subparagraph (B)” for “subparagraph (B)(ii)”.
+Subsec. (b)(2)(C)(i). Pub. L. 100–647, §1013(a)(7), substituted "subparagraph (B)" for "subparagraph (B)(ii)".
 
-Subsec. (b)(4). Pub. L. 100–647, §1013(a)(8), substituted “subparagraphs (C), (D), and (E)” for “subparagraphs (C) and (D)”.
+Subsec. (b)(4). Pub. L. 100–647, §1013(a)(8), substituted "subparagraphs (C), (D), and (E)" for "subparagraphs (C) and (D)".
 
 Subsecs. (d), (e). Pub. L. 100–647, §5053(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -174,37 +174,37 @@ Amendment by section 1013(a)(6)–(8) of Pub. L. 100–647 effective, except as 
 
 Pub. L. 100–647, title V, §5053(c), Nov. 10, 1988, 102 Stat. 3678, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section and section 148 of this title\] shall apply to obligations issued after October 21, 1988.
 
-“(2)
+"(2)
 
 Exception for construction or binding agreement.—
 
-&emsp;“(A) The amendments made by this section shall not apply to bonds (other than refunding bonds) with respect to a facility—
+&emsp;"(A) The amendments made by this section shall not apply to bonds (other than refunding bonds) with respect to a facility—
 
-&emsp;&emsp;“(i)(I) the original use of which begins with the taxpayer, and the construction, reconstruction, or rehabilitation of which began before July 14, 1988, and was completed on or after such date, or
+&emsp;&emsp;"(i)(I) the original use of which begins with the taxpayer, and the construction, reconstruction, or rehabilitation of which began before July 14, 1988, and was completed on or after such date, or
 
-&emsp;&emsp;“(II) the original use of which begins with the taxpayer and with respect to which a binding contract to incur significant expenditures for construction, reconstruction, or rehabilitation was entered into before July 14, 1988, and some of such expenditures are incurred on or after such date, and
+&emsp;&emsp;"(II) the original use of which begins with the taxpayer and with respect to which a binding contract to incur significant expenditures for construction, reconstruction, or rehabilitation was entered into before July 14, 1988, and some of such expenditures are incurred on or after such date, and
 
-&emsp;&emsp;“(ii) described in an inducement resolution or other comparable preliminary approval adopted by an issuing authority (or by a voter referendum) before July 14, 1988.
+&emsp;&emsp;"(ii) described in an inducement resolution or other comparable preliminary approval adopted by an issuing authority (or by a voter referendum) before July 14, 1988.
 
-> &emsp;For purposes of the preceding sentence, the term ‘significant expenditures’ means expenditures greater than 10 percent of the reasonably anticipated cost of the construction, reconstruction, or rehabilitation of the facility involved.
+> &emsp;For purposes of the preceding sentence, the term 'significant expenditures' means expenditures greater than 10 percent of the reasonably anticipated cost of the construction, reconstruction, or rehabilitation of the facility involved.
 
-&emsp;“(B) Subparagraph (A) shall not apply to any bond issued after December 31, 1989, and shall not apply unless it is reasonably expected (at the time of issuance of the bond) that the facility will be placed in service before January 1, 1990.
+&emsp;"(B) Subparagraph (A) shall not apply to any bond issued after December 31, 1989, and shall not apply unless it is reasonably expected (at the time of issuance of the bond) that the facility will be placed in service before January 1, 1990.
 
-“(3)
+"(3)
 
 Refundings.—The amendments made by this section shall not apply to any bond issued to refund (or which is part of a series of bonds issued to refund) a bond issued before July 15, 1988, if—
 
-&emsp;“(A) the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue,
+&emsp;"(A) the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue,
 
-&emsp;“(B) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
+&emsp;"(B) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
 
-&emsp;“(C) the proceeds of the refunding bond are used to redeem the refunded bond not later than 90 days after the date of the issuance of the refunding bond.
+&emsp;"(C) the proceeds of the refunding bond are used to redeem the refunded bond not later than 90 days after the date of the issuance of the refunding bond.
 
-> For purposes of subparagraph (A), average maturity shall be determined in accordance with section 147(b) of the 1986 Code.”
+> For purposes of subparagraph (A), average maturity shall be determined in accordance with section 147(b) of the 1986 Code."
 
 #### Savings Provision
 

@@ -46,7 +46,7 @@ Not later than 12 months after November 15, 1990, the Administrator shall promul
 
 #### (e) Procedures for administration and enforcement
 
-The Administrator shall establish, within 18 months after November 15, 1990, and in accordance with section 7525(h) of this title, proceduresfor the administration and enforcement of standards for buses subject to standards under this section, testing procedures, sampling protocols, in-use compliance requirements, and criteria governing evaluation of buses. Procedures for testing (including, but not limited to, certification testing) shall reflect actual operating conditions.
+The Administrator shall establish, within 18 months after November 15, 1990, and in accordance with section 7525(h) of this title, procedures for the administration and enforcement of standards for buses subject to standards under this section, testing procedures, sampling protocols, in-use compliance requirements, and criteria governing evaluation of buses. Procedures for testing (including, but not limited to, certification testing) shall reflect actual operating conditions.
 
 #### (f) Definitions
 
@@ -54,13 +54,13 @@ For purposes of this section—
 
 #### (1) Urban bus
 
-&emsp;The term “urban bus” has the meaning provided under regulations of the Administrator promulgated under section 7521(a) of this title.
+&emsp;The term "urban bus" has the meaning provided under regulations of the Administrator promulgated under section 7521(a) of this title.
 
 #### (2) Low-polluting fuel
 
-&emsp;The term “low-polluting fuel” means methanol, ethanol, propane, or natural gas, or any comparably low-polluting fuel. In determining whether a fuel is comparably low-polluting, the Administrator shall consider both the level of emissions of air pollutants from vehicles using the fuel and the contribution of such emissions to ambient levels of air pollutants. For purposes of this paragraph, the term “methanol” includes any fuel which contains at least 85 percent methanol unless the Administrator increases such percentage as he deems appropriate to protect public health and welfare.
+&emsp;The term "low-polluting fuel" means methanol, ethanol, propane, or natural gas, or any comparably low-polluting fuel. In determining whether a fuel is comparably low-polluting, the Administrator shall consider both the level of emissions of air pollutants from vehicles using the fuel and the contribution of such emissions to ambient levels of air pollutants. For purposes of this paragraph, the term "methanol" includes any fuel which contains at least 85 percent methanol unless the Administrator increases such percentage as he deems appropriate to protect public health and welfare.
 
 (July 14, 1955, ch. 360, title II, §219, as added Pub. L. 101–549, title II, §227\[(a)\], Nov. 15, 1990, 104 Stat. 2505.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section,".</i>
 

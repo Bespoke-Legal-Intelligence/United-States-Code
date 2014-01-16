@@ -40,15 +40,15 @@ The Trade Act of 1974, referred to in subsec. (e), is Pub. L. 93–618, Jan. 3, 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–295, §20(c)(11)(A), struck out comma after “XXIV(7)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–295, §20(c)(11)(A), struck out comma after "XXIV(7)".
 
-Subsec. (c). Pub. L. 104–295, §20(c)(11)(B), struck out comma after “XXIV(7)” and “XIX(5)”.
+Subsec. (c). Pub. L. 104–295, §20(c)(11)(B), struck out comma after "XXIV(7)" and "XIX(5)".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–465, §342(b)(1), substituted “article XXIV(7)” for “part IX, paragraph 6”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §342(b)(1), substituted "article XXIV(7)" for "part IX, paragraph 6".
 
-Subsec. (c). Pub. L. 103–465, §342(b)(1), (2), substituted “article XXIV(7)” for “part IX, paragraph 6” and “article XIX(5)” for “part VI, paragraph 9”.
+Subsec. (c). Pub. L. 103–465, §342(b)(1), (2), substituted "article XXIV(7)" for "part IX, paragraph 6" and "article XIX(5)" for "part VI, paragraph 9".
 
-Subsec. (e). Pub. L. 103–465, §342(b)(3), substituted “the date it enters into force with respect to the United States” for “July 26, 1979”.
+Subsec. (e). Pub. L. 103–465, §342(b)(3), substituted "the date it enters into force with respect to the United States" for "July 26, 1979".
 
 #### Effective Date of 1994 Amendment
 

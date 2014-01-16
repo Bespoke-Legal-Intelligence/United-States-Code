@@ -60,7 +60,7 @@ Restitution.—An order of restitution under section 3663 or 3663A of this title
 
 Definitions.—As used in this section—
 
-&emsp;(1) the term “animal enterprise” means—
+&emsp;(1) the term "animal enterprise" means—
 
 &emsp;&emsp;(A) a commercial or academic enterprise that uses or sells animals or animal products for profit, food or fiber production, agriculture, education, research, or testing;
 
@@ -68,15 +68,15 @@ Definitions.—As used in this section—
 
 &emsp;&emsp;(C) any fair or similar event intended to advance agricultural arts and sciences;
 
-&emsp;(2) the term “course of conduct” means a pattern of conduct composed of 2 or more acts, evidencing a continuity of purpose;
+&emsp;(2) the term "course of conduct" means a pattern of conduct composed of 2 or more acts, evidencing a continuity of purpose;
 
-&emsp;(3) the term “economic damage”—
+&emsp;(3) the term "economic damage"—
 
 &emsp;&emsp;(A) means the replacement costs of lost or damaged property or records, the costs of repeating an interrupted or invalidated experiment, the loss of profits, or increased costs, including losses and increased costs resulting from threats, acts or vandalism, property damage, trespass, harassment, or intimidation taken against a person or entity on account of that person's or entity's connection to, relationship with, or transactions with the animal enterprise; but
 
 &emsp;&emsp;(B) does not include any lawful economic disruption (including a lawful boycott) that results from lawful public, governmental, or business reaction to the disclosure of information about an animal enterprise;
 
-&emsp;(4) the term “serious bodily injury” means—
+&emsp;(4) the term "serious bodily injury" means—
 
 &emsp;&emsp;(A) injury posing a substantial risk of death;
 
@@ -86,7 +86,7 @@ Definitions.—As used in this section—
 
 &emsp;&emsp;(D) protracted loss or impairment of the function of a bodily member, organ, or mental faculty; and
 
-&emsp;(5) the term “substantial bodily injury” means—
+&emsp;(5) the term "substantial bodily injury" means—
 
 &emsp;&emsp;(A) deep cuts and serious burns or abrasions;
 
@@ -124,21 +124,21 @@ A prior section 43, acts June 25, 1948, ch. 645, 62 Stat. 687; Sept. 2, 1960, Pu
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–188, §336(a), amended heading and text of subsec. (a) generally, deleting par. (2) reference to intentionally stealing and to requirement that economic damage exceed $10,000, and in concluding provisions substituting reference to punishment under subsec. (b) for reference to fine or imprisonment of not more than one year.
 
-Subsec. (b). Pub. L. 107–188, §336(b), amended subsec. (b) generally, substituting “Penalties” for “Aggravated Offense” in heading and list of penalties for property damage, personal injury and death for reference to serious bodily injury and death in text.
+Subsec. (b). Pub. L. 107–188, §336(b), amended subsec. (b) generally, substituting "Penalties" for "Aggravated Offense" in heading and list of penalties for property damage, personal injury and death for reference to serious bodily injury and death in text.
 
 Subsec. (c)(3). Pub. L. 107–188, §336(c), added par. (3).
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–294 inserted “or 3663A” after “section 3663” in introductory provisions.
+<b>1996</b>—Subsec. (c). Pub. L. 104–294 inserted "or 3663A" after "section 3663" in introductory provisions.
 
 #### Short Title
 
-Pub. L. 102–346, §1, Aug. 26, 1992, 106 Stat. 928, provided that: “This Act \[enacting this section and provisions set out below\] may be cited as the ‘Animal Enterprise Protection Act of 1992’.”
+Pub. L. 102–346, §1, Aug. 26, 1992, 106 Stat. 928, provided that: "This Act \[enacting this section and provisions set out below\] may be cited as the 'Animal Enterprise Protection Act of 1992'."
 
 #### Study of Effect of Terrorism on Certain Animal Enterprises
 
 Section 3 of Pub. L. 102–346 directed Attorney General and Secretary of Agriculture to jointly conduct a study on extent and effects of domestic and international terrorism on enterprises using animals for food or fiber production, agriculture, research, or testing, and, not later than 1 year after Aug. 26, 1992, submit a report that describes the results of the study together with any appropriate recommendations and legislation to Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “for”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "for".</i>
 

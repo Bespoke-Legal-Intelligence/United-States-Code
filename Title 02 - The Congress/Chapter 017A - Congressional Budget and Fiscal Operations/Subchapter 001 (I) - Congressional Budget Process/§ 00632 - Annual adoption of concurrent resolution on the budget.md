@@ -14,11 +14,11 @@ On or before April 15 of each year, the Congress shall complete action on a conc
 
 &emsp;(5) the public debt;
 
-&emsp;(6) For <sup>1</sup> purposes of Senate enforcement under this subchapter, outlays of the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] for the fiscal year of the resolution and for each of the 4 succeeding fiscal years; and
+&emsp;(6) for purposes of Senate enforcement under this subchapter, outlays of the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] for the fiscal year of the resolution and for each of the 4 succeeding fiscal years; and
 
-&emsp;(7) For <sup>1</sup> purposes of Senate enforcement under this subchapter, revenues of the old-age, survivors, and disability insurance program established under title II of the Social Security Act (and the related provisions of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]) for the fiscal year of the resolution and for each of the 4 succeeding fiscal years.
+&emsp;(7) for purposes of Senate enforcement under this subchapter, revenues of the old-age, survivors, and disability insurance program established under title II of the Social Security Act (and the related provisions of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]) for the fiscal year of the resolution and for each of the 4 succeeding fiscal years.
 
-> The concurrent resolution shall not include the outlays and revenue totals of the old age,<sup>2</sup> survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.
+> The concurrent resolution shall not include the outlays and revenue totals of the old-age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.
 
 #### (b) Additional matters in concurrent resolution
 
@@ -36,7 +36,7 @@ The concurrent resolution on the budget may—
 
 &emsp;(6) include a heading entitled “Display of Federal Retirement Trust Fund Balances” in which the concurrent resolution shall set forth the balances of the Federal retirement trust funds;
 
-&emsp;(7) set forth procedures in the Senate whereby committee allocations, aggregates, and other levels can be revised for legislation ifthat legislation would not increase the deficit, or would not increase the deficit when taken with other legislation enacted after the adoption of the resolution, for the first fiscal year or the total period of fiscal years covered by the resolution;
+&emsp;(7) set forth procedures in the Senate whereby committee allocations, aggregates, and other levels can be revised for legislation if that legislation would not increase the deficit, or would not increase the deficit when taken with other legislation enacted after the adoption of the resolution, for the first fiscal year or the total period of fiscal years covered by the resolution;
 
 &emsp;(8) set forth procedures to effectuate pay-as-you-go in the House of Representatives; and
 
@@ -48,7 +48,7 @@ If the Committee on the Budget of the House of Representatives reports any concu
 
 #### (d) Views and estimates of other committees
 
-Within 6 weeks after the President submits a budget under section 1105(a) of title 31, or at such time as may be requested by the Committee on the Budget, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to the fiscal policy appropriate to the goals of the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within its jurisdiction or functions. Any Committee <sup>3</sup> of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.
+Within 6 weeks after the President submits a budget under section 1105(a) of title 31, or at such time as may be requested by the Committee on the Budget, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to thefiscal policy appropriate to the goals of the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within its jurisdiction or functions. Any Committee <sup>1</sup> of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.
 
 #### (e) Hearings and report
 
@@ -110,7 +110,7 @@ The Committee on the Budget of the House of Representatives shall consult with t
 
 It shall not be in order in the Senate to consider any concurrent resolution on the budget (or amendment, motion, or conference report on the resolution) that would decrease the excess of social security revenues over social security outlays in any of the fiscal years covered by the concurrent resolution. No change in chapter 1 of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] shall be treated as affecting the amount of social security revenues unless such provision changes the income tax treatment of social security benefits.
 
-(Pub. L. 93–344, title III, §301, July 12, 1974, 88 Stat. 306; Pub. L. 95–523, title III, §§303(a), 304, Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1040; Pub. L. 100–119, title I, §106(d), title II, §208(a), Sept. 29, 1987, 101 Stat. 781, 786; Pub. L. 100–418, title V, §5302, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 101–508, title XIII, §§13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–615, 1388–616, 1388–623, 1388–625; Pub. L. 104–4, title I, §102(2), Mar. 22, 1995, 109 Stat. 62; Pub. L. 105–33, title X, §10105(a)–(f)(1), Aug. 5, 1997, 111 Stat. 679, 680.)
+(Pub. L. 93–344, title III, §301, July 12, 1974, 88 Stat. 306; Pub. L. 95–523, title III, §§303(a), 304, Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1040; Pub. L. 100–119, title I, §106(d), title II, §208(a), Sept. 29, 1987, 101 Stat. 781, 786; Pub. L. 100–418, title V, §5302, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 101–508, title XIII, §§13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–615, 1388–616, 1388–623, 1388–625; Pub. L. 104–4, title I, §102(2), Mar. 22, 1995, 109 Stat. 62; Pub. L. 105–33, title X, §10105(a)–(f)(1), Aug. 5, 1997, 111 Stat. 679, 680; Pub. L. 113–67, div. A, title I, §122(1), (2), Dec. 26, 2013, 127 Stat. 1175.)
 
 #### References in Text
 
@@ -130,6 +130,10 @@ Section was formerly classified to section 1322 of Title 31 prior to the general
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a). Pub. L. 113–67, §122(2), substituted “old-age” for “old age” in concluding provisions.
+
+Subsec. (a)(6), (7). Pub. L. 113–67, §122(1), substituted “for purposes” for “For purposes”.
+
 <b>1997</b>—Subsec. (a). Pub. L. 105–33, §10105(a), in introductory provisions, substituted “and for at least each of the 4 ensuing fiscal years” for “, and planning levels for each of the two ensuing fiscal years,”.
 
 Subsec. (a)(1), (4). Pub. L. 105–33, §10105(b), substituted “and outlays” for “, budget outlays, direct loan obligations, and primary loan guarantee commitments”.
@@ -144,7 +148,7 @@ Subsec. (e). Pub. L. 105–33, §10105(e), designated existing provisions as par
 
 Subsec. (i). Pub. L. 105–33, §10105(f)(1), inserted heading and substituted “(or amendment, motion, or conference report on the resolution)” for “as reported to the Senate”.
 
-<b>1995</b>—Subsec. (d). Pub. L. 104–4 inserted at end “Any Committee of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.”
+<b>1995</b>—Subsec. (d). Pub. L. 104–4 inserted at end “Any Committee of the House of Representatives or the Senate that anticipates that the committee will considerany proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.”
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §13301(b), inserted at end: “The concurrent resolution shall not include the outlays and revenue totals of the old age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.”
 
@@ -252,15 +256,11 @@ Definitions.—For purposes of this subsection:
 
 #### Balanced Federal Budgets; Congressional Budget Committee Reports by April 15, 1979, 1980, and 1981, of Balanced Fiscal Year Budgets for 1981 and 1982
 
-Pub. L. 96–5, §5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981,a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
+Pub. L. 96–5, §5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981, a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 
 #### Application of Congressional Budget Process to Fiscal Year Beginning July 1, 1975
 
 Pub. L. 93–344, title IX, §906, July 12, 1974, 88 Stat. 332, provided for application of provisions of this subchapter and sections 602(f), 651, and 652 of this title with respect to the fiscal year beginning July 1, 1975, to the extent agreed to by the Committees on the Budget of the House of Representatives and the Senate, prior to repeal by Pub. L. 105–33, title X, §10120(a), Aug. 5, 1997, 111 Stat. 696.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “old-age,”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
 

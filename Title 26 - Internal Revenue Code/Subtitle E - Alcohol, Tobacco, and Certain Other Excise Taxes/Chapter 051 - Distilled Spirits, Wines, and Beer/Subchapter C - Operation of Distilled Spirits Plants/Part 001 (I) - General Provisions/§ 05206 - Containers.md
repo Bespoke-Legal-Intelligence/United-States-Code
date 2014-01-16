@@ -34,7 +34,7 @@ This section shall be applicable exclusively with respect to containers of disti
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a) to (c) of this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
+Provisions similar to those comprising subsecs. (a) to (c) of this section were contained in prior sections ofact Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
 
 &nbsp;
 
@@ -48,11 +48,11 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 603, 63
 
 #### Amendments
 
-<b>1996</b>—Subsec. (f)(2). Pub. L. 104–188 substituted “section 105(e)” for “section 5(e)”.
+<b>1996</b>—Subsec. (f)(2). Pub. L. 104–188 substituted "section 105(e)" for "section 5(e)".
 
 <b>1984</b>—Subsecs. (d) to (f). Pub. L. 98–369 added subsec. (d), redesignated existing subsecs. (d) and (e) as (e) and (f), respectively, and in subsec. (f) added pars. (3) and (4).
 
-<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 1984 Amendment
 

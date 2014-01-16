@@ -10,15 +10,15 @@ Lieutenant Generals and Vice Admirals.—In the administration of subsection (a)
 
 (c)
 
-Generals and Admirals.—In the administration of subsection (a) in the case of an officerwho is serving in the grade of general or admiral, the number of years of active commissioned service applicable to the officer is 40 years.
+Generals and Admirals.—In the administration of subsection (a) in the case of an officer who is serving in the grade of general or admiral, the number of years of active commissioned service applicable to the officer is 40 years.
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2863; amended Pub. L. 98–525, title XIV, §1405(14), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 105–85, div. A, title V, §506(a), (b), Nov. 18, 1997, 111 Stat. 1726.)
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–85, §506(b), substituted “regular officers in grades above brigadier general and rear admiral (lower half)” for “regular major generals and rear admirals” in section catchline.
+<b>1997</b>—Pub. L. 105–85, §506(b), substituted "regular officers in grades above brigadier general and rear admiral (lower half)" for "regular major generals and rear admirals" in section catchline.
 
-Pub. L. 105–85, §506(a), designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b) or (c) and” for “Except as provided”, and added subsecs. (b) and (c).
+Pub. L. 105–85, §506(a), designated existing provisions as subsec. (a), inserted heading, substituted "Except as provided in subsection (b) or (c) and" for "Except as provided", and added subsecs. (b) and (c).
 
-<b>1984</b>—Pub. L. 98–525 substituted “35” for “thirty-five”.
+<b>1984</b>—Pub. L. 98–525 substituted "35" for "thirty-five".
 

@@ -2,7 +2,7 @@
 
 #### (a) Contents
 
-Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, and the Secretary of the Interior shall develop and enter into a memoranda <sup>1</sup> of agreement, or review and update any existing memoranda of agreement, as required by section 4205 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 (25 U.S.C. 2411) under which the Secretaries address the following:
+Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, and theSecretary of the Interior shall develop and enter into a memoranda <sup>1</sup> of agreement, or review and update any existing memoranda of agreement, as required by section 4205 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 (25 U.S.C. 2411) under which the Secretaries address the following:
 
 &emsp;(1) The scope and nature of mental illness and dysfunctional and self-destructive behavior, including child abuse and family violence, among Indians.
 
@@ -26,7 +26,7 @@ Not later than 1 year after March 23, 2010, the Secretary, acting through the Se
 
 &emsp;(7) Directing appropriate officials of the Bureau of Indian Affairs and the Service, particularly at the agency and Service unit levels, to cooperate fully with tribal requests made pursuant to community behavioral health plans adopted under section 1665a(c) of this title and section 4206 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 (25 U.S.C. 2412).
 
-&emsp;(8) Providing for an annual review of such agreement by the Secretaries which shall beprovided to Congress and Indian tribes and tribal organizations.
+&emsp;(8) Providing for an annual review of such agreement by the Secretaries which shall be provided to Congress and Indian tribes and tribal organizations.
 
 #### (b) Specific provisions required
 
@@ -48,7 +48,7 @@ Each memorandum of agreement entered into or renewed (and amendments or modifica
 
 The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (a)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
-This chapter, referred to in subsec. (a)(6)(A), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in subsec. (a)(6)(A), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 #### Codification
 
@@ -58,5 +58,5 @@ Section 703 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 A prior section 1665b, Pub. L. 94–437, title VII, §703, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4573, related to Indian women treatment programs, prior to the general amendment of this subchapter by Pub. L. 111–148. See section 1665f of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “memorandum”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "memorandum".</i>
 

@@ -6,7 +6,7 @@
 
 &emsp;In order to meet the requirement of section 1396a(a)(62) of this title, each State shall establish a pediatric vaccine distribution program (which may be administered by the State department of health), consistent with the requirements of this section, under which—
 
-&emsp;&emsp;(A) each vaccine-eligible child (as defined in subsection (b) of this section), in receiving an immunization with a qualified pediatric vaccine (as defined in subsection (h)(8) of this section) from a program-registered provider (as defined in subsection (c) of this section) on or after October 1, 1994, is entitled to receive the immunization without charge for the cost of such vaccine; and
+&emsp;&emsp;(A) each vaccine-eligible child (as defined in subsection (b) of this section), in receiving an immunization with a qualified pediatric vaccine (as defined in subsection (h)(8) of this section) from a program-registered provider (as defined in subsection (c) of thissection) on or after October 1, 1994, is entitled to receive the immunization without charge for the cost of such vaccine; and
 
 &emsp;&emsp;(B)(i) each program-registered provider who administers such a pediatric vaccine to a vaccine-eligible child on or after such date is entitled to receive such vaccine under the program without charge either for the vaccine or its delivery to the provider, and (ii) no vaccine is distributed under the program to a provider unless the provider is a program-registered provider.
 
@@ -36,13 +36,13 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;The term “vaccine-eligible child” means a child who is a federally vaccine-eligible child (as defined in paragraph (2)) or a State vaccine-eligible child (as defined in paragraph (3)).
+&emsp;The term "vaccine-eligible child" means a child who is a federally vaccine-eligible child (as defined in paragraph (2)) or a State vaccine-eligible child (as defined in paragraph (3)).
 
 #### (2) Federally vaccine-eligible child
 
 #### (A) In general
 
-&emsp;&emsp;The term “federally vaccine-eligible child” means any of the following children:
+&emsp;&emsp;The term "federally vaccine-eligible child" means any of the following children:
 
 &emsp;&emsp;&emsp;(i) A medicaid-eligible child.
 
@@ -56,9 +56,9 @@ For purposes of this section:
 
 &emsp;&emsp;In subparagraph (A):
 
-&emsp;&emsp;&emsp;(i) The term “medicaid-eligible” means, with respect to a child, a child who is entitled to medical assistance under a state <sup>1</sup> plan approved under this subchapter.
+&emsp;&emsp;&emsp;(i) The term "medicaid-eligible" means, with respect to a child, a child who is entitled to medical assistance under a state <sup>1</sup> plan approved under this subchapter.
 
-&emsp;&emsp;&emsp;(ii) The term “insured” means, with respect to a child—
+&emsp;&emsp;&emsp;(ii) The term "insured" means, with respect to a child—
 
 &emsp;&emsp;&emsp;&emsp;(I) for purposes of subparagraph (A)(ii), that the child is enrolled under, and entitled to benefits under, a health insurance policy or plan, including a group health plan, a prepaid health plan, or an employee welfare benefit plan under the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\]; and
 
@@ -66,19 +66,19 @@ For purposes of this section:
 
 #### (3) State vaccine-eligible child
 
-&emsp;The term “State vaccine-eligible child” means, with respect to a State and a qualified pediatric vaccine, a child who is within a class of children for which the State is purchasing the vaccine pursuant to subsection (d)(4)(B) of this section.
+&emsp;The term "State vaccine-eligible child" means, with respect to a State and a qualified pediatric vaccine, a child who is within a class of children for which the State is purchasing the vaccine pursuant to subsection (d)(4)(B) of this section.
 
 #### (c) Program-registered providers
 
 #### (1) Defined
 
-&emsp;In this section, except as otherwise provided, the term “program-registered provider” means, with respect to a State, any health care provider that—
+&emsp;In this section, except as otherwise provided, the term "program-registered provider"means, with respect to a State, any health care provider that—
 
 &emsp;&emsp;(A) is licensed or otherwise authorized for administration of pediatric vaccines under the law of the State in which the administration occurs (subject to section 254f(e) of this title), without regard to whether or not the provider participates in the plan under this subchapter;
 
 &emsp;&emsp;(B) submits to the State an executed provider agreement described in paragraph (2); and
 
-&emsp;&emsp;(C) has not been found, by the Secretary or the State, to have violated such agreementor other applicable requirements established by the Secretary or the State consistent with this section.
+&emsp;&emsp;(C) has not been found, by the Secretary or the State, to have violated such agreement or other applicable requirements established by the Secretary or the State consistent with this section.
 
 #### (2) Provider agreement
 
@@ -130,7 +130,7 @@ For purposes of this section:
 
 #### (B) Negotiation of discounted price for current vaccines
 
-&emsp;&emsp;With respect to contracts entered into under this subsection for a pediatric vaccine for which the Centers for Disease Control and Prevention has a contract in effect under section 247b(j)(1) of this title as of May 1, 1993, no price for the purchase of such vaccine for vaccine-eligible children shall be agreed to by the Secretary under this subsection if the price per dose of such vaccine (including delivery costs and any applicable excise tax established under section 4131 of the Internal Revenue Code of 1986) exceeds the price per dose for the vaccine in effect under such a contract as of such date increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) from May 1993 to the month before the month in which such contract is entered into.
+&emsp;&emsp;With respect to contracts entered into under this subsection for a pediatric vaccine for which the Centers for Disease Control and Prevention has a contract in effect under section 247b(j)(1) of this title as ofMay 1, 1993, no price for the purchase of such vaccine for vaccine-eligible children shall be agreed to by the Secretary under this subsection if the price per dose of such vaccine (including delivery costs and any applicable excise tax established under section 4131 of the Internal Revenue Code of 1986) exceeds the price per dose for the vaccine in effect under such a contract as of such date increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) from May 1993 to the month before the month in which such contract is entered into.
 
 #### (C) Negotiation of discounted price for new vaccines
 
@@ -174,23 +174,23 @@ This section, and the requirement of section 1396a(a)(62) of this title, shall c
 
 For purposes of this section:
 
-&emsp;(1) The term “child” means an individual 18 years of age or younger.
+&emsp;(1) The term "child" means an individual 18 years of age or younger.
 
-&emsp;(2) The term “immunization” means an immunization against a vaccine-preventable disease.
+&emsp;(2) The term "immunization" means an immunization against a vaccine-preventable disease.
 
-&emsp;(3) The terms “Indian”, “Indian tribe” and “tribal organization” have the meanings given such terms in section 4 of the Indian Health Care Improvement Act \[25 U.S.C. 1603\].
+&emsp;(3) The terms "Indian", "Indian tribe" and "tribal organization" have the meanings given such terms in section 4 of the Indian Health Care Improvement Act \[25 U.S.C. 1603\].
 
-&emsp;(4) The term “manufacturer” means any corporation, organization, or institution, whether public or private (including Federal, State, and local departments, agencies, and instrumentalities), which manufactures, imports, processes, or distributes under its label any pediatric vaccine. The term “manufacture” means to manufacture, import, process, or distribute a vaccine.
+&emsp;(4) The term "manufacturer" means any corporation, organization, or institution, whether public or private (including Federal, State, and local departments, agencies, and instrumentalities), which manufactures, imports, processes, or distributes under its label any pediatric vaccine. The term "manufacture" means to manufacture, import, process, or distribute a vaccine.
 
-&emsp;(5) The term “parent” includes, with respect to a child, an individual who qualifies as a legal guardian under State law.
+&emsp;(5) The term "parent" includes, with respect to a child, an individual who qualifies as a legal guardian under State law.
 
-&emsp;(6) The term “pediatric vaccine” means a vaccine included on the list under subsection (e) of this section.
+&emsp;(6) The term "pediatric vaccine" means a vaccine included on the list under subsection (e) of this section.
 
-&emsp;(7) The term “program-registered provider” has the meaning given such term in subsection (c) of this section.
+&emsp;(7) The term "program-registered provider" has the meaning given such term in subsection (c) of this section.
 
-&emsp;(8) The term “qualified pediatric vaccine” means a pediatric vaccine with respect to which a contract is in effect under subsection (d) of this section.
+&emsp;(8) The term "qualified pediatric vaccine" means a pediatric vaccine with respect to which a contract is in effect under subsection (d) of this section.
 
-&emsp;(9) The terms “vaccine-eligible child”, “federally vaccine-eligible child”, and “State vaccine-eligible child” have the meaning given such terms in subsection (b) of this section.
+&emsp;(9) The terms "vaccine-eligible child", "federally vaccine-eligible child", and "State vaccine-eligible child" have the meaning given such terms in subsection (b) of this section.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1928, as added Pub. L. 103–66, title XIII, §13631(b)(2), Aug. 10, 1993, 107 Stat. 637.)
 

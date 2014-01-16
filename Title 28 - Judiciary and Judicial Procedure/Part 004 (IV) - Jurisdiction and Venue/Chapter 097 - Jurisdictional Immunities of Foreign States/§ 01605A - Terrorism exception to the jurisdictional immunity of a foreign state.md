@@ -96,19 +96,19 @@ Enforceability.—Liens established by reason of this subsection shall be enforc
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “aircraft sabotage” has the meaning given that term in Article 1 of the Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation;
+&emsp;(1) the term "aircraft sabotage" has the meaning given that term in Article 1 of the Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation;
 
-&emsp;(2) the term “hostage taking” has the meaning given that term in Article 1 of the International Convention Against the Taking of Hostages;
+&emsp;(2) the term "hostage taking" has the meaning given that term in Article 1 of the International Convention Against the Taking of Hostages;
 
-&emsp;(3) the term “material support or resources” has the meaning given that term in section 2339A of title 18;
+&emsp;(3) the term "material support or resources" has the meaning given that term in section 2339A of title 18;
 
-&emsp;(4) the term “armed forces” has the meaning given that term in section 101 of title 10;
+&emsp;(4) the term "armed forces" has the meaning given that term in section 101 of title 10;
 
-&emsp;(5) the term “national of the United States” has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
+&emsp;(5) the term "national of the United States" has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
 
-&emsp;(6) the term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), section 40 of the Arms Export Control Act (22 U.S.C. 2780), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism; and
+&emsp;(6) the term "state sponsor of terrorism" means a country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), section 40 of the Arms Export Control Act (22 U.S.C. 2780), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism; and
 
-&emsp;(7) the terms “torture” and “extrajudicial killing” have the meaning given those terms in section 3 of the Torture Victim Protection Act of 1991 (28 U.S.C. 1350 note).
+&emsp;(7) the terms "torture" and "extrajudicial killing" have the meaning given those terms in section 3 of the Torture Victim Protection Act of 1991 (28 U.S.C. 1350 note).
 
 (Added Pub. L. 110–181, div. A, title X, §1083(a)(1), Jan. 28, 2008, 122 Stat. 338.)
 
@@ -126,207 +126,207 @@ Section 3 of the Torture Victim Protection Act of 1991, referred to in subsec. (
 
 Pub. L. 110–181, div. A, title X, §1083(c), Jan. 28, 2008, 122 Stat. 342, provided that:
 
-“(1)
+"(1)
 
-In general.—The amendments made by this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and section 10603a of Title 42, The Public Health and Welfare\] shall apply to any claim arising under section 1605A of title 28, United States Code.
+In general.—The amendments made by this section \[enacting this section and amending sections 1605,1607 and 1610 of this title and section 10603a of Title 42, The Public Health and Welfare\] shall apply to any claim arising under section 1605A of title 28, United States Code.
 
-“(2)
+"(2)
 
 Prior actions.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—With respect to any action that—
 
-&emsp;&emsp;“(i) was brought under section 1605(a)(7) of title 28, United States Code, or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (as contained in section 101(c) of division A of Public Law 104–208) \[28 U.S.C. 1605 note\], before the date of the enactment of this Act \[Jan. 28, 2008\],
+&emsp;&emsp;"(i) was brought under section 1605(a)(7) of title 28, United States Code, or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (as contained in section 101(c) of division A of Public Law 104–208) \[28 U.S.C. 1605 note\], before the date of the enactment of this Act \[Jan. 28, 2008\],
 
-&emsp;&emsp;“(ii) relied upon either such provision as creating a cause of action,
+&emsp;&emsp;"(ii) relied upon either such provision as creating a cause of action,
 
-&emsp;&emsp;“(iii) has been adversely affected on the grounds that either or both of these provisions fail to create a cause of action against the state, and
+&emsp;&emsp;"(iii) has been adversely affected on the grounds that either or both of these provisions fail to create a cause of action against the state, and
 
-&emsp;&emsp;“(iv) as of such date of enactment, is before the courts in any form, including on appeal or motion under rule 60(b) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\],
+&emsp;&emsp;"(iv) as of such date of enactment, is before the courts in any form, including on appeal or motion under rule 60(b) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\],
 
 > &emsp;that action, and any judgment in the action shall, on motion made by plaintiffs to the United States district court where the action was initially brought, or judgment in the action was initially entered, be given effect as if the action had originally been filed under section 1605A(c) of title 28, United States Code.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Defenses waived.—The defenses of res judicata, collateral estoppel, and limitation period are waived—
 
-&emsp;&emsp;“(i) in any action with respect to which a motion is made under subparagraph (A), or
+&emsp;&emsp;"(i) in any action with respect to which a motion is made under subparagraph (A), or
 
-&emsp;&emsp;“(ii) in any action that was originally brought, before the date of the enactment of this Act, under section 1605(a)(7) of title 28, United States Code, or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (as contained in section 101(c) of division A of Public Law 104–208), and is refiled under section 1605A(c) of title 28, United States Code,
+&emsp;&emsp;"(ii) in any action that was originally brought, before the date of the enactment of this Act, under section 1605(a)(7) of title 28, United States Code, or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (as contained in section 101(c) of division A of Public Law 104–208), and is refiled under section 1605A(c) of title 28, United States Code,
 
 > &emsp;to the extent such defenses are based on the claim in the action.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Time limitations.—A motion may be made or an action may be refiled under subparagraph (A) only—
 
-&emsp;&emsp;“(i) if the original action was commenced not later than the latter of—
+&emsp;&emsp;"(i) if the original action was commenced not later than the latter of—
 
-&emsp;&emsp;&emsp;“(I) 10 years after April 24, 1996; or
+&emsp;&emsp;&emsp;"(I) 10 years after April 24, 1996; or
 
-&emsp;&emsp;&emsp;“(II) 10 years after the cause of action arose; and
+&emsp;&emsp;&emsp;"(II) 10 years after the cause of action arose; and
 
-&emsp;&emsp;“(ii) within the 60-day period beginning on the date of the enactment of this Act.
+&emsp;&emsp;"(ii) within the 60-day period beginning on the date of the enactment of this Act.
 
-“(3)
+"(3)
 
 Related actions.—If an action arising out of an act or incident has been timely commenced under section 1605(a)(7) of title 28, United States Code, or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (as contained in section 101(c) of division A of Public Law 104–208) \[28 U.S.C. 1605 note\], any other action arising out of the same act or incident may be brought under section 1605A of title 28, United States Code, if the action is commenced not later than the latter of 60 days after—
 
-&emsp;“(A) the date of the entry of judgment in the original action; or
+&emsp;"(A) the date of the entry of judgment in the original action; or
 
-&emsp;“(B) the date of the enactment of this Act \[Jan. 28, 2008\].
+&emsp;"(B) the date of the enactment of this Act \[Jan. 28, 2008\].
 
-“(4)
+"(4)
 
-Preserving the jurisdiction of the courts.—Nothing in section 1503 of the Emergency Wartime Supplemental Appropriations Act, 2003 (Public Law 108–11,117 Stat. 579) has ever authorized, directly or indirectly, the making inapplicable of any provision of chapter 97 of title 28, United States Code, or the removal of the jurisdiction of any court of the United States.”
+Preserving the jurisdiction of the courts.—Nothing in section 1503 of the Emergency Wartime Supplemental Appropriations Act, 2003 (Public Law 108–11, 117 Stat. 579) has ever authorized, directly or indirectly, the making inapplicable of any provision of chapter 97 of title 28, United States Code, or the removal of the jurisdiction of any court of the United States."
 
 #### Severability
 
-Pub. L. 110–181, div. A, title X, §1083(e), Jan. 28, 2008, 122 Stat. 344, provided that: “If any provision of this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and section 10603a of Title 42, The Public Health and Welfare\] or the amendments made by this section, or the application of such provision to any person or circumstance, is held invalid, the remainder of this section and such amendments, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
+Pub. L. 110–181, div. A, title X, §1083(e), Jan. 28, 2008, 122 Stat. 344, provided that: "If any provision of this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and section 10603a of Title 42, The Public Health and Welfare\] or the amendments made by this section, or the application of such provision to any person or circumstance, is held invalid, the remainder of this section and such amendments, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation."
 
 #### Libya Claims Resolution
 
 Pub. L. 110–301, Aug. 4, 2008, 122 Stat. 2999, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘Libyan Claims Resolution Act’.
+"This Act may be cited as the 'Libyan Claims Resolution Act'.
 
-#### “SEC. 2. DEFINITIONS.
+#### "SEC. 2. DEFINITIONS.
 
-“In this Act—
+"In this Act—
 
-&emsp;“(1) the term ‘appropriate congressional committees’ means the Committee on Foreign Relations and the Committee on the Judiciary of the Senate and the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives;
+&emsp;"(1) the term 'appropriate congressional committees' means the Committee on Foreign Relations and the Committee on the Judiciary of the Senate and the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives;
 
-&emsp;“(2) the term ‘claims agreement’ means an international agreement between the United States and Libya, binding under international law, that provides for the settlement of terrorism-related claims of nationals of the United States against Libya through fair compensation;
+&emsp;"(2) the term 'claims agreement' means an international agreement between the United States and Libya, binding under international law, that provides for the settlement of terrorism-related claims of nationals of the United States against Libya through fair compensation;
 
-&emsp;“(3) the term ‘national of the United States’ has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
+&emsp;"(3) the term 'national of the United States' has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
 
-&emsp;“(4) the term ‘Secretary’ means the Secretary of State; and
+&emsp;"(4) the term 'Secretary' means the Secretary of State; and
 
-&emsp;“(5) the term ‘state sponsor of terrorism’ means a country the government of which the Secretary has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), section 40 of the Arms Export Control Act (22 U.S.C. 2780), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
+&emsp;"(5) the term 'state sponsor of terrorism' means a country the government of which the Secretary has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), section 40 of the Arms Export Control Act (22 U.S.C. 2780), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
 
-#### “SEC. 3. SENSE OF CONGRESS.
+#### "SEC. 3. SENSE OF CONGRESS.
 
-“Congress supports the President in his efforts to provide fair compensation to all nationals of the United States who have terrorism-related claims against Libya through a comprehensive settlement of claims by such nationals against Libya pursuant to an international agreement between the United States and Libya as a part of the process of restoring normal relations between Libya and the United States.
+"Congress supports the President in his efforts to provide fair compensation to all nationals of the United States who have terrorism-related claims against Libya through a comprehensive settlement of claims by such nationals against Libya pursuant to an international agreement between the United States and Libya as a part of the process of restoring normal relations between Libya and the United States.
 
-#### “SEC. 4. ENTITY TO ASSIST IN IMPLEMENTATION OF CLAIMS AGREEMENT.
+#### "SEC. 4. ENTITY TO ASSIST IN IMPLEMENTATION OF CLAIMS AGREEMENT.
 
-“(a)
+"(a)
 
 Designation of Entity.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Designation.—The Secretary, by publication in the Federal Register, may, after consultation with the appropriate congressional committees, designate 1 or more entities to assist in providing compensation to nationals of the United States, pursuant to a claims agreement.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Authority of the secretary.—The designation of an entity under paragraph (1) is within the sole discretion of the Secretary, and may not be delegated. The designation shall not be subject to judicial review.
 
-“(b)
+"(b)
 
 Immunity.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Property.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Notwithstanding any other provision of law, if the Secretary designates any entity under subsection (a)(1), any property described in subparagraph (B) of this paragraph shall be immune from attachment or any other judicial process. Such immunity shall be in addition to any other applicable immunity.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Property described.—The property described in this subparagraph is any property that—
 
-&emsp;&emsp;&emsp;“(i) relates to the claims agreement; and
+&emsp;&emsp;&emsp;"(i) relates to the claims agreement; and
 
-&emsp;&emsp;&emsp;“(ii) for the purpose of implementing the claims agreement, is—
+&emsp;&emsp;&emsp;"(ii) for the purpose of implementing the claims agreement, is—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) held by an entity designated by the Secretary under subsection (a)(1);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) held by an entity designated by the Secretary under subsection (a)(1);
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) transferred to the entity; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) transferred to the entity; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) transferred from the entity.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) transferred from the entity.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Other acts.—An entity designated by the Secretary under subsection (a)(1), and any person acting through or on behalf of such entity, shall not be liable in any Federal or State court for any action taken to implement a claims agreement.
 
-“(c)
+"(c)
 
-Nonapplicability of the Government Corporation Control Act.—An entity designated by the Secretary under subsection (a)(1) shall not be subject to chapter 91 of title 31, United States Code (commonly known as the ‘Government Corporation Control Act’).
+Nonapplicability of the Government Corporation Control Act.—An entity designated by the Secretary under subsection (a)(1) shall not be subject to chapter 91 of title 31, United States Code (commonly known as the 'Government Corporation Control Act').
 
-#### “SEC. 5. RECEIPT OF ADEQUATE FUNDS; IMMUNITIES OF LIBYA.
+#### "SEC. 5. RECEIPT OF ADEQUATE FUNDS; IMMUNITIES OF LIBYA.
 
-“(a)
+"(a)
 
 Immunity.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Notwithstanding any other provision of law, upon submission of a certification described in paragraph (2)—
 
-&emsp;&emsp;“(A) Libya, an agency or instrumentality of Libya, and the property of Libya or an agency or instrumentality of Libya, shall not be subject to the exceptions to immunity from jurisdiction, liens, attachment, and execution contained in section 1605A, \[former\] 1605(a)(7), or 1610 (insofar as section 1610 relates to a judgment under such section 1605A or \[former\] 1605(a)(7)) of title 28, United States Code;
+&emsp;&emsp;"(A) Libya, an agency or instrumentality of Libya, and the property of Libya or an agency or instrumentality of Libya, shall not be subject to the exceptions to immunity from jurisdiction, liens, attachment, and execution contained in section 1605A, \[former\] 1605(a)(7), or 1610 (insofar as section 1610 relates to a judgment under such section 1605A or \[former\] 1605(a)(7)) of title 28, United States Code;
 
-&emsp;&emsp;“(B) section 1605A(c) of title 28, United States Code, section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 342; 28 U.S.C. 1605A note), section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 \[Pub. L. 104–208, div. A, title I, §101(c)\] (28 U.S.C. 1605 note), and any other private right of action relating to acts by a state sponsor of terrorism arising under Federal, State, or foreign law shall not apply with respect to claims against Libya, or any of its agencies, instrumentalities, officials, employees, or agents in any action in a Federal or State court; and
+&emsp;&emsp;"(B) section 1605A(c) of title 28, United States Code, section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 342; 28 U.S.C. 1605A note), section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 \[Pub. L. 104–208, div. A, title I, §101(c)\] (28 U.S.C. 1605 note), and any other private right of action relating to acts by a state sponsor of terrorism arising under Federal, State, or foreign law shall not apply with respect to claims against Libya, or any of its agencies, instrumentalities, officials, employees, or agents in any action in a Federal or State court; and
 
-&emsp;&emsp;“(C) any attachment, decree, lien, execution, garnishment, or other judicial process brought against property of Libya, or property of any agency, instrumentality, official, employee, or agent of Libya, in connection with an action that would be precluded by subparagraph (A) or (B) shall be void.
+&emsp;&emsp;"(C) any attachment, decree, lien, execution, garnishment, or other judicial process brought against property of Libya, or property of any agency, instrumentality, official, employee, or agent of Libya, in connection with an action that would be precluded by subparagraph (A) or (B) shall be void.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Certification.—A certification described in this paragraph is a certification—
 
-&emsp;&emsp;“(A) by the Secretary to the appropriate congressional committees; and
+&emsp;&emsp;"(A) by the Secretary to the appropriate congressional committees; and
 
-&emsp;&emsp;“(B) stating that the United States Government has received funds pursuant to the claims agreement that are sufficient to ensure—
+&emsp;&emsp;"(B) stating that the United States Government has received funds pursuant to the claims agreement that are sufficient to ensure—
 
-&emsp;&emsp;&emsp;“(i) payment of the settlements referred to in section 654(b) of division J of the Consolidated Appropriations Act, 2008 (Public Law 110–161; 121 Stat. 2342); and
+&emsp;&emsp;&emsp;"(i) payment of the settlements referred to in section 654(b) of division J of the Consolidated Appropriations Act, 2008 (Public Law 110–161; 121 Stat. 2342); and
 
-&emsp;&emsp;&emsp;“(ii) fair compensation of claims of nationals of the United States for wrongful death or physical injury in cases pending on the date of enactment of this Act \[Aug. 4, 2008\] against Libya arising under section 1605A of title 28, United States Code (including any action brought under \[former\] section 1605(a)(7) of title 28, United States Code, or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (28 U.S.C. 1605 note), that has been given effect as if the action had originally been filed under \[section\] 1605A(c) of title 28, United States Code, pursuant to section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 342; 28 U.S.C. 1605A note)).
+&emsp;&emsp;&emsp;"(ii) fair compensation of claims of nationals of the United States for wrongful death or physical injury in cases pending on the date of enactment of this Act \[Aug. 4, 2008\] against Libya arising under section 1605A of title 28, United States Code (including any action brought under \[former\] section 1605(a)(7) of title 28, United States Code, or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (28 U.S.C. 1605 note), that has been given effect as if the action had originally been filed under \[section\] 1605A(c) of title 28, United States Code, pursuant to section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 342; 28 U.S.C. 1605A note)).
 
-“(b)
+"(b)
 
 Temporal Scope.—Subsection (a) shall apply only with respect to any conduct or event occurring before June 30, 2006, regardless of whether, or the extent to which, application of that subsection affects any action filed before, on, or after that date.
 
-“(c)
+"(c)
 
-Authority of the Secretary.—The certification by the Secretary referred to in subsection (a)(2) may not be delegated, and shall not be subject to judicial review.”
+Authority of the Secretary.—The certification by the Secretary referred to in subsection (a)(2) may not be delegated, and shall not be subject to judicial review."
 
 #### Applicability to Iraq
 
 Pub. L. 110–181, div. A, title X, §1083(d), Jan. 28, 2008, 122 Stat. 343, provided that:
 
-“(1)
+"(1)
 
 Applicability.—The President may waive any provision of this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and section 10603a of Title 42, The Public Health and Welfare\] with respect to Iraq, insofar as that provision may, in the President's determination, affect Iraq or any agency or instrumentality thereof, if the President determines that—
 
-&emsp;“(A) the waiver is in the national security interest of the United States;
+&emsp;"(A) the waiver is in the national security interest of the United States;
 
-&emsp;“(B) the waiver will promote the reconstruction of, the consolidation of democracy in, and the relations of the United States with, Iraq; and
+&emsp;"(B) the waiver will promote the reconstruction of, the consolidation of democracy in, and the relations of the United States with, Iraq; and
 
-&emsp;“(C) Iraq continues to be a reliable ally of the United States and partner in combating acts of international terrorism.
+&emsp;"(C) Iraq continues to be a reliable ally of the United States and partner in combating acts of international terrorism.
 
-“(2)
+"(2)
 
 Temporal scope.—The authority under paragraph (1) shall apply—
 
-&emsp;“(A) with respect to any conduct or event occurring before or on the date of the enactment of this Act \[Jan. 28, 2008\];
+&emsp;"(A) with respect to any conduct or event occurring before or on the date of the enactment of this Act \[Jan. 28, 2008\];
 
-&emsp;“(B) with respect to any conduct or event occurring before or on the date of the exercise of that authority; and
+&emsp;"(B) with respect to any conduct or event occurring before or on the date of the exercise of that authority; and
 
-&emsp;“(C) regardless of whether, or the extent to which, the exercise of that authority affects any action filed before, on, or after the date of the exercise of that authority or of the enactment of this Act.
+&emsp;"(C) regardless of whether, or the extent to which, the exercise of that authority affects any action filed before, on, or after the date of the exercise of that authority or of the enactment of this Act.
 
-“(3)
+"(3)
 
 Notification to congress.—A waiver by the President under paragraph (1) shall cease to be effective 30 days after it is made unless the President has notified Congress in writing of the basis for the waiver as determined by the President under paragraph (1).
 
-“(4)
+"(4)
 
-Sense of congress.—It is the sense of the Congress that the President, acting through the Secretary of State, should work with the Government of Iraq on a state-to-state basis to ensure compensation for any meritorious claims based on terrorist acts committed by the Saddam Hussein regime against individuals who were United States nationals or members of the United States Armed Forces at the time of those terrorist acts and whose claims cannot be addressed in courts in the United States due to the exercise of the waiver authority under paragraph (1).”
+Sense of congress.—It is the sense of the Congress that the President, acting through the Secretary of State, should work with the Government of Iraq on a state-to-state basis to ensure compensation for any meritorious claims based on terrorist acts committed by the Saddam Hussein regime against individuals who were United States nationals or members of the United States Armed Forces at the time of those terrorist acts and whose claims cannot be addressed in courts in the United States due to the exercise of the waiver authority under paragraph (1)."
 
 #### Ex. Ord. No. 13477. Settlement of Claims Against Libya
 
@@ -358,13 +358,13 @@ Section 1. All claims within the terms of Article I of the Claims Settlement Agr
 
 Sec. 2. For purposes of this order:
 
-(a) The term “United States national” has the same meaning as “national of the United States” in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)), but also includes any entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches).
+(a) The term "United States national" has the same meaning as "national of the United States" in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)), but also includes any entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches).
 
-(b) The term “foreign national” means any person other than a United States national.
+(b) The term "foreign national" means any person other than a United States national.
 
-(c) The term “person” means any individual or entity, including both natural and juridical persons.
+(c) The term "person" means any individual or entity, including both natural and juridical persons.
 
-(d) The term “entity” means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization.
+(d) The term "entity" means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization.
 
 Sec. 3. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
 
@@ -376,7 +376,7 @@ Determination of President of the United States, No. 2008–9, Jan. 28, 2008, 73
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, and section 1083(d) of the National Defense Authorization Act for Fiscal Year 2008 (the “Act”), I hereby determine that:
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, and section 1083(d) of the National Defense Authorization Act for Fiscal Year 2008 (the "Act"), I hereby determine that:
 
 • All provisions of section 1083 of the Act, if applied to Iraq or any agency or instrumentality thereof, may affect Iraq or its agencies or instrumentalities, by exposing Iraq or its agencies or instrumentalities to liability in United States courts and by entangling their assets in litigation.
 

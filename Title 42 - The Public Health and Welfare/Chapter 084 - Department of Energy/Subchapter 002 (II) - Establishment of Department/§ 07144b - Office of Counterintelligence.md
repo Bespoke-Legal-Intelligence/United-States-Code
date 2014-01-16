@@ -10,7 +10,7 @@ There is within the Department an Office of Counterintelligence.
 
 (2) The Secretary shall select the Director of the Office from among individuals who have substantial expertise in matters relating to counterintelligence.
 
-(3) The Director of the Federal Bureau of Investigation may detail, on a reimbursable basis, any employee of the Bureau to the Department for service as Director of the Office. The serviceof an employee of the Bureau as Director of the Office shall not result in any loss of status, right, or privilege by the employee within the Bureau.
+(3) The Director of the Federal Bureau of Investigation may detail, on a reimbursable basis, any employee of the Bureau to the Department for service as Director of the Office. The service of an employee of the Bureau as Director of the Office shall not result in any loss of status, right, or privilege by the employee within the Bureau.
 
 #### (c) Duties
 
@@ -58,11 +58,11 @@ There is within the Department an Office of Counterintelligence.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364 substituted “who shall be an employee in the Senior Executive Service, the Senior Intelligence Service, the Senior National Intelligence Service, or any other Service that the Secretary, in coordination with the Director of National Intelligence, considers appropriate” for “which shall be a position in the Senior Executive Service”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364 substituted "who shall be an employee in the Senior Executive Service, the Senior Intelligence Service, the Senior National Intelligence Service, or any other Service that the Secretary, in coordination with the Director of National Intelligence, considers appropriate" for "which shall be a position in the Senior Executive Service".
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date
 
@@ -70,5 +70,5 @@ Section effective Oct. 5, 1999, see section 3299 of Pub. L. 106–65, set out as
 
 #### Transfer of Functions
 
-Pub. L. 109–364, div. C, title XXXI, §3117(a), Oct. 17, 2006, 120 Stat. 2507, as amended by Pub. L. 111–84, div. C, title XXXI, §3121, Oct. 28, 2009, 123 Stat. 2710, provided that: “The functions, personnel, funds, assets, and other resources of the Office of Defense Nuclear Counterintelligence of the National Nuclear Security Administration are transferred to the Secretary of Energy, to be administered (except to any extent otherwise directed by the Secretary) by the Director of the Office of Counterintelligence of the Department of Energy.”
+Pub. L. 109–364, div. C, title XXXI, §3117(a), Oct. 17, 2006, 120 Stat. 2507, as amended by Pub. L. 111–84, div. C, title XXXI, §3121, Oct. 28, 2009, 123 Stat. 2710, provided that: "The functions, personnel, funds, assets, and other resources of the Office of Defense Nuclear Counterintelligence of the National Nuclear Security Administration are transferred to the Secretary of Energy, to be administered (except to any extent otherwise directed by the Secretary) by the Director of the Office of Counterintelligence of the Department of Energy."
 

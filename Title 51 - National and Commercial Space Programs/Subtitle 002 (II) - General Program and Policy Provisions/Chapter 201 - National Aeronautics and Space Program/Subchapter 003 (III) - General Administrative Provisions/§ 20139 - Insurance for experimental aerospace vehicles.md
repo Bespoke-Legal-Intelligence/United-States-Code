@@ -6,11 +6,11 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Cooperating party.—The term “cooperating party” means any person who enters into an agreement with the Administration for the performance of cooperative scientific, aeronautical, or space activities to carry out the purposes of this chapter.
+Cooperating party.—The term "cooperating party" means any person who enters into an agreement with the Administration for the performance of cooperative scientific, aeronautical, or space activities to carry out the purposes of this chapter.
 
 &emsp;(2)
 
-Developer.—The term “developer” means a United States person (other than a natural person) who—
+Developer.—The term "developer" means a United States person (other than a natural person) who—
 
 &emsp;&emsp;(A) is a party to an agreement with the Administration for the purpose of developing new technology for an experimental aerospace vehicle;
 
@@ -20,11 +20,11 @@ Developer.—The term “developer” means a United States person (other than a
 
 &emsp;(3)
 
-Experimental aerospace vehicle.—The term “experimental aerospace vehicle” means an object intended to be flown in, or launched into, orbital or suborbital flight for the purpose of demonstrating technologies necessary for a reusable launch vehicle, developed under an agreement between the Administration and a developer.
+Experimental aerospace vehicle.—The term "experimental aerospace vehicle" means an object intended to be flown in, or launched into, orbital or suborbital flight for the purpose of demonstrating technologies necessary for a reusable launch vehicle, developed under an agreement between the Administration and a developer.
 
 &emsp;(4)
 
-Related entity.—The term “related entity” includes a contractor or subcontractor at any tier, a supplier, a grantee, and an investigator or detailee.
+Related entity.—The term "related entity" includes a contractor or subcontractor at any tier, a supplier, a grantee, and an investigator or detailee.
 
 (b)
 
@@ -144,5 +144,5 @@ Historical and Revision Notes
 
 Pub. L. 85–568, title III, §309, formerly title III, as added Pub. L. 106–74, title IV, §435(a), Oct. 20, 1999, 113 Stat. 1097; designated §309 and amended Pub. L. 106–391, title III, §324(a)(2), (b), Oct. 30, 2000, 114 Stat. 1599, 1600; Pub. L. 109–155, title VII, §702, Dec. 30, 2005, 119 Stat. 2936.
 
-In subsection (d)(3), the words “without regard to the date on which the Administration entered into the waiver” are substituted for “without regard to whether it was entered into before, on, or after the date of enactment of this Act” to avoid an ambiguity in the law.Literally, the words “the date of enactment of this Act” mean July 29, 1958, the date of enactment of Public Law 85–568. However, the intended meaning of the words “the date of enactment of this Act” is probably October 20, 1999, the date of enactment of Public Law 106–74. The question as to which date is actually intended is rendered inconsequential by the words “before, on, or after”.
+In subsection (d)(3), the words "without regard to the date on which the Administration entered into the waiver" are substituted for "without regard to whether it was entered into before, on, or after the date of enactment of this Act" to avoid an ambiguity in the law.Literally, the words "the date of enactment of this Act" mean July 29, 1958, the date of enactment of Public Law 85–568. However, the intended meaning of the words "the date of enactment of this Act" is probably October 20, 1999, the date of enactment of Public Law 106–74. The question as to which date is actually intended is rendered inconsequential by the words "before, on, or after".
 

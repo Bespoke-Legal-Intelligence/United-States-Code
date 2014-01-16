@@ -26,7 +26,7 @@ Limitation on Direct Loan and Guarantee Authority.—Direct loans and loan guara
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a)(1). Pub. L. 106–65, §2803(c)(1), substituted “an eligible entity” for “persons in the private sector” and “the eligible entity” for “such persons”.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–65, §2803(c)(1), substituted "an eligible entity" for "persons in the private sector" and "the eligible entity" for "such persons".
 
-Subsec. (b)(1). Pub. L. 106–65, §2803(c)(2), substituted “an eligible entity” for “any person in the private sector” and “the eligible entity” for “the person”.
+Subsec. (b)(1). Pub. L. 106–65, §2803(c)(2), substituted "an eligible entity" for "any person in the private sector" and "the eligible entity" for "the person".
 

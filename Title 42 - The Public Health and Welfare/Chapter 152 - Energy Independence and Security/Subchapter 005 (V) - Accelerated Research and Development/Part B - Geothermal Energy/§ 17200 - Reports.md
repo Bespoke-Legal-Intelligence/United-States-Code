@@ -2,7 +2,7 @@
 
 #### (a) Reports on advanced uses of geothermal energy
 
-Not later than 3 years and 5 years after December 19, 2007, the Secretary shall report to theCommittee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on advanced concepts and technologies to maximize the geothermal resource potential of the United States. The reports shall include—
+Not later than 3 years and 5 years after December 19, 2007, the Secretary shall report to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on advanced concepts and technologies to maximize the geothermal resource potential of the United States. The reports shall include—
 
 &emsp;(1) the use of carbon dioxide as an alternative geofluid with potential carbon sequestration benefits;
 

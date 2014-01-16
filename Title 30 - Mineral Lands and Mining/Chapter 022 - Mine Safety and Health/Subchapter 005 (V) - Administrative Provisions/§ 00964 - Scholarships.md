@@ -2,13 +2,13 @@
 
 #### (a) Establishment
 
-The Secretary of Education (referred to in this section as the “Secretary”), in consultation with the Secretary of Labor and the Secretary of Health and Human Services, shall establish a program to provide scholarships to eligible individuals to increase the skilled workforce for both private sector coal mine operators and mine safety inspectors and other regulatory personnel for the Mine Safety and Health Administration.
+The Secretary of Education (referred to in this section as the "Secretary"), in consultation with the Secretary of Labor and the Secretary of Health and Human Services, shall establish a program to provide scholarships to eligible individuals to increase the skilled workforce for both private sector coal mine operators and mine safety inspectors and other regulatory personnel for the Mine Safety and Health Administration.
 
 #### (b) Fundamental skills scholarships
 
 #### (1) In general
 
-&emsp;Under the program under subsection (a), the Secretary may award scholarship to fully or partially pay the tuition costs of eligible individuals enrolled in 2-year associate's degree programs at community colleges or other colleges and universities that focus on providing the fundamental skills and training that is of immediate use to a beginning coal miner.
+&emsp;Under the program under subsection (a), the Secretary may award scholarship to fully orpartially pay the tuition costs of eligible individuals enrolled in 2-year associate's degree programs at community colleges or other colleges and universities that focus on providing the fundamental skills and training that is of immediate use to a beginning coal miner.
 
 #### (2) Skills
 

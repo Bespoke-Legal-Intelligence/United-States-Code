@@ -24,7 +24,7 @@ disability retirees.—
 
 &emsp;&emsp;(A)
 
-General rule.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
+General rule.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61of this title, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
 &emsp;&emsp;(B)
 
@@ -44,7 +44,7 @@ Procedures.—The Secretary of Defense shall prescribe procedures and criteria u
 
 (e)
 
-Combat-Related Disability.—In this section, the term “combat-related disability” means a disability that is compensable under the laws administered by the Secretary of Veterans Affairs and that—
+Combat-Related Disability.—In this section, the term "combat-related disability" means a disability that is compensable under the laws administered by the Secretary of Veterans Affairs and that—
 
 &emsp;(1) is attributable to an injury for which the member was awarded the Purple Heart; or
 
@@ -74,65 +74,65 @@ Source of Payments.—Payments under this section for a member of the Army, Navy
 
 Other Definitions.—In this section:
 
-&emsp;(1) The term “service-connected” has the meaning given such term in section 101 of title 38.
+&emsp;(1) The term "service-connected" has the meaning given such term in section 101 of title 38.
 
-&emsp;(2) The term “retired pay” includes retainer pay, emergency officers’ retirement pay, and naval pension.
+&emsp;(2) The term "retired pay" includes retainer pay, emergency officers' retirement pay, and naval pension.
 
 (Added Pub. L. 107–314, div. A, title VI, §636(a)(1), Dec. 2, 2002, 116 Stat. 2574; amended Pub. L. 108–136, div. A, title VI, §§641(c)(1), 642(a)–(e)(1), Nov. 24, 2003, 117 Stat. 1514, 1516, 1517; Pub. L. 110–181, div. A, title VI, §641(a), (b), Jan. 28, 2008, 122 Stat. 156; Pub. L. 112–239, div. A, title VI, §643(a), Jan. 2, 2013, 126 Stat. 1783.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(3). Pub. L. 112–239 substituted “may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed” for “shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds” in subpars. (A) and (B).
+<b>2013</b>—Subsec. (b)(3). Pub. L. 112–239 substituted "may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed" for "shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds" in subpars. (A) and (B).
 
 <b>2008</b>—Subsec. (b)(3). Pub. L. 110–181, §641(b), designated existing text as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (c). Pub. L. 110–181, §641(a), substituted “who—” for “entitled to retired pay who—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+Subsec. (c). Pub. L. 110–181, §641(a), substituted "who—" for "entitled to retired pay who—" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 
-“(1) has completed at least 20 years of service in the uniformed services that are creditable for purposes of computing the amount of retired pay to which the member is entitled or is entitled to retired pay under section 12731 of this title (other than by reason of section 12731b of this title); and
+"(1) has completed at least 20 years of service in the uniformed services that are creditable for purposes of computing the amount of retired pay to which the member is entitled or is entitled to retired pay under section 12731 of this title (other than by reason of section 12731b of this title); and
 
-“(2) has a combat-related disability.”
+"(2) has a combat-related disability."
 
-<b>2003</b>—Pub. L. 108–136, §642(e)(1), substituted “Combat-related special compensation” for “Special compensation for certain combat-related disabled uniformed services retirees” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §642(e)(1), substituted "Combat-related special compensation" for "Special compensation for certain combat-related disabled uniformed services retirees" in section catchline.
 
-Subsec. (b)(1). Pub. L. 108–136, §642(c), substituted “under subsection (a) for any month is the amount of compensation to which the retiree is entitled under title 38 for that month, determined without regard to any disability of the retiree that is not a combat-related disability.” for “for a combat-related disability under subsection (a) is the monthly amount of compensation to which the retiree would be entitled solely for the combat-related disability consistent with chapter 11 of title 38.”
+Subsec. (b)(1). Pub. L. 108–136, §642(c), substituted "under subsection (a) for any month is the amount of compensation to which the retiree is entitled under title 38 for that month, determined without regard to any disability of the retiree that is not a combat-related disability." for "for a combat-related disability under subsection (a) is the monthly amount of compensation to which the retiree would be entitled solely for the combat-related disability consistent with chapter 11 of title 38."
 
-Subsec. (c)(1). Pub. L. 108–136, §642(b), inserted before semicolon at end “or is entitled to retired pay under section 12731 of this title (other than by reason of section 12731b of this title)”.
+Subsec. (c)(1). Pub. L. 108–136, §642(b), inserted before semicolon at end "or is entitled to retired pay under section 12731 of this title (other than by reason of section 12731b of this title)".
 
-Subsec. (c)(2). Pub. L. 108–136, §642(a)(2), struck out “qualifying” before “combat-related disability”.
+Subsec. (c)(2). Pub. L. 108–136, §642(a)(2), struck out "qualifying" before "combat-related disability".
 
-Subsec. (e). Pub. L. 108–136, §642(a)(1), amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) defined term “qualifying combat-related disability”.
+Subsec. (e). Pub. L. 108–136, §642(a)(1), amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) defined term "qualifying combat-related disability".
 
 Subsec. (f). Pub. L. 108–136, §642(d), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows:
 
-“(1)
+"(1)
 
 Single source of compensation.—An individual who is paid special compensation under this section may not receive special compensation under section 1413 of this title.
 
-“(2)
+"(2)
 
 Election of source.—An individual who is eligible for special compensation under this section and special compensation under section 1413 of this title shall elect which special compensation to receive.
 
-“(3)
+"(3)
 
-Regulations.—The Secretary of Defense shall prescribe in regulations the manner and form of an election under this subsection.”
+Regulations.—The Secretary of Defense shall prescribe in regulations the manner and form of an election under this subsection."
 
-Subsec. (h). Pub. L. 108–136, §641(c)(1), inserted first sentence and inserted “for any other member” before “for any fiscal year”.
+Subsec. (h). Pub. L. 108–136, §641(c)(1), inserted first sentence and inserted "for any other member" before "for any fiscal year".
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title VI, §643(b), Jan. 2, 2013, 126 Stat. 1783, provided that: “The amendment made by this section \[amending this section\] shall take effect as of January 1, 2013, and shall apply to payments for months beginning on or after that date.”
+Pub. L. 112–239, div. A, title VI, §643(b), Jan. 2, 2013, 126 Stat. 1783, provided that: "The amendment made by this section \[amending this section\] shall take effect as of January 1, 2013, and shall apply to payments for months beginning on or after that date."
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title VI, §641(c), Jan. 28, 2008, 122 Stat. 156, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 2008, and shall apply to payments for months beginning on or after that date.”
+Pub. L. 110–181, div. A, title VI, §641(c), Jan. 28, 2008, 122 Stat. 156, provided that: "The amendments made by this section \[amending this section\] shall take effect on January 1, 2008, and shall apply to payments for months beginning on or after that date."
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title VI, §641(c)(6), Nov. 24, 2003, 117 Stat. 1516, provided that: “The amendments made by this subsection \[amending this section and sections 1413, 1463, 1465, and 1466 of this title\] shall take effect as of October 1, 2003. The Secretary of Defense shall provide for such administrative adjustments as necessary to provide for payments made for any period during fiscal year 2004 before the date of the enactment of this Act \[Nov. 24, 2003\] to be treated as having been made in accordance with such amendments and for the provisions of such amendments to be implemented as if enacted as of September 30, 2003.”
+Pub. L. 108–136, div. A, title VI, §641(c)(6), Nov. 24, 2003, 117 Stat. 1516, provided that: "The amendments made by this subsection \[amending this section and sections 1413, 1463, 1465, and 1466 of this title\] shall take effect as of October 1, 2003. The Secretary of Defense shall provide for such administrative adjustments as necessary to provide for payments made for any period during fiscal year 2004 before the date of the enactment of this Act \[Nov. 24, 2003\] to be treated as having been made in accordance with such amendments and for the provisions of such amendments to be implemented as if enacted as of September 30, 2003."
 
-Pub. L. 108–136, div. A, title VI, §642(f), Nov. 24, 2003, 117 Stat. 1517, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply to payments under section 1413a of title 10, United States Code, for months beginning on or after January 1, 2004. The amendment made by subsection (d) \[amending this section\] shall take effect on January 1, 2004.”
+Pub. L. 108–136, div. A, title VI, §642(f), Nov. 24, 2003, 117 Stat. 1517, provided that: "The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply to payments under section 1413a of title 10, United States Code, for months beginning on or after January 1, 2004. The amendment made by subsection (d) \[amending this section\] shall take effect on January 1, 2004."
 
 #### Effective Date
 
-Pub. L. 107–314, div. A, title VI, §636(a)(2), Dec. 2, 2002, 116 Stat. 2576, provided that: “Section 1413a of title 10, United States Code, as added by paragraph (1), shall take effect not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\].”
+Pub. L. 107–314, div. A, title VI, §636(a)(2), Dec. 2, 2002, 116 Stat. 2576, provided that: "Section 1413a of title 10, United States Code, as added by paragraph (1), shall take effect not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\]."
 

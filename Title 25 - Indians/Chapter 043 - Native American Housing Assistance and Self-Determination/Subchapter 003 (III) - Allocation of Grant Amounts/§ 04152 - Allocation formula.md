@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) assess existing data sources, including alternatives to the decennial census, for use in evaluating the factors for determination of need described in subsection (b); and
 
-&emsp;&emsp;&emsp;(ii) develop and recommend methodologies for collecting data on any of those factors, including formula area, in any case in which existing data is determined to be insufficient or inadequate, or fails to satisfy the requirements of this chapter.
+&emsp;&emsp;&emsp;(ii) develop and recommend methodologies for collecting data on any of those factors, including formula area, in any case in which existing data is determinedto be insufficient or inadequate, or fails to satisfy the requirements of this chapter.
 
 #### (B) Authorization of appropriations
 
@@ -30,11 +30,11 @@ The formula shall be based on factors that reflect the need of the Indian tribes
 
 &emsp;&emsp;(ii) the unit is lost to the recipient by conveyance, demolition, or other means.
 
-&emsp;(B) If the unit is a homeownership unit not conveyed within 25 years from the date of fullavailability, the recipient shall not be considered to have lost the legal right to own, operate, or maintain the unit if the unit has not been conveyed to the homebuyer for reasons beyond the control of the recipient.
+&emsp;(B) If the unit is a homeownership unit not conveyed within 25 years from the date of full availability, the recipient shall not be considered to have lost the legal right to own, operate, or maintain the unit if the unit has not been conveyed to the homebuyer for reasons beyond the control of the recipient.
 
 &emsp;(C) If the unit is demolished and the recipient rebuilds the unit within 1 year of demolition of the unit, the unit may continue to be considered a low-income housing dwelling unit for the purpose of this paragraph.
 
-&emsp;(D) In this paragraph, the term “reasons beyond the control of the recipient” means, after making reasonable efforts, there remain—
+&emsp;(D) In this paragraph, the term "reasons beyond the control of the recipient" means, after making reasonable efforts, there remain—
 
 &emsp;&emsp;(i) delays in obtaining or the absence of title status reports;
 
@@ -72,7 +72,7 @@ In establishing the formula, the Secretary shall consider—
 
 #### (2) Partial funding
 
-&emsp;The formula shall provide that, if, in any fiscal year, the total amount made available for assistance under this chapter is less than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the amount provided for such fiscal year for each Indian tribe for which such operating or modernization assistance was provided for fiscal year 1996 shall not be less than the amount that bears the same ratio to the total amount available for assistance under this chapter for such fiscal year that the amount of operating and modernization assistance provided for the tribe for fiscal year 1996 bears to the total amount made available for fiscal year 1996 for assistance for the operation and modernization of such public housing.
+&emsp;The formula shall provide that, if, in any fiscal year, the total amount made available for assistance under this chapter is less than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the amount provided for such fiscal year for each Indian tribe for which such operating or modernization assistance was provided for fiscal year 1996 shall notbe less than the amount that bears the same ratio to the total amount available for assistance under this chapter for such fiscal year that the amount of operating and modernization assistance provided for the tribe for fiscal year 1996 bears to the total amount made available for fiscal year 1996 for assistance for the operation and modernization of such public housing.
 
 #### (e) Effective date
 
@@ -82,19 +82,19 @@ This section shall take effect on October 26, 1996.
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (d), was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsecs. (b)(1)(A) and (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The PublicHealth and Welfare. Section 14 of the Act, which was classified to section 1437l of Title 42, was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsecs. (b)(1)(A) and (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. Section 14 of the Act, which was classified to section 1437l of Title 42, was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-Subchapter V of this chapter, referred to in subsec. (c)(2), was in the original “title V”, meaning title V of Pub. L. 104–330, which enacted subchapter V of this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amended sections 1437a, 1437c to 1437e, 1437g, 1437l, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11903a, 12747, and 12838 of Title 42, repealed sections 1437aa to 1437ee of Title 42, enacted provisions set out as notes under sections 11371, 12747, and 12899h–1 of Title 42, amended provisions set out as a note under section 11301 of Title 42, and repealed provisions set out as a note under section 1701z–6 of Title 12, Banks and Banking. For complete classification of title V to the Code, see Tables.
+Subchapter V of this chapter, referred to in subsec. (c)(2), was in the original "title V", meaning title V of Pub. L. 104–330, which enacted subchapter V of this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amended sections 1437a, 1437c to 1437e, 1437g, 1437l, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11903a, 12747, and 12838 of Title 42, repealed sections 1437aa to 1437ee of Title 42, enacted provisions set out as notes under sections 11371, 12747, and 12899h–1 of Title 42, amended provisions set out as a note under section 11301 of Title 42, and repealed provisions set out as a note under section 1701z–6 of Title 12, Banks and Banking. For complete classification of title V to the Code, see Tables.
 
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–411, §301(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 110–411, §301(2), added par. (1) and struck out former par. (1) which read as follows: “The number of low-income housing dwelling units owned or operated at the time pursuant to a contract between an Indian housing authority for the tribe and the Secretary.”
+Subsec. (b)(1). Pub. L. 110–411, §301(2), added par. (1) and struck out former par. (1) which read as follows: "The number of low-income housing dwelling units owned or operated at the time pursuant to a contract between an Indian housing authority for the tribe and the Secretary."
 
-<b>2000</b>—Subsec. (d)(1). Pub. L. 106–568, §1003(g)(1), and Pub. L. 106–569, §503(f)(1), which directed identical amendment of par. (1) by substituting subpar. (A) designation, heading, and “Except with respect to an Indian tribe described in subparagraph (B), the formula” for “The formula,”, were executed by making the substitution for “The formula” to reflect the probable intent of Congress.
+<b>2000</b>—Subsec. (d)(1). Pub. L. 106–568, §1003(g)(1), and Pub. L. 106–569, §503(f)(1), which directed identical amendment of par. (1) by substituting subpar. (A) designation, heading, and "Except with respect to an Indian tribe described in subparagraph (B), the formula" for "The formula,", were executed by making the substitution for "The formula" to reflect the probable intent of Congress.
 
 Subsec. (d)(1)(B). Pub. L. 106–568, §1003(g)(2), and Pub. L. 106–569, §503(f)(2), amended par. (1) identically, adding subpar. (B).
 

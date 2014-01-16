@@ -28,7 +28,7 @@ Notwithstanding any other provision of law that prohibits a Federal agency from 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–513, §12(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may enter into cooperative agreements, financial agreements, grants, contracts, or other agreements with States, local governments, regional agencies, interstate agencies, or other persons to carry out the purposes and policies of this chapter.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–513, §12(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary may enter into cooperative agreements, financial agreements, grants, contracts, or other agreements with States, local governments, regional agencies, interstate agencies, or other persons to carry out the purposes and policies of this chapter."
 
 Subsecs. (e), (f). Pub. L. 106–513, §12(b), added subsecs. (e) and (f).
 
@@ -36,17 +36,17 @@ Subsecs. (e), (f). Pub. L. 106–513, §12(b), added subsecs. (e) and (f).
 
 <b>1992</b>—Pub. L. 102–587, as amended by Pub. L. 104–283, amended section generally. Prior to amendment, section read as follows:
 
-“(a)
+"(a)
 
 Cooperative Agreements.—The Secretary may enter into cooperative agreements with any nonprofit organization—
 
-&emsp;“(1) to aid and promote interpretive, historical, scientific, and educational activities; and
+&emsp;"(1) to aid and promote interpretive, historical, scientific, and educational activities; and
 
-&emsp;“(2) for the solicitation of private donations for the support of such activities.
+&emsp;"(2) for the solicitation of private donations for the support of such activities.
 
-“(b)
+"(b)
 
-Donations.—The Secretary may accept donations of funds, property, and services for use in designating and administering national marine sanctuaries under this chapter.”
+Donations.—The Secretary may accept donations of funds, property, and services for use in designating and administering national marine sanctuaries under this chapter."
 
 #### Enhancing Support for National Marine Sanctuaries
 

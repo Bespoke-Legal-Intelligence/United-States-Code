@@ -1,6 +1,6 @@
 ### §912. Officer or employee of the United States
 
-Whoever falsely assumes or pretends to be an officer or employee acting under the authorityof the United States or any department, agency or officer thereof, and acts as such, or in such pretended character demands or obtains any money, paper, document, or thing of value, shall be fined under this title or imprisoned not more than three years, or both.
+Whoever falsely assumes or pretends to be an officer or employee acting under the authority of the United States or any department, agency or officer thereof, and acts as such, or in such pretended character demands or obtains any money, paper, document, or thing of value, shall be fined under this title or imprisoned not more than three years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 742; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -12,13 +12,13 @@ Section consolidates sections 76 and 123 of title 18, U.S.C., 1940 ed. The effec
 
 This section now applies the same punishment to all officers and agents of the United States found guilty of false personation.
 
-Words “agency or” were inserted to eliminate any possible ambiguity as to scope of section. (See definitive section 6 of this title.) Other words referring to “authority of any corporation owned or controlled by the United States” were omitted for the same reason. (See <i>Pierce v. U.S</i>., 1941, 62 S. Ct. 237, 314 U.S. 306, 86 L. Ed. 226.)
+Words "agency or" were inserted to eliminate any possible ambiguity as to scope of section. (See definitive section 6 of this title.) Other words referring to "authority of any corporation owned or controlled by the United States" were omitted for the same reason. (See <i>Pierce v. U.S</i>., 1941, 62 S. Ct. 237, 314 U.S. 306, 86 L. Ed. 226.)
 
-The words “with the intent to defraud the United States or any person”, contained in said section 76 of title 18, U.S.C., 1940 ed., were omitted as meaningless in view of <i>United States v. Lapowich</i>, 63 S. Ct. 914.
+The words "with the intent to defraud the United States or any person", contained in said section 76 of title 18, U.S.C., 1940 ed., were omitted as meaningless in view of <i>United States v. Lapowich</i>, 63 S. Ct. 914.
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".
 

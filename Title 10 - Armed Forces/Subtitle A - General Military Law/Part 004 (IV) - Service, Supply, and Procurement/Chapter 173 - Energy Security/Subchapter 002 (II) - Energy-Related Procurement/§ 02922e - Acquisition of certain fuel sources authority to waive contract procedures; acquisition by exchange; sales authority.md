@@ -24,35 +24,35 @@ Authority To Sell.—The Secretary of Defense may sell a defined fuel source of 
 
 #### Amendments
 
-<b>2011</b>—Subsecs. (e), (f). Pub. L. 112–81 struck out subsecs. (e) and (f), which, respectively, defined “petroleum” and “defined fuel source”.
+<b>2011</b>—Subsecs. (e), (f). Pub. L. 112–81 struck out subsecs. (e) and (f), which, respectively, defined "petroleum" and "defined fuel source".
 
 <b>2006</b>—Pub. L. 109–364 renumbered section 2404 of this title as this section.
 
-<b>1999</b>—Pub. L. 106–65, §803(b)(1), substituted “Acquisition of certain fuel sources” for “Acquisition of petroleum and natural gas” in section catchline.
+<b>1999</b>—Pub. L. 106–65, §803(b)(1), substituted "Acquisition of certain fuel sources" for "Acquisition of petroleum and natural gas" in section catchline.
 
-Subsec. (a). Pub. L. 106–65, §803(a)(1), substituted “a defined fuel source” for “petroleum or natural gas” in introductory provisions, “market conditions for the defined fuel source” for “petroleum market conditions or natural gas market conditions, as the case may be,” and “acquisition of that defined fuel source” for “acquisition of petroleum or acquisition of natural gas, respectively,” in par. (1), and “that defined fuel source” for “petroleum or natural gas, as the case may be,” in par. (2).
+Subsec. (a). Pub. L. 106–65, §803(a)(1), substituted "a defined fuel source" for "petroleum or natural gas" in introductory provisions, "market conditions for the defined fuel source" for "petroleum market conditions or natural gas market conditions, as the case may be," and "acquisition of that defined fuel source" for "acquisition of petroleum or acquisition of natural gas, respectively," in par. (1), and "that defined fuel source" for "petroleum or natural gas, as the case may be," in par. (2).
 
-Subsec. (b). Pub. L. 106–65, §803(a)(2), substituted “a defined fuel source” for “petroleum or natural gas” in second sentence.
+Subsec. (b). Pub. L. 106–65, §803(a)(2), substituted "a defined fuel source" for "petroleum or natural gas" in second sentence.
 
-Subsec. (c). Pub. L. 106–65, §803(a)(3), which directed the substitution of “a defined fuel source or services related to a defined fuel source by exchange of a defined fuel source or services related to a defined fuel source.” for “ ‘petroleum’ and all that follows through the period”, was executed by substituting the material for “petroleum, petroleum-related services, natural gas, or natural gas-related services by exchange of petroleum, petroleum-related services, natural gas, or natural gas-related services.” to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 106–65, §803(a)(3), which directed the substitution of "a defined fuel source or services related to a defined fuel source by exchange of a defined fuel source or services related to a defined fuel source." for " 'petroleum' and all that follows through the period", was executed by substituting the material for "petroleum, petroleum-related services, natural gas, or natural gas-related services by exchange of petroleum, petroleum-related services, natural gas, or natural gas-related services." to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 106–65, §803(a)(4), substituted “a defined fuel source” for “petroleum or natural gas” in first sentence and “a defined fuel source or services related to a defined fuel source.” for “petroleum, petroleum-related services, natural gas, or natural gas-related services.” in second sentence.
+Subsec. (d). Pub. L. 106–65, §803(a)(4), substituted "a defined fuel source" for "petroleum or natural gas" in first sentence and "a defined fuel source or services related to a defined fuel source." for "petroleum, petroleum-related services, natural gas, or natural gas-related services." in second sentence.
 
 Subsec. (f). Pub. L. 106–65, §803(a)(5), added subsec. (f).
 
-<b>1993</b>—Pub. L. 103–160, §826(d)(2), substituted “petroleum and natural gas: authority to waive contract procedures; acquisition by exchange; sales authority” for “petroleum: authority to waive contract procedures” as section catchline.
+<b>1993</b>—Pub. L. 103–160, §826(d)(2), substituted "petroleum and natural gas: authority to waive contract procedures; acquisition by exchange; sales authority" for "petroleum: authority to waive contract procedures" as section catchline.
 
-Subsec. (a). Pub. L. 103–160, §826(a)(1), (d)(1)(A), inserted heading, inserted “or natural gas” after “petroleum” in introductory provisions, inserted “or natural gas market conditions, as the case may be,” after “petroleum market conditions” and “or acquisition of natural gas, respectively,” after “acquisition of petroleum” in par. (1), and inserted “or natural gas, as the case may be,” after “petroleum” in par. (2).
+Subsec. (a). Pub. L. 103–160, §826(a)(1), (d)(1)(A), inserted heading, inserted "or natural gas" after "petroleum" in introductory provisions, inserted "or natural gas market conditions, as the case may be," after "petroleum market conditions" and "or acquisition of natural gas, respectively," after "acquisition of petroleum" in par. (1), and inserted "or natural gas, as the case may be," after "petroleum" in par. (2).
 
-Subsec. (b). Pub. L. 103–160, §826(a)(2), (d)(1)(B), inserted heading and inserted “or natural gas” after “petroleum” in second sentence.
+Subsec. (b). Pub. L. 103–160, §826(a)(2), (d)(1)(B), inserted heading and inserted "or natural gas" after "petroleum" in second sentence.
 
-Subsec. (c). Pub. L. 103–160, §826(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: “The Secretary of Defense may acquire petroleum by exchange of petroleum or petroleum derivatives.”
+Subsec. (c). Pub. L. 103–160, §826(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Secretary of Defense may acquire petroleum by exchange of petroleum or petroleum derivatives."
 
 Subsec. (d). Pub. L. 103–160, §826(c)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 103–160, §826(c)(1), (d)(1)(C), redesignated subsec. (d) as (e) and inserted heading.
 
-<b>1990</b>—Subsecs. (d), (e). Pub. L. 101–510 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Secretary of Defense shall notify the Congress within 10 days of the date on which any waiver is made under this section and of the reasons for the necessity of exercising such waiver.”
+<b>1990</b>—Subsecs. (d), (e). Pub. L. 101–510 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "The Secretary of Defense shall notify the Congress within 10 days of the date on which any waiver is made under this section and of the reasons for the necessity of exercising such waiver."
 
-<b>1987</b>—Subsec. (e). Pub. L. 100–26 inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (e). Pub. L. 100–26 inserted "the term" after "In this section,".
 

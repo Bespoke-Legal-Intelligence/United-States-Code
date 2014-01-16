@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) Minority depository institution
 
-&emsp;The term “minority institution” <sup>1</sup> means a depository institution (as defined in section 1813(c) of this title)—
+&emsp;The term "minority institution" <sup>1</sup> means a depository institution (as defined in section 1813(c) of this title)—
 
 &emsp;&emsp;(A) more than 50 percent of the ownership or control of which is held by 1 or more minority individuals; and
 
@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (2) Women's depository institution
 
-&emsp;The term “women's depository institution” means a depository institution (as defined in section 1813(c) of this title)—
+&emsp;The term "women's depository institution" means a depository institution (as defined in section 1813(c) of this title)—
 
 &emsp;&emsp;(A) more than 50 percent of the ownership or control of which is held by 1 or more women;
 
@@ -28,17 +28,17 @@ For purposes of this section—
 
 #### (3) Minority
 
-&emsp;The term “minority” has the meaning given to such term by section 1204(c)(3) of the Financial Institutions Reform, Recovery and Enforcement Act of 1989.
+&emsp;The term "minority" has the meaning given to such term by section 1204(c)(3) of the Financial Institutions Reform, Recovery and Enforcement Act of 1989.
 
 (Pub. L. 95–128, title VIII, §808, as added Pub. L. 102–233, title IV, §402(b), Dec. 12, 1991, 105 Stat. 1775; amended Pub. L. 102–550, title IX, §909(2), Oct. 28, 1992, 106 Stat. 3874.)
 
 #### References in Text
 
-Section 1204(c)(3) of the Financial Institutions Reform, Recovery and Enforcement Act of 1989, referredto in subsec. (b)(3), is section 1204(c)(3) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
+Section 1204(c)(3) of the Financial Institutions Reform, Recovery and Enforcement Act of 1989, referred to in subsec. (b)(3), is section 1204(c)(3) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–550 substituted “may be a factor in determining whether the depository institution is” for “shall be treated as”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550 substituted "may be a factor in determining whether the depository institution is" for "shall be treated as".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “minority depository institution”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "minority depository institution".</i>
 

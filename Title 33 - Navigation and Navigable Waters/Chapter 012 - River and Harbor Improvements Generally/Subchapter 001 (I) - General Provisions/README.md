@@ -60,7 +60,7 @@
 - [&sect; 00569c - Services of volunteers](%C2%A7%2000569c%20-%20Services%20of%20volunteers.md)
 - [&sect; 00569d - Safety award and promotional materials](%C2%A7%2000569d%20-%20Safety%20award%20and%20promotional%20materials.md)
 - [&sect; 00569e - Use of private sector resources in surveying and mapping](%C2%A7%2000569e%20-%20Use%20of%20private%20sector%20resources%20in%20surveying%20and%20mapping.md)
-- [&sect; 00569f - Debarment of persons convicted of fraudulent use of &#8220;Made in America&#8221; labels](%C2%A7%2000569f%20-%20Debarment%20of%20persons%20convicted%20of%20fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20labels.md)
+- [&sect; 00569f - Debarment of persons convicted of fraudulent use of Made in America labels](%C2%A7%2000569f%20-%20Debarment%20of%20persons%20convicted%20of%20fraudulent%20use%20of%20Made%20in%20America%20labels.md)
 - [&sect; 00570 - Default in contract; disposition of amounts collected](%C2%A7%2000570%20-%20Default%20in%20contract%3B%20disposition%20of%20amounts%20collected.md)
 - [&sect; 00571 - Crediting reimbursements for lost, stolen, or damaged property](%C2%A7%2000571%20-%20Crediting%20reimbursements%20for%20lost%2C%20stolen%2C%20or%20damaged%20property.md)
 - [&sect; 00572 - Collection and removal of drift in Baltimore Harbor](%C2%A7%2000572%20-%20Collection%20and%20removal%20of%20drift%20in%20Baltimore%20Harbor.md)

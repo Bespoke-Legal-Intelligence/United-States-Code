@@ -26,7 +26,7 @@ Exclusion.—Notwithstanding any other provision of this chapter, this chapter d
 
 (c)
 
-Foreign Government or International Organization Contracts.—If an agency head determines that applying this chapter would not be in the public interest, this chapter does notapply to a contract with a foreign government, an agency of a foreign government, an international organization, or a subsidiary body of an international organization.
+Foreign Government or International Organization Contracts.—If an agency head determines that applying this chapter would not be in the public interest, this chapter does not apply to a contract with a foreign government, an agency of a foreign government, an international organization, or a subsidiary body of an international organization.
 
 (d)
 
@@ -54,7 +54,7 @@ Pub. L. 95–563, §§3, 4, Nov. 1, 1978, 92 Stat. 2383.
 
 41:603.
 
-In subsection (c), the words “an agency head” are substituted for “the head of the agency” for consistency with the defined term “agency head” in section 7101 of the revised title.
+In subsection (c), the words "an agency head" are substituted for "the head of the agency" for consistency with the defined term "agency head" in section 7101 of the revised title.
 
-In subsection (d), the words “chapter 309 or 311 of title 46” are substituted for “the Act of March 9, 1920, as amended (41 Stat. 525, as amended; 46 U.S.C. 741–752) or the Act of March 3, 1925, as amended (43 Stat. 1112, as amended; 46 U.S.C. 781–790)” in section 4 of the Contract Disputes Act of 1978 (Public Law 95–563, 92 Stat. 2384) because of section 18(c) of Public Law 109–304 (46 U.S.C. note prec. 101).
+In subsection (d), the words "chapter 309 or 311 of title 46" are substituted for "the Act of March 9, 1920, as amended (41 Stat. 525, as amended; 46 U.S.C. 741–752) or the Act of March 3, 1925, as amended (43 Stat. 1112, as amended; 46 U.S.C. 781–790)" in section 4 of the Contract Disputes Act of 1978 (Public Law 95–563, 92 Stat. 2384) because of section 18(c) of Public Law 109–304 (46 U.S.C. note prec. 101).
 

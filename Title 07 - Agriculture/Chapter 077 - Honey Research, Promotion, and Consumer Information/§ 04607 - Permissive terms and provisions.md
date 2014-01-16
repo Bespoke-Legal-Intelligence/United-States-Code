@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-On the recommendation of the Honey Board, and with the approval of the Secretary, an orderissued pursuant to this chapter may contain one or more of the following provisions:
+On the recommendation of the Honey Board, and with the approval of the Secretary, an order issued pursuant to this chapter may contain one or more of the following provisions:
 
 &emsp;(1) Providing authority to exempt from the provisions of the order honey used for exporting and providing authority for the Honey Board to require satisfactory safeguards against improper use of such exemption.
 
@@ -62,7 +62,7 @@ On the recommendation of the Honey Board, and with the approval of the Secretary
 
 #### (d) Authority of Secretary
 
-Notwithstanding any other provision of this chapter, the Secretary shall have the authority to approve or disapprove the establishment of minimum purity standards, the inspection and monitoring system under subsection (b) of this section, and the voluntary quality assurance program under subsection (c) of this section.
+Notwithstanding any other provision of this chapter, the Secretary shall have the authorityto approve or disapprove the establishment of minimum purity standards, the inspection and monitoring system under subsection (b) of this section, and the voluntary quality assurance program under subsection (c) of this section.
 
 (Pub. L. 98–590, §8, Oct. 30, 1984, 98 Stat. 3119; Pub. L. 105–185, title VI, §605(g), June 23, 1998, 112 Stat. 596.)
 

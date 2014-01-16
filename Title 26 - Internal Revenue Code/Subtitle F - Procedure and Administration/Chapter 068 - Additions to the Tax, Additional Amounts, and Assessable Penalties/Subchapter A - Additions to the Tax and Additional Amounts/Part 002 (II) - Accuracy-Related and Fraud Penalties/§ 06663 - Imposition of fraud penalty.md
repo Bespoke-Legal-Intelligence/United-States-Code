@@ -10,7 +10,7 @@ If the Secretary establishes that any portion of an underpayment is attributable
 
 #### (c) Special rule for joint returns
 
-In the case of a joint return, this section shall not apply with respect to a spouse unless somepart of the underpayment is due to the fraud of such spouse.
+In the case of a joint return, this section shall not apply with respect to a spouse unless some part of the underpayment is due to the fraud of such spouse.
 
 (Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2397.)
 

@@ -66,7 +66,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) Confidentiality
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act (5 U.S.C. 552a),<sup>1</sup> or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c) of this section.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act (5 U.S.C. 552a),<sup>1</sup> or otherwise, unless anduntil presented in connection with a public proceeding or released in accordance with subsection (c) of this section.
 
 #### (B) Availability to Government agencies
 
@@ -178,7 +178,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 &emsp;&emsp;No current or former supervisory person of a registered public accounting firm shall be deemed to have failed reasonably to supervise any associated person for purposes of subparagraph (A), if—
 
-&emsp;&emsp;&emsp;(i) there have been established in and for that firm procedures, and a system for applying such procedures, that comply with applicable rules of the Board and thatwould reasonably be expected to prevent and detect any such violation by such associated person; and
+&emsp;&emsp;&emsp;(i) there have been established in and for that firm procedures, and a system for applying such procedures, that comply with applicable rules of the Board and that would reasonably be expected to prevent and detect any such violation by such associated person; and
 
 &emsp;&emsp;&emsp;(ii) such person has reasonably discharged the duties and obligations incumbent upon that person by reason of such procedures and system, and had no reasonable cause to believe that such procedures and system were not being complied with.
 
@@ -230,25 +230,25 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 This Act, referred to in subsecs. (b)(1), (5)(B)(ii), (C)(i), (6) and (c)(3)(B), (4), (6)(A), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
-The Freedom of Information Act, referred to in subsec. (b)(5)(A), is section 552 of Title 5, Government Organization and Employees. Section 552a of Title 5 is commonly known as the “Privacy Act”.
+The Freedom of Information Act, referred to in subsec. (b)(5)(A), is section 552 of Title 5, Government Organization and Employees. Section 552a of Title 5 is commonly known as the "Privacy Act".
 
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(4)(B)(ii) to (iv). Pub. L. 111–203, §982(i), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
-Subsec. (b)(5)(A). Pub. L. 111–203, §981(c), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
+Subsec. (b)(5)(A). Pub. L. 111–203, §981(c), substituted "subparagraphs (B) and (C)" for "subparagraph (B)".
 
 Subsec. (b)(5)(B)(ii)(V). Pub. L. 111–203, §982(j), added subcl. (V).
 
 Subsec. (b)(5)(C). Pub. L. 111–203, §981(b), added subpar. (C).
 
-Subsec. (c)(6)(A). Pub. L. 111–203, §929F(h)(1), substituted “any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person” for “the supervisory personnel” in introductory provisions.
+Subsec. (c)(6)(A). Pub. L. 111–203, §929F(h)(1), substituted "any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person" for "the supervisory personnel" in introductory provisions.
 
-Subsec. (c)(6)(B). Pub. L. 111–203, §929F(h)(2), in introductory provisions, substituted “No current or former supervisory person” for “No associated person” and “any associated person” for “any other person”.
+Subsec. (c)(6)(B). Pub. L. 111–203, §929F(h)(2), in introductory provisions, substituted "No current or former supervisory person" for "No associated person" and "any associated person" for "any other person".
 
-Subsec. (c)(7)(B). Pub. L. 111–203, §982(f), in heading, inserted “, broker, or dealer” after “issuer” and, in text, substituted “a registered public accounting firm under this subsection” for “an issuer under this subsection” and “any issuer, broker, or dealer” for “any issuer” in two places.
+Subsec. (c)(7)(B). Pub. L. 111–203, §982(f), in heading, inserted ", broker, or dealer" after "issuer" and, in text, substituted "a registered public accounting firm under this subsection" for "an issuer under this subsection" and "any issuer, broker, or dealer" for "any issuer" in two places.
 
-<b>2008</b>—Subsec. (b)(5)(B)(ii)(II). Pub. L. 110–289 inserted “and the Director of the Federal Housing Finance Agency,” after “Commission,”.
+<b>2008</b>—Subsec. (b)(5)(B)(ii)(II). Pub. L. 110–289 inserted "and the Director of the Federal Housing Finance Agency," after "Commission,".
 
 #### Effective Date of 2010 Amendment
 

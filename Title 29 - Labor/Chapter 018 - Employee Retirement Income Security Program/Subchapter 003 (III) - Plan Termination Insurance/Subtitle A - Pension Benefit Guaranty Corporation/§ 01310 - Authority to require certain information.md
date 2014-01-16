@@ -12,7 +12,7 @@ Each person described in subsection (b) of this section shall provide the corpor
 
 The persons covered by subsection (a) of this section are each contributing sponsor, and each member of a contributing sponsor's controlled group, of a single-employer plan covered by this subchapter, if—
 
-&emsp;(1) the funding target attainment percentage (as defined in subsection (d)) at the end of the preceding plan year of a plan maintained by the contributing sponsor or any member of its controlled group is less than 80 percent;
+&emsp;(1) the funding target attainment percentage (as defined in subsection (d)) at the end of thepreceding plan year of a plan maintained by the contributing sponsor or any member of its controlled group is less than 80 percent;
 
 &emsp;(2) the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
 
@@ -40,15 +40,15 @@ Any information or documentary material submitted to the corporation pursuant to
 
 #### (A) Funding target
 
-&emsp;&emsp;The term “funding target” has the meaning provided under section 1083(d)(1) of this title.
+&emsp;&emsp;The term "funding target" has the meaning provided under section 1083(d)(1) of this title.
 
 #### (B) Funding target attainment percentage
 
-&emsp;&emsp;The term “funding target attainment percentage” has the meaning provided under section 1083(d)(2) of this title.
+&emsp;&emsp;The term "funding target attainment percentage" has the meaning provided under section 1083(d)(2) of this title.
 
 #### (C) At-risk status
 
-&emsp;&emsp;The term “at-risk status” has the meaning provided in section 1083(i)(4) of this title.
+&emsp;&emsp;The term "at-risk status" has the meaning provided in section 1083(i)(4) of this title.
 
 #### (3) Pension stabilization disregarded
 
@@ -64,11 +64,11 @@ The corporation shall, on an annual basis, submit to the Committee on Health, Ed
 
 <b>2012</b>—Subsec. (d)(3). Pub. L. 112–141 added par. (3).
 
-<b>2008</b>—Subsec. (d)(2)(B). Pub. L. 110–458 substituted “section 1083(d)(2)” for “section 1082(d)(2)”.
+<b>2008</b>—Subsec. (d)(2)(B). Pub. L. 110–458 substituted "section 1083(d)(2)" for "section 1082(d)(2)".
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–280, §505(a), added par. (1) and struck out former par. (1) which read as follows: “the aggregate unfunded vested benefits at the end of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of plans maintained by the contributing sponsor and the members of its controlled group exceed $50,000,000 (disregarding plans with no unfunded vested benefits);”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–280, §505(a), added par. (1) and struck out former par. (1) which read as follows: "the aggregate unfunded vested benefits at the end of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of plans maintained by the contributing sponsor and the members of its controlled group exceed $50,000,000 (disregarding plans with no unfunded vested benefits);".
 
-Subsec. (b)(2). Pub. L. 109–280, §108(b)(3), formerly §107(b)(3), as renumbered by Pub. L. 111–192, substituted “1083(k)(1)(A) and (B)” for “1082(f)(1)(A) and (B)” and “430(k)(1)(A) and (B)” for “412(n)(1)(A) and (B)”.
+Subsec. (b)(2). Pub. L. 109–280, §108(b)(3), formerly §107(b)(3), as renumbered by Pub. L. 111–192, substituted "1083(k)(1)(A) and (B)" for "1082(f)(1)(A) and (B)" and "430(k)(1)(A) and (B)" for "412(n)(1)(A) and (B)".
 
 Subsecs. (d), (e). Pub. L. 109–280, §505(b), added subsecs. (d) and (e).
 
@@ -84,11 +84,11 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 Amendment by section 108(b)(3) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
-Pub. L. 109–280, title V, §505(c), Aug. 17, 2006, 120 Stat. 946, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to years beginning after 2007.”
+Pub. L. 109–280, title V, §505(c), Aug. 17, 2006, 120 Stat. 946, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to years beginning after 2007."
 
 #### Effective Date
 
-Pub. L. 103–465, title VII, §772(c), Dec. 8, 1994, 108 Stat. 5044, provided that: “The amendments made by this section \[enacting this section\] shall be effective on the date of enactment of this Act \[Dec. 8, 1994\].”
+Pub. L. 103–465, title VII, §772(c), Dec. 8, 1994, 108 Stat. 5044, provided that: "The amendments made by this section \[enacting this section\] shall be effective on the date of enactment of this Act \[Dec. 8, 1994\]."
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 

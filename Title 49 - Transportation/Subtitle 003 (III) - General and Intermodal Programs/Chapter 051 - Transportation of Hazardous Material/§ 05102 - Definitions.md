@@ -2,7 +2,7 @@
 
 In this chapter—
 
-&emsp;(1) “commerce” means trade or transportation in the jurisdiction of the United States—
+&emsp;(1) "commerce" means trade or transportation in the jurisdiction of the United States—
 
 &emsp;&emsp;(A) between a place in a State and a place outside of the State;
 
@@ -10,9 +10,9 @@ In this chapter—
 
 &emsp;&emsp;(C) on a United States-registered aircraft.
 
-&emsp;(2) “hazardous material” means a substance or material the Secretary designates under section 5103(a) of this title.
+&emsp;(2) "hazardous material" means a substance or material the Secretary designates under section 5103(a) of this title.
 
-&emsp;(3) “hazmat employee”—
+&emsp;(3) "hazmat employee"—
 
 &emsp;&emsp;(A) means an individual—
 
@@ -36,7 +36,7 @@ In this chapter—
 
 &emsp;&emsp;&emsp;(v) operates a vehicle used to transport hazardous material.
 
-&emsp;(4) “hazmat employer”—
+&emsp;(4) "hazmat employer"—
 
 &emsp;&emsp;(A) means a person—
 
@@ -56,19 +56,19 @@ In this chapter—
 
 &emsp;&emsp;(B) includes a department, agency, or instrumentality of the United States Government, or an authority of a State, political subdivision of a State, or Indian tribe, carrying out an activity described in clause (ii).
 
-&emsp;(5) “imminent hazard” means the existence of a condition relating to hazardous material that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of a formal proceeding begun to lessen the risk of that death, illness, injury, or endangerment.
+&emsp;(5) "imminent hazard" means the existence of a condition relating to hazardous material that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of a formal proceeding begun to lessen the risk of that death, illness, injury, or endangerment.
 
-&emsp;(6) “Indian tribe” has the same meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+&emsp;(6) "Indian tribe" has the same meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
-&emsp;(7) “motor carrier”—
+&emsp;(7) "motor carrier"—
 
 &emsp;&emsp;(A) means a motor carrier, motor private carrier, and freight forwarder as those terms are defined in section 13102; but
 
 &emsp;&emsp;(B) does not include a freight forwarder, as so defined, if the freight forwarder is not performing a function relating to highway transportation.
 
-&emsp;(8) “National Response Team” means the National Response Team established under the National Contingency Plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9605).
+&emsp;(8) "National Response Team" means the National Response Team established under the National Contingency Plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9605).
 
-&emsp;(9) “person”, in addition to its meaning under section 1 of title 1—
+&emsp;(9) "person", in addition to its meaning under section 1 of title 1—
 
 &emsp;&emsp;(A) includes a government, Indian tribe, or authority of a government or tribe that—
 
@@ -84,7 +84,7 @@ In this chapter—
 
 &emsp;&emsp;&emsp;(ii) in sections 5123 and 5124 of this title, a department, agency, or instrumentality of the Government.
 
-&emsp;(10) “public sector employee”—
+&emsp;(10) "public sector employee"—
 
 &emsp;&emsp;(A) means an individual employed by a State, political subdivision of a State, or Indian tribe and who during the course of employment has responsibilities related to responding to an accident or incident involving the transportation of hazardous material;
 
@@ -92,17 +92,17 @@ In this chapter—
 
 &emsp;&emsp;(C) includes an individual who volunteers to serve as a firefighter for a State, political subdivision of a State, or Indian tribe.
 
-&emsp;(11) “Secretary” means the Secretary of Transportation except as otherwise provided.
+&emsp;(11) "Secretary" means the Secretary of Transportation except as otherwise provided.
 
-&emsp;(12) “State” means—
+&emsp;(12) "State" means—
 
 &emsp;&emsp;(A) except in section 5119 of this title, a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, the Virgin Islands, American Samoa, Guam, and any other territory or possession of the United States designated by the Secretary; and
 
 &emsp;&emsp;(B) in section 5119 of this title, a State of the United States and the District of Columbia.
 
-&emsp;(13) “transports” or “transportation” means the movement of property and loading, unloading, or storage incidental to the movement.
+&emsp;(13) "transports" or "transportation" means the movement of property and loading, unloading, or storage incidental to the movement.
 
-&emsp;(14) “United States” means all of the States.
+&emsp;(14) "United States" means all of the States.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 759; Pub. L. 103–311, title I, §117(a)(1), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 104–88, title III, §308(d), Dec. 29, 1995, 109 Stat. 947; Pub. L. 109–59, title VII, §§7102, 7126, Aug. 10, 2005, 119 Stat. 1892, 1909; Pub. L. 110–244, title III, §302(a), June 6, 2008, 122 Stat. 1618.)
 
@@ -170,17 +170,17 @@ Jan. 3, 1975, Pub. L. 93–633, §103, 88 Stat. 2156; restated Nov. 16, 1990, Pu
 
 49 App.:1802(16).
 
-In this chapter, the words “or shipped” are omitted as being included in “transported”.
+In this chapter, the words "or shipped" are omitted as being included in "transported".
 
-In clause (1), before subclause (A), the text of 49 App.:1802(1), (3), and (13) is omitted because the complete names of the Administrator of the Environmental Protection Agency, Director of the Federal Emergency Management Agency, and Secretary of Transportation are used the first time the terms appear in a section.The words “traffic, commerce” are omitted as surplus. In subclause (B), the words “between a place in a State and a place outside of the State” are substituted for “described in clause (A)” for clarity.
+In clause (1), before subclause (A), the text of 49 App.:1802(1), (3), and (13) is omitted because the complete names of the Administrator of the Environmental Protection Agency, Director of the Federal Emergency Management Agency, and Secretary of Transportation are used the first time the terms appear in a section.The words "traffic, commerce" are omitted as surplus. In subclause (B), the words "between a place in a State and a place outside of the State" are substituted for "described in clause (A)" for clarity.
 
-In clauses (3)(C) and (10)(B), the words “at a minimum” are omitted as surplus.
+In clauses (3)(C) and (10)(B), the words "at a minimum" are omitted as surplus.
 
-In clause (5), the words “administrative hearing or other” are omitted as surplus.
+In clause (5), the words "administrative hearing or other" are omitted as surplus.
 
-In clause (9), before subclause (A), the words “including any trustee, receiver, assignee, or similar representative thereof” are omitted as surplus.
+In clause (9), before subclause (A), the words "including any trustee, receiver, assignee, or similar representative thereof" are omitted as surplus.
 
-In clause (12), the words “by any mode” are omitted as surplus.
+In clause (12), the words "by any mode" are omitted as surplus.
 
 #### Amendments
 
@@ -188,35 +188,35 @@ In clause (12), the words “by any mode” are omitted as surplus.
 
 <b>2005</b>—Par. (1)(C). Pub. L. 109–59, §7102(1), added subpar. (C).
 
-Par. (2). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
+Par. (2). Pub. L. 109–59, §7126, substituted "Secretary" for "Secretary of Transportation".
 
-Par. (3)(A)(i). Pub. L. 109–59, §7102(2)(A), as amended by Pub. L. 110–244, §302(a)(1), (2), added cl. (i) and struck out former cl. (i) which read as follows: “employed by a hazmat employer; and”.
+Par. (3)(A)(i). Pub. L. 109–59, §7102(2)(A), as amended by Pub. L. 110–244, §302(a)(1), (2), added cl. (i) and struck out former cl. (i) which read as follows: "employed by a hazmat employer; and".
 
-Par. (3)(A)(ii). Pub. L. 109–59, §7102(2)(B), as amended by Pub. L. 110–244, §302(a)(1), (3), substituted “course of such full time, part time, or temporary employment, or such self employment,” for “course of employment” and inserted “and” at end.
+Par. (3)(A)(ii). Pub. L. 109–59, §7102(2)(B), as amended by Pub. L. 110–244, §302(a)(1), (3), substituted "course of such full time, part time, or temporary employment, or such self employment," for "course of employment" and inserted "and" at end.
 
-Par. (3)(B). Pub. L. 109–59, §7102(2)(D)(i), as amended by Pub. L. 110–244, §302(a)(1), substituted “employed on a full time, part time, or temporary basis by a hazmat employer, or self employed,” for “employed by a hazmat employer,” in introductory provisions.
+Par. (3)(B). Pub. L. 109–59, §7102(2)(D)(i), as amended by Pub. L. 110–244, §302(a)(1), substituted "employed on a full time, part time, or temporary basis by a hazmat employer, or self employed," for "employed by a hazmat employer," in introductory provisions.
 
-Pub. L. 109–59, §7102(2)(C), as amended by Pub. L. 110–244, §302(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “includes an owner-operator of a motor vehicle transporting hazardous material in commerce; and”.
+Pub. L. 109–59, §7102(2)(C), as amended by Pub. L. 110–244, §302(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "includes an owner-operator of a motor vehicle transporting hazardous material in commerce; and".
 
-Par. (3)(B)(ii). Pub. L. 109–59, §7102(2)(D)(ii), as amended by Pub. L. 110–244, §302(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “manufactures, reconditions, or tests containers, drums, and packagings represented as qualified for use in transporting hazardous material;”.
+Par. (3)(B)(ii). Pub. L. 109–59, §7102(2)(D)(ii), as amended by Pub. L. 110–244, §302(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: "manufactures, reconditions, or tests containers, drums, and packagings represented as qualified for use in transporting hazardous material;".
 
 Par. (3)(C). Pub. L. 109–59, §7102(2)(C), as amended by Pub. L. 110–244, §302(a)(1), redesignated subpar. (C) as (B).
 
-Par. (4). Pub. L. 109–59, §7102(3), amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) to (C), which included within definition of “hazmat employer” a person using at least one employee in connection with transporting or containers for transporting hazardous material, an owner-operator of a motor vehicle transporting hazardous material in commerce, and a department, agency, or instrumentality of the United States Government, or an authority of a State, political subdivision of a State, or Indian tribe, carrying out certain described activities.
+Par. (4). Pub. L. 109–59, §7102(3), amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) to (C), which included within definition of "hazmat employer" a person using at least one employee in connection with transporting or containers for transporting hazardous material, an owner-operator of a motor vehicle transporting hazardous material in commerce, and a department, agency, or instrumentality of the United States Government, or an authority of a State, political subdivision of a State, or Indian tribe, carrying out certain described activities.
 
-Par. (5). Pub. L. 109–59, §7102(4), inserted “relating to hazardous material” after “of a condition”.
+Par. (5). Pub. L. 109–59, §7102(4), inserted "relating to hazardous material" after "of a condition".
 
-Par. (7). Pub. L. 109–59, §7102(5), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘motor carrier’ means a motor carrier, motor private carrier, and freight forwarder as those terms are defined in section 13102 of this title.”
+Par. (7). Pub. L. 109–59, §7102(5), amended par. (7) generally. Prior to amendment, par. (7) read as follows: " 'motor carrier' means a motor carrier, motor private carrier, and freight forwarder as those terms are defined in section 13102 of this title."
 
-Par. (8). Pub. L. 109–59, §7102(6), substituted “National Response Team” for “national response team” in two places and “National Contingency Plan” for “national contingency plan”.
+Par. (8). Pub. L. 109–59, §7102(6), substituted "National Response Team" for "national response team" in two places and "National Contingency Plan" for "national contingency plan".
 
-Par. (9)(A). Pub. L. 109–59, §7102(7), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “includes a government, Indian tribe, or authority of a government or tribe offering hazardous material for transportation in commerce or transporting hazardous material to further a commercial enterprise; but”.
+Par. (9)(A). Pub. L. 109–59, §7102(7), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "includes a government, Indian tribe, or authority of a government or tribe offering hazardous material for transportation in commerce or transporting hazardous material to further a commercial enterprise; but".
 
 Pars. (11) to (14). Pub. L. 109–59, §7102(8), added par. (11) and redesignated former pars. (11) to (13) as (12) to (14), respectively.
 
-<b>1995</b>—Par. (7). Pub. L. 104–88 substituted “motor carrier, motor private” for “motor common carrier, motor contract carrier, motor private” and “section 13102” for “section 10102”.
+<b>1995</b>—Par. (7). Pub. L. 104–88 substituted "motor carrier, motor private" for "motor common carrier, motor contract carrier, motor private" and "section 13102" for "section 10102".
 
-<b>1994</b>—Pars. (3)(C)(ii), (4)(A)(iii). Pub. L. 103–311 substituted “packagings” for “packages”.
+<b>1994</b>—Pars. (3)(C)(ii), (4)(A)(iii). Pub. L. 103–311 substituted "packagings" for "packages".
 
 #### Effective Date of 2008 Amendment
 

@@ -11,7 +11,7 @@
 | [5687\.](%C2%A7%2005687%20-%20Penalty%20for%20offenses%20not%20specifically%20covered.md) | Penalty for offenses not specifically covered. |
 | [5688\.](%C2%A7%2005688%20-%20Disposition%20and%20release%20of%20seized%20property.md) | Disposition and release of seized property. |
 | \[5689. | Repealed.\] |
-| [5690\.](%C2%A7%2005690%20-%20Definition%20of%20the%20term%20%E2%80%9Cperson%E2%80%9D.md) | Definition of the term “person”. |
+| [5690\.](%C2%A7%2005690%20-%20Definition%20of%20the%20term%20person.md) | Definition of the term "person". |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -21,7 +21,7 @@ A prior part IV consisted of sections 5681 to 5690 of this title, prior to the g
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455, title XIX, §1905(b)(2)(E)(ii), Oct. 4, 1976, 90 Stat. 1822, struck out item 5689 “Penalty and forfeiture for tampering with a stamp machine”.
+<b>1976</b>—Pub. L. 94–455, title XIX, §1905(b)(2)(E)(ii), Oct. 4, 1976, 90 Stat. 1822, struck out item 5689 "Penalty and forfeiture for tampering with a stamp machine".
 
 
 ---
@@ -37,4 +37,4 @@ A prior part IV consisted of sections 5681 to 5690 of this title, prior to the g
 - [&sect; 05687 - Penalty for offenses not specifically covered](%C2%A7%2005687%20-%20Penalty%20for%20offenses%20not%20specifically%20covered.md)
 - [&sect; 05688 - Disposition and release of seized property](%C2%A7%2005688%20-%20Disposition%20and%20release%20of%20seized%20property.md)
 - [&sect; 05689 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1905(b)(2)(E)(i), Oct. 4, 1976, 90 Stat. 1822](%C2%A7%2005689%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71905%28b%29%282%29%28E%29%28i%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201822.md)
-- [&sect; 05690 - Definition of the term &#8220;person&#8221;](%C2%A7%2005690%20-%20Definition%20of%20the%20term%20%E2%80%9Cperson%E2%80%9D.md)
+- [&sect; 05690 - Definition of the term person](%C2%A7%2005690%20-%20Definition%20of%20the%20term%20person.md)

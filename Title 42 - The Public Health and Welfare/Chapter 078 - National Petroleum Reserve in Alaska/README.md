@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [6501\.](%C2%A7%2006501%20-%20%E2%80%9CPetroleum%E2%80%9D%20defined.md) | “Petroleum” defined. |
+| [6501\.](%C2%A7%2006501%20-%20Petroleum%20defined.md) | "Petroleum" defined. |
 | [6502\.](%C2%A7%2006502%20-%20Designation%20of%20National%20Petroleum%20Reserve%20in%20Alaska%3B%20reservation%20of%20lands%3B%20disposition%20and%20conveyance%20of%20mineral%20materials%2C%20lands%2C%20etc%E2%80%A6.md) | Designation of National Petroleum Reserve in Alaska; reservation of lands; disposition and conveyance of mineral materials, lands, etc., preexisting property rights. |
 | [6503\.](%C2%A7%2006503%20-%20Transfer%20of%20jurisdiction%2C%20duties%2C%20property%2C%20etc.%2C%20to%20Secretary%20of%20the%20Interior%20from%20Secretary%20of%20Navy.md) | Transfer of jurisdiction, duties, property, etc., to Secretary of the Interior from Secretary of Navy. |
 | [6504\.](%C2%A7%2006504%20-%20Administration%20of%20reserve.md) | Administration of reserve. |
@@ -19,7 +19,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 06501 - &#8220;Petroleum&#8221; defined](%C2%A7%2006501%20-%20%E2%80%9CPetroleum%E2%80%9D%20defined.md)
+- [&sect; 06501 - Petroleum defined](%C2%A7%2006501%20-%20Petroleum%20defined.md)
 - [&sect; 06502 - Designation of National Petroleum Reserve in Alaska; reservation of lands; disposition and conveyance of mineral materials, lands, etc&#8230;](%C2%A7%2006502%20-%20Designation%20of%20National%20Petroleum%20Reserve%20in%20Alaska%3B%20reservation%20of%20lands%3B%20disposition%20and%20conveyance%20of%20mineral%20materials%2C%20lands%2C%20etc%E2%80%A6.md)
 - [&sect; 06503 - Transfer of jurisdiction, duties, property, etc., to Secretary of the Interior from Secretary of Navy](%C2%A7%2006503%20-%20Transfer%20of%20jurisdiction%2C%20duties%2C%20property%2C%20etc.%2C%20to%20Secretary%20of%20the%20Interior%20from%20Secretary%20of%20Navy.md)
 - [&sect; 06504 - Administration of reserve](%C2%A7%2006504%20-%20Administration%20of%20reserve.md)

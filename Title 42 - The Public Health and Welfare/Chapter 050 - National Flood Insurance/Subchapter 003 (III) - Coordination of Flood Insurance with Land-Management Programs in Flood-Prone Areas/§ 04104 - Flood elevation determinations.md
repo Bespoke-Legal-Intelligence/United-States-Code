@@ -10,7 +10,7 @@ The Administrator shall publish notification of flood elevation determinations a
 
 #### (c) Appeals by private persons; submission of negativing or contradicting data to community; opinion of community respecting justification for appeal by community; transmission of individual appeals to Administrator; filing of community action with Administrator
 
-Appeals by private persons shall be made to the chief executive officer of the community, or to such agency as he shall publicly designate, and shall set forth the data that tend to negate or contradict the Administrator's finding in such form as the chief executive officer may specify. The community shall review and consolidate all such appeals and issue a written opinion stating whether the evidence presented is sufficient to justify an appeal on behalf of such persons by the community in its own name. Whether or not the community decides to appeal the Administrator's determination, copies of individual appeals shall be sent to the Administrator as they are received by the community, and the community's appeal or a copy of its decision not to appeal shall be filed with the Administrator not later than ninety days after the date of the second newspaper publication of the Administrator's notification.
+Appeals by private persons shall be made to the chief executive officer of the community, or to such agency as he shall publicly designate,and shall set forth the data that tend to negate or contradict the Administrator's finding in such form as the chief executive officer may specify. The community shall review and consolidate all such appeals and issue a written opinion stating whether the evidence presented is sufficient to justify an appeal on behalf of such persons by the community in its own name. Whether or not the community decides to appeal the Administrator's determination, copies of individual appeals shall be sent to the Administrator as they are received by the community, and the community's appeal or a copy of its decision not to appeal shall be filed with the Administrator not later than ninety days after the date of the second newspaper publication of the Administrator's notification.
 
 #### (d) Administrative review of appeals by private persons; modification of proposed determinations; decision of Administrator: form and distribution
 
@@ -32,31 +32,31 @@ Except as provided in section 4104–1 of this title, any appellant aggrieved by
 
 #### References in Text
 
-This chapter, referred to in subsec. (g), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (g), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director".
 
-Pub. L. 112–141, §100217(1), inserted “and designating areas having special flood hazards” after “flood elevations” and substituted “such determinations and designations” for “such determinations”.
+Pub. L. 112–141, §100217(1), inserted "and designating areas having special flood hazards" after "flood elevations" and substituted "such determinations and designations" for "such determinations".
 
-Subsec. (b). Pub. L. 112–141, §100238(b)(1), (2), substituted “Administrator” for “Director” in first sentence and “Administrator's” for “Director's” in second sentence.
+Subsec. (b). Pub. L. 112–141, §100238(b)(1), (2), substituted "Administrator" for "Director" in first sentence and "Administrator's" for "Director's" in second sentence.
 
-Pub. L. 112–141, §100217(2), inserted “and designations of areas having special flood hazards” after “flood elevation determinations” and substituted “The sole grounds for appeal shall be the possession of knowledge or information indicating that (1) the elevations being proposed by the Administrator with respect to an identified area having special flood hazards are scientifically or technically incorrect, or (2) the designation of an identified special flood hazard area is scientifically or technically incorrect.” for “The sole basis for such appeal shall be the possession of knowledge or information indicating that the elevations being proposed by the Director with respect to an identified area having special flood hazards are scientifically or technically incorrect, and the sole relief which shall be granted under the authority of this section in the event that such appeal is sustained in accordance with subsection (e) or (f) of this section is a modification of the Director's proposed determination accordingly.”
+Pub. L. 112–141, §100217(2), inserted "and designations of areas having special flood hazards" after "flood elevation determinations" and substituted "The sole grounds for appeal shall be the possession of knowledge or information indicating that (1) the elevations being proposed by the Administrator with respect to an identified area having special flood hazards are scientifically or technically incorrect, or (2) the designation of an identified special flood hazard area is scientifically or technically incorrect." for "The sole basis for such appeal shall be the possession of knowledge or information indicating that the elevations being proposed by the Director with respect to an identified area having special flood hazards are scientifically or technically incorrect, and the sole relief which shall be granted under the authority of this section in the event that such appeal is sustained in accordance with subsection (e) or (f) of this section is a modification of the Director's proposed determination accordingly."
 
-Subsecs. (c), (d). Pub. L. 112–141, §100238(b)(1), (2), substituted “Administrator” for “Director” and “Administrator's” for “Director's” wherever appearing.
+Subsecs. (c), (d). Pub. L. 112–141, §100238(b)(1), (2), substituted "Administrator" for "Director" and "Administrator's" for "Director's" wherever appearing.
 
-Subsec. (e). Pub. L. 112–141, §100238(b)(1), (2), substituted “Administrator” for “Director” wherever appearing and “Administrator's” for “Director's” in two places.
+Subsec. (e). Pub. L. 112–141, §100238(b)(1), (2), substituted "Administrator" for "Director" wherever appearing and "Administrator's" for "Director's" in two places.
 
-Pub. L. 112–141, §100218(b)(1), substituted “the Scientific Resolution Panel provided for in section 4104–1 of this title” for “an independent scientific body or appropriate Federal agency for advice”.
+Pub. L. 112–141, §100218(b)(1), substituted "the Scientific Resolution Panel provided for in section 4104–1 of this title" for "an independent scientific body or appropriate Federal agency for advice".
 
-Subsec. (f). Pub. L. 112–141, §100246, added subpar. (f) and struck out former subpar. (f) which read as follows: “When, incident to any appeal under subsection (b) or (c) of this section, the owner or lessee of real property or the community, as the case may be, incurs expense in connection with the services of surveyors, engineers, or similar services, but not including legal services, in the effecting of an appeal which is successful in whole or part, the Director shall reimburse such individual or community to an extent measured by the ratio of the successful portion of the appeal as compared to the entire appeal and applying such ratio to the reasonable value of all such services, but no reimbursement shall be made by the Director in respect to any fee or expense payment, the payment of which was agreed to be contingent upon the result of the appeal. There is authorized to be appropriated for purposes of implementing this subsection, not to exceed $250,000.”
+Subsec. (f). Pub. L. 112–141, §100246, added subpar. (f) and struck out former subpar. (f) which read as follows: "When, incident to any appeal under subsection (b) or (c) of this section, the owner or lessee of real property or the community, as the case may be, incurs expense in connection with the services of surveyors, engineers, or similar services, but not including legal services, in the effecting of an appeal which is successful in whole or part, the Director shall reimburse such individual or community to an extent measured by the ratio of the successful portion of the appeal as compared to the entire appeal and applying such ratio to the reasonable value of all such services, but no reimbursement shall be made by the Director in respect to any fee or expense payment, the payment of which was agreed to be contingent upon the result of the appeal. There is authorized to be appropriated for purposes of implementing this subsection, not to exceed $250,000."
 
-Subsec. (g). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in two places.
+Subsec. (g). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in two places.
 
-Pub. L. 112–141, §100218(b)(2), substituted “Except as provided in section 4104–1 of this title, any appellant” for “Any appellant”.
+Pub. L. 112–141, §100218(b)(2), substituted "Except as provided in section 4104–1 of this title, any appellant" for "Any appellant".
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” and “Director's” for “Secretary's” wherever appearing.
+<b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" and "Director's" for "Secretary's" wherever appearing.
 
 <b>1977</b>—Subsecs. (f), (g). Pub. L. 95–128 added subsec. (f) and redesignated former subsec. (f) as (g).
 

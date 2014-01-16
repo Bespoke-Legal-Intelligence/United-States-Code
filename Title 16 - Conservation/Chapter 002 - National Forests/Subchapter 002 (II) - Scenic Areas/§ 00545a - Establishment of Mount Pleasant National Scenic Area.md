@@ -4,11 +4,11 @@
 
 #### (1) Establishment
 
-&emsp;There is hereby established in the George Washington National Forest, Virginia, the Mount Pleasant National Scenic Area (in this section referred to as the “scenic area”).
+&emsp;There is hereby established in the George Washington National Forest, Virginia, the Mount Pleasant National Scenic Area (in this section referred to as the "scenic area").
 
 #### (2) Lands included in scenic area
 
-&emsp;The scenic area shall consist of certain lands in the George Washington National Forest, Virginia, which comprise approximately seven thousand five hundred and eighty acres, as generally depicted on a map entitled “Mount Pleasant National Scenic Area—Proposed”, dated June 21, 1993.
+&emsp;The scenic area shall consist of certain lands in the George Washington National Forest, Virginia, which comprise approximately seven thousand five hundred and eighty acres, as generally depicted on a map entitled "Mount Pleasant National Scenic Area—Proposed", dated June 21, 1993.
 
 #### (3) Maps and descriptions
 
@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture (in this section referred to as the “Secretary”) shall administer the scenic area in accordance with sections 545 and 545a of this title and the laws and regulations generally applicable to the National Forest System. In the event of conflict between sections 545 and 545a of this title and other laws and regulations, sections 545 and 545a of this title shall take precedence.
+&emsp;The Secretary of Agriculture (in this section referred to as the "Secretary") shall administer the scenic area in accordance with sections 545 and 545a of this title and the laws and regulations generally applicable to the National Forest System. In the event of conflict between sections 545 and 545a of this title and other laws and regulations, sections 545 and 545a of this title shall take precedence.
 
 #### (2) Management plan
 
@@ -62,11 +62,9 @@ Subject to valid existing rights, all federally owned lands in the scenic area a
 
 #### References in Text
 
-The mining laws and the mineral leasing laws of the United States, referred to in subsec. (i), are classified generally to Title 30, Mineral Lands and Mining.
-
-The geothermal leasing laws of the United States, referred to in subsec. (i), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
+The geothermal leasing laws of the United States, referred to in subsec. (i), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–127 substituted “Mount Pleasant National Scenic Area” for “GeorgeWashington National Forest Mount Pleasant Scenic Area”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–127 substituted "Mount Pleasant National Scenic Area" for "George Washington National Forest Mount Pleasant Scenic Area".
 

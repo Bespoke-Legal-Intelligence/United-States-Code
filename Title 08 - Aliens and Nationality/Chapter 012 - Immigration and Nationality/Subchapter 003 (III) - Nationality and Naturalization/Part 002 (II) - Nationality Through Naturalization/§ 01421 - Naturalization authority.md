@@ -74,7 +74,7 @@ The sole authority to naturalize persons as citizens of the United States is con
 
 #### (c) Judicial review
 
-A person whose application for naturalization under this subchapter is denied, after a hearingbefore an immigration officer under section 1447(a) of this title, may seek review of such denial before the United States district court for the district in which such person resides in accordance with chapter 7 of title 5. Such review shall be de novo, and the court shall make its own findings of fact and conclusions of law and shall, at the request of the petitioner, conduct a hearing de novo on the application.
+A person whose application for naturalization under this subchapter is denied, after a hearing before an immigration officer under section 1447(a) of this title, may seek review of such denial before the United States district court for the district in which such person resides in accordance with chapter 7 of title 5. Such review shall be de novo, and the court shall make its own findings of fact and conclusions of law and shall, at the request of the petitioner, conduct a hearing de novo on the application.
 
 #### (d) Sole procedure
 
@@ -132,7 +132,7 @@ Continuation of current rules.—Except as provided in subparagraph (B), any pet
 
 &emsp;&emsp;“(B)
 
-Permitting withdrawal and consideration of application under new rules.—In the case of any petition for naturalization which may be pending in any court on January 1, 1992, the petitioner may withdraw such petition and have the petitioner's application for naturalization considered under the amendments made by this title \[amending this section, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, and repealing section 1459 of this title\], but only if the petition is withdrawn not later than 3 months after the effective date.
+Permitting withdrawal and consideration of application under new rules.—In the case of any petition for naturalization which may be pending in any court on January 1, 1992, the petitioner may withdraw such petition and have the petitioner's application for naturalization considered under the amendments made by this title \[amending thissection, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, and repealing section 1459 of this title\], but only if the petition is withdrawn not later than 3 months after the effective date.
 
 &emsp;“(3)
 

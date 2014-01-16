@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Mar. 3, 1901, ch. 860, §3 (1st sentence), 31 Stat. 1439.
 
-The words “at pleasure” are omitted as unnecessary.
+The words "at pleasure" are omitted as unnecessary.
 

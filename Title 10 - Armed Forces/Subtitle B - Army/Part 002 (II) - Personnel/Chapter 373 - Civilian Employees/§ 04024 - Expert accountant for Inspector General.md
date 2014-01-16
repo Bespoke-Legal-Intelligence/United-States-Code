@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 10:52.
 
-Feb. 24, 1891, ch. 284 (7th clause under “Miscellaneous”), 26 Stat. 773.
+Feb. 24, 1891, ch. 284 (7th clause under "Miscellaneous"), 26 Stat. 773.
 
-The words “in case of vacancy” are omitted as surplusage.
+The words "in case of vacancy" are omitted as surplusage.
 

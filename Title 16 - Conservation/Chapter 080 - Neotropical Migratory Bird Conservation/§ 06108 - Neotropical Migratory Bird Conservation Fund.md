@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Treasury a separate account, which shall be known as the “Neotropical Migratory Bird Conservation Fund”. The Fund shall consist of amounts deposited into the Fund by the Secretary of the Treasury under subsection (b).
+There is established in the Treasury a separate account, which shall be known as the "Neotropical Migratory Bird Conservation Fund". The Fund shall consist of amounts deposited into the Fund by the Secretary of the Treasury under subsection (b).
 
 #### (b) Deposits into the Fund
 
@@ -16,7 +16,7 @@ The Secretary of the Treasury shall deposit into the Fund—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary may use amounts in the Account,<sup>1</sup> without furtherAct of appropriation, to carry out this chapter.
+&emsp;Subject to paragraph (2), the Secretary may use amounts in the Account,<sup>1</sup> without further Act of appropriation, to carry out this chapter.
 
 #### (2) Administrative expenses
 
@@ -30,17 +30,17 @@ The Secretary may accept and use donations to carry out this chapter. Amounts re
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–363, §302(h)(1), substituted “Neotropical Migratory Bird Conservation Fund” for “Neotropical Migratory Bird Conservation Account” in section catchline.
+<b>2006</b>—Pub. L. 109–363, §302(h)(1), substituted "Neotropical Migratory Bird Conservation Fund" for "Neotropical Migratory Bird Conservation Account" in section catchline.
 
 Subsecs. (a), (b). Pub. L. 109–363, §302(h)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment of and deposits into the Neotropical Migratory Bird Conservation Account.
 
-Subsec. (c)(2). Pub. L. 109–363, §302(h)(2), substituted “$100,000” for “$80,000”.
+Subsec. (c)(2). Pub. L. 109–363, §302(h)(2), substituted "$100,000" for "$80,000".
 
-Subsec. (d). Pub. L. 109–363, §302(h)(3)(B), substituted “Fund” for “Account”.
+Subsec. (d). Pub. L. 109–363, §302(h)(3)(B), substituted "Fund" for "Account".
 
 #### Transfer of Funds
 
-Pub. L. 109–363, title III, §302(h)(4), Oct. 17, 2006, 120 Stat. 2077, provided that: “The Secretary of the Treasury may transfer to the Neotropical Migratory Bird Conservation Fund amounts that were in the Neotropical Migratory Bird Conservation Account immediately before the enactment of this Act \[Oct. 17, 2006\].”
+Pub. L. 109–363, title III, §302(h)(4), Oct. 17, 2006, 120 Stat. 2077, provided that: "The Secretary of the Treasury may transfer to the Neotropical Migratory Bird Conservation Fund amounts that were in the Neotropical Migratory Bird Conservation Account immediately before the enactment of this Act \[Oct. 17, 2006\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Fund”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Fund".</i>
 

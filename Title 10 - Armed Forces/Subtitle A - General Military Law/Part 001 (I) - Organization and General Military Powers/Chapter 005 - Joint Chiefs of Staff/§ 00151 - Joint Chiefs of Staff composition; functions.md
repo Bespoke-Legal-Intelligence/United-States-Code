@@ -68,7 +68,7 @@ Meetings of JCS.—(1) The Chairman shall convene regular meetings of the Joint 
 
 <b>2011</b>—Subsec. (a)(7). Pub. L. 112–81 added par. (7).
 
-<b>2006</b>—Subsecs. (b), (c)(2), (d), (e). Pub. L. 109–163 inserted “the Homeland Security Council,” after “the National Security Council,” wherever appearing.
+<b>2006</b>—Subsecs. (b), (c)(2), (d), (e). Pub. L. 109–163 inserted "the Homeland Security Council," after "the National Security Council," wherever appearing.
 
 <b>1992</b>—Subsec. (a)(2) to (6). Pub. L. 102–484 added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
 

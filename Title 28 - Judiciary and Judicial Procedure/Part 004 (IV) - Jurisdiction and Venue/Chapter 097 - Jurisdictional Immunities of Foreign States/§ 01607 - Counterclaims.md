@@ -12,7 +12,7 @@ In any action brought by a foreign state, or in which a foreign state intervenes
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181 inserted “or 1605A” after “section 1605”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 inserted "or 1605A" after "section 1605".
 
 #### Effective Date of 2008 Amendment
 

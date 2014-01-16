@@ -116,7 +116,7 @@ The Administrator is encouraged to finalize program agreements and resource requ
 
 #### (ii) Condition
 
-&emsp;&emsp;&emsp;No funds shall be made available under subparagraph (A), in accordance with clause (i), unless not less than $8,000,000 ismade available under chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) for such purposes for such fiscal year.
+&emsp;&emsp;&emsp;No funds shall be made available under subparagraph (A), in accordance with clause (i), unless not less than $8,000,000 is made available under chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) for such purposes for such fiscal year.
 
 #### (g) Project reporting
 
@@ -136,43 +136,43 @@ The Foreign Assistance Act of 1961, referred to in subsec. (f)(6)(B)(ii), is Pub
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(3). Pub. L. 110–246, §3012(1), struck out “and the conditions that must be met for the approval of such proposal” before period at end.
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–246, §3012(1), struck out "and the conditions that must be met for the approval of such proposal" before period at end.
 
-Subsec. (c)(3). Pub. L. 110–246, §3012(2), struck out par. (3). Prior to amendment, text read as follows: “Handbooks developed by the Administrator to assist in carrying out the program under this subchapter shall be designed to foster the development of programs under this subchapter by eligible organizations.”
+Subsec. (c)(3). Pub. L. 110–246, §3012(2), struck out par. (3). Prior to amendment, text read as follows: "Handbooks developed by the Administrator to assist in carrying out the program under this subchapter shall be designed to foster the development of programs under this subchapter by eligible organizations."
 
-Subsec. (d). Pub. L. 110–246, §3012(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Not later than 15 days after receipt from a United States field mission of a call forward for agricultural commodities for programs that meet the requirements of this subchapter, the order for the purchase or the supply, from inventory, of such commodities or products shall be transmitted to the Commodity Credit Corporation.”
+Subsec. (d). Pub. L. 110–246, §3012(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "Not later than 15 days after receipt from a United States field mission of a call forward for agricultural commodities for programs that meet the requirements of this subchapter, the order for the purchase or the supply, from inventory, of such commodities or products shall be transmitted to the Commodity Credit Corporation."
 
-Subsec. (e). Pub. L. 110–246, §3018(b), struck out par. (1) designation and struck out par. (2). Prior to amendment, text read as follows: “Not later than December 1 of each year, the Administrator shall submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains—
+Subsec. (e). Pub. L. 110–246, §3018(b), struck out par. (1) designation and struck out par. (2). Prior to amendment, text read as follows: "Not later than December 1 of each year, the Administrator shall submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains—
 
-&emsp;“(A) a list of programs, countries, and commodities approved to date for assistance under this section; and
+&emsp;"(A) a list of programs, countries, and commodities approved to date for assistance under this section; and
 
-&emsp;“(B) a statement of the total amount of funds approved to date for transportation and administrative costs under this section.”
+&emsp;"(B) a statement of the total amount of funds approved to date for transportation and administrative costs under this section."
 
 Subsecs. (f), (g). Pub. L. 110–246, §3012(4), added subsecs. (f) and (g).
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171, §3007(1), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Not later than 45 days after the receipt by the Administrator of a proposal submitted—
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §3007(1), added pars. (1) and (2), redesignated former par. (2) as (3), andstruck out heading and text of former par. (1). Text read as follows: "Not later than 45 days after the receipt by the Administrator of a proposal submitted—
 
-&emsp;“(A) by an eligible organization, with the concurrence of the appropriate United States field mission, for commodities; or
+&emsp;"(A) by an eligible organization, with the concurrence of the appropriate United States field mission, for commodities; or
 
-&emsp;“(B) by a United States field mission to make commodities available to an eligible organization;
+&emsp;"(B) by a United States field mission to make commodities available to an eligible organization;
 
-> under this subchapter, the Administrator shall make a decision concerning such proposal.”
+> under this subchapter, the Administrator shall make a decision concerning such proposal."
 
-Subsec. (b). Pub. L. 107–171, §3007(2), substituted “guideline or annual policy guidance” for “guideline” wherever appearing.
+Subsec. (b). Pub. L. 107–171, §3007(2), substituted "guideline or annual policy guidance" for "guideline" wherever appearing.
 
 Subsec. (e). Pub. L. 107–171, §3007(3), added subsec. (e).
 
-<b>1996</b>—Subsec. (a)(1)(A), (B). Pub. L. 104–127, §207(b)(1), substituted “an eligible organization” for “a private voluntary organization or cooperative”.
+<b>1996</b>—Subsec. (a)(1)(A), (B). Pub. L. 104–127, §207(b)(1), substituted "an eligible organization" for "a private voluntary organization or cooperative".
 
-Subsec. (b)(1). Pub. L. 104–127, §207(b)(2)(A), substituted “eligible organizations” for “private voluntary organizations and cooperatives”.
+Subsec. (b)(1). Pub. L. 104–127, §207(b)(2)(A), substituted "eligible organizations" for "private voluntary organizations and cooperatives".
 
-Subsec. (b)(2). Pub. L. 104–127, §207(b)(2)(B), substituted “eligible organizations” for “organizations, cooperatives,”.
+Subsec. (b)(2). Pub. L. 104–127, §207(b)(2)(B), substituted "eligible organizations" for "organizations, cooperatives,".
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to requests by nonprofit voluntary agency or cooperative for nonemergency food assistance agreements, and uses of foreign currency proceeds.
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–202, §14(1), inserted “or cooperative” after “agency”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–202, §14(1), inserted "or cooperative" after "agency".
 
-Subsec. (b). Pub. L. 100–202, §14(2), substituted “10 percent” for “5 percent”.
+Subsec. (b). Pub. L. 100–202, §14(2), substituted "10 percent" for "5 percent".
 
 Subsec. (c). Pub. L. 100–202, §14(3), added subsec. (c).
 
@@ -186,5 +186,5 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 #### Effective Date
 
-Pub. L. 99–198, title XI, §1104(b), Dec. 23, 1985, 99 Stat. 1466, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Section 207 of the Food for Peace Act (as added by subsection (a)) \[this section\] shall apply with respect to agreements entered into after December 31, 1985.”
+Pub. L. 99–198, title XI, §1104(b), Dec. 23, 1985, 99 Stat. 1466, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: "Section 207 of the Food for Peace Act (as added by subsection (a)) \[this section\] shall apply with respect to agreements entered into after December 31, 1985."
 

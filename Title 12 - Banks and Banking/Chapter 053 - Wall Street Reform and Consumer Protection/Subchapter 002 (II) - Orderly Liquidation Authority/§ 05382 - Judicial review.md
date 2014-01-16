@@ -232,5 +232,5 @@
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a)(1)(A)(v)(III), (c), and (d)(5), was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+This subchapter, referred to in subsecs. (a)(1)(A)(v)(III), (c), and (d)(5), was in the original "this title", meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 

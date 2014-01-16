@@ -6,13 +6,13 @@ In addition to the penalty imposed by section 7207 (relating to fraudulent retur
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277 struck out “or (e)” after “subsection (d)”.
+<b>1998</b>—Pub. L. 105–277 struck out "or (e)" after "subsection (d)".
 
-<b>1996</b>—Pub. L. 104–168 substituted “$5,000” for “$1,000”.
+<b>1996</b>—Pub. L. 104–168 substituted "$5,000" for "$1,000".
 
-<b>1987</b>—Pub. L. 100–203 substituted current section catchline for “Assessable penalties with respect to private foundation annual returns” and amended text generally. Prior to amendment, text read as follows: “In addition to the penalty imposed by section 7207 (relating to fraudulent returns, statements, or other documents), any person who is required to comply with the requirements of section 6104(d) (relating to private foundations’ annual returns) and who fails to so comply with respect to any return, if such failure is willful, shall pay a penalty of $1,000 with respect to each such return.”
+<b>1987</b>—Pub. L. 100–203 substituted current section catchline for "Assessable penalties with respect to private foundation annual returns" and amended text generally. Prior to amendment, text read as follows: "In addition to the penalty imposed by section 7207 (relating to fraudulent returns, statements, or other documents), any person who is required to comply with the requirements of section 6104(d) (relating to private foundations' annual returns) and who fails to so comply with respect to any return, if such failure is willful, shall pay a penalty of $1,000 with respect to each such return."
 
-<b>1980</b>—Pub. L. 96–603 substituted in section catchline “returns” for “reports”, and in text “required to comply” for “required to file the report and the notice required under section 6056 (relating to annual reports by private foundations) or to comply”, “(relating to private foundations’ annual returns) and who fails to so comply with respect to any return” for “(relating to public inspection of private foundations’ annual reports) and who fails so to file or comply”, and “each such return” for “each such report or notice”.
+<b>1980</b>—Pub. L. 96–603 substituted in section catchline "returns" for "reports", and in text "required to comply" for "required to file the report and the notice required under section 6056 (relating to annual reports by private foundations) or to comply", "(relating to private foundations' annual returns) and who fails to so comply with respect to any return" for "(relating to public inspection of private foundations' annual reports) and who fails so to file or comply", and "each such return" for "each such report or notice".
 
 #### Effective Date of 1998 Amendment
 
@@ -24,7 +24,7 @@ Amendment by Pub. L. 104–168 applicable to requests made on or after 60th day 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to returns for years beginning after Dec. 31, 1986, and on and after Dec. 22, 1987, in case of applications submitted after July 15, 1987, or on or before July 15, 1987, if the organization has a copy of the application on July 15, 1987, see section 10704(d) of Pub. L. 100–203, set out as a note under section 6652 of this title.
+Amendment by Pub. L. 100–203 applicable to returns for years beginning after Dec. 31, 1986, and on and afterDec. 22, 1987, in case of applications submitted after July 15, 1987, or on or before July 15, 1987, if the organization has a copy of the application on July 15, 1987, see section 10704(d) of Pub. L. 100–203, set out as a note under section 6652 of this title.
 
 #### Effective Date of 1980 Amendment
 

@@ -24,9 +24,9 @@ Section 10703 provides for the disposal by the master of the property and wages 
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–206, §418(1), substituted “in section 10706 of this title” for “by regulations prescribed by the Secretary”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–206, §418(1), substituted "in section 10706 of this title" for "by regulations prescribed by the Secretary".
 
-Subsec. (b). Pub. L. 103–206, §418(2), substituted “to a district court of the United States” for “as prescribed by regulations”.
+Subsec. (b). Pub. L. 103–206, §418(2), substituted "to a district court of the United States" for "as prescribed by regulations".
 
-Subsec. (c). Pub. L. 103–206, §418(3), substituted “section 10706 of this title” for “subsection (a) of this section”.
+Subsec. (c). Pub. L. 103–206, §418(3), substituted "section 10706 of this title" for "subsection (a) of this section".
 

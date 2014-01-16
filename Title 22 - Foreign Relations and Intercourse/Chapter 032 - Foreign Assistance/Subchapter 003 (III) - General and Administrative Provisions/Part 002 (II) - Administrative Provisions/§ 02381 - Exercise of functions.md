@@ -2,17 +2,17 @@
 
 #### (a) Delegation by President; rules and regulations; utilization of goods and services from private enterprise, and facilities and resources of Federal agencies when not competitive with private enterprise
 
-The President may exercise any functions conferred upon him by this chapter through such agency or officer of the United States Government as he shall direct. The head of any such agency or such officer may from time to time promulgate such rules and regulations as maybe necessary to carry out such functions, and may delegate authority to perform any such functions, including, if he shall so specify, the authority successively to redelegate any of such functions to any of his subordinates. In providing technical assistance under this chapter, the head of any such agency or such officer shall utilize, to the fullest extent practicable, goods and professional and other services from private enterprise on a contract basis. In such fields as education, health, housing, or agriculture, the facilities and resources of other Federal agencies shall be utilized when such facilities are particularly or uniquely suitable for technical assistance, are not competitive with private enterprise, and can be made available without interfering unduly with domestic programs.
+The President may exercise any functions conferred upon him by this chapter through such agency or officer of the United States Government as he shall direct. The head of any such agency or such officer may from time to time promulgate such rules and regulations as may be necessary to carry out such functions, and may delegate authority to perform any such functions, including, if he shall so specify, the authority successively to redelegate any of such functions to any of his subordinates. In providing technical assistance under this chapter, the head of any such agency or such officer shall utilize, to the fullest extent practicable, goods and professional and other services from private enterprise on a contract basis. In such fields as education, health, housing, or agriculture, the facilities and resources of other Federal agencies shall be utilized when such facilities are particularly or uniquely suitable for technical assistance, are not competitive with private enterprise, and can be made available without interfering unduly with domestic programs.
 
 #### (b) Eligibility of suppliers; debarment period; causes for debarment; conditions for reinstatement; periodic review
 
 The President shall issue and enforce regulations determining the eligibility of any person to receive funds made available under this chapter. A person may be suspended under such regulations for a temporary period pending the completion of an investigation and any resulting judicial or debarment proceedings, upon cause for belief that such person or an affiliate thereof probably has undertaken conduct which constitutes a cause for debarment; and, after an opportunity has been afforded to such person for a hearing, he may be debarred for an additional period, not to exceed three years. Among the causes for debarment shall be (1) offering or accepting a bribe or other illegal payment or credit in connection with any transaction financed with funds made available under this chapter; or (2) committing a fraud in the procurement or performance of any contract financed with funds made available under this chapter; or (3) acting in any other manner which shows a lack of integrity or honesty in connection with any transaction financed with funds made available under this chapter. Reinstatement of eligibility in each particular case shall be subject to such conditions as the President shall direct. Each person whose eligibility is denied or suspended under this subsection shall, upon request, be entitled to a review of his eligibility not less often than once every two years.
 
-(Pub. L. 87–195, pt. III, §621, Sept. 4, 1961, 75 Stat. 445; Pub. L. 87–565, pt. III, §302(a), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(a), Dec. 16, 1963, 77 Stat. 388; Pub. L. 90–554, pt. III, §302(a), Oct. 8, 1968, 82 Stat. 964.)
+(Pub. L. 87–195, pt. III, §621, Sept. 4, 1961, 75 Stat. 445; Pub. L. 87–565, pt. III, §302(a), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(a), Dec. 16,1963, 77 Stat. 388; Pub. L. 90–554, pt. III, §302(a), Oct. 8, 1968, 82 Stat. 964.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -20,7 +20,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 <b>1963</b>—Pub. L. 88–205 provided that goods and professional and other services from private enterprise should be utilized on a contract basis, and that Federal agencies be utilized only when not competitive with private enterprise and available without interfering unduly with domestic programs.
 
-<b>1962</b>—Pub. L. 87–565 struck out designation “(a)” from provisions of subsec. (a), and repealed subsecs. (b) to (e) which related to the abolition of the Development Loan Fund, International Cooperation Administration, and the Office of Inspector General and Comptroller, the transfer of their functions, and the transfer of the function of the Export-Import Bank under section 1704(e) of title 7.
+<b>1962</b>—Pub. L. 87–565 struck out designation "(a)" from provisions of subsec. (a), and repealed subsecs. (b) to (e) which related to the abolition of the Development Loan Fund, International Cooperation Administration, and the Office of Inspector General and Comptroller, the transfer of their functions, and the transfer of the function of the Export-Import Bank under section 1704(e) of title 7.
 
 #### Delegation of Functions
 
@@ -30,25 +30,25 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 Pub. L. 105–277, div. A, §101(d) \[title V, §587\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–204, as amended by Pub. L. 106–31, title V, §5002(b), May 21, 1999, 113 Stat. 109, provided that:
 
-“(a)
+"(a)
 
 Establishment of Office.—There shall be established within the Office of the Administrator of the Agency for International Development, an Office of Security. Such Office of Security shall, notwithstanding any other provision of law except section 207 of the Foreign Service Act of 1980 \[22 U.S.C. 3927\] and section 103 of Public Law 99–339 \[22 U.S.C. 4802\], have the responsibility for the supervision, direction, and control of all security activities relating to the programs and operations of that Agency.
 
-“(b)
+"(b)
 
-Transfer and Allocation of Appropriations and Personnel.—There are transferred to the Office of Security all security functions exercised by the Office of Inspector General of the Agency for International Development exercised before the date of enactment of this Act \[Oct. 21, 1998\]. The Administrator shall transfer from the Office of the Inspector General of such Agency to the Office of Security established by subsection (a), the personnel (including the Senior Executive Service position designated for the Assistant Inspector General for Security), assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, and other funds held, used, available to, or to be made available in connection with such functions. Unexpended balances of appropriations, and other funds made available or to be made available in connection with such functions, shall be transferred to and merged with funds appropriated by this Act under the heading ‘Operating Expenses of the Agency for International Development’ \[112 Stat. 2681–157\].
+Transfer and Allocation of Appropriations and Personnel.—There are transferred to the Office of Security all security functions exercised by the Office of Inspector General of the Agency for International Development exercised before the date of enactment of this Act \[Oct. 21, 1998\]. The Administrator shall transfer from the Office of the Inspector General of such Agency to the Office of Security established by subsection (a), the personnel (including the Senior Executive Service position designated for the Assistant Inspector General for Security), assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, and other funds held, used, available to, or to be made available in connection with such functions. Unexpended balances of appropriations, and other funds made available or to be made available in connection with such functions, shall be transferred to and merged with funds appropriated by this Act under the heading 'Operating Expenses of the Agency for International Development' \[112 Stat. 2681–157\].
 
-“(c)
+"(c)
 
-Transfer of Employees.—Any employee in the career service who is transferred pursuant to this section shall be placed in a position in the Office of Security established by subsection (a) which is comparable to the position the employee held in the Office of the Inspector General of the Agency for International Development.”
+Transfer of Employees.—Any employee in the career service who is transferred pursuant to this section shall be placed in a position in the Office of Security established by subsection (a) which is comparable to the position the employee held in the Office of the Inspector General of the Agency for International Development."
 
 #### Agency for International Development Budget Submission
 
-Pub. L. 106–429, §101(a) \[title V, §576\], Nov. 6, 2000, 114 Stat. 1900, 1900A–54, provided that: “The Agency for International Development shall submit to the Committees on Appropriations a detailed budget justification that is consistent with the requirements of section 515 \[114 Stat. 1900A–26\], for each fiscal year. The Agency shall submit to the Committees on Appropriations a proposed budget justification format no later than November 15, 2000, or 30 days after the enactment of this Act \[Nov. 6, 2000\], whichever occurs later. The proposed format shall include how the Agency's budget justification will address: (1) estimated levels of obligations for the current fiscal year and actual levels for the 2 previous fiscal years; (2) the President's request for new budget authority and estimated carryover obligational authority for the budget year; (3) the disaggregation of budget data and staff levels by program and activity for each bureau, field mission, and central office; and\(4) the need for a user-friendly, transparent budget narrative.”
+Pub. L. 106–429, §101(a) \[title V, §576\], Nov. 6, 2000, 114 Stat. 1900, 1900A–54, provided that: "The Agency for International Development shall submit to the Committees on Appropriations a detailed budget justification that is consistent with the requirements of section 515 \[114 Stat. 1900A–26\], for each fiscal year. The Agency shall submit to the Committees on Appropriations a proposed budget justification format no later than November 15, 2000, or 30 days after the enactment of this Act \[Nov. 6, 2000\], whichever occurs later. The proposed format shall include how the Agency's budget justification will address: (1) estimated levels of obligations for the current fiscal year and actual levels for the 2 previous fiscal years; (2) the President's request for new budget authority and estimated carryover obligational authority for the budget year; (3) the disaggregation of budget data and staff levels by program and activity for each bureau, field mission, and central office; and (4) the need for a user-friendly, transparent budget narrative."
 
-Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §581\], Nov. 29, 1999, 113 Stat. 1535, 1501A–116, provided that: “Beginning with the fiscal year 2001 budget, the Agency for International Development shall submit to the Committees on Appropriations a detailed budget for each fiscal year. The Agency shall submit to the Committees on Appropriations a proposed budget format no later than October 31, 1999, or 30 days after the enactment of this Act \[Nov. 29, 1999\], whichever occurs later. The proposed format shall include how the Agency's budget submission will address: (1) estimated levels of obligations for the current fiscal year and actual levels for the two previous fiscal years; (2) the President's request for new budget authority and estimated carryover obligational authority for the budget year; (3) the disaggregation of budget data by program and activity for each bureau, field mission, and central office; and (4) staff levels identified by program.”
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §581\], Nov. 29, 1999, 113 Stat. 1535, 1501A–116, provided that: "Beginning with the fiscal year 2001 budget, the Agency for International Development shall submit to the Committees on Appropriations a detailed budget for each fiscal year. The Agency shall submit to the Committees on Appropriations a proposed budget format no later than October 31, 1999, or 30 days after the enactment of this Act \[Nov. 29, 1999\], whichever occurs later. The proposed format shall include how the Agency's budget submission will address: (1) estimated levels of obligations for the current fiscal year and actual levels for the two previous fiscal years; (2) the President's request for new budget authority and estimated carryover obligational authority for the budget year; (3) the disaggregation of budget data by program and activity for each bureau, field mission, and central office; and (4) staff levels identified by program."
 
-Pub. L. 102–391, title V, §599E, Oct. 6, 1992, 106 Stat. 1698, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Agency for International Development.”
+Pub. L. 102–391, title V, §599E, Oct. 6, 1992, 106 Stat. 1698, provided that: "The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Agency for International Development."
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1979</b>
 
@@ -62,7 +62,7 @@ Ex. Ord. No. 10973, Nov. 3, 1961, 26 F.R. 10469, as amended, was superseded inso
 
 #### Ex. Ord. No. 12163. Administration of Foreign Assistance and Related Functions
 
-Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R. 3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§1–6, Dec. 14, 1990, 55 F.R. 52033; Ex. Ord. No. 13030, §1, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §2, June 29, 1998, 63 F.R. 36153; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §§1–9, Mar. 31, 1999, 64 F.R. 16595–16598; Ex. Ord. No. 13346, §3, July 8, 2004, 69 F.R. 41905; Ex. Ord. No. 13361, Nov. 16, 2004, 69 F.R. 67633, provided:
+Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R. 3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§1–6, Dec. 14, 1990, 55 F.R. 52033; Ex. Ord. No. 13030, §1, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §2, June 29, 1998, 63 F.R. 36153; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §§1–9, Mar. 31, 1999, 64 F.R. 16595–16598; Ex. Ord. No. 13346, §3, July 8, 2004, 69 F.R. 41905; Ex. Ord. No. 13361, Nov. 16, 2004, 69 F.R. 67633, provided:
 
 By virtue of the authority vested in me by the Foreign Assistance Act of 1961 \[this chapter\], Reorganization Plan No. 2 of 1979 \[set out above\], the International Development Cooperation Act of 1979 \[see Short Title of 1979 Amendment note set out under section 2151 of this title\], and section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
@@ -70,15 +70,15 @@ By virtue of the authority vested in me by the Foreign Assistance Act of 1961 \[
 
 Department of State
 
-1–100. <i>Delegation of Functions</i>. (a) Exclusive of the functions otherwise delegated, or reserved to the President, by this order, Executive Order 12884 \[22 U.S.C. 5812 note\], Executive Order 11579 \[22 U.S.C. 2191 note\], and Executive Order 12757 \[former 7 U.S.C. 1738 note\], and subject to the provisions of such orders, there are hereby delegated to the Secretary of State (referred to in this Part as the “Secretary”) all functions conferred upon the President by:
+1–100. <i>Delegation of Functions</i>. (a) Exclusive of the functions otherwise delegated, or reserved to the President, by this order, Executive Order 12884 \[22 U.S.C. 5812 note\], Executive Order 11579 \[22 U.S.C. 2191 note\], and Executive Order 12757 \[former 7 U.S.C. 1738 note\], and subject to the provisions of such orders, there are hereby delegated to the Secretary of State (referred to in this Part as the "Secretary") all functions conferred upon the President by:
 
-&emsp;(1) the Foreign Assistance Act of 1961 (22 U.S.C. 2151 <i>et seq</i>.) (“Act”);
+&emsp;(1) the Foreign Assistance Act of 1961 (22 U.S.C. 2151 <i>et seq</i>.) ("Act");
 
 &emsp;&emsp;(i) except that with respect to section 505(a) of the Act \[22 U.S.C. 2314(a)\], such functions only insofar as those functions relate to other provisions which may be required by the President or only insofar as they relate to consent;
 
 &emsp;&emsp;(ii) except that with respect to section 505(b) of the Act, such functions only insofar as those functions pertain to countries that agree to the conditions set forth therein;
 
-&emsp;(2) section 1205(b) of the International Security and Development Cooperation Act of 1985 (“ISDCA of 1985”) \[Pub. L. 99–83, 22 U.S.C. 2346 note\];
+&emsp;(2) section 1205(b) of the International Security and Development Cooperation Act of 1985 ("ISDCA of 1985") \[Pub. L. 99–83, 22 U.S.C. 2346 note\];
 
 &emsp;(3) section 8(d) of the Act of January 12, 1971 (22 U.S.C. 2321b(d));
 
@@ -86,7 +86,7 @@ Department of State
 
 &emsp;(5) section 402(b)(2) of title 10, United States Code, which shall be exercised in consultation with the Secretary of Defense;
 
-&emsp;(6) the third proviso under the heading “Development Assistance” contained in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1999 (as contained in Public Law 105–277) \[112 Stat. 2681–153\];
+&emsp;(6) the third proviso under the heading "Development Assistance" contained in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1999 (as contained in Public Law 105–277) \[112 Stat. 2681–153\];
 
 &emsp;(7) section 572 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989 (Public Law 100–461) \[22 U.S.C. 2151v note\];
 
@@ -100,13 +100,13 @@ Department of State
 
 &emsp;(12) section 821(b) of the Western Hemisphere Drug Elimination Act (as contained in Public Law 105–277) \[22 U.S.C. 2291 note\];
 
-&emsp;(13) title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002 (Public Law 107–115), under the heading “Assistance for the Independent States of the Former Soviet Union, \[sic\]” in subsections (g)(4) and (6) \[22 U.S.C. 5812 note\];
+&emsp;(13) title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002 (Public Law 107–115), under the heading "Assistance for the Independent States of the Former Soviet Union, \[sic\]" in subsections (g)(4) and (6) \[22 U.S.C. 5812 note\];
 
 &emsp;(14) section 512 of Division D of the Consolidated Appropriations Act, 2004 (Public Law 108–199) \[118 Stat. 170\];
 
 &emsp;(15) sections 5(c) and 6 of the Anglo-Irish Agreement Support Act of 1986 (Public Law 99–415), as amended \[100 Stat. 948, 949\];
 
-&emsp;(16) the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (Public Law 108–25) (the “HIV/AIDS Act”), as amended \[22U.S.C. 7601 et seq.\], and amendments made by the HIV/AIDS Act, which the Secretary shall perform, in the case of section 304 \[22 U.S.C. 7634\], after consultation with the Secretary of Health and Human Services.
+&emsp;(16) the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (Public Law 108–25) (the "HIV/AIDS Act"), as amended \[22 U.S.C. 7601 et seq.\], and amendments made by the HIV/AIDS Act, which the Secretary shall perform, in the case of section 304 \[22 U.S.C. 7634\], after consultation with the Secretary of Health and Human Services.
 
 (b) The functions under section 653 of the Act \[22 U.S.C. 2413\] delegated to the Secretary shall be exercised in consultation with the Secretary of Defense, insofar as they relate to functions under the Act administered by the Department of Defense, and the Director of the Office of Management and Budget.
 
@@ -248,7 +248,7 @@ Reserved Functions
 
 &emsp;(a) request and receive information from any agency that is subject to this delegation;
 
-&emsp;(b) carry out all responsibilities associated with implementing the Government Performance and Results Act \[Pub. L. 103–62, see Short Title of 1993 Amendment note set out under section 1101 of Title 31, Money and Finance\], the Government ManagementReform Act \[Pub. L. 103–356, see Short Title of 1994 Amendment note set out under section 3301 of Title 31\], and other comparable government-wide statutes dealing with management; and
+&emsp;(b) carry out all responsibilities associated with implementing the Government Performance and Results Act \[Pub. L. 103–62, see Short Title of 1993 Amendment note set out under section 1101 of Title 31, Money and Finance\], the Government Management Reform Act \[Pub. L. 103–356, see Short Title of 1994 Amendment note set out under section 3301 of Title 31\], and other comparable government-wide statutes dealing with management; and
 
 &emsp;(c) carry out all statutory budget and policy coordination responsibilities assigned to the Director of the Office of Management and Budget by statute or Executive order.
 
@@ -258,7 +258,7 @@ Funds
 
 1–800. <i>Allocation of Funds</i>. Funds described below that are appropriated or otherwise made available to the President shall be deemed to be allocated without any further action of the President, as follows:
 
-(a) Except as provided in subsections (b) and (c), there are allocated to the Secretary all funds made available for carrying out the Act, including any funds appropriated under the heading “Nonproliferation, Anti-Terrorism, Demining and Related Programs”.
+(a) Except as provided in subsections (b) and (c), there are allocated to the Secretary all funds made available for carrying out the Act, including any funds appropriated under the heading "Nonproliferation, Anti-Terrorism, Demining and Related Programs".
 
 (b) There are allocated to the Secretary of Defense all funds made available for carrying out chapters 2 and 5 of Part II of the Act \[22 U.S.C. 2311 et seq., 2347 et seq.\].
 
@@ -270,11 +270,11 @@ Funds
 
 General Provisions
 
-1–901. <i>Definition</i>. As used in this order, the word “function” includes any duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity.
+1–901. <i>Definition</i>. As used in this order, the word "function" includes any duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity.
 
 1–902. <i>References to Orders and Acts</i>. Except as may for any reason be inappropriate:
 
-(a) References in this order or in any other Executive order to (1) the Foreign Assistance Act of 1961 \[this chapter\] (including references herein to “the Act”), (2) unrepealed provisions of the Mutual Security Act of 1954 \[act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended\], or (3) any other act that relates to the subject of this order shall be deemed to include references to any subsequent amendments thereto.
+(a) References in this order or in any other Executive order to (1) the Foreign Assistance Act of 1961 \[this chapter\] (including references herein to "the Act"), (2) unrepealed provisions of the Mutual Security Act of 1954 \[act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended\], or (3) any other act that relates to the subject of this order shall be deemed to include references to any subsequent amendments thereto.
 
 (b) References in any prior Executive order to the Mutual Security Act of 1954 \[act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended\] or any provisions thereof shall be deemed to be references to the Act \[this chapter\] or the corresponding provision, if any, thereof.
 
@@ -282,7 +282,7 @@ General Provisions
 
 (d) References in this order or in any other Executive order to this order or to any provision thereof shall be deemed to include references thereto, respectively, as amended from time to time.
 
-(e) References in any prior Executive order not superseded by this order to any provisions of any Executive order so superseded shall hereafter be deemed to be references to the corresponding provisions, if any, of this order.
+(e) References in any prior Executive order not superseded by this order to any provisions of any Executiveorder so superseded shall hereafter be deemed to be references to the corresponding provisions, if any, of this order.
 
 1–903. <i>Prior Executive Orders</i>. (a) The following are revoked:
 
@@ -296,19 +296,19 @@ General Provisions
 
 &emsp;(1) section 3(a) of Executive Order No. 11846 of March 27, 1975, as amended \[19 U.S.C. 2111 note\], by adding the following new paragraph (12) after paragraph (11):
 
-&emsp;“(12) The Director of the United States International Development Cooperation Agency”;
+&emsp;"(12) The Director of the United States International Development Cooperation Agency";
 
-&emsp;(2) section 1–202 of Executive Order 12065 of June 28, 1978 \[50 U.S.C. 435 note\], by striking out “The Administrator, Agency for International Development” and inserting in lieu thereof “The Director of the United States International Development Cooperation Agency”;
+&emsp;(2) section 1–202 of \[former\] Executive Order 12065 of June 28, 1978, by striking out "The Administrator, Agency for International Development" and inserting in lieu thereof "The Director of the United States International Development Cooperation Agency";
 
-&emsp;(3) section 2(a) of Executive Order No. 11958 of January 18, 1977 \[22 U.S.C. 2751 note\], by striking out “the Administrator of the Agency for International Development” and inserting in lieu thereof “the Director of the United States International Development Cooperation Agency”;
+&emsp;(3) section 2(a) of Executive Order No. 11958 of January 18, 1977 \[22 U.S.C. 2751 note\], by striking out "the Administrator of the Agency for International Development" and inserting in lieu thereof "the Director of the United States International Development Cooperation Agency";
 
 &emsp;(4) section 3 of Executive Order 10900 of January 5, 1961 \[7 U.S.C. 1691 note\], by adding thereto the following new subsection:
 
-&emsp;“(d) The Secretary of State may redelegate to the Director of the United States International Development Cooperation Agency, or to any other officer or agency of the Executive branch, functions delegated to such Secretary by this order.”;
+&emsp;"(d) The Secretary of State may redelegate to the Director of the United States International Development Cooperation Agency, or to any other officer or agency of the Executive branch, functions delegated to such Secretary by this order.";
 
-&emsp;(5) section 4 of Executive Order 11223 of May 12, 1965 \[22 U.S.C. 2393 note\], by inserting immediately following “the Secretary of State” the words “or the Director of the United States International Development Cooperation Agency (with respect to functions vested in or delegated to the Director)”; and
+&emsp;(5) section 4 of Executive Order 11223 of May 12, 1965 \[22 U.S.C. 2393 note\], by inserting immediately following "the Secretary of State" the words "or the Director of the United States International Development Cooperation Agency (with respect to functions vested in or delegated to the Director)"; and
 
-&emsp;(6) the President's memorandum of October 18, 1961, entitled “Determination Under Section 604(a) of the Foreign Assistance Act of 1961” (26 FR 10543) is amended by inserting after “the Secretary of State” each time it appears in such memorandum the words “or the Director of the United States International Development Cooperation Agency (with respect to non-military programs administered by such Agency)”.
+&emsp;(6) the President's memorandum of October 18, 1961, entitled "Determination Under Section 604(a) of the Foreign Assistance Act of 1961" (26 FR 10543) is amended by inserting after "the Secretary of State" each time it appears in such memorandum the words "or the Director of the United States International Development Cooperation Agency (with respect to non-military programs administered by such Agency)".
 
 \[(c), (d) Revoked by Ex. Ord. No. 13118, §9, Mar. 31, 1999, 64 F.R. 16598.\]
 

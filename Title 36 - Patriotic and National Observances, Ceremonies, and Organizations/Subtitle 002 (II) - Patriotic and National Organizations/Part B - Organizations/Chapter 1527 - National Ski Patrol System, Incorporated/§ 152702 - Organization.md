@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—National Ski Patrol System, Incorporated (in this chapter, the “corporation”), incorporated in New York and Colorado, is a federally chartered corporation.
+Federal Charter.—National Ski Patrol System, Incorporated (in this chapter, the "corporation"), incorporated in New York and Colorado, is a federally chartered corporation.
 
 (b)
 

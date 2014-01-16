@@ -6,7 +6,7 @@ The Commission shall transmit to the President and to each House of the Congress
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–261 substituted “March 31, 1977” for “March 31, 1976”.
+<b>1976</b>—Pub. L. 94–261 substituted "March 31, 1977" for "March 31, 1976".
 
 #### Termination of Commission
 

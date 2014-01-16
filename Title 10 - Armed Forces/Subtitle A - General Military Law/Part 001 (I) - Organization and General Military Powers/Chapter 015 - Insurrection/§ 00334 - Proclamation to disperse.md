@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 R.S. 5300.
 
-The words “militia or the armed forces” are substituted for the words “military forces” for clarity and to conform to sections 331, 332, and 333 of this title.
+The words "militia or the armed forces" are substituted for the words "military forces" for clarity and to conform to sections 331, 332, and 333 of this title.
 
 #### Derivation
 
@@ -26,9 +26,9 @@ Act July 29, 1861, ch. 25, §2, 12 Stat. 282.
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181 struck out “or those obstructing the enforcement of the laws” after “insurgents”.
+<b>2008</b>—Pub. L. 110–181 struck out "or those obstructing the enforcement of the laws" after "insurgents".
 
-<b>2006</b>—Pub. L. 109–364 inserted “or those obstructing the enforcement of the laws” after “insurgents”.
+<b>2006</b>—Pub. L. 109–364 inserted "or those obstructing the enforcement of the laws" after "insurgents".
 
 #### Proc. No. 3204. Obstruction of Justice in the State of Arkansas
 
@@ -48,7 +48,7 @@ Proc. No. 3554, Sept. 10, 1963, 28 F.R. 9861, commanded all persons obstructing 
 
 #### Proc. No. 3645. Obstruction of Justice in the State of Alabama
 
-Proc. No. 3645, Mar. 23, 1965, 30 F.R. 3739, commanded all persons engaged or who may engage in domestic violence obstructing the enforcement of the laws and the judicial order approving the right to march along U.S. Highway 80 from Selma to Montgomery, Alabama commencing during the period from Mar. 19, 1965 to Mar. 22, 1965 and terminating within 5 days of the commencement to cease and desist therefrom and to disperse forthwith.
+Proc. No. 3645, Mar. 23, 1965, 30 F.R. 3739, commanded all persons engaged or who may engage in domestic violence obstructing the enforcement of the laws andthe judicial order approving the right to march along U.S. Highway 80 from Selma to Montgomery, Alabama commencing during the period from Mar. 19, 1965 to Mar. 22, 1965 and terminating within 5 days of the commencement to cease and desist therefrom and to disperse forthwith.
 
 #### Proc. No. 3795. Obstruction of Justice in the State of Michigan
 

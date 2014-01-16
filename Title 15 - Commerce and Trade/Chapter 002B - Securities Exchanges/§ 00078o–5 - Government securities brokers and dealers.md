@@ -22,13 +22,13 @@
 
 (4) No government securities broker or government securities dealer that is required to register under paragraph (1)(A) and that is not a member of the Securities Investor Protection Corporation shall effect any transaction in any security in contravention of such rules as the Commission shall prescribe pursuant to this subsection to assure that its customers receive complete, accurate, and timely disclosure of the inapplicability of Securities Investor Protection Corporation coverage to their accounts.
 
-(5) The Secretary of the Treasury (hereinafter in this section referred to as the “Secretary”), by rule or order, upon the Secretary's own motion or upon application, may conditionally or unconditionally exempt any government securities broker or government securities dealer, or class of government securities brokers or government securities dealers, from any provision of subsection (a), (b), or (d) of this section, other than subsection (d)(3) of this section, or the rules thereunder, if the Secretary finds that such exemption is consistent with the public interest, the protection of investors, and the purposes of this chapter.
+(5) The Secretary of the Treasury (hereinafter in this section referred to as the "Secretary"), by rule or order, upon the Secretary's own motion or upon application, may conditionally or unconditionally exempt any government securities broker or government securities dealer, or class of government securities brokers or government securities dealers, from any provision of subsection (a), (b), or (d) of this section, other than subsection (d)(3) of this section, or the rules thereunder, if the Secretary finds that such exemption is consistent with the public interest, the protection of investors, and the purposes of this chapter.
 
 #### (b) Rules with respect to transactions in government securities
 
 (1) The Secretary shall propose and adopt rules to effect the purposes of this chapter with respect to transactions in government securities effected by government securities brokers and government securities dealers as follows:
 
-&emsp;(A) Such rules shall provide safeguards with respect to the financial responsibility and related practices of government securities brokers and government securities dealers including, but not limited to, capital adequacy standards, the acceptance of custody and use of customers’ securities, the carrying and use of customers’ deposits or credit balances, and the transfer and control of government securities subject to repurchase agreements and in similar transactions.
+&emsp;(A) Such rules shall provide safeguards with respect to the financial responsibility and related practices of government securities brokers and government securities dealers including, but not limited to, capital adequacy standards, the acceptance of custody and use of customers' securities, the carrying and use of customers' deposits or credit balances, and the transfer and control of government securities subject to repurchase agreements and in similar transactions.
 
 &emsp;(B) Such rules shall require every government securities broker and government securities dealer to make reports to and furnish copies of records to the appropriate regulatory agency, and to file with the appropriate regulatory agency, annually or more frequently, a balance sheet and income statement certified by an independent public accountant, prepared on a calendar or fiscal year basis, and such other financial statements (which shall, as the Secretary specifies, be certified) and information concerning its financial condition as required by such rules.
 
@@ -80,13 +80,13 @@ Notice to banking agencies concerning financial and operational condition concer
 
 &emsp;&emsp;(vii)
 
-Definition.—For purposes of this subparagraph, the term “Federal banking agency” shall have the same meaning as the term “appropriate Federal banking agency” in section 1813(q) of title 12.
+Definition.—For purposes of this subparagraph, the term "Federal banking agency" shall have the same meaning as the term "appropriate Federal banking agency" in section 1813(q) of title 12.
 
 &emsp;(D)
 
 Exemptions.—The Secretary by rule or order may exempt any person or class of persons, under such terms and conditions and for such periods as the Secretary shall provide in such rule or order, from the provisions of this paragraph, and the rules thereunder. In granting such exemptions, the Secretary shall consider, among other factors—
 
-&emsp;&emsp;(i) whether information of the type required under this paragraph is available from a supervisory agency (as defined in section 3401(6) <sup>1</sup> of title 12), a State insurance commission or similar State agency, the Commodity Futures Trading Commission, or a similar foreign regulator;
+&emsp;&emsp;(i) whether information of the type required under this paragraph is available from a supervisory agency (as defined in section 3401(6) <sup>1</sup> of title 12), a State insurance commission or similar State agency, theCommodity Futures Trading Commission, or a similar foreign regulator;
 
 &emsp;&emsp;(ii) the primary business of any associated person;
 
@@ -98,7 +98,7 @@ Exemptions.—The Secretary by rule or order may exempt any person or class of p
 
 &emsp;(E)
 
-Conformity with requirements under section 78q(h).—In exercising authority pursuant to subparagraph (A) of this paragraph concerning information with respect to associated persons of government securities brokers and government securities dealers who are also associated persons of registered brokers or dealers reporting to the Commission pursuant to section 78q(h) of this title, the requirementsrelating to such associated persons shall conform, to the greatest extent practicable, to the requirements under section 78q(h) of this title.
+Conformity with requirements under section 78q(h).—In exercising authority pursuant to subparagraph (A) of this paragraph concerning information with respect to associated persons of government securities brokers and government securities dealers who are also associated persons of registered brokers or dealers reporting to the Commission pursuant to section 78q(h) of this title, the requirements relating to such associated persons shall conform, to the greatest extent practicable, to the requirements under section 78q(h) of this title.
 
 &emsp;(F)
 
@@ -144,7 +144,7 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 (B) In addition, where applicable, such appropriate regulatory agency may, in accordance with section 1818 of title 12, section 1464 of title 12, or section 1730 <sup>2</sup> of title 12, enforce compliance by such government securities broker or government securities dealer or any person associated, seeking to become associated, or, at the time of the alleged misconduct, associated or seeking to become associated with such government securities broker or government securities dealer with the provisions of this section and the rules thereunder.
 
-(C) For purposes of subparagraph (B) of this paragraph, any violation of any such provision shall constitute adequate basis for the issuance of any order under section 1818(b) or (c) of title 12, section 1464(d)(2) or (d)(3) <sup>2</sup> of title 12, or section 1730(e) or (f) <sup>2</sup> of title 12, and the customers of any such government securities broker or government securities dealer shall be deemed, respectively, “depositors” as that term is used in section 1818(c) of title 12, “savings account holders” as that term is used in section 1464(d)(3) <sup>2</sup> of title 12, or “insured members” as that term is used in section 1730(f) <sup>2</sup> of title 12.
+(C) For purposes of subparagraph (B) of this paragraph, any violation of any such provision shall constitute adequate basis for the issuance of any order under section 1818(b) or (c) of title 12, section 1464(d)(2) or (d)(3) <sup>2</sup> of title 12, or section 1730(e) or (f) <sup>2</sup> of title 12, and the customers of any such government securities broker or government securities dealer shall be deemed, respectively, "depositors" as that term is used in section 1818(c) of title 12, "savings account holders" as that term is used in section 1464(d)(3) <sup>2</sup> of title 12, or "insured members" as that term is used in section 1730(f) <sup>2</sup> of title 12.
 
 (D) Nothing in this paragraph shall be construed to affect in any way the powers of such appropriate regulatory agency to proceed against such government securities broker or government securities dealer under any other provision of law.
 
@@ -176,7 +176,7 @@ Procedures for requiring information.—At the time the Commission requests any 
 
 &emsp;(D)
 
-Consultation.—Within 90 days after December 17, 1993, and annually thereafter, or upon the request of any other appropriate regulatory agency, the Commission shall consult with the other appropriate regulatory agencies to determine the availability of records that may be required to be furnished under this paragraph and, for those records available directly from the other appropriate regulatory agencies, to develop a procedure for furnishing such records expeditiously upon the Commission's request.
+Consultation.—Within 90 days after December 17, 1993, and annually thereafter, or upon the request of any other appropriate regulatory agency, the Commission shall consult with the other appropriate regulatory agencies to determine the availability of records that may be required to be furnished under this paragraph and, for those records available directly from the other appropriate regulatoryagencies, to develop a procedure for furnishing such records expeditiously upon the Commission's request.
 
 &emsp;(E)
 
@@ -184,7 +184,7 @@ Exclusion for examination reports.—Nothing in this paragraph shall be construe
 
 &emsp;(F)
 
-Authority to limit disclosure of information.—Notwithstanding any other provision of law, the Commission and the appropriate regulatory agencies shall not be compelled to disclose any information required or obtained under this paragraph. Nothing in this paragraph shall authorize the Commission or any appropriate regulatory agency to withhold information from Congress, or prevent the Commission or any appropriate regulatory agency from complying with a request for informationfrom any other Federal department or agency requesting information for purposes within the scope of its jurisdiction, or from complying with an order of a court of the United States in an action brought by the United States, the Commission, or the appropriate regulatory agency. For purposes of section 552 of title 5, this subparagraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+Authority to limit disclosure of information.—Notwithstanding any other provision of law, the Commission and the appropriate regulatory agencies shall not be compelled to disclose any information required or obtained under this paragraph. Nothing in this paragraph shall authorize the Commission or any appropriate regulatory agency to withhold information from Congress, or prevent the Commission or any appropriate regulatory agency from complying with a request for information from any other Federal department or agency requesting information for purposes within the scope of its jurisdiction, or from complying with an order of a court of the United States in an action brought by the United States, the Commission, or the appropriate regulatory agency. For purposes of section 552 of title 5, this subparagraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (e) Membership in national securities exchange; exemptions
 
@@ -246,75 +246,75 @@ The Secretary may, by order, take any action with respect to a matter or action 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(3), (5), (b)(1), (2)(B), (4)(B), (d)(1), (f)(1), and (g)(2), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(3), (5), (b)(1), (2)(B), (4)(B), (d)(1), (f)(1), and (g)(2), was in the original "this title". See References in Text note set out under section 78a of this title.
 
-Subchapter VIII of chapter 3 of title 12, referred to in subsec. (b)(2)(C)(ii), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
+Subchapter VIII of chapter 3 of title 12, referred to in subsec. (b)(2)(C)(ii), was in the original "section 9 of the Federal Reserve Act", meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 Section 3401(6) of title 12, referred to in subsec. (b)(2)(D)(i), was redesignated section 3401(7) of title 12 by Pub. L. 101–73, title IX, §941(1), Aug. 9, 1989, 103 Stat. 496.
 
 Section 1730 of title 12, referred to in subsec. (c)(2)(B), (C), was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
-Section 1464(d)(2) and (d)(3) of title 12, referred to in subsec. (c)(2)(C), was amended generally by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282, and, as so amended, no longer relates to issuance of orders nor contains the term “savings account holders”.
+Section 1464(d)(2) and (d)(3) of title 12, referred to in subsec. (c)(2)(C), was amended generally by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282, and, as so amended, no longer relates to issuance of orders nor contains the term "savings account holders".
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(2). Pub. L. 111–203, §985(b)(6)(C), inserted after first sentence in concluding provisions: “The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78o–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership.”
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–203, §985(b)(6)(C), inserted after first sentence in concluding provisions: "The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78o–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership."
 
-Pub. L. 111–203, §985(b)(6)(A), (B), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, realigned margins, and, in subpar. (B), struck out “The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78o–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership.” after “grant or deny such registration.”
+Pub. L. 111–203, §985(b)(6)(A), (B), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, realigned margins, and, in subpar. (B), struck out "The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78o–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership." after "grant or deny such registration."
 
-Subsec. (c)(1)(C). Pub. L. 111–203, §929F(b)(1), substituted “any person who is, or at the time of the alleged misconduct was, associated or seeking to become associated” for “any person associated, or seeking to become associated,”.
+Subsec. (c)(1)(C). Pub. L. 111–203, §929F(b)(1), substituted "any person who is, or at the time of the alleged misconduct was, associated or seeking to become associated" for "any person associated, or seeking to become associated,".
 
-Subsec. (c)(2)(A), (B). Pub. L. 111–203, §929F(b)(2)(A), (B), inserted “, seeking to become associated, or, at the time of the alleged misconduct, associated or seeking to become associated” after “any person associated”.
+Subsec. (c)(2)(A), (B). Pub. L. 111–203, §929F(b)(2)(A), (B), inserted ", seeking to become associated, or, at the time of the alleged misconduct, associated or seeking to become associated" after "any person associated".
 
-Subsec. (g)(1). Pub. L. 111–203, §376(3), struck out “the Director of the Office of Thrift Supervision, the Federal Savings and Loan Insurance Corporation,” after “the Federal Deposit Insurance Corporation,”.
+Subsec. (g)(1). Pub. L. 111–203, §376(3), struck out "the Director of the Office of Thrift Supervision, the Federal Savings and Loan Insurance Corporation," after "the Federal Deposit Insurance Corporation,".
 
 <b>2004</b>—Subsec. (h). Pub. L. 108–458 added subsec. (h).
 
-<b>2002</b>—Subsec. (c)(1)(A), (C). Pub. L. 107–204 substituted “, or is subject to an order or finding,” for “or omission” and “(H), or (G)” for “or (G)”.
+<b>2002</b>—Subsec. (c)(1)(A), (C). Pub. L. 107–204 substituted ", or is subject to an order or finding," for "or omission" and "(H), or (G)" for "or (G)".
 
-<b>1998</b>—Subsec. (f)(5). Pub. L. 105–353 substituted “class of persons” for “class or persons”.
+<b>1998</b>—Subsec. (f)(5). Pub. L. 105–353 substituted "class of persons" for "class or persons".
 
-<b>1993</b>—Subsec. (a)(2)(ii). Pub. L. 103–202, §109(b)(1), inserted “The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78o–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership.” before “The Commission may extend”.
+<b>1993</b>—Subsec. (a)(2)(ii). Pub. L. 103–202, §109(b)(1), inserted "The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78o–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership." before "The Commission may extend".
 
 Subsec. (a)(4). Pub. L. 103–202, §108(2), added par. (4). Former par. (4) redesignated (5).
 
-Pub. L. 103–202, §103(b)(1), inserted “, other than subsection (d)(3) of this section,” after “subsection (a), (b), or (d) of this section”.
+Pub. L. 103–202, §103(b)(1), inserted ", other than subsection (d)(3) of this section," after "subsection (a), (b), or (d) of this section".
 
 Subsec. (a)(5). Pub. L. 103–202, §108(1), redesignated par. (4) as (5).
 
 Subsec. (b)(3) to (7). Pub. L. 103–202, §106(a), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
 
-Subsec. (d)(2). Pub. L. 103–202, §109(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Information received by any appropriate regulatory agency or the Secretary from or with respect to any government securities broker or government securities dealer or with respect to any person associated therewith may be made available by the Secretary or the recipient agency to the Commission, the Secretary, any appropriate regulatory agency, and any self-regulatory organization.”
+Subsec. (d)(2). Pub. L. 103–202, §109(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Information received by any appropriate regulatory agency or the Secretary from or with respect to any government securities broker or government securities dealer or with respect to any person associated therewith may be made available by the Secretary or the recipient agency to the Commission, the Secretary, any appropriate regulatory agency, and any self-regulatory organization."
 
 Subsec. (d)(3). Pub. L. 103–202, §103(a), added par. (3).
 
 Subsec. (f). Pub. L. 103–202, §104(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(2). Pub. L. 103–202, §103(b)(2), inserted “, other than subsection (d)(3) of this section” after “threatened violation of the provisions of this section” and “(except subsection (d)(3) of this section)” after “other than this section”.
+Subsec. (f)(2). Pub. L. 103–202, §103(b)(2), inserted ", other than subsection (d)(3) of this section" after "threatened violation of the provisions of this section" and "(except subsection (d)(3) of this section)" after "other than this section".
 
 Subsec. (g). Pub. L. 103–202, §104(1), redesignated subsec. (f) as (g).
 
 Pub. L. 103–202, §102, struck out subsec. (g) which read as follows:
 
-“(1) The authority of the Secretary to issue orders and to propose and adopt rules under this section shall terminate on October 1, 1991.
+"(1) The authority of the Secretary to issue orders and to propose and adopt rules under this section shall terminate on October 1, 1991.
 
-“(2) All orders and rules—
+"(2) All orders and rules—
 
-&emsp;“(A) which have been issued or adopted by the Secretary, and
+&emsp;"(A) which have been issued or adopted by the Secretary, and
 
-&emsp;“(B) which are in effect on the date specified in paragraph (1),
+&emsp;"(B) which are in effect on the date specified in paragraph (1),
 
-> shall continue in effect according to their terms.”
+> shall continue in effect according to their terms."
 
 <b>1990</b>—Subsec. (b)(2) to (6). Pub. L. 101–432 added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
 
-Subsec. (c)(1)(A), (C). Pub. L. 101–550, §203(c)(1), substituted “(A), (D), (E), or (G)” for “(A), (D), or (E)”.
+Subsec. (c)(1)(A), (C). Pub. L. 101–550, §203(c)(1), substituted "(A), (D), (E), or (G)" for "(A), (D), or (E)".
 
-Subsec. (f)(2). Pub. L. 101–550, §203(c)(2), substituted “the rules or regulations under any such other provision, or investigations pursuant to section 78u(a)(2) of this title to assist a foreign securities authority” for “or the rules or regulations under any such other provision”.
+Subsec. (f)(2). Pub. L. 101–550, §203(c)(2), substituted "the rules or regulations under any such other provision, or investigations pursuant to section 78u(a)(2) of this title to assist a foreign securities authority" for "or the rules or regulations under any such other provision".
 
-<b>1989</b>—Subsec. (f)(1). Pub. L. 101–73 substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+<b>1989</b>—Subsec. (f)(1). Pub. L. 101–73 substituted "Director of the Office of Thrift Supervision" for "Federal Home Loan Bank Board".
 
-<b>1987</b>—Subsec. (a)(1)(B)(i). Pub. L. 100–181 substituted “When such” for “When”.
+<b>1987</b>—Subsec. (a)(1)(B)(i). Pub. L. 100–181 substituted "When such" for "When".
 
 #### Effective Date of 2010 Amendment
 
@@ -326,63 +326,63 @@ Amendment by section 376(3) of Pub. L. 111–203 effective on the transfer date,
 
 Pub. L. 99–571, title IV, §§401–403, Oct. 28, 1986, 100 Stat. 3224, 3225, provided that:
 
-#### “SEC. 401. GENERAL EFFECTIVE DATES.
+#### "SEC. 401. GENERAL EFFECTIVE DATES.
 
-“Except as provided in section 402, this Act \[enacting section 78o–5 of this title and section 9110 of Title 31, Money and Finance, amending sections 78c, 78o, 78o–3, 78q, 78w, 78y, 80a–9, and 80b–3 of this title and section 3121 of Title 31, and enacting provisions set out as notes under sections 78a and 78o–5 of this title\] and the amendments made by this Act shall take effect 270 days after the date of enactment of this Act \[Oct. 28, 1986\].
+"Except as provided in section 402, this Act \[enacting section 78o–5 of this title and section 9110 of Title 31, Money and Finance, amending sections 78c, 78o, 78o–3, 78q, 78w, 78y, 80a–9, and 80b–3 of this title and section 3121 of Title 31, and enacting provisions set out as notes under sections 78a and 78o–5 of this title\] and the amendments made by this Act shall take effect 270 days after the date of enactment of this Act \[Oct. 28, 1986\].
 
-#### “SEC. 402. EFFECTIVE DATE AND REQUIREMENTS FOR REGULATIONS.
+#### "SEC. 402. EFFECTIVE DATE AND REQUIREMENTS FOR REGULATIONS.
 
-“Notwithstanding section 401, the Secretary of the Treasury and each appropriate regulatory agency shall, within 120 days after the date of enactment of this Act \[Oct. 28, 1986\], publish for notice and public comment such regulations as are initially required to implement this Act, which regulations shall become effective as temporary regulations 210 days after the date of enactment of this Act and as final regulations not later than 270 days after the date of enactment of this Act.
+"Notwithstanding section 401, the Secretary of the Treasury and each appropriate regulatory agency shall, within 120 days after the date of enactment of this Act \[Oct. 28, 1986\], publish for notice and public comment such regulations as are initially required to implement this Act, which regulations shall become effective as temporary regulations 210 days after the date of enactment of this Act and as final regulations not later than 270 days after the date of enactment of this Act.
 
-#### “SEC. 403. REGISTRATION DATE.
+#### "SEC. 403. REGISTRATION DATE.
 
-“No person may continue to act as a government securities broker or government securities dealer after 270 days after the date of enactment of this Act \[Oct. 28, 1986\] unless such person has been registered or has provided notice to the Commission or the appropriate regulatory agency as required by the amendment made by section 101 of this Act \[enacting section 78o–5 of this title\].”
+"No person may continue to act as a government securities broker or government securities dealer after 270 days after the date of enactment of this Act \[Oct. 28, 1986\] unless such person has been registered or has provided notice to the Commission or the appropriate regulatory agency as required by the amendment made by section 101 of this Act \[enacting section 78o–5 of this title\]."
 
 #### Transitional and Savings Provisions
 
 Pub. L. 99–571, title III, §301, Oct. 28, 1986, 100 Stat. 3224, provided that:
 
-“(a)
+"(a)
 
 Effect on Pending Administrative Proceedings.—The provisions of this Act \[see Effective Date note above\] shall not affect any proceedings pending on the effective date of this Act \[see Effective Date note above\].
 
-“(b)
+"(b)
 
 Effect on Pending Judicial Proceedings.—The provisions of this Act shall not affect suits commenced prior to the effective date of this Act, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and effect as if this Act had not been enacted.
 
-“(c)
+"(c)
 
 Discretion of the Federal Reserve Bank of New York.—Nothing in this Act shall be construed to limit or impair the discretion or authority of the Federal Reserve Bank of New York to require reports or establish terms and conditions in connection with the Bank's relationship with any government securities broker or government securities dealer, including a primary dealer.
 
-“(d)
+"(d)
 
-Jurisdiction of the Commodity Futures Trading Commission.—Nothing in this Act affects the jurisdiction of the Commodity Futures Trading Commission as set forth in the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] over trading of commodity futures contracts and options on such contracts involving government securities.”
+Jurisdiction of the Commodity Futures Trading Commission.—Nothing in this Act affects the jurisdiction of the Commodity Futures Trading Commission as set forth in the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] over trading of commodity futures contracts and options on such contracts involving government securities."
 
 #### Construction of 1993 Amendment
 
 Pub. L. 103–202, title I, §111, Dec. 17, 1993, 107 Stat. 2353, provided that:
 
-“(a)
+"(a)
 
 In General.—No provision of, or amendment made by, this title \[amending this section and sections 78c, 78o, 78o–3, 78s, and 78w of this title and enacting provisions set out as notes below\] may be construed—
 
-&emsp;“(1) to govern the initial issuance of any public debt obligation, or
+&emsp;"(1) to govern the initial issuance of any public debt obligation, or
 
-&emsp;“(2) to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization—
+&emsp;"(2) to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization—
 
-&emsp;&emsp;“(A) to prescribe any procedure, term, or condition of such initial issuance,
+&emsp;&emsp;"(A) to prescribe any procedure, term, or condition of such initial issuance,
 
-&emsp;&emsp;“(B) to promulgate any rule or regulation governing such initial issuance, or
+&emsp;&emsp;"(B) to promulgate any rule or regulation governing such initial issuance, or
 
-&emsp;&emsp;“(C) to otherwise regulate in any manner such initial issuance.
+&emsp;&emsp;"(C) to otherwise regulate in any manner such initial issuance.
 
-“(b)
+"(b)
 
 Exception.—Subsection (a) of this section shall not apply to the amendment made by section 110 of this Act \[amending section 78o of this title\].
 
-“(c)
+"(c)
 
-Public Debt Obligation.—For purposes of this section, the term ‘public debt obligation’ means an obligation subject to the public debt limit established in section 3101 of title 31, United States Code.”
+Public Debt Obligation.—For purposes of this section, the term 'public debt obligation' means an obligation subject to the public debt limit established in section 3101 of title 31, United States Code."
 
 #### Transfer of Functions
 
@@ -390,63 +390,63 @@ Federal Savings and Loan Insurance Corporation abolished and functions transferr
 
 #### Congressional Findings
 
-Pub. L. 103–202, title I, §101, Dec. 17, 1993, 107 Stat. 2344, provided that: “The Congress finds that—
+Pub. L. 103–202, title I, §101, Dec. 17, 1993, 107 Stat. 2344, provided that: "The Congress finds that—
 
-&emsp;“(1) the liquid and efficient operation of the government securities market is essential to facilitate government borrowing at the lowest possible cost to taxpayers;
+&emsp;"(1) the liquid and efficient operation of the government securities market is essential to facilitate government borrowing at the lowest possible cost to taxpayers;
 
-&emsp;“(2) the fair and honest treatment of investors will strengthen the integrity and liquidity of the government securities market;
+&emsp;"(2) the fair and honest treatment of investors will strengthen the integrity and liquidity of the government securities market;
 
-&emsp;“(3) rules promulgated by the Secretary of the Treasury pursuant to the Government Securities Actof 1986 \[see Short Title of 1986 Amendment note set out under section 78a of this title\] have worked well to protect investors from unregulated dealers and maintain the efficiency of the government securities market; and
+&emsp;"(3) rules promulgated by the Secretary of the Treasury pursuant to the Government Securities Act of 1986 \[see Short Title of 1986 Amendment note set out under section 78a of this title\] have worked well to protect investors from unregulated dealers and maintain the efficiency of the government securities market; and
 
-&emsp;“(4) extending the authority of the Secretary and providing new authority will ensure the continued strength of the government securities market.”
+&emsp;"(4) extending the authority of the Secretary and providing new authority will ensure the continued strength of the government securities market."
 
-Pub. L. 99–571, §1(b), Oct. 28, 1986, 100 Stat. 3208, provided that: “The Congress finds that transactions in government securities are affected with a public interest which makes it necessary—
+Pub. L. 99–571, §1(b), Oct. 28, 1986, 100 Stat. 3208, provided that: "The Congress finds that transactions in government securities are affected with a public interest which makes it necessary—
 
-&emsp;“(1) to provide for the integrity, stability, and efficiency of such transactions and of matters and practices related thereto;
+&emsp;"(1) to provide for the integrity, stability, and efficiency of such transactions and of matters and practices related thereto;
 
-&emsp;“(2) to impose adequate regulation of government securities brokers and government securities dealers generally; and
+&emsp;"(2) to impose adequate regulation of government securities brokers and government securities dealers generally; and
 
-&emsp;“(3) to require appropriate financial responsibility, recordkeeping, reporting, and related regulatory requirements;
+&emsp;"(3) to require appropriate financial responsibility, recordkeeping, reporting, and related regulatory requirements;
 
-> in order to protect investors and to insure the maintenance of fair, honest, and liquid markets in such securities.”
+> in order to protect investors and to insure the maintenance of fair, honest, and liquid markets in such securities."
 
 #### Study of Regulatory System for Government Securities
 
 Pub. L. 103–202, title I, §112, Dec. 17, 1993, 107 Stat. 2354, provided that:
 
-“(a)
+"(a)
 
 Joint Study.—The Secretary of the Treasury, the Securities and Exchange Commission, and the Board of Governors of the Federal Reserve System shall—
 
-&emsp;“(1) with respect to any rules promulgated or amended after October 1, 1991, pursuant to section 15C of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–5\] or any amendment made by this title \[amending this section and sections 78c, 78o, 78o–3, 78s, and 78w of this title\], and any national securities association rule changes applicable principally to government securities transactions approved after October 1, 1991—
+&emsp;"(1) with respect to any rules promulgated or amended after October 1, 1991, pursuant to section 15C of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–5\] or any amendment made by this title \[amending this section and sections 78c, 78o, 78o–3, 78s, and 78w of this title\], and any national securities association rule changes applicable principally to government securities transactions approved after October 1, 1991—
 
-&emsp;&emsp;“(A) evaluate the effectiveness of such rules in carrying out the purposes of such Act \[15 U.S.C. 78a et seq.\]; and
+&emsp;&emsp;"(A) evaluate the effectiveness of such rules in carrying out the purposes of such Act \[15 U.S.C. 78a et seq.\]; and
 
-&emsp;&emsp;“(B) evaluate the impact of any such rules on the efficiency and liquidity of the government securities market and the cost of funding the Federal debt;
+&emsp;&emsp;"(B) evaluate the impact of any such rules on the efficiency and liquidity of the government securities market and the cost of funding the Federal debt;
 
-&emsp;“(2) evaluate the effectiveness of surveillance and enforcement with respect to government securities, and the impact on such surveillance and enforcement of the availability of automated, time- sequenced records of essential information pertaining to trades in such securities; and
+&emsp;"(2) evaluate the effectiveness of surveillance and enforcement with respect to government securities, and the impact on such surveillance and enforcement of the availability of automated, time- sequenced records of essential information pertaining to trades in such securities; and
 
-&emsp;“(3) submit to the Congress, not later than March 31, 1998, any recommendations they may consider appropriate concerning—
+&emsp;"(3) submit to the Congress, not later than March 31, 1998, any recommendations they may consider appropriate concerning—
 
-&emsp;&emsp;“(A) the regulation of government securities brokers and government securities dealers;
+&emsp;&emsp;"(A) the regulation of government securities brokers and government securities dealers;
 
-&emsp;&emsp;“(B) the dissemination of information concerning quotations for and transactions in government securities;
+&emsp;&emsp;"(B) the dissemination of information concerning quotations for and transactions in government securities;
 
-&emsp;&emsp;“(C) the prevention of sales practice abuses in connection with transactions in government securities; and
+&emsp;&emsp;"(C) the prevention of sales practice abuses in connection with transactions in government securities; and
 
-&emsp;&emsp;“(D) such other matters as they consider appropriate.
+&emsp;&emsp;"(D) such other matters as they consider appropriate.
 
-“(b)
+"(b)
 
 Treasury Study.—The Secretary of the Treasury, in consultation with the Securities and Exchange Commission, shall—
 
-&emsp;“(1) conduct a study of—
+&emsp;"(1) conduct a study of—
 
-&emsp;&emsp;“(A) the identity and nature of the business of government securities brokers and government securities dealers that are registered with the Securities and Exchange Commission under section 15C of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–5\]; and
+&emsp;&emsp;"(A) the identity and nature of the business of government securities brokers and government securities dealers that are registered with the Securities and Exchange Commission under section 15C of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–5\]; and
 
-&emsp;&emsp;“(B) the continuing need for, and regulatory and financial consequences of, a separate regulatory system for such government securities brokers and government securities dealers; and
+&emsp;&emsp;"(B) the continuing need for, and regulatory and financial consequences of, a separate regulatory system for such government securities brokers and government securities dealers; and
 
-&emsp;“(2) submit to the Congress, not later than 18 months after the date of enactment of this Act \[Dec. 17, 1993\], the Secretary's recommendations for change, if any, or such other recommendations as the Secretary considers appropriate.”
+&emsp;"(2) submit to the Congress, not later than 18 months after the date of enactment of this Act \[Dec. 17, 1993\], the Secretary's recommendations for change, if any, or such other recommendations as the Secretary considers appropriate."
 
 #### Studies and Recommendations With Respect to Extension of Treasury Authority
 

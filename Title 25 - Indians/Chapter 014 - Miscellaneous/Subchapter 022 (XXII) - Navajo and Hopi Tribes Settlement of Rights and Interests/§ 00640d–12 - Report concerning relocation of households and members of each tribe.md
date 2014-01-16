@@ -1,6 +1,6 @@
 ### §640d–12. Report concerning relocation of households and members of each tribe
 
-(a) By no later than the date that is 6 months after the date on which the first Commissioner is confirmed by the Senate, the Commissioner shall prepare and submit to the Congress a report concerning the relocation of householdsand members thereof of each tribe and their personal property, including livestock, from lands partitioned to the other tribe pursuant to this subchapter.
+(a) By no later than the date that is 6 months after the date on which the first Commissioner is confirmed by the Senate, the Commissioner shall prepare and submit to the Congress a report concerning the relocation of households and members thereof of each tribe and their personal property, including livestock, from lands partitioned to the other tribe pursuant to this subchapter.
 
 (b) The report required under subsection (a) of this section shall contain, among other matters, the following:
 
@@ -18,7 +18,7 @@
 
 <b>1988</b>—Pub. L. 100–666 amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c).
 
-<b>1980</b>—Subsec. (c)(5). Pub. L. 96–305 substituted “ninety” for “thirty”.
+<b>1980</b>—Subsec. (c)(5). Pub. L. 96–305 substituted "ninety" for "thirty".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “as”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "as".</i>
 

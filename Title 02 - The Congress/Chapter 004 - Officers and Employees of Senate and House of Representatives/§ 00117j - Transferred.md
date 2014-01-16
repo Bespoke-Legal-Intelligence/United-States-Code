@@ -1,0 +1,6 @@
+### §117j. Transferred
+
+#### Codification
+
+Section 117j was editorially reclassified as section 5541 of this title.
+

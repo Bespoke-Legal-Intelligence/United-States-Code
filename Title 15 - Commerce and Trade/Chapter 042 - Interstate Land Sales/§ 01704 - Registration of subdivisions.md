@@ -2,7 +2,7 @@
 
 #### (a) Filing of statement of record
 
-A subdivision may be registered by filing with the Director a statement of record, meeting the requirements of this chapter and such rules and regulations as may be prescribed by the Director in furtherance of the provisions of this chapter. A statement of record shall be deemed effective only as to the lots specified therein.
+A subdivision may be registered by filing with the Director a statement of record, meeting the requirements of this chapter and such rules and regulations as may be prescribed by the Directorin furtherance of the provisions of this chapter. A statement of record shall be deemed effective only as to the lots specified therein.
 
 #### (b) Payment of fees; use by Director
 
@@ -20,7 +20,7 @@ The information contained in or filed with any statement of record shall be made
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Director” for “Secretary” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

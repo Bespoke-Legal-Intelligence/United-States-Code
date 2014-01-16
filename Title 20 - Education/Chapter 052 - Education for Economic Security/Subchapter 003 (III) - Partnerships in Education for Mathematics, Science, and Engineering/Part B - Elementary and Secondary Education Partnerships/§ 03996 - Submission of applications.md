@@ -6,7 +6,7 @@ An applicant within a State that desires to receive a grant under this part <su
 
 #### References in Text
 
-This part, referred to in text, was in the original “this chapter” and was translated as reading “this part” to reflect the probable intent of Congress because title III of Pub. L. 98–377, which comprises this subchapter, does not contain chapters.
+This part, referred to in text, was in the original "this chapter" and was translated as reading "this part" to reflect the probable intent of Congress becausetitle III of Pub. L. 98–377, which comprises this subchapter, does not contain chapters.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,9 +16,9 @@ Historical and Revision Notes
 
 200102
 
-36:5401 (1st sentence words beginning with “for the education of the general public”).
+36:5401 (1st sentence words beginning with "for the education of the general public").
 
-Mar. 3, 1901, ch. 876, §1 (1st sentence words beginning with “for the education of the general public”), 31 Stat. 1453; June 29, 1938, ch. 796, 52 Stat. 1226.
+Mar. 3, 1901, ch. 876, §1 (1st sentence words beginning with "for the education of the general public"), 31 Stat. 1453; June 29, 1938, ch. 796, 52 Stat. 1226.
 
-The words “The purposes of the corporation are” are added for consistency in the revised title. The words “to promote” are added for clarity. The words “in all their branches” are omitted as unnecessary.
+The words "The purposes of the corporation are" are added for consistency in the revised title. The words "to promote" are added for clarity. The words "in all their branches" are omitted as unnecessary.
 

@@ -20,7 +20,7 @@ Delegation of Authority.—(1) The authority of the Secretary of Defense under s
 
 &emsp;(B) to the commander of a combatant command, but only for a reward in an amount or with a value not in excess of $1,000,000.
 
-(2) A commander of a combatant command to whom authority to provide rewards under this section is delegated under paragraph (1) may further delegate that authority, but only for a reward in an amount or with a value not in excess of $10,000, except that such a delegation may be made to the commander's deputy commander, or to the commander of a command directly subordinate to that commander, without regard to such limitation. Such a delegation may be made to the commander of a commanddirectly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A).
+(2) A commander of a combatant command to whom authority to provide rewards under this section is delegated under paragraph (1) may further delegate that authority, but only for a reward in an amount or with a value not in excess of $10,000, except that such a delegation may be made to the commander's deputy commander, or to the commander of a command directly subordinate to that commander, without regard to such limitation. Such a delegation may be made to the commander of a command directly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A).
 
 (3)(A) Subject to subparagraphs (B) and (C), an official who has authority delegated under paragraph (1) or (2) may use that authority, acting through government personnel of allied forces, to offer and make rewards.
 
@@ -88,39 +88,39 @@ Determinations by the Secretary.—A determination by the Secretary under this s
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(3)(C). Pub. L. 112–239 substituted “September 30, 2014” for “September 30, 2013”.
+<b>2013</b>—Subsec. (c)(3)(C). Pub. L. 112–239 substituted "September 30, 2014" for "September 30, 2013".
 
-<b>2011</b>—Subsec. (c)(3)(C). Pub. L. 112–81, §1033(1), substituted “September 30, 2013” for “September 30, 2011”.
+<b>2011</b>—Subsec. (c)(3)(C). Pub. L. 112–81, §1033(1), substituted "September 30, 2013" for "September 30, 2011".
 
-Pub. L. 111–383 substituted “2011” for “2010”.
+Pub. L. 111–383 substituted "2011" for "2010".
 
-Subsec. (f)(1). Pub. L. 112–81, §1064(3), which directed the substitution of “February 1” for “December 1”, could not be executed because of the intervening amendment by Pub. L. 112–81, §1033(2)(A). See note below.
+Subsec. (f)(1). Pub. L. 112–81, §1064(3), which directed the substitution of "February 1" for "December 1", could not be executed because of the intervening amendment by Pub. L. 112–81, §1033(2)(A). See note below.
 
-Pub. L. 112–81, §1033(2)(A), substituted “February” for “December”.
+Pub. L. 112–81, §1033(2)(A), substituted "February" for "December".
 
-Subsec. (f)(2)(C)(ii). Pub. L. 112–81, §1033(2)(B)(i), inserted “and the recipient's geographic location” after “reward”.
+Subsec. (f)(2)(C)(ii). Pub. L. 112–81, §1033(2)(B)(i), inserted "and the recipient's geographic location" after "reward".
 
 Subsec. (f)(2)(E) to (G). Pub. L. 112–81, §1033(2)(B)(ii), added subpars. (E) to (G).
 
-<b>2009</b>—Subsec. (c)(3)(C). Pub. L. 111–84 substituted “2010” for “2009”.
+<b>2009</b>—Subsec. (c)(3)(C). Pub. L. 111–84 substituted "2010" for "2009".
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, §1033(b)(1)(A), in introductory provisions, inserted “, or government personnel of allied forces participating in a combined operation with the armed forces,” after “United States Government personnel”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §1033(b)(1)(A), in introductory provisions, inserted ", or government personnel of allied forces participating in a combined operation with the armed forces," after "United States Government personnel".
 
-Subsec. (a)(1). Pub. L. 110–181, §1033(b)(1)(B), inserted “, or of allied forces participating in a combined operation with the armed forces,” after “armed forces”.
+Subsec. (a)(1). Pub. L. 110–181, §1033(b)(1)(B), inserted ", or of allied forces participating in a combined operation with the armed forces," after "armed forces".
 
-Subsec. (a)(2). Pub. L. 110–181, §1033(b)(1)(C), inserted “, or of allied forces participating in a combined operation with the armed forces” after “armed forces”.
+Subsec. (a)(2). Pub. L. 110–181, §1033(b)(1)(C), inserted ", or of allied forces participating in a combined operation with the armed forces" after "armed forces".
 
-Subsec. (b). Pub. L. 110–181, §1033(a)(1), substituted “$5,000,000” for “$200,000”.
+Subsec. (b). Pub. L. 110–181, §1033(a)(1), substituted "$5,000,000" for "$200,000".
 
-Subsec. (c)(1)(B). Pub. L. 110–181, §1033(a)(2), substituted “$1,000,000” for “$50,000”.
+Subsec. (c)(1)(B). Pub. L. 110–181, §1033(a)(2), substituted "$1,000,000" for "$50,000".
 
 Subsec. (c)(3). Pub. L. 110–181, §1033(b)(2), added par. (3).
 
-Subsec. (d)(2). Pub. L. 110–181, §1033(a)(3), substituted “$2,000,000” for “$100,000”.
+Subsec. (d)(2). Pub. L. 110–181, §1033(a)(3), substituted "$2,000,000" for "$100,000".
 
 Subsec. (f)(2)(D). Pub. L. 110–181, §1033(c), added subpar. (D).
 
-<b>2006</b>—Subsec. (c)(2). Pub. L. 109–364 substituted “$10,000” for “$2,500”, inserted “, or to the commander of a command directly subordinate to that commander,” after “deputy commander”, and inserted at end “Such a delegation may be made to the commander of a command directly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A).”
+<b>2006</b>—Subsec. (c)(2). Pub. L. 109–364 substituted "$10,000" for "$2,500", inserted ", or to the commander of a command directly subordinate to that commander," after "deputy commander", and inserted at end "Such a delegation may be made to the commander of a command directly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A)."
 
-Subsec. (d)(1). Pub. L. 109–163 substituted “Such policies” for “Such polices”.
+Subsec. (d)(1). Pub. L. 109–163 substituted "Such policies" for "Such polices".
 

@@ -16,11 +16,11 @@ The Secretary shall reserve not more than one-half of 1 percent of the amount ap
 
 #### (2) Young child factor
 
-&emsp;In this subsection, the term “young child factor” means the ratio of the number of children under 5 years of age in a State to the number of such children in all States, as provided by the most recent annual estimates of population in the States by the Census Bureau of the Department of Commerce.
+&emsp;In this subsection, the term "young child factor" means the ratio of the number of children under 5 years of age in a State to the number of such children in all States, as provided by the most recent annual estimates of population in the States by the Census Bureau of the Department of Commerce.
 
 #### (3) School lunch factor
 
-&emsp;In this subsection, the term “school lunch factor” means the ratio of the number of children who are receiving free or reduced price lunches under the school lunch program established under the National School Lunch Act (42 U.S.C. 1751 et seq.) in the State to the number of such children in all States, as determined annually by the Department of Agriculture.
+&emsp;In this subsection, the term "school lunch factor" means the ratio of the number of children who are receiving free or reduced price lunches under the school lunch program established under the National School Lunch Act (42 U.S.C. 1751 et seq.) in the State to the number of such children in all States, as determined annually by the Department of Agriculture.
 
 #### (4) Allotment percentage
 
@@ -52,7 +52,7 @@ The Secretary shall obtain from each appropriate Federal agency, the most recent
 
 #### (d) Definition
 
-In this section, the term “State” includes only the several States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+In this section, the term "State" includes only the several States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (Pub. L. 106–310, div. A, title XIV, §1404, Oct. 17, 2000, 114 Stat. 1143.)
 

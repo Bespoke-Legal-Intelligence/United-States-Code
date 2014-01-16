@@ -46,27 +46,27 @@ Termination.—The requirement to carry out the program under this section shall
 
 #### Prior Provisions
 
-A prior section 2365, added Pub. L. 99–500, §101(c) \[title X, §909(a)(1), formerly §909(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–142, and Pub. L. 99–591, §101(c) \[title X, §909(a)(1), formerly §909(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–142, redesignated §909(a)(1), Pub. L. 100–26, §4(b), Apr. 21, 1987, 101 Stat. 274; Pub. L. 99–661, div. A, title IX, formerly title IV, §909(a)(1), Nov. 14, 1986, 100 Stat. 3921, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §5(3)(A), Apr. 21, 1987, 101 Stat. 274; Pub. L. 100–456, div. A, title VIII, §802, Sept. 29, 1988, 102 Stat. 2008, required use of competitive prototype program strategy in development of major weapons systems, prior to repeal by Pub. L. 102–484, div. A, title VIII, §821(c)(1), Oct. 23, 1992, 106 Stat. 2460.
+A prior section 2365, added Pub. L. 99–500, §101(c) \[title X, §909(a)(1), formerly §909(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–142, and Pub. L. 99–591, §101(c) \[title X, §909(a)(1), formerly §909(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–142, redesignated §909(a)(1), Pub. L. 100–26, §4(b), Apr. 21, 1987, 101 Stat. 274; Pub. L. 99–661, div. A, title IX, formerly title IV, §909(a)(1), Nov. 14, 1986, 100 Stat. 3921, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §5(3)(A), Apr. 21, 1987, 101 Stat. 274; Pub. L. 100–456, div. A, title VIII, §802, Sept. 29, 1988, 102 Stat. 2008, required use of competitive prototype program strategy in development ofmajor weapons systems, prior to repeal by Pub. L. 102–484, div. A, title VIII, §821(c)(1), Oct. 23, 1992, 106 Stat. 2460.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239, §1076(c)(2)(B)(i), inserted “of Defense for Research and Engineering” after “The Assistant Secretary”.
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §1076(c)(2)(B)(i), inserted "of Defense for Research and Engineering" after "The Assistant Secretary".
 
-Subsec. (d)(3)(A). Pub. L. 112–239, §1076(c)(2)(B)(ii), substituted “Assistant Secretary” for “Director”.
+Subsec. (d)(3)(A). Pub. L. 112–239, §1076(c)(2)(B)(ii), substituted "Assistant Secretary" for "Director".
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383, §901(j)(3)(A), substituted “Assistant Secretary” for “Director of Defense Research and Engineering”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–383, §901(j)(3)(A), substituted "Assistant Secretary" for "Director of Defense Research and Engineering".
 
-Subsec. (d)(1). Pub. L. 111–383, §901(j)(3)(B), substituted “Assistant Secretary” for “Director”.
+Subsec. (d)(1). Pub. L. 111–383, §901(j)(3)(B), substituted "Assistant Secretary" for "Director".
 
-Subsec. (d)(2). Pub. L. 111–383, §901(j)(3)(C), substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering” and “Assistant Secretary may” for “Director may”.
+Subsec. (d)(2). Pub. L. 111–383, §901(j)(3)(C), substituted "Assistant Secretary of Defense for Research and Engineering" for "Director of Defense Research and Engineering" and "Assistant Secretary may" for "Director may".
 
-Subsec. (e). Pub. L. 111–383, §901(j)(3)(D), substituted “Assistant Secretary” for “Director”.
+Subsec. (e). Pub. L. 111–383, §901(j)(3)(D), substituted "Assistant Secretary" for "Director".
 
 <b>2009</b>—Subsec. (d)(3). Pub. L. 111–84, §211(a), added par. (3).
 
-Subsec. (f). Pub. L. 111–84, §211(b), substituted “2015” for “2011”.
+Subsec. (f). Pub. L. 111–84, §211(b), substituted "2015" for "2011".
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–364 substituted “2011” for “2006”.
+<b>2006</b>—Subsec. (f). Pub. L. 109–364 substituted "2011" for "2006".
 
 #### Effective Date of 2011 Amendment
 

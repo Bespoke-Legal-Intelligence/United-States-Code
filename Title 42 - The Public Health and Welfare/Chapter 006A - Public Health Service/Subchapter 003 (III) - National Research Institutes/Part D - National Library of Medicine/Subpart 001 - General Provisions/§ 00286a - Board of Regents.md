@@ -22,7 +22,7 @@ Each appointed member of the Board shall hold office for a term of four years, e
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(1)(B). Pub. L. 103–43 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1993</b>—Subsec. (a)(1)(B). Pub. L. 103–43 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director".
 

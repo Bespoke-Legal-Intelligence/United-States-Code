@@ -1,0 +1,6 @@
+### §74a–12. Transferred
+
+#### Codification
+
+Section 74a–12 was editorially reclassified as section 5124 of this title.
+

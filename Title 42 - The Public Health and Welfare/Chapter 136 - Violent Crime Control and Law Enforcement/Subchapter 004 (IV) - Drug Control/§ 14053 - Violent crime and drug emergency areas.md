@@ -4,9 +4,9 @@
 
 In this section—
 
-&emsp;“major violent crime or drug-related emergency” means an occasion or instance in which violent crime, drug smuggling, drug trafficking, or drug abuse violence reaches such levels, as determined by the President, that Federal assistance is needed to supplement State and local efforts and capabilities to save lives, and to protect property and public health and safety.
+&emsp;"major violent crime or drug-related emergency" means an occasion or instance in which violent crime, drug smuggling, drug trafficking, or drug abuse violence reaches such levels, as determined by the President, that Federal assistance is needed to supplement State and local efforts and capabilities to save lives, and to protect property and public health and safety.
 
-&emsp;“State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
+&emsp;"State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
 #### (b) Declaration of violent crime and drug emergency areas
 
@@ -44,7 +44,7 @@ The Attorney General shall review a request submitted pursuant to this section, 
 
 The President may—
 
-&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federallaw (including personnel, equipment, supplies, facilities, financial assistance, and managerial, technical, and advisory services) in support of State and local assistance efforts; and
+&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, financial assistance, and managerial, technical, and advisory services) in support of State and local assistance efforts; and
 
 &emsp;(2) provide technical and advisory assistance, including communications support and law enforcement-related intelligence information.
 

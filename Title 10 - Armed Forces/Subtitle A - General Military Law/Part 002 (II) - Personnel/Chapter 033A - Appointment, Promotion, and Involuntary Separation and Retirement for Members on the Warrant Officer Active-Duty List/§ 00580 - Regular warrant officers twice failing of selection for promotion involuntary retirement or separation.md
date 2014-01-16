@@ -18,7 +18,7 @@
 
 (5) A warrant officer who is subject to retirement or discharge under this subsection is not eligible for further consideration for promotion.
 
-(6) In this subsection, the term “creditable active service” means active service that could be credited to a warrant officer under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114).
+(6) In this subsection, the term "creditable active service" means active service that could be credited to a warrant officer under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114).
 
 (b) The Secretary concerned may defer, for not more than four months, the retirement or separation under this section of a warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date on which he would otherwise be required to retire or be separated under this section.
 
@@ -34,7 +34,7 @@
 
 (2)(A) A warrant officer who is selected for continuation on active duty under this subsection but declines to continue on active duty shall be discharged, retired, or retained on active duty, as appropriate, in accordance with this section.
 
-(B) A warrant officer in the grade of chief warrant officer, W–4, who is retained on active duty pursuant to procedures prescribed under paragraph (1)(B) is eligible for further consideration for promotion while remaining on active duty.
+(B) A warrant officer in the grade of chief warrant officer, W–4, who is retained on active dutypursuant to procedures prescribed under paragraph (1)(B) is eligible for further consideration for promotion while remaining on active duty.
 
 (3) Each warrant officer who is continued on active duty under this subsection, not subsequently promoted or continued on active duty, and not on a list of warrant officers recommended for continuation or for promotion to the next higher regular grade shall, unless sooner retired or discharged under another provision of law—
 
@@ -66,17 +66,17 @@ Provisions similar to those in this section were contained in section 564 of thi
 
 <b>2011</b>—Subsec. (f). Pub. L. 111–383 added subsec. (f).
 
-<b>2006</b>—Subsec. (e)(1). Pub. L. 109–364, §505(a), substituted “continued on active duty if—” and subpars. (A) and (B) for “continued on active duty if he is selected for continuation on active duty by a selection board convened under section 573(c) of this title.”
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–364, §505(a), substituted "continued on active duty if—" and subpars. (A) and (B) for "continued on active duty if he is selected for continuation on active duty by a selection board convened under section 573(c) of this title."
 
 Subsec. (e)(2). Pub. L. 109–364, §505(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
-<b>2002</b>—Subsec. (e)(6). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (e)(6). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1994</b>—Subsec. (a)(4)(B). Pub. L. 103–337, §541(b)(5)(A), inserted “, or severance pay computed under section 286a of title 14, as appropriate,” after “section 1174 of this title”.
+<b>1994</b>—Subsec. (a)(4)(B). Pub. L. 103–337, §541(b)(5)(A), inserted ", or severance pay computed under section 286a of title 14, as appropriate," after "section 1174 of this title".
 
-Subsec. (e)(6). Pub. L. 103–337, §541(b)(5)(B), inserted “and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense”.
+Subsec. (e)(6). Pub. L. 103–337, §541(b)(5)(B), inserted "and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy," after "Secretary of Defense".
 
-<b>1993</b>—Subsec. (a)(4)(A). Pub. L. 103–160, §505(a)(1), inserted “(except as provided in subparagraph (C))” after “shall be separated”.
+<b>1993</b>—Subsec. (a)(4)(A). Pub. L. 103–160, §505(a)(1), inserted "(except as provided in subparagraph (C))" after "shall be separated".
 
 Subsec. (a)(4)(C). Pub. L. 103–160, §505(a)(2), added subpar. (C).
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–160, div. A, title V, §505(b), Nov. 30, 1993, 107 Stat. 1646, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to warrant officers who have not been separated pursuant to section 580(a)(4) of title 10, United States Code, before the date of enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title V, §505(b), Nov. 30, 1993, 107 Stat. 1646, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to warrant officers who have not been separated pursuant to section 580(a)(4) of title 10, United States Code, before the date of enactment of this Act \[Nov. 30, 1993\]."
 
 #### Retired and Retainer Pay of Members on Retired Lists or Receiving Retainer Pay
 

@@ -18,31 +18,31 @@ This title, the first time appearing in subsec. (b), means title XVI of Pub. L. 
 
 #### Definitions
 
-Pub. L. 110–417, \[div. A\], title XVI, §1603, Oct. 14, 2008, 122 Stat. 4653, provided that: “In this title \[enacting this section, sections 2368 and 2734 of this title, and provisions set out as notes under sections 2151 and 2368 of this title\]:
+Pub. L. 110–417, \[div. A\], title XVI, §1603, Oct. 14, 2008, 122 Stat. 4653, provided that: "In this title \[enacting this section, sections 2368 and 2734 of this title, and provisions set out as notes under sections 2151 and 2368 of this title\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Administrator.—The term ‘Administrator’ means the Administrator of the United States Agency for International Development.
+Administrator.—The term 'Administrator' means the Administrator of the United States Agency for International Development.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Agency.—The term ‘agency’ means any entity included in chapter 1 of title 5, United States Code.
+Agency.—The term 'agency' means any entity included in chapter 1 of title 5, United States Code.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Department.—Except as otherwise provided in this title, the term ‘Department’ means the Department of State.
+Department.—Except as otherwise provided in this title, the term 'Department' means the Department of State.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Personnel.—The term ‘personnel’ means individuals serving in any service described in section 2101 of title 5, United States Code, other than in the legislative or judicial branch.
+Personnel.—The term 'personnel' means individuals serving in any service described in section 2101 of title 5, United States Code, other than in the legislative or judicial branch.
 
-&emsp;“(6)
+&emsp;"(6)
 
-Secretary.—The term ‘Secretary’ means the Secretary of State.”
+Secretary.—The term 'Secretary' means the Secretary of State."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

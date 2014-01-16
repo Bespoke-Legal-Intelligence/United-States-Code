@@ -6,11 +6,11 @@ Definitions.—In this section, the following definitions shall apply:
 
 &emsp;(1)
 
-Recipient.—The term “recipient” means a designated recipient or a State that receives a grant under this section directly.
+Recipient.—The term "recipient" means a designated recipient or a State that receives a grant under this section directly.
 
 &emsp;(2)
 
-Subrecipient.—The term “subrecipient” means a State or local governmental authority, a private nonprofit organization, or an operator of public transportation that receives a grant under this section indirectly through a recipient.
+Subrecipient.—The term "subrecipient" means a State or local governmental authority, a private nonprofit organization, or an operator of public transportation that receives a grant under this section indirectly through a recipient.
 
 (b)
 
@@ -264,7 +264,7 @@ Historical and Revision Notes
 
 5310(a)
 
-49 App.:1612(b) (1st sentence words before cl. (1)), cls. (1) (words before 3d comma), (2) (words before “with such grants”).
+49 App.:1612(b) (1st sentence words before cl. (1)), cls. (1) (words before 3d comma), (2) (words before "with such grants").
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §16(b) (1st sentence); added Oct. 15, 1970, Pub. L. 91–453, §8, 84 Stat. 967; restated Aug. 13, 1973, Pub. L. 93–87, §301(g), 87 Stat. 295; Dec. 18, 1991, Pub. L. 102–240, §3021(1)– (4), 105 Stat. 2110.
 
@@ -284,7 +284,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §16(c); added Dec. 18, 1991, Pub.
 
 5310(e)
 
-49 App.:1612(b) (1st sentence cls. (1) (words after 3d comma), (2) (words after “service under this subsection”)).
+49 App.:1612(b) (1st sentence cls. (1) (words after 3d comma), (2) (words after "service under this subsection")).
 
 5310(f)
 
@@ -314,25 +314,25 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §18(g) (related to §16(b)); adde
 
 Nov. 26, 1974, Pub. L. 93–503, §108, 88 Stat. 1572.
 
-In this section, the words “governmental authorities” are substituted for “public bodies” because of section 5302(a) of the revised title.
+In this section, the words "governmental authorities" are substituted for "public bodies" because of section 5302(a) of the revised title.
 
-In subsection (a), before clause (1), the words “In addition to the grants and loans otherwise provided for under this chapter” are omitted as surplus. In clauses (1) and (2), the words “the specific purpose of” are omitted as surplus. In clause (1), the words “or agencies thereof” are omitted as surplus.
+In subsection (a), before clause (1), the words "In addition to the grants and loans otherwise provided for under this chapter" are omitted as surplus. In clauses (1) and (2), the words "the specific purpose of" are omitted as surplus. In clause (1), the words "or agencies thereof" are omitted as surplus.
 
-In subsection (b), the words “for expenditure”, “to the States”, and “amounts of a” are omitted as surplus.
+In subsection (b), the words "for expenditure", "to the States", and "amounts of a" are omitted as surplus.
 
-In subsection (d), the words “A recipient of amounts under this section” are added for clarity to correct an error in the source provisions. The words “under a contract, lease, or other arrangement” are omitted as surplus.
+In subsection (d), the words "A recipient of amounts under this section" are added for clarity to correct an error in the source provisions. The words "under a contract, lease, or other arrangement" are omitted as surplus.
 
-In subsection (e), the words “terms, conditions . . . and provisions” are omitted as surplus.
+In subsection (e), the words "terms, conditions . . . and provisions" are omitted as surplus.
 
-In subsection (e)(1), the words “and is deemed” are substituted for “and being considered for the purposes of all other laws” for consistency in the revised title and with other titles of the United States Code.
+In subsection (e)(1), the words "and is deemed" are substituted for "and being considered for the purposes of all other laws" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (e)(2), the words “insofar as may be appropriate” and “necessary or . . . for purposes of this paragraph” are omitted as surplus.
+In subsection (e)(2), the words "insofar as may be appropriate" and "necessary or . . . for purposes of this paragraph" are omitted as surplus.
 
-In subsection (f), the words “any applicable” are omitted as surplus. The words “prescribe regulations establishing” are substituted for “not later than ninety days after January 6, 1983, publish in the Federal Register for public comment, proposed regulations and, not later than one hundred and eighty days after January 6, 1983, promulgate final regulations, establishing” to eliminate unnecessary and executed words. Section 3021(1) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2110) is applied to 49 App.:1612(e) to carry out the apparent intent of Congress.
+In subsection (f), the words "any applicable" are omitted as surplus. The words "prescribe regulations establishing" are substituted for "not later than ninety days after January 6, 1983, publish in the Federal Register for public comment, proposed regulations and, not later than one hundred and eighty days after January 6, 1983, promulgate final regulations, establishing" to eliminate unnecessary and executed words. Section 3021(1) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2110) is applied to 49 App.:1612(e) to carry out the apparent intent of Congress.
 
-In subsection (g), the words “not later than 60 days following December 18, 1991” are omitted as obsolete. The words “and agencies” are omitted as surplus.
+In subsection (g), the words "not later than 60 days following December 18, 1991" are omitted as obsolete. The words "and agencies" are omitted as surplus.
 
-In subsection (j), the words “elderly individuals and individuals with disabilities” are substituted for “elderly and handicapped persons” for consistency.
+In subsection (j), the words "elderly individuals and individuals with disabilities" are substituted for "elderly and handicapped persons" for consistency.
 
 #### References in Text
 
@@ -348,9 +348,9 @@ The date of enactment of the Federal Public Transportation Act of 2012, referred
 
 <b>2005</b>—Pub. L. 109–59, §3012(a), amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (j) relating to formula grants and loans for special needs of elderly individuals and individuals with disabilities.
 
-Subsec. (h). Pub. L. 109–59, §3002(b)(2), substituted “Public” for “Mass”.
+Subsec. (h). Pub. L. 109–59, §3002(b)(2), substituted "Public" for "Mass".
 
-<b>1998</b>—Pub. L. 105–178 substituted “Formula grants” for “Grants” in section catchline.
+<b>1998</b>—Pub. L. 105–178 substituted "Formula grants" for "Grants" in section catchline.
 
 #### Effective Date of 2012 Amendment
 

@@ -4,11 +4,11 @@
 
 (b) For purposes of this section, the provision of documents and materials to the Congress shall not constitute an offense under subsection (a).
 
-(c) In this section, the term “classified information of the United States” means information originated, owned, or possessed by the United States Government concerning the national defense or foreign relations of the United States that has been determined pursuant to law or Executive order to require protection against unauthorized disclosure in the interests of national security.
+(c) In this section, the term "classified information of the United States" means information originated, owned, or possessed by the United States Government concerning the national defense or foreign relations of the United States that has been determined pursuant to law or Executive order to require protection against unauthorized disclosure in the interests of national security.
 
 (Added Pub. L. 103–359, title VIII, §808(a), Oct. 14, 1994, 108 Stat. 3453; amended Pub. L. 107–273, div. B, title IV, §4002(d)(1)(C)(i), Nov. 2, 2002, 116 Stat. 1809.)
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–273 substituted “under this title” for “not more than $1,000,”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 substituted "under this title" for "not more than $1,000,".
 

@@ -20,9 +20,9 @@ When any agency of the United States Government provides services on an advance-
 
 &emsp;(B) as to the status and responsibility of the designated end-user and his ability effectively to use and maintain such property; and
 
-&emsp;(C) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing,crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
+&emsp;(C) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing, crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
 
-(2) For purposes of transferring property described in this subsection in furtherance of the provisions of part VIII of subchapter I of this chapter, the phrase “the agency administering such subchapter I” shall be considered to refer to the Department of State.
+(2) For purposes of transferring property described in this subsection in furtherance of the provisions of part VIII of subchapter I of this chapter, the phrase "the agency administering such subchapter I" shall be considered to refer to the Department of State.
 
 #### (d) Transfer of Government-owned excess property to enhance environmental protection in foreign countries
 
@@ -34,11 +34,11 @@ The Secretary of State, acting through the Assistant Secretary of State for Ocea
 
 &emsp;(3) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing, crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
 
-(Pub. L. 87–195, pt. III, §607, Sept. 4, 1961, 75 Stat. 441; Pub. L. 90–554, pt. III, §301(b), Oct. 8, 1968, 82 Stat. 963; Pub. L. 94–161, title III, §315, Dec. 20, 1975, 89 Stat. 867; Pub. L. 95–88, title I, §122(a), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–424, title V, §503, Oct. 6, 1978, 92 Stat. 959; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 99–93, title I, §129, Aug. 16, 1985, 99 Stat. 419.)
+(Pub. L. 87–195, pt. III, §607, Sept. 4, 1961, 75 Stat. 441; Pub. L. 90–554, pt. III, §301(b), Oct. 8, 1968, 82 Stat. 963; Pub. L. 94–161, title III, §315, Dec. 20, 1975, 89 Stat. 867; Pub. L. 95–88, title I, §122(a), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–424, title V, §503, Oct. 6, 1978, 92 Stat. 959; 1978 Reorg. PlanNo. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 99–93, title I, §129, Aug. 16, 1985, 99 Stat. 419.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -50,19 +50,19 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 #### Amendments
 
-<b>1985</b>—Subsec. (c)(1). Pub. L. 99–93, §129(1)(A), (B), designated existing provisions of subsec. (c) as par. (1), redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and in introductory provisions of par. (1) as so designated substituted “Except as provided in subsection (d) of this section, no” for “No”.
+<b>1985</b>—Subsec. (c)(1). Pub. L. 99–93, §129(1)(A), (B), designated existing provisions of subsec. (c) as par. (1), redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and in introductory provisions of par. (1) as so designated substituted "Except as provided in subsection (d) of this section, no" for "No".
 
 Subsec. (c)(2). Pub. L. 99–93, §129(1)(C), added par. (2).
 
 Subsec. (d). Pub. L. 99–93, §129(2), added subsec. (d).
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–53 substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–53 substituted "Agency for International Development" for "Advisory Committee on Voluntary Foreign Aid".
 
 <b>1978</b>—Subsecs. (b), (c). Pub. L. 95–424 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–88 inserted “(including foreign voluntary nonprofit relief agencies so registered and approved when no United States voluntary nonprofit relief agency is available)” after “and voluntary nonprofit relief agencies registered with and approved by the Advisory Committee on Voluntary Foreign Aid” in provisions preceding par. (1).
+<b>1977</b>—Subsec. (a). Pub. L. 95–88 inserted "(including foreign voluntary nonprofit relief agencies so registered and approved when no United States voluntary nonprofit relief agency is available)" after "and voluntary nonprofit relief agencies registered with and approved by the Advisory Committee on Voluntary Foreign Aid" in provisions preceding par. (1).
 
-<b>1975</b>—Subsec. (a). Pub. L. 94–161 substituted “currently” for “current”, incorporated text following “Such advances or reimbursements” in provisions designated cl. (1) and added cl. (2).
+<b>1975</b>—Subsec. (a). Pub. L. 94–161 substituted "currently" for "current", incorporated text following "Such advances or reimbursements" in provisions designated cl. (1) and added cl. (2).
 
 <b>1968</b>—Pub. L. 90–554 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -76,11 +76,11 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Regulations
 
-Pub. L. 95–88, title I, §122(b), Aug. 3, 1977, 91 Stat. 541, provided that: “For purposes of implementing the amendment made by subsection (a) \[amending this section\], the President shall issue regulations governing registration with and approval by the Advisory Committee on Voluntary Foreign Aid of foreign voluntary nonprofit agencies.”
+Pub. L. 95–88, title I, §122(b), Aug. 3, 1977, 91 Stat. 541, provided that: "For purposes of implementing the amendment made by subsection (a) \[amending this section\], the President shall issue regulations governing registration with and approval by the Advisory Committee on Voluntary Foreign Aid of foreign voluntary nonprofit agencies."
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### Authority of Secretary of State
 
@@ -100,7 +100,7 @@ By virtue of the authority vested in me by the Constitution and laws of the Unit
 
 (A) the functions under section 607 of the Foreign Assistance Act of 1961, as amended (FAA) \[22 U.S.C. 2357\], to the Secretary of State and to the Administrator of the Agency for International Development, respectively, for matters within their respective areas of responsibility; and
 
-(B) the functions in the first proviso under the heading “Population, Development Assistance,” contained in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1995 (Public Law 103–306) \[108 Stat. 1611\], and in comparable provisions in successor legislation, to the Secretary of State relating to those organizations and programs for which the Secretary of State has funding responsibility.
+(B) the functions in the first proviso under the heading "Population, Development Assistance," contained in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1995 (Public Law 103–306) \[108 Stat. 1611\], and in comparable provisions in successor legislation, to the Secretary of State relating to those organizations and programs for which the Secretary of State has funding responsibility.
 
 The delegations of authority described in subparagraph (A) are in addition to other delegations of such authority to the International Development Cooperation Agency.
 
@@ -116,5 +116,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed byappropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

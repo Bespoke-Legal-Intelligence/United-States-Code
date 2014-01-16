@@ -30,7 +30,7 @@ The Secretary shall administer the national park and the preserve in accordance 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Secretary shall permit hunting, fishing, and trapping on land and water within the preserve inaccordance with applicable Federal and State laws.
+&emsp;Except as provided in paragraph (2), the Secretary shall permit hunting, fishing, and trapping on land and water within the preserve in accordance with applicable Federal and State laws.
 
 #### (2) Administrative exceptions
 

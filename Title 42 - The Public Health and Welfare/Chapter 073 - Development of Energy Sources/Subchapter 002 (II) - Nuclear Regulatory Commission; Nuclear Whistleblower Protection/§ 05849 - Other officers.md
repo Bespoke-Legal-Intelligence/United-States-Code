@@ -14,7 +14,7 @@ The Executive Director shall report to the Commission at semi-annual public meet
 
 #### (d) Annual status report
 
-The Executive Director shall prepare and forward to the Commission an annual report (forthe fiscal year 1978 and each succeeding fiscal year) on the status of the Commission's programs concerning domestic safeguards matters including an assessment of the effectiveness and adequacy of safeguards at facilities and activities licensed by the Commission. The Commission shall forward to the Congress a report under this section prior to February 1, 1979, as a separate document, and prior to February 1 of each succeeding year as a separate chapter of the Commission's annual report (required under section 5877(c) of this title) following the fiscal year to which such report applies.
+The Executive Director shall prepare and forward to the Commission an annual report (for the fiscal year 1978 and each succeeding fiscal year) on the status of the Commission's programs concerning domestic safeguards matters including an assessment of the effectiveness and adequacy of safeguards at facilities and activities licensed by the Commission. The Commission shall forward to the Congress a report under this section prior to February 1, 1979, as a separate document, and prior to February 1 of each succeeding year as a separate chapter of the Commission's annual report (required under section 5877(c) of this title) following the fiscal year to which such report applies.
 
 #### (e) Additional officers
 
@@ -24,7 +24,7 @@ There shall be in the Commission not more than five additional officers appointe
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Amendments
 

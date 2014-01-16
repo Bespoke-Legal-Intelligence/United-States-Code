@@ -6,5 +6,5 @@ There is authorized to be appropriated such sums as may be necessary for expendi
 
 #### Amendments
 
-<b>1934</b>—Act June 21, 1934, substituted “Mediation Board” for “Board of Mediation”.
+<b>1934</b>—Act June 21, 1934, substituted "Mediation Board" for "Board of Mediation".
 

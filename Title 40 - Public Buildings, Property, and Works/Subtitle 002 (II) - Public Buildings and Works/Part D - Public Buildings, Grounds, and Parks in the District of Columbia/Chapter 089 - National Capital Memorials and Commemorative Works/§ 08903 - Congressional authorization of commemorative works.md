@@ -70,19 +70,19 @@ Pub. L. 99–652, §3, Nov. 14, 1986, 100 Stat. 3651; Pub. L. 100–202, §101(f
 
 Pub. L. 99–652, §10(b), Nov. 14, 1986, 100 Stat. 3654; Pub. L. 102–216, §1, Dec. 11, 1991, 105 Stat. 1666.
 
-In subsection (a)(1), the words “in the District of Columbia and its environs” are omitted as unnecessary.
+In subsection (a)(1), the words "in the District of Columbia and its environs" are omitted as unnecessary.
 
-In subsection (d), the words “House Administration” are substituted for “House Oversight” because the name of the Committee was changed in the 106th Congress. See Rule X(1)(i) of the Rules of the House of Representatives.
+In subsection (d), the words "House Administration" are substituted for "House Oversight" because the name of the Committee was changed in the 106th Congress. See Rule X(1)(i) of the Rules of the House of Representatives.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d). Pub. L. 111–11, which directed insertion of “Natural” before “Resources”, was executed bymaking the insertion before “Resources of the House”, to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (d). Pub. L. 111–11, which directed insertion of "Natural" before "Resources", was executed bymaking the insertion before "Resources of the House", to reflect the probable intent of Congress.
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–126, §203(c)(1), substituted “work solely commemorating a limited military engagement” for “work commemorating a lesser conflict” and “such war or conflict” for “the event”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–126, §203(c)(1), substituted "work solely commemorating a limited military engagement" for "work commemorating a lesser conflict" and "such war or conflict" for "the event".
 
-Subsec. (d). Pub. L. 108–126, §203(c)(2), substituted “Memorial Advisory Commission” for “Memorial Commission” in heading, and in text substituted “Resources” for “House Administration” and inserted “Advisory” before “Commission”.
+Subsec. (d). Pub. L. 108–126, §203(c)(2), substituted "Memorial Advisory Commission" for "Memorial Commission" in heading, and in text substituted "Resources" for "House Administration" and inserted "Advisory" before "Commission".
 
-Subsec. (e). Pub. L. 108–126, §203(c)(3), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Legislative authority for a commemorative work expires at the end of the seven–year period beginning on the date the authority is enacted unless the Secretary of the Interior or Administrator of General Services, as appropriate, has issued a construction permit for the commemorative work during that period.”
+Subsec. (e). Pub. L. 108–126, §203(c)(3), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "Legislative authority for a commemorative work expires at the end of the seven–year period beginning on the date the authority is enacted unless the Secretary of the Interior or Administrator of General Services, as appropriate, has issued a construction permit for the commemorative work during that period."
 
 #### Effective Date of 2003 Amendment
 
@@ -106,9 +106,9 @@ Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, §101(h) \[title 
 
 Brigadier General Francis Marion Commemorative Work.—Pub. L. 110–229, title III, §331, May 8, 2008, 122 Stat. 781.
 
-Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358; Pub. L. 109–396, title II, §201, Dec. 15, 2006, 120 Stat. 2713; Pub. L. 110–106, §1, Oct. 25, 2007, 121 Stat. 1022.
+Disabled Veterans' LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358; Pub. L. 109–396, title II, §201, Dec. 15, 2006, 120 Stat. 2713; Pub. L. 110–106, §1, Oct. 25, 2007, 121 Stat. 1022.
 
-Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, §8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, §332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036.
+Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, §8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, §332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, §1413, Mar. 26, 2013, 127 Stat. 421.
 
 Francis Scott Key Memorial.—Pub. L. 99–531, Oct. 27, 1986, 100 Stat. 3022.
 
@@ -122,7 +122,7 @@ Japanese American Patriotism in World War II Memorial.—Pub. L. 102–502, Oct.
 
 Korean War Veterans Memorial.—Pub. L. 99–572, Oct. 28, 1986, 100 Stat. 3226; Pub. L. 100–202, §101(f) \[title II, §§1, 2\], Dec. 22, 1987, 101 Stat. 1329–195, 1329–196; Pub. L. 100–230, §§1, 2, Jan. 5, 1988, 101 Stat. 1563; Pub. L. 100–267, Mar. 28, 1988, 102 Stat. 41; Pub. L. 105–262, title VIII, §8122, Oct. 17, 1998, 112 Stat. 2332.
 
-Lincoln Memorial, “I Have a Dream Speech” Commemorative Plaque.—Pub. L. 106–365, Oct. 27, 2000, 114 Stat. 1409; Pub. L. 108–352, §4, Oct. 21, 2004, 118 Stat. 1395.
+Lincoln Memorial, "I Have a Dream Speech" Commemorative Plaque.—Pub. L. 106–365, Oct. 27, 2000, 114 Stat. 1409; Pub. L. 108–352, §4, Oct. 21, 2004, 118 Stat. 1395.
 
 Mahatma Gandhi Memorial.—Pub. L. 105–284, §1, Oct. 26, 1998, 112 Stat. 2701.
 

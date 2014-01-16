@@ -10,7 +10,7 @@ In order to be eligible to receive an allotment under this part, a State shall i
 
 &emsp;(3) an assurance that the State, in consultation with area agencies on aging, will identify and prioritize statewide activities aimed at ensuring that older individuals have access to, and assistance in securing and maintaining, benefits and rights;
 
-&emsp;(4) an assurance that the State will use funds made available under this part for a subpart in addition to, and will not supplant, any funds that are expended under any Federal orState law in existence on the day before September 30, 1992, to carry out each of the vulnerable elder rights protection activities described in the subpart;
+&emsp;(4) an assurance that the State will use funds made available under this part for a subpart in addition to, and will not supplant, any funds that are expended under any Federal or State law in existence on the day before September 30, 1992, to carry out each of the vulnerable elder rights protection activities described in the subpart;
 
 &emsp;(5) an assurance that the State will place no restrictions, other than the requirements referred to in clauses (i) through (iv) of section 3058g(a)(5)(C) of this title, on the eligibility of entities for designation as local Ombudsman entities under section 3058g(a)(5) of this title;
 
@@ -52,11 +52,11 @@ A prior section 705 of Pub. L. 89–73 was classified to section 3045d of this t
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(4). Pub. L. 106–501, §703(1), inserted “each of” after “carry out”.
+<b>2000</b>—Subsec. (a)(4). Pub. L. 106–501, §703(1), inserted "each of" after "carry out".
 
-Subsec. (a)(6)(C)(iii). Pub. L. 106–501, §703(2), inserted “and” at end.
+Subsec. (a)(6)(C)(iii). Pub. L. 106–501, §703(2), inserted "and" at end.
 
-Subsec. (a)(7), (8). Pub. L. 106–501, §703(3) to (5), redesignated par. (8) as (7), substituted “paragraphs (1) through (6)” for “paragraphs (1) through (7)”, and struck out former par. (7) which required inclusion in the State plan of assurances that the State agency would make funds available to carry out subpart V, giving priority to area agencies on aging based on greatest need for funds, would require certain conditions of eligibility, would distribute eligibility information to area agencies on aging, and would submit certain reports.
+Subsec. (a)(7), (8). Pub. L. 106–501, §703(3) to (5), redesignated par. (8) as (7), substituted "paragraphs (1) through (6)" for "paragraphs (1) through (7)", and struck out former par. (7) which required inclusion in the State plan of assurances that the State agency would make funds available to carry out subpart V, giving priority to area agencies on aging based on greatest need for funds, would require certain conditions of eligibility, would distribute eligibility information to area agencies on aging, and would submit certain reports.
 
-<b>1993</b>—Subsec. (a)(7)(D). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+<b>1993</b>—Subsec. (a)(7)(D). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner".
 

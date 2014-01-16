@@ -6,7 +6,7 @@ The authority granted to acquire sites and buildings by purchase or otherwise sh
 
 #### Amendments
 
-<b>1977</b>—Pub. L. 95–105 struck out “of not less than ten years” after “acquire leaseholds”.
+<b>1977</b>—Pub. L. 95–105 struck out "of not less than ten years" after "acquire leaseholds".
 
 <b>1952</b>—Act June 19, 1952, provided for leaseholds of not less than 10 years.
 

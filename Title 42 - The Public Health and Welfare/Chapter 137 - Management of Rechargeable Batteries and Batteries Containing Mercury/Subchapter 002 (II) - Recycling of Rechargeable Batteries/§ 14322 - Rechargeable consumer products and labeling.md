@@ -24,19 +24,19 @@ Each regulated battery or rechargeable consumer product without an easily remova
 
 &emsp;(1) 3 chasing arrows or a comparable recycling symbol.
 
-&emsp;(2)(A) On each regulated battery which is a nickel-cadmium battery, the chemical name or the abbreviation “Ni-Cd” and the phrase “BATTERY MUST BE RECYCLED OR DISPOSED OF PROPERLY.”.
+&emsp;(2)(A) On each regulated battery which is a nickel-cadmium battery, the chemical name or the abbreviation "Ni-Cd" and the phrase "BATTERY MUST BE RECYCLED OR DISPOSED OF PROPERLY.".
 
-&emsp;(B) On each regulated battery which is a lead-acid battery, “Pb” or the words “LEAD”, “RETURN”, and “RECYCLE” and if the regulated battery is sealed, the phrase “BATTERY MUST BE RECYCLED.”.
+&emsp;(B) On each regulated battery which is a lead-acid battery, "Pb" or the words "LEAD", "RETURN", and "RECYCLE" and if the regulated battery is sealed, the phrase "BATTERY MUST BE RECYCLED.".
 
-&emsp;(3) On each rechargeable consumer product containing a regulated battery that is not easily removable, the phrase “CONTAINS NICKEL-CADMIUM BATTERY. BATTERY MUST BE RECYCLED OR DISPOSED OF PROPERLY.” or “CONTAINS SEALED LEAD BATTERY. BATTERY MUST BE RECYCLED.”, as applicable.
+&emsp;(3) On each rechargeable consumer product containing a regulated battery that is not easily removable, the phrase "CONTAINS NICKEL-CADMIUM BATTERY. BATTERY MUST BE RECYCLED OR DISPOSED OF PROPERLY." or "CONTAINS SEALED LEAD BATTERY. BATTERY MUST BE RECYCLED.", as applicable.
 
-&emsp;(4) On the packaging of each rechargeable consumer product, and the packaging of each regulated battery sold separately from such a product, unless the required label is clearly visible through the packaging, the phrase “CONTAINS NICKEL-CADMIUM BATTERY. BATTERY MUST BE RECYCLED OR DISPOSED OF PROPERLY.” or “CONTAINS SEALED LEAD BATTERY. BATTERY MUST BE RECYCLED.”, as applicable.
+&emsp;(4) On the packaging of each rechargeable consumer product, and the packaging of each regulated battery sold separately from such a product, unless the required label is clearly visible through the packaging, the phrase "CONTAINS NICKEL-CADMIUM BATTERY. BATTERY MUST BE RECYCLED OR DISPOSED OF PROPERLY." or "CONTAINS SEALED LEAD BATTERY. BATTERY MUST BE RECYCLED.", as applicable.
 
 #### (c) Existing or alternative labeling
 
 #### (1) Initial period
 
-&emsp;For a period of 2 years after May 13, 1996, regulated batteries, rechargeable consumerproducts containing regulated batteries, and rechargeable consumer product packages that are labeled in substantial compliance with subsection (b) of this section shall be deemed to comply with the labeling requirements of subsection (b) of this section.
+&emsp;For a period of 2 years after May 13, 1996, regulated batteries, rechargeable consumer products containing regulated batteries, and rechargeable consumer product packages that are labeled in substantial compliance with subsection (b) of this section shall be deemed to comply with the labeling requirements of subsection (b) of this section.
 
 #### (2) Certification
 

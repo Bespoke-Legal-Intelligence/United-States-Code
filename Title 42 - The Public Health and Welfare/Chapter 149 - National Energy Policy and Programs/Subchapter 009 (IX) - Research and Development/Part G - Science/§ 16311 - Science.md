@@ -6,7 +6,7 @@ The Secretary shall conduct, through the Office of Science, programs of research
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out research, development,demonstration, and commercial application activities of the Office of Science, including activities authorized under this part (including the amounts authorized under the amendment made by section 976(b) <sup>1</sup> and including basic energy sciences, advanced scientific and computing research, biological and environmental research, fusion energy sciences, high energy physics, nuclear physics, research analysis, and infrastructure support)—
+There are authorized to be appropriated to the Secretary to carry out research, development, demonstration, and commercial application activities of the Office of Science, including activities authorized under this part (including the amounts authorized under the amendment made by section 976(b) <sup>1</sup> and including basic energy sciences, advanced scientific and computing research, biological and environmental research, fusion energy sciences, high energy physics, nuclear physics, research analysis, and infrastructure support)—
 
 &emsp;(1) $4,153,000,000 for fiscal year 2007;
 
@@ -72,7 +72,7 @@ In addition to amounts otherwise authorized by this section, there are authorize
 
 #### References in Text
 
-This part, referred to in subsecs. (a) and (b), was in the original “this subtitle”, meaning subtitle G (§§971–984A) of title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 898, which enacted this part and amended section 5523 of Title 15, Commerce and Trade. For complete classification of subtitle G to the Code, see Tables.
+This part, referred to in subsecs. (a) and (b), was in the original "this subtitle", meaning subtitle G\(§§971–984A) of title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 898, which enacted this part and amended section 5523 of Title 15, Commerce and Trade. For complete classification of subtitle G to the Code, see Tables.
 
 Section 976, referred to in subsecs. (b) and (c)(6), is section 976 of Pub. L. 109–58. Subsection (a) of section 976 is classified to section 16316 of this title and subsection (b) of section 976 amended section 5523 of Title 15, Commerce and Trade.
 

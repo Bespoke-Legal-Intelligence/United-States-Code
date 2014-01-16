@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title VI, §603(a), formerly §503(a), 63 Stat. 403; renumbered \[§\] 603(a), Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583; Sept. 5, 1950, ch. 849, §7(g), 64 Stat. 590.
 
-The words “such sums as may be necessary to carry out the provisions of this Act” are omitted as unnecessary.
+The words "such sums as may be necessary to carry out the provisions of this Act" are omitted as unnecessary.
 

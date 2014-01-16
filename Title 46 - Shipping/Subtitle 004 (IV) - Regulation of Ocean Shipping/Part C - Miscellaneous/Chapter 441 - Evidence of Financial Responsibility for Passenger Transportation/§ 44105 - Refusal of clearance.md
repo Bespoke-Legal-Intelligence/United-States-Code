@@ -24,5 +24,5 @@ Pub. L. 89–777, §§2(e), 3(e), Nov. 6, 1966, 80 Stat. 1357, 1358; Pub. L. 103
 
 46 App.:817e(e).
 
-The words “Secretary of Homeland Security” are substituted for “Customs Service” because the functions of the Customs Service and of the Secretary of the Treasury relating thereto were transferred to the Secretary of Homeland Security by section 403(1) of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2178).
+The words "Secretary of Homeland Security" are substituted for "Customs Service" because the functions of the Customs Service and of the Secretary of the Treasury relating thereto were transferred to the Secretary of Homeland Security by section 403(1) of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2178).
 

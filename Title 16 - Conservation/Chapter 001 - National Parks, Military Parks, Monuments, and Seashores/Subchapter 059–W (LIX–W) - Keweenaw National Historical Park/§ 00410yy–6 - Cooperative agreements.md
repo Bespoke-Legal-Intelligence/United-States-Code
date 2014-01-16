@@ -8,5 +8,5 @@ The Secretary, after consultation with the Commission, may enter into cooperativ
 
 (Pub. L. 102–543, §7, Oct. 27, 1992, 106 Stat. 3571.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section;”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section;".</i>
 

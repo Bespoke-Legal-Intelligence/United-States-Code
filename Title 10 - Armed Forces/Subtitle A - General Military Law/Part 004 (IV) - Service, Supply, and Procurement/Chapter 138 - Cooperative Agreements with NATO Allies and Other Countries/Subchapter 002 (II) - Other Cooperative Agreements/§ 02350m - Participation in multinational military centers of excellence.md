@@ -44,13 +44,13 @@ Annual Reports on Use of Authority.—(1) Not later than October 31 each year, t
 
 &emsp;&emsp;(iii) a statement of the costs of the Department for such participation, including—
 
-&emsp;&emsp;&emsp;(I) a statement of the United States share of the expenses of such center and astatement of the percentage of the United States share of the expenses of such center to the total expenses of such center; and
+&emsp;&emsp;&emsp;(I) a statement of the United States share of the expenses of such center and a statement of the percentage of the United States share of the expenses of such center to the total expenses of such center; and
 
 &emsp;&emsp;&emsp;(II) a statement of the amount of such costs (including a separate statement of the amount of costs paid for under the authority of this section by category of costs).
 
 (f)
 
-Multinational Military Center of Excellence Defined.—In this section, the term “multinational military center of excellence” means an entity sponsored by one or more nations that is accredited and approved by the Military Committee of the North Atlantic Treaty Organization (NATO) as offering recognized expertise and experience to personnel participating in the activities of such entity for the benefit of NATO by providing such personnel opportunities to—
+Multinational Military Center of Excellence Defined.—In this section, the term "multinational military center of excellence" means an entity sponsored by one or more nations that is accredited and approved by the Military Committee of the North Atlantic Treaty Organization (NATO) as offering recognized expertise and experience to personnel participating in the activities of such entity for the benefit of NATO by providing such personnel opportunities to—
 
 &emsp;(1) enhance education and training;
 
@@ -64,9 +64,9 @@ Multinational Military Center of Excellence Defined.—In this section, the term
 
 #### Amendments
 
-<b>2013</b>—Subsec. (e)(1). Pub. L. 112–239 substituted “Not later than October 31 each year” for “Not later than October 31, 2009, and annually thereafter”.
+<b>2013</b>—Subsec. (e)(1). Pub. L. 112–239 substituted "Not later than October 31 each year" for "Not later than October 31, 2009, and annually thereafter".
 
 #### Effective Date
 
-Pub. L. 110–417, \[div. A\], title XII, §1232(c), Oct. 14, 2008, 122 Stat. 4639, provided that: “The amendments made by this section \[enacting this section\] shall take effect on October 1, 2008”.
+Pub. L. 110–417, \[div. A\], title XII, §1232(c), Oct. 14, 2008, 122 Stat. 4639, provided that: "The amendments made by this section \[enacting this section\] shall take effect on October 1, 2008".
 

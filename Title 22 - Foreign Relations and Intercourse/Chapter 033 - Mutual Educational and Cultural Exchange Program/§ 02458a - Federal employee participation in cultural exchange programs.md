@@ -1,8 +1,8 @@
 ### §2458a. Federal employee participation in cultural exchange programs
 
-#### (a) Grants and other foreign government assistance; family or household expense assistance prohibited; “Federal employee” defined
+#### (a) Grants and other foreign government assistance; family or household expense assistance prohibited; "Federal employee" defined
 
-(1) Congress consents to the acceptance by a Federal employee of grants and other forms ofassistance provided by a foreign government to facilitate the participation of such Federal employee in a cultural exchange—
+(1) Congress consents to the acceptance by a Federal employee of grants and other forms of assistance provided by a foreign government to facilitate the participation of such Federal employee in a cultural exchange—
 
 &emsp;(A) which is of the type described in section 2452(a)(2)(i) of this title,
 
@@ -12,7 +12,7 @@
 
 > but the Congress does not consent to the acceptance by any Federal employee of any portion of any such grant or other form of assistance which provides assistance with respect to any expenses incurred by or for any member of the family or household of such Federal employee.
 
-(2) For purposes of this section, the term “Federal employee” means any employee as defined in subparagraphs (A) through (F) of section 7342(a)(1) of title 5, but does not include a person described in subparagraph (G) of such section.
+(2) For purposes of this section, the term "Federal employee" means any employee as defined in subparagraphs (A) through (F) of section 7342(a)(1) of title 5, but does not include a person described in subparagraph (G) of such section.
 
 #### (b) Foreign grants and other assistance not gifts for purposes of section 7342 of title 5
 
@@ -26,7 +26,7 @@ The Secretary of State is authorized to promulgate regulations for purposes of t
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a)(2). Pub. L. 96–60 substituted “(F)” for “(E)” and “(G)” for “(F)”.
+<b>1979</b>—Subsec. (a)(2). Pub. L. 96–60 substituted "(F)" for "(E)" and "(G)" for "(F)".
 
 #### Effective Date of 1979 Amendment
 

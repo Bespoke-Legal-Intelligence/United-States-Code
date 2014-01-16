@@ -46,7 +46,7 @@ Coordination.—(1) The Secretary of Defense and, with respect to the Coast Guar
 
 (g)
 
-Special Allowance Defined.—In this section, the term “special allowance” means a special allowance that is payable under section 438 of the Higher Education Act of 1965 (20 U.S.C. 1087–1).
+Special Allowance Defined.—In this section, the term "special allowance" means a special allowance that is payable under section 438 of the Higher Education Act of 1965 (20 U.S.C. 1087–1).
 
 (Added Pub. L. 107–314, div. A, title VI, §651(a)(1), Dec. 2, 2002, 116 Stat. 2578.)
 
@@ -56,9 +56,9 @@ The Higher Education Act of 1965, referred to in subsecs. (c) and (f)(2)(B), is 
 
 #### Effective Date
 
-Pub. L. 107–314, div. A, title VI, §651(e), Dec. 2, 2002, 116 Stat. 2581, provided that: “The amendments made by this section \[enacting this section and amending sections 1078, 1087e, and 1087dd of Title 20, Education\] shall apply with respect to interest, and any special allowance under section 438 of the Higher Education Act of 1965 \[20 U.S.C. 1087–1\], that accrue for months beginning on or after October 1, 2003, on student loans described in subsection (c) of section 2174 of title 10, United States Code (as added by subsection (a)), that were made before, on, or after such date to members of the Armed Forces who are on active duty (as defined in section 101(d) of title 10, United States Code) on or after that date.”
+Pub. L. 107–314, div. A, title VI, §651(e), Dec. 2, 2002, 116 Stat. 2581, provided that: "The amendments made by this section \[enacting this section and amending sections 1078, 1087e, and 1087dd of Title 20, Education\] shall apply with respect to interest, and any special allowance under section 438 of the Higher Education Act of 1965 \[20 U.S.C. 1087–1\], that accrue for months beginning on or after October 1, 2003, on student loans described in subsection (c) of section 2174 of title 10, United States Code (as added by subsection (a)), that were made before, on, or after such date to members of the Armed Forces who are on active duty (as defined in section 101(d) of title 10, United States Code) on or after that date."
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

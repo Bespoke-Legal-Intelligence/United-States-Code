@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(D) Coordinating with relevant agencies to develop interagency contingency plans and procedures to mobilize and deploy civilian personnel and conduct reconstruction and stabilization operations to address the various types of such crises.
 
-&emsp;&emsp;(E) Entering into appropriate arrangements with agencies to carry out activities under this section and the Reconstructionand Stabilization Civilian Management Act of 2008.
+&emsp;&emsp;(E) Entering into appropriate arrangements with agencies to carry out activities under this section and the Reconstruction and Stabilization Civilian Management Act of 2008.
 
 &emsp;&emsp;(F) Identifying personnel in State and local governments and in the private sector who are available to participate in the Civilian Reserve Corps established under subsection (b) or to otherwise participate in or contribute to reconstruction and stabilization activities.
 
@@ -36,7 +36,7 @@
 
 #### (1) Response Readiness Corps
 
-&emsp;The Secretary, in consultation with the Administrator of the United States Agency for International Development and the heads of other appropriate agencies of the United States Government, may establish and maintain a Response Readiness Corps (referred to in this section as the “Corps”) to provide assistance in support of reconstruction and stabilization operations in countries or regions that are at risk of, in, or are in transition from, conflict or civil strife. The Corps shall be composed of active and standby components consisting of United States Government personnel, including employees of the Department of State, the United States Agency for International Development, and other agencies who are recruited and trained (and employed in the case of the active component) to provide such assistance when deployed to do so by the Secretary to support the purposes of this Act.
+&emsp;The Secretary, in consultation with the Administrator of the United States Agency for International Development and the heads of other appropriate agencies of the United States Government, may establish and maintain a Response Readiness Corps (referred to in this section as the "Corps") to provide assistance in support of reconstruction and stabilization operations in countries or regions that are at risk of, in, or are in transition from, conflict or civil strife. The Corps shall be composed of active and standby components consisting of United States Government personnel, including employees of the Department of State, the United States Agency for International Development, and other agencies who are recruited and trained (and employed in the case of the active component) toprovide such assistance when deployed to do so by the Secretary to support the purposes of this Act.
 
 #### (2) Civilian Reserve Corps
 
@@ -60,7 +60,7 @@ This Act, referred to in subsec. (b)(1), is act Aug. 1, 1956, ch. 841, 70 Stat. 
 
 #### Definitions
 
-For definitions of “Secretary”, “agency”, and “personnel” as used in this section, see section 1603 of Pub. L. 110–417, set out as a note under section 2734a of this title.
+For definitions of "Secretary", "agency", and "personnel" as used in this section, see section 1603 of Pub. L. 110–417, set out as a note under section 2734a of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "is".</i>
 

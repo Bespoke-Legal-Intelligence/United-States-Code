@@ -30,7 +30,7 @@ Suspension.—(1)(A) Pending a decision under subsection (a)(1) of this section,
 
 (B) The Secretary may suspend a tariff of a foreign air carrier and the use of a price, classification, rule, or practice when the suspension is in the public interest.
 
-(2) A suspension becomes effective when the Secretary files with the tariff and delivers to the air carrier or foreign air carrier affected by the suspension a written statement of the reasons for the suspension. To suspend a tariff, reasonable notice of the suspension must be given to the affected carrier.
+(2) A suspension becomes effective when the Secretary files with the tariff and delivers tothe air carrier or foreign air carrier affected by the suspension a written statement of the reasons for the suspension. To suspend a tariff, reasonable notice of the suspension must be given to the affected carrier.
 
 (3) The suspension of a newly filed tariff may be for periods totaling not more than 365 days after the date the tariff otherwise would go into effect. The suspension of an existing tariff may be for periods totaling not more than 365 days after the effective date of the suspension. The Secretary may rescind at any time the suspension of a newly filed tariff and allow the price, classification, rule, or practice to go into effect.
 
@@ -62,7 +62,7 @@ Response to Refusal of Foreign Country To Allow Air Carrier To Charge a Price.�
 
 (e)
 
-Standard Foreign Fare Level.—(1)(A) In this subsection, “standard foreign fare level” means—
+Standard Foreign Fare Level.—(1)(A) In this subsection, "standard foreign fare level" means—
 
 &emsp;(i) for a class of fares existing on October 1, 1979, the fare between 2 places (as adjusted under subparagraph (B) of this paragraph) filed for and allowed by the Civil Aeronautics Board to go into effect after September 30, 1979, and before August 13, 1980 (with seasonal fares adjusted by the percentage difference that prevailed between seasons in 1978), or the fare established under section 1002(j)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 24(a) of the International Air Transportation Competition Act of 1979 (Public Law 96–192, 94 Stat. 46); or
 
@@ -70,11 +70,11 @@ Standard Foreign Fare Level.—(1)(A) In this subsection, “standard foreign fa
 
 (B) At least once every 60 days for fuel costs, and at least once every 180 days for other costs, the Secretary shall adjust the standard foreign fare level for the particular foreign air transportation to which the standard foreign fare level applies by increasing or decreasing that level by the percentage change from the last previous period in the actual operating cost for each available seat-mile. In adjusting a standard foreign fare level, the Secretary may not make an adjustment to costs actually incurred. In establishing a standard foreign fare level and making adjustments in the level under this paragraph, the Secretary may use all relevant or appropriate information reasonably available to the Secretary.
 
-(2) The Secretary may not decide that a proposed fare for foreign air transportation is unreasonable on the basis that the fare is too low or too high if the proposed fare is neither more than 5 percent higher nor 50 percent lower thanthe standard foreign fare level for the same or essentially similar class of transportation. The Secretary by regulation may increase the 50 percent specified in this paragraph.
+(2) The Secretary may not decide that a proposed fare for foreign air transportation is unreasonable on the basis that the fare is too low or too high if the proposed fare is neither more than 5 percent higher nor 50 percent lower than the standard foreign fare level for the same or essentially similar class of transportation. The Secretary by regulation may increase the 50 percent specified in this paragraph.
 
 (3) Paragraph (2) of this subsection does not apply to a proposed fare that is not more than—
 
-&emsp;(A) 5 percent higher than the standard foreign fare level when the Secretary decides that the proposed fare may be unreasonably discriminatory or that suspension of the fare is in the public interest because of an unreasonable regulatory action by the government of a foreign country that is related to a fare proposal of an air carrier; or
+&emsp;(A) 5 percent higher than the standard foreign fare level when the Secretary decides that the proposed fare may be unreasonably discriminatory or that suspension of the fare is in the public interest because of an unreasonable regulatory action by the governmentof a foreign country that is related to a fare proposal of an air carrier; or
 
 &emsp;(B) 50 percent lower than the standard foreign fare level when the Secretary decides that the proposed fare may be predatory or discriminatory or that suspension of the fare is required because of an unreasonable regulatory action by the government of a foreign country that is related to a fare proposal of an air carrier.
 
@@ -208,41 +208,41 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §801(b); added Mar. 22, 1972, Pu
 
 49 App.:1551(b)(1)(E).
 
-In subsection (a)(1) and (2), the words “take action to” are omitted as surplus.
+In subsection (a)(1) and (2), the words "take action to" are omitted as surplus.
 
-In subsection (a)(1), the words “individual or joint (between air carriers, between foreign air carriers, or between an air carrier or carriers and a foreign air carrier or carriers)” and “and, if it so orders” are omitted as surplus. The words “unreasonable or unreasonably discriminatory” are substituted for “unjust or unreasonable, or unjustly discriminatory, or unduly preferential, or unduly prejudicial” for consistency in the revised title and to eliminate unnecessary words. See the revision notes following 49:10101.
+In subsection (a)(1), the words "individual or joint (between air carriers, between foreign air carriers, or between an air carrier or carriers and a foreign air carrier or carriers)" and "and, if it so orders" are omitted as surplus. The words "unreasonable or unreasonably discriminatory" are substituted for "unjust or unreasonable, or unjustly discriminatory, or unduly preferential, or unduly prejudicial" for consistency in the revised title and to eliminate unnecessary words. See the revision notes following 49:10101.
 
-In subsection (a)(3), before clause (A), the words “In deciding whether to cancel or reject a tariff of an air carrier or foreign air carrier under this subsection” are substituted for “In exercising and performing its powers and duties under this subsection with respect to the rejection or cancellation of rates for the carriage of persons or property” for consistency in this section and to eliminate unnecessary words. In clause (B), the words “of persons and property” are omitted as surplus.
+In subsection (a)(3), before clause (A), the words "In deciding whether to cancel or reject a tariff of an air carrier or foreign air carrier under this subsection" are substituted for "In exercising and performing its powers and duties under this subsection with respect to the rejection or cancellation of rates for the carriage of persons or property" for consistency in this section and to eliminate unnecessary words. In clause (B), the words "of persons and property" are omitted as surplus.
 
-In subsection (b)(1), the words “contained in the tariff” are added for clarity.
+In subsection (b)(1), the words "contained in the tariff" are added for clarity.
 
-In subsection (b)(1)(A), the words “such hearing and” are omitted as surplus.
+In subsection (b)(1)(A), the words "such hearing and" are omitted as surplus.
 
-In subsection (b)(1)(B), the words “or in the case of” are omitted as surplus.
+In subsection (b)(1)(B), the words "or in the case of" are omitted as surplus.
 
-In subsection (b)(2), the text of 49 App.:1373(c)(3) is omitted as obsolete. Reference to 49 App.:1482(g) is omitted because 49 App.:1482(g) does not relate to foreign air transportation and 49 App.:1551(a)(5)(D) provides that 49 App.:1482(g) ceased to be in effect on January 1, 1985, except insofar as it related to foreign airtransportation. Reference to 49 App.:1482(j) is omitted because it consistently has been interpreted that the minimum notice requirement does not apply to foreign air transportation.
+In subsection (b)(2), the text of 49 App.:1373(c)(3) is omitted as obsolete. Reference to 49 App.:1482(g) is omitted because 49 App.:1482(g) does not relate to foreign air transportation and 49 App.:1551(a)(5)(D) provides that 49 App.:1482(g) ceased to be in effect on January 1, 1985, except insofar as it related to foreign air transportation. Reference to 49 App.:1482(j) is omitted because it consistently has been interpreted that the minimum notice requirement does not apply to foreign air transportation.
 
-In subsection (b)(3), the words “for periods totaling not more than 365 days after” are substituted for “a period or periods not exceeding 365 days in the aggregate beyond the time when” and “a period or periods not exceeding 365 days in the aggregate from” to eliminate unnecessary words.
+In subsection (b)(3), the words "for periods totaling not more than 365 days after" are substituted for "a period or periods not exceeding 365 days in the aggregate beyond the time when" and "a period or periods not exceeding 365 days in the aggregate from" to eliminate unnecessary words.
 
-In subsection (c)(1), the words “a tariff is suspended pending the outcome of a proceeding under subsection (a) of this section” are added for clarity. The words “and the Secretary does not take final action in the proceeding during the suspension period” are substituted for “the proceeding has not been concluded and an order made within the period of suspension or suspensions” and “the proceeding has not been concluded within the period of suspension or suspensions” to eliminate unnecessary words. The words “or if the Board shall otherwise so direct” are omitted as surplus because under subsection (b)(3) of this section the Secretary may rescind a suspension at any time.
+In subsection (c)(1), the words "a tariff is suspended pending the outcome of a proceeding under subsection (a) of this section" are added for clarity. The words "and the Secretary does not take final action in theproceeding during the suspension period" are substituted for "the proceeding has not been concluded and an order made within the period of suspension or suspensions" and "the proceeding has not been concluded within the period of suspension or suspensions" to eliminate unnecessary words. The words "or if the Board shall otherwise so direct" are omitted as surplus because under subsection (b)(3) of this section the Secretary may rescind a suspension at any time.
 
-In subsection (c)(2)(A), before clause (i), the words “or suspensions” are omitted because of 1:1. In clause (i), the words “corresponding seasonal” are added for clarity.
+In subsection (c)(2)(A), before clause (i), the words "or suspensions" are omitted because of 1:1. In clause (i), the words "corresponding seasonal" are added for clarity.
 
-In subsection (c)(2)(B) and (3), the words “providing the same transportation” are substituted for “engaged in the same foreign air transportation” for consistency in this chapter and to eliminate unnecessary words.
+In subsection (c)(2)(B) and (3), the words "providing the same transportation" are substituted for "engaged in the same foreign air transportation" for consistency in this chapter and to eliminate unnecessary words.
 
-In subsection (c)(2)(B), the words “of the carrier for the covered transportation” and “during the period of suspension or” are added for clarity.
+In subsection (c)(2)(B), the words "of the carrier for the covered transportation" and "during the period of suspension or" are added for clarity.
 
-In subsection (c)(3), the words “If an existing tariff is suspended or canceled” are added for clarity. The words “following cancellation of an existing tariff” are omitted as surplus.
+In subsection (c)(3), the words "If an existing tariff is suspended or canceled" are added for clarity. The words "following cancellation of an existing tariff" are omitted as surplus.
 
-In subsection (d), the word “properly” is omitted as surplus. In clause (1)(A), the words “the operation of” are omitted as surplus. The words “periods totaling not more than 365 days after the date of the suspension” are substituted for “for a period or periods not exceeding three hundred and sixty-five days in the aggregate from the date of such suspension” for clarity and to eliminate unnecessary words. In subclause (B), the words “or suspensions” are omitted because of 1:1. In clause (2), the words “by the Secretary” are added for clarity.
+In subsection (d), the word "properly" is omitted as surplus. In clause (1)(A), the words "the operation of" are omitted as surplus. The words "periods totaling not more than 365 days after the date of the suspension" are substituted for "for a period or periods not exceeding three hundred and sixty-five days in the aggregate from the date of such suspension" for clarity and to eliminate unnecessary words. In subclause (B), the words "or suspensions" are omitted because of 1:1. In clause (2), the words "by the Secretary" are added for clarity.
 
-In subsection (e)(1)(B), the words “within 30 days after February 15, 1980” are omitted as executed. The words “as the case may be” are omitted as surplus.
+In subsection (e)(1)(B), the words "within 30 days after February 15, 1980" are omitted as executed. The words "as the case may be" are omitted as surplus.
 
-In subsection (e)(2), the text of 49 App.:1482(j)(6)(A) is omitted as expired. The words “with respect to any proposed increase filed with the Board after the 180th day after February 15, 1980” and “with respect to any proposed decrease filed after February 15, 1980” are omitted as obsolete. The words “of persons” are omitted as surplus because a “fare” is only for passengers. The words “The Secretary by regulation may increase the 50 percent specified in this paragraph” are substituted for 49 App.:1482(j)(10) for clarity.
+In subsection (e)(2), the text of 49 App.:1482(j)(6)(A) is omitted as expired. The words "with respect to any proposed increase filed with the Board after the 180th day after February 15, 1980" and "with respect to any proposed decrease filed after February 15, 1980" are omitted as obsolete. The words "of persons" are omitted as surplus because a "fare" is only for passengers. The words "The Secretary by regulation may increase the 50 percent specified in this paragraph" are substituted for 49 App.:1482(j)(10) for clarity.
 
-In subsection (e)(3)(A), the words “unreasonably discriminatory” are substituted for “unduly preferential, unduly prejudicial, or unjustly discriminatory” to eliminate unnecessary words and for consistency in the revised title. See the revision notes following 49:10101.
+In subsection (e)(3)(A), the words "unreasonably discriminatory" are substituted for "unduly preferential, unduly prejudicial, or unjustly discriminatory" to eliminate unnecessary words and for consistency in the revised title. See the revision notes following 49:10101.
 
-In subsection (g), the words “express” and “now . . . or hereafter issued” are omitted as surplus. The words “may provide foreign air transportation only as long as” are substituted for “shall be a condition to the continuation of the affected service” for clarity.
+In subsection (g), the words "express" and "now . . . or hereafter issued" are omitted as surplus. The words "may provide foreign air transportation only as long as" are substituted for "shall be a condition to the continuation of the affected service" for clarity.
 
 #### References in Text
 

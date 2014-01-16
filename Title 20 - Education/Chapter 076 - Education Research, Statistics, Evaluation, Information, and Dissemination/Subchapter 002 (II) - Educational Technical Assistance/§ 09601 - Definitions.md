@@ -4,15 +4,15 @@ In this subchapter:
 
 #### (1) In general
 
-&emsp;The terms “local educational agency” and “State educational agency” have the meanings given those terms in section 7801 of this title.
+&emsp;The terms "local educational agency" and "State educational agency" have the meanings given those terms in section 7801 of this title.
 
 #### (2) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Education.
+&emsp;The term "Secretary" means the Secretary of Education.
 
 (Pub. L. 107–279, title II, §202, Nov. 5, 2002, 116 Stat. 1975.)
 
 #### Short Title
 
-This subchapter known as the “Educational Technical Assistance Act of 2002”, see Short Title note set out under section 9501 of this title.
+This subchapter known as the "Educational Technical Assistance Act of 2002", see Short Title note set out under section 9501 of this title.
 

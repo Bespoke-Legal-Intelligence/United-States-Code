@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–569 substituted “within 15 days following the completion of the audit and acceptance of the audit by the Center” for “at such time as the Secretary shall prescribe”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–569 substituted "within 15 days following the completion of the audit and acceptance of the audit by the Center" for "at such time as the Secretary shall prescribe".
 
 #### Termination of Reporting Requirements
 

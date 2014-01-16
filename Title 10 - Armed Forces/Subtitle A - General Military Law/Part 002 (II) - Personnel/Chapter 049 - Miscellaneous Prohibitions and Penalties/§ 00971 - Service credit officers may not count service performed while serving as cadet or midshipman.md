@@ -18,7 +18,7 @@ Prohibition on Counting Service as a Cadet or Midshipman.—In computing length 
 
 (c)
 
-Service as a Cadet or Midshipman Defined.—In this section, the term “service as a cadet or midshipman” means—
+Service as a Cadet or Midshipman Defined.—In this section, the term "service as a cadet or midshipman" means—
 
 &emsp;(1) service as a cadet at the United States Military Academy, United States Air Force Academy, or United States Coast Guard Academy; or
 
@@ -42,33 +42,33 @@ June 25, 1956, ch. 439, §4, 70 Stat. 333.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted "
 
-Navy Reserve” for “
+Navy Reserve" for "
 
-Naval Reserve” in heading and “Navy Reserve” for “Naval Reserve” in text.
+Naval Reserve" in heading and "Navy Reserve" for "Naval Reserve" in text.
 
-<b>1997</b>—Subsec. (b)(4). Pub. L. 105–85 substituted “Commissioned Corps” for “commissioned corps”.
+<b>1997</b>—Subsec. (b)(4). Pub. L. 105–85 substituted "Commissioned Corps" for "commissioned corps".
 
-<b>1996</b>—Pub. L. 104–201, §581(c)(3), struck out “enlisted” after “count” in section catchline.
+<b>1996</b>—Pub. L. 104–201, §581(c)(3), struck out "enlisted" after "count" in section catchline.
 
-Subsec. (a). Pub. L. 104–201, §581(a), (c)(2), inserted heading, substituted “while also performing service as a cadet or midshipman or serving as a midshipman” for “while also serving as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy or”, and inserted before period at end “or an officer in the Commissioned Corps of the Public Health Service”.
+Subsec. (a). Pub. L. 104–201, §581(a), (c)(2), inserted heading, substituted "while also performing service as a cadet or midshipman or serving as a midshipman" for "while also serving as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy or", and inserted before period at end "or an officer in the Commissioned Corps of the Public Health Service".
 
-Subsec. (b). Pub. L. 104–201, §581(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In computing length of service for any purpose—
+Subsec. (b). Pub. L. 104–201, §581(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "In computing length of service for any purpose—
 
-&emsp;“(1) no officer of the Navy or Marine Corps may be credited with service as a midshipman at the United States Naval Academy or as a cadet at the United States Military Academy, United States Air Force Academy, or United States Coast Guard Academy;
+&emsp;"(1) no officer of the Navy or Marine Corps may be credited with service as a midshipman at the United States Naval Academy or as a cadet at the United States Military Academy, United States Air Force Academy, or United States Coast Guard Academy;
 
-&emsp;“(2) no commissioned officer of the Army or Air Force may be credited with service as a midshipman at the United States Naval Academy or as a cadet at the United States Military Academy, United States Air Force Academy, or United States Coast Guard Academy; and
+&emsp;"(2) no commissioned officer of the Army or Air Force may be credited with service as a midshipman at the United States Naval Academy or as a cadet at the United States Military Academy, United States Air Force Academy, or United States Coast Guard Academy; and
 
-&emsp;“(3) no officer of the Coast Guard may be credited with service as a midshipman at the United States Naval Academy or as a cadet at the United States Military Academy, United States Air Force Academy, or United States Coast Guard Academy.”
+&emsp;"(3) no officer of the Coast Guard may be credited with service as a midshipman at the United States Naval Academy or as a cadet at the United States Military Academy, United States Air Force Academy, or United States Coast Guard Academy."
 
 Subsec. (c). Pub. L. 104–201, §581(c)(1), added subsec. (c).
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–189, §652(a)(1)(A), struck out “, under an appointment accepted after June 25, 1956,” after “Naval Reserve”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §652(a)(1)(A), struck out ", under an appointment accepted after June 25, 1956," after "Naval Reserve".
 
-Subsec. (b)(1). Pub. L. 101–189, §652(a)(2)(A), struck out “, if he was appointed as a midshipman or cadet after March 4, 1913” after “United States Coast Guard Academy”.
+Subsec. (b)(1). Pub. L. 101–189, §652(a)(2)(A), struck out ", if he was appointed as a midshipman or cadet after March 4, 1913" after "United States Coast Guard Academy".
 
-Subsec. (b)(2). Pub. L. 101–189, §652(a)(2)(B), struck out “, if he was appointed as a midshipman or cadet after August 24, 1912” after “United States Coast Guard Academy”.
+Subsec. (b)(2). Pub. L. 101–189, §652(a)(2)(B), struck out ", if he was appointed as a midshipman or cadet after August 24, 1912" after "United States Coast Guard Academy".
 
 <b>1984</b>—Subsec. (b)(3). Pub. L. 98–557 added par. (3).
 
@@ -80,5 +80,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Application of Subsection (a) to Service Under Appointment Accepted Before June 26, 1956
 
-Pub. L. 101–189, div. A, title VI, §652(a)(1)(B), Nov. 29, 1989, 103 Stat. 1461, provided that: “The limitation in section 971(a) of title 10, United States Code, shall not apply with respect to a period of service referred to in that section while also serving under an appointment as a cadet or midshipman accepted before June 26, 1956.”
+Pub. L. 101–189, div. A, title VI, §652(a)(1)(B), Nov. 29, 1989, 103 Stat. 1461, provided that: "The limitation in section 971(a) of title 10, United States Code, shall not apply with respect to a period of service referred to in that section while also serving under an appointment as a cadet or midshipman accepted before June 26, 1956."
 

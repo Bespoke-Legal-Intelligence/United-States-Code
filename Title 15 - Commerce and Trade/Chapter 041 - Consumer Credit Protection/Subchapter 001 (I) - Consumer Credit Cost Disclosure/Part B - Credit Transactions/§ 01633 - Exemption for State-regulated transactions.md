@@ -6,7 +6,7 @@ The Bureau shall by regulation exempt from the requirements of this part any cla
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Board”.
+<b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board".
 
 #### Effective Date of 2010 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Notice to Secretary and payment of loss
 
-Upon default by the student borrower on any loan covered by Federal loan insurance pursuant to this part, and prior to the commencement of suit or other enforcement proceedings upon security for that loan, the insurance beneficiary shall promptly notify the Secretary, and the Secretary shall if requested (at that time or after further collection efforts) by the beneficiary, or may on the Secretary's own motion, if the insurance is still in effect, pay to the beneficiary the amount of the loss sustained by the insured upon that loan as soon as that amount has been determined. The “amount of the loss” on any loan shall, for the purposes of this subsection and subsection (b) of this section, be deemed to be an amount equal to the unpaid balance of the principal amount and accrued interest, including interest accruing from the date of submission of a valid default claim (as determined by the Secretary) to the date on which payment is authorized by the Secretary, reduced to the extent required by section 1075(b) of this title. Such beneficiary shall be required to meet the standards of due diligence in the collection of the loan and shall be required to submit proof that the institution was contacted and other reasonable attempts were made to locate the borrower (when the location of the borrower is unknown) and proof that contact was made with the borrower (when the location is known). The Secretary shall make the determination required to carry out the provisions of this section not later than 90 days after the notification by the insurance beneficiary and shall make payment in full on the amount of the beneficiary's loss pending completion of the due diligence investigation.
+Upon default by the student borrower on any loan covered by Federal loan insurance pursuant to this part, and prior to the commencement of suit or other enforcement proceedings upon security for that loan, the insurance beneficiary shall promptly notify the Secretary, and the Secretary shall if requested (at that time or after further collection efforts) by the beneficiary, or may on the Secretary's own motion, if the insurance is still in effect, pay to the beneficiary the amount of the loss sustained by the insured upon that loan as soon as that amount has been determined. The "amount of the loss" on any loan shall, for the purposes of this subsection and subsection (b) of this section, be deemed to be an amount equal to the unpaid balance of the principal amount and accrued interest, including interest accruing from the date of submission of a valid default claim (as determined by the Secretary) to the date on which payment is authorized by the Secretary, reduced to the extent required by section 1075(b) of this title. Such beneficiary shall be required to meet the standards of due diligence in the collection of the loan and shall be required to submit proof that the institution was contacted and other reasonable attempts were made to locate the borrower (when the location of the borrower is unknown) and proof that contact was made with the borrower (when the location is known). The Secretary shall make the determination required to carry out the provisions of this sectionnot later than 90 days after the notification by the insurance beneficiary and shall make payment in full on the amount of the beneficiary's loss pending completion of the due diligence investigation.
 
 #### (b) Effect of payment of loss
 
@@ -20,7 +20,7 @@ Nothing in this section or in this part shall be construed to excuse the holder 
 
 #### (1) In general
 
-&emsp;The Secretary shall annually publish a list indicating the cohort default rate (determined in accordance with section 1085(m) of this title) for each originating lender, subsequent holder, and guaranty agency participating in the program assisted under this part and anaverage cohort default rate for all institutions of higher education within each State.
+&emsp;The Secretary shall annually publish a list indicating the cohort default rate (determined in accordance with section 1085(m) of this title) for each originating lender, subsequent holder, and guaranty agency participating in the program assisted under this part and an average cohort default rate for all institutions of higher education within each State.
 
 #### (2) Regulations
 
@@ -38,7 +38,7 @@ A prior section 1080, Pub. L. 89–329, title IV, §430, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–244 inserted “the institution was contacted and other” after “submit proof that” in third sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244 inserted "the institution was contacted and other" after "submit proof that" in third sentence.
 
 <b>1992</b>—Subsec. (e). Pub. L. 102–325 added subsec. (e).
 

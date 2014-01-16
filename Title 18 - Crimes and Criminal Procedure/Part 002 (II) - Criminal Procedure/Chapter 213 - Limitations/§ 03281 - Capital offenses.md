@@ -12,5 +12,5 @@ Sections 581a and 581b of title 18, U.S.C., 1940 ed., were consolidated into thi
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 struck out before period at end “except for offenses barred by the provisions of law existing on August 4, 1939”.
+<b>1994</b>—Pub. L. 103–322 struck out before period at end "except for offenses barred by the provisions of law existing on August 4, 1939".
 

@@ -166,13 +166,13 @@ The Secretary, the National Trust, and the State Historic Preservation Officers 
 
 &emsp;The grants referred to in paragraph (1) are the following:
 
-&emsp;&emsp;(A) A grant to the National Museum Association (a nonprofit organization located in San Francisco, California) for payment of expenses directly related to the preservation and restoration of the historic fleet of the San Francisco Maritime National Historical Park, located in San Francisco, California.
+&emsp;&emsp;(A) A grant to the National Museum Association (a nonprofit organization located inSan Francisco, California) for payment of expenses directly related to the preservation and restoration of the historic fleet of the San Francisco Maritime National Historical Park, located in San Francisco, California.
 
 &emsp;&emsp;(B) A grant to the Virginia V Foundation (a nonprofit organization) for use in restoration and preservation of the historic steamship VIRGINIA V.
 
 &emsp;&emsp;(C) A grant to any nonprofit organization which operates and maintains a former hospital ship to be converted to engage in public health activities, for use in refurbishing and maintaining the ship for those activities.
 
-&emsp;&emsp;(D) A grant to the Mariners’ Museum (a not-for-profit educational institution located in Newport News, Virginia,<sup>5</sup> for use for expenses directly related to the computerization of the library and archives of that museum, including for the purpose of providing to the public enhanced national access to those materials.
+&emsp;&emsp;(D) A grant to the Mariners' Museum (a not-for-profit educational institution located in Newport News, Virginia,<sup>5</sup> for use for expenses directly related to the computerization of the library and archives of that museum, including for the purpose of providing to the public enhanced national access to those materials.
 
 &emsp;&emsp;(E) A grant for each of fiscal years 1996, 1997, 1998, 1999, and 2000 to the Center for Maritime and Underwater Resource Management at Michigan State University, for a pilot project to plan, design, implement, and evaluate innovative approaches to management and development of maritime and underwater cultural resources at the following sites: Thunder Bay, the Manitou Passage, Isle Royale National Park, Keweenaw Peninsula, Marquette County, Alger County, Whitefish Point, the Straits of Mackinac, the Thumb Area, and Sanilac Shores.
 
@@ -198,7 +198,7 @@ The Secretary shall submit to the Congress, after review by the Committee, an an
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “National Maritime Heritage Grants Advisory Committee”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "National Maritime Heritage Grants Advisory Committee".</i>
 
 <i><sup>5</sup></i><i> So in original. The comma probably should be a closing parenthesis.</i>
 

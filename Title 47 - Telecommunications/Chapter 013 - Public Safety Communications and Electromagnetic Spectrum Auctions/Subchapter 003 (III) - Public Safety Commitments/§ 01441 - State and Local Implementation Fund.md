@@ -20,7 +20,7 @@ Any amounts borrowed under subsection (c)(1) and any amounts in the State and Lo
 
 #### (d) Transfer of unused funds
 
-If there is a balance remaining in the State and Local Implementation Fund on September 30, 2022, the Secretary of the Treasury shall transfer such balance to the general fund of the Treasury, where such balance shall be dedicated for the sole purpose of deficit reduction.
+If there is a balance remaining in the State and Local Implementation Fund on September 30, 2022, the Secretary of the Treasury shalltransfer such balance to the general fund of the Treasury, where such balance shall be dedicated for the sole purpose of deficit reduction.
 
 (Pub. L. 112–96, title VI, §6301, Feb. 22, 2012, 126 Stat. 218.)
 

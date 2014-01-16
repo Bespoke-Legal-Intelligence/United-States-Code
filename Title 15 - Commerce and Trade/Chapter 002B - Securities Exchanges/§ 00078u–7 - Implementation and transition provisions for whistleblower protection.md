@@ -26,7 +26,7 @@ Section 922(a), referred to in subsec. (d), means section 922(a) of Pub. L. 111�
 
 #### Codification
 
-Section was enacted as part of the Investor Protection and Securities Reform Act of 2010, and also as partof the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
+Section was enacted as part of the Investor Protection and Securities Reform Act of 2010, and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
 
 #### Effective Date
 
@@ -34,9 +34,9 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 #### Definitions
 
-For definitions of “Commission” and “securities laws” as used in this section, see section 5301 of Title 12, Banks and Banking.
+For definitions of "Commission" and "securities laws" as used in this section, see section 5301 of Title 12, Banks and Banking.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “added”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "added".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

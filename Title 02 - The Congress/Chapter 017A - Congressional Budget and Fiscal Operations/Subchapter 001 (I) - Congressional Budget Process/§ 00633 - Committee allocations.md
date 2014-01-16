@@ -82,7 +82,7 @@ At any time after a committee reports the allocations required to be made under 
 
 #### (1) In general
 
-&emsp;(A) Subsection (f)(1) of this section and, after April 15, section 634(a) of this title shall not apply to any bill or joint resolution, as reported, amendment thereto, or conference report thereon if, for each fiscal year covered by the most recently agreed to concurrent resolution on the budget—
+&emsp;(A) Subsection (f)(1) of this section and, after April 15, section 634(a) of this title shallnot apply to any bill or joint resolution, as reported, amendment thereto, or conference report thereon if, for each fiscal year covered by the most recently agreed to concurrent resolution on the budget—
 
 &emsp;&emsp;(i) the enactment of that bill or resolution as reported;
 
@@ -104,21 +104,23 @@ At any time after a committee reports the allocations required to be made under 
 
 #### (2) Revised allocations
 
-&emsp;(A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the committee <sup>1</sup> on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
+&emsp;(A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the Committee on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
 
 &emsp;(B) Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.
 
-(Pub. L. 93–344, title III, §302, July 12, 1974, 88 Stat. 308; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1044; Pub. L. 101–508, title XIII, §§13112(a)(6), (7), 13201(b)(2), (3), 13207(a)(1)(A), (B), (2), 13303(c), Nov. 5, 1990, 104 Stat. 1388–608, 1388–614, 1388–617, 1388–618, 1388–625; Pub. L. 105–33, title X, §10106, Aug. 5, 1997, 111 Stat. 680.)
+(Pub. L. 93–344, title III, §302, July 12, 1974, 88 Stat. 308; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1044; Pub. L. 101–508, title XIII, §§13112(a)(6), (7), 13201(b)(2), (3), 13207(a)(1)(A), (B), (2), 13303(c), Nov. 5, 1990, 104 Stat. 1388–608, 1388–614, 1388–617, 1388–618, 1388–625; Pub. L. 105–33, title X, §10106, Aug. 5, 1997, 111 Stat. 680; Pub. L. 113–67, div. A, title I, §122(3), Dec. 26, 2013, 127 Stat. 1175.)
 
 #### References in Text
 
-This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, and sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to theCode, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, and sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
 Section was formerly classified to section 1323 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (g)(2)(A). Pub. L. 113–67 substituted “Committee on the Budget” for “committee on the Budget”.
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–33, §10106(a), added subsec. (a) and struck out former subsec. (a) which required inclusion of certain allocations to committees of the House of Representatives and of the Senate in the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget.
 
@@ -132,7 +134,7 @@ Subsec. (c). Pub. L. 105–33, §10106(b), reenacted heading without change and 
 
 > within the jurisdiction of any committee which has received an appropriate allocation of such authority pursuant to subsection (a) of this section for such fiscal year, unless and until such committee makes the allocation or subdivisions required by subsection (b) of this section, in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year.”
 
-Subsec. (f)(1). Pub. L. 105–33, §10106(c)(1), substituted “providing new budget authority for any fiscal year” for “providing new budget authority for such fiscal year or new entitlement authority effective during such fiscal year” in introductory provisions and “applicable allocation of new budget authority made under subsection (a) or (b) of this section for the first fiscal year or the total of fiscal years to be exceeded.” for “appropriate allocation made pursuant to subsection (b) of this section for such fiscal year of new discretionary budget authority or new entitlement authority to be exceeded.” in concluding provisions.
+Subsec. (f)(1). Pub. L. 105–33, §10106(c)(1), substituted “providing new budget authority for any fiscal year” for “providing new budget authority for such fiscalyear or new entitlement authority effective during such fiscal year” in introductory provisions and “applicable allocation of new budget authority made under subsection (a) or (b) of this section for the first fiscal year or the total of fiscal years to be exceeded.” for “appropriate allocation made pursuant to subsection (b) of this section for such fiscal year of new discretionary budget authority or new entitlement authority to be exceeded.” in concluding provisions.
 
 Subsec. (f)(2). Pub. L. 105–33, §10106(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text provided that consideration in the Senate was not in order for certain bills, joint resolutions, amendments, motions, or conference reports that provided for budget outlays, new budget authority, or new spending authority in excess of certain allocations.
 
@@ -189,6 +191,4 @@ Amendment by section 13303(c) of Pub. L. 101–508 applicable with respect to fi
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (f), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

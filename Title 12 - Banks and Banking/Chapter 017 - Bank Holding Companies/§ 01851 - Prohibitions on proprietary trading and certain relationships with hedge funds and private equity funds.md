@@ -106,7 +106,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding the restrictions under subsection (a), to the extent permitted by any other provision of Federal or State law, and subject to the limitations under paragraph (2) and any restrictions or limitations that the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, may determine, the following activities (in this section referred to as “permitted activities”) are permitted:
+&emsp;Notwithstanding the restrictions under subsection (a), to the extent permitted by any other provision of Federal or State law, and subject to the limitations under paragraph (2) and any restrictions or limitations that the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, may determine, the following activities (in this section referred to as "permitted activities") are permitted:
 
 &emsp;&emsp;(A) The purchase, sale, acquisition, or disposition of obligations of the United States or any agency thereof, obligations, participations, or other instruments of or issued by the Government National Mortgage Association, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, a Federal Home Loan Bank, the Federal Agricultural Mortgage Corporation, or a Farm Credit System institution chartered under and subject to the provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), and obligations of any State or of any political subdivision thereof.
 
@@ -262,7 +262,7 @@ In this section, the following definitions shall apply:
 
 #### (1) Banking entity
 
-&emsp;The term “banking entity” means any insured depository institution (as defined in section 1813 of this title), any company that controls an insured depository institution, or that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978, and any affiliate or subsidiary of any such entity. For purposes of this paragraph, the term “insured depository institution” does not include an institution that functions solely in a trust or fiduciary capacity, if—
+&emsp;The term "banking entity" means any insured depository institution (as defined in section 1813 of this title), any company that controls an insured depository institution, or that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978, and any affiliate or subsidiary of any such entity. For purposes of this paragraph, the term "insured depository institution" does not include an institution that functions solely in a trust or fiduciary capacity, if—
 
 &emsp;&emsp;(A) all or substantially all of the deposits of such institution are in trust funds and are received in a bona fide fiduciary capacity;
 
@@ -278,19 +278,19 @@ In this section, the following definitions shall apply:
 
 #### (2) Hedge fund; private equity fund
 
-&emsp;The terms “hedge fund” and “private equity fund” mean an issuer that would be an investment company, as defined in the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.), but for section 3(c)(1) or 3(c)(7) of that Act \[15 U.S.C. 80a–3(c)(1), (7)\], or such similar funds as the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule, as provided in subsection (b)(2), determine.
+&emsp;The terms "hedge fund" and "private equity fund" mean an issuer that would be an investment company, as defined in the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.), but for section 3(c)(1) or 3(c)(7) of that Act \[15 U.S.C. 80a–3(c)(1), (7)\], or such similar funds as the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule, as provided in subsection (b)(2), determine.
 
 #### (3) Nonbank financial company supervised by the Board
 
-&emsp;The term “nonbank financial company supervised by the Board” means a nonbank financial company supervised by the Board of Governors, as defined in section 5311 of this title.
+&emsp;The term "nonbank financial company supervised by the Board" means a nonbank financial company supervised by the Board of Governors, as defined in section 5311 of this title.
 
 #### (4) Proprietary trading
 
-&emsp;The term “proprietary trading”, when used with respect to a banking entity or nonbank financial company supervised by the Board, means engaging as a principal for the trading account of the banking entity or nonbank financial company supervised by the Board in any transaction to purchase or sell, or otherwise acquire or dispose of, any security, any derivative, any contract of sale of a commodity for future delivery, any option on any such security, derivative, or contract, or any other security or financial instrument that the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule as provided in subsection (b)(2), determine.
+&emsp;The term "proprietary trading", when used with respect to a banking entity or nonbank financial company supervised by the Board, means engaging as a principal for the trading account of the banking entity or nonbank financial company supervised by the Board in any transaction to purchase or sell, or otherwise acquire or dispose of, any security, any derivative, any contract of sale of a commodity for future delivery, any option on any such security, derivative, or contract, or any other security or financial instrument that the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule as provided in subsection (b)(2), determine.
 
 #### (5) Sponsor
 
-&emsp;The term to “sponsor” a fund means—
+&emsp;The term to "sponsor" a fund means—
 
 &emsp;&emsp;(A) to serve as a general partner, managing member, or trustee of a fund;
 
@@ -300,13 +300,13 @@ In this section, the following definitions shall apply:
 
 #### (6) Trading account
 
-&emsp;The term “trading account” means any account used for acquiring or taking positions in the securities and instruments described in paragraph (4) principally for the purpose of selling in the near term (or otherwise with the intent to resell in order to profit from short-term price movements), and any such other accounts as the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule as provided in subsection (b)(2), determine.
+&emsp;The term "trading account" means any account used for acquiring or taking positions in the securities and instruments described in paragraph (4) principally for the purpose of selling in the near term (or otherwise with the intent to resell in order to profit from short-term price movements), and any such other accounts as the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule as provided in subsection (b)(2), determine.
 
 #### (7) Illiquid fund
 
 #### (A) In general
 
-&emsp;&emsp;The term “illiquid fund” means a hedge fund or private equity fund that—
+&emsp;&emsp;The term "illiquid fund" means a hedge fund or private equity fund that—
 
 &emsp;&emsp;&emsp;(i) as of May 1, 2010, was principally invested in, or was invested and contractually committed to principally invest in, illiquid assets, such as portfolio companies, real estate investments, and venture capital investments; and
 
@@ -314,7 +314,7 @@ In this section, the following definitions shall apply:
 
 #### (B) Hedge fund
 
-&emsp;&emsp;For the purposes of this paragraph, the term “hedge fund” means any fund identified under subsection (h)(2), and does not include a private equity fund, as such term is used in section 80b–3(m) of title 15.
+&emsp;&emsp;For the purposes of this paragraph, the term "hedge fund" means any fund identified under subsection (h)(2), and does not include a private equity fund, as such term is used in section 80b–3(m) of title 15.
 
 (May 9, 1956, ch. 240, §13, as added Pub. L. 111–203, title VI, §619, July 21, 2010, 124 Stat. 1620.)
 
@@ -336,5 +336,5 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “(d)(1)(G)(v)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "(d)(1)(G)(v)".</i>
 

@@ -26,31 +26,31 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–501, §308(1)(A), inserted “(or to any tribal organization receiving a grant under subchapter X of this chapter)” after “any State” and “(or funds used by such tribal organization)” before “for the delivery of supportive services”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–501, §308(1)(A), inserted "(or to any tribal organization receiving a grant under subchapter X of this chapter)" after "any State" and "(or funds used by such tribal organization)" before "for the delivery of supportive services".
 
-Subsec. (a)(2). Pub. L. 106–501, §308(1)(B), inserted “and such tribal organizations” after “States”.
+Subsec. (a)(2). Pub. L. 106–501, §308(1)(B), inserted "and such tribal organizations" after "States".
 
-Subsec. (a)(3). Pub. L. 106–501, §308(1)(C), inserted “or such tribal organization” after “State” in two places.
+Subsec. (a)(3). Pub. L. 106–501, §308(1)(C), inserted "or such tribal organization" after "State" in two places.
 
-Subsecs. (b)(1), (c). Pub. L. 106–501, §308(2), inserted “and such tribal organizations” after “States”.
+Subsecs. (b)(1), (c). Pub. L. 106–501, §308(2), inserted "and such tribal organizations" after "States".
 
-<b>1993</b>—Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing in subsecs. (a)(1), (3) and (b)(1).
+<b>1993</b>—Pub. L. 103–171, §3(a)(13), substituted "Assistant Secretary" for "Commissioner" wherever appearing in subsecs. (a)(1), (3) and (b)(1).
 
-Subsec. (a)(1). Pub. L. 103–171, §2(10), substituted “Robert T. Stafford Disaster Relief and Emergency Assistance Act” for “Disaster Relief and Emergency Assistance Act”.
+Subsec. (a)(1). Pub. L. 103–171, §2(10), substituted "Robert T. Stafford Disaster Relief and Emergency Assistance Act" for "Disaster Relief and Emergency Assistance Act".
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–375, §§102(b)(10)(A), 309(1)(A), substituted “area agencies on aging” for “area agencies” and inserted “(and related supplies)” after “supportive services”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–375, §§102(b)(10)(A), 309(1)(A), substituted "area agencies on aging" for "area agencies" and inserted "(and related supplies)" after "supportive services".
 
-Subsec. (a)(2). Pub. L. 102–375, §309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV of this chapter” for “for carrying out the purposes of section 3035a of this title”.
+Subsec. (a)(2). Pub. L. 102–375, §309(2), substituted "2 percent" for "5 percent" and "to carry out subchapterIV of this chapter" for "for carrying out the purposes of section 3035a of this title".
 
 Subsec. (a)(3). Pub. L. 102–375, §309(1)(B), added par. (3).
 
-Subsec. (b)(1). Pub. L. 102–375, §309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV of this chapter” for “for carrying out the purposes of section 3035a of this title”.
+Subsec. (b)(1). Pub. L. 102–375, §309(2), substituted "2 percent" for "5 percent" and "to carry out subchapter IV of this chapter" for "for carrying out the purposes of section 3035a of this title".
 
-Subsec. (b)(2). Pub. L. 102–375, §309(2)(B), substituted “to carry out subchapter IV of this chapter” for “for carrying out the purposes of section 3035a of this title”.
+Subsec. (b)(2). Pub. L. 102–375, §309(2)(B), substituted "to carry out subchapter IV of this chapter" for "for carrying out the purposes of section 3035a of this title".
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–707 substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1974”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–707 substituted "Disaster Relief and Emergency Assistance Act" for "Disaster Relief Act of 1974".
 
-<b>1981</b>—Subsec. (a)(1). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–115, §3(d), substituted "supportive services" for "social services".
 
 Subsecs. (a)(2), (b)(1), (2). Pub. L. 97–115, §11(b)(2), substituted reference to section 3035a of this title for reference to section 3035b of this title.
 

@@ -1,10 +1,10 @@
 ### §1595. Civil remedy
 
-(a) An individual who is a victim of a violation of this chapter may bring a civil action against the perpetrator (or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter) in an appropriate district court of the United States andmay recover damages and reasonable attorneys fees.
+(a) An individual who is a victim of a violation of this chapter may bring a civil action against the perpetrator (or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter) in an appropriate district court of the United States and may recover damages and reasonable attorneys fees.
 
 (b)(1) Any civil action filed under this section shall be stayed during the pendency of any criminal action arising out of the same occurrence in which the claimant is the victim.
 
-(2) In this subsection, a “criminal action” includes investigation and prosecution and is pending until final adjudication in the trial court.
+(2) In this subsection, a "criminal action" includes investigation and prosecution and is pending until final adjudication in the trial court.
 
 (c) No action may be maintained under this section unless it is commenced not later than 10 years after the cause of action arose.
 
@@ -12,7 +12,7 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–457, §221(2)(A), struck out “of section 1589, 1590, or 1591” after “victim of a violation” and inserted “(or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter)” after “perpetrator”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–457, §221(2)(A), struck out "of section 1589, 1590, or 1591" after "victim of a violation" and inserted "(or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter)" after "perpetrator".
 
 Subsec. (c). Pub. L. 110–457, §221(2)(B), added subsec. (c).
 

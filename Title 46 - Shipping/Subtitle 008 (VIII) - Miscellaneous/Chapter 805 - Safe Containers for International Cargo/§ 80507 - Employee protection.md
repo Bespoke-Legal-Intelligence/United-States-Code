@@ -34,5 +34,5 @@ Historical and Revision Notes
 
 Pub. L. 95–208, §7, Dec. 13, 1977, 91 Stat. 1479.
 
-In subsection (a), the words “in any manner” and “to the Secretary or his agents” are omitted as unnecessary. The words “or a regulation prescribed under this chapter” are added for consistency.
+In subsection (a), the words "in any manner" and "to the Secretary or his agents" are omitted as unnecessary. The words "or a regulation prescribed under this chapter" are added for consistency.
 

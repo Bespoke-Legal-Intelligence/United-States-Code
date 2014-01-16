@@ -94,73 +94,73 @@ For a prior section 3612, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-<b>2002</b>—Subsec. (f)(2)(B). Pub. L. 107–273 substituted “preceding the first day” for “preceding. the first day”.
+<b>2002</b>—Subsec. (f)(2)(B). Pub. L. 107–273 substituted "preceding the first day" for "preceding. the first day".
 
-<b>2000</b>—Subsec. (f)(2)(B). Pub. L. 106–554 substituted “the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding.” for “the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled before”.
+<b>2000</b>—Subsec. (f)(2)(B). Pub. L. 106–554 substituted "the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding." for "the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled before".
 
-<b>1996</b>—Pub. L. 104–132, §207(c)(2)(A), substituted “Collection of unpaid fine or restitution” for “Collection of an unpaid fine” in section catchline.
+<b>1996</b>—Pub. L. 104–132, §207(c)(2)(A), substituted "Collection of unpaid fine or restitution" for "Collection of an unpaid fine" in section catchline.
 
-Subsec. (b)(1). Pub. L. 104–132, §207(c)(2)(B)(i), inserted “or restitution order” after “fine” in introductory provisions.
+Subsec. (b)(1). Pub. L. 104–132, §207(c)(2)(B)(i), inserted "or restitution order" after "fine" in introductory provisions.
 
-Subsec. (b)(1)(C). Pub. L. 104–132, §207(c)(2)(B)(ii), inserted “or restitution order” after “fine”.
+Subsec. (b)(1)(C). Pub. L. 104–132, §207(c)(2)(B)(ii), inserted "or restitution order" after "fine".
 
-Subsec. (b)(1)(E). Pub. L. 104–132, §207(c)(2)(B)(iii), struck out “and” at end.
+Subsec. (b)(1)(E). Pub. L. 104–132, §207(c)(2)(B)(iii), struck out "and" at end.
 
-Subsec. (b)(1)(F). Pub. L. 104–132, §207(c)(2)(B)(iv), inserted “or restitution order” after “fine” and substituted “; and” for period at end.
+Subsec. (b)(1)(F). Pub. L. 104–132, §207(c)(2)(B)(iv), inserted "or restitution order" after "fine" and substituted "; and" for period at end.
 
 Subsec. (b)(1)(G). Pub. L. 104–132, §207(c)(2)(B)(v), added subpar. (G).
 
-Subsec. (c). Pub. L. 104–132, §207(c)(2)(C), inserted “or restitution” after “unpaid fine” in first sentence and inserted at end “Any money received from a defendant shall be disbursed so that each of the following obligations is paid in full in the following sequence:
+Subsec. (c). Pub. L. 104–132, §207(c)(2)(C), inserted "or restitution" after "unpaid fine" in first sentence and inserted at end "Any money received from a defendant shall be disbursed so that each of the following obligations is paid in full in the following sequence:
 
-&emsp;“(1) A penalty assessment under section 3013 of title 18, United States Code.
+&emsp;"(1) A penalty assessment under section 3013 of title 18, United States Code.
 
-&emsp;“(2) Restitution of all victims.
+&emsp;"(2) Restitution of all victims.
 
-&emsp;“(3) All other fines, penalties, costs, and other payments required under the sentence.”
+&emsp;"(3) All other fines, penalties, costs, and other payments required under the sentence."
 
-Subsec. (d). Pub. L. 104–132, §207(c)(2)(D)(ii), which directed substitution of “or restitution is delinquent, to inform the person of the delinquency” for “is delinquent, to inform him that the fine is delinquent”, was executed by making the substitution for “is delinquent to inform him that the fine is delinquent” to reflect the probable intent of Congress.
+Subsec. (d). Pub. L. 104–132, §207(c)(2)(D)(ii), which directed substitution of "or restitution is delinquent, to inform the person of the delinquency" for "is delinquent, to inform him that the fine is delinquent", was executed by making the substitution for "is delinquent to inform him that the fine is delinquent" to reflect the probable intent of Congress.
 
-Pub. L. 104–132, §207(c)(2)(D)(i), inserted “or restitution” after “Within ten working days after a fine”.
+Pub. L. 104–132, §207(c)(2)(D)(i), inserted "or restitution" after "Within ten working days after a fine".
 
-Subsec. (e). Pub. L. 104–132, §207(c)(2)(E), inserted “or restitution” after “days after a fine” and substituted “the person that the fine or restitution is in default” for “him that the fine is in default”.
+Subsec. (e). Pub. L. 104–132, §207(c)(2)(E), inserted "or restitution" after "days after a fine" and substituted "the person that the fine or restitution is in default" for "him that the fine is in default".
 
-Subsec. (f). Pub. L. 104–132, §207(c)(2)(F)(i), which directed amendment of heading by inserting “and restitution” after “on fines”, was executed by inserting the material after “on fines” to reflect the probable intent of Congress.
+Subsec. (f). Pub. L. 104–132, §207(c)(2)(F)(i), which directed amendment of heading by inserting "and restitution" after "on fines", was executed by inserting the material after "on fines" to reflect the probable intent of Congress.
 
-Subsec. (f)(1). Pub. L. 104–132, §207(c)(2)(F)(ii), inserted “or restitution” after “any fine”.
+Subsec. (f)(1). Pub. L. 104–132, §207(c)(2)(F)(ii), inserted "or restitution" after "any fine".
 
-Subsec. (g). Pub. L. 104–132, §207(c)(2)(G), inserted “or restitution” after “fine” in two places.
+Subsec. (g). Pub. L. 104–132, §207(c)(2)(G), inserted "or restitution" after "fine" in two places.
 
-Subsec. (i). Pub. L. 104–132, §207(c)(2)(H), inserted “and restitution” after “fines”.
+Subsec. (i). Pub. L. 104–132, §207(c)(2)(H), inserted "and restitution" after "fines".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted “604(a)(18)” for “604(a)(17)” wherever appearing.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted "604(a)(18)" for "604(a)(17)" wherever appearing.
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–690, §7082(d), struck out “, by certified mail,” after “fine is delinquent”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–690, §7082(d), struck out ", by certified mail," after "fine is delinquent".
 
-Subsec. (e). Pub. L. 100–690, §7082(d), struck out “, by certified mail,” after “the person defaulting”.
+Subsec. (e). Pub. L. 100–690, §7082(d), struck out ", by certified mail," after "the person defaulting".
 
-Subsec. (h). Pub. L. 100–690, §7082(c), inserted “or any interest or penalty relating to a fine imposed under any prior law” after “under this section”.
+Subsec. (h). Pub. L. 100–690, §7082(c), inserted "or any interest or penalty relating to a fine imposed under any prior law" after "under this section".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–185, §11(a), substituted “Notification of receipt and related matters” for “Disposition of payment” in heading and amended text generally. Prior to amendment, text read as follows: “The clerk shall forward each fine payment to the United States Treasury and shall notify the Attorney General of its receipt within ten working days.”
+<b>1987</b>—Subsec. (a). Pub. L. 100–185, §11(a), substituted "Notification of receipt and related matters" for "Disposition of payment" in heading and amended text generally. Prior to amendment, text read as follows: "The clerk shall forward each fine payment to the United States Treasury and shall notify the Attorney General of its receipt within ten working days."
 
-Subsec. (b). Pub. L. 100–185, §11(b), substituted “Information to be included in judgment; judgment to be transmitted to Attorney General” for “Certification of imposition” in heading and amended text generally. Prior to amendment, text read as follows: “If a fine exceeding $100 is imposed, modified, or remitted, the sentencing court shall incorporate in the order imposing, remitting, or modifying such fine, and promptly certify to the Attorney General—
+Subsec. (b). Pub. L. 100–185, §11(b), substituted "Information to be included in judgment; judgment to be transmitted to Attorney General" for "Certification of imposition" in heading and amended text generally. Prior to amendment, text read as follows: "If a fine exceeding $100 is imposed, modified, or remitted, the sentencing court shall incorporate in the order imposing, remitting, or modifying such fine, and promptly certify to the Attorney General—
 
-&emsp;“(1) the name of the person fined;
+&emsp;"(1) the name of the person fined;
 
-&emsp;“(2) his current address;
+&emsp;"(2) his current address;
 
-&emsp;“(3) the docket number of the case;
+&emsp;"(3) the docket number of the case;
 
-&emsp;“(4) the amount of the fine imposed;
+&emsp;"(4) the amount of the fine imposed;
 
-&emsp;“(5) any installment schedule;
+&emsp;"(5) any installment schedule;
 
-&emsp;“(6) the nature of any modification or remission of the fine or installment schedule; and
+&emsp;"(6) the nature of any modification or remission of the fine or installment schedule; and
 
-&emsp;“(7) the amount of the fine that is due and unpaid.”
+&emsp;"(7) the amount of the fine that is due and unpaid."
 
-Subsec. (d). Pub. L. 100–185, §11(c)(1), substituted “section 3572(h)” for “section 3572(i)”.
+Subsec. (d). Pub. L. 100–185, §11(c)(1), substituted "section 3572(h)" for "section 3572(i)".
 
-Subsec. (e). Pub. L. 100–185, §11(c)(2), substituted “section 3572(i)” for “section 3572(j)”.
+Subsec. (e). Pub. L. 100–185, §11(c)(2), substituted "section 3572(i)" for "section 3572(j)".
 
 Subsec. (f). Pub. L. 100–185, §11(d), amended subsec. (f) generally, substituting provisions relating to interest on fines, computation of interest, and modification of interest by court, for provisions relating to interest and monetary penalties for delinquent fines.
 
@@ -178,21 +178,21 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 Pub. L. 98–473, title II, §237, Oct. 12, 1984, 98 Stat. 2033, provided that:
 
-“(a)(1) Except as provided in paragraph (2), for each criminal fine for which the unpaid balance exceeds $100 as of the effective date of this Act \[see section 235 of Pub. L. 98–473, as amended, set out as a note under section 3551 of this title\], the Attorney General shall, within one hundred and twenty days, notify the person by certified mail of his obligation, within thirty days after notification, to—
+"(a)(1) Except as provided in paragraph (2), for each criminal fine for which the unpaid balance exceeds $100 as of the effective date of this Act \[see section 235 of Pub. L. 98–473, as amended, set out as a note under section 3551 of this title\], the Attorney General shall, within one hundred and twenty days, notify the person by certified mail of his obligation, within thirty days after notification, to—
 
-&emsp;“(A) pay the fine in full;
+&emsp;"(A) pay the fine in full;
 
-&emsp;“(B) specify, and demonstrate compliance with, an installment schedule established by a court before enactment of the amendments made by this Act \[Oct. 12, 1984\], specifying the dates on which designated partial payments will be made; or
+&emsp;"(B) specify, and demonstrate compliance with, an installment schedule established by a court before enactment of the amendments made by this Act \[Oct. 12, 1984\], specifying the dates on which designated partial payments will be made; or
 
-&emsp;“(C) establish with the concurrence of the Attorney General, a new installment schedule of a duration not exceeding two years, except in special circumstances, and specifying the dates on which designated partial payments will be made.
+&emsp;"(C) establish with the concurrence of the Attorney General, a new installment schedule of a duration not exceeding two years, except in special circumstances, and specifying the dates on which designated partial payments will be made.
 
-“(2) This subsection shall not apply in cases in which—
+"(2) This subsection shall not apply in cases in which—
 
-&emsp;“(A) the Attorney General believes the likelihood of collection is remote; or
+&emsp;"(A) the Attorney General believes the likelihood of collection is remote; or
 
-&emsp;“(B) criminal fines have been stayed pending appeal.
+&emsp;"(B) criminal fines have been stayed pending appeal.
 
-“(b) The Attorney General shall, within one hundred and eighty days after the effective date of this Act, declare all fines for which this obligation is unfulfilled to be in criminal default, subject to the civil and criminal remedies established by amendments made by this Act \[see Short Title note set out under section 3551 of this title\]. No interest or monetary penalties shall be charged on any fines subject to this section.
+"(b) The Attorney General shall, within one hundred and eighty days after the effective date of this Act, declare all fines for which this obligation is unfulfilled to be in criminal default, subject to the civil and criminal remedies established by amendments made by this Act \[see Short Title note set out under section 3551 of this title\]. No interest or monetary penalties shall be charged on any fines subject to this section.
 
-“(c) Not later than one year following the effective date of this Act, the Attorney General shall include in the annual crime report steps taken to implement this Act and the progress achieved in criminal fine collection, including collection data for each judicial district.”
+"(c) Not later than one year following the effective date of this Act, the Attorney General shall include in the annual crime report steps taken to implement this Act and the progress achieved in criminal fine collection, including collection data for each judicial district."
 

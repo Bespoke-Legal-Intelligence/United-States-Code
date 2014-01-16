@@ -4,5 +4,5 @@ Notwithstanding any other provision of law, any action to contest the constituti
 
 (Pub. L. 100–95, §10, Aug. 18, 1987, 101 Stat. 710.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “for”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "for".</i>
 

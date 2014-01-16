@@ -14,7 +14,7 @@ Nothing in this chapter authorizes the Secretary to provide services to an India
 
 #### (A) 100 percent pass-through of payments due to facilities
 
-&emsp;&emsp;Notwithstanding any other provision of law, but subject to paragraph (2), paymentsto which a facility of the Service is entitled by reason of a provision of title XVIII or XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\] shall be placed in a special fund to be held by the Secretary. In making payments from such fund, the Secretary shall ensure that each Service unit of the Service receives 100 percent of the amount to which the facilities of the Service, for which such Service unit makes collections, are entitled by reason of a provision of either such title.
+&emsp;&emsp;Notwithstanding any other provision of law, but subject to paragraph (2), payments to which a facility of the Service is entitled by reason of a provision of title XVIII or XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\] shall be placed in a special fund to be held by the Secretary. In making payments from such fund, the Secretary shall ensure that each Service unit of the Service receives 100 percent of the amount to which the facilities of the Service, for which such Service unit makes collections, are entitled by reason of a provision of either such title.
 
 #### (B) Use of funds
 
@@ -34,7 +34,7 @@ Nothing in this chapter authorizes the Secretary to provide services to an India
 
 #### (A) Use of funds
 
-&emsp;&emsp;Each tribal health program making the election described in paragraph (1) with respect to a program under a title of the Social Security Act \[42 U.S.C. 301 et seq.\] shall be reimbursed directly by that program for items and services furnished without regard to subsection (c)(1), except that all amounts so reimbursed shall be used by the tribal health program for the purpose of making any improvements in facilities of the tribal health program that may be necessary to achieve or maintain compliance with the conditions and requirements applicable generally to such items and services under the program under such title and to provide additional health care services, improvements in health care facilities and tribal health programs, any health care-related purpose (including coverage for a service or service within a contract health service delivery area or any portion of a contract health service delivery area that would otherwise be provided as a contract health service), or otherwise to achieve the objectives provided in section 1602 of this title.
+&emsp;&emsp;Each tribal health program making the election described in paragraph (1) with respect to a program under a title of the Social Security Act \[42 U.S.C. 301 et seq.\] shall be reimbursed directly by that program for items and services furnished without regard to subsection (c)(1), except that all amounts so reimbursed shall be used by the tribal health program for the purpose of making any improvements in facilities of the tribal health program that may be necessary to achieve or maintain compliance with theconditions and requirements applicable generally to such items and services under the program under such title and to provide additional health care services, improvements in health care facilities and tribal health programs, any health care-related purpose (including coverage for a service or service within a contract health service delivery area or any portion of a contract health service delivery area that would otherwise be provided as a contract health service), or otherwise to achieve the objectives provided in section 1602 of this title.
 
 #### (B) Audits
 
@@ -72,7 +72,7 @@ For provisions related to subsections (c) and (d), see sections 1880, 1911, and 
 
 The Social Security Act, referred to in subsecs. (a) to (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -88,7 +88,7 @@ Prior to general amendment by Pub. L. 102–573, section 401 of Pub. L. 94–437
 
 <b>1992</b>—Pub. L. 102–573 amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (d). See Codification note above.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “XXI”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "XXI".</i>
 
-<i><sup>2</sup></i><i> So in original. The word “or” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "or" probably should not appear.</i>
 

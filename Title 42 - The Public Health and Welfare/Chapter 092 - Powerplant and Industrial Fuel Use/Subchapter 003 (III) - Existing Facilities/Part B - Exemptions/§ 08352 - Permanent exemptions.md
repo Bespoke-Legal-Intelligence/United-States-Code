@@ -82,7 +82,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 #### (h) Permanent exemption for use of natural gas by certain powerplants with capacities of less than 250 million Btu's per hour
 
-(1) Subject to paragraph (2), after consideration of a petition (and comments thereon) for an exemption from any prohibition of part A for the use of natural gas by a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection for such use, if he finds that the petitioner has demonstrated that—
+(1) Subject to paragraph (2), after consideration of a petition (and comments thereon) foran exemption from any prohibition of part A for the use of natural gas by a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection for such use, if he finds that the petitioner has demonstrated that—
 
 &emsp;(A) such powerplant has a design capability of consuming fuel (or any mixture thereof) at a fuel heat input rate of less than 250 million Btu's per hour;
 
@@ -104,17 +104,17 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(3), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsec. (b)(3), was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Amendments
 
-<b>1987</b>—Subsecs. (a)(1), (b), (d)(1). Pub. L. 100–42, §1(c)(10), struck out “or installation” after “powerplant” wherever appearing.
+<b>1987</b>—Subsecs. (a)(1), (b), (d)(1). Pub. L. 100–42, §1(c)(10), struck out "or installation" after "powerplant" wherever appearing.
 
-Subsec. (d)(2). Pub. L. 100–42, §1(c)(12)(A), struck out par. (2) which read as follows: “In the case of an existing major fuel-burning installation, the percentage determined by the Secretary under subparagraph (B) of paragraph (1) shall not be less than 25 percent.”
+Subsec. (d)(2). Pub. L. 100–42, §1(c)(12)(A), struck out par. (2) which read as follows: "In the case of an existing major fuel-burning installation, the percentage determined by the Secretary under subparagraph (B) of paragraph (1) shall not be less than 25 percent."
 
-Subsec. (d)(3). Pub. L. 100–42, §1(c)(12)(B), substituted “The” for “In the case of an existing electric powerplant, the”.
+Subsec. (d)(3). Pub. L. 100–42, §1(c)(12)(B), substituted "The" for "In the case of an existing electric powerplant, the".
 
-Subsec. (e). Pub. L. 100–42, §1(c)(10), struck out “or installation” after “powerplant” wherever appearing.
+Subsec. (e). Pub. L. 100–42, §1(c)(10), struck out "or installation" after "powerplant" wherever appearing.
 
 Subsec. (j). Pub. L. 100–42, §1(c)(12)(C), struck out subsec. (j) which related to granting, by Secretary of Energy, of permanent exemptions for use of natural gas for installations served by international pipelines.
 

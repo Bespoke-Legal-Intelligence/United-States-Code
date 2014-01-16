@@ -12,7 +12,7 @@ Subpart C—Storage
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–39, title VIII, §807(b)(6), July 26, 1979, 93 Stat. 290, substituted “Entry for deposit” for “Entry for deposit in storage” in item 5231 and struck out items 5233 “Bottling of distilled spirits in bond” and 5234 “Mingling and blending of distilled spirits”.
+<b>1979</b>—Pub. L. 96–39, title VIII, §807(b)(6), July 26, 1979, 93 Stat. 290, substituted "Entry for deposit" for "Entryfor deposit in storage" in item 5231 and struck out items 5233 "Bottling of distilled spirits in bond" and 5234 "Mingling and blending of distilled spirits".
 
 
 ---

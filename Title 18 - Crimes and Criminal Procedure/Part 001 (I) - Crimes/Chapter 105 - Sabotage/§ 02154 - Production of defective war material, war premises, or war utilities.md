@@ -12,17 +12,17 @@ Based on section 103 of title 50, U.S.C., 1940 ed., War and National Defense (Ap
 
 The conspiracy provisions are new. Their addition to the section was strongly urged by the Criminal Division of the Department of Justice, considering the gravity of the substantive offense as evidenced by the prescribed punishment therefor. The punishment provisions of the general conspiracy statute, section 371 of this title, are inadequate.
 
-Words “upon conviction thereof” were omitted as unnecessary, since punishment cannot be imposed until a conviction is secured.
+Words "upon conviction thereof" were omitted as unnecessary, since punishment cannot be imposed until a conviction is secured.
 
 Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
 
-<b>1954</b>—Act Sept. 3, 1954, made section applicable in time of national emergency, and enlarged its scope by bringing “war premises, or war utilities” within jurisdiction of section.
+<b>1954</b>—Act Sept. 3, 1954, made section applicable in time of national emergency, and enlarged its scope by bringing "war premises, or war utilities" within jurisdiction of section.
 
-<b>1953</b>—Subsec. (a). Act June 30, 1953, inserted “or defense activities” after “carrying on the war”.
+<b>1953</b>—Subsec. (a). Act June 30, 1953, inserted "or defense activities" after "carrying on the war".
 
 #### Repeals
 

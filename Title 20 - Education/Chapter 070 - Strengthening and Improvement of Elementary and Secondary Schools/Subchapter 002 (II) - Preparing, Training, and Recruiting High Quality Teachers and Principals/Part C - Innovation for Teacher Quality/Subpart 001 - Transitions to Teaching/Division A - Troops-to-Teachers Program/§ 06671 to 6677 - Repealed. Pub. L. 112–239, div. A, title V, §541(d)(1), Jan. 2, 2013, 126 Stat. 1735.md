@@ -14,7 +14,7 @@ A prior section 6673, Pub. L. 89–10, title II, §2303, as added Pub. L. 103–
 
 Section 6674, Pub. L. 89–10, title II, §2304, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1651, related to participation agreements with, and financial assistance for, Troops-to-Teachers Program participants.
 
-A prior section 6674, Pub. L. 89–10, title II, §2304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3634, related to plan for program to be assisted, prior tothe general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6674, Pub. L. 89–10, title II, §2304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3634, related to plan for program to be assisted, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Section 6675, Pub. L. 89–10, title II, §2305, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1654, related to participation by States in the Troops-to-Teachers Program.
 
@@ -32,9 +32,9 @@ Responsibility and authority for operation and administration of the Troops-to-T
 
 #### Existing Agreements
 
-Pub. L. 112–239, div. A, title V, §541(d)(3), Jan. 2, 2013, 126 Stat. 1735, provided that: “The repeal of chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6671 et seq.) by paragraph (1) shall not affect—
+Pub. L. 112–239, div. A, title V, §541(d)(3), Jan. 2, 2013, 126 Stat. 1735, provided that: "The repeal of chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6671 et seq.) by paragraph (1) shall not affect—
 
-&emsp;“(A) the validity or terms of any agreement entered into under such chapter, as in effect immediately before such repeal, before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a) \[set out as a note under section 1154 of Title 10, Armed Forces\]; or
+&emsp;"(A) the validity or terms of any agreement entered into under such chapter, as in effect immediately before such repeal, before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a) \[set out as a note under section 1154 of Title 10, Armed Forces\]; or
 
-&emsp;“(B) the authority to pay assistance, make grants, or obtain reimbursement in connection with such an agreement as in effect before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a).”
+&emsp;"(B) the authority to pay assistance, make grants, or obtain reimbursement in connection with such an agreement as in effect before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a)."
 

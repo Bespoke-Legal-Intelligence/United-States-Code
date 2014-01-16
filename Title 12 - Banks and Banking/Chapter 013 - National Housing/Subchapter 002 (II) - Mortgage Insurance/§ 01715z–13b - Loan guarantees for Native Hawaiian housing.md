@@ -6,23 +6,23 @@ In this section:
 
 #### (1) Department of Hawaiian Home Lands
 
-&emsp;The term “Department of Hawaiian Home Lands” means the agency or department of the government of the State of Hawaii that is responsible for the administration of the Hawaiian Homes Commission Act, 1920 (42 Stat. 108 et seq.).
+&emsp;The term "Department of Hawaiian Home Lands" means the agency or department of the government of the State of Hawaii that is responsible for the administration of the Hawaiian Homes Commission Act, 1920 (42 Stat. 108 et seq.).
 
 #### (2) Eligible entity
 
-&emsp;The term “eligible entity” means a Native Hawaiian family, the Department of Hawaiian Home Lands, the Office of Hawaiian Affairs, and private nonprofit or private for-profit organizations experienced in the planning and development of affordable housing for Native Hawaiians.
+&emsp;The term "eligible entity" means a Native Hawaiian family, the Department of Hawaiian Home Lands, the Office of Hawaiian Affairs, and private nonprofit or private for-profit organizations experienced in the planning and development of affordable housing for Native Hawaiians.
 
 #### (3) Family
 
-&emsp;The term “family” means one or more persons maintaining a household, as the Secretary shall by regulation provide.
+&emsp;The term "family" means one or more persons maintaining a household, as the Secretary shall by regulation provide.
 
 #### (4) Guarantee Fund
 
-&emsp;The term “Guarantee Fund” means the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j) of this section.
+&emsp;The term "Guarantee Fund" means the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j) of this section.
 
 #### (5) Hawaiian Home Lands
 
-&emsp;The term “Hawaiian Home Lands” means lands that—
+&emsp;The term "Hawaiian Home Lands" means lands that—
 
 &emsp;&emsp;(A) have the status of Hawaiian Home Lands under section 204 of the Hawaiian Homes Commission Act (42 Stat. 110); or
 
@@ -30,7 +30,7 @@ In this section:
 
 #### (6) Native Hawaiian
 
-&emsp;The term “Native Hawaiian” means any individual who is—
+&emsp;The term "Native Hawaiian" means any individual who is—
 
 &emsp;&emsp;(A) a citizen of the United States; and
 
@@ -44,7 +44,7 @@ In this section:
 
 #### (7) Office of Hawaiian Affairs
 
-&emsp;The term “Office of Hawaiian Affairs” means the entity of that name established under the constitution of the State of Hawaii.
+&emsp;The term "Office of Hawaiian Affairs" means the entity of that name established under the constitution of the State of Hawaii.
 
 #### (b) Authority
 
@@ -376,7 +376,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 &emsp;&emsp;&emsp;(iv) contain an electrical system using wiring and equipment properly installed to safely supply electrical energy for adequate lighting and for operation of appliances that conforms to any appropriate county, State, or national code;
 
-&emsp;&emsp;&emsp;(v) be not less than the size provided under the applicable locally adopted standards for size of dwelling units, except that the Secretary, upon request of the Department of Hawaiian Home Lands may waive the size requirements under this paragraph; and
+&emsp;&emsp;&emsp;(v) be not less than the size provided under the applicable locally adopted standards for size of dwelling units, except thatthe Secretary, upon request of the Department of Hawaiian Home Lands may waive the size requirements under this paragraph; and
 
 &emsp;&emsp;&emsp;(vi) conform with the energy performance requirements for new construction established by the Secretary under section 526(a) of the National Housing Act \[12 U.S.C. 1735f–4(a)\], unless the Secretary determines that the requirements are not applicable.
 

@@ -76,7 +76,7 @@ The Task Force shall establish and implement monitoring measures, within the pro
 
 #### (2) Protocol
 
-&emsp;Within 90 days of November 29, 1990, the Task Force shall establish and follow a protocol to ensure that research activities carried out under this subchapter do not result in the introduction of aquatic nuisance species to waters of the United States.
+&emsp;Within 90 days of November 29, 1990, the Task Force shall establish and follow a protocol to ensure that research activities carriedout under this subchapter do not result in the introduction of aquatic nuisance species to waters of the United States.
 
 #### (3) Grants for research
 
@@ -140,7 +140,7 @@ The Task Force shall, with the program developed under subsection (a) of this se
 
 &emsp;&emsp;&emsp;(i) which of the methods that are identified under the study conducted under this paragraph are most promising with respect to preventing and reducing the dispersal of aquatic nuisance species; and
 
-&emsp;&emsp;&emsp;(ii) ways to incorporate those methods into ongoing operations of the United States Army Corps of Engineers that are conducted at the Chicago River Ship and Sanitary Canal.
+&emsp;&emsp;&emsp;(ii) ways to incorporate those methods into ongoing operations of the United States Army Corps of Engineers that areconducted at the Chicago River Ship and Sanitary Canal.
 
 #### (C) Authorization of appropriations
 
@@ -174,19 +174,19 @@ The Task Force shall, with the program developed under subsection (a) of this se
 
 #### References in Text
 
-This chapter, referred to in subsecs. (e)(1) and (f)(3), was in the original “this Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4701 of this title and Tables.
+This chapter, referred to in subsecs. (e)(1) and (f)(3), was in the original "this Act", which, to reflect the probable intent of Congress, was translated as reading "this title" meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (i)(3)(C). Pub. L. 109–234 substituted “such sums as are necessary to carry out the dispersal barrier demonstration project directed by this paragraph” for “, to carry out this paragraph, $750,000”.
+<b>2006</b>—Subsec. (i)(3)(C). Pub. L. 109–234 substituted "such sums as are necessary to carry out the dispersal barrier demonstration project directed by this paragraph" for ", to carry out this paragraph, $750,000".
 
 <b>1996</b>—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1202, which enacted this section.
 
-Subsec. (f)(1)(A). Pub. L. 104–332, §2(e)(3)(A), inserted “and impacts” after “economic risks”.
+Subsec. (f)(1)(A). Pub. L. 104–332, §2(e)(3)(A), inserted "and impacts" after "economic risks".
 
-Subsec. (i). Pub. L. 104–332, §2(e)(3)(B), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and former subpars. (A) to (D) of par. (1) as cls. (i) to (iv), respectively, of subpar. (A), inserted new par. (1) heading, substituted “The Assistant Secretary, in consultation with the Task Force, shall develop a program of research, technology development, and demonstration for the environmentally sound control of zebra mussels in and around public facilities.” for “The Assistant Secretary, in consultation with the Task Force, shall develop a program of research and technology development for the environmentally sound control of zebra mussels in and around public facilities.” in subpar. (B), and added subpar. (C) and pars. (2) to (5).
+Subsec. (i). Pub. L. 104–332, §2(e)(3)(B), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and former subpars. (A) to (D) of par. (1) as cls. (i) to (iv), respectively, of subpar. (A), inserted new par. (1) heading, substituted "The Assistant Secretary, in consultation with the Task Force, shall develop a program of research, technology development, and demonstration for the environmentally sound control of zebra mussels in and around public facilities." for "The Assistant Secretary, in consultation with the Task Force, shall develop a program of research and technology development for the environmentally sound control of zebra mussels in and around public facilities." in subpar. (B), and added subpar. (C) and pars. (2) to (5).
 
-Subsec. (j)(1). Pub. L. 104–332, §2(e)(4), substituted “The Director, the Secretary,” for “Not later than 18 months after November 29, 1990, the Director”.
+Subsec. (j)(1). Pub. L. 104–332, §2(e)(4), substituted "The Director, the Secretary," for "Not later than 18 months after November 29, 1990, the Director".
 
-Subsec. (k). Pub. L. 104–332, §2(g), substituted “Congress” for “appropriate Committees” in pars. (1) and (2).
+Subsec. (k). Pub. L. 104–332, §2(g), substituted "Congress" for "appropriate Committees" in pars. (1) and (2).
 

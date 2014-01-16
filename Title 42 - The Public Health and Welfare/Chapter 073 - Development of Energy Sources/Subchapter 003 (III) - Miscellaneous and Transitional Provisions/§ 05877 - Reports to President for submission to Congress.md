@@ -2,7 +2,7 @@
 
 #### (a) Report by Administrator on activities of Administration
 
-The Administrator shall, as soon as practicable after the end of each fiscal year, make a report to the President for submission to the Congress on the activities of the Administration during the preceding fiscal year. Such report shall include a statement of the short-range and long-range goals, priorities, and plans of the Administration together with an assessment of the progress made toward the attainment of those objectives and toward the more effective and efficient management of the Administration and the coordination of its functions.
+The Administrator shall, as soon as practicable after the end of each fiscal year, make a report to the President for submission to theCongress on the activities of the Administration during the preceding fiscal year. Such report shall include a statement of the short-range and long-range goals, priorities, and plans of the Administration together with an assessment of the progress made toward the attainment of those objectives and toward the more effective and efficient management of the Administration and the coordination of its functions.
 
 #### (b) Review of desirability and feasibility of transferring functions of Administrator respecting military application and restricted data to Department of Defense or other Federal agencies; report by Administrator
 
@@ -38,5 +38,5 @@ Energy Research and Development Administration terminated and functions vested b
 
 #### Description in Report Respecting Decontamination, Etc., Collaborative Efforts at Three Mile Island Unit 2
 
-Pub. L. 97–415, §10(c), Jan. 4, 1983, 96 Stat. 2071, provided that: “The Nuclear Regulatory Commission shall include in its annual report to the Congress under section 307(c) of the Energy Reorganization Act of 1974 (42 U.S.C. 5877(c)) as a separate chapter a description of the collaborative efforts undertaken, or proposed to be undertaken, by the Commission and the Department of Energy with respect to the decontamination, cleanup, repair, or rehabilitation of facilities at Three Mile Island Unit 2.”
+Pub. L. 97–415, §10(c), Jan. 4, 1983, 96 Stat. 2071, provided that: "The Nuclear Regulatory Commission shall include in its annual report to the Congress under section 307(c) of the Energy Reorganization Act of 1974 (42 U.S.C. 5877(c)) as a separate chapter a description of the collaborative efforts undertaken, or proposed to be undertaken, by the Commission and the Department of Energy with respect to the decontamination, cleanup, repair, or rehabilitation of facilities at Three Mile Island Unit 2."
 

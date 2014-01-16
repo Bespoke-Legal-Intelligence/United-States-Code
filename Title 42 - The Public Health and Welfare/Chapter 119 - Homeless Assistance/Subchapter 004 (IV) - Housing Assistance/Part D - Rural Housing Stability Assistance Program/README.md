@@ -8,7 +8,7 @@ Prior parts E and F, consisting of sections 11401 to 11407b, which related to mi
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–22, div. B, title IV, §1401(1), title V, §1502(c), May 20, 2009, 123 Stat. 1696, 1701, redesignated part G as D and substituted “Rural Housing Stability Assistance Program” for “Rural Homeless Housing Assistance” in heading.
+<b>2009</b>—Pub. L. 111–22, div. B, title IV, §1401(1), title V, §1502(c), May 20, 2009, 123 Stat. 1696, 1701, redesignated part G as D and substituted "Rural Housing Stability Assistance Program" for "Rural Homeless Housing Assistance" in heading.
 
 
 ---

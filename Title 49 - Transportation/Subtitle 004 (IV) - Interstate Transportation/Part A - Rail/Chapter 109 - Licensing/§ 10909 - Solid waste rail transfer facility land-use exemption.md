@@ -52,7 +52,7 @@ Considerations.—When evaluating an application under this section, the Board s
 
 (e)
 
-Existing Facilities.—Upon the granting of <sup>2</sup> petition from the State in which a solid waste rail transfer facility is operating as of the date of enactment of the Clean Railroads Act of 2008 by the Board, the facility shall submit a complete application for a siting permit to the Board pursuant to the procedures issued pursuant to subsection (b). No State may enforce a law, regulation, order, or other requirement affecting the siting of a facility that is operating as of the date of enactment of the Clean Railroads Act of 2008 until the Board has approved or denied a permit pursuant to subsection (c).
+Existing Facilities.—Upon the granting of <sup>2</sup> petition from the State in which a solid waste rail transfer facility is operating as of the date of enactment of the Clean Railroads Act of 2008 by the Board, the facility shall submit a complete application for a siting permit to the Board pursuant to the procedures issued pursuant to subsection (b). No State may enforce alaw, regulation, order, or other requirement affecting the siting of a facility that is operating as of the date of enactment of the Clean Railroads Act of 2008 until the Board has approved or denied a permit pursuant to subsection (c).
 
 (f)
 
@@ -68,7 +68,7 @@ Fees.—The Board may charge permit applicants reasonable fees to implement this
 
 (i)
 
-Definitions.—In this section the terms “solid waste”, “solid waste rail transfer facility”, and “State requirements” have the meaning given such terms in section 10908(e).
+Definitions.—In this section the terms "solid waste", "solid waste rail transfer facility", and "State requirements" have the meaning given such terms in section 10908(e).
 
 (Added Pub. L. 110–432, div. A, title VI, §604(a), Oct. 16, 2008, 122 Stat. 4903.)
 
@@ -82,7 +82,7 @@ Public Law 108–421, referred to in subsec. (c)(2), is Pub. L. 108–421, Nov. 
 
 For prior section 10909, see note set out under section 10907 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Railroads”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Railroads".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “a”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "a".</i>
 

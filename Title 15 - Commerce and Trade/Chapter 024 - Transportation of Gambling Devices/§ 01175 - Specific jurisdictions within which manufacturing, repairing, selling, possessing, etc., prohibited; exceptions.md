@@ -18,7 +18,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 &emsp;&emsp;&emsp;(ii) the gambling device remains on board that vessel while the vessel is within the boundaries of that State or possession; or
 
-&emsp;&emsp;(C) the repair, transport, possession, or use of a gambling device on a vessel on a voyagethat begins in the State of Indiana and that does not leave the territorial jurisdiction of that State, including such a voyage on Lake Michigan.
+&emsp;&emsp;(C) the repair, transport, possession, or use of a gambling device on a vessel on a voyage that begins in the State of Indiana and that does not leave the territorial jurisdiction of that State, including such a voyage on Lake Michigan.
 
 #### (2) Application to certain voyages
 
@@ -64,7 +64,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b)(1). Pub. L. 106–554 inserted “for a voyage or a segment of a voyage that begins and ends in the State of Hawaii, or” after “Except” in introductory provisions.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–554 inserted "for a voyage or a segment of a voyage that begins and ends in the State of Hawaii, or" after "Except" in introductory provisions.
 
 <b>1996</b>—Subsec. (b)(1)(C). Pub. L. 104–324, §1106(b), added subpar. (C).
 
@@ -72,7 +72,7 @@ Subsec. (b)(2)(C). Pub. L. 104–264, §1222, and Pub. L. 104–324, §1106(a), 
 
 Subsec. (c). Pub. L. 104–324, §1106(c), added subsec. (c).
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–251, §202(b)(1), (2), designated existing provisions as subsec. (a), inserted heading, and inserted before period at end “, including on a vessel documented under chapter 121 of title 46 or documented under the laws of a foreign country”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–251, §202(b)(1), (2), designated existing provisions as subsec. (a), inserted heading, and inserted before period at end ", including on a vessel documented under chapter 121 of title 46 or documented under the laws of a foreign country".
 
 Subsec. (b). Pub. L. 102–251, §202(b)(3), added subsec. (b).
 

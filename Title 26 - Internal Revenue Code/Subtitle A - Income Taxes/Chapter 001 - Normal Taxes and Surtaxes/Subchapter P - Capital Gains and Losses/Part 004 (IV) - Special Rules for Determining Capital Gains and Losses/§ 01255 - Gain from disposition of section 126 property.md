@@ -18,7 +18,7 @@
 
 #### (2) Section 126 property
 
-&emsp;For purposes of this section, “section 126 property” means any property acquired, improved, or otherwise modified by the application of payments excluded from gross income under section 126.
+&emsp;For purposes of this section, "section 126 property" means any property acquired, improved, or otherwise modified by the application of payments excluded from gross income under section 126.
 
 #### (3) Applicable percentage
 
@@ -36,19 +36,19 @@ Under regulations prescribed by the Secretary—
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(2). Pub. L. 108–27 struck out “, 341(e)(12),” after “170(e)”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–27 struck out ", 341(e)(12)," after "170(e)".
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 amended Pub. L. 99–514, §511(d)(2)(A), see 1986 Amendment note below.
 
-<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §511(d)(2)(A), as amended by Pub. L. 100–647, struck out “163(d),” after “sections”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §511(d)(2)(A), as amended by Pub. L. 100–647, struck out "163(d)," after "sections".
 
-Pub. L. 99–514, §631(e)(14), struck out “453B(d)(2)” after “341(e)(12),”.
+Pub. L. 99–514, §631(e)(14), struck out "453B(d)(2)" after "341(e)(12),".
 
 <b>1980</b>—Subsec. (a)(1)(B). Pub. L. 96–222, §105(a)(7)(B), inserted following cl. (ii) provisions requiring that such gain be recognized notwithstanding any other provision of this subtitle, except that this section shall not apply to the extent such gain is recognized as ordinary income under any other provision of this part.
 
-Subsec. (b)(2). Pub. L. 96–471 substituted “453B(d)(2)” for “453(d)(4)(B)”.
+Subsec. (b)(2). Pub. L. 96–471 substituted "453B(d)(2)" for "453(d)(4)(B)".
 
-Pub. L. 96–222, §105(a)(7)(D), inserted “for purposes of sections 163(d), 170(e), 341(e)(12), 453(d)(4)(B), and 751(c)” before “amounts treated as”.
+Pub. L. 96–222, §105(a)(7)(D), inserted "for purposes of sections 163(d), 170(e), 341(e)(12), 453(d)(4)(B), and 751(c)" before "amounts treated as".
 
 #### Effective Date of 2003 Amendment
 

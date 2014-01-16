@@ -20,7 +20,7 @@ Effect of Declining a Promotion.—An officer's name shall be removed from the p
 
 &emsp;(1) The Secretary concerned has not authorized voluntary delays of promotion under subsection (a) to the grade concerned and the officer declines to accept an appointment to a higher grade.
 
-&emsp;(2) The Secretary concerned has authorized voluntary delays of promotion under subsection (a), but has denied the request of theofficer for a delay of promotion and the officer then declines to accept an appointment to a higher grade.
+&emsp;(2) The Secretary concerned has authorized voluntary delays of promotion under subsection (a), but has denied the request of the officer for a delay of promotion and the officer then declines to accept an appointment to a higher grade.
 
 &emsp;(3) The Secretary concerned has approved the request of an officer for a delay of promotion and, upon the end of the period of delay authorized in accordance with regulations prescribed under subsection (a), the officer then declines to accept an appointment to a higher grade.
 

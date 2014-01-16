@@ -30,15 +30,15 @@ June 29, 1948, ch. 715, 62 Stat. 1095.
 
 50:481 (less 1st and 2d sentences).
 
-In subsection (a), the wording of the special definition of “vessel” and “American vessel”, contained in section 16 of the Neutrality Act of 1939, 54 Stat. 12 (22 U.S.C. 456), is substituted for the words “any American vessel as defined in the Neutrality Act of 1939”.
+In subsection (a), the wording of the special definition of "vessel" and "American vessel", contained in section 16 of the Neutrality Act of 1939, 54 Stat. 12 (22 U.S.C. 456), is substituted for the words "any American vessel as defined in the Neutrality Act of 1939".
 
-In subsection (b), the words “or national emergency” are omitted, since the words of the source statute defining that term have been substituted for it.
+In subsection (b), the words "or national emergency" are omitted, since the words of the source statute defining that term have been substituted for it.
 
-In subsection (c), the words “(relating to bonds from armed vessels on clearing)” are omitted as surplusage.
+In subsection (c), the words "(relating to bonds from armed vessels on clearing)" are omitted as surplusage.
 
 #### Amendments
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted “Section 16 of the Act of March 4, 1909 (22 U.S.C. 463)” for “Section 463 of title 22”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted "Section 16 of the Act of March 4, 1909 (22 U.S.C. 463)" for "Section 463 of title 22".
 
 #### Effective Date of 1980 Amendment
 

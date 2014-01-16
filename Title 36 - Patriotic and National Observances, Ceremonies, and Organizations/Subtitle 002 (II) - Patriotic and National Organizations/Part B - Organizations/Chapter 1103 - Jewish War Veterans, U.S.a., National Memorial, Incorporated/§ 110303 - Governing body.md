@@ -42,7 +42,7 @@ Sept. 2, 1958, Pub. L. 85–903, §§6, 7, 72 Stat. 1739.
 
 &nbsp;
 
-In subsection (a)(1), the word “funds” is substituted for “finances” for consistency in the revised title.
+In subsection (a)(1), the word "funds" is substituted for "finances" for consistency in the revised title.
 
-In subsection (a)(2), the text of 36:916(a) and the word “Thereafter” are omitted as executed.
+In subsection (a)(2), the text of 36:916(a) and the word "Thereafter" are omitted as executed.
 

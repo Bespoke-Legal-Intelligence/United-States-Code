@@ -2,7 +2,7 @@
 
 #### (a) Compact
 
-The Board, acting through the Chief Executive Officer of the Corporation, may provide assistance for an eligible country only if the country enters into an agreement with the United States, to be known as a “Millennium Challenge Compact”, that establishes a multi-year plan for achieving shared development objectives in furtherance of the purposes of this chapter.
+The Board, acting through the Chief Executive Officer of the Corporation, may provide assistance for an eligible country only if the country enters into an agreement with the United States, to be known as a "Millennium Challenge Compact", that establishes a multi-year plan for achieving shared development objectives in furtherance of the purposes of this chapter.
 
 #### (b) Elements
 
@@ -38,7 +38,7 @@ The Board, acting through the Chief Executive Officer of the Corporation, may pr
 
 #### (3) Definition
 
-&emsp;In this subsection, the term “national development strategy” means any strategy to achieve market-driven economic growth and eliminate extreme poverty that has been developed by the government of the country in consultation with a wide variety of civic participation, including nongovernmental organizations, private and voluntary organizations, academia, women's and student organizations, local trade and labor unions, and the business community.
+&emsp;In this subsection, the term "national development strategy" means any strategy to achieve market-driven economic growth and eliminate extreme poverty that has been developed by the government of the country in consultation with a wide variety of civic participation, including nongovernmental organizations, private and voluntary organizations, academia, women's and student organizations, local trade and labor unions, and the business community.
 
 #### (c) Additional provision relating to prohibition on taxation
 
@@ -54,7 +54,7 @@ In entering into a Compact, the United States shall seek to ensure that the gove
 
 #### (e) Consultation
 
-During any discussions with a country for the purpose of entering into a Compact with the country, officials of the Corporation participating in such discussions shall, at a minimum, consult with appropriate officials of the United States Agency for International Development, particularly with those officials responsible for the appropriate region or country on development issues related to the Compact.
+During any discussions with a country for the purpose of entering into a Compact with thecountry, officials of the Corporation participating in such discussions shall, at a minimum, consult with appropriate officials of the United States Agency for International Development, particularly with those officials responsible for the appropriate region or country on development issues related to the Compact.
 
 #### (f) Coordination with other donors
 
@@ -88,5 +88,5 @@ An eligible country and the United States may enter into and have in effect only
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (k), was in the original “this title”, meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (k), was in the original "this title", meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
 

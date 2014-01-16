@@ -50,7 +50,7 @@ A prior section 2640, act June 25, 1948, ch. 646, 62 Stat. 982, authorized the d
 
 <b>1993</b>—Subsecs. (d), (e). Pub. L. 103–182 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1984</b>—Subsec. (a)(5). Pub. L. 98–573 amended par. (5) generally, substituting “under section 641 of the Tariff Act of 1930, with the exception of decisions under section 641(d)(2)(B), which shall be governed by subdivision (d) of this section” for “to deny or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930”.
+<b>1984</b>—Subsec. (a)(5). Pub. L. 98–573 amended par. (5) generally, substituting "under section 641 of the Tariff Act of 1930, with the exception of decisions under section 641(d)(2)(B), which shall be governed by subdivision (d) of this section" for "to deny or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930".
 
 #### Effective Date of 1984 Amendment
 

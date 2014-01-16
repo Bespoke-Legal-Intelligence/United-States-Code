@@ -28,5 +28,5 @@ The Export Administration Act of 1979, referred to in par. (2)(B), is Pub. L. 96
 
 #### Amendments
 
-<b>2001</b>—Par. (2)(C). Pub. L. 107–56 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “used to facilitate the development or production of a chemical or biological weapon or weapon of mass destruction.”
+<b>2001</b>—Par. (2)(C). Pub. L. 107–56 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "used to facilitate the development or production of a chemical or biological weapon or weapon of mass destruction."
 

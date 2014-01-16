@@ -6,5 +6,5 @@ The Advisory Commission shall terminate at the end of fiscal year 2007.
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–82 substituted “2007” for “2002”.
+<b>2001</b>—Pub. L. 107–82 substituted "2007" for "2002".
 

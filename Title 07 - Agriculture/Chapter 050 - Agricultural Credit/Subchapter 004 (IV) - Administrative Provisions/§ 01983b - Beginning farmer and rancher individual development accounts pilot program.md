@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Demonstration program
 
-&emsp;The term “demonstration program” means a demonstration program carried out by a qualified entity under the pilot program established in subsection (b)(1).
+&emsp;The term "demonstration program" means a demonstration program carried out by a qualified entity under the pilot program established in subsection (b)(1).
 
 #### (2) Eligible participant
 
-&emsp;The term “eligible participant” means a qualified beginning farmer or rancher that—
+&emsp;The term "eligible participant" means a qualified beginning farmer or rancher that—
 
 &emsp;&emsp;(A) lacks significant financial resources or assets; and
 
@@ -22,13 +22,13 @@ In this section:
 
 #### (3) Individual development account
 
-&emsp;The term “individual development account” means a savings account described in subsection (b)(4)(A).
+&emsp;The term "individual development account" means a savings account described in subsection (b)(4)(A).
 
 #### (4) Qualified entity
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified entity” means—
+&emsp;&emsp;The term "qualified entity" means—
 
 &emsp;&emsp;&emsp;(i) 1 or more organizations—
 
@@ -46,7 +46,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a pilot program to be known as the “New Farmer Individual Development Accounts Pilot Program” under which the Secretary shall work through qualified entities to establish demonstration programs—
+&emsp;The Secretary shall establish a pilot program to be known as the "New Farmer Individual Development Accounts Pilot Program" under which the Secretary shall work through qualified entities to establish demonstration programs—
 
 &emsp;&emsp;(A) of at least 5 years in duration; and
 
@@ -210,7 +210,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after the end of the calendar year in which the Secretary authorizes a qualified entity to carry out a demonstration program under this section, and annually thereafter until the conclusion of the demonstration program, the qualifiedentity shall prepare an annual report that includes, for the period covered by the report—
+&emsp;&emsp;Not later than 60 days after the end of the calendar year in which the Secretary authorizes a qualified entity to carry out a demonstration program under this section, and annually thereafter until the conclusion of the demonstration program, the qualified entity shall prepare an annual report that includes, for the period covered by the report—
 
 &emsp;&emsp;&emsp;(i) an evaluation of the progress of the demonstration program;
 
@@ -262,7 +262,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 1983b, Pub. L. 87–128, title III, §333B, as added Pub. L. 99–198, title XIII, §1313(a), Dec. 23, 1985, 99 Stat. 1525; amended Pub. L. 100–233, title VI, §608, Jan. 6, 1988, 101 Stat. 1667; Pub. L. 101–624, title XVIII, §1812, Nov. 28, 1990, 104 Stat. 3821, related to appeals from adverse decisions under the Consolidated Farm and Rural Development Act, prior to repeal by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233. See section 6991 et seq. of this title.
+A prior section 1983b, Pub. L. 87–128, title III, §333B, as added Pub. L. 99–198, title XIII, §1313(a), Dec. 23, 1985, 99 Stat. 1525; amended Pub. L. 100–233, title VI, §608, Jan. 6, 1988, 101 Stat. 1667; Pub. L. 101–624, title XVIII,§1812, Nov. 28, 1990, 104 Stat. 3821, related to appeals from adverse decisions under the Consolidated Farm and Rural Development Act, prior to repeal by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233. See section 6991 et seq. of this title.
 
 #### Effective Date
 

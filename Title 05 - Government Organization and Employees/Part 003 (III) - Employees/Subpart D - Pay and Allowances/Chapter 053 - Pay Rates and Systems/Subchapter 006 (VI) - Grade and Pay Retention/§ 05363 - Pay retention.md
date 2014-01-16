@@ -44,7 +44,7 @@
 
 (3) The rate of basic pay for an employee who is receiving a retained rate at the time of moving to a new official duty station at which different pay schedules apply shall be subject to regulations prescribed by the Office of Personnel Management consistent with the purposes of this section.
 
-(d) A retained rate shall be considered part of basic pay for purposes of this subchapter and for purposes of subchapter III of chapter 83, chapters 84 and 87, subchapter V of chapter 55, section 5941, and for such other purposes as may beexpressly provided for by law or as the Office of Personnel Management may by regulation prescribe. The Office shall, for any purpose other than any of the purposes referred to in the preceding sentence, prescribe by regulation what constitutes basic pay for employees receiving a retained rate.
+(d) A retained rate shall be considered part of basic pay for purposes of this subchapter and for purposes of subchapter III of chapter 83, chapters 84 and 87, subchapter V of chapter 55, section 5941, and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe. The Office shall, for any purpose other than any of the purposes referred to in the preceding sentence, prescribe by regulation what constitutes basic pay for employees receiving a retained rate.
 
 (e) This section shall not apply, or shall cease to apply, to an employee who—
 

@@ -10,7 +10,7 @@ The Secretary may establish and maintain emergency commissary or mess services i
 
 #### (c) Availability; duplication of facilities and services
 
-Services and facilities established under this section shall be made available, insofar as practicable, to officers and employees of all agencies and their dependents who are stationed in the locality abroad, and, where determined by the Secretary to be appropriate due to exceptional circumstances, to United States citizens hired outside of the host country to serve as teaching staff for such dependents abroad. Such services and facilities shall not be established in localities where another agency operates similar services or facilities unless the Secretary determines that additional services or facilities are necessary. Other agencies shall to the extent practicable avoid duplicating the facilities and services provided or assisted by the Secretary under this section.
+Services and facilities established under this section shall be made available, insofar as practicable, to officers and employees of all agenciesand their dependents who are stationed in the locality abroad, and, where determined by the Secretary to be appropriate due to exceptional circumstances, to United States citizens hired outside of the host country to serve as teaching staff for such dependents abroad. Such services and facilities shall not be established in localities where another agency operates similar services or facilities unless the Secretary determines that additional services or facilities are necessary. Other agencies shall to the extent practicable avoid duplicating the facilities and services provided or assisted by the Secretary under this section.
 
 #### (d) Charges
 
@@ -36,11 +36,11 @@ The Foreign Service Buildings Act, 1926, referred to in subsec. (a), is act May 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–236 substituted “The” for “For the fiscal years 1992 and 1993, the” in introductory provisions.
+<b>1994</b>—Subsec. (e). Pub. L. 103–236 substituted "The" for "For the fiscal years 1992 and 1993, the" in introductory provisions.
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–138, §144, inserted before period at end of first sentence “, and, where determined by the Secretary to be appropriate due to exceptional circumstances, to United States citizens hired outside of the host country to serve as teaching staff for such dependents abroad”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–138, §144, inserted before period at end of first sentence ", and, where determined by the Secretary to be appropriate due to exceptional circumstances, to United States citizens hired outside of the host country to serve as teaching staff for such dependents abroad".
 
-Subsec. (e). Pub. L. 102–138, §121, substituted “1992 and 1993” for “1990 and 1991” in introductory provisions.
+Subsec. (e). Pub. L. 102–138, §121, substituted "1992 and 1993" for "1990 and 1991" in introductory provisions.
 
 <b>1990</b>—Subsec. (e). Pub. L. 101–246 added subsec. (e).
 
@@ -50,5 +50,5 @@ Section effective Feb. 15, 1981, except as otherwise provided, see section 2403 
 
 #### Authority To Provide Accommodation and Subsistence to Individuals Serving in Iraq and Afghanistan
 
-Pub. L. 109–234, title I, §1602(e), June 15, 2006, 120 Stat. 442, provided that: “The Secretary of State may provide during any fiscal year, with or without reimbursement, accommodation and subsistence to personnel in Iraq and Afghanistan for whom the Chief of Mission is responsible.”
+Pub. L. 109–234, title I, §1602(e), June 15, 2006, 120 Stat. 442, provided that: "The Secretary of State may provide during any fiscal year, with or without reimbursement, accommodation and subsistence to personnel in Iraq and Afghanistan for whom the Chief of Mission is responsible."
 

@@ -4,7 +4,7 @@ As used in this chapter:
 
 #### (1) Disability
 
-&emsp;The term “disability” means, with respect to an individual—
+&emsp;The term "disability" means, with respect to an individual—
 
 &emsp;&emsp;(A) a physical or mental impairment that substantially limits one or more major life activities of such individual;
 
@@ -26,17 +26,17 @@ As used in this chapter:
 
 &emsp;For purposes of paragraph (1)(C):
 
-&emsp;&emsp;(A) An individual meets the requirement of “being regarded as having such an impairment” if the individual establishes that he or she has been subjected to an action prohibited under this chapter because of an actual or perceived physical or mental impairment whether or not the impairment limits or is perceived to limit a major life activity.
+&emsp;&emsp;(A) An individual meets the requirement of "being regarded as having such an impairment" if the individual establishes that he or she has been subjected to an action prohibited under this chapter because of an actual or perceived physical or mental impairment whether or not the impairment limits or is perceived to limit a major life activity.
 
 &emsp;&emsp;(B) Paragraph (1)(C) shall not apply to impairments that are transitory and minor. A transitory impairment is an impairment with an actual or expected duration of 6 months or less.
 
 #### (4) Rules of construction regarding the definition of disability
 
-&emsp;The definition of “disability” in paragraph (1) shall be construed in accordance with the following:
+&emsp;The definition of "disability" in paragraph (1) shall be construed in accordance with the following:
 
-&emsp;&emsp;(A) The definition of disability in this chapter shall be construed in favor of broadcoverage of individuals under this chapter, to the maximum extent permitted by the terms of this chapter.
+&emsp;&emsp;(A) The definition of disability in this chapter shall be construed in favor of broad coverage of individuals under this chapter, to the maximum extent permitted by the terms of this chapter.
 
-&emsp;&emsp;(B) The term “substantially limits” shall be interpreted consistently with the findings and purposes of the ADA Amendments Act of 2008.
+&emsp;&emsp;(B) The term "substantially limits" shall be interpreted consistently with the findings and purposes of the ADA Amendments Act of 2008.
 
 &emsp;&emsp;(C) An impairment that substantially limits one major life activity need not limit other major life activities in order to be considered a disability.
 
@@ -56,21 +56,21 @@ As used in this chapter:
 
 &emsp;&emsp;(iii) As used in this subparagraph—
 
-&emsp;&emsp;&emsp;(I) the term “ordinary eyeglasses or contact lenses” means lenses that are intended to fully correct visual acuity or eliminate refractive error; and
+&emsp;&emsp;&emsp;(I) the term "ordinary eyeglasses or contact lenses" means lenses that are intended to fully correct visual acuity or eliminate refractive error; and
 
-&emsp;&emsp;&emsp;(II) the term “low-vision devices” means devices that magnify, enhance, or otherwise augment a visual image.
+&emsp;&emsp;&emsp;(II) the term "low-vision devices" means devices that magnify, enhance, or otherwise augment a visual image.
 
 (Pub. L. 101–336, §3, July 26, 1990, 104 Stat. 329; Pub. L. 110–325, §4(a), Sept. 25, 2008, 122 Stat. 3555.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 The ADA Amendments Act of 2008, referred to in par. (4)(B), is Pub. L. 110–325, Sept. 25, 2008, 122 Stat. 3553. Section 2 of the Act, relating to the findings and purposes of the Act, is set out as a note under section 12101 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note under section 12101 of this title and Tables.
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–325 amended section generally. Prior to amendment, section consisted of pars. (1) to (3) defining for purposes of this chapter “auxiliary aids and services”, “disability”, and “State”.
+<b>2008</b>—Pub. L. 110–325 amended section generally. Prior to amendment, section consisted of pars. (1) to (3) defining for purposes of this chapter "auxiliary aids and services", "disability", and "State".
 
 #### Effective Date of 2008 Amendment
 

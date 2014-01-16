@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “contracting officer” has the meaning given that term in chapter 71 of this title.
+Definition.—In this section, the term "contracting officer" has the meaning given that term in chapter 71 of this title.
 
 (b)
 

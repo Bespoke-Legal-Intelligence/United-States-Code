@@ -32,21 +32,21 @@ No renewal of an existing station license in the broadcast or the common carrier
 
 (2) Any radio station operator who is authorized by the Commission to operate without an individual license shall comply with all other provisions of this chapter and with rules prescribed by the Commission under this chapter.
 
-(3) For purposes of this subsection, the terms “citizens band radio service”, “radio control service”, “aircraft station” and “ship station” shall have the meanings given them by the Commission by rule.
+(3) For purposes of this subsection, the terms "citizens band radio service", "radio control service", "aircraft station" and "ship station" shall have the meanings given them by the Commission by rule.
 
 #### (f) Areas in Alaska without access to over the air broadcasts
 
-Notwithstanding any other provision of law, (1) any holder of a broadcast license may broadcast to an area of Alaska that otherwise does not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery even if another holder of a broadcast license begins broadcasting to such area, (2) any holder of a broadcast license who has broadcast to an area of Alaska that did not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery may continue providing such service even if another holder of a broadcast license begins broadcasting to such area, and shall not be fined or subject to any other penalty, forfeiture, or revocation related to providing such service including any fine, penalty, forfeiture, or revocationfor continuing to operate notwithstanding orders to the contrary.
+Notwithstanding any other provision of law, (1) any holder of a broadcast license may broadcast to an area of Alaska that otherwise does not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery even if another holder of a broadcast license begins broadcasting to such area, (2) any holder of a broadcast license who has broadcast to an area of Alaska that did not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery may continue providing such service even if another holder of a broadcast license begins broadcasting to such area, and shall not be fined or subject to any other penalty, forfeiture, or revocation related to providing such service including any fine, penalty, forfeiture, or revocation for continuing to operate notwithstanding orders to the contrary.
 
 (June 19, 1934, ch. 652, title III, §307, 48 Stat. 1083; June 5, 1936, ch. 511, §2, 49 Stat. 1475; July 16, 1952, ch. 879, §5, 66 Stat. 714; Pub. L. 86–752, §3, Sept. 13, 1960, 74 Stat. 889; Pub. L. 87–439, Apr. 27, 1962, 76 Stat. 58; Pub. L. 97–35, title XII, §1241(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§112, 113(a), Sept. 13, 1982, 96 Stat. 1093; Pub. L. 104–104, title II, §203, title IV, §403(i), Feb. 8, 1996, 110 Stat. 112, 131; Pub. L. 108–447, div. J, title IX \[title II, §213(1), (2)\], Dec. 8, 2004, 118 Stat. 3431.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (e), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (e), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(3). Pub. L. 108–447, §213(1), substituted “any administrative or judicial hearing” for “any hearing” and inserted “or section 402” after “section 405”.
+<b>2004</b>—Subsec. (c)(3). Pub. L. 108–447, §213(1), substituted "any administrative or judicial hearing" for "any hearing" and inserted "or section 402" after "section 405".
 
 Subsec. (f). Pub. L. 108–447, §213(2), added subsec. (f).
 
@@ -54,13 +54,13 @@ Subsec. (f). Pub. L. 108–447, §213(2), added subsec. (f).
 
 Subsec. (e). Pub. L. 104–104, §403(i), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 
-“(1) Notwithstanding any licensing requirement established in this chapter, the Commission may by rule authorize the operation of radio stations without individual licenses in the radio control service and the citizens band radio service if the Commission determines that such authorization serves the public interest, convenience, and necessity.
+"(1) Notwithstanding any licensing requirement established in this chapter, the Commission may by rule authorize the operation of radio stations without individual licenses in the radio control service and the citizens band radio service if the Commission determines that such authorization serves the public interest, convenience, and necessity.
 
-“(2) Any radio station operator who is authorized by the Commission under paragraph (1) to operate without an individual license shall comply with all other provisions of this chapter and with rules prescribed by the Commission under this chapter.
+"(2) Any radio station operator who is authorized by the Commission under paragraph (1) to operate without an individual license shall comply with all other provisions of this chapter and with rules prescribed by the Commission under this chapter.
 
-“(3) For purposes of this subsection, the terms ‘radio control service’ and ‘citizens band radio service’ shall have the meanings given them by the Commission by rule.”
+"(3) For purposes of this subsection, the terms 'radio control service' and 'citizens band radio service' shall have the meanings given them by the Commission by rule."
 
-<b>1982</b>—Subsec. (c). Pub. L. 97–259, §112, redesignated subsec. (d) as (c), substituted “ten years” for “five years” after “station) shall be for a longer term than” and “term of not to exceed”, and inserted provision that the term of any license for the operation of any auxiliary broadcast station or equipment which can be used only in conjunction with a primary radio, television, or translator station shall be concurrent with the term of the license for such primary radio, television, or translator station. Former subsec. (c), which required the Commission to study proposal that Congress allocate fixed percentages of radio broadcasting facilities to nonprofit activities and report recommendations, with reasons, to Congress not later than Feb. 1, 1935, was struck out.
+<b>1982</b>—Subsec. (c). Pub. L. 97–259, §112, redesignated subsec. (d) as (c), substituted "ten years" for "five years" after "station) shall be for a longer term than" and "term of not to exceed", and inserted provision that the term of any license for the operation of any auxiliary broadcast station or equipment which can be used only in conjunction with a primary radio, television, or translator station shall be concurrent with the term of the license for such primary radio, television, or translator station. Former subsec. (c), which required the Commission to study proposal that Congress allocate fixed percentages of radio broadcasting facilities to nonprofit activities and report recommendations, with reasons, to Congress not later than Feb. 1, 1935, was struck out.
 
 Subsec. (d). Pub. L. 97–259, §112(a), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
@@ -68,15 +68,15 @@ Subsec. (e). Pub. L. 97–259, §§112(a), 113(a), added subsec. (e) and redesig
 
 <b>1981</b>—Subsec. (d). Pub. L. 97–35 substituted provisions authorizing term of five years for a television broadcasting station license, seven years for a radio broadcasting station license, and five years for any other class of license, with comparable provisions for renewal, for provisions authorizing term of three years for a broadcasting station license, and five years for any other class of station license, with comparable provisions for renewal.
 
-<b>1962</b>—Subsec. (e). Pub. L. 87–439 inserted “in the broadcast or the common carrier services” before “shall be granted”.
+<b>1962</b>—Subsec. (e). Pub. L. 87–439 inserted "in the broadcast or the common carrier services" before "shall be granted".
 
 <b>1960</b>—Subsec. (d). Pub. L. 86–752 inserted last sentence dealing with the Commission's authority to grant licenses for periods shorter than 3 years.
 
-<b>1952</b>—Subsec. (d). Act July 16, 1952, provided that upon the expiration of any license, any renewal applied for may be granted “if the Commission finds that public interest, convenience, and necessity would be served thereby”, and provided that pending a hearing and final decision on an application for renewal and the disposition of any petition for a rehearing the Commission shall continue the license in effect.
+<b>1952</b>—Subsec. (d). Act July 16, 1952, provided that upon the expiration of any license, any renewal applied for may be granted "if the Commission finds that public interest, convenience, and necessity would be served thereby", and provided that pending a hearing and final decision on an application for renewal and the disposition of any petition for a rehearing the Commission shall continue the license in effect.
 
 <b>1936</b>—Subsec. (b). Act June 5, 1936, amended subsec. (b) generally.
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title XII, §1241(b), Aug. 13, 1981, 95 Stat. 736, provided that: “The amendments made in subsection (a) \[amending this section\] shall apply to television and radio broadcasting licenses granted or renewed by the Federal Communications Commission after the date of the enactment of this Act \[Aug. 13, 1981\].”
+Pub. L. 97–35, title XII, §1241(b), Aug. 13, 1981, 95 Stat. 736, provided that: "The amendments made in subsection (a) \[amending this section\] shall apply to television and radio broadcasting licenses granted or renewed by the Federal Communications Commission after the date of the enactment of this Act \[Aug. 13, 1981\]."
 

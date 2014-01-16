@@ -48,13 +48,13 @@
 
 <b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–312 amended subsec. (a)(2)(A) to read as if amendment by Pub. L. 107–16, §542(e)(4), had never been enacted. See 2001 Amendment note below.
 
-<b>2004</b>—Subsecs. (a)(1), (2), (b)(3). Pub. L. 108–357 struck out “556(b)(2),” after “545(b)(2),” wherever appearing.
+<b>2004</b>—Subsecs. (a)(1), (2), (b)(3). Pub. L. 108–357 struck out "556(b)(2)," after "545(b)(2)," wherever appearing.
 
-<b>2001</b>—Subsec. (a)(2)(A). Pub. L. 107–16, §542(e)(4), inserted “642(c),” after “170(f)(2)(B),”.
+<b>2001</b>—Subsec. (a)(2)(A). Pub. L. 107–16, §542(e)(4), inserted "642(c)," after "170(f)(2)(B),".
 
 <b>1997</b>—Subsec. (b)(4). Pub. L. 105–34 added par. (4).
 
-<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 2010 Amendment
 

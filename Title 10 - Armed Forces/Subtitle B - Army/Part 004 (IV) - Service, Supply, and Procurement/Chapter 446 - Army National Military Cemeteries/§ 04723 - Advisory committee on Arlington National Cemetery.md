@@ -14,7 +14,7 @@ Reports and Recommendations.—The advisory committee shall make periodic report
 
 (d)
 
-Submission to Congress.—Not later than 90 days after receiving a report or recommendations from the advisory committee under subsection (c), the Secretary of the Army shall submit the report or recommendations to the congressional defense committees and the Committees on Veterans’ Affairs of the Senate and House of Representatives and include such comments and recommendations of the Secretary as the Secretary considers appropriate.
+Submission to Congress.—Not later than 90 days after receiving a report or recommendations from the advisory committee under subsection (c), the Secretary of the Army shall submit the report or recommendations to the congressional defense committees and the Committees on Veterans' Affairs of the Senate and House of Representatives and include such comments and recommendations of the Secretary as the Secretary considers appropriate.
 
 (Added Pub. L. 112–81, div. A, title V, §591(a)(1), Dec. 31, 2011, 125 Stat. 1440.)
 

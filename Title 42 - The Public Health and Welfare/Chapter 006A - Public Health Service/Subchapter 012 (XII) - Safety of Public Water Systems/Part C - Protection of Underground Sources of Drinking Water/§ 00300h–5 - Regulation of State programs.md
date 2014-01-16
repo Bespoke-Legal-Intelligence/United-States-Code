@@ -8,11 +8,11 @@ Not later than 18 months after June 19, 1986, the Administrator shall modify reg
 
 <b>1996</b>—Pub. L. 104–182 directed technical amendment of section catchline and subsec. (a) designation. The provision directing amendment of subsec. (a) designation could not be executed because section does not contain a subsec. (a).
 
-<b>1995</b>—Pub. L. 104–66 struck out subsec. (a) designation and heading before “Not later than” and struck out heading and text of subsec. (b). Text read as follows: “The Administrator shall submit a report to Congress, no later than September 1987, summarizing the results of State surveys required by the Administrator under this section. The report shall include each of the following items of information:
+<b>1995</b>—Pub. L. 104–66 struck out subsec. (a) designation and heading before "Not later than" and struck out heading and text of subsec. (b). Text read as follows: "The Administrator shall submit a report to Congress, no later than September 1987, summarizing the results of State surveys required by the Administrator under this section. The report shall include each of the following items of information:
 
-&emsp;“(1) The numbers and categories of class V wells which discharge nonhazardous waste into or above an underground source of drinking water.
+&emsp;"(1) The numbers and categories of class V wells which discharge nonhazardous waste into or above an underground source of drinking water.
 
-&emsp;“(2) The primary contamination problems associated with different categories of these disposal wells.
+&emsp;"(2) The primary contamination problems associated with different categories of these disposal wells.
 
-&emsp;“(3) Recommendations for minimum design, construction, installation, and siting requirements that should be applied to protect underground sources of drinking water from such contamination wherever necessary.”
+&emsp;"(3) Recommendations for minimum design, construction, installation, and siting requirements that should be applied to protect underground sources of drinking water from such contamination wherever necessary."
 

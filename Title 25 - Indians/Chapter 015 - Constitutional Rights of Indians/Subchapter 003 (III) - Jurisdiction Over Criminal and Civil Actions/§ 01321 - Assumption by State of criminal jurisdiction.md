@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The consent of the United States is hereby given to any State not having jurisdiction over criminal offenses committed by or against Indians in the areas of Indian country situated within such State to assume, with the consent of the Indian tribe occupying the particular Indian country or part thereof which could be affected by such assumption, such measure of jurisdiction over any or all of such offenses committed within such Indian country or any part thereof as may be determined by such State to the same extent that such State has jurisdiction over any such offense committed elsewhere within the State, and the criminal laws of such State shall have the same force and effect within such Indian country or part thereof as they have elsewhere within that State.
+&emsp;The consent of the United States is hereby given to any State not having jurisdictionover criminal offenses committed by or against Indians in the areas of Indian country situated within such State to assume, with the consent of the Indian tribe occupying the particular Indian country or part thereof which could be affected by such assumption, such measure of jurisdiction over any or all of such offenses committed within such Indian country or any part thereof as may be determined by such State to the same extent that such State has jurisdiction over any such offense committed elsewhere within the State, and the criminal laws of such State shall have the same force and effect within such Indian country or part thereof as they have elsewhere within that State.
 
 #### (2) Concurrent jurisdiction
 
@@ -18,5 +18,5 @@ Nothing in this section shall authorize the alienation, encumbrance, or taxation
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–211 substituted “Assumption by State of criminal jurisdiction” for “Assumption by State” in section catchline, inserted subsec. (a) heading, inserted par. (1) designation and heading, and added par. (2). Amendment to section catchline was executed as the probable intent of Congress, notwithstanding directory language which erroneously directed the amendment to subsec. (a).
+<b>2010</b>—Pub. L. 111–211 substituted "Assumption by State of criminal jurisdiction" for "Assumption by State" in section catchline, inserted subsec. (a) heading, inserted par. (1) designation and heading, and added par. (2). Amendment to section catchline was executed as the probable intent of Congress, notwithstanding directory language which erroneously directed the amendment to subsec. (a).
 

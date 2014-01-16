@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted “or imprisoned” for “and be imprisoned for”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted "or imprisoned" for "and be imprisoned for".
 

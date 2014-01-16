@@ -22,7 +22,7 @@
 - [&sect; 00677n - Disposal by mixed-blood members of their individual interests in tribal assets; requisites and conditions](%C2%A7%2000677n%20-%20Disposal%20by%20mixed-blood%20members%20of%20their%20individual%20interests%20in%20tribal%20assets%3B%20requisites%20and%20conditions.md)
 - [&sect; 00677o - Termination of restrictions on individually owned property of the mixed-blood group](%C2%A7%2000677o%20-%20Termination%20of%20restrictions%20on%20individually%20owned%20property%20of%20the%20mixed-blood%20group.md)
 - [&sect; 00677p - Tax exemption; exceptions and time limits; valuation for income tax on gains or losses](%C2%A7%2000677p%20-%20Tax%20exemption%3B%20exceptions%20and%20time%20limits%3B%20valuation%20for%20income%20tax%20on%20gains%20or%20losses.md)
-- [&sect; 00677q - Applicability of decedents&#8217; estates laws to individual trust property of mixed-blood members](%C2%A7%2000677q%20-%20Applicability%20of%20decedents%E2%80%99%20estates%20laws%20to%20individual%20trust%20property%20of%20mixed-blood%20members.md)
+- [&sect; 00677q - Applicability of decedents' estates laws to individual trust property of mixed-blood members](%C2%A7%2000677q%20-%20Applicability%20of%20decedents%27%20estates%20laws%20to%20individual%20trust%20property%20of%20mixed-blood%20members.md)
 - [&sect; 00677r - Indian claims unaffected](%C2%A7%2000677r%20-%20Indian%20claims%20unaffected.md)
 - [&sect; 00677s - Valid leases, permits, liens, etc., unaffected](%C2%A7%2000677s%20-%20Valid%20leases%2C%20permits%2C%20liens%2C%20etc.%2C%20unaffected.md)
 - [&sect; 00677t - Water rights](%C2%A7%2000677t%20-%20Water%20rights.md)

@@ -38,7 +38,7 @@ Command Authority of Combatant Commanders.—(1) Unless otherwise directed by th
 
 &emsp;(G) exercising the authority with respect to selecting subordinate commanders, selecting combatant command staff, suspending subordinates, and convening courts-martial, as provided in subsections (e), (f), and (g) of this section and section 822(a) of this title, respectively.
 
-(2)(A) The Secretary of Defense shall ensure that a commander of a combatant command hassufficient authority, direction, and control over the commands and forces assigned to the command to exercise effective command over those commands and forces. In carrying out this subparagraph, the Secretary shall consult with the Chairman of the Joint Chiefs of Staff.
+(2)(A) The Secretary of Defense shall ensure that a commander of a combatant command has sufficient authority, direction, and control over the commands and forces assigned to the command to exercise effective command over those commands and forces. In carrying out this subparagraph, the Secretary shall consult with the Chairman of the Joint Chiefs of Staff.
 
 (B) The Secretary shall periodically review and, after consultation with the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, and the commander of the combatant command, assign authority to the commander of the combatant command for those aspects of administration and support that the Secretary considers necessary to carry out missions assigned to the command.
 
@@ -96,19 +96,19 @@ Authority to Suspend Subordinates.—In accordance with procedures established b
 
 <b>2008</b>—Subsec. (e)(4). Pub. L. 110–181 added par. (4).
 
-<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–456 substituted “completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “served in at least one joint duty assignment (as defined under section 668(b) of this title)”.
+<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–456 substituted "completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)" for "served in at least one joint duty assignment (as defined under section 668(b) of this title)".
 
 #### Effective Date
 
-Pub. L. 99–433, title II, §214(c), Oct. 1, 1986, 100 Stat. 1019, provided that: “Subsections (e), (f), and (g) of section 164 of title 10, United States Code (as added by section 211 of this Act), shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\], or on such earlier date as may be prescribed by the Secretary of Defense.”
+Pub. L. 99–433, title II, §214(c), Oct. 1, 1986, 100 Stat. 1019, provided that: "Subsections (e), (f), and (g) of section 164 of title 10, United States Code (as added by section 211 of this Act), shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\], or on such earlier date as may be prescribed by the Secretary of Defense."
 
 #### Consideration of Reserve Component Officers for Appointment to Certain Command Positions
 
-Pub. L. 112–81, div. A, title V, §518, Dec. 31, 2011, 125 Stat. 1397, provided that: “Whenever officers of the Armed Forces are considered for appointment to the position of Commander, Army North Command or Commander, Air Force North Command, fully qualified officers of the National Guard and the Reserves shall be considered for appointment to such position.”
+Pub. L. 112–81, div. A, title V, §518, Dec. 31, 2011, 125 Stat. 1397, provided that: "Whenever officers of the Armed Forces are considered for appointment to the position of Commander, Army North Command or Commander, Air Force North Command, fully qualified officers of the National Guard and the Reserves shall be considered for appointment to such position."
 
 #### Sense of Congress
 
-Pub. L. 110–181, div. A, title XVIII, §1824(a), Jan. 28, 2008, 122 Stat. 501, provided that: “It is the sense of Congress that, whenever officers of the Armed Forces are considered for promotion to the grade of lieutenant general, or vice admiral in the case of the Navy, on the active duty list, officers in the reserve components of the Armed Forces who are eligible for promotion to such grade should be considered for promotion to such grade.”
+Pub. L. 110–181, div. A, title XVIII, §1824(a), Jan. 28, 2008, 122 Stat. 501, provided that: "It is the sense of Congress that, whenever officers of the Armed Forces are considered for promotion to the grade of lieutenant general, or vice admiral in the case of the Navy, on the active duty list, officers in the reserve components of the Armed Forces who are eligible for promotion to such grade should be considered for promotion to such grade."
 
 #### Waiver of Qualifications for Assignment as Combatant Commander
 

@@ -10,11 +10,11 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “installment sale” means a disposition of property where at least 1 payment is to be received after the close of the taxable year in which the disposition occurs.
+&emsp;The term "installment sale" means a disposition of property where at least 1 payment is to be received after the close of the taxable year in which the disposition occurs.
 
 #### (2) Exceptions
 
-&emsp;The term “installment sale” does not include—
+&emsp;The term "installment sale" does not include—
 
 #### (A) Dealer dispositions
 
@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (c) Installment method defined
 
-For purposes of this section, the term “installment method” means a method under which the income recognized for any taxable year from a disposition is that proportion of the paymentsreceived in that year which the gross profit (realized or to be realized when payment is completed) bears to the total contract price.
+For purposes of this section, the term "installment method" means a method under which the income recognized for any taxable year from a disposition is that proportion of the paymentsreceived in that year which the gross profit (realized or to be realized when payment is completed) bears to the total contract price.
 
 #### (d) Election out
 
@@ -48,9 +48,9 @@ For purposes of this section, the term “installment method” means a method u
 
 &emsp;If—
 
-&emsp;&emsp;(A) any person disposes of property to a related person (hereinafter in this subsection referred to as the “first disposition”), and
+&emsp;&emsp;(A) any person disposes of property to a related person (hereinafter in this subsection referred to as the "first disposition"), and
 
-&emsp;&emsp;(B) before the person making the first disposition receives all payments with respect to such disposition, the related person disposes of the property (hereinafter in this subsection referred to as the “second disposition”),
+&emsp;&emsp;(B) before the person making the first disposition receives all payments with respect to such disposition, the related person disposes of the property (hereinafter in this subsection referred to as the "second disposition"),
 
 > &emsp;then, for purposes of this section, the amount realized with respect to such second disposition shall be treated as received at the time of the second disposition by the person making the first disposition.
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 #### (1) Related person
 
-&emsp;Except for purposes of subsections (g) and (h), the term “related person” means—
+&emsp;Except for purposes of subsections (g) and (h), the term "related person" means—
 
 &emsp;&emsp;(A) a person whose stock would be attributed under section 318(a) (other than paragraph (4) thereof) to the person first disposing of the property, or
 
@@ -138,11 +138,11 @@ For purposes of this section—
 
 #### (2) Marketable securities
 
-&emsp;The term “marketable securities” means any security for which, as of the date of the disposition, there was a market on an established securities market or otherwise.
+&emsp;The term "marketable securities" means any security for which, as of the date of the disposition, there was a market on an established securities market or otherwise.
 
 #### (3) Payment
 
-&emsp;Except as provided in paragraph (4), the term “payment” does not include the receipt of evidences of indebtedness of the person acquiring the property (whether or not payment of such indebtedness is guaranteed by another person).
+&emsp;Except as provided in paragraph (4), the term "payment" does not include the receipt of evidences of indebtedness of the person acquiring the property (whether or not payment of such indebtedness is guaranteed by another person).
 
 #### (4) Purchaser evidences of indebtedness payable on demand or readily tradable
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (5) Readily tradable defined
 
-&emsp;For purposes of paragraph (4), the term “readily tradable” means a bond or other evidence of indebtedness which is issued—
+&emsp;For purposes of paragraph (4), the term "readily tradable" means a bond or other evidence of indebtedness which is issued—
 
 &emsp;&emsp;(A) with interest coupons attached or in registered form (other than one in registered form which the taxpayer establishes will not be readily tradable in an established securities market), or
 
@@ -170,17 +170,17 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the gross profit from such exchange shall be reduced to take into account any amount not recognized by reason of section 1031(b), and
 
-&emsp;&emsp;(C) the term “payment”, when used in any provision of this section other than subsection (b)(1), shall not include any property permitted to be received in such exchange without recognition of gain.
+&emsp;&emsp;(C) the term "payment", when used in any provision of this section other than subsection (b)(1), shall not include any property permitted to be received in such exchange without recognition of gain.
 
 > &emsp;Similar rules shall apply in the case of an exchange which is described in section 356(a) and is not treated as a dividend.
 
 #### (7) Depreciable property
 
-&emsp;The term “depreciable property” means property of a character which (in the hands of the transferee) is subject to the allowance for depreciation provided in section 167.
+&emsp;The term "depreciable property" means property of a character which (in the hands of the transferee) is subject to the allowance for depreciation provided in section 167.
 
 #### (8) Payments to be received defined
 
-&emsp;The term “payments to be received” includes—
+&emsp;The term "payments to be received" includes—
 
 &emsp;&emsp;(A) the aggregate amount of all payments which are not contingent as to amount, and
 
@@ -208,7 +208,7 @@ For purposes of this section—
 
 #### (3) Related persons
 
-&emsp;For purposes of this subsection, the term “related persons” has the meaning given to such term by section 1239(b), except that such term shall include 2 or more partnerships having a relationship to each other described in section 707(b)(1)(B).
+&emsp;For purposes of this subsection, the term "related persons" has the meaning given to such term by section 1239(b), except that such term shall include 2 or more partnerships having a relationship to each other described in section 707(b)(1)(B).
 
 #### (h) Use of installment method by shareholders in certain liquidations
 
@@ -268,7 +268,7 @@ For purposes of this section—
 
 #### (2) Recapture income
 
-&emsp;For purposes of paragraph (1), the term “recapture income” means, with respect to any installment sale, the aggregate amount which would be treated as ordinary income under (or so much of section 751 as relates to section 1245 or 1250) for the taxable year of the disposition if all payments to be received were received in the taxable year of disposition.
+&emsp;For purposes of paragraph (1), the term "recapture income" means, with respect to any installment sale, the aggregate amount which would be treated as ordinary income under (or so much of section 751 as relates to section 1245 or 1250) for the taxable year of the disposition if all payments to be received were received in the taxable year of disposition.
 
 #### (j) Regulations
 
@@ -300,7 +300,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (1) In general
 
-&emsp;The term “dealer disposition” means any of the following dispositions:
+&emsp;The term "dealer disposition" means any of the following dispositions:
 
 #### (A) Personal property
 
@@ -312,7 +312,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (2) Exceptions
 
-&emsp;The term “dealer disposition” does not include—
+&emsp;The term "dealer disposition" does not include—
 
 #### (A) Farm property
 
@@ -376,103 +376,103 @@ A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (f)(4)(B). Pub. L. 108–357 struck out “is issued by a corporation or a government or political subdivision thereof and” before “is readily tradable”.
+<b>2004</b>—Subsec. (f)(4)(B). Pub. L. 108–357 struck out "is issued by a corporation or a government or political subdivision thereof and" before "is readily tradable".
 
 <b>2000</b>—Subsecs. (a), (d)(1), (i)(1), (k). Pub. L. 106–573 repealed Pub. L. 106–170, §536(a). See 1999 Amendment notes below.
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–170, §536(a)(1), which substituted “Use of installment method” for “General rule” in subsec. heading, designated existing provisions as par. (1) and inserted heading, and added heading and text of par. (2), text of which read as follows: “(2)
+<b>1999</b>—Subsec. (a). Pub. L. 106–170, §536(a)(1), which substituted "Use of installment method" for "General rule" in subsec. heading, designated existing provisions as par. (1) and inserted heading, and added heading and text of par. (2), text of which read as follows: "(2)
 
-Accrual method taxpayer.—The installment method shall not apply to income from an installment sale if such income would be reported under an accrual method of accounting without regard to this section. The preceding sentence shall not apply to a disposition described in subparagraph (A) or (B) of subsection (l)(2).”, was repealed by Pub. L. 106–573, §2(a). See Effective Date and Construction of 2000 Amendment note below.
+Accrual method taxpayer.—The installment method shall not apply to income from an installment sale if such income would be reported under an accrual method of accounting without regard to this section. The preceding sentence shall not apply to a disposition described in subparagraph (A) or (B) of subsection (l)(2).", was repealed by Pub. L. 106–573, §2(a). See Effective Date and Construction of 2000 Amendment note below.
 
-Subsecs. (d)(1), (i)(1), (k). Pub. L. 106–170, §536(a)(2), which substituted “(a)(1)” for “(a)” wherever appearing, was repealed by Pub. L. 106–573. See Effective Date and Construction of 2000 Amendment note below.
+Subsecs. (d)(1), (i)(1), (k). Pub. L. 106–170, §536(a)(2), which substituted "(a)(1)" for "(a)" wherever appearing, was repealed by Pub. L. 106–573. See Effective Date and Construction of 2000 Amendment note below.
 
-<b>1988</b>—Subsec. (f)(1). Pub. L. 100–647, §1018(u)(25), substituted “subsections (g)” for “subsection (g)”.
+<b>1988</b>—Subsec. (f)(1). Pub. L. 100–647, §1018(u)(25), substituted "subsections (g)" for "subsection (g)".
 
-Subsec. (f)(8). Pub. L. 100–647, §1018(u)(26), substituted “payments to be” for “payment to be”.
+Subsec. (f)(8). Pub. L. 100–647, §1018(u)(26), substituted "payments to be" for "payment to be".
 
-Subsec. (g)(1). Pub. L. 100–647, §1006(i)(2)(B), struck out “(within the meaning of section 1239(b))” after “between related persons”.
+Subsec. (g)(1). Pub. L. 100–647, §1006(i)(2)(B), struck out "(within the meaning of section 1239(b))" after "between related persons".
 
 Pub. L. 100–647, §1006(i)(1), added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
 
-“(A) subsection (a) shall not apply, and
+"(A) subsection (a) shall not apply, and
 
-“(B) for purposes of this title—
+"(B) for purposes of this title—
 
-&emsp;“(i) except as provided in clause (ii), all payments to be received shall be treated as received in the year of the disposition, and
+&emsp;"(i) except as provided in clause (ii), all payments to be received shall be treated as received in the year of the disposition, and
 
-&emsp;“(ii) in the case of any payments which are contingent as to amount but with respect to which the fair market value may not be reasonably ascertained—
+&emsp;"(ii) in the case of any payments which are contingent as to amount but with respect to which the fair market value may not be reasonably ascertained—
 
-&emsp;&emsp;“(I) the basis shall be recovered ratably, and
+&emsp;&emsp;"(I) the basis shall be recovered ratably, and
 
-&emsp;&emsp;“(II) the purchaser may not increase the basis of any property acquired in such sale by any amount before such time as the seller includes such amount in income.”
+&emsp;&emsp;"(II) the purchaser may not increase the basis of any property acquired in such sale by any amount before such time as the seller includes such amount in income."
 
 Subsec. (g)(3). Pub. L. 100–647, §1006(i)(2)(A), added par. (3).
 
-Subsec. (h)(1)(B). Pub. L. 100–647, §1006(e)(7)(A), substituted “to 1 person in 1 transaction” for “to one person” in concluding provisions.
+Subsec. (h)(1)(B). Pub. L. 100–647, §1006(e)(7)(A), substituted "to 1 person in 1 transaction" for "to one person" in concluding provisions.
 
-Subsec. (h)(1)(E). Pub. L. 100–647, §1006(e)(7)(B), substituted “section 368(c)” for “section 368(c)(1)”.
+Subsec. (h)(1)(E). Pub. L. 100–647, §1006(e)(7)(B), substituted "section 368(c)" for "section 368(c)(1)".
 
 Subsec. (j). Pub. L. 100–647, §1008(g)(1), redesignated subsec. (j), relating to current inclusion in case of revolving credit plans, etc., as (k).
 
-Subsec. (k). Pub. L. 100–647, §2004(d)(5), struck out “and section 453A” after “subsection (a)” in second sentence.
+Subsec. (k). Pub. L. 100–647, §2004(d)(5), struck out "and section 453A" after "subsection (a)" in second sentence.
 
 Pub. L. 100–647, §1008(g)(1), redesignated subsec. (j), relating to current inclusion in case of revolving credit plans, etc., as (k).
 
-Subsec. (l)(1)(A). Pub. L. 100–647, §2004(d)(1), inserted “of the same type” after “disposes of personal property”.
+Subsec. (l)(1)(A). Pub. L. 100–647, §2004(d)(1), inserted "of the same type" after "disposes of personal property".
 
-<b>1987</b>—Subsec. (b)(2)(A). Pub. L. 100–203, §10202(b)(1), substituted “Dealer dispositions” for “Dealer disposition of personal property” in heading and amended text generally. Prior to amendment, text read as follows: “A disposition of personal property on the installment plan by a person who regularly sells or otherwise disposes of personal property on the installment plan.”
+<b>1987</b>—Subsec. (b)(2)(A). Pub. L. 100–203, §10202(b)(1), substituted "Dealer dispositions" for "Dealer disposition of personal property" in heading and amended text generally. Prior to amendment, text read as follows: "A disposition of personal property on the installment plan by a person who regularly sells or otherwise disposes of personal property on the installment plan."
 
 Subsec. (l). Pub. L. 100–203, §10202(b)(2), added subsec. (l).
 
-<b>1986</b>—Subsec. (f)(1). Pub. L. 99–514, §642(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except for purposes of subsections (g) and (h), the term ‘related person’ means a person whose stock would be attributed under section 318(a) (other than paragraph (4) thereof) to the person first disposing of the property.”
+<b>1986</b>—Subsec. (f)(1). Pub. L. 99–514, §642(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Except for purposes of subsections (g) and (h), the term 'related person' means a person whose stock would be attributed under section 318(a) (other than paragraph (4) thereof) to the person first disposing of the property."
 
 Subsec. (f)(8). Pub. L. 99–514, §642(b)(1), added par. (8).
 
-Subsec. (g). Pub. L. 99–514, §642(a)(1)(D), substituted “controlled entity” for “80-percent owned entity” in heading.
+Subsec. (g). Pub. L. 99–514, §642(a)(1)(D), substituted "controlled entity" for "80-percent owned entity" in heading.
 
-Subsec. (g)(1). Pub. L. 99–514, §642(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of an installment sale of depreciable property between related persons within the meaning of section 1239(b), subsection (a) shall not apply, and, for purposes of this title, all payments to be received shall be deemed received in the year of the disposition.”
+Subsec. (g)(1). Pub. L. 99–514, §642(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In the case of an installment sale of depreciable property between related persons within the meaning of section 1239(b), subsection (a) shall not apply, and, for purposes of this title, all payments to be received shall be deemed received in the year of the disposition."
 
-Subsec. (h). Pub. L. 99–514, §631(e)(8)(C), substituted “certain liquidations” for “section 337 liquidations” in heading.
+Subsec. (h). Pub. L. 99–514, §631(e)(8)(C), substituted "certain liquidations" for "section 337 liquidations" in heading.
 
-Subsec. (h)(1)(A). Pub. L. 99–514, §631(e)(8)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If, in connection with a liquidation to which section 337 applies, in a transaction to which section 331 applies the shareholder receives (in exchange for the shareholder's stock) an installment obligation acquired in respect of a sale or exchange by the corporation during the 12-month period set forth in section 337(a), then, for purposes of this section, the receipt of payments under such obligation (but not the receipt of such obligation) by the shareholder shall be treated as the receipt of payment for the stock.”
+Subsec. (h)(1)(A). Pub. L. 99–514, §631(e)(8)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "If, in connection with a liquidation to which section 337 applies, in a transaction to which section 331 applies the shareholder receives (in exchange for the shareholder's stock) an installment obligation acquired in respect of a sale or exchange by the corporation during the 12-month period set forth in section 337(a), then, for purposes of this section, the receipt of payments under such obligation (but not the receipt of such obligation) by the shareholder shall be treated as the receipt of payment for the stock."
 
-Subsec. (h)(1)(B). Pub. L. 99–514, §631(e)(8)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Subparagraph (A) shall not apply to an installment obligation described in section 337(b)(1)(B) unless such obligation is also described in section 337(b)(2)(B).”
+Subsec. (h)(1)(B). Pub. L. 99–514, §631(e)(8)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Subparagraph (A) shall not apply to an installment obligation described in section 337(b)(1)(B) unless such obligation is also described in section 337(b)(2)(B)."
 
-Subsec. (h)(1)(E). Pub. L. 99–514, §631(e)(8)(B), substituted “subsidiaries” for “subsidiary” in heading and amended text generally. Prior to amendment, subpar. (E) read as follows: “For purposes of subparagraph (A), in any case to which section 337(c)(3) applies, an obligation acquired in respect of a sale or exchange by the selling corporation shall be treated as so acquired by the corporation distributing the obligation to the shareholder.”
+Subsec. (h)(1)(E). Pub. L. 99–514, §631(e)(8)(B), substituted "subsidiaries" for "subsidiary" in heading and amended text generally. Prior to amendment, subpar. (E) read as follows: "For purposes of subparagraph (A), in any case to which section 337(c)(3) applies, an obligation acquired in respect of a sale or exchange by the selling corporation shall be treated as so acquired by the corporation distributing the obligation to the shareholder."
 
-Subsec. (i)(2). Pub. L. 99–514, §1809(c), substituted “(or so much of section 751 as relates to section 1245 or 1250)” for “section 1245 or 1250”.
+Subsec. (i)(2). Pub. L. 99–514, §1809(c), substituted "(or so much of section 751 as relates to section 1245 or 1250)" for "section 1245 or 1250".
 
 Subsec. (j). Pub. L. 99–514, §812(a), added subsec. (j) relating to current inclusion in case of revolving credit plans, etc.
 
-<b>1984</b>—Subsec. (g). Pub. L. 98–369, §421(b)(6)(C), struck out “spouse or” after “property to” in heading.
+<b>1984</b>—Subsec. (g). Pub. L. 98–369, §421(b)(6)(C), struck out "spouse or" after "property to" in heading.
 
-Subsec. (h)(1)(C). Pub. L. 98–369, §421(b)(6)(B), inserted “married to each other or are”.
+Subsec. (h)(1)(C). Pub. L. 98–369, §421(b)(6)(B), inserted "married to each other or are".
 
 Subsec. (i). Pub. L. 98–369, §112(a), amended subsec. (i) generally, substituting provisions relating to recognition of recapture income in year of disposition for provisions relating to application of subsec. (a) in the case of an installment sale of section 179 property.
 
-<b>1983</b>—Subsec. (f)(6)(C). Pub. L. 97–448 inserted “, when used in any provision of this section other than subsection (b)(1),” after “the term ‘payment’ ”.
+<b>1983</b>—Subsec. (f)(6)(C). Pub. L. 97–448 inserted ", when used in any provision of this section other than subsection (b)(1)," after "the term 'payment' ".
 
 <b>1981</b>—Subsecs. (i), (j). Pub. L. 97–34 added subsec. (i) and redesignated former subsec. (i) as (j).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §897(b), Oct. 22, 2004, 118 Stat. 1649, provided that: “The amendment made bythis section \[amending this section\] shall apply to sales occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §897(b), Oct. 22, 2004, 118 Stat. 1649, provided that: "The amendment made bythis section \[amending this section\] shall apply to sales occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date and Construction of 2000 Amendment
 
 Pub. L. 106–573, §2, Dec. 28, 2000, 114 Stat. 3061, provided that:
 
-“(a)
+"(a)
 
 In General.—Subsection (a) of section 536 of the Ticket to Work and Work Incentives Improvement Act of 1999 (relating to modification of installment method and repeal of installment method for accrual method taxpayers) \[Pub. L. 106–170, amending this section\] is repealed effective with respect to sales and other dispositions occurring on or after the date of the enactment of such Act \[Dec. 17, 1999\].
 
-“(b)
+"(b)
 
-Applicability.—The Internal Revenue Code of 1986 shall be applied and administered as if that subsection (and the amendments made by that subsection) had not been enacted.”
+Applicability.—The Internal Revenue Code of 1986 shall be applied and administered as if that subsection (and the amendments made by that subsection) had not been enacted."
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–170, title V, §536(c), Dec. 17, 1999, 113 Stat. 1936, provided that: “The amendments made by this section \[amending this section and section 453A of this title\] shall apply to sales or other dispositions occurring on or after the date of the enactment of this Act \[Dec. 17, 1999\].”
+Pub. L. 106–170, title V, §536(c), Dec. 17, 1999, 113 Stat. 1936, provided that: "The amendments made by this section \[amending this section and section 453A of this title\] shall apply to sales or other dispositions occurring on or after the date of the enactment of this Act \[Dec. 17, 1999\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -484,75 +484,75 @@ Amendment by section 2004(d)(1), (5) of Pub. L. 100–647 effective, except as o
 
 Pub. L. 100–203, title X, §10202(e), Dec. 22, 1987, 101 Stat. 1330–392, as amended by Pub. L. 100–647, title II, §2004(d)(3), (4), (6), Nov. 10, 1988, 102 Stat. 3599, 3600, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in this subsection, the amendments made by this section \[amending this section and sections 56, 381, 453A, and 691 of this title and repealing section 453C of this title\] shall apply to dispositions in taxable years beginning after December 31, 1987.
 
-“(2)
+"(2)
 
 Special rules for dealers.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—In the case of dealer dispositions (within the meaning of section 453(l)(1) of the Internal Revenue Code of 1986 as added by this section), the amendments made by subsections (a) and (b) \[amending this section and repealing section 453C of this title\] shall apply to installment obligations arising from dispositions after December 31, 1987.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Special rules for obligations arising from dealer dispositions after february 28, 1986, and before january 1, 1988.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 In general.—In the case of an applicable installment obligation arising from a disposition described in subclause (I) or (II) of section 453C(e)(1)(A)(i) of the Internal Revenue Code of 1986 (as in effect before the amendments made by this section) before January 1, 1988, the amendments made by subsections (a) and (b) shall apply to taxable years beginning after December 31, 1987.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
 Change in method of accounting.—In the case of any taxpayer who is required by clause (i) to change its method of accounting for any taxable year with respect to obligations described in clause (i)—
 
-&emsp;&emsp;&emsp;“(I) such change shall be treated as initiated by the taxpayer,
+&emsp;&emsp;&emsp;"(I) such change shall be treated as initiated by the taxpayer,
 
-&emsp;&emsp;&emsp;“(II) such change shall be treated as made with the consent of the Secretary of the Treasury or his delegate, and
+&emsp;&emsp;&emsp;"(II) such change shall be treated as made with the consent of the Secretary of the Treasury or his delegate, and
 
-&emsp;&emsp;&emsp;“(III) the net amount of adjustments required by section 481 of the Internal Revenue Code of 1986 shall be taken into account over a period not longer than 4 taxable years.
+&emsp;&emsp;&emsp;"(III) the net amount of adjustments required by section 481 of the Internal Revenue Code of 1986 shall be taken into account over a period not longer than 4 taxable years.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Certain rules made applicable.—For purposes of this paragraph, rules similar to the rules of paragraphs (4) and (5) of section 812(c) of the Tax Reform Act of 1986 \[Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note below\] (as added by the Technical and Miscellaneous Revenue Act of 1988 \[Pub. L. 100–647\]) shall apply.
 
-“(3)
+"(3)
 
 Special rule for nondealers.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Election.—A taxpayer may elect, at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe, to have the amendments made by subsections (a) and (c) \[amending sections 381, 453A, and 691 of this title and repealing section 453C of this title\] apply to taxable years ending after December 31, 1986, with respect to dispositions and pledges occurring after August 16, 1986.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Pledging rules.—Except as provided in subparagraph (A)—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 In general.—Section 453A(d) of the Internal Revenue Code of 1986 shall apply to any installment obligation which is pledged to secure any secured indebtedness (within the meaning of section 453A(d)(4) of such Code) after December 17, 1987, in taxable years ending after such date.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
 Coordination with section 453c.—For purposes of section 453C of such Code (as in effect before its repeal), the face amount of any obligation to which section 453A(d) of such Code applies shall be reduced by the amount treated as payments on such obligation under section 453A(d) of such Code and the amount of any indebtedness secured by it shall not be taken into account.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Certain dispositions deemed made on 1st day of taxable year.—If the taxpayer makes an election under subparagraph (A), in the case of the taxpayer's 1st taxable year ending after December 31, 1986—
 
-&emsp;&emsp;“(i) dispositions after August 16, 1986, and before the 1st day of such taxable year shall be treated as made on such 1st day, and
+&emsp;&emsp;"(i) dispositions after August 16, 1986, and before the 1st day of such taxable year shall be treated as made on such 1st day, and
 
-&emsp;&emsp;“(ii) subsections (b)(2)(B) and (c)(4) of section 453A of such Code shall be applied separately with respect to such dispositions by substituting for ‘$5,000,000’ the amount which bears the same ratio to $5,000,000 as the number of days after August 16, 1986, and before such 1st day bears to 365.
+&emsp;&emsp;"(ii) subsections (b)(2)(B) and (c)(4) of section 453A of such Code shall be applied separately with respect to such dispositions by substituting for '$5,000,000' the amount which bears the same ratio to $5,000,000 as the number of days after August 16, 1986, and before such 1st day bears to 365.
 
-“(4)
+"(4)
 
 Minimum tax.—The amendment made by subsection (d) \[amending section 56 of this title\] shall apply to dispositions in taxable years beginning after December 31, 1986.
 
-“(5)
+"(5)
 
-Coordination with tax reform act of 1986.—The amendments made by this section shall not apply to any installment obligation or to any taxpayer during any period to the extent the amendments made by section 811 of the Tax Reform Act of 1986 \[section 811 of Pub. L. 99–514, amending former section 453C of this title and enacting provisions set out as a note under former section 453C of this title\] do not apply to such obligation or during such period.”
+Coordination with tax reform act of 1986.—The amendments made by this section shall not apply to any installment obligation or to any taxpayer during any period to the extent the amendments made by section 811 of the Tax Reform Act of 1986 \[section 811 of Pub. L. 99–514, amending former section 453C of this title and enacting provisions set out as a note under former section 453C of this title\] do not apply to such obligation or during such period."
 
 #### Effective Date of 1986 Amendment
 
@@ -562,31 +562,31 @@ Amendment by section 642(a)(1)(D), (3), (b) of Pub. L. 99–514 applicable to sa
 
 Pub. L. 99–514, title VIII, §812(c), Oct. 22, 1986, 100 Stat. 2372, as amended by Pub. L. 100–647, title I, §1008(g)(3)–(6), Nov. 10, 1988, 102 Stat. 3443, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraphs (2) and (3), the amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
-“(2)
+"(2)
 
 Sales of stock, etc.—Section 453(k)(2) of the Internal Revenue Code of 1986, as added by subsection (a), shall apply to sales after December 31, 1986, in taxable years ending after such date.
 
-“(3)
+"(3)
 
 Change in method of accounting.—In the case of any taxpayer who made sales under a revolving credit plan and was on the installment method under section 453 or 453A of the Internal Revenue Code of 1986 for such taxpayer's last taxable year beginning before January 1, 1987, the amendments made by this section \[amending this section and section 453A of this title\] shall be treated as a change in method of accounting for its 1st taxable year beginning after December 31, 1986, and—
 
-&emsp;“(A) such change shall be treated as initiated by the taxpayer,
+&emsp;"(A) such change shall be treated as initiated by the taxpayer,
 
-&emsp;“(B) such change shall be treated as having been made with the consent of the Secretary,
+&emsp;"(B) such change shall be treated as having been made with the consent of the Secretary,
 
-&emsp;“(C) the period for taking into account adjustments under section 481 of such Code by reason of such change shall be equal to 4 years, and
+&emsp;"(C) the period for taking into account adjustments under section 481 of such Code by reason of such change shall be equal to 4 years, and
 
-&emsp;“(D) except as provided in paragraph (4), the amount taken into account in each of such 4 years shall be the applicable percentage (determined in accordance with the following table) of the net adjustment:
+&emsp;"(D) except as provided in paragraph (4), the amount taken into account in each of such 4 years shall be the applicable percentage (determined in accordance with the following table) of the net adjustment:
 
 &nbsp;
 
 <b>The applicable</b>
 
-<b> “In the case of the:</b>
+<b> "In the case of the:</b>
 
 <b>percentage is:</b>
 
@@ -610,59 +610,59 @@ Change in method of accounting.—In the case of any taxpayer who made sales und
 
 > If the taxpayer's last taxable year beginning before January 1, 1987, was the taxpayer's 1st taxable year in which sales were made under a revolving credit plan, all adjustments under section 481 of such Code shall be taken into account in the taxpayer's 1st taxable year beginning after December 31, 1986.
 
-“(4)
+"(4)
 
 Acceleration of adjustments where contraction in amount of installment obligations.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—If the percentage determined under subparagraph (B) for any taxable year in the adjustment period exceeds the percentage which would otherwise apply under paragraph (3)(D) for such taxable year (determined after the application of this paragraph for prior taxable years in the adjustment period)—
 
-&emsp;&emsp;“(i) the percentage determined under subparagraph (B) shall be substituted for the applicable percentage which would otherwise apply under paragraph (3)(D), and
+&emsp;&emsp;"(i) the percentage determined under subparagraph (B) shall be substituted for the applicable percentage which would otherwise apply under paragraph (3)(D), and
 
-&emsp;&emsp;“(ii) any increase in the applicable percentage by reason of clause (i) shall be applied to reduce the applicable percentage determined under paragraph (3)(D) for subsequent taxable years in the adjustment period (beginning with the 1st of such subsequent taxable years).
+&emsp;&emsp;"(ii) any increase in the applicable percentage by reason of clause (i) shall be applied to reduce the applicable percentage determined under paragraph (3)(D) for subsequent taxable years in the adjustment period (beginning with the 1st of such subsequent taxable years).
 
-&emsp;“(B)
+&emsp;"(B)
 
 Determination of percentage.—For purposes of subparagraph (A), the percentage determined under this subparagraph for any taxable year in the adjustment period is the excess (if any) of—
 
-&emsp;&emsp;“(i) the percentage determined by dividing the aggregate contraction in revolving installment obligations by the aggregate face amount of such obligations outstanding as of the close of the taxpayer's last taxable year beginning before January 1, 1987, over
+&emsp;&emsp;"(i) the percentage determined by dividing the aggregate contraction in revolving installment obligations by the aggregate face amount of such obligations outstanding as of the close of the taxpayer's last taxable year beginning before January 1, 1987, over
 
-&emsp;&emsp;“(ii) the sum of the applicable percentages under paragraph (3)(D) (as modified by this paragraph) for prior taxable years in the adjustment period.
+&emsp;&emsp;"(ii) the sum of the applicable percentages under paragraph (3)(D) (as modified by this paragraph) for prior taxable years in the adjustment period.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Aggregate contraction in revolving installment obligations.—For purposes of subparagraph (B), the aggregate contraction in revolving installment obligations is the amount by which—
 
-&emsp;&emsp;“(i) the aggregate face amount of the revolving installment obligations outstanding as of the close of the taxpayer's last taxable year beginning before January 1, 1987, exceeds
+&emsp;&emsp;"(i) the aggregate face amount of the revolving installment obligations outstanding as of the close of the taxpayer's last taxable year beginning before January 1, 1987, exceeds
 
-&emsp;&emsp;“(ii) the aggregate face amount of the revolving installment obligations outstanding as of the close of the taxable year involved.
+&emsp;&emsp;"(ii) the aggregate face amount of the revolving installment obligations outstanding as of the close of the taxable year involved.
 
-&emsp;“(D)
+&emsp;"(D)
 
-Revolving installment obligations.—For purposes of this paragraph, the term ‘revolving installment obligations’ means installment obligations arising under a revolving credit plan.
+Revolving installment obligations.—For purposes of this paragraph, the term 'revolving installment obligations' means installment obligations arising under a revolving credit plan.
 
-&emsp;“(E)
+&emsp;"(E)
 
 Treatment of certain obligations disposed of on or before october 26, 1987.—For purposes of subparagraphs (B)(i) and (C)(i), in determining the aggregate face amount of revolving installment obligations outstanding as of the close of the taxpayer's last taxable year beginning before January 1, 1987, there shall not be taken into account any obligation—
 
-&emsp;&emsp;“(i) which was disposed of to an unrelated person on or before October 26, 1987, or
+&emsp;&emsp;"(i) which was disposed of to an unrelated person on or before October 26, 1987, or
 
-&emsp;&emsp;“(ii) was disposed of to an unrelated person on or after such date pursuant to a binding written contract in effect on October 26, 1987, and at all times thereafter before such disposition.
+&emsp;&emsp;"(ii) was disposed of to an unrelated person on or after such date pursuant to a binding written contract in effect on October 26, 1987, and at all times thereafter before such disposition.
 
-> &emsp;For purposes of the preceding sentence, the term ‘unrelated person’ means any person who is not a related person (as defined in section 453(g) of the Internal Revenue Code of 1986).
+> &emsp;For purposes of the preceding sentence, the term 'unrelated person' means any person who is not a related person (as defined in section 453(g) of the Internal Revenue Code of 1986).
 
-“(5)
+"(5)
 
 Limitation on losses from sales of obligations under revolving credit plans.—If 1 or more obligations arising under a revolving credit plan and taken into account under paragraph (3) are disposed of during the adjustment period, then, notwithstanding any other provision of law—
 
-&emsp;“(A) no losses from such dispositions shall be recognized, and
+&emsp;"(A) no losses from such dispositions shall be recognized, and
 
-&emsp;“(B) the aggregate amount of the adjustment for taxable years in the adjustment period (in reverse order of time) shall be reduced by the amount of such losses.
+&emsp;"(B) the aggregate amount of the adjustment for taxable years in the adjustment period (in reverse order of time) shall be reduced by the amount of such losses.
 
-“(6)
+"(6)
 
-Adjustment period.—For purposes of paragraphs (4) and (5), the adjustment period is the 4-year period under paragraph (3).”
+Adjustment period.—For purposes of paragraphs (4) and (5), the adjustment period is the 4-year period under paragraph (3)."
 
 Amendment by section 1809(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -670,23 +670,23 @@ Amendment by section 1809(c) of Pub. L. 99–514 effective, except as otherwise 
 
 Pub. L. 98–369, div. A, title I, §112(b), July 18, 1984, 98 Stat. 635, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply with respect to dispositions made after June 6, 1984.
 
-“(2)
+"(2)
 
 Exception.—The amendments made by this section shall not apply with respect to any disposition conducted pursuant to a contract which was binding on March 22, 1984, and at all times thereafter.
 
-“(3)
+"(3)
 
-Special rule for certain dispositions before october 1, 1984.—The amendments made by this section shall not apply to any disposition before October 1, 1984, of all or substantially all of the personal property of a cable television business pursuant to a written offer delivered by the seller on June 20, 1984, but only if the last payment under the installment contract is due no later than October 1, 1989.”
+Special rule for certain dispositions before october 1, 1984.—The amendments made by this section shall not apply to any disposition before October 1, 1984, of all or substantially all of the personal property of a cable television business pursuant to a written offer delivered by the seller on June 20, 1984, but only if the last payment under the installment contract is due no later than October 1, 1989."
 
 Amendment by section 421(b)(6)(B), (C) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election tohave amendment apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub. L. 98–369, set out as an Effective Date note under section 1041 of this title.
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 97–448, title III, §311(a), Jan. 12, 1983, 96 Stat. 2411, provided that: “The amendments made by sections 301, 302, and 303 \[amending this section and sections 453B and 1239 of this title\] shall apply to dispositions made after October 19, 1980, in taxable years ending after such date.”
+Pub. L. 97–448, title III, §311(a), Jan. 12, 1983, 96 Stat. 2411, provided that: "The amendments made by sections 301, 302, and 303 \[amending this section and sections 453B and 1239 of this title\] shall apply to dispositions made after October 19, 1980, in taxable years ending after such date."
 
 #### Effective Date of 1981 Amendment
 
@@ -696,37 +696,37 @@ Amendment by Pub. L. 97–34 applicable to property placed in service after Dec.
 
 Pub. L. 96–471, §6(a), Oct. 19, 1980, 94 Stat. 2256, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by sections 2 \[enacting this section and sections 453A and 453B of this title and amending sections 311, 336, 337, 381, former section 453, and sections 453B, 481, 644, 691, and 1255 of this title\] and 5 \[amending section 1239 of this title\] shall apply to dispositions made after the date of the enactment of this Act \[Oct. 19, 1980\] in taxable years ending after such date.
 
-“(2)
+"(2)
 
 For section 453(e).—Section 453(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by section 2) shall apply to first dispositions made after May 14, 1980.
 
-“(3)
+"(3)
 
 For section 453(h).—Paragraphs (1) and (2) of section 453(h) of such Code (as amended by section 2) shall apply in the case of distributions of installment obligations after March 31, 1980.
 
-“(4)
+"(4)
 
 For section 453a.—Section 453A of the Internal Revenue Code of 1986 (as amended by section 2) shall apply to taxable years ending after the date of enactment of this Act \[Oct. 19, 1980\].
 
-“(5)
+"(5)
 
 For section 453b(f).—Section 453B(f) of the Internal Revenue Code of 1986 (as amended by section 2) shall apply to installment obligations becoming unenforceable after the date of the enactment of this Act \[Oct. 19, 1980\].
 
-“(6)
+"(6)
 
 For section 2(c).—The amendments made by section 2(c) \[amending sections 336, 337, 453B, and former section 453 of this title\] shall take effect as if included in the amendments made by section 403(b) of the Crude Oil Windfall Profit Tax Act of 1980 \[see section 403(b)(3) of Pub. L. 96–223, set out as an Effective Date of 1980 Amendments note under section 337 of this title\].
 
-“(7)
+"(7)
 
 Special rule for application of former section 453 to certain dispositions.—In the case of any disposition made on or before the date of the enactment of this Act \[Oct. 19, 1980\] in any taxable year ending after such date, the provisions of section 453(b) of the Internal Revenue Code of 1986 \[see subsec. (b) of former section 453 of this title, set out below\] as in effect before such date, shall be applied with respect to such disposition without regard to—
 
-&emsp;“(A) paragraph (2) of such section 453(b), and
+&emsp;"(A) paragraph (2) of such section 453(b), and
 
-&emsp;“(B) any requirement that more than 1 payment be received.”
+&emsp;"(B) any requirement that more than 1 payment be received."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

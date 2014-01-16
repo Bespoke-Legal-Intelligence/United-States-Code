@@ -68,5 +68,5 @@ Historical and Revision Notes
 
 Pub. L. 99–640, §13(a)–(c), Nov. 10, 1986, 100 Stat. 3551.
 
-In subsection (b), the words “all of” are inserted for clarity.
+In subsection (b), the words "all of" are inserted for clarity.
 

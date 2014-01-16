@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the “HELP Commission Act”.
+This section may be cited as the "HELP Commission Act".
 
 #### (b) Findings
 
@@ -22,7 +22,7 @@ This section may be cited as the “HELP Commission Act”.
 
 #### (c) Establishment of Commission; responsibilities
 
-(1) There is established the Helping to Enhance the Livelihood of People (HELP) Around the Globe Commission (in this section referred to as the “Commission”).
+(1) There is established the Helping to Enhance the Livelihood of People (HELP) Around the Globe Commission (in this section referred to as the "Commission").
 
 (2) The Commission shall—
 
@@ -38,7 +38,7 @@ This section may be cited as the “HELP Commission Act”.
 
 &emsp;(F) analyze ways in which the safety of development assistance workers can be ensured, particularly in the midst of conflicts;
 
-&emsp;(G) compare the effectiveness of increased and open trade with development assistance, and analyze the advantages and disadvantagesof such trade and whether such trade could be a more effective alternative to United States development assistance;
+&emsp;(G) compare the effectiveness of increased and open trade with development assistance, and analyze the advantages and disadvantages of such trade and whether such trade could be a more effective alternative to United States development assistance;
 
 &emsp;(H) analyze ways in which the United States can strengthen the capacity of indigenous nongovernmental organizations to be more effective in grassroots development;
 
@@ -46,7 +46,7 @@ This section may be cited as the “HELP Commission Act”.
 
 &emsp;(J) analyze ways in which results can be measured if United States development assistance is targeted to the least developed countries;
 
-&emsp;(K) recommend standards that should be set for “graduating” recipient countries from United States development assistance;
+&emsp;(K) recommend standards that should be set for "graduating" recipient countries from United States development assistance;
 
 &emsp;(L) analyze whether United States development assistance should be used as a means to achieve United States foreign policy objectives;
 
@@ -126,7 +126,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commis
 
 #### (h) Definition
 
-In this section, the term “United States development assistance” means—
+In this section, the term "United States development assistance" means—
 
 &emsp;(1) assistance provided by the United States under chapters 1, 10, 11, and 12 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq., 2293 et seq., 2295 et seq., 2296 et seq.\]; and
 
@@ -170,7 +170,7 @@ The Commission shall terminate 30 days after the submission of its report under 
 
 (3) Information under paragraphs (1) and (2) for a fiscal year shall not be required with respect to a country for which United States economic assistance for the country for the fiscal year is less than $5,000,000.
 
-(4) In this subsection, the term “United States economic assistance” means any bilateral economic assistance, from any budget functional category, that is provided by any department or agency of the United States to a foreign country, including such assistance that is intended—
+(4) In this subsection, the term "United States economic assistance" means any bilateral economic assistance, from any budget functional category, that is provided by any department or agency of the United States to a foreign country, including such assistance that is intended—
 
 &emsp;(A) to assist the development and economic advancement of friendly foreign countries and peoples;
 
@@ -218,7 +218,7 @@ Memorandum for the Secretary of State \[and\] the Administrator of the United St
 
 By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code:
 
-1\. The functions of the President under subsection 637(k) of the \[Departments of\] Commerce, Justice\[,\] and State, the Judiciary, and Related Agencies Appropriations Act, 2004 (Division B, Public Law 108–199) (22 U.S.C. 2394b(k)) (the “Act”) are assigned to the Secretary of State (Secretary).
+1\. The functions of the President under subsection 637(k) of the \[Departments of\] Commerce, Justice\[,\] and State, the Judiciary, and Related Agencies Appropriations Act, 2004 (Division B, Public Law 108–199) (22 U.S.C. 2394b(k)) (the "Act") are assigned to the Secretary of State (Secretary).
 
 2\. The Administrator of the United States Agency for International Development shall provide support to assist the Secretary in the performance of functions assigned by this memorandum, and the heads of executive departments and agencies with information concerning assistance programs shall furnish promptly to the Secretary, consistent with applicable law, such information as the Secretary may request to assist in fulfillment of these responsibilities for the preparation of the report to which subsection 637(k) refers.
 
@@ -230,7 +230,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “crises”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "crises".</i>
 

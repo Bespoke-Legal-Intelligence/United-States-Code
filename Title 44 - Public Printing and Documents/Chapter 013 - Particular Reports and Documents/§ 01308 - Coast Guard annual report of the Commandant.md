@@ -12,7 +12,7 @@ This section incorporates only so much of the third sentence of the second parag
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–241 substituted “Secretary of the department in which the Coast Guard is operating” for “Secretary of the Department of Transportation”.
+<b>2006</b>—Pub. L. 109–241 substituted "Secretary of the department in which the Coast Guard is operating" for "Secretary of the Department of Transportation".
 
 #### Transfer of Functions
 

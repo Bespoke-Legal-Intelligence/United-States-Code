@@ -6,7 +6,7 @@ The Farm Credit Administration may in its discretion apply to the United States 
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–233 inserted at end “For purposes of this section, any directive issued under section 2154(b)(2), 2154a(e), or 2202a(i) of this title shall be treated as an effective and outstanding order issued under section 2261 of this title that has become final.”
+<b>1988</b>—Pub. L. 100–233 inserted at end "For purposes of this section, any directive issued under section 2154(b)(2), 2154a(e), or 2202a(i) of this title shall be treated as an effective and outstanding order issued under section 2261 of this title that has become final."
 
 #### Effective Date
 

@@ -24,9 +24,9 @@ Section 7107 specifies that there is no time limit on the validity of a certific
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–281 amended section generally. Prior to amendment, text read as follows: “A certificate of registry issued under this part is valid for 5 years and may be renewed for additional 5-year periods. However, the validity of a certificate issued to a medical doctor or professional nurse is conditioned on the continuous possession by the holder of a license as a medical doctor or registered nurse, respectively, issued by a State.”
+<b>2010</b>—Pub. L. 111–281 amended section generally. Prior to amendment, text read as follows: "A certificate of registry issued under this part is valid for 5 years and may be renewed for additional 5-year periods. However, the validity of a certificate issued to a medical doctor or professional nurse is conditioned on the continuous possession by the holder of a license as a medical doctor or registered nurse, respectively, issued by a State."
 
-<b>1990</b>—Pub. L. 101–380 substituted “is valid for 5 years and may be renewed for additional 5-year periods” for “is not limited in duration”.
+<b>1990</b>—Pub. L. 101–380 substituted "is valid for 5 years and may be renewed for additional 5-year periods" for "is not limited in duration".
 
 #### Effective Date of 1990 Amendment
 

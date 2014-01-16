@@ -42,11 +42,11 @@ Act
 
 June 3, 1916, ch. 134, §61 (less (b)); restated Oct. 21, 1940, ch. 904 (less last 3 provisos); restated Aug. 18, 1941, ch. 363 (less last 3 provisos); restated Oct. 1, 1942, ch. 570 (less (b)); restated June 26, 1944, ch. 279 (less (b)); restated Sept. 27, 1950, ch. 1058 (less (b)), 64 Stat. 1072.
 
-In subsection (a), the words “those of its National Guard” are substituted for the words “as authorized in accordance with the organization prescribed under this Act”.
+In subsection (a), the words "those of its National Guard" are substituted for the words "as authorized in accordance with the organization prescribed under this Act".
 
 In subsections (a) and (b), the provisions of 32:194(c) are exhausted by the enumeration of the jurisdictions named.
 
-In subsection (b), the words “Nothing in this title limits” are substituted for the words “Nothing contained in this Act shall be construed to limit”.
+In subsection (b), the words "Nothing in this title limits" are substituted for the words "Nothing contained in this Act shall be construed to limit".
 
 1958
 
@@ -72,21 +72,21 @@ Aug. 11, 1955, ch. 802, 69 Stat. 686.
 
 32 App.:194(b) (last sentence).
 
-In subsection (c), the words “heretofore authorized by this Act \[sic\]”, “as such”, and “in any manner” are omitted as surplusage.
+In subsection (c), the words "heretofore authorized by this Act \[sic\]", "as such", and "in any manner" are omitted as surplusage.
 
-In subsection (d), the words “under any Federal law” are omitted since only Federal law could require service in the armed forces. The word “military” is omitted as surplusage.
+In subsection (d), the words "under any Federal law" are omitted since only Federal law could require service in the armed forces. The word "military" is omitted as surplusage.
 
-In subsection (e), the words “defense force” are substituted for the words “organized militia” for accuracy and to conform to subsection (c). The words “reserve component of the armed forces” are substituted for the words “Reserve Forces as defined in section 901 of Title 50”, since that term is not defined in the Armed Forces Reserve Act of 1952.
+In subsection (e), the words "defense force" are substituted for the words "organized militia" for accuracy and to conform to subsection (c). The words "reserve component of the armed forces" are substituted for the words "Reserve Forces as defined in section 901 of Title 50", since that term is not defined in the Armed Forces Reserve Act of 1952.
 
 #### Amendments
 
 <b>2011</b>—Subsecs. (a) to (c). Pub. L. 111–383 amended directory language of Pub. L. 109–163, §1057(b)(3). See 2006 Amendment note below.
 
-<b>2006</b>—Subsecs. (a) to (c). Pub. L. 109–163, §1057(b)(3), as amended by Pub. L. 111–383, substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia”.
+<b>2006</b>—Subsecs. (a) to (c). Pub. L. 109–163, §1057(b)(3), as amended by Pub. L. 111–383, substituted "State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands" for "State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia".
 
-<b>1988</b>—Subsecs. (a) to (c). Pub. L. 100–456 struck out “the Canal Zone,” after “Virgin Islands,”.
+<b>1988</b>—Subsecs. (a) to (c). Pub. L. 100–456 struck out "the Canal Zone," after "Virgin Islands,".
 
-<b>1958</b>—Subsecs. (a), (b). Pub. L. 85–861, §2(2)(A), substituted “defense forces authorized by subsection (c)” for “State defense forces”.
+<b>1958</b>—Subsecs. (a), (b). Pub. L. 85–861, §2(2)(A), substituted "defense forces authorized by subsection (c)" for "State defense forces".
 
 Subsecs. (c) to (e). Pub. L. 85–861, §2(2)(B), added subsecs. (c) to (e).
 

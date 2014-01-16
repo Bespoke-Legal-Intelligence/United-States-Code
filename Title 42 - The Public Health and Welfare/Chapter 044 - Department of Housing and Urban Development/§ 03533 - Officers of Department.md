@@ -28,7 +28,7 @@ There shall be in the Department an Assistant to the Secretary, designated by th
 
 &emsp;(i) administering, in coordination with the relevant office in the Department, the provision of housing assistance to Indian tribes or Indian housing authorities under each program of the Department that provides for such assistance;
 
-&emsp;(ii) administering the community development block grant program for Indian tribes under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] and the provision of assistance to Indian tribes under such Act;
+&emsp;(ii) administering the community development block grant program for Indian tribes under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\]and the provision of assistance to Indian tribes under such Act;
 
 &emsp;(iii) directing, coordinating, and assisting in managing any regional offices of the Department that administer Indian programs to the extent of such programs; and
 
@@ -122,7 +122,7 @@ There shall be in the Department a Federal Housing Administration Comptroller, d
 
 &emsp;In carrying out the responsibilities of the Director, the Director shall ensure that homeownership counseling provided by, in connection with, or pursuant to any function, activity, or program of the Department addresses the entire process of homeownership, including the decision to purchase a home, the selection and purchase of a home, issues arising during or affecting the period of ownership of a home (including refinancing, default and foreclosure, and other financial decisions), and the sale or other disposition of a home.
 
-(Pub. L. 89–174, §4, Sept. 9, 1965, 79 Stat. 668; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–284, title VIII, §808(b)(1), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title XVII, §1708(a), Aug. 1, 1968, 82 Stat. 606; Pub. L. 91–609, title IX, §917, Dec. 31, 1970, 84 Stat. 1816; Pub. L. 93–383, title VIII, §818(a), Aug. 22, 1974, 88 Stat. 740; Pub. L. 95–128, title IX, §901, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 101–235, title I, §§121, 122, 140, Dec. 15, 1989, 103 Stat. 2021, 2030; Pub. L. 101–509, title V, §529 \[title I, §112(a)(4)\], Nov. 5, 1990, 104 Stat.1427, 1454; Pub. L. 101–576, title II, §205(c)(2),Nov. 15, 1990, 104 Stat. 2845; Pub. L. 102–550, title IX, §902(a)(1), Oct. 28, 1992, 106 Stat. 3866; Pub. L. 111–203, title XIV, §1442, July 21, 2010, 124 Stat. 2163; Pub. L. 112–166, §2(g), Aug. 10, 2012, 126 Stat. 1285.)
+(Pub. L. 89–174, §4, Sept. 9, 1965, 79 Stat. 668; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–284, title VIII, §808(b)(1), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title XVII, §1708(a), Aug. 1, 1968, 82 Stat. 606; Pub. L. 91–609, title IX, §917, Dec. 31, 1970, 84 Stat. 1816; Pub. L. 93–383, title VIII, §818(a), Aug. 22, 1974, 88 Stat. 740; Pub. L. 95–128, title IX, §901, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 101–235, title I, §§121, 122, 140, Dec. 15, 1989, 103 Stat. 2021, 2030; Pub. L. 101–509, title V, §529 \[title I, §112(a)(4)\], Nov. 5, 1990, 104 Stat.1427, 1454; Pub. L. 101–576, title II, §205(c)(2), Nov. 15, 1990, 104 Stat. 2845; Pub. L. 102–550, title IX, §902(a)(1), Oct. 28, 1992, 106 Stat. 3866; Pub. L. 111–203, title XIV, §1442, July 21, 2010, 124 Stat. 2163; Pub. L. 112–166, §2(g), Aug. 10, 2012, 126 Stat. 1285.)
 
 #### References in Text
 
@@ -136,13 +136,13 @@ Section was formerly classified to section 624b of former Title 5, Executive Dep
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–166 designated existing provisions as par. (1), substituted “7” for “eight” in par. (1), and added par. (2).
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 designated existing provisions as par. (1), substituted "7" for "eight" in par. (1), and added par. (2).
 
 <b>2010</b>—Subsec. (g). Pub. L. 111–203 added subsec. (g).
 
-<b>1992</b>—Subsec. (e)(1). Pub. L. 102–550 designated existing provisions as subpar. (A), substituted “located in the Office of the Assistant Secretary for Public and Indian Housing” for “responsible for coordinating all programs of the Department relating to Indian and Alaska Native housing and community development”, and added subpars. (B) through (D).
+<b>1992</b>—Subsec. (e)(1). Pub. L. 102–550 designated existing provisions as subpar. (A), substituted "located in the Office of the Assistant Secretary for Public and Indian Housing" for "responsible for coordinating all programs of the Department relating to Indian and Alaska Native housing and community development", and added subpars. (B) through (D).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–509 substituted “a Deputy Secretary” for “an Under Secretary”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–509 substituted "a Deputy Secretary" for "an Under Secretary".
 
 Subsec. (e). Pub. L. 101–576 struck out subsec. (e), added by section 121 of Pub. L. 101–235, which related to Chief Financial Officer.
 
@@ -196,13 +196,13 @@ Nomination and appointment of Under Secretary, Assistant Secretaries, General Co
 
 Section 902(a)(2), (3) of Pub. L. 102–550 provided that:
 
-“(2)
+"(2)
 
 Transfer of functions.—Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of Housing and Urban Development shall transfer to the Special Assistant for Indian and Alaska Native Programs any functions and duties described in section 4(e)(1)(B) of the Department of Housing and Urban Development Act \[42 U.S.C. 3533(e)(1)(B)\] (as added by paragraph (1) of this subsection).
 
-“(3)
+"(3)
 
-Staff.—Not later than the expiration of the 1-year period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall transfer from offices within the Department of Housing and Urban Development to the office of the Special Assistant for Indian and Alaska Native Programs such staff, having experience and capacity to administer Indian housing and community development programs, as may be necessary and appropriate to assist the Special Assistant in carrying out the responsibilities under section 4(e)(1)(B) of the Department of Housing and Urban Development Act (as added by paragraph (1) of this subsection).”
+Staff.—Not later than the expiration of the 1-year period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall transfer from offices within the Department of Housing and Urban Development to the office of the Special Assistant for Indian and Alaska Native Programs such staff, having experience and capacity to administer Indian housing and community development programs, as may be necessary and appropriate to assist the Special Assistant in carrying out the responsibilities under section 4(e)(1)(B) of the Department of Housing and Urban Development Act (as added by paragraph (1) of this subsection)."
 
 #### Office of Inspector General
 

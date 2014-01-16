@@ -14,7 +14,7 @@
 
 &emsp;(B) A service obligation in a component of the Selected Reserve for a period not less than twice as long as the member's remaining active duty service obligation.
 
-&emsp;(C) Repayment to the Secretary of Defense of a percentage of the total cost incurred by the Secretary under this subchapter on behalf of the member pursuant to the repayment provisions of section 303a(e) of title 37.
+&emsp;(C) Repayment to the Secretary of Defense of a percentage of the total cost incurred bythe Secretary under this subchapter on behalf of the member pursuant to the repayment provisions of section 303a(e) of title 37.
 
 (2) In addition to the alternative obligations specified in paragraph (1), if the member is relieved of an active duty obligation by reason of the separation of the member because of a physical disability, the Secretary of the military department concerned may give the member a service obligation as a civilian employee employed as a health care professional in a facility of the uniformed services for a period of time equal to the member's remaining active duty service obligation.
 
@@ -24,15 +24,15 @@
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e)(1)(C). Pub. L. 109–163 substituted “pursuant to the repayment provisions of section303a(e) of title 37.” for “equal to the percentage of the member's total active duty service obligation being relieved, plus interest.”
+<b>2006</b>—Subsec. (e)(1)(C). Pub. L. 109–163 substituted "pursuant to the repayment provisions of section 303a(e) of title 37." for "equal to the percentage of the member's total active duty service obligation being relieved, plus interest."
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–201 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any member of the program relieved of his active duty obligation under this subchapter before the completion of such obligation may, under regulations prescribed by the Secretary of Defense, be assigned to a health professional shortage area designated by the Secretary of Health and Human Services for a period equal to the period of obligation from which he was relieved.”
+<b>1996</b>—Subsec. (e). Pub. L. 104–201 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Any member of the program relieved of his active duty obligation under this subchapter before the completion of such obligation may, under regulations prescribed by the Secretary of Defense, be assigned to a health professional shortage area designated by the Secretary of Health and Human Services for a period equal to the period of obligation from which he was relieved."
 
-<b>1990</b>—Subsec. (e). Pub. L. 101–597 substituted “a health professional shortage area” for “an area of health manpower shortage”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–597 substituted "a health professional shortage area" for "an area of health manpower shortage".
 
-<b>1987</b>—Subsec. (e). Pub. L. 100–180 substituted “subchapter” for “chapter”.
+<b>1987</b>—Subsec. (e). Pub. L. 100–180 substituted "subchapter" for "chapter".
 
-<b>1980</b>—Subsec. (e). Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1980</b>—Subsec. (e). Pub. L. 96–513 substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare".
 
 #### Effective Date of 1996 Amendment
 
@@ -48,5 +48,5 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 #### Transition Provisions
 
-Pub. L. 104–201, div. A, title VII, §741(d)(1), Sept. 23, 1996, 110 Stat. 2600, provided that: “In the case of any member of the Armed Forces Health Professions Scholarship and Financial Assistance program who, as of October 1, 1996, is serving an active duty obligation under the program or is incurring an active duty obligation as a participant in the program, and who is subsequently relieved of the active duty obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (a) \[amending this section\] may be used by the Secretary of the military department concerned with the agreement of the member.”
+Pub. L. 104–201, div. A, title VII, §741(d)(1), Sept. 23, 1996, 110 Stat. 2600, provided that: "In the case of any member of the Armed Forces Health Professions Scholarship and Financial Assistance program who, as of October 1, 1996, is serving an active duty obligation under the program or is incurring an active duty obligation as a participant in the program, and who is subsequently relieved of the active duty obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (a) \[amending this section\] may be used by the Secretary of the military department concerned with the agreement of the member."
 

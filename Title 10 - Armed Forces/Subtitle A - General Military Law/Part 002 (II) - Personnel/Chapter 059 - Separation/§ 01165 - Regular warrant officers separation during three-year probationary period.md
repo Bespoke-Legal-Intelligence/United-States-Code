@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 May 29, 1954, ch. 249, §6 (less last 36 words of last sentence), 68 Stat. 159.
 
-The words “in his discretion” are omitted as surplusage. The last 10 words of the last sentence are inserted for clarity.
+The words "in his discretion" are omitted as surplusage. The last 10 words of the last sentence are inserted for clarity.
 
 #### Amendments
 

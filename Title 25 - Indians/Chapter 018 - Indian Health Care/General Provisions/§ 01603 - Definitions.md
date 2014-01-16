@@ -4,25 +4,25 @@ In this chapter:
 
 #### (1) Area office
 
-&emsp;The term “Area office” means an administrative entity including a program office, within the Indian Health Service through which services and funds are provided to the service units within a defined geographic area.
+&emsp;The term "Area office" means an administrative entity including a program office, within the Indian Health Service through which services and funds are provided to the service units within a defined geographic area.
 
 #### (2) Behavioral health
 
 #### (A) In general
 
-&emsp;&emsp;The term “behavioral health” means the blending of substance (alcohol, drugs, inhalants, and tobacco) abuse and mental health disorders prevention and treatment for the purpose of providing comprehensive services.
+&emsp;&emsp;The term "behavioral health" means the blending of substance (alcohol, drugs, inhalants, and tobacco) abuse and mental health disorders prevention and treatment for the purpose of providing comprehensive services.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “behavioral health” includes the joint development of substance abuse and mental health treatment planning and coordinated case management using a multidisciplinary approach.
+&emsp;&emsp;The term "behavioral health" includes the joint development of substance abuse and mental health treatment planning and coordinated case management using a multidisciplinary approach.
 
 #### (3) California Indian
 
-&emsp;The term “California Indian” means any Indian who is eligible for health services provided by the Service pursuant to section 1679 of this title.
+&emsp;The term "California Indian" means any Indian who is eligible for health services provided by the Service pursuant to section 1679 of this title.
 
 #### (4) Community college
 
-&emsp;The term “community college” means—
+&emsp;The term "community college" means—
 
 &emsp;&emsp;(A) a tribal college or university; or
 
@@ -30,7 +30,7 @@ In this chapter:
 
 #### (5) Contract health service
 
-&emsp;The term “contract health service” means any health service that is—
+&emsp;The term "contract health service" means any health service that is—
 
 &emsp;&emsp;(A) delivered based on a referral by, or at the expense of, an Indian health program; and
 
@@ -38,13 +38,13 @@ In this chapter:
 
 #### (6) Department
 
-&emsp;The term “Department”, unless otherwise designated, means the Department of Health and Human Services.
+&emsp;The term "Department", unless otherwise designated, means the Department of Health and Human Services.
 
 #### (7) Disease prevention
 
 #### (A) In general
 
-&emsp;&emsp;The term “disease prevention” means any activity for—
+&emsp;&emsp;The term "disease prevention" means any activity for—
 
 &emsp;&emsp;&emsp;(i) the reduction, limitation, and prevention of—
 
@@ -56,7 +56,7 @@ In this chapter:
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “disease prevention” includes an activity for—
+&emsp;&emsp;The term "disease prevention" includes an activity for—
 
 &emsp;&emsp;&emsp;(i) controlling—
 
@@ -82,11 +82,11 @@ In this chapter:
 
 #### (8) FAE
 
-&emsp;The term “FAE” means fetal alcohol effect.
+&emsp;The term "FAE" means fetal alcohol effect.
 
 #### (9) FAS
 
-&emsp;The term “fetal alcohol syndrome” or “FAS” means a syndrome in which, with a history of maternal alcohol consumption during pregnancy, the following criteria are met:
+&emsp;The term "fetal alcohol syndrome" or "FAS" means a syndrome in which, with a history of maternal alcohol consumption during pregnancy, the following criteria are met:
 
 &emsp;&emsp;(A) Central nervous system involvement such as mental retardation, developmental delay, intellectual deficit, microencephaly, or neurologic abnormalities.
 
@@ -96,11 +96,11 @@ In this chapter:
 
 #### (10) Health profession
 
-&emsp;The term “Health profession” means allopathic medicine, family medicine, internal medicine, pediatrics, geriatric medicine, obstetrics and gynecology, podiatric medicine, nursing, public health nursing, dentistry, psychiatry, osteopathy, optometry, pharmacy, psychology, public health, social work, marriage and family therapy, chiropractic medicine, environmental health and engineering, an allied health profession, or any other health profession.
+&emsp;The term "Health profession" means allopathic medicine, family medicine, internal medicine, pediatrics, geriatric medicine, obstetrics and gynecology, podiatric medicine, nursing, public health nursing, dentistry, psychiatry, osteopathy, optometry, pharmacy, psychology, public health, social work, marriage and family therapy, chiropractic medicine, environmental health and engineering, an allied health profession, or any other health profession.
 
 #### (11) Health promotion
 
-&emsp;The term “health promotion” means any activity for—
+&emsp;The term "health promotion" means any activity for—
 
 &emsp;&emsp;(A) fostering social, economic, environmental, and personal factors conducive to health, including raising public awareness regarding health matters and enabling individuals to cope with health problems by increasing knowledge and providing valid information;
 
@@ -176,7 +176,7 @@ In this chapter:
 
 #### (12) Indian health program
 
-&emsp;The term “Indian health program” means—
+&emsp;The term "Indian health program" means—
 
 &emsp;&emsp;(A) any health program administered directly by the Service;
 
@@ -186,7 +186,7 @@ In this chapter:
 
 #### (13) Indians or Indian
 
-&emsp;The term “Indians” or “Indian”, unless otherwise designated, means any person who is a member of an Indian tribe, as defined in subsection (d) hereof,<sup>1</sup> except that, for the purpose of sections 1612 and 1613 of this title, such terms shall mean any individual who <sup>2</sup>
+&emsp;The term "Indians" or "Indian", unless otherwise designated, means any person who is a member of an Indian tribe, as defined in subsection (d) hereof,<sup>1</sup> except that, for the purpose of sections 1612 and 1613 of this title, such terms shall mean any individual who <sup>2</sup>
 
 &emsp;&emsp;(A),<sup>3</sup> irrespective of whether he or she lives on or near a reservation, is a member of a tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member, or
 
@@ -198,21 +198,21 @@ In this chapter:
 
 #### (14) Indian tribe
 
-&emsp;The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or group or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term "Indian tribe" means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or group or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (15) Junior or community college
 
-&emsp;The term “junior or community college” has the meaning given the term in section 1058(e) <sup>1</sup> of title 20.
+&emsp;The term "junior or community college" has the meaning given the term in section 1058(e) <sup>1</sup> of title 20.
 
 #### (16) Reservation
 
 #### (A) In general
 
-&emsp;&emsp;The term “reservation” means a reservation, Pueblo, or colony of any Indian tribe.
+&emsp;&emsp;The term "reservation" means a reservation, Pueblo, or colony of any Indian tribe.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “reservation” includes—
+&emsp;&emsp;The term "reservation" includes—
 
 &emsp;&emsp;&emsp;(i) former reservations in Oklahoma;
 
@@ -222,69 +222,69 @@ In this chapter:
 
 #### (17) Secretary
 
-&emsp;The term “Secretary”, unless otherwise designated, means the Secretary of Health and Human Services.
+&emsp;The term "Secretary", unless otherwise designated, means the Secretary of Health and Human Services.
 
 #### (18) Service
 
-&emsp;The term “Service” means the Indian Health Service.
+&emsp;The term "Service" means the Indian Health Service.
 
 #### (19) Service area
 
-&emsp;The term “Service area” means the geographical area served by each area office.
+&emsp;The term "Service area" means the geographical area served by each area office.
 
 #### (20) Service unit
 
-&emsp;The term “Service unit” means an administrative entity of the Service or a tribal health program through which services are provided, directly or by contract, to eligible Indians within a defined geographic area.
+&emsp;The term "Service unit" means an administrative entity of the Service or a tribal health program through which services are provided, directly or by contract, to eligible Indians within a defined geographic area.
 
 #### (21) Substance abuse
 
-&emsp;The term “Substance abuse” includes inhalant abuse.
+&emsp;The term "Substance abuse" includes inhalant abuse.
 
 #### (22) Telehealth
 
-&emsp;The term “telehealth” has the meaning given the term in section 254c–16(a) of title 42.
+&emsp;The term "telehealth" has the meaning given the term in section 254c–16(a) of title 42.
 
 #### (23) Telemedicine
 
-&emsp;The term “telemedicine” means a telecommunications link to an end user through the use of eligible equipment that electronically links health professionals or patients and health professionals at separate sites in order to exchange health care information in audio, video, graphic, or other format for the purpose of providing improved health care services.
+&emsp;The term "telemedicine" means a telecommunications link to an end user through the use of eligible equipment that electronically links health professionals or patients and health professionals at separate sites in order to exchange health care information in audio, video, graphic, or other format for the purpose of providing improved health care services.
 
 #### (24) Tribal college or university
 
-&emsp;The term “tribal college or university” has the meaning given the term in section 1059c(b) of title 20.
+&emsp;The term "tribal college or university" has the meaning given the term in section 1059c(b) of title 20.
 
 #### (25) Tribal health program
 
-&emsp;The term “tribal health program” means an Indian tribe or tribal organization that operates any health program, service, function, activity, or facility funded, in whole or part, by the Service through, or provided for in, a contract or compact with the Service under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+&emsp;The term "tribal health program" means an Indian tribe or tribal organization that operates any health program, service, function, activity, or facility funded, in whole or part, by the Service through, or provided for in, a contract or compact with the Service under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
 #### (26) Tribal organization
 
-&emsp;The term “tribal organization” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+&emsp;The term "tribal organization" has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
 #### (27) Urban center
 
-&emsp;The term “Urban center” means any community which has a sufficient urban Indian population with unmet health needs to warrant assistance under subchapter IV, as determined by the Secretary.
+&emsp;The term "Urban center" means any community which has a sufficient urban Indian population with unmet health needs to warrant assistance under subchapter IV, as determined by the Secretary.
 
 #### (28) Urban Indian
 
-&emsp;The term “Urban Indian” means any individual who resides in an urban center, as defined in subsection (g) hereof,<sup>1</sup> and who meets one or more of the four criteria in subsection (c)(1) through (4) of this section.<sup>1</sup>
+&emsp;The term "Urban Indian" means any individual who resides in an urban center, as defined in subsection (g) hereof,<sup>1</sup> and who meets one or more of the four criteria in subsection (c)(1) through (4) of this section.<sup>1</sup>
 
 #### (29) Urban Indian organization
 
-&emsp;The term “Urban Indian organization” means a nonprofit corporate body situated in an urban center, governed by an urban Indian controlled board of directors, and providing for the maximum participation of all interested Indian groups and individuals, which body is capable of legally cooperating with other public and private entities for the purpose of performing the activities described in section 1653(a) of this title.
+&emsp;The term "Urban Indian organization" means a nonprofit corporate body situated in an urban center, governed by an urban Indian controlled board of directors, and providing for the maximum participation of all interested Indian groups and individuals, which body is capable of legally cooperating with other public and private entities for the purpose of performing the activities described in section 1653(a) of this title.
 
 (Pub. L. 94–437, §4, Sept. 30, 1976, 90 Stat. 1401; Pub. L. 96–537, §2, Dec. 17, 1980, 94 Stat. 3173; Pub. L. 100–713, title II, §§201(b), 203(b), title V, §502, Nov. 23, 1988, 102 Stat. 4803, 4804, 4824; Pub. L. 102–573, §3(c), title IX, §902(1), Oct. 29, 1992, 106 Stat. 4529, 4591; Pub. L. 104–313, §2(a), Oct. 19, 1996, 110 Stat. 3820; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 Subsection (d) hereof, referred to in par. (13), was redesignated par. (14) of this section by section 10221(a) of Pub. L. 111–148.
 
 The Alaska Native Claims Settlement Act, referred to in pars. (14) and (16)(B)(iii), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43, and Tables.
 
-Section 1058(e) of title 20, referred to in par. (15), probably means section 1058(f) of title 20, which defines “junior or community college”. Section 1058(e) of title 20 was redesignated section 1058(f) of title 20 by Pub. L. 105–244, title III, §303(b)(1), Oct. 7, 1998, 112 Stat. 1639.
+Section 1058(e) of title 20, referred to in par. (15), probably means section 1058(f) of title 20, which defines "junior or community college". Section 1058(e) of title 20 was redesignated section 1058(f) of title 20 by Pub. L. 105–244, title III, §303(b)(1), Oct. 7, 1998, 112 Stat. 1639.
 
-The Indian Self-Determination and Education Assistance Act, referred to in par. (25), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in par. (25), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 Subsection (g) hereof, referred to in par. (28), was redesignated par. (27) of this section by section 10221(a) of Pub. L. 111–148.
 
@@ -296,27 +296,27 @@ Amendment by Pub. L. 111–148 is based on section 104 of title I of S. 1790, On
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148 substituted “In this chapter:” for “For purposes of this chapter—” in introductory provisions, redesignated pars. in subsecs. (c), (j), (k), and (l) as subpars. and realigned margins, redesignated subsecs. (a) to (q) as pars. (17), (18), (13), (14), (26), (28), (27), (29), (1), (20), (11), (7), (19), (10), (21), (8), and (9), respectively, and realigned margins, struck out former pars. (7), (9), (11), (20), and (26), as so redesignated, added pars. (2) to (7), (9), (11), (12), (15), (16), (20), and (22) to (26), arranged pars. in numerical order, and inserted heading and “The term” after each par. designation. Prior to amendment, pars. (7), (9), (11), (20), and (26), as so redesignated, defined disease prevention, FAS, health promotion, service unit, and tribal organization, respectively. Amendment directing redesignation of pars. contained in subsec. (c) as subpars. was executed by redesignating pars. (1) to (4) as subpars. (A) to (D), respectively, as the probable intent of Congress. Amendment directing the striking of paragraph “(12) (as redesignated by paragraph (3))” could not be executed because there was no par. (12) redesignated by par. (3).
+<b>2010</b>—Pub. L. 111–148 substituted "In this chapter:" for "For purposes of this chapter—" in introductory provisions, redesignated pars. in subsecs. (c), (j), (k), and (l) as subpars. and realigned margins, redesignated subsecs. (a) to (q) as pars. (17), (18), (13), (14), (26), (28), (27), (29), (1), (20), (11), (7), (19), (10), (21), (8), and (9), respectively, and realigned margins, struck out former pars. (7), (9), (11), (20), and (26), as so redesignated, added pars. (2) to (7), (9), (11), (12), (15), (16), (20), and (22) to (26), arranged pars. in numerical order, and inserted heading and "The term" after each par. designation. Prior to amendment, pars. (7), (9), (11), (20), and (26), as so redesignated, defined disease prevention, FAS, health promotion, service unit, and tribal organization, respectively. Amendment directing redesignation of pars. contained in subsec. (c) as subpars. was executed by redesignating pars. (1) to (4) as subpars. (A) to (D), respectively, as the probable intent of Congress. Amendment directing the striking of paragraph "(12) (as redesignated by paragraph (3))" could not be executed because there was no par. (12) redesignated by par. (3).
 
-<b>1996</b>—Subsec. (n). Pub. L. 104–313 inserted “allopathic medicine,” before “family medicine” and substituted “an allied health profession, or any other health profession” for “and allied health professions”.
+<b>1996</b>—Subsec. (n). Pub. L. 104–313 inserted "allopathic medicine," before "family medicine" and substituted "an allied health profession, or any other health profession" for "and allied health professions".
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–573, §902(1), substituted “sections 1612 and 1613 of this title” for “sections 1612, 1613, and 1621(c)(5) of this title”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–573, §902(1), substituted "sections 1612 and 1613 of this title" for "sections 1612, 1613, and 1621(c)(5) of this title".
 
 Subsecs. (m) to (q). Pub. L. 102–573, §3(c), added subsecs. (m) to (q).
 
-<b>1988</b>—Subsec. (h). Pub. L. 100–713, §502, inserted “urban” after “governed by an”.
+<b>1988</b>—Subsec. (h). Pub. L. 100–713, §502, inserted "urban" after "governed by an".
 
-Subsec. (i). Pub. L. 100–713, §201(b), added subsec. (i) and struck out former subsec. (i) which defined “rural Indian”.
+Subsec. (i). Pub. L. 100–713, §201(b), added subsec. (i) and struck out former subsec. (i) which defined "rural Indian".
 
-Subsec. (j). Pub. L. 100–713, §201(b), added subsec. (j) and struck out former subsec. (j) which defined “rural community”.
+Subsec. (j). Pub. L. 100–713, §201(b), added subsec. (j) and struck out former subsec. (j) which defined "rural community".
 
-Subsec. (k). Pub. L. 100–713, §§201(b), 203(b), added subsec. (k) and struck out former subsec. (k) which defined “rural Indian organization”.
+Subsec. (k). Pub. L. 100–713, §§201(b), 203(b), added subsec. (k) and struck out former subsec. (k) which defined "rural Indian organization".
 
 Subsec. (l). Pub. L. 100–713, §203(b), added subsec. (l).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–537, §2(a), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–537, §2(a), substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare".
 
-Subsec. (h). Pub. L. 96–537, §2(b), substituted “governed by an Indian controlled board of directors” for “composed of urban Indians”.
+Subsec. (h). Pub. L. 96–537, §2(b), substituted "governed by an Indian controlled board of directors" for "composed of urban Indians".
 
 Subsecs. (i) to (k). Pub. L. 96–537, §2(c), added subsecs. (i) to (k).
 

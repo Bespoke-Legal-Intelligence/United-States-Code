@@ -14,7 +14,7 @@ The Chairman of the Council on Environmental Quality is directed to contract to 
 
 #### (b) Submittal of study with legislative recommendation to President and Congress
 
-The study together with specific legislative recommendations shall be submitted to the President and the Congress no later than eighteen months after August 3, 1977: <i>Provided</i>, That, with respect to surface or open pit mining for sand and gravel the study shall be submitted no later than twelve months after August 3, 1977: <i>Provided further</i>, That with respect to mining for oil shale and tar sands that a preliminary report shall be submitted no later than twelve months after August 3, 1977.
+The study together with specific legislative recommendations shall be submitted to thePresident and the Congress no later than eighteen months after August 3, 1977: <i>Provided</i>, That, with respect to surface or open pit mining for sand and gravel the study shall be submitted no later than twelve months after August 3, 1977: <i>Provided further</i>, That with respect to mining for oil shale and tar sands that a preliminary report shall be submitted no later than twelve months after August 3, 1977.
 
 #### (c) Authorization of appropriations
 

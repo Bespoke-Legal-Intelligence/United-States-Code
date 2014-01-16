@@ -6,7 +6,7 @@ Whenever in any investigation under the provisions of this subchapter, or in any
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–410 substituted “livestock” for “live stock” wherever appearing.
+<b>1976</b>—Pub. L. 94–410 substituted "livestock" for "live stock" wherever appearing.
 
-<b>1958</b>—Pub. L. 85–909 substituted “stockyard owner, market agency, or dealer” for “stockyard owner or market agency” wherever occurring, and “stockyard owners, market agencies, or dealers” for “stockyard owners or market agencies”.
+<b>1958</b>—Pub. L. 85–909 substituted "stockyard owner, market agency, or dealer" for "stockyard owner or market agency" wherever occurring, and "stockyard owners, market agencies, or dealers" for "stockyard owners or market agencies".
 

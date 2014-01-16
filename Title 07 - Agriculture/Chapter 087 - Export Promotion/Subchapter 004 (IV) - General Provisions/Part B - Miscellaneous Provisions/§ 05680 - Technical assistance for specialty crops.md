@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture shall establish an export assistance program (referred to in this section as the “program”) to address unique barriers that prohibit or threaten the export of United States specialty crops.
+The Secretary of Agriculture shall establish an export assistance program (referred to in this section as the "program") to address unique barriers that prohibit or threaten the export of United States specialty crops.
 
 #### (b) Purpose
 
@@ -52,7 +52,7 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (d), (e). Pub. L. 110–246 added subsecs. (d) and (e) and struck out former subsec. (d). Prior to amendment, text read as follows: “For each of fiscal years 2002 through 2007, the Secretary shall make available $2,000,000 of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation.”
+<b>2008</b>—Subsecs. (d), (e). Pub. L. 110–246 added subsecs. (d) and (e) and struck out former subsec. (d). Prior to amendment, text read as follows: "For each of fiscal years 2002 through 2007, the Secretary shall make available $2,000,000 of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation."
 
 #### Effective Date of 2008 Amendment
 

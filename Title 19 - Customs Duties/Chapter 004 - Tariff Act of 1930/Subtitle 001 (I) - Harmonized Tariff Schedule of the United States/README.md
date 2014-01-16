@@ -10,23 +10,23 @@ United States Tariff Commission renamed United States International Trade Commis
 
 #### Enactment of Harmonized Tariff Schedule
 
-Pub. L. 100–418, title I, §1204(a), Aug. 23, 1988, 102 Stat. 1148, provided that: “The Tariff Act of 1930 \[this chapter\] is amended by striking out title I and inserting a new title I entitled ‘Title I—Harmonized Tariff Schedule of the United States’ (hereinafter in this subtitle \[subtitle B, §§1201 to 1217, of title I, see Tables for classification\] referred to as the ‘Harmonized Tariff Schedule’) which—
+Pub. L. 100–418, title I, §1204(a), Aug. 23, 1988, 102 Stat. 1148, provided that: "The Tariff Act of 1930 \[this chapter\] is amended by striking out title I and inserting a new title I entitled 'Title I—Harmonized Tariff Schedule of the United States' (hereinafter in this subtitle \[subtitle B, §§1201 to 1217, of title I, see Tables for classification\] referred to as the 'Harmonized Tariff Schedule') which—
 
-&emsp;“(1) consists of—
+&emsp;"(1) consists of—
 
-&emsp;&emsp;“(A) the General Notes;
+&emsp;&emsp;"(A) the General Notes;
 
-&emsp;&emsp;“(B) the General Rules of Interpretation;
+&emsp;&emsp;"(B) the General Rules of Interpretation;
 
-&emsp;&emsp;“(C) the Additional U.S. Rules of Interpretation;
+&emsp;&emsp;"(C) the Additional U.S. Rules of Interpretation;
 
-&emsp;&emsp;“(D) sections I to XXII, inclusive (encompassing chapters 1 to 99, and including all section and chapter notes, article provisions, and tariff and other treatment accorded thereto); and
+&emsp;&emsp;"(D) sections I to XXII, inclusive (encompassing chapters 1 to 99, and including all section and chapter notes, article provisions, and tariff and other treatment accorded thereto); and
 
-&emsp;&emsp;“(E) the Chemical Appendix to the Harmonized Tariff Schedule;
+&emsp;&emsp;"(E) the Chemical Appendix to the Harmonized Tariff Schedule;
 
-> &emsp;all conforming to the nomenclature of the Convention and as set forth in Publication No. 2030 of the Commission entitled ‘Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes’ and Supplement No. 1 thereto; but
+> &emsp;all conforming to the nomenclature of the Convention and as set forth in Publication No. 2030 of the Commission entitled 'Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes' and Supplement No. 1 thereto; but
 
-&emsp;“(2) does not include the statistical annotations, notes, annexes, suffixes, check digits, units of quantity, and other matters formulated under section 484(e) of the Tariff Act of 1930 (19 U.S.C. 1484(e)), nor the table of contents, footnotes, index, and other matters inserted for ease of reference, that are included in such Publication No. 2030 or Supplement No. 1. thereto.”
+&emsp;"(2) does not include the statistical annotations, notes, annexes, suffixes, check digits, units of quantity, and other matters formulated under section 484(e) of the Tariff Act of 1930 (19 U.S.C. 1484(e)), nor the table of contents, footnotes, index, and other matters inserted for ease of reference, that are included in such Publication No. 2030 or Supplement No. 1. thereto."
 
 \[For effective date of Harmonized Tariff Schedule as Jan. 1, 1989, see section 1217(b) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.\]
 

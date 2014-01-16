@@ -34,5 +34,5 @@ June 29, 1936, ch. 858, title XI, §1103(d), (e) (1st sentence), as added June 2
 
 <b>2008</b>—Pub. L. 110–181 repealed Pub. L. 109–163, §3507(a)(1)(C). See 2006 Amendment note below.
 
-<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(C), which directed the amendment of section 1273(e) of the former Appendix to this title from which this section was derived in part by striking “Secretary” each place it appears and inserting “Secretary or Administrator”, was repealed by Pub. L. 110–181. See Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(C), which directed the amendment of section 1273(e) of the former Appendix to this title from which this section was derived in part by striking "Secretary" each place it appears and inserting "Secretary or Administrator", was repealed by Pub. L. 110–181. See Historical and Revision notes above.
 

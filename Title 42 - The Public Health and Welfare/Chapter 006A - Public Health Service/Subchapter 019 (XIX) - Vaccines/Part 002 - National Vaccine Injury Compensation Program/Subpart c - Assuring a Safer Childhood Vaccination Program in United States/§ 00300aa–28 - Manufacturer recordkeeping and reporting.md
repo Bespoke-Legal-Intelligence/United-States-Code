@@ -14,7 +14,7 @@ Each vaccine manufacturer of a vaccine set forth in the Vaccine Injury Table or 
 
 #### (b) Sanction
 
-Any vaccine manufacturer who intentionally destroys, alters, falsifies, or conceals any record or report required under paragraph (1) or (2) of subsection (a) of this section shall—
+Any vaccine manufacturer who intentionally destroys, alters, falsifies, or conceals any recordor report required under paragraph (1) or (2) of subsection (a) of this section shall—
 
 &emsp;(1) be subject to a civil penalty of up to $100,000 per occurrence, or
 
@@ -26,9 +26,9 @@ Any vaccine manufacturer who intentionally destroys, alters, falsifies, or conce
 
 #### Codification
 
-In subsec. (a), “December 22, 1987” substituted for “the effective date of this subpart” on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
+In subsec. (a), "December 22, 1987" substituted for "the effective date of this subpart" on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted "effective date of this subpart" for "effective date of this part".
 

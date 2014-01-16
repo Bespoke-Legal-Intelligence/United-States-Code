@@ -20,6 +20,6 @@
 - [&sect; 01721a - Adjustments and refunds](%C2%A7%2001721a%20-%20Adjustments%20and%20refunds.md)
 - [&sect; 01722 - Injunction and specific enforcement authority](%C2%A7%2001722%20-%20Injunction%20and%20specific%20enforcement%20authority.md)
 - [&sect; 01723 - Rewards](%C2%A7%2001723%20-%20Rewards.md)
-- [&sect; 01724 - Secretarial and delegated States&#8217; actions and limitation periods](%C2%A7%2001724%20-%20Secretarial%20and%20delegated%20States%E2%80%99%20actions%20and%20limitation%20periods.md)
+- [&sect; 01724 - Secretarial and delegated States' actions and limitation periods](%C2%A7%2001724%20-%20Secretarial%20and%20delegated%20States%27%20actions%20and%20limitation%20periods.md)
 - [&sect; 01725 - Assessments](%C2%A7%2001725%20-%20Assessments.md)
 - [&sect; 01726 - Alternatives for marginal properties](%C2%A7%2001726%20-%20Alternatives%20for%20marginal%20properties.md)

@@ -48,7 +48,7 @@ The privilege established under subsection (d) shall apply to communications rel
 
 <b>2010</b>—Subsecs. (d), (e). Pub. L. 111–148 added subsecs. (d) and (e).
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 #### Effective Date of 1989 Amendment
 

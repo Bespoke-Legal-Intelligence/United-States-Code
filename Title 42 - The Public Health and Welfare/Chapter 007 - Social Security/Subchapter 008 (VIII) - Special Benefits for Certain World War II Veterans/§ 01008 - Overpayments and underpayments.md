@@ -14,7 +14,7 @@ Whenever the Commissioner of Social Security finds that more or less than the co
 
 #### (b) Waiver of recovery of overpayment
 
-In any case in which more than the correct amount of payment has been made, there shallbe no adjustment of payments to, or recovery by the United States from, any person who is without fault if the Commissioner of Social Security determines that the adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience.
+In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if the Commissioner of Social Security determines that the adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience.
 
 #### (c) Limited immunity for disbursing officers
 
@@ -28,7 +28,7 @@ A disbursing officer may not be held liable for any amount paid by the officer i
 
 #### (2) Definition
 
-&emsp;For purposes of paragraph (1), the term “delinquent amount” means an amount—
+&emsp;For purposes of paragraph (1), the term "delinquent amount" means an amount—
 
 &emsp;&emsp;(A) in excess of the correct amount of the payment under this subchapter; and
 
@@ -46,13 +46,13 @@ For prior provisions, see note set out under section 1001 of this title.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–203, §210(b)(2)(A), substituted “any payment” for “any payment—”, struck out “(A)” before “under this subchapter”, substituted “section 3720A of title 31.” for “section 3720A of title 31; or”, and struck out subpar. (B) which read as follows: “under subchapter II of this chapter to recover the amount in excess of the correct amount, if the person is not currently eligible for payment under this subchapter.”
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–203, §210(b)(2)(A), substituted "any payment" for "any payment—", struck out "(A)" before "under this subchapter", substituted "section 3720A of title 31." for "section 3720A of title 31; or", and struck out subpar. (B) which read as follows: "under subchapter II of this chapter to recover the amount in excess of the correct amount, if the person is not currently eligible for payment under this subchapter."
 
-Subsec. (b) to (d). Pub. L. 108–203, §210(b)(2)(B), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out heading and text of subsec. (b). Text read as follows: “In any case in which the Commissioner of Social Security takes action in accordance with subsection (a)(1)(B) of this section to recover an amount incorrectly paid to an individual, that individual shall not, as a result of such action—
+Subsec. (b) to (d). Pub. L. 108–203, §210(b)(2)(B), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out heading and text of subsec. (b). Text read as follows: "In any case in which the Commissioner of Social Security takes action in accordance with subsection (a)(1)(B) of this section to recover an amount incorrectly paid to an individual, that individual shall not, as a result of such action—
 
-&emsp;“(1) become qualified for benefits under this subchapter; or
+&emsp;"(1) become qualified for benefits under this subchapter; or
 
-&emsp;“(2) if such individual is otherwise so qualified, become qualified for increased benefits under this subchapter.”
+&emsp;"(2) if such individual is otherwise so qualified, become qualified for increased benefits under this subchapter."
 
 Subsec. (e). Pub. L. 108–203, §210(b)(2)(B), (C), added subsec. (e) and redesignated former subsec. (e) as (d).
 

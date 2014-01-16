@@ -44,7 +44,7 @@ July 12, 1976, Pub. L. 94–353, §21, 90 Stat. 884.
 
 Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
 
-The words “and foster” in 49 App.:1346 are omitted as surplus. The words “In carrying out this section” are substituted for “In furtherance of his mandate to promote civil aviation” in 49 App.:1346a because of the restatement. The word “Administrator” is substituted for “Secretary of Transportation acting through the Administrator of the Federal Aviation Administration” for consistency with the source provisions restated in this section. The words “be designed so as to”, “various aspects of”, and “civil and” are omitted as surplus.
+The words "and foster" in 49 App.:1346 are omitted as surplus. The words "In carrying out this section" are substituted for "In furtherance of his mandate to promote civil aviation" in 49 App.:1346a because of the restatement. The word "Administrator" is substituted for "Secretary of Transportation acting through the Administrator of the Federal Aviation Administration" for consistency with the source provisions restated in this section. The words "be designed so as to", "various aspects of", and "civil and" are omitted as surplus.
 
 #### Pub. L. 103–429, §6(47)(A), (B)
 
@@ -68,23 +68,23 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1) (words after last comma), 80 Stat. 93
 
 #### References in Text
 
-Section 47176, referred to in subsec. (c), probably should be a reference to section 47175 of this title, which defines “congested airport” and “airport capacity enhancement project”. No section 47176 of this title has been enacted.
+Section 47176, referred to in subsec. (c), probably should be a reference to section 47175 of this title, which defines "congested airport" and "airport capacity enhancement project". No section 47176 of this title has been enacted.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–176, §813, amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Transportation may develop and construct a civil supersonic aircraft.”
+<b>2003</b>—Subsec. (b). Pub. L. 108–176, §813, amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "The Secretary of Transportation may develop and construct a civil supersonic aircraft."
 
 Subsec. (c). Pub. L. 108–176, §303, added subsec. (c).
 
-<b>1996</b>—Pub. L. 104–264, §401(b)(1)(A), inserted “safety of” before “air commerce” in section catchline.
+<b>1996</b>—Pub. L. 104–264, §401(b)(1)(A), inserted "safety of" before "air commerce" in section catchline.
 
-Subsec. (a). Pub. L. 104–264, §401(b)(1)(B), (C), inserted “
+Subsec. (a). Pub. L. 104–264, §401(b)(1)(B), (C), inserted "
 
-Safety of” before “
+Safety of" before "
 
-Air Commerce” in heading and “safety of” before “air commerce” in text.
+Air Commerce" in heading and "safety of" before "air commerce" in text.
 
-<b>1994</b>—Pub. L. 103–429 designated existing provisions as subsec. (a), inserted heading, substituted “carrying out this subsection” for “carrying out this section”, and added subsec. (b).
+<b>1994</b>—Pub. L. 103–429 designated existing provisions as subsec. (a), inserted heading, substituted "carrying out this subsection" for "carrying out this section", and added subsec. (b).
 
 #### Effective Date of 2003 Amendment
 

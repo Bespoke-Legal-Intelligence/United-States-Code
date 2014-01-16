@@ -28,7 +28,7 @@ Congress finds the following:
 
 &emsp;(4) According to the Bureau of Justice Statistics, expenditures on corrections alone increased from $9,000,000,000 in 1982, to $59,600,000,000 in 2002. These figures do not include the cost of arrest and prosecution, nor do they take into account the cost to victims.
 
-&emsp;(5) The Serious and Violent Offender Reentry Initiative (SVORI) provided $139,000,000 in funding for State governments to develop and implement education, job training, mental health treatment, and substance abuse treatment for serious and violent offenders. This Act seeks to build upon the innovative and successful State reentry programs developed under the SVORI, which terminated after fiscal year 2005.
+&emsp;(5) The Serious and Violent Offender Reentry Initiative (SVORI) provided $139,000,000 in funding for State governments to develop and implement education, job training, mental health treatment, and substance abuse treatment for serious and violent offenders. ThisAct seeks to build upon the innovative and successful State reentry programs developed under the SVORI, which terminated after fiscal year 2005.
 
 &emsp;(6) Between 1991 and 1999, the number of children with a parent in a Federal or State correctional facility increased by more than 100 percent, from approximately 900,000 to approximately 2,000,000. According to the Bureau of Prisons, there is evidence to suggest that inmates who are connected to their children and families are more likely to avoid negative incidents and have reduced sentences.
 
@@ -38,7 +38,7 @@ Congress finds the following:
 
 &emsp;(9) Studies have shown that between 15 percent and 27 percent of prisoners expect to go to homeless shelters upon release from prison.
 
-&emsp;(10) Fifty-seven percent of Federal and 70 percent of State inmates used drugs regularly before going to prison, and the Bureau of Justice statistics report titled “Trends in State Parole, 1990–2000” estimates the use of drugs or alcohol around the time of the offense that resulted in the incarceration of the inmate at as high as 84 percent.
+&emsp;(10) Fifty-seven percent of Federal and 70 percent of State inmates used drugs regularly before going to prison, and the Bureau of Justice statistics report titled "Trends in State Parole, 1990–2000" estimates the use of drugs or alcohol around the time of the offense that resulted in the incarceration of the inmate at as high as 84 percent.
 
 &emsp;(11) Family-based treatment programs have proven results for serving the special populations of female offenders and substance abusers with children. An evaluation by the Substance Abuse and Mental Health Services Administration of family-based treatment for substance-abusing mothers and children found that 6 months after such treatment, 60 percent of the mothers remained alcohol and drug free, and drug-related offenses declined from 28 percent to 7 percent. Additionally, a 2003 evaluation of residential family-based treatment programs revealed that 60 percent of mothers remained clean and sober 6 months after treatment, criminal arrests declined by 43 percent, and 88 percent of the children treated in the program with their mothers remained stabilized.
 
@@ -66,5 +66,5 @@ The Act and this Act, referred to in subsecs. (a) and (b)(5), are Pub. L. 110–
 
 #### Short Title
 
-Pub. L. 110–199, §1, Apr. 9, 2008, 122 Stat. 657, provided that: “This Act \[enacting this chapter and sections 3797q to 3797q–6, 3797s to 3797s–6, 3797w–2, 3797dd, and 3797dd–1 of this title, amending sections 3793, 3796ff–1, 3796ff–3, 3797u–2, 3797w, 13702, 13708, and 15606 of this title and sections 3621, 3624, 3672, and 4042 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 3797u–1 and 3797u–2 of this title\] may be cited as the ‘Second Chance Act of 2007: Community Safety Through Recidivism Prevention’ or the ‘Second Chance Act of 2007’.”
+Pub. L. 110–199, §1, Apr. 9, 2008, 122 Stat. 657, provided that: "This Act \[enacting this chapter and sections 3797q to 3797q–6, 3797s to 3797s–6, 3797w–2, 3797dd, and 3797dd–1 of this title, amending sections 3793, 3796ff–1, 3796ff–3, 3797u–2, 3797w, 13702, 13708, and 15606 of this title and sections 3621, 3624, 3672, and 4042 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 3797u–1 and 3797u–2 of this title\] may be cited as the 'Second Chance Act of 2007: Community Safety Through Recidivism Prevention' or the 'Second Chance Act of 2007'."
 

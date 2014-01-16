@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Sept. 23, 1996, Pub. L. 104–201, title XVIII, §1809, 110 Stat. 2762.
 
-The words “officers and agents” are substituted for “officers, directors, employees, and agents” for consistency in the revised title and to eliminate unnecessary words.
+The words "officers and agents" are substituted for "officers, directors, employees, and agents" for consistency in the revised title and to eliminate unnecessary words.
 

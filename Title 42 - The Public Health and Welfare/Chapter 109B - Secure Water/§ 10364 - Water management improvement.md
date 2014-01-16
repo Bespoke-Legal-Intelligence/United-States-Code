@@ -38,7 +38,7 @@
 
 #### (A) Compliance with requirements
 
-&emsp;&emsp;Each grant and agreement entered into by the Secretary with any eligible applicant under paragraph (1) shall be in compliancewith each requirement described in subparagraphs (B) through (F).
+&emsp;&emsp;Each grant and agreement entered into by the Secretary with any eligible applicant under paragraph (1) shall be in compliance with each requirement described in subparagraphs (B) through (F).
 
 #### (B) Agricultural operations
 
@@ -82,11 +82,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided under chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”), the United States shall not be liable for monetary damages of any kind for any injury arising out of an act, omission, or occurrence that arises in relation to any facility created or improved under this section, the title of which is not held by the United States.
+&emsp;&emsp;&emsp;Except as provided under chapter 171 of title 28 (commonly known as the "Federal Tort Claims Act"), the United States shall not be liable for monetary damages of any kind for any injury arising out of an act, omission, or occurrence that arises in relation to any facility created or improved under this section, the title of which is not held by the United States.
 
 #### (ii) Tort Claims Act
 
-&emsp;&emsp;&emsp;Nothing in this section increases the liability of the United States beyond that provided in chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”).
+&emsp;&emsp;&emsp;Nothing in this section increases the liability of the United States beyond that provided in chapter 171 of title 28 (commonly known as the "Federal Tort Claims Act").
 
 #### (b) Research agreements
 
@@ -126,5 +126,5 @@ There is authorized to be appropriated to carry out this section $200,000,000, t
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For completeclassification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 

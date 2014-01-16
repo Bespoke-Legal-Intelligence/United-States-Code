@@ -64,7 +64,7 @@
 
 #### (4) Advisory groups
 
-&emsp;The Board shall convene, or authorize its staff to convene, such expert advisory groups as may be appropriate, which may include practicing accountants and other experts, as well as representatives of other interested groups, subject to such rules as the Board may prescribe to prevent conflicts of interest, to make recommendations concerning the content (including proposed drafts) of auditing, quality control, ethics, independence, or other standards required to be established under this section.
+&emsp;The Board shall convene, or authorize its staff to convene, such expert advisory groups as may be appropriate, which may include practicing accountants and other experts, as well as representatives of other interested groups, subject to such rules as the Board may prescribe to prevent conflicts of interest, to make recommendations concerning the content (including proposed drafts) of auditing, quality control, ethics, independence, or otherstandards required to be established under this section.
 
 #### (b) Independence standards and rules
 
@@ -96,11 +96,11 @@ Title II of this Act, referred to in subsec. (b), is title II of Pub. L. 107–2
 
 <b>2012</b>—Subsec. (a)(3)(C). Pub. L. 112–106 added subpar. (C).
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §982(d)(1), substituted “such ethics standards, and such independence standards” for “and such ethics standards”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §982(d)(1), substituted "such ethics standards, and such independence standards" for "and such ethics standards".
 
-Subsec. (a)(2)(A)(iii). Pub. L. 111–203, §982(d)(2), substituted “in each audit report for an issuer, describe” for “describe in each audit report” in introductory provisions.
+Subsec. (a)(2)(A)(iii). Pub. L. 111–203, §982(d)(2), substituted "in each audit report for an issuer, describe" for "describe in each audit report" in introductory provisions.
 
-Subsec. (a)(2)(B)(i). Pub. L. 111–203, §982(d)(3), substituted “issuers, brokers, and dealers” for “issuers”.
+Subsec. (a)(2)(B)(i). Pub. L. 111–203, §982(d)(3), substituted "issuers, brokers, and dealers" for "issuers".
 
 #### Effective Date of 2010 Amendment
 

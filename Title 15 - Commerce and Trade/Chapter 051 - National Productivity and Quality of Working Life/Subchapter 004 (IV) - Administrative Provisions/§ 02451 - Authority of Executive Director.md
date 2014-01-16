@@ -10,7 +10,7 @@ The Executive Director is authorized to—
 
 &emsp;(4) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter in accordance with the provisions of title 5, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates;
 
-&emsp;(5) obtain the services of experts and consultants in accordance with the provisions of section 3109 of title 5, at rates for individualsnot to exceed the maximum daily rate prescribed for GS–18 under section 5332 of title 5;
+&emsp;(5) obtain the services of experts and consultants in accordance with the provisions of section 3109 of title 5, at rates for individuals not to exceed the maximum daily rate prescribed for GS–18 under section 5332 of title 5;
 
 &emsp;(6) accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem as authorized by section 5703 of title 5;
 
@@ -24,7 +24,7 @@ The Executive Director is authorized to—
 
 #### Codification
 
-In par. (9), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (21 \[31\] U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In par. (9), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes, as amended (21 \[31\] U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

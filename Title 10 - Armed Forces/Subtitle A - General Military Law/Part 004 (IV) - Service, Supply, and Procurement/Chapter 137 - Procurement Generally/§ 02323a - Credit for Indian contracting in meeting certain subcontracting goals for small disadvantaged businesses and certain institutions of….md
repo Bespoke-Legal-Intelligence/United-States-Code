@@ -6,7 +6,7 @@ Regulations.—Subject to subsections (b) and (c), in any case in which a subcon
 
 &emsp;(1) work performed in connection with that Department of Defense contract, and work performed in connection with any subcontract awarded under that Department of Defense contract, if such work is performed on any Indian lands and meets the requirements of paragraph (1) of subsection (b); or
 
-&emsp;(2) work performed in connection with that Department of Defense contract, and workperformed in connection with any subcontract awarded under that Department of Defense contract, if the performance of such contract or subcontract is undertaken as a joint venture that meets the requirements of paragraph (2) of that subsection.
+&emsp;(2) work performed in connection with that Department of Defense contract, and work performed in connection with any subcontract awarded under that Department of Defense contract, if the performance of such contract or subcontract is undertaken as a joint venture that meets the requirements of paragraph (2) of that subsection.
 
 (b)
 
@@ -40,21 +40,21 @@ Regulations.—The Secretary of Defense shall prescribe regulations for the impl
 
 Definitions.—In this section:
 
-&emsp;(1) The term “Indian lands” has the meaning given that term by section 4(4) of the Indian Gaming Regulatory Act (102 Stat. 2468; 25 U.S.C. 2703(4)).
+&emsp;(1) The term "Indian lands" has the meaning given that term by section 4(4) of the Indian Gaming Regulatory Act (102 Stat. 2468; 25 U.S.C. 2703(4)).
 
-&emsp;(2) The term “Indian” has the meaning given that term by section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(d)).
+&emsp;(2) The term "Indian" has the meaning given that term by section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(d)).
 
-&emsp;(3) The term “Indian tribe” has the meaning given that term by section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
+&emsp;(3) The term "Indian tribe" has the meaning given that term by section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
 
-&emsp;(4) The term “tribally owned corporation” means a corporation owned entirely by an Indian tribe.
+&emsp;(4) The term "tribally owned corporation" means a corporation owned entirely by an Indian tribe.
 
 (Added Pub. L. 102–484, div. A, title VIII, §801(g)(1), Oct. 23, 1992, 106 Stat. 2445; amended Pub. L. 104–201, div. A, title X, §1074(a)(13), Sept. 23, 1996, 110 Stat. 2659.)
 
 #### Codification
 
-Section, as added by Pub. L. 102–484, consists of text of Pub. L. 101–189, div. A, title VIII, §832, Nov. 29, 1989, 103 Stat. 1508, revised by Pub. L. 102–484 by substituting “section 2323 of this title” for “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)” in subsec. (a). Section 832 of Pub. L. 101–189, which was formerly set out as a note under section 2301 of this title, was repealed by Pub. L. 102–484, div. A, title VIII, §801(h)(5), Oct. 23, 1992, 106 Stat. 2445.
+Section, as added by Pub. L. 102–484, consists of text of Pub. L. 101–189, div. A, title VIII, §832, Nov. 29, 1989, 103 Stat. 1508, revised by Pub. L. 102–484 by substituting "section 2323 of this title" for "section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)" in subsec. (a). Section 832 of Pub. L. 101–189, which was formerly set out as a note under section 2301 of this title, was repealed by Pub. L. 102–484, div. A, title VIII, §801(h)(5), Oct. 23, 1992, 106 Stat. 2445.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201, which directed amendment of subsec. (a) by substituting “section 2323 of this title” for “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)”, could not be executed because the language “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)” did not appear. See Codification note above.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, which directed amendment of subsec. (a) by substituting "section 2323 of this title" for "section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)", could not be executed because the language "section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)" did not appear. See Codification note above.
 

@@ -4,15 +4,15 @@ For purposes of this subchapter—
 
 &emsp;(1) The terms defined in section 2510 of title 18 have, respectively, the meanings stated in that section.
 
-&emsp;(2) The term “call-identifying information” means dialing or signaling information that identifies the origin, direction, destination, or termination of each communication generated or received by a subscriber by means of any equipment, facility, or service of a telecommunications carrier.
+&emsp;(2) The term "call-identifying information" means dialing or signaling information that identifies the origin, direction, destination, or termination of each communication generated or received by a subscriber by means of any equipment, facility, or service of a telecommunications carrier.
 
-&emsp;(3) The term “Commission” means the Federal Communications Commission.
+&emsp;(3) The term "Commission" means the Federal Communications Commission.
 
-&emsp;(4) The term “electronic messaging services” means software-based services that enable the sharing of data, images, sound, writing, or other information among computing devices controlled by the senders or recipients of the messages.
+&emsp;(4) The term "electronic messaging services" means software-based services that enable the sharing of data, images, sound, writing, or other information among computing devices controlled by the senders or recipients of the messages.
 
-&emsp;(5) The term “government” means the government of the United States and any agency or instrumentality thereof, the District of Columbia, any commonwealth, territory, or possession of the United States, and any State or political subdivision thereof authorized by law to conduct electronic surveillance.
+&emsp;(5) The term "government" means the government of the United States and any agency or instrumentality thereof, the District of Columbia, any commonwealth, territory, or possession of the United States, and any State or political subdivision thereof authorized by law to conduct electronic surveillance.
 
-&emsp;(6) The term “information services”—
+&emsp;(6) The term "information services"—
 
 &emsp;&emsp;(A) means the offering of a capability for generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information via telecommunications; and
 
@@ -26,9 +26,9 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(C) does not include any capability for a telecommunications carrier's internal management, control, or operation of its telecommunications network.
 
-&emsp;(7) The term “telecommunications support services” means a product, software, or service used by a telecommunications carrier for the internal signaling or switching functions of its telecommunications network.
+&emsp;(7) The term "telecommunications support services" means a product, software, or service used by a telecommunications carrier for the internal signaling or switching functions of its telecommunications network.
 
-&emsp;(8) The term “telecommunications carrier”—
+&emsp;(8) The term "telecommunications carrier"—
 
 &emsp;&emsp;(A) means a person or entity engaged in the transmission or switching of wire or electronic communications as a common carrier for hire; and
 
@@ -50,15 +50,15 @@ For purposes of this subchapter—
 
 Pub. L. 103–414, title I, §111, Oct. 25, 1994, 108 Stat. 4288, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as provided in subsection (b), this title \[enacting this subchapter and provisions set out below\] shall take effect on the date of enactment of this Act \[Oct. 25, 1994\].
 
-“(b)
+"(b)
 
-Assistance Capability and Systems Security and Integrity Requirements.—Sections 103 and 105 of this title \[enacting sections 1002 and 1004 of this title\] shall take effect on the date that is 4 years after the date of enactment of this Act.”
+Assistance Capability and Systems Security and Integrity Requirements.—Sections 103 and 105 of this title \[enacting sections 1002 and 1004 of this title\] shall take effect on the date that is 4 years after the date of enactment of this Act."
 
 #### Short Title
 
-Pub. L. 103–414, title I, §101, Oct. 25, 1994, 108 Stat. 4279, provided that: “This title \[enacting this subchapter and provisions set out as a note above\] may be cited as the ‘Communications Assistance for Law Enforcement Act’.”
+Pub. L. 103–414, title I, §101, Oct. 25, 1994, 108 Stat. 4279, provided that: "This title \[enacting this subchapter and provisions set out as a note above\] may be cited as the 'Communications Assistance for Law Enforcement Act'."
 

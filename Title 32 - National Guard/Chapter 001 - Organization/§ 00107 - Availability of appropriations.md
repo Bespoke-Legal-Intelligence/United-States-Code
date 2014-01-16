@@ -52,13 +52,13 @@ Act
 
 June 3, 1916, ch. 134, §67 (2d par.), 39 Stat. 199; Sept. 22, 1922, ch. 423, §3, 42 Stat. 1034; Apr. 6, 1928, ch. 321, 45 Stat. 406.
 
-In subsection (a), the words “strengths in enlisted members of the active” are substituted for the words “number of enlisted men in active service”. The words between the eighth and ninth semicolons of 32:22, relating to horses and draft animals, are omitted as obsolete, since no animals are now authorized for the National Guard. The words “under section 106 of this title” are inserted, since only appropriations under that revised section are required to be apportioned.
+In subsection (a), the words "strengths in enlisted members of the active" are substituted for the words "number of enlisted men in active service". The words between the eighth and ninth semicolons of 32:22, relating to horses and draft animals, are omitted as obsolete, since no animals are now authorized for the National Guard. The words "under section 106 of this title" are inserted, since only appropriations under that revised section are required to be apportioned.
 
-In subsection (b)(1) and (2), the words “actual and” are omitted as surplusage.
+In subsection (b)(1) and (2), the words "actual and" are omitted as surplusage.
 
-In subsection (b)(2), the words “Reserve Officers holding commission in the National Guard” are omitted as covered by the words “officers of a \* \* \* reserve component of the Army or the Air Force”. The words “Army General Staff” are substituted for the words “War Department General Staff” to conform to section 3031(b) of title 10.
+In subsection (b)(2), the words "Reserve Officers holding commission in the National Guard" are omitted as covered by the words "officers of a \* \* \* reserve component of the Army or the Air Force". The words "Army General Staff" are substituted for the words "War Department General Staff" to conform to section 3031(b) of title 10.
 
-In subsection (c), the words “under sections 251 and 252 of title 37” are substituted for the words “provided in section 19 of title 37”, since allowances for subsistence and quarters are now covered by those sections. The words “shall be paid from appropriations for the National Guard, but not from the allotment of a State or Territory, Puerto Rico, the Canal Zone, or the District of Columbia” are substituted for the words “shall constitute a charge against the whole sum annually appropriated for the support of the National Guard, and shall be paid therefrom and not from the allotment duly apportioned for any particular State, Territory, or the District of Columbia”.
+In subsection (c), the words "under sections 251 and 252 of title 37" are substituted for the words "provided in section 19 of title 37", since allowances for subsistence and quarters are now covered by those sections. The words "shall be paid from appropriations for the National Guard, but not from the allotment of a State or Territory, Puerto Rico, the Canal Zone, or the District of Columbia" are substituted for the words "shall constitute a charge against the whole sum annually appropriated for the support of the National Guard, and shall be paid therefrom and not from the allotment duly apportioned for any particular State, Territory, or the District of Columbia".
 
 1982
 
@@ -76,33 +76,33 @@ Act
 
 Aug. 10, 1956, ch. 1041, §30, 70A Stat. 632.
 
-The work “appropriations” is substituted for “funds appropriated” for consistency in the title.
+The work "appropriations" is substituted for "funds appropriated" for consistency in the title.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted "State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands" for "State or Territory, Puerto Rico, or the District of Columbia".
 
-<b>2003</b>—Subsec. (a)(2). Pub. L. 108–136 substituted “members” for “officers”, “Army Staff” for “Army General Staff”, and “the Enlisted Association of the National Guard of the United States, the National Guard Association of the United States,” for “the National Guard Association of the United States”.
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–136 substituted "members" for "officers", "Army Staff" for "Army General Staff", and "the Enlisted Association of the National Guard of the United States, the National Guard Association of the United States," for "the National Guard Association of the United States".
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted “and housing” for “and quarters”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted "and housing" for "and quarters".
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted “12402” for “3496 or 8496”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted "12402" for "3496 or 8496".
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–258 added subsec. (c).
 
-<b>1971</b>—Pub. L. 92–119, §1(a)(1), substituted “Availability” for “Apportionment” in section catchline.
+<b>1971</b>—Pub. L. 92–119, §1(a)(1), substituted "Availability" for "Apportionment" in section catchline.
 
-Subsec. (a). Pub. L. 92–119, §1(a)(2), (3), (4), redesignated subsec. (b) as (a) and substituted “appropriation for the National Guard” for “apportioned appropriation”. Former subsec. (a), which provided for apportionment of appropriations for Army National Guard and Air National Guard under prescribed formulas among States, territories, Puerto Rico, Canal Zone, District of Columbia, was struck out.
+Subsec. (a). Pub. L. 92–119, §1(a)(2), (3), (4), redesignated subsec. (b) as (a) and substituted "appropriation for the National Guard" for "apportioned appropriation". Former subsec. (a), which provided for apportionment of appropriations for Army National Guard and Air National Guard under prescribed formulas among States, territories, Puerto Rico, Canal Zone, District of Columbia, was struck out.
 
 Subsecs. (b), (c). Pub. L. 92–119, §1(a)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a) and amended.
 
-<b>1967</b>—Subsec. (c). Pub. L. 90–83 substituted “402 and 403” for “251 and 252”.
+<b>1967</b>—Subsec. (c). Pub. L. 90–83 substituted "402 and 403" for "251 and 252".
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title V, §514(b), Nov. 24, 2003, 117 Stat. 1460, provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply with respect to funds appropriated for a fiscal year before fiscal year 2004.”
+Pub. L. 108–136, div. A, title V, §514(b), Nov. 24, 2003, 117 Stat. 1460, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply with respect to funds appropriated for a fiscal year before fiscal year 2004."
 
 #### Effective Date of 1997 Amendment
 
@@ -112,55 +112,165 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
+#### Authorization of National Guard State Partnership Program
+
+Pub. L. 113–66, div. A, title XII, §1205, Dec. 26, 2013, 127 Stat. 897, provided that:
+
+"(a)
+
+Authority.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to establish a program of exchanges of members of the National Guard of a State or territory and the military forces, or security forces or other government organizations whose primary functions include disaster response or emergency response, of a foreign country.
+
+&emsp;"(2)
+
+State partnership program.—Each program established under this subsection shall be known as a 'State Partnership Program'.
+
+"(b)
+
+Limitation.—An activity under a program established under subsection (a) that involves the security forces or other government organizations whose primary functions include disaster response or emergency response of a foreign country, or an activity that the Secretary of Defense determines is a matter within the core competencies of the National Guard of a State or territory, may be carried out only if the Secretary of Defense, with the concurrence of the Secretary of State, determines and notifies the appropriate congressional committees not less than 15 days before initiating such activity that the activity is in the national security interests of the United States.
+
+"(c)
+
+Regulations.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall prescribe regulations to carry out this section. Such regulations shall establish accounting procedures to ensure that expenditures of funds to carry out this section are accounted for and appropriate.
+
+&emsp;"(2)
+
+Notification.—Not later than 15 days after the date on which such regulations have been prescribed, the Secretary of Defense—
+
+&emsp;&emsp;"(A) shall notify the appropriate congressional committees that the regulations have been prescribed; and
+
+&emsp;&emsp;"(B) shall provide to the appropriate congressional committees a copy of the regulations.
+
+"(d)
+
+Availability of Authorized Funds for Program.—
+
+&emsp;"(1)
+
+In general.—Funds authorized to be appropriated to the Department of Defense, including funds authorized to be appropriated for the Army National Guard and Air National Guard, are authorized to be available—
+
+&emsp;&emsp;"(A) for payment of costs incurred by the National Guard of a State or territory to conduct activities under a program established under subsection (a); and
+
+&emsp;&emsp;"(B) for payment of incremental expenses of a foreign country to conduct activities under a program established under subsection (a).
+
+&emsp;"(2)
+
+Limitations.—
+
+&emsp;&emsp;"(A)
+
+Active duty requirement.—Funds shall not be available under paragraph (1) for the participation of a member of the National Guard of a State or territory in activities in a foreign country unless the member is on active duty in the Armed Forces at the time of such participation
+
+&emsp;&emsp;"(B)
+
+Incremental expenses.—The total amount of payments for incremental expenses of foreign countries as authorized under paragraph (1)(B) for activities under programs established under subsection (a) in any fiscal year may not exceed $10,000,000.
+
+"(e)
+
+Reports and Notifications.—
+
+&emsp;"(1)
+
+Review and report of existing programs.—
+
+&emsp;&emsp;"(A)
+
+Review.—The Secretary of Defense, with the concurrence of the Secretary of State, shall conduct a comprehensive review of each program under the State Partnership Program as in effect on the day before the date of the enactment of this Act \[Dec. 26, 2013\].
+
+&emsp;&emsp;"(B)
+
+Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the appropriate congressional committees a report on—
+
+&emsp;&emsp;&emsp;"(i) the findings of the review conducted under subparagraph (A); and
+
+&emsp;&emsp;&emsp;"(ii) any recommendations with respect to the review conducted under subparagraph (A).
+
+&emsp;"(2)
+
+Annual report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than January 31 of each year following a fiscal year in which activities under a program established under subsection (a) are carried out, the Secretary of Defense shall submit to the appropriate congressional committees a report on such activities under the program.
+
+&emsp;&emsp;"(B)
+
+Matters to be included.—Each report shall specify, for the fiscal year covered by such report, the following:
+
+&emsp;&emsp;&emsp;"(i) Each foreign country in which the activities were conducted.
+
+&emsp;&emsp;&emsp;"(ii) The type of activities conducted, the duration of the activities, and the number of members of the National Guard of each State or territory involved in such activities.
+
+&emsp;&emsp;&emsp;"(iii) The extent of participation in the activities by the military forces and security forces of such foreign country.
+
+&emsp;&emsp;&emsp;"(iv) A summary of expenditures to conduct the activities, including the annual cost of the activities, with a breakdown of such expenditures by geographic combatant command.
+
+&emsp;&emsp;&emsp;"(v) With respect to activities described in subsection (b), the objective of the activities, and a description of how the activities support the theater campaign plan of the commander of the geographic combatant command with responsibility for the country or countries in which the training occurred.
+
+"(f)
+
+Rule of Construction.—Nothing in this section shall be construed to supersede any authority under title 10, United States Code, as in effect on the date of the enactment of this Act \[Dec. 26, 2013\].
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+&emsp;"(2)
+
+Incremental expenses.—The term 'incremental expenses', with respect to a foreign country—
+
+&emsp;&emsp;"(A) means the reasonable and proper costs of rations, fuel, training ammunition, transportation, and other goods and services consumed by the country as a direct result of the country's participation in activities conducted under subsection (a); and
+
+&emsp;&emsp;"(B) does not include—
+
+&emsp;&emsp;&emsp;"(i) any form of lethal assistance (excluding training ammunition); or
+
+&emsp;&emsp;&emsp;"(ii) pay, allowances, and other normal costs of the personnel of the country.
+
+"(h)
+
+Repeal of Superseded Authority.—\[Repealed section 1210 of Pub. L. 111–84, formerly set out as a note below.\]
+
+"(i)
+
+Termination.—The authority granted under subsection (a) shall terminate on September 30, 2016."
+
 #### Limitation on Activities Under State Partnership Program Pending Compliance With Certain Program-Related Requirements
 
 Pub. L. 112–239, div. A, title XII, §1204, Jan. 2, 2013, 126 Stat. 1982, provided that:
 
-“(a)
+"(a)
 
 Limitation.—If both requirements specified in subsection (b) are not met as of February 28, 2013, no activities may be carried out under the State Partnership Program after that date until both requirements are met.
 
-“(b)
+"(b)
 
 Requirements.—The requirements specified in this subsection are the following:
 
-&emsp;“(1) The requirement for the Secretary of Defense to submit to the appropriate congressional committees the final regulations required by subsection (a) of section 1210 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2517; 32 U.S.C. 107 note).
+&emsp;"(1) The requirement for the Secretary of Defense to submit to the appropriate congressional committees the final regulations required by subsection (a) of \[former\] section 1210 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2517; 32 U.S.C. 107 note).
 
-&emsp;“(2) A requirement for the Secretary of Defense to certify to the appropriate congressional committees that appropriate modifications have been made, and appropriate controls have been instituted, to ensure the compliance of the Program with section 1341 of title 31, United States Code (commonly referred to as the ‘Anti-Deficiency Act’), in the future.
+&emsp;"(2) A requirement for the Secretary of Defense to certify to the appropriate congressional committees that appropriate modifications have been made, and appropriate controls have been instituted, to ensure the compliance of the Program with section 1341 of title 31, United States Code (commonly referred to as the 'Anti-Deficiency Act'), in the future.
 
-“(c)
+"(c)
 
-Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ has the meaning given that term in subsection (d) of section 1210 of the National Defense Authorization Act for Fiscal Year 2010.”
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' has the meaning given that term in subsection (d) of \[former\] section 1210 of the National Defense Authorization Act for Fiscal Year 2010."
 
 #### Availability of Appropriated Funds for the State Partnership Program
 
-Pub. L. 111–84, div. A, title XII, §1210, Oct. 28, 2009, 123 Stat. 2517, provided that:
-
-“(a)
-
-Regulations Required.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense, in consultation with \[the\] Secretary of State, shall prescribe regulations regarding the use of funds appropriated to the Department of Defense to pay the costs incurred by the National Guard in conducting activities under the State Partnership Program. The Secretary of Defense shall transmit to the appropriate congressional committees a copy of the regulations not later than 15 days after the date on which the regulations are prescribed under this subsection.
-
-“(b)
-
-Limitations.—
-
-&emsp;“(1)
-
-Approval by commander of combatant command and chief of mission.—Funds shall not be available under subsection (a) for activities conducted under the State Partnership Program in a foreign country unless such activities are jointly approved by the commander of the combatant command concerned and the chief of mission concerned.
-
-&emsp;“(2)
-
-Participation by members.—Funds shall not be available under subsection (a) for the participation of a member of the National Guard in activities conducted under the State Partnership Program in a foreign country unless the member is on active duty in the Armed Forces at the time of such participation.
-
-“(c)
-
-Report.—Not later than 90 days after the date of the enactment of this Act, and not later than the end of each of the fiscal years 2010 through 2013, the Secretary of Defense shall submit to the appropriate congressional committees a report describing the civilian engagement activities conducted under the State Partnership Program, including a detailed description of the activities undertaken and funds expended in the previous fiscal year under the State Partnership Program.
-
-“(d)
-
-Definition.—In this section, the term ‘appropriate congressional committees’ means—
-
-&emsp;“(1) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives; and
-
-&emsp;“(2) the Committee on Armed Services and the Committee on Foreign Relations of the Senate.”
+Pub. L. 111–84, div. A, title XII, §1210, Oct. 28, 2009, 123 Stat. 2517, which required the Secretary of Defense to prescribe regulations regarding appropriated funds for the State Partnership Program, submit the regulations to defense and foreign relations committees, and report to the committees, was repealed by Pub. L. 113–66, div. A, title XII, §1205(h), Dec. 26, 2013, 127 Stat. 899.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Lease Authorized.—The Secretary concerned may enter into contracts for the lease ofhousing units that the Secretary determines are suitable for use as military family housing or military unaccompanied housing.
+Lease Authorized.—The Secretary concerned may enter into contracts for the lease of housing units that the Secretary determines are suitable for use as military family housing or military unaccompanied housing.
 
 (b)
 
@@ -16,9 +16,9 @@ Lease Terms.—A contract under this section may be for any period that the Secr
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–314, §2802(b)(2), in section catchline struck out “to be constructed” after “Leasing of housing”.
+<b>2002</b>—Pub. L. 107–314, §2802(b)(2), in section catchline struck out "to be constructed" after "Leasing of housing".
 
-Subsec. (a). Pub. L. 107–314, §2802(b)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary concerned may enter into contracts for the lease of military family housing units or military unaccompanied housing units to be constructed under this subchapter.”
+Subsec. (a). Pub. L. 107–314, §2802(b)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The Secretary concerned may enter into contracts for the lease of military family housing units or military unaccompanied housing units to be constructed under this subchapter."
 
 Subsecs. (b), (c). Pub. L. 107–314, §2802(b)(1), added subsec. (b) and redesignated former subsec. (b) as (c).
 

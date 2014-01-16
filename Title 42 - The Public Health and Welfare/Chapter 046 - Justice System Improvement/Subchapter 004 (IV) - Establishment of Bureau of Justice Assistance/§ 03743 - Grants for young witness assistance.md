@@ -28,11 +28,11 @@ Grants made available under this section may be used—
 
 In this section:
 
-&emsp;(1) The term “juvenile” means an individual who is age 17 or younger.
+&emsp;(1) The term "juvenile" means an individual who is age 17 or younger.
 
-&emsp;(2) The term “young adult” means an individual who is age 21 or younger but not a juvenile.
+&emsp;(2) The term "young adult" means an individual who is age 21 or younger but not a juvenile.
 
-&emsp;(3) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
+&emsp;(3) The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
 #### (d) Authorization of appropriations
 
@@ -50,5 +50,5 @@ For prior sections 3743 of this title, see note set out preceding section 3741 o
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–271 substituted “The Director of the Bureau of Justice Assistance of the Office of Justice Programs may” for “The Attorney General, acting through the Bureau of Justice Assistance, may”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–271 substituted "The Director of the Bureau of Justice Assistance of the Office of Justice Programs may" for "The Attorney General, acting through the Bureau of Justice Assistance, may".
 

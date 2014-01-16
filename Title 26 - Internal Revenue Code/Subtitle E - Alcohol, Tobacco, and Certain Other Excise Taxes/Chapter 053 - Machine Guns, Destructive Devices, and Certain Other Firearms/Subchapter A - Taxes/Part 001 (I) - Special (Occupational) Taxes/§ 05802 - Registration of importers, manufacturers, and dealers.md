@@ -12,7 +12,7 @@ A prior section 5803, act Aug. 16, 1954, ch. 736, 68A Stat. 722, made a cross re
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 inserted after first sentence “An individual required to register under this section shall include a photograph and fingerprints of the individual with the initial application.”
+<b>1994</b>—Pub. L. 103–322 inserted after first sentence "An individual required to register under this section shall include a photograph and fingerprints of the individual with the initial application."
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 

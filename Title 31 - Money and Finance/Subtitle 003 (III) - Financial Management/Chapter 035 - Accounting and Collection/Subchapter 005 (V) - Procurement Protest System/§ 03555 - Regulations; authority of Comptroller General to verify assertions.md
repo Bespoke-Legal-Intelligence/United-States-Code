@@ -1,6 +1,6 @@
 ### §3555. Regulations; authority of Comptroller General to verify assertions
 
-(a) The Comptroller General shall prescribe such procedures as may be necessary to the expeditious decision of protests under this subchapter, including procedures for accelerated resolution of protests under the express option authorized by section 3554(a)(2) of this title. Such procedures shall provide that the protest process may not be delayed by the failure of a party to make a filing within the time provided for the filing.
+(a) The Comptroller General shall prescribe such procedures as may be necessary to the expeditious decision of protests under this subchapter, including procedures for accelerated resolution of protests under the express option authorized by section 3554(a)(2) of this title. Such procedures shall provide that the protestprocess may not be delayed by the failure of a party to make a filing within the time provided for the filing.
 
 (b) The procedures shall provide that, in the computation of any period described in this subchapter—
 
@@ -20,9 +20,9 @@
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(2)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (b)(2)(B). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in two places.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–355, §1404(c), substituted “The Comptroller General” for “Not later than January 15, 1985, the Comptroller General”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–355, §1404(c), substituted "The Comptroller General" for "Not later than January 15, 1985, the Comptroller General".
 
 Subsecs. (b) to (d). Pub. L. 103–355, §1404(a), (b), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 

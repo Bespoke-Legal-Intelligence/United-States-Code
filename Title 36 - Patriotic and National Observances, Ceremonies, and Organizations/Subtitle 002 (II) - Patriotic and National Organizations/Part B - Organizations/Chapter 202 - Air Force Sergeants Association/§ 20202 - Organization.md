@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Air Force Sergeants Association (in this chapter, the “corporation”), a nonprofit corporation incorporated in the District of Columbia, is a federally chartered corporation.
+Federal Charter.—Air Force Sergeants Association (in this chapter, the "corporation"), a nonprofit corporation incorporated in the District of Columbia, is a federally chartered corporation.
 
 (b)
 

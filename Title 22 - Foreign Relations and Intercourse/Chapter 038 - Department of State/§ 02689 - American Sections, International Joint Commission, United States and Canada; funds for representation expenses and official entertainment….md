@@ -6,9 +6,9 @@ Each fiscal year (beginning with fiscal year 1977), the Secretary of State may u
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–426 struck out “not to exceed $1,500 of the” after “the Secretary of State may use”.
+<b>1978</b>—Pub. L. 95–426 struck out "not to exceed $1,500 of the" after "the Secretary of State may use".
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–426, title I, §110(b), Oct. 7, 1978, 92 Stat. 967, provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1978.”
+Pub. L. 95–426, title I, §110(b), Oct. 7, 1978, 92 Stat. 967, provided that: "The amendment made by this section \[amending this section\] shall take effect on October 1, 1978."
 

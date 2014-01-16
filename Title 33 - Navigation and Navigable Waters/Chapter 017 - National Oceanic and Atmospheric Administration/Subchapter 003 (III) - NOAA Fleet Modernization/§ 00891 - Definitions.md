@@ -2,19 +2,19 @@
 
 In this subchapter, the term—
 
-&emsp;(1) “NOAA” means the National Oceanic and Atmospheric Administration within the Department of Commerce.
+&emsp;(1) "NOAA" means the National Oceanic and Atmospheric Administration within the Department of Commerce.
 
-&emsp;(2) “NOAA fleet” means the fleet of research vessels owned or operated by NOAA.
+&emsp;(2) "NOAA fleet" means the fleet of research vessels owned or operated by NOAA.
 
-&emsp;(3) “Plan” means the NOAA Fleet Replacement and Modernization Plan described in section 891b of this title.
+&emsp;(3) "Plan" means the NOAA Fleet Replacement and Modernization Plan described in section 891b of this title.
 
-&emsp;(4) “Secretary” means the Secretary of Commerce.
+&emsp;(4) "Secretary" means the Secretary of Commerce.
 
-&emsp;(5) “UNOLS” means University-National Oceanographic Laboratory System.
+&emsp;(5) "UNOLS" means University-National Oceanographic Laboratory System.
 
 (Pub. L. 102–567, title VI, §602, Oct. 29, 1992, 106 Stat. 4299.)
 
 #### Short Title
 
-For short title of this subchapter as the “NOAA Fleet Modernization Act”, see section 601 of Pub. L. 102–567, set out as a Short Title of 1992 Amendment note under section 851 of this title.
+For short title of this subchapter as the "NOAA Fleet Modernization Act", see section 601 of Pub. L. 102–567, set out as a Short Title of 1992 Amendment note under section 851 of this title.
 

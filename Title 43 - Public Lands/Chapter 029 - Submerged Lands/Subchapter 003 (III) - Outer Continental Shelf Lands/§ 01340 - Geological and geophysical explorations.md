@@ -30,7 +30,7 @@ Except as provided in subsection (f) of this section, beginning ninety days afte
 
 #### (d) Drilling permit
 
-The Secretary may, by regulation, require any lessee operating under an approved explorationplan to obtain a permit prior to drilling any well in accordance with such plan.
+The Secretary may, by regulation, require any lessee operating under an approved exploration plan to obtain a permit prior to drilling any well in accordance with such plan.
 
 #### (e) Plan revisions; conduct of exploration activities
 
@@ -48,7 +48,7 @@ The Secretary may, by regulation, require any lessee operating under an approved
 
 #### (g) Determinations requisite to issuance of permits
 
-Any permit for geological explorations authorized by this section shall be issued only if the Secretary determines, in accordance with regulations issued by the Secretary, that—
+Any permit for geological explorations authorized by this section shall be issued only if theSecretary determines, in accordance with regulations issued by the Secretary, that—
 
 &emsp;(1) the applicant for such permit is qualified;
 
@@ -58,7 +58,7 @@ Any permit for geological explorations authorized by this section shall be issue
 
 #### (h) Lands beneath navigable waters adjacent to Phillip Burton Wilderness
 
-The Secretary shall not issue a lease or permit for, or otherwise allow, exploration, development, or production activities within fifteen miles of the boundaries of the Phillip Burton Wilderness as depicted on a map entitled “Wilderness Plan, Point Reyes National Seashore”, numbered 612–90,000–B and dated September 1976, unless the State of California issues a lease or permit for, or otherwise allows, exploration, development, or production activities on lands beneath navigable waters (as such term is defined in section 1301 of this title) of such State which are adjacent to such Wilderness.
+The Secretary shall not issue a lease or permit for, or otherwise allow, exploration, development, or production activities within fifteen miles of the boundaries of the Phillip Burton Wilderness as depicted on a map entitled "Wilderness Plan, Point Reyes National Seashore", numbered 612–90,000–B and dated September 1976, unless the State of California issues a lease or permit for, or otherwise allows, exploration, development, or production activities on lands beneath navigable waters (as such term is defined in section 1301 of this title) of such State which are adjacent to such Wilderness.
 
 (Aug. 7, 1953, ch. 345, §11, 67 Stat. 469; Pub. L. 95–372, title II, §206, Sept. 18, 1978, 92 Stat. 647; Pub. L. 99–68, §1(c), July 19, 1985, 99 Stat. 166.)
 
@@ -68,11 +68,11 @@ The Secretary shall not issue a lease or permit for, or otherwise allow, explora
 
 #### Change of Name
 
-“Phillip Burton Wilderness” was substituted for “Point Reyes Wilderness” in subsec. (h), pursuant to section 1(c) of Pub. L. 99–68.
+"Phillip Burton Wilderness" was substituted for "Point Reyes Wilderness" in subsec. (h), pursuant to section 1(c) of Pub. L. 99–68.
 
 #### Transfer of Functions
 
 Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “undertaken;”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "undertaken;".</i>
 

@@ -17,7 +17,7 @@
 
 <b>1996</b>—Pub. L. 104–208, div. C, title I, §108(b)(2), Sept. 30, 1996, 110 Stat. 3009–558, added item 758.
 
-<b>1994</b>—Pub. L. 103–322, title XXXIII, §330004(5), Sept. 13, 1994, 108 Stat. 2141, struck out item 754 “Rescue of body of executed offender”.
+<b>1994</b>—Pub. L. 103–322, title XXXIII, §330004(5), Sept. 13, 1994, 108 Stat. 2141, struck out item 754 "Rescue of body of executed offender".
 
 
 ---

@@ -20,7 +20,7 @@ The administration of the recreation area by the Secretary shall be subject to a
 
 #### (c) Survey of cultural resources; report to Congress
 
-The Secretary shall conduct a survey of the cultural resources in the immediate vicinity of the recreation area. The Secretary is authorized to enter into cooperative agreements with public or private entities, including landowners, for the purpose of conducting the survey required by this subsection. Not later than two years after November 28, 1990, the Secretary shall submit a report to the Committee on Interior and Insular Affairs of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on the results of the survey required by this subsection.
+The Secretary shall conduct a survey of the cultural resources in the immediate vicinity of the recreation area. The Secretary is authorized to enter into cooperative agreements with public or private entities, including landowners, for the purpose of conducting the survey required by this subsection. Not later than two years after November 28, 1990, the Secretary shall submit a report to the Committee on Interior and Insular Affairs of the House of Representativesand the Committee on Energy and Natural Resources of the Senate on the results of the survey required by this subsection.
 
 #### (d) Hunting and fishing
 
@@ -42,5 +42,5 @@ This Act, referred to in subsec. (a), is Pub. L. 101–628, Nov. 28, 1990, 104 S
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
-<i><sup>1</sup></i><i> So in original. Closing parenthesis probably should follow “1219”.</i>
+<i><sup>1</sup></i><i> So in original. Closing parenthesis probably should follow "1219".</i>
 

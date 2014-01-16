@@ -18,7 +18,7 @@ Any underpayment of tax by a partner by reason of failing to comply with the req
 
 #### (A) In general
 
-&emsp;&emsp;To the extent that any adjustment under part II involves a change under section 704 ina partner's distributive share of the amount of any partnership item shown on the partnership return, such adjustment shall be taken into account in applying this title to such partner for the partner's taxable year for which such item was required to be taken into account.
+&emsp;&emsp;To the extent that any adjustment under part II involves a change under section 704 in a partner's distributive share of the amount of any partnership item shown on the partnership return, such adjustment shall be taken into account in applying this title to such partner for the partner's taxable year for which such item was required to be taken into account.
 
 #### (B) Coordination with deficiency procedures
 

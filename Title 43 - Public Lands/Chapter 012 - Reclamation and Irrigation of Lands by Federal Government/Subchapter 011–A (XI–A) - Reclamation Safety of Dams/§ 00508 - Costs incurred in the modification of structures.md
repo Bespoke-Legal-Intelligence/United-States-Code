@@ -6,7 +6,7 @@ Costs heretofore or hereafter incurred in the modification of structures under t
 
 #### (b) Nonreimbursable costs resulting from new hydrologic or seismic data or changes in criteria
 
-With respect to the $100,000,000 authorized to be appropriated in the Reclamation Safety of Dams Act of 1978 \[43 U.S.C. 509\], costs heretofore or hereafter incurred in the modification of structures under this subchapter, the cause of which results from new hydrologic or seismic data or changes in state-of-the-art criteria deemed necessary for safety purposes shall be nonreimbursable and nonreturnable under the Federal Reclamation law.
+With respect to the $100,000,000 authorized to be appropriated in the Reclamation Safety of Dams Act of 1978 \[43 U.S.C. 509\], costs heretofore or hereafter incurred in the modification of structures under this subchapter, the cause of which results from new hydrologic or seismic data or changes in state-of-the-art criteria deemed necessary for safety purposes shall benonreimbursable and nonreturnable under the Federal Reclamation law.
 
 #### (c) Reimbursement of certain modification costs
 
@@ -14,7 +14,7 @@ With respect to the additional amounts authorized to be appropriated by section 
 
 &emsp;(1) Fifteen percent of such costs shall be allocated to the authorized purposes of the structure, except that in the case of Jackson Lake Dam, Minidoka Project, Idaho-Wyoming, such costs shall be allocated in accordance with the allocation of operation and maintenance charges.
 
-&emsp;(2) Costs allocated to irrigation water service and capable of being repaid by the irrigation water users shall be reimbursed within 50 years of the year in which the work undertaken pursuant to this subchapter is substantially complete. Costs allocated to irrigation water service which are beyond the water users’ ability to pay shall be reimbursed in accordance with existing law.
+&emsp;(2) Costs allocated to irrigation water service and capable of being repaid by the irrigation water users shall be reimbursed within 50 years of the year in which the work undertaken pursuant to this subchapter is substantially complete. Costs allocated to irrigation water service which are beyond the water users' ability to pay shall be reimbursed in accordance with existing law.
 
 &emsp;(3) Costs allocated to recreation or fish and wildlife enhancement shall be reimbursed in accordance with the Federal Water Project Recreation Act (79 Stat. 213), as amended \[16 U.S.C. 460l–12 et seq.\].
 
@@ -42,15 +42,15 @@ The Federal Water Project Recreation Act, referred to in subsec. (c)(3), (4), is
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–439, §1(a), inserted “Reimbursement of certain modification costs” as heading and substituted “With respect to the additional amounts authorized to be appropriated by section 509 of this title” for “With respect to the additional $650,000,000 authorized to be appropriated in The Reclamation Safety of Dams Act Amendments of 1984, and the additional $95,000,000 further authorized to be appropriated by amendments to that Act in 2000, and the additional $32,000,000 further authorized to be appropriated by amendments to the Act in 2001” in introductory provisions.
+<b>2004</b>—Subsec. (c). Pub. L. 108–439, §1(a), inserted "Reimbursement of certain modification costs" as heading and substituted "With respect to the additional amounts authorized to be appropriated by section 509 of this title" for "With respect to the additional $650,000,000 authorized to be appropriated in The Reclamation Safety of Dams Act Amendments of 1984, and the additional $95,000,000 further authorized to be appropriated by amendments to that Act in 2000, and the additional $32,000,000 further authorized to be appropriated by amendments to the Act in 2001" in introductory provisions.
 
 Subsec. (e). Pub. L. 108–439, §2(a), added subsec. (e).
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–117 inserted “and the additional $32,000,000 further authorized to be appropriated by amendments to the Act in 2001,” after “2000,” in introductory provisions.
+<b>2002</b>—Subsec. (c). Pub. L. 107–117 inserted "and the additional $32,000,000 further authorized to be appropriated by amendments to the Act in 2001," after "2000," in introductory provisions.
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–377 inserted “and the additional $95,000,000 further authorized to be appropriated by amendments to that Act in 2000,” after “1984,” in introductory provisions.
+<b>2000</b>—Subsec. (c). Pub. L. 106–377 inserted "and the additional $95,000,000 further authorized to be appropriated by amendments to that Act in 2000," after "1984," in introductory provisions.
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–404, §1(1), substituted “With respect to the $100,000,000 authorized to be appropriated in the Reclamation Safety of Dams Act of 1978, costs” for “Costs”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–404, §1(1), substituted "With respect to the $100,000,000 authorized to be appropriated in the Reclamation Safety of Dams Act of 1978, costs" for "Costs".
 
 Subsecs. (c), (d). Pub. L. 98–404, §1(2), added subsecs. (c) and (d).
 

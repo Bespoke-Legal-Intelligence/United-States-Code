@@ -36,7 +36,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 &emsp;(ii) an accrued benefit which is not less than one-half of the accrued benefit to which such participant would have been entitled if subparagraph (A), (B), or (C) applied with respect to such years of participation.
 
-(E) Notwithstanding subparagraphs (A), (B), and (C) of this paragraph, a plan shall not be treated as not satisfying the requirements of this paragraph solely because the accrual of benefits under the plan does not become effective until the employee has two continuous years of service. For purposes of this subparagraph, the term “year of service” has the meaning provided by section 1052(a)(3)(A) of this title.
+(E) Notwithstanding subparagraphs (A), (B), and (C) of this paragraph, a plan shall not be treated as not satisfying the requirements of this paragraph solely because the accrual of benefits under the plan does not become effective until the employee has two continuous years of service. For purposes of this subparagraph, the term "year of service" has the meaning provided by section 1052(a)(3)(A) of this title.
 
 (F) Notwithstanding subparagraphs (A), (B), and (C), a defined benefit plan satisfies the requirements of this paragraph if such plan
 
@@ -82,13 +82,13 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 &emsp;(B) in the case of any plan which is not a defined benefit plan, the plan requires separate accounting for each employee's accrued benefit.
 
-(4)(A) For purposes of determining an employee's accrued benefit, the term “year of participation” means a period of service (beginning at the earliest date on which the employee is a participant in the plan and which is included in a period of service required to be taken into account under section 1052(b) of this title, determined without regard to section 1052(b)(5) of this title) as determined under regulations prescribed by the Secretary which provide for the calculation of such period on any reasonable and consistent basis.
+(4)(A) For purposes of determining an employee's accrued benefit, the term "year of participation" means a period of service (beginning at the earliest date on which the employee is a participant in the plan and which is included in a period of service required to be taken into account under section 1052(b) of this title, determined without regard to section 1052(b)(5) of this title) as determined under regulations prescribed by the Secretary which provide for the calculation of such period on any reasonable and consistent basis.
 
 (B) For purposes of this paragraph, except as provided in subparagraph (C), in the case of any employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit to which he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
 
 (C) For purposes of this paragraph, in the case of any employee whose service is less than 1,000 hours during any calendar year, plan year or other 12-consecutive-month period designated by the plan (and not prohibited under regulations prescribed by the Secretary) the calculation of his period of service shall not be treated as not made on a reasonable and consistent basis merely because such service is not taken into account.
 
-(D) In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term “year of participation” shall be such period as determined under regulations prescribed by the Secretary.
+(D) In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term "year of participation" shall be such period as determined under regulations prescribed by the Secretary.
 
 (E) For purposes of this subsection in the case of any maritime industry, 125 days of service shall be treated as a year of participation. The Secretary may prescribe regulations to carry out the purposes of this subparagraph.
 
@@ -158,7 +158,7 @@ Applicable plan amendment.—For purposes of this subparagraph—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—The term “applicable plan amendment” means an amendment to a defined benefit plan which has the effect of converting the plan to an applicable defined benefit plan.
+In general.—The term "applicable plan amendment" means an amendment to a defined benefit plan which has the effect of converting the plan to an applicable defined benefit plan.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -170,7 +170,7 @@ Multiple amendments.—The Secretary of the Treasury shall issue regulations to 
 
 &emsp;&emsp;&emsp;(IV)
 
-Applicable defined benefit plan.—For purposes of this subparagraph, the term “applicable defined benefit plan” has the meaning given such term by section 1053(f)(3) of this title.
+Applicable defined benefit plan.—For purposes of this subparagraph, the term "applicable defined benefit plan" has the meaning given such term by section 1053(f)(3) of this title.
 
 &emsp;&emsp;(vi)
 
@@ -202,11 +202,11 @@ Protection against loss.—Except in the case of any benefit provided in the for
 
 &emsp;&emsp;(iii)
 
-Indexing.—For purposes of this subparagraph, the term “indexing” means, in connection with an accrued benefit, the periodic adjustment of the accrued benefit by means of the application of a recognized investment index or methodology.
+Indexing.—For purposes of this subparagraph, the term "indexing" means, in connection with an accrued benefit, the periodic adjustment of the accrued benefit by means of the application of a recognized investment index or methodology.
 
 &emsp;(F)
 
-Early retirement benefit or retirement-type subsidy.—For purposes of this paragraph, the terms “early retirement benefit” and “retirement-type subsidy” have the meaning given such terms in subsection (g)(2)(A).
+Early retirement benefit or retirement-type subsidy.—For purposes of this paragraph, the terms "early retirement benefit" and "retirement-type subsidy" have the meaning given such terms in subsection (g)(2)(A).
 
 &emsp;(G)
 
@@ -226,7 +226,7 @@ Benefit accrued to date.—For purposes of this paragraph, any reference to the 
 
 Defined benefit plans.—In the case of a defined benefit plan, the accrued benefit derived from contributions made by an employee as of any applicable date is the amount equal to the employee's accumulated contributions expressed as an annual benefit commencing at normal retirement age, using an interest rate which would be used under the plan under section 1055(g)(3) of this title (as of the determination date).
 
-(C) For purposes of this subsection, the term “accumulated contributions” means the total of—
+(C) For purposes of this subsection, the term "accumulated contributions" means the total of—
 
 &emsp;(i) all mandatory contributions made by the employee,
 
@@ -238,7 +238,7 @@ Defined benefit plans.—In the case of a defined benefit plan, the accrued bene
 
 &emsp;&emsp;(II) at the interest rate which would be used under the plan under section 1055(g)(3) of this title (as of the determination date) for the period beginning with the determination date and ending on the date on which the employee attains normal retirement age.
 
-> For purposes of this subparagraph, the term “mandatory contributions” means amounts contributed to the plan by the employee which are required as a condition of employment, as a condition of participation in such plans, or as a condition of obtaining benefits under the plan attributable to employer contributions.
+> For purposes of this subparagraph, the term "mandatory contributions" means amounts contributed to the plan by the employee which are required as a condition of employment, as a condition of participation in such plans, or as a condition of obtaining benefits under the plan attributable to employer contributions.
 
 (D) The Secretary of the Treasury is authorized to adjust by regulation the conversion factor described in subparagraph (B) from time to time as he may deem necessary. No such adjustment shall be effective for a plan year beginning before the expiration of 1 year after such adjustment is determined and published.
 
@@ -292,7 +292,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 > shall not be treated as failing to meet the requirements of this subsection merely because it modifies distribution options in a nondiscriminatory manner.
 
-(4)(A) A defined contribution plan (in this subparagraph referred to as the “transferee plan”) shall not be treated as failing to meet the requirements of this subsection merely because the transferee plan does not provide some or all of the forms of distribution previously available under another defined contribution plan (in this subparagraph referred to as the “transferor plan”) to the extent that—
+(4)(A) A defined contribution plan (in this subparagraph referred to as the "transferee plan") shall not be treated as failing to meet the requirements of this subsection merely because the transferee plan does not provide some or all of the forms of distribution previously available under another defined contribution plan (in this subparagraph referred to as the "transferor plan") to the extent that—
 
 &emsp;(i) the forms of distribution previously available under the transferor plan applied to the account of a participant or beneficiary under the transferor plan that was transferred from the transferor plan to the transferee plan pursuant to a direct transfer rather than pursuant to a distribution from the transferor plan;
 
@@ -346,7 +346,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 (8) For purposes of this subsection—
 
-&emsp;(A) The term “applicable individual” means, with respect to any plan amendment—
+&emsp;(A) The term "applicable individual" means, with respect to any plan amendment—
 
 &emsp;&emsp;(i) each participant in the plan; and
 
@@ -354,7 +354,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 > &emsp;whose rate of future benefit accrual under the plan may reasonably be expected to be significantly reduced by such plan amendment.
 
-&emsp;(B) The term “applicable pension plan” means—
+&emsp;(B) The term "applicable pension plan" means—
 
 &emsp;&emsp;(i) any defined benefit plan; or
 
@@ -386,7 +386,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 (3) This subsection shall apply only to plans (other than multiemployer plans) covered under section 1321 of this title for which the funding target attainment percentage (as defined in section 1083(d)(2) of this title) is less than 100 percent after taking into account the effect of the amendment.
 
-(4) For purposes of this subsection, the term “employer” has the meaning set forth in section 1082(b)(1) of this title, without regard to section 1082(b)(2) of this title.
+(4) For purposes of this subsection, the term "employer" has the meaning set forth in section 1082(b)(1) of this title, without regard to section 1082(b)(2) of this title.
 
 #### (j) Diversification requirements for certain individual account plans
 
@@ -430,7 +430,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (A) In general
 
-&emsp;&emsp;The term “applicable individual account plan” means any individual account plan (as defined in section 1002(34) of this title) which holds any publicly traded employer securities.
+&emsp;&emsp;The term "applicable individual account plan" means any individual account plan (as defined in section 1002(34) of this title) which holds any publicly traded employer securities.
 
 #### (B) Exception for certain ESOPS
 
@@ -462,11 +462,11 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;&emsp;For purposes of this subparagraph, the term—
 
-&emsp;&emsp;&emsp;&emsp;(I) “controlled group of corporations” has the meaning given such term by section 1563(a) of title 26, except that “50 percent” shall be substituted for “80 percent” each place it appears,
+&emsp;&emsp;&emsp;&emsp;(I) "controlled group of corporations" has the meaning given such term by section 1563(a) of title 26, except that "50 percent" shall be substituted for "80 percent" each place it appears,
 
-&emsp;&emsp;&emsp;&emsp;(II) “employer corporation” means a corporation which is an employer maintaining the plan, and
+&emsp;&emsp;&emsp;&emsp;(II) "employer corporation" means a corporation which is an employer maintaining the plan, and
 
-&emsp;&emsp;&emsp;&emsp;(III) “parent corporation” has the meaning given such term by section 424(e) of title 26.
+&emsp;&emsp;&emsp;&emsp;(III) "parent corporation" has the meaning given such term by section 424(e) of title 26.
 
 #### (6) Other definitions
 
@@ -474,7 +474,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (A) Applicable individual
 
-&emsp;&emsp;The term “applicable individual” means—
+&emsp;&emsp;The term "applicable individual" means—
 
 &emsp;&emsp;&emsp;(i) any participant in the plan, and
 
@@ -482,23 +482,23 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (B) Elective deferral
 
-&emsp;&emsp;The term “elective deferral” means an employer contribution described in section 402(g)(3)(A) of title 26.
+&emsp;&emsp;The term "elective deferral" means an employer contribution described in section 402(g)(3)(A) of title 26.
 
 #### (C) Employer security
 
-&emsp;&emsp;The term “employer security” has the meaning given such term by section 1107(d)(1) of this title.
+&emsp;&emsp;The term "employer security" has the meaning given such term by section 1107(d)(1) of this title.
 
 #### (D) Employee stock ownership plan
 
-&emsp;&emsp;The term “employee stock ownership plan” has the meaning given such term by section 4975(e)(7) of title 26.
+&emsp;&emsp;The term "employee stock ownership plan" has the meaning given such term by section 4975(e)(7) of title 26.
 
 #### (E) Publicly traded employer securities
 
-&emsp;&emsp;The term “publicly traded employer securities” means employer securities which are readily tradable on an established securities market.
+&emsp;&emsp;The term "publicly traded employer securities" means employer securities which are readily tradable on an established securities market.
 
 #### (F) Year of service
 
-&emsp;&emsp;The term “year of service” has the meaning given such term by section 1053(b)(2) of this title.
+&emsp;&emsp;The term "year of service" has the meaning given such term by section 1053(b)(2) of this title.
 
 #### (7) Transition rule for securities attributable to employer contributions
 
@@ -550,61 +550,61 @@ The Social Security Act, referred to in subsec. (b)(1)(G), is act Aug. 14, 1935,
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(5)(A)(iii). Pub. L. 110–458, §107(a)(2)(A), substituted “subparagraph” for “clause”.
+<b>2008</b>—Subsec. (b)(5)(A)(iii). Pub. L. 110–458, §107(a)(2)(A), substituted "subparagraph" for "clause".
 
-Subsec. (b)(5)(B)(i)(II). Pub. L. 110–458, §107(a)(3), amended subcl. (II) generally. Prior to amendment, text read as follows: “An interest credit (or an equivalent amount) of less than zero shall in no event result in the account balance or similar amount being less than the aggregate amount of contributions credited to the account.”
+Subsec. (b)(5)(B)(i)(II). Pub. L. 110–458, §107(a)(3), amended subcl. (II) generally. Prior to amendment, text read as follows: "An interest credit (or an equivalent amount) of less than zero shall in no event result in the account balance or similar amount being less than the aggregate amount of contributions credited to the account."
 
-Subsec. (b)(5)(C). Pub. L. 110–458, §107(a)(2)(B), inserted “otherwise” before “allowable”.
+Subsec. (b)(5)(C). Pub. L. 110–458, §107(a)(2)(B), inserted "otherwise" before "allowable".
 
 <b>2006</b>—Subsec. (b)(5). Pub. L. 109–280, §701(a)(1), added par. (5).
 
-Subsec. (g)(1). Pub. L. 109–280, §108(a)(5), formerly §107(a)(5), as renumbered by Pub. L. 111–192, substituted “1082(d)(2)” for “1082(c)(8)”.
+Subsec. (g)(1). Pub. L. 109–280, §108(a)(5), formerly §107(a)(5), as renumbered by Pub. L. 111–192, substituted "1082(d)(2)" for "1082(c)(8)".
 
-Subsec. (h)(1). Pub. L. 109–280, §502(c)(1), inserted before period at end “and to each employer who has an obligation to contribute to the plan”.
+Subsec. (h)(1). Pub. L. 109–280, §502(c)(1), inserted before period at end "and to each employer who has an obligation to contribute to the plan".
 
-Subsec. (i)(2)(B). Pub. L. 109–280, §108(a)(6), formerly §107(a)(6), as renumbered by Pub. L. 111–192, substituted “1082(d)(2)” for “1082(c)(8)”.
+Subsec. (i)(2)(B). Pub. L. 109–280, §108(a)(6), formerly §107(a)(6), as renumbered by Pub. L. 111–192, substituted "1082(d)(2)" for "1082(c)(8)".
 
-Subsec. (i)(3). Pub. L. 109–280, §108(a)(7), formerly §107(a)(7), as renumbered by Pub. L. 111–192, substituted “funding target attainment percentage (as defined in section 1083(d)(2) of this title)” for “funded current liability percentage (within the meaning of section 1082(d)(8) of this title)”.
+Subsec. (i)(3). Pub. L. 109–280, §108(a)(7), formerly §107(a)(7), as renumbered by Pub. L. 111–192, substituted "funding target attainment percentage (as defined in section 1083(d)(2) of this title)" for "funded current liability percentage (within the meaning of section 1082(d)(8) of this title)".
 
-Subsec. (i)(4). Pub. L. 109–280, §108(a)(8), formerly §107(a)(8), as renumbered by Pub. L. 111–192, substituted “section 1082(b)(1) of this title, without regard to section 1082(b)(2) of this title” for “section 1082(c)(11)(A) of this title, without regard to section 1082(c)(11)(B) of this title”.
+Subsec. (i)(4). Pub. L. 109–280, §108(a)(8), formerly §107(a)(8), as renumbered by Pub. L. 111–192, substituted "section 1082(b)(1) of this title, without regard to section 1082(b)(2) of this title" for "section 1082(c)(11)(A) of this title, without regard to section 1082(c)(11)(B) of this title".
 
 Subsecs. (j), (k). Pub. L. 109–280, §901(b)(1), added subsec. (j) and redesignated former subsec. (j) as (k).
 
-<b>2002</b>—Subsec. (h)(9). Pub. L. 107–147 struck out “significantly” before “reduces” and before “reducing”.
+<b>2002</b>—Subsec. (h)(9). Pub. L. 107–147 struck out "significantly" before "reduces" and before "reducing".
 
-<b>2001</b>—Subsec. (g)(2). Pub. L. 107–16, §645(b)(2), inserted after second sentence “The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner.”
+<b>2001</b>—Subsec. (g)(2). Pub. L. 107–16, §645(b)(2), inserted after second sentence "The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner."
 
 Subsec. (g)(4), (5). Pub. L. 107–16, §645(a)(2), added pars. (4) and (5).
 
 Subsec. (h). Pub. L. 107–16, §659(b), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
 
-“(1) A plan described in paragraph (2) may not be amended so as to provide for a significant reduction in the rate of future benefit accrual, unless, after adoption of the plan amendment and not less than 15 days before the effective date of the plan amendment, the plan administrator provides a written notice, setting forth the plan amendment and its effective date, to—
+"(1) A plan described in paragraph (2) may not be amended so as to provide for a significant reduction in the rate of future benefit accrual, unless, after adoption of the plan amendment and not less than 15 days before the effective date of the plan amendment, the plan administrator provides a written notice, setting forth the plan amendment and its effective date, to—
 
-&emsp;“(A) each participant in the plan,
+&emsp;"(A) each participant in the plan,
 
-&emsp;“(B) each beneficiary who is an alternate payee (within the meaning of section 1056(d)(3)(K) of this title) under an applicable qualified domestic relations order (within the meaning of section 1056(d)(3)(B)(i) of this title), and
+&emsp;"(B) each beneficiary who is an alternate payee (within the meaning of section 1056(d)(3)(K) of this title) under an applicable qualified domestic relations order (within the meaning of section 1056(d)(3)(B)(i) of this title), and
 
-&emsp;“(C) each employee organization representing participants in the plan,
+&emsp;"(C) each employee organization representing participants in the plan,
 
 > except that such notice shall instead be provided to a person designated, in writing, to receive such notice on behalf of any person referred to in subparagraph (A), (B), or (C).
 
-“(2) A plan is described in this paragraph if such plan is—
+"(2) A plan is described in this paragraph if such plan is—
 
-&emsp;“(A) a defined benefit plan, or
+&emsp;"(A) a defined benefit plan, or
 
-&emsp;“(B) an individual account plan which is subject to the funding standards of section 1082 of this title.”
+&emsp;"(B) an individual account plan which is subject to the funding standards of section 1082 of this title."
 
-<b>1997</b>—Subsec. (d)(1). Pub. L. 105–34 substituted “the dollar limit under section 1053(e)(1) of this title” for “$3,500”.
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–34 substituted "the dollar limit under section 1053(e)(1) of this title" for "$3,500".
 
 <b>1994</b>—Subsecs. (i), (j). Pub. L. 103–465 added subsec. (i) and redesignated former subsec. (i) as (j).
 
-<b>1989</b>—Subsec. (b)(1)(A). Pub. L. 101–239, §7894(c)(4), substituted “subparagraph” for “suparagraph” in last sentence.
+<b>1989</b>—Subsec. (b)(1)(A). Pub. L. 101–239, §7894(c)(4), substituted "subparagraph" for "suparagraph" in last sentence.
 
-Subsec. (b)(1)(E). Pub. L. 101–239, §7894(c)(5), substituted “term ‘year of service’ ” for “term ‘years of service’ ”.
+Subsec. (b)(1)(E). Pub. L. 101–239, §7894(c)(5), substituted "term 'year of service' " for "term 'years of service' ".
 
-Subsec. (b)(2)(B). Pub. L. 101–239, §7871(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “Subparagraph (A) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of section 414(q) of title 26) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26.”
+Subsec. (b)(2)(B). Pub. L. 101–239, §7871(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "Subparagraph (A) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of section 414(q) of title 26) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26."
 
-Subsec. (b)(2)(C). Pub. L. 101–239, §7871(a)(3), substituted “subparagraphs (B) and (C)” for “subparagraphs (C) and (D)”.
+Subsec. (b)(2)(C). Pub. L. 101–239, §7871(a)(3), substituted "subparagraphs (B) and (C)" for "subparagraphs (C) and (D)".
 
 Pub. L. 101–239, §7871(a)(1), redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
 
@@ -612,43 +612,43 @@ Subsec. (b)(2)(D). Pub. L. 101–239, §7871(a)(1), redesignated subpar. (D) as 
 
 Subsec. (c)(2)(B). Pub. L. 101–239, §7881(m)(2)(B), inserted heading and amended text generally. Prior to amendment, text read as follows:
 
-“(i) In the case of a defined benefit plan providing an annual benefit in the form of a single life annuity (without ancillary benefits) commencing at normal retirement age, the accrued benefit derived from contributions made by an employee as of any applicable date is the annual benefit equal to the employee's accumulated contributions multiplied by the appropriate conversion factor.
+"(i) In the case of a defined benefit plan providing an annual benefit in the form of a single life annuity (without ancillary benefits) commencing at normal retirement age, the accrued benefit derived from contributions made by an employee as of any applicable date is the annual benefit equal to the employee's accumulated contributions multiplied by the appropriate conversion factor.
 
-“(ii) For purposes of clause (i), the term ‘appropriate conversion factor’ means the factor necessary to convert an amount equal to the accumulated contributions to a single life annuity (without ancillary benefits) commencing at normal retirement age and shall be 10 percent for a normal retirement age of 65 years. For other normal retirement ages the conversion factor shall be determined in accordance with regulations prescribed by the Secretary of the Treasury or his delegate.”
+"(ii) For purposes of clause (i), the term 'appropriate conversion factor' means the factor necessary to convert an amount equal to the accumulated contributions to a single life annuity (without ancillary benefits) commencing at normal retirement age and shall be 10 percent for a normal retirement age of 65 years. For other normal retirement ages the conversion factor shall be determined in accordance with regulations prescribed by the Secretary of the Treasury or his delegate."
 
-Subsec. (c)(2)(C)(iii). Pub. L. 101–239, §7881(m)(2)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year) from the beginning of the first plan year to which section 1053(a)(2) of this title applies (by reason of the applicable effective date) to the date upon which the employee would attain normal retirement age.”
+Subsec. (c)(2)(C)(iii). Pub. L. 101–239, §7881(m)(2)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year) from the beginning of the first plan year to which section 1053(a)(2) of this title applies (by reason of the applicable effective date) to the date upon which the employee would attain normal retirement age."
 
-Subsec. (c)(2)(E). Pub. L. 101–239, §7881(m)(2)(C), struck out subpar. (E) which read as follows: “The accrued benefit derived from employee contributions shall not exceed the greater of—
+Subsec. (c)(2)(E). Pub. L. 101–239, §7881(m)(2)(C), struck out subpar. (E) which read as follows: "The accrued benefit derived from employee contributions shall not exceed the greater of—
 
-&emsp;“(i) the employee's accrued benefit under the plan, or
+&emsp;"(i) the employee's accrued benefit under the plan, or
 
-&emsp;“(ii) the accrued benefit derived from employee contributions determined as though the amounts calculated under clauses (ii) and (iii) of subparagraph (C) were zero.”
+&emsp;"(ii) the accrued benefit derived from employee contributions determined as though the amounts calculated under clauses (ii) and (iii) of subparagraph (C) were zero."
 
-Subsec. (d). Pub. L. 101–239, §7894(c)(6), removed the indentation of the term “Paragraph” where first appearing in concluding provisions.
+Subsec. (d). Pub. L. 101–239, §7894(c)(6), removed the indentation of the term "Paragraph" where first appearing in concluding provisions.
 
-Subsec. (g)(3)(A). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (g)(3)(A). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Subsec. (h). Pub. L. 101–239, §7862(b)(1)(A), made technical correction to directory language of Pub. L. 99–514, §1879(u)(1), see 1986 Amendment note below.
 
 Subsec. (h)(2). Pub. L. 101–239, §7862(b)(2), adjusted left-hand margin of introductory provisions to full measure.
 
-<b>1987</b>—Subsec. (c)(2)(C)(iii). Pub. L. 100–203, §9346(a)(1), substituted “120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year)” for “5 percent per annum”.
+<b>1987</b>—Subsec. (c)(2)(C)(iii). Pub. L. 100–203, §9346(a)(1), substituted "120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year)" for "5 percent per annum".
 
-Subsec. (c)(2)(D). Pub. L. 100–203, §9346(a)(2), struck out “, the rate of interest described in clause (iii) of subparagraph (C), or both,” before “from time to time” in first sentence and struck out second sentence which read as follows: “The rate of interest shall bear the relationship to 5 percent which the Secretary of the Treasury determines to be comparable to the relationship which the long-term money rates and investment yields for the last period of 10 calendar years ending at least 12 months before the beginning of the plan year bear to the long-term money rates and investment yields for the 10-calendar year period 1964 through 1973.”
+Subsec. (c)(2)(D). Pub. L. 100–203, §9346(a)(2), struck out ", the rate of interest described in clause (iii) of subparagraph (C), or both," before "from time to time" in first sentence and struck out second sentence which read as follows: "The rate of interest shall bear the relationship to 5 percent which the Secretary of the Treasury determines to be comparable to the relationship which the long-term money rates and investment yields for the last period of 10 calendar years ending at least 12 months before the beginning of the plan year bear to the long-term money rates and investment yields for the 10-calendar year period 1964 through 1973."
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–509, §9202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each pension plan shall satisfy the requirements of subsection (b)(2) of this section, and in the case of a defined benefit plan shall also satisfy the requirements of subsection (b)(1) of this section.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–509, §9202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Each pension plan shall satisfy the requirements of subsection (b)(2) of this section, and in the case of a defined benefit plan shall also satisfy the requirements of subsection (b)(1) of this section."
 
 Subsec. (b)(1)(H). Pub. L. 99–509, §9202(a)(2), added subpar. (H).
 
 Subsec. (b)(2) to (4). Pub. L. 99–509, §9202(a)(3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (e). Pub. L. 99–514, §1898(a)(4)(B)(ii), inserted last sentence and struck out former last sentence which read as follows: “In the case of a defined contribution plan, the plan provision required under this subsection may provide that such repayment must be made before the participant has 5 consecutive 1-year breaks in service commencing after such withdrawal”.
+Subsec. (e). Pub. L. 99–514, §1898(a)(4)(B)(ii), inserted last sentence and struck out former last sentence which read as follows: "In the case of a defined contribution plan, the plan provision required under this subsection may provide that such repayment must be made before the participant has 5 consecutive 1-year breaks in service commencing after such withdrawal".
 
 Subsec. (g)(1). Pub. L. 99–514, §1898(f)(2), inserted reference to section 1441.
 
 Subsec. (g)(3). Pub. L. 99–514, §1898(f)(1)(B), added par. (3).
 
-Subsec. (h). Pub. L. 99–514, §1879(u)(1), as amended by Pub. L. 101–239, §7862(b)(1)(A), designated existing provisions as par. (1), substituted “plan described in paragraph (2)” for “single-employer plan”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, substituted “subparagraph (A), (B), or (C)” for “paragraph (1), (2), or (3)” in concluding provisions, and added par. (2).
+Subsec. (h). Pub. L. 99–514, §1879(u)(1), as amended by Pub. L. 101–239, §7862(b)(1)(A), designated existing provisions as par. (1), substituted "plan described in paragraph (2)" for "single-employer plan", redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, substituted "subparagraph (A), (B), or (C)" for "paragraph (1), (2), or (3)" in concluding provisions, and added par. (2).
 
 Pub. L. 99–272 added subsec. (h). Former subsec. (h) redesignated (i).
 
@@ -656,11 +656,11 @@ Subsec. (i). Pub. L. 99–514, §1113(e)(4)(B), amended subsec. (i) generally, s
 
 Pub. L. 99–272 redesignated former subsec. (h) as (i).
 
-<b>1984</b>—Subsec. (b)(3)(A). Pub. L. 98–397, §102(e)(3), inserted “, determined without regard to section 1052(b)(5) of this title” after “section 1052(b) of this title”.
+<b>1984</b>—Subsec. (b)(3)(A). Pub. L. 98–397, §102(e)(3), inserted ", determined without regard to section 1052(b)(5) of this title" after "section 1052(b) of this title".
 
-Subsec. (d)(1). Pub. L. 98–397, §105(b), substituted “$3,500” for “$1,750”.
+Subsec. (d)(1). Pub. L. 98–397, §105(b), substituted "$3,500" for "$1,750".
 
-Subsec. (e). Pub. L. 98–397, §102(f), substituted “5 consecutive 1-year breaks in service” for “any 1-year break in service”.
+Subsec. (e). Pub. L. 98–397, §102(f), substituted "5 consecutive 1-year breaks in service" for "any 1-year break in service".
 
 Subsec. (g). Pub. L. 98–397, §301(a)(2), designated existing provisions as par. (1) and added par. (2).
 
@@ -712,19 +712,19 @@ Amendment by section 7894(c)(4)–(6) of Pub. L. 101–239 effective, except as 
 
 Pub. L. 100–203, title IX, §9346(c), Dec. 22, 1987, 101 Stat. 1330–374, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section and section 411 of Title 26, Internal Revenue Code\] shall apply to plan years beginning after December 31, 1987.
 
-“(2)
+"(2)
 
 Plan amendments not required until january 1, 1989.—If any amendment made by this section requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1989, if—
 
-&emsp;“(A) during the period after such amendments made by this section take effect and before such first plan year, the plan is operated in accordance with the requirements of such amendments or in accordance with an amendment prescribed by the Secretary of the Treasury and adopted by the plan, and
+&emsp;"(A) during the period after such amendments made by this section take effect and before such first plan year, the plan is operated in accordance with the requirements of such amendments or in accordance with an amendment prescribed by the Secretary of the Treasury and adopted by the plan, and
 
-&emsp;“(B) such plan amendment applies retroactively to the period after such amendments take effect and such first plan year.
+&emsp;"(B) such plan amendment applies retroactively to the period after such amendments take effect and such first plan year.
 
-> A plan shall not be treated as failing to provide definitely determinable benefits or contributions, or to be operated in accordance with the provisions of the plan, merely because it operates in accordance with this subsection.”
+> A plan shall not be treated as failing to provide definitely determinable benefits or contributions, or to be operated in accordance with the provisions of the plan, merely because it operates in accordance with this subsection."
 
 #### Effective Date of 1986 Amendments
 
@@ -732,19 +732,19 @@ Amendment by section 1113(e)(4)(B) of Pub. L. 99–514 applicable to plan years 
 
 Pub. L. 99–514, title XVIII, §1879(u)(5), formerly §1879(u)(4), Oct. 22, 1986, 100 Stat. 2913, as redesignated and amended by Pub. L. 101–239, title VII, §7862(b)(1)(A), (B), Dec. 19, 1989, 103 Stat. 2432, provided that:
 
-“(A)
+"(A)
 
 General rule.—Except as provided in subparagraph (B), the preceding provisions of this subsection \[amending this section and sections 1002 and 1349 of this title\] shall be effective as if such provisions were included in the enactment of the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272, title XI\].
 
-“(B)
+"(B)
 
-Special rule.—Subparagraph (B) of section 204(h)(2) of the Employee Retirement Income Security Act of 1974 (as amended by paragraph (1)) \[29 U.S.C. 1054(h)(2)(B)\] shall apply only with respect to plan amendments adopted on or after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Special rule.—Subparagraph (B) of section 204(h)(2) of the Employee Retirement Income Security Act of 1974 (as amended by paragraph (1)) \[29 U.S.C. 1054(h)(2)(B)\] shall apply only with respect to plan amendments adopted on or after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 Amendment by section 1898(a)(4)(B)(ii), (f)(1)(B), (2) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only to employees who have 1 hour of service in any plan year to which amendment applies, with special rule for collectively bargained plans, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of this title.
 
-Pub. L. 99–272, title XI, §11006(b), Apr. 7, 1986, 100 Stat. 243, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to plan amendments adopted on or after January 1, 1986, except that, in the case of plan amendments adopted on or after January 1, 1986, and on or before the date of the enactment of this Act \[Apr. 7, 1986\], the requirements of section 204(h) of the Employee Retirement Income Security Act of 1974 \[subsec. (h) of this section\] (as added by this section) shall be treated as met if the written notice required under such section 204(h) is provided before 60 days after the date of the enactment of this Act.”
+Pub. L. 99–272, title XI, §11006(b), Apr. 7, 1986, 100 Stat. 243, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to plan amendments adopted on or after January 1, 1986, except that, in the case of plan amendments adopted on or after January 1, 1986, and on or before the date of the enactment of this Act \[Apr. 7, 1986\], the requirements of section 204(h) of the Employee Retirement Income Security Act of 1974 \[subsec. (h) of this section\] (as added by this section) shall be treated as met if the written notice required under such section 204(h) is provided before 60 days after the date of the enactment of this Act."
 
 #### Effective Date of 1984 Amendment
 
@@ -764,13 +764,13 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Plan Amendments Reflecting Amendments by Section 7881(m) of Pub. L. 101–239 Not Treated as Reducing Accrued Benefit
 
-Pub. L. 101–239, title VII, §7881(m)(3), Dec. 19, 1989, 103 Stat. 2444, provided that:“If—
+Pub. L. 101–239, title VII, §7881(m)(3), Dec. 19, 1989, 103 Stat. 2444, provided that:"If—
 
-&emsp;“(A) during the period beginning December 22, 1987, and ending June 21, 1988, a plan was amended to reflect the amendments made by section 9346 of the Pension Protection Act \[Pub. L. 100–203, amending this section and section 411 of Title 26, Internal Revenue Code\], and
+&emsp;"(A) during the period beginning December 22, 1987, and ending June 21, 1988, a plan was amended to reflect the amendments made by section 9346 of the Pension Protection Act \[Pub. L. 100–203, amending this section and section 411 of Title 26, Internal Revenue Code\], and
 
-&emsp;“(B) such plan is amended to reflect the amendments made by this subsection \[amending this section, section 1002 of this title, and section 411 of Title 26\],
+&emsp;"(B) such plan is amended to reflect the amendments made by this subsection \[amending this section, section 1002 of this title, and section 411 of Title 26\],
 
-> any plan amendment described in subparagraph (B) shall not be treated as reducing accrued benefits for purposes of section 411(d)(6) of the Internal Revenue Code of 1986 \[section 411(d)(6) of Title 26\] or section 204(g) of ERISA \[subsec. (g) of this section\].”
+> any plan amendment described in subparagraph (B) shall not be treated as reducing accrued benefits for purposes of section 411(d)(6) of the Internal Revenue Code of 1986 \[section 411(d)(6) of Title 26\] or section 204(g) of ERISA \[subsec. (g) of this section\]."
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -778,5 +778,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 For provisions directing that if any amendments made by Pub. L. 99–509 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “similar account”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "similar account".</i>
 

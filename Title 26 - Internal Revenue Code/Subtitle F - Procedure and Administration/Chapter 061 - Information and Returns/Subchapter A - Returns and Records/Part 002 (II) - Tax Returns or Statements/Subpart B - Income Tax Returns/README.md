@@ -16,13 +16,13 @@ Subpart B—Income Tax Returns
 
 <b>1998</b>—Pub. L. 105–206, title III, §3201(f), July 22, 1998, 112 Stat. 740, added item 6015.
 
-<b>1989</b>—Pub. L. 101–239, title VII, §7711(b)(3), Dec. 19, 1989, 103 Stat. 2393, struck out item 6017A “Place of residence”.
+<b>1989</b>—Pub. L. 101–239, title VII, §7711(b)(3), Dec. 19, 1989, 103 Stat. 2393, struck out item 6017A "Place of residence".
 
-<b>1984</b>—Pub. L. 98–369, div. A, title IV, §412(c)(1), July 18, 1984, 98 Stat. 792, struck out item 6015 “Declaration of estimated income tax by individuals.”
+<b>1984</b>—Pub. L. 98–369, div. A, title IV, §412(c)(1), July 18, 1984, 98 Stat. 792, struck out item 6015 "Declaration of estimated income tax by individuals."
 
 <b>1972</b>—Pub. L. 92–512, title I, §144(a)(2), Oct. 20, 1972, 86 Stat. 935, added item 6017A.
 
-<b>1968</b>—Pub. L. 90–364, title I, §103(e)(7), June 28, 1968, 82 Stat. 264, struck out item 6016 “Declarations of estimated income tax by corporations.”
+<b>1968</b>—Pub. L. 90–364, title I, §103(e)(7), June 28, 1968, 82 Stat. 264, struck out item 6016 "Declarations of estimated income tax by corporations."
 
 
 ---

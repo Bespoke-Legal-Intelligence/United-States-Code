@@ -1,12 +1,12 @@
 ### §2000g. Establishment of Service; Director of Service: appointment, term; personnel
 
-There is hereby established in and as a part of the Department of Commerce a Community Relations Service (hereinafter referred to as the “Service”), which shall be headed by a Director who shall be appointed by the President with the advice and consent of the Senate for a term of four years. The Director is authorized to appoint, subject to the civil service laws and regulations, such other personnel as may be necessary to enable the Service to carry out its functions and duties, and to fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
+There is hereby established in and as a part of the Department of Commerce a Community Relations Service (hereinafter referred to as the "Service"), which shall be headed by a Director who shall be appointed by the President with the advice and consent of the Senate for a term of four years. The Director is authorized to appoint, subject to the civil service laws and regulations, such other personnel as may be necessary to enable the Service to carry out its functions and duties, and to fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
 (Pub. L. 88–352, title X, §1001(a), July 2, 1964, 78 Stat. 267; Pub. L. 95–624, §5, Nov. 9, 1978, 92 Stat. 3462.)
 
 #### Codification
 
-References to “chapter 51 and subchapter III of chapter 53 of title 5” and “section 3109 of title 5” substituted in text for “the Classification Act of 1949, as amended” and “section 15 of the Act of August 2, 1946 (60 Stat. 810; 5 U.S.C. 55a)”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+References to "chapter 51 and subchapter III of chapter 53 of title 5" and "section 3109 of title 5" substituted in text for "the Classification Act of 1949, as amended" and "section 15 of the Act of August 2, 1946 (60 Stat. 810; 5 U.S.C. 55a)", respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Placing the Community Relations Service within the Justice Department will enhan
 
 In this, as in other areas of Federal operations, we will move more surely and rapidly toward our objectives if we improve Federal organization and the arrangements for interagency coordination. The accompanying reorganization plan has that purpose.
 
-The present distribution of Federal civil rights responsibilities clearly indicates that the activities of the Community Relations Service will fit most appropriately in the Department of Justice.
+The present distribution of Federal civil rights responsibilities clearly indicates that the activities ofthe Community Relations Service will fit most appropriately in the Department of Justice.
 
 The Department of Justice has primary program responsibilities in civil rights matters and deep and broad experience in the conciliation of civil rights disputes. Congress has assigned it a major role in the implementation of the Civil Rights Act of 1957, 1960, and 1964, and the Voting Rights Act of 1965. The Department of Justice performs related functions under other acts of Congress. Most of these responsibilities require not only litigation, but also efforts at persuasion, negotiation, and explanation, especially with local governments and law enforcement authorities. In addition, under the Law Enforcement Assistance Act the Department will be supporting local programs in the area of police-community relations.
 

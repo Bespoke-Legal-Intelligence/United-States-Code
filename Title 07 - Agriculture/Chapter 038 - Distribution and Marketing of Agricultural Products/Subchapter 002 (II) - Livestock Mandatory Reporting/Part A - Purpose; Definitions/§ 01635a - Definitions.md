@@ -4,35 +4,35 @@ In this subchapter:
 
 #### (1) Base price
 
-&emsp;The term “base price” means the price paid for livestock, delivered at the packing plant, before application of any premiums or discounts, expressed in dollars per hundred pounds of carcass weight.
+&emsp;The term "base price" means the price paid for livestock, delivered at the packing plant, before application of any premiums or discounts, expressed in dollars per hundred pounds of carcass weight.
 
 #### (2) Basis level
 
-&emsp;The term “basis level” means the agreed-on adjustment to a future price to establish the final price paid for livestock.
+&emsp;The term "basis level" means the agreed-on adjustment to a future price to establish the final price paid for livestock.
 
 #### (3) Current slaughter week
 
-&emsp;The term “current slaughter week” means the period beginning Monday, and ending Sunday, of the week in which a reporting day occurs.
+&emsp;The term "current slaughter week" means the period beginning Monday, and ending Sunday, of the week in which a reporting day occurs.
 
 #### (4) F.O.B.
 
-&emsp;The term “F.O.B.” means free on board, regardless of the mode of transportation, at the point of direct shipment by the seller to the buyer.
+&emsp;The term "F.O.B." means free on board, regardless of the mode of transportation, at the point of direct shipment by the seller to the buyer.
 
 #### (5) Livestock
 
-&emsp;The term “livestock” means cattle, swine, and lambs.
+&emsp;The term "livestock" means cattle, swine, and lambs.
 
 #### (6) Lot
 
-&emsp;The term “lot” means a group of one or more livestock that is identified for the purpose of a single transaction between a buyer and a seller.
+&emsp;The term "lot" means a group of one or more livestock that is identified for the purpose of a single transaction between a buyer and a seller.
 
 #### (7) Marketing
 
-&emsp;The term “marketing” means the sale or other disposition of livestock, livestock products, or meat or meat food products in commerce.
+&emsp;The term "marketing" means the sale or other disposition of livestock, livestock products, or meat or meat food products in commerce.
 
 #### (8) Negotiated purchase
 
-&emsp;The term “negotiated purchase” means a cash or spot market purchase by a packer of livestock from a producer under which—
+&emsp;The term "negotiated purchase" means a cash or spot market purchase by a packer of livestock from a producer under which—
 
 &emsp;&emsp;(A) the base price for the livestock is determined by seller-buyer interaction and agreement on a day; and
 
@@ -40,7 +40,7 @@ In this subchapter:
 
 #### (9) Negotiated sale
 
-&emsp;The term “negotiated sale” means a cash or spot market sale by a producer of livestock to a packer under which—
+&emsp;The term "negotiated sale" means a cash or spot market sale by a producer of livestock to a packer under which—
 
 &emsp;&emsp;(A) the base price for the livestock is determined by seller-buyer interaction and agreement on a day; and
 
@@ -48,15 +48,15 @@ In this subchapter:
 
 #### (10) Prior slaughter week
 
-&emsp;The term “prior slaughter week” means the Monday through Sunday prior to a reporting day.
+&emsp;The term "prior slaughter week" means the Monday through Sunday prior to a reporting day.
 
 #### (11) Producer
 
-&emsp;The term “producer” means any person engaged in the business of selling livestock to a packer for slaughter (including the sale of livestock from a packer to another packer).
+&emsp;The term "producer" means any person engaged in the business of selling livestock to a packer for slaughter (including the sale of livestock from a packer to another packer).
 
 #### (12) Reporting day
 
-&emsp;The term “reporting day” means a day on which—
+&emsp;The term "reporting day" means a day on which—
 
 &emsp;&emsp;(A) a packer conducts business regarding livestock committed to the packer, or livestock purchased, sold, or slaughtered by the packer;
 
@@ -66,11 +66,11 @@ In this subchapter:
 
 #### (13) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 #### (14) State
 
-&emsp;The term “State” means each of the 50 States.
+&emsp;The term "State" means each of the 50 States.
 
 (Aug. 14, 1946, ch. 966, title II, §212, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1188.)
 

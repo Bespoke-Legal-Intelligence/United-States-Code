@@ -6,7 +6,7 @@ The Secretary of Commerce is authorized to consider, ascertain, adjust, and dete
 
 #### Amendments
 
-<b>1983</b>—Pub. L. 98–176 amended section generally, substituting “The Secretary of Commerce is” for “The Superintendent of the Coast and Geodetic Survey, subject to the approval of the Secretary of Commerce, is hereby”, “$2,500” for “$500”, and “the National Oceanic and Atmospheric Administration is responsible” for “the Coast and Geodetic Survey shall be found to be responsible”.
+<b>1983</b>—Pub. L. 98–176 amended section generally, substituting "The Secretary of Commerce is" for "The Superintendent of the Coast and Geodetic Survey, subject to the approval of the Secretary of Commerce, is hereby", "$2,500" for "$500", and "the National Oceanic and Atmospheric Administration is responsible" for "the Coast and Geodetic Survey shall be found to be responsible".
 
 <b>1975</b>—Pub. L. 93–608 struck out reporting requirement to Congress of amounts ascertained and determined due for payment as legal claims out of Congressional appropriations.
 

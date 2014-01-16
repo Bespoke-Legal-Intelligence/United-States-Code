@@ -26,11 +26,11 @@ Subsection (c) requires a chapter 13 debtor engaged in business to file with the
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–327 substituted “704(a)(8)” for “704(8)”.
+<b>2010</b>—Subsec. (c). Pub. L. 111–327 substituted "704(a)(8)" for "704(8)".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–353, §526, struck out the comma after “of the debtor”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353, §526, struck out the comma after "of the debtor".
 
-Subsec. (c). Pub. L. 98–353, §311(b)(2), substituted “section 704(8)” for “section 704(7)”.
+Subsec. (c). Pub. L. 98–353, §311(b)(2), substituted "section 704(8)" for "section 704(7)".
 
 #### Effective Date of 1984 Amendment
 

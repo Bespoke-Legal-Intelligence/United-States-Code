@@ -56,7 +56,7 @@ Notwithstanding any other provision of this chapter and part C of subchapter I o
 
 &emsp;(1) the guaranty agency that insured such loan shall cease to have any obligations, responsibilities, or rights (including rights to any payment) under this chapter and part C of subchapter I of chapter 34 of title 42 for any activity related to the administration of such loan that is carried out or required to be carried out on or after the date of such purchase; and
 
-&emsp;(2) the insurance issued by such agency pursuant to section 1078(b) of this title for suchloan shall cease to be effective with respect to any default on such loan that occurs on or after the date of such purchase.
+&emsp;(2) the insurance issued by such agency pursuant to section 1078(b) of this title for such loan shall cease to be effective with respect to any default on such loan that occurs on or after the date of such purchase.
 
 #### (e) Reports and cost estimates
 
@@ -102,23 +102,23 @@ The Secretary's authority to purchase loans under this section shall expire on J
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(2). Pub. L. 111–39, §404(a)(1)(A), substituted “purchase of loans under paragraph (1)” for “purchase of loans under this section” in introductory provisions.
+<b>2009</b>—Subsec. (a)(2). Pub. L. 111–39, §404(a)(1)(A), substituted "purchase of loans under paragraph (1)" for "purchase of loans under this section" in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 111–39, §404(a)(1)(B), added par. (3).
 
-Subsec. (b). Pub. L. 111–39, §404(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall require, as a condition of any purchase under subsection (a), that the funds paid by the Secretary to any eligible lender under this section shall be used: (1) to ensure continued participation of such lender in the Federal student loan programs authorized under part B of this subchapter; and (2) to originate new Federal loans to students, as authorized under part B of this subchapter.”
+Subsec. (b). Pub. L. 111–39, §404(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "The Secretary shall require, as a condition of any purchase under subsection (a), that the funds paid by the Secretary to any eligible lender under this section shall be used: (1) to ensure continued participation of such lender in the Federal student loan programs authorized under part B of this subchapter; and (2) to originate new Federal loans to students, as authorized under part B of this subchapter."
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–350, §1(1), substituted “July 1, 2010” for “July 1, 2009”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–350, §1(1), substituted "July 1, 2010" for "July 1, 2009".
 
 Subsecs. (d), (e). Pub. L. 110–315, §453(2), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 
-Subsec. (e)(1)(A). Pub. L. 110–350, §1(2)(A), substituted “September 30, 2010” for “September 30, 2009” in introductory provisions.
+Subsec. (e)(1)(A). Pub. L. 110–350, §1(2)(A), substituted "September 30, 2010" for "September 30, 2009" in introductory provisions.
 
-Subsec. (e)(2). Pub. L. 110–350, §1(2)(A), (B), substituted “February 15, 2011” for “February 15, 2010” and “September 30, 2010” for “September 30, 2009” in introductory provisions.
+Subsec. (e)(2). Pub. L. 110–350, §1(2)(A), (B), substituted "February 15, 2011" for "February 15, 2010" and "September 30, 2010" for "September 30, 2009" in introductory provisions.
 
-Subsec. (e)(3). Pub. L. 110–350, §1(2)(C), substituted “2009, 2010, and 2011” for “2009, and 2010”.
+Subsec. (e)(3). Pub. L. 110–350, §1(2)(C), substituted "2009, 2010, and 2011" for "2009, and 2010".
 
-Subsec. (f). Pub. L. 110–350, §1(1), substituted “July 1, 2010” for “July 1, 2009”.
+Subsec. (f). Pub. L. 110–350, §1(1), substituted "July 1, 2010" for "July 1, 2009".
 
 Pub. L. 110–315, §453(1), redesignated subsec. (d) as (f).
 

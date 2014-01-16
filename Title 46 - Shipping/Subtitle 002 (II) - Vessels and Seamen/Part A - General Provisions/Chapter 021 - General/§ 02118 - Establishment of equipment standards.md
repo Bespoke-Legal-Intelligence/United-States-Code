@@ -12,7 +12,7 @@
 
 (Added Pub. L. 111–281, title VI, §608(a), Oct. 15, 2010, 124 Stat. 2968.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this subtitle,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this subtitle,".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “this subtitle”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "this subtitle".</i>
 

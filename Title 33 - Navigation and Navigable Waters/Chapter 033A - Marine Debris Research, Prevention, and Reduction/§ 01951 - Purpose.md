@@ -6,19 +6,19 @@ The purpose of this chapter is to address the adverse impacts of marine debris o
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: “The purposes of this chapter are—
+<b>2012</b>—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: "The purposes of this chapter are—
 
-&emsp;“(1) to help identify, determine sources of, assess, reduce, and prevent marine debris and its adverse impacts on the marine environment and navigation safety;
+&emsp;"(1) to help identify, determine sources of, assess, reduce, and prevent marine debris and its adverse impacts on the marine environment and navigation safety;
 
-&emsp;“(2) to reactivate the Interagency Marine Debris Coordinating Committee; and
+&emsp;"(2) to reactivate the Interagency Marine Debris Coordinating Committee; and
 
-&emsp;“(3) to develop a Federal marine debris information clearinghouse.”
+&emsp;"(3) to develop a Federal marine debris information clearinghouse."
 
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–213, title VI, §601, Dec. 20, 2012, 126 Stat. 1576, provided that: “This title \[amending this section and sections 1952 to 1956 of this title, transferring section 1914 of this title to section 1954 of this title, repealing sections 1915 and 1954 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Marine Debris Act Amendments of 2012’.”
+Pub. L. 112–213, title VI, §601, Dec. 20, 2012, 126 Stat. 1576, provided that: "This title \[amending this section and sections 1952 to 1956 of this title, transferring section 1914 of this title to section 1954 of this title, repealing sections 1915 and 1954 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Marine Debris Act Amendments of 2012'."
 
 #### Short Title
 
-Pub. L. 109–449, §1, Dec. 22, 2006, 120 Stat. 3333, as amended by Pub. L. 112–213, title VI, §602(a), Dec. 20, 2012, 126 Stat. 1576, provided that: “This Act \[enacting and amending this chapter\] may be cited as the ‘Marine Debris Act’.”
+Pub. L. 109–449, §1, Dec. 22, 2006, 120 Stat. 3333, as amended by Pub. L. 112–213, title VI, §602(a), Dec. 20, 2012, 126 Stat. 1576, provided that: "This Act \[enacting and amending this chapter\] may be cited as the 'Marine Debris Act'."
 

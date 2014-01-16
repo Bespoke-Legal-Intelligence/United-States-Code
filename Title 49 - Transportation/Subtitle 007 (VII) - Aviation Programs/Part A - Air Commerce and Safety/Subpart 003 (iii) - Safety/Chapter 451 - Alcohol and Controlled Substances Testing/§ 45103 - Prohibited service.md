@@ -44,9 +44,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §614(b); added Oct. 28, 1991, Pu
 
 49 App.:1434(b)(3).
 
-In subsection (b), the words “Notwithstanding subsection (a) of this section” are added for clarity.
+In subsection (b), the words "Notwithstanding subsection (a) of this section" are added for clarity.
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–71 substituted “screening employee” for “screening contract employee” wherever appearing.
+<b>2001</b>—Pub. L. 107–71 substituted "screening employee" for "screening contract employee" wherever appearing.
 

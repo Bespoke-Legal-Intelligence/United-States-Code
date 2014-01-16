@@ -40,7 +40,7 @@ The Commissioner shall cause a seal of office to be made for the Administration 
 
 &emsp;(B) the Commissioner shall disclose to the Secretary or to any State any record or information requested in writing by the Secretary to be so disclosed for the purpose of administering any program administered by the Secretary, if records or information of such type were so disclosed under applicable rules, regulations, and procedures in effect before August 15, 1994.
 
-(2) The Commissioner and the Secretary shall enter into an agreement under which the Commissioner provides the Secretary data concerning the quality of the services and information provided to beneficiaries of the programs under subchapters XVIII and XIX of this chapter and the administrative services provided by the Social Security Administration in support of such programs. Such agreement shall stipulate the type of data to be provided and the terms andconditions under which the data are to be provided.
+(2) The Commissioner and the Secretary shall enter into an agreement under which the Commissioner provides the Secretary data concerning the quality of the services and information provided to beneficiaries of the programs under subchapters XVIII and XIX of this chapter and the administrative services provided by the Social Security Administration in support of such programs. Such agreement shall stipulate the type of data to be provided and the terms and conditions under which the data are to be provided.
 
 (3) The Commissioner and the Secretary shall periodically review the need for exchanges of information not referred to in paragraph (1) or (2) and shall enter into such agreements as may be necessary and appropriate to provide information to each other or to States in order to meet the programmatic needs of the requesting agencies.
 
@@ -56,29 +56,29 @@ The Commissioner shall cause a seal of office to be made for the Administration 
 
 <b>1999</b>—Subsec. (b)(1). Pub. L. 106–169 designated existing provisions as subpar. (A) and added subpar. (B).
 
-<b>1994</b>—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretary shall make a full report to Congress, within one hundred and twenty days after the beginning of each regular session, of the administration of the functions with which he is charged under this chapter. In addition to the number of copies of such report authorized by other law to be printed, there is hereby authorized to be printed not more than five thousand copies of such report for use by the Secretary for distribution to Members of Congress and to State and other public or private agencies or organizations participating in or concerned with the social security program.”
+<b>1994</b>—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: "The Secretary shall make a full report to Congress, within one hundred and twenty days after the beginning of each regular session, of the administration of the functions with which he is charged under this chapter. In addition to the number of copies of such report authorized by other law to be printed, there is hereby authorized to be printed not more than five thousand copies of such report for use by the Secretary for distribution to Members of Congress and to State and other public or private agencies or organizations participating in or concerned with the social security program."
 
-<b>1984</b>—Pub. L. 98–369 substituted “Secretary” for “Administrator”.
+<b>1984</b>—Pub. L. 98–369 substituted "Secretary" for "Administrator".
 
-<b>1976</b>—Pub. L. 94–273 substituted “within one hundred and twenty days after the beginning” for “at the beginning”.
+<b>1976</b>—Pub. L. 94–273 substituted "within one hundred and twenty days after the beginning" for "at the beginning".
 
-<b>1950</b>—Act Aug. 28, 1950, substituted “Administrator” for “Board” in first sentence and added second sentence.
+<b>1950</b>—Act Aug. 28, 1950, substituted "Administrator" for "Board" in first sentence and added second sentence.
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–169, title II, §211(b), Dec. 14, 1999, 113 Stat. 1842, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to annual budgets prepared for fiscal years after fiscal year 1999.”
+Pub. L. 106–169, title II, §211(b), Dec. 14, 1999, 113 Stat. 1842, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to annual budgets prepared for fiscal years after fiscal year 1999."
 
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–296, title I, §104(c), Aug. 15, 1994, 108 Stat. 1472, provided that:
 
-“(1)
+"(1)
 
-Effective date.—Section 704(e)(4) of the Social Security Act \[subsec. (e)(4) of this section\] (as amended by subsection (a)) shall take effect March 31, 1996.
+Effective date.—Section 704(e)(4) of the Social Security Act \[42 U.S.C. 904(e)(4)\] (as amended by subsection (a)) shall take effect March 31, 1996.
 
-“(2)
+"(2)
 
-Transition rule.—Notwithstanding any other provision of law (including subsections (b), (o), (p), (q), (r), and (u) of section 552a of title 5, United States Code), arrangements for disclosure of records or other information, and arrangements for computer matching of records, which were in effect immediately before the date of the enactment of this Act \[Aug. 15, 1994\] between the Social Security Administration in the Department of Health and Human Services and other components of such Department may continue between the Social Security Administration established under section 701 of the Social Security Act \[section 901 of this title\] (as amended by this Act) and such Department during the period beginning on the date of the enactment of this Act and ending March 31, 1996.”
+Transition rule.—Notwithstanding any other provision of law (including subsections (b), (o), (p), (q), (r), and (u) of section 552a of title 5, United States Code), arrangements for disclosure of records or other information, and arrangements for computer matching of records, which were in effect immediately before the date of the enactment of this Act \[Aug. 15, 1994\] between the Social Security Administration in the Department of Health and Human Services and other components of such Department may continue between the Social Security Administration established under section 701 of the Social Security Act \[42 U.S.C. 901\] (as amended by this Act) and such Department during the period beginning on the date of the enactment of this Act and ending March 31, 1996."
 
 Amendment by section 104(a) of Pub. L. 103–296 effective Mar. 31, 1995, except as otherwise provided, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 

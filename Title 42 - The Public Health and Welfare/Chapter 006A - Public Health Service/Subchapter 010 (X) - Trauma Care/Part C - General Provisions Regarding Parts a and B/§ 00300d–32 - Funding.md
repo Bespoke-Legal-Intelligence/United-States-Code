@@ -6,7 +6,7 @@ For the purpose of carrying out parts A and B, subject to subsections (b) and (c
 
 #### (b) Reservation of funds
 
-If the amount appropriated under subsection (a) for a fiscal year is equal to or less than$1,000,000, such appropriation is available only for the purpose of carrying out part A. If the amount so appropriated is greater than $1,000,000, 50 percent of such appropriation shall be made available for the purpose of carrying out part A and 50 percent shall be made available for the purpose of carrying out part B.
+If the amount appropriated under subsection (a) for a fiscal year is equal to or less than $1,000,000, such appropriation is available only for the purpose of carrying out part A. If the amount so appropriated is greater than $1,000,000, 50 percent of such appropriation shall be made available for the purpose of carrying out part A and 50 percent shall be made available for the purpose of carrying out part B.
 
 #### (c) Allocation of part A funds
 
@@ -24,19 +24,19 @@ For the purpose of carrying out parts A through C, beginning on March 23, 2010, 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §3504(a)(3)(A), substituted “$24,000,000 for each of fiscal years 2010 through 2014” for “$12,000,000 for fiscal year 2008, $10,000,000 for fiscal year 2009, and $8,000,000 for each of the fiscal years 2010 through 2012”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §3504(a)(3)(A), substituted "$24,000,000 for each of fiscal years 2010 through 2014" for "$12,000,000 for fiscal year 2008, $10,000,000 for fiscal year 2009, and $8,000,000 for each of the fiscal years 2010 through 2012".
 
 Subsec. (d). Pub. L. 111–148, §3504(a)(3)(B), added subsec. (d).
 
 <b>2007</b>—Pub. L. 110–23 amended section generally. Prior to amendment, section related to funding for fiscal years 1994 through 2002.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–392, §413, substituted “through 2002” for “and 1996”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–392, §413, substituted "through 2002" for "and 1996".
 
 Pub. L. 105–392, §401(a)(2), amended directory language of Pub. L. 103–183. See 1993 Amendment note below.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–183, as amended by Pub. L. 105–392, §401(a)(2), substituted “For the purpose of carrying out parts A and B of this subchapter, there are authorized to be appropriated $6,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996” for “For the purpose of carrying out parts A and B of this subchapter, there are authorized to be appropriated $60,000,000 for fiscal year 1991 and such sums as may be necessary for each of the fiscal years 1992 and 1993”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–183, as amended by Pub. L. 105–392, §401(a)(2), substituted "For the purpose of carrying out parts A and B of this subchapter, there are authorized to be appropriated $6,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996" for "For the purpose of carrying out parts A and B of this subchapter, there are authorized to be appropriated $60,000,000 for fiscal year 1991 and such sums as may be necessary for each of the fiscal years 1992 and 1993".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–321 substituted “parts A and B of this subchapter” for “this subchapter”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–321 substituted "parts A and B of this subchapter" for "this subchapter".
 
 #### Effective Date of 1998 Amendment
 

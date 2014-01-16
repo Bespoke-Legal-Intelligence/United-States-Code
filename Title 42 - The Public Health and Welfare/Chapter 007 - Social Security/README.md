@@ -27,7 +27,7 @@
 | [406\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000406%20-%20Representation%20of%20claimants%20before%20Commissioner.md) | Representation of claimants before Commissioner. |
 | [407\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000407%20-%20Assignment%20of%20benefits.md) | Assignment of benefits. |
 | [408\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000408%20-%20Penalties.md) | Penalties. |
-| [409\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000409%20-%20%E2%80%9CWages%E2%80%9D%20defined.md) | “Wages” defined. |
+| [409\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000409%20-%20Wages%20defined.md) | "Wages" defined. |
 | [410\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000410%20-%20Definitions%20relating%20to%20employment.md) | Definitions relating to employment. |
 | [410a.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000410a%20-%20Transferred.md) | Transferred. |
 | [411\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000411%20-%20Definitions%20relating%20to%20self-employment.md) | Definitions relating to self-employment. |
@@ -325,7 +325,7 @@
 | [1203\.](Subchapter%20010%20%28X%29%20-%20Grants%20to%20States%20for%20Aid%20to%20Blind/%C2%A7%2001203%20-%20Payment%20to%20States.md) | Payment to States. |
 | [1204\.](Subchapter%20010%20%28X%29%20-%20Grants%20to%20States%20for%20Aid%20to%20Blind/%C2%A7%2001204%20-%20Operation%20of%20State%20plans.md) | Operation of State plans. |
 | [1205\.](Subchapter%20010%20%28X%29%20-%20Grants%20to%20States%20for%20Aid%20to%20Blind/%C2%A7%2001205%20-%20Omitted.md) | Omitted. |
-| [1206\.](Subchapter%20010%20%28X%29%20-%20Grants%20to%20States%20for%20Aid%20to%20Blind/%C2%A7%2001206%20-%20%E2%80%9CAid%20to%20the%20blind%E2%80%9D%20defined.md) | “Aid to the blind” defined. |
+| [1206\.](Subchapter%20010%20%28X%29%20-%20Grants%20to%20States%20for%20Aid%20to%20Blind/%C2%A7%2001206%20-%20Aid%20to%20the%20blind%20defined.md) | "Aid to the blind" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -344,6 +344,7 @@
 | [1306\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001306%20-%20Disclosure%20of%20information%20in%20possession%20of%20Social%20Security%20Administration%20or%20Department%20of%20Health%20and%20Human%20Services.md) | Disclosure of information in possession of Social Security Administration or Department of Health and Human Services. |
 | [1306a.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001306a%20-%20Public%20access%20to%20State%20disbursement%20records.md) | Public access to State disbursement records. |
 | [1306b.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001306b%20-%20State%20data%20exchanges.md) | State data exchanges. |
+| [1306c.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001306c%20-%20Restriction%20on%20access%20to%20the%20Death%20Master%20File.md) | Restriction on access to the Death Master File. |
 | [1307\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001307%20-%20Penalty%20for%20fraud.md) | Penalty for fraud. |
 | [1308\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001308%20-%20Additional%20grants%20to%20Puerto%20Rico%2C%20Virgin%20Islands%2C%20Guam%2C%20and%20American%20Samoa%3B%20limitation%20on%20total%20payments.md) | Additional grants to Puerto Rico, Virgin Islands, Guam, and American Samoa; limitation on total payments. |
 | [1309\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001309%20-%20Amounts%20disregarded%20not%20to%20be%20taken%20into%20account%20in%20determining%20eligibility%20of%20other%20individuals.md) | Amounts disregarded not to be taken into account in determining eligibility of other individuals. |
@@ -369,7 +370,7 @@
 | 1320a–3. | Disclosure of ownership and related information; procedure; definitions; scope of requirements. |
 | 1320a–3a. | Disclosure requirements for other providers under part B of Medicare. |
 | 1320a–4. | Issuance of subpenas by Comptroller General. |
-| 1320a–5. | Disclosure by institutions, organizations, and agencies of owners, officers, etc., convicted of offenses related to programs; notification requirements; “managing employee” defined. |
+| 1320a–5. | Disclosure by institutions, organizations, and agencies of owners, officers, etc., convicted of offenses related to programs; notification requirements; "managing employee" defined. |
 | 1320a–6. | Adjustments in SSI benefits on account of retroactive benefits under subchapter II. |
 | 1320a–7. | Exclusion of certain individuals and entities from participation in Medicare and State health care programs. |
 | 1320a–7a. | Civil monetary penalties. |
@@ -393,7 +394,7 @@
 | [1320b.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001320b%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93647%2C%20%C2%A73%28e%29%281%29%2C%20Jan.%204%2C%201975%2C%2088%20Stat.%202349.md) | Repealed. |
 | 1320b–1. | Notification of Social Security claimant with respect to deferred vested benefits. |
 | 1320b–2. | Period within which certain claims must be filed. |
-| 1320b–3. | Applicants or recipients under public assistance programs not to be required to make election respecting certain veterans’ benefits. |
+| 1320b–3. | Applicants or recipients under public assistance programs not to be required to make election respecting certain veterans' benefits. |
 | 1320b–4. | Nonprofit hospital or critical access hospital philanthropy. |
 | 1320b–5. | Authority to waive requirements during national emergencies. |
 | 1320b–6. | Exclusion of representatives and health care providers convicted of violations from participation in social security programs. |
@@ -476,7 +477,7 @@
 | [1321\.](Subchapter%20012%20%28XII%29%20-%20Advances%20to%20State%20Unemployment%20Funds/%C2%A7%2001321%20-%20Eligibility%20requirements%20for%20transfer%20of%20funds%3B%20reimbursement%20by%20State%3B%20application%3B%20certification%3B%20limitation.md) | Eligibility requirements for transfer of funds; reimbursement by State; application; certification; limitation. |
 | [1322\.](Subchapter%20012%20%28XII%29%20-%20Advances%20to%20State%20Unemployment%20Funds/%C2%A7%2001322%20-%20Repayment%20by%20State%3B%20certification%3B%20transfer%3B%20interest%20on%20loan%3B%20credit%20of%20interest%20on%20loan.md) | Repayment by State; certification; transfer; interest on loan; credit of interest on loan. |
 | [1323\.](Subchapter%20012%20%28XII%29%20-%20Advances%20to%20State%20Unemployment%20Funds/%C2%A7%2001323%20-%20Repayable%20advances%20to%20Federal%20unemployment%20account.md) | Repayable advances to Federal unemployment account. |
-| [1324\.](Subchapter%20012%20%28XII%29%20-%20Advances%20to%20State%20Unemployment%20Funds/%C2%A7%2001324%20-%20%E2%80%9CGovernor%E2%80%9D%20defined.md) | “Governor” defined. |
+| [1324\.](Subchapter%20012%20%28XII%29%20-%20Advances%20to%20State%20Unemployment%20Funds/%C2%A7%2001324%20-%20Governor%20defined.md) | "Governor" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -628,7 +629,7 @@
 | 1395w–3. | Competitive acquisition of certain items and services. |
 | 1395w–3a. | Use of average sales price payment methodology. |
 | 1395w–3b. | Competitive acquisition of outpatient drugs and biologicals. |
-| 1395w–4. | Payment for physicians’ services. |
+| 1395w–4. | Payment for physicians' services. |
 | 1395w–5. | Public reporting of performance information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -776,7 +777,7 @@
 | [1396c.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396c%20-%20Operation%20of%20State%20plans.md) | Operation of State plans. |
 | [1396d.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396d%20-%20Definitions.md) | Definitions. |
 | [1396e.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396e%20-%20Enrollment%20of%20individuals%20under%20group%20health%20plans.md) | Enrollment of individuals under group health plans. |
-| 1396e–1. | Premium assistance option for children. |
+| 1396e–1. | Premium assistance. |
 | [1396f.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396f%20-%20Observance%20of%20religious%20beliefs.md) | Observance of religious beliefs. |
 | [1396g.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396g%20-%20State%20programs%20for%20licensing%20of%20administrators%20of%20nursing%20homes.md) | State programs for licensing of administrators of nursing homes. |
 | 1396g–1. | Required laws relating to medical child support. |

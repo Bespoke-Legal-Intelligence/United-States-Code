@@ -6,11 +6,11 @@ If, in a determination made under the provisions of subsection 303(a), the Direc
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 struck out “of this title” after “303(a)” and after “302”.
+<b>2011</b>—Pub. L. 112–29 struck out "of this title" after "303(a)" and after "302".
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in section catchline and text.
+<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" in section catchline and text.
 
 #### Effective Date of 2011 Amendment
 
@@ -18,5 +18,5 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 

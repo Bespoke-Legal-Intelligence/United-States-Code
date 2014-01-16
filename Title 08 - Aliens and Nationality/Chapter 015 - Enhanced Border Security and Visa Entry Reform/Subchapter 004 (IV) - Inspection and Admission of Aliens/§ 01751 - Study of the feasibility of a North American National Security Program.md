@@ -14,7 +14,7 @@ In conducting the study required by subsection (a) of this section, the Presiden
 
 #### (2) Preinspection
 
-&emsp;The feasibility of expanding preinspection facilities at foreign airports as described in section 1225a of this title. Consideration shall be given to the feasibility of expanding preinspections to foreign nationals on air flights destined for Canada and Mexico, and the cross training and funding of inspectors from Canada and Mexico.
+&emsp;The feasibility of expanding preinspection facilities at foreign airports as described in section 1225a of this title. Consideration shallbe given to the feasibility of expanding preinspections to foreign nationals on air flights destined for Canada and Mexico, and the cross training and funding of inspectors from Canada and Mexico.
 
 #### (3) Conditions
 

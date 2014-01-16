@@ -10,7 +10,7 @@ The provisions of article IX, paragraph 5(a) of the Agreement referred to in sec
 
 #### (c) Authorization
 
-Funding to implement the provisions of this part, and for assistance to the central health care facility and the prison in Palau, and the offices of Public Auditor and Special Prosecutor as proposed in the agreement entitled “Agreement Concerning Special Programs related to the Entry into Force of the Compact of Free Association Between the Government of the United States and the Government of the Republic of Palau” signed on May 26, 1989, shall be available pursuant to the authorization in section 105(c) of Public Law 99–239 \[48 U.S.C. 1905(c)\] as referenced by section 102(b) of Public Law 99–658 \[48 U.S.C. 1932(b)\] or from funds appropriated for technical assistance to the Secretary of the Interior.
+Funding to implement the provisions of this part, and for assistance to the central health care facility and the prison in Palau, and the offices of Public Auditor and Special Prosecutor as proposed in the agreement entitled "Agreement Concerning Special Programs related to the Entry into Force of the Compact of Free Association Between the Government of the United States and the Government of the Republic of Palau" signed on May 26, 1989, shall be available pursuant to the authorization in section 105(c) of Public Law 99–239 \[48 U.S.C. 1905(c)\] as referenced by section 102(b) of Public Law 99–658 \[48 U.S.C. 1932(b)\] or from funds appropriated for technical assistance to the Secretary of the Interior.
 
 (Pub. L. 101–219, title I, §110, Dec. 12, 1989, 103 Stat. 1872.)
 
@@ -22,15 +22,15 @@ The Compact of Free Association as approved by Public Law 99–239, referred to 
 
 The Compact of Free Association for Palau as approved by Public Law 99–658, referred to in subsec. (b), is the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
 
-Public Law 99–239, referred to in subsec. (b), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to part A of subchapter I of this chapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+Public Law 99–239, referred to in subsec. (b), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, knownas the Compact of Free Association Act of 1985, which is classified principally to part A of subchapter I of this chapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 Public Law 99–658, referred to in subsec. (b), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended, which is classified generally to part A of this subchapter. For complete classification of this Act to the Code, see Tables.
 
-This part, referred to in subsec. (c), was in the original “this title”, meaning title I of Pub. L. 101–219, Dec. 12, 1989, 103 Stat. 1870, which enacted this part and amended section 1933 of this title. For complete classification of this title to the Code, see Tables.
+This part, referred to in subsec. (c), was in the original "this title", meaning title I of Pub. L. 101–219, Dec. 12, 1989, 103 Stat. 1870, which enacted this part and amended section 1933 of this title. For complete classification of this title to the Code, see Tables.
 
 #### Codification
 
 Section was formerly set out as a note under section 1681 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “103”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "103".</i>
 

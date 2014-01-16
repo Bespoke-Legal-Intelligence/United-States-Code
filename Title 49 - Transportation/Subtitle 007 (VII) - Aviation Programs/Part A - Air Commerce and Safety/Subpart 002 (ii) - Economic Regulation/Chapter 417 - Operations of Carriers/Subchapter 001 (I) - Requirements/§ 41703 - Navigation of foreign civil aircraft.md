@@ -42,7 +42,7 @@ In general.—For the purposes of subsection (c), eligible cargo taken on or off
 
 &emsp;(2)
 
-Eligible cargo.—For purposes of paragraph (1), the term “eligible cargo” means cargo transported between Alaska and any other place in the United States on a foreign air carrier (having been transported from, or thereafter being transported to, a place outside the United States on a different air carrier or foreign air carrier) that is carried—
+Eligible cargo.—For purposes of paragraph (1), the term "eligible cargo" means cargo transported between Alaska and any other place in the United States on a foreign air carrier (having been transported from, or thereafter being transported to, a place outside the United States on a different air carrier or foreign air carrier) that is carried—
 
 &emsp;&emsp;(A) under the code of a United States air carrier providing air transportation to Alaska;
 
@@ -98,13 +98,13 @@ Aug. 23, 1958, Pub. L. 85–726, §1108(b) (3d sentence), 72 Stat. 799; Feb. 15,
 
 49 App.:1508(b) (last sentence).
 
-In subsection (a), the word “country” is substituted for “nation” for consistency in the revised title and with other titles of the United States Code. In clause (3), the words “permit, order, or regulation issued” are omitted as surplus. In clause (4), the words “conditions, and limitations” are omitted as being included in “terms”.
+In subsection (a), the word "country" is substituted for "nation" for consistency in the revised title and with other titles of the United States Code. In clause (3), the words "permit, order, or regulation issued" are omitted as surplus. In clause (4), the words "conditions, and limitations" are omitted as being included in "terms".
 
-In subsection (b)(2), the word “agreement” is substituted for “treaty, convention, or agreement” for clarity and consistency in the revised title. The words “which may be in force” are omitted as surplus. The words “or countries” are omitted because of 1:1.
+In subsection (b)(2), the word "agreement" is substituted for "treaty, convention, or agreement" for clarity and consistency in the revised title. The words "which may be in force" are omitted as surplus. The words "or countries" are omitted because of 1:1.
 
-In subsection (c), before clause (1), the word “place” is substituted for “point”, and the word “passengers” is substituted for “persons”, for consistency in the revised title.
+In subsection (c), before clause (1), the word "place" is substituted for "point", and the word "passengers" is substituted for "persons", for consistency in the revised title.
 
-In subsection (d), the word “affect” is substituted for “limit, modify, or amend” to eliminate unnecessary words.
+In subsection (d), the word "affect" is substituted for "limit, modify, or amend" to eliminate unnecessary words.
 
 #### Amendments
 

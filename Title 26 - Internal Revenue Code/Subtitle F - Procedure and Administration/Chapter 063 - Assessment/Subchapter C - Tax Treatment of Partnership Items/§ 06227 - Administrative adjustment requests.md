@@ -66,13 +66,13 @@ If any partner files a request for an administrative adjustment (other than a re
 
 #### (e) Requests with respect to bad debts or worthless securities
 
-In the case of that portion of any request for an administrative adjustment which relates tothe deductibility by the partnership under section 166 of a debt as a debt which became worthless, or under section 165(g) of a loss from worthlessness of a security, the period prescribed in subsection (a)(1) shall be 7 years from the last day for filing the partnership return for the year with respect to which such request is made (determined without regard to extensions).
+In the case of that portion of any request for an administrative adjustment which relates to the deductibility by the partnership under section 166 of a debt as a debt which became worthless, or under section 165(g) of a loss from worthlessness of a security, the period prescribed in subsection (a)(1) shall be 7 years from the last day for filing the partnership return for the year with respect to which such request is made (determined without regard to extensions).
 
 (Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 655; amended Pub. L. 105–34, title XII, §§1236(a), 1243(a), Aug. 5, 1997, 111 Stat. 1025, 1029; Pub. L. 107–147, title IV, §417(19)(A), Mar. 9, 2002, 116 Stat. 56.)
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–147 substituted “subsection (c)” for “subsection (b)” in introductory provisions.
+<b>2002</b>—Subsec. (d). Pub. L. 107–147 substituted "subsection (c)" for "subsection (b)" in introductory provisions.
 
 <b>1997</b>—Subsecs. (b) to (d). Pub. L. 105–34, §1236(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
@@ -80,21 +80,21 @@ Subsec. (e). Pub. L. 105–34, §1243(a), added subsec. (e).
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XII, §1236(b), Aug. 5, 1997, 111 Stat. 1025, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
+Pub. L. 105–34, title XII, §1236(b), Aug. 5, 1997, 111 Stat. 1025, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\]."
 
 Pub. L. 105–34, title XII, §1243(b), Aug. 5, 1997, 111 Stat. 1029, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].
 
-“(2)
+"(2)
 
 Treatment of requests filed before date of enactment.—In the case of that portion of any request (filed before the date of the enactment of this Act \[Aug. 5, 1997\]) for an administrative adjustment which relates to the deductibility of a debt as a debt which became worthless or the deductibility of a loss from the worthlessness of a security—
 
-&emsp;“(A) paragraph (2) of section 6227(a) of the Internal Revenue Code of 1986 shall not apply,
+&emsp;"(A) paragraph (2) of section 6227(a) of the Internal Revenue Code of 1986 shall not apply,
 
-&emsp;“(B) the period for filing a petition under section 6228 of the Internal Revenue Code of 1986 with respect to such request shall not expire before the date 6 months after the date of the enactment of this Act, and
+&emsp;"(B) the period for filing a petition under section 6228 of the Internal Revenue Code of 1986 with respect to such request shall not expire before the date 6 months after the date of the enactment of this Act, and
 
-&emsp;“(C) such a petition may be filed without regard to whether there was a notice of the beginning of an administrative proceeding or a final partnership administrative adjustment.”
+&emsp;"(C) such a petition may be filed without regard to whether there was a notice of the beginning of an administrative proceeding or a final partnership administrative adjustment."
 

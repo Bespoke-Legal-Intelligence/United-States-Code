@@ -14,7 +14,7 @@ R.S. §4397 derived from Res. Feb. 9, 1871, No. 22, §3, 16 Stat. 594.
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–470 struck out provision requiring a detailed statement of expenditures under all appropriations for “propagation of fishes” be submitted annually to Congress at the beginning of each session.
+<b>1980</b>—Pub. L. 96–470 struck out provision requiring a detailed statement of expenditures under all appropriations for "propagation of fishes" be submitted annually to Congress at the beginning of each session.
 
 #### Transfer of Functions
 
@@ -28,5 +28,5 @@ Reorg. Plan No. II of 1939, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat
 
 #### Survey of Marine and Fresh-Water Resources
 
-Act May 11, 1944, ch. 195, 58 Stat. 220, which expired January 1, 1945, provided for a comprehensive survey of all marine, fresh-water, and other aquatic resources of the United States, its Territories, and possessions; andfor a report on survey, together with recommendations to Congress. It also appropriated $20,000 to carry out the purposes of the act.
+Act May 11, 1944, ch. 195, 58 Stat. 220, which expired January 1, 1945, provided for a comprehensive survey of all marine, fresh-water, and other aquatic resources of the United States, its Territories, and possessions; and for a report on survey, together with recommendations to Congress. It also appropriated $20,000 to carry out the purposes of the act.
 

@@ -26,7 +26,7 @@ The Administrator may designate up to 1 percent of the total amount provided to 
 
 #### (c) Restriction on use of funds
 
-Oversight funds may not be used to finance existing agency oversight responsibilities relatedto direct agency appropriations used for disaster response, relief, and recovery activities.
+Oversight funds may not be used to finance existing agency oversight responsibilities related to direct agency appropriations used for disaster response, relief, and recovery activities.
 
 #### (d) Methods of oversight activities
 

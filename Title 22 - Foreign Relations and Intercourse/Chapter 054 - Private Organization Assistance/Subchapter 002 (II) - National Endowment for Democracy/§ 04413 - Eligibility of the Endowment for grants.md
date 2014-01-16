@@ -56,17 +56,17 @@ After January 31, 1993, no member of the Board of the Endowment may be a member 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (f)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (f)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in two places.
 
-<b>1994</b>—Subsec. (h)(1). Pub. L. 103–236 substituted “bank accounts or separate self-balancing ledger accounts” for “accounts”.
+<b>1994</b>—Subsec. (h)(1). Pub. L. 103–236 substituted "bank accounts or separate self-balancing ledger accounts" for "accounts".
 
-<b>1991</b>—Subsec. (g). Pub. L. 102–138, §211(d), substituted “shall” for “may also” before “be audited”.
+<b>1991</b>—Subsec. (g). Pub. L. 102–138, §211(d), substituted "shall" for "may also" before "be audited".
 
 Subsec. (j). Pub. L. 102–138, §215, added subsec. (j).
 
-<b>1987</b>—Subsec. (h)(1). Pub. L. 100–204 inserted “separate accounts with respect to such assistance and” after “keeps”.
+<b>1987</b>—Subsec. (h)(1). Pub. L. 100–204 inserted "separate accounts with respect to such assistance and" after "keeps".
 
-<b>1985</b>—Subsecs. (g) to (i). Pub. L. 99–93 added subsec. (g), redesignated existing subsecs. (g) and (h) as (h) and (i), respectively, and in subsec. (i) substituted “February 1” for “December 31”.
+<b>1985</b>—Subsecs. (g) to (i). Pub. L. 99–93 added subsec. (g), redesignated existing subsecs. (g) and (h) as (h) and (i), respectively, and in subsec. (i) substituted "February 1" for "December 31".
 
 #### Transfer of Functions
 

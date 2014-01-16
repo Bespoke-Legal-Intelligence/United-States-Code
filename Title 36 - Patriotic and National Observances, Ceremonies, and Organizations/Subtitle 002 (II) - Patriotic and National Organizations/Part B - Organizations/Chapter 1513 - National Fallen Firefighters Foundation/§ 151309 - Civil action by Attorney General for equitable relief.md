@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 Oct. 26, 1992, Pub. L. 102–522, title II, §207(c), 106 Stat. 3420.
 
-Before clause (1), the words “bring a civil action” are substituted for “petition” for consistency in the revised title and with other titles of the United States Code. The words “appropriate equitable relief” are substituted for “such equitable relief as may be necessary or appropriate” to eliminate unnecessary words.
+Before clause (1), the words "bring a civil action" are substituted for "petition" for consistency in the revised title and with other titles of the United States Code. The words "appropriate equitable relief" are substituted for "such equitable relief as may be necessary or appropriate" to eliminate unnecessary words.
 

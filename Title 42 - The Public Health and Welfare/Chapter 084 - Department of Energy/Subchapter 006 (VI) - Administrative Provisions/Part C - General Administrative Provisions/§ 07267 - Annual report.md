@@ -10,7 +10,7 @@ The Secretary shall, as soon as practicable after the end of each fiscal year, c
 
 &emsp;(2) an estimate of (A) the domestic and foreign energy supply on which the United States will be expected to rely to meet such needs in an economic manner with due regard for the protection of the environment, the conservation of natural resources, and the implementation of foreign policy objectives, and (B) the quantities of energy expected to be provided by different sources (including petroleum, natural and synthetic gases, coal, uranium, hydroelectric, solar, and other means) and the expected means of obtaining such quantities;
 
-&emsp;(3) current and foreseeable trends in the price, quality, management, and utilization ofenergy resources and the effects of those trends on the social, environmental, economic, and other requirements of the Nation;
+&emsp;(3) current and foreseeable trends in the price, quality, management, and utilization of energy resources and the effects of those trends on the social, environmental, economic, and other requirements of the Nation;
 
 &emsp;(4) a summary of research and development efforts funded by the Federal Government to develop new technologies, to forestall energy shortages, to reduce waste, to foster recycling, to encourage conservation practices, and to increase efficiency; and further such summary shall include a description of the activities the Department is performing in support of environmental, social, economic and institutional, biomedical, physical and safety research, development, demonstration, and monitoring activities necessary to guarantee that technological programs, funded by the Department, are undertaken in a manner consistent with and capable of maintaining or improving the quality of the environment and of mitigating any undesirable environmental and safety impacts;
 
@@ -28,11 +28,11 @@ The Secretary shall, as soon as practicable after the end of each fiscal year, c
 
 Section 5914 of this title, referred to in text, was omitted from the Code.
 
-This chapter, referred to in par. (5), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in par. (5), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
 
-<b>1995</b>—Pub. L. 104–66 inserted “section 6325(c) of this title, section 10224(c) of this title,” after “section 774 of title 15,” in introductory provisions.
+<b>1995</b>—Pub. L. 104–66 inserted "section 6325(c) of this title, section 10224(c) of this title," after "section 774 of title 15," in introductory provisions.
 
 #### Termination of Reporting Requirements
 

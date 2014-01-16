@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Any foreign public accounting firm that prepares or furnishes an audit report with respect to any issuer, broker, or dealer, shall be subject to this Act and the rules of the Board and the Commission issued under this Act, in the same manner and to the same extent as a public accounting firm that is organized and operates under the laws of the United States or any State, except that registration pursuantto section 7212 of this title shall not by itself provide a basis for subjecting such a foreign public accounting firm to the jurisdiction of the Federal or State courts, other than with respect to controversies between such firms and the Board.
+&emsp;Any foreign public accounting firm that prepares or furnishes an audit report with respect to any issuer, broker, or dealer, shall be subject to this Act and the rules of the Board and the Commission issued under this Act, in the same manner and to the same extent as a public accounting firm that is organized and operates under the laws of the United States or any State, except that registration pursuant to section 7212 of this title shall not by itself provide a basis for subjecting such a foreign public accounting firm to the jurisdiction of the Federal or State courts, other than with respect to controversies between such firms and the Board.
 
 #### (2) Board authority
 
@@ -52,7 +52,7 @@ Notwithstanding any other provisions of this section, the staff of the Commissio
 
 #### (g) Definition
 
-In this section, the term “foreign public accounting firm” means a public accounting firm that is organized and operates under the laws of a foreign government or political subdivision thereof.
+In this section, the term "foreign public accounting firm" means a public accounting firm that is organized and operates under the laws of a foreign government or political subdivision thereof.
 
 (Pub. L. 107–204, title I, §106, July 30, 2002, 116 Stat. 764; Pub. L. 111–203, title IX, §§929J, 982(g), July 21, 2010, 124 Stat. 1859, 1930.)
 
@@ -62,9 +62,9 @@ This Act, referred to in subsecs. (a), (c), and (e), is Pub. L. 107–204, July 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §982(g)(1), substituted “issuer, broker, or dealer” for “issuer”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §982(g)(1), substituted "issuer, broker, or dealer" for "issuer".
 
-Subsec. (a)(2). Pub. L. 111–203, §982(g)(2), substituted “issuers, brokers, or dealers” for “issuers”.
+Subsec. (a)(2). Pub. L. 111–203, §982(g)(2), substituted "issuers, brokers, or dealers" for "issuers".
 
 Subsec. (b). Pub. L. 111–203, §929J(1), added subsec. (b) and struck out former subsec. (b) which related to deemed consent to production of audit workpapers by foreign and domestic firms.
 

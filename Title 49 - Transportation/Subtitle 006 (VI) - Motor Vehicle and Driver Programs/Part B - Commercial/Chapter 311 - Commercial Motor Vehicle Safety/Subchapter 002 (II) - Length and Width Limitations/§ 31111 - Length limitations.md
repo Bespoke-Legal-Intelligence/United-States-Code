@@ -6,15 +6,15 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Automobile transporter.—The term “automobile transporter” means any vehicle combination designed and used specifically for the transport of assembled highway vehicles, including truck camper units.
+Automobile transporter.—The term "automobile transporter" means any vehicle combination designed and used specifically for the transport of assembled highway vehicles, including truck camper units.
 
 &emsp;(2)
 
-Maxi-cube vehicle.—The term “maxi-cube vehicle” means a truck tractor combined with a semitrailer and a separable property-carrying unit designed to be loaded and unloaded through the semitrailer, with the length of the separable property-carrying unit being not more than 34 feet and the length of the vehicle combination being not more than 65 feet.
+Maxi-cube vehicle.—The term "maxi-cube vehicle" means a truck tractor combined with a semitrailer and a separable property-carrying unit designed to be loaded and unloaded through the semitrailer, with the length of the separable property-carrying unit being not more than 34 feet and the length of the vehicle combination being not more than 65 feet.
 
 &emsp;(3)
 
-Truck tractor.—The term “truck tractor” means—
+Truck tractor.—The term "truck tractor" means—
 
 &emsp;&emsp;(A) a non-property-carrying power unit that operates in combination with a semitrailer or trailer; or
 
@@ -22,13 +22,13 @@ Truck tractor.—The term “truck tractor” means—
 
 &emsp;(4)
 
-Driveaway saddlemount vehicle transporter combination.—The term “driveaway saddlemount vehicle transporter combination” means a vehicle combination designed and specifically used to tow up to 3 trucks or truck tractors, each connected by a saddle to the frame or fifth-wheel of the forward vehicle of the truck or truck tractor in front of it. Such combination may include one fullmount.
+Driveaway saddlemount vehicle transporter combination.—The term "driveaway saddlemount vehicle transporter combination" means a vehicle combination designed and specifically used to tow up to 3 trucks or truck tractors, each connected by a saddle to the frame or fifth-wheel of the forward vehicle of the truck or truck tractor in front of it. Such combination may include one fullmount.
 
 (b)
 
 General Limitations.—(1) Except as provided in this section, a State may not prescribe or enforce a regulation of commerce that—
 
-&emsp;(A) imposes a vehicle length limitation of less than 45 feet on a bus, of less than 48 feet on a semitrailer operating in a truck tractor-semitrailer combination, or of less than 28 feet on a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination, onany segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under subsection (e) of this section;
+&emsp;(A) imposes a vehicle length limitation of less than 45 feet on a bus, of less than 48 feet on a semitrailer operating in a truck tractor-semitrailer combination, or of less than 28 feet on a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination, on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under subsection (e) of this section;
 
 &emsp;(B) imposes an overall length limitation on a commercial motor vehicle operating in a truck tractor-semitrailer or truck tractor-semitrailer-trailer combination;
 
@@ -72,7 +72,7 @@ Exemptions.—(1) If the chief executive officer of a State, after consulting un
 
 Accommodating Specialized Equipment.—In prescribing regulations to carry out this section, the Secretary may make decisions necessary to accommodate specialized equipment, including automobile and vessel transporters and maxi-cube vehicles.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993; Pub. L. 104–88, title I, §104(b), Dec. 29, 1995, 109 Stat. 919; Pub. L. 105–178, title IV, §4005, June 9, 1998, 112 Stat. 400; Pub. L. 109–59, title IV, §4141,Aug. 10, 2005, 119 Stat. 1746; Pub. L. 110–244, title III, §301(r), June 6, 2008, 122 Stat. 1617.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993; Pub. L. 104–88, title I, §104(b), Dec. 29, 1995, 109 Stat. 919; Pub. L. 105–178, title IV, §4005, June 9, 1998, 112 Stat. 400; Pub. L. 109–59, title IV, §4141, Aug. 10, 2005, 119 Stat. 1746; Pub. L. 110–244, title III, §301(r), June 6, 2008, 122 Stat. 1617.)
 
 Historical and Revision Notes
 
@@ -140,47 +140,47 @@ Jan. 6, 1983, Pub. L. 97–424, §411(d), 96 Stat. 2160; Apr. 2, 1987, Pub. L. 1
 
 49 App.:2311(g).
 
-In this section, the words “Dwight D. Eisenhower System of Interstate and Defense Highways” are substituted for “National System of Interstate and Defense Highways” because of the Act of October 15, 1990 (Public Law 101–427, 104 Stat. 927).
+In this section, the words "Dwight D. Eisenhower System of Interstate and Defense Highways" are substituted for "National System of Interstate and Defense Highways" because of the Act of October 15, 1990 (Public Law 101–427, 104 Stat. 927).
 
-In subsection (a), the word “property” is substituted for “cargo” for consistency in the revised title.
+In subsection (a), the word "property" is substituted for "cargo" for consistency in the revised title.
 
-Subsection (b)(1) is substituted for 49 App.:2311(a) and (b) (2d–last sentences) to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. Hyphens are used in describing the combinations “truck tractor-semitrailer” and “truck tractor-semitrailer-trailer” for consistency. In clause (D), the word “actually” is omitted as surplus.
+Subsection (b)(1) is substituted for 49 App.:2311(a) and (b) (2d–last sentences) to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. Hyphens are used in describing the combinations "truck tractor-semitrailer" and "truck tractor-semitrailer-trailer" for consistency. In clause (D), the word "actually" is omitted as surplus.
 
 Subsection (b)(2) is substituted for 49 App.:2311(b) (1st sentence) because of the restatement.
 
-In subsection (d), the words “such as rear view mirrors, turn signal lamps, marker lamps, steps and handholds for entry and egress, flexible fender extensions, mudflaps and splash and spray suppressant devices, load-induced tire bulge, refrigeration units or air compressors and other devices” are omitted as unnecessary and because most items listed relate to width rather than length.
+In subsection (d), the words "such as rear view mirrors, turn signal lamps, marker lamps, steps and handholds for entry and egress, flexible fender extensions, mudflaps and splash and spray suppressant devices, load-induced tire bulge, refrigeration units or air compressors and other devices" are omitted as unnecessary and because most items listed relate to width rather than length.
 
-In subsection (e), the words “by regulation” are added for clarity. The words “subject to the provisions of subsections (a) and (c) of this section” are omitted as surplus. The text of 49 App.:2311(e)(2) and (3) is omitted as executed.
+In subsection (e), the words "by regulation" are added for clarity. The words "subject to the provisions of subsections (a) and (c) of this section" are omitted as surplus. The text of 49 App.:2311(e)(2) and (3) is omitted as executed.
 
-In subsection (f), the word “commercial” is added before “motor vehicle” for consistency.
+In subsection (f), the word "commercial" is added before "motor vehicle" for consistency.
 
-In subsection (f)(4)(C), the reference to regulations prescribed under subsection (e) is substituted for the reference in the source to regulations issued under subsection (a) to be more precise. The word “amendment” is substituted for “revision” for consistency in the revised title.
+In subsection (f)(4)(C), the reference to regulations prescribed under subsection (e) is substituted for the reference in the source to regulations issued under subsection (a) to be more precise. The word "amendment" is substituted for "revision" for consistency in the revised title.
 
-Subsection (g) is substituted for 49 App.:2311(d) to eliminate unnecessary words. The Secretary's general authority to prescribe regulations is provided in 49:322(a). The word “vessel” is substituted for “boat” because of 1:3. The text of 49 App.:2311(g) is omitted as executed.
+Subsection (g) is substituted for 49 App.:2311(d) to eliminate unnecessary words. The Secretary's general authority to prescribe regulations is provided in 49:322(a). The word "vessel" is substituted for "boat" because of 1:3. The text of 49 App.:2311(g) is omitted as executed.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(4). Pub. L. 110–244, §301(r)(1), in heading, substituted “Driveaway saddlemount” for “Drive-away saddlemount with fullmount”, and, in text, substituted “driveaway saddlemount” for “drive-away saddlemount with fullmount” and inserted at end “Such combination may include one fullmount.”
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–244, §301(r)(1), in heading, substituted "Driveaway saddlemount" for "Drive-away saddlemount with fullmount", and, in text, substituted "driveaway saddlemount" for "drive-away saddlemount with fullmount" and inserted at end "Such combination may include one fullmount."
 
-Subsec. (b)(1)(D). Pub. L. 110–244, §301(r)(2), substituted “all driveaway saddlemount” for “a driveaway saddlemount with fullmount”.
+Subsec. (b)(1)(D). Pub. L. 110–244, §301(r)(2), substituted "all driveaway saddlemount" for "a driveaway saddlemount with fullmount".
 
 <b>2005</b>—Subsec. (a)(4). Pub. L. 109–59, §4141(a), added par. (4).
 
 Subsec. (b)(1)(D) to (F). Pub. L. 109–59, §4141(b), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–178, §4005(1), substituted “section, the following definitions apply:” for “section—” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §4005(1), substituted "section, the following definitions apply:" for "section—" in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 105–178, §4005(5), added par. (1). Former par. (1) redesignated (2).
 
-Pub. L. 105–178, §4005(2), inserted “
+Pub. L. 105–178, §4005(2), inserted "
 
-Maxi-cube vehicle.—The term” after “(1)”.
+Maxi-cube vehicle.—The term" after "(1)".
 
 Subsec. (a)(2). Pub. L. 105–178, §4005(4), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-Pub. L. 105–178, §4005(3), inserted “
+Pub. L. 105–178, §4005(3), inserted "
 
-Truck tractor.—The term” after “(2)”.
+Truck tractor.—The term" after "(2)".
 
 Subsec. (a)(3). Pub. L. 105–178, §4005(4), redesignated par. (2) as (3).
 

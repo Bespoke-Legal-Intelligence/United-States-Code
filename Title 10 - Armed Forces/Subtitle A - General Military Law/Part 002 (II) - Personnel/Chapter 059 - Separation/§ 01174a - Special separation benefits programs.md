@@ -40,7 +40,7 @@ Eligibility.—Subject to subsections (d) and (e), a member of an armed force is
 
 (d)
 
-Program Applicability.—The Secretary concerned may provide for the program underthis section to apply to any of the following members:
+Program Applicability.—The Secretary concerned may provide for the program under this section to apply to any of the following members:
 
 &emsp;(1) A regular officer or warrant officer of an armed force.
 
@@ -50,7 +50,7 @@ Program Applicability.—The Secretary concerned may provide for the program und
 
 (e)
 
-Applicability Subject to Needs of the Service.—(1) Subject to paragraphs (2) and (3), the Secretary concerned may limit the applicability of a program under this section to any category of personnel defined by the Secretary in order to meet a need of the armed force under the Secretary's jurisdiction to reduce the number of members in certain grades, the number of members who have completed a certain number of years of active service, or the number of members who possess certain military skills or are serving in designated competitive categories.
+Applicability Subject to Needs of the Service.—(1) Subject to paragraphs (2) and (3),the Secretary concerned may limit the applicability of a program under this section to any category of personnel defined by the Secretary in order to meet a need of the armed force under the Secretary's jurisdiction to reduce the number of members in certain grades, the number of members who have completed a certain number of years of active service, or the number of members who possess certain military skills or are serving in designated competitive categories.
 
 (2) Any category prescribed by the Secretary concerned for regular officers, regular enlisted members, or other members pursuant to paragraph (1) shall be consistent with the categories applicable to regular officers, regular enlisted members, or other members, respectively, under the voluntary separation incentive program under section 1175 of this title or any other program established by law or by that Secretary for the involuntary separation of such members in the administration of a reduction in force.
 
@@ -86,43 +86,43 @@ Termination of Program.—(1) Except as provided in paragraph (2), the Secretary
 
 <b>2013</b>—Subsec. (b)(2)(B). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-<b>2011</b>—Subsec. (b)(2)(B). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404” and substituted “476” for “406” in two places.
+<b>2011</b>—Subsec. (b)(2)(B). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404" and substituted "476" for "406" in two places.
 
-<b>2000</b>—Subsec. (h)(1). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
+<b>2000</b>—Subsec. (h)(1). Pub. L. 106–398 substituted "December 31, 2001" for "September 30, 2001".
 
-<b>1998</b>—Subsec. (h)(1). Pub. L. 105–261 substituted “September 30, 2001” for “September 30, 1999”.
+<b>1998</b>—Subsec. (h)(1). Pub. L. 105–261 substituted "September 30, 2001" for "September 30, 1999".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337, §542(b)(1), substituted “concerned” for “of each military department”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §542(b)(1), substituted "concerned" for "of each military department".
 
-Subsec. (d). Pub. L. 103–337, §542(b)(2), substituted “concerned” for “of a military department”.
+Subsec. (d). Pub. L. 103–337, §542(b)(2), substituted "concerned" for "of a military department".
 
-Subsec. (e)(3). Pub. L. 103–337, §542(b)(3), struck out “of the military department” after “Secretary”.
+Subsec. (e)(3). Pub. L. 103–337, §542(b)(3), struck out "of the military department" after "Secretary".
 
-Subsec. (h). Pub. L. 103–337, §542(b)(4), substituted “concerned” for “of a military department”.
+Subsec. (h). Pub. L. 103–337, §542(b)(4), substituted "concerned" for "of a military department".
 
-<b>1993</b>—Subsec. (c)(2). Pub. L. 103–160, §502, struck out “before December 5, 1991” after “6 years”.
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–160, §502, struck out "before December 5, 1991" after "6 years".
 
 Subsec. (c)(3). Pub. L. 103–35, §202(a)(17)(A), made technical amendment to directory language of Pub. L. 102–484, §4422(a)(3). See 1992 Amendment note below.
 
 Subsec. (c)(4). Pub. L. 103–35, §202(a)(17)(B), made technical amendment to directory language of Pub. L. 102–484, §4422(a)(4). See 1992 Amendment note below.
 
-Subsec. (h)(1). Pub. L. 103–160, §561(g), substituted “September 30, 1999” for “September 30, 1995”.
+Subsec. (h)(1). Pub. L. 103–160, §561(g), substituted "September 30, 1999" for "September 30, 1995".
 
-<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484, §4422(a)(1), inserted “or full-time National Guard duty” after “active duty”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484, §4422(a)(1), inserted "or full-time National Guard duty" after "active duty".
 
-Subsec. (b)(2)(B). Pub. L. 102–484, §4405(a), inserted “, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note)” after “chapter 58 of this title”.
+Subsec. (b)(2)(B). Pub. L. 102–484, §4405(a), inserted ", sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note)" after "chapter 58 of this title".
 
-Subsec. (c)(2). Pub. L. 102–484, §§1052(15), 4422(a)(2), substituted “December 5, 1991” for “the date of the enactment of this section” and inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
+Subsec. (c)(2). Pub. L. 102–484, §§1052(15), 4422(a)(2), substituted "December 5, 1991" for "the date of the enactment of this section" and inserted "or full-time National Guard duty or any combination of active duty and full-time National Guard duty" after "active duty".
 
-Subsec. (c)(3). Pub. L. 102–484, §4422(a)(3), as amended by Pub. L. 103–35, §202(a)(17)(A), inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
+Subsec. (c)(3). Pub. L. 102–484, §4422(a)(3), as amended by Pub. L. 103–35, §202(a)(17)(A), inserted "or full-time National Guard duty or any combination of active duty and full-time National Guard duty" after "active duty".
 
-Subsec. (c)(4). Pub. L. 102–484, §4422(a)(4), as amended by Pub. L. 103–35, §202(a)(17)(B), inserted “and” aftersemicolon at end and “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty” the first place it appeared.
+Subsec. (c)(4). Pub. L. 102–484, §4422(a)(4), as amended by Pub. L. 103–35, §202(a)(17)(B), inserted "and" after semicolon at end and "or full-time National Guard duty or any combination of active duty and full-time National Guard duty" after "active duty" the first place it appeared.
 
-Subsec. (c)(5), (6). Pub. L. 102–484, §4424(a)(5), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “if a Reserve, is on an active duty list; and”.
+Subsec. (c)(5), (6). Pub. L. 102–484, §4424(a)(5), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "if a Reserve, is on an active duty list; and".
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made bysection 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -134,45 +134,45 @@ Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub.
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–484, div. A, title XLIV, §4405(c), Oct. 23, 1992, 106 Stat. 2706, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1175 of this title\] shall apply as if included in sections 1174a and 1175 of title 10, United States Code, as enacted on December 5, 1991, but any benefits or services payable by reason of the applicability of the provisions of those amendments during the period beginning on December 5, 1991, and ending on the date of the enactment of this Act \[Oct. 23, 1992\] shall be subject to the availability of appropriations.”
+Pub. L. 102–484, div. A, title XLIV, §4405(c), Oct. 23, 1992, 106 Stat. 2706, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1175 of this title\] shall apply as if included in sections 1174a and 1175 of title 10, United States Code, as enacted on December 5, 1991, but any benefits or services payable by reason of the applicability of the provisions of those amendments during the period beginning on December 5, 1991, and ending on the date of the enactment of this Act \[Oct. 23, 1992\] shall be subject to the availability of appropriations."
 
 #### Remedy for Ineffective Counseling of Officers Discharged Following Selection by Early Discharge Boards
 
 Pub. L. 103–160, div. A, title V, §507, Nov. 30, 1993, 107 Stat. 1646, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(1), Oct. 5, 1994, 108 Stat. 2856, provided that:
 
-“(a)
+"(a)
 
 Procedure for Review.—(1) The Secretary of each military department shall establish a procedure for the review of the individual circumstances of an officer described in paragraph (2) who is discharged, or who the Secretary concerned approves for discharge, following the report of a selection board convened by the Secretary to select officers for separation. The procedure established by the Secretary of a military department under this section shall provide that each review under that procedure be carried out by the Board for the Correction of Military Records of that military department.
 
-“(2) This section applies in the case of any officer (including a warrant officer) who, having been offered the opportunity to be discharged or otherwise separated from active duty through the programs provided under section 1174a and 1175 of title 10, United States Code—
+"(2) This section applies in the case of any officer (including a warrant officer) who, having been offered the opportunity to be discharged or otherwise separated from active duty through the programs provided under section 1174a and 1175 of title 10, United States Code—
 
-&emsp;“(A) elected not to accept such discharge or separation; and
+&emsp;"(A) elected not to accept such discharge or separation; and
 
-&emsp;“(B) submits an application under subsection (b) during the two-year period beginning on the later of the date of the enactment of this Act \[Nov. 30, 1993\] and the date of such discharge or separation.
+&emsp;"(B) submits an application under subsection (b) during the two-year period beginning on the later of the date of the enactment of this Act \[Nov. 30, 1993\] and the date of such discharge or separation.
 
-“(b)
+"(b)
 
 Application.—A review under this section shall be conducted in any case submitted to the Secretary concerned by application from the officer or former officer under regulations prescribed by the Secretary.
 
-“(c)
+"(c)
 
 Purpose of Review.—(1) The review under this section shall be designed to evaluate the effectiveness of the counseling of the officer before the convening of the board to ensure that the officer was properly informed that selection for discharge or other separation from active duty was a potential result of being within the group of officers to be considered by the board and that the officer was not improperly informed that such selection in that officer's personal case was unlikely.
 
-“(2) The Board for the Correction of Military Records of a military department shall render a decision in each case under this section not later than 60 days after receipt by the Secretary concerned of an application under subsection (b).
+"(2) The Board for the Correction of Military Records of a military department shall render a decision in each case under this section not later than 60 days after receipt by the Secretary concerned of an application under subsection (b).
 
-“(d)
+"(d)
 
 Remedy.—Upon a finding of ineffective counseling under subsection (c), the Secretary shall provide the officer the opportunity to participate, at the officer's option, in any one of the following programs for which the officer meets all eligibility criteria:
 
-&emsp;“(1) The Special Separation Benefits program under section 1174a of title 10, United States Code.
+&emsp;"(1) The Special Separation Benefits program under section 1174a of title 10, United States Code.
 
-&emsp;“(2) The Voluntary Separation Incentive program under section 1175 of such title.
+&emsp;"(2) The Voluntary Separation Incentive program under section 1175 of such title.
 
-&emsp;“(3) Retirement under the authority provided by section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note).
+&emsp;"(3) Retirement under the authority provided by section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note).
 
-“(e)
+"(e)
 
-Effective Date.—This section shall apply with respect to officers separated after September 30, 1990.”
+Effective Date.—This section shall apply with respect to officers separated after September 30, 1990."
 
 #### Separation Payments; Reductions and Prohibitions
 
@@ -182,7 +182,7 @@ Pub. L. 103–139, title VIII, §8127, Nov. 11, 1993, 107 Stat. 1469.
 
 #### Commencement of Program
 
-Pub. L. 102–190, div. A, title VI, §661(b), Dec. 5, 1991, 105 Stat. 1395, provided that: “The Secretary of each military department shall commence the program required by section 1174a of title 10, United States Code (as added by subsection (a)), not later than 60 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div. A, title VI, §661(b), Dec. 5, 1991, 105 Stat. 1395, provided that: "The Secretary of each military department shall commence the program required by section 1174a of title 10, United States Code (as added by subsection (a)), not later than 60 days after the date of the enactment of this Act \[Dec. 5, 1991\]."
 
 #### Report on Programs
 

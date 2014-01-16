@@ -30,5 +30,5 @@ The Education Amendments of 1978, referred to in subsec. (a)(7), is Pub. L. 95�
 
 #### Short Title
 
-Pub. L. 98–525, title XVII, §1701, Oct. 19, 1984, 98 Stat. 2649, provided that: “This title \[enacting this chapter\] may be cited as the ‘United States Institute of Peace Act’.”
+Pub. L. 98–525, title XVII, §1701, Oct. 19, 1984, 98 Stat. 2649, provided that: "This title \[enacting this chapter\] may be cited as the 'United States Institute of Peace Act'."
 

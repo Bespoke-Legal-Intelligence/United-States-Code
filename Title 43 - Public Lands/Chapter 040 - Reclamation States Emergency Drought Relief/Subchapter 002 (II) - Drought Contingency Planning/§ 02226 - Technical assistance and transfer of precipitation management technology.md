@@ -6,7 +6,7 @@ The Secretary is authorized to provide technical assistance for drought continge
 
 #### (b) Technology Transfer Program
 
-The Secretary is authorized to conduct a Precipitation Management Technology Transfer Program to help alleviate problems caused by precipitation variability and droughts in the West, as part of a balanced long-term water resources development and management program. In consultation with State, tribal, and localwater, hydropower, water quality and instream flow interests, areas shall be selected for conducting field studies cost-shared on a 50–50 basis to validate and quantify the potential for appropriate precipitation management technology to augment stream flows. Validated technologies shall be transferred to non-Federal interests for operational implementation.
+The Secretary is authorized to conduct a Precipitation Management Technology Transfer Program to help alleviate problems caused by precipitation variability and droughts in the West, as part of a balanced long-term water resources development and management program. In consultation with State, tribal, and local water, hydropower, water quality and instream flow interests, areas shall be selected for conducting field studies cost-shared on a 50–50 basis to validate and quantify the potential for appropriate precipitation management technology to augment stream flows. Validated technologies shall be transferred to non-Federal interests for operational implementation.
 
 (Pub. L. 102–250, title II, §206, Mar. 5, 1992, 106 Stat. 58.)
 

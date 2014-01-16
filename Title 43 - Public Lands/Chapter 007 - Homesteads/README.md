@@ -71,7 +71,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER IX—SOLDIERS’ AND SAILORS’ HOMESTEAD
+#### SUBCHAPTER IX—SOLDIERS' AND SAILORS' HOMESTEAD
 
 |  |
 | :--- |
@@ -104,5 +104,5 @@
 - [Subchapter 006 (VI) - Final Proof Generally](Subchapter%20006%20%28VI%29%20-%20Final%20Proof%20Generally/README.md)
 - [Subchapter 007 (VII) - Payments and Refunds](Subchapter%20007%20%28VII%29%20-%20Payments%20and%20Refunds/README.md)
 - [Subchapter 008 (VIII) - Alaska Homesteads](Subchapter%20008%20%28VIII%29%20-%20Alaska%20Homesteads/README.md)
-- [Subchapter 009 (IX) - Soldiers&#8217; and Sailors&#8217; Homestead](Subchapter%20009%20%28IX%29%20-%20Soldiers%E2%80%99%20and%20Sailors%E2%80%99%20Homestead/README.md)
+- [Subchapter 009 (IX) - Soldiers' and Sailors' Homestead](Subchapter%20009%20%28IX%29%20-%20Soldiers%27%20and%20Sailors%27%20Homestead/README.md)
 - [Subchapter 010 (X) - Stock-Raising Homestead](Subchapter%20010%20%28X%29%20-%20Stock-Raising%20Homestead/README.md)

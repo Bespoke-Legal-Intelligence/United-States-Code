@@ -8,9 +8,9 @@ As soon as practicable after the close of the 3-year period beginning on the dat
 
 <b>1996</b>—Pub. L. 104–295 amended directory language of Pub. L. 103–182. See 1993 Amendment note below.
 
-<b>1994</b>—Pub. L. 103–465 inserted “through 2001” after “succeeding 3-year period”.
+<b>1994</b>—Pub. L. 103–465 inserted "through 2001" after "succeeding 3-year period".
 
-<b>1993</b>—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
+<b>1993</b>—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted "Trade Representative" for "Special Representative".
 
 #### Effective Date of 1994 Amendment
 

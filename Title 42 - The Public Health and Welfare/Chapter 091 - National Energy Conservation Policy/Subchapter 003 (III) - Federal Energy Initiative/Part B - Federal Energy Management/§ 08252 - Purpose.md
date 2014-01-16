@@ -6,7 +6,7 @@ It is the purpose of this part to promote the conservation and the efficient use
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–486 inserted “and water, and the use of renewable energy sources,” after “use of energy”.
+<b>1992</b>—Pub. L. 102–486 inserted "and water, and the use of renewable energy sources," after "use of energy".
 
 <b>1988</b>—Pub. L. 100–615 amended section generally, substituting statement of purpose for policy statement declaring it to be United States policy for Federal Government to have the opportunity and responsibility, with participation of industry, to further develop, demonstrate, and promote use of energy conservation, solar heating and cooling, and other renewable energy sources in Federal buildings.
 

@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 100–525, §9(r)(1), substituted “before December 24, 19
 
 Subsec. (c). Pub. L. 100–525, §9(r)(2), substituted “after December 23, 1952” for “on or after the effective date of this chapter”.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–653, as amended by Pub. L. 100–525, §8(k), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The provisions of paragraphs (c), (d), (e), and (g) of section 1401 of this title, and of paragraph (2) of section 1408, of this title shall apply as of the date of birth to a child born out of wedlock on or after the effective date of this chapter, if the paternity of such child is established while such child is under the age of twenty-one years by legitimation.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–653, as amended by Pub. L. 100–525, §8(k), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The provisions of paragraphs (c), (d), (e), and (g) of section 1401 of this title, and of paragraph (2) of section 1408, of this title shall apply as of the date of birth to a child born out of wedlock on or after the effective date of this chapter, if the paternity of such child is established while suchchild is under the age of twenty-one years by legitimation.”
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–116, §18(l)(1), substituted “(c), (d), (e), and (g) of section 1401” for “(3) to (5) and (7) of section 1401(a)”.
 

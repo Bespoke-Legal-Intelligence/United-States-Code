@@ -20,7 +20,7 @@ A State shall use amounts received under a grant under section 18202 of this tit
 
 #### (4) Use of funds for assisting pregnant and parenting college students
 
-&emsp;An eligible institution of higher education that receives funding under this subsectionshall use such funds to establish, maintain or operate pregnant and parenting student services and may use such funding for the following programs and activities:
+&emsp;An eligible institution of higher education that receives funding under this subsection shall use such funds to establish, maintain or operate pregnant and parenting student services and may use such funding for the following programs and activities:
 
 &emsp;&emsp;(A) Conduct a needs assessment on campus and within the local community—
 
@@ -90,7 +90,7 @@ A State shall use amounts received under a grant under section 18202 of this tit
 
 #### (c) Support for pregnant and parenting teens
 
-A State may use amounts received under a grant under section 18202 of this title to make funding available to eligible high schools and community service centers to establish, maintain or operate pregnant and parenting services in the same general manner and in accordance with all conditions and requirements described in subsection (b), except that paragraph (3) of such subsection shall not apply for purposes of this subsection.
+A State may use amounts received under a grant under section 18202 of this title to makefunding available to eligible high schools and community service centers to establish, maintain or operate pregnant and parenting services in the same general manner and in accordance with all conditions and requirements described in subsection (b), except that paragraph (3) of such subsection shall not apply for purposes of this subsection.
 
 #### (d) Improving services for pregnant women who are victims of domestic violence, sexual violence, sexual assault, and stalking
 
@@ -128,7 +128,7 @@ A State may use amounts received under a grant under section 18202 of this title
 
 #### (4) Eligible pregnant woman
 
-&emsp;In this subsection, the term “eligible pregnant woman” means any woman who is pregnant on the date on which such woman becomes a victim of domestic violence, sexual violence, sexual assault, or stalking or who was pregnant during the one-year period before such date.
+&emsp;In this subsection, the term "eligible pregnant woman" means any woman who is pregnant on the date on which such woman becomes a victim of domestic violence, sexual violence, sexual assault, or stalking or who was pregnant during the one-year period before such date.
 
 #### (e) Public awareness and education
 
@@ -136,7 +136,7 @@ A State may use amounts received under a grant under section 18202 of this title
 
 (Pub. L. 111–148, title X, §10213, Mar. 23, 2010, 124 Stat. 932.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “establish”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "establish".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “to”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "to".</i>
 

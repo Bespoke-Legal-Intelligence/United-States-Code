@@ -2,15 +2,15 @@
 
 #### (a) Eligible areas
 
-For the purposes of this section the term “eligible area” means—
+For the purposes of this section the term "eligible area" means—
 
 &emsp;(1) those areas which the Secretary of Labor designates each month as having been areas of substantial unemployment for at least nine of the preceding twelve months; and
 
-&emsp;(2) those areas which are designated by the Secretary of Commerce under subsections (a) and (b) of section 2504 of this title as “redevelopment areas”.
+&emsp;(2) those areas which are designated by the Secretary of Commerce under subsections (a) and (b) of section 2504 of this title as "redevelopment areas".
 
 #### (b) Authority to initiate and accelerate projects; allocation of funds
 
-The President is authorized to initiate and accelerate in eligible areas those Federal public works projects which have been authorized by Congress, and those public works projects of States and local governments for which Federalfinancial assistance is authorized under provisions of law other than this chapter, by allocating funds appropriated to carry out this section—
+The President is authorized to initiate and accelerate in eligible areas those Federal public works projects which have been authorized by Congress, and those public works projects of States and local governments for which Federal financial assistance is authorized under provisions of law other than this chapter, by allocating funds appropriated to carry out this section—
 
 &emsp;(1) to the heads of the departments, agencies, and instrumentalities of the Federal Government responsible for the construction of Federal public works projects, and
 

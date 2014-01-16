@@ -30,13 +30,13 @@ It is the sense of Congress that—
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–246 reenacted introductory provisions without change, added par. (1), and struck out former par. (1) which read as follows: “the President should initiate consultations with other donor nations to consider appropriate levels of food aid commitments to meet the legitimate needs of developing countries; and”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246 reenacted introductory provisions without change, added par. (1), and struck out former par. (1) which read as follows: "the President should initiate consultations with other donor nations to consider appropriate levels of food aid commitments to meet the legitimate needs of developing countries; and".
 
-<b>1996</b>—Pub. L. 104–127 substituted “Food aid to developing countries” for “Global food aid needs” in section catchline and amended text generally. Prior to amendment, text read as follows: “In view of the principal findings of the National Research Council of the National Academy of Sciences that doubling food aid above 1990 levels of about 10,000,000 metric tons per year would be necessary to meet projected global food needs throughout the decade of the nineties, it is the sense of Congress that the President should—
+<b>1996</b>—Pub. L. 104–127 substituted "Food aid to developing countries" for "Global food aid needs" in section catchline and amended text generally. Prior to amendment, text read as follows: "In view of the principal findings of the National Research Council of the National Academy of Sciences that doubling food aid above 1990 levels of about 10,000,000 metric tons per year would be necessary to meet projected global food needs throughout the decade of the nineties, it is the sense of Congress that the President should—
 
-&emsp;“(1) increase the contributions of food aid by the United States, and encourage other donor countries to increase their contributions toward meeting new food aid requirements; and
+&emsp;"(1) increase the contributions of food aid by the United States, and encourage other donor countries to increase their contributions toward meeting new food aid requirements; and
 
-&emsp;“(2) encourage other advanced nations to make increased food aid contributions to combat world hunger and malnutrition, particularly through the expansion of international food and agricultural assistance programs.”
+&emsp;"(2) encourage other advanced nations to make increased food aid contributions to combat world hunger and malnutrition, particularly through the expansion of international food and agricultural assistance programs."
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions urging President to maintain United States food assistance and encourage other countries to increase their contributions, in order to meet annual goal of World Food Conference of providing 10,000,000 tons of food assistance annually for needy nations.
 

@@ -8,7 +8,7 @@
 
 (d) Whoever, lawfully having possession of, access to, control over, or being entrusted with any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, instrument, appliance, or note relating to the national defense, or information relating to the national defense which information the possessor has reason to believe could be used to the injury of the United States or to the advantage of any foreign nation, willfully communicates, delivers, transmits or causes to be communicated, delivered, or transmitted or attempts to communicate, deliver, transmit or cause to be communicated, delivered or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it on demand to the officer or employee of the United States entitled to receive it; or
 
-(e) Whoever having unauthorized possession of, access to, or control over any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan,map, model, instrument, appliance, or note relating to the national defense, or information relating to the national defense which information the possessor has reason to believe could be used to the injury of the United States or to the advantage of any foreign nation, willfully communicates, delivers, transmits or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it; or
+(e) Whoever having unauthorized possession of, access to, or control over any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, instrument, appliance, or note relating to the national defense, or information relating to the national defense which information the possessor has reason to believe could be used to the injury of the United States or to the advantage of any foreign nation, willfully communicates, delivers, transmits or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it; or
 
 (f) Whoever, being entrusted with or having lawful possession or control of any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, instrument, appliance, note, or information, relating to the national defense, (1) through gross negligence permits the same to be removed from its proper place of custody or delivered to anyone in violation of his trust, or to be lost, stolen, abstracted, or destroyed, or (2) having knowledge that the same has been illegally removed from its proper place of custody or delivered to anyone in violation of its trust, or lost, or stolen, abstracted, or destroyed, and fails to make prompt report of such loss, theft, abstraction, or destruction to his superior officer—
 
@@ -16,9 +16,9 @@ Shall be fined under this title or imprisoned not more than ten years, or both.
 
 (g) If two or more persons conspire to violate any of the foregoing provisions of this section, and one or more of such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be subject to the punishment provided for the offense which is the object of such conspiracy.
 
-(h)(1) Any person convicted of a violation of this section shall forfeit to the United States, irrespective of any provision of State law, any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, from any foreign government, or any faction or party or military or naval force within a foreign country, whether recognized or unrecognized by the United States, as the result of such violation. For the purposes of this subsection, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+(h)(1) Any person convicted of a violation of this section shall forfeit to the United States, irrespective of any provision of State law, any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, from any foreign government, or any faction or party or military or naval force within a foreign country, whether recognized or unrecognized by the United States, as the result of such violation. For the purposes of this subsection, the term "State" includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(2) The court, in imposing sentence on a defendant for a conviction of a violation of this section, shall order that the defendant forfeit to the United States all property described in paragraph (1) of this subsection.
+(2) The court, in imposing sentence on a defendant for a conviction of a violation of thissection, shall order that the defendant forfeit to the United States all property described in paragraph (1) of this subsection.
 
 (3) The provisions of subsections (b), (c), and (e) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(b), (c), and (e)–(p)) shall apply to—
 
@@ -40,9 +40,9 @@ Based on sections 31 and 36 of title 50, U.S.C., 1940 ed., War and National Defe
 
 Section consolidated sections 31 and 36 of title 50, U.S.C., 1940 ed., War and National Defense.
 
-Words “departments or agencies” were inserted twice in conformity with definitive section 6 of this title to eliminate any possible ambiguity as to scope of section.
+Words "departments or agencies" were inserted twice in conformity with definitive section 6 of this title to eliminate any possible ambiguity as to scope of section.
 
-The words “or induces or aids another” were omitted wherever occurring as unnecessary in view of definition of “principal” in section 2 of this title.
+The words "or induces or aids another" were omitted wherever occurring as unnecessary in view of definition of "principal" in section 2 of this title.
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -50,11 +50,11 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (h)(1). Pub. L. 104–294 inserted at end “For the purposes of this subsection, the term ‘State’ includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
+<b>1996</b>—Subsec. (h)(1). Pub. L. 104–294 inserted at end "For the purposes of this subsection, the term 'State' includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States."
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in undesignated par. after subsec. (f).
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000" in undesignated par. after subsec. (f).
 
-Subsec. (h)(3). Pub. L. 103–359 substituted “(p)” for “(o)” in two places.
+Subsec. (h)(3). Pub. L. 103–359 substituted "(p)" for "(o)" in two places.
 
 <b>1986</b>—Subsec. (h). Pub. L. 99–399 added subsec. (h).
 

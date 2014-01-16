@@ -2,7 +2,7 @@
 
 #### (a) Authority to prescribe regulations; ineffectiveness of substantive rules not promulgated by regulation
 
-(1) The Secretary shall prescribe such regulations as may be necessary to carry out the administration of the insurance programs under this subchapter. When used in this subchapter, the term “regulations” means, unless the context otherwise requires, regulations prescribed by the Secretary.
+(1) The Secretary shall prescribe such regulations as may be necessary to carry out the administration of the insurance programs under this subchapter. When used in this subchapter, the term "regulations" means, unless the context otherwise requires, regulations prescribed by the Secretary.
 
 (2) No rule, requirement, or other statement of policy (other than a national coverage determination) that establishes or changes a substantive legal standard governing the scope of benefits, the payment for services, or the eligibility of individuals, entities, or organizations to furnish or receive services or benefits under this subchapter shall take effect unless it is promulgated by the Secretary by regulation under paragraph (1).
 
@@ -10,7 +10,7 @@
 
 (B) Such timeline may vary among different regulations based on differences in the complexity of the regulation, the number and scope of comments received, and other relevant factors, but shall not be longer than 3 years except under exceptional circumstances. If the Secretary intends to vary such timeline with respect to the publication of a final regulation, the Secretary shall cause to have published in the Federal Register notice of the different timeline by not later than the timeline previously established with respect to such regulation. Such notice shall include a brief explanation of the justification for such variation.
 
-(C) In the case of interim final regulations, upon the expiration of the regular timeline established under this paragraph for the publication of a final regulation after opportunity for public comment, the interim final regulation shall not continue in effect unless the Secretary publishes (at the end of the regular timeline and, if applicable, at the end of each succeeding 1-year period) a notice of continuation of the regulation that includes an explanation of why the regular timeline (and any subsequent 1-year extension) was not complied with. If such a notice is published, the regular timeline (or suchtimeline as previously extended under this paragraph) for publication of the final regulation shall be treated as having been extended for 1 additional year.
+(C) In the case of interim final regulations, upon the expiration of the regular timeline established under this paragraph for the publication of a final regulation after opportunity for public comment, the interim final regulation shall not continue in effect unless the Secretary publishes (at the end of the regular timeline and, if applicable, at the end of each succeeding 1-year period) a notice of continuation of the regulation that includes an explanation of why the regular timeline (and any subsequent 1-year extension) was not complied with. If such a notice is published, the regular timeline (or such timeline as previously extended under this paragraph) for publication of the final regulation shall be treated as having been extended for 1 additional year.
 
 (D) The Secretary shall annually submit to Congress a report that describes the instances in which the Secretary failed to publish a final regulation within the applicable regular timeline under this paragraph and that provides an explanation for such failures.
 
@@ -38,7 +38,7 @@
 
 (2) Effective June 1, 1988, each fiscal intermediary and carrier administering claims for extended care, post-hospital extended care, home health care, and durable medical equipment benefits under this subchapter shall make available to the public all interpretative materials, guidelines, and clarifications of policies which relate to payments for such benefits.
 
-(3) The Secretary shall to the extent feasible make such changes in automated data collection and retrieval by the Secretary and fiscal intermediaries with agreements under section 1395h of this title as are necessary to make easily accessible for the Secretary and other appropriate parties a data base which fairly and accurately reflects the provision of extended care, post-hospital extended care and home health care benefits pursuant to this subchapter, including such categories as benefit denials, results of appeals, and other relevant factors, and selectable by such categories and by fiscal intermediary, service provider, and region.
+(3) The Secretary shall to the extent feasible make such changes in automated data collection and retrieval by the Secretary and fiscal intermediaries with agreements under section 1395h of this title as are necessary to make easily accessible for the Secretary and other appropriate parties a data base which fairly and accurately reflects the provision of extended care, post-hospital extended care and home health care benefits pursuant to this subchapter, including such categories as benefit denials, results of appeals, and other relevant factors, and selectable bysuch categories and by fiscal intermediary, service provider, and region.
 
 #### (e) <sup>1</sup> Retroactivity of substantive changes; reliance upon written guidance
 
@@ -102,15 +102,15 @@ Subsec. (c). Pub. L. 100–203, §4035(c), added subsec. (c).
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title IX, §902(a)(2), Dec. 8, 2003, 117 Stat. 2375, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\]. The Secretary \[of Health and Human Services\] shall provide for an appropriate transition to take into account the backlog of previously published interim final regulations.”
+Pub. L. 108–173, title IX, §902(a)(2), Dec. 8, 2003, 117 Stat. 2375, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\]. The Secretary \[of Health and Human Services\] shall provide for an appropriate transition to take into account the backlog of previously published interim final regulations."
 
-Pub. L. 108–173, title IX, §902(b)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to final regulations published on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
+Pub. L. 108–173, title IX, §902(b)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to final regulations published on or after the date of the enactment of this Act \[Dec. 8, 2003\]."
 
-Pub. L. 108–173, title IX, §903(a)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to substantive changes issued on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
+Pub. L. 108–173, title IX, §903(a)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to substantive changes issued on or after the date of the enactment of this Act \[Dec. 8, 2003\]."
 
-Pub. L. 108–173, title IX, §903(b)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to compliance actions undertaken on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
+Pub. L. 108–173, title IX, §903(b)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to compliance actions undertaken on or after the date of the enactment of this Act \[Dec. 8, 2003\]."
 
-Pub. L. 108–173, title IX, §903(c)(2), Dec. 8, 2003, 117 Stat. 2377, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\] and shall only apply to a penalty or interest imposed with respect to guidance provided on or after July 24, 2003.”
+Pub. L. 108–173, title IX, §903(c)(2), Dec. 8, 2003, 117 Stat. 2377, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\] and shall only apply to a penalty or interest imposed with respect to guidance provided on or after July 24, 2003."
 
 #### Effective Date of 1987 Amendment
 
@@ -118,25 +118,25 @@ Amendment by Pub. L. 100–203 effective Dec. 22, 1987, and applicable to budget
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–509, title IX, §9321(e)(3)(A), Oct. 21, 1986, 100 Stat. 2018, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to notices of proposed rulemaking issued after the date of the enactment of this Act \[Oct. 21, 1986\].”
+Pub. L. 99–509, title IX, §9321(e)(3)(A), Oct. 21, 1986, 100 Stat. 2018, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to notices of proposed rulemaking issued after the date of the enactment of this Act \[Oct. 21, 1986\]."
 
 #### Regulations
 
-Pub. L. 101–508, title IV, §4207(j), formerly §4027(j), Nov. 5, 1990, 104 Stat. 1388–124, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (12), Oct. 31, 1994, 108 Stat. 4444, provided that: “The Secretary of Health and Human Services shall issue such regulations (on an interim or other basis) as may be necessary to implement this subtitle \[subtitle A (§§4000–4361) of title IV of Pub. L. 101–508, see Tables for classification\] and the amendments made by this subtitle.”
+Pub. L. 101–508, title IV, §4207(j), formerly §4027(j), Nov. 5, 1990, 104 Stat. 1388–124, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (12), Oct. 31, 1994, 108 Stat. 4444, provided that: "The Secretary of Health and Human Services shall issue such regulations (on an interim or other basis) as may be necessary to implement this subtitle \[subtitle A (§§4000–4361) of title IV of Pub. L. 101–508, see Tables for classification\] and the amendments made by this subtitle."
 
-Section 4039(g) of title IV of Pub. L. 100–203 provided that: “The Secretary of Health and Human Services shall issue such regulations (on an interim or other basis) as may be necessary to implement this subtitle and the amendments made by this subtitle \[subtitle A (§§4001–4097) of title IV of Pub. L. 100–203, see Tables for classification\].”
+Section 4039(g) of title IV of Pub. L. 100–203 provided that: "The Secretary of Health and Human Services shall issue such regulations (on an interim or other basis) as may be necessary to implement this subtitle and the amendments made by this subtitle \[subtitle A (§§4001–4097) of title IV of Pub. L. 100–203, see Tables for classification\]."
 
 #### GAO Study on Advisory Opinion Authority
 
 Pub. L. 108–173, title IX, §904(a), Dec. 8, 2003, 117 Stat. 2377, provided that:
 
-“(1)
+"(1)
 
-Study.—The Comptroller General of the United States shall conduct a study to determine the feasibility and appropriateness of establishing in the Secretary \[of Health and Human Services\] authority to provide legally binding advisory opinions on appropriate interpretation and application of regulations to carry out the medicare program under title XVIII of the Social Security Act \[this subchapter\]. Such study shall examine the appropriate timeframe for issuing such advisory opinions, as well as the need for additional staff and funding to provide such opinions.
+Study.—The Comptroller General of the United States shall conduct a study to determine the feasibility and appropriateness of establishing in the Secretary \[of Health and Human Services\] authority to provide legally binding advisory opinions on appropriate interpretation and application of regulations to carry out the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]. Such study shall examine the appropriate timeframe for issuing such advisory opinions, as well as the need for additional staff and funding to provide such opinions.
 
-“(2)
+"(2)
 
-Report.—The Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) by not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].”
+Report.—The Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) by not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\]."
 
 <i><sup>1</sup></i><i> So in original. No subsec. (d) has been enacted.</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Responsibilities of the Secretary of Defense.—The Secretary of Defense shall ensure that the advanced systems developed for recording armed forces members’ personal data and information (such as the SMARTCARD, MEDITAG, and Personal Information Carrier) include the capability to record organ and tissue donation elections.
+Responsibilities of the Secretary of Defense.—The Secretary of Defense shall ensure that the advanced systems developed for recording armed forces members' personal data and information (such as the SMARTCARD, MEDITAG, and Personal Information Carrier) include the capability to record organ and tissue donation elections.
 
 (b)
 
@@ -34,19 +34,19 @@ Responsibilities of the Surgeons General of the Military Departments.—The Surg
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–398 struck out “(1)” before “The Secretaries” in introductory provisions.
+<b>2000</b>—Subsec. (b). Pub. L. 106–398 struck out "(1)" before "The Secretaries" in introductory provisions.
 
 #### Findings
 
-Pub. L. 105–261, div. A, title VII, §741(a), Oct. 17, 1998, 112 Stat. 2073, provided that: “Congress makes the following findings:
+Pub. L. 105–261, div. A, title VII, §741(a), Oct. 17, 1998, 112 Stat. 2073, provided that: "Congress makes the following findings:
 
-&emsp;“(1) Organ and tissue transplantation is one of the most remarkable medical success stories in the history of medicine.
+&emsp;"(1) Organ and tissue transplantation is one of the most remarkable medical success stories in the history of medicine.
 
-&emsp;“(2) Each year, the number of people waiting for organ or tissue transplantation increases. It is estimated that there are approximately 39,000 patients, ranging in age from babies to those in retirement, awaiting transplants of kidneys, hearts, livers, and other solid organs.
+&emsp;"(2) Each year, the number of people waiting for organ or tissue transplantation increases. It is estimated that there are approximately 39,000 patients, ranging in age from babies to those in retirement, awaiting transplants of kidneys, hearts, livers, and other solid organs.
 
-&emsp;“(3) The Department of Defense has made significant progress in increasing the awareness of the importance of organ and tissue donations among members of the Armed Forces.
+&emsp;"(3) The Department of Defense has made significant progress in increasing the awareness of the importance of organ and tissue donations among members of the Armed Forces.
 
-&emsp;“(4) The inclusion of organ and tissue donor elections in the Defense Enrollment Eligibility Reporting System (DEERS) central database represents a major step in ensuring that organ and tissue donor elections are a matter of record and are accessible in a timely manner.”
+&emsp;"(4) The inclusion of organ and tissue donor elections in the Defense Enrollment Eligibility Reporting System (DEERS) central database represents a major step in ensuring that organ and tissue donor elections are a matter of record and are accessible in a timely manner."
 
 #### Report on Implementation
 

@@ -16,5 +16,5 @@ Section was not enacted as part of the Tariff Act of 1930 which comprises this c
 
 #### Amendments
 
-<b>1975</b>—Subsec. (a). Pub. L. 93–618 substituted “United States International Trade Commission” for “Tariff Commission”.
+<b>1975</b>—Subsec. (a). Pub. L. 93–618 substituted "United States International Trade Commission" for "Tariff Commission".
 

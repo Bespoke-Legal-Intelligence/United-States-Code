@@ -12,13 +12,13 @@
 
 &emsp;&emsp;&emsp;(i) The amount specified in paragraph (2)(A) of section 300x–7(a) of this title is deemed to be the amount appropriated under section 300x–35(a) of this title for allotments under section 300x–21 of this title for the fiscal year involved.
 
-&emsp;&emsp;&emsp;(ii) The term “P” is deemed to have the meaning given in paragraph (2) of this subsection. Section 300x–7(a)(5)(B) of this title applies to the data used in determining such term for the States.
+&emsp;&emsp;&emsp;(ii) The term "P" is deemed to have the meaning given in paragraph (2) of this subsection. Section 300x–7(a)(5)(B) of this title applies to the data used in determining such term for the States.
 
 &emsp;&emsp;&emsp;(iii) The factor determined under paragraph (8) of section 300x–7(a) of this title is deemed to have the purpose of reflecting the differences that exist between the State involved and other States in the costs of providing authorized services.
 
-#### (2) Determination of term “P”
+#### (2) Determination of term "P"
 
-&emsp;For purposes of this subsection, the term “P” means the percentage that is the arithmetic mean of the percentage determined under subparagraph (A) and the percentage determined under subparagraph (B), as follows:
+&emsp;For purposes of this subsection, the term "P" means the percentage that is the arithmetic mean of the percentage determined under subparagraph (A) and the percentage determined under subparagraph (B), as follows:
 
 &emsp;&emsp;(A) The percentage constituted by the ratio of—
 
@@ -36,7 +36,7 @@
 
 #### (1) In general
 
-&emsp;With respect to fiscal year 2000, and each subsequent fiscal year, the amount of the allotment of a State under section 300x–21 of this title shall not be less than the amount theState received under such section for the previous fiscal year increased by an amount equal to 30.65 percent of the percentage by which the aggregate amount allotted to all States for such fiscal year exceeds the aggregate amount allotted to all States for the previous fiscal year.
+&emsp;With respect to fiscal year 2000, and each subsequent fiscal year, the amount of the allotment of a State under section 300x–21 of this title shall not be less than the amount the State received under such section for the previous fiscal year increased by an amount equal to 30.65 percent of the percentage by which the aggregate amount allotted to all States for such fiscal year exceeds the aggregate amount allotted to all States for the previous fiscal year.
 
 #### (2) Limitations
 
@@ -56,7 +56,7 @@
 
 #### (1) Determination under formula
 
-&emsp;Subject to paragraphs (2) and (4), the amount of an allotment under section 300x–21 of this title for a territory of the United States for a fiscal year shall be the product of—
+&emsp;Subject to paragraphs (2) and (4), the amount of an allotment under section 300x–21of this title for a territory of the United States for a fiscal year shall be the product of—
 
 &emsp;&emsp;(A) an amount equal to the amounts reserved under paragraph (3) for the fiscal year; and
 
@@ -86,7 +86,7 @@
 
 #### (5) Applicability of certain provisions
 
-&emsp;For purposes of subsections (a) and (b) of this section, the term “State” does not include the territories of the United States.
+&emsp;For purposes of subsections (a) and (b) of this section, the term "State" does not include the territories of the United States.
 
 #### (d) Indian tribes and tribal organizations
 
@@ -106,17 +106,17 @@
 
 #### (3) Application
 
-&emsp;In order for an Indian tribe or tribal organization to be eligible for a grant for a fiscalyear under this paragraph,<sup>3</sup> it shall submit to the Secretary a plan for such fiscal year that meets such criteria as the Secretary may prescribe.
+&emsp;In order for an Indian tribe or tribal organization to be eligible for a grant for a fiscal year under this paragraph,<sup>3</sup> it shall submit to the Secretary a plan for such fiscal year that meets such criteria as the Secretary may prescribe.
 
 #### (4) Definitions
 
-&emsp;The terms “Indian tribe” and “tribal organization” have the same meaning given such terms in subsections (b) and (c) <sup>4</sup> of section 450b of title 25.
+&emsp;The terms "Indian tribe" and "tribal organization" have the same meaning given such terms in subsections (b) and (c) <sup>4</sup> of section 450b of title 25.
 
 (July 1, 1944, ch. 373, title XIX, §1933, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 400; amended Pub. L. 102–352, §2(a)(11), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–277, div. A, §101(f) \[title II, §218(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–362; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §212(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–239; Pub. L. 106–310, div. B, title XXXIII, §3304, Oct. 17, 2000, 114 Stat. 1212.)
 
 #### References in Text
 
-Section 450b of title 25, referred to in subsec. (d)(4), was amended, and subsecs. (b) and (c) of section 450 no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
+Section 450b of title 25, referred to in subsec. (d)(4), was amended, and subsecs. (b) and (c) of section 450 no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
 #### Prior Provisions
 
@@ -124,35 +124,35 @@ A prior section 1933 of act July 1, 1944, was classified to section 300y–23 of
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–310 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each State's allotment for fiscal year 2000 for programs under this subpart shall be equal to such State's allotment for such programs for fiscal year 1999, except that, if the amount appropriated in fiscal year 2000 is less than the amount appropriated in fiscal year 1999, then the amount of a State's allotment under section 300x–21 of this title shall be equal to the amount that the State received under section 300x–21 of this title in fiscal year 1999 decreased by the percentage by which the amount appropriated for fiscal year 2000 is less than the amount appropriated for such section for fiscal year 1999.”
+<b>2000</b>—Subsec. (b). Pub. L. 106–310 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Each State's allotment for fiscal year 2000 for programs under this subpart shall be equal to such State's allotment for such programs for fiscal year 1999, except that, if the amount appropriated in fiscal year 2000 is less than the amount appropriated in fiscal year 1999, then the amount of a State's allotment under section 300x–21 of this title shall be equal to the amount that the State received under section 300x–21 of this title in fiscal year 1999 decreased by the percentage by which the amount appropriated for fiscal year 2000 is less than the amount appropriated for such section for fiscal year 1999."
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–113 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For each of the fiscal years 1993 and 1994, the amount of the allotment required in section 300x–21 of this title for a State for the fiscal year involved shall be the greater of—
+<b>1999</b>—Subsec. (b). Pub. L. 106–113 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "For each of the fiscal years 1993 and 1994, the amount of the allotment required in section 300x–21 of this title for a State for the fiscal year involved shall be the greater of—
 
-&emsp;“(1) the amount determined under subsection (a) of this section for the State for the fiscal year; and
+&emsp;"(1) the amount determined under subsection (a) of this section for the State for the fiscal year; and
 
-&emsp;“(2) an amount equal to 79.4 percent of the amount received by the State from allotments made pursuant to this part for fiscal year 1992 (including reallotments under section 205(a) of the ADAMHA Reorganization Act).”
+&emsp;"(2) an amount equal to 79.4 percent of the amount received by the State from allotments made pursuant to this part for fiscal year 1992 (including reallotments under section 205(a) of the ADAMHA Reorganization Act)."
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–277, temporarily amended subsec. (b) to read as follows: “(b)
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, temporarily amended subsec. (b) to read as follows: "(b)
 
 Minimum allotments for States.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—With respect to fiscal year 1999, the amount of the allotment of a State under section 300x–21 of this title shall not be less than the amount the State received under section 300x–21 of this title for fiscal year 1998 increased by 30.65 percent of the percentage by which the amount allotted to the States for fiscal year 1999 exceeds the amount allotted to the States for fiscal year 1998.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Limitation
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Except as provided in subparagraph (B), a State shall not receive an allotment under section 300x–21 of this title for fiscal year 1999 in an amount that is less than an amount equal to 0.375 percent of the amount appropriated under section 300x–35(a) of this title for such fiscal year.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Exception.—In applying subparagraph (A), the Secretary shall ensure that no State receives an increase in its allotment under section 300x–21 of this title for fiscal year 1999 (as compared to the amount allotted to the State in the fiscal year 1998) that is in excess of an amount equal to 300 percent of the percentage by which the amount appropriated under section 300x–35(a) of this title for fiscal year 1999 exceeds the amount appropriated for the prior fiscal year.
 
-&emsp;“(3) Only for the purposes of calculating minimum allotments under this subsection, any reference to the amount appropriated under section 300x–35(a) of this title for fiscal year 1998, allotments to States under section 300x–21 of this title and any references to amounts received by States in fiscal year 1998 shall include amounts appropriated or received under the amendments made by section 105 of the Contract with America Advancement Act of 1996 (Public Law 104–121).”
+&emsp;"(3) Only for the purposes of calculating minimum allotments under this subsection, any reference to the amount appropriated under section 300x–35(a) of this title for fiscal year 1998, allotments to States under section 300x–21 of this title and any references to amounts received by States in fiscal year 1998 shall include amounts appropriated or received under the amendments made by section 105 of the Contract with America Advancement Act of 1996 (Public Law 104–121)."
 
 > See Effective and Termination Dates of 1998 Amendment note below.
 
@@ -166,11 +166,11 @@ Amendment by Pub. L. 105–277 effective as if enacted on Oct. 1, 1998, and appl
 
 Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L. 102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “for”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "for".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “this subpart;”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "this subpart;".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "subsection".</i>
 
 <i><sup>4</sup></i><i> See References in Text note below.</i>
 

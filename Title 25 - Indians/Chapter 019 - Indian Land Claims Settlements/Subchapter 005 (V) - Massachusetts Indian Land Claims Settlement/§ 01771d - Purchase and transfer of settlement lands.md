@@ -2,7 +2,7 @@
 
 #### (a) Purchase of private settlement lands
 
-The Secretary is authorized and directed to expend, at the request of the Wampanoag Tribal Council of Gay Head, Inc., $2,125,000 to acquire the private settlement lands. At the request of the Wampanoag Tribal Council of Gay Head,Inc., the Secretary shall not purchase lots 705, 222, and 528 of the private settlement lands, but, at the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall acquire in lieu thereof such other lands that are contiguous to the remaining private settlement lands. Upon the purchase of such contiguous lands, those lands shall be subject to the same restrictions and benefits as the private settlement lands.
+The Secretary is authorized and directed to expend, at the request of the Wampanoag Tribal Council of Gay Head, Inc., $2,125,000 to acquire the private settlement lands. At the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall not purchase lots 705, 222, and 528 of the private settlement lands, but, at the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall acquire in lieu thereof such other lands that are contiguous to the remaining private settlement lands. Upon the purchase of such contiguous lands, those lands shall be subject to the same restrictions and benefits as the private settlement lands.
 
 #### (b) Payment for survey and appraisal
 

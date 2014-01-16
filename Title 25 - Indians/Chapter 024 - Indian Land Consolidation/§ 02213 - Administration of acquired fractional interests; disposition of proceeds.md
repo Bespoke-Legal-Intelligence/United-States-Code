@@ -56,7 +56,7 @@ Subject to the conditions described in subsection (b)(1) of this section, an Ind
 
 #### References in Text
 
-Section 2215 of this title, referred to in the original in subsec. (b)(4), probably should have been “section 216”, meaning section 216 of Pub. L. 97–459, which is classified to section 2215 of this title and relates to the establishment of an Acquisition Fund. Pub. L. 97–459 does not contain a section 2215.
+Section 2215 of this title, referred to in the original in subsec. (b)(4), probably should have been "section 216", meaning section 216 of Pub. L. 97–459, which is classified to section 2215 of this title and relates to the establishment of an Acquisition Fund. Pub. L. 97–459 does not contain a section 2215.
 
 #### Amendments
 

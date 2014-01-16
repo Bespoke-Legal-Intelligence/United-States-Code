@@ -2,11 +2,11 @@
 
 #### (a) Study
 
-The Secretary of Agriculture shall conduct an annual study of the financial impact of the support levels established and announced by the Secretary under programs contained in the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\] (hereafter in this section referred to as “programs”), including a study of the effect of the support levels on the ability of producers to meet their financial obligations (with special emphasis on borrowers from the Farmers Home Administration and the Farm Credit System).
+The Secretary of Agriculture shall conduct an annual study of the financial impact of the support levels established and announced by the Secretary under programs contained in the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\] (hereafter in this section referred to as "programs"), including a study of the effect of the support levels on the ability of producers to meet their financial obligations (with special emphasis on borrowers from the Farmers Home Administration and the Farm Credit System).
 
 #### (b) Report
 
-The Secretary shall annually prepare a report containing the results of the study and submit the report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, not later than the date of the final announcement for the programs by the Secretary for any 1 year.
+The Secretary shall annually prepare a report containing the results of the study and submitthe report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, not later than the date of the final announcement for the programs by the Secretary for any 1 year.
 
 #### (c) Informational purposes
 

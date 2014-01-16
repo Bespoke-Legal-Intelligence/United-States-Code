@@ -20,7 +20,7 @@ The Administration is authorized to prescribe regulations governing the operatio
 
 #### (d) Forfeiture of rights, privileges, and franchises; jurisdiction
 
-Should any small business investment company violate or fail to comply with any of theprovisions of this chapter or of regulations prescribed hereunder, all of its rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such company shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this chapter shall be determined and adjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of such company is located. Any such suit shall be brought by the United States at the instance of the Administration or the Attorney General.
+Should any small business investment company violate or fail to comply with any of the provisions of this chapter or of regulations prescribed hereunder, all of its rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such company shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this chapter shall be determined and adjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of such company is located. Any such suit shall be brought by the United States at the instance of the Administration or the Attorney General.
 
 #### (e) Liability of United States
 
@@ -54,7 +54,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 &emsp;(I) A report from the Securities and Exchange Commission with respect to actions taken to facilitate and stabilize the access of small business concerns to the securities markets.
 
-&emsp;(J) Actions undertaken by the Securities and Exchange Commission to simplify compliance by small business investment companies with the requirements of the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] and to facilitate the election to be taxed as regulated investment companies pursuant to section 851 of title 26.
+&emsp;(J) Actions undertaken by the Securities and Exchange Commission to simplify compliance by small business investment companies with the requirements of the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] and to facilitate the election to be taxed as regulatedinvestment companies pursuant to section 851 of title 26.
 
 (3) In its annual report for the year ending on December 31, 1993, and in each succeeding annual report made pursuant to section 10(a) of the Small Business Act \[15 U.S.C. 639(a)\], the Administration shall include a full and detailed description or account relating to—
 
@@ -84,7 +84,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 (1) The purpose of this subsection is to facilitate the orderly and necessary flow of long-term loans and equity funds from small business investment companies to small business concerns.
 
-(2) In the case of a business loan, the small business investment company making such loan may charge interest on such loan at a rate which does not exceed the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation). In this paragraph, the term “interest” includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenue of the small business concern receiving the business loan.
+(2) In the case of a business loan, the small business investment company making such loan may charge interest on such loan at a rate which does not exceed the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation). In this paragraph, the term "interest" includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenue of the small business concern receiving the business loan.
 
 (3) A State law or constitutional provision shall be preempted for purposes of paragraph (2) with respect to any loan if such loan is made before the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the provisions of this subsection to apply with respect to loans made in such State, except that such State law or constitutional or other provision shall be preempted in the case of a loan made, on or after the date on which such law is adopted or such certification is made, pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.
 
@@ -92,11 +92,11 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 (B) In the case of any loan with respect to which there is a forfeiture of interest under subparagraph (A), the person who paid the interest may recover from a small business investment company making such loan an amount equal to twice the amount of the interest paid on such loan. Such interest may be recovered in a civil action commenced in a court of appropriate jurisdiction not later than two years after the most recent payment of interest.
 
-(Pub. L. 85–699, title III, §308, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §§8, 11(c)(d), Oct. 3, 1961, 75 Stat. 753, 756; Pub. L. 88–273, §5, Feb. 28, 1964, 78 Stat. 147; Pub. L. 89–779, §3, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 90–104, title II, §210, Oct. 11, 1967, 81 Stat. 271; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–501, title II, §204, Oct. 29, 1974, 88 Stat. 1559; Pub. L. 95–507, title I, §102, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 96–104, title I, §104, Nov. 5, 1979, 93 Stat. 790; Pub. L. 96–161, title II, §204, Dec. 28, 1979, 93 Stat. 1236; Pub. L. 96–221, title V, §§524, 529, Mar. 31, 1980, 94 Stat. 166, 168; Pub. L. 99–226, §1, Dec. 28, 1985, 99 Stat. 1744; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–366, title IV, §§408(c), 417(a), Sept. 4, 1992, 106 Stat. 1016, 1019; Pub. L. 103–403, title II, §214, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(e), (h)(1)(B), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 106–9, §2(a), Apr. 5, 1999, 113 Stat. 17; Pub. L. 108–447, div. K, title II, §202, Dec. 8, 2004, 118 Stat. 3465.)
+(Pub. L. 85–699, title III, §308, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §§8, 11(c)(d), Oct. 3, 1961, 75 Stat. 753, 756; Pub. L. 88–273, §5, Feb. 28, 1964, 78 Stat. 147; Pub. L. 89–779, §3, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 90–104, title II, §210, Oct. 11, 1967, 81 Stat. 271; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–501, title II, §204, Oct. 29, 1974, 88 Stat. 1559; Pub. L. 95–507, title I, §102, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 96–104, title I, §104, Nov. 5, 1979, 93 Stat. 790; Pub. L. 96–161, title II, §204, Dec. 28, 1979, 93 Stat. 1236; Pub. L. 96–221, title V, §§524, 529, Mar. 31, 1980, 94 Stat. 166, 168; Pub. L. 99–226, §1, Dec. 28, 1985, 99 Stat. 1744; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–366, title IV, §§408(c), 417(a), Sept. 4, 1992, 106 Stat. 1016, 1019; Pub. L. 103–403, title II, §214, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(e), (h)(1)(B), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 106–9, §2(a), Apr. 5, 1999, 113Stat. 17; Pub. L. 108–447, div. K, title II, §202, Dec. 8, 2004, 118 Stat. 3465.)
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsecs. (a) to (h), see References in Text note set out under section 661 of this title.
+For definition of "this chapter", referred to in subsecs. (a) to (h), see References in Text note set out under section 661 of this title.
 
 The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
 
@@ -112,31 +112,31 @@ Section 204 of Pub. L. 93–501, cited as a credit to this section, was repealed
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–447, which directed the amendment of section 308(b) of the Small Business Investment Act by substituting “Any such company that is licensed before October 1, 2004 and has outstanding financings is authorized to invest funds not needed for its operations—” and pars. (1) to (3) for last sentence, was executed to this section, which is section 308 of the Small Business Investment Act of 1958, to reflect the probable intent of Congress. Prior to amendment, last sentence read as follows: “Such companies with outstanding financings are authorized to invest funds not reasonably needed for their operations in direct obligations of, or obligations guaranteed as to principal and interest by, the United States, or in certificates of deposit maturing within one year or less, issued by any institution the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or in savings accounts of such institutions.”
+<b>2004</b>—Subsec. (b). Pub. L. 108–447, which directed the amendment of section 308(b) of the Small Business Investment Act by substituting "Any such company that is licensed before October 1, 2004 and has outstanding financings is authorized to invest funds not needed for its operations—" and pars. (1) to (3) for last sentence, was executed to this section, which is section 308 of the Small Business Investment Act of 1958, to reflect the probable intent of Congress. Prior to amendment, last sentence read as follows: "Such companies with outstanding financings are authorized to invest funds not reasonably needed for their operations in direct obligations of, or obligations guaranteed as to principal and interest by, the United States, or in certificates of deposit maturing within one year or less, issued by any institution the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or in savings accounts of such institutions."
 
-<b>1999</b>—Subsec. (i)(2). Pub. L. 106–9 inserted at end: “In this paragraph, the term ‘interest’ includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenue of the small business concern receiving the business loan.”
+<b>1999</b>—Subsec. (i)(2). Pub. L. 106–9 inserted at end: "In this paragraph, the term 'interest' includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenue of the small business concern receiving the business loan."
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–208, §208(e), substituted “Except as expressly provided otherwise in this chapter, nothing” for “Nothing”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–208, §208(e), substituted "Except as expressly provided otherwise in this chapter, nothing" for "Nothing".
 
-Subsec. (h). Pub. L. 104–208, §208(h)(1)(B), substituted “section 681 of this title” for “subsection (c) or (d) of section 681 of this title” in pars. (1) to (3).
+Subsec. (h). Pub. L. 104–208, §208(h)(1)(B), substituted "section 681 of this title" for "subsection (c) or (d) of section 681 of this title" in pars. (1) to (3).
 
 <b>1994</b>—Subsec. (h). Pub. L. 103–403 added subsec. (h).
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–366, §408(c), inserted “with outstanding financings” after “Such companies” in third sentence.
+<b>1992</b>—Subsec. (b). Pub. L. 102–366, §408(c), inserted "with outstanding financings" after "Such companies" in third sentence.
 
 Subsec. (g)(3). Pub. L. 102–366, §417(a), added par. (3).
 
-<b>1986</b>—Subsec. (g)(2)(J). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (g)(2)(J). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1985</b>—Subsec. (i)(2). Pub. L. 99–226, §1(a), substituted “the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation).” for “the lowest of the rates described in subparagraphs (A), (B), and (C)” and struck out subpars. (A), (B), and (C) which described the rates.
+<b>1985</b>—Subsec. (i)(2). Pub. L. 99–226, §1(a), substituted "the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation)." for "the lowest of the rates described in subparagraphs (A), (B), and (C)" and struck out subpars. (A), (B), and (C) which described the rates.
 
-Subsec. (i)(3). Pub. L. 99–226, §1(b), substituted “paragraph (2)” for “paragraph (2)(B)”.
+Subsec. (i)(3). Pub. L. 99–226, §1(b), substituted "paragraph (2)" for "paragraph (2)(B)".
 
 <b>1980</b>—Subsec. (h). Pub. L. 96–221, §529, repealed Pub. L. 96–104 and title II of Pub. L. 96–161, resulting in the striking out of subsec. (h) which related to the limitation on interest rates, overcharges, forfeitures, and the recovery of interest payments. See subsec. (i) of this section for successor provisions. See also Codification and 1979 Amendment notes under this section.
 
 Subsec. (i). Pub. L. 96–221, §524, added subsec. (i).
 
-<b>1979</b>—Subsec. (h). Pub. L. 96–161 reenacted subsec. (h) \[as added by Pub. L. 96–104\] with three substitutions of dates: in par. (3)(A) “in the case of a State statute, July 1, 1980” was substituted for “July 1, 1981”, in par. (3)(B) “December 28, 1979” was substituted for “November 5, 1979”, and in par. (3)(C) “December 28, 1979” was substituted for “November 5, 1979”.
+<b>1979</b>—Subsec. (h). Pub. L. 96–161 reenacted subsec. (h) \[as added by Pub. L. 96–104\] with three substitutions of dates: in par. (3)(A) "in the case of a State statute, July 1, 1980" was substituted for "July 1, 1981", in par. (3)(B) "December 28, 1979" was substituted for "November 5, 1979", and in par. (3)(C) "December 28, 1979" was substituted for "November 5, 1979".
 
 Pub. L. 96–104 added subsec. (h). A prior subsec. (h), also relating to limitation on interest rates, overcharges, forfeitures, and the recovery of interest payments, was repealed by section 1 of Pub. L. 96–104.
 
@@ -152,19 +152,19 @@ Subsecs. (f), (g). Pub. L. 89–799, §3(2), added subsecs. (f) and (g).
 
 <b>1964</b>—Subsec. (b). Pub. L. 88–273 authorized investment of funds in insured savings accounts (up to the amount of insurance) in institutions insured by the Federal Savings and Loan Insurance Corporation.
 
-<b>1961</b>—Subsec. (a). Pub. L. 87–341, §8, substituted “investors or lenders” for “financial institutions” wherever appearing, and provided that these investors or lenders can be either incorporated or unincorporated.
+<b>1961</b>—Subsec. (a). Pub. L. 87–341, §8, substituted "investors or lenders" for "financial institutions" wherever appearing, and provided that these investors or lenders can be either incorporated or unincorporated.
 
-Subsec. (b). Pub. L. 87–341, §11(c), substituted “operating under the provisions of this chapter” for “organized under this chapter”.
+Subsec. (b). Pub. L. 87–341, §11(c), substituted "operating under the provisions of this chapter" for "organized under this chapter".
 
-Subsec. (e). Pub. L. 87–341, §11(d), redesignated subsec. (g) as (e), substituted “operating under the provisions of this chapter” for “organized under this chapter”, and repealed former subsec. (e) which related to obtaining restraining orders against violators of this chapter.
+Subsec. (e). Pub. L. 87–341, §11(d), redesignated subsec. (g) as (e), substituted "operating under the provisions of this chapter" for "organized under this chapter", and repealed former subsec. (e) which related to obtaining restraining orders against violators of this chapter.
 
-Subsec. (f). Pub. L. 87–341, §11(d), repealed subsec. (f) which permitted small business investment companies to extend their corporate existence for a term of not more than 30 years. See subsec. (a) of section 681 of this title.
+Subsec. (f). Pub. L. 87–341, §11(d), repealed subsec. (f) which permitted small business investment companiesto extend their corporate existence for a term of not more than 30 years. See subsec. (a) of section 681 of this title.
 
 Subsec. (g). Pub. L. 87–341, §11(d), redesignated subsec. (g) as (e).
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–226, §2, Dec. 28, 1985, 99 Stat. 1744, provided that: “This Act \[amending this section\] shall apply to maximum interest rates prescribed by the Administration on or after April 1, 1980.”
+Pub. L. 99–226, §2, Dec. 28, 1985, 99 Stat. 1744, provided that: "This Act \[amending this section\] shall apply to maximum interest rates prescribed by the Administration on or after April 1, 1980."
 
 #### Effective Date of 1980 Amendment
 
@@ -172,7 +172,7 @@ Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, provided that the
 
 #### Effective Date of 1979 Amendments
 
-Pub. L. 96–161, title II, §207, Dec. 28, 1979, 93 Stat. 1238, which provided that amendment by Pub. L. 96–161 was applicable to loans made in any State during the period beginning on Dec. 28, 1979, and ending on the earliest of\(1) in the case of a State statute, July 1, 1980; (2) the date, after Dec. 28, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section made by Pub. L. 96–161 to apply with respect to loans made in such State; or (3) the date on which such State certifies that the voters of such State, after Dec. 28, 1979, have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which prohibits the charging of interest at the rates provided in the amendment of this section by Pub. L. 96–161, was repealed by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168.
+Pub. L. 96–161, title II, §207, Dec. 28, 1979, 93 Stat. 1238, which provided that amendment by Pub. L. 96–161 was applicable to loans made in any State during the period beginning on Dec. 28, 1979, and ending on the earliest of (1) in the case of a State statute, July 1, 1980; (2) the date, after Dec. 28, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section made by Pub. L. 96–161 to apply with respect to loans made in such State; or (3) the date on which such State certifies that the voters of such State, after Dec. 28, 1979, have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which prohibits the charging of interest at the rates provided in the amendment of this section by Pub. L. 96–161, was repealed by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168.
 
 Pub. L. 96–104, title I, §107, Nov. 5, 1979, 93 Stat. 792, which provided that amendment by Pub. L. 96–104 was applicable to loans made by any State during the period beginning on Nov. 5, 1979, and ending on the earlier of July 1, 1981, or the date after Nov. 5, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section to apply with respect to loans made in such State, or the date on which such State certifies that the voters of such State have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment of the constitution of such State, which prohibits the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–161, title II, §212, Dec. 28, 1979, 93 Stat. 1239.
 
@@ -204,7 +204,7 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
 Pub. L. 96–161, title II, §213, Dec. 28, 1979, 93 Stat. 1240, provided that the provisions of title II of Pub. L. 96–161, which amended this section and repealed provisions which had formerly amended this section, to continue to apply until July 1, 1981, in the case of any State having a constitutional provision regarding maximum interest rates.
 
-#### Definition of “State”
+#### Definition of "State"
 
-For purposes of subsec. (i) of this section, the term “State” to include the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands, see section 527 of Pub. L. 96–221, set out as a note under section 1735f–7a of Title 12, Banks and Banking.
+For purposes of subsec. (i) of this section, the term "State" to include the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands, see section 527 of Pub. L. 96–221, set out as a note under section 1735f–7a of Title 12, Banks and Banking.
 

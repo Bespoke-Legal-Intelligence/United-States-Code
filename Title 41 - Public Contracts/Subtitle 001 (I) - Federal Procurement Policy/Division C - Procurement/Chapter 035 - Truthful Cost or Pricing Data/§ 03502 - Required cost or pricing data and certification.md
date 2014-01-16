@@ -62,7 +62,7 @@ Subcontracts Not Affected by Waiver.—A waiver of requirements for submission o
 
 (f)
 
-Modifications to Prior Contracts.—On the request of a contractor that was required to submit cost or pricing data under subsection (a) in connection with a prime contract entered into on or before October 13, 1994, the head of the executive agency that entered into the contractshall modify the contract to reflect paragraphs (2)(B) and (3)(B) of subsection (a). All those modifications shall be made without requiring consideration.
+Modifications to Prior Contracts.—On the request of a contractor that was required to submit cost or pricing data under subsection (a) in connection with a prime contract entered into on or before October 13, 1994, the head of the executive agency that entered into the contract shall modify the contract to reflect paragraphs (2)(B) and (3)(B) of subsection (a). All those modifications shall be made without requiring consideration.
 
 (g)
 

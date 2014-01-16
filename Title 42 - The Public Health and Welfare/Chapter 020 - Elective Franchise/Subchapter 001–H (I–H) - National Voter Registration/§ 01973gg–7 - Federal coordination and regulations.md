@@ -40,7 +40,7 @@ The mail voter registration form developed under subsection (a)(2) of this secti
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–252 substituted “Election Assistance Commission” for “Federal Election Commission” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–252 substituted "Election Assistance Commission" for "Federal Election Commission" in introductory provisions.
 
 #### Effective Date of 2002 Amendment
 

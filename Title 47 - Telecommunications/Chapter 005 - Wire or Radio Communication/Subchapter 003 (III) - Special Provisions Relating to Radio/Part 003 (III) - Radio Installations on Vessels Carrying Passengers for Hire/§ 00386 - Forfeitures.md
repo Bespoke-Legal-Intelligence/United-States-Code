@@ -12,9 +12,9 @@ The following forfeitures shall apply to this part in addition to penalties and 
 
 <b>1994</b>—Pub. L. 103–414 inserted section catchline.
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §3002(h)(1), substituted “$5,000” for “$500”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §3002(h)(1), substituted "$5,000" for "$500".
 
-Subsec. (b). Pub. L. 101–239, §3002(h)(2), substituted “$1,000” for “$100”.
+Subsec. (b). Pub. L. 101–239, §3002(h)(2), substituted "$1,000" for "$100".
 
 #### Effective Date
 

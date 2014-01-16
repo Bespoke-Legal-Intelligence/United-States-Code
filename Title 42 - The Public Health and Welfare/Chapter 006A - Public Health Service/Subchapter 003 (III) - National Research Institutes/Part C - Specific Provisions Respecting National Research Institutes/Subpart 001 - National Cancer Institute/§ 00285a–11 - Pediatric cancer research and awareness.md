@@ -4,7 +4,7 @@
 
 #### (1) Programs of research excellence in pediatric cancer
 
-&emsp;The Secretary, in collaboration with the Director of NIH and other Federal agencies with interest in prevention and treatment of pediatric cancer, shall continue to enhance, expand, and intensify pediatric cancer research and other activities related to pediatric cancer, including therapeutically applicable research to generate effective treatments, pediatric preclinical testing, and pediatric clinical trials through National Cancer Institute-supported pediatric cancer clinical trial groups and their member institutions. In enhancing, expanding, and intensifying such research and other activities, the Secretary is encouraged to take into consideration the application of such research and other activities for minority, health disparity, and medically underserved communities. For purposes of this section, the term “pediatric cancer research” means research on the causes, prevention, diagnosis, recognition, treatment, and long-term effects of pediatric cancer.
+&emsp;The Secretary, in collaboration with the Director of NIH and other Federal agencies with interest in prevention and treatment of pediatric cancer, shall continue to enhance, expand, and intensify pediatric cancer research and other activities related to pediatric cancer, including therapeutically applicable research to generate effective treatments, pediatric preclinical testing, and pediatric clinical trials through National Cancer Institute-supported pediatric cancer clinical trial groups and their member institutions. In enhancing, expanding, and intensifying such research and other activities, the Secretary is encouraged to take into consideration the application of such research and other activities for minority, health disparity, and medically underserved communities. For purposes of this section, the term "pediatric cancer research" means research on the causes, prevention, diagnosis, recognition, treatment, and long-term effects of pediatric cancer.
 
 #### (2) Peer review requirements
 
@@ -26,7 +26,7 @@
 
 #### (2) Performance measurement, transparency, and accountability
 
-&emsp;For each grant awarded under this subsection, the Secretary shall develop and implement metrics-based performance measures toassess the effectiveness of activities funded under such grant.
+&emsp;For each grant awarded under this subsection, the Secretary shall develop and implement metrics-based performance measures to assess the effectiveness of activities funded under such grant.
 
 #### (3) Informational requirements
 

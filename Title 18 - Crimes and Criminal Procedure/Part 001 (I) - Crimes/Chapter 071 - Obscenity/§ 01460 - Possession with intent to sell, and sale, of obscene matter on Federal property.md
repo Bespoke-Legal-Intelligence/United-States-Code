@@ -8,17 +8,17 @@
 
 > knowingly sells or possesses with intent to sell an obscene visual depiction shall be punished by a fine in accordance with the provisions of this title or imprisoned for not more than 2 years, or both.
 
-(b) For the purposes of this section, the term “visual depiction” includes undeveloped film and videotape but does not include mere words.
+(b) For the purposes of this section, the term "visual depiction" includes undeveloped film and videotape but does not include mere words.
 
 (Added Pub. L. 100–690, title VII, §7526(a), Nov. 18, 1988, 102 Stat. 4503; amended Pub. L. 101–647, title III, §323(c), Nov. 29, 1990, 104 Stat. 4819.)
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–647, §323(c)(1), struck out “or a visual depiction of a minor engaging in or assisting another person to engage in sexually explicit conduct,” after “visual depiction” in concluding provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647, §323(c)(1), struck out "or a visual depiction of a minor engaging in or assisting another person to engage in sexually explicit conduct," after "visual depiction" in concluding provisions.
 
-Subsec. (b). Pub. L. 101–647, §323(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of this section—
+Subsec. (b). Pub. L. 101–647, §323(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "For the purposes of this section—
 
-&emsp;“(1) the term ‘visual depiction’ includes undeveloped film and videotape but does not include mere words; and
+&emsp;"(1) the term 'visual depiction' includes undeveloped film and videotape but does not include mere words; and
 
-&emsp;“(2) the terms ‘minor’ and ‘sexually explicit conduct’ have the meaning given those terms in chapter 110 of this title.”
+&emsp;"(2) the terms 'minor' and 'sexually explicit conduct' have the meaning given those terms in chapter 110 of this title."
 

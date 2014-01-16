@@ -2,13 +2,13 @@
 
 For purposes of this chapter—
 
-&emsp;(1) the term “Secretary” means the Secretary of Energy;
+&emsp;(1) the term "Secretary" means the Secretary of Energy;
 
-&emsp;(2) the term “Government agency” means any department, agency, commission, or independent establishment in the executive branch of the Federal Government, or any corporation, wholly or partly owned by the United States, which is an instrumentality of the United States, or any board, bureau, division, service, office, officer, authority, administration, or other establishment in the executive branch of the Federal Government;
+&emsp;(2) the term "Government agency" means any department, agency, commission, or independent establishment in the executive branch of the Federal Government, or any corporation, wholly or partly owned by the United States, which is an instrumentality of the United States, or any board, bureau, division, service, office, officer, authority, administration, or other establishment in the executive branch of the Federal Government;
 
-&emsp;(3) the term “Commission” means the Nuclear Regulatory Commission; and
+&emsp;(3) the term "Commission" means the Nuclear Regulatory Commission; and
 
-&emsp;(4) the term “Advisory Committee” means the Advisory Committee on Reactor Safeguards established by section 2039 of this title.
+&emsp;(4) the term "Advisory Committee" means the Advisory Committee on Reactor Safeguards established by section 2039 of this title.
 
 (Pub. L. 96–567, §3, Dec. 22, 1980, 94 Stat. 3329.)
 

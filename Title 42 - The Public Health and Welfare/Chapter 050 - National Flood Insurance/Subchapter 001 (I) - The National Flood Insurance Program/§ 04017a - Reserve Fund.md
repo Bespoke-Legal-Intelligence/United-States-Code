@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Reserve Fund
 
-In carrying out the flood insurance program authorized by this subchapter, the Administrator shall establish in the Treasury of the United States a National Flood Insurance Reserve Fund (in this section referred to as the “Reserve Fund”) which shall—
+In carrying out the flood insurance program authorized by this subchapter, the Administrator shall establish in the Treasury of the United States a National Flood Insurance Reserve Fund (in this section referred to as the "Reserve Fund") which shall—
 
 &emsp;(1) be an account separate from any other accounts or funds available to the Administrator; and
 
@@ -72,7 +72,7 @@ The phase-in requirements under this subsection are as follows:
 
 #### (e) Limitation on reserve ratio
 
-In any given fiscal year, if the Administrator determines that the reserve ratio required undersubsection (b) cannot be achieved, the Administrator shall submit a report to Congress that—
+In any given fiscal year, if the Administrator determines that the reserve ratio required under subsection (b) cannot be achieved, the Administrator shall submit a report to Congress that—
 
 &emsp;(1) describes and details the specific concerns of the Administrator regarding the consequences of the reserve ratio not being achieved;
 
@@ -88,5 +88,5 @@ The Secretary of the Treasury shall invest such amounts of the Reserve Fund as t
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(3)(A), was in the original “this Act”, and was translated as reading “this title”, meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (c)(3)(A), was in the original "this Act", and was translated as reading "this title", meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 

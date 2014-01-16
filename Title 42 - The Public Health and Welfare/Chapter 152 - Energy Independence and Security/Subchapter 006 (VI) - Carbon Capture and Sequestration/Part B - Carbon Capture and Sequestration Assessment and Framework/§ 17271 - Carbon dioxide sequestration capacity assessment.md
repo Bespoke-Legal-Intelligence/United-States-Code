@@ -6,27 +6,27 @@ In this section—
 
 #### (1) Assessment
 
-&emsp;The term “assessment” means the national assessment of onshore capacity for carbon dioxide completed under subsection (f).
+&emsp;The term "assessment" means the national assessment of onshore capacity for carbon dioxide completed under subsection (f).
 
 #### (2) Capacity
 
-&emsp;The term “capacity” means the portion of a sequestration formation that can retain carbon dioxide in accordance with the requirements (including physical, geological, and economic requirements) established under the methodology developed under subsection (b).
+&emsp;The term "capacity" means the portion of a sequestration formation that can retain carbon dioxide in accordance with the requirements (including physical, geological, and economic requirements) established under the methodology developed under subsection (b).
 
 #### (3) Engineered hazard
 
-&emsp;The term “engineered hazard” includes the location and completion history of any well that could affect potential sequestration.
+&emsp;The term "engineered hazard" includes the location and completion history of any well that could affect potential sequestration.
 
 #### (4) Risk
 
-&emsp;The term “risk” includes any risk posed by geomechanical, geochemical, hydrogeological, structural, and engineered hazards.
+&emsp;The term "risk" includes any risk posed by geomechanical, geochemical, hydrogeological, structural, and engineered hazards.
 
 #### (5) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior, acting through the Director of the United States Geological Survey.
+&emsp;The term "Secretary" means the Secretary of the Interior, acting through the Director of the United States Geological Survey.
 
 #### (6) Sequestration formation
 
-&emsp;The term “sequestration formation” means a deep saline formation, unmineable coal seam, or oil or gas reservoir that is capable of accommodating a volume of industrial carbon dioxide.
+&emsp;The term "sequestration formation" means a deep saline formation, unmineable coal seam, or oil or gas reservoir that is capable of accommodating a volume of industrial carbon dioxide.
 
 #### (b) Methodology
 
@@ -50,7 +50,7 @@ Not later than 1 year after December 19, 2007, the Secretary shall develop a met
 
 #### (A) Consultation
 
-&emsp;&emsp;The Secretary shall consult with the Secretary of Energy and the Administrator ofthe Environmental Protection Agency on issues of data sharing, format, development of the methodology, and content of the assessment required under this section to ensure the maximum usefulness and success of the assessment.
+&emsp;&emsp;The Secretary shall consult with the Secretary of Energy and the Administrator of the Environmental Protection Agency on issues of data sharing, format, development of the methodology, and content of the assessment required under this section to ensure the maximum usefulness and success of the assessment.
 
 #### (B) Cooperation
 

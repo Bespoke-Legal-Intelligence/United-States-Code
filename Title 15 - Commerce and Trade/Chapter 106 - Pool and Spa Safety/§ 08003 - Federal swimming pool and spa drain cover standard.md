@@ -2,11 +2,11 @@
 
 #### (a) Consumer product safety rule
 
-The requirements described in subsection (b) shall be treated as a consumer product safetyrule issued by the Consumer Product Safety Commission under the Consumer Product Safety Act (15 U.S.C. 2051 et seq.).
+The requirements described in subsection (b) shall be treated as a consumer product safety rule issued by the Consumer Product Safety Commission under the Consumer Product Safety Act (15 U.S.C. 2051 et seq.).
 
 #### (b) Drain cover standard
 
-Effective 1 year after December 19, 2007, each swimming pool or spa drain cover manufactured, distributed, or entered into commerce in the United States shall conform to the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard regulating such swimming pool or drain cover. If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public.
+Effective 1 year after December 19, 2007, each swimming pool or spa drain cover manufactured,distributed, or entered into commerce in the United States shall conform to the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard regulating such swimming pool or drain cover. If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public.
 
 #### (c) Public pools
 
@@ -50,7 +50,7 @@ Effective 1 year after December 19, 2007, each swimming pool or spa drain cover 
 
 #### (2) Public pool and spa defined
 
-&emsp;In this subsection, the term “public pool and spa” means a swimming pool or spa that is—
+&emsp;In this subsection, the term "public pool and spa" means a swimming pool or spa that is—
 
 &emsp;&emsp;(A) open to the public generally, whether for a fee or free of charge;
 
@@ -76,5 +76,5 @@ The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–314 inserted at end “If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–314 inserted at end "If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public."
 

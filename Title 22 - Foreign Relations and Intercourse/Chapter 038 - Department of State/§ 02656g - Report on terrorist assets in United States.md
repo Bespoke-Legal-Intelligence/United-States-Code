@@ -8,13 +8,13 @@ Beginning 90 days after October 28, 1991, and every 365 days thereafter, the Sec
 
 For purposes of this section—
 
-&emsp;(1) the term “terrorist countries”, refers to countries designated by the Secretary of State under section 2780(d) of this title; and
+&emsp;(1) the term "terrorist countries", refers to countries designated by the Secretary of State under section 2780(d) of this title; and
 
-&emsp;(2) the term “international terrorism” has the meaning given such term in section 2656f(d) of this title.
+&emsp;(2) the term "international terrorism" has the meaning given such term in section 2656f(d) of this title.
 
 (Pub. L. 102–138, title III, §304, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title I, §133(b)(2), Apr. 30, 1994, 108 Stat. 396.)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–236 substituted “Secretary of the Treasury, in consultation with the Attorney General and appropriate investigative agencies,” for “Secretary of the Treasury” and inserted at end “Each such report shall provide a detailed list and description of specific assets.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–236 substituted "Secretary of the Treasury, in consultation with the Attorney General and appropriate investigative agencies," for "Secretary of the Treasury" and inserted at end "Each such report shall provide a detailed list and description of specific assets."
 

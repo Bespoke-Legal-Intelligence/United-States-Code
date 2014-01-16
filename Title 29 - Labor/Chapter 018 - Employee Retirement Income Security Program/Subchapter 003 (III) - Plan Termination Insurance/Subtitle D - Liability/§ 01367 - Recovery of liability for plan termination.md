@@ -8,11 +8,11 @@ The corporation is authorized to make arrangements with contributing sponsors an
 
 <b>1989</b>—Pub. L. 101–239 amended directory language of Pub. L. 99–272, §11016(a)(6)(A)(ii), see 1986 Amendment note below.
 
-<b>1987</b>—Pub. L. 100–203 inserted “or may become” after “who are”.
+<b>1987</b>—Pub. L. 100–203 inserted "or may become" after "who are".
 
-<b>1986</b>—Pub. L. 99–272, §11016(a)(6)(A)(i), (iii), substituted “of liability” for “of employer liability” in section catchline and inserted “of amounts of liability to the corporation accruing as of the termination date” in text.
+<b>1986</b>—Pub. L. 99–272, §11016(a)(6)(A)(i), (iii), substituted "of liability" for "of employer liability" in section catchline and inserted "of amounts of liability to the corporation accruing as of the termination date" in text.
 
-Pub. L. 99–272, §11016(a)(6)(A)(ii), as amended by Pub. L. 101–239, substituted “contributing sponsors and members of their controlled groups” for “employers”.
+Pub. L. 99–272, §11016(a)(6)(A)(ii), as amended by Pub. L. 101–239, substituted "contributing sponsors and members of their controlled groups" for "employers".
 
 #### Effective Date of 1989 Amendment
 

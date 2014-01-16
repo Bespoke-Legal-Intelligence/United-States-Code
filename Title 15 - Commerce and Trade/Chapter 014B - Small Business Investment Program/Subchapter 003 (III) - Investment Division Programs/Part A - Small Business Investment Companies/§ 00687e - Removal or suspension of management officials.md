@@ -1,8 +1,8 @@
 ### §687e. Removal or suspension of management officials
 
-#### (a) Definition of “management official”
+#### (a) Definition of "management official"
 
-In this section, the term “management official” means an officer, director, general partner, manager, employee, agent, or other participant in the management or conduct of the affairs of a licensee.
+In this section, the term "management official" means an officer, director, general partner, manager, employee, agent, or other participant in the management or conduct of the affairs of a licensee.
 
 #### (b) Removal of management officials
 
@@ -94,7 +94,7 @@ In this section, the term “management official” means an officer, director, 
 
 #### (4) Authority upon dismissal or other disposition
 
-&emsp;A finding of not guilty or other disposition of charges described in paragraph (1) shall notpreclude the Administrator from thereafter instituting proceedings to suspend or remove the management official from office, or to prohibit the management official from participation in the management or conduct of the affairs of the licensee, or both, pursuant to subsection (b) or (c) of this section.
+&emsp;A finding of not guilty or other disposition of charges described in paragraph (1) shall not preclude the Administrator from thereafter instituting proceedings to suspend or remove the management official from office, or to prohibit the management official from participation in the management or conduct of the affairs of the licensee, or both, pursuant to subsection (b) or (c) of this section.
 
 #### (e) Notification to licensees
 
@@ -154,9 +154,9 @@ Copies of each notice required to be served on a management official under this 
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsec. (b)(1)(A)(i)(I), (II), see References in Text note set out under section 661 of this title.
+For definition of "this chapter", referred to in subsec. (b)(1)(A)(i)(I), (II), see References in Text note set out under section 661 of this title.
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–100 amended section catchline and text generally. Prior to amendment, text related to removal and suspension of directors and officers of licensees, with regard to written notice of intention to remove and grounds for removal; suspension pending completion of administrative proceedings; a hearing upon notice of intention to remove a director or officer and issuance of an order of removal; a stay of suspension and/or prohibition by a United States district court; suspension of directors and officers charged with felonies involving dishonesty or breach of trust; and procedural aspects of hearings provided for in this section.
+<b>2001</b>—Pub. L. 107–100 amended section catchline and text generally. Prior to amendment, text related to removal and suspension of directors and officers of licensees, with regard to written notice of intention to remove and grounds for removal; suspension pending completion of administrative proceedings; a hearingupon notice of intention to remove a director or officer and issuance of an order of removal; a stay of suspension and/or prohibition by a United States district court; suspension of directors and officers charged with felonies involving dishonesty or breach of trust; and procedural aspects of hearings provided for in this section.
 

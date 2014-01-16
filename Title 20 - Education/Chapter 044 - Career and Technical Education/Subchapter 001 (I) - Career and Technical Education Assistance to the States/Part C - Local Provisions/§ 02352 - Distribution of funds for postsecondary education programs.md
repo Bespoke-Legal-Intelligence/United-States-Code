@@ -26,7 +26,7 @@
 
 #### (4) Waiver
 
-&emsp;The eligible agency may waive the application of paragraph (3)(A)(i) in any case in which the eligible institution is located in a rural, sparsely populated area.
+&emsp;The eligible agency may waive the application of paragraph (3)(A)(i) in any case in whichthe eligible institution is located in a rural, sparsely populated area.
 
 #### (b) Waiver for more equitable distribution
 

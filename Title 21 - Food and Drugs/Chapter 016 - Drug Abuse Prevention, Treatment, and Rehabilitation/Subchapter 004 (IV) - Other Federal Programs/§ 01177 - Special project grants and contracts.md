@@ -2,13 +2,13 @@
 
 #### (a) Scope of programs; priority
 
-The Secretary <sup>1</sup> acting through the National Institute on Drug Abuse, may make grants toand enter into contracts with individuals and public and private nonprofit entities—
+The Secretary <sup>1</sup> acting through the National Institute on Drug Abuse, may make grants to and enter into contracts with individuals and public and private nonprofit entities—
 
 &emsp;(1) to provide training seminars, educational programs, and technical assistance for the development, demonstration, and evaluation of drug abuse prevention, treatment, and rehabilitation programs; and
 
 &emsp;(2) to conduct demonstration and evaluation projects, with a high priority on prevention and early intervention projects and on identifying new and more effective drug abuse prevention, treatment, and rehabilitation programs.
 
-> In the implementation of his authority under this section, the Secretary shall accord a high priority to applications for grants or contracts for primary prevention programs. For purposes of the preceding sentence, primary prevention programs include programs designed to discourage persons from beginning drug abuse. To the extent that appropriations authorized under this section are used to fund treatment services, the Secretary shall not limit such funding to treatment for opiate abuse, but shall also provide support for treatment for non-opiate drug abuse including polydrug abuse. Furthermore, nothing shall prevent the use of funds provided under this section for programs and projects aimed at the prevention, treatment, and rehabilitation of alcohol abuse and alcoholism as well as drug abuse.
+> In the implementation of his authority under this section, the Secretary shall accord a high priority to applications for grants or contracts for primary prevention programs. For purposes of the preceding sentence, primary prevention programs include programs designed to discourage persons from beginning drug abuse. To the extent that appropriations authorized under this section are used to fund treatment services, the Secretary shall not limit such funding to treatment for opiate abuse, but shall also provide support for treatment for non-opiate drug abuse including polydrug abuse. Furthermore, nothing shall prevent the use of funds provided underthis section for programs and projects aimed at the prevention, treatment, and rehabilitation of alcohol abuse and alcoholism as well as drug abuse.
 
 #### (b) Authorization of appropriations
 
@@ -32,7 +32,7 @@ There are authorized to be appropriated $25,000,000 for the fiscal year ending J
 
 #### (d) Programs and projects aimed at underserved groups; encouragement and special consideration given to applications
 
-The Secretary shall encourage the submission of and give special consideration to applicationsunder this section to programs and projects aimed at underserved populations such as racial and ethnic minorities, Native Americans (including Native Hawaiians and Native American Pacific Islanders), youth, the elderly, women, handicapped individuals, and families of drug abusers.
+The Secretary shall encourage the submission of and give special consideration to applications under this section to programs and projects aimed at underserved populations such as racial and ethnic minorities, Native Americans (including Native Hawaiians and Native American Pacific Islanders), youth, the elderly, women, handicapped individuals, and families of drug abusers.
 
 #### (e) Payments; advances; reimbursement; installments
 
@@ -56,13 +56,13 @@ Projects and programs for which grants and contracts are made or entered into un
 
 #### Amendments
 
-<b>1983</b>—Subsec. (d). Pub. L. 98–24 substituted “Native Americans (including Native Hawaiians and Native American Pacific Islanders)” for “native Americans”.
+<b>1983</b>—Subsec. (d). Pub. L. 98–24 substituted "Native Americans (including Native Hawaiians and Native American Pacific Islanders)" for "native Americans".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §970(b), substituted “The Secretary acting through the National Institute on Drug Abuse, may make grants to and enter into contracts with individuals, and public and private nonprofit entities” for “The Secretary shall” in introductory provision preceding par. (1), reduced the enumeration of authorized activities of the Secretary from six paragraphs to two paragraphs thereby eliminating provisions relating to the recruitment, training, and employment of participants in treatment programs, the establishment, conduct, and evaluation of drug abuse prevention, treatment, and rehabilitation programs, the development of methods to deal with drug abuse in particular areas, the improvement of drug maintenance techniques or programs, and the establishment, conduct, and evaluation of drug abuse prevention and treatment programs, and inserted provision that nothing shall prevent the use of funds provided under this section for programs and projects aimed at the prevention, treatment, and rehabilitation of alcohol abuse and alcoholism as well as drug abuse.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §970(b), substituted "The Secretary acting through the National Institute on Drug Abuse, may make grants to and enter into contracts with individuals, and public and private nonprofit entities" for "The Secretary shall" in introductory provision preceding par. (1), reduced the enumeration of authorized activities of the Secretary from six paragraphs to two paragraphs thereby eliminating provisions relating to the recruitment, training, and employment of participants in treatment programs, the establishment, conduct, and evaluation of drug abuse prevention, treatment, and rehabilitation programs, the development of methods to deal with drug abuse in particular areas, the improvement of drug maintenance techniques or programs, and the establishment, conduct, and evaluation of drug abuse prevention and treatment programs, and inserted provision that nothing shall prevent the use of funds provided under this section for programs and projects aimed at the prevention, treatment, and rehabilitation of alcohol abuse and alcoholism as well as drug abuse.
 
 Subsec. (b). Pub. L. 97–35, §970(c), inserted provisions relating to fiscal year ending Sept. 30, 1982.
 
-Subsec. (c)(2). Pub. L. 97–35, §970(d)(1), substituted “responsible for the administration of drug abuse prevention activities” for “designated or established under section 1176 of this title” and “any State” for “the State” and struck out reference to drug abuse under section 1176 of this title.
+Subsec. (c)(2). Pub. L. 97–35, §970(d)(1), substituted "responsible for the administration of drug abuse prevention activities" for "designated or established under section 1176 of this title" and "any State" for "the State" and struck out reference to drug abuse under section 1176 of this title.
 
 Subsec. (c)(3)(D). Pub. L. 97–35, §970(d)(2), struck out subpar. (D) which had provided that approval of a grant or contract could be granted only if the application provided for reasonable assurances that Federal funds made available under this section would be used to supplement and increase the level of State, local, and other non-Federal funds that would in the absence of such Federal funds be made available for the programs described in this section and would not supplant State or local funds.
 
@@ -70,15 +70,15 @@ Subsec. (d). Pub. L. 97–35, §970(e), inserted applicability to racial and eth
 
 Subsec. (g). Pub. L. 97–35, §970(f), added subsec. (g).
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–181, §7(a)(1), substituted “development, demonstration and evaluation of drug abuse” for “development of drug abuse”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–181, §7(a)(1), substituted "development, demonstration and evaluation of drug abuse" for "development of drug abuse".
 
-Subsec. (a)(5). Pub. L. 96–181, §7(a)(2), substituted “drug maintenance and detoxification techniques” for “drug maintenance techniques”.
+Subsec. (a)(5). Pub. L. 96–181, §7(a)(2), substituted "drug maintenance and detoxification techniques" for "drug maintenance techniques".
 
 Subsec. (a)(6). Pub. L. 96–181, §7(a)(3), in provisions relating to evaluation of drug abuse prevention and treatment programs, inserted provision that such evaluation be with particular emphasis on replicating effective prevention and treatment programs.
 
 Subsec. (b). Pub. L. 96–181, §7(b), inserted authorization of appropriations for grants and contracts under pars. (3) and (6) of subsec. (a) and for other programs and activities for fiscal years ending Sept. 30, 1980, and Sept. 30, 1981, and required certain percentage of appropriated funds to be obligated for grants and contracts for primary prevention and intervention programs designed to discourage individuals from abusing drugs.
 
-Subsec. (d). Pub. L. 96–181, §7(c), inserted provisions for special consideration to applications for programsand projects for prevention and treatment of drug abuse and drug dependence by elderly.
+Subsec. (d). Pub. L. 96–181, §7(c), inserted provisions for special consideration to applications for programs and projects for prevention and treatment of drug abuse and drug dependence by elderly.
 
 Subsec. (f). Pub. L. 96–181, §7(d), added subsec. (f).
 
@@ -88,7 +88,7 @@ Subsec. (b). Pub. L. 95–461, §2(b), inserted provisions authorizing appropria
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–237, §10(a), inserted provisions which authorized Secretary to give a high priority to applications for grants and contracts for primary prevention programs, and set forth programs included within primary prevention programs and scope of Secretary's funding authority.
 
-Subsec. (b). Pub. L. 94–237, §11, substituted “$160,000,000 for each of the fiscal years ending June 30, 1975 and June 30, 1976; $40,000,000 for the period July 1, 1976, through September 30, 1976; and $160,000,000 for each of the fiscal years ending September 30, 1977, and September 30, 1978,” for “and $160,000,000 for the fiscal year ending June 30, 1975,”.
+Subsec. (b). Pub. L. 94–237, §11, substituted "$160,000,000 for each of the fiscal years ending June 30, 1975 and June 30, 1976; $40,000,000 for the period July 1, 1976, through September 30, 1976; and $160,000,000 for each of the fiscal years ending September 30, 1977, and September 30, 1978," for "and $160,000,000 for the fiscal year ending June 30, 1975,".
 
 Subsec. (c)(4). Pub. L. 94–237, §10(b), added par. (4).
 
@@ -96,7 +96,7 @@ Subsecs. (d), (e). Pub. L. 94–371 added subsec. (d) and redesignated former su
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–371, §10(c)(2), July 26, 1976, 90 Stat. 1041, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to applications submitted for grants or contracts under section 410 of the Drug Abuse Office and Treatment Act of 1972 \[this section\] after June 30, 1976.”
+Pub. L. 94–371, §10(c)(2), July 26, 1976, 90 Stat. 1041, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to applications submitted for grants or contracts under section 410 of the Drug Abuse Office and Treatment Act of 1972 \[this section\] after June 30, 1976."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -26,7 +26,7 @@ June 3, 1916, ch. 134, §81 (1st sentence of 2d par., less 1st 7 words); added J
 
 June 3, 1916, ch. 134, §96, 39 Stat. 207.
 
-In subsection (a), the words “members of the Regular Army and the Regular Air Force” are substituted for the words “officers of the Regular Army” and “enlisted men of the Regular Army”.
+In subsection (a), the words "members of the Regular Army and the Regular Air Force" are substituted for the words "officers of the Regular Army" and "enlisted men of the Regular Army".
 
-In subsection (b), the words “members” is substituted for the words “officers and enlisted men”. The words “one or more”, “information”, and “encampment, maneuver, or other” are omitted as surplusage.
+In subsection (b), the words "members" is substituted for the words "officers and enlisted men". The words "one or more", "information", and "encampment, maneuver, or other" are omitted as surplusage.
 

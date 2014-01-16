@@ -6,7 +6,7 @@ The Director of the Institute is authorized to establish and maintain a program 
 
 #### (b) Support of promising clinicians
 
-In order to foster the application of the most current developments in the etiology, pathogenesis, diagnosis, prevention and treatment of sexually transmitted diseases, amounts made available under this section shall be directed to the support of promising clinicians through awards for research, study, and practice at centers of excellence in sexually transmitted disease research and treatment.
+In order to foster the application of the most current developments in the etiology, pathogenesis, diagnosis, prevention and treatment of sexually transmitted diseases, amounts made available under this section shall be directed to the support of promising clinicians throughawards for research, study, and practice at centers of excellence in sexually transmitted disease research and treatment.
 
 #### (c) Excellence in certain fields
 
@@ -16,7 +16,7 @@ Research shall be carried out under awards made under subsection (b) of this sec
 
 #### Amendments
 
-<b>2007</b>—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $2,250,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 through 2005.”
+<b>2007</b>—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated $2,250,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 through 2005."
 
 #### Effective Date of 2007 Amendment
 

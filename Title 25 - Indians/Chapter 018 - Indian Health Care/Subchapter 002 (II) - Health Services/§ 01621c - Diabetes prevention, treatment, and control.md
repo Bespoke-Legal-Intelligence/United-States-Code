@@ -58,43 +58,43 @@ Amendment by Pub. L. 111–148 is based on sections 101(c)(1) and 123 of title I
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to determination of incidence of, and types of complications resulting from, diabetes among Indians, measures for treatment and control of diabetes among tribes, screening of each Indian receiving services from the Service, model diabetes projects, establishment by diabetes control officers of registry of patients with diabetes, and authorization of appropriations.
 
-Subsec. (c)(1). Pub. L. 111–148 struck out “through fiscal year 2000” before “each model diabetes project” in introductory provisions prior to general amendment of section. See above.
+Subsec. (c)(1). Pub. L. 111–148 struck out "through fiscal year 2000" before "each model diabetes project" in introductory provisions prior to general amendment of section. See above.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–573, §901(2), redesignated par. (1) as entire subsec., redesignated subpars. (A) and\(B) as pars. (1) and (2), respectively, substituted “paragraph (1)” for “subparagraph (A)” in par. (2), and struck out former par. (2) which read as follows: “Within 18 months after November 23, 1988, the Secretary shall prepare and transmit to the President and the Congress a report describing the determinations made and measures taken under paragraph (1) and making recommendations for additional funding to prevent, treat, and control diabetes among Indians.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–573, §901(2), redesignated par. (1) as entire subsec., redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, substituted "paragraph (1)" for "subparagraph (A)" in par. (2), and struck out former par. (2) which read as follows: "Within 18 months after November 23, 1988, the Secretary shall prepare and transmit to the President and the Congress a report describing the determinations made and measures taken under paragraph (1) and making recommendations for additional funding to prevent, treat, and control diabetes among Indians."
 
 Subsec. (c). Pub. L. 102–573, §204(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
-“(1) The Secretary shall continue to maintain during fiscal years 1988 through 1991 each of the following model diabetes projects which are in existence on November 23, 1988:
+"(1) The Secretary shall continue to maintain during fiscal years 1988 through 1991 each of the following model diabetes projects which are in existence on November 23, 1988:
 
-&emsp;“(A) Claremore Indian Hospital in Oklahoma;
+&emsp;"(A) Claremore Indian Hospital in Oklahoma;
 
-&emsp;“(B) Fort Totten Health Center in North Dakota;
+&emsp;"(B) Fort Totten Health Center in North Dakota;
 
-&emsp;“(C) Sacaton Indian Hospital in Arizona;
+&emsp;"(C) Sacaton Indian Hospital in Arizona;
 
-&emsp;“(D) Winnebago Indian Hospital in Nebraska;
+&emsp;"(D) Winnebago Indian Hospital in Nebraska;
 
-&emsp;“(E) Albuquerque Indian Hospital in New Mexico;
+&emsp;"(E) Albuquerque Indian Hospital in New Mexico;
 
-&emsp;“(F) Perry, Princeton, and Old Town Health Centers in Maine; and
+&emsp;"(F) Perry, Princeton, and Old Town Health Centers in Maine; and
 
-&emsp;“(G) Bellingham Health Center in Washington.
+&emsp;"(G) Bellingham Health Center in Washington.
 
-“(2) The Secretary shall establish in fiscal year 1989, and maintain during fiscal years 1989 through 1991, a model diabetes project in each of the following locations:
+"(2) The Secretary shall establish in fiscal year 1989, and maintain during fiscal years 1989 through 1991, a model diabetes project in each of the following locations:
 
-&emsp;“(A) Fort Berthold Reservation;
+&emsp;"(A) Fort Berthold Reservation;
 
-&emsp;“(B) the Navajo Reservation;
+&emsp;"(B) the Navajo Reservation;
 
-&emsp;“(C) the Papago Reservation;
+&emsp;"(C) the Papago Reservation;
 
-&emsp;“(D) the Zuni Reservation; and
+&emsp;"(D) the Zuni Reservation; and
 
-&emsp;“(E) the States of Alaska, California, Minnesota, Montana, Oregon, and Utah.”
+&emsp;"(E) the States of Alaska, California, Minnesota, Montana, Oregon, and Utah."
 
 Subsec. (d)(4). Pub. L. 102–573, §204(2), added par. (4).
 
-Subsec. (e). Pub. L. 102–573, §217(b)(3), substituted “this section” for “subsection (c) of this section” and struck out at beginning “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.”
+Subsec. (e). Pub. L. 102–573, §217(b)(3), substituted "this section" for "subsection (c) of this section" and struck out at beginning "There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

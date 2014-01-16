@@ -32,7 +32,7 @@
 
 #### (i) Requirement
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), a State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to an individual described in clause (ii) of this subparagraph if the individual and the minor child referred to in clause (ii)(II) donot reside in a place of residence maintained by a parent, legal guardian, or other adult relative of the individual as such parent's, guardian's, or adult relative's own home.
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), a State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to an individual described in clause (ii) of this subparagraph if the individual and the minor child referred to in clause (ii)(II) do not reside in a place of residence maintained by a parent, legal guardian, or other adult relative of the individual as such parent's, guardian's, or adult relative's own home.
 
 #### (ii) Individual described
 
@@ -66,7 +66,7 @@
 
 #### (iii) Second-chance home
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “second-chance home” means an entity that provides individuals described in clause (ii) with a supportive and supervised living arrangement in which such individuals are required to learn parenting skills, including child development, family budgeting, health and nutrition, and other skills to promote their long-term economic independence and the well-being of their children.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "second-chance home" means an entity that provides individuals described in clause (ii) with a supportive and supervised living arrangement in which such individuals are required to learn parenting skills, including child development, family budgeting, health and nutrition, and other skills to promote their long-term economic independence and the well-being of their children.
 
 #### (6) No medical services
 
@@ -76,7 +76,7 @@
 
 #### (B) Exception for prepregnancy family planning services
 
-&emsp;&emsp;As used in subparagraph (A), the term “medical services” does not include prepregnancy family planning services.
+&emsp;&emsp;As used in subparagraph (A), the term "medical services" does not include prepregnancy family planning services.
 
 #### (7) No assistance for more than 5 years
 
@@ -100,7 +100,7 @@
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;The average monthly number of families with respect to which an exemption made by a State under clause (i) is in effect for a fiscal year shall not exceed 20 percent of the average monthly number of families to which assistance is provided under theState program funded under this part during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect.
+&emsp;&emsp;&emsp;The average monthly number of families with respect to which an exemption made by a State under clause (i) is in effect for a fiscal year shall not exceed 20 percent of the average monthly number of families to which assistance is provided under the State program funded under this part during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect.
 
 #### (iii) Battered or subject to extreme cruelty defined
 
@@ -126,9 +126,9 @@
 
 &emsp;&emsp;&emsp;In determining the number of months for which an adult has received assistance under a State or tribal program funded under this part, the State or tribe shall disregard any month during which the adult lived in Indian country or an Alaskan Native village if the most reliable data available with respect to the month (or a period including the month) indicate that at least 50 percent of the adults living in Indian country or in the village were not employed.
 
-#### (ii) “Indian country” defined
+#### (ii) "Indian country" defined
 
-&emsp;&emsp;&emsp;As used in clause (i), the term “Indian country” has the meaning given such term in section 1151 of title 18.
+&emsp;&emsp;&emsp;As used in clause (i), the term "Indian country" has the meaning given such term in section 1151 of title 18.
 
 #### (E) Rule of interpretation
 
@@ -144,7 +144,7 @@
 
 #### (8) Denial of assistance for 10 years to a person found to have fraudulently misrepresented residence in order to obtain assistance in 2 or more States
 
-&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that begins on the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX of this chapter, or the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI of this chapter. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
+&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that begins on the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX of this chapter, or the Food and Nutrition Actof 2008 \[7 U.S.C. 2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI of this chapter. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
 
 #### (9) Denial of assistance for fugitive felons and probation and parole violators
 
@@ -192,7 +192,7 @@
 
 #### (B) Child support
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection of child or spousal support under part D of this subchapter and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection ofchild or spousal support under part D of this subchapter and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
 
 #### (12) State requirement to prevent unauthorized spending of benefits
 
@@ -212,11 +212,11 @@
 
 #### (i) Liquor store
 
-&emsp;&emsp;&emsp;The term “liquor store” means any retail establishment which sells exclusively or primarily intoxicating liquor. Such term does not include a grocery store which sells both intoxicating liquor and groceries including staple foods (within the meaning of section 3(r) of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(r))).
+&emsp;&emsp;&emsp;The term "liquor store" means any retail establishment which sells exclusively or primarily intoxicating liquor. Such term does not include a grocery store which sells both intoxicating liquor and groceries including staple foods (within the meaning of section 3(r) of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(r))).
 
 #### (ii) Casino, gambling casino, or gaming establishment
 
-&emsp;&emsp;&emsp;The terms “casino”, “gambling casino”, and “gaming establishment” do not include—
+&emsp;&emsp;&emsp;The terms "casino", "gambling casino", and "gaming establishment" do not include—
 
 &emsp;&emsp;&emsp;&emsp;(I) a grocery store which sells groceries including such staple foods and which also offers, or is located within the same building or complex as, casino, gambling, or gaming activities; or
 
@@ -224,7 +224,7 @@
 
 #### (iii) Electronic benefit transfer transaction
 
-&emsp;&emsp;&emsp;The term “electronic benefit transfer transaction” means the use of a credit ordebit card service, automated teller machine, point-of-sale terminal, or access to an online system for the withdrawal of funds or the processing of a payment for merchandise or a service.
+&emsp;&emsp;&emsp;The term "electronic benefit transfer transaction" means the use of a credit or debit card service, automated teller machine, point-of-sale terminal, or access to an online system for the withdrawal of funds or the processing of a payment for merchandise or a service.
 
 #### (b) Individual responsibility plans
 
@@ -338,7 +338,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 &emsp;&emsp;The Secretary shall enter into agreements with the Secretary of State and the Attorney General under which any information available to them and required in order to make any determination under this subsection will be provided by them to the Secretary (who may, in turn, make the information available, upon request, to a concerned State agency).
 
-#### (4) “Non-213A alien” defined
+#### (4) "Non-213A alien" defined
 
 &emsp;An alien is a non-213A alien for purposes of this subsection if the affidavit of support or similar agreement with respect to the alien that was executed by the sponsor of the alien's entry into the United States was executed other than pursuant to section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
 
@@ -366,7 +366,7 @@ Each State to which a grant is made under section 603 of this title shall, at le
 
 Part D of this subchapter, referred to in subsec. (a)(2), (11)(B), is classified to section 651 et seq. of this title.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (a)(8), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 etseq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (a)(8), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 For effective date of this part, referred to in subsec. (b)(2)(B)(i), see Effective Date note set out below.
 
@@ -392,41 +392,41 @@ Another prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added
 
 <b>2012</b>—Subsec. (a)(12). Pub. L. 112–96 added par. (12).
 
-<b>2008</b>—Subsec. (a)(8). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Subsec. (a)(8). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), substituted "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
 <b>2006</b>—Subsec. (a)(3). Pub. L. 109–171 amended par. (3) generally. Prior to amendment, par. (3) prohibited a State from giving assistance under this part to families not assigning to the State certain rights to support accruing before the date the family ceased to receive assistance, with certain limitations, and prohibited a State from requiring the assignment of future support rights as a condition of providing assistance to a family.
 
 <b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
-Subsec. (a)(1). Pub. L. 105–33, §5505(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family—
+Subsec. (a)(1). Pub. L. 105–33, §5505(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family—
 
-&emsp;“(A) unless the family includes—
+&emsp;"(A) unless the family includes—
 
-&emsp;&emsp;“(i) a minor child who resides with a custodial parent or other adult caretaker relative of the child; or
+&emsp;&emsp;"(i) a minor child who resides with a custodial parent or other adult caretaker relative of the child; or
 
-&emsp;&emsp;“(ii) a pregnant individual; and
+&emsp;&emsp;"(ii) a pregnant individual; and
 
-&emsp;“(B) if the family includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences (unless an exception described in subparagraph (B), (C), or (D) of paragraph (7) applies).”
+&emsp;"(B) if the family includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences (unless an exception described in subparagraph (B), (C), or (D) of paragraph (7) applies)."
 
-Subsec. (a)(3). Pub. L. 105–33, §5505(b), substituted “ceases to receive assistance under” for “leaves” in introductory provisions and cl. (ii) of subpar. (A) and in subpar. (B) and substituted “after such date” for “after the date the family leaves the program” in introductory provisions of subpar. (A).
+Subsec. (a)(3). Pub. L. 105–33, §5505(b), substituted "ceases to receive assistance under" for "leaves" in introductory provisions and cl. (ii) of subpar. (A) and in subpar. (B) and substituted "after such date" for "after the date the family leaves the program" in introductory provisions of subpar. (A).
 
 Subsec. (a)(3)(A). Pub. L. 105–33, §5532(b)(2), redesignated cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and added a new cl. (ii).
 
 Subsec. (a)(5)(A)(ii). Pub. L. 105–33, §5505(c), made technical correction to heading in original.
 
-Subsec. (a)(7)(C)(ii). Pub. L. 105–33, §5505(d)(1), substituted “The average monthly number” for “The number” and inserted “during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect” before period at end.
+Subsec. (a)(7)(C)(ii). Pub. L. 105–33, §5505(d)(1), substituted "The average monthly number" for "The number" and inserted "during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect" before period at end.
 
-Subsec. (a)(7)(D). Pub. L. 105–33, §5505(d)(2), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “In determining the number of months for which an adult has received assistance under the State program funded under this part, the State shall disregard any month during which the adult lived on an Indian reservation or in an Alaskan Native village if, during the month—
+Subsec. (a)(7)(D). Pub. L. 105–33, §5505(d)(2), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: "In determining the number of months for which an adult has received assistance under the State program funded under this part, the State shall disregard any month during which the adult lived on an Indian reservation or in an Alaskan Native village if, during the month—
 
-&emsp;“(i) at least 1,000 individuals were living on the reservation or in the village; and
+&emsp;"(i) at least 1,000 individuals were living on the reservation or in the village; and
 
-&emsp;“(ii) at least 50 percent of the adults living on the reservation or in the village were unemployed.”
+&emsp;"(ii) at least 50 percent of the adults living on the reservation or in the village were unemployed."
 
 Subsec. (a)(7)(G). Pub. L. 105–33, §5001(d), added subpar. (G).
 
 Subsecs. (c), (d). Pub. L. 105–33, §5001(h)(1), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 105–33, §5505(e), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “For special rules relating to the treatment of aliens, see section 1612 of title 8.”
+Subsec. (e). Pub. L. 105–33, §5505(e), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "For special rules relating to the treatment of aliens, see section 1612 of title 8."
 
 Pub. L. 105–33, §5001(h)(1)(A), redesignated subsec. (d) as (e).
 
@@ -444,17 +444,17 @@ Amendment by section 4002(b)(1)(B), (2)(V) of Pub. L. 110–246 effective Oct. 1
 
 Pub. L. 109–171, title VII, §7301(e), Feb. 8, 2006, 120 Stat. 144, provided that:
 
-“(1)
+"(1)
 
-In general.—Except as otherwise provided in this section, the amendments made by the preceding provisions of this section \[amending this section, sections 654 and 657 of this title, and section 6402 of Title 26, Internal Revenue Code\] shall take effect on October 1, 2009, and shall apply to payments under parts A and D of title IV of the Social Security Act \[this part and part D of this subchapter\] for calendar quarters beginning on or after such date, and without regard towhether regulations to implement the amendments (in the case of State programs operated under such part D) are promulgated by such date.
+In general.—Except as otherwise provided in this section, the amendments made by the preceding provisions of this section \[amending this section, sections 654 and 657 of this title, and section 6402 of Title 26, Internal Revenue Code\] shall take effect on October 1, 2009, and shall apply to payments under parts A and D of title IV of the Social Security Act \[42 U.S.C. 601 et seq., 651 et seq.\] for calendar quarters beginning on or after such date, and without regard to whether regulations to implement the amendments (in the case of State programs operated under such part D) are promulgated by such date.
 
-“(2)
+"(2)
 
-State option to accelerate effective date.—Notwithstanding paragraph (1), a State may elect to have the amendments made by the preceding provisions of this section apply to the State and to amounts collected by the State (and the payments under parts A and D), on and after such date as the State may select that is not earlier than October 1, 2008, and not later than September 30, 2009.”
+State option to accelerate effective date.—Notwithstanding paragraph (1), a State may elect to have the amendments made by the preceding provisions of this section apply to the State and to amounts collected by the State (and the payments under parts A and D), on and after such date as the State may select that is not earlier than October 1, 2008, and not later than September 30, 2009."
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–33, title V, §5001(h)(2), Aug. 5, 1997, 111 Stat. 593, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Pub. L. 105–33, title V, §5001(h)(2), Aug. 5, 1997, 111 Stat. 593, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 Amendment by section 5505 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 
@@ -462,15 +462,15 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 Pub. L. 105–33, title V, §5557, Aug. 5, 1997, 111 Stat. 637, as amended by Pub. L. 105–200, title IV, §410(e)(1), July 16, 1998, 112 Stat. 673, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as provided in subsection (b), the amendments made by this chapter \[chapter 3 (§§5531–5557) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 652 to 654, 654b, 655, 656, 657 to 659, 663, 664, and 666 of this title, section 1738B of Title 28, Judiciary and Judicial Procedure, and provisions set out as a note under section 655 of this title\] shall take effect as if included in the enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2105).
 
-“(b)
+"(b)
 
-Exception.—The amendments made by section 5532(b)(2) of this Act \[amending this section\] shall take effect as if the amendments had been included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2112). The amendment made by section 5536(1)(A) \[amending section 666 of this title\] shall not take effect with respect to a State until October 1, 2000, or such earlier date as the State may select.”
+Exception.—The amendments made by section 5532(b)(2) of this Act \[amending this section\] shall take effect as if the amendments had been included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2112). The amendment made by section 5536(1)(A) \[amending section 666 of this title\] shall not take effect with respect to a State until October 1, 2000, or such earlier date as the State may select."
 
-\[Pub. L. 105–200, title IV, §410(e)(2), July 16, 1998, 112 Stat. 673, provided that: “The amendment made by paragraph (1) \[amending section 5557 of Pub. L. 105–33, set out above\] shall take effect as if included in the enactment of section 5557 of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 637).”\]
+\[Pub. L. 105–200, title IV, §410(e)(2), July 16, 1998, 112 Stat. 673, provided that: "The amendment made by paragraph (1) \[amending section 5557 of Pub. L. 105–33, set out above\] shall take effect as if included in the enactment of section 5557 of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 637)."\]
 
 Pub. L. 105–33, title V, §5581(a), Aug. 5, 1997, 111 Stat. 642, provided that the amendment made by that section is effective July 1, 1997.
 

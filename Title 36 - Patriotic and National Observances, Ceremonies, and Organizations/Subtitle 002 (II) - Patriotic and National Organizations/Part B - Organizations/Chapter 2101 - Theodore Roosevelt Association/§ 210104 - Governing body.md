@@ -36,5 +36,5 @@ May 31, 1920, ch. 216, §4 (1st par., last par. less regulations for membership)
 
 The text of 36:4704 (2d sentence) is omitted as executed and obsolete.
 
-In subsection (b), before clause (1), the words “adopt and amend” are substituted for “adopt from time to time . . . and alter, amend, or repeal” for consistency in the revised title and to eliminate unnecessary words. The word “rules” is omitted as included in “regulations”.
+In subsection (b), before clause (1), the words "adopt and amend" are substituted for "adopt from time to time . . . and alter, amend, or repeal" for consistency in the revised title and to eliminate unnecessary words. The word "rules" is omitted as included in "regulations".
 

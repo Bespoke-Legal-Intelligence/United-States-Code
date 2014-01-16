@@ -6,9 +6,9 @@ The Secretary of Commerce is authorized to create an advisory committee to consi
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–443 struck out “the Civil Aeronautics Authority,” after “the Interstate Commerce Commission,”.
+<b>1984</b>—Pub. L. 98–443 struck out "the Civil Aeronautics Authority," after "the Interstate Commerce Commission,".
 
-<b>1981</b>—Pub. L. 97–31 substituted “Department of Transportation” for “United States Maritime Commission”.
+<b>1981</b>—Pub. L. 97–31 substituted "Department of Transportation" for "United States Maritime Commission".
 
 #### Effective Date of 1984 Amendment
 

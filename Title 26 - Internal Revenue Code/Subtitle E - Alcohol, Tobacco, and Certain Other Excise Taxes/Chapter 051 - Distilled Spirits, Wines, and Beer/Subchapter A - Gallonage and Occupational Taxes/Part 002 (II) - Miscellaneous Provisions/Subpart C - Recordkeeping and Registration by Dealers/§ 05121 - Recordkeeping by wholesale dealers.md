@@ -4,7 +4,7 @@
 
 #### (1) Distilled spirits
 
-&emsp;Every wholesale dealer in liquors who sells distilled spirits to other dealers shall keep daily a record of distilled spirits received and disposed of by him, in such form and at such place and containing such information, and shall submit correct summaries of such records to the Secretary at such time and in such form and manner, as the Secretary shall by regulations prescribe. Such dealer shall also submit correct extracts from or copies of such records, at such time and in such form and manner as the Secretary may by regulations prescribe; however, the Secretary may on application by such dealer, in accordance with such regulations, relieve him from this requirement until further notice, whenever the Secretary deems that the submission of such extracts or copies serves no useful purpose in law enforcement or in protection of the revenue.
+&emsp;Every wholesale dealer in liquors who sells distilled spirits to other dealers shall keepdaily a record of distilled spirits received and disposed of by him, in such form and at such place and containing such information, and shall submit correct summaries of such records to the Secretary at such time and in such form and manner, as the Secretary shall by regulations prescribe. Such dealer shall also submit correct extracts from or copies of such records, at such time and in such form and manner as the Secretary may by regulations prescribe; however, the Secretary may on application by such dealer, in accordance with such regulations, relieve him from this requirement until further notice, whenever the Secretary deems that the submission of such extracts or copies serves no useful purpose in law enforcement or in protection of the revenue.
 
 #### (2) Wines and beer
 
@@ -20,19 +20,19 @@ For purposes of this part—
 
 #### (1) Wholesale dealer in liquors
 
-&emsp;The term “wholesale dealer in liquors” means any dealer (other than a wholesale dealer in beer) who sells, or offers for sale, distilled spirits, wines, or beer, to another dealer.
+&emsp;The term "wholesale dealer in liquors" means any dealer (other than a wholesale dealer in beer) who sells, or offers for sale, distilled spirits, wines, or beer, to another dealer.
 
 #### (2) Wholesale dealer in beer
 
-&emsp;The term “wholesale dealer in beer” means any dealer who sells, or offers for sale, beer, but not distilled spirits or wines, to another dealer.
+&emsp;The term "wholesale dealer in beer" means any dealer who sells, or offers for sale, beer, but not distilled spirits or wines, to another dealer.
 
 #### (3) Dealer
 
-&emsp;The term “dealer” means any person who sells, or offers for sale, any distilled spirits, wines, or beer.
+&emsp;The term "dealer" means any person who sells, or offers for sale, any distilled spirits, wines, or beer.
 
 #### (4) Presumption in case of sale of 20 wine gallons or more
 
-&emsp;The sale, or offer for sale, of distilled spirits, wines, or beer, in quantities of 20 wine gallons or more to the same person at the same time, shall be presumptive evidence that the person making such sale, or offer for sale, is engaged in or carrying on the business of a wholesaledealer in liquors or a wholesale dealer in beer, as the case may be. Such presumption may be overcome by evidence satisfactorily showing that such sale, or offer for sale, was made to a person other than a dealer.
+&emsp;The sale, or offer for sale, of distilled spirits, wines, or beer, in quantities of 20 wine gallons or more to the same person at the same time, shall be presumptive evidence that the person making such sale, or offer for sale, is engaged in or carrying on the business of a wholesale dealer in liquors or a wholesale dealer in beer, as the case may be. Such presumption may be overcome by evidence satisfactorily showing that such sale, or offer for sale, was made to a person other than a dealer.
 
 #### (d) Cross references
 
@@ -54,17 +54,17 @@ Another prior section 5121, act Aug. 16, 1954, ch. 736, 68A Stat. 621, related t
 
 <b>2007</b>—Pub. L. 110–172, which directed amendment of this title by redesignating section 5432 as section 5121, was executed by making correction to amendment by Pub. L. 109–59, §11125(b)(5)(B)(i). See 2005 Amendment note below.
 
-<b>2005</b>—Pub. L. 109–59, §11125(b)(5)(B)(i), which directed amendment of section 5114 of this title by substituting “§5432. Recordkeeping by wholesale dealers” for “§5114. Records” in section catchline, was executed by substituting “§5121. Recordkeeping by wholesale dealers” for “§5114. Records”, to reflect the probable intent of Congress and the subsequent amendment by Pub. L. 110–172. See 2007 Amendment note above.
+<b>2005</b>—Pub. L. 109–59, §11125(b)(5)(B)(i), which directed amendment of section 5114 of this title by substituting "§5432. Recordkeeping by wholesale dealers" for "§5114. Records" in section catchline, was executed by substituting "§5121. Recordkeeping by wholesale dealers" for "§5114. Records", to reflect the probable intent of Congress and the subsequent amendment by Pub. L. 110–172. See 2007 Amendment note above.
 
 Pub. L. 109–59, §11125(b)(5)(A), transferred section 5114 of this title to this subpart so as to appear after subpart analysis.
 
 Subsecs. (c), (d). Pub. L. 109–59, §11125(b)(5)(B)(ii), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-Subsec. (d)(3). Pub. L. 109–59, §11125(b)(5)(C), substituted “section 5123” for “section 5146”.
+Subsec. (d)(3). Pub. L. 109–59, §11125(b)(5)(C), substituted "section 5123" for "section 5146".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
-Subsec. (b). Pub. L. 94–455, §§1905(c)(1), 1906(b)(13)(A), struck out “or Territory” after “a State”, “Territories” after “States,”, and “or his delegate” after “Secretary”.
+Subsec. (b). Pub. L. 94–455, §§1905(c)(1), 1906(b)(13)(A), struck out "or Territory" after "a State", "Territories" after "States,", and "or his delegate" after "Secretary".
 
 #### Effective Date of 2005 Amendment
 
@@ -72,5 +72,5 @@ Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1905(c)(1) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by section 1905(c)(1) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 

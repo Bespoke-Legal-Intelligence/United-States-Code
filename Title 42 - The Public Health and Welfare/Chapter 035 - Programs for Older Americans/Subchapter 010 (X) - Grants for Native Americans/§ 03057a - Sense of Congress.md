@@ -10,5 +10,5 @@ A prior section 3057a, Pub. L. 89–73, title VI, §602, as added Pub. L. 95–4
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–375 substituted “older individuals who are Indians, older individuals who are Alaskan Natives, and older individuals who are Native Hawaiians” for “older Indians, older Alaskan Natives, and older Native Hawaiians”.
+<b>1992</b>—Pub. L. 102–375 substituted "older individuals who are Indians, older individuals who are Alaskan Natives, and older individuals who are Native Hawaiians" for "older Indians, older Alaskan Natives, and older Native Hawaiians".
 

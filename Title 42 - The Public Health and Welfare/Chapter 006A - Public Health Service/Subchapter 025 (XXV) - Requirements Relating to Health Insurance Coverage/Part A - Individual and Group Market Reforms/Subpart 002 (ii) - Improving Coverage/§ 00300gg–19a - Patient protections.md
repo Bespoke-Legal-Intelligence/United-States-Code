@@ -30,11 +30,11 @@ If a group health plan, or a health insurance issuer offering group or individua
 
 #### (A) Emergency medical condition
 
-&emsp;&emsp;The term “emergency medical condition” means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that a prudent layperson, who possesses an average knowledge of health and medicine, could reasonably expect the absence of immediate medical attention to result in a condition described in clause (i), (ii), or (iii) of section 1395dd(e)(1)(A) of this title.
+&emsp;&emsp;The term "emergency medical condition" means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that a prudent layperson, who possesses an average knowledge of health and medicine, could reasonably expect the absence of immediate medical attention to result in a condition described in clause (i), (ii), or (iii) of section 1395dd(e)(1)(A) of this title.
 
 #### (B) Emergency services
 
-&emsp;&emsp;The term “emergency services” means, with respect to an emergency medical condition—
+&emsp;&emsp;The term "emergency services" means, with respect to an emergency medical condition—
 
 &emsp;&emsp;&emsp;(i) a medical screening examination (as required under section 1395dd of this title) that is within the capability of the emergency department of a hospital, including ancillary services routinely available to the emergency department to evaluate such emergency medical condition, and
 
@@ -42,7 +42,7 @@ If a group health plan, or a health insurance issuer offering group or individua
 
 #### (C) Stabilize
 
-&emsp;&emsp;The term “to stabilize”, with respect to an emergency medical condition (as defined in subparagraph (A)), has the meaning give <sup>4</sup> in section 1395dd(e)(3) of this title.
+&emsp;&emsp;The term "to stabilize", with respect to an emergency medical condition (as defined in subparagraph (A)), has the meaning give <sup>4</sup> in section 1395dd(e)(3) of this title.
 
 #### (c) Access to pediatric care
 
@@ -90,13 +90,13 @@ Section 2701 of this Act, referred to in subsec. (b)(1)(D), is a reference to se
 
 #### Codification
 
-Pub. L. 111–148, which directed amendment of subpart II of part A of “title XVIII” of act July 1, 1944, by inserting section 2719A after section 2719, was executed by making the insertion in subpart II of part A of title XXVII of the Act, to reflect the probable intent of Congress.
+Pub. L. 111–148, which directed amendment of subpart II of part A of "title XVIII" of act July 1, 1944, by inserting section 2719A after section 2719, was executed by making the insertion in subpart II of part A of title XXVII of the Act, to reflect the probable intent of Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “coverage,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "coverage,".</i>
 
-<i><sup>2</sup></i><i> So in original. The word “and” probably should appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "and" probably should appear.</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “given”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "given".</i>
 

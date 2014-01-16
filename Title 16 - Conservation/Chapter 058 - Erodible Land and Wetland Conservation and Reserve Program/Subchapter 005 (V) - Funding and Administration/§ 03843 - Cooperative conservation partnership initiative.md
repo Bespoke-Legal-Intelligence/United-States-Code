@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Initiative
 
-The Secretary shall establish a cooperative conservation partnership initiative (in this section referred to as the “Initiative”) to work with eligible partners to provide assistance to producers enrolled in a program described in subsection (c)(1) that will enhance conservation outcomes on agricultural and nonindustrial private forest land.
+The Secretary shall establish a cooperative conservation partnership initiative (in this section referred to as the "Initiative") to work with eligible partners to provide assistance to producers enrolled in a program described in subsection (c)(1) that will enhance conservation outcomes on agricultural and nonindustrial private forest land.
 
 #### (b) Purposes
 
@@ -82,7 +82,7 @@ The Secretary shall carry out the Initiative—
 
 &emsp;&emsp;(B) significantly leverage non-Federal financial and technical resources and coordinate with other local, State, or Federal efforts;
 
-&emsp;&emsp;(C) deliver high percentages of applied conservation to address water quality, water conservation, or State, regional, or national conservation initiatives;
+&emsp;&emsp;(C) deliver high percentages of applied conservation to address water quality, waterconservation, or State, regional, or national conservation initiatives;
 
 &emsp;&emsp;(D) provide innovation in conservation methods and delivery, including outcome-based performance measures and methods; or
 
@@ -128,7 +128,7 @@ The Secretary shall provide appropriate technical and financial assistance to pr
 
 &emsp;Overhead or administrative costs of partners may not be covered by funds provided through the Initiative.
 
-(Pub. L. 99–198, title XII, §1243, as added Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008;amended Pub. L. 107–171, title II, §§2003, 2006(d), May 13, 2002, 116 Stat. 233, 237; Pub. L. 110–234, title II, §2707, May 22, 2008, 122 Stat. 1077; Pub. L. 110–246, §4(a), title II, §2707, June 18, 2008, 122 Stat. 1664, 1805.)
+(Pub. L. 99–198, title XII, §1243, as added Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008; amended Pub. L. 107–171, title II, §§2003, 2006(d), May 13, 2002, 116 Stat. 233, 237; Pub. L. 110–234, title II, §2707, May 22, 2008, 122 Stat. 1077; Pub. L. 110–246, §4(a), title II, §2707, June 18, 2008, 122 Stat. 1664, 1805.)
 
 #### Codification
 
@@ -144,7 +144,7 @@ A prior section 3843, Pub. L. 99–198, title XII, §1243, Dec. 23, 1985, 99 Sta
 
 Pub. L. 110–246, §2707(a), redesignated and transferred subsecs. (a), (c), and (d) of this section to subsecs. (c) to (e), respectively, of section 3844 of this title.
 
-<b>2002</b>—Pub. L. 107–171, §2006(d), substituted “Administration of CCEP” for “Administration” in section catchline.
+<b>2002</b>—Pub. L. 107–171, §2006(d), substituted "Administration of CCEP" for "Administration" in section catchline.
 
 Subsec. (f). Pub. L. 107–171, §2003, added subsec. (f).
 

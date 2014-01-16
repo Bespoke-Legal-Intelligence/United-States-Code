@@ -26,7 +26,7 @@ Each report under subsection (a) shall include—
 
 &emsp;&emsp;(H) any initiatives of the Commission that increase the competence of the staff of the Commission;
 
-&emsp;&emsp;(I) the actions taken by the Commission regarding employees of the Commission who have failed to perform their duties and circumstances under which the Commissionhas issued to employees a notice of termination; and
+&emsp;&emsp;(I) the actions taken by the Commission regarding employees of the Commission who have failed to perform their duties and circumstances under which the Commission has issued to employees a notice of termination; and
 
 &emsp;&emsp;(J) such other factors relating to the management of the Commission as the Comptroller General determines are appropriate;
 
@@ -52,7 +52,7 @@ Not later than 90 days after the date on which the Comptroller General submits e
 
 &emsp;Such reimbursements shall—
 
-&emsp;&emsp;(A) be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received; and
+&emsp;&emsp;(A) be credited to the appropriation account "Salaries and Expenses, Government Accountability Office" current when the payment is received; and
 
 &emsp;&emsp;(B) remain available until expended.
 
@@ -72,5 +72,5 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 #### Definition
 
-For definition of “Commission” as used in this section, see section 5301 of Title 12, Banks and Banking.
+For definition of "Commission" as used in this section, see section 5301 of Title 12, Banks and Banking.
 

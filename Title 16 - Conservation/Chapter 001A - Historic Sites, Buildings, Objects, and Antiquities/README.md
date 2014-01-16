@@ -26,7 +26,7 @@
 | 469a–3. | Progress reports by Secretary of the Interior on surveys and work undertaken as result of surveys; disposition of relics and specimens recovered; coordination of survey and recovery activities; annual report. |
 | [469b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469b%20-%20Administration%3B%20contracts%20or%20agreements%3B%20services%20of%20experts%2C%20consultants%2C%20or%20organizations%3B%20acceptance%20of%20funds.md) | Administration; contracts or agreements; services of experts, consultants, or organizations; acceptance of funds. |
 | [469c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469c%20-%20Assistance%20to%20Secretary%20of%20the%20Interior%20by%20Federal%20agencies%20responsible%20for%20construction%20projects%3B%20authorization%20of%20appropriations.md) | Assistance to Secretary of the Interior by Federal agencies responsible for construction projects; authorization of appropriations. |
-| 469c–1. | “State” defined. |
+| 469c–1. | "State" defined. |
 | 469c–2. | Costs for identification, surveys, evaluation and data recovery with respect to historic properties. |
 | [469d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469d%20-%20Ice%20Age%20National%20Scientific%20Reserve%3B%20statement%20of%20purpose.md) | Ice Age National Scientific Reserve; statement of purpose. |
 | [469e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469e%20-%20Plan%20for%20continental%20glaciation.md) | Plan for continental glaciation. |
@@ -110,7 +110,7 @@
 | 470w–1. | Authorization for expenditure of appropriated funds. |
 | 470w–2. | Donations and bequests of money, personal property and less than fee interests in historic property. |
 | 470w–3. | Access to information. |
-| 470w–4. | Attorneys’ fees and costs to prevailing parties in civil actions. |
+| 470w–4. | Attorneys' fees and costs to prevailing parties in civil actions. |
 | 470w–5. | National Museum for the Building Arts. |
 | 470w–6. | Effective date of regulations. |
 | 470w–7. | Historic lighthouse preservation. |

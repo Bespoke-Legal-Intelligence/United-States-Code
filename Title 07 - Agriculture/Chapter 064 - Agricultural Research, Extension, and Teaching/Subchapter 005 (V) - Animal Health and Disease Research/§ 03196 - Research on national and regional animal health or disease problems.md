@@ -48,35 +48,35 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7119, substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7119, substituted "2012" for "2007".
 
-Subsec. (b). Pub. L. 110–246, §7120, inserted “(including 1890 Institutions (as defined in section 7601 of this title))” after “universities”.
+Subsec. (b). Pub. L. 110–246, §7120, inserted "(including 1890 Institutions (as defined in section 7601 of this title))" after "universities".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted "2007" for "2002".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–185, §301(a)(8), substituted “2002” for “1997”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–185, §301(a)(8), substituted "2002" for "1997".
 
-Subsec. (c). Pub. L. 105–185, §606(d)(3), struck out “and the Board” after “Advisory Board” in second sentence and substituted “and the Advisory Board” for “, the Advisory Board, and the Board” in fourth sentence.
+Subsec. (c). Pub. L. 105–185, §606(d)(3), struck out "and the Board" after "Advisory Board" in second sentence and substituted "and the Advisory Board" for ", the Advisory Board, and the Board" in fourth sentence.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127, §812(1), inserted “or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being,” after “problems,” and substituted “1997” for “1995”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §812(1), inserted "or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being," after "problems," and substituted "1997" for "1995".
 
-Subsec. (b). Pub. L. 104–127, §812(2), substituted “State agricultural experiment stations, colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals” for “eligible institutions”.
+Subsec. (b). Pub. L. 104–127, §812(2), substituted "State agricultural experiment stations, colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals" for "eligible institutions".
 
-Subsec. (c). Pub. L. 104–127, §852(b)(5), in introductory provisions, substituted “after consultation with the Advisory Board” for “after consultation with the Joint Council, the Advisory Board,” and “the Secretary, the Advisory Board,” for “the Secretary, the Joint Council, the Advisory Board,”.
+Subsec. (c). Pub. L. 104–127, §852(b)(5), in introductory provisions, substituted "after consultation with the Advisory Board" for "after consultation with the Joint Council, the Advisory Board," and "the Secretary, the Advisory Board," for "the Secretary, the Joint Council, the Advisory Board,".
 
-Pub. L. 104–127, §812(3)(A), in introductory provisions, inserted “, food safety, and animal well-being” after “animal health and disease”.
+Pub. L. 104–127, §812(3)(A), in introductory provisions, inserted ", food safety, and animal well-being" after "animal health and disease".
 
 Subsec. (c)(2) to (5). Pub. L. 104–127, §812(3)(B), added pars. (2) and (3) and redesignated former pars. (2) and (3) as (4) and (5), respectively.
 
-Subsec. (d). Pub. L. 104–127, §812(4), struck out “to eligible institutions” after “award grants”.
+Subsec. (d). Pub. L. 104–127, §812(4), struck out "to eligible institutions" after "award grants".
 
 Subsec. (f). Pub. L. 104–127, §812(5), added subsec. (f).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted “for each of the fiscal years 1991 through 1995,” for “annually for the period beginning October 1, 1981, and ending September 30, 1990,”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted "for each of the fiscal years 1991 through 1995," for "annually for the period beginning October 1, 1981, and ending September 30, 1990,".
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted “1990” for “1985”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted "1990" for "1985".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–98, §1430(a), substituted “as Congress may determine necessary to support research on specific national or regional animal health or disease problems, but not to exceed $35,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year” for “, not to exceed $15,000,000 annually, as Congress may determine necessary to support research on specific national or regional animal health or disease problems”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–98, §1430(a), substituted "as Congress may determine necessary to support research on specific national or regional animal health or disease problems, but not to exceed $35,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year" for ", not to exceed $15,000,000 annually, as Congress may determine necessary to support research on specific national or regional animal health or disease problems".
 
 Subsec. (b). Pub. L. 97–98, §1430(b), substituted provisions that funds appropriated under this section shall be awarded in the form of grants, for periods not to exceed five years, to eligible institutions for provisions that such funds shall be allocated by the Secretary toeligible institutions for work to be done, as mutually agreed upon between the Secretary and the eligible institution or institutions and that the Secretary shall consult the Board in developing plans for the use of these funds whenever possible.
 

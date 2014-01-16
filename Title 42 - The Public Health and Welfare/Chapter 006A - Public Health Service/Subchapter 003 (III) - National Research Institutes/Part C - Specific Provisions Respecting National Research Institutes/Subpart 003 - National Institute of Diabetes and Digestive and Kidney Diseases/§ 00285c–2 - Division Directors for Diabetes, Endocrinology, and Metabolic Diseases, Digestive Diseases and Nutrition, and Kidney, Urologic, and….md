@@ -22,7 +22,7 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(1). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–206 substituted "Ruth L. Kirschstein National Research Service Awards" for "National Research Service Awards".
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–43 substituted “the” for “the the” before “Division Director for Diabetes” in introductory provisions.
+<b>1993</b>—Subsec. (b). Pub. L. 103–43 substituted "the" for "the the" before "Division Director for Diabetes" in introductory provisions.
 

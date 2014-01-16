@@ -54,7 +54,7 @@
 
 (h)(1) The Special Counsel is authorized to appear as amicus curiae in any action brought in a court of the United States related to section 2302(b)(8) or (9), or as otherwise authorized by law. In any such action, the Special Counsel is authorized to present the views of the Special Counsel with respect to compliance with section 2302(b)(8) or (9) and the impact court decisions would have on the enforcement of such provisions of law.
 
-(2) A court of the United States shall grant the application of the Special Counsel to appear inany such action for the purposes described under subsection (a).
+(2) A court of the United States shall grant the application of the Special Counsel to appear in any such action for the purposes described under subsection (a).
 
 (Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 19; amended Pub. L. 103–424, §3(b), Oct. 29, 1994, 108 Stat. 4362; Pub. L. 112–199, title I, §113, Nov. 27, 2012, 126 Stat. 1472.)
 

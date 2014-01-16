@@ -48,7 +48,7 @@ Each State shall—
 
 #### (2) Recommendation regarding use of office to accept and process materials
 
-&emsp;Congress recommends that the State office designated under paragraph (1) be responsible for carrying out the State's duties under this Act, including accepting valid voter registration applications, absentee ballot applications,and absentee ballots (including Federal write-in absentee ballots) from all absent uniformed services voters and overseas voters who wish to register to vote or vote in any jurisdiction in the State.
+&emsp;Congress recommends that the State office designated under paragraph (1) be responsiblefor carrying out the State's duties under this Act, including accepting valid voter registration applications, absentee ballot applications, and absentee ballots (including Federal write-in absentee ballots) from all absent uniformed services voters and overseas voters who wish to register to vote or vote in any jurisdiction in the State.
 
 #### (c) Report on number of absentee ballots transmitted and received
 
@@ -104,11 +104,11 @@ With respect to each absent uniformed services voter and each overseas voter who
 
 &emsp;&emsp;(A) to transmit blank absentee ballots by mail and electronically (in accordance with the preferred method of transmission designated by the absent uniformed services voter or overseas voter under subparagraph (B)) to absent uniformed services voters and overseas voters for an election for Federal office; and
 
-&emsp;&emsp;(B) by which the absent uniformed services voter or overseas voter can designate whether the voter prefers that such blank absentee ballot be transmitted by mail or electronically.
+&emsp;&emsp;(B) by which the absent uniformed services voter or overseas voter can designate whether the voter prefers that such blank absenteeballot be transmitted by mail or electronically.
 
 #### (2) Transmission if no preference indicated
 
-&emsp;In the case where an absent uniformed services voter or overseas voter does not designatea preference under paragraph (1)(B), the State shall transmit the ballot by any delivery method allowable in accordance with applicable State law, or if there is no applicable State law, by mail.
+&emsp;In the case where an absent uniformed services voter or overseas voter does not designate a preference under paragraph (1)(B), the State shall transmit the ballot by any delivery method allowable in accordance with applicable State law, or if there is no applicable State law, by mail.
 
 #### (3) Security and privacy protections
 
@@ -170,7 +170,7 @@ With respect to each absent uniformed services voter and each overseas voter who
 
 #### (h) Tracking marked ballots
 
-The chief State election official, in coordination with local election jurisdictions, shall develop a free access system by which an absent uniformed services voter or overseas voter may determine whether the absentee ballot of the absent uniformed services voter or overseas voter has been received by the appropriate State election official.
+The chief State election official, in coordination with local election jurisdictions, shall develop a free access system by which an absent uniformed services voter or overseas voter maydetermine whether the absentee ballot of the absent uniformed services voter or overseas voter has been received by the appropriate State election official.
 
 #### (i) Prohibiting refusal to accept applications for failure to meet certain requirements
 
@@ -192,7 +192,7 @@ The Help America Vote Act of 2002, referred to in subsec. (c), is Pub. L. 107–
 
 #### Codification
 
-Pub. L. 111–84, §§577(a)(1), 578(a)(1), 579(a)(1), (b), 580(c), and 584(b), added pars. (6) to (11), respectively, to subsec. (a) of this section. In making the addition of par. (9) to subsec. (a), section 579(b)(1) of Pub. L. 111–84 directed the striking out of “and” at the end of par. (7), which could not be executed because the word “and” did not appear at the end.
+Pub. L. 111–84, §§577(a)(1), 578(a)(1), 579(a)(1), (b), 580(c), and 584(b), added pars. (6) to (11), respectively, to subsec. (a) of this section. In making the addition of par. (9) to subsec. (a), section 579(b)(1) of Pub. L. 111–84 directed the striking out of "and" at the end of par. (7), which could not be executed because the word "and" did not appear at the end.
 
 #### Amendments
 
@@ -218,7 +218,7 @@ Subsec. (h). Pub. L. 111–84, §580(d), added subsec. (h).
 
 Subsec. (i). Pub. L. 111–84, §582(a), added subsec. (i).
 
-<b>2004</b>—Subsec. (a)(3). Pub. L. 108–375 substituted “absent uniformed services voters and overseas voters” for “overseas voters”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–375 substituted "absent uniformed services voters and overseas voters" for "overseas voters".
 
 <b>2002</b>—Pub. L. 107–252, §702, designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -228,31 +228,31 @@ Subsec. (c). Pub. L. 107–252, §703(a), added subsec. (c).
 
 Subsec. (d). Pub. L. 107–252, §707, added subsec. (d).
 
-<b>2001</b>—Par. (2). Pub. L. 107–107, §1606(a)(1)(A), struck out “general, special, primary, or runoff” before “election for Federal office” and “and” after semicolon at end and inserted “and absentee ballot application” after “voter registration application”.
+<b>2001</b>—Par. (2). Pub. L. 107–107, §1606(a)(1)(A), struck out "general, special, primary, or runoff" before "election for Federal office" and "and" after semicolon at end and inserted "and absentee ballot application" after "voter registration application".
 
 Par. (4). Pub. L. 107–107, §1606(a)(1)(B), (C), added par. (4).
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title V, §577(b), Oct. 28, 2009, 123 Stat. 2320, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office.”
+Pub. L. 111–84, div. A, title V, §577(b), Oct. 28, 2009, 123 Stat. 2320, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office."
 
-Pub. L. 111–84, div. A, title V, §578(b), Oct. 28, 2009, 123 Stat. 2321, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office.”
+Pub. L. 111–84, div. A, title V, §578(b), Oct. 28, 2009, 123 Stat. 2321, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office."
 
-Pub. L. 111–84, div. A, title V, §579(c), Oct. 28, 2009, 123 Stat. 2324, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office.”
+Pub. L. 111–84, div. A, title V, §579(c), Oct. 28, 2009, 123 Stat. 2324, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office."
 
 Amendment by section 580(c), (d) of Pub. L. 111–84 applicable with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office, see section 580(f) of Pub. L. 111–84, set out as a note under section 1973ff of this title.
 
-Pub. L. 111–84, div. A, title V, §582(c), Oct. 28, 2009, 123 Stat. 2327, provided that: “The amendments made by this section \[amending this section and section 1973ff–2 of this title\] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office.”
+Pub. L. 111–84, div. A, title V, §582(c), Oct. 28, 2009, 123 Stat. 2327, provided that: "The amendments made by this section \[amending this section and section 1973ff–2 of this title\] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office."
 
 Amendment by section 584(b) of Pub. L. 111–84 applicable with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office, see section 584(c) of Pub. L. 111–84, set out as a note under section 1973ff of this title.
 
 #### Clarification Regarding Delegation of State Responsibilities to Local Jurisdictions
 
-Pub. L. 111–84, div. A, title V, §576, Oct. 28, 2009, 123 Stat. 2319, provided that: “Nothing in the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) may be construed to prohibit a State from delegating its responsibilities in carrying out the requirements of such Act, including any requirements imposed as a result of the provisions of and amendments made by this Act \[probably means subtitle H (§§575–589) of title V of div. A of Pub. L. 111–84, see Short Title of 2009 Amendment note set out under section 1971 of this title\], to jurisdictions in the State.”
+Pub. L. 111–84, div. A, title V, §576, Oct. 28, 2009, 123 Stat. 2319, provided that: "Nothing in the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) may be construed to prohibit a State from delegating its responsibilities in carrying out the requirements of such Act, including any requirements imposed as a result of the provisions of and amendments made by this Act \[probably means subtitle H (§§575–589) of title V of div. A of Pub. L. 111–84, see Short Title of 2009 Amendment note set out under section 1971 of this title\], to jurisdictions in the State."
 
 #### Development of Standardized Format for Reports
 
-Pub. L. 107–252, title VII, §703(b), Oct. 29, 2002, 116 Stat. 1724, provided that: “The Election Assistance Commission, working with the Election Assistance Commission Board of Advisors and the Election Assistance Commission Standards Board, shall develop a standardized format for the reports submitted by States and units of local government under section 102(c) of the Uniformed and Overseas Citizens Absentee Voting Act \[42 U.S.C. 1973ff–1(c)\] (as added by subsection (a)), and shall make the format available to the States and units of local government submitting such reports.”
+Pub. L. 107–252, title VII, §703(b), Oct. 29, 2002, 116 Stat. 1724, provided that: "The Election Assistance Commission, working with the Election Assistance Commission Board of Advisors and the Election Assistance Commission Standards Board, shall develop a standardized format for the reports submitted by States and units of local government under section 102(c) of the Uniformed and Overseas Citizens Absentee Voting Act \[42 U.S.C. 1973ff–1(c)\] (as added by subsection (a)), and shall make the format available to the States and units of local government submitting such reports."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “in a manner”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "in a manner".</i>
 

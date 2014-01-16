@@ -48,7 +48,7 @@ Notice and comment.—
 
 &emsp;&emsp;(A)
 
-Upon receipt of a request.—Upon receipt of an exemption request, the Secretary shall publish in the Federal Register (or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a website established by the Secretary to implement the requirements of section 31149) a notice explaining the request that has been filed and shall give the public an opportunity to inspect the safety analysis and any other relevant information known to the Secretary and to comment on the request. This subparagraph does not require the release of information protected by law from public disclosure.
+Upon receipt of a request.—Upon receipt of an exemption request, the Secretary shall publish in the Federal Register (or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149) a notice explaining the request that has been filed and shall give the public an opportunity to inspect the safety analysis and any other relevant information known to the Secretary and to comment on the request. This subparagraph does not require the release of information protected by law from public disclosure.
 
 &emsp;&emsp;(B)
 
@@ -136,7 +136,7 @@ Historical and Revision Notes
 
 Oct. 27, 1986, Pub. L. 99–570, §12013, 100 Stat. 3207–186.
 
-The words “Notwithstanding any other provision of this chapter” are omitted as surplus.
+The words "Notwithstanding any other provision of this chapter" are omitted as surplus.
 
 #### References in Text
 
@@ -144,19 +144,19 @@ The date of enactment of this section, referred to in subsec. (b)(3), probably m
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(4)(A). Pub. L. 112–141, §32913(a)(1), inserted “(or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149)” after “Federal Register”.
+<b>2012</b>—Subsec. (b)(4)(A). Pub. L. 112–141, §32913(a)(1), inserted "(or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149)" after "Federal Register".
 
-Subsec. (b)(4)(B). Pub. L. 112–141, §32913(a)(2), amended subpar. (B) generally. Prior to amendment, text read as follows: “Upon granting a request for exemption, the Secretary shall publish in the Federal Register the name of the person granted the exemption, the provisions from which the person will be exempt, the effective period, and all terms and conditions of the exemption.”
+Subsec. (b)(4)(B). Pub. L. 112–141, §32913(a)(2), amended subpar. (B) generally. Prior to amendment, text read as follows: "Upon granting a request for exemption, the Secretary shall publish in the Federal Register the name of the person granted the exemption, the provisions from which the person will be exempt, the effective period, and all terms and conditions of the exemption."
 
-Subsec. (b)(4)(C). Pub. L. 112–141, §32913(a)(3), inserted “(or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149)” after “Federal Register”.
+Subsec. (b)(4)(C). Pub. L. 112–141, §32913(a)(3), inserted "(or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149)" after "Federal Register".
 
-Subsec. (b)(7). Pub. L. 112–141, §32913(b), amended par. (7) generally. Prior to amendment, text read as follows: “Before granting a request for exemption, the Secretary shall notify State safety compliance and enforcement personnel, including roadside inspectors, and the public that a person will be operating pursuant to an exemption and any terms and conditions that will apply to the exemption.”
+Subsec. (b)(7). Pub. L. 112–141, §32913(b), amended par. (7) generally. Prior to amendment, text read as follows: "Before granting a request for exemption, the Secretary shall notify State safety compliance and enforcement personnel, including roadside inspectors, and the public that a person will be operating pursuant to an exemption and any terms and conditions that will apply to the exemption."
 
-Subsec. (c)(1). Pub. L. 112–141, §32913(c), struck out “in the Federal Register” after “shall publish”.
+Subsec. (c)(1). Pub. L. 112–141, §32913(c), struck out "in the Federal Register" after "shall publish".
 
 Subsecs. (e), (f). Pub. L. 112–141, §32913(d), added subsecs. (e) and (f).
 
-<b>1998</b>—Pub. L. 105–178 amended section catchline and text generally. Prior to amendment, text read as follows: “After notice and an opportunity for comment, the Secretary of Transportation may waive any part of this chapter or a regulation prescribed under this chapter as it applies to a class of individuals or commercial motor vehicles if the Secretary decides the waiver is not contrary to the public interest and does not diminish the safe operation of commercial motor vehicles. A waiver under this section shall be published in the Federal Register with reasons for the waiver.”
+<b>1998</b>—Pub. L. 105–178 amended section catchline and text generally. Prior to amendment, text read as follows: "After notice and an opportunity for comment, the Secretary of Transportation may waive any part of this chapter or a regulation prescribed under this chapter as it applies to a class of individuals or commercial motor vehicles if the Secretary decides the waiver is not contrary to the public interest and does not diminish the safe operation of commercial motor vehicles. A waiver under this section shall be published in the Federal Register with reasons for the waiver."
 
 #### Effective Date of 2012 Amendment
 

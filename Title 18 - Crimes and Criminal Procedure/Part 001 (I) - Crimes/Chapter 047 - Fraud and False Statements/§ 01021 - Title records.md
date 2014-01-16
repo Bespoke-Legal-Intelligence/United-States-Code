@@ -8,11 +8,11 @@ Whoever, being an officer or other person authorized by any law of the United St
 
 Based on title 18, U.S.C., 1940 ed., §194 (Mar. 4, 1909, ch. 321, §105, 35 Stat. 1107).
 
-Words “five years” were substituted for “seven years” as more in conformity with comparable sections of this chapter.
+Words "five years" were substituted for "seven years" as more in conformity with comparable sections of this chapter.
 
 Minor change was made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".
 

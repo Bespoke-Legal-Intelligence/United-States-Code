@@ -28,11 +28,11 @@ If tax is imposed under subsection (a) on the lobbying expenditures of any organ
 
 #### (1) Lobbying expenditures
 
-&emsp;The term “lobbying expenditure” means any amount paid or incurred by the organization in carrying on propaganda, or otherwise attempting to influence legislation.
+&emsp;The term "lobbying expenditure" means any amount paid or incurred by the organizationin carrying on propaganda, or otherwise attempting to influence legislation.
 
 #### (2) Organization manager
 
-&emsp;The term “organization manager” has the meaning given to such term by section 4955(f)(2).
+&emsp;The term "organization manager" has the meaning given to such term by section 4955(f)(2).
 
 #### (3) Joint and several liability
 
@@ -42,5 +42,5 @@ If tax is imposed under subsection (a) on the lobbying expenditures of any organ
 
 #### Effective Date
 
-Pub. L. 100–203, title X, §10714(e), Dec. 22, 1987, 101 Stat. 1330–472, provided that: “The amendments made by this section \[enacting this section and amending sections 6501 and 7454 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title X, §10714(e), Dec. 22, 1987, 101 Stat. 1330–472, provided that: "The amendments made by this section \[enacting this section and amending sections 6501 and 7454 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 1987\]."
 

@@ -38,17 +38,17 @@ Notwithstanding the previous provisions of this section, the reporting and comme
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act" and was translated as reading "this division", meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–204, §1(b)(1)(A), substituted “annually” for “semiannually”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–204, §1(b)(1)(A), substituted "annually" for "semiannually".
 
 Subsec. (e). Pub. L. 112–204, §1(b)(1)(B), added subsec. (e).
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–204, §1(b)(2), Dec. 4, 2012, 126 Stat. 1486, provided that: “The amendments made by this subsection \[amending this section\] shall take effect the first day after the date of enactment of this Act \[Dec. 4, 2012\].”
+Pub. L. 112–204, §1(b)(2), Dec. 4, 2012, 126 Stat. 1486, provided that: "The amendments made by this subsection \[amending this section\] shall take effect the first day after the date of enactment of this Act \[Dec. 4, 2012\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

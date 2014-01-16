@@ -6,13 +6,13 @@ Any awards granted under section 47b of this title shall be certified by the Att
 
 #### References in Text
 
-The National Security Act of 1947, as amended, referred to in text, is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
+The National Security Act of 1947, as amended, referred to in text, is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>1974</b>—Pub. L. 93–377 substituted “Attorney General” for “Awards Board”.
+<b>1974</b>—Pub. L. 93–377 substituted "Attorney General" for "Awards Board".
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of this title.
 

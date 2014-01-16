@@ -22,5 +22,5 @@ Historical and Revision Notes
 
 Feb. 3, 1978, Pub. L. 95–224, §4, 92 Stat. 4.
 
-The words “type of” are omitted as unnecessary. The word “decides” is substituted for “determines” for consistency.
+The words "type of" are omitted as unnecessary. The word "decides" is substituted for "determines" for consistency.
 

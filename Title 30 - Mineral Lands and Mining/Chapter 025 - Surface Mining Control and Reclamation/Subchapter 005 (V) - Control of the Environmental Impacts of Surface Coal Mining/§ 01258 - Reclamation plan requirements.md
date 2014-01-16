@@ -1,6 +1,6 @@
 ### §1258. Reclamation plan requirements
 
-(a) Each reclamation plan submitted as part of a permit application pursuant to any approved State program or a Federal program under the provisions of this chapter shall include, in the degree of detail necessary to demonstrate thatreclamation required by the State or Federal program can be accomplished, a statement of:
+(a) Each reclamation plan submitted as part of a permit application pursuant to any approved State program or a Federal program under the provisions of this chapter shall include, in the degree of detail necessary to demonstrate that reclamation required by the State or Federal program can be accomplished, a statement of:
 
 &emsp;(1) the identification of the lands subject to surface coal mining operations over the estimated life of those operations and the size, sequence, and timing of the subareas for which it is anticipated that individual permits for mining will be sought;
 

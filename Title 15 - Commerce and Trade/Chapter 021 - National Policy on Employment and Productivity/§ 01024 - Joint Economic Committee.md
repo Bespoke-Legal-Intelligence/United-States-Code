@@ -12,7 +12,7 @@ It shall be the function of the joint committee—
 
 &emsp;(2) to study means of coordinating programs in order to further the policy of this chapter; and
 
-&emsp;(3) as a guide to the several committees of the Congress dealing with legislation relating to the Economic Report, not later than March1 of each year (beginning with the year 1947) to file a report with the Senate and the House of Representatives containing its findings and recommendations with respect to each of the main recommendations made by the President in the Economic Report, and from time to time to make such other reports and recommendations to the Senate and House of Representatives as it deems advisable.
+&emsp;(3) as a guide to the several committees of the Congress dealing with legislation relating to the Economic Report, not later than March 1 of each year (beginning with the year 1947) to file a report with the Senate and the House of Representatives containing its findings and recommendations with respect to each of the main recommendations made by the President in the Economic Report, and from time to time to make such other reports and recommendations to the Senate and House of Representatives as it deems advisable.
 
 #### (c) Vacancies; selection of chairman and vice chairman
 
@@ -20,7 +20,7 @@ Vacancies in the membership of the joint committee shall not affect the power of
 
 #### (d) Hearings; employment and compensation of personnel; cost of stenographic services; utilization of Government services and private research agencies
 
-The joint committee, or any duly authorized subcommittee thereof, is authorized to hold such hearings as it deems advisable, and, within the limitations of its appropriations, the joint committee is empowered to appoint and fix the compensation of such experts, consultants, technicians, and clerical and stenographic assistants, to procure such printing and binding, and to make such expenditures, as it deems necessary and advisable. The cost of stenographic services to report hearings of the joint committee, or any subcommittee thereof, shall not exceed 25 cents per hundred words. The joint committee is authorized to utilize the services, information, and facilities of the departments and establishments of the Government, and also of private research agencies.
+The joint committee, or any duly authorized subcommittee thereof, is authorized to hold such hearings as it deems advisable, and, withinthe limitations of its appropriations, the joint committee is empowered to appoint and fix the compensation of such experts, consultants, technicians, and clerical and stenographic assistants, to procure such printing and binding, and to make such expenditures, as it deems necessary and advisable. The cost of stenographic services to report hearings of the joint committee, or any subcommittee thereof, shall not exceed 25 cents per hundred words. The joint committee is authorized to utilize the services, information, and facilities of the departments and establishments of the Government, and also of private research agencies.
 
 #### (e) Appropriations
 
@@ -42,21 +42,21 @@ Section 284 of title 18, referred to in subsec. (f), was repealed by Pub. L. 87�
 
 <b>1974</b>—Subsec. (e). Pub. L. 93–554 inserted exception relating to requirement of vouchers for the disbursement of salaries of employees paid at an annual rate.
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–2 substituted “ten”, “six”, and “four” for “eight”, “five”, and “three”, respectively.
+<b>1967</b>—Subsec. (a). Pub. L. 90–2 substituted "ten", "six", and "four" for "eight", "five", and "three", respectively.
 
 <b>1964</b>—Subsec. (e). Pub. L. 88–661 authorized appropriations for such sums as may be necessary for each fiscal year and eliminated provisions which limited the authorization to a maximum of $125,000 yearly.
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–1 added one additional Senator and one Representative to the Committee, and substituted provisions requiring the majority party to be represented by five Members and the minority party to be represented by three Members for provisions which required representation to reflect as nearly as may be feasible the relative membership of the majority and minority parties.
 
-<b>1956</b>—Subsec. (a). Act June 19, 1956, substituted “Joint Economic Committee” for “Joint Committee on the Economic Report”.
+<b>1956</b>—Subsec. (a). Act June 19, 1956, substituted "Joint Economic Committee" for "Joint Committee on the Economic Report".
 
-<b>1949</b>—Subsec. (e). Act Oct. 6, 1949, §1, substituted “$125,000” for “$50,000”.
+<b>1949</b>—Subsec. (e). Act Oct. 6, 1949, §1, substituted "$125,000" for "$50,000".
 
 Subsec. (f). Act Oct. 6, 1949, §2, added subsec. (f).
 
-<b>1948</b>—Subsec. (b)(3). Act Feb. 2, 1948, substituted “March 1” for “February 1”.
+<b>1948</b>—Subsec. (b)(3). Act Feb. 2, 1948, substituted "March 1" for "February 1".
 
-<b>1946</b>—Subsec. (b)(3). Act Aug. 2, 1946, substituted “February 1” for “May 1”.
+<b>1946</b>—Subsec. (b)(3). Act Aug. 2, 1946, substituted "February 1" for "May 1".
 
 #### Effective Date of 1974 Amendment
 
@@ -64,11 +64,11 @@ Pub. L. 93–554 provided that the amendment made by Pub. L. 93–554 is effecti
 
 #### Effective Date of 1946 Amendment
 
-Amendment by act Aug. 2, 1946, effective Aug. 2, 1946, see section 245 of that act, set out as a note under section 72a of Title 2, The Congress.
+Amendment by act Aug. 2, 1946, effective Aug. 2, 1946, see section 245 of that act, set out as a note under section 4301 of Title 2, The Congress.
 
 #### Senate Members of Joint Economic Committee for 107th Congress
 
-Pub. L. 107–20, title II, §2806, July 24, 2001, 115 Stat. 185, provided: “That notwithstanding any other provision of law, and specifically section 5(a) of the Employment Act of 1946 (15 U.S.C. 1024(a)), the Members of the Senate to be appointed by the President of the Senate shall for the duration of the One Hundred Seventh Congress, be represented by six Members of the majority party and five Members of the minority party.”
+Pub. L. 107–20, title II, §2806, July 24, 2001, 115 Stat. 185, provided: "That notwithstanding any other provision of law, and specifically section 5(a) of the Employment Act of 1946 (15 U.S.C. 1024(a)), the Members of the Senate to be appointed by the President of the Senate shall for the duration of the One Hundred Seventh Congress, be represented by six Members of the majority party and five Members of the minority party."
 
 Similar provisions were contained in Pub. L. 107–3, Mar. 13, 2001, 115 Stat. 5.
 
@@ -76,9 +76,9 @@ Similar provisions were contained in Pub. L. 107–3, Mar. 13, 2001, 115 Stat. 5
 
 Pub. L. 106–554, §1(a)(2) \[title I, §7\], Dec. 21, 2000, 114 Stat. 2763, 2763A–98, provided that:
 
-“(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate fromthe appropriations account ‘Joint Economic Committee’ under the heading ‘JOINT ITEMS’ shall be paid from the Senate appropriations account for ‘Salaries, Officers and Employees’.
+"(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account 'Joint Economic Committee' under the heading 'JOINT ITEMS' shall be paid from the Senate appropriations account for 'Salaries, Officers and Employees'.
 
-“(b) This section shall apply to pay periods beginning on or after October 1, 2000.”
+"(b) This section shall apply to pay periods beginning on or after October 1, 2000."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

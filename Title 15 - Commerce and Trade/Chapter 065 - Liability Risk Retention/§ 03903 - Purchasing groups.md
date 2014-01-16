@@ -10,7 +10,7 @@ Except as provided in this section and section 3905 of this title, a purchasing 
 
 &emsp;(3) prohibit a purchasing group or its members from purchasing insurance on the group basis described in paragraph (2) of this subsection;
 
-&emsp;(4) prohibit a purchasing group from obtaining insurance on a group basis because thegroup has not been in existence for a minimum period of time or because any member has not belonged to the group for a minimum period of time;
+&emsp;(4) prohibit a purchasing group from obtaining insurance on a group basis because the group has not been in existence for a minimum period of time or because any member has not belonged to the group for a minimum period of time;
 
 &emsp;(5) require that a purchasing group must have a minimum number of members, common ownership or affiliation, or a certain legal form;
 
@@ -88,7 +88,7 @@ A purchasing group may not purchase insurance from a risk retention group that i
 
 Nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a purchasing group is not exempt under this chapter.
 
-#### (h) States’ authority to sue
+#### (h) States' authority to sue
 
 Nothing in this chapter shall affect the authority of any State to bring an action in any Federal or State court.
 
@@ -96,15 +96,15 @@ Nothing in this chapter shall affect the authority of any State to bring an acti
 
 #### Codification
 
-October 27, 1986, referred to in subsec. (e)(1)(B), was in the original “the date of the enactment of this Act” which was translated as meaning the date of the enactment of Pub. L. 99–563, which enacted subsec. (e), to reflect the probable intent of Congress.
+October 27, 1986, referred to in subsec. (e)(1)(B), was in the original "the date of the enactment of this Act" which was translated as meaning the date of the enactment of Pub. L. 99–563, which enacted subsec. (e), to reflect the probable intent of Congress.
 
 #### Amendments
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–563, §8(b)(1), inserted reference to section 3905 of this title.
 
-Subsec. (b)(1). Pub. L. 99–563, §12(d)(1), substituted “liability insurance” for “product liability or completed operations liability insurance, and comprehensive general liability insurance which includes either of these coverages,”.
+Subsec. (b)(1). Pub. L. 99–563, §12(d)(1), substituted "liability insurance" for "product liability or completed operations liability insurance, and comprehensive general liability insurance which includes either of these coverages,".
 
-Subsec. (b)(2)(A). Pub. L. 99–563, §12(d)(2), struck out “product liability or completed operations insurance, and comprehensive general” before “liability coverage”.
+Subsec. (b)(2)(A). Pub. L. 99–563, §12(d)(2), struck out "product liability or completed operations insurance, and comprehensive general" before "liability coverage".
 
 Subsecs. (d) to (h). Pub. L. 99–563, §§6, 8(b)(2), added subsecs. (d) to (h).
 

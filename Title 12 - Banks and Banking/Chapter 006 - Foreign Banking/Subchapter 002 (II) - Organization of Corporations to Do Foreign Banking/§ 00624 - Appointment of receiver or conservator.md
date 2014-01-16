@@ -16,7 +16,7 @@ Title 11 petitions.—The Board may direct the conservator or receiver of a corp
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this section”, meaning section 25A of act Dec. 23, 1913, which is classified to this subchapter (§611 et seq.).
+This subchapter, referred to in text, was in the original "this section", meaning section 25A of act Dec. 23, 1913, which is classified to this subchapter (§611 et seq.).
 
 #### Codification
 
@@ -24,5 +24,5 @@ Section is comprised of par. (16) of section 25A of act Dec. 23, 1913, which com
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–554 amended section catchline and text generally. Prior to amendment, text read as follows: “Whenever the Board of Governors of the Federal Reserve System shall become satisfied of the insolvency of any corporation organized under this subchapter, it may appoint a receiver who shall take possession of all of the property and assets of the corporation and exercise the same rights, privileges, powers, and authority with respect thereto as are now exercised by receivers of national banks appointed by the Comptroller of the Currency of the United States: <i>Provided, however</i>, That the assets of the corporation subject to the laws of other countries or jurisdictions shall be dealt with in accordance with the terms of such laws.”
+<b>2000</b>—Pub. L. 106–554 amended section catchline and text generally. Prior to amendment, text read as follows: "Whenever the Board of Governors of the Federal Reserve System shall become satisfied of the insolvency of any corporation organized under this subchapter, it may appoint a receiver who shall take possession of all of the property and assets of the corporation and exercise the same rights, privileges, powers, and authority with respect thereto as are now exercised by receivers of national banks appointed by the Comptroller of the Currency of the United States: <i>Provided, however</i>, That the assets of the corporation subject to the laws of other countries or jurisdictions shall be dealt with in accordance with the terms of such laws."
 

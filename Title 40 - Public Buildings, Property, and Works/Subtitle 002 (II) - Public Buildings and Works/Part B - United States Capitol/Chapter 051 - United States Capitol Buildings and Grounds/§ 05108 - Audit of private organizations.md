@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 91–510, title IV, §451(a), Oct. 26, 1970, 84 Stat. 1193.
 
-The words “as defined by or pursuant to law” are omitted as unnecessary because of sections 5101 and 5102 of the revised title. The words “Comptroller General” are substituted for “General Accounting Office” because of 31:702 and for consistency in the revised title.
+The words "as defined by or pursuant to law" are omitted as unnecessary because of sections 5101 and 5102 of the revised title. The words "Comptroller General" are substituted for "General Accounting Office" because of 31:702 and for consistency in the revised title.
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Mar. 3, 1925, ch. 428, §6, 43 Stat. 1113.
 
-The words “claim under this chapter” are substituted for “claim on which a libel or cross libel would lie under the provisions of this chapter” to eliminate unnecessary words.
+The words "claim under this chapter" are substituted for "claim on which a libel or cross libel would lie under the provisions of this chapter" to eliminate unnecessary words.
 

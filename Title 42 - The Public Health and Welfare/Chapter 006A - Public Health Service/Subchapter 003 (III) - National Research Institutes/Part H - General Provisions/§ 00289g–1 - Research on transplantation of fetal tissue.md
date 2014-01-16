@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(i) such physician's interest, if any, in the research to be conducted with the tissue; and
 
-&emsp;&emsp;&emsp;(ii) any known medical risks to the woman or risks to her privacy that might be associated with the donation of the tissue and that are in addition to risks ofsuch type that are associated with the woman's medical care.
+&emsp;&emsp;&emsp;(ii) any known medical risks to the woman or risks to her privacy that might be associated with the donation of the tissue and that are in addition to risks of such type that are associated with the woman's medical care.
 
 #### (c) Informed consent of researcher and donee
 
@@ -64,7 +64,7 @@ In research carried out under subsection (a) of this section, human fetal tissue
 
 #### (1) In general
 
-&emsp;In research carried out under subsection (a) of this section, human fetal tissue may be used only if the head of the agency or other entity conducting the research involved certifies to the Secretary that the statements required under subsections (b)(2) and (c) of this section will be available for audit by the Secretary.
+&emsp;In research carried out under subsection (a) of this section, human fetal tissue may be used only if the head of the agency or other entity conducting the research involved certifies to the Secretary that the statements required under subsections (b)(2) and (c) of thissection will be available for audit by the Secretary.
 
 #### (2) Confidentiality of audit
 
@@ -90,9 +90,9 @@ In research carried out under subsection (a) of this section, human fetal tissue
 
 The Secretary shall annually submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this section during the preceding fiscal year, including a description of whether and to what extent research under subsection (a) of this section has been conducted in accordance with this section.
 
-#### (g) “Human fetal tissue” defined
+#### (g) "Human fetal tissue" defined
 
-For purposes of this section, the term “human fetal tissue” means tissue or cells obtained from a dead human embryo or fetus after a spontaneous or induced abortion, or after a stillbirth.
+For purposes of this section, the term "human fetal tissue" means tissue or cells obtained from a dead human embryo or fetus after a spontaneous or induced abortion, or after a stillbirth.
 
 (July 1, 1944, ch. 373, title IV, §498A, as added Pub. L. 103–43, title I, §111, June 10, 1993, 107 Stat. 129.)
 
@@ -106,41 +106,41 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 Pub. L. 103–43, title I, §113, June 10, 1993, 107 Stat. 132, provided that:
 
-“(a)
+"(a)
 
-In General.—Except as provided in subsection (c), no official of the executive branch may impose a policy that the Department of Health and Human Services is prohibited from conducting or supporting any research on the transplantation of human fetal tissue for therapeutic purposes. Such research shall be carried out in accordance with section 498A of the Public Health Service Act \[this section\] (as added by section 111 of this Act), without regard to any such policy that may have been in effect prior to the date of the enactment of this Act \[June 10, 1993\].
+In General.—Except as provided in subsection (c), no official of the executive branch may impose a policy that the Department of Health and Human Services is prohibited from conducting or supporting any research on the transplantation of human fetal tissue for therapeutic purposes. Such research shall be carried out in accordance with section 498A of the Public Health Service Act \[42 U.S.C. 289g–1\] (as added by section 111 of this Act), without regard to any such policy that may have been in effect prior to the date of the enactment of this Act \[June 10, 1993\].
 
-“(b)
+"(b)
 
 Prohibition Against Withholding of Funds in Cases of Technical and Scientific Merit.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—Subject to subsection (b)(2) of section 492A of the Public Health Service Act \[section 289a–1(b)(2) of this title\] (as added by section 101 of this Act), in the case of any proposal for research on the transplantation of human fetal tissue for therapeutic purposes, the Secretary of Health and Human Services may not withhold funds for the research if—
+In general.—Subject to subsection (b)(2) of section 492A of the Public Health Service Act \[42 U.S.C. 289a–1(b)(2)\] (as added by section 101 of this Act), in the case of any proposal for research on the transplantation of human fetal tissue for therapeutic purposes, the Secretary of Health and Human Services may not withhold funds for the research if—
 
-&emsp;&emsp;“(A) the research has been approved for purposes of subsection (a) of such section 492A;
+&emsp;&emsp;"(A) the research has been approved for purposes of subsection (a) of such section 492A;
 
-&emsp;&emsp;“(B) the research will be carried out in accordance with section 498A of such Act \[this section\] (as added by section 111 of this Act); and
+&emsp;&emsp;"(B) the research will be carried out in accordance with section 498A of such Act \[42 U.S.C. 289g–1\] (as added by section 111 of this Act); and
 
-&emsp;&emsp;“(C) there are reasonable assurances that the research will not utilize any human fetal tissue that has been obtained in violation of section 498B(a) of such Act \[section 289g–2(a) of this title\] (as added by section 112 of this Act).
+&emsp;&emsp;"(C) there are reasonable assurances that the research will not utilize any human fetal tissue that has been obtained in violation of section 498B(a) of such Act \[42 U.S.C. 289g–2(a)\] (as added by section 112 of this Act).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Standing approval regarding ethical status.—In the case of any proposal for research on the transplantation of human fetal tissue for therapeutic purposes, the issuance in December 1988 of the Report of the Human Fetal Tissue Transplantation Research Panel shall be deemed to be a report—
 
-&emsp;&emsp;“(A) issued by an ethics advisory board pursuant to section 492A(b)(5)(B)(ii) of the Public Health Service Act (as added by section 101 of this Act); and
+&emsp;&emsp;"(A) issued by an ethics advisory board pursuant to section 492A(b)(5)(B)(ii) of the Public Health Service Act \[42 U.S.C. 289a–1(b)(5)(B)(ii)\] (as added by section 101 of this Act); and
 
-&emsp;&emsp;“(B) finding, on a basis that is neither arbitrary nor capricious, that the nature of the research is such that it is not unethical to conduct or support the research.
+&emsp;&emsp;"(B) finding, on a basis that is neither arbitrary nor capricious, that the nature of the research is such that it is not unethical to conduct or support the research.
 
-“(c)
+"(c)
 
 Authority for Withholding Funds From Research.—In the case of any research on the transplantation of human fetal tissue for therapeutic purposes, the Secretary of Health and Human Services may withhold funds for the research if any of the conditions specified in any of subparagraphs (A) through (C) of subsection (b)(1) are not met with respect to the research.
 
-“(d)
+"(d)
 
-Definition.—For purposes of this section, the term ‘human fetal tissue’ has the meaning given such term in section 498A(f) of the Public Health Service Act \[subsec. (f) of this section\] (as added by section 111 of this Act).”
+Definition.—For purposes of this section, the term 'human fetal tissue' has the meaning given such term in section 498A(f) of the Public Health Service Act \[42 U.S.C. 289g–1(f)\] (as added by section 111 of this Act)."
 
 #### Report by General Accounting Office on Adequacy of Requirements
 
-Pub. L. 103–43, title I, §114, June 10, 1993, 107 Stat. 132, provided that, with respect to research on the transplantation of human fetal tissue for therapeutic purposes, the Comptroller General of the United States was to conduct an audit for the purpose of determining whether and to what extent such research conducted or supported by Secretary of Health and Human Services had been conducted in accordance with this section and whether and to what extent there have been violations of section 289g–2 of this title and directed the Comptroller General to complete the audit and report the findings to Congress, not later than May 19, 1995.
+Pub. L. 103–43, title I, §114, June 10, 1993, 107 Stat. 132, provided that, with respect to research on the transplantation of human fetal tissue for therapeutic purposes, the Comptroller General of the United States was to conduct an audit for the purpose of determining whether and to what extent such research conducted or supported by Secretary of Health and Human Services had been conducted in accordance with this section andwhether and to what extent there have been violations of section 289g–2 of this title and directed the Comptroller General to complete the audit and report the findings to Congress, not later than May 19, 1995.
 

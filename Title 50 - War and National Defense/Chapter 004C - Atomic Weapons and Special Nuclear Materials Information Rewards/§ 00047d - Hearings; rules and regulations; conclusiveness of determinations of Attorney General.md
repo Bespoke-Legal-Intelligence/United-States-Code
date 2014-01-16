@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1974</b>—Pub. L. 93–377 designated existing provisions as subsec. (a), substituted “Attorney General” for “Board as administering agent”, and added subsec. (b).
+<b>1974</b>—Pub. L. 93–377 designated existing provisions as subsec. (a), substituted "Attorney General" for "Board as administering agent", and added subsec. (b).
 

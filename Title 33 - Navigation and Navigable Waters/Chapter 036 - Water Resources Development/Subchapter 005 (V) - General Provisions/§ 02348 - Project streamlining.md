@@ -28,7 +28,7 @@ With respect to the development of each water resources project, the Secretary s
 
 #### (f) State authority
 
-If the coordinated review process is being implemented under this section by the Secretarywith respect to the development of a water resources project described in subsection (b) within the boundaries of a State, the State, consistent with State law, may choose to participate in the process and to make subject to the process all State agencies that—
+If the coordinated review process is being implemented under this section by the Secretary with respect to the development of a water resources project described in subsection (b) within the boundaries of a State, the State, consistent with State law, may choose to participate in the process and to make subject to the process all State agencies that—
 
 &emsp;(1) have jurisdiction over the project;
 
@@ -52,7 +52,7 @@ The coordinated review process developed under this section may be incorporated 
 
 #### (3) Report to Congress
 
-&emsp;Not later than 30 days after the date of receipt of a report under paragraph (2), the Secretary shall compile and submit a report to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Environment and Public Works of the Senate, and the Council on Environmental Quality, describing any deadlines identified in paragraph (1), and any information provided to the Secretary by the Federal, State, or local government agency, Indian tribe, or non-Federal interest involved under paragraph (2).
+&emsp;Not later than 30 days after the date of receipt of a report under paragraph (2), the Secretary shall compile and submit a report to the Committee on Transportation and Infrastructure of the House of Representatives, theCommittee on Environment and Public Works of the Senate, and the Council on Environmental Quality, describing any deadlines identified in paragraph (1), and any information provided to the Secretary by the Federal, State, or local government agency, Indian tribe, or non-Federal interest involved under paragraph (2).
 
 #### (i) Limitations
 
@@ -74,7 +74,7 @@ The National Environmental Policy Act of 1969, referred to in subsecs. (b) and (
 
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 

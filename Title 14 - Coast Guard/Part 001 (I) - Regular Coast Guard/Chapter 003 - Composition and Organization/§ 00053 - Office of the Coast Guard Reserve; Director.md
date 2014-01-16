@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Office; Director.—There is in the executive part of the Coast Guard an Office of the Coast Guard Reserve. The head of the Office is the Director of the Coast Guard Reserve. The Director of the Coast Guard Reserve is the principal adviser to the Commandant on Coast Guard Reserve matters and may have such additional functions as the Commandant may direct.
+Establishment of Office; Director.—There is in the executive part of the Coast Guard an Office of the Coast Guard Reserve. Thehead of the Office is the Director of the Coast Guard Reserve. The Director of the Coast Guard Reserve is the principal adviser to the Commandant on Coast Guard Reserve matters and may have such additional functions as the Commandant may direct.
 
 (b)
 
@@ -32,7 +32,7 @@ Annual Report.—The Director of the Coast Guard Reserve shall submit to the Sec
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (b)(3), (d), (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (b)(3), (d), (e). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 #### Effective Date of 2002 Amendment
 

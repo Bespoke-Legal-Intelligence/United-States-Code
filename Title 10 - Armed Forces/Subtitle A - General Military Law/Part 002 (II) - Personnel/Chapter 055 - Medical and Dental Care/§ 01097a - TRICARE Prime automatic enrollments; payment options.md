@@ -24,7 +24,7 @@ Automatic Renewal of Enrollments of Covered Beneficiaries.—(1) An enrollment o
 
 (c)
 
-Payment Options for Retirees.—A member or former member of the uniformed services eligible for medical care and dental care under section 1074(b) of this title may elect to have any fee payable by the member or former member for an enrollment in TRICARE Prime withheld from the member's retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis.
+Payment Options for Retirees.—A member or former member of the uniformed serviceseligible for medical care and dental care under section 1074(b) of this title may elect to have any fee payable by the member or former member for an enrollment in TRICARE Prime withheld from the member's retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis.
 
 (d)
 
@@ -38,25 +38,93 @@ No Copayment for Immediate Family.—No copayment shall be charged a member for 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “TRICARE Prime” means the managed care option of the TRICARE program.
+&emsp;(1) The term "TRICARE Prime" means the managed care option of the TRICARE program.
 
-&emsp;(2) The term “catchment area”, with respect to a facility of a uniformed service, means the service area of the facility, as designated under regulations prescribed by the administering Secretaries.
+&emsp;(2) The term "catchment area", with respect to a facility of a uniformed service, means the service area of the facility, as designated under regulations prescribed by the administering Secretaries.
 
 (Added Pub. L. 105–261, div. A, title VII, §712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 107–107, div. A, title X, §1048(a)(11), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 112–239, div. A, title VII, §711, Jan. 2, 2013, 126 Stat. 1801.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239 amended subsec. (a) generally. Prior to amendment, text read as follows: “Each dependent of a member of the uniformed services in grade E4 or below who is entitled to medical and dental care under section 1076(a)(2)(A) of this title and resides in the catchment area of a facility of a uniformed service offering TRICARE Prime shall be automatically enrolled in TRICARE Prime at the facility. The Secretary concerned shall provide written notice of the enrollment to the member. The enrollment of a dependent of the member may be terminated by the member or the dependent at any time.”
+<b>2013</b>—Subsec. (a). Pub. L. 112–239 amended subsec. (a) generally. Prior to amendment, text read as follows: "Each dependent of a member of the uniformed services in grade E4 or below who is entitled to medical and dental care under section 1076(a)(2)(A) of this title and resides in the catchment area of a facility of a uniformed service offering TRICARE Prime shall be automatically enrolled in TRICARE Prime at the facility. The Secretary concerned shall provide written notice of the enrollment to the member. The enrollment of a dependent of the member may be terminated by the member or the dependent at any time."
 
-<b>2001</b>—Subsec. (e). Pub. L. 107–107 substituted “section 1072(2)” for “section 1072”.
+<b>2001</b>—Subsec. (e). Pub. L. 107–107 substituted "section 1072(2)" for "section 1072".
 
 <b>2000</b>—Subsecs. (e), (f). Pub. L. 106–398 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Oct. 30, 2000\], and shall apply with respect to care provided on or after that date.”
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Oct. 30, 2000\], and shall apply with respect to care provided on or after that date."
 
 #### Effective Date
 
-Pub. L. 105–261, div. A, title VII, §712(b), Oct. 17, 1998, 112 Stat. 2059, provided that: “The regulations required under subsection (d) of section 1097a of title 10, United States Code (as added by subsection (a)), shall be prescribed to take effect not later than September 30, 1999. The section shall be applied under TRICARE Prime on and after the date on which the regulations take effect.”
+Pub. L. 105–261, div. A, title VII, §712(b), Oct. 17, 1998, 112 Stat. 2059, provided that: "The regulations required under subsection (d) of section 1097a of title 10, United States Code (as added by subsection (a)), shall be prescribed to take effect not later than September 30, 1999. The section shall be applied under TRICARE Prime on and after the date on which the regulations take effect."
+
+#### Future Availability of TRICARE Prime Throughout the United States
+
+Pub. L. 112–239, div. A, title VII, §732, Jan. 2, 2013, 126 Stat. 1816, as amended by Pub. L. 113–66, div. A, title VII, §701, Dec. 26, 2013, 127 Stat. 789, provided that:
+
+"(a)
+
+Report Required.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the policy of the Department of Defense on the future availability of TRICARE Prime under the TRICARE program for eligible beneficiaries in all TRICARE regions throughout the United States.
+
+&emsp;"(2)
+
+Elements.—The report required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description, by region, of the difference in availability of TRICARE Prime for eligible beneficiaries (other than eligible beneficiaries on active duty in the Armed Forces) under newly awarded TRICARE managed care contracts, including, in particular, an identification of the regions or areas in which TRICARE Prime will no longer be available for such beneficiaries under such contracts.
+
+&emsp;&emsp;"(B) An estimate of the increased costs to be incurred by an affected eligible beneficiary for health care under the TRICARE program.
+
+&emsp;&emsp;"(C) An estimate of the savings to be achieved by the Department as a result of the contracts described in subparagraph (A).
+
+&emsp;&emsp;"(D) A description of the plans of the Department to continue to assess the impact on access to health care for affected eligible beneficiaries.
+
+&emsp;&emsp;"(E) A description of the plan of the Department to provide assistance to affected eligible beneficiaries who are transitioning from TRICARE Prime to TRICARE Standard, including assistance with respect to identifying health care providers.
+
+&emsp;&emsp;"(F) Any other matter the Secretary considers appropriate.
+
+"(b)
+
+Access to TRICARE Prime.—
+
+&emsp;"(1)
+
+One-time election.—Subject to paragraph (3), the Secretary shall ensure that each affected eligible beneficiary who is enrolled in TRICARE Prime as of September 30, 2013, may make a one-time election to continue such enrollment in TRICARE Prime, notwithstanding that a contract described in subsection (a)(2)(A) does not allow for such enrollment based on the location in which such beneficiary resides. The beneficiary may continue such enrollment in TRICARE Prime so long as the beneficiary resides in the same ZIP code as the ZIP code in which the beneficiary resided at the time of such election.
+
+&emsp;"(2)
+
+Enrollment in tricare standard.—If an affected eligible beneficiary makes the one-time election under paragraph (1), the beneficiary may thereafter elect to enroll in TRICARE Standard at any time in accordance with a contract described in subsection (a)(2)(A).
+
+&emsp;"(3)
+
+Residence at time of election.—An affected eligible beneficiary may not make the one-time election under paragraph (1) if, at the time of such election, the beneficiary does not reside—
+
+&emsp;&emsp;"(A) in a ZIP code that is in a region described in subsection (c)(1)(B); and
+
+&emsp;&emsp;"(B) within 100 miles of a military medical treatment facility.
+
+&emsp;"(4)
+
+Network.—In continuing enrollment in TRICARE Prime pursuant to paragraph (1), the Secretary may determine whether to maintain a TRICARE network of providers in an area that is between 40 and 100 miles of a military medical treatment facility.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'affected eligible beneficiary' means an eligible beneficiary under the TRICARE Program (other than eligible beneficiaries on active duty in the Armed Forces) who, as of the date of the enactment of this Act \[Jan. 2, 2013\]—
+
+&emsp;&emsp;"(A) is enrolled in TRICARE Prime; and
+
+&emsp;&emsp;"(B) resides in a region of the United States in which TRICARE Prime enrollment will no longer be available for such beneficiary under a contract described in subsection (a)(2)(A) that does not allow for such enrollment because of the location in which such beneficiary resides.
+
+&emsp;"(2) The term 'TRICARE Prime' means the managed care option of the TRICARE program.
+
+&emsp;"(3) The term 'TRICARE program' has the meaning given that term in section 1072(7) of title 10, United States Code.
+
+&emsp;"(4) The term 'TRICARE Standard' means the fee-for-service option of the TRICARE Program."
 

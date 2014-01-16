@@ -23,7 +23,7 @@ A prior chapter 96, relating to the Presidential Election Campaign Fund Advisory
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–283, title III, §305(b), May 11, 1976, 90 Stat. 499, substituted “limitations” for “limitation” in item 9035.
+<b>1976</b>—Pub. L. 94–283, title III, §305(b), May 11, 1976, 90 Stat. 499, substituted "limitations" for "limitation" in item 9035.
 
 
 ---

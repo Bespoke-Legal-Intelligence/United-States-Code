@@ -20,5 +20,5 @@ Changes in phraseology and arrangement were made.
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–273 inserted “or both,” after “fine or imprisonment,” in introductory provisions.
+<b>2002</b>—Pub. L. 107–273 inserted "or both," after "fine or imprisonment," in introductory provisions.
 

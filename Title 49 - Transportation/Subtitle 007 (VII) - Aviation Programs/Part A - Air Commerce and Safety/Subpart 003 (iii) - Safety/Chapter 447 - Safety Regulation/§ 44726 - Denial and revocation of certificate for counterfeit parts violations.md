@@ -44,7 +44,7 @@ Notice Requirement.—Before the Administrator revokes a certificate under subse
 
 (d)
 
-Appeal.—The provisions of section 44710(d) apply to the appeal of a revocation order under subsection (b). For the purpose of applying that section to the appeal, “person” shall be substituted for “individual” each place it appears.
+Appeal.—The provisions of section 44710(d) apply to the appeal of a revocation order under subsection (b). For the purpose of applying that section to the appeal, "person" shall be substituted for "individual" each place it appears.
 
 (e)
 
@@ -86,7 +86,7 @@ Amendment of Certificate.—If the holder of a certificate issued under this cha
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–176 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C) and substituted “described in subparagraph (A) or (B)” for “convicted of such a violation”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–176 struck out "or" at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C) and substituted "described in subparagraph (A) or (B)" for "convicted of such a violation".
 
 #### Effective Date of 2003 Amendment
 

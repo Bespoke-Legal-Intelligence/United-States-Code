@@ -64,7 +64,7 @@ Assistance under this section may include assistance provided for activities ide
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended,which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 The Securities Act of 1933, referred to in subsec. (d)(4)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
@@ -76,11 +76,11 @@ The Securities Exchange Act of 1934, referred to in subsec. (d)(4)(A), is act Ju
 
 Subsec. (d). Pub. L. 108–373, §207(b), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows:
 
-“(1)
+"(1)
 
 In general.—Subject to paragraph (2), an eligible recipient of a grant under this section may directly expend the grant funds or may redistribute the funds to public and private entities in the form of a grant, loan, loan guarantee, payment to reduce interest on a loan guarantee, or other appropriate assistance.
 
-“(2)
+"(2)
 
-Limitation.—Under paragraph (1), an eligible recipient may not provide any grant to a private for-profit entity.”
+Limitation.—Under paragraph (1), an eligible recipient may not provide any grant to a private for-profit entity."
 

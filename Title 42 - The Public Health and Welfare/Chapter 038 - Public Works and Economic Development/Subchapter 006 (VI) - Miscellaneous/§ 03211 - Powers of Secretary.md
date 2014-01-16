@@ -10,7 +10,7 @@ In carrying out the duties of the Secretary under this chapter, the Secretary ma
 
 &emsp;(3) hold such hearings, sit and act at such times and places, and take such testimony, as the Secretary determines to be appropriate;
 
-&emsp;(4) request directly, from any Federal agency, board, commission, office, or independent establishment, such information, suggestions, estimates, and statistics as the Secretary determines to be necessary to carry out thischapter (and each Federal agency, board, commission, office, or independent establishment may provide such information, suggestions, estimates, and statistics directly to the Secretary);
+&emsp;(4) request directly, from any Federal agency, board, commission, office, or independent establishment, such information, suggestions, estimates, and statistics as the Secretary determines to be necessary to carry out this chapter (and each Federal agency, board, commission, office, or independent establishment may provide such information, suggestions, estimates, and statistics directly to the Secretary);
 
 &emsp;(5) under regulations promulgated by the Secretary—
 
@@ -52,7 +52,7 @@ The authority under subsection (a)(7) of this section to pursue claims shall inc
 
 #### (c) Inapplicability of certain other requirements
 
-Section 6101 of title 41 shall not apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Secretary as a result of assistance provided under this chapter if the premium for the insurance or the amount of the services or supplies does not exceed $1,000.
+Section 6101 of title 41 shall not apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Secretary as a result ofassistance provided under this chapter if the premium for the insurance or the amount of the services or supplies does not exceed $1,000.
 
 #### (d) Property interests
 
@@ -88,7 +88,7 @@ The Community Emergency Drought Relief Act of 1977, referred to in subsec. (d)(1
 
 #### Codification
 
-In subsec. (c), “Section 6101 of title 41” substituted for “Section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), "Section 6101 of title 41" substituted for "Section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 

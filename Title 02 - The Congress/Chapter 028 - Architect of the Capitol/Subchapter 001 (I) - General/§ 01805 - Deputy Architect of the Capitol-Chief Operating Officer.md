@@ -34,7 +34,7 @@ The Architect of the Capitol may delegate to the Deputy Architect such additiona
 
 #### (1) In general
 
-&emsp;No later than 90 days after the appointment, the Deputy Architect shall prepare and submit to the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate, an action plan describing the policies, procedures, and actions the Deputy Architect will implement and timeframes for carrying out the responsibilities under this section.
+&emsp;No later than 90 days after the appointment, the Deputy Architect shall prepare and submitto the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate, an action plan describing the policies, procedures, and actions the Deputy Architect will implement and timeframes for carrying out the responsibilities under this section.
 
 #### (2) Action plan
 

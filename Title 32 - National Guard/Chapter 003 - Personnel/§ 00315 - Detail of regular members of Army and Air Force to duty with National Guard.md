@@ -28,13 +28,13 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §100, 39 Stat. 208.
 
-In subsection (a), 32:68 (last sentence) is omitted as surplusage, since positive provisions relating to the assignment or detail of retired officers to that duty are covered by section 3504(a) or 8504(a) of title 10. The words “of the active list”, in 32:68, are omitted for the same reason. The words “so detailed” are substituted for the words “detailed under section 68 of this title”, in 32:69. The words “relative or lineal”, in 32:69, are omitted as surplusage.
+In subsection (a), 32:68 (last sentence) is omitted as surplusage, since positive provisions relating to the assignment or detail of retired officers to that duty are covered by section 3504(a) or 8504(a) of title 10. The words "of the active list", in 32:68, are omitted for the same reason. The words "so detailed" are substituted for the words "detailed under section 68 of this title", in 32:69. The words "relative or lineal", in 32:69, are omitted as surplusage.
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia” wherever appearing.
+<b>2006</b>—Pub. L. 109–163 substituted "State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands" for "State and Territory, Puerto Rico, and the District of Columbia" wherever appearing.
 
-<b>1988</b>—Subsecs. (a), (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsecs. (a), (b). Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 
 #### Delegation of Functions and Authority Under Sections 315 and 325 of Title 32, United States Code
 

@@ -20,19 +20,19 @@ This subchapter does not—
 
 #### (1) Consent to electronic records
 
-&emsp;Notwithstanding subsection (a) of this section, if a statute, regulation, or other rule of law requires that information relating to a transaction or transactions in or affecting interstate or foreign commerce be provided or made available to a consumer in writing, the use of an electronic record to provide or make available (whichever is required) such information satisfies the requirement that such information be in writing if—
+&emsp;Notwithstanding subsection (a) of this section, if a statute, regulation, or other rule of law requires that information relating to a transaction or transactions in or affecting interstate or foreign commerce be provided ormade available to a consumer in writing, the use of an electronic record to provide or make available (whichever is required) such information satisfies the requirement that such information be in writing if—
 
 &emsp;&emsp;(A) the consumer has affirmatively consented to such use and has not withdrawn such consent;
 
 &emsp;&emsp;(B) the consumer, prior to consenting, is provided with a clear and conspicuous statement—
 
-&emsp;&emsp;&emsp;(i) informing the consumer of (I) any right or option of the consumer to have the record provided or made available on paper or in nonelectronic form, and (II) the right of the consumer to withdraw the consent to have the record provided or made available in an electronic form and of any conditions, consequences (which may include termination of the parties’ relationship), or fees in the event of such withdrawal;
+&emsp;&emsp;&emsp;(i) informing the consumer of (I) any right or option of the consumer to have the record provided or made available on paper or in nonelectronic form, and (II) the right of the consumer to withdraw the consent to have the record provided or made available in an electronic form and of any conditions, consequences (which may include termination of the parties' relationship), or fees in the event of such withdrawal;
 
-&emsp;&emsp;&emsp;(ii) informing the consumer of whether the consent applies (I) only to the particular transaction which gave rise to the obligation to provide the record, or (II) to identified categories of records that may be provided or made available during the course of the parties’ relationship;
+&emsp;&emsp;&emsp;(ii) informing the consumer of whether the consent applies (I) only to the particular transaction which gave rise to the obligation to provide the record, or (II) to identified categories of records that may be provided or made available during the course of the parties' relationship;
 
 &emsp;&emsp;&emsp;(iii) describing the procedures the consumer must use to withdraw consent as provided in clause (i) and to update information needed to contact the consumer electronically; and
 
-&emsp;&emsp;&emsp;(iv) informing the consumer (I) how, after the consent, the consumer may, uponrequest, obtain a paper copy of an electronic record, and (II) whether any fee will be charged for such copy;
+&emsp;&emsp;&emsp;(iv) informing the consumer (I) how, after the consent, the consumer may, upon request, obtain a paper copy of an electronic record, and (II) whether any fee will be charged for such copy;
 
 &emsp;&emsp;(C) the consumer—
 
@@ -80,7 +80,7 @@ This subchapter does not—
 
 &emsp;&emsp;(A) accurately reflects the information set forth in the contract or other record; and
 
-&emsp;&emsp;(B) remains accessible to all persons who are entitled to access by statute, regulation, or rule of law, for the period required by such statute, regulation, or rule of law, in a form that is capable of being accurately reproduced for later reference, whether by transmission, printing, or otherwise.
+&emsp;&emsp;(B) remains accessible to all persons who are entitled to access by statute, regulation, or rule of law, for the period required bysuch statute, regulation, or rule of law, in a form that is capable of being accurately reproduced for later reference, whether by transmission, printing, or otherwise.
 
 #### (2) Exception
 
@@ -128,7 +128,7 @@ An insurance agent or broker acting under the direction of a party that enters i
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(2)(B), was in the original “this Act”, meaning Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (c)(2)(B), was in the original "this Act", meaning Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 For the effective date of this subchapter, referred to in subsec. (c)(5), see Effective Date note below.
 
@@ -136,43 +136,43 @@ For the effective date of this subchapter, referred to in subsec. (c)(5), see Ef
 
 Pub. L. 106–229, title I, §107, June 30, 2000, 114 Stat. 473, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as provided in subsection (b), this title \[enacting this subchapter\] shall be effective on October 1, 2000.
 
-“(b)
+"(b)
 
 Exceptions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Record retention.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Subject to subparagraph (B), this title \[enacting this subchapter\] shall be effective on March 1, 2001, with respect to a requirement that a record be retained imposed by—
 
-&emsp;&emsp;&emsp;“(i) a Federal statute, regulation, or other rule of law, or
+&emsp;&emsp;&emsp;"(i) a Federal statute, regulation, or other rule of law, or
 
-&emsp;&emsp;&emsp;“(ii) a State statute, regulation, or other rule of law administered or promulgated by a State regulatory agency.
+&emsp;&emsp;&emsp;"(ii) a State statute, regulation, or other rule of law administered or promulgated by a State regulatory agency.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Delayed effect for pending rulemakings.—If on March 1, 2001, a Federal regulatory agency or State regulatory agency has announced, proposed, or initiated, but not completed, a rulemaking proceeding to prescribe a regulation under section 104(b)(3) \[15 U.S.C. 7004(b)(3)\] with respect to a requirement described in subparagraph (A), this title shall be effective on June 1, 2001, with respect to such requirement.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Certain guaranteed and insured loans.—With regard to any transaction involving a loan guarantee or loan guarantee commitment (as those terms are defined in section 502 of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661a\]), or involving a program listed in the Federal Credit Supplement, Budget of the United States, FY 2001, this title applies only to such transactions entered into, and to any loan or mortgage made, insured, or guaranteed by the United States Government thereunder, on and after one year after the date of enactment of this Act \[June 30, 2000\].
 
-&emsp;“(3)
+&emsp;"(3)
 
-Student loans.—With respect to any records that are provided or made available to a consumer pursuant to an application for a loan, or a loan made, pursuant to title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\], section 101(c) of this Act \[15 U.S.C. 7001(c)\] shall not apply until the earlier of—
+Student loans.—With respect to any records that are provided or made available to a consumer pursuant to an application for a loan, or a loan made,pursuant to title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\], section 101(c) of this Act \[15 U.S.C. 7001(c)\] shall not apply until the earlier of—
 
-&emsp;&emsp;“(A) such time as the Secretary of Education publishes revised promissory notes under section 432(m) of the Higher Education Act of 1965 \[20 U.S.C. 1082(m)\]; or
+&emsp;&emsp;"(A) such time as the Secretary of Education publishes revised promissory notes under section 432(m) of the Higher Education Act of 1965 \[20 U.S.C. 1082(m)\]; or
 
-&emsp;&emsp;“(B) one year after the date of enactment of this Act \[June 30, 2000\].”
+&emsp;&emsp;"(B) one year after the date of enactment of this Act \[June 30, 2000\]."
 
 #### Short Title
 
-Pub. L. 106–229, §1, June 30, 2000, 114 Stat. 464, provided that: “This Act \[enacting this chapter and amending provisions set out as a note under section 231 of Title 47, Telecommunications\] may be cited as the ‘Electronic Signatures in Global and National Commerce Act’.”
+Pub. L. 106–229, §1, June 30, 2000, 114 Stat. 464, provided that: "This Act \[enacting this chapter and amending provisions set out as a note under section 231 of Title 47, Telecommunications\] may be cited as the 'Electronic Signatures in Global and National Commerce Act'."
 

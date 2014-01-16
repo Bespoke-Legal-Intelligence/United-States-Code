@@ -2,21 +2,21 @@
 
 For purposes of this chapter:
 
-&emsp;(1) The term “distortion” includes, but is not limited to, a subsidy.
+&emsp;(1) The term "distortion" includes, but is not limited to, a subsidy.
 
-&emsp;(2) The term “foreign country” includes any foreign instrumentality. Any territory or possession of a foreign country that is administered separately for customs purposes, shall be treated as a separate foreign country.
+&emsp;(2) The term "foreign country" includes any foreign instrumentality. Any territory or possession of a foreign country that is administered separately for customs purposes, shall be treated as a separate foreign country.
 
-&emsp;(3) The term “GATT” means the GATT 1947 (as defined in section 3501(1)(A) of this title).
+&emsp;(3) The term "GATT" means the GATT 1947 (as defined in section 3501(1)(A) of this title).
 
-&emsp;(4) The term “implementing bill” has the meaning given such term in section 2191(b)(1) of this title.
+&emsp;(4) The term "implementing bill" has the meaning given such term in section 2191(b)(1) of this title.
 
-&emsp;(5) The term “international trade” includes, but is not limited to—
+&emsp;(5) The term "international trade" includes, but is not limited to—
 
 &emsp;&emsp;(A) trade in both goods and services, and
 
 &emsp;&emsp;(B) foreign direct investment by United States persons, especially if such investment has implications for trade in goods and services.
 
-&emsp;(6) The term “state trading enterprise” means—
+&emsp;(6) The term "state trading enterprise" means—
 
 &emsp;&emsp;(A) any agency, instrumentality, or administrative unit of a foreign country which—
 
@@ -36,7 +36,7 @@ For purposes of this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this part”, meaning part 1 (§§1101 to 1107) of subtitle A of title I of Pub. L. 100–418, which enacted this chapter and amended sections 2131, 2133, and 2191 of this title. For complete classification of part 1 to the Code, see Tables.
+This chapter, referred to in text, was in the original "this part", meaning part 1 (§§1101 to 1107) of subtitle A of title I of Pub. L. 100–418, which enacted this chapter and amended sections 2131, 2133, and 2191 of this title. For complete classification of part 1 to the Code, see Tables.
 
 #### Codification
 
@@ -44,7 +44,7 @@ Section is comprised of subsec. (a) of section 1107 of Pub. L. 100–418. Subsec
 
 #### Amendments
 
-<b>1994</b>—Par. (3). Pub. L. 103–465 substituted “the GATT 1947 (as defined in section 3501(1)(A) of this title)” for “the General Agreement on Tariffs and Trade”.
+<b>1994</b>—Par. (3). Pub. L. 103–465 substituted "the GATT 1947 (as defined in section 3501(1)(A) of this title)" for "the General Agreement on Tariffs and Trade".
 
 #### Effective Date of 1994 Amendment
 

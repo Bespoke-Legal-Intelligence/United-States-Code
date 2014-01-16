@@ -1,6 +1,6 @@
 ### §78fff–3. SIPC advances
 
-#### (a) Advances for customers’ claims
+#### (a) Advances for customers' claims
 
 In order to provide for prompt payment and satisfaction of net equity claims of customers of the debtor, SIPC shall advance to the trustee such moneys, not to exceed $500,000 for each customer, as may be required to pay or otherwise satisfy claims for the amount by which the net equity of each customer exceeds his ratable share of customer property, except that—
 
@@ -10,7 +10,7 @@ In order to provide for prompt payment and satisfaction of net equity claims of 
 
 &emsp;(3) if all or any portion of the net equity claim of a customer in excess of his ratable share of customer property is satisfied by the delivery of securities purchased by the trustee pursuant to section 78fff–2(d) of this title, the securities so purchased shall be valued as of the filing date for purposes of applying the dollar limitations of this subsection;
 
-&emsp;(4) no advance shall be made by SIPC to the trustee to pay or otherwise satisfy, directly or indirectly, any net equity claim of a customer who is a general partner, officer, or director of the debtor, a beneficial owner of five per centum or more of any class of equity security of the debtor (other than a nonconvertible stock having fixed preferential dividend and liquidation rights), a limited partner with a participation of five per centum or more in the net assets or net profits of the debtor, or a person who, directly or indirectly and through agreement or otherwise, exercised or had the powerto exercise a controlling influence over the management or policies of the debtor; and
+&emsp;(4) no advance shall be made by SIPC to the trustee to pay or otherwise satisfy, directly orindirectly, any net equity claim of a customer who is a general partner, officer, or director of the debtor, a beneficial owner of five per centum or more of any class of equity security of the debtor (other than a nonconvertible stock having fixed preferential dividend and liquidation rights), a limited partner with a participation of five per centum or more in the net assets or net profits of the debtor, or a person who, directly or indirectly and through agreement or otherwise, exercised or had the power to exercise a controlling influence over the management or policies of the debtor; and
 
 &emsp;(5) no advance shall be made by SIPC to the trustee to pay or otherwise satisfy any net equity claim of any customer who is a broker or dealer or bank, other than to the extent that it shall be established to the satisfaction of the trustee, from the books and records of the debtor or from the books and records of a broker or dealer or bank, or otherwise, that the net equity claim of such broker or dealer or bank against the debtor arose out of transactions for customers of such broker or dealer or bank (which customers are not themselves a broker or dealer or bank or a person described in paragraph (4)), in which event each such customer of such broker or dealer or bank shall be deemed a separate customer of the debtor.
 
@@ -36,7 +36,7 @@ SIPC may advance to the trustee such moneys as may be required to—
 
 #### (d) Standard maximum cash advance amount defined
 
-For purposes of this section, the term “standard maximum cash advance amount” means $250,000, as such amount may be adjusted after December 31, 2010, as provided under subsection (e).
+For purposes of this section, the term "standard maximum cash advance amount" means $250,000, as such amount may be adjusted after December 31, 2010, as provided under subsection (e).
 
 #### (e) Inflation adjustment
 
@@ -80,7 +80,7 @@ For purposes of this section, the term “standard maximum cash advance amount�
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30,1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -88,15 +88,15 @@ A prior section 9 of Pub. L. 91–598 was renumbered section 13 and is classifie
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §983(a), inserted “or options on commodity futures contracts” after “claim for securities”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §983(a), inserted "or options on commodity futures contracts" after "claim for securities".
 
-Pub. L. 111–203, §929H(a)(1), substituted “the standard maximum cash advance amount for each such customer, as determined in accordance with subsection (d)” for “$100,000 for each such customer”.
+Pub. L. 111–203, §929H(a)(1), substituted "the standard maximum cash advance amount for each such customer, as determined in accordance with subsection (d)" for "$100,000 for each such customer".
 
 Subsecs. (d), (e). Pub. L. 111–203, §929H(a)(2), added subsecs. (d) and (e).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–433, §1(1), substituted in opening par. “$500,000” for “$100,000”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–433, §1(1), substituted in opening par. "$500,000" for "$100,000".
 
-Subsec. (a)(1). Pub. L. 96–433, §1(2), substituted “$100,000” for “$40,000”.
+Subsec. (a)(1). Pub. L. 96–433, §1(2), substituted "$100,000" for "$40,000".
 
 #### Effective Date of 2010 Amendment
 

@@ -16,5 +16,5 @@ Pub. L. 102–325, title IV, §402(a)(1), (2), July 23, 1992, 106 Stat. 482, red
 - [&sect; 01070c&#8211;2 - Applications for leveraging educational assistance partnership programs](%C2%A7%2001070c%E2%80%932%20-%20Applications%20for%20leveraging%20educational%20assistance%20partnership%20programs.md)
 - [&sect; 01070c&#8211;3 - Administration of State programs; judicial review](%C2%A7%2001070c%E2%80%933%20-%20Administration%20of%20State%20programs%3B%20judicial%20review.md)
 - [&sect; 01070c&#8211;3a - Grants for access and persistence](%C2%A7%2001070c%E2%80%933a%20-%20Grants%20for%20access%20and%20persistence.md)
-- [&sect; 01070c&#8211;4 - &#8220;Community service&#8221; defined](%C2%A7%2001070c%E2%80%934%20-%20%E2%80%9CCommunity%20service%E2%80%9D%20defined.md)
+- [&sect; 01070c&#8211;4 - Community service defined](%C2%A7%2001070c%E2%80%934%20-%20Community%20service%20defined.md)
 - [&sect; 01070d to 1070d&#8211;1d - Repealed. Pub. L. 102&#8211;325, title IV, &sect;402(a)(1), July 23, 1992, 106 Stat. 482](%C2%A7%2001070d%20to%201070d%E2%80%931d%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93325%2C%20title%20IV%2C%20%C2%A7402%28a%29%281%29%2C%20July%2023%2C%201992%2C%20106%20Stat.%20482.md)

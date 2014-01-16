@@ -22,23 +22,23 @@ Section is based on Pub. L. 99–190, §101(b) \[title VIII, §8005(e), (h), (l)
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136, §1005(b)(1), amended section catchline generally, substituting “Contracts for periods crossing fiscal years: severable service contracts; leases of real or personal property” for “Severable service contracts for periods crossing fiscal years”.
+<b>2003</b>—Pub. L. 108–136, §1005(b)(1), amended section catchline generally, substituting "Contracts for periods crossing fiscal years: severable service contracts; leases of real or personal property" for "Severable service contracts for periods crossing fiscal years".
 
-Subsec. (a). Pub. L. 108–136, §1005(a), inserted “(1)” before “The Secretary of Defense”, substituted “for a purpose described in paragraph (2)” for “for procurement of severable services”, and added par. (2).
+Subsec. (a). Pub. L. 108–136, §1005(a), inserted "(1)" before "The Secretary of Defense", substituted "for a purpose described in paragraph (2)" for "for procurement of severable services", and added par. (2).
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 <b>1997</b>—Pub. L. 105–85 amended section generally. Prior to amendment, section related to availability of appropriated funds for payments under contracts for various types of maintenance, leases, and operations and authorized Secretary of Transportation to enter into contracts for procurement of severable services.
 
 <b>1996</b>—Pub. L. 104–324 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1991</b>—Par. (1). Pub. L. 102–190, §342(1), inserted “, equipment,” after “tools”.
+<b>1991</b>—Par. (1). Pub. L. 102–190, §342(1), inserted ", equipment," after "tools".
 
 Par. (4). Pub. L. 102–190, §342(2), added par. (4).
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title X, §1005(c), Nov. 24, 2003, 117 Stat. 1585, provided that: “The amendments made by this section \[amending this section\] shall not apply to funds appropriated for a fiscal year before fiscal year 2004.”
+Pub. L. 108–136, div. A, title X, §1005(c), Nov. 24, 2003, 117 Stat. 1585, provided that: "The amendments made by this section \[amending this section\] shall not apply to funds appropriated for a fiscal year before fiscal year 2004."
 
 #### Effective Date of 2002 Amendment
 

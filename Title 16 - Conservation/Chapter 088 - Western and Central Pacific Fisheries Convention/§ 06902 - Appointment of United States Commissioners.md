@@ -48,7 +48,7 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 
 #### (D) Provision of information
 
-&emsp;&emsp;The Secretary and the Secretary of State shall furnish the advisory committee with relevant information concerning fisheries and international fishery agreements.
+&emsp;&emsp;The Secretary and the Secretary of State shall furnish the advisory committee withrelevant information concerning fisheries and international fishery agreements.
 
 #### (2) Administrative matters
 
@@ -80,31 +80,31 @@ For highly migratory species in the Pacific, the Secretary, in coordination with
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1)(C), probably should have been “this title” in the original, meaning title V of Pub. L. 109–479 which enacted this chapter.
+This chapter, referred to in subsec. (d)(1)(C), probably should have been "this title" in the original, meaning title V of Pub. L. 109–479 which enacted this chapter.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsecs. (d)(1)(C) and (f)(4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat.770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–348, §301(1), substituted “Management Council, and one of whom shall be the chairman or a member of” for “Management Council and”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–348, §301(1), substituted "Management Council, and one of whom shall be the chairman or a member of" for "Management Council and".
 
-Subsec. (c)(1). Pub. L. 111–348, §301(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
+Subsec. (c)(1). Pub. L. 111–348, §301(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
 
-&emsp;“(A) injury compensation under chapter 81 of title 5;
+&emsp;"(A) injury compensation under chapter 81 of title 5;
 
-&emsp;“(B) requirements concerning ethics, conflicts of interest, and corruption as provided under title 18; and
+&emsp;"(B) requirements concerning ethics, conflicts of interest, and corruption as provided under title 18; and
 
-&emsp;“(C) any other criminal or civil statute or regulation governing the conduct of Federal employees.”
+&emsp;"(C) any other criminal or civil statute or regulation governing the conduct of Federal employees."
 
-Subsec. (d)(2)(B)(ii). Pub. L. 111–348, §301(3), added cl. (ii) and struck out former cl. (ii) which read as follows: “shall be considered Federal employees while performing service as members of an advisory committee only for purposes of—
+Subsec. (d)(2)(B)(ii). Pub. L. 111–348, §301(3), added cl. (ii) and struck out former cl. (ii) which read as follows: "shall be considered Federal employees while performing service as members of an advisory committee only for purposes of—
 
-&emsp;“(I) injury compensation under chapter 81 of title 5;
+&emsp;"(I) injury compensation under chapter 81 of title 5;
 
-&emsp;“(II) requirements concerning ethics, conflicts-of-interest, and corruption, as provided by title 18; and
+&emsp;"(II) requirements concerning ethics, conflicts-of-interest, and corruption, as provided by title 18; and
 
-&emsp;“(III) any other criminal or civil statute or regulation governing the conduct of Federal employees in their capacity as Federal employees.”
+&emsp;"(III) any other criminal or civil statute or regulation governing the conduct of Federal employees in their capacity as Federal employees."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

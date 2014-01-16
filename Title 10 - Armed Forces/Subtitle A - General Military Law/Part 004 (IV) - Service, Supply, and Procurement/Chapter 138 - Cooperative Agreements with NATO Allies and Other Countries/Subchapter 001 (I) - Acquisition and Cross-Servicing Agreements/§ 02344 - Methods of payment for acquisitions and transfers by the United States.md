@@ -14,7 +14,7 @@
 
 &emsp;(B) transfers by the United States to such country under this subchapter of any logistic support, supply, or service that is not governed by such reciprocal pricing principles shall be subject to the pricing provisions of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
 
-(3) To the extent that indirect costs (including charges for plant and production equipment),administrative surcharges, and contract administration costs with respect to any North Atlantic Treaty Organization country or other foreign country are not waived by operation of the reciprocal pricing principles of paragraph (1), the Secretary of Defense may, on a reciprocal basis, agree to waive such costs.
+(3) To the extent that indirect costs (including charges for plant and production equipment), administrative surcharges, and contract administration costs with respect to any North Atlantic Treaty Organization country or other foreign country are not waived by operation of the reciprocal pricing principles of paragraph (1), the Secretary of Defense may, on a reciprocal basis, agree to waive such costs.
 
 (4) The pricing principles set forth in paragraph (2) and the waiver authority provided in paragraph (3) shall also apply to agreements with North Atlantic Treaty Organization subsidiary bodies and the United Nations Organization or any regional international organization under this subchapter.
 
@@ -32,27 +32,27 @@
 
 The Arms Export Control Act, referred to in subsec. (b)(2)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (c)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (c)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(4). Pub. L. 109–163 struck out “of which the United States is a member” before “under this subchapter”.
+<b>2006</b>—Subsec. (b)(4). Pub. L. 109–163 struck out "of which the United States is a member" before "under this subchapter".
 
-<b>1994</b>—Subsec. (b)(4). Pub. L. 103–337 inserted “and the United Nations Organization or any regional international organization of which the United States is a member” after “subsidiary bodies”.
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–337 inserted "and the United Nations Organization or any regional international organization of which the United States is a member" after "subsidiary bodies".
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–25 substituted “subchapter” for “chapter” in introductory provisions.
+<b>1991</b>—Subsec. (c). Pub. L. 102–25 substituted "subchapter" for "chapter" in introductory provisions.
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–189, §§931(e)(1), 938(a), substituted “equal value” for “identical or substantially identical nature” and “this subchapter” for “this chapter”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §§931(e)(1), 938(a), substituted "equal value" for "identical or substantially identical nature" and "this subchapter" for "this chapter".
 
-Subsec. (b)(2)(B), (4). Pub. L. 101–189, §931(e)(1), substituted “this subchapter” for “this chapter”.
+Subsec. (b)(2)(B), (4). Pub. L. 101–189, §931(e)(1), substituted "this subchapter" for "this chapter".
 
 Subsec. (c). Pub. L. 101–189, §938(b), added subsec. (c).
 
-<b>1986</b>—Subsec. (b)(1), (3). Pub. L. 99–661 inserted “or other foreign country” after “country”.
+<b>1986</b>—Subsec. (b)(1), (3). Pub. L. 99–661 inserted "or other foreign country" after "country".
 
 <b>1985</b>—Pub. L. 99–145 renumbered section 2324 of this title as this section.
 
-<b>1981</b>—Subsec. (b)(2)(B). Pub. L. 97–22 substituted “this chapter” for “this Act”.
+<b>1981</b>—Subsec. (b)(2)(B). Pub. L. 97–22 substituted "this chapter" for "this Act".
 
 #### Effective Date of 1994 Amendment
 

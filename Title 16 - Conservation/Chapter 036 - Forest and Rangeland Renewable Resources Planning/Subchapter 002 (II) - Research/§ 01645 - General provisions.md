@@ -6,7 +6,7 @@ The Secretary may make funds available to cooperators and grantees under this su
 
 #### (b) Coordination of cooperative aid and grants with other aid and grant authorities
 
-To avoid duplication, the Secretary shall coordinate cooperative aid and grants under thissubchapter with cooperative aid and grants the Secretary makes under any other authority.
+To avoid duplication, the Secretary shall coordinate cooperative aid and grants under this subchapter with cooperative aid and grants the Secretary makes under any other authority.
 
 #### (c) Dissemination of knowledge and technology developed from research activities; cooperation with specified entities
 
@@ -30,13 +30,13 @@ This subchapter shall be construed as supplementing all other laws relating to t
 
 #### (f) Definitions
 
-For the purposes of this subchapter, the terms “United States” and “State” shall include each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the territories and possessions of the United States.
+For the purposes of this subchapter, the terms "United States" and "State" shall include each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the territories and possessions of the United States.
 
 (Pub. L. 95–307, §6, June 30, 1978, 92 Stat. 355.)
 
 #### Codification
 
-In subsec. (a), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes (31 U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Termination of Trust Territory of the Pacific Islands
 

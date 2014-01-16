@@ -12,5 +12,5 @@ The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oc
 
 Section was enacted as part of the American Recovery and Reinvestment Act of 2009, and not as part of the Social Security Act which comprises this chapter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Centers for Medicare \& Medicaid Services”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Centers for Medicare \& Medicaid Services".</i>
 

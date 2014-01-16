@@ -22,5 +22,5 @@ Another prior section 11 of Pub. L. 92–367 was classified to section 467j of t
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–310, §6, struck out subsec. designations and headings for subsecs. (a) and (b) and text of subsec. (a) which read as follows: “Not later than 180 days after October 12, 1996, the Director shall report to Congress on the availability of dam insurance and make recommendations concerning encouraging greater availability.”
+<b>2002</b>—Pub. L. 107–310, §6, struck out subsec. designations and headings for subsecs. (a) and (b) and text of subsec. (a) which read as follows: "Not later than 180 days after October 12, 1996, the Director shall report to Congress on the availability of dam insurance and make recommendations concerning encouraging greater availability."
 

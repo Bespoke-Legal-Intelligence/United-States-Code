@@ -16,19 +16,22 @@
 | [1132\.](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md) | Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies. |
 | [1133\.](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20on%20persons%20eligible%20to%20receive.md) | Bronze Star: limitation on persons eligible to receive. |
 | [1134\.](%C2%A7%2001134%20-%20Medal%20of%20honor%20award%20to%20individual%20interred%20in%20Tomb%20of%20the%20Unknowns%20as%20representative%20of%20casualties%20of%20a%20war.md) | Medal of honor: award to individual interred in Tomb of the Unknowns as representative of casualties of a war. |
+| [1134a.](%C2%A7%2001134a%20-%20Medal%20of%20honor%20Army%2C%20Navy%2C%20Air%20Force%2C%20and%20Coast%20Guard%20Medal%20of%20Honor%20Roll.md) | Medal of honor: Army, Navy, Air Force, and Coast Guard Medal of Honor Roll. |
 | [1135\.](%C2%A7%2001135%20-%20Replacement%20of%20military%20decorations.md) | Replacement of military decorations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title V, §571(b), Jan. 7, 2011, 124 Stat. 4223, added item 1133 and struck out former item 1133 “Bronze star: limitation to members receiving imminent danger pay”.
+<b>2013</b>—Pub. L. 113–66, div. A, title V, §563(a)(2), Dec. 26, 2013, 127 Stat. 767, added item 1134a.
+
+<b>2011</b>—Pub. L. 111–383, div. A, title V, §571(b), Jan. 7, 2011, 124 Stat. 4223, added item 1133 and struck out former item 1133 "Bronze star: limitation to members receiving imminent danger pay".
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §571(b), Oct. 14, 2008, 122 Stat. 4472, added item 1135.
 
 <b>2004</b>—Pub. L. 108–375, div. A, title V, §561(b), Oct. 28, 2004, 118 Stat. 1918, added item 1134.
 
-<b>2003</b>—Pub. L. 108–136, div. A, title X, §1031(a)(10)(B), Nov. 24, 2003, 117 Stat. 1597, struck out “and recommendation” after “review” in item 1130.
+<b>2003</b>—Pub. L. 108–136, div. A, title X, §1031(a)(10)(B), Nov. 24, 2003, 117 Stat. 1597, struck out "and recommendation" after "review" in item 1130.
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §541(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–114, added item 1133.
 
@@ -40,7 +43,7 @@
 
 <b>1993</b>—Pub. L. 103–160, div. A, title XI, §1141(b), Nov. 30, 1993, 107 Stat. 1757, added item 1129.
 
-<b>1985</b>—Pub. L. 99–145, title V, §532(a)(2), title XII, §1225(a)(2)(B), Nov. 8, 1985, 99 Stat. 634, 730, inserted “disclosures,” and substituted “and” for “or” in item 1124, and added item 1128.
+<b>1985</b>—Pub. L. 99–145, title V, §532(a)(2), title XII, §1225(a)(2)(B), Nov. 8, 1985, 99 Stat. 634, 730, inserted "disclosures," and substituted "and" for "or" in item 1124, and added item 1128.
 
 <b>1984</b>—Pub. L. 98–525, title V, §553(b), Oct. 19, 1984, 98 Stat. 2532, added item 1127.
 
@@ -54,77 +57,77 @@ Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 #### Promotional Materials and Recognition Items for Participants in Operation Enduring Freedom or Operation Iraqi Freedom
 
-Pub. L. 110–116, div. A, title VIII, §8099, Nov. 13, 2007, 121 Stat. 1337, provided that: “Hereafter, the Secretary of Defense may present promotional materials, including a United States flag, to any member of an Active or Reserve component under the Secretary's jurisdiction who, as determined by the Secretary, participates in Operation Enduring Freedom or Operation Iraqi Freedom, along with other recognition items in conjunction with any week-long national observation and day of national celebration, if established by Presidential proclamation, for any such members returning from such operations.”
+Pub. L. 110–116, div. A, title VIII, §8099, Nov. 13, 2007, 121 Stat. 1337, provided that: "Hereafter, the Secretary of Defense may present promotional materials, including a United States flag, to any member of an Active or Reserve component under the Secretary's jurisdiction who, as determined by the Secretary, participates in Operation Enduring Freedom or Operation Iraqi Freedom, along with other recognition items in conjunction with any week-long national observation and day of national celebration, if established by Presidential proclamation, for any such members returning from such operations."
 
 #### Report on Department of Defense Process for Awarding Decorations
 
 Pub. L. 109–364, div. A, title V, §557, Oct. 17, 2006, 120 Stat. 2219, provided that:
 
-“(a)
+"(a)
 
 Review.—The Secretary of Defense shall conduct a review of the policy, procedures, and processes of the military departments for awarding decorations to members of the Armed Forces.
 
-“(b)
+"(b)
 
 Time Periods.—As part of the review under subsection (a), the Secretary shall compare the time frames of the awards process between active duty and reserve components—
 
-&emsp;“(1) from the time a recommendation for the award of a decoration is submitted until the time the award of the decoration is approved; and
+&emsp;"(1) from the time a recommendation for the award of a decoration is submitted until the time the award of the decoration is approved; and
 
-&emsp;“(2) from the time the award of a decoration is approved until the time when the decoration is presented to the recipient.
+&emsp;"(2) from the time the award of a decoration is approved until the time when the decoration is presented to the recipient.
 
-“(c)
+"(c)
 
 Reserve Components.—If the Secretary, in conducting the review under subsection (a), finds that the timeliness of the awards process for members of the reserve components is not the same as, or similar to, that for members of the active components, the Secretary shall take appropriate steps to address the discrepancy.
 
-“(d)
+"(d)
 
-Report.—Not later than August 1, 2007, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing the Secretary's findings as a result of the review under subsection (a), together with a plan for implementing whatever changes are determined to be appropriate to the process for awarding decorations in order to ensure that decorations are awarded in a timely manner, to the extent practicable.”
+Report.—Not later than August 1, 2007, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing the Secretary's findings as a result of the review under subsection (a), together with a plan for implementing whatever changes are determined to be appropriate to the process for awarding decorations in order to ensure that decorations are awarded in a timely manner, to the extent practicable."
 
 #### Separate Military Campaign Medals To Recognize Service in Operation Enduring Freedom and Service in Operation Iraqi Freedom
 
-Pub. L. 109–163, div. A, title V, §576, Jan. 6, 2006, 119 Stat. 3274, provided that: “For purposes of eligibility for the campaign medal for Operation Enduring Freedom established pursuant to Public Law 108–234 (10 U.S.C. 1121 note), the beginning date of Operation Enduring Freedom is September 11, 2001.”
+Pub. L. 109–163, div. A, title V, §576, Jan. 6, 2006, 119 Stat. 3274, provided that: "For purposes of eligibility for the campaign medal for Operation Enduring Freedom established pursuant to Public Law 108–234 (10 U.S.C. 1121 note), the beginning date of Operation Enduring Freedom is September 11, 2001."
 
 Pub. L. 108–234, §1, May 28, 2004, 118 Stat. 655, provided that:
 
-“(a)
+"(a)
 
 Requirement.—The President shall establish a campaign medal specifically to recognize service by members of the uniformed services in Operation Enduring Freedom and a separate campaign medal specifically to recognize service by members of the uniformed services in Operation Iraqi Freedom.
 
-“(b)
+"(b)
 
-Eligibility.—Subject to such limitations as may be prescribed by the President, eligibility for a campaign medal established pursuant to subsection (a) shall be set forth in regulations to be prescribed by the Secretary concerned (as defined in section 101 of title 10, United States Code). In the case of regulations prescribed by the Secretaries of the military departments, the regulations shall be subject to approval by the Secretary of Defense and shall be uniform throughout the Department of Defense.”
+Eligibility.—Subject to such limitations as may be prescribed by the President, eligibility for a campaign medal established pursuant to subsection (a) shall be set forth in regulations to be prescribed by the Secretary concerned (as defined in section 101 of title 10, United States Code). In the case of regulations prescribed by the Secretaries of the military departments, the regulations shall be subject to approval by the Secretary of Defense and shall be uniform throughout the Department of Defense."
 
 #### Commendation of Members of Armed Forces and Government Civilian Personnel Who Served During Cold War
 
 Pub. L. 105–85, div. A, title X, §1084, Nov. 18, 1997, 111 Stat. 1919, provided that:
 
-“(a)
+"(a)
 
 Findings.—The Congress finds the following:
 
-&emsp;“(1) During the period of the Cold War, from the end of World War II until the collapse of the Soviet Union in 1991, the United States and the Soviet Union engaged in a global military rivalry.
+&emsp;"(1) During the period of the Cold War, from the end of World War II until the collapse of the Soviet Union in 1991, the United States and the Soviet Union engaged in a global military rivalry.
 
-&emsp;“(2) This rivalry, potentially the most dangerous military confrontation in the history of mankind, has come to a close without a direct superpower military conflict.
+&emsp;"(2) This rivalry, potentially the most dangerous military confrontation in the history of mankind, has come to a close without a direct superpower military conflict.
 
-&emsp;“(3) Military and civilian personnel of the Department of Defense, personnel in the intelligence community, members of the foreign service, and other officers and employees of the United States faithfully performed their duties during the Cold War.
+&emsp;"(3) Military and civilian personnel of the Department of Defense, personnel in the intelligence community, members of the foreign service, and other officers and employees of the United States faithfully performed their duties during the Cold War.
 
-&emsp;“(4) Many such personnel performed their duties while isolated from family and friends and served overseas under frequently arduous conditions in order to protect the United States and achieve a lasting peace.
+&emsp;"(4) Many such personnel performed their duties while isolated from family and friends and served overseas under frequently arduous conditions in order to protect the United States and achieve a lasting peace.
 
-&emsp;“(5) The discipline and dedication of those personnel were fundamental to the prevention of a superpower military conflict.
+&emsp;"(5) The discipline and dedication of those personnel were fundamental to the prevention of a superpower military conflict.
 
-“(b)
+"(b)
 
 Congressional Commendation.—The Congress hereby commends the members of the Armed Forces and civilian personnel of the Government who contributed to the historic victory in the Cold War and expresses its gratitude and appreciation for their service and sacrifices.
 
-“(c)
+"(c)
 
-Certificates of Recognition.—The Secretary of Defense shall prepare a certificate recognizing the Cold War service of qualifying members of the Armed Forces and civilian personnel of the Department of Defense and other Government agencies contributing to national security, as determined by the Secretary, and shall provide the certificate to such members and civilian personnel upon request.”
+Certificates of Recognition.—The Secretary of Defense shall prepare a certificate recognizing the Cold War service of qualifying members of the Armed Forces and civilian personnel of the Department of Defense and other Government agencies contributing to national security, as determined by the Secretary, and shall provide the certificate to such members and civilian personnel upon request."
 
 #### Ex. Ord. No. 11448. Meritorious Service Medal
 
 Ex. Ord. No. 11448, Jan. 16, 1969, 34 F.R. 915, as amended by Ex. Ord. No. 12312, July 2, 1981, 46 F.R. 35251; Ex. Ord. No. 13286, §61, Feb. 28, 2003, 68 F.R. 10629, provided:
 
-By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, it is ordered as follows:
+By virtue of the authority vested in me as President of the United States and as Commander in Chief of theArmed Forces of the United States, it is ordered as follows:
 
 Section 1. There is hereby established a Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of a Military Department or the Secretary of Homeland Security with regard to the Coast Guard when not operating as a service in the Navy, or by such military commanders or other appropriate officers as the Secretary concerned may designate, to any member of the armed forces of the United States, or to any member of the armed forces of a friendly foreign nation, who has distinguished himself by outstanding meritorious achievement or service.
 
@@ -170,7 +173,7 @@ Sec. 4. Upon award, the Vice Presidential Service Badge may be worn as a part of
 
 Sec. 5. Only one Vice Presidential Service Badge shall be awarded to an individual. It may be awarded posthumously. No award shall be made to an individual under this Order based on a period of service with respect to which, in whole or in part, the individual was awarded the Presidential Service Badge.
 
-Sec. 6. Notwithstanding the provisions of Sections 1 and 2 of this Order, any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service, who has been assigned to duty in the Office of the Vice President, or who has been assigned to perform duties predominantly for the Vice President, in the implementation of Public Law 93–346, as amended, or in military units and support facilities to which section 1 of Executive Order 12793, as amended, refers,,\[sic\] is authorized, unless otherwise directed by the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers, to wear the Vice Presidential Service Badge on his or her uniform commencing on the first day of such duty and thereafter while assigned to such duty.
+Sec. 6. Notwithstanding the provisions of Sections 1 and 2 of this Order, any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service, who has been assigned to duty in the Office of the Vice President, or who has been assigned to perform duties predominantly for the Vice President, in the implementation of Public Law 93–346, as amended, or in military units and support facilities to which section 1 of Executive Order 12793, as amended, refers,,\[sic\] is authorized, unless otherwise directed by the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers, to wear the Vice Presidential Service Badge on his orher uniform commencing on the first day of such duty and thereafter while assigned to such duty.
 
 Sec. 7. Executive Order No. 11544 of July 8, 1970, is hereby superseded; however, individuals previously awarded a Vice Presidential Service Badge under that Order are authorized to continue to wear such badge as part of their uniform.
 
@@ -210,9 +213,9 @@ Ex. Ord. No. 12793, Mar. 20, 1992, 57 F.R. 10281, as amended by Ex. Ord. No. 132
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is ordered of follows:
 
-Section 1. <i>Presidential Service Certificate</i>. The Presidential Service Certificate (“Certificate”) is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security. It shall be awarded by the appropriate Secretary to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard, respectively, who have been assigned to the White House Office; to military units and support facilities under the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President (“EOP”). The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least one year, subsequent to January 21, 1989.
+Section 1. <i>Presidential Service Certificate</i>. The Presidential Service Certificate ("Certificate") is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security. It shall be awarded by the appropriate Secretary to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard, respectively, who have been assigned to the White House Office; to military units and support facilities under the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President ("EOP"). The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least one year, subsequent to January 21, 1989.
 
-Sec. 2. <i>Presidential Service Badge</i>. The Presidential Service Badge (“Badge”) is hereby continued, the design of which accompanies and is hereby made a part of this order. The Badge shall be awarded to those members of the Armed Forces who have been granted the Certificate and shall be awarded in the same manner in which the Certificate has been given. The Badge shall be worn as a part of the uniform of those individuals under such regulations as their respective Secretaries may severally prescribe.
+Sec. 2. <i>Presidential Service Badge</i>. The Presidential Service Badge ("Badge") is hereby continued, the design of which accompanies and is hereby made a part of this order. The Badge shall be awarded to those members of the Armed Forces who have been granted the Certificate and shall be awarded in the same manner in which the Certificate has been given. The Badge shall be worn as a part of the uniform of those individuals under such regulations as their respective Secretaries may severally prescribe.
 
 Sec. 3. Only one Certificate may be awarded to an individual.
 
@@ -289,4 +292,5 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 01132 - Presentation of decorations prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent&#8230;](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md)
 - [&sect; 01133 - Bronze Star limitation on persons eligible to receive](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20on%20persons%20eligible%20to%20receive.md)
 - [&sect; 01134 - Medal of honor award to individual interred in Tomb of the Unknowns as representative of casualties of a war](%C2%A7%2001134%20-%20Medal%20of%20honor%20award%20to%20individual%20interred%20in%20Tomb%20of%20the%20Unknowns%20as%20representative%20of%20casualties%20of%20a%20war.md)
+- [&sect; 01134a - Medal of honor Army, Navy, Air Force, and Coast Guard Medal of Honor Roll](%C2%A7%2001134a%20-%20Medal%20of%20honor%20Army%2C%20Navy%2C%20Air%20Force%2C%20and%20Coast%20Guard%20Medal%20of%20Honor%20Roll.md)
 - [&sect; 01135 - Replacement of military decorations](%C2%A7%2001135%20-%20Replacement%20of%20military%20decorations.md)

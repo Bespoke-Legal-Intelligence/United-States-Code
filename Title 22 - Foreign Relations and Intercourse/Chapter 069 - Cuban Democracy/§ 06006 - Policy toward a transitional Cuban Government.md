@@ -18,7 +18,7 @@ The Food for Peace Act, referred to in text, is act July 10, 1954, ch. 469, 68 S
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” in introductory provisions.
+<b>2008</b>—Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954" in introductory provisions.
 
 #### Effective Date of 2008 Amendment
 

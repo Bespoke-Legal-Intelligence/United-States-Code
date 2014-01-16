@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means a member agency of the North Bay Water Reuse Authority of the State located in the North San Pablo Bay watershed in—
+&emsp;The term "eligible entity" means a member agency of the North Bay Water Reuse Authority of the State located in the North San Pablo Bay watershed in—
 
 &emsp;&emsp;(A) Marin County;
 
@@ -18,7 +18,7 @@ In this section:
 
 #### (2) Water reclamation and reuse project
 
-&emsp;The term “water reclamation and reuse project” means a project carried out by the Secretary and an eligible entity in the North San Pablo Bay watershed relating to—
+&emsp;The term "water reclamation and reuse project" means a project carried out by the Secretary and an eligible entity in the North San Pablo Bay watershed relating to—
 
 &emsp;&emsp;(A) water quality improvement;
 
@@ -34,7 +34,7 @@ In this section:
 
 #### (3) State
 
-&emsp;The term “State” means the State of California.
+&emsp;The term "State" means the State of California.
 
 #### (b) North Bay Water Reuse Program
 

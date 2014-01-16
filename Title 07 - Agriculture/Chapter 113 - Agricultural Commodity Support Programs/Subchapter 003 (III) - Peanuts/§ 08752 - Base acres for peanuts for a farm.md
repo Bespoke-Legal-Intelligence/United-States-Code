@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) Cropland is released from coverage under a conservation reserve contract by the Secretary, or was released during the period beginning on October 1, 2007, and ending on the date of enactment of this Act.
 
-&emsp;&emsp;(C) The producer has eligible pulse crop acreage, which shall be determined in the same manner as eligible oilseed acreage under section 7911(a)(2) of this title.
+&emsp;&emsp;(C) The producer has eligible pulse crop acreage, which shall be determined in thesame manner as eligible oilseed acreage under section 7911(a)(2) of this title.
 
 &emsp;&emsp;(D) The producer has eligible oilseed acreage as the result of the Secretary designating additional oilseeds, which shall be determined in the same manner as eligible oilseed acreage under section 7911(a)(2) of this title.
 
@@ -114,7 +114,7 @@ The date of enactment of this Act, referred to in subsec. (a)(1)(A), (B), is the
 
 The Food Security Act of 1985, referred to in subsec. (b)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-This chapter, referred to in subsec. (d)(1), was in the original “this title”, meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 #### Codification
 
@@ -124,5 +124,5 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 <b>2008</b>—Subsec. (d)(4). Pub. L. 110–398 added par. (4).
 
-<i><sup>1</sup></i><i> So in original. There probably should be a closing parenthesis after “title”.</i>
+<i><sup>1</sup></i><i> So in original. There probably should be a closing parenthesis after "title".</i>
 

@@ -28,5 +28,5 @@ The Secretary shall ensure that the programs under this subpart are administered
 
 (Pub. L. 89–10, title V, §5466, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1828.)
 
-<i><sup>1</sup></i><i> So in original. The word “shall” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "shall" probably should not appear.</i>
 

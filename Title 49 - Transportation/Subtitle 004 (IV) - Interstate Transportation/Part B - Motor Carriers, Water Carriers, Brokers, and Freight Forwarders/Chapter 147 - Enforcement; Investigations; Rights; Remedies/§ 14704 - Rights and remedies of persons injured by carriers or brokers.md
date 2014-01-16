@@ -14,7 +14,7 @@ Damages for violations.—A carrier or broker providing transportation or servic
 
 (b)
 
-Liability and Damages for Exceeding Tariff Rate.—A carrier providing transportation or service subject to jurisdiction underchapter 135 is liable to a person for amounts charged that exceed the applicable rate for transportation or service contained in a tariff in effect under section 13702.
+Liability and Damages for Exceeding Tariff Rate.—A carrier providing transportation or service subject to jurisdiction under chapter 135 is liable to a person for amounts charged that exceed the applicable rate for transportation or service contained in a tariff in effect under section 13702.
 
 (c)
 
@@ -60,7 +60,7 @@ Provisions similar to those in this section were contained in section 11705 of t
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141 substituted “, 14103, and 14915(c)” for “and 14103”.
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141 substituted ", 14103, and 14915(c)" for "and 14103".
 
 #### Effective Date of 2012 Amendment
 

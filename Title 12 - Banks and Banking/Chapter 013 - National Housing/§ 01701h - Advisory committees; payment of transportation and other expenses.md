@@ -14,9 +14,9 @@ Section was enacted as part of the Housing Act of 1949, and not as part of the N
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–479 substituted “section 5703 of title 5” for “section 5 of the Act of August 2, 1946 (5 U.S.C. 73b–2)”.
+<b>1984</b>—Pub. L. 98–479 substituted "section 5703 of title 5" for "section 5 of the Act of August 2, 1946 (5 U.S.C. 73b–2)".
 
-<b>1967</b>—Pub. L. 90–19 substituted “The Secretary of Housing and Urban Development” and “he” for “The Housing and Home Finance Administrator and the head of each constituent agency of the Housing and Home Finance Agency” and “each”, respectively.
+<b>1967</b>—Pub. L. 90–19 substituted "The Secretary of Housing and Urban Development" and "he" for "The Housing and Home Finance Administrator and the head of each constituent agency of the Housing and Home Finance Agency" and "each", respectively.
 
 <b>1965</b>—Pub. L. 89–117 struck out provision that declared inapplicable the conflict-of-interest statutes in the case of members of advisory committees.
 
@@ -24,7 +24,7 @@ Section was enacted as part of the Housing Act of 1949, and not as part of the N
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 10486. Advisory Committee on Government Housing Policies and Programs
 
@@ -38,7 +38,7 @@ Ex. Ord. No. 10486, Sept. 12, 1953, 18 F.R. 5561, provided:
 
 4\. To work directly with the Housing and Home Finance Administrator in the task of directing specific studies and surveys and developing concrete recommendations, there shall be in the Committee an Executive Committee, consisting of members of the Committee designated for such purpose, and the Housing and Home Finance Administrator shall serve as the Chairman of such Executive Committee.
 
-5\. Administrative expenses in connection with the work of the Committee, including expenses of advisers and consultants appointed by the Chairman in connection therewith, shall, upon authorization therefor by the Chairman or his delegate, be paid pursuant to the authority therefor under the heading, “Housing and Home Finance Agency, Office of the Administrator” in the Supplemental Appropriation Act, 1954 (Public Law 207, Eighty-third Congress, approved August 7, 1953).
+5\. Administrative expenses in connection with the work of the Committee, including expenses of advisers and consultants appointed by the Chairman in connection therewith, shall, upon authorization therefor by the Chairman or his delegate, be paid pursuant to the authority therefor under the heading, "Housing and Home Finance Agency, Office of the Administrator" in the Supplemental Appropriation Act, 1954 (Public Law 207, Eighty-third Congress, approved August 7, 1953).
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

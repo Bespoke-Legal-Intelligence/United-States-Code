@@ -26,11 +26,11 @@ Nov. 16, 1990, Pub. L. 101–604, §106(f), 104 Stat. 3075.
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §612(d); added Nov. 16, 1990, Pub. L. 101–604, §110(a), 104 Stat. 3080.
 
-The words “In developing the guidelines” are substituted for “In developing airport construction guidelines under subsection (d) of section 612 of the Federal Aviation Act of 1958, as added by section 110 of this Act” in section 106(f) of the Aviation Security Improvement Act of 1990 (Public Law 101–604, 104 Stat. 3075) to eliminate unnecessary words.
+The words "In developing the guidelines" are substituted for "In developing airport construction guidelines under subsection (d) of section 612 of the Federal Aviation Act of 1958, as added by section 110 of this Act" in section 106(f) of the Aviation Security Improvement Act of 1990 (Public Law 101–604, 104 Stat. 3075) to eliminate unnecessary words.
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–71 substituted “Under Secretary” for “Administrator” wherever appearing and “of Transportation for Security” for “of the Federal Aviation Administration”.
+<b>2001</b>—Pub. L. 107–71 substituted "Under Secretary" for "Administrator" wherever appearing and "of Transportation for Security" for "of the Federal Aviation Administration".
 
 #### Transfer of Functions
 

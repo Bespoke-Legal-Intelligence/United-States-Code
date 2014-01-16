@@ -18,7 +18,7 @@
 
 &emsp;(2) authorize the deduction of the amount from the annuity.
 
-> Deductions from the annuity may be made from accrued or accruing payments. The amounts deducted and withheld from the annuity shall be transmitted to the Department of Labor for reimbursement to the Employees’ Compensation Fund. When the Department of Labor finds that the financial circumstances of an individual entitled to an annuity under subchapter II, IV, or V warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as the Department determines appropriate.
+> Deductions from the annuity may be made from accrued or accruing payments. The amounts deducted and withheld from the annuity shall be transmitted to the Department of Labor for reimbursement to the Employees’ Compensation Fund. When the Department of Labor finds that the financial circumstances of an individual entitled to an annuity under subchapter II, IV, or V warrant deferred refunding, deductions fromthe annuity may be prorated against and paid from accruing payments in such manner as the Department determines appropriate.
 
 (Added Pub. L. 100–238, title I, §124(a)(1)(B), Jan. 8, 1988, 101 Stat. 1755.)
 

@@ -4,7 +4,7 @@
 
 General Limitations.—(1) Except as provided in subsection (e) of this section, a State (except Hawaii) may not prescribe or enforce a regulation of commerce that imposes a vehicle width limitation of more or less than 102 inches on a commercial motor vehicle operating on—
 
-&emsp;(A) a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (e) of this section);
+&emsp;(A) a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways\(except a segment exempted under subsection (e) of this section);
 
 &emsp;(B) a qualifying Federal-aid highway designated by the Secretary of Transportation, with traffic lanes designed to be at least 12 feet wide; or
 
@@ -24,7 +24,7 @@ Special Use Permits.—A State may grant a special use permit to a commercial mo
 
 (d)
 
-State Enforcement.—Consistent with this section, a State may enforce a commercial motor vehicle width limitation of 102 inches ona segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (e) of this section) or other qualifying Federal-aid highway designated by the Secretary.
+State Enforcement.—Consistent with this section, a State may enforce a commercial motor vehicle width limitation of 102 inches on a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (e) of this section) or other qualifying Federal-aid highway designated by the Secretary.
 
 (e)
 
@@ -78,11 +78,11 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, §416(b), (c); added Apr. 5, 1983
 
 Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, §416(e); added Oct. 30, 1984, Pub. L. 98–554, §103(2), 98 Stat. 2830.
 
-In this section, the word “commercial” is added before “motor vehicle” for consistency. The words “Dwight D. Eisenhower System of Interstate and Defense Highways” are substituted for “National System of Interstate and Defense Highways” because of the Act of October 15, 1990 (Public Law 101–427, 104 Stat. 927).
+In this section, the word "commercial" is added before "motor vehicle" for consistency. The words "Dwight D. Eisenhower System of Interstate and Defense Highways" are substituted for "National System of Interstate and Defense Highways" because of the Act of October 15, 1990 (Public Law 101–427, 104 Stat. 927).
 
-In subsection (a)(1), before clause (A), the text of 49 App.:2316(f) is omitted as obsolete. The word “prescribe” is substituted for “establish, maintain” for consistency in the revised title and with other titles of the United States Code. The words “a commercial motor vehicle operating on” are added for clarity.
+In subsection (a)(1), before clause (A), the text of 49 App.:2316(f) is omitted as obsolete. The word "prescribe" is substituted for "establish, maintain" for consistency in the revised title and with other titles of the United States Code. The words "a commercial motor vehicle operating on" are added for clarity.
 
-In subsection (b), the words “or energy conservation” are added for consistency with section 31111(d) of the revised title and because of the reference to “efficient operation”.
+In subsection (b), the words "or energy conservation" are added for consistency with section 31111(d) of the revised title and because of the reference to "efficient operation".
 
-In subsection (e)(4)(C), the word “amendment” is substituted for “revision” for consistency in the revised title.
+In subsection (e)(4)(C), the word "amendment" is substituted for "revision" for consistency in the revised title.
 

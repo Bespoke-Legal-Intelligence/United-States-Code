@@ -12,23 +12,23 @@
 
 #### (A) Chronic care improvement program
 
-&emsp;&emsp;The term “chronic care improvement program” means a program described in paragraph (1) that is offered under an agreement under subsection (b) or (c) of this section.
+&emsp;&emsp;The term "chronic care improvement program" means a program described in paragraph (1) that is offered under an agreement under subsection (b) or (c) of this section.
 
 #### (B) Chronic care improvement organization
 
-&emsp;&emsp;The term “chronic care improvement organization” means an entity that has entered into an agreement under subsection (b) or (c) of this section to provide, directly or through contracts with subcontractors, a chronic care improvement program under this section. Such an entity may be a disease management organization, health insurer, integrated delivery system, physician group practice, a consortium of such entities, or any other legal entity that the Secretary determines appropriate to carry out a chronic care improvement program under this section.
+&emsp;&emsp;The term "chronic care improvement organization" means an entity that has entered into an agreement under subsection (b) or (c) of this section to provide, directly or through contracts with subcontractors, a chronic care improvement program under this section. Such an entity may be a disease management organization, health insurer, integrated delivery system, physician group practice, a consortium of such entities, or any other legal entity that the Secretary determines appropriate to carry out a chronic care improvement program under this section.
 
 #### (C) Care management plan
 
-&emsp;&emsp;The term “care management plan” means a plan established under subsection (d) of this section for a participant in a chronic care improvement program.
+&emsp;&emsp;The term "care management plan" means a plan established under subsection (d) of this section for a participant in a chronic care improvement program.
 
 #### (D) Threshold condition
 
-&emsp;&emsp;The term “threshold condition” means a chronic condition, such as congestive heart failure, diabetes, chronic obstructive pulmonary disease (COPD), or other diseases or conditions, as selected by the Secretary as appropriate for the establishment of a chronic care improvement program.
+&emsp;&emsp;The term "threshold condition" means a chronic condition, such as congestive heart failure, diabetes, chronic obstructive pulmonary disease (COPD), or other diseases or conditions, as selected by the Secretary as appropriate for the establishment of a chronic care improvement program.
 
 #### (E) Targeted beneficiary
 
-&emsp;&emsp;The term “targeted beneficiary” means, with respect to a chronic care improvement program, an individual who—
+&emsp;&emsp;The term "targeted beneficiary" means, with respect to a chronic care improvement program, an individual who—
 
 &emsp;&emsp;&emsp;(i) is entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, but not enrolled in a plan under part C of this subchapter;
 
@@ -66,7 +66,7 @@
 
 #### (B) Medicare beneficiary defined
 
-&emsp;&emsp;In this paragraph, the term “medicare beneficiary” means an individual who is entitled to benefits under part A of this subchapter, enrolled under part B of this subchapter, or both, and who resides in the United States.
+&emsp;&emsp;In this paragraph, the term "medicare beneficiary" means an individual who is entitled to benefits under part A of this subchapter, enrolled under part B of this subchapter, or both, and who resides in the United States.
 
 #### (4) Site selection
 
@@ -108,7 +108,7 @@
 
 #### (1) Identification of prospective program participants
 
-&emsp;The Secretary shall establish a method for identifying targeted beneficiaries who maybenefit from participation in a chronic care improvement program.
+&emsp;The Secretary shall establish a method for identifying targeted beneficiaries who may benefit from participation in a chronic care improvement program.
 
 #### (2) Initial contact by Secretary
 
@@ -218,7 +218,7 @@
 
 #### (4) Budget neutral payment condition
 
-&emsp;Under this section, the Secretary shall ensure that the aggregate sum of medicare program benefit expenditures for beneficiaries participating in chronic care improvement programs and funds paid to chronic care improvement organizations under this section, shall not exceed the medicare program benefit expenditures that the Secretary estimates would have been made for such targeted beneficiaries in the absence of such programs.
+&emsp;Under this section, the Secretary shall ensure that the aggregate sum of medicare program benefit expenditures for beneficiaries participating in chronic care improvementprograms and funds paid to chronic care improvement organizations under this section, shall not exceed the medicare program benefit expenditures that the Secretary estimates would have been made for such targeted beneficiaries in the absence of such programs.
 
 #### (g) Funding
 
@@ -236,129 +236,129 @@ Parts A, B, and C of this subchapter, referred to in subsecs. (a)(2)(E)(i) and (
 
 Pub. L. 108–173, title VI, §648, Dec. 8, 2003, 117 Stat. 2327, provided that:
 
-“(a)
+"(a)
 
 Establishment.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—Subject to the succeeding provisions of this section, the Secretary \[of Health and Human Services\] shall establish demonstration projects (in this section referred to as ‘demonstration projects’) under which the Secretary shall evaluate methods that improve the quality of care provided to individuals with chronic conditions and that reduce expenditures that would otherwise be made under the medicare program on behalf of such individuals for such chronic conditions, such methods to include permitting those beneficiaries to direct their own health care needs and services.
+In general.—Subject to the succeeding provisions of this section, the Secretary \[of Health and Human Services\] shall establish demonstration projects (in this section referred to as 'demonstration projects') under which the Secretary shall evaluate methods that improve the quality of care provided to individuals with chronic conditions and that reduce expenditures that would otherwise be made under the medicare program on behalf of such individuals for such chronic conditions, such methods to include permitting those beneficiaries to direct their own health care needs and services.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Individuals with chronic conditions defined.—In this section, the term ‘individuals with chronic conditions’ means an individual entitled to benefits under part A of title XVIII of the Social Security Act \[part A of this subchapter\], and enrolled under part B of such title \[part B of this subchapter\], but who is not enrolled under part C of such title \[part C of this subchapter\] who is diagnosed as having one or more chronic conditions (as defined by the Secretary), such as diabetes.
+Individuals with chronic conditions defined.—In this section, the term 'individuals with chronic conditions' means an individual entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\], and enrolled under part B of such title \[42 U.S.C. 1395j et seq.\], but who is not enrolled under part C of such title \[42 U.S.C. 1395w–21 et seq.\] who is diagnosed as having one or more chronic conditions (as defined by the Secretary), such as diabetes.
 
-“(b)
+"(b)
 
 Design of Projects.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Evaluation before implementation of project.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-In general.—In establishing the demonstration projects under this section, the Secretary shall evaluate best practices employed by group health plans and practices under State plans for medical assistance under the medicaid program under title XIX of the Social Security Act \[subchapter XIX of this chapter\], as well as best practices in the private sector or other areas, of methods that permit patients to self-direct the provision of personal care services. The Secretary shall evaluate such practices for a 1-year period and, based on such evaluation, shall design the demonstration project.
+In general.—In establishing the demonstration projects under this section, the Secretary shall evaluate best practices employed by group health plans and practices under State plans for medical assistance under the medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], as well as best practices in the private sector or other areas, of methods that permit patients to self-direct the provision of personal care services. The Secretary shall evaluate such practices for a 1-year period and, based on such evaluation, shall design the demonstration project.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Requirement for estimate of budget neutral costs.—As part of the evaluation under subparagraph (A), the Secretary shall evaluate the costs of furnishing care under the projects. The Secretary may not implement the demonstration projects under this section unless the Secretary determines that the costs of providing care to individuals with chronic conditions under the project will not exceed the costs, in the aggregate, of furnishing care to such individuals under title XVIII of the Social Security Act \[this subchapter\], that would otherwise be paid without regard to the demonstration projects for the period of the project.
+Requirement for estimate of budget neutral costs.—As part of the evaluation under subparagraph (A), the Secretary shall evaluate the costs of furnishing care under the projects. The Secretary may not implement the demonstration projects under this section unless the Secretary determines that the costs of providing care to individuals with chronic conditions under the project will not exceed the costs, in the aggregate, of furnishing care to such individuals under title XVIII of the Social Security Act \[42 U.S.C. 1396 et seq.\], that would otherwise be paid without regard to the demonstration projects for the period of the project.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Scope of services.—The Secretary shall determine the appropriate scope of personal care services that would apply under the demonstration projects.
 
-“(c)
+"(c)
 
 Voluntary Participation.—Participation of providers of services and suppliers, and of individuals with chronic conditions, in the demonstration projects shall be voluntary.
 
-“(d)
+"(d)
 
-Demonstration Projects Sites.—Not later than 2 years after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall conduct a demonstration project in at least one area that the Secretary determines has a population of individuals entitled to benefits under part A of title XVIII of the Social Security Act \[part A of this subchapter\], and enrolled under part B of such title \[part B of this subchapter\], with a rate of incidence of diabetes that significantly exceeds the national average rate of all areas.
+Demonstration Projects Sites.—Not later than 2 years after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall conduct a demonstration project in at least one area that the Secretary determines has a population of individuals entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\], and enrolled under part B of such title \[42 U.S.C. 1395j et seq.\], with a rate of incidence of diabetes that significantly exceeds the national average rate of all areas.
 
-“(e)
+"(e)
 
 Evaluation and Report.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Evaluations.—The Secretary shall conduct evaluations of the clinical and cost effectiveness of the demonstration projects.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Reports.—Not later than 2 years after the commencement of the demonstration projects, and biannually thereafter, the Secretary shall submit to Congress a report on the evaluation, and shall include in the report the following:
 
-&emsp;&emsp;“(A) An analysis of the patient outcomes and costs of furnishing care to the individuals with chronic conditions participating in the projects as compared to such outcomes and costs to other individuals for the same health conditions.
+&emsp;&emsp;"(A) An analysis of the patient outcomes and costs of furnishing care to the individuals with chronic conditions participating in the projects as compared to such outcomes and costs to other individuals for the same health conditions.
 
-&emsp;&emsp;“(B) Evaluation of patient satisfaction under the demonstration projects.
+&emsp;&emsp;"(B) Evaluation of patient satisfaction under the demonstration projects.
 
-&emsp;&emsp;“(C) Such recommendations regarding the extension, expansion, or termination of the projects as the Secretary determines appropriate.
+&emsp;&emsp;"(C) Such recommendations regarding the extension, expansion, or termination of the projects as the Secretary determines appropriate.
 
-“(f)
+"(f)
 
 Waiver Authority.—The Secretary shall waive compliance with the requirements of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) to such extent and for such period as the Secretary determines is necessary to conduct demonstration projects.
 
-“(g)
+"(g)
 
 Authorization of Appropriations.—(1) Payments for the costs of carrying out the demonstration project under this section shall be made from the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t).
 
-“(2) There are authorized to be appropriated from such Trust Fund such sums as may be necessary for the Secretary to enter into contracts with appropriate organizations for the deign \[sic\], implementation, and evaluation of the demonstration project.
+"(2) There are authorized to be appropriated from such Trust Fund such sums as may be necessary for the Secretary to enter into contracts with appropriate organizations for the deign \[sic\], implementation, and evaluation of the demonstration project.
 
-“(3) In no case may expenditures under this section exceed the aggregate expenditures that would otherwise have been made for the provision of personal care services.”
+"(3) In no case may expenditures under this section exceed the aggregate expenditures that would otherwise have been made for the provision of personal care services."
 
 #### Reports
 
-Pub. L. 108–173, title VII, §721(b), Dec. 8, 2003, 117 Stat. 2346, provided that: “The Secretary \[of Health and Human Services\] shall submit to Congress reports on the operation of section 1807 of the Social Security Act \[this section\], as added by subsection (a), as follows:
+Pub. L. 108–173, title VII, §721(b), Dec. 8, 2003, 117 Stat. 2346, provided that: "The Secretary \[of Health and Human Services\] shall submit to Congress reports on the operation of section 1807 of the Social Security Act \[42 U.S.C. 1395b–8\], as added by subsection (a), as follows:
 
-&emsp;“(1) Not later than 2 years after the date of the implementation of such section, the Secretary shall submit to Congress an interim report on the scope of implementation of the programs under subsection (b) of such section, the design of the programs, and preliminary cost and quality findings with respect to those programs based on the following measures of the programs:
+&emsp;"(1) Not later than 2 years after the date of the implementation of such section, the Secretary shall submit to Congress an interim report on the scope of implementation of the programs under subsection (b) of such section, the design of the programs, and preliminary cost and quality findings with respect to those programs based on the following measures of the programs:
 
-&emsp;&emsp;“(A) Quality improvement measures, such as adherence to evidence-based guidelines and rehospitalization rates.
+&emsp;&emsp;"(A) Quality improvement measures, such as adherence to evidence-based guidelines and rehospitalization rates.
 
-&emsp;&emsp;“(B) Beneficiary and provider satisfaction.
+&emsp;&emsp;"(B) Beneficiary and provider satisfaction.
 
-&emsp;&emsp;“(C) Health outcomes.
+&emsp;&emsp;"(C) Health outcomes.
 
-&emsp;&emsp;“(D) Financial outcomes.
+&emsp;&emsp;"(D) Financial outcomes.
 
-&emsp;“(2) Not later than 3 years and 6 months after the date of the implementation of such section the Secretary shall submit to Congress an update to the report required under paragraph (1) on the results of such programs.
+&emsp;"(2) Not later than 3 years and 6 months after the date of the implementation of such section the Secretary shall submit to Congress an update to the report required under paragraph (1) on the results of such programs.
 
-&emsp;“(3) The Secretary shall submit to Congress 2 additional biennial reports on the chronic care improvement programs conducted under such section. The first such report shall be submitted not later than 2 years after the report is submitted under paragraph (2). Each such report shall include information on—
+&emsp;"(3) The Secretary shall submit to Congress 2 additional biennial reports on the chronic care improvement programs conducted under such section. The first such report shall be submitted not later than 2 years after the report is submitted under paragraph (2). Each such report shall include information on—
 
-&emsp;&emsp;“(A) the scope of implementation (in terms of both regions and chronic conditions) of the chronic care improvement programs;
+&emsp;&emsp;"(A) the scope of implementation (in terms of both regions and chronic conditions) of the chronic care improvement programs;
 
-&emsp;&emsp;“(B) the design of the programs; and
+&emsp;&emsp;"(B) the design of the programs; and
 
-&emsp;&emsp;“(C) the improvements in health outcomes and financial efficiencies that result from such implementation.”
+&emsp;&emsp;"(C) the improvements in health outcomes and financial efficiencies that result from such implementation."
 
 #### Chronically Ill Medicare Beneficiary Research, Data, Demonstration Strategy
 
 Pub. L. 108–173, title VII, §723, Dec. 8, 2003, 117 Stat. 2348, provided that:
 
-“(a)
+"(a)
 
 Development of Plan.—Not later than 6 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall develop a plan to improve quality of care and reduce the cost of care for chronically ill medicare beneficiaries.
 
-“(b)
+"(b)
 
 Plan Requirements.—The plan will utilize existing data and identify data gaps, develop research initiatives, and propose intervention demonstration programs to provide better health care for chronically ill medicare beneficiaries. The plan shall—
 
-&emsp;“(1) integrate existing data sets including, the Medicare Current Beneficiary Survey (MCBS), Minimum Data Set (MDS), Outcome and Assessment Information Set (OASIS), data from Quality Improvement Organizations (QIO), and claims data;
+&emsp;"(1) integrate existing data sets including, the Medicare Current Beneficiary Survey (MCBS), Minimum Data Set (MDS), Outcome and Assessment Information Set (OASIS), data from Quality Improvement Organizations (QIO), and claims data;
 
-&emsp;“(2) identify any new data needs and a methodology to address new data needs;
+&emsp;"(2) identify any new data needs and a methodology to address new data needs;
 
-&emsp;“(3) plan for the collection of such data in a data warehouse; and
+&emsp;"(3) plan for the collection of such data in a data warehouse; and
 
-&emsp;“(4) develop a research agenda using such data.
+&emsp;"(4) develop a research agenda using such data.
 
-“(c)
+"(c)
 
 Consultation.—In developing the plan under this section, the Secretary shall consult with experts in the fields of care for the chronically ill (including clinicians).
 
-“(d)
+"(d)
 
 Implementation.—Not later than 2 years after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall implement the plan developed under this section. The Secretary may contract with appropriate entities to implement such plan.
 
-“(e)
+"(e)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary such sums as may be necessary in fiscal years 2004 and 2005 to carry out this section.”
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary such sums as may be necessary in fiscal years 2004 and 2005 to carry out this section."
 

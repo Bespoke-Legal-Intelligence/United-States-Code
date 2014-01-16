@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Gold Star Wives of America (in this chapter, the “corporation”), incorporated in New York, is a federally chartered corporation.
+Federal Charter.—Gold Star Wives of America (in this chapter, the "corporation"), incorporated in New York, is a federally chartered corporation.
 
 (b)
 

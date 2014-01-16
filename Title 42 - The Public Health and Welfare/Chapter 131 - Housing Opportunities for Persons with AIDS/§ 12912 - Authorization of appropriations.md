@@ -6,5 +6,5 @@ There are authorized to be appropriated to carry out this chapter $150,000,000 f
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out this chapter $75,000,000 for fiscal year 1991, and $156,500,000 for fiscal year 1992.”
+<b>1992</b>—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated to carry out this chapter $75,000,000 for fiscal year 1991, and $156,500,000 for fiscal year 1992."
 

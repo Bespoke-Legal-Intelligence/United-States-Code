@@ -16,7 +16,7 @@ Part II of this subchapter, referred to in par. (1), is classified to section 35
 
 #### Amendments
 
-<b>1996</b>—Par. (2). Pub. L. 104–104 struck out “except a vessel of the United States Maritime Administration, the Inland and Coastwise Waterways Service, or the Panama Canal Company,” after “the Government,”.
+<b>1996</b>—Par. (2). Pub. L. 104–104 struck out "except a vessel of the United States Maritime Administration, the Inland and Coastwise Waterways Service, or the Panama Canal Company," after "the Government,".
 
 <b>1994</b>—Pub. L. 103–414 inserted section catchline.
 

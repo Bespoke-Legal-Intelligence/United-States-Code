@@ -6,7 +6,7 @@ Except as otherwise provided by law, the Joint Committee shall have power to app
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 substituted “compensation of the Chief of Staff of the Joint Committee” for “compensation of a clerk” after “appoint and fix the”.
+<b>1976</b>—Pub. L. 94–455 substituted "compensation of the Chief of Staff of the Joint Committee" for "compensation of a clerk" after "appoint and fix the".
 
 #### Effective Date of 1976 Amendment
 

@@ -58,63 +58,63 @@ The following consumer products, excluding those consumer products designed sole
 
 (2) For purposes of this subsection:
 
-&emsp;(A) The term “average annual per-household energy use with respect to a type of product” means the estimated aggregate annual energy use (in kilowatt-hours or the Btu equivalent) of consumer products of such type which areused by households in the United States, divided by the number of such households which use products of such type.
+&emsp;(A) The term "average annual per-household energy use with respect to a type of product" means the estimated aggregate annual energy use (in kilowatt-hours or the Btu equivalent) of consumer products of such type which are used by households in the United States, divided by the number of such households which use products of such type.
 
 &emsp;(B) The Btu equivalent of one kilowatt-hour is 3,412 British thermal units.
 
-&emsp;(C) The term “household” shall be defined under rules of the Secretary.
+&emsp;(C) The term "household" shall be defined under rules of the Secretary.
 
 (Pub. L. 94–163, title III, §322, Dec. 22, 1975, 89 Stat. 918; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §§3, 11(b)(1), Mar. 17, 1987, 101 Stat. 105, 125; Pub. L. 100–357, §2(b), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(c), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 105–388, §5(a)(3), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 110–140, title III, §§321(a)(2), 324(b), Dec. 19, 2007, 121 Stat. 1577, 1593.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (b)(1)(A), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(14). Pub. L. 110–140, §321(a)(2), inserted “, general service incandescent lamps,” after “fluorescent lamps”.
+<b>2007</b>—Subsec. (a)(14). Pub. L. 110–140, §321(a)(2), inserted ", general service incandescent lamps," after "fluorescent lamps".
 
 Subsec. (a)(19), (20). Pub. L. 110–140, §324(b), added par. (19) and redesignated former par. (19) as (20).
 
-<b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–388 inserted closing quotation marks after “type of product”.
+<b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–388 inserted closing quotation marks after "type of product".
 
 <b>1992</b>—Subsec. (a)(14) to (19). Pub. L. 102–486 added pars. (14) to (18) and redesignated former par. (14) as (19).
 
 <b>1988</b>—Subsec. (a)(13), (14). Pub. L. 100–357 added par. (13) and redesignated former par. (13) as (14).
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–12, §3, inserted heading and amended text generally. Prior to amendment, text read as follows: “A consumer product is a covered product if it is one of the following types (or is designed to perform a function which is the principal function of any of the following types):
+<b>1987</b>—Subsec. (a). Pub. L. 100–12, §3, inserted heading and amended text generally. Prior to amendment, text read as follows: "A consumer product is a covered product if it is one of the following types (or is designed to perform a function which is the principal function of any of the following types):
 
-&emsp;“(1) Refrigerators and refrigerator-freezers.
+&emsp;"(1) Refrigerators and refrigerator-freezers.
 
-&emsp;“(2) Freezers.
+&emsp;"(2) Freezers.
 
-&emsp;“(3) Dishwashers.
+&emsp;"(3) Dishwashers.
 
-&emsp;“(4) Clothes dryers.
+&emsp;"(4) Clothes dryers.
 
-&emsp;“(5) Water heaters.
+&emsp;"(5) Water heaters.
 
-&emsp;“(6) Room air conditioners.
+&emsp;"(6) Room air conditioners.
 
-&emsp;“(7) Home heating equipment, not including furnaces.
+&emsp;"(7) Home heating equipment, not including furnaces.
 
-&emsp;“(8) Television sets.
+&emsp;"(8) Television sets.
 
-&emsp;“(9) Kitchen ranges and ovens.
+&emsp;"(9) Kitchen ranges and ovens.
 
-&emsp;“(10) Clothes washers.
+&emsp;"(10) Clothes washers.
 
-&emsp;“(11) Humidifiers and dehumidifiers.
+&emsp;"(11) Humidifiers and dehumidifiers.
 
-&emsp;“(12) Central aid conditioners.
+&emsp;"(12) Central aid conditioners.
 
-&emsp;“(13) Furnaces.
+&emsp;"(13) Furnaces.
 
-&emsp;“(14) Any other type of consumer product which the Secretary classifies as a covered product under subsection (b) of this section.”
+&emsp;"(14) Any other type of consumer product which the Secretary classifies as a covered product under subsection (b) of this section."
 
 Subsec. (b). Pub. L. 100–12, §11(b)(1), inserted heading.
 
-<b>1978</b>—Subsecs. (a)(14), (b)(1), (2)(C). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsecs. (a)(14), (b)(1), (2)(C). Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Effective Date of 2007 Amendment
 
@@ -124,131 +124,131 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 Pub. L. 102–486, title I, §121, Oct. 24, 1992, 106 Stat. 2805, provided that:
 
-“(a)
+"(a)
 
 In General.—(1) The Secretary shall, after consulting with the National Fenestration Rating Council, industry representatives, and other appropriate organizations, provide financial assistance to support a voluntary national window rating program that will develop energy ratings and labels for windows and window systems.
 
-“(2) Such rating program shall include—
+"(2) Such rating program shall include—
 
-&emsp;“(A) specifications for testing procedures and labels that will enable window buyers to make more informed purchasing decisions about the energy efficiency of windows and window systems; and
+&emsp;"(A) specifications for testing procedures and labels that will enable window buyers to make more informed purchasing decisions about the energy efficiency of windows and window systems; and
 
-&emsp;“(B) information (which may be disseminated through catalogs, trade publications, labels, or other mechanisms) that will allow window buyers to assess the energy consumption and potential cost savings of alternative window products.
+&emsp;"(B) information (which may be disseminated through catalogs, trade publications, labels, or other mechanisms) that will allow window buyers to assess the energy consumption and potential cost savings of alternative window products.
 
-“(3) Such rating program shall be developed by the National Fenestration Rating Council according to commonly accepted procedures for the development of national testing procedures and labeling programs.
+"(3) Such rating program shall be developed by the National Fenestration Rating Council according to commonly accepted procedures for the development of national testing procedures and labeling programs.
 
-“(b)
+"(b)
 
 Monitoring.—The Secretary shall monitor and evaluate the efforts of the National Fenestration Rating Council and, not later than one year after the date of the enactment of this Act \[Oct. 24, 1992\], make a determination as to whether the program developed by the Council is consistent with the objectives of subsection (a).
 
-“(c)
+"(c)
 
 Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national window rating program consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for windows and window systems.
 
-“(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the ‘Commission’) shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for those windows and window systems for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of window or window system (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
+"(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the 'Commission') shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for those windows and window systems for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of window or window system (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
-“(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
+"(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
 
-“(4) For purposes of section 327(a) of such Act, the term ‘this part’ includes this subsection to the extent necessary to carry out this subsection.”
+"(4) For purposes of section 327(a) of such Act, the term 'this part' includes this subsection to the extent necessary to carry out this subsection."
 
 #### Energy Efficiency Information for Commercial Office Equipment
 
 Pub. L. 102–486, title I, §125, Oct. 24, 1992, 106 Stat. 2833, provided that:
 
-“(a)
+"(a)
 
 In General.—(1) The Secretary shall, after consulting with the Computer and Business Equipment Manufacturers Association and other interested organizations, provide financial and technical assistance to support a voluntary national testing and information program for those types of commercial office equipment that are widely used and for which there is a potential for significant energy savings as a result of such program.
 
-“(2) Such program shall—
+"(2) Such program shall—
 
-&emsp;“(A) consistent with the objectives of paragraph (1), determine the commercial office equipment to be covered under such program;
+&emsp;"(A) consistent with the objectives of paragraph (1), determine the commercial office equipment to be covered under such program;
 
-&emsp;“(B) include specifications for testing procedures that will enable purchasers of such commercial officeequipment to make more informed decisions about the energy efficiency and costs of alternative products; and
+&emsp;"(B) include specifications for testing procedures that will enable purchasers of such commercial office equipment to make more informed decisions about the energy efficiency and costs of alternative products; and
 
-&emsp;“(C) include information, which may be disseminated through catalogs, trade publications, labels, or other mechanisms, that will allow consumers to assess the energy consumption and potential cost savings of alternative products.
+&emsp;"(C) include information, which may be disseminated through catalogs, trade publications, labels, or other mechanisms, that will allow consumers to assess the energy consumption and potential cost savings of alternative products.
 
-“(3) Such program shall be developed by an appropriate organization (composed of interested parties) according to commonly accepted procedures for the development of national testing procedure and labeling programs.
+"(3) Such program shall be developed by an appropriate organization (composed of interested parties) according to commonly accepted procedures for the development of national testing procedure and labeling programs.
 
-“(b)
+"(b)
 
 Monitoring.—The Secretary shall monitor and evaluate the efforts to develop the program described in subsection (a) and, not later than three years after the date of the enactment of this Act \[Oct. 24, 1992\], shall make a determination as to whether such program is consistent with the objectives of subsection (a).
 
-“(c)
+"(c)
 
 Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for commercial office equipment consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for such commercial office equipment.
 
-“(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the ‘Commission’) shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for commercial office equipment for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of commercial office equipment (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
+"(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the 'Commission') shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for commercial office equipment for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of commercial office equipment (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
-“(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
+"(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
 
-“(4) For purposes of section 327(a) of such Act, the term ‘this part’ includes this subsection to the extent necessary to carry out this subsection.”
+"(4) For purposes of section 327(a) of such Act, the term 'this part' includes this subsection to the extent necessary to carry out this subsection."
 
 #### Energy Efficiency Information for Luminaires
 
 Pub. L. 102–486, title I, §126, Oct. 24, 1992, 106 Stat. 2834, provided that:
 
-“(a)
+"(a)
 
 In General.—(1) The Secretary shall, after consulting with the National Electric Manufacturers Association, the American Lighting Association, and other interested organizations, provide financial and technical assistance to support a voluntary national testing and information program for those types of luminaires that are widely used and for which there is a potential for significant energy savings as a result of such program.
 
-“(2) Such program shall—
+"(2) Such program shall—
 
-&emsp;“(A) consistent with the objectives of paragraph (1), determine the luminaires to be covered under such program;
+&emsp;"(A) consistent with the objectives of paragraph (1), determine the luminaires to be covered under such program;
 
-&emsp;“(B) include specifications for testing procedures that will enable purchasers of such luminaires to make more informed decisions about the energy efficiency and costs of alternative products; and
+&emsp;"(B) include specifications for testing procedures that will enable purchasers of such luminaires to make more informed decisions about the energy efficiency and costs of alternative products; and
 
-&emsp;“(C) include information, which may be disseminated through catalogs, trade publications, labels, or other mechanisms, that will allow consumers to assess the energy consumption and potential cost savings of alternative products.
+&emsp;"(C) include information, which may be disseminated through catalogs, trade publications, labels, or other mechanisms, that will allow consumers to assess the energy consumption and potential cost savings of alternative products.
 
-“(3) Such program shall be developed by an appropriate organization (composed of interested parties) according to commonly accepted procedures for the development of national testing procedures and labeling programs.
+"(3) Such program shall be developed by an appropriate organization (composed of interested parties) according to commonly accepted procedures for the development of national testing procedures and labeling programs.
 
-“(b)
+"(b)
 
 Monitoring.—The Secretary shall monitor and evaluate the efforts to develop the program described in subsection (a) and, not later than three years after the date of the enactment of this Act \[Oct. 24, 1992\], shall make a determination as to whether the program developed is consistent with the objectives of subsection (a).
 
-“(c)
+"(c)
 
 Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for luminaires consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for such luminaires.
 
-“(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the ‘Commission’) shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for those luminaires for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of luminaire (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
+"(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the 'Commission') shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for those luminaires for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of luminaire (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
-“(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
+"(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
 
-“(4) For purposes of section 327(a) of such Act, the term ‘this part’ includes this subsection to the extent necessary to carry out this subsection.”
+"(4) For purposes of section 327(a) of such Act, the term 'this part' includes this subsection to the extent necessary to carry out this subsection."
 
 #### Report on Potential of Cooperative Advanced Appliance Development
 
 Pub. L. 102–486, title I, §127, Oct. 24, 1992, 106 Stat. 2835, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary shall, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, prepare and submit to the Congress, a report on the potential for the development and commercialization of appliances which are substantially more efficient than required by Federal or State law.
 
-“(b)
+"(b)
 
 Identification of High-Efficiency Appliances.—The report submitted under subsection (a) shall identify candidate high-efficiency appliances which meet the following criteria:
 
-&emsp;“(1) The potential exists for substantial improvement in the appliance's energy efficiency, beyond the minimum established in Federal and State law.
+&emsp;"(1) The potential exists for substantial improvement in the appliance's energy efficiency, beyond the minimum established in Federal and State law.
 
-&emsp;“(2) There is the potential for significant energy savings at the national or regional level.
+&emsp;"(2) There is the potential for significant energy savings at the national or regional level.
 
-&emsp;“(3) Such appliances are likely to be cost-effective for consumers.
+&emsp;"(3) Such appliances are likely to be cost-effective for consumers.
 
-&emsp;“(4) Electric, water, or gas utilities are prepared to support and promote the commercialization of such appliances.
+&emsp;"(4) Electric, water, or gas utilities are prepared to support and promote the commercialization of such appliances.
 
-&emsp;“(5) Manufacturers are unlikely to undertake development and commercialization of such appliances on their own, or development and production would be substantially accelerated by support to manufacturers.
+&emsp;"(5) Manufacturers are unlikely to undertake development and commercialization of such appliances on their own, or development and production would be substantially accelerated by support to manufacturers.
 
-“(c)
+"(c)
 
 Recommendations and Proposals.—The report submitted under subsection (a) shall also—
 
-&emsp;“(1) describe the general actions the Secretary or the Administrator of the Environmental Protection Agency could take to coordinate and assist utilitiesand appliance manufacturers in developing and commercializing highly efficient appliances;
+&emsp;"(1) describe the general actions the Secretary or the Administrator of the Environmental Protection Agency could take to coordinate and assist utilities and appliance manufacturers in developing and commercializing highly efficient appliances;
 
-&emsp;“(2) describe specific proposals for Department of Energy or Environmental Protection Agency assistance to utilities and appliance manufacturers to promote the development and commercialization of highly efficient appliances;
+&emsp;"(2) describe specific proposals for Department of Energy or Environmental Protection Agency assistance to utilities and appliance manufacturers to promote the development and commercialization of highly efficient appliances;
 
-&emsp;“(3) identify methods by which Federal purchase of highly efficient appliances could assist in the development and commercialization of such appliances; and
+&emsp;"(3) identify methods by which Federal purchase of highly efficient appliances could assist in the development and commercialization of such appliances; and
 
-&emsp;“(4) identify the funding levels needed to develop and implement a Federal program to assist in the development and commercialization of highly efficient appliances.”
+&emsp;"(4) identify the funding levels needed to develop and implement a Federal program to assist in the development and commercialization of highly efficient appliances."
 
 #### Evaluation of Utility Early Replacement Programs for Appliances
 
-Pub. L. 102–486, title I, §128, Oct. 24, 1992, 106 Stat. 2836, provided that: “Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, shall evaluate and report to the Congress on the energy savings and environmental benefits of programs which are directed to the early replacement of older, less efficient appliances presently in use by consumers with existing products which are more efficient than required by Federal law. For the purposes of this section, the term ‘appliance’ means those consumer products specified in section 322(a) \[42 U.S.C. 6292(a)\].”
+Pub. L. 102–486, title I, §128, Oct. 24, 1992, 106 Stat. 2836, provided that: "Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, shall evaluate and report to the Congress on the energy savings and environmental benefits of programs which are directed to the early replacement of older, less efficient appliances presently in use by consumers with existing products which are more efficient than required by Federal law. For the purposes of this section, the term 'appliance' means those consumer products specified in section 322(a) \[42 U.S.C. 6292(a)\]."
 

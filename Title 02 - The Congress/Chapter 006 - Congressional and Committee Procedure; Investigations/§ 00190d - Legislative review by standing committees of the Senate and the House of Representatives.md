@@ -18,7 +18,7 @@ In each odd-numbered year beginning on or after January 1, 1973, each standing c
 
 The preceding provisions of this section do not apply to the Committees on Appropriations and the Budget of the Senate and the Committees on Appropriations, the Budget, House Oversight, Rules, and Standards of Official Conduct of the House.
 
-(Aug. 2, 1946, ch. 753, title I, §136, 60 Stat. 832; Pub. L. 91–510, title I, §118(a)(1), Oct. 26, 1970, 84 Stat. 1156; Pub. L. 92–136, §1, Oct. 11, 1971, 85 Stat. 376; Pub. L. 93–344, title VII, §701, title IX, §903(b), July 12, 1974, 88 Stat. 325, 331; Pub. L. 104–186, title II, §206(1), Aug. 20, 1996, 110 Stat. 1742.)
+(Aug. 2, 1946, ch. 753, title I, §136, 60 Stat. 832; Pub. L. 91–510, title I, §118(a)(1), Oct. 26, 1970, 84Stat. 1156; Pub. L. 92–136, §1, Oct. 11, 1971, 85 Stat. 376; Pub. L. 93–344, title VII, §701, title IX, §903(b), July 12, 1974, 88 Stat. 325, 331; Pub. L. 104–186, title II, §206(1), Aug. 20, 1996, 110 Stat. 1742.)
 
 #### Partial Repeal
 
@@ -48,11 +48,11 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 92–136, §9(a), Oct. 11, 1971, 85 Stat. 378, provided that: “The amendments made by the first section \[amending this section\] section 2, and section 5 of this Act \[amending section 72a of this title\] shall become effective as of noon on January 3, 1971.”
+Pub. L. 92–136, §9(a), Oct. 11, 1971, 85 Stat. 378, provided that: “The amendments made by the first section \[amending this section\] section 2, and section 5 of this Act \[amending section 4301 of this title\] shall become effective as of noon on January 3, 1971.”
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 72a of this title.
+Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 4301 of this title.
 
 #### Effective Date
 

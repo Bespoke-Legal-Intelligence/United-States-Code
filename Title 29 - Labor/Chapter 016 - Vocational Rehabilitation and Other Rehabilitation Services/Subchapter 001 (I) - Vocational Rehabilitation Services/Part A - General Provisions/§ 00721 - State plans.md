@@ -84,7 +84,7 @@
 
 #### (C) Facilities
 
-&emsp;&emsp;The State plan shall provide that facilities used in connection with the delivery of services assisted under the State plan shall comply with the Act entitled “An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved on August 12, 1968 (commonly known as the “Architectural Barriers Act of 1968”) \[42 U.S.C. 4151 et seq.\], with section 794 of this title, and with the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\].
+&emsp;&emsp;The State plan shall provide that facilities used in connection with the delivery of services assisted under the State plan shall comply with the Act entitled "An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped", approved on August 12, 1968 (commonly known as the "Architectural Barriers Act of 1968") \[42 U.S.C. 4151 et seq.\], with section 794 of this title, and with the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\].
 
 #### (7) Comprehensive system of personnel development
 
@@ -444,7 +444,7 @@
 
 &emsp;&emsp;(B) provide that the designated State agency (or each designated State agency if two agencies are designated) and any sole agency administering the plan in a political subdivision of the State, shall take into account, in connection with matters of general policy arising in the administration of the plan, the views of—
 
-&emsp;&emsp;&emsp;(i) individuals and groups of individuals who are recipients of vocational rehabilitation services, or in appropriate cases, the individuals’ representatives;
+&emsp;&emsp;&emsp;(i) individuals and groups of individuals who are recipients of vocational rehabilitation services, or in appropriate cases, the individuals' representatives;
 
 &emsp;&emsp;&emsp;(ii) personnel working in programs that provide vocational rehabilitation services to individuals with disabilities;
 
@@ -484,7 +484,7 @@
 
 #### (19) Choice
 
-&emsp;The State plan shall include an assurance that applicants and eligible individuals or, as appropriate, the applicants’ representatives or individuals’ representatives, will be provided information and support services to assist the applicants and individuals in exercising informed choice throughout the rehabilitation process, consistent with the provisions of section 722(d) of this title.
+&emsp;The State plan shall include an assurance that applicants and eligible individuals or, as appropriate, the applicants' representatives or individuals' representatives, will be provided information and support services to assist the applicants and individuals in exercising informed choice throughout the rehabilitation process, consistent with the provisions of section 722(d) of this title.
 
 #### (20) Information and referral services
 
@@ -588,7 +588,7 @@ The Rehabilitation Act Amendments of 1998, referred to in subsec. (a)(7)(A)(v)(I
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(10)(D)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-Subpart 3 of part A of subchapter VII of this chapter, referred to in subsec. (a)(11)(E), was in the original a reference to “part C of title VII”, meaning part C of title VII of the Rehabilitation Act of 1973, and was translated as if it referred to part C of chapter I of title VII of the Act to reflect the probable intent of Congress.
+Subpart 3 of part A of subchapter VII of this chapter, referred to in subsec. (a)(11)(E), was in the original a reference to "part C of title VII", meaning part C of title VII of the Rehabilitation Act of 1973, and was translated as if it referred to part C of chapter I of title VII of the Act to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -596,11 +596,11 @@ A prior section 721, Pub. L. 93–112, title I, §101, Sept. 26, 1973, 87 Stat. 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(11)(D)(ii). Pub. L. 108–446 struck out “(as added by section 101 of Public Law 105–17)” before semicolon at end.
+<b>2004</b>—Subsec. (a)(11)(D)(ii). Pub. L. 108–446 struck out "(as added by section 101 of Public Law 105–17)" before semicolon at end.
 
-<b>1998</b>—Subsec. (a)(18)(C). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(4)(A)\], substituted “were utilized during the preceding year” for “will be utilized”.
+<b>1998</b>—Subsec. (a)(18)(C). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(4)(A)\], substituted "were utilized during the preceding year" for "will be utilized".
 
-Subsec. (a)(21)(A)(i)(II)(bb). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(4)(B)\], substituted “commission” for “Commission”.
+Subsec. (a)(21)(A)(i)(II)(bb). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(4)(B)\], substituted "commission" for "Commission".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

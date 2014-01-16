@@ -2,7 +2,7 @@
 
 #### (a) Tampering
 
-Any person who tampers with a public water system shall be imprisoned for not more than 20 years, or fined in accordance with title 18, or both.
+Any person who tampers with a public water system shall be imprisoned for not more than 20years, or fined in accordance with title 18, or both.
 
 #### (b) Attempt or threat
 
@@ -12,9 +12,9 @@ Any person who attempts to tamper, or makes a threat to tamper, with a public dr
 
 The Administrator may bring a civil action in the appropriate United States district court (as determined under the provisions of title 28) against any person who tampers, attempts to tamper, or makes a threat to tamper with a public water system. The court may impose on such person a civil penalty of not more than $1,000,000 for such tampering or not more than $100,000 for such attempt or threat.
 
-#### (d) “Tamper” defined
+#### (d) "Tamper" defined
 
-For purposes of this section, the term “tamper” means—
+For purposes of this section, the term "tamper" means—
 
 &emsp;(1) to introduce a contaminant into a public water system with the intention of harming persons; or
 
@@ -24,11 +24,11 @@ For purposes of this section, the term “tamper” means—
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–188, §403(3)(A), substituted “20 years” for “5 years”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–188, §403(3)(A), substituted "20 years" for "5 years".
 
-Subsec. (b). Pub. L. 107–188, §403(3)(B), substituted “10 years” for “3 years”.
+Subsec. (b). Pub. L. 107–188, §403(3)(B), substituted "10 years" for "3 years".
 
-Subsec. (c). Pub. L. 107–188, §403(3)(C), (D), substituted “$1,000,000” for “$50,000” and “$100,000” for “$20,000”.
+Subsec. (c). Pub. L. 107–188, §403(3)(C), (D), substituted "$1,000,000" for "$50,000" and "$100,000" for "$20,000".
 
 <b>1996</b>—Pub. L. 104–182 made technical amendment to section catchline and subsec. (a) designation.
 

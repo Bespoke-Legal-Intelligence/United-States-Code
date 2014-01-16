@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Administration a Center for Mental Health Services (hereafter inthis section referred to as the “Center”). The Center shall be headed by a Director (hereafter in this section referred to as the “Director”) appointed by the Secretary from among individuals with extensive experience or academic qualifications in the provision of mental health services or in the evaluation of mental health service systems.
+There is established in the Administration a Center for Mental Health Services (hereafter in this section referred to as the "Center"). The Center shall be headed by a Director (hereafter in this section referred to as the "Director") appointed by the Secretary from among individuals with extensive experience or academicqualifications in the provision of mental health services or in the evaluation of mental health service systems.
 
 #### (b) Duties
 
@@ -64,9 +64,9 @@ Another prior section 520 of act July 1, 1944, was renumbered section 519 by Pub
 
 <b>2000</b>—Subsec. (b)(3) to (7). Pub. L. 106–310, §3112(c)(1), (2), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively. Former par. (7) redesignated (8).
 
-Subsec. (b)(8). Pub. L. 106–310, §3112(c)(1), (3), redesignated par. (7) as (8) and substituted “programs under part C of this subchapter” for “programs authorized under sections 290bb–32 and 290cc–21 of this title, including the Community Support Program and the Child and Adolescent Service System Programs”. Former par. (8) redesignated (9).
+Subsec. (b)(8). Pub. L. 106–310, §3112(c)(1), (3), redesignated par. (7) as (8) and substituted "programs under part C of this subchapter" for "programs authorized under sections 290bb–32 and 290cc–21 of this title, including the Community Support Program and the Child and Adolescent Service System Programs". Former par. (8) redesignated (9).
 
-Subsec. (b)(9). Pub. L. 106–310, §3112(c)(4), which directed the amendment of par. (9) by substituting “programs” for “program and programs of clinical training for professional and paraprofessional personnel pursuant to section 242a of this title” was executed by making the substitution for the phrase which began with the words “program, and programs”, to reflect the probable intent of Congress.
+Subsec. (b)(9). Pub. L. 106–310, §3112(c)(4), which directed the amendment of par. (9) by substituting "programs" for "program and programs of clinical training for professional and paraprofessional personnel pursuant to section 242a of this title" was executed by making the substitution for the phrase which began with the words "program, and programs", to reflect the probable intent of Congress.
 
 Pub. L. 106–310, §3112(c)(1), redesignated par. (8) as (9). Former par. (9) redesignated (10).
 
@@ -74,11 +74,11 @@ Subsec. (b)(10) to (15). Pub. L. 106–310, §3112(c)(1), redesignated pars. (9)
 
 #### Effective Date
 
-Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c),\(d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Mental Health Services for Individuals in Correctional Facilities
 
-Section 703 of Pub. L. 102–321 directed Secretary of Health and Human Services, acting through Director of Center for Mental Health Services, not later than July 10, 1992, to prepare and submit to Congress a report concerning most effective methods for providing mental health services to individuals who come into contact with the criminal justice system, including those individuals incarcerated in correctional facilities (including local jails and detention facilities), and the obstacles to providing such services, with such study to be carried out in consultation with the National Institute of Mental Health, the Department of Justice, and other appropriate public and private entities.
+Section 703 of Pub. L. 102–321 directed Secretary of Health and Human Services, acting through Director ofCenter for Mental Health Services, not later than July 10, 1992, to prepare and submit to Congress a report concerning most effective methods for providing mental health services to individuals who come into contact with the criminal justice system, including those individuals incarcerated in correctional facilities (including local jails and detention facilities), and the obstacles to providing such services, with such study to be carried out in consultation with the National Institute of Mental Health, the Department of Justice, and other appropriate public and private entities.
 
 #### Executive Order No. 13263
 

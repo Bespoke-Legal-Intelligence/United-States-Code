@@ -4,15 +4,15 @@ In this chapter:
 
 #### (1) DTS Network
 
-&emsp;The term “DTS Network” means the worldwide telecommunications network supporting all United States Government agencies and departments operating from diplomatic and consular facilities outside of the United States.
+&emsp;The term "DTS Network" means the worldwide telecommunications network supporting all United States Government agencies and departments operating from diplomatic and consular facilities outside of the United States.
 
 #### (2) DTS–PO
 
-&emsp;The term “DTS–PO” means the Diplomatic Telecommunications Service Program Office.
+&emsp;The term "DTS–PO" means the Diplomatic Telecommunications Service Program Office.
 
 #### (3) Governance Board
 
-&emsp;The term “Governance Board” means the Diplomatic Telecommunications Service Governance Board established under section 7302(a)(1) of this title.
+&emsp;The term "Governance Board" means the Diplomatic Telecommunications Service Governance Board established under section 7302(a)(1) of this title.
 
 (Pub. L. 106–567, title III, §324, as added Pub. L. 111–259, title V, §501(a)(1), Oct. 7, 2010, 124 Stat. 2738.)
 

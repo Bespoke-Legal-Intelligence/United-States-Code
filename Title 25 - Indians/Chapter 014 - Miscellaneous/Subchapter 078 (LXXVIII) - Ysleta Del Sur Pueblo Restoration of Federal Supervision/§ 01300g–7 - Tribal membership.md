@@ -20,9 +20,9 @@ Notwithstanding subsection (a) of this section—
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(2). Pub. L. 112–157 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a descendant of an individual listed on that Roll if the descendant—
+<b>2012</b>—Subsec. (a)(2). Pub. L. 112–157 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "a descendant of an individual listed on that Roll if the descendant—
 
-&emsp;“(i) has 1/8 degree or more of Tigua-Ysleta del Sur Pueblo Indian blood, and
+&emsp;"(i) has 1/8 degree or more of Tigua-Ysleta del Sur Pueblo Indian blood, and
 
-&emsp;“(ii) is enrolled by the tribe.”
+&emsp;"(ii) is enrolled by the tribe."
 

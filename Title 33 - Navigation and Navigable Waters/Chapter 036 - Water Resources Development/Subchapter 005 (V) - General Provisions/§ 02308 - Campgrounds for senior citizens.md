@@ -26,7 +26,7 @@ There are authorized to be appropriated for fiscal years beginning after Septemb
 
 #### (g) Boundaries of campground at Sam Rayburn Dam and Reservoir, Texas
 
-The parcel of land to be established and developed as a separate campground pursuant to subsection (d) of this section is a tract of land of approximately 50 acres which is located in thecounty of Angelina in the State of Texas and which is part of the Thomas Hanks survey. The boundary of the parcel begins at a point at the corner furthest west of tract numbered 3420 of the Sam Rayburn Dam and Reservoir:
+The parcel of land to be established and developed as a separate campground pursuant to subsection (d) of this section is a tract of land of approximately 50 acres which is located in the county of Angelina in the State of Texas and which is part of the Thomas Hanks survey. The boundary of the parcel begins at a point at the corner furthest west of tract numbered 3420 of the Sam Rayburn Dam and Reservoir:
 
 &emsp;thence north 81 degrees 30 minutes east, approximately 2,800 feet to a point at the edge of the water;
 

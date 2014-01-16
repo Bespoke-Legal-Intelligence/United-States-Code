@@ -12,7 +12,7 @@ Notwithstanding the other provisions of this chapter—
 
 &emsp;(5) The penalty upon wheat stored shall be paid by the producer at the time, and to the extent, of any depletion in the amount of the commodity so stored, except depletion resulting from some cause beyond the control of the producer.
 
-&emsp;(6) Whenever the planted acreage of the then current crop of wheat on any farm is less than the farm acreage allotment for such commodity, the total amount of the commodity from any previous crops required to be stored in order to postpone or avoid payment of penalty shall be reduced by that amount which is equal to the normal production of the number of acres by which the farm acreage allotment exceeds the planted acreage. The provisions of section 1326(b) and (c) of this title shall be applicable also to wheat.
+&emsp;(6) Whenever the planted acreage of the then current crop of wheat on any farm is less than the farm acreage allotment for such commodity, the total amount of the commodity from any previous crops required to be stored in order to postpone or avoid payment of penalty shall be reduced by that amount which is equal to the normal production of the number of acres by which the farm acreage allotmentexceeds the planted acreage. The provisions of section 1326(b) and (c) of this title shall be applicable also to wheat.
 
 &emsp;(7) Until the farm marketing excess of wheat is stored or delivered to the Secretary or the penalty thereon is paid, each bushel of the commodity produced on the farm which is sold by the producer to any person within the United States shall be subject to the penalty as specified in paragraph (2) of this section. Such penalty shall be paid by the buyer, who may deduct an amount equivalent to the penalty from the price paid to the producer. If the buyer fails to collect such penalty, such buyer and all persons entitled to share in the wheat marketed from the farm or the proceeds thereof shall be jointly and severally liable for such penalty.
 
@@ -34,7 +34,7 @@ Section 1302 of this title, referred to in par. (8), was repealed by act Oct. 31
 
 Section 1323(b) of this title, referred to in par. (10), was repealed by act Aug. 28, 1954, ch. 1041, title III, §304, 68 Stat. 902, and had provided that no farm marketing quota with respect to any crop of corn shall be applicable to any farm on which the normal production of the acreage planted to corn is less than 300 bushels.
 
-Section 1335(d) of this title, referred to in par. (10), was repealed by Pub. L. 87–129, title I, §122(e), Aug. 8,1961, 75 Stat. 297, and had provided that no farm marketing quota with respect to wheat shall be applicable in any marketing year to any farm on which the normal production of the acreage planted to wheat of the current crop is less than 200 bushels.
+Section 1335(d) of this title, referred to in par. (10), was repealed by Pub. L. 87–129, title I, §122(e), Aug. 8, 1961, 75 Stat. 297, and had provided that no farm marketing quota with respect to wheat shall be applicable in any marketing year to any farm on which the normal production of the acreage planted to wheat of the current crop is less than 200 bushels.
 
 #### Codification
 
@@ -44,7 +44,7 @@ Par. (9), which directed the Commodity Credit Corporation to make loans upon the
 
 #### Amendments
 
-<b>1965</b>—Par. (1). Pub. L. 89–321 substituted “projected farm yield” for “normal yield of wheat per acre established for the farm”.
+<b>1965</b>—Par. (1). Pub. L. 89–321 substituted "projected farm yield" for "normal yield of wheat per acre established for the farm".
 
 <b>1962</b>—Par. (1). Pub. L. 87–703, §319(1), substituted requirement that computation of the farm marketing excess initially be double the farm normal yield of wheat times the excess acres, such excess acres being reduced to the actual yield times the excess acres, upon proof by the producer of the actual yield, for provision that the farm marketing excess could not be more than the actual production of wheat on the farm less the normal production of the farm acreage allotment and provided that the acreage of wheat not disposed of by the prescribed date would be considered wheat acreage, with the wheat production thereon appraised for the purposes of determining the farm marketing quota and farm marketing excess, that wheat acreage disposed of prior to the disposal date would not be considered acreage and that the acreage of volunteer wheat not disposed of would be considered wheat acreage.
 
@@ -52,7 +52,7 @@ Par. (2). Pub. L. 87–703, §319(2), increased from 45 to 65 per centum the rat
 
 Par. (3). Pub. L. 87–703, §319(3), required computation of the farm marketing excess initially upon twice the normal yield and eliminated reference to corn. Act Aug. 28, 1954, had made the section in applicable to corn.
 
-Par. (4). Pub. L. 87–703, §319(4), inserted “and any subsequent crop of wheat subject to marketing quotas in which the producer has an interest” after “produced on the farm” and struck out reference to corn. Act Aug. 28, 1954, had made the section inapplicable to corn.
+Par. (4). Pub. L. 87–703, §319(4), inserted "and any subsequent crop of wheat subject to marketing quotas in which the producer has an interest" after "produced on the farm" and struck out reference to corn. Act Aug. 28, 1954, had made the section inapplicable to corn.
 
 Pars. (5), (6). Pub. L. 87–703, §319(5), (6), struck out reference to corn. Act Aug. 28, 1954, had made section inapplicable to corn.
 
@@ -70,9 +70,9 @@ Par. (12). Pub. L. 87–703, §319(9), added par. (12). Former par. (12), which 
 
 <b>1953</b>—Act July 14, 1953, omitted penalty for marketing corn in excess of quotas and changed penalty for marketing wheat in excess of quotas from 50 per centum of basic loan rate on commodity for cooperators to 45 per centum of parity price.
 
-<b>1949</b>—Par. (9). Act Aug. 29, 1949, struck out “cotton and” after “penalty for”.
+<b>1949</b>—Par. (9). Act Aug. 29, 1949, struck out "cotton and" after "penalty for".
 
-<b>1941</b>—Par. (10). Act Dec. 26, 1941, ch. 626, substituted “1941, 1942, 1943, 1944, 1945 and 1946 crops of the commodities cotton, corn, wheat, rice, tobacco and peanuts” for “1941 crop of the commodities cotton, corn, wheat, rice, or tobacco” and “for the marketing year beginning in the calendar year in which such crop is harvested” for “marketing year beginning in 1941.”
+<b>1941</b>—Par. (10). Act Dec. 26, 1941, ch. 626, substituted "1941, 1942, 1943, 1944, 1945 and 1946 crops of the commodities cotton, corn, wheat, rice, tobacco and peanuts" for "1941 crop of the commodities cotton, corn, wheat, rice, or tobacco" and "for the marketing year beginning in the calendar year in which such crop is harvested" for "marketing year beginning in 1941."
 
 Par. (12). Act Dec. 26, 1941, ch. 636, added par. (12).
 
@@ -98,13 +98,13 @@ Section inapplicable to crops of wheat planted for harvest in calendar years 200
 
 Section inapplicable to crops of wheat planted for harvest in calendar years 1996 through 2002, see section 7301(c) of this title.
 
-Pub. L. 101–624, title III, §304, Nov. 28, 1990, 104 Stat. 3400, provided that: “The joint resolution entitled ‘Ajoint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended’, approved May 26, 1941 (7 U.S.C. 1330 and 1340) shall not be applicable to the crops of wheat planted for harvest in the calendar years 1991 through 1995.”
+Pub. L. 101–624, title III, §304, Nov. 28, 1990, 104 Stat. 3400, provided that: "The joint resolution entitled 'A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended', approved May 26, 1941 (7 U.S.C. 1330 and 1340) shall not be applicable to the crops of wheat planted for harvest in the calendar years 1991 through 1995."
 
-Pub. L. 99–198, title III, §311, Dec. 23, 1985, 99 Stat. 1395, provided that: “The joint resolution entitled ‘A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended’, approved May 26, 1941 (7 U.S.C. 1330 and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 1986 through 1990.”
+Pub. L. 99–198, title III, §311, Dec. 23, 1985, 99 Stat. 1395, provided that: "The joint resolution entitled 'A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended', approved May 26, 1941 (7 U.S.C. 1330 and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 1986 through 1990."
 
-Pub. L. 97–98, title III, §304, Dec. 22, 1981, 95 Stat. 1227, provided that: “Public Law 74, Seventy-seventh Congress (55 Stat. 203, as amended) \[this section\] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1982 through 1985.”
+Pub. L. 97–98, title III, §304, Dec. 22, 1981, 95 Stat. 1227, provided that: "Public Law 74, Seventy-seventh Congress (55 Stat. 203, as amended) \[this section\] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1982 through 1985."
 
-Pub. L. 95–113, title IV, §406, Sept. 29, 1977, 91 Stat. 927, provided that: “Public Law 74, Seventy-seventh Congress (55 Stat. 203, as amended) \[this section\] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1978 through 1981.”
+Pub. L. 95–113, title IV, §406, Sept. 29, 1977, 91 Stat. 927, provided that: "Public Law 74, Seventy-seventh Congress (55 Stat. 203, as amended) \[this section\] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1978 through 1981."
 
-Pub. L. 91–524, title IV, §406, Nov. 30, 1970, 84 Stat. 1367, as amended by Pub. L. 93–86, §1(13), Aug. 10, 1973, 87 Stat. 229, provided that: “Public Law 74, Seventy-seventh Congress (68 Stat. 905) \[this section\], shall not be applicable to the crops of wheat planted for harvest in the calendar years 1971 through 1977.”
+Pub. L. 91–524, title IV, §406, Nov. 30, 1970, 84 Stat. 1367, as amended by Pub. L. 93–86, §1(13), Aug. 10, 1973, 87 Stat. 229, provided that: "Public Law 74, Seventy-seventh Congress (68 Stat. 905) \[this section\], shall not be applicable to the crops of wheat planted for harvest in the calendar years 1971 through 1977."
 

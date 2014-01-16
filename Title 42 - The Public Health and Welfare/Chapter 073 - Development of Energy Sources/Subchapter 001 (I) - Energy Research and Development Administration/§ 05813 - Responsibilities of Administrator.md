@@ -28,7 +28,7 @@ The responsibilities of the Administrator shall include, but not be limited to�
 
 #### Amendments
 
-<b>1992</b>—Pars. (7) to (12). Pub. L. 102–486 redesignated pars. (8) to (12) as (7) to (11), respectively, and struck out former par. (7) which read as follows: “establishing, in accordance with the National Energy Extension Service Act, an Energy Extension Service to provide technical assistance, instruction, and practical demonstrations on energy conservation measures and alternative energy systems to individuals, businesses, and State and local government officials;”.
+<b>1992</b>—Pars. (7) to (12). Pub. L. 102–486 redesignated pars. (8) to (12) as (7) to (11), respectively, and struck out former par. (7) which read as follows: "establishing, in accordance with the National Energy Extension Service Act, an Energy Extension Service to provide technical assistance, instruction, and practical demonstrations on energy conservation measures and alternative energy systems to individuals, businesses, and State and local government officials;".
 
 <b>1977</b>—Pars. (7) to (12). Pub. L. 95–39 added par. (7) and redesignated former pars. (7) to (11) as (8) to (12), respectively.
 

@@ -1,6 +1,6 @@
 # Printed pages - Title 45 - Railroads
 
-GPO's 2012 edition (laws in effect as of 2013-01-15), from its printed page marks. The exact position of
+GPO's 2013 edition (laws in effect as of 2014-01-16), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title45.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -22,7 +22,7 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00054a - Certain Federal and State regulations deemed statutory authority](Chapter%20002%20-%20Liability%20for%20Injuries%20to%20Employees/%C2%A7%2000054a%20-%20Certain%20Federal%20and%20State%20regulations%20deemed%20statutory%20authority.md) | 4 |
 | [&sect; 00055 - Contract, rule, regulation, or device exempting from liability; set-off](Chapter%20002%20-%20Liability%20for%20Injuries%20to%20Employees/%C2%A7%2000055%20-%20Contract%2C%20rule%2C%20regulation%2C%20or%20device%20exempting%20from%20liability%3B%20set-off.md) | 4–5 |
 | [&sect; 00056 - Actions; limitation; concurrent jurisdiction of courts](Chapter%20002%20-%20Liability%20for%20Injuries%20to%20Employees/%C2%A7%2000056%20-%20Actions%3B%20limitation%3B%20concurrent%20jurisdiction%20of%20courts.md) | 5 |
-| [&sect; 00057 - Who included in term &#8220;common carrier&#8221;](Chapter%20002%20-%20Liability%20for%20Injuries%20to%20Employees/%C2%A7%2000057%20-%20Who%20included%20in%20term%20%E2%80%9Ccommon%20carrier%E2%80%9D.md) | 5 |
+| [&sect; 00057 - Who included in term common carrier](Chapter%20002%20-%20Liability%20for%20Injuries%20to%20Employees/%C2%A7%2000057%20-%20Who%20included%20in%20term%20common%20carrier.md) | 5 |
 | [&sect; 00058 - Duty or liability of common carriers and rights of employees under other acts not impaired](Chapter%20002%20-%20Liability%20for%20Injuries%20to%20Employees/%C2%A7%2000058%20-%20Duty%20or%20liability%20of%20common%20carriers%20and%20rights%20of%20employees%20under%20other%20acts%20not%20impaired.md) | 5 |
 | [&sect; 00059 - Survival of right of action of person injured](Chapter%20002%20-%20Liability%20for%20Injuries%20to%20Employees/%C2%A7%2000059%20-%20Survival%20of%20right%20of%20action%20of%20person%20injured.md) | 5 |
 | [&sect; 00060 - Penalty for suppression of voluntary information incident to accidents; separability](Chapter%20002%20-%20Liability%20for%20Injuries%20to%20Employees/%C2%A7%2000060%20-%20Penalty%20for%20suppression%20of%20voluntary%20information%20incident%20to%20accidents%3B%20separability.md) | 5 |
@@ -138,7 +138,7 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00401 - Payment of compensation; eligibility; duration; maximum aggregate amount payable; duplication of benefits; application of railroad&#8230;](Chapter%20012%20-%20Temporary%20Railroad%20Unemployment%20Insurance%20Program/%C2%A7%2000401%20-%20Payment%20of%20compensation%3B%20eligibility%3B%20duration%3B%20maximum%20aggregate%20amount%20payable%3B%20duplication%20of%20benefits%3B%20application%20of%20railroad%E2%80%A6.md) | 142–143 |
 | [&sect; 00402 - Exchange of information between Secretary of Labor and Railroad Retirement Board](Chapter%20012%20-%20Temporary%20Railroad%20Unemployment%20Insurance%20Program/%C2%A7%2000402%20-%20Exchange%20of%20information%20between%20Secretary%20of%20Labor%20and%20Railroad%20Retirement%20Board.md) | 143 |
 | [&sect; 00403 - Appropriation to railroad unemployment insurance account; transfer and repayment of funds; interest](Chapter%20012%20-%20Temporary%20Railroad%20Unemployment%20Insurance%20Program/%C2%A7%2000403%20-%20Appropriation%20to%20railroad%20unemployment%20insurance%20account%3B%20transfer%20and%20repayment%20of%20funds%3B%20interest.md) | 143 |
-| [&sect; 00404 - Temporary increase in employers&#8217; contribution rate](Chapter%20012%20-%20Temporary%20Railroad%20Unemployment%20Insurance%20Program/%C2%A7%2000404%20-%20Temporary%20increase%20in%20employers%E2%80%99%20contribution%20rate.md) | 143–144 |
+| [&sect; 00404 - Temporary increase in employers' contribution rate](Chapter%20012%20-%20Temporary%20Railroad%20Unemployment%20Insurance%20Program/%C2%A7%2000404%20-%20Temporary%20increase%20in%20employers%27%20contribution%20rate.md) | 143–144 |
 | [Chapter 013 - Railroad Safety](Chapter%20013%20-%20Railroad%20Safety/README.md) | 144 |
 | [Subchapter 001 (I) - General Provisions](Chapter%20013%20-%20Railroad%20Safety/Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md) | 144 |
 | [&sect; 00421 - Repealed. Pub. L. 103&#8211;272, &sect;7(b), July 5, 1994, 108 Stat. 1379](Chapter%20013%20-%20Railroad%20Safety/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000421%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93272%2C%20%C2%A77%28b%29%2C%20July%205%2C%201994%2C%20108%20Stat.%201379.md) | 144 |

@@ -28,7 +28,7 @@ According to the forms or regulations prescribed by the Secretary:
 
 #### (c) Taxable acquisition
 
-For purposes of this section, the term “taxable acquisition” means any acquisition by a corporation of stock in or property of another corporation if any shareholder of the acquired corporation is required to recognize gain (if any) as a result of such acquisition.
+For purposes of this section, the term "taxable acquisition" means any acquisition by a corporation of stock in or property of another corporation if any shareholder of the acquired corporation is required to recognize gain (if any) as a result of such acquisition.
 
 #### (d) Statements to be furnished to shareholders
 
@@ -46,5 +46,5 @@ According to the forms or regulations prescribed by the Secretary, every person 
 
 #### Effective Date
 
-Pub. L. 108–357, title VIII, §805(d), Oct. 22, 2004, 118 Stat. 1574, provided that: “The amendments made by this section \[enacting this section and amending section 6724 of this title\] shall apply to acquisitions after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §805(d), Oct. 22, 2004, 118 Stat. 1574, provided that: "The amendments made by this section \[enacting this section and amending section 6724 of this title\] shall apply to acquisitions after the date of the enactment of this Act \[Oct. 22, 2004\]."
 

@@ -8,7 +8,7 @@
 
 #### (2) Approval of order needed
 
-&emsp;The order shall become effective only if the Secretary determines that the order has been approved by a simple majority of all votes cast in the referendum.
+&emsp;The order shall become effective only if the Secretary determines that the order has beenapproved by a simple majority of all votes cast in the referendum.
 
 #### (b) Votes permitted
 

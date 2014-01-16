@@ -6,15 +6,15 @@ The Secretary is authorized and directed to develop a program of land conservati
 
 #### Repeals
 
-<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
+<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on</i><i>and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
 
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–98 inserted development of energy resources to the enumeration of aims for which the Secretary may develop programs of land conservation and land utilization.
 
-<b>1966</b>—Pub. L. 89–796 inserted “developing and protecting recreational facilities,” after “protecting fish and wildlife,”.
+<b>1966</b>—Pub. L. 89–796 inserted "developing and protecting recreational facilities," after "protecting fish and wildlife,".
 
-<b>1962</b>—Pub. L. 87–703 struck out “including the retirement of lands which are submarginal or not primarily suitable for cultivation,” after “land utilization”, provided for assistance in protecting fish and wildlife and prohibited the building of industrial parks or establishment of private industrial or commercial enterprises.
+<b>1962</b>—Pub. L. 87–703 struck out "including the retirement of lands which are submarginal or not primarily suitable for cultivation," after "land utilization", provided for assistance in protecting fish and wildlife and prohibited the building of industrial parks or establishment of private industrial or commercial enterprises.
 
 #### Effective Date of 1981 Amendment
 

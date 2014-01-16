@@ -6,11 +6,11 @@ There is established the National Windstorm Impact Reduction Program.
 
 #### (b) Objective
 
-The objective of the Program is the achievement of major measurable reductions in losses of life and property from windstorms. The objective is to be achieved through a coordinated Federal effort, in cooperation with other levels of government, academia, and the private sector, aimed at improving the understanding of windstorms and their impacts and developing and encouraging implementation of cost-effective mitigation measures to reduce those impacts.
+The objective of the Program is the achievement of major measurable reductions in losses of life and property from windstorms. The objective is to be achieved through a coordinated Federal effort, in cooperation with other levelsof government, academia, and the private sector, aimed at improving the understanding of windstorms and their impacts and developing and encouraging implementation of cost-effective mitigation measures to reduce those impacts.
 
 #### (c) Interagency Working Group
 
-Not later than 90 days after October 25, 2004, the Director shall establish an Interagency Working Group consisting of representatives of the National Science Foundation, the National Oceanic and Atmospheric Administration, the National Institute of Standards and Technology, the Federal Emergency Management Agency, and other Federal agencies as appropriate. The Director shall designate an agency to serve as Chair of the Working Group and be responsible for the planning, management, and coordination of the Program, including budget coordination.Specific agency roles and responsibilities under the Program shall be defined in the implementation plan required under subsection (e). General agency responsibilities shall include the following:
+Not later than 90 days after October 25, 2004, the Director shall establish an Interagency Working Group consisting of representatives of the National Science Foundation, the National Oceanic and Atmospheric Administration, the National Institute of Standards and Technology, the Federal Emergency Management Agency, and other Federal agencies as appropriate. The Director shall designate an agency to serve as Chair of the Working Group and be responsible for the planning, management, and coordination of the Program, including budget coordination. Specific agency roles and responsibilities under the Program shall be defined in the implementation plan required under subsection (e). General agency responsibilities shall include the following:
 
 &emsp;(1) The National Institute of Standards and Technology shall support research and development to improve building codes and standards and practices for design and construction of buildings, structures, and lifelines.
 
@@ -72,9 +72,9 @@ The Interagency Working Group shall, on a biennial basis, and not later than 180
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1), was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified generally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 15701 of this title and Tables.
+This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified generally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 15701 of this title and Tables.
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 

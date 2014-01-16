@@ -30,7 +30,7 @@
 
 (2) An alternative trading system that is a designated contract market under this section shall be required to be a member of a futures association registered under section 21 of this title and shall be exempt from any provision of this chapter that would require such alternative trading system to—
 
-&emsp;(A) set rules governing the conduct of subscribers other than the conduct of such subscribers’ trading on such alternative trading system; or
+&emsp;(A) set rules governing the conduct of subscribers other than the conduct of such subscribers' trading on such alternative trading system; or
 
 &emsp;(B) discipline subscribers other than by exclusion from trading.
 

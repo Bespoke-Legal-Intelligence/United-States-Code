@@ -26,17 +26,17 @@ Coordination With Director of National Intelligence.—The Director of the Agenc
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239, §921(b)(1), substituted “foreign countries, regional organizations, and security alliances” for “foreign countries” in section catchline.
+<b>2013</b>—Pub. L. 112–239, §921(b)(1), substituted "foreign countries, regional organizations, and security alliances" for "foreign countries" in section catchline.
 
-Subsec. (a). Pub. L. 112–239, §921(a), substituted “foreign countries, regional organizations with defense or security components, and security alliances of which the United States is a member” for “foreign countries”.
+Subsec. (a). Pub. L. 112–239, §921(a), substituted "foreign countries, regional organizations with defense or security components, and security alliances of which the United States is a member" for "foreign countries".
 
 <b>2009</b>—Subsec. (d). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(10), (b)(2). See 2008 Amendment note below.
 
-<b>2008</b>—Subsec. (d). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(10), (b)(2), amended subsec. (d) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in heading and text.Pub. L. 110–417, §932(a)(10), (b)(2), was repealed by Pub. L. 111–84.
+<b>2008</b>—Subsec. (d). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(10), (b)(2), amended subsec. (d) identically, substituting "Director of National Intelligence" for "Director of Central Intelligence" in heading and text. Pub. L. 110–417, §932(a)(10), (b)(2), was repealed by Pub. L. 111–84.
 
-<b>2003</b>—Subsecs. (a), (b)(1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
+<b>2003</b>—Subsecs. (a), (b)(1). Pub. L. 108–136 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" wherever appearing.
 
-<b>1997</b>—Subsec. (b)(1). Pub. L. 105–85 substituted semicolon for period after “denied funds”.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–85 substituted semicolon for period after "denied funds".
 
 #### Effective Date of 2009 Amendment
 

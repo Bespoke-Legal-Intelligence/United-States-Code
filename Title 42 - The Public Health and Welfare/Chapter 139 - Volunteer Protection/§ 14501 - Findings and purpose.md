@@ -24,7 +24,7 @@ The Congress finds and declares that—
 
 &emsp;&emsp;(C) it is in the interest of the Federal Government to encourage the continued operation of volunteer service organizations and contributions of volunteers because the Federal Government lacks the capacity to carry out all of the services provided by such organizations and volunteers; and
 
-&emsp;&emsp;(D)(i) liability reform for volunteers, will promote the free flow of goods and services, lessen burdens on interstate commerce anduphold constitutionally protected due process rights; and
+&emsp;&emsp;(D)(i) liability reform for volunteers, will promote the free flow of goods and services, lessen burdens on interstate commerce and uphold constitutionally protected due process rights; and
 
 &emsp;&emsp;(ii) therefore, liability reform is an appropriate use of the powers contained in article 1, section 8, clause 3 of the United States Constitution, and the fourteenth amendment to the United States Constitution.
 
@@ -38,15 +38,15 @@ The purpose of this chapter is to promote the interests of social service progra
 
 Pub. L. 105–19, §7, June 18, 1997, 111 Stat. 223, provided that:
 
-“(a)
+"(a)
 
 In General.—This Act \[enacting this chapter\] shall take effect 90 days after the date of enactment of this Act \[June 18, 1997\].
 
-“(b)
+"(b)
 
-Application.—This Act applies to any claim for harm caused by an act or omission of a volunteer where that claim is filed on or after the effective date of this Act but only if the harm that is the subject of the claim or the conduct that caused such harm occurred after such effective date.”
+Application.—This Act applies to any claim for harm caused by an act or omission of a volunteer where that claim is filed on or after the effective date of this Act but only if the harm that is the subject of the claim or the conduct that caused such harm occurred after such effective date."
 
 #### Short Title
 
-Pub. L. 105–19, §1, June 18, 1997, 111 Stat. 218, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Volunteer Protection Act of 1997’.”
+Pub. L. 105–19, §1, June 18, 1997, 111 Stat. 218, provided that: "This Act \[enacting this chapter\] may be cited as the 'Volunteer Protection Act of 1997'."
 

@@ -30,7 +30,7 @@ Considerations.—When making a contract under this section, the Administrator s
 
 &emsp;(2) The Administrator shall consider the desirability of—
 
-&emsp;&emsp;(A) obtaining an option to renew the contract for a reasonable period of not more than 3 years, at a price that does not includecharges for nonrecurring costs already amortized; and
+&emsp;&emsp;(A) obtaining an option to renew the contract for a reasonable period of not more than 3 years, at a price that does not include charges for nonrecurring costs already amortized; and
 
 &emsp;&emsp;(B) reserving in the Administrator the right, on payment of the unamortized part of the cost of the plant or equipment, to take title to the plant or equipment under appropriate circumstances.
 
@@ -74,11 +74,11 @@ Aug. 23, 1958, Pub. L. 85–726, §303(e), 72 Stat. 747; May 21, 1970, Pub. L. 9
 
 49 App.:1344(e)(4).
 
-In this section, the word “Administrator” in section 303(e) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 747) is retained on authority of 49:106(g).
+In this section, the word "Administrator" in section 303(e) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 747) is retained on authority of 49:106(g).
 
-In subsection (a), before clause (1), the words “periods of” are omitted as surplus. In clause (3), the words “training of” are added for clarity. In clause (4), the word “aircraft” is substituted for “in-plane” for clarity.
+In subsection (a), before clause (1), the words "periods of" are omitted as surplus. In clause (3), the words "training of" are added for clarity. In clause (4), the word "aircraft" is substituted for "in-plane" for clarity.
 
-In subsection (c)(2)(A), the words “plant, equipment, and other” are omitted as surplus.
+In subsection (c)(2)(A), the words "plant, equipment, and other" are omitted as surplus.
 
-In subsection (d), the words “canceled or” and “cancellation or” are omitted as being included in “ended” and “ending”, respectively.
+In subsection (d), the words "canceled or" and "cancellation or" are omitted as being included in "ended" and "ending", respectively.
 

@@ -12,7 +12,7 @@
 
 #### (2) Minimal amount
 
-&emsp;For purposes of this section, the term “minimal amount” means not more than 15 percent of the total amount made available for distribution under section 2322(a)(1) of this title.
+&emsp;For purposes of this section, the term "minimal amount" means not more than 15 percent of the total amount made available for distribution under section 2322(a)(1) of this title.
 
 #### (b) Redistribution
 

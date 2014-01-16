@@ -68,73 +68,73 @@ The amount of any grant, or portion of a grant, made to a person under any secti
 
 #### References in Text
 
-This subchapter, referred to in subsec. (e), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
+This subchapter, referred to in subsec. (e), was in the original "this Act" and was translated as reading "this title" meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–394, §10(1), added par. (1) and struck out former par. (1) which authorized appropriations for fiscal years 2003 through 2008.
 
-Subsec. (a)(2). Pub. L. 110–394, §10(2)(A), substituted “fiscal years 2009 through 2014—” for “fiscal years 2003 through 2008—” in introductory provisions.
+Subsec. (a)(2). Pub. L. 110–394, §10(2)(A), substituted "fiscal years 2009 through 2014—" for "fiscal years 2003 through 2008—" in introductory provisions.
 
-Subsec. (a)(2)(A). Pub. L. 110–394, §10(2)(B), substituted “biology, prevention, and control of aquatic” for “biology and control of zebra mussels and other important aquatic”.
+Subsec. (a)(2)(A). Pub. L. 110–394, §10(2)(B), substituted "biology, prevention, and control of aquatic" for "biology and control of zebra mussels and other important aquatic".
 
-Subsec. (a)(2)(C). Pub. L. 110–394, §10(2)(C), substituted “blooms; and” for “blooms, including Pfiesteria piscicida; and”.
+Subsec. (a)(2)(C). Pub. L. 110–394, §10(2)(C), substituted "blooms; and" for "blooms, including Pfiesteria piscicida; and".
 
-Subsec. (c)(1). Pub. L. 110–394, §10(3), substituted “performance assessments” for “rating under section 1123(d)(3)(A) of this title”.
+Subsec. (c)(1). Pub. L. 110–394, §10(3), substituted "performance assessments" for "rating under section 1123(d)(3)(A) of this title".
 
-Subsec. (c)(2). Pub. L. 110–394, §10(4), added par. (2) and struck out former par. (2) which read as follows: “national strategic investments authorized under section 1123(b)(4) of this title;”.
+Subsec. (c)(2). Pub. L. 110–394, §10(4), added par. (2) and struck out former par. (2) which read as follows: "national strategic investments authorized under section 1123(b)(4) of this title;".
 
 <b>2002</b>—Subsecs. (a) to (c). Pub. L. 107–299 amended subsecs. (a) to (c) generally, substituting provisions relating to authorization, limitations, and distribution of funds for provisions relating to authorization, program elements, and priority oyster disease research.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–160, §9(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out the provisions of sections 1124 and 1127 of this title, and section 1124a of this title, an amount—
+<b>1998</b>—Subsec. (a). Pub. L. 105–160, §9(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out the provisions of sections 1124 and 1127 of this title, and section 1124a of this title, an amount—
 
-&emsp;“(1) for fiscal year 1991, not to exceed $44,398,000;
+&emsp;"(1) for fiscal year 1991, not to exceed $44,398,000;
 
-&emsp;“(2) for fiscal year 1992, not to exceed $46,014,000;
+&emsp;"(2) for fiscal year 1992, not to exceed $46,014,000;
 
-&emsp;“(3) for fiscal year 1993, not to exceed $47,695,000;
+&emsp;"(3) for fiscal year 1993, not to exceed $47,695,000;
 
-&emsp;“(4) for fiscal year 1994, not to exceed $49,443,000; and
+&emsp;"(4) for fiscal year 1994, not to exceed $49,443,000; and
 
-&emsp;“(5) for fiscal year 1995, not to exceed $51,261,000.”
+&emsp;"(5) for fiscal year 1995, not to exceed $51,261,000."
 
-Subsec. (b). Pub. L. 105–160, §9(b), inserted subsec. heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There is authorized to be appropriated for administration of this subchapter, including section 1128 of this title, by the National Sea Grant Office and the Administration, an amount—
+Subsec. (b). Pub. L. 105–160, §9(b), inserted subsec. heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "There is authorized to be appropriated for administration of this subchapter, including section 1128 of this title, by the National Sea Grant Office and the Administration, an amount—
 
-&emsp;“(A) for fiscal year 1991, not to exceed $2,500,000;
+&emsp;"(A) for fiscal year 1991, not to exceed $2,500,000;
 
-&emsp;“(B) for fiscal year 1992, not to exceed $2,600,000;
+&emsp;"(B) for fiscal year 1992, not to exceed $2,600,000;
 
-&emsp;“(C) for fiscal year 1993, not to exceed $2,700,000;
+&emsp;"(C) for fiscal year 1993, not to exceed $2,700,000;
 
-&emsp;“(D) for fiscal year 1994, not to exceed $2,800,000; and
+&emsp;"(D) for fiscal year 1994, not to exceed $2,800,000; and
 
-&emsp;“(E) for fiscal year 1995, not to exceed $2,900,000.”
+&emsp;"(E) for fiscal year 1995, not to exceed $2,900,000."
 
 <b>1991</b>—Subsecs. (a) to (c). Pub. L. 102–186 amended subsecs. (a) to (c) generally. Prior to amendment, subsecs. (a) to (c) read as follows:
 
-“(a) There is authorized to be appropriated to carry out the provisions of this subchapter other than sections 1125 and 1130 of this title, an amount—
+"(a) There is authorized to be appropriated to carry out the provisions of this subchapter other than sections 1125 and 1130 of this title, an amount—
 
-&emsp;“(1) for fiscal year 1988, not to exceed $41,500,000;
+&emsp;"(1) for fiscal year 1988, not to exceed $41,500,000;
 
-&emsp;“(2) for fiscal year 1989, not to exceed $50,500,000; and
+&emsp;"(2) for fiscal year 1989, not to exceed $50,500,000; and
 
-&emsp;“(3) for fiscal year 1990, not to exceed $51,000,000.
+&emsp;"(3) for fiscal year 1990, not to exceed $51,000,000.
 
-“(b) There is authorized to be appropriated to carry out section 1125 of this title and section 1127(c) of this title, an amount—
+"(b) There is authorized to be appropriated to carry out section 1125 of this title and section 1127(c) of this title, an amount—
 
-&emsp;“(1) for fiscal year 1988, not to exceed $500,000;
+&emsp;"(1) for fiscal year 1988, not to exceed $500,000;
 
-&emsp;“(2) for fiscal year 1989, not to exceed $5,000,000; and
+&emsp;"(2) for fiscal year 1989, not to exceed $5,000,000; and
 
-&emsp;“(3) for fiscal year 1990, not to exceed $10,000,000.
+&emsp;"(3) for fiscal year 1990, not to exceed $10,000,000.
 
-“(c) There is authorized to be appropriated to carry out section 1130 of this title, an amount—
+"(c) There is authorized to be appropriated to carry out section 1130 of this title, an amount—
 
-&emsp;“(1) for fiscal year 1988, not to exceed $2,000,000;
+&emsp;"(1) for fiscal year 1988, not to exceed $2,000,000;
 
-&emsp;“(2) for fiscal year 1989, not to exceed $2,500,000; and
+&emsp;"(2) for fiscal year 1989, not to exceed $2,500,000; and
 
-&emsp;“(3) for fiscal year 1990, not to exceed $3,000,000.”
+&emsp;"(3) for fiscal year 1990, not to exceed $3,000,000."
 
 <b>1987</b>—Pub. L. 100–220 amended section generally, substituting provisions of subsecs. (a) to (e) relating to appropriations authorizations for fiscal years 1988, 1989, and 1990, for provisions formerly contained in a single unlettered paragraph relating to appropriations authorizations for fiscal years 1978 to 1983 and 1985 to 1987.
 
@@ -144,9 +144,9 @@ Subsec. (b). Pub. L. 105–160, §9(b), inserted subsec. heading and amended par
 
 <b>1978</b>—Pub. L. 95–428 substituted appropriations authorization of $50,000,000 for fiscal years 1977, and 1978, for prior $50,000,000 authorization for fiscal years ending Sept. 30, 1977, and 1978, and authorized appropriation of $55,000,000 for fiscal years 1979 and 1980.
 
-<b>1977</b>—Pub. L. 95–58 substituted “each of the fiscal years ending September 30, 1977, and September 30, 1978” for “the fiscal year ending September 30, 1977”.
+<b>1977</b>—Pub. L. 95–58 substituted "each of the fiscal years ending September 30, 1977, and September 30, 1978" for "the fiscal year ending September 30, 1977".
 
 #### Notice of Reprogramming
 
-Pub. L. 105–160, §9(c), Mar. 6, 1998, 112 Stat. 26, provided that: “If any funds authorized by this section are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science \[now Science, Space, and Technology\] and Resources \[now Natural Resources\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
+Pub. L. 105–160, §9(c), Mar. 6, 1998, 112 Stat. 26, provided that: "If any funds authorized by this section are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science \[now Science, Space, and Technology\] and Resources \[now Natural Resources\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate."
 

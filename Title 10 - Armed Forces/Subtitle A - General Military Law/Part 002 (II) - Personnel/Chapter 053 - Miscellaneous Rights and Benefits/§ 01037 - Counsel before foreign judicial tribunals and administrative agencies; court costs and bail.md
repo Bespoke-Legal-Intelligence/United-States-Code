@@ -32,11 +32,11 @@ July 24, 1956, ch. 689 (less §3), 70 Stat. 630.
 
 50:755.
 
-In subsection (a), the words “Under regulations to be prescribed by him” and the last sentence are substituted for 50:752.
+In subsection (a), the words "Under regulations to be prescribed by him" and the last sentence are substituted for 50:752.
 
-In subsection (b), the words “subject to the Uniform Code of Military Justice” are omitted as surplusage.
+In subsection (b), the words "subject to the Uniform Code of Military Justice" are omitted as surplusage.
 
-In subsection (c), the words “the terms and provisions of” are omitted as surplusage.
+In subsection (c), the words "the terms and provisions of" are omitted as surplusage.
 
 #### References in Text
 
@@ -44,11 +44,11 @@ The Uniform Code of Military Justice, referred to in subsec. (a), is classified 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted "Department of Homeland Security" for "Department of Transportation".
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–145 provided for payment of expenses for legal representation of civilians overseas.
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted “Department of Transportation” for “Department of the Treasury”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted "Department of Transportation" for "Department of the Treasury".
 
 #### Effective Date of 2002 Amendment
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–145, title VI, §681(b), Nov. 8, 1985, 99 Stat. 665, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to costs incurred after September 30, 1985.”
+Pub. L. 99–145, title VI, §681(b), Nov. 8, 1985, 99 Stat. 665, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to costs incurred after September 30, 1985."
 
 #### Effective Date of 1980 Amendment
 

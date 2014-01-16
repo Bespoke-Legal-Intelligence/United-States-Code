@@ -8,7 +8,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (1) In-region services
 
-&emsp;A Bell operating company, or any affiliate of that Bell operating company, may provide interLATA services originating in any of its in-region States (as defined in subsection (i) of this section) if the Commission approves the application of such company for such State under subsection (d)(3) of this section.
+&emsp;A Bell operating company, or any affiliate of that Bell operating company, may provideinterLATA services originating in any of its in-region States (as defined in subsection (i) of this section) if the Commission approves the application of such company for such State under subsection (d)(3) of this section.
 
 #### (2) Out-of-region services
 
@@ -74,7 +74,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 &emsp;&emsp;&emsp;(viii) White pages directory listings for customers of the other carrier's telephone exchange service.
 
-&emsp;&emsp;&emsp;(ix) Until the date by which telecommunications numbering administration guidelines, plan, or rules are established, nondiscriminatory access to telephone numbers for assignment to the othercarrier's telephone exchange service customers. After that date, compliance with such guidelines, plan, or rules.
+&emsp;&emsp;&emsp;(ix) Until the date by which telecommunications numbering administration guidelines, plan, or rules are established, nondiscriminatory access to telephone numbers for assignment to the other carrier's telephone exchange service customers. After that date, compliance with such guidelines, plan, or rules.
 
 &emsp;&emsp;&emsp;(x) Nondiscriminatory access to databases and associated signaling necessary for call routing and completion.
 
@@ -146,7 +146,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (1) Joint marketing of local and long distance services
 
-&emsp;Until a Bell operating company is authorized pursuant to subsection (d) of this sectionto provide interLATA services in an in-region State, or until 36 months have passed since February 8, 1996, whichever is earlier, a telecommunications carrier that serves greater than 5 percent of the Nation's presubscribed access lines may not jointly market in such State telephone exchange service obtained from such company pursuant to section 251(c)(4) of this title with interLATA services offered by that telecommunications carrier.
+&emsp;Until a Bell operating company is authorized pursuant to subsection (d) of this section to provide interLATA services in an in-region State, or until 36 months have passed since February 8, 1996, whichever is earlier, a telecommunications carrier that serves greater than 5 percent of the Nation's presubscribed access lines may not jointly market in such State telephone exchange service obtained from such company pursuant to section 251(c)(4) of this title with interLATA services offered by that telecommunications carrier.
 
 #### (2) IntraLATA toll dialing parity
 
@@ -162,9 +162,9 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 Neither subsection (a) of this section nor section 273 of this title shall prohibit a Bell operating company or affiliate from engaging, at any time after February 8, 1996, in any activity to the extent authorized by, and subject to the terms and conditions contained in, an order entered by the United States District Court for the District of Columbia pursuant to section VII or VIII(C) of the AT\&T Consent Decree if such order was entered on or before February 8, 1996, to the extent such order is not reversed or vacated on appeal. Nothing in this subsection shall be construed to limit, or to impose terms or conditions on, an activity in which a Bell operating company is otherwise authorized to engage under any other provision of this section.
 
-#### (g) “Incidental interLATA services” defined
+#### (g) "Incidental interLATA services" defined
 
-For purposes of this section, the term “incidental interLATA services” means the interLATA provision by a Bell operating company or its affiliate—
+For purposes of this section, the term "incidental interLATA services" means the interLATA provision by a Bell operating company or its affiliate—
 
 &emsp;(1)(A) of audio programming, video programming, or other programming services to subscribers to such services of such company or affiliate;
 
@@ -194,15 +194,15 @@ As used in this section—
 
 #### (1) In-region State
 
-&emsp;The term “in-region State” means a State in which a Bell operating company or any of its affiliates was authorized to provide wireline telephone exchange service pursuant to the reorganization plan approved under the AT\&T Consent Decree, as in effect on the day before February 8, 1996.
+&emsp;The term "in-region State" means a State in which a Bell operating company or any of its affiliates was authorized to provide wireline telephone exchange service pursuant to the reorganization plan approved under the AT\&T Consent Decree, as in effect on the day before February 8, 1996.
 
 #### (2) Audio programming services
 
-&emsp;The term “audio programming services” means programming provided by, or generally considered to be comparable to programming provided by, a radio broadcast station.
+&emsp;The term "audio programming services" means programming provided by, or generally considered to be comparable to programming provided by, a radio broadcast station.
 
 #### (3) Video programming services; other programming services
 
-&emsp;The terms “video programming service” and “other programming services” have the same meanings as such terms have under section 522 of this title.
+&emsp;The terms "video programming service" and "other programming services" have the same meanings as such terms have under section 522 of this title.
 
 #### (j) Certain service applications treated as in-region service applications
 
@@ -218,7 +218,7 @@ For purposes of this section, a Bell operating company application to provide 80
 
 #### References in Text
 
-Section 153 of this title, referred to in subsec. (c)(1)(A), was subsequently amended and no longer contains a par. (47)(A). However, the term “telephone exchange service” is defined elsewhere in that section.
+Section 153 of this title, referred to in subsec. (c)(1)(A), was subsequently amended and no longer contains a par. (47)(A). However, the term "telephone exchange service" is defined elsewhere in that section.
 
 Section 254(h)(5) of this title, referred to in subsec. (g)(2), was redesignated section 254(h)(7) of this title by Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343.
 

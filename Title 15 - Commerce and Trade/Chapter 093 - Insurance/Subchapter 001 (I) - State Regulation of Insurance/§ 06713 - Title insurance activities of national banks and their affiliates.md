@@ -10,7 +10,7 @@ No national bank may engage in any activity involving the underwriting or sale o
 
 &emsp;Notwithstanding any other provision of law (including section 6701 of this title), in the case of any State in which banks organized under the laws of such State are authorized to sell title insurance as agent, a national bank may sell title insurance as agent in such State, but only in the same manner, to the same extent, and under the same restrictions as such State banks are authorized to sell title insurance as agent in such State.
 
-#### (2) Coordination with “wildcard” provision
+#### (2) Coordination with "wildcard" provision
 
 &emsp;A State law which authorizes State banks to engage in any activities in such State in which a national bank may engage shall not be treated as a statute which authorizes State banks to sell title insurance as agent, for purposes of paragraph (1).
 
@@ -18,7 +18,7 @@ No national bank may engage in any activity involving the underwriting or sale o
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3) and notwithstanding subsections (a) and (b) of this section, a national bank, and a subsidiary of a national bank, may conduct title insurance activities which such national bank or subsidiary was actively and lawfully conducting before November 12, 1999.
+&emsp;Except as provided in paragraphs (2) and (3) and notwithstanding subsections (a) and (b) ofthis section, a national bank, and a subsidiary of a national bank, may conduct title insurance activities which such national bank or subsidiary was actively and lawfully conducting before November 12, 1999.
 
 #### (2) Insurance affiliate
 
@@ -28,9 +28,9 @@ No national bank may engage in any activity involving the underwriting or sale o
 
 &emsp;In the case of a national bank which has a subsidiary which provides insurance as principal and has no affiliate other than a subsidiary which provides insurance as principal, the national bank may not directly engage in any activity involving the underwriting of title insurance.
 
-#### (d) “Affiliate” and “subsidiary” defined
+#### (d) "Affiliate" and "subsidiary" defined
 
-For purposes of this section, the terms “affiliate” and “subsidiary” have the same meanings as in section 1841 of title 12.
+For purposes of this section, the terms "affiliate" and "subsidiary" have the same meanings as in section 1841 of title 12.
 
 #### (e) Rule of construction
 

@@ -4,29 +4,29 @@
 
 In this section—
 
-&emsp;(1) the terms “Administration” and “Administrator” mean the Small Business Administration and the Administrator thereof, respectively;
+&emsp;(1) the terms "Administration" and "Administrator" mean the Small Business Administration and the Administrator thereof, respectively;
 
-&emsp;(2) the term “association” means the association of small business development centers established under section 648(a)(3)(A) of this title;
+&emsp;(2) the term "association" means the association of small business development centers established under section 648(a)(3)(A) of this title;
 
-&emsp;(3) the term “disability” has the meaning given that term in section 12102 of title 42;
+&emsp;(3) the term "disability" has the meaning given that term in section 12102 of title 42;
 
-&emsp;(4) the term “Efficiency Program” means the Small Business Energy Efficiency Program established under subsection (c)(1);
+&emsp;(4) the term "Efficiency Program" means the Small Business Energy Efficiency Program established under subsection (c)(1);
 
-&emsp;(5) the term “electric utility” has the meaning given that term in section 2602 of title 16;
+&emsp;(5) the term "electric utility" has the meaning given that term in section 2602 of title 16;
 
-&emsp;(6) the term “high performance green building” has the meaning given that term in section 17061 of title 42;
+&emsp;(6) the term "high performance green building" has the meaning given that term in section 17061 of title 42;
 
-&emsp;(7) the term “on-bill financing” means a low interest or no interest financing agreement between a small business concern and an electric utility for the purchase or installation of equipment, under which the regularly scheduled payment of that small business concern to that electric utility is not reduced by the amount of the reduction in cost attributable to the new equipment and that amount is credited to the electric utility, until the cost of the purchase or installation is repaid;
+&emsp;(7) the term "on-bill financing" means a low interest or no interest financing agreement between a small business concern and an electric utility for the purchase or installation of equipment, under which the regularly scheduled payment of that small business concern to that electric utility is not reduced by the amount of the reduction in cost attributable to the new equipment and that amount is credited to the electric utility, until the cost of the purchase or installation is repaid;
 
-&emsp;(8) the term “small business concern” has the same meaning as in section 632 of this title;
+&emsp;(8) the term "small business concern" has the same meaning as in section 632 of this title;
 
-&emsp;(9) the term “small business development center” means a small business development center described in section 648 of this title;
+&emsp;(9) the term "small business development center" means a small business development center described in section 648 of this title;
 
-&emsp;(10) the term “telecommuting” means the use of telecommunications to perform work functions under circumstances which reduce or eliminate the need to commute;
+&emsp;(10) the term "telecommuting" means the use of telecommunications to perform work functions under circumstances which reduce or eliminate the need to commute;
 
-&emsp;(11) the term “Telecommuting Pilot Program” means the pilot program established under subsection (d)(1)(A); and
+&emsp;(11) the term "Telecommuting Pilot Program" means the pilot program established under subsection (d)(1)(A); and
 
-&emsp;(12) the term “veteran” has the meaning given that term in section 101 of title 38.
+&emsp;(12) the term "veteran" has the meaning given that term in section 101 of title 38.
 
 #### (b) Implementation of small business energy efficiency program
 
@@ -86,7 +86,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(ii) conduct training and educational activities;
 
-&emsp;&emsp;&emsp;(iii) offer confidential, free, one-on-one, in-depth energy audits to the owners andoperators of small business concerns regarding energy efficiency practices;
+&emsp;&emsp;&emsp;(iii) offer confidential, free, one-on-one, in-depth energy audits to the owners and operators of small business concerns regarding energy efficiency practices;
 
 &emsp;&emsp;&emsp;(iv) give referrals to certified professionals and other providers of energy efficiency assistance who meet such standards for educational, technical, and professional competency as the Administrator shall establish;
 
@@ -172,7 +172,7 @@ In this section—
 
 #### (8) Guarantee
 
-&emsp;To the extent not inconsistent with State law, the Administrator may guarantee the timely payment of a loan made to a smallbusiness concern through an on-bill financing agreement on such terms and conditions as the Administrator shall establish through a formal rulemaking, after providing notice and an opportunity for comment.
+&emsp;To the extent not inconsistent with State law, the Administrator may guarantee the timely payment of a loan made to a small business concern through an on-bill financing agreement on such terms and conditions as the Administrator shall establish through a formal rulemaking, after providing notice and an opportunity for comment.
 
 #### (9) Implementation
 

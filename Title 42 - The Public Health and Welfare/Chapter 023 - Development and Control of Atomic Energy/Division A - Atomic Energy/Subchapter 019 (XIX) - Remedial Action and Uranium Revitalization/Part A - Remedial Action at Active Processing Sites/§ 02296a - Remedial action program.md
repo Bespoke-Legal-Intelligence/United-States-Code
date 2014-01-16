@@ -72,35 +72,35 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(2)(C). Pub. L. 107–222 substituted “$365,000,000” for “$140,000,000” and inserted at end “Such payments shall not exceed the following amounts:
+<b>2002</b>—Subsec. (b)(2)(C). Pub. L. 107–222 substituted "$365,000,000" for "$140,000,000" and inserted at end "Such payments shall not exceed the following amounts:
 
-&emsp;“(i) $90,000,000 in fiscal year 2002.
+&emsp;"(i) $90,000,000 in fiscal year 2002.
 
-&emsp;“(ii) $55,000,000 in fiscal year 2003.
+&emsp;"(ii) $55,000,000 in fiscal year 2003.
 
-&emsp;“(iii) $20,000,000 in fiscal year 2004.
+&emsp;"(iii) $20,000,000 in fiscal year 2004.
 
-&emsp;“(iv) $20,000,000 in fiscal year 2005.
+&emsp;"(iv) $20,000,000 in fiscal year 2005.
 
-&emsp;“(v) $20,000,000 in fiscal year 2006.
+&emsp;"(v) $20,000,000 in fiscal year 2006.
 
-&emsp;“(vi) $20,000,000 in fiscal year 2007.
+&emsp;"(vi) $20,000,000 in fiscal year 2007.
 
-> Any amounts authorized to be paid in a fiscal year under this subparagraph that are not paid in that fiscal year may be paid in subsequent fiscal years.”
+> Any amounts authorized to be paid in a fiscal year under this subparagraph that are not paid in that fiscal year may be paid in subsequent fiscal years."
 
-<b>2000</b>—Subsec. (b)(1)(B)(i). Pub. L. 106–317, §1(1), substituted “2007” for “2002”.
+<b>2000</b>—Subsec. (b)(1)(B)(i). Pub. L. 106–317, §1(1), substituted "2007" for "2002".
 
-Subsec. (b)(1)(B)(ii). Pub. L. 106–317, §1(2), substituted “incurred by a licensee after December 31, 2007,” for “placed in escrow not later than December 31, 2002,”.
+Subsec. (b)(1)(B)(ii). Pub. L. 106–317, §1(2), substituted "incurred by a licensee after December 31, 2007," for "placed in escrow not later than December 31, 2002,".
 
-Subsec. (b)(2)(E)(i). Pub. L. 106–317, §1(3), substituted “December 31, 2008” for “July 31, 2005”.
+Subsec. (b)(2)(E)(i). Pub. L. 106–317, §1(3), substituted "December 31, 2008" for "July 31, 2005".
 
-<b>1998</b>—Subsec. (b)(2)(C). Pub. L. 105–388 substituted “$140,000,000” for “$65,000,000”.
+<b>1998</b>—Subsec. (b)(2)(C). Pub. L. 105–388 substituted "$140,000,000" for "$65,000,000".
 
-<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–259, §3(a)(1), substituted “$6.25” for “$5.50”.
+<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–259, §3(a)(1), substituted "$6.25" for "$5.50".
 
-Subsec. (b)(2)(B). Pub. L. 104–259, §3(a)(2), substituted “$350,000,000” for “$270,000,000”.
+Subsec. (b)(2)(B). Pub. L. 104–259, §3(a)(2), substituted "$350,000,000" for "$270,000,000".
 
-Subsec. (b)(2)(C). Pub. L. 104–259, §3(a)(3), substituted “$65,000,000” for “$40,000,000”.
+Subsec. (b)(2)(C). Pub. L. 104–259, §3(a)(3), substituted "$65,000,000" for "$40,000,000".
 
-Subsec. (b)(2)(E). Pub. L. 104–259, §3(a)(4), (5), substituted “$6.25” for “$5.50” wherever appearing.
+Subsec. (b)(2)(E). Pub. L. 104–259, §3(a)(4), (5), substituted "$6.25" for "$5.50" wherever appearing.
 

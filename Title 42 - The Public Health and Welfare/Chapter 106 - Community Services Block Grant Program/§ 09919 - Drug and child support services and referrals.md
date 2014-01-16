@@ -12,7 +12,7 @@
 
 #### (3) Definition
 
-&emsp;In this subsection, the term “controlled substance” has the meaning given the term in section 802 of title 21.
+&emsp;In this subsection, the term "controlled substance" has the meaning given the term in section 802 of title 21.
 
 #### (b) Child support services and referrals
 

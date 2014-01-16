@@ -2,35 +2,35 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) “Anadromous stocks” means stocks of species listed in the Annex to the Convention that migrate into the Convention area.
+&emsp;(1) "Anadromous stocks" means stocks of species listed in the Annex to the Convention that migrate into the Convention area.
 
-&emsp;(2) “Anadromous fish” means fish of the species listed in the Annex to the Convention that migrate into the Convention area.
+&emsp;(2) "Anadromous fish" means fish of the species listed in the Annex to the Convention that migrate into the Convention area.
 
-&emsp;(3) “Authorized officer” means a law enforcement official authorized to enforce this chapter under section 5008(a) of this title.
+&emsp;(3) "Authorized officer" means a law enforcement official authorized to enforce this chapter under section 5008(a) of this title.
 
-&emsp;(4) “Commission” means the North Pacific Anadromous Fish Commission provided for by article VIII of the Convention.
+&emsp;(4) "Commission" means the North Pacific Anadromous Fish Commission provided for by article VIII of the Convention.
 
-&emsp;(5) “Convention” means the Convention for the Conservation of Anadromous Stocks of the North Pacific Ocean, signed in Moscow, February 11, 1992.
+&emsp;(5) "Convention" means the Convention for the Conservation of Anadromous Stocks of the North Pacific Ocean, signed in Moscow, February 11, 1992.
 
-&emsp;(6) “Convention area” means the waters of the North Pacific Ocean and its adjacent seas, north of 33 degrees North Latitude,<sup>1</sup> beyond200 nautical miles from the baselines from which the breadth of the territorial sea is measured.
+&emsp;(6) "Convention area" means the waters of the North Pacific Ocean and its adjacent seas, north of 33 degrees North Latitude,<sup>1</sup> beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured.
 
-&emsp;(7) “Directed fishing” means fishing targeted at a particular species or stock of fish.
+&emsp;(7) "Directed fishing" means fishing targeted at a particular species or stock of fish.
 
-&emsp;(8) “Ecologically related species” means living marine species which are associated with anadromous stocks found in the Convention area, including, but not restricted to, both predators and prey of anadromous fish.
+&emsp;(8) "Ecologically related species" means living marine species which are associated with anadromous stocks found in the Convention area, including, but not restricted to, both predators and prey of anadromous fish.
 
-&emsp;(9) “Enforcement officer” means a law enforcement official authorized by any Party to enforce this chapter.
+&emsp;(9) "Enforcement officer" means a law enforcement official authorized by any Party to enforce this chapter.
 
-&emsp;(10) “Exclusive economic zone” means the zone established by Proclamation Numbered 5030, dated March 10, 1983. For purposes of applying this chapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States.
+&emsp;(10) "Exclusive economic zone" means the zone established by Proclamation Numbered 5030, dated March 10, 1983. For purposes of applying this chapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States.
 
-&emsp;(11) “Fish” means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life other than marine mammals and birds.
+&emsp;(11) "Fish" means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life other than marine mammals and birds.
 
-&emsp;(12) “Fishing” means—
+&emsp;(12) "Fishing" means—
 
 &emsp;&emsp;(A) the catching, taking, or harvesting of fish, or any other activity that can reasonably be expected to result in the catching, taking, or harvesting of fish; or
 
 &emsp;&emsp;(B) any operation at sea in preparation for or in direct support of any activity described in subparagraph (A).
 
-&emsp;(13) “Fishing vessel” means—
+&emsp;(13) "Fishing vessel" means—
 
 &emsp;&emsp;(A) any vessel engaged in catching fish within the Convention area or in processing or transporting fish loaded in the Convention area;
 
@@ -38,13 +38,13 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(C) any vessel supporting a vessel described in subparagraph (A) or (B).
 
-&emsp;(14) “Incidental taking” means catching, taking, or harvesting a species or stock of fish while conducting directed fishing for another species or stock of fish.
+&emsp;(14) "Incidental taking" means catching, taking, or harvesting a species or stock of fish while conducting directed fishing for another species or stock of fish.
 
-&emsp;(15) “Party” means Canada, Japan, the Russian Federation, the United States, and any other nation that may accede to the Convention.
+&emsp;(15) "Party" means Canada, Japan, the Russian Federation, the United States, and any other nation that may accede to the Convention.
 
-&emsp;(16) “Secretary” means the Secretary of State.
+&emsp;(16) "Secretary" means the Secretary of State.
 
-&emsp;(17) “United States Section” means the United States Commissioners of the Commission.
+&emsp;(17) "United States Section" means the United States Commissioners of the Commission.
 
 (Pub. L. 102–567, title VIII, §803, Oct. 29, 1992, 106 Stat. 4309; Pub. L. 102–587, title VIII, §8003, Nov. 4, 1992, 106 Stat. 5098; Pub. L. 104–43, title IV, §404(b), Nov. 3, 1995, 109 Stat. 391; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
@@ -58,7 +58,7 @@ Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially iden
 
 #### Amendments
 
-<b>1995</b>—Par. (13)(C). Pub. L. 104–43 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any vessel described in subparagraph (A) or (B).”
+<b>1995</b>—Par. (13)(C). Pub. L. 104–43 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "any vessel described in subparagraph (A) or (B)."
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -206,7 +206,7 @@ Pub. L. 110–234, title IV, §4407, May 22, 2008, 122 Stat. 1142, and Pub. L. 1
 
 #### Effective Date
 
-Pub. L. 107–171, title IV, §4405, May 13, 2002, 116 Stat. 341, provided that: “Except as otherwise provided in this title \[see Short Title of 2002 Amendment note set out under section 2011 of Title 7, Agriculture\], the amendments made by this title take effect on October 1, 2002.”
+Pub. L. 107–171, title IV, §4405, May 13, 2002, 116 Stat. 341, provided that: “Except as otherwise provided inthis title \[see Short Title of 2002 Amendment note set out under section 2011 of Title 7, Agriculture\], the amendments made by this title take effect on October 1, 2002.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section:”.</i>
 

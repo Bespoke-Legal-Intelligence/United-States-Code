@@ -28,7 +28,7 @@ Provisions similar to those in this section were contained in section 11144 of t
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–141 inserted “, in person or in writing” after “proper credentials”.
+<b>2012</b>—Subsec. (b). Pub. L. 112–141 inserted ", in person or in writing" after "proper credentials".
 
 #### Effective Date of 2012 Amendment
 

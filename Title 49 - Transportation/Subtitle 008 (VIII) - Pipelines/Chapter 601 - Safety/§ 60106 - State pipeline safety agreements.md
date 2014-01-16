@@ -6,7 +6,7 @@ Agreements Without Certification.—If the Secretary of Transportation does not 
 
 &emsp;(1) establish an adequate program for record maintenance, reporting, and inspection designed to assist compliance with applicable safety standards prescribed under this chapter; and
 
-&emsp;(2) prescribe procedures for approval of plans of inspection and maintenance substantiallythe same as required under section 60108 (a) and (b) of this title.
+&emsp;(2) prescribe procedures for approval of plans of inspection and maintenance substantially the same as required under section 60108 (a) and (b) of this title.
 
 (b)
 
@@ -134,11 +134,11 @@ Aug. 12, 1968, Pub. L. 90–481, §5(f), 82 Stat. 724; Nov. 30, 1979, Pub. L. 96
 
 49 App.:2004(g).
 
-In subsection (a), before clause (1), the word “annual” is omitted as surplus. The words “to take necessary action” are substituted for “to assume responsibility for, and carry out” for clarity. The words “on behalf of the Secretary” are omitted as surplus. In clause (1), the words “applicable . . . prescribed under this chapter” are added for clarity. The word “Federal” is omitted as surplus. In clause (2), the word “prescribe” is substituted for “establish” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), before clause (1), the word "annual" is omitted as surplus. The words "to take necessary action" are substituted for "to assume responsibility for, and carry out" for clarity. The words "on behalf of the Secretary" are omitted as surplus. In clause (1), the words "applicable . . . prescribed under this chapter" are added for clarity. The word "Federal" is omitted as surplus. In clause (2), the word "prescribe" is substituted for "establish" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b), the words “action taken in carrying out an agreement” are substituted for “its program” for clarity.
+In subsection (b), the words "action taken in carrying out an agreement" are substituted for "its program" for clarity.
 
-In subsection (c), the words “conduct whatever . . . may be necessary” and “fully” are omitted as surplus. The words “with the Secretary” are substituted for “in any monitoring of their programs” for clarity.
+In subsection (c), the words "conduct whatever . . . may be necessary" and "fully" are omitted as surplus. The words "with the Secretary" are substituted for "in any monitoring of their programs" for clarity.
 
 #### References in Text
 
@@ -146,11 +146,11 @@ Enactment of the Pipeline Safety Improvement Act of 2002, referred to in subsec.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–355, §4(a)(1), substituted “
+<b>2002</b>—Subsec. (a). Pub. L. 107–355, §4(a)(1), substituted "
 
-Agreements Without Certification” for “
+Agreements Without Certification" for "
 
-General Authority” in heading.
+General Authority" in heading.
 
 Subsec. (b). Pub. L. 107–355, §4(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -158,7 +158,7 @@ Subsec. (c). Pub. L. 107–355, §4(a)(2), (c), redesignated subsec. (b) as (c),
 
 Subsec. (d). Pub. L. 107–355, §4(a)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 107–355, §4(a)(2), (b), redesignated subsec. (d) as (e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may end an agreement made under this section when the Secretary finds that the State authority has not complied with any provision of the agreement. The Secretary shall give the authority notice and an opportunity for a hearing before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication.”
+Subsec. (e). Pub. L. 107–355, §4(a)(2), (b), redesignated subsec. (d) as (e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Secretary may end an agreement made under this section when the Secretary finds that the State authority has not complied with any provision of the agreement. The Secretary shall give the authority notice and an opportunity for a hearing before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication."
 
-<b>1996</b>—Pub. L. 104–304 substituted “State pipeline safety agreements” for “State agreements” in section catchline.
+<b>1996</b>—Pub. L. 104–304 substituted "State pipeline safety agreements" for "State agreements" in section catchline.
 

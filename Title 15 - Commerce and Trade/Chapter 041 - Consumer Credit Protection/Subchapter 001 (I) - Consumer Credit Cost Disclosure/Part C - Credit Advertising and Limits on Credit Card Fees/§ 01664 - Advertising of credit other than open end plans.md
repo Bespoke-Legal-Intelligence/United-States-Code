@@ -34,11 +34,11 @@ Each advertisement to which this section applies that relates to a consumer cred
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted “Bureau” for “Board”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted "Bureau" for "Board".
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–8 added subsec. (e).
 
-<b>1980</b>—Subsec. (d). Pub. L. 97–221 substituted items setting forth downpayment, etc., set out in pars. (1) to (3),for items setting forth cash price or amount of loan, etc., set out in pars. (1) to (4).
+<b>1980</b>—Subsec. (d). Pub. L. 97–221 substituted items setting forth downpayment, etc., set out in pars. (1) to (3), for items setting forth cash price or amount of loan, etc., set out in pars. (1) to (4).
 
 #### Effective Date of 2010 Amendment
 

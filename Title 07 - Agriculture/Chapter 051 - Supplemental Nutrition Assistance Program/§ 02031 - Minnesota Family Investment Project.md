@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Subject to paragraph (2), upon written application of the State of Minnesota that complies with this section and sections 6 to 11, 13, 130, and 132 of article 5 of 282 of the 1989 Laws of Minnesota, and after approval of such application by the Secretary in accordance with subsections (b) and (d) of this section, the State may implement a family investment demonstration project (hereinafter in this section referred to as the “Project”) in parts of the State to determine whether the Project more effectively helps families to become self-supporting and enhances their ability to care for their children than do the supplemental nutrition assistance program and programs under parts A and F <sup>1</sup> of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]. The State may provide cash payments under the Project, subject to paragraph (2), that replace assistance otherwise available under the supplemental nutrition assistance program and under part A of title IV of the Social Security Act.
+(1) Subject to paragraph (2), upon written application of the State of Minnesota that complies with this section and sections 6 to 11, 13, 130, and 132 of article 5 of 282 of the 1989 Laws of Minnesota, and after approval of such application by the Secretary in accordance with subsections (b) and (d) of this section, the State may implement a family investment demonstration project (hereinafter in this section referred to as the "Project") in parts of the State to determine whether the Project more effectively helps families to become self-supporting and enhances their ability to care for their children than do the supplemental nutrition assistance program and programs under parts A and F <sup>1</sup> of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]. The State may provide cash payments under the Project, subject to paragraph (2), that replace assistance otherwise available under the supplemental nutrition assistance program and under part A of title IV of the Social Security Act.
 
 (2) The Project may be implemented only in accordance with this section and only if the Secretary of Health and Human Services approves an application submitted by the State permitting the State to include in the Project families who are eligible to receive benefits under part A of title IV of the Social Security Act.
 
@@ -44,11 +44,11 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;(E)(i) Individuals ineligible for the Project who are members of a household including a participating family shall have their eligibility for the supplemental nutrition assistance program determined and have their benefits calculated and issued following the standards established under the supplemental nutrition assistance program, except as provided differently in this subparagraph.
 
-&emsp;(ii) The State agency shall determine such individuals’ eligibility for benefits under the supplemental nutrition assistance program and the amount of such benefits without regard to the participating family.
+&emsp;(ii) The State agency shall determine such individuals' eligibility for benefits under the supplemental nutrition assistance program and the amount of such benefits without regard to the participating family.
 
-&emsp;(iii) In computing such individuals’ income for purposes of determining eligibility (under section 2014(c)(1) of this title) and benefits, the State agency shall apply the maximum excess shelter expense deduction specified under section 2014(e) of this title.
+&emsp;(iii) In computing such individuals' income for purposes of determining eligibility (under section 2014(c)(1) of this title) and benefits, the State agency shall apply the maximum excess shelter expense deduction specified under section 2014(e) of this title.
 
-&emsp;(iv) Such individuals’ monthly allotment shall be the higher of $10 or 75 percent of the amount calculated following the standards of the supplemental nutrition assistance program and the foregoing requirements of this subparagraph, rounded to the nearest lower whole dollar.
+&emsp;(iv) Such individuals' monthly allotment shall be the higher of $10 or 75 percent of the amount calculated following the standards of the supplemental nutrition assistance program and the foregoing requirements of this subparagraph, rounded to the nearest lower whole dollar.
 
 &emsp;(4) The Project shall include education, employment, and training services equivalent to those offered under the employment and training program described in section 2015(d)(4) of this title to families similar to participating families elsewhere in the State.
 
@@ -88,7 +88,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;(B)(i) Following the standards specified in subparagraph (C), the State shall ensure that benefits under the supplemental nutrition assistance program are provided to participating families in case the Project is terminated or to participating families or family members that are determined ineligible for the Project because of income, resources, or change in household composition, if such families or individuals are determined eligible for the supplemental nutrition assistance program. Food benefits shall be issued to eligible families and individuals described in this clause retroactive to the date of termination from the Project; and
 
-&emsp;(ii) If sections 256.031 through 256.036 of the Minnesota Statutes, 1989 Supplement, or Minnesota Laws 1989, chapter 282, article 5, section 130, are amended to reduce or eliminate benefits provided under those sections or restrict the rights of Project applicants or participating families, the State shall exclude from the Project applicants or participating families or individuals affected by such amendments and follow the standards specified in subparagraph (C), except that the State shall continue to pay from State funds an amount equal to the food assistance portion to such families and individuals until the State determines eligibility or ineligibility for the supplemental nutrition assistance program or the family or individual has failed to supply the needed additional information within ten days. Food benefits shall be provided to families and individuals excluded from the Project under thisclause who are determined eligible for the supplemental nutrition assistance program retroactive to the date of the determination of eligibility. The Secretary shall pay to the State the value of the benefits for which such families and individuals would have been eligible in the absence of food assistance payments under this clause from the date of termination from the Project to the date benefits are provided.
+&emsp;(ii) If sections 256.031 through 256.036 of the Minnesota Statutes, 1989 Supplement, or Minnesota Laws 1989, chapter 282, article 5, section 130, are amended to reduce or eliminate benefits provided under those sections or restrict the rights of Project applicants or participating families, the State shall exclude from the Project applicants or participating families or individuals affected by such amendments and follow the standards specified in subparagraph (C), except that the State shall continue to pay from State funds an amount equal to the food assistance portion to such families and individuals until the State determines eligibility or ineligibility for the supplemental nutrition assistance program or the family or individual has failed to supply the needed additional information within ten days. Food benefits shall be provided to families and individuals excluded from the Project under this clause who are determined eligible for the supplemental nutrition assistance program retroactive to the date of the determination of eligibility. The Secretary shall pay to the State the value of the benefits for which such families and individuals would have been eligible in the absence of food assistance payments under this clause from the date of termination from the Project to the date benefits are provided.
 
 &emsp;(C) Each family whose Project participation is terminated shall be screened for potential eligibility for the supplemental nutrition assistance program and if the screening indicates potential eligibility, the family or family member shall be given a specific request to supply all additional information needed to determine such eligibility and assistance in completing a signed supplemental nutrition assistance program application including provision of any relevant information obtained by the State for purpose of the Project. If the family or family member supplies such additional information within ten days after receiving the request, the State shall, within five days after the State receives such information, determine whether the family or family member is eligible for the supplemental nutrition assistance program. Each family or family member who is determined through the screening or otherwise to be ineligible for the supplemental nutrition assistance program shall be notified of that determination.
 
@@ -148,7 +148,7 @@ The Project shall be subject to the following additional terms and conditions:
 
 &emsp;(A) the cost of benefits issued to individuals ineligible for the Project specified in subsection (b)(3)(E) of this section in excess of the amount that would have been issued to such individuals had the Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State; and
 
-&emsp;(B) the cost of benefits issued to families exercising the option specified in subsection (b)(3)(D)(iii) of this section in excess of the amount that would have been issued to such individuals had the Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State.
+&emsp;(B) the cost of benefits issued to families exercising the option specified in subsection (b)(3)(D)(iii) of this section in excess of the amount that would have been issued to such individuals had the Project not been implemented, as estimated under a methodologysatisfactory to the Secretary after negotiations with the State.
 
 (3) Payments under paragraph (1)(B) shall include adjustments, as estimated under a methodology satisfactory to the Secretary after negotiations with the State, for increases or decreases in the costs of providing food assistance and associated administrative costs that result from changes in economic, demographic, or other conditions in the State based on data specific to the State, changes in eligibility or benefit levels authorized by this chapter, and changes in or additional amounts of Federal funds available to States and localities under the supplemental nutrition assistance program.
 
@@ -192,15 +192,15 @@ Participating families shall be excluded from any sample taken for purposes of m
 
 For purposes of this section, the following definitions apply:
 
-&emsp;(1) The term “family” means the following individuals who live together: a minor child ora group of minor children related to each other as siblings, half siblings, stepsiblings, or adopted siblings, together with their natural or adoptive parents, or their caregiver. Family also includes a pregnant woman in the third trimester of pregnancy with no children.
+&emsp;(1) The term "family" means the following individuals who live together: a minor child or a group of minor children related to each other as siblings, half siblings, stepsiblings, or adopted siblings, together with their natural or adoptive parents, or their caregiver. Family also includes a pregnant woman in the third trimester of pregnancy with no children.
 
-&emsp;(2) The term “contract” means a plan to help a family pursue self-sufficiency, based on the State's assessment of the family's needs and abilities and developed with a parental caregiver.
+&emsp;(2) The term "contract" means a plan to help a family pursue self-sufficiency, based on the State's assessment of the family's needs and abilities and developed with a parental caregiver.
 
-&emsp;(3) The term “caregiver” means a minor child's natural or adoptive parent or parents who live in the home with the minor child. For purposes of determining eligibility for the Project, “caregiver” also means any of the following individuals who live with and provide care and support to a minor child when the minor child's natural or adoptive parent or parents do not reside in the same home: grandfather, grandmother, brother, sister, stepfather, stepmother, stepbrother, stepsister, uncle, aunt, first cousin, nephew, niece, persons of preceding generations as denoted by prefixes of “great” or “great-great” or a spouse of any person named in the above groups even after the marriage ends by death or divorce.
+&emsp;(3) The term "caregiver" means a minor child's natural or adoptive parent or parents who live in the home with the minor child. For purposes of determining eligibility for the Project, "caregiver" also means any of the following individuals who live with and provide care and support to a minor child when the minor child's natural or adoptive parent or parents do not reside in the same home: grandfather, grandmother, brother, sister, stepfather, stepmother, stepbrother, stepsister, uncle, aunt, first cousin, nephew, niece, persons of preceding generations as denoted by prefixes of "great" or "great-great" or a spouse of any person named in the above groups even after the marriage ends by death or divorce.
 
-&emsp;(4) The term “State” means the State of Minnesota.
+&emsp;(4) The term "State" means the State of Minnesota.
 
-(Pub. L. 88–525, §22, as added Pub. L. 101–202, Dec. 6, 1989, 103 Stat. 1796; amended Pub. L. 102–237, title IX, §941(11), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 107–171, title IV, §4118(d), May 13, 2002, 116 Stat. 321; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(11), 4115(b)(15), May 22, 2008, 122 Stat. 1092, 1095, 1108; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(11), 4115(b)(15), June 18, 2008, 122 Stat. 1664, 1853, 1856, 1870.)
+(Pub. L. 88–525, §22, as added Pub. L. 101–202, Dec. 6, 1989, 103 Stat. 1796; amended Pub. L.102–237, title IX, §941(11), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 107–171, title IV, §4118(d), May 13, 2002, 116 Stat. 321; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(11), 4115(b)(15), May 22, 2008, 122 Stat. 1092, 1095, 1108; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(11), 4115(b)(15), June 18, 2008, 122 Stat. 1664, 1853, 1856, 1870.)
 
 #### References in Text
 
@@ -214,37 +214,37 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §4002(a)(11)(A), substituted “Minnesota Family Investment Project” for “Food stamp portion of Minnesota Family Investment Plan” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §4002(a)(11)(A), substituted "Minnesota Family Investment Project" for "Food stamp portion of Minnesota Family Investment Plan" in section catchline.
 
-Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program" wherever appearing.
 
-Subsec. (b)(3)(D). Pub. L. 110–246, §4115(b)(15)(B), substituted “benefits” for “coupons” in two places.
+Subsec. (b)(3)(D). Pub. L. 110–246, §4115(b)(15)(B), substituted "benefits" for "coupons" in two places.
 
-Subsec. (b)(9). Pub. L. 110–246, §4115(b)(15)(B), substituted “benefits” for “coupons”.
+Subsec. (b)(9). Pub. L. 110–246, §4115(b)(15)(B), substituted "benefits" for "coupons".
 
-Subsec. (b)(10)(B)(i). Pub. L. 110–246, §4115(b)(15)(B), substituted “benefits shall be issued” for “coupons shall be issued”.
+Subsec. (b)(10)(B)(i). Pub. L. 110–246, §4115(b)(15)(B), substituted "benefits shall be issued" for "coupons shall be issued".
 
-Subsec. (b)(10)(B)(ii). Pub. L. 110–246, §4115(b)(15)(A), (B), substituted “benefits shall be provided” for “coupons shall be provided”, “value of the benefits” for “value of the food coupons”, and “the date benefits” for “the date food coupons”.
+Subsec. (b)(10)(B)(ii). Pub. L. 110–246, §4115(b)(15)(A), (B), substituted "benefits shall be provided" for "coupons shall be provided", "value of the benefits" for "value of the food coupons", and "the date benefits" for "the date food coupons".
 
 Subsec. (b)(12). Pub. L. 110–246, §4002(a)(11)(B), made technical amendment to reference in original Act which appears in text as reference to this chapter.
 
-Subsec. (d)(1), (2). Pub. L. 110–246, §4115(b)(15)(B), substituted “benefits” for “coupons” wherever appearing.
+Subsec. (d)(1), (2). Pub. L. 110–246, §4115(b)(15)(B), substituted "benefits" for "coupons" wherever appearing.
 
 Subsec. (d)(3). Pub. L. 110–246, §4002(a)(11)(B), made technical amendment to reference in original Act which appears in text as reference to this chapter.
 
 Subsec. (g)(1). Pub. L. 110–246, §4002(a)(11)(C), made technical amendment to reference in original Act which appears in introductory provisions as reference to this chapter.
 
-Subsec. (g)(1)(A). Pub. L. 110–246, §4115(b)(15)(C), substituted “benefits” for “coupon”.
+Subsec. (g)(1)(A). Pub. L. 110–246, §4115(b)(15)(C), substituted "benefits" for "coupon".
 
-Subsec. (h). Pub. L. 110–246, §4115(b)(15)(A), substituted “benefits” for “food coupons”.
+Subsec. (h). Pub. L. 110–246, §4115(b)(15)(A), substituted "benefits" for "food coupons".
 
-<b>2002</b>—Subsec. (h). Pub. L. 107–171 substituted “section 2025(c)(1) of this title” for “section 2025(c)(1)(C) of this title” and struck out “Payments for administrative costs incurred by the State shall be included for purposes of establishing the adjustment under section 2025(c)(1)(A) of this title.” at end.
+<b>2002</b>—Subsec. (h). Pub. L. 107–171 substituted "section 2025(c)(1) of this title" for "section 2025(c)(1)(C) of this title" and struck out "Payments for administrative costs incurred by the State shall be included for purposes of establishing the adjustment under section 2025(c)(1)(A) of this title." at end.
 
 <b>1991</b>—Pub. L. 102–237, §941(11)(A), inserted section catchline.
 
-Subsec. (d)(2)(B). Pub. L. 102–237, §941(11)(B), substituted “subsection (b)(3)(D)(iii)” for “paragraph (b)(3)(D)(iii)”.
+Subsec. (d)(2)(B). Pub. L. 102–237, §941(11)(B), substituted "subsection (b)(3)(D)(iii)" for "paragraph (b)(3)(D)(iii)".
 
-Subsec. (h). Pub. L. 102–237, §941(11)(C), substituted “subsection (b)(12)” for “subsection b(12)”.
+Subsec. (h). Pub. L. 102–237, §941(11)(C), substituted "subsection (b)(12)" for "subsection b(12)".
 
 #### Effective Date of 2008 Amendment
 

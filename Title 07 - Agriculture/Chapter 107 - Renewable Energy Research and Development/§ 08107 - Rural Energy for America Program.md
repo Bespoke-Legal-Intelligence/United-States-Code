@@ -120,7 +120,7 @@ The Secretary, in consultation with the Secretary of Energy, shall establish a R
 
 #### (C) Maximum amount of combined grant and loan guarantee
 
-&emsp;&emsp;The combined amount of a grant and loan guaranteed under this subsection shall notexceed 75 percent of the cost of the activity funded under this subsection.
+&emsp;&emsp;The combined amount of a grant and loan guaranteed under this subsection shall not exceed 75 percent of the cost of the activity funded under this subsection.
 
 #### (d) Outreach
 
@@ -184,7 +184,7 @@ A prior section 8107, Pub. L. 107–171, title IX, §9007, May 13, 2002, 116 Sta
 
 #### Amendments
 
-<b>2013</b>—Subsec. (g)(3). Pub. L. 112–240 substituted “2013” for “2012”.
+<b>2013</b>—Subsec. (g)(3). Pub. L. 112–240 substituted "2013" for "2012".
 
 #### Effective Date of 2013 Amendment
 

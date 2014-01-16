@@ -40,7 +40,7 @@ Section was formerly classified to section 1068 of this title prior to renumberi
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–244, §308(e)(1), substituted “Tribal Colleges and Universities” for “Native American colleges and universities”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–244, §308(e)(1), substituted "Tribal Colleges and Universities" for "Native American colleges and universities".
 
 Subsec. (d). Pub. L. 105–244, §308(e)(2), added subsec. (d).
 

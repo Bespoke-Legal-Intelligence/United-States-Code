@@ -12,6 +12,8 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 113–6, div. B, title I, Mar. 26, 2013, 127 Stat. 238.
+
 Pub. L. 112–55, div. B, title I, Nov. 18, 2011, 125 Stat. 596.
 
 Pub. L. 111–117, div. B, title I, Dec. 16, 2009, 123 Stat. 3117.

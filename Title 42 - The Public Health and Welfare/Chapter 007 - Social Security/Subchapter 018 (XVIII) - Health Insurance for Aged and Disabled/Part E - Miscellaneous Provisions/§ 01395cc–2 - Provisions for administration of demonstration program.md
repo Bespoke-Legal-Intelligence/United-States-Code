@@ -4,7 +4,7 @@
 
 #### (1) Beneficiary eligibility
 
-&emsp;Except as otherwise provided by the Secretary, an individual shall only be eligible to receive benefits under the program under section 1395cc–1 of this title (in this section referred to as the “demonstration program”) if such individual—
+&emsp;Except as otherwise provided by the Secretary, an individual shall only be eligible to receive benefits under the program under section 1395cc–1 of this title (in this section referred to as the "demonstration program") if such individual—
 
 &emsp;&emsp;(A) is enrolled under the program under part B of this subchapter and entitled to benefits under part A of this subchapter; and
 
@@ -40,7 +40,7 @@
 
 #### (7) Secretary's review of marketing materials
 
-&emsp;An agreement with an individual or entity furnishing services under the demonstration program shall require the individual or entityto guarantee that it will not distribute materials that market items or services under the program without the Secretary's prior review and approval.
+&emsp;An agreement with an individual or entity furnishing services under the demonstration program shall require the individual or entity to guarantee that it will not distribute materials that market items or services under the program without the Secretary's prior review and approval.
 
 #### (8) Payment in full
 
@@ -136,7 +136,7 @@
 
 #### (1) Records, reports, and audits
 
-&emsp;The Secretary is authorized to require entities with agreements to provide health care items or services under the demonstration program, and entities with program administration contracts under subsection (b) of this section, to maintain adequate records, to afford the Secretary access to such records (including for audit purposes), and to furnish such reports and other materials (including audited financial statements and performance data) as the Secretary may require for purposes of implementation, oversight, and evaluation of the program and of individuals’ and entities’ effectiveness in performance of such agreements or contracts.
+&emsp;The Secretary is authorized to require entities with agreements to provide health care items or services under the demonstration program, and entities with program administration contracts under subsection (b) of this section, to maintain adequate records, to afford the Secretary access to such records (including for audit purposes), and to furnish such reports and other materials (including audited financial statements and performance data) as the Secretary may require for purposes of implementation, oversight, and evaluation of the program and of individuals' and entities' effectiveness in performance of such agreements or contracts.
 
 #### (2) Bonuses
 
@@ -162,7 +162,7 @@
 
 #### (d) Limitations on judicial review
 
-The following actions and determinations with respect to the demonstration program shall not be subject to review by a judicial or administrative tribunal:
+The following actions and determinations with respect to the demonstration program shall notbe subject to review by a judicial or administrative tribunal:
 
 &emsp;(1) Limiting the implementation of the program under subsection (a)(2) of this section.
 
@@ -194,11 +194,11 @@ Section 2702 of the Public Health Service Act, referred to in subsec. (c)(3), is
 
 #### Codification
 
-In subsec. (b)(4)(B), “section 6101 of title 41” substituted for “section 5 of title 41, United States Code” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(4)(B), "section 6101 of title 41" substituted for "section 5 of title 41, United States Code" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(7)(D). Pub. L. 108–173 substituted “(c)(2)(B)” for “(c)(2)(A)(ii)”.
+<b>2003</b>—Subsec. (b)(7)(D). Pub. L. 108–173 substituted "(c)(2)(B)" for "(c)(2)(A)(ii)".
 
 #### Change of Name
 

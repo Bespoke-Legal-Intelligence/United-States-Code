@@ -40,7 +40,7 @@ For purposes of this section, a breach shall be treated as discovered by a cover
 
 #### (3) Notice to Secretary
 
-&emsp;Notice shall be provided to the Secretary by covered entities of unsecured protected health information that has been acquired or disclosed in a breach. If the breach was with respect to 500 or more individuals than <sup>1</sup> such notice must be provided immediately. If the breach was with respect to less than 500 individuals, the covered entity may maintain a log of any such breach occurring and annually submit such a log to the Secretary documenting such breaches occurring during the year involved.
+&emsp;Notice shall be provided to the Secretary by covered entities of unsecured protected healthinformation that has been acquired or disclosed in a breach. If the breach was with respect to 500 or more individuals than <sup>1</sup> such notice must be provided immediately. If the breach was with respect to less than 500 individuals, the covered entity may maintain a log of any such breach occurring and annually submit such a log to the Secretary documenting such breaches occurring during the year involved.
 
 #### (4) Posting on HHS public website
 
@@ -70,11 +70,11 @@ If a law enforcement official determines that a notification, notice, or posting
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), for purposes of this section, the term “unsecured protected health information” means protected health information that is not secured through the use of a technology or methodology specified by the Secretary in the guidance issued under paragraph (2).
+&emsp;&emsp;Subject to subparagraph (B), for purposes of this section, the term "unsecured protected health information" means protected health information that is not secured through the use of a technology or methodology specified by the Secretary in the guidance issued under paragraph (2).
 
 #### (B) Exception in case timely guidance not issued
 
-&emsp;&emsp;In the case that the Secretary does not issue guidance under paragraph (2) by the date specified in such paragraph, for purposes of this section, the term “unsecured protected health information” shall mean protected health information that is not secured by a technology standard that renders protected health information unusable, unreadable, or indecipherable to unauthorized individuals and is developed or endorsed by a standards developing organization that is accredited by the American National Standards Institute.
+&emsp;&emsp;In the case that the Secretary does not issue guidance under paragraph (2) by the date specified in such paragraph, for purposes of this section, the term "unsecured protected health information" shall mean protected health information that is not secured by a technology standard that renders protected health information unusable, unreadable, or indecipherable to unauthorized individuals and is developed or endorsed by a standards developing organization that is accredited by the American National Standards Institute.
 
 #### (2) Guidance
 
@@ -104,5 +104,5 @@ To carry out this section, the Secretary of Health and Human Services shall prom
 
 Section 13101 of this Act, referred to in subsec. (h)(2), means section 13101 of div. A of Pub. L. 111–5.
 
-<i><sup>1</sup></i><i> So in orginal. Probably should be “then”.</i>
+<i><sup>1</sup></i><i> So in orginal. Probably should be "then".</i>
 

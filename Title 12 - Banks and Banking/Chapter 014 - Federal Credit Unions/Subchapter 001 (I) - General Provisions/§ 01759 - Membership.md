@@ -46,7 +46,7 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 &emsp;&emsp;(A) the Board determines that the local community, neighborhood, or rural district—
 
-&emsp;&emsp;&emsp;(i) is an “investment area”, as defined in section 4702(16) of this title, and meets such additional requirements as the Board may impose; and
+&emsp;&emsp;&emsp;(i) is an "investment area", as defined in section 4702(16) of this title, and meets such additional requirements as the Board may impose; and
 
 &emsp;&emsp;&emsp;(ii) is underserved, based on data of the Board and the Federal banking agencies (as defined in section 1813 of this title), by other depository institutions (as defined in section 461(b)(1)(A) of this title); and
 
@@ -72,7 +72,7 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 &emsp;&emsp;(B) any group transferred from another credit union—
 
-&emsp;&emsp;&emsp;(i) in connection with a merger or consolidation recommended by the Board or any appropriate State credit union supervisor based on safety and soundness concerns with respect to that other credit union; or
+&emsp;&emsp;&emsp;(i) in connection with a merger or consolidation recommended by the Board orany appropriate State credit union supervisor based on safety and soundness concerns with respect to that other credit union; or
 
 &emsp;&emsp;&emsp;(ii) by the Board in the Board's capacity as conservator or liquidating agent with respect to that other credit union; or
 
@@ -120,7 +120,7 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 #### (1) Definition of well-defined local community, neighborhood, or rural district
 
-&emsp;The Board shall prescribe, by regulation, a definition for the term “well-defined local community, neighborhood, or rural district” for purposes of—
+&emsp;The Board shall prescribe, by regulation, a definition for the term "well-defined local community, neighborhood, or rural district" for purposes of—
 
 &emsp;&emsp;(A) making any determination with regard to the field of membership of a credit union described in subsection (b)(3) of this section; and
 
@@ -130,15 +130,15 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 &emsp;The definition prescribed by the Board under paragraph (1) shall apply with respect to any application to form a new credit union, or to alter or expand the field of membership of an existing credit union, that is filed with the Board after August 7, 1998.
 
-(June 26, 1934, ch. 750, title I, §109, formerly §9, 48 Stat. 1219; July 31, 1946, ch. 711, §2, 60 Stat. 744; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947,12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; renumbered §10 and amended Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 631; Pub. L. 91–206, §2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §109, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, §722, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 105–219, title I, §§101–103, Aug. 7, 1998, 112 Stat. 914–917; Pub. L. 109–351, title VII, §726(9), Oct. 13, 2006, 120 Stat. 2002.)
+(June 26, 1934, ch. 750, title I, §109, formerly §9, 48 Stat. 1219; July 31, 1946, ch. 711, §2, 60 Stat. 744; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; renumbered §10 and amended Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 631; Pub. L. 91–206, §2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §109, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, §722, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 105–219, title I, §§101–103, Aug. 7, 1998, 112 Stat. 914–917; Pub. L. 109–351, title VII, §726(9), Oct. 13, 2006, 120 Stat. 2002.)
 
 #### Amendments
 
 <b>2006</b>—Subsec. (c)(2)(A)(i). Pub. L. 109–351 made technical amendment to reference in original act which appears in text as reference to section 4702(16) of this title.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–219, §101(1)(A), designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b) of this section,” before “Federal credit union membership shall consist of”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–219, §101(1)(A), designated existing provisions as subsec. (a) and inserted heading and "Subject to subsection (b) of this section," before "Federal credit union membership shall consist of".
 
-Pub. L. 105–219, §101(1)(B), which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groups having a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
+Pub. L. 105–219, §101(1)(B), which directed the amendment of subsec. (a) by striking out ", except that Federal credit union membership shall be limited to groups having a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district" after "directors", was executed by striking out such language which began with a semicolon rather than a comma after "directors" to reflect the probable intent of Congress.
 
 Subsecs. (b) to (e). Pub. L. 105–219, §101(2), added subsecs. (b) to (e).
 
@@ -146,13 +146,13 @@ Subsec. (f). Pub. L. 105–219, §102, added subsec. (f).
 
 Subsec. (g). Pub. L. 105–219, §103, added subsec. (g).
 
-<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator”.
+<b>1978</b>—Pub. L. 95–630 substituted "Board" for "Administrator".
 
-<b>1974</b>—Pub. L. 93–383 substituted “a uniform entrance fee if required by the board of directors” for “the entrance fee”.
+<b>1974</b>—Pub. L. 93–383 substituted "a uniform entrance fee if required by the board of directors" for "the entrance fee".
 
-<b>1970</b>—Pub. L. 91–206 substituted “Administrator” for “Director”.
+<b>1970</b>—Pub. L. 91–206 substituted "Administrator" for "Director".
 
-<b>1959</b>—Pub. L. 86–354 substituted “persons” for “person” before “designated”.
+<b>1959</b>—Pub. L. 86–354 substituted "persons" for "person" before "designated".
 
 <b>1946</b>—Act July 31, 1946, inserted sentence at end permitting a Federal credit union to issue shares in joint tenancy with a right of survivorship.
 
@@ -162,9 +162,9 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 #### Report and Congressional Review Requirement for Certain Regulations
 
-Pub. L. 105–219, title II, §205, Aug. 7, 1998, 112 Stat. 923, provided that: “A regulation prescribed by the Board \[National Credit Union Administration Board\] shall be treated as a major rule for purposes of chapter 8 of title 5, United States Code, if the regulation defines, or amends the definition of—
+Pub. L. 105–219, title II, §205, Aug. 7, 1998, 112 Stat. 923, provided that: "A regulation prescribed by the Board \[National Credit Union Administration Board\] shall be treated as a major rule for purposes of chapter 8 of title 5, United States Code, if the regulation defines, or amends the definition of—
 
-&emsp;“(1) the term ‘immediate family or household’ for purposes of section 109(e)(1) of the Federal Credit Union Act \[12 U.S.C. 1759(e)(1)\] (as added by section 101 of this Act); or
+&emsp;"(1) the term 'immediate family or household' for purposes of section 109(e)(1) of the Federal Credit Union Act \[12 U.S.C. 1759(e)(1)\] (as added by section 101 of this Act); or
 
-&emsp;“(2) the term ‘well-defined local community, neighborhood, or rural district’ for purposes of section 109(g) of the Federal Credit Union Act (as added by section 103 of this Act).”
+&emsp;"(2) the term 'well-defined local community, neighborhood, or rural district' for purposes of section 109(g) of the Federal Credit Union Act (as added by section 103 of this Act)."
 

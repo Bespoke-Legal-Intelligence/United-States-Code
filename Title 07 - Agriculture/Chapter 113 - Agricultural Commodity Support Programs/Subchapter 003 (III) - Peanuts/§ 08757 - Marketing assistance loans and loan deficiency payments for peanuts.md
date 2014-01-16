@@ -122,7 +122,7 @@ As a condition of the receipt of a marketing assistance loan under subsection (a
 
 #### (g) Reimbursable agreements and payment of administrative expenses
 
-The Secretary may implement any reimbursable agreements or provide for the payment ofadministrative expenses under this subchapter only in a manner that is consistent with such activities in regard to other commodities.
+The Secretary may implement any reimbursable agreements or provide for the payment of administrative expenses under this subchapter only in a manner that is consistent with such activities in regard to other commodities.
 
 (Pub. L. 110–234, title I, §1307, May 22, 2008, 122 Stat. 974; Pub. L. 110–246, §4(a), title I, §1307, June 18, 2008, 122 Stat. 1664, 1703.)
 

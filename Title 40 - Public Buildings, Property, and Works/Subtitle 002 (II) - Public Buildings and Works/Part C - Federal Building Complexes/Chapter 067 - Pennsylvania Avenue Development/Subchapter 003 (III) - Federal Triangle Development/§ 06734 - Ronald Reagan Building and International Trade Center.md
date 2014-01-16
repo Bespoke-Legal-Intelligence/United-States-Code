@@ -118,7 +118,7 @@ Pub. L. 100–113, §§3(a)(2) (last sentence), 4(b), 5(b)(2)(B), (d), 6, Aug. 2
 
 40:1105(d).
 
-In subsection (b), the words “Ownership of such property and building will be by the United States” in 40:1104(b)(2)(B) are omitted as unnecessary.
+In subsection (b), the words "Ownership of such property and building will be by the United States" in 40:1104(b)(2)(B) are omitted as unnecessary.
 
 In subsection (d), the text of 40:1104(d) (last sentence) is omitted as obsolete.
 
@@ -134,5 +134,5 @@ The Federal Triangle Development Act, referred to in subsec. (f)(2)(B), is Pub. 
 
 #### Reference to Ronald Reagan Building and International Trade Center
 
-Pub. L. 104–68, §2, Dec. 22, 1995, 109 Stat. 766, provided that: “Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 \[now 40 U.S.C. 6734(a)\] shall be deemed to be a reference to the ‘Ronald Reagan Building and International Trade Center’.”
+Pub. L. 104–68, §2, Dec. 22, 1995, 109 Stat. 766, provided that: "Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 \[now 40 U.S.C. 6734(a)\] shall be deemed to be a reference to the 'Ronald Reagan Building and International Trade Center'."
 

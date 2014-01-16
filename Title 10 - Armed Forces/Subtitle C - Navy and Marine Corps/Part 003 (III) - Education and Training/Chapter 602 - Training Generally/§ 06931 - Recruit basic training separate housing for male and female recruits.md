@@ -18,11 +18,11 @@ Construction Planning.—In planning for the construction of housing to be used 
 
 (d)
 
-Basic Training Defined.—In this section, the term “basic training” means the initial entry training programs of the Navy and Marine Corps that constitute the basic training of new recruits.
+Basic Training Defined.—In this section, the term "basic training" means the initial entry training programs of the Navy and Marine Corps that constitute the basic training of new recruits.
 
 (Added Pub. L. 105–261, div. A, title V, §521(b)(1), Oct. 17, 1998, 112 Stat. 2010.)
 
 #### Implementation
 
-Pub. L. 105–261, div. A, title V, §521(b)(3), Oct. 17, 1998, 112 Stat. 2011, provided that: “The Secretary of the Navy shall implement section 6931 of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
+Pub. L. 105–261, div. A, title V, §521(b)(3), Oct. 17, 1998, 112 Stat. 2011, provided that: "The Secretary of the Navy shall implement section 6931 of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999."
 

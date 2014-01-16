@@ -24,7 +24,7 @@
 | [1515\.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001515%20-%20Program%20compliance%20and%20integrity.md) | Program compliance and integrity. |
 | [1516\.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001516%20-%20Funding.md) | Funding. |
 | [1517\.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001517%20-%20Separability.md) | Separability. |
-| [1518\.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001518%20-%20%E2%80%9CAgricultural%20commodity%E2%80%9D%20defined.md) | “Agricultural commodity” defined. |
+| [1518\.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001518%20-%20Agricultural%20commodity%20defined.md) | "Agricultural commodity" defined. |
 | [1519\.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001519%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20I%2C%20%C2%A7196%28j%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20950.md) | Repealed. |
 | [1520\.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001520%20-%20Producer%20eligibility.md) | Producer eligibility. |
 | [1521\.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001521%20-%20Ineligibility%20for%20catastrophic%20risk%20and%20noninsured%20assistance%20payments.md) | Ineligibility for catastrophic risk and noninsured assistance payments. |

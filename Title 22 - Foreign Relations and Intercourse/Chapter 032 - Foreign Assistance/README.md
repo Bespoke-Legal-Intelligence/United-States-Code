@@ -258,7 +258,7 @@
 | [2273\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20006%20%28VI%29%20-%20Central%20America%20Democracy%2C%20Peace%2C%20and%20Development%20Initiative/%C2%A7%2002273%20-%20Peace%20process%20in%20Central%20America.md) | Peace process in Central America. |
 | [2274\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20006%20%28VI%29%20-%20Central%20America%20Democracy%2C%20Peace%2C%20and%20Development%20Initiative/%C2%A7%2002274%20-%20Economic%20assistance%20coordination.md) | Economic assistance coordination. |
 | [2275\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20006%20%28VI%29%20-%20Central%20America%20Democracy%2C%20Peace%2C%20and%20Development%20Initiative/%C2%A7%2002275%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [2276\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20006%20%28VI%29%20-%20Central%20America%20Democracy%2C%20Peace%2C%20and%20Development%20Initiative/%C2%A7%2002276%20-%20%E2%80%9CCentral%20American%20countries%E2%80%9D%20defined.md) | “Central American countries” defined. |
+| [2276\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20006%20%28VI%29%20-%20Central%20America%20Democracy%2C%20Peace%2C%20and%20Development%20Initiative/%C2%A7%2002276%20-%20Central%20American%20countries%20defined.md) | "Central American countries" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -266,7 +266,7 @@
 
 |  |  |
 | :--- | ---: |
-| [2281\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20007%20%28VII%29%20-%20Debt-for-Nature%20Exchanges/%C2%A7%2002281%20-%20%E2%80%9CDebt-for-nature%20exchange%E2%80%9D%20defined.md) | “Debt-for-nature exchange” defined. |
+| [2281\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20007%20%28VII%29%20-%20Debt-for-Nature%20Exchanges/%C2%A7%2002281%20-%20Debt-for-nature%20exchange%20defined.md) | "Debt-for-nature exchange" defined. |
 | [2282\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20007%20%28VII%29%20-%20Debt-for-Nature%20Exchanges/%C2%A7%2002282%20-%20Assistance%20for%20commercial%20debt%20exchanges.md) | Assistance for commercial debt exchanges. |
 | [2283\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20007%20%28VII%29%20-%20Debt-for-Nature%20Exchanges/%C2%A7%2002283%20-%20Eligible%20projects.md) | Eligible projects. |
 | [2284\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20007%20%28VII%29%20-%20Debt-for-Nature%20Exchanges/%C2%A7%2002284%20-%20Eligible%20countries.md) | Eligible countries. |

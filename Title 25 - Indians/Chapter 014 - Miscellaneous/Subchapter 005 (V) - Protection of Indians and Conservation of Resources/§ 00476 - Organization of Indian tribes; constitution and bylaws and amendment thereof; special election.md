@@ -62,13 +62,13 @@ Act of June 18, 1934, and this Act, referred to in subsecs. (f) and (h), is act 
 
 #### Codification
 
-May 31, 1994, referred to in subsec. (g), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103–263, which enacted subsec. (g) of this section, to reflect the probable intent of Congress.
+May 31, 1994, referred to in subsec. (g), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 103–263, which enacted subsec. (g) of this section, to reflect the probable intent of Congress.
 
 #### Amendments
 
 <b>2004</b>—Subsec. (h). Pub. L. 108–204 added subsec. (h).
 
-<b>2000</b>—Subsec. (e). Pub. L. 106–179 struck out “, the choice of counsel and fixing of fees to be subject to the approval of the Secretary” after “To employ legal counsel”.
+<b>2000</b>—Subsec. (e). Pub. L. 106–179 struck out ", the choice of counsel and fixing of fees to be subject to the approval of the Secretary" after "To employ legal counsel".
 
 <b>1994</b>—Subsecs. (f), (g). Pub. L. 103–263 added subsecs. (f) and (g).
 
@@ -76,15 +76,15 @@ May 31, 1994, referred to in subsec. (g), was in the original “the date of ena
 
 #### Definitions Applicable
 
-Pub. L. 100–581, title I, §102, Nov. 1, 1988, 102 Stat. 2939, provided that: “For the purpose of this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out below\], the term—
+Pub. L. 100–581, title I, §102, Nov. 1, 1988, 102 Stat. 2939, provided that: "For the purpose of this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out below\], the term—
 
-&emsp;“(1) ‘applicable laws’ means any treaty, Executive order or Act of Congress or any final decision of the Federal courts which are applicable to the tribe, and any other laws which are applicable to the tribe pursuant to an Act of Congress or by any final decision of the Federal courts;
+&emsp;"(1) 'applicable laws' means any treaty, Executive order or Act of Congress or any final decision of the Federal courts which are applicable to the tribe, and any other laws which are applicable to the tribe pursuant to an Act of Congress or by any final decision of the Federal courts;
 
-&emsp;“(2) ‘appropriate tribal request’ means receipt in the Area Office of the Bureau of Indian Affairs having administrative jurisdiction over the requesting tribe, of a duly enacted tribal resolution requesting a Secretarial election as well as a copy of the proposed tribal constitution and bylaws, amendment, or revocation action;
+&emsp;"(2) 'appropriate tribal request' means receipt in the Area Office of the Bureau of Indian Affairs having administrative jurisdiction over the requesting tribe, of a duly enacted tribal resolution requesting a Secretarial election as well as a copy of the proposed tribal constitution and bylaws, amendment, or revocation action;
 
-&emsp;“(3) ‘Secretary’ means the Secretary of the Interior.”
+&emsp;"(3) 'Secretary' means the Secretary of the Interior."
 
 #### Amendment of Tribal Constitution and Bylaws
 
-Pub. L. 100–581, title I, §103, Nov. 1, 1988, 102 Stat. 2939, provided that: “Nothing in this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out above\] is intended to amend, revoke, or affect any tribal constitution, bylaw, or amendment ratified and approved prior to this Act.”
+Pub. L. 100–581, title I, §103, Nov. 1, 1988, 102 Stat. 2939, provided that: "Nothing in this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out above\] is intended to amend, revoke, or affect any tribal constitution, bylaw, or amendment ratified and approved prior to this Act."
 

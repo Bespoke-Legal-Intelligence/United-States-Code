@@ -22,7 +22,7 @@ The members of the Plant Variety Protection Board shall serve without compensati
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–349 substituted “the designee of the Secretary shall act as chairperson” for “his designee shall act as chairman” in last sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–349 substituted "the designee of the Secretary shall act as chairperson" for "his designee shall act as chairman" in last sentence.
 
 #### Effective Date of 1994 Amendment
 

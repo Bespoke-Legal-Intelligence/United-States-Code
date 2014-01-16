@@ -56,13 +56,13 @@ The regulations prescribed pursuant to subsection (a) of this section shall incl
 
 &emsp;&emsp;Regulations prescribed under subparagraph (A) shall encourage the use of disclosure that is conspicuous, simple, direct, and readily understandable, such as the following:
 
-&emsp;&emsp;&emsp;(i) “NOT FDIC—INSURED”.
+&emsp;&emsp;&emsp;(i) "NOT FDIC—INSURED".
 
-&emsp;&emsp;&emsp;(ii) “NOT GUARANTEED BY THE BANK”.
+&emsp;&emsp;&emsp;(ii) "NOT GUARANTEED BY THE BANK".
 
-&emsp;&emsp;&emsp;(iii) “MAY GO DOWN IN VALUE”.
+&emsp;&emsp;&emsp;(iii) "MAY GO DOWN IN VALUE".
 
-&emsp;&emsp;&emsp;(iv) “NOT INSURED BY ANY GOVERNMENT AGENCY”.
+&emsp;&emsp;&emsp;(iv) "NOT INSURED BY ANY GOVERNMENT AGENCY".
 
 #### (C) Limitation
 
@@ -128,7 +128,7 @@ The regulations prescribed pursuant to subsection (a) of this section shall incl
 
 #### (3) Domestic violence defined
 
-&emsp;For purposes of this subsection, the term “domestic violence” means the occurrence of one or more of the following acts by a current or former family member, household member, intimate partner, or caretaker:
+&emsp;For purposes of this subsection, the term "domestic violence" means the occurrence of one or more of the following acts by a current or former family member, household member, intimate partner, or caretaker:
 
 &emsp;&emsp;(A) Attempting to cause or causing or threatening another person physical harm, severe emotional distress, psychological trauma, rape, or sexual assault.
 

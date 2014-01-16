@@ -32,15 +32,15 @@ For prior section 3241 and prior section 1455 of Pub. L. 95–113, see note set 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7128(1), struck out “(or grants without regard to any requirement for competition)” after “competitive grants”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7128(1), struck out "(or grants without regard to any requirement for competition)" after "competitive grants".
 
-Subsec. (b)(1). Pub. L. 110–246, §7128(2), struck out “of consortia” after “activities”.
+Subsec. (b)(1). Pub. L. 110–246, §7128(2), struck out "of consortia" after "activities".
 
-Subsec. (c). Pub. L. 110–246, §7128(3), substituted “$40,000,000” for “$20,000,000” and “2012” for “2007”.
+Subsec. (c). Pub. L. 110–246, §7128(3), substituted "$40,000,000" for "$20,000,000" and "2012" for "2007".
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–171 substituted "2007" for "2002".
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–185 substituted “each of fiscal years 1997 through 2002” for “fiscal year 1997”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–185 substituted "each of fiscal years 1997 through 2002" for "fiscal year 1997".
 
 #### Effective Date of 2008 Amendment
 

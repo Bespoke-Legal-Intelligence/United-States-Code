@@ -6,7 +6,7 @@ Time for Transmittal.—The Secretary of Defense shall transmit to Congress the 
 
 (b)
 
-Defense Authorization Request Defined.—In this section, the term “defense authorization request”, with respect to a fiscal year, means a legislative proposal submitted to Congress for the enactment of the following:
+Defense Authorization Request Defined.—In this section, the term "defense authorization request", with respect to a fiscal year, means a legislative proposal submitted to Congress for the enactment of the following:
 
 &emsp;(1) Authorizations of appropriations for that fiscal year, as required by section 114 of this title.
 

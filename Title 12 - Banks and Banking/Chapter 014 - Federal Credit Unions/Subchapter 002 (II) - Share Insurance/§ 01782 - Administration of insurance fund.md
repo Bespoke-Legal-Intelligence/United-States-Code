@@ -6,7 +6,7 @@
 
 (2) The Board may call for such other reports as it may from time to time require.
 
-(3) The Board may require reports of condition to be published in such manner, not inconsistent with any applicable law, as it may direct. Any insured credit union which maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to submit or publish any report required under this subsection or section 1756 of this title, within the period of time specified by the Board, or submits or publishes any false or misleading report or information, or inadvertently transmits or publishes any report which is minimally late, shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. The insured credit union shall have the burden of proving that an error was inadvertent and that a report was inadvertently transmitted or published late. Any insured credit union which fails to submit or publish any report required under thissubsection or section 1756 of this title, within the period of time specified by the Board, or submits or publishes any false or misleading report or information, in a manner not described in the 2nd preceding sentence shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected. Notwithstanding the preceding sentence, if any insured credit union knowingly or with reckless disregard for the accuracy of any information or report described in such sentence submits or publishes any false or misleading report or information, the Board may assess a penalty of not more than $1,000,000 or 1 percent of total assets of such credit union, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected. Any penalty imposed under any of the 4 preceding sentences shall be assessed and collected by the Board in the manner provided in section 1786(k)(2) of this title (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section. Any insured credit union against which any penalty is assessed under this subsection shall be afforded an agency hearing if such insured credit union submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1786(j) of this title shall apply to any proceeding under this subsection.
+(3) The Board may require reports of condition to be published in such manner, not inconsistent with any applicable law, as it may direct. Any insured credit union which maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to submit or publish any report required under this subsection or section 1756 of this title, within the period of time specified by the Board, or submits or publishes any false or misleading report or information, or inadvertently transmits or publishes any report which is minimally late, shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. The insured credit union shall have the burden of proving that an error was inadvertent and that a report was inadvertently transmitted or published late. Any insured credit union which fails to submit or publish any report required under this subsection or section 1756 of this title, within the period of time specified by the Board, or submits or publishes any false or misleading report or information, in a manner not described in the 2nd preceding sentence shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected. Notwithstanding the preceding sentence, if any insured credit union knowingly or with reckless disregard for the accuracy of any information or report described in such sentence submits or publishes any false or misleading report or information, the Board may assess a penalty of not more than $1,000,000 or 1 percent of total assets of such credit union, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected. Any penalty imposed under any of the 4 preceding sentences shall be assessed and collected by the Board in the manner provided in section 1786(k)(2) of this title (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section. Any insured credit union against which any penalty is assessed under this subsection shall be afforded an agency hearing if such insured credit union submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1786(j) of this title shall apply to any proceeding under this subsection.
 
 (4) The Board may accept any report of condition made to any commission, board, or authority having supervision of a State-chartered credit union and may furnish to any such commission, board, or authority reports of condition made to the Board.
 
@@ -72,7 +72,7 @@ Additional information.—In addition to the copies of the reports required to b
 
 &emsp;&emsp;(i) a copy of any supervisory memorandum of understanding with such credit union and any written agreement between the Board or a State regulatory agency and the credit union which is in effect during the period covered by the audit; and
 
-&emsp;&emsp;(ii) a report of any action initiated or taken by the Board during such period under subsection (e), (f), (g), (i), (l), or (q) of section 1786 of this title, or any similar action takenby a State regulatory agency under State law, or any other civil money penalty assessed by the Board under this chapter, with respect to—
+&emsp;&emsp;(ii) a report of any action initiated or taken by the Board during such period under subsection (e), (f), (g), (i), (l), or (q) of section 1786 of this title, or any similar action taken by a State regulatory agency under State law, or any other civil money penalty assessed by the Board under this chapter, with respect to—
 
 &emsp;&emsp;&emsp;(I) the credit union; or
 
@@ -80,7 +80,7 @@ Additional information.—In addition to the copies of the reports required to b
 
 (8)
 
-Data sharing with other agencies and persons.—In addition to reports of examination, reports of condition, and other reports required to be regularly provided to the Board (with respect to all insured credit unions, including a credit union for which the Corporation has been appointed conservator or liquidating agent) or an appropriate State commission, board, or authority having supervision of a State-chartered credit union, the Board may, in the discretion of the Board, furnish any report of examination or other confidential supervisory information concerning any credit union or other entity examined by the Board under authority of any Federal law, to—
+Data sharing with other agencies and persons.—In addition to reports of examination, reports of condition, and other reports required to be regularly provided to the Board (with respect to all insured credit unions, including a credit union for which the Corporation has been appointed conservator or liquidating agent) or an appropriate State commission, board, or authority having supervision of a State-charteredcredit union, the Board may, in the discretion of the Board, furnish any report of examination or other confidential supervisory information concerning any credit union or other entity examined by the Board under authority of any Federal law, to—
 
 &emsp;(A) any other Federal or State agency or authority with supervisory or regulatory authority over the credit union or other entity;
 
@@ -196,7 +196,7 @@ Amount of distribution.—The Board shall distribute under subparagraph (A) the 
 
 &emsp;(C)
 
-Calculation based on certified statements.—In calculating the Fund's equity ratio and available assets ratio for purposes of this paragraph, the Board shall determine the aggregate amount of the insured shares in all insured credit unions from insured credit unions certified statements under subsection (b) of this section of this section for the final reporting period of the calendar year referred to in subparagraph (A).
+Calculation based on certified statements.—In calculating the Fund's equity ratio and available assets ratio for purposes of this paragraph, the Board shall determine the aggregate amount of the insured shares in all insured credit unions from insured credit unions certified statements under subsection (b) of this section for the final reporting period of the calendar year referred to in subparagraph (A).
 
 (4)
 
@@ -244,7 +244,7 @@ Hearing.—Any insured credit union against which any penalty is assessed under 
 
 &emsp;(F)
 
-Special rule for disputed payments.—No penalty may be assessed for the failure of any insured credit union to pay any deposit or premium for insurance if—
+Special rule for disputed payments.—No penalty may be assessed for the failure ofany insured credit union to pay any deposit or premium for insurance if—
 
 &emsp;&emsp;(i) the failure is due to a dispute between the credit union and the Board over the amount of the deposit or premium which is due from the credit union; and
 
@@ -270,7 +270,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Available assets ratio
 
-&emsp;The term “available assets ratio”, when applied to the Fund, means the ratio of—
+&emsp;The term "available assets ratio", when applied to the Fund, means the ratio of—
 
 &emsp;&emsp;(A) the amount determined by subtracting—
 
@@ -282,101 +282,101 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Equity ratio
 
-&emsp;The term “equity ratio”, which shall be calculated using the financial statements of the Fund alone, without any consolidation or combination with the financial statements of any other fund or entity, means the ratio of—
+&emsp;The term "equity ratio", which shall be calculated using the financial statements of the Fund alone, without any consolidation or combination with the financial statements of any other fund or entity, means the ratio of—
 
-&emsp;&emsp;(A) the amount of Fund capitalization, including insured credit unions’ 1 percent capitalization deposits and the retained earnings balance of the Fund (net of direct liabilities of the Fund and contingent liabilities for which no provision for losses has been made); to
+&emsp;&emsp;(A) the amount of Fund capitalization, including insured credit unions' 1 percent capitalization deposits and the retained earnings balance of the Fund (net of direct liabilities of the Fund and contingent liabilities for which no provision for losses has been made); to
 
 &emsp;&emsp;(B) the aggregate amount of the insured shares in all insured credit unions.
 
 #### (3) Insured shares
 
-&emsp;The term “insured shares”, when applied to this section, includes share, share draft, share certificate, and other similar accounts as determined by the Board, but does not include amounts exceeding the insured account limit set forth in section 1787(k)(1) of this title.
+&emsp;The term "insured shares", when applied to this section, includes share, share draft, share certificate, and other similar accounts as determined by the Board, but does not include amounts exceeding the insured account limit set forth in section 1787(k)(1) of this title.
 
 #### (4) Normal operating level
 
-&emsp;The term “normal operating level”, when applied to the Fund, means an equity ratio specified by the Board, which shall be not less than 1.2 percent and not more than 1.5 percent.
+&emsp;The term "normal operating level", when applied to the Fund, means an equity ratio specified by the Board, which shall be not less than 1.2 percent and not more than 1.5 percent.
 
 (June 26, 1934, ch. 750, title II, §202, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 995; amended Pub. L. 93–383, title VII, §727, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–630, title V, §§502(b), 505, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 97–320, title V, §§528, 529, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 97–457, §29, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 98–369, div. B, title VIII, §§2802–2810, July 18, 1984, 98 Stat. 1204, 1205; Pub. L. 101–73, title IX, §§911(f), 919, 931(b), Aug. 9, 1989, 103 Stat. 482, 488, 493; Pub. L. 102–242, title III, §313(b), Dec. 19, 1991, 105 Stat. 2369; Pub. L. 102–550, title XVI, §1605(b)(3), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 105–219, title II, §201, title III, §302(a), Aug. 7, 1998, 112 Stat. 918, 931; Pub. L. 109–351, title VII, §§707(b), 726(12), Oct. 13, 2006, 120 Stat. 1987, 2002; Pub. L. 111–22, div. A, title II, §204(e), (f)(2), May 20, 2009, 123 Stat. 1651, 1653; Pub. L. 111–382, §2, Jan. 4, 2011, 124 Stat. 4135.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (h)(2). Pub. L. 111–382 substituted “which shall be calculated using the financial statements of the Fund alone, without any consolidation or combination with the financial statements of any other fund or entity,” for “when applied to the Fund,” in introductory provisions.
+<b>2011</b>—Subsec. (h)(2). Pub. L. 111–382 substituted "which shall be calculated using the financial statements of the Fund alone, without any consolidation or combination with the financial statements of any other fund or entity," for "when applied to the Fund," in introductory provisions.
 
 <b>2009</b>—Subsec. (c)(2)(D). Pub. L. 111–22, §204(e), added subpar. (D).
 
-Subsec. (c)(3)(A). Pub. L. 111–22, §204(f)(2), inserted “, subject to the requirements of section 1790e(e) of this title,” after “The Board shall” in introductory provisions.
+Subsec. (c)(3)(A). Pub. L. 111–22, §204(f)(2), inserted ", subject to the requirements of section 1790e(e) of this title," after "The Board shall" in introductory provisions.
 
 <b>2006</b>—Subsec. (a)(8). Pub. L. 109–351, §707(b), added par. (8).
 
-Subsec. (h)(3). Pub. L. 109–351, §726(12), substituted “section 1787(k)(1) of this title” for “section 1787(c)(1) of this title”.
+Subsec. (h)(3). Pub. L. 109–351, §726(12), substituted "section 1787(k)(1) of this title" for "section 1787(c)(1) of this title".
 
-<b>1998</b>—Subsec. (a)(6). Pub. L. 105–219, §201, substituted “subparagraph (A) or (D)” for “subparagraph (A)” in subpar. (B) and added subpars. (C) and (D).
+<b>1998</b>—Subsec. (a)(6). Pub. L. 105–219, §201, substituted "subparagraph (A) or (D)" for "subparagraph (A)" in subpar. (B) and added subpars. (C) and (D).
 
 Subsec. (b). Pub. L. 105–219, §302(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows:
 
-“(b)(1) For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.
+"(b)(1) For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.
 
-“(2) The certified statements required to be filed with the Board pursuant to this subsection shall be in such form and shall set forth such supporting information as the Board shall require.
+"(2) The certified statements required to be filed with the Board pursuant to this subsection shall be in such form and shall set forth such supporting information as the Board shall require.
 
-“(3) Each such statement shall be certified by the president of the credit union, or by any officer of the credit union designated by its board of directors, that to the best of his knowledge and belief that statement is true, correct, and complete and in accordance with this subchapter and regulations issued thereunder.”
+"(3) Each such statement shall be certified by the president of the credit union, or by any officer of the credit union designated by its board of directors, that to the best of his knowledge and belief that statement is true, correct, and complete and in accordance with this subchapter and regulations issued thereunder."
 
-Subsec. (c)(1)(A)(iii). Pub. L. 105–219, §302(a)(2), added cl. (iii) and struck out former cl. (iii) which read as follows: “The amount of each insured credit union's deposit shall be adjusted annually, in accordance with procedures determined by the Board, to reflect changes in the credit union's insured shares.”
+Subsec. (c)(1)(A)(iii). Pub. L. 105–219, §302(a)(2), added cl. (iii) and struck out former cl. (iii) which read as follows: "The amount of each insured credit union's deposit shall be adjusted annually, in accordance with procedures determined by the Board, to reflect changes in the credit union's insured shares."
 
 Subsec. (c)(2), (3). Pub. L. 105–219, §302(a)(3), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
-“(2) Each insured credit union, at such time as the Board prescribes, shall pay to the fund a premium charge for insurance equal to one–twelfth of 1 per centum of the total amount of the insured shares in such credit union at the close of the preceding insurance year.
+"(2) Each insured credit union, at such time as the Board prescribes, shall pay to the fund a premium charge for insurance equal to one–twelfth of 1 per centum of the total amount of the insured shares in such credit union at the close of the preceding insurance year.
 
-“(3) When, at the end of a given insurance year, any loans to the fund from the Federal Government and the interest thereon have been repaid and the equity of the fund exceeds the normal operating level, the Board shall effect for that insurance year a pro rata distribution to insured credit unions of an amount sufficient to reduce the equity in the fund to its normal operating level.”
+"(3) When, at the end of a given insurance year, any loans to the fund from the Federal Government and the interest thereon have been repaid and the equity of the fund exceeds the normal operating level, the Board shall effect for that insurance year a pro rata distribution to insured credit unions of an amount sufficient to reduce the equity in the fund to its normal operating level."
 
 Subsec. (c)(4). Pub. L. 105–219, §302(a)(4), added par. (4).
 
-Subsec. (h). Pub. L. 105–219, §302(a)(5), added subsec. (h) and struck out former subsec. (h) which read as follows: “For the purposes of this section—
+Subsec. (h). Pub. L. 105–219, §302(a)(5), added subsec. (h) and struck out former subsec. (h) which read as follows: "For the purposes of this section—
 
-&emsp;“(1) the term ‘insurance year’ means the period beginning on January 1 and ending on the following December 31, both dates inclusive, unless otherwise prescribed by the Board;
+&emsp;"(1) the term 'insurance year' means the period beginning on January 1 and ending on the following December 31, both dates inclusive, unless otherwise prescribed by the Board;
 
-&emsp;“(2) the term ‘normal operating level’, when applied to the fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine; and
+&emsp;"(2) the term 'normal operating level', when applied to the fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine; and
 
-&emsp;“(3) the term ‘insured shares’ when applied to this section includes share, share draft, share certificate and other similar accounts as determined by the Board, but does not include amounts in excess of the insured account limit set forth in section 1787(c)(1) of this title.”
+&emsp;"(3) the term 'insured shares' when applied to this section includes share, share draft, share certificate and other similar accounts as determined by the Board, but does not include amounts in excess of the insured account limit set forth in section 1787(c)(1) of this title."
 
-<b>1992</b>—Subsec. (d)(2). Pub. L. 102–550, in subpar. (C), substituted “insured credit union” for “insured depository institution”, struck out “or” after “subsection (b)(1) of this section”, and substituted “Board” for “Corporation” and “assets of the credit union” for “assets of the institution”, in subpar. (D), substituted “Board” for “Corporation”, and in subpar. (E), substituted “insured credit union” for “insured depository institution” and “if the credit union” for “if the institution”.
+<b>1992</b>—Subsec. (d)(2). Pub. L. 102–550, in subpar. (C), substituted "insured credit union" for "insured depository institution", struck out "or" after "subsection (b)(1) of this section", and substituted "Board" for "Corporation" and "assets of the credit union" for "assets of the institution", in subpar. (D), substituted "Board" for "Corporation", and in subpar. (E), substituted "insured credit union" for "insured depository institution" and "if the credit union" for "if the institution".
 
-<b>1991</b>—Subsec. (d)(2). Pub. L. 102–242 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any insured credit union which willfully fails or refuses to file any certified statement or to pay its deposit or any premium charge for insurance required under this subchapter shall be subject to a penalty of not more than $100 for each day that such violation continues, which penalty the Board may recover for its use. The provisions of this paragraph shall not be applicable in any case in which the refusal to pay its deposit or the premium charge for insurance is due to a dispute between the insured credit union and the Board over the amount of its deposit or the premium charge due to the fund if the credit union deposits security satisfactory to the Board for payment of its deposit or the premium charge upon final determination of the issue.”
+<b>1991</b>—Subsec. (d)(2). Pub. L. 102–242 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Any insured credit union which willfully fails or refuses to file any certified statement or to pay its deposit or any premium charge for insurance required under this subchapter shall be subject to a penalty of not more than $100 for each day that such violation continues, which penalty the Board may recover for its use. The provisions of this paragraph shall not be applicable in any case in which the refusal to pay its deposit or the premium charge for insurance is due to a dispute between the insured credit union and the Board over the amount of its deposit or the premium charge due to the fund if the credit union deposits security satisfactory to the Board for payment of its deposit or the premium charge upon final determination of the issue."
 
-<b>1989</b>—Subsec. (a)(3). Pub. L. 101–73, §911(f), inserted provisions relating to penalties and agency hearings and struck out at end: “Every insured credit union which willfully fails to make or publish any such report within ten days shall be subject to a penalty of not more than $100 for each day of such failure, recoverable by the Board for its use.”
+<b>1989</b>—Subsec. (a)(3). Pub. L. 101–73, §911(f), inserted provisions relating to penalties and agency hearings and struck out at end: "Every insured credit union which willfully fails to make or publish any such report within ten days shall be subject to a penalty of not more than $100 for each day of such failure, recoverable by the Board for its use."
 
 Subsec. (a)(6). Pub. L. 101–73, §919, added par. (6).
 
 Subsec. (a)(7). Pub. L. 101–73, §931(b), added par. (7).
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–369, §2802, in amending subsec. (b) generally, revised existing provisions into numbered pars. (1) to (3) and in par. (1) substituted “For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.” for “On or before January 31 of each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board a certified statement showing the total amount of the member accounts in the credit union at the close of the preceding insurance year and the amount of the premium charge for insurance due to the fund for that year, as computed under subsection (c) of this section.”
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §2802, in amending subsec. (b) generally, revised existing provisions into numbered pars. (1) to (3) and in par. (1) substituted "For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section." for "On or before January 31 of each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board a certified statement showing the total amount of the member accounts in the credit union at the close of the preceding insurance year and the amount of the premium charge for insurance due to the fund for that year, as computed under subsection (c) of this section."
 
 Subsec. (c)(1). Pub. L. 98–369, §2803(6), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (c)(2). Pub. L. 98–369, §2803(3)–(5), substituted “Each insured credit union, at such time as the Board prescribes” for “Except as provided in paragraph (2) of this subsection, each insured credit union, on or before January 31 of each insurance year” and “insured shares” for “member accounts”.
+Subsec. (c)(2). Pub. L. 98–369, §2803(3)–(5), substituted "Each insured credit union, at such time as the Board prescribes" for "Except as provided in paragraph (2) of this subsection, each insured credit union, on or before January 31 of each insurance year" and "insured shares" for "member accounts".
 
 Pub. L. 98–369, §2803(1), (2), redesignated par. (1) as (2). Former par. (2), which related to payment of a premium charge for insurance by each credit union in existence prior to Oct. 19, 1970, and insured under this subchapter after January 1 of any insurance, was struck out.
 
-Subsec. (c)(3). Pub. L. 98–369, §2804, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “When any loans to the fund from the Federal Government and the interest thereon have been repaid and the amount in the fund equals or exceeds the normal operating level, the Board may reduce the premium charge for insurance, but not below the amount necessary, in its judgment, to maintain the fund at the normal operating level. Any such reduction shall be effective only so long as the amount in the fund equals or exceeds the normal operating level and no loan to the fund from the Federal Government is outstanding.”
+Subsec. (c)(3). Pub. L. 98–369, §2804, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "When any loans to the fund from the Federal Government and the interest thereon have been repaid and the amount in the fund equals or exceeds the normal operating level, the Board may reduce the premium charge for insurance, but not below the amount necessary, in its judgment, to maintain the fund at the normal operating level. Any such reduction shall be effective only so long as the amount in the fund equals or exceeds the normal operating level and no loan to the fund from the Federal Government is outstanding."
 
-Subsec. (c)(4). Pub. L. 98–369, §2805, struck out par. (4) which provided that “If in any year expenditures from the fund exceed the income of the fund, the Board may require each insured credit union to pay to the fund for such year, in addition to the regular premium charge for insurance payable under paragraph (1), (2), or (3) of this subsection, a special premium charge which shall not exceed an amount equal to the amount of the regular premium charge”.
+Subsec. (c)(4). Pub. L. 98–369, §2805, struck out par. (4) which provided that "If in any year expenditures from the fund exceed the income of the fund, the Board may require each insured credit union to pay to the fund for such year, in addition to the regular premium charge for insurance payable under paragraph (1), (2), or (3) of this subsection, a special premium charge which shall not exceed an amount equal to the amount of the regular premium charge".
 
-Subsec. (d)(1), (2). Pub. L. 98–369, §2806(a)(1), inserted “its deposit or” wherever appearing.
+Subsec. (d)(1), (2). Pub. L. 98–369, §2806(a)(1), inserted "its deposit or" wherever appearing.
 
-Subsec. (d)(3). Pub. L. 98–369, §2806(a), inserted “its deposit or” wherever appearing and substituted “insured shares” for “member accounts”.
+Subsec. (d)(3). Pub. L. 98–369, §2806(a), inserted "its deposit or" wherever appearing and substituted "insured shares" for "member accounts".
 
-Subsec. (e). Pub. L. 98–369, §2806(a)(1), (b)(1), (2), inserted “its deposit or” and “deposit or” wherever appearing.
+Subsec. (e). Pub. L. 98–369, §2806(a)(1), (b)(1), (2), inserted "its deposit or" and "deposit or" wherever appearing.
 
-Subsec. (f). Pub. L. 98–369, §2806(a)(1), (b)(3), inserted “its deposit or” and “deposit or”.
+Subsec. (f). Pub. L. 98–369, §2806(a)(1), (b)(3), inserted "its deposit or" and "deposit or".
 
-Subsec. (g). Pub. L. 98–369, §2807, inserted “and deposit” and “deposit or adjustment thereof or any” in two places.
+Subsec. (g). Pub. L. 98–369, §2807, inserted "and deposit" and "deposit or adjustment thereof or any" in two places.
 
-Subsec. (h)(1). Pub. L. 98–369, §2808, inserted “, unless otherwise prescribed by the Board”.
+Subsec. (h)(1). Pub. L. 98–369, §2808, inserted ", unless otherwise prescribed by the Board".
 
-Subsec. (h)(2). Pub. L. 98–369, §2809, in amending par. (2) generally, substituted “fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine” for “Fund, means an amount equal to 1 per centum of the aggregate amount of the member accounts in all insured credit unions”.
+Subsec. (h)(2). Pub. L. 98–369, §2809, in amending par. (2) generally, substituted "fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine" for "Fund, means an amount equal to 1 per centum of the aggregate amount of the member accounts in all insured credit unions".
 
-Subsec. (h)(3). Pub. L. 98–369, §2810, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘members accounts’ when applied to the premium charge for insurance of accounts shall not include amounts received from other credit unions, the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose, in excess of the insured account limit set forth in section 1787(c)(1) of this title;”.
+Subsec. (h)(3). Pub. L. 98–369, §2810, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the term 'members accounts' when applied to the premium charge for insurance of accounts shall not include amounts received from other credit unions, the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose, in excess of the insured account limit set forth in section 1787(c)(1) of this title;".
 
-<b>1983</b>—Subsec. (c)(1). Pub. L. 97–457 substituted “paragraph (2)” for “paragraphs (2) and (3)” after “except as provided in”.
+<b>1983</b>—Subsec. (c)(1). Pub. L. 97–457 substituted "paragraph (2)" for "paragraphs (2) and (3)" after "except as provided in".
 
 <b>1982</b>—Subsec. (c)(3). Pub. L. 97–320, §529, redesignated par. (4) as (3). Former (3), which set forth rules for computing the insurance premiums due from credit unions chartered after Oct. 19, 1970, that became insured in the insurance year of their charter, was struck out.
 
@@ -384,19 +384,19 @@ Subsec. (c)(4), (5). Pub. L. 97–320, §529, redesignated par. (5) as (4). Form
 
 Subsec. (c)(6). Pub. L. 97–320, §529, struck out par. (6) which set forth rules for payment of insurance rebates to insured credit unions closed for liquidation because of insolvency or otherwise.
 
-Subsec. (h)(3). Pub. L. 97–320, §528, substituted “ ‘members accounts’ ” for “ ‘member account’ ”, struck out “federally insured” after “received from other”, and inserted “, the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose,” after “credit unions”.
+Subsec. (h)(3). Pub. L. 97–320, §528, substituted " 'members accounts' " for " 'member account' ", struck out "federally insured" after "received from other", and inserted ", the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose," after "credit unions".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–630, §§502(b), 505(a), substituted “Board” for “Administrator” wherever appearing; “it” for “him” and “such officer's knowledge” for “his knowledge” in par. (1); “reports as it” for “reports as he” in par. (2); and “it may direct” for “he may direct” and “for its use” for “for his use” in par. (3).
+<b>1978</b>—Subsec. (a). Pub. L. 95–630, §§502(b), 505(a), substituted "Board" for "Administrator" wherever appearing; "it" for "him" and "such officer's knowledge" for "his knowledge" in par. (1); "reports as it" for "reports as he" in par. (2); and "it may direct" for "he may direct" and "for its use" for "for his use" in par. (3).
 
-Subsecs. (b) to (g). Pub. L. 95–630, §502(b), substituted “Board” for “Administrator” wherever appearing, and “its” for “his” where appropriate.
+Subsecs. (b) to (g). Pub. L. 95–630, §502(b), substituted "Board" for "Administrator" wherever appearing, and "its" for "his" where appropriate.
 
-Subsec. (h)(3). Pub. L. 95–630, §505(b), substituted “The term ‘member account’ when” for “the term ‘members accounts’ when”, struck out “of federally insured credit unions” after “of accounts”, and inserted “received from other federally insured credit unions” after “not include amounts”.
+Subsec. (h)(3). Pub. L. 95–630, §505(b), substituted "The term 'member account' when" for "the term 'members accounts' when", struck out "of federally insured credit unions" after "of accounts", and inserted "received from other federally insured credit unions" after "not include amounts".
 
 <b>1974</b>—Subsec. (h)(3). Pub. L. 93–383 added par. (3).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–219, title III, §302(b), Aug. 7, 1998, 112 Stat. 934, provided that: “This section \[amending this section\] and the amendments made by this section shall become effective on January 1 of the first calendar year beginning more than 180 days after the date of enactment of this Act \[Aug. 7, 1998\].”
+Pub. L. 105–219, title III, §302(b), Aug. 7, 1998, 112 Stat. 934, provided that: "This section \[amending this section\] and the amendments made by this section shall become effective on January 1 of the first calendar year beginning more than 180 days after the date of enactment of this Act \[Aug. 7, 1998\]."
 
 #### Effective Date of 1992 Amendment
 
@@ -410,5 +410,5 @@ Amendment by section 911(f) of Pub. L. 101–73 applicable with respect to repor
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “De minimis”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "De minimis".</i>
 

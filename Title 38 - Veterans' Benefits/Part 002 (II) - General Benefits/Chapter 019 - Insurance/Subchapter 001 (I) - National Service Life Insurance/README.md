@@ -1,0 +1,37 @@
+### SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 01901 - Definitions](%C2%A7%2001901%20-%20Definitions.md)
+- [&sect; 01902 - Premium rates and policy values](%C2%A7%2001902%20-%20Premium%20rates%20and%20policy%20values.md)
+- [&sect; 01903 - Amount of insurance](%C2%A7%2001903%20-%20Amount%20of%20insurance.md)
+- [&sect; 01904 - Plans of insurance](%C2%A7%2001904%20-%20Plans%20of%20insurance.md)
+- [&sect; 01905 - Renewal](%C2%A7%2001905%20-%20Renewal.md)
+- [&sect; 01906 - Policy provisions](%C2%A7%2001906%20-%20Policy%20provisions.md)
+- [&sect; 01907 - Payment or use of dividends](%C2%A7%2001907%20-%20Payment%20or%20use%20of%20dividends.md)
+- [&sect; 01908 - Premium payments](%C2%A7%2001908%20-%20Premium%20payments.md)
+- [&sect; 01909 - Effective date of insurance](%C2%A7%2001909%20-%20Effective%20date%20of%20insurance.md)
+- [&sect; 01910 - Incontestability](%C2%A7%2001910%20-%20Incontestability.md)
+- [&sect; 01911 - Forfeiture](%C2%A7%2001911%20-%20Forfeiture.md)
+- [&sect; 01912 - Total disability waiver](%C2%A7%2001912%20-%20Total%20disability%20waiver.md)
+- [&sect; 01913 - Death before six months' total disability](%C2%A7%2001913%20-%20Death%20before%20six%20months%27%20total%20disability.md)
+- [&sect; 01914 - Statutory total disabilities](%C2%A7%2001914%20-%20Statutory%20total%20disabilities.md)
+- [&sect; 01915 - Total disability income provision](%C2%A7%2001915%20-%20Total%20disability%20income%20provision.md)
+- [&sect; 01916 - Insurance which matured before August 1, 1946](%C2%A7%2001916%20-%20Insurance%20which%20matured%20before%20August%201%2C%201946.md)
+- [&sect; 01917 - Insurance maturing on or after August 1, 1946](%C2%A7%2001917%20-%20Insurance%20maturing%20on%20or%20after%20August%201%2C%201946.md)
+- [&sect; 01918 - Assignments](%C2%A7%2001918%20-%20Assignments.md)
+- [&sect; 01919 - National Service Life Insurance appropriation](%C2%A7%2001919%20-%20National%20Service%20Life%20Insurance%20appropriation.md)
+- [&sect; 01920 - National Service Life Insurance Fund](%C2%A7%2001920%20-%20National%20Service%20Life%20Insurance%20Fund.md)
+- [&sect; 01921 - Extra hazard costs](%C2%A7%2001921%20-%20Extra%20hazard%20costs.md)
+- [&sect; 01922 - Service disabled veterans' insurance](%C2%A7%2001922%20-%20Service%20disabled%20veterans%27%20insurance.md)
+- [&sect; 01922A - Supplemental service disabled veterans' insurance for totally disabled veterans](%C2%A7%2001922A%20-%20Supplemental%20service%20disabled%20veterans%27%20insurance%20for%20totally%20disabled%20veterans.md)
+- [&sect; 01923 - Veterans' Special Life Insurance](%C2%A7%2001923%20-%20Veterans%27%20Special%20Life%20Insurance.md)
+- [&sect; 01924 - In-service waiver of premiums](%C2%A7%2001924%20-%20In-service%20waiver%20of%20premiums.md)
+- [&sect; 01925 - Limited period for acquiring insurance](%C2%A7%2001925%20-%20Limited%20period%20for%20acquiring%20insurance.md)
+- [&sect; 01926 - Authority for higher interest rates for amounts payable to beneficiaries](%C2%A7%2001926%20-%20Authority%20for%20higher%20interest%20rates%20for%20amounts%20payable%20to%20beneficiaries.md)
+- [&sect; 01927 - Authority for higher monthly installments payable to certain annuitants](%C2%A7%2001927%20-%20Authority%20for%20higher%20monthly%20installments%20payable%20to%20certain%20annuitants.md)
+- [&sect; 01928 - Authority for payment of interest on settlements](%C2%A7%2001928%20-%20Authority%20for%20payment%20of%20interest%20on%20settlements.md)
+- [&sect; 01929 - Authority to adjust premium discount rates](%C2%A7%2001929%20-%20Authority%20to%20adjust%20premium%20discount%20rates.md)

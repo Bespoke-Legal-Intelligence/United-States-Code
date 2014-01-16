@@ -28,7 +28,7 @@ Except as otherwise provided in this section, the net direct interest expense wi
 
 #### (C) Net interest income
 
-&emsp;&emsp;For purposes of this paragraph, the term “net interest income” means the excess of the amount determined under paragraph (2) of subsection (c) over the amount determined under paragraph (1) of subsection (c).
+&emsp;&emsp;For purposes of this paragraph, the term "net interest income" means the excess of the amount determined under paragraph (2) of subsection (c) over the amount determined under paragraph (1) of subsection (c).
 
 #### (2) Remainder of disallowed interest expense allowed for year of disposition
 
@@ -54,11 +54,11 @@ Except as otherwise provided in this section, the net direct interest expense wi
 
 #### (3) Disallowed interest expense
 
-&emsp;For purposes of this subsection, the term “disallowed interest expense” means the aggregate amount disallowed under subsection (a) with respect to the market discount bond.
+&emsp;For purposes of this subsection, the term "disallowed interest expense" means the aggregate amount disallowed under subsection (a) with respect to the market discount bond.
 
 #### (c) Net direct interest expense
 
-For purposes of this section, the term “net direct interest expense” means, with respect to any market discount bond, the excess (if any) of—
+For purposes of this section, the term "net direct interest expense" means, with respect to any market discount bond, the excess (if any) of—
 
 &emsp;(1) the amount of interest paid or accrued during the taxable year on indebtedness which is incurred or continued to purchase or carry such bond, over
 
@@ -70,21 +70,21 @@ For purposes of this section, the term “net direct interest expense” means, 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–188 struck out “or to which section 593 applies” after “585(a)(2))” in closing provisions.
+<b>1996</b>—Subsec. (c). Pub. L. 104–188 struck out "or to which section 593 applies" after "585(a)(2))" in closing provisions.
 
-<b>1993</b>—Subsec. (d). Pub. L. 103–66 struck out heading and text of subsec. (d). Text read as follows: “In the case of a market discount bond issued on or before July 18, 1984, any gain recognized by the taxpayer on any disposition of such bond shall be treated as ordinary income to the extent the amount of such gain does not exceed the amount allowable with respect to such bond under subsection (b)(2) for the taxable year in which such bond is disposed of.”
+<b>1993</b>—Subsec. (d). Pub. L. 103–66 struck out heading and text of subsec. (d). Text read as follows: "In the case of a market discount bond issued on or before July 18, 1984, any gain recognized by the taxpayer on any disposition of such bond shall be treated as ordinary income to the extent the amount of such gain does not exceed the amount allowable with respect to such bond under subsection (b)(2) for the taxable year in which such bond is disposed of."
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–647 inserted a closing parenthesis after “section 585(a)(2)”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–647 inserted a closing parenthesis after "section 585(a)(2)".
 
-<b>1986</b>—Subsec. (b)(1)(C). Pub. L. 99–514, §1899A(29), substituted “this paragraph” for “this paragaph”.
+<b>1986</b>—Subsec. (b)(1)(C). Pub. L. 99–514, §1899A(29), substituted "this paragraph" for "this paragaph".
 
-Subsec. (b)(2)(C). Pub. L. 99–514, §1899A(30), substituted “paragraph (1)” for “paragraph 1” in heading.
+Subsec. (b)(2)(C). Pub. L. 99–514, §1899A(30), substituted "paragraph (1)" for "paragraph 1" in heading.
 
-Subsec. (c). Pub. L. 99–514, §901(d)(4)(F), substituted “which is a bank (as defined in section 585(a)(2) or to which section 593 applies” for “to which section 585 or 593 applies”.
+Subsec. (c). Pub. L. 99–514, §901(d)(4)(F), substituted "which is a bank (as defined in section 585(a)(2) or to which section 593 applies" for "to which section 585 or 593 applies".
 
-Pub. L. 99–514, §902(e)(2), substituted “section 265(a)(5)” for “section 265(5)”.
+Pub. L. 99–514, §902(e)(2), substituted "section 265(a)(5)" for "section 265(5)".
 
-Subsec. (d). Pub. L. 99–514, §1899A(31), substituted “July 18, 1984” for “the date of the enactment of this section”.
+Subsec. (d). Pub. L. 99–514, §1899A(31), substituted "July 18, 1984" for "the date of the enactment of this section".
 
 #### Effective Date of 1996 Amendment
 

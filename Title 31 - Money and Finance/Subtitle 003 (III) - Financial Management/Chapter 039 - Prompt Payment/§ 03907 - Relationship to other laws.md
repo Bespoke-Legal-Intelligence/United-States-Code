@@ -36,23 +36,23 @@ May 21, 1982, Pub. L. 97–177, §4, 96 Stat. 87.
 
 31 App.:1803(b).
 
-In the section, the words “be construed to” are omitted as surplus.
+In the section, the words "be construed to" are omitted as surplus.
 
-In subsection (a), the words “not paid under this chapter” are substituted for “which a Federal agency has failed to pay in accordance with the requirements of section 2 or 3 of this chapter” to eliminate unnecessary words.
+In subsection (a), the words "not paid under this chapter" are substituted for "which a Federal agency has failed to pay in accordance with the requirements of section 2 or 3 of this chapter" to eliminate unnecessary words.
 
-In subsection (b)(2), the word “accruing” is added for clarity. The word “both” is omitted as surplus.
+In subsection (b)(2), the word "accruing" is added for clarity. The word "both" is omitted as surplus.
 
-In subsection (c), the words “with respect to disputes concerning discounts”, “by the required payment date”, and “other allegations concerning” are omitted as surplus.
+In subsection (c), the words "with respect to disputes concerning discounts", "by the required payment date", and "other allegations concerning" are omitted as surplus.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–350, §5(h)(8)(A), substituted “section 7103 of title 41” for “section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605)”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–350, §5(h)(8)(A), substituted "section 7103 of title 41" for "section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605)".
 
-Subsec. (b)(1)(A). Pub. L. 111–350, §5(h)(8)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”.
+Subsec. (b)(1)(A). Pub. L. 111–350, §5(h)(8)(B), substituted "chapter 71 of title 41" for "the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)".
 
-Subsec. (b)(2). Pub. L. 111–350, §5(h)(8)(C), substituted “section 7109(a)(1) and (b) of title 41” for “section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611)” and “section 7109(a)(1) and (b) may” for “section 12 may”.
+Subsec. (b)(2). Pub. L. 111–350, §5(h)(8)(C), substituted "section 7109(a)(1) and (b) of title 41" for "section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611)" and "section 7109(a)(1) and (b) may" for "section 12 may".
 
-Subsec. (c). Pub. L. 111–350, §5(h)(8)(D), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”.
+Subsec. (c). Pub. L. 111–350, §5(h)(8)(D), substituted "chapter 71 of title 41" for "the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)".
 
 <b>1988</b>—Pub. L. 100–496 renumbered section 3906 of this title as this section.
 

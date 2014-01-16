@@ -10,7 +10,7 @@
 
 (2) For the purpose of this section, a compelling need shall be determined not to exist for any rule or regulation only if—
 
-&emsp;(A) the agency, or primary national subdivision, as the case may be, which issued the rule or regulation informs the Authority in writingthat a compelling need for the rule or regulation does not exist; or
+&emsp;(A) the agency, or primary national subdivision, as the case may be, which issued the rule or regulation informs the Authority in writing that a compelling need for the rule or regulation does not exist; or
 
 &emsp;(B) the Authority determines that a compelling need for a rule or regulation does not exist.
 
@@ -20,7 +20,7 @@
 
 (c)(1) Except in any case to which subsection (b) of this section applies, if an agency involved in collective bargaining with an exclusive representative alleges that the duty to bargain in good faith does not extend to any matter, the exclusive representative may appeal the allegation to the Authority in accordance with the provisions of this subsection.
 
-(2) The exclusive representative may, on or before the 15th day after the date on which the agency first makes the allegation referred to in paragraph (1) of this subsection, institute an appeal under this subsection by—
+(2) The exclusive representative may, on or before the 15th day after the date on which theagency first makes the allegation referred to in paragraph (1) of this subsection, institute an appeal under this subsection by—
 
 &emsp;(A) filing a petition with the Authority; and
 

@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;There is created within the Federal Supplementary Medical Insurance Trust Fund established by section 1395t of this title an account to be known as the “Medicare Prescription Drug Account” (in this section referred to as the “Account”).
+&emsp;There is created within the Federal Supplementary Medical Insurance Trust Fund established by section 1395t of this title an account to be known as the "Medicare PrescriptionDrug Account" (in this section referred to as the "Account").
 
 #### (2) Funding
 
@@ -38,7 +38,7 @@
 
 #### (4) Treatment in relation to part B premium
 
-&emsp;Amounts payable from the Account shall not be taken into account in computing actuarialrates or premium amounts under section 1395r of this title.
+&emsp;Amounts payable from the Account shall not be taken into account in computing actuarial rates or premium amounts under section 1395r of this title.
 
 #### (c) Deposits into Account
 

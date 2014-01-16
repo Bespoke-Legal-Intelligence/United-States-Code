@@ -56,7 +56,7 @@ In carrying out subsection (a) of this section, the Director may not prescribe o
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term “golden parachute payment” means any payment (or any agreement to make any payment) in the nature of compensation by any regulated entity for the benefit of any affiliated party pursuant to an obligation of such regulated entity that—
+&emsp;&emsp;For purposes of this subsection, the term "golden parachute payment" means any payment (or any agreement to make any payment) in the nature of compensation by any regulated entity for the benefit of any affiliated party pursuant to an obligation of such regulated entity that—
 
 &emsp;&emsp;&emsp;(i) is contingent on the termination of such party's affiliation with the regulated entity; and
 
@@ -74,7 +74,7 @@ In carrying out subsection (a) of this section, the Director may not prescribe o
 
 #### (C) Certain payments not included
 
-&emsp;&emsp;For purposes of this subsection, the term “golden parachute payment” shall not include—
+&emsp;&emsp;For purposes of this subsection, the term "golden parachute payment" shall not include—
 
 &emsp;&emsp;&emsp;(i) any payment made pursuant to a retirement plan which is qualified (or is intended to be qualified) under section 401 of title 26, or other nondiscriminatory benefit plan;
 
@@ -88,7 +88,7 @@ In carrying out subsection (a) of this section, the Director may not prescribe o
 
 #### (A) Indemnification payment
 
-&emsp;&emsp;Subject to paragraph (6), the term “indemnification payment” means any payment (or any agreement to make any payment) by any regulated entity for the benefit of any person who is or was an affiliated party, to pay or reimburse such person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Agency which results in a final order under which such person—
+&emsp;&emsp;Subject to paragraph (6), the term "indemnification payment" means any payment (or any agreement to make any payment) by any regulated entity for the benefit of any person who is or was an affiliated party, to pay or reimburse such person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Agency which results in a final order under which such person—
 
 &emsp;&emsp;&emsp;(i) is assessed a civil money penalty;
 
@@ -98,7 +98,7 @@ In carrying out subsection (a) of this section, the Director may not prescribe o
 
 #### (B) Liability or legal expense
 
-&emsp;&emsp;The term “liability or legal expense” means—
+&emsp;&emsp;The term "liability or legal expense" means—
 
 &emsp;&emsp;&emsp;(i) any legal or other professional expense incurred in connection with any claim, proceeding, or action;
 
@@ -108,7 +108,7 @@ In carrying out subsection (a) of this section, the Director may not prescribe o
 
 #### (C) Payment
 
-&emsp;&emsp;The term “payment” includes—
+&emsp;&emsp;The term "payment" includes—
 
 &emsp;&emsp;&emsp;(i) any direct or indirect transfer of any funds or any asset; and
 
@@ -126,9 +126,9 @@ In carrying out subsection (a) of this section, the Director may not prescribe o
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–289, §1113(a)(1), substituted “and withholding of executive” for “of excessive” in section catchline.
+<b>2008</b>—Pub. L. 110–289, §1113(a)(1), substituted "and withholding of executive" for "of excessive" in section catchline.
 
-Subsec. (a). Pub. L. 110–289, §1113(a)(2), substituted “regulated entity” for “enterprise” and “regulated entities” for “enterprises”.
+Subsec. (a). Pub. L. 110–289, §1113(a)(2), substituted "regulated entity" for "enterprise" and "regulated entities" for "enterprises".
 
 Subsecs. (b) to (d). Pub. L. 110–289, §1113(a)(3), (4), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 

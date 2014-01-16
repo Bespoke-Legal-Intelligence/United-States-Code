@@ -16,9 +16,9 @@ This section authorizes the court to terminate the trustee's appointment and to 
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–554 inserted “or the United States trustee” after “party in interest”.
+<b>1986</b>—Pub. L. 99–554 inserted "or the United States trustee" after "party in interest".
 
-<b>1984</b>—Pub. L. 98–353 substituted “estate and of the” for “estate, and”.
+<b>1984</b>—Pub. L. 98–353 substituted "estate and of the" for "estate, and".
 
 #### Effective Date of 1986 Amendment
 

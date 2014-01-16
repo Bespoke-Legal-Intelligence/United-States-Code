@@ -30,5 +30,5 @@ Pub. L. 109–155, title III, §304(a) (matter before par. (1)), (2), Dec. 30, 2
 
 42 U.S.C. 16654(a)(2).
 
-In subsection (a), the words “In addition—” are omitted as unnecessary.
+In subsection (a), the words "In addition—" are omitted as unnecessary.
 

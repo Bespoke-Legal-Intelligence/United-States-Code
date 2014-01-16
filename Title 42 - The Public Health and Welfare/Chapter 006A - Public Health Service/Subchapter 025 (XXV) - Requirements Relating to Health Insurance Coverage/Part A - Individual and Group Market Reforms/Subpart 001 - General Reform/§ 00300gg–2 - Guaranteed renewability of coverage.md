@@ -68,13 +68,9 @@ At the time of coverage renewal, a health insurance issuer may modify the health
 
 #### (e) Application to coverage offered only through associations
 
-In applying this section in the case of health insurance coverage that is made available by a health insurance issuer in the small or large group market to employers only through one or more associations, a reference to “plan sponsor” is deemed, with respect to coverage provided to an employer member of the association, to include a reference to such employer.
+In applying this section in the case of health insurance coverage that is made available by a health insurance issuer in the small or large group market to employers only through one or more associations, a reference to "plan sponsor" is deemed, with respect to coverage provided to an employer member of the association, to include a reference to such employer.
 
 (July 1, 1944, ch. 373, title XXVII, §2703, as added and amended Pub. L. 111–148, title I, §§1201(4), 1563(c)(9), formerly §1562(c)(9), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 156, 267, 911.)
-
-#### Enactment of Section
-
-<i>For delayed effective date of section, see Effective Date note below.</i>
 
 #### References in Text
 
@@ -82,7 +78,7 @@ Section 2711, referred to in subsec. (b)(5), is a reference to section 2711 of a
 
 #### Codification
 
-The text of section 300gg–12 of this title, which was amended and transferred to subsecs. (b) to (e) of this section by Pub. L. 111–148, §1563(c)(9), formerly §1562(c)(9), as renumbered by Pub. L. 111–148, §10107(b)(1), was based on act July 1, 1944, ch. 373, title XXVII, §2732, formerly §2712, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1964; renumbered §2732, Pub. L. 111–148, title I, §1001(3), Mar. 23, 2010, 124 Stat. 130. For text of section 300gg–12 prior to amendment and transfer by Pub. L. 111–148, see Prior Provisions note under section 300gg–12 of this title.
+The text of section 300gg–12 of this title, which was amended and transferred to subsecs. (b) to (e) of this section by Pub. L. 111–148, §1563(c)(9), formerly §1562(c)(9), as renumbered by Pub. L. 111–148, §10107(b)(1), was based on act July 1, 1944, ch. 373, title XXVII, §2732, formerly §2712, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1964; renumbered §2732, Pub. L. 111–148, title I, §1001(3), Mar. 23, 2010, 124 Stat. 130.
 
 #### Prior Provisions
 
@@ -90,7 +86,7 @@ A prior section 2703 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148, §1563(c)(9), formerly §1562(c)(9), as renumbered by Pub. L. 111–148, §10107(b)(1), transferred section 300gg–12 of this title to the end of this section after amending it by striking out the section catchline “Guaranteed renewability of coverage for employers in group market”, by striking subsec. (a) which required a health insurance issuer offering coverage in connection with a group health plan to renew such coverage at the option of the plan sponsor, by amending subsec. (b) by substituting “health insurance coverage offered in the group or individual market” for “group health plan in the small or large group market” in introductory provisions, inserting “, or individual, as applicable,” after “plan sponsor” in pars. (1) and (2), adding par. (3), and striking out former par. (3) which related to violation of participation or contribution rules, and by amending subsec. (c) by substituting “group or individual health insurance coverage” for “group health insurance coverage offered in the small or large group market” in introductory provisions of par. (1), inserting “or individual, as applicable,” after “plan sponsor” in par. (1)(A) and (B), inserting “or individual health insurance coverage” in par. (1)(B), inserting “or individuals, as applicable,” after “those sponsors” in par. (1)(C), substituting “individual or group market, or all markets,” for “small group market or the large group market, or both markets,” in introductory provisions of par. (2)(A), and inserting “or individual, as applicable,” after “plan sponsor” in par. (2)(A)(i). Amendment inserting “or individual health insurance coverage” in subsec. (c)(1)(B) was executed by making the insertion after “group health plan” as the probable intent of Congress, notwithstanding that the directory language did not specify where in subsec. (c)(1)(B) to make the insertion.
+<b>2010</b>—Pub. L. 111–148, §1563(c)(9), formerly §1562(c)(9), as renumbered by Pub. L. 111–148, §10107(b)(1), transferred section 300gg–12 of this title to the end of this section after amending it by striking out the section catchline "Guaranteed renewability of coverage for employers in group market", by striking subsec. (a) which required a health insurance issuer offering coverage in connection with a group health plan to renew such coverage at the option of the plan sponsor, by amending subsec. (b) by substituting "health insurance coverage offered in the group or individual market" for "group health plan in the small or large group market" in introductory provisions, inserting ", or individual, as applicable," after "plan sponsor" in pars. (1) and (2), adding par. (3), and striking out former par. (3) which related to violation of participation or contribution rules, and by amending subsec. (c) by substituting "group or individual health insurance coverage" for "group health insurance coverage offered in the small or large group market" in introductory provisions of par. (1), inserting "or individual, as applicable," after "plan sponsor" in par. (1)(A) and (B), inserting "or individual health insurance coverage" in par. (1)(B), inserting "or individuals, as applicable," after "those sponsors" in par. (1)(C), substituting "individual or group market, or all markets," for "small group market or the large group market, or both markets," in introductory provisions of par. (2)(A), and inserting "or individual, as applicable," after "plan sponsor" in par. (2)(A)(i). Amendment inserting "or individual health insurance coverage" in subsec. (c)(1)(B) was executed by making the insertion after "group health plan" as the probable intent of Congress, notwithstanding that the directory language did not specify where in subsec. (c)(1)(B) to make the insertion.
 
 #### Effective Date
 

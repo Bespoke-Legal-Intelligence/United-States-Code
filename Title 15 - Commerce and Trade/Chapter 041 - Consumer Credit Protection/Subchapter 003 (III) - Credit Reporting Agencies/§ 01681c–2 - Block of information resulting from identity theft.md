@@ -42,7 +42,7 @@ A consumer reporting agency shall promptly notify the furnisher of information i
 
 #### (3) Significance of block
 
-&emsp;For purposes of this subsection, if a consumer reporting agency rescinds a block, thepresence of information in the file of a consumer prior to the blocking of such information is not evidence of whether the consumer knew or should have known that the consumer obtained possession of any goods, services, or money as a result of the block.
+&emsp;For purposes of this subsection, if a consumer reporting agency rescinds a block, the presence of information in the file of a consumer prior to the blocking of such information is not evidence of whether the consumer knew or should have known that the consumer obtained possession of any goods, services, or money as a result of the block.
 
 #### (d) Exception for resellers
 
@@ -80,7 +80,7 @@ No provision of this section shall be construed as requiring a consumer reportin
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(1)(C). Pub. L. 111–203 substituted “the Bureau” for “the Commission”.
+<b>2010</b>—Subsec. (d)(1)(C). Pub. L. 111–203 substituted "the Bureau" for "the Commission".
 
 #### Effective Date of 2010 Amendment
 

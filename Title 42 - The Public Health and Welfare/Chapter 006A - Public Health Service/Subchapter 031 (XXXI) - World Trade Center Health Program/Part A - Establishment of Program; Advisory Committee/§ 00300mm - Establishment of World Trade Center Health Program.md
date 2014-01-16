@@ -82,7 +82,7 @@ The WTC Program Administrator working with the Clinical Centers of Excellence sh
 
 &emsp;&emsp;&emsp;(iii) with respect to individuals so certified who received such treatment, on the WTC-related health conditions for which they were treated; and
 
-&emsp;&emsp;&emsp;(iv) on the projected number of individuals who will be certified under part B in the succeeding fiscal year and the succeeding 10-year period.
+&emsp;&emsp;&emsp;(iv) on the projected number of individuals who will be certified under part B inthe succeeding fiscal year and the succeeding 10-year period.
 
 #### (B) Monitoring, initial health evaluation, and treatment costs
 
@@ -90,7 +90,7 @@ The WTC Program Administrator working with the Clinical Centers of Excellence sh
 
 &emsp;&emsp;&emsp;(i) information on the costs of monitoring and initial health evaluation and the costs of treatment and on the estimated costs of such monitoring, evaluation, and treatment in the succeeding fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) an estimate of the cost of medical treatment for WTC-related health conditions that have been paid for or reimbursed by workers’ compensation, by public or private health plans, or by New York City under section 300mm–41 of this title.
+&emsp;&emsp;&emsp;(ii) an estimate of the cost of medical treatment for WTC-related health conditions that have been paid for or reimbursed by workers' compensation, by public or private health plans, or by New York City under section 300mm–41 of this title.
 
 #### (C) Administrative costs
 

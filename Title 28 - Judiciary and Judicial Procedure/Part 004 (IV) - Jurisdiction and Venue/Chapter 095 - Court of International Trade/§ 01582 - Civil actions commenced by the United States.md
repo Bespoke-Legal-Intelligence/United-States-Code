@@ -20,9 +20,9 @@ A prior section 1582, acts June 25, 1948, ch. 646, 62 Stat. 943; June 2, 1970; P
 
 #### Amendments
 
-<b>1993</b>—Par. (1). Pub. L. 103–182 inserted “593A,” after “592,”.
+<b>1993</b>—Par. (1). Pub. L. 103–182 inserted "593A," after "592,".
 
-<b>1986</b>—Par. (1). Pub. L. 99–514 substituted “641(b)(6)” for “641(a)(1)(C)”.
+<b>1986</b>—Par. (1). Pub. L. 99–514 substituted "641(b)(6)" for "641(a)(1)(C)".
 
 <b>1984</b>—Par. (1). Pub. L. 98–573 inserted references to section 641(a)(1)(C) and 641(d)(2)(A) of the Tariff Act of 1930.
 

@@ -16,19 +16,19 @@ In carrying out the program under this section, the Secretary is encouraged to u
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–53, §205(1), substituted “noxious aquatic plant growths from” for “water-hyacinth, alligatorweed, Eurasian water milfoil, melaleuca, and other obnoxious aquatic plant growths, from” in first sentence.
+<b>1999</b>—Subsec. (a). Pub. L. 106–53, §205(1), substituted "noxious aquatic plant growths from" for "water-hyacinth, alligatorweed, Eurasian water milfoil, melaleuca, and other obnoxious aquatic plant growths, from" in first sentence.
 
-Subsec. (b). Pub. L. 106–53, §205(2), substituted “$15,000,000” for “$12,000,000” in first sentence.
+Subsec. (b). Pub. L. 106–53, §205(2), substituted "$15,000,000" for "$12,000,000" in first sentence.
 
 Subsec. (c). Pub. L. 106–53, §205(3), added subsec. (c).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–303 inserted “melaleuca,” after “milfoil,”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–303 inserted "melaleuca," after "milfoil,".
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–662 substituted “$12,000,000” for “$10,000,000”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–662 substituted "$12,000,000" for "$10,000,000".
 
-<b>1983</b>—Subsec. (b). Pub. L. 98–63 substituted “$10,000,000” for “$5,000,000”.
+<b>1983</b>—Subsec. (b). Pub. L. 98–63 substituted "$10,000,000" for "$5,000,000".
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–298 designated part of existing provisions as subsec. (a), substituting “comprehensive program” and “other allied waters of the United States” for “comprehensive project” and “other allied waters in the States of North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, and Texas”, respectively, providing for control and eradication of Eurasian water milfoil, and striking out “in accordance with the report of the Chief of Engineers, published as House Document Numbered 37, Eighty-fifth Congress” after “Federal and State agencies”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–298 designated part of existing provisions as subsec. (a), substituting "comprehensive program" and "other allied waters of the United States" for "comprehensive project" and "other allied waters in the States of North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, and Texas", respectively, providing for control and eradication of Eurasian water milfoil, and striking out "in accordance with the report of the Chief of Engineers, published as House Document Numbered 37, Eighty-fifth Congress" after "Federal and State agencies".
 
-Subsec. (b). Pub. L. 89–298 designated part of existing provisions as subsec. (b), substituting the appropriations authorization of $5,000,000 annually as first sentence for former provisions which authorized “an estimated additional cost for the expanded program over that now underway of $1,350,000 annually for five years, of which 70 per centum, presently estimated at $945,000, shall be borne by the United States and 30 per centum, presently estimated at $405,000, by local interests” and incorporating former second proviso in second sentence.
+Subsec. (b). Pub. L. 89–298 designated part of existing provisions as subsec. (b), substituting the appropriations authorization of $5,000,000 annually as first sentence for former provisions which authorized "an estimated additional cost for the expanded program over that now underway of $1,350,000 annually for five years, of which 70 per centum, presently estimated at $945,000, shall be borne by the United States and 30 per centum, presently estimated at $405,000, by local interests" and incorporating former second proviso in second sentence.
 

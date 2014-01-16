@@ -34,9 +34,9 @@ In making an allocation under subsection (a) of any decrease in the adjusted bas
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–357 added subsec. (c).
 
-<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §834(b), Oct. 22, 2004, 118 Stat. 1592, provided that: “The amendment made by this section \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §834(b), Oct. 22, 2004, 118 Stat. 1592, provided that: "The amendment made by this section \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 2004\]."
 

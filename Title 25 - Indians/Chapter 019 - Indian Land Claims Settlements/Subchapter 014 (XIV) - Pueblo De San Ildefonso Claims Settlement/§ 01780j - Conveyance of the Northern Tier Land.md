@@ -34,7 +34,7 @@
 
 #### (B) Failure of Pueblo to act
 
-&emsp;&emsp;If the Pueblo fails to exercise its option to purchase the Northern Tier Land within 90days after receiving an offer from the Secretary of Agriculture, or fails to close on the purchase of such land within 1 year of the date on which the option to purchase was exercised under subparagraph (A), the Secretary of Agriculture may sell or exchange the land to any third party in such manner and on such terms and conditions as the Secretary determines to be in the public interest, including by a competitive process.
+&emsp;&emsp;If the Pueblo fails to exercise its option to purchase the Northern Tier Land within 90 days after receiving an offer from the Secretary of Agriculture, or fails to close on the purchase of such land within 1 year of the date on which the option to purchase was exercised under subparagraph (A), the Secretary of Agriculture may sell or exchange the land to any third party in such manner and on such terms and conditions as the Secretary determines to be in the public interest, including by a competitive process.
 
 #### (3) Extension of time period
 
@@ -44,7 +44,7 @@
 
 #### (1) Purchase price
 
-&emsp;Subject to valid existing rights and reservations, the purchase price for the Northern Tier Land sold to the Pueblo of Santa Clara or the Pueblo under subsection (b) shall be the consideration agreed to by the Pueblo of Santa Clara pursuant to that certain Pueblo of Santa Clara Tribal Council Resolution No. 05–01 “Approving Proposed San Ildefonso Claims Settlement Act of 2005, and Terms for Purchase of Northern Tier Lands” that was signed by Governor J. Bruce Tafoya in January 2005.
+&emsp;Subject to valid existing rights and reservations, the purchase price for the Northern Tier Land sold to the Pueblo of Santa Clara or the Pueblo under subsection (b) shall be the consideration agreed to by the Pueblo of Santa Clara pursuant to that certain Pueblo of Santa Clara Tribal Council Resolution No. 05–01 "Approving Proposed San Ildefonso Claims Settlement Act of 2005, and Terms for Purchase of Northern Tier Lands" that was signed by Governor J. Bruce Tafoya in January 2005.
 
 #### (2) Reserved rights
 
@@ -88,7 +88,7 @@
 
 #### (i) Definition of administrative access
 
-&emsp;&emsp;&emsp;In this subparagraph, the term “administrative access” means access to Federal land by Federal employees acting in the course of their official capacities in carrying out activities on Federal land authorized by law or regulation, and by agents and contractors of Federal agencies who have been engaged to perform services necessary or desirable for fire management and the health of forest resources, including the cutting and removal of vegetation, and for the health and safety of persons on the Federal land.
+&emsp;&emsp;&emsp;In this subparagraph, the term "administrative access" means access to Federal land by Federal employees acting in the course of their official capacities in carrying out activities on Federal land authorized by law or regulation, and by agents and contractors of Federal agencies who have been engaged to perform services necessary or desirable for fire management and the health of forest resources, including the cutting and removal of vegetation, and for the health and safety of persons on the Federal land.
 
 #### (ii) Easements
 
@@ -112,9 +112,11 @@
 
 &emsp;If adequate administrative and inholder access is provided over the Santa Clara Indian Reservation under paragraph (2), the Secretary of the Interior—
 
-&emsp;&emsp;(A) shall vacate the inholder access over that portion of Forest Development Road 416 referenced in section 1780e(e)(5) of this title; but
+&emsp;&emsp;(A) shall vacate the inholder access over that portion of Forest Development Road 416 referenced in section 1780e(e)(5) <sup>1</sup> of this title; but
 
 &emsp;&emsp;(B) shall not vacate the reservations over the Northern Tier Land for administrative access under subsection (c)(2).
 
 (Pub. L. 109–286, §12, Sept. 27, 2006, 120 Stat. 1225.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be a reference to section 1780e(d)(5).</i>
 

@@ -11,7 +11,7 @@
 | [6007\.](%C2%A7%2006007%20-%20Policy%20toward%20a%20democratic%20Cuban%20Government.md) | Policy toward a democratic Cuban Government. |
 | [6008\.](%C2%A7%2006008%20-%20Existing%20claims%20not%20affected.md) | Existing claims not affected. |
 | [6009\.](%C2%A7%2006009%20-%20Enforcement.md) | Enforcement. |
-| [6010\.](%C2%A7%2006010%20-%20%E2%80%9CUnited%20States%20person%E2%80%9D%20defined.md) | “United States person” defined. |
+| [6010\.](%C2%A7%2006010%20-%20United%20States%20person%20defined.md) | "United States person" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -29,4 +29,4 @@
 - [&sect; 06007 - Policy toward a democratic Cuban Government](%C2%A7%2006007%20-%20Policy%20toward%20a%20democratic%20Cuban%20Government.md)
 - [&sect; 06008 - Existing claims not affected](%C2%A7%2006008%20-%20Existing%20claims%20not%20affected.md)
 - [&sect; 06009 - Enforcement](%C2%A7%2006009%20-%20Enforcement.md)
-- [&sect; 06010 - &#8220;United States person&#8221; defined](%C2%A7%2006010%20-%20%E2%80%9CUnited%20States%20person%E2%80%9D%20defined.md)
+- [&sect; 06010 - United States person defined](%C2%A7%2006010%20-%20United%20States%20person%20defined.md)

@@ -48,7 +48,7 @@ Before prescribing any labeling rules for a type (or class) of covered equipment
 
 &emsp;(A) publish proposed labeling rules in the Federal Register, and
 
-&emsp;(B) afford interested persons an opportunity (of not less than 45 days’ duration) to pre- sent oral and written data, views, and arguments on the proposed rules.
+&emsp;(B) afford interested persons an opportunity (of not less than 45 days' duration) to pre- sent oral and written data, views, and arguments on the proposed rules.
 
 (2) A labeling rule prescribed under this section shall take effect not later than 3 months after the date of prescription of such rule, except that such rules may take effect not later than 6 months after such date of prescription if the Secretary determines that such extension is necessary to allow persons subject to such rules adequate time to come into compliance with such rules.
 
@@ -72,7 +72,7 @@ A labeling rule under this section shall not apply to any article of covered equ
 
 #### (k) Labeling authority under Federal Trade Commission Act
 
-Until such time as labeling rules under this section take effect with respect to a type (or class) of covered equipment, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type (or class) of covered equipment.
+Until such time as labeling rules under this section take effect with respect to a type (or class) of covered equipment, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[15U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type (or class) of covered equipment.
 
 (Pub. L. 94–163, title III, §344, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3271; amended Pub. L. 102–486, title I, §122(c), Oct. 24, 1992, 106 Stat. 2809; Pub. L. 109–58, title I, §136(g), Aug. 8, 2005, 119 Stat. 643; Pub. L. 110–140, title III, §312(d), Dec. 19, 2007, 121 Stat. 1567.)
 
@@ -82,13 +82,13 @@ The Federal Trade Commission Act, referred to in subsec. (k), is act Sept. 26, 1
 
 #### Amendments
 
-<b>2007</b>—Subsec. (e). Pub. L. 110–140 inserted “walk-in coolers and walk-in freezers,” after “commercial clothes washers,” in two places in introductory provisions.
+<b>2007</b>—Subsec. (e). Pub. L. 110–140 inserted "walk-in coolers and walk-in freezers," after "commercial clothes washers," in two places in introductory provisions.
 
-<b>2005</b>—Subsec. (e). Pub. L. 109–58 inserted “very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers,” after “large commercial package air conditioning and heating equipment,” in two places in introductory provisions.
+<b>2005</b>—Subsec. (e). Pub. L. 109–58 inserted "very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers," after "large commercial package air conditioning and heating equipment," in two places in introductory provisions.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–486, §122(c)(1), substituted “shall prescribe” for “may prescribe”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–486, §122(c)(1), substituted "shall prescribe" for "may prescribe".
 
-Subsec. (c). Pub. L. 102–486, §122(c)(2), substituted “shall include” for “may include”.
+Subsec. (c). Pub. L. 102–486, §122(c)(2), substituted "shall include" for "may include".
 
 Subsecs. (d) to (k). Pub. L. 102–486, §122(c)(3), (4), added subsecs. (d) and (e) and redesignated former subsecs. (d) to (i) as (f) to (k), respectively.
 

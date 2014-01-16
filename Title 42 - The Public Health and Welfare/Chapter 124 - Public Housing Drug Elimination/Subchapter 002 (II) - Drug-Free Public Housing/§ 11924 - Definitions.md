@@ -4,11 +4,11 @@ For purposes of this subchapter:
 
 #### (1) Controlled substance
 
-&emsp;The term “controlled substance” has the meaning given such term in section 802 of title 21.
+&emsp;The term "controlled substance" has the meaning given such term in section 802 of title 21.
 
 #### (2) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Housing and Urban Development.
+&emsp;The term "Secretary" means the Secretary of Housing and Urban Development.
 
 (Pub. L. 100–690, title V, §5145, Nov. 18, 1988, 102 Stat. 4304.)
 

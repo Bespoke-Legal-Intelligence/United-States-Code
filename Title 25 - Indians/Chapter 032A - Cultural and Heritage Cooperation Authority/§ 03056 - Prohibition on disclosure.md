@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall not disclose under section 552 of title 5 (commonly known as the “Freedom of Information Act”), information relating to—
+&emsp;The Secretary shall not disclose under section 552 of title 5 (commonly known as the "Freedom of Information Act"), information relating to—
 
 &emsp;&emsp;(A) subject to subsection (b)(l),<sup>1</sup> human remains or cultural items reburied on National Forest System land under section 3053 of this title; or
 
@@ -16,7 +16,7 @@
 
 #### (2) Limitations on disclosure
 
-&emsp;Subject to subsection (b)(2), the Secretary shall not be required to disclose information under section 552 of title 5 (commonly known as the “Freedom of Information Act”), concerning the identity, use, or specific location in the National Forest System of—
+&emsp;Subject to subsection (b)(2), the Secretary shall not be required to disclose information under section 552 of title 5 (commonly known as the "Freedom of Information Act"), concerning the identity, use, or specific location in the National Forest System of—
 
 &emsp;&emsp;(A) a site or resource used for traditional and cultural purposes by an Indian tribe; or
 
@@ -54,11 +54,11 @@
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
-#### Definition of “Secretary”
+#### Definition of "Secretary"
 
-“Secretary” as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
+"Secretary" as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(b)(1),”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(b)(1),".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “(a)(1)(A)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "(a)(1)(A)".</i>
 

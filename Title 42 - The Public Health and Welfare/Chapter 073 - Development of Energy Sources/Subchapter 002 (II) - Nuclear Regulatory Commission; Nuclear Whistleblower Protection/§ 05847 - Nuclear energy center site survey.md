@@ -1,8 +1,8 @@
 ### §5847. Nuclear energy center site survey
 
-(a)(1) <sup>1</sup> The Commission is authorized and directed to make or cause to be made under its direction, a national survey, which shall include consideration of each of the existing or future electric reliability regions, or other appropriate regional areas, to locate and identify possible nuclear energy center sites. This survey shall be conducted in cooperation with other interested Federal, State, and local agencies, and the views of interested persons, including electric utilities, citizens’ groups, and others, shall be solicited and considered.
+(a)(1) <sup>1</sup> The Commission is authorized and directed to make or cause to be made under its direction, a national survey, which shall include consideration of each of the existing or future electric reliability regions, or other appropriate regional areas, to locate and identify possible nuclear energy center sites. This survey shall be conducted in cooperation with other interested Federal, State, and local agencies, and the views of interested persons, including electric utilities, citizens' groups, and others, shall be solicited and considered.
 
-(2) For purposes of this section, the term “nuclear energy center site” means any site, including a site not restricted to land, large enough to support utility operations or other elements of the total nuclear fuel cycle, or both including, if appropriate, nuclear fuel reprocessing facilities, nuclear fuel fabrication plants, retrievable nuclear waste storage facilities, and unranium <sup>2</sup> enrichment facilities.
+(2) For purposes of this section, the term "nuclear energy center site" means any site, including a site not restricted to land, large enough to support utility operations or other elements of the total nuclear fuel cycle, or both including, ifappropriate, nuclear fuel reprocessing facilities, nuclear fuel fabrication plants, retrievable nuclear waste storage facilities, and unranium <sup>2</sup> enrichment facilities.
 
 (3) The survey shall include—
 
@@ -22,5 +22,5 @@ For transfer of certain functions from Nuclear Regulatory Commission to Chairman
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “uranium”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "uranium".</i>
 

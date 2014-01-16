@@ -10,9 +10,9 @@ A prior section 320 of Pub. L. 85–699 was renumbered section 318 and is classi
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–9 substituted “12 months” for “6 months”.
+<b>1999</b>—Pub. L. 106–9 substituted "12 months" for "6 months".
 
-<b>1997</b>—Pub. L. 105–135 substituted “6 months” for “three months”.
+<b>1997</b>—Pub. L. 105–135 substituted "6 months" for "three months".
 
 <b>1996</b>—Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 687l of this title.
 
@@ -20,5 +20,5 @@ A prior section 320 of Pub. L. 85–699 was renumbered section 318 and is classi
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “it”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "it".</i>
 

@@ -62,35 +62,35 @@ Oct. 25, 1992, Pub. L. 102–519, §203, 106 Stat. 3391.
 
 15:2043(c).
 
-In subsection (a), the words “for use in operating . . . established or designated” are substituted for “for use in establishing . . . established” for clarity and for consistency with the source provisions restated in section 30502 of the revised title.
+In subsection (a), the words "for use in operating . . . established or designated" are substituted for "for use in establishing . . . established" for clarity and for consistency with the source provisions restated in section 30502 of the revised title.
 
-In subsection (b), before clause (1), the words “The check” are substituted for “Such instant title verification check” to eliminate unnecessary words. In subclauses (A) and (B), the words “of the automobile” are substituted for “of the vehicle” for consistency in the revised chapter.
+In subsection (b), before clause (1), the words "The check" are substituted for "Such instant title verification check" to eliminate unnecessary words. In subclauses (A) and (B), the words "of the automobile" are substituted for "of the vehicle" for consistency in the revised chapter.
 
-In subsection (c)(1)(B), the words “section 30502(d) of this title” are substituted for “subsection (b)” to reflect the apparent intent of Congress.
+In subsection (c)(1)(B), the words "section 30502(d) of this title" are substituted for "subsection (b)" to reflect the apparent intent of Congress.
 
-In subsection (c)(2)(A), before subclause (i), the words “is not more than the lesser of” are substituted for “does not exceed . . . whichever is lower” for clarity. In subclause (i), the words “paragraph (1)(B) of this subsection” are substituted for “subsection (d)(1)(B)” to reflect the apparent intent of Congress.
+In subsection (c)(2)(A), before subclause (i), the words "is not more than the lesser of" are substituted for "does not exceed . . . whichever is lower" for clarity. In subclause (i), the words "paragraph (1)(B) of this subsection" are substituted for "subsection (d)(1)(B)" to reflect the apparent intent of Congress.
 
-In subsection (c)(2)(B), the word “fair” is omitted as being included in “reasonable”.
+In subsection (c)(2)(B), the word "fair" is omitted as being included in "reasonable".
 
 #### Amendments
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment note below.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted "National Motor Vehicle Title Information System" for "National Automobile Title Information System".
 
-Subsec. (c)(1). Pub. L. 104–152, §3(a), substituted “Attorney General” for “Secretary of Transportation”.
+Subsec. (c)(1). Pub. L. 104–152, §3(a), substituted "Attorney General" for "Secretary of Transportation".
 
-Subsec. (c)(2). Pub. L. 104–152, §6(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may make grants to participating States to be used in making titling information maintained by those States available to the operator if—
+Subsec. (c)(2). Pub. L. 104–152, §6(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary may make grants to participating States to be used in making titling information maintained by those States available to the operator if—
 
-&emsp;“(A) the grant to a State is not more than the lesser of—
+&emsp;"(A) the grant to a State is not more than the lesser of—
 
-&emsp;&emsp;“(i) 25 percent of the cost of making titling information maintained by that State available to the operator as determined by the Secretary under paragraph (1)(B) of this subsection; or
+&emsp;&emsp;"(i) 25 percent of the cost of making titling information maintained by that State available to the operator as determined by the Secretary under paragraph (1)(B) of this subsection; or
 
-&emsp;&emsp;“(ii) $300,000; and
+&emsp;&emsp;"(ii) $300,000; and
 
-&emsp;“(B) the Secretary decides that the grants are reasonable and necessary to establish the System.”
+&emsp;"(B) the Secretary decides that the grants are reasonable and necessary to establish the System."
 
-Subsec. (d). Pub. L. 104–152, §§2(b), 3(a), substituted “October 1, 1998” for “January 1, 1997” and substituted “Attorney General” for “Secretary” in two places.
+Subsec. (d). Pub. L. 104–152, §§2(b), 3(a), substituted "October 1, 1998" for "January 1, 1997" and substituted "Attorney General" for "Secretary" in two places.
 
 #### Effective Date of 1997 Amendment
 

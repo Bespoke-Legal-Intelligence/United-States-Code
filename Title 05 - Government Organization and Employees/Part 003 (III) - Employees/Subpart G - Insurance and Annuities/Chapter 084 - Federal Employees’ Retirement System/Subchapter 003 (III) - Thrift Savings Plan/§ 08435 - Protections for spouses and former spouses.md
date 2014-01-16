@@ -76,7 +76,7 @@
 
 (h) The protections provided by this section are in addition to the protections provided by section 8467 of this title.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 547; amended Pub. L. 101–335,§§5(c), 6(a)(3), July 17, 1990, 104 Stat. 322, 323; Pub. L. 102–484, div. D, title XLIV, §4437(b), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(d), (i)(9)–(15), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §204\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–376.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 547; amended Pub. L. 101–335, §§5(c), 6(a)(3), July 17, 1990, 104 Stat. 322, 323; Pub. L. 102–484, div. D, title XLIV, §4437(b), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(d), (i)(9)–(15), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §204\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–376.)
 
 #### Amendments
 

@@ -26,21 +26,21 @@ Funds authorized to be appropriated for any construction project to be used in c
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in section 19 of act Aug. 1, 1946, ch. 724,60 Stat. 775, which was classified to section 1819 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to those comprising this section were contained in section 19 of act Aug. 1, 1946, ch. 724, 60 Stat. 775, which was classified to section 1819 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 
 <b>1963</b>—Subsec. (a). Pub. L. 88–72 required legislative authorization of appropriations to the Commission and waiver of charges for use of materials under the Cooperative Power Reactor Demonstration Program. Former provisions of subsec. (a) authorized appropriations necessary and appropriate to carry out the provisions and purposes of this chapter, excepting in par. (1) sums necessary for acquisition of real property or facility acquisition, construction or expansion (and deeming under certain conditions a nonmilitary experimental reactor to be a facility) and in par. (2) sums necessary to carry out cooperative programs for development and construction of reactors for demonstration of their use in production of electrical power or process heat, or for propulsion, or for commercial provision of byproduct material, irradiation or other special service, for civilian use, by arrangements providing for payment of funds, rendering of services and undertaking of research and development without full reimbursement, the waiver of charges accompanying such arrangement or the provision of other financial assistance pursuant to such arrangement or the acquisition of real property or facility acquisition, construction or expansion undertaken by the Commission as part of such arrangement.
 
-Subsec. (b). Pub. L. 88–72 substituted “Any act appropriating funds to the Commission” for “The acts appropriating such sums.”
+Subsec. (b). Pub. L. 88–72 substituted "Any act appropriating funds to the Commission" for "The acts appropriating such sums."
 
-Subsec. (c). Pub. L. 88–72 struck out authorization of funds provision for advance planning, construction design and architectural services in connection with any plant or facility and inserted “Notwithstanding” phrase.
+Subsec. (c). Pub. L. 88–72 struck out authorization of funds provision for advance planning, construction design and architectural services in connection with any plant or facility and inserted "Notwithstanding" phrase.
 
-Subsec. (d). Pub. L. 88–72 struck out “hereafter” after “Funds” and inserted “construction” before “project” wherever appearing.
+Subsec. (d). Pub. L. 88–72 struck out "hereafter" after "Funds" and inserted "construction" before "project" wherever appearing.
 
 <b>1962</b>—Subsecs. (c), (d). Pub. L. 87–615 added subsecs. (c) and (d).
 
-<b>1957</b>—Pub. L. 85–79 designated first sentence as introductory clause of subsec. (a) and as (a)(1), inserted proviso to (a)(1), added (a)(2), by designating second sentence as subsec. (b), and struck out former sentence which provided that “Funds appropriated to the Commission shall, if obligated by contract during the fiscal year for which appropriated, remain available for expenditure for four years following the expiration of the fiscal year for which appropriated.”.
+<b>1957</b>—Pub. L. 85–79 designated first sentence as introductory clause of subsec. (a) and as (a)(1), inserted proviso to (a)(1), added (a)(2), by designating second sentence as subsec. (b), and struck out former sentence which provided that "Funds appropriated to the Commission shall, if obligated by contract during the fiscal year for which appropriated, remain available for expenditure for four years following the expiration of the fiscal year for which appropriated.".
 
 #### Effective Date of 1963 Amendment
 

@@ -64,7 +64,7 @@ The Federal Coordinator shall be responsible for—
 
 #### (f) Transfer of Federal Inspector functions and authority
 
-On appointment of the Federal Coordinator by the President, all of the functions and authority of the Office of Federal Inspector of Construction for the Alaska Natural Gas Transportation System vested in the Secretary under section 3012(b) of the Energy Policy Act of 1992 (15 U.S.C. 719e note; Public Law 102–486), including all functions and authority described and enumerated in the Reorganization Plan No. 1 of 1979 (44 Fed. Reg. 33663), Executive Order No. 12142 of June 21, 1979 (44 Fed. Reg. 36927), and section 5 ofthe President's decision, shall be transferred to the Federal Coordinator.
+On appointment of the Federal Coordinator by the President, all of the functions and authority of the Office of Federal Inspector of Construction for the Alaska Natural Gas Transportation System vested in the Secretary under section 3012(b) of the Energy Policy Act of 1992 (15 U.S.C. 719e note; Public Law 102–486), including all functions and authority described and enumerated in the Reorganization Plan No. 1 of 1979 (44 Fed. Reg. 33663), Executive Order No. 12142 of June 21, 1979 (44 Fed. Reg. 36927), and section 5 of the President's decision, shall be transferred to the Federal Coordinator.
 
 #### (g) Temporary authority
 
@@ -124,7 +124,7 @@ The functions, authorities, duties, and responsibilities of the Federal Coordina
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c)(2) and (d)(1), was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. This chapter, referred to in subsec. (h)(4)(A), was in the original “this Act”, also meaning division C of Pub. L. 108–324 as provided in section 2 of Pub. L. 108–324, 118 Stat. 1220. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
+This chapter, referred to in subsecs. (c)(2) and (d)(1), was in the original "this division", meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. This chapter, referred to in subsec. (h)(4)(A), was in the original "this Act", also meaning division C of Pub. L. 108–324 as provided in section 2 of Pub. L. 108–324, 118 Stat. 1220. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
 
 Reorganization Plan No. 1 of 1979, referred to in subsec. (f), is set out as a note under section 719e of this title.
 
@@ -134,7 +134,7 @@ Executive Order No. 12142, referred to in subsec. (f), is set out as a note unde
 
 <b>2007</b>—Subsec. (h). Pub. L. 110–140 added subsec. (h).
 
-<b>2005</b>—Subsec. (g). Pub. L. 109–148 substituted “earlier” for “later”.
+<b>2005</b>—Subsec. (g). Pub. L. 109–148 substituted "earlier" for "later".
 
 #### Effective Date of 2007 Amendment
 

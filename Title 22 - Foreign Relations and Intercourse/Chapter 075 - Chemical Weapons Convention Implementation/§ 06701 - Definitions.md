@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Chemical weapon
 
-&emsp;The term “chemical weapon” means the following, together or separately:
+&emsp;The term "chemical weapon" means the following, together or separately:
 
 &emsp;&emsp;(A) A toxic chemical and its precursors, except where intended for a purpose not prohibited under this chapter as long as the type and quantity is consistent with such a purpose.
 
@@ -14,29 +14,29 @@ In this chapter:
 
 #### (2) Chemical Weapons Convention; Convention
 
-&emsp;The terms “Chemical Weapons Convention” and “Convention” mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, opened for signature on January 13, 1993.
+&emsp;The terms "Chemical Weapons Convention" and "Convention" mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, opened for signature on January 13, 1993.
 
 #### (3) Key component of a binary or multicomponent chemical system
 
-&emsp;The term “key component of a binary or multicomponent chemical system” means the precursor which plays the most important role in determining the toxic properties of the final product and reacts rapidly with other chemicals in the binary or multicomponent system.
+&emsp;The term "key component of a binary or multicomponent chemical system" means the precursor which plays the most important role in determining the toxic properties of the final product and reacts rapidly with other chemicals in the binary or multicomponent system.
 
 #### (4) National of the United States
 
-&emsp;The term “national of the United States” has the same meaning given such term in section 1101(a)(22) of title 8.
+&emsp;The term "national of the United States" has the same meaning given such term in section 1101(a)(22) of title 8.
 
 #### (5) Organization
 
-&emsp;The term “Organization” means the Organization for the Prohibition of Chemical Weapons.
+&emsp;The term "Organization" means the Organization for the Prohibition of Chemical Weapons.
 
 #### (6) Person
 
-&emsp;The term “person”, except as otherwise provided, means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign government or nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.
+&emsp;The term "person", except as otherwise provided, means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign government or nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.
 
 #### (7) Precursor
 
 #### (A) In general
 
-&emsp;&emsp;The term “precursor” means any chemical reactant which takes part at any stage in the production by whatever method of a toxic chemical. The term includes any key component of a binary or multicomponent chemical system.
+&emsp;&emsp;The term "precursor" means any chemical reactant which takes part at any stage in the production by whatever method of a toxic chemical. The term includes any key component of a binary or multicomponent chemical system.
 
 #### (B) List of precursors
 
@@ -44,7 +44,7 @@ In this chapter:
 
 #### (8) Purposes not prohibited by this chapter
 
-&emsp;The term “purposes not prohibited by this chapter” means the following:
+&emsp;The term "purposes not prohibited by this chapter" means the following:
 
 #### (A) Peaceful purposes
 
@@ -64,11 +64,11 @@ In this chapter:
 
 #### (9) Technical Secretariat
 
-&emsp;The term “Technical Secretariat” means the Technical Secretariat of the Organizationfor the Prohibition of Chemical Weapons established by the Chemical Weapons Convention.
+&emsp;The term "Technical Secretariat" means the Technical Secretariat of the Organization for the Prohibition of Chemical Weapons established by the Chemical Weapons Convention.
 
 #### (10) Schedule 1 chemical agent
 
-&emsp;The term “Schedule 1 chemical agent” means any of the following, together or separately:
+&emsp;The term "Schedule 1 chemical agent" means any of the following, together or separately:
 
 &emsp;&emsp;(A) O-Alkyl (≤C<sub>10</sub>, incl. cycloalkyl) alkyl
 
@@ -148,7 +148,7 @@ In this chapter:
 
 #### (11) Schedule 2 chemical agent
 
-&emsp;The term “Schedule 2 chemical agent” means the following, together or separately:
+&emsp;The term "Schedule 2 chemical agent" means the following, together or separately:
 
 &emsp;&emsp;(A) Amiton: O,O-Diethyl S-\[2-(diethylamino)ethyl\]
 
@@ -188,7 +188,7 @@ In this chapter:
 
 #### (12) Schedule 3 chemical agent
 
-&emsp;The term “Schedule 3 chemical agent” means any of the following, together or separately:
+&emsp;The term "Schedule 3 chemical agent" means any of the following, together or separately:
 
 &emsp;&emsp;(A) Phosgene: carbonyl dichloride.
 
@@ -228,7 +228,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “toxic chemical” means any chemical which through its chemical actionon life processes can cause death, temporary incapacitation or permanent harm to humans or animals. The term includes all such chemicals, regardless of their origin or of their method of production, and regardless of whether they are produced in facilities, in munitions or elsewhere.
+&emsp;&emsp;The term "toxic chemical" means any chemical which through its chemical action on life processes can cause death, temporary incapacitation or permanent harm to humans or animals. The term includes all such chemicals, regardless of their origin or of their method of production, and regardless of whether they are produced in facilities, in munitions or elsewhere.
 
 #### (B) List of toxic chemicals
 
@@ -236,7 +236,7 @@ In this chapter:
 
 #### (14) United States
 
-&emsp;The term “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
+&emsp;The term "United States" means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
 
 &emsp;&emsp;(A) any of the places within the provisions of paragraph (41) <sup>2</sup> of section 40102 of title 49;
 
@@ -246,23 +246,23 @@ In this chapter:
 
 #### (15) Unscheduled discrete organic chemical
 
-&emsp;The term “unscheduled discrete organic chemical” means any chemical not listed on any schedule contained in the Annex on Chemicals of the Convention that belongs to the class of chemical compounds consisting of all compounds of carbon, except for its oxides, sulfides, and metal carbonates.
+&emsp;The term "unscheduled discrete organic chemical" means any chemical not listed on any schedule contained in the Annex on Chemicals of the Convention that belongs to the class of chemical compounds consisting of all compounds of carbon, except for its oxides, sulfides, and metal carbonates.
 
 (Pub. L. 105–277, div. I, §3, Oct. 21, 1998, 112 Stat. 2681–856.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out below and Tables.
 
 Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par. (14)(A) and (B), probably were originally meant to refer to paragraphs (17), (37), and (41) of subsection (a) of section 40102 of title 49. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by Pub. L. 108–176, title II, §225(a)(1), (3), Dec. 12, 2003, 117 Stat. 2528.
 
 #### Codification
 
-In par. 14(C), “section 70502(b) of title 46” substituted for “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))”, meaning section 3(b) of the Maritime Drug Law Enforcement Act, on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
+In par. 14(C), "section 70502(b) of title 46" substituted for "section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))", meaning section 3(b) of the Maritime Drug Law Enforcement Act, on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
 
 #### Short Title
 
-Pub. L. 105–277, div. I, §1, Oct. 21, 1998, 112 Stat. 2681–856, provided that: “This Division \[enacting this chapter, sections 229 to 229F of Title 18, Crimes and Criminal Procedure, and section 436 of Title 41, Public Contracts, amending section 362 of Title 11, Bankruptcy, and section 2332a of Title 18, repealing section 2332c of Title 18 and section 1520 of Title 50, War and National Defense, and enacting provisions set out as a note under section 229 of Title 18\] may be cited as the ‘Chemical Weapons Convention Implementation Act of 1998’.”
+Pub. L. 105–277, div. I, §1, Oct. 21, 1998, 112 Stat. 2681–856, provided that: "This Division \[enacting this chapter, sections 229 to 229F of Title 18, Crimes and Criminal Procedure, and section 436 of Title 41, Public Contracts, amending section 362 of Title 11, Bankruptcy, and section 2332a of Title 18, repealing section 2332c of Title 18 and section 1520 of Title 50, War and National Defense, and enacting provisions set out as a note under section 229 of Title 18\] may be cited as the 'Chemical Weapons Convention Implementation Act of 1998'."
 
 #### Regulations
 

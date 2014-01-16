@@ -10,15 +10,15 @@ Capital Cases.—Notwithstanding any statute, rule, or other provision of law, a
 
 (c)
 
-Definition.—As used in this section, the term “victim” includes all persons defined as victims in section 503(e)(2) of the Victims’ Rights and Restitution Act of 1990.
+Definition.—As used in this section, the term "victim" includes all persons defined as victims in section 503(e)(2) of the Victims' Rights and Restitution Act of 1990.
 
 (Added Pub. L. 105–6, §2(a), Mar. 19, 1997, 111 Stat. 12.)
 
 #### References in Text
 
-Section 503(e)(2) of the Victims’ Rights and Restitution Act of 1990, referred to in subsec. (c), is classified to section 10607(e)(2) of Title 42, The Public Health and Welfare.
+Section 503(e)(2) of the Victims' Rights and Restitution Act of 1990, referred to in subsec. (c), is classified to section 10607(e)(2) of Title 42, The Public Health and Welfare.
 
 #### Effective Date
 
-Pub. L. 105–6, §2(d), Mar. 19, 1997, 111 Stat. 13, provided that: “The amendments made by this section \[enacting this section and amending section 3593 of this title\] shall apply in cases pending on the date of the enactment of this Act \[Mar. 19, 1997\].”
+Pub. L. 105–6, §2(d), Mar. 19, 1997, 111 Stat. 13, provided that: "The amendments made by this section \[enacting this section and amending section 3593 of this title\] shall apply in cases pending on the date of the enactment of this Act \[Mar. 19, 1997\]."
 

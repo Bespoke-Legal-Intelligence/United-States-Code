@@ -92,15 +92,15 @@ In the case of a shareholder who is a nonresident alien individual or a foreign 
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 inserted last sentence and struck out former last sentence which read as follows: “In the case of any amount of any actual distribution made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount.”
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 inserted last sentence and struck out former last sentence which read as follows: "In the case of any amount of any actual distribution made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount."
 
-<b>1984</b>—Subsec. (g). Pub. L. 98–369 inserted “and which are derived from sources within the United States”.
+<b>1984</b>—Subsec. (g). Pub. L. 98–369 inserted "and which are derived from sources within the United States".
 
-<b>1978</b>—Subsec. (a)(2). Pub. L. 95–600 substituted “section (b)(1)(G)” for “section (b)(1)(E)”.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–600 substituted "section (b)(1)(G)" for "section (b)(1)(E)".
 
-<b>1976</b>—Subsec. (a)(2). Pub. L. 94–455, §1101(e), inserted at end “In the case of any amount of any actual distribution made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount.”
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–455, §1101(e), inserted at end "In the case of any amount of any actual distribution made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount."
 
-Subsec. (d). Pub. L. 94–455, §1901(b)(3)(I), substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset” in par. (1)(A) after “dividend or as” and, in par. (2), after “treated as”.
+Subsec. (d). Pub. L. 94–455, §1901(b)(3)(I), substituted "ordinary income" for "gain from the sale or exchange of property which is not a capital asset" in par. (1)(A) after "dividend or as" and, in par. (2), after "treated as".
 
 #### Effective Date of 1986 Amendment
 

@@ -8,9 +8,9 @@ Prohibition.—A member of the armed forces may not enter a Federal, State, loca
 
 Definitions.—In this section:
 
-&emsp;(1) The term “decoration” means any decoration or award that may be presented or awarded to a member of the armed forces.
+&emsp;(1) The term "decoration" means any decoration or award that may be presented or awarded to a member of the armed forces.
 
-&emsp;(2) The term “serious violent felony” has the meaning given that term in section 3559(c)(2)(F) of title 18.
+&emsp;(2) The term "serious violent felony" has the meaning given that term in section 3559(c)(2)(F) of title 18.
 
 (Added Pub. L. 105–261, div. A, title V, §537(a), Oct. 17, 1998, 112 Stat. 2019.)
 

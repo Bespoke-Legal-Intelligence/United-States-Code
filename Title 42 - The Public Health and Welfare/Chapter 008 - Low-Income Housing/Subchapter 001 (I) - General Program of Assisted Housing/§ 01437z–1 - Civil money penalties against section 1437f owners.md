@@ -122,7 +122,7 @@ The Secretary may compromise, modify, or remit any civil money penalty which may
 
 In this section—
 
-&emsp;(1) the term “agent employed to manage the property that has an identity of interest” means an entity—
+&emsp;(1) the term "agent employed to manage the property that has an identity of interest" means an entity—
 
 &emsp;&emsp;(A) that has management responsibility for a project;
 
@@ -130,35 +130,35 @@ In this section—
 
 &emsp;&emsp;(C) over which such ownership entity exerts effective control; and
 
-&emsp;(2) the term “knowing” means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
+&emsp;(2) the term "knowing" means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
 
 (Sept. 1, 1937, ch. 896, title I, §29, as added Pub. L. 105–65, title V, §562(a)(2), Oct. 27, 1997, 111 Stat. 1416.)
 
 #### Effective Date
 
-Pub. L. 105–65, title V, §562(b), Oct. 27, 1997, 111 Stat. 1419, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 1437z of this title\] shall apply only with respect to—
+Pub. L. 105–65, title V, §562(b), Oct. 27, 1997, 111 Stat. 1419, provided that: "The amendments made by subsection (a) \[enacting this section and amending section 1437z of this title\] shall apply only with respect to—
 
-&emsp;“(1) violations that occur on or after the effective date of final regulations implementing the amendments made by this section; and
+&emsp;"(1) violations that occur on or after the effective date of final regulations implementing the amendments made by this section; and
 
-&emsp;“(2) in the case of a continuing violation (as determined by the Secretary of Housing and Urban Development), any portion of a violation that occurs on or after such date.”
+&emsp;"(2) in the case of a continuing violation (as determined by the Secretary of Housing and Urban Development), any portion of a violation that occurs on or after such date."
 
 #### Regulations
 
 Pub. L. 105–65, title V, §562(c), Oct. 27, 1997, 111 Stat. 1419, provided that:
 
-“(1)
+"(1)
 
 Regulations.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The Secretary shall implement the amendments made by this section \[enacting this section and amending section 1437z of this title\] by regulation issued after notice and opportunity for public comment.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Comments sought.—The notice under subparagraph (A) shall seek comments as to the definitions of the terms ‘ownership interest in’ and ‘effective control’, as such terms are used in the definition of the term ‘agent employed to manage such property that has an identity of interest’.
+Comments sought.—The notice under subparagraph (A) shall seek comments as to the definitions of the terms 'ownership interest in' and 'effective control', as such terms are used in the definition of the term 'agent employed to manage such property that has an identity of interest'.
 
-“(2)
+"(2)
 
-Timing.—A proposed rule implementing the amendments made by this section shall be published not later than 1 year after the date of enactment of this Act \[Oct. 27, 1997\].”
+Timing.—A proposed rule implementing the amendments made by this section shall be published not later than 1 year after the date of enactment of this Act \[Oct. 27, 1997\]."
 

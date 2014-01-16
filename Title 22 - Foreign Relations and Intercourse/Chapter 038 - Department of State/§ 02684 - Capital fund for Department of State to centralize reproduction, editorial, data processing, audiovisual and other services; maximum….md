@@ -12,7 +12,7 @@ The current value of supplies returned to the working capital fund by a post, ac
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (a), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (a), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 Title II of this Act, referred to in subsec. (a), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of this title. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
@@ -22,13 +22,13 @@ Section was formerly classified to section 170u of Title 5 prior to the general 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–246 inserted “and” before “(4)”, struck out “; and (5) services and supplies to carry out title II of this Act”, and inserted provision that the fund also be available without fiscal year limitation to carry out the purposes of title II of this Act.
+<b>1990</b>—Subsec. (a). Pub. L. 101–246 inserted "and" before "(4)", struck out "; and (5) services and supplies to carry out title II of this Act", and inserted provision that the fund also be available without fiscal year limitation to carry out the purposes of title II of this Act.
 
 <b>1982</b>—Subsec. (a)(5). Pub. L. 97–241, §203(a), added cl. (5).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–465 substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946, as amended”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–465 substituted "Foreign Service Act of 1980" for "Foreign Service Act of 1946, as amended".
 
-<b>1978</b>—Pub. L. 95–426 designated existing provisions as subsec. (a), substituted “central services” for “central supply services” in cl. (2), struck out “and” at end of cl. (2), inserted “; and (4) medical and health care services”, struck out “Not to exceed $750,000 in net assets shall be transferred to the fund for purposes of providing capital” after “for the purpose of providing capital”, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–426 designated existing provisions as subsec. (a), substituted "central services" for "central supply services" in cl. (2), struck out "and" at end of cl. (2), inserted "; and (4) medical and health care services", struck out "Not to exceed $750,000 in net assets shall be transferred to the fund for purposes of providing capital" after "for the purpose of providing capital", and added subsec. (b).
 
 <b>1972</b>—Pub. L. 92–226 struck out last sentence authorizing appropriation of amounts necessary to provide capital for the fund. See section 2680 of this title.
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–426, title I, §109(b), Oct. 7, 1978, 92 Stat. 967, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1978.”
+Pub. L. 95–426, title I, §109(b), Oct. 7, 1978, 92 Stat. 967, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 1978."
 
 #### Transfer of Functions
 

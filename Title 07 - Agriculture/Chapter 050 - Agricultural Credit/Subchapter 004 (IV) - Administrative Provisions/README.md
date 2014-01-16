@@ -20,7 +20,7 @@
 - [&sect; 01984 - Taxation](%C2%A7%2001984%20-%20Taxation.md)
 - [&sect; 01985 - Security servicing](%C2%A7%2001985%20-%20Security%20servicing.md)
 - [&sect; 01986 - Conflicts of interests](%C2%A7%2001986%20-%20Conflicts%20of%20interests.md)
-- [&sect; 01987 - Debt adjustment and credit counseling; &#8220;summary period&#8221; defined; loan summary statements](%C2%A7%2001987%20-%20Debt%20adjustment%20and%20credit%20counseling%3B%20%E2%80%9Csummary%20period%E2%80%9D%20defined%3B%20loan%20summary%20statements.md)
+- [&sect; 01987 - Debt adjustment and credit counseling; summary period defined; loan summary statements](%C2%A7%2001987%20-%20Debt%20adjustment%20and%20credit%20counseling%3B%20summary%20period%20defined%3B%20loan%20summary%20statements.md)
 - [&sect; 01988 - Appropriations](%C2%A7%2001988%20-%20Appropriations.md)
 - [&sect; 01989 - Rules and regulations](%C2%A7%2001989%20-%20Rules%20and%20regulations.md)
 - [&sect; 01990 - Transfer of lands to Secretary](%C2%A7%2001990%20-%20Transfer%20of%20lands%20to%20Secretary.md)

@@ -2,11 +2,11 @@
 
 #### (a) Loans and grants; authorization; purposes
 
-The Secretary of Housing and Urban Development (hereinafter referred to as the “Secretary”) may make loans and grants on the basis of need to the regional native housing authorities duly constituted under the laws of the State of Alaska for the purpose of providing planning assistance, housing rehabilitation, and maintaining an adequate administrative structure in conjunction with the provision of housing and related facilities for Alaska residents.
+The Secretary of Housing and Urban Development (hereinafter referred to as the "Secretary") may make loans and grants on the basis of need to the regional native housing authorities duly constituted under the laws of the State of Alaska for the purpose of providing planning assistance, housing rehabilitation, and maintaining an adequate administrative structure in conjunction with the provision of housing and related facilities for Alaska residents.
 
 #### (b) Amount of grants
 
-Grants under this section shall not exceed 75 per centum of the aggregate cost of the housing and related facilities to be constructed under an approved program, except that the Secretary may make a grant in excess of such limitation in any case, after consultation with State officials.
+Grants under this section shall not exceed 75 per centum of the aggregate cost of the housingand related facilities to be constructed under an approved program, except that the Secretary may make a grant in excess of such limitation in any case, after consultation with State officials.
 
 #### (c) Authorization of appropriations
 
@@ -18,7 +18,7 @@ There is authorized to be appropriated not to exceed $10,000,000 to carry out th
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–557, §904(a), revised subsec. (a) generally to require that the Department of Housing and Urban Development make loans and grants, on the basis of need, to regional Alaska Native housing authorities for certain planning, administrative, and other expenses in conjunction with the provision of housing and related facilities for Alaska residents.
 
-Subsec. (b). Pub. L. 95–557, §904(b), inserted “except that the Secretary may make a grant in excess of such limitation in any case, after consultation with State officials”.
+Subsec. (b). Pub. L. 95–557, §904(b), inserted "except that the Secretary may make a grant in excess of such limitation in any case, after consultation with State officials".
 
-<b>1969</b>—Subsec. (a). Pub. L. 91–152 substituted “$10,875” for “$7,500”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–152 substituted "$10,875" for "$7,500".
 

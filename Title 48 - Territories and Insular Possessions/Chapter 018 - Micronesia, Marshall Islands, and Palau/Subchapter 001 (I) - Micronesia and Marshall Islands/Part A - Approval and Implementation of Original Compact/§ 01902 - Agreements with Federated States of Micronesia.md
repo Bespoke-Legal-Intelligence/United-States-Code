@@ -34,7 +34,7 @@
 
 #### (1) Submission
 
-&emsp;Notwithstanding section 211(b) of the Compact, the President may agree to an effectivedate for the Compact pursuant to section 1901(a) of this title if the Government of the Federated States of Micronesia agrees to submit economic development plans consistent with section 211(b) of the Compact to the Government of the United States for concurrence at intervals no greater than every 5 years for the duration of the Compact. Any capital construction project and any planned independent purchase of aircraft which is to be financed (directly or indirectly) through the use of funds provided under section 211 of the Compact shall be identified in the economic development plans.
+&emsp;Notwithstanding section 211(b) of the Compact, the President may agree to an effective date for the Compact pursuant to section 1901(a) of this title if the Government of the Federated States of Micronesia agrees to submit economic development plans consistent with section 211(b) of the Compact to the Government of the United States for concurrence at intervals no greater than every 5 years for the duration of the Compact. Any capital construction project and any planned independent purchase of aircraft which is to be financed (directly or indirectly) through the use of funds provided under section 211 of the Compact shall be identified in the economic development plans.
 
 #### (2) United States Government review
 
@@ -54,7 +54,7 @@
 
 #### (c) Agreement on audits
 
-In accordance with section 233 of the Compact, the President of the United States, in consultation with the Comptroller General of the United States, shall negotiate with the Government of the Federated States of Micronesia modifications to the “Agreement Concerning Procedures for the Implementation of United States Economic Assistance, Programs and Services Provided in the Compact of Free Association”, which shall provide as follows:
+In accordance with section 233 of the Compact, the President of the United States, in consultation with the Comptroller General of the United States, shall negotiate with the Government of the Federated States of Micronesia modifications to the "Agreement Concerning Procedures for the Implementation of United States Economic Assistance, Programs and Services Provided in the Compact of Free Association", which shall provide as follows:
 
 #### (1) General authority of the GAO to audit
 
@@ -66,7 +66,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 > &emsp;Such authority shall include authority for the Comptroller General to conduct or cause to be conducted any of the audits provided for in section 233 of the Compact. The authority provided in this paragraph shall continue for at least three years after the last such grant has been made or assistance has been provided.
 
-&emsp;(B) The Comptroller General (and his duly authorized representatives) shall also have authority to review any audit conducted by or on behalf of the Government of the United States. In this connection, the Comptroller General shall have access to such personnel and to such records, documents, working papers, automated data and files, and other information relevant to such review.
+&emsp;(B) The Comptroller General (and his duly authorized representatives) shall also have authority to review any audit conducted by or on behalf of the Government of the United States. In this connection, the Comptroller General shall have access to such personneland to such records, documents, working papers, automated data and files, and other information relevant to such review.
 
 #### (2) GAO access to records
 
@@ -82,9 +82,9 @@ In accordance with section 233 of the Compact, the President of the United State
 
 &emsp;As part of the annual report submitted by the Government of the Federated States of Micronesia under section 211 of the Compact, the Government shall include annual financial statements which account for the use of all of the funds provided by the Government of the United States to the Government under the Compact or otherwise. Such financial statements shall be prepared in accordance with generally accepted accounting procedures, except as may otherwise be mutually agreed. Not later than 180 days after the end of the United States fiscal year with respect to which such funds were provided, each such statement shall be submitted to the President for audit and transmission to the Congress.
 
-#### (5) “Audits” defined
+#### (5) "Audits" defined
 
-&emsp;As used in this subsection, the term “audits” includes financial, program, and management audits, including determining—
+&emsp;As used in this subsection, the term "audits" includes financial, program, and management audits, including determining—
 
 &emsp;&emsp;(A) whether the Government of the Federated States of Micronesia has met the requirements set forth in the Compact, or any related agreement entered into under the Compact, regarding the purposes for which such grants and other assistance are to be used; and
 

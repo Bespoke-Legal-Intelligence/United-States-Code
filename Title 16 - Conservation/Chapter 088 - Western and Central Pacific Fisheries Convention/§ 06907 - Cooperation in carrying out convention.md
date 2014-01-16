@@ -2,7 +2,7 @@
 
 #### (a) Federal and State agencies; private institutions and organizations
 
-The Secretary may cooperate with agencies of the United States government,<sup>1</sup> any public or private institutions or organizations within the United States or abroad, and, through the Secretary of State, the duly authorized officials of the government of any party to the WCPFC Convention, in carrying out responsibilities under this chapter.
+The Secretary may cooperate with agencies of the United States government,<sup>1</sup> any public orprivate institutions or organizations within the United States or abroad, and, through the Secretary of State, the duly authorized officials of the government of any party to the WCPFC Convention, in carrying out responsibilities under this chapter.
 
 #### (b) Scientific and other programs; facilities and personnel
 
@@ -40,7 +40,7 @@ Except as provided in subsection (e) of this section, nothing in this chapter sh
 
 #### (3) Hearing
 
-&emsp;If a State requests a formal agency hearing, the Secretary shall not apply the regulationspromulgated pursuant <sup>3</sup> section 6905(a) of this title within that State's boundaries unless the hearing record supports a determination under paragraph (1)(A) or (B).
+&emsp;If a State requests a formal agency hearing, the Secretary shall not apply the regulations promulgated pursuant <sup>3</sup> section 6905(a) of this title within that State's boundaries unless the hearing record supports a determination under paragraph (1)(A) or (B).
 
 #### (f) Review of State laws and regulations
 
@@ -50,7 +50,7 @@ To ensure that the purposes of subsection (e) are carried out, the Secretary sha
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “than”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "than".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “to”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by "to".</i>
 

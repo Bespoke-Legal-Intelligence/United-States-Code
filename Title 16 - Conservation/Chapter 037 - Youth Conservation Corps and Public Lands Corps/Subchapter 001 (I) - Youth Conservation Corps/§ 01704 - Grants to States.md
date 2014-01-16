@@ -1,8 +1,8 @@
 ### §1704. Grants to States
 
-#### (a) Projects for preservation of non-Federal public lands and waters; “States” defined
+#### (a) Projects for preservation of non-Federal public lands and waters; "States" defined
 
-The Secretary of the Interior and the Secretary of Agriculture shall jointly establish a program under which grants shall be made to States to assist them in meeting the cost of projects for the employment of young men and women to develop, preserve, and maintain non-Federal public lands and waters within the States. For purposes of this section, the term “States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and American Samoa.
+The Secretary of the Interior and the Secretary of Agriculture shall jointly establish a program under which grants shall be made to States to assist them in meeting the cost of projects for the employment of young men and women to develop, preserve, and maintain non-Federal public lands and waters within the States. For purposes of this section, the term "States" includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and American Samoa.
 
 #### (b) Application requirements for grants; approval by Secretaries
 
@@ -22,7 +22,7 @@ The Secretary of the Interior and the Secretary of Agriculture shall jointly est
 
 #### (d) Appropriation percentage
 
-Thirty per centum of the sums appropriated under section 1706 of this title for any fiscal year shall be made available for grants under this section for such fiscal year.
+Thirty per centum of the sums appropriated under section 1706 of this title for any fiscal yearshall be made available for grants under this section for such fiscal year.
 
 (Pub. L. 91–378, title I, §104, formerly §4, Aug. 13, 1970, 84 Stat. 796; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1320; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1067; renumbered title I, §104, and amended Pub. L. 103–82, title I, §105(1), (3), (5), Sept. 21, 1993, 107 Stat. 848.)
 
@@ -30,7 +30,7 @@ Thirty per centum of the sums appropriated under section 1706 of this title for 
 
 <b>1993</b>—Subsec. (d). Pub. L. 103–82, §105(5), made technical amendment to reference to section 1706 of this title to reflect renumbering of corresponding section of original act.
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–408 substituted “jointly establish a program” for “jointly establish a pilot grant program”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–408 substituted "jointly establish a program" for "jointly establish a pilot grant program".
 
 <b>1972</b>—Pub. L. 92–579 substituted provisions relating to pilot grant program for State projects for provisions relating to Secretarial reports.
 

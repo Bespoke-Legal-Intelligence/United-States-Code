@@ -29,13 +29,13 @@ Each report required by this section shall be submitted, in the case of CBO, to 
 
 #### (2) Discretionary sequestration report
 
-&emsp;The preview reports shall set forth estimates for the current year and each subsequent year through 2021 of the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title.
+&emsp;The preview reports shall set forth estimates for the current year and each subsequent yearthrough 2021 of the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title.
 
 #### (3) Pay-as-you-go sequestration reports
 
 &emsp;The preview reports shall set forth, for the current year and the budget year, estimates for each of the following:
 
-&emsp;&emsp;(A) The amount of net deficit increase or decrease, if any, calculated under subsection 902(b) of this title.
+&emsp;&emsp;(A) The amount of net deficit increase or decrease, if any, calculated under section 902(b) of this title.
 
 &emsp;&emsp;(B) A list identifying each law enacted and sequestration implemented after November 5, 1990, included in the calculation of the amount of deficit increase or decrease and specifying the budgetary effect of each such law.
 
@@ -55,7 +55,7 @@ Each report required by this section shall be submitted, in the case of CBO, to 
 
 &emsp;&emsp;(E) The sequestration percentage necessary to achieve the required reduction in non-defense accounts under section 903(e)(3) of this title.
 
-> &emsp;The CBO report need not set forth the items other than the maximum deficit amount forfiscal year 1992, 1993, or any fiscal year for which the President notifies the House of Representatives and the Senate that he will adjust the maximum deficit amount under the option under section 903(g)(1)(B) of this title.
+> &emsp;The CBO report need not set forth the items other than the maximum deficit amount for fiscal year 1992, 1993, or any fiscal year for which the President notifies the House of Representatives and the Senate that he will adjust the maximum deficit amount under the option under section 903(g)(1)(B) of this title.
 
 #### (5) Explanation of differences
 
@@ -93,7 +93,7 @@ On the dates specified in subsection (a) of this section, OMB and CBO shall issu
 
 #### (4) Explanation of differences
 
-&emsp;The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under subsection <sup>1</sup> 902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable <sup>2</sup> resources for any budget account to be reduced if such difference is greater than $5,000,000.
+&emsp;The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under section 902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable <sup>1</sup> resources for any budget account to be reduced if such difference is greater than $5,000,000.
 
 #### (5) Presidential order
 
@@ -123,13 +123,17 @@ At any time, CBO shall notify the Congress if—
 
 In all reports required by this section, OMB shall use the same economic and technical assumptions as used in the most recent budget submitted by the President under section 1105(a) of title 31.
 
-(Pub. L. 99–177, title II, §254, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §§102(b)(1), 106(e)(2), Sept. 29, 1987, 101 Stat. 773, 781; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–586; Pub. L. 103–66, title XIV, §§14002(c)(2), 14003(b), Aug. 10, 1993, 107 Stat. 684, 685; Pub. L. 103–322, title XXXI, §310001(g)(2), Sept. 13, 1994, 108 Stat. 2105; Pub. L. 104–316, title I, §102(d), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 105–33, title X, §10206, Aug. 5, 1997, 111 Stat. 704; Pub. L. 112–25, title I, §103, Aug. 2, 2011, 125 Stat. 246.)
+(Pub. L. 99–177, title II, §254, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §§102(b)(1), 106(e)(2), Sept. 29, 1987, 101 Stat. 773, 781; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–586; Pub. L. 103–66, title XIV, §§14002(c)(2), 14003(b), Aug. 10, 1993, 107 Stat. 684, 685; Pub. L. 103–322, title XXXI, §310001(g)(2), Sept. 13, 1994, 108 Stat. 2105; Pub. L. 104–316, title I, §102(d), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 105–33, title X, §10206, Aug. 5, 1997, 111 Stat. 704; Pub. L. 112–25, title I, §103, Aug. 2, 2011, 125 Stat. 246; Pub. L. 113–67, div. A, title I, §121(3), (4), Dec. 26, 2013, 127 Stat. 1175.)
 
 #### Codification
 
 November 5, 1990, referred to in subsec. (c)(3)(B), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(3)(A). Pub. L. 113–67, §121(3), substituted “section 902(b)” for “subsection 902(b)”.
+
+Subsec. (f)(4). Pub. L. 113–67, §121(4), substituted “section 902(b)” for “subsection 902(b)”.
 
 <b>2011</b>—Subsec. (c)(2). Pub. L. 112–25, §103(1), substituted “2021” for “2002”.
 
@@ -195,7 +199,7 @@ Amounts Restored.—Any action taken to implement the orders referred to in subs
 
 Furloughed Employees.—(1) Federal employees furloughed as a result of the lapse in appropriations from midnight October 5, 1990, until the enactment of House Joint Resolution 666 \[Pub. L. 101–412, which was approved Oct. 9, 1990\] shall be compensated at their standard rate of compensation for the period during which there was a lapse in appropriations.
 
-“(2) All obligations incurred in anticipation of the appropriations made and authority granted by HouseJoint Resolution 666 for the purposes of maintaining the essential level of activity to protect life and property and bringing about orderly termination of government functions are hereby ratified and approved if otherwise in accord with the provisions of that Act \[Pub. L. 101–412, Oct. 9, 1990, 104 Stat. 894\].”
+“(2) All obligations incurred in anticipation of the appropriations made and authority granted by House Joint Resolution 666 for the purposes of maintaining the essential level of activity to protect life and property and bringing about orderly termination of government functions are hereby ratified and approved if otherwise in accord with the provisions of that Act \[Pub. L. 101–412, Oct. 9, 1990, 104 Stat. 894\].”
 
 Pub. L. 101–467, §105, Oct. 28, 1990, 104 Stat. 1087, provided that:
 
@@ -233,7 +237,7 @@ By the authority vested in me as President by the statutes of the United States 
 
 (1) Budgetary resources for each non-exempt account within the international category of discretionary spending shall be reduced as specified by the Director of the Office of Management and Budget in his report of November 9, 1990.
 
-(2) Pursuant to sections 250(c)(6) and 251 \[2 U.S.C. 900(c)(6), 901\], budgetary resources subject to sequestration shall be new budget authority; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; and obligation limitations.
+(2) Pursuant to sections 250(c)(6) and 251 \[former 2 U.S.C. 900(c)(6), 2 U.S.C. 901\], budgetary resources subject to sequestration shall be new budget authority; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; and obligation limitations.
 
 (3) For accounts making commitments for guaranteed loans as authorized by substantive law, the head of each Department or agency is directed to reduce the level of such commitments or obligations to the extent necessary to conform to the limitations established by the Act \[Pub. L. 99–177, title II, see Short Title note set out under 2 U.S.C. 900\] and specified by the Director of the Office of Management and Budget in his report of November 9, 1990.
 
@@ -285,7 +289,7 @@ Adjusted Reduction.—
 
 &emsp;“(1) Before the close of the fifteenth calendar day beginning after the date of enactment of this Act \[Dec. 19, 1989\], the Director of OMB shall issue a revised report using the exact budget baseline set forth in the report of October 16, 1989 \[set out below\], and following the requirements, specifications, definitions, and calculations required by the Balanced Budget and Emergency Deficit Control Act of 1985 \[Pub. L. 99–177, title II, see Short Title note set out under 2 U.S.C. 901\] for the final report issued under section 251(c)(2) \[former 2 U.S.C. 901(c)(2)\] for fiscal year 1990, except that the aggregate outlay reduction to be achieved shall be an amount equal to $16.1 billion multiplied by 130 divided by 365. Calculations made to carry out the preceding sentence shall take into account the reductions and cancellations achieved by paragraphs (2) and (3) and shall not be affected by subsection (d).
 
-&emsp;“(2) Notwithstanding any provision of law other than this paragraph, the reductions and cancellations in the student loan programs described in section 256(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 906(c)\] achieved by the order issued by the President on October 16, 1989, shall remain in effect through December 31, 1989, and no reductions or cancellations in such programs shall be made by the order issued under paragraph (4).
+&emsp;“(2) Notwithstanding any provision of law other than this paragraph, the reductions and cancellations in the student loan programs described in section256(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 906(c)\] achieved by the order issued by the President on October 16, 1989, shall remain in effect through December 31, 1989, and no reductions or cancellations in such programs shall be made by the order issued under paragraph (4).
 
 &emsp;“(3) Notwithstanding any provision of law other than this paragraph, any automatic spending increase suspended or cancelled by the order issued by the President on October 16, 1989, shall be paid at a rate that is 130/365ths less than the rate that would have been paid under the laws providing for such automatic spending increase.
 
@@ -343,7 +347,5 @@ Pub. L. 99–255, Mar. 7, 1986, 100 Stat. 39, as amended by Pub. L. 99–322, §
 
 Order of the President of the United States, Feb. 1, 1986, 51 F.R. 4291.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “sequestrable”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “sequestrable”.</i>
 

@@ -18,5 +18,5 @@ Provisions similar to those in this section were contained in sections 3500 and 
 
 #### Amendments
 
-<b>2006</b>—Par. (1). Pub. L. 109–163 substituted “Commonwealths or possessions” for “Territories, Commonwealths, or possessions”.
+<b>2006</b>—Par. (1). Pub. L. 109–163 substituted "Commonwealths or possessions" for "Territories, Commonwealths, or possessions".
 

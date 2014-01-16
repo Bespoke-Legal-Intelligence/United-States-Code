@@ -12,5 +12,5 @@ After receiving the State plan of a State under this part, the Commission shall 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 112–74 inserted “posted on the Commission's website with a notice” after “cause to have the plan”.
+<b>2011</b>—Subsec. (b). Pub. L. 112–74 inserted "posted on the Commission's website with a notice" after "cause to have the plan".
 

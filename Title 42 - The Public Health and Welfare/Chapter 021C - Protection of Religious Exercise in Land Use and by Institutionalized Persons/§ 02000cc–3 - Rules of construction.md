@@ -16,7 +16,7 @@ Nothing in this chapter shall create or preclude a right of any religious organi
 
 Nothing in this chapter shall—
 
-&emsp;(1) authorize a government to regulate or affect, directly or indirectly, the activities or policies of a person other than a government as a condition of receiving funding or other assistance; or
+&emsp;(1) authorize a government to regulate or affect, directly or indirectly, the activities orpolicies of a person other than a government as a condition of receiving funding or other assistance; or
 
 &emsp;(2) restrict any authority that may exist under other law to so regulate or affect, except as provided in this chapter.
 
@@ -44,5 +44,5 @@ If any provision of this chapter or of an amendment made by this chapter, or any
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–274, Sept. 22, 2000, 114 Stat. 803, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2000cc of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 106–274, Sept. 22, 2000, 114 Stat. 803, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2000cc of this title and Tables.
 

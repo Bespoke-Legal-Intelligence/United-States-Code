@@ -24,17 +24,17 @@ For purposes of this subsection: <sup>2</sup>
 
 #### (1) Advanced telecommunications capability
 
-&emsp;The term “advanced telecommunications capability” is defined, without regard to any transmission media or technology, as high-speed, switched, broadband telecommunications capability that enables users to originate and receive high-quality voice, data, graphics, and video telecommunications using any technology.
+&emsp;The term "advanced telecommunications capability" is defined, without regard to anytransmission media or technology, as high-speed, switched, broadband telecommunications capability that enables users to originate and receive high-quality voice, data, graphics, and video telecommunications using any technology.
 
 #### (2) Elementary and secondary schools
 
-&emsp;The term “elementary and secondary schools” means elementary and secondary schools, as defined in section 7801 of title 20.
+&emsp;The term "elementary and secondary schools" means elementary and secondary schools, as defined in section 7801 of title 20.
 
 (Pub. L. 104–104, title VII, §706, Feb. 8, 1996, 110 Stat. 153; Pub. L. 107–110, title X, §1076(gg), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 110–385, title I, §103(a), Oct. 10, 2008, 122 Stat. 4096.)
 
 #### References in Text
 
-Subsection (d)(1), referred to in subsec. (c), was in the original “section 706(c)(1) of the Telecommunications Act of 1996” and was translated as reading “section 706(d)(1) of the Telecommunications Act of 1996”, which is classified to subsection (d)(1) of this section, to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 110–385, title I, §103(a)(2), Oct. 10, 2008, 122 Stat. 4096.
+Subsection (d)(1), referred to in subsec. (c), was in the original "section 706(c)(1) of the Telecommunications Act of 1996" and was translated as reading "section 706(d)(1) of the Telecommunications Act of 1996", which is classified to subsection (d)(1) of this section, to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 110–385, title I, §103(a)(2), Oct. 10, 2008, 122 Stat. 4096.
 
 #### Codification
 
@@ -44,11 +44,11 @@ Section was enacted as part of the Telecommunications Act of 1996, and not as pa
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–385, §103(a)(1), substituted “annually” for “regularly”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–385, §103(a)(1), substituted "annually" for "regularly".
 
 Subsecs. (c), (d). Pub. L. 110–385, §103(a)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-<b>2002</b>—Subsec. (c)(2). Pub. L. 107–110 substituted “section 7801 of title 20” for “paragraphs (14) and (25), respectively, of section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801)”.
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–110 substituted "section 7801 of title 20" for "paragraphs (14) and (25), respectively, of section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801)".
 
 #### Effective Date of 2002 Amendment
 
@@ -60,5 +60,5 @@ For definitions of terms used in this section, see section 3(b) of Pub. L. 104�
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section:”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "section:".</i>
 

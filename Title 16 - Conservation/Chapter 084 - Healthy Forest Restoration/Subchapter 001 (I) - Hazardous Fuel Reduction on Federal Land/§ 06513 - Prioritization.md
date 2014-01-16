@@ -38,7 +38,7 @@ In accordance with the Implementation Plan, the Secretary shall develop an annua
 
 #### (C) Wildland-urban interface
 
-&emsp;&emsp;In the case of an authorized hazardous fuel reduction project for which a decision notice is issued during the 1-year period beginning on December 3, 2003, the Secretary shall use existing definitions of the term “wildland-urban interface” rather than the definition of that term provided under section 6511 of this title.
+&emsp;&emsp;In the case of an authorized hazardous fuel reduction project for which a decision notice is issued during the 1-year period beginning on December 3, 2003, the Secretary shall use existing definitions of the term "wildland-urban interface" rather than the definition of that term provided under section 6511 of this title.
 
 #### (2) Non-Federal land
 

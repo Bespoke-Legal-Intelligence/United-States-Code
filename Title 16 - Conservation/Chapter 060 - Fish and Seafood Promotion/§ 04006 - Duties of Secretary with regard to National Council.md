@@ -22,5 +22,5 @@ The Secretary shall make withdrawals of sums from the Fund under this section at
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a)(5). Pub. L. 101–627 inserted “initial” before “appointments”.
+<b>1990</b>—Subsec. (a)(5). Pub. L. 101–627 inserted "initial" before "appointments".
 

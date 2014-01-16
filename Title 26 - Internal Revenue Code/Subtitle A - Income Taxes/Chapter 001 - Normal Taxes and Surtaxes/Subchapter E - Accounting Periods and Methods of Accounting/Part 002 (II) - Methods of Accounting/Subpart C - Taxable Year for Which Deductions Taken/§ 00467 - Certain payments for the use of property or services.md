@@ -32,7 +32,7 @@ In the case of the lessor or lessee under any section 467 rental agreement, ther
 
 #### (4) Disqualified leaseback or long-term agreement
 
-&emsp;For purposes of this subsection, the term “disqualified leaseback or long-term agreement” means any section 467 rental agreement if—
+&emsp;For purposes of this subsection, the term "disqualified leaseback or long-term agreement" means any section 467 rental agreement if—
 
 &emsp;&emsp;(A) such agreement is part of a leaseback transaction or such agreement is for a term in excess of 75 percent of the statutory recovery period for the property, and
 
@@ -64,7 +64,7 @@ In the case of the lessor or lessee under any section 467 rental agreement, ther
 
 #### (2) Recapture amount
 
-&emsp;For purposes of paragraph (1), the term “recapture amount” means the lesser of—
+&emsp;For purposes of paragraph (1), the term "recapture amount" means the lesser of—
 
 &emsp;&emsp;(A) the prior understated inclusions, or
 
@@ -74,7 +74,7 @@ In the case of the lessor or lessee under any section 467 rental agreement, ther
 
 #### (3) Prior understated inclusions
 
-&emsp;For purposes of this subsection, the term “prior understated inclusion” means the excess (if any) of—
+&emsp;For purposes of this subsection, the term "prior understated inclusion" means the excess (if any) of—
 
 &emsp;&emsp;(A) the amount which would have been taken into account by the lessor under subsection (a) for periods before the disposition if subsection (b)(2) had applied to the agreement, over
 
@@ -82,7 +82,7 @@ In the case of the lessor or lessee under any section 467 rental agreement, ther
 
 #### (4) Leaseback or long-term agreement
 
-&emsp;For purposes of this subsection, the term “leaseback or long-term agreement” means any agreement described in subsection (b)(4)(A).
+&emsp;For purposes of this subsection, the term "leaseback or long-term agreement" means any agreement described in subsection (b)(4)(A).
 
 #### (5) Special rules
 
@@ -98,7 +98,7 @@ In the case of the lessor or lessee under any section 467 rental agreement, ther
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the term “section 467 rental agreements” means any rental agreement for the use of tangible property under which—
+&emsp;Except as otherwise provided in this subsection, the term "section 467 rental agreements" means any rental agreement for the use of tangible property under which—
 
 &emsp;&emsp;(A) there is at least one amount allocable to the use of property during a calendar year which is to be paid after the close of the calendar year following the calendar year in which such use occurs, or
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (1) Constant rental amount
 
-&emsp;The term “constant rental amount” means, with respect to any section 467 rental agreement, the amount which, if paid as of the close of each lease period under the agreement, would result in an aggregate present value equal to the present value of the aggregate payments required under the agreement.
+&emsp;The term "constant rental amount" means, with respect to any section 467 rental agreement, the amount which, if paid as of the close of each lease period under the agreement, would result in an aggregate present value equal to the present value of the aggregate payments required under the agreement.
 
 #### (2) Leaseback transaction
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 #### (5) Related person
 
-&emsp;The term “related person” has the meaning given to such term by section 465(b)(3)(C).
+&emsp;The term "related person" has the meaning given to such term by section 465(b)(3)(C).
 
 #### (6) Certain options of lessee to renew not taken into account
 
@@ -200,33 +200,33 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c)(5)(C). Pub. L. 108–27 struck out “, 341(e)(12),” after “170(e)”.
+<b>2003</b>—Subsec. (c)(5)(C). Pub. L. 108–27 struck out ", 341(e)(12)," after "170(e)".
 
 <b>1988</b>—Subsec. (c)(5)(C). Pub. L. 100–647, §1005(c)(10), made technical correction to directory language of Pub. L. 99–514, §511(d)(2)(A). See 1986 Amendment note below.
 
 Subsec. (e)(3)(A). Pub. L. 100–647, §1002(i)(2)(H), at end of table inserted item relating to any railroad grading or tunnel bore.
 
-<b>1986</b>—Subsec. (b)(4)(A). Pub. L. 99–514, §1807(b)(2)(A), substituted “statutory recovery period” for “statutory recover period”.
+<b>1986</b>—Subsec. (b)(4)(A). Pub. L. 99–514, §1807(b)(2)(A), substituted "statutory recovery period" for "statutory recover period".
 
-Subsec. (c)(4). Pub. L. 99–514, §1807(b)(2)(B), substituted “subsection (b)(4)(A)” for “subsection (b)(3)(A)”.
+Subsec. (c)(4). Pub. L. 99–514, §1807(b)(2)(B), substituted "subsection (b)(4)(A)" for "subsection (b)(3)(A)".
 
-Subsec. (c)(5)(C). Pub. L. 99–514, §631(e)(10), struck out “453B(d)(2),” after “341(e)(12),”.
+Subsec. (c)(5)(C). Pub. L. 99–514, §631(e)(10), struck out "453B(d)(2)," after "341(e)(12),".
 
-Pub. L. 99–514, §511(d)(2)(A), as amended by Pub. L. 100–647, §1005(c)(10), struck out “163(d),” after “sections”.
+Pub. L. 99–514, §511(d)(2)(A), as amended by Pub. L. 100–647, §1005(c)(10), struck out "163(d)," after "sections".
 
-Subsec. (d)(2). Pub. L. 99–514, §1807(b)(2)(C), substituted “section 1274(c)(4)(C)” for “section 1274(c)(2)(C)”.
+Subsec. (d)(2). Pub. L. 99–514, §1807(b)(2)(C), substituted "section 1274(c)(4)(C)" for "section 1274(c)(2)(C)".
 
 Subsec. (e)(3)(A). Pub. L. 99–514, §201(d)(8)(A), in amending subpar. (A) generally, included in table 7-year property, 15-year and 20-year property, and residential rental property and nonresidential real property having recovery periods of 7, 15, and 19 years, respectively, and struck out from table low-income housing, 15-year public utility property, and 19-year real property having recovery periods of 15, 15, and 19 years, respectively.
 
-Pub. L. 99–514, §1879(f)(1), substituted “19-year real property” and “19 years” for “18-year real property” and “18 years”, respectively.
+Pub. L. 99–514, §1879(f)(1), substituted "19-year real property" and "19 years" for "18-year real property" and "18 years", respectively.
 
-Subsec. (e)(3)(B). Pub. L. 99–514, §201(d)(8)(A), in amending subpar. (B) generally, substituted in heading “not depreciable under section 168” for “which is not recovery property” and in text “In the case of property to which section 168 does not apply, subparagraph (A) shall be applied as if section 168 applies to such property.” for “In the case of any property, which is not recovery property, subparagraph (A) shall be applied as if such property were recovery property.”
+Subsec. (e)(3)(B). Pub. L. 99–514, §201(d)(8)(A), in amending subpar. (B) generally, substituted in heading "not depreciable under section 168" for "which is not recovery property" and in text "In the case of property to which section 168 does not apply, subparagraph (A) shall be applied as if section 168 applies to such property." for "In the case of any property, which is not recovery property, subparagraph (A) shall be applied as if such property were recovery property."
 
-Subsec. (e)(5). Pub. L. 99–514, §201(d)(8)(B), substituted “section 465(b)(3)(C)” for “section 168(e)(4)(D)”.
+Subsec. (e)(5). Pub. L. 99–514, §201(d)(8)(B), substituted "section 465(b)(3)(C)" for "section 168(e)(4)(D)".
 
-Pub. L. 99–514, §1807(b)(2)(D), substituted “section 168(e)(4)(D)” for “section 168(d)(4)(D)”.
+Pub. L. 99–514, §1807(b)(2)(D), substituted "section 168(e)(4)(D)" for "section 168(d)(4)(D)".
 
-Subsec. (g). Pub. L. 99–514, §1807(b)(1), inserted at end “The preceding sentence shall not apply to any amount to which section 404 or 404A (or any other provision specified in regulations) applies.”
+Subsec. (g). Pub. L. 99–514, §1807(b)(1), inserted at end "The preceding sentence shall not apply to any amount to which section 404 or 404A (or any other provision specified in regulations) applies."
 
 #### Effective Date of 2003 Amendment
 
@@ -248,65 +248,65 @@ Amendment by section 631(e)(10) of Pub. L. 99–514 applicable to any distributi
 
 Amendment by section 1807(b) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Pub. L. 99–514, title XVIII, §1879(f)(2), Oct. 22, 1986, 100 Stat. 2906, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 103 of Public Law 99–121.”
+Pub. L. 99–514, title XVIII, §1879(f)(2), Oct. 22, 1986, 100 Stat. 2906, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 103 of Public Law 99–121."
 
 #### Effective Date
 
 Pub. L. 98–369, div. A, title I, §92(c), July 18, 1984, 98 Stat. 612, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section\] shall apply with respect to agreements entered into after June 8, 1984.
 
-“(2)
+"(2)
 
 Exceptions.—The amendments made by this section shall not apply—
 
-&emsp;“(A) to any agreement entered into pursuant to a written agreement which was binding on June 8, 1984, and at all times thereafter,
+&emsp;"(A) to any agreement entered into pursuant to a written agreement which was binding on June 8, 1984, and at all times thereafter,
 
-&emsp;“(B) subject to the provisions of paragraph (3), to any agreement to lease property if—
+&emsp;"(B) subject to the provisions of paragraph (3), to any agreement to lease property if—
 
-&emsp;&emsp;“(i) there was in effect a firm plan, evidenced by a board of directors’ resolution, memorandum of agreement, or letter of intent on March 15, 1984, to enter into such an agreement, and
+&emsp;&emsp;"(i) there was in effect a firm plan, evidenced by a board of directors' resolution, memorandum of agreement, or letter of intent on March 15, 1984, to enter into such an agreement, and
 
-&emsp;&emsp;“(ii) construction of the property was commenced (but such property was not placed in service) on or before March 15, 1984, and
+&emsp;&emsp;"(ii) construction of the property was commenced (but such property was not placed in service) on or before March 15, 1984, and
 
-&emsp;“(C) to any agreement to lease property if—
+&emsp;"(C) to any agreement to lease property if—
 
-&emsp;&emsp;“(i) the lessee of such property adopted a firm plan to lease the property, evidenced by a resolution of the Finance Committee of the Board of Directors of such lessee, on February 10, 1984,
+&emsp;&emsp;"(i) the lessee of such property adopted a firm plan to lease the property, evidenced by a resolution of the Finance Committee of the Board of Directors of such lessee, on February 10, 1984,
 
-&emsp;&emsp;“(ii) the sum of the present values of the rents payable by the lessee under the lease at the inception thereof equals at least $91,223,034, assuming for purposes of this clause—
+&emsp;&emsp;"(ii) the sum of the present values of the rents payable by the lessee under the lease at the inception thereof equals at least $91,223,034, assuming for purposes of this clause—
 
-&emsp;&emsp;&emsp;“(I) the annual discount rate is 12.6 percent,
+&emsp;&emsp;&emsp;"(I) the annual discount rate is 12.6 percent,
 
-&emsp;&emsp;&emsp;“(II) the initial payment of rent occurs 12 months after the commencement of the lease, and
+&emsp;&emsp;&emsp;"(II) the initial payment of rent occurs 12 months after the commencement of the lease, and
 
-&emsp;&emsp;&emsp;“(III) subsequent payments of rents occur on the anniversary date of the initial payment, and
+&emsp;&emsp;&emsp;"(III) subsequent payments of rents occur on the anniversary date of the initial payment, and
 
-&emsp;&emsp;“(iii) during—
+&emsp;&emsp;"(iii) during—
 
-&emsp;&emsp;&emsp;“(I) the first 5 years of the lease, at least 9 percent of the rents payable by the lessee under the agreement are paid, and
+&emsp;&emsp;&emsp;"(I) the first 5 years of the lease, at least 9 percent of the rents payable by the lessee under the agreement are paid, and
 
-&emsp;&emsp;&emsp;“(II) the second 5 years of the lease, at least 16.25 percent of the rents payable by the lessee under the agreement are paid.
+&emsp;&emsp;&emsp;"(II) the second 5 years of the lease, at least 16.25 percent of the rents payable by the lessee under the agreement are paid.
 
 &nbsp;&nbsp;Paragraph (3)(B)(ii)(II) shall apply for purposes of clauses (ii) and (iii) of subparagraph (C), as if, as of the beginning of the last stage, the separate agreements were treated as 1 single agreement relating to all property covered by the agreements, including any property placed in service before the property to which the agreement for the last stage relates. If the lessor under the agreement described in subparagraph (C) leases the property from another person, this exception shall also apply to any agreement between the lessor and such person which is integrally related to, and entered into at the same time as, such agreement, and which calls for comparable payments of rent over the primary term of the agreement.
 
-“(3)
+"(3)
 
 Schedule of deemed rental payments.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—In any case to which paragraph (2)(B) applies, for purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the lessor shall be treated as having received or accrued (and the lessee shall be treated as having paid or incurred) rents equal to the greater of—
 
-&emsp;&emsp;“(i) the amount of rents actually paid under the agreement during the taxable year, or
+&emsp;&emsp;"(i) the amount of rents actually paid under the agreement during the taxable year, or
 
-&emsp;&emsp;“(ii) the amount of rents determined in accordance with the schedule under subparagraph (B) for such taxable year.
+&emsp;&emsp;"(ii) the amount of rents determined in accordance with the schedule under subparagraph (B) for such taxable year.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Schedule.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 In general.—The schedule under this subparagraph is as follows:
 
@@ -318,7 +318,7 @@ In general.—The schedule under this subparagraph is as follows:
 
 <b>of total rent</b>
 
-<b>   “Portion of lease term:</b>
+<b>   "Portion of lease term:</b>
 
 <b>deemed paid:</b>
 
@@ -344,17 +344,17 @@ In general.—The schedule under this subparagraph is as follows:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
 Operating rules.—For purposes of this schedule—
 
-&emsp;&emsp;&emsp;“(I) the rent allocable to each taxable year within any portion of a lease term described in such schedule shall be a level pro rata amount properly allocable to such taxable year, and
+&emsp;&emsp;&emsp;"(I) the rent allocable to each taxable year within any portion of a lease term described in such schedule shall be a level pro rata amount properly allocable to such taxable year, and
 
-&emsp;&emsp;&emsp;“(II) any agreement relating to property which is to be placed in service in 2 or more stages shall be treated as 2 or more separate agreements.
+&emsp;&emsp;&emsp;"(II) any agreement relating to property which is to be placed in service in 2 or more stages shall be treated as 2 or more separate agreements.
 
-&emsp;“(C)
+&emsp;"(C)
 
-Paragraph not to apply.—This paragraph shall not apply to any agreement if the sum of the present values of all payments under the agreement is greater than the sum of the present value of all the payments deemed to be paid or received under the schedule under subparagraph (B). For purposes of computing any present value under this subparagraph, the annual discount rate shall be equal to 12 percent, compounded semiannually.”
+Paragraph not to apply.—This paragraph shall not apply to any agreement if the sum of the present values of all payments under the agreement is greater than the sum of the present value of all the payments deemed to be paid or received under the schedule under subparagraph (B). For purposes of computing any present value under this subparagraph, the annual discount rate shall be equal to 12 percent, compounded semiannually."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -36,13 +36,13 @@ If a participant dies and no claim for an annuity is payable under this subchapt
 
 &emsp;In the case of a participant who on or after April 1, 1992, dies before separation or retirement from the Agency and who is survived by a child or children—
 
-&emsp;&emsp;(A) if the participant is survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of theparticipant, there shall be paid from the fund to or on behalf of each such surviving child an annuity determined under section 2031(d)(3)(A) of this title; and
+&emsp;&emsp;(A) if the participant is survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of the participant, there shall be paid from the fund to or on behalf of each such surviving child an annuity determined under section 2031(d)(3)(A) of this title; and
 
 &emsp;&emsp;(B) if the participant is not survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of the participant, there shall be paid to or on behalf of each such surviving child an annuity determined under section 2031(d)(3)(B) of this title.
 
-#### (3) “Former spouse” defined
+#### (3) "Former spouse" defined
 
-&emsp;For purposes of this subsection, the term “former spouse” includes any former wife or husband of a participant, regardless of the length of marriage or the amount of creditable service completed by the participant.
+&emsp;For purposes of this subsection, the term "former spouse" includes any former wife or husband of a participant, regardless of the length of marriage or the amount of creditable service completed by the participant.
 
 (Pub. L. 88–643, title II, §232, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3223; amended Pub. L. 103–178, title II, §202(a)(9), Dec. 3, 1993, 107 Stat. 2026.)
 
@@ -52,7 +52,7 @@ A prior section 232 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048;
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b)(4). Pub. L. 103–178 substituted “eligible for an annuity under section 2034” for “eligible for an annuity under section 2032”.
+<b>1993</b>—Subsec. (b)(4). Pub. L. 103–178 substituted "eligible for an annuity under section 2034" for "eligible for an annuity under section 2032".
 
 #### Effective Date of 1993 Amendment
 

@@ -16,11 +16,11 @@ The notification required by subsection (a) of this section shall be accomplishe
 
 #### (c) Form and requisites of notification
 
-The notification required by subsection (a) of this section shall contain a clear description of such defect or failure to comply, an evaluation of the risk to manufactured home occupants’ safety reasonably related to such defect, and a statement of the measures needed to repair the defect. The notification shall also inform the owner whether the defect is a construction or safety defect which the manufacturer will have corrected at no cost to the owner of the manufactured home under subsection (g) of this section or otherwise, or is a defect which must be corrected at the expense of the owner.
+The notification required by subsection (a) of this section shall contain a clear description of such defect or failure to comply, an evaluation of the risk to manufactured home occupants' safety reasonably related to such defect, and a statement of the measures needed to repair the defect. The notification shall also inform the owner whether the defect is a construction or safety defect which the manufacturer will have corrected at no cost to the owner of the manufactured home under subsection (g) of this section or otherwise, or is a defect which must be corrected at the expense of the owner.
 
 #### (d) Copy to Secretary of all notices, bulletins, and communications sent by manufacturer to retailers and purchasers concerning defects; disclosure to public by Secretary
 
-Every manufacturer of manufactured homes shall furnish to the Secretary a true or representative copy of all notices, bulletins, and other communications to the retailers of such manufacturer or purchasers of manufactured homes of such manufacturer regarding any defect in any such manufactured home produced by such manufacturer. The Secretary shall disclose to the public so much of the information contained in such notices or other information obtained under section 5413 of this title as he deems will assist in carrying out the purposes of this chapter, but he shall not disclose any information which contains or relates to a trade secret, or which, if disclosed, would put such manufacturer at a substantial competitive disadvantage, unless he determines that it is necessary to carry out the purposes of this chapter.
+Every manufacturer of manufactured homes shall furnish to the Secretary a true or representative copy of all notices, bulletins, and other communications to the retailers of such manufacturer or purchasers of manufactured homes of such manufacturer regarding any defect in any such manufactured home producedby such manufacturer. The Secretary shall disclose to the public so much of the information contained in such notices or other information obtained under section 5413 of this title as he deems will assist in carrying out the purposes of this chapter, but he shall not disclose any information which contains or relates to a trade secret, or which, if disclosed, would put such manufacturer at a substantial competitive disadvantage, unless he determines that it is necessary to carry out the purposes of this chapter.
 
 #### (e) Notice by Secretary to manufacturers of noncompliance with standards or defective nature of manufactured home; contents of notice; presentation by manufacturer of views; notice to purchasers of defects
 
@@ -58,17 +58,17 @@ Where a defect or failure to comply in a manufactured home cannot be adequately 
 
 #### Codification
 
-References to “mobile homes”, wherever appearing in text, changed to “manufactured homes” in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of “manufactured home” for “mobile home” wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms “mobile home” and “manufactured home” shall be deemed to include the terms “mobile homes” and “manufactured homes”, respectively.
+References to "mobile homes", wherever appearing in text, changed to "manufactured homes" in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of "manufactured home" for "mobile home" wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms "mobile home" and "manufactured home" shall be deemed to include the terms "mobile homes" and "manufactured homes", respectively.
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b)(1). Pub. L. 106–569, §603(b)(3)(A), substituted “retailer” for “dealer”.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–569, §603(b)(3)(A), substituted "retailer" for "dealer".
 
-Subsec. (b)(3). Pub. L. 106–569, §603(b)(3)(B), substituted “retailer or retailers” for “dealer or dealers”.
+Subsec. (b)(3). Pub. L. 106–569, §603(b)(3)(B), substituted "retailer or retailers" for "dealer or dealers".
 
-Subsecs. (d), (f). Pub. L. 106–569, §603(b)(3)(C), substituted “retailers” for “dealers ”.
+Subsecs. (d), (f). Pub. L. 106–569, §603(b)(3)(C), substituted "retailers" for "dealers ".
 
-<b>1980</b>—Subsecs. (a) to (i). Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
+<b>1980</b>—Subsecs. (a) to (i). Pub. L. 96–399 substituted "manufactured home" for "mobile home" wherever appearing.
 
 #### Effective Date of 2000 Amendment
 

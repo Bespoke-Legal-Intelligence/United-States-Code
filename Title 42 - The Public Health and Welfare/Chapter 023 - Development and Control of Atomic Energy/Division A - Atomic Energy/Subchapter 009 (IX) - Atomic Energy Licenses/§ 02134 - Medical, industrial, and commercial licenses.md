@@ -14,9 +14,13 @@ The Commission is authorized to issue licenses to persons applying therefor for 
 
 #### (d) Limitations
 
-No license under this section may be given to any person for activities which are not under or within the jurisdiction of the United States, except for the export of production or utilization facilities under terms of an agreement for cooperation arranged pursuant to section 2153 of this title or except under the provisions of section 2139 of this title. No license may be issued to any corporation or other entity if the Commission knows or has reason to believe it is owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government. In any event, no license may be issued to any person within the United States if, in the opinion of the Commission, the issuance of a license tosuch person would be inimical to the common defense and security or to the health and safety of the public.
+No license under this section may be given to any person for activities which are not under or within the jurisdiction of the United States, except for the export of production or utilization facilities under terms of an agreement for cooperation arranged pursuant to section 2153 of this title or except under the provisions of section 2139 of this title. No license may be issued to any corporation or other entity if the Commission knows or has reason to believe it is owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government. In any event, no license may be issued to any person within the United States if, in the opinion of the Commission, the issuance of a license to such person would be inimical to the common defense and security or to the health and safety of the public.
 
 (Aug. 1, 1946, ch. 724, title I, §104, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 937; amended Pub. L. 91–560, §5, Dec. 19, 1970, 84 Stat. 1472; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a) to (c), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
 

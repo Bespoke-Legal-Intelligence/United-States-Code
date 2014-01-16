@@ -22,13 +22,13 @@
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c). Pub. L. 112–213 struck out “of Homeland Security” after “Secretary”.
+<b>2012</b>—Subsec. (c). Pub. L. 112–213 struck out "of Homeland Security" after "Secretary".
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1998</b>—Pub. L. 105–383 substituted “Special agents of the Coast Guard Investigative Service law enforcement authority” for “Civilian agents authorized to carry firearms” as section catchline and amended text generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary with the approval of the Attorney General, civilian special agents of the Coast Guard may carry firearms or other appropriate weapons while assigned to official investigative or law enforcement duties.”
+<b>1998</b>—Pub. L. 105–383 substituted "Special agents of the Coast Guard Investigative Service law enforcement authority" for "Civilian agents authorized to carry firearms" as section catchline and amended text generally. Prior to amendment, text read as follows: "Under regulations prescribed by the Secretary with the approval of the Attorney General, civilian special agents of the Coast Guard may carry firearms or other appropriate weapons while assigned to official investigative or law enforcement duties."
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 

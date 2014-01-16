@@ -52,7 +52,7 @@ The Civil Rights Acts, referred to in subsec. (a)(1), are classified generally t
 
 <b>1989</b>—Subsec. (c)(2)(B), (C). Pub. L. 101–239 added Pub. L. 100–177, §402(c), see 1987 Amendment note below.
 
-<b>1987</b>—Subsec. (c)(2)(B), (C). Pub. L. 100–177, §402(c), as added by Pub. L. 101–239, redesignated subpar. (C) as (B), struck out “subparagraphs (A) and (B)” after “for purposes of”, and struck out former subpar. (B) which read as follows: “Subsection (a) of this section shall not apply to State laws in a State for actions commenced on or after October 14, 1989, if the State by legislation elects such treatment.”
+<b>1987</b>—Subsec. (c)(2)(B), (C). Pub. L. 100–177, §402(c), as added by Pub. L. 101–239, redesignated subpar. (C) as (B), struck out "subparagraphs (A) and (B)" after "for purposes of", and struck out former subpar. (B) which read as follows: "Subsection (a) of this section shall not apply to State laws in a State for actions commenced on or after October 14, 1989, if the State by legislation elects such treatment."
 
 #### Effective Date of 1987 Amendment
 
@@ -60,7 +60,7 @@ Amendment by Pub. L. 100–177 effective Nov. 14, 1986, see section 402(d) of Pu
 
 #### Effective Date
 
-Pub. L. 99–660, title IV, §416, Nov. 14, 1986, 100 Stat. 3788, provided that: “This part \[part A (§§411–416) of title IV of Pub. L. 99–660, enacting this subchapter\] shall apply to professional review actions commenced on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Pub. L. 99–660, title IV, §416, Nov. 14, 1986, 100 Stat. 3788, provided that: "This part \[part A (§§411–416) of title IV of Pub. L. 99–660, enacting this subchapter\] shall apply to professional review actions commenced on or after the date of the enactment of this Act \[Nov. 14, 1986\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “for purposes of subparagraph (A),”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "for purposes of subparagraph (A),".</i>
 

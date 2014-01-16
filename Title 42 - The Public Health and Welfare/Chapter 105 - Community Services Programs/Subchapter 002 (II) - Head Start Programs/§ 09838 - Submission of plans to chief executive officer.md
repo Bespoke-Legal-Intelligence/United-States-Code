@@ -6,13 +6,13 @@ In carrying out the provisions of this subchapter, no contract, agreement, grant
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–134 inserted at end “This section shall not apply to contracts, agreements, grants, loans, or other assistance for Indian Head Start programs or migrant or seasonal Head Start programs.”
+<b>2007</b>—Pub. L. 110–134 inserted at end "This section shall not apply to contracts, agreements, grants, loans, or other assistance for Indian Head Start programs or migrant or seasonal Head Start programs."
 
-<b>1998</b>—Pub. L. 105–285, in first sentence, substituted “45 days” for “30 days” and “disapproved (for reasons other than failure of the program to comply with State health, safety, and child care laws, including regulations applicable to comparable child care programs in the State)” for “so disapproved” and inserted “, as evidenced by a written statement of the Secretary's findings that is transmitted to such officer” before period.
+<b>1998</b>—Pub. L. 105–285, in first sentence, substituted "45 days" for "30 days" and "disapproved (for reasons other than failure of the program to comply with State health, safety, and child care laws, including regulations applicable to comparable child care programs in the State)" for "so disapproved" and inserted ", as evidenced by a written statement of the Secretary's findings that is transmitted to such officer" before period.
 
-<b>1992</b>—Pub. L. 102–401 substituted “such officer” for “the such officer” in two places.
+<b>1992</b>—Pub. L. 102–401 substituted "such officer" for "the such officer" in two places.
 
-<b>1990</b>—Pub. L. 101–501 substituted “chief executive officer” for first reference to “Governor” and “such officer” for second and third references to “Governor”.
+<b>1990</b>—Pub. L. 101–501 substituted "chief executive officer" for first reference to "Governor" and "such officer" for second and third references to "Governor".
 
 #### Effective Date of 1992 Amendment
 

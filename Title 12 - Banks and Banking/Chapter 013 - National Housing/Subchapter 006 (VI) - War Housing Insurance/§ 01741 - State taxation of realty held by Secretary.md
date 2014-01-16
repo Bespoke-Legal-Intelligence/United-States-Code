@@ -6,7 +6,7 @@ Nothing in this subchapter shall be construed to exempt any real property acquir
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner”.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner".
 
-<b>1950</b>—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator”.
+<b>1950</b>—Act Apr. 20, 1950, substituted "Commissioner" for "Administrator".
 

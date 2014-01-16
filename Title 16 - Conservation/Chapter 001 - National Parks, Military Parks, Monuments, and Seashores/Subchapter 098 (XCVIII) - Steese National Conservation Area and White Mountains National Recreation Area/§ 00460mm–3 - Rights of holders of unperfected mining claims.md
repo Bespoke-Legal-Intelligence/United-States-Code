@@ -1,8 +1,8 @@
 ### §460mm–3. Rights of holders of unperfected mining claims
 
-#### (a) “Unperfected mining claim” defined
+#### (a) "Unperfected mining claim" defined
 
-The term “unperfected mining claim” as used in this section, means a mining claim which is located on lands within the boundaries of the White Mountains National Recreation Area or Steese National Conservation Area established pursuant to this subchapter with respect to which a valid mineral discovery within the meaning of the mining laws of the United States, was not made as of the date of the withdrawal of such area from further appropriation under the mining laws of the United States.
+The term "unperfected mining claim" as used in this section, means a mining claim which is located on lands within the boundaries of the White Mountains National Recreation Area or Steese National Conservation Area established pursuant to this subchapter with respect to which a valid mineral discovery within the meaning of the mining laws of the United States, was not made as of the date of the withdrawal of such area from further appropriation under the mining laws of the United States.
 
 #### (b) Moratorium on contest proceedings
 
@@ -27,8 +27,6 @@ The holder of any unperfected mining claim which was, prior to November 16, 1978
 (Pub. L. 96–487, title IV, §404, Dec. 2, 1980, 94 Stat. 2397.)
 
 #### References in Text
-
-The mining laws of the United States, referred to in subsecs. (a) to (d), are classified generally to Title 30, Mineral Lands and Mining.
 
 This Act, referred to in subsec. (b), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 

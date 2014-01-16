@@ -82,7 +82,7 @@ Except as may otherwise be provided in law, the unexpended balances of appropria
 
 #### (1) In general
 
-&emsp;The provisions of this section shall not be construed to reduce the pay or benefits of anyemployee of the Capitol Police whose pay was disbursed by the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate before February 20, 2003.
+&emsp;The provisions of this section shall not be construed to reduce the pay or benefits of any employee of the Capitol Police whose pay was disbursed by the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate before February 20, 2003.
 
 #### (2) Superseding provisions
 

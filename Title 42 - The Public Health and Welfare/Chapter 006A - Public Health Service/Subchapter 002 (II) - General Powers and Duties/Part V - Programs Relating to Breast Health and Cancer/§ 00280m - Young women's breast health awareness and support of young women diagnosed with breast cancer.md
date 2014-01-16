@@ -22,7 +22,7 @@
 
 #### (3) Media campaign
 
-&emsp;In conducting the education campaign under paragraph (1), the Secretary shall award grants to entities to establish national multimedia campaigns oriented to young women that may include advertising through television, radio, print media, billboards, posters, all forms of existing and especially emerging social networking media, other Internet media, and any other medium determined appropriate by the Secretary.
+&emsp;In conducting the education campaign under paragraph (1), the Secretary shall award grants to entities to establish national multimedia campaigns oriented to young women that may include advertising through television, radio, print media, billboards, posters, all forms of existing and especially emergingsocial networking media, other Internet media, and any other medium determined appropriate by the Secretary.
 
 #### (4) Advisory committee
 
@@ -32,7 +32,7 @@
 
 #### (B) Membership
 
-&emsp;&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall appoint to the advisory committee under subparagraph (A) such members as deemed necessary to properly advise the Secretary, and shall include organizations and individuals with expertise in breast cancer, disease prevention, early detection, diagnosis, public health, social marketing, genetic screening and counseling,treatment, rehabilitation, palliative care, and survivorship in young women.
+&emsp;&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall appoint to the advisory committee under subparagraph (A) such members as deemed necessary to properly advise the Secretary, and shall include organizations and individuals with expertise in breast cancer, disease prevention, early detection, diagnosis, public health, social marketing, genetic screening and counseling, treatment, rehabilitation, palliative care, and survivorship in young women.
 
 #### (b) Health care professional education campaign
 
@@ -100,7 +100,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (g) Definition
 
-In this section, the term “young women” means women 15 to 44 years of age.
+In this section, the term "young women" means women 15 to 44 years of age.
 
 #### (h) Authorization of appropriations
 

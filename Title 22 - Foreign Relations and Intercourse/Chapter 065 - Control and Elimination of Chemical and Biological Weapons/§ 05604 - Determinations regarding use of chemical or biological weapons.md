@@ -28,7 +28,7 @@
 
 #### (1) Request
 
-&emsp;The Chairman of the Committee on Foreign Relations of the Senate (upon consultation with the ranking minority member of such committee) or the Chairman of the Committee on Foreign Affairs of the House of Representatives (upon consultation with the ranking minority member of such committee) may at any time request the President to consider whether a particular foreign government, on or after December 4, 1991, has used chemical or biological weapons in violation of international law or has used lethal chemical or biological weapons against its own nationals.
+&emsp;The Chairman of the Committee on Foreign Relations of the Senate (upon consultation with the ranking minority member of suchcommittee) or the Chairman of the Committee on Foreign Affairs of the House of Representatives (upon consultation with the ranking minority member of such committee) may at any time request the President to consider whether a particular foreign government, on or after December 4, 1991, has used chemical or biological weapons in violation of international law or has used lethal chemical or biological weapons against its own nationals.
 
 #### (2) Report to Congress
 
@@ -38,7 +38,7 @@
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 101–182, §309(b)(3), substituted “October 28, 1991” for reference to the “date of the enactment of this title”, meaning the date of the enactment of title V of Pub. L. 101–182 which was enacted Dec. 4, 1991. “October 28, 1991”, the second time appearing, was substituted for “such date of enactment” for purposes of codification.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 101–182, §309(b)(3), substituted "October 28, 1991" for reference to the "date of the enactment of this title", meaning the date of the enactment of title V of Pub. L. 101–182 which was enacted Dec. 4, 1991. "October 28, 1991", the second time appearing, was substituted for "such date of enactment" for purposes of codification.
 
 #### Delegation of Functions
 

@@ -44,7 +44,7 @@
 
 &emsp;(3) sections 1343, 1344, and 1349(b) of this title;
 
-&emsp;(4) chapter 171 of title 28 (commonly referred to as the “Federal Tort Claims Act”) and any other Federal tort liability statute;
+&emsp;(4) chapter 171 of title 28 (commonly referred to as the "Federal Tort Claims Act") and any other Federal tort liability statute;
 
 &emsp;(5) the Ethics in Government Act of 1978 (5 U.S.C. App.);
 
@@ -86,7 +86,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§2(related to appointment, pay, and assignme
 
 31:56.
 
-Mar. 4, 1909, ch. 297, §1(proviso on p. 866), 35 Stat 866; May 29, 1920, ch. 214, §1(last par. under heading “Office of Comptroller of the Treasury”), 41 Stat. 647.
+Mar. 4, 1909, ch. 297, §1(proviso on p. 866), 35 Stat 866; May 29, 1920, ch. 214, §1(last par. under heading "Office of Comptroller of the Treasury"), 41 Stat. 647.
 
 731(b)
 
@@ -116,17 +116,17 @@ Jan. 2, 1975, Pub. L. 93–604, §401, 88 Stat. 1962.
 
 Oct. 26, 1970, Pub. L. 91–510, §204(d)(last sentence), 84 Stat. 1168; restated July 12, 1974, Pub. L. 93–344, §702(a), 88 Stat. 326.
 
-In subsection (a), the text of 31:52(a) and (b) and 31:56 is omitted as superseded by the other source provisions restated in this subchapter and subchapter IV of this chapter. The word “remove” is added for consistency with other provisions of the subchapter. The words “officers (except the Deputy Comptroller General) and employees” are substituted for “personnel” in 31:52–1, and the word “powers” is substituted for “functions”, for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the text of 31:52(a) and (b) and 31:56 is omitted as superseded by the other source provisions restated in this subchapter and subchapter IV of this chapter. The word "remove" is added for consistency with other provisions of the subchapter. The words "officers (except the Deputy Comptroller General) and employees" are substituted for "personnel" in 31:52–1, and the word "powers" is substituted for "functions", for consistency in the revised title and with other titles of the United States Code.
 
-Subsection (b) is substituted for 31:52–4(b) to eliminate unnecessary words. The words “officers and” are added for consistency in the revised title and with other titles of the Code.
+Subsection (b) is substituted for 31:52–4(b) to eliminate unnecessary words. The words "officers and" are added for consistency in the revised title and with other titles of the Code.
 
-In subsections (c) and (d), the words “basic pay” are substituted for “compensation” for consistency in the revised title and with other titles of the Code.
+In subsections (c) and (d), the words "basic pay" are substituted for "compensation" for consistency in the revised title and with other titles of the Code.
 
-In subsection (c), the words “United States” and “positions at” are omitted as surplus.
+In subsection (c), the words "United States" and "positions at" are omitted as surplus.
 
-In subsection (d), the words “in the General Accounting Office”, “prescribed . . . under section 5315 of title 5”, and “of the Office” are omitted as surplus.
+In subsection (d), the words "in the General Accounting Office", "prescribed . . . under section 5315 of title 5", and "of the Office" are omitted as surplus.
 
-In subsection (e), before clause (1), the words “procure the services of” are substituted for “employ” for consistency with 5:3109. The words “at rates not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5 for persons in the Government service employed intermittently” are omitted as unnecessary because of 5:3109. In clause (1), the word “periods” is omitted as surplus. Clause (2) is substituted for 31:1154(d)(last sentence) to eliminate unnecessary words. The words “and consultants” are added because of 5:3109.
+In subsection (e), before clause (1), the words "procure the services of" are substituted for "employ" for consistency with 5:3109. The words "at rates not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5 for persons in the Government service employed intermittently" are omitted as unnecessary because of 5:3109. In clause (1), the word "periods" is omitted as surplus. Clause (2) is substituted for 31:1154(d)(last sentence) to eliminate unnecessary words. The words "and consultants" are added because of 5:3109.
 
 #### References in Text
 
@@ -142,19 +142,19 @@ Section 1043 of the Internal Revenue Code of 1986, referred to in subsec. (i)(6)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (i)(7). Pub. L. 111–350 substituted “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)”.
+<b>2011</b>—Subsec. (i)(7). Pub. L. 111–350 substituted "chapter 21 of title 41" for "section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)".
 
-<b>2008</b>—Subsec. (d). Pub. L. 110–323, §9(a)(1), struck out subsec. (d) which read as follows: “When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule.”
+<b>2008</b>—Subsec. (d). Pub. L. 110–323, §9(a)(1), struck out subsec. (d) which read as follows: "When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule."
 
-Subsec. (e). Pub. L. 110–323, §9(a)(2), substituted “daily rate for level IV of the Executive Schedule” for “maximum daily rate for GS–18 under section 5332 of such title” and “more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.” for “more than—
+Subsec. (e). Pub. L. 110–323, §9(a)(2), substituted "daily rate for level IV of the Executive Schedule" for "maximum daily rate for GS–18 under section 5332 of such title" and "more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable." for "more than—
 
-&emsp;“(1) 15 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable; and
+&emsp;"(1) 15 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable; and
 
-&emsp;“(2) 10 experts and consultants may be procured permanently, temporarily, or intermittently to carry out sections 717(b)–(d) and 719(b)(1)(A) of this title at rates that are not more than the rate for level IV of the Executive Schedule.”
+&emsp;"(2) 10 experts and consultants may be procured permanently, temporarily, or intermittently to carry out sections 717(b)–(d) and 719(b)(1)(A) of this title at rates that are not more than the rate for level IV of the Executive Schedule."
 
 Subsec. (j). Pub. L. 110–323, §9(a)(3), added subsec. (j).
 
-<b>2004</b>—Subsecs. (a), (c). Pub. L. 108–271, §8(b), substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsecs. (a), (c). Pub. L. 108–271, §8(b), substituted "Government Accountability Office" for "General Accounting Office".
 
 Subsec. (f). Pub. L. 108–271, §5, added subsec. (f).
 
@@ -162,51 +162,51 @@ Subsec. (g). Pub. L. 108–271, §6, added subsec. (g).
 
 Subsecs. (h), (i). Pub. L. 108–271, §7, added subsecs. (h) and (i).
 
-<b>2000</b>—Subsec. (e)(1). Pub. L. 106–303, §5(1), substituted “terms of not more than 3 years, but which shall be renewable” for “not more than 3 years”.
+<b>2000</b>—Subsec. (e)(1). Pub. L. 106–303, §5(1), substituted "terms of not more than 3 years, but which shall be renewable" for "not more than 3 years".
 
-Subsec. (e)(2). Pub. L. 106–303, §5(2), substituted “level IV” for “level V”.
+Subsec. (e)(2). Pub. L. 106–303, §5(2), substituted "level IV" for "level V".
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–89 inserted before period at end “, as in effect on October 31, 1993”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–89 inserted before period at end ", as in effect on October 31, 1993".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–615 substituted “section 5401 of title 5” for “section 5401(a) of title 5”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–615 substituted "section 5401 of title 5" for "section 5401(a) of title 5".
 
-Subsec. (e). Pub. L. 98–236 substituted “title 5 at rates not in excess of the maximum daily rate for GS–18under section 5332 of such title” for “title 5” in provisions preceding par. (1) and “15” for “10” in par. (1).
+Subsec. (e). Pub. L. 98–236 substituted "title 5 at rates not in excess of the maximum daily rate for GS–18 under section 5332 of such title" for "title 5" in provisions preceding par. (1) and "15" for "10" in par. (1).
 
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–271, §13, July 7, 2004, 118 Stat. 816, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as provided in subsection (b), this Act \[see Tables for classification\] and the amendments made by this Act shall take effect on the date of enactment of this Act \[July 7, 2004\].
 
-“(b)
+"(b)
 
 Pay Adjustments.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Section 3 of this Act \[amending sections 732 and 733 of this title\] and the amendments made by that section shall take effect on October 1, 2005, and shall apply in the case of any annual pay adjustment taking effect on or after that date.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Interim authorities.—In connection with any pay adjustment taking effect under section 732(c)(3) or 733(a)(3)(B) of title 31, United States Code, before October 1, 2005, the Comptroller General may by regulation—
 
-&emsp;&emsp;“(A) provide that such adjustment not be applied in the case of any officer or employee whose performance is not at a satisfactory level, as determined by the Comptroller General for purposes of such adjustment; and
+&emsp;&emsp;"(A) provide that such adjustment not be applied in the case of any officer or employee whose performance is not at a satisfactory level, as determined by the Comptroller General for purposes of such adjustment; and
 
-&emsp;&emsp;“(B) provide that such adjustment be reduced if and to the extent necessary because of extraordinary economic conditions or serious budget constraints.
+&emsp;&emsp;"(B) provide that such adjustment be reduced if and to the extent necessary because of extraordinary economic conditions or serious budget constraints.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Additional authority.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The Comptroller General may by regulation delay the effective date of section 3 of this Act and the amendments made by that section for groups of officers and employees that the Comptroller General considers appropriate.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Interim authorities.—If the Comptroller General provides for a delayed effective date under subparagraph (A) with respect to any group of officers or employees, paragraph (2) shall, for purposes of such group, be applied by substituting such date for ‘October 1, 2005’.”
+Interim authorities.—If the Comptroller General provides for a delayed effective date under subparagraph (A) with respect to any group of officers or employees, paragraph (2) shall, for purposes of such group, be applied by substituting such date for 'October 1, 2005'."
 
 #### Effective Date of 1993 Amendment
 
@@ -216,9 +216,9 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 Pub. L. 98–615, title II, §205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
-Pub. L. 98–326, §2, June 22, 1984, 98 Stat. 269, provided that: “The amendments made by this Act \[amending this section and sections 732 and 733 of this title\] shall take effect beginning on October 1, 1984.”
+Pub. L. 98–326, §2, June 22, 1984, 98 Stat. 269, provided that: "The amendments made by this Act \[amending this section and sections 732 and 733 of this title\] shall take effect beginning on October 1, 1984."
 
 #### Consultation
 
-Pub. L. 108–271, §10, July 7, 2004, 118 Stat. 815, provided that: “Before the implementation of any changes authorized under this Act \[see Tables for classification\], the Comptroller General shall consult with any interested groups or associations representing officers and employees of the General Accounting Office \[now Government Accountability Office\].”
+Pub. L. 108–271, §10, July 7, 2004, 118 Stat. 815, provided that: "Before the implementation of any changes authorized under this Act \[see Tables for classification\], the Comptroller General shall consult with any interested groups or associations representing officers and employees of the General Accounting Office \[now Government Accountability Office\]."
 

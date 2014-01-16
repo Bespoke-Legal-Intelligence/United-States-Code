@@ -66,7 +66,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (a) of this section, if, upon motion made not later than 6 months after a final judgment is entered in any Y2K action that is not a contract action, the court determines that all or part of the share of the judgment against a defendant for compensatory damages is not collectible against that defendant, then each other defendant in the action is liable for the uncollectible share as follows:
+&emsp;&emsp;Notwithstanding subsection (a) of this section, if, upon motion made not later than 6months after a final judgment is entered in any Y2K action that is not a contract action, the court determines that all or part of the share of the judgment against a defendant for compensatory damages is not collectible against that defendant, then each other defendant in the action is liable for the uncollectible share as follows:
 
 #### (i) Percentage of net worth
 
@@ -78,7 +78,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (ii) Other plaintiffs
 
-&emsp;&emsp;&emsp;For a plaintiff not described in clause (i), each of the other defendants is liable forthe uncollectible share in proportion to the percentage of responsibility of that defendant.
+&emsp;&emsp;&emsp;For a plaintiff not described in clause (i), each of the other defendants is liable for the uncollectible share in proportion to the percentage of responsibility of that defendant.
 
 #### (iii) Additional liability
 
@@ -102,15 +102,15 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 &emsp;&emsp;(ii) In this subparagraph:
 
-&emsp;&emsp;&emsp;(I) The term “class action” means—
+&emsp;&emsp;&emsp;(I) The term "class action" means—
 
 &emsp;&emsp;&emsp;&emsp;(aa) a single lawsuit in which: (1) damages are sought on behalf of more than 10 persons or prospective class members; or (2) one or more named parties seek to recover damages on a representative basis on behalf of themselves and other unnamed parties similarly situated; or
 
 &emsp;&emsp;&emsp;&emsp;(bb) any group of lawsuits filed in or pending in the same court in which: (1) damages are sought on behalf of more than 10 persons; and (2) the lawsuits are joined, consolidated, or otherwise proceed as a single action for any purpose.
 
-&emsp;&emsp;&emsp;(II) The term “consumer” means an individual who acquires a consumer product for purposes other than resale.
+&emsp;&emsp;&emsp;(II) The term "consumer" means an individual who acquires a consumer product for purposes other than resale.
 
-&emsp;&emsp;&emsp;(III) The term “consumer product” means any personal property or service which is normally used for personal, family, or household purposes.
+&emsp;&emsp;&emsp;(III) The term "consumer product" means any personal property or service which is normally used for personal, family, or household purposes.
 
 #### (2) Special right of contribution
 
@@ -150,7 +150,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (1) In general
 
-&emsp;A defendant who is jointly and severally liable for damages in any Y2K action that is not a contract action may recover contribution from any other person who, if joined in the original action, would have been liable for the same damages. A claim for contribution shall be determined based on the percentage of responsibility of the claimant and of each person against whom a claim for contribution is made.
+&emsp;A defendant who is jointly and severally liable for damages in any Y2K action that is nota contract action may recover contribution from any other person who, if joined in the original action, would have been liable for the same damages. A claim for contribution shall be determined based on the percentage of responsibility of the claimant and of each person against whom a claim for contribution is made.
 
 #### (2) Statute of limitations for contribution
 

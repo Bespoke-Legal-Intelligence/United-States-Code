@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(ii) developing accountability systems to monitor the academic progress of limited English proficient and formerly limited English proficient children;
 
-&emsp;&emsp;&emsp;(iii) implementing family education programs and parent outreach and training activities designed to assist parents to become active participants in the education of their children;
+&emsp;&emsp;&emsp;(iii) implementing family education programs and parent outreach and trainingactivities designed to assist parents to become active participants in the education of their children;
 
 &emsp;&emsp;&emsp;(iv) improving the instruction programs for limited English proficient children by identifying, acquiring, and applying effective curricula, instruction materials (including materials provided through technology), and assessments that are all aligned with State and local standards;
 
@@ -68,7 +68,7 @@ In awarding grants under this section, the Secretary may give priority to an ent
 
 #### (c) Eligible entity
 
-In this section, the term “eligible entity” means—
+In this section, the term "eligible entity" means—
 
 &emsp;(1) one or more local educational agencies;
 

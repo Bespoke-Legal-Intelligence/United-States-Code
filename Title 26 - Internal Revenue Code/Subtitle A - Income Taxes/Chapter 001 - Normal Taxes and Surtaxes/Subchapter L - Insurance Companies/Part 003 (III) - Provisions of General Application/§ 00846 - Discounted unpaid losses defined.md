@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the term “undiscounted unpaid losses” means the unpaid losses shown in the annual statement filed by the taxpayer for the year ending with or within the taxable year of the taxpayer.
+&emsp;Except as otherwise provided in this subsection, the term "undiscounted unpaid losses" means the unpaid losses shown in the annual statement filed by the taxpayer for the year ending with or within the taxable year of the taxpayer.
 
 #### (2) Adjustment if losses discounted on annual statement
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) during the accident year and the 3 calendar years following the accident year, or
 
-&emsp;&emsp;&emsp;(ii) in the case of any line of business reported in the schedule or schedules of the annual statement relating to auto liability, other liability, medical malpractice, workers’ compensation, and multiple peril lines, during the accident year and the 10 calendar years following the accident year.
+&emsp;&emsp;&emsp;(ii) in the case of any line of business reported in the schedule or schedules of the annual statement relating to auto liability, other liability, medical malpractice, workers' compensation, and multiple peril lines, during the accident year and the 10 calendar years following the accident year.
 
 #### (B) Treatment of certain losses
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (D) Long-tail line of business
 
-&emsp;&emsp;For purposes of subparagraph (C), the term “long-tail line of business” means any line of business described in subparagraph (A)(ii) if the amount of losses which (without regard to subparagraph (C)) would be treated as paid in the 10th year after the accidentyear exceeds the losses treated as paid in the 9th year after the accident year.
+&emsp;&emsp;For purposes of subparagraph (C), the term "long-tail line of business" means any line of business described in subparagraph (A)(ii) if the amount of losses which (without regard to subparagraph (C)) would be treated as paid in the 10th year after the accidentyear exceeds the losses treated as paid in the 9th year after the accident year.
 
 #### (E) Special rule for international and reinsurance lines of business
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 #### (4) Determination year
 
-&emsp;For purposes of this section, the term “determination year” means calendar year 1987 and each 5th calendar year thereafter.
+&emsp;For purposes of this section, the term "determination year" means calendar year 1987 and each 5th calendar year thereafter.
 
 #### (e) Election to use company's historical payment pattern
 
@@ -168,23 +168,23 @@ For purposes of this section—
 
 #### (1) Accident year
 
-&emsp;The term “accident year” means the calendar year in which the incident occurs which gives rise to the related unpaid loss.
+&emsp;The term "accident year" means the calendar year in which the incident occurs which gives rise to the related unpaid loss.
 
 #### (2) Unpaid loss adjustment expenses
 
-&emsp;The term “unpaid losses” includes any unpaid loss adjustment expenses shown on the annual statement.
+&emsp;The term "unpaid losses" includes any unpaid loss adjustment expenses shown on the annual statement.
 
 #### (3) Annual statement
 
-&emsp;The term “annual statement” means the annual statement approved by the National Association of Insurance Commissioners which the taxpayer is required to file with insurance regulatory authorities of a State.
+&emsp;The term "annual statement" means the annual statement approved by the National Association of Insurance Commissioners which the taxpayer is required to file with insurance regulatory authorities of a State.
 
 #### (4) Line of business
 
-&emsp;The term “line of business” means a category for the reporting of loss payment patterns determined on the basis of the annual statement for fire and casualty insurance companies for the calendar year ending with or within the taxable year, except that the multiple peril lines shall be treated as a single line of business.
+&emsp;The term "line of business" means a category for the reporting of loss payment patterns determined on the basis of the annual statement for fire and casualty insurance companies for the calendar year ending with or within the taxable year, except that the multiple peril lines shall be treated as a single line of business.
 
 #### (5) Multiple peril lines
 
-&emsp;The term “multiple peril lines” means the lines of business relating to farmowners multiple peril, homeowners multiple peril, commercial multiple peril, ocean marine, aircraft (all perils) and boiler and machinery.
+&emsp;The term "multiple peril lines" means the lines of business relating to farmowners multiple peril, homeowners multiple peril, commercial multiple peril, ocean marine, aircraft (all perils) and boiler and machinery.
 
 #### (6) Special rule for certain accident and health insurance lines of business
 
@@ -210,9 +210,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-<b>1990</b>—Subsec. (g). Pub. L. 101–508 inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which required regulations providing proper treatment of salvage and reinsurance recoverable attributable to unpaid losses.
+<b>1990</b>—Subsec. (g). Pub. L. 101–508 inserted "and" at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which required regulations providing proper treatment of salvage and reinsurance recoverable attributable to unpaid losses.
 
-<b>1988</b>—Subsec. (f)(6)(B). Pub. L. 100–647, §1010(e)(1), substituted “paid in the middle of the year” for “paid during the year”.
+<b>1988</b>—Subsec. (f)(6)(B). Pub. L. 100–647, §1010(e)(1), substituted "paid in the middle of the year" for "paid during the year".
 
 Subsec. (g)(3). Pub. L. 100–647, §1010(e)(2), added par. (3).
 
@@ -228,55 +228,55 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Pub. L. 99–514, title X, §1023(e), Oct. 22, 1986, 100 Stat. 2404, as amended by Pub. L. 100–647, title I, §1010(e)(3), Nov. 10, 1988, 102 Stat. 3453, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting this section and amending sections 807 and 832 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
-“(2)
+"(2)
 
 Transitional rule.—For the first taxable year beginning after December 31, 1986—
 
-&emsp;“(A) the unpaid losses and the expenses unpaid (as defined in paragraphs (5)(B) and (6) of section 832(b) of the Internal Revenue Code of 1986) at the end of the preceding taxable year, and
+&emsp;"(A) the unpaid losses and the expenses unpaid (as defined in paragraphs (5)(B) and (6) of section 832(b) of the Internal Revenue Code of 1986) at the end of the preceding taxable year, and
 
-&emsp;“(B) the unpaid losses as defined in sections 807(c)(2) and 805(a)(1) of such Code at the end of the preceding taxable year,
+&emsp;"(B) the unpaid losses as defined in sections 807(c)(2) and 805(a)(1) of such Code at the end of the preceding taxable year,
 
 > shall be determined as if the amendments made by this section had applied to such unpaid losses and expenses unpaid in the preceding taxable year and by using the interest rate and loss payment patterns applicable to accident years ending with calendar year 1987. For subsequent taxable years, such amendments shall be applied with respect to such unpaid losses and expenses unpaid by using the interest rate and loss payment patterns applicable to accident years ending with calendar year 1987.
 
-“(3)
+"(3)
 
 Fresh start.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Except as otherwise provided in this paragraph, any difference between—
 
-&emsp;&emsp;“(i) the amount determined to be the unpaid losses and expenses unpaid for the year preceding the 1st taxable year of an insurance company beginning after December 31, 1986, determined without regard to paragraph (2), and
+&emsp;&emsp;"(i) the amount determined to be the unpaid losses and expenses unpaid for the year preceding the 1st taxable year of an insurance company beginning after December 31, 1986, determined without regard to paragraph (2), and
 
-&emsp;&emsp;“(ii) such amount determined with regard to paragraph (2),
+&emsp;&emsp;"(ii) such amount determined with regard to paragraph (2),
 
 > &emsp;shall not be taken into account for purposes of the Internal Revenue Code of 1986.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Reserve strengthening in years after 1985.—Subparagraph (A) shall not apply to any reserve strengthening in a taxable year beginning in 1986, and such strengthening shall be treated as occurring in the taxpayer's 1st taxable year beginning after December 31, 1986.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Effect on earnings and profits.—The earnings and profits of any insurance company for its 1st taxable year beginning after December 31, 1986, shall be increased by the amount of the difference determined under subparagraph (A) with respect to such company.
 
-“(4)
+"(4)
 
 Application of fresh start to companies which become subject to section 831(a)
 
 tax in later taxable year.—If—
 
-&emsp;“(A) an insurance company was not subject to tax under section 831(a) of the Internal Revenue Code of 1986 for its 1st taxable year beginning after December 31, 1986, by reason of being—
+&emsp;"(A) an insurance company was not subject to tax under section 831(a) of the Internal Revenue Code of 1986 for its 1st taxable year beginning after December 31, 1986, by reason of being—
 
-&emsp;&emsp;“(i) subject to tax under section 831(b) of such Code, or
+&emsp;&emsp;"(i) subject to tax under section 831(b) of such Code, or
 
-&emsp;&emsp;“(ii) described in section 501(c) of such Code and exempt from tax under section 501(a) of such Code, and
+&emsp;&emsp;"(ii) described in section 501(c) of such Code and exempt from tax under section 501(a) of such Code, and
 
-&emsp;“(B) such company becomes subject to tax under such section 831(a) for any later taxable year,
+&emsp;"(B) such company becomes subject to tax under such section 831(a) for any later taxable year,
 
-> paragraph (2) and subparagraphs (A) and (C) of paragraph (3) shall be applied by treating such later taxable year as its 1st taxable year beginning after December 31, 1986, and by treating the calendar year in which such later taxable year begins as 1987; and paragraph (3)(B) shall not apply.”
+> paragraph (2) and subparagraphs (A) and (C) of paragraph (3) shall be applied by treating such later taxable year as its 1st taxable year beginning after December 31, 1986, and by treating the calendar year in which such later taxable year begins as 1987; and paragraph (3)(B) shall not apply."
 

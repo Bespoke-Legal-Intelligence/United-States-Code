@@ -22,7 +22,7 @@
 
 &emsp;(4) “pay” means—
 
-&emsp;&emsp;(A) basic pay, premium pay paid under subchapter V, any payment received under subchapter VI, VII, or VIII, severance andback pay paid under subchapter IX, sick pay, incentive pay, and any other compensation paid or payable for personal services, whether such compensation is denominated as wages, salary, commission, bonus pay or otherwise; and
+&emsp;&emsp;(A) basic pay, premium pay paid under subchapter V, any payment received under subchapter VI, VII, or VIII, severance and back pay paid under subchapter IX, sick pay, incentive pay, and any other compensation paid or payable for personal services, whether such compensation is denominated as wages, salary, commission, bonus pay or otherwise; and
 
 &emsp;&emsp;(B) does not include awards for making suggestions.
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) consideration for the absence of a member of the uniformed service from an appearance in a judicial proceeding resulting from the exigencies of military duty.
 
-(3) The Secretaries of the Executive departments concerned shall promulgate regulations under this subsection that are, as far as practicable, uniform for all of the uniformed services. The Secretary of Defense shall consult with the Secretary of Homeland Security with regard to the promulgation of such regulations thatmight affect members of the Coast Guard when the Coast Guard is operating as a service in the Navy.
+(3) The Secretaries of the Executive departments concerned shall promulgate regulations under this subsection that are, as far as practicable, uniform for all of the uniformed services. The Secretary of Defense shall consult with the Secretary of Homeland Security with regard to the promulgation of such regulations that might affect members of the Coast Guard when the Coast Guard is operating as a service in the Navy.
 
 (Added Pub. L. 103–94, §9(a), Oct. 6, 1993, 107 Stat. 1007; amended Pub. L. 104–106, div. A, title VI, §643, Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–193, title III, §362(b)(2), Aug. 22, 1996, 110 Stat. 2246; Pub. L. 105–85, div. A, title XI, §1105, Nov. 18, 1997, 111 Stat. 1923; Pub. L. 108–189, §2(b)(1), Dec. 19, 2003, 117 Stat. 2865; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
@@ -110,7 +110,11 @@ For provisions relating to effective date of title III of Pub. L. 104–193, see
 
 #### Effective Date; Savings Provision
 
-Section effective 120 days after Oct. 6, 1993, and not to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as a note under section 7321 of this title.
+Section effective 120 days after Oct. 6, 1993, and not to affect any proceedings with respect to which chargeswere filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as a note under section 7321 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Pilot Program on Alternative Notice of Receipt of Legal Process for Garnishment of Federal Pay for Child Support and Alimony
 

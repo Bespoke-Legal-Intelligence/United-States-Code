@@ -26,7 +26,7 @@ The remedies and penalties prescribed in this subchapter shall be concurrent and
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–380 substituted “(1) Except as provided in paragraph (2), if any” for “If any”, substituted “$20,000” for “$10,000”, inserted at end “The Secretary shall, by regulation at least every 3 years, adjust the penalty specified in this paragraph to reflect any increases in the Consumer Price Index (all items, United States city average) as prepared by the Department of Labor”, and added par. (2).
+<b>1990</b>—Subsec. (b). Pub. L. 101–380 substituted "(1) Except as provided in paragraph (2), if any" for "If any", substituted "$20,000" for "$10,000", inserted at end "The Secretary shall, by regulation at least every 3 years, adjust the penalty specified in this paragraph to reflect any increases in the Consumer Price Index (all items, United States city average) as prepared by the Department of Labor", and added par. (2).
 
 #### Effective Date of 1990 Amendment
 
@@ -34,5 +34,5 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

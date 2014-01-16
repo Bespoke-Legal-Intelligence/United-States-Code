@@ -10,5 +10,5 @@ On a periodic basis (not less frequently than every 4 years), the Council, throu
 
 (Pub. L. 101–606, title I, §106, Nov. 16, 1990, 104 Stat. 3101.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “human-induced”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "human-induced".</i>
 

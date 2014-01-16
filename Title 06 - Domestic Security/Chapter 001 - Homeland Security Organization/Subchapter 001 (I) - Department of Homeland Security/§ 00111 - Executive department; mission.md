@@ -42,7 +42,7 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 
 #### Transfer of Certain OPM Authority to Department of Homeland Security
 
-Pub. L. 109–295, title V, §513, Oct. 4, 2006, 120 Stat. 1378, provided that: “Notwithstanding any other provision of law, the authority of the Office of Personnel Management to conduct personnel security and suitability background investigations, update investigations, and periodic reinvestigations of applicants for, or appointees in, positions in the Office of the Secretary and Executive Management, the Office of the Under Secretary for Management, Analysis and Operations, Immigration and Customs Enforcement, the Directorate for Preparedness, and the Directorate of Science and Technology of the Department of Homeland Security is transferred to the Department of Homeland Security: <i>Provided</i>, That on request of the Department of Homeland Security, the Office of Personnel Management shall cooperate with and assist the Department in any investigation or reinvestigation under this section: <i>Provided further</i>, That this section shall cease to be effective at such time as the President has selected a single agency to conduct security clearance investigations pursuant to section 3001(c) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 50 U.S.C. 435b) and the entity selected pursuant to section 3001(b) of such Act has reported to Congress that the agency selected pursuant to such section 3001(c) is capable of conducting all necessary investigations in a timely manner or has authorized the entities within the Department of Homeland Security covered by this section to conduct their own investigations pursuant to section 3001 of such Act.”
+Pub. L. 109–295, title V, §513, Oct. 4, 2006, 120 Stat. 1378, provided that: “Notwithstanding any other provision of law, the authority of the Office of Personnel Management to conduct personnel security and suitability background investigations, update investigations, and periodic reinvestigations of applicants for, or appointees in, positions in the Office of the Secretary and Executive Management, the Office of the Under Secretary for Management, Analysis and Operations, Immigration and Customs Enforcement, the Directorate for Preparedness, and the Directorate of Science and Technology of the Department of Homeland Security is transferred to the Department of Homeland Security: <i>Provided</i>, That on request of the Department of Homeland Security, the Office of Personnel Management shall cooperate with and assist the Department in any investigation or reinvestigation under this section: <i>Provided further</i>, That this section shall cease to be effective at such time as the President has selected a single agency to conduct security clearance investigations pursuant to section 3001(c) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 50 U.S.C. 435b \[now 50 U.S.C. 3341\]) and the entity selected pursuant to section 3001(b) of such Act has reported to Congress that the agency selected pursuant to such section 3001(c) is capable of conducting all necessary investigations in a timely manner or has authorized the entities within the Department of Homeland Security covered by this section to conduct their own investigations pursuant to section 3001 of such Act.”
 
 \[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Directorate for Preparedness, as constituted on June 1, 2006, including the functions of the Under Secretary for Preparedness relating thereto, to the Federal Emergency Management Agency, with certain exceptions, see section 315(a)(2), (b) of this title.\]
 
@@ -64,7 +64,7 @@ Sec. 2. \[Amended Ex. Ord. No. 13274, set out as a note under section 301 of Tit
 
 Sec. 3. \[Amended Ex. Ord. No. 13271, formerly set out as a note under section 509 of Title 28, Judiciary and Judicial Procedure.\]
 
-Sec. 4. \[Amended and revoked Ex. Ord. No. 13260, set out as a note under section 402 of Title 50, War and National Defense.\]
+Sec. 4. \[Amended and revoked Ex. Ord. No. 13260, set out as a note under section 3021 of Title 50, War and National Defense.\]
 
 Sec. 5. \[Amended Ex. Ord. No. 13257, set out as a note under section 7103 of Title 22, Foreign Relations and Intercourse.\]
 
@@ -72,7 +72,7 @@ Sec. 6. \[Amended Ex. Ord. No. 13254, set out as a note under section 12501 of T
 
 Sec. 7. \[Amended Ex. Ord. No. 13231, set out as a note under section 121 of this title.\]
 
-Sec. 8. \[Amended Ex. Ord. No. 13228, set out as a note under section 402 of Title 50, War and National Defense.\]
+Sec. 8. \[Amended Ex. Ord. No. 13228, set out as a note under section 3021 of Title 50, War and National Defense.\]
 
 Sec. 9. \[Amended Ex. Ord. No. 13223, set out as a note under section 12302 of Title 10, Armed Forces.\]
 
@@ -238,7 +238,7 @@ Those elements of the Department of Homeland Security that are supervised by the
 
 Sec. 87. <i>Functions of Certain Officials in the Coast Guard.</i>
 
-The Commandant and the Assistant Commandant for Intelligence of the Coast Guard each shall be considered a “Senior Official of the Intelligence Community” for purposes of Executive Order 12333 of December 4, 1981 \[50 U.S.C. 401 note\], and all other relevant authorities.
+The Commandant and the Assistant Commandant for Intelligence of the Coast Guard each shall be considered a “Senior Official of the Intelligence Community” for purposes of Executive Order 12333 of December 4, 1981 \[50 U.S.C. 3001 note\], and all other relevant authorities.
 
 Sec. 88. <i>Order of Succession.</i>
 
@@ -292,7 +292,7 @@ Except as otherwise specifically provided above or in Executive Order 13284 of J
 
 Sec. 90. Nothing in this order shall be construed to impair or otherwise affect the authority of the Secretary of Defense with respect to the Department of Defense, including the chain of command for the armed forces of the United States under section 162(b) of title 10, United States Code, and the authority of the Secretary of Defense with respect to the Department of Defense under section 113(b) of that title.
 
-Sec. 91. Nothing in this order shall be construed to limit or restrict the authorities of the Central Intelligence Agency and the Director of Central Intelligence pursuant to the National Security Act of 1947 \[see Short Title note set out under 50 U.S.C. 401\] and the CIA Act of 1949 \[probably means the Central Intelligence Agency Act of 1949, see Short Title note set out under 50 U.S.C. 403a\].
+Sec. 91. Nothing in this order shall be construed to limit or restrict the authorities of the Central Intelligence Agency and the Director of Central Intelligence pursuant to the National Security Act of 1947 \[act July 26, 1947, ch. 343; see Tables for classification\] and the CIA Act of 1949 \[probably means the Central Intelligence Agency Act of 1949, act June 20, 1949, ch. 227; see Tables for classification\].
 
 Sec. 92. This order shall become effective on March 1, 2003.
 
@@ -300,7 +300,7 @@ Sec. 93. This order does not create any right or benefit, substantive or procedu
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a) and (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a) and (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.\]
 
 #### Executive Order No. 13362
 

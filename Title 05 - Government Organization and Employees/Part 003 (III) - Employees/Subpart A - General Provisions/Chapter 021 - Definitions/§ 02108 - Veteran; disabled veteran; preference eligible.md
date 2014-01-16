@@ -6,7 +6,7 @@ For the purpose of this title—
 
 &emsp;&emsp;(A) served on active duty in the armed forces during a war, in a campaign or expedition for which a campaign badge has been authorized, or during the period beginning April 28, 1952, and ending July 1, 1955;
 
-&emsp;&emsp;(B) served on active duty as defined by section 101(21) of title 38 at any time in the armed forces for a period of more than 180 consecutive days any part of which occurred after January 31, 1955, and before October 15, 1976, not including service under section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve;
+&emsp;&emsp;(B) served on active duty as defined by section 101(21) of title 38 at any time in the armed forces for a period of more than 180consecutive days any part of which occurred after January 31, 1955, and before October 15, 1976, not including service under section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve;
 
 &emsp;&emsp;(C) served on active duty as defined by section 101(21) of title 38 in the armed forces during the period beginning on August 2, 1990, and ending on January 2, 1992; or
 

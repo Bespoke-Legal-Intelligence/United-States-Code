@@ -28,7 +28,7 @@ The High Plains Groundwater Demonstration Program Act of 1983, referred to in su
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–266, §2(b)(2), made technical amendment to reference in original act which appears in text as reference to section 390h–15 of this title.
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" before "of the House".
 
 #### Change of Name
 

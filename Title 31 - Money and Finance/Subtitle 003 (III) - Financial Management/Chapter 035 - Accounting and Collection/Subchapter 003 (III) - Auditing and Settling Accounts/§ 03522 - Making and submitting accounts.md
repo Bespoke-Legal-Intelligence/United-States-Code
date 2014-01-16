@@ -8,7 +8,7 @@
 
 (2) An account (except a monthly account) shall be submitted to the appropriate official in the District of Columbia by the 20th day after the end of the period covered by the account. The official shall submit the account to the Comptroller General by the 60th day after receiving the account.
 
-(3) Notwithstanding paragraphs (1) and (2) of this subsection, an account of the armed forces shall be submitted to the Comptroller General by the 60th day after the account is received.However, during a war or national emergency and for 18 months after the war or emergency ends, an account shall be submitted to the Comptroller General by the 90th day after the account is received.
+(3) Notwithstanding paragraphs (1) and (2) of this subsection, an account of the armed forces shall be submitted to the Comptroller General by the 60th day after the account is received. However, during a war or national emergency and for 18 months after the war or emergency ends, an account shall be submitted to the Comptroller General by the 90th day after the account is received.
 
 (4) Notwithstanding paragraphs (1) and (2) of this subsection, an account of a disbursing official of the Department of Justice shall be submitted to the Comptroller General by the 80th day after the account is received.
 
@@ -16,7 +16,7 @@
 
 (d) The head of an agency may require other returns or reports about the agency that the public interest requires.
 
-(e)(1) The Comptroller General shall disapprove a requisition for an advance of money if an account from which the advance is to be made is not submitted to the Comptroller General within the time required by subsection (b) of this section. The Comptroller General may disapprove the request for another reason related to the condition of an account of the official for whom the advance is requested. However, the Secretary of the Treasury may overrule the decision of the Comptroller General on the sufficiency of the other reasons.
+(e)(1) The Comptroller General shall disapprove a requisition for an advance of money ifan account from which the advance is to be made is not submitted to the Comptroller General within the time required by subsection (b) of this section. The Comptroller General may disapprove the request for another reason related to the condition of an account of the official for whom the advance is requested. However, the Secretary of the Treasury may overrule the decision of the Comptroller General on the sufficiency of the other reasons.
 
 (2) The Secretary may extend the time requirements of subsection (b)(1) and (2) of this section for submitting an account to the proper official in the District of Columbia or waive a condition of delinquency only when there is, or is likely to be, a manifest physical difficulty in complying with those requirements. If an account is not submitted to the Comptroller General on time under subsection (b), an order of the President or, if the President is ill or not in the District of Columbia, the Secretary is required to authorize an advance.
 
@@ -110,7 +110,7 @@ Feb. 20, 1942, ch. 95, 56 Stat. 94.
 
 31:81.
 
-Mar. 4, 1907, ch. 2918, §1(3d par. under heading “United States Courts”), 34 Stat. 1360.
+Mar. 4, 1907, ch. 2918, §1(3d par. under heading "United States Courts"), 34 Stat. 1360.
 
 3522(c)
 
@@ -136,25 +136,25 @@ Mar. 4, 1907, ch. 2918, §1(3d par. under heading “United States Courts”), 3
 
 31:78(3d, 4th sentences).
 
-In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
+In the section, the words "Comptroller General" are substituted for "General Accounting Office" for consistency.
 
-In subsection (a)(1), the words “of the United States” and “and the Secretary of the Senate shall render his accounts as otherwise provided” in 31:497 are omitted as unnecessary. The words “Except as otherwise provided” in 31:496 are omitted as unnecessary. The words “official or agent of the United States Government” are substituted for “officer or agent of the United States” for consistency in the revised title and with other titles of the United States Code. The word “pay” is substituted for “salary, pay, or emolument” for consistency and to eliminate unnecessary words.
+In subsection (a)(1), the words "of the United States" and "and the Secretary of the Senate shall render his accounts as otherwise provided" in 31:497 are omitted as unnecessary. The words "Except as otherwise provided" in 31:496 are omitted as unnecessary. The words "official or agent of the United States Government" are substituted for "officer or agent of the United States" for consistency in the revised title and with other titles of the United States Code. The word "pay" is substituted for "salary, pay, or emolument" for consistency and to eliminate unnecessary words.
 
-In subsection (a)(2), the words “official or agent of the Government” are substituted for “officers, agents, or other persons” for consistency in the revised title and with other titles of the Code. The word “distinct” is omitted as surplus. The word “received” is substituted for “application” for consistency in the revised title.
+In subsection (a)(2), the words "official or agent of the Government" are substituted for "officers, agents, or other persons" for consistency in the revised title and with other titles of the Code. The word "distinct" is omitted as surplus. The word "received" is substituted for "application" for consistency in the revised title.
 
-In subsection (b)(1), the text of 31:496(2d sentence) is omitted as surplus. The text of 31:78(last sentence) is omitted as unnecessary because of 39:410. The words “Except as otherwise provided by law” are omitted as unnecessary. The words “mailed or otherwise” are omitted as surplus. The words “District of Columbia” are substituted for “Washington” for consistency. The words “The official shall submit the account” are substituted for “and shall be transmitted” for clarity. The words “and received by” are omitted as surplus. The words “receiving the account” are substituted for “of their actual receipt at the proper office in Washington” to eliminate unnecessary words.
+In subsection (b)(1), the text of 31:496(2d sentence) is omitted as surplus. The text of 31:78(last sentence) is omitted as unnecessary because of 39:410. The words "Except as otherwise provided by law" are omitted as unnecessary. The words "mailed or otherwise" are omitted as surplus. The words "District of Columbia" are substituted for "Washington" for consistency. The words "The official shall submit the account" are substituted for "and shall be transmitted" for clarity. The words "and received by" are omitted as surplus. The words "receiving the account" are substituted for "of their actual receipt at the proper office in Washington" to eliminate unnecessary words.
 
-Subsection (b)(2) is substituted for “and quarterly and other accounts within twenty days after the period to which they relate” and “and sixty days in the case of quarterly and other accounts” because of the restatement.
+Subsection (b)(2) is substituted for "and quarterly and other accounts within twenty days after the period to which they relate" and "and sixty days in the case of quarterly and other accounts" because of the restatement.
 
-In subsection (b)(3), the source provisions are combined to eliminate unnecessary words. The words “Notwithstanding paragraphs (1) and (2) of this subsection” are added for clarity. The words “monthly” in 31:80 and “quarterly” in 31:80c are omitted as unnecessary. The words “armed forces” are substituted for “Army” in 31:80 and 80a and “United States Navy, United States Marine Corps, and United States Coast Guard” in 31:80b for consistency with title 10. The Air Force is included because of sections 205(a) and 207(a) and (f) of the National Security Act of 1947 (ch. 343, 61 Stat. 501, 502) and sections 1 and 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 488, 676).
+In subsection (b)(3), the source provisions are combined to eliminate unnecessary words. The words "Notwithstanding paragraphs (1) and (2) of this subsection" are added for clarity. The words "monthly" in 31:80 and "quarterly" in 31:80c are omitted as unnecessary. The words "armed forces" are substituted for "Army" in 31:80 and 80a and "United States Navy, United States Marine Corps, and United States Coast Guard" in 31:80b for consistency with title 10. The Air Force is included because of sections 205(a) and 207(a) and (f) of the National Security Act of 1947 (ch. 343, 61 Stat. 501, 502) and sections 1 and 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 488, 676).
 
-In subsection (b)(4), the words “Notwithstanding paragraphs (1) and (2) of this subsection” are added for clarity. The words “United States marshals and other” are omitted as surplus. The words “in the Department of Justice at Washington, District of Columbia” are omitted because of the restatement.
+In subsection (b)(4), the words "Notwithstanding paragraphs (1) and (2) of this subsection" are added for clarity. The words "United States marshals and other" are omitted as surplus. The words "in the Department of Justice at Washington, District of Columbia" are omitted because of the restatement.
 
-In subsection (c), the words “whose accounts are in default”, “be required to”, “satisfactory”, “at the General Accounting Office or proper bureau”, and “proper” are omitted as surplus. The words “after the time required by subsection (b) of this section” are substituted for “thereafter” for clarity.
+In subsection (c), the words "whose accounts are in default", "be required to", "satisfactory", "at the General Accounting Office or proper bureau", and "proper" are omitted as surplus. The words "after the time required by subsection (b) of this section" are substituted for "thereafter" for clarity.
 
-In subsection (d), the word “agency” is substituted for “departments” because of the definition of “agency” in section 102 of the revised title. The word “may” is substituted for “Nothing contained in this section shall, however, be construed to restrain . . . from” toeliminate unnecessary words. The words “about the agency” are substituted for “from the officer or agent, subject to the control of such heads of departments” for clarity.
+In subsection (d), the word "agency" is substituted for "departments" because of the definition of "agency" in section 102 of the revised title. The word "may" is substituted for "Nothing contained in this section shall, however, be construed to restrain . . . from" to eliminate unnecessary words. The words "about the agency" are substituted for "from the officer or agent, subject to the control of such heads of departments" for clarity.
 
-In subsection (e)(1), the words “if an account from which the advance is to be made is not submitted to the Comptroller General within the time required by subsection (b) of this section” are substituted for “Should there by any delinquency in this regard” for clarity.
+In subsection (e)(1), the words "if an account from which the advance is to be made is not submitted to the Comptroller General within the time required by subsection (b) of this section" are substituted for "Should there by any delinquency in this regard" for clarity.
 
-In subsection (e)(2), the 1st sentence is substituted for 31:78(3d sentence), and the words “If an account is not submitted to the Comptroller General on time under subsection (b)” are substituted for “Should there be a delay by the administrative departments beyond the aforesaid twenty or sixty days in transmitting accounts”, for clarity and to eliminate unnecessary words. The words “District of Columbia” are substituted for “seat of Government” for consistency. The words “in the particular case” and “of money requested” are omitted as surplus.
+In subsection (e)(2), the 1st sentence is substituted for 31:78(3d sentence), and the words "If an account is not submitted to the Comptroller General on time under subsection (b)" are substituted for "Should there be a delay by the administrative departments beyond the aforesaid twenty or sixty days in transmitting accounts", for clarity and to eliminate unnecessary words. The words "District of Columbia" are substituted for "seat of Government" for consistency. The words "in the particular case" and "of money requested" are omitted as surplus.
 

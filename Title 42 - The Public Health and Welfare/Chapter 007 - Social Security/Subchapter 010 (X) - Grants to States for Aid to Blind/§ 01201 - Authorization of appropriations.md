@@ -1,6 +1,6 @@
 ### §1201. Authorization of appropriations
 
-For the purpose of enabling each State to furnish financial assistance, as far as practicable under the conditions in such State, to needy individuals who are blind, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this subchapter. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary of Health and Human Services, State plans for aid to the blind.
+For the purpose of enabling each State to furnish financial assistance, as far as practicable under the conditions in such State, to needy individuals who are blind, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this subchapter. The sums made available under this section shall be used for making payments to States which have submitted, and had approvedby the Secretary of Health and Human Services, State plans for aid to the blind.
 
 (Aug. 14, 1935, ch. 531, title X, §1001, 49 Stat. 645; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(b), 64 Stat. 558; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 1, 1956, ch. 836, title III, §313(a), 70 Stat. 849; Pub. L. 87–543, title I, §104(c)(3), July 25, 1962, 76 Stat. 186; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2184(c)(1), Aug. 13, 1981, 95 Stat. 817.)
 
@@ -10,13 +10,13 @@ For the purpose of enabling each State to furnish financial assistance, as far a
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–35 struck out “and of encouraging each State, as far as practicable under such conditions, to furnish rehabilitation and other services to help such individuals attain or retain capability for self-support and self-care” after “who are blind”.
+<b>1981</b>—Pub. L. 97–35 struck out "and of encouraging each State, as far as practicable under such conditions, to furnish rehabilitation and other services to help such individuals attain or retain capability for self-support and self-care" after "who are blind".
 
-<b>1962</b>—Pub. L. 87–543 inserted “to furnish rehabilitation and other services” before “to help such individuals” and “or retain capability for” after “attain”.
+<b>1962</b>—Pub. L. 87–543 inserted "to furnish rehabilitation and other services" before "to help such individuals" and "or retain capability for" after "attain".
 
 <b>1956</b>—Act Aug. 1, 1956, restated purpose to include assistance to individuals to attain self-support or self-care.
 
-<b>1950</b>—Act Aug. 28, 1950, substituted “Federal Security Administrator” for “Social Security Board”.
+<b>1950</b>—Act Aug. 28, 1950, substituted "Federal Security Administrator" for "Social Security Board".
 
 #### Transfer of Functions
 

@@ -16,7 +16,7 @@ The Secretary of State may use competitive procedures or procedures other than c
 
 #### (1) Establishment
 
-&emsp;In order to provide the Department of State with a dependable, flexible, and adequate source of funding for the expenses of the Department related to preparing or prosecuting a proceeding before an international tribunal, or a claim by or against a foreign government or other foreign entity, there is established an International Litigation Fund (hereafter in this subsection referred to as the “ILF”). The ILF may be available without fiscal year limitation. Funds otherwise available to the Department for the purposes of this paragraph may be credited to the ILF.
+&emsp;In order to provide the Department of State with a dependable, flexible, and adequate source of funding for the expenses of the Department related to preparing or prosecuting a proceeding before an international tribunal, or a claim by or against a foreign government or other foreign entity, there is established an International Litigation Fund (hereafter in this subsection referred to as the "ILF"). The ILF may be available without fiscal year limitation. Funds otherwise available to the Department for the purposes of this paragraph may be credited to the ILF.
 
 #### (2) Reprogramming procedures
 
@@ -40,13 +40,13 @@ The Secretary of State may use competitive procedures or procedures other than c
 
 &emsp;Amounts retained under the authority of paragraph (1) shall be deposited into the fund under subsection (d) of this section.
 
-(Aug. 1, 1956, ch. 841, title I, §38, as added Pub. L. 99–93, title I, §128, Aug. 16, 1985, 99 Stat. 419;amended Pub. L. 103–236, title I, §123, Apr. 30, 1994, 108 Stat. 392; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2212(b), Oct. 21, 1998, 112 Stat. 2681–812; Pub. L. 107–228, div. A, title II, §203, Sept. 30, 2002, 116 Stat. 1362.)
+(Aug. 1, 1956, ch. 841, title I, §38, as added Pub. L. 99–93, title I, §128, Aug. 16, 1985, 99 Stat. 419; amended Pub. L. 103–236, title I, §123, Apr. 30, 1994, 108 Stat. 392; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2212(b), Oct. 21, 1998, 112 Stat. 2681–812; Pub. L. 107–228, div. A, title II, §203, Sept. 30, 2002, 116 Stat. 1362.)
 
 #### References in Text
 
 The Department of State Appropriations Act of 1937, referred to in subsec. (d)(3), probably means the Department of State Appropriation Act, 1937, which is title I of act May 15, 1936, ch. 405, 49 Stat. 1309. Provisions relating to acceptance by the Secretary of State of reimbursement for expenses incurred in pursuing certain private claims against foreign governments were added to that act by Pub. L. 100–204, title I, §142(b), Dec. 22, 1987, 101 Stat. 1350, and are classified to section 2661 of this title.
 
-Section 2668a of this title, referred to in subsec. (e)(1), was in the original “chapter 34 of the Act of February 27, 1896 (22 U.S.C. 2668a; 29 Stat. 32)”. Section 2668a of this title contains the only provisions of the Act which are classified to the Code.
+Section 2668a of this title, referred to in subsec. (e)(1), was in the original "chapter 34 of the Act of February 27, 1896 (22 U.S.C. 2668a; 29 Stat. 32)". Section 2668a of this title contains the only provisions of the Act which are classified to the Code.
 
 #### Prior Provisions
 
@@ -56,7 +56,7 @@ A prior section 38 of act Aug. 1, 1956, was renumbered section 39 by section 128
 
 <b>2002</b>—Subsec. (e). Pub. L. 107–228 added subsec. (e).
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–277 inserted “personal and” before “other support services” in first sentence.
+<b>1998</b>—Subsec. (c). Pub. L. 105–277 inserted "personal and" before "other support services" in first sentence.
 
 <b>1994</b>—Subsecs. (c), (d). Pub. L. 103–236 added subsecs. (c) and (d).
 

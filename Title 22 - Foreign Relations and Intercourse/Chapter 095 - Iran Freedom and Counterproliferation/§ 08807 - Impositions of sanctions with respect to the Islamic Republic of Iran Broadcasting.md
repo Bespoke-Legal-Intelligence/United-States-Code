@@ -4,9 +4,9 @@
 
 Congress makes the following findings:
 
-&emsp;(1) The Islamic Republic of Iran Broadcasting has contributed to the infringement of individuals’ human rights by broadcasting forced televised confession and show trials.
+&emsp;(1) The Islamic Republic of Iran Broadcasting has contributed to the infringement of individuals' human rights by broadcasting forced televised confession and show trials.
 
-&emsp;(2) In March 2012, the European Council imposed sanctions on the President of the Islamic Republic of Iran Broadcasting, Ezzatollah Zargami, for broadcasting forced confessions of detainees and a series of “show trials” in August 2009 and December 2011 that constituted a clear violation of international law with respect to the right to a fair trial and due process.
+&emsp;(2) In March 2012, the European Council imposed sanctions on the President of the Islamic Republic of Iran Broadcasting, Ezzatollah Zargami, for broadcasting forced confessions of detainees and a series of "show trials" in August 2009 and December 2011 that constituted a clear violation of international law with respect to the right to a fair trial and due process.
 
 #### (b) Imposition of sanctions
 
@@ -27,4 +27,8 @@ Congress makes the following findings:
 &emsp;Sections 8514(d) and 8551(b) of this title shall apply with respect to sanctions imposed under paragraph (1)(A) to the same extent that such sections apply with respect to the imposition of sanctions under section 8514(a) of this title.
 
 (Pub. L. 112–239, div. A, title XII, §1248, Jan. 2, 2013, 126 Stat. 2015.)
+
+#### Delegation of Functions
+
+For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 

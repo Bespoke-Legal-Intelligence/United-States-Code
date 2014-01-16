@@ -26,7 +26,7 @@ Expenditure of moneys from the fund on lands and water eligible pursuant to sect
 
 (1) Any State or Indian tribe not certified under section 1240a(a) of this title may expend funds allocated to such State or Indian tribe in any year through the grants made available under paragraphs (1) and (5) of section 1232(g) of this title for the purpose of protecting, repairing, replacing, constructing, or enhancing facilities relating to water supply, including water distribution facilities and treatment plants, to replace water supplies adversely affected by coal mining practices.
 
-(2) If the adverse effect on water supplies referred to in this subsection occurred both prior to and after August 3, 1977, or as the case may be, the dates (and under the criteria) set forth under section 1232(g)(4)(B) of this title, section 1234 of this title shall not be construed to prohibit a State or Indian tribe referred to in paragraph (1) from using funds referred to in such paragraph for the purposes of this subsection ifthe State or Indian tribe determines that such adverse effects occurred predominantly prior to August 3, 1977, or as the case may be, the dates (and under the criteria) set forth under section 1232(g)(4)(B) of this title.
+(2) If the adverse effect on water supplies referred to in this subsection occurred both prior to and after August 3, 1977, or as the case may be, the dates (and under the criteria) set forth under section 1232(g)(4)(B) of this title, section 1234 of this title shall not be construed to prohibit a State or Indian tribe referred to in paragraph (1) from using funds referred to in such paragraph for the purposes of this subsection if the State or Indian tribe determines that such adverse effects occurred predominantly prior to August 3, 1977, or as the case may be, the dates (and under the criteria) set forth under section 1232(g)(4)(B) of this title.
 
 #### (c) Inventory
 
@@ -36,29 +36,29 @@ For the purposes of assisting in the planning and evaluation of reclamation proj
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–432, §203(1)(A), designated existing provisions as subpar. (A), inserted semicolon after “protection”, struck out “general welfare,” after “safety,”, and added subpar. (B).
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–432, §203(1)(A), designated existing provisions as subpar. (A), inserted semicolon after "protection", struck out "general welfare," after "safety,", and added subpar. (B).
 
-Subsec. (a)(2). Pub. L. 109–432, §203(1)(B), designated existing provisions as subpar. (A), substituted “health and safety” for “health, safety, and general welfare”, and added subpar. (B).
+Subsec. (a)(2). Pub. L. 109–432, §203(1)(B), designated existing provisions as subpar. (A), substituted "health and safety" for "health, safety, and general welfare", and added subpar. (B).
 
 Subsec. (a)(3). Pub. L. 109–432, §203(1)(C), which directed that a period be substituted for the semicolon at end, could not be executed because a period already appeared at end.
 
 Subsec. (a)(4), (5). Pub. L. 109–432, §203(1)(D), struck out pars. (4) and (5) which read as follows:
 
-“(4) the protection, repair, replacement, construction, or enhancement of public facilities such as utilities, roads, recreation, and conservation facilities adversely affected by coal mining practices;
+"(4) the protection, repair, replacement, construction, or enhancement of public facilities such as utilities, roads, recreation, and conservation facilities adversely affected by coal mining practices;
 
-“(5) the development of publicly owned land adversely affected by coal mining practices including land acquired as provided in this subchapter for recreation and historic purposes, conservation, and reclamation purposes and open space benefits.”
+"(5) the development of publicly owned land adversely affected by coal mining practices including land acquired as provided in this subchapter for recreation and historic purposes, conservation, and reclamation purposes and open space benefits."
 
-Subsec. (b). Pub. L. 109–432, §203(2)(A), substituted “Water supply restoration” for “Utilities and other facilities” in heading.
+Subsec. (b). Pub. L. 109–432, §203(2)(A), substituted "Water supply restoration" for "Utilities and other facilities" in heading.
 
-Subsec. (b)(1). Pub. L. 109–432, §203(2)(B), struck out “up to 30 percent of the” before “funds”.
+Subsec. (b)(1). Pub. L. 109–432, §203(2)(B), struck out "up to 30 percent of the" before "funds".
 
-Subsec. (c). Pub. L. 109–432, §203(3), inserted “, subject to the approval of the Secretary,” after “amendments” in second sentence.
+Subsec. (c). Pub. L. 109–432, §203(3), inserted ", subject to the approval of the Secretary," after "amendments" in second sentence.
 
-<b>1992</b>—Subsec. (a)(4) to (6). Pub. L. 102–486, §2504(c)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “research and demonstration projects relating to the development of surface mining reclamation and water quality control program methods and techniques;”.
+<b>1992</b>—Subsec. (a)(4) to (6). Pub. L. 102–486, §2504(c)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: "research and demonstration projects relating to the development of surface mining reclamation and water quality control program methods and techniques;".
 
-Subsec. (b)(2). Pub. L. 102–486, §2504(e), inserted “, or as the case may be, the dates (and under the criteria) set forth under section 1232(g)(4)(B) of this title” after “1977” in two places.
+Subsec. (b)(2). Pub. L. 102–486, §2504(e), inserted ", or as the case may be, the dates (and under the criteria) set forth under section 1232(g)(4)(B) of this title" after "1977" in two places.
 
-<b>1990</b>—Pub. L. 101–508 designated existing provisions as subsec. (a), inserted heading and “, except as provided for under section 1240a of this title,” after “subchapter”, and added subsecs. (b) and (c).
+<b>1990</b>—Pub. L. 101–508 designated existing provisions as subsec. (a), inserted heading and ", except as provided for under section 1240a of this title," after "subchapter", and added subsecs. (b) and (c).
 
 #### Effective Date of 1990 Amendment
 

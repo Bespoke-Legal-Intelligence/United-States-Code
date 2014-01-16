@@ -10,11 +10,11 @@ This section is new and provides for the filing of an application by another on 
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 amended section generally. Prior to amendment, text read as follows: “Whenever an inventor refuses to execute an application for patent, or cannot be found or reached after diligent effort, a person to whom the inventor has assigned or agreed in writing to assign the invention or who otherwise shows sufficient proprietary interest in the matter justifying such action, may make application for patent on behalf of and as agent for the inventor on proof of the pertinent facts and a showing that such action is necessary to preserve the rights of the parties or to prevent irreparable damage; and the Director may grant a patent to such inventor upon such notice to him as the Director deems sufficient, and on compliance with such regulations as he prescribes.”
+<b>2011</b>—Pub. L. 112–29 amended section generally. Prior to amendment, text read as follows: "Whenever an inventor refuses to execute an application for patent, or cannot be found or reached after diligent effort, a person to whom the inventor has assigned or agreed in writing to assign the invention or who otherwise shows sufficient proprietary interest in the matter justifying such action, may make application for patent on behalf of and as agent for the inventor on proof of the pertinent facts and a showing that such action is necessary to preserve the rights of the parties or to prevent irreparable damage; and the Director may grant a patent to such inventor upon such notice to him as the Director deems sufficient, and on compliance with such regulations as he prescribes."
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in two places.
+<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" in two places.
 
 #### Effective Date of 2011 Amendment
 

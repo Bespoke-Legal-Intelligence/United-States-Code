@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means a qualified community mental health program defined under section 300x–2(b)(1) of this title.
+&emsp;The term "eligible entity" means a qualified community mental health program defined under section 300x–2(b)(1) of this title.
 
 #### (2) Special populations
 
-&emsp;The term “special populations” means adults with mental illnesses who have co-occurring primary care conditions and chronic diseases.
+&emsp;The term "special populations" means adults with mental illnesses who have co-occurring primary care conditions and chronic diseases.
 
 #### (b) Program authorized
 

@@ -212,7 +212,7 @@ In this section:
 
 #### (1) Health care services
 
-&emsp;The term “health care services” means any services provided by a health care provider, or by any individual working under the supervision of a health care provider, that relate to—
+&emsp;The term "health care services" means any services provided by a health care provider, or by any individual working under the supervision of a health care provider, that relate to—
 
 &emsp;&emsp;(A) the diagnosis, prevention, or treatment of any human disease or impairment; or
 
@@ -220,11 +220,11 @@ In this section:
 
 #### (2) Health care organization
 
-&emsp;The term “health care organization” means any individual or entity which is obligated to provide, pay for, or administer health benefits under any health plan.
+&emsp;The term "health care organization" means any individual or entity which is obligated to provide, pay for, or administer health benefits under any health plan.
 
 #### (3) Health care provider
 
-&emsp;The term “health care provider” means any individual or entity—
+&emsp;The term "health care provider" means any individual or entity—
 
 &emsp;&emsp;(A) licensed, registered, or certified under Federal or State laws or regulations to provide health care services; or
 
@@ -240,7 +240,7 @@ Nothing in this section shall be construed to limit any prior, current, or futur
 
 #### (m) Rule of construction
 
-Nothing in this section shall be construed as limiting states’ <sup>1</sup> authority over or responsibility for their state <sup>1</sup> justice systems.
+Nothing in this section shall be construed as limiting states' <sup>1</sup> authority over or responsibility for their state <sup>1</sup> justice systems.
 
 (July 1, 1944, ch. 373, title III, §399V–4, as added Pub. L. 111–148, title X, §10607, Mar. 23, 2010, 124 Stat. 1009.)
 

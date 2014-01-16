@@ -12,7 +12,7 @@ A party to a Y2K action making a tort claim, other than a claim of intentional t
 
 #### (b) Economic loss
 
-For purposes of this section only, and except as otherwise specifically provided in a valid and enforceable written contract between the plaintiff and the defendant in a Y2K action, the term “economic loss” means amounts awarded to compensate an injured party for any loss, and includes amounts awarded for damages such as—
+For purposes of this section only, and except as otherwise specifically provided in a valid and enforceable written contract between the plaintiff and the defendant in a Y2K action, the term "economic loss" means amounts awarded to compensate an injured party for any loss, and includes amounts awarded for damages such as—
 
 &emsp;(1) lost profits or sales;
 

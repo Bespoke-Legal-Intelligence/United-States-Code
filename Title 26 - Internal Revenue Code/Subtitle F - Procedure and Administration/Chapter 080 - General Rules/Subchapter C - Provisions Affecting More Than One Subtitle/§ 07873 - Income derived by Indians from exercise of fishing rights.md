@@ -22,17 +22,17 @@ For purposes of this section—
 
 #### (1) Fishing rights-related activity
 
-&emsp;The term “fishing rights-related activity” means, with respect to an Indian tribe, any activity directly related to harvesting, processing, or transporting fish harvested in the exercise of a recognized fishing right of such tribe or to selling such fish but only if substantially all of such harvesting was performed by members of such tribe.
+&emsp;The term "fishing rights-related activity" means, with respect to an Indian tribe, any activity directly related to harvesting, processing, or transporting fish harvested in the exercise of a recognized fishing right of such tribe or to selling such fish but only if substantially all of such harvesting was performed by members of such tribe.
 
 #### (2) Recognized fishing rights
 
-&emsp;The term “recognized fishing rights” means, with respect to an Indian tribe, fishing rights secured as of March 17, 1988, by a treaty between such tribe and the United States or by an Executive order or an Act of Congress.
+&emsp;The term "recognized fishing rights" means, with respect to an Indian tribe, fishing rights secured as of March 17, 1988, by a treaty between such tribe and the United States or by an Executive order or an Act of Congress.
 
 #### (3) Qualified Indian entity
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified Indian entity” means, with respect to an Indian tribe, any entity if—
+&emsp;&emsp;The term "qualified Indian entity" means, with respect to an Indian tribe, any entity if—
 
 &emsp;&emsp;&emsp;(i) such entity is engaged in a fishing rights-related activity of such tribe,
 
@@ -70,11 +70,11 @@ For purposes of this section—
 
 Pub. L. 100–647, title III, §3044, Nov. 10, 1988, 102 Stat. 3642, provided that:
 
-“(a)
+"(a)
 
 Effective Date.—The amendments made by this subtitle \[subtitle E (§§3041–3044) of title III of Pub. L. 100–647, enacting this section and amending sections 1402 and 3121 of this title, section 71 of Title 25, Indians, and sections 409 and 411 of Title 42, The Public Health and Welfare\] shall apply to all periods beginning before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].
 
-“(b)
+"(b)
 
-No Inference Created.—Nothing in the amendments made by this subtitle shall create any inference as to the existence or non-existence or scope of any exemption from tax for income derived from fishing rights secured as of March 17, 1988, by any treaty, law, or Executive Order.”
+No Inference Created.—Nothing in the amendments made by this subtitle shall create any inference as to the existence or non-existence or scope of any exemption from tax for income derived from fishing rights secured as of March 17, 1988, by any treaty, law, or Executive Order."
 

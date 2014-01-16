@@ -10,7 +10,7 @@ Such assistance shall be in accordance with plans to be agreed upon in advance b
 
 The Morrill Act of July 2, 1862, as amended, referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
 
-The Hatch Act of March 2, 1887, as amended, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, asamended, which is classified generally to sections 361a to 361i of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 361a of Title 7 and Tables.
+The Hatch Act of March 2, 1887, as amended, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, which is classified generally to sections 361a to 361i of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 361a of Title 7 and Tables.
 
 #### Codification
 
@@ -18,7 +18,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §7412(a), inserted “and 1890 Institutions (as defined in section 7601 of title 7),” before “and (b)”.
+<b>2008</b>—Pub. L. 110–246, §7412(a), inserted "and 1890 Institutions (as defined in section 7601 of title 7)," before "and (b)".
 
 <b>1981</b>—Pub. L. 97–98 inserted provision that if more than one institution within a State are certified as qualifying for assistance, then it shall be the responsibility of such institutions, in agreement with the Secretary, to develop complimentary programs of forestry research for the State.
 
@@ -26,7 +26,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title VII, §7412(b), May 22, 2008, 122 Stat. 1255, and Pub. L. 110–246, §4(a), title VII, §7412(b), June 18, 2008, 122 Stat. 1664, 2017, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on October 1, 2008.”
+Pub. L. 110–234, title VII, §7412(b), May 22, 2008, 122 Stat. 1255, and Pub. L. 110–246, §4(a), title VII, §7412(b), June 18, 2008, 122 Stat. 1664, 2017, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect on October 1, 2008."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

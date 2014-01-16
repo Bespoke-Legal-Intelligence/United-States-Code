@@ -46,7 +46,7 @@ Aug. 5, 1939, ch. 449, §§4–6, 53 Stat. 1211.
 
 40:74c.
 
-In subsection (a), the words “in his discretion”, “and convey, in whole or in part”, and “proper” are omitted as unnecessary.
+In subsection (a), the words "in his discretion", "and convey, in whole or in part", and "proper" are omitted as unnecessary.
 
 In subsection (b), reference to sections 72c to 72e is omitted as unnecessary because the Secretary of the Interior does not have authority to sell land under those sections.
 

@@ -12,7 +12,7 @@
 
 #### (2) Purpose
 
-&emsp;The purpose of this section is to reaffirm the goals stated in the document entitled “Memorandum of Understanding Between the VA/Veterans Health Administration And HHS/Indian Health Service” and dated February 25, 2003 (relating to cooperation and resource sharing between the Veterans Health Administration and Service).
+&emsp;The purpose of this section is to reaffirm the goals stated in the document entitled "Memorandum of Understanding Between the VA/Veterans Health Administration And HHS/Indian Health Service" and dated February 25, 2003 (relating to cooperation and resource sharing between the Veterans Health Administration and Service).
 
 #### (b) Definitions
 
@@ -20,7 +20,7 @@ In this section:
 
 #### (1) Eligible Indian veteran
 
-&emsp;The term “eligible Indian veteran” means an Indian or Alaska Native veteran who receives any medical service that is—
+&emsp;The term "eligible Indian veteran" means an Indian or Alaska Native veteran who receives any medical service that is—
 
 &emsp;&emsp;(A) authorized under the laws administered by the Secretary of Veterans Affairs; and
 
@@ -28,7 +28,7 @@ In this section:
 
 #### (2) Local memorandum of understanding
 
-&emsp;The term “local memorandum of understanding” means a memorandum of understanding between the Secretary (or a designee, including the director of any area office of the Service) and the Secretary of Veterans Affairs (or a designee) to implement the document entitled “Memorandum of Understanding Between the VA/Veterans Health Administration And HHS/Indian Health Service” and dated February 25, 2003 (relating to cooperation and resource sharing between the Veterans Health Administration and Indian Health Service).
+&emsp;The term "local memorandum of understanding" means a memorandum of understanding between the Secretary (or a designee, including the director of any area office of the Service) and the Secretary of Veterans Affairs (or a designee) to implement the document entitled "Memorandum of Understanding Between the VA/Veterans Health Administration And HHS/Indian Health Service" and dated February 25, 2003 (relating to cooperation and resource sharing between the Veterans Health Administration and Indian Health Service).
 
 #### (c) Eligible Indian veterans expenses
 

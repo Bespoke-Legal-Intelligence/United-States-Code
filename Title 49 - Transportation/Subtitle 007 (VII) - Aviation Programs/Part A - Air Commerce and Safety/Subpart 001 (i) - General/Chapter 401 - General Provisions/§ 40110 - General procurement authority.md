@@ -78,9 +78,9 @@ Applicability of federal acquisition law.—The following provisions of Federal 
 
 &emsp;&emsp;(B) Division B (except sections 1704 and 2303) of subtitle I of title 41.
 
-&emsp;&emsp;(C) The Federal Acquisition Streamlining Act of 1994 (Public Law 103–355). However, section 4705 of title 41 shall apply to the new acquisition management system developed and implemented pursuant to paragraph (1). For the purpose of applying section 4705 of title 41 to the system, the term “executive agency” is deemed to refer to the Federal Aviation Administration.
+&emsp;&emsp;(C) The Federal Acquisition Streamlining Act of 1994 (Public Law 103–355). However, section 4705 of title 41 shall apply to the new acquisition management system developed and implemented pursuant to paragraph (1). For the purpose of applying section 4705 of title 41 to the system, the term "executive agency" is deemed to refer to the Federal Aviation Administration.
 
-&emsp;&emsp;(D) The Small Business Act (15 U.S.C. 631 et seq.), except that all reasonable opportunities to be awarded contracts shall be provided to small business concerns and smallbusiness concerns owned and controlled by socially and economically disadvantaged individuals.
+&emsp;&emsp;(D) The Small Business Act (15 U.S.C. 631 et seq.), except that all reasonable opportunities to be awarded contracts shall be provided to small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals.
 
 &emsp;&emsp;(E) The Competition in Contracting Act.
 
@@ -94,7 +94,7 @@ Certain provisions of division b (except sections 1704 and 2303) of subtitle i o
 
 &emsp;&emsp;(A) Sections 2101 and 2106 of title 41 shall not apply.
 
-&emsp;&emsp;(B) Within 90 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall adopt definitions for the acquisition management system that are consistent with the purpose and intent of the Office of Federal Procurement Policy Act.<sup>1</sup>
+&emsp;&emsp;(B) Within 90 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall adopt definitions for the acquisition management system that are consistent with the purposeand intent of the Office of Federal Procurement Policy Act.<sup>1</sup>
 
 &emsp;&emsp;(C) After the adoption of those definitions, the criminal, civil, and administrative remedies provided under the Office of Federal Procurement Policy Act <sup>1</sup> apply to the acquisition management system.
 
@@ -118,7 +118,7 @@ Exception.—Paragraph (1) shall not apply to any portion of a proposal of an of
 
 &emsp;(3)
 
-Proposal defined.—In this subsection, the term “proposal” means information contained in or originating from any proposal, including a technical, management, or cost proposal, submitted by an offeror in response to the requirements of a solicitation for a competitive proposal.
+Proposal defined.—In this subsection, the term "proposal" means information contained in or originating from any proposal, including a technical, management, or cost proposal, submitted by an offeror in response to the requirements of a solicitation for a competitive proposal.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–176, title II, §§222, 224(a), (b), Dec. 12, 2003, 117 Stat. 2527; Pub. L. 108–178, §4(k), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 111–350, §5(o)(7), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 112–95, title II, §§206, 210, Feb. 14, 2012, 126 Stat. 39, 44.)
 
@@ -170,15 +170,15 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, §303(g); added Oct. 31, 1992, Pu
 
 49 App.:1344(a)(2) (words after 1st semicolon).
 
-In this section, the word “Administrator” in section 303(a)–(d) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 747) is retained on authority of 49:106(g).
+In this section, the word "Administrator" in section 303(a)–(d) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 747) is retained on authority of 49:106(g).
 
-In subsection (a), before clause (1), the words “In carrying out this part” are added for clarity. The words “on behalf of the United States . . . where appropriate” are omitted as surplus. In clause (1), the words “made by the Congress”, “by purchase, condemnation . . . or otherwise”, and “easements through or other” are omitted as surplus. In clause (2), the words “by sale, lease, or otherwise” and “real or personal” are omitted as surplus. In clause (3), the word “renovate” is omitted as surplus. The words “and to purchase or otherwise acquire real property required therefor” are omitted as surplus because of the authority of the Administrator to acquire real property under clause (1) of this subsection.
+In subsection (a), before clause (1), the words "In carrying out this part" are added for clarity. The words "on behalf of the United States . . . where appropriate" are omitted as surplus. In clause (1), the words "made by the Congress", "by purchase, condemnation . . . or otherwise", and "easements through or other" are omitted as surplus. In clause (2), the words "by sale, lease, or otherwise" and "real or personal" are omitted as surplus. In clause (3), the word "renovate" is omitted as surplus. The words "and to purchase or otherwise acquire real property required therefor" are omitted as surplus because of the authority of the Administrator to acquire real property under clause (1) of this subsection.
 
-In subsection (b)(1), the words “procedures other than competitive procedures” are substituted for “noncompetitive procedures” for consistency with subsection (b)(2)(D) of this section and 41:253(f).
+In subsection (b)(1), the words "procedures other than competitive procedures" are substituted for "noncompetitive procedures" for consistency with subsection (b)(2)(D) of this section and 41:253(f).
 
-In subsection (b)(2)(B), the text of 49 App.:1344(b)(1) (words before semicolon) and the words “easements through or other” are omitted as surplus.
+In subsection (b)(2)(B), the text of 49 App.:1344(b)(1) (words before semicolon) and the words "easements through or other" are omitted as surplus.
 
-In subsection (b)(2)(C), the words “by purchase, condemnation, or lease” are omitted as surplus.
+In subsection (b)(2)(C), the words "by purchase, condemnation, or lease" are omitted as surplus.
 
 Subsection (b)(2)(E) is substituted for 49 App.:1344(g) to eliminate the cross-references to other laws and for clarity and is based on the text of 10:2304(c)(1).
 
@@ -202,47 +202,47 @@ The date of the enactment of the Wendell H. Ford Aviation Investment and Reform 
 
 <b>2012</b>—Subsec. (a)(2), (3). Pub. L. 112–95, §210, added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
-“(2) may dispose of an interest in property for adequate compensation; and
+"(2) may dispose of an interest in property for adequate compensation; and
 
-“(3) may construct and improve laboratories and other test facilities.”
+"(3) may construct and improve laboratories and other test facilities."
 
-Subsec. (c)(3) to (5). Pub. L. 112–95, §206, inserted “and” at end of par. (3), redesignated par. (5) as (4), and struck out former par. (4) which read as follows: “use procedures other than competitive procedures only when the property or services needed by the Administrator of the Federal Aviation Administration are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the Administrator; and”.
+Subsec. (c)(3) to (5). Pub. L. 112–95, §206, inserted "and" at end of par. (3), redesignated par. (5) as (4), and struck out former par. (4) which read as follows: "use procedures other than competitive procedures only when the property or services needed by the Administrator of the Federal Aviation Administration are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the Administrator; and".
 
-<b>2011</b>—Subsec. (d)(2)(A). Pub. L. 111–350, §5(o)(7)(A), substituted “Division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “Title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252–266)”.
+<b>2011</b>—Subsec. (d)(2)(A). Pub. L. 111–350, §5(o)(7)(A), substituted "Division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "Title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252–266)".
 
-Subsec. (d)(2)(B). Pub. L. 111–350, §5(o)(7)(B), substituted “Division B (except sections 1704 and 2303) of subtitle I of title 41” for “The Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)”.
+Subsec. (d)(2)(B). Pub. L. 111–350, §5(o)(7)(B), substituted "Division B (except sections 1704 and 2303) of subtitle I of title 41" for "The Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)".
 
-Subsec. (d)(2)(C). Pub. L. 111–350, §5(o)(7)(C), substituted “(Public Law 103–355). However, section 4705 of title 41 shall apply to the new acquisition management system developed and implemented pursuant to paragraph (1). For the purpose of applying section 4705 of title 41 to the system,” for “(Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system,”.
+Subsec. (d)(2)(C). Pub. L. 111–350, §5(o)(7)(C), substituted "(Public Law 103–355). However, section 4705 of title 41 shall apply to the new acquisition management system developed and implemented pursuant to paragraph (1). For the purpose of applying section 4705 of title 41 to the system," for "(Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system,".
 
-Subsec. (d)(3). Pub. L. 111–350, §5(o)(7)(D)(i), (ii), substituted “division b (except sections 1704 and 2303) of subtitle i of title 41” for “the office of federal procurement policy act” in heading and “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)” in text.
+Subsec. (d)(3). Pub. L. 111–350, §5(o)(7)(D)(i), (ii), substituted "division b (except sections 1704 and 2303) of subtitle i of title 41" for "the office of federal procurement policy act" in heading and "chapter 21 of title 41" for "section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)" in text.
 
-Subsec. (d)(3)(A). Pub. L. 111–350, §5(o)(7)(D)(iii), substituted “Sections 2101 and 2106 of title 41” for “Subsections (f) and (g)”.
+Subsec. (d)(3)(A). Pub. L. 111–350, §5(o)(7)(D)(iii), substituted "Sections 2101 and 2106 of title 41" for "Subsections (f) and (g)".
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–176, §224(a), struck out par. (1), which related to the senior procurement executive, par. (2) designation before “may—”, and subpar. (D) of par. (2), which related to use procedures other than competitive procedures, redesignated subpars. (A), (B), (C), (E), and (F) of par. (2) as pars. (1) to (5), respectively, and realigned margins.
+<b>2003</b>—Subsec. (c). Pub. L. 108–176, §224(a), struck out par. (1), which related to the senior procurement executive, par. (2) designation before "may—", and subpar. (D) of par. (2), which related to use procedures other than competitive procedures, redesignated subpars. (A), (B), (C), (E), and (F) of par. (2) as pars. (1) to (5), respectively, and realigned margins.
 
-Subsec. (d)(1). Pub. L. 108–176, §224(b)(1), struck out “, not later than January 1, 1996,” after “shall develop and implement”, substituted “provides for—” for “provides for more timely and cost-effective acquisitions of equipment and materials.”, and added subpars. (A) and (B).
+Subsec. (d)(1). Pub. L. 108–176, §224(b)(1), struck out ", not later than January 1, 1996," after "shall develop and implement", substituted "provides for—" for "provides for more timely and cost-effective acquisitions of equipment and materials.", and added subpars. (A) and (B).
 
-Subsec. (d)(2)(C). Pub. L. 108–176, §222, substituted “(Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system, the term ‘executive agency’ is deemed to refer to the Federal Aviation Administration.” for “(Public Law 103–355).”
+Subsec. (d)(2)(C). Pub. L. 108–176, §222, substituted "(Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system, the term 'executive agency' is deemed to refer to the Federal Aviation Administration." for "(Public Law 103–355)."
 
-Subsec. (d)(2)(G). Pub. L. 108–178, §4(k)(3), substituted “subparagraphs (A) through (F)” for “subparagraphs (A) through (G)”.
+Subsec. (d)(2)(G). Pub. L. 108–178, §4(k)(3), substituted "subparagraphs (A) through (F)" for "subparagraphs (A) through (G)".
 
-Pub. L. 108–178, §4(k)(1), (2), redesignated subpar. (H) as (G) and struck out former subpar. (G) which read as follows: “The Brooks Automatic Data Processing Act (40 U.S.C. 759).”
+Pub. L. 108–178, §4(k)(1), (2), redesignated subpar. (H) as (G) and struck out former subpar. (G) which read as follows: "The Brooks Automatic Data Processing Act (40 U.S.C. 759)."
 
 Subsec. (d)(2)(H). Pub. L. 108–178, §4(k)(2), redesignated subpar. (H) as (G).
 
-Subsec. (d)(4). Pub. L. 108–176, §224(b)(2), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “This subsection shall take effect on April 1, 1996.”
+Subsec. (d)(4). Pub. L. 108–176, §224(b)(2), added par. (4) and struck out heading and text of former par. (4). Text read as follows: "This subsection shall take effect on April 1, 1996."
 
-<b>2002</b>—Subsec. (c)(2)(C). Pub. L. 107–217, §3(n)(5)(A), substituted “(as defined in section 3301(a) of title 40)” for “(as defined in section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612))”.
+<b>2002</b>—Subsec. (c)(2)(C). Pub. L. 107–217, §3(n)(5)(A), substituted "(as defined in section 3301(a) of title 40)" for "(as defined in section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612))".
 
-Subsec. (c)(2)(F). Pub. L. 107–217, §3(n)(5)(B), substituted “sections 121, 123, and 126 and chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
+Subsec. (c)(2)(F). Pub. L. 107–217, §3(n)(5)(B), substituted "sections 121, 123, and 126 and chapter 5 of title 40" for "title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)".
 
 <b>2000</b>—Subsecs. (d), (e). Pub. L. 106–181 added subsecs. (d) and (e).
 
 <b>1996</b>—Subsecs. (b), (c). Pub. L. 104–264 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–429, §6(48), in introductory provisions, struck out “may” after “Administration”, in par. (1), struck out “acquire,” before “to the extent” and substituted “may acquire services or, by condemnation or otherwise,” for “services or”, and in pars. (2) and (3), inserted “may” after par. designation.
+<b>1994</b>—Subsec. (a). Pub. L. 103–429, §6(48), in introductory provisions, struck out "may" after "Administration", in par. (1), struck out "acquire," before "to the extent" and substituted "may acquire services or, by condemnation or otherwise," for "services or", and in pars. (2) and (3), inserted "may" after par. designation.
 
-Subsec. (b)(2)(A). Pub. L. 103–429, §6(80), inserted “notwithstanding section 1341(a)(1) of title 31,” before “lease”.
+Subsec. (b)(2)(A). Pub. L. 103–429, §6(80), inserted "notwithstanding section 1341(a)(1) of title 31," before "lease".
 
 #### Effective Date of 2003 Amendments
 
@@ -264,41 +264,41 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Contracting
 
-Pub. L. 112–95, title VIII, §814, Feb. 14, 2012, 126 Stat. 125, provided that: “When drafting contract proposals for training facilities under the general contracting authority of the Federal Aviation Administration, the Administrator of the Federal Aviation Administration shall ensure—
+Pub. L. 112–95, title VIII, §814, Feb. 14, 2012, 126 Stat. 125, provided that: "When drafting contract proposals for training facilities under the general contracting authority of the Federal Aviation Administration, the Administrator of the Federal Aviation Administration shall ensure—
 
-&emsp;“(1) the proposal is drafted so that all parties can fairly compete; and
+&emsp;"(1) the proposal is drafted so that all parties can fairly compete; and
 
-&emsp;“(2) the proposal takes into consideration the most cost-effective location, accessibility, and services options.”
+&emsp;"(2) the proposal takes into consideration the most cost-effective location, accessibility, and services options."
 
 #### FAA Evaluation of Long-Term Capital Leasing
 
 Pub. L. 106–181, title VII, §704, Apr. 5, 2000, 114 Stat. 157, provided that:
 
-“(a)
+"(a)
 
 In General.—The Administrator \[of the Federal Aviation Administration\] may carry out a pilot program in fiscal years 2001 through 2003 to test and evaluate the benefits of long-term contracts for the leasing of aviation equipment and facilities.
 
-“(b)
+"(b)
 
 Period of Contracts.—Notwithstanding any other provision of law, the Administrator may enter into a contract under the program to lease aviation equipment or facilities for a period of greater than 5 years.
 
-“(c)
+"(c)
 
 Number of Contracts.—The Administrator may not enter into more that \[than\] 10 contracts under the program.
 
-“(d)
+"(d)
 
-Types of Contracts.—The contracts to be evaluated under the program may include contracts for telecommunication services that are provided through the use of a satellite, requirements related to oceanic and air traffic control, air-to-ground radio communications, and air traffic control tower construction.”
+Types of Contracts.—The contracts to be evaluated under the program may include contracts for telecommunication services that are provided through the use of a satellite, requirements related to oceanic and air traffic control, air-to-ground radio communications, and air traffic control tower construction."
 
 #### Assessment of Acquisition Management System
 
-Pub. L. 104–264, title II, §251, Oct. 9, 1996, 110 Stat. 3236, provided that: “Not later than April 1, 1999, the Administrator \[of the Federal Aviation Administration\] shall employ outside experts to provide an independent evaluation of the effectiveness of the Administration's \[Federal Aviation Administration\] acquisition management system within 3 months after such date. The Administrator shall transmit a copy of the evaluation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.”
+Pub. L. 104–264, title II, §251, Oct. 9, 1996, 110 Stat. 3236, provided that: "Not later than April 1, 1999, the Administrator \[of the Federal Aviation Administration\] shall employ outside experts to provide an independent evaluation of the effectiveness of the Administration's \[Federal Aviation Administration\] acquisition management system within 3 months after such date. The Administrator shall transmit a copy of the evaluation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives."
 
-Pub. L. 104–205, title III, §351, Sept. 30, 1996, 110 Stat. 2979, provided that: “Not later than December 31, 1997, the Administrator of the Federal Aviation Administration shall—
+Pub. L. 104–205, title III, §351, Sept. 30, 1996, 110 Stat. 2979, provided that: "Not later than December 31, 1997, the Administrator of the Federal Aviation Administration shall—
 
-&emsp;“(a) take such action as may be necessary to provide for an independent assessment of the acquisition management system of the Federal Aviation Administration that includes a review of any efforts of the Administrator in promoting and encouraging the use of full and open competition as the preferred method of procurement with respect to any contract that involves an amount greater than $50,000,000; and
+&emsp;"(a) take such action as may be necessary to provide for an independent assessment of the acquisition management system of the Federal Aviation Administration that includes a review of any efforts of the Administrator in promoting and encouraging the use of full and open competition as the preferred method of procurement with respect to any contract that involves an amount greater than $50,000,000; and
 
-&emsp;“(b) submit to the Congress a report on the findings of that independent assessment: <i>Provided</i>, That for purposes of this section, the term ‘full and open competition’ has the meaning provided that term in section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6)).”
+&emsp;"(b) submit to the Congress a report on the findings of that independent assessment: <i>Provided</i>, That for purposes of this section, the term 'full and open competition' has the meaning provided that term in section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6))."
 
 #### Acquisition Management System for Federal Aviation Administration
 
@@ -308,105 +308,105 @@ Pub. L. 104–50, title III, §348, Nov. 15, 1995, 109 Stat. 460, required the A
 
 Pub. L. 103–355, title V, §5063, Oct. 13, 1994, 108 Stat. 3356, provided that:
 
-“(a)
+"(a)
 
 Authority.—The Secretary of Transportation may conduct a test of alternative and innovative procurement procedures in carrying out acquisitions for one of the modernization programs under the Airway Capital Investment Plan prepared pursuant to section 44501(b) of title 49, United States Code. In conducting such test, the Secretary shall consult with the Administrator for Federal Procurement Policy.
 
-“(b)
+"(b)
 
 Pilot Program Implementation.—(1) The Secretary of Transportation should prescribe policies and procedures for the interaction of the program manager and the end user executive responsible for the requirement for the equipment acquired. Such policies and procedures should include provisions for enabling the end user executive to participate in acceptance testing.
 
-“(2) Not later than 45 days after the date of enactment of this Act \[Oct. 13, 1994\], the Secretary of Transportation shall identify for the pilot program quantitative measures and goals for reducing acquisition management costs.
+"(2) Not later than 45 days after the date of enactment of this Act \[Oct. 13, 1994\], the Secretary of Transportation shall identify for the pilot program quantitative measures and goals for reducing acquisition management costs.
 
-“(3) The Secretary of Transportation shall establish for the pilot program a review process that provides senior acquisition officials with reports on the minimum necessary data items required to ensure the appropriate expenditure of funds appropriated for the program and that—
+"(3) The Secretary of Transportation shall establish for the pilot program a review process that provides senior acquisition officials with reports on the minimum necessary data items required to ensure the appropriate expenditure of funds appropriated for the program and that—
 
-&emsp;“(A) contain essential information on program results at appropriate intervals, including the criteria to be used in measuring the success of the program; and
+&emsp;"(A) contain essential information on program results at appropriate intervals, including the criteria to be used in measuring the success of the program; and
 
-&emsp;“(B) reduce data requirements from the current program review reporting requirements.
+&emsp;"(B) reduce data requirements from the current program review reporting requirements.
 
-“(c)
+"(c)
 
 Special Authorities.—The authority provided by subsection (a) shall include authority for the Secretary of Transportation—
 
-&emsp;“(1) to apply any amendment or repeal of a provision of law made in this Act \[see Short Title of 1994 Amendment note set out under section 251 of Title 41, Public Contracts\] to the pilot program before the effective date of such amendment or repeal; and
+&emsp;"(1) to apply any amendment or repeal of a provision of law made in this Act \[see Short Title of 1994 Amendment note set out under section 251 of Title 41, Public Contracts\] to the pilot program before the effective date of such amendment or repeal; and
 
-&emsp;“(2) to apply to a procurement of items other than commercial items under such program—
+&emsp;"(2) to apply to a procurement of items other than commercial items under such program—
 
-&emsp;&emsp;“(A) any authority provided in this Act (or in an amendment made by a provision of this Act) to waive a provision of law in the case of commercial items, and
+&emsp;&emsp;"(A) any authority provided in this Act (or in an amendment made by a provision of this Act) to waive a provision of law in the case of commercial items, and
 
-&emsp;&emsp;“(B) any exception applicable under this Act (or an amendment made by a provision of this Act) in the case of commercial items,
+&emsp;&emsp;"(B) any exception applicable under this Act (or an amendment made by a provision of this Act) in the case of commercial items,
 
 > &emsp;before the effective date of such provision (or amendment) to the extent that the Secretary determines necessary to test the application of such waiver or exception to procurements of items other than commercial items.
 
-“(d)
+"(d)
 
 Applicability.—Subsection (c) applies with respect to—
 
-&emsp;“(1) a contract that is awarded or modified after the date occurring 45 days after the date of the enactment of this Act \[Oct. 13, 1994\]; and
+&emsp;"(1) a contract that is awarded or modified after the date occurring 45 days after the date of the enactment of this Act \[Oct. 13, 1994\]; and
 
-&emsp;“(2) a contract that is awarded before such date and is to be performed (or may be performed), in whole or in part, after such date.
+&emsp;"(2) a contract that is awarded before such date and is to be performed (or may be performed), in whole or in part, after such date.
 
-“(e)
+"(e)
 
 Procedures Authorized.—The test conducted under this section may include any of the following procedures:
 
-&emsp;“(1) Restriction of competitions to sources determined capable in a precompetition screening process, provided that the screening process affords all interested sources a fair opportunity to be considered.
+&emsp;"(1) Restriction of competitions to sources determined capable in a precompetition screening process, provided that the screening process affords all interested sources a fair opportunity to be considered.
 
-&emsp;“(2) Restriction of competitions to sources of preevaluated products, provided that the preevaluation process affords all interested sources a fair opportunity to be considered.
+&emsp;"(2) Restriction of competitions to sources of preevaluated products, provided that the preevaluation process affords all interested sources a fair opportunity to be considered.
 
-&emsp;“(3) Alternative notice and publication requirements.
+&emsp;"(3) Alternative notice and publication requirements.
 
-&emsp;“(4) A process in which—
+&emsp;"(4) A process in which—
 
-&emsp;&emsp;“(A) the competitive process is initiated by publication in the Commerce Business Daily, or by dissemination through FACNET, of a notice that—
+&emsp;&emsp;"(A) the competitive process is initiated by publication in the Commerce Business Daily, or by dissemination through FACNET, of a notice that—
 
-&emsp;&emsp;&emsp;“(i) contains a synopsis of the functional and performance needs of the executive agency conducting the test, and, for purposes of guidance only, other specifications; and
+&emsp;&emsp;&emsp;"(i) contains a synopsis of the functional and performance needs of the executive agency conducting the test, and, for purposes of guidance only, other specifications; and
 
-&emsp;&emsp;&emsp;“(ii) invites any interested source to submit information or samples showing the suitability of its product for meeting those needs, together with a price quotation, or, if appropriate, showing the source's technical capability, past performance, product supportability, or other qualifications (including, as appropriate, information regarding rates and other cost-related factors);
+&emsp;&emsp;&emsp;"(ii) invites any interested source to submit information or samples showing the suitability of its product for meeting those needs, together with a price quotation, or, if appropriate, showing the source's technical capability, past performance, product supportability, or other qualifications (including, as appropriate, information regarding rates and other cost-related factors);
 
-&emsp;&emsp;“(B) contracting officials develop a request for proposals (including appropriate specifications and evaluation criteria) after reviewing the submissions of interested sources and, if the officials determine necessary, after consultation with those sources; and
+&emsp;&emsp;"(B) contracting officials develop a request for proposals (including appropriate specifications and evaluation criteria) after reviewing the submissions of interested sources and, if the officials determine necessary, after consultation with those sources; and
 
-&emsp;&emsp;“(C) a contract is awarded after a streamlined competition that is limited to all sources that timely provided product information in response to the notice or, if appropriate, to those sources determined most capable based on the qualification-based factors included in an invitation to submit information pursuant to subparagraph (A).
+&emsp;&emsp;"(C) a contract is awarded after a streamlined competition that is limited to all sources that timely provided product information in response to the notice or, if appropriate, to those sources determined most capable based on the qualification-based factors included in an invitation to submit information pursuant to subparagraph (A).
 
-“(f)
+"(f)
 
 Waiver of Procurement Regulations.—(1) In conducting the test under this section, the Secretary of Transportation, with the approval of the Administrator for Federal Procurement Policy, may waive—
 
-&emsp;“(A) any provision of the Federal Acquisition Regulation that is not required by statute; and
+&emsp;"(A) any provision of the Federal Acquisition Regulation that is not required by statute; and
 
-&emsp;“(B) any provision of the Federal Acquisition Regulation that is required by a provision of law described in paragraph (2), the waiver of which the Administrator determines in writing to be necessary to test procedures authorized by subsection (e).
+&emsp;"(B) any provision of the Federal Acquisition Regulation that is required by a provision of law described in paragraph (2), the waiver of which the Administrator determines in writing to be necessary to test procedures authorized by subsection (e).
 
-“(2) The provisions of law referred to in paragraph (1) are as follows:
+"(2) The provisions of law referred to in paragraph (1) are as follows:
 
-&emsp;“(A) Subsections (e), (f), and (g) of section 8 of the Small Business Act (15 U.S.C. 637).
+&emsp;"(A) Subsections (e), (f), and (g) of section 8 of the Small Business Act (15 U.S.C. 637).
 
-&emsp;“(B) The following provisions of the Federal Property and Administrative Services Act of 1949:
+&emsp;"(B) The following provisions of the Federal Property and Administrative Services Act of 1949:
 
-&emsp;&emsp;“(i) Section 303 (\[former\] 41 U.S.C. 253) \[see 41 U.S.C. 3105, 3301, 3303 to 3305\].
+&emsp;&emsp;"(i) Section 303 (\[former\] 41 U.S.C. 253) \[see 41 U.S.C. 3105, 3301, 3303 to 3305\].
 
-&emsp;&emsp;“(ii) Section 303A (\[former\] 41 U.S.C. 253a) \[see 41 U.S.C. 3306\].
+&emsp;&emsp;"(ii) Section 303A (\[former\] 41 U.S.C. 253a) \[see 41 U.S.C. 3306\].
 
-&emsp;&emsp;“(iii) Section 303B (\[former\] 41 U.S.C. 253b) \[now 41 U.S.C. 3308, 3701 to 3708, 4702\].
+&emsp;&emsp;"(iii) Section 303B (\[former\] 41 U.S.C. 253b) \[now 41 U.S.C. 3308, 3701 to 3708, 4702\].
 
-&emsp;&emsp;“(iv) Section 303C \[former\] (41 U.S.C. 253c) \[now 41 U.S.C. 3311\].
+&emsp;&emsp;"(iv) Section 303C \[former\] (41 U.S.C. 253c) \[now 41 U.S.C. 3311\].
 
-&emsp;“(C) The following provisions of the Office of Federal Procurement Policy Act:
+&emsp;"(C) The following provisions of the Office of Federal Procurement Policy Act:
 
-&emsp;&emsp;“(i) Section 4(6) (\[former\] 41 U.S.C. 403(6)) \[see 41 U.S.C. 107\].
+&emsp;&emsp;"(i) Section 4(6) (\[former\] 41 U.S.C. 403(6)) \[see 41 U.S.C. 107\].
 
-&emsp;&emsp;“(ii) Section 18 (\[former\] 41 U.S.C. 416) \[see 41 U.S.C. 1708\].
+&emsp;&emsp;"(ii) Section 18 (\[former\] 41 U.S.C. 416) \[see 41 U.S.C. 1708\].
 
-“(g)
+"(g)
 
-Definition.—In this section, the term ‘commercial item’ has the meaning provided that term in section 4(12) of the Office of Federal Procurement Policy Act \[see 41 U.S.C. 103\].
+Definition.—In this section, the term 'commercial item' has the meaning provided that term in section 4(12) of the Office of Federal Procurement Policy Act \[see 41 U.S.C. 103\].
 
-“(h)
+"(h)
 
 Expiration of Authority.—The authority to conduct the test under subsection (a) and to award contracts under such test shall expire 4 years after the date of the enactment of this Act. Contracts entered into before such authority expires shall remain in effect, notwithstanding the expiration of the authority to conduct the test under this section.
 
-“(i)
+"(i)
 
-Rule of Construction.—Nothing in this section shall be construed as authorizing the appropriation or obligation of funds for the test conducted pursuant to subsection (a).”
+Rule of Construction.—Nothing in this section shall be construed as authorizing the appropriation or obligation of funds for the test conducted pursuant to subsection (a)."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

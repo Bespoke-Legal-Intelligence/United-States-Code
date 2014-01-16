@@ -8,7 +8,7 @@ The Secretary shall annually prepare a report on the levels of participation and
 
 #### (1) Organization and data
 
-&emsp;Such report shall present information on the levels of participation and the outcomesachieved by such minority individuals with respect to each grantee under this subchapter, by service area, and in the aggregate, beginning with data that applies to program year 2005.
+&emsp;Such report shall present information on the levels of participation and the outcomes achieved by such minority individuals with respect to each grantee under this subchapter, by service area, and in the aggregate, beginning with data that applies to program year 2005.
 
 #### (2) Efforts
 

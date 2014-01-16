@@ -10,7 +10,7 @@ A prior section 3103, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1298, contained 
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–497 substituted “Archivist” for “Administrator” wherever appearing.
+<b>1984</b>—Pub. L. 98–497 substituted "Archivist" for "Administrator" wherever appearing.
 
 #### Effective Date of 1984 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Collection and remission to Board; persons required to pay
 
-(1) The order shall provide that, not later than 30 days after the effective date of the order under section 4805(c) of this title an assessment shall be paid, in the manner prescribed in the order. Upon the appointment of the Board, the assessments held in escrow shall be distributedto the Board. Except as provided in paragraph (3), assessments shall be payable by—
+(1) The order shall provide that, not later than 30 days after the effective date of the order under section 4805(c) of this title an assessment shall be paid, in the manner prescribed in the order. Upon the appointment of the Board, the assessments held in escrow shall be distributed to the Board. Except as provided in paragraph (3), assessments shall be payable by—
 
 &emsp;(A) each producer for each porcine animal described in subparagraph (A) or (C) of section 4802(8) of this title produced in the United States that is sold or slaughtered for sale;
 
@@ -60,7 +60,7 @@ Funds collected by the Board from assessments collected under this section shall
 
 &emsp;(2)(A) The National Pork Producers Council, a nonprofit corporation of the type described in section 501(c)(3) of title 26 and incorporated in the State of Iowa, shall receive an amount of funds equal to—
 
-&emsp;&emsp;(i) 37½ percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) of this section until the first day of the month following the month in which the Board is appointed pursuant to section 4808 of this title.<sup>2</sup>
+&emsp;&emsp;(i) 37½ percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) of this section until the first day of the month following the month inwhich the Board is appointed pursuant to section 4808 of this title.<sup>2</sup>
 
 &emsp;&emsp;(ii) 35 percent thereafter until the referendum is conducted pursuant to section 4811 of this title,
 
@@ -128,17 +128,17 @@ The Board, with the approval of the Secretary, may invest funds collected throug
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “this title” and was translated as reading “this subtitle”, meaning subtitle B of title XVI of Pub. L. 99–198, which enacted this chapter, as the probable intent of Congress.
+This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original "this title" and was translated as reading "this subtitle", meaning subtitle B of title XVI of Pub. L. 99–198, which enacted this chapter, as the probable intent of Congress.
 
 #### Amendments
 
-<b>1986</b>—Subsecs. (c)(2)(A), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (c)(2)(A), (e). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 
 <i><sup>2</sup></i><i> So in original. The period probably should be a comma.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "section".</i>
 
 <i><sup>4</sup></i><i> See References in Text note below.</i>
 

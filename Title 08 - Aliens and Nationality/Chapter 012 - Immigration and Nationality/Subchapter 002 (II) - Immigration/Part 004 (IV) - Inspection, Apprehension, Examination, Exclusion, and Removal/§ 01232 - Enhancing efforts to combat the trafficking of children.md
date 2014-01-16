@@ -20,7 +20,7 @@
 
 #### (B) Return
 
-&emsp;&emsp;An immigration officer who finds an unaccompanied alien child described in subparagraph (A) at a land border or port of entry ofthe United States and determines that such child is inadmissible under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) may—
+&emsp;&emsp;An immigration officer who finds an unaccompanied alien child described in subparagraph (A) at a land border or port of entry of the United States and determines that such child is inadmissible under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) may—
 
 &emsp;&emsp;&emsp;(i) permit such child to withdraw the child's application for admission pursuant to section 235(a)(4) of the Immigration and Nationality Act (8 U.S.C. 1225(a)(4)); and
 
@@ -84,7 +84,7 @@
 
 #### (1) Care and custody of unaccompanied alien children
 
-&emsp;Consistent with section 279 of title 6, and except as otherwise provided under subsection\(a), the care and custody of all unaccompanied alien children, including responsibility for their detention, where appropriate, shall be the responsibility of the Secretary of Health and Human Services.
+&emsp;Consistent with section 279 of title 6, and except as otherwise provided under subsection (a), the care and custody of all unaccompanied alien children, including responsibility for their detention, where appropriate, shall be the responsibility of the Secretary of Health and Human Services.
 
 #### (2) Notification
 
@@ -110,7 +110,13 @@
 
 #### (2) Safe and secure placements
 
-&emsp;Subject to section 279(b)(2) of title 6, an unaccompanied alien child in the custody of the Secretary of Health and Human Services shall be promptly placed in the least restrictive setting that is in the best interest of the child. In making such placements, the Secretary may consider danger to self, danger to the community, and risk of flight. Placement of child trafficking victims may include placement in an Unaccompanied Refugee Minor program, pursuant to section 412(d) of the Immigration and Nationality Act (8 U.S.C. 1522(d)), if a suitable family member is not available to provide care. A child shall not be placed in a secure facility absent a determination that the child poses a danger to self or others or has been charged with having committed a criminal offense. The placement of a child in a secure facility shall be reviewed, at a minimum, on a monthly basis, in accordance with procedures prescribed by the Secretary, to determine if such placement remains warranted.
+#### (A) Minors in department of health and human services custody
+
+&emsp;&emsp;Subject to section 279(b)(2) of title 6, an unaccompanied alien child in the custody of the Secretary of Health and Human Services shall be promptly placed in the least restrictive setting that is in the best interest of the child. In making such placements, the Secretary may consider danger to self, danger to the community, and risk of flight. Placement of child trafficking victims may include placement in an Unaccompanied Refugee Minor program, pursuant to section 412(d) of the Immigration and Nationality Act (8 U.S.C. 1522(d)), if a suitable family member is not available to provide care. A child shall not be placed in a secure facility absent a determination that the child poses a danger to self or others or has been charged with having committed a criminal offense. The placement of a child in a secure facility shall be reviewed, at a minimum, on a monthly basis, in accordance with procedures prescribed by the Secretary, to determine if such placement remains warranted.
+
+#### (B) Aliens transferred from Department of Health and Human Services to Department of Homeland Security custody
+
+&emsp;&emsp;If a minor described in subparagraph (A) reaches 18 years of age and is transferred to the custody of the Secretary of Homeland Security, the Secretary shall consider placement in the least restrictive setting available after taking into account the alien's danger to self, danger to the community, and risk of flight. Such aliens shall be eligible to participate in alternative to detentionprograms, utilizing a continuum of alternatives based on the alien's need for supervision, which may include placement of the alien with an individual or an organizational sponsor, or in a supervised group home.
 
 #### (3) Safety and suitability assessments
 
@@ -128,7 +134,7 @@
 
 #### (4) Legal orientation presentations
 
-&emsp;The Secretary of Health and Human Services shall cooperate with the Executive Office for Immigration Review to ensure that custodians receive legal orientation presentations provided through the Legal Orientation Program administered by the Executive Office for Immigration Review. At a minimum, such presentations shall address the custodian's responsibility to attempt to ensure the child'sappearance at all immigration proceedings and to protect the child from mistreatment, exploitation, and trafficking.
+&emsp;The Secretary of Health and Human Services shall cooperate with the Executive Office for Immigration Review to ensure that custodians receive legal orientation presentations provided through the Legal Orientation Program administered by the Executive Office for Immigration Review. At a minimum, such presentations shall address the custodian's responsibility to attempt to ensure the child's appearance at all immigration proceedings and to protect the child from mistreatment, exploitation, and trafficking.
 
 #### (5) Access to counsel
 
@@ -136,7 +142,85 @@
 
 #### (6) Child advocates
 
-&emsp;The Secretary of Health and Human Services is authorized to appoint independent child advocates for child trafficking victims and other vulnerable unaccompanied alien children. A child advocate shall be provided access to materials necessary to effectively advocate for the best interest of the child. The child advocate shall not be compelled to testify or provide evidence in any proceeding concerning any information or opinion received from the child in the course of serving as a child advocate. The child advocate shall be presumed to be acting in good faith and be immune from civil and criminal liability for lawful conduct of duties as described in this provision.
+#### (A) In general
+
+&emsp;&emsp;The Secretary of Health and Human Services is authorized to appoint independent child advocates for child trafficking victims and other vulnerable unaccompanied alien children. A child advocate shall be provided access to materials necessary to effectively advocate for the best interest of the child. The child advocate shall not be compelled to testify or provide evidence in any proceeding concerning any information or opinion received from the child in the course of serving as a child advocate. The child advocate shall be presumed to be acting in good faith and be immune from civil liability for lawful conduct of duties as described in this provision.
+
+#### (B) Appointment of child advocates
+
+#### (i) Initial sites
+
+&emsp;&emsp;&emsp;Not later than 2 years after March 7, 2013, the Secretary of Health and Human Services shall appoint child advocates at 3 new immigration detention sites to provide independent child advocates for trafficking victims and vulnerable unaccompanied alien children.
+
+#### (ii) Additional sites
+
+&emsp;&emsp;&emsp;Not later than 3 years after March 7, 2013, the Secretary shall appoint child advocates at not more than 3 additional immigration detention sites.
+
+#### (iii) Selection of sites
+
+&emsp;&emsp;&emsp;Sites at which child advocate programs will be established under this subparagraph shall be located at immigration detention sites at which more than 50 children are held in immigration custody, and shall be selected sequentially, with priority given to locations with—
+
+&emsp;&emsp;&emsp;&emsp;(I) the largest number of unaccompanied alien children; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the most vulnerable populations of unaccompanied children.
+
+#### (C) Restrictions
+
+#### (i) Administrative expenses
+
+&emsp;&emsp;&emsp;A child advocate program may not use more that 10 percent of the Federal funds received under this section for administrative expenses.
+
+#### (ii) Nonexclusivity
+
+&emsp;&emsp;&emsp;Nothing in this section may be construed to restrict the ability of a child advocate program under this section to apply for or obtain funding from any other source to carry out the programs described in this section.
+
+#### (iii) Contribution of funds
+
+&emsp;&emsp;&emsp;A child advocate program selected under this section shall contribute non-Federal funds, either directly or through in-kind contributions, to the costs of the child advocate program in an amount that is not less than 25 percent of the total amount of Federal funds received by the child advocate program under this section. In-kind contributions may not exceed 40 percent of the matching requirement under this clause.
+
+#### (D) Annual report to Congress
+
+&emsp;&emsp;Not later than 1 year after March 7, 2013, and annually thereafter, the Secretary of Health and Human Services shall submit a report describing the activities undertaken by the Secretary to authorize the appointment of independent Child Advocates for trafficking victims and vulnerable unaccompanied alien children to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
+
+#### (E) Assessment of Child Advocate Program
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;As soon as practicable after March 7, 2013, the Comptroller General of the United States shall conduct a study regarding the effectiveness of the Child Advocate Program operated by the Secretary of Health and Human Services.
+
+#### (ii) Matters to be studied
+
+&emsp;&emsp;&emsp;In the study required under clause (i), the Comptroller General shall— <sup>2</sup> collect information and analyze the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) analyze the effectiveness of existing child advocate programs in improving outcomes for trafficking victims and other vulnerable unaccompanied alien children;
+
+&emsp;&emsp;&emsp;&emsp;(II) evaluate the implementation of child advocate programs in new sites pursuant to subparagraph (B);
+
+&emsp;&emsp;&emsp;&emsp;(III) evaluate the extent to which eligible trafficking victims and other vulnerable unaccompanied children are receiving child advocate services and assess the possible budgetary implications of increased participation in the program;
+
+&emsp;&emsp;&emsp;&emsp;(IV) evaluate the barriers to improving outcomes for trafficking victims and other vulnerable unaccompanied children; and
+
+&emsp;&emsp;&emsp;&emsp;(V) make recommendations on statutory changes to improve the Child Advocate Program in relation to the matters analyzed under subclauses (I) through (IV).
+
+#### (iii) GAO report
+
+&emsp;&emsp;&emsp;Not later than 3 years after March 7, 2013, the Comptroller General of the United States shall submit the results of the study required under this subparagraph to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Committee on the Judiciary of the Senate;
+
+&emsp;&emsp;&emsp;&emsp;(II) the Committee on Health, Education, Labor, and Pensions of the Senate;
+
+&emsp;&emsp;&emsp;&emsp;(III) the Committee on the Judiciary of the House of Representatives; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) the Committee on Education and the Workforce of the House of Representatives.
+
+#### (F) Authorization of appropriations
+
+&emsp;&emsp;There are authorized to be appropriated to the Secretary and Human Services <sup>3</sup> to carry out this subsection—
+
+&emsp;&emsp;&emsp;(i) $1,000,000 for each of the fiscal years 2014 and 2015; and
+
+&emsp;&emsp;&emsp;(ii) $2,000,000 for each of the fiscal years 2016 and 2017.
 
 #### (d) Permanent protection for certain at-risk children
 
@@ -152,7 +236,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A child who has been granted special immigrant status under section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)) and who was either in the custody of the Secretary of Health and Human Services at the time a dependency order was granted for such child or who was receiving services pursuant to section 501(a) of the Refugee Education Assistance Act of 1980 (8 U.S.C. 1522 note) at the time such dependency order was granted, shall be eligible for placement and services under section 412(d) of the Immigration and Nationality Act (8 U.S.C. 1522(d)) until the earlier of—
+&emsp;&emsp;A child who has been granted special immigrant status under section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)) and who was in the custody of the Secretary of Health and Human Services at the time a dependency order was granted for such child, was receiving services pursuant to section 501(a) of the Refugee Education Assistance Act of 1980 (8 U.S.C. 1522 note) at the time such dependency order was granted, or has been granted status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)),,<sup>2</sup> shall be eligible for placement and services under section 412(d) of the Immigration and Nationality Act (8 U.S.C. 1522(d)) until the earlier of—
 
 &emsp;&emsp;&emsp;(i) the date on which the child reaches the age designated in section 412(d)(2)(B) of the Immigration and Nationality Act (8 U.S.C. 1522(d)(2)(B)); or
 
@@ -160,7 +244,7 @@
 
 #### (B) State reimbursement
 
-&emsp;&emsp;Subject to the availability of appropriations, if State foster care funds are expended on behalf of a child who is not described in subparagraph (A) and has been granted special immigrant status under section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), the Federal Government shall reimburse the State in which the child resides for such expenditures by the State.
+&emsp;&emsp;Subject to the availability of appropriations, if State foster care funds are expendedon behalf of a child who is not described in subparagraph (A) and has been granted special immigrant status under section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), or status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)),,<sup>2</sup> the Federal Government shall reimburse the State in which the child resides for such expenditures by the State.
 
 #### (5) State courts acting in loco parentis
 
@@ -198,11 +282,13 @@ This section—
 
 The Secretary of Health and Human Services may award grants to, and enter into contracts with, voluntary agencies to carry out this section and section 279 of title 6.
 
-(Pub. L. 110–457, title II, §235, Dec. 23, 2008, 122 Stat. 5074.)
+(Pub. L. 110–457, title II, §235, Dec. 23, 2008, 122 Stat. 5074; Pub. L. 113–4, title XII, §§1261–1263, Mar. 7, 2013, 127 Stat. 156–159.)
 
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsec. (a)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
+March 7, 2013, referred to in subsec. (c)(6)(E)(iii), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 113–4, known as the Violence Against Women Reauthorization Act of 2013, which enacted subsec. (c)(6)(B) to (F), to reflect the probable intent of Congress. Other references to March 7, 2013, in subpars. (B) to (F) of subsec. (c)(6) were in the original “the date of the enactment of the Violence Against Women Reauthorization Act of 2013”.
 
 #### Codification
 
@@ -210,5 +296,19 @@ Section is comprised of section 235 of Pub. L. 110–457. Pars. (1), (3), and (7
 
 Section was enacted as part of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
+#### Amendments
+
+<b>2013</b>—Subsec. (c)(2). Pub. L. 113–4, §1261, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (c)(6). Pub. L. 113–4, §1262, designated existing provisions as subpar. (A), inserted heading, struck out “and criminal” after “immune from civil”, and added subpars. (B) to (F).
+
+Subsec. (d)(4)(A). Pub. L. 113–4, §1263(1), in introductory provisions, struck out “either” before “in the custody”, substituted “such child,” for “such child or who”, and inserted “, or has been granted status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)),” before “, shall be eligible for placement”.
+
+Subsec. (d)(4)(B). Pub. L. 113–4, §1263(2), inserted “, or status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)),” before “, the Federal Government”.
+
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “Secretary of Health and Human Services”.</i>
 

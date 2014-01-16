@@ -4,33 +4,25 @@
 
 (b) The Patent and Trademark Office shall perform all acts connected with the discharge of duties required of a Receiving Office, including the collection of international fees and their transmittal to the International Bureau.
 
-(c) International applications filed in the Patent and Trademark Office shall be in the English language.
+(c) International applications filed in the Patent and Trademark Office shall be filed in the English language, or an English translation shall be filed within such later time as may be fixed by the Director.
 
 (d) The international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall either be paid on filing of an international application or within such later time as may be fixed by the Director.
 
 (Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 686; amended Pub. L. 98–622, title IV, §§401(a), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, §2(d), Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–211, title II, §202(b)(7), Dec. 18, 2012, 126 Stat. 1536.)
 
-#### Amendment of Section
-
-<i>Pub. L. 112–211, title II, §§202(b)(7), 203, Dec. 18, 2012, 126 Stat. 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended by striking subsection (c) and inserting the following:</i>
-
-<i>(c) International applications filed in the Patent and Trademark Office shall be filed in the English language, or an English translation shall be filed within such later time as may be fixed by the Director.</i>
-
-<i>See 2012 Amendment note below.</i>
-
 #### Amendments
 
-<b>2012</b>—Subsec. (c). Pub. L. 112–211 added subsec. (c) and struck out former subsec. (c) which read as follows: “International applications filed in the Patent and Trademark Office shall be in the English language.”
+<b>2012</b>—Subsec. (c). Pub. L. 112–211 added subsec. (c) and struck out former subsec. (c) which read as follows: "International applications filed in the Patent and Trademark Office shall be in the English language."
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Subsec. (d). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–616 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The basic fee portion of the international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall be paid on filing of an international application or within one month after the date of such filing. Payment of designation fees may be made on filing and shall be made not later than one year from the priority date of the international application.”
+<b>1986</b>—Subsec. (d). Pub. L. 99–616 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The basic fee portion of the international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall be paid on filing of an international application or within one month after the date of such filing. Payment of designation fees may be made on filing and shall be made not later than one year from the priority date of the international application."
 
-<b>1984</b>—Subsecs. (a) to (c). Pub. L. 98–622, §403(a), substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1984</b>—Subsecs. (a) to (c). Pub. L. 98–622, §403(a), substituted "Patent and Trademark Office" for "Patent Office".
 
-Subsec. (d). Pub. L. 98–622, §401(a), inserted “or within one month after the date of such filing” after “application”.
+Subsec. (d). Pub. L. 98–622, §401(a), inserted "or within one month after the date of such filing" after "application".
 
 #### Effective Date of 2012 Amendment
 
@@ -42,7 +34,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–616 effective July 1, 1987, and applicable to all international applications pendingbefore or after that date, see section 9 of Pub. L. 99–616, set out as a note under section 351 of this title.
+Amendment by Pub. L. 99–616 effective July 1, 1987, and applicable to all international applications pending before or after that date, see section 9 of Pub. L. 99–616, set out as a note under section 351 of this title.
 
 #### Effective Date of 1984 Amendment
 

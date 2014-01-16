@@ -18,7 +18,7 @@ The Secretary shall carry out programs of research, development, demonstration, 
 
 #### (2) Power delivery research initiative
 
-&emsp;There are authorized to be appropriated to the Secretary to carry out the Power DeliveryResearch Initiative under subsection <sup>1</sup> 16215(e) of this title such sums as may be necessary for each of fiscal years 2007 through 2009.
+&emsp;There are authorized to be appropriated to the Secretary to carry out the Power Delivery Research Initiative under subsection <sup>1</sup> 16215(e) of this title such sums as may be necessary for each of fiscal years 2007 through 2009.
 
 #### (c) Micro-cogeneration energy technology
 
@@ -30,5 +30,5 @@ From amounts authorized under subsection (b), $2,000,000 for fiscal year 2007 sh
 
 (Pub. L. 109–58, title IX, §921, Aug. 8, 2005, 119 Stat. 864.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

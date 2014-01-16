@@ -42,7 +42,7 @@ If an election is made under subsection (a), and a deficiency attributable to th
 
 #### (e) Time for payment of interest
 
-If the time for payment for any amount of tax has been extended under this section, interest payable under section 6601 on any unpaid portion of such amount shall be paid annually at the same time as, and as part of, each installment payment of the tax. Interest, on that part of a deficiency prorated under this section to any installment the date for payment of which has not arrived, for the period before the date fixed for the last installment preceding the assessment of the deficiency, shall be paid upon notice and demand from the Secretary.
+If the time for payment for any amount of tax has been extended under this section, interest payable under section 6601 on any unpaid portion of such amount shall be paid annually atthe same time as, and as part of, each installment payment of the tax. Interest, on that part of a deficiency prorated under this section to any installment the date for payment of which has not arrived, for the period before the date fixed for the last installment preceding the assessment of the deficiency, shall be paid upon notice and demand from the Secretary.
 
 #### (f) Tax attributable to recovery of foreign expropriation loss
 
@@ -66,9 +66,9 @@ If any installment under this section is not paid on or before the date fixed fo
 
 #### Amendments
 
-<b>1976</b>—Subsecs. (a), (b), (d), (e), (g). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a), (b), (d), (e), (g). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (h). Pub. L. 94–455, §§1902(b)(2)(B), 1906(b)(13)(A), substituted “section 6503(e)” for “section 6503(f)”, and struck out “or his delegate” after “Secretary”.
+Subsec. (h). Pub. L. 94–455, §§1902(b)(2)(B), 1906(b)(13)(A), substituted "section 6503(e)" for "section 6503(f)", and struck out "or his delegate" after "Secretary".
 
 <b>1975</b>—Subsec. (e). Pub. L. 93–625, §7(d)(2), struck out provision that in applying section 6601(j) (relating to the application of the 4-percent interest rate in the case of recoveries of foreign expropriation losses to which this section applies) in the case of a deficiency, the entire amount which was prorated to installments under this section shall be treated as an amount of tax the payment of which was extended under this section.
 
@@ -80,7 +80,7 @@ Amendment by section 1902(b)(2)(B) of Pub. L. 94–455 applicable to estates of 
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date orarising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
+Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
 
 #### Effective Date
 

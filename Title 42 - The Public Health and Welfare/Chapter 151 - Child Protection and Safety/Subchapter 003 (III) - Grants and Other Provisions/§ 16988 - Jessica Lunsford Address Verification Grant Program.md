@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established the Jessica Lunsford Address Verification Grant Program (hereinafter in this section referred to as the “Program”).
+There is established the Jessica Lunsford Address Verification Grant Program (hereinafter in this section referred to as the "Program").
 
 #### (b) Grants authorized
 
@@ -44,5 +44,5 @@ In making grants under this section, the Attorney General shall ensure that diff
 
 (Pub. L. 109–248, title VI, §631, July 27, 2006, 120 Stat. 641.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “States,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "States,".</i>
 

@@ -6,7 +6,7 @@ In General.—Whoever fraudulently or knowingly exports or sends from the United
 
 (b)
 
-Definition.—In this section, the term “United States” has the meaning given that term in section 545.
+Definition.—In this section, the term "United States" has the meaning given that term in section 545.
 
 (Added Pub. L. 109–177, title III, §311(a), Mar. 9, 2006, 120 Stat. 242.)
 

@@ -8,7 +8,7 @@
 
 #### (2) Qualified entities
 
-&emsp;In paragraph (1), the term “qualified entity” means—
+&emsp;In paragraph (1), the term "qualified entity" means—
 
 &emsp;&emsp;(A) a nonprofit private entity that has expertise in developing and administering standards for entities providing child welfare services and that meets such other criteria as the Secretary may by regulation establish; or
 
@@ -70,7 +70,7 @@ The amount of fees assessed by accrediting entities for the costs of accreditati
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a)(1), was in the original “this title”, meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+This subchapter, referred to in subsec. (a)(1), was in the original "this title", meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
 

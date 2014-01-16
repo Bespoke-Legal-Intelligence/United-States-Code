@@ -8,7 +8,7 @@
 
 #### (2) Eligible hospital
 
-&emsp;For purposes of this section, the term “eligible hospital” means a hospital that performs significant trauma care, or a hospital or consortium of hospitals that serves a population base of not fewer than 200,000 individuals.
+&emsp;For purposes of this section, the term "eligible hospital" means a hospital that performs significant trauma care, or a hospital or consortium of hospitals that serves a population base of not fewer than 200,000 individuals.
 
 #### (b) Administration of coordination program
 

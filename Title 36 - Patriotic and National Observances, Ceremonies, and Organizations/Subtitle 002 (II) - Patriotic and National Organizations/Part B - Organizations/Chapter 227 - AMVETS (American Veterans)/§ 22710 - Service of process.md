@@ -32,5 +32,5 @@ July 23, 1947, ch. 298, §12, 61 Stat. 407.
 
 July 23, 1947, ch. 298, §18, 61 Stat. 408; Aug. 15, 1977, Pub. L. 95–98, §1(a), 91 Stat. 830.
 
-In subsection (b), the words “precedent”, “herein”, and “or conferred” are omitted as unnecessary. The words “file, with the secretary of state or other designated official” are substituted for “serve notice on the secretary of state” for consistency in the revised title. The word “authorized” is omitted as unnecessary.
+In subsection (b), the words "precedent", "herein", and "or conferred" are omitted as unnecessary. The words "file, with the secretary of state or other designated official" are substituted for "serve notice on the secretary of state" for consistency in the revised title. The word "authorized" is omitted as unnecessary.
 

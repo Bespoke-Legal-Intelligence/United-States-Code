@@ -24,11 +24,11 @@ Provisions similar to those comprising this section were contained in prior sect
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–39 redesignated par. (2) and (3) as (1) and (2). Former par. (1), which prohibited distilled spirits transferred pursuant to subsection (a) from being bottled in bond under section 5233, was struck out.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 inserted “, or the person bringing such distilled spirits into the United States,” after “and the importer”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 inserted ", or the person bringing such distilled spirits into the United States," after "and the importer".
 
 <b>1971</b>—Subsec. (a). Pub. L. 91–659, §7(a), extended privilege of transfer of distilled spirits to the plant without payment of tax to distilled spirits imported, or brought into the United States, and struck out reference to section 5001.
 
-Subsec. (b). Pub. L. 91–659, §7(b), struck out “Imported” before “distilled spirits” and thus applied subsection to all distilled spirits.
+Subsec. (b). Pub. L. 91–659, §7(b), struck out "Imported" before "distilled spirits" and thus applied subsection to all distilled spirits.
 
 <b>1968</b>—Pub. L. 90–630 permitted withdrawal in bulk containers or by pipeline from customs custody to internal revenue bond without payment of internal revenue taxes of all imported distilled spirits in bulk containers, regardless of proof, extended to all such imported distilled spirits the withdrawal privileges already available to imported distilled spirits of at least 185 proof, whether or not they have been redistilled or denatured, provided that transferor's liability for the internal revenue tax ceases when the transferee's liability attaches, and established that imported bulk spirits are not eligible for the bottled in bond privileges available to domestic spirits.
 
@@ -46,5 +46,5 @@ Amendment by Pub. L. 91–659 effective on first day of first calendar month whi
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–630 applicable only to withdrawals from customs custody on or after first day of first calendar month which begins more than 90 days after Oct. 22, 1968, see section 4 of Pub. L. 90–630, set out as a note under section 5008 of this title.
+Amendment by Pub. L. 90–630 applicable only to withdrawals from customs custody on or after first day offirst calendar month which begins more than 90 days after Oct. 22, 1968, see section 4 of Pub. L. 90–630, set out as a note under section 5008 of this title.
 

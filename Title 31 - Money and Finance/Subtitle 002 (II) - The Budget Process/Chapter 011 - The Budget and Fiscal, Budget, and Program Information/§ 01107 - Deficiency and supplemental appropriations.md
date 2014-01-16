@@ -18,9 +18,9 @@ Historical and Revision Notes
 
 June 10, 1921, ch. 18, §203, 42 Stat. 21; restated Sept. 12, 1950, ch. 946, §102(b), 64 Stat. 833.
 
-In the section, the words “reach an aggregate which” are omitted as surplus.
+In the section, the words "reach an aggregate which" are omitted as surplus.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–74 inserted at end “The President shall transmit promptly to Congress without change, proposed deficiency and supplemental appropriations submitted to the President by the legislative branch and the judicial branch.”
+<b>2011</b>—Pub. L. 112–74 inserted at end "The President shall transmit promptly to Congress without change, proposed deficiency and supplemental appropriations submitted to the President by the legislative branch and the judicial branch."
 

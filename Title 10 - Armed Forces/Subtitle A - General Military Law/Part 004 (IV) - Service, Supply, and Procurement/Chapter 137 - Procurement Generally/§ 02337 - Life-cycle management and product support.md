@@ -2,7 +2,7 @@
 
 (a)
 
-Guidance on Life-Cycle Management.—The Secretary of Defense shall issue and maintain comprehensive guidance on life-cycle management and the development and implementation of product support strategies for majorweapon systems. The guidance issued pursuant to this subsection shall—
+Guidance on Life-Cycle Management.—The Secretary of Defense shall issue and maintain comprehensive guidance on life-cycle management and the development and implementation of product support strategies for major weapon systems. The guidance issued pursuant to this subsection shall—
 
 &emsp;(1) maximize competition and make the best possible use of available Department of Defense and industry resources at the system, subsystem, and component levels; and
 
@@ -32,9 +32,11 @@ Responsibilities.—A product support manager for a major weapon system shall—
 
 &emsp;&emsp;(F) periodically review product support arrangements between the product support integrators and product support providers to ensure the arrangements are consistent with the overall product support strategy;
 
-&emsp;&emsp;(G) prior to each change in the product support strategy or every five years, whichever occurs first, revalidate any business-case analysis performed in support of the product support strategy; and
+&emsp;&emsp;(G) prior to each change in the product support strategy or every five years, whichever occurs first, revalidate any business-case analysis performed in support of the product support strategy;
 
-&emsp;&emsp;(H) ensure that the product support strategy maximizes small business participation at the appropriate tiers.
+&emsp;&emsp;(H) ensure that the product support strategy maximizes small business participation at the appropriate tiers; and
+
+&emsp;&emsp;(I) ensure that product support arrangements for the weapon system describe how such arrangements will ensure efficient procurement, management, and allocation of Government-owned parts inventories in order to prevent unnecessary procurements of such parts.
 
 (c)
 
@@ -42,11 +44,11 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Product support.—The term “product support” means the package of support functions required to field and maintain the readiness and operational capability of major weapon systems, subsystems, and components, including all functions related to weapon system readiness.
+Product support.—The term "product support" means the package of support functions required to field and maintain the readiness and operational capability of major weapon systems, subsystems, and components, including all functions related to weapon system readiness.
 
 &emsp;(2)
 
-Product support arrangement.—The term “product support arrangement” means a contract, task order, or any type of other contractual arrangement, or any type of agreement or non-contractual arrangement within the Federal Government, for the performance of sustainment or logistics support required for major weapon systems, subsystems, or components. The term includes arrangements for any of the following:
+Product support arrangement.—The term "product support arrangement" means a contract, task order, or any type of other contractual arrangement, or any type of agreement or non-contractual arrangement within the Federal Government, for the performance of sustainment or logistics support required for major weapon systems, subsystems, or components. The term includes arrangements for any of the following:
 
 &emsp;&emsp;(A) Performance-based logistics.
 
@@ -60,17 +62,21 @@ Product support arrangement.—The term “product support arrangement” means 
 
 &emsp;(3)
 
-Product support integrator.—The term “product support integrator” means an entity within the Federal Government or outside the Federal Government charged with integrating all sources of product support, both private and public, defined within the scope of a product support arrangement.
+Product support integrator.—The term "product support integrator" means an entity within the Federal Government or outside the Federal Government charged with integrating all sources of product support, both private and public, defined within the scope of a product support arrangement.
 
 &emsp;(4)
 
-Product support provider.—The term “product support provider” means an entity that provides product support functions. The term includes an entity within the Department of Defense, an entity within the private sector, or a partnership between such entities.
+Product support provider.—The term "product support provider" means an entitythat provides product support functions. The term includes an entity within the Department of Defense, an entity within the private sector, or a partnership between such entities.
 
 &emsp;(5)
 
-Major weapon system.—The term “major weapon system” means a major system within the meaning of section 2302d(a) of this title.
+Major weapon system.—The term "major weapon system" means a major system within the meaning of section 2302d(a) of this title.
 
-(Added Pub. L. 112–239, div. A, title VIII, §823(a)(1), Jan. 2, 2013, 126 Stat. 1830.)
+(Added Pub. L. 112–239, div. A, title VIII, §823(a)(1), Jan. 2, 2013, 126 Stat. 1830; amended Pub. L. 113–66, div. A, title VIII, §823, Dec. 26, 2013, 127 Stat. 809.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (b)(2)(I). Pub. L. 113–66 added subpar. (I).
 
 #### Similar Provisions
 

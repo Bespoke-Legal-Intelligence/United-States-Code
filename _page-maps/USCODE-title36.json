@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title36",
- "package": "USCODE-2012-title36",
+ "package": "USCODE-2013-title36",
  "pieces": [
   {
    "id": "36_",
@@ -179,21 +179,17 @@
      true
     ],
     [
-     "I",
-     633,
-     [
-      [
-       214,
-       "[Page 17]"
-      ]
-     ]
+     "L",
+     635,
+     "[Page 17]",
+     true
     ],
     [
      "I",
      675,
      [
       [
-       95,
+       256,
        "[Page 18]"
       ]
      ]
@@ -228,7 +224,7 @@
    "marks": [
     [
      "L",
-     16,
+     14,
      "[Page 19]",
      true
     ]
@@ -600,7 +596,7 @@
      ]
     ]
    ],
-   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 001 - Patriotic and National Observances/§ 00135 - Parents’ Day.md",
+   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 001 - Patriotic and National Observances/§ 00135 - Parents' Day.md",
    "printed_pages": [
     28,
     29
@@ -12134,7 +12130,7 @@
   {
    "id": "36_-Subtitle_II-Part_B-ch2103",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/README.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/README.md",
    "printed_pages": [
     255,
     255
@@ -12143,7 +12139,7 @@
   {
    "id": "36_210301",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/§ 210301 - Definition.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/§ 210301 - Definition.md",
    "printed_pages": [
     255,
     255
@@ -12159,7 +12155,7 @@
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/§ 210302 - Organization.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/§ 210302 - Organization.md",
    "printed_pages": [
     255,
     256
@@ -12168,7 +12164,7 @@
   {
    "id": "36_210303",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/§ 210303 - Purposes.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/§ 210303 - Purposes.md",
    "printed_pages": [
     256,
     256
@@ -12177,7 +12173,7 @@
   {
    "id": "36_210304",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/§ 210304 - Membership.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/§ 210304 - Membership.md",
    "printed_pages": [
     256,
     256
@@ -12186,7 +12182,7 @@
   {
    "id": "36_210305",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/§ 210305 - Governing body.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/§ 210305 - Governing body.md",
    "printed_pages": [
     256,
     256
@@ -12195,7 +12191,7 @@
   {
    "id": "36_210306",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/§ 210306 - Powers.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/§ 210306 - Powers.md",
    "printed_pages": [
     256,
     256
@@ -12204,7 +12200,7 @@
   {
    "id": "36_210307",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/§ 210307 - Exclusive right to name, seals, emblems, and badges.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/§ 210307 - Exclusive right to name, seals, emblems, and badges.md",
    "printed_pages": [
     256,
     256
@@ -12220,7 +12216,7 @@
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/§ 210308 - Restrictions.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/§ 210308 - Restrictions.md",
    "printed_pages": [
     256,
     257
@@ -12229,7 +12225,7 @@
   {
    "id": "36_210309",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/§ 210309 - Duty to maintain tax-exempt status.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/§ 210309 - Duty to maintain tax-exempt status.md",
    "printed_pages": [
     257,
     257
@@ -12238,7 +12234,7 @@
   {
    "id": "36_210310",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/§ 210310 - Records and inspection.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/§ 210310 - Records and inspection.md",
    "printed_pages": [
     257,
     257
@@ -12247,7 +12243,7 @@
   {
    "id": "36_210311",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/§ 210311 - Service of process.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/§ 210311 - Service of process.md",
    "printed_pages": [
     257,
     257
@@ -12256,7 +12252,7 @@
   {
    "id": "36_210312",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/§ 210312 - Liability for acts of officers and agents.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/§ 210312 - Liability for acts of officers and agents.md",
    "printed_pages": [
     257,
     257
@@ -12265,7 +12261,7 @@
   {
    "id": "36_210313",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans’ Association/§ 210313 - Annual report.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2103 - 369th Veterans' Association/§ 210313 - Annual report.md",
    "printed_pages": [
     257,
     257
@@ -13473,7 +13469,7 @@
   {
    "id": "36_-Subtitle_II-Part_B-ch2401",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans’ Association/README.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/README.md",
    "printed_pages": [
     288,
     288
@@ -13482,7 +13478,7 @@
   {
    "id": "36_240101",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans’ Association/§ 240101 - Definition.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240101 - Definition.md",
    "printed_pages": [
     288,
     288
@@ -13502,7 +13498,7 @@
      ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans’ Association/§ 240102 - Organization.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240102 - Organization.md",
    "printed_pages": [
     288,
     289
@@ -13511,7 +13507,7 @@
   {
    "id": "36_240103",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans’ Association/§ 240103 - Purposes.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240103 - Purposes.md",
    "printed_pages": [
     289,
     289
@@ -13520,7 +13516,7 @@
   {
    "id": "36_240104",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans’ Association/§ 240104 - Membership.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240104 - Membership.md",
    "printed_pages": [
     289,
     289
@@ -13529,7 +13525,7 @@
   {
    "id": "36_240105",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans’ Association/§ 240105 - Governing body.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240105 - Governing body.md",
    "printed_pages": [
     289,
     289
@@ -13538,7 +13534,7 @@
   {
    "id": "36_240106",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans’ Association/§ 240106 - Powers.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240106 - Powers.md",
    "printed_pages": [
     289,
     289
@@ -13554,7 +13550,7 @@
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans’ Association/§ 240107 - Restrictions.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240107 - Restrictions.md",
    "printed_pages": [
     289,
     290
@@ -13563,7 +13559,7 @@
   {
    "id": "36_240108",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans’ Association/§ 240108 - Duty to maintain tax-exempt status.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240108 - Duty to maintain tax-exempt status.md",
    "printed_pages": [
     290,
     290
@@ -13572,7 +13568,7 @@
   {
    "id": "36_240109",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans’ Association/§ 240109 - Records and inspection.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240109 - Records and inspection.md",
    "printed_pages": [
     290,
     290
@@ -13581,7 +13577,7 @@
   {
    "id": "36_240110",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans’ Association/§ 240110 - Service of process.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240110 - Service of process.md",
    "printed_pages": [
     290,
     290
@@ -13590,7 +13586,7 @@
   {
    "id": "36_240111",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans’ Association/§ 240111 - Liability for acts of officers and agents.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240111 - Liability for acts of officers and agents.md",
    "printed_pages": [
     290,
     290
@@ -13599,7 +13595,7 @@
   {
    "id": "36_240112",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans’ Association/§ 240112 - Annual report.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240112 - Annual report.md",
    "printed_pages": [
     290,
     290
@@ -13839,6 +13835,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2012-title36 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2013-title36 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 36 - Patriotic and National Observances, Ceremonies, and Organizations"
 }

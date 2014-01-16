@@ -33,17 +33,17 @@
 
 <b>2003</b>—Pub. L. 108–136, div. A, title V, §576(c)(2), Nov. 24, 2003, 117 Stat. 1488, added item for chapter 875.
 
-<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1674(a), Oct. 5, 1994, 108 Stat. 3016, struck out items for chapters 837 “Appointments as Reserve Officers” and 863 “Separation or Transfer to Retired Reserve”.
+<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1674(a), Oct. 5, 1994, 108 Stat. 3016, struck out items for chapters 837 "Appointments as Reserve Officers" and 863 "Separation or Transfer to Retired Reserve".
 
-<b>1980</b>—Pub. L. 96–513, title V, §504(1), Dec. 12, 1980, 94 Stat. 2915, struck out items for chapters 859 “Separation from Regular Air Force for Substandard Performance of Duty”, 860 “Separation from Regular Air Force for Moral or Professional Dereliction or in Interests of National Security”, and 865 “Retirement for Age”.
+<b>1980</b>—Pub. L. 96–513, title V, §504(1), Dec. 12, 1980, 94 Stat. 2915, struck out items for chapters 859 "Separation from Regular Air Force for Substandard Performance of Duty", 860 "Separation from Regular Air Force for Moral or Professional Dereliction or in Interests of National Security", and 865 "Retirement for Age".
 
-<b>1968</b>—Pub. L. 90–377, §5, July 5, 1968, 82 Stat. 288, struck out item for chapter 851 “United States Disciplinary Barracks”.
+<b>1968</b>—Pub. L. 90–377, §5, July 5, 1968, 82 Stat. 288, struck out item for chapter 851 "United States Disciplinary Barracks".
 
-Pub. L. 90–235, §8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 847 “The Uniform”.
+Pub. L. 90–235, §8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 847 "The Uniform".
 
-<b>1960</b>—Pub. L. 86–616, §§7(b), 8(b), July 12, 1960, 74 Stat. 393, 395, substituted “Substandard Performance of Duty” for “Failure to Meet Standards” in item for chapter 859 and added item for chapter 860.
+<b>1960</b>—Pub. L. 86–616, §§7(b), 8(b), July 12, 1960, 74 Stat. 393, 395, substituted "Substandard Performance of Duty" for "Failure to Meet Standards" in item for chapter 859 and added item for chapter 860.
 
-<b>1958</b>—Pub. L. 85–861, §1(193), Sept. 2, 1958, 72 Stat. 1538, substituted “8841” for “\[No present sections\]” in item for chapter 863.
+<b>1958</b>—Pub. L. 85–861, §1(193), Sept. 2, 1958, 72 Stat. 1538, substituted "8841" for "\[No present sections\]" in item for chapter 863.
 
 
 ---

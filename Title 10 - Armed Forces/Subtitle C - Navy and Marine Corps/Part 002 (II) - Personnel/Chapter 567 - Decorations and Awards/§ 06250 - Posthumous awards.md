@@ -24,5 +24,5 @@ Feb. 4, 1919, ch. 14, §8 (less 1st and 2d provisos), 40 Stat. 1057; renumbered 
 
 July 2, 1926, ch. 721, §12 (3d sentence, less last 31 words), 44 Stat. 789; July 30, 1937, ch. 545, §4, 50 Stat. 549.
 
-The word “associated” is substituted for the word “other” to relate the medal or cross to its emblem or insignia.
+The word "associated" is substituted for the word "other" to relate the medal or cross to its emblem or insignia.
 

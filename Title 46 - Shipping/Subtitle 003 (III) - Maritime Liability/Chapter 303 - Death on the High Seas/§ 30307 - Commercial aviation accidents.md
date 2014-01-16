@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “nonpecuniary damages” means damages for loss of care, comfort, and companionship.
+Definition.—In this section, the term "nonpecuniary damages" means damages for loss of care, comfort, and companionship.
 
 (b)
 
@@ -42,9 +42,9 @@ Mar. 30, 1920, ch. 111, §§1(b), 2(b); as added Pub. L. 106–181, title IV, §
 
 46 App.:761(b).
 
-In subsections (b) and (c), the words “the United States” are substituted for “any State, or the District of Columbia, or the Territories or dependencies of the United States” because of the definition of “United States” in chapter 1 of the revised title.
+In subsections (b) and (c), the words "the United States" are substituted for "any State, or the District of Columbia, or the Territories or dependencies of the United States" because of the definition of "United States" in chapter 1 of the revised title.
 
-In subsection (b), the words “of a decedent” are omitted as unnecessary.
+In subsection (b), the words "of a decedent" are omitted as unnecessary.
 
-In subsection (c), the words “if the death resulted from a commercial aviation accident occurring on the high seas” are substituted for “In the case of a commercial aviation accident, whenever the death of a person shall be caused by wrongful act, neglect, or default occurring on the high seas” for consistency with subsection (b) and to eliminate unnecessary words. The words “and the rules applicable under Federal, State, and other appropriate law shall apply” are omitted as unnecessary.
+In subsection (c), the words "if the death resulted from a commercial aviation accident occurring on the high seas" are substituted for "In the case of a commercial aviation accident, whenever the death of a person shall be caused by wrongful act, neglect, or default occurring on the high seas" for consistency with subsection (b) and to eliminate unnecessary words. The words "and the rules applicable under Federal, State, and other appropriate law shall apply" are omitted as unnecessary.
 

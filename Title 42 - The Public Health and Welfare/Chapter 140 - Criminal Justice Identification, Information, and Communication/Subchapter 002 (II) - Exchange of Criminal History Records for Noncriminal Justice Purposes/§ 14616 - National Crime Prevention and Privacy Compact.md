@@ -18,11 +18,11 @@ In this Compact:
 
 #### (1) Attorney General
 
-&emsp;The term “Attorney General” means the Attorney General of the United States.
+&emsp;The term "Attorney General" means the Attorney General of the United States.
 
 #### (2) Compact officer
 
-&emsp;The term “Compact officer” means—
+&emsp;The term "Compact officer" means—
 
 &emsp;&emsp;(A) with respect to the Federal Government, an official so designated by the Director of the FBI; and
 
@@ -30,11 +30,11 @@ In this Compact:
 
 #### (3) Council
 
-&emsp;The term “Council” means the Compact Council established under Article VI.
+&emsp;The term "Council" means the Compact Council established under Article VI.
 
 #### (4) Criminal history records
 
-&emsp;The term “criminal history records”—
+&emsp;The term "criminal history records"—
 
 &emsp;&emsp;(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, or other formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and
 
@@ -42,15 +42,15 @@ In this Compact:
 
 #### (5) Criminal history record repository
 
-&emsp;The term “criminal history record repository” means the State agency designated by the Governor or other appropriate executive official or the legislature of a State to perform centralized recordkeeping functions for criminal history records and services in the State.
+&emsp;The term "criminal history record repository" means the State agency designated by the Governor or other appropriate executive official or the legislature of a State to perform centralized recordkeeping functions for criminal history records and services in the State.
 
 #### (6) Criminal justice
 
-&emsp;The term “criminal justice” includes activities relating to the detection, apprehension, detention, pretrial release, post-trial release, prosecution, adjudication, correctional supervision, or rehabilitation of accused persons or criminal offenders. The administration of criminal justice includes criminal identification activities and the collection, storage, and dissemination of criminal history records.
+&emsp;The term "criminal justice" includes activities relating to the detection, apprehension, detention, pretrial release, post-trial release, prosecution, adjudication, correctional supervision, or rehabilitation of accused persons or criminal offenders. The administration of criminal justice includes criminal identification activities and the collection, storage, and dissemination of criminal history records.
 
 #### (7) Criminal justice agency
 
-&emsp;The term “criminal justice agency”—
+&emsp;The term "criminal justice agency"—
 
 &emsp;&emsp;(A) means—
 
@@ -66,27 +66,27 @@ In this Compact:
 
 #### (8) Criminal justice services
 
-&emsp;The term “criminal justice services” means services provided by the FBI to criminal justice agencies in response to a request for information about a particular individual or as an update to information previously provided for criminal justice purposes.
+&emsp;The term "criminal justice services" means services provided by the FBI to criminal justice agencies in response to a request for information about a particular individual or as an update to information previously provided for criminal justice purposes.
 
 #### (9) Criterion offense
 
-&emsp;The term “criterion offense” means any felony or misdemeanor offense not included on the list of nonserious offenses published periodically by the FBI.
+&emsp;The term "criterion offense" means any felony or misdemeanor offense not included on the list of nonserious offenses published periodically by the FBI.
 
 #### (10) Direct access
 
-&emsp;The term “direct access” means access to the National Identification Index by computer terminal or other automated means not requiring the assistance of or intervention by any other party or agency.
+&emsp;The term "direct access" means access to the National Identification Index by computer terminal or other automated means not requiring the assistance of or intervention by any other party or agency.
 
 #### (11) Executive order
 
-&emsp;The term “Executive order” means an order of the President of the United States or the chief executive officer of a State that has the force of law and that is promulgated in accordance with applicable law.
+&emsp;The term "Executive order" means an order of the President of the United States or the chief executive officer of a State that has the force of law and that is promulgated in accordance with applicable law.
 
 #### (12) FBI
 
-&emsp;The term “FBI” means the Federal Bureau of Investigation.
+&emsp;The term "FBI" means the Federal Bureau of Investigation.
 
 #### (13) Interstate Identification System
 
-&emsp;The term “Interstate Identification Index System” or “III System”—
+&emsp;The term "Interstate Identification Index System" or "III System"—
 
 &emsp;&emsp;(A) means the cooperative Federal-State system for the exchange of criminal history records; and
 
@@ -94,35 +94,35 @@ In this Compact:
 
 #### (14) National Fingerprint File
 
-&emsp;The term “National Fingerprint File” means a database of fingerprints, or other uniquely personal identifying information, relating to an arrested or charged individual maintained by the FBI to provide positive identification of record subjects indexed in the III System.
+&emsp;The term "National Fingerprint File" means a database of fingerprints, or other uniquely personal identifying information, relating to an arrested or charged individual maintained by the FBI to provide positive identification of record subjects indexed in the III System.
 
 #### (15) National Identification Index
 
-&emsp;The term “National Identification Index” means an index maintained by the FBI consisting of names, identifying numbers, and other descriptive information relating torecord subjects about whom there are criminal history records in the III System.
+&emsp;The term "National Identification Index" means an index maintained by the FBI consisting of names, identifying numbers, and other descriptive information relating to record subjects about whom there are criminal history records in the III System.
 
 #### (16) National indices
 
-&emsp;The term “National indices” means the National Identification Index and the National Fingerprint File.
+&emsp;The term "National indices" means the National Identification Index and the National Fingerprint File.
 
 #### (17) Nonparty State
 
-&emsp;The term “Nonparty State” means a State that has not ratified this Compact.
+&emsp;The term "Nonparty State" means a State that has not ratified this Compact.
 
 #### (18) Noncriminal justice purposes
 
-&emsp;The term “noncriminal justice purposes” means uses of criminal history records for purposes authorized by Federal or State law other than purposes relating to criminal justice activities, including employment suitability, licensing determinations, immigration and naturalization matters, and national security clearances.
+&emsp;The term "noncriminal justice purposes" means uses of criminal history records for purposes authorized by Federal or State law other than purposes relating to criminal justice activities, including employment suitability, licensing determinations, immigration and naturalization matters, and national security clearances.
 
 #### (19) Party State
 
-&emsp;The term “Party State” means a State that has ratified this Compact.
+&emsp;The term "Party State" means a State that has ratified this Compact.
 
 #### (20) Positive identification
 
-&emsp;The term “positive identification” means a determination, based upon a comparison of fingerprints or other equally reliable biometric identification techniques, that the subject of a record search is the same person as the subject of a criminal history record or records indexed in the III System. Identifications based solely upon a comparison of subjects’ names or other nonunique identification characteristics or numbers, or combinations thereof, shall not constitute positive identification.
+&emsp;The term "positive identification" means a determination, based upon a comparison of fingerprints or other equally reliable biometric identification techniques, that the subject of a record search is the same person as the subject of a criminal history record or records indexed in the III System. Identifications based solely upon a comparison of subjects' names or other nonunique identification characteristics or numbers, or combinations thereof, shall not constitute positive identification.
 
 #### (21) Sealed record information
 
-&emsp;The term “sealed record information” means—
+&emsp;The term "sealed record information" means—
 
 &emsp;&emsp;(A) with respect to adults, that portion of a record that is—
 
@@ -136,7 +136,7 @@ In this Compact:
 
 #### (22) State
 
-&emsp;The term “State” means any State, territory, or possession of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;The term "State" means any State, territory, or possession of the United States, theDistrict of Columbia, and the Commonwealth of Puerto Rico.
 
 ### ARTICLE II—PURPOSES
 
@@ -172,7 +172,7 @@ The Director of the FBI shall—
 
 &emsp;&emsp;(B) information from Party States that is available from the FBI through the III System, but is not available from the Party State through the III System;
 
-&emsp;(3) provide a telecommunications network and maintain centralized facilities for the exchange of criminal history records for both criminal justice purposes and the noncriminal justice purposes described in Article IV, and ensure that the exchange of such records forcriminal justice purposes has priority over exchange for noncriminal justice purposes; and
+&emsp;(3) provide a telecommunications network and maintain centralized facilities for the exchange of criminal history records for both criminal justice purposes and the noncriminal justice purposes described in Article IV, and ensure that the exchange of such records for criminal justice purposes has priority over exchange for noncriminal justice purposes; and
 
 &emsp;(4) modify or enter into user agreements with Nonparty State criminal history record repositories to require them to establish record request procedures conforming to those prescribed in Article V.
 
@@ -212,11 +212,11 @@ In carrying out their responsibilities under this Compact, the FBI and each Part
 
 #### (a) State criminal history record repositories
 
-To the extent authorized by section 552a of title 5, United States Code (commonly known as the “Privacy Act of 1974”), the FBI shall provide on request criminal history records (excluding sealed records) to State criminal history record repositories for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General and that authorizes national indices checks.
+To the extent authorized by section 552a of title 5, United States Code (commonly known as the "Privacy Act of 1974"), the FBI shall provide on request criminal history records (excludingsealed records) to State criminal history record repositories for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General and that authorizes national indices checks.
 
 #### (b) Criminal justice agencies and other governmental or nongovernmental agencies
 
-The FBI, to the extent authorized by section 552a of title 5, United States Code (commonly known as the “Privacy Act of 1974”), and State criminal history record repositories shall provide criminal history records (excluding sealed records) to criminal justice agencies and other governmental or nongovernmental agencies for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General, that authorizes national indices checks.
+The FBI, to the extent authorized by section 552a of title 5, United States Code (commonly known as the "Privacy Act of 1974"), and State criminal history record repositories shall provide criminal history records (excluding sealed records) to criminal justice agencies and other governmental or nongovernmental agencies for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General, that authorizes national indices checks.
 
 #### (c) Procedures
 
@@ -226,7 +226,7 @@ Any record obtained under this Compact may be used only for the official purpose
 
 &emsp;(2) require that subsequent record checks are requested to obtain current information whenever a new need arises; and
 
-&emsp;(3) ensure that record entries that may not legally be used for a particular noncriminal justice purpose are deleted from the response and, if no information authorized for release remains, an appropriate “no record” response is communicated to the requesting official.
+&emsp;(3) ensure that record entries that may not legally be used for a particular noncriminal justice purpose are deleted from the response and, if no information authorized for release remains, an appropriate "no record" response is communicated to the requesting official.
 
 ### ARTICLE V—RECORD REQUEST PROCEDURES
 
@@ -246,7 +246,7 @@ Each request for criminal history record checks utilizing the national indices m
 
 A State criminal history record repository or the FBI—
 
-&emsp;(1) may charge a fee, in accordance with applicable law, for handling a request involvingfingerprint processing for noncriminal justice purposes; and
+&emsp;(1) may charge a fee, in accordance with applicable law, for handling a request involving fingerprint processing for noncriminal justice purposes; and
 
 &emsp;(2) may not charge a fee for providing criminal history records in response to an electronic request for a record that does not involve a request to process fingerprints.
 
@@ -266,7 +266,7 @@ A State criminal history record repository or the FBI—
 
 #### (1) In general
 
-&emsp;There is established a council to be known as the “Compact Council”, which shall have the authority to promulgate rules and procedures governing the use of the III System for noncriminal justice purposes, not to conflict with FBI administration of the III System for criminal justice purposes.
+&emsp;There is established a council to be known as the "Compact Council", which shall have the authority to promulgate rules and procedures governing the use of the III System for noncriminal justice purposes, not to conflict with FBI administration of the III System for criminal justice purposes.
 
 #### (2) Organization
 
@@ -282,7 +282,7 @@ A State criminal history record repository or the FBI—
 
 The Council shall be composed of 15 members, each of whom shall be appointed by the Attorney General, as follows:
 
-&emsp;(1) Nine members, each of whom shall serve a 2-year term, who shall be selected from among the Compact officers of Party States based on the recommendation of the Compact officers of all Party States, except that, in the absence of the requisite number of Compact officers available to serve, the chief administrators of the criminal history record repositories of Nonparty States shall be eligible to serve on an interim basis.
+&emsp;(1) Nine members, each of whom shall serve a 2-year term, who shall be selected from among the Compact officers of Party States based on the recommendation of the Compact officers of all Party States, except that, in the absence of the requisite number of Compactofficers available to serve, the chief administrators of the criminal history record repositories of Nonparty States shall be eligible to serve on an interim basis.
 
 &emsp;(2) Two at-large members, nominated by the Director of the FBI, each of whom shall serve a 3-year term, of whom—
 
@@ -404,5 +404,5 @@ The Privacy Act of 1974, referred to in Article IV(a), (b), is Pub. L. 93–579,
 
 The Federal Advisory Committee Act, referred to in Article VIII(a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act,1973, referred to in Article VIII(c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109, as amended. For complete classification of this Act to the Code, see Tables.
+The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in Article VIII(c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109, as amended. For complete classification of this Act to the Code, see Tables.
 

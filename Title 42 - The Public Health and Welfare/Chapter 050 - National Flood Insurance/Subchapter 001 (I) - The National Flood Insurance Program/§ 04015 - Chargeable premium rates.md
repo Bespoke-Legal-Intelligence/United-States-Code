@@ -60,7 +60,7 @@ Notwithstanding subsection (f), upon the effective date of any revised or update
 
 #### (i) Rule of construction
 
-For purposes of this section, the calculation of an “average historical loss year”—
+For purposes of this section, the calculation of an "average historical loss year"—
 
 &emsp;(1) includes catastrophic loss years; and
 
@@ -70,9 +70,9 @@ For purposes of this section, the calculation of an “average historical loss y
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2) and (e) and the third time appearing in subsec. (h), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsecs. (b)(2) and (e) and the third time appearing in subsec. (h), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
-This chapter, referred to in subsec. (f) and the first two times appearing in subsec. (h), was in the original “this Act”, and was translated as reading “this title”, meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (f) and the first two times appearing in subsec. (h), was in the original "this Act", and was translated as reading "this title", meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 The Flood Disaster Protection Act of 1973, referred to in subsec. (h), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
 
@@ -80,23 +80,23 @@ The Biggert-Waters Flood Insurance Reform Act of 2012, referred to in subsec. (h
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in introductory provisions.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in introductory provisions.
 
-Pub. L. 112–141, §100211(1), in introductory provisions, substituted “prescribe, after providing notice” for “, after consultation with the advisory committee authorized under section 4025 of this title, appropriate representatives of the pool formed or otherwise created under section 4051 of this title, and appropriate representatives of the insurance authorities of the respective States, prescribe by regulation”.
+Pub. L. 112–141, §100211(1), in introductory provisions, substituted "prescribe, after providing notice" for ", after consultation with the advisory committee authorized under section 4025 of this title, appropriate representatives of the pool formed or otherwise created under section 4051 of this title, and appropriate representatives of the insurance authorities of the respective States, prescribe by regulation".
 
 Subsec. (b)(5). Pub. L. 112–141, §100211(2), added par. (5).
 
-Subsecs. (c), (d). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
+Subsecs. (c), (d). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" wherever appearing.
 
-Subsec. (e). Pub. L. 112–141, §100205(c)(1), struck out “or (3)” after “paragraph (2)” and inserted “any properties” after “under this chapter for” in introductory provisions.
+Subsec. (e). Pub. L. 112–141, §100205(c)(1), struck out "or (3)" after "paragraph (2)" and inserted "any properties" after "under this chapter for" in introductory provisions.
 
-Pub. L. 112–123 substituted “under this chapter for—” for “under this chapter for”, inserted par. (1) designation before “any properties”, and added par. (2).
+Pub. L. 112–123 substituted "under this chapter for—" for "under this chapter for", inserted par. (1) designation before "any properties", and added par. (2).
 
-Subsec. (e)(1). Pub. L. 112–141, §100205(c)(2), substituted “within any single” for “any properties within any single” and “20 percent” for “10 percent”.
+Subsec. (e)(1). Pub. L. 112–141, §100205(c)(2), substituted "within any single" for "any properties within any single" and "20 percent" for "10 percent".
 
-Subsec. (e)(2). Pub. L. 112–141, §100205(c)(3), added par. (2) and struck out former par. (2) which read as follows: “any residential properties which are not the primary residence of an individual, as described in section 4014(a)(2) of this title, shall be increased by 25 percent each year, until the average risk premium rate for such properties is equal to the average of the risk premium rates for properties described under paragraph (1).”
+Subsec. (e)(2). Pub. L. 112–141, §100205(c)(3), added par. (2) and struck out former par. (2) which read as follows: "any residential properties which are not the primary residence of an individual, as described in section 4014(a)(2) of this title, shall be increased by 25 percent each year, until the average risk premium rate for such properties is equal to the average of the risk premium rates for properties described under paragraph (1)."
 
-Subsec. (f). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in two places.
+Subsec. (f). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in two places.
 
 Subsec. (g). Pub. L. 112–141, §100205(d), added subsec. (g).
 
@@ -104,37 +104,37 @@ Subsec. (h). Pub. L. 112–141, §100207, added subsec. (h).
 
 Subsec. (i). Pub. L. 112–141, §100211(3), added subsec. (i).
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–264, §106(a), added subsec. (c) and struck out former subsec. (c) which read as follows “Subject only to the limitation under subsection (e) of this section, the chargeable rate with respect to any property, the construction or substantialimprovements of which the Director determines has been started after December 31, 1974, or the effective date of the initial rate map published by the Director under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later, shall not be less than the applicable estimated risk premium rate for such area (or subdivision thereof) under section 4014(a)(1) of this title.”
+<b>2004</b>—Subsec. (c). Pub. L. 108–264, §106(a), added subsec. (c) and struck out former subsec. (c) which read as follows "Subject only to the limitation under subsection (e) of this section, the chargeable rate with respect to any property, the construction or substantial improvements of which the Director determines has been started after December 31, 1974, or the effective date of the initial rate map published by the Director under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later, shall not be less than the applicable estimated risk premium rate for such area (or subdivision thereof) under section 4014(a)(1) of this title."
 
-Subsec. (e). Pub. L. 108–264, §106(b), substituted “Except with respect to properties described under paragraph (2) or (3) of subsection (c) of this section, and notwithstanding” for “Notwithstanding”.
+Subsec. (e). Pub. L. 108–264, §106(b), substituted "Except with respect to properties described under paragraph (2) or (3) of subsection (c) of this section, and notwithstanding" for "Notwithstanding".
 
 Subsec. (f). Pub. L. 108–264, §209, added subsec. (f).
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–325, §572(a)(1), substituted “Subject only to the limitation under subsection (e) of this section” for “Notwithstanding any other provision of this chapter”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–325, §572(a)(1), substituted "Subject only to the limitation under subsection (e) of this section" for "Notwithstanding any other provision of this chapter".
 
 Subsec. (e). Pub. L. 103–325, §572(a)(2), added subsec. (e).
 
 <b>1990</b>—Subsec. (b)(3), (4). Pub. L. 101–508, §2302(e)(2)(A), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (d). Pub. L. 101–508, §2302(e)(2)(B), added subsec. (d) and struck out former subsec. (d) which read as follows: “In the event any chargeable premium rate prescribed under this section—
+Subsec. (d). Pub. L. 101–508, §2302(e)(2)(B), added subsec. (d) and struck out former subsec. (d) which read as follows: "In the event any chargeable premium rate prescribed under this section—
 
-&emsp;“(1) is a rate which is not less than the applicable estimated risk premium rate under section 4014(a)(1) of this title, and
+&emsp;"(1) is a rate which is not less than the applicable estimated risk premium rate under section 4014(a)(1) of this title, and
 
-&emsp;“(2) includes any amount for administrative expenses of carrying out the flood insurance program which have been estimated under clause (ii) of section 4014(a)(1)(B) of this title,
+&emsp;"(2) includes any amount for administrative expenses of carrying out the flood insurance program which have been estimated under clause (ii) of section 4014(a)(1)(B) of this title,
 
-> a sum equal to such amount shall be paid to the Director, and he shall deposit such sum in the National Flood Insurance Fund established under section 4017 of this title.”
+> a sum equal to such amount shall be paid to the Director, and he shall deposit such sum in the National Flood Insurance Fund established under section 4017 of this title."
 
-<b>1983</b>—Subsecs. (a), (c), (d). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Subsecs. (a), (c), (d). Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
 
-<b>1973</b>—Subsec. (c). Pub. L. 93–234 substituted “started after December 31, 1974, or the effective date of the initial rate map published by the Secretary under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later” for “started after the identification of the area in which such property is located has been published under paragraph (1) of section 4101 of this title”.
+<b>1973</b>—Subsec. (c). Pub. L. 93–234 substituted "started after December 31, 1974, or the effective date of the initial rate map published by the Secretary under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later" for "started after the identification of the area in which such property is located has been published under paragraph (1) of section 4101 of this title".
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–123, §2(c), May 31, 2012, 126 Stat. 365, provided that: “The first increase in chargeable risk premium rates for residential properties which are not the primary residence of an individual under section 1308(e)(2) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4015(e)(2)\], as added by this Act, shall take effect on July 1, 2012, and the chargeable risk premium rates for such properties shall be increased by 25 percent each year thereafter, as provided in such section 1308(e)(2).”
+Pub. L. 112–123, §2(c), May 31, 2012, 126 Stat. 365, provided that: "The first increase in chargeable risk premium rates for residential properties which are not the primary residence of an individual under section 1308(e)(2) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4015(e)(2)\], as added by this Act, shall take effect on July 1, 2012, and the chargeable risk premium rates for such properties shall be increased by 25 percent each year thereafter, as provided in such section 1308(e)(2)."
 
 #### Construction of Amendment by Pub. L. 112–141
 
-Pub. L. 112–141, div. F, title II, §100205(e), July 6, 2012, 126 Stat. 919, provided that: “Nothing in this section \[amending this section and section 4014 of this title and enacting provisions set out as a note under section 4014 of this title\] or the amendments made by this section may be construed to affect the requirement under section 2(c) of the Act entitled ‘An Act to extend the National Flood Insurance Program, and for other purposes’, approved May 31, 2012 (Public Law 112–123) \[set out above\], that the first increase in chargeable risk premium rates for residential properties which are not the primary residence of an individual take effect on July 1, 2012.”
+Pub. L. 112–141, div. F, title II, §100205(e), July 6, 2012, 126 Stat. 919, provided that: "Nothing in this section \[amending this section and section 4014 of this title and enacting provisions set out as a note under section 4014 of this title\] or the amendments made by this section may be construed to affect the requirement under section 2(c) of the Act entitled 'An Act to extend the National Flood Insurance Program, and for other purposes', approved May 31, 2012 (Public Law 112–123) \[set out above\], that the first increase in chargeable risk premium rates for residential properties which are not the primary residence of an individual take effect on July 1, 2012."
 
 #### Transfer of Functions
 

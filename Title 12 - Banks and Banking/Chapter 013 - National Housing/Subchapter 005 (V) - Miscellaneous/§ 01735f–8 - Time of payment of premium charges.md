@@ -12,7 +12,7 @@ Subchapter IV of this chapter, referred to in text, was repealed by Pub. L. 101�
 
 <b>1989</b>—Pub. L. 101–235 struck out reference to subchapter IX–A after reference to subchapter VIII.
 
-<b>1983</b>—Pub. L. 98–181 substituted “(1) in the case of loans or mortgages respecting one- to four-family residences, promptly upon their receipt from the borrower, and (2) in any other case, promptly when due to the Secretary” for “promptly upon their receipt from the borrower”, inserted “or due date, as appropriate,” after “such receipt”, and inserted “or after the due date, as appropriate,” before “and ending”.
+<b>1983</b>—Pub. L. 98–181 substituted "(1) in the case of loans or mortgages respecting one- to four-family residences, promptly upon their receipt from the borrower, and (2) in any other case, promptly when due to the Secretary" for "promptly upon their receipt from the borrower", inserted "or due date, as appropriate," after "such receipt", and inserted "or after the due date, as appropriate," before "and ending".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

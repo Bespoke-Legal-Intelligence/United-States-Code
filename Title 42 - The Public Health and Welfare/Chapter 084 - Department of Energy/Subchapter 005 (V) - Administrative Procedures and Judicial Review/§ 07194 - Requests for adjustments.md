@@ -4,7 +4,7 @@
 
 (b)(1) If any person is aggrieved or adversely affected by a denial of a request for adjustment under subsection (a) of this section such person may request a review of such denial by the Commission and may obtain judicial review in accordance with this subchapter when such a denial becomes final.
 
-(2) The Commission shall, by rule, establish appropriate procedures, including a hearingwhen requested, for review of a denial. Action by the Commission under this section shall be considered final agency action within the meaning of section 704 of title 5 and shall not be subject to further review by the Secretary or any officer or employee of the Department. Litigation involving judicial review of such action shall be the responsibility of the Secretary.
+(2) The Commission shall, by rule, establish appropriate procedures, including a hearing when requested, for review of a denial. Action by the Commission under this section shall be considered final agency action within the meaning of section 704 of title 5 and shall not be subject to further review by the Secretary or any officer or employee of the Department. Litigation involving judicial review of such action shall be the responsibility of the Secretary.
 
 (Pub. L. 95–91, title V, §504, Aug. 4, 1977, 91 Stat. 590.)
 
@@ -20,5 +20,5 @@ The Energy Policy and Conservation Act, referred to in subsec. (a), is Pub. L. 9
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “recision”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "recision".</i>
 

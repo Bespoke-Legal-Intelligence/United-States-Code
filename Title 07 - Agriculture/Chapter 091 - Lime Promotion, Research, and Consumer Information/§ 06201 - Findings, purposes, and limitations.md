@@ -38,37 +38,37 @@ Nothing in this chapter shall be construed to require quality standards for lime
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–194, §1, Dec. 14, 1993, 107 Stat. 2294, provided that: “This Act \[amending sections 6202, 6204, and 6209 of this title and enacting provisions set out as a note below\] may be cited as the ‘Lime Research, Promotion, and Consumer Information Improvement Act’.”
+Pub. L. 103–194, §1, Dec. 14, 1993, 107 Stat. 2294, provided that: "This Act \[amending sections 6202, 6204, and 6209 of this title and enacting provisions set out as a note below\] may be cited as the 'Lime Research, Promotion, and Consumer Information Improvement Act'."
 
 #### Short Title
 
-Pub. L. 101–624, title XIX, §1951, Nov. 28, 1990, 104 Stat. 3870, provided that: “This subtitle \[subtitle D (§§1951–1963) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the ‘Lime Research, Promotion, and Consumer Information Act of 1990’.”
+Pub. L. 101–624, title XIX, §1951, Nov. 28, 1990, 104 Stat. 3870, provided that: "This subtitle \[subtitle D (§§1951–1963) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the 'Lime Research, Promotion, and Consumer Information Act of 1990'."
 
 #### Legislative Findings and Purpose of Pub. L. 103–194
 
 Pub. L. 103–194, §2, Dec. 14, 1993, 107 Stat. 2294, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress finds the following:
 
-&emsp;“(1) The Lime Research, Promotion, and Consumer Information Act of 1990 \[7 U.S.C. 6201 et seq.\] was enacted on November 28, 1990, for the purpose of establishing an orderly procedure for the development and financing of an effective and coordinated program of research, promotion, and consumer information to strengthen the domestic and foreign markets for limes.
+&emsp;"(1) The Lime Research, Promotion, and Consumer Information Act of 1990 \[7 U.S.C. 6201 et seq.\] was enacted on November 28, 1990, for the purpose of establishing an orderly procedure for the development and financing of an effective and coordinated program of research, promotion, and consumer information to strengthen the domestic and foreign markets for limes.
 
-&emsp;“(2) The lime research, promotion, and consumer information order required by such Act became effective on January 27, 1992.
+&emsp;"(2) The lime research, promotion, and consumer information order required by such Act became effective on January 27, 1992.
 
-&emsp;“(3) Although the intent of such Act was to cover seedless limes, the definition of the term ‘lime’ in section 1953(6) of such Act \[7 U.S.C. 6202(6)\] applies to seeded limes. Therefore, the Act and the order need to be revised before a research, promotion, and consumer information program on seedless limes can go into effect.
+&emsp;"(3) Although the intent of such Act was to cover seedless limes, the definition of the term 'lime' in section 1953(6) of such Act \[7 U.S.C. 6202(6)\] applies to seeded limes. Therefore, the Act and the order need to be revised before a research, promotion, and consumer information program on seedless limes can go into effect.
 
-&emsp;“(4) Since the enactment of the Lime Research, Promotion, and Consumer Information Act of 1990, the United States production of fresh market limes has plummeted and the volume of imports has risen dramatically. The drop in United States production is primarily due to damage to lime orchards in the State of Florida by Hurricane Andrew in August 1992. United States production is not expected to reach pre-Hurricane Andrew levels for possibly two to three years because a majority of the United States production of limes is in Florida.
+&emsp;"(4) Since the enactment of the Lime Research, Promotion, and Consumer Information Act of 1990, the United States production of fresh market limes has plummeted and the volume of imports has risen dramatically. The drop in United States production is primarily due to damage to lime orchards in the State of Florida by Hurricane Andrew in August 1992. United States production is not expected to reach pre-Hurricane Andrew levels for possibly two to three years because a majority of the United States production of limes is in Florida.
 
-“(b)
+"(b)
 
 Purposes.—The purpose of this Act \[see Short Title of 1993 Amendment note above\] is—
 
-&emsp;“(1) to revise the definition of the term ‘lime’ in order to cover seedless and not seeded limes;
+&emsp;"(1) to revise the definition of the term 'lime' in order to cover seedless and not seeded limes;
 
-&emsp;“(2) to increase the exemption level;
+&emsp;"(2) to increase the exemption level;
 
-&emsp;“(3) to delay the initial referendum date; and
+&emsp;"(3) to delay the initial referendum date; and
 
-&emsp;“(4) to alter the composition of the Lime Board.”
+&emsp;"(4) to alter the composition of the Lime Board."
 

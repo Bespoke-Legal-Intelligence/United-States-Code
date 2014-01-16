@@ -8,7 +8,7 @@ In General.—The Bureau of Prisons, under the direction of the Attorney General
 
 &emsp;(2) provide suitable quarters and provide for the safekeeping, care, and subsistence of all persons charged with or convicted of offenses against the United States, or held as witnesses or otherwise;
 
-&emsp;(3) provide for the protection, instruction, and discipline of all persons charged with orconvicted of offenses against the United States;
+&emsp;(3) provide for the protection, instruction, and discipline of all persons charged with or convicted of offenses against the United States;
 
 &emsp;(4) provide technical assistance to State, tribal, and local governments in the improvement of their correctional systems;
 
@@ -16,7 +16,7 @@ In General.—The Bureau of Prisons, under the direction of the Attorney General
 
 &emsp;(D) <sup>1</sup> establish prerelease planning procedures that help prisoners—
 
-&emsp;&emsp;(i) apply for Federal and State benefits upon release (including Social Security Cards, Social Security benefits, and veterans’ benefits); and
+&emsp;&emsp;(i) apply for Federal and State benefits upon release (including Social Security Cards, Social Security benefits, and veterans' benefits); and
 
 &emsp;&emsp;(ii) secure such identification and benefits prior to release, subject to any limitations in law; and
 
@@ -66,7 +66,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 (2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall register as required by the Sex Offender Registration and Notification Act. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (3) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
 
-(3) The Director of the Bureau of Prisons shall inform a person who is released from prison and required to register under the Sex Offender Registration and Notification Act of the requirements of that Act as they apply to that person and the same information shall be provided to a person sentenced to probation by the probation officer responsible for supervision of that person.
+(3) The Director of the Bureau of Prisons shall inform a person who is released from prison and required to register under the Sex Offender Registration and Notification Act of the requirements of that Act as they apply to that personand the same information shall be provided to a person sentenced to probation by the probation officer responsible for supervision of that person.
 
 \[(4) Repealed. Pub. L. 109–248, title I, §141(h), July 27, 2006, 120 Stat. 604.\]
 
@@ -94,41 +94,41 @@ The Sex Offender Registration and Notification Act, referred to in subsec. (c)(2
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(4). Pub. L. 111–211, §261(a)(1), inserted “, tribal,” after “State”.
+<b>2010</b>—Subsec. (a)(4). Pub. L. 111–211, §261(a)(1), inserted ", tribal," after "State".
 
-Subsec. (b)(1). Pub. L. 111–211, §261(a)(2), substituted “officers of each State, tribal, and local jurisdiction” for “officer of the State and of the local jurisdiction”.
+Subsec. (b)(1). Pub. L. 111–211, §261(a)(2), substituted "officers of each State, tribal, and local jurisdiction" for "officer of the State and of the local jurisdiction".
 
-Subsec. (c)(1)(A). Pub. L. 111–211, §261(a)(3)(A), substituted “officer of each State, tribal, and local jurisdiction” for “officer of the State and of the local jurisdiction”.
+Subsec. (c)(1)(A). Pub. L. 111–211, §261(a)(3)(A), substituted "officer of each State, tribal, and local jurisdiction" for "officer of the State and of the local jurisdiction".
 
-Subsec. (c)(1)(B). Pub. L. 111–211, §261(a)(3)(B), inserted “, tribal,” after “State” in two places.
+Subsec. (c)(1)(B). Pub. L. 111–211, §261(a)(3)(B), inserted ", tribal," after "State" in two places.
 
 <b>2008</b>—Subsec. (a)(D), (E). Pub. L. 110–199 added pars. (D) and (E).
 
-<b>2006</b>—Subsec. (c)(1). Pub. L. 109–248, §141(g)(1), substituted “paragraph (3), or any other person in a category specified by the Attorney General,” for “paragraph (4)” in introductory provisions.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–248, §141(g)(1), substituted "paragraph (3), or any other person in a category specified by the Attorney General," for "paragraph (4)" in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 109–248, §141(g)(2), substituted “shall register as required by the Sex Offender Registration and Notification Act” for “shall be subject to a registration requirement as a sex offender” in first sentence and “paragraph (3)” for “paragraph (4)” in fourth sentence.
+Subsec. (c)(2). Pub. L. 109–248, §141(g)(2), substituted "shall register as required by the Sex Offender Registration and Notification Act" for "shall be subject to a registration requirement as a sex offender" in first sentence and "paragraph (3)" for "paragraph (4)" in fourth sentence.
 
-Subsec. (c)(3). Pub. L. 109–248, §141(f), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Director of the Bureau of Prisons shall inform a person described in paragraph (4) who is released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts.”
+Subsec. (c)(3). Pub. L. 109–248, §141(f), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Director of the Bureau of Prisons shall inform a person described in paragraph (4) who is released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts."
 
-Subsec. (c)(4). Pub. L. 109–248, §141(h), struck out par. (4) which read as follows: “A person is described in this paragraph if the person was convicted of any of the following offenses (including such an offense prosecuted pursuant to section 1152 or 1153):
+Subsec. (c)(4). Pub. L. 109–248, §141(h), struck out par. (4) which read as follows: "A person is described in this paragraph if the person was convicted of any of the following offenses (including such an offense prosecuted pursuant to section 1152 or 1153):
 
-&emsp;“(A) An offense under section 1201 involving a minor victim.
+&emsp;"(A) An offense under section 1201 involving a minor victim.
 
-&emsp;“(B) An offense under chapter 109A.
+&emsp;"(B) An offense under chapter 109A.
 
-&emsp;“(C) An offense under chapter 110.
+&emsp;"(C) An offense under chapter 110.
 
-&emsp;“(D) An offense under chapter 117.
+&emsp;"(D) An offense under chapter 117.
 
-&emsp;“(E) Any other offense designated by the Attorney General as a sexual offense for purposes of this subsection.”
+&emsp;"(E) Any other offense designated by the Attorney General as a sexual offense for purposes of this subsection."
 
-<b>1997</b>—Subsec. (a)(5). Pub. L. 105–119, §115(a)(8)(A)(i), substituted “subsections (b) and (c)” for “subsection (b)”.
+<b>1997</b>—Subsec. (a)(5). Pub. L. 105–119, §115(a)(8)(A)(i), substituted "subsections (b) and (c)" for "subsection (b)".
 
-Subsec. (b)(4). Pub. L. 105–119, §115(a)(8)(A)(ii), struck out par. (4) which read as follows: “The notice provided under this section shall be used solely for law enforcement purposes.”
+Subsec. (b)(4). Pub. L. 105–119, §115(a)(8)(A)(ii), struck out par. (4) which read as follows: "The notice provided under this section shall be used solely for law enforcement purposes."
 
 Subsecs. (c), (d). Pub. L. 105–119, §115(a)(8)(A)(iv), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-<b>1994</b>—Pub. L. 103–322 designated first par. of existing provisions as subsec. (a) and inserted heading, substituted “provide” for “Provide” and “; and” for period at end of par. (4), added par. (5) and subsec. (b), and designated second sentence of existing provisions as subsec. (c) and inserted heading.
+<b>1994</b>—Pub. L. 103–322 designated first par. of existing provisions as subsec. (a) and inserted heading, substituted "provide" for "Provide" and "; and" for period at end of par. (4), added par. (5) and subsec. (b), and designated second sentence of existing provisions as subsec. (c) and inserted heading.
 
 <b>1968</b>—Pub. L. 90–371 added cl. (4).
 
@@ -142,17 +142,17 @@ For construction of amendments by Pub. L. 110–199 and requirements for grants 
 
 #### Amenities or Personal Comforts
 
-Pub. L. 107–77, title VI, §611, Nov. 28, 2001, 115 Stat. 800, provided that: “Hereafter, none of the funds appropriated or otherwise made available to the Bureau of Prisons shall be used to provide the following amenities or personal comforts in the Federal prison system—
+Pub. L. 107–77, title VI, §611, Nov. 28, 2001, 115 Stat. 800, provided that: "Hereafter, none of the funds appropriated or otherwise made available to the Bureau of Prisons shall be used to provide the following amenities or personal comforts in the Federal prison system—
 
-&emsp;“(1) in-cell television viewing except for prisoners who are segregated from the general prison population for their own safety;
+&emsp;"(1) in-cell television viewing except for prisoners who are segregated from the general prison population for their own safety;
 
-&emsp;“(2) the viewing of R, X, and NC–17 rated movies, through whatever medium presented;
+&emsp;"(2) the viewing of R, X, and NC–17 rated movies, through whatever medium presented;
 
-&emsp;“(3) any instruction (live or through broadcasts) or training equipment for boxing, wrestling, judo, karate, or other martial art, or any bodybuilding or weightlifting equipment of any sort;
+&emsp;"(3) any instruction (live or through broadcasts) or training equipment for boxing, wrestling, judo, karate, or other martial art, or any bodybuilding or weightlifting equipment of any sort;
 
-&emsp;“(4) possession of in-cell coffee pots, hot plates or heating elements; or
+&emsp;"(4) possession of in-cell coffee pots, hot plates or heating elements; or
 
-&emsp;“(5) the use or possession of any electric or electronic musical instrument.”
+&emsp;"(5) the use or possession of any electric or electronic musical instrument."
 
 Similar provisions were contained in the following appropriation acts:
 
@@ -170,7 +170,7 @@ Pub. L. 104–134, title I, §101\[(a)\] \[title VI, §611\], Apr. 26, 1996, 110
 
 #### Sexually Explicit Commercially Published Material
 
-Pub. L. 107–77, title VI, §614, Nov. 28, 2001, 115 Stat. 801, provided that: “Hereafter, none of the funds appropriated or otherwise made available to the Federal Bureau of Prisons may be used to distribute or make available any commercially published information or material to a prisoner when it is made known to the Federal official having authority to obligate or expend such funds that such information or material is sexually explicit or features nudity.”
+Pub. L. 107–77, title VI, §614, Nov. 28, 2001, 115 Stat. 801, provided that: "Hereafter, none of the funds appropriated or otherwise made available to the Federal Bureau of Prisons may be used to distribute or make available any commercially published information or material to a prisoner when it is made known to the Federal official having authority to obligate or expend such funds that such information or material is sexually explicit or features nudity."
 
 Similar provisions were contained in the following appropriation acts:
 
@@ -186,35 +186,35 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title VI, §614\], Sept. 30, 1996
 
 #### Reimbursement for Certain Expenses Outside of Federal Institutions
 
-Pub. L. 106–553, §1(a)(2) \[title I\], Dec. 21, 2000, 114 Stat. 2762, 2762A–55, provided in part: “That hereafter amounts appropriated for Federal Prisoner Detention shall be available to reimburse the Federal Bureau of Prisons for salaries and expenses of transporting, guarding and providing medical care outside of Federal penal and correctional institutions to prisoners awaiting trial or sentencing.”
+Pub. L. 106–553, §1(a)(2) \[title I\], Dec. 21, 2000, 114 Stat. 2762, 2762A–55, provided in part: "That hereafter amounts appropriated for Federal Prisoner Detention shall be available to reimburse the Federal Bureau of Prisons for salaries and expenses of transporting, guarding and providing medical care outside of Federal penal and correctional institutions to prisoners awaiting trial or sentencing."
 
 #### Guidelines for States Regarding Infectious Diseases in Correctional Institutions
 
-Pub. L. 105–370, §2(c), Nov. 12, 1998, 112 Stat. 3375, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 12, 1998\], the Attorney General, in consultation with the Secretary of Health and Human Services, shall provide to the several States proposed guidelines for the prevention, detection, and treatment of incarcerated persons and correctional employees who have, or may be exposed to, infectious diseases in correctional institutions.”
+Pub. L. 105–370, §2(c), Nov. 12, 1998, 112 Stat. 3375, provided that: "Not later than 1 year after the date of the enactment of this Act \[Nov. 12, 1998\], the Attorney General, in consultation with the Secretary of Health and Human Services, shall provide to the several States proposed guidelines for the prevention, detection, and treatment of incarcerated persons and correctional employees who have, or may be exposed to, infectious diseases in correctional institutions."
 
 #### Prisoner Access
 
-Pub. L. 105–314, title VIII, §801, Oct. 30, 1998, 112 Stat. 2990, provided that: “Notwithstanding any other provision of law, no agency, officer, or employee of the United States shall implement, or provide any financial assistance to, any Federal program or Federal activity in which a Federal prisoner is allowed access to any electronic communication service or remote computing service without the supervision of an official of the Federal Government.”
+Pub. L. 105–314, title VIII, §801, Oct. 30, 1998, 112 Stat. 2990, provided that: "Notwithstanding any other provision of law, no agency, officer, or employee of the United States shall implement, or provide any financial assistance to, any Federal program or Federal activity in which a Federal prisoner is allowed access to any electronic communication service or remote computing service without the supervision of an official of the Federal Government."
 
 #### Application to Prisoners to Which Prior Law Applies
 
-Pub. L. 103–322, title II, §20404, Sept. 13, 1994, 108 Stat. 1825, provided that: “In the case of a prisoner convicted of an offense committed prior to November 1, 1987, the reference to supervised release in section 4042(b) of title 18, United States Code, shall be deemed to be a reference to probation or parole.”
+Pub. L. 103–322, title II, §20404, Sept. 13, 1994, 108 Stat. 1825, provided that: "In the case of a prisoner convicted of an offense committed prior to November 1, 1987, the reference to supervised release in section 4042(b) of title 18, United States Code, shall be deemed to be a reference to probation or parole."
 
 #### Cost Savings Measures
 
-Pub. L. 101–647, title XXIX, §2907, Nov. 29, 1990, 104 Stat. 4915, provided that: “The Director of the Federal Bureau of Prisons (referred to as the ‘Director’) shall, to the extent practicable, take such measures as are appropriate to cut costs of construction. Such measures may include reducing expenditures for amenities including, for example, color television or pool tables.”
+Pub. L. 101–647, title XXIX, §2907, Nov. 29, 1990, 104 Stat. 4915, provided that: "The Director of the Federal Bureau of Prisons (referred to as the 'Director') shall, to the extent practicable, take such measures as are appropriate to cut costs of construction. Such measures may include reducing expenditures for amenities including, for example, color television or pool tables."
 
 #### Administration of Confinement Facilities Located on Military Installations by Bureau of Prisons
 
-Pub. L. 100–690, title VII, §7302, Nov. 18, 1988, 102 Stat. 4463, provided that: “In conjunction with the Department of Defense and the Commission on Alternative Utilization of Military Facilities as established in the National Defense Authorization Act of Fiscal Year 1989 \[see section 2819 of Pub. L. 100–456, 104 Stat. 1820, formerly set out as a note under section 2391 of Title 10, Armed Forces\], the Bureau of Prisons shall be responsible for—
+Pub. L. 100–690, title VII, §7302, Nov. 18, 1988, 102 Stat. 4463, provided that: "In conjunction with the Department of Defense and the Commission on Alternative Utilization of Military Facilities as established in the National Defense Authorization Act of Fiscal Year 1989 \[see section 2819 of Pub. L. 100–456, 104 Stat. 1820, formerly set out as a note under section 2391 of Title 10, Armed Forces\], the Bureau of Prisons shall be responsible for—
 
-&emsp;“(1) administering Bureau of Prisons confinement facilities for civilian nonviolent prisoners located on military installations in cooperation with the Secretary of Defense, with an emphasis on placing women inmates in such facilities, or in similar minimum security confinement facilities not located on military installations, so that the percentage of eligible women equals the percentage of eligible men housed in such or similar minimum security confinement facilities (i.e., prison camps);
+&emsp;"(1) administering Bureau of Prisons confinement facilities for civilian nonviolent prisoners located on military installations in cooperation with the Secretary of Defense, with an emphasis on placing women inmates in such facilities, or in similar minimum security confinement facilities not located on military installations, so that the percentage of eligible women equals the percentage of eligible men housed in such or similar minimum security confinement facilities (i.e., prison camps);
 
-&emsp;“(2) establishing and regulating drug treatment programs for inmates held in such facilities in coordination and cooperation with the National Institute on Drug Abuse; and
+&emsp;"(2) establishing and regulating drug treatment programs for inmates held in such facilities in coordination and cooperation with the National Institute on Drug Abuse; and
 
-&emsp;“(3) establishing and managing work programs in accordance with guidelines under the Bureau of Prisons for persons held in such facilities and in cooperation with the installation commander.”
+&emsp;"(3) establishing and managing work programs in accordance with guidelines under the Bureau of Prisons for persons held in such facilities and in cooperation with the installation commander."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(6)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(6)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “(7)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "(7)".</i>
 

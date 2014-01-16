@@ -38,9 +38,9 @@
 
 &emsp;&emsp;(vi) As used in this subparagraph—
 
-&emsp;&emsp;&emsp;(I) the term “large local educational agency” means a local educational agency serving an area with a total population of 20,000 or more; and
+&emsp;&emsp;&emsp;(I) the term "large local educational agency" means a local educational agency serving an area with a total population of 20,000 or more; and
 
-&emsp;&emsp;&emsp;(II) the term “small local educational agency” means a local educational agency serving an area with a total population of less than 20,000.
+&emsp;&emsp;&emsp;(II) the term "small local educational agency" means a local educational agency serving an area with a total population of less than 20,000.
 
 #### (3) Allocations to counties
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;For each fiscal year, the grant that the Commonwealth of Puerto Rico shall be eligible to receive under this section shall be the amount determined by multiplying the number of children counted under subsection (c) of this section for the Commonwealth of Puerto Rico by the product of—
 
-&emsp;&emsp;&emsp;(i) subject to subparagraph (B), the percentage that the average per-pupil expenditure in the Commonwealth of Puerto Rico is of the lowest average per-pupil expenditure of any of the 50 States; and
+&emsp;&emsp;&emsp;(i) subject to subparagraph (B), the percentage that the average per-pupil expenditure in the Commonwealth of Puerto Ricois of the lowest average per-pupil expenditure of any of the 50 States; and
 
 &emsp;&emsp;&emsp;(ii) 32 percent of the average per-pupil expenditure in the United States.
 
@@ -136,7 +136,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 #### (C) Criteria of poverty
 
-&emsp;&emsp;In determining the families that are below the poverty level, the Secretary shall usethe criteria of poverty used by the Bureau of the Census in compiling the most recent decennial census, as the criteria have been updated by increases in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics.
+&emsp;&emsp;In determining the families that are below the poverty level, the Secretary shall use the criteria of poverty used by the Bureau of the Census in compiling the most recent decennial census, as the criteria have been updated by increases in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics.
 
 #### (4) Other children to be counted
 

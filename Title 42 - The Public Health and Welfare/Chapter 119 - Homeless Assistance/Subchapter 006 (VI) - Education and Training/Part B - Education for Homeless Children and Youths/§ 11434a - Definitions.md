@@ -2,9 +2,9 @@
 
 For purposes of this part:
 
-&emsp;(1) The terms “enroll” and “enrollment” include attending classes and participating fully in school activities.
+&emsp;(1) The terms "enroll" and "enrollment" include attending classes and participating fully in school activities.
 
-&emsp;(2) The term “homeless children and youths”—
+&emsp;(2) The term "homeless children and youths"—
 
 &emsp;&emsp;(A) means individuals who lack a fixed, regular, and adequate nighttime residence (within the meaning of section 11302(a)(1) of this title); and
 
@@ -18,13 +18,13 @@ For purposes of this part:
 
 &emsp;&emsp;&emsp;(iv) migratory children (as such term is defined in section 6399 of title 20) who qualify as homeless for the purposes of this part because the children are living in circumstances described in clauses (i) through (iii).
 
-&emsp;(3) The terms “local educational agency” and “State educational agency” have the meanings given such terms in section 7801 of title 20.
+&emsp;(3) The terms "local educational agency" and "State educational agency" have the meanings given such terms in section 7801 of title 20.
 
-&emsp;(4) The term “Secretary” means the Secretary of Education.
+&emsp;(4) The term "Secretary" means the Secretary of Education.
 
-&emsp;(5) The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;(5) The term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-&emsp;(6) The term “unaccompanied youth” includes a youth not in the physical custody of a parent or guardian.
+&emsp;(6) The term "unaccompanied youth" includes a youth not in the physical custody of a parent or guardian.
 
 (Pub. L. 100–77, title VII, §725, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 2005.)
 

@@ -22,7 +22,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A public housing agency shall submit with its annual public housing agency planunder section 1437c–1 of this title an admissions policy designed to provide for deconcentration of poverty and income-mixing by bringing higher income tenants into lower income projects and lower income tenants into higher income projects. This clause may not be construed to impose or require any specific income or racial quotas for any project or projects.
+&emsp;&emsp;&emsp;A public housing agency shall submit with its annual public housing agency plan under section 1437c–1 of this title an admissions policy designed to provide for deconcentration of poverty and income-mixing by bringing higher income tenants into lower income projects and lower income tenants into higher income projects. This clause may not be construed to impose or require any specific income or racial quotas for any project or projects.
 
 #### (ii) Incentives
 
@@ -40,7 +40,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (B) Credit for exceeding tenant-based assistance targeting requirement
 
-&emsp;&emsp;Subject to subparagraph (C), the credit number under this subparagraph for a public housing agency for a fiscal year shall be the number by which—
+&emsp;&emsp;Subject to subparagraph (C), the credit number under this subparagraph for a publichousing agency for a fiscal year shall be the number by which—
 
 &emsp;&emsp;&emsp;(i) the aggregate number of qualified families who, in such fiscal year, are initially provided tenant-based assistance under section 1437f of this title by the agency; exceeds
 
@@ -64,7 +64,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (E) Qualified family
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualified family” means a family having an income described in subsection (b)(1) of this section.
+&emsp;&emsp;For purposes of this paragraph, the term "qualified family" means a family having an income described in subsection (b)(1) of this section.
 
 #### (b) Income eligibility for tenant-based section 1437f assistance
 
@@ -100,9 +100,9 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (6) Definition
 
-&emsp;For purposes of this subsection, the term “project-based assistance” means assistance under any of the following programs:
+&emsp;For purposes of this subsection, the term "project-based assistance" means assistance under any of the following programs:
 
-&emsp;&emsp;(A) The new construction or substantial rehabilitation program under section 1437f(b)(2) of this title (as in effect before October 1, 1983).
+&emsp;&emsp;(A) The new construction or substantial rehabilitation program under section1437f(b)(2) of this title (as in effect before October 1, 1983).
 
 &emsp;&emsp;(B) The property disposition program under section 1437f(b) of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998).
 
@@ -130,7 +130,7 @@ Notwithstanding any other provision of law, a public housing agency shall establ
 
 &emsp;(2) immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under section 1437f of this title for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
 
-(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title I \[title II, §213\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L.104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069.)
+(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title I \[title II, §213\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069.)
 
 #### References in Text
 
@@ -144,11 +144,11 @@ The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec
 
 #### Codification
 
-October 1, 1981, referred to in subsec. (c)(1), (2), was in the original “the effective date of the Housing and Community Development Amendments of 1981” and “such effective date”, meaning the effective date of subtitle A of title III of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 384, which was generally effective Oct. 1, 1981. See Effective Date note below.
+October 1, 1981, referred to in subsec. (c)(1), (2), was in the original "the effective date of the Housing and Community Development Amendments of 1981" and "such effective date", meaning the effective date of subtitle A of title III of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 384, which was generally effective Oct. 1, 1981. See Effective Date note below.
 
 #### Amendments
 
-<b>1999</b>—Subsecs. (a)(2)(A), (c)(3). Pub. L. 106–74, §205(1), inserted before the period at end “; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes”.
+<b>1999</b>—Subsecs. (a)(2)(A), (c)(3). Pub. L. 106–74, §205(1), inserted before the period at end "; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes".
 
 <b>1998</b>—Subsecs. (a) to (d). Pub. L. 105–276, §513(a), as amended by Pub. L. 105–277, §123, added subsecs. (a) to (d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on or after Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
 
@@ -156,31 +156,31 @@ Subsec. (e). Pub. L. 105–276, §576(d)(2), struck out heading and text of subs
 
 Subsec. (f). Pub. L. 105–276, §428, added subsec. (f).
 
-<b>1996</b>—Pub. L. 104–120, §9(d)(1), substituted “Eligibility” for “Income eligibility” in section catchline.
+<b>1996</b>—Pub. L. 104–120, §9(d)(1), substituted "Eligibility" for "Income eligibility" in section catchline.
 
-Subsec. (c). Pub. L. 104–99 temporarily substituted “the written system of preferences for selection established by the public housing agency pursuant to section 1437d(c)(4)(A)” for “the system of preferences established by the agency pursuant to section 1437d(c)(4)(A)(ii)”. See Effective and Termination Dates of 1996 Amendments note below.
+Subsec. (c). Pub. L. 104–99 temporarily substituted "the written system of preferences for selection established by the public housing agency pursuant to section 1437d(c)(4)(A)" for "the system of preferences established by the agency pursuant to section 1437d(c)(4)(A)(ii)". See Effective and Termination Dates of 1996 Amendments note below.
 
-Subsec. (d). Pub. L. 104–330, §501(b)(7)(A), redesignated par. (1) as entire subsec. and struck out par. (2) which read as follows: “The limitations established in subsections (a) and (b) of this section shall not apply to dwelling units assisted by Indian public housing agencies, to scattered site public housing dwelling units sold or intended to be sold to public housing tenants under section 1437c(h) of this title..”
+Subsec. (d). Pub. L. 104–330, §501(b)(7)(A), redesignated par. (1) as entire subsec. and struck out par. (2) which read as follows: "The limitations established in subsections (a) and (b) of this section shall not apply to dwelling units assisted by Indian public housing agencies, to scattered site public housing dwelling units sold or intended to be sold to public housing tenants under section 1437c(h) of this title.."
 
 Subsec. (e). Pub. L. 104–120, §9(d)(2), added subsec. (e).
 
-Subsec. (e)(3). Pub. L. 104–330, §501(b)(7)(B), struck out heading and text of par. (3). Text read as follows: “This subsection does not apply to any dwelling unit assisted by an Indian housing authority.”
+Subsec. (e)(3). Pub. L. 104–330, §501(b)(7)(B), struck out heading and text of par. (3). Text read as follows: "This subsection does not apply to any dwelling unit assisted by an Indian housing authority."
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–550, §105(a), substituted “very low-income families and shall” for “very low-income families, shall” and “. In developing such admission procedures, the Secretary shall” for “, and shall” and inserted “; except that such prohibition shall not apply with respect to families selected for occupancy in public housing under the system of preferences established by the agency pursuant to section 1437d(c)(4)(A)(ii) of this title” after “higher income families for residence”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–550, §105(a), substituted "very low-income families and shall" for "very low-income families, shall" and ". In developing such admission procedures, the Secretary shall" for ", and shall" and inserted "; except that such prohibition shall not apply with respect to families selected for occupancy in public housing under the system of preferences established by the agency pursuant to section 1437d(c)(4)(A)(ii) of this title" after "higher income families for residence".
 
-Subsec. (d)(2). Pub. L. 102–550, §105(b), inserted before period at end “, to scattered site public housing dwelling units sold or intended to be sold to public housing tenants under section 1437c(h) of this title.”
+Subsec. (d)(2). Pub. L. 102–550, §105(b), inserted before period at end ", to scattered site public housing dwelling units sold or intended to be sold to public housing tenants under section 1437c(h) of this title."
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–625, §572(1), substituted "low-income families" for "lower income families".
 
-Subsec. (b). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families” in par. (1).
+Subsec. (b). Pub. L. 101–625, §572(1), substituted "low-income families" for "lower income families" in par. (1).
 
-Pub. L. 101–625, §511, designated existing provisions as par. (1), substituted “15 percent” for “5 per centum”, and added par. (2).
+Pub. L. 101–625, §511, designated existing provisions as par. (1), substituted "15 percent" for "5 per centum", and added par. (2).
 
-Subsecs. (c), (d)(1). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families” wherever appearing.
+Subsecs. (c), (d)(1). Pub. L. 101–625, §572(1), substituted "low-income families" for "lower income families" wherever appearing.
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–242, §112(b)(8), struck out “annual” before “contributions”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–242, §112(b)(8), struck out "annual" before "contributions".
 
-Subsec. (c). Pub. L. 100–628 substituted “shall establish an appropriate specific percentage of lower income families other than very-low income families that may be assisted in each assisted housing program” for “and shall establish, as appropriate, differing percentage limitations on admission of lower income families in separate assisted housing programs” and inserted before period at end of first sentence “, and shall prohibit project owners from selecting families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence”.
+Subsec. (c). Pub. L. 100–628 substituted "shall establish an appropriate specific percentage of lower income families other than very-low income families that may be assisted in each assisted housing program" for "and shall establish, as appropriate, differing percentage limitations on admission of lower income families in separate assisted housing programs" and inserted before period at end of first sentence ", and shall prohibit project owners from selecting families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence".
 
 Pub. L. 100–242, §103, added subsec. (c).
 
@@ -194,7 +194,7 @@ Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546, provided 
 
 Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
 
-Pub. L. 105–276, title V, §513(b), Oct. 21, 1998, 112 Stat. 2547, provided that: “This section \[amending this section\] shall take effect on, and the amendments under this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §513(b), Oct. 21, 1998, 112 Stat. 2547, provided that: "This section \[amending this section\] shall take effect on, and the amendments under this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
 
 #### Effective and Termination Dates of 1996 Amendments
 

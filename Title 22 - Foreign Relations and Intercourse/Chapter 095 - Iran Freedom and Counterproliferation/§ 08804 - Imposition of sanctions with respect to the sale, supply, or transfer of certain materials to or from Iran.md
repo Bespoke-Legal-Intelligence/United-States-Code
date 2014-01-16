@@ -30,7 +30,7 @@
 
 #### (2) Exception
 
-&emsp;The requirement to impose sanctions under paragraph (1) shall not include the authority to impose sanctions relating to the importation of goods under paragraph (8)(A) or (12) of section 6(a) of the Iran Sanctions Act of 1996,and any sanction relating to the importation of goods shall not count for purposes of the requirement to impose sanctions under paragraph (1).
+&emsp;The requirement to impose sanctions under paragraph (1) shall not include the authority to impose sanctions relating to the importation of goods under paragraph (8)(A) or (12) of section 6(a) of the Iran Sanctions Act of 1996, and any sanction relating to the importation of goods shall not count for purposes of the requirement to impose sanctions under paragraph (1).
 
 #### (b) Iranian financial institutions described
 
@@ -84,7 +84,11 @@ The President may not impose sanctions under subsection (a) or (c) with respect 
 
 #### (h) National balance sheet of Iran defined
 
-For purposes of this section, the term “national balance sheet of Iran” refers to the ratio of the assets of the Government of Iran to the liabilities of that Government.
+For purposes of this section, the term "national balance sheet of Iran" refers to the ratio of the assets of the Government of Iran to the liabilities of that Government.
 
 (Pub. L. 112–239, div. A, title XII, §1245, Jan. 2, 2013, 126 Stat. 2009.)
+
+#### Delegation of Functions
+
+For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 

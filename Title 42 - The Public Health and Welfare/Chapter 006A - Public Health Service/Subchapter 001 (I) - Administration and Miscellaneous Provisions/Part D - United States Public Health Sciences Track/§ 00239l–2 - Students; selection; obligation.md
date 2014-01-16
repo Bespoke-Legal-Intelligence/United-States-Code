@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) if pursuing a degree from a school of medicine or osteopathic medicine, dental, public health, or nursing school or a physician assistant, pharmacy, or behavioral and mental health professional program, to complete a residency or internship in a specialty that the Surgeon General determines is appropriate; and
 
-&emsp;&emsp;&emsp;&emsp;(V) to serve for a period of time (referred to in this part as the “period of obligated service”) within the Commissioned Corps of the Public Health Service equal to 2 years for each school year during which such individual was enrolled at the College, reduced as provided for in paragraph (3);
+&emsp;&emsp;&emsp;&emsp;(V) to serve for a period of time (referred to in this part as the "period of obligated service") within the Commissioned Corps of the Public Health Service equal to 2 years for each school year during which such individual was enrolled at the College, reduced as provided for in paragraph (3);
 
 &emsp;&emsp;(B) a provision that any financial obligation of the United States arising out of a contract entered into under this part and any obligation of the student which is conditioned thereon, is contingent upon funds being appropriated to carry out this part;
 
@@ -76,5 +76,5 @@ A medical, dental, physician assistant, pharmacy, behavioral and mental health, 
 
 <i><sup>1</sup></i><i> So in original. Act July 1, 1944, does not contain a section 781.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “each”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "each".</i>
 

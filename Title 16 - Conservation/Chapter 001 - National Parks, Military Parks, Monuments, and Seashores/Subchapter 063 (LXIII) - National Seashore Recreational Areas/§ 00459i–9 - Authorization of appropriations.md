@@ -6,5 +6,5 @@ There are authorized to be appropriated not to exceed $28,500,000 for the acquis
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–625 substituted “$28,500,000” for “$10,500,000”.
+<b>1978</b>—Pub. L. 95–625 substituted "$28,500,000" for "$10,500,000".
 

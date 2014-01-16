@@ -12,15 +12,15 @@
 
 (2) Any person may petition the Administrator for the issuance of a permit for the operation of such a well in such an area. A petition submitted under this paragraph shall be submitted in such manner and contain such information as the Administrator may require by regulation. Upon receipt of such a petition, the Administrator shall publish it in the Federal Register. The Administrator shall give notice of any proceeding on a petition and shall provide opportunity for agency hearing. The Administrator shall act upon such petition on the record of any hearing held pursuant to the preceding sentence respecting such petition. Within 120 days of the publication in the Federal Register of a petition submitted under this paragraph, the Administrator shall either issue the permit for which the petition was submitted or shall deny its issuance.
 
-(3) The Administrator may issue a permit for the operation of a new underground injection well in an area designated under subsection (a) of this section only, if he finds that the operation of such well will not cause contamination of the aquifer of such area so as to create a significant hazard to public health. The Administrator may condition the issuance of such a permit upon the use of such control measures in connection with the operation of such well, for which the permit is to be issued, as he deems necessary to assure that the operation of the well will not contaminate the aquifer of the designated area in which the well is located so as to create a significant hazard to public health.
+(3) The Administrator may issue a permit for the operation of a new underground injectionwell in an area designated under subsection (a) of this section only, if he finds that the operation of such well will not cause contamination of the aquifer of such area so as to create a significant hazard to public health. The Administrator may condition the issuance of such a permit upon the use of such control measures in connection with the operation of such well, for which the permit is to be issued, as he deems necessary to assure that the operation of the well will not contaminate the aquifer of the designated area in which the well is located so as to create a significant hazard to public health.
 
 #### (c) Civil penalties; separate violations; penalties for willful violations; temporary restraining order or injunction
 
 Any person who operates a new underground injection well in violation of subsection (b) of this section, (1) shall be subject to a civil penalty of not more than $5,000 for each day in which such violation occurs, or (2) if such violation is willful, such person may, in lieu of the civil penalty authorized by clause (1), be fined not more than $10,000 for each day in which such violation occurs. If the Administrator has reason to believe that any person is violating or will violate subsection (b) of this section, he may petition the United States district court to issue a temporary restraining order or injunction (including a mandatory injunction) to enforce such subsection.
 
-#### (d) “New underground injection well” defined
+#### (d) "New underground injection well" defined
 
-For purposes of this section, the term “new underground injection well” means an underground injection well whose operation was not approved by appropriate State and Federal agencies before December 16, 1974.
+For purposes of this section, the term "new underground injection well" means an underground injection well whose operation was not approved by appropriate State and Federal agencies before December 16, 1974.
 
 #### (e) Areas with one aquifer; publication in Federal Register; commitments for Federal financial assistance
 

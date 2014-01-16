@@ -102,7 +102,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 #### (2) Reestimates
 
-&emsp;For fiscal year 1994 and fiscal year 1995, the amount of the reestimate of deposit insurancecosts shall be calculated by subtracting the amount set forth under paragraph (1) for that year from the current estimate of deposit insurance costs (but assuming full funding of, and continuation of, the deposit insurance guarantee commitment in effect on the date of submission of the budget for fiscal year 1993).
+&emsp;For fiscal year 1994 and fiscal year 1995, the amount of the reestimate of deposit insurance costs shall be calculated by subtracting the amount set forth under paragraph (1) for that year from the current estimate of deposit insurance costs (but assuming full funding of, and continuation of, the deposit insurance guarantee commitment in effect on the date of submission of the budget for fiscal year 1993).
 
 (Pub. L. 99–177, title II, §253, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §103, Sept. 29, 1987, 101 Stat. 775; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–583.)
 

@@ -10,7 +10,7 @@
 
 <b>2010</b>—Pub. L. 111–148 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>2002</b>—Pub. L. 107–204 substituted “$100,000” for “$5,000”, “10 years” for “one year”, and “$500,000” for “$100,000”.
+<b>2002</b>—Pub. L. 107–204 substituted "$100,000" for "$5,000", "10 years" for "one year", and "$500,000" for "$100,000".
 
 #### Regulations
 

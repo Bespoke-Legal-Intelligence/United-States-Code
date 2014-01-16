@@ -28,11 +28,11 @@ Except as otherwise provided by subsection (b) and sections 6062 and 6063, any r
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–206 designated existing provisions as subsec. (a), inserted subsec. heading, substituted “Except as otherwise provided by subsection (b) and” for “Except as otherwise provided by”, and added subsec. (b).
+<b>1998</b>—Pub. L. 105–206 designated existing provisions as subsec. (a), inserted subsec. heading, substituted "Except as otherwise provided by subsection (b) and" for "Except as otherwise provided by", and added subsec. (b).
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title II, §2003(f), July 22, 1998, 112 Stat. 725, provided that: “The amendments made by this section \[amending this section and section 7502 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title II, §2003(f), July 22, 1998, 112 Stat. 725, provided that: "The amendments made by this section \[amending this section and section 7502 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
 

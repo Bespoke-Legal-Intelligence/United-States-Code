@@ -16,7 +16,7 @@ Limitation on Creation of New Centers.—(1) The head of an agency may not oblig
 
 &emsp;(B) a period of 60 days beginning on the date such report is received by Congress has elapsed.
 
-(2) In this subsection, the term “head of an agency” has the meaning given such term in section 2302(1) of this title.
+(2) In this subsection, the term "head of an agency" has the meaning given such term in section 2302(1) of this title.
 
 (d)
 
@@ -32,11 +32,11 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–314, §1041(a)(12), struck out designations for pars. (1) and (2) and text of par. (1). Prior to amendment par. (1) read as follows: “In the documents provided to Congress by the Secretary of Defense in support of the budget submitted by the President under section 1105 of title 31 for any fiscal year, the Secretary shall set forth the proposed amount of the man-years of effort to be funded by the Department of Defense for each federally funded research and development center for the fiscal year covered by that budget.”
+<b>2002</b>—Subsec. (d). Pub. L. 107–314, §1041(a)(12), struck out designations for pars. (1) and (2) and text of par. (1). Prior to amendment par. (1) read as follows: "In the documents provided to Congress by the Secretary of Defense in support of the budget submitted by the President under section 1105 of title 31 for any fiscal year, the Secretary shall set forth the proposed amount of the man-years of effort to be funded by the Department of Defense for each federally funded research and development center for the fiscal year covered by that budget."
 
-<b>1999</b>—Subsec. (d)(2). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (d)(2). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
-<b>1996</b>—Subsec. (d)(2). Pub. L. 104–106 substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “the Committees on Armed Services and the Committees on Appropriations of the Senate and”.
+<b>1996</b>—Subsec. (d)(2). Pub. L. 104–106 substituted "the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the" for "the Committees on Armed Services and the Committees on Appropriations of the Senate and".
 
 <b>1991</b>—Subsec. (d). Pub. L. 102–190 added subsec. (d).
 
@@ -44,9 +44,9 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 Pub. L. 102–190, div. A, title II, §256(a)(2), Dec. 5, 1991, 105 Stat. 1330, provided that:
 
-“(A) Paragraph (1) of subsection (d) of section 2367 of title 10, United States Code, as added by paragraph (1),shall take effect with respect to the budget submitted for fiscal year 1994.
+"(A) Paragraph (1) of subsection (d) of section 2367 of title 10, United States Code, as added by paragraph (1), shall take effect with respect to the budget submitted for fiscal year 1994.
 
-“(B) Paragraph (2) of such subsection shall take effect with respect to fiscal year 1992.”
+"(B) Paragraph (2) of such subsection shall take effect with respect to fiscal year 1992."
 
 #### GAO Study; Report
 

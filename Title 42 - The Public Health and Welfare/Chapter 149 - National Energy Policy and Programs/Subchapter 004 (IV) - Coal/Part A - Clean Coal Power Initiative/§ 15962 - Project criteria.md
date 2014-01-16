@@ -158,7 +158,7 @@ The Secretary shall provide financial assistance to projects that, as determined
 
 &emsp;&emsp;(A) to achieve overall cost reductions in the use of coal to generate useful forms of energy or chemical feedstocks;
 
-&emsp;&emsp;(B) to improve the competitiveness of coal among various forms of energy in order to maintain a diversity of fuel choices in theUnited States to meet electricity generation requirements; and
+&emsp;&emsp;(B) to improve the competitiveness of coal among various forms of energy in order to maintain a diversity of fuel choices in the United States to meet electricity generation requirements; and
 
 &emsp;&emsp;(C) to demonstrate methods and equipment that are applicable to 25 percent of the electricity generating facilities, using various types of coal, that use coal as the primary feedstock as of August 8, 2005.
 
@@ -216,7 +216,7 @@ This Act, referred to in subsec. (i), is Pub. L. 109–58, Aug. 8, 2005, 119 Sta
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1)(B)(ii)(I). Pub. L. 110–140 added subcl. (I) and struck out former subcl. (I) which read as follows: “to remove at least 99 percent of sulfur dioxide;”.
+<b>2007</b>—Subsec. (b)(1)(B)(ii)(I). Pub. L. 110–140 added subcl. (I) and struck out former subcl. (I) which read asfollows: "to remove at least 99 percent of sulfur dioxide;".
 
 #### Effective Date of 2007 Amendment
 

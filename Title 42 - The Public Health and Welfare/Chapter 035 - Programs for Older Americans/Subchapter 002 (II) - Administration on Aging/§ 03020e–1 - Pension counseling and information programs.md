@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Pension and other retirement benefits
 
-&emsp;The term “pension and other retirement benefits” means private, civil service, and other public pensions and retirement benefits, including benefits provided under—
+&emsp;The term "pension and other retirement benefits" means private, civil service, and other public pensions and retirement benefits, including benefits provided under—
 
 &emsp;&emsp;(A) the Social Security program under title II of the Social Security Act (42 U.S.C. 401 et seq.);
 
@@ -18,7 +18,7 @@ In this section:
 
 #### (2) Pension counseling and information program
 
-&emsp;The term “pension counseling and information program” means a program described in subsection (b) of this section.
+&emsp;The term "pension counseling and information program" means a program described in subsection (b) of this section.
 
 #### (b) Program authorized
 
@@ -140,9 +140,9 @@ A prior section 215 of Pub. L. 89–73 was renumbered section 216 and is classif
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e)(1)(J). Pub. L. 109–365, §209(1), substituted “, low-income retirees, and older individuals with limited English proficiency” for “and low income retirees”.
+<b>2006</b>—Subsec. (e)(1)(J). Pub. L. 109–365, §209(1), substituted ", low-income retirees, and older individuals with limited English proficiency" for "and low income retirees".
 
-Subsec. (f)(2). Pub. L. 109–365, §209(2), added par. (2) and struck out former par. (2) which read as follows: “The ability of the entity to perform effective outreach to affected populations, particularly populations that are identified in need of special outreach.”
+Subsec. (f)(2). Pub. L. 109–365, §209(2), added par. (2) and struck out former par. (2) which read as follows: "The ability of the entity to perform effective outreach to affected populations, particularly populations that are identified in need of special outreach."
 
-Subsec. (h)(2). Pub. L. 109–365, §209(3), inserted “(including individuals with limited English proficiency)” after “for individuals”.
+Subsec. (h)(2). Pub. L. 109–365, §209(3), inserted "(including individuals with limited English proficiency)" after "for individuals".
 

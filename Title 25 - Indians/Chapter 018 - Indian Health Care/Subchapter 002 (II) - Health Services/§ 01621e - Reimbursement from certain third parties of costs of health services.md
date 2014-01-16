@@ -12,7 +12,7 @@ Except as provided in subsection (f), the United States, an Indian tribe, or tri
 
 Subsection (a) shall provide a right of recovery against any State, only if the injury, illness, or disability for which health services were provided is covered under—
 
-&emsp;(1) workers’ compensation laws; or
+&emsp;(1) workers' compensation laws; or
 
 &emsp;(2) a no-fault automobile accident insurance plan or program.
 
@@ -88,21 +88,21 @@ The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 5
 
 #### Codification
 
-Amendment by Pub. L. 111–148 is based on section 125 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Amendment by Pub. L. 111–148 is based on section 125 of title I of S. 1790, One Hundred Eleventh Congress, asreported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to right of recovery of costs of health services by the United States, an Indian tribe, or a tribal organization from certain third parties.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–573, §209(b)(1), substituted “Except as provided in subsection (f) of this section, the” for “The”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–573, §209(b)(1), substituted "Except as provided in subsection (f) of this section, the" for "The".
 
-Pub. L. 102–573, §209(a)(1)–(3), inserted “, an Indian tribe, or a tribal organization” after “United States”, after “Service”, and after “Secretary”.
+Pub. L. 102–573, §209(a)(1)–(3), inserted ", an Indian tribe, or a tribal organization" after "United States", after "Service", and after "Secretary".
 
-Subsec. (b). Pub. L. 102–573, §209(a)(4), struck out “, or any political subdivision of a State,” after “against any State”.
+Subsec. (b). Pub. L. 102–573, §209(a)(4), struck out ", or any political subdivision of a State," after "against any State".
 
-Subsecs. (c), (d). Pub. L. 102–573, §209(a)(1), inserted “, an Indian tribe, or a tribal organization” after “United States”.
+Subsecs. (c), (d). Pub. L. 102–573, §209(a)(1), inserted ", an Indian tribe, or a tribal organization" after "United States".
 
-Subsec. (e). Pub. L. 102–573, §209(a)(1), (3), inserted “, an Indian tribe, or a tribal organization” after “United States” in two places and after “Secretary”.
+Subsec. (e). Pub. L. 102–573, §209(a)(1), (3), inserted ", an Indian tribe, or a tribal organization" after "United States" in two places and after "Secretary".
 
 Subsec. (f). Pub. L. 102–573, §209(b)(2), added subsec. (f).
 

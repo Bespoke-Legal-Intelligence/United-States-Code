@@ -6,7 +6,7 @@ Any electronic, mechanical, or other device used, sent, carried, manufactured, a
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–508 substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+<b>1986</b>—Pub. L. 99–508 substituted "wire, oral, or electronic" for "wire or oral" in section catchline.
 
 #### Effective Date of 1986 Amendment
 

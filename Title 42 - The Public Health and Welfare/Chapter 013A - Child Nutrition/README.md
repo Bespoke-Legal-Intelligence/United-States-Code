@@ -21,7 +21,7 @@
 | [1786\.](%C2%A7%2001786%20-%20Special%20supplemental%20nutrition%20program%20for%20women%2C%20infants%2C%20and%20children.md) | Special supplemental nutrition program for women, infants, and children. |
 | [1787\.](%C2%A7%2001787%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7730%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202305.md) | Repealed. |
 | [1788\.](%C2%A7%2001788%20-%20Team%20nutrition%20network.md) | Team nutrition network. |
-| [1789\.](%C2%A7%2001789%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md) | Department of Defense overseas dependents’ schools. |
+| [1789\.](%C2%A7%2001789%20-%20Department%20of%20Defense%20overseas%20dependents%27%20schools.md) | Department of Defense overseas dependents' schools. |
 | [1790\.](%C2%A7%2001790%20-%20Breastfeeding%20promotion%20program.md) | Breastfeeding promotion program. |
 | [1791\.](%C2%A7%2001791%20-%20Bill%20Emerson%20Good%20Samaritan%20Food%20Donation%20Act.md) | Bill Emerson Good Samaritan Food Donation Act. |
 | [1792\.](%C2%A7%2001792%20-%20Promoting%20Federal%20food%20donation.md) | Promoting Federal food donation. |
@@ -53,7 +53,7 @@
 - [&sect; 01786 - Special supplemental nutrition program for women, infants, and children](%C2%A7%2001786%20-%20Special%20supplemental%20nutrition%20program%20for%20women%2C%20infants%2C%20and%20children.md)
 - [&sect; 01787 - Repealed. Pub. L. 104&#8211;193, title VII, &sect;730, Aug. 22, 1996, 110 Stat. 2305](%C2%A7%2001787%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7730%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202305.md)
 - [&sect; 01788 - Team nutrition network](%C2%A7%2001788%20-%20Team%20nutrition%20network.md)
-- [&sect; 01789 - Department of Defense overseas dependents&#8217; schools](%C2%A7%2001789%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md)
+- [&sect; 01789 - Department of Defense overseas dependents' schools](%C2%A7%2001789%20-%20Department%20of%20Defense%20overseas%20dependents%27%20schools.md)
 - [&sect; 01790 - Breastfeeding promotion program](%C2%A7%2001790%20-%20Breastfeeding%20promotion%20program.md)
 - [&sect; 01791 - Bill Emerson Good Samaritan Food Donation Act](%C2%A7%2001791%20-%20Bill%20Emerson%20Good%20Samaritan%20Food%20Donation%20Act.md)
 - [&sect; 01792 - Promoting Federal food donation](%C2%A7%2001792%20-%20Promoting%20Federal%20food%20donation.md)

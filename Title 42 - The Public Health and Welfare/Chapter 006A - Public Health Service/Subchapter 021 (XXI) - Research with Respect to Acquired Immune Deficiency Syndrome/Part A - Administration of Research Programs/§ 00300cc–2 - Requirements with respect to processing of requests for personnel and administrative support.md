@@ -8,9 +8,9 @@ The Director of the Office of Personnel Management or the Administrator of Gener
 
 The Administrator of the Substance Abuse and Mental Health Services Administration, the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and the Director of the National Institutes of Health, shall, respectively, transmit to the Secretary and the Assistant Secretary for Health a copy of each priority request made under this section by the agency head involved. The copy shall be transmitted on the date on which the priority request involved is made.
 
-#### (c) “Priority request” defined
+#### (c) "Priority request" defined
 
-For purposes of this section, the term “priority request” means any request that—
+For purposes of this section, the term "priority request" means any request that—
 
 &emsp;(1) is designated as a priority request by the Administrator of the Substance Abuse and Mental Health Services Administration, the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, or the Director of the National Institutes of Health; and
 
@@ -18,7 +18,7 @@ For purposes of this section, the term “priority request” means any request 
 
 &emsp;(B) is made to the Administrator of General Services for administrative support or space in carrying out such activities.
 
-(July 1, 1944, ch. 373, title XXIII, §2303, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3064; amended Pub. L. 102–321, title I, §§161, 163(b)(7), July 10, 1992, 106 Stat. 375, 376; Pub. L. 102–531, title III, §312(d)(17), Oct. 27, 1992, 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title XXIII, §2303, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102Stat. 3064; amended Pub. L. 102–321, title I, §§161, 163(b)(7), July 10, 1992, 106 Stat. 375, 376; Pub. L. 102–531, title III, §312(d)(17), Oct. 27, 1992, 106 Stat. 3505.)
 
 #### Prior Provisions
 
@@ -26,17 +26,17 @@ A prior section 300cc–2, act July 1, 1944, §2303, was successively renumbered
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
-Pub. L. 102–321, §161, substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Alcohol, Drug Abuse, and Mental Health Administration”.
+Pub. L. 102–321, §161, substituted "Administrator of the Substance Abuse and Mental Health Services Administration" for "Administrator of the Alcohol, Drug Abuse, and Mental Health Administration".
 
-Subsec. (b). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+Subsec. (b). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
-Pub. L. 102–321, §163(b)(7)(A), substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Alcohol, Drug Abuse, and Mental Health Administration”.
+Pub. L. 102–321, §163(b)(7)(A), substituted "Administrator of the Substance Abuse and Mental Health Services Administration" for "Administrator of the Alcohol, Drug Abuse, and Mental Health Administration".
 
-Subsec. (c)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+Subsec. (c)(1). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
-Pub. L. 102–321, §163(b)(7)(B), substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Alcohol, Drug Abuse, and Mental Health Administration”.
+Pub. L. 102–321, §163(b)(7)(B), substituted "Administrator of the Substance Abuse and Mental Health Services Administration" for "Administrator of the Alcohol, Drug Abuse, and Mental Health Administration".
 
 #### Effective Date of 1992 Amendment
 

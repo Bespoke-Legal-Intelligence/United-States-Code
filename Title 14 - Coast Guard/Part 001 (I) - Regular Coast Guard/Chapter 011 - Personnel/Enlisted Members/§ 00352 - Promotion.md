@@ -12,5 +12,5 @@ Inasmuch as all phases of promotion of enlisted men, except the points covered b
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–557 substituted “Enlisted members” for “Enlisted men”.
+<b>1984</b>—Pub. L. 98–557 substituted "Enlisted members" for "Enlisted men".
 

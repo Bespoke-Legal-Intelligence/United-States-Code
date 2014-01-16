@@ -25,13 +25,13 @@
 | [741\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000741%20-%20Export%20duties%2C%20taxes%2C%20etc.%3B%20bonds%20to%20anticipate%20revenues.md) | Export duties, taxes, etc.; bonds to anticipate revenues. |
 | [741a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000741a%20-%20Internal-revenue%20taxes%3B%20levy%20and%20collection%3B%20discrimination.md) | Internal-revenue taxes; levy and collection; discrimination. |
 | [742\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000742%20-%20Acknowledgment%20of%20deeds.md) | Acknowledgment of deeds. |
-| [743\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000743%20-%20Repealed.%20July%201%2C%201944%2C%20ch.%20373%2C%20title%20XI%2C%20%C2%A71113%2C%2058%20Stat.%20714.md) | Repealed. |
+| [743\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000743%20-%20Repealed.%20July%201%2C%201944%2C%20ch.%20373%2C%20title%20XIII%2C%20%C2%A71313%2C%2058%20Stat.%20714.md) | Repealed. |
 | [744\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000744%20-%20Coasting%20trade%20laws.md) | Coasting trade laws. |
 | [745\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000745%20-%20Tax%20exempt%20bonds.md) | Tax exempt bonds. |
 | [745a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000745a%20-%20Public%20improvement%20bonds%20sold%20to%20United%20States%20or%20agency%20thereof%20excluded%20from%20public%20indebtedness.md) | Public improvement bonds sold to United States or agency thereof excluded from public indebtedness. |
 | [745b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000745b%20-%20Refunding%20bonds%20excluded%20temporarily%20in%20computing%20indebtedness.md) | Refunding bonds excluded temporarily in computing indebtedness. |
 | [746\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000746%20-%20Public%20lands%20and%20buildings%3B%20reservations%3B%20rights%20prior%20to%20July%201%2C%201902.md) | Public lands and buildings; reservations; rights prior to July 1, 1902. |
-| [747\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000747%20-%20Public%20property%20transferred%3B%20%E2%80%9Ccontrol%E2%80%9D%20defined.md) | Public property transferred; “control” defined. |
+| [747\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000747%20-%20Public%20property%20transferred%3B%20control%20defined.md) | Public property transferred; "control" defined. |
 | [748\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000748%20-%20Conveyance%20by%20President%20to%20people%20of%20lands%2C%20buildings%2C%20etc.md) | Conveyance by President to people of lands, buildings, etc. |
 | [749\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000749%20-%20Harbors%20and%20navigable%20waters%20transferred%3B%20definitions.md) | Harbors and navigable waters transferred; definitions. |
 | [750\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000750%20-%20Repealed.%20July%203%2C%201950%2C%20ch.%20446%2C%20%C2%A75%282%29%2C%2064%20Stat.%20320.md) | Repealed. |

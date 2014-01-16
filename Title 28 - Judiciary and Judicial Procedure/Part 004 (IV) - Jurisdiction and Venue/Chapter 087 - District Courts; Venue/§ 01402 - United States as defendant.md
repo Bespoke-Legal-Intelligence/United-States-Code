@@ -4,7 +4,7 @@
 
 (1) Except as provided in paragraph (2), in the judicial district where the plaintiff resides;
 
-(2) In the case of a civil action by a corporation under paragraph (1) of subsection (a) of section 1346, in the judicial district in which is located the principal place of business or principal office or agency of the corporation; or if it has no principal place of business or principal office or agency in any judicial district (A) in the judicial district in which is located the office towhich was made the return of the tax in respect of which the claim is made, or (B) if no return was made, in the judicial district in which lies the District of Columbia. Notwithstanding the foregoing provisions of this paragraph a district court, for the convenience of the parties and witnesses, in the interest of justice, may transfer any such action to any other district or division.
+(2) In the case of a civil action by a corporation under paragraph (1) of subsection (a) of section 1346, in the judicial district in which is located the principal place of business or principal office or agency of the corporation; or if it has no principal place of business or principal office or agency in any judicial district (A) in the judicial district in which is located the office to which was made the return of the tax in respect of which the claim is made, or (B) if no return was made, in the judicial district in which lies the District of Columbia. Notwithstanding the foregoing provisions of this paragraph a district court, for the convenience of the parties and witnesses, in the interest of justice, may transfer any such action to any other district or division.
 
 (b) Any civil action on a tort claim against the United States under subsection (b) of section 1346 of this title may be prosecuted only in the judicial district where the plaintiff resides or wherein the act or omission complained of occurred.
 
@@ -22,13 +22,13 @@ Section consolidates the venue provisions of section 762 of title 28, U.S.C., 19
 
 Provisions of section 762 of title 28, U.S.C., 1940 ed., relating to the verification and contents of a petition filed against the United States were omitted as unnecessary. Section 265 of title 28, U.S.C., 1940 ed., relative to the petition in cases filed in the Court of Claims was also omitted from the revised title. (See, also, Rule 11 of the Federal Rules of Civil Procedure.)
 
-Words “civil action” were substituted for “suit” in view of Rule 2 of the Federal Rules of Civil Procedure.
+Words "civil action" were substituted for "suit" in view of Rule 2 of the Federal Rules of Civil Procedure.
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164 inserted “in a district court” after “civil action” in introductory provisions preceding par. (1). The phrase “civil action” also appeared in par. (2), but no change was made to reflect the probable intent of Congress as indicated on page 79 of House Report No. 97–312.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164 inserted "in a district court" after "civil action" in introductory provisions preceding par. (1). The phrase "civil action" also appeared in par. (2), but no change was made to reflect the probable intent of Congress as indicated on page 79 of House Report No. 97–312.
 
 <b>1972</b>—Subsec. (d). Pub. L. 92–562 added subsec. (d).
 

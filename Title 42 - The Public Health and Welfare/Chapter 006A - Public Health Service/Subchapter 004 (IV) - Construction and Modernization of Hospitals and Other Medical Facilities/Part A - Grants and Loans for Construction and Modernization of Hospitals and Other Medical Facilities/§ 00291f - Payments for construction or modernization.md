@@ -2,11 +2,11 @@
 
 #### (a) Certification of work by Surgeon General; conditions affecting payments
 
-Upon certification to the Surgeon General by the State agency, based upon inspection by it, that work has been performed upon a project, or purchases have been made, in accordance with the approved plans and specifications, and that payment of an installment is due to the applicant, such installment shall be paid to the State, from the applicable allotment of such State, except that (1) if the State is not authorized by law to make payments to the applicant, or if the State so requests, the payment shall be made directly to the applicant, (2) if the Surgeon General, after investigation or otherwise, has reason to believe that any act (or failure to act) has occurred requiring action pursuant to section 291g of this title, payment may, after he has given the State agency notice of opportunity for hearing pursuant to such section, be withheld, in whole or in part, pending corrective action or action based on such hearing, and (3) the total of payments under this subsection with respect to such project may not exceed an amount equal to the Federal share of the cost of construction of such project.
+Upon certification to the Surgeon General by the State agency, based upon inspection by it, that work has been performed upon a project, or purchases have been made, in accordance with the approved plans and specifications, and that payment of an installment is due to the applicant, such installment shall be paid to the State, from the applicable allotment of such State, except that (1) if the State is not authorized by law to make payments to the applicant, or if the State so requests, the payment shall be made directly to the applicant, (2) if the Surgeon General, after investigation or otherwise,has reason to believe that any act (or failure to act) has occurred requiring action pursuant to section 291g of this title, payment may, after he has given the State agency notice of opportunity for hearing pursuant to such section, be withheld, in whole or in part, pending corrective action or action based on such hearing, and (3) the total of payments under this subsection with respect to such project may not exceed an amount equal to the Federal share of the cost of construction of such project.
 
 #### (b) Additional payments in cases of amended applications
 
-In case an amendment to an approved application is approved as provided in section 291e of this title or the estimated cost of a project is revised upward, any additional payment with respect thereto may be made from the applicableallotment of the State for the fiscal year in which such amendment or revision is approved.
+In case an amendment to an approved application is approved as provided in section 291e of this title or the estimated cost of a project is revised upward, any additional payment with respect thereto may be made from the applicable allotment of the State for the fiscal year in which such amendment or revision is approved.
 
 #### (c) Administration expenses; use of portion of allotments to defray; manner of payment
 
@@ -24,9 +24,9 @@ Provisions similar to those comprising subsec. (a) of this section were containe
 
 #### Amendments
 
-<b>1970</b>—Subsec. (c)(1). Pub. L. 91–296, §112(1), substituted “4 per centum” for “2 per centum” and “$100,000 for $50,000”.
+<b>1970</b>—Subsec. (c)(1). Pub. L. 91–296, §112(1), substituted "4 per centum" for "2 per centum" and "$100,000 for $50,000".
 
-Subsec. (c)(2). Pub. L. 91–296, §112(2), substituted “June 30, 1970” for “June 30, 1964”.
+Subsec. (c)(2). Pub. L. 91–296, §112(2), substituted "June 30, 1970" for "June 30, 1964".
 
 #### Effective Date of 1970 Amendment
 
@@ -34,5 +34,5 @@ Pub. L. 91–296, title I, §112, June 30, 1970, 84 Stat. 340, provided that the
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 

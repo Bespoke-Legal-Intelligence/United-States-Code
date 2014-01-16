@@ -10,9 +10,9 @@ The Administrator shall from time to time take such action as may be necessary i
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director” in introductory provisions.
+<b>2012</b>—Pub. L. 112–141 substituted "Administrator" for "Director" in introductory provisions.
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” in introductory provisions.
+<b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" in introductory provisions.
 
 #### Transfer of Functions
 

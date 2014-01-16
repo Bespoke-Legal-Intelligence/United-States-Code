@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-To assist in implementing the purposes of this subchapter <sup>1</sup> and to provide guidance for the management of the heritage area, there is established the Cane River National Heritage Area Commission (hereinafter in this part referred to as the “Commission”).
+To assist in implementing the purposes of this subchapter <sup>1</sup> and to provide guidance for the management of the heritage area, there is established the Cane River National Heritage Area Commission (hereinafter in this part referred to as the "Commission").
 
 #### (b) Membership
 
@@ -38,7 +38,7 @@ The Commission shall consist of 19 members to be appointed no later than 6 month
 
 &emsp;(15) one member with experience and knowledge of historic preservation from recommendations submitted by the President of Northwestern State University of Louisiana;
 
-&emsp;(16) one member with experience in and knowledge of environmental, recreational and conservation matters affecting the heritagearea from recommendations submitted by the Natchitoches Sportsmans <sup>3</sup> Association and other local recreational and environmental organizations; and
+&emsp;(16) one member with experience in and knowledge of environmental, recreational and conservation matters affecting the heritage area from recommendations submitted by the Natchitoches Sportsmans <sup>3</sup> Association and other local recreational and environmental organizations; and
 
 &emsp;(17) the director of the National Park Service, or the Director's designee, ex officio.
 
@@ -98,11 +98,11 @@ The Commission shall submit an annual report to the Secretary identifying its ex
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a), was in the original “titles II and III of this Act” and was translated as reading “titles III and IV of this Act” meaning titles III and IV of Pub. L. 103–449, which are classified generally to this subchapter, to reflect the probable intent of Congress in view of similar references in subsecs. (c) and (d) of this section. Title II of Pub. L. 103–449, known as the Weir Farm National Historic Site Expansion Act of 1994, amended provisions listed in a table of National Historic Sites set out under section 461 of this title.
+This subchapter, referred to in subsec. (a), was in the original "titles II and III of this Act" and was translated as reading "titles III and IV of this Act" meaning titles III and IV of Pub. L. 103–449, which are classified generally to this subchapter, to reflect the probable intent of Congress in view of similar references in subsecs. (c) and (d) of this section. Title II of Pub. L. 103–449, known as the Weir Farm National Historic Site Expansion Act of 1994, amended provisions listed in a table of National Historic Sites set out under section 461 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “Sportsman's”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "Sportsman's".</i>
 

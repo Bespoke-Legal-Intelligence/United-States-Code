@@ -36,5 +36,5 @@ Sept. 10, 1962, Pub. L. 87–655, §§7, 8, 76 Stat. 532.
 
 &nbsp;
 
-Subsection (a) is substituted for the source provision for consistency in the revised title. The text of 36:1047(a) and the word “Thereafter” in 36:1047(b) are omitted as obsolete.
+Subsection (a) is substituted for the source provision for consistency in the revised title. The text of 36:1047(a) and the word "Thereafter" in 36:1047(b) are omitted as obsolete.
 

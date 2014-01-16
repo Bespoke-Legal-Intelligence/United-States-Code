@@ -64,11 +64,11 @@ Nothing in this subpart shall be construed as prohibiting men and boys from part
 
 #### References in Text
 
-The Education Amendments of 1972, referred to in subsec. (a)(2)(B), (C), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (a)(2)(B), (C), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX tothe Code, see Short Title note set out under section 1681 of this title and Tables.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d)(1). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement” and “by the Institute” for “by the Office”.
+<b>2002</b>—Subsec. (d)(1). Pub. L. 107–279 substituted "Institute of Education Sciences" for "Office of Educational Research and Improvement" and "by the Institute" for "by the Office".
 
-Subsec. (d)(2). Pub. L. 107–279, §404(d)(5)(D), substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement”.
+Subsec. (d)(2). Pub. L. 107–279, §404(d)(5)(D), substituted "Institute of Education Sciences" for "Office of Educational Research and Improvement".
 

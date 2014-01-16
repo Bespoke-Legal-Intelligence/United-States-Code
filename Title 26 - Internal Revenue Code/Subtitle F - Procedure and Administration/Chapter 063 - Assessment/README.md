@@ -18,7 +18,7 @@
 
 <b>1997</b>—Pub. L. 105–34, title XII, §1222(c), Aug. 5, 1997, 111 Stat. 1019, added item for subchapter D.
 
-<b>1996</b>—Pub. L. 104–188, title I, §1307(c)(3)(C), Aug. 20, 1996, 110 Stat. 1782, struck out item for subchapter D “Tax treatment of subchapter S items”.
+<b>1996</b>—Pub. L. 104–188, title I, §1307(c)(3)(C), Aug. 20, 1996, 110 Stat. 1782, struck out item for subchapter D "Tax treatment of subchapter S items".
 
 <b>1982</b>—Pub. L. 97–354, §4(b), Oct. 19, 1982, 96 Stat. 1692, added item for subchapter D.
 

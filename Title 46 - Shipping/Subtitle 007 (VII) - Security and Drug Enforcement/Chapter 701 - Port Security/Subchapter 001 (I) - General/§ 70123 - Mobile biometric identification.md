@@ -10,7 +10,7 @@ Requirements.—The Secretary shall ensure the program required in this section 
 
 (c)
 
-Definition.—For the purposes of this section, the term “biometric identification” means use of fingerprint and digital photography images and facial and iris scan technology and any other technology considered applicable by the Department of Homeland Security.
+Definition.—For the purposes of this section, the term "biometric identification" means use of fingerprint and digital photography images and facial and iris scan technology and any other technology considered applicable by the Department of Homeland Security.
 
 (Added Pub. L. 111–281, title VIII, §807(a), Oct. 15, 2010, 124 Stat. 2993.)
 

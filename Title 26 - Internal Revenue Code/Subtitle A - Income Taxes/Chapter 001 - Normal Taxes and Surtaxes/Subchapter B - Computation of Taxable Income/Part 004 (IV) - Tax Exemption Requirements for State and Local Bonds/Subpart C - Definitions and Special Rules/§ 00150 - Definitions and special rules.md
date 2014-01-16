@@ -6,19 +6,19 @@ For purposes of this part—
 
 #### (1) Bond
 
-&emsp;The term “bond” includes any obligation.
+&emsp;The term "bond" includes any obligation.
 
 #### (2) Governmental unit not to include Federal Government
 
-&emsp;The term “governmental unit” does not include the United States or any agency or instrumentality thereof.
+&emsp;The term "governmental unit" does not include the United States or any agency or instrumentality thereof.
 
 #### (3) Net proceeds
 
-&emsp;The term “net proceeds” means, with respect to any issue, the proceeds of such issue reduced by amounts in a reasonably required reserve or replacement fund.
+&emsp;The term "net proceeds" means, with respect to any issue, the proceeds of such issue reduced by amounts in a reasonably required reserve or replacement fund.
 
 #### (4) 501(c)(3) organization
 
-&emsp;The term “501(c)(3) organization” means any organization described in section 501(c)(3) and exempt from tax under section 501(a).
+&emsp;The term "501(c)(3) organization" means any organization described in section 501(c)(3) and exempt from tax under section 501(a).
 
 #### (5) Ownership of property
 
@@ -26,7 +26,7 @@ For purposes of this part—
 
 #### (6) Tax-exempt bond
 
-&emsp;The term “tax-exempt” means, with respect to any bond (or issue), that the interest on such bond (or on the bonds issued as part of such issue) is excluded from gross income.
+&emsp;The term "tax-exempt" means, with respect to any bond (or issue), that the interest on such bond (or on the bonds issued as part of such issue) is excluded from gross income.
 
 #### (b) Change in use of facilities financed with tax-exempt private activity bonds
 
@@ -34,7 +34,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any residence with respect to which financing is provided from the proceeds of a tax-exempt qualified mortgage bond or qualified veterans’ mortgage bond, if there is a continuous period of at least 1 year during which such residence is not the principal residence of at least 1 of the mortgagors who received such financing, then no deduction shall be allowed under this chapter for interest on such financing which accrues on or after the date such period began and before the date such residence is again the principal residence of at least 1 of the mortgagors who received such financing.
+&emsp;&emsp;In the case of any residence with respect to which financing is provided from the proceeds of a tax-exempt qualified mortgage bond or qualified veterans' mortgage bond, if there is a continuous period of at least 1 year during which such residence is not the principal residence of at least 1 of the mortgagors who received such financing, then no deduction shall be allowed under this chapter for interest on such financing which accrues on or after the date such period began and before the date such residence is again the principal residence of at least 1 of the mortgagors who received such financing.
 
 #### (B) Exception
 
@@ -126,7 +126,7 @@ For purposes of this part and section 103—
 
 #### (2) Qualified scholarship funding bond defined
 
-&emsp;The term “qualified scholarship funding bond” means a bond issued by a corporation which—
+&emsp;The term "qualified scholarship funding bond" means a bond issued by a corporation which—
 
 &emsp;&emsp;(A) is a corporation not for profit established and operated exclusively for the purpose of acquiring student loan notes incurred under the Higher Education Act of 1965, and
 
@@ -164,7 +164,7 @@ For purposes of this part and section 103—
 
 #### (D) Senior stock
 
-&emsp;&emsp;For purposes of this paragraph, the term “senior stock” means stock—
+&emsp;&emsp;For purposes of this paragraph, the term "senior stock" means stock—
 
 &emsp;&emsp;&emsp;(i) which participates pro rata and fully in the equity value of the corporation with all other common stock of the corporationbut which has the right to payment of liquidation proceeds prior to payment of liquidation proceeds in respect of other common stock of the corporation;
 
@@ -180,13 +180,13 @@ For purposes of this part and section 103—
 
 #### (E) Independent member
 
-&emsp;&emsp;The term “independent member” means a member of the board of directors of the issuer who (except for services as a member of such board) receives no compensation directly or indirectly—
+&emsp;&emsp;The term "independent member" means a member of the board of directors of the issuer who (except for services as a member of such board) receives no compensation directly or indirectly—
 
 &emsp;&emsp;&emsp;(i) for services performed in connection with such transferee corporation, or
 
 &emsp;&emsp;&emsp;(ii) for services as a member of the board of directors or as an officer of such transferee corporation.
 
-> &emsp;&emsp;For purposes of clause (ii), the term “officer” includes any individual having powers or responsibilities similar to those of officers.
+> &emsp;&emsp;For purposes of clause (ii), the term "officer" includes any individual having powers or responsibilities similar to those of officers.
 
 #### (F) Coordination with certain private foundation taxes
 
@@ -214,7 +214,7 @@ For purposes of this part and section 103—
 
 #### (2) Qualified volunteer fire department
 
-&emsp;For purposes of this subsection, the term “qualified volunteer fire department” means, with respect to a political subdivision of a State, any organization—
+&emsp;For purposes of this subsection, the term "qualified volunteer fire department" means, with respect to a political subdivision of a State, any organization—
 
 &emsp;&emsp;(A) which is organized and operated to provide firefighting or emergency medical services for persons in an area (within the jurisdiction of such political subdivision) which is not provided with any other firefighting services, and
 
@@ -236,35 +236,35 @@ The Higher Education Act of 1965, referred to in subsec. (d)(2)(A), (3)(F)(i), i
 
 <b>1996</b>—Subsec. (d)(3). Pub. L. 104–188 added par. (3).
 
-<b>1988</b>—Subsec. (b)(1)(A). Pub. L. 100–647, §1013(a)(23)(C), inserted “tax-exempt” before “qualified mortgage bond”.
+<b>1988</b>—Subsec. (b)(1)(A). Pub. L. 100–647, §1013(a)(23)(C), inserted "tax-exempt" before "qualified mortgage bond".
 
-Pub. L. 100–647, §1013(a)(30), inserted before period at end “and before the date such residence is again the principal residence of at least 1 of the mortgagors who received such financing”.
+Pub. L. 100–647, §1013(a)(30), inserted before period at end "and before the date such residence is again the principal residence of at least 1 of the mortgagors who received such financing".
 
-Subsec. (b)(2). Pub. L. 100–647, §1013(a)(32), inserted at end “If the provisions of prior law corresponding to section 142(d) apply to a refunded bond, such provisions shall apply (in lieu of section 142(d)) to the refunding bond.”
+Subsec. (b)(2). Pub. L. 100–647, §1013(a)(32), inserted at end "If the provisions of prior law corresponding to section 142(d) apply to a refunded bond, such provisions shall apply (in lieu of section 142(d)) to the refunding bond."
 
-Subsec. (b)(2)(A). Pub. L. 100–647, §1013(a)(31), substituted “described in paragraph” for “described paragraph”.
+Subsec. (b)(2)(A). Pub. L. 100–647, §1013(a)(31), substituted "described in paragraph" for "described paragraph".
 
-Subsec. (b)(4). Pub. L. 100–647, §1013(a)(23)(A), (B), inserted “and small issue bonds” after “bonds” in heading, and “or a qualified small issue bond” before period at end of subpar. (B).
+Subsec. (b)(4). Pub. L. 100–647, §1013(a)(23)(A), (B), inserted "and small issue bonds" after "bonds" in heading, and "or a qualified small issue bond" before period at end of subpar. (B).
 
 Subsec. (b)(6). Pub. L. 100–647, §1013(a)(33), added par. (6).
 
-Subsec. (e)(1)(B). Pub. L. 100–647, §6182(b), inserted “(including land which is functionally related and subordinate thereto)” after “a firehouse”.
+Subsec. (e)(1)(B). Pub. L. 100–647, §6182(b), inserted "(including land which is functionally related and subordinate thereto)" after "a firehouse".
 
-Subsec. (e)(2). Pub. L. 100–647, §6182(a), inserted at end “For purposes of subparagraph (A), other firefighting services provided in an area shall be disregarded in determining whether an organization is a qualified volunteer fire department if such other firefighting services are provided by a qualified volunteer fire department (determined with the application of this sentence) and such organization and the provider of such other services have been continuously providing firefighting services to such area since January 1, 1981.”
+Subsec. (e)(2). Pub. L. 100–647, §6182(a), inserted at end "For purposes of subparagraph (A), other firefighting services provided in an area shall be disregarded in determining whether an organization is a qualified volunteer fire department if such other firefighting services are provided by a qualified volunteer fire department (determined with the application of this sentence) and such organization and the provider of such other services have been continuously providing firefighting services to such area since January 1, 1981."
 
 Subsec. (e)(3). Pub. L. 100–647, §1013(a)(24)(A), added par. (3).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1614(b), Aug. 20, 1996, 110 Stat. 1853, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1614(b), Aug. 20, 1996, 110 Stat. 1853, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\]."
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1013(a)(24)(B), Nov. 10, 1988, 102 Stat. 3543, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to bonds issued after October 21, 1988.”
+Pub. L. 100–647, title I, §1013(a)(24)(B), Nov. 10, 1988, 102 Stat. 3543, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to bonds issued after October 21, 1988."
 
 Amendment by section 1013(a)(23), (30)–(33) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, §6182(c), Nov. 10, 1988, 102 Stat. 3729, provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6182(c), Nov. 10, 1988, 102 Stat. 3729, provided that: "The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date
 

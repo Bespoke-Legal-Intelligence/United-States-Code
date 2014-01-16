@@ -46,7 +46,7 @@ The task force shall be chartered and operate under the provisions of the Federa
 
 #### (c) Termination of task force; report to Secretary and Congressional Committees
 
-The task force shall exist for at least one year after October 8, 1986, or until such time as theSecretary has filed with the Committees the maps described in section 1600c(b)(2) <sup>1</sup> of this title. The task force shall file its report with the Secretary and the Committees within nine months after October 8, 1986.
+The task force shall exist for at least one year after October 8, 1986, or until such time as the Secretary has filed with the Committees the maps described in section 1600c(b)(2) <sup>1</sup> of this title. The task force shall file its report with the Secretary and the Committees within nine months after October 8, 1986.
 
 (Pub. L. 99–450, §4, Oct. 8, 1986, 100 Stat. 1130.)
 

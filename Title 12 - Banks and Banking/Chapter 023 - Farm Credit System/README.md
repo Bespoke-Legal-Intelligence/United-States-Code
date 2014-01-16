@@ -170,7 +170,7 @@
 | [2212\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20E%20-%20Service%20Organizations/%C2%A7%2002212%20-%20Powers%20of%20Farm%20Credit%20Administration.md) | Powers of Farm Credit Administration. |
 | [2213\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20E%20-%20Service%20Organizations/%C2%A7%2002213%20-%20Regulation%20and%20examination.md) | Regulation and examination. |
 | [2214\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20E%20-%20Service%20Organizations/%C2%A7%2002214%20-%20State%20laws.md) | State laws. |
-| [2214a.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20E%20-%20Service%20Organizations/%C2%A7%2002214a%20-%20%E2%80%9CBank%E2%80%9D%20defined.md) | “Bank” defined. |
+| [2214a.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20E%20-%20Service%20Organizations/%C2%A7%2002214a%20-%20Bank%20defined.md) | "Bank" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

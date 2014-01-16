@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “advisory and assistance services” has the same meaning given that term in section 1105(g) of title 31.
+Definition.—In this section, the term "advisory and assistance services" has the samemeaning given that term in section 1105(g) of title 31.
 
 (b)
 
@@ -148,9 +148,9 @@ Pub. L. 109–364, div. A, title VIII, §834(b), (c) (related to (b)), Oct. 17, 
 
 41:253i(h).
 
-In subsection (b)(1), the words “(as defined in section 253k of this title)” are omitted as unnecessary.
+In subsection (b)(1), the words "(as defined in section 253k of this title)" are omitted as unnecessary.
 
-In subsection (c)(2)(C), the words “Committee on Oversight and Government Reform” are substituted for “Committee on Government Reform” on authority of Rule X(1)(m) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsection (c)(2)(C), the words "Committee on Oversight and Government Reform" are substituted for "Committee on Government Reform" on authority of Rule X(1)(m) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 #### Senate Revision Amendment
 

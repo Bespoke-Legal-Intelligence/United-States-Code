@@ -8,11 +8,11 @@
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–357, §611(k)(1), substituted “or peanuts” for “peanuts, or tobacco”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–357, §611(k)(1), substituted "or peanuts" for "peanuts, or tobacco".
 
 Subsec. (c). Pub. L. 108–357, §611(k)(2), which directed amendment of this section by striking out subsec. (c), could not be executed because this section does not contain a subsec. (c).
 
-<b>1941</b>—Subsec. (a). Act Apr. 3, 1941, inserted “peanuts,” after “rice,”.
+<b>1941</b>—Subsec. (a). Act Apr. 3, 1941, inserted "peanuts," after "rice,".
 
 #### Effective Date of 2004 Amendment
 

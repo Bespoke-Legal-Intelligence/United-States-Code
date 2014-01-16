@@ -10,7 +10,7 @@ Replacement of existing buildings.—When the Administrator of General Services 
 
 &emsp;(2)
 
-Sale or exchange of sites.—When the Administrator decides that a site acquired for the construction of a public building is not suitable for that purpose, the Administrator may exchange the site for another site, or may sell it in accordance with subtitle I of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
+Sale or exchange of sites.—When the Administrator decides that a site acquired for the construction of a public building is not suitable for that purpose, the Administrator may exchange the site for another site, or may sell it in accordance with subtitle I of this title and division C (except sections 3302,3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 &emsp;(3)
 
@@ -34,7 +34,7 @@ Committee approval not required.—
 
 &emsp;&emsp;(A)
 
-Threshold amount.—Approval under section 3307 of this title is not required forany alteration and acquisition authorized by this subsection for which the estimated maximum cost does not exceed $1,500,000.
+Threshold amount.—Approval under section 3307 of this title is not required for any alteration and acquisition authorized by this subsection for which the estimated maximum cost does not exceed $1,500,000.
 
 &emsp;&emsp;(B)
 
@@ -82,11 +82,11 @@ Pub. L. 86–249, §7(f) (related to §4(b)), Sept. 9, 1959, as added Pub. L. 10
 
 40:608.
 
-In subsection (a)(1) and (2), the words “and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” are added to provide an accurate literal translation of the words “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title.
+In subsection (a)(1) and (2), the words "and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" are added to provide an accurate literal translation of the words "this Act", meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title.
 
-In subsection (b)(2)(B), the words “Transportation and Infrastructure” are substituted for “Public Works and Transportation” in section 7(f) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 480) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.).
+In subsection (b)(2)(B), the words "Transportation and Infrastructure" are substituted for "Public Works and Transportation" in section 7(f) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 480) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.).
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1), (2). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
+<b>2011</b>—Subsec. (a)(1), (2). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
 

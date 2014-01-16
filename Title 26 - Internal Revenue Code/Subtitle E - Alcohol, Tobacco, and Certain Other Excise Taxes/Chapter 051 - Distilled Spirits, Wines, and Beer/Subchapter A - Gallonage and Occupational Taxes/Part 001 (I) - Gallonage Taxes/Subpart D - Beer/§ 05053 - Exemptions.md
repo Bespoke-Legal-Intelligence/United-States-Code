@@ -24,7 +24,7 @@ Subject to regulation prescribed by the Secretary, any adult may, without paymen
 
 &emsp;(2) 100 gallons per calendar year if there is only 1 adult in such household.
 
-> For purposes of this subsection, the term “adult” means an individual who has attained 18 years of age, or the minimum age (if any) established by law applicable in the locality in which the household is situated at which beer may be sold to individuals, whichever is greater.
+> For purposes of this subsection, the term "adult" means an individual who has attained 18 years of age, or the minimum age (if any) established by law applicable in the locality in which the household is situated at which beer may be sold to individuals, whichever is greater.
 
 #### (f) Removal for use as distilling material
 
@@ -72,19 +72,19 @@ Subsec. (i). Pub. L. 105–34, §1414(b), redesignated subsec. (f) as (i).
 
 <b>1978</b>—Subsecs. (e), (f). Pub. L. 95–458 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-<b>1976</b>—Subsecs. (a) to (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (d). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1971</b>—Subsecs. (d), (e). Pub. L. 91–673 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–44 struck out “to a foreign country” after “export”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44 struck out "to a foreign country" after "export".
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XIV, §1414(d), Aug. 5, 1997, 111 Stat. 1047, provided that: “The amendments made by this section \[amending this section and sections 5056 and 5222 of this title\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1414(d), Aug. 5, 1997, 111 Stat. 1047, provided that: "The amendments made by this section \[amending this section and sections 5056 and 5222 of this title\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
-Pub. L. 105–34, title XIV, §1418(b), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1418(b), Aug. 5, 1997, 111 Stat. 1049, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
-Pub. L. 105–34, title XIV, §1419(b), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1419(b), Aug. 5, 1997, 111 Stat. 1049, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1978 Amendment
 

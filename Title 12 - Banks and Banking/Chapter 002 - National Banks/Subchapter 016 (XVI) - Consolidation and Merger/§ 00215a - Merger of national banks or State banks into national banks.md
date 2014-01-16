@@ -44,7 +44,7 @@ Provisions similar to those comprising this section were contained in section 4 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (e). Pub. L. 112–231, §2(b)(2)(B)(i), substituted “and receiver” for “receiver, and committee of estates of lunatics”.
+<b>2012</b>—Subsec. (e). Pub. L. 112–231, §2(b)(2)(B)(i), substituted "and receiver" for "receiver, and committee of estates of lunatics".
 
-Subsec. (f). Pub. L. 112–231, §2(b)(2)(B)(ii), substituted “or receiver” for “receiver, or committee of estates of lunatics”.
+Subsec. (f). Pub. L. 112–231, §2(b)(2)(B)(ii), substituted "or receiver" for "receiver, or committee of estates of lunatics".
 

@@ -6,13 +6,13 @@ Whoever being connected in any capacity with any corporation organized under thi
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this section”, meaning section 25A of act Dec. 23, 1913, which is classified to this subchapter (§611 et seq.).
+This subchapter, referred to in text, was in the original "this section", meaning section 25A of act Dec. 23, 1913, which is classified to this subchapter (§611 et seq.).
 
-Organized under this subchapter, referred to the second time in text, was in the original “organized hereunder”, meaning under section 25A of act Dec. 23, 1913.
+Organized under this subchapter, referred to the second time in text, was in the original "organized hereunder", meaning under section 25A of act Dec. 23, 1913.
 
 #### Codification
 
 Section is comprised of par. 23 (undesignated) of section 25A of act Dec. 23, 1913, which comprises this subchapter. For complete classification of section 25A of this Act, see Codification note set out under section 611 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

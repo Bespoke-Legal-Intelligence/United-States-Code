@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [4501\.](%C2%A7%2004501%20-%20Findings%20and%20declarations.md) | Findings and declarations. |
-| [4502\.](%C2%A7%2004502%20-%20%E2%80%9CInstitution%20of%20higher%20education%E2%80%9D%20and%20%E2%80%9CAdvisory%20Committee%E2%80%9D%20defined.md) | “Institution of higher education” and “Advisory Committee” defined. |
+| [4502\.](%C2%A7%2004502%20-%20Institution%20of%20higher%20education%20and%20Advisory%20Committee%20defined.md) | "Institution of higher education" and "Advisory Committee" defined. |
 | [4503\.](%C2%A7%2004503%20-%20Establishment%20of%20Advisory%20Committee.md) | Establishment of Advisory Committee. |
 | [4504\.](%C2%A7%2004504%20-%20Authority%20to%20make%20payments%3B%20purposes.md) | Authority to make payments; purposes. |
 | [4505\.](%C2%A7%2004505%20-%20Applications%3B%20payments%20to%20eligible%20institutions.md) | Applications; payments to eligible institutions. |
@@ -20,7 +20,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 04501 - Findings and declarations](%C2%A7%2004501%20-%20Findings%20and%20declarations.md)
-- [&sect; 04502 - &#8220;Institution of higher education&#8221; and &#8220;Advisory Committee&#8221; defined](%C2%A7%2004502%20-%20%E2%80%9CInstitution%20of%20higher%20education%E2%80%9D%20and%20%E2%80%9CAdvisory%20Committee%E2%80%9D%20defined.md)
+- [&sect; 04502 - Institution of higher education and Advisory Committee defined](%C2%A7%2004502%20-%20Institution%20of%20higher%20education%20and%20Advisory%20Committee%20defined.md)
 - [&sect; 04503 - Establishment of Advisory Committee](%C2%A7%2004503%20-%20Establishment%20of%20Advisory%20Committee.md)
 - [&sect; 04504 - Authority to make payments; purposes](%C2%A7%2004504%20-%20Authority%20to%20make%20payments%3B%20purposes.md)
 - [&sect; 04505 - Applications; payments to eligible institutions](%C2%A7%2004505%20-%20Applications%3B%20payments%20to%20eligible%20institutions.md)

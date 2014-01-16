@@ -28,7 +28,7 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 #### Amendments
 
-<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–437 substituted “Science, Space, and Technology” for “Science and Technology”.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–437 substituted "Science, Space, and Technology" for "Science and Technology".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

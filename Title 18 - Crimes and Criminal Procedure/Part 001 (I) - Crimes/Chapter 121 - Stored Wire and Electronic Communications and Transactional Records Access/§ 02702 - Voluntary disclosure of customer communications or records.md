@@ -40,7 +40,7 @@ Exceptions for disclosure of communications.—A provider described in subsectio
 
 &emsp;&emsp;\[(B) Repealed. Pub. L. 108–21, title V, §508(b)(1)(A), Apr. 30, 2003, 117 Stat. 684\]
 
-&emsp;(8) to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency.
+&emsp;(8) to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure withoutdelay of communications relating to the emergency.
 
 (c)
 
@@ -74,51 +74,51 @@ Reporting of Emergency Disclosures.—On an annual basis, the Attorney General s
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (b)(6), (c)(5). Pub. L. 110–401 substituted “section 2258A” for “section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032)”.
+<b>2008</b>—Subsecs. (b)(6), (c)(5). Pub. L. 110–401 substituted "section 2258A" for "section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032)".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–177, §107(c), inserted “or (c)” after “Except as provided in subsection (b)”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–177, §107(c), inserted "or (c)" after "Except as provided in subsection (b)".
 
-Subsec. (b)(8). Pub. L. 109–177, §107(b)(1)(A), struck out “Federal, State, or local” before “governmental entity”.
+Subsec. (b)(8). Pub. L. 109–177, §107(b)(1)(A), struck out "Federal, State, or local" before "governmental entity".
 
-Subsec. (c)(4). Pub. L. 109–177, §107(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “to a governmental entity, if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person justifies disclosure of the information;”.
+Subsec. (c)(4). Pub. L. 109–177, §107(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: "to a governmental entity, if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person justifies disclosure of the information;".
 
 Subsec. (d). Pub. L. 109–177, §107(a), added subsec. (d).
 
-<b>2003</b>—Subsec. (b)(5). Pub. L. 108–21, §508(b)(1)(C), which directed amendment of par. (5) by striking “or” at the end, could not be executed because “or” did not appear at the end. See 2002 Amendment note below.
+<b>2003</b>—Subsec. (b)(5). Pub. L. 108–21, §508(b)(1)(C), which directed amendment of par. (5) by striking "or" at the end, could not be executed because "or" did not appear at the end. See 2002 Amendment note below.
 
 Subsec. (b)(6). Pub. L. 108–21, §508(b)(1)(D), added par. (6). Former par. (6) redesignated (7).
 
-Subsec. (b)(6)(B). Pub. L. 108–21, §508(b)(1)(A), struck out subpar. (B) which read as follows: “if required by section 227 of the Crime Control Act of 1990; or”.
+Subsec. (b)(6)(B). Pub. L. 108–21, §508(b)(1)(A), struck out subpar. (B) which read as follows: "if required by section 227 of the Crime Control Act of 1990; or".
 
 Subsec. (b)(7), (8). Pub. L. 108–21, §508(b)(1)(B), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
 Subsec. (c)(5), (6). Pub. L. 108–21, §508(b)(2), added par. (5) and redesignated former par. (5) as (6).
 
-<b>2002</b>—Subsec. (b)(5). Pub. L. 107–296, §225(d)(1)(A), struck out “or” at end.
+<b>2002</b>—Subsec. (b)(5). Pub. L. 107–296, §225(d)(1)(A), struck out "or" at end.
 
-Subsec. (b)(6)(A). Pub. L. 107–296, §225(d)(1)(B), inserted “or” at end.
+Subsec. (b)(6)(A). Pub. L. 107–296, §225(d)(1)(B), inserted "or" at end.
 
-Subsec. (b)(6)(C). Pub. L. 107–296, §225(d)(1)(C), struck out subpar. (C) which read as follows: “if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of the information without delay.”
+Subsec. (b)(6)(C). Pub. L. 107–296, §225(d)(1)(C), struck out subpar. (C) which read as follows: "if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of the information without delay."
 
 Subsec. (b)(7). Pub. L. 107–296, §225(d)(1)(D), added par. (7).
 
-<b>2001</b>—Pub. L. 107–56, §212(a)(1)(A), substituted “Voluntary disclosure of customer communications or records” for “Disclosure of contents” in section catchline.
+<b>2001</b>—Pub. L. 107–56, §212(a)(1)(A), substituted "Voluntary disclosure of customer communications or records" for "Disclosure of contents" in section catchline.
 
 Subsec. (a)(3). Pub. L. 107–56, §212(a)(1)(B), added par. (3).
 
-Subsec. (b). Pub. L. 107–56, §212(a)(1)(C), substituted “Exceptions for disclosure of communications” for “Exceptions” in heading and “A provider described in subsection (a)” for “A person or entity” in introductory provisions.
+Subsec. (b). Pub. L. 107–56, §212(a)(1)(C), substituted "Exceptions for disclosure of communications" for "Exceptions" in heading and "A provider described in subsection (a)" for "A person or entity" in introductory provisions.
 
 Subsec. (b)(6)(C). Pub. L. 107–56, §212(a)(1)(D), added subpar. (C).
 
 Subsec. (c). Pub. L. 107–56, §212(a)(1)(E), added subsec. (c).
 
-<b>1998</b>—Subsec. (b)(6). Pub. L. 105–314 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “to a law enforcement agency, if such contents—
+<b>1998</b>—Subsec. (b)(6). Pub. L. 105–314 amended par. (6) generally. Prior to amendment, par. (6) read as follows: "to a law enforcement agency, if such contents—
 
-&emsp;“(A) were inadvertently obtained by the service provider; and
+&emsp;"(A) were inadvertently obtained by the service provider; and
 
-&emsp;“(B) appear to pertain to the commission of a crime.”
+&emsp;"(B) appear to pertain to the commission of a crime."
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–690 substituted “2517” for “2516”.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–690 substituted "2517" for "2516".
 
 #### Effective Date of 2002 Amendment
 

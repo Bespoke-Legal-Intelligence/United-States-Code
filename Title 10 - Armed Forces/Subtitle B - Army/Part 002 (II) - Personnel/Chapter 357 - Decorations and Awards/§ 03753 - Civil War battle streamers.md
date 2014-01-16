@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Mar. 9, 1948, ch. 104, 62 Stat. 71.
 
-The words “it is determined” are substituted for the words “upon verification in the War Department that it is entitled to such honors”.
+The words "it is determined" are substituted for the words "upon verification in the War Department that it is entitled to such honors".
 

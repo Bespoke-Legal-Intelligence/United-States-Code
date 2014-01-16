@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-Every person having in his possession or custody, or under his control, any still or distilling apparatus set up, shall register such still or apparatus with the Secretary immediately on its being set up, by subscribing and filing with the Secretary a statement, in writing, setting forth the particular place where such still or distilling apparatus is set up, the kind of still and its capacity, the owner thereof, his place of residence, and the purpose for which said still or distilling apparatus has been or is intended to be used (except that stills or distilling apparatus not used or intended to be used for the distillation, redistillation, or recovery of distilled spirits are not required to be registered under this section).
+Every person having in his possession or custody, or under his control, any still or distilling apparatus set up, shall register such still or apparatus with the Secretary immediately on itsbeing set up, by subscribing and filing with the Secretary a statement, in writing, setting forth the particular place where such still or distilling apparatus is set up, the kind of still and its capacity, the owner thereof, his place of residence, and the purpose for which said still or distilling apparatus has been or is intended to be used (except that stills or distilling apparatus not used or intended to be used for the distillation, redistillation, or recovery of distilled spirits are not required to be registered under this section).
 
 #### (b) Cross references
 
@@ -14,17 +14,17 @@ Every person having in his possession or custody, or under his control, any stil
 
 #### Prior Provisions
 
-A prior section 5179, act Aug. 16, 1954, ch. 736, 68A Stat. 631, related to “survey of distillery”, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5179, act Aug. 16, 1954, ch. 736, 68A Stat. 631, related to "survey of distillery", prior to the general revision of this chapter by Pub. L. 85–859.
 
 Provisions similar to those comprising this section were contained in prior sections 5174 and 5275(2), act Aug. 16, 1954, ch. 736, 68A Stat. 630, 651, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b)(2). Pub. L. 98–369 substituted “notification to set up a still, boiler, or other vessel for distilling, see section 5101(a)(2)” for “permit to set up a still, boiler or other vessel for distilling, see section 5105”.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–369 substituted "notification to set up a still, boiler, or other vessel for distilling, see section 5101(a)(2)" for "permit to set up a still, boiler or other vessel for distilling, see section 5105".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (b)(1). Pub. L. 94–455, §1905(b)(6)(C), struck out “, 5601(b)(1),” after “5601(a)(1)”.
+Subsec. (b)(1). Pub. L. 94–455, §1905(b)(6)(C), struck out ", 5601(b)(1)," after "5601(a)(1)".
 
 #### Effective Date of 1984 Amendment
 

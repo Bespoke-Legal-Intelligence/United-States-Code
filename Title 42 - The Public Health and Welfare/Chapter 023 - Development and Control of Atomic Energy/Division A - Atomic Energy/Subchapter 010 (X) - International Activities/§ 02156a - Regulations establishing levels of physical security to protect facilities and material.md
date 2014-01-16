@@ -14,7 +14,7 @@ Section was enacted as part of the Nuclear Non-Proliferation Act of 1978, and no
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277 substituted “and the Secretary of Defense,” for “the Secretary of Defense, and the Director,”.
+<b>1998</b>—Pub. L. 105–277 substituted "and the Secretary of Defense," for "the Secretary of Defense, and the Director,".
 
 #### Effective Date of 1998 Amendment
 

@@ -62,7 +62,7 @@ Conditions.—The authority provided in this section with respect to the Associa
 
 (h)
 
-Association Defined.—In this section, the term “Association” means the Naval Academy Athletic Association.
+Association Defined.—In this section, the term "Association" means the Naval Academy Athletic Association.
 
 (Added Pub. L. 112–239, div. A, title V, §542(a), Jan. 2, 2013, 126 Stat. 1735.)
 

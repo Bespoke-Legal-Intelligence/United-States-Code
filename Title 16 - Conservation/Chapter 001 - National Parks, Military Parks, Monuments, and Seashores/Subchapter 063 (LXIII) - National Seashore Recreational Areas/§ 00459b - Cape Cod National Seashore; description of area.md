@@ -1,12 +1,12 @@
 ### §459b. Cape Cod National Seashore; description of area
 
-(a) The area comprising that portion of the land and waters located in the towns of Provincetown, Truro, Wellfleet, Eastham, Orleans, and Chatham in the Commonwealth of Massachusetts, and described in subsection (b) of this section, is designated for establishment as Cape Cod National Seashore (hereinafter referred to as “the seashore”).
+(a) The area comprising that portion of the land and waters located in the towns of Provincetown, Truro, Wellfleet, Eastham, Orleans, and Chatham in the Commonwealth of Massachusetts, and described in subsection (b) of this section, is designated for establishment as Cape Cod National Seashore (hereinafter referred to as "the seashore").
 
 (b) The area referred to in subsection (a) of this section is described as follows:
 
 &emsp;Beginning at a point in the Atlantic Ocean one-quarter of a mile due west of the mean low-water line of the Atlantic Ocean on Cape Cod at the westernmost extremity of Race Point, Provincetown, Massachusetts;
 
-&emsp;thence from the point of beginning along a line a quarter of a mile offshore of and parallel to the mean low-water line of the Atlantic Ocean, Cape Cod Bay, and Provincetown Harbor in generally southerly, easterly, and northerly directions rounding Long Point and then southwesterly to a point a quarter of a mile offshore of the mean low-water line on the harbor side of the dike depicted on the United States Geological Survey Provincetown quadrangle sheet (1949) crossing an arm of the Provincetown Harbor;
+&emsp;thence from the point of beginning along a line a quarter of a mile offshore of and parallel to the mean low-water line of the Atlantic Ocean, Cape Cod Bay, and Provincetown Harbor in generally southerly, easterly, and northerly directions rounding Long Point andthen southwesterly to a point a quarter of a mile offshore of the mean low-water line on the harbor side of the dike depicted on the United States Geological Survey Provincetown quadrangle sheet (1949) crossing an arm of the Provincetown Harbor;
 
 &emsp;thence northerly, along a line a quarter of a mile offshore of and parallel to the low-water line at the dike to a point easterly of the point of intersection of the said dike with the boundary of the Province Lands Reservation as depicted on the said Provincetown quadrangle sheet;
 
@@ -116,5 +116,5 @@
 
 #### Separability
 
-Pub. L. 87–126, §10, Aug. 7, 1961, 75 Stat. 293, provided that: “If any provision of this Act \[sections 459b to 459b–8 of this title\] or the application of such provision to any person or circumstance is held invalid, the remainder of this Act \[such sections\] or the application of such provision to persons or circumstances other than those to which it is held invalid shall not be affected thereby.”
+Pub. L. 87–126, §10, Aug. 7, 1961, 75 Stat. 293, provided that: "If any provision of this Act \[sections 459b to 459b–8 of this title\] or the application of such provision to any person or circumstance is held invalid, the remainder of this Act \[such sections\] or the application of such provision to persons or circumstances other than those to which it is held invalid shall not be affected thereby."
 

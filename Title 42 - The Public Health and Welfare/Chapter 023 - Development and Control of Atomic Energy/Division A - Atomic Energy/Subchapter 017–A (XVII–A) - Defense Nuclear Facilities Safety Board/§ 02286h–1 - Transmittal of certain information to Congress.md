@@ -10,5 +10,5 @@ A prior section 320 of act Aug. 1, 1946, was renumbered section 321 and is class
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239 substituted “submitted to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate” for “submitted to the Congress” and “such committees.” for “the Congress.”
+<b>2013</b>—Pub. L. 112–239 substituted "submitted to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate" for "submitted to the Congress" and "such committees." for "the Congress."
 

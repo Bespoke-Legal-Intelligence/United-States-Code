@@ -14,35 +14,35 @@ The Director shall establish for each year the amount to be awarded for scholars
 
 <b>2011</b>—Pub. L. 111–358 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1990</b>—Pub. L. 101–589 substituted “, nationals or lawfully admitted permanent resident aliens” for “or nationals” in second sentence.
+<b>1990</b>—Pub. L. 101–589 substituted ", nationals or lawfully admitted permanent resident aliens" for "or nationals" in second sentence.
 
-<b>1986</b>—Pub. L. 99–383 struck out “, within the limits of funds made available specifically for such purpose pursuant to section 1875 of this title,” after “The Foundation is authorized to award”.
+<b>1986</b>—Pub. L. 99–383 struck out ", within the limits of funds made available specifically for such purpose pursuant to section 1875 of this title," after "The Foundation is authorized to award".
 
-<b>1985</b>—Pub. L. 99–159 substituted “study and research in the sciences or in engineering” for “scientific study or scientific work in the mathematical, physical, medical, biological, engineering, social, and other sciences”.
+<b>1985</b>—Pub. L. 99–159 substituted "study and research in the sciences or in engineering" for "scientific study or scientific work in the mathematical, physical, medical, biological, engineering, social, and other sciences".
 
-<b>1968</b>—Pub. L. 90–407 inserted social sciences to the enumerated list of sciences, and substituted “throughout the United States” for “among the States, Territories, possessions, and the District of Columbia”.
+<b>1968</b>—Pub. L. 90–407 inserted social sciences to the enumerated list of sciences, and substituted "throughout the United States" for "among the States, Territories, possessions, and the District of Columbia".
 
 <b>1962</b>—Pub. L. 87–835 authorized the Foundation to refuse or revoke a scholarship or fellowship award if they believe such award is not in the best interests of the United States.
 
 <b>1960</b>—Pub. L. 86–550 authorized the selection of nationals for scholarships and fellowships.
 
-<b>1959</b>—Pub. L. 86–232 substituted “appropriate” for “accredited” and struck out “of higher education” after “foreign institutions”.
+<b>1959</b>—Pub. L. 86–232 substituted "appropriate" for "accredited" and struck out "of higher education" after "foreign institutions".
 
 #### Graduate Student Support
 
 Pub. L. 111–358, title V, §510(a), (b), Jan. 4, 2011, 124 Stat. 4010, provided that:
 
-“(a)
+"(a)
 
 Finding.—The Congress finds that—
 
-&emsp;“(1) the Integrative Graduate Education and Research Traineeship program is an important program for training the next generation of scientists and engineers in team-based interdisciplinary research and problem solving, and for providing them with the many additional skills, such as communication skills, needed to thrive in diverse STEM careers; and
+&emsp;"(1) the Integrative Graduate Education and Research Traineeship program is an important program for training the next generation of scientists and engineers in team-based interdisciplinary research and problem solving, and for providing them with the many additional skills, such as communication skills, needed to thrive in diverse STEM careers; and
 
-&emsp;“(2) the Integrative Graduate Education and Research Traineeship program is no less valuable to the preparation and support of graduate students than the Foundation's Graduate Research Fellowship program.
+&emsp;"(2) the Integrative Graduate Education and Research Traineeship program is no less valuable to the preparation and support of graduate students than the Foundation's Graduate Research Fellowship program.
 
-“(b)
+"(b)
 
-Equal Treatment of IGERT and GRF.—Beginning in fiscal year 2011, the Director shall increase or, if necessary, decrease funding for the Foundation's Integrative Graduate Education and Research Traineeship program (or any program by which it is replaced) at least at the same rate as it increases or decreases funding for the Graduate Research Fellowship program.”
+Equal Treatment of IGERT and GRF.—Beginning in fiscal year 2011, the Director shall increase or, if necessary, decrease funding for the Foundation's Integrative Graduate Education and Research Traineeship program (or any program by which it is replaced) at least at the same rate as it increases or decreases funding for the Graduate Research Fellowship program."
 
 \[For definitions of terms used in section 510(a), (b) of Pub. L. 111–358, set out above, see section 2 of Pub. L. 111–358, set out as a note under section 6621 of this title, and section 502 of Pub. L. 111–358, set out as a note under section 1862p of this title.\]
 

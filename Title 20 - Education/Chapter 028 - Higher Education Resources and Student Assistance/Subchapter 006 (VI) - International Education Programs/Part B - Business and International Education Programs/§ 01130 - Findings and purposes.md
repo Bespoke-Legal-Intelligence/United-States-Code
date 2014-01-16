@@ -28,7 +28,7 @@ It is the purpose of this part—
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, inserting subsec. headings and reenacting text without substantial change.
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–498 inserted “and educational” after “skills in the business”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–498 inserted "and educational" after "skills in the business".
 
 #### Effective Date of 1998 Amendment
 

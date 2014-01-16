@@ -10,15 +10,15 @@ This section enacts as law existing practice with respect to division, at the sa
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29, §20(j), struck out “of this title” after “120”.
+<b>2011</b>—Pub. L. 112–29, §20(j), struck out "of this title" after "120".
 
-Pub. L. 112–29, §4(a)(2), struck out “If a divisional application is directed solely to subject matter described and claimed in the original application as filed, the Director may dispense with signing and execution by the inventor.” before “The validity of a patent”.
+Pub. L. 112–29, §4(a)(2), struck out "If a divisional application is directed solely to subject matter described and claimed in the original application as filed, the Director may dispense with signing and execution by the inventor." before "The validity of a patent".
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" wherever appearing.
 
-<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 2011 Amendment
 

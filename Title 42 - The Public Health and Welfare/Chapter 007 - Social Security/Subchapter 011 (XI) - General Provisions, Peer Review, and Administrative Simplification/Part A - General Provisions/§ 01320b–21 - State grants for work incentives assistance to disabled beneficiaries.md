@@ -54,11 +54,11 @@ In this section:
 
 #### (1) Commissioner
 
-&emsp;The term “Commissioner” means the Commissioner of Social Security.
+&emsp;The term "Commissioner" means the Commissioner of Social Security.
 
 #### (2) Disabled beneficiary
 
-&emsp;The term “disabled beneficiary” means an individual—
+&emsp;The term "disabled beneficiary" means an individual—
 
 &emsp;&emsp;(A) who is a disabled beneficiary as defined in section 1320b–19(k)(2) of this title;
 
@@ -70,7 +70,7 @@ In this section:
 
 #### (3) Protection and advocacy system
 
-&emsp;The term “protection and advocacy system” means a protection and advocacy system established pursuant to part C of title I of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.).<sup>1</sup>
+&emsp;The term "protection and advocacy system" means a protection and advocacy system established pursuant to part C of title I of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.).<sup>1</sup>
 
 #### (h) Authorization of appropriations
 
@@ -88,19 +88,19 @@ Section 212 of Public Law 93–66, referred to in subsec. (g)(2)(B), is set out 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (h). Pub. L. 111–280 substituted “2011” for “2010”.
+<b>2010</b>—Subsec. (h). Pub. L. 111–280 substituted "2011" for "2010".
 
-<b>2009</b>—Subsec. (h). Pub. L. 111–63 substituted “2010” for “2009”.
+<b>2009</b>—Subsec. (h). Pub. L. 111–63 substituted "2010" for "2009".
 
-<b>2004</b>—Subsec. (b)(2). Pub. L. 108–203, §404(b)(2), substituted “secure, maintain, or regain” for “secure or regain”.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–203, §404(b)(2), substituted "secure, maintain, or regain" for "secure or regain".
 
-Subsec. (g)(2). Pub. L. 108–203, §404(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘disabled beneficiary’ has the meaning given that term in section 1320b–19(k)(2) of this title.”
+Subsec. (g)(2). Pub. L. 108–203, §404(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'disabled beneficiary' has the meaning given that term in section 1320b–19(k)(2) of this title."
 
-Subsec. (h). Pub. L. 108–203, §407(b), substituted “2009” for “2004”.
+Subsec. (h). Pub. L. 108–203, §407(b), substituted "2009" for "2004".
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–203, title IV, §404(b)(3), Mar. 2, 2004, 118 Stat. 526, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to payments provided after the date of the enactment of this Act \[Mar. 2, 2004\].”
+Pub. L. 108–203, title IV, §404(b)(3), Mar. 2, 2004, 118 Stat. 526, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to payments provided after the date of the enactment of this Act \[Mar. 2, 2004\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

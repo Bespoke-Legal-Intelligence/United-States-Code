@@ -2,7 +2,7 @@
 
 (a)
 
-Deployment and Purchase of Equipment.—(1) A deployment or purchase of explosive detection equipment under section 108.7(b)(8) or 108.20 of title 14, Code of Federal Regulations, or similar regulation is required only if the Under Secretary of Transportation for Security certifies that the equipment alone, or as part of an integrated system, can detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to causecatastrophic damage to commercial aircraft. The Under Secretary shall base the certification on the results of tests conducted under protocols developed in consultation with expert scientists outside of the Transportation Security Administration. Those tests shall be completed not later than April 16, 1992.
+Deployment and Purchase of Equipment.—(1) A deployment or purchase of explosive detection equipment under section 108.7(b)(8) or 108.20 of title 14, Code of Federal Regulations, or similar regulation is required only if the Under Secretary of Transportation for Security certifies that the equipment alone, or as part of an integrated system, can detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to cause catastrophic damage to commercial aircraft. The Under Secretary shall base the certification on the results of tests conducted under protocols developed in consultation with expert scientists outside of the Transportation Security Administration. Those tests shall be completed not later than April 16, 1992.
 
 (2) Before completion of the tests described in paragraph (1) of this subsection, but not later than April 16, 1992, the Under Secretary may require deployment of explosive detection equipment described in paragraph (1) if the Under Secretary decides that deployment will enhance aviation security significantly. In making that decision, the Under Secretary shall consider factors such as the ability of the equipment alone, or as part of an integrated system, to detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to cause catastrophic damage to commercial aircraft. The Under Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of a deployment decision made under this paragraph.
 
@@ -46,21 +46,21 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §320; added Nov. 16, 1990, Pub. 
 
 Sept. 3, 1982, Pub. L. 97–248, §529, 96 Stat. 699; Dec. 30, 1987, Pub. L. 100–223, §114, 101 Stat. 1505.
 
-In subsection (a), the words “after November 16, 1990” are omitted as executed. The words “The Administrator shall base the certification on” are substituted for “based on” because of the restatement.
+In subsection (a), the words "after November 16, 1990" are omitted as executed. The words "The Administrator shall base the certification on" are substituted for "based on" because of the restatement.
 
-In subsection (b), the words “but not be limited to” are omitted as unnecessary.
+In subsection (b), the words "but not be limited to" are omitted as unnecessary.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–71, §101(f)(9), substituted “of Transportation for Security” for “of the Federal Aviation Administration”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–71, §101(f)(9), substituted "of Transportation for Security" for "of the Federal Aviation Administration".
 
-Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
+Pub. L. 107–71, §101(f)(7), substituted "Under Secretary" for "Administrator" in two places.
 
-Pub. L. 107–71, §101(f)(2), substituted “of the Transportation Security Administration” for “of the Administration” in second sentence.
+Pub. L. 107–71, §101(f)(2), substituted "of the Transportation Security Administration" for "of the Administration" in second sentence.
 
-Subsec. (a)(2) to (4). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” wherever appearing.
+Subsec. (a)(2) to (4). Pub. L. 107–71, §101(f)(7), substituted "Under Secretary" for "Administrator" wherever appearing.
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–287 substituted "Transportation and Infrastructure" for "Public Works and Transportation".
 
 Subsec. (a)(3), (4). Pub. L. 104–264 added par. (3) and redesignated former par. (3) as (4).
 
@@ -76,59 +76,59 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 Pub. L. 108–458, title IV, §4024, Dec. 17, 2004, 118 Stat. 3724, provided that:
 
-“(a)
+"(a)
 
 Plan and Guidelines.—The Assistant Secretary of Homeland Security (Transportation Security Administration) shall develop a plan and guidelines for implementing improved explosive detection system equipment.
 
-“(b)
+"(b)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration $100,000,000, in addition to any amounts otherwise authorized by law, for the purpose of research and development of improved explosive detection systems for aviation security under section 44913 of title 49, United States Code.”
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration $100,000,000, in addition to any amounts otherwise authorized by law, for the purpose of research and development of improved explosive detection systems for aviation security under section 44913 of title 49, United States Code."
 
 #### Weapons and Explosive Detection Study
 
 Pub. L. 104–264, title III, §303, Oct. 9, 1996, 110 Stat. 3250, provided that:
 
-“(a)
+"(a)
 
-In General.—The Administrator of the Federal Aviation Administration shall enter into an arrangement with the Director of the National Academy ofSciences (or if the National Academy of Sciences is not available, the head of another equivalent entity) to conduct a study in accordance to this section.
+In General.—The Administrator of the Federal Aviation Administration shall enter into an arrangement with the Director of the National Academy of Sciences (or if the National Academy of Sciences is not available, the head of another equivalent entity) to conduct a study in accordance to this section.
 
-“(b)
+"(b)
 
 Panel of Experts.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—In carrying out a study under this section, the Director of the National Academy of Sciences (or the head of another equivalent entity) shall establish a panel (hereinafter in this section referred to as the ‘panel’).
+In general.—In carrying out a study under this section, the Director of the National Academy of Sciences (or the head of another equivalent entity) shall establish a panel (hereinafter in this section referred to as the 'panel').
 
-&emsp;“(2)
+&emsp;"(2)
 
 Expertise.—Each member of the panel shall have expertise in weapons and explosive detection technology, security, air carrier and airport operations, or another appropriate area. The Director of the National Academy of Sciences (or the head of another equivalent entity) shall ensure that the panel has an appropriate number of representatives of the areas specified in the preceding sentence.
 
-“(c)
+"(c)
 
 Study.—The panel, in consultation with the National Science and Technology Council, representatives of appropriate Federal agencies, and appropriate members of the private sector, shall—
 
-&emsp;“(1) assess the weapons and explosive detection technologies that are available at the time of the study that are capable of being effectively deployed in commercial aviation;
+&emsp;"(1) assess the weapons and explosive detection technologies that are available at the time of the study that are capable of being effectively deployed in commercial aviation;
 
-&emsp;“(2) determine how the technologies referred to in paragraph (1) may more effectively be used for promotion and improvement of security at airport and aviation facilities and other secured areas;
+&emsp;"(2) determine how the technologies referred to in paragraph (1) may more effectively be used for promotion and improvement of security at airport and aviation facilities and other secured areas;
 
-&emsp;“(3) assess the cost and advisability of requiring hardened cargo containers as a way to enhance aviation security and reduce the required sensitivity of bomb detection equipment; and
+&emsp;"(3) assess the cost and advisability of requiring hardened cargo containers as a way to enhance aviation security and reduce the required sensitivity of bomb detection equipment; and
 
-&emsp;“(4) on the basis of the assessments and determinations made under paragraphs (1), (2), and (3), identify the most promising technologies for the improvement of the efficiency and cost-effectiveness of weapons and explosive detection.
+&emsp;"(4) on the basis of the assessments and determinations made under paragraphs (1), (2), and (3), identify the most promising technologies for the improvement of the efficiency and cost-effectiveness of weapons and explosive detection.
 
-“(d)
+"(d)
 
 Cooperation.—The National Science and Technology Council shall take such actions as may be necessary to facilitate, to the maximum extent practicable and upon request of the Director of the National Academy of Sciences (or the head of another equivalent entity), the cooperation of representatives of appropriate Federal agencies, as provided for in subsection (c), in providing the panel, for the study under this section—
 
-&emsp;“(1) expertise; and
+&emsp;"(1) expertise; and
 
-&emsp;“(2) to the extent allowable by law, resources and facilities.
+&emsp;"(2) to the extent allowable by law, resources and facilities.
 
-“(e)
+"(e)
 
 Reports.—The Director of the National Academy of Sciences (or the head of another equivalent entity) shall, pursuant to an arrangement entered into under subsection (a), submit to the Administrator such reports as the Administrator considers to be appropriate. Upon receipt of a report under this subsection, the Administrator shall submit a copy of the report to the appropriate committees of Congress.
 
-“(f)
+"(f)
 
-Authorization of Appropriations.—There are authorized to be appropriated for each of fiscal years 1997 through 2001 such sums as may be necessary to carry out this section.”
+Authorization of Appropriations.—There are authorized to be appropriated for each of fiscal years 1997 through 2001 such sums as may be necessary to carry out this section."
 

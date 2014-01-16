@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the school year beginning July 2008 and each subsequent school year, the Secretary shall provide grants to States to carry out a program to make free fresh fruits and vegetables available in elementary schools (referred to in this section as the “program”).
+For the school year beginning July 2008 and each subsequent school year, the Secretary shall provide grants to States to carry out a program to make free fresh fruits and vegetables available in elementary schools (referred to in this section as the "program").
 
 #### (b) Program
 
@@ -142,7 +142,7 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 #### (A) Among States
 
-&emsp;&emsp;The Secretary may reallocate any amounts made available to carry out thissection that are not obligated or expended by a date determined by the Secretary.
+&emsp;&emsp;The Secretary may reallocate any amounts made available to carry out this section that are not obligated or expended by a date determined by the Secretary.
 
 #### (B) Within States
 
@@ -164,7 +164,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 1769a, act June 4, 1946, ch. 281, §19, formerly §21, as added Nov. 10, 1977, Pub. L. 95–166, §13, 91 Stat. 1338; renumbered §19, Oct. 18, 1986, Pub. L. 99–500, title III, §371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §371(c)(1), 100 Stat. 3341–372; renumbered §19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, §4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, §108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, §119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), prior to repeal by Pub. L. 104–193, title VII, §710, Aug. 22, 1996, 110 Stat. 2301.
+A prior section 1769a, act June 4, 1946, ch. 281, §19, formerly §21, as added Nov. 10, 1977, Pub. L. 95–166, §13, 91Stat. 1338; renumbered §19, Oct. 18, 1986, Pub. L. 99–500, title III, §371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §371(c)(1), 100 Stat. 3341–372; renumbered §19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, §4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, §108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, §119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), prior to repeal by Pub. L. 104–193, title VII, §710, Aug. 22, 1996, 110 Stat. 2301.
 
 #### Change of Name
 
@@ -180,17 +180,17 @@ Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out a
 
 Pub. L. 110–234, title IV, §4304(a)(2), May 22, 2008, 122 Stat. 1130, and Pub. L. 110–246, §4(a), title IV, §4304(a)(2), June 18, 2008, 122 Stat. 1664, 1891, provided that:
 
-“(A)
+"(A)
 
 Existing secondary schools.—Section 19(d)(1)(C) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1769a(d)(1)(C)\] (as amended by paragraph (1)) may be waived by a State until July 1, 2010, for each secondary school in the State that has been awarded funding under section 18(f) of that Act (42 U.S.C. 1769(f)) for the school year beginning July 1, 2008.
 
-“(B)
+"(B)
 
 School year beginning july 1, 2008.—To facilitate transition from the program authorized under section 18(f) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769(f)) (as in effect on the day before the date of enactment of this Act \[June 18, 2008\]) to the program established under section 19 of that Act \[42 U.S.C. 1769a\] (as amended by paragraph (1))—
 
-&emsp;“(i) for the school year beginning July 1, 2008, the Secretary \[of Agriculture\] may permit any school selected for participation under section 18(f) of that Act (42 U.S.C. 1769(f)) for that school year to continue to participate under section 19 of that Act \[42 U.S.C. 1769a\] until the end of that school year; and
+&emsp;"(i) for the school year beginning July 1, 2008, the Secretary \[of Agriculture\] may permit any school selected for participation under section 18(f) of that Act (42 U.S.C. 1769(f)) for that school year to continue to participate under section 19 of that Act \[42 U.S.C. 1769a\] until the end of that school year; and
 
-&emsp;“(ii) funds made available under that Act \[42 U.S.C. 1751 et seq.\] for fiscal year 2009 may be used to support the participation of any schools selected to participate in the program authorized under section 18(f) of that Act (42 U.S.C. 1769(f)) (as in effect on the day before the date of enactment of this Act \[June 18, 2008\]).”
+&emsp;"(ii) funds made available under that Act \[42 U.S.C. 1751 et seq.\] for fiscal year 2009 may be used to support the participation of any schools selected to participate in the program authorized under section 18(f) of that Act (42 U.S.C. 1769(f)) (as in effect on the day before the date of enactment of this Act \[June 18, 2008\])."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

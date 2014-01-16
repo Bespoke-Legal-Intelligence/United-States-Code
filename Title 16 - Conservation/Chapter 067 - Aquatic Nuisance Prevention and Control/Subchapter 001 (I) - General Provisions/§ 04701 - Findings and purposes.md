@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;&emsp;(C) waters east of the Great Lakes, into the Hudson River and Lake Champlain;
 
-&emsp;(4) the potential economic disruption to communities affected by the zebra mussel dueto its colonization of water pipes, boat hulls and other hard surfaces has been estimated at $5,000,000,000 by the year 2000, and the potential disruption to the diversity and abundance of native fish and other species by the zebra mussel and ruffe, round goby, and other nonindigenous species could be severe;
+&emsp;(4) the potential economic disruption to communities affected by the zebra mussel due to its colonization of water pipes, boat hulls and other hard surfaces has been estimated at $5,000,000,000 by the year 2000, and the potential disruption to the diversity and abundance of native fish and other species by the zebra mussel and ruffe, round goby, and other nonindigenous species could be severe;
 
 &emsp;(5) the zebra mussel was discovered on Lake Champlain during 1993 and the opportunity exists to act quickly to establish zebra mussel controls before Lake Champlain is further infested and management costs escalate;
 
@@ -60,7 +60,7 @@ The purposes of this chapter are—
 
 &emsp;(1) to prevent unintentional introduction and dispersal of nonindigenous species into waters of the United States through ballast water management and other requirements;
 
-&emsp;(2) to coordinate federally conducted, funded or authorized research, prevention <sup>1</sup> control, information dissemination and other activities regarding the zebra mussel and other aquatic nuisance species;
+&emsp;(2) to coordinate federally conducted, funded or authorized research, prevention <sup>1</sup> control,information dissemination and other activities regarding the zebra mussel and other aquatic nuisance species;
 
 &emsp;(3) to develop and carry out environmentally sound control methods to prevent, monitor and control unintentional introductions of nonindigenous species from pathways other than ballast water exchange;
 
@@ -72,7 +72,7 @@ The purposes of this chapter are—
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", which, to reflect the probable intent of Congress, was translated as reading "this title" meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -80,11 +80,11 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, wh
 
 Subsec. (a)(2), (3). Pub. L. 104–332, §2(a)(1)(A), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
-“(2) when environmental conditions are favorable, nonindigenous species, such as the zebra mussel (Dreissena polymorpha), become established and may disrupt the aquatic environment and economy of affected coastal areas;
+"(2) when environmental conditions are favorable, nonindigenous species, such as the zebra mussel (Dreissena polymorpha), become established and may disrupt the aquatic environment and economy of affected coastal areas;
 
-“(3) the zebra mussel was unintentionally introduced into the Great Lakes and, if left uncontrolled, is expected to infest over two-thirds of the continental United States through the unintentional transportation of larvae and adults by vessels operating in inland waters;”.
+"(3) the zebra mussel was unintentionally introduced into the Great Lakes and, if left uncontrolled, is expected to infest over two-thirds of the continental United States through the unintentional transportation of larvae and adults by vessels operating in inland waters;".
 
-Subsec. (a)(4). Pub. L. 104–332, §2(a)(1)(B)(i), inserted “by the zebra mussel and ruffe, round goby, and other nonindigenous species” after “other species”.
+Subsec. (a)(4). Pub. L. 104–332, §2(a)(1)(B)(i), inserted "by the zebra mussel and ruffe, round goby, and other nonindigenous species" after "other species".
 
 Subsec. (a)(5). Pub. L. 104–182 added par. (5).
 
@@ -92,23 +92,23 @@ Subsec. (a)(6) to (15). Pub. L. 104–332, §2(a)(1)(B)(ii), (C), (D), added par
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–332, §1(a), Oct. 26, 1996, 110 Stat. 4073, provided that: “This Act \[enacting sections 4713 and 4714 of this title, amending sections 941 to 941g, 4701, 4702, 4711, 4712, 4721 to 4728, 4741 and 4751 of this title, section 42 of Title 18, Crimes and Criminal Procedure, and section 2761 of Title 33, Navigation and Navigable Waters, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section, section 941 of this title, and section 2701 of Title 33\] may be cited as the ‘National Invasive Species Act of 1996’.”
+Pub. L. 104–332, §1(a), Oct. 26, 1996, 110 Stat. 4073, provided that: "This Act \[enacting sections 4713 and 4714 of this title, amending sections 941 to 941g, 4701, 4702, 4711, 4712, 4721 to 4728, 4741 and 4751 of this title, section 42 of Title 18, Crimes and Criminal Procedure, and section 2761 of Title 33, Navigation and Navigable Waters, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section, section 941 of this title, and section 2701 of Title 33\] may be cited as the 'National Invasive Species Act of 1996'."
 
 #### Short Title
 
-Pub. L. 101–646, title I, §1001, Nov. 29, 1990, 104 Stat. 4761, as amended by Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title \[enacting this chapter and amending section 42 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990’.”
+Pub. L. 101–646, title I, §1001, Nov. 29, 1990, 104 Stat. 4761, as amended by Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: "This title \[enacting this chapter and amending section 42 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990'."
 
 #### Construction of 1996 Amendment
 
-Pub. L. 104–332, §3, Oct. 26, 1996, 110 Stat. 4092, provided that: “Nothing in this Act \[see Short Title of 1996 Amendment note above\] or the amendments made by this Act is intended to affect the authorities and responsibilities of the Great Lakes Fishery Commission established under article II of the Convention on Great Lakes Fisheries between the United States of America and Canada, signed at Washington on September 10, 1954 (hereafter in this section referred to as the ‘Convention’), including the authorities and responsibilities of the Great Lakes Fishery Commission—
+Pub. L. 104–332, §3, Oct. 26, 1996, 110 Stat. 4092, provided that: "Nothing in this Act \[see Short Title of 1996 Amendment note above\] or the amendments made by this Act is intended to affect the authorities and responsibilities of the Great Lakes Fishery Commission established under article II of the Convention on Great Lakes Fisheries between the United States of America and Canada, signed at Washington on September 10, 1954 (hereafter in this section referred to as the 'Convention'), including the authorities and responsibilities of the Great Lakes Fishery Commission—
 
-&emsp;“(1) for developing and implementing a comprehensive program for eradicating or minimizing populations of sea lamprey in the Great Lakes watershed; and
+&emsp;"(1) for developing and implementing a comprehensive program for eradicating or minimizing populations of sea lamprey in the Great Lakes watershed; and
 
-&emsp;“(2) carrying out the duties of the Commission specified in the Convention (including any amendment thereto) and the Great Lakes Fishery Act of 1956 (16 U.S.C. 931 et seq.).”
+&emsp;"(2) carrying out the duties of the Commission specified in the Convention (including any amendment thereto) and the Great Lakes Fishery Act of 1956 (16 U.S.C. 931 et seq.)."
 
 #### Report on Establishment of Program
 
-Pub. L. 102–567, title II, §203(b), Oct. 29, 1992, 106 Stat. 4281, provided that: “Not later than one year after the date of the enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce shall submit a report to the Congress on progress toward establishing a nonindigenous aquatic nuisance prevention and control program within the National Oceanic and Atmospheric Administration and projected funding for such a program for the following five fiscal years.”
+Pub. L. 102–567, title II, §203(b), Oct. 29, 1992, 106 Stat. 4281, provided that: "Not later than one year after the date of the enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce shall submit a report to the Congress on progress toward establishing a nonindigenous aquatic nuisance prevention and control program within the National Oceanic and Atmospheric Administration and projected funding for such a program for the following five fiscal years."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

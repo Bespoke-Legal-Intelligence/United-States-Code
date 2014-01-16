@@ -24,21 +24,21 @@ As used in this section—
 
 #### (2) Applicable limitations period
 
-&emsp;The term “applicable limitations period” means the period specified in a statute of limitations during which a civil action referred to in subsection (a)(1) of this section may be brought.
+&emsp;The term "applicable limitations period" means the period specified in a statute of limitations during which a civil action referred to in subsection (a)(1) of this section may be brought.
 
 #### (3) Commencement date
 
-&emsp;The term “commencement date” means the date specified in a statute of limitations as the beginning of the applicable limitations period.
+&emsp;The term "commencement date" means the date specified in a statute of limitations as the beginning of the applicable limitations period.
 
 #### (4) Federally required commencement date
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “federally required commencement date” means the date the plaintiff knew (or reasonably should have known) that the personal injury or property damages referred to in subsection (a)(1) of this section were caused or contributed to by the hazardous substance or pollutant or contaminant concerned.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "federally required commencement date" means the date the plaintiff knew (or reasonably should have known) that the personal injury or property damages referred to in subsection (a)(1) of this section were caused or contributed to by the hazardous substance or pollutant or contaminant concerned.
 
 #### (B) Special rules
 
-&emsp;&emsp;In the case of a minor or incompetent plaintiff, the term “federally required commencement date” means the later of the date referred to in subparagraph (A) or the following:
+&emsp;&emsp;In the case of a minor or incompetent plaintiff, the term "federally required commencement date" means the later of the date referred to in subparagraph (A) or the following:
 
 &emsp;&emsp;&emsp;(i) In the case of a minor, the date on which the minor reaches the age of majority, as determined by State law, or has a legal representative appointed.
 
@@ -48,5 +48,5 @@ As used in this section—
 
 #### Effective Date
 
-Pub. L. 99–499, title II, §203(b), Oct. 17, 1986, 100 Stat. 1696, provided that: “The amendment made by subsection (a) of this section \[enacting this section\] shall take effect with respect to actions brought after December 11, 1980.”
+Pub. L. 99–499, title II, §203(b), Oct. 17, 1986, 100 Stat. 1696, provided that: "The amendment made by subsection (a) of this section \[enacting this section\] shall take effect with respect to actions brought after December 11, 1980."
 

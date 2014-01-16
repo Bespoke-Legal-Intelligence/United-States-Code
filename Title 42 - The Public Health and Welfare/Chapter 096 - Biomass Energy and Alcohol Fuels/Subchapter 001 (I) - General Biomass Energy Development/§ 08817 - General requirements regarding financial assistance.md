@@ -2,7 +2,7 @@
 
 #### (a) Priorities, terms, availability, etc.
 
-(1) Priority for financial assistance under this subchapter, and the most favorable financialterms available, shall be provided to a person for any biomass energy project that—
+(1) Priority for financial assistance under this subchapter, and the most favorable financial terms available, shall be provided to a person for any biomass energy project that—
 
 &emsp;(A) uses a primary fuel other than petroleum or natural gas in the production of biomass fuel, such as geothermal energy resources, solar energy resources, or waste heat; or
 
@@ -82,5 +82,5 @@ All amounts received by the Secretary of Agriculture or the Secretary of Energy 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(4)(C), was in the original “this title”, meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
+This chapter, referred to in subsec. (a)(4)(C), was in the original "this title", meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
 

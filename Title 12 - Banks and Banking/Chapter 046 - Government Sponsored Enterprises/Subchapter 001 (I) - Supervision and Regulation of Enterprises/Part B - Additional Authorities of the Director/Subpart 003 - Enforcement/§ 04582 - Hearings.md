@@ -32,5 +32,5 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–289 substituted “Director” for “Secretary” wherever appearing.
+<b>2008</b>—Subsec. (b). Pub. L. 110–289 substituted "Director" for "Secretary" wherever appearing.
 

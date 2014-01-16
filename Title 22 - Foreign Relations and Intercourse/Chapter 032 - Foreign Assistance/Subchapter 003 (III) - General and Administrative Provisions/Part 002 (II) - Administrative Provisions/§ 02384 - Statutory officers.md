@@ -18,7 +18,7 @@ Any person who was appointed by and with the advice and consent of the Senate, t
 
 In addition to the officers otherwise provided for in this section, the President shall appoint, by and with the advice and consent of the Senate, one officer for the purpose of coordinating security assistance programs.
 
-(Pub. L. 87–195, pt. III, §624, Sept. 4, 1961, 75 Stat. 447; Pub. L. 87–565, pt. III, §302(b), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(b), Dec. 16, 1963, 77 Stat. 388; Pub. L. 88–426, title III, §305(33), (42), Aug. 14, 1964, 78 Stat. 426, 428; Pub. L. 89–171, pt. III, §302(b), Sept. 6, 1965, 79 Stat. 660; Pub. L. 89–583, pt. III, §302(b), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(a), Nov. 14, 1967, 81 Stat. 460; Pub. L. 91–175, pt. III, §304, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. III, §302, Feb. 7, 1972, 86 Stat. 28; Pub. L. 94–329, title III, §301(b), June 30, 1976, 90 Stat. 750; Pub. L. 95–88, title I, §124(a)(1), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–105, title I, §109(a)(1), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title V, §504, Oct. 6, 1978, 92 Stat. 959; Pub. L. 96–533, title VII, §706, Dec. 16, 1980, 94 Stat. 3158; Pub. L. 97–113, title VII, §705(b)(1), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 98–164, title X, §1002(b), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 103–236, title I, §162(e)(4), Apr. 30, 1994, 108 Stat. 405.)
+(Pub. L. 87–195, pt. III, §624, Sept. 4, 1961, 75 Stat. 447; Pub. L. 87–565, pt. III, §302(b), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(b), Dec. 16, 1963, 77 Stat. 388; Pub. L. 88–426, title III, §305(33), (42), Aug. 14, 1964, 78 Stat. 426, 428; Pub.L. 89–171, pt. III, §302(b), Sept. 6, 1965, 79 Stat. 660; Pub. L. 89–583, pt. III, §302(b), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(a), Nov. 14, 1967, 81 Stat. 460; Pub. L. 91–175, pt. III, §304, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. III, §302, Feb. 7, 1972, 86 Stat. 28; Pub. L. 94–329, title III, §301(b), June 30, 1976, 90 Stat. 750; Pub. L. 95–88, title I, §124(a)(1), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–105, title I, §109(a)(1), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title V, §504, Oct. 6, 1978, 92 Stat. 959; Pub. L. 96–533, title VII, §706, Dec. 16, 1980, 94 Stat. 3158; Pub. L. 97–113, title VII, §705(b)(1), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 98–164, title X, §1002(b), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 103–236, title I, §162(e)(4), Apr. 30, 1994, 108 Stat. 405.)
 
 #### References in Text
 
@@ -36,7 +36,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 <b>1981</b>—Subsec. (g). Pub. L. 97–113 struck out subsec. (g) which related to the Inspector General and the duties, responsibilities, and compensation of such official. See sections 2, 8A, and 11 of the Inspector General Act of 1978, Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, set out in the Appendix to Title 5, Government Organization and Employees.
 
-<b>1980</b>—Subsec. (g). Pub. L. 96–533 substituted in pars. (1) to (5) “Inspector General” for “Auditor General” wherever appearing; in par. (3), imposed upon the Inspector General requirement of supervising, directing, and controlling security activities, including audit, investigative, and security activities relating to programs and operations within the United States International Development Cooperation Agency; in par. (4) required submission of an annual report to the Director; and added pars. (6) to (9).
+<b>1980</b>—Subsec. (g). Pub. L. 96–533 substituted in pars. (1) to (5) "Inspector General" for "Auditor General" wherever appearing; in par. (3), imposed upon the Inspector General requirement of supervising, directing, and controlling security activities, including audit, investigative, and security activities relating to programs and operations within the United States International Development Cooperation Agency; in par. (4) required submission of an annual report to the Director; and added pars. (6) to (9).
 
 <b>1978</b>—Subsec. (g). Pub. L. 95–424 added subsec. (g).
 
@@ -44,7 +44,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 Subsec. (f)(1). Pub. L. 95–105, §109(a)(1)(A), substituted references to the Assistant Secretary of State for Human Rights and Humanitarian Affairs for references to the Coordinator for Human Rights and Humanitarian Affairs.
 
-Subsec. (f)(2). Pub. L. 95–105, §109(a)(1)(B), substituted “Assistant Secretary of State” for “Coordinator”.
+Subsec. (f)(2). Pub. L. 95–105, §109(a)(1)(B), substituted "Assistant Secretary of State" for "Coordinator".
 
 <b>1976</b>—Subsec. (f). Pub. L. 94–329 added subsec. (f).
 
@@ -54,13 +54,13 @@ Subsec. (f)(2). Pub. L. 95–105, §109(a)(1)(B), substituted “Assistant Secre
 
 Subsec. (d)(5), (7). Pub. L. 91–175, §304(2), (3), included section 290f of this title within provisions of this section.
 
-<b>1967</b>—Subsec. (d)(2)(B). Pub. L. 90–137 struck out “of assistance” after “programs” in two places.
+<b>1967</b>—Subsec. (d)(2)(B). Pub. L. 90–137 struck out "of assistance" after "programs" in two places.
 
 <b>1966</b>—Subsec. (d)(8). Pub. L. 89–583 added par. (8).
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–171, §302(b)(1), struck out “paragraph (3) of” before “subsection (a) of this section” the second time it appears and substituted “of one or more of said officers” for “of the officers provided for in paragraphs (1) and (2) of that subsection”.
+<b>1965</b>—Subsec. (b). Pub. L. 89–171, §302(b)(1), struck out "paragraph (3) of" before "subsection (a) of this section" the second time it appears and substituted "of one or more of said officers" for "of the officers provided for in paragraphs (1) and (2) of that subsection".
 
-Subsec. (d)(2)(A), (5), (7). Pub. L. 89–171, §302(b)(2), substituted “the Latin American Development Act, as amended” for “Public Law 86–735”.
+Subsec. (d)(2)(A), (5), (7). Pub. L. 89–171, §302(b)(2), substituted "the Latin American Development Act, as amended" for "Public Law 86–735".
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–426, §305(42), repealed provisions which related to the appointment of an Under Secretary, Deputy Under Secretary and ten Assistant Secretaries and prescribed their rates of compensation.
 
@@ -70,9 +70,9 @@ Subsec. (d)(1). Pub. L. 88–426, §305(33), repealed provisions which prescribe
 
 Subsec. (b). Pub. L. 88–205, §302(b)(3), made conforming changes in language to reflect that only one Deputy Under Secretary may now be appointed.
 
-Subsec. (d)(1). Pub. L. 88–205, §302(b)(4), inserted “who shall be appointed by the President by and with the advice and consent of the Senate,” and increased the salary of the Deputy Inspector General, Foreign Assistance, from $19,500 to $20,000.
+Subsec. (d)(1). Pub. L. 88–205, §302(b)(4), inserted "who shall be appointed by the President by and with the advice and consent of the Senate," and increased the salary of the Deputy Inspector General, Foreign Assistance, from $19,500 to $20,000.
 
-<b>1962</b>—Subsecs. (d), (e). Pub. L. 87–565 redesignated subsec. (e) as (d), inserted “, and programs being conducted by United States Government Agencies under sections 1942 to 1945 of this title,” in par. 2(A), and “, and sections 1942 to 1945 of this title,” in pars. (5) and (7), and repealed former subsec. (d) which related to the temporary continuation of certain statutory positions.
+<b>1962</b>—Subsecs. (d), (e). Pub. L. 87–565 redesignated subsec. (e) as (d), inserted ", and programs being conducted by United States Government Agencies under sections 1942 to 1945 of this title," in par. 2(A), and ", and sections 1942 to 1945 of this title," in pars. (5) and (7), and repealed former subsec. (d) which related to the temporary continuation of certain statutory positions.
 
 #### Effective Date of 1994 Amendment
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–88, title I, §124(c), Aug. 3, 1977, 91 Stat. 542, provided that: “The amendments made by this section \[amending this section and section 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under this section\] shall take effect on July 1, 1978.”
+Pub. L. 95–88, title I, §124(c), Aug. 3, 1977, 91 Stat. 542, provided that: "The amendments made by this section \[amending this section and section 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under this section\] shall take effect on July 1, 1978."
 
 #### Effective Date of 1964 Amendment
 
@@ -96,11 +96,11 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Assistant Administrator for Management
 
-Pub. L. 112–166, §2(v)(1), Aug. 10, 2012, 126 Stat. 1288, provided that: “Notwithstanding section 624(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2384(a)), the appointment by the President of the Assistant Administrator for Management at the United States Agency for International Development shall not be subject to the advice and consent of the Senate.”
+Pub. L. 112–166, §2(v)(1), Aug. 10, 2012, 126 Stat. 1288, provided that: "Notwithstanding section 624(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2384(a)), the appointment by the President of the Assistant Administrator for Management at the United States Agency for International Development shall not be subject to the advice and consent of the Senate."
 
 #### Assumption of Duties by Coordinator for Human Rights and Humanitarian Affairs
 
-Pub. L. 95–105, title I, §109(a)(6), Aug. 17, 1977, 91 Stat. 846, provided that: “The individual holding the position of Coordinator for Human Rights and Humanitarian Affairs on the date of enactment of this section \[Aug. 17, 1977\] shall assume the duties of the Assistant Secretary of State for Human Rights and Humanitarian Affairs and shall not be required to be reappointed by reason of the enactment of this section.”
+Pub. L. 95–105, title I, §109(a)(6), Aug. 17, 1977, 91 Stat. 846, provided that: "The individual holding the position of Coordinator for Human Rights and Humanitarian Affairs on the date of enactment of this section \[Aug. 17, 1977\] shall assume the duties of the Assistant Secretary of State for Human Rights and Humanitarian Affairs and shall not be required to be reappointed by reason of the enactment of this section."
 
 #### Report to Speaker of the House and Congressional Committees on Office of Assistant Secretary for Human Rights and Humanitarian Affairs
 

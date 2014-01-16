@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-The Office of Foreign Assets Control, in consultation with the Department of State, shall establish an expedited process for the consideration of complete requests for authorization to engage in human rights-, humanitarian-, or democracy-related activities relating to Iran that are submitted by—
+The Office of Foreign Assets Control, in consultation with the Department of State, shallestablish an expedited process for the consideration of complete requests for authorization to engage in human rights-, humanitarian-, or democracy-related activities relating to Iran that are submitted by—
 
 &emsp;(1) entities receiving funds from the Department of State to engage in the proposed activity;
 
@@ -12,7 +12,7 @@ The Office of Foreign Assets Control, in consultation with the Department of Sta
 
 #### (b) Procedures
 
-Requests for authorization under subsection (a) shall be submitted to the Office of Foreign Assets Control in conformance with the Office's regulations, including section 501.801 of title 31, Code of Federal Regulations (commonly known as the Reporting, Procedures and Penalties Regulations). Applicants shall fully disclose the parties to the transactions as well as describe the activities to be undertaken. License applications involving the exportation or reexportation of goods, technology, or software to Iran shallinclude a copy of an official Commodity Classification issued by the Department of Commerce, Bureau of Industry and Security, as part of the license application.
+Requests for authorization under subsection (a) shall be submitted to the Office of Foreign Assets Control in conformance with the Office's regulations, including section 501.801 of title 31, Code of Federal Regulations (commonly known as the Reporting, Procedures and Penalties Regulations). Applicants shall fully disclose the parties to the transactions as well as describe the activities to be undertaken. License applications involving the exportation or reexportation of goods, technology, or software to Iran shall include a copy of an official Commodity Classification issued by the Department of Commerce, Bureau of Industry and Security, as part of the license application.
 
 #### (c) Foreign policy review
 

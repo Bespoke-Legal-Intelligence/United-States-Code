@@ -34,7 +34,7 @@ The Secretary shall have the authority under this subchapter to conduct or to re
 
 &emsp;&emsp;&emsp;(i) to conduct such testing and reporting for 25 percent of its tobacco products during each year of such 4-year period; and
 
-&emsp;&emsp;&emsp;(ii) to conduct such testing and reporting for its largest-selling tobacco products (asdetermined by the Secretary) before its other tobacco products, or in such other order of priority as determined by the Secretary.
+&emsp;&emsp;&emsp;(ii) to conduct such testing and reporting for its largest-selling tobacco products (as determined by the Secretary) before its other tobacco products, or in such other order of priority as determined by the Secretary.
 
 #### (B) Case-by-case delay
 

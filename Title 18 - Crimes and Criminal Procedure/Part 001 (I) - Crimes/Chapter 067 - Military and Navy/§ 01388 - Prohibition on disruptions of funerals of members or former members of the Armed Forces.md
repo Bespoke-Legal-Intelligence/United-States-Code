@@ -56,7 +56,7 @@ Claims.—Any person, including a surviving member of the deceased person's imme
 
 &emsp;&emsp;(A) sue therefor in any appropriate United States district court or in any court of competent jurisdiction; and
 
-&emsp;&emsp;(B) recover damages as provided in subsection (d) and the cost of the suit, including reasonable attorneys’ fees.
+&emsp;&emsp;(B) recover damages as provided in subsection (d) and the cost of the suit, including reasonable attorneys' fees.
 
 &emsp;(4)
 
@@ -80,7 +80,7 @@ Actions by attorney general.—In any action under subsection (c)(2), the Attorn
 
 &emsp;(4)
 
-Statutory damages.—A court may award, as the court considers just, statutory damages in a sum of not less than $25,000 or more than $50,000 per violation.
+Statutory damages.—A court may award, as the court considers just, statutorydamages in a sum of not less than $25,000 or more than $50,000 per violation.
 
 (e)
 
@@ -90,9 +90,9 @@ Rebuttable Presumption.—It shall be a rebuttable presumption that the violatio
 
 Definitions.—In this section—
 
-&emsp;(1) the term “Armed Forces” has the meaning given the term in section 101 of title 10 and includes members and former members of the National Guard who were employed in the service of the United States; and
+&emsp;(1) the term "Armed Forces" has the meaning given the term in section 101 of title 10 and includes members and former members of the National Guard who were employed in the service of the United States; and
 
-&emsp;(2) the term “immediate family” means, with respect to a person, the immediate family members of such person, as such term is defined in section 115 of this title.
+&emsp;(2) the term "immediate family" means, with respect to a person, the immediate family members of such person, as such term is defined in section 115 of this title.
 
 (Added Pub. L. 109–464, §1(a), Dec. 22, 2006, 120 Stat. 3480; amended Pub. L. 112–154, title VI, §601(b), Aug. 6, 2012, 126 Stat. 1196.)
 
@@ -104,11 +104,11 @@ Definitions.—In this section—
 
 Pub. L. 112–154, title VI, §601(a), Aug. 6, 2012, 126 Stat. 1195, provided that:
 
-“(1)
+"(1)
 
-Purpose.—The purpose of this section \[amending this section and section 2413 of Title 38, Veterans’ Benefits\] is to provide necessary and proper support for the recruitment and retention of the Armed Forces and militia employed in the service of the United States by protecting the dignity of the service of the members of such Forces and militia, and by protecting the privacy of their immediate family members and other attendees during funeral services for such members.
+Purpose.—The purpose of this section \[amending this section and section 2413 of Title 38, Veterans' Benefits\] is to provide necessary and proper support for the recruitment and retention of the Armed Forces and militia employed in the service of the United States by protecting the dignity of the service of the members of such Forces and militia, and by protecting the privacy of their immediate family members and other attendees during funeral services for such members.
 
-“(2)
+"(2)
 
-Constitutional authority.—Congress finds that this section is a necessary and proper exercise of its powers under the Constitution, article I, section 8, paragraphs 1, 12, 13, 14, 16, and 18, to provide for the common defense, raise and support armies, provide and maintain a navy, make rules for the government and regulation of the land and naval forces, and provide for organizing and governing such part of the militia as may be employed in the service of the United States.”
+Constitutional authority.—Congress finds that this section is a necessary and proper exercise of its powers under the Constitution, article I, section 8, paragraphs 1, 12, 13, 14, 16, and 18, to provide for the common defense, raise and support armies, provide and maintain a navy, make rules for the government and regulation of the land and naval forces, and provide for organizing and governing such part of the militia as may be employed in the service of the United States."
 

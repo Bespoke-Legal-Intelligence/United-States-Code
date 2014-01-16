@@ -4,7 +4,7 @@
 
 Authorization.—(1) The Secretary concerned may authorize an employee described in paragraph (2) to serve without compensation as a director, officer, or trustee, or to otherwise participate, in the management of an entity designated under subsection (b). Any such authorization shall be made on a case-by-case basis, for a particular employee to participate in a specific capacity with a specific designated entity. Such authorization may be made only for the purpose of providing oversight and advice to, and coordination with, the designated entity, and participation of the employee in the activities of the designated entity may not extend to participation in the day-to-day operations of the entity.
 
-(2) Paragraph (1) applies to any employee of the Department of Defense or, in the case of the Coast Guard when not operating as a service in the Navy, of the Department of Homeland Security. For purposes of this section, the term “employee” includes a civilian officer.
+(2) Paragraph (1) applies to any employee of the Department of Defense or, in the case of the Coast Guard when not operating as a service in the Navy, of the Department of Homeland Security. For purposes of this section, the term "employee" includes a civilian officer.
 
 (b)
 
@@ -16,7 +16,7 @@ Publication of Designated Entities and of Authorized Persons.—A designation of
 
 (d)
 
-Civilians Outside the Military Departments.—In this section, the term “Secretary concerned” includes the Secretary of Defense with respect to employees of the Department of Defense who are not employees of a military department.
+Civilians Outside the Military Departments.—In this section, the term "Secretary concerned" includes the Secretary of Defense with respect to employees of the Department of Defense who are not employees of a military department.
 
 (e)
 
@@ -30,7 +30,7 @@ A prior section 1589, added Pub. L. 98–525, title XIV, §1401(f)(1), Oct. 19, 
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (a)(2), (b), (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a)(2), (b), (e). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 #### Effective Date of 2002 Amendment
 

@@ -34,7 +34,7 @@ The Secretary shall address priority substance abuse prevention needs of regiona
 
 #### (2) Duration of award
 
-&emsp;With respect to a grant, contract, or cooperative agreement awarded under this section, the period during which payments under such award are made to the recipient may not exceed 5 years.
+&emsp;With respect to a grant, contract, or cooperative agreement awarded under this section,the period during which payments under such award are made to the recipient may not exceed 5 years.
 
 #### (3) Matching funds
 

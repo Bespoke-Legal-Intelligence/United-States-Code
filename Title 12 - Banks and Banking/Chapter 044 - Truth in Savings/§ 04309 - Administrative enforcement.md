@@ -8,9 +8,9 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 &emsp;&emsp;(A) insured depository institutions (as defined in section 3(c)(2) of that Act \[12 U.S.C. 1813(c)(2)\]);
 
-&emsp;&emsp;(B) depository institutions described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 1461(b)(1)(A)\] which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(c)(2)\]); and
+&emsp;&emsp;(B) depository institutions described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)\] which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(c)(2)\]); and
 
-&emsp;&emsp;(C) depository institutions described in clause (v) or (vi) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 1461(b)(1)(A)\] which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(c)(2)\]);
+&emsp;&emsp;(C) depository institutions described in clause (v) or (vi) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)\] which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(c)(2)\]);
 
 &emsp;(2) the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], by the National Credit Union Administration Bureau <sup>1</sup> in the case of depository institutions described in clause (iv) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)\]; and
 
@@ -40,21 +40,21 @@ The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 193
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1100B(1), substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203, §1100B(1), substituted "Bureau" for "Board" wherever appearing.
 
-Subsec. (a). Pub. L. 111–203, §1100B(2)(A), inserted introductory provisions and added par. (1) and struck out former introductory provisions and par. (1) which read as follows: “Compliance with the requirements imposed under this chapter shall be enforced under—
+Subsec. (a). Pub. L. 111–203, §1100B(2)(A), inserted introductory provisions and added par. (1) and struck out former introductory provisions and par. (1) which read as follows: "Compliance with the requirements imposed under this chapter shall be enforced under—
 
-&emsp;“(1) section 8 of the Federal Deposit Insurance Act—
+&emsp;"(1) section 8 of the Federal Deposit Insurance Act—
 
-&emsp;&emsp;“(A) by the appropriate Federal banking agency (as defined in section 3(q) of the Federal Deposit Insurance Act) in the case of insured depository institutions (as defined in section 3(c)(2) of such Act);
+&emsp;&emsp;"(A) by the appropriate Federal banking agency (as defined in section 3(q) of the Federal Deposit Insurance Act) in the case of insured depository institutions (as defined in section 3(c)(2) of such Act);
 
-&emsp;&emsp;“(B) by the Federal Deposit Insurance Corporation in the case of depository institutions described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act); and
+&emsp;&emsp;"(B) by the Federal Deposit Insurance Corporation in the case of depository institutions described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act); and
 
-&emsp;&emsp;“(C) by the Director of the Office of Thrift Supervision in the case of depository institutions described in clause (v) and or (vi) of section 19(b)(1)(A) of the Federal Reserve Act which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act); and”.
+&emsp;&emsp;"(C) by the Director of the Office of Thrift Supervision in the case of depository institutions described in clause (v) and or (vi) of section 19(b)(1)(A) of the Federal Reserve Act which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act); and".
 
 Subsec. (a)(3). Pub. L. 111–203, §1100B(2)(B), (C), added par. (3).
 
-<b>1992</b>—Pub. L. 102–550 made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
+<b>1992</b>—Pub. L. 102–550 made technical amendment to references to "this chapter" wherever appearing to reflect correction of corresponding provision of original act.
 
 #### Effective Date of 2010 Amendment
 
@@ -64,5 +64,5 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Board”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Board".</i>
 

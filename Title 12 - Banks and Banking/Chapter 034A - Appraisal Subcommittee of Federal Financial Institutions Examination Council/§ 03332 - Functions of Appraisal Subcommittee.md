@@ -36,9 +36,9 @@ Paragraph (4) of subsection (a), which required the Appraisal Subcommittee to su
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §1473(f)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “monitor the requirements established by States for the certification and licensing of individuals who are qualified to perform appraisals in connection with federally related transactions, including a code of professional responsibility;”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §1473(f)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "monitor the requirements established by States for the certification and licensing of individuals who are qualified to perform appraisals in connection with federally related transactions, including a code of professional responsibility;".
 
-Subsec. (a)(2). Pub. L. 111–203, §367(6), struck out “and the Resolution Trust Corporation” after “agencies” in introductory provisions.
+Subsec. (a)(2). Pub. L. 111–203, §367(6), struck out "and the Resolution Trust Corporation" after "agencies" in introductory provisions.
 
 Subsec. (a)(5). Pub. L. 111–203, §1473(b), added par. (5).
 
@@ -50,7 +50,7 @@ Amendment by section 367(6) of Pub. L. 111–203 effective on the transfer date,
 
 Amendment by section 1473(b), (f)(1), of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “compliance; and”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "compliance; and".</i>
 

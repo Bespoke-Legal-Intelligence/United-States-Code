@@ -30,7 +30,7 @@ Each State personnel development plan under subsection (a)(2) shall—
 
 &emsp;(1) describe a partnership agreement that is in effect for the period of the grant, which agreement shall specify—
 
-&emsp;&emsp;(A) the nature and extent of the partnership described in section 1452(b) of this titleand the respective roles of each member of the partnership, including the partner described in section 1452(b)(3) of this title if applicable; and
+&emsp;&emsp;(A) the nature and extent of the partnership described in section 1452(b) of this title and the respective roles of each member of the partnership, including the partner described in section 1452(b)(3) of this title if applicable; and
 
 &emsp;&emsp;(B) how the State educational agency will work with other persons and organizations involved in, and concerned with, the education of children with disabilities, including the respective roles of each of the persons and organizations;
 
@@ -86,7 +86,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(2)(C), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.)of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 

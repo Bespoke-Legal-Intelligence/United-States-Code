@@ -60,7 +60,7 @@
 
 (g) Any retired judge who is entitled to receive an annuity under subsection (a) shall be entitled to a cost of living adjustment in the amount payable to him computed as specified in section 8340(b) of title 5, except that in no case may the annuity payable to such retired judge, as increased under this subsection, exceed 95 per centum of the salary of a United States district judge in regular active service.
 
-(June 25, 1948, ch. 646, 62 Stat. 904; Oct. 31, 1951, ch. 655, §40, 65 Stat. 724; Feb. 10, 1954, ch. 6, §5, 68 Stat. 13; Pub. L. 85–508, §12(d), July 7, 1958, 72Stat. 348; Pub. L. 86–3, §14(d), Mar. 18, 1959, 73 Stat. 10; Pub. L. 89–571, §2, Sept. 12, 1966, 80 Stat. 764; Pub. L. 94–470, Oct. 11, 1976, 90 Stat. 2052; Pub. L. 99–396, §21(a), Aug. 27, 1986, 100 Stat. 844.)
+(June 25, 1948, ch. 646, 62 Stat. 904; Oct. 31, 1951, ch. 655, §40, 65 Stat. 724; Feb. 10, 1954, ch. 6, §5, 68 Stat. 13; Pub. L. 85–508, §12(d), July 7, 1958, 72 Stat. 348; Pub. L. 86–3, §14(d), Mar. 18, 1959, 73 Stat. 10; Pub. L. 89–571, §2, Sept. 12, 1966, 80 Stat. 764; Pub. L. 94–470, Oct. 11, 1976, 90 Stat. 2052; Pub. L. 99–396, §21(a), Aug. 27, 1986, 100 Stat. 844.)
 
 #### Historical and Revision Notes
 
@@ -72,13 +72,13 @@ Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as am
 
 <b>1986</b>—Pub. L. 99–396 amended section generally. Prior to amendment, section read as follows:
 
-“Any judge of the United States District Court for the District of the Canal Zone, the District Court of Guam, or the District Court of the Virgin Islands, who resigns after attaining the age of seventy years and after serving at least ten years, continuously or otherwise, or after attaining the age of sixty-five years and after serving at least fifteen years, continuously or otherwise, shall continue during the remainder of his life to receive the salary he received when he relinquished office.
+"Any judge of the United States District Court for the District of the Canal Zone, the District Court of Guam, or the District Court of the Virgin Islands, who resigns after attaining the age of seventy years and after serving at least ten years, continuously or otherwise, or after attaining the age of sixty-five years and after serving at least fifteen years, continuously or otherwise, shall continue during the remainder of his life to receive the salary he received when he relinquished office.
 
-“Any judge of any such courts who is removed by the President of the United States upon the sole ground of mental or physical disability, or who fails of reappointment, shall be entitled, upon attaining the age of sixty-five years or upon relinquishing office if he is then beyond the age of sixty-five years, (a) if his judicial service aggregated sixteen years or more, to receive during the remainder of his life the salary he received when he relinquished office, or (b) if his judicial service aggregated less than sixteen years but not less than ten years, to receive during the remainder of his life that proportion of such salary which the aggregate number of years of his judicial service bears to sixteen.
+"Any judge of any such courts who is removed by the President of the United States upon the sole ground of mental or physical disability, or who fails of reappointment, shall be entitled, upon attaining the age of sixty-five years or upon relinquishing office if he is then beyond the age of sixty-five years, (a) if his judicial service aggregated sixteen years or more, to receive during the remainder of his life the salary he received when he relinquished office, or (b) if his judicial service aggregated less than sixteen years but not less than ten years, to receive during the remainder of his life that proportion of such salary which the aggregate number of years of his judicial service bears to sixteen.
 
-“Service at any time in any of the courts referred to in the first paragraph, or in any other court under appointment by the President, shall be included in the computation of aggregate years of judicial service for the purposes of this section.
+"Service at any time in any of the courts referred to in the first paragraph, or in any other court under appointment by the President, shall be included in the computation of aggregate years of judicial service for the purposes of this section.
 
-“Any judge who has retired by resigning under the provisions of this section, or who is otherwise entitled to payments under this section, shall be entitled after the effective date of this Act to a cost-of-living adjustment in the amount payable to him computed as specified in section 8340(b) of title 5, United States Code: <i>Provided, however</i>, That in no case shall the salary or amount payable to such judge as increased under this paragraph exceed 95 per centum of the salary of a United States district court judge in regular active service.”
+"Any judge who has retired by resigning under the provisions of this section, or who is otherwise entitled to payments under this section, shall be entitled after the effective date of this Act to a cost-of-living adjustment in the amount payable to him computed as specified in section 8340(b) of title 5, United States Code: <i>Provided, however</i>, That in no case shall the salary or amount payable to such judge as increased under this paragraph exceed 95 per centum of the salary of a United States district court judge in regular active service."
 
 <b>1976</b>—Pub. L. 94–470 inserted cost-of-living adjustment provision, including limitation of payment to amount no greater than 95 per centum of salary of a United States district court judge in regular active service.
 
@@ -94,7 +94,7 @@ Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as am
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–396, §21(c), Aug. 27, 1986, 100 Stat. 846, provided that: “The amendments made by this section \[amending this section and section 376 of this title\] shall not affect the amount payable to a judge who retired in accordance with the provisions of section 373 of title 28, United States Code, in effect on the day before the date of enactment of this Act \[Aug. 27, 1986\].”
+Pub. L. 99–396, §21(c), Aug. 27, 1986, 100 Stat. 846, provided that: "The amendments made by this section \[amending this section and section 376 of this title\] shall not affect the amount payable to a judge who retired in accordance with the provisions of section 373 of title 28, United States Code, in effect on the day before the date of enactment of this Act \[Aug. 27, 1986\]."
 
 #### Effective Date of 1959 Amendment
 
@@ -102,31 +102,31 @@ Amendment by Pub. L. 86–3 effective on admission of State of Hawaii into the U
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notesset out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Election, Recall, Status, Compensation, Conduct, and Termination of Senior Judges
 
 Pub. L. 98–454, title X, §1002, Oct. 5, 1984, 98 Stat. 1745, provided that:
 
-“(a) Any judge or former judge who is receiving, or will upon attaining the age of sixty-five years be entitled to receive, payments pursuant to section 373 of title 28, United States Code\[,\] may elect to become a senior judge of the court on which he served while on active duty.
+"(a) Any judge or former judge who is receiving, or will upon attaining the age of sixty-five years be entitled to receive, payments pursuant to section 373 of title 28, United States Code\[,\] may elect to become a senior judge of the court on which he served while on active duty.
 
-“(b) The chief judge of a judicial circuit may recall any such senior judge of his circuit, with the judge's consent, to perform in the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands such judicial duties and for such periods of time as the chief judge may specify.
+"(b) The chief judge of a judicial circuit may recall any such senior judge of his circuit, with the judge's consent, to perform in the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands such judicial duties and for such periods of time as the chief judge may specify.
 
-“(c) Any act or failure to act by a senior judge performing judicial duties pursuant to this section shall have the same force and effect as if it were the act or failure to act of a judge on active duty; but such senior judge shall not be counted as a judge of the court on which he is serving for purposes of the number of judgeships authorized for that court.
+"(c) Any act or failure to act by a senior judge performing judicial duties pursuant to this section shall have the same force and effect as if it were the act or failure to act of a judge on active duty; but such senior judge shall not be counted as a judge of the court on which he is serving for purposes of the number of judgeships authorized for that court.
 
-“(d) Any senior judge shall be paid, while performing duties pursuant to this section, the same compensation (in lieu of payments pursuant to section 373 of title 28, United States Code) and the same allowances for travel and other expenses as a judge in active service.
+"(d) Any senior judge shall be paid, while performing duties pursuant to this section, the same compensation (in lieu of payments pursuant to section 373 of title 28, United States Code) and the same allowances for travel and other expenses as a judge in active service.
 
-“(e) Senior judges under subsection (a) of this section shall at all times be governed by the code of judicial conduct for the United States judges, approved by the Judicial Conference of the United States.
+"(e) Senior judges under subsection (a) of this section shall at all times be governed by the code of judicial conduct for the United States judges, approved by the Judicial Conference of the United States.
 
-“(f) Any person who has elected to be a senior judge under subsection (a) of this section and who thereafter—
+"(f) Any person who has elected to be a senior judge under subsection (a) of this section and who thereafter—
 
-&emsp;“(1) accepts civil office or employment under the Government of the United States (other than the performance of judicial duties pursuant to subsection (b) of this section);
+&emsp;"(1) accepts civil office or employment under the Government of the United States (other than the performance of judicial duties pursuant to subsection (b) of this section);
 
-&emsp;“(2) engages in the practice of law; or
+&emsp;"(2) engages in the practice of law; or
 
-&emsp;“(3) materially violated the code of judicial conduct for the United States judges,
+&emsp;"(3) materially violated the code of judicial conduct for the United States judges,
 
-> shall cease to be a senior judge and to be eligible for recall pursuant to subsection (b) of this section.”
+> shall cease to be a senior judge and to be eligible for recall pursuant to subsection (b) of this section."
 
 #### Tenure and Salary Rights of Judges in Puerto Rico in Office on September 12, 1966
 
@@ -134,11 +134,11 @@ Amendment by Pub. L. 89–571 not to affect tenure of office or right to continu
 
 #### Preservation of Rights of Retired Judges of the District Court for the District of Hawaii and Justices of the Supreme Court of the Territory of Hawaii
 
-Pub. L. 86–3, §14(d), Mar. 18, 1959, 73 Stat. 10, provided in part: “That the amendments made by this subsection shall not affect the rights of any judge or justice who may have retired before the effective date of this subsection”. See Effective Date of 1959 Amendment note above.
+Pub. L. 86–3, §14(d), Mar. 18, 1959, 73 Stat. 10, provided in part: "That the amendments made by this subsection shall not affect the rights of any judge or justice who may have retired before the effective date of this subsection". See Effective Date of 1959 Amendment note above.
 
 #### Preservation of Rights of Retired Judges of the District Court for the Territory of Alaska
 
-Pub. L. 85–508, §12(d), July 7, 1958, 72 Stat. 348, provided in part: “That the amendment made by this subsection shall not affect the rights of any judge who may have retired before it takes effect”. See Effective Date of 1958 Amendment note above.
+Pub. L. 85–508, §12(d), July 7, 1958, 72 Stat. 348, provided in part: "That the amendment made by this subsection shall not affect the rights of any judge who may have retired before it takes effect". See Effective Date of 1958 Amendment note above.
 
 #### Judicial Service in Hawaii
 

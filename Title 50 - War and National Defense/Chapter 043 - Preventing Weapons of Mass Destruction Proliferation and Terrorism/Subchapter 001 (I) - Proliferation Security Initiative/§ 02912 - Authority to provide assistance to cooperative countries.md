@@ -24,7 +24,7 @@ Assistance may be provided to a country under subsection (a) in no more than 3 f
 
 #### (e) Use of assistance
 
-Assistance provided under this section shall be used to enhance the capability of the recipient country to prevent the transport and transshipment of items of proliferation concern in its national territory or airspace, or in vessels under its control or registry, including through the development of a legal framework in that country to enhance such capability by criminalizing proliferation, enacting strict export controls, and securing sensitive materials within its borders, and to enhance the ability of the recipient country to cooperate in PSI operations.
+Assistance provided under this section shall be used to enhance the capability of the recipientcountry to prevent the transport and transshipment of items of proliferation concern in its national territory or airspace, or in vessels under its control or registry, including through the development of a legal framework in that country to enhance such capability by criminalizing proliferation, enacting strict export controls, and securing sensitive materials within its borders, and to enhance the ability of the recipient country to cooperate in PSI operations.
 
 #### (f) Limitation on ship or aircraft transfers
 
@@ -42,5 +42,5 @@ Assistance provided under this section shall be used to enhance the capability o
 
 The Foreign Assistance Act of 1961, referred to in subsec. (b)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapters 4 and 5 of part II of the Act are classified generally to parts IV (§2346 et seq.) and V (§2347 et seq.), respectively, of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
-<i><sup>1</sup></i><i> So in original. The word “defense” probably should not appear before “excess”.</i>
+<i><sup>1</sup></i><i> So in original. The word "defense" probably should not appear before "excess".</i>
 

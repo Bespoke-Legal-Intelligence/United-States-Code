@@ -1,6 +1,6 @@
 ### §1311. Repealed. Pub. L. 109–280, title V, §501(b)(1), Aug. 17, 2006, 120 Stat. 939
 
-Section, Pub. L. 93–406, title IV, §4011, as added Pub. L. 103–465, title VII, §775(a), Dec. 8, 1994, 108 Stat. 5046, related to notice to participants of plan's funding status and limitations on corporation's guaranty.
+Section, Pub. L. 93–406, title IV, §4011, as added Pub. L. 103–465, title VII, §775(a), Dec. 8, 1994, 108 Stat. 5046,related to notice to participants of plan's funding status and limitations on corporation's guaranty.
 
 #### Effective Date of Repeal
 

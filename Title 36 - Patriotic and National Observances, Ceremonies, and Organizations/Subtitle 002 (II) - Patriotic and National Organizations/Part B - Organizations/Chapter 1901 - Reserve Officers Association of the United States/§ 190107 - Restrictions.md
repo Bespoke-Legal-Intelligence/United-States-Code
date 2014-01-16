@@ -56,11 +56,11 @@ June 30, 1950, ch. 431, §§9, 10, 11 (words before 2d comma), 14, 64 Stat. 314.
 
 &nbsp;
 
-In subsection (a), the words “pecuniary” and “or gain” are omitted as unnecessary.
+In subsection (a), the words "pecuniary" and "or gain" are omitted as unnecessary.
 
-In subsection (b), the word “capital” is omitted as unnecessary.
+In subsection (b), the word "capital" is omitted as unnecessary.
 
-In subsection (d), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
+In subsection (d), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title.
 
-In subsection (e), the words “or advance” are added in 2 places for consistency in the subsection.
+In subsection (e), the words "or advance" are added in 2 places for consistency in the subsection.
 

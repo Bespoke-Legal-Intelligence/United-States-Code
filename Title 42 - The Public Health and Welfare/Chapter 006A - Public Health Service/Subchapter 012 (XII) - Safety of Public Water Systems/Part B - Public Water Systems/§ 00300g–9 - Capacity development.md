@@ -36,7 +36,7 @@ A State shall receive only 80 percent of the allotment that the State is otherwi
 
 &emsp;In preparing the capacity development strategy, the State shall consider, solicit public comment on, and include as appropriate—
 
-&emsp;&emsp;(A) the methods or criteria that the State will use to identify and prioritize the publicwater systems most in need of improving technical, managerial, and financial capacity;
+&emsp;&emsp;(A) the methods or criteria that the State will use to identify and prioritize the public water systems most in need of improving technical, managerial, and financial capacity;
 
 &emsp;&emsp;(B) a description of the institutional, regulatory, financial, tax, or legal factors at the Federal, State, or local level that encourage or impair capacity development;
 
@@ -110,7 +110,7 @@ Based on information obtained under subsection (c)(3) of this section, the Admin
 
 &emsp;The Administrator shall select recipients of grants under this subsection on the basis of the following criteria:
 
-&emsp;&emsp;(A) The small public water system technology assistance center shall be located ina State that is representative of the needs of the region in which the State is located for addressing the drinking water needs of small and rural communities or Indian Tribes.
+&emsp;&emsp;(A) The small public water system technology assistance center shall be located in a State that is representative of the needs of the region in which the State is located for addressing the drinking water needs of small and rural communities or Indian Tribes.
 
 &emsp;&emsp;(B) The grant recipient shall be located in a region that has experienced problems, or may reasonably be foreseen to experience problems, with small and rural public water systems.
 

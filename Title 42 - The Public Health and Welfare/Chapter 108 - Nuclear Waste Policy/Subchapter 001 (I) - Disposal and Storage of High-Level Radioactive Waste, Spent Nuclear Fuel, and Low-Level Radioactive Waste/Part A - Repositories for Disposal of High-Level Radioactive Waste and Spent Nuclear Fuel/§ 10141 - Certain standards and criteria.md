@@ -28,7 +28,7 @@ The promulgation of standards or criteria in accordance with the provisions of t
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (b)(1)(A), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (b)(1)(A), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 The Energy Reorganization Act of 1974, referred to in subsec. (b)(1)(A), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
@@ -36,49 +36,49 @@ The Energy Reorganization Act of 1974, referred to in subsec. (b)(1)(A), is Pub.
 
 Pub. L. 102–486, title VIII, §801, Oct. 24, 1992, 106 Stat. 2921, provided that:
 
-“(a)
+"(a)
 
 Environmental Protection Agency Standards.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Promulgation.—Notwithstanding the provisions of section 121(a) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10141(a)), section 161 b. of the Atomic Energy Act of 1954 (42 U.S.C. 2201(b)), and any other authority of the Administrator of the Environmental Protection Agency to set generally applicable standards for the Yucca Mountain site, the Administrator shall, based upon and consistent with the findings and recommendations of the National Academy of Sciences, promulgate, by rule, public health and safety standards for protection of the public from releases from radioactive materials stored or disposed of in the repository at the Yucca Mountain site. Such standards shall prescribe the maximum annual effective dose equivalent to individual members of the public from releases to the accessible environment from radioactive materials stored or disposed of in the repository. The standards shall be promulgated not later than 1 year after the Administrator receives the findings and recommendations of the National Academy of Sciences under paragraph (2) and shall be the only such standards applicable to the Yucca Mountain site.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Study by national academy of sciences.—Within 90 days after the date of the enactment of this Act \[Oct. 24, 1992\], the Administrator shall contract with the National Academy of Sciences to conduct a study to provide, by not later than December 31, 1993, findings and recommendations on reasonable standards for protection of the public health and safety, including—
 
-&emsp;&emsp;“(A) whether a health-based standard based upon doses to individual members of the public from releases to the accessible environment (as that term is defined in the regulations contained in subpart B of part 191 of title 40, Code of Federal Regulations,as in effect on November 18, 1985) will provide a reasonable standard for protection of the health and safety of the general public;
+&emsp;&emsp;"(A) whether a health-based standard based upon doses to individual members of the public from releases to the accessible environment (as that term is defined in the regulations contained in subpart B of part 191 of title 40, Code of Federal Regulations, as in effect on November 18, 1985) will provide a reasonable standard for protection of the health and safety of the general public;
 
-&emsp;&emsp;“(B) whether it is reasonable to assume that a system for post-closure oversight of the repository can be developed, based upon active institutional controls, that will prevent an unreasonable risk of breaching the repository's engineered or geologic barriers or increasing the exposure of individual members of the public to radiation beyond allowable limits; and
+&emsp;&emsp;"(B) whether it is reasonable to assume that a system for post-closure oversight of the repository can be developed, based upon active institutional controls, that will prevent an unreasonable risk of breaching the repository's engineered or geologic barriers or increasing the exposure of individual members of the public to radiation beyond allowable limits; and
 
-&emsp;&emsp;“(C) whether it is possible to make scientifically supportable predictions of the probability that the repository's engineered or geologic barriers will be breached as a result of human intrusion over a period of 10,000 years.
+&emsp;&emsp;"(C) whether it is possible to make scientifically supportable predictions of the probability that the repository's engineered or geologic barriers will be breached as a result of human intrusion over a period of 10,000 years.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Applicability.—The provisions of this section shall apply to the Yucca Mountain site, rather than any other authority of the Administrator to set generally applicable standards for radiation protection.
 
-“(b)
+"(b)
 
 Nuclear Regulatory Commission Requirements and Criteria.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Modifications.—Not later than 1 year after the Administrator promulgates standards under subsection (a), the Nuclear Regulatory Commission shall, by rule, modify its technical requirements and criteria under section 121(b) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10141(b)), as necessary, to be consistent with the Administrator's standards promulgated under subsection (a).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Required assumptions.—The Commission's requirements and criteria shall assume, to the extent consistent with the findings and recommendations of the National Academy of Sciences, that, following repository closure, the inclusion of engineered barriers and the Secretary's post-closure oversight of the Yucca Mountain site, in accordance with subsection (c), shall be sufficient to—
 
-&emsp;&emsp;“(A) prevent any activity at the site that poses an unreasonable risk of breaching the repository's engineered or geologic barriers; and
+&emsp;&emsp;"(A) prevent any activity at the site that poses an unreasonable risk of breaching the repository's engineered or geologic barriers; and
 
-&emsp;&emsp;“(B) prevent any increase in the exposure of individual members of the public to radiation beyond allowable limits.
+&emsp;&emsp;"(B) prevent any increase in the exposure of individual members of the public to radiation beyond allowable limits.
 
-“(c)
+"(c)
 
 Post-Closure Oversight.—Following repository closure, the Secretary of Energy shall continue to oversee the Yucca Mountain site to prevent any activity at the site that poses an unreasonable risk of—
 
-&emsp;“(1) breaching the repository's engineered or geologic barriers; or
+&emsp;"(1) breaching the repository's engineered or geologic barriers; or
 
-&emsp;“(2) increasing the exposure of individual members of the public to radiation beyond allowable limits.”
+&emsp;"(2) increasing the exposure of individual members of the public to radiation beyond allowable limits."
 

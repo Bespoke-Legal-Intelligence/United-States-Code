@@ -60,7 +60,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (D) Existing indicators
 
-&emsp;&emsp;If a State has developed, prior to the date of enactment of the Carl D. Perkins Career and Technical Education Improvement Act of 2006 \[August 12, 2006\], State career and technical education performance measures that meet the requirements of this section (as amended by such Act), the State may use such performance measures to measure theprogress of career and technical education students.
+&emsp;&emsp;If a State has developed, prior to the date of enactment of the Carl D. Perkins Career and Technical Education Improvement Act of 2006 \[August 12, 2006\], State career and technical education performance measures that meet the requirements of this section (as amended by such Act), the State may use such performance measures to measure the progress of career and technical education students.
 
 #### (E) State role
 
@@ -102,7 +102,7 @@ The purpose of this section is to establish and support State and local performa
 
 &emsp;&emsp;&emsp;The agreement described in clause (iii) or (v) shall take into account—
 
-&emsp;&emsp;&emsp;&emsp;(I) how the levels of performance involved compare with the State adjusted levels of performance established for other States, taking into account factors including the characteristics of participants when the participants entered the program and the services or instruction to be provided; and
+&emsp;&emsp;&emsp;&emsp;(I) how the levels of performance involved compare with the State adjusted levels of performance established for other States, taking into account factorsincluding the characteristics of participants when the participants entered the program and the services or instruction to be provided; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the extent to which such levels of performance promote continuous improvement on the indicators of performance by such State.
 
@@ -122,7 +122,7 @@ The purpose of this section is to establish and support State and local performa
 
 &emsp;&emsp;&emsp;Each eligible recipient shall agree to accept the State adjusted levels of performance established under paragraph (3) as local adjusted levels of performances, or negotiate with the State to reach agreement on new local adjusted levels of performance, for each of the core indicators of performance described in subparagraphs (A) and (B) of paragraph (2) for career and technical education activities authorized under this subchapter. The levels of performance established under this subparagraph shall, at a minimum—
 
-&emsp;&emsp;&emsp;&emsp;(I) be expressed in a percentage or numerical form, consistent with the Statelevels of performance established under paragraph (3), so as to be objective, quantifiable, and measurable; and
+&emsp;&emsp;&emsp;&emsp;(I) be expressed in a percentage or numerical form, consistent with the State levels of performance established under paragraph (3), so as to be objective, quantifiable, and measurable; and
 
 &emsp;&emsp;&emsp;&emsp;(II) require the eligible recipient to continually make progress toward improving the performance of career and technical education students.
 
@@ -158,7 +158,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (i) Content of report
 
-&emsp;&emsp;&emsp;Each eligible recipient that receives an allocation described in section 2322 of this title shall annually prepare and submit to the eligible agency a report, which shall include the data described in clause (ii)(I), regarding the progress of such recipient in achieving the local adjusted levels of performance on the core indicators of performance.
+&emsp;&emsp;&emsp;Each eligible recipient that receives an allocation described in section 2322 of this title shall annually prepare and submit to the eligible agency a report, which shallinclude the data described in clause (ii)(I), regarding the progress of such recipient in achieving the local adjusted levels of performance on the core indicators of performance.
 
 #### (ii) Data
 

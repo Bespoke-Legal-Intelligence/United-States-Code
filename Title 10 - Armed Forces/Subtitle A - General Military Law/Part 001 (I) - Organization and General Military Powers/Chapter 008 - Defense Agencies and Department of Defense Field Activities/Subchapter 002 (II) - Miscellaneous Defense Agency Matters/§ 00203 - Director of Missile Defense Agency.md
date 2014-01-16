@@ -6,5 +6,5 @@ If an officer of the armed forces on active duty is appointed to the position of
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–314 substituted “Missile Defense Agency” for “Ballistic Missile Defense Organization” in section catchline and text.
+<b>2002</b>—Pub. L. 107–314 substituted "Missile Defense Agency" for "Ballistic Missile Defense Organization" in section catchline and text.
 

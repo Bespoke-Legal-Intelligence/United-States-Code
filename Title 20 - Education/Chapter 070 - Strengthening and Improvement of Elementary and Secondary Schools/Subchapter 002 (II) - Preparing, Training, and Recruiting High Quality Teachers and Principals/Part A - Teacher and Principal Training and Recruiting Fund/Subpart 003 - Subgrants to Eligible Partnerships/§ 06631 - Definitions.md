@@ -4,7 +4,7 @@ In this subpart:
 
 #### (1) Eligible partnership
 
-&emsp;The term “eligible partnership” means an entity that—
+&emsp;The term "eligible partnership" means an entity that—
 
 &emsp;&emsp;(A) shall include—
 
@@ -18,7 +18,7 @@ In this subpart:
 
 #### (2) Low-performing school
 
-&emsp;The term “low-performing school” means an elementary school or secondary school that is identified under section 6316 of this title.
+&emsp;The term "low-performing school" means an elementary school or secondary school that is identified under section 6316 of this title.
 
 (Pub. L. 89–10, title II, §2131, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1633.)
 

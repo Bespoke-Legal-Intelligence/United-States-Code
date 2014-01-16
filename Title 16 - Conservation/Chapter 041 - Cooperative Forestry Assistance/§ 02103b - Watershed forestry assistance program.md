@@ -2,7 +2,7 @@
 
 #### (a) Definition of nonindustrial private forest land
 
-In this section, the term “nonindustrial private forest land” means rural land, as determined by the Secretary, that—
+In this section, the term "nonindustrial private forest land" means rural land, as determined by the Secretary, that—
 
 &emsp;(1) has existing tree cover or that is suitable for growing trees; and
 
@@ -24,7 +24,7 @@ The Secretary, acting through the Chief of the Forest Service and (where appropr
 
 &emsp;&emsp;(A) to build and strengthen watershed partnerships that focus on forested landscapes at the State, regional, and local levels;
 
-&emsp;&emsp;(B) to provide State forestry best-management practices and water quality technicalassistance directly to owners of nonindustrial private forest land;
+&emsp;&emsp;(B) to provide State forestry best-management practices and water quality technical assistance directly to owners of nonindustrial private forest land;
 
 &emsp;&emsp;(C) to provide technical guidance to land managers and policymakers for water quality protection through forest management;
 
@@ -126,7 +126,7 @@ The Secretary, acting through the Chief of the Forest Service and (where appropr
 
 #### (1) In general
 
-&emsp;Participation of an owner of nonindustrial private forest land in the watershed forestryassistance program under this section is voluntary.
+&emsp;Participation of an owner of nonindustrial private forest land in the watershed forestry assistance program under this section is voluntary.
 
 #### (2) Written consent
 
@@ -150,7 +150,7 @@ A prior section 6 of Pub. L. 95–313 was renumbered section 9 and is classified
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–246, §7511(c)(35), substituted “the National Institute of Food and Agriculture, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or cooperative extension officials” for “the Cooperative State Research, Education, and Extension Service, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or Cooperative Extension officials”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §7511(c)(35), substituted "the National Institute of Food and Agriculture, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or cooperative extension officials" for "the Cooperative State Research, Education, and Extension Service, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or Cooperative Extension officials".
 
 #### Effective Date of 2008 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Center Authorized.—The Secretary of Defense may establish a center to be known as the “Center for Complex Operations” (in this section referred to as the “Center”).
+Center Authorized.—The Secretary of Defense may establish a center to be known as the "Center for Complex Operations" (in this section referred to as the "Center").
 
 (b)
 
@@ -20,13 +20,13 @@ Purposes.—The purposes of the Center established under subsection (a) shall be
 
 &emsp;&emsp;(D) domestic nongovernmental organizations.
 
-&emsp;(3) To conduct research; collect, analyze, and distribute lessons learned; and compile best practices in matters relating to complex operations.
+&emsp;(3) To conduct research; collect, analyze, and distribute lessons learned; and compile bestpractices in matters relating to complex operations.
 
 &emsp;(4) To identify gaps in the education and training of Department of Defense personnel, and other relevant United States Government personnel, relating to complex operations, and to facilitate efforts to fill such gaps.
 
 (c)
 
-Concurrence of the Secretary of State.—The Secretary of Defense shall seek theconcurrence of the Secretary of State to the extent the efforts and activities of the Center involve the entities referred to in subparagraphs (B) and (C) of subsection (b)(2).
+Concurrence of the Secretary of State.—The Secretary of Defense shall seek the concurrence of the Secretary of State to the extent the efforts and activities of the Center involve the entities referred to in subparagraphs (B) and (C) of subsection (b)(2).
 
 (d)
 
@@ -66,7 +66,7 @@ Crediting of Funds Transferred or Accepted.—Funds transferred to or accepted b
 
 Definitions.—In this section:
 
-&emsp;(1) The term “complex operation” means an operation as follows:
+&emsp;(1) The term "complex operation" means an operation as follows:
 
 &emsp;&emsp;(A) A stability operation.
 
@@ -78,7 +78,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(E) An operation consisting of irregular warfare.
 
-&emsp;(2) The term “gift or donation” means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
+&emsp;(2) The term "gift or donation" means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
 
 (Added Pub. L. 110–417, \[div. A\], title X, §1031(a), Oct. 14, 2008, 122 Stat. 4589.)
 

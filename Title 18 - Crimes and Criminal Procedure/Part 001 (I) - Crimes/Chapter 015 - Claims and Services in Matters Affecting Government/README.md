@@ -10,7 +10,7 @@
 | [289\.](%C2%A7%2000289%20-%20False%20claims%20for%20pensions.md) | False claims for pensions. |
 | [290\.](%C2%A7%2000290%20-%20Discharge%20papers%20withheld%20by%20claim%20agent.md) | Discharge papers withheld by claim agent. |
 | [291\.](%C2%A7%2000291%20-%20Purchase%20of%20claims%20for%20fees%20by%20court%20officials.md) | Purchase of claims for fees by court officials. |
-| [292\.](%C2%A7%2000292%20-%20Solicitation%20of%20employment%20and%20receipt%20of%20unapproved%20fees%20concerning%20Federal%20employees%E2%80%99%20compensation.md) | Solicitation of employment and receipt of unapproved fees concerning Federal employees’ compensation. |
+| [292\.](%C2%A7%2000292%20-%20Solicitation%20of%20employment%20and%20receipt%20of%20unapproved%20fees%20concerning%20Federal%20employees%27%20compensation.md) | Solicitation of employment and receipt of unapproved fees concerning Federal employees' compensation. |
 | \[293. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -19,13 +19,13 @@
 
 <b>2002</b>—Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, repealed amendment by Pub. L. 104–294, §602(d). See 1996 Amendment note below.
 
-<b>1996</b>—Pub. L. 104–106, div. D, title XLIII, §4304(c)(2), Feb. 10, 1996, 110 Stat. 664, struck out item 281 “Restrictions on retired military officers regarding certain matters affecting the Government”. Pub. L. 104–294, title VI, §602(d), Oct. 11, 1996, 110 Stat. 3503, which amended analysis identically, was repealed by Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, effective Oct. 11, 1996.
+<b>1996</b>—Pub. L. 104–106, div. D, title XLIII, §4304(c)(2), Feb. 10, 1996, 110 Stat. 664, struck out item 281 "Restrictions on retired military officers regarding certain matters affecting the Government". Pub. L. 104–294, title VI, §602(d), Oct. 11, 1996, 110 Stat. 3503, which amended analysis identically, was repealed by Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, effective Oct. 11, 1996.
 
-<b>1989</b>—Pub. L. 101–123, §3(a), Oct. 23, 1989, 103 Stat. 760, struck out item 293 “Limitation on Government contract costs”.
+<b>1989</b>—Pub. L. 101–123, §3(a), Oct. 23, 1989, 103 Stat. 760, struck out item 293 "Limitation on Government contract costs".
 
 <b>1988</b>—Pub. L. 100–700, §3(b), Nov. 19, 1988, 102 Stat. 4633, added item 293.
 
-<b>1987</b>—Pub. L. 100–180, div. A, title VIII, §822(b)(2), Dec. 4, 1987, 101 Stat. 1133, added item 281, struck out former item 281 “Compensation to Members of Congress, officers, and others in matters affecting Government”, item 282 “Practice in Court of Claims by Members of Congress”, item 283 “Officers or employees interested in claims against the Government”, and item 284 “Disqualification of former officers and employees in matters connected with former duties”.
+<b>1987</b>—Pub. L. 100–180, div. A, title VIII, §822(b)(2), Dec. 4, 1987, 101 Stat. 1133, added item 281, struck out former item 281 "Compensation to Members of Congress, officers, and others in matters affecting Government", item 282 "Practice in Court of Claims by Members of Congress", item 283 "Officers or employees interested in claims against the Government", and item 284 "Disqualification of former officers and employees in matters connected with former duties".
 
 <b>1966</b>—Pub. L. 89–554, §3(a), Sept. 6, 1966, 80 Stat. 608, added item 292.
 
@@ -45,5 +45,5 @@
 - [&sect; 00289 - False claims for pensions](%C2%A7%2000289%20-%20False%20claims%20for%20pensions.md)
 - [&sect; 00290 - Discharge papers withheld by claim agent](%C2%A7%2000290%20-%20Discharge%20papers%20withheld%20by%20claim%20agent.md)
 - [&sect; 00291 - Purchase of claims for fees by court officials](%C2%A7%2000291%20-%20Purchase%20of%20claims%20for%20fees%20by%20court%20officials.md)
-- [&sect; 00292 - Solicitation of employment and receipt of unapproved fees concerning Federal employees&#8217; compensation](%C2%A7%2000292%20-%20Solicitation%20of%20employment%20and%20receipt%20of%20unapproved%20fees%20concerning%20Federal%20employees%E2%80%99%20compensation.md)
+- [&sect; 00292 - Solicitation of employment and receipt of unapproved fees concerning Federal employees' compensation](%C2%A7%2000292%20-%20Solicitation%20of%20employment%20and%20receipt%20of%20unapproved%20fees%20concerning%20Federal%20employees%27%20compensation.md)
 - [&sect; 00293 - Repealed. Pub. L. 101&#8211;123, &sect;3(a), Oct. 23, 1989, 103 Stat. 760](%C2%A7%2000293%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93123%2C%20%C2%A73%28a%29%2C%20Oct.%2023%2C%201989%2C%20103%20Stat.%20760.md)

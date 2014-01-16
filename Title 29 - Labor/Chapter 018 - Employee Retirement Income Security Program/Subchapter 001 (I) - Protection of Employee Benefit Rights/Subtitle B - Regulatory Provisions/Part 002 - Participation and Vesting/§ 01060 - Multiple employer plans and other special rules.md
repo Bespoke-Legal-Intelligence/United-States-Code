@@ -38,7 +38,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible combined plan” means a plan—
+&emsp;&emsp;The term "eligible combined plan" means a plan—
 
 &emsp;&emsp;&emsp;(i) which is maintained by an employer which, at the time the plan is established, is a small employer,
 
@@ -48,7 +48,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 &emsp;&emsp;&emsp;(iv) with respect to which the benefit, contribution, vesting, and nondiscrimination requirements of subparagraphs (B), (C), (D), (E), and (F) are met.
 
-> &emsp;&emsp;For purposes of this subparagraph, the term “small employer” has the meaning given such term by section 4980D(d)(2) of title 26, except that such section shall be applied by substituting “500” for “50” each place it appears.
+> &emsp;&emsp;For purposes of this subparagraph, the term "small employer" has the meaning given such term by section 4980D(d)(2) of title 26, except that such section shall be applied by substituting "500" for "50" each place it appears.
 
 #### (B) Benefit requirements
 
@@ -202,31 +202,31 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (A) In general
 
-&emsp;&emsp;The term “applicable individual account plan” means an individual account plan which includes a qualified cash or deferred arrangement.
+&emsp;&emsp;The term "applicable individual account plan" means an individual account plan which includes a qualified cash or deferred arrangement.
 
 #### (B) Qualified cash or deferred arrangement
 
-&emsp;&emsp;The term “qualified cash or deferred arrangement” has the meaning given such term by section 401(k)(2) of title 26.
+&emsp;&emsp;The term "qualified cash or deferred arrangement" has the meaning given such term by section 401(k)(2) of title 26.
 
 (Pub. L. 93–406, title I, §210, Sept. 2, 1974, 88 Stat. 866; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(10), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 109–280, title IX, §903(b)(1), (2)(A), Aug. 17, 2006, 120 Stat. 1044, 1048; Pub. L. 110–458, title I, §109(c)(2), Dec. 23, 2008, 122 Stat. 5111.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(1), (2)(A)(iii), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (e)(1), (2)(A)(iii), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e)(1). Pub. L. 110–458, §109(c)(2)(A), inserted at end “In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.”
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–458, §109(c)(2)(A), inserted at end "In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately."
 
 Subsec. (e)(3) to (6). Pub. L. 110–458, §109(c)(2)(B), struck out par. (3) and redesignated pars. (4) to (6) as (3) to (5), respectively. Former par. (3) related to nondiscrimination requirements for qualified cash or deferred arrangement.
 
-<b>2006</b>—Pub. L. 109–280, §903(b)(2)(A), inserted “and other special rules” after “plans” in section catchline.
+<b>2006</b>—Pub. L. 109–280, §903(b)(2)(A), inserted "and other special rules" after "plans" in section catchline.
 
 Subsec. (e). Pub. L. 109–280, §903(b)(1), added subsec. (e).
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–239, §7894(c)(10), substituted “and (e)(3)(C) of such Code” for “and (e)(3)(C) of such code”, which for purposes of codification was translated as “and (e)(3)(C) of title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (c). Pub. L. 101–239, §7894(c)(10), substituted "and (e)(3)(C) of such Code" for "and (e)(3)(C) of such code", which for purposes of codification was translated as "and (e)(3)(C) of title 26" thus requiring no change in text.
 
-Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 #### Effective Date of 2008 Amendment
 
@@ -246,5 +246,5 @@ Amendment by section 7894(c)(10) of Pub. L. 101–239 effective, except as other
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "is".</i>
 

@@ -10,5 +10,5 @@ A prior section 308 of Pub. L. 92–532 was classified to section 1438 of this t
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–513 amended section catchline and text generally. Prior to amendment, text read as follows: “If any provision of this Act or the application thereof to any person or circumstances is held invalid, the validity of the remainder of this Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
+<b>2000</b>—Pub. L. 106–513 amended section catchline and text generally. Prior to amendment, text read as follows: "If any provision of this Act or the application thereof to any person or circumstances is held invalid, the validity of the remainder of this Act and of the application of such provision to other persons and circumstances shall not be affected thereby."
 

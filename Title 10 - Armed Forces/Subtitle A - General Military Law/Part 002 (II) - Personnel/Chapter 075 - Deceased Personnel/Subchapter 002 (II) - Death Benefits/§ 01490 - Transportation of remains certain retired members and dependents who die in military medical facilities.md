@@ -8,35 +8,35 @@
 
 (c)
 
-Definition of Dependent.—In this section, the term “dependent” has the meaning given such term in section 1072(2) of this title.
+Definition of Dependent.—In this section, the term "dependent" has the meaning given such term in section 1072(2) of this title.
 
-(Added Pub. L. 98–94, title X, §1032(a)(1), Sept. 24, 1983, 97 Stat. 671; amended Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 102–190, div. A, title VI, §626(a), (b)(1), Dec. 5, 1991, 105 Stat. 1379, 1380; Pub. L. 108–136, div. A, title V, §562(a), (b), Nov. 24, 2003, 117 Stat. 1483.)
+(Added Pub. L. 98–94, title X, §1032(a)(1), Sept. 24, 1983, 97 Stat. 671; amended Pub. L. 100–26,§7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 102–190, div. A, title VI, §626(a), (b)(1), Dec. 5, 1991, 105 Stat. 1379, 1380; Pub. L. 108–136, div. A, title V, §562(a), (b), Nov. 24, 2003, 117 Stat. 1483.)
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136, §562(a)(1), struck out “located in the United States” after “armed forces”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §562(a)(1), struck out "located in the United States" after "armed forces".
 
-Subsec. (b)(1). Pub. L. 108–136, §562(a)(2), struck out “outside the United States or to a place” before “further”.
+Subsec. (b)(1). Pub. L. 108–136, §562(a)(2), struck out "outside the United States or to a place" before "further".
 
-Subsec. (c). Pub. L. 108–136, §562(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In this section:
+Subsec. (c). Pub. L. 108–136, §562(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "In this section:
 
-&emsp;“(1) The term ‘United States’ includes the Commonwealth of Puerto Rico and the territories and possessions of the United States.
+&emsp;"(1) The term 'United States' includes the Commonwealth of Puerto Rico and the territories and possessions of the United States.
 
-&emsp;“(2) The term ‘dependent’ has the meaning given such term in section 1072(2) of this title.”
+&emsp;"(2) The term 'dependent' has the meaning given such term in section 1072(2) of this title."
 
-<b>1991</b>—Pub. L. 102–190, §626(b)(1), amended section catchline generally. Prior to amendment, section catchline read as follows: “Transportation of remains of members entitled to retired or retainer pay who die in a military medical facility”.
+<b>1991</b>—Pub. L. 102–190, §626(b)(1), amended section catchline generally. Prior to amendment, section catchline read as follows: "Transportation of remains of members entitled to retired or retainer pay who die in a military medical facility".
 
-Subsec. (a). Pub. L. 102–190, §626(a)(1), inserted “, or a dependent of such a member,” after “equivalent pay”.
+Subsec. (a). Pub. L. 102–190, §626(a)(1), inserted ", or a dependent of such a member," after "equivalent pay".
 
-Subsec. (c). Pub. L. 102–190, §626(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “In this section, the term ‘United States’ includes the Commonwealth of Puerto Rico and the territories and possessions of the United States.”
+Subsec. (c). Pub. L. 102–190, §626(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: "In this section, the term 'United States' includes the Commonwealth of Puerto Rico and the territories and possessions of the United States."
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–26 inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–26 inserted "the term" after "In this section,".
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title V, §562(c), Nov. 24, 2003, 117 Stat. 1483, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to persons dying on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
+Pub. L. 108–136, div. A, title V, §562(c), Nov. 24, 2003, 117 Stat. 1483, provided that: "The amendments made by this section \[amending this section\] shall apply only with respect to persons dying on or after the date of the enactment of this Act \[Nov. 24, 2003\]."
 
 #### Effective Date
 
-Pub. L. 98–94, title X, §1032(b), Sept. 24, 1983, 97 Stat. 672, provided that: “Section 1490 of title 10, United States Code, as added by subsection (a), shall apply with respect to the transportation of the remains of persons dying after September 30, 1983.”
+Pub. L. 98–94, title X, §1032(b), Sept. 24, 1983, 97 Stat. 672, provided that: "Section 1490 of title 10, United States Code, as added by subsection (a), shall apply with respect to the transportation of the remains of persons dying after September 30, 1983."
 

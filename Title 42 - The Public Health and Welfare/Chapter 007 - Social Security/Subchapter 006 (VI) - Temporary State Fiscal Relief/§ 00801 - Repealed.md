@@ -8,19 +8,19 @@ Prior sections 801 to 805 were repealed by Pub. L. 93–647, §§3(b), 7(b), Jan
 
 Section 801, act Aug. 14, 1935, ch. 531, title VI, §601, as added Oct. 30, 1972, Pub. L. 92–603, title III, §302, 86 Stat. 1478, authorized appropriations for encouraging States to furnish rehabilitation to needy individuals 65 years of age or older, and the blind or disabled.
 
-Another prior section 801, acts Aug. 14, 1935, ch. 531, title VI, §601, 49 Stat. 634; Aug. 10, 1939, ch. 666, title V, §509, 53 Stat. 1381, which provided appropriations for the purpose of assisting States and subdivisions in maintaining adequate public health services, was repealed by act July 1, 1944, ch. 373, title XIII, §1313, 58 Stat. 714. See section 246 of this title.
+Another prior section 801, acts Aug. 14, 1935, ch. 531, title VI, §601, 49 Stat. 634; Aug. 10, 1939, ch. 666, title V, §509, 53 Stat. 1381, which provided appropriations for the purpose of assisting States and subdivisions in maintaining adequate public health services, was repealed by act July 1, 1944, ch. 373, title XIII, §1313, formerly title VI, §611, 58 Stat. 719. See section 246 of this title.
 
 Section 802, act Aug. 14, 1935, ch. 531, title VI, §602, as added Oct. 30, 1972, Pub. L. 92–603, title III, §302, 86 Stat. 1479, set out the necessary provisions for State plans for services to the aged, blind, or disabled.
 
-Another prior section 802, act Aug. 14, 1935, ch. 531, title VI, §602, 49 Stat. 634, which provided for allotments to States by Surgeon General, was repealed by act July 1, 1944, ch. 373, title XIII, §1313, 58 Stat. 714. See section 246 of this title.
+Another prior section 802, act Aug. 14, 1935, ch. 531, title VI, §602, 49 Stat. 634, which provided for allotments to States by Surgeon General, was repealed by act July 1, 1944, ch. 373, title XIII, §1313, formerly title VI, §611, 58 Stat. 719. See section 246 of this title.
 
 Section 803, act Aug. 14, 1935, ch. 531, title VI, §603, as added Oct. 30, 1972, Pub. L. 92–603, title III, §302, 86 Stat. 1481, provided for payments to States under approved plans for services to the aged, blind, or disabled.
 
-Another prior section 803, act Aug. 14, 1935, ch. 531, title VI, §603, 49 Stat. 635, which provided for allotments to States by appropriations for investigation of diseases by Public Health Service, was repealed by act July 1, 1944, ch. 373, title XIII, §1313, 58 Stat. 714. See section 246 of this title.
+Another prior section 803, act Aug. 14, 1935, ch. 531, title VI, §603, 49 Stat. 635, which provided for allotments to States by appropriations for investigation of diseases by Public Health Service, was repealed by act July 1, 1944, ch. 373, title XIII, §1313, formerly title VI, §611, 58 Stat. 719. See section 246 of this title.
 
 Section 804, act Aug. 14, 1935, ch. 531, title VI, §604, as added Oct. 30, 1972, Pub. L. 92–603, title III, §302, 86 Stat. 1484, provided for notification to States and termination of payments in case of noncompliance with laws or State plan.
 
-Section 805, act Aug. 14, 1935, ch. 531, title VI, §605, as added Oct. 30, 1972, Pub. L. 92–603, title III, §302, 86 Stat. 1484, defined “services to the aged, blind or disabled”.
+Section 805, act Aug. 14, 1935, ch. 531, title VI, §605, as added Oct. 30, 1972, Pub. L. 92–603, title III, §302, 86 Stat. 1484, defined "services to the aged, blind or disabled".
 
 #### Effective Date of Repeal
 
@@ -28,5 +28,5 @@ Repeal effective Oct. 1, 2004, see section 601(g) of act Aug. 14, 1935, as added
 
 #### Renumbering of Repealing Act
 
-Act July 1, 1944, ch. 373, title VI, §611, 58 Stat. 719, which repealed prior sections 801 to 803, was renumbered title VII, §711, by act Aug. 13, 1946, ch. 958, §5, 60 Stat. 1049; renumbered §713 by act Feb. 28, 1948, ch. 83, §9(b), 62 Stat. 47; renumbered title VIII, §813, by act July 30, 1956, ch. 779, §3(b), 70 Stat. 720; renumbered title IX, §913, by Pub. L. 88–581, §4(b), Sept. 4, 1964, 78 Stat. 919; renumbered title X, §1013, by Pub. L. 89–239, §3(b), Oct. 6, 1965, 79 Stat. 931; renumbered title XI, §1113, by Pub. L. 91–572, §6(b), Dec. 24, 1970, 84 Stat. 1506; renumbered title XII, §1213, by Pub. L. 92–294. §3(b), May 16, 1972, 86 Stat. 137; renumbered title XIII, §1313, by Pub. L. 93–154, §2(b)(2), Nov. 16, 1973, 87 Stat. 604, and repealed by Pub. L. 93–222, §7(b), Dec. 29, 1973, 87 Stat. 936.
+Act July 1, 1944, ch. 373, title VI, §611, 58 Stat. 719, which repealed prior sections 801 to 803, was renumbered title VII, §711, by act Aug. 13, 1946, ch. 958, §5, 60 Stat. 1049; renumbered §713 by act Feb. 28, 1948, ch. 83, §9(b), 62 Stat. 47; renumbered title VIII, §813, by act July 30, 1956, ch. 779, §3(b), 70 Stat. 721; renumbered title IX, §913, by Pub. L. 88–581, §4(b), Sept. 4, 1964, 78 Stat. 919; renumbered title X, §1013, by Pub. L. 89–239, §3(b), Oct. 6, 1965, 79 Stat. 931; renumbered title XI, §1113, by Pub. L. 91–572, §6(b), Dec. 24, 1970, 84 Stat. 1506; renumbered title XII, §1213, by Pub. L. 92–294. §3(b), May 16, 1972, 86 Stat. 137; renumbered title XIII, §1313, by Pub. L. 93–154, §2(b)(2), Nov. 16, 1973, 87 Stat. 604, and repealed by Pub. L. 93–222, §7(b), Dec. 29, 1973, 87 Stat. 936.
 

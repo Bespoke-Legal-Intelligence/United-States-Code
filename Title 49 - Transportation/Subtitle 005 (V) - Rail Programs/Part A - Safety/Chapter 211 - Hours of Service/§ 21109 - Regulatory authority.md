@@ -54,7 +54,7 @@ Waiver.—The Secretary may temporarily waive the requirements of this section, 
 
 (f)
 
-Duty Call Defined.—In this section the term “duty call” means a telephone call that a railroad places to an employee to notify the employee of his or her assigned shift time.
+Duty Call Defined.—In this section the term "duty call" means a telephone call that a railroad places to an employee to notify the employee of his or her assigned shift time.
 
 (Added Pub. L. 110–432, div. A, title I, §108(e)(1), Oct. 16, 2008, 122 Stat. 4864.)
 

@@ -14,7 +14,7 @@ If—
 
 #### (b) Oversheltered return
 
-For purposes of this section, the term “oversheltered return” means an income tax return which—
+For purposes of this section, the term "oversheltered return" means an income tax return which—
 
 &emsp;(1) shows no taxable income for the taxable year, and
 
@@ -66,7 +66,7 @@ If the Secretary mails a notice of adjustment to the taxpayer for a taxable year
 
 #### (1) In general
 
-&emsp;The treatment of any item that has been determined pursuant to subsection (c) or (d) shall be taken into account in determining the amount of any computational adjustment that is made in connection with a partnership proceeding under this subchapter (other than under this section), or the amount of any deficiency attributable to affected items in a proceeding under section 6230(a)(2), for the taxable year involved. Notwithstanding any other law or rule of law pertaining to the period of limitations on the making of assessments, for purposes of the preceding sentence, any adjustment made in accordance with this section shall be taken into account regardless of whether any assessment has been made with respect to such adjustment.
+&emsp;The treatment of any item that has been determined pursuant to subsection (c) or (d) shall be taken into account in determining the amount of any computational adjustment thatis made in connection with a partnership proceeding under this subchapter (other than under this section), or the amount of any deficiency attributable to affected items in a proceeding under section 6230(a)(2), for the taxable year involved. Notwithstanding any other law or rule of law pertaining to the period of limitations on the making of assessments, for purposes of the preceding sentence, any adjustment made in accordance with this section shall be taken into account regardless of whether any assessment has been made with respect to such adjustment.
 
 #### (2) Special rule in case of computational adjustment
 
@@ -110,7 +110,7 @@ If the Secretary mails a notice of adjustment to the taxpayer for a taxable year
 
 #### Amendments
 
-<b>2002</b>—Subsec. (g)(4)(A). Pub. L. 107–147 inserted “or the Attorney General (or his delegate)” after “Secretary”.
+<b>2002</b>—Subsec. (g)(4)(A). Pub. L. 107–147 inserted "or the Attorney General (or his delegate)" after "Secretary".
 
 #### Effective Date of 2002 Amendment
 

@@ -24,7 +24,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (C) State flexibility
 
-&emsp;&emsp;A State that provides early intervention services in accordance with subchapter III to a child who is eligible for services under section 1419 of this title, is not required to provide such child with a free appropriate public education.
+&emsp;&emsp;A State that provides early intervention services in accordance with subchapter III toa child who is eligible for services under section 1419 of this title, is not required to provide such child with a free appropriate public education.
 
 #### (2) Full educational opportunity goal
 
@@ -88,7 +88,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To the extent consistent with the number and location of children with disabilities in the State who are enrolled by their parents in private elementary schools and secondary schools in the school district served by a local educational agency, provision is made for the participation of those children in the program assisted or carried out under this subchapter by providing for such children special education and related services in accordance with the following requirements, unless the Secretary has arranged for services to those children under subsection (f):
+&emsp;&emsp;&emsp;To the extent consistent with the number and location of children with disabilities in the State who are enrolled by their parents in private elementary schools and secondary schools in the school district served by a local educational agency, provision is made for the participation of those children in the program assisted or carried out under this subchapter by providing for such children special education and related services in accordance with the following requirements, unless theSecretary has arranged for services to those children under subsection (f):
 
 &emsp;&emsp;&emsp;&emsp;(I) Amounts to be expended for the provision of those services (including direct services to parentally placed private school children) by the local educational agency shall be equal to a proportionate amount of Federal funds made available under this subchapter.
 
@@ -138,7 +138,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (iv) Written affirmation
 
-&emsp;&emsp;&emsp;When timely and meaningful consultation as required by clause (iii) has occurred, the local educational agency shall obtain a written affirmation signed by the representatives of participating private schools, and if such representatives do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation of the consultation process to the State educational agency.
+&emsp;&emsp;&emsp;When timely and meaningful consultation as required by clause (iii) has occurred, the local educational agency shall obtain a written affirmation signed by the representatives of participating private schools, and if such representatives do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation ofthe consultation process to the State educational agency.
 
 #### (v) Compliance
 
@@ -198,7 +198,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) 10 business days (including any holidays that occur on a business day) prior to the removal of the child from the public school, the parents did not give written notice to the public agency of the information described in item (aa);
 
-&emsp;&emsp;&emsp;&emsp;(II) if, prior to the parents’ removal of the child from the public school, the public agency informed the parents, through the notice requirements described in section 1415(b)(3) of this title, of its intent to evaluate the child (including a statement of the purpose of the evaluation that was appropriate and reasonable), but the parents did not make the child available for such evaluation; or
+&emsp;&emsp;&emsp;&emsp;(II) if, prior to the parents' removal of the child from the public school, the public agency informed the parents,through the notice requirements described in section 1415(b)(3) of this title, of its intent to evaluate the child (including a statement of the purpose of the evaluation that was appropriate and reasonable), but the parents did not make the child available for such evaluation; or
 
 &emsp;&emsp;&emsp;&emsp;(III) upon a judicial finding of unreasonableness with respect to actions taken by the parents.
 
@@ -270,7 +270,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any public agency other than an educational agency is otherwise obligated under Federal or State law, or assigned responsibility under State policy pursuant to subparagraph (A), to provide or pay for any services that are also considered special education or related services (such as, but not limited to, services described in section 1401(1) relating to assistive technology devices, 1401(2) relating to assistive technology services, 1401(26) relating to related services, 1401(33) relating to supplementary aids and services, and 1401(34) of this title relating to transition services) that are necessary for ensuring a free appropriate public education to children with disabilities within the State, such public agency shall fulfill that obligation or responsibility, either directly orthrough contract or other arrangement pursuant to subparagraph (A) or an agreement pursuant to subparagraph (C).
+&emsp;&emsp;&emsp;If any public agency other than an educational agency is otherwise obligated under Federal or State law, or assigned responsibility under State policy pursuant to subparagraph (A), to provide or pay for any services that are also considered special education or related services (such as, but not limited to, services described in section 1401(1) relating to assistive technology devices, 1401(2) relating to assistive technology services, 1401(26) relating to related services, 1401(33) relating to supplementary aids and services, and 1401(34) of this title relating to transition services) that are necessary for ensuring a free appropriate public education to children with disabilities within the State, such public agency shall fulfill that obligation or responsibility, either directly or through contract or other arrangement pursuant to subparagraph (A) or an agreement pursuant to subparagraph (C).
 
 #### (ii) Reimbursement for services by public agency
 
@@ -398,11 +398,11 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) In general
 
-&emsp;&emsp;The State does not reduce the amount of State financial support for special education and related services for children with disabilities, or otherwise made available because of the excess costs of educating those children, below the amount of that support for the preceding fiscal year.
+&emsp;&emsp;The State does not reduce the amount of State financial support for special educationand related services for children with disabilities, or otherwise made available because of the excess costs of educating those children, below the amount of that support for the preceding fiscal year.
 
 #### (B) Reduction of funds for failure to maintain support
 
-&emsp;&emsp;The Secretary shall reduce the allocation of funds under section 1411 of this title for any fiscal year following the fiscal year inwhich the State fails to comply with the requirement of subparagraph (A) by the same amount by which the State fails to meet the requirement.
+&emsp;&emsp;The Secretary shall reduce the allocation of funds under section 1411 of this title for any fiscal year following the fiscal year in which the State fails to comply with the requirement of subparagraph (A) by the same amount by which the State fails to meet the requirement.
 
 #### (C) Waivers for exceptional or uncontrollable circumstances
 
@@ -486,7 +486,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Review and revision of policies
 
-&emsp;&emsp;If such discrepancies are occurring, the State educational agency reviews and, if appropriate, revises (or requires the affected State or local educational agency to revise) its policies, procedures, and practices relating to the development and implementationof IEPs, the use of positive behavioral interventions and supports, and procedural safeguards, to ensure that such policies, procedures, and practices comply with this chapter.
+&emsp;&emsp;If such discrepancies are occurring, the State educational agency reviews and, if appropriate, revises (or requires the affected State or local educational agency to revise) its policies, procedures, and practices relating to the development and implementation of IEPs, the use of positive behavioral interventions and supports, and procedural safeguards, to ensure that such policies, procedures, and practices comply with this chapter.
 
 #### (23) Access to instructional materials
 
@@ -516,15 +516,15 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) National Instructional Materials Access Center
 
-&emsp;&emsp;&emsp;The term “National Instructional Materials Access Center” means the center established pursuant to section 1474(e) of this title.
+&emsp;&emsp;&emsp;The term "National Instructional Materials Access Center" means the center established pursuant to section 1474(e) of this title.
 
 #### (ii) National Instructional Materials Accessibility Standard
 
-&emsp;&emsp;&emsp;The term “National Instructional Materials Accessibility Standard” has the meaning given the term in section 1474(e)(3)(A) of this title.
+&emsp;&emsp;&emsp;The term "National Instructional Materials Accessibility Standard" has the meaning given the term in section 1474(e)(3)(A) of this title.
 
 #### (iii) Specialized formats
 
-&emsp;&emsp;&emsp;The term “specialized formats” has the meaning given the term in section 1474(e)(3)(D) of this title.
+&emsp;&emsp;&emsp;The term "specialized formats" has the meaning given the term in section 1474(e)(3)(D) of this title.
 
 #### (24) Overidentification and disproportionality
 
@@ -616,7 +616,7 @@ Nothing in this chapter permits a State to reduce medical and other assistance a
 
 #### (C) Review of findings of fact
 
-&emsp;&emsp;The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
+&emsp;&emsp;The findings of fact by the Secretary, if supported by substantial evidence, shall beconclusive, but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
 #### (D) Jurisdiction of court of appeals; review by United States Supreme Court
 

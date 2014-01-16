@@ -42,7 +42,7 @@ Section was enacted as part of the Conservation Program Improvements Act, and al
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237, §1006(d)(1), inserted closing parenthesis after “section 136a(d)(1)(C) of this title”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237, §1006(d)(1), inserted closing parenthesis after "section 136a(d)(1)(C) of this title".
 
-Subsec. (d)(1). Pub. L. 102–237, §1006(d)(2), inserted “of” after “fine”.
+Subsec. (d)(1). Pub. L. 102–237, §1006(d)(2), inserted "of" after "fine".
 

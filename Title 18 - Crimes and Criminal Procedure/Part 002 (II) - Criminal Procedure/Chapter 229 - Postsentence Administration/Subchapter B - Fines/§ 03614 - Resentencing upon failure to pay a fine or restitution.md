@@ -2,7 +2,7 @@
 
 (a)
 
-Resentencing.—Subject to the provisions of subsection (b), if a defendant knowingly fails to pay a delinquent fine or restitution the court may resentence the defendant to any sentence which might originally have been imposed.
+Resentencing.—Subject to the provisions of subsection (b), if a defendant knowingly fails to pay a delinquent fine or restitution the courtmay resentence the defendant to any sentence which might originally have been imposed.
 
 (b)
 
@@ -24,9 +24,9 @@ For a prior section 3614, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–232, §207(c)(5)(A), inserted “or restitution” after “fine” in section catchline.
+<b>1996</b>—Pub. L. 104–232, §207(c)(5)(A), inserted "or restitution" after "fine" in section catchline.
 
-Subsec. (a). Pub. L. 104–232, §207(c)(5)(B), inserted “or restitution” after “fine”.
+Subsec. (a). Pub. L. 104–232, §207(c)(5)(B), inserted "or restitution" after "fine".
 
 Subsec. (c). Pub. L. 104–232, §207(c)(5)(C), added subsec. (c).
 

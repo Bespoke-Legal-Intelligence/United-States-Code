@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State is a qualifying State if the Secretary of Agriculture (hereinafter in this chapter referred to as the “Secretary”) determines that the State has in effect a mediation program that meets the requirements of subsection (c) of this section.
+A State is a qualifying State if the Secretary of Agriculture (hereinafter in this chapter referred to as the "Secretary") determines that the State has in effect a mediation program that meets the requirements of subsection (c) of this section.
 
 #### (b) Determination by Secretary
 
@@ -74,7 +74,7 @@ Within 15 days after the Secretary receives from the Governor of a State a descr
 
 #### (d) Definition of mediation services
 
-In this section, the term “mediation services”, with respect to mediation or a request for mediation, may include all activities related to—
+In this section, the term "mediation services", with respect to mediation or a request for mediation, may include all activities related to—
 
 &emsp;(1) the intake and scheduling of cases;
 
@@ -96,23 +96,23 @@ This Act, referred to in subsec. (c)(2)(B)(i), is Pub. L. 100–233, Jan. 6, 198
 
 Subsec. (d). Pub. L. 106–472, §306(a)(2), added subsec. (d).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–354, §282(a)(1), substituted “a mediation program” for “an agricultural loan mediation program”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–354, §282(a)(1), substituted "a mediation program" for "an agricultural loan mediation program".
 
-Subsec. (b). Pub. L. 103–354, §282(a)(2), struck out “agricultural loan” before “mediation program”.
+Subsec. (b). Pub. L. 103–354, §282(a)(2), struck out "agricultural loan" before "mediation program".
 
-Subsec. (c). Pub. L. 103–354, §282(a)(3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Within 15 days after the Secretary receives a description of a State agricultural loan mediation program, the Secretary shall certify the State as a qualifying State if the State program—
+Subsec. (c). Pub. L. 103–354, §282(a)(3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "Within 15 days after the Secretary receives a description of a State agricultural loan mediation program, the Secretary shall certify the State as a qualifying State if the State program—
 
-&emsp;“(1) provides for mediation services to be provided to producers, and their creditors, that, if decisions are reached, result in mediated, mutually agreeable decisions between parties under an agricultural loan mediation program;
+&emsp;"(1) provides for mediation services to be provided to producers, and their creditors, that, if decisions are reached, result in mediated, mutually agreeable decisions between parties under an agricultural loan mediation program;
 
-&emsp;“(2) is authorized or administered by an agency of the State government or by the Governor of the State;
+&emsp;"(2) is authorized or administered by an agency of the State government or by the Governor of the State;
 
-&emsp;“(3) provides for the training of mediators;
+&emsp;"(3) provides for the training of mediators;
 
-&emsp;“(4) provides that the mediation sessions shall be confidential; and
+&emsp;"(4) provides that the mediation sessions shall be confidential; and
 
-&emsp;“(5) ensures that all lenders and borrowers of agricultural loans receive adequate notification of the mediation program.”
+&emsp;"(5) ensures that all lenders and borrowers of agricultural loans receive adequate notification of the mediation program."
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–399 struck out comma after “Governor of a State”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–399 struck out comma after "Governor of a State".
 
 #### Effective Date of 1988 Amendment
 
@@ -120,5 +120,5 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–233, §1, Aug. 16, 2010, 124 Stat. 2493, provided that: “This Act \[amending section 5106 of this title\] may be cited as the ‘Agricultural Credit Act of 2010’.”
+Pub. L. 111–233, §1, Aug. 16, 2010, 124 Stat. 2493, provided that: "This Act \[amending section 5106 of this title\] may be cited as the 'Agricultural Credit Act of 2010'."
 

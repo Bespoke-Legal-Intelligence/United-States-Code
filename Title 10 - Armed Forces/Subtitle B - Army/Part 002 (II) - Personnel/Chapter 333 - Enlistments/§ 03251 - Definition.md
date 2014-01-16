@@ -1,6 +1,6 @@
 ### §3251. Definition
 
-In this chapter, the term “enlistment” means original enlistment or reenlistment.
+In this chapter, the term "enlistment" means original enlistment or reenlistment.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 177; Pub. L. 100–180, div. A, title XII, §1231(19)(A), Dec. 4, 1987, 101 Stat. 1161.)
 
@@ -22,5 +22,5 @@ The revised section is inserted for clarity.
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–180 inserted “, the term” after “In this chapter”.
+<b>1987</b>—Pub. L. 100–180 inserted ", the term" after "In this chapter".
 

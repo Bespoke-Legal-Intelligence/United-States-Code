@@ -8,17 +8,17 @@ Whenever the United States Court of Federal Claims finds that any loss by a disb
 
 Based on title 28, U.S.C., 1940 ed., §253 (Mar. 3, 1911, ch. 231, §147, 36 Stat. 1137; June 10, 1921, ch. 18, §304, 42 Stat. 24).
 
-Words “paymaster, quartermaster, commissary of subsistence, or other” were omitted as covered by words “disbursing officer of the United States”. (See reviser's note under section 1496 of this title.)
+Words "paymaster, quartermaster, commissary of subsistence, or other" were omitted as covered by words "disbursing officer of the United States". (See reviser's note under section 1496 of this title.)
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims".
 
 #### Effective Date of 1992 Amendment
 

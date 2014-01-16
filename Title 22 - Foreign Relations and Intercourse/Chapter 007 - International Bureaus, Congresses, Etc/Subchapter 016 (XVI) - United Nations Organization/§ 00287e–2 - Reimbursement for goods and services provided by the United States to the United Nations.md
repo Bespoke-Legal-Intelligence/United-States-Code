@@ -68,7 +68,7 @@ Subsection (a) of this section applies to assistance provided under the followin
 
 #### (A) In general
 
-&emsp;&emsp;The President may authorize the furnishing of assistance covered by this section without regard to subsection (a) of this section if the President determines, and so notifies in writing the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives, that to do so is important to the security interests of the United States.
+&emsp;&emsp;The President may authorize the furnishing of assistance covered by this section without regard to subsection (a) of this section if the President determines, and so notifies in writing the Committee on ForeignRelations of the Senate and the Speaker of the House of Representatives, that to do so is important to the security interests of the United States.
 
 #### (B) Congressional notification
 
@@ -88,7 +88,7 @@ Nothing in this section shall preclude the President from seeking reimbursement 
 
 #### (f) Definition
 
-In this section, the term “assistance” includes personnel, services, supplies, equipment, facilities, and other assistance if such assistance is provided by the Department of Defense or any other United States Government agency.
+In this section, the term "assistance" includes personnel, services, supplies, equipment, facilities, and other assistance if such assistance is provided by the Department of Defense or any other United States Government agency.
 
 (Dec. 20, 1945, ch. 583, §10, as added Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §723\], Nov. 29, 1999, 113 Stat. 1536, 1501A–463.)
 

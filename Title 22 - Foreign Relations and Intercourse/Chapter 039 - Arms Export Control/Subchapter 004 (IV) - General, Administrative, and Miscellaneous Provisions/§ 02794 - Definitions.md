@@ -2,15 +2,15 @@
 
 For purposes of this chapter, the term—
 
-&emsp;(1) “excess defense article” has the meaning provided by section 2403(g) of this title;
+&emsp;(1) "excess defense article" has the meaning provided by section 2403(g) of this title;
 
-&emsp;(2) “value” means, in the case of an excess defense article, except as otherwise provided in section 2761(a) of this title,,<sup>1</sup> not less than the greater of—
+&emsp;(2) "value" means, in the case of an excess defense article, except as otherwise provided in section 2761(a) of this title,,<sup>1</sup> not less than the greater of—
 
 &emsp;&emsp;(A) the gross cost incurred by the United States Government in repairing, rehabilitating, or modifying such article, plus the scrap value; or
 
 &emsp;&emsp;(B) the market value, if ascertainable;
 
-&emsp;(3) “defense article”, except as provided in paragraph (7) of this section, includes—
+&emsp;(3) "defense article", except as provided in paragraph (7) of this section, includes—
 
 &emsp;&emsp;(A) any weapon, weapons system, munition, aircraft, vessel, boat, or other implement of war,
 
@@ -22,33 +22,33 @@ For purposes of this chapter, the term—
 
 > &emsp;but does not include merchant vessels or (as defined by the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\]) source material (except uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity), byproduct material, special nuclear material, production facilities, utilization facilities, or atomic weapons or articles involving Restricted Data;
 
-&emsp;(4) “defense service”, except as provided in paragraph (7) of this section, includes any service, test, inspection, repair, training, publication, technical or other assistance, or defense information (as defined in section 2403(e) of this title), used for the purposes of making military sales, but does not include design and construction services under section 2769 of this title;
+&emsp;(4) "defense service", except as provided in paragraph (7) of this section, includes any service, test, inspection, repair, training, publication, technical or other assistance, or defense information (as defined in section 2403(e) of this title), used for the purposes of making military sales, but does not include design and construction services under section 2769 of this title;
 
-&emsp;(5) “training” includes formal or informal instruction of foreign students in the United States or overseas by officers or employees of the United States, contract technicians, or contractors (including instruction at civilian institutions), or by correspondence courses, technical, educational, or information publications and media of all kinds, training aid, orientation, training exercise, and military advice to foreign military units and forces;
+&emsp;(5) "training" includes formal or informal instruction of foreign students in the United States or overseas by officers or employees of the United States, contract technicians, or contractors (including instruction at civilian institutions), or by correspondence courses, technical, educational, or information publications and media of all kinds, training aid, orientation, training exercise, and military advice to foreign military units and forces;
 
-&emsp;(6) “major defense equipment” means any item of significant military equipment on the United States Munitions List having a nonrecurring research and development cost of more than $50,000,000 or a total production cost of more than $200,000,000;
+&emsp;(6) "major defense equipment" means any item of significant military equipment on the United States Munitions List having a nonrecurring research and development cost of more than $50,000,000 or a total production cost of more than $200,000,000;
 
-&emsp;(7) “defense articles and defense services” means, with respect to commercial exports subject to the provisions of section 2778 of this title, those items designated by the President pursuant to subsection (a)(1) of such section;
+&emsp;(7) "defense articles and defense services" means, with respect to commercial exports subject to the provisions of section 2778 of this title, those items designated by the President pursuant to subsection (a)(1) of such section;
 
-&emsp;(8) “design and construction services” means, with respect to sales under section 2769 of this title, the design and construction of real property facilities, including necessary construction equipment and materials, engineering services, construction contract management services relating thereto, and technical advisory assistance in the operation and maintenance of real property facilities provided or performed by any department or agency of the Department of Defense or by a contractor pursuant to a contract with such department or agency;
+&emsp;(8) "design and construction services" means, with respect to sales under section 2769 of this title, the design and construction of real property facilities, including necessary construction equipment and materials, engineering services, construction contract management services relating thereto, and technical advisory assistance in the operation and maintenance of real property facilities provided or performed by any department or agency of the Department of Defense or by a contractor pursuant to a contract with such department or agency;
 
-&emsp;(9) “significant military equipment” means articles—
+&emsp;(9) "significant military equipment" means articles—
 
 &emsp;&emsp;(A) for which special export controls are warranted because of the capacity of such articles for substantial military utility or capability; and
 
 &emsp;&emsp;(B) identified on the United States Munitions List;
 
-&emsp;(10) “weapons of mass destruction” has the meaning provided by section 2302(1) of title 50; and
+&emsp;(10) "weapons of mass destruction" has the meaning provided by section 2302(1) of title 50; and
 
-&emsp;(11) “Sales territory” means a country or group of countries to which a defense article or defense service is authorized to be reexported.
+&emsp;(11) "Sales territory" means a country or group of countries to which a defense article or defense service is authorized to be reexported.
 
 (Pub. L. 90–629, ch. 4, §47, as added Pub. L. 93–189, §25(12), Dec. 17, 1973, 87 Stat. 731; amended Pub. L. 94–329, title II, §215, June 30, 1976, 90 Stat. 746; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §105(f), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 99–83, title I, §107(b), title XII, §1211(b)(3), Aug. 8, 1985, 99 Stat. 197, 279; Pub. L. 104–164, title I, §144, July 21, 1996, 110 Stat. 1434; Pub. L. 107–228, div. B, title XII, §1202(b), title XIV, §1405(a)(4), Sept. 30, 2002, 116 Stat. 1427, 1458.)
 
 #### References in Text
 
-This chapter, referred to in introductory provisions, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in introductory provisions, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in par. (3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in par. (3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Amendments
 
@@ -58,15 +58,15 @@ Par. (11). Pub. L. 107–228, §1405(a)(4), added par. (11).
 
 <b>1996</b>—Par. (9). Pub. L. 104–164 added par. (9).
 
-<b>1985</b>—Par. (2). Pub. L. 99–83, §107(b), inserted “, except as otherwise provided in section 2761(a) of this title,”.
+<b>1985</b>—Par. (2). Pub. L. 99–83, §107(b), inserted ", except as otherwise provided in section 2761(a) of this title,".
 
-Par. (6). Pub. L. 99–83, §1211(b)(3), substituted “military” for “combat”.
+Par. (6). Pub. L. 99–83, §1211(b)(3), substituted "military" for "combat".
 
-<b>1980</b>—Par. (4). Pub. L. 96–533, §105(f)(1), excluded from term “defense service” design and construction services under section 2769 of this title.
+<b>1980</b>—Par. (4). Pub. L. 96–533, §105(f)(1), excluded from term "defense service" design and construction services under section 2769 of this title.
 
 Par. (8). Pub. L. 96–533, §105(f)(2)–(4), added par. (8).
 
-<b>1979</b>—Par. (3). Pub. L. 96–92 defined “defense article” to include uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity.
+<b>1979</b>—Par. (3). Pub. L. 96–92 defined "defense article" to include uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity.
 
 <b>1976</b>—Pars. (3) to (7). Pub. L. 94–329 added pars. (3) to (7).
 

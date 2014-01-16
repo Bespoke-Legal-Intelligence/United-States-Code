@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “public welfare” includes, with respect to arbitration under an interstate compact—
+Definition.—In this section, the term "public welfare" includes, with respect to arbitration under an interstate compact—
 
 &emsp;(1) the financial ability of the individual jurisdictions participating in the compact to pay for the costs of providing public transit services; and
 
@@ -78,5 +78,5 @@ Pub. L. 104–50, title IV, §§403(3), (6), 404, Nov. 15, 1995, 109 Stat. 464.
 
 40:1303.
 
-The text of 40:1302(3) and 1303(b) is combined because 40:1303(b) is the only place the definition of “funding ability” is used in the revised chapter.
+The text of 40:1302(3) and 1303(b) is combined because 40:1303(b) is the only place the definition of "funding ability" is used in the revised chapter.
 

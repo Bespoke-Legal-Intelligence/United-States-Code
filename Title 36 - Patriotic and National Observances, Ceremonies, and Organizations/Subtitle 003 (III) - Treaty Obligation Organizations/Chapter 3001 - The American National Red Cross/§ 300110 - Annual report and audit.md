@@ -36,11 +36,11 @@ Jan. 5, 1905, ch. 23, §6, 33 Stat. 602; Feb. 27, 1917, ch. 137, 39 Stat. 946; J
 
 May 29, 1920, ch. 214, §1 (1st complete par. on p. 659), 41 Stat. 659; July 17, 1953, ch. 222, §5, 67 Stat. 179.
 
-In subsection (a), the words “make and”, “next preceding”, and “full” are omitted as unnecessary. The word “activities” is substituted for “proceedings” for consistency in the revised title. The words “all receipts and expenditures” are substituted for “receipts and expenditures of whatever kind” to eliminate unnecessary words.
+In subsection (a), the words "make and", "next preceding", and "full" are omitted as unnecessary. The word "activities" is substituted for "proceedings" for consistency in the revised title. The words "all receipts and expenditures" are substituted for "receipts and expenditures of whatever kind" to eliminate unnecessary words.
 
-In subsections (b) and (c), the word “Secretary” is substituted for “Department of Defense” for consistency.
+In subsections (b) and (c), the word "Secretary" is substituted for "Department of Defense" for consistency.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–26 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “As soon as practicable after July 1 of each year, the corporation shall submit a report to the Secretary of Defense on the activities of the corporation during the fiscal year ending June 30, including a complete, itemized report of all receipts and expenditures.”
+<b>2007</b>—Subsec. (a). Pub. L. 110–26 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "As soon as practicable after July 1 of each year, the corporation shall submit a report to the Secretary of Defense on the activities of the corporation during the fiscal year ending June 30, including a complete, itemized report of all receipts and expenditures."
 

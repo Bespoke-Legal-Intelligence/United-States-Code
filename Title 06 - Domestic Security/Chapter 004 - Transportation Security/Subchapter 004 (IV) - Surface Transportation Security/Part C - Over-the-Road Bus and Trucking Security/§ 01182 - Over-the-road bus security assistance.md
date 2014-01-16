@@ -8,7 +8,7 @@ The Secretary shall establish a program for making grants to eligible private op
 
 A recipient of a grant received under subsection (a) shall use the grant funds for one or more of the following:
 
-&emsp;(1) Constructing and modifying terminals, garages, and facilities, including terminals and other over-the-road bus facilities owned by State or local governments, to increase their security.
+&emsp;(1) Constructing and modifying terminals, garages, and facilities, including terminalsand other over-the-road bus facilities owned by State or local governments, to increase their security.
 
 &emsp;(2) Modifying over-the-road buses to increase their security.
 
@@ -66,7 +66,7 @@ Not later than 90 days after August 3, 2007, the Secretary and the Secretary of 
 
 #### (g) Subject to certain terms and conditions
 
-Except as otherwise specifically provided in this section, a grant made under this sectionshall be subject to the terms and conditions applicable to subrecipients who provide over-the-road bus transportation under section 5311(f) of title 49 and such other terms and conditions as are determined necessary by the Secretary.
+Except as otherwise specifically provided in this section, a grant made under this section shall be subject to the terms and conditions applicable to subrecipients who provide over-the-road bus transportation under section 5311(f) of title 49 and such other terms and conditions as are determined necessary by the Secretary.
 
 #### (h) Limitation on uses of funds
 

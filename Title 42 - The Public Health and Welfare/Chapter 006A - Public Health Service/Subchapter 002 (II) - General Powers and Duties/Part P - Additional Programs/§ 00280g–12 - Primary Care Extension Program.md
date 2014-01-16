@@ -8,7 +8,7 @@
 
 #### (2) Purpose
 
-&emsp;The Primary Care Extension Program shall provide support and assistance to primary care providers to educate providers about preventive medicine, health promotion, chronic disease management, mental and behavioral health services (including substance abuse prevention and treatment services), and evidence-based and evidence-informed therapies and techniques, in order to enable providers to incorporate such matters into their practice and to improve community health by working with community-based health connectors (referred to in this section as “Health Extension Agents”).
+&emsp;The Primary Care Extension Program shall provide support and assistance to primary care providers to educate providers about preventive medicine, health promotion, chronic disease management, mental and behavioral health services (including substance abuse prevention and treatment services), and evidence-based and evidence-informed therapies and techniques, in order to enable providers to incorporate such matters into their practice and to improve community health by working with community-based health connectors (referred to in this section as "Health Extension Agents").
 
 #### (3) Definitions
 
@@ -16,17 +16,17 @@
 
 #### (A) Health Extension Agent
 
-&emsp;&emsp;The term “Health Extension Agent” means any local, community-based health worker who facilitates and provides assistance to primary care practices by implementing quality improvement or system redesign, incorporating the principles of the patient-centered medical home to provide high-quality, effective, efficient, and safe primary care and to provide guidance to patients in culturally and linguistically appropriate ways, and linking practices to diverse health system resources.
+&emsp;&emsp;The term "Health Extension Agent" means any local, community-based health worker who facilitates and provides assistance to primary care practices by implementing quality improvement or system redesign, incorporating the principles of the patient-centered medical home to providehigh-quality, effective, efficient, and safe primary care and to provide guidance to patients in culturally and linguistically appropriate ways, and linking practices to diverse health system resources.
 
 #### (B) Primary care provider
 
-&emsp;&emsp;The term “primary care provider” means a clinician who provides integrated, accessible health care services and who is accountable for addressing a large majority of personal health care needs, including providing preventive and health promotion services for men, women, and children of all ages, developing a sustained partnership with patients, and practicing in the context of family and community, as recognized by a State licensing or regulatory authority, unless otherwise specified in this section.
+&emsp;&emsp;The term "primary care provider" means a clinician who provides integrated, accessible health care services and who is accountable for addressing a large majority of personal health care needs, including providing preventive and health promotion services for men, women, and children of all ages, developing a sustained partnership with patients, and practicing in the context of family and community, as recognized by a State licensing or regulatory authority, unless otherwise specified in this section.
 
 #### (b) Grants to establish State Hubs and local Primary Care Extension Agencies
 
 #### (1) Grants
 
-&emsp;The Secretary shall award competitive grants to States for the establishment of State- or multistate-level primary care Primary Care Extension Program State Hubs (referred to in this section as “Hubs”).
+&emsp;The Secretary shall award competitive grants to States for the establishment of State- or multistate-level primary care Primary Care Extension Program State Hubs (referred to in this section as "Hubs").
 
 #### (2) Composition of Hubs
 
@@ -106,7 +106,7 @@
 
 #### (e) Requirements on the Secretary
 
-In carrying out this section, the Secretary shall consult with the heads of other Federalagencies with demonstrated experience and expertise in health care and preventive medicine, such as the Centers for Disease Control and Prevention, the Substance Abuse and Mental Health Administration, the Health Resources and Services Administration, the National Institutes of Health, the Office of the National Coordinator for Health Information Technology, the Indian Health Service, the Agricultural Cooperative Extension Service of the Department of Agriculture, and other entities, as the Secretary determines appropriate.
+In carrying out this section, the Secretary shall consult with the heads of other Federal agencies with demonstrated experience and expertise in health care and preventive medicine, such as the Centers for Disease Control and Prevention, the Substance Abuse and Mental Health Administration, the Health Resources and Services Administration, the National Institutes of Health, the Office of the National Coordinator for Health Information Technology, the Indian Health Service, the Agricultural Cooperative Extension Service of the Department of Agriculture, and other entities, as the Secretary determines appropriate.
 
 #### (f) Authorization of appropriations
 
@@ -116,11 +116,11 @@ To awards grants as provided in subsection (d), there are authorized to be appro
 
 #### References in Text
 
-Section 256a–1 of this title, referred to in subsec. (c)(2)(B)(i), was in the original “section 3602 of the Patient Protection and Affordable Care Act”, and was translated as meaning section 3502 of the Patient Protection and Affordable Care Act, Pub. L. 111–148, to reflect the probable intent of Congress.
+Section 256a–1 of this title, referred to in subsec. (c)(2)(B)(i), was in the original "section 3602 of the Patient Protection and Affordable Care Act", and was translated as meaning section 3502 of the Patient Protection and Affordable Care Act, Pub. L. 111–148, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(2)(A). Pub. L. 111–148, §10501(f)(2), substituted “and the departments that train providers in primary care in 1 or more health professions schools in the State” for “and the departments of 1 or more health professions schools in the State that train providers in primary care”.
+<b>2010</b>—Subsec. (b)(2)(A). Pub. L. 111–148, §10501(f)(2), substituted "and the departments that train providers in primary care in 1 or more health professions schools in the State" for "and the departments of 1 or more health professions schools in the State that train providers in primary care".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -56,7 +56,7 @@ Except as provided in subsection (f) of this section, the Secretary of the Treas
 
 #### (g) Authority to invest and recover expenses from funds
 
-The Secretary of the Treasury is authorized and directed to invest the amounts held respectively in the “special funds” established by this section in public debt securities with maturities suitable for the needs of the separate accounts and bearing interest at rates determined by the Secretary, taking into consideration the average market yield on outstanding marketable obligations of the United States of comparable maturities. The interest earned on the amounts in each special fund shall be used to make payments, in accordance with subsection (c) of this section, on awards payable from that special fund.
+The Secretary of the Treasury is authorized and directed to invest the amounts held respectively in the "special funds" established by this section in public debt securities with maturities suitable for the needs of the separate accounts and bearing interest at rates determined by the Secretary, taking into consideration the average market yield on outstanding marketable obligations of the United States of comparable maturities. The interest earned on the amounts in each special fund shall be used to make payments, in accordance with subsection (c) of this section, on awards payable from that special fund.
 
 (Mar. 10, 1950, ch. 54, title I, §8, 64 Stat. 17; Aug. 9, 1955, ch. 645, §1, 69 Stat. 562; Pub. L. 90–421, §1(4), (5), July 24, 1968, 82 Stat. 420; Pub. L. 96–445, Oct. 13, 1980, 94 Stat. 1891; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–204, title I, §142(a), Dec. 22, 1987, 101 Stat. 1350.)
 
@@ -84,17 +84,17 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 <b>1987</b>—Subsec. (g). Pub. L. 100–204 added subsec. (g).
 
-<b>1986</b>—Subsec. (f)(2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (f)(2)(A). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
-<b>1980</b>—Subsec. (e). Pub. L. 96–445, §1(1), substituted “Except as provided in subsection (f) of this section, the Secretary of the Treasury” for “The Secretary of the Treasury”.
+<b>1980</b>—Subsec. (e). Pub. L. 96–445, §1(1), substituted "Except as provided in subsection (f) of this section, the Secretary of the Treasury" for "The Secretary of the Treasury".
 
 Subsec. (f). Pub. L. 96–445, §1(2), added subsec. (f).
 
-<b>1968</b>—Subsec. (c). Pub. L. 90–421, §1(4), inserted “, prior to July 24, 1968,” after “the sums covered” and substituted “section 1626(b)(1) of this title” for “section 1626(b) of this title”.
+<b>1968</b>—Subsec. (c). Pub. L. 90–421, §1(4), inserted ", prior to July 24, 1968," after "the sums covered" and substituted "section 1626(b)(1) of this title" for "section 1626(b) of this title".
 
 Subsec. (e). Pub. L. 90–421, §1(5), added subsec. (e).
 
-<b>1955</b>—Act Aug. 9, 1955, amended credit to section by designating act Mar. 10, 1950, as “title I”.
+<b>1955</b>—Act Aug. 9, 1955, amended credit to section by designating act Mar. 10, 1950, as "title I".
 
 #### Abolition of International Claims Commission and Transfer of Functions
 

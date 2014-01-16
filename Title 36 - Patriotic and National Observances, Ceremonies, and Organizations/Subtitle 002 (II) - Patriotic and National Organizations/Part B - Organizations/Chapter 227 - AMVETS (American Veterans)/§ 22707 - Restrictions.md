@@ -62,7 +62,7 @@ July 23, 1947, ch. 298, §§3(11), 5(1), (2), 15, 16, 61 Stat. 405, 406, 408.
 
 &nbsp;
 
-In subsection (b), the words “shares of” are omitted as unnecessary.
+In subsection (b), the words "shares of" are omitted as unnecessary.
 
-In subsection (e), the words “or advance” are added in 2 places for consistency in the subsection.
+In subsection (e), the words "or advance" are added in 2 places for consistency in the subsection.
 

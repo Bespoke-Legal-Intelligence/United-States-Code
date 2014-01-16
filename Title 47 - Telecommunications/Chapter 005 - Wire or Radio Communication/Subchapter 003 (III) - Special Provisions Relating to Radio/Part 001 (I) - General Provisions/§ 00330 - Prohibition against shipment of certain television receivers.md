@@ -22,9 +22,9 @@
 
 (d) For the purposes of this section, and sections 303(s), 303(u), and 303(x) of this title—
 
-&emsp;(1) The term “interstate commerce” means (A) commerce between any State, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States and any place outside thereof which is within the United States, (B) commerce between points in the same State, the District of Columbia, the Commonwealth of Puerto Rico, or possession of the United States but through any place outside thereof, or (C) commerce wholly within the District of Columbia or any possession of the United States.
+&emsp;(1) The term "interstate commerce" means (A) commerce between any State, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States and any place outside thereof which is within the United States, (B) commerce between points in the same State, the District of Columbia, the Commonwealth of Puerto Rico, or possession of the United States but through any place outside thereof, or (C) commerce wholly within the District of Columbia or any possession of the United States.
 
-&emsp;(2) The term “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States, but does not include the Canal Zone.
+&emsp;(2) The term "United States" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States, but does not include the Canal Zone.
 
 (June 19, 1934, ch. 652, title III, §330, as added Pub. L. 87–529, §2, July 10, 1962, 76 Stat. 151; amended Pub. L. 101–431, §4, Oct. 15, 1990, 104 Stat. 961; Pub. L. 104–104, title V, §551(d), Feb. 8, 1996, 110 Stat. 141; Pub. L. 111–260, title II, §203(c), Oct. 8, 2010, 124 Stat. 2773.)
 
@@ -34,15 +34,15 @@ For definition of Canal Zone, referred to in subsec. (d)(2), see section 3602(b)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–260, in first sentence substituted “303(u) and (z)” for “303(u)”, in second sentence substituted “Such rules shall provide performance and display standards for such built-in decoder circuitry or capability designed to display closed captioned video programming, the transmission and delivery of video description services, and the conveyance of emergency information as required by section 303 of this title.” for “Such rules shall provide performance and display standards for such built-in decoder circuitry.”, and in fourth sentence substituted “closed-captioning service and video description service continue” for “closed-captioning service continues”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–260, in first sentence substituted "303(u) and (z)" for "303(u)", in second sentence substituted "Such rules shall provide performance and display standards for such built-in decoder circuitry or capability designed to display closed captioned video programming, the transmission and delivery of video description services, and the conveyance of emergency information as required by section 303 of this title." for "Such rules shall provide performance and display standards for such built-in decoder circuitry.", and in fourth sentence substituted "closed-captioning service and video description service continue" for "closed-captioning service continues".
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–104, §551(d)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 104–104, §551(d)(2), in introductory provisions substituted “and sections 303(s), 303(u), and 303(x) of this title” for “section 303(s) of this title, and section 303(u) of this title”.
+Subsec. (d). Pub. L. 104–104, §551(d)(2), in introductory provisions substituted "and sections 303(s), 303(u), and 303(x) of this title" for "section 303(s) of this title, and section 303(u) of this title".
 
 Pub. L. 104–104, §551(d)(1)(B), redesignated subsec. (c) as (d).
 
-<b>1990</b>—Subsecs. (b), (c). Pub. L. 101–431 added subsec. (b), redesignated former subsec. (b) as (c), and substituted “, section 303(s) of this title, and section 303(u) of this title” for “and section 303(s) of this title”.
+<b>1990</b>—Subsecs. (b), (c). Pub. L. 101–431 added subsec. (b), redesignated former subsec. (b) as (c), and substituted ", section 303(s) of this title, and section 303(u) of this title" for "and section 303(s) of this title".
 
 #### Effective Date of 1990 Amendment
 

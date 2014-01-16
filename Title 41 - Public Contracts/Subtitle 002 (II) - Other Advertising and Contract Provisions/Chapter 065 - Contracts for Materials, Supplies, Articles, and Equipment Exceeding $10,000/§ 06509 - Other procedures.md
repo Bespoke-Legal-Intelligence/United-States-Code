@@ -6,7 +6,7 @@ Applicability of Certain Administrative Provisions.—Notwithstanding section 55
 
 (b)
 
-Judicial Review in General.—Notwithstanding the inclusion of representations and stipulations in a contract under section 6502 of this title, an interested person has the right of judicial review of any legal question which might otherwise be raised, including wage determinations and the interpretation of the terms “locality” and “open market”.
+Judicial Review in General.—Notwithstanding the inclusion of representations and stipulations in a contract under section 6502 of this title, an interested person has the right of judicial review of any legal question which might otherwise be raised, including wage determinations and the interpretation of the terms "locality" and "open market".
 
 (c)
 
@@ -38,7 +38,7 @@ June 30, 1936, ch. 881, §10(a), (b) (last sentence), (c), as added June 30, 195
 
 41:43a(b) (last sentence).
 
-Subsection (a) is substituted for “Notwithstanding any provision of section 4 of the Administrative Procedure Act, such Act shall be applicable in the administration of sections 1 to 5 and 7 to 9 of this Act” in section 10 of the Act of June 30, 1936 (ch. 881), for consistency in the revised title and because of section 7(b) of Public Law 89–554 (5 U.S.C. note prec. 101).
+Subsection (a) is substituted for "Notwithstanding any provision of section 4 of the Administrative Procedure Act, such Act shall be applicable in the administration of sections 1 to 5 and 7 to 9 of this Act" in section 10 of the Act of June 30, 1936 (ch. 881), for consistency in the revised title and because of section 7(b) of Public Law 89–554 (5 U.S.C. note prec. 101).
 
-In subsection (c), the words “has the right of judicial review” are substituted for “Review . . . may be had” for consistency with subsection (b) and with section 6510(b) of the revised title and because the review provided for in chapter 7 of title 5 is denominated as judicial review. The words “chapter 7 of title 5” are substituted for “section 10 of the Administrative Procedure Act” on authority of section 7(b) of Public Law 89–554 (5 U.S.C. note prec. 101).
+In subsection (c), the words "has the right of judicial review" are substituted for "Review . . . may be had" for consistency with subsection (b) and with section 6510(b) of the revised title and because the review provided for in chapter 7 of title 5 is denominated as judicial review. The words "chapter 7 of title 5" are substituted for "section 10 of the Administrative Procedure Act" on authority of section 7(b) of Public Law 89–554 (5 U.S.C. note prec. 101).
 

@@ -56,9 +56,9 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 For purposes of this section:
 
-&emsp;(1) The term “State law” includes all laws, decisions, rules, regulations, or other State action having the effect of law, of any State. A law of the United States applicable only to the District of Columbia shall be treated as a State law rather than a law of the United States.
+&emsp;(1) The term "State law" includes all laws, decisions, rules, regulations, or other State action having the effect of law, of any State. A law of the United States applicable only to the District of Columbia shall be treated as a State law rather than a law of the United States.
 
-&emsp;(2) The term “State” includes a State, any political subdivisions thereof, or any agency or instrumentality of either, which purports to regulate, directly or indirectly, the terms and conditions of employee benefit plans covered by this subchapter.
+&emsp;(2) The term "State" includes a State, any political subdivisions thereof, or any agency or instrumentality of either, which purports to regulate, directly or indirectly, the terms and conditions of employee benefit plans covered by this subchapter.
 
 #### (d) Alteration, amendment, modification, invalidation, impairment, or supersedure of any law of the United States prohibited
 
@@ -68,7 +68,7 @@ Nothing in this subchapter shall be construed to alter, amend, modify, invalidat
 
 (1) Notwithstanding any other provision of this section, this subchapter shall supersede any law of a State which would directly or indirectly prohibit or restrict the inclusion in any plan of an automatic contribution arrangement. The Secretary may prescribe regulations which would establish minimum standards that such an arrangement would be required to satisfy in order for this subsection to apply in the case of such arrangement.
 
-(2) For purposes of this subsection, the term “automatic contribution arrangement” means an arrangement—
+(2) For purposes of this subsection, the term "automatic contribution arrangement" means an arrangement—
 
 &emsp;(A) under which a participant may elect to have the plan sponsor make payments as contributions under the plan on behalf of the participant, or to the participant directly in cash,
 
@@ -100,7 +100,7 @@ The Social Security Act, referred to in subsec. (b)(8)(B), is act Aug. 14, 1935,
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–280 added subsec. (e).
 
-<b>1998</b>—Subsec. (b)(7). Pub. L. 105–200, §401(h)(2)(A)(ii), substituted “they apply to” for “enforced by”.
+<b>1998</b>—Subsec. (b)(7). Pub. L. 105–200, §401(h)(2)(A)(ii), substituted "they apply to" for "enforced by".
 
 Pub. L. 105–200, §401(h)(2)(A)(i), amended directory language of Pub. L. 103–66, §4301(c)(4)(A). See 1993 Amendment note below.
 
@@ -108,13 +108,13 @@ Pub. L. 105–200, §401(h)(2)(A)(i), amended directory language of Pub. L. 103�
 
 Pub. L. 104–191 added par. (9).
 
-<b>1993</b>—Subsec. (b)(7). Pub. L. 103–66, §4301(c)(4)(A), as amended by Pub. L. 105–200, §401(h)(1)(A)(i), inserted “, qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent enforced by qualified medical child support orders” before period at end.
+<b>1993</b>—Subsec. (b)(7). Pub. L. 103–66, §4301(c)(4)(A), as amended by Pub. L. 105–200, §401(h)(1)(A)(i), inserted ", qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent enforced by qualified medical child support orders" before period at end.
 
-Subsec. (b)(8). Pub. L. 103–66, §4301(c)(4)(B), added par. (8) and struck out former par. (8) which read as follows: “Subsection (a) of this section shall not apply to any State law mandating that an employee benefit plan not include any provision which has the effect of limiting or excluding coverage or payment for any health care for an individual who would otherwise be covered or entitled to benefits or services under the terms of the employee benefit plan, because that individual is provided, or is eligible for, benefits or services pursuant to a plan under title XIX of the Social Security Act, to the extent such law is necessary for the State to be eligible to receive reimbursement under title XIX of that Act.”
+Subsec. (b)(8). Pub. L. 103–66, §4301(c)(4)(B), added par. (8) and struck out former par. (8) which read as follows: "Subsection (a) of this section shall not apply to any State law mandating that an employee benefit plan not include any provision which has the effect of limiting or excluding coverage or payment for any health care for an individual who would otherwise be covered or entitled to benefits or services under the terms of the employee benefit plan, because that individual is provided, or is eligible for, benefits or services pursuant to a plan under title XIX of the Social Security Act, to the extent such law is necessary for the State to be eligible to receive reimbursement under title XIX of that Act."
 
-<b>1989</b>—Subsec. (b)(5)(C). Pub. L. 101–239, §7894(f)(2)(A), substituted “by such parts 1 and 4 and the preceding sections of this part” for “by such parts”.
+<b>1989</b>—Subsec. (b)(5)(C). Pub. L. 101–239, §7894(f)(2)(A), substituted "by such parts 1 and 4 and the preceding sections of this part" for "by such parts".
 
-Subsec. (b)(6)(B). Pub. L. 101–239, §7894(f)(3)(A), substituted “section 1002(1)” for “section 1002(l)”.
+Subsec. (b)(6)(B). Pub. L. 101–239, §7894(f)(3)(A), substituted "section 1002(1)" for "section 1002(l)".
 
 <b>1986</b>—Subsec. (b)(8). Pub. L. 99–272 added par. (8).
 
@@ -126,7 +126,7 @@ Subsec. (b)(6). Pub. L. 97–473, §302(b), added par. (6).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–200, title IV, §401(h)(2)(C), July 16, 1998, 112 Stat. 668, provided that: “The amendments made by subparagraph (A) \[amending this section and section 1169 of this title\] shall be effective as if included in the enactment of section 4301(c)(4)(A) of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\].”
+Pub. L. 105–200, title IV, §401(h)(2)(C), July 16, 1998, 112 Stat. 668, provided that: "The amendments made by subparagraph (A) \[amending this section and section 1169 of this title\] shall be effective as if included in the enactment of section 4301(c)(4)(A) of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\]."
 
 #### Effective Date of 1996 Amendments
 
@@ -136,25 +136,25 @@ Amendment by Pub. L. 104–191 applicable with respect to group health plans for
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7894(f)(2)(B), Dec. 19, 1989, 103 Stat. 2451, provided that: “The amendment made by this paragraph \[amending this section\] shall take effect as if included in section 301 of Public Law 97–473.”
+Pub. L. 101–239, title VII, §7894(f)(2)(B), Dec. 19, 1989, 103 Stat. 2451, provided that: "The amendment made by this paragraph \[amending this section\] shall take effect as if included in section 301 of Public Law 97–473."
 
-Pub. L. 101–239, title VII, §7894(f)(3)(B), Dec. 19, 1989, 103 Stat. 2451, provided that: “The amendments made by this paragraph \[amending this section\] shall take effect as if included in section 302 of Public Law 97–473.”
+Pub. L. 101–239, title VII, §7894(f)(3)(B), Dec. 19, 1989, 103 Stat. 2451, provided that: "The amendments made by this paragraph \[amending this section\] shall take effect as if included in section 302 of Public Law 97–473."
 
 #### Effective Date of 1986 Amendment
 
 Pub. L. 99–272, title IX, §9503(d)(2), Apr. 7, 1986, 100 Stat. 207, provided that:
 
-“(2)(A) Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall become effective on October 1, 1986.
+"(2)(A) Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall become effective on October 1, 1986.
 
-“(B) In the case of a plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified on or before the date of the enactment of this Act \[Apr. 7, 1986\], the amendment made by paragraph (1) shall become effective on the later of—
+"(B) In the case of a plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified on or before the date of the enactment of this Act \[Apr. 7, 1986\], the amendment made by paragraph (1) shall become effective on the later of—
 
-&emsp;“(i) October 1, 1986; or
+&emsp;"(i) October 1, 1986; or
 
-&emsp;“(ii) the earlier of—
+&emsp;"(ii) the earlier of—
 
-&emsp;&emsp;“(I) the date on which the last of the collective bargaining agreements under which the plan is maintained, which were in effect on the date of the enactment of this Act, terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act); or
+&emsp;&emsp;"(I) the date on which the last of the collective bargaining agreements under which the plan is maintained, which were in effect on the date of the enactment of this Act, terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act); or
 
-&emsp;&emsp;“(II) three years after the date of the enactment of this Act.”
+&emsp;&emsp;"(II) three years after the date of the enactment of this Act."
 
 #### Effective Date of 1984 Amendment
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 98–397 effective Jan. 1, 1985, except as otherwise provid
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 97–473, title III, §301(c), Jan. 14, 1983, 96 Stat. 2612, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 14, 1983\].”
+Pub. L. 97–473, title III, §301(c), Jan. 14, 1983, 96 Stat. 2612, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 14, 1983\]."
 
 Amendment by section 302(b) of Pub. L. 97–473 effective Jan. 14, 1983, see section 302(c) of Pub. L. 97–473, set out as a note under section 1002 of this title.
 
@@ -176,5 +176,5 @@ For provisions setting forth circumstances under which any amendment to a plan r
 
 #### Treatment of Other State Laws
 
-Pub. L. 97–473, title III, §301(b), Jan. 14, 1983, 96 Stat. 2612, provided that: “The amendment made by this section \[amending this section\] shall not be considered a precedent with respect to extending such amendment to any other State law.”
+Pub. L. 97–473, title III, §301(b), Jan. 14, 1983, 96 Stat. 2612, provided that: "The amendment made by this section \[amending this section\] shall not be considered a precedent with respect to extending such amendment to any other State law."
 

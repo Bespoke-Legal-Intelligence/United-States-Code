@@ -30,9 +30,9 @@
 
 &emsp;(A) a court order directing such assistance or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978 signed by the authorizing judge, or
 
-&emsp;(B) a certification in writing by a person specified in section 2518(7) of this title or the Attorney General of the United States that no warrant or court order is required by law, that all statutory requirements have been met, and that the specified assistance is required,
+&emsp;(B) a certification in writing by a person specified in section 2518(7) of this title or the Attorney General of the United States that nowarrant or court order is required by law, that all statutory requirements have been met, and that the specified assistance is required,
 
-> setting forth the period of time during which the provision of the information, facilities, ortechnical assistance is authorized and specifying the information, facilities, or technical assistance required. No provider of wire or electronic communication service, officer, employee, or agent thereof, or landlord, custodian, or other specified person shall disclose the existence of any interception or surveillance or the device used to accomplish the interception or surveillance with respect to which the person has been furnished a court order or certification under this chapter, except as may otherwise be required by legal process and then only after prior notification to the Attorney General or to the principal prosecuting attorney of a State or any political subdivision of a State, as may be appropriate. Any such disclosure, shall render such person liable for the civil damages provided for in section 2520. No cause of action shall lie in any court against any provider of wire or electronic communication service, its officers, employees, or agents, landlord, custodian, or other specified person for providing information, facilities, or assistance in accordance with the terms of a court order, statutory authorization, or certification under this chapter.
+> setting forth the period of time during which the provision of the information, facilities, or technical assistance is authorized and specifying the information, facilities, or technical assistance required. No provider of wire or electronic communication service, officer, employee, or agent thereof, or landlord, custodian, or other specified person shall disclose the existence of any interception or surveillance or the device used to accomplish the interception or surveillance with respect to which the person has been furnished a court order or certification under this chapter, except as may otherwise be required by legal process and then only after prior notification to the Attorney General or to the principal prosecuting attorney of a State or any political subdivision of a State, as may be appropriate. Any such disclosure, shall render such person liable for the civil damages provided for in section 2520. No cause of action shall lie in any court against any provider of wire or electronic communication service, its officers, employees, or agents, landlord, custodian, or other specified person for providing information, facilities, or assistance in accordance with the terms of a court order, statutory authorization, or certification under this chapter.
 
 (iii) If a certification under subparagraph (ii)(B) for assistance to obtain foreign intelligence information is based on statutory authority, the certification shall identify the specific statutory provision and shall certify that the statutory requirements have been met.
 
@@ -74,7 +74,7 @@
 
 &emsp;(i) to use a pen register or a trap and trace device (as those terms are defined for the purposes of chapter 206 (relating to pen registers and trap and trace devices) of this title); or
 
-&emsp;(ii) for a provider of electronic communication service to record the fact that a wire or electronic communication was initiated or completed in order to protect such provider, another provider furnishing service toward the completion of the wire or electronic communication, or a user of that service, from fraudulent, unlawful or abusive use of such service.
+&emsp;(ii) for a provider of electronic communication service to record the fact that a wire or electronic communication was initiated or completed in order to protect such provider,another provider furnishing service toward the completion of the wire or electronic communication, or a user of that service, from fraudulent, unlawful or abusive use of such service.
 
 (i) It shall not be unlawful under this chapter for a person acting under color of law to intercept the wire or electronic communications of a computer trespasser transmitted to, through, or from the protected computer, if—
 
@@ -128,11 +128,11 @@
 
 #### Amendment of Paragraph (2)(a)(ii)(A)
 
-<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of Title 50, War and National Defense, effective Dec. 31, 2017, paragraph (2)(a)(ii)(A) of this section is amended by striking “or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978”.</i>
+<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of Title 50, War and National Defense, effective Dec. 31, 2017, paragraph (2)(a)(ii)(A) of this section is amended by striking "or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978".</i>
 
 #### References in Text
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. Sections 101 and 704 of the Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(a)(ii), (e), and (f), are classified to sections 1801 and 1881c of Title 50, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense.Sections 101 and 704 of the Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(a)(ii), (e), and (f), are classified to sections 1801 and 1881c of Title 50, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 Sections 633, 705, and 706 of the Communications Act of 1934, referred to in par. (2)(e), (f), (g)(iii), are classified to sections 553, 605, and 606 of Title 47, Telecommunications, respectively.
 
@@ -142,51 +142,51 @@ For information regarding constitutionality of certain provisions of this sectio
 
 #### Amendments
 
-<b>2008</b>—Par. (2)(a)(ii)(A). Pub. L. 110–261, §101(c)(1), inserted “or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978” after “assistance”.
+<b>2008</b>—Par. (2)(a)(ii)(A). Pub. L. 110–261, §101(c)(1), inserted "or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978" after "assistance".
 
 Par. (2)(a)(iii). Pub. L. 110–261, §102(c)(1), added cl. (iii).
 
-<b>2002</b>—Par. (2)(a)(ii). Pub. L. 107–296, §225(h)(2), inserted “, statutory authorization,” after “terms of a court order” in concluding provisions.
+<b>2002</b>—Par. (2)(a)(ii). Pub. L. 107–296, §225(h)(2), inserted ", statutory authorization," after "terms of a court order" in concluding provisions.
 
-Par. (4)(b), (c). Pub. L. 107–296, §225(j)(1), redesignated subpar. (c) as (b) and struck out former subpar. (b) which read as follows: “If the offense is a first offense under paragraph (a) of this subsection and is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, and the wire or electronic communication with respect to which the offense under paragraph (a) is a radio communication that is not scrambled, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then—
+Par. (4)(b), (c). Pub. L. 107–296, §225(j)(1), redesignated subpar. (c) as (b) and struck out former subpar. (b) which read as follows: "If the offense is a first offense under paragraph (a) of this subsection and is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, and the wire or electronic communication with respect to which the offense under paragraph (a) is a radio communication that is not scrambled, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then—
 
-&emsp;“(i) if the communication is not the radio portion of a cellular telephone communication, a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit, a public land mobile radio service communication or a paging service communication, and the conduct is not that described in subsection (5), the offender shall be fined under this title or imprisoned not more than one year, or both; and
+&emsp;"(i) if the communication is not the radio portion of a cellular telephone communication, a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit, a public land mobile radio service communication or a paging service communication, and the conduct is not that described in subsection (5), the offender shall be fined under this title or imprisoned not more than one year, or both; and
 
-&emsp;“(ii) if the communication is the radio portion of a cellular telephone communication, a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit, a public land mobile radio service communication or a paging service communication, the offender shall be fined under this title.”
+&emsp;"(ii) if the communication is the radio portion of a cellular telephone communication, a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit, a public land mobile radio service communication or a paging service communication, the offender shall be fined under this title."
 
-<b>2001</b>—Par. (2)(f). Pub. L. 107–56, §204, substituted “this chapter or chapter 121 or 206 of this title, or section 705 of the Communications Act of 1934” for “this chapter or chapter 121, or section 705 of the Communications Act of 1934” and “wire, oral, and electronic communications” for “wire and oral communications”.
+<b>2001</b>—Par. (2)(f). Pub. L. 107–56, §204, substituted "this chapter or chapter 121 or 206 of this title, or section 705 of the Communications Act of 1934" for "this chapter or chapter 121, or section 705 of the Communications Act of 1934" and "wire, oral, and electronic communications" for "wire and oral communications".
 
 Par. (2)(i). Pub. L. 107–56, §217(2), added subpar. (i).
 
-<b>1996</b>—Par. (1)(e)(i). Pub. L. 104–294 substituted “sections 2511(2)(a)(ii), 2511(2)(b)–(c), 2511(2)(e), 2516, and 2518 of this chapter” for “sections 2511(2)(A)(ii), 2511(b)–(c), 2511(e), 2516, and 2518 of this subchapter”.
+<b>1996</b>—Par. (1)(e)(i). Pub. L. 104–294 substituted "sections 2511(2)(a)(ii), 2511(2)(b)–(c), 2511(2)(e), 2516, and 2518 of this chapter" for "sections 2511(2)(A)(ii), 2511(b)–(c), 2511(e), 2516, and 2518 of this subchapter".
 
 <b>1994</b>—Par. (1)(e). Pub. L. 103–322, §320901, added par. (1)(e).
 
-Par. (2)(a)(i). Pub. L. 103–414, §205, inserted “or electronic” after “transmission of a wire”.
+Par. (2)(a)(i). Pub. L. 103–414, §205, inserted "or electronic" after "transmission of a wire".
 
-Par. (4)(b). Pub. L. 103–414, §204, in introductory provisions substituted “, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then” for “or encrypted, then”.
+Par. (4)(b). Pub. L. 103–414, §204, in introductory provisions substituted ", encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then" for "or encrypted, then".
 
-Par. (4)(b)(i). Pub. L. 103–414, §202(b)(1), inserted “a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit,” after “cellular telephone communication,”.
+Par. (4)(b)(i). Pub. L. 103–414, §202(b)(1), inserted "a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit," after "cellular telephone communication,".
 
-Par. (4)(b)(ii). Pub. L. 103–414, §202(b)(2), inserted “a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit,” after “cellular telephone communication,”.
+Par. (4)(b)(ii). Pub. L. 103–414, §202(b)(2), inserted "a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit," after "cellular telephone communication,".
 
-Pub. L. 103–322, §330016(1)(G), substituted “fined under this title” for “fined not more than $500”.
+Pub. L. 103–322, §330016(1)(G), substituted "fined under this title" for "fined not more than $500".
 
-<b>1986</b>—Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+<b>1986</b>—Pub. L. 99–508, §101(c)(1)(A), substituted "wire, oral, or electronic" for "wire or oral" in section catchline.
 
-Par. (1). Pub. L. 99–508, §101(c)(1)(A), (d)(1), (f)\[(1)\], substituted “intentionally” for “willfully” in subpars. (a) to (d) and “wire, oral, or electronic’ for “wire or oral” wherever appearing in subpars. (a), (c), and (d), and in concluding provisions substituted “shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5)” for “shall be fined not more than $10,000 or imprisoned not more than five years, or both”.
+Par. (1). Pub. L. 99–508, §101(c)(1)(A), (d)(1), (f)\[(1)\], substituted "intentionally" for "willfully" in subpars. (a) to (d) and "wire, oral, or electronic' for "wire or oral" wherever appearing in subpars. (a), (c), and (d), and in concluding provisions substituted "shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5)" for "shall be fined not more than $10,000 or imprisoned not more than five years, or both".
 
-Par. (2)(a)(i). Pub. L. 99–508, §101(c)(5), substituted “a provider of wire or electronic communication service” for “any communication common carrier” and “of the provider of that service, except that a provider of wire communication service to the public” for “of the carrier of such communication: <i>Provided</i>, That said communication common carriers”.
+Par. (2)(a)(i). Pub. L. 99–508, §101(c)(5), substituted "a provider of wire or electronic communication service" for "any communication common carrier" and "of the provider of that service, except that a provider of wire communication service to the public" for "of the carrier of such communication: <i>Provided</i>, That said communication common carriers".
 
-Par. (2)(a)(ii). Pub. L. 99–508, §101(b)(1), (c)(1)(A), (6), substituted “providers of wire or electronic communication service” for “communication common carriers”, “wire, oral, or electronic” for “wire or oral”, “if such provider” for “if the common carrier”, “provider of wire or electronic communication service” for “communication common carrier” wherever appearing, “such disclosure” for “violation of this subparagraph by a communication common carrier or an officer, employee, or agent thereof”, “render such person liable” for “render the carrier liable”, and “a court order or certification under this chapter” for “an order or certification under this subparagraph” in two places.
+Par. (2)(a)(ii). Pub. L. 99–508, §101(b)(1), (c)(1)(A), (6), substituted "providers of wire or electronic communication service" for "communication common carriers", "wire, oral, or electronic" for "wire or oral", "if such provider" for "if the common carrier", "provider of wire or electronic communication service" for "communication common carrier" wherever appearing, "such disclosure" for "violation of this subparagraph by a communication common carrier or an officer, employee, or agent thereof", "render such person liable" for "render the carrier liable", and "a court order or certification under this chapter" for "an order or certification under this subparagraph" in two places.
 
-Par. (2)(b). Pub. L. 99–508, §101(c)(1)(B), inserted “or electronic” after “wire”.
+Par. (2)(b). Pub. L. 99–508, §101(c)(1)(B), inserted "or electronic" after "wire".
 
-Par. (2)(c). Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
+Par. (2)(c). Pub. L. 99–508, §101(c)(1)(A), substituted "wire, oral, or electronic" for "wire or oral".
 
-Par. (2)(d). Pub. L. 99–508, §101(b)(2), (c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” and struck out “or for the purpose of committing any other injurious act” after “of any State”.
+Par. (2)(d). Pub. L. 99–508, §101(b)(2), (c)(1)(A), substituted "wire, oral, or electronic" for "wire or oral" and struck out "or for the purpose of committing any other injurious act" after "of any State".
 
-Par. (2)(f). Pub. L. 99–508, §101(b)(3), inserted “or chapter 121” in two places and substituted “foreign communications, or foreign intelligence activities conducted in accordance with otherwise applicable Federal law involving a foreign electronic communications system, utilizing a means” for “foreign communications by a means”.
+Par. (2)(f). Pub. L. 99–508, §101(b)(3), inserted "or chapter 121" in two places and substituted "foreign communications, or foreign intelligence activities conducted in accordance with otherwise applicable Federal law involving a foreign electronic communications system, utilizing a means" for "foreign communications by a means".
 
 Par. (2)(g), (h). Pub. L. 99–508, §101(b)(4), added subpars. (g) and (h).
 
@@ -194,21 +194,21 @@ Par. (3). Pub. L. 99–508, §102, added par. (3).
 
 Pars. (4), (5). Pub. L. 99–508, §101(d)(2), added pars. (4) and (5).
 
-<b>1984</b>—Par. (2)(e). Pub. L. 98–549, §6(b)(2)(A), substituted “section 705 or 706” for “section 605 or 606”.
+<b>1984</b>—Par. (2)(e). Pub. L. 98–549, §6(b)(2)(A), substituted "section 705 or 706" for "section 605 or 606".
 
-Par. (2)(f). Pub. L. 98–549, §6(b)(2)(B), substituted “section 705” for “section 605”.
+Par. (2)(f). Pub. L. 98–549, §6(b)(2)(B), substituted "section 705" for "section 605".
 
 <b>1978</b>—Par. (2)(a)(ii). Pub. L. 95–511, §201(a), substituted provisions authorizing communication common carriers etc., to provide information to designated persons, prohibiting disclosure of intercepted information, and rendering violators civilly liable for provision exempting communication common carriers from criminality for giving information to designated officers.
 
 Par. (2)(e), (f). Pub. L. 95–511, §201(b), added par. (2)(e) and (f).
 
-Par. (3). Pub. L. 95–511, §201(c), struck out par. (3) which provided that nothing in this chapter or section 605 of title 47 limited the President's constitutional power to gather necessary intelligence to protect the national security and stated the conditions necessary for the reception into evidence and disclosure of communications intercepted by the President.
+Par. (3). Pub. L. 95–511, §201(c), struck out par. (3) which provided that nothing in this chapter or section 605 of title 47 limited the President's constitutional power to gather necessary intelligence to protect the national security and stated the conditions necessaryfor the reception into evidence and disclosure of communications intercepted by the President.
 
 <b>1970</b>—Par. (2)(a). Pub. L. 91–358 designated existing provisions as cl. (i) and added cl. (ii).
 
 #### Effective Date of 2008 Amendment
 
-Amendments by sections 101(c)(1) and 102(c)(1) of Pub. L. 110–261 effective July 10, 2008, except as otherwiseprovided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, see section 402 of Pub. L. 110–261, set out as a note under section 1801 of Title 50.
+Amendments by sections 101(c)(1) and 102(c)(1) of Pub. L. 110–261 effective July 10, 2008, except as otherwise provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, see section 402 of Pub. L. 110–261, set out as a note under section 1801 of Title 50.
 
 Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, the amendments made by section 403(b)(2) are effective Dec. 31, 2017.
 

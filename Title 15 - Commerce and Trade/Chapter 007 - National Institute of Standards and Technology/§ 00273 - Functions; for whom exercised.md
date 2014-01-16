@@ -6,11 +6,11 @@ The Institute is authorized to exercise its functions for the Government of the 
 
 #### References in Text
 
-“Herein”, referred to in last sentence of this section, refers to act Mar. 3, 1901, ch. 872, which is classified generally to this chapter.
+"Herein", referred to in last sentence of this section, refers to act Mar. 3, 1901, ch. 872, which is classified generally to this chapter.
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–418 substituted “Institute” for “Bureau” and for “bureau”.
+<b>1988</b>—Pub. L. 100–418 substituted "Institute" for "Bureau" and for "bureau".
 
 <b>1972</b>—Pub. L. 92–317 authorized the Bureau to extend its services to international organizations of which the United States is a member, and for governments of friendly countries in coordination with the Department of State.
 

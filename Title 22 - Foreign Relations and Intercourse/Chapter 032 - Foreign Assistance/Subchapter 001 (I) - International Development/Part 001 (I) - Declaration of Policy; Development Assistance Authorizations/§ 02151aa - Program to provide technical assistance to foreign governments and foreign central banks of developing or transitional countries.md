@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;In carrying out the program established under subsection (a) of this section, the Secretary shall provide economic and financial technical assistance to foreign governments and foreign central banks of developing and transitional countries by providing advisers with appropriate expertise to advance the enactment of laws and establishment of administrative procedures and institutions in suchcountries to promote macroeconomic and fiscal stability, efficient resource allocation, transparent and market-oriented processes and sustainable private sector growth.
+&emsp;In carrying out the program established under subsection (a) of this section, the Secretary shall provide economic and financial technical assistance to foreign governments and foreign central banks of developing and transitional countries by providing advisers with appropriate expertise to advance the enactment of laws and establishment of administrative procedures and institutions in such countries to promote macroeconomic and fiscal stability, efficient resource allocation, transparent and market-oriented processes and sustainable private sector growth.
 
 #### (2) Additional requirements
 
@@ -106,7 +106,7 @@ The Secretary shall conclude assistance activities for a recipient foreign gover
 
 #### (2) Definition
 
-&emsp;In this subsection, the term “appropriate congressional committees” means—
+&emsp;In this subsection, the term "appropriate congressional committees" means—
 
 &emsp;&emsp;(A) the Committee on International Relations and the Committee on Appropriations of the House of Representatives; and
 
@@ -118,19 +118,19 @@ In this section:
 
 #### (1) Developing or transitional country
 
-&emsp;The term “developing or transitional country” means a country eligible to receive development assistance under this part.
+&emsp;The term "developing or transitional country" means a country eligible to receive development assistance under this part.
 
 #### (2) International financial institution
 
-&emsp;The term “international financial institution” means the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guarantee Agency, the Asian Development Bank, the African Development Bank, the African Development Fund, the Inter-American Development Bank, the Inter-American Investment Corporation, the European Bank for Reconstruction and Development, and the Bank for Economic Cooperation and Development in the Middle East and North Africa.
+&emsp;The term "international financial institution" means the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guarantee Agency, the Asian Development Bank, the African Development Bank, the African Development Fund, the Inter-American Development Bank, the Inter-American Investment Corporation, the European Bank for Reconstruction and Development, and the Bank for Economic Cooperation and Development in the Middle East and North Africa.
 
 #### (3) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Treasury.
+&emsp;The term "Secretary" means the Secretary of the Treasury.
 
 #### (4) Technical assistance
 
-&emsp;The term “technical assistance” includes—
+&emsp;The term "technical assistance" includes—
 
 &emsp;&emsp;(A) the use of short-term and long-term expert advisers to assist foreign governments and foreign central banks for the purposes described in subsection (b)(1) of this section;
 
@@ -144,7 +144,7 @@ In this section:
 
 #### (5) Foreign participant
 
-&emsp;The term “foreign participant” means the national of a developing or transitional country that is receiving assistance under the program established under subsection (a) of this section who has been designated to participate in activities under such program.
+&emsp;The term "foreign participant" means the national of a developing or transitional country that is receiving assistance under the program established under subsection (a) of this section who has been designated to participate in activities under such program.
 
 #### (j) Authorization of appropriations
 
@@ -160,9 +160,9 @@ In this section:
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, asamended. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-This chapter, referred to in subsec. (d)(4), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (d)(4), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 

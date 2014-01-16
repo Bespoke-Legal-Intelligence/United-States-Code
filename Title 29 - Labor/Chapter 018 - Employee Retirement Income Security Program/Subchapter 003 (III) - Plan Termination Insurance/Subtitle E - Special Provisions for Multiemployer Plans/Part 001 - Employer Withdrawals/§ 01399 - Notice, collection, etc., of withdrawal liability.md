@@ -36,7 +36,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (1)(A)(i) Except as provided in subparagraphs (B) and (D) of this paragraph and in paragraphs (4) and (5), an employer shall pay the amount determined under section 1391 of this title, adjusted if appropriate first under section 1389 of this title and then under section 1386 of this title over the period of years necessary to amortize the amount in level annual payments determined under subparagraph (C), calculated as if the first payment were made on the first day of the plan year following the plan year in which the withdrawal occurs and as if each subsequent payment were made on the first day of each subsequent plan year. Actual payment shall commence in accordance with paragraph (2).
 
-(ii) The determination of the amortization period described in clause (i) shall be based on the assumptions used for the most recent actuarial valuation for the plan.
+(ii) The determination of the amortization period described in clause (i) shall be based on theassumptions used for the most recent actuarial valuation for the plan.
 
 (B) In any case in which the amortization period described in subparagraph (A) exceeds 20 years, the employer's liability shall be limited to the first 20 annual payments determined under subparagraph (C).
 
@@ -56,9 +56,9 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (IV) If under a plan this clause applies to any plan year but does not apply to the next plan year, this clause shall not apply to any plan year after such next plan year.
 
-(V) For purposes of this clause, the term “required contributions” means, for any period, the amounts which the employer was obligated to contribute for such period (not taking into account any delinquent contribution for any other period).
+(V) For purposes of this clause, the term "required contributions" means, for any period, the amounts which the employer was obligated to contribute for such period (not taking into account any delinquent contribution for any other period).
 
-(iii) A plan may be amended to provide that for the first plan year ending on or after September 26, 1980, the number “5” shall be substituted for the number “10” each place it appears in clause (i) or clause (ii) (whichever is appropriate). If the plan is so amended, the number “5” shall be increased by one for each succeeding plan year until the number “10” is reached.
+(iii) A plan may be amended to provide that for the first plan year ending on or after September 26, 1980, the number "5" shall be substituted for the number "10" each place it appears in clause (i) or clause (ii) (whichever is appropriate). If the plan is so amended, the number "5" shall be increased by one for each succeeding plan year until the number "10" is reached.
 
 (D) In any case in which a multiemployer plan terminates by the withdrawal of every employer from the plan, or in which substantially all the employers withdraw from a plan pursuant to an agreement or arrangement to withdraw from the plan—
 
@@ -80,7 +80,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (4) The employer shall be entitled to prepay the outstanding amount of the unpaid annual withdrawal liability payments determined under paragraph (1)(C), plus accrued interest, if any, in whole or in part, without penalty. If the prepayment is made pursuant to a withdrawal which is later determined to be part of a withdrawal described in paragraph (1)(D), the withdrawal liability of the employer shall not be limited to the amount of the prepayment.
 
-(5) In the event of a default, a plan sponsor may require immediate payment of the outstanding amount of an employer's withdrawal liability, plus accrued interest on the total outstanding liability from the due date of the first payment which was not timely made. For purposes of this section, the term “default” means—
+(5) In the event of a default, a plan sponsor may require immediate payment of the outstanding amount of an employer's withdrawal liability, plus accrued interest on the total outstanding liability from the due date of the first payment which was not timely made. For purposes of this section, the term "default" means—
 
 &emsp;(A) the failure of an employer to make, when due, any payment under this section, if the failure is not cured within 60 days after the employer receives written notification from the plan sponsor of such failure, and
 
@@ -88,7 +88,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (6) Except as provided in paragraph (1)(A)(ii), interest under this subsection shall be charged at rates based on prevailing market rates for comparable obligations, in accordance with regulations prescribed by the corporation.
 
-(7) A multiemployer plan may adopt rules for other terms and conditions for the satisfaction of an employer's withdrawal liability if such rules—
+(7) A multiemployer plan may adopt rules for other terms and conditions for the satisfactionof an employer's withdrawal liability if such rules—
 
 &emsp;(A) are consistent with this chapter, and
 
@@ -104,9 +104,9 @@ The prohibitions provided in section 1106(a) of this title do not apply to any a
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(7)(A), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (c)(7)(A), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 
-<b>1984</b>—Subsec. (c)(1)(C)(iii). Pub. L. 98–369 substituted “September 26, 1980” for “April 29, 1980”.
+<b>1984</b>—Subsec. (c)(1)(C)(iii). Pub. L. 98–369 substituted "September 26, 1980" for "April 29, 1980".
 

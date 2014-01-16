@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There shall be established in each local area of a State, and certified by the Governor of the State, a local workforce investment board, to set policy for the portion of the statewide workforce investment system within the local area (referred to in this chapter as a “local workforce investment system”).
+There shall be established in each local area of a State, and certified by the Governor of the State, a local workforce investment board, to set policy for the portion of the statewide workforce investment system within the local area (referred to in this chapter as a "local workforce investment system").
 
 #### (b) Membership
 
@@ -72,7 +72,7 @@ There shall be established in each local area of a State, and certified by the G
 
 #### (C) Concentrated employment programs
 
-&emsp;&emsp;In the case of a local area designated in accordance with section 2831(a)(2)(B) of this title, the governing body of the concentrated employment program involved shall act inconsultation with the chief elected official in the local area to appoint members of the local board, in accordance with the State criteria established under subsection (b) of this section, and to carry out any other responsibility relating to workforce investment activities assigned to such official under this Act.
+&emsp;&emsp;In the case of a local area designated in accordance with section 2831(a)(2)(B) of this title, the governing body of the concentrated employment program involved shall act in consultation with the chief elected official in the local area to appoint members of the local board, in accordance with the State criteria established under subsection (b) of this section, and to carry out any other responsibility relating to workforce investment activities assigned to such official under this Act.
 
 #### (2) Certification
 
@@ -156,7 +156,7 @@ The functions of the local board shall include the following:
 
 #### (II) Designation
 
-&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governorserves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
 
 #### (III) Disbursal
 
@@ -228,7 +228,7 @@ The local board shall make available to the public, on a regular basis through o
 
 #### (2) Core services; intensive services; designation or certification as one-stop operators
 
-&emsp;A local board may provide core services described in section 2864(d)(2) of this title or intensive services described in section 2864(d)(3)of this title through a one-stop delivery system described in section 2864(c) of this title or be designated or certified as a one-stop operator only with the agreement of the chief elected official and the Governor.
+&emsp;A local board may provide core services described in section 2864(d)(2) of this title or intensive services described in section 2864(d)(3) of this title through a one-stop delivery system described in section 2864(c) of this title or be designated or certified as a one-stop operator only with the agreement of the chief elected official and the Governor.
 
 #### (3) Limitation on authority
 
@@ -322,7 +322,7 @@ A member of a local board may not—
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (c)(4), and (d)(3)(B)(i)(III), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (a), (c)(4), and (d)(3)(B)(i)(III), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 This Act, referred to in subsecs. (c)(1)(C), (d)(3)(B)(i)(III), (iii), (f)(3), and (i)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
@@ -330,7 +330,7 @@ Section 1512 of this title, referred to in subsec. (i)(1)(C)(i), was repealed by
 
 #### Amendments
 
-<b>1998</b>—Subsec. (f)(1)(D). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(A)\], substituted “if the Governor” for “if the State”.
+<b>1998</b>—Subsec. (f)(1)(D). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(A)\], substituted "if the Governor" for "if the State".
 
-Subsec. (i)(1)(D)(ii)(II). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(B)\], added subcl. (II) and struck out former subcl. (II) which read as follows: “(for a local area in which no employees are represented by such organizations), other representatives of employees in the local area.”
+Subsec. (i)(1)(D)(ii)(II). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(B)\], added subcl. (II) and struck out former subcl. (II) which read as follows: "(for a local area in which no employees are represented by such organizations), other representatives of employees in the local area."
 

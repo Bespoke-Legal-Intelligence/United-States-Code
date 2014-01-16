@@ -6,5 +6,5 @@ Before any violation of this chapter is reported by the Commission to any United
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–314 substituted “Commission” for “Secretary”.
+<b>2008</b>—Pub. L. 110–314 substituted "Commission" for "Secretary".
 

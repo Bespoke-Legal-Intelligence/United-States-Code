@@ -20,11 +20,11 @@ Section 294n of this title, referred to in subsec. (b), was in the original a re
 
 #### Change of Name
 
-“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–597 substituted “National Health Professional Shortage Clearinghouse” for “National Health Manpower Shortage Clearinghouse” in section catchline and subsec. (a).
+<b>1990</b>—Pub. L. 101–597 substituted "National Health Professional Shortage Clearinghouse" for "National Health Manpower Shortage Clearinghouse" in section catchline and subsec. (a).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

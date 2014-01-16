@@ -6,7 +6,7 @@
 
 (c) In civil cases, before the voir dire examination begins, or within seven days after the party discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, any party may move to stay the proceedings on the ground of substantial failure to comply with the provisions of this title in selecting the petit jury.
 
-(d) Upon motion filed under subsection (a), (b), or (c) of this section, containing a sworn statement of facts which, if true, would constitute a substantial failure to comply with the provisions of this title, the moving party shall be entitled to present in support of such motion the testimony of the jury commission or clerk, if available, any relevant records and papers not public or otherwise available used by the jury commissioner or clerk, and any other relevantevidence. If the court determines that there has been a substantial failure to comply with the provisions of this title in selecting the grand jury, the court shall stay the proceedings pending the selection of a grand jury in conformity with this title or dismiss the indictment, whichever is appropriate. If the court determines that there has been a substantial failure to comply with the provisions of this title in selecting the petit jury, the court shall stay the proceedings pending the selection of a petit jury in conformity with this title.
+(d) Upon motion filed under subsection (a), (b), or (c) of this section, containing a sworn statement of facts which, if true, would constitute a substantial failure to comply with the provisions of this title, the moving party shall be entitled to present in support of such motion the testimony of the jury commission or clerk, if available, any relevant records and papers not public or otherwise available used by the jury commissioner or clerk, and any other relevant evidence. If the court determines that there has been a substantial failure to comply with the provisions of this title in selecting the grand jury, the court shall stay the proceedings pending the selection of a grand jury in conformity with this title or dismiss the indictment, whichever is appropriate. If the court determines that there has been a substantial failure to comply with the provisions of this title in selecting the petit jury, the court shall stay the proceedings pending the selection of a petit jury in conformity with this title.
 
 (e) The procedures prescribed by this section shall be the exclusive means by which a person accused of a Federal crime, the Attorney General of the United States or a party in a civil case may challenge any jury on the ground that such jury was not selected in conformity with the provisions of this title. Nothing in this section shall preclude any person or the United States from pursuing any other remedy, civil or criminal, which may be available for the vindication or enforcement of any law prohibiting discrimination on account of race, color, religion, sex, national origin or economic status in the selection of persons for service on grand or petit juries.
 
@@ -22,7 +22,7 @@ Provisions for service by a disinterested person when marshal or his deputy is d
 
 Provision for payment and reimbursement of postage and registry fee were omitted as covered by section 560 of this title.
 
-Word “summons” was substituted for “writ of venire facias” in harmony with the Federal Rules of Civil Procedure which abolished unnecessary forms. See Rule 81(b) thereof, and Rule 12 of the Federal Rules of Criminal Procedure.
+Word "summons" was substituted for "writ of venire facias" in harmony with the Federal Rules of Civil Procedure which abolished unnecessary forms. See Rule 81(b) thereof, and Rule 12 of the Federal Rules of Criminal Procedure.
 
 Provision of section 416 of title 28, U.S.C., 1940 ed., that the receipt of the person so addressed by registered mail should be regarded as personal service, was omitted. Such omission is consistent with Rule 5(b) of the Federal Rules of Civil Procedure providing that service by mail is complete upon mailing.
 
@@ -36,7 +36,7 @@ Changes were made in phraseology.
 
 <b>1968</b>—Pub. L. 90–274 substituted provisions by which a defendant may assert noncompliance with the selection procedures of the jury for provisions covering the issuance of summonses for jurors and service thereof upon jurors.
 
-<b>1957</b>—Pub. L. 85–259 inserted “or certified” in second and third sentences.
+<b>1957</b>—Pub. L. 85–259 inserted "or certified" in second and third sentences.
 
 #### Effective Date of 1968 Amendment
 

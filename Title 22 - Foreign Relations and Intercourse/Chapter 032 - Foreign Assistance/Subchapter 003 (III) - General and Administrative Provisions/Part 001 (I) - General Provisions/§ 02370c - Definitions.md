@@ -4,7 +4,7 @@ In sections 2370c to 2370c–2 of this title:
 
 #### (1) Appropriate congressional committees
 
-&emsp;The term “appropriate congressional committees” means—
+&emsp;The term "appropriate congressional committees" means—
 
 &emsp;&emsp;(A) the Committee on Foreign Relations of the Senate;
 
@@ -16,7 +16,7 @@ In sections 2370c to 2370c–2 of this title:
 
 #### (2) Child soldier
 
-&emsp;Consistent with the provisions of the Optional Protocol to the Convention of the Rights of the Child, the term “child soldier”—
+&emsp;Consistent with the provisions of the Optional Protocol to the Convention of the Rights of the Child, the term "child soldier"—
 
 &emsp;&emsp;(A) means—
 
@@ -34,7 +34,7 @@ In sections 2370c to 2370c–2 of this title:
 
 #### References in Text
 
-Sections 2370c to 2370c–2 of this title, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, known as the Child Soldiers Prevention Act of 2008, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of title IV to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
+Sections 2370c to 2370c–2 of this title, referred to in text, was in the original "this title", meaning title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, known as the Child Soldiers Prevention Act of 2008, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of title IV to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
 
 #### Codification
 
@@ -42,7 +42,7 @@ Section was enacted as part of the Child Soldiers Prevention Act of 2008, and al
 
 #### Effective Date
 
-Pub. L. 110–457, title IV, §407, Dec. 23, 2008, 122 Stat. 5091, provided that: “This title \[enacting this section and sections 2370c–1 and 2370c–2 of this title, amending section 4028 of this title, and enacting provisions set out as a note under section 2151 of this title\], and the amendments made by this title, shall take effect 180 days after the date of the enactment of this Act \[Dec. 23, 2008\].”
+Pub. L. 110–457, title IV, §407, Dec. 23, 2008, 122 Stat. 5091, provided that: "This title \[enacting this section and sections 2370c–1 and 2370c–2 of this title, amending section 4028 of this title, and enacting provisions set out as a note under section 2151 of this title\], and the amendments made by this title, shall take effect 180 days after the date of the enactment of this Act \[Dec. 23, 2008\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “clause”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "clause".</i>
 

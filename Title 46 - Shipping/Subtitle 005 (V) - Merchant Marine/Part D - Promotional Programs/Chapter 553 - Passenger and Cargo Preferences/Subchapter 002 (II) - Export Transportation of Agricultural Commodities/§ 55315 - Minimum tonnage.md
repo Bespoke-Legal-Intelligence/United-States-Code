@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “base period” means the 5-year period runningfrom the sixth through the second prior fiscal years.
+Definition.—In this section, the term "base period" means the 5-year period runningfrom the sixth through the second prior fiscal years.
 
 (b)
 
@@ -30,9 +30,9 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title IX, §901c, as added Pub. L. 99–198, title XI, §1142, Dec. 23, 1985, 99 Stat. 1493.
 
-In subsection (b), the words “For fiscal year 1986 and” are omitted as obsolete.
+In subsection (b), the words "For fiscal year 1986 and" are omitted as obsolete.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–141 substituted “specified in section 55314(b)” for “subject to section 55314”.
+<b>2012</b>—Subsec. (b). Pub. L. 112–141 substituted "specified in section 55314(b)" for "subject to section 55314".
 

@@ -2,7 +2,7 @@
 
 #### (a) Group health plan
 
-For purposes of this chapter, the term “group health plan” has the meaning given to such term by section 5000(b)(1).
+For purposes of this chapter, the term "group health plan" has the meaning given to such term by section 5000(b)(1).
 
 #### (b) Definitions relating to health insurance
 
@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “health insurance coverage” means benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or health maintenance organization contract offered by a health insurance issuer.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "health insurance coverage" means benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or health maintenance organization contract offered by a health insurance issuer.
 
 #### (B) No application to certain excepted benefits
 
@@ -20,11 +20,11 @@ For purposes of this chapter—
 
 #### (2) Health insurance issuer
 
-&emsp;The term “health insurance issuer” means an insurance company, insurance service, or insurance organization (including a health maintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which is subject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974, as in effect on the date of the enactment of this section). Such term does not include a group health plan.
+&emsp;The term "health insurance issuer" means an insurance company, insurance service, or insurance organization (including a health maintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which is subject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974, as in effect on the date of the enactmentof this section). Such term does not include a group health plan.
 
 #### (3) Health maintenance organization
 
-&emsp;The term “health maintenance organization” means—
+&emsp;The term "health maintenance organization" means—
 
 &emsp;&emsp;(A) a federally qualified health maintenance organization (as defined in section 1301(a) of the Public Health Service Act (42 U.S.C. 300e(a))),
 
@@ -34,7 +34,7 @@ For purposes of this chapter—
 
 #### (c) Excepted benefits
 
-For purposes of this chapter, the term “excepted benefits” means benefits under one or more (or any combination thereof) of the following:
+For purposes of this chapter, the term "excepted benefits" means benefits under one or more (or any combination thereof) of the following:
 
 #### (1) Benefits not subject to requirements
 
@@ -44,7 +44,7 @@ For purposes of this chapter, the term “excepted benefits” means benefits un
 
 &emsp;(C) Liability insurance, including general liability insurance and automobile liability insurance.
 
-&emsp;(D) Workers’ compensation or similar insurance.
+&emsp;(D) Workers' compensation or similar insurance.
 
 &emsp;(E) Automobile medical payment insurance.
 
@@ -78,7 +78,7 @@ For purposes of this chapter—
 
 #### (1) COBRA continuation provision
 
-&emsp;The term “COBRA continuation provision” means any of the following:
+&emsp;The term "COBRA continuation provision" means any of the following:
 
 &emsp;&emsp;(A) Section 4980B, other than subsection (f)(1) thereof insofar as it relates to pediatric vaccines.
 
@@ -88,11 +88,11 @@ For purposes of this chapter—
 
 #### (2) Governmental plan
 
-&emsp;The term “governmental plan” has the meaning given such term by section 414(d).
+&emsp;The term "governmental plan" has the meaning given such term by section 414(d).
 
 #### (3) Medical care
 
-&emsp;The term “medical care” has the meaning given such term by section 213(d) determined without regard to—
+&emsp;The term "medical care" has the meaning given such term by section 213(d) determined without regard to—
 
 &emsp;&emsp;(A) paragraph (1)(C) thereof, and
 
@@ -100,15 +100,15 @@ For purposes of this chapter—
 
 #### (4) Network plan
 
-&emsp;The term “network plan” means health insurance coverage of a health insurance issuer under which the financing and delivery of medical care are provided, in whole or in part, through a defined set of providers under contract with the issuer.
+&emsp;The term "network plan" means health insurance coverage of a health insurance issuer under which the financing and delivery of medical care are provided, in whole or in part, through a defined set of providers under contract with the issuer.
 
 #### (5) Placed for adoption defined
 
-&emsp;The term “placement”, or being “placed”, for adoption, in connection with any placement for adoption of a child with any person, means the assumption and retention by such person of a legal obligation for total or partial support of such child in anticipation of adoption of such child. The child's placement with such person terminates upon the termination of such legal obligation.
+&emsp;The term "placement", or being "placed", for adoption, in connection with any placement for adoption of a child with any person, means the assumption and retention by such person of a legal obligation for total or partial support of such child in anticipation of adoption of such child. The child's placement with such person terminates upon the termination of such legal obligation.
 
 #### (6) Family member
 
-&emsp;The term “family member” means, with respect to any individual—
+&emsp;The term "family member" means, with respect to any individual—
 
 &emsp;&emsp;(A) a dependent (as such term is used for purposes of section 9801(f)(2)) of such individual, and
 
@@ -118,7 +118,7 @@ For purposes of this chapter—
 
 #### (A) In general
 
-&emsp;&emsp;The term “genetic information” means, with respect to any individual, information about—
+&emsp;&emsp;The term "genetic information" means, with respect to any individual, information about—
 
 &emsp;&emsp;&emsp;(i) such individual's genetic tests,
 
@@ -132,17 +132,17 @@ For purposes of this chapter—
 
 #### (C) Exclusions
 
-&emsp;&emsp;The term “genetic information” shall not include information about the sex or age of any individual.
+&emsp;&emsp;The term "genetic information" shall not include information about the sex or age of any individual.
 
 #### (8) Genetic test
 
 #### (A) In general
 
-&emsp;&emsp;The term “genetic test” means an analysis of human DNA, RNA, chromosomes, proteins, or metabolites, that detects genotypes, mutations, or chromosomal changes.
+&emsp;&emsp;The term "genetic test" means an analysis of human DNA, RNA, chromosomes, proteins, or metabolites, that detects genotypes, mutations, or chromosomal changes.
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “genetic test” does not mean—
+&emsp;&emsp;The term "genetic test" does not mean—
 
 &emsp;&emsp;&emsp;(i) an analysis of proteins or metabolites that does not detect genotypes, mutations, or chromosomal changes, or
 
@@ -150,7 +150,7 @@ For purposes of this chapter—
 
 #### (9) Genetic services
 
-&emsp;The term “genetic services” means—
+&emsp;The term "genetic services" means—
 
 &emsp;&emsp;(A) a genetic test;
 
@@ -160,7 +160,7 @@ For purposes of this chapter—
 
 #### (10) Underwriting purposes
 
-&emsp;The term “underwriting purposes” means, with respect to any group health plan, or health insurance coverage offered in connection with a group health plan—
+&emsp;The term "underwriting purposes" means, with respect to any group health plan, or health insurance coverage offered in connection with a group health plan—
 
 &emsp;&emsp;(A) rules for, or determination of, eligibility (including enrollment and continued eligibility) for benefits under the plan or coverage;
 

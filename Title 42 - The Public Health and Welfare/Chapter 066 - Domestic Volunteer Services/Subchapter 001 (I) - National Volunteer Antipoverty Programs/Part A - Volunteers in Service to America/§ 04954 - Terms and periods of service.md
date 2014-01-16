@@ -14,7 +14,7 @@ Volunteers serving under this part shall be required to make a full-time persona
 
 #### (c) Oath or affirmation
 
-Volunteers under this part shall, upon enrollment, take the oath of office as prescribed forpersons appointed to any office of honor or profit by section 3331 of title 5, and shall swear (or affirm) that the volunteer does not advocate the overthrow of the constitutional form of government of the United States and that the volunteer is not a member of an organization that advocates the overthrow of the constitutional form of government of the United States, knowing that such organization so advocates, except that persons legally residing within a State but who are not citizens or nationals of the United States, may serve under this part without taking or subscribing to such oath, if the Director determines that the service of such persons will further the interests of the United States. Such persons shall take such alternative oath or affirmation as the Director shall deem appropriate.
+Volunteers under this part shall, upon enrollment, take the oath of office as prescribed for persons appointed to any office of honor or profit by section 3331 of title 5, and shall swear (or affirm) that the volunteer does not advocate the overthrow of the constitutional form of government of the United States and that the volunteer is not a member of an organization that advocates the overthrow of the constitutional form of government of the United States, knowing that such organization so advocates, except that persons legally residing within a State but who are not citizens or nationals of the United States, may serve under this part without taking or subscribing to such oath, if the Director determines that the service of such persons will further the interests of the United States. Such persons shall take such alternative oath or affirmation as the Director shall deem appropriate.
 
 #### (d) Grievance and personal view presentation procedure; notice and hearing; information
 
@@ -32,17 +32,17 @@ The Director shall establish a procedure, including notice and opportunity to be
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(2), was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+This chapter, referred to in subsec. (e)(2), was in the original "this Act", meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–82, §324(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Volunteers serving under this part may be enrolled for periods of service not exceeding two years, but for not less than one-year periods of service, except that volunteers serving under this part may be enrolled for periods of service of less than one year when the Director determines, on an individual basis, that a period of service of less than one year is necessary to meet a critical scarce-skill need. Volunteers serving under this part may be reenrolled for periods of service totaling not more than two years. No volunteer shall serve for more than a total of five years under this part.”
+<b>1993</b>—Subsec. (b). Pub. L. 103–82, §324(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Volunteers serving under this part may be enrolled for periods of service not exceeding two years, but for not less than one-year periods of service, except that volunteers serving under this part may be enrolled for periods of service of less than one year when the Director determines, on an individual basis, that a period of service of less than one year is necessary to meet a critical scarce-skill need. Volunteers serving under this part may be reenrolled for periods of service totaling not more than two years. No volunteer shall serve for more than a total of five years under this part."
 
 Subsec. (e). Pub. L. 103–82, §324(b), added subsec. (e).
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–204 substituted “for persons appointed to any office of honor or profit by section 3331 of title 5, and shall swear (or affirm) that the volunteer does not advocate the overthrow of the constitutional form of government of the United States and that the volunteer is not a member of an organization that advocates the overthrow of the constitutional form of government of the United States, knowing that such organization so advocates, except” for “in section 2504(j) of title 22, except”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–204 substituted "for persons appointed to any office of honor or profit by section 3331 of title 5, and shall swear (or affirm) that the volunteer does not advocate the overthrow of the constitutional form of government of the United States and that the volunteer is not a member of an organization that advocates the overthrow of the constitutional form of government of the United States, knowing that such organization so advocates, except" for "in section 2504(j) of title 22, except".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–288 struck out “human, social, and environmental” in first sentence after “poverty-related”, and substituted “the requirement for full-time commitment” for “this” in second sentence.
+<b>1984</b>—Subsec. (a). Pub. L. 98–288 struck out "human, social, and environmental" in first sentence after "poverty-related", and substituted "the requirement for full-time commitment" for "this" in second sentence.
 
 #### Effective Date of 1993 Amendment
 
@@ -52,25 +52,25 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L.
 
 Pub. L. 101–204, title I, §101(c), Dec. 7, 1989, 103 Stat. 1810, as amended by Pub. L. 103–82, title IV, §405(h), Sept. 21, 1993, 107 Stat. 921, provided that:
 
-“(1)
+"(1)
 
 In general.—Notwithstanding the limitations established in section 104(b) of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4954(b)) for the maximum period of service as a volunteer under part A of title I of such Act (42 U.S.C. 4951 et seq.), the Chief Executive Officer of the Corporation for National and Community Service may, subject to paragraphs (2) and (3), extend beyond such maximum the period of service for such volunteer in any case in which—
 
-&emsp;“(A) such extension is requested by the project or program to which such volunteer involved is assigned; and
+&emsp;"(A) such extension is requested by the project or program to which such volunteer involved is assigned; and
 
-&emsp;“(B) such Director determines that such extension is appropriate with respect to meeting the goals of such project or program.
+&emsp;"(B) such Director determines that such extension is appropriate with respect to meeting the goals of such project or program.
 
-“(2)
+"(2)
 
 Limitations on extensions.—With respect to extensions under paragraph (1) for volunteers described in such paragraph—
 
-&emsp;“(A) such an extension shall not exceed a 1-year period;
+&emsp;"(A) such an extension shall not exceed a 1-year period;
 
-&emsp;“(B) not more than two of such extensions may be made for any one volunteer; and
+&emsp;"(B) not more than two of such extensions may be made for any one volunteer; and
 
-&emsp;“(C) not more than 1 percent of the total number of such volunteers serving for the fiscal year involved may receive such extensions.
+&emsp;"(C) not more than 1 percent of the total number of such volunteers serving for the fiscal year involved may receive such extensions.
 
-“(2) \[(3)\]
+"(2) \[(3)\]
 
-Duration of authority.—The authority established in paragraph (1) shall be effective only for fiscal years 1990 through 1993.”
+Duration of authority.—The authority established in paragraph (1) shall be effective only for fiscal years 1990 through 1993."
 

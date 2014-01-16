@@ -18,7 +18,7 @@ Section 101 of act July 18, 1950, cited as a credit to this section, as applicab
 
 #### Amendments
 
-<b>1955</b>—Act Aug. 11, 1955, included urban renewal projects, and inserted “as amended” after “(Public Law 171, Eighty-first Congress)” and after “this Act”.
+<b>1955</b>—Act Aug. 11, 1955, included urban renewal projects, and inserted "as amended" after "(Public Law 171, Eighty-first Congress)" and after "this Act".
 
 #### Urban Renewal Activities
 

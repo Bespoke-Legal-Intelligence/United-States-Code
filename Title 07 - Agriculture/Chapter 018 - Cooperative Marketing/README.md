@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [451\.](%C2%A7%2000451%20-%20%E2%80%9CAgricultural%20products%E2%80%9D%20defined.md) | “Agricultural products” defined. |
+| [451\.](%C2%A7%2000451%20-%20Agricultural%20products%20defined.md) | "Agricultural products" defined. |
 | [452\.](%C2%A7%2000452%20-%20Supervision%20of%20division%20of%20cooperative%20marketing.md) | Supervision of division of cooperative marketing. |
 | [453\.](%C2%A7%2000453%20-%20Authority%20and%20duties%20of%20division.md) | Authority and duties of division. |
 | [454\.](%C2%A7%2000454%20-%20Advisers%20to%20counsel%20with%20Secretary%20of%20Agriculture%3B%20expenses%20and%20subsistence.md) | Advisers to counsel with Secretary of Agriculture; expenses and subsistence. |
@@ -17,7 +17,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00451 - &#8220;Agricultural products&#8221; defined](%C2%A7%2000451%20-%20%E2%80%9CAgricultural%20products%E2%80%9D%20defined.md)
+- [&sect; 00451 - Agricultural products defined](%C2%A7%2000451%20-%20Agricultural%20products%20defined.md)
 - [&sect; 00452 - Supervision of division of cooperative marketing](%C2%A7%2000452%20-%20Supervision%20of%20division%20of%20cooperative%20marketing.md)
 - [&sect; 00453 - Authority and duties of division](%C2%A7%2000453%20-%20Authority%20and%20duties%20of%20division.md)
 - [&sect; 00454 - Advisers to counsel with Secretary of Agriculture; expenses and subsistence](%C2%A7%2000454%20-%20Advisers%20to%20counsel%20with%20Secretary%20of%20Agriculture%3B%20expenses%20and%20subsistence.md)

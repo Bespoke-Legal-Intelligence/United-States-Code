@@ -44,7 +44,7 @@ The Secretary is authorized to establish and carry out a national teacher recrui
 
 #### (3) Eligible entities
 
-&emsp;In this subsection, the term “eligible entity” includes—
+&emsp;In this subsection, the term "eligible entity" includes—
 
 &emsp;&emsp;(A) a State educational agency;
 
@@ -124,7 +124,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 &emsp;&emsp;&emsp;(v) a description of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the specific objectives that the partnership will seek to attain throughthe project, and the methods that the partnership will use to measure progress toward attainment of those objectives; and
+&emsp;&emsp;&emsp;&emsp;(I) the specific objectives that the partnership will seek to attain through the project, and the methods that the partnership will use to measure progress toward attainment of those objectives; and
 
 &emsp;&emsp;&emsp;&emsp;(II) how the objectives and the measurement methods align with the achievement indicators established by the Secretary under paragraph (6)(A);
 
@@ -220,13 +220,13 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### (A) Early childhood educator
 
-&emsp;&emsp;The term “early childhood educator” means a person providing, or employed by a provider of, nonresidential child care services (including center-based, family-based, and in-home child care services) that is legally operating under State law, and that complies with applicable State and local requirements for the provision of child care services to children at any age from birth through the age at which a child may start kindergarten in that State.
+&emsp;&emsp;The term "early childhood educator" means a person providing, or employed by a provider of, nonresidential child care services (including center-based, family-based, and in-home child care services) that is legally operating under State law, and that complies with applicable State and local requirements for the provision of child care services to children at any age from birth through the age at which a child may start kindergarten in that State.
 
 #### (B) High-need community
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “high-need community” means—
+&emsp;&emsp;&emsp;The term "high-need community" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) a political subdivision of a State, or a portion of a political subdivision of a State, in which at least 50 percent of the children are from low-income families; or
 
@@ -238,17 +238,17 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### (C) Low-income family
 
-&emsp;&emsp;The term “low-income family” means a family with an income below the poverty line for the most recent fiscal year for which satisfactory data are available.
+&emsp;&emsp;The term "low-income family" means a family with an income below the poverty line for the most recent fiscal year for which satisfactory data are available.
 
 #### (f) Teacher mobility
 
 #### (1) Establishment
 
-&emsp;The Secretary is authorized to establish a panel to be known as the National Panel on Teacher Mobility (referred to in this subsection as the “panel”).
+&emsp;The Secretary is authorized to establish a panel to be known as the National Panel on Teacher Mobility (referred to in this subsection as the "panel").
 
 #### (2) Membership
 
-&emsp;The panel shall be composed of 12 members appointed by the Secretary. The Secretary shall appoint the members from among practitioners and experts with experience relating to teacher mobility, such as teachers, members of teacher certification or licensing bodies, faculty of institutions of higher education that prepare teachers, and State policymakers with such experience.
+&emsp;The panel shall be composed of 12 members appointed by the Secretary. The Secretaryshall appoint the members from among practitioners and experts with experience relating to teacher mobility, such as teachers, members of teacher certification or licensing bodies, faculty of institutions of higher education that prepare teachers, and State policymakers with such experience.
 
 #### (3) Period of appointment; vacancies
 
@@ -294,7 +294,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### (A) Travel expenses
 
-&emsp;&emsp;The members of the panel shall not receive compensation for the performance of services for the panel, but shall be allowed travelexpenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the panel. Notwithstanding section 1342 of title 31, the Secretary may accept the voluntary and uncompensated services of members of the panel.
+&emsp;&emsp;The members of the panel shall not receive compensation for the performance of services for the panel, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the panel. Notwithstanding section 1342 of title 31, the Secretary may accept the voluntary and uncompensated services of members of the panel.
 
 #### (B) Detail of Government employees
 

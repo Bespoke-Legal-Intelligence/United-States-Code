@@ -32,7 +32,7 @@ In general.—If the Under Secretary denies an application submitted by an airpo
 
 &emsp;&emsp;(B)
 
-Submission to congress.—The Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives a copy of any report provided to an airport operator under subparagraph (A).
+Submission to congress.—The Under Secretary shall submit to the Committee onCommerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives a copy of any report provided to an airport operator under subparagraph (A).
 
 (c)
 
@@ -48,7 +48,7 @@ In general.—The Under Secretary may enter into a contract with a private scree
 
 &emsp;&emsp;(A) the level of screening services and protection provided at the airport under the contract will be equal to or greater than the level that would be provided at the airport by Federal Government personnel under this chapter; and
 
-&emsp;&emsp;(B) the private screening company is owned and controlled by a citizen of the United States, to the extent that the Under Secretary determines that there are privatescreening companies owned and controlled by such citizens.
+&emsp;&emsp;(B) the private screening company is owned and controlled by a citizen of the United States, to the extent that the Under Secretary determines that there are private screening companies owned and controlled by such citizens.
 
 &emsp;(2)
 
@@ -90,7 +90,7 @@ The Support Anti-Terrorism by Fostering Effective Technologies Act of 2002, refe
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–95, §830(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Under Secretary may approve any application submitted under subsection (a).”
+<b>2012</b>—Subsec. (b). Pub. L. 112–95, §830(a), amended subsec. (b) generally. Prior to amendment, text read as follows: "The Under Secretary may approve any application submitted under subsection (a)."
 
 Subsec. (d). Pub. L. 112–95, §830(b), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2).
 

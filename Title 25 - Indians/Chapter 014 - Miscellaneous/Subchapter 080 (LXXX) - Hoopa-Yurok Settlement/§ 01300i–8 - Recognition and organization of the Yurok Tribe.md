@@ -38,7 +38,7 @@ There shall be established an Interim Council of the Yurok Tribe to be composed 
 
 (3) The Interim Council shall have such other powers, authorities, functions, and responsibilities as the Secretary may recognize, except that any contract or legal obligation that would bind the Yurok Tribe for a period in excess of two years from the date of the certification of the election by the Secretary shall be subject to disapproval and cancellation by the Secretary if the Secretary determines that such a contract or legal obligation is unnecessary to improve housing conditions of members of the Yurok Tribe, or to obtain other rights, privileges or benefits that are in the long-term interest of the Yurok Tribe.
 
-(4) The Interim Council shall appoint, as soon as practical, a drafting committee which shall be responsible, in consultation with the Interim Council, the Secretary and members of the tribe, for the preparation of a draft constitution for submission to the Secretary pursuant to subsection (e) of this section.
+(4) The Interim Council shall appoint, as soon as practical, a drafting committee which shallbe responsible, in consultation with the Interim Council, the Secretary and members of the tribe, for the preparation of a draft constitution for submission to the Secretary pursuant to subsection (e) of this section.
 
 (5) The Interim Council shall be dissolved effective with the election and installation of the initial tribe <sup>1</sup> governing body elected pursuant to the constitution adopted under subsection (e) of this section or at the end of two years after such installation, whichever occurs first.
 
@@ -54,9 +54,9 @@ The Indian Reorganization Act, referred to in subsecs. (a)(2) and (e), is act Ju
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a)(3). Pub. L. 101–301 substituted “counseling and assistance, shall” for “counseling,”.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–301 substituted "counseling and assistance, shall" for "counseling,".
 
 <b>1989</b>—Subsec. (a)(3). Pub. L. 101–121 inserted provisions authorizing the Yurok Transition Team to receive grants and enter into contracts for the purpose of carrying out this section and section 1300i–9(a) of this title and directing that such grants and contracts be transferred to the Yurok Interim Council upon its organization.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “tribal”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "tribal".</i>
 

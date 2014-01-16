@@ -22,7 +22,7 @@ The Secretary shall develop innovative methods of disseminating information on a
 
 #### (1) Annual ranking of States
 
-&emsp;The Secretary shall rank annually the States to which grants are paid under section 603 of this title in the order of their success in placing recipients of assistance under the State program funded under this part into long-term private sector jobs, reducing the overall welfare caseload, and, when a practicable method for calculating this information becomes available, diverting individuals from formally applying to the State program and receiving assistance. In ranking States under this subsection, the Secretary shall take into account the average number of minor children living at home in families in the State that have incomes below the poverty line and the amount of funding provided each State for such families.
+&emsp;The Secretary shall rank annually the States to which grants are paid under section 603 of this title in the order of their success in placing recipients of assistance under the State program funded under this part into long-term private sector jobs, reducing the overall welfare caseload, and, when a practicable method for calculating this information becomes available, diverting individuals from formally applying to the State program and receiving assistance. In ranking States under this subsection, the Secretary shall take into account the average number ofminor children living at home in families in the State that have incomes below the poverty line and the amount of funding provided each State for such families.
 
 #### (2) Annual review of most and least successful work programs
 
@@ -140,7 +140,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (4) Compliance with plan
 
-&emsp;A State that submits a corrective action plan that the Secretary has found contains the information required by this subsection shallimplement the corrective action plan until the State determines that the child poverty rate in the State is less than the lowest child poverty rate on the basis of which the State was required to submit the corrective action plan.
+&emsp;A State that submits a corrective action plan that the Secretary has found contains the information required by this subsection shall implement the corrective action plan until the State determines that the child poverty rate in the State is less than the lowest child poverty rate on the basis of which the State was required to submit the corrective action plan.
 
 #### (5) Methodology
 
@@ -196,41 +196,41 @@ A prior section 613, act Aug. 14, 1935, ch. 531, title IV, §413, as added June 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (h)(1). Pub. L. 112–96 substituted “fiscal year 2012” for “each of fiscal years 1997 through 2002” in introductory provisions.
+<b>2012</b>—Subsec. (h)(1). Pub. L. 112–96 substituted "fiscal year 2012" for "each of fiscal years 1997 through 2002" in introductory provisions.
 
-<b>2008</b>—Subsec. (i)(5). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
+<b>2008</b>—Subsec. (i)(5). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted "supplemental nutrition assistance program benefits" for "food stamp".
 
 <b>1999</b>—Subsec. (g)(1). Pub. L. 106–169 made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
 
-<b>1998</b>—Subsec. (g)(1). Pub. L. 105–200 substituted “Education and the Workforce” for “Economic and Educational Opportunities”.
+<b>1998</b>—Subsec. (g)(1). Pub. L. 105–200 substituted "Education and the Workforce" for "Economic and Educational Opportunities".
 
 <b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
-Subsec. (a). Pub. L. 105–33, §5509(a), inserted “, directly or through grants, contracts, or interagency agreements,” before “shall conduct” and substituted “section 607” for “section 609”.
+Subsec. (a). Pub. L. 105–33, §5509(a), inserted ", directly or through grants, contracts, or interagency agreements," before "shall conduct" and substituted "section 607" for "section 609".
 
 Subsec. (e)(1). Pub. L. 105–33, §5509(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows:
 
-“(A)
+"(A)
 
 In general.—The Secretary shall annually rank States to which grants are made under section 603 of this title based on the following ranking factors:
 
-&emsp;“(i)
+&emsp;"(i)
 
 Absolute out-of-wedlock ratios.—The ratio represented by—
 
-&emsp;&emsp;“(I) the total number of out-of-wedlock births in families receiving assistance under the State program under this part in the State for the most recent fiscal year for which information is available; over
+&emsp;&emsp;"(I) the total number of out-of-wedlock births in families receiving assistance under the State program under this part in the State for the most recent fiscal year for which information is available; over
 
-&emsp;&emsp;“(II) the total number of births in families receiving assistance under the State program under this part in the State for such year.
+&emsp;&emsp;"(II) the total number of births in families receiving assistance under the State program under this part in the State for such year.
 
-&emsp;“(ii)
+&emsp;"(ii)
 
-Net changes in the out-of-wedlock ratio.—The difference between the ratio described in subparagraph (A)(i) with respect to a State for the most recent fiscal year for which such information is available and the ratio with respect to the State for the immediately preceding year.”
+Net changes in the out-of-wedlock ratio.—The difference between the ratio described in subparagraph (A)(i) with respect to a State for the most recent fiscal year for which such information is available and the ratio with respect to the State for the immediately preceding year."
 
-Subsec. (h)(1)(D). Pub. L. 105–33, §5509(c), substituted “August 22, 1996” for “September 30, 1995”.
+Subsec. (h)(1)(D). Pub. L. 105–33, §5509(c), substituted "August 22, 1996" for "September 30, 1995".
 
-Subsec. (i)(1). Pub. L. 105–33, §5509(d)(1), substituted “May 31, 1998” for “90 days after August 22, 1996”.
+Subsec. (i)(1). Pub. L. 105–33, §5509(d)(1), substituted "May 31, 1998" for "90 days after August 22, 1996".
 
-Subsec. (i)(5). Pub. L. 105–33, §5509(d)(2), substituted “, to the extent available, county-by-county” for “the county-by-county”.
+Subsec. (i)(5). Pub. L. 105–33, §5509(d)(2), substituted ", to the extent available, county-by-county" for "the county-by-county".
 
 Subsec. (j). Pub. L. 105–33, §5001(f), added subsec. (j).
 
@@ -266,7 +266,7 @@ Pub. L. 105–33, title V, §5001(i), Aug. 5, 1997, 111 Stat. 593, directed the 
 
 Pub. L. 104–193, title I, §107, Aug. 22, 1996, 110 Stat. 2164, as amended by Pub. L. 105–33, title V, §5511, Aug. 5, 1997, 111 Stat. 619, directed the Secretary, in cooperation with the States, to study and analyze outcomes measures for evaluating the success of the States in moving individuals out of the welfare system through employment as an alternative to the minimum participation rates described in 42 U.S.C. 607, and to submit a report to the appropriate committees of Congress by Sept. 30, 1998.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 

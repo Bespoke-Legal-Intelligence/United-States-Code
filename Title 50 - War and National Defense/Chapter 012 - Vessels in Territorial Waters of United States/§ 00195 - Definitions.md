@@ -4,11 +4,11 @@ In this Act:
 
 &emsp;(1)
 
-United states.—The term “United States” includes all territory and waters, continental or insular, subject to the jurisdiction of the United States.
+United states.—The term "United States" includes all territory and waters, continental or insular, subject to the jurisdiction of the United States.
 
 &emsp;(2)
 
-Territorial waters.—The term “territorial waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988.
+Territorial waters.—The term "territorial waters of the United States" includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988.
 
 (June 15, 1917, ch. 30, title XIII, §1, 40 Stat. 231; Pub. L. 96–70, title III, §3302(b), Sept. 27, 1979, 93 Stat. 498; Pub. L. 107–295, title I, §104(a), Nov. 25, 2002, 116 Stat. 2085.)
 
@@ -20,13 +20,13 @@ Presidential Proclamation 5928 of December 27, 1988, referred to in par. (2), is
 
 #### Codification
 
-Section was formerly classified to section 40 of this title. In the original this section defined “United States” as used in act June 15, 1917. Other provisions of that act were contained in sections 31 to 42 of this title and certain sections of former Title 18, Criminal Code and Criminal Procedure. The definition of “United States” as used in present provisions derived from those former sections is covered by section 5 of Title 18, Crimes and Criminal Procedure.
+Section was formerly classified to section 40 of this title. In the original this section defined "United States" as used in act June 15, 1917. Other provisions of that act were contained in sections 31 to 42 of this title and certain sections of former Title 18, Criminal Code and Criminal Procedure. The definition of "United States" as used in present provisions derived from those former sections is covered by section 5 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–295 added introductory provisions, designated existing provisions as par. (1), inserted heading, struck out “as used in this Act” before “includes”, and added par. (2).
+<b>2002</b>—Pub. L. 107–295 added introductory provisions, designated existing provisions as par. (1), inserted heading, struck out "as used in this Act" before "includes", and added par. (2).
 
-<b>1979</b>—Pub. L. 96–70 struck out “the Canal Zone and” after “this Act includes”.
+<b>1979</b>—Pub. L. 96–70 struck out "the Canal Zone and" after "this Act includes".
 
 #### Effective Date of 1979 Amendment
 

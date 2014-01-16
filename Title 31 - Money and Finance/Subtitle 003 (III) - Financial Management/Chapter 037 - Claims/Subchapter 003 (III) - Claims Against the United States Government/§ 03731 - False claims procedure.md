@@ -38,7 +38,7 @@ R.S. §3491(F); added Nov. 2, 1978, Pub. L. 95–582, §1, 92 Stat. 2479.
 
 R.S. §3494.
 
-In subsection (b), the words “A civil action under section 3730 of this title” are substituted for “Every such suit” for clarity.
+In subsection (b), the words "A civil action under section 3730 of this title" are substituted for "Every such suit" for clarity.
 
 #### References in Text
 
@@ -48,13 +48,13 @@ The Federal Rules of Evidence, referred to in subsec. (e), are set out in the Ap
 
 #### Amendments
 
-<b>2009</b>—Subsecs. (c) to (e). Pub. L. 111–21, which directed amendment of section “3731(b)” of this title by adding subsec. (c) and redesignating former subsecs. (c) and (d) as (d) and (e), respectively, was executed by making the amendment to this section, to reflect the probable intent of Congress.
+<b>2009</b>—Subsecs. (c) to (e). Pub. L. 111–21, which directed amendment of section "3731(b)" of this title by adding subsec. (c) and redesignating former subsecs. (c) and (d) as (d) and (e), respectively, was executed by making the amendment to this section, to reflect the probable intent of Congress.
 
-<b>1986</b>—Subsecs. (b) to (d). Pub. L. 99–562 added subsecs. (b) to (d) and struck out former subsec. (b) which read as follows: “A civil action under section 3730 of this title must be brought within 6 years from the date the violation is committed.”
+<b>1986</b>—Subsecs. (b) to (d). Pub. L. 99–562 added subsecs. (b) to (d) and struck out former subsec. (b) which read as follows: "A civil action under section 3730 of this title must be brought within 6 years from the date the violation is committed."
 
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–21 effective May 20, 2009, and applicable to conduct on or after May 20, 2009, except that this section, as amended by Pub. L. 111–21, applicable to cases pending on May 20, 2009, see section 4(f) of Pub. L. 111–21, set out as a note under section 3729 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

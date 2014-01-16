@@ -30,19 +30,19 @@ Subsection (a) shall not apply to funds for purposes of conducting, or providing
 
 In this section:
 
-&emsp;(1) The term “modified nuclear weapon” means a nuclear weapon that contains a pit or canned subassembly, either of which—
+&emsp;(1) The term "modified nuclear weapon" means a nuclear weapon that contains a pit or canned subassembly, either of which—
 
 &emsp;&emsp;(A) is in the nuclear weapons stockpile as of December 2, 2002; and
 
 &emsp;&emsp;(B) is being modified in order to meet a military requirement that is other than the military requirements applicable to such nuclear weapon when first placed in the nuclear weapons stockpile.
 
-&emsp;(2) The term “new nuclear weapon” means a nuclear weapon that contains a pit or canned subassembly, either of which is neither—
+&emsp;(2) The term "new nuclear weapon" means a nuclear weapon that contains a pit or canned subassembly, either of which is neither—
 
 &emsp;&emsp;(A) in the nuclear weapons stockpile on December 2, 2002; nor
 
 &emsp;&emsp;(B) in production as of that date.
 
-(Pub. L. 107–314, div. D, title XLII, §4209, formerly div. C, title XXXI, §3143, Dec. 2, 2002, 116 Stat. 2733; renumbered div. D, title XLII, §4209, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(10), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3115, Oct. 28, 2009, 123 Stat. 2707.)
+(Pub. L. 107–314, div. D, title XLII, §4209, formerly div. C, title XXXI, §3143, Dec. 2, 2002, 116 Stat. 2733; renumbered div. D, title XLII, §4209, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(10), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3115, Oct. 28, 2009, 123 Stat. 2707; Pub. L. 113–66, div. C, title XXXI, §3146(c)(5), Dec. 26, 2013, 127 Stat. 1074.)
 
 #### Codification
 
@@ -50,17 +50,19 @@ Section was formerly classified to section 7271d of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (c). Pub. L. 111–84, §3115(1), substituted “necessary to address proliferation concerns.” for “necessary—
+<b>2013</b>—Subsec. (d). Pub. L. 113–66 made technical amendment to reference in original act which appearsin text as reference to "December 2, 2002" in two places.
 
-&emsp;“(1) for the nuclear weapons life extension program;
+<b>2009</b>—Subsec. (c). Pub. L. 111–84, §3115(1), substituted "necessary to address proliferation concerns." for "necessary—
 
-&emsp;“(2) to modify an existing nuclear weapon solely to address safety or reliability concerns; or
+&emsp;"(1) for the nuclear weapons life extension program;
 
-&emsp;“(3) to address proliferation concerns.”
+&emsp;"(2) to modify an existing nuclear weapon solely to address safety or reliability concerns; or
 
-Subsec. (d). Pub. L. 111–84, §3115(2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1), which read as follows: “The term ‘life extension program’ means the program to repair or replace non-nuclear components, or to modify the pit or canned subassembly, of nuclear weapons that are in the nuclear weapons stockpile on December 2, 2002, in order to assure that such nuclear weapons retain the ability to meet the military requirements applicable to such nuclear weapons when first placed in the nuclear weapons stockpile.”
+&emsp;"(3) to address proliferation concerns."
+
+Subsec. (d). Pub. L. 111–84, §3115(2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1), which read as follows: "The term 'life extension program' means the program to repair or replace non-nuclear components, or to modify the pit or canned subassembly, of nuclear weapons that are in the nuclear weapons stockpile on December 2, 2002, in order to assure that such nuclear weapons retain the ability to meet the military requirements applicable to such nuclear weapons when first placed in the nuclear weapons stockpile."
 
 #### Limitation on Development of Low-Yield Nuclear Weapons
 
-Pub. L. 108–136, div. C, title XXXI, §3116(c), Nov. 24, 2003, 117 Stat. 1746, provided that: “The Secretary of Energy may not commence the engineering development phase, or any subsequent phase, of a low-yield nuclear weapon unless specifically authorized by Congress.”
+Pub. L. 108–136, div. C, title XXXI, §3116(c), Nov. 24, 2003, 117 Stat. 1746, provided that: "The Secretary of Energy may not commence the engineering development phase, or any subsequent phase, of a low-yield nuclear weapon unless specifically authorized by Congress."
 

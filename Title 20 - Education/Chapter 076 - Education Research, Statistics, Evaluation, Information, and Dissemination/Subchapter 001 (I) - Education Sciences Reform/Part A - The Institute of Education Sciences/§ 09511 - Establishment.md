@@ -46,7 +46,7 @@ The Institute shall consist of the following:
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–446, §201(b)(2)(A), inserted “and special education” after “early childhood education”.
+<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–446, §201(b)(2)(A), inserted "and special education" after "early childhood education".
 
 Subsec. (c)(3)(D). Pub. L. 108–446, §201(b)(2)(B), added subpar. (D).
 

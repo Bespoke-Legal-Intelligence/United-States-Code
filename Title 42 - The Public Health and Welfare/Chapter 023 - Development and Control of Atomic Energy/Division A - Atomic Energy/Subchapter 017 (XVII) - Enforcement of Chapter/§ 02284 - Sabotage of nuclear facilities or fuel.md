@@ -26,19 +26,23 @@ Any person who knowingly causes an interruption of normal operation of any such 
 
 (Aug. 1, 1946, ch. 724, title I, §236, as added Pub. L. 96–295, title II, §204(a), June 30, 1980, 94 Stat. 787; amended Pub. L. 97–415, §16, Jan. 4, 1983, 96 Stat. 2076; Pub. L. 101–575, §5(d), Nov. 15, 1990, 104 Stat. 2835; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 107–56, title VIII, §§810(f), 811(h), Oct. 26, 2001, 115 Stat. 380, 381; Pub. L. 109–58, title VI, §655, Aug. 8, 2005, 119 Stat. 813.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a)(1) to (3), (5), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–58, §655(b), substituted “knowingly” for “intentionally and willfully” in introductory provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58, §655(b), substituted "knowingly" for "intentionally and willfully" in introductory provisions.
 
-Pub. L. 109–58, §655(a), substituted “treatment, storage, or disposal facility” for “storage facility” in par. (2), “a utilization facility licensed under this chapter” for “such a utilization facility” in par. (3), and “, uranium conversion, or nuclear fuel fabrication facility licensed or certified” for “facility licensed” in par. (4) and added pars. (5) to (7).
+Pub. L. 109–58, §655(a), substituted "treatment, storage, or disposal facility" for "storage facility" in par. (2), "a utilization facility licensed under this chapter" for "such a utilization facility" in par. (3), and ", uranium conversion, or nuclear fuel fabrication facility licensed or certified" for "facility licensed" in par. (4) and added pars. (5) to (7).
 
-Subsec. (b). Pub. L. 109–58, §655(b), substituted “knowingly” for “intentionally and willfully”.
+Subsec. (b). Pub. L. 109–58, §655(b), substituted "knowingly" for "intentionally and willfully".
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–56, §§810(f)(1), (2), 811(h)(1)(A), (C), in introductory provisions, struck out “, or who intentionally and willfully attempts to destroy or cause physical damage to” before “—”, and in concluding provisions, inserted “or attempts or conspires to do such an act,” before “shall be fined” and substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “ten years, or both.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–56, §§810(f)(1), (2), 811(h)(1)(A), (C), in introductory provisions, struck out ", or who intentionally and willfully attempts to destroy or cause physical damage to" before "—", and in concluding provisions, inserted "or attempts or conspires to do such an act," before "shall be fined" and substituted "20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life." for "ten years, or both."
 
 Subsec. (a)(4). Pub. L. 107–56, §811(h)(1)(B), substituted comma for period at end.
 
-Subsec. (b). Pub. L. 107–56, §§810(f)(1), (3), 811(h)(2), struck out “or attempts to cause” before “an interruption of normal operation”, inserted “or attempts or conspires to do such an act,” before “shall be fined”, and substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “ten years, or both.”
+Subsec. (b). Pub. L. 107–56, §§810(f)(1), (3), 811(h)(2), struck out "or attempts to cause" before "an interruption of normal operation", inserted "or attempts or conspires to do such an act," before "shall be fined", and substituted "20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life." for "ten years, or both."
 
 <b>1990</b>—Subsec. (a)(4). Pub. L. 101–575, which directed amendment of this section by adding par. (4) after par. (3), was executed by adding par. (4) after par. (3) of subsec. (a) of this section to reflect the probable intent of Congress.
 

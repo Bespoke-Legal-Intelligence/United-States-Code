@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) There is in the Administration a Principal Deputy Administrator, who is appointed by the President, by and with the advice and consent of the Senate.
+(1) There is in the Administration a Principal Deputy Administrator, who is appointed by thePresident, by and with the advice and consent of the Senate.
 
 (2) The Principal Deputy Administrator shall be appointed from among persons who have extensive background in organizational management and are well qualified to manage the nuclear weapons, nonproliferation, and materials disposition programs of the Administration in a manner that advances and protects the national security of the United States.
 
@@ -14,5 +14,5 @@ Subject to the authority, direction, and control of the Administrator, the Princ
 
 #### Prior Provisions
 
-A prior section 2403, Pub. L. 106–65, div. C, title XXXII, §3213, Oct. 5, 1999, 113 Stat. 958; Pub. L. 106–398,§1 \[div. C, title XXXI, §3157\], Oct. 30, 2000, 114 Stat. 1654, 1654A–468, which related to status of Administration and contractor personnel within Department of Energy, was renumbered section 3220 of Pub. L. 106–65, by Pub. L. 107–107, div. C, title XXXI, §3141(a)(1), Dec. 28, 2001, 115 Stat. 1369, and transferred to section 2410 of this title.
+A prior section 2403, Pub. L. 106–65, div. C, title XXXII, §3213, Oct. 5, 1999, 113 Stat. 958; Pub. L. 106–398, §1 \[div. C, title XXXI, §3157\], Oct. 30, 2000, 114 Stat. 1654, 1654A–468, which related to status of Administration and contractor personnel within Department of Energy, was renumbered section 3220 of Pub. L. 106–65, by Pub. L. 107–107, div. C, title XXXI, §3141(a)(1), Dec. 28, 2001, 115 Stat. 1369, and transferred to section 2410 of this title.
 

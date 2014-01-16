@@ -22,7 +22,7 @@ Consistent with the provisions of this section, the Comptroller General may subm
 
 #### (c) Other reviews and reports
 
-(1) The Comptroller General may, to the extent permitted by law, including section 3104(c) of this title and section 3144 of this title, also review data and information at the Bureau of the Census, the Bureau of Labor Statistics, and the Bureau of Economic Analysis and from time to time report to the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Foreign Affairs of the House of Representatives, the Committee onCommerce, Science, and Transportation of the Senate, and to the Joint Economic Committee of the Congress.
+(1) The Comptroller General may, to the extent permitted by law, including section 3104(c) of this title and section 3144 of this title, also review data and information at the Bureau of the Census, the Bureau of Labor Statistics, and the Bureau of Economic Analysis and from time to time report to the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Foreign Affairs of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and to the Joint Economic Committee of the Congress.
 
 (2) The Comptroller General shall, in carrying out paragraph (1), comply with procedures relating to access to and disclosure of data and information established within the Federal statistical agencies referred to in paragraph (1), and maintain any and all individually identifiable data and information at the statistical agency where the information is reviewed.
 
@@ -48,15 +48,15 @@ This Act and the amendments made by this Act, referred to in subsecs. (b)(4) and
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline.
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in section catchline.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–316, §111(c)(1), substituted “reports referred to in” for “report required under”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–316, §111(c)(1), substituted "reports referred to in" for "report required under".
 
-Subsec. (b). Pub. L. 104–316, §111(c)(2)(A), (D), substituted “Reports” for “Report” in heading, in introductory provisions substituted “Consistent with the provisions of this section, the Comptroller General may submit” for “Not later than 5 months after each report issued by the Secretary of Commerce under section 3142 of this title, the Comptroller General of the United States shall submit”, and struck out closing provisions which read as follows: “Reports under this subsection shall be issued only with respect to the first 3 reports issued by the Secretary of Commerce under section 3142 of this title.”
+Subsec. (b). Pub. L. 104–316, §111(c)(2)(A), (D), substituted "Reports" for "Report" in heading, in introductory provisions substituted "Consistent with the provisions of this section, the Comptroller General may submit" for "Not later than 5 months after each report issued by the Secretary of Commerce under section 3142 of this title, the Comptroller General of the United States shall submit", and struck out closing provisions which read as follows: "Reports under this subsection shall be issued only with respect to the first 3 reports issued by the Secretary of Commerce under section 3142 of this title."
 
-Pub. L. 104–316, §111(c)(2)(B), which directed that subsec. (b) be amended by substituting “Congress reports” for “Congress, a report”, was executed in the introductory provisions by making the substitution for “Congress a report”, to reflect the probable intent of Congress.
+Pub. L. 104–316, §111(c)(2)(B), which directed that subsec. (b) be amended by substituting "Congress reports" for "Congress, a report", was executed in the introductory provisions by making the substitution for "Congress a report", to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub. L. 104–316, §111(c)(2)(C), substituted “reports issued by the Secretary of Commerce under section 3142 of this title” for “the report of the Secretary of Commerce”.
+Subsec. (b)(1). Pub. L. 104–316, §111(c)(2)(C), substituted "reports issued by the Secretary of Commerce under section 3142 of this title" for "the report of the Secretary of Commerce".
 
 #### Change of Name
 

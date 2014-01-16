@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each State plan shall demonstrate that the State has adopted challenging academiccontent standards and challenging student academic achievement standards that will be used by the State, its local educational agencies, and its schools to carry out this part, except that a State shall not be required to submit such standards to the Secretary.
+&emsp;&emsp;Each State plan shall demonstrate that the State has adopted challenging academic content standards and challenging student academic achievement standards that will be used by the State, its local educational agencies, and its schools to carry out this part, except that a State shall not be required to submit such standards to the Secretary.
 
 #### (B) Same standards
 
@@ -72,7 +72,7 @@
 
 #### (C) Definition
 
-&emsp;&emsp;“Adequate yearly progress” shall be defined by the State in a manner that—
+&emsp;&emsp;"Adequate yearly progress" shall be defined by the State in a manner that—
 
 &emsp;&emsp;&emsp;(i) applies the same high standards of academic achievement to all public elementary school and secondary school students in the State;
 
@@ -156,7 +156,7 @@
 
 #### (J) Uniform averaging procedure
 
-&emsp;&emsp;For the purpose of determining whether schools are making adequate yearly progress, the State may establish a uniform procedure for averaging data which includes one or more of the following:
+&emsp;&emsp;For the purpose of determining whether schools are making adequate yearlyprogress, the State may establish a uniform procedure for averaging data which includes one or more of the following:
 
 &emsp;&emsp;&emsp;(i) The State may average data from the school year for which the determination is made with data from one or two school years immediately preceding that school year.
 
@@ -208,7 +208,7 @@
 
 &emsp;&emsp;&emsp;(vi) involve multiple up-to-date measures of student academic achievement, including measures that assess higher-order thinking skills and understanding;
 
-&emsp;&emsp;&emsp;(vii) beginning not later than school year 2005–2006, measure the achievement of students against the challenging State academic content and student academic achievement standards in each of grades 3 through 8 in, at a minimum, mathematics, and reading or language arts, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in thefinancial resources of the State, prevented full implementation of the academic assessments by that deadline and that the State will complete implementation within the additional 1-year period;
+&emsp;&emsp;&emsp;(vii) beginning not later than school year 2005–2006, measure the achievement of students against the challenging State academic content and student academic achievement standards in each of grades 3 through 8 in, at a minimum, mathematics, and reading or language arts, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of the academic assessments by that deadline and that the State will complete implementation within the additional 1-year period;
 
 &emsp;&emsp;&emsp;(viii) at the discretion of the State, measure the proficiency of students in academic subjects not described in clauses (v), (vi), (vii) in which the State has adopted challenging academic content and academic achievement standards;
 
@@ -218,7 +218,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the reasonable adaptations and accommodations for students with disabilities (as defined under section 602(3) of the Individuals with Disabilities Education Act \[20 U.S.C. 1401(3)\]) necessary to measure the academic achievement of such students relative to State academic content and State student academic achievement standards; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the inclusion of limited English proficient students, who shall be assessed in a valid and reliable manner and provided reasonable accommodations on assessments administered to such students under this paragraph, including, to the extent practicable, assessments in the language and form most likely to yield accurate data on what such students know and can do in academic content areas, until such students have achieved English language proficiency as determined under paragraph (7);
+&emsp;&emsp;&emsp;&emsp;(III) the inclusion of limited English proficient students, who shall be assessed in a valid and reliable manner and provided reasonable accommodations on assessments administered to such students under this paragraph, including, tothe extent practicable, assessments in the language and form most likely to yield accurate data on what such students know and can do in academic content areas, until such students have achieved English language proficiency as determined under paragraph (7);
 
 &emsp;&emsp;&emsp;(x) notwithstanding subclause (III), the academic assessment (using tests written in English) of reading or language arts of any student who has attended school in the United States (not including Puerto Rico) for three or more consecutive school years, except that if the local educational agency determines, on a case-by-case individual basis, that academic assessments in another language or form would likely yield more accurate and reliable information on what such student knows and can do, the local educational agency may make a determination to assess such student in the appropriate language other than English for a period that does not exceed two additional consecutive years, provided that such student has not yet reached a level of English language proficiency sufficient to yield valid and reliable information on what such student knows and can do on tests (written in English) of reading or language arts;
 
@@ -230,7 +230,7 @@
 
 &emsp;&emsp;&emsp;(xiv) be consistent with widely accepted professional testing standards, objectively measure academic achievement, knowledge, and skills, and be tests that do not evaluate or assess personal or family beliefs and attitudes, or publicly disclose personally identifiable information; and
 
-&emsp;&emsp;&emsp;(xv) enable itemized score analyses to be produced and reported, consistent with clause (iii), to local educational agencies and schools, so that parents, teachers, principals, and administrators can interpret and address the specific academic needs of students as indicated by the students’ achievement on assessment items.
+&emsp;&emsp;&emsp;(xv) enable itemized score analyses to be produced and reported, consistent with clause (iii), to local educational agencies and schools, so that parents, teachers, principals, and administrators can interpret and address the specific academic needs of students as indicated by the students' achievement on assessment items.
 
 #### (D) Deferral
 
@@ -266,7 +266,7 @@
 
 #### (7) Academic assessments of English language proficiency
 
-&emsp;Each State plan shall demonstrate that local educational agencies in the State will, beginning not later than school year 2002–2003, provide for an annual assessment of English proficiency (measuring students’ oral language, reading, and writing skills in English) of all students with limited English proficiency in the schools served by the State educational agency, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period.
+&emsp;Each State plan shall demonstrate that local educational agencies in the State will, beginning not later than school year 2002–2003, provide for an annual assessment of English proficiency (measuring students' oral language, reading, and writing skills in English) of all students with limited English proficiency in the schools served by the State educational agency, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period.
 
 #### (8) Requirement
 
@@ -428,7 +428,7 @@ Each State plan shall describe how the State educational agency will support the
 
 &emsp;&emsp;&emsp;(vii) information on the performance of local educational agencies in the State regarding making adequate yearly progress, including the number and names of each school identified for school improvement under section 6316 of this title; and
 
-&emsp;&emsp;&emsp;(viii) the professional qualifications of teachers in the State, the percentage of such teachers teaching with emergency or provisional credentials, and the percentage of classes in the State not taught by highly qualified teachers, in the aggregate and disaggregated by high-poverty compared to low-poverty schools which, for the purpose of this clause, means schools in the top quartile of poverty and the bottom quartile of poverty in the State.
+&emsp;&emsp;&emsp;(viii) the professional qualifications of teachers in the State, the percentage ofsuch teachers teaching with emergency or provisional credentials, and the percentage of classes in the State not taught by highly qualified teachers, in the aggregate and disaggregated by high-poverty compared to low-poverty schools which, for the purpose of this clause, means schools in the top quartile of poverty and the bottom quartile of poverty in the State.
 
 #### (D) Optional information
 
@@ -482,7 +482,7 @@ Each State plan shall describe how the State educational agency will support the
 
 #### (D) Data
 
-&emsp;&emsp;A local educational agency or school shall only include in its annual local educationalagency report card data that are sufficient to yield statistically reliable information, as determined by the State, and that do not reveal personally identifiable information about an individual student.
+&emsp;&emsp;A local educational agency or school shall only include in its annual local educational agency report card data that are sufficient to yield statistically reliable information, as determined by the State, and that do not reveal personally identifiable information about an individual student.
 
 #### (E) Public dissemination
 
@@ -592,9 +592,9 @@ A prior section 1111 of Pub. L. 89–10 was classified to section 2768 of this t
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–270 substituted "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
 
-<b>2004</b>—Subsec. (b)(2)(I)(ii). Pub. L. 108–446 substituted “section 612(a)(16)(A)” for “section 612(a)(17)(A)”.
+<b>2004</b>—Subsec. (b)(2)(I)(ii). Pub. L. 108–446 substituted "section 612(a)(16)(A)" for "section 612(a)(17)(A)".
 
-<b>2002</b>—Subsec. (c)(2). Pub. L. 107–279 substituted “section 9622(b)(2) of this title” for “section 9010(b)(2) of this title”.
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–279 substituted "section 9622(b)(2) of this title" for "section 9010(b)(2) of this title".
 

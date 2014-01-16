@@ -10,7 +10,7 @@ The Interim Council shall draft and distribute to each member described in secti
 
 #### (c) Majority vote necessary for adoption of constitution and bylaws
 
-In any election held pursuant to subsection (a) of this section, the vote of a majority of thoseactually voting shall be necessary and sufficient for the adoption of a tribal constitution and bylaws: <i>Provided</i>, That the total vote cast shall not be less than thirty percent of those entitled to vote.
+In any election held pursuant to subsection (a) of this section, the vote of a majority of those actually voting shall be necessary and sufficient for the adoption of a tribal constitution and bylaws: <i>Provided</i>, That the total vote cast shall not be less than thirty percent of those entitled to vote.
 
 #### (d) Election of tribal officials provided for in constitution and bylaws; ballot requirements
 

@@ -12,9 +12,9 @@ Whoever violates any provision of this subchapter, or any order issued under thi
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–293 substituted “$5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter” for “$1,000”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–293 substituted "$5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter" for "$1,000".
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–449 substituted “Secretary of Transportation” for “Secretary of War” wherever appearing. See Transfer of Functions note below.
+<b>1983</b>—Subsec. (a). Pub. L. 97–449 substituted "Secretary of Transportation" for "Secretary of War" wherever appearing. See Transfer of Functions note below.
 
 <b>1982</b>—Pub. L. 97–322 designated existing provisions as subsec. (a), made willfulness an element of the described offenses, and added subsec. (b).
 

@@ -36,5 +36,5 @@ Act of December 29, 1950, referred to in subsec. (b), is act Dec. 29, 1950, ch. 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 

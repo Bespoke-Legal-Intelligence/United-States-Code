@@ -6,7 +6,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;(1) To help address the needs identified in the State plan described in section 1453(a)(2) of this title for highly qualified personnel, as defined in section 1451(b) of this title, to work with infants or toddlers with disabilities, or children with disabilities, consistent with the qualifications described in section 1412(a)(14) of this title.
 
-&emsp;(2) To ensure that those personnel have the necessary skills and knowledge, derived frompractices that have been determined, through scientifically based research, to be successful in serving those children.
+&emsp;(2) To ensure that those personnel have the necessary skills and knowledge, derived from practices that have been determined, through scientifically based research, to be successful in serving those children.
 
 &emsp;(3) To encourage increased focus on academics and core content areas in special education personnel preparation programs.
 
@@ -78,7 +78,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;(D) Developing and improving programs for paraprofessionals to become special education teachers, related services personnel, and early intervention personnel, including interdisciplinary training to enable the paraprofessionals to improve early intervention, educational, and transitional results for children with disabilities.
 
-&emsp;&emsp;(E) In the case of principals and superintendents, providing activities to promoteinstructional leadership and improved collaboration between general educators, special education teachers, and related services personnel.
+&emsp;&emsp;(E) In the case of principals and superintendents, providing activities to promote instructional leadership and improved collaboration between general educators, special education teachers, and related services personnel.
 
 &emsp;&emsp;(F) Supporting institutions of higher education with minority enrollments of not less than 25 percent for the purpose of preparing personnel to work with children with disabilities.
 
@@ -144,7 +144,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 #### (3) Definition
 
-&emsp;In this section, the term “low incidence disability” means—
+&emsp;In this section, the term "low incidence disability" means—
 
 &emsp;&emsp;(A) a visual or hearing impairment, or simultaneous visual and hearing impairments;
 
@@ -154,7 +154,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 #### (4) Selection of recipients
 
-&emsp;In selecting eligible entities for assistance under this subsection, the Secretary may givepreference to eligible entities submitting applications that include 1 or more of the following:
+&emsp;In selecting eligible entities for assistance under this subsection, the Secretary may give preference to eligible entities submitting applications that include 1 or more of the following:
 
 &emsp;&emsp;(A) A proposal to prepare personnel in more than 1 low incidence disability, such as deafness and blindness.
 
@@ -196,7 +196,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 #### (3) Acceptance by States of personnel preparation requirements
 
-&emsp;The Secretary may require eligible entities to provide in the eligible entities’ applications assurances from 1 or more States that such States intend to accept successful completion of the proposed personnel preparation program as meeting State personnel standards or other requirements in State law or regulation for serving children with disabilities or serving infants and toddlers with disabilities.
+&emsp;The Secretary may require eligible entities to provide in the eligible entities' applications assurances from 1 or more States that such States intend to accept successful completion of the proposed personnel preparation program as meeting State personnel standards or other requirements in State law or regulation for serving children with disabilities or serving infants and toddlers with disabilities.
 
 #### (f) Selection of recipients
 
@@ -226,7 +226,7 @@ The Secretary may include funds for scholarships, with necessary stipends and al
 
 #### (1) In general
 
-&emsp;Each application for assistance under subsections (b), (c), and (d) shall include an assurance that the eligible entity will ensure that individuals who receive a scholarship under the proposed project agree to subsequently provide special education and related services to children with disabilities, or in the case of leadership personnel to subsequently work in the appropriate field, for a period of 2 years forevery year for which the scholarship was received or repay all or part of the amount of the scholarship, in accordance with regulations issued by the Secretary.
+&emsp;Each application for assistance under subsections (b), (c), and (d) shall include an assurance that the eligible entity will ensure that individuals who receive a scholarship under the proposed project agree to subsequently provide special education and related services to children with disabilities, or in the case of leadership personnel to subsequently work in the appropriate field, for a period of 2 years for every year for which the scholarship was received or repay all or part of the amount of the scholarship, in accordance with regulations issued by the Secretary.
 
 #### (2) Special rule
 

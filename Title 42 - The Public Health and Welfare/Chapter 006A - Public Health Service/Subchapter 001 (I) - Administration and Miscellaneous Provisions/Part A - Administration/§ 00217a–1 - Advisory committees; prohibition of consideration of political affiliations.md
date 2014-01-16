@@ -16,7 +16,7 @@ Section was not enacted as a part of the Public Health Service Act which compris
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–256 struck out “the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963,” after “Public Health Service Act,”.
+<b>2010</b>—Pub. L. 111–256 struck out "the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963," after "Public Health Service Act,".
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

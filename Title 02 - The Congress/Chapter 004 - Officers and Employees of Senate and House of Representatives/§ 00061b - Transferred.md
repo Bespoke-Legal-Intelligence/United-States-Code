@@ -1,0 +1,6 @@
+### §61b. Transferred
+
+#### Codification
+
+Section 61b was editorially reclassified as section 6535 of this title.
+

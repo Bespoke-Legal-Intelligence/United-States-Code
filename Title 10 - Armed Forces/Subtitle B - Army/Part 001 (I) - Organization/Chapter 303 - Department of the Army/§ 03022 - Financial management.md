@@ -36,9 +36,9 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller of the Department of Defense”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 substituted "Under Secretary of Defense (Comptroller)" for "Comptroller of the Department of Defense".
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–337 substituted “section 135(c)” for “section 137(c)”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–337 substituted "section 135(c)" for "section 137(c)".
 
 #### Effective Date
 

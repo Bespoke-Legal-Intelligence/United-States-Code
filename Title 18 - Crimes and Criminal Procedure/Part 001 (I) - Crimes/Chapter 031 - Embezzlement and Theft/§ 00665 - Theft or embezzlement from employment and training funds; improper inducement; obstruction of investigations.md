@@ -2,7 +2,7 @@
 
 (a) Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 knowingly enrolls an ineligible participant, embezzles, willfully misapplies, steals, or obtains by fraud any of the moneys, funds, assets, or property which are the subject of a financial assistance agreement or contract pursuant to such Act shall be fined under this title or imprisoned for not more than 2 years, or both; but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $1,000, such person shall be fined under this title or imprisoned not more than 1 year, or both.
 
-(b) Whoever, by threat or procuring dismissal of any person from employment or of refusal to employ or refusal to renew a contract of employment in connection with a financial assistance agreement or contract under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 induces any person to give up any money or thing of any value to any person (including such organization or agency receiving funds) shall be fined under this title, or imprisoned not more than 1 year, or both.
+(b) Whoever, by threat or procuring dismissal of any person from employment or of refusal to employ or refusal to renew a contract of employment in connection with a financial assistance agreement or contract under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 induces any person to give up any money or thing of any value toany person (including such organization or agency receiving funds) shall be fined under this title, or imprisoned not more than 1 year, or both.
 
 (c) Whoever willfully obstructs or impedes or willfully endeavors to obstruct or impede, an investigation or inquiry under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998, or the regulations thereunder, shall be punished by a fine under this title, or by imprisonment for not more than 1 year, or by both such fine and imprisonment.
 
@@ -20,29 +20,29 @@ Section 711(a) of Pub. L. 93–203, cited as a credit to this section, was omitt
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–273 substituted “a fine under this title” for “a fine of not more than $5,000”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–273 substituted "a fine under this title" for "a fine of not more than $5,000".
 
-<b>1998</b>—Subsecs. (a) to (c). Pub. L. 105–277 substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act or the Job Training Partnership Act”.
+<b>1998</b>—Subsecs. (a) to (c). Pub. L. 105–277 substituted "the Job Training Partnership Act or title I of the Workforce Investment Act of 1998" for "the Comprehensive Employment and Training Act or the Job Training Partnership Act".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–294 substituted “$1,000” for “$100”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–294 substituted "$1,000" for "$100".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” after “such Act shall be” and for “fined not more than $1,000” after “person shall be”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000" after "such Act shall be" and for "fined not more than $1,000" after "person shall be".
 
-Subsec. (b). Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000”.
+Subsec. (b). Pub. L. 103–322, §330016(1)(H), substituted "fined under this title" for "fined not more than $1,000".
 
-<b>1990</b>—Pub. L. 101–647 substituted semicolons for colons in section catchline and “Whoever” for “Any person whoever” in subsec. (c).
+<b>1990</b>—Pub. L. 101–647 substituted semicolons for colons in section catchline and "Whoever" for "Any person whoever" in subsec. (c).
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–300 inserted “or organization” after “any agency”, “or any funds” after “financial assistance”, “or Job Training Partnership Act” after “Comprehensive Employment and Training Act”, substituted “participant” for “individual or individuals”, and “financial assistance agreement or contract” for “grant or contract of assistance”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–300 inserted "or organization" after "any agency", "or any funds" after "financial assistance", "or Job Training Partnership Act" after "Comprehensive Employment and Training Act", substituted "participant" for "individual or individuals", and "financial assistance agreement or contract" for "grant or contract of assistance".
 
-Subsec. (b). Pub. L. 97–300 substituted “financial assistance agreement or contract” for “grant or contract of assistance”, inserted “or the Job Training Partnership Act” after “Comprehensive Employment and Training Act”, substituted “any person” for “any persons” after “induces”, and substituted “organization or agency receiving funds” for “grantee agency”.
+Subsec. (b). Pub. L. 97–300 substituted "financial assistance agreement or contract" for "grant or contract of assistance", inserted "or the Job Training Partnership Act" after "Comprehensive Employment and Training Act", substituted "any person" for "any persons" after "induces", and substituted "organization or agency receiving funds" for "grantee agency".
 
-Subsec. (c). Pub. L. 97–300 inserted “willfully” before “endeavors to obstruct”, and “or the Job Training Partnership Act” after “Comprehensive Employment and Training Act”.
+Subsec. (c). Pub. L. 97–300 inserted "willfully" before "endeavors to obstruct", and "or the Job Training Partnership Act" after "Comprehensive Employment and Training Act".
 
-<b>1978</b>—Pub. L. 95–524 substituted “employment and training funds:” for “manpower funds;” and inserted “: obstruction of investigations” after “improper inducement” in section catchline.
+<b>1978</b>—Pub. L. 95–524 substituted "employment and training funds:" for "manpower funds;" and inserted ": obstruction of investigations" after "improper inducement" in section catchline.
 
-Subsec. (a). Pub. L. 95–524 substituted “Comprehensive Employment and Training Act knowingly hires an ineligible individual or individuals,” for “Comprehensive Employment and Training Act of 1973”.
+Subsec. (a). Pub. L. 95–524 substituted "Comprehensive Employment and Training Act knowingly hires an ineligible individual or individuals," for "Comprehensive Employment and Training Act of 1973".
 
-Subsec. (b). Pub. L. 95–524 substituted “Comprehensive Employment and Training Act” for “Comprehensive Employment and Training Act of 1973”.
+Subsec. (b). Pub. L. 95–524 substituted "Comprehensive Employment and Training Act" for "Comprehensive Employment and Training Act of 1973".
 
 Subsec. (c). Pub. L. 95–524 added subsec. (c).
 

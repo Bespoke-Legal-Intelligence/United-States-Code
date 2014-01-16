@@ -2,7 +2,7 @@
 
 #### (a) Rates and sources; deposits in Fund
 
-(1) Except as otherwise provided in this section, 7.25 percent of the basic salary received byeach participant shall be deducted from the salary and contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amounts deducted and withheld from basic salary and the amounts contributed by the employing agency.
+(1) Except as otherwise provided in this section, 7.25 percent of the basic salary received by each participant shall be deducted from the salary and contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amounts deducted and withheld from basic salary and the amounts contributed by the employing agency.
 
 (2) Notwithstanding the percentage limitation contained in paragraph (1) of this subsection—
 
@@ -10,7 +10,7 @@
 
 &emsp;(B) The employing agency shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed pursuant to section 8415(e) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8422(a)(2)(B) <sup>1</sup> of title 5, plus an amount equal to .25 percent of basic pay. The amounts so deducted shall be contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the employing agency from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amounts deducted and withheld from basic salary and amounts contributed by the employing agency.
 
-(3) For service as a special agent, paragraph (1) shall be applied by substituting for “7 percent” the percentage that applies to law enforcement officers under section 8334(a)(1) of title 5, plus .25 percent.
+(3) For service as a special agent, paragraph (1) shall be applied by substituting for "7 percent" the percentage that applies to law enforcement officers under section 8334(a)(1) of title 5, plus .25 percent.
 
 #### (b) Consent to deduction; discharge and acquittance of claims and demands
 
@@ -50,7 +50,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 (3) Special contributions under this subsection shall include interest computed from the midpoint of each service period included in the computation, or from the date refund was paid, to the date of payment of the special contribution or commencing date of annuity, whichever is earlier. <sup>2</sup> Interest shall be compounded at the annual rate of 4 percent to December 31, 1976, and 3 percent thereafter. No interest shall be charged on special contributions for any period of separation from Government service which began before October 1, 1956. Special contributions may be paid in installments (including by allotment of pay) when authorized by the Secretary of State.
 
-(4) Notwithstanding the preceding provisions of this subsection and any provision of section 206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in the case of a participant described in section 4071b(c) of this title shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983, and before January 1, 1987, be equal to 1.3 percent.
+(4) Notwithstanding the preceding provisions of this subsection and any provision of section 206(b)(3) of the Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in the case of a participant described in section 4071b(c) of this title shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983, and before January 1, 1987, be equal to 1.3 percent.
 
 (5) Notwithstanding paragraph (1), a special contribution for past service as a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development which would have been creditable toward retirement under either section 8336(c) or 8412(d) of title 5, and for which a special contribution has not been made shall be equal to the difference between the amount actually contributed pursuant to either this section or section 4071e of this title and the amount that should have been contributed pursuant to either section 8334 or 8422 of title 5.
 
@@ -58,7 +58,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (e) Contribution for military or naval service
 
-(1) Subject to paragraph (5), each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this part is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
+(1) Subject to paragraph (5), each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this part is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basicpay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
 
 (2) Any deposit made under paragraph (1) of this subsection more than two years after the later of—
 
@@ -86,7 +86,7 @@ A participant or survivor may make a special contribution at any time before rec
 
 Effective with respect to pay periods beginning after December 31, 1986, in administering this section with respect to a participant described in section 4071b(c) of this title whose service is employment for the purposes of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and chapter 21 of title 26, contributions to the Fund and interest thereon shall be computed as if section 8334(k) of title 5 were applicable.
 
-(Pub. L. 96–465, title I, §805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, §4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§402(a)(2),405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, §212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, §4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, §7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, §2(b), (c), Nov. 13, 1998, 112 Stat. 3407; Pub. L. 106–346, §101(a) \[title V, §505(d)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(a)(2), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, §5001(c)(2)(D), Feb. 22, 2012, 126 Stat. 200.)
+(Pub. L. 96–465, title I, §805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, §4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§402(a)(2), 405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, §212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, §4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, §7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, §2(b), (c), Nov. 13, 1998, 112 Stat. 3407; Pub. L. 106–346, §101(a) \[title V, §505(d)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(a)(2), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, §5001(c)(2)(D), Feb. 22, 2012, 126 Stat. 200.)
 
 #### Amendment of Section
 
@@ -98,27 +98,27 @@ Section 505(h) of the Department of Transportation and Related Agencies Appropri
 
 Section 8422(a)(2) of title 5, referred to in subsec. (a)(2)(B), was amended by Pub. L. 105–33, title VII, §7001(b)(1)(A), Aug. 5, 1997, 111 Stat. 657, by striking out par. (2) and adding a new par. (2). As so amended, section 8422(a)(2)(B) of Title 5, Government Organization and Employees, no longer specifies the amount to be withheld from the basic pay of a law enforcement officer. However, provisions relating to the amount to be withheld from the basic pay of a law enforcement officer are contained elsewhere in section 8422.
 
-Sections 206(b)(3) and 203(a)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in subsec. (d)(4), are set out as a note under section 8331 of Title 5, Government Organization and Employees.
+Sections 206(b)(3) and 203(a)(3) of the Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983, referred to in subsec. (d)(4), are set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
 The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(2)(B). Pub. L. 112–96 substituted “section 8415(e)” for “section 8415(d)”.
+<b>2012</b>—Subsec. (a)(2)(B). Pub. L. 112–96 substituted "section 8415(e)" for "section 8415(d)".
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–228, §322(a)(2)(C), which directed amendment of par. (1) by substituting “employing agency” for “Department” wherever appearing, was executed by making the substitution in two places in the last sentence but not in the second sentence where “Department” appears before “of Transportation and Related Agencies Appropriations Act, 2001”, to reflect the probable intent of Congress.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–228, §322(a)(2)(C), which directed amendment of par. (1) by substituting "employing agency" for "Department" wherever appearing, was executed by making the substitution in two places in the last sentence but not in the second sentence where "Department" appears before "of Transportation and Related Agencies Appropriations Act, 2001", to reflect the probable intent of Congress.
 
-Pub. L. 107–228, §322(a)(2)(A), substituted “7.25 percent” for “7 percent” and “The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made” for “An equal amount shall be contributed by the Department”.
+Pub. L. 107–228, §322(a)(2)(A), substituted "7.25 percent" for "7 percent" and "The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made" for "An equal amount shall be contributed by the Department".
 
-Subsec. (a)(2)(A), (B). Pub. L. 107–228, §322(a)(2)(C), substituted “employing agency” for “Department” wherever appearing.
+Subsec. (a)(2)(A), (B). Pub. L. 107–228, §322(a)(2)(C), substituted "employing agency" for "Department" wherever appearing.
 
-Pub. L. 107–228, §322(a)(2)(B), which directed amendment of subpars. (A) and (B) by inserting “, plus an amount equal to .25 percent of basic pay” at end of first sentence, was executed by making the insertion before the period at end of first sentence to reflect the probable intent of Congress.
+Pub. L. 107–228, §322(a)(2)(B), which directed amendment of subpars. (A) and (B) by inserting ", plus an amount equal to .25 percent of basic pay" at end of first sentence, was executed by making the insertion before the period at end of first sentence to reflect the probable intent of Congress.
 
-Subsec. (a)(3). Pub. L. 107–228, §322(a)(2)(D), which directed amendment of par. (3) by inserting “, plus .25 percent” at the end of the first sentence, was executed by making the insertion before the period at end of first sentence, to reflect the probable intent of Congress.
+Subsec. (a)(3). Pub. L. 107–228, §322(a)(2)(D), which directed amendment of par. (3) by inserting ", plus .25 percent" at the end of the first sentence, was executed by making the insertion before the period at end of first sentence, to reflect the probable intent of Congress.
 
 <b>2000</b>—Subsec. (d)(1). Pub. L. 106–346, in table in concluding provisions, substituted item relating to service period after December 31, 2000, for items relating to service periods January 1, 2001, through December 31, 2002; and after December 31, 2002.
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–382, §2(b)(2), substituted “Except as otherwise provided in this section,” for “Except as provided in subsection (h) of this section,”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–382, §2(b)(2), substituted "Except as otherwise provided in this section," for "Except as provided in subsection (h) of this section,".
 
 Subsec. (a)(3). Pub. L. 105–382, §2(b)(1), added par. (3).
 
@@ -126,7 +126,7 @@ Subsec. (d)(6). Pub. L. 105–382, §2(c), added par. (6).
 
 <b>1997</b>—Subsec. (d)(1). Pub. L. 105–33, §7001(d)(2)(C), in table in concluding provisions, inserted items relating to service periods January 1, 1970, through December 31, 1998; January 1, 1999, through December 31, 1999; January 1, 2000, through December 31, 2000; January 1, 2001, through December 31, 2002; and after December 31, 2002, and struck out former item relating to service period on and after January 1, 1970.
 
-Subsec. (e)(1). Pub. L. 105–33, §7001(d)(2)(D)(i), substituted “Subject to paragraph (5), each” for “Each”.
+Subsec. (e)(1). Pub. L. 105–33, §7001(d)(2)(D)(i), substituted "Subject to paragraph (5), each" for "Each".
 
 Subsec. (e)(5). Pub. L. 105–33, §7001(d)(2)(D)(ii), added par. (5).
 
@@ -134,23 +134,23 @@ Subsec. (e)(5). Pub. L. 105–33, §7001(d)(2)(D)(ii), added par. (5).
 
 Subsec. (d)(5). Pub. L. 102–499, §4(b), added par. (5).
 
-<b>1988</b>—Subsec. (d)(1). Pub. L. 100–238, in concluding provisions, substituted “Fund. Special contributions for purposes of subparagraph (A) shall equal” for “Fund equal to” and inserted “Special contributions for refunds under subparagraph (B) shall equal the amount of the refund received by the participant.”
+<b>1988</b>—Subsec. (d)(1). Pub. L. 100–238, in concluding provisions, substituted "Fund. Special contributions for purposes of subparagraph (A) shall equal" for "Fund equal to" and inserted "Special contributions for refunds under subparagraph (B) shall equal the amount of the refund received by the participant."
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–335, §405(a)(1), inserted “Except as provided in subsection (h) of this section,” before “7 percent”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–335, §405(a)(1), inserted "Except as provided in subsection (h) of this section," before "7 percent".
 
 Subsec. (d)(4). Pub. L. 99–335, §405(b), added par. (4).
 
-Subsec. (e)(1). Pub. L. 99–335, §402(a)(2), substituted “part” for “subchapter”.
+Subsec. (e)(1). Pub. L. 99–335, §402(a)(2), substituted "part" for "subchapter".
 
-Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (h). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Pub. L. 99–335, §405(a)(2), added subsec. (h).
 
-<b>1983</b>—Subsecs. (e) to (g). Ex. Ord. No. 12446 added subsecs. (e) and (f), struck out former subsec. (e), and redesignated former subsec. (f) as (g). Prior to amendment, subsec. (e) read as follows: “Contributions shall not be required for any period of military and naval service or for any period for which credit is allowed to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.”
+<b>1983</b>—Subsecs. (e) to (g). Ex. Ord. No. 12446 added subsecs. (e) and (f), struck out former subsec. (e), and redesignated former subsec. (f) as (g). Prior to amendment, subsec. (e) read as follows: "Contributions shall not be required for any period of military and naval service or for any period for which credit is allowed to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II."
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–228, div. A, title III, §322(c)(2), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendmentsmade by subsections (a)(2) \[amending this section\] and (b)(2) \[amending section 4071e of this title\] shall take effect with the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act \[Sept. 30, 2002\].”
+Pub. L. 107–228, div. A, title III, §322(c)(2), Sept. 30, 2002, 116 Stat. 1385, provided that: "The amendments made by subsections (a)(2) \[amending this section\] and (b)(2) \[amending section 4071e of this title\] shall take effect with the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act \[Sept. 30, 2002\]."
 
 #### Effective Date of 2000 Amendment
 
@@ -178,31 +178,31 @@ Amendment by Ex. Ord. No. 12446 effective Oct. 17, 1983, see section 4(e) of Ex.
 
 #### Foreign Service Retirement and Disability System Contributions, Deductions, and Withholdings
 
-Pub. L. 106–346, §101(a) \[title V, §505(h)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: “Notwithstanding any provision of section 805(a) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)), during the period beginning on October 1, 2002, through December 31, 2002, each agency employing a participant in the Foreign Service Retirement and Disability System shall contribute to the Foreign Service Retirement and Disability Fund—
+Pub. L. 106–346, §101(a) \[title V, §505(h)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: "Notwithstanding any provision of section 805(a) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)), during the period beginning on October 1, 2002, through December 31, 2002, each agency employing a participant in the Foreign Service Retirement and Disability System shall contribute to the Foreign Service Retirement and Disability Fund—
 
-&emsp;“(1) 7.5 percent of the basic pay of each participant covered under section 805(a)(1) of such Act participating in the Foreign Service Retirement and Disability System; and
+&emsp;"(1) 7.5 percent of the basic pay of each participant covered under section 805(a)(1) of such Act participating in the Foreign Service Retirement and Disability System; and
 
-&emsp;“(2) 8 percent of the basic pay of each participant covered under paragraph (2) or (3) of section 805(a) of such Act participating in the Foreign Service Retirement and Disability System,
+&emsp;"(2) 8 percent of the basic pay of each participant covered under paragraph (2) or (3) of section 805(a) of such Act participating in the Foreign Service Retirement and Disability System,
 
-> in lieu of the agency contribution otherwise required under section 805(a) of such Act.”
+> in lieu of the agency contribution otherwise required under section 805(a) of such Act."
 
 Pub. L. 105–33, title VII, §7001(d)(1)–(2)(B), Aug. 5, 1997, 111 Stat. 659, 660, as amended by Pub. L. 106–346, §101(a) \[title V, §505(d)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that:
 
-“(1)
+"(1)
 
 Agency contributions.—Notwithstanding section 805(a)(1) and (2) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)(1) and (2)), during the period beginning on October 1, 1997, through September 30, 2002, each agency employing a participant in the Foreign Service Retirement and Disability System shall contribute to the Foreign Service Retirement and Disability Fund—
 
-&emsp;“(A) 8.51 percent of the basic pay of each participant covered under section 805(a)(1) of such Act participating in the Foreign Service Retirement and Disability System; and
+&emsp;"(A) 8.51 percent of the basic pay of each participant covered under section 805(a)(1) of such Act participating in the Foreign Service Retirement and Disability System; and
 
-&emsp;“(B) 9.01 percent of the basic pay of each participant covered under section 805(a)(2) of such Act participating in the Foreign Service Retirement and Disability System;
+&emsp;"(B) 9.01 percent of the basic pay of each participant covered under section 805(a)(2) of such Act participating in the Foreign Service Retirement and Disability System;
 
 > in lieu of the agency contribution otherwise required under section 805(a)(1) and (2) of such Act.
 
-“(2)
+"(2)
 
 Individual deductions, withholdings, and deposits.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Notwithstanding section 805(a)(1) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)(1)), beginning on January 1, 1999, through December 31, 2000, the amount withheld and deducted from the basic pay of a participant in the Foreign Service Retirement and Disability System shall be as follows:
 
@@ -210,10 +210,10 @@ In general.—Notwithstanding section 805(a)(1) of the Foreign Service Act of 19
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :--- | :---: | ---: |
-| &nbsp; | “7.25 | January 1, 1999, to December 31, 1999. |
-| &nbsp; | “7.4 | January 1, 2000, to December 31, 2000. |
+| &nbsp; | "7.25 | January 1, 1999, to December 31, 1999. |
+| &nbsp; | "7.4 | January 1, 2000, to December 31, 2000. |
 
-&emsp;“(B)
+&emsp;"(B)
 
 Foreign service criminal investigators/inspectors of the office of the inspector general, agency for international development.—Notwithstanding section 805(a)(2) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)(2)), beginning on January 1, 1999, through December 31, 2000, the amount withheld and deducted from the basic pay of an eligible Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development participating in the Foreign Service Retirement and Disability System shall be as follows:
 
@@ -221,8 +221,8 @@ Foreign service criminal investigators/inspectors of the office of the inspector
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :--- | :---: | ---: |
-| &nbsp; | “7.75 | January 1, 1999, to December 31, 1999. |
-| &nbsp; | “7.9 | January 1, 2000, to December 31, 2000.” |
+| &nbsp; | "7.75 | January 1, 1999, to December 31, 1999. |
+| &nbsp; | "7.9 | January 1, 2000, to December 31, 2000." |
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

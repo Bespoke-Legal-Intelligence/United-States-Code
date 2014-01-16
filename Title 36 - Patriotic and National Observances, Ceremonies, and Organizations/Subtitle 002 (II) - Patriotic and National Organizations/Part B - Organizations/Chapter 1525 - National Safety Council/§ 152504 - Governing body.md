@@ -46,5 +46,5 @@ Aug. 13, 1953, ch. 429, §§7–9, 67 Stat. 571.
 
 &nbsp;
 
-In subsection (a), the text of 36:467(a) is omitted as obsolete. In paragraph (1), the word “funds” is substituted for “finance” for consistency in the revised title.
+In subsection (a), the text of 36:467(a) is omitted as obsolete. In paragraph (1), the word "funds" is substituted for "finance" for consistency in the revised title.
 

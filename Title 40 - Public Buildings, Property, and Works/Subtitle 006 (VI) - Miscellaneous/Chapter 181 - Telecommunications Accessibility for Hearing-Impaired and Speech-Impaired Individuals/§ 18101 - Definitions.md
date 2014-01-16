@@ -4,9 +4,9 @@ In this chapter—
 
 &emsp;(1)
 
-Federal agency.—The term “federal agency” has the same meaning given that term in section 102 of this title.
+Federal agency.—The term "federal agency" has the same meaning given that term in section 102 of this title.
 
-&emsp;(2) TTY.—The term “TTY” means a text-telephone used in the transmission of coded signals through the nationwide telecommunications system.
+&emsp;(2) TTY.—The term "TTY" means a text-telephone used in the transmission of coded signals through the nationwide telecommunications system.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1290.)
 

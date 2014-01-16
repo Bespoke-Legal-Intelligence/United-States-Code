@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 R.S. 225 (less 1st sentence); added Feb. 27, 1877, ch. 69 (3d par.), 19 Stat. 241.
 
-The word “anything” is substituted for the words “any matter or circumstance”. The words “properly used” are substituted for the words “legally used and appropriated”. The words “of the case” are omitted as surplusage.
+The word "anything" is substituted for the words "any matter or circumstance". The words "properly used" are substituted for the words "legally used and appropriated". The words "of the case" are omitted as surplusage.
 

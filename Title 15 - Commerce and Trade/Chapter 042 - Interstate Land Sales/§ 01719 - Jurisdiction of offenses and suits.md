@@ -6,9 +6,9 @@ The district courts of the United States, the United States courts of any territ
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Director” for “Secretary” in two places.
+<b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" in two places.
 
-<b>1988</b>—Pub. L. 100–628 struck out “(a)” after section designation.
+<b>1988</b>—Pub. L. 100–628 struck out "(a)" after section designation.
 
 #### Effective Date of 2010 Amendment
 

@@ -1,6 +1,6 @@
 ### §1522. Posthumous warrants
 
-(a) The Secretary concerned may issue, or have issued, an appropriate warrant in the name of a member of the armed forces who, after September 8, 1939, was officially recommended for appointment or promotion to a grade other than a commissioned grade but was unable to accept the appointment or promotion because of death.
+(a) The Secretary concerned may issue, or have issued, an appropriate warrant in the nameof a member of the armed forces who, after September 8, 1939, was officially recommended for appointment or promotion to a grade other than a commissioned grade but was unable to accept the appointment or promotion because of death.
 
 (b) A warrant issued under subsection (a) shall issue as of the date of the recommendation, and the member's name shall be carried on the records of the military or executive department concerned as if he had served in the grade to which posthumously appointed or promoted from the date of the recommendation to the date of his death.
 
@@ -32,13 +32,13 @@ July 28, 1942, ch. 528, §4, 56 Stat. 723; July 17, 1953, ch. 220, §1 (a)–(d)
 
 34:285e (words after semicolon).
 
-In subsection (a), the words “a member of” are substituted for the words “any person who, while in”, in 10:612 and 34:285e. The words “armed forces” are substituted for the words “the military service of the United States”, in 10:612; and “the naval service of the United States”, in 34:285e (which did not appear in the source statute for the revised section, as amended by the act of July 17, 1953, ch. 220, §1(b), 67 Stat. 177). The words “other than a commissioned grade” are substituted for the words “noncommissioned grade” to make it clear that the revised section covers warrant officers. The words “receive or” are omitted as surplusage.
+In subsection (a), the words "a member of" are substituted for the words "any person who, while in", in 10:612 and 34:285e. The words "armed forces" are substituted for the words "the military service of the United States", in 10:612; and "the naval service of the United States", in 34:285e (which did not appear in the source statute for the revised section, as amended by the act of July 17, 1953, ch. 220, §1(b), 67 Stat. 177). The words "other than a commissioned grade" are substituted for the words "noncommissioned grade" to make it clear that the revised section covers warrant officers. The words "receive or" are omitted as surplusage.
 
-In subsection (b), the words “appointment or promotion”, “and branch of the service”, “official”, and “by such warrant” are omitted as surplusage.
+In subsection (b), the words "appointment or promotion", "and branch of the service", "official", and "by such warrant" are omitted as surplusage.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–417, §502(b)(1), struck out “in line of duty” before period at end.
+<b>2008</b>—Subsec. (a). Pub. L. 110–417, §502(b)(1), struck out "in line of duty" before period at end.
 
 Subsec. (c). Pub. L. 110–417, §502(b)(2), added subsec. (c).
 

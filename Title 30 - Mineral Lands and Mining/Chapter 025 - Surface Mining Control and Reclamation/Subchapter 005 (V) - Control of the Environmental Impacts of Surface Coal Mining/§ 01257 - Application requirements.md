@@ -8,7 +8,7 @@ Each application for a surface coal mining and reclamation permit pursuant to an
 
 The permit application shall be submitted in a manner satisfactory to the regulatory authority and shall contain, among other things—
 
-&emsp;(1) the names and addresses of (A) the permit applicant; (B) every legal owner of record of the property (surface and mineral), to be mined; (C) the holders of record of any leasehold interest in the property; (D) any purchaser of record of the property under a real estate contract; and (E) the operator if he is a person different from the applicant; and (F) if any of these are business entities other than a single proprietor, the names and addresses of the principals, officers, and resident agent;
+&emsp;(1) the names and addresses of (A) the permit applicant; (B) every legal owner of record ofthe property (surface and mineral), to be mined; (C) the holders of record of any leasehold interest in the property; (D) any purchaser of record of the property under a real estate contract; and (E) the operator if he is a person different from the applicant; and (F) if any of these are business entities other than a single proprietor, the names and addresses of the principals, officers, and resident agent;
 
 &emsp;(2) the names and addresses of the owners of record of all surface and subsurface areas adjacent to any part of the permit area;
 
@@ -24,7 +24,7 @@ The permit application shall be submitted in a manner satisfactory to the regula
 
 &emsp;(8) the anticipated or actual starting and termination dates of each phase of the mining operation and number of acres of land to be affected;
 
-&emsp;(9) the applicant shall file with the regulatory authority on an accurate map or plan, to an appropriate scale, clearly showing the land to be affected as of the date of the application, the area of land within the permit area upon which the applicant has the legal right to enter and commence surface mining operations and shall provide to the regulatory authority a statement of those documents upon which the applicant bases his legal right toenter and commence surface mining operations on the area affected, and whether that right is the subject of pending court litigation: <i>Provided</i>, That nothing in this chapter shall be construed as vesting in the regulatory authority the jurisdiction to adjudicate property title disputes.<sup>2</sup>
+&emsp;(9) the applicant shall file with the regulatory authority on an accurate map or plan, to an appropriate scale, clearly showing the land to be affected as of the date of the application, the area of land within the permit area upon which the applicant has the legal right to enter and commence surface mining operations and shall provide to the regulatory authority a statement of those documents upon which the applicant bases his legal right to enter and commence surface mining operations on the area affected, and whether that right is the subject of pending court litigation: <i>Provided</i>, That nothing in this chapter shall be construed as vesting in the regulatory authority the jurisdiction to adjudicate property title disputes.<sup>2</sup>
 
 &emsp;(10) the name of the watershed and location of the surface stream or tributary into which surface and pit drainage will be discharged;
 
@@ -74,7 +74,7 @@ Each applicant for a permit shall be required to submit to the regulatory author
 
 #### (g) Blasting plan
 
-Each applicant for a surface coal mining and reclamation permit shall submit to the regulatory authority as part of the permit application a blasting plan which shall outline the procedures and standards by which the operator will meet the provisions of section 1265(b)(15) of this title.
+Each applicant for a surface coal mining and reclamation permit shall submit to the regulatory authority as part of the permit application a blasting plan which shall outline the procedures and standards by which the operatorwill meet the provisions of section 1265(b)(15) of this title.
 
 #### (h) Reimbursement of costs
 
@@ -84,11 +84,11 @@ A coal operator that has received assistance pursuant to subsection (c)(1) or (2
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–486, §2513(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the regulatory authority finds that the probable total annual production at all locations of any coal surface mining operator will not exceed 300,000 tons, the determination of probable hydrologic consequences required by subsection (b)(11) of this section and the statement of the result of test borings or core samplings required by subsection (b)(15) of this section shall, upon the written request of the operator be performed by a qualified public or private laboratory designated by the regulatory authority and the cost of the preparation of such determination and statement shall be assumed by the regulatory authority.”
+<b>1992</b>—Subsec. (c). Pub. L. 102–486, §2513(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "If the regulatory authority finds that the probable total annual production at all locations of any coal surface mining operator will not exceed 300,000 tons, the determination of probable hydrologic consequences required by subsection (b)(11) of this section and the statement of the result of test borings or core samplings required by subsection (b)(15) of this section shall, upon the written request of the operator be performed by a qualified public or private laboratory designated by the regulatory authority and the cost of the preparation of such determination and statement shall be assumed by the regulatory authority."
 
 Subsec. (h). Pub. L. 102–486, §2513(b), added subsec. (h).
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–508 substituted “300,000” for “100,000”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–508 substituted "300,000" for "100,000".
 
 #### Effective Date of 1990 Amendment
 
@@ -96,13 +96,13 @@ Amendment by Pub. L. 101–508, effective Oct. 1, 1991, see section 6014 of Pub.
 
 #### Discretionary Offsetting Collections
 
-Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 996, provided: “That, in subsequent fiscal years \[after fiscal year 2012\], all amounts collected by the Office of Surface Mining from permit fees pursuant to section 507 of Public Law 95–87 (30 U.S.C. 1257) shall be credited to this account as discretionary offsetting collections, to remain available until expended.”
+Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 996, provided: "That, in subsequent fiscal years \[after fiscal year 2012\], all amounts collected by the Office of Surface Mining from permit fees pursuant to section 507 of Public Law 95–87 (30 U.S.C. 1257) shall be credited to this account as discretionary offsetting collections, to remain available until expended."
 
 #### Preparation of Cross-Sections, Maps, and Plans of Land By or Under Direction of Qualified Registered Professional Engineers, Geologists, or Land Surveyors
 
-Pub. L. 98–146, title I, §115, Nov. 4, 1983, 97 Stat. 938, provided that: “Notwithstanding section 507(b)(14) of the Surface Mining Control and Reclamation Act of 1977 (Public Law 95–87) \[subsec. (b)(14) of this section\], cross-sections, maps or plans of land to be affected by an application for a surface mining and reclamation permit shall be prepared by or under the direction of a qualified registered professional engineer or geologist, or qualified registered professional land surveyor in any State which authorizes land surveyors to prepare and certify such maps or plans.”
+Pub. L. 98–146, title I, §115, Nov. 4, 1983, 97 Stat. 938, provided that: "Notwithstanding section 507(b)(14) of the Surface Mining Control and Reclamation Act of 1977 (Public Law 95–87) \[subsec. (b)(14) of this section\], cross-sections, maps or plans of land to be affected by an application for a surface mining and reclamation permit shall be prepared by or under the direction of a qualified registered professional engineer or geologist, or qualified registered professional land surveyor in any State which authorizes land surveyors to prepare and certify such maps or plans."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “forfeited”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "forfeited".</i>
 
 <i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

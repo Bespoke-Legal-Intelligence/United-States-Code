@@ -32,15 +32,15 @@ The Truth in Lending Act, referred to in subsec. (b), is title I of Pub. L. 90�
 
 #### Amendments
 
-<b>2003</b>—Subsec. (d)(1)(C). Pub. L. 108–186 substituted “3” for “five”
+<b>2003</b>—Subsec. (d)(1)(C). Pub. L. 108–186 substituted "3" for "five"
 
-<b>2001</b>—Subsec. (b). Pub. L. 107–73, §206(1), substituted “require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of an adjustable rate mortgage consistent with the disclosure requirements applicable to variable rate mortgages secured by a principal dwelling under the Truth in Lending Act” for “issue regulations requiring that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first 5 years of the mortgage term”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–73, §206(1), substituted "require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of an adjustable rate mortgage consistent with the disclosure requirements applicable to variable rate mortgages secured by a principal dwelling under the Truth in Lending Act" for "issue regulations requiring that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first 5 years of the mortgage term".
 
 Subsec. (d). Pub. L. 107–73, §206(2), added subsec. (d).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–242 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The aggregate number of mortgages and loans insured under this section, section 1715z–10(c) of this title, and section 1715z–17 of this title in any fiscal year may not exceed 10 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–242 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The aggregate number of mortgages and loans insured under this section, section 1715z–10(c) of this title, and section 1715z–17 of this title in any fiscal year may not exceed 10 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year."
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–186, title III, §301(b), Dec. 16, 2003, 117 Stat. 2692, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to mortgages executed on or after the date of the enactment of this title \[Dec. 16, 2003\].”
+Pub. L. 108–186, title III, §301(b), Dec. 16, 2003, 117 Stat. 2692, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to mortgages executed on or after the date of the enactment of this title \[Dec. 16, 2003\]."
 

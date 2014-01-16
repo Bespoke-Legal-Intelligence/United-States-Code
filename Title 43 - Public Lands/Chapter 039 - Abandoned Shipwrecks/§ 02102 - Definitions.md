@@ -2,19 +2,19 @@
 
 For purposes of this chapter—
 
-&emsp;(a) the term “embedded” means firmly affixed in the submerged lands or in coralline formations such that the use of tools of excavation is required in order to move the bottom sediments to gain access to the shipwreck, its cargo, and any part thereof;
+&emsp;(a) the term "embedded" means firmly affixed in the submerged lands or in coralline formations such that the use of tools of excavation is required in order to move the bottom sediments to gain access to the shipwreck, its cargo, and any part thereof;
 
-&emsp;(b) the term “National Register” means the National Register of Historic Places maintained by the Secretary of the Interior under section 470a of title 16;
+&emsp;(b) the term "National Register" means the National Register of Historic Places maintained by the Secretary of the Interior under section 470a of title 16;
 
-&emsp;(c) the terms “public lands”, “Indian lands”, and “Indian tribe” have the same meaning given the terms in the Archaeological Resource <sup>1</sup> Protection Act of 1979 (16 U.S.C. 470aa–470ll);
+&emsp;(c) the terms "public lands", "Indian lands", and "Indian tribe" have the same meaning given the terms in the Archaeological Resource <sup>1</sup> Protection Act of 1979 (16 U.S.C. 470aa–470ll);
 
-&emsp;(d) the term “shipwreck” means a vessel or wreck, its cargo, and other contents;
+&emsp;(d) the term "shipwreck" means a vessel or wreck, its cargo, and other contents;
 
-&emsp;(e) the term “State” means a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Northern Mariana Islands; and
+&emsp;(e) the term "State" means a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Northern Mariana Islands; and
 
-&emsp;(f) the term “submerged lands” means the lands—
+&emsp;(f) the term "submerged lands" means the lands—
 
-&emsp;&emsp;(1) that are “lands beneath navigable waters,” as defined in section 1301 of this title;
+&emsp;&emsp;(1) that are "lands beneath navigable waters," as defined in section 1301 of this title;
 
 &emsp;&emsp;(2) of Puerto Rico, as described in section 749 of title 48;
 
@@ -30,7 +30,7 @@ The Archaeological Resource Protection Act of 1979, referred to in subsec. (c), 
 
 Section 801 of Public Law 94–241, referred to in subsec. (f)(4), probably means section 801 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as contained in section 1 of Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, which is set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Resources”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Resources".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -61,6 +61,7 @@
 | [761\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20B%20-%20Additional%20Preparedness/%C2%A7%2000761%20-%20Emergency%20Management%20Assistance%20Compact%20grants.md) | Emergency Management Assistance Compact grants. |
 | [762\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20B%20-%20Additional%20Preparedness/%C2%A7%2000762%20-%20Emergency%20management%20performance%20grants%20program.md) | Emergency management performance grants program. |
 | [763\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20B%20-%20Additional%20Preparedness/%C2%A7%2000763%20-%20Transfer%20of%20Noble%20Training%20Center.md) | Transfer of Noble Training Center. |
+| [763a.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20B%20-%20Additional%20Preparedness/%C2%A7%2000763a%20-%20Training%20for%20Federal%20Government%2C%20foreign%20governments%2C%20or%20private%20entities.md) | Training for Federal Government, foreign governments, or private entities. |
 | [764\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20B%20-%20Additional%20Preparedness/%C2%A7%2000764%20-%20National%20exercise%20simulation%20center.md) | National exercise simulation center. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

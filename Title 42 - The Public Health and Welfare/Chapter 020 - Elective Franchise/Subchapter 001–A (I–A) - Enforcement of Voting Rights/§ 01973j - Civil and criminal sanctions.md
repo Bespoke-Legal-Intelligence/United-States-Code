@@ -2,7 +2,7 @@
 
 #### (a) Depriving or attempting to deprive persons of secured rights
 
-Whoever shall deprive or attempt to deprive any person of any right secured by section 1973, 1973a, 1973b, 1973c, or 1973h of this title or shall violate section 1973i(a) of this title, shall befined not more than $5,000, or imprisoned not more than five years, or both.
+Whoever shall deprive or attempt to deprive any person of any right secured by section 1973, 1973a, 1973b, 1973c, or 1973h of this title or shall violate section 1973i(a) of this title, shall be fined not more than $5,000, or imprisoned not more than five years, or both.
 
 #### (b) Destroying, defacing, mutilating, or altering ballots or official voting records
 
@@ -32,13 +32,13 @@ Section 1973e of this title, referred to in subsec. (d), was repealed by Pub. L.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–246, §3(e)(2), struck out “1973e,” after “1973c,”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–246, §3(e)(2), struck out "1973e," after "1973c,".
 
-Subsec. (b). Pub. L. 109–246, §3(d)(3), substituted “an observer has been assigned” for “an examiner has been appointed”.
+Subsec. (b). Pub. L. 109–246, §3(d)(3), substituted "an observer has been assigned" for "an examiner has been appointed".
 
-Subsec. (c). Pub. L. 109–246, §3(e)(2), struck out “1973e,” after “1973c,”.
+Subsec. (c). Pub. L. 109–246, §3(e)(2), struck out "1973e," after "1973c,".
 
-Subsec. (e). Pub. L. 109–246, §3(d)(4), substituted “observers” for “examiners” and substituted “observer” for “examiner” in two places.
+Subsec. (e). Pub. L. 109–246, §3(d)(4), substituted "observers" for "examiners" and substituted "observer" for "examiner" in two places.
 
 <b>1968</b>—Subsecs. (a), (c). Pub. L. 90–284 struck out reference to violation of section 1973i(b) of this title.
 

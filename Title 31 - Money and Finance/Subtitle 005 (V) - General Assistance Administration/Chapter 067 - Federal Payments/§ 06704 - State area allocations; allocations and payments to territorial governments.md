@@ -76,7 +76,7 @@ Alternative Formula.—For the payment period beginning October 1, 1994, the amo
 
 &emsp;&emsp;(B) the sum of the products determined under subparagraph (A) for all States; and
 
-&emsp;(6) $1,166,666,667 were allocated among the States on the basis of urbanized population by allocating to each State an amount bearing the same ratio to the total amount to be allocated under this paragraph as the urbanized population of the State bears to the urbanized population of all States. In this paragraph, the term “urbanized population” means the population of an area consisting of a central city or cities of at least 50,000 inhabitants and the surrounding closely settled area for the city or cities considered as an urbanized area as published by the Bureau of the Census for 1990 in the publication General Population Characteristics for Urbanized Areas.
+&emsp;(6) $1,166,666,667 were allocated among the States on the basis of urbanized population by allocating to each State an amount bearing the same ratio to the total amount to be allocated under this paragraph as the urbanized population of the State bears to the urbanized population of all States. In this paragraph, the term "urbanized population" means the population of an area consisting of a central city or cities of at least 50,000 inhabitants and the surrounding closely settled area for the city or cities considered as an urbanized area as published by the Bureau of the Census for 1990 in the publication General Population Characteristics for Urbanized Areas.
 
 (d)
 
@@ -112,11 +112,11 @@ Payments to local governments.—The governments of the territories shall make p
 
 Definitions.—For purposes of this subsection—
 
-&emsp;&emsp;(A) the term “territorial government” means the government of a territory;
+&emsp;&emsp;(A) the term "territorial government" means the government of a territory;
 
-&emsp;&emsp;(B) the term “territory” means Puerto Rico, Guam, American Samoa, and the Virgin Islands; and
+&emsp;&emsp;(B) the term "territory" means Puerto Rico, Guam, American Samoa, and the Virgin Islands; and
 
-&emsp;&emsp;(C) the term “territorial population” means the most recent population for each territory as determined by the Bureau of <sup>1</sup> Census.
+&emsp;&emsp;(C) the term "territorial population" means the most recent population for each territory as determined by the Bureau of <sup>1</sup> Census.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1864.)
 
@@ -124,5 +124,5 @@ Definitions.—For purposes of this subsection—
 
 A prior section 6704, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1013; Pub. L. 98–185, §9(b), Nov. 30, 1983, 97 Stat. 1311, related to qualifications of State or local governments for payments under this chapter, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of the".</i>
 

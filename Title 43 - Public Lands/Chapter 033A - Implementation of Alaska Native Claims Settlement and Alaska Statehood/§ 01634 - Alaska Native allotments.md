@@ -12,11 +12,11 @@
 
 &emsp;&emsp;(II) the heirs of an applicant who made an application described in subclause (I); and
 
-&emsp;(ii) shall be subject to valid existing rights and an easement for the Iditarod National Historic Trail established by section 1244(a)(7) of title 16, but pending final determination of the trail's location, the easement shall be located on an interim basis by the Secretary, in consultation with the Iditarod Historic Trail Advisory Council.
+&emsp;(ii) shall be subject to valid existing rights and an easement for the Iditarod National Historic Trail established by section 1244(a)(7) oftitle 16, but pending final determination of the trail's location, the easement shall be located on an interim basis by the Secretary, in consultation with the Iditarod Historic Trail Advisory Council.
 
 (2) All applications approved pursuant to this section shall be subject to the provisions of the Act of March 8, 1922 (43 U.S.C. 270–11) \[43 U.S.C. 270–11 to 270–13\].<sup>1</sup>
 
-(3) When on or before the one hundred and eightieth day following December 2, 1980, the Secretary determines by notice or decision that the land described in an allotment application may be valuable for minerals, excluding oil, gas, or coal, the allotment application shall be adjudicated pursuant to the provision of the Act of May 17, 1906, as amended, requiring that land allotted under said Act be nonmineral: <i>Provided</i>, That “nonmineral”, as that term is used in such Act, is defined to include land valuable for deposits of sand or gravel.
+(3) When on or before the one hundred and eightieth day following December 2, 1980, the Secretary determines by notice or decision that the land described in an allotment application may be valuable for minerals, excluding oil, gas, or coal, the allotment application shall be adjudicated pursuant to the provision of the Act of May 17, 1906, as amended, requiring that land allotted under said Act be nonmineral: <i>Provided</i>, That "nonmineral", as that term is used in such Act, is defined to include land valuable for deposits of sand or gravel.
 
 (4) Where an allotment application describes land within the boundaries of a unit of the National Park System established on or before December 2, 1980, and the described land was not withdrawn pursuant to section 11(a)(1) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1610(a)(1)\], or where an allotment application describes land which has been patented or deeded to the State of Alaska or which on or before December 18, 1971, was validly selected by or tentatively approved or confirmed to the State of Alaska pursuant to the Alaska Statehood Act and was not withdrawn pursuant to section 11(a)(1)(A) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1610(a)(1)(A)\] from those lands made available for selection by section 11(a)(2) of the Act \[43 U.S.C. 1610(a)(2)\] by any Native Village certified as eligible pursuant to section 11(b) of such Act \[43 U.S.C. 1610(b)\], paragraph (1) of this subsection and subsection (d) of this section shall not apply and the application shall be adjudicated pursuant to the requirements of the Act of May 17, 1906, as amended, the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], and other applicable law.
 
@@ -28,7 +28,7 @@
 
 &emsp;(C) A person or entity files a protest with the Secretary stating that the applicant is not entitled to the land described in the allotment application and that said land is the situs of improvements claimed by the person or entity.
 
-(6) Paragraph (1) of this subsection and subsection (d) of this section shall not apply to anyapplication pending before the Department of the Interior on or before December 18, 1971, which was knowingly and voluntarily relinquished by the applicant thereafter.
+(6) Paragraph (1) of this subsection and subsection (d) of this section shall not apply to any application pending before the Department of the Interior on or before December 18, 1971, which was knowingly and voluntarily relinquished by the applicant thereafter.
 
 (7) Paragraph (1) of this subsection and subsection (d) of this section shall apply, and paragraph (5) of this subsection shall cease to apply, to an application—
 
@@ -44,7 +44,7 @@
 
 #### (b) Conflicting land descriptions in applications; adjustments; reductions
 
-Where a conflict between two or more allotment applications exists due to overlapping land descriptions, the Secretary shall adjust the descriptions to eliminate conflicts, and in so doing, consistent with other existing rights, if any, may expand or alter the applied-for allotment boundaries or increase or decrease acreage in one or more of the allotment applications to achieve an adjustment which, to the extent practicable, is consistent with prior use of the allotted land and is beneficial to the affected parties: <i>Provided</i>, That the Secretary shall, to the extent feasible, implement an adjustment proposed by the affected parties: <i>Provided further</i>, That the Secretary's decision concerning adjustment of conflicting land descriptions shall be final and unreviewable in all cases in which the reduction, if any, of the affected allottee's claim is less than 30 percent of the acreage contained in the parcel originally described and the adjustment does not exclude from the allotment improvements claimed by the allottee: <i>Provided further</i>, That where an allotment application describes more than one hundred and sixty acres, the Secretary shall at any time prior to or during survey reduce the acreage to one hundred and sixty acres and shall attempt to accomplish said reduction in the manner least detrimental to the applicant.
+Where a conflict between two or more allotment applications exists due to overlapping land descriptions, the Secretary shall adjust the descriptions to eliminate conflicts, and in so doing, consistent with other existing rights, if any, may expand or alter the applied-for allotment boundaries or increase or decrease acreage in one or more of the allotment applications to achieve an adjustment which, to the extent practicable, is consistent with prior use of the allotted land and is beneficial to the affected parties: <i>Provided</i>, That the Secretary shall, to the extent feasible, implement an adjustment proposed by the affected parties: <i>Provided further</i>, That the Secretary's decision concerning adjustment of conflicting land descriptions shall be final and unreviewable in all cases in which the reduction, if any, of the affected allottee's claim is less than 30 percent of the acreage contained in the parcel originally described and the adjustment does not exclude from the allotment improvements claimed by the allottee: <i>Provided further</i>, That where an allotment application describes more than one hundred and sixty acres, the Secretary shall at any time prior to or during survey reduce the acreage to one hundredand sixty acres and shall attempt to accomplish said reduction in the manner least detrimental to the applicant.
 
 #### (c) Amendment of land description in application; notification; protest; adoption of final plan of survey
 
@@ -60,7 +60,7 @@ Prior to issuing a certificate for an allotment subject to this section, the Sec
 
 #### (f) Reinstatement
 
-(1)(A) Notwithstanding paragraphs (1) and (6) of subsection (a) of this section, and subject to subparagraph (B), each Alaska Native allotment application made pursuant to the Act entitled “An Act authorizing the Secretary of the Interior to allot homesteads to the natives of Alaska”, approved May 17, 1906 (34 Stat. 197), that—
+(1)(A) Notwithstanding paragraphs (1) and (6) of subsection (a) of this section, and subject to subparagraph (B), each Alaska Native allotment application made pursuant to the Act entitled "An Act authorizing the Secretary of the Interior to allot homesteads to the natives of Alaska", approved May 17, 1906 (34 Stat. 197), that—
 
 &emsp;(i) was pending before the Department of the Interior on or before December 18, 1971; and
 
@@ -76,7 +76,7 @@ Prior to issuing a certificate for an allotment subject to this section, the Sec
 
 (2)(A) To the extent that the application describes lands (or any interest in the lands) that have been selected, interim conveyed, or patented to a Village Corporation or Regional Corporation, the Secretary is authorized to accept from the Village Corporation or Regional Corporation the reconveyance or relinquishment of the lands (or any interest in the lands).
 
-(B)(i) To the extent that the application describes lands (or any interest in the lands) that a Village Corporation is not willing to reconvey or relinquish pursuant to subparagraph (A), the applicant may relinquish any claim to any portion of the lands (or any interest in the lands) or may, with the consent of the affected Village Corporation, amend the application to exclude the lands and include in lieu thereof a description of lands selected by, interim conveyed to, or patented to the Village Corporation of an acreage that is not to exceed the amount of land relinquished.
+(B)(i) To the extent that the application describes lands (or any interest in the lands) thata Village Corporation is not willing to reconvey or relinquish pursuant to subparagraph (A), the applicant may relinquish any claim to any portion of the lands (or any interest in the lands) or may, with the consent of the affected Village Corporation, amend the application to exclude the lands and include in lieu thereof a description of lands selected by, interim conveyed to, or patented to the Village Corporation of an acreage that is not to exceed the amount of land relinquished.
 
 (ii) The Secretary is authorized to accept the reconveyance or relinquishment of the lands (or any interest in the lands) described in the amended application from the Village Corporation or Regional Corporation in lieu of the lands (or any interest in the lands) described in the initial application.
 
@@ -128,7 +128,7 @@ Prior to issuing a certificate for an allotment subject to this section, the Sec
 
 &emsp;(ii) all other rights reasonably incident to the mineral reservations described in clause (i).
 
-(C)(i) If the oil, gas, or coal described in subparagraph (B)(i) was previously conveyed to the Regional Corporation and the Regional Corporation reserves those interests in a reconveyance to the United States, the Secretary shall reserve from the reconveyance to the applicant or to the heirs of the applicant for the benefit of the Regional Corporation the same rights and privileges that would have been reserved for the United States.
+(C)(i) If the oil, gas, or coal described in subparagraph (B)(i) was previously conveyed to the Regional Corporation and the Regional Corporation reserves those interests in a reconveyance to the United States, the Secretary shall reservefrom the reconveyance to the applicant or to the heirs of the applicant for the benefit of the Regional Corporation the same rights and privileges that would have been reserved for the United States.
 
 (ii) With respect to a reconveyance of lands (or any interest in the lands) by the Regional Corporation to the United States that does not convey the entire mineral estate, the Regional Corporation shall not be entitled—
 
@@ -154,13 +154,13 @@ That Act, as amended, referred to in subsec. (d), is the Federal Power Act, act 
 
 #### Codification
 
-In subsecs. (a)(1), (3)–(5), (c), and (d), “December 2, 1980” substituted for “the effective date of this Act”, which probably meant the date of enactment of Pub. L. 96–487.
+In subsecs. (a)(1), (3)–(5), (c), and (d), "December 2, 1980" substituted for "the effective date of this Act", which probably meant the date of enactment of Pub. L. 96–487.
 
 #### Amendments
 
 <b>1998</b>—Subsec. (a)(7), (8). Pub. L. 105–333 added pars. (7) and (8).
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–415, §2, designated existing provisions as subpar. (A), inserted “or within Fort Davis (except as provided in subparagraph (B))” after “Naval Petroleum Reserve No. 4)”, and added subpar. (B).
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–415, §2, designated existing provisions as subpar. (A), inserted "or within Fort Davis (except as provided in subparagraph (B))" after "Naval Petroleum Reserve No. 4)", and added subpar. (B).
 
 Subsec. (f). Pub. L. 102–415, §12, added subsec. (f).
 

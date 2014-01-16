@@ -10,11 +10,11 @@ Based on title 18, U.S.C., 1940 ed., §6 (Mar. 4, 1909, ch. 321, §6, 35 Stat. 1
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $20,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $20,000".
 
-<b>1956</b>—Act July 24, 1956, substituted “$20,000” for “$5,000”, and “twenty years” for “six years”.
+<b>1956</b>—Act July 24, 1956, substituted "$20,000" for "$5,000", and "twenty years" for "six years".
 
 #### Effective Date of 1956 Amendment
 
-Act July 24, 1956, ch. 678, §3, 70 Stat. 624, provided that: “The foregoing amendments \[amending this section and section 2385 of this title\] shall apply only with respect to offenses committed on and after the date of the enactment of this Act \[July 24, 1956\].”
+Act July 24, 1956, ch. 678, §3, 70 Stat. 624, provided that: "The foregoing amendments \[amending this section and section 2385 of this title\] shall apply only with respect to offenses committed on and after the date of the enactment of this Act \[July 24, 1956\]."
 

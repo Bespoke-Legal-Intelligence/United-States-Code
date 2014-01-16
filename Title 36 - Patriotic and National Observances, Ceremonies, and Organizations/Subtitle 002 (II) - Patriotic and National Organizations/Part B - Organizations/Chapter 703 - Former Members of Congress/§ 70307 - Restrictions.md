@@ -62,9 +62,9 @@ Jan. 8, 1983, Pub. L. 97–427, §8, 96 Stat. 2266.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “as such” are substituted for “acting as such officer or director” for consistency in the revised title. The word “otherwise” is omitted as unnecessary.
+In subsection (b), the words "as such" are substituted for "acting as such officer or director" for consistency in the revised title. The word "otherwise" is omitted as unnecessary.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title.
 

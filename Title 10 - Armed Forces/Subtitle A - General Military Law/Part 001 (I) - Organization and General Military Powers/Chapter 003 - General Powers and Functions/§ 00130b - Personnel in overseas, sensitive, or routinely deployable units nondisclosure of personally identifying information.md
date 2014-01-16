@@ -18,13 +18,13 @@ Exceptions.—(1) The authority in subsection (a) is subject to such exceptions 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “personally identifying information”, with respect to any person, means the person's name, rank, duty address, and official title and information regarding the person's pay.
+&emsp;(1) The term "personally identifying information", with respect to any person, means the person's name, rank, duty address, and official title and information regarding the person's pay.
 
-&emsp;(2) The term “unit” means a military organization of the armed forces designated as a unit by competent authority.
+&emsp;(2) The term "unit" means a military organization of the armed forces designated as a unit by competent authority.
 
-&emsp;(3) The term “overseas unit” means a unit that is located outside the United States and its territories.
+&emsp;(3) The term "overseas unit" means a unit that is located outside the United States and its territories.
 
-&emsp;(4) The term “sensitive unit” means a unit that is primarily involved in training for the conduct of, or conducting, special activities or classified missions, including—
+&emsp;(4) The term "sensitive unit" means a unit that is primarily involved in training for the conduct of, or conducting, special activities or classified missions, including—
 
 &emsp;&emsp;(A) a unit involved in collecting, handling, disposing, or storing of classified information and materials;
 
@@ -38,15 +38,15 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) any other unit that is designated as a sensitive unit by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Homeland Security.
 
-&emsp;(5) The term “routinely deployable unit” means a unit that normally deploys from its permanent home station on a periodic or rotating basis to meet peacetime operational requirements that, or to participate in scheduled training exercises that, routinely require deployments outside the United States and its territories. Such term includes a unit that is alerted for deployment outside the United States and its territories during an actual execution of a contingency plan or in support of a crisis operation.
+&emsp;(5) The term "routinely deployable unit" means a unit that normally deploys from its permanent home station on a periodic or rotating basis to meet peacetime operational requirements that, or to participate in scheduled training exercises that, routinely require deployments outside the United States and its territories. Such term includes a unit that is alerted for deployment outside the United States and its territories during an actual execution of a contingency plan or in support of a crisis operation.
 
 (Added Pub. L. 106–65, div. A, title X, §1044(a), Oct. 5, 1999, 113 Stat. 761; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (a), (c)(4)(C). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a), (c)(4)(C). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 

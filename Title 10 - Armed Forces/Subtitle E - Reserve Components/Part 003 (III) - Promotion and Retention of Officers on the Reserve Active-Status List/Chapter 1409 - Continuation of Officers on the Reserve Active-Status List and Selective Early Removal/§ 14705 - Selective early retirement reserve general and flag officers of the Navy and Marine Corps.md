@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Consider.—An officer in the Navy Reserve in an active status serving in the grade of rear admiral (lower half) or rear admiral and an officer in the Marine Corps Reserve inan active status serving in the grade of brigadier general or major general may be considered for early retirement whenever the Secretary of the Navy determines that such action is necessary.
+Authority To Consider.—An officer in the Navy Reserve in an active status serving in the grade of rear admiral (lower half) or rear admiral and an officer in the Marine Corps Reserve in an active status serving in the grade of brigadier general or major general may be considered for early retirement whenever the Secretary of the Navy determines that such action is necessary.
 
 (b)
 
@@ -26,9 +26,9 @@ Provisions similar to those in this section were contained in section 6389(f)(3)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
-<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136 substituted “selection board” for “continuation board”.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136 substituted "selection board" for "continuation board".
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1), inserted “of officers” after “consideration” and “continuation” after “shall convene a”, and added par. (2).
+<b>1998</b>—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1), inserted "of officers" after "consideration" and "continuation" after "shall convene a", and added par. (2).
 

@@ -20,9 +20,9 @@ Provisions similar to those in this section were contained in section 755 of thi
 
 #### Amendments
 
-<b>2006</b>—Subsecs. (a), (c), (e). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsecs. (a), (c), (e). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–106 substituted “12209 of title 10” for “600 of title 10”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–106 substituted "12209 of title 10" for "600 of title 10".
 
 <b>1983</b>—Subsec. (f). Pub. L. 97–417 added subsec. (f).
 

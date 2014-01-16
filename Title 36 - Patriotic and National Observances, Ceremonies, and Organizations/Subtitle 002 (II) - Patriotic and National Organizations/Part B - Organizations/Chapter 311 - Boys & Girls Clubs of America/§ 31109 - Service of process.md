@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 6, 1956, ch. 976, §5(b), 70 Stat. 1053.
 
-The words “at all times” are omitted as unnecessary.
+The words "at all times" are omitted as unnecessary.
 

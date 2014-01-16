@@ -48,7 +48,7 @@ The development of a restoration plan, including any compatible use, under this 
 
 #### (d) Compatible uses
 
-Wetland reserve program lands may be used for compatible economic uses, including suchactivities as hunting and fishing, managed timber harvest, or periodic haying or grazing, if such use is specifically permitted by the plan and consistent with the long-term protection and enhancement of the wetlands resources for which the easement was established.
+Wetland reserve program lands may be used for compatible economic uses, including such activities as hunting and fishing, managed timber harvest, or periodic haying or grazing, if such use is specifically permitted by the plan and consistent with the long-term protection and enhancement of the wetlands resources for which the easement was established.
 
 #### (e) Type and length of easement
 
@@ -94,7 +94,7 @@ A conservation easement granted under this section—
 
 #### (g) Violation
 
-On the violation of the terms or conditions of the easement or related agreement entered into under subsection (a) of this section, the easement shall remain in force and the Secretary may require the owner to refund all or part of any payments received by the owner under this subpart, together with interest thereon as determined appropriate by the Secretary.
+On the violation of the terms or conditions of the easement or related agreement entered into under subsection (a) of this section, the easement shall remain in force and the Secretary may require the owner to refund all or part ofany payments received by the owner under this subpart, together with interest thereon as determined appropriate by the Secretary.
 
 #### (h) Wetlands reserve enhancement program
 
@@ -132,27 +132,27 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(2)(B). Pub. L. 110–246, §2204, struck out “or” at end of cl. (i), substituted “; or” for “; and” at end of cl. (ii), and added cl. (iii).
+<b>2008</b>—Subsec. (b)(2)(B). Pub. L. 110–246, §2204, struck out "or" at end of cl. (i), substituted "; or" for "; and" at end of cl. (ii), and added cl. (iii).
 
-Subsec. (f). Pub. L. 110–246, §2205, amended subsec. (f) generally. Prior to amendment, text read as follows: “Compensation for easements acquired by the Secretary under this subpart shall be made in cash in such amount as is agreed to and specified in the easementagreement, but not to exceed the fair market value of the land less the fair market value of such land encumbered by the easement. Lands may be enrolled through the submission of bids under a procedure established by the Secretary. Compensation may be provided in not less than 5, nor more than 30, annual payments of equal or unequal size, as agreed to by the owner and the Secretary.”
+Subsec. (f). Pub. L. 110–246, §2205, amended subsec. (f) generally. Prior to amendment, text read as follows: "Compensation for easements acquired by the Secretary under this subpart shall be made in cash in such amount as is agreed to and specified in the easement agreement, but not to exceed the fair market value of the land less the fair market value of such land encumbered by the easement. Lands may be enrolled through the submission of bids under a procedure established by the Secretary. Compensation may be provided in not less than 5, nor more than 30, annual payments of equal or unequal size, as agreed to by the owner and the Secretary."
 
 Subsec. (h). Pub. L. 110–246, §2206, added subsec. (h).
 
-<b>2002</b>—Subsec. (h). Pub. L. 107–171 struck out heading and text of subsec. (h). Text read as follows: “The Secretary may enroll land into the wetlands reserve program through an agreement that requires the landowner to restore wetlands on the land, if the agreement does not provide the Secretary with an easement.”
+<b>2002</b>—Subsec. (h). Pub. L. 107–171 struck out heading and text of subsec. (h). Text read as follows: "The Secretary may enroll land into the wetlands reserve program through an agreement that requires the landowner to restore wetlands on the land, if the agreement does not provide the Secretary with an easement."
 
-<b>1996</b>—Pub. L. 104–127, §333(d)(1), inserted “and agreements” after “Easements” in section catchline.
+<b>1996</b>—Pub. L. 104–127, §333(d)(1), inserted "and agreements" after "Easements" in section catchline.
 
 Subsec. (c). Pub. L. 104–127, §333(d)(2), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows:
 
-“(1)
+"(1)
 
 Plans.—The development of restoration plans under this section shall be made through the agreement of the local representative of the Soil Conservation Service and a representative of the Fish and Wildlife Service. If agreement cannot be reached at the local level under the preceding sentence within a reasonable period of time, such plans shall be referred to the State Conservationist, who in developing such plans under this paragraph, shall consult with the Fish and Wildlife Service.
 
-“(2)
+"(2)
 
-Report.—The State Conservationist and a representative of the Fish and Wildlife Service shall report to their respective national offices concerning all plans developed under paragraph (1) at the State level as a result of an agreement not being reached at the local level.”
+Report.—The State Conservationist and a representative of the Fish and Wildlife Service shall report to their respective national offices concerning all plans developed under paragraph (1) at the State level as a result of an agreement not being reached at the local level."
 
-Subsec. (f). Pub. L. 104–127, §333(d)(3), substituted “Compensation may be provided in not less than 5, nor more than 30, annual payments of equal or unequal size, as agreed to by the owner and the Secretary.” for “Compensation may be provided in not less than 5 nor more than 20 annual payments of either equal or unequal size, except in the case of a permanent easement, a single lump-sum payment may be provided, as agreed on by the owner and the Secretary.”
+Subsec. (f). Pub. L. 104–127, §333(d)(3), substituted "Compensation may be provided in not less than 5, nor more than 30, annual payments of equal or unequal size, as agreed to by the owner and the Secretary." for "Compensation may be provided in not less than 5 nor more than 20 annual payments of either equal or unequal size, except in the case of a permanent easement, a single lump-sum payment may be provided, as agreed on by the owner and the Secretary."
 
 Subsec. (h). Pub. L. 104–127, §333(d)(4), added subsec. (h).
 

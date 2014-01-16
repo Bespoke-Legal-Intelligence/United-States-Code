@@ -10,7 +10,7 @@ Establishment.—(1) The Secretary of Defense may establish and maintain a regis
 
 &emsp;(C) meet the eligibility requirements of subsection (b).
 
-(2) The registry shall be known as the “National Foreign Language Skills Registry” (in this section referred to as the “Registry”).
+(2) The registry shall be known as the "National Foreign Language Skills Registry" (in this section referred to as the "Registry").
 
 (b)
 
@@ -48,7 +48,7 @@ Designation of Critical Foreign Languages.—The Secretary shall designate those
 
 (f)
 
-Linguistic Services Defined.—In this section, the term “linguistic services” means translation or interpretation of communication in a foreign language.
+Linguistic Services Defined.—In this section, the term "linguistic services" means translation or interpretation of communication in a foreign language.
 
 (Added Pub. L. 107–314, div. A, title X, §1064(a)(1), Dec. 2, 2002, 116 Stat. 2653.)
 

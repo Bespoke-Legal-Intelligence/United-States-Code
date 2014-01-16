@@ -1,6 +1,6 @@
 ### §2277. Explosives or dangerous weapons aboard vessels
 
-(a) Whoever brings, carries, or possesses any dangerous weapon, instrument, or device, or any dynamite, nitroglycerin, or other explosive article or compound on board of any vessel documented under the laws of the United States, or any vessel purchased, requisitioned, chartered, or taken over by the United States pursuant to the provisions of Act June 6, 1941, ch. 174, 55 Stat. 242, as amended, without previously obtaining the permission of the owner or the master of such vessel; or
+(a) Whoever brings, carries, or possesses any dangerous weapon, instrument, or device, or any dynamite, nitroglycerin, or other explosive article or compound on board of any vessel documented under the laws of the United States, or any vessel purchased, requisitioned, chartered, or taken over by the United States pursuant tothe provisions of Act June 6, 1941, ch. 174, 55 Stat. 242, as amended, without previously obtaining the permission of the owner or the master of such vessel; or
 
 Whoever brings, carries, or possesses any such weapon or explosive on board of any vessel in the possession and under the control of the United States or which has been seized and forfeited by the United States or upon which a guard has been placed by the United States pursuant to the provisions of section 191 of Title 50, without previously obtaining the permission of the captain of the port in which such vessel is located, shall be fined under this title or imprisoned not more than one year, or both.
 
@@ -14,7 +14,7 @@ Based on title 18, U.S.C., 1940 ed., §§503, 504 (Dec. 31, 1941, ch. 642, §§1
 
 Section consolidates sections 503 and 504 of title 18, U.S.C., 1940 ed.
 
-Words “This section” were substituted in subsection (b) for the words “The provisions of sections 503, 504 of this title”.
+Words "This section" were substituted in subsection (b) for the words "The provisions of sections 503, 504 of this title".
 
 Minor changes were made in phraseology.
 
@@ -24,7 +24,7 @@ Act June 6, 1941, ch. 174, 55 Stat. 242, as amended, referred to in subsec. (a),
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted “documented” for “registered, enrolled, or licensed”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted "documented" for "registered, enrolled, or licensed".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in second par.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" in second par.
 

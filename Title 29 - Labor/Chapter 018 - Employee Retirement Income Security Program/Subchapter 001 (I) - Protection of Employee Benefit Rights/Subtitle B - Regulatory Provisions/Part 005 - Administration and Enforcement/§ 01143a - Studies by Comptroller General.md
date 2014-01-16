@@ -16,7 +16,7 @@ For the purpose of conducting studies under this section, the Comptroller Genera
 
 #### (3) Definitions
 
-For purposes of this section, the terms “employee benefit plan”, “participant”, “administrator”, “beneficiary”, “plan sponsor”, “employee”, and “employer” are defined in section 1002 of this title.
+For purposes of this section, the terms "employee benefit plan", "participant", "administrator", "beneficiary", "plan sponsor", "employee", and "employer" are defined in section 1002 of this title.
 
 #### (4) Effective date
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Nov. 16, 1990, Pub. L. 101–604, §102(d), 104 Stat. 3069.
 
-The words “the Secretary of Transportation submits” are substituted for “submission for the Department of Transportation”, and the words “budget request for the Office” are substituted for “budget request for the Director”, for clarity and consistency in the revised title and with other titles of the United States Code.
+The words "the Secretary of Transportation submits" are substituted for "submission for the Department of Transportation", and the words "budget request for the Office" are substituted for "budget request for the Director", for clarity and consistency in the revised title and with other titles of the United States Code.
 

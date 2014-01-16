@@ -22,17 +22,17 @@ The Surgeon General shall designate the Assistant Surgeon General who shall serv
 
 #### Amendments
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–76, §302(b), inserted provisions relating to assignment of Chief Nurse Officer and Chief Pharmacist Officer, and substituted “eight” for “six”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–76, §302(b), inserted provisions relating to assignment of Chief Nurse Officer and Chief Pharmacist Officer, and substituted "eight" for "six".
 
 Subsec. (c). Pub. L. 96–76, §303, designated existing provisions as par. (1), struck out provisions relating to maximum number of special temporary positions, and added par. (2).
 
-<b>1948</b>—Subsec. (b). Act June 16, 1948, substituted “National Institutes of Health” for “National Institute of Health”.
+<b>1948</b>—Subsec. (b). Act June 16, 1948, substituted "National Institutes of Health" for "National Institute of Health".
 
 Subsecs. (c), (d). Act Feb. 28, 1948, added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–76, title III, §314, Sept. 29, 1979, 93 Stat. 587, provided that: “The amendments made by sections 303, 304, 305, 306, 307, and 313 \[amending this section, sections 207, 209, 210b, and 211 of this title, and sections 201, 415, and 1006 of Title 37, Pay and Allowances of the Uniformed Services\] shall take effect on October 1, 1979.”
+Pub. L. 96–76, title III, §314, Sept. 29, 1979, 93 Stat. 587, provided that: "The amendments made by sections 303, 304, 305, 306, 307, and 313 \[amending this section, sections 207, 209, 210b, and 211 of this title, and sections 201, 415, and 1006 of Title 37, Pay and Allowances of the Uniformed Services\] shall take effect on October 1, 1979."
 
 #### Transfer of Functions
 

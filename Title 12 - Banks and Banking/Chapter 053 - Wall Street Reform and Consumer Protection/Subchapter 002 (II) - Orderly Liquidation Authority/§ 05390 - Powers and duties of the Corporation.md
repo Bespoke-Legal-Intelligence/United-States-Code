@@ -506,17 +506,17 @@
 
 &emsp;&emsp;&emsp;(i) subparagraphs (A) and (B)—
 
-&emsp;&emsp;&emsp;&emsp;(I) the term “insider” has the same meaning as in section 101(31) of the Bankruptcy Code;
+&emsp;&emsp;&emsp;&emsp;(I) the term "insider" has the same meaning as in section 101(31) of the Bankruptcy Code;
 
 &emsp;&emsp;&emsp;&emsp;(II) a transfer is made when such transfer is so perfected that a bona fide purchaser from the covered financial company against whom applicable law permits such transfer to be perfected cannot acquire an interest in the propertytransferred that is superior to the interest in such property of the transferee, but if such transfer is not so perfected before the date on which the Corporation is appointed as receiver for the covered financial company, such transfer is made immediately before the date of such appointment; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the term “value” means property, or satisfaction or securing of a present or antecedent debt of the covered financial company, but does not include an unperformed promise to furnish support to the covered financial company; and
+&emsp;&emsp;&emsp;&emsp;(III) the term "value" means property, or satisfaction or securing of a present or antecedent debt of the covered financial company, but does not include an unperformed promise to furnish support to the covered financial company; and
 
 &emsp;&emsp;&emsp;(ii) subparagraph (B)—
 
 &emsp;&emsp;&emsp;&emsp;(I) the covered financial company is presumed to have been insolvent on and during the 90-day period immediately preceding the date of appointment of the Corporation as receiver; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the term “insolvent” has the same meaning as in section 101(32) of the Bankruptcy Code.
+&emsp;&emsp;&emsp;&emsp;(II) the term "insolvent" has the same meaning as in section 101(32) of the Bankruptcy Code.
 
 #### (12) Setoff
 
@@ -554,11 +554,11 @@
 
 #### (ii) Definition of insufficiency
 
-&emsp;&emsp;&emsp;In this subparagraph, the term “insufficiency” means the amount, if any, by which a claim against the covered financial company exceeds a mutual debt owed to the covered financial company by the holder of such claim.
+&emsp;&emsp;&emsp;In this subparagraph, the term "insufficiency" means the amount, if any, by which a claim against the covered financial company exceeds a mutual debt owed to the covered financial company by the holder of such claim.
 
 #### (C) Insolvency
 
-&emsp;&emsp;The term “insolvent” has the same meaning as in section 101(32) of the Bankruptcy Code.
+&emsp;&emsp;The term "insolvent" has the same meaning as in section 101(32) of the Bankruptcy Code.
 
 #### (D) Presumption of insolvency
 
@@ -620,7 +620,7 @@
 
 #### (iii) Records defined
 
-&emsp;&emsp;&emsp;As used in this subparagraph, the terms “records” and “records of a covered financial company” mean any document, book, paper, map, photograph, microfiche, microfilm, computer or electronically-created record generated or maintained by the covered financial company in the course of and necessary to its transaction of business.
+&emsp;&emsp;&emsp;As used in this subparagraph, the terms "records" and "records of a covered financial company" mean any document, book, paper, map, photograph, microfiche, microfilm, computer or electronically-created record generated or maintained by the covered financial company in the course of and necessary to its transaction of business.
 
 #### (b) Priority of expenses and unsecured claims
 
@@ -716,7 +716,7 @@
 
 #### (B) No liability for other damages
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “actual direct compensatory damages” does not include—
+&emsp;&emsp;For purposes of subparagraph (A), the term "actual direct compensatory damages" does not include—
 
 &emsp;&emsp;&emsp;(i) punitive or exemplary damages;
 
@@ -874,13 +874,13 @@
 
 #### (i) Qualified financial contract
 
-&emsp;&emsp;&emsp;The term “qualified financial contract” means any securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, and any similar agreement that the Corporation determines by regulation, resolution, or order to be a qualified financial contract for purposes of this paragraph.
+&emsp;&emsp;&emsp;The term "qualified financial contract" means any securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, and any similar agreement that the Corporation determines by regulation, resolution, or order to be a qualified financial contract for purposes of this paragraph.
 
 #### (ii) Securities contract
 
-&emsp;&emsp;&emsp;The term “securities contract”—
+&emsp;&emsp;&emsp;The term "securities contract"—
 
-&emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof), or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in clause (v));
+&emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof), or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such repurchase or reverse repurchase transaction is a "repurchase agreement", as defined in clause (v));
 
 &emsp;&emsp;&emsp;&emsp;(II) does not include any purchase, sale, or repurchase obligation under a participation in a commercial mortgage loan unless the Corporation determines by regulation, resolution, or order to include any such agreement within the meaning of such term;
 
@@ -906,7 +906,7 @@
 
 #### (iii) Commodity contract
 
-&emsp;&emsp;&emsp;The term “commodity contract” means—
+&emsp;&emsp;&emsp;The term "commodity contract" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to a futures commission merchant, a contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade;
 
@@ -930,9 +930,9 @@
 
 #### (iv) Forward contract
 
-&emsp;&emsp;&emsp;The term “forward contract” means—
+&emsp;&emsp;&emsp;The term "forward contract" means—
 
-&emsp;&emsp;&emsp;&emsp;(I) a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date that is more than 2 days after the date on which the contract is entered into, including a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in clause (v)), consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
+&emsp;&emsp;&emsp;&emsp;(I) a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date that is more than 2 days after the date on which the contract is entered into, including a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a "repurchase agreement", as defined in clause (v)), consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
 
 &emsp;&emsp;&emsp;&emsp;(II) any combination of agreements or transactions referred to in subclauses (I) and (III);
 
@@ -944,9 +944,9 @@
 
 #### (v) Repurchase agreement
 
-&emsp;&emsp;&emsp;The term “repurchase agreement” (which definition also applies to a reverse repurchase agreement)—
+&emsp;&emsp;&emsp;The term "repurchase agreement" (which definition also applies to a reverse repurchase agreement)—
 
-&emsp;&emsp;&emsp;&emsp;(I) means an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage related securities (as such term is defined in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\]), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers’ acceptances, qualified foreign government securities (which, for purposes of this clause, means a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development, as determined by regulation or order adopted by the Board of Governors), or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement;
+&emsp;&emsp;&emsp;&emsp;(I) means an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage related securities (as such term is defined in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\]), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers' acceptances, qualified foreign government securities (which, for purposes of this clause, means a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development, as determined by regulation or order adopted by the Board of Governors), or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers' acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers' acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement;
 
 &emsp;&emsp;&emsp;&emsp;(II) does not include any repurchase obligation under a participation in a commercial mortgage loan, unless the Corporation determines, by regulation, resolution, or order to include any such participation within the meaning of such term;
 
@@ -960,7 +960,7 @@
 
 #### (vi) Swap agreement
 
-&emsp;&emsp;&emsp;The term “swap agreement” means—
+&emsp;&emsp;&emsp;The term "swap agreement" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) any agreement, including the terms and conditions incorporated by reference in any such agreement, which is an interest rate swap, option, future, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, and basis swap; a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange, precious metals, or other commodity agreement; a currency swap, option, future, or forward agreement; an equity index or equity swap, option, future, or forward agreement; a debt index or debt swap, option, future, or forward agreement; a total return, credit spread or credit swap, option, future, or forward agreement; a commodity index or commodity swap, option, future, or forward agreement; weather swap, option, future, or forward agreement; an emissions swap, option, future, or forward agreement; or an inflation swap, option, future, or forward agreement;
 
@@ -978,9 +978,9 @@
 
 &emsp;&emsp;&emsp;When used in this paragraph and paragraphs (9) and (10)—
 
-&emsp;&emsp;&emsp;&emsp;(I) the term “default” means, with respect to a covered financial company, any adjudication or other official decision by any court of competent jurisdiction, or other public authority pursuant to which the Corporation has been appointed receiver; and
+&emsp;&emsp;&emsp;&emsp;(I) the term "default" means, with respect to a covered financial company, any adjudication or other official decision by any court of competent jurisdiction, or other public authority pursuant to which the Corporation has been appointed receiver; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the term “in danger of default” means a covered financial company with respect to which the Corporation or appropriate State authority has determined that—
+&emsp;&emsp;&emsp;&emsp;(II) the term "in danger of default" means a covered financial company with respect to which the Corporation or appropriate State authority has determined that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the opinion of the Corporation or such authority—
 
@@ -1000,11 +1000,11 @@
 
 #### (ix) Transfer
 
-&emsp;&emsp;&emsp;The term “transfer” means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing ofor parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the equity of redemption of the covered financial company.
+&emsp;&emsp;&emsp;The term "transfer" means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing ofor parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the equity of redemption of the covered financial company.
 
 #### (x) Person
 
-&emsp;&emsp;&emsp;The term “person” includes any governmental entity in addition to any entity included in the definition of such term in section 1, title 1.
+&emsp;&emsp;&emsp;The term "person" includes any governmental entity in addition to any entity included in the definition of such term in section 1, title 1.
 
 #### (E) Clarification
 
@@ -1026,7 +1026,7 @@
 
 #### (iii) Walkaway clause defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “walkaway clause” means any provision in a qualified financial contract that suspends, conditions, or extinguishes a payment obligation of a party, in whole or in part, or does not create a payment obligation of a party that would otherwise exist, solely because of the status of such party as a nondefaulting party in connection with the insolvency of a covered financial company that is a party to the contract or the appointment of or the exercise of rights or powers by the Corporation as receiver for such covered financial company, and not as a result of the exercise by a party of any right to offset, setoff, or net obligations that exist under the contract, any other contract between those parties, or applicable law.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "walkaway clause" means any provision in a qualified financial contract that suspends, conditions, or extinguishes a payment obligation of a party, in whole or in part, or does not create a payment obligation of a party that would otherwise exist, solely because of the status of such party as a nondefaulting party in connection with the insolvency of a covered financial company that is a party to the contract or the appointment of or the exercise of rights or powers by the Corporation as receiver for such covered financial company, and not as a result of the exercise by a party of any right to offset, setoff, or net obligations that exist under the contract, any other contract between those parties, or applicable law.
 
 #### (G) Certain obligations to clearing organizations
 
@@ -1080,9 +1080,9 @@
 
 &emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) the term “financial institution” means a broker or dealer, a depository institution, a futures commission merchant, a bridge financial company, or any other institution determined by the Corporation, by regulation, to be a financial institution; and
+&emsp;&emsp;&emsp;(i) the term "financial institution" means a broker or dealer, a depository institution, a futures commission merchant, a bridge financial company, or any other institution determined by the Corporation, by regulation, to be a financial institution; and
 
-&emsp;&emsp;&emsp;(ii) the term “clearing organization” has the same meaning as in section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[12 U.S.C. 4402\].
+&emsp;&emsp;&emsp;(ii) the term "clearing organization" has the same meaning as in section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[12 U.S.C. 4402\].
 
 #### (10) Notification of transfer
 
@@ -1120,7 +1120,7 @@
 
 #### (D) Business day defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “business day” means any day other than any Saturday, Sunday, or any day on which either the New York Stock Exchange or the Federal Reserve Bank of New York is closed.
+&emsp;&emsp;For purposes of this paragraph, the term "business day" means any day other than any Saturday, Sunday, or any day on which either the New York Stock Exchange or the Federal Reserve Bank of New York is closed.
 
 #### (11) Disaffirmance or repudiation of qualified financial contracts
 
@@ -1586,15 +1586,15 @@ The Corporation may not enter into any agreement or approve any protective order
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) the terms “customer”, “customer name security”, and “customer property and member property” have the same meanings as in sections 741 and 761 of title 11; and
+&emsp;&emsp;(A) the terms "customer", "customer name security", and "customer property and member property" have the same meanings as in sections 741 and 761 of title 11; and
 
-&emsp;&emsp;(B) the terms “commodity broker” and “stockbroker” have the same meanings as in section 101 of the Bankruptcy Code.
+&emsp;&emsp;(B) the terms "commodity broker" and "stockbroker" have the same meanings as in section 101 of the Bankruptcy Code.
 
 #### (n) Orderly Liquidation Fund
 
 #### (1) Establishment
 
-&emsp;There is established in the Treasury of the United States a separate fund to be known asthe “Orderly Liquidation Fund”, which shall be available to the Corporation to carry out the authorities contained in this subchapter, for the cost of actions authorized by this subchapter, including the orderly liquidation of covered financial companies, payment of administrative expenses, the payment of principal and interest by the Corporation on obligations issued under paragraph (5), and the exercise of the authorities of the Corporation under this subchapter.
+&emsp;There is established in the Treasury of the United States a separate fund to be known asthe "Orderly Liquidation Fund", which shall be available to the Corporation to carry out the authorities contained in this subchapter, for the cost of actions authorized by this subchapter, including the orderly liquidation of covered financial companies, payment of administrative expenses, the payment of principal and interest by the Corporation on obligations issued under paragraph (5), and the exercise of the authorities of the Corporation under this subchapter.
 
 #### (2) Proceeds
 
@@ -1702,7 +1702,7 @@ The Corporation may not enter into any agreement or approve any protective order
 
 #### (C) Definition
 
-&emsp;&emsp;As used in this paragraph, the term “implementation expenses”—
+&emsp;&emsp;As used in this paragraph, the term "implementation expenses"—
 
 &emsp;&emsp;&emsp;(i) means costs incurred by the Corporation beginning on July 21, 2010, as part of its efforts to implement this subchapter that do not relate to a particular covered financial company; and
 
@@ -1714,7 +1714,7 @@ The Corporation may not enter into any agreement or approve any protective order
 
 #### (A) Eligible financial companies defined
 
-&emsp;&emsp;For purposes of this subsection, the term “eligible financial company” means any bank holding company with total consolidated assets equal to or greater than $50,000,000,000 and any nonbank financial company supervised by the Board of Governors.
+&emsp;&emsp;For purposes of this subsection, the term "eligible financial company" means any bank holding company with total consolidated assets equal to or greater than $50,000,000,000 and any nonbank financial company supervised by the Board of Governors.
 
 #### (B) Assessments
 
@@ -1878,7 +1878,7 @@ The Corporation may not enter into any agreement or approve any protective order
 
 #### (4) Definition of default
 
-&emsp;For purposes of this subsection, the term “default” means a failure to comply with the terms of a loan or other obligation to such an extent that the property securing the obligation is foreclosed upon.
+&emsp;For purposes of this subsection, the term "default" means a failure to comply with the terms of a loan or other obligation to such an extent that the property securing the obligation is foreclosed upon.
 
 #### (s) Recoupment of compensation from senior executives and directors
 
@@ -1892,13 +1892,13 @@ The Corporation may not enter into any agreement or approve any protective order
 
 #### (3) Rulemaking
 
-&emsp;The Corporation shall promulgate regulations to implement the requirements of this subsection, including defining the term “compensation” to mean any financial remuneration, including salary, bonuses, incentives, benefits, severance, deferred compensation, or golden parachute benefits, and any profits realized from the sale of the securities of the covered financial company.
+&emsp;The Corporation shall promulgate regulations to implement the requirements of this subsection, including defining the term "compensation" to mean any financial remuneration, including salary, bonuses, incentives, benefits, severance, deferred compensation, or golden parachute benefits, and any profits realized from the sale of the securities of the covered financial company.
 
 (Pub. L. 111–203, title II, §210, July 21, 2010, 124 Stat. 1460.)
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+This subchapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
 The Securities Investor Protection Act of 1970, referred to in subsecs. (a)(1)(O)(iv), (b)(6)(C), (D), (d)(3)(A), and (h)(2)(H)(iii), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
@@ -1918,11 +1918,11 @@ This Act, referred to in subsec. (n)(8)(A)(i), is Pub. L. 111–203, July 21, 20
 
 The Internal Revenue Code of 1986, referred to in subsec. (q)(2), is classified generally to Title 26, Internal Revenue Code.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “wind up”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "wind up".</i>
 
-<i><sup>2</sup></i><i> So in original. A closing parenthesis probably should appear after “receiver”.</i>
+<i><sup>2</sup></i><i> So in original. A closing parenthesis probably should appear after "receiver".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “of”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by "of".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “subsections”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "subsections".</i>
 

@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Hispanic-serving institution
 
-&emsp;The term “Hispanic-serving institution” has the meaning given the term in section 1101a(a) of title 20.
+&emsp;The term "Hispanic-serving institution" has the meaning given the term in section 1101a(a) of title 20.
 
 #### (2) Historically Black college and university
 
-&emsp;The term “historically Black college or university” has the meaning given the term “part B institution” in section 1061 of title 20.
+&emsp;The term "historically Black college or university" has the meaning given the term "part B institution" in section 1061 of title 20.
 
 #### (3) Tribal college
 
-&emsp;The term “Tribal college” has the meaning given the term “tribally controlled college or university” in section 1801(a) of title 25.
+&emsp;The term "Tribal college" has the meaning given the term "tribally controlled college or university" in section 1801(a) of title 25.
 
 #### (b) Partnership program
 

@@ -8,17 +8,17 @@ A State plan approved under section 1396a of this title may provide for making a
 
 For purposes of this section—
 
-&emsp;(1) the term “presumptive eligibility period” means, with respect to a pregnant woman, the period that—
+&emsp;(1) the term "presumptive eligibility period" means, with respect to a pregnant woman, the period that—
 
 &emsp;&emsp;(A) begins with the date on which a qualified provider determines, on the basis of preliminary information, that the family income of the woman does not exceed the applicable income level of eligibility under the State plan, and
 
 &emsp;&emsp;(B) ends with (and includes) the earlier of—
 
-&emsp;&emsp;&emsp;(i) the day on which a determination is made with respect to the eligibility of the woman for medical assistance under the State plan, or
+&emsp;&emsp;&emsp;(i) the day on which a determination is made with respect to the eligibility of thewoman for medical assistance under the State plan, or
 
 &emsp;&emsp;&emsp;(ii) in the case of a woman who does not file an application by the last day of the month following the month during which the provider makes the determination referred to in subparagraph (A), such last day; and
 
-&emsp;(2) the term “qualified provider” means any provider that—
+&emsp;(2) the term "qualified provider" means any provider that—
 
 &emsp;&emsp;(A) is eligible for payments under a State plan approved under this subchapter,
 
@@ -44,7 +44,7 @@ For purposes of this section—
 
 &emsp;&emsp;(iv) is the Indian Health Service or is a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act (Public Law 93–638) \[25 U.S.C. 450f et seq.\].
 
-> The term “qualified provider” also includes a qualified entity, as defined in section 1396r–1a(b)(3) of this title.
+> The term "qualified provider" also includes a qualified entity, as defined in section 1396r–1a(b)(3) of this title.
 
 #### (c) Duties of State agency, qualified providers, and presumptively eligible pregnant women
 
@@ -78,13 +78,9 @@ Notwithstanding any other provision of this subchapter, ambulatory prenatal care
 
 #### (e) Option to provide presumptive eligibility
 
-If the State has elected the option to provide a presumptive eligibility period under this section or section 1396r–1a of this title, the State may elect to provide a presumptive eligibility period (as defined in subsection (b)(1)) for individuals who are eligible for medical assistance under clause (i)(VIII) or clause (ii)(XX) of subsection (a)(10)(A) <sup>1</sup> or section 1396u–1 of this title in the same manner as the State provides for such a period under this section or section 1396r–1a of this title, subject to such guidance as the Secretary shall establish.
+If the State has elected the option to provide a presumptive eligibility period under this section or section 1396r–1a of this title, the State may elect to provide a presumptive eligibility period (as defined in subsection (b)(1)) for individuals who are eligible for medical assistance under clause (i)(VIII), clause (i)(IX), or clause (ii)(XX) of subsection (a)(10)(A) <sup>1</sup> or section 1396u–1 of this title in the same manner as the State provides for such a period under this section or section 1396r–1a of this title, subject to such guidance as the Secretary shall establish.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1920, as added Pub. L. 99–509, title IX, §9407(b), Oct. 21, 1986, 100 Stat. 2058; amended Pub. L. 100–360, title IV, §411(k)(16)(A), (B), July 1, 1988, 102 Stat. 799; Pub. L. 100–485, title VI, §608(d)(26)(L), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–508, title IV, §4605(a), (b), Nov. 5, 1990, 104 Stat. 1388–169; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(q)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397; Pub. L. 111–3, title I, §113(b)(2), Feb. 4, 2009, 123 Stat. 34; Pub. L. 111–148, title II, §§2001(a)(4)(B), (e)(2)(C), 2004(b), Mar. 23, 2010, 124 Stat. 274, 279, 283.)
-
-#### Amendment of Subsection (e)
-
-<i>Pub. L. 111–148, title II, §2004(b), (d), title X, §10201(a)(3), Mar. 23, 2010, 124 Stat. 283, 918, provided that, effective Jan. 1, 2014, subsection (e) of this section is amended by inserting “, clause (i)(IX),” after “clause (i)(VIII)”. See 2010 Amendment notes below.</i>
 
 #### References in Text
 
@@ -100,37 +96,37 @@ A prior section 1920 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e). Pub. L. 111–148, §2004(b), inserted “, clause (i)(IX),” after “clause (i)(VIII)”.
+<b>2010</b>—Subsec. (e). Pub. L. 111–148, §2004(b), inserted ", clause (i)(IX)," after "clause (i)(VIII)".
 
-Pub. L. 111–148, §2001(e)(2)(C), inserted “or clause (ii)(XX)” after “clause (i)(VIII)”.
+Pub. L. 111–148, §2001(e)(2)(C), inserted "or clause (ii)(XX)" after "clause (i)(VIII)".
 
 Pub. L. 111–148, §2001(a)(4)(B), added subsec. (e).
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–3 inserted concluding provisions.
 
-<b>1999</b>—Subsec. (b)(2)(D)(i)(I). Pub. L. 106–113 substituted “section 254b or 254c of this title,” for “section 254b, 254c, or 256 of this title,”.
+<b>1999</b>—Subsec. (b)(2)(D)(i)(I). Pub. L. 106–113 substituted "section 254b or 254c of this title," for "section 254b, 254c, or 256 of this title,".
 
-<b>1990</b>—Subsec. (b)(1)(B). Pub. L. 101–508, §4605(a)(1), inserted “or” at end of cl. (i), redesignated cl. (iii) as (ii) and amended it generally, and struck out former cl. (ii). Prior to amendment, cls. (ii) and (iii) read as follows:
+<b>1990</b>—Subsec. (b)(1)(B). Pub. L. 101–508, §4605(a)(1), inserted "or" at end of cl. (i), redesignated cl. (iii) as (ii) and amended it generally, and struck out former cl. (ii). Prior to amendment, cls. (ii) and (iii) read as follows:
 
-“(ii) the day that is 45 days after the date on which the provider makes the determination referred to in subparagraph (A), or
+"(ii) the day that is 45 days after the date on which the provider makes the determination referred to in subparagraph (A), or
 
-“(iii) in the case of a woman who does not file an application for medical assistance within 14 calendar days after the date on which the provider makes the determination referred to in subparagraph (A), the fourteenth calendar day after such determination is made; and”.
+"(iii) in the case of a woman who does not file an application for medical assistance within 14 calendar days after the date on which the provider makes the determination referred to in subparagraph (A), the fourteenth calendar day after such determination is made; and".
 
-Subsec. (c)(2)(B). Pub. L. 101–508, §4605(a)(2), substituted “by not later than the last day of the month following the month during which” for “within 14 calendar days after the date on which”.
+Subsec. (c)(2)(B). Pub. L. 101–508, §4605(a)(2), substituted "by not later than the last day of the month following the month during which" for "within 14 calendar days after the date on which".
 
-Subsec. (c)(3). Pub. L. 101–508, §4605(b), inserted before period at end “, which application may be the application used for the receipt of medical assistance by individuals described in section 1396a(l)(1)(A) of this title”.
+Subsec. (c)(3). Pub. L. 101–508, §4605(b), inserted before period at end ", which application may be the application used for the receipt of medical assistance by individuals described in section 1396a(l)(1)(A) of this title".
 
-Pub. L. 101–508, §4605(a)(2), substituted “by not later than the last day of the month following the month during which” for “within 14 calendar days after the date on which”.
+Pub. L. 101–508, §4605(a)(2), substituted "by not later than the last day of the month following the month during which" for "within 14 calendar days after the date on which".
 
-<b>1988</b>—Subsec. (b)(2)(D)(i). Pub. L. 100–360, §411(k)(16)(B)(i), substituted “section 254b, 254c, or 256 of this title,” for “section 254b of this title or section 254c of this title, or” in subcl. (I), substituted “chapter, or” for “chapter;” in subcl. (II), and added subcl. (III).
+<b>1988</b>—Subsec. (b)(2)(D)(i). Pub. L. 100–360, §411(k)(16)(B)(i), substituted "section 254b, 254c, or 256 of this title," for "section 254b of this title or section 254c of this title, or" in subcl. (I), substituted "chapter, or" for "chapter;" in subcl. (II), and added subcl. (III).
 
-Subsec. (b)(2)(D)(ii)(II). Pub. L. 100–360, §411(k)(16)(B)(ii), as amended by Pub. L. 100–485, §608(d)(26)(L)(i), struck out “or” after “1973;”.
+Subsec. (b)(2)(D)(ii)(II). Pub. L. 100–360, §411(k)(16)(B)(ii), as amended by Pub. L. 100–485, §608(d)(26)(L)(i), struck out "or" after "1973;".
 
-Subsec. (b)(2)(D)(iii). Pub. L. 100–360, §411(k)(16)(B)(iii), as added by Pub. L. 100–485, §608(d)(26)(L)(iii), substituted “program; or” for “program.”
+Subsec. (b)(2)(D)(iii). Pub. L. 100–360, §411(k)(16)(B)(iii), as added by Pub. L. 100–485, §608(d)(26)(L)(iii), substituted "program; or" for "program."
 
 Subsec. (b)(2)(D)(iv). Pub. L. 100–360, §411(k)(16)(B)(iv), formerly §411(k)(16)(B)(iii), as redesignated by Pub. L. 100–485, §608(d)(26)(L)(ii), added cl. (iv).
 
-Subsec. (d)(1)(B). Pub. L. 100–360, §411(k)(16)(A), substituted “by a provider that is eligible for payments under the State plan” for “by a qualified provider”.
+Subsec. (d)(1)(B). Pub. L. 100–360, §411(k)(16)(A), substituted "by a provider that is eligible for payments under the State plan" for "by a qualified provider".
 
 #### Effective Date of 2010 Amendment
 
@@ -144,15 +140,15 @@ Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child hea
 
 Pub. L. 101–508, title IV, §4605(c), Nov. 5, 1990, 104 Stat. 1388–169, provided that:
 
-“(1) The amendments made by subsection (a) \[amending this section\] apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+"(1) The amendments made by subsection (a) \[amending this section\] apply to payments under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
-“(2) The amendment made by subsection (b) \[amending this section\] shall be effective as if included in the enactment of section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509, enacting this section\].”
+"(2) The amendment made by subsection (b) \[amending this section\] shall be effective as if included in the enactment of section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509, enacting this section\]."
 
 #### Effective Date of 1988 Amendments
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Pub. L. 100–360, title IV, §411(k)(16)(C), July 1, 1988, 102 Stat. 799, provided that: “The amendments made by this paragraph \[amending this section\] shall be effective as if they were included in section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
+Pub. L. 100–360, title IV, §411(k)(16)(C), July 1, 1988, 102 Stat. 799, provided that: "The amendments made by this paragraph \[amending this section\] shall be effective as if they were included in section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\]."
 
 #### Effective Date
 

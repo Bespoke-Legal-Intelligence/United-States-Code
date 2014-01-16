@@ -18,11 +18,11 @@ Perpetuating Memories.—To perpetuate the memories of the fathers of the Daught
 
 &emsp;(5) caring for veterans of all wars through volunteer programs in Department of Veterans Affairs medical centers and in homes and other institutions maintained by the States for the welfare of American veterans; and
 
-&emsp;(6) participating, in a spirit of cooperation and reciprocity, in programs with other societies devoted to American history, veterans’ affairs, or community interests.
+&emsp;(6) participating, in a spirit of cooperation and reciprocity, in programs with other societies devoted to American history, veterans' affairs, or community interests.
 
 (c)
 
-Veterans’ and Patriotic Organization.—The corporation shall function as a veterans’ and patriotic organization as authorized by the laws of each State in which it is incorporated.
+Veterans' and Patriotic Organization.—The corporation shall function as a veterans' and patriotic organization as authorized by the laws of each State in which it is incorporated.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1341.)
 
@@ -42,5 +42,5 @@ Historical and Revision Notes
 
 Dec. 9, 1985, Pub. L. 99–172, §3, 99 Stat. 1020; June 13, 1991, Pub. L. 102–54, §13(n)(8), 105 Stat. 278.
 
-The word “objects” is omitted as included in “purposes” and for consistency in the revised title.
+The word "objects" is omitted as included in "purposes" and for consistency in the revised title.
 

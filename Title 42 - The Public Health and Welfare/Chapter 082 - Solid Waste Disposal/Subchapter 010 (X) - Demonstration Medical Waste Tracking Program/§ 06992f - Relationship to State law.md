@@ -18,5 +18,5 @@ Any State or local law which requires submission of a tracking form from any per
 
 (Pub. L. 89–272, title II, §11007, as added Pub. L. 100–582, §2(a), Nov. 1, 1988, 102 Stat. 2955.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “under section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "under section".</i>
 

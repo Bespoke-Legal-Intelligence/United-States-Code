@@ -10,7 +10,7 @@ The Corporation—
 
 &emsp;(3) may make and perform such contracts, grants, and other agreements with any person or government however designated and wherever situated, as may be necessary for carrying out the functions of the Corporation;
 
-&emsp;(4) may determine and prescribe the manner in which its obligations shall be incurred andits expenses allowed and paid, including expenses for representation;
+&emsp;(4) may determine and prescribe the manner in which its obligations shall be incurred and its expenses allowed and paid, including expenses for representation;
 
 &emsp;(5) may lease, purchase, or otherwise acquire, improve, and use such real property wherever situated, as may be necessary for carrying out the functions of the Corporation;
 
@@ -78,7 +78,7 @@ Except to the extent inconsistent with the provisions of this chapter, the admin
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(6), (10), (d), and (g)(1), was in the original “this title”, meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
+This chapter, referred to in subsecs. (a)(6), (10), (d), and (g)(1), was in the original "this title", meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 The State Department Basic Authorities Act of 1956, referred to in subsec. (d), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, which enacted sections 2651a, 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2734 of this title and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 

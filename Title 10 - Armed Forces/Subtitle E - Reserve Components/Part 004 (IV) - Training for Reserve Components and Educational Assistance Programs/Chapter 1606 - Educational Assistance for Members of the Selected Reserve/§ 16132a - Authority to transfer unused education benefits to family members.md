@@ -124,7 +124,7 @@ Regulations.—The Secretary of Defense, in consultation with the Secretary of V
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §1075(b)(55)(A), substituted “agreement to serve” for “agreement to service”.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §1075(b)(55)(A), substituted "agreement to serve" for "agreement to service".
 
-Subsec. (i)(2). Pub. L. 111–383, §1075(b)(55)(B), struck out “whose” after “member's”.
+Subsec. (i)(2). Pub. L. 111–383, §1075(b)(55)(B), struck out "whose" after "member's".
 

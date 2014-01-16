@@ -6,15 +6,15 @@ Establishment of Program.—To encourage Department of Defense personnel assigne
 
 (b)
 
-Poor Air Quality Areas.—In this section, the term “poor air quality area” means an area—
+Poor Air Quality Areas.—In this section, the term "poor air quality area" means an area—
 
 &emsp;(1) that is subject to the national ambient air quality standards promulgated by the Administrator of the Environmental Protection Agency under section 109 of the Clean Air Act (42 U.S.C. 7409); and
 
-&emsp;(2) that, as determined by the Administrator of the Environmental Protection Agency, is a nonattainment area with respect to any of those standards.
+&emsp;(2) that, as determined by the Administrator of the Environmental Protection Agency, is anonattainment area with respect to any of those standards.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1082(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–285.)
 
 #### Time for Implementation
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1082(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–285, provided that: “The Secretary of Defense shall prescribe the effective date for the transit pass program required under section 2259 of title 10, United States Code, as added by subsection (a). The effective date so prescribed may not be later than the first day of the first month that begins on or after the date that is 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].”
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1082(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–285, provided that: "The Secretary of Defense shall prescribe the effective date for the transit pass program required under section 2259 of title 10, United States Code, as added by subsection (a). The effective date so prescribed may not be later than the first day of the first month that begins on or after the date that is 180 days after the date of the enactment of this Act \[Oct. 30, 2000\]."
 

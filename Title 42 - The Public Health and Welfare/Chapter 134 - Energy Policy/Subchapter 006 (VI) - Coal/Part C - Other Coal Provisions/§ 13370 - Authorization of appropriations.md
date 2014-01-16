@@ -6,7 +6,7 @@ There are authorized to be appropriated to the Secretary for carrying out this p
 
 #### References in Text
 
-Section 13362 of this title, referred to in text, was in the original “section 1322” and was translated as reading “section 1332” meaning section 1332 of Pub. L. 102–486, to reflect the probable intent of Congress, because Pub. L. 102–486 does not contain a section 1322.
+Section 13362 of this title, referred to in text, was in the original "section 1322" and was translated as reading "section 1332" meaning section 1332 of Pub. L. 102–486, to reflect the probable intent of Congress, because Pub. L. 102–486 does not contain a section 1322.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

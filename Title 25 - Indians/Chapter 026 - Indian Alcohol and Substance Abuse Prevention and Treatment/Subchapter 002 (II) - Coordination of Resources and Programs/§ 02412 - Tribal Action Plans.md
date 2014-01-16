@@ -6,7 +6,7 @@ The governing body of any Indian tribe may, at its discretion, adopt a resolutio
 
 #### (b) Cooperation
 
-At the request of any Indian tribe pursuant to a resolution adopted under subsection (a) of this section, the Bureau of Indian Affairs agency and education superintendents, where appropriate,,<sup>1</sup>the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration, and the Indian Health Service service unit director providing services to such tribe shall cooperate with the tribe in the development of a Tribal Action Plan to coordinate resources and programs relevant to alcohol and substance abuse prevention and treatment. Upon the development of such a plan, such superintendents and director, as directed by the Memorandum of Agreement established under section 2411 of this title, shall enter into an agreement with the tribe for the implementation of the Tribal Action Plan under subsection (a) of this section.
+At the request of any Indian tribe pursuant to a resolution adopted under subsection (a) of this section, the Bureau of Indian Affairs agency and education superintendents, where appropriate,,<sup>1</sup> the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration, and the Indian Health Service service unit director providing services to such tribe shall cooperate with the tribe in the development of a Tribal Action Plan to coordinate resources and programs relevant to alcohol and substance abuse prevention and treatment. Upon the development of such a plan, such superintendents and director, as directed by the Memorandum of Agreement established under section 2411 of this title, shall enter into an agreement with the tribe for the implementation of the Tribal Action Plan under subsection (a) of this section.
 
 #### (c) Provisions
 
@@ -80,25 +80,25 @@ Section 2475 of this title, referred to in subsec. (c)(1)(A)(iv), was repealed b
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–211, §241(a)(2)(A), inserted “, the Office of Justice Programs, the SubstanceAbuse and Mental Health Services Administration,” before “and the Indian Health Service service unit”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–211, §241(a)(2)(A), inserted ", the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration," before "and the Indian Health Service service unit".
 
-Subsec. (c)(1)(A)(i). Pub. L. 111–211, §241(a)(2)(B), inserted “, the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration,” before “and the Indian Health Service service unit”.
+Subsec. (c)(1)(A)(i). Pub. L. 111–211, §241(a)(2)(B), inserted ", the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration," before "and the Indian Health Service service unit".
 
-Subsec. (d)(2). Pub. L. 111–211, §241(a)(2)(C), substituted “the period of fiscal years 2011 through 2015” for “fiscal year 1993 and such sums as are necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
+Subsec. (d)(2). Pub. L. 111–211, §241(a)(2)(C), substituted "the period of fiscal years 2011 through 2015" for "fiscal year 1993 and such sums as are necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000".
 
-Subsec. (e). Pub. L. 111–211, §241(a)(2)(D), inserted “, the Attorney General,” after “the Secretary of the Interior”.
+Subsec. (e). Pub. L. 111–211, §241(a)(2)(D), inserted ", the Attorney General," after "the Secretary of the Interior".
 
-Subsec. (f)(3). Pub. L. 111–211, §241(a)(2)(E), substituted “fiscal years 2011 through 2015” for “fiscal year 1993 and such sums as are necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
+Subsec. (f)(3). Pub. L. 111–211, §241(a)(2)(E), substituted "fiscal years 2011 through 2015" for "fiscal year 1993 and such sums as are necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000".
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–573, §703(1)(A), in par. (2), redesignated subpars. (2) to (4) as subpars. (B) to (D), respectively, and added subpar. (F), and added par. (3).
 
-Subsec. (d)(2). Pub. L. 102–573, §703(1)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is authorized to be appropriated not to exceed $1,000,000 for each of the fiscal years 1989, 1990, 1991, and 1992 for grants under this subsection.”
+Subsec. (d)(2). Pub. L. 102–573, §703(1)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "There is authorized to be appropriated not to exceed $1,000,000 for each of the fiscal years 1989, 1990, 1991, and 1992 for grants under this subsection."
 
 Subsec. (f). Pub. L. 102–573, §703(1)(C), added subsec. (f).
 
 <b>1988</b>—Subsec. (c)(2)(E). Pub. L. 100–690, §2203, added subpar. (E).
 
-Subsec. (d)(2). Pub. L. 100–690, §2204, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is authorized to be appropriated not to exceed $1,000,000 for each of the fiscal year 1987, 1988, and 1989 for grants under this subsection.”
+Subsec. (d)(2). Pub. L. 100–690, §2204, amended par. (2) generally. Prior to amendment, par. (2) read as follows: "There is authorized to be appropriated not to exceed $1,000,000 for each of the fiscal year 1987, 1988, and 1989 for grants under this subsection."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

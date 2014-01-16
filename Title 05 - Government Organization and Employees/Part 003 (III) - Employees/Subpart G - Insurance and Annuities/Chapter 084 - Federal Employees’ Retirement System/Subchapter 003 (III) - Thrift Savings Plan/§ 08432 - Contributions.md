@@ -1,6 +1,6 @@
 ### §8432. Contributions
 
-(a)(1) An employee or Member may contribute to the Thrift Savings Fund in any pay period,pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee's or Member's basic pay for such pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
+(a)(1) An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee's or Member's basic pay for such pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
 
 (2) The maximum percentage allowable under this paragraph shall be determined in accordance with the following table:
 
@@ -56,7 +56,7 @@
 
 (B) For purposes of this paragraph, the default percentage shall be equal to 3 percent or such other percentage, not less than 2 percent nor more than 5 percent, as the Board may prescribe.
 
-(C) The regulations shall include provisions under which any individual who would otherwise be automatically enrolled in accordance with subparagraph (A) may—
+(C) The regulations shall include provisions under which any individual who would otherwisebe automatically enrolled in accordance with subparagraph (A) may—
 
 &emsp;(i) modify the percentage or amount to be contributed pursuant to automatic enrollment, effective not later than the first full pay period following receipt of the election by the appropriate processing entity; or
 
@@ -86,7 +86,7 @@
 
 (B) The amount contributed under subparagraph (A) by an employing agency with respect to a contribution of an employee or Member during any pay period shall be the amount equal to the sum of—
 
-&emsp;(i) such portion of the total amount of the employee's or Member's contribution as doesnot exceed 3 percent of such employee's or Member's basic pay for such period; and
+&emsp;(i) such portion of the total amount of the employee's or Member's contribution as does not exceed 3 percent of such employee's or Member's basic pay for such period; and
 
 &emsp;(ii) one-half of such portion of the amount of the employee's or Member's contribution as exceeds 3 percent, but does not exceed 5 percent, of such employee's or Member's basic pay for such pay period.
 
@@ -138,7 +138,7 @@
 
 (4) Nothing in paragraph (2) or (3) shall cause the forfeiture of any contributions made for the benefit of an employee, Member, or Congressional employee under subsection (c)(1), or any earnings attributable thereto, if such employee, Member, or Congressional employee is not separated from Government employment as of date of death.
 
-(5) Notwithstanding any other provision of law, contributions made by the Government for the benefit of an employee or Member under subsection (c), and all earnings attributable to such contributions, shall be forfeited if the annuity of the employee or Member, or that of asurvivor or beneficiary, is forfeited under subchapter II of chapter 83.
+(5) Notwithstanding any other provision of law, contributions made by the Government for the benefit of an employee or Member under subsection (c), and all earnings attributable to such contributions, shall be forfeited if the annuity of the employee or Member, or that of a survivor or beneficiary, is forfeited under subchapter II of chapter 83.
 
 (h) No transfers or contributions may be made to the Thrift Savings Fund except as provided in this chapter or section 8351 of this title.
 
@@ -164,7 +164,7 @@
 
 (3) The Executive Director shall prescribe regulations to carry out this subsection.
 
-(k)(1) Only those employees of the Central Intelligence Agency participating in the pilot project required by section 402(b) of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 50 U.S.C. 403–4 note) and making contributions to the Thrift Savings Fund out of basic pay may also contribute (by direct transfer to the Fund) any part of bonus pay received by the employee as part of the pilot project.
+(k)(1) Only those employees of the Central Intelligence Agency participating in the pilot project required by section 402(b) of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 50 U.S.C. 403–4 note) <sup>2</sup> and making contributions to the Thrift Savings Fund out of basic pay may also contribute (by direct transfer to the Fund) any part of bonus pay received by the employee as part of the pilot project.
 
 (2) Contributions under this subsection are subject to subsection (d).
 
@@ -179,6 +179,8 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(3), (d), and (j),
 Subsection (b)(4), referred to in subsec. (c)(2)(C), was repealed by section 102(a) of Pub. L. 111–31. See 2009 Amendment note below.
 
 Section 204 of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 \[Pub. L. 98–168\], referred to in subsec. (c)(3)(B)(iii), is set out as a note under section 8331 of this title.
+
+The Intelligence Authorization Act for Fiscal Year 2003, referred to in subsec. (k)(1), is Pub. L. 107–306, Nov. 27, 2002, 116 Stat. 2383. Section 402 of the Act was formerly set out as a note under section 403–4 of Title 50, War and National Defense, and was editorially reclassified as a note under section 3505 of Title 50.
 
 #### Amendments
 
@@ -234,7 +236,7 @@ Subsec. (g)(1). Pub. L. 100–238, §115(1), substituted “Except as otherwise 
 
 Subsec. (g)(4). Pub. L. 100–238, §115(2), added par. (4).
 
-<b>1987</b>—Subsec. (b)(4)(A). Pub. L. 100–20 substituted “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director” for “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, continues as an employee or Member without a break in service through April 1, 1987, and has creditable service described in section 8411(b)(2) of this title may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director”.
+<b>1987</b>—Subsec. (b)(4)(A). Pub. L. 100–20 substituted “Notwithstanding paragraph (2)(A), an employee orMember who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director” for “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, continues as an employee or Member without a break in service through April 1, 1987, and has creditable service described in section 8411(b)(2) of this title may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director”.
 
 <b>1986</b>—Subsec. (b)(4). Pub. L. 99–509, §6001(a)(1), designated existing provisions as subpar. (A), inserted “continues as an employee or Member without a break in service through April 1, 1987,” substituted “April 1, 1987” for “January 1, 1987”, substituted “the date on which the employee or Member makes that election” for “the last day of that election period”, and added subpar. (B).
 
@@ -272,7 +274,7 @@ Pub. L. 99–509, title VI, §6001(d), Oct. 21, 1986, 100 Stat. 1931, provided t
 
 #### Savings Provisions
 
-Pub. L. 106–361, §2(c)(2), Oct. 27, 2000, 114 Stat. 1401, provided that: “Notwithstanding any other provision ofthis section \[amending this section and sections 8439, 8440a, and 8440d of this title and enacting provisions set out as a note under this section\], until the amendments made by this section take effect \[see Effective Date of 2000 Amendment note above\], title 5, United States Code, shall be applied as if this section had not been enacted.”
+Pub. L. 106–361, §2(c)(2), Oct. 27, 2000, 114 Stat. 1401, provided that: “Notwithstanding any other provision of this section \[amending this section and sections 8439, 8440a, and 8440d of this title and enacting provisions set out as a note under this section\], until the amendments made by this section take effect \[see Effective Date of 2000 Amendment note above\], title 5, United States Code, shall be applied as if this section had not been enacted.”
 
 #### Eligibility of Certain Individuals To Participate in Thrift Savings Plan
 
@@ -308,7 +310,7 @@ Applicability.—This section applies with respect to—
 
 &emsp;“(1) any individual participating in the Civil Service Retirement System or the Federal Employees’ Retirement System as—
 
-&emsp;&emsp;“(A) an individual who has entered on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of employees (as defined by section 8331(1) or 8401(11) of title 5, United States Code);
+&emsp;&emsp;“(A) an individual who has entered on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily ofemployees (as defined by section 8331(1) or 8401(11) of title 5, United States Code);
 
 &emsp;&emsp;“(B) an individual assigned from a Federal agency to a State or local government under subchapter VI of chapter 33 of title 5, United States Code;
 

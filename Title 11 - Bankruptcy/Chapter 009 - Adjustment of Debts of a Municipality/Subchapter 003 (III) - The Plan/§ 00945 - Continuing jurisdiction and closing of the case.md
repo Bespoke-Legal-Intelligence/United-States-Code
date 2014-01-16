@@ -14,7 +14,7 @@ Section 948 \[enacted as section 945\] permits the court to retain jurisdiction 
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–353 substituted “implementation” for “execution”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 substituted "implementation" for "execution".
 
 #### Effective Date of 1984 Amendment
 

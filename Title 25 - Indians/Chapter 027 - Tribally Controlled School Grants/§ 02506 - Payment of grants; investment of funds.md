@@ -58,5 +58,5 @@ A prior section 2506, Pub. L. 100–297, title V, §5207, Apr. 28, 1988, 102 Sta
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “insured by an”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "insured by an".</i>
 

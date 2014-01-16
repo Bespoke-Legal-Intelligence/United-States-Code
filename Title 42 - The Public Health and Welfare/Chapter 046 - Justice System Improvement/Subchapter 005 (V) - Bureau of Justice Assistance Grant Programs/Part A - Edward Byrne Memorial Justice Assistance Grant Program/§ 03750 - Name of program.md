@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-The grant program established under this part shall be known as the “Edward Byrne Memorial Justice Assistance Grant Program”.
+The grant program established under this part shall be known as the "Edward Byrne Memorial Justice Assistance Grant Program".
 
 #### (b) References to former programs
 
 (1) Any reference in a law, regulation, document, paper, or other record of the United States to the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, or to the Local Government Law Enforcement Block Grants program, shall be deemed to be a reference to the grant program referred to in subsection (a) of this section.
 
-(2) Any reference in a law, regulation, document, paper, or other record of the United States to section 3756 of this title as such section was in effect on the date of the enactment of the Department of Justice Appropriations Authorization Act, Fiscal Years 2006 through 2009,<sup>1</sup>shall be deemed to be a reference to section 3755(a) of this title as amended by the Department of Justice Appropriations Authorization Act, Fiscal Years 2006 through 2009.<sup>1</sup>
+(2) Any reference in a law, regulation, document, paper, or other record of the United States to section 3756 of this title as such section was in effect on the date of the enactment of the Department of Justice Appropriations Authorization Act, Fiscal Years 2006 through 2009,<sup>1</sup> shall be deemed to be a reference to section 3755(a) of this title as amended by the Department of Justice Appropriations Authorization Act, Fiscal Years 2006 through 2009.<sup>1</sup>
 
 (Pub. L. 90–351, title I, §500, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4329; amended Pub. L. 109–162, title XI, §1111(a)(2)(B), Jan. 5, 2006, 119 Stat. 3094.)
 
@@ -32,11 +32,11 @@ For other prior sections 3750 to 3750d of this title, see note set out preceding
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–162 substituted “Name of program” for “Name of programs” in section catchline and amended text generally. Prior to amendment, text read as follows: “The grant programs established under this subchapter shall be known as the ‘Edward Byrne Memorial State and Local Law Enforcement Assistance Programs’.”
+<b>2006</b>—Pub. L. 109–162 substituted "Name of program" for "Name of programs" in section catchline and amended text generally. Prior to amendment, text read as follows: "The grant programs established under this subchapter shall be known as the 'Edward Byrne Memorial State and Local Law Enforcement Assistance Programs'."
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–162, title XI, §1111(d), Jan. 5, 2006, 119 Stat. 3102, provided that: “The amendments made by this section \[enacting sections 3751 to 3758 of this title, amending this section and sections 3763, 3766, 3766b, 3782, 3789, 3791, 3796bb–1, 3796cc–1, 3796dd–1, 3796ff–1, and 14601 of this title, and repealing sections 3750a to 3750d, former sections 3751 to 3759, and sections 3760 to 3762 of this title\] shall apply with respect to the first fiscal year beginning after the date of the enactment of this Act \[Jan. 5, 2006\] and each fiscal year thereafter.”
+Pub. L. 109–162, title XI, §1111(d), Jan. 5, 2006, 119 Stat. 3102, provided that: "The amendments made by this section \[enacting sections 3751 to 3758 of this title, amending this section and sections 3763, 3766, 3766b, 3782, 3789, 3791, 3796bb–1, 3796cc–1, 3796dd–1, 3796ff–1, and 14601 of this title, and repealing sections 3750a to 3750d, former sections 3751 to 3759, and sections 3760 to 3762 of this title\] shall apply with respect to the first fiscal year beginning after the date of the enactment of this Act \[Jan. 5, 2006\] and each fiscal year thereafter."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

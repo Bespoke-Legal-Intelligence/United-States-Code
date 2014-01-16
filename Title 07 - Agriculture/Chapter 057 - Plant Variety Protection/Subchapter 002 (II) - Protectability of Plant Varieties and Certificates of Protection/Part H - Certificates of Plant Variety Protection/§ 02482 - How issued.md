@@ -6,7 +6,7 @@ A certificate of plant variety protection shall be issued in the name of the Uni
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–349 substituted “the signature of the Secretary” for “his signature”.
+<b>1994</b>—Pub. L. 103–349 substituted "the signature of the Secretary" for "his signature".
 
 #### Effective Date of 1994 Amendment
 

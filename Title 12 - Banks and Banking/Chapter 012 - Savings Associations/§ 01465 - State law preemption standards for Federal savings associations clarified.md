@@ -30,5 +30,5 @@ A prior section 1465, acts June 13, 1933, ch. 64, §6, 48 Stat. 134; Apr. 27, 19
 
 Enactment and amendment of section by Pub. L. 111–203 effective on the designated transfer date, see section 1048 of Pub. L. 111–203, set out as a note under section 5551 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

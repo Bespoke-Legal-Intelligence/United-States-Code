@@ -2,11 +2,11 @@
 
 #### (a) Establishment
 
-In order to protect the unique scenic, scientific, educational, and recreational values of certain lands in and around Yaquina Head, in Lincoln County, Oregon, there is hereby established, subject to valid existing rights, the Yaquina Head Outstanding Natural Area (hereinafter referred to as the “area”). The boundaries of the area are those shown on the map entitled “Yaquina Head Area”, dated July 1979, which shall be on file and available for public inspection in the Office of the Director, Bureau of Land Management, United States Department of the Interior, and the State Office of the Bureau of Land Management in the State of Oregon.
+In order to protect the unique scenic, scientific, educational, and recreational values of certain lands in and around Yaquina Head, in Lincoln County, Oregon, there is hereby established, subject to valid existing rights, the Yaquina Head Outstanding Natural Area (hereinafter referred to as the "area"). The boundaries of the area are those shown on the map entitled "Yaquina Head Area", dated July 1979, which shall be on file and available for public inspection in the Office of the Director, Bureau of Land Management, United States Department of the Interior, and the State Office of the Bureau of Land Management in the State of Oregon.
 
 #### (b) Administration by Secretary of the Interior; management plan; quarrying permits
 
-(1) The Secretary of the Interior (hereinafter referred to as the “Secretary”) shall administer the Yaquina Head Outstanding Natural Area in accordance with the laws and regulations applicable to the public lands as defined in section 103(e) of the Federal Land Policy and Management Act of 1976, as amended (43 U.S.C. 1702) \[43 U.S.C. 1702(e)\], in such a manner as will best provide for—
+(1) The Secretary of the Interior (hereinafter referred to as the "Secretary") shall administer the Yaquina Head Outstanding Natural Area in accordance with the laws and regulations applicable to the public lands as defined in section 103(e) of the Federal Land Policy and Management Act of 1976, as amended (43 U.S.C. 1702) \[43 U.S.C. 1702(e)\], in such a manner as will best provide for—
 
 &emsp;(A) the conservation and development of the scenic, natural, and historic values of the area;
 
@@ -20,7 +20,7 @@ In order to protect the unique scenic, scientific, educational, and recreational
 
 #### (c) Revocation of 1866 reservation of lands for lighthouse purposes; restoration to public lands status
 
-The reservation of lands for lighthouse purposes made by Executive order of June 8, 1866, ofcertain lands totaling approximately 18.1 acres, as depicted on the map referred to in subsection (a) of this section, is hereby revoked. The lands referred to in subsection (a) of this section are hereby restored to the status of public lands as defined in section 103(e) of the Federal Land Policy and Management Act of 1976, as amended (43 U.S.C. 1702) \[43 U.S.C. 1702(e)\], and shall be administered in accordance with the management plan for the area developed pursuant to subsection (b) of this section, except that such lands are hereby withdrawn from settlement, sale, location, or entry, under the public land laws, including the mining laws (30 U.S.C., ch. 2), leasing under the mineral leasing laws (30 U.S.C. 181 et seq.), and disposals under the Materials Act of July 31, 1947, as amended (30 U.S.C. 601, 602) \[43 U.S.C. 601 et seq.\].
+The reservation of lands for lighthouse purposes made by Executive order of June 8, 1866, of certain lands totaling approximately 18.1 acres, as depicted on the map referred to in subsection (a) of this section, is hereby revoked. The lands referred to in subsection (a) of this section are hereby restored to the status of public lands as defined in section 103(e) of the Federal Land Policy and Management Act of 1976, as amended (43 U.S.C. 1702) \[43 U.S.C. 1702(e)\], and shall be administered in accordance with the management plan for the area developed pursuant to subsection (b) of this section, except that such lands are hereby withdrawn from settlement, sale, location, or entry, under the public land laws, including the mining laws (30 U.S.C., ch. 2), leasing under the mineral leasing laws (30 U.S.C. 181 et seq.), and disposals under the Materials Act of July 31, 1947, as amended (30 U.S.C. 601, 602) \[43 U.S.C. 601 et seq.\].
 
 #### (d) Acquisition of lands not already in Federal ownership
 
@@ -28,7 +28,7 @@ The Secretary shall, as soon as possible but in no event later than twenty-four 
 
 #### (e) Wind energy research
 
-The Secretary is authorized to conduct a study relating to the use of lands in the area for purposes of wind energy research. If the Secretary determines after such study that the conduct of wind energy research activity will not substantially impair the values of the lands in the area for purposes of this section, the Secretary is further authorized to issue permits for the use of such lands as a site for installation and field testing of an experimental wind turbine generating system. Any permit issued pursuant to this subsection shall contain such terms and conditions as the Secretary determines necessary to protect the values of such lands for purposes of this section.
+The Secretary is authorized to conduct a study relating to the use of lands in the area forpurposes of wind energy research. If the Secretary determines after such study that the conduct of wind energy research activity will not substantially impair the values of the lands in the area for purposes of this section, the Secretary is further authorized to issue permits for the use of such lands as a site for installation and field testing of an experimental wind turbine generating system. Any permit issued pursuant to this subsection shall contain such terms and conditions as the Secretary determines necessary to protect the values of such lands for purposes of this section.
 
 #### (f) Reclamation and restoration of lands affected by quarrying operations
 

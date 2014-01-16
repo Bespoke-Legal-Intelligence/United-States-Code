@@ -34,7 +34,7 @@
 
 &emsp;(B) have on board a certificate from that society.
 
-(e) For the purposes of this section, the term “built” means, with respect to a vessel, that the vessel's construction has reached any of the following stages:
+(e) For the purposes of this section, the term "built" means, with respect to a vessel, that the vessel's construction has reached any of the following stages:
 
 &emsp;(1) The vessel's keel is laid.
 
@@ -44,25 +44,25 @@
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c). Pub. L. 112–213, §305(c)(1), substituted “July 1, 2013.” for “July 1, 2012.”
+<b>2012</b>—Subsec. (c). Pub. L. 112–213, §305(c)(1), substituted "July 1, 2013." for "July 1, 2012."
 
-Subsec. (d)(1)(B). Pub. L. 112–213, §305(c)(2)(A), substituted “July 1, 2013;” for “July 1, 2012;”.
+Subsec. (d)(1)(B). Pub. L. 112–213, §305(c)(2)(A), substituted "July 1, 2013;" for "July 1, 2012;".
 
-Subsec. (d)(2). Pub. L. 112–213, §305(c)(2)(B), substituted “July 1, 2013,” for “July 1, 2012,” in two places and substituted “major conversion” for “substantial change to the dimension of or type of vessel”.
+Subsec. (d)(2). Pub. L. 112–213, §305(c)(2)(B), substituted "July 1, 2013," for "July 1, 2012," in two places and substituted "major conversion" for "substantial change to the dimension of or type of vessel".
 
 Subsec. (e). Pub. L. 112–213, §305(c)(3), added subsec. (e).
 
-<b>2010</b>—Pub. L. 111–281, §604(e)(1)(A), substituted “Fishing, fish tender, and fish processing vessel certification” for “Fish processing vessel certification” in section catchline.
+<b>2010</b>—Pub. L. 111–281, §604(e)(1)(A), substituted "Fishing, fish tender, and fish processing vessel certification" for "Fish processing vessel certification" in section catchline.
 
-Subsec. (a). Pub. L. 111–281, §604(e)(1)(B), struck out “fish processing” before “vessel to which this section applies” in introductory provisions.
+Subsec. (a). Pub. L. 111–281, §604(e)(1)(B), struck out "fish processing" before "vessel to which this section applies" in introductory provisions.
 
 Subsecs. (c), (d). Pub. L. 111–281, §604(e)(1)(C), added subsecs. (c) and (d).
 
-<b>1988</b>—Pub. L. 100–424 amended section generally, substituting “Fish processing vessel certification” for “Equivalency” in section catchline, and provisions which require certification issued by American Bureauof Shipping or similar organization for fish processing vessel built after July 27, 1990, or undergoes major conversion completed after that date, for provisions which deemed compliance with this chapter if vessel has unexpired certificate of inspection issued by foreign country that is party to International Convention for Safety of Life at Sea to which United States is party.
+<b>1988</b>—Pub. L. 100–424 amended section generally, substituting "Fish processing vessel certification" for "Equivalency" in section catchline, and provisions which require certification issued by American Bureauof Shipping or similar organization for fish processing vessel built after July 27, 1990, or undergoes major conversion completed after that date, for provisions which deemed compliance with this chapter if vessel has unexpired certificate of inspection issued by foreign country that is party to International Convention for Safety of Life at Sea to which United States is party.
 
-<b>1984</b>—Pub. L. 98–557 substituted “is deemed” for “shall be deemed”.
+<b>1984</b>—Pub. L. 98–557 substituted "is deemed" for "shall be deemed".
 
 #### Alternative Safety Compliance Program
 
-Pub. L. 111–281, title VI, §604(f), Oct. 15, 2010, 124 Stat. 2967, provided that: “No later than January 1, 2017, the Secretary of the department in which the Coast Guard is operating shall prescribe an alternative safety compliance program referred to in section 4503(d)(1) of the title 46, United States Code, as amended by this section.”
+Pub. L. 111–281, title VI, §604(f), Oct. 15, 2010, 124 Stat. 2967, provided that: "No later than January 1, 2017, the Secretary of the department in which the Coast Guard is operating shall prescribe an alternative safety compliance program referred to in section 4503(d)(1) of the title 46, United States Code, as amended by this section."
 

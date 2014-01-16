@@ -32,7 +32,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Participate actively in hostilities.—The term “participate actively in hostilities” means taking part in—
+Participate actively in hostilities.—The term "participate actively in hostilities" means taking part in—
 
 &emsp;&emsp;(A) combat or military activities related to combat, including sabotage and serving as a decoy, a courier, or at a military checkpoint; or
 
@@ -40,7 +40,7 @@ Participate actively in hostilities.—The term “participate actively in hosti
 
 &emsp;(2)
 
-Armed force or group.—The term “armed force or group” means any army, militia, or other military organization, whether or not it is state-sponsored, excluding any group assembled solely for nonviolent political association.
+Armed force or group.—The term "armed force or group" means any army, militia, or other military organization, whether or not it is state-sponsored, excluding any group assembled solely for nonviolent political association.
 
 (Added Pub. L. 110–340, §2(a)(1), Oct. 3, 2008, 122 Stat. 3735.)
 

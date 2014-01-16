@@ -6,7 +6,7 @@ This subchapter shall be carried out by the Administrator of the Federal Emergen
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–351 substituted “Administrator” for “Director”.
+<b>2011</b>—Pub. L. 111–351 substituted "Administrator" for "Director".
 
 #### Transfer of Functions
 

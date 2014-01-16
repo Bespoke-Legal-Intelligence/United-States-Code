@@ -32,7 +32,7 @@ Liquidation or reliquidation may be made under subsection (a) with respect to an
 
 #### (d) Definition
 
-As used in this section, the term “entry” includes a withdrawal from warehouse for consumption.
+As used in this section, the term "entry" includes a withdrawal from warehouse for consumption.
 
 (Pub. L. 109–53, title II, §205, Aug. 2, 2005, 119 Stat. 483; Pub. L. 109–280, title XIV, §1634(d), Aug. 17, 2006, 120 Stat. 1168.)
 
@@ -42,7 +42,7 @@ As used in this section, the term “entry” includes a withdrawal from warehou
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(2). Pub. L. 109–280 inserted “or any other CAFTA–DR country” after “that country”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–280 inserted "or any other CAFTA–DR country" after "that country".
 
 #### Effective Date of 2006 Amendment
 

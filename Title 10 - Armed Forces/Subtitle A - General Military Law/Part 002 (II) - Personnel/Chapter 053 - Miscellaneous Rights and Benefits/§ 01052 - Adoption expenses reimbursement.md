@@ -30,13 +30,13 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 Definitions.—In this section:
 
-&emsp;(1) The term “qualifying adoption expenses” means reasonable and necessary expenses that are directly related to the legal adoption of a child under 18 years of age, but only if such adoption is arranged by a qualified adoption agency or other source authorized to place children for adoption under State or local law. Such term does not include any expense incurred—
+&emsp;(1) The term "qualifying adoption expenses" means reasonable and necessary expenses that are directly related to the legal adoption of a child under 18 years of age, but only if such adoption is arranged by a qualified adoption agency or other source authorized to place children for adoption under State or local law. Such term does not include any expense incurred—
 
 &emsp;&emsp;(A) by an adopting parent for travel; or
 
 &emsp;&emsp;(B) in connection with an adoption arranged in violation of Federal, State, or local law.
 
-&emsp;(2) The term “reasonable and necessary expenses” includes—
+&emsp;(2) The term "reasonable and necessary expenses" includes—
 
 &emsp;&emsp;(A) public and private agency fees, including adoption fees charged by an agency in a foreign country;
 
@@ -46,7 +46,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(D) medical expenses, including hospital expenses of the biological mother of the child to be adopted and of a newborn infant to be adopted.
 
-&emsp;(3) The term “qualified adoption agency” means any of the following:
+&emsp;(3) The term "qualified adoption agency" means any of the following:
 
 &emsp;&emsp;(A) A State or local government agency which has responsibility under State or local law for child placement through adoption.
 
@@ -68,13 +68,13 @@ A prior section 1052 was renumbered section 1063 of this title and subsequently 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (g)(1). Pub. L. 109–163 inserted “or other source authorized to place children for adoption under State or local law” after “qualified adoption agency” in introductory provisions.
+<b>2006</b>—Subsec. (g)(1). Pub. L. 109–163 inserted "or other source authorized to place children for adoption under State or local law" after "qualified adoption agency" in introductory provisions.
 
 <b>2004</b>—Subsec. (g)(3)(D). Pub. L. 108–375 added subpar. (D).
 
-<b>2000</b>—Pub. L. 106–398 substituted “Adoption expenses: reimbursement” for “Reimbursement for adoption expenses” in section catchline.
+<b>2000</b>—Pub. L. 106–398 substituted "Adoption expenses: reimbursement" for "Reimbursement for adoption expenses" in section catchline.
 
-<b>1996</b>—Subsec. (g)(1). Pub. L. 104–201, §652(a)(1), substituted “qualified adoption agency.” for “State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
+<b>1996</b>—Subsec. (g)(1). Pub. L. 104–201, §652(a)(1), substituted "qualified adoption agency." for "State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption."
 
 Subsec. (g)(3). Pub. L. 104–201, §652(a)(2), added par. (3).
 
@@ -82,7 +82,7 @@ Subsec. (g)(3). Pub. L. 104–201, §652(a)(2), added par. (3).
 
 #### Effective Date
 
-Pub. L. 102–190, div. A, title VI, §651(c), Dec. 5, 1991, 105 Stat. 1387, provided that: “The amendments made by subsections (a) and (b) \[enacting this section and section 514 of Title 14, Coast Guard\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1991\] and shall apply to adoptions completed on or after that date.”
+Pub. L. 102–190, div. A, title VI, §651(c), Dec. 5, 1991, 105 Stat. 1387, provided that: "The amendments made by subsections (a) and (b) \[enacting this section and section 514 of Title 14, Coast Guard\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1991\] and shall apply to adoptions completed on or after that date."
 
 #### Reimbursement for Adoptions Completed During Period Between Test and Permanent Program
 

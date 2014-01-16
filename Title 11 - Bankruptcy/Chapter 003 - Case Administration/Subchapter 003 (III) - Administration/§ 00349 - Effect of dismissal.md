@@ -32,9 +32,9 @@ Subsection (b) specifies that the dismissal reinstates proceedings or custodians
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–394 substituted “109(g)” for “109(f)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394 substituted "109(g)" for "109(f)".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–353 inserted “; nor does the dismissal of a case under this title prejudice the debtor with regard to the filing of a subsequent petition under this title, except as provided in section 109(f) of this title”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 inserted "; nor does the dismissal of a case under this title prejudice the debtor with regard to the filing of a subsequent petition under this title, except as provided in section 109(f) of this title".
 
 #### Effective Date of 1994 Amendment
 

@@ -18,11 +18,11 @@ Section 14501 delineates the vessels that must be measured under this chapter, i
 
 #### Amendments
 
-<b>2010</b>—Par. (1). Pub. L. 111–281, §303(g)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a vessel not measured under chapter 143 of this title if—
+<b>2010</b>—Par. (1). Pub. L. 111–281, §303(g)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "a vessel not measured under chapter 143 of this title if—
 
-&emsp;“(A) the vessel is to be documented under chapter 121 of this title; or
+&emsp;"(A) the vessel is to be documented under chapter 121 of this title; or
 
-&emsp;“(B) the application of a law of the United States to the vessel depends on the vessel's tonnage.”
+&emsp;"(B) the application of a law of the United States to the vessel depends on the vessel's tonnage."
 
-Par. (2). Pub. L. 111–281, §303(g)(2), substituted “A vessel” for “a vessel”.
+Par. (2). Pub. L. 111–281, §303(g)(2), substituted "A vessel" for "a vessel".
 

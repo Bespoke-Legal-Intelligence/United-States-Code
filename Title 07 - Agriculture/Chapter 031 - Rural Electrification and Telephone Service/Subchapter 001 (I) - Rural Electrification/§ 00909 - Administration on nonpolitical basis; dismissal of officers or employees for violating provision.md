@@ -6,7 +6,7 @@ This chapter shall be administered entirely on a nonpartisan basis, and in the a
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1994</b>—Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
-<b>1949</b>—Act Oct. 28, 1949, inserted “title I,” in credit of act May 20, 1936.
+<b>1949</b>—Act Oct. 28, 1949, inserted "title I," in credit of act May 20, 1936.
 

@@ -9,7 +9,7 @@
 | [5\.](%C2%A7%2000005%20-%20Bringing%20in%20additional%20parties.md) | Bringing in additional parties. |
 | [6\.](%C2%A7%2000006%20-%20Forfeiture%20of%20property%20in%20transit.md) | Forfeiture of property in transit. |
 | [6a.](%C2%A7%2000006a%20-%20Conduct%20involving%20trade%20or%20commerce%20with%20foreign%20nations.md) | Conduct involving trade or commerce with foreign nations. |
-| [7\.](%C2%A7%2000007%20-%20%E2%80%9CPerson%E2%80%9D%20or%20%E2%80%9Cpersons%E2%80%9D%20defined.md) | “Person” or “persons” defined. |
+| [7\.](%C2%A7%2000007%20-%20Person%20or%20persons%20defined.md) | "Person" or "persons" defined. |
 | [8\.](%C2%A7%2000008%20-%20Trusts%20in%20restraint%20of%20import%20trade%20illegal%3B%20penalty.md) | Trusts in restraint of import trade illegal; penalty. |
 | [9\.](%C2%A7%2000009%20-%20Jurisdiction%20of%20courts%3B%20duty%20of%20United%20States%20attorneys%3B%20procedure.md) | Jurisdiction of courts; duty of United States attorneys; procedure. |
 | [10\.](%C2%A7%2000010%20-%20Bringing%20in%20additional%20parties.md) | Bringing in additional parties. |
@@ -61,7 +61,7 @@
 
 #### Historical Note
 
-This chapter includes among other statutory provisions the Sherman Act, comprising sections 1 to 7 of this title, the Clayton Act, comprising sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title and sections 52 and 53 of Title 29, Labor, the Wilson Tariff Act, comprising sections 8 and 9 of this title, the Robinson-Patman Price Discrimination Act, comprising sections 13, 13a, 13b, and 21a of this title, the “Expediting Act”, sections 28 and 29 of this title, and the “Hart-Scott-Rodino Antitrust Improvements Act of 1976”, comprising sections 15c to 15h, 18a, and 66 of this title. For complete classification of the Hart-Scott-Rodino Act, see Short Title note under section 1 of this title.
+This chapter includes among other statutory provisions the Sherman Act, comprising sections 1 to 7 of this title, the Clayton Act, comprising sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title and sections 52 and 53 of Title 29, Labor, the Wilson Tariff Act, comprising sections 8 and 9 of this title, the Robinson-Patman Price Discrimination Act, comprising sections 13, 13a, 13b, and 21a of this title, the "Expediting Act", sections 28 and 29 of this title, and the "Hart-Scott-Rodino Antitrust Improvements Act of 1976", comprising sections 15c to 15h, 18a, and 66 of this title. For complete classification of the Hart-Scott-Rodino Act, see Short Title note under section 1 of this title.
 
 #### Congressional Investigation of Monopoly
 
@@ -83,7 +83,7 @@ Ex. Ord. No. 12022, Dec. 1, 1977, 42 F.R. 61441, as amended by Ex. Ord. No. 1205
 - [&sect; 00005 - Bringing in additional parties](%C2%A7%2000005%20-%20Bringing%20in%20additional%20parties.md)
 - [&sect; 00006 - Forfeiture of property in transit](%C2%A7%2000006%20-%20Forfeiture%20of%20property%20in%20transit.md)
 - [&sect; 00006a - Conduct involving trade or commerce with foreign nations](%C2%A7%2000006a%20-%20Conduct%20involving%20trade%20or%20commerce%20with%20foreign%20nations.md)
-- [&sect; 00007 - &#8220;Person&#8221; or &#8220;persons&#8221; defined](%C2%A7%2000007%20-%20%E2%80%9CPerson%E2%80%9D%20or%20%E2%80%9Cpersons%E2%80%9D%20defined.md)
+- [&sect; 00007 - Person or persons defined](%C2%A7%2000007%20-%20Person%20or%20persons%20defined.md)
 - [&sect; 00008 - Trusts in restraint of import trade illegal; penalty](%C2%A7%2000008%20-%20Trusts%20in%20restraint%20of%20import%20trade%20illegal%3B%20penalty.md)
 - [&sect; 00009 - Jurisdiction of courts; duty of United States attorneys; procedure](%C2%A7%2000009%20-%20Jurisdiction%20of%20courts%3B%20duty%20of%20United%20States%20attorneys%3B%20procedure.md)
 - [&sect; 00010 - Bringing in additional parties](%C2%A7%2000010%20-%20Bringing%20in%20additional%20parties.md)

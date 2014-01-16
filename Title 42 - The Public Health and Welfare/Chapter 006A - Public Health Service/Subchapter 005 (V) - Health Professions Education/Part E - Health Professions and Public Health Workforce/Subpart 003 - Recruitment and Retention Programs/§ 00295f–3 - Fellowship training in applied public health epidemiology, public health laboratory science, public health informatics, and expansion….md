@@ -18,7 +18,7 @@ Participation in fellowship training programs under this section shall be deemed
 
 #### (e) General support
 
-Amounts may be used from grants awarded under this section to expand the Public Health Informatics Fellowship Program at the Centers for Disease Control and Prevention to better support all public health systems at all levels of government.
+Amounts may be used from grants awarded under this section to expand the Public HealthInformatics Fellowship Program at the Centers for Disease Control and Prevention to better support all public health systems at all levels of government.
 
 #### (f) Authorization of appropriations
 
@@ -78,7 +78,7 @@ Section 295g–7, act July 1, 1944, ch. 373, title VII, §787, as added Oct. 12,
 
 Section 295g–7a, act July 1, 1944, ch. 373, title VII, §787A, as added and amended Nov. 4, 1988, Pub. L. 100–607, title VI, §§612, 629(b)(2), 102 Stat. 3132, 3146, related to a retention program for health professions schools with individuals from disadvantaged backgrounds. See section 293 et seq. of this title.
 
-Section 295g–8, act July 1, 1944, ch. 373, title VII, §788, as added Oct. 12, 1976, Pub. L. 94–484, title VIII, §801(a), 90 Stat. 2318; amended Nov. 9, 1978, Pub. L. 95–623, §12(f), 92 Stat. 3457; Sept. 29, 1979, Pub. L. 96–76, title II, §205, 93 Stat. 583; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2744(a)(1), (b)–(f), 95 Stat. 923, 924; Oct. 22, 1985, Pub. L. 99–129, title I, §109, title II, §217, 99 Stat. 524, 541; Nov. 14, 1986, Pub. L. 99–660, title VI, §601, 100 Stat. 3797; Dec. 1, 1987, Pub. L. 100–177, title IV, §401, 101 Stat. 1007; Nov. 4, 1988, Pub. L. 100–607, title VI, §§613(a), 628(11), 629(b)(2), 102 Stat. 3133, 3146; Aug. 16, 1989, Pub. L. 101–93, §5(o)(2), (3), 103 Stat. 614; July 23, 1992, Pub. L.102–325, title XV, §1559, 106 Stat. 841, related to grants and contracts for special projects.
+Section 295g–8, act July 1, 1944, ch. 373, title VII, §788, as added Oct. 12, 1976, Pub. L. 94–484, title VIII, §801(a), 90 Stat. 2318; amended Nov. 9, 1978, Pub. L. 95–623, §12(f), 92 Stat. 3457; Sept. 29, 1979, Pub. L. 96–76, title II, §205, 93 Stat. 583; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2744(a)(1), (b)–(f), 95 Stat. 923, 924; Oct. 22, 1985, Pub. L. 99–129, title I, §109, title II, §217, 99 Stat. 524, 541; Nov. 14, 1986, Pub. L. 99–660, title VI, §601, 100 Stat. 3797; Dec. 1, 1987, Pub. L. 100–177, title IV, §401, 101 Stat. 1007; Nov. 4, 1988, Pub. L. 100–607, title VI, §§613(a), 628(11), 629(b)(2), 102 Stat. 3133, 3146; Aug. 16, 1989, Pub. L. 101–93, §5(o)(2), (3), 103 Stat. 614; July 23, 1992, Pub. L. 102–325, title XV, §1559, 106 Stat. 841, related to grants and contracts for special projects.
 
 Another prior section 295g–8, act July 1, 1944, ch. 373, title VII, §788A, as added Aug. 18, 1987, Pub. L. 100–97, §3, 101 Stat. 713, which related to grants for minority education, was renumbered section 782 of act July 1, 1944, by Pub. L. 100–607 and transferred to section 295g–2 of this title.
 
@@ -120,7 +120,7 @@ Prior sections 295h–1a to 295h–2 were omitted in the general amendment of th
 
 Section 295h–1a, act July 1, 1944, ch. 373, title VII, §791A, formerly §749, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(a), 90 Stat. 2280; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(f), 91 Stat. 391; Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692; renumbered §791A and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2746(b)(2), 95 Stat. 927; Jan. 4, 1983, Pub. L. 97–414, §8(k)(1), 96 Stat. 2061; Oct. 22, 1985, Pub. L. 99–129, title I, §112, 99 Stat. 525; Nov. 4, 1988, Pub. L. 100–607, title VI, §619, 102 Stat. 3140, related to traineeships for students in other graduate programs.
 
-Section 295h–1b, act July 1, 1944, ch. 373, title VII, §792; formerly §748, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(a), 90 Stat. 2279; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(f), 91 Stat. 391; Dec. 19, 1977, Pub. L. 95–215, §3, 91 Stat. 1504; Sept. 29, 1979, Pub. L. 96–76, title II, §206(a), 93 Stat. 583; renumbered §792 and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII,§2746(d), 95 Stat. 927; Oct. 22, 1985, Pub. L. 99–129, title I, §113, 99 Stat. 525; Nov. 4, 1988, Pub. L. 100–607, title VI, §621, 102 Stat. 3141, related to traineeships for students in schools of public health.
+Section 295h–1b, act July 1, 1944, ch. 373, title VII, §792; formerly §748, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(a), 90 Stat. 2279; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(f), 91 Stat. 391; Dec. 19, 1977, Pub. L. 95–215, §3, 91 Stat. 1504; Sept. 29, 1979, Pub. L. 96–76, title II, §206(a), 93 Stat. 583; renumbered §792 and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2746(d), 95 Stat. 927; Oct. 22, 1985, Pub. L. 99–129, title I, §113, 99 Stat. 525; Nov. 4, 1988, Pub. L. 100–607, title VI, §621, 102 Stat. 3141, related to traineeships for students in schools of public health.
 
 Section 295h–1c, act July 1, 1944, ch. 373, title VII, §793, as added Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2746(f), 95 Stat. 928; amended Oct. 22, 1985, Pub. L. 99–129, title I, §114, 99 Stat. 525; Nov. 4, 1988, Pub. L. 100–607, title VI, §629(b)(2), 102 Stat. 3146, related to training in preventive medicine.
 
@@ -142,9 +142,9 @@ Section 295h–3d, act July 1, 1944, ch. 373, title VII, §794D, as added Nov. 2
 
 Prior sections 295h–4 to 295h–7 were omitted in the general amendment of this subchapter by Pub. L. 102–408.
 
-Section 295h–4, act July 1, 1944, ch. 373, title VII, §795, as added Oct. 12, 1976, Pub. L. 94–484, title VII, §701(a), 90 Stat. 2306; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692, defined “allied health personnel”, “training center for allied health professions”, and “nonprofit”. See section 295p of this title.
+Section 295h–4, act July 1, 1944, ch. 373, title VII, §795, as added Oct. 12, 1976, Pub. L. 94–484, title VII, §701(a), 90 Stat. 2306; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692, defined "allied health personnel", "training center for allied health professions", and "nonprofit". See section 295p of this title.
 
-Another prior section 295h–4, act July 1, 1944, ch. 373, title VII, §795, as added Nov. 3, 1966, Pub. L. 89–751, §2, 80 Stat. 1228; amended Dec. 5, 1967, Pub. L. 90–174, §12(e), 81 Stat. 542; Nov. 2, 1970, Pub. L. 91–519, title II, §202(c), 84 Stat. 1344; Nov. 18, 1971, Pub. L. 92–157, title III, §301(f), 85 Stat. 464, defined “training center for allied health professions”; “full-time student”; “nonprofit”; “construction” and “cost of construction”; and “affiliated hospital”, prior to the general amendment of this part by Pub. L. 94–484.
+Another prior section 295h–4, act July 1, 1944, ch. 373, title VII, §795, as added Nov. 3, 1966, Pub. L. 89–751, §2, 80 Stat. 1228; amended Dec. 5, 1967, Pub. L. 90–174, §12(e), 81 Stat. 542; Nov. 2, 1970, Pub. L. 91–519, title II, §202(c), 84 Stat. 1344; Nov. 18, 1971, Pub. L. 92–157, title III, §301(f), 85 Stat. 464, defined "training center for allied health professions"; "full-time student"; "nonprofit"; "construction" and "cost of construction"; and "affiliated hospital", prior to the general amendment of this part by Pub. L. 94–484.
 
 Section 295h–5, act July 1, 1944, ch. 373, title VII, §796, as added Oct. 12, 1976, Pub. L. 94–484, title VII, §701(a), 90 Stat. 2307; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(l), (m), 91 Stat. 392; Nov. 4, 1988, Pub. L. 100–607, title VI, §624, 102 Stat. 3143; Nov. 18, 1988, Pub. L. 100–690, title II, §2615(f) \[(h)\], 102 Stat. 4240, related to project grants and contracts with eligible entities to improve the effectiveness of allied health administration and practitioners. See section 294e of this title.
 
@@ -154,7 +154,7 @@ Section 295h–6, act July 1, 1944, ch. 373, title VII, §797, as added Oct. 12,
 
 Another prior section 295h–6, act July 1, 1944, ch. 373, title VII, §797, as added Aug. 16, 1968, Pub. L. 90–490, title III, §301(c), 82 Stat. 788, authorized the use of up to one-half of one per centum of appropriated funds for evaluation of programs covered thereby, prior to repeal by Pub. L. 91–296, title IV, §401(b)(1)(E), June 30, 1970, 84 Stat. 352, effective with respect to appropriations for fiscal years beginning after June 30, 1970.
 
-Section 295h–7, act July 1, 1944, ch. 373, title VII, §798, as added Oct. 12, 1976, Pub. L. 94–484, title VII, §701(a), 90 Stat. 2309, related to educational assistance to disadvantaged individuals in allied health training.
+Section 295h–7, act July 1, 1944, ch. 373, title VII, §798, as added Oct. 12, 1976, Pub. L. 94–484, title VII, §701(a),90 Stat. 2309, related to educational assistance to disadvantaged individuals in allied health training.
 
 Another prior section 295h–7, act July 1, 1944, ch. 373, title VII, §798, as added Aug. 16, 1968, Pub. L. 90–490, title III, §301(d), 82 Stat. 788; amended Nov. 2, 1970, Pub. L. 91–519, title II, §205, 84 Stat. 1354, directed Secretary to conduct a study of the allied health programs, prior to the general amendment of this part by Pub. L. 94–484.
 

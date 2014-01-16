@@ -4,9 +4,9 @@
 
 The provisions of this section shall be applicable only to the conveyance of Federal lands described herein to a Native Corporation which within one hundred and eighty days after December 2, 1980, or the date of eligibility determination, whichever is later, files a document with the Secretary setting forth its election to receive conveyance pursuant to this section.
 
-#### (b) “Core” townships, etc.
+#### (b) "Core" townships, etc.
 
-(1)(A) Except to the extent that conveyance of a surface estate would be inconsistent with section 12(a), 14(a), 14(b), or 22(l) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1611(a), 1613(a), 1613(b), or 1621(l)\], subject to valid existing rights and section 1633(a) of this title, there is hereby conveyed to and vested in each Village Corporation for a Native Village which is determined by the Secretary to be eligible for land under section 11 or 16 of the Alaska Native Claims Settlement Act \[43 U.S.C. 1610 or 1615\] and which did not elect to acquire a former reserve under section 19(b) of such Act \[43 U.S.C. 1618(b)\], all of the right, title, and interest of the United States in and to the surface estate in the public lands, as defined in such Act \[43 U.S.C. 1601 et seq.\], in the township or townships withdrawn pursuant to section 11(a)(1) or 16(a) of such Act \[43 U.S.C. 1610(a)(1) or 1615(a)\] in which all or any part of such Village is located. As used in this paragraph the term “Native Village” has the same meaning such term has in section 3(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1602(c)\].
+(1)(A) Except to the extent that conveyance of a surface estate would be inconsistent with section 12(a), 14(a), 14(b), or 22(l) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1611(a), 1613(a), 1613(b), or 1621(l)\], subject to valid existing rights and section 1633(a) of this title, there is hereby conveyed to and vested in each Village Corporation for a Native Village which is determined by the Secretary to be eligible for land under section 11 or 16 of the Alaska Native Claims Settlement Act \[43 U.S.C. 1610 or 1615\] and which did not elect to acquire a former reserve under section 19(b) of such Act \[43 U.S.C. 1618(b)\], all of the right, title, and interest of the United States in and to the surface estate in the public lands, as defined in such Act \[43 U.S.C. 1601 et seq.\], in the township or townships withdrawn pursuant to section 11(a)(1) or 16(a) of such Act \[43 U.S.C. 1610(a)(1) or 1615(a)\] in whichall or any part of such Village is located. As used in this paragraph the term "Native Village" has the same meaning such term has in section 3(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1602(c)\].
 
 (B) Where two or more Village Corporations are entitled to the same land by virtue of the same township or townships embracing all or part of the Native Villages, the conveyance made by paragraph (A) shall not be effective as to such lands until an arbitration decision or other binding agreement between or among the Corporations is filed with and published by the Secretary. Within thirty days of receipt of such decision or agreement, the Secretary shall publish notice of the decision or agreement in the Federal Register. Effective with such publication, title to the lands conveyed by subparagraph (A) shall vest in the Village Corporation as specified in the decision or agreement. For purposes of section 1632 of this title, until title vests in the Village Corporation pursuant to this subparagraph, the Secretary shall consider the entire acreage involved chargeable to each Corporation's entitlement.
 
@@ -14,7 +14,7 @@ The provisions of this section shall be applicable only to the conveyance of Fed
 
 (3) Subject to valid existing rights and section 1633(a) of this title, there is hereby conveyed to and vested in each Village Corporation which, by December 2, 1980, is determined by the Secretary to be eligible under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] to, and has elected to, acquire title to any estate pursuant to section 19(b) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1618(b)\], all of the right, title, and interest of the United States in and to the estates in a reserve, as such reserve existed on December 18, 1971, which was set aside for the use or benefit of the stockholders or members of such Corporation before December 18, 1971. Nothing in this paragraph shall apply to the Village Corporation for the Native village of Klukwan, which Corporation shall receive those rights granted to it by the Act of January 2, 1976 (Public Law 94–204) as amended by the Act of October 4, 1976 (Public Law 94–456).
 
-(4) Subject to valid existing rights and section 1633(a) of this title, and except where such lands are within a National Wildlife Refuge or the National Petroleum Reserve—Alaska, for which the Regional Corporation obtains in-lieu rights pursuant to section 12(a)(1) of the Alaska NativeClaims Settlement Act \[43 U.S.C. 1611(a)(1)\], there is hereby conveyed to and vested in each Regional Corporation which, as a result of a conveyance of a surface estate by operation of paragraphs (1) and (2) of this subsection, is entitled under section 14(f) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1613(f)\] to receive the subsurface estate corresponding to such surface estate, all of the right, title, and interest of the United States in and to such subsurface estate.
+(4) Subject to valid existing rights and section 1633(a) of this title, and except where such lands are within a National Wildlife Refuge or the National Petroleum Reserve—Alaska, for which the Regional Corporation obtains in-lieu rights pursuant to section 12(a)(1) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1611(a)(1)\], there is hereby conveyed to and vested in each Regional Corporation which, as a result of a conveyance of a surface estate by operation of paragraphs (1) and (2) of this subsection, is entitled under section 14(f) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1613(f)\] to receive the subsurface estate corresponding to such surface estate, all of the right, title, and interest of the United States in and to such subsurface estate.
 
 #### (c) Documents
 
@@ -32,21 +32,21 @@ All conveyances made by operation of this section shall be subject to the terms 
 
 For a period of one year from December 2, 1980, the Secretary may identify and issue a decision to reserve in the patent those easements, pursuant to section 17(b)(3) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1616(b)(3)\], which are described in section 17(b)(1) of such Act \[43 U.S.C. 1616(b)(1)\] on lands conveyed by this section, but the Secretary shall not reserve a greater number of easements or more land for a particular easement or easements than is reasonably necessary and he shall be guided by the principles of section 1633 of this title. Upon the finality of the decision so issued, such easements shall be reserved in the conveyance document or documents issued by the Secretary as required by this section.
 
-#### (g) “Native Corporation” defined
+#### (g) "Native Corporation" defined
 
-For purposes of this section, the term “Native Corporation” means Village Corporations and Regional Corporations.
+For purposes of this section, the term "Native Corporation" means Village Corporations and Regional Corporations.
 
 (Pub. L. 96–487, title XIV, §1437, Dec. 2, 1980, 94 Stat. 2546.)
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsecs. (b)(1)(A), (3), (d), and (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsecs. (b)(1)(A), (3), (d), and (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 Act of March 4, 1915, as amended, referred to in subsec. (b)(2), is act Mar. 4, 1915, ch. 181, 38 Stat. 1214, as amended, which enacted section 353 of Title 48, Territories and Insular Possessions, and a provision set out as a note under section 852 of this title. Section 353 of Title 48 was repealed by Pub. L. 85–508, §6(k), July 7, 1958, 72 Stat. 343. For complete classification of this Act to the Code, see Tables.
 
 Act of January 21, 1929, as amended, referred to in subsec. (b)(2), is act Jan. 21, 1929, ch. 92, 45 Stat. 1091, as amended, which is set out as a note under section 852 of this title. For complete classification of this Act to the Code, see Tables.
 
-Act July 28, 1956, referred to in subsec. (b)(2), is act July 28, 1956, ch. 772, 70 Stat. 709. For complete classification of this Act to the Code, see Tables.
+Act July 28, 1956, referred to in subsec. (b)(2), is act July 28, 1956, ch. 772, 70 Stat. 709, as amended. For complete classification of this Act to the Code, see Tables.
 
 Section 6(g) of the Alaska Statehood Act, referred to in subsec. (b)(2), is section 6(g) of Pub. L. 85–508, July 7, 1948, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
@@ -54,7 +54,7 @@ Act of January 2, 1976 (Public Law 94–204) as amended by the Act of October 4,
 
 This title, referred to in subsec. (d), is title XIV of Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2491, which enacted sections 1639 to 1641 of this title, amended sections 1602, 1606, 1607, 1611, 1613, 1620, and 1621 of this title, enacted provisions set out as notes under sections 1605, 1613, and 1618 of this title, and amended provisions set out as notes under sections 1611 and 1613 of this title. For complete classification of title XIV to the Code, see Tables.
 
-This Act, referred to in subsec. (d), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
+This Act, referred to in subsec. (d), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 
 #### Codification
 

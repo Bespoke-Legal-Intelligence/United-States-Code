@@ -1,6 +1,6 @@
 ### §170307. Exclusive right to name, seals, emblems, and badges
 
-The corporation and its regional districts and local branches have the exclusive right to use the name “Pearl Harbor Survivors Association” and seals, emblems, and badges the corporation adopts.
+The corporation and its regional districts and local branches have the exclusive right to use the name "Pearl Harbor Survivors Association" and seals, emblems, and badges the corporation adopts.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1443.)
 
@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 7, 1985, Pub. L. 99–119, §16, 99 Stat. 501.
 
-The word “sole” is omitted as included in “exclusive”. The words “in carrying out its purposes” are omitted as unnecessary.
+The word "sole" is omitted as included in "exclusive". The words "in carrying out its purposes" are omitted as unnecessary.
 

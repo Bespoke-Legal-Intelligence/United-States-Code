@@ -6,7 +6,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;The term “covered voyage” means a voyage of—
+&emsp;&emsp;The term "covered voyage" means a voyage of—
 
 &emsp;&emsp;&emsp;(i) a commercial passenger vessel which extends over 1 or more nights, or
 
@@ -16,11 +16,11 @@ For purposes of this subchapter—
 
 #### (B) Exception for certain voyages on passenger vessels
 
-&emsp;&emsp;The term “covered voyage” shall not include a voyage of a passenger vessel of less than 12 hours between 2 ports in the United States.
+&emsp;&emsp;The term "covered voyage" shall not include a voyage of a passenger vessel of less than 12 hours between 2 ports in the United States.
 
 #### (2) Passenger vessel
 
-&emsp;The term “passenger vessel” means any vessel having berth or stateroom accommodations for more than 16 passengers.
+&emsp;The term "passenger vessel" means any vessel having berth or stateroom accommodations for more than 16 passengers.
 
 (Added Pub. L. 101–239, title VII, §7504(a), Dec. 19, 1989, 103 Stat. 2362.)
 

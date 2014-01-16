@@ -4,7 +4,7 @@
 
 Pre-judgment Probation.—If a person found guilty of an offense described in section 404 of the Controlled Substances Act (21 U.S.C. 844)—
 
-&emsp;(1) has not, prior to the commission of such offense, been convicted of violating a Federal or State law relating to controlled substances; and
+&emsp;(1) has not, prior to the commission of such offense, been convicted of violating a Federalor State law relating to controlled substances; and
 
 &emsp;(2) has not previously been the subject of a disposition under this subsection;
 
@@ -12,7 +12,7 @@ Pre-judgment Probation.—If a person found guilty of an offense described in se
 
 (b)
 
-Record of Disposition.—A nonpublic record of a disposition under subsection (a), or a conviction that is the subject of an expungement order under subsection (c), shall be retained by the Department of Justice solely for the purpose of use by the courts in determining in any subsequent proceeding whether a person qualifies for the disposition provided in subsection (a) or the expungement provided in subsection (c). A disposition under subsection (a),or a conviction that is the subject of an expungement order under subsection (c), shall not be considered a conviction for the purpose of a disqualification or a disability imposed by law upon conviction of a crime, or for any other purpose.
+Record of Disposition.—A nonpublic record of a disposition under subsection (a), or a conviction that is the subject of an expungement order under subsection (c), shall be retained by the Department of Justice solely for the purpose of use by the courts in determining in any subsequent proceeding whether a person qualifies for the disposition provided in subsection (a) or the expungement provided in subsection (c). A disposition under subsection (a), or a conviction that is the subject of an expungement order under subsection (c), shall not be considered a conviction for the purpose of a disqualification or a disability imposed by law upon conviction of a crime, or for any other purpose.
 
 (c)
 

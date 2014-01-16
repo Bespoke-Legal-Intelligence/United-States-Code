@@ -18,9 +18,9 @@ Historical and Revision Notes
 
 Feb. 19, 1948, ch. 65, §6, 62 Stat. 24.
 
-The words “a contract, made by that agency, that provides for” are substituted for the words “any contract made on behalf of the Government by the agency head or by officers authorized by him so to do includes a provision”.
+The words "a contract, made by that agency, that provides for" are substituted for the words "any contract made on behalf of the Government by the agency head or by officers authorized by him so to do includes a provision".
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
+<b>1996</b>—Pub. L. 104–316 substituted "Secretary of the Treasury" for "Comptroller General".
 

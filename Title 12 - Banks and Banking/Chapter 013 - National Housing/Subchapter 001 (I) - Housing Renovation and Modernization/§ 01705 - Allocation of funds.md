@@ -6,11 +6,11 @@ For the purposes of carrying out the provisions of this subchapter and subchapte
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–479 substituted “such” for “suuch”.
+<b>1984</b>—Pub. L. 98–479 substituted "such" for "suuch".
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner”.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner".
 
-<b>1950</b>—Act Apr. 20, 1950, §122, substituted “Commissioner” for “Administrator”.
+<b>1950</b>—Act Apr. 20, 1950, §122, substituted "Commissioner" for "Administrator".
 
 <b>1947</b>—Act June 30, 1947, struck out references to Reconstruction Finance Corporation.
 

@@ -6,7 +6,7 @@ The Diplomatic Telecommunications Service Program Office established pursuant to
 
 #### (b) Duties
 
-The duties of the DTS–PO include implementing a program for the establishment and maintenance of a DTS Network capable of providing multiple levels of service to meet the wide-ranging needs of all United States Government departments and agencies operating from diplomatic and consular facilities outside of the United States, including national security needs for secure, reliable, and robust communications capabilities.
+The duties of the DTS–PO include implementing a program for the establishment and maintenance of a DTS Network capable of providingmultiple levels of service to meet the wide-ranging needs of all United States Government departments and agencies operating from diplomatic and consular facilities outside of the United States, including national security needs for secure, reliable, and robust communications capabilities.
 
 (Pub. L. 106–567, title III, §321, as added Pub. L. 111–259, title V, §501(a)(1), Oct. 7, 2010, 124 Stat. 2736.)
 

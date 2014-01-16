@@ -56,5 +56,5 @@ Section 7352, Pub. L. 89–10, title VI, §6302, as added Pub. L. 103–382, tit
 
 Section 7353, Pub. L. 89–10, title VI, §6303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3711, related to local applications for allocations of funds. See section 7215b of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “(2) how”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "(2) how".</i>
 

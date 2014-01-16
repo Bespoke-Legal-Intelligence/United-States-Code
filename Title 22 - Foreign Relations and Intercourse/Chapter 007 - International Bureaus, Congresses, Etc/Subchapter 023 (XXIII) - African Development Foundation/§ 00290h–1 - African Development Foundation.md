@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Foundation
 
-There is established a body corporate to be known as the “African Development Foundation” (hereafter in this subchapter referred to as the “Foundation”).
+There is established a body corporate to be known as the "African Development Foundation" (hereafter in this subchapter referred to as the "Foundation").
 
 #### (b) Principal and branch offices
 

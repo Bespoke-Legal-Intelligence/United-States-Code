@@ -6,7 +6,7 @@ The Secretary shall establish within the Bureau an Indian Child Protection and F
 
 #### (b) Indian Self-Determination Act agreements
 
-The Secretary is authorized to enter into agreements with Indian tribes, tribal organizations, or inter-tribal consortia pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f etseq.\] for the establishment of Indian Child Protection and Family Violence Prevention programs on Indian reservations.
+The Secretary is authorized to enter into agreements with Indian tribes, tribal organizations, or inter-tribal consortia pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] for the establishment of Indian Child Protection and Family Violence Prevention programs on Indian reservations.
 
 #### (c) Investigation and treatment and prevention of child abuse and family violence
 
@@ -84,7 +84,7 @@ Funds provided pursuant to this section may be used for—
 
 &emsp;(C) projected number of cases per month; and
 
-&emsp;(D) special circumstances warranting additional program resources, such as high incidence of child sexual abuse, high incidence ofviolent crimes against women, or the existence of a significant victim population within the community.
+&emsp;(D) special circumstances warranting additional program resources, such as high incidence of child sexual abuse, high incidence of violent crimes against women, or the existence of a significant victim population within the community.
 
 (4) The formula established pursuant to this subsection shall provide funding necessary to support—
 
@@ -136,17 +136,17 @@ The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(5)(C). Pub. L. 110–315 substituted “tribally controlled college or university (within the meaning of section 1801 of this title)” for “tribally controlled community colleges (within the meaning of section 1801 of this title)”.
+<b>2008</b>—Subsec. (d)(5)(C). Pub. L. 110–315 substituted "tribally controlled college or university (within the meaning of section 1801 of this title)" for "tribally controlled community colleges (within the meaning of section 1801 of this title)".
 
 <b>1998</b>—Subsec. (d)(5)(C). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801 of this title.
 
-<b>1995</b>—Subsec. (i). Pub. L. 104–16 substituted “1995, 1996, and 1997” for “and 1995”.
+<b>1995</b>—Subsec. (i). Pub. L. 104–16 substituted "1995, 1996, and 1997" for "and 1995".
 
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “colleges or universities”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "colleges or universities".</i>
 
 <i><sup>2</sup></i><i> So in original. No subsec. (e) has been enacted.</i>
 

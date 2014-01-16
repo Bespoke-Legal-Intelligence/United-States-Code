@@ -28,11 +28,11 @@
 
 #### (A) Charitable deduction property
 
-&emsp;&emsp;The term “charitable deduction property” means any property (other than publicly traded securities) contributed in a contribution for which a deduction was claimed under section 170 if the claimed value of such property (plus the claimed value of all similar items of property donated by the donor to 1 or more donees) exceeds $5,000.
+&emsp;&emsp;The term "charitable deduction property" means any property (other than publicly traded securities) contributed in a contribution for which a deduction was claimed under section 170 if the claimed value of such property (plus the claimed value of all similar items of property donated by the donor to 1 or more donees) exceeds $5,000.
 
 #### (B) Publicly traded securities
 
-&emsp;&emsp;The term “publicly traded securities” means securities for which (as of the date of the contribution) market quotations are readily available on an established securities market.
+&emsp;&emsp;The term "publicly traded securities" means securities for which (as of the date of the contribution) market quotations are readily available on an established securities market.
 
 #### (b) Qualified intellectual property contributions
 
@@ -58,7 +58,7 @@
 
 #### (B) Specified taxable year
 
-&emsp;&emsp;The term “specified taxable year” means, with respect to any qualified intellectual property contribution, any taxable year of the donee any portion of which is part of the 10-year period beginning on the date of such contribution.
+&emsp;&emsp;The term "specified taxable year" means, with respect to any qualified intellectual property contribution, any taxable year of the donee any portion of which is part of the 10-year period beginning on the date of such contribution.
 
 #### (c) Statement to be furnished to donors
 
@@ -68,13 +68,13 @@ Every person making a return under subsection (a) or (b) shall furnish a copy of
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, which directed the amendment of section 6050L by adding subpars. (F) and (G) and concluding provisions and substituting “3 years” for “2 years” in introductory provisions without specifying the act to be amended, was executed to this section, which is section 6050L of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, which directed the amendment of section 6050L by adding subpars. (F) and (G) and concluding provisions and substituting "3 years" for "2 years" in introductory provisions without specifying the act to be amended, was executed to this section, which is section 6050L of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-<b>2004</b>—Pub. L. 108–357 amended section catchline and text generally, substituting provisions consisting of subsecs. (a) to (c) for provisions which, in subsec. (a) required return to be made by donee and set forth contents requirements, in subsec. (b) defined “charitable deduction property” for purposes of this section, in subsec. (c) required copy of return to be furnished to donor by donee, and in subsec. (d) defined “publicly traded securities”.
+<b>2004</b>—Pub. L. 108–357 amended section catchline and text generally, substituting provisions consisting of subsecs. (a) to (c) for provisions which, in subsec. (a) required return to be made by donee and set forth contents requirements, in subsec. (b) defined "charitable deduction property" for purposes of this section, in subsec. (c) required copy of return to be furnished to donor by donee, and in subsec. (d) defined "publicly traded securities".
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title XII, §1215(d)(2), Aug. 17, 2006, 120 Stat. 1079, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to returns filed after September 1, 2006.”
+Pub. L. 109–280, title XII, §1215(d)(2), Aug. 17, 2006, 120 Stat. 1079, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to returns filed after September 1, 2006."
 
 #### Effective Date of 2004 Amendment
 
@@ -82,5 +82,5 @@ Amendment by Pub. L. 108–357 applicable to contributions made after June 3, 20
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title I, §155(d)(1), July 18, 1984, 98 Stat. 695, provided that: “The amendments made by subsections (a) and (b) \[enacting this section, amending sections 6652 and 6678 of this title, and enacting provisions set out as a note under section 170 of this title\] shall apply to contributions made after December 31, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §155(d)(1), July 18, 1984, 98 Stat. 695, provided that: "The amendments made by subsections (a) and (b) \[enacting this section, amending sections 6652 and 6678 of this title, and enacting provisions set out as a note under section 170 of this title\] shall apply to contributions made after December 31, 1984, in taxable years ending after such date."
 

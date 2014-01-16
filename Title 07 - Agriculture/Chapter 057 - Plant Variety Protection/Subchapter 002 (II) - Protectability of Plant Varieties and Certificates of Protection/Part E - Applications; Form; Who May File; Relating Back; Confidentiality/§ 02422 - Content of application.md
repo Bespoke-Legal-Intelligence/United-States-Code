@@ -4,7 +4,7 @@ An application for a certificate recognizing plant variety rights shall contain:
 
 &emsp;(1) The name of the variety except that a temporary designation will suffice until the certificate is to be issued. The variety shall be named in accordance with regulations issued by the Secretary.
 
-&emsp;(2) A description of the variety setting forth its distinctiveness, uniformity, and stability and a description of the genealogy and breeding procedure, when known. The Secretary may require amplification, including the submission of adequate photographs or drawings or plant specimens, if the description is not adequate or as complete as is reasonably possible, and submission of records or proof of ownership or of allegations made in the application. An applicant may add to or correct the description at any time, before the certificate is issued, upon a showing acceptable to the Secretary that the revised description is retroactively accurate. Courts shall protect othersfrom any injustice which would result. The Secretary may accept records of the breeder and of any official seed certifying agency in this country as evidence of stability where applicable.
+&emsp;(2) A description of the variety setting forth its distinctiveness, uniformity, and stability and a description of the genealogy and breeding procedure, when known. The Secretary may require amplification, including the submission of adequate photographs or drawings or plant specimens, if the description is not adequate or as complete as is reasonably possible, and submission of records or proof of ownership or of allegations made in the application. An applicant may add to or correct the description at any time, before the certificate is issued, upon a showing acceptable to the Secretary that the revised description is retroactively accurate. Courts shall protect others from any injustice which would result. The Secretary may accept records of the breeder and of any official seed certifying agency in this country as evidence of stability where applicable.
 
 &emsp;(3) A statement of the basis of the claim of the applicant that the variety is new.
 
@@ -16,13 +16,13 @@ An application for a certificate recognizing plant variety rights shall contain:
 
 #### Amendments
 
-<b>1994</b>—Par. (1). Pub. L. 103–349, §4(1), inserted at end “The variety shall be named in accordance with regulations issued by the Secretary.”
+<b>1994</b>—Par. (1). Pub. L. 103–349, §4(1), inserted at end "The variety shall be named in accordance with regulations issued by the Secretary."
 
-Par. (2). Pub. L. 103–349, §4(2), in first sentence substituted “distinctiveness, uniformity, and stability” for “novelty”.
+Par. (2). Pub. L. 103–349, §4(2), in first sentence substituted "distinctiveness, uniformity, and stability" for "novelty".
 
 Par. (3). Pub. L. 103–349, §4(4), added par. (3). Former par. (3) redesignated (4).
 
-Par. (4). Pub. L. 103–349, §4(3), (5), redesignated par. (3) as (4) and inserted “(including any propagating material)” after “basic seed”. Former par. (4) redesignated (5).
+Par. (4). Pub. L. 103–349, §4(3), (5), redesignated par. (3) as (4) and inserted "(including any propagating material)" after "basic seed". Former par. (4) redesignated (5).
 
 Par. (5). Pub. L. 103–349, §4(3), redesignated par. (4) as (5).
 

@@ -16,17 +16,17 @@ A prior section 1074, Pub. L. 89–329, title IV, §424, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–152 substituted “September 30, 1976, for each of the succeeding fiscal years ending prior to October 1, 2009, and for the period from October 1, 2009, to June 30, 2010, for loans first disbursed on or before June 30, 2010.” for “September 30, 1976, and for each of the succeeding fiscal years ending prior to October 1, 2014. Thereafter, Federal loan insurance pursuant to this part may be granted only for loans made (or for loan installments paid pursuant to lines of credit) to enable students, who have obtained prior loans insured under this part, to continue or complete their educational program; but no insurance may be granted for any loan made or installment paid after September 30, 2018.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–152 substituted "September 30, 1976, for each of the succeeding fiscal years ending prior to October 1, 2009, and for the period from October 1, 2009, to June 30, 2010, for loans first disbursed on or before June 30, 2010." for "September 30, 1976, and for each of the succeeding fiscal years ending prior to October 1, 2014. Thereafter, Federal loan insurance pursuant to this part may be granted only for loans made (or for loan installments paid pursuant to lines of credit) to enable students, who have obtained prior loans insured under this part, to continue or complete their educational program; but no insurance may be granted for any loan made or installment paid after September 30, 2018."
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315 substituted “October 1, 2014” for “October 1, 2012” and “September 30, 2018” for “September 30, 2016”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315 substituted "October 1, 2014" for "October 1, 2012" and "September 30, 2018" for "September 30, 2016".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–171 substituted “October 1, 2012” for “October 1, 2004” and “September 30, 2016” for “September 30, 2008”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–171 substituted "October 1, 2012" for "October 1, 2004" and "September 30, 2016" for "September 30, 2008".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–244 substituted “October 1, 2004” for “October 1, 2002” and “September 30, 2008” for “September 30, 2006”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244 substituted "October 1, 2004" for "October 1, 2002" and "September 30, 2008" for "September 30, 2006".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33 substituted “October 1, 2002” for “October 1, 1998” and “September 30, 2006” for “September 30, 2002”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33 substituted "October 1, 2002" for "October 1, 1998" and "September 30, 2006" for "September 30, 2002".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–325 substituted “October 1, 1998” for “October 1, 1992” and “September 30, 2002” for “September 30, 1997”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–325 substituted "October 1, 1998" for "October 1, 1992" and "September 30, 2002" for "September 30, 1997".
 
 #### Effective Date of 2006 Amendment
 

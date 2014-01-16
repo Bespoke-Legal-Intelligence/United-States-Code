@@ -68,7 +68,7 @@ Each regional advisory committee shall—
 
 #### Amendments
 
-<b>2004</b>—Subsec. (d)(3). Pub. L. 108–446 substituted “Institute” for “Academy”.
+<b>2004</b>—Subsec. (d)(3). Pub. L. 108–446 substituted "Institute" for "Academy".
 
 #### Termination of Advisory Committees
 

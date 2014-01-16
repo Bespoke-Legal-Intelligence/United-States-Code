@@ -16,5 +16,5 @@ Another section 70119 was renumbered section 70118 of this title.
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–241 designated existing provisions as subsec. (a), inserted heading, substituted “day during which the violation continues” for “violation”, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–241 designated existing provisions as subsec. (a), inserted heading, substituted "day during which the violation continues" for "violation", and added subsec. (b).
 

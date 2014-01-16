@@ -16,9 +16,9 @@
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) the term “compliant coal” means coal that contains not less than 1.0 and not more than 1.2 pounds of sulfur dioxide per million Btu; and
+&emsp;&emsp;(A) the term "compliant coal" means coal that contains not less than 1.0 and not more than 1.2 pounds of sulfur dioxide per million Btu; and
 
-&emsp;&emsp;(B) the term “supercompliant coal” means coal that contains less than 1.0 pounds of sulfur dioxide per million Btu.
+&emsp;&emsp;(B) the term "supercompliant coal" means coal that contains less than 1.0 pounds of sulfur dioxide per million Btu.
 
 #### (b) Completion and updating of the inventory
 
@@ -48,5 +48,5 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Short Title
 
-For short title of subtitle D of title IV of Pub. L. 109–58, which enacted this part, as the “Coal Leasing Amendments Act of 2005”, see section 431 of Pub. L. 109–58, set out as a note under section 15801 of this title.
+For short title of subtitle D of title IV of Pub. L. 109–58, which enacted this part, as the "Coal Leasing Amendments Act of 2005", see section 431 of Pub. L. 109–58, set out as a note under section 15801 of this title.
 

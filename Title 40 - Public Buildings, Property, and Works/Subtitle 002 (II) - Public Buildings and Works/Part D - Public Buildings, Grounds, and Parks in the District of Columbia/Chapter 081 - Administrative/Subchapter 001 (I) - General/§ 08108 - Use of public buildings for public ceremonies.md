@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Apr. 28, 1902, ch. 594, \[§\] 1 (last par. on p. 152), 32 Stat. 152.
 
-The words “in any manner whatever” are omitted as unnecessary.
+The words "in any manner whatever" are omitted as unnecessary.
 

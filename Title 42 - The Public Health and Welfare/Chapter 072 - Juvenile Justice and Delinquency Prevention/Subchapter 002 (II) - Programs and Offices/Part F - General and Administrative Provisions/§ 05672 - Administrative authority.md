@@ -10,7 +10,7 @@ Sections 3789d(c), 3789f(a), 3789f(b), 3789f(c), 3789g(a), 3789g(b), and 3789g(d
 
 &emsp;(1) any reference to the Office of Justice Programs in such sections shall be deemed to be a reference to the Assistant Attorney General who heads the Office of Justice Programs; and
 
-&emsp;(2) the term “this chapter” as it appears in such sections shall be deemed to be a reference to this chapter.
+&emsp;(2) the term "this chapter" as it appears in such sections shall be deemed to be a reference to this chapter.
 
 #### (c) Certain other crime control provisions applicable
 
@@ -20,7 +20,7 @@ Sections 3782(a), 3782(c), and 3787 of this title shall apply with respect to th
 
 &emsp;(2) any reference to the Office of Justice Programs, the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics shall be deemed to be a reference to the Office of Juvenile Justice and Delinquency Prevention; and
 
-&emsp;(3) the term “this chapter” as it appears in such sections shall be deemed to be a reference to this chapter.
+&emsp;(3) the term "this chapter" as it appears in such sections shall be deemed to be a reference to this chapter.
 
 #### (d) Rules, regulations, and procedures
 
@@ -34,15 +34,15 @@ If a State requires by law compliance with the requirements described in paragra
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–273, §12214(1), substituted “only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance” for “as are consistent with the purpose of this chapter”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–273, §12214(1), substituted "only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance" for "as are consistent with the purpose of this chapter".
 
 Subsec. (e). Pub. L. 107–273, §12214(2), added subsec. (e).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–473, in amending subsec. (a) generally, substituted provisions setting forth the administrative authority of the Office for former provisions which incorporated other administrative provisions into this chapter as well as construing certain references as authorizing the Administrator of the Office of Juvenile Justice and Delinquency Prevention to perform the same actions as other officials.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, in amending subsec. (a) generally, substituted provisions setting forth the administrative authority of the Office for former provisions which incorporated other administrative provisions into this chapter as well as construing certainreferences as authorizing the Administrator of the Office of Juvenile Justice and Delinquency Prevention to perform the same actions as other officials.
 
 Subsec. (b). Pub. L. 98–473, in amending subsec. (b) generally, substituted provisions relating to the applicability of other provisions to this chapter as well as defining certain references therein for former provisions which directed the Office of Justice Assistance, Research and Statistics to provide staff support and coordinate the activities of the Office of Juvenile Justice and Delinquency Prevention.
 

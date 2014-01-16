@@ -24,7 +24,7 @@ The Director shall annually report to Congress on the performance of the Banks i
 
 #### References in Text
 
-Section 4566 of this title, referred to in subsec. (d), was in the original “section 1336 of the Federal Housing Enterprises Safety and Soundness Act of 1992”, which was translated as meaning section 1336 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, to reflect the probable intent of Congress.
+Section 4566 of this title, referred to in subsec. (d), was in the original "section 1336 of the Federal Housing Enterprises Safety and Soundness Act of 1992", which was translated as meaning section 1336 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

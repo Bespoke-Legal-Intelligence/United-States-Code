@@ -4,7 +4,7 @@ Section 871, act July 17, 1916, ch. 245, title I, §21, 39 Stat. 377; Ex. Ord. N
 
 Section 872, act July 17, 1916, ch. 245, title I, §21, 39 Stat. 377; Ex. Ord. No. 6084, Mar. 27, 1933, covered liability of each land bank for bonds issued by it and by other land banks.
 
-Section 873, act July 17, 1916, ch. 245, title I, §21, 39 Stat. 377, directed that board of directors of each land bank obligate each such bank to become liable on farm loan bonds.
+Section 873, act July 17, 1916, ch. 245, title I, §21, 39 Stat. 377, directed that board of directors of each landbank obligate each such bank to become liable on farm loan bonds.
 
 Section 874, acts July 17, 1916, ch. 245, title I, §21, 39 Stat. 377; Apr. 20, 1920, ch. 154, §6, 41 Stat. 571; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title VII, §75(b), title VIII, §80(a), 48 Stat. 271, 273; June 30, 1945, ch. 204, §10(a), 59 Stat. 268, provided for signing and attesting of bonds and certificate of Land Bank Commissioner.
 

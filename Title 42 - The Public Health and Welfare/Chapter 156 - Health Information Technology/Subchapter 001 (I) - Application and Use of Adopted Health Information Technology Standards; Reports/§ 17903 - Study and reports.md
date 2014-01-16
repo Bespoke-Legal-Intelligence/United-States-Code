@@ -54,11 +54,11 @@ Not later than 2 years after February 17, 2009, and annually thereafter, the Sec
 
 #### (A) Aging services technology
 
-&emsp;&emsp;The term “aging services technology” means health technology that meets the health care needs of seniors, individuals with disabilities, and the caregivers of such seniors and individuals.
+&emsp;&emsp;The term "aging services technology" means health technology that meets the health care needs of seniors, individuals with disabilities, and the caregivers of such seniors and individuals.
 
 #### (B) Senior
 
-&emsp;&emsp;The term “senior” has such meaning as specified by the Secretary.
+&emsp;&emsp;The term "senior" has such meaning as specified by the Secretary.
 
 (Pub. L. 111–5, div. A, title XIII, §13113, Feb. 17, 2009, 123 Stat. 243.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Brewery
 
-The brewery shall consist of the land and buildings described in the brewer's notice. The continuity of the brewery must be unbroken except where separated by public passageways,streets, highways, waterways, or carrier rights-of-way, or partitions; and if parts of the brewery are so separated they must abut on the dividing medium and be adjacent to each other. Notwithstanding the preceding sentence, facilities under the control of the brewer for case packing, loading, or storing which are located within reasonable proximity to the brewery packaging facilities may be approved by the Secretary as a part of the brewery if the revenue will not be jeopardized thereby.
+The brewery shall consist of the land and buildings described in the brewer's notice. The continuity of the brewery must be unbroken except where separated by public passageways, streets, highways, waterways, or carrier rights-of-way, or partitions; and if parts of the brewery are so separated they must abut on the dividing medium and be adjacent to each other. Notwithstanding the preceding sentence, facilities under the control of the brewer for case packing, loading, or storing which are located within reasonable proximity to the brewery packaging facilities may be approved by the Secretary as a part of the brewery if the revenue will not be jeopardized thereby.
 
 #### (b) Brewer
 
@@ -16,11 +16,11 @@ A prior section 5402, act Aug. 16, 1954, ch. 736, 68A Stat. 674, consisted of pr
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–59 substituted “section 5052(d)” for “section 5092”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–59 substituted "section 5052(d)" for "section 5092".
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
-<b>1971</b>—Subsec. (a). Pub. L. 91–673 inserted proviso to definition of “Brewery” that the continuity of the brewery must be unbroken except where separated by public passageways, streets, highways, waterways, or carrier rights-of-way, or partitions, with the exception that the Secretary approve facilities under the control of the brewer for case packing, loading, or storing, which are located within reasonable proximity to the brewery as a part of the brewery if the revenue will not be jeopardized thereby.
+<b>1971</b>—Subsec. (a). Pub. L. 91–673 inserted proviso to definition of "Brewery" that the continuity of the brewery must be unbroken except where separated by public passageways, streets, highways, waterways, or carrier rights-of-way, or partitions, with the exception that the Secretary approve facilities under the control of the brewer for case packing, loading, or storing, which are located within reasonable proximity to the brewery as a part of the brewery if the revenue will not be jeopardized thereby.
 
 #### Effective Date of 2005 Amendment
 

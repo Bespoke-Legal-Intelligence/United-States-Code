@@ -12,5 +12,5 @@ The provisions of this subchapter shall not apply to ownership, construction, or
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–623 substituted “facility or plantship” for “facility or platform”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–623 substituted "facility or plantship" for "facility or platform".
 

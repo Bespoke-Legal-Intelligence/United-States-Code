@@ -92,11 +92,11 @@ Pub. L. 89–4, title I, §106(2) (2d, last sentences), Mar. 9, 1965, 79 Stat. 8
 
 40 App.:106(2) (last sentence).
 
-In subsection (e), the words “The Commission has an executive director” are added for clarity.
+In subsection (e), the words "The Commission has an executive director" are added for clarity.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(2). Pub. L. 112–166 struck out “by and with the advice and consent of the Senate” after “The President,”.
+<b>2012</b>—Subsec. (b)(2). Pub. L. 112–166 struck out "by and with the advice and consent of the Senate" after "The President,".
 
 #### Effective Date of 2012 Amendment
 

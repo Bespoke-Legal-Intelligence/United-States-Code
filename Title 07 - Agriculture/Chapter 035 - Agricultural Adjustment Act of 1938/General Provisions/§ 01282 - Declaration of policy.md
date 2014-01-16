@@ -6,11 +6,11 @@ It is declared to be the policy of Congress to continue the Soil Conservation an
 
 #### References in Text
 
-The Soil Conservation and Domestic Allotment Act, as amended, referred to in text, is act Apr. 27, 1935, ch.85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
+The Soil Conservation and Domestic Allotment Act, as amended, referred to in text, is act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–357 struck out “tobacco,” after “corn,”.
+<b>2004</b>—Pub. L. 108–357 struck out "tobacco," after "corn,".
 
 #### Effective Date of 2004 Amendment
 
@@ -30,29 +30,29 @@ Functions of Soil Conservation Service in Department of Agriculture with respect
 
 #### Congressional Declaration of Policy Under Agricultural Act of 1961
 
-Pub. L. 87–128, §2, Aug. 8, 1961, 75 Stat. 294, provided that: “In order more fully and effectively to improve, maintain, and protect the prices and incomes of farmers, to enlarge rural purchasing power, to achieve a better balance between supplies of agricultural commodities and the requirements of consumers therefor, to preserve and strengthen the structure of agriculture, and to revitalize and stabilize the overall economy at reasonable costs to the Government, it is hereby declared to be the policy of Congress to—
+Pub. L. 87–128, §2, Aug. 8, 1961, 75 Stat. 294, provided that: "In order more fully and effectively to improve, maintain, and protect the prices and incomes of farmers, to enlarge rural purchasing power, to achieve a better balance between supplies of agricultural commodities and the requirements of consumers therefor, to preserve and strengthen the structure of agriculture, and to revitalize and stabilize the overall economy at reasonable costs to the Government, it is hereby declared to be the policy of Congress to—
 
-&emsp;“(a) afford farmers the opportunity to achieve parity of income with other economic groups by providing them with the means to develop and strengthen their bargaining power in the Nation's economy;
+&emsp;"(a) afford farmers the opportunity to achieve parity of income with other economic groups by providing them with the means to develop and strengthen their bargaining power in the Nation's economy;
 
-&emsp;“(b) encourage a commodity-by-commodity approach in the solution of farm problems and provide the means for meeting varied and changing conditions peculiar to each commodity;
+&emsp;"(b) encourage a commodity-by-commodity approach in the solution of farm problems and provide the means for meeting varied and changing conditions peculiar to each commodity;
 
-&emsp;“(c) expand foreign trade in agricultural commodities with friendly nations, as defined in section 107 of Public Law 480, 83d Congress, as amended (7 U.S.C. 1707), and in no manner either subsidize the export, sell, or make available any subsidized agricultural commodity to any nations other than such friendly nations and thus make full use of our agricultural abundance;
+&emsp;"(c) expand foreign trade in agricultural commodities with friendly nations, as defined in section 107 of Public Law 480, 83d Congress, as amended (7 U.S.C. 1707), and in no manner either subsidize the export, sell, or make available any subsidized agricultural commodity to any nations other than such friendly nations and thus make full use of our agricultural abundance;
 
-&emsp;“(d) utilize more effectively our agricultural productive capacity to improve the diets of the Nation's needy persons;
+&emsp;"(d) utilize more effectively our agricultural productive capacity to improve the diets of the Nation's needy persons;
 
-&emsp;“(e) recognize the importance of the family farm as an efficient unit of production and as an economic base for towns and cities in rural areas and encourage, promote, and strengthen this form of farm enterprise;
+&emsp;"(e) recognize the importance of the family farm as an efficient unit of production and as an economic base for towns and cities in rural areas and encourage, promote, and strengthen this form of farm enterprise;
 
-&emsp;“(f) facilitate and improve credit services to farmers by revising, expanding, and clarifying the laws relating to agricultural credit;
+&emsp;"(f) facilitate and improve credit services to farmers by revising, expanding, and clarifying the laws relating to agricultural credit;
 
-&emsp;“(g) assure consumers of a continuous, adequate, and stable supply of food and fiber at fair and reasonable prices;
+&emsp;"(g) assure consumers of a continuous, adequate, and stable supply of food and fiber at fair and reasonable prices;
 
-&emsp;“(h) reduce the cost of farm programs, by preventing the accumulation of surpluses; and
+&emsp;"(h) reduce the cost of farm programs, by preventing the accumulation of surpluses; and
 
-&emsp;“(i) use surplus farm commodities on hand as fully as practicable as an incentive to reduce production as may be necessary to bring supplies on hand and firm demand in balance.”
+&emsp;"(i) use surplus farm commodities on hand as fully as practicable as an incentive to reduce production as may be necessary to bring supplies on hand and firm demand in balance."
 
 #### Congressional Declaration of Policy for Year 1949
 
-Act July 3, 1948, ch. 827, title I, §1(d), 62 Stat. 1248, provided that: “It is hereby declared to be the policy of the Congress that the lending and purchase operations of the Department of Agriculture (other than those referred to in subsections (a), (b), and (c) hereof \[subsections (a) and (b) are set out as notes under this section and subsection (c) is set out as a note under section 713a–8 of Title 15, Commerce and Trade\]) shall be carried out until January 1, 1950, so as to bring the price and income of the producers of other agricultural commodities not covered by subsections (a), (b), and (c) to a fair parity relationship with the commodities included under subsections (a), (b), and (c), to the extent that funds for such operations are available after taking into account the operations with respect to the commodities covered by subsections (a), (b), and (c). In carrying out the provisions of this subsection the Secretary of Agriculture shall have the authority to require compliance with production goals and marketing regulations as a condition to eligibility of producers for price support.”
+Act July 3, 1948, ch. 827, title I, §1(d), 62 Stat. 1248, provided that: "It is hereby declared to be the policy of the Congress that the lending and purchase operations of the Department of Agriculture (other than those referred to in subsections (a), (b), and (c) hereof \[subsections (a) and (b) are set out as notes under this section and subsection (c) is set out as a note under section 713a–8 of Title 15, Commerce and Trade\]) shall be carried out until January 1, 1950, so as to bring the price and income of the producers of other agricultural commodities not covered by subsections (a), (b), and (c) to a fair parity relationship with the commodities included under subsections (a), (b), and (c), to the extent that funds for such operations are available after taking into account the operations with respect to the commodities covered by subsections (a), (b), and (c). In carrying out the provisions of this subsection the Secretary of Agriculture shall have the authority to require compliance with production goals and marketing regulations as a condition to eligibility of producers for price support."
 
 #### Study of Parity Income Position of Farmers; Report to Congress by June 30, 1966
 

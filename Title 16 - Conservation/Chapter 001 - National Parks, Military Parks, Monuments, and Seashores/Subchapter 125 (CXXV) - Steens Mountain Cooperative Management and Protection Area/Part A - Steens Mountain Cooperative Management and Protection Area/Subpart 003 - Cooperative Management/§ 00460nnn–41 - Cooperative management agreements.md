@@ -2,7 +2,7 @@
 
 #### (a) Cooperative efforts
 
-To further the purposes and objectives for which the Cooperative Management and Protection Area is designated, the Secretary may workwith non-Federal landowners and other parties who voluntarily agree to participate in the cooperative management of Federal and non-Federal lands in the Cooperative Management and Protection Area.
+To further the purposes and objectives for which the Cooperative Management and Protection Area is designated, the Secretary may work with non-Federal landowners and other parties who voluntarily agree to participate in the cooperative management of Federal and non-Federal lands in the Cooperative Management and Protection Area.
 
 #### (b) Agreements authorized
 

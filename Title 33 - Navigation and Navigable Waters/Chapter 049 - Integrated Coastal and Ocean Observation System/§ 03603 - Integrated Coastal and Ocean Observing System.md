@@ -94,7 +94,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;(H) develop and implement a process for the periodic review and evaluation of regional information coordination entities;
 
-&emsp;&emsp;(I) formulate an annual process by which gaps in observation coverage or needs for capital improvements of Federal assets and non-Federal assets of the System are identified by the regional information coordination entities, the Administrator, or othermembers of the System and transmitted to the Interagency Ocean Observing Committee;
+&emsp;&emsp;(I) formulate an annual process by which gaps in observation coverage or needs for capital improvements of Federal assets and non-Federal assets of the System are identified by the regional information coordination entities, the Administrator, or other members of the System and transmitted to the Interagency Ocean Observing Committee;
 
 &emsp;&emsp;(J) develop and be responsible for a data management and communication system, in accordance with standards and protocols established by the Council, by which all data collected by the System regarding ocean and coastal waters of the United States including the Great Lakes, are processed, stored, integrated, and made available to all end-user communities;
 
@@ -108,7 +108,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 #### (A) In general
 
-&emsp;&emsp;To be certified or established under this chapter, a regional information coordination entity shall be certified or established by contract or agreement by the Administrator, and shall agree to meet the certification standards and compliance procedure guidelines issued by the Administrator and information needs of user groups in the region while adhering to national standards and shall—
+&emsp;&emsp;To be certified or established under this chapter, a regional information coordination entity shall be certified or established by contract or agreement by the Administrator, and shall agree to meet the certification standards and compliance procedure guidelines issued by the Administrator and information needs of user groups in the regionwhile adhering to national standards and shall—
 
 &emsp;&emsp;&emsp;(i) demonstrate an organizational structure capable of gathering required System observation data, supporting and integrating all aspects of coastal and ocean observing and information programs within a region and that reflects the needs of State and local governments, commercial interests, and other users and beneficiaries of the System and other requirements specified under this chapter and the System Plan;
 

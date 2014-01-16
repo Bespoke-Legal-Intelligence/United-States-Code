@@ -62,7 +62,7 @@ Authorization of Appropriations.—
 
 &emsp;(1)
 
-Photovoltaic energy commercialization program.—There are authorized to be appropriated to carry out subsection (a)$50,000,000 for each of fiscal years 2006 through 2010. Such sums shall remain available until expended.
+Photovoltaic energy commercialization program.—There are authorized to be appropriated to carry out subsection (a) $50,000,000 for each of fiscal years 2006 through 2010. Such sums shall remain available until expended.
 
 &emsp;(2)
 

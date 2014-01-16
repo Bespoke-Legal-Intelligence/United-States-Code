@@ -6,9 +6,9 @@ There shall be an allowance of drawback of tax paid on tobacco products and ciga
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
-<b>1958</b>—Pub. L. 85–859 substituted “tobacco products and cigarette papers and tubes” for “articles”.
+<b>1958</b>—Pub. L. 85–859 substituted "tobacco products and cigarette papers and tubes" for "articles".
 
 #### Effective Date of 1958 Amendment
 

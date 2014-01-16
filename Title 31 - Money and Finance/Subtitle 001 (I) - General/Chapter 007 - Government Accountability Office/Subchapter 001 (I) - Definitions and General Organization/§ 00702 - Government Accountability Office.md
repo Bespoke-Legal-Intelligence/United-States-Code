@@ -54,15 +54,15 @@ Jan. 2, 1975, Pub. L. 93–604, §501(a), 88 Stat. 1962.
 
 31:41(last sentence).
 
-In subsection (a), the words “instrumentality of the United States Government” are substituted for “establishment of the Government” for consistency. The words “created . . . to be” and 31:41(2d, 3d sentences) are omitted as executed.
+In subsection (a), the words "instrumentality of the United States Government" are substituted for "establishment of the Government" for consistency. The words "created . . . to be" and 31:41(2d, 3d sentences) are omitted as executed.
 
-Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1st sentence words before comma) to eliminate unnecessary words and for consistency. The word “Deputy” is substituted for “Assistant” because of section 101 of the Act of July 9, 1971 (Pub. L. 92–51, 85 Stat. 143). The text of 31:1154(d)(1st sentence) and 1155(a) is omitted as unnecessary because the Comptroller General, as the head of the Office, has the authority to establish constituent parts of the Office to carry out duties and powers unless otherwise specified by law.
+Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1st sentence words before comma) to eliminate unnecessary words and for consistency. The word "Deputy" is substituted for "Assistant" because of section 101 of the Act of July 9, 1971 (Pub. L. 92–51, 85 Stat. 143). The text of 31:1154(d)(1st sentence) and 1155(a) is omitted as unnecessary because the Comptroller General, as the head of the Office, has the authority to establish constituent parts of the Office to carry out duties and powers unless otherwise specified by law.
 
-In subsection (c), the words “Administrator of General Services” are substituted for “the head of any Federal agency which exercises authority over such building” for clarity. The words “of the United States” are omitted as surplus.
+In subsection (c), the words "Administrator of General Services" are substituted for "the head of any Federal agency which exercises authority over such building" for clarity. The words "of the United States" are omitted as surplus.
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and subsec. (a).
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in section catchline and subsec. (a).
 
 <b>1988</b>—Subsecs. (c), (d). Pub. L. 100–545 redesignated subsec. (d) as (c) and struck out former subsec. (c) which directed Administrator of General Services to provide Comptroller General with space in General Accounting Office Building.
 
@@ -70,125 +70,125 @@ In subsection (c), the words “Administrator of General Services” are substit
 
 Pub. L. 108–271, §8, July 7, 2004, 118 Stat. 814, provided that:
 
-“(a)
+"(a)
 
 In General.—The General Accounting Office is hereby redesignated the Government Accountability Office.
 
-“(b)
+"(b)
 
-References.—Any reference to the General Accounting Office in any law, rule, regulation, certificate, directive, instruction, or other official paper in force on the date of enactment of this Act \[July 7, 2004\] shall be considered to refer and apply to the Government Accountability Office.”
+References.—Any reference to the General Accounting Office in any law, rule, regulation, certificate, directive, instruction, or other official paper in force on the date of enactment of this Act \[July 7, 2004\] shall be considered to refer and apply to the Government Accountability Office."
 
 #### Transfers and Terminations of Functions
 
 Pub. L. 104–316, title I, §101(a)–(d), Oct. 19, 1996, 110 Stat. 3826, 3827, provided that:
 
-“(a)
+"(a)
 
 In General.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Functions transferred.—In any case in which a provision of law authorizing the performance of a function by the Comptroller General of the United States or the General Accounting Office \[now Government Accountability Office\] is amended by this title \[see Tables for classification\] to substitute another Federal officer, employee, or agency in that authorization, the authority under that provision to perform that function is transferred to the other Federal officer, employee, or agency.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Functions terminated.—In any case in which a provision of law authorizing the performance of a function by the Comptroller General of the United States or the General Accounting Office \[now Government Accountability Office\] is repealed by this Act \[see Tables for classification\], the authority under that provision to perform that function is terminated.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Delegation of functions.—The Director of the Office of Management and Budget may delegate, in whole or in part, to any other agency or agencies any function transferred to or vested in the Director under section 103(d), 105(b), 116, or 202(n) of this Act \[amending section 3702 of this title, section 5584 of Title 5, Government Organization and Employees, section 2774 of Title 10, Armed Forces, and section 716 of Title 32, National Guard\], and may transfer to such agency or agencies any personnel, budget authority, records, and property received by the Director pursuant to subsection (b) of this section that relate to the delegated functions.
 
-“(b)
+"(b)
 
 Incidental Transfers.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Incident to any transfer of authority under subsection (a)(1), there shall be transferred to the recipient Federal officer, employee, or agency such personnel, records, budget authority, and property of the General Accounting Office \[now Government Accountability Office\] as the Comptroller General and the Director of the Office of Management and Budget jointly determine to be necessary to effectuate the transfer.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Effect on personnel.—Personnel transferred under this section shall not be separated or reduced in classification or compensation for one year after any such transfer, except for cause.
 
-“(c)
+"(c)
 
 References.—With respect to any function or authority transferred under this Act and exercised on or after the effective date of that transfer, reference in any Federal law to the Comptroller General or to any officer or employee of the General Accounting Office \[now Government Accountability Office\] is deemed to refer to the Federal officer or agency to which the function or authority is transferred under this Act.
 
-“(d)
+"(d)
 
 Savings Provisions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Orders and other official actions not affected.—All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
 
-&emsp;&emsp;“(A) which have been issued, made, granted, or allowed to become effective by the Comptroller General or any official of the General Accounting Office \[now Government Accountability Office\], or by a court of competent jurisdiction, in the performance of any function or authority transferred under this Act, and
+&emsp;&emsp;"(A) which have been issued, made, granted, or allowed to become effective by the Comptroller General or any official of the General Accounting Office \[now Government Accountability Office\], or bya court of competent jurisdiction, in the performance of any function or authority transferred under this Act, and
 
-&emsp;&emsp;“(B) which are in effect at the time of the transfer;
+&emsp;&emsp;"(B) which are in effect at the time of the transfer;
 
 > &emsp;shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Pending matters and proceedings.—This Act shall not affect any pending matters or proceedings, including notices of proposed rulemaking, relating to a function or authority transferred under this Act. Such matters or proceedings shall continue under theauthority of the agency to which the function or authority is transferred until completed or terminated in accordance with law.
+Pending matters and proceedings.—This Act shall not affect any pending matters or proceedings, including notices of proposed rulemaking, relating to a function or authority transferred under this Act. Such matters or proceedings shall continue under the authority of the agency to which the function or authority is transferred until completed or terminated in accordance with law.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Judicial proceedings and causes of actions.—No suit, action, or other proceeding or cause of action relating to a function or authority transferred under this Act shall abate by reason of the enactment of this Act. If, before the date on which a transfer of a function or authority this Act takes effect, the Comptroller General of the United States or any officer or employee of the General Accounting Office \[now Government Accountability Office\] in their official capacity is party to a suit relating to the function or authority, then such suit shall be continued and the head of the agency to which the function or authority is transferred, or other appropriate official of that agency, shall be substituted or added as a party.”
+Judicial proceedings and causes of actions.—No suit, action, or other proceeding or cause of action relating to a function or authority transferred under this Act shall abate by reason of the enactment of this Act. If, before the date on which a transfer of a function or authority this Act takes effect, the Comptroller General of the United States or any officer or employee of the General Accounting Office \[now Government Accountability Office\] in their official capacity is party to a suit relating to the function or authority, then such suit shall be continued and the head of the agency to which the function or authority is transferred, or other appropriate official of that agency, shall be substituted or added as a party."
 
 #### Contract Appeals Board
 
 Pub. L. 110–161, div. H, title I, §1501, Dec. 26, 2007, 121 Stat. 2249, provided that:
 
-“(a)
+"(a)
 
 Definitions.—In this section—
 
-&emsp;“(1) the term ‘Board’ means the Contract Appeals Board established under subsection (b); and
+&emsp;"(1) the term 'Board' means the Contract Appeals Board established under subsection (b); and
 
-&emsp;“(2) the term ‘legislative branch agency’ means—
+&emsp;"(2) the term 'legislative branch agency' means—
 
-&emsp;&emsp;“(A) the Architect of the Capitol;
+&emsp;&emsp;"(A) the Architect of the Capitol;
 
-&emsp;&emsp;“(B) the United States Botanic Gardens \[sic\];
+&emsp;&emsp;"(B) the United States Botanic Gardens \[sic\];
 
-&emsp;&emsp;“(C) the Government Accountability Office;
+&emsp;&emsp;"(C) the Government Accountability Office;
 
-&emsp;&emsp;“(D) the Government Printing Office;
+&emsp;&emsp;"(D) the Government Printing Office;
 
-&emsp;&emsp;“(E) the Library of Congress;
+&emsp;&emsp;"(E) the Library of Congress;
 
-&emsp;&emsp;“(F) the Congressional Budget Office;
+&emsp;&emsp;"(F) the Congressional Budget Office;
 
-&emsp;&emsp;“(G) the United States Capitol Police; and
+&emsp;&emsp;"(G) the United States Capitol Police; and
 
-&emsp;&emsp;“(H) any other agency, including any office, board, or commission, established in the legislative branch; and
+&emsp;&emsp;"(H) any other agency, including any office, board, or commission, established in the legislative branch; and
 
-“(b)
+"(b)
 
 Establishment.—There is established a Contract Appeals Board within the Government Accountability Office. The Board shall hear and decide appeals from decisions of a contracting officer with respect to any contract entered into by a legislative branch agency.
 
-“(c)
+"(c)
 
 Members of the Board.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Appointment.—The Comptroller General shall appoint at least 3 members to the Contract Appeals Board.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Qualifications.—Each member shall have not less than 5 years experience in public contract law.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Pay.—Subject to any provision of law relating to pay applicable to the Office of General Counsel of the Government Accountability Office, the Comptroller General shall establish and adjust the annual rate of basic pay of members of the Board.
 
-“(d)
+"(d)
 
 Provisions Applicable to Appeals.—The Contract Disputes Act of 1978 (Public Law 95–563, \[former\] 41 U.S.C. 601 et seq. \[see 41 U.S.C. 7101 et seq.\]), as amended, shall apply to appeals to the Board, except that section 4 \[now 41 U.S.C. 7102(d)\], subsections 8(a), (b), and (c) \[now 41 U.S.C. 7105(a), (c), (d), (e)(1)(C)\], and subsection 10(a) \[now 41 U.S.C. 7104(b)\] shall not apply to such appeals and the amount of any claim referenced in subsection 6(c) \[now 41 U.S.C. 7103(b), (f)\] shall be $50,000. The Comptroller General shall prescribe regulations for procedures for appeals to the Board that are consistent with procedures under the Contract Disputes Act of 1978.
 
-“(e)
+"(e)
 
-Effective Date.—This section shall apply with respect to fiscal year 2008 and each fiscal year thereafter.”
+Effective Date.—This section shall apply with respect to fiscal year 2008 and each fiscal year thereafter."
 

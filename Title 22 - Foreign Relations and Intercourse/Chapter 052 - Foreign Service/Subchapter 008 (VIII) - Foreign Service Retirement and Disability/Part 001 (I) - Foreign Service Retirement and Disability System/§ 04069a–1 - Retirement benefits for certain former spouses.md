@@ -42,11 +42,11 @@ A former spouse shall not be entitled to benefits under this section if—
 
 (4)(A) Benefits under this section shall not be payable unless appropriate written application is provided to the Secretary, complete with any supporting documentation which the Secretary may by regulation require, within 30 months after the effective date of this section. The Secretary may waive the 30-month application requirement under this subparagraph in any case in which the Secretary determines that the circumstances so warrant.
 
-(B) Upon approval of an application provided under subparagraph (A), the appropriate benefits shall be payable to the former spouse with respect to all periods before such approval duringwhich the former spouse was entitled to such benefits under this section, but in no event shall benefits be payable under this section with respect to any period before the effective date of this section.
+(B) Upon approval of an application provided under subparagraph (A), the appropriate benefits shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to such benefits under this section, but in no event shall benefits be payable under this section with respect to any period before the effective date of this section.
 
-#### (d) “Benefits” defined
+#### (d) "Benefits" defined
 
-For the purpose of this section, the term “benefits” means—
+For the purpose of this section, the term "benefits" means—
 
 &emsp;(1) with respect to a participant or former participant subject to this part, the annuity of the participant or former participant; and
 

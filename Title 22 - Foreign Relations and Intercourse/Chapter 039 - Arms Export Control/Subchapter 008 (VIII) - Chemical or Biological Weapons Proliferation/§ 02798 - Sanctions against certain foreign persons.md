@@ -98,7 +98,7 @@
 
 #### (d) Termination of sanctions
 
-The sanctions imposed pursuant to this section shall apply for a period of at least 12 months following the imposition of sanctions and shall cease to apply thereafter only if the President determines and certifies to the Congress that reliable information indicates that the foreign person with respect to which the determination was made under subsection (a)(1) of this section has ceased to aid or abet any foreign government, project, or entity in its efforts to acquire chemical or biological weapons capability as described in that subsection.
+The sanctions imposed pursuant to this section shall apply for a period of at least 12 months following the imposition of sanctions and shall cease to apply thereafter only if thePresident determines and certifies to the Congress that reliable information indicates that the foreign person with respect to which the determination was made under subsection (a)(1) of this section has ceased to aid or abet any foreign government, project, or entity in its efforts to acquire chemical or biological weapons capability as described in that subsection.
 
 #### (e) Waiver
 
@@ -108,11 +108,11 @@ The sanctions imposed pursuant to this section shall apply for a period of at le
 
 #### (2) Notification of and report to Congress
 
-&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), the President shall so notify the Congress not lessthan 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
+&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), the President shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
 
-#### (f) “Foreign person” defined
+#### (f) "Foreign person" defined
 
-For the purposes of this section, the term “foreign person” means—
+For the purposes of this section, the term "foreign person" means—
 
 &emsp;(1) an individual who is not a citizen of the United States or an alien admitted for permanent residence to the United States; or
 
@@ -130,7 +130,7 @@ A prior subchapter VIII, consisting of former section 2798, as added by Pub. L. 
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 101–182, §309(b)(2), substituted “October 28, 1991” for reference to the “date of the enactment of this section” which was enacted Dec. 4, 1991.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 101–182, §309(b)(2), substituted "October 28, 1991" for reference to the "date of the enactment of this section" which was enacted Dec. 4, 1991.
 
 #### Delegation of Functions
 

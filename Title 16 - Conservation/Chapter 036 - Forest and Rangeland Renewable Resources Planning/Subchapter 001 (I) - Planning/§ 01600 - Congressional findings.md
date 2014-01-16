@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) to serve the national interest, the renewable resource program must be based on a comprehensive assessment of present and anticipated uses, demand for, and supply of renewable resources from the Nation's public and private forests and rangelands, through analysis of environmental and economic impacts, coordination of multiple use and sustained yield opportunities as provided in the Multiple-Use Sustained-Yield Act of 1960 (74 Stat. 215; 16 U.S.C. 528–531), and public participation in the development of the program;
 
-&emsp;(4) the new knowledge derived from coordinated public and private research programs will promote a sound technical and ecological base for effective management, use, and protection of the Nation's renewable resources;
+&emsp;(4) the new knowledge derived from coordinated public and private research programs will promote a sound technical and ecologicalbase for effective management, use, and protection of the Nation's renewable resources;
 
 &emsp;(5) inasmuch as the majority of the Nation's forests and rangeland is under private, State, and local governmental management and the Nation's major capacity to produce goods and services is based on these nonfederally managed renewable resources, the Federal Government should be a catalyst to encourage and assist these owners in the efficient long-term use and improvement of these lands and their renewable resources consistent with the principles of sustained yield and multiple use;
 
@@ -24,29 +24,29 @@ The Multiple-Use Sustained-Yield Act of 1960, referred to in par. (3), is Pub. L
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–521, §1, Oct. 24, 1988, 102 Stat. 2601, provided that: “This Act \[amending section 1642 of this title and enacting provisions set out as a note under section 1642 of this title\] may be cited as the ‘Forest Ecosystems and Atmospheric Pollution Research Act of 1988’.”
+Pub. L. 100–521, §1, Oct. 24, 1988, 102 Stat. 2601, provided that: "This Act \[amending section 1642 of this title and enacting provisions set out as a note under section 1642 of this title\] may be cited as the 'Forest Ecosystems and Atmospheric Pollution Research Act of 1988'."
 
-Pub. L. 100–231, §1, Jan. 5, 1988, 101 Stat. 1565, provided that: “This Act \[amending sections 1674 and 1675 of this title and provisions set out as a note under section 1671 of this title\] may be cited as the ‘Renewable Resources Extension Act Amendments of 1987’.”
+Pub. L. 100–231, §1, Jan. 5, 1988, 101 Stat. 1565, provided that: "This Act \[amending sections 1674 and 1675 of this title and provisions set out as a note under section 1671 of this title\] may be cited as the 'Renewable Resources Extension Act Amendments of 1987'."
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–554, §1, Dec. 19, 1980, 94 Stat. 3257, provided: “That this Act \[enacting subchapter IV of this chapter and enacting provision set out as a note under section 1681 of this title\] may be cited as the ‘Wood Residue Utilization Act of 1980’.”
+Pub. L. 96–554, §1, Dec. 19, 1980, 94 Stat. 3257, provided: "That this Act \[enacting subchapter IV of this chapter and enacting provision set out as a note under section 1681 of this title\] may be cited as the 'Wood Residue Utilization Act of 1980'."
 
 #### Short Title of 1978 Amendments
 
-Pub. L. 95–307, §1, June 30, 1978, 92 Stat. 353, provided: “That this Act \[enacting subchapter II of this chapter, repealing sections 581 to 581i of this title, and enacting provisions set out as a note under section 1641 of this title\] may be cited as the ‘Forest and Rangeland Renewable Resources Research Act of 1978’.”
+Pub. L. 95–307, §1, June 30, 1978, 92 Stat. 353, provided: "That this Act \[enacting subchapter II of this chapter, repealing sections 581 to 581i of this title, and enacting provisions set out as a note under section 1641 of this title\] may be cited as the 'Forest and Rangeland Renewable Resources Research Act of 1978'."
 
-Pub. L. 95–306, §1, June 30, 1978, 92 Stat. 349, provided: “That this Act \[enacting subchapter III of this chapter and provision set out as a note under section 1671 of this title\] may be cited as the ‘Renewable Resources Extension Act of 1978’.”
+Pub. L. 95–306, §1, June 30, 1978, 92 Stat. 349, provided: "That this Act \[enacting subchapter III of this chapter and provision set out as a note under section 1671 of this title\] may be cited as the 'Renewable Resources Extension Act of 1978'."
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–588, §1, Oct. 22, 1976, 90 Stat. 2949, provided: “That this Act \[enacting this section and sections 472a, 521b, and 1611 to 1614 of this title, amending sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealing sections 476, 513 and 514 of this title, and enacting provisions set out as notes under this section and sections 476, 513, 528, and 594–2 of this title\] may be cited as the ‘National Forest Management Act of 1976’.”
+Pub. L. 94–588, §1, Oct. 22, 1976, 90 Stat. 2949, provided: "That this Act \[enacting this section and sections 472a, 521b, and 1611 to 1614 of this title, amending sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealing sections 476, 513 and 514 of this title, and enacting provisions set out as notes under this section and sections 476, 513, 528, and 594–2 of this title\] may be cited as the 'National Forest Management Act of 1976'."
 
 #### Short Title
 
-Pub. L. 93–378, §1, Aug. 17, 1974, 88 Stat. 476, provided: “That this Act \[enacting this subchapter and amending section 581h of this title\] may be cited as the ‘Forest and Rangeland Renewable Resources Planning Act of 1974’.”
+Pub. L. 93–378, §1, Aug. 17, 1974, 88 Stat. 476, provided: "That this Act \[enacting this subchapter and amending section 581h of this title\] may be cited as the 'Forest and Rangeland Renewable Resources Planning Act of 1974'."
 
 #### Separability
 
-Pub. L. 94–588, §21, Oct. 22, 1976, 90 Stat. 2963, provided that: “If any provision of this Act \[see Short Title of 1976 Amendment note set out above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
+Pub. L. 94–588, §21, Oct. 22, 1976, 90 Stat. 2963, provided that: "If any provision of this Act \[see Short Title of 1976 Amendment note set out above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby."
 

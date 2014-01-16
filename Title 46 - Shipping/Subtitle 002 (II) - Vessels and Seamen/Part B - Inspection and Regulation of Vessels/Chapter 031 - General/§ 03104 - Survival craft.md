@@ -34,7 +34,7 @@ The date of enactment of this subsection, referred to in subsec. (c), is the dat
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–213, §303(1), substituted “the date that is 30 months after the date on which the report described in subsection (c) is submitted” for “January 1, 2015” in introductory provisions.
+<b>2012</b>—Subsec. (b). Pub. L. 112–213, §303(1), substituted "the date that is 30 months after the date on which the report described in subsection (c) is submitted" for "January 1, 2015" in introductory provisions.
 
 Subsec. (c). Pub. L. 112–213, §303(2), added subsec. (c).
 

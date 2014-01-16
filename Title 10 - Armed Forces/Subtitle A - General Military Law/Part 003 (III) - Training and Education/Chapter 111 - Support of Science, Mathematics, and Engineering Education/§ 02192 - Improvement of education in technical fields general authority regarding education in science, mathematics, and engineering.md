@@ -22,13 +22,13 @@
 
 (3) In this subsection:
 
-&emsp;(A) The term “eligible entity” includes a department or agency of the Federal Government, a State, a political subdivision of a State, an individual, and a not-for-profit or other organization in the private sector.
+&emsp;(A) The term "eligible entity" includes a department or agency of the Federal Government, a State, a political subdivision of a State, an individual, and a not-for-profit or other organization in the private sector.
 
-&emsp;(B) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and any other territory or possession of the United States.
+&emsp;(B) The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and any other territory or possession of the United States.
 
 (c) The Secretary shall designate an individual within the Office of the Secretary of Defense to advise and assist the Secretary regarding matters relating to science, mathematics, and engineering education and training.
 
-(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L. 106–65, div. A, title V, §580(d)(1), Oct. 5, 1999, 113 Stat. 633; Pub. L. 108–136, div. A, title II, §233, Nov. 24, 2003, 117 Stat. 1423; Pub. L. 111–383, div. A, title II, §211(a), Jan. 7, 2011, 124 Stat. 4162.)
+(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L.106–65, div. A, title V, §580(d)(1), Oct. 5, 1999, 113 Stat. 633; Pub. L. 108–136, div. A, title II, §233, Nov. 24, 2003, 117 Stat. 1423; Pub. L. 111–383, div. A, title II, §211(a), Jan. 7, 2011, 124 Stat. 4162.)
 
 #### Amendments
 
@@ -36,7 +36,7 @@
 
 <b>2003</b>—Subsecs. (b), (c). Pub. L. 108–136 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-<b>1999</b>—Pub. L. 106–65 amended section catchline generally. Prior to amendment, catchline read as follows: “Science, mathematics, and engineering education”.
+<b>1999</b>—Pub. L. 106–65 amended section catchline generally. Prior to amendment, catchline read as follows: "Science, mathematics, and engineering education".
 
 #### Science, Mathematics, and Research for Transformation (SMART) Defense Scholarship Pilot Program
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “national of the United States” has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
+Definition.—In this section, "national of the United States" has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
 (b)
 

@@ -2,11 +2,11 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) the term “Bands” means the Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians;
+&emsp;(1) the term "Bands" means the Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians;
 
-&emsp;(2) the term “member” means those individuals enrolled in the Bands pursuant to section 1300k–5 of this title; and
+&emsp;(2) the term "member" means those individuals enrolled in the Bands pursuant to section 1300k–5 of this title; and
 
-&emsp;(3) the term “Secretary” means the Secretary of the Interior.
+&emsp;(3) the term "Secretary" means the Secretary of the Interior.
 
 (Pub. L. 103–324, §3, Sept. 21, 1994, 108 Stat. 2157.)
 

@@ -22,7 +22,7 @@ The Secretary shall approve any application or any modification thereof, submitt
 
 &emsp;(4) gives assurances that such agency has or will employ an adequate and competent staff of trained inspectors qualified under the laws of such State to make coal or other mine inspections within such State;
 
-&emsp;(5) provides for the extension and improvement of the State program for the improvement of coal or other mine health and safety in the State, and provides that no advance notice of an inspection will be provided anyone;
+&emsp;(5) provides for the extension and improvement of the State program for the improvement of coal or other mine health and safetyin the State, and provides that no advance notice of an inspection will be provided anyone;
 
 &emsp;(6) provides such fiscal control and fund accounting procedures as may be appropriate to assure proper disbursement and accounting of grants made to the States under this section;
 
@@ -60,15 +60,15 @@ There is authorized to be appropriated $3,000,000 for fiscal year 1970, and $10,
 
 #### Amendments
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–164, §303(c)(1), inserted reference to mines and mining other than coal mines and coal mining and substituted “Secretary of the Interior” for “Secretary of Labor”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–164, §303(c)(1), inserted reference to mines and mining other than coal mines and coal mining and substituted "Secretary of the Interior" for "Secretary of Labor".
 
 Subsecs. (b), (f), (g). Pub. L. 95–164, §303(c)(1), inserted references to mines and mining other than coal mines and coal mining.
 
-Subsec. (h). Pub. L. 95–164, §303(c)(2), substituted “$10,000,000” for “$5,000,000” and inserted requirement that no less than one-half of sums appropriated for grants be allocated to coal-producing States.
+Subsec. (h). Pub. L. 95–164, §303(c)(2), substituted "$10,000,000" for "$5,000,000" and inserted requirement that no less than one-half of sums appropriated for grants be allocated to coal-producing States.
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1977 Amendment
 

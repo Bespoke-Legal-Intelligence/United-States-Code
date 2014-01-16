@@ -26,7 +26,7 @@ Each annual marketing and promotion plan shall be directed to—
 
 #### (c) Prohibition on certain references
 
-Consumer education and other marketing and promotion activities of the National Councilshall contain no reference to a private brand or trade name and shall avoid use of deceptive acts or practices in behalf of fish or fish products or with respect to the quality, value, or use of any competing product or group of products. In addition, the National Council may not promote the consumption or purchase of a single or group of similar fish species (such as members of the same genera); except that the Council may use illustrations of a single or group of similar fish species in the course of promoting the generic consumption of fish and fish products.
+Consumer education and other marketing and promotion activities of the National Council shall contain no reference to a private brand or trade name and shall avoid use of deceptive acts or practices in behalf of fish or fish products or with respect to the quality, value, or use of any competing product or group of products. In addition, the National Council may not promote the consumption or purchase of a single or group of similar fish species (such as members of the same genera); except that the Council may use illustrations of a single or group of similar fish species in the course of promoting the generic consumption of fish and fish products.
 
 #### (d) Executive director
 
@@ -52,9 +52,9 @@ Senior Executive Service, referred to in subsec. (d), see section 5382 of Title 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (g). Pub. L. 101–627 substituted “December 31, 1991” for “October 1, 1990”.
+<b>1990</b>—Subsec. (g). Pub. L. 101–627 substituted "December 31, 1991" for "October 1, 1990".
 
 #### Continuity of Council Functions, Contracts, and Personnel
 
-Pub. L. 101–627, title VII, §705, Nov. 28, 1990, 104 Stat. 4464, provided that: “All current functions, contracts in force, and existing personnel of the National Fish and Seafood Promotional Council as of September 30, 1990, are reauthorized and extended, and shall continue as if uninterrupted, notwithstanding section 206(g) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4005(g)) as in effect on September 30, 1990.”
+Pub. L. 101–627, title VII, §705, Nov. 28, 1990, 104 Stat. 4464, provided that: "All current functions, contracts in force, and existing personnel of the National Fish and Seafood Promotional Council as of September 30, 1990, are reauthorized and extended, and shall continue as if uninterrupted, notwithstanding section 206(g) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4005(g)) as in effect on September 30, 1990."
 

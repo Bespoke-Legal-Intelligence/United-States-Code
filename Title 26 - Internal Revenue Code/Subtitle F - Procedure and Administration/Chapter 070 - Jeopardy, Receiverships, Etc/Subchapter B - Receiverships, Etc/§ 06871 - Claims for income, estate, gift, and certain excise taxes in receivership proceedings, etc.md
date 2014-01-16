@@ -26,19 +26,19 @@ In the case of a tax imposed by subtitle A or B or by chapter 41, 42, 43, or 44�
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–239 substituted “or 44” for “44, or 45” in subsecs. (a), (b), and (c).
+<b>1989</b>—Pub. L. 101–239 substituted "or 44" for "44, or 45" in subsecs. (a), (b), and (c).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–589 amended subsec. (a) generally, substituting reference to appointment of a receiver for the taxpayer in any receivership proceedings, for reference to adjudication of bankruptcy of a taxpayer in a liquidating proceeding, the filing or the approval of a petition of or the approval of a petition against any taxpayer in any other bankruptcy proceeding, or the appointment of a receiver for any taxpayer in any receivership proceeding, and inserted reference to chapters 41, 42, 43, 44, and 45.
 
 Subsecs. (b), (c). Pub. L. 96–589 added subsec. (b), redesignated former subsec. (b) as (c), inserted reference to chapters 41, 42, 43, 44, and 45, and struck out reference to bankruptcy proceedings.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Pub. L. 94–455, §1906(c)(1), struck out “or Territory” after “any State”.
+Pub. L. 94–455, §1906(c)(1), struck out "or Territory" after "any State".
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–866, §88(a), substituted “the filing or (where approval is required by the Bankruptcy Act) the approval of a petition of, or the approval of a petition against, any taxpayer” for “the approval of a petition of, or against, any taxpayer”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–866, §88(a), substituted "the filing or (where approval is required by the Bankruptcy Act) the approval of a petition of, or the approval of a petition against, any taxpayer" for "the approval of a petition of, or against, any taxpayer".
 
-Subsec. (b). Pub. L. 85–866, §88(b), substituted “the filing or (where approval is required by the Bankruptcy Act) the approval of a petition of, or the approval of a petition against, any taxpayer” for “approval of the petition”.
+Subsec. (b). Pub. L. 85–866, §88(b), substituted "the filing or (where approval is required by the Bankruptcy Act) the approval of a petition of, or the approval of a petition against, any taxpayer" for "approval of the petition".
 
 #### Effective Date of 1980 Amendment
 

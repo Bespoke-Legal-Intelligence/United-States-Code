@@ -34,7 +34,7 @@ If—
 
 #### (B) Depreciable property
 
-&emsp;&emsp;For purposes of this section, the term “depreciable property” means any property of a character subject to the allowance for depreciation, but only if a basis reduction under subsection (a) will reduce the amount of depreciation or amortization which otherwise would be allowable for the period immediately following such reduction.
+&emsp;&emsp;For purposes of this section, the term "depreciable property" means any property of a character subject to the allowance for depreciation, but only if a basis reduction under subsection (a) will reduce the amount of depreciation or amortization which otherwise would be allowable for the period immediately following such reduction.
 
 #### (C) Special rule for partnership interests
 
@@ -44,7 +44,7 @@ If—
 
 &emsp;&emsp;For purposes of this section, if—
 
-&emsp;&emsp;&emsp;(i) a corporation holds stock in another corporation (hereinafter in this subparagraph referred to as the “subsidiary”), and
+&emsp;&emsp;&emsp;(i) a corporation holds stock in another corporation (hereinafter in this subparagraph referred to as the "subsidiary"), and
 
 &emsp;&emsp;&emsp;(ii) such corporations are members of the same affiliated group which file a consolidated return under section 1501 for the taxable year in which the discharge occurs,
 
@@ -54,7 +54,7 @@ If—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;At the election of the taxpayer, for purposes of this section, the term “depreciable property” includes any real property which is described in section 1221(a)(1).
+&emsp;&emsp;&emsp;At the election of the taxpayer, for purposes of this section, the term "depreciable property" includes any real property which is described in section 1221(a)(1).
 
 #### (ii) Election
 
@@ -88,7 +88,7 @@ If—
 
 #### (B) Qualified property
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualified property” has the meaning given to such term by section 108(g)(3)(C).
+&emsp;&emsp;For purposes of this paragraph, the term "qualified property" has the meaning given to such term by section 108(g)(3)(C).
 
 #### (C) Certain rules made applicable
 
@@ -122,37 +122,37 @@ If—
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b)(3)(E)(i). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
+<b>1999</b>—Subsec. (b)(3)(E)(i). Pub. L. 106–170 substituted "1221(a)(1)" for "1221(1)".
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–206 substituted “(b)(2)(E)” for “(b)(2)(D)”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–206 substituted "(b)(2)(E)" for "(b)(2)(D)".
 
-<b>1996</b>—Subsec. (b)(4)(A). Pub. L. 104–188 substituted “subsection (b)(2)(E)” for “subsection (b)(2)(D)”.
+<b>1996</b>—Subsec. (b)(4)(A). Pub. L. 104–188 substituted "subsection (b)(2)(E)" for "subsection (b)(2)(D)".
 
-<b>1993</b>—Subsec. (a)(2). Pub. L. 103–66, §13150(c)(6), substituted “, (b)(5), or (c)(1)” for “or (b)(5)”.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–66, §13150(c)(6), substituted ", (b)(5), or (c)(1)" for "or (b)(5)".
 
-Subsec. (b)(3)(A). Pub. L. 103–66, §13150(c)(7), inserted “or (c)(1)” after “subsection (b)(5)”.
+Subsec. (b)(3)(A). Pub. L. 103–66, §13150(c)(7), inserted "or (c)(1)" after "subsection (b)(5)".
 
 Subsec. (b)(3)(F). Pub. L. 103–66, §13150(c)(8), added subpar. (F).
 
-<b>1990</b>—Subsec. (b)(4)(C). Pub. L. 101–508 substituted “subparagraphs” for “subparagraph”.
+<b>1990</b>—Subsec. (b)(4)(C). Pub. L. 101–508 substituted "subparagraphs" for "subparagraph".
 
-<b>1988</b>—Subsec. (b)(4). Pub. L. 100–647 substituted “Special rules for” for “Ordering rule in the case of” in heading, and amended text generally. Prior to amendment, text read as follows: “Any amount which is excluded from gross income under section 108(a) by reason of the discharge of qualified farm indebtedness (within the meaning of section 108(g)(2)) and which under subsection (b) of section 108 is to be applied to reduce basis shall be applied—
+<b>1988</b>—Subsec. (b)(4). Pub. L. 100–647 substituted "Special rules for" for "Ordering rule in the case of" in heading, and amended text generally. Prior to amendment, text read as follows: "Any amount which is excluded from gross income under section 108(a) by reason of the discharge of qualified farm indebtedness (within the meaning of section 108(g)(2)) and which under subsection (b) of section 108 is to be applied to reduce basis shall be applied—
 
-&emsp;“(A) first to reduce the tax attributes described in section 108(b)(2) (other than subparagraph (D) thereof),
+&emsp;"(A) first to reduce the tax attributes described in section 108(b)(2) (other than subparagraph (D) thereof),
 
-&emsp;“(B) then to reduce basis of property other than property described in subparagraph (C), and
+&emsp;"(B) then to reduce basis of property other than property described in subparagraph (C), and
 
-&emsp;“(C) then to reduce the basis of land used or held for use in the trade or business of farming.”
+&emsp;"(C) then to reduce the basis of land used or held for use in the trade or business of farming."
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §822(b)(4), substituted “or (b)(5)” for “, (b)(5), or (c)(1)(A)”.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §822(b)(4), substituted "or (b)(5)" for ", (b)(5), or (c)(1)(A)".
 
-Subsec. (b)(3)(A). Pub. L. 99–514, §822(b)(5), struck out “or (c)(1)(A)” after “subsection (b)(5)”.
+Subsec. (b)(3)(A). Pub. L. 99–514, §822(b)(5), struck out "or (c)(1)(A)" after "subsection (b)(5)".
 
 Subsec. (b)(4). Pub. L. 99–514, §405(b), added par. (4).
 
 <b>1980</b>—Pub. L. 96–589 generally revised and expanded the section to specify the amount of reduction of basis of property under different subsections of section 108 of this title and the property to which such reduction is applicable, and provided for recapture of reductions for purposes of gains from depreciable property.
 
-<b>1976</b>—Pub. L. 94–455, §§1906(b)(13)(A), 1951(c)(1), substituted “section 108” for “section 108(a)” in three places and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455, §§1906(b)(13)(A), 1951(c)(1), substituted "section 108" for "section 108(a)" in three places and struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 1999 Amendment
 

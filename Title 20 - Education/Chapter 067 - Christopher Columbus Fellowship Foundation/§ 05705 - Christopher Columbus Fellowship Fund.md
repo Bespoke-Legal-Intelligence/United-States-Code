@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established in the Treasury a fund to be known as the Christopher Columbus Scholarship <sup>1</sup> Fund (hereafter in this chapter referred to as the “fund”), which shall consist of—
+There is established in the Treasury a fund to be known as the Christopher Columbus Scholarship <sup>1</sup> Fund (hereafter in this chapter referred to as the "fund"), which shall consist of—
 
 &emsp;(1) amounts deposited under subsection (d) of this section;
 
@@ -64,5 +64,5 @@ The Christopher Columbus Quincentenary Coin Act, referred to in subsec. (a)(5), 
 
 <b>2009</b>—Subsec. (a)(4), (5). Pub. L. 111–8 added par. (4) and redesignated former par. (4) as (5).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Fellowship”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Fellowship".</i>
 

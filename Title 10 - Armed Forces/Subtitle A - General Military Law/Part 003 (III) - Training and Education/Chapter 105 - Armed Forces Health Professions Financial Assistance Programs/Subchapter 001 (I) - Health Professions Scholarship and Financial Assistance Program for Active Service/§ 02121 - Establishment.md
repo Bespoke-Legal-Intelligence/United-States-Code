@@ -1,6 +1,6 @@
 ### §2121. Establishment
 
-(a)(1) For the purpose of obtaining adequate numbers of commissioned officers on active duty who are qualified (A) in the various health professions or (B) as a health professional with specific skills to assist in providing mental health care to members of the armed forces, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, may establish and maintain a health professions scholarship and financial assistance program for his department.
+(a)(1) For the purpose of obtaining adequate numbers of commissioned officers on active duty who are qualified (A) in the various health professions or (B) as a health professional with specific skills to assist in providing mental health care to members of the armed forces, the Secretary of each military department, under regulations prescribed by the Secretary of Defense,may establish and maintain a health professions scholarship and financial assistance program for his department.
 
 (2) Under the program of a military department, the Secretary of that military department shall allocate a portion of the total number of scholarships to members of the program described in paragraph (1)(B) for the purpose of assisting such members to pursue a degree at the masters and doctoral level in any of the following disciplines:
 
@@ -14,7 +14,7 @@
 
 (b) The program shall consist of courses of study and specialized training in designated health professions, with obligatory periods of military training.
 
-(c)(1) Persons participating in the program shall be commissioned officers in reserve components of the armed forces. Members pursuing a course of study shall serve on active duty in pay grade O–1 with full pay and allowances of that grade for a period of 45 days during each year of participation in the program. Members pursuingspecialized training shall serve on active duty in a pay grade commensurate with their educational level, as determined by appointment under section 12207 of this title, with full pay and allowances of that grade for a period of 14 days during each year of participation in the program. They shall be detailed as students at accredited civilian institutions, located in the United States or Puerto Rico, for the purpose of acquiring knowledge or training in a designated health profession. In addition, members of the program shall, under regulations prescribed by the Secretary of Defense, receive military and professional training and instruction.
+(c)(1) Persons participating in the program shall be commissioned officers in reserve components of the armed forces. Members pursuing a course of study shall serve on active duty in pay grade O–1 with full pay and allowances of that grade for a period of 45 days during each year of participation in the program. Members pursuing specialized training shall serve on active duty in a pay grade commensurate with their educational level, as determined by appointment under section 12207 of this title, with full pay and allowances of that grade for a period of 14 days during each year of participation in the program. They shall be detailed as students at accredited civilian institutions, located in the United States or Puerto Rico, for the purpose of acquiring knowledge or training in a designated health profession. In addition, members of the program shall, under regulations prescribed by the Secretary of Defense, receive military and professional training and instruction.
 
 (2) If a member of the uniformed services selected to participate in the program as a medical student has prior active service in a pay grade and with years of service credited for pay that would entitle the member, if the member remained in the former grade, to a rate of basic pay in excess of the rate of basic pay for regular officers in the grade of second lieutenant or ensign, the member shall be paid basic pay based on the former grade and years of service credited for pay. The amount of such basic pay for the member shall be increased on January 1 of each year by the percentage by which basic pay is increased on average on that date for that year, and the member shall continue to receive basic pay based on the former grade and years of service until the date, whether occurring before or after the conclusion of such participation, on which the basic pay for the member in the member's actual grade and years of service credited for pay exceeds the amount of basic pay to which the member is entitled based on the member's former grade and years of service.
 
@@ -28,23 +28,23 @@
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–84 designated existing provisions as par. (1), substituted “(A) in the various health professions or (B) as a health professional with specific skills to assist in providing mental health care to members of the armed forces” for “in the various health professions”, and added par. (2).
+<b>2009</b>—Subsec. (a). Pub. L. 111–84 designated existing provisions as par. (1), substituted "(A) in the various health professions or (B) as a health professional with specific skills to assist in providing mental health care to members of the armed forces" for "in the various health professions", and added par. (2).
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–181 designated existing provisions as par. (1) and added par. (2).
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–364, in introductory provisions, substituted “at a monthly rate established by the Secretary of Defense, but not to exceed a total of $30,000 per year” for “at the rate of $579 per month” and “The maximum annual amount of the stipend” for “That rate”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–364, in introductory provisions, substituted "at a monthly rate established by the Secretary of Defense, but not to exceed a total of $30,000 per year" for "at the rate of $579 per month" and "The maximum annual amount of the stipend" for "That rate".
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–106 substituted “section 12207” for “section 3353, 5600, or 8353”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–106 substituted "section 12207" for "section 3353, 5600, or 8353".
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–510 substituted “section” for “sections” in third sentence.
+<b>1990</b>—Subsec. (c). Pub. L. 101–510 substituted "section" for "sections" in third sentence.
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–189, §725(b)(1), substituted “scholarship and financial assistance program” for “scholarship program”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §725(b)(1), substituted "scholarship and financial assistance program" for "scholarship program".
 
-Subsec. (b). Pub. L. 101–189, §725(b)(2), substituted “study and specialized training” for “study”.
+Subsec. (b). Pub. L. 101–189, §725(b)(2), substituted "study and specialized training" for "study".
 
-Subsec. (c). Pub. L. 101–189, §725(b)(3), substituted “pursuing a course of study” for “of the program” and inserted after second sentence “Members pursuing specialized training shall serve on active duty in a pay grade commensurate with their educational level, as determined by appointment under sections 3353, 5600, or 8353 of this title, with full pay and allowances of that grade for a period of 14 days during each year of participation in the program.”
+Subsec. (c). Pub. L. 101–189, §725(b)(3), substituted "pursuing a course of study" for "of the program" and inserted after second sentence "Members pursuing specialized training shall serve on active duty in a pay grade commensurate with their educational level, as determined by appointment under sections 3353, 5600, or 8353 of this title, with full pay and allowances of that grade for a period of 14 days during each year of participation in the program."
 
-<b>1983</b>—Subsec. (d). Pub. L. 98–94 amended subsec. (d) generally, substituting “a stipend at the rate of $579 per month” for “a stipend at the rate in effect under paragraph (1)(B) of section 751(g) of the Public Health Service Act (42 U.S.C. 294t(g)) for students in the National Health Service Corps Scholarship program” and inserting provision relating to an annual increase in the rate by the Secretary of Defense effective on July 1 of each year.
+<b>1983</b>—Subsec. (d). Pub. L. 98–94 amended subsec. (d) generally, substituting "a stipend at the rate of $579 per month" for "a stipend at the rate in effect under paragraph (1)(B) of section 751(g) of the Public Health Service Act (42 U.S.C. 294t(g)) for students in the National Health Service Corps Scholarship program" and inserting provision relating to an annual increase in the rate by the Secretary of Defense effective on July 1 of each year.
 
 <b>1979</b>—Subsec. (d). Pub. L. 96–107 substituted provisions relating to entitlement to a stipend at the rate in effect for students in the National Health Services Corps Scholarship program, for provisions authorizing a stipend at the rate of $400 per month.
 
@@ -52,13 +52,13 @@ Subsec. (c). Pub. L. 101–189, §725(b)(3), substituted “pursuing a course of
 
 Pub. L. 109–364, div. A, title V, §538(d), Oct. 17, 2006, 120 Stat. 2210, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section and section 2127 of this title\] shall take effect on October 1, 2006.
 
-“(2)
+"(2)
 
-Prohibition on adjustments.—The adjustments required by the second sentence of subsection (d) of section 2121 of title 10, United States Code, and the second sentence of subsection (e) of section 2127 of such title to be made in 2007 shall not be made.”
+Prohibition on adjustments.—The adjustments required by the second sentence of subsection (d) of section 2121 of title 10, United States Code, and the second sentence of subsection (e) of section 2127 of such title to be made in 2007 shall not be made."
 
 #### Effective Date of 1996 Amendment
 
@@ -66,15 +66,15 @@ Pub. L. 104–106, div. A, title XV, §1501(c)(22), Feb. 10, 1996, 110 Stat. 499
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 98–94, title IX, §935(b), Sept. 24, 1983, 97 Stat. 652, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title IX, §935(b), Sept. 24, 1983, 97 Stat. 652, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1983."
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–107, title VIII, §804(c), Nov. 9, 1979, 93 Stat. 812, provided that: “The amendments made by this section \[amending this section and section 313 of Title 37, Pay and Allowances of the Uniformed Services\] shall take effect on October 1, 1979.”
+Pub. L. 96–107, title VIII, §804(c), Nov. 9, 1979, 93 Stat. 812, provided that: "The amendments made by this section \[amending this section and section 313 of Title 37, Pay and Allowances of the Uniformed Services\] shall take effect on October 1, 1979."
 
 #### Members of Reserve Components; Specialized Training Assistance in the Health Professions
 
 Pub. L. 99–145, title VI, §672(a)–(h), (j), Nov. 8, 1985, 99 Stat. 663, 664, effective Oct. 1, 1985, related to establishment and maintenance of program to provide financial assistance to persons engaged in specialized training in health professions who agree to incur Selective Reserve obligation of 3 years for each year for which financial assistance is provided, prior to repeal by Pub. L. 100–180, div. A, title VII, §711(c)(1), (e)(1), Dec. 4, 1987, 101 Stat. 1111, effective Dec. 4, 1987, subject to a savings provision, see below.
 
-Pub. L. 100–180, div. A, title VII, §711(c)(2), Dec. 4, 1987, 101 Stat. 1111, provided that: “The repeal of section 672 of the Department of Defense Authorization Act, 1986 \[section 672 of Pub. L. 99–145, see above\], by paragraph (1) does not affect an agreement entered into under that section before such repeal, and the provisions of such section as in effect before such repeal shall continue to apply with respect to such agreement.”
+Pub. L. 100–180, div. A, title VII, §711(c)(2), Dec. 4, 1987, 101 Stat. 1111, provided that: "The repeal of section 672 of the Department of Defense Authorization Act, 1986 \[section 672 of Pub. L. 99–145, see above\], by paragraph (1) does not affect an agreement entered into under that section before such repeal, and the provisions of such section as in effect before such repeal shall continue to apply with respect to such agreement."
 

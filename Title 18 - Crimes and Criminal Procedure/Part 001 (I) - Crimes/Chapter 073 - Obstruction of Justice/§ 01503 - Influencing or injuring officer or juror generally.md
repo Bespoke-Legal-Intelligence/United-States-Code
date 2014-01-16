@@ -6,7 +6,7 @@
 
 &emsp;(1) in the case of a killing, the punishment provided in sections 1111 and 1112;
 
-&emsp;(2) in the case of an attempted killing, or a case in which the offense was committed against a petit juror and in which a class A or B felony was charged, imprisonment for not more than 20 years, a fine under this title, or both; and
+&emsp;(2) in the case of an attempted killing, or a case in which the offense was committedagainst a petit juror and in which a class A or B felony was charged, imprisonment for not more than 20 years, a fine under this title, or both; and
 
 &emsp;(3) in any other case, imprisonment for not more than 10 years, a fine under this title, or both.
 
@@ -16,21 +16,21 @@
 
 Based on title 18, U.S.C., 1940 ed., §241 (Mar. 4, 1909, ch. 321, §135, 35 Stat. 1113; June 8, 1945, ch. 178, §1, 59 Stat. 234).
 
-The phrase “other committing magistrate” was substituted for “officer acting as such commissioner” in order to clarify meaning.
+The phrase "other committing magistrate" was substituted for "officer acting as such commissioner" in order to clarify meaning.
 
 Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–214 inserted at end “If the offense under this section occurs in connection with a trial of a criminal case, and the act in violation of this section involves the threat of physical force or physical force, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–214 inserted at end "If the offense under this section occurs in connection with a trial of a criminal case, and the act in violation of this section involves the threat of physical force or physical force, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case."
 
-<b>1994</b>—Pub. L. 103–322, §330016(1)(K), which directed the substitution of “fined under this title” for “fined not more than $5,000”, could not be executed because the words “fined not more than $5,000” did not appear in text subsequent to amendment by Pub. L. 103–322, §60016. See below.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(K), which directed the substitution of "fined under this title" for "fined not more than $5,000", could not be executed because the words "fined not more than $5,000" did not appear in text subsequent to amendment by Pub. L. 103–322, §60016. See below.
 
-Pub. L. 103–322, §60016, designated existing provisions as subsec. (a), substituted “magistrate judge” for “commissioner” in two places and “punished as provided in subsection (b)” for “fined not more than $5,000 or imprisoned not more than five years, or both”, and added subsec. (b).
+Pub. L. 103–322, §60016, designated existing provisions as subsec. (a), substituted "magistrate judge" for "commissioner" in two places and "punished as provided in subsection (b)" for "fined not more than $5,000 or imprisoned not more than five years, or both", and added subsec. (b).
 
-<b>1982</b>—Pub. L. 97–291, §4(c)(1), substituted “or juror” for “, juror or witness” after “officer” in section catchline.
+<b>1982</b>—Pub. L. 97–291, §4(c)(1), substituted "or juror" for ", juror or witness" after "officer" in section catchline.
 
-Pub. L. 97–291, §4(c)(2), (3), substituted in text “grand” for “witness, in any court of the United States or before any United States commissioner or other committing magistrate, or any grand” after “or impede any”, and struck out “injures any party or witness in his person or property on account of his attending or having attended such court or examination before such officer, commissioner, or other committing magistrate, or on account of his testifying or having testified to any matter pending therein, or” after “discharge of his duty, or”.
+Pub. L. 97–291, §4(c)(2), (3), substituted in text "grand" for "witness, in any court of the United States or before any United States commissioner or other committing magistrate, or any grand" after "or impede any", and struck out "injures any party or witness in his person or property on account of his attending or having attended such court or examination before such officer, commissioner, or other committing magistrate, or on account of his testifying or having testified to any matter pending therein, or" after "discharge of his duty, or".
 
 #### Effective Date of 1982 Amendment
 

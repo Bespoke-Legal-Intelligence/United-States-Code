@@ -36,11 +36,11 @@ Chapter effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set ou
 
 #### Short Title
 
-Pub. L. 101–501, title IX, §901, Nov. 3, 1990, 104 Stat. 1262, provided that: “This title \[enacting this chapter\] may be cited as the ‘Claude Pepper Young Americans Act of 1990’.”
+Pub. L. 101–501, title IX, §901, Nov. 3, 1990, 104 Stat. 1262, provided that: "This title \[enacting this chapter\] may be cited as the 'Claude Pepper Young Americans Act of 1990'."
 
-Pub. L. 101–501, title IX, §955, Nov. 3, 1990, 104 Stat. 1278, provided that: “This chapter \[chapter 3 (§§955–960) of subtitle A of title IX of Pub. L. 101–501, enacting part C of subchapter I of this chapter\] may be cited as the ‘Family Resource Act’.”
+Pub. L. 101–501, title IX, §955, Nov. 3, 1990, 104 Stat. 1278, provided that: "This chapter \[chapter 3 (§§955–960) of subtitle A of title IX of Pub. L. 101–501, enacting part C of subchapter I of this chapter\] may be cited as the 'Family Resource Act'."
 
-Pub. L. 101–501, title IX, §981, Nov. 3, 1990, 104 Stat. 1280, provided that: “This subtitle \[subtitle B (§§981–988) of title IX of Pub. L. 101–501, enacting subchapter II of this chapter\] may be cited as the ‘1993 White House Conference on Children, Youth, and Families’.”
+Pub. L. 101–501, title IX, §981, Nov. 3, 1990, 104 Stat. 1280, provided that: "This subtitle \[subtitle B (§§981–988) of title IX of Pub. L. 101–501, enacting subchapter II of this chapter\] may be cited as the '1993 White House Conference on Children, Youth, and Families'."
 
 #### Commission on Child and Family Welfare
 

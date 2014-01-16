@@ -18,7 +18,7 @@ Entry and Inspection.—To enforce this chapter, an officer or employee designat
 
 (c)
 
-Certification of Compliance.—(1) A manufacturer of a motor vehicle subject to the standard, and a manufacturer of a major replacement part subject to the standard, shall provide at the time of delivery of the vehicle or part a certification that the vehicle or part conforms to the applicable motor vehicle theft prevention standard. The certification shall accompany the vehicle or part until its delivery to the first purchaser. The Secretary by regulation may prescribe the type and form of the certification.
+Certification of Compliance.—(1) A manufacturer of a motor vehicle subject to thestandard, and a manufacturer of a major replacement part subject to the standard, shall provide at the time of delivery of the vehicle or part a certification that the vehicle or part conforms to the applicable motor vehicle theft prevention standard. The certification shall accompany the vehicle or part until its delivery to the first purchaser. The Secretary by regulation may prescribe the type and form of the certification.
 
 (2) This subsection does not apply to a motor vehicle or major replacement part that is—
 
@@ -66,11 +66,11 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §606; added Oct. 25, 1984, Pub. 
 
 15:2026(d).
 
-In subsection (a), before clause (1), the words “is complying” are substituted for “has acted or is acting in compliance” and “determining whether such manufacturer has acted or is acting in compliance” to eliminate unnecessary words. The word “reasonably” is omitted as surplus. In clause (1), the word “keep” is substituted for “establish and maintain” for consistency in the revised title and to eliminate unnecessary words. In clause (4), the words “upon request”, “duly”, and “such manufacturer shall make available all such items and information in accordance with such reasonable rules as the Secretary may prescribe” are omitted as surplus.
+In subsection (a), before clause (1), the words "is complying" are substituted for "has acted or is acting in compliance" and "determining whether such manufacturer has acted or is acting in compliance" to eliminate unnecessary words. The word "reasonably" is omitted as surplus. In clause (1), the word "keep" is substituted for "establish and maintain" for consistency in the revised title and to eliminate unnecessary words. In clause (4), the words "upon request", "duly", and "such manufacturer shall make available all such items and information in accordance with such reasonable rules as the Secretary may prescribe" are omitted as surplus.
 
-In subsection (b), the words “duly” and “enter and” are omitted as surplus.
+In subsection (b), the words "duly" and "enter and" are omitted as surplus.
 
-In subsection (c)(2)(B), the words “or tagged” and “if any” are omitted as surplus.
+In subsection (c)(2)(B), the words "or tagged" and "if any" are omitted as surplus.
 
 Subsection (d) is substituted for 15:2026(d) for clarity.
 

@@ -18,7 +18,7 @@ Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall e
 
 #### (1) Establishment
 
-&emsp;The Nuclear Regulatory Commission shall establish a certification process to ensure thatthe Corporation complies with standards established under subsection (a) of this section.
+&emsp;The Nuclear Regulatory Commission shall establish a certification process to ensure that the Corporation complies with standards established under subsection (a) of this section.
 
 #### (2) Periodic application for certificate of compliance
 
@@ -50,9 +50,9 @@ The gaseous diffusion uranium enrichment facilities of the Department may not be
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–362 substituted “Not later than the date on which a certificate of compliance is issued under subsection (c) of this section, the Nuclear” for “The Nuclear” and struck out “at least annually” after “report”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–362 substituted "Not later than the date on which a certificate of compliance is issued under subsection (c) of this section, the Nuclear" for "The Nuclear" and struck out "at least annually" after "report".
 
-<b>1996</b>—Subsec. (c)(2). Pub. L. 104–134 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The Corporation shall apply at least annually to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1). The Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, shall review any such application and any determination made under subsection (b)(2) of this section shall be based on the results of any such review.”
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–134 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "The Corporation shall apply at least annually to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1). The Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, shall review any such application and any determination made under subsection (b)(2) of this section shall be based on the results of any such review."
 
 #### References to United States Enrichment Corporation
 

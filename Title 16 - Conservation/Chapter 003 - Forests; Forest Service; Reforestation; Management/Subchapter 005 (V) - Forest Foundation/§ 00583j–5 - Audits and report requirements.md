@@ -12,7 +12,7 @@ The Foundation shall,<sup>1</sup> transmit each year to Congress a report of its
 
 #### Codification
 
-In subsec. (a), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law,’ approved August 30, 1964 (36 U.S.C. 1101 through 1103; Public Law 88–504)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+In subsec. (a), "section 10101 of title 36" substituted for "the Act entitled 'An Act for audit of accounts of private corporations established under Federal law,' approved August 30, 1964 (36 U.S.C. 1101 through 1103; Public Law 88–504)" and "a corporation in part B of subtitle II of title 36" substituted for "a private corporation established under Federal law" on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

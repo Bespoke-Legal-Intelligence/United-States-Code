@@ -42,5 +42,5 @@ June 12, 1984, Pub. L. 98–314, §§5 (words after 3d comma related to discrimi
 
 &nbsp;
 
-The words “and in conformity with the laws of the State or States in which it is incorporated” in 36:2406 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:2407 are omitted as unnecessary.
+The words "and in conformity with the laws of the State or States in which it is incorporated" in 36:2406 and "and in conformity with the laws of the State or States wherein it is incorporated" in 36:2407 are omitted as unnecessary.
 

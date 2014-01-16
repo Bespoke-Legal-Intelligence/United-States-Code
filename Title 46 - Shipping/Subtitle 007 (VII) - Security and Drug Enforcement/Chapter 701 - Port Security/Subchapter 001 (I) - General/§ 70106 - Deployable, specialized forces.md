@@ -48,41 +48,41 @@ Coordination With Other Agencies.—To the maximum extent feasible, the combined
 
 <b>2010</b>—Pub. L. 111–281 amended section generally. Prior to amendment, section related to maritime safety and security teams.
 
-<b>2006</b>—Subsec. (b)(8). Pub. L. 109–241 substituted “any other missions of the Coast Guard” for “other security missions”.
+<b>2006</b>—Subsec. (b)(8). Pub. L. 109–241 substituted "any other missions of the Coast Guard" for "other security missions".
 
 #### Coast Guard Detection Canine Team Program Expansion
 
 Pub. L. 111–281, title VIII, §805, Oct. 15, 2010, 124 Stat. 2991, provided that:
 
-“(a)
+"(a)
 
 Definitions.—For purposes of this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Canine detection team.—The term ‘detection canine team’ means a canine and a canine handler that are trained to detect narcotics or explosives, or other threats as defined by the Secretary.
+Canine detection team.—The term 'detection canine team' means a canine and a canine handler that are trained to detect narcotics or explosives, or other threats as defined by the Secretary.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Secretary.—The term ‘Secretary’ means the Secretary of Homeland Security.
+Secretary.—The term 'Secretary' means the Secretary of Homeland Security.
 
-“(b)
+"(b)
 
 Detection Canine Teams.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Increased capacity.—Not later than 1 year after the date of enactment of this Act \[Oct. 15, 2010\], and subject to the availability of appropriations, the Secretary shall—
 
-&emsp;&emsp;“(A) begin to increase the number of detection canine teams certified by the Coast Guard for the purposes of maritime-related security by no fewer than 10 canine teams annually through fiscal year 2012; and
+&emsp;&emsp;"(A) begin to increase the number of detection canine teams certified by the Coast Guard for the purposes of maritime-related security by no fewer than 10 canine teams annually through fiscal year 2012; and
 
-&emsp;&emsp;“(B) encourage owners and operators of port facilities, passenger cruise liners, oceangoing cargo vessels, and other vessels identified by the Secretary to strengthen security through the use of highly trained detection canine teams.
+&emsp;&emsp;"(B) encourage owners and operators of port facilities, passenger cruise liners, oceangoing cargo vessels, and other vessels identified by the Secretary to strengthen security through the use of highly trained detection canine teams.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Canine procurement.—The Secretary, acting through the Commandant of the Coast Guard, shall procure detection canine teams as efficiently as possible, including, to the greatest extent possible, through increased domestic breeding, while meeting the performance needs and criteria established by the Commandant.
 
-“(c)
+"(c)
 
-Deployment.—The Secretary shall prioritize deployment of the additional canine teams to ports based on risk, consistent with the Security and Accountability For Every Port Act of 2006 (Public Law 109–347) \[see Tables for classification\].”
+Deployment.—The Secretary shall prioritize deployment of the additional canine teams to ports based on risk, consistent with the Security and Accountability For Every Port Act of 2006 (Public Law 109–347) \[see Tables for classification\]."
 

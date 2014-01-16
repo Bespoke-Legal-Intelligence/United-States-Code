@@ -2,7 +2,7 @@
 
 #### (a) Establishment and administration
 
-There is hereby established in the United States Treasury an account to be known as the Mashantucket Pequot Settlement Fund (hereinafter referred to in this section as the “Fund”). The Fund shall be held in trust by the Secretary for the benefit of the Tribe and administered in accordance with this subchapter.
+There is hereby established in the United States Treasury an account to be known as the Mashantucket Pequot Settlement Fund (hereinafter referred to in this section as the "Fund"). The Fund shall be held in trust by the Secretary for the benefit of the Tribe and administered in accordance with this subchapter.
 
 #### (b) Expenditure of Fund; private settlement lands; economic development plan; acquisition of land and natural resources
 
@@ -16,7 +16,7 @@ There is hereby established in the United States Treasury an account to be known
 
 (C) The Secretary may not agree to terms which provide for the investment of the Fund in a manner inconsistent with section 162a of this title, unless the Tribe first submits a specific waiver of liability on the part of the United States for any loss which may result from such an investment.
 
-(D) The Tribe may, with the approval of the Secretary, alter the economic development plan subject to the conditions set forth in subparagraph (B).
+(D) The Tribe may, with the approval of the Secretary, alter the economic development plansubject to the conditions set forth in subparagraph (B).
 
 (4) Under no circumstances shall any part of the Fund be distributed to any member of the Tribe unless pursuant to the economic development plan approved by the Secretary under paragraph (3).
 
@@ -46,9 +46,9 @@ There is authorized to be appropriated $900,000 to be deposited in the Fund.
 
 #### Codification
 
-“Sections 3113 and 3114(a) to (d) of title 40” substituted in subsec. (b)(9) for “the first section of the Act of August 1, 1888 (25 Stat. 357, chapter 728), as amended, and the first section of the Act of February 26, 1931 (46 Stat. 1421, chapter 307)” on authority of Pub.L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Sections 3113 and 3114(a) to (d) of title 40" substituted in subsec. (b)(9) for "the first section of the Act of August 1, 1888 (25 Stat. 357, chapter 728), as amended, and the first section of the Act of February 26, 1931 (46 Stat. 1421, chapter 307)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing, which for purposes of codification was translated as "title 26" thus requiring no change in text.
 

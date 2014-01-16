@@ -2,17 +2,17 @@
 
 #### (a) Short title
 
-This section may be cited as the “Atomic Testing Liability Act”.
+This section may be cited as the "Atomic Testing Liability Act".
 
 #### (b) Federal remedies applicable; exclusiveness of remedies
 
 #### (1) Remedy
 
-&emsp;The remedy against the United States provided by sections 1346(b) and 2672 of title 28, by the Act of March 9, 1920 (46 U.S.C. App. 741–752),<sup>1</sup> or by the Act of March 3, 1925 (46 U.S.C. App. 781–790),<sup>1</sup> as appropriate, for injury, loss of property, personal injury, or death shall apply to any civil action for injury, loss of property, personal injury, or death due to exposure to radiation based on acts or omissions by a contractor in carrying out an atomic weapons testing program under a contract with the United States.
+&emsp;The remedy against the United States provided by sections 1346(b) and 2672 of title 28, or by chapter 309 or 311 of title 46, as appropriate, for injury, loss of property, personal injury, or death shall apply to any civil action for injury, loss of property, personal injury, or death due to exposure to radiation based on acts or omissions by a contractor in carrying out an atomic weapons testing program under a contract with the United States.
 
 #### (2) Exclusivity
 
-&emsp;The remedies referred to in paragraph (1) shall be exclusive of any other civil action or proceeding for the purpose of determining civilliability arising from any act or omission of the contractor without regard to when the act or omission occurred. The employees of a contractor referred to in paragraph (1) shall be considered to be employees of the Federal Government, as provided in section 2671 of title 28, for the purposes of any such civil action or proceeding; and the civil action or proceeding shall proceed in the same manner as any action against the United States filed pursuant to section 1346(b) of such title and shall be subject to the limitations and exceptions applicable to those actions.
+&emsp;The remedies referred to in paragraph (1) shall be exclusive of any other civil action or proceeding for the purpose of determining civil liability arising from any act or omission of the contractor without regard to when the act or omission occurred. The employees of a contractor referred to in paragraph (1) shall be considered to be employees of the Federal Government, as provided in section 2671 of title 28, for the purposes of any such civil action or proceeding; and the civil action or proceeding shall proceed in the same manner as any action against the United States filed pursuant to section 1346(b) of such title and shall be subject to the limitations and exceptions applicable to those actions.
 
 #### (c) Procedure
 
@@ -22,17 +22,11 @@ A contractor against whom a civil action or proceeding described in subsection (
 
 The provisions of this section shall apply to any action, within the provisions of subsection (b), which is pending on November 5, 1990, or commenced on or after such date. Notwithstanding section 2401(b) of title 28, if a civil action or proceeding to which this section applies is pending on November 5, 1990, and is dismissed because the plaintiff in such action or proceeding did not file an administrative claim as required by section 2672 of that title, the plaintiff in that action or proceeding shall have 30 days from the date of the dismissal or two years from the date upon which the claim accrued, whichever is later, to file an administrative claim, and any claim or subsequent civil action or proceeding shall thereafter be subject to the provisions of section 2401(b) of title 28.
 
-#### (e) “Contractor” defined
+#### (e) "Contractor" defined
 
-For purposes of this section, the term “contractor” includes a contractor or cost reimbursement subcontractor of any tier participating in the conduct of the United States atomic weapons testing program for the Department of Energy (or its predecessor agencies, including the Manhattan Engineer District, the Atomic Energy Commission, and the Energy Research and Development Administration). Such term also includes facilities which conduct or have conducted research concerning health effects of ionizing radiation in connection with the testing under contract with the Department of Energy (or any of its predecessor agencies).
+For purposes of this section, the term "contractor" includes a contractor or cost reimbursement subcontractor of any tier participating in the conduct of the United States atomic weapons testing program for the Department of Energy (or its predecessor agencies, including the Manhattan Engineer District, the Atomic Energy Commission, and the Energy Research and Development Administration). Such term also includes facilities which conduct or have conducted research concerning health effects of ionizing radiation in connection with the testing under contract with the Department of Energy (or any of its predecessor agencies).
 
-(Pub. L. 107–314, div. D, title XLVIII, §4803, formerly Pub. L. 101–510, div. C, title XXXI, §3141, Nov. 5, 1990, 104 Stat. 1837; renumbered Pub. L. 107–314, div. D, title XLVIII, §4803, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(4), Nov. 24, 2003, 117 Stat. 1783.)
-
-#### References in Text
-
-The Act of March 9, 1920, referred to in subsec. (b)(1), is act Mar. 9, 1920, ch. 95, 41 Stat. 525, commonly known as the “Suits in Admiralty Act”, which was classified generally to chapter 20 (§§741 to 743, 744 to 752) of former Title 46, Appendix, Shipping, and was repealed and restated in chapter 309 of Title 46, Shipping, by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 30901 of Title 46 provides that chapter 309 of Title 46 may be cited as the Suits in Admiralty Act. For disposition of sections of former Title 46, Appendix, to Title 46, see Disposition Table preceding section 101 of Title 46.
-
-The Act of March 3, 1925, referred to in subsec. (b)(1), is act Mar. 3, 1925, ch. 428, 43 Stat. 1112, commonly known as the “Public Vessels Act”, which was classified generally to chapter 22 (§§781 to 790) of former Title 46, Appendix, Shipping, and was repealed and restated in chapter 311 of Title 46, Shipping, by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 31101 of Title 46 provides that chapter 311 of Title 46 may be cited as the Public Vessels Act. For disposition of sections of former Title 46, Appendix, to Title 46, see Disposition Table preceding section 101 of Title 46.
+(Pub. L. 107–314, div. D, title XLVIII, §4803, formerly Pub. L. 101–510, div. C, title XXXI, §3141, Nov. 5, 1990, 104 Stat. 1837; renumbered Pub. L. 107–314, div. D, title XLVIII, §4803, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(4), Nov. 24, 2003, 117 Stat. 1783; Pub. L. 113–66, div. C, title XXXI, §3146(i)(2), Dec. 26, 2013, 127 Stat. 1081.)
 
 #### Codification
 
@@ -40,9 +34,9 @@ Section was formerly classified to section 2212 of Title 42, The Public Health a
 
 #### Amendments
 
+<b>2013</b>—Subsec. (b)(1). Pub. L. 113–66 substituted "or by chapter 309 or 311 of title 46" for "by the Act of March 9, 1920 (46 U.S.C. App. 741–752), or by the Act of March 3, 1925 (46 U.S.C. App. 781–790)".
+
 <b>2003</b>—Pub. L. 108–136, §3141(k)(4)(D)(i), made technical amendment to section catchline.
 
-Subsec. (d). Pub. L. 108–136, §3141(k)(4)(D)(ii), substituted “November 5, 1990,” for “the date of the enactment of this Act” in two places in the original, which for purposes of codification had been changed to “November 5, 1990,” thus requiring no change in text.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Subsec. (d). Pub. L. 108–136, §3141(k)(4)(D)(ii), substituted "November 5, 1990," for "the date of the enactment of this Act" in two places in the original, which for purposes of codification had been changed to "November 5, 1990," thus requiring no change in text.
 

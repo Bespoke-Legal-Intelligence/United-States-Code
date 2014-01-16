@@ -30,7 +30,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title, the officer shall order the alien removed from the United States without further hearing or review unless the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution.
+&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title, theofficer shall order the alien removed from the United States without further hearing or review unless the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution.
 
 #### (ii) Claims for asylum
 
@@ -84,7 +84,7 @@
 
 #### (C) Limitation on administrative review
 
-&emsp;&emsp;Except as provided in subparagraph (B)(iii)(III), a removal order entered in accordance with subparagraph (A)(i) or (B)(iii)(I) is not subject to administrative appeal, except that the Attorney General shall provide by regulation for prompt review of such an order under subparagraph (A)(i) against an alien who claims under oath, or as permitted under penalty of perjury under section 1746 of title 28, after having been warned of the penalties for falsely making such claim under such conditions, to have been lawfully admitted for permanent residence, to have been admitted as a refugee under section 1157 of this title, or to have been granted asylum under section 1158 of this title.
+&emsp;&emsp;Except as provided in subparagraph (B)(iii)(III), a removal order entered in accordance with subparagraph (A)(i) or (B)(iii)(I) is not subject to administrative appeal, except that the Attorney General shall provide by regulation for prompt review of such an order under subparagraph (A)(i) against an alien who claims under oath, or as permitted under penalty of perjury under section 1746 of title 28, after having been warned of the penalties for falsely making such claim under such conditions, tohave been lawfully admitted for permanent residence, to have been admitted as a refugee under section 1157 of this title, or to have been granted asylum under section 1158 of this title.
 
 #### (D) Limit on collateral attacks
 
@@ -184,7 +184,7 @@
 
 &emsp;(B) Any United States district court within the jurisdiction of which investigations or inquiries are being conducted by an immigration officer may, in the event of neglect or refusal to respond to a subpoena issued under this paragraph or refusal to testify before an immigration officer, issue an order requiring such persons to appear before an immigration officer, produce books, papers, and documents if demanded, and testify, and any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §235, 66 Stat. 198; Pub. L. 101–649, title VI, §603(a)(11), Nov. 29,1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §§422(a), 423(b), Apr. 24, 1996, 110 Stat. 1270, 1272; Pub. L. 104–208, div. C, title III, §§302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, 110 Stat. 3009–579, 3009–619, 3009–645; Pub. L. 110–229, title VII, §702(j)(5), May 8, 2008, 122 Stat. 867.)
+(June 27, 1952, ch. 477, title II, ch. 4, §235, 66 Stat. 198; Pub. L. 101–649, title VI, §603(a)(11), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §§422(a), 423(b), Apr. 24, 1996, 110 Stat. 1270, 1272; Pub. L. 104–208, div. C, title III, §§302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, 110 Stat. 3009–579, 3009–619, 3009–645; Pub. L. 110–229, title VII, §702(j)(5), May 8, 2008, 122 Stat. 867.)
 
 #### References in Text
 

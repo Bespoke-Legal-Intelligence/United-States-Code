@@ -36,11 +36,11 @@ Transcripts and Recordings.—(1) Except as provided by this subsection, a party
 
 &emsp;(A)
 
-Recorder.—The term “recorder” means a voice or video recorder.
+Recorder.—The term "recorder" means a voice or video recorder.
 
 &emsp;(B)
 
-Transcript.—The term “transcript” includes any written depiction of visual information obtained from a video recorder.
+Transcript.—The term "transcript" includes any written depiction of visual information obtained from a video recorder.
 
 (b)
 
@@ -82,21 +82,21 @@ Oct. 15, 1966, Pub. L. 89–670, §6(d) (1st sentence), 80 Stat. 938.
 
 Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), (c), 88 Stat. 2168, 2171.
 
-In subsection (a), the word “transcript” is substituted for “transcriptions” for clarity.
+In subsection (a), the word "transcript" is substituted for "transcriptions" for clarity.
 
-In subsection (a)(1)(A), the words “that the National Transportation Safety Board has not made available to the public” are substituted for “other than such portions made available to the public by the Board” for clarity.
+In subsection (a)(1)(A), the words "that the National Transportation Safety Board has not made available to the public" are substituted for "other than such portions made available to the public by the Board" for clarity.
 
-In subsection (a)(2)(B), the words “prepared by or under the direction of the Board” are omitted as unnecessary and for consistency with the source provisions restated in this subsection.
+In subsection (a)(2)(B), the words "prepared by or under the direction of the Board" are omitted as unnecessary and for consistency with the source provisions restated in this subsection.
 
-In subsection (b), the words “civil action” are substituted for “suit or action” in 49 App.:1441(e) and 1903(c) for consistency with the Federal Rules of Civil Procedure (28 App. U.S.C.).
+In subsection (b), the words "civil action" are substituted for "suit or action" in 49 App.:1441(e) and 1903(c) for consistency with the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–424, §5(c)(1)(A), substituted “and surface vehicle recordings and transcripts” for “voice and other material” in section catchline.
+<b>2000</b>—Pub. L. 106–424, §5(c)(1)(A), substituted "and surface vehicle recordings and transcripts" for "voice and other material" in section catchline.
 
-Subsec. (a). Pub. L. 106–424, §5(c)(1)(B), substituted “cockpit or surface vehicle recorder” for “cockpit voice recorder” wherever appearing.
+Subsec. (a). Pub. L. 106–424, §5(c)(1)(B), substituted "cockpit or surface vehicle recorder" for "cockpit voice recorder" wherever appearing.
 
-Pub. L. 106–424, §5(c)(1)(C), substituted “section 1114(c) or 1114(d)” for “section 1114(c)” wherever appearing.
+Pub. L. 106–424, §5(c)(1)(C), substituted "section 1114(c) or 1114(d)" for "section 1114(c)" wherever appearing.
 
 Subsec. (a)(6). Pub. L. 106–424, §5(c)(1)(D), which directed the amendment of this section by adding par. (6) at the end, was executed by adding par. (6) at the end of subsec. (a) to reflect the probable intent of Congress.
 

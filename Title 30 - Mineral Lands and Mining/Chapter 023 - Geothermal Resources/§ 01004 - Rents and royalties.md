@@ -84,7 +84,7 @@ Any annual rental under this section that is paid with respect to a lease before
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), if, at any time after commercial production under a lease is achieved, production ceases for anyreason, the lease shall remain in full force and effect for a period of not more than an aggregate number of 10 years beginning on the date production ceases, if, during the period in which production is ceased, the lessee pays royalties in advance at the monthly average rate at which the royalty was paid during the period of production.
+&emsp;Subject to paragraphs (2) and (3), if, at any time after commercial production under a lease is achieved, production ceases for any reason, the lease shall remain in full force and effect for a period of not more than an aggregate number of 10 years beginning on the date production ceases, if, during the period in which production is ceased, the lessee pays royalties in advance at the monthly average rate at which the royalty was paid during the period of production.
 
 #### (2) Reduction
 
@@ -142,71 +142,71 @@ Subsec. (g). Pub. L. 109–58, §233(b), added subsec. (g).
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–58, title II, §223(c), Aug. 8, 2005, 119 Stat. 662, provided that: “The schedule of fees established under the amendment made by subsection (a)(4) \[amending this section\] shall apply with respect to payments under a lease converted under this subsection that are due and owing, and have been paid, on or after July 16, 2003. This subsection shall not require the refund of royalties paid to a State under section 20 of the Geothermal Steam Act of 1970 (30 U.S.C. 1019) prior to the date of enactment of this Act \[Aug. 8, 2005\].”
+Pub. L. 109–58, title II, §223(c), Aug. 8, 2005, 119 Stat. 662, provided that: "The schedule of fees established under the amendment made by subsection (a)(4) \[amending this section\] shall apply with respect to payments under a lease converted under this subsection that are due and owing, and have been paid, on or after July 16, 2003. This subsection shall not require the refund of royalties paid to a State under section 20 of the Geothermal Steam Act of 1970 (30 U.S.C. 1019) prior to the date of enactment of this Act \[Aug. 8, 2005\]."
 
 #### Incentives and Royalties for Existing Leases
 
 Pub. L. 109–58, title II, §224(c)–(e), Aug. 8, 2005, 119 Stat. 663, 664, provided that:
 
-“(c)
+"(c)
 
 Near-Term Production Incentive for Existing Leases.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Notwithstanding section 5(a) of the Geothermal Steam Act of 1970 \[30 U.S.C. 1004(a)\], the royalty required to be paid shall be 50 percent of the amount of the royalty otherwise required, on any lease issued before the date of enactment of this Act \[Aug. 8, 2005\] that does not convert to new royalty terms under subsection (e)—
 
-&emsp;&emsp;“(A) with respect to commercial production of energy from a facility that begins such production in the 6-year period beginning on the date of enactment of this Act; or
+&emsp;&emsp;"(A) with respect to commercial production of energy from a facility that begins such production in the 6-year period beginning on the date of enactment of this Act; or
 
-&emsp;&emsp;“(B) on qualified expansion geothermal energy.
+&emsp;&emsp;"(B) on qualified expansion geothermal energy.
 
-&emsp;“(2) 4-
+&emsp;"(2) 4-
 
 year application.—Paragraph (1) applies only to new commercial production of energy from a facility in the first 4 years of such production.
 
-“(d)
+"(d)
 
-Definition of Qualified Expansion Geothermal Energy.—In this section \[amending this section and section 1019 of this title and enacting provisions set out as a note under this section\], the term ‘qualified expansion geothermal energy’ means geothermal energy produced from a generation facility for which—
+Definition of Qualified Expansion Geothermal Energy.—In this section \[amending this section and section 1019 of this title and enacting provisions set out as a note under this section\], the term 'qualified expansion geothermal energy' means geothermal energy produced from a generation facility for which—
 
-&emsp;“(1) the production is increased by more than 10 percent as a result of expansion of the facility carried out in the 6-year period beginning on the date of enactment of this Act \[Aug. 8, 2005\]; and
+&emsp;"(1) the production is increased by more than 10 percent as a result of expansion of the facility carried out in the 6-year period beginning on the date of enactment of this Act \[Aug. 8, 2005\]; and
 
-&emsp;“(2) such production increase is greater than 10 percent of the average production by the facility during the 5-year period preceding the expansion of the facility (as such average is adjusted to reflect any trend in changes in production during that period).
+&emsp;"(2) such production increase is greater than 10 percent of the average production by the facility during the 5-year period preceding the expansion of the facility (as such average is adjusted to reflect any trend in changes in production during that period).
 
-“(e)
+"(e)
 
 Royalty Under Existing Leases.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Any lessee under a lease issued under the Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.) before the date of enactment of this Act \[Aug. 8, 2005\] may, within the time period specified in paragraph (2), submit to the Secretary of the Interior a request to modify the terms of the lease relating to payment of royalties to provide—
 
-&emsp;&emsp;“(A) in the case of a lease that meets the requirements of subsection (b) of section 5 of the Geothermal Steam Act of 1970 (30 U.S.C. 1004) (as amended by section 223), that royalties be based on the schedule of fees established under that section; and
+&emsp;&emsp;"(A) in the case of a lease that meets the requirements of subsection (b) of section 5 of the Geothermal Steam Act of 1970 (30 U.S.C. 1004) (as amended by section 223), that royalties be based on the schedule of fees established under that section; and
 
-&emsp;&emsp;“(B) in the case of any other lease, that royalties be computed on a percentage of the gross proceeds from the sale of electricity, at a royalty rate that is expected to yield total royalty payments equivalent to payments that would have been received for comparable production under the royalty rate in effect for the lease before the date of enactment of this subsection.
+&emsp;&emsp;"(B) in the case of any other lease, that royalties be computed on a percentage of the gross proceeds from the sale of electricity, at a royalty rate that is expected to yield total royalty payments equivalent to payments that would have been received for comparable production under the royalty rate in effect for the lease before the date of enactment of this subsection.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Timing.—A request for a modification under paragraph (1) shall be submitted to the Secretary of the Interior by the date that is not later than—
 
-&emsp;&emsp;“(A) in the case of a lease for direct use, 18 months after the effective date of the schedule of fees established by the Secretary of the Interior under section 5 of the Geothermal Steam Act of 1970 (30 U.S.C. 1004); or
+&emsp;&emsp;"(A) in the case of a lease for direct use, 18 months after the effective date of the schedule of fees established by the Secretary of the Interior under section 5 of the Geothermal Steam Act of 1970 (30 U.S.C. 1004); or
 
-&emsp;&emsp;“(B) in the case of any other lease, 18 months after the effective date of the final regulation issued under subsection (a) \[amending this section\].
+&emsp;&emsp;"(B) in the case of any other lease, 18 months after the effective date of the final regulation issued under subsection (a) \[amending this section\].
 
-&emsp;“(3)
+&emsp;"(3)
 
 Application of modification.—If the lessee requests modification of a lease under paragraph (1)—
 
-&emsp;&emsp;“(A) the Secretary of the Interior shall, within 180 days after the receipt of the request for modification, modify the lease to comply with—
+&emsp;&emsp;"(A) the Secretary of the Interior shall, within 180 days after the receipt of the request for modification, modify the lease to comply with—
 
-&emsp;&emsp;&emsp;“(i) in the case of a lease for direct use, the schedule of fees established by the Secretary under section 5 of the Geothermal Steam Act of 1970 (30 U.S.C. 1004); or
+&emsp;&emsp;&emsp;"(i) in the case of a lease for direct use, the schedule of fees established by the Secretary under section 5 of the Geothermal Steam Act of 1970 (30 U.S.C. 1004); or
 
-&emsp;&emsp;&emsp;“(ii) in the case of any other lease, the royalty for the lease established under paragraph (1)(B); and
+&emsp;&emsp;&emsp;"(ii) in the case of any other lease, the royalty for the lease established under paragraph (1)(B); and
 
-&emsp;&emsp;“(B) the modification shall apply to any use of geothermal resources to which subsection (a) \[amending this section\] applies that occurs after the date of the modification.
+&emsp;&emsp;"(B) the modification shall apply to any use of geothermal resources to which subsection (a) \[amending this section\] applies that occurs after the date of the modification.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Consultation.—The Secretary of the Interior shall consult with the State and local governments affected by any proposed changes in lease royalty terms under this subsection.”
+Consultation.—The Secretary of the Interior shall consult with the State and local governments affected by any proposed changes in lease royalty terms under this subsection."
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

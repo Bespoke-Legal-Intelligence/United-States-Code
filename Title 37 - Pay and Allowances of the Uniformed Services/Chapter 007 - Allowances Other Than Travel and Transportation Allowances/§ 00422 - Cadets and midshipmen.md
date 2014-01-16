@@ -14,7 +14,7 @@
 
 > However, no allowance for travel on discharge may be paid to a discharged cadet or midshipman who continues his scholastic instruction at the same educational institution.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479; Pub. L. 88–647, title II, §202(4), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123;Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479; Pub. L. 88–647, title II, §202(4), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 Historical and Revision Notes
 
@@ -60,17 +60,17 @@ Oct. 12, 1949, ch. 681, §508 (less applicability to pay), 63 Stat. 828.
 
 \[None.\]
 
-In subsection (a), the words “prescribed under section 410 of this title” are inserted to reflect that revised section.
+In subsection (a), the words "prescribed under section 410 of this title" are inserted to reflect that revised section.
 
 #### Amendments
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “480” for “410”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "480" for "410".
 
-<b>1966</b>—Subsec. (c). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
+<b>1966</b>—Subsec. (c). Pub. L. 89–718 struck out ", United States Code," after "title 10".
 
-<b>1964</b>—Subsec. (c). Pub. L. 88–647, §202(4)(A), (B), among other changes, substituted provisions relating to a cadet or midshipman appointed under section 2107 of title 10, for provisions relating to a midshipman appointed under section 6904 of title 10, or a seaman recruit enlisted under section 6905 of title 10, and “educational institution” for “college or university”, in text, and “Cadets and midshipmen” for “Cadets, midshipmen, and naval officer candidates”, in section catchline.
+<b>1964</b>—Subsec. (c). Pub. L. 88–647, §202(4)(A), (B), among other changes, substituted provisions relating to a cadet or midshipman appointed under section 2107 of title 10, for provisions relating to a midshipman appointed under section 6904 of title 10, or a seaman recruit enlisted under section 6905 of title 10, and "educational institution" for "college or university", in text, and "Cadets and midshipmen" for "Cadets, midshipmen, and naval officer candidates", in section catchline.
 
 Subsec. (d). Pub. L. 88–647, §202(4)(C), struck out subsec. (d) which entitled a midshipman under section 6906 of title 10, while on flight training or duty, to the allowances of a midshipman at the United States Naval Academy.
 

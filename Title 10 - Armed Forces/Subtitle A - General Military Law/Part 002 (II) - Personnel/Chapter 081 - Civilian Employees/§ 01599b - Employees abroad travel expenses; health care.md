@@ -18,7 +18,7 @@ Assistance.—The Secretary of Defense may enter into agreements with the heads 
 
 (e)
 
-Abroad Defined.—In this section, the term “abroad” means outside—
+Abroad Defined.—In this section, the term "abroad" means outside—
 
 &emsp;(1) the United States; and
 

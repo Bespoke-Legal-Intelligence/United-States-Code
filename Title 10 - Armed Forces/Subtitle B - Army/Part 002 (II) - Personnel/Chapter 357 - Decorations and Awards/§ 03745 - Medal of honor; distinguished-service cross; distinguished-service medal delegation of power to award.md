@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 10:1410.
 
-July 9, 1918, ch. 143 (16th par., less words after semicolon, under “Ordnance Department”), 40 Stat. 872.
+July 9, 1918, ch. 143 (16th par., less words after semicolon, under "Ordnance Department"), 40 Stat. 872.
 
-The words “under such conditions, regulations, and limitations as he shall prescribe” are omitted as surplusage. The words “his authority” are substituted for the words “the power conferred upon him by sections 1403, 1406–1408, 1409–1412, 1416, 1420, 1422, 1423, and 1424 of this title”.
+The words "under such conditions, regulations, and limitations as he shall prescribe" are omitted as surplusage. The words "his authority" are substituted for the words "the power conferred upon him by sections 1403, 1406–1408, 1409–1412, 1416, 1420, 1422, 1423, and 1424 of this title".
 

@@ -14,7 +14,7 @@ The Administrator, in cooperation with other appropriate Federal departments and
 
 #### (c) Exposure studies
 
-(1) The Secretary of Health and Human Services (hereafter in this subsection referred to as the “Secretary”), acting through the Director of the Centers for Disease Control,<sup>1</sup> (CDC), and the Director of the National Institute of Environmental Health Sciences, shall jointly conduct a study of the sources of lead exposure in children who have elevated blood lead levels (or other indicators of elevated lead body burden), as defined by the Director of the Centers for Disease Control.
+(1) The Secretary of Health and Human Services (hereafter in this subsection referred to as the "Secretary"), acting through the Director of the Centers for Disease Control,<sup>1</sup> (CDC), and the Director of the National Institute of Environmental Health Sciences, shall jointly conduct a study of the sources of lead exposure in children who have elevated blood lead levels (or other indicators of elevated lead body burden), as defined by the Director of the Centers for Disease Control.
 
 (2) The Secretary, in consultation with the Director of the National Institute for Occupational Safety and Health, shall conduct a comprehensive study of means to reduce hazardous occupational lead abatement exposures. This study shall include, at a minimum, each of the following—
 
@@ -28,7 +28,7 @@ The Administrator, in cooperation with other appropriate Federal departments and
 
 &emsp;(E) A study assessing the potential exposures and risks from lead to janitorial and custodial workers.
 
-(3) The studies described in paragraphs (1) and (2) shall, as appropriate, examine the relative contributions to elevated lead body burden from each of the following:
+(3) The studies described in paragraphs (1) and (2) shall, as appropriate, examine the relativecontributions to elevated lead body burden from each of the following:
 
 &emsp;(A) Drinking water.
 
@@ -86,7 +86,7 @@ The Administrator, in cooperation with other appropriate Federal departments and
 
 #### (1) Clearinghouse
 
-&emsp;Not later than 6 months after October 28, 1992, the Administrator shall establish, in consultation with the Secretary of Housing and Urban Development and the Director of the Centers for Disease Control, a National Clearinghouse on Childhood Lead Poisoning (hereinafter in this section referred to as “Clearinghouse”). The Clearinghouse shall—
+&emsp;Not later than 6 months after October 28, 1992, the Administrator shall establish, in consultation with the Secretary of Housing and Urban Development and the Director of the Centers for Disease Control, a National Clearinghouse on Childhood Lead Poisoning (hereinafter in this section referred to as "Clearinghouse"). The Clearinghouse shall—
 
 &emsp;&emsp;(A) collect, evaluate, and disseminate current information on the assessment and reduction of lead-based paint hazards, adverse health effects, sources of exposure, detection and risk assessment methods, environmental hazards abatement, and clean-up standards;
 

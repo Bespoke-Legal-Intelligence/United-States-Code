@@ -130,7 +130,7 @@ An application under this section shall contain the following:
 
 #### (4) Preexisting partnership
 
-&emsp;If, before January 8, 2002, a State educational agency established a consortium,partnership, or any other similar body that was considered a reading and literacy partnership for purposes of part C of title II of this Act (as such part was in effect on January 8, 2002), that consortium, partnership, or body may be considered a reading and literacy partnership for purposes of this subsection consistent with the provisions of this subpart.
+&emsp;If, before January 8, 2002, a State educational agency established a consortium, partnership, or any other similar body that was considered a reading and literacy partnership for purposes of part C of title II of this Act (as such part was in effect on January 8, 2002), that consortium, partnership, or body may be considered a reading and literacy partnership for purposes of this subsection consistent with the provisions of this subpart.
 
 (Pub. L. 89–10, title I, §1203, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1543; amended Pub. L. 110–154, §1(c)(3), Dec. 21, 2007, 121 Stat. 1828.)
 
@@ -144,11 +144,11 @@ The Individuals with Disabilities Education Act, referred to in subsec. (b)(4)(G
 
 #### Prior Provisions
 
-A prior section 6363, Pub. L. 89–10, title I, §1203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3579; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(f), (g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–330, related to State Even Start programs, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381b of this title.
+A prior section 6363, Pub. L. 89–10, title I, §1203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3579; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(f), (g)\], Dec. 21,2000, 114 Stat. 2763, 2763A–330, related to State Even Start programs, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381b of this title.
 
 A prior section 1203 of Pub. L. 89–10 was classified to section 2783 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(2)(A)(iv). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+<b>2007</b>—Subsec. (c)(2)(A)(iv). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute of Child Health and Human Development".
 

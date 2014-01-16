@@ -68,7 +68,7 @@ Notwithstanding section 2055(a)(3) of this title, the Commission may provide to 
 
 #### (5) Definition
 
-&emsp;In this subsection, the term “foreign government agency” means—
+&emsp;In this subsection, the term "foreign government agency" means—
 
 &emsp;&emsp;(A) any agency or judicial authority of a foreign government, including a foreign state, a political subdivision of a foreign state, or a multinational organization constituted by and comprised of foreign states, that is vested with law enforcement or investigative authority in civil, criminal, or administrative matters; and
 
@@ -82,11 +82,11 @@ Whenever the Commission is notified of any voluntary corrective action taken by 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e). Pub. L. 110–314, §235(c)(7), substituted “Notwithstanding section 2055(a)(3) of this title, the Commission” for “The Commission” in introductory provisions.
+<b>2008</b>—Subsec. (e). Pub. L. 110–314, §235(c)(7), substituted "Notwithstanding section 2055(a)(3) of this title, the Commission" for "The Commission" in introductory provisions.
 
 Subsecs. (f), (g). Pub. L. 110–314, §207, added subsecs. (f) and (g).
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–284 added subsec. (e).
 

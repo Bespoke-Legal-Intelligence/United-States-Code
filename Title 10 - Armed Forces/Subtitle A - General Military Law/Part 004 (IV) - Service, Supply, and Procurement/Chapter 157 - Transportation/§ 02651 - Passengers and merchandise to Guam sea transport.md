@@ -18,25 +18,25 @@ Historical and Revision Notes
 
 10:1371 (last 29 words).
 
-Mar. 3, 1911, ch. 209 (4th proviso under “Transportation of the Army and Its Supplies”), 36 Stat. 1051.
+Mar. 3, 1911, ch. 209 (4th proviso under "Transportation of the Army and Its Supplies"), 36 Stat. 1051.
 
 &nbsp;
 
-Mar. 2, 1907, ch. 2511 (last 29 words of 6th proviso under “Transportation of the Army and Its Supplies”), 34 Stat. 1171.
+Mar. 2, 1907, ch. 2511 (last 29 words of 6th proviso under "Transportation of the Army and Its Supplies"), 34 Stat. 1171.
 
-The words “without displacing military supplies” and “of the island of”, in 10:1368 and 1371, are omitted as surplusage. The words “produced in the United States, or the Territories, Commonwealths, and possessions” are substituted for the words “of American production”.
+The words "without displacing military supplies" and "of the island of", in 10:1368 and 1371, are omitted as surplusage. The words "produced in the United States, or the Territories, Commonwealths, and possessions" are substituted for the words "of American production".
 
 #### Amendments
 
 <b>2011</b>—Pub. L. 111–383 made technical amendment to directory language of Pub. L. 109–163, §1057(a)(6). See 2006 Amendment note below.
 
-<b>2006</b>—Pub. L. 109–163, §1057(a)(6), as amended by Pub. L. 111–383, substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
+<b>2006</b>—Pub. L. 109–163, §1057(a)(6), as amended by Pub. L. 111–383, substituted "Commonwealths and possessions" for "Territories, Commonwealths, and possessions".
 
-<b>2004</b>—Pub. L. 108–375, §1072(b)(4), substituted “the Department of Defense, under regulations and at rates to be prescribed by the Secretary of Defense” for “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels operated by any transport agency of the Department of Defense, under regulations and at rates to be prescribed by the Secretary of the Army”.
+<b>2004</b>—Pub. L. 108–375, §1072(b)(4), substituted "the Department of Defense, under regulations and at rates to be prescribed by the Secretary of Defense" for "Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels operated by any transport agency of the Department of Defense, under regulations and at rates to be prescribed by the Secretary of the Army".
 
 Pub. L. 108–375, §1072(a), renumbered section 4747 of this title as this section.
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–383, div. A, title X, §1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section1075(h)(4)(A)(ii) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+Pub. L. 111–383, div. A, title X, §1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(4)(A)(ii) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 

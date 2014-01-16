@@ -26,9 +26,9 @@ Section 801(c)(1)(B) of the Foreign Operations, Export Financing, and Related Pr
 
 <b>2004</b>—Subsec. (b)(4). Pub. L. 108–458 added par. (4).
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–429 inserted “(1)” after “a written report on” and inserted before period at end “, and (2) the progress made by the International Monetary Fund in adopting and implementing the policies described in section 801(c)(1)(B) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–429 inserted "(1)" after "a written report on" and inserted before period at end ", and (2) the progress made by the International Monetary Fund in adopting and implementing the policies described in section 801(c)(1)(B) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001".
 
-Pub. L. 106–200 substituted “Committees on Banking and Financial Services and on Ways and Means of the House of Representatives and the Committees on Finance and on Foreign Relations of the Senate” for “Committee on Banking and Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate”.
+Pub. L. 106–200 substituted "Committees on Banking and Financial Services and on Ways and Means of the House of Representatives and the Committees on Finance and on Foreign Relations of the Senate" for "Committee on Banking and Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate".
 
 #### Change of Name
 

@@ -10,11 +10,11 @@ Promotion of Coordinated Action.—To carry out the purpose of this section, the
 
 (c)
 
-Definition.—For the purpose of this section, the term “act of piracy” means any act of aggression, search, restraint, depredation, or seizure attempted against a vessel of the United States by an individual not authorized by the United States, a foreign government, or an international organization recognized by the United States to enforce law on the high seas.
+Definition.—For the purpose of this section, the term "act of piracy" means any act of aggression, search, restraint, depredation, or seizure attempted against a vessel of the United States by an individual not authorized by the United States, a foreign government, or an international organization recognized by the United States to enforce law on the high seas.
 
 (Added Pub. L. 111–281, title IX, §912(a), Oct. 15, 2010, 124 Stat. 3016.)
 
 #### Standard Rules for the Use of Force for Self-Defense of Vessels of the United States
 
-Pub. L. 111–281, title IX, §912(c), Oct. 15, 2010, 124 Stat. 3017, provided that: “Not later than 180 days after the date of enactment of this act \[Oct. 15, 2010\], the secretary \[sic\] of the department in which the coast guard \[sic\] is operating, in consultation with representatives of industry and labor, shall develop standard rules for the use of force for self-defense of vessels of the United States.”
+Pub. L. 111–281, title IX, §912(c), Oct. 15, 2010, 124 Stat. 3017, provided that: "Not later than 180 days after the date of enactment of this act \[Oct. 15, 2010\], the secretary \[sic\] of the department in which the coast guard \[sic\] is operating, in consultation with representatives of industry and labor, shall develop standard rules for the use of force for self-defense of vessels of the United States."
 

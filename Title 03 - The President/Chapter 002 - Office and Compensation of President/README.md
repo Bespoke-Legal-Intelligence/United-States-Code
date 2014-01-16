@@ -718,13 +718,35 @@ Sec. 7. This order is not intended to, and does not, create any right or benefit
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Extension of Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships
+
+Ex. Ord. No. 13640, Apr. 5, 2013, 78 F.R. 21211, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
+
+Section 1. <i>Continuing the President's Advisory Council on Faith-Based and Neighborhood Partnerships</i>. The President's Advisory Council on Faith-Based and Neighborhood Partnerships, as set forth under the provisions of Executive Order 13498 of February 5, 2009, and reestablished by section 5 of Executive Order 13569 of April 5, 2011, is hereby extended and shall terminate 2 years from the date of this order unless further extended by the President.
+
+Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(1) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(2) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
 #### White House Task Force on Middle-Class Working Families
 
 Memorandum of President of the United States, Jan. 30, 2009, 74 F.R. 5979, provided:
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-For many years, middle-class Americans have been working harder, yet not enjoying their fair share of the fruits of a growing economy. While the productivity of the American workforce grew during the decade ending in 2007, middle-income workers saw their real incomes fall. The current economic situation has exacerbated the challenges facing middle-class Americans, with health care coverage, safe and steady employment opportunities, effective and affordable education, owning a home, and saving for retirement slipping out of reach. It is a high priority of my Administration to achieve a secure future for middle-class working families, one inwhich they share in prosperous times and are cushioned during hard times. To these ends, I hereby direct the following:
+For many years, middle-class Americans have been working harder, yet not enjoying their fair share of the fruits of a growing economy. While the productivity of the American workforce grew during the decade ending in 2007, middle-income workers saw their real incomes fall. The current economic situation has exacerbated the challenges facing middle-class Americans, with health care coverage, safe and steady employment opportunities, effective and affordable education, owning a home, and saving for retirement slipping out of reach. It is a high priority of my Administration to achieve a secure future for middle-class working families, one in which they share in prosperous times and are cushioned during hard times. To these ends, I hereby direct the following:
 
 Section 1. <i>White House Task Force on Middle-Class Working Families</i>. There is established within the Office of the Vice President, a White House Task Force on Middle-Class Working Families (Task Force) to focus on raising the living standards of middle-class working families in the United States of America. The Vice President shall serve as Chair of the Task Force.
 

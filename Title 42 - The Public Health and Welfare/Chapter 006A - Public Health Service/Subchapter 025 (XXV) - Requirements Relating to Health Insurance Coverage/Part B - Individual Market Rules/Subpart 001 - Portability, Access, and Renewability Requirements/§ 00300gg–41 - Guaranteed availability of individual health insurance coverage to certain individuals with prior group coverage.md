@@ -14,9 +14,9 @@
 
 &emsp;The requirement of paragraph (1) shall not apply to health insurance coverage offered in the individual market in a State in which the State is implementing an acceptable alternative mechanism under section 300gg–44 of this title.
 
-#### (b) “Eligible individual” defined
+#### (b) "Eligible individual" defined
 
-In this part, the term “eligible individual” means an individual—
+In this part, the term "eligible individual" means an individual—
 
 &emsp;(1)(A) for whom, as of the date on which the individual seeks coverage under this section, the aggregate of the periods of creditable coverage (as defined in section 2701(c)) <sup>1</sup> is 18 or more months and (B) whose most recent prior creditable coverage was under a group health plan, governmental plan, or church plan (or health insurance coverage offered in connection with any such plan);
 
@@ -48,7 +48,7 @@ In this part, the term “eligible individual” means an individual—
 
 #### (A) In general
 
-&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy formsoffered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policy form (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
+&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policyform (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
 
 #### (B) Lower-level of coverage described
 
@@ -114,7 +114,7 @@ In this part, the term “eligible individual” means an individual—
 
 #### (2) Conversion policies
 
-&emsp;A health insurance issuer offering health insurance coverage in connection with group health plans under this subchapter shall not be deemed to be a health insurance issuer offering individual health insurance coveragesolely because such issuer offers a conversion policy.
+&emsp;A health insurance issuer offering health insurance coverage in connection with group health plans under this subchapter shall not be deemed to be a health insurance issuer offering individual health insurance coverage solely because such issuer offers a conversion policy.
 
 #### (f) Construction
 
@@ -138,13 +138,13 @@ Section 2712, referred to in subsec. (b)(3), is a reference to section 2712 of a
 
 Pub. L. 104–191, title I, §111(b), Aug. 21, 1996, 110 Stat. 1987, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in this subsection, part B of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg–41 et seq.\] (as inserted by subsection (a)) shall apply with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market after June 30, 1997, regardless of when a period of creditable coverage occurs.
 
-“(2)
+"(2)
 
-Application of certification rules.—The provisions of section 102(d)(2) \[102(c)(2)\] of this Act \[set out as a note under section 300gg of this title\] shall apply to section 2743 of the Public Health Service Act \[42 U.S.C. 300gg–43\] in the same manner as it applies to section 2701(e) \[now 2704(e)\] of such Act \[42 U.S.C. 300gg–3(e)\].”
+Application of certification rules.—The provisions of section 102(d)(2) \[102(c)(2)\] of this Act \[42 U.S.C. 300gg note\] shall apply to section 2743 of the Public Health Service Act \[42 U.S.C. 300gg–43\] in the same manner as it applies to section 2701(e) \[now 2704(e)\] of such Act \[42 U.S.C. 300gg–3(e)\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

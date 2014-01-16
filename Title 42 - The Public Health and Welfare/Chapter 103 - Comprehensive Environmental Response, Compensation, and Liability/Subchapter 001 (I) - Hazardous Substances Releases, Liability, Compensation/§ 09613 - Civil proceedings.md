@@ -10,7 +10,7 @@ Except as provided in subsections (a) and (h) of this section, the United States
 
 #### (c) Controversies or other matters resulting from tax collection or tax regulation review
 
-The provisions of subsections (a) and (b) of this section shall not apply to any controversy or other matter resulting from the assessment of collection of any tax, as provided by subchapter II <sup>1</sup> of this chapter, or to the review of any regulation promulgated under title 26.
+The provisions of subsections (a) and (b) of this section shall not apply to any controversyor other matter resulting from the assessment of collection of any tax, as provided by subchapter II <sup>1</sup> of this chapter, or to the review of any regulation promulgated under title 26.
 
 #### (d) Litigation commenced prior to December 11, 1980
 
@@ -36,7 +36,7 @@ In any action by the United States under this chapter, process may be served in 
 
 &emsp;(B) A person who has resolved its liability to the United States or a State for some or all of a response action or for some or all of the costs of such action in an administrative or judicially approved settlement may seek contribution from any person who is not party to a settlement referred to in paragraph (2).
 
-&emsp;(C) In any action under this paragraph, the rights of any person who has resolved its liability to the United States or a State shall be subordinate to the rights of the United Statesor the State. Any contribution action brought under this paragraph shall be governed by Federal law.
+&emsp;(C) In any action under this paragraph, the rights of any person who has resolved its liability to the United States or a State shall be subordinate to the rights of the United States or the State. Any contribution action brought under this paragraph shall be governed by Federal law.
 
 #### (g) Period in which action may be brought
 
@@ -58,7 +58,7 @@ In any action by the United States under this chapter, process may be served in 
 
 &emsp;&emsp;(B) for a remedial action, within 6 years after initiation of physical on-site construction of the remedial action, except that, if the remedial action is initiated within 3 years after the completion of the removal action, costs incurred in the removal action may be recovered in the cost recovery action brought under this subparagraph.
 
-> &emsp;In any such action described in this subsection, the court shall enter a declaratory judgment on liability for response costs or damages that will be binding on any subsequent action or actions to recover further response costs or damages. A subsequent action or actions under section 9607 of this title for further response costs at the vessel or facility may be maintained at any time during the response action, but must be commenced no later than 3 years after the date of completion of all response action. Except as otherwise provided in this paragraph, an action may be commenced under section 9607 of this title for recovery of costs at any time after such costs have been incurred.
+> &emsp;In any such action described in this subsection, the court shall enter a declaratory judgment on liability for response costs or damages that will be binding on any subsequent action or actions to recover further response costs or damages. A subsequent action or actions under section 9607 of this title forfurther response costs at the vessel or facility may be maintained at any time during the response action, but must be commenced no later than 3 years after the date of completion of all response action. Except as otherwise provided in this paragraph, an action may be commenced under section 9607 of this title for recovery of costs at any time after such costs have been incurred.
 
 #### (3) Contribution
 
@@ -124,7 +124,7 @@ In any action commenced under this chapter or under the Solid Waste Disposal Act
 
 #### (1) Administrative record
 
-&emsp;The President shall establish an administrative record upon which the President shall base the selection of a response action. The administrative record shall be available to the public at or near the facility at issue. The President also may place duplicates of the administrative record at any other location.
+&emsp;The President shall establish an administrative record upon which the President shallbase the selection of a response action. The administrative record shall be available to the public at or near the facility at issue. The President also may place duplicates of the administrative record at any other location.
 
 #### (2) Participation procedures
 
@@ -164,9 +164,9 @@ Whenever any action is brought under this chapter in a court of the United State
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-Subchapter II of this chapter, referred to in subsec. (c), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
+Subchapter II of this chapter, referred to in subsec. (c), was in the original "title II of this Act", meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -174,9 +174,9 @@ The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L.
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–499, §113(c)(1), substituted “subsections (a) and (h)” for “subsection (a)”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–499, §113(c)(1), substituted "subsections (a) and (h)" for "subsection (a)".
 
-Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (c). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Subsecs. (e) to (l). Pub. L. 99–499, §113(a), (b), (c)(2), added subsecs. (e) to (l).
 

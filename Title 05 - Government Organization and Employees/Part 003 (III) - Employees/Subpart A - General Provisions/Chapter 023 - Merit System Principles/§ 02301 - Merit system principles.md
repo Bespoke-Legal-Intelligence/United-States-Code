@@ -78,7 +78,7 @@ Table of Contents.—\[Omitted.\]
 
 &emsp;“(3) in August 2000, a jury found that the Environmental Protection Agency had discriminated against a senior social scientist, and awarded that scientist $600,000;
 
-&emsp;“(4) in October 2000, an Occupational Safety and Health Administration investigation found that the Environmental Protection Agency had retaliated against a senior scientist for disagreeing with that agency on a matter of science and for helping Congress to carry out its oversight responsibilities;
+&emsp;“(4) in October 2000, an Occupational Safety and Health Administration investigation found that the Environmental Protection Agency had retaliatedagainst a senior scientist for disagreeing with that agency on a matter of science and for helping Congress to carry out its oversight responsibilities;
 
 &emsp;“(5) there have been several recent class action suits based on discrimination brought against Federal agencies, including the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, and Firearms, the Drug Enforcement Administration, the Immigration and Naturalization Service, the United States Marshals Service, the Department of Agriculture, the United States Information Agency, and the Social Security Administration;
 
@@ -188,7 +188,7 @@ Employee Training.—Each Federal agency shall provide to the employees of such 
 
 “(a)
 
-Annual Report.—Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment Opportunity Commission, and the Attorney General an annual report which shall include, with respect to the fiscal year—
+Annual Report.—Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore ofthe Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment Opportunity Commission, and the Attorney General an annual report which shall include, with respect to the fiscal year—
 
 &emsp;“(1) the number of cases arising under each of the respective provisions of law covered by paragraphs (1) and (2) of section 201(a) in which discrimination on the part of such agency was alleged;
 
@@ -292,7 +292,7 @@ Study.—Not later than 180 days after the date of enactment of this Act \[May 1
 
 &emsp;“(2)
 
-Report.—Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report containing the information required to be included in the study.
+Report.—Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit to the Speaker of theHouse of Representatives and the President pro tempore of the Senate a report containing the information required to be included in the study.
 
 “(c)
 
@@ -352,7 +352,7 @@ Report.—Not later than 90 days after the completion of the study under paragra
 
 “(a)
 
-In General.—Each Federal agency shall post on its public Web site, in the time, form, and manner prescribed under section 303 (in conformance with the requirements of this section), summary statistical data relating to equal employment opportunity complaintsfiled with such agency by employees or former employees of, or applicants for employment with, such agency.
+In General.—Each Federal agency shall post on its public Web site, in the time, form, and manner prescribed under section 303 (in conformance with the requirements of this section), summary statistical data relating to equal employment opportunity complaints filed with such agency by employees or former employees of, or applicants for employment with, such agency.
 
 “(b)
 
@@ -398,7 +398,7 @@ Content Requirements.—The data posted by a Federal agency under this section s
 
 &emsp;&emsp;“(B) of the number specified under subparagraph (A) for each of the respective issues of alleged discrimination—
 
-&emsp;&emsp;&emsp;“(i) the number and percentage that were rendered without a hearing before an administrative judge of the Equal Employment Opportunity Commission, and
+&emsp;&emsp;&emsp;“(i) the number and percentage that were rendered without a hearing before an administrativejudge of the Equal Employment Opportunity Commission, and
 
 &emsp;&emsp;&emsp;“(ii) the number and percentage that were rendered after a hearing before an administrative judge of the Equal Employment Opportunity Commission.
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 28, 1954, ch. 1036, §5(a), 68 Stat. 893.
 
-The word “various” is omitted as unnecessary.
+The word "various" is omitted as unnecessary.
 

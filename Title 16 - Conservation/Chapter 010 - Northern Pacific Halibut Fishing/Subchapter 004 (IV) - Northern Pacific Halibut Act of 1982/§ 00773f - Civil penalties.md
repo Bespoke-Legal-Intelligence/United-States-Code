@@ -6,7 +6,7 @@ Any person who is found by the Secretary, after notice and opportunity for a hea
 
 #### (b) Judicial review
 
-Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the appropriate court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary and the Attorney General. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, in accordance with rules prescribed pursuant to section 2112 of title 28. The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5.
+Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the appropriate court of the United States by filing a notice of appeal insuch court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary and the Attorney General. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, in accordance with rules prescribed pursuant to section 2112 of title 28. The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5.
 
 #### (c) Recovery of assessed penalties by Attorney General
 
@@ -62,13 +62,13 @@ The Secretary may compromise, modify, or remit, with or without conditions, any 
 
 #### (7) Permit defined
 
-&emsp;In this subsection, the term “permit” means any license, certificate, approval, registration, charter, membership, exemption, or other form of permission issued by the Commission or the Secretary, and includes any quota share or other transferable quota issued by the Secretary.
+&emsp;In this subsection, the term "permit" means any license, certificate, approval, registration, charter, membership, exemption, or other form of permission issued by the Commission or the Secretary, and includes any quota share or other transferable quota issued by the Secretary.
 
 (Pub. L. 97–176, §8, May 17, 1982, 96 Stat. 80; Pub. L. 109–479, title III, §301(a), (b), Jan. 12, 2007, 120 Stat. 3621, 3622.)
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 109–479, §301(a), substituted “$200,000” for “$25,000” and “violator, the degree of culpability, any history of prior offenses,” for “violation, the degree of culpability, and history of prior offenses, ability to pay,” and inserted at end “In assessing such penalty, the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay if the information is provided to the Secretary at least 30 days prior to an administrative hearing.”
+<b>2007</b>—Subsec. (a). Pub. L. 109–479, §301(a), substituted "$200,000" for "$25,000" and "violator, the degree of culpability, any history of prior offenses," for "violation, the degree of culpability, and history of prior offenses, ability to pay," and inserted at end "In assessing such penalty, the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay if the information is provided to the Secretary at least 30 days prior to an administrative hearing."
 
 Subsec. (e). Pub. L. 109–479, §301(b), added subsec. (e).
 

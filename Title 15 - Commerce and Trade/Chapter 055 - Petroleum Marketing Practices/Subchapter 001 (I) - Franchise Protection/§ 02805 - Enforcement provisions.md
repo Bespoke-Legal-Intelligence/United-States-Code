@@ -24,7 +24,7 @@ If a franchisor fails to comply with the requirements of section 2802, 2803, or 
 
 (3) Nothing in this subsection prevents any court from requiring the franchisee in any action under subsection (a) of this section to post a bond, in an amount established by the court, prior to the issuance or continuation of any equitable relief.
 
-(4) In any action under subsection (a) of this section, the court need not exercise its equity powers to compel continuation or renewal of the franchise relationship if such action was commenced—
+(4) In any action under subsection (a) of this section, the court need not exercise its equitypowers to compel continuation or renewal of the franchise relationship if such action was commenced—
 
 &emsp;(A) more than 90 days after the date on which notification pursuant to section 2804(a) of this title was posted or personally delivered to the franchisee;
 
@@ -88,7 +88,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out
 
 #### Amendments
 
-<b>2007</b>—Subsecs. (a), (b)(1), (d)(1)(B). Pub. L. 110–140 substituted “2802, 2803, or 2807” for “2802 or 2803” wherever appearing.
+<b>2007</b>—Subsecs. (a), (b)(1), (d)(1)(B). Pub. L. 110–140 substituted "2802, 2803, or 2807" for "2802 or 2803" wherever appearing.
 
 <b>1994</b>—Subsec. (f). Pub. L. 103–371 added subsec. (f).
 

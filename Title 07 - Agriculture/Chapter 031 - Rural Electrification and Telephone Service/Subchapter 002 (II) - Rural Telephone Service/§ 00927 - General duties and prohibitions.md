@@ -30,5 +30,5 @@ The Secretary and the Governor of the telephone bank shall not—
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator” in subsecs. (a) and (b) and “Secretary” for “Rural Electrification Administration” in subsec. (b)(2).
+<b>1994</b>—Pub. L. 103–354 substituted "Secretary" for "Administrator" in subsecs. (a) and (b) and "Secretary" for "Rural Electrification Administration" in subsec. (b)(2).
 

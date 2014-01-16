@@ -130,7 +130,7 @@ The Corporation may not approve positions as approved national service positions
 
 &emsp;&emsp;&emsp;(iv) whether the program provides service to, or involves the participation of, disadvantaged youth or otherwise would reasonably incur a relatively higher level of costs; and
 
-&emsp;&emsp;&emsp;(v) such other factors as the Corporation may consider under section 12585 of thistitle in considering applications for assistance.
+&emsp;&emsp;&emsp;(v) such other factors as the Corporation may consider under section 12585 of this title in considering applications for assistance.
 
 #### (3) Requirements for grant recipients
 

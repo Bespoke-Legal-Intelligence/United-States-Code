@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Biological product
 
-&emsp;The term “biological product” has the meaning given such term in section 262 of this title.
+&emsp;The term "biological product" has the meaning given such term in section 262 of this title.
 
 #### (2) Drug; device
 
-&emsp;The terms “drug” and “device” have the meanings given such terms in section 321 of title 21.
+&emsp;The terms "drug" and "device" have the meanings given such terms in section 321 of title 21.
 
 #### (3) High need cure
 
-&emsp;The term “high need cure” means a drug (as that term is defined by section 321(g)(1) of title 21,<sup>1</sup> biological product (as that term is defined by section 262(i) <sup>2</sup> of this title), or device (as that term is defined by section 321(h) of title 21) that, in the determination of the Director of the Center—
+&emsp;The term "high need cure" means a drug (as that term is defined by section 321(g)(1) of title 21,<sup>1</sup> biological product (as that term is defined by section 262(i) <sup>2</sup> of this title), or device (as that term is defined by section 321(h) of title 21) that, in the determination of the Director of the Center—
 
 &emsp;&emsp;(A) is a priority to diagnose, mitigate, prevent, or treat harm from any disease or condition; and
 
@@ -22,13 +22,13 @@ In this section:
 
 #### (4) Medical product
 
-&emsp;The term “medical product” means a drug, device, biological product, or product that is a combination of drugs, devices, and biological products.
+&emsp;The term "medical product" means a drug, device, biological product, or product that is a combination of drugs, devices, and biological products.
 
 #### (b) Establishment of the Cures Acceleration Network
 
-Subject to the appropriation of funds as described in subsection (g), there is established within the Center a program to be known as the Cures Acceleration Network (referred to in this section as “CAN”), which shall—
+Subject to the appropriation of funds as described in subsection (g), there is established within the Center a program to be known as the Cures Acceleration Network (referred to in this section as "CAN"), which shall—
 
-&emsp;(1) be under the direction of the Director of the Center, taking into account the recommendations of a CAN Review Board (referred to in this section as the “Board”), described in subsection (d); and
+&emsp;(1) be under the direction of the Director of the Center, taking into account the recommendations of a CAN Review Board (referred to in this section as the "Board"), described in subsection (d); and
 
 &emsp;(2) award grants and contracts to eligible entities, as described in subsection (e), to accelerate the development of high need cures, including through the development of medical products and behavioral therapies.
 
@@ -56,7 +56,7 @@ The functions of the CAN are to—
 
 #### (1) Establishment
 
-&emsp;There is established a Cures Acceleration Network Review Board (referred to in this section as the “Board”), which shall advise the Director of the Center on the conduct of the activities of the Cures Acceleration Network.
+&emsp;There is established a Cures Acceleration Network Review Board (referred to in this section as the "Board"), which shall advise the Director of the Center on the conduct of the activities of the Cures Acceleration Network.
 
 #### (2) Membership
 
@@ -68,13 +68,13 @@ The functions of the CAN are to—
 
 #### (ii) Chairperson and Vice Chairperson
 
-&emsp;&emsp;&emsp;The Secretary shall designate, from among the 24 members appointed under clause (i), one Chairperson of the Board (referred to in this section as the “Chairperson”) and one Vice Chairperson.
+&emsp;&emsp;&emsp;The Secretary shall designate, from among the 24 members appointed under clause (i), one Chairperson of the Board (referred to in this section as the "Chairperson") and one Vice Chairperson.
 
 #### (B) Terms
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each member shall be appointed to serve a 4-year term, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which the member's predecessor was appointed shall be appointed for the remainder of such term.
+&emsp;&emsp;&emsp;Each member shall be appointed to serve a 4-year term, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which themember's predecessor was appointed shall be appointed for the remainder of such term.
 
 #### (ii) Consecutive appointments; maximum terms
 
@@ -234,7 +234,7 @@ The functions of the CAN are to—
 
 #### (iii) Matching funds
 
-&emsp;&emsp;&emsp;As a condition for receiving an award under this subsection, an eligible entityshall contribute to the project non-Federal funds in the amount of $1 for every $3 awarded under clauses (i) and (ii), except that the Director of the Center may waive or modify such matching requirement in any case where the Director determines that the goals and objectives of this section cannot adequately be carried out unless such requirement is waived.
+&emsp;&emsp;&emsp;As a condition for receiving an award under this subsection, an eligible entity shall contribute to the project non-Federal funds in the amount of $1 for every $3 awarded under clauses (i) and (ii), except that the Director of the Center may waive or modify such matching requirement in any case where the Director determines that the goals and objectives of this section cannot adequately be carried out unless such requirement is waived.
 
 #### (B) The cures acceleration grant awards
 
@@ -248,7 +248,7 @@ The functions of the CAN are to—
 
 #### (C) The cures acceleration flexible research awards
 
-&emsp;&emsp;If the Director of the Center determines that the goals and objectives of this section cannot adequately be carried out through a contract, grant, or cooperative agreement, the Director of the Center shall have flexible research authority to use other transactions to fund projects in accordance with the terms and conditions of this section. Awards made under such flexible research authority for a fiscal year shall not exceed 20 percent of the total funds appropriated under subsection (g)(1) for such fiscal year.
+&emsp;&emsp;If the Director of the Center determines that the goals and objectives of this sectioncannot adequately be carried out through a contract, grant, or cooperative agreement, the Director of the Center shall have flexible research authority to use other transactions to fund projects in accordance with the terms and conditions of this section. Awards made under such flexible research authority for a fiscal year shall not exceed 20 percent of the total funds appropriated under subsection (g)(1) for such fiscal year.
 
 #### (4) Suspension of awards for defaults, noncompliance with provisions and plans, and diversion of funds; repayment of funds
 
@@ -284,7 +284,7 @@ Any grant, cooperative agreement, or contract awarded under this section shall b
 
 #### References in Text
 
-Section 262(i) of this title, referred to in subsec. (a)(3), was in the original “section 262(i)”, and was translated as meaning section 351(i) of act July 1, 1944, ch. 373, to reflect the probable intent of Congress.
+Section 262(i) of this title, referred to in subsec. (a)(3), was in the original "section 262(i)", and was translated as meaning section 351(i) of act July 1, 1944, ch. 373, to reflect the probable intent of Congress.
 
 #### Codification
 
@@ -296,13 +296,13 @@ A prior section 287a, July 1, 1944, ch. 373, title IV, §480, as added Pub. L. 9
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–74, §221(c)(1)(C), substituted “Director of the Center” for “Director of NIH” wherever appearing.
+<b>2011</b>—Pub. L. 112–74, §221(c)(1)(C), substituted "Director of the Center" for "Director of NIH" wherever appearing.
 
-Subsec. (b). Pub. L. 112–74, §221(c)(1)(B), substituted “within the Center” for “within the Office of the Director of NIH” in introductory provisions.
+Subsec. (b). Pub. L. 112–74, §221(c)(1)(B), substituted "within the Center" for "within the Office of the Director of NIH" in introductory provisions.
 
-Subsec. (d)(4). Pub. L. 112–74, §221(c)(1)(D), substituted “Director of the Center” for “Director of NIH” in heading.
+Subsec. (d)(4). Pub. L. 112–74, §221(c)(1)(D), substituted "Director of the Center" for "Director of NIH" in heading.
 
-Subsec. (d)(4)(B). Pub. L. 112–74, §221(c)(1)(D), substituted “Director of the Center” for “Director of NIH” in heading.
+Subsec. (d)(4)(B). Pub. L. 112–74, §221(c)(1)(D), substituted "Director of the Center" for "Director of NIH" in heading.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
 

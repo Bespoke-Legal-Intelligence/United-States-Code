@@ -4,11 +4,11 @@
 
 The Administrator is authorized to make grants to and enter into contracts with the Center and with public agencies or nonprofit private organizations, or combinations thereof, for research, demonstration projects, or service programs designed—
 
-&emsp;(1) to educate parents, children, and community agencies and organizations in ways to prevent the abduction and sexual exploitation of children;
+&emsp;(1) to educate parents, children, schools, school leaders, teachers, State and local educational agencies, homeless shelters and service providers, and community agencies and organizations in ways to prevent the abduction and sexual exploitation of children;
 
 &emsp;(2) to provide information to assist in the locating and return of missing children;
 
-&emsp;(3) to aid communities in the collection of materials which would be useful to parents in assisting others in the identification of missing children;
+&emsp;(3) to aid communities and schools in the collection of materials which would be useful to parents in assisting others in the identification of missing children;
 
 &emsp;(4) to increase knowledge of and develop effective treatment pertaining to the psychological consequences, on both parents and children, of—
 
@@ -22,7 +22,7 @@ The Administrator is authorized to make grants to and enter into contracts with 
 
 &emsp;(7) to address the needs of missing children (as defined in section 5772(1)(A) of this title) and their families following the recovery of such children;
 
-&emsp;(8) to reduce the likelihood that individuals under 18 years of age will be removed from the control of such individuals’ legal custodians without such custodians’ consent; and
+&emsp;(8) to reduce the likelihood that individuals under 18 years of age will be removed from the control of such individuals' legal custodians without such custodians' consent; and
 
 &emsp;(9) to establish or operate statewide clearinghouses to assist in locating and recovering missing children.
 
@@ -44,9 +44,9 @@ In considering grant applications under this subchapter, the Administrator shall
 
 #### (c) Non-Federal fund expenditures requisite for receipt of Federal assistance
 
-In order to receive assistance under this subchapter for a fiscal year, applicants shall give assurance that they will expend, to the greatest extent practicable, for such fiscal year an amount of funds (without regard to any funds received under any Federal law) that is not less than the amount of funds they received in the preceding fiscal year from State, local, and private sources.
+In order to receive assistance under this subchapter for a fiscal year, applicants shall give assurance that they will expend, to the greatest extent practicable, for such fiscal year an amount of funds (without regard to any fundsreceived under any Federal law) that is not less than the amount of funds they received in the preceding fiscal year from State, local, and private sources.
 
-(Pub. L. 93–415, title IV, §405, formerly §406, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2128; renumbered §405 and amended Pub. L. 100–690, title VII, §§7287, 7290(a), Nov. 18, 1988, 102 Stat. 4460, 4461; Pub. L. 101–204, title X, §1004(3), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(d), Oct. 12, 1999, 113 Stat. 1035.)
+(Pub. L. 93–415, title IV, §405, formerly §406, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2128; renumbered §405 and amended Pub. L. 100–690, title VII, §§7287, 7290(a), Nov. 18, 1988, 102 Stat. 4460, 4461; Pub. L. 101–204, title X, §1004(3), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(d), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 113–38, §2(c), Sept. 30, 2013, 127 Stat. 528.)
 
 #### Prior Provisions
 
@@ -54,9 +54,13 @@ A prior section 405 of Pub. L. 93–415 was classified to section 5774 of this t
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–71 inserted “the Center and with” before “public agencies” in introductory provisions.
+<b>2013</b>—Subsec. (a)(1). Pub. L. 113–38, §2(c)(1), inserted "schools, school leaders, teachers, State and local educational agencies, homeless shelters and service providers," after "children,".
 
-<b>1989</b>—Subsec. (a)(9). Pub. L. 101–204 substituted “clearinghouses” for “clearinghouse”.
+Subsec. (a)(3). Pub. L. 113–38, §2(c)(2), inserted "and schools" after "communities".
+
+<b>1999</b>—Subsec. (a). Pub. L. 106–71 inserted "the Center and with" before "public agencies" in introductory provisions.
+
+<b>1989</b>—Subsec. (a)(9). Pub. L. 101–204 substituted "clearinghouses" for "clearinghouse".
 
 <b>1988</b>—Subsec. (a)(7) to (9). Pub. L. 100–690, §7287, added pars. (7) to (9).
 

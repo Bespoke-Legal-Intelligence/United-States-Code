@@ -54,7 +54,7 @@ Funds for construction and improvement.—All funds made available for the const
 
 &emsp;(6)
 
-Administrative expenses.—Of the funds authorized to be appropriated for the tribal transportation program, not more than 6 percent may be used by the Secretary or the Secretary of the Interior for program management and oversight and project-related administrative expenses.
+Administrative expenses.—Of the funds authorized to be appropriated for the tribaltransportation program, not more than 6 percent may be used by the Secretary or the Secretary of the Interior for program management and oversight and project-related administrative expenses.
 
 &emsp;(7)
 
@@ -66,7 +66,7 @@ Maintenance.—
 
 &emsp;&emsp;(A)
 
-Use of funds.—Notwithstanding any other provision of this title, of the amount of funds allocated to an Indian tribe from the tribal transportation program, for thepurpose of maintenance (excluding road sealing, which shall not be subject to any limitation), the Secretary shall not use an amount more than the greater of—
+Use of funds.—Notwithstanding any other provision of this title, of the amount of funds allocated to an Indian tribe from the tribal transportation program, for the purpose of maintenance (excluding road sealing, which shall not be subject to any limitation), the Secretary shall not use an amount more than the greater of—
 
 &emsp;&emsp;&emsp;(i) an amount equal to 25 percent; or
 
@@ -164,7 +164,7 @@ Transportation facilities included in the inventory.—For purposes of identifyi
 
 &emsp;&emsp;&emsp;(vi) are public roads within or providing access to an Indian reservation or Indian trust land or restricted Indian land that is not subject to fee title alienation without the approval of the Federal Government, or Indian or Alaska Native villages, groups, or communities in which Indians and Alaska Natives reside, whom the Secretary of the Interior has determined are eligible for services generally available to Indians under Federal laws specifically applicable to Indians; or
 
-&emsp;&emsp;&emsp;(vii) are primary access routes proposed by tribal governments, including roads between villages, roads to landfills, roads to drinking water sources, roads to natural resources identified for economic development, and roads that provide access to intermodal terminals, such as airports, harbors, or boat landings.
+&emsp;&emsp;&emsp;(vii) are primary access routes proposed by tribal governments, including roads between villages, roads to landfills, roads todrinking water sources, roads to natural resources identified for economic development, and roads that provide access to intermodal terminals, such as airports, harbors, or boat landings.
 
 &emsp;&emsp;(C)
 
@@ -258,7 +258,7 @@ Distribution among regions.—Of the amounts set aside under clause (i), the Sec
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Distribution within a region.—Of the amount that a region receives under subclause (I), the Secretary shall distribute tribal supplemental funding amongIndian tribes within such region as follows:
+Distribution within a region.—Of the amount that a region receives under subclause (I), the Secretary shall distribute tribal supplemental funding among Indian tribes within such region as follows:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa)
 
@@ -308,7 +308,7 @@ Contracts and agreements with indian tribes.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with <sup>2</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements forsuch planning, research, engineering, and construction in accordance with <sup>2</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
 &emsp;&emsp;(B)
 
@@ -364,7 +364,7 @@ Dispute resolution.—In the event of a disagreement between the Secretary or th
 
 &emsp;&emsp;(J)
 
-Termination of contract or agreement.—On the date of the termination of a contract or agreement under this section by an Indian tribal government, the Secretary shall transfer all funds that would have been allocated to the Indian tribal government under the contract or agreement to the Secretary of the Interior to provide continued transportation services in accordance with applicable law.
+Termination of contract or agreement.—On the date of the termination of a contract or agreement under this section by an Indian tribal government, the Secretary shall transfer all funds that would have beenallocated to the Indian tribal government under the contract or agreement to the Secretary of the Interior to provide continued transportation services in accordance with applicable law.
 
 (c)
 
@@ -376,7 +376,7 @@ In general.—For each fiscal year, not more than 2 percent of the funds made av
 
 &emsp;(2)
 
-Requirement.—An Indian tribal government, in cooperation with the Secretary of the Interior and, as appropriate, with a State,local government, or metropolitan planning organization, shall carry out a transportation planning process in accordance with section 201(c).
+Requirement.—An Indian tribal government, in cooperation with the Secretary of the Interior and, as appropriate, with a State, local government, or metropolitan planning organization, shall carry out a transportation planning process in accordance with section 201(c).
 
 &emsp;(3)
 
@@ -454,295 +454,295 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 Pub. L. 112–141, div. A, title I, §1123, July 6, 2012, 126 Stat. 497, provided that:
 
-“(a)
+"(a)
 
 Definitions.—In this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Emergency or disaster.—The term ‘emergency or disaster’ means damage to a tribal transportation facility that—
+Emergency or disaster.—The term 'emergency or disaster' means damage to a tribal transportation facility that—
 
-&emsp;&emsp;“(A) renders the tribal transportation facility impassable or unusable;
+&emsp;&emsp;"(A) renders the tribal transportation facility impassable or unusable;
 
-&emsp;&emsp;“(B) is caused by—
+&emsp;&emsp;"(B) is caused by—
 
-&emsp;&emsp;&emsp;“(i) a natural disaster over a widespread area; or
+&emsp;&emsp;&emsp;"(i) a natural disaster over a widespread area; or
 
-&emsp;&emsp;&emsp;“(ii) a catastrophic failure from an external cause; and
+&emsp;&emsp;&emsp;"(ii) a catastrophic failure from an external cause; and
 
-&emsp;&emsp;“(C) would be eligible under the emergency relief program under section 125 of title 23, United States Code, but does not meet the funding thresholds required by that section.
+&emsp;&emsp;"(C) would be eligible under the emergency relief program under section 125 of title 23, United States Code, but does not meet the funding thresholds required by that section.
 
-&emsp;“(2)
+&emsp;"(2)
 
-List.—The term ‘list’ means the funding priority list developed under subsection (c)(5).
+List.—The term 'list' means the funding priority list developed under subsection (c)(5).
 
-&emsp;“(3)
+&emsp;"(3)
 
-Program.—The term ‘program’ means the Tribal High Priority Projects program established under subsection (b)(1).
+Program.—The term 'program' means the Tribal High Priority Projects program established under subsection (b)(1).
 
-&emsp;“(4)
+&emsp;"(4)
 
-Project.—The term ‘project’ means a project provided funds under the program.
+Project.—The term 'project' means a project provided funds under the program.
 
-“(b)
+"(b)
 
 Program.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary shall use amounts made available under subsection (h) to carry out a Tribal High Priority Projects program under which funds shall be provided to eligible applicants in accordance with this section.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Eligible applicants.—Applicants eligible for program funds under this section include—
 
-&emsp;&emsp;“(A) an Indian tribe whose annual allocation of funding under section 202 of title 23, United States Code, is insufficient to complete the highest priority project of the Indian tribe;
+&emsp;&emsp;"(A) an Indian tribe whose annual allocation of funding under section 202 of title 23, United States Code, is insufficient to complete the highest priority project of the Indian tribe;
 
-&emsp;&emsp;“(B) a governmental subdivision of an Indian tribe—
+&emsp;&emsp;"(B) a governmental subdivision of an Indian tribe—
 
-&emsp;&emsp;&emsp;“(i) that is authorized to administer the funding of the Indian tribe under section 202 of title 23, United States Code; and
+&emsp;&emsp;&emsp;"(i) that is authorized to administer the funding of the Indian tribe under section 202 of title 23, United States Code; and
 
-&emsp;&emsp;&emsp;“(ii) for which the annual allocation under that section is insufficient to complete the highest priority project of the Indian tribe; or
+&emsp;&emsp;&emsp;"(ii) for which the annual allocation under that section is insufficient to complete the highest priority project of the Indian tribe; or
 
-&emsp;&emsp;“(C) any Indian tribe that has an emergency or disaster with respect to a transportation facility included on the national inventory of tribal transportation facilities under section 202(b)(1) of title 23, United States Code.
+&emsp;&emsp;"(C) any Indian tribe that has an emergency or disaster with respect to a transportation facility included on the national inventory of tribal transportation facilities under section 202(b)(1) of title 23, United States Code.
 
-“(c)
+"(c)
 
 Project Applications; Funding.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—To apply for funds under this section, an eligible applicant shall submit to the Department of the Interior or the Department an application that includes—
 
-&emsp;&emsp;“(A) project scope of work, including deliverables, budget, and timeline;
+&emsp;&emsp;"(A) project scope of work, including deliverables, budget, and timeline;
 
-&emsp;&emsp;“(B) the amount of funds requested;
+&emsp;&emsp;"(B) the amount of funds requested;
 
-&emsp;&emsp;“(C) project information addressing—
+&emsp;&emsp;"(C) project information addressing—
 
-&emsp;&emsp;&emsp;“(i) the ranking criteria identified in paragraph (3); or
+&emsp;&emsp;&emsp;"(i) the ranking criteria identified in paragraph (3); or
 
-&emsp;&emsp;&emsp;“(ii) the nature of the emergency or disaster;
+&emsp;&emsp;&emsp;"(ii) the nature of the emergency or disaster;
 
-&emsp;&emsp;“(D) documentation that the project meets the definition of a tribal transportation facility and is included in the national inventory of tribal transportation facilities under section 202(b)(1) of title 23, United States Code;
+&emsp;&emsp;"(D) documentation that the project meets the definition of a tribal transportation facility and is included in the national inventory of tribal transportation facilities under section 202(b)(1) of title 23, United States Code;
 
-&emsp;&emsp;“(E) documentation of official tribal action requesting the project;
+&emsp;&emsp;"(E) documentation of official tribal action requesting the project;
 
-&emsp;&emsp;“(F) documentation from the Indian tribe providing authority for the Secretary of the Interior to place the project on a transportation improvement program if the project is selected and approved; and
+&emsp;&emsp;"(F) documentation from the Indian tribe providing authority for the Secretary of the Interior to place the project on a transportation improvement program if the project is selected and approved; and
 
-&emsp;&emsp;“(G) any other information the Secretary of the Interior or Secretary considers appropriate to make a determination.
+&emsp;&emsp;"(G) any other information the Secretary of the Interior or Secretary considers appropriate to make a determination.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Limitation on applications.—An applicant for funds under the program may only have 1 application for assistance under this section pending at any 1 time, including any emergency or disaster application.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Application ranking.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The Secretary of the Interior and the Secretary shall determine the eligibility of, and fund, program applications, subject to the availability of funds.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Ranking criteria.—The project ranking criteria for applications under this section shall include—
 
-&emsp;&emsp;&emsp;“(i) the existence of safety hazards with documented fatality and injury accidents;
+&emsp;&emsp;&emsp;"(i) the existence of safety hazards with documented fatality and injury accidents;
 
-&emsp;&emsp;&emsp;“(ii) the number of years since the Indian tribe last completed a construction project funded by section 202 of title 23, United States Code;
+&emsp;&emsp;&emsp;"(ii) the number of years since the Indian tribe last completed a construction project funded by section 202 of title 23, United States Code;
 
-&emsp;&emsp;&emsp;“(iii) the readiness of the Indian tribe to proceed to construction or bridge design need;
+&emsp;&emsp;&emsp;"(iii) the readiness of the Indian tribe to proceed to construction or bridge design need;
 
-&emsp;&emsp;&emsp;“(iv) the percentage of project costs matched by funds that are not provided under section 202 of title 23, United States Code, with projects with a greater percentage of other sources of matching funds ranked ahead of lesser matches);
+&emsp;&emsp;&emsp;"(iv) the percentage of project costs matched by funds that are not provided under section 202 of title 23, United States Code, with projects with a greater percentage of other sources of matching funds ranked ahead of lesser matches);
 
-&emsp;&emsp;&emsp;“(v) the amount of funds requested, with requests for lesser amounts given greater priority;
+&emsp;&emsp;&emsp;"(v) the amount of funds requested, with requests for lesser amounts given greater priority;
 
-&emsp;&emsp;&emsp;“(vi) the challenges caused by geographic isolation; and
+&emsp;&emsp;&emsp;"(vi) the challenges caused by geographic isolation; and
 
-&emsp;&emsp;&emsp;“(vii) all weather access for employment, commerce, health, safety, educational resources, or housing.
+&emsp;&emsp;&emsp;"(vii) all weather access for employment, commerce, health, safety, educational resources, or housing.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Project scoring matrix.—The project scoring matrix established in the appendix to part 170 of title 25, Code of Regulations (as in effect on the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\]) shall be used to rank all applications accepted under this section.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Funding priority list.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The Secretary of the Interior and the Secretary shall jointly produce a funding priority list that ranks the projects approved for funding under the program.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Limitation.—The number of projects on the list shall be limited by the amount of funding made available.
 
-&emsp;“(6)
+&emsp;"(6)
 
 Timeline.—The Secretary of the Interior and the Secretary shall—
 
-&emsp;&emsp;“(A) require applications for funding no sooner than 60 days after funding is made available pursuant to subsection (a);
+&emsp;&emsp;"(A) require applications for funding no sooner than 60 days after funding is made available pursuant to subsection (a);
 
-&emsp;&emsp;“(B) notify all applicants and Regions in writing of acceptance of applications;
+&emsp;&emsp;"(B) notify all applicants and Regions in writing of acceptance of applications;
 
-&emsp;&emsp;“(C) rank all accepted applications in accordance with the project scoring matrix, develop the funding priority list, and return unaccepted applications to the applicant with an explanation of deficiencies;
+&emsp;&emsp;"(C) rank all accepted applications in accordance with the project scoring matrix, develop the funding priority list, and return unaccepted applications to the applicant with an explanation of deficiencies;
 
-&emsp;&emsp;“(D) notify all accepted applicants of the projects included on the funding priority list no later than 180 days after the application deadline has passed pursuant to subparagraph (A); and
+&emsp;&emsp;"(D) notify all accepted applicants of the projects included on the funding priority list no later than 180 days after the application deadline has passed pursuant to subparagraph (A); and
 
-&emsp;&emsp;“(E) distribute funds to successful applicants.
+&emsp;&emsp;"(E) distribute funds to successful applicants.
 
-“(d)
+"(d)
 
 Emergency or Disaster Project Applications.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Notwithstanding subsection (c)(6), an eligible applicant may submit an emergency or disaster project application at any time during the fiscal year.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Consideration as priority.—The Secretary shall—
 
-&emsp;&emsp;“(A) consider project applications submitted under paragraph (1) to be a priority; and
+&emsp;&emsp;"(A) consider project applications submitted under paragraph (1) to be a priority; and
 
-&emsp;&emsp;“(B) fund the project applications in accordance with paragraph (3).
+&emsp;&emsp;"(B) fund the project applications in accordance with paragraph (3).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Funding.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—If an eligible applicant submits an application for a project under this subsection before the issuance of the list under subsection (c)(5) and the project is determined to be eligible for program funds, the Secretary of the Interior shall provide funding for the project before providing funding for other approved projects on the list.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Submission after issuance of list.—If an eligible applicant submits an application under this subsection after the issuance of the list under subsection (c)(5) and the distribution of program funds in accordance with the list, the Secretary of the Interior shall provide funding for the project on the date on which unobligated funds provided to projects on the list are returned to the Department of the Interior.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Effect on other projects.—If the Secretary of the Interior uses funding previously designated for a project on the list to fund an emergency or disaster project under this subsection, the project on the list that did not receive funding as a result of the redesignation of funds shall move to the top of the list the following year.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Emergency or disaster project cost.—The cost of a project submitted as an emergency or disaster under this subsection shall be at least 10 percent of the distribution of funds of the Indian tribe under section 202(b) of title 23, United States Code.
 
-“(e)
+"(e)
 
 Limitation on Use of Funds.—Program funds shall not be used for—
 
-&emsp;“(1) transportation planning;
+&emsp;"(1) transportation planning;
 
-&emsp;“(2) research;
+&emsp;"(2) research;
 
-&emsp;“(3) routine maintenance activities;
+&emsp;"(3) routine maintenance activities;
 
-&emsp;“(4) structures and erosion protection unrelated to transportation and roadways;
+&emsp;"(4) structures and erosion protection unrelated to transportation and roadways;
 
-&emsp;“(5) general reservation planning not involving transportation;
+&emsp;"(5) general reservation planning not involving transportation;
 
-&emsp;“(6) landscaping and irrigation systems not involving transportation programs and projects;
+&emsp;"(6) landscaping and irrigation systems not involving transportation programs and projects;
 
-&emsp;“(7) work performed on projects that are not included on a transportation improvement program approved by the Federal Highway Administration, unless otherwise authorized by the Secretary of the Interior and the Secretary;
+&emsp;"(7) work performed on projects that are not included on a transportation improvement program approved by the Federal Highway Administration, unless otherwise authorized by the Secretary of the Interior and the Secretary;
 
-&emsp;“(8) the purchase of equipment unless otherwise authorized by Federal law; or
+&emsp;"(8) the purchase of equipment unless otherwise authorized by Federal law; or
 
-&emsp;“(9) the condemnation of land for recreational trails.
+&emsp;"(9) the condemnation of land for recreational trails.
 
-“(f)
+"(f)
 
 Limitation on Project Amounts.—Project funding shall be limited to a maximum of $1,000,000 per application, except that funding for disaster or emergency projects shall also be limited to the estimated cost of repairing damage to the tribal transportation facility.
 
-“(g)
+"(g)
 
 Cost Estimate Certification.—All cost estimates prepared for a project shall be required to be submitted by the applicant to the Secretary of the Interior and the Secretary for certification and approval.
 
-“(h)
+"(h)
 
 Authorization of Appropriations.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—There is authorized to be appropriated $30,000,000 out of the general fund of the Treasury to carry out the program for each of fiscal years 2013 and 2014.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Administration.—The funds made available under paragraph (1) shall be administered in the same manner as funds made available for the tribal transportation program under section 202 of title 23, United States Code, except that—
 
-&emsp;&emsp;“(A) the funds made available for the program shall remain available until September 30 of the third fiscal year after the year appropriated; and
+&emsp;&emsp;"(A) the funds made available for the program shall remain available until September 30 of the third fiscal year after the year appropriated; and
 
-&emsp;&emsp;“(B) the Federal share of the cost of a project shall be 100 percent.”
+&emsp;&emsp;"(B) the Federal share of the cost of a project shall be 100 percent."
 
 #### Additional Authorization of Contract Authority for States With Indian Reservations
 
 Pub. L. 105–178, title I, §1214(d), June 9, 1998, 112 Stat. 205, as amended by Pub. L. 109–59, title I, §1806, Aug. 10, 2005, 119 Stat. 1460, provided that:
 
-“(1)
+"(1)
 
 Availability to states.—Not later than October 1 of each fiscal year, funds made available under paragraph (5) for the fiscal year shall be made available by the Secretary, in equal amounts, to each State that has within the boundaries of the State all or part of an Indian reservation having a land area of 10,000,000 acres or more.
 
-“(2)
+"(2)
 
 Availability to eligible counties.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Each fiscal year, each county that is located in a State to which funds are made available under paragraph (1), and that has in the county a public road described in subparagraph (B), shall be eligible to apply to the State for all or a portion of the funds made available to the State under this subsection to be used by the county to maintain such roads.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Roads.—A public road referred to in subparagraph (A) is a public road that—
 
-&emsp;&emsp;“(i) is within, adjacent to, or provides access to an Indian reservation described in paragraph (1);
+&emsp;&emsp;"(i) is within, adjacent to, or provides access to an Indian reservation described in paragraph (1);
 
-&emsp;&emsp;“(ii) is used by a school bus to transport children to or from a school or Headstart program carried out under the Head Start Act (42 U.S.C. 9831 et seq.); and
+&emsp;&emsp;"(ii) is used by a school bus to transport children to or from a school or Headstart program carried out under the Head Start Act (42 U.S.C. 9831 et seq.); and
 
-&emsp;&emsp;“(iii) is maintained by the county in which the public road is located.
+&emsp;&emsp;"(iii) is maintained by the county in which the public road is located.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Allocation among eligible counties.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 In general.—Except as provided in clause (ii), each State that receives funds under paragraph (1) shall provide directly to each county that applies for funds the amount that the county requests in the application.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
 Allocation among eligible counties.—If the total amount of funds applied for under this subsection by eligible counties in a State exceeds the amount of funds available to the State, the State shall equitably allocate the funds among the eligible counties that apply for funds.
 
-“(3)
+"(3)
 
 Supplementary funding.—For each fiscal year, the Secretary shall ensure that funding made available under this subsection supplements (and does not supplant)—
 
-&emsp;“(A) any obligation of funds by the Bureau of Indian Affairs for road maintenance programs on Indian reservations; and
+&emsp;"(A) any obligation of funds by the Bureau of Indian Affairs for road maintenance programs on Indian reservations; and
 
-&emsp;“(B) any funding provided by a State to a county for road maintenance programs in the county.
+&emsp;"(B) any funding provided by a State to a county for road maintenance programs in the county.
 
-“(4)
+"(4)
 
 Use of unallocated funds.—Any portion of the funds made available to a State under this subsection that is not made available to counties within 1 year after the funds are made available to the State shall be apportioned among the States in accordance with section 104(b) of title 23, United States Code.
 
-“(5)
+"(5)
 
 Funding.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this subsection $1,800,000 for each of fiscal years 2005 through 2009.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Contract authority.—Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code.”
+Contract authority.—Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code."
 
 #### Indian Reservation Roads
 
-Pub. L. 102–240, title I, §1032(d), Dec. 18, 1991, 105 Stat. 1975, provided that: “Notwithstanding any other provision of law, funds allocated for Indian reservation roads may be used for the purpose of funding road projects on roads of tribally controlled postsecondary vocational institutions.”
+Pub. L. 102–240, title I, §1032(d), Dec. 18, 1991, 105 Stat. 1975, provided that: "Notwithstanding any other provision of law, funds allocated for Indian reservation roads may be used for the purpose of funding road projects on roads of tribally controlled postsecondary vocational institutions."
 
 Pub. L. 102–240, title I, §1042, Dec. 18, 1991, 105 Stat. 1993, directed Secretary of Transportation to conduct a study on funding needs for Indian reservation roads and to report to Congress on results of the study not later than one year after Dec. 18, 1991, prior to repeal by Pub. L. 105–362, title XV, §1501(c), Nov. 10, 1998, 112 Stat. 3294.
 
 <i><sup>1</sup></i><i> So in original. The closing bracket probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “the”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "the".</i>
 

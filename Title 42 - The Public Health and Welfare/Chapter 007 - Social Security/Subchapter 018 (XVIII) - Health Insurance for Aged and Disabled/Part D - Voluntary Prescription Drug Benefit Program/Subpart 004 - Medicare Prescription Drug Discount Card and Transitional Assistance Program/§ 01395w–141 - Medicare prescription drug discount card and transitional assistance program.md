@@ -60,15 +60,15 @@
 
 #### (A) Covered discount card drug
 
-&emsp;&emsp;The term “covered discount card drug” has the meaning given the term “covered part D drug” in section 1395w–102(e) of this title.
+&emsp;&emsp;The term "covered discount card drug" has the meaning given the term "covered part D drug" in section 1395w–102(e) of this title.
 
 #### (B) Discount card eligible individual
 
-&emsp;&emsp;The term “discount card eligible individual” is defined in subsection (b)(1)(A) of this section.
+&emsp;&emsp;The term "discount card eligible individual" is defined in subsection (b)(1)(A) of this section.
 
 #### (C) Endorsed discount card program; endorsed program
 
-&emsp;&emsp;The terms “endorsed discount card program” and “endorsed program” mean a prescription drug discount card program that is endorsed (and for which the sponsor has a contract with the Secretary) under this section.
+&emsp;&emsp;The terms "endorsed discount card program" and "endorsed program" mean a prescription drug discount card program that is endorsed (and for which the sponsor has a contract with the Secretary) under this section.
 
 #### (D) Negotiated price
 
@@ -76,15 +76,15 @@
 
 #### (E) Prescription drug card sponsor; sponsor
 
-&emsp;&emsp;The terms “prescription drug card sponsor” and “sponsor” are defined in subsection (h)(1)(A) of this section.
+&emsp;&emsp;The terms "prescription drug card sponsor" and "sponsor" are defined in subsection (h)(1)(A) of this section.
 
 #### (F) State
 
-&emsp;&emsp;The term “State” has the meaning given such term for purposes of subchapter XIX of this chapter.
+&emsp;&emsp;The term "State" has the meaning given such term for purposes of subchapter XIX of this chapter.
 
 #### (G) Transitional assistance eligible individual
 
-&emsp;&emsp;The term “transitional assistance eligible individual” is defined in subsection (b)(2) of this section.
+&emsp;&emsp;The term "transitional assistance eligible individual" is defined in subsection (b)(2) of this section.
 
 #### (b) Eligibility for discount card and for transitional assistance
 
@@ -94,7 +94,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “discount card eligible individual” means an individual who—
+&emsp;&emsp;The term "discount card eligible individual" means an individual who—
 
 &emsp;&emsp;&emsp;(i) is entitled to benefits, or enrolled, under part A of this subchapter or enrolled under part B of this subchapter; and
 
@@ -108,7 +108,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term “transitional assistance eligible individual” means a discount card eligible individual who resides in one of the 50 States or the District of Columbia and whose income (as determined under subsection (f)(1)(B) of this section) is not more than 135 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section) applicable to the family size involved (as determined under subsection (f)(1)(B) of this section).
+&emsp;&emsp;Subject to subparagraph (B), the term "transitional assistance eligible individual" means a discount card eligible individual who resides in one of the 50 States or the District of Columbia and whose income (as determined under subsection (f)(1)(B) of this section) is not more than 135 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section) applicable to the family size involved (as determined under subsection (f)(1)(B) of this section).
 
 #### (B) Exclusion of individuals with certain prescription drug coverage
 
@@ -118,11 +118,11 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) Chapter 55 of title 10 (relating to medical and dental care for members of the uniformed services).
 
-&emsp;&emsp;&emsp;(iii) A plan under chapter 89 of title 5 (relating to the Federal employees’ health benefits program).
+&emsp;&emsp;&emsp;(iii) A plan under chapter 89 of title 5 (relating to the Federal employees' health benefits program).
 
 #### (3) Special transitional assistance eligible individual
 
-&emsp;The term “special transitional assistance eligible individual” means a transitional assistance eligible individual whose income (as determined under subsection (f)(1)(B) of this section) is not more than 100 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section) applicable to the family size involved (as determined under subsection (f)(1)(B) of this section).
+&emsp;The term "special transitional assistance eligible individual" means a transitional assistance eligible individual whose income (as determined under subsection (f)(1)(B) of this section) is not more than 100 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section) applicable to the family size involved (as determined under subsection (f)(1)(B) of this section).
 
 #### (4) Treatment of medicaid medically needy
 
@@ -158,7 +158,7 @@ For purposes of this section:
 
 #### (iii) Additional exceptions
 
-&emsp;&emsp;&emsp;The Secretary shall permit an individual to change the endorsed discount card program in which the individual is enrolled in the case of an individual who changes residence to be outside the service area of such program and in such other exceptional cases as the Secretary may provide (taking into account the circumstances for special election periods under section 1395w–21(e)(4) of this title). Under the previous sentence, the Secretary may consider a change in residential setting (such as placement in a nursing facility) or enrollment in or disenrollment from a plan under part C of this subchapter through which the individual was enrolled in an endorsed program to be an exceptional circumstance.
+&emsp;&emsp;&emsp;The Secretary shall permit an individual to change the endorsed discount card program in which the individual is enrolled in the case of an individual who changes residence to be outside the service area of such program and in such other exceptional cases as the Secretary may provide (taking into account the circumstances for special election periods under section 1395w–21(e)(4) of this title). Under the previous sentence, the Secretary may consider a change in residential setting (such as placement in a nursing facility) or enrollment in or disenrollment from a plan under part C of this subchapter throughwhich the individual was enrolled in an endorsed program to be an exceptional circumstance.
 
 #### (D) Disenrollment
 
@@ -186,7 +186,7 @@ For purposes of this section:
 
 #### (C) Uniform enrollment fee
 
-&emsp;&emsp;A prescription drug card sponsor shall ensure that the annual enrollment fee (if any)for an endorsed discount card program is the same for all discount card eligible individuals enrolled in the program and residing in the State.
+&emsp;&emsp;A prescription drug card sponsor shall ensure that the annual enrollment fee (if any) for an endorsed discount card program is the same for all discount card eligible individuals enrolled in the program and residing in the State.
 
 #### (D) Collection
 
@@ -256,7 +256,7 @@ For purposes of this section:
 
 #### (B) Response to enrollee questions
 
-&emsp;&emsp;Each sponsor offering an endorsed discount card program shall have a mechanism (including a toll-free telephone number) for providing upon request specific information (such as negotiated prices and the amount of transitional assistance remaining available through the program) to discount card eligible individuals enrolled in the program. The sponsor shall inform transitional assistance eligible individuals enrolled in the program of the availability of such toll-free telephonenumber to provide information on the amount of available transitional assistance.
+&emsp;&emsp;Each sponsor offering an endorsed discount card program shall have a mechanism (including a toll-free telephone number) for providing upon request specific information (such as negotiated prices and the amount of transitional assistance remaining available through the program) to discount card eligible individuals enrolled in the program. The sponsor shall inform transitional assistance eligible individuals enrolled in the program of the availability of such toll-free telephone number to provide information on the amount of available transitional assistance.
 
 #### (C) Information on balance of transitional assistance available at point-of-sale
 
@@ -328,7 +328,7 @@ For purposes of this section:
 
 #### (B) Income and family size determinations
 
-&emsp;&emsp;For purposes of this section, the Secretary shall define the terms “income” and “family size” and shall specify the methods and period for which they are determined. If undersuch methods income or family size is determined based on the income or family size for prior periods of time, the Secretary shall permit (whether through a process of reconsideration or otherwise) an individual whose income or family size has changed to elect to have eligibility for transitional assistance determined based on income or family size for a more recent period.
+&emsp;&emsp;For purposes of this section, the Secretary shall define the terms "income" and "family size" and shall specify the methods and period for which they are determined. If under such methods income or family size is determined based on the income or family size for prior periods of time, the Secretary shall permit (whether through a process of reconsideration or otherwise) an individual whose income or family size has changed to elect to have eligibility for transitional assistance determined based on income or family size for a more recent period.
 
 #### (2) Use of self-certification for transitional assistance
 
@@ -468,7 +468,7 @@ For purposes of this section:
 
 #### (A) Residents of long-term care facilities
 
-&emsp;&emsp;The Secretary shall establish procedures and may waive requirements of this sectionas necessary to negotiate arrangements with sponsors to provide arrangements with pharmacies that support long-term care facilities in order to ensure access to transitional assistance for transitional assistance eligible individuals who reside in long-term care facilities.
+&emsp;&emsp;The Secretary shall establish procedures and may waive requirements of this section as necessary to negotiate arrangements with sponsors to provide arrangements with pharmacies that support long-term care facilities in order to ensure access to transitional assistance for transitional assistance eligible individuals who reside in long-term care facilities.
 
 #### (B) American Indians
 
@@ -488,7 +488,7 @@ For purposes of this section:
 
 #### (A) Prescription drug card sponsor and sponsor defined
 
-&emsp;&emsp;For purposes of this section, the terms “prescription drug card sponsor” and “sponsor” mean any nongovernmental entity that the Secretary determines to be appropriate to offer an endorsed discount card program under this section, which may include—
+&emsp;&emsp;For purposes of this section, the terms "prescription drug card sponsor" and "sponsor" mean any nongovernmental entity that the Secretary determines to be appropriate to offer an endorsed discount card program under this section, which may include—
 
 &emsp;&emsp;&emsp;(i) a pharmaceutical benefit management company;
 
@@ -542,7 +542,7 @@ For purposes of this section:
 
 #### (4) Savings to medicare beneficiaries
 
-&emsp;Each prescription drug card sponsor that offers an endorsed discount card program shallpass on to discount card eligible individuals enrolled in the program negotiated prices on covered discount card drugs, including discounts negotiated with pharmacies and manufacturers, to the extent disclosed under subsection (i)(1) of this section.
+&emsp;Each prescription drug card sponsor that offers an endorsed discount card program shall pass on to discount card eligible individuals enrolled in the program negotiated prices on covered discount card drugs, including discounts negotiated with pharmacies and manufacturers, to the extent disclosed under subsection (i)(1) of this section.
 
 #### (5) Grievance mechanism
 
@@ -582,7 +582,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an organization that is offering a plan under part C of this subchapter or enrollment under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is seeking to be a prescription drug card sponsor under this section, the organization may elect to apply the special rules under subparagraph (B) with respect to enrollees in any plan described in section 1395w–21(a)(2)(A) of this title that it offers or under such contract and an endorsed discount card program it offers, but only if it limits enrollment under such program to individuals enrolled in such plan or under such contract.
+&emsp;&emsp;In the case of an organization that is offering a plan under part C of this subchapter orenrollment under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is seeking to be a prescription drug card sponsor under this section, the organization may elect to apply the special rules under subparagraph (B) with respect to enrollees in any plan described in section 1395w–21(a)(2)(A) of this title that it offers or under such contract and an endorsed discount card program it offers, but only if it limits enrollment under such program to individuals enrolled in such plan or under such contract.
 
 #### (B) Special rules
 
@@ -652,7 +652,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;There is created within the Federal Supplementary Medical Insurance Trust Fund established by section 1395t of this title an account to be known as the “Transitional Assistance Account” (in this subsection referred to as the “Account”).
+&emsp;&emsp;There is created within the Federal Supplementary Medical Insurance Trust Fund established by section 1395t of this title an account to be known as the "Transitional Assistance Account" (in this subsection referred to as the "Account").
 
 #### (B) Funds
 
@@ -698,23 +698,23 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 
 #### Rules for Implementation
 
-Pub. L. 108–173, title I, §105(c), Dec. 8, 2003, 117 Stat. 2166, provided that: “The following rules shall apply to the medicare prescription drug discount card and transitional assistance program under section 1860D–31 of the Social Security Act \[this section\], as added by section 101(a):
+Pub. L. 108–173, title I, §105(c), Dec. 8, 2003, 117 Stat. 2166, provided that: "The following rules shall apply to the medicare prescription drug discount card and transitional assistance program under section 1860D–31 of the Social Security Act \[42 U.S.C. 1395w–141\], as added by section 101(a):
 
-&emsp;“(1) In promulgating regulations pursuant to subsection (a)(2)(B) of such section 1860D–31 \[subsec. (a)(2)(B) of this section\]—
+&emsp;"(1) In promulgating regulations pursuant to subsection (a)(2)(B) of such section 1860D–31 \[42 U.S.C. 1395w–141(a)(2)(B)\]—
 
-&emsp;&emsp;“(A) section 1871(a)(3) of the Social Security Act (42 U.S.C. 1395hh(a)(3)), as added by section 902(a)(1), shall not apply;
+&emsp;&emsp;"(A) section 1871(a)(3) of the Social Security Act (42 U.S.C. 1395hh(a)(3)), as added by section 902(a)(1), shall not apply;
 
-&emsp;&emsp;“(B) chapter 35 of title 44, United States Code, shall not apply; and
+&emsp;&emsp;"(B) chapter 35 of title 44, United States Code, shall not apply; and
 
-&emsp;&emsp;“(C) sections 553(d) and 801(a)(3)(A) of title 5, United States Code, shall not apply.
+&emsp;&emsp;"(C) sections 553(d) and 801(a)(3)(A) of title 5, United States Code, shall not apply.
 
-&emsp;“(2) Section 1857(c)(5) of the Social Security Act (42 U.S.C. 1395w–27(c)(5)) shall apply with respect to section 1860D–31 of such Act, as added by section 101(a), in the same manner as it applies to part C of title XVIII of such Act \[part C of this subchapter\].
+&emsp;"(2) Section 1857(c)(5) of the Social Security Act (42 U.S.C. 1395w–27(c)(5)) shall apply with respect to section 1860D–31 of such Act, as added by section 101(a), in the same manner as it applies to part C of title XVIII of such Act \[42 U.S.C. 1395w–21 et seq.\].
 
-&emsp;“(3) The administration of such program shall be made without regard to chapter 35 of title 44, United States Code.
+&emsp;"(3) The administration of such program shall be made without regard to chapter 35 of title 44, United States Code.
 
-&emsp;“(4)(A) There shall be no judicial review of a determination not to endorse, or enter into a contract, with a prescription drug card sponsor under section 1860D–31 of the Social Security Act.
+&emsp;"(4)(A) There shall be no judicial review of a determination not to endorse, or enter into a contract, with a prescription drug card sponsor under section 1860D–31 of the Social Security Act.
 
-&emsp;“(B) In the case of any order issued to enjoin any provision of section 1860D–31 of the Social Security Act (or of \[sic\] any provision of this section \[amending sections 1395r, 1395t, and 1396r–8 of this title and sections 6103 and 7213 of Title 26, Internal Revenue Code\]), such order shall not affect any other provision of such section (or of this section) and all such provisions shall be treated as severable.”
+&emsp;"(B) In the case of any order issued to enjoin any provision of section 1860D–31 of the Social Security Act (or of \[sic\] any provision of this section \[amending sections 1395r, 1395t, and 1396r–8 of this title and sections 6103 and 7213 of Title 26, Internal Revenue Code\]), such order shall not affect any other provision of such section (or of this section) and all such provisions shall be treated as severable."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

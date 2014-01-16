@@ -1,8 +1,8 @@
 ### §7401. Commodity promotion and evaluation
 
-#### (a) “Commodity promotion law” defined
+#### (a) "Commodity promotion law" defined
 
-In this section, the term “commodity promotion law” means a Federal law that provides for the establishment and operation of a promotion program regarding an agricultural commodity that includes a combination of promotion, research, industry information, or consumer information activities, is funded by mandatory assessments on producers or processors, and is designed to maintain or expand markets and uses for the commodity (as determined by the Secretary). The term includes—
+In this section, the term "commodity promotion law" means a Federal law that provides for the establishment and operation of a promotion program regarding an agricultural commodity that includes a combination of promotion, research, industry information, or consumer information activities, is funded by mandatory assessments on producers or processors, and is designed to maintain or expand markets and uses for the commodity (as determined by the Secretary). The term includes—
 
 &emsp;(1) the marketing promotion provisions under section 608c(6)(I) of this title;
 
@@ -60,7 +60,7 @@ Congress finds the following:
 
 &emsp;(7) In contrast, a generic commodity promotion program is intended and designed to maintain or increase the overall demand for the agricultural commodity covered by the program and increase the size of the market for that commodity, often by utilizing promotion methods and techniques that individual producers and processors typically are unable, or have no incentive, to employ.
 
-&emsp;(8) The commodity promotion laws establish promotion programs that operate as “self-help” mechanisms for producers and processors to fund generic promotions for covered commodities which, under the required supervision and oversight of the Secretary of Agriculture—
+&emsp;(8) The commodity promotion laws establish promotion programs that operate as "self-help" mechanisms for producers and processors to fund generic promotions for covered commodities which, under the required supervision and oversight of the Secretary of Agriculture—
 
 &emsp;&emsp;(A) further specific national governmental goals, as established by Congress; and
 
@@ -122,11 +122,11 @@ Subsec. (e). Pub. L. 107–171, §10607(a), added subsec. (e).
 
 #### Short Title
 
-Section 511 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle B (§§511–526) of title V of Pub. L. 104–127, enacting subchapter II of this chapter\] may be cited as the ‘Commodity Promotion, Research, and Information Act of 1996’.”
+Section 511 of title V of Pub. L. 104–127 provided that: "This subtitle \[subtitle B (§§511–526) of title V of Pub. L. 104–127, enacting subchapter II of this chapter\] may be cited as the 'Commodity Promotion, Research, and Information Act of 1996'."
 
-Section 531 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle C (§§531–543) of title V of Pub. L. 104–127, enacting subchapter III of this chapter\] may be cited as the ‘Canola and Rapeseed Research, Promotion, and Consumer Information Act’.”
+Section 531 of title V of Pub. L. 104–127 provided that: "This subtitle \[subtitle C (§§531–543) of title V of Pub. L. 104–127, enacting subchapter III of this chapter\] may be cited as the 'Canola and Rapeseed Research, Promotion, and Consumer Information Act'."
 
-Section 551 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle D (§§551–564) of title V of Pub. L. 104–127, enacting subchapter IV of this chapter\] may be cited as the ‘National Kiwifruit Research, Promotion, and Consumer Information Act’.”
+Section 551 of title V of Pub. L. 104–127 provided that: "This subtitle \[subtitle D (§§551–564) of title V of Pub. L. 104–127, enacting subchapter IV of this chapter\] may be cited as the 'National Kiwifruit Research, Promotion, and Consumer Information Act'."
 
-Section 571 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle E (§§571–582) of title V of Pub. L. 104–127, enacting subchapter V of this chapter\] may be cited as the ‘Popcorn Promotion, Research, and Consumer Information Act’.”
+Section 571 of title V of Pub. L. 104–127 provided that: "This subtitle \[subtitle E (§§571–582) of title V of Pub. L. 104–127, enacting subchapter V of this chapter\] may be cited as the 'Popcorn Promotion, Research, and Consumer Information Act'."
 

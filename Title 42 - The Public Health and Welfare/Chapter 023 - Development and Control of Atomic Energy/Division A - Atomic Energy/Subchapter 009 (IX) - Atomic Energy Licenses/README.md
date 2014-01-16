@@ -11,7 +11,7 @@
 - [&sect; 02134 - Medical, industrial, and commercial licenses](%C2%A7%2002134%20-%20Medical%2C%20industrial%2C%20and%20commercial%20licenses.md)
 - [&sect; 02135 - Antitrust provisions governing licenses](%C2%A7%2002135%20-%20Antitrust%20provisions%20governing%20licenses.md)
 - [&sect; 02136 - Classes of facilities](%C2%A7%2002136%20-%20Classes%20of%20facilities.md)
-- [&sect; 02137 - Operators&#8217; licenses](%C2%A7%2002137%20-%20Operators%E2%80%99%20licenses.md)
+- [&sect; 02137 - Operators' licenses](%C2%A7%2002137%20-%20Operators%27%20licenses.md)
 - [&sect; 02138 - Suspension of licenses during war or national emergency](%C2%A7%2002138%20-%20Suspension%20of%20licenses%20during%20war%20or%20national%20emergency.md)
 - [&sect; 02139 - Component and other parts of facilities](%C2%A7%2002139%20-%20Component%20and%20other%20parts%20of%20facilities.md)
 - [&sect; 02139a - Regulations implementing requirements relating to licensing for components and other parts of facilities](%C2%A7%2002139a%20-%20Regulations%20implementing%20requirements%20relating%20to%20licensing%20for%20components%20and%20other%20parts%20of%20facilities.md)

@@ -18,7 +18,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (iii) Clinical protocol for IND
 
-&emsp;&emsp;&emsp;A clinical protocol for an investigational new drug protocol described in this clause is a clinical protocol consistent with the provisions of section 355(i) of this title, including any regulations promulgated under section 355(i) of this title, (referred to in this section as “investigational new drug application”) describing an investigation that the Secretary determines is intended to support a biosimilar biological product application for a product.
+&emsp;&emsp;&emsp;A clinical protocol for an investigational new drug protocol described in this clause is a clinical protocol consistent with the provisions of section 355(i) of this title, including any regulations promulgated under section 355(i) of this title, (referred to in this section as "investigational new drug application") describing an investigation that the Secretary determines is intended to support a biosimilar biological product application for a product.
 
 #### (iv) Due date
 
@@ -40,7 +40,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A person that pays an initial biosimilar biological product development fee for a product shall pay for such product, beginning in the fiscal year following the fiscal year in which the initial biosimilar biological product development fee was paid,an annual fee established under subsection (b)(1)(B) for biosimilar biological product development (referred to in this section as “annual biosimilar biological product development fee”).
+&emsp;&emsp;&emsp;A person that pays an initial biosimilar biological product development fee for a product shall pay for such product, beginning in the fiscal year following the fiscal year in which the initial biosimilar biological product development fee was paid, an annual fee established under subsection (b)(1)(B) for biosimilar biological product development (referred to in this section as "annual biosimilar biological product development fee").
 
 #### (ii) Due date
 
@@ -70,7 +70,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A person that has discontinued participation in the biosimilar biological product development program for a product under subparagraph (C) shall pay a fee (referred to in this section as “reactivation fee”) by the earlier of the following:
+&emsp;&emsp;&emsp;A person that has discontinued participation in the biosimilar biological product development program for a product under subparagraph (C) shall pay a fee (referred to in this section as "reactivation fee") by the earlier of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) Not later than 5 days after the Secretary grants a request for a biosimilar biological product development meeting for the product (after the date on which such participation was discontinued).
 
@@ -124,7 +124,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(i) A fee for a biosimilar biological product application that is equal to—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount of the fee established under subsection (b)(1)(D) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are required for approval; minus
+&emsp;&emsp;&emsp;&emsp;(I) the amount of the fee established under subsection (b)(1)(D) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respectto safety or effectiveness are required for approval; minus
 
 &emsp;&emsp;&emsp;&emsp;(II) the cumulative amount of fees paid, if any, under subparagraphs (A), (B), and (D) of paragraph (1) for the product that is the subject of the application.
 
@@ -248,7 +248,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;The Secretary shall grant to a person who is named in a biosimilar biological product application a waiver from the application fee assessed to that person under subsection (a)(2)(A) for the first biosimilar biological product application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay—
 
-&emsp;&emsp;(A) application fees for all subsequent biosimilar biological product applications submitted to the Secretary for review in thesame manner as an entity that is not a small business; and
+&emsp;&emsp;(A) application fees for all subsequent biosimilar biological product applications submitted to the Secretary for review in the same manner as an entity that is not a small business; and
 
 &emsp;&emsp;(B) all supplement fees for all supplements to biosimilar biological product applications submitted to the Secretary for review in the same manner as an entity that is not a small business.
 
@@ -258,7 +258,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (3) Small business defined
 
-&emsp;In this subsection, the term “small business” means an entity that has fewer than 500 employees, including employees of affiliates, and does not have a drug product that has been approved under a human drug application (as defined in section 379g of this title) or a biosimilar biological product application (as defined in section 379j–51(4) of this title) and introduced or delivered for introduction into interstate commerce.
+&emsp;In this subsection, the term "small business" means an entity that has fewer than 500 employees, including employees of affiliates, and does not have a drug product that has been approved under a human drug application (as defined in section 379g of this title) or a biosimilar biological product application (asdefined in section 379j–51(4) of this title) and introduced or delivered for introduction into interstate commerce.
 
 #### (d) Effect of failure to pay fees
 
@@ -312,9 +312,9 @@ This section may not be construed to require that the number of full-time equiva
 
 #### References in Text
 
-July 9, 2012, referred to in subsec. (a)(1)(A)(v), was in the original “the date of the enactment of the Biosimilars User Fee Act of 2012”, which was translated as meaning the date of enactment of the Biosimilar User Fee Act of 2012, title IV of Pub. L. 112–144, to reflect the probable intent of Congress.
+July 9, 2012, referred to in subsec. (a)(1)(A)(v), was in the original "the date of the enactment of the Biosimilars User Fee Act of 2012", which was translated as meaning the date of enactment of the Biosimilar User Fee Act of 2012, title IV of Pub. L. 112–144, to reflect the probable intent of Congress.
 
-Section 404 of the Biosimilar User Fee Act of 2012, referred to in subsec. (a)(2)(B), is section 404 of title IV ofPub. L. 112–144, July 9, 2012, 126 Stat. 1038. Section 404(a) is set out as a note under section 379j–51 of this title, and section 404(b) is set out as a note under section 379j–53 of this title.
+Section 404 of the Biosimilar User Fee Act of 2012, referred to in subsec. (a)(2)(B), is section 404 of title IV of Pub. L. 112–144, July 9, 2012, 126 Stat. 1038. Section 404(a) is set out as a note under section 379j–51 of this title, and section 404(b) is set out as a note under section 379j–53 of this title.
 
 #### Effective and Termination Dates
 
@@ -322,5 +322,5 @@ Section ceases to be effective Oct. 1, 2017, see section 404(a) of Pub. L. 112�
 
 Section effective Oct. 1, 2012, with fees under this subpart to be assessed for all biosimilar biological product applications received on or after Oct. 1, 2012, see section 405 of Pub. L. 112–144, set out as a note under section 379j–51 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Biosimilar”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Biosimilar".</i>
 

@@ -8,7 +8,7 @@ In order to strengthen the administrative capability and financial responsibilit
 
 &emsp;(2) shall give priority for program review to institutions of higher education that are—
 
-&emsp;&emsp;(A) institutions with a cohort default rate for loans under part B of this subchapter in excess of 25 percent or which places such institutions in the highest 25 percent of such institutions;
+&emsp;&emsp;(A) institutions with a cohort default rate for loans under part B of this subchapter inexcess of 25 percent or which places such institutions in the highest 25 percent of such institutions;
 
 &emsp;&emsp;(B) institutions with a default rate in dollar volume for loans under part B of this subchapter which places the institutions in the highest 25 percent of such institutions;
 
@@ -34,7 +34,7 @@ In order to strengthen the administrative capability and financial responsibilit
 
 #### (b) Special administrative rules
 
-In carrying out paragraphs (1) and (2) of subsection (a) of this section and any other relevantprovisions of this subchapter and part C of subchapter I of chapter 34 of title 42, the Secretary shall—
+In carrying out paragraphs (1) and (2) of subsection (a) of this section and any other relevant provisions of this subchapter and part C of subchapter I of chapter 34 of title 42, the Secretary shall—
 
 &emsp;(1) establish guidelines designed to ensure uniformity of practice in the conduct of program reviews of institutions of higher education;
 
@@ -76,29 +76,29 @@ The provisions of section 3403(b) of this title shall not apply to Secretarial d
 
 <b>2008</b>—Subsec. (b)(6) to (8). Pub. L. 110–315 added pars. (6) to (8).
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–244, §494(1)(A)(i), substituted “shall” for “may” in introductory provisions.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–244, §494(1)(A)(i), substituted "shall" for "may" in introductory provisions.
 
-Subsec. (a)(2)(C). Pub. L. 105–244, §494(1)(A)(ii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “institutions with a significant fluctuation in Federal Stafford Loan volume or Federal Pell Grant awards, or both, in the year for which the determination is made compared to the year prior to such year;”.
+Subsec. (a)(2)(C). Pub. L. 105–244, §494(1)(A)(ii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "institutions with a significant fluctuation in Federal Stafford Loan volume or Federal Pell Grant awards, or both, in the year for which the determination is made compared to the year prior to such year;".
 
-Subsec. (a)(2)(D). Pub. L. 105–244, §494(1)(A)(iii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “institutions reported to have deficiencies or financial aid problems by the appropriate State postsecondary review entity designated under subpart 1 of this part or by the appropriate accrediting agency or association;”.
+Subsec. (a)(2)(D). Pub. L. 105–244, §494(1)(A)(iii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "institutions reported to have deficiencies or financial aid problems by the appropriate State postsecondary review entity designated under subpart 1 of this part or by the appropriate accrediting agency or association;".
 
-Subsec. (a)(2)(E). Pub. L. 105–244, §494(1)(A)(iv), inserted “and” after the semicolon.
+Subsec. (a)(2)(E). Pub. L. 105–244, §494(1)(A)(iv), inserted "and" after the semicolon.
 
 Subsec. (a)(2)(F), (G). Pub. L. 105–244, §494(1)(A)(v), added subpar. (F) and struck out former subpars. (F) and (G) which read as follows:
 
-“(F) any institution which is required to be reviewed by a State postsecondary review entity pursuant to subpart 1 of this part under section 1099a–3(b) of this title; and
+"(F) any institution which is required to be reviewed by a State postsecondary review entity pursuant to subpart 1 of this part under section 1099a–3(b) of this title; and
 
-“(G) such other institutions as the Secretary deems necessary; and”.
+"(G) such other institutions as the Secretary deems necessary; and".
 
-Subsec. (a)(3)(A). Pub. L. 105–244, §494(1)(B), inserted “relevant” after “all”.
+Subsec. (a)(3)(A). Pub. L. 105–244, §494(1)(B), inserted "relevant" after "all".
 
 Subsec. (b). Pub. L. 105–244, §494(2), amended heading and text of subsec. (b). Prior to amendment, text read as follows:
 
-“(1) In carrying out paragraphs (1) and (2) of subsection (a) of this section, the Secretary shall establish guidelines designed to ensure uniformity of practice in the conduct of program reviews of institutions of higher education.
+"(1) In carrying out paragraphs (1) and (2) of subsection (a) of this section, the Secretary shall establish guidelines designed to ensure uniformity of practice in the conduct of program reviews of institutions of higher education.
 
-“(2) The Secretary shall review the regulations of the Department and the application of such regulations to ensure the uniformity of interpretation and application of the regulations.”
+"(2) The Secretary shall review the regulations of the Department and the application of such regulations to ensure the uniformity of interpretation and application of the regulations."
 
-<b>1993</b>—Subsec. (e). Pub. L. 103–208 struck out comma after “title”.
+<b>1993</b>—Subsec. (e). Pub. L. 103–208 struck out comma after "title".
 
 #### Effective Date of 1998 Amendment
 

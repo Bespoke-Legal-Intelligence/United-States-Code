@@ -14,7 +14,7 @@ Congress finds the following:
 
 &emsp;&emsp;(B) clearly define, in objective, measurable terms, the school and post-school results that children with disabilities are expected to achieve; and
 
-&emsp;&emsp;(C) promote transition services and coordinate State and local education, social, health, mental health, and other services, in addressing the full range of student needs, particularly the needs of children with disabilities who need significant levels of support to participate and learn in school and the community.
+&emsp;&emsp;(C) promote transition services and coordinate State and local education, social, health, mental health, and other services, in addressing the full range of student needs,particularly the needs of children with disabilities who need significant levels of support to participate and learn in school and the community.
 
 &emsp;(5) The availability of an adequate number of qualified personnel is critical—
 
@@ -58,5 +58,5 @@ Congress finds the following:
 
 #### Transition Provisions
 
-Pub. L. 105–17, title II, §202, June 4, 1997, 111 Stat. 156, provided that: “Notwithstanding any other provision of law, beginning on October 1, 1997, the Secretary of Education may use funds appropriated under part D of the Individuals with Disabilities Education Act \[this subchapter\] to make continuation awards for projects that were funded under section 618 \[former 20 U.S.C. 1418\] and parts C through G of such Act \[former subchapters III to VII of this chapter\] (as in effect on September 30, 1997).”
+Pub. L. 105–17, title II, §202, June 4, 1997, 111 Stat. 156, provided that: "Notwithstanding any other provision of law, beginning on October 1, 1997, the Secretary of Education may use funds appropriated under part D of the Individuals with Disabilities Education Act \[this subchapter\] to make continuation awards for projects that were funded under section 618 \[former 20 U.S.C. 1418\] and parts C through G of such Act \[former subchapters III to VII of this chapter\] (as in effect on September 30, 1997)."
 

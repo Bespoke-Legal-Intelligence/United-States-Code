@@ -10,15 +10,15 @@
 
 &emsp;Each local educational agency that receives funds under this part shall develop jointly with, agree on with, and distribute to, parents of participating children a written parent involvement policy. The policy shall be incorporated into the local educational agency's plan developed under section 6312 of this title, establish the agency's expectations for parent involvement, and describe how the agency will—
 
-&emsp;&emsp;(A) involve parents in the joint development of the plan under section 6312 of thistitle, and the process of school review and improvement under section 6316 of this title;
+&emsp;&emsp;(A) involve parents in the joint development of the plan under section 6312 of this title, and the process of school review and improvement under section 6316 of this title;
 
 &emsp;&emsp;(B) provide the coordination, technical assistance, and other support necessary to assist participating schools in planning and implementing effective parent involvement activities to improve student academic achievement and school performance;
 
-&emsp;&emsp;(C) build the schools’ and parents’ capacity for strong parental involvement as described in subsection (e) of this section;
+&emsp;&emsp;(C) build the schools' and parents' capacity for strong parental involvement as described in subsection (e) of this section;
 
 &emsp;&emsp;(D) coordinate and integrate parental involvement strategies under this part with parental involvement strategies under other programs, such as the Head Start program, Reading First program, Early Reading First program, Even Start program, Parents as Teachers program, and Home Instruction Program for Preschool Youngsters, and State-run preschool programs;
 
-&emsp;&emsp;(E) conduct, with the involvement of parents, an annual evaluation of the content and effectiveness of the parental involvement policy in improving the academic quality of the schools served under this part, including identifying barriers to greater participation by parents in activities authorized by this section (with particular attention to parents who are economically disadvantaged, are disabled, have limited English proficiency, have limited literacy, or are of any racial or ethnic minority background), and use the findings of such evaluation to design strategies for more effective parental involvement, and to revise, if necessary, the parental involvement policies described in this section; and
+&emsp;&emsp;(E) conduct, with the involvement of parents, an annual evaluation of the content and effectiveness of the parental involvement policy in improving the academic quality of the schools served under this part, including identifying barriers to greater participation by parents in activities authorized by this section (with particular attention to parents who are economically disadvantaged, are disabled, have limited English proficiency, have limited literacy, or are of any racial or ethnic minority background), and use the findings of such evaluation to design strategies for more effectiveparental involvement, and to revise, if necessary, the parental involvement policies described in this section; and
 
 &emsp;&emsp;(F) involve parents in the activities of the schools served under this part.
 
@@ -122,7 +122,7 @@ To ensure effective involvement of parents and to support a partnership among th
 
 #### (f) Accessibility
 
-In carrying out the parental involvement requirements of this part, local educational agencies and schools, to the extent practicable, shall provide full opportunities for the participation of parents with limited English proficiency, parents with disabilities, and parents of migratory children, including providing information and school reports required under section 6311 of thistitle in a format and, to the extent practicable, in a language such parents understand.
+In carrying out the parental involvement requirements of this part, local educational agencies and schools, to the extent practicable, shall provide full opportunities for the participation of parents with limited English proficiency, parents with disabilities, and parents of migratory children, including providing information and school reports required under section 6311 of this title in a format and, to the extent practicable, in a language such parents understand.
 
 #### (g) Information from parental information and resource centers
 

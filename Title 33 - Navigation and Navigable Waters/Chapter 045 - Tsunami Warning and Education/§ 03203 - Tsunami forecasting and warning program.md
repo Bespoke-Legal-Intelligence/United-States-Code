@@ -116,7 +116,7 @@ The Administrator shall notify the Committee on Commerce, Science, and Transport
 
 #### (i) Report
 
-Not later than January 31, 2010, the Comptroller General of the United States shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives that—
+Not later than January 31, 2010, the Comptroller General of the United States shall transmit a report to the Committee on Commerce,Science, and Transportation of the Senate and the Committee on Science of the House of Representatives that—
 
 &emsp;(1) evaluates the current status of the tsunami detection, forecasting, and warning system and the tsunami hazard mitigation program established under this chapter, including progress toward tsunami inundation mapping of all coastal areas vulnerable to tsunami and whether there has been any degradation of services as a result of the expansion of the program;
 
@@ -126,7 +126,7 @@ Not later than January 31, 2010, the Comptroller General of the United States sh
 
 #### (j) External review
 
-The Administrator shall enter into an arrangement with the National Academy of Sciences to review the tsunami detection, forecast, and warning program established under this chapter to assess further modernization and coverage needs, as well as long-term operational reliability issues, taking into account measures implemented under this chapter. The review shall also include an assessment of how well the forecast equipment has been integrated into other United States and global ocean and coastal observation systems and the global earth observing system of systems. Not later than 2 years after January 12, 2007, the Administrator shall transmit a report containing the National Academy of Sciences’ recommendations, the Administrator's responses to the recommendations, including those where the Administrator disagrees with the Academy, a timetable to implement the accepted recommendations, and the cost of implementing all the Academy's recommendations, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives.
+The Administrator shall enter into an arrangement with the National Academy of Sciences to review the tsunami detection, forecast, and warning program established under this chapter to assess further modernization and coverage needs, as well as long-term operational reliability issues, taking into account measures implemented under this chapter. The review shall also include an assessment of how well the forecast equipment has been integrated into other United States and global ocean and coastal observation systems and the global earth observing system of systems. Not later than 2 years after January 12, 2007, the Administrator shall transmit a report containing the National Academy of Sciences' recommendations, the Administrator's responses to the recommendations, including those where the Administrator disagrees with the Academy, a timetable to implement the accepted recommendations, and the cost of implementing all the Academy's recommendations, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives.
 
 #### (k) Report
 

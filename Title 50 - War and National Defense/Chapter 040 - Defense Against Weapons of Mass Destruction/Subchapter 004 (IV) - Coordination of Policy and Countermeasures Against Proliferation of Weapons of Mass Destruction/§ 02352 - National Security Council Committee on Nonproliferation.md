@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Committee on Nonproliferation (in this section referred to as the “Committee”) is established as a committee of the National Security Council.
+The Committee on Nonproliferation (in this section referred to as the "Committee") is established as a committee of the National Security Council.
 
 #### (b) Membership
 
@@ -62,7 +62,7 @@ The Committee has the following responsibilities:
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of this title.
 
 #### Transfer of Functions
 

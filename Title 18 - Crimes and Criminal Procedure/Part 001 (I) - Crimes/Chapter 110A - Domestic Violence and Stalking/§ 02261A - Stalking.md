@@ -2,33 +2,37 @@
 
 Whoever—
 
-&emsp;(1) travels in interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States, or enters or leaves Indian country, with the intent to kill, injure, harass, or place under surveillance with intent to kill, injure, harass, or intimidate another person, and in the course of, or as a result of, such travel places that person in reasonable fear of the death of, or serious bodily injury to, or causes substantial emotional distress to that person, a member of the immediate family (as defined in section 115) of that person, or the spouse or intimate partner of that person; or
+&emsp;(1) travels in interstate or foreign commerce or is present within the special maritime and territorial jurisdiction of the United States, or enters or leaves Indian country, with the intent to kill, injure, harass, intimidate, or place under surveillance with intent to kill, injure, harass, or intimidate another person, and in the course of, or as a result of, such travel or presence engages in conduct that—
 
-&emsp;(2) with the intent—
-
-&emsp;&emsp;(A) to kill, injure, harass, or place under surveillance with intent to kill, injure, harass, or intimidate, or cause substantial emotional distress to a person in another State or tribal jurisdiction or within the special maritime and territorial jurisdiction of the United States; or
-
-&emsp;&emsp;(B) to place a person in another State or tribal jurisdiction, or within the special maritime and territorial jurisdiction of the United States, in reasonable fear of the death of, or serious bodily injury to—
+&emsp;&emsp;(A) places that person in reasonable fear of the death of, or serious bodily injury to—
 
 &emsp;&emsp;&emsp;(i) that person;
 
-&emsp;&emsp;&emsp;(ii) a member of the immediate family (as defined in section 115 <sup>1</sup> of that person; or
+&emsp;&emsp;&emsp;(ii) an immediate family member (as defined in section 115) of that person; or
 
-&emsp;&emsp;&emsp;(iii) a spouse or intimate partner of that person;
+&emsp;&emsp;&emsp;(iii) a spouse or intimate partner of that person; or
 
-> &emsp;&emsp;uses the mail, any interactive computer service, or any facility of interstate or foreign commerce to engage in a course of conduct that causes substantial emotional distress to that person or places that person in reasonable fear of the death of, or serious bodily injury to, any of the persons described in clauses (i) through (iii) of subparagraph (B); <sup>2</sup>
+&emsp;&emsp;(B) causes, attempts to cause, or would be reasonably expected to cause substantial emotional distress to a person described in clause (i), (ii), or (iii) of subparagraph (A); or
 
-> shall be punished as provided in section 2261(b) of this title.
+&emsp;(2) with the intent to kill, injure, harass, intimidate, or place under surveillance with intent to kill, injure, harass, or intimidate another person, uses the mail, any interactive computer service or electronic communication service or electronic communication system of interstate commerce, or any other facility of interstate or foreign commerce to engage in a course of conduct that—
 
-(Added Pub. L. 104–201, div. A, title X, §1069(a), Sept. 23, 1996, 110 Stat. 2655; amended Pub. L. 106–386, div. B, title I, §1107(b)(1), Oct. 28, 2000, 114 Stat. 1498; Pub. L. 109–162, title I, §114(a), Jan. 5, 2006, 119 Stat. 2987.)
+&emsp;&emsp;(A) places that person in reasonable fear of the death of or serious bodily injury to a person described in clause (i), (ii), or (iii) of paragraph (1)(A); or
+
+&emsp;&emsp;(B) causes, attempts to cause, or would be reasonably expected to cause substantial emotional distress to a person described in clause (i), (ii), or (iii) of paragraph (1)(A),
+
+> &emsp;shall be punished as provided in section 2261(b) of this title.
+
+(Added Pub. L. 104–201, div. A, title X, §1069(a), Sept. 23, 1996, 110 Stat. 2655; amended Pub. L.106–386, div. B, title I, §1107(b)(1), Oct. 28, 2000, 114 Stat. 1498; Pub. L. 109–162, title I, §114(a), Jan. 5, 2006, 119 Stat. 2987; Pub. L. 113–4, title I, §107(b), Mar. 7, 2013, 127 Stat. 77.)
 
 #### Amendments
 
+<b>2013</b>—Pub. L. 113–4 amended section generally. Prior to amendment, section related to stalking.
+
 <b>2006</b>—Pub. L. 109–162 amended section catchline and text generally, revising and restating former provisions relating to stalking so as to include surveillance with intent to kill, injure, harass, or intimidate which results in substantial emotional distress to a person within the purview of the offense proscribed.
 
-<b>2000</b>—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Whoever travels across a State line or within the special maritime and territorial jurisdiction of the United States with the intent to injure or harass another person, and in the course of, or as a result of, such travel places that person in reasonable fear of the death of, or serious bodily injury (as defined in section 1365(g)(3) of this title) to, that person or a member of that person's immediate family (as defined in section 115 of this title) shall be punished as provided in section 2261 of this title.”
+<b>2000</b>—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "Whoever travels across a State line or within the special maritime and territorial jurisdiction of the United States with the intent to injure or harass another person, and in the course of, or as a result of, such travel places that person in reasonable fear of the death of, or serious bodily injury (as defined in section 1365(g)(3) of this title) to, that person or a member of that person's immediate family (as defined in section 115 of this title) shall be punished as provided in section 2261 of this title."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
+#### Effective Date of 2013 Amendment
 
-<i><sup>2</sup></i><i> So in original. Provision probably should be set flush with par. (2).</i>
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of this title.
 

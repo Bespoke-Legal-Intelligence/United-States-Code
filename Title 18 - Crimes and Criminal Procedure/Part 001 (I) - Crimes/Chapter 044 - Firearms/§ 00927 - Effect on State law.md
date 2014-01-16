@@ -6,7 +6,7 @@ No provision of this chapter shall be construed as indicating an intent on the p
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–618 struck out “or possession” after “State” wherever appearing.
+<b>1968</b>—Pub. L. 90–618 struck out "or possession" after "State" wherever appearing.
 
 #### Effective Date of 1968 Amendment
 

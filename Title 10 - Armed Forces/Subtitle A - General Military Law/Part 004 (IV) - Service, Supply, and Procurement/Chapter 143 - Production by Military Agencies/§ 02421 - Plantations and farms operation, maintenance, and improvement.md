@@ -6,7 +6,7 @@
 
 (c) Of the persons employed by the United States under subsection (a), only nationals of the United States are entitled to the benefits provided by laws relating to the employment, work, compensation, or other benefits of civilian employees of the United States.
 
-(d) A plantation or farm covered by subsection (a) shall be operated, maintained, and improved by a private contractor or lessee, so far as practicable. Before using members of the Army, Navy, Air Force, or Marine Corps, as the case may be, the Secretary concerned must make a reasonable effort to make a contract or lease with a person in civil life for his services for that operation, maintenance, or improvement, on terms advantageous to the United States. A determination by the Secretary as to the reasonableness of effort to make a contract or lease, and as to the advantageous nature of its terms, is final.
+(d) A plantation or farm covered by subsection (a) shall be operated, maintained, and improvedby a private contractor or lessee, so far as practicable. Before using members of the Army, Navy, Air Force, or Marine Corps, as the case may be, the Secretary concerned must make a reasonable effort to make a contract or lease with a person in civil life for his services for that operation, maintenance, or improvement, on terms advantageous to the United States. A determination by the Secretary as to the reasonableness of effort to make a contract or lease, and as to the advantageous nature of its terms, is final.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 138.)
 
@@ -54,13 +54,13 @@ June 28, 1944, ch. 306; restated July 1, 1947, ch. 188, 61 Stat. 234; Oct. 31, 1
 
 34:555b.
 
-In subsection (a), the word “management”, in 10:1213 and 34:555a, is omitted as covered by the word “operation”. The word “members” is substituted for the word “personnel”. The word “may” is substituted for the word “shall”. The words “any and all” and “the purpose of” are omitted as surplusage.
+In subsection (a), the word "management", in 10:1213 and 34:555a, is omitted as covered by the word "operation". The word "members" is substituted for the word "personnel". The word "may" is substituted for the word "shall". The words "any and all" and "the purpose of" are omitted as surplusage.
 
-In subsections (a) and (b), the word “continental” is omitted, since section 101(1) of this title defines the United States to include the States and the District of Columbia.
+In subsections (a) and (b), the word "continental" is omitted, since section 101(1) of this title defines the United States to include the States and the District of Columbia.
 
-In subsection (b), the words “of the United States” are omitted as surplusage. The words “Fruits and vegetables produced under subsection (a)” are substituted for the words “That surplus production”.
+In subsection (b), the words "of the United States" are omitted as surplusage. The words "Fruits and vegetables produced under subsection (a)" are substituted for the words "That surplus production".
 
-In subsection (c), the words “nationals of the United States” are substituted for the words “American nationals”. The words “civil-service laws and other \* \* \* of the United States” and “rights \* \* \* or obligations” are omitted as surplusage.
+In subsection (c), the words "nationals of the United States" are substituted for the words "American nationals". The words "civil-service laws and other \* \* \* of the United States" and "rights \* \* \* or obligations" are omitted as surplusage.
 
-In subsection (d), the words “after the termination of the present war” are omitted as executed. The word “by” is substituted for the words “through the instrumentality of”. The words “partnership, association” are omitted as covered by the definition of “person” in section 1 of title 1. The words “United States” are substituted for the word “Government”. The words “management”, “for that purpose”, and “or agreement” are omitted as surplusage.
+In subsection (d), the words "after the termination of the present war" are omitted as executed. The word "by" is substituted for the words "through the instrumentality of". The words "partnership, association" are omitted as covered by the definition of "person" in section 1 of title 1. The words "United States" are substituted for the word "Government". The words "management", "for that purpose", and "or agreement" are omitted as surplusage.
 

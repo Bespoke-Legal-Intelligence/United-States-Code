@@ -6,7 +6,7 @@ Duration.—The duration of the principal course of instruction offered at the J
 
 (b)
 
-Definition.—In this section, the term “principal course of instruction” means any course of instruction offered at the Joint Forces Staff College as Phase II joint professional military education.
+Definition.—In this section, the term "principal course of instruction" means any course of instruction offered at the Joint Forces Staff College as Phase II joint professional military education.
 
 (Added Pub. L. 108–375, div. A, title V, §532(a)(2), Oct. 28, 2004, 118 Stat. 1900.)
 

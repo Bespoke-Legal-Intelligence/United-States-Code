@@ -6,5 +6,5 @@ Regulations prescribed to carry out this chapter shall provide that the programs
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–189 substituted “the Department of Veterans Affairs” for “the Veterans’ Administration” in section catchline.
+<b>1989</b>—Pub. L. 101–189 substituted "the Department of Veterans Affairs" for "the Veterans' Administration" in section catchline.
 

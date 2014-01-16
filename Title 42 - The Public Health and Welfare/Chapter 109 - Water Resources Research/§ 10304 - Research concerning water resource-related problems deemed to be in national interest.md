@@ -18,7 +18,7 @@ There is authorized to be appropriated to the Secretary the sum of $10,000,000 f
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a)(3). Pub. L. 101–397, §1(i), struck out par. (3) which read as follows: “In cases where the Secretary determines, in accordance with criteria established by him, that research under this section is of a basic nature which would not otherwise be undertaken, the Secretary may approve grants under this section with a matching requirement other than that specified in paragraph (1) of this subsection.”
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–397, §1(i), struck out par. (3) which read as follows: "In cases where the Secretary determines, in accordance with criteria established by him, that research under this section is of a basic nature which would not otherwise be undertaken, the Secretary may approve grants under this section with a matching requirement other than that specified in paragraph (1) of this subsection."
 
-Subsec. (c). Pub. L. 101–397, §1(j), substituted “$10,000,000” for “$20,000,000” and “1995” for “1989”.
+Subsec. (c). Pub. L. 101–397, §1(j), substituted "$10,000,000" for "$20,000,000" and "1995" for "1989".
 

@@ -43,7 +43,7 @@
 | [715g.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715g%20-%20Jurisdiction%20of%20State%20over%20areas%20acquired.md) | Jurisdiction of State over areas acquired. |
 | [715h.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715h%20-%20Operation%20of%20State%20game%20laws.md) | Operation of State game laws. |
 | [715i.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715i%20-%20Administration.md) | Administration. |
-| [715j.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715j%20-%20%E2%80%9CMigratory%20birds%E2%80%9D%20defined.md) | “Migratory birds” defined. |
+| [715j.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715j%20-%20Migratory%20birds%20defined.md) | "Migratory birds" defined. |
 | [715k.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715k%20-%20Authorization%20of%20appropriations%20for%20purposes%20of%20subchapter%3B%20disposal%3B%20reservation%20protectors.md) | Authorization of appropriations for purposes of subchapter; disposal; reservation protectors. |
 | 715k–1. | Expenditures for personal services. |
 | 715k–2. | Omitted. |
@@ -51,7 +51,7 @@
 | 715k–4. | Accounting and use of appropriations. |
 | 715k–5. | Acquisition of lands. |
 | 715l, 715m. Repealed. |  |
-| [715n.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715n%20-%20%E2%80%9CTake%E2%80%9D%20defined.md) | “Take” defined. |
+| [715n.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715n%20-%20Take%20defined.md) | "Take" defined. |
 | 715<i>o.</i> | National forest and power sites; use for migratory bird reservations. |
 | [715p.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715p%20-%20Cooperation%20of%20State%20in%20enforcement%20of%20provisions.md) | Cooperation of State in enforcement of provisions. |
 | [715q.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715q%20-%20Expenses%20of%20commission%3B%20authorization%20of%20appropriations.md) | Expenses of commission; authorization of appropriations. |

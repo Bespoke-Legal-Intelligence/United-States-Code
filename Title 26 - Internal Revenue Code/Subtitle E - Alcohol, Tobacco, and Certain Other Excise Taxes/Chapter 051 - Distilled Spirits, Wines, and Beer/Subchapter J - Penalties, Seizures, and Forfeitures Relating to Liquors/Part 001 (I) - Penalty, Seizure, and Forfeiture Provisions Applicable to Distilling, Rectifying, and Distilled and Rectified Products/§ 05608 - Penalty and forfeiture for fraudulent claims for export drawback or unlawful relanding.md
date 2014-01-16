@@ -12,13 +12,13 @@ Every person who, with intent to defraud the United States, relands within the j
 
 #### Prior Provisions
 
-A prior section 5608, act Aug. 16, 1954, ch. 736, 68A Stat. 685, related to penalty for making or fermentingmash on unauthorized premises, illegal use of spirits, unlawful removal of vinegar, etc., prior to the general revision of this chapter by Pub. L. 85–859. See sections 5505(i), 5601(a)(7), (8), (9)(A), (12), 5615(4), and 5687 of this title.
+A prior section 5608, act Aug. 16, 1954, ch. 736, 68A Stat. 685, related to penalty for making or fermenting mash on unauthorized premises, illegal use of spirits, unlawful removal of vinegar, etc., prior to the general revision of this chapter by Pub. L. 85–859. See sections 5505(i), 5601(a)(7), (8), (9)(A), (12), 5615(4), and 5687 of this title.
 
 Provisions similar to those comprising this section were contained in prior section 5648, act Aug. 16, 1954, ch. 736, 68A Stat. 694, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–44 substituted “, with intent to defraud the United States,” for “intentionally” after “Every person who”.
+<b>1965</b>—Subsec. (b). Pub. L. 89–44 substituted ", with intent to defraud the United States," for "intentionally" after "Every person who".
 
 #### Effective Date of 1965 Amendment
 

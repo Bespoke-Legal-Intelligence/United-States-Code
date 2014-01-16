@@ -5,7 +5,7 @@
 
 The following tables have been prepared as aids in comparing provisions of the Internal Revenue Code of 1954 (redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095) with provisions of the Internal Revenue Code of 1939. No inferences, implications, or presumptions of legislative construction or intent are to be drawn or made by reason of such tables.
 
-Citations to “R.A.” refer to the sections of earlier Revenue Acts.
+Citations to "R.A." refer to the sections of earlier Revenue Acts.
 
 Table I
 
@@ -15537,9 +15537,9 @@ Be it enacted by the Senate and House of Representatives of the United States of
 
 #### (a) Citation
 
-(1) The provisions of this Act set forth under the heading “Internal Revenue Title” may be cited as the “Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]”.
+(1) The provisions of this Act set forth under the heading "Internal Revenue Title" may be cited as the "Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]".
 
-(2) The Internal Revenue Code enacted on February 10, 1939, as amended, may be cited as the “Internal Revenue Code of 1939”.
+(2) The Internal Revenue Code enacted on February 10, 1939, as amended, may be cited as the "Internal Revenue Code of 1939".
 
 #### (b) Publication
 
@@ -15557,25 +15557,25 @@ The Internal Revenue Title referred to in subsection (a)(1) is as follows: \* \
 
 #### Amendments
 
-<b>1986</b>—Subsecs. (a)(1), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsecs. (a)(1), (c). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
 #### Redesignation of Internal Revenue Code of 1954; References
 
 Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(a)
+"(a)
 
 Redesignation of 1954
 
-Code.—The Internal Revenue Title enacted August 16, 1954, as heretofore, hereby, or hereafter amended, may be cited as the ‘Internal Revenue Code of 1986’.
+Code.—The Internal Revenue Title enacted August 16, 1954, as heretofore, hereby, or hereafter amended, may be cited as the 'Internal Revenue Code of 1986'.
 
-“(b)
+"(b)
 
 References in Laws, Etc.—Except when inappropriate, any reference in any law, Executive order, or other document—
 
-&emsp;“(1) to the Internal Revenue Code of 1954 shall include a reference to the Internal Revenue Code of 1986, and
+&emsp;"(1) to the Internal Revenue Code of 1954 shall include a reference to the Internal Revenue Code of 1986, and
 
-&emsp;“(2) to the Internal Revenue Code of 1986 shall include a reference to the provisions of law formerly known as the Internal Revenue Code of 1954.”
+&emsp;"(2) to the Internal Revenue Code of 1986 shall include a reference to the provisions of law formerly known as the Internal Revenue Code of 1954."
 
 ## INTERNAL REVENUE TITLE
 
@@ -15602,17 +15602,17 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–34, title XV, §1531(b)(3), Aug. 5, 1997, 111 Stat. 1085, added subtitle K heading “Group health plan requirements” and struck out former subtitle K heading “Group health plan portability, access, and renewability requirements”.
+<b>1997</b>—Pub. L. 105–34, title XV, §1531(b)(3), Aug. 5, 1997, 111 Stat. 1085, added subtitle K heading "Group health plan requirements" and struck out former subtitle K heading "Group health plan portability, access, and renewability requirements".
 
-<b>1996</b>—Pub. L. 104–191, title IV, §401(b), Aug. 21, 1996, 110 Stat. 2082, added subtitle K heading “Group health plan portability, access, and renewability requirements”.
+<b>1996</b>—Pub. L. 104–191, title IV, §401(b), Aug. 21, 1996, 110 Stat. 2082, added subtitle K heading "Group health plan portability, access, and renewability requirements".
 
-<b>1982</b>—Pub. L. 97–248, title III, §§307(b)(2), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subtitle C heading is amended to read “Employment taxes and collection of income tax at source”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Pub. L. 97–248, title III, §§307(b)(2), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subtitle C heading is amended to read "Employment taxes and collection of income tax at source". Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-<b>1981</b>—Pub. L. 97–119, title I, §103(c)(2), Dec. 29, 1981, 95 Stat. 1638, added subtitle I heading “Trust Fund Code”.
+<b>1981</b>—Pub. L. 97–119, title I, §103(c)(2), Dec. 29, 1981, 95 Stat. 1638, added subtitle I heading "Trust Fund Code".
 
-<b>1976</b>—Pub. L. 94–455, title XIX, §1907(b)(2), Oct. 4, 1976, 90 Stat. 1836, substituted in subtitle G heading “The Joint Committee on Taxation” for “The Joint Committee on Internal Revenue Taxation”.
+<b>1976</b>—Pub. L. 94–455, title XIX, §1907(b)(2), Oct. 4, 1976, 90 Stat. 1836, substituted in subtitle G heading "The Joint Committee on Taxation" for "The Joint Committee on Internal Revenue Taxation".
 
-<b>1974</b>—Pub. L. 93–443, title IV, §408(a), Oct. 15, 1974, 88 Stat. 1297, added subtitle H heading “Financing of Presidential election campaigns”.
+<b>1974</b>—Pub. L. 93–443, title IV, §408(a), Oct. 15, 1974, 88 Stat. 1297, added subtitle H heading "Financing of Presidential election campaigns".
 
 #### Table of Contents
 

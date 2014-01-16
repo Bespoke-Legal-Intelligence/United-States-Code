@@ -16,7 +16,7 @@ Where—
 
 &emsp;(3) to which such individual is entitled under subchapter II of this chapter or under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], as the case may be, or
 
-&emsp;(4) if such individual dies before such adjustment has been completed, to which any otherindividual is entitled under subchapter II of this chapter or under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], as the case may be, with respect to the wages and self-employment income or the compensation constituting the basis of the benefits of such deceased individual under subchapter II of this chapter.
+&emsp;(4) if such individual dies before such adjustment has been completed, to which any other individual is entitled under subchapter II of this chapter or under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], as the case may be, with respect to the wages and self-employment income or the compensation constituting the basis of the benefits of such deceased individual under subchapter II of this chapter.
 
 > As soon as practicable after any adjustment under paragraph (3) or (4) is determined to be necessary, the Secretary, for purposes of this section, section 1395i(g) of this title, and section 1395t(f) of this title, shall certify (to the Railroad Retirement Board if the adjustment is to be made by decreasing subsequent payments under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\]) the amount of the overpayment as to which the adjustment is to be made. For purposes of clause (B) of paragraph (1), such provider of services or such other person shall, in the absence of evidence to the contrary, be deemed to be without fault if the Secretary's determination that more than such correct amount was paid was made subsequent to the fifth year following the year in which notice was sent to such individual that such amount had been paid; except that the Secretary may reduce such five-year period to not less than one year if he finds such reduction is consistent with the objectives of this subchapter.
 
@@ -26,7 +26,7 @@ There shall be no adjustment as provided in subsection (b) of this section (nor 
 
 #### (d) Liability of certifying or disbursing officer for failure to recoup
 
-No certifying or disbursing officer shall be held liable for any amount certified or paid by him to any provider of services or other person where the adjustment or recovery of such amount is waived under subsection (c) of this section or where adjustment under subsection (b) of this section is not completed prior to the death of all persons against whose benefits such adjustment is authorized.
+No certifying or disbursing officer shall be held liable for any amount certified or paid by him to any provider of services or other person where the adjustment or recovery of such amount is waived under subsection (c) of this section or where adjustment under subsection (b) of this section is not completed prior to thedeath of all persons against whose benefits such adjustment is authorized.
 
 #### (e) Settlement of claims for benefits under this subchapter on behalf of deceased individuals
 
@@ -42,7 +42,7 @@ If an individual, who received services for which payment may be made to such in
 
 &emsp;(5) if there is no person who meets the requirements of paragraph (1), (2), (3), or (4), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person, if any, determined by the Secretary to be the surviving spouse of the deceased individual;
 
-&emsp;(6) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), or (5),or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person or persons, if any, determined by the Secretary to be the child or children of the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
+&emsp;(6) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), or (5), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person or persons, if any, determined by the Secretary to be the child or children of the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 
 &emsp;(7) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), (5), or (6), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent); or
 
@@ -64,7 +64,7 @@ If an individual, who is enrolled under section 1395i–2(c) of this title or un
 
 #### (h) Appeals by providers of services or suppliers
 
-Notwithstanding subsection (f) of this section or any other provision of law, the Secretary shall permit a provider of services or supplier to appeal any determination of the Secretary under this subchapter relating to services rendered under this subchapter to an individual who subsequently dies if there is no other party available to appeal such determination.
+Notwithstanding subsection (f) of this section or any other provision of law, the Secretary shall permit a provider of services or supplier toappeal any determination of the Secretary under this subchapter relating to services rendered under this subchapter to an individual who subsequently dies if there is no other party available to appeal such determination.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1870, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 331; amended Pub. L. 90–248, title I, §154(b), (c), Jan. 2, 1968, 81 Stat. 862; Pub. L. 92–603, title II, §§261(a), 266, 281(a), (b), Oct. 30, 1972, 86 Stat. 1448, 1450, 1454, 1455; Pub. L. 93–445, title III, §309, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 96–499, title IX, §954(a), Dec. 5, 1980, 94 Stat. 2647; Pub. L. 97–248, title I, §128(d)(1), Sept. 3, 1982, 96 Stat. 367; Pub. L. 100–203, title IV, §§4039(h)(7), 4096(a)(2), Dec, 22, 1987, 101 Stat. 1330–139, as amended Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776; Pub. L. 100–360, title IV, §411(j)(4)(B), July 1, 1988, 102 Stat. 791; Pub. L. 108–173, title IX, §939(a), Dec. 8, 2003, 117 Stat. 2416; Pub. L. 112–240, title VI, §638(a), Jan. 2, 2013, 126 Stat. 2357.)
 
@@ -74,27 +74,27 @@ The Railroad Retirement Act of 1974, referred to in subsec. (b), is act Aug. 29,
 
 #### Amendments
 
-<b>2013</b>—Subsecs. (b), (c). Pub. L. 112–240 substituted “fifth year” for “third year” and “five-year” for “three-year” in last sentence.
+<b>2013</b>—Subsecs. (b), (c). Pub. L. 112–240 substituted "fifth year" for "third year" and "five-year" for "three-year" in last sentence.
 
 <b>2003</b>—Subsec. (h). Pub. L. 108–173 added subsec. (h).
 
 <b>1988</b>—Pub. L. 100–360, §411(e)(3), added Pub. L. 100–203, §4039(h)(7), see 1987 Amendment note below.
 
-Subsec. (f)(1), (2). Pub. L. 100–360, §411(j)(4)(B), substituted “of assignment specified in” for “specified in subclauses (I) and (II) of”.
+Subsec. (f)(1), (2). Pub. L. 100–360, §411(j)(4)(B), substituted "of assignment specified in" for "specified in subclauses (I) and (II) of".
 
 <b>1987</b>—Pub. L. 100–203, §4039(h)(7), as added by Pub. L. 100–360, §411(e)(3), amended section catchline generally.
 
-Subsec. (f)(1), (2). Pub. L. 100–203, §4096(a)(2), substituted “to the terms specified in subclauses (I) and (II) of section 1395u(b)(3)(B)(ii) of this title with respect to the services” for “that the reasonable charge is the full charge for the services”.
+Subsec. (f)(1), (2). Pub. L. 100–203, §4096(a)(2), substituted "to the terms specified in subclauses (I) and (II) of section 1395u(b)(3)(B)(ii) of this title with respect to the services" for "that the reasonable charge is the full charge for the services".
 
-<b>1982</b>—Subsec. (c). Pub. L. 97–248 substituted “section 1395y(a)” for “section 1395y”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–248 substituted "section 1395y(a)" for "section 1395y".
 
 <b>1980</b>—Subsec. (f). Pub. L. 96–499 amended subsec. (f) generally, inserting provision for payments to providers of medical and other health services where the person or persons furnishing the services did not agree that the reasonable charge was the full charge for such services.
 
-<b>1974</b>—Subsec. (b). Pub. L. 93–445 substituted “Railroad Retirement Act of 1974” for “Railroad Retirement Act of 1937”, wherever appearing.
+<b>1974</b>—Subsec. (b). Pub. L. 93–445 substituted "Railroad Retirement Act of 1974" for "Railroad Retirement Act of 1937", wherever appearing.
 
 <b>1972</b>—Subsec. (b). Pub. L. 92–603, §281(a), required that provider of services or other person be without fault with respect to payment of excess over correct amount as prerequisite to adjustment or recovery of incorrect payments.
 
-Subsec. (c). Pub. L. 92–603, §§261(a), 281(b), substituted “or where the adjustment (or recovery) would be made by decreasing payments to which another person who is without fault is entitled as provided in subsection (b)(4)of this section, if” for “and where”, inserted reference to subchapter XVIII of this chapter, and inserted provisions covering the adjustment or recovery of incorrect payments against individuals who are without fault.
+Subsec. (c). Pub. L. 92–603, §§261(a), 281(b), substituted "or where the adjustment (or recovery) would be made by decreasing payments to which another person who is without fault is entitled as provided in subsection (b)(4) of this section, if" for "and where", inserted reference to subchapter XVIII of this chapter, and inserted provisions covering the adjustment or recovery of incorrect payments against individuals who are without fault.
 
 Subsec. (g). Pub. L. 92–603, §266, added subsec. (g).
 
@@ -104,11 +104,11 @@ Subsecs. (e), (f). Pub. L. 90–248, §154(c), added subsecs. (e) and (f).
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–240, title VI, §638(b), Jan. 2, 2013, 126 Stat. 2357, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 2, 2013\].”
+Pub. L. 112–240, title VI, §638(b), Jan. 2, 2013, 126 Stat. 2357, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 2, 2013\]."
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title IX, §939(b), Dec. 8, 2003, 117 Stat. 2416, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\] and shall apply to items and services furnished on or after such date.”
+Pub. L. 108–173, title IX, §939(b), Dec. 8, 2003, 117 Stat. 2416, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\] and shall apply to items and services furnished on or after such date."
 
 #### Effective Date of 1988 Amendment
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 97–248 effective Sept. 3, 1982, see section 128(e)(3) of 
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–499, title IX, §954(b), Dec. 5, 1980, 94 Stat. 2647, provided that: “The amendment made by this section \[amending this section\] shall apply only to claims filed on or after January 1, 1981.”
+Pub. L. 96–499, title IX, §954(b), Dec. 5, 1980, 94 Stat. 2647, provided that: "The amendment made by this section \[amending this section\] shall apply only to claims filed on or after January 1, 1981."
 
 #### Effective Date of 1974 Amendment
 
@@ -132,11 +132,11 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–603, title II, §261(b), Oct. 30, 1972, 86 Stat. 1448, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to waiver actions considered after the date of the enactment of this Act \[Oct. 30, 1972\].”
+Pub. L. 92–603, title II, §261(b), Oct. 30, 1972, 86 Stat. 1448, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to waiver actions considered after the date of the enactment of this Act \[Oct. 30, 1972\]."
 
-Pub. L. 92–603, title II, §281(g), Oct. 30, 1972, 86 Stat. 1456, provided that: “The provisions of subsection (a)(1) \[amending this section\] shall apply with respect to notices of payment sent to individuals after the date of enactment of this Act \[Oct. 30, 1972\]. The provisions of subsections (a)(2), (b), (c), and (d) \[amending this section and sections 1395u and 1395cc of this title\] shall apply in the case of notices sent to individuals after 1968. The provisions of subsections (e) and (f) \[amending sections 1395f and 1395n of this title\] shall apply in the case of services furnished (or deemed to have been furnished) after 1970.”
+Pub. L. 92–603, title II, §281(g), Oct. 30, 1972, 86 Stat. 1456, provided that: "The provisions of subsection (a)(1) \[amending this section\] shall apply with respect to notices of payment sent to individuals after the date of enactment of this Act \[Oct. 30, 1972\]. The provisions of subsections (a)(2), (b), (c), and (d) \[amending this section and sections 1395u and 1395cc of this title\] shall apply in the case of notices sent to individuals after 1968. The provisions of subsections (e) and (f) \[amending sections 1395f and 1395n of this title\] shall apply in the case of services furnished (or deemed to have been furnished) after 1970."
 
 #### Waiver of Liability Limiting Recoupment in Certain Cases
 
-Pub. L. 101–239, title VI, §6109, Dec. 19, 1989, 103 Stat. 2213, provided that: “In the case where more than the correct amount may have been paid to a physician or individual under part B of title XVIII of the Social Security Act \[part B of this subchapter\] with respect to services furnished during the period beginning on July 1, 1985, and ending on March 31, 1986, as a result of a carrier's establishing statewide fees for certain procedure codes while the carrier was in the process of implementing the national common procedure coding system of the Health Care Financing Administration, the provisions of section 1870(c) of the Social Security Act \[subsec. (c) of this section\] shall apply, without the need for affirmative action by such a physician or individual, so as to prevent any recoupment, or other decrease in subsequent payments, to the physician or individual. The previous sentence shall apply to claims for items and services which were reopened by carriers on or after July 31, 1987.”
+Pub. L. 101–239, title VI, §6109, Dec. 19, 1989, 103 Stat. 2213, provided that: "In the case where more than the correct amount may have been paid to a physician or individual under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] with respect to services furnished during the period beginning on July 1, 1985, and ending on March 31, 1986, as a result of a carrier's establishing statewide fees for certain procedure codes while the carrier was in the process of implementing the national common procedure coding system of the Health Care Financing Administration, the provisions of section 1870(c) of the Social Security Act \[42 U.S.C. 1395gg(c)\] shall apply, without the need for affirmative action by such a physician or individual, so as to prevent any recoupment, or other decrease in subsequent payments, to the physician or individual. The previous sentence shall apply to claims for items and services which were reopened by carriers on or after July 31, 1987."
 

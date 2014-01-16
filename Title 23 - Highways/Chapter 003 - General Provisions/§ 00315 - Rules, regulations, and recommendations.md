@@ -6,11 +6,11 @@ Except as provided in sections 202(a)(5), 203(a)(3), and 205(a) of this title, t
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “202(a)(5), 203(a)(3),” for “204(f)”.
+<b>2012</b>—Pub. L. 112–141 substituted "202(a)(5), 203(a)(3)," for "204(f)".
 
-<b>1998</b>—Pub. L. 105–178 substituted “State transportation departments” for “State highway departments”.
+<b>1998</b>—Pub. L. 105–178 substituted "State transportation departments" for "State highway departments".
 
-<b>1987</b>—Pub. L. 100–17 which directed that this section be amended by substituting “204(f) and 205(a)” for “204(d), 205(a), 207(b), and 208(c)” was executed by substituting “204(f) and 205(a)” for “204(d), 205(a), 206(b), 207(b), and 208(c)”, to reflect the probable intent of Congress.
+<b>1987</b>—Pub. L. 100–17 which directed that this section be amended by substituting "204(f) and 205(a)" for "204(d), 205(a), 207(b), and 208(c)" was executed by substituting "204(f) and 205(a)" for "204(d), 205(a), 206(b), 207(b), and 208(c)", to reflect the probable intent of Congress.
 
 #### Effective Date of 2012 Amendment
 

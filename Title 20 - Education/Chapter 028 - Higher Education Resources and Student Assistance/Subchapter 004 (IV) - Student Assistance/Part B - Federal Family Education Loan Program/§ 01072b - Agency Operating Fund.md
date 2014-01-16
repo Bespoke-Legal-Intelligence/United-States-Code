@@ -40,15 +40,15 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 #### (A) Default collection activities
 
-&emsp;&emsp;The term “default collection activities” means activities of a guaranty agency that are directly related to the collection of the loan on which a default claim has been paid to the participating lender, including the due diligence activities required pursuant to regulations of the Secretary.
+&emsp;&emsp;The term "default collection activities" means activities of a guaranty agency that are directly related to the collection of the loan on which a default claim has been paid to the participating lender, including the due diligence activities required pursuant to regulations of the Secretary.
 
 #### (B) Default aversion activities
 
-&emsp;&emsp;The term “default aversion activities” means activities of a guaranty agency that are directly related to providing collection assistance to the lender on a delinquent loan, prior to the loan's being legally in a default status, including due diligence activities required pursuant to regulations of the Secretary.
+&emsp;&emsp;The term "default aversion activities" means activities of a guaranty agency that are directly related to providing collection assistance to the lender on a delinquent loan, prior to the loan's being legally in a default status, including due diligence activities required pursuant to regulations of the Secretary.
 
 #### (C) Enrollment and repayment status management
 
-&emsp;&emsp;The term “enrollment and repayment status management” means activities of a guaranty agency that are directly related to ascertaining the student's enrollment status, including prompt notification to the lender of such status, an audit of the note or written agreement to determine if the provisions of that note or agreement are consistent with the records of the guaranty agency as to the principal amount of the loan guaranteed, and an examination of the note or agreement to assure that the repayment provisions are consistent with the provisions of this part.
+&emsp;&emsp;The term "enrollment and repayment status management" means activities of a guaranty agency that are directly related to ascertaining the student's enrollment status, including prompt notification to the lender of such status, an audit of the note or written agreement to determine if the provisions of that note or agreement are consistent with the records of the guaranty agency as to the principal amount of the loan guaranteed, and an examination of the note or agreement to assure that the repayment provisions are consistent with the provisions of this part.
 
 #### (e) Ownership and regulation of Operating Fund
 
@@ -76,7 +76,7 @@ Section 1078(c)(6)(B) of this title, referred to in subsec. (c)(5), was redesign
 
 #### Effective Date
 
-Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244,set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

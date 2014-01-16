@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the “Bill Emerson Good Samaritan Food Donation Act”.
+This section may be cited as the "Bill Emerson Good Samaritan Food Donation Act".
 
 #### (b) Definitions
 
@@ -10,39 +10,39 @@ As used in this section:
 
 #### (1) Apparently fit grocery product
 
-&emsp;The term “apparently fit grocery product” means a grocery product that meets all quality and labeling standards imposed by Federal, State, and local laws and regulations even though the product may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other conditions.
+&emsp;The term "apparently fit grocery product" means a grocery product that meets all quality and labeling standards imposed by Federal, State, and local laws and regulations even though the product may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other conditions.
 
 #### (2) Apparently wholesome food
 
-&emsp;The term “apparently wholesome food” means food that meets all quality and labeling standards imposed by Federal, State, and local laws and regulations even though the food may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other conditions.
+&emsp;The term "apparently wholesome food" means food that meets all quality and labeling standards imposed by Federal, State, and local laws and regulations even though the food may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other conditions.
 
 #### (3) Donate
 
-&emsp;The term “donate” means to give without requiring anything of monetary value fromthe recipient, except that the term shall include giving by a nonprofit organization to another nonprofit organization, notwithstanding that the donor organization has charged a nominal fee to the donee organization, if the ultimate recipient or user is not required to give anything of monetary value.
+&emsp;The term "donate" means to give without requiring anything of monetary value from the recipient, except that the term shall include giving by a nonprofit organization to another nonprofit organization, notwithstanding that the donor organization has charged a nominal fee to the donee organization, if the ultimate recipient or user is not required to give anything of monetary value.
 
 #### (4) Food
 
-&emsp;The term “food” means any raw, cooked, processed, or prepared edible substance, ice, beverage, or ingredient used or intended for use in whole or in part for human consumption.
+&emsp;The term "food" means any raw, cooked, processed, or prepared edible substance, ice, beverage, or ingredient used or intended for use in whole or in part for human consumption.
 
 #### (5) Gleaner
 
-&emsp;The term “gleaner” means a person who harvests for free distribution to the needy, or for donation to a nonprofit organization for ultimate distribution to the needy, an agricultural crop that has been donated by the owner.
+&emsp;The term "gleaner" means a person who harvests for free distribution to the needy, or for donation to a nonprofit organization for ultimate distribution to the needy, an agricultural crop that has been donated by the owner.
 
 #### (6) Grocery product
 
-&emsp;The term “grocery product” means a nonfood grocery product, including a disposable paper or plastic product, household cleaning product, laundry detergent, cleaning product, or miscellaneous household item.
+&emsp;The term "grocery product" means a nonfood grocery product, including a disposable paper or plastic product, household cleaning product, laundry detergent, cleaning product, or miscellaneous household item.
 
 #### (7) Gross negligence
 
-&emsp;The term “gross negligence” means voluntary and conscious conduct (including a failure to act) by a person who, at the time of the conduct, knew that the conduct was likely to be harmful to the health or well-being of another person.
+&emsp;The term "gross negligence" means voluntary and conscious conduct (including a failure to act) by a person who, at the time of the conduct, knew that the conduct was likely to be harmful to the health or well-being of another person.
 
 #### (8) Intentional misconduct
 
-&emsp;The term “intentional misconduct” means conduct by a person with knowledge (at the time of the conduct) that the conduct is harmful to the health or well-being of another person.
+&emsp;The term "intentional misconduct" means conduct by a person with knowledge (at the time of the conduct) that the conduct is harmful to the health or well-being of another person.
 
 #### (9) Nonprofit organization
 
-&emsp;The term “nonprofit organization” means an incorporated or unincorporated entity that—
+&emsp;The term "nonprofit organization" means an incorporated or unincorporated entity that—
 
 &emsp;&emsp;(A) is operating for religious, charitable, or educational purposes; and
 
@@ -50,7 +50,7 @@ As used in this section:
 
 #### (10) Person
 
-&emsp;The term “person” means an individual, corporation, partnership, organization, association, or governmental entity, including a retail grocer, wholesaler, hotel, motel, manufacturer, restaurant, caterer, farmer, and nonprofit food distributor or hospital. In the case of a corporation, partnership, organization, association, or governmental entity, the term includes an officer, director, partner, deacon, trustee, council member, or other elected or appointed individual responsible for the governance of the entity.
+&emsp;The term "person" means an individual, corporation, partnership, organization, association, or governmental entity, including a retail grocer, wholesaler, hotel, motel, manufacturer, restaurant, caterer, farmer, and nonprofit food distributor or hospital. In the case of a corporation, partnership, organization, association, or governmental entity, the term includes an officer, director, partner, deacon, trustee, council member, or other elected or appointed individual responsible for the governance of the entity.
 
 #### (c) Liability for damages from donated food and grocery products
 
@@ -92,13 +92,13 @@ Section was formerly classified to section 12672 of this title prior to renumber
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–210, §1(a)(2)(A), substituted “Bill Emerson” for “Model” in section catchline.
+<b>1996</b>—Pub. L. 104–210, §1(a)(2)(A), substituted "Bill Emerson" for "Model" in section catchline.
 
-Subsec. (a). Pub. L. 104–210, §1(a)(2)(B), inserted “Bill Emerson” before “Good”.
+Subsec. (a). Pub. L. 104–210, §1(a)(2)(B), inserted "Bill Emerson" before "Good".
 
-Subsec. (b)(7). Pub. L. 104–210, §1(a)(2)(C), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘gross negligence’ means voluntary and conscious conduct by a person with knowledge (at the time of the conduct) that the conduct is likely to be harmful to the health or well-being of another person.”
+Subsec. (b)(7). Pub. L. 104–210, §1(a)(2)(C), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'gross negligence' means voluntary and conscious conduct by a person with knowledge (at the time of the conduct) that the conduct is likely to be harmful to the health or well-being of another person."
 
-Subsec. (c). Pub. L. 104–210, §1(a)(2)(D), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A person or gleaner shall not be subject to civil or criminal liability arising from the nature, age, packaging, or condition of apparently wholesome food or an apparently fit grocery product that the person or gleaner donates in good faith to a nonprofit organization for ultimate distribution to needy individuals, except that this paragraph shall not apply to an injury to or death of an ultimate user or recipient of the food or grocery product that results from an act or omission of the donor constituting gross negligence or intentional misconduct.”
+Subsec. (c). Pub. L. 104–210, §1(a)(2)(D), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "A person or gleaner shall not be subject to civil or criminal liability arising from the nature, age, packaging, or condition of apparently wholesome food or an apparently fit grocery product that the person or gleaner donates in good faith to a nonprofit organization for ultimate distribution to needy individuals, except that this paragraph shall not apply to an injury to or death of an ultimate user or recipient of the food or grocery product that results from an act or omission of the donor constituting gross negligence or intentional misconduct."
 
-Subsec. (f). Pub. L. 104–210, §1(a)(2)(E), inserted at end “Nothing in this section shall be construed to supercede State or local health regulations.”
+Subsec. (f). Pub. L. 104–210, §1(a)(2)(E), inserted at end "Nothing in this section shall be construed to supercede State or local health regulations."
 

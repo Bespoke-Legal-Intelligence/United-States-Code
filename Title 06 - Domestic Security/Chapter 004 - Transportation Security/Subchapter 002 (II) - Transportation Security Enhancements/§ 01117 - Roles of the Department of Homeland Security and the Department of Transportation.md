@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original a reference to titles XII
 
 The Aviation and Transportation Security Act, referred to in text, is Pub. L. 107–71, Nov. 19, 2001, 115 Stat. 597. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 40101 of Title 49, Transportation, and Tables.
 
-The Intelligence Reform and Terrorism Prevention Act of 2004, referred to in text, is Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3638. For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under section 401 of Title 50, War and National Defense, and Tables.
+The Intelligence Reform and Terrorism Prevention Act of 2004, referred to in text, is Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3638. For complete classification of this Act to the Code, see Tables.
 
 The Homeland Security Act of 2002, referred to in text, is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 

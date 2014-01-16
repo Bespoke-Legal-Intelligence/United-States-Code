@@ -4,7 +4,7 @@
 
 (1) No disclosure of any return or portion of a return (including information returns and other written statements) filed with the Commissioner of Internal Revenue under title VIII of the Social Security Act or under subchapter E of chapter 1 or subchapter A of chapter 9 of the Internal Revenue Code \[of 1939\], or under regulations made under authority thereof, which has been transmitted to the head of the applicable agency by the Commissioner of Internal Revenue, or of any file, record, report, or other paper, or any information, obtained at any time by the head of the applicable agency or by any officer or employee of the applicable agency in the course of discharging the duties of the head of the applicable agency under this chapter, and no disclosure of any such file, record, report, or other paper, or information, obtained at any time by any person from the head of the applicable agency or from any officer or employee of the applicable agency, shall be made except as the head of the applicable agency may by regulations prescribe and except as otherwise provided by Federal law. Any person who shall violate any provision of this section shall be deemed guilty of a felony and, upon conviction thereof, shall be punished by a fine not exceeding $10,000 for each occurrence of a violation, or by imprisonment not exceeding 5 years, or both.
 
-(2) For purposes of this subsection and subsection (b) of this section, the term “applicable agency” means—
+(2) For purposes of this subsection and subsection (b) of this section, the term "applicable agency" means—
 
 &emsp;(A) the Social Security Administration, with respect to matter transmitted to or obtained by such Administration or matter disclosed by such Administration, or
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of this section the Secretary shall make ava
 
 #### (f) Opportunity for review
 
-No report described in subsection (e) of this section shall be made public by the Secretary or the State subchapter XIX agency until the contractor or provider of services whose performance is being evaluated has had a reasonable opportunity (not exceeding 60 days) to review such report and to offer comments pertinent parts of which may be incorporated in the public report; nor shall the Secretary be required to include in any such report information with respect to any deficiency (or improper practice or procedures) which is known by the Secretary to have been fully corrected, within 60 days of the date such deficiency was first brought to the attention of such contractor or provider of services, as the case may be.
+No report described in subsection (e) of this section shall be made public by the Secretary or the State subchapter XIX agency until the contractor or provider of services whose performance is being evaluated has had a reasonable opportunity (not exceeding 60 days) to review such report and to offer comments pertinent parts of which may be incorporated in the public report; nor shall the Secretary be required to include in any such report information with respect to any deficiency (or improper practice or procedures) which is known by the Secretary to have beenfully corrected, within 60 days of the date such deficiency was first brought to the attention of such contractor or provider of services, as the case may be.
 
 (Aug. 14, 1935, ch. 531, title XI, §1106, as added Aug. 10, 1939, ch. 666, title VIII, §802, 53 Stat. 1398; amended Aug. 28, 1950, ch. 809, title IV, §403(d), 64 Stat. 559; Pub. L. 85–840, title VII, §701, Aug. 28, 1958, 72 Stat. 1055; Pub. L. 89–97, title I, §108(c), title III, §340, July 30, 1965, 79 Stat. 339, 411; Pub. L. 90–248, title I, §168, title II, §241(c)(1), Jan. 2, 1968, 81 Stat. 875, 917; Pub. L. 92–603, title II, §249C(a), Oct. 30, 1972, 86 Stat. 1428; Pub. L. 93–647, §101(d), Jan. 4, 1975, 88 Stat. 2360; Pub. L. 97–35, title XXII, §2207, Aug. 13, 1981, 95 Stat. 838; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(ii), (l), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §108(b)(2)–(5), title III, §§311(a), 313(a), Aug. 15, 1994, 108 Stat. 1481, 1482, 1525, 1530.)
 
@@ -54,31 +54,31 @@ For provision deeming a reference in other laws to a provision of the 1939 Code 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–296, §313(a), in par. (1), substituted “felony” for “misdemeanor”, “$10,000 for each occurrence of a violation” for “$1,000”, and “5 years” for “one year”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §313(a), in par. (1), substituted "felony" for "misdemeanor", "$10,000 for each occurrence of a violation" for "$1,000", and "5 years" for "one year".
 
-Pub. L. 103–296, §108(b)(2), designated existing provisions as par. (1), substituted “head of the applicable agency” for “Secretary” wherever appearing and “employee of the applicable agency” for “employee of the Department of Health and Human Services” in two places, and added par. (2).
+Pub. L. 103–296, §108(b)(2), designated existing provisions as par. (1), substituted "head of the applicable agency" for "Secretary" wherever appearing and "employee of the applicable agency" for "employee of the Department of Health and Human Services" in two places, and added par. (2).
 
-Subsec. (b). Pub. L. 103–296, §108(b)(3), substituted “head of the applicable agency” for “Secretary” wherever appearing and “applicable agency which” for “Department of Health and Human Services which”.
+Subsec. (b). Pub. L. 103–296, §108(b)(3), substituted "head of the applicable agency" for "Secretary" wherever appearing and "applicable agency which" for "Department of Health and Human Services which".
 
-Subsec. (c). Pub. L. 103–296, §108(b)(4), substituted “the Commissioner of Social Security or the Secretary” for “the Secretary” where first appearing and “such Commissioner or Secretary” for “the Secretary” where appearing subsequently in two places.
+Subsec. (c). Pub. L. 103–296, §108(b)(4), substituted "the Commissioner of Social Security or the Secretary" for "the Secretary" where first appearing and "such Commissioner or Secretary" for "the Secretary" where appearing subsequently in two places.
 
 Subsec. (d). Pub. L. 103–296, §311(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 103–296, §108(b)(5) in subsec. (d) as added by Pub. L. 103–296, §311(a)(3), in par. (1) substituted “Commissioner of Social Security” for “Secretary” after “records of the”, “Commissioner” for “Secretary” after “from the”, “Commissioner in consultation with the Secretary of Health and Human Services” for “Secretary” after “which the”, and in par. (2) and closing provisions substituted “Commissioner” for “Secretary” wherever appearing.
+Pub. L. 103–296, §108(b)(5) in subsec. (d) as added by Pub. L. 103–296, §311(a)(3), in par. (1) substituted "Commissioner of Social Security" for "Secretary" after "records of the", "Commissioner" for "Secretary" after "from the", "Commissioner in consultation with the Secretary of Health and Human Services" for "Secretary" after "which the", and in par. (2) and closing provisions substituted "Commissioner" for "Secretary" wherever appearing.
 
 Subsec. (e). Pub. L. 103–296, §311(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 103–296, §311(a)(1), (2), redesignated subsec. (e) as (f) and substituted “subsection (e)” for “subsection (d)”.
+Subsec. (f). Pub. L. 103–296, §311(a)(1), (2), redesignated subsec. (e) as (f) and substituted "subsection (e)" for "subsection (d)".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2663(l), substituted “Secretary” and “Department of Health and Human Services” for “Administrator” and “Federal Security Agency”, respectively, wherever appearing.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2663(l), substituted "Secretary" and "Department of Health and Human Services" for "Administrator" and "Federal Security Agency", respectively, wherever appearing.
 
-Subsec. (b). Pub. L. 98–369, §2663(j)(2)(D)(ii), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Subsec. (b). Pub. L. 98–369, §2663(j)(2)(D)(ii), substituted "Health and Human Services" for "Health, Education, and Welfare".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2207(1), substituted “as otherwise provided by Federal law” for “as provided in part D of subchapter IV of this chapter”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2207(1), substituted "as otherwise provided by Federal law" for "as provided in part D of subchapter IV of this chapter".
 
 Subsec. (c). Pub. L. 97–35, §2207(2), added subsec. (c).
 
-<b>1975</b>—Subsec. (a). Pub. L. 93–647, §101(d)(1), inserted “and except as provided in part D of subchapter IV of this chapter” after “may by regulations prescribe”.
+<b>1975</b>—Subsec. (a). Pub. L. 93–647, §101(d)(1), inserted "and except as provided in part D of subchapter IV of this chapter" after "may by regulations prescribe".
 
 Subsec. (b). Pub. L. 93–647, §101(d)(2), inserted provision relating to compliance with requests for information made pursuant to part D of subchapter IV of this chapter for purpose of using Federal records to locate parents.
 
@@ -86,21 +86,21 @@ Subsec. (c). Pub. L. 93–647, §101(d)(3), repealed subsec. (c) relating to req
 
 <b>1972</b>—Subsecs. (d), (e). Pub. L. 92–603 added subsecs. (d) and (e).
 
-<b>1968</b>—Subsec. (c)(1). Pub. L. 90–248, §241(c)(1), struck out “IV,” after “I,” and inserted “or part A of subchapter IV of this chapter,” after “XIX of this chapter,”.
+<b>1968</b>—Subsec. (c)(1). Pub. L. 90–248, §241(c)(1), struck out "IV," after "I," and inserted "or part A of subchapter IV of this chapter," after "XIX of this chapter,".
 
 Subsec. (c)(1)(A), (B). Pub. L. 90–248, §168(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv) thereof, and added subpar. (B).
 
-Subsec. (c)(2). Pub. L. 90–248, §168(b)(1), substituted “(and, in the case of a request under paragraph (1)(A), shall be accompanied by a certified copy of the order referred to in clauses (i) and (iv) thereof)” for “, and shall be accompanied by a certified copy of the order referred to in paragraph (1)(A) of this subsection”.
+Subsec. (c)(2). Pub. L. 90–248, §168(b)(1), substituted "(and, in the case of a request under paragraph (1)(A), shall be accompanied by a certified copy of the order referred to in clauses (i) and (iv) thereof)" for ", and shall be accompanied by a certified copy of the order referred to in paragraph (1)(A) of this subsection".
 
-Subsec. (c)(3). Pub. L. 90–248, §168(b)(2), substituted “authorized by subparagraph (A)(iv) or (B)” for “authorized by subparagraph (D)”.
+Subsec. (c)(3). Pub. L. 90–248, §168(b)(2), substituted "authorized by subparagraph (A)(iv) or (B)" for "authorized by subparagraph (D)".
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–97, §108(c), provided for use of special deposit in the Treasury (made up of payments for information and services furnished) to reimburse authorizations to make expenditures from theFederal Hospital Insurance Trust Fund and the Supplementary Medical Insurance Trust Fund.
+<b>1965</b>—Subsec. (b). Pub. L. 89–97, §108(c), provided for use of special deposit in the Treasury (made up of payments for information and services furnished) to reimburse authorizations to make expenditures from the Federal Hospital Insurance Trust Fund and the Supplementary Medical Insurance Trust Fund.
 
 Subsec. (c). Pub. L. 89–97, §340, added subsec. (c).
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–840 amended subsec. (b) generally, authorizing compliance with requests for services if the agency, person, or organization making the request agrees to pay for the services.
 
-<b>1950</b>—Act Aug. 28, 1950, amended section generally, designating existing provisions as subsec. (a), substituting “under subchapter E of chapter 1 or subchapter A of chapter 9 of the Internal Revenue Code of 1939” for “the Federal Insurance Contributions Act,” reflecting the transfer of functions from the Social Security Board to the Federal Security Administrator and the Federal Security Agency, and adding subsec. (b).
+<b>1950</b>—Act Aug. 28, 1950, amended section generally, designating existing provisions as subsec. (a), substituting "under subchapter E of chapter 1 or subchapter A of chapter 9 of the Internal Revenue Code of 1939" for "the Federal Insurance Contributions Act," reflecting the transfer of functions from the Social Security Board to the Federal Security Administrator and the Federal Security Agency, and adding subsec. (b).
 
 #### Effective Date of 1994 Amendment
 
@@ -108,7 +108,7 @@ Amendment by section 108(b)(2)–(5) of Pub. L. 103–296 effective Mar. 31, 199
 
 Amendment by section 311(a) of Pub. L. 103–296, applicable with respect to requests for information made after Aug. 15, 1994, see section 311(c) of Pub. L. 103–296, set out as a note under section 6103 of Title 26, Internal Revenue Code.
 
-Pub. L. 103–296, title III, §313(c), Aug. 15, 1994, 108 Stat. 1530, provided that: “The amendments made by this section \[amending this section and section 1307 of this title\] shall apply to violations occurring on or after the date of the enactment of this Act \[Aug. 15, 1994\].”
+Pub. L. 103–296, title III, §313(c), Aug. 15, 1994, 108 Stat. 1530, provided that: "The amendments made by this section \[amending this section and section 1307 of this title\] shall apply to violations occurring on orafter the date of the enactment of this Act \[Aug. 15, 1994\]."
 
 #### Effective Date of 1984 Amendment
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 93–647 effective Aug. 1, 1975, see section 101(f) of Pub.
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–603, title II, §249C(b), Oct. 30, 1972, 86 Stat. 1428, provided that: “The provisions of subsection (a) \[amending this section\] shall apply with respect to reports which are completed by the Secretary after the third calendar month following the enactment of this Act \[Oct. 30, 1972\].”
+Pub. L. 92–603, title II, §249C(b), Oct. 30, 1972, 86 Stat. 1428, provided that: "The provisions of subsection (a) \[amending this section\] shall apply with respect to reports which are completed by the Secretary after the third calendar month following the enactment of this Act \[Oct. 30, 1972\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(f)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(f)".</i>
 

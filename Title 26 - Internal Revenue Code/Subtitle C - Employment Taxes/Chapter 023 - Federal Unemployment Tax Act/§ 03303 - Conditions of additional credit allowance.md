@@ -40,19 +40,19 @@ As used in this section—
 
 #### (1) Reserve account
 
-&emsp;The term “reserve account” means a separate account in an unemployment fund, maintained with respect to a person (or group of persons) having individuals in his (or their) employ, from which account, unless such account is exhausted, is paid all and only compensation payable on the basis of services performed for such person (or for one or more of the persons comprising the group).
+&emsp;The term "reserve account" means a separate account in an unemployment fund, maintained with respect to a person (or group of persons) having individuals in his (or their) employ, from which account, unless such account is exhausted, is paid all and only compensation payable on the basis of services performed for such person (or for one or more of the persons comprising the group).
 
 #### (2) Pooled fund
 
-&emsp;The term “pooled fund” means an unemployment fund or any part thereof (other than a reserve account or a guaranteed employment account) into which the total contributions of persons contributing thereto are payable, in which all contributions are mingled and undivided, and from which compensation is payable to all individuals eligible for compensation from such fund.
+&emsp;The term "pooled fund" means an unemployment fund or any part thereof (other than a reserve account or a guaranteed employment account) into which the total contributions of persons contributing thereto are payable, in which all contributions are mingled and undivided, and from which compensation is payable to all individuals eligible for compensation from such fund.
 
 #### (3) Partially pooled account
 
-&emsp;The term “partially pooled account” means a part of an unemployment fund in which part of the fund all contributions thereto are mingled and undivided, and from which part of the fund compensation is payable only to individuals to whom compensation would be payable from a reserve account or from a guaranteed employment account but for the exhaustion or termination of such reserve account or of such guaranteed employment account. Payments from a reserve account or guaranteed employment account into a partially pooled account shall not be construed to be inconsistent with the provisions of paragraph (1) or (4).
+&emsp;The term "partially pooled account" means a part of an unemployment fund in which part of the fund all contributions thereto are mingled and undivided, and from which part of the fund compensation is payable only to individuals to whom compensation would be payable from a reserve account or from a guaranteed employment account but for the exhaustion or termination of such reserve account or of such guaranteed employment account. Payments from a reserve account or guaranteed employment account into a partially pooled account shall not be construed to be inconsistent with the provisions of paragraph (1) or (4).
 
 #### (4) Guaranteed employment account
 
-&emsp;The term “guaranteed employment account” means a separate account, in an unemployment fund, maintained with respect to a person (or group of persons) having individuals in his (or their) employ who, in accordance with the provisions of the State law or of a plan thereunder approved by the State agency,
+&emsp;The term "guaranteed employment account" means a separate account, in an unemployment fund, maintained with respect to a person (or group of persons) having individuals in his (or their) employ who, in accordance with the provisions of the State law or of a plan thereunder approved by the State agency,
 
 &emsp;&emsp;(A) guarantees in advance at least 30 hours of work, for which remuneration will be paid at not less than stated rates, for each of 40 weeks (or if more, 1 weekly hour may be deducted for each added week guaranteed) in a year, to all the individuals who are in his (or their) employ in, and who continue to be available for suitable work in, one or more distinct establishments, except that any such individual's guaranty may commence after a probationary period (included within the 11 or less consecutive weeks immediately following the first week in which the individual renders services), and
 
@@ -60,19 +60,19 @@ As used in this section—
 
 #### (5) Year
 
-&emsp;The term “year” means any 12 consecutive calendar months.
+&emsp;The term "year" means any 12 consecutive calendar months.
 
 #### (6) Balance
 
-&emsp;The term “balance”, with respect to a reserve account or a guaranteed employment account, means the amount standing to the credit of the account as of the computation date; except that, if subsequent to January 1, 1940, any moneys have been paid into or credited to such account other than payments thereto by persons having individuals in their employ, such term shall mean the amount in such account as of the computation date less the total of such other moneys paid into or credited to such account subsequent to January 1, 1940.
+&emsp;The term "balance", with respect to a reserve account or a guaranteed employment account, means the amount standing to the credit of the account as of the computation date; except that, if subsequent to January 1, 1940, any moneys have been paid into or credited to such account other than payments thereto by persons having individuals in their employ, such term shall mean the amount in such account as of the computation date less the total of such other moneys paid into or credited to such account subsequent to January 1, 1940.
 
 #### (7) Computation date
 
-&emsp;The term “computation date” means the date, occurring at least once in each calendar year and within 27 weeks prior to the effective date of new rates of contributions, as of which such rates are computed.
+&emsp;The term "computation date" means the date, occurring at least once in each calendar year and within 27 weeks prior to the effective date of new rates of contributions, as of which such rates are computed.
 
 #### (8) Reduced rate
 
-&emsp;The term “reduced rate” means a rate of contributions lower than the standard rate applicable under the State law, and the term “standard rate” means the rate on the basis of which variations therefrom are computed.
+&emsp;The term "reduced rate" means a rate of contributions lower than the standard rate applicable under the State law, and the term "standard rate" means the rate on the basis of which variations therefrom are computed.
 
 #### (d) Voluntary contributions
 
@@ -82,49 +82,21 @@ A State law may, without being deemed to violate the standards set forth in subs
 
 A State may, without being deemed to violate the standards set forth in subsection (a), permit an organization (or a group of organizations) described in section 501(c)(3) which is exempt from income tax under section 501(a) to elect (in lieu of paying contributions) to pay into the State unemployment fund amounts equal to the amounts of compensation attributable under the State law to service performed in the employ of such organization (or group).
 
-#### (f) Transition
+#### (f) Prohibition on noncharging due to employer fault
 
-To facilitate the orderly transition to coverage of service to which section 3309(a)(1)(A) applies, a State law may provide that an organization (or group of organizations) which elects before April 1, 1972, to make payments (in lieu of contributions) into the State unemployment fund as provided in section 3309(a)(2), and which had paid contributions into such fund under the State law with respect to such service performed in its employ before January 1, 1969, is not required to make any such payment (in lieu of contributions) on account of compensation paid after its election as heretofore described which is attributable under the State law to service performed in its employ, until the total of such compensation equals the amount—
+#### (1) In general
 
-&emsp;(1) by which the contributions paid by such organization (or group) with respect to a period before the election provided by section 3309(a)(2), exceed
+&emsp;A State law shall be treated as meeting the requirements of subsection (a)(1) only if such law provides that an employer's account shall not be relieved of charges relating to a payment from the State unemployment fund if the State agency determines that—
 
-&emsp;(2) the unemployment compensation for the same period which was charged to the experience-rating account of such organization (or group) or paid under the State law on the basis of wages paid by it or service performed in its employ, whichever is appropriate.
+&emsp;&emsp;(A) the payment was made because the employer, or an agent of the employer, was at fault for failing to respond timely or adequately to the request of the agency for information relating to the claim for compensation; and
 
-#### (g) Transitional rule for Unemployment Compensation Amendments of 1976
+&emsp;&emsp;(B) the employer or agent has established a pattern of failing to respond timely or adequately to such requests.
 
-To facilitate the orderly transition to coverage of service to which section 3309(a)(1)(A) applies by reason of the enactment of the Unemployment Compensation Amendments of 1976, a State law may provide that an organization (or group of organizations) which elects, when such election first becomes available under the State law with respect to such service, to make payments (in lieu of contributions) into the State unemployment fund as provided in section 3309(a)(2), and which had paid contributions into such fund under the State law with respect to such service performed in its employ before the date of the enactment of this subsection, is not required to make any such payment (in lieu of contributions) on account of compensation paid after its election as heretofore described which is attributable under the State law to such service performed in its employ, until the total of such compensation equals the amount—
+#### (2) State authority to impose stricter standards
 
-&emsp;(1) by which the contributions paid by such organization (or group) on the basis of wages for such service with respect to a period before the election provided by section 3309(a)(2), exceed
-
-&emsp;(2) the unemployment compensation for the same period which was charged to the experience-rating account of such organization (or group) or paid under the State law on the basis of such service performed in its employ or wages paid for such service, whichever is appropriate.
+&emsp;Nothing in paragraph (1) shall limit the authority of a State to provide that an employer's account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 440; Sept. 1, 1954, ch. 1212, §2, 68 Stat. 1130; Pub. L. 91–373, title I, §§104(c), 122(a), 142(c)–(e), Aug. 10, 1970, 84 Stat. 699, 702, 707; Pub. L. 94–455, title XIX, §§1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, §122(a), (b), Oct. 20, 1976, 90 Stat. 2675, 2676; Pub. L. 112–40, title II, §252(a), Oct. 21, 2011, 125 Stat. 421.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–40, title II, §252, Oct. 21, 2011, 125 Stat. 421, provided that, applicable to erroneous payments established after the end of the 2-year period beginning on Oct. 21, 2011, with certain exceptions, this section is amended by striking subsections (f) and (g) and adding the following new subsection:</i>
-
-#### <i>(f) Prohibition on noncharging due to employer fault</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>A State law shall be treated as meeting the requirements of subsection (a)(1) only if such law provides that an employer's account shall not be relieved of charges relating to a payment from the State unemployment fund if the State agency determines that—</i>
-
-&emsp;&emsp;<i>(A) the payment was made because the employer, or an agent of the employer, was at fault for failing to respond timely or adequately to the request of the agency for information relating to the claim for compensation; and</i>
-
-&emsp;&emsp;<i>(B) the employer or agent has established a pattern of failing to respond timely or adequately to such requests.</i>
-
-#### <i>(2) State authority to impose stricter standards</i>
-
-&emsp;<i>Nothing in paragraph (1) shall limit the authority of a State to provide that an employer's account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).</i>
-
-<i>See 2011 Amendment notes below.</i>
-
-#### References in Text
-
-The Unemployment Compensation Amendments of 1976, referred to in subsec. (g), is Pub. L. 94–566, Oct. 20, 1976, 90 Stat. 2667, as amended. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 3311 of this title and Tables.
-
-The date of enactment of this subsection, referred to in subsec. (g), is the date of enactment of Pub. L. 94–566, which was approved Oct. 20, 1976.
 
 #### Amendments
 
@@ -132,11 +104,11 @@ The date of enactment of this subsection, referred to in subsec. (g), is the dat
 
 <b>1976</b>—Subsec. (b)(1) to (3). Pub. L. 94–455 substituted reference to Secretary of the Treasury for reference to Secretary and reference to 12–month period for reference to 12 or 10-month period, as the case may be, and struck out reference to (10-month period in the case of Oct. 31, 1972) following provisions relating to 12–month period ending Oct. 31.
 
-Subsec. (f). Pub. L. 94–566, §122(b), substituted “which elects before April 1, 1972,” for “which elects, when such election first becomes available under the State law,”.
+Subsec. (f). Pub. L. 94–566, §122(b), substituted "which elects before April 1, 1972," for "which elects, when such election first becomes available under the State law,".
 
 Subsec. (g). Pub. L. 94–566, §122(a), added subsec. (g).
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–373, §122(a), added to provision following par. (3) the authorization for the allowance of a reduced rate by State law (but not less than 1 percent) on a reasonable basis other than as permitted by par. (1), (2), or (3).
+<b>1970</b>—Subsec. (a). Pub. L. 91–373, §122(a), added to provision following par. (3) the authorization for the allowance of a reduced rate by State law (but not less than1 percent) on a reasonable basis other than as permitted by par. (1), (2), or (3).
 
 Subsec. (b). Pub. L. 91–373, §142(c)–(e), changed the certification date referred to in pars. (1) to (3) from Dec. 31 to Oct. 31, with provision for a 10-month period in the case of Oct. 31, 1972, and, except for Oct. 31, 1972, provided for a 12-month period ending on Oct. 31 each year.
 
@@ -148,17 +120,17 @@ Subsecs. (e), (f). Pub. L. 91–373, §104(c), added subsecs. (e) and (f).
 
 Pub. L. 112–40, title II, §252(b), Oct. 21, 2011, 125 Stat. 422, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to erroneous payments established after the end of the 2-year period beginning on the date of the enactment of this Act \[Oct. 21, 2011\].
 
-“(2)
+"(2)
 
-Authority.—A State may amend its State law to apply such amendments to erroneous payments established prior to the end of the period described in paragraph (1).”
+Authority.—A State may amend its State law to apply such amendments to erroneous payments established prior to the end of the period described in paragraph (1)."
 
 #### Effective Date of 1976 Amendments
 
-Pub. L. 94–566, title I, §122(c), Oct. 20, 1976, 90 Stat. 2676, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 20, 1976\]. The amendment made by subsection (b) \[amending this section\] shall take effect on January 1, 1970.”
+Pub. L. 94–566, title I, §122(c), Oct. 20, 1976, 90 Stat. 2676, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 20, 1976\]. The amendment made by subsection (b) \[amending this section\] shall take effect on January 1, 1970."
 
 Amendment by section 1903(a)(13) of Pub. L. 94–455 applicable with respect to wages paid after Dec. 31, 1976, see section 1903(d) of Pub. L. 94–455, set out as a note under section 3101 of this title.
 
@@ -166,7 +138,7 @@ Amendment by section 1903(a)(13) of Pub. L. 94–455 applicable with respect to 
 
 Amendment by section 104(c) of Pub. L. 91–373 \[amending this section\] to take effect Jan. 1, 1970, see section 104(d)(1) of Pub. L. 91–373, set out as a note under section 3304 of this title.
 
-Pub. L. 91–373, title I, §122(b), Aug. 10, 1970, 84 Stat. 702, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971.”
+Pub. L. 91–373, title I, §122(b), Aug. 10, 1970, 84 Stat. 702, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971."
 
 Amendment by section 142(c)–(e) of Pub. L. 91–373 applicable with respect to taxable year 1972 and taxable years thereafter, see section 142(i) of Pub. L. 91–373, set out as a note under section 3302 of this title.
 
@@ -176,17 +148,17 @@ Act Sept. 1, 1954, ch. 1212, §2, 68 Stat. 1130, provided that the amendment mad
 
 #### Treatment of Certain Charitable Organizations Retroactively Determined To Be Described in Section 501(c)(3) of This Title
 
-Pub. L. 98–21, title V, §524, Apr. 20, 1983, 97 Stat. 149, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
+Pub. L. 98–21, title V, §524, Apr. 20, 1983, 97 Stat. 149, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If—
 
-&emsp;“(1) an organization did not make an election to make payments (in lieu of contributions) as provided in section 3309(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before April 1, 1972, becausesuch organization, as of such date, was treated as an organization described in section 501(c)(4) of such Code,
+&emsp;"(1) an organization did not make an election to make payments (in lieu of contributions) as provided in section 3309(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before April 1, 1972, because such organization, as of such date, was treated as an organization described in section 501(c)(4) of such Code,
 
-&emsp;“(2) the Internal Revenue Service subsequently determined that such organization was described in section 501(c)(3) of such Code, and
+&emsp;"(2) the Internal Revenue Service subsequently determined that such organization was described in section 501(c)(3) of such Code, and
 
-&emsp;“(3) such organization made such an election before the earlier of—
+&emsp;"(3) such organization made such an election before the earlier of—
 
-&emsp;&emsp;“(A) the date 18 months after such election was first available to it under the State law, or
+&emsp;&emsp;"(A) the date 18 months after such election was first available to it under the State law, or
 
-&emsp;&emsp;“(B) January 1, 1984,
+&emsp;&emsp;"(B) January 1, 1984,
 
-> then section 3303(f) of such Code shall be applied with respect to such organization as if it did not contain the requirement that the election be made before April 1, 1972, and by substituting ‘January 1, 1982’ for ‘January 1, 1969’.”
+> then \[former\] section 3303(f) of such Code shall be applied with respect to such organization as if it did not contain the requirement that the election be made before April 1, 1972, and by substituting 'January 1, 1982' for 'January 1, 1969'."
 

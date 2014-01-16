@@ -6,15 +6,15 @@ For purposes of this section:
 
 #### (1) Grantee
 
-&emsp;The term “grantee” means Teach For America, Inc.
+&emsp;The term "grantee" means Teach For America, Inc.
 
 #### (2) Highly qualified
 
-&emsp;The term “highly qualified” has the meaning given the term in section 7801 of this title or section 1401 of this title.
+&emsp;The term "highly qualified" has the meaning given the term in section 7801 of this title or section 1401 of this title.
 
 #### (3) High-need local educational agency
 
-&emsp;The term “high-need local educational agency” has the meaning given such term in section 1021 of this title.
+&emsp;The term "high-need local educational agency" has the meaning given such term in section 1021 of this title.
 
 #### (b) Grants authorized
 
@@ -42,7 +42,7 @@ In carrying out the grant program under subsection (b), the Secretary shall ente
 
 &emsp;&emsp;(C) Placing such teachers in schools and positions designated by high-need local educational agencies as high-need placements serving underserved students.
 
-&emsp;&emsp;(D) Providing ongoing professional development activities for such teachers’ first two years in the classroom, including regular classroom observations and feedback, and ongoing training and support.
+&emsp;&emsp;(D) Providing ongoing professional development activities for such teachers' first two years in the classroom, including regular classroom observations and feedback, and ongoing training and support.
 
 #### (2) Limitation
 

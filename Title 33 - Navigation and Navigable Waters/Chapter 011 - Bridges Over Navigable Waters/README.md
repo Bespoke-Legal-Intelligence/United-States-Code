@@ -11,7 +11,7 @@
 | [494a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000494a%20-%20Study%20of%20bridges%20over%20navigable%20waters.md) | Study of bridges over navigable waters. |
 | [495\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000495%20-%20Violations%20of%20orders%20respecting%20bridges%20and%20accessory%20works.md) | Violations of orders respecting bridges and accessory works. |
 | [496\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000496%20-%20Time%20for%20commencement%20and%20completion%20of%20bridge.md) | Time for commencement and completion of bridge. |
-| [497\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000497%20-%20%E2%80%9CPersons%E2%80%9D%20defined.md) | “Persons” defined. |
+| [497\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000497%20-%20Persons%20defined.md) | "Persons" defined. |
 | [498\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000498%20-%20Reservation%20of%20right%20to%20alter%20or%20repeal.md) | Reservation of right to alter or repeal. |
 | 498a, 498b. Repealed. |  |
 | [499\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000499%20-%20Regulations%20for%20drawbridges.md) | Regulations for drawbridges. |
@@ -82,13 +82,13 @@
 
 Pub. L. 112–213, title VII, §712(a), Dec. 20, 2012, 126 Stat. 1582, provided that:
 
-“(a)
+"(a)
 
 In General.—For the purposes of reviewing a permit application pursuant to section 9 of the Act of March 3, 1899, popularly known as the Rivers and Harbors Appropriation Act of 1899 (33 U.S.C. 401), the Act of March 23, 1906, popularly known as the Bridge Act of 1906 (33 U.S.C. 491 et seq.), the Act of June 21, 1940, popularly known as the Truman-Hobbs Act (33 U.S.C. 511 et seq.), or the General Bridge Act of 1946 (33 U.S.C. 525 et seq.), the Secretary of the department in which the Coast Guard is operating may—
 
-&emsp;“(1) accept voluntary services from one or more owners of a bridge; and
+&emsp;"(1) accept voluntary services from one or more owners of a bridge; and
 
-&emsp;“(2) accept and credit to Coast Guard operating expenses any amounts received from one or more owners of a bridge.”
+&emsp;"(2) accept and credit to Coast Guard operating expenses any amounts received from one or more owners of a bridge."
 
 
 ---

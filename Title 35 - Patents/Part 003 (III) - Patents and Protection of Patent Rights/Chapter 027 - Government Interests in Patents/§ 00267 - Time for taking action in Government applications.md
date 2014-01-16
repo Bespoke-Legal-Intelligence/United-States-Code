@@ -12,11 +12,11 @@ This provision, which appears as the last two sentences of the corresponding sec
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 struck out “of this title” after “151”.
+<b>2011</b>—Pub. L. 112–29 struck out "of this title" after "151".
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in two places.
+<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" in two places.
 
 #### Effective Date of 2011 Amendment
 

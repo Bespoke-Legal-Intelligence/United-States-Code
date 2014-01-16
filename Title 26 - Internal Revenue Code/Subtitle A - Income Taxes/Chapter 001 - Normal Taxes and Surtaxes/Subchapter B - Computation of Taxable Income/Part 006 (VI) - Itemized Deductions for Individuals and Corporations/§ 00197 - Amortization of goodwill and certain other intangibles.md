@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, the term “amortizable section 197 intangible” means any section 197 intangible—
+&emsp;Except as otherwise provided in this section, the term "amortizable section 197 intangible" means any section 197 intangible—
 
 &emsp;&emsp;(A) which is acquired by the taxpayer after the date of the enactment of this section, and
 
@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (2) Exclusion of self-created intangibles, etc.
 
-&emsp;The term “amortizable section 197 intangible” shall not include any section 197 intangible—
+&emsp;The term "amortizable section 197 intangible" shall not include any section 197 intangible—
 
 &emsp;&emsp;(A) which is not described in subparagraph (D), (E), or (F) of subsection (d)(1), and
 
@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, the term “section 197 intangible” means—
+&emsp;Except as otherwise provided in this section, the term "section 197 intangible" means—
 
 &emsp;&emsp;(A) goodwill,
 
@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “customer-based intangible” means—
+&emsp;&emsp;The term "customer-based intangible" means—
 
 &emsp;&emsp;&emsp;(i) composition of market,
 
@@ -80,15 +80,15 @@ For purposes of this section—
 
 #### (B) Special rule for financial institutions
 
-&emsp;&emsp;In the case of a financial institution, the term “customer-based intangible” includes deposit base and similar items.
+&emsp;&emsp;In the case of a financial institution, the term "customer-based intangible" includes deposit base and similar items.
 
 #### (3) Supplier-based intangible
 
-&emsp;The term “supplier-based intangible” means any value resulting from future acquisitions of goods or services pursuant to relationships (contractual or otherwise) in the ordinary course of business with suppliers of goods or services to be used or sold by the taxpayer.
+&emsp;The term "supplier-based intangible" means any value resulting from future acquisitions of goods or services pursuant to relationships (contractual or otherwise) in the ordinary course of business with suppliers of goods or services to be used or sold by the taxpayer.
 
 #### (e) Exceptions
 
-For purposes of this section, the term “section 197 intangible” shall not include any of the following:
+For purposes of this section, the term "section 197 intangible" shall not include any of the following:
 
 #### (1) Financial interests
 
@@ -114,7 +114,7 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 #### (B) Computer software defined
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “computer software” means any program designed to cause a computer to perform a desired function. Such term shall not include any data base or similar item unless the data base or item is in the public domain and is incidental to the operation of otherwise qualifying computer software.
+&emsp;&emsp;For purposes of subparagraph (A), the term "computer software" means any program designed to cause a computer to perform a desired function. Such term shall not include any data base or similar item unless the data base or item is in the public domain and is incidental to the operation of otherwise qualifying computer software.
 
 #### (4) Certain interests or rights acquired separately
 
@@ -190,7 +190,7 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 #### (A) Franchise
 
-&emsp;&emsp;The term “franchise” has the meaning given to such term by section 1253(b)(1).
+&emsp;&emsp;The term "franchise" has the meaning given to such term by section 1253(b)(1).
 
 #### (B) Treatment of renewals
 
@@ -228,7 +228,7 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 #### (A) In general
 
-&emsp;&emsp;The term “amortizable section 197 intangible” shall not include any section 197 intangible which is described in subparagraph (A) or (B) of subsection (d)(1) (or for which depreciation or amortization would not have been allowable but for this section) and which is acquired by the taxpayer after the date of the enactment of this section, if—
+&emsp;&emsp;The term "amortizable section 197 intangible" shall not include any section 197 intangible which is described in subparagraph (A) or (B) of subsection (d)(1) (or for which depreciation or amortization would not have been allowable but for this section) and which is acquired by the taxpayer after the date of the enactment of this section, if—
 
 &emsp;&emsp;&emsp;(i) the intangible was held or used at any time on or after July 25, 1991, and on or before such date of enactment by the taxpayer or a related person,
 
@@ -258,13 +258,13 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 #### (i) Related person
 
-&emsp;&emsp;&emsp;A person (hereinafter in this paragraph referred to as the “related person”) is related to any person if—
+&emsp;&emsp;&emsp;A person (hereinafter in this paragraph referred to as the "related person") is related to any person if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the related person bears a relationship to such person specified in section 267(b) or section 707(b)(1), or
 
 &emsp;&emsp;&emsp;&emsp;(II) the related person and such person are engaged in trades or businesses under common control (within the meaning of subparagraphs (A) and (B) of section 41(f)(1)).
 
-&emsp;&emsp;&nbsp;For purposes of subclause (I), in applying section 267(b) or 707(b)(1), “20 percent” shall be substituted for “50 percent”.
+&emsp;&emsp;&nbsp;For purposes of subclause (I), in applying section 267(b) or 707(b)(1), "20 percent" shall be substituted for "50 percent".
 
 #### (ii) Time for making determination
 
@@ -280,7 +280,7 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 #### (F) Anti-abuse rules
 
-&emsp;&emsp;The term “amortizable section 197 intangible” does not include any section 197 intangible acquired in a transaction, one of the principal purposes of which is to avoid the requirement of subsection (c)(1) that the intangible be acquired after the date of the enactment of this section or to avoid the provisions of subparagraph (A).
+&emsp;&emsp;The term "amortizable section 197 intangible" does not include any section 197 intangible acquired in a transaction, one of the principal purposes of which is to avoid the requirement of subsection (c)(1) that the intangible be acquired after the date of the enactment of this section or to avoid the provisions of subparagraph (A).
 
 #### (10) Tax-exempt use property subject to lease
 
@@ -298,7 +298,7 @@ The date of the enactment of this section, referred to in subsecs. (c)(1)(A) and
 
 #### Amendments
 
-<b>2004</b>—Subsec. (e)(6) to (8). Pub. L. 108–357, §886(a), redesignated pars. (7) and (8) as (6) and (7), respectively, and struck out heading and text of former par. (6). Text read as follows: “A franchise to engage in professional football, basketball, baseball, or other professional sport, and any item acquired in connection with such a franchise.”
+<b>2004</b>—Subsec. (e)(6) to (8). Pub. L. 108–357, §886(a), redesignated pars. (7) and (8) as (6) and (7), respectively, and struck out heading and text of former par. (6). Text read as follows: "A franchise to engage in professional football, basketball, baseball, or other professional sport, and any item acquired in connection with such a franchise."
 
 Subsec. (f)(10). Pub. L. 108–357, §847(b)(3), added par. (10).
 
@@ -308,63 +308,63 @@ Amendment by section 847(b)(3) of Pub. L. 108–357 applicable to leases entered
 
 Pub. L. 108–357, title VIII, §886(c), Oct. 22, 2004, 118 Stat. 1641, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1245 and 1253 of this title and repealing section 1056 of this title\] shall apply to property acquired after the date of the enactment of this Act \[Oct. 22, 2004\].
 
-“(2)
+"(2)
 
-Section 1245.—The amendment made by subsection (b)(2) \[amending section 1245 of this title\] shall apply to franchises acquired after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Section 1245.—The amendment made by subsection (b)(2) \[amending section 1245 of this title\] shall apply to franchises acquired after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date
 
 Pub. L. 103–66, title XIII, §13261(g), Aug. 10, 1993, 107 Stat. 540, as amended by Pub. L. 104–188, title I, §1703(l), Aug. 20, 1996, 110 Stat. 1877, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 167, 642, 848, 1016, 1060, 1245, and 1253 of this title\] shall apply with respect to property acquired after the date of the enactment of this Act \[Aug. 10, 1993\].
 
-“(2)
+"(2)
 
 Election to have amendments apply to property acquired after july 25, 1991.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—If an election under this paragraph applies to the taxpayer—
 
-&emsp;&emsp;“(i) the amendments made by this section shall apply to property acquired by the taxpayer after July 25, 1991,
+&emsp;&emsp;"(i) the amendments made by this section shall apply to property acquired by the taxpayer after July 25, 1991,
 
-&emsp;&emsp;“(ii) subsection (c)(1)(A) of section 197 of the Internal Revenue Code of 1986 (as added by this section) (and so much of subsection (f)(9)(A) of such section 197 as precedes clause (i) thereof) shall be applied with respect to the taxpayer by treating July 25, 1991, as the date of the enactment of such section, and
+&emsp;&emsp;"(ii) subsection (c)(1)(A) of section 197 of the Internal Revenue Code of 1986 (as added by this section) (and so much of subsection (f)(9)(A) of such section 197 as precedes clause (i) thereof) shall be applied with respect to the taxpayer by treating July 25, 1991, as the date of the enactment of such section, and
 
-&emsp;&emsp;“(iii) in applying subsection (f)(9) of such section, with respect to any property acquired by the taxpayer or a related person on or before the date of the enactment of this Act, only holding or use on July 25, 1991, shall be taken into account.
+&emsp;&emsp;"(iii) in applying subsection (f)(9) of such section, with respect to any property acquired by the taxpayer or a related person on or before the date of the enactment of this Act, only holding or use on July 25, 1991, shall be taken into account.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Election.—An election under this paragraph shall be made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe. Such an election by any taxpayer, once made—
 
-&emsp;&emsp;“(i) may be revoked only with the consent of the Secretary, and
+&emsp;&emsp;"(i) may be revoked only with the consent of the Secretary, and
 
-&emsp;&emsp;“(ii) shall apply to the taxpayer making such election and any other taxpayer under common control with the taxpayer (within the meaning of subparagraphs (A) and (B) of section 41(f)(1) of such Code) at any time after August 2, 1993, and on or before the date on which such election is made.
+&emsp;&emsp;"(ii) shall apply to the taxpayer making such election and any other taxpayer under common control with the taxpayer (within the meaning of subparagraphs (A) and (B) of section 41(f)(1) of such Code) at any time after August 2, 1993, and on or before the date on which such election is made.
 
-“(3)
+"(3)
 
 Elective binding contract exception.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The amendments made by this section shall not apply to any acquisition of property by the taxpayer if—
 
-&emsp;&emsp;“(i) such acquisition is pursuant to a written binding contract in effect on the date of the enactment of this Act and at all times thereafter before such acquisition,
+&emsp;&emsp;"(i) such acquisition is pursuant to a written binding contract in effect on the date of the enactment of this Act and at all times thereafter before such acquisition,
 
-&emsp;&emsp;“(ii) an election under paragraph (2) does not apply to the taxpayer, and
+&emsp;&emsp;"(ii) an election under paragraph (2) does not apply to the taxpayer, and
 
-&emsp;&emsp;“(iii) the taxpayer makes an election under this paragraph with respect to such contract.
+&emsp;&emsp;"(iii) the taxpayer makes an election under this paragraph with respect to such contract.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Election.—An election under this paragraph shall be made at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe. Such an election, once made—
 
-&emsp;&emsp;“(i) may be revoked only with the consent of the Secretary, and
+&emsp;&emsp;"(i) may be revoked only with the consent of the Secretary, and
 
-&emsp;&emsp;“(ii) shall apply to all property acquired pursuant to the contract with respect to which such election was made.”
+&emsp;&emsp;"(ii) shall apply to all property acquired pursuant to the contract with respect to which such election was made."
 

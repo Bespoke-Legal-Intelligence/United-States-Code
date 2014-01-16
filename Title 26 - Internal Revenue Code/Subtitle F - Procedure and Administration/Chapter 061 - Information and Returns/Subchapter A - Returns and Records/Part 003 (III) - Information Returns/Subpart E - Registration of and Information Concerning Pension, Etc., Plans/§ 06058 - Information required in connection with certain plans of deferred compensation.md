@@ -10,7 +10,7 @@ Not less than 30 days before a merger, consolidation, or transfer of assets or l
 
 #### (c) Employer
 
-For purposes of this section, the term “employer” includes a person described in section 401(c)(4) and an individual who establishes an individual retirement plan.
+For purposes of this section, the term "employer" includes a person described in section 401(c)(4) and an individual who establishes an individual retirement plan.
 
 #### (d) Coordination with income tax returns, etc.
 
@@ -26,7 +26,7 @@ An individual who establishes an individual retirement plan shall not be require
 
 #### (e) Special IRP tax defined
 
-For purposes of this section, the term “special IRP tax” means a tax imposed by—
+For purposes of this section, the term "special IRP tax" means a tax imposed by—
 
 &emsp;(1) section 408(f),<sup>1</sup>
 
@@ -38,7 +38,7 @@ For purposes of this section, the term “special IRP tax” means a tax imposed
 
 &emsp;&emsp;<b>For provisions relating to penalties for failure to file a return required by this section, see section 6652(e).</b>
 
-&emsp;&emsp;<b>For coordination between the Department of the Treasury and the Department of Labor with respect</b><b>to the information required under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.</b>
+&emsp;&emsp;<b>For coordination between the Department of the Treasury and the Department of Labor with respect to the information required under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.</b>
 
 (Added Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 945; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §157(k)(1), Nov. 6, 1978, 92 Stat. 2809; Pub. L. 98–369, div. A, title IV, §491(d)(48), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XV, §1501(d)(1)(D), Oct. 22, 1986, 100 Stat. 2740.)
 
@@ -50,15 +50,15 @@ Section 3004 of title III of the Employee Retirement Income Security Act of 1974
 
 #### Amendments
 
-<b>1986</b>—Subsec. (f). Pub. L. 99–514 substituted “section 6652(e)” for “section 6652(f)”.
+<b>1986</b>—Subsec. (f). Pub. L. 99–514 substituted "section 6652(e)" for "section 6652(f)".
 
-<b>1984</b>—Subsec. (e). Pub. L. 98–369 struck out par. (2) which included a tax imposed by section 409(c) within term “special IRP tax”, and redesignated pars. (3) and (4) as (2) and (3), respectively.
+<b>1984</b>—Subsec. (e). Pub. L. 98–369 struck out par. (2) which included a tax imposed by section 409(c) within term "special IRP tax", and redesignated pars. (3) and (4) as (2) and (3), respectively.
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–600 substituted “an individual retirement plan” for “an individual retirement account or annuity described in section 408”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–600 substituted "an individual retirement plan" for "an individual retirement account or annuity described in section 408".
 
 Subsecs. (d) to (f). Pub. L. 95–600 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 1986 Amendment
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 19
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title I, §157(k)(3), Nov. 6, 1978, 92 Stat. 2809, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to returns for taxable years beginning after December 31, 1977. The amendment made by paragraph (2) \[amending section 7701 of this title\] shall apply to taxable years beginning after December 31, 1974.”
+Pub. L. 95–600, title I, §157(k)(3), Nov. 6, 1978, 92 Stat. 2809, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to returns for taxable years beginning after December 31, 1977. The amendment made by paragraph (2) \[amending section 7701 of this title\] shall apply to taxable years beginning after December 31, 1974."
 
 #### Effective Date
 
@@ -80,47 +80,47 @@ Section effective Sept. 2, 1974, except that the requirements of subsec. (a) sha
 
 Pub. L. 109–280, title XI, §1103, Aug. 17, 2006, 120 Stat. 1057, provided that:
 
-“(a)
+"(a)
 
 Simplified Annual Filing Requirement for Owners and Their Spouses.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary of the Treasury shall modify the requirements for filing annual returns with respect to one-participant retirement plans to ensure that such plans with assets of $250,000 or less as of the close of the plan year need not file a return for that year.
 
-&emsp;“(2)
+&emsp;"(2)
 
-One-participant retirement plan defined.—For purposes of this subsection, the term ‘one-participant retirement plan’ means a retirement plan with respect to which the following requirements are met:
+One-participant retirement plan defined.—For purposes of this subsection, the term 'one-participant retirement plan' means a retirement plan with respect to which the following requirements are met:
 
-&emsp;&emsp;“(A) on the first day of the plan year—
+&emsp;&emsp;"(A) on the first day of the plan year—
 
-&emsp;&emsp;&emsp;“(i) the plan covered only one individual (or the individual and the individual's spouse) and the individual owned 100 percent of the plan sponsor (whether or not incorporated), or
+&emsp;&emsp;&emsp;"(i) the plan covered only one individual (or the individual and the individual's spouse) and the individual owned 100 percent of the plan sponsor (whether or not incorporated), or
 
-&emsp;&emsp;&emsp;“(ii) the plan covered only one or more partners (or partners and their spouses) in the plan sponsor;
+&emsp;&emsp;&emsp;"(ii) the plan covered only one or more partners (or partners and their spouses) in the plan sponsor;
 
-&emsp;&emsp;“(B) the plan meets the minimum coverage requirements of section 410(b) of the Internal Revenue Code of 1986 without being combined with any other plan of the business that covers the employees of the business;
+&emsp;&emsp;"(B) the plan meets the minimum coverage requirements of section 410(b) of the Internal Revenue Code of 1986 without being combined with any other plan of the business that covers the employees of the business;
 
-&emsp;&emsp;“(C) the plan does not provide benefits to anyone except the individual (and the individual's spouse) or the partners (and their spouses);
+&emsp;&emsp;"(C) the plan does not provide benefits to anyone except the individual (and the individual's spouse) or the partners (and their spouses);
 
-&emsp;&emsp;“(D) the plan does not cover a business that is a member of an affiliated service group, a controlled group of corporations, or a group of businesses under common control; and
+&emsp;&emsp;"(D) the plan does not cover a business that is a member of an affiliated service group, a controlled group of corporations, or a group of businesses under common control; and
 
-&emsp;&emsp;“(E) the plan does not cover a business that uses the services of leased employees (within the meaning of section 414(n) of such Code).
+&emsp;&emsp;"(E) the plan does not cover a business that uses the services of leased employees (within the meaning of section 414(n) of such Code).
 
-> &emsp;For purposes of this paragraph, the term ‘partner’ includes a 2-percent shareholder (as defined in section 1372(b) of such Code) of an S corporation.
+> &emsp;For purposes of this paragraph, the term 'partner' includes a 2-percent shareholder (as defined in section 1372(b) of such Code) of an S corporation.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Other definitions.—Terms used in paragraph (2) which are also used in section 414 of the Internal Revenue Code of 1986 shall have the respective meanings given such terms by such section.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Effective date.—The provisions of this subsection shall apply to plan years beginning on or after January 1, 2007.
 
-“(b)
+"(b)
 
 Simplified Annual Filing Requirement for Plans With Fewer Than 25
 
-Participants.—In the case of plan years beginning after December 31, 2006, the Secretary of the Treasury and the Secretary of Labor shall provide for the filing of a simplified annual return for any retirement plan which covers less than 25 participants on the first day of a plan year and which meets the requirements described in subparagraphs (B), (D), and (E) of subsection (a)(2).”
+Participants.—In the case of plan years beginning after December 31, 2006, the Secretary of the Treasury and the Secretary of Labor shall provide for the filing of a simplified annual return for any retirement plan which covers less than 25 participants on the first day of a plan year and which meets the requirements described in subparagraphs (B), (D), and (E) of subsection (a)(2)."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

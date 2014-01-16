@@ -72,17 +72,17 @@ Sept. 3, 1982, Pub. L. 97–248, §518, 96 Stat. 693.
 
 49 App.:2217(d).
 
-In subsections (a)–(d), the word “sponsor” is substituted for “recipient of a grant under this chapter” and “recipient” for clarity.
+In subsections (a)–(d), the word "sponsor" is substituted for "recipient of a grant under this chapter" and "recipient" for clarity.
 
-In subsection (a), before clause (1), the words “The Secretary may require records” are substituted for “including records” for clarity. In clause (1), before subclause (A), the word “fully” is omitted as surplus.
+In subsection (a), before clause (1), the words "The Secretary may require records" are substituted for "including records" for clarity. In clause (1), before subclause (A), the word "fully" is omitted as surplus.
 
-In subsection (b), the words “or any of their duly authorized representatives” are omitted as surplus because of 49:322(b) and 31:711. The words “may audit and examine” are substituted for “shall have access for the purpose of audit and examination” to eliminate unnecessary words. The words “books, documents, papers” are omitted as being included in “records”.
+In subsection (b), the words "or any of their duly authorized representatives" are omitted as surplus because of 49:322(b) and 31:711. The words "may audit and examine" are substituted for "shall have access for the purpose of audit and examination" to eliminate unnecessary words. The words "books, documents, papers" are omitted as being included in "records".
 
-In subsection (e), the words “minimum necessary to carry out” are substituted for “that such requirements are kept to the minimum level necessary for the proper administration of” to eliminate unnecessary words.
+In subsection (e), the words "minimum necessary to carry out" are substituted for "that such requirements are kept to the minimum level necessary for the proper administration of" to eliminate unnecessary words.
 
-In subsection (f), the words “or any officer or employee under the control of either of them” are omitted as surplus because of 49:322(b) and 31:711.
+In subsection (f), the words "or any officer or employee under the control of either of them" are omitted as surplus because of 49:322(b) and 31:711.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–316, in first sentence, substituted “Secretary” for “Comptroller General”, in second sentence, substituted “The Comptroller General may” for “Not later than April 15 of each year, the Comptroller General shall”, and struck out at end “The Comptroller General shall prescribe regulations necessary to carry out this subsection.”
+<b>1996</b>—Subsec. (c). Pub. L. 104–316, in first sentence, substituted "Secretary" for "Comptroller General", in second sentence, substituted "The Comptroller General may" for "Not later than April 15 of each year, the Comptroller General shall", and struck out at end "The Comptroller General shall prescribe regulations necessary to carry out this subsection."
 

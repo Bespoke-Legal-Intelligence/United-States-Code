@@ -18,7 +18,7 @@
 
 &emsp;(A) be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement; or
 
-&emsp;(B) if the officer is not eligible for retirement under any provision of law, be retained on active duty until he is qualified for retirement under section 3911, 6323, or 8911 of this title, and then be retired under that section, unless he is sooner retired or discharged under some other provision of law.
+&emsp;(B) if the officer is not eligible for retirement under any provision of law, be retainedon active duty until he is qualified for retirement under section 3911, 6323, or 8911 of this title, and then be retired under that section, unless he is sooner retired or discharged under some other provision of law.
 
 (2) An officer who holds the regular grade of brigadier general, major general, rear admiral (lower half), or rear admiral who is recommended for early retirement under this section and whose early retirement is approved by the Secretary concerned shall be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approved the report of the board which recommended the officer for early retirement.
 
@@ -42,33 +42,33 @@
 
 <b>1996</b>—Subsec. (b)(3). Pub. L. 104–106 added par. (3).
 
-<b>1993</b>—Subsec. (e)(2)(B). Pub. L. 103–160 inserted “(i)” after “grade and competitive category”, inserted “(ii)” after “of this title, or”, and struck out comma after “any provision of law”.
+<b>1993</b>—Subsec. (e)(2)(B). Pub. L. 103–160 inserted "(i)" after "grade and competitive category", inserted "(ii)" after "of this title, or", and struck out comma after "any provision of law".
 
-<b>1991</b>—Subsec. (e). Pub. L. 102–190 designated existing provisions as pars. (1) and (2)(A), in par. (2)(A) inserted “(except as provided in subparagraph (B))” after “under this section, such list”, and added subpars. (B) and (C).
+<b>1991</b>—Subsec. (e). Pub. L. 102–190 designated existing provisions as pars. (1) and (2)(A), in par. (2)(A) inserted "(except as provided in subparagraph (B))" after "under this section, such list", and added subpars. (B) and (C).
 
 <b>1990</b>—Subsec. (a)(3). Pub. L. 101–510, §521(b)(2)(A), added par. (3).
 
-Subsec. (b)(1). Pub. L. 101–510, §521(b)(2)(B), inserted “or section 638a of this title” after “under this section”.
+Subsec. (b)(1). Pub. L. 101–510, §521(b)(2)(B), inserted "or section 638a of this title" after "under this section".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A regular officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps—
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "A regular officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps—
 
-&emsp;“(1) who holds the regular grade of lieutenant colonel or commander and has failed of selection for promotion to the grade of colonel or, in the case of an officer of the Navy, captain two or more times and whose name is not on a list of officers recommended for promotion;
+&emsp;"(1) who holds the regular grade of lieutenant colonel or commander and has failed of selection for promotion to the grade of colonel or, in the case of an officer of the Navy, captain two or more times and whose name is not on a list of officers recommended for promotion;
 
-&emsp;“(2) who holds the regular grade of colonel or, in the case of an officer of the Navy, captain and has served at least four years of active duty in that grade and whose name is not on a list of officers recommended for promotion;
+&emsp;"(2) who holds the regular grade of colonel or, in the case of an officer of the Navy, captain and has served at least four years of active duty in that grade and whose name is not on a list of officers recommended for promotion;
 
-&emsp;“(3) who holds the regular grade of brigadier general or rear admiral (lower half) and has served at least three and one-half years of active duty in that grade and whose name is not on a list of officers recommended for promotion; or
+&emsp;"(3) who holds the regular grade of brigadier general or rear admiral (lower half) and has served at least three and one-half years of active duty in that grade and whose name is not on a list of officers recommended for promotion; or
 
-&emsp;“(4) who holds the regular grade of major general or rear admiral and has served at least three and one-half years of active duty in that grade,
+&emsp;"(4) who holds the regular grade of major general or rear admiral and has served at least three and one-half years of active duty in that grade,
 
-> may be considered for early retirement by a selection board convened under section 611(b) of this title. The Secretary of the military department concerned shall specify the number of officers described in clauses (1) and (2) which such a board may recommend for early retirement, but such number may not be more than 30 percent of the number of officers considered in each grade in each competitive category.”
+> may be considered for early retirement by a selection board convened under section 611(b) of this title. The Secretary of the military department concerned shall specify the number of officers described in clauses (1) and (2) which such a board may recommend for early retirement, but such number may not be more than 30 percent of the number of officers considered in each grade in each competitive category."
 
-<b>1985</b>—Subsecs. (a)(3), (b), (c). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” wherever appearing.
+<b>1985</b>—Subsecs. (a)(3), (b), (c). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore" wherever appearing.
 
-<b>1981</b>—Subsec. (a)(3). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+<b>1981</b>—Subsec. (a)(3). Pub. L. 97–86 substituted "commodore" for "commodore admiral".
 
-Subsec. (a)(3), (4). Pub. L. 97–22 substituted “three and one-half years of active duty” for “four years of active duty”.
+Subsec. (a)(3), (4). Pub. L. 97–22 substituted "three and one-half years of active duty" for "four years of active duty".
 
-Subsecs. (b), (c). Pub. L. 97–86 substituted “commodore” for “commodore admiral” wherever appearing.
+Subsecs. (b), (c). Pub. L. 97–86 substituted "commodore" for "commodore admiral" wherever appearing.
 
 #### Effective Date of 1981 Amendment
 

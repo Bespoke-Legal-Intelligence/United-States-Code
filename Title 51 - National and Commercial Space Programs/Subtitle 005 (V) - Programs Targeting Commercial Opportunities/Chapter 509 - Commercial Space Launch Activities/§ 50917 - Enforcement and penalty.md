@@ -78,21 +78,21 @@ Oct. 30, 1984, Pub. L. 98–575, §§17–19, 98 Stat. 3061.
 
 49 App.:2618(b).
 
-In subsection (a), the words “a requirement of” are omitted as surplus. The word “prescribed” is substituted for “issued” for consistency in the revised title and with other titles of the United States Code. The words “condition, or restriction” are omitted as surplus.
+In subsection (a), the words "a requirement of" are omitted as surplus. The word "prescribed" is substituted for "issued" for consistency in the revised title and with other titles of the United States Code. The words "condition, or restriction" are omitted as surplus.
 
-In subsection (b)(1)(A)–(C), the words “concerning any matter relating to enforcement of this chapter” are omitted as surplus.
+In subsection (b)(1)(A)–(C), the words "concerning any matter relating to enforcement of this chapter" are omitted as surplus.
 
-In subsection (b)(1)(B) and (C), the words “from any person” are omitted as surplus.
+In subsection (b)(1)(B) and (C), the words "from any person" are omitted as surplus.
 
-In subsection (b)(1)(B), the word “affirmation” is omitted because of 1:1.
+In subsection (b)(1)(B), the word "affirmation" is omitted because of 1:1.
 
-In subsection (b)(2), the text of 49 App.:2616(a) (1st sentence) is omitted as surplus because the Secretary of Transportation enforces programs the Secretary carries out unless otherwise provided. The words “the exercise of” are omitted as surplus. The words “duty or power” are substituted for “authority” for consistency in the revised title and with other titles of the Code. The words “to any officer or employee of the Department of Transportation” are omitted as surplus because of 49:322(b).
+In subsection (b)(2), the text of 49 App.:2616(a) (1st sentence) is omitted as surplus because the Secretary of Transportation enforces programs the Secretary carries out unless otherwise provided. The words "the exercise of" are omitted as surplus. The words "duty or power" are substituted for "authority" for consistency in the revised title and with other titles of the Code. The words "to any officer or employee of the Department of Transportation" are omitted as surplus because of 49:322(b).
 
-In subsection (c)(1), the words “in accordance with section 554 of title 5” are omitted for consistency in the revised title and because 5:554 applies to a hearing on the record unless otherwise stated. The words “for each violation” are omitted as surplus.
+In subsection (c)(1), the words "in accordance with section 554 of title 5" are omitted for consistency in the revised title and because 5:554 applies to a hearing on the record unless otherwise stated. The words "for each violation" are omitted as surplus.
 
-In subsection (c)(2), the words “relevant papers, books, documents, and other” are omitted as surplus. The words “(3) administer oaths and affirmatives” are omitted as surplus because of subsection (b)(1)(B) of this section.
+In subsection (c)(2), the words "relevant papers, books, documents, and other" are omitted as surplus. The words "(3) administer oaths and affirmatives" are omitted as surplus because of subsection (b)(1)(B) of this section.
 
-In subsection (c)(3), the word “impose” is substituted for “assessed” for consistency in the revised title andwith other titles of the Code. The words “amount of such” and “modify . . . with or without conditions” are omitted as surplus.
+In subsection (c)(3), the word "impose" is substituted for "assessed" for consistency in the revised title andwith other titles of the Code. The words "amount of such" and "modify . . . with or without conditions" are omitted as surplus.
 
 Subsection (c)(4) is substituted for 49 App.:2618(b) to eliminate unnecessary words.
 
@@ -100,7 +100,7 @@ Subsection (c)(4) is substituted for 49 App.:2618(b) to eliminate unnecessary wo
 
 <b>2010</b>—Pub. L. 111–314 successively renumbered section 70115 of title 49 and section 70115 of this title as this section.
 
-<b>2004</b>—Subsec. (b)(1)(D)(i). Pub. L. 108–492 inserted “crew or space flight participant training site,” after “site of a launch vehicle or reentry vehicle,”.
+<b>2004</b>—Subsec. (b)(1)(D)(i). Pub. L. 108–492 inserted "crew or space flight participant training site," after "site of a launch vehicle or reentry vehicle,".
 
-<b>1998</b>—Subsec. (b)(1)(D)(i). Pub. L. 105–303 inserted “reentry site,” after “launch site,” and inserted “or reentry vehicle” after “launch vehicle” in two places.
+<b>1998</b>—Subsec. (b)(1)(D)(i). Pub. L. 105–303 inserted "reentry site," after "launch site," and inserted "or reentry vehicle" after "launch vehicle" in two places.
 

@@ -14,7 +14,7 @@ The officials referred to in subsection (a) are the following:
 
 #### (c) Dual validation teams in support of assessments
 
-In support of the assessments required by subsection (a), the Administrator for Nuclear Security may establish teams, known as “dual validation teams”, to provide each national security laboratory responsible for weapons design with independent evaluations of the condition of each warhead for which such laboratory has lead responsibility. A dual validation team established by the Administrator shall—
+In support of the assessments required by subsection (a), the Administrator may establish teams, known as "dual validation teams", to provide each national security laboratory responsible for weapons design with independent evaluations of the condition of each warhead for which such laboratory has lead responsibility. A dual validation team established by the Administrator shall—
 
 &emsp;(1) be comprised of weapons experts from the laboratory that does not have lead responsibility for fielding the warhead being evaluated;
 
@@ -26,7 +26,7 @@ In support of the assessments required by subsection (a), the Administrator for 
 
 #### (d) Use of teams of experts for assessments
 
-The head of each national security laboratory shall establish and use one or more teams of experts, known as “red teams”, to assist in the assessments required by subsection (a). Each such team shall include experts from both of the other national security laboratories. Each such team for a national security laboratory shall—
+The head of each national security laboratory shall establish and use one or more teams of experts, known as "red teams", to assist in the assessments required by subsection (a). Each such team shall include experts from both of the other national security laboratories. Each such team for a national security laboratory shall—
 
 &emsp;(1) review both the matters covered by the assessments under subsection (a) performed by the head of that laboratory and any independent evaluations conducted by a dual validation team under subsection (c);
 
@@ -36,7 +36,7 @@ The head of each national security laboratory shall establish and use one or mor
 
 #### (e) Report on assessments
 
-Not later than December 1 of each year, each official specified in subsection (b) shall submit to the Secretary concerned, and to the Nuclear Weapons Council, a report on the assessments that such official was required by subsection (a) to complete. The report shall include the following:
+Not later than December 1 of each year, each official specified in subsection (b) shall submit to the Secretary concerned, and to the Nuclear Weapons Council, a report on the assessments that such official was required by subsection (a)to complete. The report shall include the following:
 
 &emsp;(1) The results of each such assessment.
 
@@ -56,17 +56,23 @@ Not later than December 1 of each year, each official specified in subsection (b
 
 &emsp;&emsp;(B) a concise statement regarding the adequacy of the tools and methods employed by the manufacturing infrastructure required by section 2532 of this title to identify and fix any inadequacy with respect to the matters covered by the assessments;
 
-&emsp;&emsp;(C) a concise summary of the findings and recommendations of any teams under subsection (d) that relate to the assessments, together with a discussion of those findings and recommendations; and
+&emsp;&emsp;(C) a concise summary of the findings and recommendations of any teams under subsection (d) that relate to the assessments, together with a discussion of those findings and recommendations;
 
-&emsp;&emsp;(D) a concise summary of the results of any independent evaluation conducted by a dual validation team under subsection (c).
+&emsp;&emsp;(D) a concise summary of the results of any independent evaluation conducted by a dual validation team under subsection (c); and
 
-&emsp;(4) In the case of a report submitted by the Commander of the United States Strategic Command, a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types.
+&emsp;&emsp;(E) a concise summary of any significant finding investigations initiated or active during the previous year for which the head of the national security laboratory has full or partial responsibility.
+
+&emsp;(4) In the case of a report submitted by the Commander of the United States Strategic Command—
+
+&emsp;&emsp;(A) a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types; and
+
+&emsp;&emsp;(B) a summary of all major assembly releases in place as of the date of the report for the active and inactive nuclear weapon stockpiles.
 
 &emsp;(5) An identification and discussion of any matter having an adverse effect on the capability of the official submitting the report to accurately determine the matters covered by the assessments.
 
 #### (f) Submittals to the President and Congress
 
-(1) Not later than March 1 of each year, the Secretary of Defense and the Secretary of Energy shall submit to the President—
+(1) Not later than February 1 of each year, the Secretary of Defense and the Secretary of Energy shall submit to the President—
 
 &emsp;(A) each report, without change, submitted to either Secretary under subsection (e) during the preceding year;
 
@@ -78,23 +84,21 @@ Not later than December 1 of each year, each official specified in subsection (b
 
 (2) Not later than March 15 of each year, the President shall forward to Congress the matters received by the President under paragraph (1) for that year, together with any comments the President considers appropriate.
 
+(3) If the President does not forward to Congress the matters required under paragraph (2) by the date required by such paragraph, the officials specified in subsection (b) shall provide a briefing to the congressional defense committees not later than March 30 on the report such officials submitted to the Secretary concerned under subsection (e).
+
 #### (g) Classified form
 
 Each submittal under subsection (f) shall be in classified form only, with the classification level required for each portion of such submittal marked appropriately.
 
-#### (h) Definitions
+#### (h) Definition
 
-In this section:
+In this section, the term "Secretary concerned" means—
 
-&emsp;(1) The term “national security laboratory” has the meaning given such term in section 2471 of this title.
+&emsp;(1) the Secretary of Energy, with respect to matters concerning the Department of Energy; and
 
-&emsp;(2) The term “Secretary concerned” means—
+&emsp;(2) the Secretary of Defense, with respect to matters concerning the Department of Defense.
 
-&emsp;&emsp;(A) the Secretary of Energy, with respect to matters concerning the Department of Energy; and
-
-&emsp;&emsp;(B) the Secretary of Defense, with respect to matters concerning the Department of Defense.
-
-(Pub. L. 107–314, div. D, title XLII, §4205, formerly div. C, title XXXI, §3141, Dec. 2, 2002, 116 Stat. 2730; renumbered div. D, title XLII, §4205, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(6), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3114(a)(2)–(d), Oct. 28, 2009, 123 Stat. 2706, 2707; Pub. L. 112–239, div. C, title XXXI, §3131(c), Jan. 2, 2013, 126 Stat. 2180.)
+(Pub. L. 107–314, div. D, title XLII, §4205, formerly div. C, title XXXI, §3141, Dec. 2, 2002, 116 Stat. 2730; renumbered div. D, title XLII, §4205, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(6), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3114(a)(2)–(d), Oct. 28, 2009, 123 Stat. 2706, 2707; Pub. L. 112–239, div. C, title XXXI, §3131(c), Jan. 2, 2013, 126 Stat. 2180; Pub. L. 113–66, div. C, title XXXI, §§3122, 3146(c)(3), Dec. 26, 2013, 127 Stat. 1061, 1074.)
 
 #### Codification
 
@@ -102,25 +106,37 @@ Section was formerly classified to section 7274s of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (i). Pub. L. 112–239 struck out subsec. (i) which related to first submissions under subsecs. (e) and (f).
+<b>2013</b>—Subsec. (c). Pub. L. 113–66, §3146(c)(3)(A), struck out "for Nuclear Security" before "may establish teams," in introductory provisions.
+
+Subsec. (e)(3)(E). Pub. L. 113–66, §3122(a)(1), added subpar. (E).
+
+Subsec. (e)(4). Pub. L. 113–66, §3122(a)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "In the case of a report submitted by the Commander of the United States Strategic Command, a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types."
+
+Subsec. (f)(1). Pub. L. 113–66, §3122(b)(1), substituted "February 1" for "March 1" in introductory provisions.
+
+Subsec. (f)(3). Pub. L. 113–66, §3122(b)(2), added par. (3).
+
+Subsec. (h). Pub. L. 113–66, §3146(c)(3)(B), in heading, substituted "Definition" for "Definitions" and, in text, substituted "section, the term" for "section:", struck out par. (1) which defined "national security laboratory", struck out par. (2) designation and "The term" before " 'Secretary concerned' ", redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively, and realigned margins.
+
+Subsec. (i). Pub. L. 112–239 struck out subsec. (i) which related to first submissions under subsecs. (e) and (f).
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–84, §3114(a)(2)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 111–84, §3114(a)(2)(A), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 111–84, §3114(b), inserted “both” after “review” and “and any independent evaluations conducted by a dual validation team under subsection (c)” after “that laboratory”.
+Subsec. (d)(1). Pub. L. 111–84, §3114(b), inserted "both" after "review" and "and any independent evaluations conducted by a dual validation team under subsection (c)" after "that laboratory".
 
 Subsec. (e). Pub. L. 111–84, §3114(a)(2)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(3)(C). Pub. L. 111–84, §3114(d)(1), substituted “subsection (d)” for “subsection (c)”.
+Subsec. (e)(3)(C). Pub. L. 111–84, §3114(d)(1), substituted "subsection (d)" for "subsection (c)".
 
 Subsec. (e)(3)(D). Pub. L. 111–84, §3114(c), added subpar. (D).
 
 Subsec. (f). Pub. L. 111–84, §3114(a)(2)(A), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(1)(A). Pub. L. 111–84, §3114(d)(2), substituted “subsection (e)” for “subsection (d)”.
+Subsec. (f)(1)(A). Pub. L. 111–84, §3114(d)(2), substituted "subsection (e)" for "subsection (d)".
 
-Subsec. (g). Pub. L. 111–84, §3114(d)(3), substituted “subsection (f)” for “subsection (e)”.
+Subsec. (g). Pub. L. 111–84, §3114(d)(3), substituted "subsection (f)" for "subsection (e)".
 
 Pub. L. 111–84, §3114(a)(2)(A), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
@@ -128,9 +144,9 @@ Subsec. (h). Pub. L. 111–84, §3114(a)(2)(A), redesignated subsec. (g) as (h).
 
 Subsec. (i). Pub. L. 111–84, §3114(a)(2)(A), redesignated subsec. (h) as (i).
 
-Subsec. (i)(1). Pub. L. 111–84, §3114(d)(4)(A), substituted “subsection (e)” for “subsection (d)”.
+Subsec. (i)(1). Pub. L. 111–84, §3114(d)(4)(A), substituted "subsection (e)" for "subsection (d)".
 
-Subsec. (i)(2). Pub. L. 111–84, §3114(d)(4)(B), substituted “subsection (f)” for “subsection (e)”.
+Subsec. (i)(2). Pub. L. 111–84, §3114(d)(4)(B), substituted "subsection (f)" for "subsection (e)".
 
-<b>2003</b>—Subsec. (d)(3)(B). Pub. L. 108–136, §3141(e)(6)(D), substituted “section 2532 of this title” for “section 3137 of the National Defense Authorization Act for Fiscal Year 1996 (42 U.S.C. 2121 note)”.
+<b>2003</b>—Subsec. (d)(3)(B). Pub. L. 108–136, §3141(e)(6)(D), substituted "section 2532 of this title" for "section 3137 of the National Defense Authorization Act for Fiscal Year 1996 (42 U.S.C. 2121 note)".
 

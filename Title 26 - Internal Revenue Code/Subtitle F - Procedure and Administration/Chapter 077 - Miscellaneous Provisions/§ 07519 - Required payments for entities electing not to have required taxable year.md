@@ -10,7 +10,7 @@ This section applies to a partnership or S corporation for any taxable year, if�
 
 #### (b) Required payment
 
-For purposes of this section, the term “required payment” means, with respect to any applicable election year of a partnership or S corporation, an amount equal to—
+For purposes of this section, the term "required payment" means, with respect to any applicable election year of a partnership or S corporation, an amount equal to—
 
 &emsp;(1) the excess of the product of—
 
@@ -20,7 +20,7 @@ For purposes of this section, the term “required payment” means, with respec
 
 &emsp;(2) the net required payment balance.
 
-> For purposes of paragraph (1)(A), the term “adjusted highest section 1 rate” means the highest rate of tax in effect under section 1 as of the end of the base year plus 1 percentage point (or, in the case of applicable election years beginning in 1987, 36 percent).
+> For purposes of paragraph (1)(A), the term "adjusted highest section 1 rate" means the highest rate of tax in effect under section 1 as of the end of the base year plus 1 percentage point (or, in the case of applicable election years beginning in 1987, 36 percent).
 
 #### (c) Refund of payments
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the aggregate amount of such applicable payments made during the deferral period of the base year.
 
-> &emsp;For purposes of this paragraph, the term “deferral ratio” means the ratio which the number of months in the deferral period of the base year bears to the number of months in the partnership's or S corporation's taxable year.
+> &emsp;For purposes of this paragraph, the term "deferral ratio" means the ratio which the number of months in the deferral period of the base year bears to the number of months in the partnership's or S corporation's taxable year.
 
 #### (2) Net income
 
@@ -86,11 +86,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “applicable payment” means amounts paid by a partnership or S corporation which are includible in gross income of a partner or shareholder.
+&emsp;&emsp;The term "applicable payment" means amounts paid by a partnership or S corporation which are includible in gross income of a partner or shareholder.
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “applicable payment” shall not include any—
+&emsp;&emsp;The term "applicable payment" shall not include any—
 
 &emsp;&emsp;&emsp;(i) gain from the sale or exchange of property between the partner or shareholder and the partnership or S corporation, and
 
@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (B) Guaranteed payment
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “guaranteed payment” means any payment referred to in section 707(c).
+&emsp;&emsp;For purposes of subparagraph (A), the term "guaranteed payment" means any payment referred to in section 707(c).
 
 #### (e) Other definitions and special rules
 
@@ -146,17 +146,17 @@ For purposes of this section—
 
 #### (1) Deferral period
 
-&emsp;The term “deferral period” has the meaning given to such term by section 444(b)(4).
+&emsp;The term "deferral period" has the meaning given to such term by section 444(b)(4).
 
 #### (2) Years
 
 #### (A) Base year
 
-&emsp;&emsp;The term “base year” means, with respect to any applicable election year, the taxable year of the partnership or S corporation preceding such applicable election year.
+&emsp;&emsp;The term "base year" means, with respect to any applicable election year, the taxable year of the partnership or S corporation preceding such applicable election year.
 
 #### (B) Applicable election year
 
-&emsp;&emsp;The term “applicable election year” means any taxable year of a partnership or S corporation with respect to which an election is in effect under section 444.
+&emsp;&emsp;The term "applicable election year" means any taxable year of a partnership orS corporation with respect to which an election is in effect under section 444.
 
 #### (3) Requirement of reporting
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 #### (4) Net required payment balance
 
-&emsp;The term “net required payment balance” means the excess (if any) of—
+&emsp;The term "net required payment balance" means the excess (if any) of—
 
 &emsp;&emsp;(A) the aggregate of the required payments under this section for all preceding applicable election years, over
 
@@ -188,7 +188,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any failure by any person to pay on the date prescribed therefor any amount required by this section, there shall be imposed on such person a penalty of 10 percent of the underpayment. For purposes of the preceding sentence, the term “underpayment” means the excess of the amount of the payment required under this section over the amount (if any) of such payment paid on or before the date prescribed therefor. No penalty shall be imposed under this subparagraph on any failure which is shown to be due to reasonable cause and not willful neglect.
+&emsp;&emsp;In the case of any failure by any person to pay on the date prescribed therefor any amount required by this section, there shall be imposed on such person a penalty of 10 percent of the underpayment. For purposes of the preceding sentence, the term "underpayment" means the excess of the amount of the payment required under this section over the amount (if any) of such payment paid on or before the date prescribed therefor. No penalty shall be imposed under this subparagraph on any failure which is shown to be due to reasonable cause and not willful neglect.
 
 #### (B) Negligence and fraud penalties made applicable
 
@@ -214,35 +214,35 @@ Section 806(e)(2)(C) of the Tax Reform Act of 1986, referred to in subsec. (d)(4
 
 #### Amendments
 
-<b>1997</b>—Subsec. (f)(4)(A). Pub. L. 105–34 inserted at end “No penalty shall be imposed under this subparagraph on any failure which is shown to be due to reasonable cause and not willful neglect.”
+<b>1997</b>—Subsec. (f)(4)(A). Pub. L. 105–34 inserted at end "No penalty shall be imposed under this subparagraph on any failure which is shown to be due to reasonable cause and not willful neglect."
 
-<b>1990</b>—Subsec. (c)(3). Pub. L. 101–508 substituted “payable on the later of” for “payable on later of”.
+<b>1990</b>—Subsec. (c)(3). Pub. L. 101–508 substituted "payable on the later of" for "payable on later of".
 
-<b>1989</b>—Subsec. (d)(4). Pub. L. 101–239, §7821(b), struck out “for taxable years beginning after 1987,” before “the applicable percentage” and substituted “unless more than 50 percent” for “if more than 50 percent” and “who would have been entitled” for “who would not have been entitled”.
+<b>1989</b>—Subsec. (d)(4). Pub. L. 101–239, §7821(b), struck out "for taxable years beginning after 1987," before "the applicable percentage" and substituted "unless more than 50 percent" for "if more than 50 percent" and "who would have been entitled" for "who would not have been entitled".
 
-Subsec. (f)(4)(B). Pub. L. 101–239, §7721(c)(12), substituted “part II of subchapter A of chapter 68” for “section 6653”.
+Subsec. (f)(4)(B). Pub. L. 101–239, §7721(c)(12), substituted "part II of subchapter A of chapter 68" for "section 6653".
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647, §2004(e)(4)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of the required payment for the preceding applicable election year.”
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647, §2004(e)(4)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the amount of the required payment for the preceding applicable election year."
 
-Subsec. (c). Pub. L. 100–647, §2004(e)(5), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the amount determined under subsection (b)(2) exceeds the amount determined under subsection (b)(1), then the entity shall be entitled to a refund of such excess.”
+Subsec. (c). Pub. L. 100–647, §2004(e)(5), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "If the amount determined under subsection (b)(2) exceeds the amount determined under subsection (b)(1), then the entity shall be entitled to a refund of such excess."
 
-Subsec. (d)(2)(A). Pub. L. 100–647, §2004(e)(10), substituted “(other than credits and tax-exempt income)” for “(other than credits)”.
+Subsec. (d)(2)(A). Pub. L. 100–647, §2004(e)(10), substituted "(other than credits and tax-exempt income)" for "(other than credits)".
 
-Subsec. (d)(2)(B). Pub. L. 100–647, §2004(e)(7), (10), substituted “(other than credits and tax-exempt income)” for “(other than credits)” and inserted before period at end “(and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3))”.
+Subsec. (d)(2)(B). Pub. L. 100–647, §2004(e)(7), (10), substituted "(other than credits and tax-exempt income)" for "(other than credits)" and inserted before period at end "(and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3))".
 
-Subsec. (d)(3)(A). Pub. L. 100–647, §2004(e)(14)(B), struck out “or incurred” after “amounts paid”.
+Subsec. (d)(3)(A). Pub. L. 100–647, §2004(e)(14)(B), struck out "or incurred" after "amounts paid".
 
-Subsec. (d)(4). Pub. L. 100–647, §2004(e)(9), inserted at end “Notwithstanding the preceding provisions of this paragraph, for taxable years beginning after 1987, the applicable percentage for any partnership or S corporation shall be 100 percent if more than 50 percent of such entity's net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would not have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.”
+Subsec. (d)(4). Pub. L. 100–647, §2004(e)(9), inserted at end "Notwithstanding the preceding provisions of this paragraph, for taxable years beginning after 1987, the applicable percentage for any partnership or S corporation shall be 100 percent if more than 50 percent of such entity's net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would not have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income."
 
 Subsec. (d)(5). Pub. L. 100–647, §2004(e)(8), added par. (5).
 
 Subsec. (e)(4). Pub. L. 100–647, §2004(e)(4)(B), added par. (4).
 
-Subsec. (g). Pub. L. 100–647, §2004(e)(6), substituted “including regulations providing for appropriate adjustments in the application of this section and sections 280H and 444 in cases where—
+Subsec. (g). Pub. L. 100–647, §2004(e)(6), substituted "including regulations providing for appropriate adjustments in the application of this section and sections 280H and 444 in cases where—
 
-&emsp;“(1) 2 or more applicable election years begin in the same calendar year, or
+&emsp;"(1) 2 or more applicable election years begin in the same calendar year, or
 
-&emsp;“(2) the base year is a taxable year of less than 12 months” for “including regulations for annualizing the income and applicable payments of an entity if the base year is a taxable year of less than 12 months”.
+&emsp;"(2) the base year is a taxable year of less than 12 months" for "including regulations for annualizing the income and applicable payments of an entity if the base year is a taxable year of less than 12 months".
 
 #### Effective Date of 1997 Amendment
 

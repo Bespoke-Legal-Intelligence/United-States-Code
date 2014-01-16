@@ -84,7 +84,7 @@ Expiration of effectiveness of order.—If a petition for review of an action is
 
 &emsp;(5)
 
-Out-of-service order defined.—In this subsection, the term “out-of-service order” means a requirement that an aircraft, vessel, motor vehicle, train, railcar, locomotive, other vehicle, transport unit, transport vehicle, freight container, potable tank, or other package not be moved until specified conditions have been met.
+Out-of-service order defined.—In this subsection, the term "out-of-service order" means a requirement that an aircraft, vessel, motor vehicle, train, railcar, locomotive, other vehicle, transport unit, transport vehicle, freight container, potable tank, or other package not be moved until specified conditions have been met.
 
 (e)
 
@@ -192,15 +192,15 @@ Jan. 3, 1975, Pub. L. 93–633, §109(d), 88 Stat. 2159; Oct. 30, 1984, Pub. L. 
 
 Jan. 3, 1975, Pub. L. 93–633, §109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. L. 98–559, §1(b), 98 Stat. 2907.
 
-In subsection (a), the words “to the extent necessary . . . his responsibilities under” and “relevant” are omitted as surplus. The word “documents” is omitted as being included in “records”. The words “directly or indirectly” are omitted as surplus. The word “prescribed” is substituted for “issued” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words "to the extent necessary . . . his responsibilities under" and "relevant" are omitted as surplus. The word "documents" is omitted as being included in "records". The words "directly or indirectly" are omitted as surplus. The word "prescribed" is substituted for "issued" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b), before clause (1), the words “requirements under” are omitted as surplus. In clause (1), the words “establish and” are omitted as surplus. The word “requires” is substituted for “prescribe” for clarity and consistency.
+In subsection (b), before clause (1), the words "requirements under" are omitted as surplus. In clause (1), the words "establish and" are omitted as surplus. The word "requires" is substituted for "prescribe" for clarity and consistency.
 
-In subsection (c)(1), before clause (A), the words “enter upon . . . and examine” and “of persons to the extent such records and properties” are omitted as surplus. In clause (B), the words “or shipment by any person” are omitted as surplus.
+In subsection (c)(1), before clause (A), the words "enter upon . . . and examine" and "of persons to the extent such records and properties" are omitted as surplus. In clause (B), the words "or shipment by any person" are omitted as surplus.
 
-In subsection (d)(1), before clause (A), the words “establish and” are omitted as executed. In clause (B), the words “capable of” are substituted for “so as to be able to” to eliminate unnecessary words. The words “technical and other” and “of communities” are omitted as surplus. The words “and employees” are added for consistency in the revised title and with other titles of the Code. In clause (C), the words “in order” and “to be able to” are omitted as surplus.
+In subsection (d)(1), before clause (A), the words "establish and" are omitted as executed. In clause (B), the words "capable of" are substituted for "so as to be able to" to eliminate unnecessary words. The words "technical and other" and "of communities" are omitted as surplus. The words "and employees" are added for consistency in the revised title and with other titles of the Code. In clause (C), the words "in order" and "to be able to" are omitted as surplus.
 
-In subsection (e), before clause (1), the words “prepare and” and “comprehensive” are omitted as surplus. In clause (1), the word “thorough” is omitted as surplus. In clause (2), the words “in effect” are omitted as surplus. In clause (3), the words “granted or maintained” are omitted as surplus. In clause (6), the words “additional . . . as are deemed necessary or” are omitted as surplus.
+In subsection (e), before clause (1), the words "prepare and" and "comprehensive" are omitted as surplus. In clause (1), the word "thorough" is omitted as surplus. In clause (2), the words "in effect" are omitted as surplus. In clause (3), the words "granted or maintained" are omitted as surplus. In clause (6), the words "additional . . . as are deemed necessary or" are omitted as surplus.
 
 #### References in Text
 
@@ -210,33 +210,33 @@ The date of enactment of the Hazardous Materials Transportation Safety and Secur
 
 <b>2012</b>—Subsec. (c)(1)(G). Pub. L. 112–141, §33009(a), added subpar. (G).
 
-Subsec. (c)(2). Pub. L. 112–141, §32501(c), inserted “, in person or in writing,” after “proper credentials”.
+Subsec. (c)(2). Pub. L. 112–141, §32501(c), inserted ", in person or in writing," after "proper credentials".
 
 Subsec. (e)(3). Pub. L. 112–141, §33009(b)(1), added par. (3).
 
-Subsec. (g)(1). Pub. L. 112–141, §33009(c), inserted “safety and” before “security”.
+Subsec. (g)(1). Pub. L. 112–141, §33009(c), inserted "safety and" before "security".
 
-<b>2008</b>—Subsec. (h)(2). Pub. L. 110–244, §302(e)(1), substituted “special permits” for “exemptions”.
+<b>2008</b>—Subsec. (h)(2). Pub. L. 110–244, §302(e)(1), substituted "special permits" for "exemptions".
 
-Subsec. (h)(3). Pub. L. 110–244, §302(e)(2), substituted “special permit” for “exemption”.
+Subsec. (h)(3). Pub. L. 110–244, §302(e)(2), substituted "special permit" for "exemption".
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59, §7126, substituted “Secretary may investigate” for “Secretary of Transportation may investigate”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §7126, substituted "Secretary may investigate" for "Secretary of Transportation may investigate".
 
-Pub. L. 109–59, §7118(a), inserted “conduct tests,” after “investigate,” and substituted “Except as provided in subsections (c) and (d), after” for “After” and “regulation prescribed, or an order, special permit, or approval issued,” for “regulation prescribed”.
+Pub. L. 109–59, §7118(a), inserted "conduct tests," after "investigate," and substituted "Except as provided in subsections (c) and (d), after" for "After" and "regulation prescribed, or an order, special permit, or approval issued," for "regulation prescribed".
 
-Subsec. (b)(1). Pub. L. 109–59, §7118(b)(1), inserted “and property” after “records”.
+Subsec. (b)(1). Pub. L. 109–59, §7118(b)(1), inserted "and property" after "records".
 
-Subsec. (b)(2). Pub. L. 109–59, §7118(b)(2), inserted “property,” after “records,” and “for inspection” after “available” and substituted “undertakes an investigation or makes a request” for “requests”.
+Subsec. (b)(2). Pub. L. 109–59, §7118(b)(2), inserted "property," after "records," and "for inspection" after "available" and substituted "undertakes an investigation or makes a request" for "requests".
 
 Subsec. (c). Pub. L. 109–59, §7118(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
 
-“(1) The Secretary may authorize an officer, employee, or agent to inspect, at a reasonable time and in a reasonable way, records and property related to—
+"(1) The Secretary may authorize an officer, employee, or agent to inspect, at a reasonable time and in a reasonable way, records and property related to—
 
-&emsp;“(A) manufacturing, fabricating, marking, maintaining, reconditioning, repairing, testing, or distributing a packaging or a container for use by a person in transporting hazardous material in commerce; or
+&emsp;"(A) manufacturing, fabricating, marking, maintaining, reconditioning, repairing, testing, or distributing a packaging or a container for use by a person in transporting hazardous material in commerce; or
 
-&emsp;“(B) the transportation of hazardous material in commerce.
+&emsp;"(B) the transportation of hazardous material in commerce.
 
-“(2) An officer, employee, or agent under this subsection shall display proper credentials when requested.”
+"(2) An officer, employee, or agent under this subsection shall display proper credentials when requested."
 
 Subsecs. (d), (e). Pub. L. 109–59, §7118(d), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (h), respectively.
 
@@ -244,15 +244,15 @@ Subsec. (f). Pub. L. 109–59, §7118(d)(1), redesignated subsec. (d) as (f).
 
 Subsec. (g). Pub. L. 109–59, §7118(e), added subsec. (g).
 
-Subsec. (h). Pub. L. 109–59, §7118(f)(1), substituted “transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate” for “submit to the President for transmittal to the Congress” in introductory provisions.
+Subsec. (h). Pub. L. 109–59, §7118(f)(1), substituted "transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate" for "submit to the President for transmittal to the Congress" in introductory provisions.
 
 Pub. L. 109–59, §7118(d)(1), redesignated subsec. (e) as (h).
 
-Subsec. (h)(4). Pub. L. 109–59, §7118(f)(2), inserted “relating to a function regulated by the Secretary under section 5103(b)(1)” after “activities”.
+Subsec. (h)(4). Pub. L. 109–59, §7118(f)(2), inserted "relating to a function regulated by the Secretary under section 5103(b)(1)" after "activities".
 
-<b>1994</b>—Subsec. (c)(1)(A). Pub. L. 103–311, §117(a)(2), substituted “a packaging or a” for “a package or”.
+<b>1994</b>—Subsec. (c)(1)(A). Pub. L. 103–311, §117(a)(2), substituted "a packaging or a" for "a package or".
 
-Subsec. (e). Pub. L. 103–311, §108, substituted “Report” for “Annual Report” in heading and substituted first sentence for former first sentence which read as follows: “The Secretary shall submit to the President, for submission to Congress, not later than June 15th of each year, a report about the transportation of hazardous material during the prior calendar year.”
+Subsec. (e). Pub. L. 103–311, §108, substituted "Report" for "Annual Report" in heading and substituted first sentence for former first sentence which read as follows: "The Secretary shall submit to the President, for submission to Congress, not later than June 15th of each year, a report about the transportation of hazardous material during the prior calendar year."
 
 #### Effective Date of 2012 Amendment
 
@@ -262,91 +262,91 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 Pub. L. 112–141, div. C, title III, §33005, July 6, 2012, 126 Stat. 833, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary \[of Transportation\] may conduct pilot projects to evaluate the feasibilityand effectiveness of using paperless hazard communications systems. At least 1 of the pilot projects under this section shall take place in a rural area.
 
-“(b)
+"(b)
 
 Requirements.—In conducting pilot projects under this section, the Secretary—
 
-&emsp;“(1) may not waive the requirements under section 5110 of title 49, United States Code; and
+&emsp;"(1) may not waive the requirements under section 5110 of title 49, United States Code; and
 
-&emsp;“(2) shall consult with organizations representing—
+&emsp;"(2) shall consult with organizations representing—
 
-&emsp;&emsp;“(A) fire services personnel;
+&emsp;&emsp;"(A) fire services personnel;
 
-&emsp;&emsp;“(B) law enforcement and other appropriate enforcement personnel;
+&emsp;&emsp;"(B) law enforcement and other appropriate enforcement personnel;
 
-&emsp;&emsp;“(C) other emergency response providers;
+&emsp;&emsp;"(C) other emergency response providers;
 
-&emsp;&emsp;“(D) persons who offer hazardous material for transportation;
+&emsp;&emsp;"(D) persons who offer hazardous material for transportation;
 
-&emsp;&emsp;“(E) persons who transport hazardous material by air, highway, rail, and water; and
+&emsp;&emsp;"(E) persons who transport hazardous material by air, highway, rail, and water; and
 
-&emsp;&emsp;“(F) employees of persons who transport or offer for transportation hazardous material by air, highway, rail, and water.
+&emsp;&emsp;"(F) employees of persons who transport or offer for transportation hazardous material by air, highway, rail, and water.
 
-“(c)
+"(c)
 
 Report.—Not later than 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary shall—
 
-&emsp;“(1) prepare a report on the results of the pilot projects carried out under this section, including—
+&emsp;"(1) prepare a report on the results of the pilot projects carried out under this section, including—
 
-&emsp;&emsp;“(A) a detailed description of the pilot projects;
+&emsp;&emsp;"(A) a detailed description of the pilot projects;
 
-&emsp;&emsp;“(B) an evaluation of each pilot project, including an evaluation of the performance of each paperless hazard communications system in such project;
+&emsp;&emsp;"(B) an evaluation of each pilot project, including an evaluation of the performance of each paperless hazard communications system in such project;
 
-&emsp;&emsp;“(C) an assessment of the safety and security impact of using paperless hazard communications systems, including any impact on the public, emergency response, law enforcement, and the conduct of inspections and investigations;
+&emsp;&emsp;"(C) an assessment of the safety and security impact of using paperless hazard communications systems, including any impact on the public, emergency response, law enforcement, and the conduct of inspections and investigations;
 
-&emsp;&emsp;“(D) an analysis of the associated benefits and costs of using the paperless hazard communications systems for each mode of transportation; and
+&emsp;&emsp;"(D) an analysis of the associated benefits and costs of using the paperless hazard communications systems for each mode of transportation; and
 
-&emsp;&emsp;“(E) a recommendation that incorporates the information gathered in subparagraphs (A), (B), (C), and (D) on whether paperless hazard communications systems should be permanently incorporated into the Federal hazardous material transportation safety program under chapter 51 of title 49, United States Code; and
+&emsp;&emsp;"(E) a recommendation that incorporates the information gathered in subparagraphs (A), (B), (C), and (D) on whether paperless hazard communications systems should be permanently incorporated into the Federal hazardous material transportation safety program under chapter 51 of title 49, United States Code; and
 
-&emsp;“(2) submit a final report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that contains the results of the pilot projects carried out under this section, including the matters described in paragraph (1).
+&emsp;"(2) submit a final report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that contains the results of the pilot projects carried out under this section, including the matters described in paragraph (1).
 
-“(d)
+"(d)
 
-Paperless Hazard Communications System Defined.—In this section, the term ‘paperless hazard communications system’ means the use of advanced communications methods, such as wireless communications devices, to convey hazard information between all parties in the transportation chain, including emergency responders and law enforcement personnel. The format of communication may be equivalent to that used by the carrier.”
+Paperless Hazard Communications System Defined.—In this section, the term 'paperless hazard communications system' means the use of advanced communications methods, such as wireless communications devices, to convey hazard information between all parties in the transportation chain, including emergency responders and law enforcement personnel. The format of communication may be equivalent to that used by the carrier."
 
 #### Hazardous Material Enforcement Training
 
 Pub. L. 112–141, div. C, title III, §33008, July 6, 2012, 126 Stat. 836, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 18 months after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall develop uniform performance standards for training hazardous material inspectors and investigators on—
 
-&emsp;“(1) how to collect, analyze, and publish findings from inspections and investigations of accidents or incidents involving the transportation of hazardous material; and
+&emsp;"(1) how to collect, analyze, and publish findings from inspections and investigations of accidents or incidents involving the transportation of hazardous material; and
 
-&emsp;“(2) how to identify noncompliance with regulations issued under chapter 51 of title 49, United States Code, and take appropriate enforcement action.
+&emsp;"(2) how to identify noncompliance with regulations issued under chapter 51 of title 49, United States Code, and take appropriate enforcement action.
 
-“(b)
+"(b)
 
 Standards and Guidelines.—The Secretary may develop—
 
-&emsp;“(1) guidelines for hazardous material inspector and investigator qualifications;
+&emsp;"(1) guidelines for hazardous material inspector and investigator qualifications;
 
-&emsp;“(2) best practices and standards for hazardous material inspector and investigator training programs; and
+&emsp;"(2) best practices and standards for hazardous material inspector and investigator training programs; and
 
-&emsp;“(3) standard protocols to coordinate investigation efforts among Federal, State, and local jurisdictions on accidents or incidents involving the transportation of hazardous material.
+&emsp;"(3) standard protocols to coordinate investigation efforts among Federal, State, and local jurisdictions on accidents or incidents involving the transportation of hazardous material.
 
-“(c)
+"(c)
 
 Availability.—The standards, protocols, and guidelines established under this section—
 
-&emsp;“(1) shall be mandatory for—
+&emsp;"(1) shall be mandatory for—
 
-&emsp;&emsp;“(A) the Department of Transportation's multimodal personnel conducting hazardous material enforcement inspections or investigations; and
+&emsp;&emsp;"(A) the Department of Transportation's multimodal personnel conducting hazardous material enforcement inspections or investigations; and
 
-&emsp;&emsp;“(B) State employees who conduct federally funded compliance reviews, inspections, or investigations; and
+&emsp;&emsp;"(B) State employees who conduct federally funded compliance reviews, inspections, or investigations; and
 
-&emsp;“(2) shall be made available to Federal, State, and local hazardous material safety enforcement personnel.”
+&emsp;"(2) shall be made available to Federal, State, and local hazardous material safety enforcement personnel."
 
 #### Finalizing Regulations
 
-Pub. L. 112–141, div. C, title III, §33009(b)(2), July 6, 2012, 126 Stat. 837, provided that: “In accordance with section 5103(b)(2) of title 49, United States Code, not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall take all actions necessary to finalize a regulation under paragraph (1) of this subsection \[amending this section\].”
+Pub. L. 112–141, div. C, title III, §33009(b)(2), July 6, 2012, 126 Stat. 837, provided that: "In accordance with section 5103(b)(2) of title 49, United States Code, not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall take all actions necessary to finalize a regulation under paragraph (1) of this subsection \[amending this section\]."
 
 #### Toll Free Number for Reporting
 
-Pub. L. 103–311, title I, §116, Aug. 26, 1994, 108 Stat. 1678, provided that: “The Secretary of Transportation shall designate a toll free telephone number for transporters of hazardous materials and other individuals to report to the Secretary possible violations of chapter 51 of title 49, United States Code, or any order or regulation issued under that chapter.”
+Pub. L. 103–311, title I, §116, Aug. 26, 1994, 108 Stat. 1678, provided that: "The Secretary of Transportation shall designate a toll free telephone number for transporters of hazardous materials and other individuals to report to the Secretary possible violations of chapter 51 of title 49, United States Code, or any order or regulation issued under that chapter."
 

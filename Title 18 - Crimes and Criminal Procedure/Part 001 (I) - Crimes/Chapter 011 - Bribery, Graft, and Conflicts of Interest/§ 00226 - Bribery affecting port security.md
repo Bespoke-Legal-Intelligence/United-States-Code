@@ -20,7 +20,7 @@ In General.—Whoever knowingly—
 
 (b)
 
-Definition.—In this section, the term “secure or restricted area” means an area of a vessel or facility designated as secure in an approved security plan, as required under section 70103 of title 46, United States Code, and the rules and regulations promulgated under that section.
+Definition.—In this section, the term "secure or restricted area" means an area of a vessel or facility designated as secure in an approved security plan, as required under section 70103 of title 46, United States Code, and the rules and regulations promulgated under that section.
 
 (Added Pub. L. 109–177, title III, §309(a), Mar. 9, 2006, 120 Stat. 241.)
 

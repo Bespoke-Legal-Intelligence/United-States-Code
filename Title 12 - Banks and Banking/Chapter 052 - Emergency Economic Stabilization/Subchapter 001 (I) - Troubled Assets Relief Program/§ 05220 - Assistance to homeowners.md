@@ -4,7 +4,7 @@
 
 As used in this section—
 
-&emsp;(1) the term “Federal property manager” means—
+&emsp;(1) the term "Federal property manager" means—
 
 &emsp;&emsp;(A) the Federal Housing Finance Agency, in its capacity as conservator of the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation;
 
@@ -12,11 +12,11 @@ As used in this section—
 
 &emsp;&emsp;(C) the Board, with respect to any mortgage or mortgage-backed securities or poolof securities held, owned, or controlled by or on behalf of a Federal reserve bank, other than mortgages or securities held, owned, or controlled in connection with open market operations under sections 348a and 353 to 359 of this title,<sup>1</sup> or as collateral for an advance or discount that is not in default;
 
-&emsp;(2) the term “consumer” has the same meaning as in section 1602 of title 15;
+&emsp;(2) the term "consumer" has the same meaning as in section 1602 of title 15;
 
-&emsp;(3) the term “insured depository institution” has the same meaning as in section 1813 of this title; and
+&emsp;(3) the term "insured depository institution" has the same meaning as in section 1813 of this title; and
 
-&emsp;(4) the term “servicer” has the same meaning as in section 2605(i)(2) of this title.
+&emsp;(4) the term "servicer" has the same meaning as in section 2605(i)(2) of this title.
 
 #### (b) Homeowner assistance by agencies
 
@@ -70,43 +70,43 @@ The requirements of this section shall not supersede any other duty or requireme
 
 #### References in Text
 
-Sections 348a and 353 to 359 of this title, referred to in subsec. (a)(1)(C), was in the original a reference to “section 14 of the Federal Reserve Act (12 U.S.C. 353)”. For classification of section 14 to the Code, see Codification note set out under section 353 of this title.
+Sections 348a and 353 to 359 of this title, referred to in subsec. (a)(1)(C), was in the original a reference to "section 14 of the Federal Reserve Act (12 U.S.C. 353)". For classification of section 14 to the Code, see Codification note set out under section 353 of this title.
 
 #### Effect of Foreclosure on Preexisting Tenancy
 
 Pub. L. 111–22, div. A, title VII, §702, May 20, 2009, 123 Stat. 1660, as amended by Pub. L. 111–203, title XIV, §1484(1), July 21, 2010, 124 Stat. 2204, provided that:
 
-“(a)
+"(a)
 
 In General.—In the case of any foreclosure on a federally-related mortgage loan or on any dwelling or residential real property after the date of enactment of this title \[May 20, 2009\], any immediate successor in interest in such property pursuant to the foreclosure shall assume such interest subject to—
 
-&emsp;“(1) the provision, by such successor in interest of a notice to vacate to any bona fide tenant at least 90 days before the effective date of such notice; and
+&emsp;"(1) the provision, by such successor in interest of a notice to vacate to any bona fide tenant at least 90 days before the effective date of such notice; and
 
-&emsp;“(2) the rights of any bona fide tenant—
+&emsp;"(2) the rights of any bona fide tenant—
 
-&emsp;&emsp;“(A) under any bona fide lease entered into before the notice of foreclosure to occupy the premises until the end of the remaining term of the lease, except that a successor in interest may terminate a lease effective on the date of sale of the unit to a purchaser who will occupy the unit as a primary residence, subject to the receipt by the tenant of the 90 day notice under paragraph (1); or
+&emsp;&emsp;"(A) under any bona fide lease entered into before the notice of foreclosure to occupy the premises until the end of the remaining term of the lease, except that a successor in interest may terminate a lease effective on the date of sale of the unit to a purchaser who will occupy the unit as a primary residence, subject to the receipt by the tenant of the 90 day notice under paragraph (1); or
 
-&emsp;&emsp;“(B) without a lease or with a lease terminable at will under State law, subject to the receipt by the tenant of the 90 day notice under subsection (1),
+&emsp;&emsp;"(B) without a lease or with a lease terminable at will under State law, subject to the receipt by the tenant of the 90 day notice under subsection (1),
 
 > &emsp;except that nothing under this section shall affect the requirements for termination of any Federal- or State-subsidized tenancy or of any State or local law that provides longer time periods or other additional protections for tenants.
 
-“(b)
+"(b)
 
 Bona Fide Lease or Tenancy.—For purposes of this section, a lease or tenancy shall be considered bona fide only if—
 
-&emsp;“(1) the mortgagor or the child, spouse, or parent of the mortgagor under the contract is not the tenant;
+&emsp;"(1) the mortgagor or the child, spouse, or parent of the mortgagor under the contract is not the tenant;
 
-&emsp;“(2) the lease or tenancy was the result of an arms-length transaction; and
+&emsp;"(2) the lease or tenancy was the result of an arms-length transaction; and
 
-&emsp;“(3) the lease or tenancy requires the receipt of rent that is not substantially less than fair market rent for the property or the unit's rent is reduced or subsidized due to a Federal, State, or local subsidy.
+&emsp;"(3) the lease or tenancy requires the receipt of rent that is not substantially less than fair market rent for the property or the unit's rent is reduced or subsidized due to a Federal, State, or local subsidy.
 
-“(c)
+"(c)
 
-Definition.—For purposes of this section, the term ‘federally-related mortgage loan’ has the same meaning as in section 3 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2602). For purposes of this section, the date of a notice of foreclosure shall bedeemed to be the date on which complete title to a property is transferred to a successor entity or person as a result of an order of a court or pursuant to provisions in a mortgage, deed of trust, or security deed.”
+Definition.—For purposes of this section, the term 'federally-related mortgage loan' has the same meaning as in section 3 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2602). For purposes of this section, the date of a notice of foreclosure shall bedeemed to be the date on which complete title to a property is transferred to a successor entity or person as a result of an order of a court or pursuant to provisions in a mortgage, deed of trust, or security deed."
 
 \[Section 702 of Pub. L. 111–22, set out above, repealed Dec. 31, 2014, see section 704 of Pub. L. 111–22, set out as a Termination Date of 2009 Amendment note under section 1437f of Title 42, The Public Health and Welfare.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “mortgage-backed”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "mortgage-backed".</i>
 

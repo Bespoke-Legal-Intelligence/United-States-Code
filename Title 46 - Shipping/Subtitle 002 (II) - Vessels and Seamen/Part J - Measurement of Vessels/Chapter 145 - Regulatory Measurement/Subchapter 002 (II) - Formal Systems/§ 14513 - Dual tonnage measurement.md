@@ -24,7 +24,7 @@ Section 2 of the Act of September 29, 1965, referred to in subsec. (a), was clas
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(1). Pub. L. 111–281, §303(h)(1), substituted “vessel is assigned two sets of gross and net tonnages under this section,” for “vessel's tonnage mark is below the uppermost part of the load line marks,” and inserted “vessel's tonnage” before “mark is submerged”.
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–281, §303(h)(1), substituted "vessel is assigned two sets of gross and net tonnages under this section," for "vessel's tonnage mark is below the uppermost part of the load line marks," and inserted "vessel's tonnage" before "mark is submerged".
 
-Subsec. (c)(2). Pub. L. 111–281, §303(h)(2), substituted “as assigned under this section.” for period at end.
+Subsec. (c)(2). Pub. L. 111–281, §303(h)(2), substituted "as assigned under this section." for period at end.
 

@@ -14,7 +14,7 @@
 
 > shall be recognized with the same effect as having been filed under this section.
 
-(e) Interests with respect to which documents are filed or recognized under this section are deemed perfected in all jurisdictions, and shallbe governed by applicable State or foreign law in all matters not specifically governed by this section.
+(e) Interests with respect to which documents are filed or recognized under this section are deemed perfected in all jurisdictions, and shall be governed by applicable State or foreign law in all matters not specifically governed by this section.
 
 (f) The Board shall collect, maintain, and keep open for public inspection a railway equipment register consistent with the manner and format maintained by the Interstate Commerce Commission as of January 1, 1996.
 
@@ -36,7 +36,7 @@ Section 11304, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1431; Pub. L. 96–258,
 
 #### Amendments
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of the ICC Termination Act of 1995".
 
 #### Effective Date
 

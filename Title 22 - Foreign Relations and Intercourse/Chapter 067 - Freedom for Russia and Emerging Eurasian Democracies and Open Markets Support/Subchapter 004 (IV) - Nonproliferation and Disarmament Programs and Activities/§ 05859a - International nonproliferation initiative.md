@@ -20,7 +20,7 @@ Activities for which assistance may be provided under this section are activitie
 
 (1) Assistance under this section may include funds and in-kind contributions of supplies, equipment, personnel, training, and other forms of assistance.
 
-(2) Assistance under this section may be provided to international organizations in the form of funds only if the amount in the “Contributions to International Organizations” account of the Department of State is insufficient or otherwise unavailable to meet the United States fair share of assessments for international nuclear nonproliferation activities.
+(2) Assistance under this section may be provided to international organizations in the form of funds only if the amount in the "Contributions to International Organizations" account of the Department of State is insufficient or otherwise unavailable to meet the United States fair share of assessments for international nuclear nonproliferation activities.
 
 (3) No amount may be obligated for an expenditure under this section unless the Director of the Office of Management and Budget determines that the expenditure will be counted as discretionary spending in the national defense budget function (function 050).
 
@@ -40,7 +40,7 @@ Activities for which assistance may be provided under this section are activitie
 
 (3) The total amount of the assistance provided in the form of funds under this section, including funds used for activities of the Department of Defense in support of the United Nations Special Commission on Iraq, may not exceed $25,000,000 for fiscal year 1994, $20,000,000 for fiscal year 1995, $15,000,000 for fiscal year 1996, $15,000,000 for fiscal year 1997, or $15,000,000 for fiscal year 1998.
 
-(4)(A) In the event of a significant unforeseen development related to the activities of the United Nations Special Commission on Iraq (or any successor organization) for which the Secretary of Defense determines that financial assistance under this section is required at a level which would result in the total amount of assistance provided under this section during the then-current fiscal year exceeding the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation. Funds for such purpose may be derived from any funds available to the Department of Defense for that fiscal year.
+(4)(A) In the event of a significant unforeseen development related to the activities of the United Nations Special Commission on Iraq (orany successor organization) for which the Secretary of Defense determines that financial assistance under this section is required at a level which would result in the total amount of assistance provided under this section during the then-current fiscal year exceeding the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation. Funds for such purpose may be derived from any funds available to the Department of Defense for that fiscal year.
 
 (B) Financial assistance may be provided under subparagraph (A) only after the Secretary of Defense provides notice in writing to the committees of Congress named in subsection (e)(2) of this section of the significant unforeseen development and of the Secretary's intent to provide assistance in excess of the limitation for that fiscal year. However, if the Secretary determines in any case that under the specific circumstances of that case advance notice is not possible, such notice shall be provided as soon as possible and not later than 15 days after the date on which the assistance is provided. Any notice under this subparagraph shall include a description of the development, the amount of assistance provided or to be provided, and the source of the funds for that assistance.
 
@@ -72,79 +72,79 @@ Section was enacted as part of the Weapons of Mass Destruction Control Act of 19
 
 #### Amendments
 
-<b>2002</b>—Subsec. (f). Pub. L. 107–314 substituted “2003” for “2002”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–314 substituted "2003" for "2002".
 
-<b>2001</b>—Subsec. (f). Pub. L. 107–107 substituted “2002” for “2001”.
+<b>2001</b>—Subsec. (f). Pub. L. 107–107 substituted "2002" for "2001".
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–398 substituted “2001” for “2000”.
+<b>2000</b>—Subsec. (f). Pub. L. 106–398 substituted "2001" for "2000".
 
-<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65, §1505(c)(1), inserted “(or any successor organization)” after “United Nations Special Commission on Iraq”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65, §1505(c)(1), inserted "(or any successor organization)" after "United Nations Special Commission on Iraq".
 
-Subsec. (d)(4)(A). Pub. L. 106–65, §1505(c)(2)(A), in first sentence, inserted “(or any successor organization)” after “United Nations Special Commission on Iraq” and substituted “the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation.” for “the amount specified with respect to that year under paragraph (3), the Secretary of Defense may provide such assistance notwithstanding the limitation with respect to that fiscal year under paragraph (3).”
+Subsec. (d)(4)(A). Pub. L. 106–65, §1505(c)(2)(A), in first sentence, inserted "(or any successor organization)" after "United Nations Special Commission on Iraq" and substituted "the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation." for "the amount specified with respect to that year under paragraph (3), the Secretary of Defense may provide such assistance notwithstanding the limitation with respect to that fiscal year under paragraph (3)."
 
-Subsec. (d)(4)(B). Pub. L. 106–65, §1505(c)(2)(B), struck out “under paragraph (3)” after “for that fiscal year”.
+Subsec. (d)(4)(B). Pub. L. 106–65, §1505(c)(2)(B), struck out "under paragraph (3)" after "for that fiscal year".
 
-Subsec. (e)(2)(B). Pub. L. 106–65, §1067(8), substituted “Committee on Armed Services” for “Committee on National Security”.
+Subsec. (e)(2)(B). Pub. L. 106–65, §1067(8), substituted "Committee on Armed Services" for "Committee on National Security".
 
-Subsec. (f). Pub. L. 106–65, §1505(b), substituted “2000” for “1999”.
+Subsec. (f). Pub. L. 106–65, §1505(b), substituted "2000" for "1999".
 
-<b>1998</b>—Subsec. (f). Pub. L. 105–261 substituted “1999” for “1998”.
+<b>1998</b>—Subsec. (f). Pub. L. 105–261 substituted "1999" for "1998".
 
-<b>1997</b>—Subsec. (d)(3). Pub. L. 105–85, §1308(1), struck out “or” after “fiscal year 1996,” and inserted “, or $15,000,000 for fiscal year 1998” before period at end.
+<b>1997</b>—Subsec. (d)(3). Pub. L. 105–85, §1308(1), struck out "or" after "fiscal year 1996," and inserted ", or $15,000,000 for fiscal year 1998" before period at end.
 
-Subsec. (f). Pub. L. 105–85, §1308(2), substituted “1998” for “1997”.
+Subsec. (f). Pub. L. 105–85, §1308(2), substituted "1998" for "1997".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106, §1403(a)(1), struck out “during fiscal years 1994 and 1995” before “the Secretary of Defense”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §1403(a)(1), struck out "during fiscal years 1994 and 1995" before "the Secretary of Defense".
 
-Subsec. (b)(2). Pub. L. 104–106, §1403(b)(1), substituted “the Department of Defense” for “the On-Site Inspection Agency”.
+Subsec. (b)(2). Pub. L. 104–106, §1403(b)(1), substituted "the Department of Defense" for "the On-Site Inspection Agency".
 
-Subsec. (c)(3). Pub. L. 104–106, §1403(b)(2), substituted “will be counted as discretionary spending in the national defense budget function (function 050).” for “will be counted against the defense category of the discretionary spending limits for fiscal year 1993 (as defined in section 665(a)(2) of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985.”
+Subsec. (c)(3). Pub. L. 104–106, §1403(b)(2), substituted "will be counted as discretionary spending in the national defense budget function (function 050)." for "will be counted against the defense category of the discretionary spending limits for fiscal year 1993 (as defined in section 665(a)(2) of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985."
 
-Subsec. (d)(1). Pub. L. 104–106, §1403(c)(1)(A), (B), substituted “for any fiscal year shall be derived from amounts made available to the Department of Defense for that fiscal year.” for “for fiscal year 1994 shall be derived from amounts made available to the Department of Defense for fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995.” and struck out “referred to in this paragraph” after “for a fiscal year”.
+Subsec. (d)(1). Pub. L. 104–106, §1403(c)(1)(A), (B), substituted "for any fiscal year shall be derived fromamounts made available to the Department of Defense for that fiscal year." for "for fiscal year 1994 shall be derived from amounts made available to the Department of Defense for fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995." and struck out "referred to in this paragraph" after "for a fiscal year".
 
-Subsec. (d)(3). Pub. L. 104–201, §1301(a)(1), struck out “or” after “fiscal year 1995,” and inserted “, or $15,000,000 for fiscal year 1997” before period at end.
+Subsec. (d)(3). Pub. L. 104–201, §1301(a)(1), struck out "or" after "fiscal year 1995," and inserted ", or $15,000,000 for fiscal year 1997" before period at end.
 
-Pub. L. 104–106, §1403(b)(1), (c)(2), struck out “may not exceed $$25,000,000 for fiscal year 1994 or $20,000,000 for fiscal year 1995” after “under this section”, substituted “the Department of Defense” for “the On-Site Inspection Agency”, and inserted before period at end “, may not exceed $25,000,000 for fiscal year 1994, $20,000,000 for fiscal year 1995, or $15,000,000 for fiscal year 1996”.
+Pub. L. 104–106, §1403(b)(1), (c)(2), struck out "may not exceed $$25,000,000 for fiscal year 1994 or $20,000,000 for fiscal year 1995" after "under this section", substituted "the Department of Defense" for "the On-Site Inspection Agency", and inserted before period at end ", may not exceed $25,000,000 for fiscal year 1994, $20,000,000 for fiscal year 1995, or $15,000,000 for fiscal year 1996".
 
 Subsec. (d)(4). Pub. L. 104–201, §1301(b), added par. (4).
 
-Subsec. (e)(1). Pub. L. 104–106, §1403(a)(2), substituted “a fiscal year during which the authority of the Secretary of Defense to provide assistance under this section is in effect” for “fiscal years 1994 and 1995”.
+Subsec. (e)(1). Pub. L. 104–106, §1403(a)(2), substituted "a fiscal year during which the authority of the Secretary of Defense to provide assistance under this section is in effect" for "fiscal years 1994 and 1995".
 
-Subsec. (e)(2)(B). Pub. L. 104–106, §1502(c)(2)(B), substituted “the Committee on National Security, the Committee on Appropriations, the Committee on International Relations, and the Committee on Commerce” for “the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Energy and Commerce”.
+Subsec. (e)(2)(B). Pub. L. 104–106, §1502(c)(2)(B), substituted "the Committee on National Security, the Committee on Appropriations, the Committee on International Relations, and the Committee on Commerce" for "the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Energy and Commerce".
 
-Subsec. (f). Pub. L. 104–201, §1301(a)(2), substituted “1997” for “1996”.
+Subsec. (f). Pub. L. 104–201, §1301(a)(2), substituted "1997" for "1996".
 
 Pub. L. 104–106, §1403(a)(3), added subsec. (f).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337, §1501(a)(1), substituted “fiscal years 1994 and 1995” for “fiscal year 1994”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §1501(a)(1), substituted "fiscal years 1994 and 1995" for "fiscal year 1994".
 
-Subsec. (b)(1). Pub. L. 103–337, §1501(b)(1), substituted “international organizations” for “the International Atomic Energy Agency (IAEA)”, struck out “nuclear” after “safeguards against”, and substituted “effective verification” for “aggressive verification” and “international agreements on nonproliferation” for “the Treaty on the Non-Proliferation of Nuclear Weapons, done on July 1, 1968”.
+Subsec. (b)(1). Pub. L. 103–337, §1501(b)(1), substituted "international organizations" for "the International Atomic Energy Agency (IAEA)", struck out "nuclear" after "safeguards against", and substituted "effective verification" for "aggressive verification" and "international agreements on nonproliferation" for "the Treaty on the Non-Proliferation of Nuclear Weapons, done on July 1, 1968".
 
-Subsec. (b)(4). Pub. L. 103–337, §1501(b)(2), substituted “nuclear, biological, chemical, and missile proliferation through technical projects and improved information sharing” for “nuclear proliferation through joint technical projects and improved intelligence sharing”.
+Subsec. (b)(4). Pub. L. 103–337, §1501(b)(2), substituted "nuclear, biological, chemical, and missile proliferation through technical projects and improved information sharing" for "nuclear proliferation through joint technical projects and improved intelligence sharing".
 
-Subsec. (d)(1). Pub. L. 103–337, §1501(c)(1), inserted “for fiscal year 1994” after “under this section” and substituted “fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995. Funds provided as assistance under this section for a fiscal year referred to in this paragraph may also be derived” for “fiscal year 1994 or”.
+Subsec. (d)(1). Pub. L. 103–337, §1501(c)(1), inserted "for fiscal year 1994" after "under this section" and substituted "fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995. Funds provided as assistance under this section for a fiscal year referred to in this paragraph may also be derived" for "fiscal year 1994 or".
 
-Subsec. (d)(3). Pub. L. 103–337, §1501(c)(2), inserted “for fiscal year 1994 or $20,000,000 for fiscal year 1995”.
+Subsec. (d)(3). Pub. L. 103–337, §1501(c)(2), inserted "for fiscal year 1994 or $20,000,000 for fiscal year 1995".
 
-Subsec. (e)(1). Pub. L. 103–337, §1501(a), substituted “fiscal years 1994 and 1995” for “fiscal year 1994”.
+Subsec. (e)(1). Pub. L. 103–337, §1501(a), substituted "fiscal years 1994 and 1995" for "fiscal year 1994".
 
-Subsec. (e)(2). Pub. L. 103–337, §1070(c)(1), which directed amendment of subsec. (e)(2) by striking out “and under subsection (d)(4) of this section” effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993 (Pub. L. 102–484), as enacted, was executed to subsec. (e)(2) as amended by Pub. L. 103–160, §1182(c)(5), to reflect the probable intent of Congress. See 1993 Amendment note below.
+Subsec. (e)(2). Pub. L. 103–337, §1070(c)(1), which directed amendment of subsec. (e)(2) by striking out "and under subsection (d)(4) of this section" effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993 (Pub. L. 102–484), as enacted, was executed to subsec. (e)(2) as amended by Pub. L. 103–160, §1182(c)(5), to reflect the probable intent of Congress. See 1993 Amendment note below.
 
-<b>1993</b>—Subsecs. (a), (d)(1). Pub. L. 103–160, §1602(a), substituted “fiscal year 1994” for “fiscal year 1993”.
+<b>1993</b>—Subsecs. (a), (d)(1). Pub. L. 103–160, §1602(a), substituted "fiscal year 1994" for "fiscal year 1993".
 
-Subsec. (d)(3). Pub. L. 103–160, §1602(b)(2), struck out at end “Of such amount, not more than $20,000,000 may be used for the activities of the On-Site Inspection Agency in support of the United Nations Special Commission on Iraq.”
+Subsec. (d)(3). Pub. L. 103–160, §1602(b)(2), struck out at end "Of such amount, not more than $20,000,000 may be used for the activities of the On-Site Inspection Agency in support of the United Nations Special Commission on Iraq."
 
-Pub. L. 103–160, §1602(b)(1), substituted “$25,000,000, including funds used for activities of the On-Site Inspection Agency in support of the United Nations Special Commission on Iraq” for “40,000,000”.
+Pub. L. 103–160, §1602(b)(1), substituted "$25,000,000, including funds used for activities of the On-Site Inspection Agency in support of the United Nations Special Commission on Iraq" for "40,000,000".
 
-Subsec. (d)(4). Pub. L. 103–160, §1602(c), struck out par. (4) which read as follows: “Not less than 30 days before obligating any funds to provide assistance under this section, the Secretary of Defense shall transmit to the committees of Congress named in subsection (e)(2) of this section a report on the proposed obligation. Each such report shall specify—
+Subsec. (d)(4). Pub. L. 103–160, §1602(c), struck out par. (4) which read as follows: "Not less than 30 days before obligating any funds to provide assistance under this section, the Secretary of Defense shall transmit to the committees of Congress named in subsection (e)(2) of this section a report on the proposed obligation. Each such report shall specify—
 
-&emsp;“(A) the account, budget activity, and particular program or programs from which the funds proposed to be obligated are to be derived and the amount of the proposed obligation; and
+&emsp;"(A) the account, budget activity, and particular program or programs from which the funds proposed to be obligated are to be derived and the amount of the proposed obligation; and
 
-&emsp;“(B) the activities and forms of assistance for which the Secretary of Defense plans to obligate the funds.”
+&emsp;"(B) the activities and forms of assistance for which the Secretary of Defense plans to obligate the funds."
 
-Subsec. (e)(1). Pub. L. 103–160, §1602(a), substituted “fiscal year 1994” for “fiscal year 1993”.
+Subsec. (e)(1). Pub. L. 103–160, §1602(a), substituted "fiscal year 1994" for "fiscal year 1993".
 
-Subsec. (e)(2). Pub. L. 103–160, §1182(c)(5), substituted “(d)(4)” for “(d)(2)” in introductory provisions.
+Subsec. (e)(2). Pub. L. 103–160, §1182(c)(5), substituted "(d)(4)" for "(d)(2)" in introductory provisions.
 
 #### Change of Name
 

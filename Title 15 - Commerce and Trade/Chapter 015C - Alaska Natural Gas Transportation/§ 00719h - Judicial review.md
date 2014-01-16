@@ -40,13 +40,13 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–324, §107(d)(1), inserted heading.
 
-Subsec. (c)(1). Pub. L. 108–324, §107(d)(1), (2), designated first sentence as subpar. (A) and inserted par. and subpar. headings and designated last sentence as subpar. (B), inserted subpar. heading, and substituted “The Special Court shall have” for “Such court shall have”.
+Subsec. (c)(1). Pub. L. 108–324, §107(d)(1), (2), designated first sentence as subpar. (A) and inserted par. and subpar. headings and designated last sentence as subpar. (B), inserted subpar. heading, and substituted "The Special Court shall have" for "Such court shall have".
 
 Subsec. (c)(2). Pub. L. 108–324, §107(d)(3), added par. (2).
 
 Subsec. (c)(3). Pub. L. 108–324, §107(d)(4), inserted heading.
 
-<b>1984</b>—Subsec. (c)(2). Pub. L. 98–620 struck out par. (2) which required that any such proceeding had to be assigned for hearing and completed at the earliest possible date, would, to the greatest extent practicable, take precedence over all other matters pending on the docket of the court at that time, and had to be expedited in every way by such court and such court had to render its decision relative to any claim within 90 days from the date such claim was brought unless such court determined that a longer period of time was required to satisfy requirements of the United States Constitution.
+<b>1984</b>—Subsec. (c)(2). Pub. L. 98–620 struck out par. (2) which required that any such proceeding had to be assigned for hearing and completed at the earliest possible date, would, to the greatest extent practicable, take precedence over all other matters pending on the docket of the court at that time, and had to be expedited in every way by such court and such court had torender its decision relative to any claim within 90 days from the date such claim was brought unless such court determined that a longer period of time was required to satisfy requirements of the United States Constitution.
 
 #### Effective Date of 1984 Amendment
 

@@ -16,7 +16,7 @@ A prior section 13 was renumbered section 12 of this title.
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–113 renumbered section 14 of this title as this section and amended section catchline and text generally. Prior to amendment, text read as follows: “The Commissioner shall report to Congress annually the moneys received and expended, statistics concerning the work of the Office, and other information relating to the Office as may be useful to the Congress or the public.”
+<b>1999</b>—Pub. L. 106–113 renumbered section 14 of this title as this section and amended section catchline and text generally. Prior to amendment, text read as follows: "The Commissioner shall report to Congress annually the moneys received and expended, statistics concerning the work of the Office, and other information relating to the Office as may be useful to the Congress or the public."
 
 #### Effective Date of 1999 Amendment
 
@@ -24,17 +24,17 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Report to Congress
 
-Pub. L. 100–703, title I, §103(c), Nov. 19, 1988, 102 Stat. 4674, provided that: “The Secretary of Commerce shall, on the day on which the President submits the annual budget to the Congress, provide to the Committees on the Judiciary of the Senate and the House of Representatives—
+Pub. L. 100–703, title I, §103(c), Nov. 19, 1988, 102 Stat. 4674, provided that: "The Secretary of Commerce shall, on the day on which the President submits the annual budget to the Congress, provide to the Committees on the Judiciary of the Senate and the House of Representatives—
 
-&emsp;“(1) a list of patent and trademark fee collections by the Patent and Trademark Office during the preceding fiscal year;
+&emsp;"(1) a list of patent and trademark fee collections by the Patent and Trademark Office during the preceding fiscal year;
 
-&emsp;“(2) a list of activities of the Patent and Trademark Office during the preceding fiscal year which were supported by patent fee expenditures, trademark fee expenditures, and appropriations;
+&emsp;"(2) a list of activities of the Patent and Trademark Office during the preceding fiscal year which were supported by patent fee expenditures, trademark fee expenditures, and appropriations;
 
-&emsp;“(3) budget plans for significant programs, projects, and activities of the Office, including out-year funding estimates;
+&emsp;"(3) budget plans for significant programs, projects, and activities of the Office, including out-year funding estimates;
 
-&emsp;“(4) any proposed disposition of surplus fees by the Office; and
+&emsp;"(4) any proposed disposition of surplus fees by the Office; and
 
-&emsp;“(5) such other information as the committees consider necessary.”
+&emsp;"(5) such other information as the committees consider necessary."
 
 Similar provisions were contained in the following prior authorization act:
 

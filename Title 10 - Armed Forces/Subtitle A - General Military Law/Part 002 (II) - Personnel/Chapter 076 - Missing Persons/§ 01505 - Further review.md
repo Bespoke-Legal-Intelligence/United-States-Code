@@ -26,17 +26,17 @@ Conduct of Proceedings.—If it is determined that such a board should be appoin
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–201 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
-“(1) In the case of a missing person who was last known to be alive or who was last suspected of being alive, the Secretary shall appoint a board to conduct an inquiry with respect to a person under this subsection—
+"(1) In the case of a missing person who was last known to be alive or who was last suspected of being alive, the Secretary shall appoint a board to conduct an inquiry with respect to a person under this subsection—
 
-&emsp;“(A) on or about three years after the date of the initial report of the disappearance of the person under section 1502(a) of this title; and
+&emsp;"(A) on or about three years after the date of the initial report of the disappearance of the person under section 1502(a) of this title; and
 
-&emsp;“(B) not later than every three years thereafter.
+&emsp;"(B) not later than every three years thereafter.
 
-“(2) In addition to appointment of boards under paragraph (1), the Secretary shall appoint a board to conduct an inquiry with respect to a missing person under this subsection upon receipt of information that could result in a change of status of the missing person. When the Secretary appoints a board under this paragraph, the time for subsequent appointments of a board under paragraph (1)(B) shall be determined from the date of the receipt of such information.
+"(2) In addition to appointment of boards under paragraph (1), the Secretary shall appoint a board to conduct an inquiry with respect to a missing person under this subsection upon receipt of information that could result in a change of status of the missing person. When the Secretary appoints a board under this paragraph, the time for subsequent appointments of a board under paragraph (1)(B) shall be determined from the date of the receipt of such information.
 
-“(3) The Secretary is not required to appoint a board under paragraph (1) with respect to the disappearance of any person—
+"(3) The Secretary is not required to appoint a board under paragraph (1) with respect to the disappearance of any person—
 
-&emsp;“(A) more than 30 years after the initial report of the disappearance of the missing person required by section 1502 of this title; or
+&emsp;"(A) more than 30 years after the initial report of the disappearance of the missing person required by section 1502 of this title; or
 
-&emsp;“(B) if, before the end of such 30-year period, the missing person is accounted for.”
+&emsp;"(B) if, before the end of such 30-year period, the missing person is accounted for."
 

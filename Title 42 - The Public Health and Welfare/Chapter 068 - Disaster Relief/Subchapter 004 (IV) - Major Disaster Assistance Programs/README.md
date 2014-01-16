@@ -34,3 +34,5 @@
 - [&sect; 05189c - Transportation assistance to individuals and households](%C2%A7%2005189c%20-%20Transportation%20assistance%20to%20individuals%20and%20households.md)
 - [&sect; 05189d - Case management services](%C2%A7%2005189d%20-%20Case%20management%20services.md)
 - [&sect; 05189e - Essential service providers](%C2%A7%2005189e%20-%20Essential%20service%20providers.md)
+- [&sect; 05189f - Public assistance program alternative procedures](%C2%A7%2005189f%20-%20Public%20assistance%20program%20alternative%20procedures.md)
+- [&sect; 05189g - Unified Federal review](%C2%A7%2005189g%20-%20Unified%20Federal%20review.md)

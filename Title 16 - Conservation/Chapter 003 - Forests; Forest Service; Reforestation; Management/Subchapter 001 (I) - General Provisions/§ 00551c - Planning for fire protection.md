@@ -4,9 +4,9 @@
 
 The Secretaries of Agriculture and the Interior shall annually offer training programs to certify volunteers for suppressing forest fires on National Forest System lands, National Park System lands and Bureau of Land Management public lands in the event that the appropriate Secretary determines that such volunteers are needed. In carrying out this subsection, the Secretaries should utilize existing authorities to train volunteer firefighters for use in fire emergencies. The Secretaries should assess the capabilities of educational institutions and other public and private organizations to provide such training programs.
 
-#### (b) “Educational institutions” defined
+#### (b) "Educational institutions" defined
 
-For the purposes of this section, the term “educational institutions” shall include institutions established pursuant to the Act of July 2, 1862 (7 U.S.C. 301 et seq., commonly known as the “Morrill Act”), or the Act of August 30, 1890 (7 U.S.C. 321 et seq., commonly known as the “Second Morrill Act”).
+For the purposes of this section, the term "educational institutions" shall include institutions established pursuant to the Act of July 2, 1862 (7 U.S.C. 301 et seq., commonly known as the "Morrill Act"), or the Act of August 30, 1890 (7 U.S.C. 321 et seq., commonly known as the "Second Morrill Act").
 
 #### (c) Mobilization of local equipment
 
@@ -32,9 +32,9 @@ Act of August 30, 1890, referred to in subsec. (b), is act Aug. 30, 1890, ch. 84
 
 #### Forest Firefighting Planning and Cooperation; Findings
 
-Pub. L. 101–286, title II, §201, May 9, 1990, 104 Stat. 174, provided that: “The Congress finds that—
+Pub. L. 101–286, title II, §201, May 9, 1990, 104 Stat. 174, provided that: "The Congress finds that—
 
-&emsp;“(1) it is in the best interest of the Nation to take swift action to rehabilitate burned forests, and an assessment of the situation is necessary to accomplish this; and
+&emsp;"(1) it is in the best interest of the Nation to take swift action to rehabilitate burned forests, and an assessment of the situation is necessary to accomplish this; and
 
-&emsp;“(2) volunteers should be trained to assist where possible.”
+&emsp;"(2) volunteers should be trained to assist where possible."
 

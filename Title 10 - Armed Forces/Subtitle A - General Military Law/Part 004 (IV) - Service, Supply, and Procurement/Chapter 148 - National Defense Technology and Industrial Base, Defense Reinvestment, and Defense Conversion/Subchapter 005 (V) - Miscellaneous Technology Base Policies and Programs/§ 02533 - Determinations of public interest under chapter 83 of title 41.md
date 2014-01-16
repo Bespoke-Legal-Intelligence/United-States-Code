@@ -26,7 +26,7 @@
 
 &emsp;(10) The national security interests of the United States.
 
-(b) In this section, the term “goods which are other than American goods” means—
+(b) In this section, the term "goods which are other than American goods" means—
 
 &emsp;(1) an end product that is not mined, produced, or manufactured in the United States; or
 
@@ -40,31 +40,31 @@ Section is based on Pub. L. 93–365, title VII, §707, Aug. 5, 1974, 88 Stat. 4
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–350, §5(b)(37)(A), substituted “chapter 83 of title 41” for “the Buy American Act” in section catchline.
+<b>2011</b>—Pub. L. 111–350, §5(b)(37)(A), substituted "chapter 83 of title 41" for "the Buy American Act" in section catchline.
 
-Subsec. (a). Pub. L. 111–350, §5(b)(37)(B), substituted “section 8302 of title 41” for “section 2 of the Buy American Act (41 U.S.C. 10a)” in introductory provisions.
+Subsec. (a). Pub. L. 111–350, §5(b)(37)(B), substituted "section 8302 of title 41" for "section 2 of the Buy American Act (41 U.S.C. 10a)" in introductory provisions.
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted “(41 U.S.C. 10a)” for “(41 U.S.C. 10a))”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted "(41 U.S.C. 10a)" for "(41 U.S.C. 10a))".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106 substituted “the Buy American Act (41 U.S.C. 10a)) whether application of such Act” for “title III of the Act of March 3, 1993 (41 U.S.C. 10a), popularly known as the ‘Buy American Act’, whether application of title III of such Act”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 substituted "the Buy American Act (41 U.S.C. 10a)) whether application of such Act" for "title III of the Act of March 3, 1993 (41 U.S.C. 10a), popularly known as the 'Buy American Act', whether application of title III of such Act".
 
-<b>1994</b>—Pub. L. 103–337, §812(b)(1), substituted “Determinations of public interest under the Buy American Act” for “Limitation on use of funds: procurement of goods which are other than American goods” as section catchline.
+<b>1994</b>—Pub. L. 103–337, §812(b)(1), substituted "Determinations of public interest under the Buy American Act" for "Limitation on use of funds: procurement of goods which are other than American goods" as section catchline.
 
-Subsec. (a). Pub. L. 103–337, §812(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Funds appropriated to the Department of Defense may not be obligated under a contract for procurement of goods which are other than American goods (as defined in subsection (c)) unless adequate consideration is given to the following:
+Subsec. (a). Pub. L. 103–337, §812(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: "Funds appropriated to the Department of Defense may not be obligated under a contract for procurement of goods which are other than American goods (as defined in subsection (c)) unless adequate consideration is given to the following:
 
-&emsp;“(1) The bids or proposals of firms located in labor surplus areas in the United States (as designated by the Department of Labor) which have offered to furnish American goods.
+&emsp;"(1) The bids or proposals of firms located in labor surplus areas in the United States (as designated by the Department of Labor) which have offered to furnish American goods.
 
-&emsp;“(2) The bids or proposals of small business firms in the United States which have offered to furnish American goods.
+&emsp;"(2) The bids or proposals of small business firms in the United States which have offered to furnish American goods.
 
-&emsp;“(3) The bids or proposals of all other firms in the United States which have offered to furnish American goods.
+&emsp;"(3) The bids or proposals of all other firms in the United States which have offered to furnish American goods.
 
-&emsp;“(4) The United States balance of payments.
+&emsp;"(4) The United States balance of payments.
 
-&emsp;“(5) The cost of shipping goods which are other than American goods.
+&emsp;"(5) The cost of shipping goods which are other than American goods.
 
-&emsp;“(6) Any duty, tariff, or surcharge which may enter into the cost of using goods which are other than American goods.”
+&emsp;"(6) Any duty, tariff, or surcharge which may enter into the cost of using goods which are other than American goods."
 
-Subsecs. (b), (c). Pub. L. 103–337, §812(a), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Consideration of the matters referred to in paragraphs (1) through (6) of subsection (a) shall be given under regulations of the Secretary of Defense and subject to the determinations and exceptions contained in title III of the Act of March 3, 1933 (41 U.S.C. 10a, 10b), popularly known as the ‘Buy American Act’.”
+Subsecs. (b), (c). Pub. L. 103–337, §812(a), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "Consideration of the matters referred to in paragraphs (1) through (6) of subsection (a) shall be given under regulations of the Secretary of Defense and subject to the determinations and exceptions contained in title III of the Act of March 3, 1933 (41 U.S.C. 10a, 10b), popularly known as the 'Buy American Act'."
 
 <b>1992</b>—Pub. L. 102–484 renumbered section 2506 of this title as this section.
 

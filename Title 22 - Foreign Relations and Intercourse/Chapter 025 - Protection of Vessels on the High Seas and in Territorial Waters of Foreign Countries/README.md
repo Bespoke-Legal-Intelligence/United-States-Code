@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1971\.](%C2%A7%2001971%20-%20%E2%80%9CVessel%20of%20the%20United%20States%E2%80%9D%20defined.md) | “Vessel of the United States” defined. |
+| [1971\.](%C2%A7%2001971%20-%20Vessel%20of%20the%20United%20States%20defined.md) | "Vessel of the United States" defined. |
 | [1972\.](%C2%A7%2001972%20-%20Action%20by%20Secretary%20of%20State%20upon%20seizure%20of%20vessel%20by%20foreign%20country%3B%20preconditions.md) | Action by Secretary of State upon seizure of vessel by foreign country; preconditions. |
 | [1973\.](%C2%A7%2001973%20-%20Reimbursement%20of%20owner%20for%20any%20direct%20charges%20paid%20to%20secure%20release%20of%20vessel%20and%20crew.md) | Reimbursement of owner for any direct charges paid to secure release of vessel and crew. |
 | [1974\.](%C2%A7%2001974%20-%20Inapplicability%20of%20chapter%20to%20certain%20seizures.md) | Inapplicability of chapter to certain seizures. |
@@ -22,7 +22,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01971 - &#8220;Vessel of the United States&#8221; defined](%C2%A7%2001971%20-%20%E2%80%9CVessel%20of%20the%20United%20States%E2%80%9D%20defined.md)
+- [&sect; 01971 - Vessel of the United States defined](%C2%A7%2001971%20-%20Vessel%20of%20the%20United%20States%20defined.md)
 - [&sect; 01972 - Action by Secretary of State upon seizure of vessel by foreign country; preconditions](%C2%A7%2001972%20-%20Action%20by%20Secretary%20of%20State%20upon%20seizure%20of%20vessel%20by%20foreign%20country%3B%20preconditions.md)
 - [&sect; 01973 - Reimbursement of owner for any direct charges paid to secure release of vessel and crew](%C2%A7%2001973%20-%20Reimbursement%20of%20owner%20for%20any%20direct%20charges%20paid%20to%20secure%20release%20of%20vessel%20and%20crew.md)
 - [&sect; 01974 - Inapplicability of chapter to certain seizures](%C2%A7%2001974%20-%20Inapplicability%20of%20chapter%20to%20certain%20seizures.md)

@@ -2,7 +2,7 @@
 
 #### (a) Disclosure
 
-Notwithstanding section 1681b of this title or any other provision of this subchapter, a consumer reporting agency shall furnish a consumer report of a consumer and all other information in a consumer's file to a government agency authorized to conduct investigations of, or intelligence or counterintelligence activities or analysis related to, international terrorism when presented with a written certification by such government agency that such information is necessary for the agency's conduct or such investigation, activity or analysis.
+Notwithstanding section 1681b of this title or any other provision of this subchapter, a consumer reporting agency shall furnish a consumer report of a consumer and all other information in a consumer's file to a governmentagency authorized to conduct investigations of, or intelligence or counterintelligence activities or analysis related to, international terrorism when presented with a written certification by such government agency that such information is necessary for the agency's conduct or such investigation, activity or analysis.
 
 #### (b) Form of certification
 
@@ -30,19 +30,19 @@ Notwithstanding any other provision of this subchapter, any consumer reporting a
 
 (1) On a semi-annual basis, the Attorney General shall fully inform the Committee on the Judiciary, the Committee on Financial Services, and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary, the Committee on Banking, Housing, and Urban Affairs, and the Select Committee on Intelligence of the Senate concerning all requests made pursuant to subsection (a).
 
-(2) In the case of the semiannual reports required to be submitted under paragraph (1) to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, the submittal dates for such reports shall be as provided in section 415b of title 50.
+(2) In the case of the semiannual reports required to be submitted under paragraph (1) to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, the submittal dates for such reports shall be as provided in section 3106 of title 50.
 
 (Pub. L. 90–321, title VI, §627, formerly §626, as added Pub. L. 107–56, title III, §358(g)(1)(B), Oct. 26, 2001, 115 Stat. 327; renumbered §627 and amended Pub. L. 108–159, title II, §214(a)(1), (c)(3), Dec. 4, 2003, 117 Stat. 1980, 1983; Pub. L. 108–458, title VI, §6203(l), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–177, title I, §§116(c), 118(b), Mar. 9, 2006, 120 Stat. 214, 217; Pub. L. 109–178, §4(c)(2), Mar. 9, 2006, 120 Stat. 280.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–177, §116(c), amended subsec. (c) generally. Prior to amendment, text read as follows: “No consumer reporting agency, or officer, employee, or agent of such consumer reporting agency, shall disclose to any person, or specify in any consumer report, that a government agency has sought or obtained access to information under subsection (a) of this section.”
+<b>2006</b>—Subsec. (c). Pub. L. 109–177, §116(c), amended subsec. (c) generally. Prior to amendment, text read as follows: "No consumer reporting agency, or officer, employee, or agent of such consumer reporting agency, shall disclose to any person, or specify in any consumer report, that a government agency has sought or obtained access to information under subsection (a) of this section."
 
-Subsec. (c)(4). Pub. L. 109–178 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the authorized Government agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agency the person to whomsuch disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance.”
+Subsec. (c)(4). Pub. L. 109–178 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "At the request of the authorized Government agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agency the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance."
 
 Subsec. (f). Pub. L. 109–177, §118(b), added subsec. (f).
 
-<b>2004</b>—Subsec. (e). Pub. L. 108–458 substituted “government agency” for “governmental agency”.
+<b>2004</b>—Subsec. (e). Pub. L. 108–458 substituted "government agency" for "governmental agency".
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–159, §214(c)(3), made technical amendment to reference in original act which appears in text as reference to section 1681u of this title.
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as 
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed byFederal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
 #### Effective Date
 

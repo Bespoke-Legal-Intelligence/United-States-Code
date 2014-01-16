@@ -6,7 +6,7 @@ For purposes of this chapter, a manufacturer or producer to whom an article is s
 
 #### (b) Computation of tax
 
-If the manufacturer or producer referred to in subsection (a) incurs liability for tax under this chapter on his sale or use of an article referredto in subsection (a) and the tax is based on the price for which the article is sold, the article shall be treated as having been sold by him—
+If the manufacturer or producer referred to in subsection (a) incurs liability for tax under this chapter on his sale or use of an article referred to in subsection (a) and the tax is based on the price for which the article is sold, the article shall be treated as having been sold by him—
 
 &emsp;(1) at the price for which the article was sold by him (or, where the tax is on his use of the article, at the price referred to in section 4218(c)); or
 
@@ -26,11 +26,11 @@ A prior section 4223, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exem
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369 substituted “4218(c)” for “section 4218(e)”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369 substituted "4218(c)" for "section 4218(e)".
 
-<b>1976</b>—Subsec. (b) Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b) Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
-<b>1960</b>—Subsec. (b)(1). Pub. L. 86–418 substituted “section 4218(e)” for “section 4218(d)”.
+<b>1960</b>—Subsec. (b)(1). Pub. L. 86–418 substituted "section 4218(e)" for "section 4218(d)".
 
 #### Effective Date of 1984 Amendment
 

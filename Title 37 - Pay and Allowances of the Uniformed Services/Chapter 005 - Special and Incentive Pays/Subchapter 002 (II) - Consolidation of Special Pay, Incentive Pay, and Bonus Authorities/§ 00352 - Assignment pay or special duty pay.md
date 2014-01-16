@@ -70,39 +70,41 @@ Repayment.—A member who receives assignment or special duty pay under this sec
 
 (g)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2013.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2014.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 173; amended Pub. L. 111–84, div. A, title VI, §§614(7), 618(c), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(7), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(7), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(7), Jan. 2, 2013, 126 Stat. 1777.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 173; amended Pub. L. 111–84, div. A, title VI, §§614(7), 618(c), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(7), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(7), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(7), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(7), Dec. 26, 2013, 127 Stat. 781.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+<b>2013</b>—Subsec. (g). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
-<b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-<b>2009</b>—Subsec. (b)(1). Pub. L. 111–84, §618(c), inserted at end “If paid monthly, the Secretary concerned may prorate the monthly amount of the assignment or special duty pay for a member who does not satisfy the eligibility requirement for an entire month to reflect the duration of the member's actual qualifying service during the month.”
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-Subsec. (g). Pub. L. 111–84, §614(7), substituted “December 31, 2010” for “December 31, 2009”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–84, §618(c), inserted at end "If paid monthly, the Secretary concerned may prorate the monthly amount of the assignment or special duty pay for a member who does not satisfy the eligibility requirement for an entire month to reflect the duration of the member's actual qualifying service during the month."
+
+Subsec. (g). Pub. L. 111–84, §614(7), substituted "December 31, 2010" for "December 31, 2009".
 
 #### Additional Assignment Pay or Special Duty Pay Authorized for Members Agreeing To Serve in Afghanistan for Extended Periods
 
 Pub. L. 111–84, div. A, title VI, §619, Oct. 28, 2009, 123 Stat. 2357, provided that:
 
-“(a)
+"(a)
 
 Authority to Provide Additional Assignment Pay or Special Duty Pay.—The Secretary of Defense may provide assignment pay or special duty pay under section 352 of title 37, United States Code, in excess of the maximum amount of monthly or lump sum assignment or special duty pay authorized under subsection (b) of such section, to members of the Armed Forces (particularly members who achieve language proficiency at levels and in languages specified by the Secretary of Defense) who agree to serve on active duty in Afghanistan for a minimum of three years. The assignment period required by the agreement shall provide for reasonable periods of leave.
 
-“(b)
+"(b)
 
 Reporting Requirements.—The Secretary shall submit to Congress an annual report on the use of the authority provided under subsection (a) during the preceding year, including—
 
-&emsp;“(1) the number of members of the Armed Forces receiving assignment pay or special duty pay under section 352 of title 37, United States Code, in excess of the maximum amount otherwise authorized under such section; and
+&emsp;"(1) the number of members of the Armed Forces receiving assignment pay or special duty pay under section 352 of title 37, United States Code, in excess of the maximum amount otherwise authorized under such section; and
 
-&emsp;“(2) an assessment of the impact of the use of such authority on the effectiveness and efficiency in achieving the United States mission in Afghanistan.
+&emsp;"(2) an assessment of the impact of the use of such authority on the effectiveness and efficiency in achieving the United States mission in Afghanistan.
 
-“(c)
+"(c)
 
-Duration of Authority.—The authority provided by subsection (a) to offer additional assignment pay or special duty pay under section 352 of title 37, United States Code, expires on December 31, 2012. The expiration of such authority shall not affect the terms or duration of any agreement entered into before that date to provide additional assignment pay or special duty pay under such section.”
+Duration of Authority.—The authority provided by subsection (a) to offer additional assignment pay or special duty pay under section 352 of title 37, United States Code, expires on December 31, 2012. The expiration of such authority shall not affect the terms or duration of any agreement entered into before that date to provide additional assignment pay or special duty pay under such section."
 

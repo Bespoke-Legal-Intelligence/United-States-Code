@@ -12,11 +12,11 @@ Any person who—
 
 &emsp;(4) except as provided in section 1333(e) of this title, processes or permits to be processed into commercial products the remains of a wild free-roaming horse or burro, or
 
-&emsp;(5) sells, directly or indirectly, a wild free-roaming horse or burro maintained on private or leased land pursuant to section 1334 of this title, or the remains thereof, or
+&emsp;(5) sells, directly or indirectly, a wild free-roaming horse or burro maintained on privateor leased land pursuant to section 1334 of this title, or the remains thereof, or
 
 &emsp;(6) willfully violates a regulation issued pursuant to this chapter,
 
-> shall be subject to a fine of not more than $2,000, or imprisonment for not more than one year, orboth. Any person so charged with such violation by the Secretary may be tried and sentenced by any United States commissioner or magistrate judge designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions as provided for in section 3401 of title 18.
+> shall be subject to a fine of not more than $2,000, or imprisonment for not more than one year, or both. Any person so charged with such violation by the Secretary may be tried and sentenced by any United States commissioner or magistrate judge designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions as provided for in section 3401 of title 18.
 
 #### (b) Arrest; appearance for examination or trial; warrants: issuance and execution
 
@@ -26,9 +26,9 @@ Any employee designated by the Secretary of the Interior or the Secretary of Agr
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(4). Pub. L. 108–447 inserted “except as provided in section 1333(e) of this title,” before “processes or permits”.
+<b>2004</b>—Subsec. (a)(4). Pub. L. 108–447 inserted "except as provided in section 1333(e) of this title," before "processes or permits".
 
 #### Change of Name
 
-“United States magistrate judge” and “magistrate judge” substituted for “United States magistrate” and “magistrate”, respectively, in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judge" and "magistrate judge" substituted for "United States magistrate" and "magistrate", respectively, in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 

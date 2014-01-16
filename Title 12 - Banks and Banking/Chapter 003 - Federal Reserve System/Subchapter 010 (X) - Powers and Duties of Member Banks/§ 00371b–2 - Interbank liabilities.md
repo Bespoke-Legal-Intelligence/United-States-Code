@@ -4,15 +4,15 @@
 
 The purpose of this section is to limit the risks that the failure of a large depository institution (whether or not that institution is an insured depository institution) would pose to insured depository institutions.
 
-#### (b) Aggregate limits on insured depository institutions’ exposure to other depository institutions
+#### (b) Aggregate limits on insured depository institutions' exposure to other depository institutions
 
 The Board shall, by regulation or order, prescribe standards that have the effect of limiting the risks posed by an insured depository institution's exposure to any other depository institution.
 
-#### (c) “Exposure” defined
+#### (c) "Exposure" defined
 
 #### (1) In general
 
-&emsp;For purposes of subsection (b) of this section, an insured depository institution's “exposure” to another depository institution means—
+&emsp;For purposes of subsection (b) of this section, an insured depository institution's "exposure" to another depository institution means—
 
 &emsp;&emsp;(A) all extensions of credit to the other depository institution, regardless of name or description, including—
 
@@ -30,7 +30,7 @@ The Board shall, by regulation or order, prescribe standards that have the effec
 
 #### (2) Exemptions
 
-&emsp;The Board may, at its discretion, by regulation or order, exempt transactions from the definition of “exposure” if it finds the exemptions to be in the public interest and consistent with the purpose of this section.
+&emsp;The Board may, at its discretion, by regulation or order, exempt transactions from the definition of "exposure" if it finds the exemptions to be in the public interest and consistent with the purpose of this section.
 
 #### (3) Attribution rule
 
@@ -38,7 +38,7 @@ The Board shall, by regulation or order, prescribe standards that have the effec
 
 #### (d) Insured depository institution
 
-For purposes of this section, the term “insured depository institution” has the same meaning as in section 1813 of this title.
+For purposes of this section, the term "insured depository institution" has the same meaning as in section 1813 of this title.
 
 #### (e) Rulemaking authority; enforcement
 
@@ -48,9 +48,9 @@ The Board may issue such regulations and orders, including definitions consisten
 
 #### Effective Date
 
-Pub. L. 102–242, title III, §308(c), Dec. 19, 1991, 105 Stat. 2363, provided that: “The amendment made by this section \[enacting this section\] shall become effective 1 year after the date of enactment of this Act \[Dec. 19, 1991\].”
+Pub. L. 102–242, title III, §308(c), Dec. 19, 1991, 105 Stat. 2363, provided that: "The amendment made by this section \[enacting this section\] shall become effective 1 year after the date of enactment of this Act \[Dec. 19, 1991\]."
 
 #### Regulations
 
-Pub. L. 102–242, title III, §308(b), Dec. 19, 1991, 105 Stat. 2362, provided that: “The Board shall prescribe reasonable transition rules to facilitate compliance with section 23 of the Federal Reserve Act \[12 U.S.C. 371b–2\] (as added by subsection (a)).”
+Pub. L. 102–242, title III, §308(b), Dec. 19, 1991, 105 Stat. 2362, provided that: "The Board shall prescribe reasonable transition rules to facilitate compliance with section 23 of the Federal Reserve Act \[12 U.S.C. 371b–2\] (as added by subsection (a))."
 

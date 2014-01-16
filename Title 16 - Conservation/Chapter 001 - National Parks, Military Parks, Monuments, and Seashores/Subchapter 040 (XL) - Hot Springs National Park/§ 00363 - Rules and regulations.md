@@ -10,5 +10,5 @@ A clause at the beginning of this section as originally enacted, retaining and c
 
 #### Change of Name
 
-“Hot Springs National Park” substituted in text for “Hot Springs Reservation” pursuant to act Mar. 4, 1921.
+"Hot Springs National Park" substituted in text for "Hot Springs Reservation" pursuant to act Mar. 4, 1921.
 

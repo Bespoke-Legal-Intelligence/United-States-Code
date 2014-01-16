@@ -90,11 +90,11 @@ No cause of action shall lie in any court against any provider of a wire or elec
 
 Unless otherwise ordered by the judge, the results of a pen register or trap and trace device shall be furnished at reasonable intervals during regular business hours for the duration of the order to the authorized Government official or officials.
 
-(Pub. L. 95–511, title IV, §402, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat.2405; amended Pub. L. 107–56, title II, §214(a), Oct. 26, 2001, 115 Stat. 286; Pub. L. 107–108, title III, §314(a)(5), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§105(c), 128(a), Mar. 9, 2006, 120 Stat. 195, 228; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748.)
+(Pub. L. 95–511, title IV, §402, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2405; amended Pub. L. 107–56, title II, §214(a), Oct. 26, 2001, 115 Stat. 286; Pub. L. 107–108, title III, §314(a)(5), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§105(c), 128(a), Mar. 9, 2006, 120 Stat. 195, 228; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748.)
 
 #### References in Text
 
-Executive Order No. 12333, referred to in subsec. (a)(1), is set out as a note under section 401 of this title.
+Executive Order No. 12333, referred to in subsec. (a)(1), is set out as a note under section 3001 of this title.
 
 Section 1805(b)(2)(C) of this title, referred to in subsec. (d)(2)(B)(ii)(II), was redesignated section 1805(c)(2)(C) of this title by Pub. L. 106–567, title VI, §602(b)(1), Dec. 27, 2000, 114 Stat. 2851.
 
@@ -102,49 +102,49 @@ Section 1805(b)(2)(C) of this title, referred to in subsec. (d)(2)(B)(ii)(II), w
 
 <b>2010</b>—Subsec. (d)(2)(B)(ii)(II). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
 
-<b>2006</b>—Subsec. (d)(2)(A). Pub. L. 109–177, §128(a)(1), inserted “and” at end of cl. (ii) and substituted semicolon for period at end of cl. (iii).
+<b>2006</b>—Subsec. (d)(2)(A). Pub. L. 109–177, §128(a)(1), inserted "and" at end of cl. (ii) and substituted semicolon for period at end of cl. (iii).
 
 Subsec. (d)(2)(C). Pub. L. 109–177, §128(a)(2), (3), added subpar. (C).
 
-Subsec. (e). Pub. L. 109–177, §105(c), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), an order issued” for “An order issued”, and added par. (2).
+Subsec. (e). Pub. L. 109–177, §105(c), designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), an order issued" for "An order issued", and added par. (2).
 
-<b>2004</b>—Subsec. (d)(2)(B)(ii)(II). Pub. L. 108–458, as amended by Pub. L. 111–259, substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (d)(2)(B)(ii)(II). Pub. L. 108–458, as amended by Pub. L. 111–259, substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–56, §214(a)(1), substituted “for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “for any investigation to gather foreign intelligence information or information concerning international terrorism”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–56, §214(a)(1), substituted "for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution" for "for any investigation to gather foreign intelligence information or information concerning international terrorism".
 
-Subsec. (c)(1). Pub. L. 107–108, §314(a)(5)(A), inserted “and” after semicolon at end.
+Subsec. (c)(1). Pub. L. 107–108, §314(a)(5)(A), inserted "and" after semicolon at end.
 
-Subsec. (c)(2). Pub. L. 107–56, §214(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a certification by the applicant that the information likely to be obtained is relevant to an ongoing foreign intelligence or international terrorism investigation being conducted by the Federal Bureau of Investigation under guidelines approved by the Attorney General; and”.
+Subsec. (c)(2). Pub. L. 107–56, §214(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "a certification by the applicant that the information likely to be obtained is relevant to an ongoing foreign intelligence or international terrorism investigation being conducted by the Federal Bureau of Investigation under guidelines approved by the Attorney General; and".
 
-Subsec. (c)(3). Pub. L. 107–56, §214(a)(3), struck out par. (3) which read as follows: “information which demonstrates that there is reason to believe that the telephone line to which the pen register or trap and trace device is to be attached, or the communication instrument or device to be covered by the pen register or trap and trace device, has been or is about to be used in communication with—
+Subsec. (c)(3). Pub. L. 107–56, §214(a)(3), struck out par. (3) which read as follows: "information which demonstrates that there is reason to believe that the telephone line to which the pen register or trap and trace device is to be attached, or the communication instrument or device to be covered by the pen register or trap and trace device, has been or is about to be used in communication with—
 
-&emsp;“(A) an individual who is engaging or has engaged in international terrorism or clandestine intelligence activities that involve or may involve a violation of the criminal laws of the United States; or
+&emsp;"(A) an individual who is engaging or has engaged in international terrorism or clandestine intelligence activities that involve or may involve a violation of the criminal laws of the United States; or
 
-&emsp;“(B) a foreign power or agent of a foreign power under circumstances giving reason to believe that the communication concerns or concerned international terrorism or clandestine intelligence activities that involve or may involve a violation of the criminal laws of the United States.”
+&emsp;"(B) a foreign power or agent of a foreign power under circumstances giving reason to believe that the communication concerns or concerned international terrorism or clandestine intelligence activities that involve or may involve a violation of the criminal laws of the United States."
 
-Subsec. (d)(2)(A). Pub. L. 107–56, §214(a)(4), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “shall specify—
+Subsec. (d)(2)(A). Pub. L. 107–56, §214(a)(4), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "shall specify—
 
-&emsp;“(i) the identity, if known, of the person who is the subject of the foreign intelligence or international terrorism investigation;
+&emsp;"(i) the identity, if known, of the person who is the subject of the foreign intelligence or international terrorism investigation;
 
-&emsp;“(ii) in the case of an application for the installation and use of a pen register or trap and trace device with respect to a telephone line—
+&emsp;"(ii) in the case of an application for the installation and use of a pen register or trap and trace device with respect to a telephone line—
 
-&emsp;&emsp;“(I) the identity, if known, of the person to whom is leased or in whose name the telephone line is listed; and
+&emsp;&emsp;"(I) the identity, if known, of the person to whom is leased or in whose name the telephone line is listed; and
 
-&emsp;&emsp;“(II) the number and, if known, physical location of the telephone line; and
+&emsp;&emsp;"(II) the number and, if known, physical location of the telephone line; and
 
-&emsp;“(iii) in the case of an application for the use of a pen register or trap and trace device with respect to a communication instrument or device not covered by clause (ii)—
+&emsp;"(iii) in the case of an application for the use of a pen register or trap and trace device with respect to a communication instrument or device not covered by clause (ii)—
 
-&emsp;&emsp;“(I) the identity, if known, of the person who owns or leases the instrument or device or in whose name the instrument or device is listed; and
+&emsp;&emsp;"(I) the identity, if known, of the person who owns or leases the instrument or device or in whose name the instrument or device is listed; and
 
-&emsp;&emsp;“(II) the number of the instrument or device; and”.
+&emsp;&emsp;"(II) the number of the instrument or device; and".
 
-Subsec. (f). Pub. L. 107–108, §314(a)(5)(B), substituted “terms of an order issued” for “terms of a court”.
+Subsec. (f). Pub. L. 107–108, §314(a)(5)(B), substituted "terms of an order issued" for "terms of a court".
 
 #### Effective Date of 2004 Amendment
 
-For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established on the books of the Treasury an account to be known as the “Pest and Disease Response Fund”. There shall be deposited into the Fund any proceeds received by the Secretary of Agriculture as reimbursement for services provided by the Secretary using amounts in the Fund.
+There is established on the books of the Treasury an account to be known as the "Pest and Disease Response Fund". There shall be deposited into the Fund any proceeds received by the Secretary of Agriculture as reimbursement for services provided by the Secretary using amounts in the Fund.
 
 #### (b) Availability
 
@@ -14,7 +14,7 @@ In implementing the Animal Health Protection Act (7 U.S.C. 8301 et seq.) and the
 
 #### (d) Authorization of appropriations
 
-For each of the fiscal years 2005 through 2009, there is authorized to be appropriated to theSecretary of Agriculture $1,000,000 for deposit in the Fund.
+For each of the fiscal years 2005 through 2009, there is authorized to be appropriated to the Secretary of Agriculture $1,000,000 for deposit in the Fund.
 
 (Pub. L. 108–465, title IV, §401, Dec. 21, 2004, 118 Stat. 3886.)
 

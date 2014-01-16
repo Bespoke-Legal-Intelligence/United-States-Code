@@ -52,7 +52,7 @@ Complaints by Employees.—
 
 &emsp;(2) The Inspector General shall not, after receipt of a complaint or information from an employee, disclose the identity of the employee without the consent of the employee, unless the Inspector General determines such disclosure is unavoidable during the course of the investigation.
 
-&emsp;(3) Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee as a reprisal for making a complaint or disclosing information to the Inspector General, unless the complaint was made or the information disclosedwith the knowledge that it was false or with willful disregard for its truth or falsity.
+&emsp;(3) Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee as a reprisal for making a complaint or disclosing information to the Inspector General, unless the complaint was made or the information disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
 (e)
 
@@ -106,11 +106,11 @@ Office Space.—The Comptroller General shall provide the Office of the Inspecto
 
 (i)
 
-Definition.—As used in this section, the term “Federal agency” means a department, agency, instrumentality, or unit thereof, of the Federal Government.
+Definition.—As used in this section, the term "Federal agency" means a department, agency, instrumentality, or unit thereof, of the Federal Government.
 
 (Added Pub. L. 110–323, §5(a), Sept. 22, 2008, 122 Stat. 3544.)
 
 #### Incumbent
 
-Pub. L. 110–323, §5(b), Sept. 22, 2008, 122 Stat. 3547, provided that: “The individual who serves in the position of Inspector General of the Government Accountability Office on the date of the enactment of this Act \[Sept. 22, 2008\] shall continue to serve in such position subject to removal in accordance with the amendments made by this section \[enacting this section\].”
+Pub. L. 110–323, §5(b), Sept. 22, 2008, 122 Stat. 3547, provided that: "The individual who serves in the position of Inspector General of the Government Accountability Office on the date of the enactment of this Act \[Sept. 22, 2008\] shall continue to serve in such position subject to removal in accordance with the amendments made by this section \[enacting this section\]."
 

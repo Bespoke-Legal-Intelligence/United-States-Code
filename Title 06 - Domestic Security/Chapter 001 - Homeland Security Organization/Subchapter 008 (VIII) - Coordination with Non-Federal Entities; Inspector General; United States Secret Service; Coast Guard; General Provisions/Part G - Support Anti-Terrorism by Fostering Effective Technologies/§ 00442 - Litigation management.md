@@ -22,7 +22,7 @@ In an action brought under this section for damages the following provisions app
 
 #### (A) In general
 
-&emsp;&emsp;Noneconomic damages may be awarded against a defendant only in an amount directly proportional to the percentage of responsibility of such defendant for the harm to the plaintiff, and no plaintiff may recover noneconomic damages unless the plaintiff suffered physical harm.
+&emsp;&emsp;Noneconomic damages may be awarded against a defendant only in an amount directly proportional to the percentage of responsibility of such defendant for the harmto the plaintiff, and no plaintiff may recover noneconomic damages unless the plaintiff suffered physical harm.
 
 #### (B) Definition
 

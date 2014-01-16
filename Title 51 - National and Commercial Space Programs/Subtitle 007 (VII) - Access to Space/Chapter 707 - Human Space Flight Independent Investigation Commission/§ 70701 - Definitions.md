@@ -4,11 +4,11 @@ In this chapter:
 
 &emsp;(1)
 
-Commission.—The term “Commission” means a Commission established under this chapter.
+Commission.—The term "Commission" means a Commission established under this chapter.
 
 &emsp;(2)
 
-Incident.—The term “incident” means either an accident or a deliberate act.
+Incident.—The term "incident" means either an accident or a deliberate act.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3432.)
 

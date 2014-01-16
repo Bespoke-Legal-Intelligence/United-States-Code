@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Health and Human Services (referred to in this section as the “Secretary”), acting through the Director of the Centers for Disease Control and Prevention, shall award grants to State or local health departments and Indian tribes to carry out 5-year pilot programs to provide public health community interventions, screenings, and where necessary, clinical referrals for individuals who are between 55 and 64 years of age.
+&emsp;The Secretary of Health and Human Services (referred to in this section as the "Secretary"), acting through the Director of the Centers for Disease Control and Prevention, shall award grants to State or local health departments and Indian tribes to carry out 5-year pilot programs to provide public health community interventions, screenings, and where necessary, clinical referrals for individuals who are between 55 and 64 years of age.
 
 #### (2) Eligibility
 
@@ -38,7 +38,7 @@
 
 #### (ii) Types of intervention activities
 
-&emsp;&emsp;&emsp;Intervention activities conducted under this subparagraph may include efforts to improve nutrition, increase physical activity, reduce tobacco use and substance abuse, improve mental health, and promote healthy lifestyles among the target population.
+&emsp;&emsp;&emsp;Intervention activities conducted under this subparagraph may include efforts to improve nutrition, increase physical activity, reduce tobacco use and substanceabuse, improve mental health, and promote healthy lifestyles among the target population.
 
 #### (C) Community preventive screenings
 
@@ -90,7 +90,7 @@
 
 #### (4) Pilot program evaluation
 
-&emsp;The Secretary shall conduct an annual evaluation of the effectiveness of the pilot program under this subsection. In determining such effectiveness, the Secretary shall consider changes in the prevalence of uncontrolled chronic disease risk factors among new Medicare enrollees (or individuals nearing enrollment, including those who are 63 and 64 years of age) who reside in States or localitiesreceiving grants under this section as compared with national and historical data for those States and localities for the same population.
+&emsp;The Secretary shall conduct an annual evaluation of the effectiveness of the pilot program under this subsection. In determining such effectiveness, the Secretary shall consider changes in the prevalence of uncontrolled chronic disease risk factors among new Medicare enrollees (or individuals nearing enrollment, including those who are 63 and 64 years of age) who reside in States or localities receiving grants under this section as compared with national and historical data for those States and localities for the same population.
 
 #### (5) Authorization of appropriations
 
@@ -106,7 +106,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall evaluate community prevention and wellness programs including those that are sponsored by the Administration on Aging, are evidence-based, and have demonstrated potential to help Medicare beneficiaries (particularly beneficiaries that have attained 65 years of age) reduce their risk of disease, disability, and injury by making healthy lifestyle choices, including exercise, diet, and self-management of chronic diseases.
+&emsp;&emsp;The Secretary shall evaluate community prevention and wellness programs including those that are sponsored by the Administration on Aging, are evidence-based, and have demonstrated potential to help Medicare beneficiaries (particularly beneficiaries that have attained 65 years of age) reduce their risk of disease, disability, and injury by making healthy lifestyle choices, includingexercise, diet, and self-management of chronic diseases.
 
 #### (B) Evaluation
 
@@ -154,7 +154,7 @@
 
 #### (6) Medicare beneficiary
 
-&emsp;In this subsection, the term “Medicare beneficiary” means an individual who is entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] and enrolled under part B of such title \[42 U.S.C. 1395j et seq.\].
+&emsp;In this subsection, the term "Medicare beneficiary" means an individual who is entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] and enrolled under part B of such title \[42 U.S.C. 1395j et seq.\].
 
 (Pub. L. 111–148, title IV, §4202, Mar. 23, 2010, 124 Stat. 566.)
 
@@ -170,7 +170,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 <i><sup>2</sup></i><i> So in original. Paragraph (4) does not contain subpars.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “Supplementary”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "Supplementary".</i>
 
-<i><sup>4</sup></i><i> So in original. The word “the” probably should not appear.</i>
+<i><sup>4</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

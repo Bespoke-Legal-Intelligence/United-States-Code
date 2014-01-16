@@ -66,7 +66,7 @@ If the Secretary determines that 2 or more applications for cost-share assistanc
 
 #### (4) Minimum requirements
 
-&emsp;An eligible entity shall be authorized to use its own terms and conditions, as approved by the Secretary, for conservation easements and other purchases of interests in land, so long as such terms and conditions—
+&emsp;An eligible entity shall be authorized to use its own terms and conditions, as approved bythe Secretary, for conservation easements and other purchases of interests in land, so long as such terms and conditions—
 
 &emsp;&emsp;(A) are consistent with the purposes of the program;
 

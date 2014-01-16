@@ -22,7 +22,7 @@ Waiver Authority.—(1) The Secretary concerned may waive the application of sub
 
 Definitions.—In this section:
 
-&emsp;(1) The term “entity controlled by a foreign government” includes—
+&emsp;(1) The term "entity controlled by a foreign government" includes—
 
 &emsp;&emsp;(A) any domestic or foreign organization or corporation that is effectively owned or controlled by a foreign government; and
 
@@ -30,7 +30,7 @@ Definitions.—In this section:
 
 > &emsp;as determined by the Secretary concerned. Such term does not include an organization or corporation that is owned, but is not controlled, either directly or indirectly, by a foreign government if the ownership of that organization or corporation by that foreign government was effective before October 23, 1992.
 
-&emsp;(2) The term “proscribed category of information” means a category of information that—
+&emsp;(2) The term "proscribed category of information" means a category of information that—
 
 &emsp;&emsp;(A) with respect to Department of Defense contracts—
 
@@ -46,7 +46,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;(ii) is defined in regulations prescribed by the Secretary of Energy for the purposes of this section.
 
-&emsp;(3) The term “Secretary concerned” means—
+&emsp;(3) The term "Secretary concerned" means—
 
 &emsp;&emsp;(A) the Secretary of Defense, with respect to Department of Defense contracts; and
 
@@ -56,19 +56,19 @@ Definitions.—In this section:
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–201 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “
+<b>1996</b>—Subsec. (b). Pub. L. 104–201 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "
 
-Waiver Authority.—The Secretary concerned may waive the application of subsection (a) to a contract award if the Secretary concerned determines that the waiver is essential to the national security interests of the United States.”
+Waiver Authority.—The Secretary concerned may waive the application of subsection (a) to a contract award if the Secretary concerned determines that the waiver is essential to the national security interests of the United States."
 
-<b>1993</b>—Pub. L. 103–160, §842(c)(1), substituted “Award of certain contracts to entities controlled by a foreign government: prohibition” for “Prohibition on award of certain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government.” as section catchline.
+<b>1993</b>—Pub. L. 103–160, §842(c)(1), substituted "Award of certain contracts to entities controlled by a foreign government: prohibition" for "Prohibition on award of certain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government." as section catchline.
 
 Pub. L. 103–35 struck out period at end of section catchline.
 
-Subsec. (a). Pub. L. 103–160, §842(a), struck out “a company owned by” after “awarded to” and substituted “that entity” for “that company”.
+Subsec. (a). Pub. L. 103–160, §842(a), struck out "a company owned by" after "awarded to" and substituted "that entity" for "that company".
 
-Subsec. (c)(1). Pub. L. 103–160, §842(b), inserted at end “Such term does not include an organization or corporation that is owned, but is not controlled, either directly or indirectly, by a foreign government if the ownership of that organization or corporation by that foreign government was effective before October 23, 1992.”
+Subsec. (c)(1). Pub. L. 103–160, §842(b), inserted at end "Such term does not include an organization or corporation that is owned, but is not controlled, either directly or indirectly, by a foreign government if the ownership of that organization or corporation by that foreign government was effective before October 23, 1992."
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–484, div. A, title VIII, §836(b), Oct. 23, 1992, 106 Stat. 2463, provided that: “Section 2536 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into after the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. A, title VIII, §836(b), Oct. 23, 1992, 106 Stat. 2463, provided that: "Section 2536 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into after the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\]."
 

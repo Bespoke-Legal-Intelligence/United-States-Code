@@ -20,23 +20,23 @@ The Administrator may obtain services as authorized by section 3109 of title 5, 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–273 substituted “payable under section 5376” for “prescribed for GS–18 of the General Schedule by section 5332”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–273 substituted "payable under section 5376" for "prescribed for GS–18 of the General Schedule by section 5332".
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–586, §2(b)(1), which directed the substitution of “payable under section 5376” for “prescribes for GS–18 of the General Schedule by section 5332”, could not be executed because the phrase “prescribes for GS–18 of the General Schedule by section 5332” did not appear in text.
+<b>1992</b>—Subsec. (b). Pub. L. 102–586, §2(b)(1), which directed the substitution of "payable under section 5376" for "prescribes for GS–18 of the General Schedule by section 5332", could not be executed because the phrase "prescribes for GS–18 of the General Schedule by section 5332" did not appear in text.
 
-Subsec. (c). Pub. L. 102–586, §2(b)(2), substituted “subchapter” for “chapter”.
+Subsec. (c). Pub. L. 102–586, §2(b)(2), substituted "subchapter" for "chapter".
 
-Subsec. (d). Pub. L. 102–586, §2(b)(3), substituted “payable under section 5376” for “prescribed for GS–18 of the General Schedule by section 5332”.
+Subsec. (d). Pub. L. 102–586, §2(b)(3), substituted "payable under section 5376" for "prescribed for GS–18 of the General Schedule by section 5332".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–473, §621(a), substituted “the Administrator” for “him” before “and to prescribe”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, §621(a), substituted "the Administrator" for "him" before "and to prescribe".
 
-Subsec. (c). Pub. L. 98–473, §621(b), substituted “the Administrator” for “him” before “in carrying out” and “the functions of the Administrator” for “his functions”.
+Subsec. (c). Pub. L. 98–473, §621(b), substituted "the Administrator" for "him" before "in carrying out" and "the functions of the Administrator" for "his functions".
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–509, §19(c)(1), substituted “Administrator” for “Associate Administrator”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–509, §19(c)(1), substituted "Administrator" for "Associate Administrator".
 
-Subsec. (d). Pub. L. 96–509, §19(c)(2), substituted “title 5” for “title I” after “section 5332 of”.
+Subsec. (d). Pub. L. 96–509, §19(c)(2), substituted "title 5" for "title I" after "section 5332 of".
 
-<b>1977</b>—Subsec. (c). Pub. L. 95–115 substituted “Associate” for “Assistant”.
+<b>1977</b>—Subsec. (c). Pub. L. 95–115 substituted "Associate" for "Assistant".
 
 #### Effective Date of 2002 Amendment
 

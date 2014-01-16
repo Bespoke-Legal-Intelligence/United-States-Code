@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (2) Applicable Government price index
 
-&emsp;The term “applicable Government price index” means—
+&emsp;The term "applicable Government price index" means—
 
 &emsp;&emsp;(A) except as provided in subparagraph (B), the Producer Price Index published by the Bureau of Labor Statistics, or
 
@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (3) Major category
 
-&emsp;The term “major category” means—
+&emsp;The term "major category" means—
 
 &emsp;&emsp;(A) in the case of the Producer Price Index, any of the 2-digit standard industrial classifications in the Producer Prices Data Report, or
 
@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (3) LIFO method
 
-&emsp;The term “LIFO method” means the method provided by section 472(b).
+&emsp;The term "LIFO method" means the method provided by section 472(b).
 
 #### (4) Transitional rules
 
@@ -104,15 +104,15 @@ For purposes of this section—
 
 Pub. L. 99–514, title VIII, §802(c), Oct. 22, 1986, 100 Stat. 2350, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
-“(2)
+"(2)
 
-Treatment of taxpayers who made elections under existing section 474.—The amendments made by this section shall not apply to any taxpayer who made an election under section 474 of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) for any period during which such election is in effect. Notwithstanding any provision of such section 474 (as so in effect), an election under such section may be revoked without the consent of the Secretary.”
+Treatment of taxpayers who made elections under existing section 474.—The amendments made by this section shall not apply to any taxpayer who made an election under section 474 of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) for any period during which such election is in effect. Notwithstanding any provision of such section 474 (as so in effect), an election under such section may be revoked without the consent of the Secretary."
 
 #### Effective Date
 
-Pub. L. 97–34, title II, §237(c), Aug. 13, 1981, 95 Stat. 253, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title II, §237(c), Aug. 13, 1981, 95 Stat. 253, provided that: "The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1981."
 

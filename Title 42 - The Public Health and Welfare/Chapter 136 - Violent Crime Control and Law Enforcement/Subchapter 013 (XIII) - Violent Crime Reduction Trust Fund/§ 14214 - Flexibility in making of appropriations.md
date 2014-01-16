@@ -14,7 +14,7 @@ In the making of appropriations under any provision of this Act or amendment mad
 
 #### (d) Definitions
 
-In this section—“Federal law enforcement program” means a program authorized in any of the following sections:
+In this section—"Federal law enforcement program" means a program authorized in any of the following sections:
 
 &emsp;(1) section 190001(a); <sup>1</sup>
 
@@ -48,7 +48,7 @@ In this section—“Federal law enforcement program” means a program authoriz
 
 &emsp;(16) section 14199 of this title.
 
-“State and local law enforcement program” means a program authorized in any of the following sections:
+"State and local law enforcement program" means a program authorized in any of the following sections:
 
 &emsp;(1) sections 10001–10003; <sup>1</sup>
 
@@ -82,7 +82,7 @@ In this section—“Federal law enforcement program” means a program authoriz
 
 &emsp;(16) section 20201. <sup>1</sup>
 
-“prevention program” means a program authorized in any of the following sections:
+"prevention program" means a program authorized in any of the following sections:
 
 &emsp;(1) section 50001; <sup>1</sup>
 
@@ -156,7 +156,7 @@ This Act, referred to in subsecs. (a) to (c), is Pub. L. 103–322, Sept. 13, 19
 
 Section 190001, referred to in subsec. (d), is section 190001 of Pub. L. 103–322, 108 Stat. 2048, which is not classified to the Code.
 
-Section 130002, referred to in subsec. (d), is section 130002 of Pub. L. 103–322, 108 Stat. 2023, which is set out as a note under section 1226 of Title 8, Aliens and Nationality.
+Section 130002, referred to in subsec. (d), is section 130002 of Pub. L. 103–322, 108 Stat. 2023, which is set outas a note under section 1226 of Title 8, Aliens and Nationality.
 
 Section 130005, referred to in subsec. (d), is section 130005 of Pub. L. 103–322, 108 Stat. 2028, which amended section 1158 of Title 8 and enacted provisions set out as a note under section 1158 of Title 8.
 
@@ -216,17 +216,17 @@ Section 40231, referred to in subsec. (d), is section 40231 of Pub. L. 103–322
 
 Section 10417 of this title, referred to in subsec. (d), was repealed by Pub. L. 108–36, title IV, §412, June 25, 2003, 117 Stat. 829.
 
-Section 40601, referred to in subsec. (d), is section 40601 of Pub. L. 103–322, 108 Stat. 1950, which amendedsection 534 of Title 28, Judiciary and Judicial Procedure, and enacted provisions set out as a note under section 534 of Title 28.
+Section 40601, referred to in subsec. (d), is section 40601 of Pub. L. 103–322, 108 Stat. 1950, which amended section 534 of Title 28, Judiciary and Judicial Procedure, and enacted provisions set out as a note under section 534 of Title 28.
 
-Section 14181 of this title, referred to in subsec. (d), was in the original “section 24001” and was translated as reading “section 240001”, meaning section 240001 of Pub. L. 103–322, to reflect the probable intent of Congress, because Pub. L. 103–322 does not contain a section 24001.
+Section 14181 of this title, referred to in subsec. (d), was in the original "section 24001" and was translated as reading "section 240001", meaning section 240001 of Pub. L. 103–322, to reflect the probable intent of Congress, because Pub. L. 103–322 does not contain a section 24001.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(20). Pub. L. 111–320, §202(e)(1), substituted “section 10413 of this title (relating to a hotline)” for “section 10416 of this title”.
+<b>2010</b>—Subsec. (d)(20). Pub. L. 111–320, §202(e)(1), substituted "section 10413 of this title (relating to a hotline)" for "section 10416 of this title".
 
-Subsec. (d)(22). Pub. L. 111–320, §202(e)(2), substituted “sections 10401 through 10412 of this title” for “section 40241”.
+Subsec. (d)(22). Pub. L. 111–320, §202(e)(2), substituted "sections 10401 through 10412 of this title" for "section 40241".
 
-Subsec. (d)(24). Pub. L. 111–320, §202(e)(3), substituted “section 10414 of this title (relating to community projects to prevent family violence, domestic violence, and dating violence)” for “section 10418 of this title”.
+Subsec. (d)(24). Pub. L. 111–320, §202(e)(3), substituted "section 10414 of this title (relating to community projects to prevent family violence, domestic violence, and dating violence)" for "section 10418 of this title".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

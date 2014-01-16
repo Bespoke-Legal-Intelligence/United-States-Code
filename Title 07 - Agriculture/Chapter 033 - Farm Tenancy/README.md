@@ -35,7 +35,7 @@
 | [1012\.](Subchapter%20003%20%28III%29%20-%20Land%20Conservation%20and%20Land%20Utilization/%C2%A7%2001012%20-%20Payments%20to%20counties.md) | Payments to counties. |
 | [1012a.](Subchapter%20003%20%28III%29%20-%20Land%20Conservation%20and%20Land%20Utilization/%C2%A7%2001012a%20-%20Townsites.md) | Townsites. |
 | [1013\.](Subchapter%20003%20%28III%29%20-%20Land%20Conservation%20and%20Land%20Utilization/%C2%A7%2001013%20-%20Omitted.md) | Omitted. |
-| [1013a.](Subchapter%20003%20%28III%29%20-%20Land%20Conservation%20and%20Land%20Utilization/%C2%A7%2001013a%20-%20Benefits%20extended%20to%20Puerto%20Rico%20and%20Virgin%20Islands%3B%20%E2%80%9Ccounty%E2%80%9D%20defined%3B%20payments%20to%20Governor%20or%20fiscal%20agent%20of%20county.md) | Benefits extended to Puerto Rico and Virgin Islands; “county” defined; payments to Governor or fiscal agent of county. |
+| [1013a.](Subchapter%20003%20%28III%29%20-%20Land%20Conservation%20and%20Land%20Utilization/%C2%A7%2001013a%20-%20Benefits%20extended%20to%20Puerto%20Rico%20and%20Virgin%20Islands%3B%20county%20defined%3B%20payments%20to%20Governor%20or%20fiscal%20agent%20of%20county.md) | Benefits extended to Puerto Rico and Virgin Islands; "county" defined; payments to Governor or fiscal agent of county. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -55,7 +55,7 @@
 | [1037\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001037%20-%20Sale%20of%20reserved%20mineral%20interests%3B%20disposition%20of%20proceeds.md) | Sale of reserved mineral interests; disposition of proceeds. |
 | [1038\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001038%20-%20Regulations%3B%20delegations%20of%20authority.md) | Regulations; delegations of authority. |
 | [1039\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001039%20-%20Time%20for%20filing%20purchase%20applications.md) | Time for filing purchase applications. |
-| [1040\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001040%20-%20Farmers%E2%80%99%20Home%20Administration%20funds%20account.md) | Farmers’ Home Administration funds account. |
+| [1040\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001040%20-%20Farmers%27%20Home%20Administration%20funds%20account.md) | Farmers' Home Administration funds account. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -46,7 +46,7 @@ An inspection, test, or other action taken by a Team under this section shall be
 
 #### (2) National Transportation Safety Board
 
-&emsp;If the National Transportation Safety Board is conducting an investigation related to an investigation of a Team, the National Transportation Safety Board investigation shall have priority over the Team investigation. Such priority shall not otherwise affect the authority of the Team to continue its investigation under this chapter.
+&emsp;If the National Transportation Safety Board is conducting an investigation related to aninvestigation of a Team, the National Transportation Safety Board investigation shall have priority over the Team investigation. Such priority shall not otherwise affect the authority of the Team to continue its investigation under this chapter.
 
 #### (3) Criminal acts
 
@@ -57,4 +57,8 @@ An inspection, test, or other action taken by a Team under this section shall be
 &emsp;If a Federal law enforcement agency suspects and notifies the Director that a building failure being investigated by a Team under this chapter may have been caused by a criminal act, the Team, in consultation with the Federal law enforcement agency, shall take necessary actions to ensure that evidence of the criminal act is preserved.
 
 (Pub. L. 107–231, §4, Oct. 1, 2002, 116 Stat. 1472.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (d)(2) to (4), was in the original "this Act", meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
 

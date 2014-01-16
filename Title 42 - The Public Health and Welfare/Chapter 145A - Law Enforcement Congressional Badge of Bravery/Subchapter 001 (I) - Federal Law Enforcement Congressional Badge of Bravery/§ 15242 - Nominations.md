@@ -16,7 +16,7 @@ A Federal agency head may nominate for a Federal Law Enforcement Badge an indivi
 
 &emsp;&emsp;(ii) put the individual at personal risk when the injury described in clause (i) occurred; or
 
-&emsp;&emsp;(B) while not injured, performed an act characterized as bravery by the Federal agency head making the nomination that placed the individual at risk of serious physical injury or death.
+&emsp;&emsp;(B) while not injured, performed an act characterized as bravery by the Federal agency head making the nomination thatplaced the individual at risk of serious physical injury or death.
 
 #### (b) Contents
 

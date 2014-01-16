@@ -2,7 +2,7 @@
 
 #### (a) Approval of projects; rules and regulations
 
-In order to help retired individuals and working older individuals to share their experiences, abilities, and skills to improve their communities and themselves through service in theircommunities, the Director is authorized to make grants to State agencies (established or designated pursuant to section 3025(a)(1) of this title) or grants to or contracts with other public and nonprofit private agencies and organizations to pay part or all of the costs for the development or operation, or both, of volunteer service projects under this section, if the Director determines, in accordance with regulations the Director shall prescribe, that—
+In order to help retired individuals and working older individuals to share their experiences, abilities, and skills to improve their communities and themselves through service in their communities, the Director is authorized to make grants to State agencies (established or designated pursuant to section 3025(a)(1) of this title) or grants to or contracts with other public and nonprofit private agencies and organizations to pay part or all of the costs for the development or operation, or both, of volunteer service projects under this section, if the Director determines, in accordance with regulations the Director shall prescribe, that—
 
 &emsp;(1) volunteers will not be reimbursed for other than transportation, meals, and other out-of-pocket expenses incident to the provision of services under this part;
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, volunteer service under this part sh
 
 #### (f) Evaluation process
 
-(1) Notwithstanding section 5052 of this title, and effective beginning 180 days after April 21, 2009, each grant or contract under this section that expires in fiscal year 2011, 2012, or 2013 shallbe subject to an evaluation process conducted by a review team described in paragraph (4). The evaluation process shall be carried out, to the maximum extent practicable, in fiscal year 2010, 2011, and 2012, respectively.
+(1) Notwithstanding section 5052 of this title, and effective beginning 180 days after April 21, 2009, each grant or contract under this section that expires in fiscal year 2011, 2012, or 2013 shall be subject to an evaluation process conducted by a review team described in paragraph (4). The evaluation process shall be carried out, to the maximum extent practicable, in fiscal year 2010, 2011, and 2012, respectively.
 
 (2) The Corporation shall promulgate regulations establishing the evaluation process required under paragraph (1), and make such regulations available to the public, not later than 18 months after April 21, 2009. The Corporation shall consult with the directors of programs receiving grants under this section during the development and implementation of the evaluation process.
 
@@ -132,29 +132,29 @@ The Corporation shall develop and disseminate an online resource guide for progr
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–13, §2143(1)(A), substituted “share their experiences, abilities, and skills to improve their communities and themselves through service in their communities,” for “avail themselves of opportunities for volunteer service in their community,” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §2143(1)(A), substituted "share their experiences, abilities, and skills to improve their communities and themselves through service in their communities," for "avail themselves of opportunities for volunteer service in their community," in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 111–13, §2143(1)(B), struck out “, and individuals 60 years of age or older will be given priority for enrollment,” before “as volunteers”.
+Subsec. (a)(2). Pub. L. 111–13, §2143(1)(B), struck out ", and individuals 60 years of age or older will be given priority for enrollment," before "as volunteers".
 
-Subsec. (a)(4). Pub. L. 111–13, §2143(1)(C), substituted “designed and implemented” for “established and will be carried out” and “field of service to be provided, as well as persons who have expertise in the management of volunteers and the needs of older individuals.” for “field of service involved, and of persons with interest in and knowledge of the needs of older persons.”
+Subsec. (a)(4). Pub. L. 111–13, §2143(1)(C), substituted "designed and implemented" for "established and will be carried out" and "field of service to be provided, as well as persons who have expertise in the management of volunteers and the needs of older individuals." for "field of service involved, and of persons with interest in and knowledge of the needs of older persons."
 
 Subsecs. (e) to (j). Pub. L. 111–13, §2143(2), added subsecs. (e) to (j).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–82, §343(1), substituted “retired individuals and working older individuals” for “retired persons” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §343(1), substituted "retired individuals and working older individuals" for "retired persons" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 103–82, §343(2), substituted “55 years of age or older” for “aged sixty or over” and inserted “, and individuals 60 years of age or older will be given priority for enrollment,” after “will be enrolled”.
+Subsec. (a)(2). Pub. L. 103–82, §343(2), substituted "55 years of age or older" for "aged sixty or over" and inserted ", and individuals 60 years of age or older will be given priority for enrollment," after "will be enrolled".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–204, §902(2)(A), substituted “projects” for “programs” in introductory provisions.
+<b>1989</b>—Subsec. (a). Pub. L. 101–204, §902(2)(A), substituted "projects" for "programs" in introductory provisions.
 
-Subsec. (a)(3), (4). Pub. L. 101–204, §902(2)(B), substituted “project” for “program”.
+Subsec. (a)(3), (4). Pub. L. 101–204, §902(2)(B), substituted "project" for "program".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–288, §14(a), substituted “the Director” for “he” in two places in provisions before par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–288, §14(a), substituted "the Director" for "he" in two places in provisions before par. (1).
 
-Subsec. (b). Pub. L. 98–288, §14(b), substituted “and 30 per centum in any subsequent such years” for “30 per centum in the third such year, 40 per centum in the fourth such year, and 50 per centum in any subsequent such years”.
+Subsec. (b). Pub. L. 98–288, §14(b), substituted "and 30 per centum in any subsequent such years" for "30 per centum in the third such year, 40 per centum in the fourth such year, and 50 per centum in any subsequent such years".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–478, §402(a)(1), substituted reference to section “3025(a)(1)” for “3024(a)(1)” of this title.
+<b>1978</b>—Subsec. (a). Pub. L. 95–478, §402(a)(1), substituted reference to section "3025(a)(1)" for "3024(a)(1)" of this title.
 
-Subsec. (c). Pub. L. 95–478, §402(a)(1), (2), substituted reference to section “3025(a)(1)” for “3024(a)(1)” of this title and decreased period for review to “forty-five” from “sixty” days.
+Subsec. (c). Pub. L. 95–478, §402(a)(1), (2), substituted reference to section "3025(a)(1)" for "3024(a)(1)" of this title and decreased period for review to "forty-five" from "sixty" days.
 
 Subsec. (d). Pub. L. 95–478, §402(a)(3), added subsec. (d).
 
@@ -176,25 +176,25 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 
 Pub. L. 94–135, title II, §205(c), Nov. 28, 1975, 89 Stat. 727, as amended by Pub. L. 103–82, title III, §341(b)(4), title IV, §405(i), Sept. 21, 1993, 107 Stat. 904, 921, provided that:
 
-“(1) In order to provide maximum coordination between programs carried out under title III and title VII of the Older Americans Act of 1965 (42 U.S.C. 3021 et seq.; 42 U.S.C. 3045 et seq.) and National Senior Volunteer Corps \[now National Senior Service Corps\] programs carried out under title II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 5001 et seq.) \[42 U.S.C. 5000 et seq.\], in order to enhance the effectiveness of the support provided to such National Senior Volunteer Corps programs by the Corporation for National and Community Service, the Chief Executive Officer of the Corporation shall designate an aging resource specialist with respect to programs carried out in each State under title II of the Domestic Volunteer Service Act of 1973 \[this subchapter\].
+"(1) In order to provide maximum coordination between programs carried out under title III and title VII of the Older Americans Act of 1965 (42 U.S.C. 3021 et seq.; 42 U.S.C. 3045 et seq.) and National Senior Volunteer Corps \[now National Senior Service Corps\] programs carried out under title II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 5001 et seq.) \[42 U.S.C. 5000 et seq.\], in order to enhance the effectiveness of the support provided to such National Senior Volunteer Corps programs by the Corporation for National and Community Service, the Chief Executive Officer of the Corporation shall designate an aging resource specialist with respect to programs carried out in each State under title II of the Domestic Volunteer Service Act of 1973 \[this subchapter\].
 
-“(2)(A) Each aging resource specialist designated under paragraph (1) shall be qualified to serve in such capacity by appropriate experience and training, and shall be stationed in a State office of the Corporation.
+"(2)(A) Each aging resource specialist designated under paragraph (1) shall be qualified to serve in suchcapacity by appropriate experience and training, and shall be stationed in a State office of the Corporation.
 
-“(B) The primary responsibility of each aging resource specialist shall be—
+"(B) The primary responsibility of each aging resource specialist shall be—
 
-&emsp;“(i) to support programs carried out under title II of the Domestic Volunteer Service Act of 1973 \[this subchapter\] in any State or other jurisdiction served by the State office involved; and
+&emsp;"(i) to support programs carried out under title II of the Domestic Volunteer Service Act of 1973 \[this subchapter\] in any State or other jurisdiction served by the State office involved; and
 
-&emsp;“(ii) to seek to coordinate such programs with programs carried out under title III and title VII of the Older Americans Act of 1965 \[sections 3021 et seq. and 3045 et seq. of this title\] in any such State or other jurisdiction.
+&emsp;"(ii) to seek to coordinate such programs with programs carried out under title III and title VII of the Older Americans Act of 1965 \[sections 3021 et seq. and 3045 et seq. of this title\] in any such State or other jurisdiction.
 
-“(3) For purposes of this subsection—
+"(3) For purposes of this subsection—
 
-&emsp;“(A) the term ‘Corporation’ means the Corporation for National and Community Service established by section 191 of the National and Community Service Act of 1990 \[42 U.S.C. 12651\].\[;\]
+&emsp;"(A) the term 'Corporation' means the Corporation for National and Community Service established by section 191 of the National and Community Service Act of 1990 \[42 U.S.C. 12651\].\[;\]
 
-&emsp;“(B) the term ‘primary responsibility’ means the devotion of more than one-half of regular working hours to the performance of duties described in paragraph (2)(B); and
+&emsp;"(B) the term 'primary responsibility' means the devotion of more than one-half of regular working hours to the performance of duties described in paragraph (2)(B); and
 
-&emsp;“(C) the term ‘State’ means the several States, the District of Columbia, the Virgin Islands, Puerto Rico, Guam, American Samoa, and the Trust Territory of the Pacific Islands.”
+&emsp;"(C) the term 'State' means the several States, the District of Columbia, the Virgin Islands, Puerto Rico, Guam, American Samoa, and the Trust Territory of the Pacific Islands."
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be “performance”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "performance".</i>
 

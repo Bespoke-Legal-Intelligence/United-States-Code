@@ -20,49 +20,49 @@
 
 &emsp;(E) the dissemination of information.
 
-(2) For purposes of paragraph (1), the term “training” does not include research training for which Ruth L. Kirschstein National Research Service Awards may be provided under section 288 of this title.
+(2) For purposes of paragraph (1), the term "training" does not include research training for which Ruth L. Kirschstein National Research Service Awards may be provided under section 288 of this title.
 
 #### (c) Support period; additional periods
 
 Support of a center under subsection (a) of this section may be for a period of not to exceed five years. Such period may be extended by the Director for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
-(July 1, 1944, ch. 373, title IV, §445, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 855; amendedPub. L. 101–557, title II, §201, Nov. 15, 1990, 104 Stat. 2767; Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874.)
+(July 1, 1944, ch. 373, title IV, §445, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 855; amended Pub. L. 101–557, title II, §201, Nov. 15, 1990, 104 Stat. 2767; Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874.)
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–206 substituted "Ruth L. Kirschstein National Research Service Awards" for "National Research Service Awards".
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–557, §201(1), inserted “(including university medical centers)” after “nonprofit entities”, “(including staffing)” after “operating support”, and “(including multidisciplinary research)” after “clinical research” and substituted “Alzheimer's disease” for “Alzheimer's Disease”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–557, §201(1), inserted "(including university medical centers)" after "nonprofit entities", "(including staffing)" after "operating support", and "(including multidisciplinary research)" after "clinical research" and substituted "Alzheimer's disease" for "Alzheimer's Disease".
 
-Subsec. (b). Pub. L. 101–557, §201(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Federal payments made under a cooperative agreement or grant under subsection (a) of this section may be used for—
+Subsec. (b). Pub. L. 101–557, §201(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Federal payments made under a cooperative agreement or grant under subsection (a) of this section may be used for—
 
-&emsp;“(1) construction (notwithstanding any limitation under section 289e of this title);
+&emsp;"(1) construction (notwithstanding any limitation under section 289e of this title);
 
-&emsp;“(2) staffing and other basic operating costs, including such patient care costs as are required for research;
+&emsp;"(2) staffing and other basic operating costs, including such patient care costs as are required for research;
 
-&emsp;“(3) training, including training for allied health professionals; and
+&emsp;"(3) training, including training for allied health professionals; and
 
-&emsp;“(4) demonstration purposes.
+&emsp;"(4) demonstration purposes.
 
-> As used in this subsection, the term ‘construction’ does not include the acquisition of land, and the term ‘training’ does not include research training for which National Research Service Awards may be provided under section 288 of this title.”
+> As used in this subsection, the term 'construction' does not include the acquisition of land, and the term 'training' does not include research training for which National Research Service Awards may be provided under section 288 of this title."
 
 #### Alzheimer's Disease Research
 
 Pub. L. 100–175, title III, Nov. 29, 1987, 101 Stat. 972, provided that:
 
-#### “SEC. 301. REQUIREMENT FOR CLINICAL TRIALS.
+#### "SEC. 301. REQUIREMENT FOR CLINICAL TRIALS.
 
-“(a)
+"(a)
 
 In General.—The Director of the National Institute on Aging shall provide for the conduct of clinical trials on the efficacy of the use of such promising therapeutic agents as have been or may be discovered and recommended for further scientific analysis by the National Institute on Aging and the Food and Drug Administration to treat individuals with Alzheimer's disease, to retard the progression of symptoms of Alzheimer's disease, or to improve the functioning of individuals with such disease.
 
-“(b)
+"(b)
 
 Rule of Construction.—Nothing in this title shall be construed to affect adversely any research being conducted as of the date of the enactment of this Act \[Nov. 29, 1987\].
 
-#### “SEC. 302. AUTHORIZATION OF APPROPRIATIONS.
+#### "SEC. 302. AUTHORIZATION OF APPROPRIATIONS.
 
-“For the purpose of carrying out section 301, there is authorized to be appropriated $2,000,000 for fiscal year 1988.”
+"For the purpose of carrying out section 301, there is authorized to be appropriated $2,000,000 for fiscal year 1988."
 
 #### Alzheimer's Disease Registry
 

@@ -10,9 +10,9 @@ It is the purpose of this section to—
 
 #### (b) Drawing copy, availability; boundary revisions: notification of Congressional committees, publication in Federal Register; abolition and transfer of Sequoia National Game Refuge to administrative jurisdiction of Secretary
 
-(1) In order to add to the Sequoia National Park (hereinafter in this section referred to as the “park”) a certain area known as Mineral King Valley possessing unique natural and scenic values, there is hereby established as part of such park all lands, waters, and interests therein, constituting approximately sixteen thousand two hundred acres designated before November 10, 1978, as the Sequoia National Game Refuge and as depicted on the drawing entitled “Boundary Map, Sequoia-Kings Canyon National Park”, numbered 102–90,000 and dated April 1975. A copy of such drawing shall be on file and available for public inspection in the office of the Director, National Park Service, Department of the Interior. After advising the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate in writing, the Secretary is authorized to make minor revisions of the boundaries of the park when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+(1) In order to add to the Sequoia National Park (hereinafter in this section referred to as the "park") a certain area known as Mineral King Valley possessing unique natural and scenic values, there is hereby established as part of such park all lands, waters, and interests therein, constituting approximately sixteen thousand two hundred acres designated before November 10, 1978, as the Sequoia National Game Refuge and as depicted on the drawing entitled "Boundary Map, Sequoia-Kings Canyon National Park", numbered 102–90,000 and dated April 1975. A copy of such drawing shall be on file and available for public inspection in the office of the Director, National Park Service, Department of the Interior. After advising the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate in writing, the Secretary is authorized to make minor revisions of the boundaries of the park when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
-(2) The Sequoia National Game Refuge is hereby abolished and the Secretary of Agricultureshall transfer, without consideration, to the administrative jurisdiction of the Secretary, the area constituting such refuge, and any unexpended funds available for purposes of management of the refuge shall be available for purposes of management of the park.
+(2) The Sequoia National Game Refuge is hereby abolished and the Secretary of Agriculture shall transfer, without consideration, to the administrative jurisdiction of the Secretary, the area constituting such refuge, and any unexpended funds available for purposes of management of the refuge shall be available for purposes of management of the park.
 
 #### (c) Acquisition of property; place and manner; owner's right of use and occupancy for fixed term of years or life; election of term; fair market value; termination; notification; incompatible commercial uses; unitary parcels; access road, right-of-way, and protective measures; hardship sale offers; limitation of authority; State donated lands; report to Congressional committees
 
@@ -42,7 +42,7 @@ It is the purpose of this section to—
 
 (1) The area added to the park by this section shall be administered in accordance with this section and the provisions of law generally applicable to units of the National Park System including sections 1, 2, 3, 4, 41, and 43 of this title. Any other statutory authority available to the Secretary for the conservation and management of wildlife, wildlife habitat, and natural resources may be utilized to the extent he finds such authority will further the purposes of this section.
 
-(2)(A) Except in the case of a lease or permit which the Secretary determines to be incompatible with the administration of the park pursuant to this section, any lease or permit on Federal land within the area added to the park under this section which is in effect immediately before November 10, 1978, shall continue in effect pursuant to its terms and conditions following the expansion of the park under this section.
+(2)(A) Except in the case of a lease or permit which the Secretary determines to be incompatible with the administration of the park pursuant to this section, any lease or permit on Federal land within the area added to the park under this section which is in effect immediately before November 10, 1978, shall continue in effect pursuant to its terms and conditionsfollowing the expansion of the park under this section.
 
 (B) In the case of a lease or permit which is continued under subparagraph (A), upon notice to the Secretary by the lessee or permittee of his intention to seek renewal or extension of such lease or permit, the lease or permit shall be reviewed by the Secretary, and may be renewed or extended for an additional period of five years. Any such lease or permit shall be reviewed at the end of such renewal or extension period and may also be renewed or extended in the same manner for additional five-year periods thereafter. Any renewals or extensions of leases or permits shall be granted only to those persons who were lessees or permittees of record on November 10, 1978, and to their heirs, successors, and assigns, and any such lease or permit shall provide that the lease or permit may be terminated by the Secretary at any time if the Secretary determines that such lease or permit is incompatible with the administration of the park pursuant to this section or that the land is needed for park purposes.
 
@@ -82,17 +82,17 @@ Section is comprised of section 314 of Pub. L. 95–625. Subsec. (d)(3) of secti
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(2). Pub. L. 108–447, §139(b)(1), struck out second sentence which read as follows: “Such rights of use and occupancy shall be for not more than twenty-five years or for a term ending at the death of the owner or his or her spouse, whichever is later.”
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–447, §139(b)(1), struck out second sentence which read as follows: "Such rights of use and occupancy shall be for not more than twenty-five years or for a term ending at the death of the owner or his or her spouse, whichever is later."
 
-Subsec. (d)(2)(B). Pub. L. 108–447, §139(b)(2), inserted “and to their heirs, successors, and assigns” after “of record on November 10, 1978,” in third sentence.
+Subsec. (d)(2)(B). Pub. L. 108–447, §139(b)(2), inserted "and to their heirs, successors, and assigns" after "of record on November 10, 1978," in third sentence.
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee onNatural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
 

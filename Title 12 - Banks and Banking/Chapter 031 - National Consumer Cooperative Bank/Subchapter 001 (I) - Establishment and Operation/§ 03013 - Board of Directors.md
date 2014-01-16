@@ -2,7 +2,7 @@
 
 #### (a) Composition; term of office; removal by President
 
-The Bank shall be governed by a Board of Directors (hereinafter in this chapter referred to as the “Board”) which shall consist of 15 members. All members shall serve for a term of 3years. After the expiration of the term of any member, such member may continue to serve until his successor has been elected or has been appointed and qualified. Any member appointed by the President may be removed for cause by the President.
+The Bank shall be governed by a Board of Directors (hereinafter in this chapter referred to as the "Board") which shall consist of 15 members. All members shall serve for a term of 3 years. After the expiration of the term of any member, such member may continue to serve until his successor has been elected or has been appointed and qualified. Any member appointed by the President may be removed for cause by the President.
 
 #### (b) Appointment by President; election by stockholders
 
@@ -50,7 +50,7 @@ The Board shall annually elect from among its members a chairman and vice chairm
 
 #### (g) Conduct of meetings; rules governing
 
-The Board shall meet at least quarterly. Its meeting shall be open to members or representatives of all eligible cooperatives and other eligible organizations, as observers only, and to persons or representatives of groups who identify their interest in the Bank and who are invited to attend a meeting, subject to such rules as the Board may establish for the conduct of such meetings. Those rules shall include the manner of giving notice of meetings, the procedure for the conduct of meetings, the manner of submitting topics for the agenda, the allocation of time of presentations, and debate. The chairman, when sustained by the majority of the Board present, may adjourn the open meeting into an executive session on motion of the chairman, any Board member, or at the request of any applicant, borrower, officer, or employee when the matter under discussion involves an application, a loan, a personnel action, or other matter which might tend to impinge on the right of privacy of any person.
+The Board shall meet at least quarterly. Its meeting shall be open to members or representatives of all eligible cooperatives and other eligible organizations, as observers only, and to persons or representatives of groups who identify their interest in the Bank and who are invited to attend a meeting, subject to such rules as the Board may establish for the conduct of such meetings. Those rules shall include the manner of giving notice of meetings, the procedure for the conduct of meetings, the manner of submitting topics for the agenda, the allocation of time of presentations, and debate. The chairman, when sustained by the majority of the Board present, may adjourn the open meeting into an executive session on motion of the chairman, any Board member, or at the request of any applicant, borrower, officer, or employee when the matter under discussion involves an application, a loan, a personnel action, or other matterwhich might tend to impinge on the right of privacy of any person.
 
 #### (h) Compensation and expenses
 
@@ -74,17 +74,17 @@ Subsec. (d). Pub. L. 97–35, §393(a), substituted provisions relating to nomin
 
 Subsec. (h). Pub. L. 97–35, §393(b), inserted provisions relating to compensation of members elected by holders of class B and C stock, and provisions relating to payment of compensation and expenses by the Bank, and substituted provisions relating to members appointed under subsec. (b)(1)(C) of this section, for provisions relating to Final Government Equity Redemption Date, and members elected by holders of class B and C stock.
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–149, §1(a), inserted provisions respecting appointment of a member from among proprietors of small business concerns, and substituted “fifteen” for “thirteen”, “eight” for “seven”, and “this section” for “this section 104”, which for purposes of codification had been editorially translated as “section 3014 of this title”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–149, §1(a), inserted provisions respecting appointment of a member from among proprietors of small business concerns, and substituted "fifteen" for "thirteen", "eight" for "seven", and "this section" for "this section 104", which for purposes of codification had been editorially translated as "section 3014 of this title".
 
-Subsec. (b). Pub. L. 96–149, §1(b), substituted provisions respecting criteria for resignations of initial two additional Board members and the additional Board member, for provisions respecting criteria for resignation of an additional Board member, and substituted “Five of the” for “Five”.
+Subsec. (b). Pub. L. 96–149, §1(b), substituted provisions respecting criteria for resignations of initial two additional Board members and the additional Board member, for provisions respecting criteria for resignation of an additional Board member, and substituted "Five of the" for "Five".
 
-Subsec. (d). Pub. L. 96–149, §1(c), substituted “five of the” for “all five”.
+Subsec. (d). Pub. L. 96–149, §1(c), substituted "five of the" for "all five".
 
 Subsec. (h). Pub. L. 96–149, §1(d), inserted provisions relating to Board member appointed from among proprietors of small businesses.
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title III, §393(c), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, §393(c), Aug. 13, 1981, 95 Stat. 436, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\]." For definition of "Final Government Equity Redemption Date", see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

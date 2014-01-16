@@ -10,15 +10,15 @@ Notwithstanding section 302 of this title, and where adequate competition exists
 
 #### (b) Exception
 
-Subsection (a) of this section shall not apply with respect to any diplomatic construction or design project in a foreign country whose statutes prohibit the use of United States contractors on such projects. The exception contained in this subsection shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specific actions he has taken to urge such foreign country to permit the use of United States contractors on such projects, and what actions he shall take with respect to that country as authorized by title II of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4301 et seq.; commonly referred to as the “Foreign Missions Act”).
+Subsection (a) of this section shall not apply with respect to any diplomatic construction or design project in a foreign country whose statutes prohibit the use of United States contractors on such projects. The exception contained in this subsection shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specific actions he has taken to urge such foreign country to permit the use of United States contractors on such projects, and what actions he shall take with respect to that country as authorized by title II of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4301 et seq.; commonly referred to as the "Foreign Missions Act").
 
 #### (c) Definitions
 
 For the purposes of this section—
 
-&emsp;(1) the term “adequate competition” means with respect to a construction or design project, the presence of two or more qualified bidders submitting responsive bids for that project;
+&emsp;(1) the term "adequate competition" means with respect to a construction or design project, the presence of two or more qualified bidders submitting responsive bids for that project;
 
-&emsp;(2) the term “United States person” means a person which—
+&emsp;(2) the term "United States person" means a person which—
 
 &emsp;&emsp;(A) is incorporated or legally organized under the laws of the United States, including State, the District of Columbia, and local laws;
 
@@ -42,7 +42,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(G) has the existing technical and financial resources in the United States to perform the contract; and
 
-&emsp;(3) the term “qualified United States joint venture person” means a joint venture in which a United States person or persons owns at least 51 percent of the assets of the joint venture.
+&emsp;(3) the term "qualified United States joint venture person" means a joint venture in which a United States person or persons owns at least 51 percent of the assets of the joint venture.
 
 #### (d) American minority contractors
 
@@ -64,21 +64,21 @@ Title II of the State Department Basic Authorities Act of 1956, referred to in s
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c)(2)(D). Pub. L. 107–228 inserted “or at a United States diplomatic or consular establishment abroad” after “United States”.
+<b>2002</b>—Subsec. (c)(2)(D). Pub. L. 107–228 inserted "or at a United States diplomatic or consular establishment abroad" after "United States".
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–236 substituted “Secretary of State” for “Assistant Secretary for Diplomatic Security”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–236 substituted "Secretary of State" for "Assistant Secretary for Diplomatic Security".
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–138, §131(1), substituted “$10,000,000” for “$5,000,000”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–138, §131(1), substituted "$10,000,000" for "$5,000,000".
 
-Subsec. (a)(2). Pub. L. 102–138, §131(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “bid on a diplomatic construction or design project which involves physical or technical security, unless the project—
+Subsec. (a)(2). Pub. L. 102–138, §131(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "bid on a diplomatic construction or design project which involves physical or technical security, unless the project—
 
-&emsp;“(A) involves nonsophisticated, low-level technology, as determined by the Assistant Secretary for Diplomatic Security;
+&emsp;"(A) involves nonsophisticated, low-level technology, as determined by the Assistant Secretary for Diplomatic Security;
 
-&emsp;“(B) is for the design or construction of a facility that does not process or store classified material; and
+&emsp;"(B) is for the design or construction of a facility that does not process or store classified material; and
 
-&emsp;“(C) does not exceed a total value of $500,000.”
+&emsp;"(C) does not exceed a total value of $500,000."
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–246 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “bid on a diplomatic construction or design project which involves physical or technical security.”
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–246 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "bid on a diplomatic construction or design project which involves physical or technical security."
 
 #### Effective Date of 1994 Amendment
 
@@ -86,5 +86,5 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 #### Construction of United States Embassy in Ottawa
 
-Pub. L. 101–246, title I, §125, Feb. 16, 1990, 104 Stat. 27, provided that: “Section 402(a) of the Diplomatic Security Act (22 U.S.C. 4852(a)) shall not apply to the construction or renovation of the United States Embassy in Ottawa, Canada.”
+Pub. L. 101–246, title I, §125, Feb. 16, 1990, 104 Stat. 27, provided that: "Section 402(a) of the Diplomatic Security Act (22 U.S.C. 4852(a)) shall not apply to the construction or renovation of the United States Embassy in Ottawa, Canada."
 

@@ -118,7 +118,7 @@ If, during the term of a contract entered into under this subpart, an owner or o
 
 #### (1) Duties of the Secretary
 
-&emsp;In the case of a contract modification approved in order to facilitate the transfer, as described in subsection (c)(1)(B)(iii), of land to a beginning farmer or rancher or socially disadvantaged farmer or rancher (in this subsection referred to as a “covered farmer or rancher”), the Secretary shall—
+&emsp;In the case of a contract modification approved in order to facilitate the transfer, as described in subsection (c)(1)(B)(iii), of land to a beginning farmer or rancher or socially disadvantaged farmer or rancher (in this subsection referred to as a "covered farmer or rancher"), the Secretary shall—
 
 &emsp;&emsp;(A) beginning on the date that is 1 year before the date of termination of the contract—
 
@@ -126,7 +126,7 @@ If, during the term of a contract entered into under this subpart, an owner or o
 
 &emsp;&emsp;&emsp;(ii) allow the covered farmer or rancher to begin the certification process under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.);
 
-&emsp;&emsp;(B) beginning on the date of termination of the contract, require the retired or retiring owner or operator to sell or lease (under a long-term lease or a lease with an option to purchase) to the covered farmer or rancher the land subject to the contract for production purposes;
+&emsp;&emsp;(B) beginning on the date of termination of the contract, require the retired or retiring owner or operator to sell or lease (under along-term lease or a lease with an option to purchase) to the covered farmer or rancher the land subject to the contract for production purposes;
 
 &emsp;&emsp;(C) require the covered farmer or rancher to develop and implement a conservation plan;
 
@@ -148,7 +148,7 @@ If, during the term of a contract entered into under this subpart, an owner or o
 
 The Organic Foods Production Act of 1990, referred to in subsec. (f)(1)(A)(ii), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
 
-Section 1308–1 of title 7, referred to in subsec. (f)(1)(E), was amended by Pub. L. 110–246, title I, §1603(d), June 18, 2008, 122 Stat. 1736, and, as so amended, no longer contains a subsec. (b)(3)(B) or provisions defining “family member”.
+Section 1308–1 of title 7, referred to in subsec. (f)(1)(E), was amended by Pub. L. 110–246, title I, §1603(d), June 18, 2008, 122 Stat. 1736, and, as so amended, no longer contains a subsec. (b)(3)(B) or provisions defining "family member".
 
 Section 3831 of this title, referred to in subsec. (f)(2)(A), was amended by Pub. L. 110–246, title II, §2106(a)(2), June 18, 2008, 122 Stat. 1759, and, as so amended, no longer contains a subsec. (h)(4)(B) or provisions relating to a continuous signup requirement.
 
@@ -172,7 +172,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Conservation Reserve
 
-Pub. L. 100–45, §10, May 27, 1987, 101 Stat. 323, provided that: “Section 1235(a) of the Food Security Act of 1985 \[16 U.S.C. 3835(a)\] should be reviewed by the Secretary of Agriculture to ensure that the provisions thereof relating to exceptions to the three-year ownership requirement with respect to eligibility for the conservation reserve are being implemented in a manner to encourage inclusion of producer-owned land in the conservation reserve. However, any such exception to the three-year requirement should be made only if the Secretary determines that the land involved (1) was not acquired for the purpose of placing the land in the conservation reserve or (2) otherwise meets the criteria for exceptions made under section 1235(a).”
+Pub. L. 100–45, §10, May 27, 1987, 101 Stat. 323, provided that: "Section 1235(a) of the Food Security Act of 1985 \[16 U.S.C. 3835(a)\] should be reviewed by the Secretary of Agriculture to ensure that the provisions thereof relating to exceptions to the three-year ownership requirement with respect to eligibility for the conservation reserve are being implemented in a manner to encourage inclusion of producer-owned land in the conservation reserve. However, any such exception to the three-year requirement should be made only if the Secretary determines that the land involved (1) was not acquired for the purpose of placing the land in the conservation reserve or (2) otherwise meets the criteria for exceptions made under section 1235(a)."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

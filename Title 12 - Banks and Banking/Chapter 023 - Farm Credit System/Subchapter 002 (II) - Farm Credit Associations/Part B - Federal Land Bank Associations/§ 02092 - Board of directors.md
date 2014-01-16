@@ -10,5 +10,5 @@ A prior section 2092, Pub. L. 92–181, title II, §2.11, Dec. 10, 1971, 85 Stat
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–237 substituted “stockholder, or agent” for “or stockholder”.
+<b>1991</b>—Pub. L. 102–237 substituted "stockholder, or agent" for "or stockholder".
 

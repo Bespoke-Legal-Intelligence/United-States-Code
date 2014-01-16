@@ -42,9 +42,9 @@ Beginning 30 months after November 8, 1984, any State may,<sup>1</sup> submit an
 
 (3) In any case where the owner or operator is in bankruptcy, reorganization, or arrangement pursuant to the Federal Bankruptcy Code or where with reasonable diligence jurisdiction in any State court of the Federal courts cannot be obtained over an owner or operator likely to be solvent at the time of judgment, any claim arising from conduct for which evidence of financial responsibility must be provided under this subsection may be asserted directly against the guarantor providing such evidence of financial responsibility. In the case of any action pursuant to this paragraph such guarantor shall be entitled to invoke all rights and defenses which would have been available to the owner or operator if any action had been brought against the owner or operator by the claimant and which would have been available to the guarantor if an action had been brought against the guarantor by the owner or operator.
 
-(4) The total liability of any guarantor shall be limited to the aggregate amount which the guarantor has provided as evidence of financialresponsibility to the owner or operator under this section. Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
+(4) The total liability of any guarantor shall be limited to the aggregate amount which the guarantor has provided as evidence of financial responsibility to the owner or operator under this section. Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
 
-(5) For the purpose of this subsection, the term “guarantor” means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this subsection.
+(5) For the purpose of this subsection, the term "guarantor" means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this subsection.
 
 (6)
 
@@ -126,7 +126,7 @@ The Federal Bankruptcy Code, referred to in subsec. (c)(3), probably means a ref
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–58, §1533(3), substituted “in subparagraph (A) or (B) of section 6991(7)” for “in 6991(2)(A) or (B) or both”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58, §1533(3), substituted "in subparagraph (A) or (B) of section 6991(7)" for "in 6991(2)(A) or (B) or both".
 
 Subsec. (a)(9). Pub. L. 109–58, §1524(b), added par. (9).
 
@@ -134,9 +134,9 @@ Subsec. (c)(6). Pub. L. 109–58, §1522(b), added par. (6).
 
 Subsec. (f). Pub. L. 109–58, §1522(a), added subsec. (f).
 
-<b>1986</b>—Subsec. (c)(1). Pub. L. 99–499, §205(e)(1), struck out “financed by fees on tank owners and operators and” after “compensation programs”.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–499, §205(e)(1), struck out "financed by fees on tank owners and operators and" after "compensation programs".
 
-Subsec. (c)(2). Pub. L. 99–499, §205(e)(2), struck out “or” after “letter of credit,” and inserted “or any other method satisfactory to the Administrator” and “including the amount of coverage required for various classes and categories of underground storage tanks pursuant to section 6991b(d)(5) of this title”.
+Subsec. (c)(2). Pub. L. 99–499, §205(e)(2), struck out "or" after "letter of credit," and inserted "or any other method satisfactory to the Administrator" and "including the amount of coverage required for various classes and categories of underground storage tanks pursuant to section 6991b(d)(5) of this title".
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

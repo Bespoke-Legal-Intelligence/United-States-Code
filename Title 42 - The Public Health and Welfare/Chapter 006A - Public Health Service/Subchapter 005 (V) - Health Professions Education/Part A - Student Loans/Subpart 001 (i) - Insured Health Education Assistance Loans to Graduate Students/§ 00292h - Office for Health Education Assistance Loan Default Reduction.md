@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish, within the Division of Student Assistance of the Bureau of Health Professions, an office to be known as the Office for Health Education Assistance Loan Default Reduction (in this section referred to as the “Office”).
+The Secretary shall establish, within the Division of Student Assistance of the Bureau of Health Professions, an office to be known as theOffice for Health Education Assistance Loan Default Reduction (in this section referred to as the "Office").
 
 #### (b) Purpose and functions
 
@@ -46,17 +46,17 @@ A prior section 709 of act July 1, 1944, was classified to section 292i of this 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–392 inserted “and” at end of par. (4)(B), substituted a period for “; and” at end of par. (5), and struck out par. (6) which read as follows: “prepare and submit a report not later than March 31, 1993, and annually, thereafter, to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives concerning—
+<b>1998</b>—Subsec. (b). Pub. L. 105–392 inserted "and" at end of par. (4)(B), substituted a period for "; and" at end of par. (5), and struck out par. (6) which read as follows: "prepare and submit a report not later than March 31, 1993, and annually, thereafter, to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives concerning—
 
-&emsp;“(A) the default rates for each—
+&emsp;"(A) the default rates for each—
 
-&emsp;&emsp;“(i) institution described in section 292o(1) of this title that is participating in the loan programs under this subpart;
+&emsp;&emsp;"(i) institution described in section 292o(1) of this title that is participating in the loan programs under this subpart;
 
-&emsp;&emsp;“(ii) lender participating in the loan program under this subpart; and
+&emsp;&emsp;"(ii) lender participating in the loan program under this subpart; and
 
-&emsp;&emsp;“(iii) loan holder under this subpart;
+&emsp;&emsp;"(iii) loan holder under this subpart;
 
-&emsp;“(B) the total amounts recovered pursuant to section 292f(b) of this title during the preceding fiscal year; and
+&emsp;"(B) the total amounts recovered pursuant to section 292f(b) of this title during the preceding fiscal year; and
 
-&emsp;“(C) a plan for improving the extent of such recoveries during the current fiscal year.”
+&emsp;"(C) a plan for improving the extent of such recoveries during the current fiscal year."
 

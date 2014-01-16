@@ -22,7 +22,7 @@
 | [1757a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001757a%20-%20Limitation%20on%20member%20business%20loans.md) | Limitation on member business loans. |
 | [1758\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001758%20-%20Bylaws.md) | Bylaws. |
 | [1759\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001759%20-%20Membership.md) | Membership. |
-| [1760\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001760%20-%20Members%E2%80%99%20meetings.md) | Members’ meetings. |
+| [1760\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001760%20-%20Members%27%20meetings.md) | Members' meetings. |
 | [1761\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001761%20-%20Management.md) | Management. |
 | [1761a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001761a%20-%20Officers%20of%20the%20board.md) | Officers of the board. |
 | [1761b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001761b%20-%20Board%20of%20directors%3B%20meetings%3B%20powers%20and%20duties%3B%20executive%20committee%3B%20membership%20officers%3B%20membership%20application.md) | Board of directors; meetings; powers and duties; executive committee; membership officers; membership application. |

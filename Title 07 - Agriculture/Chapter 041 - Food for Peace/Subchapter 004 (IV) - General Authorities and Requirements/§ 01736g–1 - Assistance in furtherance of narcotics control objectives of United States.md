@@ -14,5 +14,5 @@ Notwithstanding subsection (a) of this section, the President may provide assist
 
 Section effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1691 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “2291(e)(2)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "2291(e)(2)".</i>
 

@@ -190,17 +190,17 @@ Section 3a of the Flood Control Act of August 11, 1939, referred to in subsec. (
 
 <b>2007</b>—Subsec. (f)(12) to (17). Pub. L. 110–114 added pars. (12) to (17).
 
-<b>1999</b>—Subsec. (d)(1). Pub. L. 106–53, §223(a)(1), added subpar. (A), designated existing provisions as subpar. (B), inserted subpar. heading, and substituted “under subsection (c)” for “pursuant to subsection (b) or (c)”.
+<b>1999</b>—Subsec. (d)(1). Pub. L. 106–53, §223(a)(1), added subpar. (A), designated existing provisions as subpar. (B), inserted subpar. heading, and substituted "under subsection (c)" for "pursuant to subsection (b) or (c)".
 
-Subsec. (d)(2). Pub. L. 106–53, §223(a)(2), inserted “(other than paragraph (1)(A))” after “this subsection” in first sentence.
+Subsec. (d)(2). Pub. L. 106–53, §223(a)(2), inserted "(other than paragraph (1)(A))" after "this subsection" in first sentence.
 
-Subsec. (e)(1). Pub. L. 106–53, §223(b)(1), inserted “and provide credit for the non-Federal share of the project” after “constructed pursuant to this section” in introductory provisions, and added subpar. (C).
+Subsec. (e)(1). Pub. L. 106–53, §223(b)(1), inserted "and provide credit for the non-Federal share of the project" after "constructed pursuant to this section" in introductory provisions, and added subpar. (C).
 
-Subsec. (e)(2)(A). Pub. L. 106–60, which directed the amendment of subpar. (A) by striking out “in advance in appropriations Acts”, could not be executed because that phrase did not appear in text subsequent to the amendment by Pub. L. 106–53, §223(b)(2). See below.
+Subsec. (e)(2)(A). Pub. L. 106–60, which directed the amendment of subpar. (A) by striking out "in advance in appropriations Acts", could not be executed because that phrase did not appear in text subsequent to the amendment by Pub. L. 106–53, §223(b)(2). See below.
 
-Pub. L. 106–53, §223(b)(2), in subpar. heading, inserted “or credit” after “Reimbursement” and, in text, substituted “subject to the availability of appropriations” for “subject to amounts being made available in advance in appropriations Acts” and inserted “, or provide credit (depending on the request of the non-Federal interest) for the non-Federal share of such work,” after “the cost of such work”.
+Pub. L. 106–53, §223(b)(2), in subpar. heading, inserted "or credit" after "Reimbursement" and, in text, substituted "subject to the availability of appropriations" for "subject to amounts being made available in advance in appropriations Acts" and inserted ", or provide credit (depending on the request of the non-Federal interest) for the non-Federal share of such work," after "the cost of such work".
 
 Subsec. (e)(6). Pub. L. 106–53, §223(b)(3), added par. (6).
 
-<i><sup>1</sup></i><i> So in original. There are no pars. designated “(9)”, “(10)”, or “(11)”.</i>
+<i><sup>1</sup></i><i> So in original. There are no pars. designated "(9)", "(10)", or "(11)".</i>
 

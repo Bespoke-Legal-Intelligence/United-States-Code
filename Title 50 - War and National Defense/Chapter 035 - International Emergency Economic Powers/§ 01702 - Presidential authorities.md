@@ -48,17 +48,17 @@ Section 1(a) of the Classified Information Procedures Act, referred to in subsec
 
 <b>2001</b>—Pub. L. 107–56, §106, which directed certain amendments to section 203 of the International Emergency Powers Act, was executed by making the amendments to this section, which is section 203 of the International Emergency Economic Powers Act, to reflect the probable intent of Congress. See below.
 
-Subsec. (a)(1). Pub. L. 107–56, §106(1)(C), which directed striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States‘ without providing closing quotation marks designating the provisions to be struck, was executed by striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States” in concluding provisions.
+Subsec. (a)(1). Pub. L. 107–56, §106(1)(C), which directed striking out "by any person, or with respect to any property, subject to the jurisdiction of the United States' without providing closing quotation marks designating the provisions to be struck, was executed by striking out "by any person, or with respect to any property, subject to the jurisdiction of the United States" in concluding provisions.
 
-Subsec. (a)(1)(A). Pub. L. 107–56, §106(1)(A), substituted a comma for “; and” at end of cl. (iii) and inserted concluding provisions.
+Subsec. (a)(1)(A). Pub. L. 107–56, §106(1)(A), substituted a comma for "; and" at end of cl. (iii) and inserted concluding provisions.
 
-Subsec. (a)(1)(B). Pub. L. 107–56, §106(1)(B), inserted “, block during the pendency of an investigation” after “investigate” and substituted “interest by any person, or with respect to any property, subject to the jurisdiction of the United States; and” for “interest;”.
+Subsec. (a)(1)(B). Pub. L. 107–56, §106(1)(B), inserted ", block during the pendency of an investigation" after "investigate" and substituted "interest by any person, or with respect to any property, subject to the jurisdiction of the United States; and" for "interest;".
 
 Subsec. (a)(1)(C). Pub. L. 107–56, §106(1)(D), added subpar. (C).
 
 Subsec. (c). Pub. L. 107–56, §106(2), added subsec. (c).
 
-<b>1994</b>—Subsec. (b)(3), (4). Pub. L. 103–236 added pars. (3) and (4) and struck out former par. (3) which read as follows: “the importation from any country, or the exportation to any country, whether commercial or otherwise, of publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, or other informational materials, which are not otherwise controlled for export under section 2404 of the Appendix to this title or with respect to which no acts are prohibited by chapter 37 of title 18.”
+<b>1994</b>—Subsec. (b)(3), (4). Pub. L. 103–236 added pars. (3) and (4) and struck out former par. (3) which read as follows: "the importation from any country, or the exportation to any country, whether commercial or otherwise, of publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, or other informational materials, which are not otherwise controlled for export under section 2404 of the Appendix to this title or with respect to which no acts are prohibited by chapter 37 of title 18."
 
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–418 added par. (3).
 
@@ -66,13 +66,13 @@ Subsec. (c). Pub. L. 107–56, §106(2), added subsec. (c).
 
 Pub. L. 103–236, title V, §525(c)(2), (3), Apr. 30, 1994, 108 Stat. 475, provided that:
 
-“(2) The amendments made by paragraph (1) to section 203(b)(3) of the International Emergency Economic Powers Act \[50 U.S.C. 1702(b)(3)\] apply to actions taken by the President under section 203 of such Act before the date of enactment of this Act \[Apr. 30, 1994\] which are in effect on such date and to actions taken under such section on or after such date.
+"(2) The amendments made by paragraph (1) to section 203(b)(3) of the International Emergency Economic Powers Act \[50 U.S.C. 1702(b)(3)\] apply to actions taken by the President under section 203 of such Act before the date of enactment of this Act \[Apr. 30, 1994\] which are in effect on such date and to actions taken under such section on or after such date.
 
-“(3) Section 203(b)(4) of the International Emergency Economic Powers Act (as added by paragraph (1)) shall not apply to restrictions on the transactions and activities described in section 203(b)(4) in force on the date of enactment of this Act, with respect to countries embargoed under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\] on the date of enactment of this Act.”
+"(3) Section 203(b)(4) of the International Emergency Economic Powers Act (as added by paragraph (1)) shall not apply to restrictions on the transactions and activities described in section 203(b)(4) in force on the date of enactment of this Act, with respect to countries embargoed under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\] on the date of enactment of this Act."
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–418, title II, §2502(b)(2), Aug. 23, 1988, 102 Stat. 1372, provided that: “The amendments made by paragraph (1) \[amending this section\] apply to actions taken by the President under section 203 of the International Emergency Economic Powers Act \[this section\] before the date of the enactment of this Act \[Aug. 23, 1988\] which are in effect on such date of enactment, and to actions taken under such section on or after such date of enactment.”
+Pub. L. 100–418, title II, §2502(b)(2), Aug. 23, 1988, 102 Stat. 1372, provided that: "The amendments made by paragraph (1) \[amending this section\] apply to actions taken by the President under section 203 of the International Emergency Economic Powers Act \[this section\] before the date of the enactment of this Act \[Aug. 23, 1988\] which are in effect on such date of enactment, and to actions taken under such section on or after such date of enactment."
 
 #### Ex. Ord. No. 13290. Confiscating and Vesting Certain Iraqi Property
 
@@ -90,7 +90,7 @@ Section 1. All blocked funds held in the United States in accounts in the name o
 
 (b) any such amounts that as of the date of this order are subject to post-judgment writs of execution or attachment in aid of execution of judgments pursuant to section 201 of the Terrorism Risk Insurance Act of 2002 (Public Law 107–297) \[see Tables for classification\], provided that, upon satisfaction of the judgments on which such writs are based, any remainder of such excepted amounts shall, by virtue of this order and without further action, be confiscated and vested.
 
-Sec. 2. The Secretary of the Treasury is authorized to perform, without further approval, ratification, or other action of the President, all functions of the President set forth in section 203(a)(1)(C) of IEEPA \[50 U.S.C. 1702(a)(1)(C)\] with respect to any and all property of the Government of Iraq, including its agencies, instrumentalities, or controlled entities, and to take additional steps, including the promulgation of rules and regulations as may be necessary, to carry out the purposes of this order. The Secretary of the Treasury may redelegate such functions in accordance with applicable law.The Secretary of the Treasury shall consult the Attorney General as appropriate in the implementation of this order.
+Sec. 2. The Secretary of the Treasury is authorized to perform, without further approval, ratification, or other action of the President, all functions of the President set forth in section 203(a)(1)(C) of IEEPA \[50 U.S.C. 1702(a)(1)(C)\] with respect to any and all property of the Government of Iraq, including its agencies, instrumentalities, or controlled entities, and to take additional steps, including the promulgation of rules and regulations as may be necessary, to carry out the purposes of this order. The Secretary of the Treasury may redelegate such functions in accordance with applicable law. The Secretary of the Treasury shall consult the Attorney General as appropriate in the implementation of this order.
 
 Sec. 3. This order shall be transmitted to the Congress and published in the Federal Register.
 
@@ -98,5 +98,5 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “or” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "or" probably should not appear.</i>
 

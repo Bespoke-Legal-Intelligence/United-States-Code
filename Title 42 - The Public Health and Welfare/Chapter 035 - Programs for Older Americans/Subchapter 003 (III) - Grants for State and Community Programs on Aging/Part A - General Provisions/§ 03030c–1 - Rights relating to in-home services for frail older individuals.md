@@ -20,7 +20,7 @@ The Assistant Secretary shall require entities that provide in-home services und
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–171 struck out “(a)
+<b>1993</b>—Pub. L. 103–171 struck out "(a)
 
-Promotion.—” before “The Assistant” and substituted “Assistant Secretary” for “Commissioner”.
+Promotion.—" before "The Assistant" and substituted "Assistant Secretary" for "Commissioner".
 

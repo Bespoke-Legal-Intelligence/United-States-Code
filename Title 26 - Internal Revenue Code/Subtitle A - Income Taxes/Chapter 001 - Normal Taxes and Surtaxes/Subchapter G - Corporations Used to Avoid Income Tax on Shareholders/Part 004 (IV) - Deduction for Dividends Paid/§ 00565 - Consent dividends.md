@@ -42,5 +42,5 @@ In the case of a consent dividend which, if paid in money would be subject to th
 
 #### Amendments
 
-<b>1976</b>—Subsecs. (a), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a), (e). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

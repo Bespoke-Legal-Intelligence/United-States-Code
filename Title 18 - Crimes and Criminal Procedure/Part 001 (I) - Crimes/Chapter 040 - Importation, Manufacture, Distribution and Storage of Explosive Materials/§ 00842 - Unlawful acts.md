@@ -4,7 +4,7 @@
 
 &emsp;(1) to engage in the business of importing, manufacturing, or dealing in explosive materials without a license issued under this chapter;
 
-&emsp;(2) knowingly to withhold information or to make any false or fictitious oral or written statement or to furnish or exhibit any false, fictitious, or misrepresented identification, intended or likely to deceive for the purpose of obtaining explosive materials, or a license, permit, exemption, or relief from disability under the provisions of this chapter;
+&emsp;(2) knowingly to withhold information or to make any false or fictitious oral or written statement or to furnish or exhibit any false, fictitious, or misrepresented identification, intended or likely to deceive for the purpose ofobtaining explosive materials, or a license, permit, exemption, or relief from disability under the provisions of this chapter;
 
 &emsp;(3) other than a licensee or permittee knowingly—
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) is in lawful nonimmigrant status, is a refugee admitted under section 207 of the Immigration and Nationality Act (8 U.S.C. 1157), or is in asylum status under section 208 of the Immigration and Nationality Act (8 U.S.C. 1158), and—
 
-&emsp;&emsp;&emsp;(i) is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting,possession, or receipt of explosive materials is in furtherance of this official law enforcement business; or
+&emsp;&emsp;&emsp;(i) is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of this official law enforcement business; or
 
 &emsp;&emsp;&emsp;(ii) is a person having the power to direct or cause the direction of the management and policies of a corporation, partnership, or association licensed pursuant to section 843(a), and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of such power;
 
@@ -96,7 +96,7 @@
 
 &emsp;(7) who, having been a citizen of the United States, has renounced the citizenship of that person <sup>3</sup>
 
-> to ship or transport any explosive in or affecting interstate or foreign commerce or to receive or possess any explosive which has been shipped ortransported in or affecting interstate or foreign commerce.
+> to ship or transport any explosive in or affecting interstate or foreign commerce or to receive or possess any explosive which has been shipped or transported in or affecting interstate or foreign commerce.
 
 (j) It shall be unlawful for any person to store any explosive material in a manner not in conformity with regulations promulgated by the Attorney General. In promulgating such regulations, the Attorney General shall take into consideration the class, type, and quantity of explosive materials to be stored, as well as the standards of safety and security recognized in the explosives industry.
 
@@ -126,11 +126,11 @@ Distribution of Information Relating to Explosives, Destructive Devices, and Wea
 
 Definitions.—In this subsection—
 
-&emsp;&emsp;(A) the term “destructive device” has the same meaning as in section 921(a)(4);
+&emsp;&emsp;(A) the term "destructive device" has the same meaning as in section 921(a)(4);
 
-&emsp;&emsp;(B) the term “explosive” has the same meaning as in section 844(j); and
+&emsp;&emsp;(B) the term "explosive" has the same meaning as in section 844(j); and
 
-&emsp;&emsp;(C) the term “weapon of mass destruction” has the same meaning as in section 2332a(c)(2).
+&emsp;&emsp;(C) the term "weapon of mass destruction" has the same meaning as in section 2332a(c)(2).
 
 &emsp;(2)
 
@@ -150,73 +150,73 @@ The date of enactment of this subsection, referred to in subsecs. (m)(2), (n)(2)
 
 #### Amendments
 
-<b>2003</b>—Subsec. (d)(7)(A). Pub. L. 108–177, §372(a)(1), struck out “or” at end.
+<b>2003</b>—Subsec. (d)(7)(A). Pub. L. 108–177, §372(a)(1), struck out "or" at end.
 
-Subsec. (d)(7)(B). Pub. L. 108–177, §372(a)(2), inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
+Subsec. (d)(7)(B). Pub. L. 108–177, §372(a)(2), inserted "or" at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
 
-“(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation withthe Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
+"(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
 
-“(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;”.
+"(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;".
 
 Subsec. (d)(7)(C), (D). Pub. L. 108–177, §372(a)(3), added subpars. (C) and (D).
 
-Subsec. (i)(5)(A). Pub. L. 108–177, §372(b)(1), struck out “or” at end.
+Subsec. (i)(5)(A). Pub. L. 108–177, §372(b)(1), struck out "or" at end.
 
-Subsec. (i)(5)(B). Pub. L. 108–177, §372(b)(2), inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
+Subsec. (i)(5)(B). Pub. L. 108–177, §372(b)(2), inserted "or" at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
 
-“(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
+"(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
 
-“(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;”.
+"(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;".
 
 Subsec. (i)(5)(C), (D). Pub. L. 108–177, §372(b)(3), added subpars. (C) and (D).
 
-<b>2002</b>—Subsec. (a)(3), (4). Pub. L. 107–296, §1122(b)(1), (2), added pars. (3) and (4) and struck out former par. (3) which read as follows: “other than a licensee or permittee knowingly—
+<b>2002</b>—Subsec. (a)(3), (4). Pub. L. 107–296, §1122(b)(1), (2), added pars. (3) and (4) and struck out former par. (3) which read as follows: "other than a licensee or permittee knowingly—
 
-&emsp;“(A) to transport, ship, cause to be transported, or receive in interstate or foreign commerce any explosive materials, except that a person who lawfully purchases explosive materials from a licensee in a State contiguous to the State in which the purchaser resides may ship, transport, or cause to be transported such explosive materials to the State in which he resides and may receive such explosive materials in the State in which he resides, if such transportation, shipment, or receipt is permitted by the law of the State in which he resides; or
+&emsp;"(A) to transport, ship, cause to be transported, or receive in interstate or foreign commerce any explosive materials, except that a person who lawfully purchases explosive materials from a licensee in a State contiguous to the State in which the purchaser resides may ship, transport, or cause to be transported such explosive materials to the State in which he resides and may receive such explosive materials in the State in which he resides, if such transportation, shipment, or receipt is permitted by the law of the State in which he resides; or
 
-&emsp;“(B) to distribute explosive materials to any person (other than a licensee or permittee) who the distributor knows or has reasonable cause to believe does not reside in the State in which the distributor resides.”
+&emsp;"(B) to distribute explosive materials to any person (other than a licensee or permittee) who the distributor knows or has reasonable cause to believe does not reside in the State in which the distributor resides."
 
-Subsec. (b). Pub. L. 107–296, §1122(b)(3), added subsec. (b) and struck out former subsec. (b) which read as follows: “It shall be unlawful for any licensee knowingly to distribute any explosive materials to any person except—
+Subsec. (b). Pub. L. 107–296, §1122(b)(3), added subsec. (b) and struck out former subsec. (b) which read as follows: "It shall be unlawful for any licensee knowingly to distribute any explosive materials to any person except—
 
-&emsp;“(1) a licensee;
+&emsp;"(1) a licensee;
 
-&emsp;“(2) a permittee; or
+&emsp;"(2) a permittee; or
 
-&emsp;“(3) a resident of the State where distribution is made and in which the licensee is licensed to do business or a State contiguous thereto if permitted by the law of the State of the purchaser's residence.”
+&emsp;"(3) a resident of the State where distribution is made and in which the licensee is licensed to do business or a State contiguous thereto if permitted by the law of the State of the purchaser's residence."
 
-Subsec. (d)(6). Pub. L. 107–296, §1123(a)(2), substituted “or who has been committed to a mental institution;” for period at end.
+Subsec. (d)(6). Pub. L. 107–296, §1123(a)(2), substituted "or who has been committed to a mental institution;" for period at end.
 
 Subsec. (d)(7) to (9). Pub. L. 107–296, §1123(a)(1), (3), added pars. (7) to (9).
 
-Subsec. (f). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary”.
+Subsec. (f). Pub. L. 107–296, §1112(e)(3), substituted "Attorney General" for "Secretary".
 
-Subsec. (i). Pub. L. 107–296, §1123(b)(3), inserted “or affecting” before “interstate” in two places in concluding provisions.
+Subsec. (i). Pub. L. 107–296, §1123(b)(3), inserted "or affecting" before "interstate" in two places in concluding provisions.
 
 Subsec. (i)(5) to (7). Pub. L. 107–296, §1123(b)(1), (2), added pars. (5) to (7).
 
-Subsecs. (j), (k), (o). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
+Subsecs. (j), (k), (o). Pub. L. 107–296, §1112(e)(3), substituted "Attorney General" for "Secretary" wherever appearing.
 
 <b>1999</b>—Subsec. (p). Pub. L. 106–54 added subsec. (p).
 
-<b>1996</b>—Subsec. (h). Pub. L. 104–132, §707, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “It shall be unlawful for any person to receive, conceal, transport, ship, store, barter, sell, or dispose of any explosive materials knowing or having reasonable cause to believe that such explosive materials were stolen.”
+<b>1996</b>—Subsec. (h). Pub. L. 104–132, §707, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "It shall be unlawful for any person to receive, conceal, transport, ship, store, barter, sell, or dispose of any explosive materials knowing or having reasonable cause to believe that such explosive materials were stolen."
 
 Subsecs. (l) to (o). Pub. L. 104–132, §603, added subsecs. (l) to (o).
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–322, §110516, substituted “any person” for “any licensee” in introductory provisions.
+<b>1994</b>—Subsec. (d). Pub. L. 103–322, §110516, substituted "any person" for "any licensee" in introductory provisions.
 
-Subsec. (i). Pub. L. 103–322, §110508, inserted “or possess” after “receive” in concluding provisions.
+Subsec. (i). Pub. L. 103–322, §110508, inserted "or possess" after "receive" in concluding provisions.
 
-<b>1990</b>—Subsec. (d)(5). Pub. L. 101–647, §3521(1), substituted “; or” for a period.
+<b>1990</b>—Subsec. (d)(5). Pub. L. 101–647, §3521(1), substituted "; or" for a period.
 
-Subsec. (i)(3). Pub. L. 101–647, §3521(2), substituted “; or” for a period.
+Subsec. (i)(3). Pub. L. 101–647, §3521(2), substituted "; or" for a period.
 
-<b>1988</b>—Subsec. (d)(5). Pub. L. 100–690, §6474(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or”.
+<b>1988</b>—Subsec. (d)(5). Pub. L. 100–690, §6474(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or".
 
-Subsec. (i)(3). Pub. L. 100–690, §6474(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
+Subsec. (i)(3). Pub. L. 100–690, §6474(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "who is an unlawful user of or addicted to marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or".
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 2002 Amendment
 
@@ -228,9 +228,9 @@ Amendment by section 1122(b) of Pub. L. 107–296 effective 180 days after Nov. 
 
 Amendment by section 603 of Pub. L. 104–132 effective 1 year after Apr. 24, 1996, see section 607 of Pub. L. 104–132, set out as a note under section 841 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Attorney General”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Attorney General".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “or”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "or".</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

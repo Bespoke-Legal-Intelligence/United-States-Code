@@ -2,7 +2,7 @@
 
 (a)
 
-Definition of United States Segment of the International Space Station.—In this section the term “United States segment of the International Space Station” means those elements of the International Space Station manufactured—
+Definition of United States Segment of the International Space Station.—In this section the term "United States segment of the International Space Station" means those elements of the International Space Station manufactured—
 
 &emsp;(1) by the United States; or
 

@@ -10,9 +10,9 @@ Section 2612a of this title, referred to in text, has been omitted from the Code
 
 #### Transfer of Functions
 
-“Secretary of Education” substituted in text for “Commissioner” pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
+"Secretary of Education" substituted in text for "Commissioner" pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

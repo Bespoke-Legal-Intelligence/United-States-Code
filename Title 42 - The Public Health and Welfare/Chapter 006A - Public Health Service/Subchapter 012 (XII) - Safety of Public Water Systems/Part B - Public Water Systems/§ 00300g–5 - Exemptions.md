@@ -50,7 +50,7 @@ Each State which grants an exemption under subsection (a) of this section shall 
 
 #### (d) Review of exemptions and schedules; publication in Federal Register, notice and results of review; notice to State; considerations respecting abuse of discretion in granting exemptions or failing to prescribe schedules; State corrective action
 
-(1) Not later than 18 months after the effective date of the interim national primary drinkingwater regulations the Administrator shall complete a comprehensive review of the exemptions granted (and schedules prescribed pursuant thereto) by the States during the one-year period beginning on such effective date. The Administrator shall conduct such subsequent reviews of exemptions and schedules as he deems necessary to carry out the purposes of this subchapter, but each subsequent review shall be completed within each 3-year period following the completion of the first review under this subparagraph. Before conducting any review under this subparagraph, the Administrator shall publish notice of the proposed review in the Federal Register. Such notice shall (A) provide information respecting the location of data and other information respecting the exemptions to be reviewed (including data and other information concerning new scientific matters bearing on such exemptions), and (B) advise of the opportunity to submit comments on the exemptions reviewed and on the need for continuing them. Upon completion of any such review, the Administrator shall publish in the Federal Register the results of his review, together with findings responsive to comments submitted in connection with such review.
+(1) Not later than 18 months after the effective date of the interim national primary drinking water regulations the Administrator shall complete a comprehensive review of the exemptions granted (and schedules prescribed pursuant thereto) by the States during the one-year period beginning on such effective date. The Administrator shall conduct such subsequent reviews of exemptions and schedules as he deems necessary to carry out the purposes of this subchapter, but each subsequent review shall be completed within each 3-year period following the completion of the first review under this subparagraph. Before conducting any review under this subparagraph, the Administrator shall publish notice of the proposed review in the Federal Register. Such notice shall (A) provide information respecting the location of data and other information respecting the exemptions to be reviewed (including data and other information concerning new scientific matters bearing on such exemptions), and (B) advise of the opportunity to submit comments on the exemptions reviewed and on the need for continuing them. Upon completion of any such review, the Administrator shall publish in the Federal Register the results of his review, together with findings responsive to comments submitted in connection with such review.
 
 (2)(A) If the Administrator finds that a State has, in a substantial number of instances, abused its discretion in granting exemptions under subsection (a) of this section or failed to prescribe schedules in accordance with subsection (b) of this section, the Administrator shall notify the State of his findings. In determining if a State has abused its discretion in granting exemptions in a substantial number of instances, the Administrator shall consider the number of persons who are affected by the exemptions and if the requirements applicable to the granting of the exemptions were complied with. A notice under this subparagraph shall—
 
@@ -64,9 +64,9 @@ Each State which grants an exemption under subsection (a) of this section shall 
 
 (C) If a State is notified under subparagraph (A) of a finding of the Administrator made with respect to an exemption granted a public water system within that State or to a schedule prescribed pursuant to such an exemption and if before a revocation of such exemption or a revision of such schedule promulgated by the Administrator takes effect the State takes corrective action with respect to such exemption or schedule which the Administrator determines makes his finding inapplicable to such exemption or schedule, the Administrator shall rescind the application of his finding to that exemption or schedule. No exemption revocation or revised schedule may take effect before the expiration of 90 days following the date of the notice in which the revocation or revised schedule was proposed.
 
-#### (e) “Treatment technique requirement” defined
+#### (e) "Treatment technique requirement" defined
 
-For purposes of this section, the term “treatment technique requirement” means a requirement in a national primary drinking water regulation which specifies for a contaminant (in accordance with section 300f(1)(C)(ii) of this title) each treatment technique known to the Administrator which leads to a reduction in the level of such contaminant sufficient to satisfy the requirements of section 300g–1(b) of this title.
+For purposes of this section, the term "treatment technique requirement" means a requirement in a national primary drinking water regulation which specifies for a contaminant (in accordance with section 300f(1)(C)(ii) of this title) each treatment technique known to the Administrator which leads to a reduction in the level of such contaminant sufficient to satisfy the requirements of section 300g–1(b) of this title.
 
 #### (f) Authority of Administrator in a State without primary enforcement responsibility
 
@@ -80,51 +80,51 @@ If an application for an exemption under this section is made, the State receivi
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–182, §117(a)(1), inserted “, including qualification of the public water system as a system serving a disadvantaged community pursuant to section 300j–12(d) of this title” after “(which may include economic factors” and “or to implement measures to develop an alternative source of water supply,” after “treatment technique requirement,”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–182, §117(a)(1), inserted ", including qualification of the public water system as a system serving a disadvantaged community pursuant to section 300j–12(d) of this title" after "(which may include economic factors" and "or to implement measures to develop an alternative source of water supply," after "treatment technique requirement,".
 
 Subsec. (a)(4). Pub. L. 104–182, §117(a)(2), added par. (4).
 
-Subsec. (b)(1)(A). Pub. L. 104–182, §117(a)(3), substituted “(including increments of progress or measures to develop an alternative source of water supply)” for “(including increments of progress)” and “requirement or treatment” for “requirement and treatment”.
+Subsec. (b)(1)(A). Pub. L. 104–182, §117(a)(3), substituted "(including increments of progress or measures to develop an alternative source of water supply)" for "(including increments of progress)" and "requirement or treatment" for "requirement and treatment".
 
-Subsec. (b)(2)(A). Pub. L. 104–182, §117(a)(4)(A), substituted “not later than 3 years after the otherwise applicable compliance date established in section 300g–1(b)(10) of this title.” for “(except as provided in subparagraph (B))—
+Subsec. (b)(2)(A). Pub. L. 104–182, §117(a)(4)(A), substituted "not later than 3 years after the otherwise applicable compliance date established in section 300g–1(b)(10) of this title." for "(except as provided in subparagraph (B))—
 
-&emsp;“(i) in the case of an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by the national primary drinking water regulations promulgated under section 300g–1(a) of this title, not later than 12 months after June 19, 1986; and
+&emsp;"(i) in the case of an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by the national primary drinking water regulations promulgated under section 300g–1(a) of this title, not later than 12 months after June 19, 1986; and
 
-&emsp;“(ii) in the case of an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by national primary drinking water regulations, other than a regulation referred to in section 300g–1(a) of this title, 12 months after the date of the issuance of the exemption.”
+&emsp;"(ii) in the case of an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by national primary drinking water regulations, other than a regulation referred to in section 300g–1(a) of this title, 12 months after the date of the issuance of the exemption."
 
-Subsec. (b)(2)(B). Pub. L. 104–182, §117(a)(4)(A), substituted “No exemption shall be granted unless” for “The final date for compliance provided in any schedule in the case of any exemption may be extended by the State (in the case of a State which has primary enforcement responsibility) or by the Administrator (in any other case) for a period not to exceed 3 years after the date of the issuance of the exemption if” in introductory provisions.
+Subsec. (b)(2)(B). Pub. L. 104–182, §117(a)(4)(A), substituted "No exemption shall be granted unless" for "The final date for compliance provided in any schedule in the case of any exemption may be extended by the State (in the case of a State which has primary enforcement responsibility) or by the Administrator (in any other case) for a period not to exceed 3 years after the date of the issuance of the exemption if" in introductory provisions.
 
-Subsec. (b)(2)(B)(i). Pub. L. 104–182, §117(a)(4)(B), substituted “prior to the date established pursuant to section 300g–1(b)(10) of this title” for “within the period of such exemption”.
+Subsec. (b)(2)(B)(i). Pub. L. 104–182, §117(a)(4)(B), substituted "prior to the date established pursuant to section 300g–1(b)(10) of this title" for "within the period of such exemption".
 
-Subsec. (b)(2)(B)(ii). Pub. L. 104–182, §117(a)(4)(C), inserted “or assistance pursuant to section 300j–12 of this title, or any other Federal or State program is reasonably likely to be available within the period of the exemption” after “such financial assistance”.
+Subsec. (b)(2)(B)(ii). Pub. L. 104–182, §117(a)(4)(C), inserted "or assistance pursuant to section 300j–12 of this title, or any other Federal or State program is reasonably likely to be available within the period of the exemption" after "such financial assistance".
 
-Subsec. (b)(2)(C). Pub. L. 104–182, §117(a)(4)(D), substituted “a population of 3,300” for “500 service connections” and inserted “, but not to exceed a total of 6 years,” after “for one or more additional 2-year periods”.
+Subsec. (b)(2)(C). Pub. L. 104–182, §117(a)(4)(D), substituted "a population of 3,300" for "500 service connections" and inserted ", but not to exceed a total of 6 years," after "for one or more additional 2-year periods".
 
 Subsec. (b)(2)(D). Pub. L. 104–182, §117(a)(4)(E), added subpar. (D).
 
-<b>1986</b>—Subsec. (b)(1). Pub. L. 99–339, §105(a)(1), substituted “at the time” for “within one year of the date”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–339, §105(a)(1), substituted "at the time" for "within one year of the date".
 
-Subsec. (b)(2)(A)(i). Pub. L. 99–339, §105(a)(2), struck out “interim” before “national primary” and substituted “not later than 12 months after June 19, 1986” for “not later than January 1, 1984”.
+Subsec. (b)(2)(A)(i). Pub. L. 99–339, §105(a)(2), struck out "interim" before "national primary" and substituted "not later than 12 months after June 19, 1986" for "not later than January 1, 1984".
 
-Subsec. (b)(2)(A)(ii). Pub. L. 99–339, §105(a)(3), struck out “revised” before “national primary” and substituted “other than a regulation referred to in section 300g–1(a) of this title, 12 months after the date of the issuance of the exemption” for “not later than seven years after the date such requirement takes effect”.
+Subsec. (b)(2)(A)(ii). Pub. L. 99–339, §105(a)(3), struck out "revised" before "national primary" and substituted "other than a regulation referred to in section 300g–1(a) of this title, 12 months after the date of the issuance of the exemption" for "not later than seven years after the date such requirement takes effect".
 
-Subsec. (b)(2)(B). Pub. L. 99–339, §105(a)(4), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Notwithstanding clauses (i) and (ii) of subparagraph (A) of this paragraph, the final date for compliance prescribed in a schedule prescribed pursuant to this subsection for an exemption granted for a public water system which (as determined by the State granting the exemption) has entered into an enforceable agreement to become a part of a regional public water system shall—
+Subsec. (b)(2)(B). Pub. L. 99–339, §105(a)(4), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Notwithstanding clauses (i) and (ii) of subparagraph (A) of this paragraph, the final date for compliance prescribed in a schedule prescribed pursuant to this subsection for an exemption granted for a public water system which (as determined by the State granting the exemption) has entered into an enforceable agreement to become a part of a regional public water system shall—
 
-&emsp;“(i) in the case of a schedule prescribed for an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by interim national primary drinking water regulations, be not later than January 1, 1986; and
+&emsp;"(i) in the case of a schedule prescribed for an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by interim national primary drinking water regulations, be not later than January 1, 1986; and
 
-&emsp;“(ii) in the case of a schedule prescribed for an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by revised national primary drinking water regulations, be not later than nine years after such requirement takes effect.”
+&emsp;"(ii) in the case of a schedule prescribed for an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by revised national primary drinking water regulations, be not later than nine years after such requirement takes effect."
 
 Subsec. (b)(2)(C). Pub. L. 99–339, §105(a)(4), added subpar. (C).
 
-Subsec. (e). Pub. L. 99–339, §101(c)(4), substituted “300g–1(b)” for “300g–1(b)(3)”.
+Subsec. (e). Pub. L. 99–339, §101(c)(4), substituted "300g–1(b)" for "300g–1(b)(3)".
 
-<b>1980</b>—Subsec. (a)(2). Pub. L. 96–502, §4(b), substituted “treatment technique requirement, or, for a system that was not in operation by that date, only if no reasonable alternative source of drinking water is available to such new system, and” for “treatment technique requirement, and”.
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–502, §4(b), substituted "treatment technique requirement, or, for a system that was not in operation by that date, only if no reasonable alternative source of drinking water is available to such new system, and" for "treatment technique requirement, and".
 
-Subsec. (b)(2)(A)(i). Pub. L. 96–502, §1, substituted “January 1, 1984” for “January 1, 1981”.
+Subsec. (b)(2)(A)(i). Pub. L. 96–502, §1, substituted "January 1, 1984" for "January 1, 1981".
 
-Subsec. (b)(2)(B)(i). Pub. L. 96–502, §1, substituted “January 1, 1986” for “January 1, 1983”.
+Subsec. (b)(2)(B)(i). Pub. L. 96–502, §1, substituted "January 1, 1986" for "January 1, 1983".
 
-<b>1977</b>—Subsec. (b)(1). Pub. L. 95–190 substituted “contaminant” for “containment” wherever appearing.
+<b>1977</b>—Subsec. (b)(1). Pub. L. 95–190 substituted "contaminant" for "containment" wherever appearing.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

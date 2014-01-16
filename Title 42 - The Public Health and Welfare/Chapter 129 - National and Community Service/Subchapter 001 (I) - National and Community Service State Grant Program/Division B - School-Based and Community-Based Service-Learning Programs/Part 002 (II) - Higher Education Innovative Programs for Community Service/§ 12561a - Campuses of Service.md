@@ -8,7 +8,7 @@ The Corporation, after consultation with the Secretary of Education, may annuall
 
 #### (1) In general
 
-&emsp;To be eligible for a nomination to receive designation under subsection (a), and have an opportunity to apply for funds under subsection (d) for a fiscal year, an institution of higher education in a State shall submit an application to the State Commission at such time, in such manner, and containing such information as the State Commission may require.
+&emsp;To be eligible for a nomination to receive designation under subsection (a), and have anopportunity to apply for funds under subsection (d) for a fiscal year, an institution of higher education in a State shall submit an application to the State Commission at such time, in such manner, and containing such information as the State Commission may require.
 
 #### (2) Contents
 
@@ -16,7 +16,7 @@ The Corporation, after consultation with the Secretary of Education, may annuall
 
 &emsp;&emsp;(A)(i) the number of undergraduate and, if applicable, graduate service-learning courses offered at such institution for the most recent full academic year preceding the fiscal year for which designation is sought; and
 
-&emsp;&emsp;(ii) the number and percentage of undergraduate students and, if applicable, thenumber and percentage of graduate students at such institution who were enrolled in the corresponding courses described in clause (i), for such preceding academic year;
+&emsp;&emsp;(ii) the number and percentage of undergraduate students and, if applicable, the number and percentage of graduate students at such institution who were enrolled in the corresponding courses described in clause (i), for such preceding academic year;
 
 &emsp;&emsp;(B) the percentage of undergraduate students engaging in and, if applicable, the percentage of graduate students engaging in activities providing community services, as defined in section 441(c) of the Higher Education Act of 1965 (42 U.S.C. 2751(c)), during such preceding academic year, the quality of such activities, and the average amount of time spent, per student, engaged in such activities;
 

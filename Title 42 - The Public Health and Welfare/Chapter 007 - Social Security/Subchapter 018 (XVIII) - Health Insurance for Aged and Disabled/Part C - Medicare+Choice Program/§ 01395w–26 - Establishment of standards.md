@@ -28,11 +28,11 @@
 
 #### (3) Target date for publication of rule
 
-&emsp;As part of the notice under paragraph (2), and for purposes of this subsection, the “target date for publication” (referred to in section 564(a)(5) of such title) shall be April 1, 1998.
+&emsp;As part of the notice under paragraph (2), and for purposes of this subsection, the "target date for publication" (referred to in section 564(a)(5) of such title) shall be April 1, 1998.
 
 #### (4) Abbreviated period for submission of comments
 
-&emsp;In applying section 564(c) of such title under this subsection, “15 days” shall be substituted for “30 days”.
+&emsp;In applying section 564(c) of such title under this subsection, "15 days" shall be substituted for "30 days".
 
 #### (5) Appointment of negotiated rulemaking committee and facilitator
 
@@ -44,7 +44,7 @@
 
 #### (6) Preliminary committee report
 
-&emsp;The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than January 1, 1998, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before 1 month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress towards such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
+&emsp;The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than January 1, 1998, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before 1 month before the target date for publication of the rule. If the committee reports that the committee has failedto make significant progress towards such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
 
 #### (7) Final committee report
 
@@ -76,13 +76,13 @@
 
 &emsp;The Secretary may not implement, other than at the beginning of a calendar year, regulations under this section that impose new, significant regulatory requirements on a Medicare+Choice organization or plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1856, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111Stat. 317; amended Pub. L. 106–554, §1(a)(6) \[title VI, §§612(a), 614(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560; Pub. L. 108–173, title II, §232(a), Dec. 8, 2003, 117 Stat. 2208.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1856, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 317; amended Pub. L. 106–554, §1(a)(6) \[title VI, §§612(a), 614(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560; Pub. L. 108–173, title II, §232(a), Dec. 8, 2003, 117 Stat. 2208.)
 
 #### Amendments
 
 <b>2003</b>—Subsec. (b)(3). Pub. L. 108–173 reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) and (B) stating general rule and listing standards specifically superseded.
 
-<b>2000</b>—Subsec. (b)(3)(B)(i). Pub. L. 106–554, §1(a)(6) \[title VI, §614(a)(1)\], inserted “(including cost-sharing requirements)” after “Benefit requirements”.
+<b>2000</b>—Subsec. (b)(3)(B)(i). Pub. L. 106–554, §1(a)(6) \[title VI, §614(a)(1)\], inserted "(including cost-sharing requirements)" after "Benefit requirements".
 
 Subsec. (b)(3)(B)(iv). Pub. L. 106–554, §1(a)(6) \[title VI, §614(a)(2)\], added cl. (iv).
 
@@ -94,7 +94,7 @@ References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subje
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title VI, §612(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on the date of the enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–554, §1(a)(6) \[title VI, §612(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
 
-Pub. L. 106–554, §1(a)(6) \[title VI, §614(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, provided that: “The amendments made by subsection (a) \[amending this section\] take effect on the date of the enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–554, §1(a)(6) \[title VI, §614(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, provided that: "The amendments made by subsection (a) \[amending this section\] take effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
 

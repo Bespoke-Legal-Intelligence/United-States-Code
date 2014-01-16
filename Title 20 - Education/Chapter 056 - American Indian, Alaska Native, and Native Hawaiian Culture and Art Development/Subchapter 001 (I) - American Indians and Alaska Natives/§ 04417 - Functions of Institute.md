@@ -36,31 +36,31 @@ In addition to the centers and programs described in subsection (b) of this sect
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–325 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There shall be established within the Institute—
+<b>1992</b>—Subsec. (b). Pub. L. 102–325 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "There shall be established within the Institute—
 
-&emsp;“(1) a Center for Culture and Art Studies to be administered by a director (appointed by the President of the Institute, with the approval of the Board), which shall include (but not be limited to) Departments of Arts and Sciences, Visual Arts, Performing Arts, Language, Literature, and Museology;
+&emsp;"(1) a Center for Culture and Art Studies to be administered by a director (appointed by the President of the Institute, with the approval of the Board), which shall include (but not be limited to) Departments of Arts and Sciences, Visual Arts, Performing Arts, Language, Literature, and Museology;
 
-&emsp;“(2) a Center for Research and Cultural Exchange, administered by a director (appointed by the President of the Institute, with the approval of the Board), which shall include—
+&emsp;"(2) a Center for Research and Cultural Exchange, administered by a director (appointed by the President of the Institute, with the approval of the Board), which shall include—
 
-&emsp;&emsp;“(A) a learning resources center;
+&emsp;&emsp;"(A) a learning resources center;
 
-&emsp;&emsp;“(B) programs of institutional support and development;
+&emsp;&emsp;"(B) programs of institutional support and development;
 
-&emsp;&emsp;“(C) research programs;
+&emsp;&emsp;"(C) research programs;
 
-&emsp;&emsp;“(D) fellowship programs;
+&emsp;&emsp;"(D) fellowship programs;
 
-&emsp;&emsp;“(E) seminars;
+&emsp;&emsp;"(E) seminars;
 
-&emsp;&emsp;“(F) publications;
+&emsp;&emsp;"(F) publications;
 
-&emsp;&emsp;“(G) scholar-in-residence and artist-in-residence programs; and
+&emsp;&emsp;"(G) scholar-in-residence and artist-in-residence programs; and
 
-&emsp;&emsp;“(H) inter-institutional programs of cooperation at national and international levels; and
+&emsp;&emsp;"(H) inter-institutional programs of cooperation at national and international levels; and
 
-&emsp;“(3) a Museum of American Indian and Alaska Native Arts, which shall be under the direction of the President of the Institute.”
+&emsp;"(3) a Museum of American Indian and Alaska Native Arts, which shall be under the direction of the President of the Institute."
 
-<b>1990</b>—Subsec. (b)(2). Pub. L. 101–644, §502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, andstruck out former subpar. (A) which related to a museum of Indian arts.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–644, §502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which related to a museum of Indian arts.
 
 Subsec. (b)(3). Pub. L. 101–644, §502(2)–(4), added par. (3).
 

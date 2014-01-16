@@ -12,11 +12,11 @@
 
 #### Amendments
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–34 substituted “calendar year” for “calendar quarters”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–34 substituted "calendar year" for "calendar quarters".
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–455 added subsec. (c).
 
-<b>1970</b>—Subsec. (b). Pub. L. 91–614 substituted “calendar quarter” for “calendar year”.
+<b>1970</b>—Subsec. (b). Pub. L. 91–614 substituted "calendar quarter" for "calendar year".
 
 #### Effective Date of 1981 Amendment
 

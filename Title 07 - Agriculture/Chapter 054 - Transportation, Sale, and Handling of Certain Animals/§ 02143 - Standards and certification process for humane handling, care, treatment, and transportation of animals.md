@@ -36,7 +36,7 @@
 
 &emsp;(E) that exceptions to such standards may be made only when specified by research protocol and that any such exception shall be detailed and explained in a report outlined under paragraph (7) and filed with the Institutional Animal Committee.
 
-(4) The Secretary shall also promulgate standards to govern the transportation in commerce, and the handling, care, and treatment in connection therewith, by intermediate handlers, air carriers, or other carriers, of animals consigned by any dealer, research facility, exhibitor, operator of an auction sale, or other person, or any department, agency, or instrumentality of the United States or of any State or local government, for transportation in commerce. The Secretary shall have authority to promulgate such rules and regulations as he determines necessary to assure humane treatment of animals in the course of their transportation in commerce including requirements such as those with respect to containers, feed, water, rest, ventilation, temperature, and handling.
+(4) The Secretary shall also promulgate standards to govern the transportation in commerce,and the handling, care, and treatment in connection therewith, by intermediate handlers, air carriers, or other carriers, of animals consigned by any dealer, research facility, exhibitor, operator of an auction sale, or other person, or any department, agency, or instrumentality of the United States or of any State or local government, for transportation in commerce. The Secretary shall have authority to promulgate such rules and regulations as he determines necessary to assure humane treatment of animals in the course of their transportation in commerce including requirements such as those with respect to containers, feed, water, rest, ventilation, temperature, and handling.
 
 (5) In promulgating and enforcing standards established pursuant to this section, the Secretary is authorized and directed to consult experts, including outside consultants where indicated.
 
@@ -98,7 +98,7 @@
 
 &emsp;(iv) include any other information pertinent to the activities of the Committee.
 
-(B) Such report shall remain on file for at least three years at the research facility and shall be available for inspection by the Animal and Plant Health Inspection Service and any funding Federal agency.
+(B) Such report shall remain on file for at least three years at the research facility andshall be available for inspection by the Animal and Plant Health Inspection Service and any funding Federal agency.
 
 (C) In order to give the research facility an opportunity to correct any deficiencies or deviations discovered by reason of paragraph (3), the Committee shall notify the administrative representative of the research facility of any deficiencies or deviations from the provisions of this chapter. If, after notification and an opportunity for correction, such deficiencies or deviations remain uncorrected, the Committee shall notify (in writing) the Animal and Plant Health Inspection Service and the funding Federal agency of such deficiencies or deviations.
 
@@ -148,7 +148,7 @@ No dogs or cats, or additional kinds or classes of animals designated by regulat
 
 #### (g) Age of animals delivered to registered research facilities; power of Secretary to designate additional classes of animals and age limits
 
-No dogs or cats, or additional kinds or classes of animals designated by regulation of the Secretary, shall be delivered by any person to any intermediate handler or carrier for transportation in commerce except to registered research facilities if they are less than such age as the Secretary may by regulation prescribe. The Secretary shall designate additional kinds and classes of animals and may prescribe different ages for particular kinds or classes of dogs, cats, or designated animals, for the purposes of this section, when he determines that such action is necessary or adequate to assure their humane treatment in connection with their transportation in commerce.
+No dogs or cats, or additional kinds or classes of animals designated by regulation of the Secretary, shall be delivered by any person to any intermediate handler or carrier for transportation in commerce except to registered research facilities if they are less than such age asthe Secretary may by regulation prescribe. The Secretary shall designate additional kinds and classes of animals and may prescribe different ages for particular kinds or classes of dogs, cats, or designated animals, for the purposes of this section, when he determines that such action is necessary or adequate to assure their humane treatment in connection with their transportation in commerce.
 
 #### (h) Prohibition of C.O.D. arrangements for transportation of animals in commerce; exceptions
 
@@ -158,9 +158,9 @@ No intermediate handler or carrier involved in the transportation of any animal 
 
 #### Amendments
 
-<b>1985</b>—Subsec. (a)(1) to (3). Pub. L. 99–198, §1752(a)(2), substituted pars. (1) to (3) for first two sentences of subsec. (a) which read as follows: “The Secretary shall promulgate standards to govern the humane handling, care, treatment, and transportation of animals by dealers, research facilities, and exhibitors. Such standards shall include minimum requirements with respect to handling, housing, feeding, watering, sanitation, ventilation, shelter from extremes of weather and temperatures, adequate veterinary care, including the appropriate use of anesthetic, analgesic or tranquilizing drugs, when such use would be proper in the opinion of the attending veterinarian of such research facilities, and separation by species when the Secretary finds such separation necessary for the humane handling, care, or treatment of animals.”
+<b>1985</b>—Subsec. (a)(1) to (3). Pub. L. 99–198, §1752(a)(2), substituted pars. (1) to (3) for first two sentences of subsec. (a) which read as follows: "The Secretary shall promulgate standards to govern the humane handling, care, treatment, and transportation of animals by dealers, research facilities, and exhibitors. Such standards shall include minimum requirements with respect to handling, housing, feeding, watering, sanitation, ventilation, shelter from extremes of weather and temperatures, adequate veterinary care, including the appropriate use of anesthetic, analgesic or tranquilizing drugs, when such use would be proper in the opinion of the attending veterinarian of such research facilities, and separation by species when the Secretary finds such separation necessary for the humane handling, care, or treatment of animals."
 
-Subsec. (a)(4) to (8). Pub. L. 99–198, §1752(b), designated third and fourth sentences of subsec. (a) as par. (4), designated fifth sentence of subsec. (a) as par. (5), and substituted pars. (6) to (8) for last sentence of subsec. (a) which read as follows: “Nothing in this chapter shall be construed as authorizing the Secretary to promulgate rules, regulations, or orders with regard to design, outlines, guidelines, or performance of actual research or experimentation by a research facility as determined by such research facility: <i>Provided</i>, That the Secretary shall require, at least annually, every research facility to show that professionally acceptable standards governing the care, treatment, and use of animals, including appropriate use of anesthetic, analgesic, and tranquilizing drugs, during experimentation are being followed by the research facility during actual research or experimentation.”
+Subsec. (a)(4) to (8). Pub. L. 99–198, §1752(b), designated third and fourth sentences of subsec. (a) as par. (4), designated fifth sentence of subsec. (a) as par. (5), and substituted pars. (6) to (8) for last sentence of subsec. (a) which read as follows: "Nothing in this chapter shall be construed as authorizing the Secretary to promulgate rules, regulations, or orders with regard to design, outlines, guidelines, or performance of actual research or experimentation by a research facility as determined by such research facility: <i>Provided</i>, That the Secretary shall require, at least annually, every research facility to show that professionally acceptable standards governing the care, treatment, and use of animals, including appropriate use of anesthetic, analgesic, and tranquilizing drugs, during experimentation are being followed by the research facility during actual research or experimentation."
 
 Subsecs. (b) to (h). Pub. L. 99–198, §1752(a)(1), (c), added subsecs. (b) to (f) and redesignated existing subsecs. (b) to (d) as (f) to (h), respectively.
 
@@ -178,9 +178,9 @@ Amendment by Pub. L. 99–198 effective one year after Dec. 23, 1985, see sectio
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “in”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "in".</i>
 
 <i><sup>3</sup></i><i> So in original. Two subsecs. (f) have been enacted.</i>
 

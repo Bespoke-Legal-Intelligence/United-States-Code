@@ -44,15 +44,15 @@ Aug. 23, 1958, Pub. L. 85–726, §1302(b), (c), 72 Stat. 801; restated Nov. 9, 
 
 Aug. 23, 1958, Pub. L. 85–726, §1307(a) (last sentence less words between 2d and 3d commas), 72 Stat. 804; Oct. 4, 1984, Pub. L. 98–443, §9(b), 98 Stat. 1706.
 
-In subsection (a), the words “To the extent” are substituted for “insofar as” for consistency.
+In subsection (a), the words "To the extent" are substituted for "insofar as" for consistency.
 
-In subsection (b), the word “initial” is omitted as surplus. The words “The period” are substituted for “Such insurance or reinsurance”, and the words “the President decides . . . that the continued operation of the aircraft to be insured or reinsured is necessary to carry out the foreign policy of the United States Government” are substituted for “the President makes the same determination with respect to such extension as he is required to make under paragraph (2) of subsection (a) of this section for the initial provision of such insurance or reinsurance”, for clarity.
+In subsection (b), the word "initial" is omitted as surplus. The words "The period" are substituted for "Such insurance or reinsurance", and the words "the President decides . . . that the continued operation of the aircraft to be insured or reinsured is necessary to carry out the foreign policy of the United States Government" are substituted for "the President makes the same determination with respect to such extension as he is required to make under paragraph (2) of subsection (a) of this section for the initial provision of such insurance or reinsurance", for clarity.
 
-In subsection (c), the words “or reinsured” are added for consistency. The words “to be paid in the event of total loss” are omitted as unnecessary because of the last sentence. The words “A claim under the policy may not be paid for more than that stated amount” are substituted for “the amount of any claim which is compromised, settled, adjusted, or paid shall in no event exceed such stated amount” to eliminate unnecessary words.
+In subsection (c), the words "or reinsured" are added for consistency. The words "to be paid in the event of total loss" are omitted as unnecessary because of the last sentence. The words "A claim under the policy may not be paid for more than that stated amount" are substituted for "the amount of any claim which is compromised, settled, adjusted, or paid shall in no event exceed such stated amount" to eliminate unnecessary words.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–176, §106(c), substituted “by the insurance carrier” for “by the air carrier”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–176, §106(c), substituted "by the insurance carrier" for "by the air carrier".
 
 Subsec. (c). Pub. L. 108–176, §106(e), made technical correction to directory language of Pub. L. 107–71, §124(b). See 2001 Amendment note below.
 
@@ -60,15 +60,15 @@ Subsec. (c). Pub. L. 108–176, §106(e), made technical correction to directory
 
 <b>2001</b>—Subsec. (b). Pub. L. 107–42, §201(d)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub.L. 107–71, §147, as amended by Pub. L. 107–296, substituted “1 year” for “60 days” in two places.
+Subsec. (c). Pub.L. 107–71, §147, as amended by Pub. L. 107–296, substituted "1 year" for "60 days" in two places.
 
-Pub. L. 107–71, §124(b), as amended by Pub. L. 108–176, §106(e), inserted “in the interest of air commerce or national security or” before “to carry out the foreign policy”.
+Pub. L. 107–71, §124(b), as amended by Pub. L. 108–176, §106(e), inserted "in the interest of air commerce or national security or" before "to carry out the foreign policy".
 
 Pub. L. 107–42, §201(d)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 107–42, §201(d)(1), redesignated subsec. (c) as (d).
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–137 substituted “as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry.” for “as determined by the Secretary.”
+<b>1997</b>—Subsec. (c). Pub. L. 105–137 substituted "as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry." for "as determined by the Secretary."
 
 #### Effective Date of 2003 Amendment
 
@@ -82,5 +82,5 @@ Pub. L. 107–296, title XII, §1203, Nov. 25, 2002, 116 Stat. 2287, provided th
 
 #### Delegation of Authority
 
-Authority of President under subsec. (c) of this section delegated to Secretary of Transportation, with certain conditions, by Memorandum of President of the United States, Sept. 27, 2012, 77 F.R. 60035, set out as a note under section 44302 of this title.
+Authority of President under subsec. (c) of this section delegated to Secretary of Transportation, withcertain conditions, by Memorandum of President of the United States, Dec. 27, 2013, 79 F.R. 527, set out as a note under section 44302 of this title.
 

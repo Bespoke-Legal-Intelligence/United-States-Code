@@ -1,0 +1,6 @@
+### §117b–2. Transferred
+
+#### Codification
+
+Section 117b–2 was editorially reclassified as section 6631 of this title.
+

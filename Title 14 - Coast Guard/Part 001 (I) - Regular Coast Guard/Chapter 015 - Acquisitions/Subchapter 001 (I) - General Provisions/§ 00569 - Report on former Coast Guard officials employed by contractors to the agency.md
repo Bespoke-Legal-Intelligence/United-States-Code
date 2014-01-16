@@ -22,11 +22,11 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Coast guard contractor.—The term “Coast Guard contractor” includes any person that received at least $10,000,000 in contractor awards from the Coast Guard in the calendar year covered by the annual report.
+Coast guard contractor.—The term "Coast Guard contractor" includes any person that received at least $10,000,000 in contractor awards from the Coast Guard in the calendar year covered by the annual report.
 
 &emsp;(2)
 
-Coast guard official.—The term “Coast Guard official” includes former officers of the Coast Guard who were compensated at a rate of pay for grade O–7 or above during the calendar year prior to the date on which they separated from the Coast Guard, and former civilian employees of the Coast Guard who served at any Level of the Senior Executive Service under subchapter VIII of chapter 53 of title 5, United States Code, during the calendar year prior to the date on which they separated from the Coast Guard.
+Coast guard official.—The term "Coast Guard official" includes former officers of the Coast Guard who were compensated at a rate of pay for grade O–7 or above during the calendar year prior to the date on which they separated from the Coast Guard, and former civilian employees of the Coast Guard who served at any Level of the Senior Executive Service under subchapter VIII of chapter 53 of title 5, United States Code, during the calendar year prior to the date on which they separated from the Coast Guard.
 
 (Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2940; amended Pub. L. 112–213, title II, §217(8), Dec. 20, 2012, 126 Stat. 1558.)
 
@@ -36,5 +36,5 @@ A prior section 569, act Aug. 4, 1949, ch. 393, 63 Stat. 542, related to trial b
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–213 struck out “and annually thereafter,” after “December 31, 2011,”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–213 struck out "and annually thereafter," after "December 31, 2011,".
 

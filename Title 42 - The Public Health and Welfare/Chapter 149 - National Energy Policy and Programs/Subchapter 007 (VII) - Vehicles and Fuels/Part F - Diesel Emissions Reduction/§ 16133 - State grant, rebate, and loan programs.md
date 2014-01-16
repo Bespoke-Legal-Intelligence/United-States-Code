@@ -44,7 +44,7 @@ The Administrator shall—
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;If any State described in clause (i) does not qualify for an allocation under this paragraph, the share of funds otherwise allocated for that State under clause (i) shall be reallocated pursuant to subparagraph (C).
+&emsp;&emsp;&emsp;If any State described in clause (i) does not qualify for an allocation under this paragraph, the share of funds otherwise allocated for that State under clause (i)shall be reallocated pursuant to subparagraph (C).
 
 #### (C) Reallocation
 
@@ -76,7 +76,7 @@ The Administrator shall—
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3) and, to the extent practicable, the priority areas listed in section 16132(c)(3) of this title, a State shall use any funds provided under this section to develop and implement such grant, rebate, andlow-cost revolving loan programs in the State as are appropriate to meet State needs and goals relating to the reduction of diesel emissions.
+&emsp;Subject to paragraphs (2) and (3) and, to the extent practicable, the priority areas listed in section 16132(c)(3) of this title, a State shall use any funds provided under this section to develop and implement such grant, rebate, and low-cost revolving loan programs in the State as are appropriate to meet State needs and goals relating to the reduction of diesel emissions.
 
 #### (2) Apportionment of funds
 
@@ -106,29 +106,29 @@ The Administrator shall—
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–364, §2(c)(1), inserted “, rebate,” after “grant” in section catchline.
+<b>2011</b>—Pub. L. 111–364, §2(c)(1), inserted ", rebate," after "grant" in section catchline.
 
-Subsec. (a). Pub. L. 111–364, §2(c)(2), inserted “, rebate,” after “grant”.
+Subsec. (a). Pub. L. 111–364, §2(c)(2), inserted ", rebate," after "grant".
 
-Subsec. (b)(1). Pub. L. 111–364, §2(c)(3), inserted “, rebate,” after “grant” in introductory provisions.
+Subsec. (b)(1). Pub. L. 111–364, §2(c)(3), inserted ", rebate," after "grant" in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 111–364, §2(c)(4), amended par. (2) generally. Prior to amendment, par. (2) related to allocation of funds.
 
-Subsec. (d)(1). Pub. L. 111–364, §2(c)(5)(A), inserted “, rebate,” after “grant”.
+Subsec. (d)(1). Pub. L. 111–364, §2(c)(5)(A), inserted ", rebate," after "grant".
 
-Subsec. (d)(2). Pub. L. 111–364, §2(c)(5)(B), inserted “, rebates,” after “grants”.
+Subsec. (d)(2). Pub. L. 111–364, §2(c)(5)(B), inserted ", rebates," after "grants".
 
-Subsec. (d)(3). Pub. L. 111–364, §2(c)(5)(C), substituted “grant, rebate, or loan provided under this section shall be used” for “grant or loan provided under this section may be used” in introductory provisions.
+Subsec. (d)(3). Pub. L. 111–364, §2(c)(5)(C), substituted "grant, rebate, or loan provided under this section shall be used" for "grant or loan provided under this section may be used" in introductory provisions.
 
 Subsec. (d)(4), (5). Pub. L. 111–364, §2(c)(5)(D), added pars. (4) and (5).
 
-<b>2008</b>—Subsec. (c)(2)(A). Pub. L. 110–255, §3(b)(2), substituted “51” for “50” and “1.96 percent” for “2 percent”.
+<b>2008</b>—Subsec. (c)(2)(A). Pub. L. 110–255, §3(b)(2), substituted "51" for "50" and "1.96 percent" for "2 percent".
 
-Subsec. (c)(2)(B). Pub. L. 110–255, §3(b)(2), substituted “51” for “50” in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 110–255, §3(b)(2), substituted "51" for "50" in introductory provisions.
 
-Subsec. (c)(2)(B)(ii). Pub. L. 110–255, §3(b)(2), which directed substitution of “1.96 percent” for “2 percent”, was executed by making the substitution for “2-percent”, to reflect the probable intent of Congress.
+Subsec. (c)(2)(B)(ii). Pub. L. 110–255, §3(b)(2), which directed substitution of "1.96 percent" for "2 percent", was executed by making the substitution for "2-percent", to reflect the probable intent of Congress.
 
-Subsec. (d)(2). Pub. L. 110–255, §3(b)(1), substituted “chief executive” for “Governor”.
+Subsec. (d)(2). Pub. L. 110–255, §3(b)(1), substituted "chief executive" for "Governor".
 
 #### Effective Date of 2011 Amendment
 

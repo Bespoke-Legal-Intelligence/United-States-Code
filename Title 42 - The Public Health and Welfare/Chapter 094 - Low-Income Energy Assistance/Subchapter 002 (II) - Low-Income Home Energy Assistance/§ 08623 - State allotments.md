@@ -66,7 +66,7 @@ Of the funds available to each State under subsection (a) of this section, a rea
 
 #### (e) Allotment of emergency funds
 
-Notwithstanding subsections (a) through (d) of this section, the Secretary may allot amountsappropriated pursuant to section 8621(e) of this title to one or more than one State. In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection.
+Notwithstanding subsections (a) through (d) of this section, the Secretary may allot amounts appropriated pursuant to section 8621(e) of this title to one or more than one State. In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection.
 
 (Pub. L. 97–35, title XXVI, §2604, Aug. 13, 1981, 95 Stat. 894; Pub. L. 98–558, title VI, §§603, 604, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 99–425, title V, §§502(a), 503, 505(b), Sept. 30, 1986, 100 Stat. 973–975; Pub. L. 101–501, title VII, §703, Nov. 3, 1990, 104 Stat. 1258; Pub. L. 103–252, title III, §§304(c), 311(c)(3), May 18, 1994, 108 Stat. 659, 662; Pub. L. 105–285, title III, §§304(b), 305, Oct. 27, 1998, 112 Stat. 2757.)
 
@@ -76,15 +76,15 @@ Public Law 98–139, referred to in subsec. (a)(2), is Pub. L. 98–139, Oct. 31
 
 The Low-Income Energy Assistance Act of 1980, referred to in subsec. (c), probably means the Home Energy Assistance Act of 1980, which is title III of Pub. L. 96–223, Apr. 2, 1980, 94 Stat. 288, and which was classified generally to subchapter I of this chapter prior to repeal by Pub. L. 97–35, title XXVI, §2611, Aug. 13, 1981, 95 Stat. 902. For complete classification of this Act to the Code, see Tables.
 
-This subchapter, referred to in subsec. (c), was in the original “this Act” which was translated as reading “this title”, meaning title XXVI of Pub. L. 97–35, as the probable intent of Congress.
+This subchapter, referred to in subsec. (c), was in the original "this Act" which was translated as reading "this title", meaning title XXVI of Pub. L. 97–35, as the probable intent of Congress.
 
-The Disaster Relief Act of 1974, referred to in subsec. (c), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. The 1974 Act was renamed “The Robert T. Stafford Disaster Relief and Emergency Assistance Act”, and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. The name of the Act was subsequently changed to the “Robert T. Stafford Disaster Relief and Emergency Assistance Act” by Pub. L. 106–390, title III, §301, Oct. 30, 2000, 1114 Stat. 1572. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Disaster Relief Act of 1974, referred to in subsec. (c), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. The 1974 Act was renamed "The Robert T. Stafford Disaster Relief and Emergency Assistance Act", and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. The name of the Act was subsequently changed to the "Robert T. Stafford Disaster Relief and Emergency Assistance Act" by Pub. L. 106–390, title III, §301, Oct. 30, 2000, 1114 Stat. 1572. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–285, §305(1), substituted “and the Commonwealth of the Northern Mariana Islands.” for “the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.”
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–285, §305(1), substituted "and the Commonwealth of the Northern Mariana Islands." for "the Northern Mariana Islands, and the Trust Territory of the Pacific Islands."
 
-Subsec. (c)(3)(B)(ii). Pub. L. 105–285, §305(2), substituted “applications” for “application”.
+Subsec. (c)(3)(B)(ii). Pub. L. 105–285, §305(2), substituted "applications" for "application".
 
 Subsec. (e). Pub. L. 105–285, §305(5), redesignated subsec. (g) as (e).
 
@@ -92,33 +92,33 @@ Subsec. (f). Pub. L. 105–285, §305(3), struck out subsec. (f) relating to opt
 
 Subsec. (g). Pub. L. 105–285, §305(5), redesignated subsec. (g) as (e).
 
-Pub. L. 105–285, §§304(b), 305(4), substituted “subsections (a) through (d) of this section” for “subsections (a) through (f) of this section” and “In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection.” for “In determining to which State or States additional funds may be allotted, the Secretary shall take into account the extent to which a State was affected by the emergency or disaster, the availability to an affected State of other resources under this or any other program, and such other factors as the Secretary determines relevant. The Secretary shall notify Congress of the allotment pursuant to this subsection prior to releasing the allotted funds.”
+Pub. L. 105–285, §§304(b), 305(4), substituted "subsections (a) through (d) of this section" for "subsections (a) through (f) of this section" and "In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection." for "In determining to which State or States additional funds may be allotted, the Secretary shall take into account the extent to which a State was affected by the emergency or disaster, the availability to an affected State of other resources under this or any other program, and such other factors as the Secretary determines relevant. The Secretary shall notify Congress of the allotment pursuant to this subsection prior to releasing the allotted funds."
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–252, §311(c)(3), inserted “of the United States” after “Virgin Islands”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–252, §311(c)(3), inserted "of the United States" after "Virgin Islands".
 
 Subsec. (g). Pub. L. 103–252, §304(c), added subsec. (g).
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–501 designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, substituted “in accordance with paragraph (2) a percentage” for “up to 10 percent”, “or a combination” for “or any combination”, and “subparagraphs (A), (B), and (C)” for “paragraphs (1), (2), and (3)”, and added par. (2).
+<b>1990</b>—Subsec. (f). Pub. L. 101–501 designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, substituted "in accordance with paragraph (2) a percentage" for "up to 10 percent", "or a combination" for "or any combination", and "subparagraphs (A), (B), and (C)" for "paragraphs (1), (2), and (3)", and added par. (2).
 
-<b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–425, §505(b)(1), inserted “after reserving any amount permitted to be reserved under section 8628a of this title and” after “remaining”.
+<b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–425, §505(b)(1), inserted "after reserving any amount permitted to be reserved under section 8628a of this title and" after "remaining".
 
-Subsec. (a)(1)(B). Pub. L. 99–425, §505(b)(2), inserted “after reserving any amount permitted to be reserved under section 8628a of this title” after “therefor”.
+Subsec. (a)(1)(B). Pub. L. 99–425, §505(b)(2), inserted "after reserving any amount permitted to be reserved under section 8628a of this title" after "therefor".
 
-Subsec. (c). Pub. L. 99–425, §502(a), substituted “the capacity” for “and the capacity”, inserted “, and the ability to carry out the program in local communities”, and inserted provisions relating to hourly time periods in which the program must respond, application for benefits, and nonapplicability of the program to areas affected by a natural disaster or major disaster.
+Subsec. (c). Pub. L. 99–425, §502(a), substituted "the capacity" for "and the capacity", inserted ", and the ability to carry out the program in local communities", and inserted provisions relating to hourly time periods in which the program must respond, application for benefits, and nonapplicability of the program to areas affected by a natural disaster or major disaster.
 
-Subsec. (d)(2). Pub. L. 99–425, §503, substituted “and residing within the State on the reservation of the tribes or on trust lands adjacent to such reservation” for “in such State with respect to which a determination under this subsection is made”, inserted “, or such greater amount as the Indian tribe and the State may agree upon”, and inserted “In cases where a tribe has no reservation, the Secretary, in consultation with the tribe and the State, shall define the number of Indian households for the determination under this paragraph.”
+Subsec. (d)(2). Pub. L. 99–425, §503, substituted "and residing within the State on the reservation of the tribes or on trust lands adjacent to such reservation" for "in such State with respect to which a determination under this subsection is made", inserted ", or such greater amount as the Indian tribe and the State may agree upon", and inserted "In cases where a tribe has no reservation, the Secretary, in consultation with the tribe and the State, shall define the number of Indian households for the determination under this paragraph."
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–558, §604(a), amended par. (2) generally, substituting provisions relating to State allotment computation for former provisions which also related to computation of State allotment formulas and adding subpars. (A) and (B).
 
 Subsec. (a)(4). Pub. L. 98–558, §604(b), added par. (4).
 
-Subsec. (c). Pub. L. 98–558, §603(a), inserted “until March 15 of each program year” after “reserved” and inserted “The program for which funds are reserved by this subsection shall be administered by public or nonprofit entities which have experience in administering energy crisis programs under the Low-Income Energy Assistance Act of 1980, or under this subchapter, experience in assisting low-income individuals in the area to be served, and the capacity to undertake a timely and effective energy crisis intervention program.”
+Subsec. (c). Pub. L. 98–558, §603(a), inserted "until March 15 of each program year" after "reserved" and inserted "The program for which funds are reserved by this subsection shall be administered by public or nonprofit entities which have experience in administering energy crisis programs under the Low-Income Energy Assistance Act of 1980, or under this subchapter, experience in assisting low-income individuals in the area to be served, and the capacity to undertake a timely and effective energy crisis intervention program."
 
-Subsec. (d)(1). Pub. L. 98–558, §603(b), substituted “otherwise be payable” for “otherwise be paid” in provisions following subpar. (B).
+Subsec. (d)(1). Pub. L. 98–558, §603(b), substituted "otherwise be payable" for "otherwise be paid" in provisions following subpar. (B).
 
 Subsec. (e). Pub. L. 98–558, §603(c), struck out subsec. (e) which related to direct payments to households and State options.
 
-Subsec. (f). Pub. L. 98–558, §603(d), substituted “the funds payable to it” for “its allotment”.
+Subsec. (f). Pub. L. 98–558, §603(d), substituted "the funds payable to it" for "its allotment".
 
 #### Effective Date of 1994 Amendment
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 98–558 effective Oct. 30, 1984, see section 609(a) of Pub
 
 #### Rules for Energy Crisis Intervention
 
-Pub. L. 99–425, title V, §502(b), Sept. 30, 1986, 100 Stat. 973, provided that: “Not later than 60 days after the date of the enactment of this Act \[Sept. 30, 1986\], the Secretary of Health and Human Services shall issue rules to carry out the amendments made by subsection (a) \[amending this section\].”
+Pub. L. 99–425, title V, §502(b), Sept. 30, 1986, 100 Stat. 973, provided that: "Not later than 60 days after the date of the enactment of this Act \[Sept. 30, 1986\], the Secretary of Health and Human Services shall issue rules to carry out the amendments made by subsection (a) \[amending this section\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

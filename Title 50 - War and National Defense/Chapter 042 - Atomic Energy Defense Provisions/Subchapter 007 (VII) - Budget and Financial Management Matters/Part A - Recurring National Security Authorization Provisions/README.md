@@ -15,7 +15,7 @@ Part A—Recurring National Security Authorization Provisions
 - [&sect; 02747 - Authority for emergency planning, design, and construction activities](%C2%A7%2002747%20-%20Authority%20for%20emergency%20planning%2C%20design%2C%20and%20construction%20activities.md)
 - [&sect; 02748 - Scope of authority to carry out plant projects](%C2%A7%2002748%20-%20Scope%20of%20authority%20to%20carry%20out%20plant%20projects.md)
 - [&sect; 02749 - Availability of funds](%C2%A7%2002749%20-%20Availability%20of%20funds.md)
-- [&sect; 02750 - Transfer of defense environmental management funds](%C2%A7%2002750%20-%20Transfer%20of%20defense%20environmental%20management%20funds.md)
+- [&sect; 02750 - Transfer of defense environmental cleanup funds](%C2%A7%2002750%20-%20Transfer%20of%20defense%20environmental%20cleanup%20funds.md)
 - [&sect; 02751 - Transfer of weapons activities funds](%C2%A7%2002751%20-%20Transfer%20of%20weapons%20activities%20funds.md)
 - [&sect; 02752 - Funds available for all national security programs of the Department of Energy](%C2%A7%2002752%20-%20Funds%20available%20for%20all%20national%20security%20programs%20of%20the%20Department%20of%20Energy.md)
 - [&sect; 02753 - Notification of cost overruns for certain Department of Energy projects](%C2%A7%2002753%20-%20Notification%20of%20cost%20overruns%20for%20certain%20Department%20of%20Energy%20projects.md)

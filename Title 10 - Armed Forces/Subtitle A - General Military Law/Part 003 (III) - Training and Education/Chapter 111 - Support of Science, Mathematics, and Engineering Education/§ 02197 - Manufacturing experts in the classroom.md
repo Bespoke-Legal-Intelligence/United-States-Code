@@ -38,15 +38,15 @@ Federal Support.—The amount of financial assistance furnished to an institutio
 
 (e)
 
-Manufacturing Expert Defined.—In this section, the term “manufacturing expert” means manufacturing managers and workers having experience in the organization of production and education and training needs and other experts in manufacturing.
+Manufacturing Expert Defined.—In this section, the term "manufacturing expert" means manufacturing managers and workers having experience in the organization of production and education and training needs and other experts in manufacturing.
 
 (Added Pub. L. 102–190, div. A, title VIII, §825(a)(1), Dec. 5, 1991, 105 Stat. 1440; amended Pub. L. 102–484, div. D, title XLII, §4238(a), (b)(1), Oct. 23, 1992, 106 Stat. 2694.)
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–484, §4238(b)(1), substituted “experts” for “managers” in section catchline.
+<b>1992</b>—Pub. L. 102–484, §4238(b)(1), substituted "experts" for "managers" in section catchline.
 
-Subsec. (a). Pub. L. 102–484, §4238(a)(1), struck out “managers and” after “manufacturing” in introductory provisions.
+Subsec. (a). Pub. L. 102–484, §4238(a)(1), struck out "managers and" after "manufacturing" in introductory provisions.
 
 Subsec. (e). Pub. L. 102–484, §4238(a)(2), added subsec. (e).
 

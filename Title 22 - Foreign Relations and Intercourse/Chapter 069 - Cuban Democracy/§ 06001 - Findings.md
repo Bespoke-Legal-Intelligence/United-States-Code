@@ -12,7 +12,7 @@ The Congress makes the following findings:
 
 &emsp;(5) Events in the former Soviet Union and Eastern Europe have dramatically reduced Cuba's external support and threaten Cuba's food and oil supplies.
 
-&emsp;(6) The fall of communism in the former Soviet Union and Eastern Europe, the now universal recognition in Latin America and the Caribbean that Cuba provides a failed model of government and development, and the evident inability of Cuba's economy to survive current trends, provide the United States and the international democratic community with an unprecedented opportunity to promote a peaceful transition to democracy in Cuba.
+&emsp;(6) The fall of communism in the former Soviet Union and Eastern Europe, the now universal recognition in Latin America and the Caribbean that Cuba provides a failed model of government and development, and the evident inability of Cuba's economy to survive current trends, provide the United States and the international democratic community with anunprecedented opportunity to promote a peaceful transition to democracy in Cuba.
 
 &emsp;(7) However, Castro's intransigence increases the likelihood that there could be a collapse of the Cuban economy, social upheaval, or widespread suffering. The recently concluded Cuban Communist Party Congress has underscored Castro's unwillingness to respond positively to increasing pressures for reform either from within the party or without.
 
@@ -22,17 +22,17 @@ The Congress makes the following findings:
 
 #### Effective Date
 
-Pub. L. 102–484, div. A, title XVII, §1712, Oct. 23, 1992, 106 Stat. 2581, provided that: “This title \[enacting this chapter, amending section 16 of Title 50, Appendix, War and National Defense, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. A, title XVII, §1712, Oct. 23, 1992, 106 Stat. 2581, provided that: "This title \[enacting this chapter, amending section 16 of Title 50, Appendix, War and National Defense, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\]."
 
 #### Short Title
 
-Pub. L. 102–484, div. A, title XVII, §1701, Oct. 23, 1992, 106 Stat. 2575, provided that: “This title \[enacting this chapter, amending section 16 of Title 50, Appendix, War and National Defense, and enacting provisions set out as a note above\] may be cited as the ‘Cuban Democracy Act of 1992’.”
+Pub. L. 102–484, div. A, title XVII, §1701, Oct. 23, 1992, 106 Stat. 2575, provided that: "This title \[enacting this chapter, amending section 16 of Title 50, Appendix, War and National Defense, and enacting provisions set out as a note above\] may be cited as the 'Cuban Democracy Act of 1992'."
 
 #### Ex. Ord. No. 12854. Implementation of Cuban Democracy Act
 
 Ex. Ord. No. 12854, July 4, 1993, 58 F.R. 36587, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trading with the Enemy Act, as amended (50 U.S.C. App. 1–6, 7–39, 41–44), the Cuban Democracy Act of 1992 (Public Law 102–484, sections 1701–1712, October 23, 1992, 106 Stat. 2575) (the “Act”) \[22 U.S.C. 6001 et seq.\], and section 301 of title 3, United States Code,
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trading with the Enemy Act, as amended (50 U.S.C. App. 1–6, 7–39, 41–44), the Cuban Democracy Act of 1992 (Public Law 102–484, sections 1701–1712, October 23, 1992, 106 Stat. 2575) (the "Act") \[22 U.S.C. 6001 et seq.\], and section 301 of title 3, United States Code,
 
 I, WILLIAM J. CLINTON, President of the United States of America, hereby order:
 

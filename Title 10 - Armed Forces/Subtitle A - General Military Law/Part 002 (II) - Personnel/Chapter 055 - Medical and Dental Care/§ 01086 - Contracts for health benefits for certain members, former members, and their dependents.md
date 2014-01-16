@@ -46,9 +46,9 @@
 
 (C) In this paragraph:
 
-&emsp;(i) The term “medicare” means title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
+&emsp;(i) The term "medicare" means title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
 
-&emsp;(ii) The term “third party payer” has the meaning given such term in section 1095(h)(1) of this title.
+&emsp;(ii) The term "third party payer" has the meaning given such term in section 1095(h)(1) of this title.
 
 (4)(A) If a person referred to in subsection (c) and described by paragraph (2)(B) is subject to a retroactive determination by the Social Security Administration of entitlement to hospital insurance benefits described in paragraph (1), the person shall, during the period described in subparagraph (B), be deemed for purposes of health benefits under this section—
 
@@ -68,7 +68,7 @@
 
 (f) The provisions of section 1079(h) of this title shall apply to payments for services by an individual health-care professional (or other noninstitutional health-care provider) under a plan contracted for under subsection (a).
 
-(g) Section 1079(j) of this title shall apply to a plan contracted for under this section, except that no person eligible for health benefits under this section may be denied benefits under this section with respect to care or treatment for any service-connected disability which is compensable under chapter 11 of title 38 solely on the basis that such person is entitled to care ortreatment for such disability in facilities of the Department of Veterans Affairs.
+(g) Section 1079(j) of this title shall apply to a plan contracted for under this section, except that no person eligible for health benefits under this section may be denied benefits under this section with respect to care or treatment for any service-connected disability which is compensable under chapter 11 of title 38 solely on the basis that such person is entitled to care or treatment for such disability in facilities of the Department of Veterans Affairs.
 
 (h)(1) Subject to paragraph (2), the Secretary of Defense may, upon request, make payments under this section for a charge for services for which a claim is submitted under a plan contracted for under subsection (a) to a hospital that does not impose a legal obligation on any of its patients to pay for such services.
 
@@ -78,7 +78,7 @@
 
 (4) The Secretary of Defense may require each hospital the Secretary approves for payment under this subsection to provide evidence that it has sources of revenue to cover unbilled costs.
 
-(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, §806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, §732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§712(a)(1), 759\], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, 1654A–200; Pub. L. 108–173, title IX, §900(e)(4)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 109–364, div. A, title VII, §704(b), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, §701(b), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, \[div. A\], title VII, §701(b), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title VII, §§706, 709, Oct. 28, 2009, 123 Stat. 2375, 2378; Pub. L. 111–383, div. A, title VII, §701(b), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 112–239, div. A, title X, §1076(f)(11), Jan. 2, 2013, 126 Stat. 1952.)
+(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, §806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, §732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§712(a)(1), 759\], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, 1654A–200; Pub. L. 108–173, title IX, §900(e)(4)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 109–364, div. A, title VII, §704(b), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, §701(b), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, \[div. A\], title VII, §701(b), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title VII, §§706, 709, Oct. 28, 2009, 123 Stat. 2375, 2378; Pub. L. 111–383, div. A, title VII, §701(b), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 112–239, div. A, title X, §1076(f)(11), Jan. 2, 2013, 126 Stat. 1952.)
 
 #### References in Text
 
@@ -90,63 +90,63 @@ A prior section 1086, act Aug. 10, 1956, ch. 1041, 70A Stat. 88, authorized the 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 substituted “paragraph (2)” for “clause (2)”.
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 substituted "paragraph (2)" for "clause (2)".
 
-<b>2011</b>—Subsec. (b)(3). Pub. L. 111–383 substituted “September 30, 2011” for “September 30, 2010”.
+<b>2011</b>—Subsec. (b)(3). Pub. L. 111–383 substituted "September 30, 2011" for "September 30, 2010".
 
-<b>2009</b>—Subsec. (b)(3). Pub. L. 111–84, §709, substituted “September 30, 2010” for “September 30, 2009”.
+<b>2009</b>—Subsec. (b)(3). Pub. L. 111–84, §709, substituted "September 30, 2010" for "September 30, 2009".
 
 Subsec. (d)(4), (5). Pub. L. 111–84, §706, added par. (4) and redesignated former par. (4) as (5).
 
-<b>2008</b>—Subsec. (b)(3). Pub. L. 110–417 substituted “September 30, 2009” for “September 30, 2008”.
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–417 substituted "September 30, 2009" for "September 30, 2008".
 
-Pub. L. 110–181 substituted “September 30, 2008” for “September 30, 2007.”
+Pub. L. 110–181 substituted "September 30, 2008" for "September 30, 2007."
 
-<b>2006</b>—Subsec. (b)(3). Pub. L. 109–364 inserted “, except that in no case may the charges for inpatient care for a patient exceed $535 per day during the period beginning on April 1, 2006, and ending on September 30, 2007.” after “charges for inpatient care”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–364 inserted ", except that in no case may the charges for inpatient care for a patient exceed $535 per day during the period beginning on April 1, 2006, and ending on September 30, 2007." after "charges for inpatient care".
 
-<b>2003</b>—Subsec. (d)(4). Pub. L. 108–173 substituted “Administrator of the Centers for Medicare \& Medicaid Services” for “administrator of the Health Care Financing Administration” in last sentence.
+<b>2003</b>—Subsec. (d)(4). Pub. L. 108–173 substituted "Administrator of the Centers for Medicare \& Medicaid Services" for "administrator of the Health Care Financing Administration" in last sentence.
 
-<b>2000</b>—Subsec. (b)(4). Pub. L. 106–398, §1 \[\[div. A\], title VII, §759\], substituted “$3,000” for “$7,500”.
+<b>2000</b>—Subsec. (b)(4). Pub. L. 106–398, §1 \[\[div. A\], title VII, §759\], substituted "$3,000" for "$7,500".
 
-Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(1)(A)\], added par. (2) and struck out former par. (2) which read as follows: “The prohibition contained in paragraph (1) shall not apply in the case of a person referred to in subsection (c) who—
+Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(1)(A)\], added par. (2) and struck out former par. (2) which read as follows: "The prohibition contained in paragraph (1) shall not apply in the case of a person referred to in subsection (c) who—
 
-&emsp;“(A) is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act pursuant to subparagraph (A) or (C) of section 226(b)(2) of such Act (42 U.S.C. 426(b)(2)) or section 226A(a) of such Act (42 U.S.C. 426–1(a));
+&emsp;"(A) is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act pursuant to subparagraph (A) or (C) of section 226(b)(2) of such Act (42 U.S.C. 426(b)(2)) or section 226A(a) of such Act (42 U.S.C. 426–1(a));
 
-&emsp;“(B) is under 65 years of age; and
+&emsp;"(B) is under 65 years of age; and
 
-&emsp;“(C) is enrolled in the supplementary medical insurance program under part B of such title (42 U.S.C. 1395j et seq.).”
+&emsp;"(C) is enrolled in the supplementary medical insurance program under part B of such title (42 U.S.C. 1395j et seq.)."
 
-Subsec. (d)(4). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(1)(B)\], substituted “subparagraph (B) of paragraph (2) who do not satisfy the condition specified in subparagraph (A) of such paragraph” for “paragraph (1) who satisfy only the criteria specified in subparagraphs (A) and (B) of paragraph (2), but not subparagraph (C) of such paragraph,”.
+Subsec. (d)(4). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(1)(B)\], substituted "subparagraph (B) of paragraph (2) who do not satisfy the condition specified in subparagraph (A) of such paragraph" for "paragraph (1) who satisfy only the criteria specified in subparagraphs (A) and (B) of paragraph (2), but not subparagraph (C) of such paragraph,".
 
 <b>1996</b>—Subsec. (d)(4). Pub. L. 104–106 added par. (4).
 
-Subsec. (e). Pub. L. 104–201 substituted “inpatient medical care” for “benefits” in first sentence and “subsections (b) and (c) of section 1080” for “section 1080(b)” in last sentence.
+Subsec. (e). Pub. L. 104–201 substituted "inpatient medical care" for "benefits" in first sentence and "subsections (b) and (c) of section 1080" for "section 1080(b)" in last sentence.
 
-<b>1994</b>—Subsec. (d)(3). Pub. L. 103–337 added par. (3) and struck out former par. (3) which read as follows: “If a person described in paragraph (2) receives medical or dental care for which payment may be made under both title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) and a plan contracted for under subsection (a), the amount payable for that care under the plan may not exceed the difference between—
+<b>1994</b>—Subsec. (d)(3). Pub. L. 103–337 added par. (3) and struck out former par. (3) which read as follows: "If a person described in paragraph (2) receives medical or dental care for which payment may be made under both title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) and a plan contracted for under subsection (a), the amount payable for that care under the plan may not exceed the difference between—
 
-&emsp;“(A) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on the person if payment for that care were made solely under that title; and
+&emsp;"(A) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on the person if payment for that care were made solely under that title; and
 
-&emsp;“(B) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on the person if payment for that care were made solely under the plan.”
+&emsp;"(B) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on the person if payment for that care were made solely under the plan."
 
 <b>1993</b>—Subsec. (d). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–190, §704(a). See 1991 Amendment note below.
 
-Subsec. (e). Pub. L. 103–160 inserted at end “In addition, section 1080(b) of this title shall apply in making the determination whether to issue a nonavailability of health care statement for a person covered by this section.”
+Subsec. (e). Pub. L. 103–160 inserted at end "In addition, section 1080(b) of this title shall apply in making the determination whether to issue a nonavailability of health care statement for a person covered by this section."
 
-<b>1992</b>—Subsec. (b)(4). Pub. L. 102–484, §703(a), substituted “$7,500” for “$10,000”.
+<b>1992</b>—Subsec. (b)(4). Pub. L. 102–484, §703(a), substituted "$7,500" for "$10,000".
 
-Subsec. (d)(2)(A). Pub. L. 102–484, §705(a), inserted before semicolon “or section 226A(a) of such Act (42 U.S.C. 426–1(a))”.
+Subsec. (d)(2)(A). Pub. L. 102–484, §705(a), inserted before semicolon "or section 226A(a) of such Act (42 U.S.C. 426–1(a))".
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–190, §704(b)(1)(A), substituted “Except as provided in subsection (d), the following” for “The following” in introductory provisions and struck out at end “However, a person who is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.) is not eligible for health benefits under this section.”
+<b>1991</b>—Subsec. (c). Pub. L. 102–190, §704(b)(1)(A), substituted "Except as provided in subsection (d), the following" for "The following" in introductory provisions and struck out at end "However, a person who is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.) is not eligible for health benefits under this section."
 
-Subsec. (d). Pub. L. 102–190, §704(a), as amended by Pub. L. 103–35, added subsec. (d) and struck out former subsec. (d) which read as follows: “The provisions of section 1079(j) of this title shall apply to a plan covered by this section.”
+Subsec. (d). Pub. L. 102–190, §704(a), as amended by Pub. L. 103–35, added subsec. (d) and struck out former subsec. (d) which read as follows: "The provisions of section 1079(j) of this title shall apply to a plan covered by this section."
 
-Subsec. (g). Pub. L. 102–190, §704(b)(1)(B), substituted “Section 1079(j) of this title shall apply to a plan contracted for under this section, except that” for “Notwithstanding subsection (d) or any other provision of this chapter,”.
+Subsec. (g). Pub. L. 102–190, §704(b)(1)(B), substituted "Section 1079(j) of this title shall apply to a plan contracted for under this section, except that" for "Notwithstanding subsection (d) or any other provision of this chapter,".
 
-<b>1990</b>—Subsec. (b)(1), (2). Pub. L. 101–510 substituted “$150” for “$50” in par. (1) and “$300” for “$100” in par. (2).
+<b>1990</b>—Subsec. (b)(1), (2). Pub. L. 101–510 substituted "$150" for "$50" in par. (1) and "$300" for "$100" in par. (2).
 
-<b>1989</b>—Subsec. (c)(3). Pub. L. 101–189, §731(c)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A dependent covered by section 1072(2)(F) of this title.”
+<b>1989</b>—Subsec. (c)(3). Pub. L. 101–189, §731(c)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "A dependent covered by section 1072(2)(F) of this title."
 
-Subsec. (g). Pub. L. 101–189, §1621(a)(3), substituted “facilities of the Department of Veterans Affairs” for “Veterans’ Administration facilities”.
+Subsec. (g). Pub. L. 101–189, §1621(a)(3), substituted "facilities of the Department of Veterans Affairs" for "Veterans' Administration facilities".
 
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–456, §646(b)(1), inserted provision authorizing Secretary of Defense to exempt a patient from paying such charges if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
 
@@ -156,25 +156,25 @@ Subsec. (h). Pub. L. 100–456, §646(b)(2), added subsec. (h).
 
 <b>1986</b>—Subsec. (c)(2)(B). Pub. L. 99–661 inserted reference to disease.
 
-<b>1985</b>—Subsec. (c)(2). Pub. L. 99–145 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A dependent of a member of a uniformed service who died while on active duty for a period of more than thirty days, except a dependent covered by section 1072(2)(E) of this title.”
+<b>1985</b>—Subsec. (c)(2). Pub. L. 99–145 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "A dependent of a member of a uniformed service who died while on active duty for a period of more than thirty days, except a dependent covered by section 1072(2)(E) of this title."
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–557, §19(13)(A), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
 
-Pub. L. 98–525 inserted “However, eye examinations may not be provided under such plans for persons covered by subsection (c).”
+Pub. L. 98–525 inserted "However, eye examinations may not be provided under such plans for persons covered by subsection (c)."
 
 Subsec. (e). Pub. L. 98–557, §19(13)(B), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
 
-<b>1983</b>—Subsec. (d). Pub. L. 98–94 substituted “The provisions of section 1079(j) of this title shall apply to a plan covered by this section” for “No benefits shall be payable under any plan covered by this section in the case of a person enrolled in any other insurance, medical service, or health plan provided by law or through employment unless that person certifies that the particular benefit he is claiming is not payable under the other plan”.
+<b>1983</b>—Subsec. (d). Pub. L. 98–94 substituted "The provisions of section 1079(j) of this title shall apply to a plan covered by this section" for "No benefits shall be payable under any plan covered by this section in the case of a person enrolled in any other insurance, medical service, or health plan provided by law or through employment unless that person certifies that the particular benefit he is claiming is not payable under the other plan".
 
 <b>1982</b>—Subsec. (c)(3). Pub. L. 97–252 added par. (3).
 
-<b>1981</b>—Subsec. (f). Pub. L. 97–86 substituted “services by an individual health-care professional (or other noninstitutional health-care provider)” for “physician services”.
+<b>1981</b>—Subsec. (f). Pub. L. 97–86 substituted "services by an individual health-care professional (or other noninstitutional health-care provider)" for "physician services".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513, §511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §511(36), substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare".
 
-Subsec. (b). Pub. L. 96–513, §511(39)(A), substituted “percent” for “per centum” wherever appearing.
+Subsec. (b). Pub. L. 96–513, §511(39)(A), substituted "percent" for "per centum" wherever appearing.
 
-Subsec. (c). Pub. L. 96–513, §§501(14), 511(39)(B), substituted “section 1072(2)(E)” for “section 1072(2)(F)” in pars. (1) and (2) and, in provisions following par. (2), substituted “part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.)” for “title I of the Social Security Amendments of 1965 (79 Stat. 286)”.
+Subsec. (c). Pub. L. 96–513, §§501(14), 511(39)(B), substituted "section 1072(2)(E)" for "section 1072(2)(F)" in pars. (1) and (2) and, in provisions following par. (2), substituted "part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.)" for "title I of the Social Security Amendments of 1965 (79 Stat. 286)".
 
 <b>1979</b>—Subsec. (g). Pub. L. 96–173 added subsec. (g).
 
@@ -182,11 +182,11 @@ Subsec. (c). Pub. L. 96–513, §§501(14), 511(39)(B), substituted “section 1
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–177, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 1395ggg of Title 42, The Public Health and Welfare\] shall take effect on October 1, 2001.”
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–177, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section and section 1395ggg of Title 42, The Public Health and Welfare\] shall take effect on October 1, 2001."
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–484, div. A, title VII, §703(b), Oct. 23, 1992, 106 Stat. 2432, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1992.”
+Pub. L. 102–484, div. A, title VII, §703(b), Oct. 23, 1992, 106 Stat. 2432, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1992."
 
 #### Effective Date of 1991 Amendment
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 100–180 applicable with respect to fiscal years beginning
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravatean injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
+Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
 #### Effective Date of 1985 Amendment
 
@@ -238,7 +238,7 @@ Amendment by section 501(14) of Pub. L. 96–513 effective Sept. 15, 1981, and a
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–173, §2, Dec. 29, 1979, 93 Stat. 1287, provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on October 1, 1979.”
+Pub. L. 96–173, §2, Dec. 29, 1979, 93 Stat. 1287, provided that: "The amendment made by the first section of this Act \[amending this section\] shall take effect on October 1, 1979."
 
 #### Effective Date of 1978 Amendment
 
@@ -260,15 +260,15 @@ Pub. L. 104–106, div. A, title VII, §743, Feb. 10, 1996, 110 Stat. 385.
 
 #### Minimum Amount Payable for Services Provided Under This Section
 
-Pub. L. 103–335, title VIII, §8052, Sept. 30, 1994, 108 Stat. 2629, provided that: “Notwithstanding any other provision of law, of the funds appropriated for the Defense Health Program during this fiscal year and hereafter, the amount payable for services provided under this section shall not be less than the amount calculated under the coordination of benefits reimbursement formula utilized when CHAMPUS is a secondary payor to medical insurance programs other than Medicare, and such appropriations as necessary shall be available (notwithstanding the last sentence of section 1086(c) of title 10, United States Code) to continue Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) benefits, until age 65, under such section for a former member of a uniformed service who is entitled to retired or retainer pay or equivalent pay, or a dependent of such a member, or any other beneficiary described by section 1086(c) of title 10, United States Code, who becomes eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) \[42 U.S.C. 1395c et seq.\] solely on the grounds of physical disability, or end stage renal disease: <i>Provided</i>, That expenses under this section shall only be covered to the extent that such expenses are not covered under parts A and B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\] and are otherwise covered under CHAMPUS: <i>Provided further</i>, That no reimbursement shall be made for services provided prior to October 1, 1991.”
+Pub. L. 103–335, title VIII, §8052, Sept. 30, 1994, 108 Stat. 2629, provided that: "Notwithstanding any other provision of law, of the funds appropriated for the Defense Health Program during this fiscal year and hereafter, the amount payable for services provided under this section shall not be less than the amount calculated under the coordination of benefits reimbursement formula utilized when CHAMPUS is a secondary payor to medical insurance programs other than Medicare, and such appropriations as necessary shall be available (notwithstanding the last sentence of section 1086(c) of title 10, United States Code) to continue Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) benefits, until age 65, under such section for a former member of a uniformed service who is entitled to retired or retainer pay or equivalent pay, or a dependent of such a member, or any other beneficiary described by section 1086(c) of title 10, United States Code, who becomes eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) \[42 U.S.C. 1395c et seq.\] solely on the grounds of physical disability, or end stage renal disease: <i>Provided</i>, That expenses under this section shall only be covered to the extent that such expenses are not covered under parts A and B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\] and are otherwise covered under CHAMPUS: <i>Provided further</i>, That no reimbursement shall be made for services provided prior to October 1, 1991."
 
 #### Authorization To Apply Section 1079 Payment Rules for Spouse and Children of Member Who Dies While on Active Duty
 
 Pub. L. 103–160, div. A, title VII, §704, Nov. 30, 1993, 107 Stat. 1687, provided that in the case of an eligible dependent of a member of a uniformed service who died while on active duty for a period of more than 30 days, the administering Secretary could apply the payment provisions set forth in section 1079(b) of this title (in lieu of the payment provisions set forth in section 1086(b) of this title), with respect to health benefits received by the dependent under such section 1086 in connection with an illness or medical condition for which the dependent was receiving treatment under chapter 55 of this title at time of death of the member, prior to repeal by Pub. L. 103–337, div. A, title VII, §707(d), Oct. 5, 1994, 108 Stat. 2801.
 
-\[Pub. L. 103–337, div. A, title VII, §707(d), Oct. 5, 1994, 108 Stat. 2801, provided in part that: “The repeal of such section \[section 704 of Pub. L. 103–160, formerly set out above\] shall not terminate the special payment rules provided in such section with respect to any person eligible for such payment rules on the date of the enactment of this Act \[Oct. 5, 1994\].”\]
+\[Pub. L. 103–337, div. A, title VII, §707(d), Oct. 5, 1994, 108 Stat. 2801, provided in part that: "The repeal of such section \[section 704 of Pub. L. 103–160, formerly set out above\] shall not terminate the special payment rules provided in such section with respect to any person eligible for such payment rules on the date of the enactment of this Act \[Oct. 5, 1994\]."\]
 
 #### Coverage of Care Provided Since September 30, 1991
 
-Pub. L. 102–484, div. A, title VII, §705(b), Oct. 23, 1992, 106 Stat. 2433, provided that: “Subsection (d) of section 1086 of title 10, United States Code, as added by section 704(a) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1401) and amended by subsection (a) of this section, shall apply with respect to health care benefits or services received after September 30, 1991, by a person described in subsection (d)(2) of such section 1086 if such benefits or services would have been covered under a plan contracted for under such section 1086.”
+Pub. L. 102–484, div. A, title VII, §705(b), Oct. 23, 1992, 106 Stat. 2433, provided that: "Subsection (d) of section 1086 of title 10, United States Code, as added by section 704(a) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1401) and amended by subsection (a) of this section, shall apply with respect to health care benefits or services received after September 30, 1991, by a person described in subsection (d)(2) of such section 1086 if such benefits or services would have been covered under a plan contracted for under such section 1086."
 

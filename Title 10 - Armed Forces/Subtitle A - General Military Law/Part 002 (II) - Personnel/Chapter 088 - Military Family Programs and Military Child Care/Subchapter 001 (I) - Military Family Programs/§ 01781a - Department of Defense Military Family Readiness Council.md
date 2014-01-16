@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—There is in the Department of Defense the Department of Defense Military Family Readiness Council (in this section referred to as the “Council”).
+In General.—There is in the Department of Defense the Department of Defense Military Family Readiness Council (in this section referred to as the "Council").
 
 (b)
 
@@ -16,7 +16,7 @@ Members.—(1) The Council shall consist of the following members:
 
 &emsp;&emsp;(ii) One representative of the Army National Guard or the Air National Guard, who may be a member of the National Guard.
 
-&emsp;&emsp;(iii) One spouse or parent of a member of each of the Army, Navy, Marine Corps, and Air Force, two of whom shall be the spouse or parent of an active component member and two of whom shall be the spouse or parent of a reserve component member.
+&emsp;&emsp;(iii) One spouse or parent of a member of each of the Army, Navy, Marine Corps, and Air Force, two of whom shall be the spouse or parent of an active component memberand two of whom shall be the spouse or parent of a reserve component member.
 
 &emsp;(C) Three individuals appointed by the Secretary of Defense from among representatives of military family organizations, including military family organizations of families of members of the regular components and of families of members of the reserve components.
 
@@ -58,25 +58,25 @@ Annual Reports.—(1) Not later than February 1 each year, the Council shall sub
 
 <b>2011</b>—Subsec. (b). Pub. L. 112–81 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to members.
 
-Subsec. (b)(1)(B). Pub. L. 111–383, §581(d)(1)(A), struck out “, who shall be appointed by the Secretary of Defense” after “Air Force”.
+Subsec. (b)(1)(B). Pub. L. 111–383, §581(d)(1)(A), struck out ", who shall be appointed by the Secretary of Defense" after "Air Force".
 
-Subsec. (b)(1)(C). Pub. L. 111–383, §581(d)(1)(B), struck out “, who shall be appointed by the Secretary of Defense” after “Air National Guard” in cl. (i) and after “Air Force Reserve” in cl. (ii).
+Subsec. (b)(1)(C). Pub. L. 111–383, §581(d)(1)(B), struck out ", who shall be appointed by the Secretary of Defense" after "Air National Guard" in cl. (i) and after "Air Force Reserve" in cl. (ii).
 
-Subsec. (b)(1)(D). Pub. L. 111–383, §581(d)(1)(C), struck out “by the Secretary of Defense” after “appointed”.
+Subsec. (b)(1)(D). Pub. L. 111–383, §581(d)(1)(C), struck out "by the Secretary of Defense" after "appointed".
 
 Subsec. (b)(1)(E). Pub. L. 111–383, §581(a)(1)(B), added subpar. (E). Former subpar. (E) redesignated (F).
 
-Subsec. (b)(1)(F). Pub. L. 111–383, §581(c), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “In addition to the representatives appointed under subparagraphs (B) and (C), the senior enlisted advisors of the Army, Navy, Marine Corps, and Air Force, or the spouse of a senior enlisted member from each of the Army, Navy, Marine Corps, and Air Force.”
+Subsec. (b)(1)(F). Pub. L. 111–383, §581(c), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "In addition to the representatives appointed under subparagraphs (B) and (C), the senior enlisted advisors of the Army, Navy, Marine Corps, and Air Force, or the spouse of a senior enlisted member from each of the Army, Navy, Marine Corps, and Air Force."
 
 Pub. L. 111–383, §581(a)(1)(A), redesignated subpar. (E) as (F).
 
 Subsec. (b)(1)(G). Pub. L. 111–383, §581(b), added subpar. (G).
 
-Subsec. (b)(2). Pub. L. 111–383, §581(a)(2), substituted “subparagraphs (C), (D), and (E)” for “subparagraphs (C) and (D)”.
+Subsec. (b)(2). Pub. L. 111–383, §581(a)(2), substituted "subparagraphs (C), (D), and (E)" for "subparagraphs (C) and (D)".
 
 Subsec. (b)(3). Pub. L. 111–383, §581(d)(2), added par. (3).
 
-<b>2009</b>—Subsec. (b)(1)(C) to (E). Pub. L. 111–84, §562(a), added subpar. (C), redesignated former subpars. (C) and (D) as (D) and (E), respectively, and substituted “subparagraphs (B) and (C)” for “subparagraph (B)” in subpar. (E).
+<b>2009</b>—Subsec. (b)(1)(C) to (E). Pub. L. 111–84, §562(a), added subpar. (C), redesignated former subpars. (C) and (D) as (D) and (E), respectively, and substituted "subparagraphs (B) and (C)" for "subparagraph (B)" in subpar. (E).
 
-Subsec. (b)(2). Pub. L. 111–84, §562(b), substituted “subparagraphs (C) and (D) of paragraph (1)” for “paragraph (1)(C)” and inserted at end “Representation on the Council required by clause (i) of paragraph (1)(C) shall rotate between the Army National Guard and Air National Guard. Representation required by clause (ii) of such paragraph shall rotate among the reserve components specified in such clause.”
+Subsec. (b)(2). Pub. L. 111–84, §562(b), substituted "subparagraphs (C) and (D) of paragraph (1)" for "paragraph (1)(C)" and inserted at end "Representation on the Council required by clause (i) of paragraph (1)(C) shall rotate between the Army National Guard and Air National Guard. Representation required by clause (ii) of such paragraph shall rotate among the reserve components specified in such clause."
 

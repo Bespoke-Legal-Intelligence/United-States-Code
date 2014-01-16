@@ -16,7 +16,7 @@
 
 #### (2) Information used in preparation
 
-&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288,1313(e), 1314(f), 1315(b), and 1324 of this title, and other information as appropriate, and (B) may utilize appropriate elements of the waste treatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
+&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288, 1313(e), 1314(f), 1315(b), and 1324 of this title, and other information as appropriate, and (B) may utilize appropriate elements of the waste treatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
 
 #### (b) State management programs
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) An identification of the best management practices and measures which will be undertaken to reduce pollutant loadings resulting from each category, subcategory, or particular nonpoint source designated under paragraph (1)(B), taking into account the impact of the practice on ground water quality.
 
-&emsp;&emsp;(B) An identification of programs (including, as appropriate, nonregulatory or regulatory programs for enforcement, technical assistance, financial assistance, education, training, technology transfer, and demonstration projects) to achieve implementation of the best management practices by the categories, subcategories, and particular nonpoint sources designated under subparagraph (A).
+&emsp;&emsp;(B) An identification of programs (including, as appropriate, nonregulatory or regulatory programs for enforcement, technical assistance, financial assistance, education, training, technology transfer, and demonstration projects) to achieve implementation of the best management practices bythe categories, subcategories, and particular nonpoint sources designated under subparagraph (A).
 
 &emsp;&emsp;(C) A schedule containing annual milestones for (i) utilization of the program implementation methods identified in subparagraph (B), and (ii) implementation of the best management practices identified in subparagraph (A) by the categories, subcategories, or particular nonpoint sources designated under paragraph (1)(B). Such schedule shall provide for utilization of the best management practices at the earliest practicable date.
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;(D) the practices and measures proposed in such program or portion are not adequate to reduce the level of pollution in navigable waters in the State resulting from nonpoint sources and to improve the quality of navigable waters in the State;
 
-> &emsp;the Administrator shall within 6 months of the receipt of the proposed program notify the State of any revisions or modifications necessary to obtain approval. The State shall thereupon have an additional 3 months to submit its revised management program and the Administrator shall approve or disapprove such revised program within three months of receipt.
+> &emsp;the Administrator shall within 6 months of the receipt of the proposed program notify the State of any revisions or modifications necessary to obtain approval. The State shallthereupon have an additional 3 months to submit its revised management program and the Administrator shall approve or disapprove such revised program within three months of receipt.
 
 #### (3) Failure of State to submit report
 
@@ -94,7 +94,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (1) Convening of conference; notification; purpose
 
-&emsp;If any portion of the navigable waters in any State which is implementing a management program approved under this section is not meeting applicable water quality standards or the goals and requirements of this chapter as a result, in whole or in part, of pollution from nonpoint sources in another State, such State may petition the Administrator to convene, and the Administrator shall convene, a management conference of all States which contribute significant pollution resulting from nonpoint sources to such portion. If, on the basis of information available, the Administrator determines that a State is not meeting applicable water quality standards or the goals and requirements of this chapter as a result, in whole or in part, of significant pollution from nonpoint sources in another State, the Administrator shall notify such States. The Administrator may convene a management conference under this paragraph not later than 180 days after giving such notification, whether or not the State which is not meeting such standards requests such conference. The purpose of such conference shall be to develop an agreement among such States to reduce the level of pollution in such portion resulting from nonpoint sources and to improve the water quality of such portion. Nothing in such agreement shall supersede or abrogate rights to quantities of water which have been established by interstate water compacts, Supreme Court decrees, or State water laws. This subsection shall not apply to any pollution which is subject to the Colorado River Basin Salinity Control Act \[43 U.S.C.1571 et seq.\]. The requirement that the Administrator convene a management conference shall not be subject to the provisions of section 1365 of this title.
+&emsp;If any portion of the navigable waters in any State which is implementing a management program approved under this section is not meeting applicable water quality standards or the goals and requirements of this chapter as a result, in whole or in part, of pollution from nonpoint sources in another State, such State may petition the Administrator to convene, and the Administrator shall convene, a management conference of all States which contribute significant pollution resulting from nonpoint sources to such portion. If, on the basis of information available, the Administrator determines that a State is not meeting applicable water quality standards or the goals and requirements of this chapter as a result, in whole or in part, of significant pollution from nonpoint sources in another State, the Administrator shall notify such States. The Administrator may convene a management conference under this paragraph not later than 180 days after giving such notification, whether or not the State which is not meeting such standards requests such conference. The purpose of such conference shall be to develop an agreement among such States to reduce the level of pollution in such portion resulting from nonpoint sources and to improve the water quality of such portion. Nothing in such agreement shall supersede or abrogate rights to quantities of water which have been established by interstate water compacts, Supreme Court decrees, or State water laws. This subsection shall not apply to any pollution which is subject to the Colorado River Basin Salinity Control Act \[43 U.S.C. 1571 et seq.\]. The requirement that the Administrator convene a management conference shall not be subject to the provisions of section 1365 of this title.
 
 #### (2) State management program requirement
 
@@ -108,7 +108,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (2) Applications
 
-&emsp;An application for a grant under this subsection in any fiscal year shall be in such form and shall contain such other information as the Administrator may require, including an identification and description of the best management practices and measures which the State proposes to assist, encourage, or require in such year with the Federal assistance to be provided under the grant.
+&emsp;An application for a grant under this subsection in any fiscal year shall be in such form and shall contain such other information as the Administrator may require, including an identification and description of the best management practices and measures which theState proposes to assist, encourage, or require in such year with the Federal assistance to be provided under the grant.
 
 #### (3) Federal share
 
@@ -216,7 +216,7 @@ The Administrator shall collect and make available, through publications and oth
 
 Not less than 5 percent of the funds appropriated pursuant to subsection (j) of this section for any fiscal year shall be available to the Administrator to maintain personnel levels at the Environmental Protection Agency at levels which are adequate to carry out this section in such year.
 
-(June 30, 1948, ch. 758, title III, §319, as added Pub. L. 100–4, title III, §316(a), Feb. 4, 1987, 101 Stat. 52; amended Pub. L. 105–362, title V, §501(c), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
+(June 30, 1948, ch. 758, title III, §319, as added Pub. L. 100–4, title III, §316(a), Feb. 4, 1987, 101Stat. 52; amended Pub. L. 105–362, title V, §501(c), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
 #### References in Text
 

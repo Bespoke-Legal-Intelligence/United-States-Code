@@ -12,7 +12,7 @@
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–39, title VIII, §807(b)(1), July 26, 1979, 93 Stat. 290, struck out item relating to subpart B “Rectification”.
+<b>1979</b>—Pub. L. 96–39, title VIII, §807(b)(1), July 26, 1979, 93 Stat. 290, struck out item relating to subpart B "Rectification".
 
 
 ---

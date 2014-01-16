@@ -42,5 +42,5 @@ Act of October 17, 1968, referred to in subsec. (b)(1)(D), is Pub. L. 90–584, 
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(1)(D), (E). Pub. L. 109–126 substituted “Cedar” for “Cedar City”.
+<b>2005</b>—Subsec. (b)(1)(D), (E). Pub. L. 109–126 substituted "Cedar" for "Cedar City".
 

@@ -2,7 +2,7 @@
 
 #### (a) Definition of qualifying Indian tribe
 
-In this section, the term “qualifying Indian tribe” means, with respect to a fiscal year, an Indian tribe or tribally designated housing entity—
+In this section, the term "qualifying Indian tribe" means, with respect to a fiscal year, an Indian tribe or tribally designated housing entity—
 
 &emsp;(1) to or on behalf of which a grant is made under section 4111 of this title;
 
@@ -10,7 +10,7 @@ In this section, the term “qualifying Indian tribe” means, with respect to a
 
 &emsp;(3) that, during the preceding 3-fiscal-year period, has no unresolved significant and material audit findings or exceptions, as demonstrated in—
 
-&emsp;&emsp;(A) the annual audits of that period completed under chapter 75 of title 31 (commonly known as the “Single Audit Act”); or
+&emsp;&emsp;(A) the annual audits of that period completed under chapter 75 of title 31 (commonly known as the "Single Audit Act"); or
 
 &emsp;&emsp;(B) an independent financial audit prepared in accordance with generally accepted auditing principles.
 
@@ -20,7 +20,7 @@ Under the program under this part, for each of fiscal years 2009 through 2013, t
 
 #### (c) Amounts
 
-With respect to a fiscal year and a recipient, the amounts referred to in subsection (b) areamounts from any grant provided under section 4111 of this title to the recipient for the fiscal year, as determined by the recipient, but in no case exceeding the lesser of—
+With respect to a fiscal year and a recipient, the amounts referred to in subsection (b) are amounts from any grant provided under section 4111 of this title to the recipient for the fiscal year, as determined by the recipient, but in no case exceeding the lesser of—
 
 &emsp;(1) an amount equal to 20 percent of the total grant amount for the recipient for that fiscal year; and
 

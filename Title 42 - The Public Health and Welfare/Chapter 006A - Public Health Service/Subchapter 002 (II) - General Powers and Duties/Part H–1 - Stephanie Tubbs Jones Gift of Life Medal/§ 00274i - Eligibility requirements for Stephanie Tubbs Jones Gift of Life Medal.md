@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-Subject to the provisions of this section and the availability of funds under this part, any organ donor, or the family of any organ donor, shall be eligible for a Stephanie Tubbs Jones Gift of Life Medal (hereafter in this part referred to as a “medal”).
+Subject to the provisions of this section and the availability of funds under this part, any organ donor, or the family of any organ donor, shall be eligible for a Stephanie Tubbs Jones Gift of Life Medal (hereafter in this part referred to as a "medal").
 
 #### (b) Documentation
 
 The Secretary of Health and Human Services shall direct the entity operating the Organ Procurement and Transplantation Network to—
 
-&emsp;(1) establish an application procedure requiring the relevant organ procurement organization through which an individual or family of the individual made an organ donation, to submit to such entity documentation supporting the eligibility of the individual or the family, respectively, to receive a medal;
+&emsp;(1) establish an application procedure requiring the relevant organ procurement organization through which an individual or family ofthe individual made an organ donation, to submit to such entity documentation supporting the eligibility of the individual or the family, respectively, to receive a medal;
 
 &emsp;(2) determine through the documentation provided and, if necessary, independent investigation whether the individual or family, respectively, is eligible to receive such a medal; and
 

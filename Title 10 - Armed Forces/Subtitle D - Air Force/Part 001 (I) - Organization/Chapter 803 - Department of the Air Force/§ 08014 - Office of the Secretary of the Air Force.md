@@ -72,13 +72,13 @@ Another prior section 8014 was renumbered section 8015 of this title and subsequ
 
 <b>2002</b>—Subsec. (b)(5) to (7). Pub. L. 107–314 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-<b>2001</b>—Subsec. (f)(3). Pub. L. 107–107 substituted “60” for “the number equal to 85 percent of the number of general officers assigned or detailed to such duty on the date of the enactment of this subsection”.
+<b>2001</b>—Subsec. (f)(3). Pub. L. 107–107 substituted "60" for "the number equal to 85 percent of the number of general officers assigned or detailed to such duty on the date of the enactment of this subsection".
 
-<b>1989</b>—Subsec. (f)(5). Pub. L. 101–189 struck out par. (5) which read as follows: “The limitations in paragraphs (1), (2), and (3) do not apply before October 1, 1988.”
+<b>1989</b>—Subsec. (f)(5). Pub. L. 101–189 struck out par. (5) which read as follows: "The limitations in paragraphs (1), (2), and (3) do not apply before October 1, 1988."
 
 <b>1988</b>—Subsec. (c)(5). Pub. L. 100–456 added par. (5).
 
-<b>1987</b>—Subsec. (f)(4). Pub. L. 100–180 inserted “the President or” after “declared by”.
+<b>1987</b>—Subsec. (f)(4). Pub. L. 100–180 inserted "the President or" after "declared by".
 
 #### Effective Date of 1988 Amendment
 

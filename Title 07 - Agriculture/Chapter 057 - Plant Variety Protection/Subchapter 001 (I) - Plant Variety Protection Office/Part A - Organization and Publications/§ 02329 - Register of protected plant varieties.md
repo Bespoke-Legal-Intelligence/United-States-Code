@@ -6,5 +6,5 @@ The Secretary shall maintain a register of descriptions of United States protect
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–574 substituted “descriptions” for “published specifications”, and struck out provisions requiring maintenance of a file for other information.
+<b>1980</b>—Pub. L. 96–574 substituted "descriptions" for "published specifications", and struck out provisions requiring maintenance of a file for other information.
 

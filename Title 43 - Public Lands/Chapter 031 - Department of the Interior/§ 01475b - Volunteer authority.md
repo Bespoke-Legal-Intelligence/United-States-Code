@@ -36,7 +36,7 @@ The Secretary may provide for services and costs incidental to the utilization o
 
 &emsp;(B) subchapter I of chapter 81 of title 5; and
 
-&emsp;(C) claims relating to damage to, or loss of, personal property of a volunteer incident tovolunteer service, in which case the provisions of section 3721 of title 31 shall apply.
+&emsp;(C) claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, in which case the provisions of section 3721 of title 31 shall apply.
 
 (3) Volunteers under this Act shall be subject to chapter 11 of title 18, unless the Secretary, with the concurrence of the Director of the Office of Government Ethics, determines in writing published in the Federal Register that the provisions of that chapter, except section 201, shall not apply to the actions of a class or classes of volunteers who carry out only those duties or functions specified in the determination.
 
@@ -48,5 +48,5 @@ This Act, referred to in subsecs. (b)(2) and (d)(3), is Pub. L. 109–125, Dec. 
 
 #### Purpose
 
-Pub. L. 109–125, §2, Dec. 7, 2005, 119 Stat. 2544, provided that: “The purpose of this Act \[enacting this section and provisions set out as a note under section 1451 of this title\] is to authorize the Secretary of the Interior to recruit and use volunteers to assist with, or facilitate, the programs of the Bureau of Indian Affairs, the United States Geological Survey, the Bureau of Reclamation, and the Office of the Secretary.”
+Pub. L. 109–125, §2, Dec. 7, 2005, 119 Stat. 2544, provided that: "The purpose of this Act \[enacting this section and provisions set out as a note under section 1451 of this title\] is to authorize the Secretary of the Interior to recruit and use volunteers to assist with, or facilitate, the programs of the Bureau of Indian Affairs, the United States Geological Survey, the Bureau of Reclamation, and the Office of the Secretary."
 

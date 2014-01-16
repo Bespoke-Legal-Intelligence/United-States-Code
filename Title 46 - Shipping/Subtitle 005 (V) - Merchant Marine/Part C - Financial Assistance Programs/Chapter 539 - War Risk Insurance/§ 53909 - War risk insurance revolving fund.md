@@ -38,7 +38,7 @@ June 29, 1936, ch. 858, title XII, §1208, as added Sept. 7, 1950, ch. 906, 64 S
 
 46 App.:1288a.
 
-Nov. 1, 1951, ch. 664, par. under heading “War–Risk Insurance Revolving Fund”, 65 Stat. 746; Pub. L. 97–31, §12(140), Aug. 6, 1981, 95 Stat. 166.
+Nov. 1, 1951, ch. 664, par. under heading "War–Risk Insurance Revolving Fund", 65 Stat. 746; Pub. L. 97–31, §12(140), Aug. 6, 1981, 95 Stat. 166.
 
 In subsection (c), the reference to the Fiscal Service \[previously Division of Disbursement\] in the Treasury Department is omitted as unnecessary.
 

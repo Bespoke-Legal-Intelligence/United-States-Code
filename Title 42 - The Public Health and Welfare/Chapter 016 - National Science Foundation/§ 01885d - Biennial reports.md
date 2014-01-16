@@ -24,7 +24,7 @@
 
 #### References in Text
 
-Sections 1885 to 1885d of this title, referred to in subsec. (b)(3), was in the original “this Act”, meaning sections 31 et seq. of Pub. L. 96–516, as amended, known as the Science and Engineering Equal Opportunities Act, which enacted sections 1885 to 1885d of this title and provisions set out as notes under sections 1861 and 1885 of this title. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1861 of this title and Tables.
+Sections 1885 to 1885d of this title, referred to in subsec. (b)(3), was in the original "this Act", meaning sections 31 et seq. of Pub. L. 96–516, as amended, known as the Science and Engineering Equal Opportunities Act, which enacted sections 1885 to 1885d of this title and provisions set out as notes under sections 1861 and 1885 of this title. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1861 of this title and Tables.
 
 #### Codification
 
@@ -32,9 +32,9 @@ Section was enacted as part of the Science and Engineering Equal Opportunities A
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–360 substituted “By January 30 of each odd-numbered year” for “By January 30, 1982, and biennially thereafter”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–360 substituted "By January 30 of each odd-numbered year" for "By January 30, 1982, and biennially thereafter".
 
-<b>1985</b>—Subsec. (b)(1), (2). Pub. L. 99–159, §111(b)(9)(A), substituted “engineering” for “technical” wherever appearing.
+<b>1985</b>—Subsec. (b)(1), (2). Pub. L. 99–159, §111(b)(9)(A), substituted "engineering" for "technical" wherever appearing.
 
-Subsec. (b)(3). Pub. L. 99–159, §111(b)(9)(B), substituted “Engineering” for “Technology”.
+Subsec. (b)(3). Pub. L. 99–159, §111(b)(9)(B), substituted "Engineering" for "Technology".
 

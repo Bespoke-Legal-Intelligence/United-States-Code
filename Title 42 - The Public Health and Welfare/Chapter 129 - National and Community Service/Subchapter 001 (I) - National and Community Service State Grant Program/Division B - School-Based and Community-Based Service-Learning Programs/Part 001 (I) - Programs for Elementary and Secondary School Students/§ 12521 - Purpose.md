@@ -2,7 +2,7 @@
 
 The purpose of this part is to promote service-learning as a strategy to—
 
-&emsp;(1) support high-quality service-learning projects that engage students in meeting community needs with demonstrable results, while enhancing students’ academic and civic learning; and
+&emsp;(1) support high-quality service-learning projects that engage students in meeting community needs with demonstrable results, while enhancing students' academic and civic learning; and
 
 &emsp;(2) support efforts to build institutional capacity, including the training of educators, and to strengthen the service infrastructure to expand service opportunities.
 
@@ -12,7 +12,7 @@ The purpose of this part is to promote service-learning as a strategy to—
 
 A prior section 12521, Pub. L. 101–610, title I, §111, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825, prescribed general authority of the Corporation for National and Community Service to make grants for service-learning programs, prior to the general amendment of this part by Pub. L. 111–13.
 
-Another prior section 12521, Pub. L. 101–610, title I, §111, Nov. 16, 1990, 104 Stat. 3132; Pub. L. 102–10, §4(2), Mar. 12, 1991, 105 Stat. 30, prescribed general authority of Commission on National and Community Service to make grants for service-learning programs, prior to repeal by Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825.
+Another prior section 12521, Pub. L. 101–610, title I, §111, Nov. 16, 1990, 104 Stat. 3132; Pub. L. 102–10, §4(2),Mar. 12, 1991, 105 Stat. 30, prescribed general authority of Commission on National and Community Service to make grants for service-learning programs, prior to repeal by Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825.
 
 #### Effective Date
 

@@ -6,9 +6,9 @@ Any portion of an internal revenue tax (or any interest, assessable penalty, add
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–514 substituted “the underpayment rate established under section 6621” for “an annual rate established under section 6621”.
+<b>1986</b>—Pub. L. 99–514 substituted "the underpayment rate established under section 6621" for "an annual rate established under section 6621".
 
-<b>1975</b>—Pub. L. 93–625 substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
+<b>1975</b>—Pub. L. 93–625 substituted "an annual rate established under section 6621" for "the rate of 6 percent per annum".
 
 #### Effective Date of 1986 Amendment
 

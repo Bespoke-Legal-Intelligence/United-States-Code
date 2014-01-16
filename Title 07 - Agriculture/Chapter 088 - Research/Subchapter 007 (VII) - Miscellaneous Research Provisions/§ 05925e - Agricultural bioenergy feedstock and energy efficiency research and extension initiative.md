@@ -2,7 +2,7 @@
 
 #### (a) Establishment and purpose
 
-There is established within the Department of Agriculture an agricultural bioenergy feedstock and energy efficiency research and extension initiative (referred to in this section as the “Initiative”) for the purpose of enhancing the production of biomass energy crops and the energy efficiency of agricultural operations.
+There is established within the Department of Agriculture an agricultural bioenergy feedstock and energy efficiency research and extension initiative (referred to in this section as the "Initiative") for the purpose of enhancing the production of biomass energy crops and the energy efficiency of agricultural operations.
 
 #### (b) Competitive research and extension grants authorized
 

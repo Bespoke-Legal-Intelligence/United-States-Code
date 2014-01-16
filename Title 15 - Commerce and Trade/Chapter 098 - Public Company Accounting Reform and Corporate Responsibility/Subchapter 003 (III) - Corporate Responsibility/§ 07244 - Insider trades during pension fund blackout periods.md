@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any profit realized by a director or executive officer referred to in paragraph (1) fromany purchase, sale, or other acquisition or transfer in violation of this subsection shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such director or executive officer in entering into the transaction.
+&emsp;&emsp;Any profit realized by a director or executive officer referred to in paragraph (1) from any purchase, sale, or other acquisition or transfer in violation of this subsection shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such director or executive officer in entering into the transaction.
 
 #### (B) Actions to recover profits
 
@@ -22,7 +22,7 @@
 
 #### (4) Blackout period
 
-&emsp;For purposes of this subsection, the term “blackout period”, with respect to the equity securities of any issuer—
+&emsp;For purposes of this subsection, the term "blackout period", with respect to the equity securities of any issuer—
 
 &emsp;&emsp;(A) means any period of more than 3 consecutive business days during which the ability of not fewer than 50 percent of the participants or beneficiaries under all individual account plans maintained by the issuer to purchase, sell, or otherwise acquire or transfer an interest in any equity of such issuer held in such an individual account plan is temporarily suspended by the issuer or by a fiduciary of the plan; and
 
@@ -38,7 +38,7 @@
 
 #### (5) Individual account plan
 
-&emsp;For purposes of this subsection, the term “individual account plan” has the meaning provided in section 1002(34) of title 29, except that such term shall not include a one-participant retirement plan (within the meaning of section 1021(i)(8)(B) of title 29).
+&emsp;For purposes of this subsection, the term "individual account plan" has the meaning provided in section 1002(34) of title 29, except that such term shall not include a one-participant retirement plan (within the meaning of section 1021(i)(8)(B) of title 29).
 
 #### (6) Notice to directors, executive officers, and the Commission
 
@@ -72,5 +72,5 @@ For amendments made by this subsection and this section, referred to in subsecs.
 
 #### Codification
 
-Section is comprised of section 306 of Pub. L. 107–204. Subsec. (b)(1) of section 306 of Pub. L. 107–204 amendedsection 1021 of Title 29, Labor, and another par. (3) of subsec. (b) amended section 1132 of Title 29.
+Section is comprised of section 306 of Pub. L. 107–204. Subsec. (b)(1) of section 306 of Pub. L. 107–204 amended section 1021 of Title 29, Labor, and another par. (3) of subsec. (b) amended section 1132 of Title 29.
 

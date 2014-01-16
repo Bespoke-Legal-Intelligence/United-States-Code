@@ -26,7 +26,7 @@ Not later than 1 year after August 8, 2005, the Secretary of Energy, the Secreta
 
 &emsp;(1) an analysis and comparison of the potential energy cost or benefits to the customers of the Western Area Power Administration through the use of combined wind and hydropower;
 
-&emsp;(2) an economic and engineering evaluation of whether a combined wind and hydropower system can reduce reservoir fluctuation, enhance efficient and reliable energy production, and provide Missouri River management flexibility;
+&emsp;(2) an economic and engineering evaluation of whether a combined wind and hydropowersystem can reduce reservoir fluctuation, enhance efficient and reliable energy production, and provide Missouri River management flexibility;
 
 &emsp;(3) if found feasible, recommendations for a demonstration project to be carried out by the Western Area Power Administration, in partnership with an Indian tribal government or tribal energy resource development organization, and Western Area Power Administration customers to demonstrate the feasibility and potential of using wind energy produced on Indian land to supply firming energy to the Western Area Power Administration; and
 

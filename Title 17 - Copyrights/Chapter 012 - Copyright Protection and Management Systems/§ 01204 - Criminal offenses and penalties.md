@@ -20,7 +20,7 @@ Statute of Limitations.—No criminal proceeding shall be brought under this sec
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–295 substituted “118(f)” for “118(g)”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–295 substituted "118(f)" for "118(g)".
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–113 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Subsection (a) shall not apply to a nonprofit library, archives, or educational institution.”
+<b>1999</b>—Subsec. (b). Pub. L. 106–113 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Subsection (a) shall not apply to a nonprofit library, archives, or educational institution."
 

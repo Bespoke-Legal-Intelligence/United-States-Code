@@ -30,11 +30,11 @@ The Secretary shall provide from the funds appropriated under subsection (d)(1)(
 
 #### (3) Special rule for pools charging higher premiums
 
-&emsp;In the case of a qualified high risk pool of a State which charges premiums that exceed 150 percent of the premium for applicable standard risks, the State shall use at least 50 percent of the amount of the grant provided tothe State to carry out this subsection to reduce premiums for enrollees.
+&emsp;In the case of a qualified high risk pool of a State which charges premiums that exceed 150 percent of the premium for applicable standard risks, the State shall use at least 50 percent of the amount of the grant provided to the State to carry out this subsection to reduce premiums for enrollees.
 
 #### (4) Limitation for territories
 
-&emsp;In no case shall the aggregate amount allotted and made available under paragraph (2) for a fiscal year to States that are not the 50 States or the District of Columbia exceed $1,000,000.
+&emsp;In no case shall the aggregate amount allotted and made available under paragraph (2) fora fiscal year to States that are not the 50 States or the District of Columbia exceed $1,000,000.
 
 #### (c) Bonus grants for supplemental consumer benefits
 
@@ -116,13 +116,13 @@ In this section:
 
 #### (A) <sup>1</sup> In general
 
-&emsp;&emsp;The term “qualified high risk pool” has the meaning given such term in section 300gg–44(c)(2) of this title, except that a State may elect to meet the requirement of subparagraph (A) of such section (insofar as it requires the provision of coverage to all eligible individuals) through providing for the enrollment of eligible individuals through an acceptable alternative mechanism (as defined for purposes of section300gg–44 of this title) that includes a high risk pool as a component.
+&emsp;&emsp;The term "qualified high risk pool" has the meaning given such term in section 300gg–44(c)(2) of this title, except that a State may elect to meet the requirement of subparagraph (A) of such section (insofar as it requires the provision of coverage to all eligible individuals) through providing for the enrollment of eligible individuals through an acceptable alternative mechanism (as defined for purposes of section 300gg–44 of this title) that includes a high risk pool as a component.
 
 #### (2) Standard risk rate
 
-&emsp;The term “standard risk rate” means a rate—
+&emsp;The term "standard risk rate" means a rate—
 
-&emsp;&emsp;(A) determined under the State high risk pool by considering the premium rates charged by other health insurers offering health insurance coverage to individuals in the insurance market served;
+&emsp;&emsp;(A) determined under the State high risk pool by considering the premium ratescharged by other health insurers offering health insurance coverage to individuals in the insurance market served;
 
 &emsp;&emsp;(B) that is established using reasonable actuarial techniques; and
 
@@ -130,7 +130,7 @@ In this section:
 
 #### (3) State
 
-&emsp;The term “State” means any of the 50 States and the District of Columbia and includes Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
+&emsp;The term "State" means any of the 50 States and the District of Columbia and includes Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
 (July 1, 1944, ch. 373, title XXVII, §2745, as added Pub. L. 107–210, div. A, title II, §201(b), Aug. 6, 2002, 116 Stat. 959; amended Pub. L. 109–172, §2, Feb. 10, 2006, 120 Stat. 185.)
 

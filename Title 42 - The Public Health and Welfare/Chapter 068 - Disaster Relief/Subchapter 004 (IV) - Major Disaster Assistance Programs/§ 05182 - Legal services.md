@@ -1,12 +1,12 @@
 ### §5182. Legal services
 
-Whenever the President determines that low-income individuals are unable to secure legal services adequate to meet their needs as a consequence of a major disaster, consistent with the goals of the programs authorized by this chapter, the President shall assure that such programs are conducted with the advice and assistance of appropriate Federal agencies and State and local bar associations.
+Whenever the President determines that low-income individuals are unable to secure legalservices adequate to meet their needs as a consequence of a major disaster, consistent with the goals of the programs authorized by this chapter, the President shall assure that such programs are conducted with the advice and assistance of appropriate Federal agencies and State and local bar associations.
 
 (Pub. L. 93–288, title IV, §415, formerly §412, May 22, 1974, 88 Stat. 157; renumbered §415, Pub. L. 100–707, title I, §106(h), Nov. 23, 1988, 102 Stat. 4705.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Prior Provisions
 

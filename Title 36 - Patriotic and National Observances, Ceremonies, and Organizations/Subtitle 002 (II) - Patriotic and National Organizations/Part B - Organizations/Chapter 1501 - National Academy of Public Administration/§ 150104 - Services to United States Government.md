@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Apr. 10, 1984, Pub. L. 98–257, §17, 98 Stat. 129.
 
-The words “Congress, or” are omitted as included in “United States Government”. The word “experimentation” is added for consistency in the section.
+The words "Congress, or" are omitted as included in "United States Government". The word "experimentation" is added for consistency in the section.
 

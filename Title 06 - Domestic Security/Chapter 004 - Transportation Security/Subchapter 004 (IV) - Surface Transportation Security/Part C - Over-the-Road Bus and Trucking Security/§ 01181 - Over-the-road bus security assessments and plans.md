@@ -108,7 +108,7 @@ The Secretary shall assign each over-the-road bus operator to a risk-based tier 
 
 #### (1) Provision of information
 
-&emsp;The Secretary may request, and an over-the-road bus operator shall provide, information necessary for the Secretary to assign an over-the-road bus operator to the appropriate tier under this subsection.
+&emsp;The Secretary may request, and an over-the-road bus operator shall provide, informationnecessary for the Secretary to assign an over-the-road bus operator to the appropriate tier under this subsection.
 
 #### (2) Notification
 

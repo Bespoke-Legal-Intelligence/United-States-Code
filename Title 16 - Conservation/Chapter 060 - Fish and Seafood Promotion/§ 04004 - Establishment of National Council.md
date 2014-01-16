@@ -12,7 +12,7 @@ There is established the National Fish and Seafood Promotional Council.
 
 #### (c) Regional representation
 
-The National Council shall be comprised of regional representation from the Northeast, Southeast, Pacific, and Alaska regions. The Northeast region shall consist of the States of Maine, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Delaware, Pennsylvania, Maryland and Virginia. The Southeast region shall consist of the States of North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana and Texas, the Commonwealth of Puerto Rico, and the territory of the Virgin Islands. The Pacific region shall consist of the States of Idaho,Washington, Oregon, California, and Hawaii, the territories of Guam and American Samoa, and the Commonwealth of the Northern Mariana Islands. The Alaska region shall consist of the State of Alaska.
+The National Council shall be comprised of regional representation from the Northeast, Southeast, Pacific, and Alaska regions. The Northeast region shall consist of the States of Maine, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Delaware, Pennsylvania, Maryland and Virginia. The Southeast region shall consist of the States of North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana and Texas, the Commonwealth of Puerto Rico, and the territory of the Virgin Islands. The Pacific region shall consist of the States of Idaho, Washington, Oregon, California, and Hawaii, the territories of Guam and American Samoa, and the Commonwealth of the Northern Mariana Islands. The Alaska region shall consist of the State of Alaska.
 
 #### (d) Voting members
 
@@ -52,17 +52,17 @@ Members of the National Council shall serve without compensation, but shall be r
 
 #### Amendments
 
-<b>1988</b>—Subsec. (d)(1)(E). Pub. L. 100–350 which directed the substitution of “, at least one of whom is not a resident of the States of the Alaska, Pacific, Southeast, and Northeast regions” for “and who are not residents of the States of the Alaska, Pacific, Southeast, or Northeast regions” was executed by substituting that phrase for “and who are not residents of the states of the Alaska, Pacific, Southeast, or Northeast regions”.
+<b>1988</b>—Subsec. (d)(1)(E). Pub. L. 100–350 which directed the substitution of ", at least one of whom is not a resident of the States of the Alaska, Pacific, Southeast, and Northeast regions" for "and who are not residents of the States of the Alaska, Pacific, Southeast, or Northeast regions" was executed by substituting that phrase for "and who are not residents of the states of the Alaska, Pacific, Southeast, or Northeast regions".
 
 #### Continuity of National Council Membership
 
 Pub. L. 101–627, title VII, §704(a), (b), Nov. 28, 1990, 104 Stat. 4464, provided that:
 
-“(a)
+"(a)
 
 Uninterrupted Service.—Individuals serving on September 30, 1990, as members of the National Fish and Seafood Promotional Council shall be deemed to continue as members in uninterrupted service since the date of their initial appointment.
 
-“(b)
+"(b)
 
-Filling of Vacancies.—Notwithstanding section 206(e) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4005(e)), any vacancy on the National Fish and Seafood Promotion Act \[Promotional Council\] not filled as of September 30, 1990, shall be filled within 60 days after the date of enactment of this Act \[Nov. 28, 1990\].”
+Filling of Vacancies.—Notwithstanding section 206(e) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4005(e)), any vacancy on the National Fish and Seafood Promotion Act \[Promotional Council\] not filled as of September 30, 1990, shall be filled within 60 days after the date of enactment of this Act \[Nov. 28, 1990\]."
 

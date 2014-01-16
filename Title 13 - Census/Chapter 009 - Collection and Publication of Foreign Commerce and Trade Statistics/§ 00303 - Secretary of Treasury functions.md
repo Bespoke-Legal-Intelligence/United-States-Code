@@ -6,5 +6,5 @@ To assist the Secretary to carry out the provisions of this chapter, the Secreta
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–228 struck out “, other than by mail,” after “foreign commerce or trade”.
+<b>2002</b>—Pub. L. 107–228 struck out ", other than by mail," after "foreign commerce or trade".
 

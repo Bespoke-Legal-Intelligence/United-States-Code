@@ -20,13 +20,13 @@ The purposes of this subchapter are—
 
 In this subchapter:
 
-&emsp;(1) The terms “Semiconductor Technology Council” and “Council” mean the advisory council established by section 4603 of this title.
+&emsp;(1) The terms "Semiconductor Technology Council" and "Council" mean the advisory council established by section 4603 of this title.
 
-&emsp;(2) The term “Sematech” means a consortium of firms in the United States semiconductor industry established for the purposes of (A) conducting research concerning advanced semiconductor manufacturing techniques, and (B) developing techniques to adapt manufacturing expertise to a variety of semiconductor products.
+&emsp;(2) The term "Sematech" means a consortium of firms in the United States semiconductor industry established for the purposes of (A) conducting research concerning advanced semiconductor manufacturing techniques, and (B) developing techniques to adapt manufacturing expertise to a variety of semiconductor products.
 
 (Pub. L. 100–180, div. A, title II, §271, Dec. 4, 1987, 101 Stat. 1068; Pub. L. 103–160, div. A, title II, §263(c)(1), Nov. 30, 1993, 107 Stat. 1610.)
 
 #### Amendments
 
-<b>1993</b>—Subsec. (c)(1). Pub. L. 103–160 substituted “Semiconductor Technology Council” for “Advisory Council on Federal Participation in Sematech”.
+<b>1993</b>—Subsec. (c)(1). Pub. L. 103–160 substituted "Semiconductor Technology Council" for "Advisory Council on Federal Participation in Sematech".
 

@@ -38,7 +38,7 @@ A payment may not be made to a State under this section with respect to expendit
 
 (2)(A) Each State shall take such steps as are necessary to ensure that not less than 50 percent of the total number of visits made by caseworkers to children in foster care under the responsibility of the State during a fiscal year occur in the residence of the child involved.
 
-(B) If the Secretary determines that a State has failed to comply with subparagraph (A) for a fiscal year, then the percentage that would otherwise apply for purposes of subsection (a) for the fiscal year shall be reduced by—
+(B) If the Secretary determines that a State has failed to comply with subparagraph (A) for a fiscal year, then the percentage that wouldotherwise apply for purposes of subsection (a) for the fiscal year shall be reduced by—
 
 &emsp;(i) 1, if the number of full percentage points by which the State fell short of the percentage specified in subparagraph (A) is less than 10;
 
@@ -60,7 +60,7 @@ A prior section 624, act Aug. 14, 1935, ch. 531, title IV, §424, as added Pub. 
 
 <b>2011</b>—Subsecs. (e), (f). Pub. L. 112–34 added subsec. (f) and struck out subsec. (e) relating to caseworker visitation standard.
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–288, §11(a)(2), substituted “percent” for “per centum”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–288, §11(a)(2), substituted "percent" for "per centum".
 
 Subsecs. (c), (d). Pub. L. 109–288, §6(e)(1), added subsecs. (c) and (d) struck out former subsecs. (c) and (d) which related to prohibited payments and minimum State expenditures, respectively.
 
@@ -68,13 +68,13 @@ Subsec. (e). Pub. L. 109–288, §7(b), added subsec. (e) relating to caseworker
 
 Pub. L. 109–288, §6(e)(2)(A), added subsec. (e) relating to limitation on reimbursement for administrative costs.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–432 struck out “and in section 627 of this title” after “set forth in this section”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–432 struck out "and in section 627 of this title" after "set forth in this section".
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted “under this subpart” for “under this part”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted "under this subpart" for "under this part".
 
 <b>1980</b>—Pub. L. 96–272 substituted provisions covering payments to States for provisions relating to allotment percentages and Federal share.
 
-<b>1976</b>—Subsec. (c). Pub. L. 94–273 substituted “October” for “July” wherever appearing and “November 30” for “August 31”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–273 substituted "October" for "July" wherever appearing and "November 30" for "August 31".
 
 #### Effective Date of 2011 Amendment
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–288, §6(e)(2)(B), Sept. 28, 2006, 120 Stat. 1247, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to expenditures made on or after October 1, 2007.”
+Pub. L. 109–288, §6(e)(2)(B), Sept. 28, 2006, 120 Stat. 1247, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to expenditures made on or after October 1, 2007."
 
 Amendment by Pub. L. 109–288 effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 

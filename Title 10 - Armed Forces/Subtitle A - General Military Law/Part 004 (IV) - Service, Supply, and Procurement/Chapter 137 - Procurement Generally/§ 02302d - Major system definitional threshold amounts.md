@@ -14,7 +14,7 @@ Civilian Agency Systems.—For purposes of section 2302(5) of this title, a syst
 
 &emsp;(1) $750,000 (based on fiscal year 1980 constant dollars); or
 
-&emsp;(2) the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”.
+&emsp;(2) the dollar threshold for a "major system" established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled "Major Systems Acquisitions".
 
 (c)
 
@@ -28,7 +28,7 @@ Adjustment Authority.—(1) The Secretary of Defense may adjust the amounts and 
 
 #### Amendments
 
-<b>1999</b>—Subsec. (c)(3). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (c)(3). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
-<b>1997</b>—Subsec. (a)(2). Pub. L. 105–85 substituted “procurement for the system is estimated to be” for “procurement of”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–85 substituted "procurement for the system is estimated to be" for "procurement of".
 

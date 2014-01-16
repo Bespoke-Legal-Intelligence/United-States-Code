@@ -18,7 +18,7 @@ The President is authorized to provide grants to private, nonprofit organization
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(1). Pub. L. 112–172 substituted “2017” for “2012”.
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–172 substituted "2017" for "2012".
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–346 inserted “and $2,000,000 for each of fiscal years 2009 through 2012” after “2008”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–346 inserted "and $2,000,000 for each of fiscal years 2009 through 2012" after "2008".
 

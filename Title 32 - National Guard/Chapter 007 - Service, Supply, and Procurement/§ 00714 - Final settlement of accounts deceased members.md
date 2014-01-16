@@ -56,29 +56,29 @@ July 12, 1955, ch. 328, §§1–3, 4 (less proviso), 5 (1st sentence), 69 Stat. 
 
 37:363 (last sentence).
 
-In subsection (a), the definition of the term “Department”, in 37:361, is omitted as unnecessary, since the particular departments referred to are spelled out in the revised text. The definition of the term “uniformed services”, in 37:361, is omitted as covered by the word “member” in this revised section. Clauses (1)–(6) are substituted for the last 5 clauses of 37:362. The words “regulations to be prescribed by the Secretary concerned” are substituted for the words “regulations of the Department concerned”, since the “Department”, as such, cannot issue regulations.
+In subsection (a), the definition of the term "Department", in 37:361, is omitted as unnecessary, since the particular departments referred to are spelled out in the revised text. The definition of the term "uniformed services", in 37:361, is omitted as covered by the word "member" in this revised section. Clauses (1)–(6) are substituted for the last 5 clauses of 37:362. The words "regulations to be prescribed by the Secretary concerned" are substituted for the words "regulations of the Department concerned", since the "Department", as such, cannot issue regulations.
 
-In subsection (a)(2), the words “Surviving spouse” are substituted for the words “widow or widower”. As defined in section 101(18) of this title, “spouse” includes a widower.
+In subsection (a)(2), the words "Surviving spouse" are substituted for the words "widow or widower". As defined in section 101(18) of this title, "spouse" includes a widower.
 
-In subsection (b), the words “are subject to” are substituted for the words “shall be made under”.
+In subsection (b), the words "are subject to" are substituted for the words "shall be made under".
 
-In subsection (c), the word “Under” is substituted for the words “Subject to”. The words “rules and” are omitted as surplusage.
+In subsection (c), the word "Under" is substituted for the words "Subject to". The words "rules and" are omitted as surplusage.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–316, in first sentence, substituted “Secretary concerned” for “Comptroller General” and struck out at end “Payment under clause (6) of subsection (a) shall be made—
+<b>1996</b>—Subsec. (c). Pub. L. 104–316, in first sentence, substituted "Secretary concerned" for "Comptroller General" and struck out at end "Payment under clause (6) of subsection (a) shall be made—
 
-&emsp;“(1) upon settlement by the General Accounting Office; or
+&emsp;"(1) upon settlement by the General Accounting Office; or
 
-&emsp;“(2) as otherwise authorized by the Comptroller General.”
+&emsp;"(2) as otherwise authorized by the Comptroller General."
 
-<b>1961</b>—Subsec. (c). Pub. L. 87–46 substituted “Payment under clause (6) of subsection (a) shall be made—
+<b>1961</b>—Subsec. (c). Pub. L. 87–46 substituted "Payment under clause (6) of subsection (a) shall be made—
 
-&emsp;“(1) upon settlement by the General Accounting Office; or
+&emsp;"(1) upon settlement by the General Accounting Office; or
 
-&emsp;“(2) as otherwise authorized by the Comptroller General.”
+&emsp;"(2) as otherwise authorized by the Comptroller General."
 
-> for “Payments under clauses (2)–(6) of subsection (a) may be paid only after settlement by the General Accounting Office.”
+> for "Payments under clauses (2)–(6) of subsection (a) may be paid only after settlement by the General Accounting Office."
 
 #### Designation of Beneficiary Made Before January 1, 1956
 

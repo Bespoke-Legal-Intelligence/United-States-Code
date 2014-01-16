@@ -18,7 +18,7 @@ The Corporation may refund to any insured System bank any premium payment made b
 
 #### (1) Forfeiture of rights
 
-&emsp;If any insured System bank fails to file any certified statement required to be filed bysuch bank under section 2277a–5 of this title or fails to pay any premium required to be paid by such bank under any provision of this part, and if the bank does not correct such failure within 30 days after the Corporation gives written notice to an officer of the bank, citing this subsection and stating that the bank has failed to so file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under this chapter shall be thereby forfeited.
+&emsp;If any insured System bank fails to file any certified statement required to be filed by such bank under section 2277a–5 of this title or fails to pay any premium required to be paid by such bank under any provision of this part, and if the bank does not correct such failure within 30 days after the Corporation gives written notice to an officer of the bank, citing this subsection and stating that the bank has failed to so file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under this chapter shall be thereby forfeited.
 
 #### (2) Enforcement
 
@@ -36,9 +36,9 @@ The remedies provided in subsections (b) and (c) of this section shall not be co
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–399, §302(g), struck out “made any report of condition required under section 2277a–4 of this title or” after “bank has” and “make any such report or” after “bank to”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–399, §302(g), struck out "made any report of condition required under section 2277a–4 of this title or" after "bank has" and "make any such report or" after "bank to".
 
-Subsec. (b)(2). Pub. L. 100–399, §302(h), substituted “bank has filed” for “bank has made or filed”.
+Subsec. (b)(2). Pub. L. 100–399, §302(h), substituted "bank has filed" for "bank has made or filed".
 
 #### Effective Date of 1988 Amendment
 

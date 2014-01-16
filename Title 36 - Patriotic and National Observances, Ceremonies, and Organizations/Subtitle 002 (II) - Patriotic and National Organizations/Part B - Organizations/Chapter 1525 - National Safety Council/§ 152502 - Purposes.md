@@ -34,7 +34,7 @@ Historical and Revision Notes
 
 Aug. 13, 1953, ch. 429, §3, 67 Stat. 569.
 
-Before clause (1), the word “object” is omitted as included in “purposes”.
+Before clause (1), the word "object" is omitted as included in "purposes".
 
-In clause (2), the words “distribute” and “data” (the first time appearing) are omitted as unnecessary.
+In clause (2), the words "distribute" and "data" (the first time appearing) are omitted as unnecessary.
 

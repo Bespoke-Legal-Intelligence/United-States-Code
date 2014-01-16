@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 Nov. 5, 1990, Pub. L. 101–508, §9305, 104 Stat. 1388–382.
 
-In this section, before clause (1), the words “conduct a study and decide on” are substituted for “determine by a study” for clarity. The words “with a maximum weight of not more than” are substituted for “weighing less than” for consistency with sections 47528 and 47529 of the revised title.
+In this section, before clause (1), the words "conduct a study and decide on" are substituted for "determine by a study" for clarity. The words "with a maximum weight of not more than" are substituted for "weighing less than" for consistency with sections 47528 and 47529 of the revised title.
 

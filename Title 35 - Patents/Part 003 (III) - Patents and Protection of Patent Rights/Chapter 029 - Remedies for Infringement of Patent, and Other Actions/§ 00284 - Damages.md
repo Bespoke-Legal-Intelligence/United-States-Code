@@ -16,9 +16,9 @@ This section consolidates the provisions relating to damages in R.S. 4919 and 49
 
 #### Amendments
 
-<b>2011</b>—Second par. Pub. L. 112–29 struck out “of this title” after “154(d)”.
+<b>2011</b>—Second par. Pub. L. 112–29 struck out "of this title" after "154(d)".
 
-<b>1999</b>—Second par. Pub. L. 106–113 inserted at end “Increased damages under this paragraph shall not apply to provisional rights under section 154(d) of this title.”
+<b>1999</b>—Second par. Pub. L. 106–113 inserted at end "Increased damages under this paragraph shall not apply to provisional rights under section 154(d) of this title."
 
 #### Effective Date of 2011 Amendment
 

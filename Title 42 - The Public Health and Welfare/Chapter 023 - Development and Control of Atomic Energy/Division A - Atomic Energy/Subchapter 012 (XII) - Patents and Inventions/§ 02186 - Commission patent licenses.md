@@ -4,13 +4,17 @@ The Commission shall establish standard specifications upon which it may grant a
 
 (Aug. 1, 1946, ch. 724, title I, §156, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 947; amended Pub. L. 96–517, §7(a), Dec. 12, 1980, 94 Stat. 3027; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–517 substituted “patent declared to be affected” for “patent held by the Commission or declared to be affected”.
+<b>1980</b>—Pub. L. 96–517 substituted "patent declared to be affected" for "patent held by the Commission or declared to be affected".
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–517 effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as a note under section 41 of Title 35, Patents.
+Amendment by Pub. L. 96–517 effective July 1, 1981, but implementing regulations authorized to be issuedearlier, see section 8(f) of Pub. L. 96–517, set out as a note under section 41 of Title 35, Patents.
 
 #### Transfer of Functions
 

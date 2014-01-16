@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-(1) The Secretary shall, within one year after October 24, 1992, issue regulations establishing guidelines for comprehensive State alternative fuels and alternative fueled vehicle incentives and program plans designed to accelerate the introduction and use of such fuels and vehicles. Such guideline <sup>1</sup> shall address the development,modification, and implementation of such State plans and shall describe those program elements, as described in paragraph (3), to be addressed in such plans.
+(1) The Secretary shall, within one year after October 24, 1992, issue regulations establishing guidelines for comprehensive State alternative fuels and alternative fueled vehicle incentives and program plans designed to accelerate the introduction and use of such fuels and vehicles. Such guideline <sup>1</sup> shall address the development, modification, and implementation of such State plans and shall describe those program elements, as described in paragraph (3), to be addressed in such plans.
 
 (2) The Secretary, after consultation with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall invite the Governor of each State to submit to the Secretary a State plan within one year after the effective date of the regulations issued under paragraph (1). Such plan shall include—
 
@@ -90,11 +90,11 @@ For the purposes of this section, the following definitions apply:
 
 #### (1) Governor
 
-&emsp;The term “Governor” means the chief executive of a State.
+&emsp;The term "Governor" means the chief executive of a State.
 
 #### (2) State
 
-&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other Commonwealth, territory, or possession of the United States.
+&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other Commonwealth, territory, or possession of the United States.
 
 #### (e) Authorization of appropriations
 
@@ -110,5 +110,5 @@ The Intermodal Surface Transportation Efficiency Act of 1991, referred to in sub
 
 For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this section relating to annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 8th item on page 86 of House Document No. 103–7.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “guidelines”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "guidelines".</i>
 

@@ -20,7 +20,7 @@
 
 #### Amendments
 
-<b>1999</b>—Subsec. (e). Pub. L. 106–168 substituted “3007” for “3006, 3007,”.
+<b>1999</b>—Subsec. (e). Pub. L. 106–168 substituted "3007" for "3006, 3007,".
 
 #### Effective Date of 1999 Amendment
 

@@ -6,5 +6,5 @@ The Chief of Engineers, under the supervision of the Secretary of the Army, is a
 
 #### Amendments
 
-<b>1965</b>—Pub. L. 89–298 struck out “before November 1, 1956” after “lease entered into”.
+<b>1965</b>—Pub. L. 89–298 struck out "before November 1, 1956" after "lease entered into".
 

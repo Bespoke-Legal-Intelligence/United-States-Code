@@ -22,5 +22,5 @@ The provisions of this chapter shall not apply to—
 
 (Pub. L. 97–446, title III, §312, Jan. 12, 1983, 96 Stat. 2362.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “United”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "United".</i>
 

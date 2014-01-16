@@ -12,7 +12,7 @@ Procedures.—The Secretary of Homeland Security shall prescribe procedures for 
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
+<b>2002</b>—Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation" wherever appearing.
 
 #### Effective Date of 2002 Amendment
 

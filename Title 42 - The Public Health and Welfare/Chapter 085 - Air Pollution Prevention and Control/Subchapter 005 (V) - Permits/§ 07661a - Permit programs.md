@@ -16,7 +16,7 @@ The Administrator shall promulgate within 12 months after November 15, 1990, reg
 
 &emsp;&emsp;(i) reviewing and acting upon any application for such a permit,
 
-&emsp;&emsp;(ii) if the owner or operator receives a permit for such source, whether before or afterNovember 15, 1990, implementing and enforcing the terms and conditions of any such permit (not including any court costs or other costs associated with any enforcement action),
+&emsp;&emsp;(ii) if the owner or operator receives a permit for such source, whether before or after November 15, 1990, implementing and enforcing the terms and conditions of any such permit (not including any court costs or other costs associated with any enforcement action),
 
 &emsp;&emsp;(iii) emissions and ambient monitoring,
 
@@ -30,7 +30,7 @@ The Administrator shall promulgate within 12 months after November 15, 1990, reg
 
 &emsp;&emsp;(i) The Administrator shall not approve a program as meeting the requirements of this paragraph unless the State demonstrates that, except as otherwise provided in subparagraphs <sup>2</sup> (ii) through (v) of this subparagraph, the program will result in the collection, in the aggregate, from all sources subject to subparagraph (A), of an amount not less than $25 per ton of each regulated pollutant, or such other amount as the Administrator may determine adequately reflects the reasonable costs of the permit program.
 
-&emsp;&emsp;(ii) As used in this subparagraph, the term “regulated pollutant” shall mean (I) a volatile organic compound; (II) each pollutant regulated under section 7411 or 7412 of this title; and (III) each pollutant for which a national primary ambient air quality standard has been promulgated (except that carbon monoxide shall be excluded from this reference).
+&emsp;&emsp;(ii) As used in this subparagraph, the term "regulated pollutant" shall mean (I) a volatile organic compound; (II) each pollutant regulated under section 7411 or 7412 of this title; and (III) each pollutant for which a national primary ambient air quality standard has been promulgated (except that carbon monoxide shall be excluded from this reference).
 
 &emsp;&emsp;(iii) In determining the amount under clause (i), the permitting authority is not required to include any amount of regulated pollutant emitted by any source in excess of 4,000 tons per year of that regulated pollutant.
 
@@ -80,7 +80,7 @@ A single permit may be issued for a facility with multiple sources.
 
 #### (d) Submission and approval
 
-(1) Not later than 3 years after November 15, 1990, the Governor of each State shall develop and submit to the Administrator a permit program under State or local law or under an interstate compact meeting the requirements of this subchapter. In addition, the Governor shall submit a legal opinion from the attorney general (or the attorney for those State air pollution control agencies that have independent legal counsel), or from the chief legal officer of an interstate agency, that the laws of the State, locality, or the interstate compact provide adequate authority to carry out the program. Not later than 1 year after receiving a program, and after notice and opportunity for public comment, the Administrator shall approve or disapprove such program, in whole or in part. The Administrator may approve a program to the extent that the program meets the requirements of this chapter, including the regulations issued under subsection (b) of this section. If the program is disapproved, in whole or in part, the Administrator shall notify the Governor of any revisions or modifications necessary to obtain approval. The Governor shall revise and resubmit the program for review under this section within 180 days after receiving notification.
+(1) Not later than 3 years after November 15, 1990, the Governor of each State shall developand submit to the Administrator a permit program under State or local law or under an interstate compact meeting the requirements of this subchapter. In addition, the Governor shall submit a legal opinion from the attorney general (or the attorney for those State air pollution control agencies that have independent legal counsel), or from the chief legal officer of an interstate agency, that the laws of the State, locality, or the interstate compact provide adequate authority to carry out the program. Not later than 1 year after receiving a program, and after notice and opportunity for public comment, the Administrator shall approve or disapprove such program, in whole or in part. The Administrator may approve a program to the extent that the program meets the requirements of this chapter, including the regulations issued under subsection (b) of this section. If the program is disapproved, in whole or in part, the Administrator shall notify the Governor of any revisions or modifications necessary to obtain approval. The Governor shall revise and resubmit the program for review under this section within 180 days after receiving notification.
 
 (2)(A) If the Governor does not submit a program as required under paragraph (1) or if the Administrator disapproves a program submitted by the Governor under paragraph (1), in whole or in part, the Administrator may, prior to the expiration of the 18-month period referred to in subparagraph (B), in the Administrator's discretion, apply any of the sanctions specified in section 7509(b) of this title.
 
@@ -92,15 +92,15 @@ A single permit may be issued for a facility with multiple sources.
 
 #### (e) Suspension
 
-The Administrator shall suspend the issuance of permits promptly upon publication of notice of approval of a permit program under this section, but may, in such notice, retain jurisdiction over permits that have been federally issued, but for which the administrative or judicial review process is not complete. The Administratorshall continue to administer and enforce federally issued permits under this subchapter until they are replaced by a permit issued by a permitting program. Nothing in this subsection should be construed to limit the Administrator's ability to enforce permits issued by a State.
+The Administrator shall suspend the issuance of permits promptly upon publication of notice of approval of a permit program under this section, but may, in such notice, retain jurisdiction over permits that have been federally issued, but for which the administrative or judicial review process is not complete. The Administrator shall continue to administer and enforce federally issued permits under this subchapter until they are replaced by a permit issued by a permitting program. Nothing in this subsection should be construed to limit the Administrator's ability to enforce permits issued by a State.
 
 #### (f) Prohibition
 
 No partial permit program shall be approved unless, at a minimum, it applies, and ensures compliance with, this subchapter and each of the following:
 
-&emsp;(1) All requirements established under subchapter IV–A of this chapter applicable to “affected sources”.
+&emsp;(1) All requirements established under subchapter IV–A of this chapter applicable to "affected sources".
 
-&emsp;(2) All requirements established under section 7412 of this title applicable to “major sources”, “area sources,” and “new sources”.
+&emsp;(2) All requirements established under section 7412 of this title applicable to "major sources", "area sources," and "new sources".
 
 &emsp;(3) All requirements of subchapter I of this chapter (other than section 7412 of this title) applicable to sources required to have a permit under this subchapter.
 
@@ -118,7 +118,7 @@ The effective date of a permit program, or partial or interim program, approved 
 
 (1) Whenever the Administrator makes a determination that a permitting authority is not adequately administering and enforcing a program, or portion thereof, in accordance with the requirements of this subchapter, the Administrator shall provide notice to the State and may, prior to the expiration of the 18-month period referred to in paragraph (2), in the Administrator's discretion, apply any of the sanctions specified in section 7509(b) of this title.
 
-(2) Whenever the Administrator makes a determination that a permitting authority is not adequately administering and enforcing a program, or portion thereof, in accordance with the requirements of this subchapter, 18 months after the date of the notice under paragraph (1), the Administrator shall apply the sanctions under section 7509(b) of this title in the same manner and subject to the same deadlines and other conditions as are applicable in the case of a determination, disapproval, or finding under section 7509(a) of this title.
+(2) Whenever the Administrator makes a determination that a permitting authority is notadequately administering and enforcing a program, or portion thereof, in accordance with the requirements of this subchapter, 18 months after the date of the notice under paragraph (1), the Administrator shall apply the sanctions under section 7509(b) of this title in the same manner and subject to the same deadlines and other conditions as are applicable in the case of a determination, disapproval, or finding under section 7509(a) of this title.
 
 (3) The sanctions under section 7509(b)(2) of this title shall not apply pursuant to this subsection in any area unless the failure to adequately enforce and administer the program relates to an air pollutant for which such area has been designated a nonattainment area.
 
@@ -126,9 +126,9 @@ The effective date of a permit program, or partial or interim program, approved 
 
 (July 14, 1955, ch. 360, title V, §502, as added Pub. L. 101–549, title V, §501, Nov. 15, 1990, 104 Stat. 2635.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “part”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "part".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “clauses”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "clauses".</i>
 
 <i><sup>3</sup></i><i> So in original. A closing parenthesis probably should precede the colon.</i>
 

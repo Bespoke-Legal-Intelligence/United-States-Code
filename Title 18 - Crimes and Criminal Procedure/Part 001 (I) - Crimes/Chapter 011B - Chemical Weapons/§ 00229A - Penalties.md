@@ -18,7 +18,7 @@ Civil Penalties.—
 
 &emsp;(1)
 
-In general.—The Attorney General may bring a civil action in the appropriate United States district court against any person who violates section 229 of this title and, upon proof of such violation by a preponderance of the evidence, such person shall be subject topay a civil penalty in an amount not to exceed $100,000 for each such violation.
+In general.—The Attorney General may bring a civil action in the appropriate United States district court against any person who violates section 229 of this title and, upon proof of such violation by a preponderance of the evidence, such person shall be subject to pay a civil penalty in an amount not to exceed $100,000 for each such violation.
 
 &emsp;(2)
 

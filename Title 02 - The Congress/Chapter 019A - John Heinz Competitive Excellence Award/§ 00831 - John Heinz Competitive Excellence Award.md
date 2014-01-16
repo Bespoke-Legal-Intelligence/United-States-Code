@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the John Heinz Competitive Excellence Award, which shall be evidenced by a national medal bearing the inscription “John Heinz Competitive Excellence Award”. The medal, to be minted by the United States Mint and provided to the Congress, shall be of such design and bear such additional inscriptions as the Secretary of the Treasury may prescribe, in consultation with the Majority and Minority Leaders of the Senate, the Speaker and the Minority Leader of the House of Representatives, and the family of Senator John Heinz. The medal shall be—
+There is hereby established the John Heinz Competitive Excellence Award, which shall be evidenced by a national medal bearing the inscription “John Heinz Competitive ExcellenceAward”. The medal, to be minted by the United States Mint and provided to the Congress, shall be of such design and bear such additional inscriptions as the Secretary of the Treasury may prescribe, in consultation with the Majority and Minority Leaders of the Senate, the Speaker and the Minority Leader of the House of Representatives, and the family of Senator John Heinz. The medal shall be—
 
 &emsp;(1) three inches in diameter; and
 
@@ -34,7 +34,7 @@ There is hereby established the John Heinz Competitive Excellence Award, which s
 
 #### (2) Qualification
 
-&emsp;An individual, organization, institution, or business may qualify for an award under thissection only if such individual, organization, institution, or business—
+&emsp;An individual, organization, institution, or business may qualify for an award under this section only if such individual, organization, institution, or business—
 
 &emsp;&emsp;(A) is nominated to the Majority or Minority Leader of the Senate or to the Speaker or the Minority Leader of the House of Representatives by a member of the Senate or the House of Representatives;
 

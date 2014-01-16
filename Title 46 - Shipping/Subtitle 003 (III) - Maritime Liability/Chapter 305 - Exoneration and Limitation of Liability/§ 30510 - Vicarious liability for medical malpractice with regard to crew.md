@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 R.S. §4283(g); Pub. L. 104–324, §1129(a), Oct. 19, 1996, 110 Stat. 3984.
 
-The words “civil action” are substituted for “suit” for consistency in the revised title. The words “is entitled to rely on any statutory” are substituted for “shall be entitled to rely upon any and all statutory” to eliminate unnecessary words.
+The words "civil action" are substituted for "suit" for consistency in the revised title. The words "is entitled to rely on any statutory" are substituted for "shall be entitled to rely upon any and all statutory" to eliminate unnecessary words.
 

@@ -36,9 +36,9 @@ When any property which is seized under the provisions of section 7301 or sectio
 
 #### Amendments
 
-<b>1976</b>—Pars. (1) to (4). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pars. (1) to (4). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
-<b>1958</b>—Par. (3). Pub. L. 85–866 struck out “district” before “attorney”.
+<b>1958</b>—Par. (3). Pub. L. 85–866 struck out "district" before "attorney".
 
 Pub. L. 85–859 included property seized under section 7302 of this title.
 

@@ -26,7 +26,7 @@ Section was formerly classified to section 300aaa of this title prior to renumbe
 
 <b>1968</b>—Subsec. (e). Pub. L. 90–574 struck out subsec. (e) which provided for acknowledgment of donations of $50,000 or more in aid of research by the establishment of suitable memorials within the National Institutes of Health and the National Institute of Mental Health.
 
-<b>1948</b>—Subsec. (e). Act June 16, 1948, substituted “National Institutes of Health” for “National Institute of Health”.
+<b>1948</b>—Subsec. (e). Act June 16, 1948, substituted "National Institutes of Health" for "National Institute of Health".
 
 <b>1946</b>—Subsec. (e). Act July 3, 1946, inserted reference to National Institute of Mental Health.
 

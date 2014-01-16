@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00551 - &#8220;Klamath Tribe&#8221; defined](%C2%A7%2000551%20-%20%E2%80%9CKlamath%20Tribe%E2%80%9D%20defined.md)
+- [&sect; 00551 - Klamath Tribe defined](%C2%A7%2000551%20-%20Klamath%20Tribe%20defined.md)
 - [&sect; 00552 - Payments in lieu of allotments](%C2%A7%2000552%20-%20Payments%20in%20lieu%20of%20allotments.md)
 - [&sect; 00553 - Deposit and expenditure of payments](%C2%A7%2000553%20-%20Deposit%20and%20expenditure%20of%20payments.md)
 - [&sect; 00554 - Disposition of payment on death of Indian](%C2%A7%2000554%20-%20Disposition%20of%20payment%20on%20death%20of%20Indian.md)

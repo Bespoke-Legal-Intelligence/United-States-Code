@@ -12,7 +12,7 @@ The purposes of this section are—
 
 #### (b) Eligible entities
 
-For the purpose of this section, the term “eligible entity” means—
+For the purpose of this section, the term "eligible entity" means—
 
 &emsp;(1) an institution of higher education, including an Indian institution of higher education;
 
@@ -44,7 +44,7 @@ The Secretary is authorized to award grants to eligible entities having applicat
 
 #### (e) Application
 
-Each eligible entity desiring a grant under this section shall submit an application to theSecretary at such time, in such manner, and accompanied by such information, as the Secretary may reasonably require.
+Each eligible entity desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information, as the Secretary may reasonably require.
 
 #### (f) Special rule
 

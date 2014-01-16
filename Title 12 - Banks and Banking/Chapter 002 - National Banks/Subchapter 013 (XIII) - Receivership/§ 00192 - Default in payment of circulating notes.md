@@ -18,7 +18,7 @@ R.S. §5234 derived from act June 3, 1864, ch. 106, §50, 13 Stat. 114, which wa
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–325 struck out “has refused to pay its circulating notes as therein mentioned, and” before “is in default”.
+<b>1994</b>—Pub. L. 103–325 struck out "has refused to pay its circulating notes as therein mentioned, and" before "is in default".
 
 <b>1959</b>—Pub. L. 86–230 struck out provisions which required receiver to enforce the personal liability of shareholders.
 

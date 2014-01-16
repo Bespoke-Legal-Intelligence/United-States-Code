@@ -34,7 +34,7 @@ Aug. 11, 1955, ch. 794, §1(a) “(c) (less applicability to §10)”, (b), 69 S
 
 Apr. 11, 1958, Pub. L. 85–377, §1 (less applicability to §10), 72 Stat. 87.
 
-In subsection (a), the words “of the Employees’ Life Insurance Fund” are substituted for “of a fund which is hereby created”. The proviso which made appropriations available to the Commission for salaries and expenses for the fiscal year 1955 available on a reimbursable basis for necessary administrative expenses forcarrying out the purposes of this chapter is omitted as executed.
+In subsection (a), the words “of the Employees’ Life Insurance Fund” are substituted for “of a fund which is hereby created”. The proviso which made appropriations available to the Commission for salaries and expenses for the fiscal year 1955 available on a reimbursable basis for necessary administrative expenses for carrying out the purposes of this chapter is omitted as executed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

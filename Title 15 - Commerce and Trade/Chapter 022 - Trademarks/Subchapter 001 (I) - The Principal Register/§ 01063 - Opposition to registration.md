@@ -16,21 +16,21 @@ Acts Feb. 20, 1905, ch. 592, §§6, 7, 33 Stat. 726; Mar. 2, 1907, ch. 2573, §2
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–312 substituted “the registration of any mark which would be likely to cause dilution by blurring or dilution by tarnishment” for “as a result of dilution”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–312 substituted "the registration of any mark which would be likely to cause dilution by blurring or dilution by tarnishment" for "as a result of dilution".
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113 substituted "Director" for "Commissioner" wherever appearing.
 
-Pub. L. 106–43 inserted “, including as a result of dilution under section 1125(c) of this title,” after “principal register” in first sentence.
+Pub. L. 106–43 inserted ", including as a result of dilution under section 1125(c) of this title," after "principal register" in first sentence.
 
-<b>1988</b>—Pub. L. 100–667 designated existing provisions as subsec. (a), substituted “prescribed fee” for “required fee”, and added subsec. (b).
+<b>1988</b>—Pub. L. 100–667 designated existing provisions as subsec. (a), substituted "prescribed fee" for "required fee", and added subsec. (b).
 
-<b>1982</b>—Pub. L. 97–247 substituted “an” for “a verified” after “required fee, file”, inserted “when requested prior to the expiration of an extension” after “Commissioner for good cause” and struck out provision that an unverified opposition could be filed by a duly authorized attorney, but such opposition would be null and void unless verified by the opposer within a reasonable time after such filing is fixed by the Commissioner.
+<b>1982</b>—Pub. L. 97–247 substituted "an" for "a verified" after "required fee, file", inserted "when requested prior to the expiration of an extension" after "Commissioner for good cause" and struck out provision that an unverified opposition could be filed by a duly authorized attorney, but such opposition would be null and void unless verified by the opposer within a reasonable time after such filing is fixed by the Commissioner.
 
 <b>1975</b>—Pub. L. 93–600 substituted provisions relating to extensions of time for filing opposition upon written request prior to the expiration of the thirty-day period for an additional thirty days, and further extensions for good cause, for provisions relating to extensions of the time for filing opposition for good cause shown.
 
-Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
-<b>1962</b>—Pub. L. 87–772 inserted “An opposition may be amended under such conditions as may be prescribed by the Commissioner”, and struck out “notice of” after “file a verified” and “time for filing”.
+<b>1962</b>—Pub. L. 87–772 inserted "An opposition may be amended under such conditions as may be prescribed by the Commissioner", and struck out "notice of" after "file a verified" and "time for filing".
 
 #### Effective Date of 1999 Amendments
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see sect
 
 #### Effective Date of 1975 Amendments
 
-Pub. L. 93–600, §4, Jan. 2, 1975, 88 Stat. 1955, provided that: “This Act \[amending this section and sections 1071 and 1117 of this title\] shall become effective upon enactment \[Jan. 2, 1975\], but shall not affect any suit, proceeding, or appeal then pending.”
+Pub. L. 93–600, §4, Jan. 2, 1975, 88 Stat. 1955, provided that: "This Act \[amending this section and sections 1071 and 1117 of this title\] shall become effective upon enactment \[Jan. 2, 1975\], but shall not affect any suit, proceeding, or appeal then pending."
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of this title.
 

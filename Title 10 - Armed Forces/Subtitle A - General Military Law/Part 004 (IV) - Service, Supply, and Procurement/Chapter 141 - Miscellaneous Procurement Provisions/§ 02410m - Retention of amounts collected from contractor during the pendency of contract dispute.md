@@ -38,23 +38,23 @@ Section 7 of the Contract Disputes Act of 1978, referred to in subsec. (b)(1)(B)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–350, §5(b)(32)(A), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)” in introductory provisions.
+<b>2011</b>—Subsec. (a). Pub. L. 111–350, §5(b)(32)(A), substituted "chapter 71 of title 41" for "the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 111–350, §5(b)(32)(B), substituted “section 7104(a) of title 41” for “section 7 of such Act (41 U.S.C. 606)”.
+Subsec. (a)(2). Pub. L. 111–350, §5(b)(32)(B), substituted "section 7104(a) of title 41" for "section 7 of such Act (41 U.S.C. 606)".
 
-Subsec. (b)(1)(A). Pub. L. 111–350, §5(b)(32)(C), substituted “section 7104(b) of title 41” for “section 10(a) of the Contract Disputes Act of 1978 (41 U.S.C. 609(a))” in introductory provisions.
+Subsec. (b)(1)(A). Pub. L. 111–350, §5(b)(32)(C), substituted "section 7104(b) of title 41" for "section 10(a) of the Contract Disputes Act of 1978 (41 U.S.C. 609(a))" in introductory provisions.
 
 Subsec. (c). Pub. L. 112–81 struck out subsec. (c), which required submission of annual report on amounts available for obligation.
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–136, §1031(a)(21)(A), substituted “Annual Report” for “Reporting Requirement” in heading and “Not later than 60 days after the end of each fiscal year” for “Each year” in introductory provisions.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136, §1031(a)(21)(A), substituted "Annual Report" for "Reporting Requirement" in heading and "Not later than 60 days after the end of each fiscal year" for "Each year" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 108–136, §1031(a)(21)(B), inserted “at the end of such fiscal year” before period at end.
+Subsec. (c)(1). Pub. L. 108–136, §1031(a)(21)(B), inserted "at the end of such fiscal year" before period at end.
 
-Subsec. (c)(2). Pub. L. 108–136, §1031(a)(21)(C), substituted “under this section during that fiscal year” for “during the year preceding the year in which the report is submitted”.
+Subsec. (c)(2). Pub. L. 108–136, §1031(a)(21)(C), substituted "under this section during that fiscal year" for "during the year preceding the year in which the report is submitted".
 
-Subsec. (c)(3). Pub. L. 108–136, §1031(a)(21)(D), substituted “under this section during that fiscal year” for “in such preceding year”.
+Subsec. (c)(3). Pub. L. 108–136, §1031(a)(21)(D), substituted "under this section during that fiscal year" for "in such preceding year".
 
-Subsec. (c)(4). Pub. L. 108–136, §1031(a)(21)(E), substituted “under this section during that fiscal year” for “in such preceding year”.
+Subsec. (c)(4). Pub. L. 108–136, §1031(a)(21)(E), substituted "under this section during that fiscal year" for "in such preceding year".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

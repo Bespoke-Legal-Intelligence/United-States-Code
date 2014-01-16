@@ -20,5 +20,5 @@ July 28, 1950, ch. 503, §7, 64 Stat. 381.
 
 Sept. 16, 1959, Pub. L. 86–286, 73 Stat. 567.
 
-The reference to an appropriation law is omitted as covered by the words “when authorized by law”.
+The reference to an appropriation law is omitted as covered by the words "when authorized by law".
 

@@ -50,7 +50,7 @@ The election provided in subsection (a) shall be made in such manner as the Secr
 
 #### (A) Tax credit bond
 
-&emsp;&emsp;The term “tax credit bond” means—
+&emsp;&emsp;The term "tax credit bond" means—
 
 &emsp;&emsp;&emsp;(i) a qualified tax credit bond (as defined in section 54A(d)),
 
@@ -60,7 +60,7 @@ The election provided in subsection (a) shall be made in such manner as the Secr
 
 #### (B) Applicable date
 
-&emsp;&emsp;The term “applicable date” means—
+&emsp;&emsp;The term "applicable date" means—
 
 &emsp;&emsp;&emsp;(i) in the case of a qualified tax credit bond or a bond described in subparagraph (A)(iii), any credit allowance date (as defined in section 54A(e)(1)), and
 
@@ -78,9 +78,9 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–325, §301(d)(1), substituted “Statements” for “Notice” in heading and “so reported by the regulated investment company in a written statement furnished to such shareholder” for “so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year” in concluding provisions.
+<b>2010</b>—Subsec. (c). Pub. L. 111–325, §301(d)(1), substituted "Statements" for "Notice" in heading and "so reported by the regulated investment company in a written statement furnished to such shareholder" for "so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year" in concluding provisions.
 
-Subsec. (d). Pub. L. 111–325, §301(d)(2), struck out “and notifying shareholders” after “election” in heading and “and the notice to shareholders required by subsection (c)” after “subsection (a)” in text.
+Subsec. (d). Pub. L. 111–325, §301(d)(2), struck out "and notifying shareholders" after "election" in heading and "and the notice to shareholders required by subsection (c)" after "subsection (a)" in text.
 
 #### Effective Date of 2010 Amendment
 

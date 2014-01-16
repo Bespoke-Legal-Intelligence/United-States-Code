@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Inspection
 
-&emsp;The term “inspection” means an inspection of a project facility carried out by the Secretary—
+&emsp;The term "inspection" means an inspection of a project facility carried out by the Secretary—
 
 &emsp;&emsp;(A) to assess and determine the general condition of the project facility; and
 
@@ -12,27 +12,27 @@ In this subchapter:
 
 #### (2) Project facility
 
-&emsp;The term “project facility” means any part or incidental feature of a project, excluding high- and significant-hazard dams, constructed under the Federal reclamation law (the Act of June 17, 1902 (32 Stat. 388, chapter 1093), and Acts supplemental to and amendatory of that Act (43 U.S.C. 371 et seq.) <sup>1</sup>.
+&emsp;The term "project facility" means any part or incidental feature of a project, excluding high- and significant-hazard dams, constructed under the Federal reclamation law (the Act of June 17, 1902 (32 Stat. 388, chapter 1093), and Acts supplemental to and amendatory of that Act (43 U.S.C. 371 et seq.) <sup>1</sup>.
 
 #### (3) Reserved works
 
-&emsp;The term “reserved works” mean <sup>2</sup> any project facility at which the Secretary carries out the operation and maintenance of the project facility.
+&emsp;The term "reserved works" mean <sup>2</sup> any project facility at which the Secretary carriesout the operation and maintenance of the project facility.
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior, acting through the Commissioner of Reclamation.
+&emsp;The term "Secretary" means the Secretary of the Interior, acting through the Commissioner of Reclamation.
 
 #### (5) Transferred works
 
-&emsp;The term “transferred works” means a project facility, the operation and maintenance of which is carried out by a non-Federal entity, under the provisions of a formal operation and maintenance transfer contract.
+&emsp;The term "transferred works" means a project facility, the operation and maintenance of which is carried out by a non-Federal entity, under the provisions of a formal operation and maintenance transfer contract.
 
 #### (6) Transferred works operating entity
 
-&emsp;The term “transferred works operating entity” means the organization which is contractually responsible for operation and maintenance of transferred works.
+&emsp;The term "transferred works operating entity" means the organization which is contractually responsible for operation and maintenance of transferred works.
 
 #### (7) Extraordinary operation and maintenance work
 
-&emsp;The term “extraordinary operation and maintenance work” means major, nonrecurring maintenance to Reclamation-owned or operated facilities, or facility components, that is—
+&emsp;The term "extraordinary operation and maintenance work" means major, nonrecurring maintenance to Reclamation-owned or operated facilities, or facility components, that is—
 
 &emsp;&emsp;(A) intended to ensure the continued safe, dependable, and reliable delivery of authorized project benefits; and
 
@@ -46,5 +46,5 @@ Act of June 17, 1902 (32 Stat. 388, chapter 1093), referred to in par. (2), is p
 
 <i><sup>1</sup></i><i> So in original. Probably should be another closing parenthesis before the final period.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “means”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "means".</i>
 

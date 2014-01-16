@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall make or insure loans and make grants to rural water supply corporations, cooperatives, or similar entities, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public agencies, to provide for the conservation, development, use, and control of water (including the extension or improvement of existing water supply systems), and the installation or improvement of drainage or waste disposal facilities and essential community facilities including necessary relatedequipment. Such loans and grants shall be available only to provide such water and waste facilities and services to communities whose residents face significant health risks, as determined by the Secretary, due to the fact that a significant proportion of the community's residents do not have access to, or are not served by, adequate affordable—
+&emsp;The Secretary shall make or insure loans and make grants to rural water supply corporations, cooperatives, or similar entities, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public agencies, to provide for the conservation, development, use, and control of water (including the extension or improvement of existing water supply systems), and the installation or improvement of drainage or waste disposal facilities and essential community facilities including necessary related equipment. Such loans and grants shall be available only to provide such water and waste facilities and services to communities whose residents face significant health risks, as determined by the Secretary, due to the fact that a significant proportion of the community's residents do not have access to, or are not served by, adequate affordable—
 
 &emsp;&emsp;(A) water supply systems; or
 
@@ -46,9 +46,9 @@ The Secretary shall give preference in the awarding of loans and grants—
 
 &emsp;(2) under subsection (b) of this section to individuals who reside in a rural subdivision commonly referred to as a colonia, that is characterized by substandard housing, inadequate roads and drainage, and a lack of adequate water or waste facilities.
 
-#### (d) “Cooperative” defined
+#### (d) "Cooperative" defined
 
-For purposes of this section, the term “cooperative” means a cooperative formed specifically for the purpose of the installation, expansion, improvement, or operation of water supply or waste disposal facilities or systems.
+For purposes of this section, the term "cooperative" means a cooperative formed specifically for the purpose of the installation, expansion, improvement, or operation of water supply or waste disposal facilities or systems.
 
 #### (e) Authorization of appropriations
 
@@ -74,21 +74,21 @@ Not later than 30 days after October 28, 1992, the Secretary shall issue interim
 
 #### Amendments
 
-<b>2002</b>—Subsec. (e). Pub. L. 107–171 added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “There are authorized to be appropriated—
+<b>2002</b>—Subsec. (e). Pub. L. 107–171 added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "There are authorized to be appropriated—
 
-&emsp;“(1) for grants under this section, $30,000,000 for each fiscal year; and
+&emsp;"(1) for grants under this section, $30,000,000 for each fiscal year; and
 
-&emsp;“(2) for loans under this section, $30,000,000 for each fiscal year.”
+&emsp;"(2) for loans under this section, $30,000,000 for each fiscal year."
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–554 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “(2)
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–554 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "(2)
 
 Certain counties targeted.—Loans and grants under paragraph (1) shall be made only if the loan or grant funds will be used primarily to provide water or waste services, or both, to residents of a county—
 
-&emsp;“(A) the per capita income of the residents of which is not more than 70 percent of the national averageper capita income, as determined by the Department of Commerce; and
+&emsp;"(A) the per capita income of the residents of which is not more than 70 percent of the national average per capita income, as determined by the Department of Commerce; and
 
-&emsp;“(B) the unemployment rate of the residents of which is not less than 125 percent of the national average unemployment rate, as determined by the Bureau of Labor Statistics.”
+&emsp;"(B) the unemployment rate of the residents of which is not less than 125 percent of the national average unemployment rate, as determined by the Bureau of Labor Statistics."
 
-Subsec. (b)(1). Pub. L. 102–552, §516(l), substituted “, connecting the systems to the residences of the individuals, or installing plumbing and fixtures within the residences of the individuals to facilitate the use of the water supply and waste disposal systems” for “or connecting such systems to the residences of such individuals”.
+Subsec. (b)(1). Pub. L. 102–552, §516(l), substituted ", connecting the systems to the residences of the individuals, or installing plumbing and fixtures within the residences of the individuals to facilitate the use of the water supply and waste disposal systems" for "or connecting such systems to the residences of such individuals".
 
 Subsec. (f). Pub. L. 102–552, §516(m), added subsec. (f).
 

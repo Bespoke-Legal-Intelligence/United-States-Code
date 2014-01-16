@@ -50,7 +50,7 @@ Apr. 7, 1961, Pub. L. 87–20, 75 Stat. 43.
 
 &nbsp;
 
-In subsection (b)(1), the word “countries” is substituted for “nations” for consistency in the revised title and with other titles of the United States Code.
+In subsection (b)(1), the word "countries" is substituted for "nations" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (c)(2), the word “entities” is substituted for “bodies” for consistency in the revised title and with other titles of the Code.
+In subsection (c)(2), the word "entities" is substituted for "bodies" for consistency in the revised title and with other titles of the Code.
 

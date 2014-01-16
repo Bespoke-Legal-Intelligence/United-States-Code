@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—For purposes of this title, the term “micro entity” means an applicant who makes a certification that the applicant—
+In General.—For purposes of this title, the term "micro entity" means an applicant who makes a certification that the applicant—
 
 &emsp;(1) qualifies as a small entity, as defined in regulations issued by the Director;
 
@@ -40,9 +40,9 @@ Section 61(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(3
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–274 inserted “of this title” after “For purposes” in introductory provisions.
+<b>2013</b>—Subsec. (a). Pub. L. 112–274 inserted "of this title" after "For purposes" in introductory provisions.
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–29, §20(j), struck out “of this title” after “For purposes” in introductory provisions.
+<b>2011</b>—Subsec. (a). Pub. L. 112–29, §20(j), struck out "of this title" after "For purposes" in introductory provisions.
 
 #### Effective Date of 2013 Amendment
 
@@ -56,5 +56,5 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 Section effective on Sept. 16, 2011, see section 10(i)(1) of Pub. L. 112–29, set out as a Fee Setting Authority note under section 41 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph".</i>
 

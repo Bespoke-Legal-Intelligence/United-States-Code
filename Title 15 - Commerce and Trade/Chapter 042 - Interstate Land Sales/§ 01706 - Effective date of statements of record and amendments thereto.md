@@ -28,7 +28,7 @@ Any notice required under this section shall be sent to or served on the develop
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Director” for “Secretary” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

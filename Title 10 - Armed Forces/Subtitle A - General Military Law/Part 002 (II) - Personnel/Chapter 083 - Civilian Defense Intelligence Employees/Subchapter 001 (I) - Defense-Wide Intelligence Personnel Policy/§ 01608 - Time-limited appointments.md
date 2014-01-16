@@ -14,7 +14,7 @@ Condition on Permanent Appointment to Defense Intelligence Senior Executive Serv
 
 (d)
 
-Time-Limited Appointment Defined.—In this section, the term “time-limited appointment” means an appointment (subject to the condition in subsection (b)) for a period not to exceed two years.
+Time-Limited Appointment Defined.—In this section, the term "time-limited appointment" means an appointment (subject to the condition in subsection (b)) for a period not to exceed two years.
 
 (Added Pub. L. 104–201, div. A, title XVI, §1632(b), Sept. 23, 1996, 110 Stat. 2748.)
 

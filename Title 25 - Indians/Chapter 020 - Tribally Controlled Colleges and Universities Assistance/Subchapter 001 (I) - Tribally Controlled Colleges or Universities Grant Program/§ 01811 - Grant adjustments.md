@@ -6,7 +6,7 @@
 
 &emsp;(A) the Secretary shall first allocate to each such applicant which received funds under section 1807 of this title for the preceding fiscal year an amount equal to 95 percent of the payment received by such applicant under section 1808 of this title;
 
-&emsp;(B) the Secretary shall next allocate to applicants who did not receive funds under suchsection for the preceding fiscal year an amount equal to 100 per centum of the product of—
+&emsp;(B) the Secretary shall next allocate to applicants who did not receive funds under such section for the preceding fiscal year an amount equal to 100 per centum of the product of—
 
 &emsp;&emsp;(i) the per capita payment for the preceding fiscal year; and
 
@@ -20,13 +20,13 @@
 
 &emsp;&emsp;(ii) then ratably increasing the amounts of both (I) the grants determined under subparagraph (A), as increased under clause (i) of this subparagraph, and (II) the grants determined under subparagraph (B).
 
-(2) For purposes of paragraph (1) of this subsection, the term “per capita payment” for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled colleges or universities under section 1807 of this title for such fiscal year by the sum of the Indian student counts of such colleges or universities for such fiscal year. The Secretary shall, on the basis of the most satisfactory data available, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this subchapter.
+(2) For purposes of paragraph (1) of this subsection, the term "per capita payment" for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled colleges or universities under section 1807 of this title for such fiscal year by the sum of the Indian student counts of such colleges or universities for such fiscal year. The Secretary shall, on the basis of the most satisfactory data available, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this subchapter.
 
 #### (b) Ratable reduction or increase in funds available for existing schools; excess funds; definition
 
 (1) If the sums appropriated for any fiscal year for grants under section 1807 of this title are not sufficient to pay in full the total amount of the grants determined pursuant to subsection (a)(1)(A) of this section, the amount which applicants described in such subsection are eligible to receive under section 1807 of this title for such fiscal year shall be ratably reduced.
 
-(2) If any additional funds become available for making payments under section 1807 of this title for any fiscal year to which subsection (a) of this section or paragraph (1) of this subsection applies, such additional amounts shall be allocated by first increasing grants reduced under paragraph (1) of this subsection on the same basis as they were reduced and by then allocating the remainder in accordance with subsection (a) of this section. Sums appropriated in excess of the amount necessary to pay in full the total amounts for which applicants are eligible under section 1807 of this title shall be allocated by ratably increasing such total amounts.
+(2) If any additional funds become available for making payments under section 1807 of thistitle for any fiscal year to which subsection (a) of this section or paragraph (1) of this subsection applies, such additional amounts shall be allocated by first increasing grants reduced under paragraph (1) of this subsection on the same basis as they were reduced and by then allocating the remainder in accordance with subsection (a) of this section. Sums appropriated in excess of the amount necessary to pay in full the total amounts for which applicants are eligible under section 1807 of this title shall be allocated by ratably increasing such total amounts.
 
 (3) References in this subsection and subsection (a) of this section to section 1807 of this title shall, with respect to fiscal year 1983, be deemed to refer to section 1806 of this title as in effect at the beginning of such fiscal year.
 
@@ -38,15 +38,15 @@ In any fiscal year in which the amounts for which grant recipients are eligible 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–244 substituted “controlled colleges or universities” for “controlled community colleges” and “such colleges or universities” for “such colleges”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–244 substituted "controlled colleges or universities" for "controlled community colleges" and "such colleges or universities" for "such colleges".
 
-<b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–477, §1(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary shall first allocate to each such applicant which received funds under section 1807 of this title for the preceding fiscal year an amount equal to 95 per centum of the product of—
+<b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–477, §1(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the Secretary shall first allocate to each such applicant which received funds under section 1807 of this title for the preceding fiscal year an amount equal to 95 per centum of the product of—
 
-&emsp;“(i) the per capita payment for the preceding fiscal year; and
+&emsp;"(i) the per capita payment for the preceding fiscal year; and
 
-&emsp;“(ii) such applicant's Indian student count for the current fiscal year;”.
+&emsp;"(ii) such applicant's Indian student count for the current fiscal year;".
 
-Subsec. (a)(1)(B)(ii). Pub. L. 101–477, §1(c)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the applicant's Indian student count for the current fiscal year;”.
+Subsec. (a)(1)(B)(ii). Pub. L. 101–477, §1(c)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the applicant's Indian student count for the current fiscal year;".
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–192, §10, amended subsec. (a) generally, substituting provision establishing a formula to be used to determine funding between existing and newly eligible schools when funds appropriated are not sufficient to pay in full the total amount which approved applicants are eligible to receive under section 1807 of this title for provision that if funds were insufficient to pay in full the total amounts which approved grant applicants were eligible to receive, the available funds would be ratably decreased and if funds later became available or there were excess funds, such funds would be ratably increased.
 

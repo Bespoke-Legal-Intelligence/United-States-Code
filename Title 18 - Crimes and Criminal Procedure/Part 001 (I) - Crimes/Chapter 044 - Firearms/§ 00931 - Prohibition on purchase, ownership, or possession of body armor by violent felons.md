@@ -22,7 +22,7 @@ In general.—It shall be an affirmative defense under this section that—
 
 &emsp;(2)
 
-Employer.—In this subsection, the term “employer” means any other individual employed by the defendant's business that supervises defendant's activity. If that defendant has no supervisor, prior written certification is acceptable from any other employee of the business.
+Employer.—In this subsection, the term "employer" means any other individual employed by the defendant's business that supervises defendant's activity. If that defendant has no supervisor, prior written certification is acceptable from any other employee of the business.
 
 (Added Pub. L. 107–273, div. C, title I, §11009(e)(2)(A), Nov. 2, 2002, 116 Stat. 1821.)
 

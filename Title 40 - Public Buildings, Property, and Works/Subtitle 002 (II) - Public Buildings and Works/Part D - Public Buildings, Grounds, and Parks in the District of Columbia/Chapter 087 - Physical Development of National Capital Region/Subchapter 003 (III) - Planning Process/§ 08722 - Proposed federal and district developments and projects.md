@@ -98,17 +98,17 @@ June 20, 1938, ch. 534, §16, 52 Stat. 802.
 
 40:71d(c).
 
-In subsection (a), the words “including the acquisition of land” are omitted as unnecessary.
+In subsection (a), the words "including the acquisition of land" are omitted as unnecessary.
 
-In subsection (b)(1), the words “received and” are omitted as unnecessary.
+In subsection (b)(1), the words "received and" are omitted as unnecessary.
 
 In subsection (c)(2), reference to the National Capital Regional Planning Council is omitted as obsolete because the Council was abolished by section 1 of Reorganization Plan No. 5 of 1966 (eff. Sept. 8, 1966, 40:71b note).
 
-In subsection (c)(3), the word “work” is substituted for “act in conjunction and cooperation” to eliminate unnecessary words.
+In subsection (c)(3), the word "work" is substituted for "act in conjunction and cooperation" to eliminate unnecessary words.
 
-In subsection (d), the word “Commission” \[meaning the National Capital Planning Commission\] is substituted for “National Capital Park and Planning Commission” because of section 9 of the Act of June 6, 1924 (ch. 270), as added by section 1 of the Act of July 19, 1952 (ch. 949, 66 Stat. 790). See section 8711(f) of the revised title.
+In subsection (d), the word "Commission" \[meaning the National Capital Planning Commission\] is substituted for "National Capital Park and Planning Commission" because of section 9 of the Act of June 6, 1924 (ch. 270), as added by section 1 of the Act of July 19, 1952 (ch. 949, 66 Stat. 790). See section 8711(f) of the revised title.
 
-In subsection (e), the words “the boundaries of” and “and from time to time redefined” are omitted as unnecessary.
+In subsection (e), the words "the boundaries of" and "and from time to time redefined" are omitted as unnecessary.
 
 #### References in Text
 
@@ -116,5 +116,5 @@ The Act of June 20, 1938, referred to in subsec. (d), is act June 20, 1938, ch. 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–284 substituted “52 Stat. 797” for “52 Stat. 802” and “are subject” for “is subject”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–284 substituted "52 Stat. 797" for "52 Stat. 802" and "are subject" for "is subject".
 

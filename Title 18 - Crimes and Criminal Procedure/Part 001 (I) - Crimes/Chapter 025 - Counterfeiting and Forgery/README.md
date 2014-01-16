@@ -27,7 +27,7 @@
 | [491\.](%C2%A7%2000491%20-%20Tokens%20or%20paper%20used%20as%20money.md) | Tokens or paper used as money. |
 | [492\.](%C2%A7%2000492%20-%20Forfeiture%20of%20counterfeit%20paraphernalia.md) | Forfeiture of counterfeit paraphernalia. |
 | [493\.](%C2%A7%2000493%20-%20Bonds%20and%20obligations%20of%20certain%20lending%20agencies.md) | Bonds and obligations of certain lending agencies. |
-| [494\.](%C2%A7%2000494%20-%20Contractors%E2%80%99%20bonds%2C%20bids%2C%20and%20public%20records.md) | Contractors’ bonds, bids, and public records. |
+| [494\.](%C2%A7%2000494%20-%20Contractors%27%20bonds%2C%20bids%2C%20and%20public%20records.md) | Contractors' bonds, bids, and public records. |
 | [495\.](%C2%A7%2000495%20-%20Contracts%2C%20deeds%2C%20and%20powers%20of%20attorney.md) | Contracts, deeds, and powers of attorney. |
 | [496\.](%C2%A7%2000496%20-%20Customs%20matters.md) | Customs matters. |
 | [497\.](%C2%A7%2000497%20-%20Letters%20patent.md) | Letters patent. |
@@ -54,29 +54,29 @@
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–56, title III, §§374(e)(4), 375(d)(4), Oct. 26, 2001, 115 Stat. 340, 341, substituted “, stones, or analog, digital, or electronic images” for “or stones” in items 474 and 481.
+<b>2001</b>—Pub. L. 107–56, title III, §§374(e)(4), 375(d)(4), Oct. 26, 2001, 115 Stat. 340, 341, substituted ", stones, or analog, digital, or electronic images" for "or stones" in items 474 and 481.
 
 <b>1996</b>—Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §648(b)(2)\], title II, §2603(b)(2), Sept. 30, 1996, 110 Stat. 3009–314, 3009–368, 3009–470, amended analysis identically, adding item 514.
 
-<b>1994</b>—Pub. L. 103–322, title XII, §120003(b)(1), title XXII, §220003(d)(2), title XXXIII, §330010(14), Sept. 13, 1994, 108 Stat. 2022, 2077, 2144, added item 470, struck out extraneous period after “money” in item 491, and added item 511A.
+<b>1994</b>—Pub. L. 103–322, title XII, §120003(b)(1), title XXII, §220003(d)(2), title XXXIII, §330010(14), Sept. 13, 1994, 108 Stat. 2022, 2077, 2144, added item 470, struck out extraneous period after "money" in item 491, and added item 511A.
 
 <b>1992</b>—Pub. L. 102–550, title XV, §1553(b), Oct. 28, 1992, 106 Stat. 4071, added item 474A.
 
-<b>1990</b>—Pub. L. 101–647, title XXXV, §3513, Nov. 29, 1990, 104 Stat. 4922, substituted “or paper used as money.” for “used as money or similar to coins” in item 491, “matters” for “entry certificates” in item 496, and “stamps, postage meter stamps,” for “stamps” in item 501.
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3513, Nov. 29, 1990, 104 Stat. 4922, substituted "or paper used as money." for "used as money or similar to coins" in item 491, "matters" for "entry certificates" in item 496, and "stamps, postage meter stamps," for "stamps" in item 501.
 
-<b>1986</b>—Pub. L. 99–646, §31(b), Nov. 10, 1986, 100 Stat. 3598, redesignated second item 510, relating to securities of the State and private entities, as item 513 and substituted “States” for “State”.
+<b>1986</b>—Pub. L. 99–646, §31(b), Nov. 10, 1986, 100 Stat. 3598, redesignated second item 510, relating to securities of the State and private entities, as item 513 and substituted "States" for "State".
 
 <b>1984</b>—Pub. L. 98–547, title II, §201(b), Oct. 25, 1984, 98 Stat. 2770, added items 511 and 512.
 
-Pub. L. 98–473, title II, §1105(b), Oct. 12, 1984, 98 Stat. 2145, added second item 510 “Securities of the State and private entities”.
+Pub. L. 98–473, title II, §1105(b), Oct. 12, 1984, 98 Stat. 2145, added second item 510 "Securities of the State and private entities".
 
 <b>1983</b>—Pub. L. 98–151, §115(c), Nov. 14, 1983, 97 Stat. 977, added item 510, relating to forging endorsements.
 
-<b>1965</b>—Pub. L. 89–81, title II, §211(b), July 23, 1965, 79 Stat. 257, struck out “Gold or silver” before “Coins or bars” in item 485.
+<b>1965</b>—Pub. L. 89–81, title II, §211(b), July 23, 1965, 79 Stat. 257, struck out "Gold or silver" before "Coins or bars" in item 485.
 
-<b>1958</b>—Pub. L. 85–921, §2, Sept. 2, 1958, 72 Stat. 1771, substituted “Printing and filming of United States and foreign obligations and securities” for “Printing stamps for philatelic purposes” in item 504.
+<b>1958</b>—Pub. L. 85–921, §2, Sept. 2, 1958, 72 Stat. 1771, substituted "Printing and filming of United States and foreign obligations and securities" for "Printing stamps for philatelic purposes" in item 504.
 
-<b>1951</b>—Act July 16, 1951, ch. 226, §5(c), 65 Stat. 122, struck out “; publisher's illustrations excepted” in item 489.
+<b>1951</b>—Act July 16, 1951, ch. 226, §5(c), 65 Stat. 122, struck out "; publisher's illustrations excepted" in item 489.
 
 
 ---
@@ -108,7 +108,7 @@ Pub. L. 98–473, title II, §1105(b), Oct. 12, 1984, 98 Stat. 2145, added secon
 - [&sect; 00491 - Tokens or paper used as money](%C2%A7%2000491%20-%20Tokens%20or%20paper%20used%20as%20money.md)
 - [&sect; 00492 - Forfeiture of counterfeit paraphernalia](%C2%A7%2000492%20-%20Forfeiture%20of%20counterfeit%20paraphernalia.md)
 - [&sect; 00493 - Bonds and obligations of certain lending agencies](%C2%A7%2000493%20-%20Bonds%20and%20obligations%20of%20certain%20lending%20agencies.md)
-- [&sect; 00494 - Contractors&#8217; bonds, bids, and public records](%C2%A7%2000494%20-%20Contractors%E2%80%99%20bonds%2C%20bids%2C%20and%20public%20records.md)
+- [&sect; 00494 - Contractors' bonds, bids, and public records](%C2%A7%2000494%20-%20Contractors%27%20bonds%2C%20bids%2C%20and%20public%20records.md)
 - [&sect; 00495 - Contracts, deeds, and powers of attorney](%C2%A7%2000495%20-%20Contracts%2C%20deeds%2C%20and%20powers%20of%20attorney.md)
 - [&sect; 00496 - Customs matters](%C2%A7%2000496%20-%20Customs%20matters.md)
 - [&sect; 00497 - Letters patent](%C2%A7%2000497%20-%20Letters%20patent.md)

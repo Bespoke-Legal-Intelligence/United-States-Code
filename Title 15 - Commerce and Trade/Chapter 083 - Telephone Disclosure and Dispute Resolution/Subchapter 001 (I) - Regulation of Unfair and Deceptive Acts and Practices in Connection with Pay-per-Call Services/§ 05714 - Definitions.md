@@ -2,17 +2,17 @@
 
 For purposes of this subchapter:
 
-&emsp;(1) The term “pay-per-call services” has the meaning provided in section 228(i) of title 47, except that the Commission by rule may, notwithstanding subparagraphs (B) and (C) of section 228(i)(1) of title 47, extend such definition to other similar services providing audio information or audio entertainment if the Commission determines that such services are susceptible to the unfair and deceptive practices that are prohibited by the rules prescribed pursuant to section 5711(a) of this title.
+&emsp;(1) The term "pay-per-call services" has the meaning provided in section 228(i) of title 47, except that the Commission by rule may, notwithstanding subparagraphs (B) and (C) of section 228(i)(1) of title 47, extend such definition to other similar services providing audio information or audio entertainment if the Commission determines that such services are susceptible to the unfair and deceptive practices that are prohibited by the rules prescribed pursuant to section 5711(a) of this title.
 
-&emsp;(2) The term “attorney general” means the chief legal officer of a State.
+&emsp;(2) The term "attorney general" means the chief legal officer of a State.
 
-&emsp;(3) The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory or possession of the United States.
+&emsp;(3) The term "State" means any State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory or possession of the United States.
 
-&emsp;(4) The term “Commission” means the Federal Trade Commission.
+&emsp;(4) The term "Commission" means the Federal Trade Commission.
 
 (Pub. L. 102–556, title II, §204, Oct. 28, 1992, 106 Stat. 4191; Pub. L. 104–104, title VII, §701(b)(1), Feb. 8, 1996, 110 Stat. 147.)
 
 #### Amendments
 
-<b>1996</b>—Par. (1). Pub. L. 104–104 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘pay-per-call services’ has the meaning provided in section 228 of title 47.”
+<b>1996</b>—Par. (1). Pub. L. 104–104 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'pay-per-call services' has the meaning provided in section 228 of title 47."
 

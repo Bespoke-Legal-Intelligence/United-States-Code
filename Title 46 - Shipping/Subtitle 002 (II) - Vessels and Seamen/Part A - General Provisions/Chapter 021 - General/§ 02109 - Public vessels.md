@@ -24,9 +24,9 @@ Section 2109 exempts public vessels from the applicability of the maritime safet
 
 <b>2010</b>—Pub. L. 111–281 amended directory language of Pub. L. 109–241, §902(e)(1). See 2006 Amendment note below.
 
-<b>2006</b>—Pub. L. 109–241, §902(e)(1), as amended by Pub. L. 111–281, struck out “a Coast Guard or” after “(except”.
+<b>2006</b>—Pub. L. 109–241, §902(e)(1), as amended by Pub. L. 111–281, struck out "a Coast Guard or" after "(except".
 
-<b>1986</b>—Pub. L. 99–509 substituted “Except as otherwise provided, this” for “This”.
+<b>1986</b>—Pub. L. 99–509 substituted "Except as otherwise provided, this" for "This".
 
 #### Effective Date of 2010 Amendment
 

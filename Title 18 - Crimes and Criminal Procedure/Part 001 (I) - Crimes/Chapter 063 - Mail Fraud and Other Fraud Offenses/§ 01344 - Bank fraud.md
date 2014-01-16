@@ -12,11 +12,11 @@ Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–647 substituted “30” for “20” before “years”.
+<b>1990</b>—Pub. L. 101–647 substituted "30" for "20" before "years".
 
-<b>1989</b>—Pub. L. 101–73 amended section generally, restating former subsec. (a) and striking out former subsec. (b) which defined “federally chartered or insured financial institution”. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly executes, or attempts to execute, a scheme or artifice—
+<b>1989</b>—Pub. L. 101–73 amended section generally, restating former subsec. (a) and striking out former subsec. (b) which defined "federally chartered or insured financial institution". Prior to amendment, subsec. (a) read as follows: "Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
-&emsp;“(1) to defraud a federally chartered or insured financial institution; or
+&emsp;"(1) to defraud a federally chartered or insured financial institution; or
 
-&emsp;“(2) to obtain any of the moneys, funds, credits, assets, securities or other property owned by or under the custody or control of a federally chartered or insured financial institution by means of false or fraudulent pretenses, representations, or promises, shall be fined not more than $10,000, or imprisoned not more than five years, or both.”
+&emsp;"(2) to obtain any of the moneys, funds, credits, assets, securities or other property owned by or under the custody or control of a federally chartered or insured financial institution by means of false or fraudulent pretenses, representations, or promises, shall be fined not more than $10,000, or imprisoned not more than five years, or both."
 

@@ -28,13 +28,13 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 &emsp;(2) the information required to be shown on the return with respect to such individual.
 
-> The written statement required under the preceding sentence shall be furnished on or beforeJanuary 31 of the year following the calendar year for which the return under subsection (a) is required to be made.
+> The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) is required to be made.
 
 (Added Pub. L. 107–210, div. A, title II, §202(c)(1), Aug. 6, 2002, 116 Stat. 962.)
 
 #### Effective Date
 
-Pub. L. 107–210, div. A, title II, §202(e), Aug. 6, 2002, 116 Stat. 963, provided that: “The amendments made by this section \[enacting this section and section 7527 of this title and amending sections 6103, 6724, and 7213A of this title\] shall take effect on the date of the enactment of this Act \[Aug. 6, 2002\].”
+Pub. L. 107–210, div. A, title II, §202(e), Aug. 6, 2002, 116 Stat. 963, provided that: "The amendments made by this section \[enacting this section and section 7527 of this title and amending sections 6103, 6724, and 7213A of this title\] shall take effect on the date of the enactment of this Act \[Aug. 6, 2002\]."
 
 #### Construction
 

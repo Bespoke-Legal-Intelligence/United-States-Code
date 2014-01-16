@@ -6,7 +6,7 @@ The following conduct is prohibited:
 
 &emsp;(2) The (A) showing or exhibiting, in any horse show or horse exhibition, of any horse which is sore, (B) entering for the purpose of showing or exhibiting in any horse show or horse exhibition, any horse which is sore, (C) selling, auctioning, or offering for sale, in any horse sale or auction, any horse which is sore, and (D) allowing any activity described in clause (A), (B), or (C) respecting a horse which is sore by the owner of such horse.
 
-&emsp;(3) The failure by the management of any horse show or horse exhibition, which does notappoint and retain a person in accordance with section 1823(c) of this title, to disqualify from being shown or exhibited any horse which is sore.
+&emsp;(3) The failure by the management of any horse show or horse exhibition, which does not appoint and retain a person in accordance with section 1823(c) of this title, to disqualify from being shown or exhibited any horse which is sore.
 
 &emsp;(4) The failure by the management of any horse sale or auction, which does not appoint and retain a qualified person in accordance with section 1823(c) of this title, to prohibit the sale, offering for sale, or auction of any horse which is sore.
 

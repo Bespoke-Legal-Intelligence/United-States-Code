@@ -6,7 +6,7 @@ The functions of the Office shall be as follows:
 
 &emsp;(2) Upon request of any committee of the House, or any joint committee having authority to report legislation to the House, to advise and assist the committee in the consideration of any legislation before it, and to assist the committee in the preparation of drafts of any such legislation, amendments thereto, and reports thereon.
 
-&emsp;(3) Upon request of any Member having control of time during the consideration of any legislation by the House, to have in attendance on the floor of the House not more than two members of the staff of the Office (and, inhis discretion, the Legislative Counsel) to advise and assist such Member and, to the extent feasible, any other Member, in the course of such consideration.
+&emsp;(3) Upon request of any Member having control of time during the consideration of any legislation by the House, to have in attendance on the floor of the House not more than two members of the staff of the Office (and, in his discretion, the Legislative Counsel) to advise and assist such Member and, to the extent feasible, any other Member, in the course of such consideration.
 
 &emsp;(4) Upon request of any Member, subject to such reasonable restrictions as the Legislative Counsel may impose with the approval of the Speaker on the proportion of the resources of the Office which may be devoted to the requests of any one Member, to prepare drafts of legislation and to furnish drafting advice with respect to drafts of legislation prepared by others.
 

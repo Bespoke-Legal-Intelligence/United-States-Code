@@ -58,7 +58,7 @@ In the case of a drug product containing gamma hydroxybutyric acid for which an 
 
 &emsp;(1) That every person who is registered as a manufacturer of bulk or dosage form, as a packager, repackager, labeler, relabeler, or distributor shall report acquisition and distribution transactions quarterly, not later than the 15th day of the month succeeding the quarter for which the report is submitted, and annually report end-of-year inventories.
 
-&emsp;(2) That all annual inventory reports shall be filed no later than January 15 of the year following that for which the report is submitted and include data on the stocks of the drug product, drug substance, bulk drug, and dosage forms on hand as of the close of business December 31, indicating whether materials reported are in storage or in process of manufacturing.
+&emsp;(2) That all annual inventory reports shall be filed no later than January 15 of the year following that for which the report is submitted and include data on the stocks of the drug product, drug substance, bulk drug, and dosageforms on hand as of the close of business December 31, indicating whether materials reported are in storage or in process of manufacturing.
 
 &emsp;(3) That every person who is registered as a manufacturer of bulk or dosage form shall report all manufacturing transactions both inventory increases, including purchases, transfers, and returns, and reductions from inventory, including sales, transfers, theft, destruction, and seizure, and shall provide data on material manufactured, manufactured from other material, use in manufacturing other material, and use in manufacturing dosage forms.
 
@@ -80,9 +80,9 @@ Schedules II, III, IV, and V, referred to in subsec. (c), are set out in section
 
 <b>2000</b>—Subsec. (h). Pub. L. 106–172 added subsec. (h).
 
-<b>1984</b>—Subsec. (c)(1)(A). Pub. L. 98–473, §514(a), substituted “to the prescribing of controlled substances in schedule II, III, IV, or V by practitioners acting in the lawful course of their professional practice unless such substance is prescribed in the course of maintenance or detoxification treatment of an individual” for “with respect to any narcotic controlled substance in schedule II, III, IV, or V, to the prescribing or administering of such substance by a practitioner in the lawful course of his professional practice unless such substance was prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual”.
+<b>1984</b>—Subsec. (c)(1)(A). Pub. L. 98–473, §514(a), substituted "to the prescribing of controlled substances in schedule II, III, IV, or V by practitioners acting in the lawful course of their professional practice unless such substance is prescribed in the course of maintenance or detoxification treatment of an individual" for "with respect to any narcotic controlled substance in schedule II, III, IV, or V, to the prescribing or administering of such substance by a practitioner in the lawful course of his professional practice unless such substance was prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual".
 
-Subsec. (c)(1)(B). Pub. L. 98–473, §514(b), substituted “to the administering of a controlled substance in schedule II, III, IV, or V unless the practitioner regularly engages in the dispensing or administering of controlled substances and charges his patients, either separately or together with charges for other professional services, for substances so dispensed or administered or unless such substance is administered in the course of maintenance treatment or detoxification treatment of an individual” for “with respect to nonnarcotic controlled substances in schedule II, III, IV, or V, to anypractitioner who dispenses such substances to his patients, unless the practitioner is regularly engaged in charging his patients, either separately or together with charges for other professional services, for substances so dispensed”.
+Subsec. (c)(1)(B). Pub. L. 98–473, §514(b), substituted "to the administering of a controlled substance in schedule II, III, IV, or V unless the practitioner regularly engages in the dispensing or administering of controlled substances and charges his patients, either separately or together with charges for other professional services, for substances so dispensed or administered or unless such substance is administered in the course of maintenance treatment or detoxification treatment of an individual" for "with respect to nonnarcotic controlled substances in schedule II, III, IV, or V, to any practitioner who dispenses such substances to his patients, unless the practitioner is regularly engaged in charging his patients, either separately or together with charges for other professional services, for substances so dispensed".
 
 Subsec. (g). Pub. L. 98–473, §515, added subsec. (g).
 
@@ -90,7 +90,7 @@ Subsec. (g). Pub. L. 98–473, §515, added subsec. (g).
 
 Subsecs. (e), (f). Pub. L. 95–633 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-<b>1974</b>—Subsec. (c)(1)(A). Pub. L. 93–281 substituted “any narcotic controlled substance” for “narcotic controlled substances” and made section applicable to any narcotic controlled substance prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual.
+<b>1974</b>—Subsec. (c)(1)(A). Pub. L. 93–281 substituted "any narcotic controlled substance" for "narcotic controlled substances" and made section applicable to any narcotic controlled substance prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual.
 
 #### Effective Date of 2008 Amendment
 

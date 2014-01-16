@@ -2,7 +2,7 @@
 
 (a) After trying to collect a claim from a person under section 3711(a) of this title, the head of an executive, judicial, or legislative agency may collect the claim by administrative offset. The head of the agency may collect by administrative offset only after giving the debtor—
 
-&emsp;(1) written notice of the type and amount of the claim, the intention of the head of the agency to collect the claim by administrative offset, and an explanation of the rights of the debtor under this section;
+&emsp;(1) written notice of the type and amount of the claim, the intention of the head of theagency to collect the claim by administrative offset, and an explanation of the rights of the debtor under this section;
 
 &emsp;(2) an opportunity to inspect and copy the records of the agency related to the claim;
 
@@ -128,19 +128,19 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, §5(a)–(d); added Oct. 25, 1982
 
 31 App.:954(d).
 
-In the subchapter, the words “or his designee” are omitted as unnecessary.
+In the subchapter, the words "or his designee" are omitted as unnecessary.
 
-In subsection (a)(1), the words “head of the” are added for consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(1), the words "head of the" are added for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b)(1), the word “Government” is added for consistency in the revised title and with other titles of the Code.
+In subsection (b)(1), the word "Government" is added for consistency in the revised title and with other titles of the Code.
 
-In subsection (b)(3), the word “civil” is added for consistency in the revised title and with other titles of the Code.
+In subsection (b)(3), the word "civil" is added for consistency in the revised title and with other titles of the Code.
 
-In subsection (c)(2), the word “either” is omitted as surplus.
+In subsection (c)(2), the word "either" is omitted as surplus.
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare.For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles II, VIII, XVI, and XVIII of the Act are classified generally to subchapters II (§401 et seq.), VIII (§1001 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -156,35 +156,35 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–275, §189(b)(1), inserted “the Department of Health and Human Services,” after “United States Postal Service,”.
+<b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–275, §189(b)(1), inserted "the Department of Health and Human Services," after "United States Postal Service,".
 
 Subsec. (c)(3)(D). Pub. L. 110–275, §189(b)(2), added subpar. (D).
 
-Subsec. (e). Pub. L. 110–246, §14219(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This section does not apply—
+Subsec. (e). Pub. L. 110–246, §14219(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "This section does not apply—
 
-&emsp;“(1) to a claim under this subchapter that has been outstanding for more than 10 years; or
+&emsp;"(1) to a claim under this subchapter that has been outstanding for more than 10 years; or
 
-&emsp;“(2) when a statute explicitly prohibits using administrative offset or setoff to collect the claim or type of claim involved.”
+&emsp;"(2) when a statute explicitly prohibits using administrative offset or setoff to collect the claim or type of claim involved."
 
-<b>2004</b>—Subsec. (b)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1999</b>—Subsec. (c)(3)(C). Pub. L. 106–169 substituted “sections 205(b)(1), 809(a)(1),” for “sections 205(b)(1)” and “title II, VIII,” for “either title II”.
+<b>1999</b>—Subsec. (c)(3)(C). Pub. L. 106–169 substituted "sections 205(b)(1), 809(a)(1)," for "sections 205(b)(1)" and "title II, VIII," for "either title II".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(c)(1), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(c)(1), substituted "the head of an executive, judicial, or legislative agency" for "the head of an executive or legislative agency" in introductory provisions.
 
-Subsec. (b). Pub. L. 104–134, §31001(d)(2)(A), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Before collecting a claim by administrative offset under subsection (a) of this section, the head of an executive or legislative agency must prescribe regulations on collecting by administrative offset based on—
+Subsec. (b). Pub. L. 104–134, §31001(d)(2)(A), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Before collecting a claim by administrative offset under subsection (a) of this section, the head of an executive or legislative agency must prescribe regulations on collecting by administrative offset based on—
 
-&emsp;“(1) the best interests of the United States Government;
+&emsp;"(1) the best interests of the United States Government;
 
-&emsp;“(2) the likelihood of collecting a claim by administrative offset; and
+&emsp;"(2) the likelihood of collecting a claim by administrative offset; and
 
-&emsp;“(3) for collecting a claim by administrative offset after the 6-year period for bringing a civil action on a claim under section 2415 of title 28 has expired, the cost effectiveness of leaving a claim unresolved for more than 6 years.”
+&emsp;"(3) for collecting a claim by administrative offset after the 6-year period for bringing a civil action on a claim under section 2415 of title 28 has expired, the cost effectiveness of leaving a claim unresolved for more than 6 years."
 
-Pub. L. 104–134, §31001(c)(1), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
+Pub. L. 104–134, §31001(c)(1), substituted "the head of an executive, judicial, or legislative agency" for "the head of an executive or legislative agency" in introductory provisions.
 
 Subsec. (c). Pub. L. 104–134, §31001(d)(2)(D), added subsec. (c). Former subsec. (c) redesignated (e).
 
-Subsec. (c)(2). Pub. L. 104–134, §31001(d)(2)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “when a statute explicitly provides for or prohibits using administrative offset to collect the claim or type of claim involved.”
+Subsec. (c)(2). Pub. L. 104–134, §31001(d)(2)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "when a statute explicitly provides for or prohibits using administrative offset to collect the claim or type of claim involved."
 
 Subsec. (d). Pub. L. 104–134, §31001(d)(2)(D), added subsec. (d).
 
@@ -194,29 +194,29 @@ Subsecs. (f) to (h). Pub. L. 104–134, §31001(e), (f), added subsecs. (f) to (
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–275, title I, §189(c), July 15, 2008, 122 Stat. 2591, provided that: “The amendments made by this section \[amending this section and section 1395kk of Title 42, The Public Health and Welfare\] shall take effect on the date of the enactment of this Act \[July 15, 2008\].”
+Pub. L. 110–275, title I, §189(c), July 15, 2008, 122 Stat. 2591, provided that: "The amendments made by this section \[amending this section and section 1395kk of Title 42, The Public Health and Welfare\] shall take effect on the date of the enactment of this Act \[July 15, 2008\]."
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XIV, §14219(b), May 22, 2008, 122 Stat. 1483, and Pub. L. 110–246, §4(a), title XIV, §14219(b), June 18, 2008, 122 Stat. 1664, 2245, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any debt outstanding on or after the date of the enactment of this Act \[June 18, 2008\].”
+Pub. L. 110–234, title XIV, §14219(b), May 22, 2008, 122 Stat. 1483, and Pub. L. 110–246, §4(a), title XIV, §14219(b), June 18, 2008, 122 Stat. 1664, 2245, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any debt outstanding on or after the date of the enactment of this Act \[June 18, 2008\]."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Offsets From Social Security Payments
 
-Pub. L. 104–134, title III, §31001(a)(2)(B), Apr. 26, 1996, 110 Stat. 1321–358, provided that: “Subparagraph (A) of section 3716(c)(3) of title 31, United States Code (as added by subsection (d)(2) of this section), shall apply only to payments made after the date which is 4 months after the date of the enactment of this Act \[Apr. 26, 1996\].”
+Pub. L. 104–134, title III, §31001(a)(2)(B), Apr. 26, 1996, 110 Stat. 1321–358, provided that: "Subparagraph (A) of section 3716(c)(3) of title 31, United States Code (as added by subsection (d)(2) of this section), shall apply only to payments made after the date which is 4 months after the date of the enactment of this Act \[Apr. 26, 1996\]."
 
 #### Ex. Ord. No. 13019. Supporting Families: Collecting Delinquent Child Support Obligations
 
 Ex. Ord. No. 13019, Sept. 28, 1996, 61 F.R. 51763, provided that:
 
-The Debt Collection Improvement Act of 1996, Public Law 104–134 \[§31001\] (110 Stat. 1321–358 <i>et seq</i>.) \[see Short Title of 1996 Amendment note set out under section 3701 of this title\], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose of the Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions thatcan be used to assist families in collecting past-due child support obligations.
+The Debt Collection Improvement Act of 1996, Public Law 104–134 \[§31001\] (110 Stat. 1321–358 <i>et seq</i>.) \[see Short Title of 1996 Amendment note set out under section 3701 of this title\], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose of the Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions that can be used to assist families in collecting past-due child support obligations.
 
 The failure of some parents to meet their child support obligations threatens the health, education, and well-being of their children. Compounding this problem, States have experienced difficulties enforcing child support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
 
 Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Administrative Offsets</i>. (a)(1) The Secretary of the Treasury (“the Secretary”), in accordance with the provisions of the Debt Collection Improvement Act of 1996 and to the extent permitted by law, and in consultation with the Secretary of Health and Human Services and other affected agencies, shall promptly develop and implement procedures necessary for the Secretary to collect past-due child support debts by administrative offset, and shall issue such rules, regulations, and procedures as the Secretary, in consultation with the heads of affected agencies, deems appropriate to govern administrative offsets by the Department of the Treasury and other executive departments and agencies that disburse Federal payments.
+Section 1. <i>Administrative Offsets</i>. (a)(1) The Secretary of the Treasury ("the Secretary"), in accordance withthe provisions of the Debt Collection Improvement Act of 1996 and to the extent permitted by law, and in consultation with the Secretary of Health and Human Services and other affected agencies, shall promptly develop and implement procedures necessary for the Secretary to collect past-due child support debts by administrative offset, and shall issue such rules, regulations, and procedures as the Secretary, in consultation with the heads of affected agencies, deems appropriate to govern administrative offsets by the Department of the Treasury and other executive departments and agencies that disburse Federal payments.
 
 (2) The Secretary may enter into reciprocal agreements with States concerning the collection by the Secretary of delinquent child support debts through administrative offsets.
 

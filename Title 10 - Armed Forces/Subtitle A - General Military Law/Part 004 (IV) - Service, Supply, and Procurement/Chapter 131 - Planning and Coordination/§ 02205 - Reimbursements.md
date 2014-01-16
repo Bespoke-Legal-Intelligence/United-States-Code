@@ -2,7 +2,7 @@
 
 (a)
 
-Availability of Reimbursements.—Reimbursements made to appropriations of the Department of Defense or a department or agency thereof under sections 1535 and 1536 of title 31, or other amounts paid by or on behalf of a department or agency of the Department of Defense to another department or agency of the Department of Defense, or by or on behalf of personnel of any department or organization, for services rendered or supplies furnished, may be credited to authorized accounts. Funds so credited are available for obligation for the same period as the funds in the account so credited. Such an account shall be accounted for as one fund on the books of the Department of the Treasury.
+Availability of Reimbursements.—Reimbursements made to appropriations of the Department of Defense or a department or agency thereof under sections 1535 and 1536 of title 31, or other amounts paid by or on behalf of a department or agency of the Department of Defense to another department or agency of the Department of Defense, or by or on behalf of personnel of any department or organization, for services rendered or supplies furnished, may be credited to authorized accounts. Funds so credited areavailable for obligation for the same period as the funds in the account so credited. Such an account shall be accounted for as one fund on the books of the Department of the Treasury.
 
 (b)
 
@@ -28,11 +28,11 @@ July 26, 1947, ch. 343, §408; added Aug. 10, 1949, ch. 412, §11 (23d par.), 63
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337 substituted “Reimbursements” for “Availability of reimbursements” as section catchline, designated existing provisions as subsec. (a) and inserted subsec. heading, and added subsec. (b).
+<b>1994</b>—Pub. L. 103–337 substituted "Reimbursements" for "Availability of reimbursements" as section catchline, designated existing provisions as subsec. (a) and inserted subsec. heading, and added subsec. (b).
 
-<b>1982</b>—Pub. L. 97–258 substituted “sections 1535 and 1536 of title 31” for “the Act of March 4, 1915 (31 U.S.C. 686)”.
+<b>1982</b>—Pub. L. 97–258 substituted "sections 1535 and 1536 of title 31" for "the Act of March 4, 1915 (31 U.S.C. 686)".
 
-<b>1980</b>—Pub. L. 96–513 substituted “the Act of March 4, 1915 (31 U.S.C. 686)” for “section 686 of title 31”.
+<b>1980</b>—Pub. L. 96–513 substituted "the Act of March 4, 1915 (31 U.S.C. 686)" for "section 686 of title 31".
 
 #### Effective Date of 1980 Amendment
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Renewable fuel
 
-&emsp;The term “renewable fuel” means any fuel—
+&emsp;The term "renewable fuel" means any fuel—
 
 &emsp;&emsp;(A) at least 85 percent of the volume of which consists of ethanol; or
 
@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Franchise-related document
 
-&emsp;The term “franchise-related document” means—
+&emsp;The term "franchise-related document" means—
 
 &emsp;&emsp;(A) a franchise under this chapter; and
 

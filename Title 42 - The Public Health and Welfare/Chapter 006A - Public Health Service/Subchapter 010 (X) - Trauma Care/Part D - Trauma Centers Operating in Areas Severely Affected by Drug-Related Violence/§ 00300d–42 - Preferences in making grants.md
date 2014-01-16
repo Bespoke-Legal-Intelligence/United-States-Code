@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish an award basis for each eligible trauma center for grants under section 300d–41(a)(1) of this title according to the percentage described in paragraph (2), subject to the requirements of section 300d–41(b)(3) of this title.
+&emsp;The Secretary shall establish an award basis for each eligible trauma center for grantsunder section 300d–41(a)(1) of this title according to the percentage described in paragraph (2), subject to the requirements of section 300d–41(b)(3) of this title.
 
 #### (2) Percentages
 

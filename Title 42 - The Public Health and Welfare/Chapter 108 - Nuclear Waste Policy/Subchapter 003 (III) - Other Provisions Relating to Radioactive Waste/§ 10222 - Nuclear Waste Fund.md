@@ -90,9 +90,9 @@ The Secretary may make expenditures from the Waste Fund, subject to subsection (
 
 #### References in Text
 
-Subsection (c) of this section, referred to in subsec. (a)(3), was in the original “subsection (c) 126(b)” and was translated as subsection (c) of this section as the probable intent of Congress in view of the establishment of the Nuclear Waste Fund by subsec. (c) of this section and the absence of a section 126 in Pub. L. 97–425.
+Subsection (c) of this section, referred to in subsec. (a)(3), was in the original "subsection (c) 126(b)" and was translated as subsection (c) of this section as the probable intent of Congress in view of the establishment of the Nuclear Waste Fund by subsec. (c) of this section and the absence of a section 126 in Pub. L. 97–425.
 
-This subchapter, referred to in subsecs. (a)(5)(B), (d), and (e)(5), was in the original “this subtitle”, and was translated as this subchapter to reflect the probable intent of Congress because title III of Pub. L. 97–425, which enacted this subchapter, does not contain subtitles.
+This subchapter, referred to in subsecs. (a)(5)(B), (d), and (e)(5), was in the original "this subtitle", and wastranslated as this subchapter to reflect the probable intent of Congress because title III of Pub. L. 97–425, which enacted this subchapter, does not contain subtitles.
 
 Such Act, referred to in subsec. (e)(5), probably means chapter 31 of Title 31, Money and Finance.
 

@@ -4,7 +4,7 @@
 
 Congress finds the following:
 
-&emsp;(1) The National Fish Hatchery System (in this chapter referred to as the “System”)—
+&emsp;(1) The National Fish Hatchery System (in this chapter referred to as the "System")—
 
 &emsp;&emsp;(A) consists of more than 60 hatcheries, seven fish technology centers, 9 fish health centers, and other fisheries program offices;
 
@@ -34,5 +34,5 @@ The purposes of this chapter are the following:
 
 #### Short Title
 
-Pub. L. 109–360, §1, Oct. 16, 2006, 120 Stat. 2058, provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Fish Hatchery System Volunteer Act of 2006’.”
+Pub. L. 109–360, §1, Oct. 16, 2006, 120 Stat. 2058, provided that: "This Act \[enacting this chapter\] may be cited as the 'National Fish Hatchery System Volunteer Act of 2006'."
 

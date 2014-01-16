@@ -10,5 +10,5 @@ The national irrigation law approved June 17, 1902, referred to in text, is act 
 
 #### Codification
 
-Act Mar. 4, 1907 redesignated “forest reserves” as “national forests”.
+Act Mar. 4, 1907 redesignated "forest reserves" as "national forests".
 

@@ -45,7 +45,12 @@
 | [3141\.](Subchapter%20004%20%28IV%29%20-%20Wage%20Rate%20Requirements/%C2%A7%2003141%20-%20Definitions.md) | Definitions. |
 | [3142\.](Subchapter%20004%20%28IV%29%20-%20Wage%20Rate%20Requirements/%C2%A7%2003142%20-%20Rate%20of%20wages%20for%20laborers%20and%20mechanics.md) | Rate of wages for laborers and mechanics. |
 | [3143\.](Subchapter%20004%20%28IV%29%20-%20Wage%20Rate%20Requirements/%C2%A7%2003143%20-%20Termination%20of%20work%20on%20failure%20to%20pay%20agreed%20wages.md) | Termination of work on failure to pay agreed wages. |
-| [3144\.](Subchapter%20004%20%28IV%29%20-%20Wage%20Rate%20Requirements/%C2%A7%2003144%20-%20Authority%20of%20Comptroller%20General%20to%20pay%20wages%20and%20list%20contractors%20violating%20contracts.md) | Authority of Comptroller General to pay wages and list contractors violating contracts. |
+| [3144\.](Subchapter%20004%20%28IV%29%20-%20Wage%20Rate%20Requirements/%C2%A7%2003144%20-%20Authority%20to%20pay%20wages%20and%20list%20contractors%20violating%20contracts.md) | Authority of Comptroller General to pay wages and list contractors violating contracts.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [3145\.](Subchapter%20004%20%28IV%29%20-%20Wage%20Rate%20Requirements/%C2%A7%2003145%20-%20Regulations%20governing%20contractors%20and%20subcontractors.md) | Regulations governing contractors and subcontractors. |
 | [3146\.](Subchapter%20004%20%28IV%29%20-%20Wage%20Rate%20Requirements/%C2%A7%2003146%20-%20Effect%20on%20other%20federal%20laws.md) | Effect on other federal laws. |
 | [3147\.](Subchapter%20004%20%28IV%29%20-%20Wage%20Rate%20Requirements/%C2%A7%2003147%20-%20Suspension%20of%20this%20subchapter%20during%20a%20national%20emergency.md) | Suspension of this subchapter during a national emergency. |
@@ -67,8 +72,8 @@
 |  |  |
 | :--- | ---: |
 | [3171\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003171%20-%20Contract%20authority%20when%20appropriation%20is%20for%20less%20than%20full%20amount.md) | Contract authority when appropriation is for less than full amount. |
-| [3172\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003172%20-%20Extension%20of%20state%20workers%E2%80%99%20compensation%20laws%20to%20buildings%2C%20works%2C%20and%20property%20of%20the%20Federal%20Government.md) | Extension of state workers’ compensation laws to buildings, works, and property of the Federal Government. |
-| [3173\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003173%20-%20Working%20capital%20fund%20for%20General%20Services%20Administration.md) | Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration.<sup>1</sup> |
+| [3172\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003172%20-%20Extension%20of%20state%20workers%27%20compensation%20laws%20to%20buildings%2C%20works%2C%20and%20property%20of%20the%20Federal%20Government.md) | Extension of state workers' compensation laws to buildings, works, and property of the Federal Government. |
+| [3173\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003173%20-%20Working%20capital%20fund%20for%20General%20Services%20Administration.md) | Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration.<sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -77,13 +82,15 @@
 | [3174\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003174%20-%20Operation%20of%20public%20utility%20communications%20services%20serving%20governmental%20activities.md) | Operation of public utility communications services serving governmental activities. |
 | [3175\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003175%20-%20Acceptance%20of%20gifts%20of%20property.md) | Acceptance of gifts of property. |
 | [3176\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003176%20-%20Administrator%20of%20General%20Services%20to%20furnish%20services%20in%20continental%20United%20States%20to%20international%20bodies.md) | Administrator of General Services to furnish services in continental United States to international bodies. |
-| [3177\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003177%20-%20Use%20of%20photovoltaic%20energy%20in%20public%20buildings.md) | Use of photovoltaic energy in public buildings.<sup>2</sup> |
+| [3177\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003177%20-%20Use%20of%20photovoltaic%20energy%20in%20public%20buildings.md) | Use of photovoltaic energy in public buildings.<sup>3</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 111–8 without corresponding amendment of chapter analysis.</i>
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 113–50 without corresponding amendment of chapter analysis.</i>
 
-<i><sup>2</sup></i><i> Editorially supplied. Section 3177 added by Pub. L. 109–58 without corresponding amendment of chapter analysis.</i>
+<i><sup>2</sup></i><i> Section catchline amended by Pub. L. 111–8 without corresponding amendment of chapter analysis.</i>
+
+<i><sup>3</sup></i><i> Editorially supplied. Section 3177 added by Pub. L. 109–58 without corresponding amendment of chapter analysis.</i>
 
 
 ---

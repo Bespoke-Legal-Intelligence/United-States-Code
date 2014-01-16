@@ -18,7 +18,7 @@
 
 &emsp;(D) during the conduct of intelligence activities as defined in section 3.4(e) of Executive Order No. 12333, issued December 4, 1981, or successor orders, or during the conduct of cryptologic activities that are communications security activities.
 
-(2) This subchapter applies to the collection of information during the conduct of general investigations (other than information collected in an antitrust investigation to the extent provided in subparagraph (C) of paragraph (1)) undertaken with reference to a category of individuals or entities such as a class of licensees or an entire industry.
+(2) This subchapter applies to the collection of information during the conduct of general investigations (other than information collected inan antitrust investigation to the extent provided in subparagraph (C) of paragraph (1)) undertaken with reference to a category of individuals or entities such as a class of licensees or an entire industry.
 
 (d) Nothing in this subchapter shall be interpreted as increasing or decreasing the authority conferred by sections 11331 and 11332 <sup>1</sup> of title 40 on the Secretary of Commerce or the Director of the Office of Management and Budget.
 
@@ -36,7 +36,7 @@ The Antitrust Civil Process Act, referred to in subsec. (c)(1)(C), is Pub. L. 87
 
 Section 13 of the Federal Trade Commission Improvements Act of 1980, referred to in subsec. (c)(1)(C), is classified to section 57b–1 of Title 15.
 
-Executive Order No. 12333, referred to in subsec. (c)(1)(D), is Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, which is set out as a note under section 401 of Title 50, War and National Defense.
+Executive Order No. 12333, referred to in subsec. (c)(1)(D), is Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, which is set out as a note under section 3001 of Title 50, War and National Defense.
 
 Section 11332 of title 40, referred to in subsec. (d), was repealed by Pub. L. 107–296, title X, §1005(a)(1), Nov. 25, 2002, 116 Stat. 2272, and Pub. L. 107–347, title III, §305(a), Dec. 17, 2002, 116 Stat. 2960.
 
@@ -46,13 +46,13 @@ A prior section 3518, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–217 substituted “sections 11331 and 11332 of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–217 substituted "sections 11331 and 11332 of title 40" for "section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and the Computer Security Act of 1987 (40 U.S.C. 759 note)".
 
-<b>2000</b>—Pub. L. 106–398 substituted “subchapter” for “chapter” wherever appearing.
+<b>2000</b>—Pub. L. 106–398 substituted "subchapter" for "chapter" wherever appearing.
 
-<b>1997</b>—Subsec. (d). Pub. L. 105–85 substituted “Clinger-Cohen Act of 1996 (40 U.S.C. 1441)” for “Information Technology Management Reform Act of 1996”.
+<b>1997</b>—Subsec. (d). Pub. L. 105–85 substituted "Clinger-Cohen Act of 1996 (40 U.S.C. 1441)" for "Information Technology Management Reform Act of 1996".
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–106 substituted “section 5131 of the Information Technology Management Reform Act of 1996 and the Computer Security Act of 1987 (40 U.S.C. 759 note) on the Secretary of Commerce or” for “Public Law 89–306 on the Administrator of the General Services Administration, the Secretary of Commerce, or”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–106 substituted "section 5131 of the Information Technology Management Reform Act of 1996 and the Computer Security Act of 1987 (40 U.S.C. 759 note) on the Secretary of Commerce or" for "Public Law 89–306 on the Administrator of the General Services Administration, the Secretary of Commerce, or".
 
 #### Effective Date of 2000 Amendment
 

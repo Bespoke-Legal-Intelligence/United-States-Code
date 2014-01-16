@@ -48,15 +48,15 @@ The compensation provided under this section, when authorized or approved by the
 
 (3) For purposes of this subsection—
 
-&emsp;(A) the “spouse” of an individual is a wife or husband of that individual who was married to that individual for at least one year immediately before the death of that individual;
+&emsp;(A) the "spouse" of an individual is a wife or husband of that individual who was married to that individual for at least one year immediately before the death of that individual;
 
-&emsp;(B) a “child” includes a recognized natural child, a stepchild who lived with an individual in a regular parent-child relationship, and an adopted child;
+&emsp;(B) a "child" includes a recognized natural child, a stepchild who lived with an individual in a regular parent-child relationship, and an adopted child;
 
-&emsp;(C) a “parent” includes fathers and mothers through adoption;
+&emsp;(C) a "parent" includes fathers and mothers through adoption;
 
-&emsp;(D) a “grandchild” of an individual is a child of a child of that individual; and
+&emsp;(D) a "grandchild" of an individual is a child of a child of that individual; and
 
-&emsp;(E) a “grandparent” of an individual is a parent of a parent of that individual.
+&emsp;(E) a "grandparent" of an individual is a parent of a parent of that individual.
 
 #### (f) Effective date
 
@@ -68,9 +68,9 @@ This section shall take effect on July 31, 2001, unless Congress otherwise provi
 
 <b>2001</b>—Subsec. (e). Pub. L. 107–107 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
-“(1) Subject to the provisions of this section, if a covered employee dies before the effective date specified in subsection (f) of this section, whether or not the death is a result of that employee's occupational illness, a survivor of that employee may, on behalf of that survivor and any other survivors of that employee, receive the compensation provided for under this section.
+"(1) Subject to the provisions of this section, if a covered employee dies before the effective date specified in subsection (f) of this section, whether or not the death is a result of that employee's occupational illness, a survivor of that employee may, on behalf of that survivor and any other survivors of that employee, receive the compensation provided for under this section.
 
-“(2) The right to receive compensation under this section shall be afforded to survivors in the same order of precedence as that set forth in section 8109 of title 5.”
+"(2) The right to receive compensation under this section shall be afforded to survivors in the same order of precedence as that set forth in section 8109 of title 5."
 
 #### Effective Date of 2001 Amendment
 

@@ -4,13 +4,13 @@
 
 The purposes of this section are to—
 
-&emsp;(1) enable the Director to identify, develop, evaluate, disseminate, and provide training in innovative methodologies and strategies for quality improvement practices in the delivery of health care services that represent best practices (referred to as “best practices”) in health care quality, safety, and value; and
+&emsp;(1) enable the Director to identify, develop, evaluate, disseminate, and provide training in innovative methodologies and strategies for quality improvement practices in the delivery of health care services that represent best practices (referred to as "best practices") in health care quality, safety, and value; and
 
 &emsp;(2) ensure that the Director is accountable for implementing a model to pursue such research in a collaborative manner with other related Federal agencies.
 
 #### (b) General functions of the Center
 
-The Center for Quality Improvement and Patient Safety of the Agency for Healthcare Research and Quality (referred to in this section as the “Center”), or any other relevant agency or department designated by the Director, shall—
+The Center for Quality Improvement and Patient Safety of the Agency for Healthcare Research and Quality (referred to in this section as the "Center"), or any other relevant agency or department designated by the Director, shall—
 
 &emsp;(1) carry out its functions using research from a variety of disciplines, which may include epidemiology, health services, sociology, psychology, human factors engineering, biostatistics, health economics, clinical research, and health informatics;
 
@@ -18,7 +18,7 @@ The Center for Quality Improvement and Patient Safety of the Agency for Healthca
 
 &emsp;&emsp;(A) best practices for quality improvement practices in the delivery of health care services; and
 
-&emsp;&emsp;(B) that include changes in processes of care and the redesign of systems used by providers that will reliably result in intended health outcomes, improve patient safety, and reduce medical errors (such as skill development for health care providers in team-based health care delivery and rapid cycle process improvement) and facilitate adoption of improved workflow;
+&emsp;&emsp;(B) that include changes in processes of care and the redesign of systems used by providers that will reliably result in intended health outcomes, improve patient safety, and reduce medical errors (such as skill development for health care providersin team-based health care delivery and rapid cycle process improvement) and facilitate adoption of improved workflow;
 
 &emsp;(3) identify health care providers, including health care systems, single institutions, and individual providers, that—
 

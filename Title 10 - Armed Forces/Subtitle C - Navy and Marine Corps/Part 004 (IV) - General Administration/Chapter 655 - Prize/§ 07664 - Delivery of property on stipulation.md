@@ -28,5 +28,5 @@ Historical and Revision Notes
 
 R.S. 4626.
 
-34 U.S.C. 1142 and this section reflect the Act of March 3, 1899, ch. 413, §13, 30 Stat. 1007, which repealed laws authorizing distribution of prize proceeds to captors, and the Act of May 29, 1920, ch. 214, §1, 41 Stat. 654, which requires substitution of “Treasurer of the United States or public depositary” for “assistant treasurer”.
+34 U.S.C. 1142 and this section reflect the Act of March 3, 1899, ch. 413, §13, 30 Stat. 1007, which repealed laws authorizing distribution of prize proceeds to captors, and the Act of May 29, 1920, ch. 214, §1, 41 Stat. 654, which requires substitution of "Treasurer of the United States or public depositary" for "assistant treasurer".
 

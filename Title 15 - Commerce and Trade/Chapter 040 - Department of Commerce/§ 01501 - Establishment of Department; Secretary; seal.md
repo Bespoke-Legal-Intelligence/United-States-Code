@@ -6,7 +6,7 @@ There shall be at the seat of government an executive department to be known as 
 
 #### References in Text
 
-Title 4 of the Revised Statutes, referred to in text, was entitled “Provisions Applicable to All Executive Departments”, and consisted of R.S. §§158 to 198. For provisions of the Code derived from such title 4, see sections 101, 301, 303, 304, 503, 2952, 3101, 3106, 3341, 3345 to 3349, 5535, 5536 of Title 5, Government Organization and Employees; section 207 of Title 18, Crimes and Criminal Procedure; sections 514, 520 of Title 28, Judiciary and Judicial Procedure; section 3321 of Title 31, Money and Finance.
+Title 4 of the Revised Statutes, referred to in text, was entitled "Provisions Applicable to All Executive Departments", and consisted of R.S. §§158 to 198. For provisions of the Code derived from such title 4, see sections 101, 301, 303, 304, 503, 2952, 3101, 3106, 3341, 3345 to 3349, 5535, 5536 of Title 5, Government Organization andEmployees; section 207 of Title 18, Crimes and Criminal Procedure; sections 514, 520 of Title 28, Judiciary and Judicial Procedure; section 3321 of Title 31, Money and Finance.
 
 #### Codification
 
@@ -14,7 +14,7 @@ Section was formerly classified to section 591 of Title 5 prior to the general r
 
 #### Transfer of Functions
 
-A Department of Labor, under charge of a Commissioner of Labor, was established by act June 13, 1888, ch. 380, 25 Stat. 182, and by section 9 of that act, the Bureau of Labor created under act June 27, 1884, ch. 127, 23 Stat. 60, was to cease on the organization of the Department. The Department of Commerce and Labor, as an Executive Department, with a Secretary of Commerce and Labor as the head thereof, was established by act Feb. 14, 1903, ch. 552, 32 Stat. 825, and by section 4 of that act, the Department of Labor was placed under the jurisdiction and made a part of the Department of Commerce and Labor with various other offices, bureaus, and branches of the public service also transferred to and placed under the jurisdiction of the Department so established. In subsequent appropriation and other acts, the Department of Labor was designated as the Bureau of Labor in that Department. But by act March 4, 1913, ch. 141, 37 Stat. 736, a new executive department was created, to be called “The Department of Labor,” with a Secretary of Labor to be the head thereof, and the Department of Commerce and Labor was thereafter to be called the Department of Commerce, and the Secretary thereof to be called the Secretary of Commerce.
+A Department of Labor, under charge of a Commissioner of Labor, was established by act June 13, 1888, ch. 380, 25 Stat. 182, and by section 9 of that act, the Bureau of Labor created under act June 27, 1884, ch. 127, 23 Stat. 60, was to cease on the organization of the Department. The Department of Commerce and Labor, as an Executive Department, with a Secretary of Commerce and Labor as the head thereof, was established by act Feb. 14, 1903, ch. 552, 32 Stat. 825, and by section 4 of that act, the Department of Labor was placed under the jurisdiction and made a part of the Department of Commerce and Labor with various other offices, bureaus, and branches of the public service also transferred to and placed under the jurisdiction of the Department so established. In subsequent appropriation and other acts, the Department of Labor was designated as the Bureau of Labor in that Department. But by act March 4, 1913, ch. 141, 37 Stat. 736, a new executive department was created, to be called "The Department of Labor," with a Secretary of Labor to be the head thereof, and the Department of Commerce and Labor was thereafter to be called the Department of Commerce, and the Secretary thereof to be called the Secretary of Commerce.
 
 Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or the performance of any of his functions by any such officers, agencies, and employees by Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out below.
 
@@ -80,7 +80,7 @@ Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 1340
 
 #### Ex. Ord. No. 13515. Increasing Participation of Asian Americans and Pacific Islanders in Federal Programs
 
-Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, §4, Oct. 7, 2011, 76 F.R. 62282, provided:
+Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, §4, Oct. 7, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, §8, Sept. 30, 2013, 78 F.R. 61819, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -96,7 +96,7 @@ Sec. 2. <i>President's Advisory Commission on Asian Americans and Pacific Island
 
 (b) <i>Membership of the Commission</i>. The Commission shall consist of not more than 20 members appointed by the President. The Commission shall include members who: (i) have a history of involvement with the AAPI communities; (ii) are from the fields of education, commerce, business, health, human services, housing, environment, arts, agriculture, labor and employment, transportation, justice, veterans affairs, and economic and community development; (iii) are from civic associations representing one or more of the diverse AAPI communities; or (iv) have such other experience as the President deems appropriate. The President shall designate one member of the Commission to serve as Chair, who shall convene regular meetings of the Commission, determine its agenda, and direct its work.
 
-(c) <i>Administration of the Commission</i>. The Co-Chairs of the Initiative shall designate an Executive Director for the Commission. The Department of Education shall provide funding and administrative support for the Commission to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary of Education, in accordance with the guidelines issued by the Administrator of General Services.
+(c) <i>Administration of the Commission</i>. The Co-Chairs of the Initiative shall designate an Executive Director for the Commission. The Department of Education shall provide funding and administrative support for the Commission to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the "Act"), may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary of Education, in accordance with the guidelines issued by the Administrator of General Services.
 
 (d) <i>Termination Date</i>. The Commission shall terminate 2 years from the date of this order, unless renewed by the President.
 
@@ -142,23 +142,27 @@ Sec. 3. <i>White House Initiative on Asian Americans and Pacific Islanders</i>. 
 
 (xviii) the Small Business Administration;
 
-(xix) the Office of Personnel Management;
+(xix) the General Services Administration;
 
-(xx) the Social Security Administration;
+(xx) the National Aeronautics and Space Administration;
 
-(xxi) the White House Office of Cabinet Affairs;
+(xxi) the Office of Personnel Management;
 
-(xxii) the White House Office of Intergovernmental Affairs and Public Engagement;
+(xxii) the Social Security Administration;
 
-(xxiii) the National Economic Council;
+(xxiii) the White House Office of Cabinet Affairs;
 
-(xxiv) the Domestic Policy Council;
+(xxiv) the White House Office of Intergovernmental Affairs and Public Engagement;
 
-(xxv) the Office of Science and Technology Policy; and
+(xxv) the National Economic Council;
 
-(xxvi) other executive branch departments, agencies, and offices as the President may, from time to time, designate.
+(xxvi) the Domestic Policy Council;
 
-At the direction of the Co-Chairs, the Initiative may establish subgroups consisting exclusively of Initiative members or their designees under this section, as appropriate.
+(xxvii) the Office of Science and Technology Policy; and
+
+(xxviii) other executive branch departments, agencies, and offices as the President may, from time to time, designate.
+
+At the direction of the Co-Chairs, the Initiative may establish subgroups consisting exclusively of Initiative members or their designees under this section, as appropriate. The Initiative is encouraged to invite other affected agencies, such as the Consumer Financial Protection Bureau, the Corporation for National and Community Service, the Equal Employment Opportunity Commission, and the Federal Communications Commission to attend meetings and participate in the Initiative as appropriate.
 
 (c) <i>Administration of the Initiative</i>. The Department of Education shall provide funding and administrative support for the Initiative to the extent permitted by law and within existing appropriations. The Co-Chairs shall convene regular meetings of the Initiative, determine its agenda, and direct its work.
 
@@ -192,7 +196,7 @@ Sec. 4. <i>General Provisions</i>.
 
 (d) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(e) For purposes of this order, the term “Asian American and Pacific Islander” includes persons within the jurisdiction of the United States having ancestry of any of the original peoples of East Asia, Southeast Asia, or South Asia, or any of the aboriginal, indigenous, or native peoples of Hawaii and other Pacific Islands.
+(e) For purposes of this order, the term "Asian American and Pacific Islander" includes persons within the jurisdiction of the United States having ancestry of any of the original peoples of East Asia, Southeast Asia, or South Asia, or any of the aboriginal, indigenous, or native peoples of Hawaii and other Pacific Islands.
 
 (f) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
@@ -200,5 +204,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Commission on Asian Americans and Pacific Islanders
 
-Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

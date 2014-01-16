@@ -16,7 +16,7 @@
 
 #### (3) Service
 
-&emsp;Except as provided in subsection (b) of this section, each Commissioner shall report to the Director. A Commissioner shall serve for a period of not more than 6 years, except that a Commissioner—
+&emsp;Except as provided in subsection (b) of this section, each Commissioner shall report to theDirector. A Commissioner shall serve for a period of not more than 6 years, except that a Commissioner—
 
 &emsp;&emsp;(A) may be reappointed by the Director; and
 
@@ -48,7 +48,7 @@ Level IV of the Executive Schedule, referred to in subsecs. (a)(2)(A) and (b)(2)
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “President” in introductory provisions.
+<b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate," after "President" in introductory provisions.
 
 #### Effective Date of 2012 Amendment
 

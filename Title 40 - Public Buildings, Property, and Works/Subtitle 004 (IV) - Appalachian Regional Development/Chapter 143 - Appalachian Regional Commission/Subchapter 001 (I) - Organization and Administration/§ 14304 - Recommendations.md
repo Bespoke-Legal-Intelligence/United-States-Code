@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 Pub. L. 89–4, title I, §103, Mar. 9, 1965, 79 Stat. 7.
 
-Before clause (1), the words “from time to time” are omitted as unnecessary.
+Before clause (1), the words "from time to time" are omitted as unnecessary.
 

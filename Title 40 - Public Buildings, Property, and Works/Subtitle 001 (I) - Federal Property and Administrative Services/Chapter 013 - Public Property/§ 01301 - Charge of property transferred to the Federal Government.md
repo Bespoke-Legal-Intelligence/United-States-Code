@@ -40,9 +40,9 @@ Historical and Revision Notes
 
 R.S. §3750; Pub. L. 89–30, §2, June 2, 1965, 79 Stat. 119.
 
-In subsection (a), the words “Except as provided in subsection (b)” are added for clarity.
+In subsection (a), the words "Except as provided in subsection (b)" are added for clarity.
 
-In subsection (b)(1), the words “the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.)” are substituted for “the internal-revenue laws” for clarity and for consistency in the revised title and with other titles of the United States Code.
+In subsection (b)(1), the words "the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.)" are substituted for "the internal-revenue laws" for clarity and for consistency in the revised title and with other titles of the United States Code.
 
 #### References in Text
 

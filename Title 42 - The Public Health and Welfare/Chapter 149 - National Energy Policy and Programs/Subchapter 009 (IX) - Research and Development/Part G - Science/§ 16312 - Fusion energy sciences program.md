@@ -18,7 +18,7 @@ It shall be the policy of the United States to conduct research, development, de
 
 &emsp;&emsp;(D) facilities that are selected are funded at a cost-effective rate;
 
-&emsp;&emsp;(E) communication of scientific results and methods between the fusion energyscience community and the broader scientific and technology communities is improved;
+&emsp;&emsp;(E) communication of scientific results and methods between the fusion energy science community and the broader scientific and technology communities is improved;
 
 &emsp;&emsp;(F) inertial confinement fusion facilities are used to the extent practicable for the purpose of inertial fusion energy research and development;
 
@@ -44,7 +44,7 @@ It shall be the policy of the United States to conduct research, development, de
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “construction” means—
+&emsp;&emsp;&emsp;The term "construction" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) the physical construction of the ITER facility; and
 
@@ -52,11 +52,11 @@ It shall be the policy of the United States to conduct research, development, de
 
 #### (ii) Exclusions
 
-&emsp;&emsp;&emsp;The term “construction” does not include the design of the facility, equipment, or components.
+&emsp;&emsp;&emsp;The term "construction" does not include the design of the facility, equipment, or components.
 
 #### (B) ITER
 
-&emsp;&emsp;The term “ITER” means the international burning plasma fusion research project in which the President announced United States participation on January 30, 2003, or any similar international project.
+&emsp;&emsp;The term "ITER" means the international burning plasma fusion research project in which the President announced United States participation on January 30, 2003, or any similar international project.
 
 #### (2) Participation
 

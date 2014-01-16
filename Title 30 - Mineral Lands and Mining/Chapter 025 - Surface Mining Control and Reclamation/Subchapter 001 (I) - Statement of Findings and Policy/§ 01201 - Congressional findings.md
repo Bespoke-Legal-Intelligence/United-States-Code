@@ -12,7 +12,7 @@ The Congress finds and declares that—
 
 &emsp;(e) surface mining and reclamation technology are now developed so that effective and reasonable regulation of surface coal mining operations by the States and by the Federal Government in accordance with the requirements of this chapter is an appropriate and necessary means to minimize so far as practicable the adverse social, economic, and environmental effects of such mining operations;
 
-&emsp;(f) because of the diversity in terrain, climate, biologic, chemical, and other physicalconditions in areas subject to mining operations, the primary governmental responsibility for developing, authorizing, issuing, and enforcing regulations for surface mining and reclamation operations subject to this chapter should rest with the States;
+&emsp;(f) because of the diversity in terrain, climate, biologic, chemical, and other physical conditions in areas subject to mining operations, the primary governmental responsibility for developing, authorizing, issuing, and enforcing regulations for surface mining and reclamation operations subject to this chapter should rest with the States;
 
 &emsp;(g) surface mining and reclamation standards are essential in order to insure that competition in interstate commerce among sellers of coal produced in different States will not be used to undermine the ability of the several States to improve and maintain adequate standards on coal mining operations within their borders;
 
@@ -28,27 +28,27 @@ The Congress finds and declares that—
 
 #### References in Text
 
-This chapter, referred to in pars. (e), (f), and (k), was in the original “this Act”, meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which enacted this chapter and amended section 1114 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in pars. (e), (f), and (k), was in the original "this Act", meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which enacted this chapter and amended section 1114 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–432, div. C, title II, §200, Dec. 20, 2006, 120 Stat. 3006, provided that: “This title \[enacting section 1244 of this title, amending sections 1231 to 1233, 1236, 1238, 1240a, 1260, 1300, and 1302 of this title and sections 9701, 9702, 9704 to 9707, 9711, 9712, and 9721 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 1232 of this title and sections 9701, 9704, and 9712 of Title 26\] may be cited as the ‘Surface Mining Control and Reclamation Act Amendments of 2006’.”
+Pub. L. 109–432, div. C, title II, §200, Dec. 20, 2006, 120 Stat. 3006, provided that: "This title \[enacting section 1244 of this title, amending sections 1231 to 1233, 1236, 1238, 1240a, 1260, 1300, and 1302 of this title and sections 9701, 9702, 9704 to 9707, 9711, 9712, and 9721 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 1232 of this title and sections 9701, 9704, and 9712 of Title 26\] may be cited as the 'Surface Mining Control and Reclamation Act Amendments of 2006'."
 
 #### Short Title of 1990 Amendments
 
-Pub. L. 101–508, title VI, §6001, Nov. 5, 1990, 104 Stat. 1388–289, provided that: “This subtitle \[subtitle A (§§6001–6014) of title VI of Pub. L. 101–508, enacting section 1240a of this title, amending sections 1231 to 1237, 1239, 1257, and 1302 of this title, and enacting provisions set out as notes under section 1231 of this title\] may be cited as the ‘Abandoned Mine Reclamation Act of 1990’.”
+Pub. L. 101–508, title VI, §6001, Nov. 5, 1990, 104 Stat. 1388–289, provided that: "This subtitle \[subtitle A (§§6001–6014) of title VI of Pub. L. 101–508, enacting section 1240a of this title, amending sections 1231 to 1237, 1239, 1257, and 1302 of this title, and enacting provisions set out as notes under section 1231 of this title\] may be cited as the 'Abandoned Mine Reclamation Act of 1990'."
 
-Pub. L. 101–498, §1, Nov. 2, 1990, 104 Stat. 1207, provided that: “This Act \[enacting section 1230a of this title\] may be cited as the ‘Strategic and Critical Minerals Act of 1990’.”
+Pub. L. 101–498, §1, Nov. 2, 1990, 104 Stat. 1207, provided that: "This Act \[enacting section 1230a of this title\] may be cited as the 'Strategic and Critical Minerals Act of 1990'."
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–483, §13, Oct. 12, 1988, 102 Stat. 2341, provided that: “This Act \[amending sections 1221, 1222, 1224, 1226, 1229, and 1230 of this title and enacting provisions set out as notes under this section and section 1229 of this title\] may be cited as the Mining and Mineral Resources Research Institute Amendments of 1988.”
+Pub. L. 100–483, §13, Oct. 12, 1988, 102 Stat. 2341, provided that: "This Act \[amending sections 1221, 1222, 1224, 1226, 1229, and 1230 of this title and enacting provisions set out as notes under this section and section 1229 of this title\] may be cited as the Mining and Mineral Resources Research Institute Amendments of 1988."
 
 #### Short Title
 
-Pub. L. 95–87, §1, Aug. 3, 1977, 91 Stat. 445, provided: “That this Act \[enacting this chapter and amending section 1114 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Surface Mining Control and Reclamation Act of 1977’.”
+Pub. L. 95–87, §1, Aug. 3, 1977, 91 Stat. 445, provided: "That this Act \[enacting this chapter and amending section 1114 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Surface Mining Control and Reclamation Act of 1977'."
 
-Pub. L. 98–409, §11, as added by Pub. L. 100–483, §12, Oct. 12, 1988, 102 Stat. 2341; amended by Pub. L. 104–312, §1(b), Oct. 19, 1996, 110 Stat. 3819, provided that: “This Act \[enacting subchapter III of this chapter\] may be cited as the ‘Mining and Mineral Resources Institutes Act’.”
+Pub. L. 98–409, §11, as added by Pub. L. 100–483, §12, Oct. 12, 1988, 102 Stat. 2341; amended by Pub. L. 104–312, §1(b), Oct. 19, 1996, 110 Stat. 3819, provided that: "This Act \[enacting subchapter III of this chapter\] may be cited as the 'Mining and Mineral Resources Institutes Act'."
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

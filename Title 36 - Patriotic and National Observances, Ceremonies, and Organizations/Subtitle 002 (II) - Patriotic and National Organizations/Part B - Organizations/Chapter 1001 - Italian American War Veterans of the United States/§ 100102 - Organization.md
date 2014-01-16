@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Italian American War Veterans of the United States (in this chapter, the “corporation”), a nonprofit corporation incorporated in California, Connecticut, Florida, Massachusetts, New Jersey, New York, Ohio, Pennsylvania, and Rhode Island, is a federally chartered corporation.
+Federal Charter.—Italian American War Veterans of the United States (in this chapter, the "corporation"), a nonprofit corporation incorporated in California, Connecticut, Florida, Massachusetts, New Jersey, New York, Ohio, Pennsylvania, and Rhode Island, is a federally chartered corporation.
 
 (b)
 
@@ -32,7 +32,7 @@ Nov. 20, 1981, Pub. L. 97–82, §§1, 15 (last sentence), 16, 95 Stat. 1091, 10
 
 36:1715.
 
-In subsection (a), the words “organized and” and “the Nonprofit Corporation Acts of the States of” are omitted as unnecessary. The words “is a federally chartered corporation” are substituted for “is hereby recognized as such and is granted a charter” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (a), the words "organized and" and "the Nonprofit Corporation Acts of the States of" are omitted as unnecessary. The words "is a federally chartered corporation" are substituted for "is hereby recognized as such and is granted a charter" for consistency in the revised title and to eliminate unnecessary words.
 
-In subsection (b), the text of 36:1714 (last sentence) is omitted as included in 36:1715. The words “restrictions or” are omitted as unnecessary.
+In subsection (b), the text of 36:1714 (last sentence) is omitted as included in 36:1715. The words "restrictions or" are omitted as unnecessary.
 

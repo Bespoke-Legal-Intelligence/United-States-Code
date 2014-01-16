@@ -20,7 +20,7 @@ Costs of Preparation of Obsolete Service Craft and Boats for Future Sale or Exch
 
 (d)
 
-Costs of Preparation for Sale or Exchange.—In this section, the term “full costs of preparation” means the full costs (direct and indirect) incurred by the Navy in preparing an obsolete service craft or an obsolete boat for exchange or sale, including the cost of the following:
+Costs of Preparation for Sale or Exchange.—In this section, the term "full costs of preparation" means the full costs (direct and indirect) incurred by the Navy in preparing an obsolete service craft or an obsolete boat for exchange or sale, including the cost of the following:
 
 &emsp;(1) Towing.
 
@@ -30,7 +30,7 @@ Costs of Preparation for Sale or Exchange.—In this section, the term “full c
 
 &emsp;(4) Removal and disposal of hazardous wastes.
 
-&emsp;(5) Environmental surveys to determine the presence of regulated materials containing polychlorinated biphenyl (PCB) and, if such materials are found, the removal and disposal of such materials.
+&emsp;(5) Environmental surveys to determine the presence of regulated materials containingpolychlorinated biphenyl (PCB) and, if such materials are found, the removal and disposal of such materials.
 
 &emsp;(6) Other costs related to such preparation.
 
@@ -58,7 +58,7 @@ A prior section 7312, added Pub. L. 100–180, div. A, title XI, §1102(a)(1), D
 
 #### Effective Date
 
-Pub. L. 108–375, div. A, title X, §1012(b), Oct. 28, 2004, 118 Stat. 2040, provided that: “Section 7312 of title 10, United States Code, as added by subsection (a), shall apply with respect to amounts received on or after the date of the enactment of this Act \[Oct. 28, 2004\] and to amounts received before the date of the enactment of this Act and not obligated as of that date.”
+Pub. L. 108–375, div. A, title X, §1012(b), Oct. 28, 2004, 118 Stat. 2040, provided that: "Section 7312 of title 10, United States Code, as added by subsection (a), shall apply with respect to amounts received on or after the date of the enactment of this Act \[Oct. 28, 2004\] and to amounts received before the date of the enactment of this Act and not obligated as of that date."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

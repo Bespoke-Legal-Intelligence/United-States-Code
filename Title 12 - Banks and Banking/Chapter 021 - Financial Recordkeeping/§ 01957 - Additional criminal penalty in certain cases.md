@@ -10,7 +10,7 @@ Section 1730d of this title, referred to in text, was repealed by Pub. L. 101–
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–550 inserted “, or willfully causes a violation of” after “Whoever willfully violates”.
+<b>1992</b>—Pub. L. 102–550 inserted ", or willfully causes a violation of" after "Whoever willfully violates".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

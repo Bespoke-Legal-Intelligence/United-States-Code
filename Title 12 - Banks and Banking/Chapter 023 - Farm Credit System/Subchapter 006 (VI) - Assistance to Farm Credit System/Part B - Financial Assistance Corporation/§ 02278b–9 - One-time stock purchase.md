@@ -40,7 +40,7 @@ For purposes of subsection (a) of this section, the unallocated retained earning
 
 &emsp;(B) in the case of a district in which the district board has reallocated the stock purchase requirement in accordance with subsection (a)(2) of this section, the district board shall notify each System institution in the district of the amount of stock such institution is required to purchase under subsection (a) of this section.
 
-(2) Not later than 15 days before each issuance of debt obligations under section 2278b–6(a) of this title occurring after September 30, 1988, the Financial Assistance Corporation shall notifyeach System institution required to purchase Corporation stock under subsection (a)(3) of this section of the amount of the stock it is required to purchase.
+(2) Not later than 15 days before each issuance of debt obligations under section 2278b–6(a) of this title occurring after September 30, 1988, the Financial Assistance Corporation shall notify each System institution required to purchase Corporation stock under subsection (a)(3) of this section of the amount of the stock it is required to purchase.
 
 #### (d) Institution requirements after notice
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, the United States district court for
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–460, §646(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–460, §646(1), substituted "paragraphs (2) and (3)" for "paragraph (2)" in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 100–460, §646(2), added par. (3).
 
@@ -62,7 +62,7 @@ Subsec. (c). Pub. L. 100–460, §646(3), (4), designated existing provisions as
 
 #### Effective Date of 1988 Amendments
 
-Pub. L. 101–220, §7(a), Dec. 12, 1989, 103 Stat. 1881, and Pub. L. 101–239, title I, §1006(a), Dec. 19, 1989, 103 Stat. 2109, provided that: “Notwithstanding any other provision of law, the amendments to section 6.29 of the Farm Credit Act of 1971 (12 U.S.C. 2278b–9) made by section 646 of the Rural Development, Agriculture, and Related Agencies Appropriations Act, 1989 (Public Law 100–460; 102 Stat. 2266) shall be effective on October 1, 1992.”
+Pub. L. 101–220, §7(a), Dec. 12, 1989, 103 Stat. 1881, and Pub. L. 101–239, title I, §1006(a), Dec. 19, 1989, 103 Stat. 2109, provided that: "Notwithstanding any other provision of law, the amendments to section 6.29 of the Farm Credit Act of 1971 (12 U.S.C. 2278b–9) made by section 646 of the Rural Development, Agriculture, and Related Agencies Appropriations Act, 1989 (Public Law 100–460; 102 Stat. 2266) shall be effective on October 1, 1992."
 
 Pub. L. 100–460, title VI, §646, Oct. 1, 1988, 102 Stat. 2266, provided that the amendment made by that section is effective Oct. 1, 1989.
 

@@ -78,6 +78,8 @@ No grant funds provided under this section may be used for the following purpose
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a)(2) and (e), was in the original "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
+
 The foreign relations laws of the United States, referred to in subsec. (h)(1)(A), are classified generally to this title.
 
 The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, as amended, which was classified generally to chapter 43 (§2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, §310(e), Apr. 30, 1994, 108 Stat. 442. See section 6209(e) of this title.
@@ -86,17 +88,17 @@ The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95�
 
 #### Amendments
 
-<b>2004</b>—Subsec. (j)(1), (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (j)(1), (2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–228, §501, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The total amount of grants made by the Board for the operating costs of Radio Free Europe and Radio Liberty may not exceed $75,000,000 for any fiscal year after fiscal year 1995.”
+<b>2002</b>—Subsec. (c). Pub. L. 107–228, §501, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The total amount of grants made by the Board for the operating costs of Radio Free Europe and Radio Liberty may not exceed $75,000,000 for any fiscal year after fiscal year 1995."
 
-Subsec. (h)(1)(A). Pub. L. 107–228, §502(2), substituted “subparagraph (B) or (C),” for “subparagraph (B),”.
+Subsec. (h)(1)(A). Pub. L. 107–228, §502(2), substituted "subparagraph (B) or (C)," for "subparagraph (B),".
 
 Subsec. (h)(1)(C). Pub. L. 107–228, §502(1), added subpar. (C).
 
-<b>1998</b>—Subsec. (i)(1). Pub. L. 105–277, §1314(d), substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency” in two places and struck out “, the Director of the United States Information Agency,” after “shall submit to the Board”.
+<b>1998</b>—Subsec. (i)(1). Pub. L. 105–277, §1314(d), substituted "Inspector General of the Department of State and the Foreign Service" for "Inspector General of the United States Information Agency" in two places and struck out ", the Director of the United States Information Agency," after "shall submit to the Board".
 
-Subsec. (j)(3). Pub. L. 105–277, §1314(d)(1), substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency”.
+Subsec. (j)(3). Pub. L. 105–277, §1314(d)(1), substituted "Inspector General of the Department of State and the Foreign Service" for "Inspector General of the United States Information Agency".
 
 Subsecs. (k), (l). Pub. L. 105–277, §1323(l)(1), struck out subsecs. (k) and (l), which listed conditions placed upon plan for relocation of offices or operations of RFE/RL, Incorporated from Munich, Germany, and required report to Congress on classification of personnel not later than 90 days after confirmation of all members of Board, respectively.
 
@@ -106,11 +108,11 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Liaison With RFE/RL, Incorporated; Representation at Board Meetings
 
-Pub. L. 99–93, title III, §305(b), Aug. 16, 1985, 99 Stat. 436, provided that: “The Secretary of State shall—
+Pub. L. 99–93, title III, §305(b), Aug. 16, 1985, 99 Stat. 436, provided that: "The Secretary of State shall—
 
-&emsp;“(1) establish an office within the United States Consulate in Munich, Federal Republic of Germany, which shall be responsible for the daily liaison operations of the Department of State with RFE/RL, Incorporated; and
+&emsp;"(1) establish an office within the United States Consulate in Munich, Federal Republic of Germany, which shall be responsible for the daily liaison operations of the Department of State with RFE/RL, Incorporated; and
 
-&emsp;“(2) be represented by an observer at each meeting of the Board for International Broadcasting and of the Board of Directors of RFE/RL, Incorporated.”
+&emsp;"(2) be represented by an observer at each meeting of the Board for International Broadcasting and of the Board of Directors of RFE/RL, Incorporated."
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

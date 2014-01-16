@@ -106,7 +106,7 @@ The Administrator shall, with respect to each applicant conditionally approved u
 
 (Pub. L. 85–699, title III, §384, as added Pub. L. 110–140, title XII, §1207, Dec. 19, 2007, 121 Stat. 1776.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 
 <i><sup>2</sup></i><i> So in original. The article probably should not appear.</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Joint Matters.—(1) In this chapter, the term “joint matters” means matters related to the achievement of unified action by integrated military forces in operations conducted across domains such as land, sea, or air, in space, or in the information environment, including matters relating to—
+Joint Matters.—(1) In this chapter, the term "joint matters" means matters related to the achievement of unified action by integrated military forces in operations conducted across domains such as land, sea, or air, in space, or in the information environment, including matters relating to—
 
 &emsp;(A) national military strategy;
 
@@ -14,7 +14,7 @@ Joint Matters.—(1) In this chapter, the term “joint matters” means matters
 
 &emsp;(E) combined operations with military forces of allied nations.
 
-(2) In the context of joint matters, the term “integrated military forces” refers to military forces that are involved in the planning or execution (or both) of operations involving participants from—
+(2) In the context of joint matters, the term "integrated military forces" refers to military forces that are involved in the planning or execution (or both) of operations involving participants from—
 
 &emsp;(A) more than one military department; or
 
@@ -28,7 +28,7 @@ Joint Matters.—(1) In this chapter, the term “joint matters” means matters
 
 (b)
 
-Joint Duty Assignment.—(1) The Secretary of Defense shall by regulation define the term “joint duty assignment” for the purposes of this chapter. That definition—
+Joint Duty Assignment.—(1) The Secretary of Defense shall by regulation define the term "joint duty assignment" for the purposes of this chapter. That definition—
 
 &emsp;(A) shall be limited to assignments in which the officer gains significant experience in joint matters; and
 
@@ -42,11 +42,11 @@ Joint Duty Assignment.—(1) The Secretary of Defense shall by regulation define
 
 (c)
 
-Clarification of “Tour of Duty”.—For purposes of this chapter, a tour of duty in which an officer serves in more than one joint duty assignment without a break between such assignments shall be considered to be a single tour of duty in a joint duty assignment.
+Clarification of "Tour of Duty".—For purposes of this chapter, a tour of duty in which an officer serves in more than one joint duty assignment without a break between such assignments shall be considered to be a single tour of duty in a joint duty assignment.
 
 (d)
 
-Critical Occupational Specialty.—(1) In this chapter, the term “critical occupational specialty” means a military occupational specialty involving combat operations within the combat arms, in the case of the Army, or the equivalent arms, in the case of the Navy, Air Force, and Marine Corps, that the Secretary of Defense designates as critical.
+Critical Occupational Specialty.—(1) In this chapter, the term "critical occupational specialty" means a military occupational specialty involving combat operations within the combat arms, in the case of the Army, or the equivalent arms, in the case of the Navy, Air Force, and Marine Corps, that the Secretary of Defense designates as critical.
 
 (2) At a minimum, the Secretary of Defense shall designate as a critical occupational specialty under paragraph (1) any military occupational specialty within a combat arms (or the equivalent) that is experiencing a severe shortage of trained officers in that specialty, as determined by the Secretary.
 
@@ -54,39 +54,39 @@ Critical Occupational Specialty.—(1) In this chapter, the term “critical occ
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(1)(B). Pub. L. 112–239 substituted “student assignments for joint training and education” for “assignments for joint training and education, except an assignment as an instructor responsible for preparing and presenting courses in areas of the curricula designated in section 2155(c) of this title as part of a program designated by the Secretary of Defense as joint professional military education Phase II”.
+<b>2013</b>—Subsec. (b)(1)(B). Pub. L. 112–239 substituted "student assignments for joint training and education" for "assignments for joint training and education, except an assignment as an instructor responsible for preparing and presenting courses in areas of the curricula designated in section 2155(c) of this title as part of a program designated by the Secretary of Defense as joint professional military education Phase II".
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §521(1)(A), substituted “integrated” for “multiple” in introductory provisions.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §521(1)(A), substituted "integrated" for "multiple" in introductory provisions.
 
-Subsec. (a)(1)(D). Pub. L. 111–383, §521(1)(B), substituted “or” for “and”.
+Subsec. (a)(1)(D). Pub. L. 111–383, §521(1)(B), substituted "or" for "and".
 
-Subsec. (a)(2). Pub. L. 111–383, §521(2), added par. (2) and struck out former par. (2), which read as follows: “In the context of joint matters, the term ‘multiple military forces’ refers to forces that involve participants from the armed forces and one or more of the following:
+Subsec. (a)(2). Pub. L. 111–383, §521(2), added par. (2) and struck out former par. (2), which read as follows: "In the context of joint matters, the term 'multiple military forces' refers to forces that involve participants from the armed forces and one or more of the following:
 
-&emsp;“(A) Other departments and agencies of the United States.
+&emsp;"(A) Other departments and agencies of the United States.
 
-&emsp;“(B) The military forces or agencies of other countries.
+&emsp;"(B) The military forces or agencies of other countries.
 
-&emsp;“(C) Non-governmental persons or entities.”
+&emsp;"(C) Non-governmental persons or entities."
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–364, §519(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In this chapter, the term ‘joint matters’ means matters relating to the integrated employment of land, sea, and air forces, including matters relating to—
+<b>2006</b>—Subsec. (a). Pub. L. 109–364, §519(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "In this chapter, the term 'joint matters' means matters relating to the integrated employment of land, sea, and air forces, including matters relating to—
 
-&emsp;“(1) national military strategy;
+&emsp;"(1) national military strategy;
 
-&emsp;“(2) strategic planning and contingency planning; and
+&emsp;"(2) strategic planning and contingency planning; and
 
-&emsp;“(3) command and control of combat operations under unified command.”
+&emsp;"(3) command and control of combat operations under unified command."
 
-Subsec. (b)(1). Pub. L. 109–364, §519(b), substituted provisions limiting the definition of “joint duty assignment” to assignments in which the officer gains significant experience in joint matters and excluding assignments for joint training and education, except an assignment as an instructor responsible for courses as part of a program designated as joint professional military education Phase II, for provisions limiting the definition of “joint duty assignment” to assignments in which the officer gains significant experience in joint matters and excluding assignments for joint training or joint education and assignments within an officer's own military department.
+Subsec. (b)(1). Pub. L. 109–364, §519(b), substituted provisions limiting the definition of "joint duty assignment" to assignments in which the officer gains significant experience in joint matters and excluding assignments for joint training and education, except an assignment as an instructor responsible for courses as part of a program designated as joint professional military education Phase II, for provisions limiting the definition of "joint duty assignment" to assignments in which the officer gains significant experience in joint matters and excluding assignments for joint training or joint education and assignments within an officer's own military department.
 
 Subsec. (d). Pub. L. 109–364, §519(c), added subsec. (d).
 
-<b>2004</b>—Subsec. (b)(2). Pub. L. 108–375, §534(a), substituted “a joint duty assignment list” for “a list” in introductory provisions.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–375, §534(a), substituted "a joint duty assignment list" for "a list" in introductory provisions.
 
-Subsec. (c). Pub. L. 108–375, §534(b), struck out “within the same organization” before “without a break”.
+Subsec. (c). Pub. L. 108–375, §534(b), struck out "within the same organization" before "without a break".
 
 <b>1988</b>—Subsecs. (c), (f). Pub. L. 100–456 redesignated subsec. (f) as (c).
 
-<b>1987</b>—Subsec. (b)(2). Pub. L. 100–180, §1302(c)(1), inserted “and, of those positions, those that are positions held by general or flag officers and the number of such positions” in subpars. (A) and (B).
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–180, §1302(c)(1), inserted "and, of those positions, those that are positions held by general or flag officers and the number of such positions" in subpars. (A) and (B).
 
 Subsec. (f). Pub. L. 100–180, §1303(b), added subsec. (f).
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 109–364 effective Oct. 1, 2007, see section 519(e) of Pub
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title V, §534(c), Oct. 28, 2004, 118 Stat. 1901, provided that: “The amendment made by subsection (b) \[amending this section\] shall not apply in the case of a joint duty assignment completed by an officer before the date of the enactment of this Act \[Oct. 28, 2004\], except in the case of an officer who has continued in joint duty assignments, without a break in service in such assignments, between the end of such assignment and the date of the enactment of this Act.”
+Pub. L. 108–375, div. A, title V, §534(c), Oct. 28, 2004, 118 Stat. 1901, provided that: "The amendment made by subsection (b) \[amending this section\] shall not apply in the case of a joint duty assignment completed by an officer before the date of the enactment of this Act \[Oct. 28, 2004\], except in the case of an officer who has continued in joint duty assignments, without a break in service in such assignments, between the end of such assignment and the date of the enactment of this Act."
 
 #### Publication of Revised Joint Duty Assignment List
 

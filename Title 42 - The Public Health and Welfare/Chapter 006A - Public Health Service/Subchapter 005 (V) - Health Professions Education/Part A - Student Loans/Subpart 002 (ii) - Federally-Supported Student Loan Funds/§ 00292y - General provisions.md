@@ -20,7 +20,7 @@ Allotments to a loan fund of a school shall be paid to it from time to time in s
 
 #### (1) Expenditure for Federal capital contributions
 
-&emsp;Subject to section 292s(b)(5) of this title, any amounts from student loan funds under section 292q of this title that are returned to the Secretary by health professions schools shall be expended to make Federal capital contributions to such funds.
+&emsp;Subject to section 292s(b)(5) of this title, any amounts from student loan funds under section 292q of this title that are returned to the Secretary by health professions schools shallbe expended to make Federal capital contributions to such funds.
 
 #### (2) Date certain for contributions
 
@@ -40,7 +40,7 @@ Allotments to a loan fund of a school shall be paid to it from time to time in s
 
 &emsp;(A) Subject to subparagraph (B), the Secretary may make a Federal capital contribution pursuant to paragraph (1) only if the school of medicine or osteopathic medicine involved meets the conditions described in subparagraph (A) of section 292s(b)(2) of this title or the conditions described in subparagraph (C) of such section.
 
-&emsp;(B) For purposes of subparagraph (A), the conditions referred to in such subparagraph shall be applied with respect to graduates of the school involved whose date of graduation occurred approximately 3 years before June 30 of the fiscal year preceding the fiscal year forwhich the Federal capital contribution involved is made.
+&emsp;(B) For purposes of subparagraph (A), the conditions referred to in such subparagraph shall be applied with respect to graduates of the school involved whose date of graduation occurred approximately 3 years before June 30 of the fiscal year preceding the fiscal year for which the Federal capital contribution involved is made.
 
 (July 1, 1944, ch. 373, title VII, §735, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2021; amended Pub. L. 102–531, title III, §313(a)(1), Oct. 27, 1992, 106 Stat. 3507; Pub. L. 103–43, title XX, §2014(d), June 10, 1993, 107 Stat. 217; Pub. L. 105–392, title I, §134(c), Nov. 13, 1998, 112 Stat. 3578.)
 
@@ -50,7 +50,7 @@ A prior section 735 of act July 1, 1944, was classified to section 294h of this 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (e)(2). Pub. L. 105–392 reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “Amounts described in paragraph (1) that are returned to the Secretary before the fourth quarter of a fiscal year shall be obligated before the end of such fiscal year, and may not be obligated before the fourth quarter. For purposes of the preceding sentence, amounts returned to the Secretary during the last quarter of a fiscal year are deemed to have been returned during the first three quarters of the succeeding fiscal year.”
+<b>1998</b>—Subsec. (e)(2). Pub. L. 105–392 reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: "Amounts described in paragraph (1) that are returned to the Secretary before the fourth quarter of a fiscal year shall be obligated before the end of such fiscal year, and may not be obligated before the fourth quarter. For purposes of the preceding sentence, amounts returned to the Secretary during the last quarter of a fiscal year are deemed to have been returned during the first three quarters of the succeeding fiscal year."
 
 <b>1993</b>—Subsec. (f). Pub. L. 103–43 added subsec. (f).
 
@@ -58,5 +58,5 @@ A prior section 735 of act July 1, 1944, was classified to section 294h of this 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–531, title III, §313(c), Oct. 27, 1992, 106 Stat. 3507, provided that: “The amendments described in this section \[amending this section and sections 293j, 293l, 294n, 295j, 295l, 295n, 295o, 296k, and 298b–7 of this title, repealing section 297j of this title, redesignating subpart IV of part B of subchapter VI of this chapter as subpart III, and amending provisions set out as a note under section 295k of this title\] are made, and take effect, immediately after the enactment of the bill, H.R. 3508, of the One Hundred Second Congress \[Pub. L. 102–408, approved Oct. 13, 1992\].”
+Pub. L. 102–531, title III, §313(c), Oct. 27, 1992, 106 Stat. 3507, provided that: "The amendments described in this section \[amending this section and sections 293j, 293l, 294n, 295j, 295l, 295n, 295o, 296k, and 298b–7 of this title, repealing section 297j of this title, redesignating subpart IV of part B of subchapter VI of this chapter as subpart III, and amending provisions set out as a note under section 295k of this title\] are made, and take effect, immediately after the enactment of the bill, H.R. 3508, of the One Hundred Second Congress \[Pub. L. 102–408, approved Oct. 13, 1992\]."
 

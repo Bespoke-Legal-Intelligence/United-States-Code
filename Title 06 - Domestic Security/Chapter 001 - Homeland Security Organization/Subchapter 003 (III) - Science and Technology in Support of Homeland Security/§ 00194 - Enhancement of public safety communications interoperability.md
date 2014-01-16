@@ -106,7 +106,7 @@ Not later than 18 months after December 17, 2004, the President shall establish 
 
 #### (C) Notice to Secretary
 
-&emsp;&emsp;An applicant that is issued a letter of intent under this subsection shall notify theSecretary of the applicant's intent to carry out a project pursuant to the letter before the project begins.
+&emsp;&emsp;An applicant that is issued a letter of intent under this subsection shall notify the Secretary of the applicant's intent to carry out a project pursuant to the letter before the project begins.
 
 #### (D) Notice to Congress
 
@@ -182,7 +182,7 @@ Section is comprised of section 7303 of Pub. L. 108–458. Subsec. (d) of sectio
 
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
-Section 301(c) of Pub. L. 110–53, which directed the amendment of section 7303 of the “Intelligence Reformand Terrorist Prevention Act of 2004”, was executed to this section, which is section 7303 of the Intelligence Reform and Terrorism Prevention Act of 2004, to reflect the probable intent of Congress. See 2007 Amendment notes below.
+Section 301(c) of Pub. L. 110–53, which directed the amendment of section 7303 of the “Intelligence Reform and Terrorist Prevention Act of 2004”, was executed to this section, which is section 7303 of the Intelligence Reform and Terrorism Prevention Act of 2004, to reflect the probable intent of Congress. See 2007 Amendment notes below.
 
 #### Amendments
 

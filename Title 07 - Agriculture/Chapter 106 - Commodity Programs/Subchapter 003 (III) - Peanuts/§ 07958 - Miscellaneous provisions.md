@@ -18,7 +18,7 @@ The Peanut Administrative Committee established under Marketing Agreement No. 14
 
 #### (A) Total members
 
-&emsp;&emsp;The Board shall consist of 18 members, with representation equally divided between peanut producers and peanut industry representatives.
+&emsp;&emsp;The Board shall consist of 18 members, with representation equally divided betweenpeanut producers and peanut industry representatives.
 
 #### (B) Appointment process for producers
 
@@ -84,11 +84,11 @@ Imported peanuts shall be subject to the same quality and handling standards as 
 
 #### (2) Funds
 
-&emsp;The Secretary may transfer any funds available to carry out the activities of the PeanutAdministrative Committee to the Peanut Standards Board to carry out the duties of the Board described in this section.
+&emsp;The Secretary may transfer any funds available to carry out the activities of the Peanut Administrative Committee to the Peanut Standards Board to carry out the duties of the Board described in this section.
 
 #### (3) Transition period
 
-&emsp;In paragraph (1), the term “transition period” means the period beginning on May 13, 2002, and ending on the earlier of—
+&emsp;In paragraph (1), the term "transition period" means the period beginning on May 13, 2002, and ending on the earlier of—
 
 &emsp;&emsp;(A) the date the Secretary appoints the members of the Peanut Standards Board pursuant to subsection (c) of this section; or
 

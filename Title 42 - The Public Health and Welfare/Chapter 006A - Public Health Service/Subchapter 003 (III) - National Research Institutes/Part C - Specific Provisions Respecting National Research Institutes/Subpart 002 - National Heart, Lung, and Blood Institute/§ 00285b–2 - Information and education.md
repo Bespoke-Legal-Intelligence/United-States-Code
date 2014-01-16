@@ -1,6 +1,6 @@
 ### §285b–2. Information and education
 
-The Director of the Institute shall collect, identify, analyze, and disseminate on a timely basis, through publications and other appropriate means, to patients, families of patients, physicians and other health professionals, and the general public, information on research, prevention, diagnosis, and treatment of heart, blood vessel, lung, and blood diseases, the maintenance of health to reduce the incidence of such diseases, and on the use of blood and blood products and the management of blood resources. In carrying out this section, the Director of the Institute shall place special emphasis upon the utilization of collaborative efforts with both the public and private sectors to—
+The Director of the Institute shall collect, identify, analyze, and disseminate on a timely basis, through publications and other appropriate means, to patients, families of patients, physicians and other health professionals, andthe general public, information on research, prevention, diagnosis, and treatment of heart, blood vessel, lung, and blood diseases, the maintenance of health to reduce the incidence of such diseases, and on the use of blood and blood products and the management of blood resources. In carrying out this section, the Director of the Institute shall place special emphasis upon the utilization of collaborative efforts with both the public and private sectors to—
 
 &emsp;(1) increase the awareness and knowledge of health care professionals and the public regarding the prevention of heart and blood vessel, lung, and blood diseases and the utilization of blood resources; and
 
@@ -10,9 +10,9 @@ The Director of the Institute shall collect, identify, analyze, and disseminate 
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–607 amended second sentence generally. Prior to amendment, second sentence read as follows: “In carrying out this section the Director of the Institute shall place special emphasis upon—
+<b>1988</b>—Pub. L. 100–607 amended second sentence generally. Prior to amendment, second sentence read as follows: "In carrying out this section the Director of the Institute shall place special emphasis upon—
 
-&emsp;“(1) the dissemination of information regarding diet and nutrition, environmental pollutants, exercise, stress, hypertension, cigarette smoking, weight control, and other factors affecting the prevention of arteriosclerosis and other cardiovascular diseases and of pulmonary and blood diseases; and
+&emsp;"(1) the dissemination of information regarding diet and nutrition, environmental pollutants, exercise, stress, hypertension, cigarette smoking, weight control, and other factors affecting the prevention of arteriosclerosis and other cardiovascular diseases and of pulmonary and blood diseases; and
 
-&emsp;“(2) the dissemination of information designed to encourage children to adopt healthful habits respecting the risk factors related to the prevention of such diseases.”
+&emsp;"(2) the dissemination of information designed to encourage children to adopt healthful habits respecting the risk factors related to the prevention of such diseases."
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish in the Institute the National Diabetes Advisory Board, the National Digestive Diseases Advisory Board, and the National Kidney and Urologic Diseases Advisory Board (hereafter in this section individually referred to as an “Advisory Board”).
+The Secretary shall establish in the Institute the National Diabetes Advisory Board, the National Digestive Diseases Advisory Board, and the National Kidney and Urologic Diseases Advisory Board (hereafter in this section individually referred to as an "Advisory Board").
 
 #### (b) Membership; ex officio members
 
@@ -38,7 +38,7 @@ The members of each Advisory Board shall select a chairman from among the appoin
 
 #### (f) Executive director; professional and clerical staff; administrative support services and facilities
 
-The Secretary shall, after consultation with and consideration of the recommendations of an Advisory Board, provide the Advisory Board with an executive director and one other professional staff member. In addition, the Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with such additional professional staff members, such clerical staff members, such services of consultants, such information, and (through contracts or other arrangements) such administrative support services and facilities, as the Secretary determines are necessary for the Advisory Board to carry out its functions.
+The Secretary shall, after consultation with and consideration of the recommendations of an Advisory Board, provide the Advisory Boardwith an executive director and one other professional staff member. In addition, the Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with such additional professional staff members, such clerical staff members, such services of consultants, such information, and (through contracts or other arrangements) such administrative support services and facilities, as the Secretary determines are necessary for the Advisory Board to carry out its functions.
 
 #### (g) Meetings
 
@@ -66,25 +66,25 @@ The National Diabetes Advisory Board and the National Digestive Diseases Advisor
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(2)(B). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+<b>2007</b>—Subsec. (b)(2)(B). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute of Child Health and Human Development".
 
-<b>1998</b>—Subsecs. (j), (k). Pub. L. 105–362 redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “Each Advisory Board shall prepare an annual report for the Secretary which—
+<b>1998</b>—Subsecs. (j), (k). Pub. L. 105–362 redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: "Each Advisory Board shall prepare an annual report for the Secretary which—
 
-&emsp;“(1) describes the Advisory Board's activities in the fiscal year for which the report is made;
+&emsp;"(1) describes the Advisory Board's activities in the fiscal year for which the report is made;
 
-&emsp;“(2) describes and evaluates the progress made in such fiscal year in research, treatment, education, and training with respect to the diseases with respect to which the Advisory Board was established;
+&emsp;"(2) describes and evaluates the progress made in such fiscal year in research, treatment, education, and training with respect to the diseases with respect to which the Advisory Board was established;
 
-&emsp;“(3) summarizes and analyzes expenditures made by the Federal Government for activities respecting such diseases in such fiscal year; and
+&emsp;"(3) summarizes and analyzes expenditures made by the Federal Government for activities respecting such diseases in such fiscal year; and
 
-&emsp;“(4) contains the Advisory Board's recommendations (if any) for changes in the plan referred to in section 285c–7 of this title.”
+&emsp;"(4) contains the Advisory Board's recommendations (if any) for changes in the plan referred to in section 285c–7 of this title."
 
-<b>1993</b>—Subsec. (b)(2)(A)(i). Pub. L. 103–43 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1993</b>—Subsec. (b)(2)(A)(i). Pub. L. 103–43 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-<b>1992</b>—Subsec. (b)(2)(A)(i). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (b)(2)(A)(i). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
-Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director".
 
-<b>1988</b>—Subsecs. (k), (l). Pub. L. 100–607 redesignated subsec. (l) as (k) and struck out former subsec. (k) which read as follows: “Each Advisory Board shall expire on September 30, 1988.”
+<b>1988</b>—Subsecs. (k), (l). Pub. L. 100–607 redesignated subsec. (l) as (k) and struck out former subsec. (k) which read as follows: "Each Advisory Board shall expire on September 30, 1988."
 
 #### Termination of Advisory Boards
 
@@ -94,5 +94,5 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payableunder specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

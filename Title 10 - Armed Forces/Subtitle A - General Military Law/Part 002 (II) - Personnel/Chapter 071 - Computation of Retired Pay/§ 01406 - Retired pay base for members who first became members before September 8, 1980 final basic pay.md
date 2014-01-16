@@ -26,7 +26,7 @@ Disability, warrant officer, and dopma retirement.—In the case of a person who
 | --- | --- |
 | 1201120212041205 | Monthly basic pay <sup>1</sup> of grade to which member is entitled under section 1372 or to which he was entitled on day before retirement or placement on temporary disability retired list, whichever is higher. |
 |  |  |
-| &nbsp;580126312931305 | Monthly basic pay to which member would have been entitled if he had served on active duty in his retired grade on day before retirement, or if the pay of that grade is less than the pay of any warrant grade satisfactorily held by him on active duty, the monthly basic pay of that warrant officer grade. |
+|  580126312931305 | Monthly basic pay to which member would have been entitled if he had served on active duty in his retired grade on day before retirement, or if the pay of that grade is less than the pay of any warrant grade satisfactorily held by him on active duty, the monthly basic pay of that warrant officer grade. |
 |  |  |
 | &nbsp;633 634 635 636125112521253 | Monthly basic pay <sup>2</sup> of member's retired grade.<sup>3</sup> |
 
@@ -92,7 +92,7 @@ Voluntary Retirement for Members of the Air Force.—
 
 &emsp;(1)
 
-In general.—In the case of a member whose retired pay is computed under section 8991 of this title or who is entitled to retired pay computed under section 8992 of this title,the retired pay base is determined in accordance with the following table.
+In general.—In the case of a member whose retired pay is computed under section 8991 of this title or who is entitled to retired pay computed under section 8992 of this title, the retired pay base is determined in accordance with the following table.
 
 &nbsp;
 
@@ -150,7 +150,7 @@ Exception for members reduced in grade or who do not serve satisfactorily.—Par
 
 Definitions.—In this subsection:
 
-&emsp;&emsp;(A) The term “Chief of Service” means any of the following:
+&emsp;&emsp;(A) The term "Chief of Service" means any of the following:
 
 &emsp;&emsp;&emsp;(i) Chief of Staff of the Army.
 
@@ -162,7 +162,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;&emsp;(v) Commandant of the Coast Guard.
 
-&emsp;&emsp;(B) The term “senior enlisted member” means any of the following:
+&emsp;&emsp;(B) The term "senior enlisted member" means any of the following:
 
 &emsp;&emsp;&emsp;(i) Sergeant Major of the Army.
 
@@ -184,45 +184,45 @@ A prior section 1406 was renumbered section 12738 of this title.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(2). Pub. L. 111–84 inserted “(or, in the case of a person entitled to retired pay by reason of an election under section 12741(a) of this title, at rates applicable on the date the person completes the service required under such section 12741(a))” after “when retired pay is granted”.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–84 inserted "(or, in the case of a person entitled to retired pay by reason of an election under section 12741(a) of this title, at rates applicable on the date the person completes the service required under such section 12741(a))" after "when retired pay is granted".
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364, §502(d)(2), in table inserted “1253” at end of column under heading “For a member entitled to retired pay under section:”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364, §502(d)(2), in table inserted "1253" at end of column under heading "For a member entitled to retired pay under section:".
 
-Pub. L. 109–163, §509(d)(1)(B), in table inserted “1252” at end of column under heading “For a member entitled to retired pay under section:”.
+Pub. L. 109–163, §509(d)(1)(B), in table inserted "1252" at end of column under heading "For a member entitled to retired pay under section:".
 
-Subsec. (i)(3)(B)(vi). Pub. L. 109–364, §1071(a)(7), substituted “to” for “for”.
+Subsec. (i)(3)(B)(vi). Pub. L. 109–364, §1071(a)(7), substituted "to" for "for".
 
 Pub. L. 109–163, §685(d), added cl. (vi).
 
-<b>2004</b>—Subsec. (g). Pub. L. 108–375 substituted “section 245” for “section 305” and “Officer Corps Act of 2002 (33 U.S.C. 3045)” for “Officers Act of 2002”.
+<b>2004</b>—Subsec. (g). Pub. L. 108–375 substituted "section 245" for "section 305" and "Officer Corps Act of 2002 (33 U.S.C. 3045)" for "Officers Act of 2002".
 
-<b>2003</b>—Subsec. (i). Pub. L. 108–136 inserted “Commanders of Combatant Commands,” after “Chiefs of Service,” in heading and “as a commander of a unified or specified combatant command (as defined in section 161(c) of this title),” after “Chief of Service,” in par. (1).
+<b>2003</b>—Subsec. (i). Pub. L. 108–136 inserted "Commanders of Combatant Commands," after "Chiefs of Service," in heading and "as a commander of a unified or specified combatant command (as defined in section 161(c) of this title)," after "Chief of Service," in par. (1).
 
-<b>2002</b>—Subsec. (g). Pub. L. 107–372 substituted “section 305 of the National Oceanic and Atmospheric Administration Commissioned Officers Act of 2002” for “section 16 of the Coast and Geodetic Survey Commissioned Officers’ Act of 1948 (33 U.S.C. 853o)”
+<b>2002</b>—Subsec. (g). Pub. L. 107–372 substituted "section 305 of the National Oceanic and Atmospheric Administration Commissioned Officers Act of 2002" for "section 16 of the Coast and Geodetic Survey Commissioned Officers' Act of 1948 (33 U.S.C. 853o)"
 
-<b>1999</b>—Subsec. (i)(2). Pub. L. 106–65 substituted “after October 16, 1998” for “on or after the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999” in introductory provisions.
+<b>1999</b>—Subsec. (i)(2). Pub. L. 106–65 substituted "after October 16, 1998" for "on or after the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999" in introductory provisions.
 
 <b>1998</b>—Subsec. (i)(2), (3). Pub. L. 105–261 added par. (2) and redesignated former par. (2) as (3).
 
-<b>1997</b>—Subsec. (b)(1). Pub. L. 105–85 substituted “3962 and 8962” for “3962(b) and 8962(b)” in footnote 3 in table.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–85 substituted "3962 and 8962" for "3962(b) and 8962(b)" in footnote 3 in table.
 
-Subsec. (c)(1). Pub. L. 105–85, §1073(a)(23)(A), substituted “3962” for “3962(b)” in footnote 1 in table.
+Subsec. (c)(1). Pub. L. 105–85, §1073(a)(23)(A), substituted "3962" for "3962(b)" in footnote 1 in table.
 
-Subsec. (e)(1). Pub. L. 105–85, §1073(a)(23)(B), substituted “8962” for “8962(b)” in footnote 1 in table.
+Subsec. (e)(1). Pub. L. 105–85, §1073(a)(23)(B), substituted "8962" for "8962(b)" in footnote 1 in table.
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–337 substituted “Subtitle A or E” for “Subtitle A” in subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, in table struck out item for section 1331 which related to monthly basic pay of highest grade held satisfactorily by person at any time in armed forces, renumbered footnotes 3 and 4 as 2 and 3, respectively, and struck out former footnote 2 which provided for computations at rates applicable on date when retired pay is granted, and added par. (2).
+<b>1994</b>—Subsec. (b). Pub. L. 103–337 substituted "Subtitle A or E" for "Subtitle A" in subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, in table struck out item for section 1331 whichrelated to monthly basic pay of highest grade held satisfactorily by person at any time in armed forces, renumbered footnotes 3 and 4 as 2 and 3, respectively, and struck out former footnote 2 which provided for computations at rates applicable on date when retired pay is granted, and added par. (2).
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–190 substituted “580” for “564” in table.
+<b>1991</b>—Subsec. (b). Pub. L. 102–190 substituted "580" for "564" in table.
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–456 substituted “satisfactorily by person” for “satisfactory by person” in item relating to section 1331 in table.
+<b>1988</b>—Subsec. (b). Pub. L. 100–456 substituted "satisfactorily by person" for "satisfactory by person" in item relating to section 1331 in table.
 
-<b>1987</b>—Subsec. (d). Pub. L. 100–180, §512(d)(2), inserted “or 6334” after “6151” in text, and inserted item relating to section 6334 at end of table.
+<b>1987</b>—Subsec. (d). Pub. L. 100–180, §512(d)(2), inserted "or 6334" after "6151" in text, and inserted item relating to section 6334 at end of table.
 
-Subsec. (i). Pub. L. 100–180, §1314(b)(6), inserted “and Vice Chairmen” after “Chairmen” in heading and inserted “or Vice Chairman” after “Chairman” in par. (1).
+Subsec. (i). Pub. L. 100–180, §1314(b)(6), inserted "and Vice Chairmen" after "Chairmen" in heading and inserted "or Vice Chairman" after "Chairman" in par. (1).
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title VI, §643(c), Nov. 24, 2003, 117 Stat. 1517, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 24, 2003\] and shall apply with respect to officers who first become entitled to retired pay under title 10, United States Code, on or after such date.”
+Pub. L. 108–136, div. A, title VI, §643(c), Nov. 24, 2003, 117 Stat. 1517, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 24, 2003\] and shall apply with respect to officers who first become entitled to retired pay under title 10, United States Code, on or after such date."
 
 #### Effective Date of 1994 Amendment
 
@@ -238,5 +238,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Grade on Transfer to Retired Reserve
 
-Pub. L. 103–337, div. A, title XVI, §1688, Oct. 5, 1994, 108 Stat. 3025, provided that: “In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of section 1406(b) of title 10, United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in section 1370(d) of title 10, United States Code, as added by this title, shall apply only to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title \[see Effective Date note set out under section 10001 of this title\].”
+Pub. L. 103–337, div. A, title XVI, §1688, Oct. 5, 1994, 108 Stat. 3025, provided that: "In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of section 1406(b) of title 10, United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in section 1370(d) of title 10, United States Code, as added by this title, shall apply only to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title \[see Effective Date note set out under section 10001 of this title\]."
 

@@ -12,4 +12,4 @@ Part C—Specific Bureau Authorities
 - [&sect; 05535 - Private Education Loan Ombudsman](%C2%A7%2005535%20-%20Private%20Education%20Loan%20Ombudsman.md)
 - [&sect; 05536 - Prohibited acts](%C2%A7%2005536%20-%20Prohibited%20acts.md)
 - [&sect; 05537 - Senior investor protections](%C2%A7%2005537%20-%20Senior%20investor%20protections.md)
-- [&sect; 05538 - Mortgages loans; rulemaking procedures; enforcement](%C2%A7%2005538%20-%20Mortgages%20loans%3B%20rulemaking%20procedures%3B%20enforcement.md)
+- [&sect; 05538 - Mortgage loans; rulemaking procedures; enforcement](%C2%A7%2005538%20-%20Mortgage%20loans%3B%20rulemaking%20procedures%3B%20enforcement.md)

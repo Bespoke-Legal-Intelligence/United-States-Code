@@ -2,7 +2,7 @@
 
 #### (a) Definition
 
-In this section, the term “administrative organization” means a nonprofit private organization that enters into an agreement with the Corporation to carry out this section.
+In this section, the term "administrative organization" means a nonprofit private organization that enters into an agreement with the Corporation to carry out this section.
 
 #### (b) Identification of projects
 
@@ -10,13 +10,13 @@ In this section, the term “administrative organization” means a nonprofit pr
 
 &emsp;Not later than March 1, 2002, the administrative organization, after obtaining the guidance of the heads of appropriate Federal agencies, such as the Director of the Office of Homeland Security and the Attorney General, shall—
 
-&emsp;&emsp;(A) make an estimate of the number of victims killed as a result of the terrorist attacks on September 11, 2001 (referred to in this section as the “estimated number”); and
+&emsp;&emsp;(A) make an estimate of the number of victims killed as a result of the terrorist attacks on September 11, 2001 (referred to in this section as the "estimated number"); and
 
 &emsp;&emsp;(B) compile a list that specifies, for each individual that the administrative organization determines to be such a victim, the name of the victim and the State in which the victim resided.
 
 #### (2) Identified projects
 
-&emsp;The administrative organization may identify approximately the estimated number of community-based national and community service projects that meet the requirements of subsection (d) of this section. The administrative organization may name projects in honor of victims described in subsection (b)(1)(A) of this section, after obtaining the permission of an appropriate member of the victim's family and the entity carrying out the project.
+&emsp;The administrative organization may identify approximately the estimated number ofcommunity-based national and community service projects that meet the requirements of subsection (d) of this section. The administrative organization may name projects in honor of victims described in subsection (b)(1)(A) of this section, after obtaining the permission of an appropriate member of the victim's family and the entity carrying out the project.
 
 #### (c) Eligible entities
 
@@ -46,9 +46,9 @@ A prior section 12673, Pub. L. 101–610, title IV, §403, Nov. 16, 1990, 104 St
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1831(b)(1), substituted “term ‘administrative organization’ means a nonprofit private organization that enters into an agreement with the Corporation to carry out this section.” for “term ‘Foundation’ means the Points of Light Foundation funded under section 301, or another nonprofit private organization, that enters into an agreement with the Corporation to carry out this section.”
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1831(b)(1), substituted "term 'administrative organization' means a nonprofit private organization that enters into an agreement with the Corporation to carry out this section." for "term 'Foundation' means the Points of Light Foundation funded under section 301, or another nonprofit private organization, that enters into an agreement with the Corporation to carry out this section."
 
-Subsecs. (b), (d), (e). Pub. L. 111–13, §1831(b)(2), substituted “administrative organization” for “Foundation” wherever appearing.
+Subsecs. (b), (d), (e). Pub. L. 111–13, §1831(b)(2), substituted "administrative organization" for "Foundation" wherever appearing.
 
 #### Effective Date of 2009 Amendment
 

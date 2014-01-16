@@ -11,7 +11,7 @@
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §507(f)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105, struck out item 12505 “Selection of officers for certain senior reserve component positions”.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §507(f)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105, struck out item 12505 "Selection of officers for certain senior reserve component positions".
 
 <b>1999</b>—Pub. L. 106–65, div. A, title V, §§554(a)(2), 578(k)(2)(B), Oct. 5, 1999, 113 Stat. 616, 631, added items 12503 and 12505.
 

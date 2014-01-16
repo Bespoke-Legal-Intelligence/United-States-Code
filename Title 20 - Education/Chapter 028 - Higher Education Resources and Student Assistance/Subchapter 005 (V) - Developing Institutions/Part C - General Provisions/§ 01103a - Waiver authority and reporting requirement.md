@@ -18,7 +18,7 @@ The Secretary may waive the requirements set forth in section 1101a(a)(2)(A)(i) 
 
 #### (1) Waiver determinations
 
-&emsp;The Secretary may waive the requirements set forth in section 1101a(a)(2)(A)(ii) of this title if the Secretary determines, based on persuasive evidence submitted by the institution, that the institution's failure to meet the requirements is due to factors which, when used in the determination of compliance with the requirements, distort such determination, and that the institution's designation as an eligible institution under part A of this subchapter is otherwise consistent with the purposes of this subchapter.
+&emsp;The Secretary may waive the requirements set forth in section 1101a(a)(2)(A)(ii) of thistitle if the Secretary determines, based on persuasive evidence submitted by the institution, that the institution's failure to meet the requirements is due to factors which, when used in the determination of compliance with the requirements, distort such determination, and that the institution's designation as an eligible institution under part A of this subchapter is otherwise consistent with the purposes of this subchapter.
 
 #### (2) Expenditures
 

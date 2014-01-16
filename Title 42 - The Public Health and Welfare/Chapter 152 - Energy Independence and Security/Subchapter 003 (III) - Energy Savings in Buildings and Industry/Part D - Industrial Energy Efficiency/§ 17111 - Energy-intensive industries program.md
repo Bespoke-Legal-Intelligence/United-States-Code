@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means—
+&emsp;The term "eligible entity" means—
 
 &emsp;&emsp;(A) an energy-intensive industry;
 
@@ -16,7 +16,7 @@ In this section:
 
 #### (2) Energy-intensive industry
 
-&emsp;The term “energy-intensive industry” means an industry that uses significant quantities of energy as part of its primary economic activities, including—
+&emsp;The term "energy-intensive industry" means an industry that uses significant quantities of energy as part of its primary economic activities, including—
 
 &emsp;&emsp;(A) information technology, including data centers containing electrical equipment used in processing, storing, and transmitting digital information;
 
@@ -46,19 +46,19 @@ In this section:
 
 #### (3) Feedstock
 
-&emsp;The term “feedstock” means the raw material supplied for use in manufacturing, chemical, and biological processes.
+&emsp;The term "feedstock" means the raw material supplied for use in manufacturing, chemical, and biological processes.
 
 #### (4) Partnership
 
-&emsp;The term “partnership” means an energy efficiency partnership established under subsection (c)(1)(A).
+&emsp;The term "partnership" means an energy efficiency partnership established under subsection (c)(1)(A).
 
 #### (5) Program
 
-&emsp;The term “program” means the energy-intensive industries program established under subsection (b).
+&emsp;The term "program" means the energy-intensive industries program established under subsection (b).
 
 #### (b) Establishment of program
 
-The Secretary shall establish a program under which the Secretary, in cooperation with energy-intensive industries and national industry trade associations representing the energy-intensive industries, shall support, research, develop, and promote the use of new materials processes, technologies, and techniques to optimize energy efficiency and the economic competitiveness of the United States’ industrial and commercial sectors.
+The Secretary shall establish a program under which the Secretary, in cooperation with energy-intensive industries and national industry trade associations representing the energy-intensive industries, shall support, research, develop, and promote the use of new materials processes, technologies, and techniques to optimize energy efficiency and the economic competitiveness of the United States' industrial and commercial sectors.
 
 #### (c) Partnerships
 
@@ -124,7 +124,7 @@ The Secretary shall establish a program under which the Secretary, in cooperatio
 
 #### (d) Grants
 
-The Secretary may award competitive grants for innovative technology research, developmentand demonstrations to universities, individual inventors, and small companies, based on energy savings potential, commercial viability, and technical merit.
+The Secretary may award competitive grants for innovative technology research, development and demonstrations to universities, individual inventors, and small companies, based on energy savings potential, commercial viability, and technical merit.
 
 #### (e) Institution of higher education-based industrial research and assessment centers
 

@@ -4,7 +4,7 @@ The Secretary shall—
 
 &emsp;(1) initiate and conduct a federal applications study for wind energy systems, cooperatively with appropriate Federal agencies to determine the potential for the use of wind systems at specific Federal facilities; and this study shall—
 
-&emsp;&emsp;(A) include an analysis which determines those sites at which wind energy systems are economically competitive with the marginal costs of new conventional energy sources in the areas;
+&emsp;&emsp;(A) include an analysis which determines those sites at which wind energy systems are economically competitive with the marginalcosts of new conventional energy sources in the areas;
 
 &emsp;&emsp;(B) identify potential sites and uses of wind energy systems at the following agencies as well as any others which the Secretary deems necessary:
 
@@ -36,7 +36,7 @@ The Secretary shall—
 
 #### Amendments
 
-<b>1986</b>—Pars. (5), (6). Pub. L. 99–386 redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “initiate and conduct a study involving the prospects for applications of wind energy systems for power generation in foreign countries, particularly lesser developed countries and the potential for the exploration of these energy systems. This study shall involve the cooperation of the Department of State and the Department of Commerce, as well as other Federal agencies which the Secretary deems appropriate. A final report shall be submitted to the Congress, as well as a preliminary report within twelve months of September 8, 1980; and”.
+<b>1986</b>—Pars. (5), (6). Pub. L. 99–386 redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "initiate and conduct a study involving the prospects for applications of wind energy systems for power generation in foreign countries, particularly lesser developed countries and the potential for the exploration of these energy systems. This study shall involve the cooperation of the Department of State and the Department of Commerce, as well as other Federal agencies which the Secretary deems appropriate. A final report shall be submitted to the Congress, as well as a preliminary report within twelve months of September 8, 1980; and".
 
 #### Change of Name
 

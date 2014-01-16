@@ -10,5 +10,5 @@ Provisions similar to this section were contained in section 1807(a) of this tit
 
 #### Amendments
 
-<b>1956</b>—Act Aug. 6, 1956, inserted “use,” after “possess,”.
+<b>1956</b>—Act Aug. 6, 1956, inserted "use," after "possess,".
 

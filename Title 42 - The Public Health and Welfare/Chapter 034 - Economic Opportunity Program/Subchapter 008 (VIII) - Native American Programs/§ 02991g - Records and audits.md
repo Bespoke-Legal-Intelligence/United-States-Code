@@ -12,5 +12,5 @@ A prior section 809 of Pub. L. 88–452 was renumbered section 810 and is classi
 
 #### Amendments
 
-<b>1992</b>—Subsecs. (a), (b). Pub. L. 102–375 substituted “Commissioner” for “Secretary”.
+<b>1992</b>—Subsecs. (a), (b). Pub. L. 102–375 substituted "Commissioner" for "Secretary".
 

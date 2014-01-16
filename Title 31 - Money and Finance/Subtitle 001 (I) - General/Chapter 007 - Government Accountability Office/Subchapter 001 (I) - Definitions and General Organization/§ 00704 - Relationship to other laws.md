@@ -2,7 +2,7 @@
 
 (a) To the extent applicable, all laws generally related to administering an agency apply to the Comptroller General.
 
-(b) A copy of a record and a transcript from a record or proceeding of the Comptroller General, that the Comptroller General or Deputy Comptroller General certifies under seal, shall be admitted as evidence with the same effect as a copy or transcript referred to in section 1733 of title 28.
+(b) A copy of a record and a transcript from a record or proceeding of the Comptroller General,that the Comptroller General or Deputy Comptroller General certifies under seal, shall be admitted as evidence with the same effect as a copy or transcript referred to in section 1733 of title 28.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 889.)
 
@@ -24,9 +24,9 @@ June 10, 1921, ch. 18, §306, 42 Stat. 24.
 
 31:46(last sentence).
 
-In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
+In the section, the words "Comptroller General" are substituted for "General Accounting Office" for consistency.
 
-In subsection (a), the word “agency” is substituted for “departments and establishments” because of section 701 of the revised title.
+In subsection (a), the word "agency" is substituted for "departments and establishments" because of section 701 of the revised title.
 
-In subsection (b), the word “record” is substituted for “books, records, papers, or documents” for consistency in the revised title and with other titles of the United States Code.
+In subsection (b), the word "record" is substituted for "books, records, papers, or documents" for consistency in the revised title and with other titles of the United States Code.
 

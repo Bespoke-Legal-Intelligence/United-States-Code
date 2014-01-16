@@ -1,6 +1,6 @@
 ### §585. Vacancies
 
-(a) The Attorney General may appoint an acting United States trustee for a region in which the office of the United States trustee is vacant. The individual so appointed may serve until the date on which the vacancy is filled by appointment under section 581 of this title or by designation under subsection (b) of this section.
+(a) The Attorney General may appoint an acting United States trustee for a region in which the office of the United States trustee is vacant. The individual so appointed may serve until thedate on which the vacancy is filled by appointment under section 581 of this title or by designation under subsection (b) of this section.
 
 (b) The Attorney General may designate a United States trustee to serve in not more than two regions for such time as the public interest requires.
 
@@ -12,7 +12,7 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–554 amended section generally. Prior to amendment, section read as follows: “The Attorney General may appoint an acting United States trustee for a district in which the office of United States trustee is vacant, or may designate a United States trustee for another judicial district to serve as trustee for the district in which such vacancy exists. The individual so appointed or designated may serve until the earlier of 90 days after such appointment or designation, as the case may be, or the date on which the vacancy is filled by appointment under section 581 of this title.”
+<b>1986</b>—Pub. L. 99–554 amended section generally. Prior to amendment, section read as follows: "The Attorney General may appoint an acting United States trustee for a district in which the office of United States trustee is vacant, or may designate a United States trustee for another judicial district to serve as trustee for the district in which such vacancy exists. The individual so appointed or designated may serve until the earlier of 90 days after such appointment or designation, as the case may be, or the date on which the vacancy is filled by appointment under section 581 of this title."
 
 #### Effective Date of 1986 Amendment
 

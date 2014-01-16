@@ -48,5 +48,5 @@ For definitions of terms used in this section, see section 2602 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “rights-of-way”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "rights-of-way".</i>
 

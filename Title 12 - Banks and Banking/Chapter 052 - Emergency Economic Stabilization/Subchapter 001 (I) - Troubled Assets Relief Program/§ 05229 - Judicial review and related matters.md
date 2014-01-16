@@ -34,7 +34,7 @@
 
 #### (b) Related matters
 
-#### (1) Treatment of homeowners’ rights
+#### (1) Treatment of homeowners' rights
 
 &emsp;The terms of any residential mortgage loan that is part of any purchase by the Secretary under this chapter shall remain subject to all claims and defenses that would otherwise apply, notwithstanding the exercise of authority by the Secretary under this chapter.
 
@@ -46,11 +46,11 @@
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act" and was translated as reading "this division", meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a)(2)(C), (D), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “a”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "a".</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Right-of-way
 
-Effective on and after October 21, 1976, no right-of-way for the purposes listed in this subchapter shall be granted, issued, or renewed over, upon, under, or through such lands except under and subject to the provisions, limitations, and conditions of this subchapter: <i>Provided</i>,That nothing in this subchapter shall be construed as affecting or modifying the provisions of sections 532 to 538 of title 16 and in the event of conflict with, or inconsistency between, this subchapter and sections 532 to 538 of title 16, the latter shall prevail: <i>Provided further</i>, That nothing in this Act should be construed as making it mandatory that, with respect to forest roads, the Secretary of Agriculture limit rights-of-way grants or their term of years or require disclosure pursuant to section 1761(b) of this title or impose any other condition contemplated by this Act that is contrary to present practices of that Secretary under sections 532 to 538 of title 16. Any pending application for a right-of-way under any other law on the effective date of this section shall be considered as an application under this subchapter. The Secretary concerned may require the applicant to submit any additional information he deems necessary to comply with the requirements of this subchapter.
+Effective on and after October 21, 1976, no right-of-way for the purposes listed in this subchapter shall be granted, issued, or renewed over, upon, under, or through such lands except under and subject to the provisions, limitations, and conditions of this subchapter: <i>Provided</i>, That nothing in this subchapter shall be construed as affecting or modifying the provisions of sections 532 to 538 of title 16 and in the event of conflict with, or inconsistency between, this subchapter and sections 532 to 538 of title 16, the latter shall prevail: <i>Provided further</i>, That nothing in this Act should be construed as making it mandatory that, with respect to forest roads, the Secretary of Agriculture limit rights-of-way grants or their term of years or require disclosure pursuant to section 1761(b) of this title or impose any other condition contemplated by this Act that is contrary to present practices of that Secretary under sections 532 to 538 of title 16. Any pending application for a right-of-way under any other law on the effective date of this section shall be considered as an application under this subchapter. The Secretary concerned may require the applicant to submit any additional information he deems necessary to comply with the requirements of this subchapter.
 
 #### (b) Highway use
 
@@ -12,7 +12,7 @@ Nothing in this subchapter shall be construed to preclude the use of lands cover
 
 (1) Nothing in this subchapter shall be construed as exempting any holder of a right-of-way issued under this subchapter from any provision of the antitrust laws of the United States.
 
-(2) For the purposes of this subsection, the term “antitrust laws” includes the Act of July 2, 1890 (26 Stat. 15 U.S.C. 1 et seq.); the Act of October 15, 1914 (38 Stat. 730, 15 U.S.C. 12 et seq.); the Federal Trade Commission Act (38 Stat. 717; 15 U.S.C. 41 et seq.); and sections 73 and 74 of the Act of August 27, 1894 \[15 U.S.C. 8, 9\].
+(2) For the purposes of this subsection, the term "antitrust laws" includes the Act of July 2, 1890 (26 Stat.<sup>1</sup> 15 U.S.C. 1 et seq.); the Act of October 15, 1914 (38 Stat. 730, 15 U.S.C. 12 et seq.); the Federal Trade Commission Act (38 Stat. 717; 15 U.S.C. 41 et seq.); and sections 73 and 74 of the Act of August 27, 1894 \[15 U.S.C. 8, 9\].
 
 (Pub. L. 94–579, title V, §510, Oct. 21, 1976, 90 Stat. 2782.)
 
@@ -20,7 +20,7 @@ Nothing in this subchapter shall be construed to preclude the use of lands cover
 
 This Act, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-The effective date of this section, referred to in subsec. (a), probably means the date of enactment of this section by Pub. L. 94–579, which was approved Oct. 21, 1976.
+The effective date of this section, referred to in subsec. (a), probably means the date of enactment of thissection by Pub. L. 94–579, which was approved Oct. 21, 1976.
 
 Act of July 2, 1890, referred to in subsec. (c)(2), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
@@ -33,4 +33,6 @@ Sections 73 and 74 of the Act of August 27, 1894, referred to in subsec. (c), ar
 #### Transfer of Functions
 
 See note set out under section 1763 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "209".</i>
 

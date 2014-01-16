@@ -18,15 +18,15 @@
 
 (2) Any authority of the Secretary of a military department under this section shall be exercised under regulations prescribed by the Secretary of Defense.
 
-(c)(1) The Secretary of a military department who compensates a landlord under subsection (b)for a breach of a lease or for damage described in subsection (b)(1)(C) may issue a special order under section 1007 of title 37 to authorize the withholding from the pay of the member of an amount equal to the amount paid by the Secretary to the landlord as compensation for the breach or damage.
+(c)(1) The Secretary of a military department who compensates a landlord under subsection (b) for a breach of a lease or for damage described in subsection (b)(1)(C) may issue a special order under section 1007 of title 37 to authorize the withholding from the pay of the member of an amount equal to the amount paid by the Secretary to the landlord as compensation for the breach or damage.
 
 (2) Before the Secretary of a military department issues a special order under section 1007 of title 37 to authorize the withholding of any amount from the pay of a member for a breach or damage referred to in paragraph (1), the Secretary concerned shall provide the member with the same notice and opportunity for hearing and record inspection as provided an individual under section 5514(a)(2) of title 5. The Secretary concerned shall prescribe regulations, subject to the approval of the President, to carry out this paragraph. Such regulations shall be as uniform for the military departments as practicable.
 
-(d) In this section, the term “landlord” means a person who leases a rental unit to a member of the armed forces.
+(d) In this section, the term "landlord" means a person who leases a rental unit to a member of the armed forces.
 
 (Added Pub. L. 100–456, div. A, title VI, §621(a)(1), Sept. 29, 1988, 102 Stat. 1982.)
 
 #### Effective Date
 
-Pub. L. 100–456, div. A, title VI, §621(b), Sept. 29, 1988, 102 Stat. 1983, provided that: “Section 1055 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1988.”
+Pub. L. 100–456, div. A, title VI, §621(b), Sept. 29, 1988, 102 Stat. 1983, provided that: "Section 1055 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1988."
 

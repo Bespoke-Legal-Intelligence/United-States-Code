@@ -12,13 +12,13 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–324 inserted “of the Coast Guard Auxiliary” after “Purpose” in section catchline and amended text generally. Prior to amendment, text read as follows: “The purpose of the Auxiliary is to assist the Coast Guard:
+<b>1996</b>—Pub. L. 104–324 inserted "of the Coast Guard Auxiliary" after "Purpose" in section catchline and amended text generally. Prior to amendment, text read as follows: "The purpose of the Auxiliary is to assist the Coast Guard:
 
-&emsp;“(a) to promote safety and to effect rescues on and over the high seas and on navigable waters;
+&emsp;"(a) to promote safety and to effect rescues on and over the high seas and on navigable waters;
 
-&emsp;“(b) to promote efficiency in the operation of motorboats and yachts;
+&emsp;"(b) to promote efficiency in the operation of motorboats and yachts;
 
-&emsp;“(c) to foster a wider knowledge of, and better compliance with, the laws, rules, and regulations governing the operation of motorboats and yachts; and
+&emsp;"(c) to foster a wider knowledge of, and better compliance with, the laws, rules, and regulations governing the operation of motorboats and yachts; and
 
-&emsp;“(d) to facilitate other operations of the Coast Guard.”
+&emsp;"(d) to facilitate other operations of the Coast Guard."
 

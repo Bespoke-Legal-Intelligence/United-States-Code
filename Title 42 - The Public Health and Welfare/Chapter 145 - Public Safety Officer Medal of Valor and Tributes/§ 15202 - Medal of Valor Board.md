@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Board
 
-There is established a Medal of Valor Review Board (hereinafter in this chapter referred to as the “Board”), which shall be composed of 11 members appointed in accordance with subsection (b) of this section and shall conduct its business in accordance with this chapter.
+There is established a Medal of Valor Review Board (hereinafter in this chapter referred to as the "Board"), which shall be composed of 11 members appointed in accordance with subsection (b) of this section and shall conduct its business in accordance with this chapter.
 
 #### (b) Membership
 
@@ -40,7 +40,7 @@ There is established a Medal of Valor Review Board (hereinafter in this chapter 
 
 #### (C) Voting and rules
 
-&emsp;&emsp;A majority of the members shall constitute a quorum to conduct business, but the Board may establish a lesser quorum for conducting hearings scheduled by the Board. The Board may establish by majority vote any other rules for the conduct of the Board's business, if such rules are not inconsistent with this chapter or other applicable law.
+&emsp;&emsp;A majority of the members shall constitute a quorum to conduct business, but the Board may establish a lesser quorum for conducting hearings scheduled by the Board. The Board may establish by majority voteany other rules for the conduct of the Board's business, if such rules are not inconsistent with this chapter or other applicable law.
 
 #### (c) Duties
 
@@ -68,9 +68,9 @@ The Board shall not disclose any information which may compromise an ongoing law
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b)(4)(C), and (c), was in the original “this Act”, meaning Pub. L. 107–12, May. 30, 2001, 115 Stat. 20, which enacted this chapter and amended section 2214 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 15201 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b)(4)(C), and (c), was in the original "this Act", meaning Pub. L. 107–12, May. 30, 2001, 115 Stat. 20, which enacted this chapter and amended section 2214 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 15201 of this title and Tables.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–162 substituted “more than 5 individuals, or groups of individuals, as recipients” for “more than 5 recipients”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–162 substituted "more than 5 individuals, or groups of individuals, as recipients" for "more than 5 recipients".
 

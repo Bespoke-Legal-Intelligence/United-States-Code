@@ -10,7 +10,7 @@
 
 (B) If such claim is filed after six months following May 1972, and if entitlement to benefits is established pursuant to such claim, such entitlement shall be effective retroactively from a date twelve months preceding the date such claim is filed, or from the date such child would have been first eligible for such benefit payments had section 922(a)(3) of this title been applicable since December 30, 1969, whichever is the lesser period. If on the date such claim is filed the claimant is not eligible for benefit payments, but was eligible at any period of time during the period from a date twelve months preceding the date such claim is filed, to the date such claim is filed, entitlement shall be effective for the duration of eligibility during such period.
 
-(C) No claim for benefits under this part, in the case of a claimant who is a child, shall beconsidered unless it is filed within six months after the death of his father or mother (whichever last occurred) or by December 31, 1973, whichever is the later.
+(C) No claim for benefits under this part, in the case of a claimant who is a child, shall be considered unless it is filed within six months after the death of his father or mother (whichever last occurred) or by December 31, 1973, whichever is the later.
 
 (D) Any benefit under subparagraph (A) or (B) for a month prior to the month in which a claim is filed shall be reduced, to any extent that may be necessary, so that it will not render erroneous any benefit which, before the filing of such claim, the Secretary has certified for payment for such prior month.
 
@@ -36,17 +36,17 @@ No benefits shall be payable to a widow, child, parent, brother, or sister under
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(2)(D). Pub. L. 107–275 substituted “Secretary” for “Commissioner of Social Security”.
+<b>2002</b>—Subsec. (a)(2)(D). Pub. L. 107–275 substituted "Secretary" for "Commissioner of Social Security".
 
-<b>1994</b>—Subsec. (a)(2)(D). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary”.
+<b>1994</b>—Subsec. (a)(2)(D). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary".
 
 <b>1978</b>—Subsec. (e). Pub. L. 95–239 added cl. (3) relating to individuals entitled to benefits under par. (5) of section 921(c) of this title.
 
-<b>1972</b>—Subsec. (a). Pub. L. 92–303, §§1(c)(6), 5(2), designated existing provisions as par. (1) and added pars. (2) and (3), and in par. (1) substituted “1973” for “1972” wherever appearing.
+<b>1972</b>—Subsec. (a). Pub. L. 92–303, §§1(c)(6), 5(2), designated existing provisions as par. (1) and added pars. (2) and (3), and in par. (1) substituted "1973" for "1972" wherever appearing.
 
-Subsec. (b). Pub. L. 92–303, §§5(1), (2), substituted “June 30, 1973” for “December 31, 1971” and “December 31, 1973” for “December 31, 1971”.
+Subsec. (b). Pub. L. 92–303, §§5(1), (2), substituted "June 30, 1973" for "December 31, 1971" and "December 31, 1973" for "December 31, 1971".
 
-Subsec. (e). Pub. L. 92–303, §§1(c)(1), 5(3), substituted “widow, child, parent, brother, or sister” for “widow” and “1974” for “1973”.
+Subsec. (e). Pub. L. 92–303, §§1(c)(1), 5(3), substituted "widow, child, parent, brother, or sister" for "widow" and "1974" for "1973".
 
 #### Effective Date of 2002 Amendment
 

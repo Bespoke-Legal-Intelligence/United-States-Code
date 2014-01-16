@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 June 7, 1956, ch. 374, §304, 70 Stat. 254.
 
-The words “the General Accounting Office” are substituted for the words “any accounting officer of the Government” for clarity. The words “All” and “for all purposes” are omitted as surplusage.
+The words "the General Accounting Office" are substituted for the words "any accounting officer of the Government" for clarity. The words "All" and "for all purposes" are omitted as surplusage.
 
 #### Prior Provisions
 
@@ -26,13 +26,13 @@ A prior section 1084, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to admi
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–375 substituted “Comptroller General” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–375 substituted "Comptroller General" for "General Accounting Office".
 
 <b>1984</b>—Pub. L. 98–557 substituted reference to administering Secretary for reference to Secretary of Defense and Secretary of Health and Human Services and reference to administering Secretary for reference to he.
 
-<b>1980</b>—Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”, and “this chapter” for “sections 1071–1087 of this title”.
+<b>1980</b>—Pub. L. 96–513 substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare", and "this chapter" for "sections 1071–1087 of this title".
 
-<b>1966</b>—Pub. L. 89–614 substituted “1087” for “1085”.
+<b>1966</b>—Pub. L. 89–614 substituted "1087" for "1085".
 
 #### Effective Date of 1980 Amendment
 

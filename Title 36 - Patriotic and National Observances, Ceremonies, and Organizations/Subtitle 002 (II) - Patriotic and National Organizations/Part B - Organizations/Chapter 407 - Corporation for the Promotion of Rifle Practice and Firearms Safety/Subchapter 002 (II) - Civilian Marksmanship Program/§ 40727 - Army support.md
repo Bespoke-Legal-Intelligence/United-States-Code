@@ -50,9 +50,9 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §1617, 110 Stat. 519.
 
 &nbsp;
 
-In subsection (a), the words “other activities” are substituted for “other activities conducted by the Corporation” to eliminate unnecessary words.
+In subsection (a), the words "other activities" are substituted for "other activities conducted by the Corporation" to eliminate unnecessary words.
 
-In subsection (b)(1), the words “continue to” are omitted as unnecessary.
+In subsection (b)(1), the words "continue to" are omitted as unnecessary.
 
-In subsection (b)(2), the words “for the use of” and “performance of” are omitted as unnecessary.
+In subsection (b)(2), the words "for the use of" and "performance of" are omitted as unnecessary.
 

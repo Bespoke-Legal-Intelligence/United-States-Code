@@ -94,7 +94,7 @@ Pub. L. 89–4, §2(b), as added Pub. L. 94–188, title I, §102, Dec. 31, 1975
 
 Pub. L. 89–4, §2(c), as added Pub. L. 105–393, title II, §202, Nov. 13, 1998, 112 Stat. 3618; Pub. L. 107–149, §2(b)(2), Mar. 12, 2002, 116 Stat. 66.
 
-In subsection (b)(1), the words “December 31, 1975” are substituted for “now” for clarity.
+In subsection (b)(1), the words "December 31, 1975" are substituted for "now" for clarity.
 
-In subsection (c)(1), the words “decade ending November 13, 1998” are substituted for “past decade” for clarity.
+In subsection (c)(1), the words "decade ending November 13, 1998" are substituted for "past decade" for clarity.
 

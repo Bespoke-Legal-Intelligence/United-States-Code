@@ -6,7 +6,7 @@
 | [50102\.](%C2%A7%2050102%20-%20Restricting%20contract%20awards%20because%20of%20discrimination%20against%20United%20States%20goods%20or%20services.md) | Restricting contract awards because of discrimination against United States goods or services. |
 | [50103\.](%C2%A7%2050103%20-%20Contract%20preference%20for%20domestic%20firms.md) | Contract preference for domestic firms. |
 | [50104\.](%C2%A7%2050104%20-%20Restriction%20on%20airport%20projects%20using%20products%20or%20services%20of%20foreign%20countries%20denying%20fair%20market%20opportunities.md) | Restriction on airport projects using products or services of foreign countries denying fair market opportunities. |
-| [50105\.](%C2%A7%2050105%20-%20Fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20label.md) | Fraudulent use of “Made in America” label. |
+| [50105\.](%C2%A7%2050105%20-%20Fraudulent%20use%20of%20Made%20in%20America%20label.md) | Fraudulent use of "Made in America" label. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -23,4 +23,4 @@
 - [&sect; 50102 - Restricting contract awards because of discrimination against United States goods or services](%C2%A7%2050102%20-%20Restricting%20contract%20awards%20because%20of%20discrimination%20against%20United%20States%20goods%20or%20services.md)
 - [&sect; 50103 - Contract preference for domestic firms](%C2%A7%2050103%20-%20Contract%20preference%20for%20domestic%20firms.md)
 - [&sect; 50104 - Restriction on airport projects using products or services of foreign countries denying fair market opportunities](%C2%A7%2050104%20-%20Restriction%20on%20airport%20projects%20using%20products%20or%20services%20of%20foreign%20countries%20denying%20fair%20market%20opportunities.md)
-- [&sect; 50105 - Fraudulent use of &#8220;Made in America&#8221; label](%C2%A7%2050105%20-%20Fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20label.md)
+- [&sect; 50105 - Fraudulent use of Made in America label](%C2%A7%2050105%20-%20Fraudulent%20use%20of%20Made%20in%20America%20label.md)

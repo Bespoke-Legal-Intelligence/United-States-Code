@@ -54,7 +54,7 @@ The Asbestos School Hazards Detection and Control Act, referred to in par. (8), 
 
 The Joint Resolution of October 19, 1972 (86 Stat. 907), referred to in par. (9), is Pub. L. 92–506, Oct. 19, 1972, 86 Stat. 907, which is not classified to the Code.
 
-The Vocational Education Act of 1963, referred to in par. (10), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§2301 et seq.) of this title, prior toamendment by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. The Act was subsequently amended extensively by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, which renamed it the Carl D. Perkins Vocational and Applied Technology Education Act, amended generally by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076, which renamed it the Carl D. Perkins Vocational and Technical Education Act of 1998, and again amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which renamed it the Carl D. Perkins Career and Technical Education Act of 2006. For additional details, see the Codification note preceding section 2301 of this title.
+The Vocational Education Act of 1963, referred to in par. (10), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§2301 et seq.) of this title, prior to amendment by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. The Act was subsequently amended extensively by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, which renamed it the Carl D. Perkins Vocational and Applied Technology Education Act, amended generally by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076, which renamed it the Carl D. Perkins Vocational and Technical Education Act of 1998, and again amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which renamed it the Carl D. Perkins Career and Technical Education Act of 2006. For additional details, see the Codification note preceding section 2301 of this title.
 
 The Civil Rights Act of 1964, referred to in par. (11), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title IV of the Civil Rights Act of 1964 is classified generally to subchapter IV (§2000c et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
@@ -70,9 +70,9 @@ Section was enacted as part of the Omnibus Education Reconciliation Act of 1981 
 
 #### Amendments
 
-<b>2008</b>—Par. (12). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+<b>2008</b>—Par. (12). Pub. L. 110–315 substituted "the Tribally Controlled Colleges and Universities Assistance Act of 1978" for "the Tribally Controlled College or University Assistance Act of 1978".
 
-<b>1998</b>—Par. (12). Pub. L. 105–244 substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
+<b>1998</b>—Par. (12). Pub. L. 105–244 substituted "Tribally Controlled College or University Assistance Act of 1978" for "Tribally Controlled Community College Assistance Act of 1978".
 
 <b>1996</b>—Pars. (12) to (15). Pub. L. 104–208 redesignated pars. (13) to (15) as (12) to (14), respectively, and struck out former par. (12) which listed the Library Services and Construction Act as one of the laws for which funds were authorized to be appropriated under this section.
 
@@ -84,17 +84,17 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Short Title
 
-Pub. L. 97–35, title V, §501, Aug. 13, 1981, 95 Stat. 441, provided that: “This title \[see Tables for classification of sections 501 to 596 of Pub. L. 97–35\] may be cited as the ‘Omnibus Education Reconciliation Act of 1981’.”
+Pub. L. 97–35, title V, §501, Aug. 13, 1981, 95 Stat. 441, provided that: "This title \[see Tables for classification of sections 501 to 596 of Pub. L. 97–35\] may be cited as the 'Omnibus Education Reconciliation Act of 1981'."
 
 #### Applicability to Other Laws; General Restrictions
 
 Pub. L. 97–35, title V, §502, Aug. 13, 1981, 95 Stat. 441, provided that:
 
-“(a) Any provision of law which is not consistent with the provisions of this subtitle \[see Tables for classification of sections 502 to 528 of Pub. L. 97–35\] is hereby superseded and shall have only such force and effect during each of the fiscal years 1982, 1983, and 1984 which is consistent with this subtitle.
+"(a) Any provision of law which is not consistent with the provisions of this subtitle \[see Tables for classification of sections 502 to 528 of Pub. L. 97–35\] is hereby superseded and shall have only such force and effect during each of the fiscal years 1982, 1983, and 1984 which is consistent with this subtitle.
 
-“(b) Notwithstanding any authorization of appropriations for fiscal year 1982, 1983, or 1984 contained in any provision of law which is specified in this subtitle (including any authorization of appropriations contained in section 528 of this title \[this section\]), no funds are authorized to be appropriated in excess of the limitations imposed upon appropriations by the provisions of this subtitle.
+"(b) Notwithstanding any authorization of appropriations for fiscal year 1982, 1983, or 1984 contained in any provision of law which is specified in this subtitle (including any authorization of appropriations contained in section 528 of this title \[this section\]), no funds are authorized to be appropriated in excess of the limitations imposed upon appropriations by the provisions of this subtitle.
 
-“(c) No funds are authorized to be appropriated for the fiscal year 1982, 1983, or 1984 to pay for the expenses of any advisory council which provides advice to a program for which there are no authorizations of appropriations made under this subtitle or made by an amendment made by this subtitle.”
+"(c) No funds are authorized to be appropriated for the fiscal year 1982, 1983, or 1984 to pay for the expenses of any advisory council which provides advice to a program for which there are no authorizations of appropriations made under this subtitle or made by an amendment made by this subtitle."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

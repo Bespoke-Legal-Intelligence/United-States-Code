@@ -2,51 +2,51 @@
 
 As used in this chapter, unless the context otherwise requires, the term—
 
-&emsp;(1) “adjacent coastal State” means any coastal State which (A) would be directly connected by pipeline to a deepwater port, as proposed in an application; (B) would be located within 15 miles of any such proposed deepwater port; or (C) is designated by the Secretary in accordance with section 1508(a)(2) of this title;
+&emsp;(1) "adjacent coastal State" means any coastal State which (A) would be directly connected by pipeline to a deepwater port, as proposed in an application; (B) would be located within 15 miles of any such proposed deepwater port; or (C) is designated by the Secretary in accordance with section 1508(a)(2) of this title;
 
-&emsp;(2) “affiliate” means any entity owned or controlled by, any person who owns or controls, or any entity which is under common ownership or control with an applicant, licensee, or any person required to be disclosed pursuant to section 1504(c)(2)(A) or (B) of this title;
+&emsp;(2) "affiliate" means any entity owned or controlled by, any person who owns or controls, or any entity which is under common ownership or control with an applicant, licensee, or any person required to be disclosed pursuant to section 1504(c)(2)(A) or (B) of this title;
 
-&emsp;(3) “application” means an application submitted under this Act for a license for the ownership, construction, and operation of a deepwater port;
+&emsp;(3) "application" means an application submitted under this Act for a license for the ownership, construction, and operation of a deepwater port;
 
-&emsp;(4) “citizen of the United States” means any person who is a United States citizen by law, birth, or naturalization, any State, any agency of a State or a group of States, or any corporation, partnership, or association organized under the laws of any State which has as its president or other executive officer and as its chairman of the board of directors, or holder of a similar office, a person who is a United States citizen by law, birth or naturalization and which has no more of its directors who are not United States citizens by law, birth or naturalization than constitute a minority of the number required for a quorum necessary to conduct the business of the board;
+&emsp;(4) "citizen of the United States" means any person who is a United States citizen by law, birth, or naturalization, any State, any agency of a State or a group of States, or any corporation, partnership, or association organized under the laws of any State which has as its president or other executive officer and as its chairman of the board of directors, or holder of a similar office, a person who is a United States citizen by law, birth or naturalization and which has no more of its directors who are not United States citizens by law, birth or naturalization than constitute a minority of the number required for a quorum necessary to conduct the business of the board;
 
-&emsp;(5) “coastal environment” means the navigable waters (including the lands therein and thereunder) and the adjacent shorelines including <sup>1</sup> waters therein and thereunder). The term includes transitional and intertidalareas, bays, lagoons, salt marshes, estuaries, and beaches; the fish, wildlife and other living resources thereof; and the recreational and scenic values of such lands, waters and resources;
+&emsp;(5) "coastal environment" means the navigable waters (including the lands therein and thereunder) and the adjacent shorelines including <sup>1</sup> waters therein and thereunder). The term includes transitional and intertidal areas, bays, lagoons, salt marshes, estuaries, and beaches; the fish, wildlife and other living resources thereof; and the recreational and scenic values of such lands, waters and resources;
 
-&emsp;(6) “coastal State” means any State of the United States in or bordering on the Atlantic, Pacific, or Arctic Oceans, or the Gulf of Mexico;
+&emsp;(6) "coastal State" means any State of the United States in or bordering on the Atlantic, Pacific, or Arctic Oceans, or the Gulf of Mexico;
 
-&emsp;(7) “construction” means the supervising, inspection, actual building, and all other activities incidental to the building, repairing, or expanding of a deepwater port or any of its components, including, but not limited to, pile driving and bulkheading, and alterations, modifications, or additions to the deepwater port;
+&emsp;(7) "construction" means the supervising, inspection, actual building, and all other activities incidental to the building, repairing, or expanding of a deepwater port or any of its components, including, but not limited to, pile driving and bulkheading, and alterations, modifications, or additions to the deepwater port;
 
-&emsp;(8) “control” means the power, directly or indirectly, to determine the policy, business practices, or decisionmaking process of another person, whether by stock or other ownership interest, by representation on a board of directors or similar body, by contract or other agreement with stockholders or others, or otherwise;
+&emsp;(8) "control" means the power, directly or indirectly, to determine the policy, business practices, or decisionmaking process of another person, whether by stock or other ownership interest, by representation on a board of directors or similar body, by contract or other agreement with stockholders or others, or otherwise;
 
-&emsp;(9) “deepwater port”—
+&emsp;(9) "deepwater port"—
 
-&emsp;&emsp;(A) means any fixed or floating manmade structure other than a vessel, or any group of such structures, that are located beyond State seaward boundaries and that are used or intended for use as a port or terminal for the transportation, storage, or further handling of oil or natural gas for transportation to or from any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil or natural gas from the United States outer continental shelf;
+&emsp;&emsp;(A) means any fixed or floating manmade structure other than a vessel, or any group of such structures, that are located beyond State seaward boundaries and that are used or intended for use as a port or terminal for the transportation, storage, or further handling of oil or natural gas for transportationto or from any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil or natural gas from the United States outer continental shelf;
 
 &emsp;&emsp;(B) includes all components and equipment, including pipelines, pumping stations, service platforms, buoys, mooring lines, and similar facilities to the extent they are located seaward of the high water mark;
 
 &emsp;&emsp;(C) in the case of a structure used or intended for such use with respect to natural gas, includes all components and equipment, including pipelines, pumping or compressor stations, service platforms, buoys, mooring lines, and similar facilities that are proposed or approved for construction and operation as part of a deepwater port, to the extent that they are located seaward of the high water mark and do not include interconnecting facilities; and
 
-&emsp;&emsp;(D) shall be considered a “new source” for purposes of the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.);
+&emsp;&emsp;(D) shall be considered a "new source" for purposes of the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.);
 
-&emsp;(10) “Governor” means the Governor of a State or the person designated by State law to exercise the powers granted to the Governor pursuant to this chapter;
+&emsp;(10) "Governor" means the Governor of a State or the person designated by State law to exercise the powers granted to the Governor pursuant to this chapter;
 
-&emsp;(11) “licensee” means a citizen of the United States holding a valid license for the ownership, construction, and operation of a deepwater port that was issued, transferred, or renewed pursuant to this chapter;
+&emsp;(11) "licensee" means a citizen of the United States holding a valid license for the ownership, construction, and operation of a deepwater port that was issued, transferred, or renewed pursuant to this chapter;
 
-&emsp;(12) “marine environment” includes the coastal environment, waters of the contiguous zone, and waters of the high seas; the fish, wildlife, and other living resources of such waters; and the recreational and scenic values of such waters and resources;
+&emsp;(12) "marine environment" includes the coastal environment, waters of the contiguous zone, and waters of the high seas; the fish, wildlife, and other living resources of such waters; and the recreational and scenic values of such waters and resources;
 
-&emsp;(13) “natural gas” means either natural gas unmixed, or any mixture of natural or artificial gas, including compressed or liquefied natural gas, natural gas liquids, liquefied petroleum gas, and condensate recovered from natural gas;
+&emsp;(13) "natural gas" means either natural gas unmixed, or any mixture of natural or artificial gas, including compressed or liquefied natural gas, natural gas liquids, liquefied petroleum gas, and condensate recovered from natural gas;
 
-&emsp;(14) “oil” means petroleum, crude oil, and any substance refined from petroleum or crude oil;
+&emsp;(14) "oil" means petroleum, crude oil, and any substance refined from petroleum or crude oil;
 
-&emsp;(15) “person” includes an individual, a public or private corporation, a partnership or other association, or a government entity;
+&emsp;(15) "person" includes an individual, a public or private corporation, a partnership or other association, or a government entity;
 
-&emsp;(16) “safety zone” means the safety zone established around a deepwater port as determined by the Secretary in accordance with section 1509(d) of this title;
+&emsp;(16) "safety zone" means the safety zone established around a deepwater port as determined by the Secretary in accordance with section 1509(d) of this title;
 
-&emsp;(17) “Secretary” means the Secretary of Transportation;
+&emsp;(17) "Secretary" means the Secretary of Transportation;
 
-&emsp;(18) “State” includes each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
+&emsp;(18) "State" includes each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
 
-&emsp;(19) “vessel” means every description of watercraft or other artificial contrivance used as a means of transportation on or through the water.
+&emsp;(19) "vessel" means every description of watercraft or other artificial contrivance used as a means of transportation on or through the water.
 
 (Pub. L. 93–627, §3, Jan. 3, 1975, 88 Stat. 2127; Pub. L. 98–419, §2(a), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §503, Oct. 19, 1996, 110 Stat. 3926; Pub. L. 107–295, title I, §106(b), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 109–58, title III, §321(b), Aug. 8, 2005, 119 Stat. 694; Pub. L. 112–213, title III, §312, Dec. 20, 2012, 126 Stat. 1569.)
 
@@ -58,21 +58,21 @@ The Federal Water Pollution Control Act, as amended, referred to in par. (9)(D),
 
 #### Amendments
 
-<b>2012</b>—Par. (9)(A). Pub. L. 112–213 inserted “or from” before “any State”.
+<b>2012</b>—Par. (9)(A). Pub. L. 112–213 inserted "or from" before "any State".
 
-<b>2005</b>—Par. (13). Pub. L. 109–58 inserted “, natural gas liquids, liquefied petroleum gas, and condensate recovered from natural gas” before semicolon at end.
+<b>2005</b>—Par. (13). Pub. L. 109–58 inserted ", natural gas liquids, liquefied petroleum gas, and condensate recovered from natural gas" before semicolon at end.
 
-<b>2002</b>—Par. (9). Pub. L. 107–295, §106(b)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “ ‘deepwater port’ means any fixed or floating manmade structures other than a vessel, or any group of structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf. The term includes all associated components and equipment, including pipelines, pumping stations, service platforms, mooring buoys, and similarappurtenances to the extent they are located seaward of the high water mark. A deepwater port shall be considered a ‘new source’ for purposes of the Clean Air Act, as amended, and the Federal Water Pollution Control Act, as amended;”.
+<b>2002</b>—Par. (9). Pub. L. 107–295, §106(b)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: " 'deepwater port' means any fixed or floating manmade structures other than a vessel, or any group of structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf. The term includes all associated components and equipment, including pipelines, pumping stations, service platforms, mooring buoys, and similar appurtenances to the extent they are located seaward of the high water mark. A deepwater port shall be considered a 'new source' for purposes of the Clean Air Act, as amended, and the Federal Water Pollution Control Act, as amended;".
 
 Pars. (13) to (19). Pub. L. 107–295, §106(b)(1), (3), added par. (13) and redesignated former pars. (13) to (18) as (14) to (19), respectively.
 
-<b>1996</b>—Pars. (3) to (8). Pub. L. 104–324, §503(a), redesignated pars. (4) to (9) as (3) to (8), respectively, and struck out former par. (3) which read as follows: “ ‘antitrust laws’ includes the Act of July 2, 1890, as amended, the Act of October 15, 1914, as amended, the Federal Trade Commission Act (15 U.S.C. 41 et seq.), and sections 73 and 74 of the Act of August 27, 1894, as amended;”.
+<b>1996</b>—Pars. (3) to (8). Pub. L. 104–324, §503(a), redesignated pars. (4) to (9) as (3) to (8), respectively, and struck out former par. (3) which read as follows: " 'antitrust laws' includes the Act of July 2, 1890, as amended, the Act of October 15, 1914, as amended, the Federal Trade Commission Act (15 U.S.C. 41 et seq.), and sections 73 and 74 of the Act of August 27, 1894, as amended;".
 
-Par. (9). Pub. L. 104–324, §503(a)(2), (b), redesignated par. (10) as (9) and substituted “structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf.” for “such structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the loading or unloading and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title.” Former par. (9) redesignated (8).
+Par. (9). Pub. L. 104–324, §503(a)(2), (b), redesignated par. (10) as (9) and substituted "structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf." for "such structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the loading or unloading and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title." Former par. (9) redesignated (8).
 
 Pars. (10) to (19). Pub. L. 104–324, §503(a)(2), redesignated pars. (11) to (19) as (10) to (18), respectively. Former par. (10) redesignated (9).
 
-<b>1984</b>—Par. (4). Pub. L. 98–419 substituted “means an application” for “means any application”, struck out designation “(A)” before “for a license”, and struck out cls. (B) and (C) which provided that “application” meant any application submitted under this chapter for transfer of any license referred to in this paragraph, or for any substantial change in any of the conditions and provisions of any such license.
+<b>1984</b>—Par. (4). Pub. L. 98–419 substituted "means an application" for "means any application", struck outdesignation "(A)" before "for a license", and struck out cls. (B) and (C) which provided that "application" meant any application submitted under this chapter for transfer of any license referred to in this paragraph, or for any substantial change in any of the conditions and provisions of any such license.
 
 #### Territorial Sea and Contiguous Zone of United States
 

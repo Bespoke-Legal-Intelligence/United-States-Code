@@ -28,7 +28,7 @@ This title, referred to in subsec. (a), is title IV of Pub. L. 103–182, Dec. 8
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–295 substituted “action under section 1516a(a)” for “action under 1516a(a)”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–295 substituted "action under section 1516a(a)" for "action under 1516a(a)".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

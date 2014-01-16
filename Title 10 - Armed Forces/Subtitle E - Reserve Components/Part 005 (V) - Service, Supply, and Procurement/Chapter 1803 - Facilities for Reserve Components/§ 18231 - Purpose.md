@@ -26,9 +26,9 @@ Historical and Revision Notes
 
 Sept. 11, 1950, ch. 945, §2, 64 Stat. 829.
 
-In clause (1), the words “units of” are omitted as surplusage.
+In clause (1), the words "units of" are omitted as surplusage.
 
-In clause (4), the words “United States” are substituted for the words “Federal Government”.
+In clause (4), the words "United States" are substituted for the words "Federal Government".
 
 #### Amendments
 

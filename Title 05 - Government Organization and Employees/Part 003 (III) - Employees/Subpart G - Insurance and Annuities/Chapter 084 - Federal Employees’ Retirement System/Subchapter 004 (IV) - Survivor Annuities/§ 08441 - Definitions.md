@@ -14,7 +14,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) is the father of issue by that marriage;
 
-&emsp;(3) the term “dependent”, in the case of any child, means that the employee, Member, or annuitant involved was, at the time of death of the employee, Member, or annuitant either living with or contributing to the support of such child, as determined in accordance with such regulations as the Office shall prescribe; and
+&emsp;(3) the term “dependent”, in the case of any child, means that the employee, Member, orannuitant involved was, at the time of death of the employee, Member, or annuitant either living with or contributing to the support of such child, as determined in accordance with such regulations as the Office shall prescribe; and
 
 &emsp;(4) the term “child” means—
 

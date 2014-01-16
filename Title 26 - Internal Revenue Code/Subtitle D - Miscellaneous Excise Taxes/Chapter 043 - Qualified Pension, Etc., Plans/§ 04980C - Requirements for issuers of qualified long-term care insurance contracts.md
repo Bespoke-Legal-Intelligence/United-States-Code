@@ -34,7 +34,7 @@ The requirements of this subsection are as follows:
 
 &emsp;&emsp;&emsp;&emsp;(I) in addition to such requirements, no person shall, in selling or offering to sell a qualified long-term care insurance contract, misrepresent a material fact; and
 
-&emsp;&emsp;&emsp;&emsp;(II) no such requirements shall include a requirement to inquire or identify whether a prospective applicant or enrollee for long-term care insurance has accident and sickness insurance.
+&emsp;&emsp;&emsp;&emsp;(II) no such requirements shall include a requirement to inquire or identifywhether a prospective applicant or enrollee for long-term care insurance has accident and sickness insurance.
 
 &emsp;&emsp;&emsp;(v) Section 22 (relating to appropriateness of recommended purchase).
 
@@ -60,7 +60,7 @@ The requirements of this subsection are as follows:
 
 #### (C) Definitions
 
-&emsp;&emsp;For purposes of this paragraph, the terms “model regulation” and “model Act” have the meanings given such terms by section 7702B(g)(2)(B).
+&emsp;&emsp;For purposes of this paragraph, the terms "model regulation" and "model Act" have the meanings given such terms by section 7702B(g)(2)(B).
 
 #### (2) Delivery of policy
 
@@ -80,11 +80,11 @@ The requirements of this subsection are met if the issuer of a long-term care in
 
 #### (e) Qualified long-term care insurance contract defined
 
-For purposes of this section, the term “qualified long-term care insurance contract” has the meaning given such term by section 7702B.
+For purposes of this section, the term "qualified long-term care insurance contract" has the meaning given such term by section 7702B.
 
 #### (f) Coordination with State requirements
 
-If a State imposes any requirement which is more stringent than the analogous requirementimposed by this section or section 7702B(g), the requirement imposed by this section or section 7702B(g) shall be treated as met if the more stringent State requirement is met.
+If a State imposes any requirement which is more stringent than the analogous requirement imposed by this section or section 7702B(g), the requirement imposed by this section or section 7702B(g) shall be treated as met if the more stringent State requirement is met.
 
 (Added Pub. L. 104–191, title III, §326(a), Aug. 21, 1996, 110 Stat. 2065.)
 
@@ -92,11 +92,11 @@ If a State imposes any requirement which is more stringent than the analogous re
 
 Pub. L. 104–191, title III, §327, Aug. 21, 1996, 110 Stat. 2066, provided that:
 
-“(a)
+"(a)
 
 In General.—The provisions of, and amendments made by, this part \[part II (§§325–327) of subtitle C of title III of Pub. L. 104–191, enacting this section and amending section 7702B of this title\] shall apply to contracts issued after December 31, 1996. The provisions of section 321(f) \[set out as an Effective Date note under section 7702B of this title\] (relating to transition rule) shall apply to such contracts.
 
-“(b)
+"(b)
 
-Issuers.—The amendments made by section 326 \[enacting this section\] shall apply to actions taken after December 31, 1996.”
+Issuers.—The amendments made by section 326 \[enacting this section\] shall apply to actions taken after December 31, 1996."
 

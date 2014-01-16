@@ -8,13 +8,17 @@
 
 #### (b) Disposal
 
-Except for disposals made under the authority of paragraph (3), (4), or (5) of section 98e(a) of this title or under section 98f(a) of this title, no disposal may be made from the stockpile unless such disposal, including the quantity of the material to be disposed of, has been specifically authorized by law.
+Except for disposals made under the authority of paragraph (3), (4), or (5) <sup>1</sup> of section 98e(a) of this title or under section 98f(a) of this title, no disposal may be made from the stockpile unless such disposal, including the quantity of the material to be disposed of, has been specifically authorized by law.
 
 #### (c) Authorization of appropriations
 
 There is authorized to be appropriated such sums as may be necessary to provide for the transportation, processing, refining, storage, security, maintenance, rotation, and disposal of materials contained in or acquired for the stockpile. Funds appropriated for such purposes shall remain available to carry out the purposes for which appropriated for a period of two fiscal years, if so provided in appropriation Acts.
 
 (June 7, 1939, ch. 190, §5, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(a), (b), Aug. 13, 1981, 95 Stat. 381, 382; Pub. L. 98–525, title IX, §903, Oct. 19, 1984, 98 Stat. 2573; Pub. L. 99–661, div. C, title II, §3207(a)(2), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3206(a), Dec. 4, 1987, 101 Stat. 1247; Pub. L. 102–484, div. C, title XXXIII, §3312, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3312, Nov. 30, 1993, 107 Stat. 1962.)
+
+#### References in Text
+
+Paragraph (5) of section 98e(a) of this title, referred to in subsec. (b), was redesignated paragraph (6) of section 98e(a) of this title by Pub. L. 113–66, div. A, title XIV, §1411(a), Dec. 26, 2013, 127 Stat. 934.
 
 #### Prior Provisions
 
@@ -24,19 +28,19 @@ Provisions similar to those in this section were contained in former sections 98
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(2). Pub. L. 103–160 substituted “and a period of 45 days has passed from the date of the receipt of such statement by such committees.” for “and a period of 30 days has passed from the date of the receipt of such statement by such committees. In computing any 30-day period for the purpose of the preceding sentence, there shall be excluded any day on which either House of Congress is not in session because of an adjournment of more than three days to a day certain.”
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–160 substituted "and a period of 45 days has passed from the date of the receipt of such statement by such committees." for "and a period of 30 days has passed from the date of the receipt of such statement by such committees. In computing any 30-day period for the purpose of the preceding sentence, there shall be excluded any day on which either House of Congress is not in session because of an adjournment of more than three days to a day certain."
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–484 struck out “(1)” after “the stockpile” and “, or (2) if the disposal would result in there being an unobligated balance in the National Defense Stockpile Transaction Fund in excess of $100,000,000” after “authorized by law”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–484 struck out "(1)" after "the stockpile" and ", or (2) if the disposal would result in there being an unobligated balance in the National Defense Stockpile Transaction Fund in excess of $100,000,000" after "authorized by law".
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–180 struck out “or until each such committee, before the expiration of such period, notifies the President that it has no objection to the proposed transaction” before period at end of first sentence.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–180 struck out "or until each such committee, before the expiration of such period, notifies the President that it has no objection to the proposed transaction" before period at end of first sentence.
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–661 substituted “paragraph (3), (4), or (5)” for “paragraph (4) or (5)”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661 substituted "paragraph (3), (4), or (5)" for "paragraph (4) or (5)".
 
-<b>1984</b>—Subsec. (b)(2). Pub. L. 98–525, §903(b), substituted “$100,000,000” for “$250,000,000”.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–525, §903(b), substituted "$100,000,000" for "$250,000,000".
 
-Pub. L. 98–525, §903(a), substituted “an unobligated balance” for “a balance” where first appearing and “$250,000,000” for “$1,000,000,000 or, in the case of a disposal to be made after September 30, 1983, if the disposal would result in there being a balance in the fund in excess of $500,000,000”.
+Pub. L. 98–525, §903(a), substituted "an unobligated balance" for "a balance" where first appearing and "$250,000,000" for "$1,000,000,000 or, in the case of a disposal to be made after September 30, 1983, if the disposal would result in there being a balance in the fund in excess of $500,000,000".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §203(a), designated existing provisions as par. (1), inserted applicability to other incidental expenses, substituted “until expended, unless otherwise” for “for a period of five fiscal years, if so”, and added par. (2).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §203(a), designated existing provisions as par. (1), inserted applicability to other incidental expenses, substituted "until expended, unless otherwise" for "for a period of five fiscal years, if so", and added par. (2).
 
 Subsec. (b). Pub. L. 97–35, §203(b), inserted designation for cl. (1) and added cl. (2).
 
@@ -46,7 +50,7 @@ Pub. L. 98–525, title IX, §903(b), Oct. 19, 1984, 98 Stat. 2573, as amended b
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title II, §203(f), Aug. 13, 1981, 95 Stat. 382, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1981.”
+Pub. L. 97–35, title II, §203(f), Aug. 13, 1981, 95 Stat. 382, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1981."
 
 #### Delegation of Functions
 
@@ -59,6 +63,8 @@ Pub. L. 99–145, title XVI, §1612, Nov. 8, 1985, 99 Stat. 776, as amended by P
 #### Materials in the National Defense Stockpile
 
 Provisions relating to certain materials in the National Defense Stockpile were contained in the following acts:
+
+Pub. L. 113–66, div. A, title XIV, §1412, Dec. 26, 2013, 127 Stat. 934.
 
 Pub. L. 110–181, div. A, title XIV, §§1413, 1414, Jan. 28, 2008, 122 Stat. 418, 419.
 
@@ -114,9 +120,9 @@ Pub. L. 97–35, title II, §201, Aug. 13, 1981, 95 Stat. 380.
 
 Pub. L. 97–35, title II, §202, Aug. 13, 1981, 95 Stat. 381, provided that:
 
-“(a) Effective on October 1, 1981, there is authorized to be appropriated the sum of $535,000,000 for the acquisition of strategic and critical materials under section 6(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98e(a)).
+"(a) Effective on October 1, 1981, there is authorized to be appropriated the sum of $535,000,000 for the acquisition of strategic and critical materials under section 6(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98e(a)).
 
-“(b) Any acquisition using funds appropriated under the authorization of subsection (a) shall be carried out in accordance with the provisions of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.).”
+"(b) Any acquisition using funds appropriated under the authorization of subsection (a) shall be carried out in accordance with the provisions of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.)."
 
 #### Disposal of Government-Owned Tin Smelter at Texas City, Texas
 
@@ -133,4 +139,6 @@ Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Fac
 #### Disposal of Government-Owned Tin Smelter at Texas City, Texas; Cancellation of Obligations
 
 Cancellation of obligation of General Services Administration to Federal Facilities Corporation existing by virtue of section 5(b) of act June 22, 1956, set out as a note above, see section 4(b) of Pub. L. 87–190, Aug. 30, 1961, 75 Stat. 418, set out as a note under sections 1921 to 1929 of the Appendix to this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

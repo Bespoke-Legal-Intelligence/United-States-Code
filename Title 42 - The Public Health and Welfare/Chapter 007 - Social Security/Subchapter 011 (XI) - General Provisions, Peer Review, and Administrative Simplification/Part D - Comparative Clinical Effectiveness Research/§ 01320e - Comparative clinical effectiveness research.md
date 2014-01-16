@@ -6,13 +6,13 @@ In this section:
 
 #### (1) Board
 
-&emsp;The term “Board” means the Board of Governors established under subsection (f).
+&emsp;The term "Board" means the Board of Governors established under subsection (f).
 
 #### (2) Comparative clinical effectiveness research; research
 
 #### (A) In general
 
-&emsp;&emsp;The terms “comparative clinical effectiveness research” and “research” mean research evaluating and comparing health outcomes and the clinical effectiveness, risks, and benefits of 2 or more medical treatments, services, and items described in subparagraph (B).
+&emsp;&emsp;The terms "comparative clinical effectiveness research" and "research" mean research evaluating and comparing health outcomes and the clinical effectiveness, risks, and benefits of 2 or more medical treatments, services, and items described in subparagraph (B).
 
 #### (B) Medical treatments, services, and items described
 
@@ -20,11 +20,11 @@ In this section:
 
 #### (3) Conflict of interest
 
-&emsp;The term “conflict of interest” means an association, including a financial or personal association, that have <sup>1</sup> the potential to bias or have <sup>1</sup> the appearance of biasing an individual's decisions in matters related to the Institute or the conduct of activities under this section.
+&emsp;The term "conflict of interest" means an association, including a financial or personal association, that have <sup>1</sup> the potential to bias or have <sup>1</sup> the appearance of biasing an individual's decisions in matters related to the Institute or the conduct of activities under this section.
 
 #### (4) Real conflict of interest
 
-&emsp;The term “real conflict of interest” means any instance where a member of the Board, the methodology committee established under subsection (d)(6), or an advisory panel appointed under subsection (d)(4), or a close relative of such member, has received or could receive either of the following:
+&emsp;The term "real conflict of interest" means any instance where a member of the Board, the methodology committee established under subsection (d)(6), or an advisory panel appointed under subsection (d)(4), or a close relative of such member, has received or could receive either of the following:
 
 &emsp;&emsp;(A) A direct financial benefit of any amount deriving from the result or findings of a study conducted under this section.
 
@@ -34,7 +34,7 @@ In this section:
 
 #### (1) Establishment
 
-&emsp;There is authorized to be established a nonprofit corporation, to be known as the “Patient-Centered Outcomes Research Institute” (referred to in this section as the “Institute”) which is neither an agency nor establishment of the United States Government.
+&emsp;There is authorized to be established a nonprofit corporation, to be known as the "Patient-Centered Outcomes Research Institute" (referred to in this section as the "Institute") which is neither an agency nor establishment of the United States Government.
 
 #### (2) Application of provisions
 
@@ -42,7 +42,7 @@ In this section:
 
 #### (3) Funding of comparative clinical effectiveness research
 
-&emsp;For fiscal year 2010 and each subsequent fiscal year, amounts in the Patient-Centered Outcomes Research Trust Fund (referred to in this section as the “PCORTF”) under section 9511 of the Internal Revenue Code of 1986 shall be available, without further appropriation, to the Institute to carry out this section.
+&emsp;For fiscal year 2010 and each subsequent fiscal year, amounts in the Patient-Centered Outcomes Research Trust Fund (referred to in this section as the "PCORTF") under section 9511 of the Internal Revenue Code of 1986 shall be available, without further appropriation, to the Institute to carry out this section.
 
 #### (c) Purpose
 
@@ -228,7 +228,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (B) Definition of research findings
 
-&emsp;&emsp;In this paragraph, the term “research findings” means the results of a study or assessment.
+&emsp;&emsp;In this paragraph, the term "research findings" means the results of a study or assessment.
 
 #### (9) Adoption
 
@@ -400,29 +400,29 @@ Section 399H of the Public Health Service Act, referred to in subsec. (d)(1)(A),
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(2)(B)(ii)(IV). Pub. L. 111–148, §10602(1)(A), inserted “, as described in subparagraph (A)(ii),” after “original research” and “, as long as the researcher enters into a data use agreement with the Institute for use of the data from the original research, as appropriate” after “publication”.
+<b>2010</b>—Subsec. (d)(2)(B)(ii)(IV). Pub. L. 111–148, §10602(1)(A), inserted ", as described in subparagraph (A)(ii)," after "original research" and ", as long as the researcher enters into a data use agreement with the Institute for use of the data from the original research, as appropriate" after "publication".
 
-Subsec. (d)(2)(B)(iv). Pub. L. 111–148, §10602(1)(B), amended cl. (iv) generally. Prior to amendment, text read as follows: “Any research published under clause (ii)(IV) shall be within the bounds of and entirely consistent with the evidence and findings produced under the contract with the Institute under this subparagraph. If the Institute determines that those requirements are not met, the Institute shall not enter into another contract with the agency, instrumentality, or entity which managed or conducted such research for a period determined appropriate by the Institute (but not less than 5 years).”
+Subsec. (d)(2)(B)(iv). Pub. L. 111–148, §10602(1)(B), amended cl. (iv) generally. Prior to amendment, text read as follows: "Any research published under clause (ii)(IV) shall be within the bounds of and entirely consistent with the evidence and findings produced under the contract with the Institute under this subparagraph. If the Institute determines that those requirements are not met, the Institute shall not enter into another contract with the agency, instrumentality, or entity which managed or conducted such research for a period determined appropriate by the Institute (but not less than 5 years)."
 
-Subsec. (d)(8)(A)(iv). Pub. L. 111–148, §10602(2), substituted “do not include” for “not be construed as mandates for”.
+Subsec. (d)(8)(A)(iv). Pub. L. 111–148, §10602(2), substituted "do not include" for "not be construed as mandates for".
 
-Subsec. (f)(1)(C)(ii). Pub. L. 111–148, §10602(3), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “5 members representing physicians and providers, including at least 1 surgeon, nurse, State-licensed integrative health care practitioner, and representative of a hospital.”
+Subsec. (f)(1)(C)(ii). Pub. L. 111–148, §10602(3), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "5 members representing physicians and providers, including at least 1 surgeon, nurse, State-licensed integrative health care practitioner, and representative of a hospital."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “has”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "has".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “clause”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "clause".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be preceded by "the".</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “Nineteen”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "Nineteen".</i>
 
-<i><sup>6</sup></i><i> So in original. Probably should be “conducting”.</i>
+<i><sup>6</sup></i><i> So in original. Probably should be "conducting".</i>
 
 <i><sup>7</sup></i><i> So in original.</i>
 
-<i><sup>8</sup></i><i> So in original. Probably should be “bequests”.</i>
+<i><sup>8</sup></i><i> So in original. Probably should be "bequests".</i>
 
 <i><sup>9</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

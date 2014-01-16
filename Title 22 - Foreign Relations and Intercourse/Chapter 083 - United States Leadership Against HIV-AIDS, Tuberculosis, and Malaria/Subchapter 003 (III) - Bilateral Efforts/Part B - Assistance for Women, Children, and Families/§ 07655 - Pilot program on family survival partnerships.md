@@ -50,9 +50,9 @@ The purpose of this section is to authorize the President to establish a program
 
 &emsp;For purposes of paragraph (2)(A)—
 
-&emsp;&emsp;(A) the term “local health organization” means a public sector health system, nongovernmental organization, institution of higher education, community-based organization, or nonprofit health system that provides directly, or has a clear link with a provider for the indirect provision of, primary health care services; and
+&emsp;&emsp;(A) the term "local health organization" means a public sector health system, nongovernmental organization, institution of higher education, community-based organization, or nonprofit health system that provides directly, or has a clear link with a provider for the indirect provision of, primary health care services; and
 
-&emsp;&emsp;(B) the term “international organization” means—
+&emsp;&emsp;(B) the term "international organization" means—
 
 &emsp;&emsp;&emsp;(i) a nonprofit international entity;
 

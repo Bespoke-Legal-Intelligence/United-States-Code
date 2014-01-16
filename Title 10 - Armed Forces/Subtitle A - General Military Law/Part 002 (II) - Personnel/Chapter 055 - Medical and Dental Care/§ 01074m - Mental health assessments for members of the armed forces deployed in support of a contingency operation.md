@@ -22,7 +22,7 @@ Mental Health Assessments.—(1) The Secretary of Defense shall provide a person
 
 (b)
 
-Purpose.—The purpose of the mental health assessments provided pursuant to thissection shall be to identify post-traumatic stress disorder, suicidal tendencies, and other behavioral health conditions identified among members described in subsection (a) in order to determine which such members are in need of additional care and treatment for such health conditions.
+Purpose.—The purpose of the mental health assessments provided pursuant to this section shall be to identify post-traumatic stress disorder, suicidal tendencies, and other behavioral health conditions identified among members described in subsection (a) in order to determine which such members are in need of additional care and treatment for such health conditions.
 
 (c)
 
@@ -74,11 +74,11 @@ The date of the enactment of this section, referred to in subsec. (e)(1), is the
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1)(C)(i). Pub. L. 112–239 substituted “18 months” for “one year”.
+<b>2013</b>—Subsec. (a)(1)(C)(i). Pub. L. 112–239 substituted "18 months" for "one year".
 
 #### Regulations
 
-Pub. L. 112–81, div. A, title VII, §702(a)(3), Dec. 31, 2011, 125 Stat. 1471, provided that: “The Secretary of Defense shall prescribe an interim final rule with respect to the amendment made by paragraph (1) \[enacting this section\], effective not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\].”
+Pub. L. 112–81, div. A, title VII, §702(a)(3), Dec. 31, 2011, 125 Stat. 1471, provided that: "The Secretary of Defense shall prescribe an interim final rule with respect to the amendment made by paragraph (1) \[enacting this section\], effective not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraphs”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subparagraphs".</i>
 

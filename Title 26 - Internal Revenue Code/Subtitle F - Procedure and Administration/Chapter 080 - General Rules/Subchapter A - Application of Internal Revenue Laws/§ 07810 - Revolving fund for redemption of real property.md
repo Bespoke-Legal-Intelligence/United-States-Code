@@ -16,9 +16,9 @@ The Secretary shall maintain an adequate system of accounts for such fund and pr
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted “$10,000,000” for “$1,000,000”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted "$10,000,000" for "$1,000,000".
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date
 

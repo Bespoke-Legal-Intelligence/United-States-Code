@@ -20,11 +20,11 @@ The Advisory Committee shall recommend grant policies for the advancement of the
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–199, §302(5)(A), substituted “Establishment of Advisory Committee” for “Establishment of the Soviet-Eastern European Studies Advisory Committee” in section catchline.
+<b>1993</b>—Pub. L. 103–199, §302(5)(A), substituted "Establishment of Advisory Committee" for "Establishment of the Soviet-Eastern European Studies Advisory Committee" in section catchline.
 
-Subsec. (a). Pub. L. 103–199, §302(5)(B), substituted “Advisory Committee for Studies of Eastern Europe and the Independent States of the Former Soviet Union” for “Soviet-Eastern European Studies Advisory Committee”.
+Subsec. (a). Pub. L. 103–199, §302(5)(B), substituted "Advisory Committee for Studies of Eastern Europe and the Independent States of the Former Soviet Union" for "Soviet-Eastern European Studies Advisory Committee".
 
-Subsec. (d). Pub. L. 103–199, §302(5)(C), substituted “the countries of Eastern Europe and the independent states of the former Soviet Union” for “Soviet and Eastern European countries”.
+Subsec. (d). Pub. L. 103–199, §302(5)(C), substituted "the countries of Eastern Europe and the independent states of the former Soviet Union" for "Soviet and Eastern European countries".
 
 #### Termination of Advisory Committees
 
@@ -32,5 +32,5 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### Definitions
 
-In subsec. (d), independent states of the former Soviet Union has the meaning given in section 5801 of thistitle, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
+In subsec. (d), independent states of the former Soviet Union has the meaning given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
 

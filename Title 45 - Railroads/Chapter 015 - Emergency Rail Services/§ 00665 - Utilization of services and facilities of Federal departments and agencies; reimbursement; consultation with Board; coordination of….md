@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted “Board” for “Interstate Commerce Commission”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted "Board" for "Interstate Commerce Commission".
 
 #### Effective Date of 1995 Amendment
 

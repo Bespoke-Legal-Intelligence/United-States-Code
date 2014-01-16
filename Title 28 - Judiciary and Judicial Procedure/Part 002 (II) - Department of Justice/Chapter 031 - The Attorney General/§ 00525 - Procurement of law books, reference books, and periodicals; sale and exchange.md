@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 July 28, 1950, ch. 503, §3, 64 Stat. 380.
 
-The words “Attorney General” are substituted for “Department of Justice”.
+The words "Attorney General" are substituted for "Department of Justice".
 

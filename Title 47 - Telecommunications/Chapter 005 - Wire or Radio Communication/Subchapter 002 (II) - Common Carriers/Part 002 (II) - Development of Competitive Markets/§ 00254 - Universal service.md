@@ -78,7 +78,7 @@ A State may adopt regulations not inconsistent with the Commission's rules to pr
 
 #### (g) Interexchange and interstate services
 
-Within 6 months after February 8, 1996, the Commission shall adopt rules to require that therates charged by providers of interexchange telecommunications services to subscribers in rural and high cost areas shall be no higher than the rates charged by each such provider to its subscribers in urban areas. Such rules shall also require that a provider of interstate interexchange telecommunications services shall provide such services to its subscribers in each State at rates no higher than the rates charged to its subscribers in any other State.
+Within 6 months after February 8, 1996, the Commission shall adopt rules to require that the rates charged by providers of interexchange telecommunications services to subscribers in rural and high cost areas shall be no higher than the rates charged by each such provider to its subscribers in urban areas. Such rules shall also require that a provider of interstate interexchange telecommunications services shall provide such services to its subscribers in each State at rates no higher than the rates charged to its subscribers in any other State.
 
 #### (h) Telecommunications services for certain providers
 
@@ -194,7 +194,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (III) Waivers
 
-&emsp;&emsp;&emsp;&emsp;Any school subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such second year program may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitivebidding requirements prevent the making of the certification otherwise required by such subclause. A school, school board, local educational agency, or other authority with responsibility for administration of the school shall notify the Commission of the applicability of such subclause to the school. Such notice shall certify that the school in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the school is applying for funds under this subsection.
+&emsp;&emsp;&emsp;&emsp;Any school subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such second year program may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by such subclause. A school, school board, local educational agency, or other authority with responsibility for administration of the school shall notify the Commission of the applicability of such subclause to the school. Such notice shall certify that the school in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the school is applying for funds under this subsection.
 
 #### (F) Noncompliance
 
@@ -266,7 +266,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (D) Disabling during adult use
 
-&emsp;&emsp;An administrator, supervisor, or other person authorized by the certifying authority under subparagraph (A)(i) may disable the technology protection measure concerned, during use by an adult, to enable access for bona fide research or other lawful purpose.
+&emsp;&emsp;An administrator, supervisor, or other person authorized by the certifying authorityunder subparagraph (A)(i) may disable the technology protection measure concerned, during use by an adult, to enable access for bona fide research or other lawful purpose.
 
 #### (E) Timing of implementation
 
@@ -324,11 +324,11 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (A) Elementary and secondary schools
 
-&emsp;&emsp;The term “elementary and secondary schools” means elementary schools and secondary schools, as defined in section 7801 of title 20.
+&emsp;&emsp;The term "elementary and secondary schools" means elementary schools and secondary schools, as defined in section 7801 of title 20.
 
 #### (B) Health care provider
 
-&emsp;&emsp;The term “health care provider” means—
+&emsp;&emsp;The term "health care provider" means—
 
 &emsp;&emsp;&emsp;(i) post-secondary educational institutions offering health care instruction, teaching hospitals, and medical schools;
 
@@ -346,23 +346,23 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (C) Public institutional telecommunications user
 
-&emsp;&emsp;The term “public institutional telecommunications user” means an elementary or secondary school, a library, or a health care provider as those terms are defined in this paragraph.
+&emsp;&emsp;The term "public institutional telecommunications user" means an elementary or secondary school, a library, or a health care provider as those terms are defined in this paragraph.
 
 #### (D) Minor
 
-&emsp;&emsp;The term “minor” means any individual who has not attained the age of 17 years.
+&emsp;&emsp;The term "minor" means any individual who has not attained the age of 17 years.
 
 #### (E) Obscene
 
-&emsp;&emsp;The term “obscene” has the meaning given such term in section 1460 of title 18.
+&emsp;&emsp;The term "obscene" has the meaning given such term in section 1460 of title 18.
 
 #### (F) Child pornography
 
-&emsp;&emsp;The term “child pornography” has the meaning given such term in section 2256 of title 18.
+&emsp;&emsp;The term "child pornography" has the meaning given such term in section 2256 of title 18.
 
 #### (G) Harmful to minors
 
-&emsp;&emsp;The term “harmful to minors” means any picture, image, graphic image file, or other visual depiction that—
+&emsp;&emsp;The term "harmful to minors" means any picture, image, graphic image file, or other visual depiction that—
 
 &emsp;&emsp;&emsp;(i) taken as a whole and with respect to minors, appeals to a prurient interest in nudity, sex, or excretion;
 
@@ -372,11 +372,11 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (H) Sexual act; sexual contact
 
-&emsp;&emsp;The terms “sexual act” and “sexual contact” have the meanings given such terms in section 2246 of title 18.
+&emsp;&emsp;The terms "sexual act" and "sexual contact" have the meanings given such terms in section 2246 of title 18.
 
 #### (I) Technology protection measure
 
-&emsp;&emsp;The term “technology protection measure” means a specific technology that blocks or filters Internet access to the material covered by a certification under paragraph (5) or (6) to which such certification relates.
+&emsp;&emsp;The term "technology protection measure" means a specific technology that blocks or filters Internet access to the material covered by a certification under paragraph (5) or (6) to which such certification relates.
 
 #### (i) Consumer protection
 
@@ -402,11 +402,11 @@ A telecommunications carrier may not use services that are not competitive to su
 
 &emsp;&emsp;&emsp;(ii) the safety and security of minors when using electronic mail, chat rooms, and other forms of direct electronic communications;
 
-&emsp;&emsp;&emsp;(iii) unauthorized access, including so-called “hacking”, and other unlawful activities by minors online;
+&emsp;&emsp;&emsp;(iii) unauthorized access, including so-called "hacking", and other unlawful activities by minors online;
 
 &emsp;&emsp;&emsp;(iv) unauthorized disclosure, use, and dissemination of personal identification information regarding minors; and
 
-&emsp;&emsp;&emsp;(v) measures designed to restrict minors’ access to materials harmful to minors; and
+&emsp;&emsp;&emsp;(v) measures designed to restrict minors' access to materials harmful to minors; and
 
 &emsp;&emsp;(B) provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy.
 
@@ -432,7 +432,7 @@ A telecommunications carrier may not use services that are not competitive to su
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(7), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (b)(7), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 The Library Services and Technology Act, referred to in subsec. (h)(4), is subtitle B (§§211–263) of title II of Pub. L. 94–462, as added by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295, which is classified generally to subchapter II (§9121 et seq.) of chapter 72 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of Title 20 and Tables.
 
@@ -446,9 +446,9 @@ The effective date of this subsection, referred to in subsec. (h)(5)(E), (6)(E),
 
 <b>2008</b>—Subsec. (h)(5)(B)(iii). Pub. L. 110–385 added cl. (iii).
 
-<b>2002</b>—Subsec. (h)(7)(A). Pub. L. 107–110 substituted “section 7801” for “paragraphs (14) and (25), respectively, of section 8801”.
+<b>2002</b>—Subsec. (h)(7)(A). Pub. L. 107–110 substituted "section 7801" for "paragraphs (14) and (25), respectively, of section 8801".
 
-<b>2000</b>—Subsec. (h)(4). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(d)\], substituted “paragraph (7)(A)” for “paragraph (5)(A)”.
+<b>2000</b>—Subsec. (h)(4). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(d)\], substituted "paragraph (7)(A)" for "paragraph (5)(A)".
 
 Subsec. (h)(5). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(a)(2)\], added par. (5). Former par. (5) redesignated (7).
 
@@ -460,7 +460,7 @@ Subsec. (h)(7)(D) to (I). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1
 
 Subsec. (l). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1732\], added subsec. (l).
 
-<b>1996</b>—Subsec. (h)(4). Pub. L. 104–208 substituted “library or library consortium not eligible for assistance from a State library administrative agency under the Library Services and Technology Act” for “library not eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 335c et seq.)”.
+<b>1996</b>—Subsec. (h)(4). Pub. L. 104–208 substituted "library or library consortium not eligible for assistance from a State library administrative agency under the Library Services and Technology Act" for "library not eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 335c et seq.)".
 
 #### Effective Date of 2002 Amendment
 
@@ -468,53 +468,53 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: “The amendments made by this section \[amending this section and enacting provisions set out as notes under this section and section 7001 of Title 20, Education\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: "The amendments made by this section \[amending this section and enacting provisions set out as notes under this section and section 7001 of Title 20, Education\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 #### Regulations
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that:
 
-“(1)
+"(1)
 
 Requirement.—The Federal Communications Commission shall prescribe regulations for purposes of administering the provisions of paragraphs (5) and (6) of section 254(h) of the Communications Act of 1934 \[47 U.S.C. 254(h)\], as amended by this section.
 
-“(2)
+"(2)
 
-Deadline.—Notwithstanding any other provision of law, the Commission shall prescribe regulations under paragraph (1) so as to ensure that such regulations take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
+Deadline.—Notwithstanding any other provision of law, the Commission shall prescribe regulations under paragraph (1) so as to ensure that such regulations take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\]."
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1733\], Dec. 21, 2000, 114 Stat. 2763, 2763A–351, provided that: “Not later than 120 days after the date of enactment of this Act \[Dec. 21, 2000\], the Federal Communications Commission shall prescribe regulations for purposes of section 254(l) of the Communications Act of 1934 \[47 U.S.C. 254(l)\], as added by section 1732 of this Act.”
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1733\], Dec. 21, 2000, 114 Stat. 2763, 2763A–351, provided that: "Not later than 120 days after the date of enactment of this Act \[Dec. 21, 2000\], the Federal Communications Commission shall prescribe regulations for purposes of section 254(l) of the Communications Act of 1934 \[47 U.S.C. 254(l)\], as added by section 1732 of this Act."
 
 #### Separability
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: “If any provision of paragraph (5) or (6) of section 254(h) of the Communications Act of 1934 \[47 U.S.C. 254(h)\], as amended by this section, or the application thereof to any person or circumstance is held invalid, the remainder of such paragraph and the application of such paragraph to other persons or circumstances shall not be affected thereby.”
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: "If any provision of paragraph (5) or (6) of section 254(h) of the Communications Act of 1934 \[47 U.S.C. 254(h)\], as amended by this section, or the application thereof to any person or circumstance is held invalid, the remainder of such paragraph and the application of such paragraph to other persons or circumstances shall not be affected thereby."
 
 #### Disclaimers Regarding Internet Access and Privacy
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1702\], Dec. 21, 2000, 114 Stat. 2763, 2763A–336, provided that:
 
-“(a)
+"(a)
 
 Disclaimer Regarding Content.—Nothing in this title \[see Short Title of 2000 Amendments note set out under section 6301 of Title 20, Education\] or the amendments made by this title shall be construed to prohibit a local educational agency, elementary or secondary school, or library from blocking access on the Internet on computers owned or operated by that agency, school, or library to any content other than content covered by this title or the amendments made by this title.
 
-“(b)
+"(b)
 
-Disclaimer Regarding Privacy.—Nothing in this title or the amendments made by this title shall be construed to require the tracking of Internet use by any identifiable minor or adult user.”
+Disclaimer Regarding Privacy.—Nothing in this title or the amendments made by this title shall be construed to require the tracking of Internet use by any identifiable minor or adult user."
 
 #### Expedited Review
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1741\], Dec. 21, 2000, 114 Stat. 2763, 2763A–351, provided that:
 
-“(a)
+"(a)
 
 Three-Judge District Court Hearing.—Notwithstanding any other provision of law, any civil action challenging the constitutionality, on its face, of this title \[see Short Title of 2000 Amendments note set out under section 6301 of Title 20, Education\] or any amendment made by this title, or any provision thereof, shall be heard by a district court of three judges convened pursuant to the provisions of section 2284 of title 28, United States Code.
 
-“(b)
+"(b)
 
-Appellate Review.—Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under subsection (a) holding this title or an amendment made by this title, or any provision thereof, unconstitutional shall be reviewable as a matter ofright by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order.”
+Appellate Review.—Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under subsection (a) holding this title or an amendment made by this title, or any provision thereof, unconstitutional shall be reviewable as a matter of right by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order."
 
 #### Universal Service Fund Payment Schedule
 
-Pub. L. 105–33, title III, §3006, Aug. 5, 1997, 111 Stat. 269, related to appropriations to the Universal Service Fund in support of programs established pursuant to rules implementing this section and adjustment of payments by telecommunications carriers and other providers of interstate telecommunications prior to repeal by Pub. L. 105–119, title VI, §622, Nov. 26, 1997, 111 Stat. 2521. Section 622 of Pub. L. 105–119 provided further that: “This section shall be deemed a section of the Balanced Budget Act of 1997 \[Pub. L. 105–33, see Tables for classification\] for the purposes of section 10213 of that Act (111 Stat. 712) \[2 U.S.C. 902 note\], and shall be scored pursuant to paragraph (2) of such section.”
+Pub. L. 105–33, title III, §3006, Aug. 5, 1997, 111 Stat. 269, related to appropriations to the Universal Service Fund in support of programs established pursuant to rules implementing this section and adjustment of payments by telecommunications carriers and other providers of interstate telecommunications prior to repeal by Pub. L. 105–119, title VI, §622, Nov. 26, 1997, 111 Stat. 2521. Section 622 of Pub. L. 105–119 provided further that: "This section shall be deemed a section of the Balanced Budget Act of 1997 \[Pub. L. 105–33, see Tables for classification\] for the purposes of section 10213 of that Act (111 Stat. 712) \[2 U.S.C. 902 note\], and shall be scored pursuant to paragraph (2) of such section."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

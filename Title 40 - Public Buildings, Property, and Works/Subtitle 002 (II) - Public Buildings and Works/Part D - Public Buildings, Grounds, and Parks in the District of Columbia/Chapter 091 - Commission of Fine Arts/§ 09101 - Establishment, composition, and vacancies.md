@@ -42,7 +42,7 @@ May 17, 1910, ch. 243, §1 (1st, 2d sentences, last sentence words after comma),
 
 40:104 (last sentence words after comma).
 
-In subsection (a), the word “permanent” is omitted as obsolete.
+In subsection (a), the word "permanent" is omitted as obsolete.
 
-In subsection (d), the words “the District of Columbia” are substituted for “Washington” for consistency in the revised title and with other titles of the United States Code.
+In subsection (d), the words "the District of Columbia" are substituted for "Washington" for consistency in the revised title and with other titles of the United States Code.
 

@@ -62,13 +62,13 @@
 
 #### (A) Charity tax credit
 
-&emsp;&emsp;The term “charity tax credit” means a nonrefundable credit against State income tax (or, in the case of a State that does not impose an income tax, a comparable benefit) that is allowable for contributions, in cash or in kind, to qualified charities.
+&emsp;&emsp;The term "charity tax credit" means a nonrefundable credit against State income tax (or, in the case of a State that does not impose an income tax, a comparable benefit) that is allowable for contributions, in cash or in kind, to qualified charities.
 
 #### (B) Qualified charity
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “qualified charity” means any organization—
+&emsp;&emsp;&emsp;The term "qualified charity" means any organization—
 
 &emsp;&emsp;&emsp;&emsp;(I) that is—
 
@@ -90,7 +90,7 @@
 
 #### (II) Collection organization
 
-&emsp;&emsp;&emsp;&emsp;The term “collection organization” means an organization described in section 501(c)(3) of such title and exempt from tax under section 501(a) of such title—
+&emsp;&emsp;&emsp;&emsp;The term "collection organization" means an organization described in section 501(c)(3) of such title and exempt from tax under section 501(a) of such title—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) that solicits and collects gifts and grants that, by agreement, are distributed to qualified charities;
 
@@ -130,7 +130,7 @@
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The term “poverty program expense” means any expense in providing direct services referred to in clause (iii).
+&emsp;&emsp;&emsp;&emsp;&emsp;The term "poverty program expense" means any expense in providing direct services referred to in clause (iii).
 
 #### (bb) Exceptions
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) maintains separate accounting for revenues and expenses; and
 
-&emsp;&emsp;&emsp;&emsp;(II) makes available to the public information on the administrative and fundraising costs of the organization, and information as to the organizations receiving funds from the organization and the amount of such funds.
+&emsp;&emsp;&emsp;&emsp;(II) makes available to the public information on the administrative andfundraising costs of the organization, and information as to the organizations receiving funds from the organization and the amount of such funds.
 
 #### (vii) Special rule for States requiring tax uniformity
 

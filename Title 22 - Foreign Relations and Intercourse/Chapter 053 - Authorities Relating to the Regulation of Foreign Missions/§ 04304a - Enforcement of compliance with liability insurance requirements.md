@@ -26,19 +26,23 @@ Whenever the Secretary finds that a member of a foreign mission, a member of the
 
 &emsp;(3) has not satisfied a court-rendered judgment against him or is not legally liable,
 
-> the Secretary shall impose a surcharge or fee on the foreign mission of which such member or individual is a part, amounting to the unsatisfied portion of the judgment rendered against such member or individual or, if there is no court-rendered judgment, an estimated amount of damages incurred by the victim. The payment of any such surcharge or fee shall be available only for compensation of the victim or his estate.
+> the Secretary shall impose a surcharge or fee on the foreign mission of which such member or individual is a part, amounting to the unsatisfiedportion of the judgment rendered against such member or individual or, if there is no court-rendered judgment, an estimated amount of damages incurred by the victim. The payment of any such surcharge or fee shall be available only for compensation of the victim or his estate.
 
 #### (c) Definitions
 
 For purposes of this section—
 
-&emsp;(1) the term “head of a foreign mission” has the same meaning as is ascribed to the term “head of a mission” in Article 1 of the Vienna Convention on Diplomatic Relations of April 18, 1961 (T.I.A.S. numbered 7502; 23 U.S.T. 3227); and
+&emsp;(1) the term "head of a foreign mission" has the same meaning as is ascribed to the term "head of a mission" in Article 1 of the Vienna Convention on Diplomatic Relations of April 18, 1961 (T.I.A.S. numbered 7502; 23 U.S.T. 3227); and
 
-&emsp;(2) the terms “members of a mission” and “family” have the same meanings as is ascribed to them by paragraphs (1) and (2) of section 254a of this title.
+&emsp;(2) the terms "members of a mission" and "family" have the same meanings as is ascribed to them by paragraphs (1) and (2) of section 254a of this title.
 
 (Aug. 1, 1956, ch. 841, title II, §204A, as added Pub. L. 98–164, title VI, §603, Nov. 22, 1983, 97 Stat. 1042; amended Pub. L. 103–236, title I, §162(o)(4), Apr. 30, 1994, 108 Stat. 410.)
 
 #### Amendments
 
-<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–236 substituted “Secretary” for “Director” wherever appearing.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–236 substituted "Secretary" for "Director" wherever appearing.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 

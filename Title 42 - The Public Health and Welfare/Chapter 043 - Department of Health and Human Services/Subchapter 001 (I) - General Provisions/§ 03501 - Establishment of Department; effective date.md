@@ -30,29 +30,29 @@ For order of succession during any period when both Secretary and Deputy Secreta
 
 Pub. L. 106–525, title III, §301, Nov. 22, 2000, 114 Stat. 2507, provided that:
 
-“(a)
+"(a)
 
-Study.—The National Academy of Sciences shall conduct a comprehensive study of the Department of Health and Human Services’ data collection systems and practices, and any data collection or reporting systems required under any of the programs or activities of the Department, relating to the collection of data on race or ethnicity, including other Federal data collection systems (such as the Social Security Administration) with which the Department interacts to collect relevant data on race and ethnicity.
+Study.—The National Academy of Sciences shall conduct a comprehensive study of the Department of Health and Human Services' data collection systems and practices, and any data collection or reporting systems required under any of the programs or activities of the Department, relating to the collection of data on race or ethnicity, including other Federal data collection systems (such as the Social Security Administration) with which the Department interacts to collect relevant data on race and ethnicity.
 
-“(b)
+"(b)
 
 Report.—Not later than 1 year after the date of enactment of this Act \[Nov. 22, 2000\], the National Academy of Sciences shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives, a report that—
 
-&emsp;“(1) identifies the data needed to support efforts to evaluate the effects of socioeconomic status, race and ethnicity on access to health care and other services and on disparity in health and other social outcomes and the data needed to enforce existing protections for equal access to health care;
+&emsp;"(1) identifies the data needed to support efforts to evaluate the effects of socioeconomic status, race and ethnicity on access to health care and other services and on disparity in health and other social outcomes and the data needed to enforce existing protections for equal access to health care;
 
-&emsp;“(2) examines the effectiveness of the systems and practices of the Department of Health and Human Services described in subsection (a), including pilot and demonstration projects of the Department, and the effectiveness of selected systems and practices of other Federal, State, and tribal agencies and the private sector, in collecting and analyzing such data;
+&emsp;"(2) examines the effectiveness of the systems and practices of the Department of Health and Human Services described in subsection (a), including pilot and demonstration projects of the Department, and the effectiveness of selected systems and practices of other Federal, State, and tribal agencies and the private sector, in collecting and analyzing such data;
 
-&emsp;“(3) contains recommendations for ensuring that the Department of Health and Human Services, in administering its entire array of programs and activities, collects, or causes to be collected, reliable and complete information relating to race and ethnicity; and
+&emsp;"(3) contains recommendations for ensuring that the Department of Health and Human Services, in administering its entire array of programs and activities, collects, or causes to be collected, reliable and complete information relating to race and ethnicity; and
 
-&emsp;“(4) includes projections about the costs associated with the implementation of the recommendations described in paragraph (3), and the possible effects of the costs on program operations.
+&emsp;"(4) includes projections about the costs associated with the implementation of the recommendations described in paragraph (3), and the possible effects of the costs on program operations.
 
-“(c)
+"(c)
 
-Authorization of Appropriations.—For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for fiscal year 2001.”
+Authorization of Appropriations.—For the purpose of carrying out this section, there are authorizedto be appropriated such sums as may be necessary for fiscal year 2001."
 
 #### Under Secretary Retitled Deputy Secretary
 
-Pub. L. 101–509, title V, §529 \[title I, §112(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1454, provided that: “The position of Under Secretary of Health and Human Services, established by section 2 of Reorganization Plan No. 1 of 1953 (67 Stat. 631) \[set out below\], is retitled the Deputy Secretary of Health and Human Services.”
+Pub. L. 101–509, title V, §529 \[title I, §112(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1454, provided that: "The position of Under Secretary of Health and Human Services, established by section 2 of Reorganization Plan No. 1 of 1953 (67 Stat. 631) \[set out below\], is retitled the Deputy Secretary of Health and Human Services."
 
 \[Section 529 \[title I, §112(a)(1)\] of Pub. L. 101–509 effective on first day of first pay period that begins on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of Health and Human Services, see section 529 \[title I, §112(e)(1), (2)(A)\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment; Continued Service by Incumbents note under section 3404 of Title 20, Education.\]
 
@@ -102,7 +102,7 @@ The Federal Security Agency (exclusive of the agencies thereof transferred by se
 
 #### Sec. 9. Interim Provisions
 
-The President may authorize the persons who immediately prior to the time this reorganization plan takes effect occupy the offices of Federal Security Administrator, Assistant Federal Security Administrator, assistant heads of the Federal Security Agency, and Commissioner for Social Security to act as Secretary, Under Secretary, and Assistant Secretaries of Health, Education, and Welfare, and as Commissioner of Social Security, respectively, until those offices are filled by appointment in the manner provided by sections 1, 2, and 4 of this reorganization plan, but not for a period of more than 60 days. While so acting, such persons shall receive compensation at the rates provided by this reorganization plan for the offices the functions of which they perform.
+The President may authorize the persons who immediately prior to the time this reorganization plan takes effect occupy the offices of Federal Security Administrator, Assistant Federal Security Administrator, assistant heads of the Federal Security Agency, and Commissioner for Social Security to act as Secretary, Under Secretary, and Assistant Secretaries of Health, Education, and Welfare, and as Commissioner of SocialSecurity, respectively, until those offices are filled by appointment in the manner provided by sections 1, 2, and 4 of this reorganization plan, but not for a period of more than 60 days. While so acting, such persons shall receive compensation at the rates provided by this reorganization plan for the offices the functions of which they perform.
 
 \[The Secretary and Department of Health, Education, and Welfare were redesignated the Secretary and Department of Health and Human Services, respectively, by 20 U.S.C. 3508. For transfer of functions and offices (relating to education) of the Secretary and Department of Health, Education, and Welfare to the Secretary and Department of Education, and termination of certain offices and positions, see 20 U.S.C. 3441 and 3503.\]
 
@@ -114,7 +114,7 @@ I transmit herewith Reorganization Plan No. 1 of 1953, prepared in accordance wi
 
 In my message of February 2, 1953, I stated that I would send to the Congress a reorganization plan defining a new administrative status for Federal activities in health, education, and social security. This plan carries out that intention by creating a Department of Health, Education, and Welfare as one of the executive departments of the Government and by transferring to it the various units of the Federal Security Agency. The Department will be headed by a Secretary of Health, Education, and Welfare, who will be assisted by an Under Secretary and two Assistant Secretaries.
 
-The purpose of this plan is to improve the administration of the vital health, education, and social-security functions now being carried on in the Federal Security Agency by giving them departmental rank. Such action is demanded by the importance and magnitude of these functions, which affect the well-being of millions of our citizens. The programs carried on by thePublic Health Service include, for example, the conduct and promotion of research into the prevention and cure of such dangerous ailments as cancer and heart disease. The Public Health Service also administers payments to the States for the support of their health services and for urgently needed hospital construction. The Office of Education collects, analyzes, and distributes to school administrators throughout the country information relating to the organization and management of educational systems. Among its other functions is the provision of financial help to school districts burdened by activities of the United States Government. State assistance to the aged, the blind, the totally disabled, and dependent children is heavily supported by grants-in-aid administered through the Social Security Administration. The old-age and survivors insurance system and child development and welfare programs are additional responsibilities of that Administration. Other offices of the Federal Security Agency are responsible for the conduct of Federal vocational rehabilitation programs and for the enforcement of food and drug laws.
+The purpose of this plan is to improve the administration of the vital health, education, and social-security functions now being carried on in the Federal Security Agency by giving them departmental rank. Such action is demanded by the importance and magnitude of these functions, which affect the well-being of millions of our citizens. The programs carried on by the Public Health Service include, for example, the conduct and promotion of research into the prevention and cure of such dangerous ailments as cancer and heart disease. The Public Health Service also administers payments to the States for the support of their health services and for urgently needed hospital construction. The Office of Education collects, analyzes, and distributes to school administrators throughout the country information relating to the organization and management of educational systems. Among its other functions is the provision of financial help to school districts burdened by activities of the United States Government. State assistance to the aged, the blind, the totally disabled, and dependent children is heavily supported by grants-in-aid administered through the Social Security Administration. The old-age and survivors insurance system and child development and welfare programs are additional responsibilities of that Administration. Other offices of the Federal Security Agency are responsible for the conduct of Federal vocational rehabilitation programs and for the enforcement of food and drug laws.
 
 There should be an unremitting effort to improve those health, education, and social-security programs which have proved their value. I have already recommended the expansion of the social-security system to cover persons not now protected, the continuation of assistance to school districts whose population has been greatly increased by the expansion of defense activities, and the strengthening of our food and drug laws.
 
@@ -140,7 +140,7 @@ The White House, March 12, 1953.
 
 Ex. Ord. No. 11583, Feb. 24, 1971, 36 F.R. 3509, as amended by Ex. Ord. No. 11595, May 26, 1971, 36 F.R. 9763; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
-Consumer protection fosters a market place in which our competitive economic system flourishes best. It is good for businessmen because it gives the consumer greater confidence in the goods and services provided by business. It is good for consumers because it reinforces the concept of buyers’ rights:
+Consumer protection fosters a market place in which our competitive economic system flourishes best. It is good for businessmen because it gives the consumer greater confidence in the goods and services provided by business. It is good for consumers because it reinforces the concept of buyers' rights:
 
 —the right to make an intelligent choice among products and services;
 
@@ -152,11 +152,11 @@ Consumer protection fosters a market place in which our competitive economic sys
 
 The Special Assistant to the President for Consumer Affairs is performing an important role in representing consumer interests in the Federal Government. It is important that the role of the office of the Special Assistant be reinforced by increasing its responsibilities and reemphasizing its importance.
 
-There is need for a consumer office within the Executive Office of the President, which not only advises andrepresents the President on matters of consumer interest, but also analyzes and coordinates the implementation of all Federal activities in the field of consumer protection, helping to establish priorities and resolve conflicts, and recommending ways in which governmental consumer programs can be made more effective.
+There is need for a consumer office within the Executive Office of the President, which not only advises and represents the President on matters of consumer interest, but also analyzes and coordinates the implementation of all Federal activities in the field of consumer protection, helping to establish priorities and resolve conflicts, and recommending ways in which governmental consumer programs can be made more effective.
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States, it is ordered as follows:
 
-Section 1. <i>Office of Consumer Affairs</i>. The Office of Consumer Affairs (hereinafter referred to as the “Office”) is hereby established in the Executive Office of the President. The Office shall be headed by a Director, who shall be appointed by the President, and there shall be in the Office two Deputy Directors who shall also be appointed by the President. The Deputy Directors shall perform such duties as the Director may designate, and in case of a vacancy in the office of Director or during the absence or incapacity of the Director, the Deputy Directors, in the order designated by the President, shall act as Director. The Director and Deputy Directors shall receive compensation at such rates as the President, consonant with law, may hereafter determine.
+Section 1. <i>Office of Consumer Affairs</i>. The Office of Consumer Affairs (hereinafter referred to as the "Office") is hereby established in the Executive Office of the President. The Office shall be headed by a Director, who shall be appointed by the President, and there shall be in the Office two Deputy Directors who shall also be appointed by the President. The Deputy Directors shall perform such duties as the Director may designate, and in case of a vacancy in the office of Director or during the absence or incapacity of the Director, the Deputy Directors, in the order designated by the President, shall act as Director. The Director and Deputy Directors shall receive compensation at such rates as the President, consonant with law, may hereafter determine.
 
 Sec. 2. <i>Powers and duties of the Director</i>. (a) The Director shall be responsible for the exercise of the powers and the discharge of the duties of the Office, and shall have the authority to direct and supervise all personnel and activities thereof. The Director shall take all actions as may be necessary to organize the Office so as to carry out the functions and to achieve the purposes set forth in this order.
 
@@ -198,7 +198,7 @@ Sec. 3. <i>Functions</i>. (a) The Office shall advise the President as to all ma
 
 Sec. 4. <i>Consumer complaints</i>. (a) Whenever the Office receives from any source complaints or other information disclosing a possible violation of (1) any law of the United States or (2) any rule or order of any Federal agency concerning consumer interests, the Office shall promptly transmit such complaint or other information to the Federal agency charged with the duty of enforcing such law, rule, or order, for appropriate action.
 
-(b) Whenever the Office receives complaints or other information disclosing any commercial or trade practice which it deems detrimental to the general interests of consumers within the United States, and which is not included within the category specified in subsection (a) of this section, the Office may transmit such complaint or other information promptly to the Federal, State, or local agency whose regulatory or other authority provides the most effective means to act upon them; the Office may in its discretion also refer such complaint or other information to the private persons or industry against whom the complaint is made.
+(b) Whenever the Office receives complaints or other information disclosing any commercial or trade practice which it deems detrimental to the general interests of consumers within the United States, and whichis not included within the category specified in subsection (a) of this section, the Office may transmit such complaint or other information promptly to the Federal, State, or local agency whose regulatory or other authority provides the most effective means to act upon them; the Office may in its discretion also refer such complaint or other information to the private persons or industry against whom the complaint is made.
 
 Sec. 5. <i>Consumer Advisory Council</i>. (a) There is hereby established in the Office a Consumer Advisory Council to be composed of not more than 12 members appointed by the President. Members shall be appointed on the basis of their knowledge and experience in areas of interest to consumers and their demonstrated ability to exercise independent, informed, and critical judgment.
 
@@ -246,7 +246,7 @@ By virtue of the authority vested in me as President by the Constitution of the 
 
 Establishment of the Consumer Affairs Council
 
-1–101. There is hereby established the Consumer Affairs Council (hereinafter referred to as the “Council”).
+1–101. There is hereby established the Consumer Affairs Council (hereinafter referred to as the "Council").
 
 1–102. The Council shall consist of representatives of the following agencies and such other officers or employees of the United States as the President may designate as members:
 
@@ -310,11 +310,11 @@ Functions of the Council
 
 Designation and Functions of the Chairperson
 
-1–301. The President shall designate the chairperson of the Council (hereinafter referred to as the “Chairperson”).
+1–301. The President shall designate the chairperson of the Council (hereinafter referred to as the "Chairperson").
 
 1–302. The Chairperson shall be the presiding officer of the Council and shall determine the times when the Council shall convene.
 
-1–303. The Chairperson shall establish such policies, definitions, procedures, and standards to govern the implementation, interpretation, and application of this Order, and generally perform such functions and take such steps, as are necessary or appropriate to carry out the provisions of this Order.
+1–303. The Chairperson shall establish such policies, definitions, procedures, and standards to govern theimplementation, interpretation, and application of this Order, and generally perform such functions and take such steps, as are necessary or appropriate to carry out the provisions of this Order.
 
 #### 1–4.
 
@@ -326,9 +326,9 @@ Consumer Program Reforms
 
 (b) <i>Consumer Participation</i>. Agencies shall establish procedures for the early and meaningful participation by consumers in the development and review of all agency rules, policies, and programs. Such procedures shall include provisions to assure that consumer concerns are adequately analyzed and considered in decisionmaking. To facilitate the expression of those concerns, agencies shall provide for forums at which consumers can meet with agency decisionmakers. In addition, agencies shall make affirmative efforts to inform consumers of pending proceedings and of the opportunities available for participation therein.
 
-(c) <i>Informational Materials</i>. Agencies shall produce and distribute materials to inform consumers about the agencies’ responsibilities and services, about their procedures for consumer participation, and about aspects of the marketplace for which they have responsibility. In addition, each agency shall make available to consumers who attend agency meetings open to the public materials designed to make those meetings comprehensible to them.
+(c) <i>Informational Materials</i>. Agencies shall produce and distribute materials to inform consumers about the agencies' responsibilities and services, about their procedures for consumer participation, and about aspects of the marketplace for which they have responsibility. In addition, each agency shall make available to consumers who attend agency meetings open to the public materials designed to make those meetings comprehensible to them.
 
-(d) <i>Education and Training</i>. Agencies shall educate their staff members about the Federal consumer policy embodied in this Order and about the agencies’ programs for carrying out that policy. Specialized training shall be provided to agency consumer affairs personnel and, to the extent considered appropriate by each agency and in a manner not inconsistent with applicable statutes, technical assistance shall be made available to consumers and their organizations.
+(d) <i>Education and Training</i>. Agencies shall educate their staff members about the Federal consumer policy embodied in this Order and about the agencies' programs for carrying out that policy. Specialized training shall be provided to agency consumer affairs personnel and, to the extent considered appropriate by each agency and in a manner not inconsistent with applicable statutes, technical assistance shall be made available to consumers and their organizations.
 
 (e) <i>Complaint Handling</i>. Agencies shall establish procedures for systematically logging in, investigating, and responding to consumer complaints, and for integrating analyses of complaints into the development of policy.
 
@@ -382,9 +382,9 @@ Administrative Provisions
 
 Definitions
 
-1–901. “Consumer” means any individual who uses, purchases, acquires, attempts to purchase or acquire, or is offered or furnished any real or personal property, tangible or intangible goods, services, or credit for personal, family, or household purposes.
+1–901. "Consumer" means any individual who uses, purchases, acquires, attempts to purchase or acquire, or is offered or furnished any real or personal property, tangible or intangible goods, services, or credit for personal, family, or household purposes.
 
-1–902. “Agency” or “agencies” means any department or agency in the executive branch of the Federal government, except that the term shall not include:
+1–902. "Agency" or "agencies" means any department or agency in the executive branch of the Federal government, except that the term shall not include:
 
 (a) independent regulatory agencies, except as noted in subsection 1–804;
 

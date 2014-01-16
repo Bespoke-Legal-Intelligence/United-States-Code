@@ -22,9 +22,9 @@ For purposes of this chapter, in the case of a nonresident not a citizen of the 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–312 struck out subsec. (c). Text read as follows: “Notwithstanding any other provision of this section and except as provided in regulations, a transfer in trust shall be treated as a transfer of property by gift, unless the trust is treated as wholly owned by the donor or the donor's spouse under subpart E of part I of subchapter J of chapter 1.”
+<b>2010</b>—Subsec. (c). Pub. L. 111–312 struck out subsec. (c). Text read as follows: "Notwithstanding any other provision of this section and except as provided in regulations, a transfer in trust shall be treated as a transfer of property by gift, unless the trust is treated as wholly owned by the donor or the donor's spouse under subpart E of part I of subchapter J of chapter 1."
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–147 substituted “transfer of property by gift,” for “taxable gift under section 2503,”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–147 substituted "transfer of property by gift," for "taxable gift under section 2503,".
 
 <b>2001</b>—Subsec. (c). Pub. L. 107–16 added subsec. (c).
 

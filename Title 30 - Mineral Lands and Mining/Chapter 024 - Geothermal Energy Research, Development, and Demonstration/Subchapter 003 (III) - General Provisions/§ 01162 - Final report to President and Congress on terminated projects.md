@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–66 struck out subsec. (a) which read as follows: “The Chairman of the Project shall submit to the President and the Congress full and complete annual reports of the activities of the Project, including such projections and estimates as may be necessary to evaluate the progress of the national geothermal energy research, development and demonstration program and to provide the basis for as accurate a judgment as is possible concerning the extent to which the objectives of this chapter will have been achieved by June 30, 1980.”
+<b>1995</b>—Subsec. (a). Pub. L. 104–66 struck out subsec. (a) which read as follows: "The Chairman of the Project shall submit to the President and the Congress full and complete annual reports of the activities of the Project, including such projections and estimates as may be necessary to evaluate the progress of the national geothermal energy research, development and demonstration program and to provide the basis for as accurate a judgment as is possible concerning the extent to which the objectives of this chapter will have been achieved by June 30, 1980."
 

@@ -18,7 +18,7 @@ Absence from the United States for a continuous period of one year or more durin
 
 #### (c) Physical presence
 
-The granting of the benefits of subsection (b) of this section shall not relieve the applicant from the requirement of physical presence within the United States for the period specified in subsection (a) of this section, except in the case of those persons who are employed by, or under contract with, the Government of the United States. In the case of a person employed by or under contract with Central Intelligence Agency, the requirement in subsection (b) of this section of an uninterrupted period of at least one year of physical presence in the United States may be complied with by such person at any time prior to filing an application for naturalization.
+The granting of the benefits of subsection (b) of this section shall not relieve the applicant from the requirement of physical presence within the United States for the period specified insubsection (a) of this section, except in the case of those persons who are employed by, or under contract with, the Government of the United States. In the case of a person employed by or under contract with Central Intelligence Agency, the requirement in subsection (b) of this section of an uninterrupted period of at least one year of physical presence in the United States may be complied with by such person at any time prior to filing an application for naturalization.
 
 #### (d) Moral character
 
@@ -30,7 +30,7 @@ In determining whether the applicant has sustained the burden of establishing go
 
 #### (f) Persons making extraordinary contributions to national security
 
-(1) Whenever the Director of Central Intelligence, the Attorney General and the Commissioner of Immigration determine that an applicant otherwise eligible for naturalization has made an extraordinary contribution to the national security of the United States or to the conduct of United States intelligence activities, the applicant may be naturalized without regard to the residence and physical presence requirements of this section, or to the prohibitions of section 1424 of this title, and no residence within a particular State or district of the Service inthe United States shall be required: <i>Provided</i>, That the applicant has continuously resided in the United States for at least one year prior to naturalization: <i>Provided further</i>, That the provisions of this subsection shall not apply to any alien described in clauses (i) through (v) of section 1158(b)(2)(A) of this title.
+(1) Whenever the Director of Central Intelligence, the Attorney General and the Commissioner of Immigration determine that an applicant otherwise eligible for naturalization has made an extraordinary contribution to the national security of the United States or to the conduct of United States intelligence activities, the applicant may be naturalized without regard to the residence and physical presence requirements of this section, or to the prohibitions of section 1424 of this title, and no residence within a particular State or district of the Service in the United States shall be required: <i>Provided</i>, That the applicant has continuously resided in the United States for at least one year prior to naturalization: <i>Provided further</i>, That the provisions of this subsection shall not apply to any alien described in clauses (i) through (v) of section 1158(b)(2)(A) of this title.
 
 (2) An applicant for naturalization under this subsection may be administered the oath of allegiance under section 1448(a) of this title by any district court of the United States, without regard to the residence of the applicant. Proceedings under this subsection shall be conducted in a manner consistent with the protection of intelligence sources, methods and activities.
 
@@ -80,7 +80,7 @@ Subsec. (e). Pub. L. 101–649, §407(d)(1)(C), substituted “the Attorney Gene
 
 Pub. L. 101–649, §407(c)(2), substituted references to applicant, applicant's, and application for references to petitioner, petitioner's, and petition wherever appearing.
 
-Subsec. (f). Pub. L. 101–649, §407(e)(1), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Naturalization shall not be granted to a petitioner by a naturalization court while registration proceedings or proceedings to require registration against an organization of which the petitioner is a member or affiliate are pending under section 792 or 793 of title 50.”
+Subsec. (f). Pub. L. 101–649, §407(e)(1), redesignated subsec. (g) as (f) and struck out former subsec. (f) whichread as follows: “Naturalization shall not be granted to a petitioner by a naturalization court while registration proceedings or proceedings to require registration against an organization of which the petitioner is a member or affiliate are pending under section 792 or 793 of title 50.”
 
 Subsec. (f)(1). Pub. L. 101–649, §407(d)(1)(D), substituted “within a particular State or district of the Service in the United States” for “within the jurisdiction of the court”.
 
@@ -96,7 +96,7 @@ Subsec. (f)(3). Pub. L. 101–649, §407(c)(2), substituted reference to applica
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Termination Date of 2005 Amendment
 

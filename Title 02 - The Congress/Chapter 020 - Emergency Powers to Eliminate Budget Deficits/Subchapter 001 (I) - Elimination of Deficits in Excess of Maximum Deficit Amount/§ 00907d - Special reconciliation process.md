@@ -8,7 +8,7 @@
 
 #### (2) Initial Budget Committee action
 
-&emsp;After the submission of such a report, the Committee on the Budget of the Senate may,not later than October 15, report to the Senate a resolution. The resolution may affirm the impact of the order envisioned by such report, in whole or in part. To the extent that any part is not affirmed, the resolution shall state which parts are not affirmed and shall contain instructions to committees of the Senate of the type referred to in section 641(a) of this title, sufficient to achieve at least the total level of deficit reduction contained in those sections which are not affirmed.
+&emsp;After the submission of such a report, the Committee on the Budget of the Senate may, not later than October 15, report to the Senate a resolution. The resolution may affirm the impact of the order envisioned by such report, in whole or in part. To the extent that any part is not affirmed, the resolution shall state which parts are not affirmed and shall contain instructions to committees of the Senate of the type referred to in section 641(a) of this title, sufficient to achieve at least the total level of deficit reduction contained in those sections which are not affirmed.
 
 #### (3) Response of committees
 
@@ -32,7 +32,7 @@
 
 #### (6) Treatment of certain amendments
 
-&emsp;In the Senate, an amendment which adds to a resolution reported under paragraph (2) an instruction of the type referred to in such paragraph shall be in order during the consideration of such resolution if such amendment would be in order but for the fact that it would be held to be non-germane on the basis that the instruction constitutes new matter.
+&emsp;In the Senate, an amendment which adds to a resolution reported under paragraph (2) an instruction of the type referred to in suchparagraph shall be in order during the consideration of such resolution if such amendment would be in order but for the fact that it would be held to be non-germane on the basis that the instruction constitutes new matter.
 
 #### (7) “Day” defined
 

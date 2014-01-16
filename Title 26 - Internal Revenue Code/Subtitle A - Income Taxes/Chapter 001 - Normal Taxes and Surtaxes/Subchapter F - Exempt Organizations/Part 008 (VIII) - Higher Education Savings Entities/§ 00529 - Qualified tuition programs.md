@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified tuition program” means a program established and maintained by a State or agency or instrumentality thereof or by 1 or more eligible educational institutions—
+&emsp;The term "qualified tuition program" means a program established and maintained by a State or agency or instrumentality thereof or by 1 or more eligible educational institutions—
 
 &emsp;&emsp;(A) under which a person—
 
@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which meets the other requirements of this subsection.
 
-> &emsp;Except to the extent provided in regulations, a program established and maintained by 1 or more eligible educational institutions shall not be treated as a qualified tuition program unless such program provides that amounts are held in a qualified trust and such program has received a ruling or determination that such program meets the applicable requirements for a qualified tuition program. For purposes of the preceding sentence, the term “qualified trust” means a trust which is created or organized in the United States for the exclusive benefit of designated beneficiaries and with respect to which the requirements of paragraphs (2) and (5) of section 408(a) are met.
+> &emsp;Except to the extent provided in regulations, a program established and maintained by 1 or more eligible educational institutions shall not be treated as a qualified tuition program unless such program provides that amounts are held in a qualified trust and such program has received a ruling or determination that such program meets the applicable requirements for a qualified tuition program. For purposes of the preceding sentence, the term "qualified trust" means a trust which is created or organized in the United States for the exclusive benefit of designated beneficiaries and with respect to which the requirements of paragraphs (2) and (5) of section 408(a) are met.
 
 #### (2) Cash contributions
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 #### (1) Designated beneficiary
 
-&emsp;The term “designated beneficiary” means—
+&emsp;The term "designated beneficiary" means—
 
 &emsp;&emsp;(A) the individual designated at the commencement of participation in the qualified tuition program as the beneficiary of amounts paid (or to be paid) to the program,
 
@@ -200,7 +200,7 @@ For purposes of this section—
 
 #### (2) Member of family
 
-&emsp;The term “member of the family” means, with respect to any designated beneficiary—
+&emsp;The term "member of the family" means, with respect to any designated beneficiary—
 
 &emsp;&emsp;(A) the spouse of such beneficiary;
 
@@ -214,7 +214,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified higher education expenses” means—
+&emsp;&emsp;The term "qualified higher education expenses" means—
 
 &emsp;&emsp;&emsp;(i) tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution;
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 #### (5) Eligible educational institution
 
-&emsp;The term “eligible educational institution” means an institution—
+&emsp;The term "eligible educational institution" means an institution—
 
 &emsp;&emsp;(A) which is described in section 481 of the Higher Education Act of 1965 (20 U.S.C. 1088), as in effect on the date of the enactment of this paragraph, and
 
@@ -270,121 +270,121 @@ The Higher Education Act of 1965, referred to in subsec. (e)(5), is Pub. L. 89�
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–280, which directed the addition of subsec. (f) to section 529, without specifying the act to be amended, was executed by making the addition to this section, which is section 529 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-<b>2005</b>—Subsec. (c)(6). Pub. L. 109–135 substituted “Coverdell education savings account” for “education individual retirement account”.
+<b>2005</b>—Subsec. (c)(6). Pub. L. 109–135 substituted "Coverdell education savings account" for "education individual retirement account".
 
-<b>2004</b>—Subsec. (c)(5)(B). Pub. L. 108–311, §406(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The taxes imposed by chapters 12 and 13 shall apply to a transfer by reason of a change in the designated beneficiary under the program (or a rollover to the account of a new beneficiary) only if the new beneficiary is a generation below the generation of the old beneficiary (determined in accordance with section 2651).”
+<b>2004</b>—Subsec. (c)(5)(B). Pub. L. 108–311, §406(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The taxes imposed by chapters 12 and 13 shall apply to a transfer by reason of a change in the designated beneficiary under the program (or a rollover to the account of a new beneficiary) only if the new beneficiary is a generation below the generation of the old beneficiary (determined in accordance with section 2651)."
 
-Subsec. (e)(2)(B). Pub. L. 108–311, §207(21), substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)”.
+Subsec. (e)(2)(B). Pub. L. 108–311, §207(21), substituted "subparagraphs (A) through (G) of section 152(d)(2)" for "paragraphs (1) through (8) of section 152(a)".
 
-<b>2002</b>—Subsec. (e)(3)(B)(i). Pub. L. 107–147 substituted “subsection (b)(6)” for “subsection (b)(7)”.
+<b>2002</b>—Subsec. (e)(3)(B)(i). Pub. L. 107–147 substituted "subsection (b)(6)" for "subsection (b)(7)".
 
-<b>2001</b>—Pub. L. 107–16, §402(a)(4)(D), struck out “State” before “tuition” in section catchline.
+<b>2001</b>—Pub. L. 107–16, §402(a)(4)(D), struck out "State" before "tuition" in section catchline.
 
-Subsec. (a). Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
+Subsec. (a). Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
-Subsec. (b). Pub. L. 107–16, §402(a)(4)(C), substituted “Qualified tuition” for “Qualified State tuition” in heading.
+Subsec. (b). Pub. L. 107–16, §402(a)(4)(C), substituted "Qualified tuition" for "Qualified State tuition" in heading.
 
-Subsec. (b)(1). Pub. L. 107–16, §402(a)(1), (4)(A), in introductory provisions, substituted “qualified tuition” for “qualified State tuition” and inserted “or by 1 or more eligible educational institutions” after “thereof”, and added concluding provisions.
+Subsec. (b)(1). Pub. L. 107–16, §402(a)(1), (4)(A), in introductory provisions, substituted "qualified tuition" for "qualified State tuition" and inserted "or by 1 or more eligible educational institutions" after "thereof", and added concluding provisions.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 107–16, §402(a)(2), inserted “in the case of a program established and maintained by a State or agency or instrumentality thereof,” before “may make”.
+Subsec. (b)(1)(A)(ii). Pub. L. 107–16, §402(a)(2), inserted "in the case of a program established and maintained by a State or agency or instrumentality thereof," before "may make".
 
-Subsec. (b)(2). Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
+Subsec. (b)(2). Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
-Subsec. (b)(3) to (7). Pub. L. 107–16, §402(a)(3)(A), (4)(A), redesignated pars. (4) to (7) as (3) to (6), respectively, substituted “qualified tuition” for “qualified State tuition” wherever appearing, and struck out heading and text of former par. (3). Text read as follows: “A program shall not be treated as a qualified State tuition program unless it imposes a more than de minimis penalty on any refund of earnings from the account which are not—
+Subsec. (b)(3) to (7). Pub. L. 107–16, §402(a)(3)(A), (4)(A), redesignated pars. (4) to (7) as (3) to (6), respectively, substituted "qualified tuition" for "qualified State tuition" wherever appearing, and struck out heading and text of former par. (3). Text read as follows: "A program shall not be treated as a qualified State tuition program unless it imposes a more than de minimis penalty on any refund of earnings from the account which are not—
 
-&emsp;“(A) used for qualified higher education expenses of the designated beneficiary,
+&emsp;"(A) used for qualified higher education expenses of the designated beneficiary,
 
-&emsp;“(B) made on account of the death or disability of the designated beneficiary, or
+&emsp;"(B) made on account of the death or disability of the designated beneficiary, or
 
-&emsp;“(C) made on account of a scholarship (or allowance or payment described in section 135(d)(1)(B) or (C)) received by the designated beneficiary to the extent the amount of the refund does not exceed the amount of the scholarship, allowance, or payment.”
+&emsp;"(C) made on account of a scholarship (or allowance or payment described in section 135(d)(1)(B) or (C)) received by the designated beneficiary to the extent the amount of the refund does not exceed the amount of the scholarship, allowance, or payment."
 
-Subsec. (c)(1)(A), (3)(A). Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
+Subsec. (c)(1)(A), (3)(A). Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
-Subsec. (c)(3)(B). Pub. L. 107–16, §402(b)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “Any benefit furnished to a designated beneficiary under a qualified tuition program shall be treated as a distribution to the beneficiary.”
+Subsec. (c)(3)(B). Pub. L. 107–16, §402(b)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: "Any benefit furnished to a designated beneficiary under a qualified tuition program shall be treated as a distribution to the beneficiary."
 
-Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
+Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
-Subsec. (c)(3)(B)(vi). Pub. L. 107–22 substituted “Coverdell education savings” for “education individual retirement” in heading.
+Subsec. (c)(3)(B)(vi). Pub. L. 107–22 substituted "Coverdell education savings" for "education individual retirement" in heading.
 
-Subsec. (c)(3)(C). Pub. L. 107–16, §402(c)(3), inserted “or programs” after “beneficiaries” in heading.
+Subsec. (c)(3)(C). Pub. L. 107–16, §402(c)(3), inserted "or programs" after "beneficiaries" in heading.
 
-Subsec. (c)(3)(C)(i). Pub. L. 107–16, §402(c)(1), substituted “transferred—” for “transferred”, added subcl. (I), and designated existing provisions “to the credit” as subcl. (II).
+Subsec. (c)(3)(C)(i). Pub. L. 107–16, §402(c)(1), substituted "transferred—" for "transferred", added subcl. (I), and designated existing provisions "to the credit" as subcl. (II).
 
-Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
+Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
-Subsec. (c)(3)(C)(ii). Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
+Subsec. (c)(3)(C)(ii). Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
 Subsec. (c)(3)(C)(iii). Pub. L. 107–16, §402(c)(2), added cl. (iii).
 
-Subsec. (c)(3)(D)(i). Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
+Subsec. (c)(3)(D)(i). Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
-Subsec. (c)(3)(D)(ii). Pub. L. 107–16, §402(g)(1), inserted “except to the extent provided by the Secretary,” before “all distributions”.
+Subsec. (c)(3)(D)(ii). Pub. L. 107–16, §402(g)(1), inserted "except to the extent provided by the Secretary," before "all distributions".
 
-Subsec. (c)(3)(D)(iii). Pub. L. 107–16, §402(g)(2), inserted “except to the extent provided by the Secretary,” before “the value”.
+Subsec. (c)(3)(D)(iii). Pub. L. 107–16, §402(g)(2), inserted "except to the extent provided by the Secretary," before "the value".
 
 Subsec. (c)(6). Pub. L. 107–16, §402(a)(3)(B), added par. (6).
 
-Subsecs. (d), (e)(1)(A), (C). Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
+Subsecs. (d), (e)(1)(A), (C). Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
 Subsec. (e)(2)(D). Pub. L. 107–16, §402(d), added subpar. (D).
 
-Subsec. (e)(3)(A). Pub. L. 107–16, §402(f), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “The term ‘qualified higher education expenses’ means tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution.”
+Subsec. (e)(3)(A). Pub. L. 107–16, §402(f), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: "The term 'qualified higher education expenses' means tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution."
 
-Subsec. (e)(3)(B)(i). Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
+Subsec. (e)(3)(B)(i). Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
-Subsec. (e)(3)(B)(ii). Pub. L. 107–16, §402(e), reenacted heading without change and amended text of cl. (ii) generally. Prior to amendment, text read as follows: “The amount treated as qualified higher education expenses by reason of the preceding sentence shall not exceed the minimum amount (applicable to the student) included for room and board for such period in the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087ll, as in effect on the date of the enactment of this paragraph) for the eligible educational institution for such period.”
+Subsec. (e)(3)(B)(ii). Pub. L. 107–16, §402(e), reenacted heading without change and amended text of cl. (ii) generally. Prior to amendment, text read as follows: "The amount treated as qualified higher education expenses by reason of the preceding sentence shall not exceed the minimum amount (applicable to the student) included for room and board for such period in the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087ll, as in effect on the date of the enactment of this paragraph) for the eligible educational institution for such period."
 
-Subsec. (e)(4). Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
+Subsec. (e)(4). Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
-<b>2000</b>—Subsec. (e)(3)(B). Pub. L. 106–554 struck out “under guaranteed plans” after “students” in heading.
+<b>2000</b>—Subsec. (e)(3)(B). Pub. L. 106–554 struck out "under guaranteed plans" after "students" in heading.
 
-<b>1998</b>—Subsec. (c)(3)(A). Pub. L. 105–206, §6004(c)(2), substituted “section 72” for “section 72(b)”.
+<b>1998</b>—Subsec. (c)(3)(A). Pub. L. 105–206, §6004(c)(2), substituted "section 72" for "section 72(b)".
 
-Subsec. (e)(2). Pub. L. 105–206, §6004(c)(3), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘member of the family’ means—
+Subsec. (e)(2). Pub. L. 105–206, §6004(c)(3), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: "The term 'member of the family' means—
 
-&emsp;“(A) an individual who bears a relationship to another individual which is a relationship described in paragraphs (1) through (8) of section 152(a), and
+&emsp;"(A) an individual who bears a relationship to another individual which is a relationship described in paragraphs (1) through (8) of section 152(a), and
 
-&emsp;“(B) the spouse of any individual described in subparagraph (A).”
+&emsp;"(B) the spouse of any individual described in subparagraph (A)."
 
-<b>1997</b>—Subsec. (b)(5). Pub. L. 105–34, §211(b)(4), inserted “directly or indirectly” after “may not”.
+<b>1997</b>—Subsec. (b)(5). Pub. L. 105–34, §211(b)(4), inserted "directly or indirectly" after "may not".
 
-Subsec. (c)(2). Pub. L. 105–34, §211(b)(3)(A)(i), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In no event shall a contribution to a qualified State tuition program on behalf of a designated beneficiary be treated as a taxable gift for purposes of chapter 12.”
+Subsec. (c)(2). Pub. L. 105–34, §211(b)(3)(A)(i), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "In no event shall a contribution to a qualified State tuition program on behalf of a designated beneficiary be treated as a taxable gift for purposes of chapter 12."
 
-Subsec. (c)(3)(A). Pub. L. 105–34, §211(d), substituted “section 72(b)” for “section 72”.
+Subsec. (c)(3)(A). Pub. L. 105–34, §211(d), substituted "section 72(b)" for "section 72".
 
-Subsec. (c)(4). Pub. L. 105–34, §211(b)(3)(B), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The value of any interest in any qualified State tuition program which is attributable to contributions made by an individual to such program on behalf of any designated beneficiary shall be includible in the gross estate of the contributor for purposes of chapter 11.”
+Subsec. (c)(4). Pub. L. 105–34, §211(b)(3)(B), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "The value of any interest in any qualified State tuition program which is attributable to contributions made by an individual to such program on behalf of any designated beneficiary shall be includible in the gross estate of the contributor for purposes of chapter 11."
 
-Subsec. (c)(5). Pub. L. 105–34, §211(b)(3)(A)(ii), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “For purposes of section 2503(e), the waiver (or payment to an educational institution) of qualified higher education expenses of a designated beneficiary under a qualified State tuition program shall be treated as a qualified transfer.”
+Subsec. (c)(5). Pub. L. 105–34, §211(b)(3)(A)(ii), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: "For purposes of section 2503(e), the waiver (or payment to an educational institution) of qualified higher education expenses of a designated beneficiary under a qualified State tuition program shall be treated as a qualified transfer."
 
 Subsec. (d). Pub. L. 105–34, §211(e)(2)(A), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-“(d)
+"(d)
 
 Reporting Requirements.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—If there is a distribution to any individual with respect to an interest in a qualified State tuition program during any calendar year, each officer or employee having control of the qualified State tuition program or their designee shall make such reports as the Secretary may require regarding such distribution to the Secretary and to the designated beneficiary or the individual to whom the distribution was made. Any such report shall include such information as the Secretary may prescribe.
 
-&emsp;“(2) Timing of reports.—Any report required by this subsection—
+&emsp;"(2) Timing of reports.—Any report required by this subsection—
 
-&emsp;&emsp;“(A) shall be filed at such time and in such matter as the Secretary prescribes, and
+&emsp;&emsp;"(A) shall be filed at such time and in such matter as the Secretary prescribes, and
 
-&emsp;&emsp;“(B) shall be furnished to individuals not later than January 31 of the calendar year following the calendar year to which such report relates.”
+&emsp;&emsp;"(B) shall be furnished to individuals not later than January 31 of the calendar year following the calendar year to which such report relates."
 
-Subsec. (e)(1)(B). Pub. L. 105–34, §1601(h)(1)(A), substituted “subsection (c)(3)(C)” for “subsection (c)(2)(C)”.
+Subsec. (e)(1)(B). Pub. L. 105–34, §1601(h)(1)(A), substituted "subsection (c)(3)(C)" for "subsection (c)(2)(C)".
 
-Subsec. (e)(1)(C). Pub. L. 105–34, §1601(h)(1)(B), inserted “(or agency or instrumentality thereof)” after “local government”.
+Subsec. (e)(1)(C). Pub. L. 105–34, §1601(h)(1)(B), inserted "(or agency or instrumentality thereof)" after "local government".
 
-Subsec. (e)(2). Pub. L. 105–34, §211(b)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘member of the family’ has the same meaning given such term as section 2032A(e)(2).”
+Subsec. (e)(2). Pub. L. 105–34, §211(b)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "The term 'member of the family' has the same meaning given such term as section 2032A(e)(2)."
 
-Subsec. (e)(3). Pub. L. 105–34, §211(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘qualified higher education expenses’ means tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution (as defined in section 135(c)(3)).”
+Subsec. (e)(3). Pub. L. 105–34, §211(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "The term 'qualified higher education expenses' means tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution (as defined in section 135(c)(3))."
 
 Subsec. (e)(5). Pub. L. 105–34, §211(b)(2), added par. (5).
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–5, div. B, title I, §1005(b), Feb. 17, 2009, 123 Stat. 316, provided that: “The amendments made by this section \[amending this section\] shall apply to expenses paid or incurred after December 31, 2008.”
+Pub. L. 111–5, div. B, title I, §1005(b), Feb. 17, 2009, 123 Stat. 316, provided that: "The amendments made by this section \[amending this section\] shall apply to expenses paid or incurred after December 31, 2008."
 
 #### Effective Date of 2004 Amendment
 
@@ -406,37 +406,37 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 Pub. L. 105–34, title II, §211(f), Aug. 5, 1997, 111 Stat. 812, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 135 and 6693 of this title\] shall take effect on January 1, 1998.
 
-“(2)
+"(2)
 
 Expenses to include room and board.—The amendment made by subsection (a) shall take effect as if included in the amendments made by section 1806 of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188\].
 
-“(3)
+"(3)
 
 Eligible educational institution.—The amendment made by subsection (b)(2) \[amending this section\] shall apply to distributions after December 31, 1997, with respect to expenses paid after such date (in taxable years ending after such date), for education furnished in academic periods beginning after such date.
 
-“(4)
+"(4)
 
 Coordination with education savings bonds.—The amendment made by subsection (c) \[amending section 135 of this title\] shall apply to taxable years beginning after December 31, 1997.
 
-“(5)
+"(5)
 
 Estate and gift tax changes.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Gift tax changes.—Paragraphs (2) and (5) of section 529(c) of the Internal Revenue Code of 1986, as amended by this section, shall apply to transfers (including designations of new beneficiaries) made after the date of the enactment of this Act \[Aug. 5, 1997\].
 
-&emsp;“(B)
+&emsp;"(B)
 
 Estate tax changes.—Paragraph (4) of such section 529(c) shall apply to estates of decedents dying after June 8, 1997.
 
-“(6)
+"(6)
 
-Transition rule for pre-august 20, 1996 contracts.—In the case of any contract issued prior to August 20, 1996, section 529(c)(3)(C) of the Internal Revenue Code of 1986 shall be applied for taxable years ending after August 20, 1996, without regard to the requirement that a distribution be transferred to a member of the family or the requirement that a change in beneficiaries may be made only to a member of the family.”
+Transition rule for pre-august 20, 1996 contracts.—In the case of any contract issued prior to August 20, 1996, section 529(c)(3)(C) of the Internal Revenue Code of 1986 shall be applied for taxable years ending after August 20, 1996, without regard to the requirement that a distribution be transferred to a member of the family or the requirement that a change in beneficiaries may be made only to a member of the family."
 
 Amendment by section 1601(h)(1)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
@@ -444,27 +444,27 @@ Amendment by section 1601(h)(1)(A), (B) of Pub. L. 105–34 effective as if incl
 
 Pub. L. 104–188, title I, §1806(c), Aug. 20, 1996, 110 Stat. 1898, as amended by Pub. L. 105–34, title XVI, §1601(h)(1)(C), Aug. 5, 1997, 111 Stat. 1092, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting this section and amending section 135 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 20, 1996\].
 
-“(2)
+"(2)
 
 Transition rule.—If—
 
-&emsp;“(A) a State or agency or instrumentality thereof maintains, on the date of the enactment of this Act, a program under which persons may purchase tuition credits or certificates on behalf of, or make contributions for education expenses of, a designated beneficiary, and
+&emsp;"(A) a State or agency or instrumentality thereof maintains, on the date of the enactment of this Act, a program under which persons may purchase tuition credits or certificates on behalf of, or make contributions for education expenses of, a designated beneficiary, and
 
-&emsp;“(B) such program meets the requirements of a qualified State tuition program before the later of—
+&emsp;"(B) such program meets the requirements of a qualified State tuition program before the later of—
 
-&emsp;&emsp;“(i) the date which is 1 year after such date of enactment, or
+&emsp;&emsp;"(i) the date which is 1 year after such date of enactment, or
 
-&emsp;&emsp;“(ii) the first day of the first calendar quarter after the close of the first regular session of the State legislature that begins after such date of enactment,
+&emsp;&emsp;"(ii) the first day of the first calendar quarter after the close of the first regular session of the State legislature that begins after such date of enactment,
 
 > &emsp;then such program (as in effect on August 20, 1996) shall be treated as a qualified State tuition program with respect to contributions (and earnings allocable thereto) pursuant to contracts entered into under such program before the first date on which such program meets such requirements (determined without regard to this paragraph) and the provisions of such program (as so in effect) shall apply in lieu of section 529(b) of the Internal Revenue Code of 1986 with respect to such contributions and earnings.
 
-> For purposes of subparagraph (B)(ii), if a State has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+> For purposes of subparagraph (B)(ii), if a State has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “; and”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "; and".</i>
 

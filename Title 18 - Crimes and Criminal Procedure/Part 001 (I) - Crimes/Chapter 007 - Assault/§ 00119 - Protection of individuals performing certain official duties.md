@@ -14,9 +14,9 @@ In General.—Whoever knowingly makes restricted personal information about a co
 
 Definitions.—In this section—
 
-&emsp;(1) the term “restricted personal information” means, with respect to an individual, the Social Security number, the home address, home phone number, mobile phone number, personal email, or home fax number of, and identifiable to, that individual;
+&emsp;(1) the term "restricted personal information" means, with respect to an individual, the Social Security number, the home address, home phone number, mobile phone number, personal email, or home fax number of, and identifiable to, that individual;
 
-&emsp;(2) the term “covered person” means—
+&emsp;(2) the term "covered person" means—
 
 &emsp;&emsp;(A) an individual designated in section 1114;
 
@@ -26,9 +26,9 @@ Definitions.—In this section—
 
 &emsp;&emsp;(D) a State or local officer or employee whose restricted personal information is made publicly available because of the participation in, or assistance provided to, a Federal criminal investigation by that officer or employee;
 
-&emsp;(3) the term “crime of violence” has the meaning given the term in section 16; and
+&emsp;(3) the term "crime of violence" has the meaning given the term in section 16; and
 
-&emsp;(4) the term “immediate family” has the meaning given the term in section 115(c)(2).
+&emsp;(4) the term "immediate family" has the meaning given the term in section 115(c)(2).
 
 (Added Pub. L. 110–177, title II, §202(a), Jan. 7, 2008, 121 Stat. 2536.)
 

@@ -2,11 +2,11 @@
 
 For the purposes of this chapter—
 
-&emsp;(1) The term “Secretary” means the Secretary of the Treasury.
+&emsp;(1) The term "Secretary" means the Secretary of the Treasury.
 
-&emsp;(2) The term “United States” includes the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;(2) The term "United States" includes the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-&emsp;(3) The term “pre-Columbian monumental or architectural sculpture or mural” means—
+&emsp;(3) The term "pre-Columbian monumental or architectural sculpture or mural" means—
 
 &emsp;&emsp;(A) any stone carving or wall art which—
 
@@ -18,7 +18,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(B) any fragment or part of any stone carving or wall art described in subparagraph (A) of this paragraph.
 
-&emsp;(4) The term “country of origin”, as applied to any pre-Columbian monumental or architectural sculpture or mural, means the country where such sculpture or mural was first discovered.
+&emsp;(4) The term "country of origin", as applied to any pre-Columbian monumental or architectural sculpture or mural, means the country where such sculpture or mural was first discovered.
 
 (Pub. L. 92–587, title II, §205, Oct. 27, 1972, 86 Stat. 1297.)
 

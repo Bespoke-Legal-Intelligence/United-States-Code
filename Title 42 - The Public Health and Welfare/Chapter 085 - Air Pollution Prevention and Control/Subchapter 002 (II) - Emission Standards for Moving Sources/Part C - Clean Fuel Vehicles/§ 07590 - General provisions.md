@@ -6,7 +6,7 @@ If any State adopts enforceable provisions in an implementation plan applicable 
 
 #### (b) No production mandate
 
-The Administrator shall have no authority under this part to mandate the production of clean-fuel vehicles except as provided in theCalifornia pilot test program or to specify as applicable the models, lines, or types of, or marketing or price practices, policies, or strategies for, vehicles subject to this part. Nothing in this part shall be construed to give the Administrator authority to mandate marketing or pricing practices, policies, or strategies for fuels.
+The Administrator shall have no authority under this part to mandate the production of clean-fuel vehicles except as provided in the California pilot test program or to specify as applicable the models, lines, or types of, or marketing or price practices, policies, or strategies for, vehicles subject to this part. Nothing in this part shall be construed to give the Administrator authority to mandate marketing or pricing practices, policies, or strategies for fuels.
 
 #### (c) Tank and fuel system safety
 
@@ -20,7 +20,7 @@ The Administrator shall coordinate with the Secretaries of the Department of Ene
 
 #### Codification
 
-In subsec. (c), “chapter 301 of title 49” substituted for “the National Motor Vehicle Traffic Safety Act of 1966 \[15 U.S.C. 1381 et seq.\]”, meaning “the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1381 et seq.\]”, on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (c), "chapter 301 of title 49" substituted for "the National Motor Vehicle Traffic Safety Act of 1966 \[15 U.S.C. 1381 et seq.\]", meaning "the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1381 et seq.\]", on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “part D of subchapter I of this chapter”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "part D of subchapter I of this chapter".</i>
 

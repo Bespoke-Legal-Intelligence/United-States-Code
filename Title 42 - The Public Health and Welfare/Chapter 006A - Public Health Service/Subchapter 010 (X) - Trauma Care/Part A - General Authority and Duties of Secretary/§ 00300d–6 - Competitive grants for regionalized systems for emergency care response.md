@@ -10,7 +10,7 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means—
+&emsp;The term "eligible entity" means—
 
 &emsp;&emsp;(A) a State or a partnership of 1 or more States and 1 or more local governments; or
 
@@ -18,11 +18,11 @@ In this section:
 
 #### (2) Region
 
-&emsp;The term “region” means an area within a State, an area that lies within multiple States, or a similar area (such as a multicounty area), as determined by the Secretary.
+&emsp;The term "region" means an area within a State, an area that lies within multiple States, or a similar area (such as a multicounty area), as determined by the Secretary.
 
 #### (3) Emergency services
 
-&emsp;The term “emergency services” includes acute, prehospital, and trauma care.
+&emsp;The term "emergency services" includes acute, prehospital, and trauma care.
 
 #### (c) Pilot projects
 
@@ -86,7 +86,7 @@ The Secretary shall give priority for the award of the contracts or grants descr
 
 Not later than 90 days after the completion of a pilot project under subsection (a), the recipient of such contract or grant described in <sup>1</sup> shall submit to the Secretary a report containing the results of an evaluation of the program, including an identification of—
 
-&emsp;(1) the impact of the regional, accountable emergency care and trauma system on patienthealth outcomes for various critical care categories, such as trauma, stroke, cardiac emergencies, neurological emergencies, and pediatric emergencies;
+&emsp;(1) the impact of the regional, accountable emergency care and trauma system on patient health outcomes for various critical care categories, such as trauma, stroke, cardiac emergencies, neurological emergencies, and pediatric emergencies;
 
 &emsp;(2) the system characteristics that contribute to the effectiveness and efficiency of the program (or lack thereof);
 

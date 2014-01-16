@@ -4,17 +4,17 @@ In this chapter:
 
 #### (1) Comprehensive economic development strategy
 
-&emsp;The term “comprehensive economic development strategy” means a comprehensive economic development strategy approved by the Secretary under section 3162 of this title.
+&emsp;The term "comprehensive economic development strategy" means a comprehensive economic development strategy approved by the Secretary under section 3162 of this title.
 
 #### (2) Department
 
-&emsp;The term “Department” means the Department of Commerce.
+&emsp;The term "Department" means the Department of Commerce.
 
 #### (3) Economic development district
 
 #### (A) In general
 
-&emsp;&emsp;The term “economic development district” means any area in the United States that—
+&emsp;&emsp;The term "economic development district" means any area in the United States that—
 
 &emsp;&emsp;&emsp;(i) is composed of areas described in section 3161(a) of this title and, to the extent appropriate, neighboring counties or communities; and
 
@@ -22,13 +22,13 @@ In this chapter:
 
 #### (B) Inclusion
 
-&emsp;&emsp;The term “economic development district” includes any economic development district designated by the Secretary under section 3173 of this title (as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998).
+&emsp;&emsp;The term "economic development district" includes any economic development district designated by the Secretary under section 3173 of this title (as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998).
 
 #### (4) Eligible recipient
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible recipient” means—
+&emsp;&emsp;The term "eligible recipient" means—
 
 &emsp;&emsp;&emsp;(i) an economic development district;
 
@@ -44,23 +44,23 @@ In this chapter:
 
 #### (B) Training, research, and technical assistance grants
 
-&emsp;&emsp;In the case of grants under section 3147 of this title, the term “eligible recipient” also includes private individuals and for-profit organizations.
+&emsp;&emsp;In the case of grants under section 3147 of this title, the term "eligible recipient" also includes private individuals and for-profit organizations.
 
 #### (5) Federal agency
 
-&emsp;The term “Federal agency” means a department, agency, or instrumentality of the United States.
+&emsp;The term "Federal agency" means a department, agency, or instrumentality of the United States.
 
 #### (6) Grant
 
-&emsp;The term “grant” includes a cooperative agreement (within the meaning of chapter 63 of title 31).
+&emsp;The term "grant" includes a cooperative agreement (within the meaning of chapter 63 of title 31).
 
 #### (7) Indian tribe
 
-&emsp;The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term "Indian tribe" means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (8) Regional Commissions
 
-&emsp;The term “Regional Commissions” means—
+&emsp;The term "Regional Commissions" means—
 
 &emsp;&emsp;(A) the Appalachian Regional Commission established under chapter 143 of title 40;
 
@@ -72,19 +72,19 @@ In this chapter:
 
 #### (9) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Commerce.
+&emsp;The term "Secretary" means the Secretary of Commerce.
 
 #### (10) State
 
-&emsp;The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+&emsp;The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the MarshallIslands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (11) United States
 
-&emsp;The term “United States” means all of the States.
+&emsp;The term "United States" means all of the States.
 
 #### (12) University center
 
-&emsp;The term “university center” means an institution of higher education or a consortium of institutions of higher education established as a University Center for Economic Development under section 3147(a)(2)(D) of this title.
+&emsp;The term "university center" means an institution of higher education or a consortium of institutions of higher education established as a University Center for Economic Development under section 3147(a)(2)(D) of this title.
 
 (Pub. L. 89–136, §3, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3599; amended Pub. L. 108–373, title I, §102, Oct. 27, 2004, 118 Stat. 1758.)
 
@@ -94,7 +94,7 @@ Section 3173 of this title (as in effect on the day before the effective date of
 
 The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in par. (8)(B), (D), is title III of Pub. L.87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitles F and G of the Act are classified generally to subchapters VI (§2009aa et seq.) and VII (§2009bb et seq.), respectively, of chapter 50 of Title 7, Agriculture. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in par. (8)(B), (D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitles F and G of the Act are classified generally to subchapters VI (§2009aa et seq.) and VII (§2009bb et seq.), respectively, of chapter 50 of Title 7, Agriculture. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 The Denali Commission Act of 1998, referred to in par. (8)(C), is title III of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681-637, which is set out as a note under section 3121 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -104,7 +104,7 @@ A prior section 3122, Pub. L. 91–524, title IX, §901, Nov. 30, 1970, 84 Stat.
 
 #### Amendments
 
-<b>2004</b>—Par. (4)(A). Pub. L. 108–373, §102(a), redesignated cls. (ii) to (vii) as (i) to (vi), respectively, inserted “, including a special purpose unit of a State or local government engaged in economic or infrastructure development activities,” after “State” in cl. (iv), and struck out cl. (i) which read as follows: “an area described in section 3161(a) of this title;”.
+<b>2004</b>—Par. (4)(A). Pub. L. 108–373, §102(a), redesignated cls. (ii) to (vii) as (i) to (vi), respectively, inserted ", including a special purpose unit of a State or local government engaged in economic or infrastructure development activities," after "State" in cl. (iv), and struck out cl. (i) which read as follows: "an area described in section 3161(a) of this title;".
 
 Pars. (8) to (12). Pub. L. 108–373, §102(b), added pars. (8) and (12) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 

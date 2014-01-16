@@ -62,7 +62,7 @@ Selection by contracting officer.—
 
 &emsp;&emsp;(A)
 
-Number of offerors selected and what is to be evaluated.—The contracting officer selects as the most highly qualifiedthe number of offerors specified in the solicitation to provide the property or services under the contract and requests the selected offerors to submit phase-two competitive proposals that include technical proposals and cost or price information. Each solicitation establishes with respect to phase two—
+Number of offerors selected and what is to be evaluated.—The contracting officer selects as the most highly qualified the number of offerors specified in the solicitation to provide the property or services under the contract and requests the selected offerors to submit phase-two competitive proposals that include technical proposals and cost or price information. Each solicitation establishes with respect to phase two—
 
 &emsp;&emsp;&emsp;(i) the technical submission for the proposal, including design concepts or proposed solutions to requirements addressed within the scope of work, or both; and
 
@@ -108,7 +108,7 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title III, §303M, as added Pub. L. 104–106, div. D, title XLI, §4105(b)(1), Feb. 10, 1996, 110 Stat. 647.
 
-In subsections (a) and (c)(1), the words “sections 1101 to 1104 of title 40” are substituted for “the Brooks Architect-Engineers Act (title IX of this Act)” and “the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.)”, respectively, because of section 5(c) of Public Law 107–217 (40 U.S.C. note prec. 101) and for consistency with title 40.
+In subsections (a) and (c)(1), the words "sections 1101 to 1104 of title 40" are substituted for "the Brooks Architect-Engineers Act (title IX of this Act)" and "the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.)", respectively, because of section 5(c) of Public Law 107–217 (40 U.S.C. note prec. 101) and for consistency with title 40.
 
 In subsection (c)(5), the reference to section 253b of this title is limited to chapter 37 of the revised title for clarity.
 

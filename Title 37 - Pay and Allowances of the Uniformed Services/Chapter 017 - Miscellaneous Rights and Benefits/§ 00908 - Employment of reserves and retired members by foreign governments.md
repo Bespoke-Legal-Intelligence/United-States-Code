@@ -2,7 +2,7 @@
 
 (a)
 
-Congressional Consent.—Subject to subsection (b), Congress consents to the followingpersons accepting civil employment (and compensation for that employment) for which the consent of Congress is required by the last paragraph of section 9 of article I of the Constitution, related to acceptance of emoluments, offices, or titles from a foreign government:
+Congressional Consent.—Subject to subsection (b), Congress consents to the following persons accepting civil employment (and compensation for that employment) for which the consent of Congress is required by the last paragraph of section 9 of article I of the Constitution, related to acceptance of emoluments, offices, or titles from a foreign government:
 
 &emsp;(1) Retired members of the uniformed services.
 
@@ -34,17 +34,17 @@ Historical and Revision Notes
 
 Aug. 17, 1977, Pub. L. 95–105, §509(a)–(c), 91 Stat. 859.
 
-In subsection (a), the words “for which” are substituted for “with respect to which” for clarity.
+In subsection (a), the words "for which" are substituted for "with respect to which" for clarity.
 
 The text of section 509(c) of the Act of August 17, 1977, is omitted as unnecessary because of the definitions in 37:101.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted “1060” for “1058”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted "1060" for "1058".
 
 <b>1993</b>—Pub. L. 103–160 inserted headings in subsecs. (a) and (b) and added subsec. (c).
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–25 struck out "of this section" after "subsection (b)".
 
-Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)".
 

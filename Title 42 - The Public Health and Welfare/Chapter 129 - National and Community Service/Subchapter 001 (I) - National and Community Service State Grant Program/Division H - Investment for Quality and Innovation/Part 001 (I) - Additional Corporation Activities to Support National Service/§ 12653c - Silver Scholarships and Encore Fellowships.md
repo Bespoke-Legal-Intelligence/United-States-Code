@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) is age 55 or older as of the time the individual applies for the program; and
 
-&emsp;&emsp;&emsp;&emsp;(II) is not engaged in, but who wishes to engage in, full- or part-time public service in the nonprofit sector or government; and
+&emsp;&emsp;&emsp;&emsp;(II) is not engaged in, but who wishes to engage in, full- or part-time publicservice in the nonprofit sector or government; and
 
 &emsp;&emsp;&emsp;(ii) submit an application to the Corporation, at such time, in such manner, and containing such information as the Corporation may require, including—
 
@@ -156,7 +156,7 @@
 
 #### (8) Leadership development
 
-&emsp;Each year, the Corporation shall convene current and former Encore Fellows to discussthe Encore Fellows’ experiences related to service under this subsection and discuss strategies for increasing leadership and careers in public service in the nonprofit sector or government.
+&emsp;Each year, the Corporation shall convene current and former Encore Fellows to discuss the Encore Fellows' experiences related to service under this subsection and discuss strategies for increasing leadership and careers in public service in the nonprofit sector or government.
 
 #### (c) Evaluations
 

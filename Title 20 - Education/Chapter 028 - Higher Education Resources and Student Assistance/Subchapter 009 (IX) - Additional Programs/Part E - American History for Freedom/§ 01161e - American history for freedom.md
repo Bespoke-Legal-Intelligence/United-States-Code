@@ -16,15 +16,15 @@ In this section:
 
 #### (1) Eligible institution
 
-&emsp;The term “eligible institution” means an institution of higher education as defined in section 1001 of this title.
+&emsp;The term "eligible institution" means an institution of higher education as defined in section 1001 of this title.
 
 #### (2) Free institution
 
-&emsp;The term “free institution” means an institution that emerged out of Western civilization, such as democracy, constitutional government, individual rights, market economics, religious freedom and religious tolerance, and freedom of thought and inquiry.
+&emsp;The term "free institution" means an institution that emerged out of Western civilization, such as democracy, constitutional government, individual rights, market economics, religious freedom and religious tolerance, and freedom of thought and inquiry.
 
 #### (3) Traditional American history
 
-&emsp;The term “traditional American history” means—
+&emsp;The term "traditional American history" means—
 
 &emsp;&emsp;(A) the significant constitutional, political, intellectual, economic, and foreign policy trends and issues that have shaped the course of American history; and
 

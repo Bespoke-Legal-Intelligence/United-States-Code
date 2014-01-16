@@ -2,19 +2,19 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) the term “Alaska Native” has the meaning given the term “Native” in section 1602 of title 43;
+&emsp;(1) the term "Alaska Native" has the meaning given the term "Native" in section 1602 of title 43;
 
-&emsp;(2) the term “infant or toddler with a disability” has the meaning given the term in section 1432 of title 20;
+&emsp;(2) the term "infant or toddler with a disability" has the meaning given the term in section 1432 of title 20;
 
-&emsp;(3) the term “Native Hawaiian” has the meaning given the term in section 7517 of title 20;
+&emsp;(3) the term "Native Hawaiian" has the meaning given the term in section 7517 of title 20;
 
-&emsp;(4) the term “sexual abuse” includes—
+&emsp;(4) the term "sexual abuse" includes—
 
 &emsp;&emsp;(A) the employment, use, persuasion, inducement, enticement, or coercion of any child to engage in, or assist any other person to engage in, any sexually explicit conduct or simulation of such conduct for the purpose of producing a visual depiction of such conduct; or
 
 &emsp;&emsp;(B) the rape, and in cases of caretaker or inter-familial relationships, statutory rape, molestation, prostitution, or other form of sexual exploitation of children, or incest with children; and
 
-&emsp;(5) the term “withholding of medically indicated treatment” means the failure to respond to the infant's life-threatening conditions by providing treatment (including appropriate nutrition, hydration, and medication) which, in the treating physician's or physicians’ reasonable medical judgment, will be most likely to be effective in ameliorating or correcting all such conditions, except that the term does not include the failure to provide treatment (other than appropriate nutrition, hydration, or medication) to an infant when, in the treating physician's or physicians’ reasonable medical judgment—
+&emsp;(5) the term "withholding of medically indicated treatment" means the failure to respondto the infant's life-threatening conditions by providing treatment (including appropriate nutrition, hydration, and medication) which, in the treating physician's or physicians' reasonable medical judgment, will be most likely to be effective in ameliorating or correcting all such conditions, except that the term does not include the failure to provide treatment (other than appropriate nutrition, hydration, or medication) to an infant when, in the treating physician's or physicians' reasonable medical judgment—
 
 &emsp;&emsp;(A) the infant is chronically and irreversibly comatose;
 
@@ -26,7 +26,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(iii) otherwise be futile in terms of the survival of the infant; or
 
-&emsp;&emsp;(C) the provision of such treatment would be virtually futile in terms of the survival ofthe infant and the treatment itself under such circumstances would be inhumane; <sup>1</sup>
+&emsp;&emsp;(C) the provision of such treatment would be virtually futile in terms of the survival of the infant and the treatment itself under such circumstances would be inhumane; <sup>1</sup>
 
 (Pub. L. 93–247, title I, §111, formerly §14, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 116; renumbered title I, §113, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(7), Oct. 25, 1989, 103 Stat. 764, 765; renumbered §111 and amended Pub. L. 104–235, title I, §§110, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079; Pub. L. 111–320, title I, §§119, 142(b), Dec. 20, 2010, 124 Stat. 3477, 3483.)
 
@@ -38,21 +38,21 @@ A prior section 111 of Pub. L. 93–247 was renumbered section 109 and is classi
 
 <b>2010</b>—Pars. (1), (2). Pub. L. 111–320, §142(b)(1), (2), redesignated pars. (7) and (8) as (1) and (2), respectively, and struck out former pars. (1) and (2) which read as follows:
 
-“(1) the term ‘child’ means a person who has not attained the lesser of—
+"(1) the term 'child' means a person who has not attained the lesser of—
 
-&emsp;“(A) the age of 18; or
+&emsp;"(A) the age of 18; or
 
-&emsp;“(B) except in the case of sexual abuse, the age specified by the child protection law of the State in which the child resides;
+&emsp;"(B) except in the case of sexual abuse, the age specified by the child protection law of the State in which the child resides;
 
-“(2) the term ‘child abuse and neglect’ means, at a minimum, any recent act or failure to act on the part of a parent or caretaker, which results in death, serious physical or emotional harm, sexual abuse or exploitation, or an act or failure to act which presents an imminent risk of serious harm;”.
+"(2) the term 'child abuse and neglect' means, at a minimum, any recent act or failure to act on the part of a parent or caretaker, which results in death, serious physical or emotional harm, sexual abuse or exploitation, or an act or failure to act which presents an imminent risk of serious harm;".
 
-Par. (3). Pub. L. 111–320, §142(b)(1)–(3), redesignated par. (10) as (3), struck out “and” at end, and struck out former par. (3) which read as follows: “the term ‘Secretary’ means the Secretary of Health and Human Services;”.
+Par. (3). Pub. L. 111–320, §142(b)(1)–(3), redesignated par. (10) as (3), struck out "and" at end, and struck out former par. (3) which read as follows: "the term 'Secretary' means the Secretary of Health and Human Services;".
 
-Par. (4)(B). Pub. L. 111–320, §142(b)(4), inserted “and” after semicolon at end.
+Par. (4)(B). Pub. L. 111–320, §142(b)(4), inserted "and" after semicolon at end.
 
-Par. (5). Pub. L. 111–320, §142(b)(1), (5), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “except as provided in section 5106a(f) of this title, the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands,;”.
+Par. (5). Pub. L. 111–320, §142(b)(1), (5), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "except as provided in section 5106a(f) of this title, the term 'State' means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands,;".
 
-Pub. L. 111–320, §119(1), inserted “except as provided in section 5106a(f) of this title,” after “(5)”, inserted “and” after “Samoa,”, and struck out “and the Trust Territory of the Pacific Islands” after “Northern Mariana Islands,”.
+Pub. L. 111–320, §119(1), inserted "except as provided in section 5106a(f) of this title," after "(5)", inserted "and" after "Samoa,", and struck out "and the Trust Territory of the Pacific Islands" after "Northern Mariana Islands,".
 
 Par. (6). Pub. L. 111–320, §142(b)(5), redesignated par. (6) as (5).
 
@@ -60,33 +60,33 @@ Par. (6)(C). Pub. L. 111–320, §119(2), substituted a semicolon for period at 
 
 Pars. (7) to (11). Pub. L. 111–320, §142(b)(1), (2), redesignated pars. (7), (8), and (10) as (1), (2), and (3), respectively, and struck out pars. (9) and (11) which read as follows:
 
-“(9) the terms ‘Indian’, ‘Indian tribe’, and ‘tribal organization’ have the meanings given the terms in section 450b of title 25;”
+"(9) the terms 'Indian', 'Indian tribe', and 'tribal organization' have the meanings given the terms in section 450b of title 25;"
 
-“(11) the term ‘unaccompanied homeless youth’ means an individual who is described in paragraphs (2) and (6) of section 11434a of this title.”
+"(11) the term 'unaccompanied homeless youth' means an individual who is described in paragraphs (2) and (6) of section 11434a of this title."
 
 Pub. L. 111–320, §119(3), added pars. (7) to (11).
 
-<b>1996</b>—Par. (1). Pub. L. 104–235, §110(1), (2)(A), redesignated par. (3) as (1) and struck out former par. (1) which read as follows: “the term ‘board’ means the Advisory Board on Child Abuse and Neglect established under section 5102 of this title;”.
+<b>1996</b>—Par. (1). Pub. L. 104–235, §110(1), (2)(A), redesignated par. (3) as (1) and struck out former par. (1) which read as follows: "the term 'board' means the Advisory Board on Child Abuse and Neglect established under section 5102 of this title;".
 
-Par. (2). Pub. L. 104–235, §110(2)(A), (3), redesignated par. (4) as (2) and amended it generally. Prior to amendment, par. (2) read as follows: “the term ‘child abuse and neglect’ means the physical or mental injury, sexual abuse or exploitation, negligent treatment, or maltreatment of a child by a person who is responsible for the child's welfare, under circumstances which indicate that the child's health or welfare is harmed or threatened thereby, as determined in accordance with regulations prescribed by the Secretary;”.
+Par. (2). Pub. L. 104–235, §110(2)(A), (3), redesignated par. (4) as (2) and amended it generally. Prior to amendment, par. (2) read as follows: "the term 'child abuse and neglect' means the physical or mental injury, sexual abuse or exploitation, negligent treatment, or maltreatment of a child by a person who is responsible for the child's welfare, under circumstances which indicate that the child's health or welfare is harmed or threatened thereby, as determined in accordance with regulations prescribed by the Secretary;".
 
-Pub. L. 104–235, §110(1) struck out par. (2) which read as follows: “the term ‘Center’ means the National Center on Child Abuse and Neglect established under section 5101 of this title;”.
+Pub. L. 104–235, §110(1) struck out par. (2) which read as follows: "the term 'Center' means the National Center on Child Abuse and Neglect established under section 5101 of this title;".
 
 Par. (3). Pub. L. 104–235, §110(2)(A), redesignated par. (6) as (3). Former par. (3) redesignated (1).
 
-Par. (4). Pub. L. 104–235, §110(2)(A), (4), redesignated par. (7) as (4) and in subpar. (B) inserted “, and in cases of caretaker or inter-familial relationships, statutory rape” after “rape”. Former par. (4) redesignated (2).
+Par. (4). Pub. L. 104–235, §110(2)(A), (4), redesignated par. (7) as (4) and in subpar. (B) inserted ", and in cases of caretaker or inter-familial relationships, statutory rape" after "rape". Former par. (4) redesignated (2).
 
-Par. (5). Pub. L. 104–235, §110(1), (2)(A), redesignated par. (8) as (5) and struck out former par. (5) which read as follows: “the term ‘person who is responsible for the child's welfare’ includes—
+Par. (5). Pub. L. 104–235, §110(1), (2)(A), redesignated par. (8) as (5) and struck out former par. (5) which read as follows: "the term 'person who is responsible for the child's welfare' includes—
 
-&emsp;“(A) any employee of a residential facility; and
+&emsp;"(A) any employee of a residential facility; and
 
-&emsp;“(B) any staff person providing out-of-home care;”.
+&emsp;"(B) any staff person providing out-of-home care;".
 
 Par. (6). Pub. L. 104–235, §110(2)(B), redesignated par. (10) as (6). Former par. (6) redesignated (3).
 
 Pars. (7), (8). Pub. L. 104–235, §110(2)(A), redesignated pars. (7) and (8) as (4) and (5), respectively.
 
-Par. (9). Pub. L. 104–235, §110(1), struck out par. (9) which read as follows: “the term ‘task force’ means the Inter-Agency Task Force on Child Abuse and Neglect established under section 5103 of this title; and”.
+Par. (9). Pub. L. 104–235, §110(1), struck out par. (9) which read as follows: "the term 'task force' means the Inter-Agency Task Force on Child Abuse and Neglect established under section 5103 of this title; and".
 
 Par. (10). Pub. L. 104–235, §110(2)(B), redesignated par. (10) as (6).
 

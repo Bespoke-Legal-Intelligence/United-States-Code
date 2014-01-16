@@ -22,7 +22,7 @@ Integration Council.—(1) The Under Secretary of Defense for Intelligence shall
 
 (b) ISR
 
-Integration Roadmap.—(1) The Under Secretary of Defense for Intelligence shall develop a comprehensive plan, to be known as the “Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap”, to guide the development and integration of the Department of Defense intelligence, surveillance, and reconnaissance capabilities for the 15-year period of fiscal years 2004 through 2018.
+Integration Roadmap.—(1) The Under Secretary of Defense for Intelligence shall develop a comprehensive plan, to be known as the "Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap", to guide the development and integration of the Department of Defense intelligence, surveillance, and reconnaissance capabilities for the 15-year period of fiscal years 2004 through 2018.
 
 (2) The Under Secretary shall develop the Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap in consultation with the Intelligence, Surveillance, and Reconnaissance Integration Council and the Director of National Intelligence.
 
@@ -32,29 +32,29 @@ Integration Roadmap.—(1) The Under Secretary of Defense for Intelligence shall
 
 <b>2011</b>—Subsec. (a)(4). Pub. L. 111–383 added par. (4).
 
-<b>2008</b>—Subsecs. (a)(3), (b)(2). Pub. L. 110–181 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2008</b>—Subsecs. (a)(3), (b)(2). Pub. L. 110–181 substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
-<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–364 substituted “coordination” for “coordiation”.
+<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–364 substituted "coordination" for "coordiation".
 
 #### Integration of Defense Intelligence, Surveillance, and Reconnaissance Capabilities
 
 Pub. L. 108–136, div. A, title IX, §923(a), (b), Nov. 24, 2003, 117 Stat. 1574, 1575, as amended by Pub. L. 111–383, div. A, title IX, §922(a), Jan. 7, 2011, 124 Stat. 4330, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress makes the following findings:
 
-&emsp;“(1) As part of transformation efforts within the Department of Defense, each of the Armed Forces is developing intelligence, surveillance, and reconnaissance capabilities that best support future war fighting as envisioned by the leadership of the military department concerned.
+&emsp;"(1) As part of transformation efforts within the Department of Defense, each of the Armed Forces is developing intelligence, surveillance, and reconnaissance capabilities that best support future war fighting as envisioned by the leadership of the military department concerned.
 
-&emsp;“(2) Concurrently, intelligence agencies of the Department of Defense outside the military departments are developing transformation roadmaps to best support the future decisionmaking and war fighting needs of their principal customers, but are not always closely coordinating those efforts with the intelligence, surveillance, and reconnaissance development efforts of the military departments.
+&emsp;"(2) Concurrently, intelligence agencies of the Department of Defense outside the military departments are developing transformation roadmaps to best support the future decisionmaking and war fighting needs of their principal customers, but arenot always closely coordinating those efforts with the intelligence, surveillance, and reconnaissance development efforts of the military departments.
 
-&emsp;“(3) A senior official of each military department has been designated as the integrator of intelligence, surveillance, and reconnaissance for each of the Armed Forces in such military department, but there is not currently a well-defined forum through which the integrators of intelligence, surveillance, and reconnaissance capabilities for each of the Armed Forces can routinely interact with each other and with senior representatives of Department of Defense intelligence agencies, as well as with other members of the intelligence community, to ensure unity of effort and to preclude unnecessary duplication of effort.
+&emsp;"(3) A senior official of each military department has been designated as the integrator of intelligence, surveillance, and reconnaissance for each of the Armed Forces in such military department, but there is not currently a well-defined forum through which the integrators of intelligence, surveillance, and reconnaissance capabilities for each of the Armed Forces can routinely interact with each other and with senior representatives of Department of Defense intelligence agencies, as well as with other members of the intelligence community, to ensure unity of effort and to preclude unnecessary duplication of effort.
 
-&emsp;“(4) The current funding structure of a National Intelligence Program (NIP) and a Military Intelligence Program (MIP) may not be the best approach for supporting the development of an intelligence, surveillance, and reconnaissance structure that is integrated to meet the national security requirements of the United States in the 21st century.
+&emsp;"(4) The current funding structure of a National Intelligence Program (NIP) and a Military Intelligence Program (MIP) may not be the best approach for supporting the development of an intelligence, surveillance, and reconnaissance structure that is integrated to meet the national security requirements of the United States in the 21st century.
 
-&emsp;“(5) The position of Under Secretary of Defense for Intelligence was established in 2002 by Public Law 107–314 \[see 10 U.S.C. 137\] in order to facilitate resolution of the challenges to achieving an integrated intelligence, surveillance, and reconnaissance structure in the Department of Defense to meet such 21st century requirements.
+&emsp;"(5) The position of Under Secretary of Defense for Intelligence was established in 2002 by Public Law 107–314 \[see 10 U.S.C. 137\] in order to facilitate resolution of the challenges to achieving an integrated intelligence, surveillance, and reconnaissance structure in the Department of Defense to meet such 21st century requirements.
 
-“(b)
+"(b)
 
-Goal.—It shall be a goal of the Department of Defense to fully integrate the intelligence, surveillance, and reconnaissance capabilities and coordinate the developmental activities of the military departments, intelligence agencies of the Department of Defense, and relevant combatant commands as those departments, agencies, and commands transform their intelligence, surveillance, and reconnaissance systems to meet current and future needs.”
+Goal.—It shall be a goal of the Department of Defense to fully integrate the intelligence, surveillance, and reconnaissance capabilities and coordinate the developmental activities of the military departments, intelligence agencies of the Department of Defense, and relevant combatant commands as those departments, agencies, and commands transform their intelligence, surveillance, and reconnaissance systems to meet current and future needs."
 

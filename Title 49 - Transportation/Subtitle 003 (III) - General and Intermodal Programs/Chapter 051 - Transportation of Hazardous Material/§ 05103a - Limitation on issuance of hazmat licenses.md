@@ -10,7 +10,7 @@ Issuance of licenses.—A State may not issue to any individual a license to ope
 
 &emsp;(2)
 
-Renewals included.—For the purposes of this section, the term “issue”, with respect to a license, includes renewal of the license.
+Renewals included.—For the purposes of this section, the term "issue", with respect to a license, includes renewal of the license.
 
 (b)
 
@@ -52,7 +52,7 @@ Reporting Requirement.—Each State shall submit to the Secretary of Homeland Se
 
 (f)
 
-Alien Defined.—In this section, the term “alien” has the meaning given the term in section 101(a)(3) of the Immigration and Nationality Act.
+Alien Defined.—In this section, the term "alien" has the meaning given the term in section 101(a)(3) of the Immigration and Nationality Act.
 
 (g)
 
@@ -102,7 +102,7 @@ Appeals process for more stringent state procedures.—If a State establishes it
 
 &emsp;(3)
 
-Clarification of term defined in regulations.—The term “transportation security incident”, as defined in part 1572 of title 49, Code of Federal Regulations, does not include a work stoppage or other nonviolent employee-related action resulting from an employer-employee dispute. Not later than 30 days after the date of enactment of this subsection, the Director shall modify the definition of that term to reflect the preceding sentence.
+Clarification of term defined in regulations.—The term "transportation security incident", as defined in part 1572 of title 49, Code of Federal Regulations, does not include a work stoppage or other nonviolent employee-related action resulting from an employer-employee dispute. Not later than 30 days after the date of enactment of this subsection, the Director shall modify the definition of that term to reflect the preceding sentence.
 
 &emsp;(4)
 
@@ -138,7 +138,7 @@ Extension.—The Director of the Transportation Security Administration may exte
 
 &emsp;(3)
 
-Commercial motor vehicle defined.—In this subsection, the term “commercial motor vehicle” has the meaning given that term by section 31101.
+Commercial motor vehicle defined.—In this subsection, the term "commercial motor vehicle" has the meaning given that term by section 31101.
 
 (Added Pub. L. 107–56, title X, §1012(a)(1), Oct. 26, 2001, 115 Stat. 396; amended Pub. L. 109–59, title VII, §§7104, 7105, 7126, Aug. 10, 2005, 119 Stat. 1894, 1909; Pub. L. 110–53, title XV, §1556(a), Aug. 3, 2007, 121 Stat. 475; Pub. L. 110–244, title III, §302(b), June 6, 2008, 122 Stat. 1618.)
 
@@ -150,33 +150,33 @@ The date of enactment of this subsection, referred to in subsecs. (g) and (h), i
 
 #### Amendments
 
-<b>2008</b>—Subsec. (g)(1)(B)(ii). Pub. L. 110–244 substituted “subsection” for “Act”.
+<b>2008</b>—Subsec. (g)(1)(B)(ii). Pub. L. 110–244 substituted "subsection" for "Act".
 
-<b>2007</b>—Subsec. (a)(1). Pub. L. 110–53, §1556(a)(1), substituted “Secretary of Homeland Security” for “Secretary”.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–53, §1556(a)(1), substituted "Secretary of Homeland Security" for "Secretary".
 
-Subsec. (b). Pub. L. 110–53, §1556(a)(2), substituted “Secretary of Transportation” for “Secretary” in two places.
+Subsec. (b). Pub. L. 110–53, §1556(a)(2), substituted "Secretary of Transportation" for "Secretary" in two places.
 
-Subsec. (d)(1)(B). Pub. L. 110–53, §1556(a)(3), substituted “Secretary of Homeland Security” for “Secretary”.
+Subsec. (d)(1)(B). Pub. L. 110–53, §1556(a)(3), substituted "Secretary of Homeland Security" for "Secretary".
 
-Subsec. (e). Pub. L. 110–53, §1556(a)(4), substituted “Secretary of Homeland Security” for “Secretary” wherever appearing.
+Subsec. (e). Pub. L. 110–53, §1556(a)(4), substituted "Secretary of Homeland Security" for "Secretary" wherever appearing.
 
-<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §7126, substituted "Secretary" for "Secretary of Transportation".
 
-Pub. L. 109–59, §7104(c), substituted “subsection (d)(1)(B),” for “subsection (c)(1)(B),”.
+Pub. L. 109–59, §7104(c), substituted "subsection (d)(1)(B)," for "subsection (c)(1)(B),".
 
-Subsec. (b). Pub. L. 109–59, §7104(a), substituted “with respect to any material defined as hazardous material by the Secretary for which the Secretary requires placarding of a commercial motor vehicle transporting that material in commerce” for “with respect to—
+Subsec. (b). Pub. L. 109–59, §7104(a), substituted "with respect to any material defined as hazardous material by the Secretary for which the Secretary requires placarding of a commercial motor vehicle transporting that material in commerce" for "with respect to—
 
-&emsp;“(1) any material defined as a hazardous material by the Secretary of Transportation; and
+&emsp;"(1) any material defined as a hazardous material by the Secretary of Transportation; and
 
-&emsp;“(2) any chemical or biological material or agent determined by the Secretary of Health and Human Services or the Attorney General as being a threat to the national security of the United States”.
+&emsp;"(2) any chemical or biological material or agent determined by the Secretary of Health and Human Services or the Attorney General as being a threat to the national security of the United States".
 
 Subsec. (c). Pub. L. 109–59, §7104(b)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 109–59, §7104(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1)(B). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
+Subsec. (d)(1)(B). Pub. L. 109–59, §7126, substituted "Secretary" for "Secretary of Transportation".
 
-Subsec. (e). Pub. L. 109–59, §7126, substituted “submit to the Secretary” for “submit to the Secretary of Transportation” in introductory provisions.
+Subsec. (e). Pub. L. 109–59, §7126, substituted "submit to the Secretary" for "submit to the Secretary of Transportation" in introductory provisions.
 
 Pub. L. 109–59, §7104(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
@@ -186,7 +186,7 @@ Subsecs. (g), (h). Pub. L. 109–59, §7105, added subsecs. (g) and (h).
 
 #### Authorization of Appropriations
 
-Pub. L. 107–56, title X, §1012(c), Oct. 26, 2001, 115 Stat. 398, provided that: “There is authorized to be appropriated for the Department of Transportation and the Department of Justice such amounts as may be necessary to carry out section 5103a of title 49, United States Code, as added by subsection (a).”
+Pub. L. 107–56, title X, §1012(c), Oct. 26, 2001, 115 Stat. 398, provided that: "There is authorized to be appropriated for the Department of Transportation and the Department of Justice such amounts as may be necessary to carry out section 5103a of title 49, United States Code, as added by subsection (a)."
 
-<i><sup>1</sup></i><i> So in original. Comma probably should appear after “applicant”.</i>
+<i><sup>1</sup></i><i> So in original. Comma probably should appear after "applicant".</i>
 

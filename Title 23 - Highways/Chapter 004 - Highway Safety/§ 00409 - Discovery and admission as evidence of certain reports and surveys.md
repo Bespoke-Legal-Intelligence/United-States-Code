@@ -6,11 +6,11 @@ Notwithstanding any other provision of law, reports, surveys, schedules, lists, 
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–59 substituted “148” for “152”.
+<b>2005</b>—Pub. L. 109–59 substituted "148" for "152".
 
-<b>1995</b>—Pub. L. 104–59 inserted “or collected” after “data compiled”.
+<b>1995</b>—Pub. L. 104–59 inserted "or collected" after "data compiled".
 
-<b>1991</b>—Pub. L. 102–240 substituted “Discovery and admission” for “Admission” in section catchline and “subject to discovery or admitted into evidence in a Federal or State court proceeding” for “admitted into evidence in Federal or State court” in text.
+<b>1991</b>—Pub. L. 102–240 substituted "Discovery and admission" for "Admission" in section catchline and "subject to discovery or admitted into evidence in a Federal or State court proceeding" for "admitted into evidence in Federal or State court" in text.
 
 #### Effective Date of 1991 Amendment
 

@@ -44,5 +44,5 @@ Section was enacted as part of the Federal Housing Finance Regulatory Reform Act
 
 For definitions of terms used in this section, see section 1002(b) of Pub. L. 110–289, set out as a note under section 4511 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

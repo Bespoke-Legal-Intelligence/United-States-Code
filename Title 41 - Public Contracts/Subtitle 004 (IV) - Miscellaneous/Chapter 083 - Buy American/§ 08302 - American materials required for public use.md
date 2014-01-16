@@ -44,11 +44,11 @@ Contents of report.—The report required by paragraph (1) shall separately incl
 
 &emsp;(3)
 
-Public availability.—The head of each Federal agency submitting a report under paragraph (1) shall make the report publicly available to the maximum extent practicable.
+Public availability.—The head of each Federal agency submitting a report underparagraph (1) shall make the report publicly available to the maximum extent practicable.
 
 &emsp;(4)
 
-Exception for intelligence community.—This subsection shall not apply to acquisitions made by an agency, or component of an agency, that is an element of the intelligence community as specified in, or designated under, section 3 of the National Security Act of 1947 (50 U.S.C. 401a).
+Exception for intelligence community.—This subsection shall not apply to acquisitions made by an agency, or component of an agency, that is an element of the intelligence community as specified in, or designated under, section 3 of the National Security Act of 1947 (50 U.S.C. 401a).<sup>1</sup>
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3831.)
 
@@ -68,7 +68,13 @@ Historical and Revision Notes
 
 Mar. 3, 1933, ch. 212, title III, §2, 47 Stat. 1520; Pub. L. 100–418, title VII, §7005(b), Aug. 23, 1988, 102 Stat. 1553; Pub. L. 103–355, title IV, §4301(b), Oct. 13, 1994, 108 Stat. 3347; Pub. L. 110–28 title VIII, §8306, May 25, 2007, 121 Stat. 211.
 
-In subsection (a), the words “Notwithstanding any other provision of law” are omitted as unnecessary.
+In subsection (a), the words "Notwithstanding any other provision of law" are omitted as unnecessary.
 
 In subsection (b)(1), reference to fiscal years 2007 and 2008 is omitted as obsolete.
+
+#### References in Text
+
+The National Security Act of 1947, referred to in subsec. (b)(4), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 3 of the Act is now classified to section 3003 of Title 50. For complete classification of this Act to the Code, see Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

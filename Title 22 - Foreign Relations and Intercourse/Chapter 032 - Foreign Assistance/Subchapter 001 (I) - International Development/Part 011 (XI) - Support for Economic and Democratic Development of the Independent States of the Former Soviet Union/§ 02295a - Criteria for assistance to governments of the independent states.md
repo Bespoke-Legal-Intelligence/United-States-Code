@@ -6,7 +6,7 @@ In providing assistance under this part for the government of any independent st
 
 &emsp;(1) make significant progress toward, and is committed to the comprehensive implementation of, a democratic system based on principles of the rule of law, individual freedoms, and representative government determined by free and fair elections;
 
-&emsp;(2) make significant progress in, and is committed to the comprehensive implementation of, economic reform based on market principles, private ownership, and integration intothe world economy, including implementation of the legal and policy frameworks necessary for such reform (including protection of intellectual property and respect for contracts);
+&emsp;(2) make significant progress in, and is committed to the comprehensive implementation of, economic reform based on market principles, private ownership, and integration into the world economy, including implementation of the legal and policy frameworks necessary for such reform (including protection of intellectual property and respect for contracts);
 
 &emsp;(3) respect internationally recognized human rights, including the rights of minorities and the rights to freedom of religion and emigration;
 
@@ -72,7 +72,7 @@ Assistance prohibited by subsection (b) of this section or any similar provision
 
 #### (1) Reduction in assistance
 
-&emsp;Notwithstanding any other provision of law, the President shall withhold from assistance provided, on or after March 12, 1996, for anindependent state of the former Soviet Union under this chapter an amount equal to the sum of assistance and credits, if any, provided on or after March 12, 1996, by such state in support of intelligence facilities in Cuba, including the intelligence facility at Lourdes, Cuba.
+&emsp;Notwithstanding any other provision of law, the President shall withhold from assistance provided, on or after March 12, 1996, for an independent state of the former Soviet Union under this chapter an amount equal to the sum of assistance and credits, if any, provided on or after March 12, 1996, by such state in support of intelligence facilities in Cuba, including the intelligence facility at Lourdes, Cuba.
 
 #### (2) Waiver
 
@@ -82,7 +82,7 @@ Assistance prohibited by subsection (b) of this section or any similar provision
 
 &emsp;(C) The report required by subparagraph (B) may be submitted in classified form.
 
-&emsp;(D) For purposes of this paragraph, the term “appropriate congressional committees” includes the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+&emsp;(D) For purposes of this paragraph, the term "appropriate congressional committees" includes the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
 #### (3) Exceptions to reductions in assistance
 
@@ -106,13 +106,13 @@ Assistance prohibited by subsection (b) of this section or any similar provision
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (d)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of thisAct to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Cooperative Threat Reduction Act of 1993, referred to in subsec. (d)(3)(G), is title XII of div. A of Pub. L. 103–160, Nov. 30, 1993, 107 Stat. 1777, which is classified generally to chapter 68A (§5951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5951 of this title and Tables.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(11). Pub. L. 104–114, §106(b), substituted “military and intelligence facilities, including the military and intelligence facilities at Lourdes and Cienfuegos” for “of military facilities”.
+<b>1996</b>—Subsec. (a)(11). Pub. L. 104–114, §106(b), substituted "military and intelligence facilities, including the military and intelligence facilities at Lourdes and Cienfuegos" for "of military facilities".
 
 Subsec. (b)(5), (6). Pub. L. 104–114, §106(c)(1), added par. (5) and redesignated former par. (5) as (6).
 
@@ -120,7 +120,7 @@ Subsec. (c)(4). Pub. L. 104–114, §106(c)(3), added par. (4).
 
 Subsec. (d). Pub. L. 104–114, §106(d)(2), added subsec. (d).
 
-<b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 substituted “section 2799aa or 2799aa–1” for “section 2429 or 2429a”.
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 substituted "section 2799aa or 2799aa–1" for "section 2429 or 2429a".
 
 #### Change of Name
 
@@ -148,45 +148,45 @@ Functions of President under subsec. (c)(3) of this section and requirement to m
 
 Pub. L. 102–511, title II, §202, Oct. 24, 1992, 106 Stat. 3331, provided that:
 
-“(a)
+"(a)
 
 Prohibition.—Except as provided in subsections (b) and (c), an agency, instrumentality, or other governmental entity of an independent state of the former Soviet Union shall not be eligible to receive assistance under chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\] if—
 
-&emsp;“(1) on the date of enactment of this Act \[Oct. 24, 1992\], there is outstanding a final judgment by acourt of competent jurisdiction in that independent state that that governmental entity is withholding unlawfully books or other documents of religious or historical significance that are the property of United States persons; and
+&emsp;"(1) on the date of enactment of this Act \[Oct. 24, 1992\], there is outstanding a final judgment by a court of competent jurisdiction in that independent state that that governmental entity is withholding unlawfully books or other documents of religious or historical significance that are the property of United States persons; and
 
-&emsp;“(2) within 90 days of a request by such United States persons, the Secretary of State determines that execution of the court's judgment is blocked as the result of extrajudicial causes such as any of the following:
+&emsp;"(2) within 90 days of a request by such United States persons, the Secretary of State determines that execution of the court's judgment is blocked as the result of extrajudicial causes such as any of the following:
 
-&emsp;&emsp;“(A) A declared refusal of the defendant to comply.
+&emsp;&emsp;"(A) A declared refusal of the defendant to comply.
 
-&emsp;&emsp;“(B) The unwillingness or failure of local authorities to enforce compliance.
+&emsp;&emsp;"(B) The unwillingness or failure of local authorities to enforce compliance.
 
-&emsp;&emsp;“(C) The issuance of an administrative decree nullifying a court's judgment or forbidding compliance.
+&emsp;&emsp;"(C) The issuance of an administrative decree nullifying a court's judgment or forbidding compliance.
 
-&emsp;&emsp;“(D) The passage of legislation, after a court's judgment, nullifying that judgment or forbidding compliance with that judgment.
+&emsp;&emsp;"(D) The passage of legislation, after a court's judgment, nullifying that judgment or forbidding compliance with that judgment.
 
-“(b)
+"(b)
 
 Exception for Humanitarian Assistance.—The prohibition contained in subsection (a) shall not apply to the provision of assistance to alleviate suffering resulting from a natural or man-made disaster.
 
-“(c)
+"(c)
 
 Waiver Authority.—The Secretary of State may waive the application of subsection (a) whenever the Secretary finds that—
 
-&emsp;“(1) the court's judgment has been executed; or
+&emsp;"(1) the court's judgment has been executed; or
 
-&emsp;“(2) it is important to the national interest of the United States to do so.
+&emsp;"(2) it is important to the national interest of the United States to do so.
 
-“(d)
+"(d)
 
 Report.—Nine months after the date of enactment of this Act \[Oct. 24, 1992\], the Secretary of State shall report to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate on the status of final judgments described in subsection (a)(1).
 
-“(e)
+"(e)
 
-United States Person.—For purposes of this section, the term ‘United States person’ means—
+United States Person.—For purposes of this section, the term 'United States person' means—
 
-&emsp;“(1) any citizen, national, or permanent resident alien of the United States; and
+&emsp;"(1) any citizen, national, or permanent resident alien of the United States; and
 
-&emsp;“(2) any corporation, partnership, or other juridical entity which is 50 percent or more beneficially owned by individuals described in paragraph (1).”
+&emsp;"(2) any corporation, partnership, or other juridical entity which is 50 percent or more beneficially owned by individuals described in paragraph (1)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Baltic”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Baltic".</i>
 

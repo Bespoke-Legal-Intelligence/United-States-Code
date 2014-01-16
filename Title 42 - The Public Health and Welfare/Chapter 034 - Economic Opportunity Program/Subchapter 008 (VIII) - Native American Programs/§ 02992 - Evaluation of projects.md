@@ -34,11 +34,11 @@ A prior section 2992, Pub. L. 88–452, title VIII, §810, as added Pub. L. 90�
 
 A prior section 811 of Pub. L. 88–452 was renumbered section 812 and is classified to section 2992a of this title.
 
-Another prior section 811 of Pub. L. 88–452, title VIII, as added Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 723; amended Pub. L. 92–424, §26(b), Sept. 19, 1972, 86 Stat. 703, related to terms of service and was classified to section 2992a of this title, prior to repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417.
+Another prior section 811 of Pub. L. 88–452, title VIII, as added Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81Stat. 723; amended Pub. L. 92–424, §26(b), Sept. 19, 1972, 86 Stat. 703, related to terms of service and was classified to section 2992a of this title, prior to repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–375 substituted “Commissioner” for “Secretary”, designated existing provisions as par. (1), and added par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–375 substituted "Commissioner" for "Secretary", designated existing provisions as par. (1), and added par. (2).
 
-Subsecs. (b) to (f). Pub. L. 102–375, §822(11)(A), substituted “Commissioner” for “Secretary” wherever appearing.
+Subsecs. (b) to (f). Pub. L. 102–375, §822(11)(A), substituted "Commissioner" for "Secretary" wherever appearing.
 

@@ -10,15 +10,15 @@ The initial articles of incorporation for each Village Corporation shall be subj
 
 #### (c) Applicability of section 1606
 
-The provisions of subsections (g), (h) (other than paragraph (4)), and (o) of section 1606 of this title shall apply in all respects to Village Corporations, Urban Corporations, and Group Corporations.
+The provisions of subsections (g), (h) (other than paragraph (4)), and (o) of section 1606 of this title shall apply in all respects to VillageCorporations, Urban Corporations, and Group Corporations.
 
 (Pub. L. 92–203, §8, Dec. 18, 1971, 85 Stat. 694; Pub. L. 96–487, title XIV, §1401(b), Dec. 2, 1980, 94 Stat. 2492; Pub. L. 100–241, §6, Feb. 3, 1988, 101 Stat. 1795; Pub. L. 104–10, §1(b), May 18, 1995, 109 Stat. 157.)
 
 #### Amendments
 
-<b>1995</b>—Subsec. (c). Pub. L. 104–10 substituted “(h) (other than paragraph (4))” for “(h)”.
+<b>1995</b>—Subsec. (c). Pub. L. 104–10 substituted "(h) (other than paragraph (4))" for "(h)".
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–241 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The provisions concerning stock alienation, annual audit, and transfer of stock ownership on death or by court decree provided for regional corporations in section 1606 of this title, including the provisions of section 1606(h)(3) of this title shall apply to Village Corporations Urban Corporations and Native Groups; except that audits need not be transmitted to the Committee on Interior and Insular Affairs of the House of Representatives or to the Committee on Energy and Natural Resources of the Senate.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–241 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The provisions concerning stock alienation, annual audit, and transfer of stock ownership on death or by court decree provided for regional corporations in section 1606 of this title, including the provisions of section 1606(h)(3) of this title shall apply to Village Corporations Urban Corporations and Native Groups; except that audits need not be transmitted to the Committee on Interior and Insular Affairs of the House of Representatives or to the Committee on Energy and Natural Resources of the Senate."
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–487 inserted provision making provisions of section 1606 of this title, including section 1606(h)(3) of this title, applicable to Village Corporations, Urban Corporations, and Native Groups and substituted provision that audits need not be transmitted to the Committee on Interior and Insular Affairs of the House of Representatives or the Committee on Energy and Natural Resources of the Senate for provision that audits need not be transmitted to the Committees on Interior and Insular Affairs of the Senate and the House of Representatives.
 

@@ -54,7 +54,7 @@ Exports of medicines or medical supplies, instruments, or equipment to Cuba shal
 
 #### (5) Prohibition on investment in domestic telecommunications services
 
-&emsp;Nothing in this subsection shall be construed to authorize the investment by any United States person in the domestic telecommunications network within Cuba. For purposes of this paragraph, an “investment” in the domestic telecommunications network within Cuba includes the contribution (including by donation) of funds or anything of value to or for, and the making of loans to or for, such network.
+&emsp;Nothing in this subsection shall be construed to authorize the investment by any United States person in the domestic telecommunications network within Cuba. For purposes of this paragraph, an "investment" in the domestic telecommunications network within Cuba includes the contribution (including by donation) of funds or anything of value to or for, and the making of loans to or for, such network.
 
 #### (6) Reports to Congress
 

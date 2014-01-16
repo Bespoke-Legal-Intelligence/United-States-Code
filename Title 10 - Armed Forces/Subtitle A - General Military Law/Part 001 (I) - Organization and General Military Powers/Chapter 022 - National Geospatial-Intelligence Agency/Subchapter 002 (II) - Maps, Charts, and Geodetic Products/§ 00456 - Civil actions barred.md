@@ -12,9 +12,9 @@ Navigational Aids Covered.—Subsection (a) applies with respect to a navigation
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
+<b>2003</b>—Pub. L. 108–136 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" wherever appearing.
 
-<b>1996</b>—Pub. L. 104–201 renumbered section 2798 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” wherever appearing.
+<b>1996</b>—Pub. L. 104–201 renumbered section 2798 of this title as this section and substituted "National Imagery and Mapping Agency" for "Defense Mapping Agency" wherever appearing.
 
 #### Effective Date of 1996 Amendment
 
@@ -22,5 +22,5 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 #### Effective Date
 
-Pub. L. 103–337, div. A, title X, §1074(d), Oct. 5, 1994, 108 Stat. 2861, provided that: “Section 2798 \[now 456\] of title 10, United States Code, as added by subsection (b), shall take effect on the date of the enactment of this Act \[Oct. 5, 1994\] and shall apply with respect to (1) civil actions brought before such date that are pending adjudication on such date, and (2) civil actions brought on or after such date.”
+Pub. L. 103–337, div. A, title X, §1074(d), Oct. 5, 1994, 108 Stat. 2861, provided that: "Section 2798 \[now 456\] of title 10, United States Code, as added by subsection (b), shall take effect on the date of the enactment of this Act \[Oct. 5, 1994\] and shall apply with respect to (1) civil actions brought before such date that are pending adjudication on such date, and (2) civil actions brought on or after such date."
 

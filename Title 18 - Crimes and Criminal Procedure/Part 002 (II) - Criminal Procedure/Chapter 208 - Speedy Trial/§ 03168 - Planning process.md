@@ -1,6 +1,6 @@
 ### §3168. Planning process
 
-(a) Within sixty days after July 1, 1975, each United States district court shall convene a planning group consisting at minimum of the Chief Judge, a United States magistrate judge, if any designated by the Chief Judge, the United States Attorney, the Clerk of the district court, the Federal Public Defender, if any, two private attorneys, one with substantial experience in the defense of criminal cases in the district and one with substantial experience in civil litigation in the district, the Chief United States Probation Officer for the district, and a person skilled in criminal justice research who shall act as reporter for the group. The group shall advise the district court with respect to the formulation of all district plans and shall submit its recommendations to the district court foreach of the district plans required by section 3165. The group shall be responsible for the initial formulation of all district plans and of the reports required by this chapter and in aid thereof, it shall be entitled to the planning funds specified in section 3171.
+(a) Within sixty days after July 1, 1975, each United States district court shall convene a planning group consisting at minimum of the Chief Judge, a United States magistrate judge, if any designated by the Chief Judge, the United States Attorney, the Clerk of the district court,the Federal Public Defender, if any, two private attorneys, one with substantial experience in the defense of criminal cases in the district and one with substantial experience in civil litigation in the district, the Chief United States Probation Officer for the district, and a person skilled in criminal justice research who shall act as reporter for the group. The group shall advise the district court with respect to the formulation of all district plans and shall submit its recommendations to the district court for each of the district plans required by section 3165. The group shall be responsible for the initial formulation of all district plans and of the reports required by this chapter and in aid thereof, it shall be entitled to the planning funds specified in section 3171.
 
 (b) The planning group shall address itself to the need for reforms in the criminal justice system, including but not limited to changes in the grand jury system, the finality of criminal judgments, habeas corpus and collateral attacks, pretrial diversion, pretrial detention, excessive reach of Federal criminal law, simplification and improvement of pretrial and sentencing procedures, and appellate delay.
 
@@ -10,9 +10,9 @@
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–43 substituted “two private attorneys, one with substantial experience in the defense of criminal cases in the district and one with substantial experience in civil litigation in the district” for “a private attorney experienced in the defense of criminal cases in the district”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–43 substituted "two private attorneys, one with substantial experience in the defense of criminal cases in the district and one with substantial experience in civil litigation in the district" for "a private attorney experienced in the defense of criminal cases in the district".
 
 #### Change of Name
 
-“United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judge" substituted for "United States magistrate" in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 

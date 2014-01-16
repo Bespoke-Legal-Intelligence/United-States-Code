@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Biomass
 
-&emsp;The term “biomass” means nonmerchantable materials or precommercial thinnings that are byproducts of preventive treatments, such as trees, wood, brush, thinnings, chips, and slash, that are removed—
+&emsp;The term "biomass" means nonmerchantable materials or precommercial thinnings that are byproducts of preventive treatments, such as trees, wood, brush, thinnings, chips, and slash, that are removed—
 
 &emsp;&emsp;(A) to reduce hazardous fuels;
 
@@ -16,15 +16,15 @@ In this section:
 
 #### (2) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 450b(e) of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 450b(e) of title 25.
 
 #### (3) Nonmerchantable
 
-&emsp;For purposes of subsection (b), the term “nonmerchantable” means that portion of the byproducts of preventive treatments that would not otherwise be used for higher value products.
+&emsp;For purposes of subsection (b), the term "nonmerchantable" means that portion of the byproducts of preventive treatments that would not otherwise be used for higher value products.
 
 #### (4) Person
 
-&emsp;The term “person” includes—
+&emsp;The term "person" includes—
 
 &emsp;&emsp;(A) an individual;
 
@@ -38,7 +38,7 @@ In this section:
 
 #### (5) Preferred community
 
-&emsp;The term “preferred community” means—
+&emsp;The term "preferred community" means—
 
 &emsp;&emsp;(A) any Indian tribe;
 
@@ -56,7 +56,7 @@ In this section:
 
 #### (6) Secretary concerned
 
-&emsp;The term “Secretary concerned” means the Secretary of Agriculture or the Secretary of the Interior.
+&emsp;The term "Secretary concerned" means the Secretary of Agriculture or the Secretary of the Interior.
 
 #### (b) Biomass commercial use grant program
 
@@ -114,7 +114,7 @@ Not later than October 1, 2010, the Secretary of Agriculture, in consultation wi
 
 #### Amendments
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–375 substituted “$50,000,000 for fiscal year 2006 and $35,000,000 for each of fiscal years 2007 through 2016” for “$50,000,000 for each of the fiscal years 2006 through 2016”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–375 substituted "$50,000,000 for fiscal year 2006 and $35,000,000 for each of fiscal years 2007 through 2016" for "$50,000,000 for each of the fiscal years 2006 through 2016".
 
 #### Change of Name
 

@@ -16,7 +16,7 @@ In carrying out the program required by subsection (a) of this section, the Admi
 
 &emsp;&emsp;(B) the demonstration of technologies developed under the program for the disposal of radioactive materials;
 
-&emsp;&emsp;(C) the demonstration of methodologies developed under the program for use in evaluating the radiological threat of radiological sources identified as not under current accounting programs in the audit report of the Inspector General of the Department of Energy titled “Accounting for Sealed Sources of Nuclear Material Provided to Foreign Countries” (DOE/IG–0546);
+&emsp;&emsp;(C) the demonstration of methodologies developed under the program for use in evaluating the radiological threat of radiological sources identified as not under current accounting programs in the audit report of the Inspector General of the Department of Energy titled "Accounting for Sealed Sources of Nuclear Material Provided to Foreign Countries" (DOE/IG–0546);
 
 &emsp;&emsp;(D) in coordination with the Nuclear Regulatory Commission, the demonstration of methodologies developed under the program to facilitate the development of a regulatory framework for licensing and controlling radioactive sources; and
 

@@ -4,7 +4,7 @@ For the purposes of this chapter:
 
 #### (1) Administrative costs
 
-&emsp;The term “administrative costs” means expenditures incurred in the performance of administrative functions under the vocational rehabilitation program carried out under subchapter I of this chapter, including expenses related to program planning, development, monitoring, and evaluation, including expenses for—
+&emsp;The term "administrative costs" means expenditures incurred in the performance of administrative functions under the vocational rehabilitation program carried out under subchapter I of this chapter, including expenses related to program planning, development, monitoring, and evaluation, including expenses for—
 
 &emsp;&emsp;(A) quality assurance;
 
@@ -36,7 +36,7 @@ For the purposes of this chapter:
 
 #### (2) Assessment for determining eligibility and vocational rehabilitation needs
 
-&emsp;The term “assessment for determining eligibility and vocational rehabilitation needs” means, as appropriate in each case—
+&emsp;The term "assessment for determining eligibility and vocational rehabilitation needs" means, as appropriate in each case—
 
 &emsp;&emsp;(A)(i) a review of existing data—
 
@@ -66,19 +66,19 @@ For the purposes of this chapter:
 
 #### (3) Assistive technology device
 
-&emsp;The term “assistive technology device” has the meaning given such term in section 3002 of this title, except that the reference in such section to the term “individuals with disabilities” shall be deemed to mean more than one individual with a disability as defined in paragraph (20)(A).
+&emsp;The term "assistive technology device" has the meaning given such term in section 3002 of this title, except that the reference in such section to the term "individuals with disabilities" shall be deemed to mean more than one individual with a disability as defined in paragraph (20)(A).
 
 #### (4) Assistive technology service
 
-&emsp;The term “assistive technology service” has the meaning given such term in section 3002 of this title, except that the reference in such section—
+&emsp;The term "assistive technology service" has the meaning given such term in section 3002 of this title, except that the reference in such section—
 
-&emsp;&emsp;(A) to the term “individual with a disability” shall be deemed to mean an individual with a disability, as defined in paragraph (20)(A); and
+&emsp;&emsp;(A) to the term "individual with a disability" shall be deemed to mean an individual with a disability, as defined in paragraph (20)(A); and
 
-&emsp;&emsp;(B) to the term “individuals with disabilities” shall be deemed to mean more than one such individual.
+&emsp;&emsp;(B) to the term "individuals with disabilities" shall be deemed to mean more than one such individual.
 
 #### (5) Community rehabilitation program
 
-&emsp;The term “community rehabilitation program” means a program that provides directly or facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunities for employment, including career advancement—
+&emsp;The term "community rehabilitation program" means a program that provides directly or facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunities for employment, including career advancement—
 
 &emsp;&emsp;(A) medical, psychiatric, psychological, social, and vocational services that are provided under one management;
 
@@ -118,7 +118,7 @@ For the purposes of this chapter:
 
 #### (A) Construction
 
-&emsp;&emsp;The term “construction” means—
+&emsp;&emsp;The term "construction" means—
 
 &emsp;&emsp;&emsp;(i) the construction of new buildings;
 
@@ -128,7 +128,7 @@ For the purposes of this chapter:
 
 #### (B) Cost of construction
 
-&emsp;&emsp;The term “cost of construction” includes architects’ fees and the cost of acquisition of land in connection with construction but does not include the cost of offsite improvements.
+&emsp;&emsp;The term "cost of construction" includes architects' fees and the cost of acquisition of land in connection with construction but does not include the cost of offsite improvements.
 
 #### (7) Repealed. Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(1)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415
 
@@ -136,11 +136,11 @@ For the purposes of this chapter:
 
 #### (A) Designated State agency
 
-&emsp;&emsp;The term “designated State agency” means an agency designated under section 721(a)(2)(A) of this title.
+&emsp;&emsp;The term "designated State agency" means an agency designated under section 721(a)(2)(A) of this title.
 
 #### (B) Designated State unit
 
-&emsp;&emsp;The term “designated State unit” means—
+&emsp;&emsp;The term "designated State unit" means—
 
 &emsp;&emsp;&emsp;(i) any State agency unit required under section 721(a)(2)(B)(ii) of this title; or
 
@@ -148,7 +148,7 @@ For the purposes of this chapter:
 
 #### (9) Disability
 
-&emsp;The term “disability” means—
+&emsp;The term "disability" means—
 
 &emsp;&emsp;(A) except as otherwise provided in subparagraph (B), a physical or mental impairment that constitutes or results in a substantial impediment to employment; or
 
@@ -158,15 +158,15 @@ For the purposes of this chapter:
 
 #### (A) Drug
 
-&emsp;&emsp;The term “drug” means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act (21 U.S.C. 812).
+&emsp;&emsp;The term "drug" means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act (21 U.S.C. 812).
 
 #### (B) Illegal use of drugs
 
-&emsp;&emsp;The term “illegal use of drugs” means the use of drugs, the possession or distribution of which is unlawful under the Controlled Substances Act \[21 U.S.C. 801 et seq.\]. Such term does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.
+&emsp;&emsp;The term "illegal use of drugs" means the use of drugs, the possession or distribution of which is unlawful under the Controlled Substances Act \[21 U.S.C. 801 et seq.\]. Such term does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.
 
 #### (11) Employment outcome
 
-&emsp;The term “employment outcome” means, with respect to an individual—
+&emsp;The term "employment outcome" means, with respect to an individual—
 
 &emsp;&emsp;(A) entering or retaining full-time or, if appropriate, part-time competitive employment in the integrated labor market;
 
@@ -178,11 +178,11 @@ For the purposes of this chapter:
 
 #### (12) Establishment of a community rehabilitation program
 
-&emsp;The term “establishment of a community rehabilitation program” includes the acquisition, expansion, remodeling, or alteration of existing buildings necessary to adapt them to community rehabilitation program purposes or to increase their effectiveness for such purposes (subject, however, to such limitations as the Secretary may determine, in accordance with regulations the Secretary shall prescribe, in order to prevent impairment of the objectives of, or duplication of, other Federal laws providing Federal assistance in the construction of facilities for community rehabilitation programs), and may include such additional equipment and staffing as the Commissioner considers appropriate.
+&emsp;The term "establishment of a community rehabilitation program" includes the acquisition, expansion, remodeling, or alteration of existing buildings necessary to adapt them to community rehabilitation program purposes or to increase their effectiveness for such purposes (subject, however, to such limitations as the Secretary may determine, in accordance with regulations the Secretary shall prescribe, in order to prevent impairment of the objectives of, or duplication of, other Federal laws providing Federal assistance in the construction of facilities for community rehabilitation programs), and may include such additional equipment and staffing as the Commissioner considers appropriate.
 
 #### (13) Extended services
 
-&emsp;The term “extended services” means ongoing support services and other appropriate services, needed to support and maintain an individual with a most significant disability in supported employment, that—
+&emsp;The term "extended services" means ongoing support services and other appropriate services, needed to support and maintain an individual with a most significant disability in supported employment, that—
 
 &emsp;&emsp;(A) are provided singly or in combination and are organized and made available in such a way as to assist an eligible individual in maintaining supported employment;
 
@@ -194,11 +194,11 @@ For the purposes of this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term “Federal share” means 78.7 percent.
+&emsp;&emsp;Subject to subparagraph (B), the term "Federal share" means 78.7 percent.
 
 #### (B) Exception
 
-&emsp;&emsp;The term “Federal share” means the share specifically set forth in section 731(a)(3) of this title, except that with respect to payments pursuant to part B of subchapter I of this chapter to any State that are used to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 731(a)(3) of this title applicable with respect to the State.
+&emsp;&emsp;The term "Federal share" means the share specifically set forth in section 731(a)(3) of this title, except that with respect to payments pursuant to part B of subchapter I of this chapter to any State that are used to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 731(a)(3) of this title applicable with respect to the State.
 
 #### (C) Relationship to expenditures by a political subdivision
 
@@ -206,13 +206,13 @@ For the purposes of this chapter:
 
 #### (15) Governor
 
-&emsp;The term “Governor” means a chief executive officer of a State.
+&emsp;The term "Governor" means a chief executive officer of a State.
 
 #### (16) Impartial hearing officer
 
 #### (A) In general
 
-&emsp;&emsp;The term “impartial hearing officer” means an individual—
+&emsp;&emsp;The term "impartial hearing officer" means an individual—
 
 &emsp;&emsp;&emsp;(i) who is not an employee of a public agency (other than an administrative law judge, hearing examiner, or employee of an institution of higher education);
 
@@ -230,7 +230,7 @@ For the purposes of this chapter:
 
 #### (17) Independent living core services
 
-&emsp;The term “independent living core services” means—
+&emsp;The term "independent living core services" means—
 
 &emsp;&emsp;(A) information and referral services;
 
@@ -242,7 +242,7 @@ For the purposes of this chapter:
 
 #### (18) Independent living services
 
-&emsp;The term “independent living services” includes—
+&emsp;The term "independent living services" includes—
 
 &emsp;&emsp;(A) independent living core services; and
 
@@ -292,17 +292,17 @@ For the purposes of this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The terms “Indian”, “American Indian”, and “Indian American” mean an individual who is a member of an Indian tribe.
+&emsp;&emsp;The terms "Indian", "American Indian", and "Indian American" mean an individual who is a member of an Indian tribe.
 
 #### (B) Indian tribe
 
-&emsp;&emsp;The term “Indian tribe” means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaskan native village or regional village corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]).
+&emsp;&emsp;The term "Indian tribe" means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaskan native village or regional village corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]).
 
 #### (20) Individual with a disability
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in subparagraph (B), the term “individual with a disability” means any individual who—
+&emsp;&emsp;Except as otherwise provided in subparagraph (B), the term "individual with a disability" means any individual who—
 
 &emsp;&emsp;&emsp;(i) has a physical or mental impairment which for such individual constitutes or results in a substantial impediment to employment; and
 
@@ -310,13 +310,13 @@ For the purposes of this chapter:
 
 #### (B) Certain programs; limitations on major life activities
 
-&emsp;&emsp;Subject to subparagraphs (C), (D), (E), and (F), the term “individual with a disability” means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who has a disability as defined in section 12102 of title 42.
+&emsp;&emsp;Subject to subparagraphs (C), (D), (E), and (F), the term "individual with a disability" means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who has a disability as defined in section 12102 of title 42.
 
 #### (C) Rights and advocacy provisions
 
 #### (i) In general; exclusion of individuals engaging in drug use
 
-&emsp;&emsp;&emsp;For purposes of subchapter V of this chapter, the term “individual with a disability” does not include an individual who is currently engaging in the illegal use of drugs, when a covered entity acts on the basis of such use.
+&emsp;&emsp;&emsp;For purposes of subchapter V of this chapter, the term "individual with a disability" does not include an individual who is currently engaging in the illegal use of drugs, when a covered entity acts on the basis of such use.
 
 #### (ii) Exception for individuals no longer engaging in drug use
 
@@ -340,7 +340,7 @@ For the purposes of this chapter:
 
 #### (v) Employment; exclusion of alcoholics
 
-&emsp;&emsp;&emsp;For purposes of sections 793 and 794 of this title as such sections relate to employment, the term “individual with a disability” does not include any individual who is an alcoholic whose current use of alcohol prevents such individual from performing the duties of the job in question or whose employment, by reason of such current alcohol abuse, would constitute a direct threat to property or the safety of others.
+&emsp;&emsp;&emsp;For purposes of sections 793 and 794 of this title as such sections relate to employment, the term "individual with a disability" does not include any individual who is an alcoholic whose current use of alcohol prevents such individual from performing the duties of the job in question or whose employment, by reason of such current alcohol abuse, would constitute a direct threat to property or the safety of others.
 
 #### (D) Employment; exclusion of individuals with certain diseases or infections
 
@@ -350,13 +350,13 @@ For the purposes of this chapter:
 
 &emsp;&emsp;For the purposes of sections 791, 793, and 794 of this title—
 
-&emsp;&emsp;&emsp;(i) for purposes of the application of subparagraph (B) to such sections, the term “impairment” does not include homosexuality or bisexuality; and
+&emsp;&emsp;&emsp;(i) for purposes of the application of subparagraph (B) to such sections, the term "impairment" does not include homosexuality or bisexuality; and
 
-&emsp;&emsp;&emsp;(ii) therefore the term “individual with a disability” does not include an individual on the basis of homosexuality or bisexuality.
+&emsp;&emsp;&emsp;(ii) therefore the term "individual with a disability" does not include an individual on the basis of homosexuality or bisexuality.
 
 #### (F) Rights provisions; exclusion of individuals on basis of certain disorders
 
-&emsp;&emsp;For the purposes of sections 791, 793, and 794 of this title, the term “individual with a disability” does not include an individual on the basis of—
+&emsp;&emsp;For the purposes of sections 791, 793, and 794 of this title, the term "individual with a disability" does not include an individual on the basis of—
 
 &emsp;&emsp;&emsp;(i) transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, or other sexual behavior disorders;
 
@@ -366,13 +366,13 @@ For the purposes of this chapter:
 
 #### (G) Individuals with disabilities
 
-&emsp;&emsp;The term “individuals with disabilities” means more than one individual with a disability.
+&emsp;&emsp;The term "individuals with disabilities" means more than one individual with a disability.
 
 #### (21) Individual with a significant disability
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) or (C), the term “individual with a significant disability” means an individual with a disability—
+&emsp;&emsp;Except as provided in subparagraph (B) or (C), the term "individual with a significant disability" means an individual with a disability—
 
 &emsp;&emsp;&emsp;(i) who has a severe physical or mental impairment which seriously limits one or more functional capacities (such as mobility, communication, self-care, self-direction, interpersonal skills, work tolerance, or work skills) in terms of an employment outcome;
 
@@ -382,49 +382,49 @@ For the purposes of this chapter:
 
 #### (B) Independent living services and centers for independent living
 
-&emsp;&emsp;For purposes of subchapter VII of this chapter, the term “individual with a significant disability” means an individual with a severe physical or mental impairment whose ability to function independently in the family or community or whose ability to obtain, maintain, or advance in employment is substantially limited and for whom the delivery of independent living services will improve the ability to function, continue functioning, or move toward functioning independently in the family or community or to continue in employment, respectively.
+&emsp;&emsp;For purposes of subchapter VII of this chapter, the term "individual with a significant disability" means an individual with a severe physical or mental impairment whose ability to function independently in the family or community or whose ability to obtain, maintain, or advance in employment is substantially limited and for whom the delivery of independent living services will improve the ability to function, continue functioning, or move toward functioning independently in the family or community or to continue in employment, respectively.
 
 #### (C) Research and training
 
-&emsp;&emsp;For purposes of subchapter II of this chapter, the term “individual with a significant disability” includes an individual described in subparagraph (A) or (B).
+&emsp;&emsp;For purposes of subchapter II of this chapter, the term "individual with a significant disability" includes an individual described in subparagraph (A) or (B).
 
 #### (D) Individuals with significant disabilities
 
-&emsp;&emsp;The term “individuals with significant disabilities” means more than one individual with a significant disability.
+&emsp;&emsp;The term "individuals with significant disabilities" means more than one individual with a significant disability.
 
 #### (E) Individual with a most significant disability
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “individual with a most significant disability”, used with respect to an individual in a State, means an individual with a significant disability who meets criteria established by the State under section 721(a)(5)(C) of this title.
+&emsp;&emsp;&emsp;The term "individual with a most significant disability", used with respect to an individual in a State, means an individual with a significant disability who meets criteria established by the State under section 721(a)(5)(C) of this title.
 
 #### (ii) Individuals with the most significant disabilities
 
-&emsp;&emsp;&emsp;The term “individuals with the most significant disabilities” means more than one individual with a most significant disability.
+&emsp;&emsp;&emsp;The term "individuals with the most significant disabilities" means more than one individual with a most significant disability.
 
 #### (22) Individual's representative; applicant's representative
 
-&emsp;The terms “individual's representative” and “applicant's representative” mean a parent, a family member, a guardian, an advocate, or an authorized representative of an individual or applicant, respectively.
+&emsp;The terms "individual's representative" and "applicant's representative" mean a parent, a family member, a guardian, an advocate, or an authorized representative of an individual or applicant, respectively.
 
 #### (23) Institution of higher education
 
-&emsp;The term “institution of higher education” has the meaning given the term in section 1001 of title 20.
+&emsp;The term "institution of higher education" has the meaning given the term in section 1001 of title 20.
 
 #### (24) Local agency
 
-&emsp;The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of this paragraph or in section 721 of this title shall be construed to prevent the local agency from arranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
+&emsp;The term "local agency" means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of this paragraph or in section 721 of this title shall be construed to prevent the local agency from arranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
 
 #### (25) Local workforce investment board
 
-&emsp;The term “local workforce investment board” means a local workforce investment board established under section 117 of the Workforce Investment Act of 1998 \[29 U.S.C. 2832\].
+&emsp;The term "local workforce investment board" means a local workforce investment board established under section 117 of the Workforce Investment Act of 1998 \[29 U.S.C. 2832\].
 
 #### (26) Nonprofit
 
-&emsp;The term “nonprofit”, when used with respect to a community rehabilitation program, means a community rehabilitation program carried out by a corporation or association, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual and the income of which is exempt from taxation under section 501(c)(3) of title 26.
+&emsp;The term "nonprofit", when used with respect to a community rehabilitation program, means a community rehabilitation program carried out by a corporation or association, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual and the income of which is exempt from taxation under section 501(c)(3) of title 26.
 
 #### (27) Ongoing support services
 
-&emsp;The term “ongoing support services” means services—
+&emsp;The term "ongoing support services" means services—
 
 &emsp;&emsp;(A) provided to individuals with the most significant disabilities;
 
@@ -446,7 +446,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(v) regular observation or supervision of the individual;
 
-&emsp;&emsp;&emsp;(vi) followup services such as regular contact with the employers, the individuals, the individuals’ representatives, and other appropriate individuals, in order to reinforce and stabilize the job placement;
+&emsp;&emsp;&emsp;(vi) followup services such as regular contact with the employers, the individuals, the individuals' representatives, and other appropriate individuals, in order to reinforce and stabilize the job placement;
 
 &emsp;&emsp;&emsp;(vii) facilitation of natural supports at the worksite;
 
@@ -456,37 +456,37 @@ For the purposes of this chapter:
 
 #### (28) Personal assistance services
 
-&emsp;The term “personal assistance services” means a range of services, provided by one or more persons, designed to assist an individualwith a disability to perform daily living activities on or off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
+&emsp;The term "personal assistance services" means a range of services, provided by one or more persons, designed to assist an individualwith a disability to perform daily living activities on or off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
 
 #### (29) Public or nonprofit
 
-&emsp;The term “public or nonprofit”, used with respect to an agency or organization, includes an Indian tribe.
+&emsp;The term "public or nonprofit", used with respect to an agency or organization, includes an Indian tribe.
 
 #### (30) Rehabilitation technology
 
-&emsp;The term “rehabilitation technology” means the systematic application of technologies, engineering methodologies, or scientific principles to meet the needs of and address the barriers confronted by individuals with disabilities in areas which include education, rehabilitation, employment, transportation, independent living, and recreation. The term includes rehabilitation engineering, assistive technology devices, and assistive technology services.
+&emsp;The term "rehabilitation technology" means the systematic application of technologies, engineering methodologies, or scientific principles to meet the needs of and address the barriers confronted by individuals with disabilities in areas which include education, rehabilitation, employment, transportation, independent living, and recreation. The term includes rehabilitation engineering, assistive technology devices, and assistive technology services.
 
 #### (31) Secretary
 
-&emsp;The term “Secretary”, except when the context otherwise requires, means the Secretary of Education.
+&emsp;The term "Secretary", except when the context otherwise requires, means the Secretary of Education.
 
 #### (32) State
 
-&emsp;The term “State” includes, in addition to each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" includes, in addition to each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (33) State workforce investment board
 
-&emsp;The term “State workforce investment board” means a State workforce investment board established under section 111 of the Workforce Investment Act of 1998 \[29 U.S.C. 2821\].
+&emsp;The term "State workforce investment board" means a State workforce investment board established under section 111 of the Workforce Investment Act of 1998 \[29 U.S.C. 2821\].
 
 #### (34) Statewide workforce investment system
 
-&emsp;The term “statewide workforce investment system” means a system described in section 111(d)(2) of the Workforce Investment Act of 1998 \[29 U.S.C. 2821(d)(2)\].
+&emsp;The term "statewide workforce investment system" means a system described in section 111(d)(2) of the Workforce Investment Act of 1998 \[29 U.S.C. 2821(d)(2)\].
 
 #### (35) Supported employment
 
 #### (A) In general
 
-&emsp;&emsp;The term “supported employment” means competitive work in integrated work settings, or employment in integrated work settings in which individuals are working toward competitive work, consistent with the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individuals, for individuals with the most significant disabilities—
+&emsp;&emsp;The term "supported employment" means competitive work in integrated work settings, or employment in integrated work settings in which individuals are working toward competitive work, consistent with the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individuals, for individuals with the most significant disabilities—
 
 &emsp;&emsp;&emsp;(i)(I) for whom competitive employment has not traditionally occurred; or
 
@@ -500,7 +500,7 @@ For the purposes of this chapter:
 
 #### (36) Supported employment services
 
-&emsp;The term “supported employment services” means ongoing support services and other appropriate services needed to support and maintain an individual with a most significant disability in supported employment, that—
+&emsp;The term "supported employment services" means ongoing support services and other appropriate services needed to support and maintain an individual with a most significant disability in supported employment, that—
 
 &emsp;&emsp;(A) are provided singly or in combination and are organized and made available in such a way as to assist an eligible individual to achieve competitive employment;
 
@@ -510,15 +510,15 @@ For the purposes of this chapter:
 
 #### (37) Transition services
 
-&emsp;The term “transition services” means a coordinated set of activities for a student, designed within an outcome-oriented process, that promotes movement from school to post school activities, including postsecondary education, vocational training, integrated employment (including supported employment), continuing and adult education, adult services, independent living, or community participation. The coordinated set of activities shall be based upon the individual student's needs, taking into account the student's preferences and interests, and shall include instruction, community experiences, the development of employment and other post school adult living objectives, and, when appropriate, acquisition of daily living skills and functional vocational evaluation.
+&emsp;The term "transition services" means a coordinated set of activities for a student, designed within an outcome-oriented process, that promotes movement from school to post school activities, including postsecondary education, vocational training, integrated employment (including supported employment), continuing and adult education, adult services, independent living, or community participation. The coordinated set of activities shall be based upon the individual student's needs, taking into account the student's preferences and interests, and shall include instruction, community experiences, the development of employment and other post school adult living objectives, and, when appropriate, acquisition of daily living skills and functional vocational evaluation.
 
 #### (38) Vocational rehabilitation services
 
-&emsp;The term “vocational rehabilitation services” means those services identified in section 723 of this title which are provided to individuals with disabilities under this chapter.
+&emsp;The term "vocational rehabilitation services" means those services identified in section 723 of this title which are provided to individuals with disabilities under this chapter.
 
 #### (39) Workforce investment activities
 
-&emsp;The term “workforce investment activities” means workforce investment activities, as defined in section 101 of the Workforce Investment Act of 1998 \[29 U.S.C. 2801\], that are carried out under that Act.
+&emsp;The term "workforce investment activities" means workforce investment activities, as defined in section 101 of the Workforce Investment Act of 1998 \[29 U.S.C. 2801\], that are carried out under that Act.
 
 (Pub. L. 93–112, §7, formerly §6, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, §102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered §7 and amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L.105–394, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 110–325, §7, Sept. 25, 2008, 122 Stat. 3558; Pub. L. 111–256, §2(d)(1), Oct. 5, 2010, 124 Stat. 2643.)
 
@@ -542,37 +542,37 @@ Another prior section 7 of Pub. L. 93–112 was classified to section 706 of thi
 
 #### Amendments
 
-<b>2010</b>—Par. (21)(A)(iii). Pub. L. 111–256 substituted “intellectual disability,” for “mental retardation,”.
+<b>2010</b>—Par. (21)(A)(iii). Pub. L. 111–256 substituted "intellectual disability," for "mental retardation,".
 
-<b>2008</b>—Par. (9)(B). Pub. L. 110–325, §7(1), substituted “the meaning given it in section 12102 of title 42” for “a physical or mental impairment that substantially limits one or more major life activities”.
+<b>2008</b>—Par. (9)(B). Pub. L. 110–325, §7(1), substituted "the meaning given it in section 12102 of title 42" for "a physical or mental impairment that substantially limits one or more major life activities".
 
-Par. (20)(B). Pub. L. 110–325, §7(2), substituted “any person who has a disability as defined in section 12102 of title 42.” for “any person who—
+Par. (20)(B). Pub. L. 110–325, §7(2), substituted "any person who has a disability as defined in section 12102 of title 42." for "any person who—
 
-&emsp;“(i) has a physical or mental impairment which substantially limits one or more of such person's major life activities;
+&emsp;"(i) has a physical or mental impairment which substantially limits one or more of such person's major life activities;
 
-&emsp;“(ii) has a record of such an impairment; or
+&emsp;"(ii) has a record of such an impairment; or
 
-&emsp;“(iii) is regarded as having such an impairment.”
+&emsp;"(iii) is regarded as having such an impairment."
 
 <b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §402(b)(3)\], made technical amendment to section designation and catchline in the original and inserted par. (1) heading.
 
-Par. (2)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(A)\], substituted “nature” for “objectives, nature,”.
+Par. (2)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(A)\], substituted "nature" for "objectives, nature,".
 
-Par. (3). Pub. L. 105–394, §402(a)(1), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting “3002” for “2202(2)”, was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, §101(f) \[title VIII, §402(a)(1)\].
+Par. (3). Pub. L. 105–394, §402(a)(1), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting "3002" for "2202(2)", was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, §101(f) \[title VIII, §402(a)(1)\].
 
-Par. (4). Pub. L. 105–394, §402(a)(2), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting “3002” for “2202(3)”, was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, §101(f) \[title VIII, §402(a)(1)\].
+Par. (4). Pub. L. 105–394, §402(a)(2), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting "3002" for "2202(3)", was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, §101(f) \[title VIII, §402(a)(1)\].
 
-Par. (7). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(B)\], struck out heading and text of par. (7). Text read as follows: “The term ‘criminal act’ means any crime, including an act, omission, or possession under the laws of the United States or a State or unit of general local government, which poses a substantial threat of personal injury, notwithstanding that by reason of age, insanity, or intoxication or otherwise the person engaging in the act, omission, or possession was legally incapable of committing a crime.”
+Par. (7). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(B)\], struck out heading and text of par. (7). Text read as follows: "The term 'criminal act' means any crime, including an act, omission, or possession under the laws of the United States or a State or unit of general local government, which poses a substantial threat of personal injury, notwithstanding that by reason of age, insanity, or intoxication or otherwise the person engaging in the act, omission, or possession was legally incapable of committing a crime."
 
-Par. (16)(A)(iii). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(C)\], substituted “eligible individual” for “client”.
+Par. (16)(A)(iii). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(C)\], substituted "eligible individual" for "client".
 
-Par. (23). Pub. L. 105–244 substituted “section 1001 of title 20” for “section 1141(a) of title 20”.
+Par. (23). Pub. L. 105–244 substituted "section 1001 of title 20" for "section 1141(a) of title 20".
 
-Par. (36)(C). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(D)\], substituted “employment outcome” for “rehabilitation objectives”.
+Par. (36)(C). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(D)\], substituted "employment outcome" for "rehabilitation objectives".
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–325, §8, Sept. 25, 2008, 122 Stat. 3559, provided that: “This Act \[enacting sections 12103 and 12205a of Title 42, The Public Health and Welfare, amending this section, former section 706 of this title, and sections 12101, 12102, 12111 to 12114, 12201, and 12206 to 12213 of Title 42, and enacting provisions set out as notes under section 12101 of Title 42\] and the amendments made by this Act shall become effective on January 1, 2009.”
+Pub. L. 110–325, §8, Sept. 25, 2008, 122 Stat. 3559, provided that: "This Act \[enacting sections 12103 and 12205a of Title 42, The Public Health and Welfare, amending this section, former section 706 of this title, and sections 12101, 12102, 12111 to 12114, 12201, and 12206 to 12213 of Title 42, and enacting provisions set out as notes under section 12101 of Title 42\] and the amendments made by this Act shall become effective on January 1, 2009."
 
 #### Effective Date of 1998 Amendment
 

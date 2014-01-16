@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. 1232.
 
-The words “in any case whatever” are omitted as surplusage.
+The words "in any case whatever" are omitted as surplusage.
 

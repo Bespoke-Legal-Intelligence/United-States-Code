@@ -14,7 +14,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 &emsp;&emsp;(iv) who is entitled to make a joint return and whose gross income, when combined with the gross income of his spouse, is, for the taxable year, less than the sum of twice the exemption amount plus the basic standard deduction applicable to a joint return, but only if such individual and his spouse, at the close of the taxable year, had the same household as their home.
 
-> &emsp;Clause (iv) shall not apply if for the taxable year such spouse makes a separate return orany other taxpayer is entitled to an exemption for such spouse under section 151(c).
+> &emsp;Clause (iv) shall not apply if for the taxable year such spouse makes a separate return or any other taxpayer is entitled to an exemption for such spouse under section 151(c).
 
 &emsp;(B) The amount specified in clause (i), (ii), or (iii) of subparagraph (A) shall be increased by the amount of 1 additional standard deduction (within the meaning of section 63(c)(3)) in the case of an individual entitled to such deduction by reason of section 63(f)(1)(A) (relating to individuals age 65 or more), and the amount specified in clause (iv) of subparagraph (A) shall be increased by the amount of the additional standard deduction for each additional standard deduction to which the individual or his spouse is entitled by reason of section 63(f)(1).
 
@@ -30,9 +30,9 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 &emsp;(D) For purposes of this subsection—
 
-&emsp;&emsp;(i) The terms “standard deduction”, “basic standard deduction” and “additional standard deduction” have the respective meanings given such terms by section 63(c).
+&emsp;&emsp;(i) The terms "standard deduction", "basic standard deduction" and "additional standard deduction" have the respective meanings given such terms by section 63(c).
 
-&emsp;&emsp;(ii) The term “exemption amount” has the meaning given such term by section 151(d). In the case of an individual described in section 151(d)(2), the exemption amount shall be zero.
+&emsp;&emsp;(ii) The term "exemption amount" has the meaning given such term by section 151(d). In the case of an individual described in section 151(d)(2), the exemption amount shall be zero.
 
 &emsp;(2) Every corporation subject to taxation under subtitle A;
 
@@ -96,101 +96,101 @@ Section 63(c)(2)(D), referred to in subsec. (a)(8), was repealed by Pub. L. 107�
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(8), (9). Pub. L. 111–226 redesignated par. (9) as (8) and struck out former par. (8) which read as follows: “Every individual who receives payments during the calendar year in which the taxable year begins under section 3507 (relating to advance payment of earned income credit).”
+<b>2010</b>—Subsec. (a)(8), (9). Pub. L. 111–226 redesignated par. (9) as (8) and struck out former par. (8) which read as follows: "Every individual who receives payments during the calendar year in which the taxable year begins under section 3507 (relating to advance payment of earned income credit)."
 
-<b>2002</b>—Subsec. (a)(6). Pub. L. 107–276 struck out “or which has gross receipts of $25,000 or more for the taxable year (other than an organization to which section 527 applies solely by reason of subsection (f)(1) of such section)” after “(within the meaning of section 527(c)(1)) for the taxable year”.
+<b>2002</b>—Subsec. (a)(6). Pub. L. 107–276 struck out "or which has gross receipts of $25,000 or more for the taxable year (other than an organization to which section 527 applies solely by reason of subsection (f)(1) of such section)" after "(within the meaning of section 527(c)(1)) for the taxable year".
 
-<b>2000</b>—Subsec. (a)(6). Pub. L. 106–230 inserted “or which has gross receipts of $25,000 or more for the taxable year (other than an organization to which section 527 applies solely by reason of subsection (f)(1) of such section)” after “taxable year”.
+<b>2000</b>—Subsec. (a)(6). Pub. L. 106–230 inserted "or which has gross receipts of $25,000 or more for the taxable year (other than an organization to which section 527 applies solely by reason of subsection (f)(1) of such section)" after "taxable year".
 
 <b>1997</b>—Subsec. (b)(6). Pub. L. 105–34, §1225, added par. (6).
 
-Subsec. (c). Pub. L. 105–34, §312(d)(11), substituted “(relating to gain from sale of principal residence)” for “(relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55)”.
+Subsec. (c). Pub. L. 105–34, §312(d)(11), substituted "(relating to gain from sale of principal residence)" for "(relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55)".
 
-<b>1988</b>—Subsec. (a)(1)(C)(i). Pub. L. 100–647 amended subcl. (I) generally, substituting “the sum of the amount in effect under section 63(c)(5)(A) plus the additional standard deduction (if any) to which the individual is entitled” for “the amount in effect under section 63(c)(5)(A) (relating to limitation on standard deduction in the case of certain dependents)”.
+<b>1988</b>—Subsec. (a)(1)(C)(i). Pub. L. 100–647 amended subcl. (I) generally, substituting "the sum of the amount in effect under section 63(c)(5)(A) plus the additional standard deduction (if any) to which the individual is entitled" for "the amount in effect under section 63(c)(5)(A) (relating to limitation on standard deduction in the case of certain dependents)".
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §104(a)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
-“(1)(A) Every individual having for the taxable year a gross income of the exemption amount or more, except that a return shall not be required of an individual (other than an individual described in subparagraph (C))—
+"(1)(A) Every individual having for the taxable year a gross income of the exemption amount or more, except that a return shall not be required of an individual (other than an individual described in subparagraph (C))—
 
-&emsp;“(i) who is not married (determined by applying section 143), is not a surviving spouse (as defined in section 2(a)), and for the taxable year has a gross income of less than the sum of the exemption amount plus the zero bracket amount applicable to such an individual,
+&emsp;"(i) who is not married (determined by applying section 143), is not a surviving spouse (as defined in section 2(a)), and for the taxable year has a gross income of less than the sum of the exemption amount plus the zero bracket amount applicable to such an individual,
 
-&emsp;“(ii) who is a surviving spouse (as so defined) and for the taxable year has a gross income of less than the sum of the exemption amount plus the zero bracket amount applicable to such an individual, or
+&emsp;"(ii) who is a surviving spouse (as so defined) and for the taxable year has a gross income of less than the sum of the exemption amount plus the zero bracket amount applicable to such an individual, or
 
-&emsp;“(iii) who is entitled to make a joint return under section 6013 and whose gross income, when combined with the gross income of his spouse, is, for the taxable year, less than the sum of twice the exemption amount plus the zero bracket amount applicable to a joint return, but only if such individual and his spouse, at the close of the taxable year, had the same household as their home.
+&emsp;"(iii) who is entitled to make a joint return under section 6013 and whose gross income, when combined with the gross income of his spouse, is, for the taxable year, less than the sum of twice the exemption amount plus the zero bracket amount applicable to a joint return, but only if such individual and his spouse, at the close of the taxable year, had the same household as their home.
 
 > Clause (iii) shall not apply if for the taxable year such spouse makes a separate return or any other taxpayer is entitled to an exemption for such spouse under section 151(e).
 
-“(B) The amount specified in clause (i) or (ii) of subparagraph (A) shall be increased by the exemption amount in the case of an individual entitled to an additional personal exemption under section 151(c)(1), and the amount specified in clause (iii) of subparagraph (A) shall be increased by the exemption amount for each additional personal exemption to which the individual or his spouse is entitled under section 151(c).
+"(B) The amount specified in clause (i) or (ii) of subparagraph (A) shall be increased by the exemption amount in the case of an individual entitled to an additional personal exemption under section 151(c)(1), and the amount specified in clause (iii) of subparagraph (A) shall be increased by the exemption amount for each additional personal exemption to which the individual or his spouse is entitled under section 151(c).
 
-“(C) The exception under subparagraph (A) shall not apply to—
+"(C) The exception under subparagraph (A) shall not apply to—
 
-&emsp;“(i) a nonresident alien individual;
+&emsp;"(i) a nonresident alien individual;
 
-&emsp;“(ii) a citizen of the United States entitled to the benefits of section 931;
+&emsp;"(ii) a citizen of the United States entitled to the benefits of section 931;
 
-&emsp;“(iii) an individual making a return under section 443(a)(1) for a period of less than 12 months on account of a change in his annual accounting period;
+&emsp;"(iii) an individual making a return under section 443(a)(1) for a period of less than 12 months on account of a change in his annual accounting period;
 
-&emsp;“(iv) an individual who has income (other than earned income) of the exemption amount or more and who is described in section 63(e)(1)(D); or
+&emsp;"(iv) an individual who has income (other than earned income) of the exemption amount or more and who is described in section 63(e)(1)(D); or
 
-&emsp;“(v) an estate or trust.
+&emsp;"(v) an estate or trust.
 
-“(D) For purposes of this paragraph—
+"(D) For purposes of this paragraph—
 
-&emsp;“(i) The term ‘zero bracket amount’ has the meaning given to such term by section 63(d).
+&emsp;"(i) The term 'zero bracket amount' has the meaning given to such term by section 63(d).
 
-&emsp;“(ii) The term ‘exemption amount’ has the meaning given to such term by section 151(f).”
+&emsp;"(ii) The term 'exemption amount' has the meaning given to such term by section 151(f)."
 
-Subsec. (a)(9). Pub. L. 99–514, §104(a)(1)(B), substituted “not less than the sum of the exemption amount plus the basic standard deduction under section 63(c)(2)(D)” for “$2,700 or more”.
+Subsec. (a)(9). Pub. L. 99–514, §104(a)(1)(B), substituted "not less than the sum of the exemption amount plus the basic standard deduction under section 63(c)(2)(D)" for "$2,700 or more".
 
 Subsecs. (d), (e). Pub. L. 99–514, §1525(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1984</b>—Subsec. (b)(2). Pub. L. 98–369 struck out “or section 6015(a)” after “subsection (a)”.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–369 struck out "or section 6015(a)" after "subsection (a)".
 
-<b>1981</b>—Subsec. (a)(1). Pub. L. 97–34, §104(d)(1)(D), substituted “the exemption amount” for “$1,000”, wherever appearing, substituted “the sum of the exemption amount plus the zero bracket amount applicable to such an individual” for “$3,300” in subpar. (A)(i) and for “$4,400” in subpar. (A)(ii), substituted “the sum of twice the exemption amount plus the zero bracket amount applicable to a joint return” for “$5,400” in subpar. (A)(iii), and added subpar. (D).
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–34, §104(d)(1)(D), substituted "the exemption amount" for "$1,000", wherever appearing, substituted "the sum of the exemption amount plus the zero bracket amount applicable to such an individual" for "$3,300" in subpar. (A)(i) and for "$4,400" in subpar. (A)(ii), substituted "the sum of twice the exemption amount plus the zero bracket amount applicable to a joint return" for "$5,400" in subpar. (A)(iii), and added subpar. (D).
 
-Subsec. (c). Pub. L. 97–34, §111(b)(3), substituted “relating to citizens or residents of the United States living abroad” for “relating to income earned by employees in certain camps”.
+Subsec. (c). Pub. L. 97–34, §111(b)(3), substituted "relating to citizens or residents of the United States living abroad" for "relating to income earned by employees in certain camps".
 
 <b>1980</b>—Subsec. (a)(9). Pub. L. 96–589, §3(b)(1), added par. (9).
 
-Subsec. (b)(3). Pub. L. 96–589, §6(i)(5), substituted “trustee in a case under title 11 of the United States Code” for “trustee in bankruptcy”.
+Subsec. (b)(3). Pub. L. 96–589, §6(i)(5), substituted "trustee in a case under title 11 of the United States Code" for "trustee in bankruptcy".
 
 Subsec. (b)(4). Pub. L. 96–589, §3(b)(2), inserted reference to estate of an individual under chapter 7 or 11 of title 11 of the United States Code.
 
-<b>1978</b>—Subsec. (a)(1)(A). Pub. L. 95–600, §§101(c), 102(b)(1), substituted in provision preceding cl. (i), “$1,000” for “$750”, in cl. (i), “$3,050” for “$2,950” and “$3,300” for “$3,050”, in cl. (ii), “$4,150” for “$3,950” and “$4,400” for “$4,150”, and in cl. (iii), “$4,900” for “$4,700” and “$5,400” for “$4,900”.
+<b>1978</b>—Subsec. (a)(1)(A). Pub. L. 95–600, §§101(c), 102(b)(1), substituted in provision preceding cl. (i), "$1,000" for "$750", in cl. (i), "$3,050" for "$2,950" and "$3,300" for "$3,050", in cl. (ii), "$4,150" for "$3,950" and "$4,400" for "$4,150", and in cl. (iii), "$4,900" for "$4,700" and "$5,400" for "$4,900".
 
 Subsec. (a)(8). Pub. L. 95–600, §105(d), added par. (8).
 
-Subsec. (c). Pub. L. 95–615 substituted “(relating to income earned by employees in certain camps)” for “(relating to earned income from sources without the United States)”.
+Subsec. (c). Pub. L. 95–615 substituted "(relating to income earned by employees in certain camps)" for "(relating to earned income from sources without the United States)".
 
-Pub. L. 95–600, §404(c)(8), inserted provisions relating to a one-time exclusion and principal residence, and substituted “55” for “65”.
+Pub. L. 95–600, §404(c)(8), inserted provisions relating to a one-time exclusion and principal residence, and substituted "55" for "65".
 
-<b>1977</b>—Subsec. (a)(1)(A). Pub. L. 95–30 substituted “(other than an individual described in subparagraph (C))” for “(other than an individual referred to in section 142(b))” in provisions preceding cl. (i), “$2,950” for “$2,450” in cl. (i), “$3,950” for “$2,850” in cl. (ii), and “$4,700” for “$3,600” in cl. (iii).
+<b>1977</b>—Subsec. (a)(1)(A). Pub. L. 95–30 substituted "(other than an individual described in subparagraph (C))" for "(other than an individual referred to in section 142(b))" in provisions preceding cl. (i), "$2,950" for "$2,450" in cl. (i), "$3,950" for "$2,850" in cl. (ii), and "$4,700" for "$3,600" in cl. (iii).
 
 Subsec. (a)(1)(B). Pub. L. 95–30 reenacted subpar. (B) without change.
 
 Subsec. (a)(1)(C). Pub. L. 95–30 substituted provisions that the exception under subparagraph (A) shall not apply to a nonresident alien individual, a citizen of the United States entitled to the benefits of section 931, an individual making a return under section 443(a)(1) for a period of less than 12 months on account of a change in his annual accounting period, an individual who has income (other than earned income) of $750 or more and who is described in section 63(e)(1)(D), or an estate or trust, for provisions requiring that a return with respect to income taxes under subtitle A be made by every individual having for the taxable year a gross income of $750 or more and to whom section 141(e) (relating to limitations in case of certain dependent taxpayers) applied.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out in provisions following par. (7) “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out in provisions following par. (7) "or his delegate" after "Secretary".
 
 Subsec. (a)(1)(A), (B). Pub. L. 94–455, §401(b)(3), reenacted subpars. (A) and (B) without change.
 
 Subsec. (a)(7). Pub. L. 94–455, §2101(c), added par. (7).
 
-Subsec. (b)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-<b>1975</b>—Subsec. (a)(1)(A). Pub. L. 94–164 substituted “$2,450” for “$2,350” in cl. (i), “$2,850” for “$2,650” in cl. (ii), and “$3,600” for “$3,400” in cl. (iii).
+<b>1975</b>—Subsec. (a)(1)(A). Pub. L. 94–164 substituted "$2,450" for "$2,350" in cl. (i), "$2,850" for "$2,650" in cl. (ii), and "$3,600" for "$3,400" in cl. (iii).
 
-Pub. L. 94–12 substituted “(determined by applying section 143), is not a surviving spouse (as defined in section 2(a)), and for the taxable year has a gross income of less than $2,350” for “determined by applying section 143(a)) and for the taxable year has a gross income of less than $2,050, or” in cl. (i), added cl. (ii), redesignated existing cl. (ii) as (iii), in cl. (iii) as so redesignated substituted “$3,400” for “$2,800”, and in provisions following cl. (iii) substituted “Clause (iii)” for “Clause (ii)”.
+Pub. L. 94–12 substituted "(determined by applying section 143), is not a surviving spouse (as defined in section 2(a)), and for the taxable year has a gross income of less than $2,350" for "determined by applying section 143(a)) and for the taxable year has a gross income of less than $2,050, or" in cl. (i), added cl. (ii), redesignated existing cl. (ii) as (iii), in cl. (iii) as so redesignated substituted "$3,400" for "$2,800", and in provisions following cl. (iii) substituted "Clause (iii)" for "Clause (ii)".
 
-Subsec. (a)(1)(B). Pub. L. 94–12 substituted “The amount specified in clause (i) or (ii) of subparagraph (A) shall be increased by $750” for “The $2,050 amount specified in subparagraph (A)(i) shall be increased to $2,800” and “the amount specified in clause (iii) of subparagraph (A) shall be increased by $750” for “the $2,800 amount specified in subparagraph (A)(ii) shall be increased by $750”.
+Subsec. (a)(1)(B). Pub. L. 94–12 substituted "The amount specified in clause (i) or (ii) of subparagraph (A) shall be increased by $750" for "The $2,050 amount specified in subparagraph (A)(i) shall be increased to $2,800" and "the amount specified in clause (iii) of subparagraph (A) shall be increased by $750" for "the $2,800 amount specified in subparagraph (A)(ii) shall be increased by $750".
 
 Subsec. (a)(6). Pub. L. 93–625 added par. (6) and struck out provision that Secretary or his delegate shall, by regulation, exempt from requirement of making returns under this section any political committee (as defined in section 301(d) of Federal Election Campaign Act of 1971) having no gross income for taxable year.
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–443 provided for exemption from tax returns requirement of political committees having no gross income for taxable year.
 
-<b>1971</b>—Subsec. (a)(1). Pub. L. 92–178 substituted “$750” for “$600” in subpars. (A) and (B); “$2,050” for “1,700” in subpars. (A)(i) and (B); and “2,800” for “2,300” in subpars. (A)(ii) and (B), twice; and added subpar. (C), respectively.
+<b>1971</b>—Subsec. (a)(1). Pub. L. 92–178 substituted "$750" for "$600" in subpars. (A) and (B); "$2,050" for "1,700" in subpars. (A)(i) and (B); and "2,800" for "2,300" in subpars. (A)(ii) and (B), twice; and added subpar. (C), respectively.
 
-<b>1969</b>—Subsec. (a)(1). Pub. L. 91–172, §941(a), (d), struck out after “$600 or more”, “(except that any individual who has attained the age of 65 before the close of his taxable year shall be required to make a return only if he has for the taxable year a gross income of $1,200 or more)”, designated remaining introductory text as subpar. (A), inserted remainder of subpars. (A) and (B), applicable to taxable years beginning after Dec. 31, 1969; and substituted “$750”, “$1,750”, and “$2,500” for “$600”, “$1,700”, and “$2,300” wherever appearing, effective with respect to taxable years beginning after Dec. 31, 1972.
+<b>1969</b>—Subsec. (a)(1). Pub. L. 91–172, §941(a), (d), struck out after "$600 or more", "(except that any individual who has attained the age of 65 before the close of his taxable year shall be required to make a return only if he has for the taxable year a gross income of $1,200 or more)", designated remaining introductory text as subpar. (A), inserted remainder of subpars. (A) and (B), applicable to taxable years beginning after Dec. 31, 1969; and substituted "$750", "$1,750", and "$2,500" for "$600", "$1,700", and "$2,300" wherever appearing, effective with respect to taxable years beginning after Dec. 31, 1972.
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–272 inserted provisions relating to sale of residence.
 
@@ -202,11 +202,11 @@ Amendment by Pub. L. 111–226 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–276, §3(d), Nov. 2, 2002, 116 Stat. 1932, provided that: “The amendments made by this section \[amending this section and sections 6033 and 6104 of this title\] shall take effect as if included in the amendments made by Public Law 106–230.”
+Pub. L. 107–276, §3(d), Nov. 2, 2002, 116 Stat. 1932, provided that: "The amendments made by this section \[amending this section and sections 6033 and 6104 of this title\] shall take effect as if included in the amendments made by Public Law 106–230."
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–230, §3(d), July 1, 2000, 114 Stat. 483, provided that: “The amendments made by this section \[amending this section and sections 6033, 6104, and 6652 of this title\] shall apply to returns for taxable years beginning after June 30, 2000.”
+Pub. L. 106–230, §3(d), July 1, 2000, 114 Stat. 483, provided that: "The amendments made by this section \[amending this section and sections 6033, 6104, and 6652 of this title\] shall apply to returns for taxable years beginning after June 30, 2000."
 
 #### Effective Date of 1997 Amendment
 
@@ -220,9 +220,9 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 104(a)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 104(a)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Pub. L. 99–514, title XV, §1525(b), Oct. 22, 1986, 100 Stat. 2749, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XV, §1525(b), Oct. 22, 1986, 100 Stat. 2749, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
 
 #### Effective Date of 1984 Amendment
 
@@ -264,7 +264,7 @@ Amendment by section 401(b)(3) of Pub. L. 94–455 applicable to taxable years e
 
 Amendment by Pub. L. 94–164 applicable to taxable years ending after Dec. 31, 1975 and before Jan. 1, 1977, see section 2(g) of Pub. L. 94–164, set out as a note under section 32 of this title.
 
-Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, and to cease to apply to taxable years ending after Dec. 31, 1976, see section 209(a) of Pub. L. 94–12, as amended, set out as a note under section 3 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, and to cease to applyto taxable years ending after Dec. 31, 1976, see section 209(a) of Pub. L. 94–12, as amended, set out as a note under section 3 of this title.
 
 #### Effective Date of 1974 Amendments
 
@@ -280,7 +280,7 @@ Pub. L. 92–178, title II, §204(a), Dec. 10, 1971, 85 Stat. 511, provided that
 
 Amendment by section 941(a) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 941(c) of Pub. L. 91–172, set out as a note under section 151 of this title.
 
-Amendment by section 941(d) of Pub. L. 91–172, which substituted “$750”, “$1,750”, and “$2,500” for “$600”, “$1,700” and “$2,300” wherever appearing, effective with respect to taxable years beginning after Dec. 31, 1972, was repealed by Pub. L. 92–178, title II, §204(b), Dec. 10, 1971, 85 Stat. 511.
+Amendment by section 941(d) of Pub. L. 91–172, which substituted "$750", "$1,750", and "$2,500" for "$600", "$1,700" and "$2,300" wherever appearing, effective with respect to taxable years beginning after Dec. 31, 1972, was repealed by Pub. L. 92–178, title II, §204(b), Dec. 10, 1971, 85 Stat. 511.
 
 #### Effective Date of 1964 Amendment
 
@@ -288,39 +288,39 @@ Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–866, title I, §72(c), Sept. 2, 1958, 72 Stat. 1660, provided that: “The amendments \[amending this section and section 911 of this title\] made by this section shall apply to taxable years beginning after December 31, 1957.”
+Pub. L. 85–866, title I, §72(c), Sept. 2, 1958, 72 Stat. 1660, provided that: "The amendments \[amending this section and section 911 of this title\] made by this section shall apply to taxable years beginning after December 31, 1957."
 
 #### Return-Free Tax System
 
 Pub. L. 105–206, title II, §2004, July 22, 1998, 112 Stat. 726, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of the Treasury or the Secretary's delegate shall develop procedures for the implementation of a return-free tax system under which appropriate individuals would be permitted to comply with the Internal Revenue Code of 1986 without making the return required under section 6012 of such Code for taxable years beginning after 2007.
 
-“(b)
+"(b)
 
 Report.—Not later than June 30 of each calendar year after 1999, the Secretary shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on—
 
-&emsp;“(1) what additional resources the Internal Revenue Service would need to implement such a system;
+&emsp;"(1) what additional resources the Internal Revenue Service would need to implement such a system;
 
-&emsp;“(2) the changes to the Internal Revenue Code of 1986 that could enhance the use of such a system;
+&emsp;"(2) the changes to the Internal Revenue Code of 1986 that could enhance the use of such a system;
 
-&emsp;“(3) the procedures developed pursuant to subsection (a); and
+&emsp;"(3) the procedures developed pursuant to subsection (a); and
 
-&emsp;“(4) the number and classes of taxpayers that would be permitted to use the procedures developed pursuant to subsection (a).”
+&emsp;"(4) the number and classes of taxpayers that would be permitted to use the procedures developed pursuant to subsection (a)."
 
 #### No Return Required of Individual Whose Only Gross Income Is Grant of $1,000 From State
 
 Pub. L. 97–424, title V, §542, Jan. 6, 1983, 96 Stat. 2195, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(a)
+"(a)
 
-In General.—Nothing in section 6012(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be construed to require the filing of a return with respect to income taxes under subtitle A of such codeby an individual whose only gross income for the taxable year is a grant of $1,000 received from a State which made such grants generally to residents of such State.
+In General.—Nothing in section 6012(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be construed to require the filing of a return with respect to income taxes under subtitle A of such code by an individual whose only gross income for the taxable year is a grant of $1,000 received from a State which made such grants generally to residents of such State.
 
-“(b)
+"(b)
 
-Effective Date.—Subsection (a) shall apply to taxable years beginning after December 31, 1981.”
+Effective Date.—Subsection (a) shall apply to taxable years beginning after December 31, 1981."
 
 #### Exemption From Filing Requirement for Prior Years Where Income of Political Party was $100 or Less
 

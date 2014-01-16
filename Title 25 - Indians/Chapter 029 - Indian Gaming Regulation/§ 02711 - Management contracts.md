@@ -26,7 +26,7 @@ The Chairman may approve any management contract entered into pursuant to this s
 
 &emsp;(4) for an agreed ceiling for the repayment of development and construction costs;
 
-&emsp;(5) for a contract term not to exceed five years, except that, upon the request of an Indian tribe, the Chairman may authorize a contract term that exceeds five years but does not exceed seven years if the Chairman is satisfied that the capital investment required, and the income projections, for the particular gaming activity require the additional time; and
+&emsp;(5) for a contract term not to exceed five years, except that, upon the request of an Indian tribe, the Chairman may authorize a contract term that exceeds five years but does not exceed seven years if the Chairman is satisfiedthat the capital investment required, and the income projections, for the particular gaming activity require the additional time; and
 
 &emsp;(6) for grounds and mechanisms for terminating such contract, but actual contract termination shall not require the approval of the Commission.
 
@@ -77,4 +77,8 @@ The authority of the Secretary under section 81 of this title, relating to manag
 The Commission shall require a potential contractor to pay a fee to cover the cost of the investigation necessary to reach a determination required in subsection (e) of this section.
 
 (Pub. L. 100–497, §12, Oct. 17, 1988, 102 Stat. 2479.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(3), (e)(1)(C), (3), (g), and (h), was in the original "this Act", meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 

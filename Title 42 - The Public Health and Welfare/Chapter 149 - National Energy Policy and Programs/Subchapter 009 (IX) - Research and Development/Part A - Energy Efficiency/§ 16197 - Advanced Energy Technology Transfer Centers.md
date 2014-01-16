@@ -34,7 +34,7 @@ Each Center shall operate a program to encourage demonstration and commercial ap
 
 #### (c) Application
 
-A person seeking a grant under this section shall submit to the Secretary an application in such form and containing such information as the Secretary may require. The Secretary may award a grant under this section to an entity already in existence if the entity is otherwise eligible under this section. The application shall include, at a minimum—
+A person seeking a grant under this section shall submit to the Secretary an application insuch form and containing such information as the Secretary may require. The Secretary may award a grant under this section to an entity already in existence if the entity is otherwise eligible under this section. The application shall include, at a minimum—
 
 &emsp;(1) a description of the applicant's outreach program, and the geographic region it would serve, and of why the program would be capable of transferring knowledge and information about advanced energy technologies that increase efficiency of energy use;
 
@@ -90,23 +90,23 @@ For purposes of this section:
 
 #### (1) Advanced energy methods and technologies
 
-&emsp;The term “advanced energy methods and technologies” means all methods and technologies that promote energy efficiency and conservation, including distributed generation technologies, and life-cycle analysis of energy use.
+&emsp;The term "advanced energy methods and technologies" means all methods and technologies that promote energy efficiency and conservation, including distributed generation technologies, and life-cycle analysis of energy use.
 
 #### (2) Center
 
-&emsp;The term “Center” means an Advanced Energy Technology Transfer Center established pursuant to this section.
+&emsp;The term "Center" means an Advanced Energy Technology Transfer Center established pursuant to this section.
 
 #### (3) Distributed generation
 
-&emsp;The term “distributed generation” means an electric power generation technology, including photovoltaic, small wind, and micro-combined heat and power, that serves electric consumers at or near the site of production.
+&emsp;The term "distributed generation" means an electric power generation technology, including photovoltaic, small wind, and micro-combined heat and power, that serves electric consumers at or near the site of production.
 
 #### (4) Cooperative Extension
 
-&emsp;The term “Cooperative Extension” means the extension services established at the land-grant colleges and universities under the Smith-Lever Act of May 8, 1914 \[7 U.S.C. 341 et seq.\].
+&emsp;The term "Cooperative Extension" means the extension services established at the land-grant colleges and universities under the Smith-Lever Act of May 8, 1914 \[7 U.S.C. 341 et seq.\].
 
 #### (5) Land-grant colleges and universities
 
-&emsp;The term “land-grant colleges and universities” means—
+&emsp;The term "land-grant colleges and universities" means—
 
 &emsp;&emsp;(A) 1862 Institutions (as defined in section 7601 of title 7);
 
@@ -126,7 +126,7 @@ The Smith-Lever Act of May 8, 1914, referred to in subsec. (h)(4), is act May 8,
 
 #### Codification
 
-May 8, 2008, referred to in subsec. (a), was in the original “the date of enactment of the National Forests, Parks, Public Land, and Reclamation Projects Authorization Act of 2008” and was translated as meaning the date of enactment of the Consolidated Natural Resources Act of 2008, Pub. L. 110–229, which amended this section generally, to reflect the probable intent of Congress. The National Forests, Parks, Public Land, and Reclamation Projects Authorization Act of 2008, was S. 2616, 110th Congress, introduced in the Senate on Feb. 8, 2008, with action thereon indefinitely postponed. The provisions of section 601 of that bill generally amended section 917 of Pub. L. 109–58 (this section) and was a predecessor version of section 601 of Pub. L. 109–229.
+May 8, 2008, referred to in subsec. (a), was in the original "the date of enactment of the National Forests, Parks, Public Land, and Reclamation Projects Authorization Act of 2008" and was translated as meaning the date of enactment of the Consolidated Natural Resources Act of 2008, Pub. L. 110–229, which amended this section generally, to reflect the probable intent of Congress. The National Forests, Parks, Public Land, and Reclamation Projects Authorization Act of 2008, was S. 2616, 110th Congress, introduced in the Senate on Feb. 8, 2008, with action thereon indefinitely postponed. The provisions of section 601 of that bill generally amended section 917 of Pub. L. 109–58 (this section) and was a predecessor version of section 601 of Pub. L. 109–229.
 
 #### Amendments
 

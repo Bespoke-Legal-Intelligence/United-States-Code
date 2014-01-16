@@ -2,7 +2,7 @@
 
 #### (a) Definition of policy
 
-In this section, the term “policy” means a policy, plan of insurance, provision of a policy or plan of insurance, and related materials.
+In this section, the term "policy" means a policy, plan of insurance, provision of a policy or plan of insurance, and related materials.
 
 #### (b) Reimbursement of research, development, and maintenance costs
 
@@ -248,7 +248,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (iii) Annual updates
 
-&emsp;&emsp;&emsp;Beginning with the 2009 crop year, the review under this subparagraph shall be updated on an annual basis as data is accumulated by the Secretary and other sources, so that the Corporation may make determinations regarding adjustments to the surcharge in a timely manneras quickly as evolving practices and data trends allow.
+&emsp;&emsp;&emsp;Beginning with the 2009 crop year, the review under this subparagraph shall be updated on an annual basis as data is accumulated by the Secretary and other sources, so that the Corporation may make determinations regarding adjustments to the surcharge in a timely manner as quickly as evolving practices and data trends allow.
 
 #### (C) Additional price election
 
@@ -284,7 +284,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (A) Definition of dedicated energy crop
 
-&emsp;&emsp;In this subsection, the term “dedicated energy crop” means an annual or perennial crop that—
+&emsp;&emsp;In this subsection, the term "dedicated energy crop" means an annual or perennial crop that—
 
 &emsp;&emsp;&emsp;(i) is grown expressly for the purpose of producing a feedstock for renewable biofuel, renewable electricity, or biobased products; and
 
@@ -312,11 +312,11 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “aquaculture” means the propagation and rearing of aquatic species in controlled or selected environments, including shellfish cultivation on grants or leased bottom and ocean ranching.
+&emsp;&emsp;&emsp;The term "aquaculture" means the propagation and rearing of aquatic species in controlled or selected environments, including shellfish cultivation on grants or leased bottom and ocean ranching.
 
 #### (ii) Exclusion
 
-&emsp;&emsp;&emsp;The term “aquaculture” does not include the private ocean ranching of Pacific salmon for profit in any State in which private ocean ranching of Pacific salmon is prohibited by any law (including regulations).
+&emsp;&emsp;&emsp;The term "aquaculture" does not include the private ocean ranching of Pacific salmon for profit in any State in which private ocean ranching of Pacific salmon is prohibited by any law (including regulations).
 
 #### (B) Authority
 
@@ -378,7 +378,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (A) Definition of poultry
 
-&emsp;&emsp;In this paragraph, the term “poultry” has the meaning given the term in section 182 of this title.
+&emsp;&emsp;In this paragraph, the term "poultry" has the meaning given the term in section 182 of this title.
 
 #### (B) Authority
 
@@ -508,27 +508,27 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (b)(1), (2). Pub. L. 110–246, §12022(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to reimbursement for research and development costs directly related to a policy that was submitted to and approved by the Board under section 1508(h) of this title for reinsurance and, if applicable, offered for sale to producers, and reimbursement for research and development costs approved prior to June 20, 2000.
 
-Subsec. (b)(2)(C)(v). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
+Subsec. (b)(2)(C)(v). Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter".
 
-Subsec. (b)(3). Pub. L. 110–246, §12022(b)(1), struck out “or (2)” after “paragraph (1)”.
+Subsec. (b)(3). Pub. L. 110–246, §12022(b)(1), struck out "or (2)" after "paragraph (1)".
 
-Subsec. (b)(4)(A). Pub. L. 110–246, §12022(b)(2), struck out “and (2)” after “paragraphs (1)”.
+Subsec. (b)(4)(A). Pub. L. 110–246, §12022(b)(2), struck out "and (2)" after "paragraphs (1)".
 
 Subsec. (c)(10) to (16). Pub. L. 110–246, §12023(2), added pars. (10) to (16). Former par. (10) redesignated (17).
 
-Subsec. (c)(17). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” in introductory provisions.
+Subsec. (c)(17). Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter" in introductory provisions.
 
 Pub. L. 110–246, §12023(1), redesignated par. (10) as (17).
 
-Subsec. (d)(2). Pub. L. 110–246, §7511(c)(1), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
+Subsec. (d)(2). Pub. L. 110–246, §7511(c)(1), substituted "the National Institute of Food and Agriculture" for "the Cooperative State Research, Education, and Extension Service".
 
-Subsec. (e)(1). Pub. L. 110–246, §12024(1), substituted “$7,500,000 for fiscal year 2008 and each subsequent fiscal year” for “$10,000,000 for each of fiscal years 2001 and 2002 and not more than $15,000,000 for fiscal year 2003 and each subsequent fiscal year.”
+Subsec. (e)(1). Pub. L. 110–246, §12024(1), substituted "$7,500,000 for fiscal year 2008 and each subsequent fiscal year" for "$10,000,000 for each of fiscal years 2001 and 2002 and not more than $15,000,000 for fiscal year 2003 and each subsequent fiscal year."
 
-Subsec. (e)(2)(A). Pub. L. 110–246, §12024(2), substituted “$12,500,000 for fiscal year 2008” for “$20,000,000 for each of fiscal years 2001 through 2003 and not more than $25,000,000 for fiscal year 2004”.
+Subsec. (e)(2)(A). Pub. L. 110–246, §12024(2), substituted "$12,500,000 for fiscal year 2008" for "$20,000,000 for each of fiscal years 2001 through 2003 and not more than $25,000,000 for fiscal year 2004".
 
-Subsec. (e)(3). Pub. L. 110–246, §12024(3), substituted “the Corporation may use—” for “the Corporation may use the excess amount to carry out another function authorized under this section.” and added subpars. (A) and (B).
+Subsec. (e)(3). Pub. L. 110–246, §12024(3), substituted "the Corporation may use—" for "the Corporation may use the excess amount to carry out another function authorized under this section." and added subpars. (A) and (B).
 
-Subsec. (e)(4). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” in two places.
+Subsec. (e)(4). Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter" in two places.
 
 #### Effective Date of 2008 Amendment
 
@@ -546,21 +546,21 @@ Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, s
 
 Pub. L. 107–20, title II, §2103, July 24, 2001, 115 Stat. 165, provided that:
 
-“(a) Not later than August 1, 2001, the Federal Crop Insurance Corporation shall promulgate final regulations to carry out section 522(b) of the Federal Crop Insurance Act (7 U.S.C. 522(b) \[1522(b)\]), without regard to—
+"(a) Not later than August 1, 2001, the Federal Crop Insurance Corporation shall promulgate final regulations to carry out section 522(b) of the Federal Crop Insurance Act (7 U.S.C. 522(b) \[1522(b)\]), without regard to—
 
-&emsp;“(1) the notice and comment provisions of section 553 of title 5, United States Code;
+&emsp;"(1) the notice and comment provisions of section 553 of title 5, United States Code;
 
-&emsp;“(2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
+&emsp;"(2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
 
-&emsp;“(3) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
+&emsp;"(3) chapter 35 of title 44, United States Code (commonly known as the 'Paperwork Reduction Act').
 
-“(b) In carrying out this section, the Corporation shall use the authority provided under section 808 of title 5, United States Code.
+"(b) In carrying out this section, the Corporation shall use the authority provided under section 808 of title 5, United States Code.
 
-“(c) The final regulations promulgated under subsection (a) shall take effect on the date of publication of the final regulations.”
+"(c) The final regulations promulgated under subsection (a) shall take effect on the date of publication of the final regulations."
 
 <i><sup>1</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraph".</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
 

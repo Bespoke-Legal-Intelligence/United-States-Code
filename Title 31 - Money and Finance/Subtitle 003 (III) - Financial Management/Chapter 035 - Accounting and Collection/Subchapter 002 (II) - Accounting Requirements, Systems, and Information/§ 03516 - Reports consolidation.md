@@ -54,85 +54,85 @@ Section 874(b)(2) of the Homeland Security Act of 2002, referred to in subsec. (
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9. 2004.
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight andGovernment Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Department of Homeland Security Audit Requirement Target
 
 Pub. L. 112–217, Dec. 20, 2012, 126 Stat. 1591, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘DHS Audit Requirement Target Act of 2012’ or the ‘DART Act’.
+"This Act may be cited as the 'DHS Audit Requirement Target Act of 2012' or the 'DART Act'.
 
-#### “SEC. 2. IMPROVING FINANCIAL ACCOUNTABILITY AND MANAGEMENT.
+#### "SEC. 2. IMPROVING FINANCIAL ACCOUNTABILITY AND MANAGEMENT.
 
-“(a)
+"(a)
 
 Definitions.—In this section—
 
-&emsp;“(1) the term ‘Department’ means the Department of Homeland Security;
+&emsp;"(1) the term 'Department' means the Department of Homeland Security;
 
-&emsp;“(2) the term ‘financial management systems’ has the meaning given that term under section 806 of the Federal Financial Management Improvement Act of 1996 (31 U.S.C. 3512 note);
+&emsp;"(2) the term 'financial management systems' has the meaning given that term under section 806 of the Federal Financial Management Improvement Act of 1996 (31 U.S.C. 3512 note);
 
-&emsp;“(3) the term ‘Secretary’ means the Secretary of Homeland Security; and
+&emsp;"(3) the term 'Secretary' means the Secretary of Homeland Security; and
 
-&emsp;“(4) the term ‘unqualified opinion’ mean an unqualified opinion within the meaning given that term under generally accepted auditing standards.
+&emsp;"(4) the term 'unqualified opinion' mean an unqualified opinion within the meaning given that term under generally accepted auditing standards.
 
-“(b)
+"(b)
 
 Reaching an Unqualified Audit Opinion.—In order to ensure compliance with the Department of Homeland Security Financial Accountability Act (Public Law 108–330; 118 Stat. 1275) \[see Short Title of 2004 Amendment note set out under section 101 of Title 6, Domestic Security\], and the amendments made by that Act, the Secretary shall take the necessary steps to ensure that the full set of consolidated financial statements of the Department for the fiscal year ending September 30, 2013, and each fiscal year thereafter, are ready in a timely manner and in preparation for an audit as part of preparing the performance and accountability reports required under section 3516(f) of title 31, United States Code, (including submitting the reports not later than November 15, 2013, and each year thereafter) in order to obtain an unqualified opinion on the full set of financial statements for the fiscal year.
 
-“(c)
+"(c)
 
 Report to Congress on Progress of Meeting Audit Requirements.—In order to ensure progress in implementing the Department of Homeland Security Financial Accountability Act (Public Law 108–330; 118 Stat. 1275), and the amendments made by that Act, during the period beginning on the date of enactment of this Act \[Dec. 20, 2012\] and ending on the date on which an unqualified opinion described in subsection (b) is submitted, each report submitted by the Chief Financial Officer of the Department under section 902(a)(6) of title 31, United States Code, shall include a plan—
 
-&emsp;“(1) to obtain an unqualified opinion on the full set of financial statements, which shall discuss plans and resources needed to meet the deadlines under subsection (b);
+&emsp;"(1) to obtain an unqualified opinion on the full set of financial statements, which shall discuss plans and resources needed to meet the deadlines under subsection (b);
 
-&emsp;“(2) that addresses how the Department will eliminate material weaknesses and significant deficiencies in internal controls over financial reporting and provides deadlines for the elimination of such weaknesses and deficiencies; and
+&emsp;"(2) that addresses how the Department will eliminate material weaknesses and significant deficiencies in internal controls over financial reporting and provides deadlines for the elimination of such weaknesses and deficiencies; and
 
-&emsp;“(3) to modernize the financial management systems of the Department, including timelines, goals, alternatives, and costs of the plan, which shall include consideration of alternative approaches, including modernizing the existing financial management systems and associated financial controls of the Department and establishing new financial management systems and associated financial controls.”
+&emsp;"(3) to modernize the financial management systems of the Department, including timelines, goals, alternatives, and costs of the plan, which shall include consideration of alternative approaches, including modernizing the existing financial management systems and associated financial controls of the Department and establishing new financial management systems and associated financial controls."
 
 #### Audit Opinion and Internal Controls by Secretary of Homeland Security
 
 Pub. L. 108–330, §4(b), (c), Oct. 16, 2004, 118 Stat. 1277, provided that:
 
-“(b)
+"(b)
 
 Implementation of Audit Opinion Requirement.—The Secretary of Homeland Security shall include audit opinions in performance and accountability reports under section 3516(f) of title 31, United States Code, as amended by subsection (a), only for fiscal years after fiscal year 2005.
 
-“(c)
+"(c)
 
-Assertion of Internal Controls.—The Secretary of Homeland Security shall include in the performance and accountability report for fiscal year 2005 submitted by the Secretary under section 3516(f) of title 31, United States Code, an assertion of the internal controls that apply to financial reporting by the Department of Homeland Security.”
+Assertion of Internal Controls.—The Secretary of Homeland Security shall include in the performance and accountability report for fiscal year 2005 submitted by the Secretary under section 3516(f) of title 31, United States Code, an assertion of the internal controls that apply to financial reporting by the Department of Homeland Security."
 
 #### Findings and Purposes
 
 Pub. L. 106–531, §2, Nov. 22, 2000, 114 Stat. 2537, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress finds that—
 
-&emsp;“(1) existing law imposes numerous financial and performance management reporting requirements on agencies;
+&emsp;"(1) existing law imposes numerous financial and performance management reporting requirements on agencies;
 
-&emsp;“(2) these separate requirements can cause duplication of effort on the part of agencies and result in uncoordinated reports containing information in a form that is not completely useful to Congress; and
+&emsp;"(2) these separate requirements can cause duplication of effort on the part of agencies and result in uncoordinated reports containing information in a form that is not completely useful to Congress; and
 
-&emsp;“(3) pilot projects conducted by agencies under the direction of the Office of Management and Budget demonstrate that single consolidated reports providing an analysis of verifiable financial and performance management information produce more useful reports with greater efficiency.
+&emsp;"(3) pilot projects conducted by agencies under the direction of the Office of Management and Budget demonstrate that single consolidated reports providing an analysis of verifiable financial and performance management information produce more useful reports with greater efficiency.
 
-“(b)
+"(b)
 
 Purposes.—The purposes of this Act \[see Short Title of 2000 Amendment note set out under section 3501 of this title\] are—
 
-&emsp;“(1) to authorize and encourage the consolidation of financial and performance management reports;
+&emsp;"(1) to authorize and encourage the consolidation of financial and performance management reports;
 
-&emsp;“(2) to provide financial and performance management information in a more meaningful and useful format for Congress, the President, and the public;
+&emsp;"(2) to provide financial and performance management information in a more meaningful and useful format for Congress, the President, and the public;
 
-&emsp;“(3) to improve the quality of agency financial and performance management information; and
+&emsp;"(3) to improve the quality of agency financial and performance management information; and
 
-&emsp;“(4) to enhance coordination and efficiency on the part of agencies in reporting financial and performance management information.”
+&emsp;"(4) to enhance coordination and efficiency on the part of agencies in reporting financial and performance management information."
 
 #### Special Rule for Fiscal Years 2000 and 2001
 
-Pub. L. 106–531, §3(b), Nov. 22, 2000, 114 Stat. 2538, provided that: “Notwithstanding paragraph (1) of section 3516(a) of title 31, United States Code (as added by subsection (a) of this section), the head of an executive agency may submit a consolidated report under such paragraph not later than 180 days after the end of that agency's fiscal year, with respect to fiscal years 2000 and 2001.”
+Pub. L. 106–531, §3(b), Nov. 22, 2000, 114 Stat. 2538, provided that: "Notwithstanding paragraph (1) of section 3516(a) of title 31, United States Code (as added by subsection (a) of this section), the head of an executive agency may submit a consolidated report under such paragraph not later than 180 days after the end of that agency's fiscal year, with respect to fiscal years 2000 and 2001."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

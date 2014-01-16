@@ -6,7 +6,7 @@ Financial records originally obtained pursuant to this chapter shall not be tran
 
 #### (b) Mailing of copy of certification and notice to customer
 
-When financial records subject to this chapter are transferred pursuant to subsection (a) of this section, the transferring agency or department shall, within fourteen days, send to the customer a copy of the certification made pursuant to subsection (a) of this section and the following notice, which shall state the nature of the law enforcement inquiry with reasonable specificity: “Copies of, or information contained in, your financial records lawfully in possession of                    have been furnished to              pursuant to the Right of Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] for the following purpose:             . If you believe that this transfer has not been made to further a legitimate law enforcement inquiry, you may have legal rights under the Financial Privacy Act of 1978 or the Privacy Act of 1974 \[5 U.S.C. 552a\].”
+When financial records subject to this chapter are transferred pursuant to subsection (a) of this section, the transferring agency or department shall, within fourteen days, send to the customer a copy of the certification made pursuant to subsection (a) of this section and the following notice, which shall state the nature of the law enforcement inquiry with reasonable specificity: "Copies of, or information contained in, your financial records lawfully in possession of                    have been furnished to              pursuant to the Right of Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] for the following purpose:             . If you believe that this transfer has not been made to further a legitimate law enforcement inquiry, you may have legal rights under the Financial Privacy Act of 1978 or the Privacy Act of 1974 \[5 U.S.C. 552a\]."
 
 #### (c) Court-ordered delays in mailing
 
@@ -52,25 +52,25 @@ Section 3401(6) of this title, referred to in subsec. (e), was redesignated sect
 
 <b>2012</b>—Subsec. (e). Pub. L. 112–203, §1, amended Pub. L. 109–455, §13. See 2006 Amendment note below.
 
-<b>2010</b>—Subsec. (e). Pub. L. 111–203 substituted “the Commodity Futures Trading Commission, and the Bureau of Consumer Financial Protection is permitted” for “and the Commodity Futures Trading Commission is permitted”.
+<b>2010</b>—Subsec. (e). Pub. L. 111–203 substituted "the Commodity Futures Trading Commission, and the Bureau of Consumer Financial Protection is permitted" for "and the Commodity Futures Trading Commission is permitted".
 
-<b>2006</b>—Subsec. (e). Pub. L. 109–455, §10, which inserted “the Federal Trade Commission,” after “the Securities and Exchange Commission,”, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
+<b>2006</b>—Subsec. (e). Pub. L. 109–455, §10, which inserted "the Federal Trade Commission," after "the Securities and Exchange Commission,", was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–56 inserted “, or intelligence or counterintelligence activity, investigation or analysis related to international terrorism” after “legitimate law enforcement inquiry”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–56 inserted ", or intelligence or counterintelligence activity, investigation or analysis related to international terrorism" after "legitimate law enforcement inquiry".
 
-<b>1999</b>—Subsec. (e). Pub. L. 106–102 inserted “, examination reports” after “financial records” and substituted “provision of law,” for “provision of this chapter,” and “, the Securities and Exchange Commission, and the Commodity Futures Trading Commission” for “and the Securities and Exchange Commission”.
+<b>1999</b>—Subsec. (e). Pub. L. 106–102 inserted ", examination reports" after "financial records" and substituted "provision of law," for "provision of this chapter," and ", the Securities and Exchange Commission, and the Commodity Futures Trading Commission" for "and the Securities and Exchange Commission".
 
-<b>1992</b>—Subsec. (f)(1). Pub. L. 102–550, §1516(1), inserted “or the Secretary of the Treasury” after “the Attorney General”.
+<b>1992</b>—Subsec. (f)(1). Pub. L. 102–550, §1516(1), inserted "or the Secretary of the Treasury" after "the Attorney General".
 
-Subsec. (f)(2). Pub. L. 102–550, §1606(b), inserted a comma before “for civil actions” and made technical amendment to reference to sections 981 or 982 of title 18.
+Subsec. (f)(2). Pub. L. 102–550, §1606(b), inserted a comma before "for civil actions" and made technical amendment to reference to sections 981 or 982 of title 18.
 
-Pub. L. 102–550, §1516(2), inserted “and only for criminal investigative purposes relating to money laundering and other financial crimes by the Department of the Treasury” after “the Department of Justice”.
+Pub. L. 102–550, §1516(2), inserted "and only for criminal investigative purposes relating to money laundering and other financial crimes by the Department of the Treasury" after "the Department of Justice".
 
-<b>1991</b>—Subsec. (f)(2). Pub. L. 102–242 inserted “for civil actions under section 1833a of this title, or for forfeiture under sections 981 or 982 of title 18” after “or prosecutive purposes” and inserted at end “No agency or department so transferring such records shall be deemed to have waived any privilege applicable to those records under law.”
+<b>1991</b>—Subsec. (f)(2). Pub. L. 102–242 inserted "for civil actions under section 1833a of this title, or for forfeiture under sections 981 or 982 of title 18" after "or prosecutive purposes" and inserted at end "No agency or department so transferring such records shall be deemed to have waived any privilege applicable to those records under law."
 
-<b>1989</b>—Subsec. (e). Pub. L. 101–73, §944(1), which directed the insertion of “, holding company, or any subsidiary of a depository institution or holding company,” after “with respect to a depository institution”, was executed by making the insertion after “with respect to a financial institution”, as the probable intent of Congress.
+<b>1989</b>—Subsec. (e). Pub. L. 101–73, §944(1), which directed the insertion of ", holding company, or any subsidiary of a depository institution or holding company," after "with respect to a depository institution", was executed by making the insertion after "with respect to a financial institution", as the probable intent of Congress.
 
-Pub. L. 101–73, §944(2), substituted “Council and the Securities and Exchange Commission” for “Council”.
+Pub. L. 101–73, §944(2), substituted "Council and the Securities and Exchange Commission" for "Council".
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–690 added subsec. (f).
 
@@ -94,5 +94,5 @@ Amendment by section 1606(b) of Pub. L. 102–550 effective as if included in th
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "section".</i>
 

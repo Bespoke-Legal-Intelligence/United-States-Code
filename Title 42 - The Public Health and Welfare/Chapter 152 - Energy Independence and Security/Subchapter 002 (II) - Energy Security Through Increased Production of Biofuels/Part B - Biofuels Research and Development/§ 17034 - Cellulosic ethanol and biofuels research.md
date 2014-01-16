@@ -2,11 +2,11 @@
 
 #### (a) Definition of eligible entity
 
-In this section, the term “eligible entity” means—
+In this section, the term "eligible entity" means—
 
 &emsp;(1) an 1890 Institution (as defined in section 7601 of title 7);
 
-&emsp;(2) a part B institution (as defined in section 1061 of title 20) (commonly referred to as “Historically Black Colleges and Universities”);
+&emsp;(2) a part B institution (as defined in section 1061 of title 20) (commonly referred to as "Historically Black Colleges and Universities");
 
 &emsp;(3) a tribal college or university (as defined in section 1059c(b) of title 20); or
 

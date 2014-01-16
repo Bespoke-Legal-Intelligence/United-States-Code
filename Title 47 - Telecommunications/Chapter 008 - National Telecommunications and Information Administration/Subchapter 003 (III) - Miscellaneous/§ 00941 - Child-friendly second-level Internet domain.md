@@ -2,7 +2,7 @@
 
 #### (a) Responsibilities
 
-The NTIA shall require the registry selected to operate and maintain the United States country code Internet domain to establish, operate, and maintain a second-level domain within the United States country code domain that provides access only to material that is suitable for minors and not harmful to minors (in this section referred to as the “new domain”).
+The NTIA shall require the registry selected to operate and maintain the United States country code Internet domain to establish, operate, and maintain a second-level domain within the United States country code domain that provides access only to material that is suitable for minors and not harmful to minors (in this section referred to as the "new domain").
 
 #### (b) Conditions of contracts
 
@@ -90,9 +90,9 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Harmful to minors
 
-&emsp;The term “harmful to minors” means, with respect to material, that—
+&emsp;The term "harmful to minors" means, with respect to material, that—
 
-&emsp;&emsp;(A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, that it is designed to appealto, or is designed to pander to, the prurient interest;
+&emsp;&emsp;(A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, that it is designed to appeal to, or is designed to pander to, the prurient interest;
 
 &emsp;&emsp;(B) the material depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
 
@@ -100,19 +100,19 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Minor
 
-&emsp;The term “minor” means any person under 13 years of age.
+&emsp;The term "minor" means any person under 13 years of age.
 
 #### (3) Registry
 
-&emsp;The term “registry” means the registry selected to operate and maintain the United States country code Internet domain.
+&emsp;The term "registry" means the registry selected to operate and maintain the United States country code Internet domain.
 
 #### (4) Successor registry
 
-&emsp;The term “successor registry” means any entity that enters into a contract with the NTIA to operate and maintain the United States country code Internet domain that covers any period after the termination or expiration of the contract to operate and maintain the United States country code Internet domain, and any option periods under such contract, that was signed on October 26, 2001.
+&emsp;The term "successor registry" means any entity that enters into a contract with the NTIA to operate and maintain the United States country code Internet domain that covers any period after the termination or expiration of the contract to operate and maintain the United States country code Internet domain, and any option periods under such contract, that was signed on October 26, 2001.
 
 #### (5) Suitable for minors
 
-&emsp;The term “suitable for minors” means, with respect to material, that it—
+&emsp;The term "suitable for minors" means, with respect to material, that it—
 
 &emsp;&emsp;(A) is not psychologically or intellectually inappropriate for minors; and
 
@@ -134,37 +134,37 @@ The Communications Act of 1934, referred to in subsec. (e)(2), is act June 19, 1
 
 Pub. L. 107–317, §2, Dec. 4, 2002, 116 Stat. 2766, provided that:
 
-“(a)
+"(a)
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) the World Wide Web presents a stimulating and entertaining opportunity for children to learn, grow, and develop educationally and intellectually;
+&emsp;"(1) the World Wide Web presents a stimulating and entertaining opportunity for children to learn, grow, and develop educationally and intellectually;
 
-&emsp;“(2) Internet technology also makes available an extensive amount of information that is harmful to children, as studies indicate that a significant portion of all material available on the Internet is related to pornography;
+&emsp;"(2) Internet technology also makes available an extensive amount of information that is harmful to children, as studies indicate that a significant portion of all material available on the Internet is related to pornography;
 
-&emsp;“(3) young children, when trying to use the World Wide Web for positive purposes, are often presented—either mistakenly or intentionally—with material that is inappropriate for their age, which can be extremely frustrating for children, parents, and educators;
+&emsp;"(3) young children, when trying to use the World Wide Web for positive purposes, are often presented—either mistakenly or intentionally—with material that is inappropriate for their age, which can be extremely frustrating for children, parents, and educators;
 
-&emsp;“(4) exposure of children to material that is inappropriate for them, including pornography, can distort the education and development of the Nation's youth and represents a serious harm to American families that can lead to a host of other problems for children, including inappropriate use of chat rooms, physical molestation, harassment, and legal and financial difficulties;
+&emsp;"(4) exposure of children to material that is inappropriate for them, including pornography, can distort the education and development of the Nation's youth and represents a serious harm to American families that can lead to a host of other problems for children, including inappropriate use of chat rooms, physical molestation, harassment, and legal and financial difficulties;
 
-&emsp;“(5) young boys and girls, older teens, troubled youth, frequent Internet users, chat room participants, online risk takers, and those who communicate online with strangers are at greater risk for receiving unwanted sexual solicitation on the Internet;
+&emsp;"(5) young boys and girls, older teens, troubled youth, frequent Internet users, chat room participants, online risk takers, and those who communicate online with strangers are at greater risk for receiving unwanted sexual solicitation on the Internet;
 
-&emsp;“(6) studies have shown that 19 percent of youth (ages 10 to 17) who used the Internet regularly were the targets of unwanted sexual solicitation, but less than 10 percent of the solicitations were reported to the police;
+&emsp;"(6) studies have shown that 19 percent of youth (ages 10 to 17) who used the Internet regularly were the targets of unwanted sexual solicitation, but less than 10 percent of the solicitations were reported to the police;
 
-&emsp;“(7) children who come across illegal content should report it to the congressionally authorized CyberTipline, an online mechanism developed by the National Center for Missing and Exploited Children, for citizens to report sexual crimes against children;
+&emsp;"(7) children who come across illegal content should report it to the congressionally authorized CyberTipline, an online mechanism developed by the National Center for Missing and Exploited Children, for citizens to report sexual crimes against children;
 
-&emsp;“(8) the CyberTipline has received more than 64,400 reports, including reports of child pornography, online enticement for sexual acts, child molestation (outside the family), and child prostitution;
+&emsp;"(8) the CyberTipline has received more than 64,400 reports, including reports of child pornography, online enticement for sexual acts, child molestation (outside the family), and child prostitution;
 
-&emsp;“(9) although the computer software and hardware industries, and other related industries, have developed innovative ways to help parents and educators restrict material that is harmful to minors through parental control protections and self-regulation, to date such efforts have not provided a national solution to the problem of minors accessing harmful material on the World Wide Web;
+&emsp;"(9) although the computer software and hardware industries, and other related industries, have developed innovative ways to help parents and educators restrict material that is harmful to minors through parental control protections and self-regulation, to date such efforts have not provided a national solution to the problem of minors accessing harmful material on the World Wide Web;
 
-&emsp;“(10) the creation of a ‘green-light’ area within the United States country code Internet domain, that will contain only content that is appropriate for children under the age of 13, is analogous to the creation of a children's section within a library and will promote the positive experiences of children and families in the United States; and
+&emsp;"(10) the creation of a 'green-light' area within the United States country code Internet domain, that will contain only content that is appropriate for children under the age of 13, is analogous to the creation of a children's section within a library and will promote the positive experiences of children and families in the United States; and
 
-&emsp;“(11) while custody, care, and nurture of the child reside first with the parent, the protection of the physical and psychological well-being of minors by shielding them from material that is harmful to them is a compelling governmental interest.
+&emsp;"(11) while custody, care, and nurture of the child reside first with the parent, the protection of the physical and psychological well-being of minors by shielding them from material that is harmful to them is a compelling governmental interest.
 
-“(b)
+"(b)
 
 Purposes.—The purposes of this Act \[see Short Title of 2002 Amendment note set out under section 901 of this title\] are—
 
-&emsp;“(1) to facilitate the creation of a second-level domain within the United States country code Internet domain for the location of material that is suitable for minors and not harmful to minors; and
+&emsp;"(1) to facilitate the creation of a second-level domain within the United States country code Internet domain for the location of material that is suitable for minors and not harmful to minors; and
 
-&emsp;“(2) to ensure that the National Telecommunications and Information Administration oversees the creation of such a second-level domain and ensures the effective and efficient establishment and operation of the new domain.”
+&emsp;"(2) to ensure that the National Telecommunications and Information Administration oversees the creation of such a second-level domain and ensures the effective and efficient establishment and operation of the new domain."
 

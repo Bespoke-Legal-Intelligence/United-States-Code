@@ -40,7 +40,7 @@ If the notice required to be posted pursuant to section 1693b(d)(3)(B)(i) of thi
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1)(E). Pub. L. 111–203 substituted “Bureau” for “Board”.
+<b>2010</b>—Subsec. (a)(1)(E). Pub. L. 111–203 substituted "Bureau" for "Board".
 
 <b>1999</b>—Subsec. (d). Pub. L. 106–102 added subsec. (d).
 
@@ -48,5 +48,5 @@ If the notice required to be posted pursuant to section 1693b(d)(3)(B)(i) of thi
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “financial”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "financial".</i>
 

@@ -52,7 +52,7 @@ Aug. 19, 1964, Pub. L. 88–449, §§12, 13, 15, 78 Stat. 499.
 
 &nbsp;
 
-In subsection (a), the words “shares of” are omitted as unnecessary.
+In subsection (a), the words "shares of" are omitted as unnecessary.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title.
 

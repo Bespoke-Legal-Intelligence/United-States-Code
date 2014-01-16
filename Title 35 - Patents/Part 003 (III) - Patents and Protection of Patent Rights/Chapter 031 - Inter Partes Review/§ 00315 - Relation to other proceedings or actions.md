@@ -40,7 +40,7 @@ Estoppel.—
 
 &emsp;(1)
 
-Proceedings before the office.—The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not request or maintain a proceeding before the Office with respect to thatclaim on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
+Proceedings before the office.—The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not request or maintain a proceeding before the Office with respect to that claim on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
 
 &emsp;(2)
 
@@ -58,13 +58,13 @@ Section 337 of the Tariff Act of 1930, referred to in subsec. (e)(2), is classif
 
 <b>2002</b>—Pub. L. 107–273, §13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 
-Subsec. (b). Pub. L. 107–273, §13106(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A third-party requester may—
+Subsec. (b). Pub. L. 107–273, §13106(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "A third-party requester may—
 
-&emsp;“(1) appeal under the provisions of section 134 with respect to any final decision favorable to the patentability of any original or proposed amended or new claim of the patent; or
+&emsp;"(1) appeal under the provisions of section 134 with respect to any final decision favorable to the patentability of any original or proposed amended or new claim of the patent; or
 
-&emsp;“(2) be a party to any appeal taken by the patent owner under the provisions of section 134, subject to subsection (c).”
+&emsp;"(2) be a party to any appeal taken by the patent owner under the provisions of section 134, subject to subsection (c)."
 
-Subsec. (c). Pub. L. 107–273, §13202(a)(4), struck out “United States Code,” after “title 28,”.
+Subsec. (c). Pub. L. 107–273, §13202(a)(4), struck out "United States Code," after "title 28,".
 
 #### Effective Date of 2011 Amendment
 

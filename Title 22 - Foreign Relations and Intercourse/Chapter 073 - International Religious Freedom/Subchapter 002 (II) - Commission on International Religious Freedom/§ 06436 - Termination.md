@@ -6,13 +6,13 @@ The Commission shall terminate on September 30, 2014.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–75 substituted “September 30, 2014” for “September 30, 2011”.
+<b>2011</b>—Pub. L. 112–75 substituted "September 30, 2014" for "September 30, 2011".
 
-<b>2002</b>—Pub. L. 107–228 substituted “September 30, 2011” for “May 14, 2003”.
+<b>2002</b>—Pub. L. 107–228 substituted "September 30, 2011" for "May 14, 2003".
 
-<b>1999</b>—Pub. L. 106–55, §1(c), which directed substitution of “on May 14, 2003” for “4 years after the initial appointment of all the Commissioners”, was executed by making the substitution for “4 years after the initial appointment of all of the Commissioners”, to reflect the probable intent of Congress.
+<b>1999</b>—Pub. L. 106–55, §1(c), which directed substitution of "on May 14, 2003" for "4 years after the initial appointment of all the Commissioners", was executed by making the substitution for "4 years after the initial appointment of all of the Commissioners", to reflect the probable intent of Congress.
 
 #### Extension of Termination Date
 
-Pub. L. 112–74, div. I, title I, Dec. 23, 2011, 125 Stat. 1173, provided in part: “That section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) shall be applied by substituting ‘September 30, 2012’ for ‘September 30, 2011’ ”.
+Pub. L. 112–74, div. I, title I, Dec. 23, 2011, 125 Stat. 1173, provided in part: "That section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) shall be applied by substituting 'September 30, 2012' for 'September 30, 2011' ".
 

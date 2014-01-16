@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Excepted PLUS loan
 
-&emsp;The term “excepted PLUS loan” means a loan under section 1078–2 of this title, or a Federal Direct PLUS Loan, that is made, insured, or guaranteed on behalf of a dependent student.
+&emsp;The term "excepted PLUS loan" means a loan under section 1078–2 of this title, or a Federal Direct PLUS Loan, that is made, insured, or guaranteed on behalf of a dependent student.
 
 #### (2) Excepted consolidation loan
 
-&emsp;The term “excepted consolidation loan” means a consolidation loan under section 1078–3 of this title, or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to the discharge the liability on an excepted PLUS loan.
+&emsp;The term "excepted consolidation loan" means a consolidation loan under section 1078–3 of this title, or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to the discharge the liability on an excepted PLUS loan.
 
 #### (3) Partial financial hardship
 
-&emsp;The term “partial financial hardship”, when used with respect to a borrower, means that for such borrower—
+&emsp;The term "partial financial hardship", when used with respect to a borrower, means that for such borrower—
 
 &emsp;&emsp;(A) the annual amount due on the total amount of loans made, insured, or guaranteed under part B or C (other than an excepted PLUS loan or excepted consolidation loan) to a borrower as calculated under the standard repayment plan under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period; exceeds
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of this chapter and part C of subchapter I o
 
 #### (c) Eligibility determinations
 
-The Secretary shall establish procedures for annually determining the borrower's eligibility for income-based repayment, including verification of a borrower's annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or C (other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section. The Secretary shall consider, but is not limited to, the procedures established in accordance with section 1087e(e)(1) of this title or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) or 1078–3(b)(1)(E) of this title.
+The Secretary shall establish procedures for annually determining the borrower's eligibility for income-based repayment, including verification of a borrower's annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or C (other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section. The Secretary shall consider, but is not limited to, the procedures established in accordance withsection 1087e(e)(1) of this title or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) or 1078–3(b)(1)(E) of this title.
 
 #### (d) Special rule for married borrowers filing separately
 
@@ -92,9 +92,9 @@ In the case of a married borrower who files a separate Federal income tax return
 
 With respect to any loan made to a new borrower on or after July 1, 2014—
 
-&emsp;(1) subsection (a)(3)(B) shall be applied by substituting “10 percent” for “15 percent”; and
+&emsp;(1) subsection (a)(3)(B) shall be applied by substituting "10 percent" for "15 percent"; and
 
-&emsp;(2) subsection (b)(7)(B) shall be applied by substituting “20 years” for “25 years”.
+&emsp;(2) subsection (b)(7)(B) shall be applied by substituting "20 years" for "25 years".
 
 (Pub. L. 89–329, title IV, §493C, as added Pub. L. 110–84, title II, §203(a), Sept. 27, 2007, 121 Stat. 792; amended Pub. L. 110–153, §2, Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §494F, Aug. 14, 2008, 122 Stat. 3324; Pub. L. 111–152, title II, §2213, Mar. 30, 2010, 124 Stat. 1081.)
 
@@ -102,7 +102,7 @@ With respect to any loan made to a new borrower on or after July 1, 2014—
 
 <b>2010</b>—Subsec. (e). Pub. L. 111–152 added subsec. (e).
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315 substituted “or had been in default” for “or is already in default”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315 substituted "or had been in default" for "or is already in default".
 
 <b>2007</b>—Subsec. (d). Pub. L. 110–153 added subsec. (d).
 

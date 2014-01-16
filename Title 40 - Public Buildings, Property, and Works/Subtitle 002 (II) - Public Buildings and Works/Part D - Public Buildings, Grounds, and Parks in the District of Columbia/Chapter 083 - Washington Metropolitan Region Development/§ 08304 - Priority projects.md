@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 86–527, §4, June 27, 1960, 74 Stat. 223.
 
-The words “The Congress further declares that” are omitted as obsolete.
+The words "The Congress further declares that" are omitted as obsolete.
 

@@ -2,7 +2,7 @@
 
 #### (a) Implementation and elements
 
-Beginning in fiscal year 1985, the National Park Service shall implement a maintenance management system into the maintenance and operations programs of the National Park System. For purposes of this section the term “maintenance management system” means a system that contains but is not limited to the following elements:
+Beginning in fiscal year 1985, the National Park Service shall implement a maintenance management system into the maintenance and operations programs of the National Park System. For purposes of this section the term "maintenance management system" means a system that contains but is not limited to the following elements:
 
 &emsp;(1) a work load inventory of assets including detailed information that quantifies for all assets (including but not limited to buildings, roads, utility systems, and grounds that must be maintained) the characteristics affecting the type of maintenance work performed;
 
@@ -26,17 +26,17 @@ Beginning in fiscal year 1985, the National Park Service shall implement a maint
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–333 struck out subsec. (b) which read as follows:
 
-“The National Park Service shall transmit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, at the end of each fiscal year, a copy of a report summarizing the status of implementation of a maintenance management system until such a system has been implemented.
+"The National Park Service shall transmit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, at the end of each fiscal year, a copy of a report summarizing the status of implementation of a maintenance management system until such a system has been implemented.
 
-“The report shall incorporate the following information:
+"The report shall incorporate the following information:
 
-&emsp;“(1) the number of units in the National Park System that have implemented a maintenance management system during the period;
+&emsp;"(1) the number of units in the National Park System that have implemented a maintenance management system during the period;
 
-&emsp;“(2) contract costs versus management efficiencies achieved;
+&emsp;"(2) contract costs versus management efficiencies achieved;
 
-&emsp;“(3) the total amount of dollars spent on contracts for services; and
+&emsp;"(3) the total amount of dollars spent on contracts for services; and
 
-&emsp;“(4) estimation of the total value of benefits achieved through greater management efficiency.”
+&emsp;"(4) estimation of the total value of benefits achieved through greater management efficiency."
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–437 in introductory provisions substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437 in introductory provisions substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 

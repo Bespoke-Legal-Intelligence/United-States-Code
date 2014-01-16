@@ -8,11 +8,11 @@
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–479 substituted “Minimum property standards” for “Promotion of energy saving techniques by Secretary of Housing and Urban Development of insured housing” in section catchline.
+<b>1984</b>—Pub. L. 98–479 substituted "Minimum property standards" for "Promotion of energy saving techniques by Secretary of Housing and Urban Development of insured housing" in section catchline.
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–181 designated existing provision as subsec. (a), inserted “, other than manufactured homes,” after “housing”, inserted provision that the energy performance requirements developed for newly constructed residential housing, other than manufactured homes, be at least as effective in performance as the energy performance requirements incorporated in the minimum property standards in effect Sept. 30, 1982, and added subsec. (b).
+<b>1983</b>—Subsec. (a). Pub. L. 98–181 designated existing provision as subsec. (a), inserted ", other than manufactured homes," after "housing", inserted provision that the energy performance requirements developed for newly constructed residential housing, other than manufactured homes, be at least as effective in performance as the energy performance requirements incorporated in the minimum property standards in effect Sept. 30, 1982, and added subsec. (b).
 
-<b>1980</b>—Pub. L. 96–399 struck out “, until such time as the energy conservation performance standards required under the Energy Conservation Standards for New Buildings Act of 1976 become effective” in second sentence.
+<b>1980</b>—Pub. L. 96–399 struck out ", until such time as the energy conservation performance standards required under the Energy Conservation Standards for New Buildings Act of 1976 become effective" in second sentence.
 
 <b>1978</b>—Pub. L. 95–619 inserted provision requiring that the minimum property standards established by the Secretary under this section were to contain energy performance requirements to achieve a significant increase in the energy efficiency of new construction.
 

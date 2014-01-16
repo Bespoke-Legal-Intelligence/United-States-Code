@@ -1,18 +1,18 @@
 ### §4023. Properties in violation of State and local law
 
-No new flood insurance coverage shall be provided under this chapter for any property which the Administrator finds has been declared by a duly constituted State or local zoning authority, or other authorized public body, to be in violation of State or local laws, regulations, or ordinances which are intended to discourage or otherwise restrict land development or occupancy in flood-prone areas.
+No new flood insurance coverage shall be provided under this chapter for any property whichthe Administrator finds has been declared by a duly constituted State or local zoning authority, or other authorized public body, to be in violation of State or local laws, regulations, or ordinances which are intended to discourage or otherwise restrict land development or occupancy in flood-prone areas.
 
 (Pub. L. 90–448, title XIII, §1316, Aug. 1, 1968, 82 Stat. 580; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in text, was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director”.
+<b>2012</b>—Pub. L. 112–141 substituted "Administrator" for "Director".
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary”.
+<b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary".
 
 #### Transfer of Functions
 

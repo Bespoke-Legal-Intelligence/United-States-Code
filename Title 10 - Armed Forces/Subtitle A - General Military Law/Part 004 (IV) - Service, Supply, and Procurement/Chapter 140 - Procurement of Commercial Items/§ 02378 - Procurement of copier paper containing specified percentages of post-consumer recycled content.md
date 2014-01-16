@@ -30,7 +30,7 @@ Effect of Inability To Meet Goal in 2004.—(1) In the case of the requirement t
 
 (d)
 
-Secretary Concerned Defined.—In this section, the term “Secretary concerned” means the Secretary of each military department and the Secretary of Defense with respect to the Defense Agencies.
+Secretary Concerned Defined.—In this section, the term "Secretary concerned" means the Secretary of each military department and the Secretary of Defense with respect to the Defense Agencies.
 
 (Added Pub. L. 105–85, div. A, title III, §350(a), Nov. 18, 1997, 111 Stat. 1691.)
 

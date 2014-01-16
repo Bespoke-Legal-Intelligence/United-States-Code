@@ -12,7 +12,7 @@ The nongovernmental organization referred to in subsection (a) of this section s
 
 &emsp;(2) be experienced in the establishment of a clearinghouse similar to the clearinghouse described in subsection (a) of this section;
 
-&emsp;(3) agree to contribute in-kind resources towards the establishment and maintenance of the clearinghouse and agree to provide clearinghouse information, free of charge, to theSecretary, States, counties, cities, antihunger groups, and grassroots organizations that assist individuals in becoming self-sufficient and self-reliant;
+&emsp;(3) agree to contribute in-kind resources towards the establishment and maintenance of the clearinghouse and agree to provide clearinghouse information, free of charge, to the Secretary, States, counties, cities, antihunger groups, and grassroots organizations that assist individuals in becoming self-sufficient and self-reliant;
 
 &emsp;(4) be sponsored by an organization, or be an organization, that—
 
@@ -38,13 +38,13 @@ Out of any moneys in the Treasury not otherwise appropriated, the Secretary of t
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d). Pub. L. 111–296 substituted “2010 through 2015” for “2005 through 2010” in first sentence.
+<b>2010</b>—Subsec. (d). Pub. L. 111–296 substituted "2010 through 2015" for "2005 through 2010" in first sentence.
 
-<b>2009</b>—Subsec. (d). Pub. L. 111–80 substituted “2010” for “2009”.
+<b>2009</b>—Subsec. (d). Pub. L. 111–80 substituted "2010" for "2009".
 
-<b>2004</b>—Subsec. (d). Pub. L. 108–265, in first sentence, substituted “1998,” for “1998, and” and “through 2004, and $250,000 for each of fiscal years 2005 through 2009” for “through 2003”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–265, in first sentence, substituted "1998," for "1998, and" and "through 2004, and $250,000 for each of fiscal years 2005 through 2009" for "through 2003".
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–336 substituted “$100,000 for fiscal year 1998, and $166,000 for each of fiscal years 1999 through 2003” for “and $100,000 for fiscal year 1998” in first sentence and inserted “, without further appropriation” before period at end of second sentence.
+<b>1998</b>—Subsec. (d). Pub. L. 105–336 substituted "$100,000 for fiscal year 1998, and $166,000 for each of fiscal years 1999 through 2003" for "and $100,000 for fiscal year 1998" in first sentence and inserted ", without further appropriation" before period at end of second sentence.
 
 #### Effective Date of 2010 Amendment
 

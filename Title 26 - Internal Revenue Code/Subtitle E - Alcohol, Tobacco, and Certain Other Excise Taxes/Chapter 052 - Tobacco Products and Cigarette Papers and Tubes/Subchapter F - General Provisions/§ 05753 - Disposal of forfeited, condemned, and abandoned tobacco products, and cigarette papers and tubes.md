@@ -6,11 +6,11 @@ If it appears that any forfeited, condemned, or abandoned tobacco products, or c
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 <b>1965</b>—Pub. L. 89–44 struck out references to tobacco materials wherever appearing in heading and text.
 
-<b>1958</b>—Pub. L. 85–859 substituted “tobacco products, cigarette papers and tubes” for “articles” wherever appearing.
+<b>1958</b>—Pub. L. 85–859 substituted "tobacco products, cigarette papers and tubes" for "articles" wherever appearing.
 
 #### Effective Date of 1965 Amendment
 

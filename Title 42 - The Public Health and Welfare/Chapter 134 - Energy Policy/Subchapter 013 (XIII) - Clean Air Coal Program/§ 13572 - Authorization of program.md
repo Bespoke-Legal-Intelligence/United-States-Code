@@ -26,7 +26,7 @@ As determined by the Secretary for a particular project, financial assistance un
 
 &emsp;(1) cost-sharing of an appropriate percentage of the total project cost, not to exceed 50 percent as calculated under section 16352 of this title; or
 
-&emsp;(2) financial assistance, including grants, cooperative agreements, or loans as authorized under this Act or other statutory authority of the Secretary.
+&emsp;(2) financial assistance, including grants, cooperative agreements, or loans as authorizedunder this Act or other statutory authority of the Secretary.
 
 (Pub. L. 102–486, title XXXI, §3102, as added Pub. L. 109–58, title IV, §421(a), Aug. 8, 2005, 119 Stat. 757.)
 

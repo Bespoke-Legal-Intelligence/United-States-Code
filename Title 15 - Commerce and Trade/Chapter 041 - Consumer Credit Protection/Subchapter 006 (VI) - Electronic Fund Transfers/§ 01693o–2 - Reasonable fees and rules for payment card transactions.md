@@ -84,7 +84,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;For purposes of this paragraph, the term “issuer” shall be limited to the person holding the asset account that is debited through an electronic debit transaction.
+&emsp;&emsp;For purposes of this paragraph, the term "issuer" shall be limited to the person holding the asset account that is debited through an electronic debit transaction.
 
 #### (7) Exemption for government-administered payment programs and reloadable prepaid cards
 
@@ -108,7 +108,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;Notwithstanding subparagraph (A), after the end of the 1-year period beginning on the effective date provided in paragraph (9), this subsection shall apply to an interchange transaction fee charged or received with respect to an electronic debit transaction described in subparagraph (A)(i) in which a person uses a general-use prepaid card, or anelectronic debit transaction described in subparagraph (A)(ii), if any of the following fees may be charged to a person with respect to the card:
+&emsp;&emsp;Notwithstanding subparagraph (A), after the end of the 1-year period beginning on the effective date provided in paragraph (9), this subsection shall apply to an interchange transaction fee charged or received with respect to an electronic debit transaction described in subparagraph (A)(i) in which a person uses a general-use prepaid card, or an electronic debit transaction described in subparagraph (A)(ii), if any of the following fees may be charged to a person with respect to the card:
 
 &emsp;&emsp;&emsp;(i) A fee for an overdraft, including a shortage of funds or a transaction processed for an amount exceeding the account balance.
 
@@ -116,7 +116,7 @@
 
 #### (C) Definition
 
-&emsp;&emsp;For purposes of subparagraph (B), the term “designated automated teller machine network” means either—
+&emsp;&emsp;For purposes of subparagraph (B), the term "designated automated teller machine network" means either—
 
 &emsp;&emsp;&emsp;(i) all automated teller machines identified in the name of the issuer; or
 
@@ -220,11 +220,11 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Affiliate
 
-&emsp;The term “affiliate” means any company that controls, is controlled by, or is under common control with another company.
+&emsp;The term "affiliate" means any company that controls, is controlled by, or is under common control with another company.
 
 #### (2) Debit card
 
-&emsp;The term “debit card”—
+&emsp;The term "debit card"—
 
 &emsp;&emsp;(A) means any card, or other payment code or device, issued or approved for use through a payment card network to debit an asset account (regardless of the purpose for which the account is established), whether authorization is based on signature, PIN, or other means;
 
@@ -234,11 +234,11 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Credit card
 
-&emsp;The term “credit card” has the same meaning as in section 1602 of this title.
+&emsp;The term "credit card" has the same meaning as in section 1602 of this title.
 
 #### (4) Discount
 
-&emsp;The term “discount”—
+&emsp;The term "discount"—
 
 &emsp;&emsp;(A) means a reduction made from the price that customers are informed is the regular price; and
 
@@ -246,11 +246,11 @@ For purposes of this section, the following definitions shall apply:
 
 #### (5) Electronic debit transaction
 
-&emsp;The term “electronic debit transaction” means a transaction in which a person uses a debit card.
+&emsp;The term "electronic debit transaction" means a transaction in which a person uses a debit card.
 
 #### (6) Federal agency
 
-&emsp;The term “Federal agency” means—
+&emsp;The term "Federal agency" means—
 
 &emsp;&emsp;(A) an agency (as defined in section 101 of title 31); and
 
@@ -258,23 +258,23 @@ For purposes of this section, the following definitions shall apply:
 
 #### (7) Institution of higher education
 
-&emsp;The term “institution of higher education” has the same meaning as in 1001 <sup>1</sup> and 1002 of title 20.
+&emsp;The term "institution of higher education" has the same meaning as in 1001 <sup>1</sup> and 1002 of title 20.
 
 #### (8) Interchange transaction fee
 
-&emsp;The term “interchange transaction fee” means any fee established, charged or received by a payment card network for the purpose of compensating an issuer for its involvement in an electronic debit transaction.
+&emsp;The term "interchange transaction fee" means any fee established, charged or received by a payment card network for the purpose of compensating an issuer for its involvement in an electronic debit transaction.
 
 #### (9) Issuer
 
-&emsp;The term “issuer” means any person who issues a debit card, or credit card, or the agent of such person with respect to such card.
+&emsp;The term "issuer" means any person who issues a debit card, or credit card, or the agent of such person with respect to such card.
 
 #### (10) Network fee
 
-&emsp;The term “network fee” means any fee charged and received by a payment card network with respect to an electronic debit transaction, other than an interchange transaction fee.
+&emsp;The term "network fee" means any fee charged and received by a payment card network with respect to an electronic debit transaction, other than an interchange transaction fee.
 
 #### (11) Payment card network
 
-&emsp;The term “payment card network” means an entity that directly, or through licensed members, processors, or agents, provides the proprietary services, infrastructure, and software that route information and data to conduct debit card or credit card transaction authorization, clearance, and settlement, and that a person uses in order to accept as a form of payment a brand of debit card, credit card or other device that may be used to carry out debit or credit transactions.
+&emsp;The term "payment card network" means an entity that directly, or through licensed members, processors, or agents, provides the proprietary services, infrastructure, and software that route information and data to conduct debit card or credit card transaction authorization, clearance, and settlement, and that a person uses in order to accept as a form of payment a brand of debit card, credit card or other device that may be used to carry out debit or credit transactions.
 
 #### (d) Enforcement
 
@@ -298,5 +298,5 @@ Two other prior sections 920 of Pub. L. 90–321 were renumbered section 922 and
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "sections".</i>
 

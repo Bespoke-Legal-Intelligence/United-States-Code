@@ -20,7 +20,7 @@ Dependents.—(1) Dependents of a member who is permitted under subsection (a) o
 
 (e)
 
-MWR Retail Facility Defined.—In this section, the term “MWR retail facilities” means exchange stores and other revenue-generating facilities operated by nonappropriated fund activities of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
+MWR Retail Facility Defined.—In this section, the term "MWR retail facilities" means exchange stores and other revenue-generating facilities operated by nonappropriated fund activities of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
 
 (Added Pub. L. 101–510, div. A, title III, §321(c), Nov. 5, 1990, 104 Stat. 1528, §1065; amended Pub. L. 104–106, div. A, title III, §342(a), Feb. 10, 1996, 110 Stat. 265; renumbered §1063 and amended Pub. L. 108–136, div. A, title VI, §651(a), (b)(4), (5), Nov. 24, 2003, 117 Stat. 1521, 1522.)
 
@@ -30,27 +30,27 @@ A prior section 1063, added Pub. L. 99–661, div. A, title VI, §656(a)(1), Nov
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136, §651(b)(4), (5), renumbered section 1065 of this title as this section and substituted “Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60” for “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §651(b)(4), (5), renumbered section 1065 of this title as this section and substituted "Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60" for "Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents" in section catchline.
 
-Subsecs. (a) to (c). Pub. L. 108–136, §651(a)(1), inserted “commissary stores and” after “use”.
+Subsecs. (a) to (c). Pub. L. 108–136, §651(a)(1), inserted "commissary stores and" after "use".
 
-Subsec. (d). Pub. L. 108–136, §651(a)(2), inserted “commissary stores and” after “permitted under subsection (a) or (b) to use” and “stores and” after “permitted to use” in par. (1), and inserted “commissary stores and” after “permitted under subsection (c) to use” and “stores and” after “permitted to use” in par. (2).
+Subsec. (d). Pub. L. 108–136, §651(a)(2), inserted "commissary stores and" after "permitted under subsection (a) or (b) to use" and "stores and" after "permitted to use" in par. (1), and inserted "commissary stores and" after "permitted under subsection (c) to use" and "stores and" after "permitted to use" in par. (2).
 
-<b>1996</b>—Pub. L. 104–106 substituted “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents” for “Use of certain morale, welfare, and recreation facilities by members of reserve components and dependents” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1996</b>—Pub. L. 104–106 substituted "Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents" for "Use of certain morale, welfare, and recreation facilities by members of reserve components and dependents" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
-“(a)
+"(a)
 
 Unrestricted Use Required.—Members of the Selected Reserve in good standing (as determined by the Secretary concerned) and members who would be eligible for retired pay under chapter 67 of this title but for the fact that the member is under 60 years of age, and the dependents of such members, shall be permitted to use the exchange stores and other revenue generating facilities operated by nonappropriated fund activities of the Department of Defense for the morale, welfare, and recreation of members of the Armed Forces. Such use shall be permitted on the same basis as members on active duty.
 
-“(b)
+"(b)
 
-Eligibility to Use Authorized.—Subject to such regulations as the Secretary of Defense may prescribe, members of the Ready Reserve (other than members of the Selected Reserve) may be permitted to use the facilities referred to in subsection (a) on the same basis as members serving on active duty.”
+Eligibility to Use Authorized.—Subject to such regulations as the Secretary of Defense may prescribe, members of the Ready Reserve (other than members of the Selected Reserve) may be permitted to use the facilities referred to in subsection (a) on the same basis as members serving on active duty."
 
 #### Effective Date
 
-Pub. L. 101–510, div. A, title III, §321(e)(1), Nov. 5, 1990, 104 Stat. 1528, provided that: “The amendments made by subsections (b) and (c) \[enacting this section and former section 1064 of this title\] shall take effect 120 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–510, div. A, title III, §321(e)(1), Nov. 5, 1990, 104 Stat. 1528, provided that: "The amendments made by subsections (b) and (c) \[enacting this section and former section 1064 of this title\] shall take effect 120 days after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Regulations
 
-Pub. L. 101–510, div. A, title III, §321(e)(2), Nov. 5, 1990, 104 Stat. 1528, provided that: “The Secretary of Defense shall prescribe such regulations as may be necessary for the proper administration of sections \[former\] 1064 and 1065 \[now 1063\] of title 10, United States Code, as added by this section, not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–510, div. A, title III, §321(e)(2), Nov. 5, 1990, 104 Stat. 1528, provided that: "The Secretary of Defense shall prescribe such regulations as may be necessary for the proper administration of sections \[former\] 1064 and 1065 \[now 1063\] of title 10, United States Code, as added by this section, not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\]."
 

@@ -28,7 +28,7 @@ Subject to subsection (b), any commodity or crop may be planted on base acres on
 
 Paragraphs (1) and (2) of subsection (b) shall not limit the planting of an agricultural commodity specified in paragraph (3) of that subsection—
 
-&emsp;(1) in any region in which there is a history of double-cropping of covered commodities with agricultural commodities specified insubsection (b)(3), as determined by the Secretary, in which case the double-cropping shall be permitted;
+&emsp;(1) in any region in which there is a history of double-cropping of covered commodities with agricultural commodities specified in subsection (b)(3), as determined by the Secretary, in which case the double-cropping shall be permitted;
 
 &emsp;(2) on a farm that the Secretary determines has a history of planting agricultural commodities specified in subsection (b)(3) on base acres, except that direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such an agricultural commodity; or
 

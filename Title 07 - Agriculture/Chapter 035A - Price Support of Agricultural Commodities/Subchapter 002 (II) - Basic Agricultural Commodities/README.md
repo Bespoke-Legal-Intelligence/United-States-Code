@@ -24,7 +24,7 @@
 - [&sect; 01444f&#8211;1 - Repealed. Pub. L. 102&#8211;237, title I, &sect;114(b)(2), Dec. 13, 1991, 105 Stat. 1840](%C2%A7%2001444f%E2%80%931%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93237%2C%20title%20I%2C%20%C2%A7114%28b%29%282%29%2C%20Dec.%2013%2C%201991%2C%20105%20Stat.%201840.md)
 - [&sect; 01445 to 1445&#8211;2 - Repealed. Pub. L. 108&#8211;357, title VI, &sect;612(a), Oct. 22, 2004, 118 Stat. 1523](%C2%A7%2001445%20to%201445%E2%80%932%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93357%2C%20title%20VI%2C%20%C2%A7612%28a%29%2C%20Oct.%2022%2C%202004%2C%20118%20Stat.%201523.md)
 - [&sect; 01445&#8211;3 - Purchase of inventory stock](%C2%A7%2001445%E2%80%933%20-%20Purchase%20of%20inventory%20stock.md)
-- [&sect; 01445a - Wheat price support levels; &#8220;cooperator&#8221; defined](%C2%A7%2001445a%20-%20Wheat%20price%20support%20levels%3B%20%E2%80%9Ccooperator%E2%80%9D%20defined.md)
+- [&sect; 01445a - Wheat price support levels; cooperator defined](%C2%A7%2001445a%20-%20Wheat%20price%20support%20levels%3B%20cooperator%20defined.md)
 - [&sect; 01445b, 1445b&#8211;1 - Repealed. Pub. L. 101&#8211;624, title III, &sect;301(1), Nov. 28, 1990, 104 Stat. 3382](%C2%A7%2001445b%2C%201445b%E2%80%931%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20III%2C%20%C2%A7301%281%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203382.md)
 - [&sect; 01445b&#8211;2 - Transferred](%C2%A7%2001445b%E2%80%932%20-%20Transferred.md)
 - [&sect; 01445b&#8211;3 - Omitted](%C2%A7%2001445b%E2%80%933%20-%20Omitted.md)

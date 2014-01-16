@@ -24,11 +24,11 @@ The United States Ambassador to the Republic of Panama shall have full responsib
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1), was in the original “this Act”, meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This chapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Amendments
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–261 added subsec. (c).
 
-<b>1997</b>—Subsec. (b)(2). Pub. L. 105–85 substituted “section 3927” for “section 2680a”.
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–85 substituted "section 3927" for "section 2680a".
 

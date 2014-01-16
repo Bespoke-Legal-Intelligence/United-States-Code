@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means—
+&emsp;The term "eligible entity" means—
 
 &emsp;&emsp;(A) a for-profit corporation;
 
@@ -16,7 +16,7 @@ In this section:
 
 #### (2) Program
 
-&emsp;The term “program” means a program established under subsection (b).
+&emsp;The term "program" means a program established under subsection (b).
 
 #### (b) Establishment
 

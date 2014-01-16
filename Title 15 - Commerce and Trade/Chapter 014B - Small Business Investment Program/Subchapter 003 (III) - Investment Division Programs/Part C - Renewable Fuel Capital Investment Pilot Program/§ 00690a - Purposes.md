@@ -14,5 +14,5 @@ The purposes of the Renewable Fuel Capital Investment Program established under 
 
 (Pub. L. 85–699, title III, §382, as added Pub. L. 110–140, title XII, §1207, Dec. 19, 2007, 121 Stat. 1775.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “in”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "in".</i>
 

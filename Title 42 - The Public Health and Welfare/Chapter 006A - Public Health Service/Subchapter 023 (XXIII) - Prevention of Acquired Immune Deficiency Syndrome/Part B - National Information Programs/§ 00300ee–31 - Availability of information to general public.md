@@ -24,7 +24,7 @@ The Secretary shall provide for the establishment and maintenance of toll-free t
 
 #### Amendments
 
-<b>1992</b>—Subsecs. (a), (b)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsecs. (a), (b)(1). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
 <i><sup>1</sup></i><i> So in original.</i>
 

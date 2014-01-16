@@ -28,7 +28,7 @@ In furtherance of the objectives of this chapter, the Secretary may—
 
 #### (c) Orientation and training for family members
 
-The Secretary may provide to family members of members of the Service or of employees of theDepartment or other agencies, in anticipation of their assignment abroad or while abroad—
+The Secretary may provide to family members of members of the Service or of employees of the Department or other agencies, in anticipation of their assignment abroad or while abroad—
 
 &emsp;(1) appropriate orientation and language training; and
 
@@ -42,23 +42,23 @@ The Secretary may provide to family members of members of the Service or of empl
 
 &emsp;(B) be certified by an appropriate official of the Department of State to be qualified by knowledge and experience to perform such function.
 
-(2) As used in this subsection, the term “consular function” includes the issuance of visas, the performance of notarial and other legalization functions, the adjudication of passport applications, the adjudication of nationality, and the issuance of citizenship documentation.
+(2) As used in this subsection, the term "consular function" includes the issuance of visas, the performance of notarial and other legalization functions, the adjudication of passport applications, the adjudication of nationality, and the issuance of citizenship documentation.
 
 (Pub. L. 96–465, title I, §704, Oct. 17, 1980, 94 Stat. 2100; Pub. L. 97–241, title I, §125(1), Aug. 24, 1982, 96 Stat. 281; Pub. L. 103–236, title I, §126(3), Apr. 30, 1994, 108 Stat. 394; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2222(f), Oct. 21, 1998, 112 Stat. 2681–819.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### Codification
 
-In subsec. (a)(5), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5) and section 302 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(5), "sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5) and section 302 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–277 added subsec. (d).
 
-<b>1994</b>—Subsec. (a)(1) to (3). Pub. L. 103–236 substituted “institution” for “Institute”.
+<b>1994</b>—Subsec. (a)(1) to (3). Pub. L. 103–236 substituted "institution" for "Institute".
 
-<b>1982</b>—Subsec. (b)(2). Pub. L. 97–241 substituted “section 3972 of this title” for “section 3971 of this title”.
+<b>1982</b>—Subsec. (b)(2). Pub. L. 97–241 substituted "section 3972 of this title" for "section 3971 of this title".
 

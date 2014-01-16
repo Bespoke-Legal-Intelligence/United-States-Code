@@ -18,7 +18,7 @@ The Secretary may—
 
 &emsp;(5) if recommended by the United States Commissioners or proposed by a Council with authority over the relevant fishery, assess and collect fees, not to exceed three percent of the ex-vessel value of fish harvested by vessels of the United States in fisheries managed pursuant to this chapter, to recover the actual costs to the United States of management and enforcement under this chapter, which shall be deposited as an offsetting collection in, and credited to, the account providing appropriations to carry out the functions of the Secretary under this chapter; and
 
-&emsp;(6) issue permits to owners and operators of United States vessels to fish in the convention area seaward of the United States Exclusive Economic Zone, under such terms and conditions as the Secretary may prescribe, andshall remain valid for a period to be determined by the Secretary.
+&emsp;(6) issue permits to owners and operators of United States vessels to fish in the convention area seaward of the United States Exclusive Economic Zone, under such terms and conditions as the Secretary may prescribe, and shall remain valid for a period to be determined by the Secretary.
 
 #### (b) Consistency with other laws
 
@@ -46,7 +46,7 @@ The Secretary shall prevent any person from violating this chapter in the same m
 
 #### (2) Use of information
 
-&emsp;The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement or regulation under this Act, except that the Secretary may release or make public any such information in any aggregate or summary form that does not directly or indirectly disclose the identity or business of any person. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary of any information submitted in compliance with any requirement or regulation under this Act.
+&emsp;The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement or regulation under this Act, except that the Secretary may release or make public any suchinformation in any aggregate or summary form that does not directly or indirectly disclose the identity or business of any person. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary of any information submitted in compliance with any requirement or regulation under this Act.
 
 (Pub. L. 109–479, title V, §506, Jan. 12, 2007, 120 Stat. 3640.)
 

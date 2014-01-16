@@ -22,7 +22,7 @@ No obligation may be made by the Administrator for financial assistance under th
 
 (1) Wherever practicable, in constructing, operating, or providing financial assistance under this subchapter to a full-scale demonstration facility, the Administrator shall endeavor to enter into agreements and make other arrangements for maximum practicable cost sharing with other Federal, State, and local agencies, private persons, or any combination thereof.
 
-(2) The Administrator shall enter into arrangements, wherever practicable and desirable, to provide monitoring of full-scale solid waste facilities (whether or not constructed or operated under this chapter) for purposes of obtaining information concerning the performance, and other aspects, of such facilities. Where the Administrator provides only monitoring and evaluation instruments or personnel (or both) or funds for such instruments or personnel and provides no other financial assistance to a facility, notwithstanding section 6981(c)(3) of this title, title to any invention made or conceived of in the course of developing, constructing, or operating such facility shall not be required to vest in the United States and patents respecting such invention shall not be required to be issued to the United States.
+(2) The Administrator shall enter into arrangements, wherever practicable and desirable,to provide monitoring of full-scale solid waste facilities (whether or not constructed or operated under this chapter) for purposes of obtaining information concerning the performance, and other aspects, of such facilities. Where the Administrator provides only monitoring and evaluation instruments or personnel (or both) or funds for such instruments or personnel and provides no other financial assistance to a facility, notwithstanding section 6981(c)(3) of this title, title to any invention made or conceived of in the course of developing, constructing, or operating such facility shall not be required to vest in the United States and patents respecting such invention shall not be required to be issued to the United States.
 
 #### (d) Prohibition
 
@@ -32,9 +32,9 @@ After October 21, 1976, the Administrator shall not construct or operate any ful
 
 #### Amendments
 
-<b>1984</b>—Subsec. (c)(1). Pub. L. 98–616 inserted “(1)” before “Wherever”.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–616 inserted "(1)" before "Wherever".
 
-<b>1978</b>—Subsec. (a)(1). Pub. L. 95–609 substituted “solid waste” for “discarded material”.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–609 substituted "solid waste" for "discarded material".
 
 #### Transfer of Functions
 

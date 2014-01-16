@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is hereby established in the Treasury of the United States a trust fund to be known as the “Harbor Maintenance Trust Fund”, consisting of such amounts as may be—
+There is hereby established in the Treasury of the United States a trust fund to be known as the "Harbor Maintenance Trust Fund", consisting of such amounts as may be—
 
 &emsp;(1) appropriated to the Harbor Maintenance Trust Fund as provided in this section,
 
@@ -34,45 +34,45 @@ Section 210 of the Water Resources Development Act of 1986 (as in effect on the 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c)(1). Pub. L. 104–303 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to carry out section 210(a) of the Water Resources Development Act of 1986 (as in effect on the date of enactment of this section),”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–303 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "to carry out section 210(a) of the Water Resources Development Act of 1986 (as in effect on the date of enactment of this section),".
 
-<b>1993</b>—Subsec. (c)(3). Pub. L. 103–182 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “for the payment of all expenses of administration incurred—
+<b>1993</b>—Subsec. (c)(3). Pub. L. 103–182 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "for the payment of all expenses of administration incurred—
 
-&emsp;“(A) by the Department of the Treasury in administering subchapter A of chapter 36 (relating to harbor maintenance tax), but not in excess of $5,000,000 for any fiscal year, and
+&emsp;"(A) by the Department of the Treasury in administering subchapter A of chapter 36 (relating to harbor maintenance tax), but not in excess of $5,000,000 for any fiscal year, and
 
-&emsp;“(B) for periods during which no fee applies under paragraph (9) or (10) of section 13031(a) of the Consolidated Omnibus Budget Reconciliation Act of 1985.”
+&emsp;"(B) for periods during which no fee applies under paragraph (9) or (10) of section 13031(a) of the Consolidated Omnibus Budget Reconciliation Act of 1985."
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–182, title VI, §683(b), Dec. 8, 1993, 107 Stat. 2218, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Dec. 8, 1993\].”
+Pub. L. 103–182, title VI, §683(b), Dec. 8, 1993, 107 Stat. 2218, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Dec. 8, 1993\]."
 
 #### Effective Date
 
-Pub. L. 99–662, title XIV, §1403(d), Nov. 17, 1986, 100 Stat. 4270, provided that: “The amendments made by this section \[enacting this section\] shall take effect on April 1, 1987.”
+Pub. L. 99–662, title XIV, §1403(d), Nov. 17, 1986, 100 Stat. 4270, provided that: "The amendments made by this section \[enacting this section\] shall take effect on April 1, 1987."
 
 #### Harbor Maintenance Trust Fund Deposits and Expenditures
 
 Pub. L. 102–580, title III, §330, Oct. 31, 1992, 106 Stat. 4851, provided that:
 
-“(a)
+"(a)
 
 Report.—Not later than March 1, 1993, and annually thereafter, the President shall transmit to the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on expenditures from and deposits into the Harbor Maintenance Trust Fund.
 
-“(b)
+"(b)
 
 Contents.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Each report to be transmitted under subsection (a) shall contain the following:
 
-&emsp;&emsp;“(A) A description of expenditures made from the trust fund in the previous fiscal year on a project-by-project basis.
+&emsp;&emsp;"(A) A description of expenditures made from the trust fund in the previous fiscal year on a project-by-project basis.
 
-&emsp;&emsp;“(B) A description of deposits made into the trust fund in the previous fiscal year and the sources of such deposits.
+&emsp;&emsp;"(B) A description of deposits made into the trust fund in the previous fiscal year and the sources of such deposits.
 
-&emsp;&emsp;“(C) A 5-year projection of expenditures from and deposits into the trust fund.
+&emsp;&emsp;"(C) A 5-year projection of expenditures from and deposits into the trust fund.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Previous years information.—In addition to information required under paragraph (1), the initial report to be transmitted under subsection (a) shall contain the information described in subparagraphs (A) and (B) of paragraph (1) for fiscal years 1987 through 1992.”
+Previous years information.—In addition to information required under paragraph (1), the initial report to be transmitted under subsection (a) shall contain the information described in subparagraphs (A) and (B) of paragraph (1) for fiscal years 1987 through 1992."
 

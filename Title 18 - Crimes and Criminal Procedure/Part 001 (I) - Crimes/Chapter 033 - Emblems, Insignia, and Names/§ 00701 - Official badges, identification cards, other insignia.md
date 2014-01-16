@@ -10,11 +10,11 @@ Based on title 18, U.S.C., 1940 ed., §§76a, 76b (June 29, 1932, ch. 306, §§1
 
 Sections were consolidated.
 
-The term “department or agency” was substituted for “department or independent office” in two places to embrace all properly constituted agencies as defined in section 6 of this title and to eliminate any possible ambiguity as to scope of section.
+The term "department or agency" was substituted for "department or independent office" in two places to embrace all properly constituted agencies as defined in section 6 of this title and to eliminate any possible ambiguity as to scope of section.
 
 Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $250".
 

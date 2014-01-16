@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 R.S. 4650.
 
-The word “amount” is substituted for the word “sum”.
+The word "amount" is substituted for the word "sum".
 

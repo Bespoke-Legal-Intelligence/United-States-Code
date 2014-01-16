@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 July 3, 1944, ch. 399, §1 (proviso, less applicability to duration of stay), 58 Stat. 723.
 
-The word “stayed” is substituted for the word “suspended” for uniformity and clarity.
+The word "stayed" is substituted for the word "suspended" for uniformity and clarity.
 

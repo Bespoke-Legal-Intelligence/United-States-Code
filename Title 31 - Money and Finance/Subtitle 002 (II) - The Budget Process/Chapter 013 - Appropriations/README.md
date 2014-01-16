@@ -45,7 +45,7 @@
 | [1351\.](Subchapter%20003%20%28III%29%20-%20Limitations%2C%20Exceptions%2C%20and%20Penalties/%C2%A7%2001351%20-%20Reports%20on%20violations.md) | Reports on violations. |
 | [1352\.](Subchapter%20003%20%28III%29%20-%20Limitations%2C%20Exceptions%2C%20and%20Penalties/%C2%A7%2001352%20-%20Limitation%20on%20use%20of%20appropriated%20funds%20to%20influence%20certain%20Federal%20contracting%20and%20financial%20transactions.md) | Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions. |
 | [1353\.](Subchapter%20003%20%28III%29%20-%20Limitations%2C%20Exceptions%2C%20and%20Penalties/%C2%A7%2001353%20-%20Acceptance%20of%20travel%20and%20related%20expenses%20from%20non-Federal%20sources.md) | Acceptance of travel and related expenses from non-Federal sources. |
-| [1354\.](Subchapter%20003%20%28III%29%20-%20Limitations%2C%20Exceptions%2C%20and%20Penalties/%C2%A7%2001354%20-%20Limitation%20on%20use%20of%20appropriated%20funds%20for%20contracts%20with%20entities%20not%20meeting%20veterans%E2%80%99%20employment%20reporting%20requirements.md) | Limitation on use of appropriated funds for contracts with entities not meeting veterans’ employment reporting requirements. |
+| [1354\.](Subchapter%20003%20%28III%29%20-%20Limitations%2C%20Exceptions%2C%20and%20Penalties/%C2%A7%2001354%20-%20Limitation%20on%20use%20of%20appropriated%20funds%20for%20contracts%20with%20entities%20not%20meeting%20veterans%27%20employment%20reporting%20requirements.md) | Limitation on use of appropriated funds for contracts with entities not meeting veterans' employment reporting requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -53,13 +53,13 @@
 
 <b>1998</b>—Pub. L. 105–339, §7(b)(2), Oct. 31, 1998, 112 Stat. 3189, added item 1354.
 
-<b>1990</b>—Pub. L. 101–280, §4(b)(2), May 4, 1990, 104 Stat. 157, redesignated item 1352 “Acceptance of travel and related expenses from non-Federal sources” as 1353.
+<b>1990</b>—Pub. L. 101–280, §4(b)(2), May 4, 1990, 104 Stat. 157, redesignated item 1352 "Acceptance of travel and related expenses from non-Federal sources" as 1353.
 
-<b>1989</b>—Pub. L. 101–194, title III, §302(b), Nov. 30, 1989, 103 Stat. 1746, added item 1352 “Acceptance of travel and related expenses from non-Federal sources”.
+<b>1989</b>—Pub. L. 101–194, title III, §302(b), Nov. 30, 1989, 103 Stat. 1746, added item 1352 "Acceptance of travel and related expenses from non-Federal sources".
 
-Pub. L. 101–121, title III, §319(a)(2), Oct. 23, 1989, 103 Stat. 756, added item 1352 “Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions”.
+Pub. L. 101–121, title III, §319(a)(2), Oct. 23, 1989, 103 Stat. 756, added item 1352 "Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions".
 
-<b>1986</b>—Pub. L. 99–550, §1(b), Oct. 27, 1986, 100 Stat. 3070, substituted “Passenger carrier use” for “Passenger motor vehicle and aircraft use” in item 1344.
+<b>1986</b>—Pub. L. 99–550, §1(b), Oct. 27, 1986, 100 Stat. 3070, substituted "Passenger carrier use" for "Passenger motor vehicle and aircraft use" in item 1344.
 
 
 ---

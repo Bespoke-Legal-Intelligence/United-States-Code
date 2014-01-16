@@ -8,7 +8,7 @@ The Secretary shall establish flexible marketing allotments for sugar for any cr
 
 #### (1) In general
 
-&emsp;The Secretary shall establish the overall quantity of sugar to be allotted for the crop year (referred to in this subpart as the “overall allotment quantity”) at a level that is—
+&emsp;The Secretary shall establish the overall quantity of sugar to be allotted for the crop year (referred to in this subpart as the "overall allotment quantity") at a level that is—
 
 &emsp;&emsp;(A) sufficient to maintain raw and refined sugar prices above forfeiture levels to avoid forfeiture of sugar to the Commodity Credit Corporation; but
 
@@ -94,7 +94,7 @@ Except as provided in section 1359ee of this title, a State cane sugar allotment
 
 #### (3) Carry-over of reductions
 
-&emsp;Whenever a marketing allotment for a crop year is required to be reduced during the crop year under this subsection, if, at the time of the reduction, the quantity of sugar marketed exceeds the processor's reduced allocation, the allocation of an allotment next established for the processor shall be reduced by the quantity of the excess sugar marketed.
+&emsp;Whenever a marketing allotment for a crop year is required to be reduced during the crop year under this subsection, if, at the time ofthe reduction, the quantity of sugar marketed exceeds the processor's reduced allocation, the allocation of an allotment next established for the processor shall be reduced by the quantity of the excess sugar marketed.
 
 (Feb. 16, 1938, ch. 30, title III, §359c, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 189; amended Pub. L. 110–234, title I, §1403(c), May 22, 2008, 122 Stat. 983; Pub. L. 110–246, §4(a), title I, §1403(c), June 18, 2008, 122 Stat. 1664, 1712.)
 
@@ -110,11 +110,11 @@ A prior section 1359cc, act Feb. 16, 1938, ch. 30, title III, §359c, as added P
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–246, §1403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to: in par. (1), establishment of the overall allotment quantity by deducting from the sum of the estimated sugar consumption and reasonable carryover stocks for the crop year 1,532,000 short tons, raw value, and carry-in stocks of sugar, including sugar in Commodity Credit Corporation inventory; and in par. (2), adjustment of overall allotment quantity to avoid the forfeiture of sugar to the Commodity Credit Corporation.
 
-Subsec. (d)(2). Pub. L. 110–246, §1403(c)(2), inserted “or in-process beet sugar” before period at end.
+Subsec. (d)(2). Pub. L. 110–246, §1403(c)(2), inserted "or in-process beet sugar" before period at end.
 
-Subsec. (g)(1). Pub. L. 110–246, §1403(c)(3), substituted “Adjustments” for “In general” in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the Secretary” for “The Secretary”, and added subpar. (B).
+Subsec. (g)(1). Pub. L. 110–246, §1403(c)(3), substituted "Adjustments" for "In general" in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted "Subject to subparagraph (B), the Secretary" for "The Secretary", and added subpar. (B).
 
-Subsec. (h). Pub. L. 110–246, §1403(c)(4), struck out subsec. (h). Prior to amendment, text read as follows: “Whenever the Secretary estimates or reestimates under section 1359bb(a) of this title, or has reason to believe, that imports of sugars, syrups or molasses for human consumption or to be used for the extraction of sugar for human consumption, whether under a tariff-rate quota or in excess or outside of a tariff-rate quota, will exceed 1,532,000 short tons (raw value equivalent) (excluding any imports attributable to reassignment under paragraph (1)(D) or (2)(C) of section 1359ee(b) of this title), and that the imports would lead to a reduction of the overall allotment quantity, the Secretary shall suspend the marketing allotments established under this section until such time as the imports have been restricted, eliminated, or reduced to or below the level of 1,532,000 short tons (raw value equivalent).”
+Subsec. (h). Pub. L. 110–246, §1403(c)(4), struck out subsec. (h). Prior to amendment, text read as follows: "Whenever the Secretary estimates or reestimates under section 1359bb(a) of this title, or has reason to believe, that imports of sugars, syrups or molasses for human consumption or to be used for the extraction of sugar for human consumption, whether under a tariff-rate quota or in excess or outside of a tariff-rate quota, will exceed 1,532,000 short tons (raw value equivalent) (excluding any imports attributable to reassignment under paragraph (1)(D) or (2)(C) of section 1359ee(b) of this title), and that the imports would lead to a reduction of the overall allotment quantity, the Secretary shall suspend the marketing allotments established under this section until such time as the imports have been restricted, eliminated, or reduced to or below the level of 1,532,000 short tons (raw value equivalent)."
 
 #### Effective Date of 2008 Amendment
 

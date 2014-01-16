@@ -1,6 +1,6 @@
 ### §14135c. Conditions of release generally
 
-If the collection of a DNA sample from an individual on probation, parole, or supervised release is authorized pursuant to section 14135a or 14135b of this title or section 1565 of title 10, the individual shall cooperate in the collection of a DNA sample as a condition of that probation, parole, or supervised release.
+If the collection of a DNA sample from an individual on probation, parole, or supervised release is authorized pursuant to section 14135a or 14135b of this title or section 1565 of title 10, theindividual shall cooperate in the collection of a DNA sample as a condition of that probation, parole, or supervised release.
 
 (Pub. L. 106–546, §7(d), Dec. 19, 2000, 114 Stat. 2734.)
 

@@ -14,27 +14,27 @@
 
 #### Amendments
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–239 substituted “section 1368(a)” for “clauses (i)(II) and (ii) of section 1362(b)(1)(A)”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–239 substituted "section 1368(a)" for "clauses (i)(II) and (ii) of section 1362(b)(1)(A)".
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–203 amended first sentence generally. Prior to amendment, first sentence read as follows: “The corporation shall determine the liability with respect to each contributing sponsor and each member of its controlled group in a manner consistent with section 1362 of this title, except that—
+<b>1987</b>—Subsec. (b). Pub. L. 100–203 amended first sentence generally. Prior to amendment, first sentence read as follows: "The corporation shall determine the liability with respect to each contributing sponsor and each member of its controlled group in a manner consistent with section 1362 of this title, except that—
 
-&emsp;“(1) the amount of the liability determined under section 1362(b)(1) of this title with respect to the entire plan—
+&emsp;"(1) the amount of the liability determined under section 1362(b)(1) of this title with respect to the entire plan—
 
-&emsp;&emsp;“(A) shall be determined without regard to clauses (i)(II) and (ii) of section 1362(b)(1)(A) of this title, and
+&emsp;&emsp;"(A) shall be determined without regard to clauses (i)(II) and (ii) of section 1362(b)(1)(A) of this title, and
 
-&emsp;&emsp;“(B) shall be allocated to each controlled group by multiplying such amount by a fraction—
+&emsp;&emsp;"(B) shall be allocated to each controlled group by multiplying such amount by a fraction—
 
-&emsp;&emsp;&emsp;“(i) the numerator of which is the amount required to be contributed to the plan for the last 5 plan years ending prior to the termination date by persons in such controlled group as contributing sponsors, and
+&emsp;&emsp;&emsp;"(i) the numerator of which is the amount required to be contributed to the plan for the last 5 plan years ending prior to the termination date by persons in such controlled group as contributing sponsors, and
 
-&emsp;&emsp;&emsp;“(ii) the denominator of which is the total amount required to be contributed to the plan for such last 5 plan years by all persons as contributing sponsors,
+&emsp;&emsp;&emsp;"(ii) the denominator of which is the total amount required to be contributed to the plan for such last 5 plan years by all persons as contributing sponsors,
 
 > &emsp;and clauses (i)(II) and (ii) of section 1362(b)(1)(A) of this title shall be applied separately with respect to each such controlled group, and
 
-&emsp;“(2) the amount of the liability determined under section 1362(c)(1) of this title with respect to the entire plan shall be allocated to each controlled group by multiplying such amount by the fraction described in paragraph (1)(B) in connection with such controlled group.”
+&emsp;"(2) the amount of the liability determined under section 1362(c)(1) of this title with respect to the entire plan shall be allocated to each controlled group by multiplying such amount by the fraction described in paragraph (1)(B) in connection with such controlled group."
 
-<b>1986</b>—Pub. L. 99–272, §11016(a)(5)(B)(iii), substituted “on termination of single-employer plans under multiple controlled groups” for “of employers on termination of plan maintained by more than one employer” in section catchline.
+<b>1986</b>—Pub. L. 99–272, §11016(a)(5)(B)(iii), substituted "on termination of single-employer plans under multiple controlled groups" for "of employers on termination of plan maintained by more than one employer" in section catchline.
 
-Subsec. (a). Pub. L. 99–272, §11016(a)(5)(B)(i), substituted “all contributing sponsors of a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control” for “all employers who maintain a plan under which more than one employer makes contributions (other than a multiemployer plan)” and inserted “under section 1341(c) or 1342 of this title” after “terminated”.
+Subsec. (a). Pub. L. 99–272, §11016(a)(5)(B)(i), substituted "all contributing sponsors of a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control" for "all employers who maintain a plan under which more than one employer makes contributions (other than a multiemployer plan)" and inserted "under section 1341(c) or 1342 of this title" after "terminated".
 
 Subsec. (b). Pub. L. 99–272, §11016(a)(5)(B)(ii), amended subsec. (b) generally, substituting reference to each contributing sponsor and each member of its controlled group for reference to each employer of a plan maintained by more than one employer and inserted provisions that liability determined under section 1362(b)(1) of this title with respect to the entire plan be determined without regard to cls. (i)(II) and (ii) of section 1362(b)(1)(A) of this title and that the amount of liability determined under section 1362(c)(1) of this title with respect to the entire plan be allocated to each controlled group by multiplying such amount by the fraction described in par. (1)(B) in connection with such controlled group.
 

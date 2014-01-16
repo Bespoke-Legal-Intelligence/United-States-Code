@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “executive agency” has the same meaning given in section 133 of this title.
+Definition.—In this section, the term "executive agency" has the same meaning given in section 133 of this title.
 
 (b)
 
@@ -42,5 +42,5 @@ Historical and Revision Notes
 
 Pub. L. 110–417, \[div. A\], title VIII, §866, Oct. 14, 2008, 122 Stat. 4551.
 
-In subsection (b), the words “Not later than one year after the date of the enactment of this Act” are omitted because of section 6(f) of the bill. The word “shall” is substituted for the words “shall be amended” to reflect the permanence of the provision.
+In subsection (b), the words "Not later than one year after the date of the enactment of this Act" are omitted because of section 6(f) of the bill. The word "shall" is substituted for the words "shall be amended" to reflect the permanence of the provision.
 

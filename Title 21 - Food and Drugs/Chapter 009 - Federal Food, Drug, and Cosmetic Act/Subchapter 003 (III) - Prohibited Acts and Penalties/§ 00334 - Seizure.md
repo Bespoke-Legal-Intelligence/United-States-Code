@@ -24,7 +24,7 @@
 
 #### (b) Procedure; multiplicity of pending proceedings
 
-The article, equipment, or other thing proceeded against shall be liable to seizure by process pursuant to the libel, and the procedure in cases under this section shall conform, as nearly as may be, to the procedure in admiralty; except that on demand of either party any issue of fact joined in any such case shall be tried by jury. When libel for condemnation proceedings under this section, involving the same claimant and the same issues of adulteration or misbranding, are pending in two or more jurisdictions, such pending proceedings, upon application of the claimant seasonably made to the court of one such jurisdiction, shall be consolidated for trial by order of such court, and tried in (1) any district selected by the claimant where one of such proceedings is pending; or (2) a district agreed upon by stipulation between the parties. If no order for consolidation is so made within a reasonable time, the claimant may apply to the court of one such jurisdiction and such court (after giving the United States attorney for suchdistrict reasonable notice and opportunity to be heard) shall by order, unless good cause to the contrary is shown, specify a district of reasonable proximity to the claimant's principal place of business, in which all such pending proceedings shall be consolidated for trial and tried. Such order of consolidation shall not apply so as to require the removal of any case the date for trial of which has been fixed. The court granting such order shall give prompt notification thereof to the other courts having jurisdiction of the cases covered thereby.
+The article, equipment, or other thing proceeded against shall be liable to seizure by process pursuant to the libel, and the procedure in cases under this section shall conform, as nearly as may be, to the procedure in admiralty; except that on demand of either party any issue of fact joined in any such case shall be tried by jury. When libel for condemnation proceedings under this section, involving the same claimant and the same issues of adulteration or misbranding, are pending in two or more jurisdictions, such pending proceedings, upon application of the claimant seasonably made to the court of one such jurisdiction, shall be consolidated for trial by order of such court, and tried in (1) any district selected by the claimant where one of such proceedings is pending; or (2) a district agreed upon by stipulation between the parties. If no order for consolidation is so made within a reasonable time, the claimant may apply to the court of one such jurisdiction and such court (after giving the United States attorney for such district reasonable notice and opportunity to be heard) shall by order, unless good cause to the contrary is shown, specify a district of reasonable proximity to the claimant's principal place of business, in which all such pending proceedings shall be consolidated for trial and tried. Such order of consolidation shall not apply so as to require the removal of any case the date for trial of which has been fixed. The court granting such order shall give prompt notification thereof to the other courts having jurisdiction of the cases covered thereby.
 
 #### (c) Availability of samples of seized goods prior to trial
 
@@ -52,7 +52,7 @@ In the case of removal for trial of any case as provided by subsection (a) or (b
 
 #### (g) Administrative restraint; detention orders
 
-(1) If during an inspection conducted under section 374 of this title of a facility or a vehicle, a device or tobacco product which the officer or employee making the inspection has reason to believe is adulterated or misbranded is found in such facility or vehicle, such officer or employee may order the device or tobacco product detained (in accordance with regulations prescribed by the Secretary) for a reasonable period which may not exceed twenty days unless theSecretary determines that a period of detention greater than twenty days is required to institute an action under subsection (a) of this section or section 332 of this title, in which case he may authorize a detention period of not to exceed thirty days. Regulations of the Secretary prescribed under this paragraph shall require that before a device or tobacco product may be ordered detained under this paragraph the Secretary or an officer or employee designated by the Secretary approve such order. A detention order under this paragraph may require the labeling or marking of a device or tobacco product during the period of its detention for the purpose of identifying the device or tobacco product as detained. Any person who would be entitled to claim a device or tobacco product if it were seized under subsection (a) of this section may appeal to the Secretary a detention of such device or tobacco product under this paragraph. Within five days of the date an appeal of a detention is filed with the Secretary, the Secretary shall after affording opportunity for an informal hearing by order confirm the detention or revoke it.
+(1) If during an inspection conducted under section 374 of this title of a facility or a vehicle, a device or tobacco product which the officer or employee making the inspection has reason to believe is adulterated or misbranded is found in such facility or vehicle, such officer or employee may order the device or tobacco product detained (in accordance with regulations prescribed by the Secretary) for a reasonable period which may not exceed twenty days unless the Secretary determines that a period of detention greater than twenty days is required to institute an action under subsection (a) of this section or section 332 of this title, in which case he may authorize a detention period of not to exceedthirty days. Regulations of the Secretary prescribed under this paragraph shall require that before a device or tobacco product may be ordered detained under this paragraph the Secretary or an officer or employee designated by the Secretary approve such order. A detention order under this paragraph may require the labeling or marking of a device or tobacco product during the period of its detention for the purpose of identifying the device or tobacco product as detained. Any person who would be entitled to claim a device or tobacco product if it were seized under subsection (a) of this section may appeal to the Secretary a detention of such device or tobacco product under this paragraph. Within five days of the date an appeal of a detention is filed with the Secretary, the Secretary shall after affording opportunity for an informal hearing by order confirm the detention or revoke it.
 
 (2)(A) Except as authorized by subparagraph (B), a device or tobacco product subject to a detention order issued under paragraph (1) shall not be moved by any person from the place at which it is ordered detained until—
 
@@ -112,55 +112,55 @@ In the case of removal for trial of any case as provided by subsection (a) or (b
 
 #### (2) Restrictions
 
-&emsp;Notwithstanding any other provision of Federal law, in implementing this section, theSecretary shall only promulgate regulations as described in paragraph (1).
+&emsp;Notwithstanding any other provision of Federal law, in implementing this section, the Secretary shall only promulgate regulations as described in paragraph (1).
 
-(June 25, 1938, ch. 675, §304, 52 Stat. 1044; June 24, 1948, ch. 613, §2, 62 Stat. 582; Aug. 7, 1953, ch. 350, §3, 67 Stat. 477; Pub. L. 85–250, Aug. 31, 1957, 71 Stat. 567; Pub. L. 89–74, §6, July 15, 1965, 79 Stat. 232; Pub. L. 90–639, §4(b), Oct. 24, 1968, 82 Stat. 1362; Pub. L. 91–513, title II, §701(c), (d), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 94–278, title V, §502(a)(2)(C), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §§3(c), 7(a), May 28, 1976, 90 Stat. 576, 582; Pub. L. 102–300, §6(c), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(f), Aug. 13, 1993, 107 Stat. 775; Pub. L. 105–115, title IV, §418, Nov. 21, 1997, 111 Stat. 2379; Pub. L. 107–188, title III, §303(a), June 12, 2002, 116 Stat. 663; Pub. L. 110–85, title IX, §912(b)(1), Sept. 27, 2007, 121 Stat. 952; Pub. L. 111–31, div. A, title I, §103(d), June 22, 2009, 123 Stat. 1836; Pub. L. 111–353, title II, §207(a), Jan. 4, 2011, 124 Stat. 3944; Pub. L. 112–144, title VII, §709(a), (b)(2), July 9, 2012, 126 Stat. 1069.)
+(June 25, 1938, ch. 675, §304, 52 Stat. 1044; June 24, 1948, ch. 613, §2, 62 Stat. 582; Aug. 7, 1953, ch. 350, §3, 67 Stat. 477; Pub. L. 85–250, Aug. 31, 1957, 71Stat. 567; Pub. L. 89–74, §6, July 15, 1965, 79 Stat. 232; Pub. L. 90–639, §4(b), Oct. 24, 1968, 82 Stat. 1362; Pub. L. 91–513, title II, §701(c), (d), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 94–278, title V, §502(a)(2)(C), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §§3(c), 7(a), May 28, 1976, 90 Stat. 576, 582; Pub. L. 102–300, §6(c), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(f), Aug. 13, 1993, 107 Stat. 775; Pub. L. 105–115, title IV, §418, Nov. 21, 1997, 111 Stat. 2379; Pub. L. 107–188, title III, §303(a), June 12, 2002, 116 Stat. 663; Pub. L. 110–85, title IX, §912(b)(1), Sept. 27, 2007, 121 Stat. 952; Pub. L. 111–31, div. A, title I, §103(d), June 22, 2009, 123 Stat. 1836; Pub. L. 111–353, title II, §207(a), Jan. 4, 2011, 124 Stat. 3944; Pub. L. 112–144, title VII, §709(a), (b)(2), July 9, 2012, 126 Stat. 1069.)
 
 #### Amendment of Subsection (g)
 
 <i>Pub. L. 112–144, title VII, §709(a), (c), July 9, 2012, 126 Stat. 1069, 1070, provided that, effective on the date of issuance of certain final regulations (see Regulations note below), subsection (g) of this section is amended:</i>
 
-<i>(1) in paragraph (1), by inserting “, drug,” after “device” each place it appears;</i>
+<i>(1) in paragraph (1), by inserting ", drug," after "device" each place it appears;</i>
 
-<i>(2) in paragraph (2)(A), by inserting “, drug,” after “(B), a device”; and</i>
+<i>(2) in paragraph (2)(A), by inserting ", drug," after "(B), a device"; and</i>
 
-<i>(3) in paragraph (2)(B), by inserting “or drug” after “device” each place it appears.</i>
+<i>(3) in paragraph (2)(B), by inserting "or drug" after "device" each place it appears.</i>
 
 <i>See 2012 Amendment notes below.</i>
 
 #### Amendments
 
-<b>2012</b>—Subsec. (g)(1). Pub. L. 112–144, §709(a)(1), inserted “, drug,” after “device” wherever appearing.
+<b>2012</b>—Subsec. (g)(1). Pub. L. 112–144, §709(a)(1), inserted ", drug," after "device" wherever appearing.
 
-Subsec. (g)(2)(A). Pub. L. 112–144, §709(a)(2), inserted “, drug,” after “(B), a device”.
+Subsec. (g)(2)(A). Pub. L. 112–144, §709(a)(2), inserted ", drug," after "(B), a device".
 
-Subsec. (g)(2)(B). Pub. L. 112–144, §709(a)(3), inserted “or drug” after “device” in introductory provisions and in cl. (ii).
+Subsec. (g)(2)(B). Pub. L. 112–144, §709(a)(3), inserted "or drug" after "device" in introductory provisions and in cl. (ii).
 
 Subsec. (i). Pub. L. 112–144, §709(b)(2), added subsec. (i).
 
-<b>2011</b>—Subsec. (h)(1)(A). Pub. L. 111–353 substituted “reason to believe” for “credible evidence or information indicating” and “is adulterated or misbranded” for “presents a threat of serious adverse health consequences or death to humans or animals”.
+<b>2011</b>—Subsec. (h)(1)(A). Pub. L. 111–353 substituted "reason to believe" for "credible evidence or information indicating" and "is adulterated or misbranded" for "presents a threat of serious adverse health consequences or death to humans or animals".
 
 <b>2009</b>—Subsec. (a)(2)(E). Pub. L. 111–31, §103(d)(1), added cl. (E).
 
-Subsec. (d)(1). Pub. L. 111–31, §103(d)(2), inserted “tobacco product,” after “device,” in first sentence.
+Subsec. (d)(1). Pub. L. 111–31, §103(d)(2), inserted "tobacco product," after "device," in first sentence.
 
-Subsec. (g)(1). Pub. L. 111–31, §103(d)(3), inserted “or tobacco product” after “device” wherever appearing.
+Subsec. (g)(1). Pub. L. 111–31, §103(d)(3), inserted "or tobacco product" after "device" wherever appearing.
 
-Subsec. (g)(2)(A). Pub. L. 111–31, §103(d)(4), inserted “or tobacco product” after “device” in introductory provisions.
+Subsec. (g)(2)(A). Pub. L. 111–31, §103(d)(4), inserted "or tobacco product" after "device" in introductory provisions.
 
-<b>2007</b>—Subsec. (a)(1). Pub. L. 110–85 substituted “section 331(ll), 344, or 355” for “section 344 or 355”.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–85 substituted "section 331(ll), 344, or 355" for "section 344 or 355".
 
 <b>2002</b>—Subsec. (h). Pub. L. 107–188 added subsec. (h).
 
-<b>1997</b>—Subsec. (d)(1). Pub. L. 105–115 substituted “subparagraphs (A) and (B) of section 381(e)(1) of this title” for “paragraphs (1) and (2) of section 381(e) of this title” and inserted “Any person seeking to export an imported article pursuant to any of the provisions of this subsection shall establish that the article was intended for export at the time the article entered commerce.” before “Any article condemned by reason”.
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–115 substituted "subparagraphs (A) and (B) of section 381(e)(1) of this title" for "paragraphs (1) and (2) of section 381(e) of this title" and inserted "Any person seeking to export an imported article pursuant to any of the provisions of this subsection shall establish that the article was intended for export at the time the article entered commerce." before "Any article condemned by reason".
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–80, §3(f)(1), substituted “found. No libel” for “found: <i>Provided, however</i>, That no libel”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–80, §3(f)(1), substituted "found. No libel" for "found: <i>Provided, however</i>, That no libel".
 
-Subsec. (d)(1). Pub. L. 103–80, §3(f)(2), substituted “sold. After entry” for “sold: <i>Provided</i>, That after entry”, “met. The provisions of this sentence” for “met: <i>Provided, however</i>, That the provisions of this sentence”, “title. Where such exportation” for “title: <i>And provided further</i>, That where such exportation”, and “the preceding sentence shall not be applicable” for “the foregoing proviso shall not be applicable”.
+Subsec. (d)(1). Pub. L. 103–80, §3(f)(2), substituted "sold. After entry" for "sold: <i>Provided</i>, That after entry", "met. The provisions of this sentence" for "met: <i>Provided, however</i>, That the provisions of this sentence", "title. Where such exportation" for "title: <i>And provided further</i>, That where such exportation", and "the preceding sentence shall not be applicable" for "the foregoing proviso shall not be applicable".
 
-<b>1992</b>—Subsec. (d)(1). Pub. L. 102–300 substituted “381(e)” for “381(d)” in three places and “paragraphs” for “clauses” before “(1) and (2) of section 381(e)”.
+<b>1992</b>—Subsec. (d)(1). Pub. L. 102–300 substituted "381(e)" for "381(d)" in three places and "paragraphs" for "clauses" before "(1) and (2) of section 381(e)".
 
-<b>1976</b>—Subsec. (a)(1). Pub. L. 94–295, §3(c)(1), struck out “device,” after “Any article of food, drug,”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–295, §3(c)(1), struck out "device," after "Any article of food, drug,".
 
 Subsec. (a)(2). Pub. L. 94–295, §3(c)(2), (3), added cl. (D) covering adulterated or misbranded devices.
 
@@ -176,7 +176,7 @@ Subsec. (d)(3)(iii). Pub. L. 91–513, §701(d), struck out reference to depress
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–74, §6(a), designated existing provisions as par. (1), redesignated cls. (1) and (2) of proviso as (A) and (B), and added par. (2).
 
-Subsec. (b). Pub. L. 89–74, §6(b)(1), inserted “equipment, or other thing proceeded against” after “article” in first sentence.
+Subsec. (b). Pub. L. 89–74, §6(b)(1), inserted "equipment, or other thing proceeded against" after "article" in first sentence.
 
 Subsec. (d). Pub. L. 89–74, §6(b)(2), designated existing provisions as par. (1), redesignated cls. (1) and (2) of the second sentence thereof as (A) and (B), and added pars. (2) and (3).
 
@@ -184,15 +184,15 @@ Subsec. (d). Pub. L. 89–74, §6(b)(2), designated existing provisions as par. 
 
 <b>1953</b>—Subsec. (c). Act Aug. 7, 1953, provided that a true copy of the analysis in any case shall be furnished the owner.
 
-<b>1948</b>—Subsec. (a). Act June 24, 1948, inserted “or while held for sale (whether or not the first sale) after shipment in interstate commerce” to make this subsection coextensive with section 331(k) of this title.
+<b>1948</b>—Subsec. (a). Act June 24, 1948, inserted "or while held for sale (whether or not the first sale) after shipment in interstate commerce" to make this subsection coextensive with section 331(k) of this title.
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–144, title VII, §709(c), July 9, 2012, 126 Stat. 1070, provided that: “The amendments made by subsection (a) \[amending this section\] shall not take effect until the Secretary has issued a final regulation under subsection (b) \[amending this section and enacting provisions set out as a note under this section\].”
+Pub. L. 112–144, title VII, §709(c), July 9, 2012, 126 Stat. 1070, provided that: "The amendments made by subsection (a) \[amending this section\] shall not take effect until the Secretary has issued a final regulation under subsection (b) \[amending this section and enacting provisions set out as a note under this section\]."
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–353, title II, §207(c), Jan. 4, 2011, 124 Stat. 3944, provided that: “The amendment made by this section \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Jan. 4, 2011\].”
+Pub. L. 111–353, title II, §207(c), Jan. 4, 2011, 124 Stat. 3944, provided that: "The amendment made by this section \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Jan. 4, 2011\]."
 
 #### Effective Date of 1997 Amendment
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–278, title V, §502(c), Apr. 22, 1976, 90 Stat. 413, provided that: “The amendments made by subsection (a) \[amending this section and sections 321, 333, and 343 of this title\] shall take effect 180 days after the date of the enactment of this Act \[Apr. 22, 1976\].”
+Pub. L. 94–278, title V, §502(c), Apr. 22, 1976, 90 Stat. 413, provided that: "The amendments made by subsection (a) \[amending this section and sections 321, 333, and 343 of this title\] shall take effect 180 days after the date of the enactment of this Act \[Apr. 22, 1976\]."
 
 #### Effective Date of 1970 Amendment
 
@@ -208,7 +208,7 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–639 applicable only with respect to violations of this chapter committed after Oct.24, 1968, see section 6 of Pub. L. 90–639, set out as an Effective Date of 1968 Amendments; Transitional Provisions note under section 321 of this title.
+Amendment by Pub. L. 90–639 applicable only with respect to violations of this chapter committed after Oct. 24, 1968, see section 6 of Pub. L. 90–639, set out as an Effective Date of 1968 Amendments; Transitional Provisions note under section 321 of this title.
 
 #### Effective Date of 1965 Amendment
 
@@ -216,9 +216,9 @@ Amendment by Pub. L. 89–74 effective Feb. 1, 1966, see section 11 of Pub. L. 8
 
 #### Regulations
 
-Pub. L. 112–144, title VII, §709(b)(1), July 9, 2012, 126 Stat. 1069, provided that: “Not later than 2 years after the date of the enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall promulgate regulations in accordance with section 304(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 334(i)\], as added by paragraph (2) of this subsection, to implement administrative detention authority with respect to drugs, as authorized by the amendments made by subsection (a) \[amending this section\]. Before promulgating such regulations, the Secretary shall consult with stakeholders, including manufacturers of drugs.”
+Pub. L. 112–144, title VII, §709(b)(1), July 9, 2012, 126 Stat. 1069, provided that: "Not later than 2 years after the date of the enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall promulgate regulations in accordance with section 304(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 334(i)\], as added by paragraph (2) of this subsection, to implement administrative detention authority with respect to drugs, as authorized by the amendments made by subsection (a) \[amending this section\]. Before promulgating such regulations, the Secretary shall consult with stakeholders, including manufacturers of drugs."
 
-Pub. L. 111–353, title II, §207(b), Jan. 4, 2011, 124 Stat. 3944, provided that: “Not later than 120 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall issue an interim final rule amending subpart K of part 1 of title 21, Code of Federal Regulations, to implement the amendment made by this section \[amending this section\].”
+Pub. L. 111–353, title II, §207(b), Jan. 4, 2011, 124 Stat. 3944, provided that: "Not later than 120 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall issue an interim final rule amending subpart K of part 1 of title 21, Code of Federal Regulations, to implement the amendment made by this section \[amending this section\]."
 
 #### Savings Provision
 

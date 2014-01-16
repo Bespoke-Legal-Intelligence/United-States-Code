@@ -10,19 +10,19 @@ Section was not enacted as part of the Migratory Bird Conservation Act which com
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–653 substituted “when all amounts authorized to be appropriated have been expended” for “at the close of September 30, 1988”.
+<b>1988</b>—Pub. L. 100–653 substituted "when all amounts authorized to be appropriated have been expended" for "at the close of September 30, 1988".
 
-<b>1986</b>—Pub. L. 99–645 substituted “September 30, 1988” for “September 30, 1986”.
+<b>1986</b>—Pub. L. 99–645 substituted "September 30, 1988" for "September 30, 1986".
 
-<b>1984</b>—Pub. L. 98–548 substituted “September 30, 1986” for “September 30, 1984”.
+<b>1984</b>—Pub. L. 98–548 substituted "September 30, 1986" for "September 30, 1984".
 
-<b>1983</b>—Pub. L. 98–200 substituted “September 30, 1984” for “September 30, 1983”.
+<b>1983</b>—Pub. L. 98–200 substituted "September 30, 1984" for "September 30, 1983".
 
-<b>1976</b>—Pub. L. 94–215 substituted “period beginning on July 1, 1961, and ending at the close of September 30, 1983, not to exceed $200,000,000” for “fifteen-year period beginning with fiscal year 1962, not to exceed $105,000,000”.
+<b>1976</b>—Pub. L. 94–215 substituted "period beginning on July 1, 1961, and ending at the close of September 30, 1983, not to exceed $200,000,000" for "fifteen-year period beginning with fiscal year 1962, not to exceed $105,000,000".
 
-<b>1967</b>—Pub. L. 90–205 substituted “fifteen-year period” for “seven-year period”.
+<b>1967</b>—Pub. L. 90–205 substituted "fifteen-year period" for "seven-year period".
 
 #### Short Title
 
-Pub. L. 87–383, which enacted this section and sections 715k–4 and 715k–5 of this title, is popularly known as the “Wetlands Loan Act”.
+Pub. L. 87–383, which enacted this section and sections 715k–4 and 715k–5 of this title, is popularly known as the "Wetlands Loan Act".
 

@@ -16,7 +16,7 @@ The Administrator shall—
 
 &emsp;(1) act within ninety days after October 21, 1976—
 
-&emsp;&emsp;(A) to define the term “known financial interest” for purposes of subsection (a) of this section; and
+&emsp;&emsp;(A) to define the term "known financial interest" for purposes of subsection (a) of this section; and
 
 &emsp;&emsp;(B) to establish the methods by which the requirement to file written statements specified in subsection (a) of this section will be monitored and enforced, including appropriate provision for the filing by such officers and employees of such statements and the review by the Administrator of such statements; and
 
@@ -28,7 +28,7 @@ In the rules prescribed under subsection (b) of this section, the Administrator 
 
 #### (d) Penalty
 
-Any officer or employee who is subject to, and knowingly violates, this section shall be finednot more than $2,500 or imprisoned not more than one year, or both.
+Any officer or employee who is subject to, and knowingly violates, this section shall be fined not more than $2,500 or imprisoned not more than one year, or both.
 
 (Pub. L. 89–272, title II, §1007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2802.)
 

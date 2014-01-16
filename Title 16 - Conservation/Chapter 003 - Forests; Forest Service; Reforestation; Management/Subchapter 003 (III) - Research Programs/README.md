@@ -12,5 +12,5 @@
 - [&sect; 00582a&#8211;4 - Regulations; advice and assistance; appointment, membership, etc., of council](%C2%A7%2000582a%E2%80%934%20-%20Regulations%3B%20advice%20and%20assistance%3B%20appointment%2C%20membership%2C%20etc.%2C%20of%20council.md)
 - [&sect; 00582a&#8211;5 - Apportionments, advice, criteria, etc](%C2%A7%2000582a%E2%80%935%20-%20Apportionments%2C%20advice%2C%20criteria%2C%20etc.md)
 - [&sect; 00582a&#8211;6 - Scope of forestry research](%C2%A7%2000582a%E2%80%936%20-%20Scope%20of%20forestry%20research.md)
-- [&sect; 00582a&#8211;7 - &#8220;State&#8221; defined](%C2%A7%2000582a%E2%80%937%20-%20%E2%80%9CState%E2%80%9D%20defined.md)
+- [&sect; 00582a&#8211;7 - State defined](%C2%A7%2000582a%E2%80%937%20-%20State%20defined.md)
 - [&sect; 00582a&#8211;8 - Competitive forestry, natural resources, and environmental grants program](%C2%A7%2000582a%E2%80%938%20-%20Competitive%20forestry%2C%20natural%20resources%2C%20and%20environmental%20grants%20program.md)

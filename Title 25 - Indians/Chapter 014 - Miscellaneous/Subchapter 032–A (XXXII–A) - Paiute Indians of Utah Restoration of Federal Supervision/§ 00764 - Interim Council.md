@@ -6,7 +6,7 @@ Within forty-five days after April 3, 1980, the Secretary shall announce the dat
 
 #### (b) Powers and authorities
 
-The Interim Council shall represent the tribe and its members in the implementation of thissubchapter and shall be the acting tribal governing body until tribal officials are elected pursuant to section 765(c) of this title and shall have no powers other than those given to it in accordance with this subchapter. The Interim Council shall have full authority and capacity to receive grants from and to make contracts with the Secretary and the Secretary of Health and Human Services with respect to Federal services and benefits for the tribe and its members: <i>Provided</i>, That no authority to enter into contracts or to make payments under this subchapter shall be effective except to such extent or in such amounts as are provided in advance in appropriation Acts. The Interim Council shall have the authority to bind the tribal governing body as the successor in interest to the Interim Council for a period extending not more than six months after the date on which the tribal governing body takes office. Except as provided in the preceding sentence, the Interim Council shall have no power or authority after the time when the duly-elected tribal governing body takes office.
+The Interim Council shall represent the tribe and its members in the implementation of this subchapter and shall be the acting tribal governing body until tribal officials are elected pursuant to section 765(c) of this title and shall have no powers other than those given to it in accordance with this subchapter. The Interim Council shall have full authority and capacity to receive grants from and to make contracts with the Secretary and the Secretary of Health and Human Services with respect to Federal services and benefits for the tribe and its members: <i>Provided</i>, That no authority to enter into contracts or to make payments under this subchapter shall be effective except to such extent or in such amounts as are provided in advance in appropriation Acts. The Interim Council shall have the authority to bind the tribal governing body as the successor in interest to the Interim Council for a period extending not more than six months after the date on which the tribal governing body takes office. Except as provided in the preceding sentence, the Interim Council shall have no power or authority after the time when the duly-elected tribal governing body takes office.
 
 #### (c) Vacancies; notice; meeting; election
 
@@ -16,5 +16,5 @@ Within thirty days after receiving notice of a vacancy on the Interim Council, t
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 

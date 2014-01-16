@@ -34,13 +34,13 @@ A prior section 3839aa, Pub. L. 99–198, title XII, §1240, as added Pub. L. 10
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §2501(a)(1), inserted “, forest management,” after “agricultural production” in introductory provisions.
+<b>2008</b>—Pub. L. 110–246, §2501(a)(1), inserted ", forest management," after "agricultural production" in introductory provisions.
 
 Pars. (3), (4). Pub. L. 110–246, §2501(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
 
-“(3) providing flexible assistance to producers to install and maintain conservation practices that enhance soil, water, related natural resources (including grazing land and wetland), and wildlife while sustaining production of food and fiber;
+"(3) providing flexible assistance to producers to install and maintain conservation practices that enhance soil, water, related natural resources (including grazing land and wetland), and wildlife while sustaining production of food and fiber;
 
-“(4) assisting producers to make beneficial, cost effective changes to cropping systems, grazing management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural land; and”.
+"(4) assisting producers to make beneficial, cost effective changes to cropping systems, grazing management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural land; and".
 
 #### Effective Date of 2008 Amendment
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish, by regulation adopted in accordance with section 2016 of this title, a system for the direct funding and support of all Bureau-funded schools. Such system shall allot funds in accordance with section 2007 of this title. All amounts appropriated for distribution in accordance with this section shall be made available in accordance with paragraph (2).
+&emsp;The Secretary shall establish, by regulation adopted in accordance with section 2016 of thistitle, a system for the direct funding and support of all Bureau-funded schools. Such system shall allot funds in accordance with section 2007 of this title. All amounts appropriated for distribution in accordance with this section shall be made available in accordance with paragraph (2).
 
 #### (2) Timing for use of funds
 
@@ -46,7 +46,7 @@
 
 #### (B) Notice
 
-&emsp;&emsp;Not later than 6 months after January 8, 2002, the Secretary shall send notice of the provisions of this paragraph to each supervisor of a Bureau school and associated school board chairperson, the education lineofficer of each agency and area, and the Bureau division in charge of procurement, at both the local and national levels.
+&emsp;&emsp;Not later than 6 months after January 8, 2002, the Secretary shall send notice of the provisions of this paragraph to each supervisor of a Bureau school and associated school board chairperson, the education line officer of each agency and area, and the Bureau division in charge of procurement, at both the local and national levels.
 
 #### (C) Application and guidelines
 
@@ -128,7 +128,7 @@ In carrying out this section, a local school board may request technical assista
 
 #### (A) In general
 
-&emsp;&emsp;A financial plan under subsection (b) of this section for a school may include, at thediscretion of the local administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school.
+&emsp;&emsp;A financial plan under subsection (b) of this section for a school may include, at the discretion of the local administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school.
 
 #### (B) Prevention activities
 
@@ -206,7 +206,7 @@ Act of April 16, 1934, referred to in subsec. (e)(2), is act Apr. 16, 1934, ch. 
 
 This Act, referred to in subsec. (e)(2), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
-This chapter, referred to in subsec. (h)(1), was in the original “this title”, meaning title XI (§1101 et seq.) ofPub. L. 95–561, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
+This chapter, referred to in subsec. (h)(1), was in the original "this title", meaning title XI (§1101 et seq.) of Pub. L. 95–561, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -214,5 +214,5 @@ A prior section 2010, Pub. L. 95–561, title XI, §1130, as added Pub. L. 103�
 
 Another prior section 2010, Pub. L. 95–561, title XI, §1130, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 100–297, title V, §5111, Apr. 28, 1988, 102 Stat. 376; Pub. L. 100–427, §7, Sept. 9, 1988, 102 Stat. 1605, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 103–382.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1)".</i>
 

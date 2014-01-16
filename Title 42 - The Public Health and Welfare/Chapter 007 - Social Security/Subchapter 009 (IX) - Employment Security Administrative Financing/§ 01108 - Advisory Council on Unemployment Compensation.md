@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Not later than February 1, 1992, and every 4th year thereafter, the Secretary of Labor shall establish an advisory council to be known as the Advisory Council on Unemployment Compensation (referred to in this section as the “Council”).
+Not later than February 1, 1992, and every 4th year thereafter, the Secretary of Labor shall establish an advisory council to be known as the Advisory Council on Unemployment Compensation (referred to in this section as the "Council").
 
 #### (b) Function
 
@@ -82,11 +82,11 @@ A prior section 1110, act Aug. 14, 1935, ch. 531, title IX, §910, 49 Stat. 644,
 
 #### Amendments
 
-<b>1993</b>—Subsec. (f). Pub. L. 103–152 substituted “third year” for “2d year” in par. (1) and “1995” for “1994” in par. (2).
+<b>1993</b>—Subsec. (f). Pub. L. 103–152 substituted "third year" for "2d year" in par. (1) and "1995" for "1994" in par. (2).
 
 <b>1991</b>—Pub. L. 102–164 amended section generally, substituting present provisions for provisions which in subsec. (a) established the Federal Advisory Council and its membership, in subsec. (b) prescribed the appointment of its members, in subsec. (c) required that secretarial, clerical, and other assistance be made available to the Council, in subsec. (d) provided for compensation of members, in subsec. (e) encouraged the organization of State advisory councils, and in subsec. (f) authorized certain appropriations for the work of the Council.
 
-<b>1984</b>—Subsec. (d). Pub. L. 98–369 substituted “5703” for “5703(b)”.
+<b>1984</b>—Subsec. (d). Pub. L. 98–369 substituted "5703" for "5703(b)".
 
 #### Effective Date of 1984 Amendment
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment,unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Report on Agricultural Labor Performed by Aliens
 

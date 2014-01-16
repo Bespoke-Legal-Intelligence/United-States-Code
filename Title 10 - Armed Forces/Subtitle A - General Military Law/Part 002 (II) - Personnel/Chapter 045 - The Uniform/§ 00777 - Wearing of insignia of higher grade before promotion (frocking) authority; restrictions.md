@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—An officer in a grade below the grade of major general or, in the case of the Navy, rear admiral, who has been selected for promotion to the next higher grade may be authorized, under regulations and policies of the Department of Defense and subject to subsection (b), to wear the insignia for that next higher grade. An officer who is so authorized to wear the insignia of the next higher grade is said to be “frocked” to that grade.
+Authority.—An officer in a grade below the grade of major general or, in the case of the Navy, rear admiral, who has been selected for promotion to the next higher grade may be authorized, under regulations and policies of the Department of Defense and subject to subsection (b), to wear the insignia for that next higher grade. An officer who is so authorized to wear the insignia of the next higher grade is said to be "frocked" to that grade.
 
 (b)
 
@@ -42,31 +42,31 @@ Limitation on Number of Officers Frocked to Specified Grades.—(1) The total nu
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(3)(B). Pub. L. 111–383 struck out “and a period of 30 days has elapsed after the date of the notification” after “grade”.
+<b>2011</b>—Subsec. (b)(3)(B). Pub. L. 111–383 struck out "and a period of 30 days has elapsed after the date of the notification" after "grade".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163, §503(c), inserted “in a grade below the grade of major general or, in the case of the Navy, rear admiral,” after “An officer” in first sentence.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §503(c), inserted "in a grade below the grade of major general or, in the case of the Navy, rear admiral," after "An officer" in first sentence.
 
-Subsec. (d)(1). Pub. L. 109–163, §504(1), substituted “colonels, Navy captains, brigadier generals, and rear admirals (lower half)” for “brigadier generals and Navy rear admirals (lower half)” and “the next higher grademay not exceed 85” for “the grade of major general or rear admiral, as the case may be, may not exceed 30”.
+Subsec. (d)(1). Pub. L. 109–163, §504(1), substituted "colonels, Navy captains, brigadier generals, and rear admirals (lower half)" for "brigadier generals and Navy rear admirals (lower half)" and "the next higher grade may not exceed 85" for "the grade of major general or rear admiral, as the case may be, may not exceed 30".
 
-Subsec. (d)(2), (3). Pub. L. 109–163, §504(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The total number of colonels and Navy captains on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the grade of brigadier general or rear admiral (lower half), as the case may be, may not exceed 55.”
+Subsec. (d)(2), (3). Pub. L. 109–163, §504(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "The total number of colonels and Navy captains on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the grade of brigadier general or rear admiral (lower half), as the case may be, may not exceed 55."
 
 <b>2004</b>—Subsec. (d). Pub. L. 108–375 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 <b>2003</b>—Subsec. (b)(3). Pub. L. 108–136 added par. (3).
 
-<b>1999</b>—Subsec. (d)(1). Pub. L. 106–65 substituted “55.” for “the following:” and struck out subpars. (A) to (C) which read as follows:
+<b>1999</b>—Subsec. (d)(1). Pub. L. 106–65 substituted "55." for "the following:" and struck out subpars. (A) to (C) which read as follows:
 
-“(A) During fiscal years 1996 and 1997, 75.
+"(A) During fiscal years 1996 and 1997, 75.
 
-“(B) During fiscal year 1998, 55.
+"(B) During fiscal year 1998, 55.
 
-“(C) After fiscal year 1998, 35.”
+"(C) After fiscal year 1998, 35."
 
-<b>1997</b>—Subsec. (d)(2). Pub. L. 105–85 inserted “, or, for the grades of colonel and Navy captain, 2 percent,” after “1 percent”.
+<b>1997</b>—Subsec. (d)(2). Pub. L. 105–85 inserted ", or, for the grades of colonel and Navy captain, 2 percent," after "1 percent".
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title V, §509(b), Nov. 24, 2003, 117 Stat. 1459, provided that: “Paragraph (3) of subsection (b) of section 777 of title 10, United States Code, as added by subsection (a), shall not apply with respect to the wearing by an officer of insignia for a grade that was authorized under that section before the date of the enactment of this Act \[Nov. 24, 2003\].”
+Pub. L. 108–136, div. A, title V, §509(b), Nov. 24, 2003, 117 Stat. 1459, provided that: "Paragraph (3) of subsection (b) of section 777 of title 10, United States Code, as added by subsection (a), shall not apply with respect to the wearing by an officer of insignia for a grade that was authorized under that section before the date of the enactment of this Act \[Nov. 24, 2003\]."
 
 #### Temporary Variation of Limitations on Numbers of Frocked Officers
 

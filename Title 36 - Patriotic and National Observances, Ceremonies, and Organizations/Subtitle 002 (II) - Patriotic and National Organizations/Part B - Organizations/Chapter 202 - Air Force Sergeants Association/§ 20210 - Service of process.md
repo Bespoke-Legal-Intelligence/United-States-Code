@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Nov. 18, 1997, Pub. L. 105–85, title XV, §1504, 111 Stat. 1964.
 
-The words “each State in which it is incorporated” are substituted for “the District of Columbia” for consistency in the revised title. The words “in furtherance of its corporate purposes” are omitted as unnecessary.
+The words "each State in which it is incorporated" are substituted for "the District of Columbia" for consistency in the revised title. The words "in furtherance of its corporate purposes" are omitted as unnecessary.
 

@@ -18,5 +18,5 @@ There are authorized to be appropriated to carry out this chapter such sums as m
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(1), was in the original “this title”, meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(1), was in the original "this title", meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
 

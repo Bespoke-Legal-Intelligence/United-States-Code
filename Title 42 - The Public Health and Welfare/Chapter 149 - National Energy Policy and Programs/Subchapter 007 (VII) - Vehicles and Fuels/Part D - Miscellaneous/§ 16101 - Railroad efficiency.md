@@ -20,51 +20,51 @@ There are authorized to be appropriated to the Secretary to carry out this secti
 
 Pub. L. 110–140, title XI, §1111, Dec. 19, 2007, 121 Stat. 1757, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Transportation, in consultation with the Administrator of the Environmental Protection Agency, shall establish and carry out a pilot program for making grants to railroad carriers (as defined in section 20102 of title 49, United States Code) and State and local governments—
 
-&emsp;“(1) for assistance in purchasing hybrid or other energy-efficient locomotives, including hybrid switch and generator-set locomotives; and
+&emsp;"(1) for assistance in purchasing hybrid or other energy-efficient locomotives, including hybrid switch and generator-set locomotives; and
 
-&emsp;“(2) to demonstrate the extent to which such locomotives increase fuel economy, reduce emissions, and lower costs of operation.
+&emsp;"(2) to demonstrate the extent to which such locomotives increase fuel economy, reduce emissions, and lower costs of operation.
 
-“(b)
+"(b)
 
 Limitation.—Notwithstanding subsection (a), no grant under this section may be used to fund the costs of emissions reductions that are mandated under Federal law.
 
-“(c)
+"(c)
 
 Grant Criteria.—In selecting applicants for grants under this section, the Secretary of Transportation shall consider—
 
-&emsp;“(1) the level of energy efficiency that would be achieved by the proposed project;
+&emsp;"(1) the level of energy efficiency that would be achieved by the proposed project;
 
-&emsp;“(2) the extent to which the proposed project would assist in commercial deployment of hybrid or other energy-efficient locomotive technologies;
+&emsp;"(2) the extent to which the proposed project would assist in commercial deployment of hybrid or other energy-efficient locomotive technologies;
 
-&emsp;“(3) the extent to which the proposed project complements other private or governmental partnership efforts to improve air quality or fuel efficiency in a particular area; and
+&emsp;"(3) the extent to which the proposed project complements other private or governmental partnership efforts to improve air quality or fuel efficiency in a particular area; and
 
-&emsp;“(4) the extent to which the applicant demonstrates innovative strategies and a financial commitment to increasing energy efficiency and reducing greenhouse gas emissions of its railroad operations.
+&emsp;"(4) the extent to which the applicant demonstrates innovative strategies and a financial commitment to increasing energy efficiency and reducing greenhouse gas emissions of its railroad operations.
 
-“(d)
+"(d)
 
 Competitive Grant Selection Process.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Applications.—A railroad carrier or State or local government seeking a grant under this section shall submit for approval by the Secretary of Transportation an application for the grant containing such information as the Secretary of Transportation may require.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Competitive selection.—The Secretary of Transportation shall conduct a national solicitation for applications for grants under this section and shall select grantees on a competitive basis.
 
-“(e)
+"(e)
 
 Federal Share.—The Federal share of the cost of a project under this section shall not exceed 80 percent of the project cost.
 
-“(f)
+"(f)
 
 Report.—Not later than 3 years after the date of enactment of this Act \[Dec. 19, 2007\], the Secretary of Transportation shall submit to Congress a report on the results of the pilot program carried out under this section.
 
-“(g)
+"(g)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Transportation $10,000,000 for each of the fiscal years 2008 through 2011 to carry out this section. Such funds shall remain available until expended.”
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Transportation $10,000,000 for each of the fiscal years 2008 through 2011 to carry out this section. Such funds shall remain available until expended."
 

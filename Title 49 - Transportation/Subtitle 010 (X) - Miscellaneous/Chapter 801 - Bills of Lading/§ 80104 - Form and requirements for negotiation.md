@@ -54,5 +54,5 @@ Aug. 29, 1916, ch. 415, §§27, 28, 30, 37, 38, 39 Stat. 542, 543, 544.
 
 49 App.:118.
 
-In subsection (a)(1), the words “If the goods are deliverable to the order of a specified person” are substituted for “the person to whose order the goods are deliverable by the tenor of the bill” for clarity. The text of 49 App.:108 (last sentence) is omitted as unnecessary because of the restatement.
+In subsection (a)(1), the words "If the goods are deliverable to the order of a specified person" are substituted for "the person to whose order the goods are deliverable by the tenor of the bill" for clarity. The text of 49 App.:108 (last sentence) is omitted as unnecessary because of the restatement.
 

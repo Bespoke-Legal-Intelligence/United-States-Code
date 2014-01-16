@@ -106,7 +106,7 @@ Audits and Examinations.—All grantees under this section shall maintain such r
 
 (h)
 
-Small Shipyard Defined.—In this section, the term “small shipyard” means a shipyard facility in one geographic location that does not have more than 1,200 employees.
+Small Shipyard Defined.—In this section, the term "small shipyard" means a shipyard facility in one geographic location that does not have more than 1,200 employees.
 
 (i)
 

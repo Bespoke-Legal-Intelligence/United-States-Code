@@ -10,19 +10,21 @@ Annual Naval Vessel Construction Plan and Certification.—The Secretary of Defe
 
 (b)
 
-Annual Naval Vessel Construction Plan.—(1) The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the naval vessel force provided for under that plan is capable of supporting the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 404a), except that, if at the time such plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan should be designed so that the naval vessel force provided for under that plan is capable of supporting the ship force structure recommended in the report of the most recent quadrennial defense review.
+Annual Naval Vessel Construction Plan.—(1) The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) shall be designed so that the naval vessel force provided for under that plan supports the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 404a),<sup>1</sup> except that, if at the time such plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan shall be designed so that the naval vessel force provided for under that plan supports the ship force structure recommended in the report of the most recent quadrennial defense review.
 
 (2) Each such naval vessel construction plan shall include the following:
 
 &emsp;(A) A detailed program for the construction of combatant and support vessels for the Navy over the next 30 fiscal years.
 
-&emsp;(B) A description of the necessary naval vessel force structure to meet the requirementsof the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
+&emsp;(B) A description of the necessary naval vessel force structure and capabilities to meet the requirements of the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
 
 &emsp;(C) The estimated levels of annual funding necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
 
+&emsp;(D) The estimated total cost of construction for each vessel used to determine estimated levels of annual funding under subparagraph (C).
+
 (c)
 
-Assessment When Vessel Construction Budget Is Insufficient to Meet Applicable Requirements.—If the budget for a fiscal year provides for funding of the construction of naval vessels at a level that is not sufficient to sustain the naval vessel force structure specified in the naval vessel construction plan for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of naval vessels that will result from funding naval vessel construction at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands.
+Assessment When Annual Naval Vessel Construction Plan Does Not Meet Force Structure Requirements.—If the annual naval vessel construction plan for a fiscal year under subsection (b) does not result in a force structure or capabilities that meet the requirements identified in subsection (b)(2)(B), the Secretary shall include with the defense budget materials for that fiscal year an assessment of the extent of the strategic and operational risk to national security associated with the reduced force structure of naval vessels over the period of time that the required force structure or capabilities are not achieved. Such assessment shall include an analysis of whether the risks are acceptable, and plans to mitigate such risks. Such assessment shall be coordinated in advance with the commanders of the combatant commands and the Nuclear Weapons Council under section 179 of this title.
 
 (d)
 
@@ -38,19 +40,33 @@ Limitation on Availability of Funds for Fiscal Years Without Plan and Certificat
 
 Definitions.—In this section:
 
-&emsp;(1) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
+&emsp;(1) The term "budget", with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
 
-&emsp;(2) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
+&emsp;(2) The term "defense budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-&emsp;(3) The term “quadrennial defense review” means the review of the defense programs and policies of the United States that is carried out every four years under section 118 of this title.
+&emsp;(3) The term "quadrennial defense review" means the review of the defense programs andpolicies of the United States that is carried out every four years under section 118 of this title.
 
-(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558; Pub. L. 112–239, div. A, title X, §1014(a), Jan. 2, 2013, 126 Stat. 1908.)
+(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558; Pub. L. 112–239, div. A, title X, §1014(a), Jan. 2, 2013, 126 Stat. 1908; Pub. L. 113–66, div. A, title X, §1021, Dec. 26, 2013, 127 Stat. 844.)
+
+#### References in Text
+
+The National Security Act of 1947, referred to in subsec. (b)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 108 of the Act is now classified to section 3043 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>2013</b>—Subsecs. (e), (f). Pub. L. 112–239 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>2013</b>—Subsec. (b)(1). Pub. L. 113–66, §1021(a)(1), substituted "shall be designed" for "should be designed" in two places and "supports" for "is capable of supporting" in two places.
+
+Subsec. (b)(2)(B). Pub. L. 113–66, §1021(a)(2)(A), inserted "and capabilities" after "naval vessel force structure".
+
+Subsec. (b)(2)(D). Pub. L. 113–66, §1021(a)(2)(B), added subpar. (D).
+
+Subsec. (c). Pub. L. 113–66, §1021(b), added subsec. (c) and struck out former subsec. (c). Text read as follows: "If the budget for a fiscal year provides for funding of the construction of naval vessels at a level that is not sufficient to sustain the naval vessel force structure specified in the naval vessel construction plan for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of naval vessels that will result from funding naval vessel construction at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands."
+
+Subsecs. (e), (f). Pub. L. 112–239 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 <b>2011</b>—Pub. L. 112–81 amended section generally. Prior to amendment, section related to submission of a long-range plan for construction of combatant and support naval vessels that supports the force structure recommendations of a quadrennial defense review.
 
 Pub. L. 111–383 amended section generally. Prior to amendment, section related to submission of an annual plan for construction of naval vessels and certification that the budget for the current fiscal year and the future-years defense program is sufficient for procurement of vessels provided for in the plan.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,13 +16,13 @@ Within two years of October 21, 1976, the Secretary shall develop and transmit t
 
 #### (b) Consultation by other Federal agencies with Secretary
 
-Notwithstanding any other provision of law, no Federal loan, grant, license, or other form of assistance for any project which, in the opinion of the Secretary would significantly adversely affect the administration, use, and environmental quality of the seashore shall be made, issued, or approved by the head of any Federal agency without first consulting with the Secretary to determine whether or not such project is consistent with the plan developed pursuant to this section and allowing him at least thirty days to comment in writing on such proposed action.
+Notwithstanding any other provision of law, no Federal loan, grant, license, or other form of assistance for any project which, in the opinionof the Secretary would significantly adversely affect the administration, use, and environmental quality of the seashore shall be made, issued, or approved by the head of any Federal agency without first consulting with the Secretary to determine whether or not such project is consistent with the plan developed pursuant to this section and allowing him at least thirty days to comment in writing on such proposed action.
 
 (Pub. L. 89–195, §12, as added Pub. L. 94–578, title III, §301, Oct. 21, 1976, 90 Stat. 2733.)
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

@@ -4,7 +4,7 @@
 
 (1) In recognition of the special development needs of Palau and the Marshall Islands, the United States shall make available United States military Civic Action Teams for use in Palau or the Marshall Islands under terms and conditions mutually agreed upon by the Government of the United States and the Governments of Palau or the Marshall Islands, as appropriate. The Government of Palau may use the amount of $250,000 annually from current account funds provided pursuant to section 211 of the Compact to defray expenditures attendant to the operation of the Civic Action Teams made available pursuant to this subsection. The Government of the Marshall Islands may use the amount of $250,000 annually from current account funds provided under section 211 of Title Two of the Compact of Free Association with the Marshall Islands to defray expenditures attendant to the operation of the Civic Action Teams made available pursuant to this subsection.
 
-(2) For expenditures that the Department of Defense makes pursuant to paragraph (1), the Secretary of Defense may accept up to the amount of $250,000 in annual funds from the Government of Palau as specified in paragraph (1). Funds accepted by the Secretary from the Government of Palau under this paragraph shall be credited to and merged with appropriations available to the Department of Defense and shall be used to defray expenditures attendant to the operation of the United States military Civic Action Team in Palau. Funds so credited and merged shall be available for the same time period as the appropriations to which the funds are credited and merged.
+(2) For expenditures that the Department of Defense makes pursuant to paragraph (1), the Secretary of Defense may accept up to theamount of $250,000 in annual funds from the Government of Palau as specified in paragraph (1). Funds accepted by the Secretary from the Government of Palau under this paragraph shall be credited to and merged with appropriations available to the Department of Defense and shall be used to defray expenditures attendant to the operation of the United States military Civic Action Team in Palau. Funds so credited and merged shall be available for the same time period as the appropriations to which the funds are credited and merged.
 
 #### (b) Inventory and study of natural, historic, and other resources
 
@@ -34,7 +34,7 @@ The Congress reaffirms all of the understandings, interpretations, and policy st
 
 (2) The Armed Forces of other nations invited to use military areas and facilities in Palau pursuant to section 312 of the Compact shall be permitted only as it is incident to the authority and under the control of the United States. The activities of such third country forces shall be subject to the same limitations and restrictions applicable to the authority of the United States under the terms of the Compact.
 
-(3) The Government of the United States considers “Exclusive use” areas established for the United States pursuant to Title Three of the Compact to be “within the jurisdiction of Palau,” as that term is used in section 324 of the Compact.
+(3) The Government of the United States considers "Exclusive use" areas established for the United States pursuant to Title Three of the Compact to be "within the jurisdiction of Palau," as that term is used in section 324 of the Compact.
 
 #### (i) Availability of appropriations
 
@@ -78,13 +78,13 @@ Section is comprised of section 104 of Pub. L. 99–658. Subsec. (c) of section 
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 designated existing provisions as par. (1) and added par. (2).
 
-<b>1989</b>—Subsec. (e). Pub. L. 101–219 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Neither the Secretary of the Treasury nor any other officer or agent of the United States shall pay or transfer any portion of the sums and amounts payable to the Government of Palau pursuant to this joint resolution to any party other than the Government of Palau. The provisions of section 174(a) of the Compact shall apply with respect to any action based on a contract or debt related to any electrical generating plant or related facilities entered into or incurred by Palau prior to the date of enactment of this joint resolution.”
+<b>1989</b>—Subsec. (e). Pub. L. 101–219 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Neither the Secretary of the Treasury nor any other officer or agent of the United States shall pay or transfer any portion of the sums and amounts payable to the Government of Palau pursuant to this joint resolution to any party other than the Government of Palau. The provisions of section 174(a) of the Compact shall apply with respect to any action based on a contract or debt related to any electrical generating plant or related facilities entered into or incurred by Palau prior to the date of enactment of this joint resolution."
 
 #### Change of Name
 
 Committee on Interior and Insular Affairs of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 5, One Hundred Third Congress, Jan. 5, 1993.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of the Compact”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "of the Compact".</i>
 
 <i><sup>2</sup></i><i> So in original. This section does not contain a subsec. (l).</i>
 

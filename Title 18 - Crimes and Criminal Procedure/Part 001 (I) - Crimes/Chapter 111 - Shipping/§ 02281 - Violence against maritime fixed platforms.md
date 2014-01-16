@@ -44,29 +44,29 @@ Jurisdiction.—There is jurisdiction over the activity prohibited in subsection
 
 (c)
 
-Bar To Prosecution.—It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) <sup>1</sup> of the Norris-LaGuardia Act, as amended (29 U.S.C. 113(c)), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+Bar To Prosecution.—It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term "labor dispute" has the meaning set forth in section 2(c) <sup>1</sup> of the Norris-LaGuardia Act, as amended (29 U.S.C. 113(c)), and the term "State" means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (d)
 
 Definitions.—In this section—
 
-&emsp;“continental shelf” means the sea-bed and subsoil of the submarine areas that extend beyond a country's territorial sea to the limits provided by customary international law as reflected in Article 76 of the 1982 Convention on the Law of the Sea.
+&emsp;"continental shelf" means the sea-bed and subsoil of the submarine areas that extend beyond a country's territorial sea to the limits provided by customary international law as reflected in Article 76 of the 1982 Convention on the Law of the Sea.
 
-&emsp;“fixed platform” means an artificial island, installation or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.
+&emsp;"fixed platform" means an artificial island, installation or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.
 
-&emsp;“national of the United States” has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
+&emsp;"national of the United States" has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
-&emsp;“territorial sea of the United States” means all waters extending seaward to 12 nautical miles from the baselines of the United States determined in accordance with international law.
+&emsp;"territorial sea of the United States" means all waters extending seaward to 12 nautical miles from the baselines of the United States determined in accordance with international law.
 
-&emsp;“United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
+&emsp;"United States", when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
 
-(Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1977; amended Pub. L. 104–132, title VII, §723(a)(1), Apr. 24, 1996, 110 Stat. 1300; Pub. L. 104–294, title VI, §607(p), Oct. 11, 1996, 110 Stat. 3513.)
+(Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1977; amended Pub. L. 104–132,title VII, §723(a)(1), Apr. 24, 1996, 110 Stat. 1300; Pub. L. 104–294, title VI, §607(p), Oct. 11, 1996, 110 Stat. 3513.)
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1)(F). Pub. L. 104–132 inserted “or conspires” after “attempts”.
+<b>1996</b>—Subsec. (a)(1)(F). Pub. L. 104–132 inserted "or conspires" after "attempts".
 
-Subsec. (c). Pub. L. 104–294 inserted before period at end “, and the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States”.
+Subsec. (c). Pub. L. 104–294 inserted before period at end ", and the term 'State' means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States".
 
 #### Effective Date
 
@@ -76,5 +76,5 @@ Section effective Mar. 6, 1995, see section 60019(c)(1), (2)(B) of Pub. L. 103�
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “13(c)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "13(c)".</i>
 

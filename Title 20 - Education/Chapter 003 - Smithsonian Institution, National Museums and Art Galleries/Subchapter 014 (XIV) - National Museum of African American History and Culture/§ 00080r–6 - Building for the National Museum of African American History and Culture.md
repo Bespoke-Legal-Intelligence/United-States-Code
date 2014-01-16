@@ -16,9 +16,9 @@
 
 &emsp;&emsp;&emsp;(ii) The area bounded by Constitution Avenue, Madison Drive, and 14th and 15th Streets, Northwest.
 
-&emsp;&emsp;&emsp;(iii) The site known as the “Liberty Loan site”, located on 14th Street Southwest at the foot of the 14th Street Bridge.
+&emsp;&emsp;&emsp;(iii) The site known as the "Liberty Loan site", located on 14th Street Southwest at the foot of the 14th Street Bridge.
 
-&emsp;&emsp;&emsp;(iv) The site known as the “Banneker Overlook site”, located on 10th Street Southwest at the foot of the L'Enfant Plaza Promenade.
+&emsp;&emsp;&emsp;(iv) The site known as the "Banneker Overlook site", located on 10th Street Southwest at the foot of the L'Enfant Plaza Promenade.
 
 #### (C) Availability of site
 
@@ -78,5 +78,5 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### Procurement for Construction
 
-Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1033, provided in part: “That during fiscal year 2012 and any succeeding fiscal year, a single procurement for construction of the National Museum of African American History and Culture, as authorized under section 8 of the National Museum of African American History and Culture Act (20 U.S.C. 80r–6), may be issued that includes the full scope of the project”.
+Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1033, provided in part: "That during fiscal year 2012 and any succeeding fiscal year, a single procurement for construction of the National Museum of African American History and Culture, as authorized under section 8 of the National Museum of African American History and Culture Act (20 U.S.C. 80r–6), may be issued that includes the full scope of the project".
 

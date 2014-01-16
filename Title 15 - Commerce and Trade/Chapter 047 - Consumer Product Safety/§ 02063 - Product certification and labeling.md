@@ -42,7 +42,7 @@ Full-size cribs; non full-size cribs; pacifiers.—Not later than 60 days after 
 
 &emsp;&emsp;(iii)
 
-Small parts.—Not later than 90 days after August 14, 2008, the Commission shallpublish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with part 1501 of such title.
+Small parts.—Not later than 90 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with part 1501 of such title.
 
 &emsp;&emsp;(iv)
 
@@ -50,7 +50,7 @@ Children's metal jewelry.—Not later than 120 days after August 14, 2008, the C
 
 &emsp;&emsp;(v)
 
-Baby bouncers, walkers, and jumpers.—Not later than 210 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with parts 1500.18(a)(6) and 1500.86(a) of such title.<sup>1</sup>
+Baby bouncers, walkers, and jumpers.—Not later than 210 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies toassess conformity with parts 1500.18(a)(6) and 1500.86(a) of such title.<sup>1</sup>
 
 &emsp;&emsp;(vi)
 
@@ -98,7 +98,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 &emsp;(2) The cohort information (including the batch, run number, or other identifying characteristic) of the product.
 
-&emsp;(3) A suitable identification of the manufacturer of the consumer product, unless theproduct bears a private label in which case it shall identify the private labeler and shall also contain a code mark which will permit the seller of such product to identify the manufacturer thereof to the purchaser upon his request.
+&emsp;(3) A suitable identification of the manufacturer of the consumer product, unless the product bears a private label in which case it shall identify the private labeler and shall also contain a code mark which will permit the seller of such product to identify the manufacturer thereof to the purchaser upon his request.
 
 &emsp;(4) In the case of a consumer product subject to a consumer product safety rule, a certification that the product meets all applicable consumer product safety standards and a specification of the standards which are applicable.
 
@@ -160,7 +160,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 #### (i) Consideration; alternative requirements
 
-&emsp;&emsp;&emsp;Subject to subparagraph (C), in implementing third party testing requirementsunder this section, the Commission shall take into consideration any economic, administrative, or other limits on the ability of small batch manufacturers to comply with such requirements and shall, after notice and a hearing, provide alternative testing requirements for covered products manufactured by small batch manufacturers in lieu of those required under subsection (a) or (b). Any such alternative requirements shall provide for reasonable methods to assure compliance with any applicable consumer product safety rule, ban, standard, or regulation. The Commission may allow such alternative testing requirements for small batch manufacturers with respect to a specific product or product class or with respect to a specific safety rule, ban, standard, or regulation, or portion thereof.
+&emsp;&emsp;&emsp;Subject to subparagraph (C), in implementing third party testing requirements under this section, the Commission shall take into consideration any economic, administrative, or other limits on the ability of small batch manufacturers to comply with such requirements and shall, after notice and a hearing, provide alternative testing requirements for covered products manufactured by small batch manufacturers in lieu of those required under subsection (a) or (b). Any such alternative requirements shall provide for reasonable methods to assure compliance with any applicable consumer product safety rule, ban, standard, or regulation. The Commission may allow such alternative testing requirements for small batch manufacturers with respect to a specific product or product class or with respect to a specific safety rule, ban, standard, or regulation, or portion thereof.
 
 #### (ii) Exemption
 
@@ -194,9 +194,9 @@ The Commission may by rule require the use and prescribe the form and content of
 
 &emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) the term “covered product” means a consumer product manufactured by a small batch manufacturer where no more than 7,500 units of the same product were manufactured in the previous calendar year; and
+&emsp;&emsp;&emsp;(i) the term "covered product" means a consumer product manufactured by a small batch manufacturer where no more than 7,500 units of the same product were manufactured in the previous calendar year; and
 
-&emsp;&emsp;&emsp;(ii) the term “small batch manufacturer” means a manufacturer that had no more than $1,000,000 in total gross revenue from sales of all consumer products in the previous calendar year. The dollar amount contained in this paragraph shall be adjusted annually by the percentage increase in the Consumer Price Index for all urban consumers published by the Department of Labor.
+&emsp;&emsp;&emsp;(ii) the term "small batch manufacturer" means a manufacturer that had no more than $1,000,000 in total gross revenue from sales of all consumer products in the previous calendar year. The dollar amount contained in this paragraph shall be adjusted annually by the percentage increase in the Consumer Price Index for all urban consumers published by the Department of Labor.
 
 > &emsp;&emsp;For purposes of determining the total gross revenue for all sales of all consumer products of a manufacturer under this subparagraph, such total gross revenue shall be considered to include all gross revenue from all sales of all consumer products of each entity that controls, is controlled by, or is under common control with such manufacturer. The Commission shall take steps to ensure that all relevant business affiliations are considered in determining whether or not a manufacturer meets this definition.
 
@@ -212,11 +212,11 @@ The Commission may by rule require the use and prescribe the form and content of
 
 #### (I) Ordinary book
 
-&emsp;&emsp;&emsp;&emsp;The term “ordinary book” means a book printed on paper or cardboard, printed with inks or toners, and bound and finished using a conventional method, and that is intended to be read or haseducational value. Such term does not include books with inherent play value, books designed or intended for a child 3 years of age or younger, and does not include any toy or other article that is not a book that is sold or packaged with an ordinary book.
+&emsp;&emsp;&emsp;&emsp;The term "ordinary book" means a book printed on paper or cardboard, printed with inks or toners, and bound and finished using a conventional method, and that is intended to be read or has educational value. Such term does not include books with inherent play value, books designed or intended for a child 3 years of age or younger, and does not include any toy or other article that is not a book that is sold or packaged with an ordinary book.
 
 #### (II) Ordinary paper-based printed materials
 
-&emsp;&emsp;&emsp;&emsp;The term “ordinary paper-based printed materials” means materials printed on paper or cardboard, such as magazines, posters, greeting cards, and similar products, that are printed with inks or toners and bound and finished using a conventional method.
+&emsp;&emsp;&emsp;&emsp;The term "ordinary paper-based printed materials" means materials printed on paper or cardboard, such as magazines, posters, greeting cards, and similar products, that are printed with inks or toners and bound and finished using a conventional method.
 
 #### (III) Exclusions
 
@@ -264,13 +264,13 @@ In this section:
 
 #### (1) Children's product safety rule
 
-&emsp;The term “children's product safety rule” means a consumer product safety rule under this chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission, including a rule declaring a consumer product to be a banned hazardous product or substance.
+&emsp;The term "children's product safety rule" means a consumer product safety rule under this chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission, including a rule declaring a consumer product to be a banned hazardous product or substance.
 
 #### (2) Third party conformity assessment body
 
 #### (A) In general
 
-&emsp;&emsp;The term “third party conformity assessment body” means a conformity assessment body that, except as provided in subparagraph (D), is not owned, managed, or controlled by the manufacturer or private labeler of a product assessed by such conformity assessment body.
+&emsp;&emsp;The term "third party conformity assessment body" means a conformity assessment body that, except as provided in subparagraph (D), is not owned, managed, or controlled by the manufacturer or private labeler of a product assessed by such conformity assessment body.
 
 #### (B) Governmental participation
 
@@ -294,7 +294,7 @@ In this section:
 
 &emsp;&emsp;Upon request, the Commission may accredit a conformity assessment body that is owned, managed, or controlled by a manufacturer or private labeler as a third party conformity assessment body if the Commission by order finds that—
 
-&emsp;&emsp;&emsp;(i) accreditation of the conformity assessment body would provide equal or greater consumer safety protection than the manufacturer's or private labeler's use of an independent third party conformity assessment body; and
+&emsp;&emsp;&emsp;(i) accreditation of the conformity assessment body would provide equal or greater consumer safety protection than the manufacturer's or private labeler's useof an independent third party conformity assessment body; and
 
 &emsp;&emsp;&emsp;(ii) the conformity assessment body has established procedures to ensure that—
 
@@ -342,23 +342,23 @@ The Federal Hazardous Substances Act, referred to in subsec. (f)(2)(C), is Pub. 
 
 Subsec. (d). Pub. L. 112–28, §10(a), redesignated subsec. (d), relating to requirement for advertisements, as (i).
 
-Subsec. (d)(2)(B)(ii). Pub. L. 112–28, §2(a)(1), substituted “representative” for “random”.
+Subsec. (d)(2)(B)(ii). Pub. L. 112–28, §2(a)(1), substituted "representative" for "random".
 
 Subsec. (d)(3) to (5). Pub. L. 112–28, §2(a)(2), added pars. (3) to (5).
 
 Subsec. (i). Pub. L. 112–28, §10(a), redesignated subsec. (d), relating to requirement for advertisements, as (i).
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–314, §102(a)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every manufacturer of a product which is subject to a consumer product safety standard under this chapter and which is distributed in commerce (and the private labeler of such product if it bears a private label) shall issue a certificate which shall certify that such product conforms to all applicable consumer product safety standards, and shall specify any standard which is applicable. Such certificate shall accompany the product or shall otherwise be furnished to any distributor or retailer to whom the product is delivered. Any certificate under this subsection shall be based on a test of each product or upon a reasonable testing program; shall state the name of the manufacturer or private labeler issuing the certificate; and shall include the date and place of manufacture.”
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–314, §102(a)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Every manufacturer of a product which is subject to a consumer product safety standard under this chapter and which is distributed in commerce (and the private labeler of such product if it bears a private label) shall issue a certificate which shall certify that such product conforms to all applicable consumer product safety standards, and shall specify any standard which is applicable. Such certificate shall accompany the product or shall otherwise be furnished to any distributor or retailer to whom the product is delivered. Any certificate under this subsection shall be based on a test of each product or upon a reasonable testing program; shall state the name of the manufacturer or private labeler issuing the certificate; and shall include the date and place of manufacture."
 
 Subsec. (a)(2), (3). Pub. L. 110–314, §102(a)(2), which directed amendment of par. (2) of this section by adding pars. (2) and (3), was executed by adding pars. (2) and (3) to subsec. (a) of this section, to reflect the probable intent of Congress. Former par. (2) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 110–314, §102(a)(3), substituted “required under paragraph (1), (2), or (3)” for “requiredby paragraph (1) of this subsection” and “requirement under paragraph (1), (2), or (3)” for “requirement under paragraph (1)”.
+Subsec. (a)(4). Pub. L. 110–314, §102(a)(3), substituted "required under paragraph (1), (2), or (3)" for "required by paragraph (1) of this subsection" and "requirement under paragraph (1), (2), or (3)" for "requirement under paragraph (1)".
 
 Pub. L. 110–314, §102(a)(2), which directed amendment of par. (2) of this section by redesignating par. (2) as (4), was executed to subsec. (a) of this section, to reflect the probable intent of Congress.
 
 Subsec. (a)(5). Pub. L. 110–314, §103(a), added par. (5).
 
-Subsec. (b). Pub. L. 110–314, §102(d), substituted “any product which is subject to a consumer product safety rule under this chapter, or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission,” for “consumer products which are subject to consumer product safety standards under this chapter” and “, unless the Commission, by rule, requires testing by an independent third party for a particular rule, regulation, standard, or ban, or for a particular class of products.” for “or testing programs.”
+Subsec. (b). Pub. L. 110–314, §102(d), substituted "any product which is subject to a consumer product safety rule under this chapter, or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission," for "consumer products which are subject to consumer product safety standards under this chapter" and ", unless the Commission, by rule, requires testing by an independent third party for a particular rule, regulation, standard, or ban, or for a particular class of products." for "or testing programs."
 
 Subsec. (c)(2) to (4). Pub. L. 110–314, §103(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -370,13 +370,13 @@ Subsecs. (e) to (h). Pub. L. 110–314, §102(b), added subsecs. (e) to (h).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–314, title I, §102(a)(1)(B), Aug. 14, 2008, 122 Stat. 3022, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Aug. 14, 2008\].”
+Pub. L. 110–314, title I, §102(a)(1)(B), Aug. 14, 2008, 122 Stat. 3022, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Aug. 14, 2008\]."
 
 Amendment by section 103(c) of Pub. L. 110–314 effective on the date that is 60 days after Aug. 14, 2008, see section 239(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
 #### CPSC Consideration of Existing Requirements
 
-Pub. L. 110–314, title I, §102(c), Aug. 14, 2008, 122 Stat. 3027, provided that: “In establishing standards for accreditation of a third party conformity assessment body under section 14(a)(3) of the Consumer Product Safety Act \[15 U.S.C. 2063(a)(3)\], as added by subsection (a), the \[Consumer Product Safety\] Commission may consider standards and protocols for accreditation of such conformity assessment bodies by independent accreditation organizations that are in effect on the date of enactment of this Act \[Aug. 14, 2008\], but shall ensure that the protocols, standards, and requirements prescribed under such section 14(a)(3) incorporate, as the standard for accreditation, the most current scientific and technological standards and techniques available.”
+Pub. L. 110–314, title I, §102(c), Aug. 14, 2008, 122 Stat. 3027, provided that: "In establishing standards for accreditation of a third party conformity assessment body under section 14(a)(3) of the Consumer Product Safety Act \[15 U.S.C. 2063(a)(3)\], as added by subsection (a), the \[Consumer Product Safety\] Commission may consider standards and protocols for accreditation of such conformity assessment bodies by independent accreditation organizations that are in effect on the date of enactment of this Act \[Aug. 14, 2008\], but shall ensure that the protocols, standards, and requirements prescribed under such section 14(a)(3) incorporate, as the standard for accreditation, the most current scientific and technological standards and techniques available."
 
 <i><sup>1</sup></i><i> So in original. Such title refers to title 16, Code of Federal Regulations.</i>
 

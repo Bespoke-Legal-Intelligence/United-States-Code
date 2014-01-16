@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 Pub. L. 98–237, §13(a), Mar. 20, 1984, 98 Stat. 82; Pub. L. 105–258, title I, §112(a), Oct. 14, 1998, 112 Stat. 1911.
 
-In subsection (b), the words “is subject to an action in rem to enforce the lien” are substituted for “may be libeled therefore” to modernize the language.
+In subsection (b), the words "is subject to an action in rem to enforce the lien" are substituted for "may be libeled therefore" to modernize the language.
 

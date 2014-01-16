@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary shall establish for members of the Ready Reserve (including the Coast Guard Reserve) an insurance program to be known as the “Ready Reserve Mobilization Income Insurance Program”.
+Establishment.—The Secretary shall establish for members of the Ready Reserve (including the Coast Guard Reserve) an insurance program to be known as the "Ready Reserve Mobilization Income Insurance Program".
 
 (b)
 
@@ -12,11 +12,11 @@ Administration.—The insurance program shall be administered by the Secretary. 
 
 Agreement With Secretary of Homeland Security.—The Secretary and the Secretary of Homeland Security shall enter into an agreement with respect to the administration of the insurance program for the Coast Guard Reserve.
 
-(Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 299; amended Pub. L. 107–296, title XVII, §1704(b)(1), (7), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 299; amended Pub. L.107–296, title XVII, §1704(b)(1), (7), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted “Homeland Security” for “Transportation” in heading and text.
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted "Homeland Security" for "Transportation" in heading and text.
 
 #### Effective Date of 2002 Amendment
 

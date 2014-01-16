@@ -26,31 +26,31 @@ Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 
 Pub. L. 109–59, title IV, §4214, Aug. 10, 2005, 119 Stat. 1759, provided that:
 
-“(a)
+"(a)
 
 Establishment of System.—Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary shall—
 
-&emsp;“(1) establish (A) a system for filing and logging consumer complaints relating to household goods motor carriers for the purpose of compiling or linking complaint information gathered by the Department of Transportation and the States with regard to such carriers, (B) a database of the complaints, and (C) a procedure for the public to have access, subject to section 552(a) of title 5, United States Code, to aggregated information and for carriers to challenge duplicate or fraudulent information in the database;
+&emsp;"(1) establish (A) a system for filing and logging consumer complaints relating to household goods motor carriers for the purpose of compiling or linking complaint information gathered by the Department of Transportation and the States with regard to such carriers, (B) a database of the complaints, and (C) a procedure for the public to have access, subject to section 552(a) of title 5, United States Code, to aggregated information and for carriers to challenge duplicate or fraudulent information in the database;
 
-&emsp;“(2) issue regulations requiring each motor carrier of household goods to submit on a quarterly basis a report summarizing—
+&emsp;"(2) issue regulations requiring each motor carrier of household goods to submit on a quarterly basis a report summarizing—
 
-&emsp;&emsp;“(A) the number of shipments that originate and are delivered for individual shippers during the reporting period by the carrier;
+&emsp;&emsp;"(A) the number of shipments that originate and are delivered for individual shippers during the reporting period by the carrier;
 
-&emsp;&emsp;“(B) the number and general category of complaints lodged by consumers with the carrier;
+&emsp;&emsp;"(B) the number and general category of complaints lodged by consumers with the carrier;
 
-&emsp;&emsp;“(C) the number of claims filed with the carrier for loss and damage in excess of $500;
+&emsp;&emsp;"(C) the number of claims filed with the carrier for loss and damage in excess of $500;
 
-&emsp;&emsp;“(D) the number of such claims resolved during the reporting period;
+&emsp;&emsp;"(D) the number of such claims resolved during the reporting period;
 
-&emsp;&emsp;“(E) the number of such claims declined in the reporting period; and
+&emsp;&emsp;"(E) the number of such claims declined in the reporting period; and
 
-&emsp;&emsp;“(F) the number of such claims that are pending at the close of the reporting period; and
+&emsp;&emsp;"(F) the number of such claims that are pending at the close of the reporting period; and
 
-&emsp;“(3) develop a procedure to forward a complaint, including the motor carrier bill of lading number, if known, related to the complaint to a motor carrier named in such complaint and to an appropriate State authority (as defined in section 14710(d) of title 49, United States Code) in the State in which the complainant resides.
+&emsp;"(3) develop a procedure to forward a complaint, including the motor carrier bill of lading number, if known, related to the complaint to a motor carrier named in such complaint and to an appropriate State authority (as defined in section 14710(d) of title 49, United States Code) in the State in which the complainant resides.
 
-“(b)
+"(b)
 
-Use of Information.—The Secretary shall consider information in the data base established under subsection (a) in its household goods compliance and enforcement program.”
+Use of Information.—The Secretary shall consider information in the data base established under subsection (a) in its household goods compliance and enforcement program."
 
-\[For definitions of “carrier”, “household goods”, “motor carrier”, and “Secretary” as used in section 4214 of Pub. L. 109–59, set out above, see section 4202(a) of Pub. L. 109–59, set out as a note under section 13102 of this title.\]
+\[For definitions of "carrier", "household goods", "motor carrier", and "Secretary" as used in section 4214 of Pub. L. 109–59, set out above, see section 4202(a) of Pub. L. 109–59, set out as a note under section 13102 of this title.\]
 

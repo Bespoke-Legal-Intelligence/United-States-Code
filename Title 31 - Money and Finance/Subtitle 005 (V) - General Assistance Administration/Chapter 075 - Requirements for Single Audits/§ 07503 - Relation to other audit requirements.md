@@ -18,5 +18,5 @@
 
 <b>1996</b>—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to other audit requirements, including compliance and evaluation audits of individual Federal assistance programs, audits by State and local governmental entities, and provisions requiring Federal agencies to arrange for funding cost of conducting audits that are in addition to audits required by this chapter.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–272 substituted “extent” for “extend” in second sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–272 substituted "extent" for "extend" in second sentence.
 

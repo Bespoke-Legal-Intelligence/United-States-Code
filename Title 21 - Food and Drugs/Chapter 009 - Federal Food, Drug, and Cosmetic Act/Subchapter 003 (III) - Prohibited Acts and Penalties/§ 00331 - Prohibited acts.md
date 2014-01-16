@@ -16,7 +16,7 @@ The following acts and the causing thereof are prohibited:
 
 (g) The manufacture within any Territory of any food, drug, device, tobacco product, or cosmetic that is adulterated or misbranded.
 
-(h) The giving of a guaranty or undertaking referred to in section 333(c)(2) of this title, which guaranty or undertaking is false, except by a person who relied upon a guaranty or undertaking to the same effect signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the food, drug, device, tobacco product, or cosmetic; or the giving of a guaranty or undertaking referred to in section 333(c)(3) of this title, which guaranty or undertaking is false.
+(h) The giving of a guaranty or undertaking referred to in section 333(c)(2) of this title, which guaranty or undertaking is false, except by a person who relied upon a guaranty or undertaking to the same effect signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the food, drug, device, tobacco product, or cosmetic; or the giving of aguaranty or undertaking referred to in section 333(c)(3) of this title, which guaranty or undertaking is false.
 
 (i)(1) Forging, counterfeiting, simulating, or falsely representing, or without proper authority using any mark, stamp, tag, label, or other identification device authorized or required by regulations promulgated under the provisions of section 344 or 379e of this title.
 
@@ -52,7 +52,7 @@ The following acts and the causing thereof are prohibited:
 
 (s) The failure to provide the notice required by section 350a(c) or 350a(e) of this title, the failure to make the reports required by section 350a(f)(1)(B) of this title, the failure to retain the records required by section 350a(b)(4) of this title, or the failure to meet the requirements prescribed under section 350a(f)(3) of this title.
 
-(t) The importation of a drug in violation of section 381(d)(1) of this title, the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title, or the distribution of drugs in violation of section 353(e) of this title or the failure to otherwise comply with the requirements of section 353(e) of this title.
+(t) The importation of a drug in violation of section 381(d)(1) of this title, the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title, the distribution of drugs in violation of section 353(e) of this title, failure to comply with the requirements under section 360eee–1 of this title, the failure to comply with the requirements under section 360eee–3 of this title, as applicable, or the failure to otherwise comply with the requirements of section 353(e) of this title.
 
 (u) The failure to comply with any requirements of the provisions of, or any regulations or orders of the Secretary, under section 360b(a)(4)(A), 360b(a)(4)(D), or 360b(a)(5) of this title.
 
@@ -96,7 +96,7 @@ The following acts and the causing thereof are prohibited:
 
 (3) The submission of clinical trial information under subsection (j) of section 282 of title 42 that is false or misleading in any particular under paragraph (5)(D) of such subsection (j).
 
-(kk) The dissemination of a television advertisement without complying with section 353b of this title.
+(kk) The dissemination of a television advertisement without complying with section 353c <sup>1</sup> of this title.
 
 (ll) The introduction or delivery for introduction into interstate commerce of any food to which has been added a drug approved under section 355 of this title, a biological product licensed under section 262 of title 42, or a drug or a biological product for which substantial clinical investigations have been instituted and for which the existence of such investigations has been made public, unless—
 
@@ -168,11 +168,19 @@ The following acts and the causing thereof are prohibited:
 
 (bbb) The failure to notify the Secretary in violation of section 360bbb–7 of this title.
 
-(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380; Pub. L. 106–387, §1(a) \[title VII, §745(d)(1)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–39; Pub. L. 107–188, title III, §§303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, 116 Stat. 664, 666, 668, 670, 672, 676, 677; Pub. L. 107–250, title II, §201(d), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–136, div. A, title XVI, §1603(c), Nov. 24, 2003, 117 Stat. 1690; Pub. L. 108–173, title XI, §1121(b)(1), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 108–214, §2(b)(2)(A), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(C), (D), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–59, title VII, §7202(d), (e), Aug. 10, 2005, 119 Stat. 1913; Pub. L. 109–462, §§2(c), 3(b), 4(a), Dec. 22, 2006, 120 Stat. 3472, 3475; Pub. L. 110–85, title VIII, §801(b)(1), title IX, §§901(d)(1), 912(a), title X, §1005(d), Sept. 27, 2007, 121 Stat. 920, 939, 951, 968; Pub. L. 111–31, div. A, title I, §103(b), June 22, 2009, 123 Stat. 1833; Pub. L. 111–353, title I, §§102(d)(1), 103(e), 105(c), 106(d), title II, §§204(j)(1), 206(d), 211(b), (c), title III, §301(b), Jan. 4, 2011, 124 Stat. 3889, 3898, 3904, 3906, 3937, 3943, 3953, 3954; Pub. L. 112–144, title VII, §§714(a), 715(a), July 9, 2012, 126 Stat. 1073, 1075.)
+(ccc)(1) The resale of a compounded drug that is labeled "not for resale" in accordance with section 353b of this title.
+
+(2) With respect to a drug to be compounded pursuant to section 353a or 353b of this title, the intentional falsification of a prescription, as applicable.
+
+(3) The failure to report drugs or adverse events by an entity that is registered in accordance with subsection (b) of section 353b of this title.
+
+(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380; Pub. L. 106–387, §1(a) \[title VII, §745(d)(1)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–39; Pub. L. 107–188, title III, §§303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, 116 Stat. 664, 666, 668, 670, 672, 676, 677; Pub. L. 107–250, title II, §201(d), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–136, div. A, title XVI, §1603(c), Nov. 24, 2003, 117 Stat. 1690; Pub. L. 108–173, title XI, §1121(b)(1), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 108–214, §2(b)(2)(A), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(C), (D), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–59,title VII, §7202(d), (e), Aug. 10, 2005, 119 Stat. 1913; Pub. L. 109–462, §§2(c), 3(b), 4(a), Dec. 22, 2006, 120 Stat. 3472, 3475; Pub. L. 110–85, title VIII, §801(b)(1), title IX, §§901(d)(1), 912(a), title X, §1005(d), Sept. 27, 2007, 121 Stat. 920, 939, 951, 968; Pub. L. 111–31, div. A, title I, §103(b), June 22, 2009, 123 Stat. 1833; Pub. L. 111–353, title I, §§102(d)(1), 103(e), 105(c), 106(d), title II, §§204(j)(1), 206(d), 211(b), (c), title III, §301(b), Jan. 4, 2011, 124 Stat. 3889, 3898, 3904, 3906, 3937, 3943, 3953, 3954; Pub. L. 112–144, title VII, §§714(a), 715(a), July 9, 2012, 126 Stat. 1073, 1075; Pub. L. 113–54, title I, §103(a), title II, §206(a), Nov. 27, 2013, 127 Stat. 597, 639.)
 
 #### References in Text
 
-Section 2223 of this title, referred to in par. (e), was in the original “section 204 of the FDA Food Safety Modernization Act”, meaning section 204 of Pub. L. 111–353, which enacted section 2223 of this title and amended this section and section 381 of this title.
+Section 2223 of this title, referred to in par. (e), was in the original "section 204 of the FDA Food Safety Modernization Act", meaning section 204 of Pub. L. 111–353, which enacted section 2223 of this title and amended this section and section 381 of this title.
+
+Section 353c of this title, referred to in par. (kk), was in the original a reference to section 503B of act June 25, 1938, and was translated as if it referred to section 503C of that Act, to reflect the probable intent of Congress and the renumbering of section 503B as 503C by Pub. L. 113–54, title I, §102(a)(1), Nov. 27, 2013, 127 Stat. 587, and its transfer to section 353c of this title. A new section 503B, which was enacted by section 102(a)(2) of Pub. L. 113–54, is classified to section 353b of this title and does not relate to television advertisements.
 
 #### Constitutionality
 
@@ -180,13 +188,17 @@ For information regarding constitutionality of certain provisions of section 301
 
 #### Amendments
 
+<b>2013</b>—Par. (t). Pub. L. 113–54, §206(a), struck out "or" after "the requirements of section 353(d) of this title," and inserted ", failure to comply with the requirements under section 360eee–1 of this title, the failure to comply with the requirements under section 360eee–3 of this title, as applicable," after "in violation of section 353(e) of this title".
+
+Par. (ccc). Pub. L. 113–54, §103(a), added par. (ccc).
+
 <b>2012</b>—Par. (aaa). Pub. L. 112–144, §714(a), added par. (aaa).
 
 Par. (bbb). Pub. L. 112–144, §715(a), added par. (bbb).
 
-<b>2011</b>—Par. (d). Pub. L. 111–353, §102(d)(1), inserted “350d,” after “344,”.
+<b>2011</b>—Par. (d). Pub. L. 111–353, §102(d)(1), inserted "350d," after "344,".
 
-Par. (e). Pub. L. 111–353, §§204(j)(1), 211(c), substituted “350f(j)” for “350f(g)” and inserted before period at end “; or the violation of any recordkeeping requirement under section 2223 of this title (except when such violation is committed by a farm)”.
+Par. (e). Pub. L. 111–353, §§204(j)(1), 211(c), substituted "350f(j)" for "350f(g)" and inserted before period at end "; or the violation of any recordkeeping requirement under section 2223 of this title (except when such violation is committed by a farm)".
 
 Par. (uu). Pub. L. 111–353, §103(e), added par. (uu).
 
@@ -200,29 +212,29 @@ Par. (yy). Pub. L. 111–353, §211(b), added par. (yy).
 
 Par. (zz). Pub. L. 111–353, §301(b), added par. (zz).
 
-<b>2009</b>—Pars. (a) to (c). Pub. L. 111–31, §103(b)(1)–(3), inserted “tobacco product,” after “device,”.
+<b>2009</b>—Pars. (a) to (c). Pub. L. 111–31, §103(b)(1)–(3), inserted "tobacco product," after "device,".
 
-Par. (e). Pub. L. 111–31, §103(b)(4)(B), which directed substitution of “379aa–1, 387i, or 387t of this title or the refusal to permit access to” for “or 379aa–1 of this title or the refusal to permit access to”, was executed by making the substitution for “or 379aa–1 of this title, or the refusal to permit access to”, to reflect the probable intent of Congress.
+Par. (e). Pub. L. 111–31, §103(b)(4)(B), which directed substitution of "379aa–1, 387i, or 387t of this title or the refusal to permit access to" for "or 379aa–1 of this title or the refusal to permit access to", was executed by making the substitution for "or 379aa–1 of this title, or the refusal to permit access to", to reflect the probable intent of Congress.
 
-Pub. L. 111–31, §103(b)(4)(A), struck out period after “360ccc–1(i)”.
+Pub. L. 111–31, §103(b)(4)(A), struck out period after "360ccc–1(i)".
 
-Pars. (g), (h). Pub. L. 111–31, §103(b)(5), (6), inserted “tobacco product,” after “device,”.
+Pars. (g), (h). Pub. L. 111–31, §103(b)(5), (6), inserted "tobacco product," after "device,".
 
-Par. (j). Pub. L. 111–31, §103(b)(7), struck out period after “360ccc–2” and substituted “379, 379e, 387d, 387e, 387f, 387g, 387h, 387i, or 387t(b)” for “379, or 379e”.
+Par. (j). Pub. L. 111–31, §103(b)(7), struck out period after "360ccc–2" and substituted "379, 379e, 387d, 387e, 387f, 387g, 387h, 387i, or 387t(b)" for "379, or 379e".
 
-Par. (k). Pub. L. 111–31, §103(b)(8), inserted “tobacco product,” after “device,”.
+Par. (k). Pub. L. 111–31, §103(b)(8), inserted "tobacco product," after "device,".
 
-Par. (p). Pub. L. 111–31, §103(b)(9), added par. (p) and struck out former par. (p) which read as follows: “The failure to register in accordance with section 360 of this title, the failure to provide any information required by section 360(j) or 360(k) of this title, or the failure to provide a notice required by section 360(j)(2) of this title.”
+Par. (p). Pub. L. 111–31, §103(b)(9), added par. (p) and struck out former par. (p) which read as follows: "The failure to register in accordance with section 360 of this title, the failure to provide any information required by section 360(j) or 360(k) of this title, or the failure to provide a notice required by section 360(j)(2) of this title."
 
-Par. (q)(1). Pub. L. 111–31, §103(b)(10), added subpar. (1) and struck out former subpar. (1) which read as follows: “The failure or refusal to (A) comply with any requirement prescribed under section 360h or 360j(g) of this title, (B) furnish any notification or other material orinformation required by or under section 360i or 360j(g) of this title, or (C) comply with a requirement under section 360l of this title.”
+Par. (q)(1). Pub. L. 111–31, §103(b)(10), added subpar. (1) and struck out former subpar. (1) which read as follows: "The failure or refusal to (A) comply with any requirement prescribed under section 360h or 360j(g) of this title, (B) furnish any notification or other material or information required by or under section 360i or 360j(g) of this title, or (C) comply with a requirement under section 360l of this title."
 
-Par. (q)(2). Pub. L. 111–31, §103(b)(11), substituted “device or tobacco product,” for “device,”.
+Par. (q)(2). Pub. L. 111–31, §103(b)(11), substituted "device or tobacco product," for "device,".
 
-Par. (r). Pub. L. 111–31, §103(b)(12), inserted “or tobacco product” after “device” in two places.
+Par. (r). Pub. L. 111–31, §103(b)(12), inserted "or tobacco product" after "device" in two places.
 
 Pars. (oo) to (tt). Pub. L. 111–31, §103(b)(13), added pars. (oo) to (tt).
 
-<b>2007</b>—Par. (e). Pub. L. 110–85, §1005(d)(1), substituted “350c, 350f(g),” for “350c,” and “350c(b), 350f” for “350c(b)”.
+<b>2007</b>—Par. (e). Pub. L. 110–85, §1005(d)(1), substituted "350c, 350f(g)," for "350c," and "350c(b), 350f" for "350c(b)".
 
 Par. (jj). Pub. L. 110–85, §801(b)(1), added par. (jj).
 
@@ -232,33 +244,33 @@ Par. (ll). Pub. L. 110–85, §912(a), added par. (ll).
 
 Pars. (mm), (nn). Pub. L. 110–85, §1005(d)(2), added pars. (mm) and (nn).
 
-<b>2006</b>—Par. (e). Pub. L. 109–462, §3(b), substituted “374(a), 379aa, or 379aa–1” for “374(a), or 379aa” and “360bbb–3, 379aa, or 379aa–1” for “360bbb–3, or 379aa”.
+<b>2006</b>—Par. (e). Pub. L. 109–462, §3(b), substituted "374(a), 379aa, or 379aa–1" for "374(a), or 379aa" and "360bbb–3, 379aa, or 379aa–1" for "360bbb–3, or 379aa".
 
-Pub. L. 109–462, §2(c), substituted “, 374(a), or 379aa” for “, or 374(a)” and “, 360bbb–3, or 379aa” for “, or 360bbb–3”.
+Pub. L. 109–462, §2(c), substituted ", 374(a), or 379aa" for ", or 374(a)" and ", 360bbb–3, or 379aa" for ", or 360bbb–3".
 
 Par. (ii). Pub. L. 109–462, §4(a), added par. (ii).
 
-<b>2005</b>—Par. (e). Pub. L. 109–59, §7202(d), inserted “350e,” before “354,” in two places.
+<b>2005</b>—Par. (e). Pub. L. 109–59, §7202(d), inserted "350e," before "354," in two places.
 
 Par. (hh). Pub. L. 109–59, §7202(e), added par. (hh).
 
-<b>2004</b>—Par. (e). Pub. L. 108–282, §102(b)(5)(C), which directed the substitution of “360b(a)(4)(C), 360b (j), (l) or (m), 360ccc–1(i).” for “360b(a)(4)(C), 360b(j), (l) or (m)” was executed by making the substitution for “360b(a)(4)(C), 360b(j), (l), or (m)”, to reflect the probable intent of Congress.
+<b>2004</b>—Par. (e). Pub. L. 108–282, §102(b)(5)(C), which directed the substitution of "360b(a)(4)(C), 360b (j), (l) or (m), 360ccc–1(i)." for "360b(a)(4)(C), 360b(j), (l) or (m)" was executed by making the substitution for "360b(a)(4)(C), 360b(j), (l), or (m)", to reflect the probable intent of Congress.
 
-Par. (j). Pub. L. 108–282, §102(b)(5)(D), substituted “360j, 360ccc, 360ccc–1, 360ccc–2.” for “360j”.
+Par. (j). Pub. L. 108–282, §102(b)(5)(D), substituted "360j, 360ccc, 360ccc–1, 360ccc–2." for "360j".
 
-Par. (gg). Pub. L. 108–214 amended par. (gg) generally. Prior to amendment, text read as follows: “The knowing failure of a person accredited under paragraph (2) of section 374(g) of this title to comply with paragraph (7)(E) of such section; the knowing inclusion by such a person of false information in an inspection report under paragraph (7)(A) of such section; or the knowing failure of such a person to include material facts in such a report.”
+Par. (gg). Pub. L. 108–214 amended par. (gg) generally. Prior to amendment, text read as follows: "The knowing failure of a person accredited under paragraph (2) of section 374(g) of this title to comply with paragraph (7)(E) of such section; the knowing inclusion by such a person of false information in an inspection report under paragraph (7)(A) of such section; or the knowing failure of such a person to include material facts in such a report."
 
-<b>2003</b>—Par. (d). Pub. L. 108–136 substituted “section 344, 355, or 360bbb–3” for “section 344 or 355”.
+<b>2003</b>—Par. (d). Pub. L. 108–136 substituted "section 344, 355, or 360bbb–3" for "section 344 or 355".
 
-Par. (e). Pub. L. 108–136 inserted “360bbb–3,” after “350c, 354,” and substituted “360i, or 360bbb–3” for “or 360i”.
+Par. (e). Pub. L. 108–136 inserted "360bbb–3," after "350c, 354," and substituted "360i, or 360bbb–3" for "or 360i".
 
-Par. (aa). Pub. L. 108–173 substituted “prescription drug in violation of section 384” for “covered product in violation of section 384”.
+Par. (aa). Pub. L. 108–173 substituted "prescription drug in violation of section 384" for "covered product in violation of section 384".
 
-<b>2002</b>—Par. (e). Pub. L. 107–188, §306(c)(1), substituted “by section 350a, 350c, 354, 373, or 374(a) of this title” for “by section 350a, 354, or 373 of this title” and “under section 350a, 350c(b)” for “under section 350a”.
+<b>2002</b>—Par. (e). Pub. L. 107–188, §306(c)(1), substituted "by section 350a, 350c, 354, 373, or 374(a) of this title" for "by section 350a, 354, or 373 of this title" and "under section 350a, 350c(b)" for "under section 350a".
 
-Par. (j). Pub. L. 107–188, §306(c)(2), inserted “350c,” after “350a,”.
+Par. (j). Pub. L. 107–188, §306(c)(2), inserted "350c," after "350a,".
 
-Par. (w). Pub. L. 107–188, §322(b), amended par. (w) generally. Prior to amendment, par. (w) read as follows: “The making of a knowingly false statement in any record or report required or requested under subparagraph (A) or (B) of section 381(d)(3) of this title, the failure to submit or maintain records as required by sections 381(d)(3)(A) and 381(d)(3)(B) of this title, the release into interstate commerce of any article imported into the United States under section 381(d)(3) of this title or any finished product made from such article (except for export in accordance with section 381(e) or 382 of this title or section 262(h) of title 42), or the failure to export or destroy any component, part or accessory not incorporated into a drug, biological product or device that will be exported in accordance with section 381(e) or 382 of this title or section 262(h) of title 42.”
+Par. (w). Pub. L. 107–188, §322(b), amended par. (w) generally. Prior to amendment, par. (w) read as follows: "The making of a knowingly false statement in anyrecord or report required or requested under subparagraph (A) or (B) of section 381(d)(3) of this title, the failure to submit or maintain records as required by sections 381(d)(3)(A) and 381(d)(3)(B) of this title, the release into interstate commerce of any article imported into the United States under section 381(d)(3) of this title or any finished product made from such article (except for export in accordance with section 381(e) or 382 of this title or section 262(h) of title 42), or the failure to export or destroy any component, part or accessory not incorporated into a drug, biological product or device that will be exported in accordance with section 381(e) or 382 of this title or section 262(h) of title 42."
 
 Par. (bb). Pub. L. 107–188, §303(b), added par. (bb).
 
@@ -274,13 +286,13 @@ Par. (gg). Pub. L. 107–250 added par. (gg).
 
 <b>2000</b>—Par. (aa). Pub. L. 106–387 added par. (aa).
 
-<b>1997</b>—Par. (e). Pub. L. 105–115, §125(b)(2)(B), struck out “357(d) or (g),” after “355(i) or (k),”.
+<b>1997</b>—Par. (e). Pub. L. 105–115, §125(b)(2)(B), struck out "357(d) or (g)," after "355(i) or (k),".
 
-Par. (i)(1). Pub. L. 105–115, §125(a)(2)(C), struck out “, 356, 357,” before “or 379e of this title”.
+Par. (i)(1). Pub. L. 105–115, §125(a)(2)(C), struck out ", 356, 357," before "or 379e of this title".
 
-Par. (j). Pub. L. 105–115, §125(a)(2)(A), struck out “356, 357,” before “360,”.
+Par. (j). Pub. L. 105–115, §125(a)(2)(A), struck out "356, 357," before "360,".
 
-Par. (l). Pub. L. 105–115, §421, struck out par. (l) which read as follows: “The using, on the labeling of any drug or device or in any advertising relating to such drug or device, of any representation or suggestion that approval of an application with respect to such drug or device is in effect under section 355, 360e, or 360j(g) of this title, as the case may be, or that such drug or device complies with the provisions of such section.”
+Par. (l). Pub. L. 105–115, §421, struck out par. (l) which read as follows: "The using, on the labeling of any drug or device or in any advertising relating to such drug or device, of any representation or suggestion that approval of an application with respect to such drug or device is in effect under section 355, 360e, or 360j(g) of this title, as the case may be, or that such drug or device complies with the provisions of such section."
 
 Par. (x). Pub. L. 105–115, §204(b), added par. (x).
 
@@ -288,33 +300,33 @@ Par. (y). Pub. L. 105–115, §210(c), added par. (y).
 
 Par. (z). Pub. L. 105–115, §401(b), temporarily added par. (z) which related to dissemination of information in violation of section 360aaa of this title. See Effective and Termination Dates of 1997 Amendment note below.
 
-<b>1996</b>—Par. (e). Pub. L. 104–250 inserted “, 354,” before “or 373 of this title” and “354,” before “355(i) or (k)”.
+<b>1996</b>—Par. (e). Pub. L. 104–250 inserted ", 354," before "or 373 of this title" and "354," before "355(i) or (k)".
 
-Par. (j). Pub. L. 104–170 inserted before period at end of first sentence “; or the violating of section 346a(i)(2) of this title or any regulation issued under that section.”
+Par. (j). Pub. L. 104–170 inserted before period at end of first sentence "; or the violating of section 346a(i)(2) of this title or any regulation issued under that section."
 
 Pars. (u) to (w). Pub. L. 104–134 redesignated par. (u) relating to introduction into interstate commerce of unsafe dietary supplement as (v) and added par. (w).
 
-<b>1994</b>—Par. (e). Pub. L. 103–396, §2(b)(1)(A), substituted “357(d) or (g), 360b(a)(4)(C),” for “357(d) or (g),”.
+<b>1994</b>—Par. (e). Pub. L. 103–396, §2(b)(1)(A), substituted "357(d) or (g), 360b(a)(4)(C)," for "357(d) or (g),".
 
 Par. (u). Pub. L. 103–417 added par. (u) relating to introduction into interstate commerce of unsafe dietary supplement.
 
 Pub. L. 103–396, §2(b)(1)(B), added par. (u) relating to failure to comply with regulations or orders of Secretary.
 
-<b>1993</b>—Par. (j). Pub. L. 103–80, §3(c)(1), substituted “379, or 379e” for “379e, or 379”.
+<b>1993</b>—Par. (j). Pub. L. 103–80, §3(c)(1), substituted "379, or 379e" for "379e, or 379".
 
-Par. (s). Pub. L. 103–80, §3(c)(2), substituted “350a(e)” for “350a(d)”.
+Par. (s). Pub. L. 103–80, §3(c)(2), substituted "350a(e)" for "350a(d)".
 
-<b>1992</b>—Pars. (i)(1), (j). Pub. L. 102–571 substituted “379e” for “376”.
+<b>1992</b>—Pars. (i)(1), (j). Pub. L. 102–571 substituted "379e" for "376".
 
 Par. (q)(1)(C). Pub. L. 102–300 added cl. (C).
 
-<b>1990</b>—Par. (e). Pub. L. 101–502 substituted “or (k)” for “or (j)”.
+<b>1990</b>—Par. (e). Pub. L. 101–502 substituted "or (k)" for "or (j)".
 
-Par. (j). Pub. L. 101–508 inserted at end “This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of such committee or any joint committee of Congress or any subcommittee of such joint committee.”
+Par. (j). Pub. L. 101–508 inserted at end "This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of such committee or any joint committee of Congress or any subcommittee of such joint committee."
 
 <b>1988</b>—Par. (t). Pub. L. 100–293 added par. (t).
 
-<b>1986</b>—Par. (s). Pub. L. 99–570 amended par. (s) generally. Prior to amendment, par. (s) read as follows: “The failure to provide the notice required by section 350a(b) or 350a(c), the failure to make the reports required by section 350a(d)(1)(B), or the failure to meet the requirements prescribed under section 350a(d)(2).”
+<b>1986</b>—Par. (s). Pub. L. 99–570 amended par. (s) generally. Prior to amendment, par. (s) read as follows: "The failure to provide the notice required by section 350a(b) or 350a(c), the failure to make the reports required by section 350a(d)(1)(B), or the failure to meet the requirements prescribed under section 350a(d)(2)."
 
 <b>1980</b>—Par. (e). Pub. L. 96–359, §5(b), inserted reference to section 350a of this title in two places.
 
@@ -326,19 +338,19 @@ Par. (s). Pub. L. 96–359, §5(a), added par. (s).
 
 Par. (j). Pub. L. 94–295, §3(b)(3), inserted references to sections 360, 360c, 360d, 360e, 360f, 360h, 360i, 360j, and 379 of this title.
 
-Par. (l). Pub. L. 94–295, §3(b)(4), substituted “drug or device” for “drug” wherever appearing, and inserted references to sections 360e and 360j(g) of this title.
+Par. (l). Pub. L. 94–295, §3(b)(4), substituted "drug or device" for "drug" wherever appearing, and inserted references to sections 360e and 360j(g) of this title.
 
-Par. (p). Pub. L. 94–295, §4(b)(1), substituted “section 360(j) or 360(k) of this title,” for “section 360(j) of this title,”.
+Par. (p). Pub. L. 94–295, §4(b)(1), substituted "section 360(j) or 360(k) of this title," for "section 360(j) of this title,".
 
 Par. (q). Pub. L. 94–295, §3(b)(1), added par. (q).
 
 Par. (r). Pub. L. 94–295, §7(b), added par. (r).
 
-<b>1972</b>—Par. (p). Pub. L. 92–387 added failure to provide information required by section 360(j) of this title, andfailure to provide notice required by section 360(j)(2) of this title as prohibited acts.
+<b>1972</b>—Par. (p). Pub. L. 92–387 added failure to provide information required by section 360(j) of this title, and failure to provide notice required by section 360(j)(2) of this title as prohibited acts.
 
 <b>1970</b>—Par. (q). Pub. L. 91–513 struck out par. (q) which set out penalties for illegal manufacture, sale, disposition, possession and other traffic in stimulant and depressant drugs. See section 801 et seq. of this title.
 
-<b>1968</b>—Par. (e). Pub. L. 90–399, §103(1), struck out “or” before “357(d) or (g)” and inserted “, or 360b(j), (l), or (m)” after “357(d) or (g)”. Amendment striking out “or” was executed as described, notwithstanding directory language that “or” before “357,” be stricken out, to reflect the probable intent of Congress.
+<b>1968</b>—Par. (e). Pub. L. 90–399, §103(1), struck out "or" before "357(d) or (g)" and inserted ", or 360b(j), (l), or (m)" after "357(d) or (g)". Amendment striking out "or" was executed as described, notwithstanding directory language that "or" before "357," be stricken out, to reflect the probable intent of Congress.
 
 Par. (j). Pub. L. 90–399, §103(2), inserted reference to section 360b of this title.
 
@@ -350,7 +362,7 @@ Par. (q). Pub. L. 89–74, §5, added par. (q).
 
 <b>1962</b>—Par. (e). Pub. L. 87–781, §§103(c), 106(c), prohibited the failure to establish or maintain any record, or make any report, required under sections 355(i) or (j) and 507(d) or (g) of this title, or the refusal to permit access to, or verification or copying of, any such required record.
 
-Par. (l). Pub. L. 87–781, §104(e)(1), inserted “approval of” before “an application”, and substituted “in effect” for “effective”.
+Par. (l). Pub. L. 87–781, §104(e)(1), inserted "approval of" before "an application", and substituted "in effect" for "effective".
 
 Par. (o). Pub. L. 87–781, §114(a), added par. (o).
 
@@ -366,7 +378,7 @@ Par. (j). Pub. L. 86–618, §104, inserted reference to section 376 of this tit
 
 <b>1950</b>—Par. (m). Act Mar. 16, 1950, added par. (m).
 
-<b>1948</b>—Par. (k). Act June 24, 1948, inserted “(whether or not the first sale)” so as to make it clear that this subsection is not limited to the case where the act occurs while the article is held for the first sale after interstate shipment, and extended coverage of subsection to acts which result in adulteration.
+<b>1948</b>—Par. (k). Act June 24, 1948, inserted "(whether or not the first sale)" so as to make it clear that this subsection is not limited to the case where the act occurs while the article is held for the first sale after interstate shipment, and extended coverage of subsection to acts which result in adulteration.
 
 <b>1947</b>—Par. (j). Act Mar. 10, 1947, inserted reference to sections 356 and 357 of this title.
 
@@ -378,39 +390,39 @@ Par. (j). Pub. L. 86–618, §104, inserted reference to section 376 of this tit
 
 Amendment by section 103(e) of Pub. L. 111–353 effective 18 months after Jan. 4, 2011, and applicable to a small business (as defined in the regulations promulgated under section 350g(n) of this title) beginning on the date that is 6 months after the effective date of such regulations and to a very small business (as defined in such regulations) beginning on the date that is 18 months after the effective date of such regulations, see section 103(i) of Pub. L. 111–353, set out as an Effective Date note under section 350g of this title.
 
-Pub. L. 111–353, title III, §301(d), Jan. 4, 2011, 124 Stat. 3955, provided that: “The amendments made by this section \[enacting section 384a of this title and amending this section and section 381 of this title\] shall take effect 2 years after the date of enactment of this Act \[Jan. 4, 2011\].”
+Pub. L. 111–353, title III, §301(d), Jan. 4, 2011, 124 Stat. 3955, provided that: "The amendments made by this section \[enacting section 384a of this title and amending this section and section 381 of this title\] shall take effect 2 years after the date of enactment of this Act \[Jan. 4, 2011\]."
 
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–85, title IX, §909, Sept. 27, 2007, 121 Stat. 950, provided that:
 
-“(a)
+"(a)
 
 Effective Date.—This subtitle \[subtitle A (§§901–909) of title IX of Pub. L. 110–85, enacting sections 353b and 355–1 of this title, amending this section, sections 333, 352, and 355 of this title, and section 262 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 352, 355, and 355a of this title\] takes effect 180 days after the date of the enactment of this Act \[Sept. 27, 2007\].
 
-“(b)
+"(b)
 
 Drugs Deemed to Have Risk Evaluation and Mitigation Strategies.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—A drug that was approved before the effective date of this Act \[probably means “this subtitle”, see above\] is, in accordance with paragraph (2), deemed to have in effect an approved risk evaluation and mitigation strategy under section 505–1 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355–1\] (as added by section 901) (referred to in this section as the ‘Act’) if there are in effect on the effective date of this Act elements to assure safe use—
+In general.—A drug that was approved before the effective date of this Act \[probably means "this subtitle", see above\] is, in accordance with paragraph (2), deemed to have in effect an approved risk evaluation and mitigation strategy under section 505–1 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355–1\] (as added by section 901) (referred to in this section as the 'Act') if there are in effect on the effective date of this Act elements to assure safe use—
 
-&emsp;&emsp;“(A) required under section 314.520 or section 601.42 of title 21, Code of Federal Regulations; or
+&emsp;&emsp;"(A) required under section 314.520 or section 601.42 of title 21, Code of Federal Regulations; or
 
-&emsp;&emsp;“(B) otherwise agreed to by the applicant and the Secretary for such drug.
+&emsp;&emsp;"(B) otherwise agreed to by the applicant and the Secretary for such drug.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Elements of strategy; enforcement.—The approved risk evaluation and mitigation strategy in effect for a drug under paragraph (1)—
 
-&emsp;&emsp;“(A) is deemed to consist of the timetable required under section 505–1(d) and any additional elements under subsections (e) and (f) of such section in effect for such drug on the effective date of this Act; and
+&emsp;&emsp;"(A) is deemed to consist of the timetable required under section 505–1(d) and any additional elements under subsections (e) and (f) of such section in effect for such drug on the effective date of this Act; and
 
-&emsp;&emsp;“(B) is subject to enforcement by the Secretary to the same extent as any other risk evaluation and mitigation strategy under section 505–1 of the Act, except that sections 303(f)(4) and 502(y) and (z) of the Act \[21 U.S.C. 333(f)(4), 352(y), (z)\] (as added by section 902) shall not apply to such strategy before the Secretary has completed review of, and acted on, the first assessment of such strategy under such section 505–1.
+&emsp;&emsp;"(B) is subject to enforcement by the Secretary to the same extent as any other risk evaluation and mitigation strategy under section 505–1 of the Act, except that sections 303(f)(4) and 502(y) and (z) of the Act \[21 U.S.C. 333(f)(4), 352(y), (z)\] (as added by section 902) shall not apply to such strategy before the Secretary has completed review of, and acted on, the first assessment of such strategy under such section 505–1.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Submission.—Not later than 180 days after the effective date of this Act, the holder of an approved application for which a risk evaluation and mitigation strategy is deemed to be in effect under paragraph (1) shall submit to the Secretary a proposed risk evaluation and mitigation strategy. Such proposed strategy is subject to section 505–1 of the Act as if included in such application at the time of submission of the application to the Secretary.”
+Submission.—Not later than 180 days after the effective date of this Act, the holder of an approved application for which a risk evaluation and mitigation strategy is deemed to be in effect under paragraph (1) shall submit to the Secretary a proposed risk evaluation and mitigation strategy. Such proposed strategy is subject to section 505–1 of the Act as if included in such application at the time of submission of the application to the Secretary."
 
 #### Effective Date of 2006 Amendment
 
@@ -418,17 +430,17 @@ Amendment by section 2(c) of Pub. L. 109–462 effective 1 year after Dec. 22, 2
 
 Amendment by section 3(b) of Pub. L. 109–462 effective 1 year after Dec. 22, 2006, see section 3(d)(1) of Pub. L. 109–462, set out as a note under section 343 of this title.
 
-Pub. L. 109–462, §4(b), Dec. 22, 2006, 120 Stat. 3475, provided that: “The amendment made by this section \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Dec. 22, 2006\].”
+Pub. L. 109–462, §4(b), Dec. 22, 2006, 120 Stat. 3475, provided that: "The amendment made by this section \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Dec. 22, 2006\]."
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title VII, §7204, Aug. 10, 2005, 119 Stat. 1914, provided that: “This subtitle \[subtitle B (§§7201–7204) of title VII of Pub. L. 109–59, enacting section 350e of this title, amending this section, sections 342 and 373 of this title, and section 5701 of Title 49, Transportation, omitting sections 5702 to 5714 of Title 49, and enacting provisions set out as a note under section 301 of this title\] takes effect on October 1, 2005.”
+Pub. L. 109–59, title VII, §7204, Aug. 10, 2005, 119 Stat. 1914, provided that: "This subtitle \[subtitle B (§§7201–7204) of title VII of Pub. L. 109–59, enacting section 350e of this title, amending this section, sections 342 and 373 of this title, and section 5701 of Title 49, Transportation, omitting sections 5702 to 5714 of Title 49, and enacting provisions set out as a note under section 301 of this title\] takes effect on October 1, 2005."
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–188, title III, §321(c), June 12, 2002, 116 Stat. 676, provided that: “The amendments made by this section \[amending this section and sections 360 and 381 of this title\] take effect upon the expiration of the 180-day period beginning on the date of the enactment of this Act \[June 12, 2002\].”
+Pub. L. 107–188, title III, §321(c), June 12, 2002, 116 Stat. 676, provided that: "The amendments made by this section \[amending this section and sections 360 and 381 of this title\] take effect upon the expiration of the 180-day period beginning on the date of the enactment of this Act \[June 12, 2002\]."
 
-Pub. L. 107–188, title III, §322(c), June 12, 2002, 116 Stat. 678, provided that: “The amendments made bythis section \[amending this section and section 381 of this title\] take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[June 12, 2002\].”
+Pub. L. 107–188, title III, §322(c), June 12, 2002, 116 Stat. 678, provided that: "The amendments made by this section \[amending this section and section 381 of this title\] take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[June 12, 2002\]."
 
 #### Effective and Termination Dates of 1997 Amendment
 
@@ -470,7 +482,7 @@ Amendment by Pub. L. 89–74 effective Feb. 1, 1966, see section 11 of Pub. L. 8
 
 Amendment by sections 103(c) and 106(c) of Pub. L. 87–781 effective on first day of seventh calendar month following Oct. 1962, and amendment by section 104(e)(1) of Pub. L. 87–781 effective Oct. 10, 1962, see section 107 of Pub. L. 87–781, set out as a note under section 321 of this title.
 
-Pub. L. 87–781, title I, §114(b), Oct. 10, 1962, 76 Stat. 791, provided that: “This section \[amending this section\] shall take effect on the first day of the seventh calendar month following the month in which this Act is enacted \[October 1962\].”
+Pub. L. 87–781, title I, §114(b), Oct. 10, 1962, 76 Stat. 791, provided that: "This section \[amending this section\] shall take effect on the first day of the seventh calendar month following the month in which this Act is enacted \[October 1962\]."
 
 #### Effective Date of 1960 Amendment
 
@@ -486,9 +498,19 @@ Amendment by act Mar. 16, 1950, effective July 1, 1950, see section 7 of that ac
 
 #### Regulations
 
+Pub. L. 113–54, title I, §104, Nov. 27, 2013, 127 Stat. 597, provided that: "In promulgating any regulations to implement this title \[enacting subpart 9 of part C of subchapter VII of this chapter and sections 353a–1 and 353b of this title, amending this section and sections 352, 353a, 352b, and 353c of this title, and enacting provisions set out as notes under section 301 of this title\] (and the amendments made by this title), the Secretary of Health and Human Services shall—
+
+&emsp;"(1) issue a notice of proposed rulemaking that includes the proposed regulation;
+
+&emsp;"(2) provide a period of not less than 60 calendar days for comments on the proposed regulation; and
+
+&emsp;"(3) publish the final regulation not more than 18 months following publication of the proposed rule and not less than 30 calendar days before the effective date of such final regulation."
+
 Secretary of Health and Human Services to promulgate regulations to implement amendments made by section 401 of Pub. L. 105–115 not later than 1 year after Nov. 21, 1997, see section 401(c) of Pub. L. 105–115, set out as a note under section 360aaa of this title.
 
-#### Savings Provision
+#### Savings Provisions
+
+Pub. L. 113–54, title II, §208, Nov. 27, 2013, 127 Stat. 640, provided that: "Except as provided in the amendments made by paragraphs (1), (2), and (3) of section 204(a) \[amending section 353 of this title\] and by section 206(a) \[amending this section\], nothing in this title \[enacting part H of subchapter V of this chapter, amending this section and sections 333, 352, 353, and 360eee–1 of this title, and enacting provisions set out as notes under sections 301, 333, and 353 of this title\] (including the amendments made by this title) shall be construed as altering any authority of the Secretary of Health and Human Services with respect to a drug subject to section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(b)(1)) under any other provision of such Act \[21 U.S.C. 301 et seq.\] or the Public Health Service Act (42 U.S.C. 201 et seq.)."
 
 Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
 
@@ -500,15 +522,15 @@ Nothing in amendments by Pub. L. 111–353 to be construed to alter jurisdiction
 
 #### Construction of 2009 Amendments
 
-Pub. L. 111–31, div. A, title I, §103(p), June 22, 2009, 123 Stat. 1838, provided that: “Nothing in this section \[amending this section and sections 333, 334, 355, 360m, 372 to 374, 375, 379a, 381, 393, 399, and 679 of this title and enacting provisions set out as notes under sections 333 and 387c of this title\] is intended or shall be construed to expand, contract, or otherwise modify or amend the existing limitations on State government authority over tribal restricted fee or trust lands.”
+Pub. L. 111–31, div. A, title I, §103(p), June 22, 2009, 123 Stat. 1838, provided that: "Nothing in this section \[amending this section and sections 333, 334, 355, 360m, 372 to 374, 375, 379a, 381, 393, 399, and 679 of this title and enacting provisions set out as notes under sections 333 and 387c of this title\] is intended or shall be construed to expand, contract, or otherwise modify or amend the existing limitations on State government authority over tribal restricted fee or trust lands."
 
 #### Construction of 2002 Amendments
 
-Pub. L. 107–188, title III, §315, June 12, 2002, 116 Stat. 675, provided that: “Nothing in this title \[enacting sections 350c, 350d, 398, 399, and 679c of this title, sections 3353, 3354, 8319, and 8320 of Title 7, Agriculture, and section 247b–20 of Title 42, The Public Health and Welfare, amending this section, sections 334, 335a, 342, 343, 360, 372, 374, and 381 of this title, and section 43 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section and sections 341, 350c, 350d, and 381 of this title\], or an amendment made by this title, shall be construed to alter the jurisdiction between the Secretaries of Agriculture and of Health and Human Services, under applicable statutes and regulations.”
+Pub. L. 107–188, title III, §315, June 12, 2002, 116 Stat. 675, provided that: "Nothing in this title \[enacting sections 350c, 350d, 398, 399, and 679c of this title, sections 3353, 3354, 8319, and 8320 of Title 7, Agriculture, and section 247b–20 of Title 42, The Public Health and Welfare, amending this section, sections 334, 335a, 342, 343, 360, 372, 374, and 381 of this title, and section 43 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section and sections 341, 350c, 350d, and 381 of this title\], or an amendment made by this title, shall be construed to alter the jurisdiction between the Secretaries of Agriculture and of Health and Human Services, under applicable statutes and regulations."
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare\[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

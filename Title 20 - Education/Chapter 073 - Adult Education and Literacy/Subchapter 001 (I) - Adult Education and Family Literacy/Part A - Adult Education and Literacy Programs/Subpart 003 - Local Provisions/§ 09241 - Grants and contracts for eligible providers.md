@@ -24,7 +24,7 @@ Each eligible agency receiving funds under this part shall ensure that—
 
 #### (d) Special rule
 
-Each eligible agency awarding a grant or contract under this section shall not use any funds made available under this part for adult education and literacy activities for the purpose of supporting or providing programs, services, or activities for individuals who are not individuals described in subparagraphs (A) and (B) of section9202(1) of this title, except that such agency may use such funds for such purpose if such programs, services, or activities are related to family literacy services. In providing family literacy services under this part, an eligible provider shall attempt to coordinate with programs and services that are not assisted under this part prior to using funds for adult education and literacy activities under this part for activities other than adult education activities.
+Each eligible agency awarding a grant or contract under this section shall not use any funds made available under this part for adult education and literacy activities for the purpose of supporting or providing programs, services, or activities for individuals who are not individuals described in subparagraphs (A) and (B) of section 9202(1) of this title, except that such agency may use such funds for such purpose if such programs, services, or activities are related to family literacy services. In providing family literacy services under this part, an eligible provider shall attempt to coordinate with programs and services that are not assisted under this part prior to using funds for adult education and literacy activities under this part for activities other than adult education activities.
 
 #### (e) Considerations
 

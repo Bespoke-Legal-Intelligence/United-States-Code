@@ -6,7 +6,7 @@ It is the purpose of this subchapter to provide grants for the encouragement of 
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–244 substituted “colleges or universities” for “community colleges”.
+<b>1998</b>—Pub. L. 105–244 substituted "colleges or universities" for "community colleges".
 
 #### Effective Date of 1998 Amendment
 

@@ -22,17 +22,17 @@ Section 1. <i>Statement of policy on education programs and activities conducted
 
 Sec. 2. <i>Definitions.</i>
 
-2–201. “Federally conducted education and training programs and activities” includes programs and activities conducted, operated, or undertaken by an executive department or agency.
+2–201. "Federally conducted education and training programs and activities" includes programs and activities conducted, operated, or undertaken by an executive department or agency.
 
-2–202. “Education and training programs and activities” include, but are not limited to, formal schools, extracurricular activities, academic programs, occupational training, scholarships and fellowships, student internships, training for industry members, summer enrichment camps, and teacher training programs.
+2–202. "Education and training programs and activities" include, but are not limited to, formal schools, extracurricular activities, academic programs, occupational training, scholarships and fellowships, student internships, training for industry members, summer enrichment camps, and teacher training programs.
 
 2–203. The Attorney General is authorized to make a final determination as to whether a program falls within the scope of education and training programs and activities covered by this order, under subsection 2–202, or is excluded from coverage, under section 3.
 
-2–204. “Military education or training programs” are those education and training programs conducted by the Department of Defense or, where the Coast Guard is concerned, the Department of Transportation, for the primary purpose of educating or training members of the armed forces or meeting a statutory requirement to educate or train Federal, State, or local civilian law enforcement officials pursuant to 10 U.S.C. Chapter 18.
+2–204. "Military education or training programs" are those education and training programs conducted by the Department of Defense or, where the Coast Guard is concerned, the Department of Transportation, for the primary purpose of educating or training members of the armed forces or meeting a statutory requirement to educate or train Federal, State, or local civilian law enforcement officials pursuant to 10 U.S.C. Chapter 18.
 
-2–205. “Armed Forces” means the Armed Forces of the United States.
+2–205. "Armed Forces" means the Armed Forces of the United States.
 
-2–206. “Status as a parent” refers to the status of an individual who, with respect to an individual who is under the age of 18 or who is 18 or older but is incapable of self-care because of a physical or mental disability, is:
+2–206. "Status as a parent" refers to the status of an individual who, with respect to an individual who is under the age of 18 or who is 18 or older but is incapable of self-care because of a physical or mental disability, is:
 
 &emsp;(a) a biological parent;
 
@@ -56,7 +56,7 @@ Sec. 3. <i>Exemption from coverage.</i>
 
 3–303. An individual shall not be deemed subjected to discrimination by reason of his or her exclusion from the benefits of a program established consistent with federal law or limited by Federal law to individuals of a particular race, sex, color, disability, national origin, age, religion, sexual orientation, or status as a parent different from his or her own.
 
-3–304. This order does not apply to ceremonial or similar education or training programs or activities of schools conducted by the Department of the Interior, Bureau of Indian Affairs, that are culturally relevant to the children represented in the school. “Culturally relevant” refers to any class, program, or activity that is fundamental to a tribe's culture, customs, traditions, heritage, or religion.
+3–304. This order does not apply to ceremonial or similar education or training programs or activities of schools conducted by the Department of the Interior, Bureau of Indian Affairs, that are culturally relevant to the children represented in the school. "Culturally relevant" refers to any class, program, or activity that is fundamental to a tribe's culture, customs, traditions, heritage, or religion.
 
 3–305. This order does not apply to (a) selections based on national origin of foreign nationals to participate in covered education or training programs, if such programs primarily concern national security or foreign policy matters; or (b) selections or other decisions regarding participation in covered education or training programs made by entities outside the executive branch. It shall be the policy of the executive branch that education or training programs or activities shall not be available to entities that select persons for participation in violation of Federal or State law.
 
@@ -70,7 +70,7 @@ Sec. 4. <i>Administrative enforcement.</i>
 
 (b) In addition, the designated investigating office may provide appropriate agency officials with a recommendation for any corrective and/or remedial action. The appropriate officials shall consider such recommendation and implement corrective and/or remedial action by the agency, when appropriate. Nothing in this order authorizes monetary relief to the complainant as a form of remedial or corrective action by an executive department or agency.
 
-4–403. Any action to discipline an employee who violates this order or its implementing rules, regulations, policies, or guidance, including removal from employment, where appropriate, shall be taken in compliance with otherwise applicable procedures, including the Civil Service Reform Act of 1978, Public Law No. 95–454, 92 Stat. 1111 \[see Tables for classification\].
+4–403. Any action to discipline an employee who violates this order or its implementing rules, regulations, policies, or guidance, including removal from employment, where appropriate, shall be taken in compliance with otherwise applicable procedures, including theCivil Service Reform Act of 1978, Public Law No. 95–454, 92 Stat. 1111 \[see Tables for classification\].
 
 Sec. 5. <i>Implementation and Agency Responsibilities.</i>
 
@@ -90,7 +90,7 @@ Sec. 5. <i>Implementation and Agency Responsibilities.</i>
 
 &emsp;g. such other matters as deemed appropriate.
 
-5–502. Within 90 days of the publication of final rules, regulations, policies, or guidance by the Attorney General, each executive department and agency shall establish a procedure to receive and address complaints regarding its Federally conducted education and training programs and activities. Each executive department and agency shall take all necessary steps to effectuate any subsequent rules, regulations, policies, orguidance issued by the Attorney General within 90 days of issuance.
+5–502. Within 90 days of the publication of final rules, regulations, policies, or guidance by the Attorney General, each executive department and agency shall establish a procedure to receive and address complaints regarding its Federally conducted education and training programs and activities. Each executive department and agency shall take all necessary steps to effectuate any subsequent rules, regulations, policies, or guidance issued by the Attorney General within 90 days of issuance.
 
 5–503. The head of each executive department and agency shall be responsible for ensuring compliance within this order.
 

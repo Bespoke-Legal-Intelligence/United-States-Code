@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the “Danny Keysar Child Product Safety Notification Act”.
+This section may be cited as the "Danny Keysar Child Product Safety Notification Act".
 
 #### (b) Safety standards
 
@@ -30,7 +30,7 @@ This section may be cited as the “Danny Keysar Child Product Safety Notificati
 
 #### (A) Notice of adoption of voluntary standard
 
-&emsp;&emsp;When the Commission promulgates a consumer product safety standard under this subsection that is based, in whole or in part, on a voluntary standard, the Commission shall notify the organization that issued the voluntary standard of the Commission's action and shall provide a copy of the consumer product safety standard to the organization.
+&emsp;&emsp;When the Commission promulgates a consumer product safety standard under thissubsection that is based, in whole or in part, on a voluntary standard, the Commission shall notify the organization that issued the voluntary standard of the Commission's action and shall provide a copy of the consumer product safety standard to the organization.
 
 #### (B) Commission action on revised voluntary standard
 
@@ -52,7 +52,7 @@ This section may be cited as the “Danny Keysar Child Product Safety Notificati
 
 &emsp;&emsp;(C) is in the business of contracting to sell or resell, lease, sublet, or otherwise place cribs in the stream of commerce; or
 
-&emsp;&emsp;(D) owns or operates a place of public accommodation affecting commerce (as defined in section 2203 of this title applied without regard to the phrase “not owned by the Federal Government”).
+&emsp;&emsp;(D) owns or operates a place of public accommodation affecting commerce (as defined in section 2203 of this title applied without regard to the phrase "not owned by the Federal Government").
 
 #### (3) Application of any revision
 
@@ -60,7 +60,7 @@ This section may be cited as the “Danny Keysar Child Product Safety Notificati
 
 #### (4) Crib defined
 
-&emsp;In this subsection, the term “crib” includes—
+&emsp;In this subsection, the term "crib" includes—
 
 &emsp;&emsp;(A) new and used cribs;
 
@@ -102,7 +102,7 @@ This section may be cited as the “Danny Keysar Child Product Safety Notificati
 
 #### (3) Record keeping and notification requirements
 
-&emsp;The rules required under this section shall require each manufacturer of a durable infant or toddler product to maintain a record of registrants for each product manufactured that includes all of the information provided by each consumer registered, and to use such information to notify such consumers in the event of a voluntary or involuntary recall of or safety alert regarding such product. Each manufacturer shall maintain such a record for a period of not less than 6 years after the date of manufacture of the product. Consumer information collected by a manufacturer under this Act may not be used by the manufacturer, nor disseminated by such manufacturer to any other party, for any purpose other than notification to such consumer in the event of a product recall or safety alert.
+&emsp;The rules required under this section shall require each manufacturer of a durable infant or toddler product to maintain a record of registrants for each product manufactured thatincludes all of the information provided by each consumer registered, and to use such information to notify such consumers in the event of a voluntary or involuntary recall of or safety alert regarding such product. Each manufacturer shall maintain such a record for a period of not less than 6 years after the date of manufacture of the product. Consumer information collected by a manufacturer under this Act may not be used by the manufacturer, nor disseminated by such manufacturer to any other party, for any purpose other than notification to such consumer in the event of a product recall or safety alert.
 
 #### (4) Study
 
@@ -128,7 +128,7 @@ This section may be cited as the “Danny Keysar Child Product Safety Notificati
 
 #### (f) Definition of durable infant or toddler product
 
-As used in this section, the term “durable infant or toddler product”—
+As used in this section, the term "durable infant or toddler product"—
 
 &emsp;(1) means a durable product intended for use, or that may be reasonably expected to be used, by children under the age of 5 years; and
 
@@ -180,5 +180,5 @@ Subsec. (c)(3), (4). Pub. L. 112–28, §3(b), added par. (3) and redesignated f
 
 #### Definitions
 
-For definitions of “Commission” and “appropriate Congressional committees” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
+For definitions of "Commission" and "appropriate Congressional committees" used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 

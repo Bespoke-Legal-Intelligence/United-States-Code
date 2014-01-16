@@ -18,9 +18,9 @@ Historical and Revision Notes
 
 July 31, 1947, ch. 420, §3 (less last sentence), 61 Stat. 706; Aug. 30, 1954, ch. 1076, §1(21), 68 Stat. 968.
 
-The words “as many \* \* \* as he considers necessary” are substituted for the words “such number \* \* \* as in his opinion may be necessary for the proper instruction of students in the theoretical, academic, and scientific subjects pertaining to the technical and practical aspects of the naval profession” for brevity.
+The words "as many \* \* \* as he considers necessary" are substituted for the words "such number \* \* \* as in his opinion may be necessary for the proper instruction of students in the theoretical, academic, and scientific subjects pertaining to the technical and practical aspects of the naval profession" for brevity.
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–375 substituted “President of the school” for “Superintendent”.
+<b>2004</b>—Pub. L. 108–375 substituted "President of the school" for "Superintendent".
 

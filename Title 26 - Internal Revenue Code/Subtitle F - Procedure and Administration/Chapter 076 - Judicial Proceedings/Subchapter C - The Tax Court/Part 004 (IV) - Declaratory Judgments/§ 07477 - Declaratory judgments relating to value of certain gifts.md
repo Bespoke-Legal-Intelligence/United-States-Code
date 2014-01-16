@@ -2,7 +2,7 @@
 
 #### (a) Creation of remedy
 
-In a case of an actual controversy involving a determination by the Secretary of the value of any gift shown on the return of tax imposed by chapter 12 or disclosed on such return or in any statement attached to such return, upon the filing of an appropriate pleading, the Tax Court may make a declaration of the value of such gift. Any such declaration shall have the force and effect of a decision of the Tax Court and shall be reviewable as such.
+In a case of an actual controversy involving a determination by the Secretary of the value ofany gift shown on the return of tax imposed by chapter 12 or disclosed on such return or in any statement attached to such return, upon the filing of an appropriate pleading, the Tax Court may make a declaration of the value of such gift. Any such declaration shall have the force and effect of a decision of the Tax Court and shall be reviewable as such.
 
 #### (b) Limitations
 
@@ -22,7 +22,7 @@ In a case of an actual controversy involving a determination by the Secretary of
 
 #### Prior Provisions
 
-A prior section 7477, added Pub. L. 94–455, title X, §1042(d)(1), Oct. 4, 1976, 90 Stat. 1637; amended Pub. L. 95–600, title III, §336(b)(2)(B), Nov. 6, 1978, 92 Stat. 2842,provided for declaratory judgments relating to transfers of property from the United States, prior to repeal by Pub. L. 98–369, div. A, title I, §131(e)(1), (g), July 18, 1984, 98 Stat. 664, 665, applicable to transfers or exchanges after Dec. 31, 1984, in taxable years ending after such date, with special rules for certain transfers and ruling requests before Mar. 1, 1984.
+A prior section 7477, added Pub. L. 94–455, title X, §1042(d)(1), Oct. 4, 1976, 90 Stat. 1637; amended Pub. L. 95–600, title III, §336(b)(2)(B), Nov. 6, 1978, 92 Stat. 2842, provided for declaratory judgments relating to transfers of property from the United States, prior to repeal by Pub. L. 98–369, div. A, title I, §131(e)(1), (g), July 18, 1984, 98 Stat. 664, 665, applicable to transfers or exchanges after Dec. 31, 1984, in taxable years ending after such date, with special rules for certain transfers and ruling requests before Mar. 1, 1984.
 
 #### Effective Date
 

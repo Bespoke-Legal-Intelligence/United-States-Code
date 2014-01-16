@@ -22,7 +22,7 @@ Section was formerly set out as a note under section 7381 of Title 42, The Publi
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c). Pub. L. 112–239 struck out subsec. (c). Prior to amendment, text read as follows: “Of the funds authorized to be appropriated in title XXXI of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85) to the Department of Energy for fiscal year 1998, the Secretary shall make $5,000,000 available for the establishment and operation of the program under subsection (b).”
+<b>2013</b>—Subsec. (c). Pub. L. 112–239 struck out subsec. (c). Prior to amendment, text read as follows: "Of the funds authorized to be appropriated in title XXXI of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85) to the Department of Energy for fiscal year 1998, the Secretary shall make $5,000,000 available for the establishment and operation of the program under subsection (b)."
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–136, §3141(k)(9)(D), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85)” for “this title”.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136, §3141(k)(9)(D), substituted "title XXXI of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85)" for "this title".
 

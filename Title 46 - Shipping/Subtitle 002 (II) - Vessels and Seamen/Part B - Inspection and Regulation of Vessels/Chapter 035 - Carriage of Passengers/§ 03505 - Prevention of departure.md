@@ -18,9 +18,9 @@ Section 3505 prohibits the departure from a United States port or place of any p
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–293 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding section 3303(a) of this title, a foreign vessel may not depart from a United States port with passengers who are embarked at that port, if the Secretary finds that the vessel does not comply with the standards stated in the International Convention for the Safety of Life at Sea to which the United States Government is currently a party.”
+<b>2004</b>—Pub. L. 108–293 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "Notwithstanding section 3303(a) of this title, a foreign vessel may not depart from a United States port with passengers who are embarked at that port, if the Secretary finds that the vessel does not comply with the standards stated in the International Convention for the Safety of Life at Sea to which the United States Government is currently a party."
 
-<b>1992</b>—Pub. L. 102–587 substituted “foreign vessel may not depart” for “foreign or domestic vessel of more than 100 gross tons having berth or stateroom accommodations for at least 50 passengers may not depart”.
+<b>1992</b>—Pub. L. 102–587 substituted "foreign vessel may not depart" for "foreign or domestic vessel of more than 100 gross tons having berth or stateroom accommodations for at least 50 passengers may not depart".
 
 #### International Convention for Safety of Life at Sea
 

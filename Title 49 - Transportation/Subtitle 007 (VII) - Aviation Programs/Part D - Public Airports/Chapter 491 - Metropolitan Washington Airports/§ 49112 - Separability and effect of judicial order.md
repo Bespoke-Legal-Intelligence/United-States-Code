@@ -52,9 +52,9 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, §6014, as added Oct. 9, 1996, Pub. L
 
 Oct. 9, 1996, Pub. L. 104–264, title IX, §904(d), 110 Stat. 3276.
 
-In subsection (a), the word “thereby” is omitted as surplus.
+In subsection (a), the word "thereby" is omitted as surplus.
 
-In subsection (b)(1), the words “the limitations described in” are omitted as unnecessary.
+In subsection (b)(1), the words "the limitations described in" are omitted as unnecessary.
 
 #### References in Text
 

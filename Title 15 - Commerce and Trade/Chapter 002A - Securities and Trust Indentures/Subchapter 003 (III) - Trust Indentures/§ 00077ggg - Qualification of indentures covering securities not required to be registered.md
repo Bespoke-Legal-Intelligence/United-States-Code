@@ -20,7 +20,7 @@ The Securities Act of 1933, referred to in subsecs. (a) and (c), is act May 27, 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–123 substituted “Commission” for “Commission, but, in the case of an application, only if it is accompanied or preceded by payment to the Commission of a filing fee in the amount of $100, such payment to be made in cash or by United States postal money order or certified or bank check, or in such other medium of payment as the Commission may authorize by rule and regulation”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–123 substituted "Commission" for "Commission, but, in the case of an application, only if it is accompanied or preceded by payment to the Commission of a filing fee in the amount of $100, such payment to be made in cash or by United States postal money order or certified or bank check, or in such other medium of payment as the Commission may authorize by rule and regulation".
 
 #### Effective Date of 2002 Amendment
 
@@ -28,5 +28,5 @@ Amendment by Pub. L. 107–123 effective Oct. 1, 2001, see section 11 of Pub. L.
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

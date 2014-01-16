@@ -98,7 +98,7 @@ Vessel Standards.—
 
 &emsp;(1)
 
-Certificate of inspection.—A vessel used to provide oceangoing transportation which the Secretary of the department in which the Coast Guard is operating determines meets the criteria of subsection (b) of this section but which, on the date of enactment of the Maritime Security Act of 2003, is not documented under chapter 121 of this title, shall be eligible for a certificate of inspection if the Secretary determines that—
+Certificate of inspection.—A vessel used to provide oceangoing transportation which the Secretary of the department in which the Coast Guard is operating determines meets the criteria of subsection (b) of this section but which, on the date of enactment of the Maritime Security Act of 2003, isnot documented under chapter 121 of this title, shall be eligible for a certificate of inspection if the Secretary determines that—
 
 &emsp;&emsp;(A) the vessel is classed by and designed in accordance with the rules of the American Bureau of Shipping, or another classification society accepted by the Secretary;
 
@@ -120,7 +120,7 @@ In general.—The Secretary may rely on a certification from the American Bureau
 
 &emsp;&emsp;(B)
 
-Foreign classification society.—The Secretary may accept certification from aforeign classification society under subparagraph (A) only—
+Foreign classification society.—The Secretary may accept certification from a foreign classification society under subparagraph (A) only—
 
 &emsp;&emsp;&emsp;(i) to the extent that the government of the foreign country in which the society is headquartered provides access on a reciprocal basis to the American Bureau of Shipping; and
 
@@ -146,43 +146,43 @@ The date of enactment of the Maritime Security Act of 2003, referred to in subse
 
 <b>2013</b>—Subsec. (b). Pub. L. 112–239 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to vessel eligibility, including provisions for certain roll-on/roll-off and LASH vessels.
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–304, §13(a)(1)(A), (B), substituted “section 50501” for “section 2” in the headings of pars. (1), (2), and (4) and substituted “section 50501 of this title” for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” in pars. (1), (2)(A)(i), (ii)(II), (B), and (4)(B).
+<b>2006</b>—Subsec. (c). Pub. L. 109–304, §13(a)(1)(A), (B), substituted "section 50501" for "section 2" in the headings of pars. (1), (2), and (4) and substituted "section 50501 of this title" for "section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)" in pars. (1), (2)(A)(i), (ii)(II), (B), and (4)(B).
 
-Subsec. (d). Pub. L. 109–304, §13(a)(1)(C), substituted “section 501 of this title” for “the first section of Public Law 81–891 (64 Stat. 1120; 46 U.S.C. App. note prec. 3)”.
+Subsec. (d). Pub. L. 109–304, §13(a)(1)(C), substituted "section 501 of this title" for "the first section of Public Law 81–891 (64 Stat. 1120; 46 U.S.C. App. note prec. 3)".
 
-Subsec. (e)(1). Pub. L. 109–304, §13(a)(1)(D), substituted “documented under chapter 121 of this title,” for “a documented vessel (as that term is defined in section 12101 of this title)” in introductory provisions and “documented under chapter 121” for “a documented vessel (as defined in that section)” in subpar. (B).
+Subsec. (e)(1). Pub. L. 109–304, §13(a)(1)(D), substituted "documented under chapter 121 of this title," for "a documented vessel (as that term is defined in section 12101 of this title)" in introductory provisions and "documented under chapter 121" for "a documented vessel (as defined in that section)" in subpar. (B).
 
 #### Vessel Standards
 
 Pub. L. 104–324, title XI, §1137, Oct. 19, 1996, 110 Stat. 3988, as amended by Pub. L. 108–136, div. C, title XXXV, §3534(b)(2), Nov. 24, 2003, 117 Stat. 1818, provided that:
 
-“(a)
+"(a)
 
 Certificate of Inspection.—A vessel used to provide transportation service as a common carrier which the Secretary of Transportation determines meets the criteria of section 53102(b) of title 46, United States Code, but which on the date of enactment of this Act \[Oct. 19, 1996\] is not a documented vessel (as that term is defined in section 2101 \[now section 106\] of title 46, United States Code), shall be eligible for a certificate of inspection if the Secretary determines that—
 
-&emsp;“(1) the vessel is classed by and designed in accordance with the rules of the American Bureau of Shipping or another classification society accepted by the Secretary;
+&emsp;"(1) the vessel is classed by and designed in accordance with the rules of the American Bureau of Shipping or another classification society accepted by the Secretary;
 
-&emsp;“(2) the vessel complies with applicable international agreements and associated guidelines, as determined by the country in which the vessel was documented immediately before becoming a documented vessel (as defined in that section); and
+&emsp;"(2) the vessel complies with applicable international agreements and associated guidelines, as determined by the country in which the vessel was documented immediately before becoming a documented vessel (as defined in that section); and
 
-&emsp;“(3) that country has not been identified by the Secretary as inadequately enforcing international vessel regulations as to that vessel.
+&emsp;"(3) that country has not been identified by the Secretary as inadequately enforcing international vessel regulations as to that vessel.
 
-“(b)
+"(b)
 
 Continued Eligibility for Certificate.—Subsection (a) does not apply to a vessel after any date on which the vessel fails to comply with the applicable international agreements and associated guidelines referred to in subsection (a)(2).
 
-“(c)
+"(c)
 
 Reliance on Classification Society.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary may rely on a certification from the American Bureau of Shipping or, subject to paragraph (2), another classification society accepted by the Secretary to establish that a vessel is in compliance with the requirements of subsections (a) and (b).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Foreign classification society.—The Secretary may accept certification from a foreign classification society under paragraph (1) only—
 
-&emsp;&emsp;“(A) to the extent that the government of the foreign country in which the society is headquartered provides access on a reciprocal basis to the American Bureau of Shipping; and
+&emsp;&emsp;"(A) to the extent that the government of the foreign country in which the society is headquartered provides access on a reciprocal basis to the American Bureau of Shipping; and
 
-&emsp;&emsp;“(B) if the foreign classification society has offices and maintains records in the United States.”
+&emsp;&emsp;"(B) if the foreign classification society has offices and maintains records in the United States."
 

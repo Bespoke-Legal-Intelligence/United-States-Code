@@ -14,9 +14,9 @@ Language is changed.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 struck out “, without deceptive intention,” after “Whenever”.
+<b>2011</b>—Pub. L. 112–29 struck out ", without deceptive intention," after "Whenever".
 
-<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 2011 Amendment
 

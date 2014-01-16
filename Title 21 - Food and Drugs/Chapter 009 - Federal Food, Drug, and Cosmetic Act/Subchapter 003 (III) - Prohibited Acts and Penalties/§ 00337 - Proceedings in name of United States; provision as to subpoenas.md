@@ -18,7 +18,7 @@
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–535 substituted “(a) Except as provided in subsection (b) of this section, all” for “All” and “any proceeding under this section” for “any such proceeding” and added subsec. (b).
+<b>1990</b>—Pub. L. 101–535 substituted "(a) Except as provided in subsection (b) of this section, all" for "All" and "any proceeding under this section" for "any such proceeding" and added subsec. (b).
 
 <b>1954</b>—Act Sept. 3, 1954, struck out reference to section 654 of title 28.
 

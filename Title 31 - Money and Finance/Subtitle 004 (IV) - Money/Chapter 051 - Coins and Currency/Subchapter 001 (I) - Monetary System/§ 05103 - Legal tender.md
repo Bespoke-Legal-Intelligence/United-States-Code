@@ -26,7 +26,7 @@ July 23, 1965, Pub. L. 89–81, §102, 79 Stat. 255.
 
 R.S. §3584.
 
-The words “All . . . regardless of when coined or issued” are omitted as unnecessary because of the restatement. The word “debts” is substituted for “debts, public and private” to eliminate unnecessary words. The words “public charges, taxes, duties, and dues” are omitted as included in “debts”.
+The words "All . . . regardless of when coined or issued" are omitted as unnecessary because of the restatement. The word "debts" is substituted for "debts, public and private" to eliminate unnecessary words. The words "public charges, taxes, duties, and dues" are omitted as included in "debts".
 
 #### 1983 Act
 
@@ -34,7 +34,7 @@ This restores to 31:5103 the reference to public charges, taxes, and dues becaus
 
 #### Amendments
 
-<b>1983</b>—Pub. L. 97–452 inserted “, public charges, taxes, and dues” after “all debts”.
+<b>1983</b>—Pub. L. 97–452 inserted ", public charges, taxes, and dues" after "all debts".
 
 #### Effective Date of 1983 Amendment
 

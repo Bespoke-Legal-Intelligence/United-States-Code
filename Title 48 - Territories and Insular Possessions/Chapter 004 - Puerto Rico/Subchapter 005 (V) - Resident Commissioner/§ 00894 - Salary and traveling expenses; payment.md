@@ -10,9 +10,9 @@ Section was not enacted as part of the Puerto Rican Federal Relations Act which 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Sergeant-at-Arms”.
+<b>1996</b>—Pub. L. 104–186 substituted "Chief Administrative Officer" for "Sergeant-at-Arms".
 
 #### Change of Name
 
-“Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
+"Puerto Rico" substituted in text for "Porto Rico" pursuant to act May 17, 1932, which is classified to section 731a of this title.
 

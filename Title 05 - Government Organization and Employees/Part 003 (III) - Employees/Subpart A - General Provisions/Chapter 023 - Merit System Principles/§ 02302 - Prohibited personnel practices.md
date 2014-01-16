@@ -194,7 +194,7 @@ Section 7802(5) of title 38, referred to in subsec. (e)(1)(E), was redesignated 
 
 “(I) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Office of the Director of National Intelligence, and the National Reconnaissance Office; and
 
-“(II) as determined by the President, any Executive agency or unit thereof the principal function of whichis the conduct of foreign intelligence or counterintelligence activities, provided that the determination be made prior to a personnel action; or”.
+“(II) as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities, provided that the determination be made prior to a personnel action; or”.
 
 <b>2012</b>—Subsec. (a)(2)(A)(xi), (xii). Pub. L. 112–199, §104(a), added cl. (xi) and redesignated former cl. (xi) as (xii).
 
@@ -456,7 +456,7 @@ Section 1. <i>Immediate Actions To Extend Benefits</i>. Agencies should immediat
 
 (vii) clarify that employees’ same-sex domestic partners qualify as dependents for purposes of calculating the extra allowance payable under 5 U.S.C. 5942a to assist employees stationed on Johnston Island, subject to any limitations applicable to spouses.
 
-(b) The Administrator of General Services should take appropriate action to amend the definitions of “immediate family” and “dependent” appearing in the Federal Travel Regulations, 41 C.F.R. Chs. 300–304, to include same-sex domestic partners and their children, so that employees and their domestic partners and children can obtain the full benefits available under applicable law, including certain travel, relocation, and subsistence payments.
+(b) The Administrator of General Services should take appropriate action to amend the definitions of “immediate family” and “dependent” appearing in the Federal Travel Regulations, 41 C.F.R. Chs. 300–304, toinclude same-sex domestic partners and their children, so that employees and their domestic partners and children can obtain the full benefits available under applicable law, including certain travel, relocation, and subsistence payments.
 
 (c) All agencies offering any of the benefits specified by OPM in implementing guidance under section 3 of this memorandum, including credit union membership, access to fitness facilities, and access to planning and counseling services, should take all appropriate action to provide the same level of benefits that is provided to employees’ spouses and their children to employees’ same-sex domestic partners and their children.
 

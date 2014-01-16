@@ -22,7 +22,7 @@
 
 &emsp;(10) the evaluation of the performance and reliability of wind energy technologies can be expedited by the testing of prototypes under carefully controlled conditions;
 
-&emsp;(11) innovation and creativity in the development of components and systems for converting wind energy into electricity and mechanical energy can be fostered through encouraging direct contact between the manufacturers of such components and systems andutilities and other persons interested in utilizing such components and systems; and
+&emsp;(11) innovation and creativity in the development of components and systems for converting wind energy into electricity and mechanical energy can be fostered through encouraging direct contact between the manufacturers of such components and systems and utilities and other persons interested in utilizing such components and systems; and
 
 &emsp;(12) consistent with the findings of the Domestic Policy Review on Solar Energy, wind energy can potentially contribute 1.7 quads of energy per year by the year 2000.
 
@@ -38,5 +38,5 @@
 
 #### Short Title
 
-Pub. L. 96–345, §1, Sept. 8, 1980, 94 Stat. 1139, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Wind Energy Systems Act of 1980’.”
+Pub. L. 96–345, §1, Sept. 8, 1980, 94 Stat. 1139, provided: "That this Act \[enacting this chapter\] may be cited as the 'Wind Energy Systems Act of 1980'."
 

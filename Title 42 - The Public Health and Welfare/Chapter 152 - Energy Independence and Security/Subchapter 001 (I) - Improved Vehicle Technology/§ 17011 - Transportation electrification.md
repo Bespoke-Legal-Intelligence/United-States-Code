@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Environmental Protection Agency.
+&emsp;The term "Administrator" means the Administrator of the Environmental Protection Agency.
 
 #### (2) Battery
 
-&emsp;The term “battery” means an electrochemical energy storage system powered directly by electrical current.
+&emsp;The term "battery" means an electrochemical energy storage system powered directly by electrical current.
 
 #### (3) Electric transportation technology
 
-&emsp;The term “electric transportation technology” means—
+&emsp;The term "electric transportation technology" means—
 
 &emsp;&emsp;(A) technology used in vehicles that use an electric motor for all or part of the motive power of the vehicles, including battery electric, hybrid electric, plug-in hybrid electric, fuel cell, and plug-in fuel cell vehicles, or rail transportation; or
 
@@ -26,7 +26,7 @@ In this section:
 
 #### (4) Nonroad vehicle
 
-&emsp;The term “nonroad vehicle” means a vehicle—
+&emsp;The term "nonroad vehicle" means a vehicle—
 
 &emsp;&emsp;(A) powered—
 
@@ -38,7 +38,7 @@ In this section:
 
 #### (5) Plug-in electric drive vehicle
 
-&emsp;The term “plug-in electric drive vehicle” means a vehicle that—
+&emsp;The term "plug-in electric drive vehicle" means a vehicle that—
 
 &emsp;&emsp;(A) draws motive power from a battery with a capacity of at least 4 kilowatt-hours;
 
@@ -48,7 +48,7 @@ In this section:
 
 #### (6) Qualified electric transportation project
 
-&emsp;The term “qualified electric transportation project” means an electric transportation technology project that would significantly reduce emissions of criteria pollutants, greenhouse gas emissions, and petroleum, including—
+&emsp;The term "qualified electric transportation project" means an electric transportation technology project that would significantly reduce emissions of criteria pollutants, greenhouse gas emissions, and petroleum, including—
 
 &emsp;&emsp;(A) shipside or shoreside electrification for vessels;
 
@@ -110,7 +110,7 @@ In this section:
 
 #### (2) Priority
 
-&emsp;In providing grants under this subsection, the Secretary shall give priority to large-scale projects and large-scale aggregators of projects.
+&emsp;In providing grants under this subsection, the Secretary shall give priority to large-scaleprojects and large-scale aggregators of projects.
 
 #### (3) Cost sharing
 
@@ -132,7 +132,7 @@ In this section:
 
 #### (2) Electric vehicle competition
 
-&emsp;The program established under paragraph (1) shall include a plug-in hybrid electric vehicle competition for institutions of higher education, which shall be known as the “Dr. Andrew Frank Plug-In Electric Vehicle Competition”.
+&emsp;The program established under paragraph (1) shall include a plug-in hybrid electric vehicle competition for institutions of higher education, which shall be known as the "Dr. Andrew Frank Plug-In Electric Vehicle Competition".
 
 #### (3) Engineers
 

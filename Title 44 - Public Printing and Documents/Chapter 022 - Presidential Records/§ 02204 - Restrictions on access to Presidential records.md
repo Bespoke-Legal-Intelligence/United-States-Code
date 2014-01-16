@@ -6,7 +6,7 @@
 
 &emsp;(2) relating to appointments to Federal office;
 
-&emsp;(3) specifically exempted from disclosure by statute (other than sections 552 and 552b of title 5, United States Code), provided that such statute (A) requires that the material be withheld from the public in such a manner as to leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of material to be withheld;
+&emsp;(3) specifically exempted from disclosure by statute (other than sections 552 and 552b of title 5, United States Code), provided that such statute (A) requires that the material be withheld from the public in such a manner asto leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of material to be withheld;
 
 &emsp;(4) trade secrets and commercial or financial information obtained from a person and privileged or confidential;
 
@@ -46,7 +46,7 @@ This Act, referred to in subsec. (c)(2), probably means Pub. L. 95–591, Nov. 4
 
 #### Amendments
 
-<b>1984</b>—Subsec. (c)(1). Pub. L. 98–497 substituted “National Archives and Records Administration” for “National Archives and Records Service of the General Services Administration”.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–497 substituted "National Archives and Records Administration" for "National Archives and Records Service of the General Services Administration".
 
 #### Effective Date of 1984 Amendment
 
@@ -64,25 +64,25 @@ Ex. Ord. No. 13233, Nov. 1, 2001, 66 F.R. 56025, which related to further implem
 
 Ex. Ord. No. 13489, Jan. 21, 2009, 74 F.R. 4669, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish policies and procedures governing the assertion of executive privilege by incumbent and former Presidents in connection with the release of Presidential records by the National Archives and Records Administration (NARA) pursuant to the Presidential Records Act of 1978, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish policies and procedures governing the assertion of executive privilege by incumbent and former Presidents in connection withthe release of Presidential records by the National Archives and Records Administration (NARA) pursuant to the Presidential Records Act of 1978, it is hereby ordered as follows:
 
 Section 1. <i>Definitions</i>. For purposes of this order:
 
-(a) “Archivist” refers to the Archivist of the United States or his designee.
+(a) "Archivist" refers to the Archivist of the United States or his designee.
 
-(b) “NARA” refers to the National Archives and Records Administration.
+(b) "NARA" refers to the National Archives and Records Administration.
 
-(c) “Presidential Records Act” refers to the Presidential Records Act, 44 U.S.C. 2201–2207.
+(c) "Presidential Records Act" refers to the Presidential Records Act, 44 U.S.C. 2201–2207.
 
-(d) “NARA regulations” refers to the NARA regulations implementing the Presidential Records Act \[of 1978\], 36 C.F.R. Part 1270.
+(d) "NARA regulations" refers to the NARA regulations implementing the Presidential Records Act \[of 1978\], 36 C.F.R. Part 1270.
 
-(e) “Presidential records” refers to those documentary materials maintained by NARA pursuant to the Presidential Records Act, including Vice Presidential records.
+(e) "Presidential records" refers to those documentary materials maintained by NARA pursuant to the Presidential Records Act, including Vice Presidential records.
 
-(f) “Former President” refers to the former President during whose term or terms of office particular Presidential records were created.
+(f) "Former President" refers to the former President during whose term or terms of office particular Presidential records were created.
 
-(g) A “substantial question of executive privilege” exists if NARA's disclosure of Presidential records might impair national security (including the conduct of foreign relations), law enforcement, or the deliberative processes of the executive branch.
+(g) A "substantial question of executive privilege" exists if NARA's disclosure of Presidential records might impair national security (including the conduct of foreign relations), law enforcement, or the deliberative processes of the executive branch.
 
-(h) A “final court order” is a court order from which no appeal may be taken.
+(h) A "final court order" is a court order from which no appeal may be taken.
 
 Sec. 2. <i>Notice of Intent to Disclose Presidential Records</i>. (a) When the Archivist provides notice to the incumbent and former Presidents of his intent to disclose Presidential records pursuant to section 1270.46 of the NARA regulations, the Archivist, using any guidelines provided by the incumbent and former Presidents, shall identify any specific materials, the disclosure of which he believes may raise a substantial question of executive privilege. However, nothing in this order is intended to affect the right of the incumbent or former Presidents to invoke executive privilege with respect to materials not identified by the Archivist. Copies of the notice for the incumbent President shall be delivered to the President (through the Counsel to the President) and the Attorney General (through the Assistant Attorney General for the Office of Legal Counsel). The copy of the notice for the former President shall be delivered to the former President or his designated representative.
 

@@ -6,7 +6,7 @@ The Bureau shall prescribe regulations to carry out the purposes of this subchap
 
 #### (b) Model disclosure forms and clauses; publication, criteria, compliance, etc.
 
-The Bureau shall publish a single, integrated disclosure for mortgage loan transactions (including real estate settlement cost statements) which includes the disclosure requirements of this subchapter in conjunction with the disclosure requirements of the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] that, taken together, may apply to a transaction that is subject to both or either provisions of law. The purpose of such model disclosure shall be to facilitate compliance with the disclosure requirements of this subchapter and the Real Estate Settlement Procedures Act of 1974, and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures. In devising such forms, the Bureau shall consider the use by creditors or lessors of data processing or similar automated equipment. Nothing in this subchapter may be construed to require a creditor or lessor to use any such model form or clause prescribed by the Bureau under this section. A creditor or lessor shall be deemed to be in compliance with the disclosure provisions of this subchapter with respect to other than numerical disclosures if the creditor or lessor (1) uses anyappropriate model form or clause as published by the Bureau, or (2) uses any such model form or clause and changes it by (A) deleting any information which is not required by this subchapter, or (B) rearranging the format, if in making such deletion or rearranging the format, the creditor or lessor does not affect the substance, clarity, or meaningful sequence of the disclosure.
+The Bureau shall publish a single, integrated disclosure for mortgage loan transactions (including real estate settlement cost statements) which includes the disclosure requirements of this subchapter in conjunction with the disclosure requirements of the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] that, taken together, may apply to a transaction that is subject to both or either provisions of law. The purpose of such model disclosure shall be to facilitate compliance with the disclosure requirements of this subchapter and the Real Estate Settlement Procedures Act of 1974, and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures. In devising such forms, the Bureau shall consider the use by creditors or lessors of data processing or similar automated equipment. Nothing in this subchapter may be construed to require a creditor or lessor to use any such model form or clause prescribed by the Bureau under this section. A creditor or lessor shall be deemed to be in compliance with the disclosure provisions of this subchapter with respect to other than numerical disclosures if the creditor or lessor (1) uses any appropriate model form or clause as published by the Bureau, or (2) uses any such model form or clause and changes it by (A) deleting any information which is not required by this subchapter, or (B) rearranging the format, if in making such deletion or rearranging the format, the creditor or lessor does not affect the substance, clarity, or meaningful sequence of the disclosure.
 
 #### (c) Procedures applicable for adoption of model forms and clauses
 
@@ -72,21 +72,21 @@ Notwithstanding subsection (a), the Board shall have authority to prescribe rule
 
 #### References in Text
 
-Section 1602(aa) of this title, referred to in subsecs. (a) and (f)(1), was redesignated section 1602(bb) of thistitle by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(aa) of this title, referred to in subsecs. (a) and (f)(1), was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1100A(2), (4), substituted “Bureau” for “Board” in two places, substituted “Except with respect to the provisions of section 1639 of this title that apply to a mortgage referred to in section 1602(aa) of this title, such regulations may contain such additional requirements,”for “Except in the case of a mortgage referred to in section 1602(aa) of this title, these regulations may contain such”, and inserted “all or” after “exceptions for”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1100A(2), (4), substituted "Bureau" for "Board" in two places, substituted "Except with respect to the provisions of section 1639 of this title that apply to a mortgage referred to in section 1602(aa) of this title, such regulations maycontain such additional requirements,"for "Except in the case of a mortgage referred to in section 1602(aa) of this title, these regulations may contain such", and inserted "all or" after "exceptions for".
 
-Subsec. (b). Pub. L. 111–203, §1100A(2), (5), substituted “Bureau” for “Board” wherever appearing in last three sentences and substituted first two sentences for former first sentence which read as follows: “The Board shall publish model disclosure forms and clauses for common transactions to facilitate compliance with the disclosure requirements of this subchapter and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures.”
+Subsec. (b). Pub. L. 111–203, §1100A(2), (5), substituted "Bureau" for "Board" wherever appearing in last three sentences and substituted first two sentences for former first sentence which read as follows: "The Board shall publish model disclosure forms and clauses for common transactions to facilitate compliance with the disclosure requirements of this subchapter and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures."
 
-Subsecs. (c), (d). Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
+Subsecs. (c), (d). Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board" wherever appearing.
 
-Subsec. (f). Pub. L. 111–203, §1100A(2), (6), substituted “Bureau” for “Board” wherever appearing and inserted “all or” after “from all or part of this subchapter” in par. (1).
+Subsec. (f). Pub. L. 111–203, §1100A(2), (6), substituted "Bureau" for "Board" wherever appearing and inserted "all or" after "from all or part of this subchapter" in par. (1).
 
-Subsec. (g). Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” in pars. (1) and (2).
+Subsec. (g). Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board" in pars. (1) and (2).
 
 Subsec. (h). Pub. L. 111–203, §1472(c), which directed addition of subsec. (h) at end of section, was executed by adding subsec. (h) before subsec. (i), to reflect the probable intent of Congress and prior amendment by Pub. L. 111–203, §1100A(7). See below.
 
@@ -96,7 +96,7 @@ Subsec. (i). Pub. L. 111–203, §1100A(7), added subsec. (i).
 
 Subsec. (g). Pub. L. 104–208, §2104, added subsec. (g).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–325 substituted “Except in the case of a mortgage referred to in section 1602(aa) of this title, these” for “These” in second sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–325 substituted "Except in the case of a mortgage referred to in section 1602(aa) of this title, these" for "These" in second sentence.
 
 <b>1980</b>—Pub. L. 96–221 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 

@@ -4,25 +4,25 @@
 
 For purposes of this section—
 
-&emsp;(1) the term “Under Secretary” means Under Secretary of Commerce for Oceans and Atmosphere;
+&emsp;(1) the term "Under Secretary" means Under Secretary of Commerce for Oceans and Atmosphere;
 
-&emsp;(2) the term “appropriate congressional committees” means—
+&emsp;(2) the term "appropriate congressional committees" means—
 
 &emsp;&emsp;(A) the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate; and
 
 &emsp;&emsp;(B) the Committee on Appropriations and the Committee on Science, Space and Technology of the House of Representatives;
 
-&emsp;(3) the term “satellite” means the satellites proposed to be acquired for the National Oceanic and Atmospheric Administration (NOAA);
+&emsp;(3) the term "satellite" means the satellites proposed to be acquired for the National Oceanic and Atmospheric Administration (NOAA);
 
-&emsp;(4) the term “development” means the phase of a program following the formulation phase and beginning with the approval to proceed to implementation, as defined in NOAA Administrative Order 216–108, Department of Commerce Administrative Order 208–3, and NASA's Procedural Requirements 7120.5c, dated March 22, 2005;
+&emsp;(4) the term "development" means the phase of a program following the formulation phase and beginning with the approval to proceed to implementation, as defined in NOAA Administrative Order 216–108, Department of Commerce Administrative Order 208–3, and NASA's Procedural Requirements 7120.5c, dated March 22, 2005;
 
-&emsp;(5) the term “development cost” means the total of all costs, including construction of facilities and civil servant costs, from the period beginning with the approval to proceed to implementation through the achievement of operational readiness, without regard to funding source or management control, for the life of the program;
+&emsp;(5) the term "development cost" means the total of all costs, including construction of facilities and civil servant costs, from the period beginning with the approval to proceed to implementation through the achievement of operational readiness, without regard to funding source or management control, for the life of the program;
 
-&emsp;(6) the term “life-cycle cost” means the total of the direct, indirect, recurring, andnonrecurring costs, including the construction of facilities and civil servant costs, and other related expenses incurred or estimated to be incurred in the design, development, verification, production, operation, maintenance, support, and retirement of a program over its planned lifespan, without regard to funding source or management control;
+&emsp;(6) the term "life-cycle cost" means the total of the direct, indirect, recurring, andnonrecurring costs, including the construction of facilities and civil servant costs, and other related expenses incurred or estimated to be incurred in the design, development, verification, production, operation, maintenance, support, and retirement of a program over its planned lifespan, without regard to funding source or management control;
 
-&emsp;(7) the term “major program” means an activity approved to proceed to implementation that has an estimated life-cycle cost of more than $250,000,000; and
+&emsp;(7) the term "major program" means an activity approved to proceed to implementation that has an estimated life-cycle cost of more than $250,000,000; and
 
-&emsp;(8) the term “baseline” means the program as set following contract award and preliminary design review of the space and ground systems.
+&emsp;(8) the term "baseline" means the program as set following contract award and preliminary design review of the space and ground systems.
 
 #### (b) Contract requirements for major programs
 
@@ -90,9 +90,9 @@ Not later than 30 days after receiving a written notification under subsection (
 
 #### (f) Completion and transmittal of analysis
 
-NOAA shall complete an analysis initiated under paragraph (2) <sup>1</sup> not later than 6 months after the Under Secretary makes a determination under this subsection.<sup>2</sup> The Under Secretary shall transmit the analysis to the appropriate congressional committees not later than 30 days after its completion.
+NOAA shall complete an analysis initiated under subsection (e)(2) not later than 6 months after the Under Secretary makes a determination under subsection (e). The Under Secretary shall transmit the analysis to the appropriate congressional committees not later than 30 days after its completion.
 
-(Pub. L. 112–55, div. B, title I, §105, Nov. 18, 2011, 125 Stat. 599.)
+(Pub. L. 112–55, div. B, title I, §105, Nov. 18, 2011, 125 Stat. 599; Pub. L. 113–6, div. B, title I, §105(a), Mar. 26, 2013, 127 Stat. 242.)
 
 #### Prior Provisions
 
@@ -100,7 +100,11 @@ Provisions similar to those in this section were contained in the following prio
 
 Pub. L. 110–161, div. B, title I, §112, Dec. 26, 2007, 121 Stat. 1894.
 
-<i><sup>1</sup></i><i> So in original. Probably means par. (2) of subsec. (e).</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original. Probably means subsec. (e).</i>
+<b>2013</b>—Subsec. (f). Pub. L. 113–6 substituted "subsection (e)(2)" for "paragraph (2)" and "subsection (e)" for "this subsection".
+
+#### Requirements Adopted by Reference
+
+Pub. L. 113–6, div. B, title I, §105(b), Mar. 26, 2013, 127 Stat. 242, provided that: "The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) \[33 U.S.C. 878a\], as amended by subsection (a) of this section, are hereby adopted by reference."
 

@@ -52,9 +52,9 @@ Sept. 2, 1958, Pub. L. 85–903, §§8, 9, 11, 72 Stat. 1740.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the word “otherwise” is omitted as unnecessary.
+In subsection (b), the word "otherwise" is omitted as unnecessary.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “This subsection does not prevent” are substituted for “Nothing in this section, however, shall be construed to prevent” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title. The words "This subsection does not prevent" are substituted for "Nothing in this section, however, shall be construed to prevent" for consistency in the revised title and to eliminate unnecessary words.
 

@@ -1,12 +1,12 @@
 ### §411. Military maneuvers
 
-In order to obtain practical benefits of great value to the country from the establishment of national military parks, said parks and their approaches are declared to be national fields formilitary maneuvers for the Regular Army of the United States and the National Guard or militia of the States. Said parks shall be opened for such purposes only in the discretion of the Secretary of the Army, and under such regulations as he may prescribe.
+In order to obtain practical benefits of great value to the country from the establishment of national military parks, said parks and their approaches are declared to be national fields for military maneuvers for the Regular Army of the United States and the National Guard or militia of the States. Said parks shall be opened for such purposes only in the discretion of the Secretary of the Army, and under such regulations as he may prescribe.
 
 (May 15, 1896, ch. 182, §1, 29 Stat. 120; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
 #### Change of Name
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Transfer of Functions
 

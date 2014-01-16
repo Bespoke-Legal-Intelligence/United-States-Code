@@ -20,13 +20,13 @@ For purposes of this subchapter—
 
 #### (B) Affected shareholders
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “affected shareholders” means the shareholder whose interest is terminated and all shareholders to whom such shareholder has transferred shares during the taxable year. If such shareholder has transferred shares to the corporation, the term “affected shareholders” shall include all persons who are shareholders during the taxable year.
+&emsp;&emsp;For purposes of subparagraph (A), the term "affected shareholders" means the shareholder whose interest is terminated and all shareholders to whom such shareholder has transferred shares during the taxable year. If such shareholder has transferred shares to the corporation, the term "affected shareholders" shall include all persons who are shareholders during the taxable year.
 
 #### (b) Post-termination transition period
 
 #### (1) In general
 
-&emsp;For purposes of this subchapter, the term “post-termination transition period” means—
+&emsp;For purposes of this subchapter, the term "post-termination transition period" means—
 
 &emsp;&emsp;(A) the period beginning on the day after the last day of the corporation's last taxable year as an S corporation and ending on the later of—
 
@@ -40,7 +40,7 @@ For purposes of this subchapter—
 
 #### (2) Determination defined
 
-&emsp;For purposes of paragraph (1), the term “determination” means—
+&emsp;For purposes of paragraph (1), the term "determination" means—
 
 &emsp;&emsp;(A) a determination as defined in section 1313(a), or
 
@@ -70,15 +70,15 @@ A prior section 1377, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 7
 
 <b>2004</b>—Subsec. (b)(3). Pub. L. 108–311 added par. (3).
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–188, §1306, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary, if any shareholder terminates his interest in the corporation during the taxable year and all persons who are shareholders during the taxable year agree to the application of this paragraph, paragraph (1) shall be applied as if the taxable year consisted of 2 taxable years the first of which ends on the date of the termination.”
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–188, §1306, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Under regulations prescribed by the Secretary, if any shareholder terminates his interest in the corporation during the taxable year and all persons who are shareholders during the taxable year agree to the application of this paragraph, paragraph (1) shall be applied as if the taxable year consisted of 2 taxable years the first of which ends on the date of the termination."
 
-Subsec. (b)(1)(A) to (C). Pub. L. 104–188, §1307(a), struck out “and” at end of subpar. (A)(ii), added subpar. (B), and redesignated former subpar. (B) as (C).
+Subsec. (b)(1)(A) to (C). Pub. L. 104–188, §1307(a), struck out "and" at end of subpar. (A)(ii), added subpar. (B), and redesignated former subpar. (B) as (C).
 
 Subsec. (b)(2)(A) to (C). Pub. L. 104–188, §1307(b), added subpar. (A), redesignated subpar. (C) as (B), and struck out former subpars. (A) and (B) which read as follows:
 
-“(A) a court decision which becomes final,
+"(A) a court decision which becomes final,
 
-“(B) a closing agreement, or”.
+"(B) a closing agreement, or".
 
 #### Effective Date of 2004 Amendment
 
@@ -88,9 +88,9 @@ Amendment by Pub. L. 108–311 effective as if included in the provisions of the
 
 Pub. L. 105–34, title XVI, §1601(c)(2), Aug. 5, 1997, 111 Stat. 1087, provided that:
 
-“(A) Notwithstanding section 1317 of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188, enacting provisions set out as notes under sections 641 and 1362 of this title\], the amendments made by subsections (a) and (b) of section 1307 of such Act \[amending this section\] shall apply to determinations made after December 31, 1996.
+"(A) Notwithstanding section 1317 of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188, enacting provisions set out as notes under sections 641 and 1362 of this title\], the amendments made by subsections (a) and (b) of section 1307 of such Act \[amending this section\] shall apply to determinations made after December 31, 1996.
 
-“(B) In no event shall the 120-day period referred to in section 1377(b)(1)(B) of the Internal Revenue Code of 1986 (as added by such section 1307) expire before the end of the 120-day period beginning on the date of the enactment of this Act \[Aug. 5, 1997\].”
+"(B) In no event shall the 120-day period referred to in section 1377(b)(1)(B) of the Internal Revenue Code of 1986 (as added by such section 1307) expire before the end of the 120-day period beginning on the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
 

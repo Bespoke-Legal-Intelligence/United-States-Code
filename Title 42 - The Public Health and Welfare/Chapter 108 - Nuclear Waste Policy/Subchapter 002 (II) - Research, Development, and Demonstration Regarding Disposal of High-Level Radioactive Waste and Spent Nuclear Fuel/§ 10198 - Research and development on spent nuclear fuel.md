@@ -36,5 +36,5 @@ The spent nuclear fuel storage program authorized in section 10155 of this title
 
 #### Amendments
 
-<b>1994</b>—Subsec. (e)(1). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
+<b>1994</b>—Subsec. (e)(1). Pub. L. 103–437 substituted "Committee on Science, Space, and Technology" for "Committee on Science and Technology".
 

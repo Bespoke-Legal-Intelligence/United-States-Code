@@ -10,5 +10,5 @@ The amounts authorized to be appropriated for the Tocks Island project and relat
 
 #### Amendments
 
-<b>1972</b>—Pub. L. 92–575 substituted “$65,000,000” for “$37,412,000”.
+<b>1972</b>—Pub. L. 92–575 substituted "$65,000,000" for "$37,412,000".
 

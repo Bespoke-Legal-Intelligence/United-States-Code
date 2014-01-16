@@ -6,7 +6,7 @@
 
 &emsp;The Secretary, acting through the Centers for Disease Control and Prevention, shall—
 
-&emsp;&emsp;(A) enter into cooperative agreements with States and other entities to conduct sentinel surveillance or other special studies that would determine the prevalence in various age groups and populations of specific types of human papillomavirus (referred to in this section as “HPV”) in different sites in various regions of the United States, through collection of special specimens for HPV using a variety of laboratory-based testing and diagnostic tools; and
+&emsp;&emsp;(A) enter into cooperative agreements with States and other entities to conduct sentinel surveillance or other special studies that would determine the prevalence in various age groups and populations of specific types of human papillomavirus (referred to in this section as "HPV") in different sites in various regions of the United States, through collection of special specimens for HPV using a variety of laboratory-based testing and diagnostic tools; and
 
 &emsp;&emsp;(B) develop and analyze data from the HPV sentinel surveillance system described in subparagraph (A).
 
@@ -30,7 +30,7 @@
 
 #### (2) Report; final proposal
 
-&emsp;The Secretary shall make a progress report to the Congress with respect to paragraph (1) not later than 1 year after the effective date of this section, and shall develop a final report not later than 3 years after such effective date, including a detailed summary of the significant findings and problems and the best strategies to prevent future infections, based on available science.
+&emsp;The Secretary shall make a progress report to the Congress with respect to paragraph (1) not later than 1 year after the effective date ofthis section, and shall develop a final report not later than 3 years after such effective date, including a detailed summary of the significant findings and problems and the best strategies to prevent future infections, based on available science.
 
 #### (c) HPV education and prevention
 
@@ -116,7 +116,7 @@
 
 In general.—Not later than March 1, 2008, the Secretary shall ensure that all provisions of this section, including activities directed to be carried out by the Centers for Disease Control and Prevention and the Food and Drug Administration, are fully implemented and being complied with. Not later than April 30, 2008, the Secretary shall submit to Congress a report that certifies compliance with the preceding sentence and that contains a description of all activities undertaken to achieve such compliance.
 
-&emsp;(B) If the Secretary fails to submit the certification as provided for under subparagraph (A), the Secretary shall, not later than 3months after the date on which the report is to be submitted under subparagraph (A), and every 3 months thereafter, submit to Congress an explanation as to why the Secretary has not yet complied with the first sentence of subparagraph (A), a detailed description of all actions undertaken within the month for which the report is being submitted to bring the Secretary into compliance with such sentence, and the anticipated date the Secretary expects to be in full compliance with such sentence.
+&emsp;(B) If the Secretary fails to submit the certification as provided for under subparagraph (A), the Secretary shall, not later than 3 months after the date on which the report is to be submitted under subparagraph (A), and every 3 months thereafter, submit to Congress an explanation as to why the Secretary has not yet complied with the first sentence of subparagraph (A), a detailed description of all actions undertaken within the month for which the report is being submitted to bring the Secretary into compliance with such sentence, and the anticipated date the Secretary expects to be in full compliance with such sentence.
 
 #### (4) Consultation with nonprofit gynecologic cancer organizations
 
@@ -138,11 +138,11 @@ The effective date of this section, referred to in subsecs. (a)(2) and (b)(2), i
 
 <b>2010</b>—Subsec. (d)(4). Pub. L. 111–324, §1(b), added par. (4). Former par. (4) redesignated (6).
 
-Pub. L. 111–324, §1(a)(1), inserted “and $18,000,000 for the period of fiscal years 2012 through 2014” after “2009”.
+Pub. L. 111–324, §1(a)(1), inserted "and $18,000,000 for the period of fiscal years 2012 through 2014" after "2009".
 
 Subsec. (d)(6). Pub. L. 111–324, §1(a)(2), redesignated par. (4) as (6).
 
-<b>2007</b>—Pub. L. 109–475, §2(1), inserted “(Johanna's Law)” after “papillomavirus” in section catchline.
+<b>2007</b>—Pub. L. 109–475, §2(1), inserted "(Johanna's Law)" after "papillomavirus" in section catchline.
 
 Subsec. (d). Pub. L. 109–475, §2(2), added subsec. (d).
 

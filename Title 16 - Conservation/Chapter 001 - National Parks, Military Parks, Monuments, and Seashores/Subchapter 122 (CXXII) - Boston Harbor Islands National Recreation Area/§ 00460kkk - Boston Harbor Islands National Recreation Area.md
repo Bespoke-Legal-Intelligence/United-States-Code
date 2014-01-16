@@ -16,9 +16,9 @@ The purposes of this section are—
 
 For the purposes of this section—
 
-&emsp;(1) the term “recreation area” means the Boston Harbor Islands National Recreation Area established by subsection (c) of this section; and
+&emsp;(1) the term "recreation area" means the Boston Harbor Islands National Recreation Area established by subsection (c) of this section; and
 
-&emsp;(2) the term “Secretary” means the Secretary of the Interior.
+&emsp;(2) the term "Secretary" means the Secretary of the Interior.
 
 #### (c) Boston Harbor Islands National Recreation Area
 
@@ -28,7 +28,7 @@ For the purposes of this section—
 
 #### (2) Boundaries
 
-&emsp;(A) The recreation area shall be comprised of the lands, waters, and submerged lands generally depicted on the map entitled “Proposed Boston Harbor Islands NRA”, numbered BOHA 80,002, and dated September 1996. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service. After advising the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, in writing, the Secretary may make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+&emsp;(A) The recreation area shall be comprised of the lands, waters, and submerged lands generally depicted on the map entitled "Proposed Boston Harbor Islands NRA", numbered BOHA 80,002, and dated September 1996. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service. After advising the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, in writing, the Secretary may make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
 &emsp;(B) The recreation area shall include the following:
 
@@ -44,7 +44,7 @@ For the purposes of this section—
 
 #### (1) In general
 
-&emsp;The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title as amended and supplemented and in accordance with the integrated management plan specified in subsection (f) of this section.
+&emsp;The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generallyapplicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title as amended and supplemented and in accordance with the integrated management plan specified in subsection (f) of this section.
 
 #### (2) State and local jurisdiction
 
@@ -54,7 +54,7 @@ For the purposes of this section—
 
 #### (A) Definition of eligible entity
 
-&emsp;&emsp;In this paragraph, the term “eligible entity” means—
+&emsp;&emsp;In this paragraph, the term "eligible entity" means—
 
 &emsp;&emsp;&emsp;(i) the Commonwealth of Massachusetts;
 
@@ -262,11 +262,11 @@ For the purposes of this section—
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated such sums as may be necessary to carry out thissection, provided that no funds may be appropriated for land acquisition.
+&emsp;There are authorized to be appropriated such sums as may be necessary to carry out this section, provided that no funds may be appropriated for land acquisition.
 
 #### (2) Matching requirement
 
-&emsp;Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
+&emsp;Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar.The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
 
 (Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–241, title IX, §902(h)(1), July 11, 2006, 120 Stat. 567; Pub. L. 111–11, title VII, §7109, Mar. 30, 2009, 123 Stat. 1197; Pub. L. 111–281, title IX, §903(a)(8), Oct. 15, 2010, 124 Stat. 3010.)
 
@@ -278,29 +278,29 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(4),
 
 <b>2010</b>—Subsec. (e)(2)(B). Pub. L. 111–281 made technical amendment to directory language of Pub. L. 109–241, §902(h)(1). See 2006 Amendment note below.
 
-<b>2009</b>—Subsec. (d)(3). Pub. L. 111–11, §7109(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary may consult and enter into cooperative agreements with the Commonwealth of Massachusetts or its political subdivisions to acquire from and provide to the Commonwealth or its political subdivisions goods and services to be used in the cooperative management of lands within the recreation area, if the Secretary determines that appropriations for that purpose are available and the agreement is in the best interest of the United States.”
+<b>2009</b>—Subsec. (d)(3). Pub. L. 111–11, §7109(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "The Secretary may consult and enter into cooperative agreements with the Commonwealth of Massachusetts or its political subdivisions to acquire from and provide to the Commonwealth or its political subdivisions goods and services to be used in the cooperative management of lands within the recreation area, if the Secretary determines that appropriations for that purpose are available and the agreement is in the best interest of the United States."
 
-Subsec. (e)(2)(B). Pub. L. 111–11, §7109(b)(1), substituted “Coast Guard.” for “Coast Guard”.
+Subsec. (e)(2)(B). Pub. L. 111–11, §7109(b)(1), substituted "Coast Guard." for "Coast Guard".
 
-Subsec. (e)(11). Pub. L. 111–11, §7109(b)(2), substituted “Notwithstanding” for “Nothwithstanding”.
+Subsec. (e)(11). Pub. L. 111–11, §7109(b)(2), substituted "Notwithstanding" for "Nothwithstanding".
 
-<b>2006</b>—Subsec. (e)(2)(B). Pub. L. 109–241, §902(h)(1), as amended by Pub. L. 111–281, §903(a)(8), substituted “Commandant of the Coast Guard.” for “Secretary of Transportation, to represent the United States Coast Guard.”
+<b>2006</b>—Subsec. (e)(2)(B). Pub. L. 109–241, §902(h)(1), as amended by Pub. L. 111–281, §903(a)(8), substituted "Commandant of the Coast Guard." for "Secretary of Transportation, to represent the United States Coast Guard."
 
-<b>2004</b>—Subsec. (c)(2)(B)(i). Pub. L. 108–352, §12(1), substituted “referenced” for “reference”.
+<b>2004</b>—Subsec. (c)(2)(B)(i). Pub. L. 108–352, §12(1), substituted "referenced" for "reference".
 
-Subsec. (d)(4). Pub. L. 108–352, §12(2), inserted period after “plans”.
+Subsec. (d)(4). Pub. L. 108–352, §12(2), inserted period after "plans".
 
-<b>2000</b>—Pub. L. 106–176, §126(1), substituted “National Recreation Area” for “Recreation Area” in section catchline.
+<b>2000</b>—Pub. L. 106–176, §126(1), substituted "National Recreation Area" for "Recreation Area" in section catchline.
 
-Subsec. (b)(1). Pub. L. 106–176, §126(2), inserted quotation marks around “recreation area”.
+Subsec. (b)(1). Pub. L. 106–176, §126(2), inserted quotation marks around "recreation area".
 
-Subsec. (e)(3)(B). Pub. L. 106–176, §126(3), which directed substitution of “subparagraphs (C), (D), (E), (F), (G), (H), (I), and (J) of paragraph (2).” for “subsections (b)(3), (4), (5), (6), (7), (8), (9), and (10) of this section..”, was executed by making the substitution for text that did not include the phrase “of this section..”
+Subsec. (e)(3)(B). Pub. L. 106–176, §126(3), which directed substitution of "subparagraphs (C), (D), (E), (F), (G), (H), (I), and (J) of paragraph (2)." for "subsections (b)(3), (4), (5), (6), (7), (8), (9), and (10) of this section..", was executed by making the substitution for text that did not include the phrase "of this section.."
 
-Subsec. (f)(2)(A)(i). Pub. L. 106–176, §126(4), substituted “private-sector roles” for “profit sector roles”.
+Subsec. (f)(2)(A)(i). Pub. L. 106–176, §126(4), substituted "private-sector roles" for "profit sector roles".
 
-Subsec. (g)(1). Pub. L. 106–176, §126(5), substituted “and revenue-raising activities.” for “and revenue raising activities.”.
+Subsec. (g)(1). Pub. L. 106–176, §126(5), substituted "and revenue-raising activities." for "and revenue raising activities.".
 
-Subsec. (h)(2). Pub. L. 106–176, §126(6), substituted “ratio” for “ration”.
+Subsec. (h)(2). Pub. L. 106–176, §126(6), substituted "ratio" for "ration".
 
 <b>1998</b>—Subsec. (c)(3). Pub. L. 105–355 added par. (3).
 

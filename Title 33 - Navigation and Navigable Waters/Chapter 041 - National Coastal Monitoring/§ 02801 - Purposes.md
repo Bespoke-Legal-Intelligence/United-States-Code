@@ -28,7 +28,7 @@ The Federal Water Pollution Control Act, referred to in par. (8), is act June 30
 
 #### Short Title
 
-Title V of Pub. L. 92–532, which comprises this chapter, is popularly known as the “National Coastal Monitoring Act”.
+Title V of Pub. L. 92–532, which comprises this chapter, is popularly known as the "National Coastal Monitoring Act".
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

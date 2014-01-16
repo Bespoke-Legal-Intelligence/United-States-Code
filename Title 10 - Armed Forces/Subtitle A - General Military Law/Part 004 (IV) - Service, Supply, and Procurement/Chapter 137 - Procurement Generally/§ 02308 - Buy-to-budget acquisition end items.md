@@ -38,25 +38,25 @@ Definitions.—(1) For the purposes of this section, a quantity of an end item s
 
 (2) In this section:
 
-&emsp;(A) The term “end item” means a production product assembled, completed, and ready for issue or deployment.
+&emsp;(A) The term "end item" means a production product assembled, completed, and ready for issue or deployment.
 
-&emsp;(B) The term “head of an agency” means the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force.
+&emsp;(B) The term "head of an agency" means the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force.
 
 (Added Pub. L. 107–314, div. A, title VIII, §801(a)(1), Dec. 2, 2002, 116 Stat. 2600; amended Pub. L. 108–136, div. A, title X, §1043(b)(11), Nov. 24, 2003, 117 Stat. 1611.)
 
 #### Prior Provisions
 
-A prior section 2308, acts Aug. 10, 1956, ch. 1041, 70A Stat. 131; Oct. 23, 1992, Pub. L. 102–484, div. A, title VIII,§820(a), 106 Stat. 2458; May 31, 1993, Pub. L. 103–35, title II, §201(e)(2), 107 Stat. 99; Nov. 30, 1993, Pub. L. 103–160, div. A, title IX, §904(d)(1), 107 Stat. 1728, related to assignment and delegation of procurement functions and responsibilities, prior to repeal by Pub. L. 103–355, title I, §1503(b)(1), title X, §10001, Oct. 13, 1994, 108 Stat. 3297, 3404, effective Oct. 13, 1994, except as otherwise provided.
+A prior section 2308, acts Aug. 10, 1956, ch. 1041, 70A Stat. 131; Oct. 23, 1992, Pub. L. 102–484, div. A, title VIII, §820(a), 106 Stat. 2458; May 31, 1993, Pub. L. 103–35, title II, §201(e)(2), 107 Stat. 99; Nov. 30, 1993, Pub. L. 103–160, div. A, title IX, §904(d)(1), 107 Stat. 1728, related to assignment and delegation of procurement functions and responsibilities, prior to repeal by Pub. L. 103–355, title I, §1503(b)(1), title X, §10001, Oct. 13, 1994, 108 Stat. 3297, 3404, effective Oct. 13, 1994, except as otherwise provided.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (e)(2). Pub. L. 108–136 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “The term ‘congressional defense committees’ means—
+<b>2003</b>—Subsec. (e)(2). Pub. L. 108–136 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: "The term 'congressional defense committees' means—
 
-&emsp;“(i) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+&emsp;"(i) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
-&emsp;“(ii) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+&emsp;"(ii) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives."
 
 #### Time for Issuance of Final Regulations
 
-Pub. L. 107–314, div. A, title VIII, §801(b), Dec. 2, 2002, 116 Stat. 2602, provided that: “The Secretary of Defense shall issue the final regulations under section 2308(b) of title 10, United States Code (as added by subsection (a)), not later than 120 days after the date of the enactment of this Act \[Dec. 2, 2002\].”
+Pub. L. 107–314, div. A, title VIII, §801(b), Dec. 2, 2002, 116 Stat. 2602, provided that: "The Secretary of Defense shall issue the final regulations under section 2308(b) of title 10, United States Code (as added by subsection (a)), not later than 120 days after the date of the enactment of this Act \[Dec. 2, 2002\]."
 

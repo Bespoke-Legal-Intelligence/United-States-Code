@@ -4,7 +4,7 @@
 
 #### (1) Establishment of program
 
-&emsp;To foster individual economic self-sufficiency and promote useful opportunities in community service activities (which shall include community service employment) for unemployed low-income persons who are age 55 or older, particularly persons who have poor employment prospects, and to increase the number of persons who may enjoy the benefits of unsubsidized employment in both the public and private sectors, the Secretary of Labor (referred to in this subchapter as the “Secretary”) may establish an older American community service employment program.
+&emsp;To foster individual economic self-sufficiency and promote useful opportunities in community service activities (which shall include community service employment) for unemployed low-income persons who are age 55 or older, particularly persons who have poor employment prospects, and to increase the number of persons who may enjoy the benefits of unsubsidized employment in both the public and private sectors, the Secretary of Labor (referred to in this subchapter as the "Secretary") may establish an older American community service employment program.
 
 #### (2) Use of appropriated amounts
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) 27 months; or
 
-&emsp;&emsp;&emsp;(ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specific project area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in section 3056k(a)(2)(D) of this title that justify such an extended period for the program year involved;
+&emsp;&emsp;&emsp;(ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specificproject area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in section 3056k(a)(2)(D) of this title that justify such an extended period for the program year involved;
 
 &emsp;&emsp;(D) will employ eligible individuals in service related to publicly owned and operated facilities and projects, or projects sponsored by nonprofit organizations (excluding political parties exempt from taxation under section 501(c)(3) of title 26), but excluding projects involving the construction, operation, or maintenance of any facility used or to be used as a place for sectarian religious instruction or worship;
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(H) will coordinate activities with training and other services provided under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), including utilizing the one-stop delivery system of the local workforce investment areas involved to recruit eligible individuals to ensure that the maximum number of eligible individuals will have an opportunity to participate in the project;
 
-&emsp;&emsp;(I) will include such training (such as work experience, on-the-job training, and classroom training) as may be necessary to make the most effective use of the skills and talents of those individuals who are participating, and will provide for the payment of thereasonable expenses of individuals being trained, including a reasonable subsistence allowance equivalent to the wage described in subparagraph (J);
+&emsp;&emsp;(I) will include such training (such as work experience, on-the-job training, and classroom training) as may be necessary to make the most effective use of the skills and talents of those individuals who are participating, and will provide for the payment of the reasonable expenses of individuals being trained, including a reasonable subsistence allowance equivalent to the wage described in subparagraph (J);
 
 &emsp;&emsp;(J) will ensure that safe and healthy employment conditions will be provided, and will ensure that participants employed in community service and other jobs assisted under this subchapter will be paid wages that shall not be lower than whichever is the highest of—
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(M) will ensure that, to the extent feasible, such project will serve the needs of minority and Indian eligible individuals, eligible individuals with limited English proficiency, and eligible individuals with greatest economic need, at least in proportion to their numbers in the area served and take into consideration their rates of poverty and unemployment;
 
-&emsp;&emsp;(N)(i) will prepare an assessment of the participants’ skills and talents and their needs for services, except to the extent such project has, for the participant involved, recently prepared an assessment of such skills and talents, and such needs, pursuant to another employment or training program (such as a program under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)) and will prepare a related service strategy;
+&emsp;&emsp;(N)(i) will prepare an assessment of the participants' skills and talents and their needs for services, except to the extent such project has, for the participant involved, recently prepared an assessment of such skills and talents, and such needs, pursuant to another employment or training program (such as a program under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)) and will prepare a related service strategy;
 
 &emsp;&emsp;(ii) will provide training and employment counseling to eligible individuals based on strategies that identify appropriate employment objectives and the need for supportive services, developed as a result of the assessment and service strategy provided for in clause (i), and provide other appropriate information regarding such project; and
 
@@ -94,7 +94,7 @@
 
 #### (B) Prepared under Workforce Investment Act of 1998
 
-&emsp;&emsp;An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.) foran eligible individual may be used to comply with the requirement specified in subparagraph (A).
+&emsp;&emsp;An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.) for an eligible individual may be used to comply with the requirement specified in subparagraph (A).
 
 #### (c) Federal share and use of funds
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(B) if the grantee under subsection (b) demonstrates to the Secretary that—
 
-&emsp;&emsp;&emsp;(i) major administrative cost increases are being incurred in necessary program components, including liability insurance, payments for workers’ compensation, costs associated with achieving unsubsidized placement goals, and costs associated with other operation requirements imposed by the Secretary;
+&emsp;&emsp;&emsp;(i) major administrative cost increases are being incurred in necessary program components, including liability insurance, payments for workers' compensation, costs associated with achieving unsubsidized placement goals, and costs associated with other operation requirements imposed by the Secretary;
 
 &emsp;&emsp;&emsp;(ii) the number of community service employment positions in the project or the number of minority eligible individuals participating in the project will decline if the amount available to pay the administrative costs is not increased; or
 
@@ -174,7 +174,7 @@
 
 &emsp;&emsp;Amounts made available for a project under this subchapter that are not used to pay for the administrative costs shall be used to pay for the costs of programmatic activities, including the costs of—
 
-&emsp;&emsp;&emsp;(i) participant wages, such benefits as are required by law (such as workers’ compensation or unemployment compensation), the costs of physical examinations, compensation for scheduled work hours during which an employer's business is closed for a Federal holiday, and necessary sick leave that is not part of an accumulated sick leave program, except that no amounts provided under this subchapter may be used to pay the cost of pension benefits, annual leave, accumulated sick leave, or bonuses;
+&emsp;&emsp;&emsp;(i) participant wages, such benefits as are required by law (such as workers' compensation or unemployment compensation), the costs of physical examinations, compensation for scheduled work hours during which an employer's business is closed for a Federal holiday, and necessary sick leave that is not part of an accumulated sick leave program, except that no amounts provided under this subchapter may be used to pay the cost of pension benefits, annual leave, accumulated sick leave, or bonuses;
 
 &emsp;&emsp;&emsp;(ii) participant training (including the payment of reasonable costs of instructors, classroom rental, training supplies, materials, equipment, and tuition), which may be provided prior to or subsequent to placement and which may be provided on the job, in a classroom setting, or pursuant to other appropriate arrangements;
 
@@ -212,7 +212,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a description of the activities for which the grantee will spend the grant funds described in subclauses (III) and (IV) of clause (i), consistent with those subclauses;
 
-&emsp;&emsp;&emsp;&emsp;(II) an explanation documenting how the provision of such activities will improve the effectiveness of the project, including an explanation concerning whether any displacement of eligible individuals or elimination of positions for such individuals will occur, information on the number of such individuals to be displaced and of such positions to be eliminated, and an explanation concerning how the activities will improve employment outcomes for individuals served, based on the assessment conducted under subsection (b)(1)(N); and
+&emsp;&emsp;&emsp;&emsp;(II) an explanation documenting how the provision of such activities will improve the effectiveness of the project, including an explanation concerning whether any displacement of eligible individuals or elimination of positions for such individuals will occur, information on the number of such individuals to bedisplaced and of such positions to be eliminated, and an explanation concerning how the activities will improve employment outcomes for individuals served, based on the assessment conducted under subsection (b)(1)(N); and
 
 &emsp;&emsp;&emsp;&emsp;(III) a proposed budget and work plan for the activities, including a detailed description of the funds to be spent on the activities described in subclauses (III) and (IV) of clause (i).
 
@@ -232,7 +232,7 @@ Whenever a grantee conducts a project within a planning and service area in a St
 
 #### (1) In general
 
-&emsp;The Secretary, in addition to exercising any other authority contained in this subchapter, shall use funds reserved under section 3056d(a)(1) of this title to carry out demonstration projects, pilot projects, and evaluation projects, for the purpose of developing and implementing techniques and approaches, and demonstrating the effectiveness of the techniques and approaches, in addressing the employment and training needs of eligible individuals. The Secretary shall enter into suchagreements with States, public agencies, nonprofit private organizations, or private business concerns, as may be necessary, to conduct the projects authorized by this subsection. To the extent practicable, the Secretary shall provide an opportunity, prior to the development of a demonstration or pilot project, for the appropriate area agency on aging to submit comments on such a project in order to ensure coordination of activities under this subchapter.
+&emsp;The Secretary, in addition to exercising any other authority contained in this subchapter, shall use funds reserved under section 3056d(a)(1) of this title to carry out demonstration projects, pilot projects, and evaluation projects, for the purpose of developing and implementing techniques and approaches, and demonstrating the effectiveness of the techniques and approaches, in addressing the employment and training needs of eligible individuals. The Secretary shall enter into such agreements with States, public agencies, nonprofit private organizations, or private business concerns, as may be necessary, to conduct the projects authorized by this subsection. To the extent practicable, the Secretary shall provide an opportunity, prior to the development of a demonstration or pilot project, for the appropriate area agency on aging to submit comments on such a project in order to ensure coordination of activities under this subchapter.
 
 #### (2) Projects
 
@@ -270,7 +270,7 @@ The Workforce Investment Act of 1998, referred to in subsecs. (b)(1)(H), (N)(i),
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(J)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(1)(N)(i), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(1)(N)(i), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.)of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Social Security Act, referred to in subsec. (b)(1)(N)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -286,23 +286,23 @@ Another prior section 502 of Pub. L. 89–73, title V, as added Pub. L. 93–29,
 
 Pub. L. 109–365, title V, §502, Oct. 17, 2006, 120 Stat. 2590, provided that:
 
-“(a)
+"(a)
 
 In General.—Title V of the Older Americans Act of 1965 \[42 U.S.C. 3056 et seq.\] (as amended by section 501) takes effect July 1, 2007.
 
-“(b)
+"(b)
 
 Regulations and Expected Levels of Performance.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Regulations.—Effective on the date of enactment of this Act \[Oct. 17, 2006\], the Secretary of Labor may issue rules and regulations authorized in such title V.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Expected levels of performance.—Prior to July 1, 2007, the Secretary of Labor may carry out the activities authorized in section 513(a)(2) of the Older Americans Act of 1965 \[42 U.S.C. 3056k(a)(2)\] (as so amended), in preparation for program year 2007.”
+Expected levels of performance.—Prior to July 1, 2007, the Secretary of Labor may carry out the activities authorized in section 513(a)(2) of the Older Americans Act of 1965 \[42 U.S.C. 3056k(a)(2)\] (as so amended), in preparation for program year 2007."
 
 #### Short Title
 
-For short title of this subchapter as the “Community Service Senior Opportunities Act”, see section 501 of Pub. L. 89–73, set out as a note under section 3001 of this title.
+For short title of this subchapter as the "Community Service Senior Opportunities Act", see section 501 of Pub. L. 89–73, set out as a note under section 3001 of this title.
 

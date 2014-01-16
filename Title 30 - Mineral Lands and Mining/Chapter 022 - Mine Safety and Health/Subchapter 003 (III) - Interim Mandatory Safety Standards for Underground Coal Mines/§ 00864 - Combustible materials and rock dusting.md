@@ -6,7 +6,7 @@ Coal dust, including float coal dust deposited on rock-dusted surfaces, loose co
 
 #### (b) Abatement of hazards in active working areas
 
-Where underground mining operations in active workings create or raise excessive amounts of dust, water or water with a wetting agentadded to it, or other no less effective methods approved by the Secretary or his authorized representative, shall be used to abate such dust. In working places, particularly in distances less than forty feet from the face, water, with or without a wetting agent, or other no less effective methods approved by the Secretary or his authorized representative, shall be applied to coal dust on the ribs, roof, and floor to reduce dispersibility and to minimize the explosion hazard.
+Where underground mining operations in active workings create or raise excessive amounts of dust, water or water with a wetting agent added to it, or other no less effective methods approved by the Secretary or his authorized representative, shall be used to abate such dust. In working places, particularly in distances less than forty feet from the face, water, with or without a wetting agent, or other no less effective methods approved by the Secretary or his authorized representative, shall be applied to coal dust on the ribs, roof, and floor to reduce dispersibility and to minimize the explosion hazard.
 
 #### (c) Rock dusting of all areas of underground mines; exceptions
 

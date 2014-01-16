@@ -52,7 +52,7 @@ After August 3, 1977, and subject to valid existing rights no surface coal minin
 
 &emsp;&emsp;(A) surface operations and impacts are incident to an underground coal mine; or
 
-&emsp;&emsp;(B) where the Secretary of Agriculture determines, with respect to lands which do not have significant forest cover within those national forests west of the 100th meridian, that surface mining is in compliance with the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\], the Federal Coal Leasing Amendments Act of 1975, the National Forest Management Act of 1976, and the provisions of this chapter: <i>And provided further</i>,That no surface coal mining operations may be permitted within the boundaries of the Custer National Forest;
+&emsp;&emsp;(B) where the Secretary of Agriculture determines, with respect to lands which do not have significant forest cover within those national forests west of the 100th meridian, that surface mining is in compliance with the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\], the Federal Coal Leasing Amendments Act of 1975, the National Forest Management Act of 1976, and the provisions of this chapter: <i>And provided further</i>, That no surface coal mining operations may be permitted within the boundaries of the Custer National Forest;
 
 &emsp;(3) which will adversely affect any publicly owned park or places included in the National Register of Historic Sites unless approved jointly by the regulatory authority and the Federal, State, or local agency with jurisdiction over the park or the historic site;
 
@@ -70,5 +70,5 @@ The Federal Coal Leasing Amendments Act of 1975, referred to in subsec. (e)(2)(B
 
 The National Forest Management Act of 1976, referred to in subsec. (e)(2)(B), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of Title 16, Conservation, amended sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of Title 16, repealed sections 476, 513, and 514 of Title 16, enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of Title 16. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of Title 16 and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “therefor.”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "therefor."</i>
 

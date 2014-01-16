@@ -2,7 +2,7 @@
 
 The Mediator in preparing his report, and the District Court in making the final adjudication, pursuant to section 640d–3 of this title, shall consider and be guided by the decision of the Healing case, under which the tribes have joint, undivided, and equal interests in and to all of the joint use area; by any partial agreement reached by the parties under section 640d–2(b) of this title; by the last best offer for a complete settlement as a part of the negotiating process by each of the tribes; and by the following:
 
-(a) The rights and interests, as defined in the Healing case, of the Hopi Tribe in and to that portion of the reservation established by the Executive order of December 16, 1882, which is known as land management district no. 6 (hereinafter referred to as the “Hopi Reservation”) shall not be reduced or limited in any manner.
+(a) The rights and interests, as defined in the Healing case, of the Hopi Tribe in and to that portion of the reservation established by the Executive order of December 16, 1882, which is known as land management district no. 6 (hereinafter referred to as the "Hopi Reservation") shall not be reduced or limited in any manner.
 
 (b) The boundary lines resulting from any partitioning of lands in the joint use area shall be established so as to include the higher density population areas of each tribe within the portion of the lands partitioned to such tribe to minimize and avoid undue social, economic, and cultural disruption insofar as practicable.
 
@@ -16,7 +16,7 @@ The Mediator in preparing his report, and the District Court in making the final
 
 (g) Any claim the Hopi Tribe may have against the Navajo Tribe for an accounting of all sums collected by the Navajo Tribe since September 17, 1957, as trader license fees or commissions, lease rental, or proceeds, or other similar charges for doing business or for damages in the use of lands within the joint use area, shall be for a one-half share in such sums.
 
-(h) Any claim the Hopi Tribe may have against the Navajo Tribe for the determination and recovery of the fair value of the grazing and agricultural use of the lands within the joint use area by the Navajo Tribe and its individualmembers, since September 28, 1962, shall be for one-half of such value.
+(h) Any claim the Hopi Tribe may have against the Navajo Tribe for the determination and recovery of the fair value of the grazing and agricultural use of the lands within the joint use area by the Navajo Tribe and its individual members, since September 28, 1962, shall be for one-half of such value.
 
 (Pub. L. 93–531, §6, Dec. 22, 1974, 88 Stat. 1714.)
 

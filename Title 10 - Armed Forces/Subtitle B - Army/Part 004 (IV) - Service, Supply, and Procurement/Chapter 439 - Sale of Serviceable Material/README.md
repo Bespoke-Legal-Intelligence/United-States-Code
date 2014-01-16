@@ -6,7 +6,7 @@
 | [4622\.](%C2%A7%2004622%20-%20Rations%20commissioned%20officers%20in%20field.md) | Rations: commissioned officers in field. |
 | \[4623. | Repealed.\] |
 | [4624\.](%C2%A7%2004624%20-%20Medical%20supplies%20civilian%20employees%20of%20the%20Army%3B%20American%20National%20Red%20Cross%3B%20Armed%20Forces%20Retirement%20Home.md) | Medical supplies: civilian employees of the Army; American National Red Cross; Armed Forces Retirement Home. |
-| [4625\.](%C2%A7%2004625%20-%20Ordnance%20property%20officers%20of%20armed%20forces%3B%20civilian%20employees%20of%20Army%3B%20American%20National%20Red%20Cross%3B%20educational%20institutions%3B%20homes%20for%E2%80%A6.md) | Ordnance property: officers of armed forces; civilian employees of Army; American National Red Cross; educational institutions; homes for veterans’ orphans. |
+| [4625\.](%C2%A7%2004625%20-%20Ordnance%20property%20officers%20of%20armed%20forces%3B%20civilian%20employees%20of%20Army%3B%20American%20National%20Red%20Cross%3B%20educational%20institutions%3B%20homes%20for%E2%80%A6.md) | Ordnance property: officers of armed forces; civilian employees of Army; American National Red Cross; educational institutions; homes for veterans' orphans. |
 | [4626\.](%C2%A7%2004626%20-%20Aircraft%20supplies%20and%20services%20foreign%20military%20or%20air%20attach%C3%A9.md) | Aircraft supplies and services: foreign military or air attaché. |
 | [4627\.](%C2%A7%2004627%20-%20Supplies%20educational%20institutions.md) | Supplies: educational institutions. |
 | [4628\.](%C2%A7%2004628%20-%20Airplane%20parts%20and%20accessories%20civilian%20flying%20schools.md) | Airplane parts and accessories: civilian flying schools. |
@@ -16,11 +16,11 @@
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–510, div. A, title XV, §1533(a)(5)(C), Nov. 5, 1990, 104 Stat. 1734, amended item 4624 generally, substituting “Armed Forces Retirement Home” for “Soldiers’ and Airmen's Home”.
+<b>1990</b>—Pub. L. 101–510, div. A, title XV, §1533(a)(5)(C), Nov. 5, 1990, 104 Stat. 1734, amended item 4624 generally, substituting "Armed Forces Retirement Home" for "Soldiers' and Airmen's Home".
 
-<b>1980</b>—Pub. L. 96–513, title V, §512(18)(C), Dec. 12, 1980, 94 Stat. 2930, inserted “and Airmen's” after “Soldiers’ ” in item 4624.
+<b>1980</b>—Pub. L. 96–513, title V, §512(18)(C), Dec. 12, 1980, 94 Stat. 2930, inserted "and Airmen's" after "Soldiers' " in item 4624.
 
-<b>1970</b>—Pub. L. 91–482, §2B, Oct. 21, 1970, 84 Stat. 1082, struck out item 4623 “Tobacco: enlisted members of Army”.
+<b>1970</b>—Pub. L. 91–482, §2B, Oct. 21, 1970, 84 Stat. 1082, struck out item 4623 "Tobacco: enlisted members of Army".
 
 
 ---

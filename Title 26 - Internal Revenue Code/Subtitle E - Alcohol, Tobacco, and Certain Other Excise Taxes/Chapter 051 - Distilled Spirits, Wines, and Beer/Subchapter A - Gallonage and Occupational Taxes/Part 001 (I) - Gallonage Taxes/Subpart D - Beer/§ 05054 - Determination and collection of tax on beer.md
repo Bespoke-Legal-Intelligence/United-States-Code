@@ -40,17 +40,17 @@ Provisions similar to those comprising subsecs. (a)(1), (2) and (b) to (d) of th
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206, §6014(a)(1), in heading inserted “; certain imported beer” after “United States” and in text inserted “, or imported into the United States and transferred to a brewery free of tax under section 5418,” after “United States”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206, §6014(a)(1), in heading inserted "; certain imported beer" after "United States" and in text inserted ", or imported into the United States and transferred to a brewery free of tax under section 5418," after "United States".
 
-Subsec. (a)(2). Pub. L. 105–206, §6014(a)(2), inserted “and not transferred to a brewery free of tax under section 5418” after “United States”.
+Subsec. (a)(2). Pub. L. 105–206, §6014(a)(2), inserted "and not transferred to a brewery free of tax under section 5418" after "United States".
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–647 added period at end.
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–509 substituted “if entered for warehousing, at the time of removal from the 1st such warehouse” for “if entered into customs custody, at the time of removal from such custody, and shall be paid under such regulations as the Secretary shall prescribe.”.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–509 substituted "if entered for warehousing, at the time of removal from the 1st such warehouse" for "if entered into customs custody, at the time of removal from such custody, and shall be paid under such regulations as the Secretary shall prescribe.".
 
 <b>1978</b>—Subsec. (a)(3). Pub. L. 95–458 inserted provision excluding from tax the beer exempt from tax under section 5053(e).
 
-<b>1976</b>—Subsec. (a)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsecs. (c), (d). Pub. L. 94–455, §1905(a)(5), redesignated subsec. (d) as (c) and struck out former subsec. (c) respecting stamps or other devices as evidence of payment of tax.
 
@@ -74,5 +74,5 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 
 Amendment by section 1905(a)(5) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

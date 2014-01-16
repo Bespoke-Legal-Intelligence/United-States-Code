@@ -40,5 +40,5 @@ Pub. L. 104–106, div. E, title LI, §5122, Feb. 10, 1996, 110 Stat. 683.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(1). Pub. L. 108–458 substituted “investments in information technology (including information security needs)” for “information technology investments”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–458 substituted "investments in information technology (including information security needs)" for "information technology investments".
 

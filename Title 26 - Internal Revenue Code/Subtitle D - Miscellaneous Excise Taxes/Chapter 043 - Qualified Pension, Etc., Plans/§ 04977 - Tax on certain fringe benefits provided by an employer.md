@@ -6,7 +6,7 @@ In the case of an employer to whom an election under this section applies for an
 
 #### (b) Excess fringe benefits
 
-For purposes of subsection (a), the term “excess fringe benefits” means, with respect to any calendar year—
+For purposes of subsection (a), the term "excess fringe benefits" means, with respect to any calendar year—
 
 &emsp;(1) the aggregate value of the fringe benefits provided by the employer during the calendar year which were not includible in gross income under paragraphs (1) and (2) of section 132(a), over
 
@@ -38,15 +38,15 @@ All employees treated as employed by a single employer under subsection (b), (c)
 
 Except as otherwise provided in regulations, this section shall apply only with respect to employment within the United States.
 
-(Added Pub. L. 98–369, div. A, title V, §531(e)(1), July 18, 1984, 98 Stat. 885; amended Pub. L. 99–514, title XVIII, §1853(c)(1), (2), Oct. 22, 1986, 100 Stat. 2871; Pub. L. 103–66, title XIII, §13213(d)(3)(D), Aug. 10, 1993, 107 Stat. 474; Pub.L. 104–188, title I, §1704(t)(66), Aug. 20, 1996, 110 Stat. 1890.)
+(Added Pub. L. 98–369, div. A, title V, §531(e)(1), July 18, 1984, 98 Stat. 885; amended Pub. L. 99–514, title XVIII, §1853(c)(1), (2), Oct. 22, 1986, 100 Stat. 2871; Pub. L. 103–66, title XIII, §13213(d)(3)(D), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1704(t)(66), Aug. 20, 1996, 110 Stat. 1890.)
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–188 substituted “section 132(h)” for “section 132(i)(2)” in closing provisions.
+<b>1996</b>—Subsec. (c). Pub. L. 104–188 substituted "section 132(h)" for "section 132(i)(2)" in closing provisions.
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–66 substituted “section 132(i)(2)” for “section 132(g)(2)” in closing provisions.
+<b>1993</b>—Subsec. (c). Pub. L. 103–66 substituted "section 132(i)(2)" for "section 132(g)(2)" in closing provisions.
 
-<b>1986</b>—Subsec. (c)(2). Pub. L. 99–514, §1853(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “as of January 1, 1984, substantially all of the employees of the employer were entitled to employee discounts or services provided by the employer in 1 line of business,”.
+<b>1986</b>—Subsec. (c)(2). Pub. L. 99–514, §1853(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "as of January 1, 1984, substantially all of the employees of the employer were entitled to employee discounts or services provided by the employer in 1 line of business,".
 
 Subsec. (f). Pub. L. 99–514, §1853(c)(2), added subsec. (f).
 
@@ -68,5 +68,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Application of Subsection (c) of this Section to Agricultural Cooperatives Incorporated in 1964
 
-Pub. L. 99–514, title XVIII, §1853(c)(3), Oct. 22, 1986, 100 Stat. 2871, provided that: “For purposes of determining whether the requirements of section 4977(c) of the Internal Revenue Code of 1954 \[now 1986\] are met in the case of an agricultural cooperative incorporated in 1964, there shall not be taken into account employees of a member of the same controlled group as such cooperative which became a member during July 1980.”
+Pub. L. 99–514, title XVIII, §1853(c)(3), Oct. 22, 1986, 100 Stat. 2871, provided that: "For purposes of determining whether the requirements of section 4977(c) of the Internal Revenue Code of 1954 \[now 1986\] are met in the case of an agricultural cooperative incorporated in 1964, there shall not be taken into account employees of a member of the same controlled group as such cooperative which became a member during July 1980."
 

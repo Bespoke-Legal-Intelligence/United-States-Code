@@ -2,7 +2,7 @@
 
 #### (a) Long-term epidemiology studies
 
-The Director of the Institute shall conduct or support long-term epidemiology studies in which individuals with or at risk for type 1, or juvenile, diabetes are followed for 10 years or more. Such studies shall investigate the causes and characteristics of the disease and its complications.
+The Director of the Institute shall conduct or support long-term epidemiology studies inwhich individuals with or at risk for type 1, or juvenile, diabetes are followed for 10 years or more. Such studies shall investigate the causes and characteristics of the disease and its complications.
 
 #### (b) Clinical trial infrastructure/innovative treatments for juvenile diabetes
 
@@ -16,7 +16,7 @@ The Secretary, acting through the appropriate agencies, shall provide for a nati
 
 #### Amendments
 
-<b>2007</b>—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.”
+<b>2007</b>—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005."
 
 #### Effective Date of 2007 Amendment
 

@@ -8,11 +8,11 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “market discount bond” means any bond having market discount.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "market discount bond" means any bond having market discount.
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “market discount bond” shall not include—
+&emsp;&emsp;The term "market discount bond" shall not include—
 
 #### (i) Short-term obligations
 
@@ -28,13 +28,13 @@ For purposes of this part—
 
 #### (C) Section 1277 not applicable to tax-exempt obligations
 
-&emsp;&emsp;For purposes of section 1277, the term “market discount bond” shall not include any tax-exempt obligation (as defined in section 1275(a)(3)).
+&emsp;&emsp;For purposes of section 1277, the term "market discount bond" shall not include any tax-exempt obligation (as defined in section 1275(a)(3)).
 
 #### (D) Treatment of bonds acquired at original issue
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph or in regulations, the term “market discount bond” shall not include any bond acquired by the taxpayer at its original issue.
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph or in regulations, the term "market discount bond" shall not include any bond acquired by the taxpayer at its original issue.
 
 #### (ii) Treatment of bonds acquired for less than issue price
 
@@ -56,7 +56,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;The term “market discount” means the excess (if any) of—
+&emsp;&emsp;The term "market discount" means the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the stated redemption price of the bond at maturity, over
 
@@ -72,11 +72,11 @@ For purposes of this part—
 
 #### (3) Bond
 
-&emsp;The term “bond” means any bond, debenture, note, certificate, or other evidence of indebtedness.
+&emsp;The term "bond" means any bond, debenture, note, certificate, or other evidence of indebtedness.
 
 #### (4) Revised issue price
 
-&emsp;The term “revised issue price” means the sum of—
+&emsp;The term "revised issue price" means the sum of—
 
 &emsp;&emsp;(A) the issue price of the bond, and
 
@@ -84,7 +84,7 @@ For purposes of this part—
 
 #### (5) Original issue discount, etc.
 
-&emsp;The terms “original issue discount”, “stated redemption price at maturity”, and “issue price” have the respective meanings given such terms by subpart A of this part.
+&emsp;The terms "original issue discount", "stated redemption price at maturity", and "issue price" have the respective meanings given such terms by subpart A of this part.
 
 #### (b) Election to include market discount currently
 
@@ -118,27 +118,27 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(1)(B)(ii)–(iv). Pub. L. 103–66, §13206(b)(2)(A)(i), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out heading and text of former cl. (ii). Text read as follows: “Any tax-exempt obligation (as defined in section 1275(a)(3)).”
+<b>1993</b>—Subsec. (a)(1)(B)(ii)–(iv). Pub. L. 103–66, §13206(b)(2)(A)(i), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out heading and text of former cl. (ii). Text read as follows: "Any tax-exempt obligation (as defined in section 1275(a)(3))."
 
 Subsec. (a)(1)(C), (D). Pub. L. 103–66, §13206(b)(2)(A)(ii), (iii), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (a)(4)(B). Pub. L. 103–66, §13206(b)(2)(B)(ii), inserted before period at end “or, in the case of a tax-exempt obligation, the aggregate amount of the original issue discount which accrued in the manner provided by section 1272(a) (determined without regard to paragraph (7) thereof) during periods before the acquisition of the bond by the taxpayer”.
+Subsec. (a)(4)(B). Pub. L. 103–66, §13206(b)(2)(B)(ii), inserted before period at end "or, in the case of a tax-exempt obligation, the aggregate amount of the original issue discount which accrued in the manner provided by section 1272(a) (determined without regard to paragraph (7) thereof) during periods before the acquisition of the bond by the taxpayer".
 
-Subsec. (b)(1). Pub. L. 103–66, §13206(b)(2)(B)(i), substituted “sections 103, 871(a),” for “sections 871(a)” in last sentence.
+Subsec. (b)(1). Pub. L. 103–66, §13206(b)(2)(B)(i), substituted "sections 103, 871(a)," for "sections 871(a)" in last sentence.
 
-<b>1988</b>—Subsec. (a)(4)(B). Pub. L. 100–647, §1006(u)(2), substituted “section 1272(a)(7)” for “section 1272(a)(6)”.
+<b>1988</b>—Subsec. (a)(4)(B). Pub. L. 100–647, §1006(u)(2), substituted "section 1272(a)(7)" for "section 1272(a)(6)".
 
 Subsec. (b)(4). Pub. L. 100–647, §1018(c)(3), added par. (4).
 
-Subsec. (c). Pub. L. 100–647, §1018(c)(2), inserted before period at end “, including regulations providing proper adjustments in the case of a bond the principal of which may be paid in 2 or more payments”.
+Subsec. (c). Pub. L. 100–647, §1018(c)(2), inserted before period at end ", including regulations providing proper adjustments in the case of a bond the principal of which may be paid in 2 or more payments".
 
-<b>1986</b>—Subsec. (a)(1)(B)(i). Pub. L. 99–514, §1878(a), amended Pub. L. 98–369, §1001(b), by adding a par. (24) which contained directory language substituting “6 months” for “1 year” in cl. (i). See 1984 Amendment note below.
+<b>1986</b>—Subsec. (a)(1)(B)(i). Pub. L. 99–514, §1878(a), amended Pub. L. 98–369, §1001(b), by adding a par. (24) which contained directory language substituting "6 months" for "1 year" in cl. (i). See 1984 Amendment note below.
 
 Subsec. (a)(1)(C). Pub. L. 99–514, §1803(a)(6), added subpar. (C).
 
-Subsec. (a)(4). Pub. L. 99–514, §1899A(32), substituted “means” for “means of” in introductory provisions.
+Subsec. (a)(4). Pub. L. 99–514, §1899A(32), substituted "means" for "means of" in introductory provisions.
 
-<b>1984</b>—Subsec. (a)(1)(B)(i). Pub. L. 98–369, §1001(b)(24), as added by Pub. L. 99–514, §1878(a), substituted “6 months” for “1 year”.
+<b>1984</b>—Subsec. (a)(1)(B)(i). Pub. L. 98–369, §1001(b)(24), as added by Pub. L. 99–514, §1878(a), substituted "6 months" for "1 year".
 
 #### Effective Date of 1993 Amendment
 

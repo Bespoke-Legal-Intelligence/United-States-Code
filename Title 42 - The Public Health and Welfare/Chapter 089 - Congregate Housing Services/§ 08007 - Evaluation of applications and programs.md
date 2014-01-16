@@ -32,7 +32,7 @@ In evaluating programs receiving assistance under this chapter, the Secretary sh
 
 &emsp;(C) assessing existing and potential financial resources at the Federal, State, and local levels for the support of congregate housing services; and
 
-&emsp;(D) making legislative recommendations as to the feasibility of permitting State housing agencies and other appropriate State agenciesto participate and operate the program on a matching grant basis.
+&emsp;(D) making legislative recommendations as to the feasibility of permitting State housing agencies and other appropriate State agencies to participate and operate the program on a matching grant basis.
 
 (2) The Secretary shall submit the report to the Congress not later than September 30, 1988.
 

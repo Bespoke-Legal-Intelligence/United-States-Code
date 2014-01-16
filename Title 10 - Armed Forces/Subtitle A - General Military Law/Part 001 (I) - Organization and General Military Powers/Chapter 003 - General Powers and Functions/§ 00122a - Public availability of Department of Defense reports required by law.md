@@ -2,11 +2,11 @@
 
 (a)
 
-In General.—The Secretary of Defense shall ensure that each report described in subsection (b) is <sup>1</sup>
+In General.—To the maximum extent practicable, on or after the date on which each report described in subsection (b) is submitted to Congress, the Secretary of Defense, acting through the Office of the Assistant Secretary of Defense for Public Affairs, shall ensure that the report is made available to the public by—
 
-&emsp;(1) made available to the public, upon request submitted on or after the date on which such report is submitted to Congress, through the Office of the Assistant Secretary of Defense for Public Affairs; and
+&emsp;(1) posting the report on a publicly accessible Internet website of the Department of Defense; and
 
-&emsp;(2) to the maximum extent practicable, transmitted in an electronic format.
+&emsp;(2) upon request, transmitting the report by other means, as long as such transmission is at no cost to the Department.
 
 (b)
 
@@ -18,19 +18,27 @@ Covered Reports.—(1) Except as provided in paragraph (2), a report described i
 
 &emsp;(B) proprietary information;
 
-&emsp;(C) information that is exempt from disclosure under section 552 of title 5 (commonly referred to as the “Freedom of Information Act”); or
+&emsp;(C) information that is exempt from disclosure under section 552 of title 5 (commonly referred to as the "Freedom of Information Act"); or
 
 &emsp;(D) any other type of information that the Secretary of Defense determines should not be made available to the public in the interest of national security.
 
-(Added Pub. L. 111–383, div. A, title X, §1061(a)(1), Jan. 7, 2011, 124 Stat. 4362; amended Pub. L. 112–81, div. A, title X, §1068, Dec. 31, 2011, 125 Stat. 1589.)
+(Added Pub. L. 111–383, div. A, title X, §1061(a)(1), Jan. 7, 2011, 124 Stat. 4362; amended Pub. L. 112–81, div. A, title X, §1068, Dec. 31, 2011, 125 Stat. 1589; Pub. L. 113–66, div. A, title X, §1081(a), Dec. 26, 2013, 127 Stat. 871.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–81 substituted pars. (1) and (2) for “made available to the public, upon request submitted on or after the date on which such report is submitted to Congress, through the Office of the Assistant Secretary of Defense for Public Affairs.”
+<b>2013</b>—Subsec. (a). Pub. L. 113–66 amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary of Defense shall ensure that each report described in subsection (b) is
+
+&emsp;"(1) made available to the public, upon request submitted on or after the date on which such report is submitted to Congress, through the Office of the Assistant Secretary of Defense for Public Affairs; and
+
+&emsp;"(2) to the maximum extent practicable, transmitted in an electronic format."
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–81 substituted pars. (1) and (2) for "made available to the public, upon request submitted on or after the date on which such report is submitted to Congress, through the Office of the Assistant Secretary of Defense for Public Affairs."
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 113–66, div. A, title X, §1081(b), Dec. 26, 2013, 127 Stat. 871, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to reports submitted to Congress after the date of the enactment of this Act \[Dec. 26, 2013\]."
 
 #### Effective Date
 
-Pub. L. 111–383, div. A, title X, §1061(b), Jan. 7, 2011, 124 Stat. 4362, provided that: “Section 122a of title 10,United States Code (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act \[Jan. 7, 2011\], and shall apply with respect to reports that are required by law to be submitted to Congress on or after that date.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
+Pub. L. 111–383, div. A, title X, §1061(b), Jan. 7, 2011, 124 Stat. 4362, provided that: "Section 122a of title 10, United States Code (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act \[Jan. 7, 2011\], and shall apply with respect to reports that are required by law to be submitted to Congress on or after that date."
 

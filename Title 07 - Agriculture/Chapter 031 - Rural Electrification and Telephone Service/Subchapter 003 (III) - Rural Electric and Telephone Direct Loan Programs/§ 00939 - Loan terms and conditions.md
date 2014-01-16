@@ -6,9 +6,9 @@ Loans made from or insured through the fund shall be for the same purposes and o
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 struck out subsec. (a) designation and heading “In general” and heading and text of subsec. (b). Prior to amendment, text read as follows: “The term of any telephone loan made under this subchapter shall be determined by the borrower at the time the loan application is submitted.”
+<b>1996</b>—Pub. L. 104–127 struck out subsec. (a) designation and heading "In general" and heading and text of subsec. (b). Prior to amendment, text read as follows: "The term of any telephone loan made under this subchapter shall be determined by the borrower at the time the loan application is submitted."
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–129 inserted at end “The preceding sentence shall not be construed to make section 948(b)(2) or 950b of this title applicable to this subchapter.”
+<b>1993</b>—Subsec. (a). Pub. L. 103–129 inserted at end "The preceding sentence shall not be construed to make section 948(b)(2) or 950b of this title applicable to this subchapter."
 
 <b>1990</b>—Pub. L. 101–624 designated existing provisions as subsec. (a) and added subsec. (b).
 

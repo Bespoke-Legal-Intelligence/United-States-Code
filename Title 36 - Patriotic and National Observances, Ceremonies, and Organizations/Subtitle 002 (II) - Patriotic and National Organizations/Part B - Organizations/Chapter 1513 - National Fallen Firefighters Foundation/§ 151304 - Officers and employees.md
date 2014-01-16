@@ -44,7 +44,7 @@ Oct. 26, 1992, Pub. L. 102–522, title II, §203(g)(1)(A), (2), (h), 106 Stat. 
 
 Subsection (a) is substituted for the source provisions for clarity.
 
-In subsection (b)(3), the words “relating to classification and General Schedule pay rates” are omitted as unnecessary.
+In subsection (b)(3), the words "relating to classification and General Schedule pay rates" are omitted as unnecessary.
 
 #### References in Text
 
@@ -52,9 +52,9 @@ The General Schedule, referred to in subsec. (b)(3), is set out under section 53
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(3). Pub. L. 108–169 inserted “15 percent above” after “more than”.
+<b>2003</b>—Subsec. (b)(3). Pub. L. 108–169 inserted "15 percent above" after "more than".
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–503, §113(c)(1), struck out “not more than 2” after “appoint”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–503, §113(c)(1), struck out "not more than 2" after "appoint".
 
-Subsec. (b)(1). Pub. L. 106–503, §113(c)(2), substituted “shall not be considered” for “are not”.
+Subsec. (b)(1). Pub. L. 106–503, §113(c)(2), substituted "shall not be considered" for "are not".
 

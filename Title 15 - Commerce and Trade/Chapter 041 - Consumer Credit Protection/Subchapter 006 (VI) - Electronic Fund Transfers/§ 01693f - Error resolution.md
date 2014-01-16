@@ -60,7 +60,7 @@ Section 1693m of this title, referred to in subsec. (e), was in the original a r
 
 #### Amendments
 
-<b>2010</b>—Subsec. (f)(7). Pub. L. 111–203 substituted “Bureau” for “Board”.
+<b>2010</b>—Subsec. (f)(7). Pub. L. 111–203 substituted "Bureau" for "Board".
 
 #### Effective Date of 2010 Amendment
 

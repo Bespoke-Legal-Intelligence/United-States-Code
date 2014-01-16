@@ -4,7 +4,7 @@
 
 (b) In order to effect a transition to the advance funding method of timing appropriation action, subsection (a) of this section shall apply notwithstanding that its initial application will result in the enactment in the same year (whether in the same appropriation Act or otherwise) of two separate appropriations, one for the then current fiscal year and one for the succeeding fiscal year.
 
-(Pub. L. 89–73, title II, §209, formerly §210, as added Pub. L. 93–29, title II, §201(c), May 3, 1973,87 Stat. 36; renumbered §209 and amended Pub. L. 97–115, §2(e)(2), (i), Dec. 29, 1981, 95 Stat. 1596.)
+(Pub. L. 89–73, title II, §209, formerly §210, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 36; renumbered §209 and amended Pub. L. 97–115, §2(e)(2), (i), Dec. 29, 1981, 95 Stat. 1596.)
 
 #### Prior Provisions
 
@@ -12,5 +12,5 @@ A prior section 209 of Pub. L. 89–73 was renumbered section 208 and is classif
 
 #### Amendments
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–115, §2(i), substituted “subsection (a) of this section shall apply” for “the amendment made by subsection (a) of this section shall apply”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–115, §2(i), substituted "subsection (a) of this section shall apply" for "the amendment made by subsection (a) of this section shall apply".
 

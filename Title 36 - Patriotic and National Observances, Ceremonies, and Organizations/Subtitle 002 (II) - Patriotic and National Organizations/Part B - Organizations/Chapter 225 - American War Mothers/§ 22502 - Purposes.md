@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 Feb. 24, 1925, ch. 303, §3, 43 Stat. 967.
 
-In clauses (5) and (6), the words “World War I” are substituted for “the World War” for clarity.
+In clauses (5) and (6), the words "World War I" are substituted for "the World War" for clarity.
 

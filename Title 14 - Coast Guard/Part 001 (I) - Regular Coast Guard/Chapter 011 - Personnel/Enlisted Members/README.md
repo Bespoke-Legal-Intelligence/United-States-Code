@@ -2,7 +2,7 @@
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–557, §15(a)(4)(E)(i), Oct. 30, 1984, 98 Stat. 2866, substituted “MEMBERS” for “MEN” in heading.
+<b>1984</b>—Pub. L. 98–557, §15(a)(4)(E)(i), Oct. 30, 1984, 98 Stat. 2866, substituted "MEMBERS" for "MEN" in heading.
 
 
 ---
@@ -13,8 +13,8 @@
 - [&sect; 00351 - Enlistments; term, grade](%C2%A7%2000351%20-%20Enlistments%3B%20term%2C%20grade.md)
 - [&sect; 00352 - Promotion](%C2%A7%2000352%20-%20Promotion.md)
 - [&sect; 00353 - Compulsory retirement at age of sixty-two](%C2%A7%2000353%20-%20Compulsory%20retirement%20at%20age%20of%20sixty-two.md)
-- [&sect; 00354 - Voluntary retirement after thirty years&#8217; service](%C2%A7%2000354%20-%20Voluntary%20retirement%20after%20thirty%20years%E2%80%99%20service.md)
-- [&sect; 00355 - Voluntary retirement after twenty years&#8217; service](%C2%A7%2000355%20-%20Voluntary%20retirement%20after%20twenty%20years%E2%80%99%20service.md)
+- [&sect; 00354 - Voluntary retirement after thirty years' service](%C2%A7%2000354%20-%20Voluntary%20retirement%20after%20thirty%20years%27%20service.md)
+- [&sect; 00355 - Voluntary retirement after twenty years' service](%C2%A7%2000355%20-%20Voluntary%20retirement%20after%20twenty%20years%27%20service.md)
 - [&sect; 00356 - Repealed. Aug. 3, 1950, ch. 536, &sect;36, 64 Stat. 408](%C2%A7%2000356%20-%20Repealed.%20Aug.%203%2C%201950%2C%20ch.%20536%2C%20%C2%A736%2C%2064%20Stat.%20408.md)
 - [&sect; 00357 - Involuntary retirement of enlisted members](%C2%A7%2000357%20-%20Involuntary%20retirement%20of%20enlisted%20members.md)
 - [&sect; 00358 - Repealed. Pub. L. 88&#8211;114, &sect;1(2), Sept. 6, 1963, 77 Stat. 144](%C2%A7%2000358%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93114%2C%20%C2%A71%282%29%2C%20Sept.%206%2C%201963%2C%2077%20Stat.%20144.md)

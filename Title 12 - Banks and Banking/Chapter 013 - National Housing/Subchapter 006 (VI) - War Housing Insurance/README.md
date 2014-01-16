@@ -2,7 +2,7 @@
 
 #### Amendments
 
-<b>1942</b>—Act May 26, 1942, ch. 319, §14(a), 56 Stat. 305, amended subchapter heading, substituting “WAR” for “DEFENSE”.
+<b>1942</b>—Act May 26, 1942, ch. 319, §14(a), 56 Stat. 305, amended subchapter heading, substituting "WAR" for "DEFENSE".
 
 
 ---

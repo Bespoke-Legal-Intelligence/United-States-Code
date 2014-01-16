@@ -40,15 +40,17 @@ Unless otherwise agreed to by the Indian tribe, no provision of division B (exce
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (a), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
+
+This subchapter, referred to in subsec. (g), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 Reorganization Plan numbered 14, of 1950, referred to in subsec. (g), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
-In subsec. (g), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494)”, “sections 3141–3144, 3146, and 3147 of title 40 are” substituted for “the Act of March 3, 1931, is”, and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (48 Stat. 948)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494)", "sections 3141–3144, 3146, and 3147 of title 40 are" substituted for "the Act of March 3, 1931, is", and "section 3145 of title 40" substituted for "section 2 of the Act of June 13, 1934 (48 Stat. 948)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-In subsec. (h), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement Policy Act” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (h), "division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41" substituted for "the Office of Federal Procurement Policy Act" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

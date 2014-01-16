@@ -2,11 +2,11 @@
 
 #### (a) Produced
 
-For purposes of this part, the term “produced” includes created, fabricated, manufactured, extracted, processed, cured, or aged.
+For purposes of this part, the term "produced" includes created, fabricated, manufactured, extracted, processed, cured, or aged.
 
 #### (b) Trade or business within the United States
 
-For purposes of this part, part II, and chapter 3, the term “trade or business within the United States” includes the performance of personal services within the United States at any time within the taxable year, but does not include—
+For purposes of this part, part II, and chapter 3, the term "trade or business within the United States" includes the performance of personal services within the United States at any time within the taxable year, but does not include—
 
 #### (1) Performance of personal services for foreign employer
 
@@ -140,7 +140,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 #### (3) Trade or service receivable
 
-&emsp;For purposes of this subsection, the term “trade or service receivable” means any account receivable or evidence of indebtedness arising out of—
+&emsp;For purposes of this subsection, the term "trade or service receivable" means any account receivable or evidence of indebtedness arising out of—
 
 &emsp;&emsp;(A) the disposition by a related person of property described in section 1221(a)(1), or
 
@@ -148,7 +148,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 #### (4) Related person
 
-&emsp;For purposes of this subsection, the term “related person” means—
+&emsp;For purposes of this subsection, the term "related person" means—
 
 &emsp;&emsp;(A) any person who is a related person (within the meaning of section 267(b)), and
 
@@ -222,7 +222,7 @@ For purposes of this subchapter—
 
 #### (B) Nonaffiliated 10-percent owned corporation
 
-&emsp;&emsp;For purposes of this paragraph, the term “nonaffiliated 10-percent owned corporation” means any corporation if—
+&emsp;&emsp;For purposes of this paragraph, the term "nonaffiliated 10-percent owned corporation" means any corporation if—
 
 &emsp;&emsp;&emsp;(i) such corporation is not included in the taxpayer's affiliated group, and
 
@@ -252,7 +252,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “affiliated group” has the meaning given such term by section 1504 (determined without regard to paragraph (4) of section 1504(b)). Notwithstanding the preceding sentence, a foreign corporation shall be treated as a member of the affiliated group if—
+&emsp;&emsp;Except as provided in subparagraph (B), the term "affiliated group" has the meaning given such term by section 1504 (determined without regard to paragraph (4) of section 1504(b)). Notwithstanding the preceding sentence, a foreign corporation shall be treated as a member of the affiliated group if—
 
 &emsp;&emsp;&emsp;(i) more than 50 percent of the gross income of such foreign corporation for the taxable year is effectively connected with the conduct of a trade or business within the United States, and
 
@@ -324,7 +324,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (C) Worldwide affiliated group
 
-&emsp;&emsp;For purposes of this paragraph, the term “worldwide affiliated group” means a group consisting of—
+&emsp;&emsp;For purposes of this paragraph, the term "worldwide affiliated group" means a group consisting of—
 
 &emsp;&emsp;&emsp;(i) the includible members of an affiliated group (as defined in section 1504(a), determined without regard to paragraphs (2) and (4) of section 1504(b)), and
 
@@ -332,7 +332,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (2) Allocation and apportionment of other expenses
 
-&emsp;Expenses other than interest which are not directly allocable or apportioned to any specific income producing activity shall be allocated and apportioned as if all members of the affiliated group were a single corporation. For purposes of the preceding sentence, the term “affiliated group” has the meaning given such term by section 1504 (determined without regard to paragraph (4) of section 1504(b)).
+&emsp;Expenses other than interest which are not directly allocable or apportioned to any specific income producing activity shall be allocated and apportioned as if all members of the affiliated group were a single corporation. For purposes of the preceding sentence, the term "affiliated group" has the meaning given such term by section 1504 (determined without regard to paragraph (4) of section 1504(b)).
 
 #### (3) Treatment of tax-exempt assets; basis of stock in nonaffiliated 10-percent owned corporations
 
@@ -380,7 +380,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (B) Financial corporation
 
-&emsp;&emsp;For purposes of this paragraph, the term “financial corporation” means any corporation if at least 80 percent of its gross income is income described in section 904(d)(2)(D)(ii) and the regulations thereunder which is derived from transactions with persons who are not related (within the meaning of section 267(b) or 707(b)(1)) to the corporation. For purposes of the preceding sentence, there shall be disregarded any item of income or gain from a transaction or series of transactions a principal purpose of which is the qualification of any corporation as a financial corporation.
+&emsp;&emsp;For purposes of this paragraph, the term "financial corporation" means any corporation if at least 80 percent of its gross income is income described in section 904(d)(2)(D)(ii) and the regulations thereunder which is derived from transactions with persons who are not related (within the meaning of section 267(b) or 707(b)(1)) to the corporation. For purposes of the preceding sentence, there shall be disregarded any item of income or gain from a transaction or series of transactions a principal purpose of which is the qualification of any corporation as a financial corporation.
 
 #### (C) Anti-abuse rules
 
@@ -406,11 +406,11 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (i) Pre-election worldwide affiliated group
 
-&emsp;&emsp;&emsp;The term “pre-election worldwide affiliated group” means, with respect to a corporation, the worldwide affiliated group of which such corporation would (but for an election under this paragraph) be a member for purposes of applying paragraph (1).
+&emsp;&emsp;&emsp;The term "pre-election worldwide affiliated group" means, with respect to a corporation, the worldwide affiliated group of which such corporation would (but for an election under this paragraph) be a member for purposes of applying paragraph (1).
 
 #### (ii) Electing financial institution group
 
-&emsp;&emsp;&emsp;The term “electing financial institution group” means the group of corporations to which this subsection applies separately by reason of the application of paragraph (4)(A) and which includes financial corporations by reason of an election under subparagraph (A).
+&emsp;&emsp;&emsp;The term "electing financial institution group" means the group of corporations to which this subsection applies separately by reason of the application of paragraph (4)(A) and which includes financial corporations by reason of an election under subparagraph (A).
 
 #### (F) Regulations
 
@@ -444,7 +444,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (2) Qualified research and experimental expenditures
 
-&emsp;For purposes of this section, the term “qualified research and experimental expenditures” means amounts which are research and experimental expenditures within the meaning of section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
+&emsp;For purposes of this section, the term "qualified research and experimental expenditures" means amounts which are research and experimental expenditures within the meaning of section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
 
 #### (3) Special rules for expenditures attributable to activities conducted in space, etc.
 
@@ -504,29 +504,29 @@ The date of the enactment of this paragraph, referred to in subsec. (f)(5)(C)(i)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(4)(B)(ii). Pub. L. 111–240 substituted “dividends, interest, or amounts received for the provision of guarantees of indebtedness” for “dividends or interest”.
+<b>2010</b>—Subsec. (c)(4)(B)(ii). Pub. L. 111–240 substituted "dividends, interest, or amounts received for the provision of guarantees of indebtedness" for "dividends or interest".
 
-Subsec. (e)(5)(A). Pub. L. 111–226 inserted at end “Notwithstanding the preceding sentence, a foreign corporation shall be treated as a member of the affiliated group if—” and added cls. (i) and (ii).
+Subsec. (e)(5)(A). Pub. L. 111–226 inserted at end "Notwithstanding the preceding sentence, a foreign corporation shall be treated as a member of the affiliated group if—" and added cls. (i) and (ii).
 
-Subsec. (f)(5)(D), (6). Pub. L. 111–147 substituted “December 31, 2020” for “December 31, 2017”.
+Subsec. (f)(5)(D), (6). Pub. L. 111–147 substituted "December 31, 2020" for "December 31, 2017".
 
-<b>2009</b>—Subsec. (f)(5)(D), (6). Pub. L. 111–92, §15(a), substituted “December 31, 2017” for “December 31, 2010”.
+<b>2009</b>—Subsec. (f)(5)(D), (6). Pub. L. 111–92, §15(a), substituted "December 31, 2017" for "December 31, 2010".
 
-Subsec. (f)(7). Pub. L. 111–92, §15(b), struck out par. (7). Text read as follows: “In the case of the first taxable year to which this subsection applies, the increase (if any) in the amount of the interest expense allocable to sources within the United States by reason of the application of this subsection shall be 30 percent of the amount of such increase determined without regard to this paragraph.”
+Subsec. (f)(7). Pub. L. 111–92, §15(b), struck out par. (7). Text read as follows: "In the case of the first taxable year to which this subsection applies, the increase (if any) in the amount of the interest expense allocable to sources within the United States by reason of the application of this subsection shall be 30 percent of the amount of such increase determined without regard to this paragraph."
 
-<b>2008</b>—Subsec. (f)(5)(D), (6). Pub. L. 110–289, §3093(a), substituted “December 31, 2010” for “December 31, 2008”.
+<b>2008</b>—Subsec. (f)(5)(D), (6). Pub. L. 110–289, §3093(a), substituted "December 31, 2010" for "December 31, 2008".
 
 Subsec. (f)(7). Pub. L. 110–289, §3093(b), added par. (7).
 
 <b>2004</b>—Subsec. (c)(4)(B). Pub. L. 108–357, §894(a), added concluding provisions.
 
-Subsec. (d)(2). Pub. L. 108–357, §413(c)(12), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “Part III of subchapter G of this chapter (relating to foreign personal holding companies).”
+Subsec. (d)(2). Pub. L. 108–357, §413(c)(12), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: "Part III of subchapter G of this chapter (relating to foreign personal holding companies)."
 
-Subsec. (d)(5)(A)(i). Pub. L. 108–357, §403(b)(6), substituted “(C)(iii)(II)” for “(C)(iii)(III)”.
+Subsec. (d)(5)(A)(i). Pub. L. 108–357, §403(b)(6), substituted "(C)(iii)(II)" for "(C)(iii)(III)".
 
-Subsec. (e)(3). Pub. L. 108–357, §101(b)(6), struck out “(A) In general” before “For purposes” and struck out heading and text of subpar. (B). Text read as follows: “For purposes of allocating and apportioning any interest expense, there shall not be taken into account any qualifying foreign trade property (as defined in section 943(a)) which is held by the taxpayer for lease or rental in the ordinary course of trade or business for use by the lessee outside the United States (as defined in section 943(b)(2)).”
+Subsec. (e)(3). Pub. L. 108–357, §101(b)(6), struck out "(A) In general" before "For purposes" and struck out heading and text of subpar. (B). Text read as follows: "For purposes of allocating and apportioning any interest expense, there shall not be taken into account any qualifying foreign trade property (as defined in section 943(a)) which is held by the taxpayer for lease or rental in the ordinary course of trade or business for use by the lessee outside the United States (as defined in section 943(b)(2))."
 
-Subsec. (e)(7)(B). Pub. L. 108–357, §401(b)(1), inserted “and in other circumstances where such allocation would be appropriate to carry out the purposes of this subsection” before comma at end.
+Subsec. (e)(7)(B). Pub. L. 108–357, §401(b)(1), inserted "and in other circumstances where such allocation would be appropriate to carry out the purposes of this subsection" before comma at end.
 
 Subsec. (e)(7)(F), (G). Pub. L. 108–357, §401(b)(2), added subpar. (F) and redesignated former subpar. (F) as (G).
 
@@ -534,117 +534,117 @@ Subsecs. (f), (g). Pub. L. 108–357, §401(a), added subsec. (f) and redesignat
 
 <b>2000</b>—Subsec. (e)(3). Pub. L. 106–519 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-<b>1999</b>—Subsecs. (c)(4)(B)(iii), (d)(3)(A), (6)(A). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
+<b>1999</b>—Subsecs. (c)(4)(B)(iii), (d)(3)(A), (6)(A). Pub. L. 106–170 substituted "section 1221(a)(1)" for "section 1221(1)".
 
-<b>1997</b>—Subsec. (b)(2)(A)(ii). Pub. L. 105–34 struck out “, or in the case of a corporation (other than a corporation which is, or but for section 542(c)(7), 542(c)(10), or 543(b)(1)(C) would be, a personal holding company) the principal business of which is trading in stocks or securities for its own account, if its principal office is in the United States” after “dealer in stocks or securities”.
+<b>1997</b>—Subsec. (b)(2)(A)(ii). Pub. L. 105–34 struck out ", or in the case of a corporation (other than a corporation which is, or but for section 542(c)(7), 542(c)(10), or 543(b)(1)(C) would be, a personal holding company) the principal business of which is trading in stocks or securities for its own account, if its principal office is in the United States" after "dealer in stocks or securities".
 
-<b>1993</b>—Subsec. (f)(1)(B). Pub. L. 103–66, §13234(a), substituted “50 percent” for “64 percent” in cls. (i) and (ii).
+<b>1993</b>—Subsec. (f)(1)(B). Pub. L. 103–66, §13234(a), substituted "50 percent" for "64 percent" in cls. (i) and (ii).
 
-Subsec. (f)(4)(D). Pub. L. 103–66, §13234(b)(2), substituted “subparagraph (B) or (C)” for “subparagraph (C)”.
+Subsec. (f)(4)(D). Pub. L. 103–66, §13234(b)(2), substituted "subparagraph (B) or (C)" for "subparagraph (C)".
 
 Subsec. (f)(5), (6). Pub. L. 103–66, §13234(b)(1), added pars. (5) and (6) and struck out heading and text of former par. (5). Text read as follows:
 
-“(A)
+"(A)
 
 In general.—This subsection shall apply to the taxpayer's first 3 taxable years beginning after August 1, 1989, and on or before August 1, 1992.
 
-“(B)
+"(B)
 
-Reduction.—Notwithstanding subparagraph (A), in the case of the taxpayer's first taxable year beginning after August 1, 1991, this subsection shall only apply to qualified research and experimental expenditures incurred during the first 6 months of such taxable year.”
+Reduction.—Notwithstanding subparagraph (A), in the case of the taxpayer's first taxable year beginning after August 1, 1991, this subsection shall only apply to qualified research and experimental expenditures incurred during the first 6 months of such taxable year."
 
-<b>1991</b>—Subsec. (f)(5). Pub. L. 102–227 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “This subsection shall apply to the taxpayer's first 2 taxable years beginning after August 1, 1989, and on or before August 1, 1991.”
+<b>1991</b>—Subsec. (f)(5). Pub. L. 102–227 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "This subsection shall apply to the taxpayer's first 2 taxable years beginning after August 1, 1989, and on or before August 1, 1991."
 
-<b>1990</b>—Subsec. (f)(5). Pub. L. 101–508 substituted “Years” for “Year” in heading and amended text generally. Prior to amendment, text read as follows:
+<b>1990</b>—Subsec. (f)(5). Pub. L. 101–508 substituted "Years" for "Year" in heading and amended text generally. Prior to amendment, text read as follows:
 
-“(A)
+"(A)
 
 In general.—Except as provided in this paragraph, this subsection shall apply to the taxpayer's first taxable year beginning after August 1, 1989, and before August 2, 1990.
 
-“(B)
+"(B)
 
 Reduction.—Notwithstanding subparagraph (A), this subsection shall only apply to that portion of the qualified research and experimental expenditures for the taxable year referred to in subparagraph (A) which bears the same ratio to the total amount of such expenditures as—
 
-&emsp;“(i) the lesser of 9 months or the number of months in the taxable year, bears to
+&emsp;"(i) the lesser of 9 months or the number of months in the taxable year, bears to
 
-&emsp;“(ii) the number of months in the taxable year.”
+&emsp;"(ii) the number of months in the taxable year."
 
 <b>1989</b>—Subsec. (f). Pub. L. 101–239 added subsec. (f).
 
-<b>1988</b>—Subsec. (b)(2)(A)(ii). Pub. L. 100–647, §1012(p)(30), substituted “section 542(c)(7), 542(c)(10),” for “section 542(c)(7)”.
+<b>1988</b>—Subsec. (b)(2)(A)(ii). Pub. L. 100–647, §1012(p)(30), substituted "section 542(c)(7), 542(c)(10)," for "section 542(c)(7)".
 
-Subsec. (c)(2). Pub. L. 100–647, §1012(g)(5), struck out at end “In applying this paragraph and paragraph (4), interest referred to in section 861(a)(1)(A) shall be considered income from sources within the United States.”
+Subsec. (c)(2). Pub. L. 100–647, §1012(g)(5), struck out at end "In applying this paragraph and paragraph (4), interest referred to in section 861(a)(1)(A) shall be considered income from sources within the United States."
 
-Subsec. (c)(4)(B)(i), (ii). Pub. L. 100–647, §1012(d)(10), struck out “(including any gain or loss realized on the sale or exchange of such property)” after “section 862(a)(4)” in cl. (i) and “, or gain or loss from the sale or exchange of stock or notes, bonds, or other evidences of indebtedness” after “dividends or interest” in cl. (ii).
+Subsec. (c)(4)(B)(i), (ii). Pub. L. 100–647, §1012(d)(10), struck out "(including any gain or loss realized on the sale or exchange of such property)" after "section 862(a)(4)" in cl. (i) and ", or gain or loss from the sale or exchange of stock or notes, bonds, or other evidences of indebtedness" after "dividends or interest" in cl. (ii).
 
 Subsec. (c)(4)(B)(iii). Pub. L. 100–647, §1012(d)(7), added cl. (iii).
 
-Subsec. (c)(6). Pub. L. 100–647, §1012(r)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “For purposes of this title, any income or gain of a nonresident alien individual or a foreign corporation for any taxable year which is attributable to a sale or exchange of property or the performance of services (or any other transaction) in any other taxable year shall be treated as effectively connected with the conduct of a trade or business within the United States if it would have been so treated if such income or gain were taken into account in such other taxable year.”
+Subsec. (c)(6). Pub. L. 100–647, §1012(r)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "For purposes of this title, any income or gain of a nonresident alien individual or a foreign corporation for any taxable year which is attributable to a sale or exchange of property or the performance of services (or any other transaction) in any other taxable year shall be treated as effectively connected with the conduct of a trade or business within the United States if it would have been so treated if such income or gain were taken into account in such other taxable year."
 
-Subsec. (c)(7). Pub. L. 100–647, §1012(r)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “For purposes of this title, if any property ceases to be used or held for use in connection with the conduct of a trade or business within the United States, the determination of whether any income or gain attributable to a sale or exchange of such property occurring within 10 years after such cessation is effectively connected with the conduct of a trade or business within the United States shall be made as if such sale or exchange occurred immediately before such cessation.”
+Subsec. (c)(7). Pub. L. 100–647, §1012(r)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "For purposes of this title, if any property ceases to be used or held for use in connection with the conduct of a trade or business within the United States, the determination of whether any income or gain attributable to a sale or exchange of such property occurring within 10 years after such cessation is effectively connected with the conduct of a trade or business within the United States shall be made as if such sale or exchange occurred immediately before such cessation."
 
-Subsec. (d)(5)(A)(i). Pub. L. 100–647, §1012(a)(1)(B), substituted “(C)(iii)(III)” for “(C)(iii)”.
+Subsec. (d)(5)(A)(i). Pub. L. 100–647, §1012(a)(1)(B), substituted "(C)(iii)(III)" for "(C)(iii)".
 
-Subsec. (e). Pub. L. 100–647, §1012(h)(6)(B), struck out “(except as provided in regulations)” after “subchapter”.
+Subsec. (e). Pub. L. 100–647, §1012(h)(6)(B), struck out "(except as provided in regulations)" after "subchapter".
 
-Subsec. (e)(1). Pub. L. 100–647, §1012(h)(2)(A), struck out “from sources outside the United States” after “affiliated group”.
+Subsec. (e)(1). Pub. L. 100–647, §1012(h)(2)(A), struck out "from sources outside the United States" after "affiliated group".
 
-Subsec. (e)(3). Pub. L. 100–647, §1012(h)(3), inserted sentence at end and struck out former last sentence which read as follows: “A similar rule shall apply in the case of any dividend (other than a qualifying dividend as defined in section 243(b)) for which a deduction is allowable under section 243 or 245(a) and any stock the dividends on which would be so deductible and would not be qualifying dividends (as so defined).”
+Subsec. (e)(3). Pub. L. 100–647, §1012(h)(3), inserted sentence at end and struck out former last sentence which read as follows: "A similar rule shall apply in the case of any dividend (other than a qualifying dividend as defined in section 243(b)) for which a deduction is allowable under section 243 or 245(a) and any stock the dividends on which would be so deductible and would not be qualifying dividends (as so defined)."
 
-Subsec. (e)(4). Pub. L. 100–647, §1012(h)(1), substituted “nonaffiliated 10-percent owned corporations” for “certain corporations” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of allocating and apportioning expenses on the basis of assets, the adjusted basis of any asset which is stock in a corporation which is not included in the affiliated group and in which members of the affiliated group own 10 percent or more of the total combined voting power of all classes of stock entitled to vote in such corporation shall be—
+Subsec. (e)(4). Pub. L. 100–647, §1012(h)(1), substituted "nonaffiliated 10-percent owned corporations" for "certain corporations" in heading and amended text generally. Prior to amendment, text read as follows: "For purposes of allocating and apportioning expenses on the basis of assets, the adjusted basis of any asset which is stock in a corporation which is not included in the affiliated group and in which members of the affiliated group own 10 percent or more of the total combined voting power of all classes of stock entitled to vote in such corporation shall be—
 
-&emsp;“(A) increased by the amount of the earnings and profits of such corporation attributable to such stock and accumulated during the period the taxpayer held such stock, or
+&emsp;"(A) increased by the amount of the earnings and profits of such corporation attributable to such stock and accumulated during the period the taxpayer held such stock, or
 
-&emsp;“(B) reduced (but not below zero) by any deficit in earnings and profits of such corporation attributable to such stock for such period.”
+&emsp;"(B) reduced (but not below zero) by any deficit in earnings and profits of such corporation attributable to such stock for such period."
 
-Subsec. (e)(5)(B). Pub. L. 100–647, §1012(h)(4)(B), inserted at end “This subparagraph shall not apply for purposes of paragraph (6).”
+Subsec. (e)(5)(B). Pub. L. 100–647, §1012(h)(4)(B), inserted at end "This subparagraph shall not apply for purposes of paragraph (6)."
 
 Subsec. (e)(5)(D). Pub. L. 100–647, §1012(h)(4)(A), added subpar. (D).
 
-Subsec. (e)(6). Pub. L. 100–647, §1012(h)(5), substituted “directly allocable or apportioned” for “directly allocable and apportioned”.
+Subsec. (e)(6). Pub. L. 100–647, §1012(h)(5), substituted "directly allocable or apportioned" for "directly allocable and apportioned".
 
 Subsec. (e)(7)(D) to (F). Pub. L. 100–647, §1012(h)(6)(A), added subpars. (D) to (F).
 
-<b>1987</b>—Subsec. (c)(4)(C). Pub. L. 100–203 inserted “or part II” after “part I”.
+<b>1987</b>—Subsec. (c)(4)(C). Pub. L. 100–203 inserted "or part II" after "part I".
 
-<b>1986</b>—Pub. L. 99–514, §1215(b)(1), inserted “and special rules” in section catchline.
+<b>1986</b>—Pub. L. 99–514, §1215(b)(1), inserted "and special rules" in section catchline.
 
 Subsec. (c)(1)(A). Pub. L. 99–514, §1242(b)(1), inserted reference to pars. (6) and (7).
 
-Subsec. (c)(1)(B). Pub. L. 99–514, §1242(b)(2), inserted “paragraph (6) or (7) or in”.
+Subsec. (c)(1)(B). Pub. L. 99–514, §1242(b)(2), inserted "paragraph (6) or (7) or in".
 
-Subsec. (c)(2). Pub. L. 99–514, §1899A(21), inserted a comma between “section 871(h)” and “section 881(a)”.
+Subsec. (c)(2). Pub. L. 99–514, §1899A(21), inserted a comma between "section 871(h)" and "section 881(a)".
 
-Subsec. (c)(4)(B)(iii). Pub. L. 99–514, §1211(b)(2), struck out cl. (iii), which read as follows: “is derived from the sale or exchange (without the United States) through such office or other fixed place of business of personal property described in section 1221(1), except that this clause shall not apply if the property is sold or exchanged for use, consumption, or disposition outside the United States and an office or other fixed place of business of the taxpayer outside the United States participated materially in such sale or exchange.”
+Subsec. (c)(4)(B)(iii). Pub. L. 99–514, §1211(b)(2), struck out cl. (iii), which read as follows: "is derived from the sale or exchange (without the United States) through such office or other fixed place of business of personal property described in section 1221(1), except that this clause shall not apply if the property is sold or exchanged for use, consumption, or disposition outside the United States and an office or other fixed place of business of the taxpayer outside the United States participated materially in such sale or exchange."
 
 Subsec. (c)(6), (7). Pub. L. 99–514, §1242(a), added pars. (6) and (7).
 
-Subsec. (d)(5)(A)(i). Pub. L. 99–514, §1201(d)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Subparagraphs (A), (B), (C), and (D) of section 904(d)(2) (relating to interest income to which separate limitation applies) and subparagraph (J) of section 904(d)(3) (relating to interest from members of same affiliated group).”
+Subsec. (d)(5)(A)(i). Pub. L. 99–514, §1201(d)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "Subparagraphs (A), (B), (C), and (D) of section 904(d)(2) (relating to interest income to which separate limitation applies) and subparagraph (J) of section 904(d)(3) (relating to interest from members of same affiliated group)."
 
-Pub. L. 99–514, §1810(c)(3), inserted “and subparagraph (J) of section 904(d)(3) (relating to interest from members of same affiliated group)”.
+Pub. L. 99–514, §1810(c)(3), inserted "and subparagraph (J) of section 904(d)(3) (relating to interest from members of same affiliated group)".
 
-Subsec. (d)(5)(A)(ii). Pub. L. 99–514, §1223(b)(1), substituted “less than 5 percent or $1,000,000” for “less than 10 percent”.
+Subsec. (d)(5)(A)(ii). Pub. L. 99–514, §1223(b)(1), substituted "less than 5 percent or $1,000,000" for "less than 10 percent".
 
-Subsec. (d)(5)(A)(iii). Pub. L. 99–514, §1221(a)(2), amended cl. (iii) generally, substituting “section 954(c)(2) (relating to certain export financing)” for “section 954(c)(3) (relating to certain income derived in active conduct of trade or business)”.
+Subsec. (d)(5)(A)(iii). Pub. L. 99–514, §1221(a)(2), amended cl. (iii) generally, substituting "section 954(c)(2) (relating to certain export financing)" for "section 954(c)(3) (relating to certain income derived in active conduct of trade or business)".
 
-Subsec. (d)(5)(A)(iv). Pub. L. 99–514, §1221(a)(2), amended cl. (iv) generally, substituting “Clause (i) of section 954(c)(3)(A) (relating to” for “Subparagraphs (A) and (B) of section 954(c)(4) (relating to exception for”.
+Subsec. (d)(5)(A)(iv). Pub. L. 99–514, §1221(a)(2), amended cl. (iv) generally, substituting "Clause (i) of section 954(c)(3)(A) (relating to" for "Subparagraphs (A) and (B) of section 954(c)(4) (relating to exception for".
 
-Subsec. (d)(5)(B). Pub. L. 99–514, §1275(c)(7), amended subpar. (B) generally, striking out cl. (i) heading, substituting “An amount” for “Any amount”, and striking out cl. (ii), Virgin Islands corporations, which read as follows: “Subsection (b) of section 934 shall not apply to any amount treated as interest under paragraph (1) unless such amount is from sources within the Virgin Islands (determined after the application of paragraph (1)).”
+Subsec. (d)(5)(B). Pub. L. 99–514, §1275(c)(7), amended subpar. (B) generally, striking out cl. (i) heading, substituting "An amount" for "Any amount", and striking out cl. (ii), Virgin Islands corporations, which read as follows: "Subsection (b) of section 934 shall not apply to any amount treated as interest under paragraph (1) unless such amount is from sources within the Virgin Islands (determined after the application of paragraph (1))."
 
 Subsec. (d)(7), (8). Pub. L. 99–514, §1810(c)(2), added par. (7) and redesignated former par. (7) as (8).
 
 Subsec. (e). Pub. L. 99–514, §1215(a), added subsec. (e).
 
-<b>1984</b>—Subsec. (c)(2). Pub. L. 98–369, §127(c), substituted “section 871(a)(1), section 871(h) section 881(a), or section 881(c)” for “section 871(a)(1) or section 881(a)”.
+<b>1984</b>—Subsec. (c)(2). Pub. L. 98–369, §127(c), substituted "section 871(a)(1), section 871(h) section 881(a), or section 881(c)" for "section 871(a)(1) or section 881(a)".
 
 Subsec. (d). Pub. L. 98–369, §123(a), added subsec. (d).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(113)(A), substituted in heading “Produced” for “Sale, etc.” and struck out in text provisions relating to the definition of sale and sold.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(113)(A), substituted in heading "Produced" for "Sale, etc." and struck out in text provisions relating to the definition of sale and sold.
 
-Subsec. (c)(4)(B)(i). Pub. L. 94–455, §1901(a)(113)(B), substituted “sale or exchange” for “sale”.
+Subsec. (c)(4)(B)(i). Pub. L. 94–455, §1901(a)(113)(B), substituted "sale or exchange" for "sale".
 
-Subsec. (c)(4)(B)(iii). Pub. L. 94–455, §1901(a)(113)(B), (C), substituted “sold or exchanged” for “sold” and “sale or exchange” for “sale” wherever appearing.
+Subsec. (c)(4)(B)(iii). Pub. L. 94–455, §1901(a)(113)(B), (C), substituted "sold or exchanged" for "sold" and "sale or exchange" for "sale" wherever appearing.
 
-Subsec. (c)(5)(C). Pub. L. 94–455, §1901(a)(113)(B), substituted “sale or exchange” for “sale” wherever appearing.
+Subsec. (c)(5)(C). Pub. L. 94–455, §1901(a)(113)(B), substituted "sale or exchange" for "sale" wherever appearing.
 
 <b>1966</b>—Pub. L. 89–809 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -652,37 +652,37 @@ Subsec. (c)(5)(C). Pub. L. 94–455, §1901(a)(113)(B), substituted “sale or e
 
 Amendment by Pub. L. 111–240 applicable to guarantees issued after Sept. 27, 2010, see section 2122(d) of Pub. L. 111–240, set out as a note under section 861 of this title.
 
-Pub. L. 111–226, title II, §216(b), Aug. 10, 2010, 124 Stat. 2400, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 10, 2010\].”
+Pub. L. 111–226, title II, §216(b), Aug. 10, 2010, 124 Stat. 2400, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 10, 2010\]."
 
-Pub. L. 111–147, title V, §551(b), Mar. 18, 2010, 124 Stat. 117, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 18, 2010\].”
+Pub. L. 111–147, title V, §551(b), Mar. 18, 2010, 124 Stat. 117, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 18, 2010\]."
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–92, §15(c), Nov. 6, 2009, 123 Stat. 2996, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2010.”
+Pub. L. 111–92, §15(c), Nov. 6, 2009, 123 Stat. 2996, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2010."
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–289, div. C, title III, §3093(c), July 30, 2008, 122 Stat. 2912, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
+Pub. L. 110–289, div. C, title III, §3093(c), July 30, 2008, 122 Stat. 2912, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
 
 #### Effective Date of 2004 Amendment
 
 Amendment by section 101(b)(6) of Pub. L. 108–357 applicable to transactions after Dec. 31, 2004, see section 101(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
-Pub. L. 108–357, title IV, §401(c), Oct. 22, 2004, 118 Stat. 1491, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
+Pub. L. 108–357, title IV, §401(c), Oct. 22, 2004, 118 Stat. 1491, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
 
-Pub. L. 108–357, title IV, §403(c), Oct. 22, 2004, 118 Stat. 1494, provided that: “The amendments made by this section \[amending this section and section 904 of this title\] shall apply to taxable years beginning after December 31, 2002.”
+Pub. L. 108–357, title IV, §403(c), Oct. 22, 2004, 118 Stat. 1494, provided that: "The amendments made by this section \[amending this section and section 904 of this title\] shall apply to taxable years beginning after December 31, 2002."
 
-Pub. L. 108–357, title IV, §403(d), as added by Pub. L. 109–135, title IV, §403(l), Dec. 21, 2005, 119 Stat. 2625, provided that: “If the taxpayer elects (at such time and in such form and manner as the Secretary of the Treasury may prescribe) to have the rules of this subsection apply—
+Pub. L. 108–357, title IV, §403(d), as added by Pub. L. 109–135, title IV, §403(l), Dec. 21, 2005, 119 Stat. 2625, provided that: "If the taxpayer elects (at such time and in such form and manner as the Secretary of the Treasury may prescribe) to have the rules of this subsection apply—
 
-&emsp;“(1) the amendments made by this section \[amending this section and section 904 of this title\] shall not apply to taxable years beginning after December 31, 2002, and before January 1, 2005, and
+&emsp;"(1) the amendments made by this section \[amending this section and section 904 of this title\] shall not apply to taxable years beginning after December 31, 2002, and before January 1, 2005, and
 
-&emsp;“(2) in the case of taxable years beginning after December 31, 2004, clause (iv) of section 904(d)(4)(C) of the Internal Revenue Code of 1986 (as amended by this section) shall be applied by substituting ‘January 1, 2005’ for ‘January 1, 2003’ both places it appears.”
+&emsp;"(2) in the case of taxable years beginning after December 31, 2004, clause (iv) of section 904(d)(4)(C) of the Internal Revenue Code of 1986 (as amended by this section) shall be applied by substituting 'January 1, 2005' for 'January 1, 2003' both places it appears."
 
 \[Amendment by Pub. L. 109–135 adding section 403(d) of Pub. L. 108–357, set out above, effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as an Effective Date of 2005 Amendment note under section 26 of this title.\]
 
 Amendment by section 413(c)(12) of Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
-Pub. L. 108–357, title VIII, §894(b), Oct. 22, 2004, 118 Stat. 1647, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §894(b), Oct. 22, 2004, 118 Stat. 1647, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 2000 Amendment
 
@@ -694,15 +694,15 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XI, §1162(b), Aug. 5, 1997, 111 Stat. 987, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title XI, §1162(b), Aug. 5, 1997, 111 Stat. 987, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997."
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–227, title I, §101(b), Dec. 11, 1991, 105 Stat. 1686, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after August 1, 1989.”
+Pub. L. 102–227, title I, §101(b), Dec. 11, 1991, 105 Stat. 1686, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after August 1, 1989."
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XI, §11401(b), Nov. 5, 1990, 104 Stat. 1388–472, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after August 1, 1989.”
+Pub. L. 101–508, title XI, §11401(b), Nov. 5, 1990, 104 Stat. 1388–472, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after August 1, 1989."
 
 #### Effective Date of 1988 Amendment
 
@@ -720,23 +720,23 @@ Amendment by section 1211(b)(2) of Pub. L. 99–514 applicable to taxable years 
 
 Pub. L. 99–514, title XII, §1215(c), Oct. 22, 1986, 100 Stat. 2545, as amended by Pub. L. 100–647, title I, §1012(h)(7), Nov. 10, 1988, 102 Stat. 3504; Pub. L. 104–191, title V, §521(a), Aug. 21, 1996, 110 Stat. 2103, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
-“(2)
+"(2)
 
 Transitional rules.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 General phase-in.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 In general.—In the case of the 1st 3 taxable years of the taxpayer beginning after December 31, 1986, the amendments made by this section shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does not exceed the general phase-in amount.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
 General phase-in amount.—Except as provided in clause (iii), the general phase-in amount for purposes of clause (i) is the applicable percentage (determined under the following table) of the aggregate amount of indebtedness of the taxpayer outstanding on November 16, 1985:
 
@@ -745,50 +745,50 @@ General phase-in amount.—Except as provided in clause (iii), the general phase
 | &nbsp; | &nbsp; |
 | :--- | ---: |
 | &nbsp; | <b>The applicable</b> |
-| <b>“In the case of the:</b> | <b>percentage is:</b> |
+| <b>"In the case of the:</b> | <b>percentage is:</b> |
 | 1st taxable year | 75&nbsp; |
 | 2nd taxable year | 50&nbsp; |
 | 3rd taxable year | 25\. |
 
-&emsp;&emsp;“(iii)
+&emsp;&emsp;"(iii)
 
 Lower limit where taxpayer reduces indebtedness.—For purposes of applying this subparagraph to interest expenses attributable to any month, the general phase-in amount shall in no event exceed the lowest amount of indebtedness of the taxpayer outstanding as of the close of any preceding month beginning after November 16, 1985. To the extent provided in regulations, the average amount of indebtedness outstanding during any month shall be used (in lieu of the amount outstanding as of the close of such month) for purposes of the preceding sentence.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Consolidation rule not to apply to certain interest.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 In general.—In the case of the 1st 5 taxable years of the taxpayer beginning after December 31, 1986—
 
-&emsp;&emsp;&emsp;“(I) subparagraph (A) shall not apply for purposes of paragraph (1) of section 864(e) of the Internal Revenue Code of 1986 (as added by this section), but
+&emsp;&emsp;&emsp;"(I) subparagraph (A) shall not apply for purposes of paragraph (1) of section 864(e) of the Internal Revenue Code of 1986 (as added by this section), but
 
-&emsp;&emsp;&emsp;“(II) such paragraph (1) shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does not exceed the special phase-in amount.
+&emsp;&emsp;&emsp;"(II) such paragraph (1) shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does not exceed the special phase-in amount.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
 Special phase-in amount.—The special phase-in amount for purposes of clause (i) is the sum of—
 
-&emsp;&emsp;&emsp;“(I) the general phase-in amount as determined for purposes of subparagraph (A),
+&emsp;&emsp;&emsp;"(I) the general phase-in amount as determined for purposes of subparagraph (A),
 
-&emsp;&emsp;&emsp;“(II) the 5-year phase-in amount, and
+&emsp;&emsp;&emsp;"(II) the 5-year phase-in amount, and
 
-&emsp;&emsp;&emsp;“(III) the 4-year phase-in amount.
+&emsp;&emsp;&emsp;"(III) the 4-year phase-in amount.
 
 &nbsp;&nbsp;For purposes of applying this subparagraph to interest expense attributable to any month, the special phase-in amount shall in no event exceed the limitation determined under subparagraph (A)(iii).
 
-&emsp;&emsp;“(iii) 5-
+&emsp;&emsp;"(iii) 5-
 
 year phase-in amount.—The 5-year phase-in amount is the lesser of—
 
-&emsp;&emsp;&emsp;“(I) the applicable percentage (determined under the following table for purposes of this subclause) of the 5-year debt amount, or
+&emsp;&emsp;&emsp;"(I) the applicable percentage (determined under the following table for purposes of this subclause) of the 5-year debt amount, or
 
-&emsp;&emsp;&emsp;“(II) the applicable percentage (determined under the following table for purposes of this subclause) of the 5-year debt amount reduced by paydowns:
+&emsp;&emsp;&emsp;"(II) the applicable percentage (determined under the following table for purposes of this subclause) of the 5-year debt amount reduced by paydowns:
 
 &nbsp;
 
-| <b>“In the case of the:</b> | <b>The applicable percentage for purposes of subclause (I) is:</b> | <b>The applicable percentage for purposes of subclause (II) is:</b> |
+| <b>"In the case of the:</b> | <b>The applicable percentage for purposes of subclause (I) is:</b> | <b>The applicable percentage for purposes of subclause (II) is:</b> |
 | :--- | :---: | ---: |
 | 1st taxable year | 81/3 | &nbsp;10&nbsp; |
 | 2nd taxable year | 162/3 | &nbsp;25&nbsp; |
@@ -796,17 +796,17 @@ year phase-in amount.—The 5-year phase-in amount is the lesser of—
 | 4th taxable year | 331/3 | 100&nbsp; |
 | 5th taxable year | 162/3 | 100\. |
 
-&emsp;&emsp;“(iv) 4-
+&emsp;&emsp;"(iv) 4-
 
 year phase-in amount.—The 4-year phase-in amount is the lesser of—
 
-&emsp;&emsp;&emsp;“(I) the applicable percentage (determined under the following table for purposes of this subclause) of the 4-year debt amount, or
+&emsp;&emsp;&emsp;"(I) the applicable percentage (determined under the following table for purposes of this subclause) of the 4-year debt amount, or
 
-&emsp;&emsp;&emsp;“(II) the applicable percentage (determined under the following table for purposes of this subclause) of the 4-year debt amount reduced by paydowns to the extent such paydowns exceed the 5-year debt amount:
+&emsp;&emsp;&emsp;"(II) the applicable percentage (determined under the following table for purposes of this subclause) of the 4-year debt amount reduced by paydowns to the extent such paydowns exceed the 5-year debt amount:
 
 &nbsp;
 
-| <b>“In the case of the:</b> | <b>The applicable percentage for purposes of subclause (I) is:</b> | <b>The applicable percentage for purposes of subclause (II) is:</b> |
+| <b>"In the case of the:</b> | <b>The applicable percentage for purposes of subclause (I) is:</b> | <b>The applicable percentage for purposes of subclause (II) is:</b> |
 | :--- | :---: | ---: |
 | 1st taxable year | 5 | 6¼ |
 | 2nd taxable year | 10 | 162/3 |
@@ -814,43 +814,43 @@ year phase-in amount.—The 4-year phase-in amount is the lesser of—
 | 4th taxable year | 20 | 100 |
 | 5th taxable year | 0 | &nbsp;0.&nbsp; |
 
-&emsp;&emsp;“(v) 5-
+&emsp;&emsp;"(v) 5-
 
-year debt amount.—The term ‘5-year debt amount’ means the excess (if any) of—
+year debt amount.—The term '5-year debt amount' means the excess (if any) of—
 
-&emsp;&emsp;&emsp;“(I) the amount of the outstanding indebtedness of the taxpayer on May 29, 1985, over
+&emsp;&emsp;&emsp;"(I) the amount of the outstanding indebtedness of the taxpayer on May 29, 1985, over
 
-&emsp;&emsp;&emsp;“(II) the amount of the outstanding indebtedness of the taxpayer as of the close of December 31, 1983.
+&emsp;&emsp;&emsp;"(II) the amount of the outstanding indebtedness of the taxpayer as of the close of December 31, 1983.
 
 &nbsp;&nbsp;The 5-year debt amount shall not exceed the aggregate amount of indebtedness of the taxpayer outstanding on November 16, 1985.
 
-&emsp;&emsp;“(vi) 4-
+&emsp;&emsp;"(vi) 4-
 
-year debt amount.—The term ‘4-year debt amount’ means the excess (if any) of—
+year debt amount.—The term '4-year debt amount' means the excess (if any) of—
 
-&emsp;&emsp;&emsp;“(I) the amount referred to in clause (v)(II), over
+&emsp;&emsp;&emsp;"(I) the amount referred to in clause (v)(II), over
 
-&emsp;&emsp;&emsp;“(II) the amount of the outstanding indebtedness of the taxpayer as of the close of December 31, 1982.
+&emsp;&emsp;&emsp;"(II) the amount of the outstanding indebtedness of the taxpayer as of the close of December 31, 1982.
 
 &nbsp;&nbsp;The 4-year debt amount shall not exceed the aggregate amount of indebtedness of the taxpayer outstanding on November 16, 1985, reduced by the 5-year debt amount.
 
-&emsp;&emsp;“(vii)
+&emsp;&emsp;"(vii)
 
-Paydowns.—For purposes of applying this subparagraph to interest expenses attributable to any month, the term ‘paydowns’ means the excess (if any) of—
+Paydowns.—For purposes of applying this subparagraph to interest expenses attributable to any month, the term 'paydowns' means the excess (if any) of—
 
-&emsp;&emsp;&emsp;“(I) the aggregate amount of indebtedness of the taxpayer outstanding on November 16, 1985, over
+&emsp;&emsp;&emsp;"(I) the aggregate amount of indebtedness of the taxpayer outstanding on November 16, 1985, over
 
-&emsp;&emsp;&emsp;“(II) the lowest amount of indebtedness of the taxpayer outstanding as of the close of any preceding month beginning after November 16, 1985 (or, to the extent provided in regulations under subparagraph (A)(iii), the average amount of indebtedness outstanding during any such month).
+&emsp;&emsp;&emsp;"(II) the lowest amount of indebtedness of the taxpayer outstanding as of the close of any preceding month beginning after November 16, 1985 (or, to the extent provided in regulations under subparagraph (A)(iii), the average amount of indebtedness outstanding during any such month).
 
-&emsp;“(C)
+&emsp;"(C)
 
 Coordination of subparagraphs (a) and (b).—In applying subparagraph (B), there shall first be taken into account indebtedness to which subparagraph (A) applies.
 
-&emsp;“(D)
+&emsp;"(D)
 
 Special rules.—
 
-&emsp;&emsp;“(i) In the case of the 1st 9 taxable years of the taxpayer beginning after December 31, 1986, the amendments made by this section shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does not exceed the applicable percentage (determined under the following table) of the indebtedness described in clause (iii) or (iv):
+&emsp;&emsp;"(i) In the case of the 1st 9 taxable years of the taxpayer beginning after December 31, 1986, the amendments made by this section shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does not exceed the applicable percentage (determined under the following table) of the indebtedness described in clause (iii) or (iv):
 
 > &emsp;&nbsp;
 
@@ -858,7 +858,7 @@ Special rules.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-> &emsp;<b>  “In the case of the:</b>
+> &emsp;<b>  "In the case of the:</b>
 
 <b>percentage is:</b>
 
@@ -900,73 +900,73 @@ Special rules.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&emsp;&emsp;“(ii) The provisions of this subparagraph shall apply in lieu of the provisions of subparagraphs (A) and (B).
+&emsp;&emsp;"(ii) The provisions of this subparagraph shall apply in lieu of the provisions of subparagraphs (A) and (B).
 
-&emsp;&emsp;“(iii)
+&emsp;&emsp;"(iii)
 
 Indebtedness outstanding on may 29, 1985.—Indebtedness is described in this clause if it is indebtedness (which was outstanding on May 29, 1985) of a corporation incorporated on June 13, 1917, which has its principal place of business in Bartlesville, Oklahoma.
 
-&emsp;&emsp;“(iv)
+&emsp;&emsp;"(iv)
 
 Indebtedness outstanding on may 29, 1985.—Indebtedness is described in this clause if it is indebtedness (which was outstanding on May 29, 1985) of a member of an affiliated group (as defined in section 1504(a) \[of the Internal Revenue Code of 1986\]), the common parent of which was incorporated on August 26, 1926, and has its principal place of business in Harrison, New York.
 
-&emsp;“(E)
+&emsp;"(E)
 
 Treatment of affiliated group.—For purposes of this paragraph, all members of the same affiliated group of corporations (as defined in section 864(e)(5)(A) of the Internal Revenue Code of 1986, as added by this section) shall be treated as 1 taxpayer whether or not such members filed a consolidated return.
 
-&emsp;“(F)
+&emsp;"(F)
 
 Election to have paragraph not apply.—A taxpayer may elect (at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe) to have this paragraph not apply. In the case of members of the same affiliated group (as so defined), such an election may be made only if each member consents to such election.
 
-“(3)
+"(3)
 
 Special rule.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—In the case of a qualified corporation, in lieu of applying paragraph (2), the amendments made by this section shall not apply to interest expenses allocable to any indebtedness to the extent such indebtedness does not exceed $500,000,000 if—
 
-&emsp;&emsp;“(i) the indebtedness was incurred to develop or improve existing property that is owned by the taxpayer on November 16, 1985, and was acquired with the intent to develop or improve the property,
+&emsp;&emsp;"(i) the indebtedness was incurred to develop or improve existing property that is owned by the taxpayer on November 16, 1985, and was acquired with the intent to develop or improve the property,
 
-&emsp;&emsp;“(ii) the loan agreement with respect to the indebtedness provides that the funds are to be utilized for purposes of developing or improving the above property, and
+&emsp;&emsp;"(ii) the loan agreement with respect to the indebtedness provides that the funds are to be utilized for purposes of developing or improving the above property, and
 
-&emsp;&emsp;“(iii) the debt to equity ratio of the companies that join in the filing of the consolidated return is less than 15 percent.
+&emsp;&emsp;"(iii) the debt to equity ratio of the companies that join in the filing of the consolidated return is less than 15 percent.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Qualified corporation.—For purposes of subparagraph (A), the term ‘qualified corporation’ means a corporation—
+Qualified corporation.—For purposes of subparagraph (A), the term 'qualified corporation' means a corporation—
 
-&emsp;&emsp;“(i) which was incorporated in Delaware on June 29, 1964,
+&emsp;&emsp;"(i) which was incorporated in Delaware on June 29, 1964,
 
-&emsp;&emsp;“(ii) the principal subsidiary of which is a resident of Arkansas, and
+&emsp;&emsp;"(ii) the principal subsidiary of which is a resident of Arkansas, and
 
-&emsp;&emsp;“(iii) which is a member of an affiliated group the average daily United States production of oil of which is less than 50,000 barrels and the average daily United States refining of which is less than 150,000 barrels.
+&emsp;&emsp;"(iii) which is a member of an affiliated group the average daily United States production of oil of which is less than 50,000 barrels and the average daily United States refining of which is less than 150,000 barrels.
 
-“(4)
+"(4)
 
 Special rules for subsidiary.—The amendments made by this section shall not apply to interest on up to the applicable dollar amount of indebtednessof a subsidiary incorporated on February 11, 1975, the indebtedness of which on May 6, 1986, included—
 
-&emsp;“(A) $100,000,000 face amount of 11¾ percent notes due in 1990,
+&emsp;"(A) $100,000,000 face amount of 11¾ percent notes due in 1990,
 
-&emsp;“(B) $100,000,000 of 8¾ percent notes due in 1989,
+&emsp;"(B) $100,000,000 of 8¾ percent notes due in 1989,
 
-&emsp;“(C) 6¾ percent Japanese yen notes due in 1991, and
+&emsp;"(C) 6¾ percent Japanese yen notes due in 1991, and
 
-&emsp;“(D) 53/8 percent Swiss franc bonds due in 1994.
+&emsp;"(D) 53/8 percent Swiss franc bonds due in 1994.
 
-> For purposes of this paragraph, the term ‘applicable dollar amount’ means $600,000,000 in the case of taxable years beginning in 1987 through 1991, $500,000,000 in the case of the taxable year beginning in 1992, $400,000,000 in the case of the taxable year beginning in 1993, $300,000,000 in the case of the taxable year beginning in 1994, $200,000,000 in the case of the taxable year beginning in 1995, $100,000,000 in the case of the taxable year beginning in 1996, and zero in the case of taxable years beginning after 1996.
+> For purposes of this paragraph, the term 'applicable dollar amount' means $600,000,000 in the case of taxable years beginning in 1987 through 1991, $500,000,000 in the case of the taxable year beginning in 1992, $400,000,000 in the case of the taxable year beginning in 1993, $300,000,000 in the case of the taxable year beginning in 1994, $200,000,000 in the case of the taxable year beginning in 1995, $100,000,000 in the case of the taxable year beginning in 1996, and zero in the case of taxable years beginning after 1996.
 
-“\[(5) Repealed. Pub. L. 104–191, title V, §521(a), Aug. 21, 1996, 110 Stat. 2103.\]
+"\[(5) Repealed. Pub. L. 104–191, title V, §521(a), Aug. 21, 1996, 110 Stat. 2103.\]
 
-“(6)
+"(6)
 
 Special rules for allocating general and administrative expenses.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—In the case of an affiliated group of domestic corporations the common parent of which has its principal office in New Brunswick, New Jersey, and has a certificate of organization which was filed with the Secretary of the State of New Jersey on November 10, 1887, the amendments made by this section shall not apply to the phase-in percentage of general and administrative expenses paid or incurred in its 1st 3 taxable years beginning after December 31, 1986.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Phase-in percentage.—For purposes of subparagraph (A):
 
@@ -974,27 +974,27 @@ Phase-in percentage.—For purposes of subparagraph (A):
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
-| <b>“In the case of taxable</b> | <b>The phase-in</b> |
+| <b>"In the case of taxable</b> | <b>The phase-in</b> |
 | <b> years beginning in:</b> | <b>percentage is:</b> |
 | 1987 | 75 |
 | 1988 | 50 |
-| 1989 | 25\.” |
+| 1989 | 25\." |
 
 \[Pub. L. 104–191, title V, §521(b), Aug. 21, 1996, 110 Stat. 2103, provided that:
 
-\[“(1)
+\["(1)
 
 In general.—The amendment made by this section \[amending section 1215(c) of Pub. L. 99–514, set out above\] shall apply to taxable years beginning after December 31, 1995.
 
-\[“(2)
+\["(2)
 
-Special rule.—In the case of the first taxable year beginning after December 31, 1995, the pre-effective date portion of the interest expense of the corporation referred to in such paragraph (5) of such section 1215(c) \[of Pub. L. 99–514\] for such taxable year shall be allocated and apportioned without regard to such amendment. For purposes of the preceding sentence, the pre-effective date portion is the amount which bears the same ratio to the interest expense for such taxable year as the number of days during such taxable year before the date of the enactment of this Act \[Aug. 21, 1996\] bears to 366.”\]
+Special rule.—In the case of the first taxable year beginning after December 31, 1995, the pre-effective date portion of the interest expense of the corporation referred to in such paragraph (5) of such section 1215(c) \[of Pub. L. 99–514\] for such taxable year shall be allocated and apportioned without regard to such amendment. For purposes of the preceding sentence, the pre-effective date portion is the amount which bears the same ratio to the interest expense for such taxable year as the number of days during such taxable year before the date of the enactment of this Act \[Aug. 21, 1996\] bears to 366."\]
 
 Amendment by section 1221(a)(2) of Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, except as otherwise provided, see section 1221(g) of Pub. L. 99–514, set out as a note under section 954 of this title.
 
-Pub. L. 99–514, title XII, §1223(c), Oct. 22, 1986, 100 Stat. 2558, provided that: “The amendments made by this section \[amending this section and sections 881 and 954 of this title\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XII, §1223(c), Oct. 22, 1986, 100 Stat. 2558, provided that: "The amendments made by this section \[amending this section and sections 881 and 954 of this title\] shall apply to taxable years beginning after December 31, 1986."
 
-Pub. L. 99–514, title XII, §1242(c), Oct. 22, 1986, 100 Stat. 2580, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XII, §1242(c), Oct. 22, 1986, 100 Stat. 2580, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
 
 Amendment by section 1275(c)(7) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
@@ -1004,17 +1004,17 @@ Amendment by section 1810(c)(2), (3) of Pub. L. 99–514 effective, except as ot
 
 Pub. L. 98–369, div. A, title I, §123(c), July 18, 1984, 98 Stat. 646, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 956 of this title\] shall apply to accounts receivable and evidences of indebtedness transferred after March 1, 1984, in taxable years ending after such date.
 
-“(2)
+"(2)
 
 Transitional rule.—The amendments made by this section shall not apply to accounts receivable and evidences of indebtedness acquired after March 1, 1984, and before March 1, 1994, by a Belgian corporation in existence on March 1, 1984, in any taxable year ending after such date, but only to the extent that the amount includible in gross income by reason of section 956 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to such corporation for all such taxable years is not reduced by reason of this paragraph by more than the lesser of—
 
-&emsp;“(A) $15,000,000 or
+&emsp;"(A) $15,000,000 or
 
-&emsp;“(B) the amount of the Belgian corporation's adjusted basis on March 1, 1984, in stock of a foreign corporation formed to issue bonds outside the United States to the public.”
+&emsp;"(B) the amount of the Belgian corporation's adjusted basis on March 1, 1984, in stock of a foreign corporation formed to issue bonds outside the United States to the public."
 
 Amendment by section 127(c) of Pub. L. 98–369 applicable to interest received after July 18, 1984, with respect to obligations issued after such date, in taxable years ending after such date, see section 127(g)(1) of Pub. L. 98–369, set out as a note under section 871 of this title.
 

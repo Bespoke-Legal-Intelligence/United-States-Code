@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of NIH shall submit to the Congress on a biennial basis a report in accordancewith this section. The first report shall be submitted not later than 1 year after January 15, 2007. Each such report shall include the following information:
+The Director of NIH shall submit to the Congress on a biennial basis a report in accordance with this section. The first report shall be submitted not later than 1 year after January 15, 2007. Each such report shall include the following information:
 
 &emsp;(1) An assessment of the state of biomedical and behavioral research.
 
@@ -72,7 +72,7 @@ The Director of NIH shall submit to the Congress on a biennial basis a report in
 
 &emsp;&emsp;(L) Such additional categories as the Director determines to be appropriate.
 
-&emsp;(6) A review of each entity receiving funding under this subchapter in its capacity as a center of excellence (in this paragraph referred to as a “center of excellence”), including the following:
+&emsp;(6) A review of each entity receiving funding under this subchapter in its capacity as a center of excellence (in this paragraph referred to as a "center of excellence"), including the following:
 
 &emsp;&emsp;(A) An evaluation of the performance and research outcomes of each center of excellence.
 
@@ -80,7 +80,7 @@ The Director of NIH shall submit to the Congress on a biennial basis a report in
 
 &emsp;&emsp;(C) Recommendations for improving the effectiveness, efficiency, and outcomes of the centers of excellence.
 
-&emsp;&emsp;(D) If no additional centers of excellence have been funded under this subchapter since the previous report under this section, an explanation of the reasons for not funding any additional centers.
+&emsp;&emsp;(D) If no additional centers of excellence have been funded under this subchaptersince the previous report under this section, an explanation of the reasons for not funding any additional centers.
 
 #### (b) Requirement regarding disease-specific research activities
 
@@ -104,7 +104,7 @@ A prior section 283, act July 1, 1944, ch. 373, title IV, §403, as added Pub. L
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(4)(C)(iv)(III). Pub. L. 110–85 inserted “and postdoctoral training funded through research grants” before semicolon at end.
+<b>2007</b>—Subsec. (a)(4)(C)(iv)(III). Pub. L. 110–85 inserted "and postdoctoral training funded through research grants" before semicolon at end.
 
 #### Effective Date
 

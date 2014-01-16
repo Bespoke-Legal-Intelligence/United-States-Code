@@ -12,7 +12,7 @@
 
 #### (3) Special rule
 
-&emsp;Educational services and other benefits provided under this section for private school children, teachers, and other educational personnel shall be equitable in comparison to services and other benefits for public school children, teachers, and other educational personnel participating in the program and shall be provided in a timely manner.
+&emsp;Educational services and other benefits provided under this section for private schoolchildren, teachers, and other educational personnel shall be equitable in comparison to services and other benefits for public school children, teachers, and other educational personnel participating in the program and shall be provided in a timely manner.
 
 #### (4) Expenditures
 
@@ -46,7 +46,7 @@
 
 #### (2) Definition
 
-&emsp;For the purpose of this section, the term “eligible children” means children eligible for services under a program described in paragraph (1).
+&emsp;For the purpose of this section, the term "eligible children" means children eligible for services under a program described in paragraph (1).
 
 #### (3) Application
 

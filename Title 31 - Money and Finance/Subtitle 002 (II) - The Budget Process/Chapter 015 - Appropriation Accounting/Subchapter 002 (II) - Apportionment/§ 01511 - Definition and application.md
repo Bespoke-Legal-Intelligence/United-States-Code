@@ -1,6 +1,6 @@
 ### §1511. Definition and application
 
-(a) In this subchapter, “appropriations” means—
+(a) In this subchapter, "appropriations" means—
 
 &emsp;(1) appropriated amounts;
 
@@ -48,7 +48,7 @@ R.S. §3679(c)(1)(last sentence), (d)(2)(5th sentence, 6th sentence less 1st–2
 
 31:665(f)(2).
 
-In subsection (a)(1), the words “appropriated amounts” are substituted for “appropriations” for clarity. In clause (3), the word “make” is substituted for “create” as being more precise. The text of 31:665(d)(2)(5th sentence) is omitted as unnecessary because of section 102 of the revised title.
+In subsection (a)(1), the words "appropriated amounts" are substituted for "appropriations" for clarity. In clause (3), the word "make" is substituted for "create" as being more precise. The text of 31:665(d)(2)(5th sentence) is omitted as unnecessary because of section 102 of the revised title.
 
-In subsection (b), the word “amounts” is substituted for “funds” for consistency in the revised title. In clause (1)(B), the words “(7 U.S.C. 612c)” are substituted for “section 612(c) of title 7” to correct an error in section 3679(d)(2)(6th sentence) of the Revised Statutes. Clause (2) is substituted for the source provisions for consistency in the revised title.
+In subsection (b), the word "amounts" is substituted for "funds" for consistency in the revised title. In clause (1)(B), the words "(7 U.S.C. 612c)" are substituted for "section 612(c) of title 7" to correct an error in section 3679(d)(2)(6th sentence) of the Revised Statutes. Clause (2) is substituted for the source provisions for consistency in the revised title.
 

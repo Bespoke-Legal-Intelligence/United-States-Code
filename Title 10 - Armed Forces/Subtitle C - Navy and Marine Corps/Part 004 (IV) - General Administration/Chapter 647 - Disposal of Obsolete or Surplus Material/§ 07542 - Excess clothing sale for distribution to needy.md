@@ -20,15 +20,15 @@ Historical and Revision Notes
 
 Dec. 23, 1932, ch. 8, 47 Stat. 751; Oct. 31, 1951, ch. 654, §2(22), 65 Stat. 707.
 
-In subsection (a) the words “absolutely free” are omitted as surplusage.
+In subsection (a) the words "absolutely free" are omitted as surplusage.
 
-In subsection (b) the words “for other distribution” are substituted for the words “distribution within any other State”. The words “at least” are added for clarity.
+In subsection (b) the words "for other distribution" are substituted for the words "distribution within any other State". The words "at least" are added for clarity.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted "section 121 of title 40" for "section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” for “section 486 of title 40”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)" for "section 486 of title 40".
 
 #### Effective Date of 1980 Amendment
 

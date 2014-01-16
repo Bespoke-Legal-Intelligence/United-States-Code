@@ -26,7 +26,7 @@
 
 #### (1) Establishment and membership
 
-&emsp;(A) The Foundation shall have a governing Board of Directors (hereafter referred to in this section as “the Board”), which shall consist of 13 directors, each of whom shall be knowledgeable or experienced in the environment, education and/or training. The Board shall oversee the activities of the Foundation and shall assure that the activities of the Foundation are consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter. The membership of the Board, to the extent practicable, shall represent diverse points of view relating to environmental education and training.
+&emsp;(A) The Foundation shall have a governing Board of Directors (hereafter referred to in this section as "the Board"), which shall consist of 13 directors, each of whom shall be knowledgeable or experienced in the environment, education and/or training. The Board shall oversee the activities of the Foundation and shall assure that the activities of the Foundation are consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter. The membership of the Board, to the extent practicable, shall represent diverse points of view relating to environmental education and training.
 
 &emsp;(B) The Administrator of the Environmental Protection Agency shall, pursuant to paragraph (2), appoint the Director of the Office of Environmental Education established pursuant to section 5502 of this title as an ex-officio member of the Board. Ex officio membership shall also be offered to other Federal agencies or departments with an interest and/or experience in environmental education and training.
 
@@ -38,7 +38,7 @@
 
 &emsp;(B) Within 90 days of November 16, 1990, and as appropriate thereafter, the Administrator shall publish in the Federal Register an announcement of appointments of Directors of the Board. At the same time, the Administrator shall transmit a copy of such announcement to the Education and Labor Committee and the Committee on Energy and Commerce of the House of Representatives and the Committee on Environment and Public Works of the United States Senate. Such appointments shall become final and effective 90 days after publication in the Federal Register.
 
-&emsp;(C) The directors shall be appointed for terms of 4 years, except that the Administrator, in making the initial appointments to the Board, shall appoint 5 directors to a term of 2 years, 4 directors to a term of 3 years, and 4 directors to a term of 4 years. The Administrator shall appoint an individual to serve asa director in the event of a vacancy on the Board within 60 days of said vacancy in the manner in which the original appointment was made. No individual may serve more than 2 consecutive terms as a director.
+&emsp;(C) The directors shall be appointed for terms of 4 years, except that the Administrator, in making the initial appointments to the Board, shall appoint 5 directors to a term of 2 years, 4 directors to a term of 3 years, and 4 directors to a term of 4 years. The Administrator shall appoint an individual to serve as a director in the event of a vacancy on the Board within 60 days of said vacancy in the manner in which the original appointment was made. No individual may serve more than 2 consecutive terms as a director.
 
 #### (3) Chair
 
@@ -54,7 +54,7 @@
 
 #### (6) Reimbursement of expenses
 
-&emsp;Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Foundation.
+&emsp;Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expensesincurred by them in the performance of the duties of the Foundation.
 
 #### (7) General powers
 
@@ -120,9 +120,9 @@
 
 &emsp;(A) is contingent upon the transmission by the Foundation of materials or information prepared by the donor or a third party in such a fashion as to convey a particular point of view favorable to the economic interests of the donor or its constituents or associates; or
 
-&emsp;(B) in the judgment of the Board carries with it an explicit or implied requirement on the part of the Foundation to do a specific actor make general representations which are to the benefit of the donor and which are not consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter.
+&emsp;(B) in the judgment of the Board carries with it an explicit or implied requirement on the part of the Foundation to do a specific act or make general representations which are to the benefit of the donor and which are not consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter.
 
-(3) No materials bearing “logos”, letterhead or other means of identification associated with a donor or third party may be transmitted by the Foundation, for use in environmental education and training except as required pursuant to subsection (f) of this section.
+(3) No materials bearing "logos", letterhead or other means of identification associated with a donor or third party may be transmitted by the Foundation, for use in environmental education and training except as required pursuant to subsection (f) of this section.
 
 #### (e) Administrative services and support
 
@@ -152,7 +152,7 @@ The Congress expressly reserves the right to repeal or amend this section at any
 
 Subsec. (f) of this section, which required the Foundation, as soon as practicable after the end of each fiscal year, to transmit to Congress a report of its proceedings and activities, including a full and complete statement of its receipts, expenditures, and investments, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 183 of House Document No. 103–7.
 
-In subsec. (h), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 (Public Law 88–504; 36 U.S.C. 1101–1103)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+In subsec. (h), "section 10101 of title 36" substituted for "the Act entitled 'An Act for audit of accounts of private corporations established under Federal law', approved August 30, 1964 (Public Law 88–504; 36 U.S.C. 1101–1103)" and "a corporation in part B of subtitle II of title 36" substituted for "a private corporation established under Federal law" on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 #### Change of Name
 

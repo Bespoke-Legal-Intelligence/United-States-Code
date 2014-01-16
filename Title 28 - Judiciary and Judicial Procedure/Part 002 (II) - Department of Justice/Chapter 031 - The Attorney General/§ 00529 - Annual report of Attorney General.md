@@ -32,7 +32,7 @@
 
 <b>2002</b>—Pub. L. 107–273, §205(a), designated existing provisions as subsec. (a) and added subsec. (b).
 
-Subsec. (b)(2). Pub. L. 107–273, §4003(b)(3), struck out “over $5,000,000” after “services contract” in introductory provisions.
+Subsec. (b)(2). Pub. L. 107–273, §4003(b)(3), struck out "over $5,000,000" after "services contract" in introductory provisions.
 
 #### Effective Date
 

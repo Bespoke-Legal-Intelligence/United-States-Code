@@ -26,7 +26,7 @@ The Secretary shall promulgate regulations to ensure that appropriate State and 
 
 #### (2) Participation
 
-&emsp;Each cooperation agreement shall provide for suitable participation by other governmental and nongovernmental entities that are representative of significant interests in and perspectives on economic development in an area.
+&emsp;Each cooperation agreement shall provide for suitable participation by other governmental and nongovernmental entities that arerepresentative of significant interests in and perspectives on economic development in an area.
 
 (Pub. L. 89–136, title I, §101, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3600; amended Pub. L. 108–373, title I, §103, Oct. 27, 2004, 118 Stat. 1759.)
 
@@ -36,7 +36,7 @@ A prior section 3131, Pub. L. 89–136, title I, §101, Aug. 26, 1965, 79 Stat. 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–373, §103(1), substituted “multi-State regional organizations, and nonprofit organizations” for “and multi-State regional organizations” in introductory provisions.
+<b>2004</b>—Subsec. (b). Pub. L. 108–373, §103(1), substituted "multi-State regional organizations, and nonprofit organizations" for "and multi-State regional organizations" in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 108–373, §103(2), struck out “adjoining” before “States” in two places.
+Subsec. (d)(1). Pub. L. 108–373, §103(2), struck out "adjoining" before "States" in two places.
 

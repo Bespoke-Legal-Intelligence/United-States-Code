@@ -12,11 +12,11 @@ If the Secretary of the Interior determines that such action will facilitate sus
 
 Section 1181c of this title, referred to in first par., was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787.
 
-Acts of June 9, 1916, and February 26, 1919, referred to in text, are acts June 9, 1916, ch. 137, 39 Stat. 218 andFeb. 26, 1919, ch. 47, 40 Stat. 1179, respectively, which are not classified to the Code.
+Acts of June 9, 1916, and February 26, 1919, referred to in text, are acts June 9, 1916, ch. 137, 39 Stat. 218 and Feb. 26, 1919, ch. 47, 40 Stat. 1179, respectively, which are not classified to the Code.
 
 #### Repeals
 
-Act Aug. 28, 1937, ch. 876, title II (last par.), 50 Stat. 876, provided: “All Acts or parts of Acts in conflict with this Act \[sections 1181a to 1181f of this title\] are hereby repealed to the extent necessary to give full force and effect to this Act.”
+Act Aug. 28, 1937, ch. 876, title II (last par.), 50 Stat. 876, provided: "All Acts or parts of Acts in conflict with this Act \[sections 1181a to 1181f of this title\] are hereby repealed to the extent necessary to give full force and effect to this Act."
 
 #### Savings Provision
 
@@ -28,7 +28,7 @@ Lease of small tracts of the lands described in this section for residential, re
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “principle”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "principle".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “facilities:”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "facilities:".</i>
 

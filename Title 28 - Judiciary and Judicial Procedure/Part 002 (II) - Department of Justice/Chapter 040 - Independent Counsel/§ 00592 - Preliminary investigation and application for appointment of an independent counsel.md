@@ -44,7 +44,7 @@ Application for appointment of independent counsel.—The Attorney General shall
 
 &emsp;&emsp;(B) the 90-day period referred to in subsection (a)(1), and any extension granted under subsection (a)(3), have elapsed and the Attorney General has not filed a notification with the division of the court under subsection (b)(1).
 
-> &emsp;In determining under this chapter whether reasonable grounds exist to warrant further investigation, the Attorney General shall comply with the written or other established policies of the Department of Justice with respect to the conduct of criminal investigations.
+> &emsp;In determining under this chapter whether reasonable grounds exist to warrant further investigation, the Attorney General shallcomply with the written or other established policies of the Department of Justice with respect to the conduct of criminal investigations.
 
 &emsp;(2)
 
@@ -60,7 +60,7 @@ Contents of Application.—Any application for the appointment of an independent
 
 (e)
 
-Disclosure of Information.—Except as otherwise provided in this chapter or as is deemed necessary for law enforcement purposes, no officer or employee of the Department of Justice or an office of independent counsel may, without leave of the division of the court, disclose to any individual outside the Department of Justice or such office any notification, application, or any other document, materials, or memorandum supplied to the division of thecourt under this chapter. Nothing in this chapter shall be construed as authorizing the withholding of information from the Congress.
+Disclosure of Information.—Except as otherwise provided in this chapter or as is deemed necessary for law enforcement purposes, no officer or employee of the Department of Justice or an office of independent counsel may, without leave of the division of the court, disclose to any individual outside the Department of Justice or such office any notification, application, or any other document, materials, or memorandum supplied to the division of the court under this chapter. Nothing in this chapter shall be construed as authorizing the withholding of information from the Congress.
 
 (f)
 
@@ -90,23 +90,23 @@ Disclosure of information.—Any report, notification, application, or other doc
 
 #### Amendments
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–270 inserted “or as is deemed necessary for law enforcement purposes” after “Except as otherwise provided in this chapter”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–270 inserted "or as is deemed necessary for law enforcement purposes" after "Except as otherwise provided in this chapter".
 
 <b>1987</b>—Pub. L. 100–191 amended section generally, substituting provisions relating to preliminary investigation and application for appointment of an independent counsel for provisions relating to application for appointment of an independent counsel.
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–409, §4(b), designated existing provisions as par. (1), substituted, “Upon receiving information that the Attorney General determines is sufficient to constitute grounds to investigate that any person covered by the Act has engaged in conduct described in subsection (a) or (c) of section 591 of this title, the Attorney General” for “The Attorney General, upon receiving specific information that any of the persons described in section 591(b) of this title has engaged in conduct described in section 591(a) of this title,”, inserted “In determining whether grounds to investigate exist, the Attorney General shall consider—(A) the degree of specificity of the information received, and (B) the credibility of the source of the information.”, and added par. (2).
+<b>1983</b>—Subsec. (a). Pub. L. 97–409, §4(b), designated existing provisions as par. (1), substituted, "Upon receiving information that the Attorney General determines is sufficient to constitute grounds to investigate that any person covered by the Act has engaged in conduct described in subsection (a) or (c) of section 591 of this title, the Attorney General" for "The Attorney General, upon receiving specific information that any of the persons described in section 591(b) of this title has engaged in conduct described in section 591(a) of this title,", inserted "In determining whether grounds to investigate exist, the Attorney General shall consider—(A) the degree of specificity of the information received, and (B) the credibility of the source of the information.", and added par. (2).
 
-Subsec. (b)(1). Pub. L. 97–409, §§2(a)(1)(A), 4(c), substituted “that there are no reasonable grounds to believe that further investigation or prosecution is warranted” for “that the matter is so unsubstantiated that no further investigation or prosecution is warranted” and substituted “independent counsel” for “special prosecutor”.
+Subsec. (b)(1). Pub. L. 97–409, §§2(a)(1)(A), 4(c), substituted "that there are no reasonable grounds to believe that further investigation or prosecution is warranted" for "that the matter is so unsubstantiated that no further investigation or prosecution is warranted" and substituted "independent counsel" for "special prosecutor".
 
-Subsec. (c)(1). Pub. L. 97–409, §§2(a)(1)(A), 4(d), substituted “finds reasonable grounds to believe that further investigation or prosecution is warranted” for “finds the matter warrants further investigation or prosecution” after “preliminary investigation”, “that there are no reasonable grounds to believe that further investigation or prosecution is warranted” for “that the matter is so unsubstantiated as not to warrant further investigation or prosecution”, and “independent counsel” for “special prosecutor”, and inserted provision that in determining whether reasonable grounds exist to warrant further investigation or prosecution, the Attorney General shall comply with written or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
+Subsec. (c)(1). Pub. L. 97–409, §§2(a)(1)(A), 4(d), substituted "finds reasonable grounds to believe that further investigation or prosecution is warranted" for "finds the matter warrants further investigation or prosecution" after "preliminary investigation", "that there are no reasonable grounds to believe that further investigation or prosecution is warranted" for "that the matter is so unsubstantiated as not to warrant further investigation or prosecution", and "independent counsel" for "special prosecutor", and inserted provision that in determining whether reasonable grounds exist to warrant further investigation or prosecution, the Attorney General shall comply with written or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
 
-Subsec. (c)(2). Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in provisions following subpar. (B).
+Subsec. (c)(2). Pub. L. 97–409, §2(a)(1)(A), substituted "independent counsel" for "special prosecutor" in provisions following subpar. (B).
 
-Subsec. (c)(2)(A). Pub. L. 97–409, §4(e)(1), substituted “information sufficient to constitute grounds to investigate” for “specific information” after “receives additional”.
+Subsec. (c)(2)(A). Pub. L. 97–409, §4(e)(1), substituted "information sufficient to constitute grounds to investigate" for "specific information" after "receives additional".
 
-Subsec. (c)(2)(B). Pub. L. 97–409, §4(e)(2), substituted “reasonable grounds exist to warrant” for “such information warrants” after “appropriate, that”.
+Subsec. (c)(2)(B). Pub. L. 97–409, §4(e)(2), substituted "reasonable grounds exist to warrant" for "such information warrants" after "appropriate, that".
 
-Subsecs. (d)(1), (e), (f). Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel's” for “special prosecutor's” wherever appearing.
+Subsecs. (d)(1), (e), (f). Pub. L. 97–409, §2(a)(1), substituted "independent counsel" for "special prosecutor" and "independent counsel's" for "special prosecutor's" wherever appearing.
 
 #### Effective Date of 1994 Amendment
 

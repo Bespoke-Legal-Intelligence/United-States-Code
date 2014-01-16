@@ -38,7 +38,7 @@
 
 #### (b) Qualified individual defined
 
-For purposes of subsection (a), the term “qualified individual” means an individual whois a participant or beneficiary in a health plan or with coverage described in subsection (a)(1) and who meets the following conditions:
+For purposes of subsection (a), the term "qualified individual" means an individual who is a participant or beneficiary in a health plan or with coverage described in subsection (a)(1) and who meets the following conditions:
 
 &emsp;(1) The individual is eligible to participate in an approved clinical trial according to the trial protocol with respect to treatment of cancer or other life-threatening disease or condition.
 
@@ -56,7 +56,7 @@ This section shall not be construed to require a group health plan, or a health 
 
 #### (1) In general
 
-&emsp;In this section, the term “approved clinical trial” means a phase I, phase II, phase III, or phase IV clinical trial that is conducted in relation to the prevention, detection, or treatment of cancer or other life-threatening disease or condition and is described in any of the following subparagraphs:
+&emsp;In this section, the term "approved clinical trial" means a phase I, phase II, phase III, or phase IV clinical trial that is conducted in relation to the prevention, detection, or treatment of cancer or other life-threatening disease or condition and is described in any of the following subparagraphs:
 
 &emsp;&emsp;(A)
 
@@ -96,7 +96,7 @@ Federally funded trials.—The study or investigation is approved or funded (whi
 
 #### (e) Life-threatening condition defined
 
-In this section, the term “life-threatening condition” means any disease or condition from which the likelihood of death is probable unless the course of the disease or condition is interrupted.
+In this section, the term "life-threatening condition" means any disease or condition from which the likelihood of death is probable unless the course of the disease or condition is interrupted.
 
 #### (f) Construction
 
@@ -120,5 +120,5 @@ Another section 2709 of act July 1, 1944, is classified to section 300gg–9 of 
 
 A prior section 2709 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238h of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “A”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "A".</i>
 

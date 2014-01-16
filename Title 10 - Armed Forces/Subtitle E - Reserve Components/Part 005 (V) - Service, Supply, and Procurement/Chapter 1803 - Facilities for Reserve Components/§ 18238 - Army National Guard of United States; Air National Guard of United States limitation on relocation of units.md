@@ -20,7 +20,7 @@ Act
 
 Sept. 11, 1950, ch. 945, §4(b), 64 Stat. 830.
 
-The words “from any community or area” are omitted as surplusage. The word “relocated” is substituted for the words “location \* \* \* be changed”. The words “Territory, or Puerto Rico, or the commanding general of the National Guard of the District of Columbia” are inserted to reflect 50:886(b), since the source statute applied to the District of Columbia and there is no “governor” of the District of Columbia. The words “as the case may be” are substituted for the words “within which such unit is situated”. The words “with regard to such withdrawal or change of location” are omitted as surplusage.
+The words "from any community or area" are omitted as surplusage. The word "relocated" is substituted for the words "location \* \* \* be changed". The words "Territory, or Puerto Rico, or the commanding general of the National Guard of the District of Columbia" are inserted to reflect 50:886(b), since the source statute applied to the District of Columbia and there is no "governor" of the District of Columbia. The words "as the case may be" are substituted for the words "within which such unit is situated". The words "with regard to such withdrawal or change of location" are omitted as surplusage.
 
 1958
 
@@ -38,13 +38,13 @@ Act
 
 Aug. 9, 1955, ch. 662, §1(c), 69 Stat. 593.
 
-The words “shall have been consulted” and “such withdrawal or change of location” are omitted as surplusage.
+The words "shall have been consulted" and "such withdrawal or change of location" are omitted as surplusage.
 
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 2238 of this title as this section.
 
-<b>1982</b>—Pub. L. 97–214 substituted “or, in the case of the District of Columbia, the commanding general of the National Guard of the District of Columbia” for “or Territory, or Puerto Rico, or the commanding general of the District of Columbia, as the case may be”.
+<b>1982</b>—Pub. L. 97–214 substituted "or, in the case of the District of Columbia, the commanding general of the National Guard of the District of Columbia" for "or Territory, or Puerto Rico, or the commanding general of the District of Columbia, as the case may be".
 
 <b>1958</b>—Pub. L. 85–861 required the consent of the governor, or the commanding general of the National Guard of the District of Columbia, prior to relocation or withdrawal.
 

@@ -48,17 +48,17 @@ Voluntary use.—In any case of the use by a State or local government of a Fede
 
 Definitions.—In this subsection:
 
-&emsp;&emsp;(A) The term “State or local government” includes any State, local, regional, or tribal government, or any instrumentality thereof (including any local educational agency or institution of higher education).
+&emsp;&emsp;(A) The term "State or local government" includes any State, local, regional, or tribal government, or any instrumentality thereof (including any local educational agency or institution of higher education).
 
-&emsp;&emsp;(B) The term “tribal government” means—
+&emsp;&emsp;(B) The term "tribal government" means—
 
 &emsp;&emsp;&emsp;(i) the governing body of any Indian tribe, band, nation, or other organized group or community located in the continental United States (excluding the State of Alaska) that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians, and
 
 &emsp;&emsp;&emsp;(ii) any Alaska Native regional or village corporation established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
 
-&emsp;&emsp;(C) The term “local educational agency” has the meaning given that term in section 8013 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7713).
+&emsp;&emsp;(C) The term "local educational agency" has the meaning given that term in section 8013 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7713).
 
-&emsp;&emsp;(D) The term “institution of higher education” has the meaning given that term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+&emsp;&emsp;(D) The term "institution of higher education" has the meaning given that term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
 
 (d)
 
@@ -94,7 +94,7 @@ Limitation.—The authority under this subsection may not be used to purchase su
 
 &emsp;(3)
 
-Qualified organization.—In this subsection, the term “qualified organization” means a relief or disaster assistance organization as described in section 309 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5152).
+Qualified organization.—In this subsection, the term "qualified organization" means a relief or disaster assistance organization as described in section 309 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5152).
 
 (f)
 
@@ -122,7 +122,7 @@ June 30, 1949, ch. 288, title II, §201(b), 63 Stat. 384; Sept. 5, 1950, ch. 849
 
 40:481(b)(2).
 
-In subsection (b)(2), the words “the authority of” in 40:481(b)(2)(B) are omitted as unnecessary. The words “Committee for Purchase From People Who Are Blind or Severely Disabled” are substituted for \[“\]Committee for Purchase from the Blind and Other Severely Handicapped” because of section 911(a) of the Rehabilitation Act Amendments of 1992 (Public Law 102–569, 106 Stat. 4486) and section 301 of the Rehabilitation Act Amendments of 1993 (Public Law 103–73, 107 Stat. 736).
+In subsection (b)(2), the words "the authority of" in 40:481(b)(2)(B) are omitted as unnecessary. The words "Committee for Purchase From People Who Are Blind or Severely Disabled" are substituted for \["\]Committee for Purchase from the Blind and Other Severely Handicapped" because of section 911(a) of the Rehabilitation Act Amendments of 1992 (Public Law 102–569, 106 Stat. 4486) and section 301 of the Rehabilitation Act Amendments of 1993 (Public Law 103–73, 107 Stat. 736).
 
 #### References in Text
 
@@ -132,21 +132,21 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1)(A)(i). Pub. L. 111–350, §5(l)(7)(A), substituted “section 8501(7) of title 41” for “section 5(3) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(3))”.
+<b>2011</b>—Subsec. (b)(1)(A)(i). Pub. L. 111–350, §5(l)(7)(A), substituted "section 8501(7) of title 41" for "section 5(3) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(3))".
 
-Subsec. (b)(1)(A)(ii). Pub. L. 111–350, §5(l)(7)(B), substituted “disabled (as defined in section 8501(6) of title 41)” for “handicapped (as defined in section 5(4) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(4)))”.
+Subsec. (b)(1)(A)(ii). Pub. L. 111–350, §5(l)(7)(B), substituted "disabled (as defined in section 8501(6) of title 41)" for "handicapped (as defined in section 5(4) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(4)))".
 
-Subsec. (b)(1)(B). Pub. L. 111–350, §5(l)(7)(C), substituted “chapter 85 of title 41” for “the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)”.
+Subsec. (b)(1)(B). Pub. L. 111–350, §5(l)(7)(C), substituted "chapter 85 of title 41" for "the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)".
 
-Subsec. (b)(2). Pub. L. 111–350, §5(l)(7)(D), substituted “section 8503 of title 41” for “section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47)”.
+Subsec. (b)(2). Pub. L. 111–350, §5(l)(7)(D), substituted "section 8503 of title 41" for "section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47)".
 
-<b>2010</b>—Subsec. (d)(1). Pub. L. 111–263, §4, inserted “, to facilitate disaster preparedness or response,” after “Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)”.
+<b>2010</b>—Subsec. (d)(1). Pub. L. 111–263, §4, inserted ", to facilitate disaster preparedness or response," after "Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)".
 
 Subsec. (e). Pub. L. 111–263, §2, added subsec. (e).
 
 Subsec. (f). Pub. L. 111–263, §3, added subsec. (f).
 
-<b>2008</b>—Subsec. (c)(1). Pub. L. 110–248 substituted “Administration for the following:” for “Administration for automated”, inserted “(A) Automated” before “data processing”, and added subpar. (B).
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–248 substituted "Administration for the following:" for "Administration for automated", inserted "(A) Automated" before "data processing", and added subpar. (B).
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–364 added subsec. (d).
 
@@ -158,9 +158,9 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 #### Procedures
 
-Pub. L. 109–364, div. A, title VIII, §833(b), Oct. 17, 2006, 120 Stat. 2332, provided that: “Not later than 30 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Administrator of General Services shall establish procedures to implement subsection (d) of section 502 of title 40, United States Code (as added by subsection (a)).”
+Pub. L. 109–364, div. A, title VIII, §833(b), Oct. 17, 2006, 120 Stat. 2332, provided that: "Not later than 30 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Administrator of General Services shall establish procedures to implement subsection (d) of section 502 of title 40, United States Code (as added by subsection (a))."
 
 #### Public Land Management Agency Foundations
 
-Pub. L. 108–352, §9, Oct. 21, 2004, 118 Stat. 1396, provided that: “Employees of the foundations established by Acts of Congress to solicit private sector funds on behalf of Federal land management agencies shall qualify for General Service Administration contract airfares.”
+Pub. L. 108–352, §9, Oct. 21, 2004, 118 Stat. 1396, provided that: "Employees of the foundations established by Acts of Congress to solicit private sector funds on behalf of Federal land management agencies shall qualify for General Service Administration contract airfares."
 

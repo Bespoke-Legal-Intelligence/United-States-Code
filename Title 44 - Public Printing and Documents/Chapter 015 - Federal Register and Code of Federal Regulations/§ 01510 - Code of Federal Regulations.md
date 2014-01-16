@@ -2,7 +2,7 @@
 
 (a) The Administrative Committee of the Federal Register, with the approval of the President, may require, from time to time as it considers necessary, the preparation and publication in special or supplemental editions of the Federal Register of complete codifications of the documents of each agency of the Government having general applicability and legal effect, issued or promulgated by the agency by publication in the Federal Register or by filing with the Administrative Committee, and are relied upon by the agency as authority for, or are invoked or used by it in the discharge of, its activities or functions, and are in effect as to facts arising on or after dates specified by the Administrative Committee.
 
-(b) A codification published under subsection (a) of this section shall be printed and bound in permanent form and shall be designated as the “Code of Federal Regulations.” The Administrative Committee shall regulate the binding of the printed codifications into separate books with a view to practical usefulness and economical manufacture. Each book shall contain an explanation of its coverage and other aids to users that the Administrative Committee may require. A general index to the entire Code of Federal Regulations shall be separately printed and bound.
+(b) A codification published under subsection (a) of this section shall be printed and bound in permanent form and shall be designated as the "Code of Federal Regulations." The Administrative Committee shall regulate the binding of the printed codifications into separate books with a view to practical usefulness and economical manufacture. Each book shall contain an explanation of its coverage and other aids to users that the Administrative Committee may require. A general index to the entire Code of Federal Regulations shall be separately printed and bound.
 
 (c) The Administrative Committee shall regulate the supplementation and the collation and republication of the printed codifications with a view to keeping the Code of Federal Regulations as current as practicable. Each book shall be either supplemented or collated and republished at least once each calendar year.
 
@@ -18,11 +18,11 @@
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §311 (July 26, 1935, ch. 417, §11, 49 Stat. 503; June 19, 1937, ch. 369, 50 Stat. 304;1939 Reorg. Plan No. II, §202, eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1435; Dec. 10, 1942, ch. 717, §2, 56 Stat. 1045; June 30, 1949, ch. 288, title I, §104(b), 63 Stat. 381; Aug. 5, 1953, ch. 333, 67 Stat. 388; Dec. 2, 1963, Pub. L. 88–190, §1, 77 Stat. 343).
+Based on 44 U.S. Code, 1964 ed., §311 (July 26, 1935, ch. 417, §11, 49 Stat. 503; June 19, 1937, ch. 369, 50 Stat. 304; 1939 Reorg. Plan No. II, §202, eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1435; Dec. 10, 1942, ch. 717, §2, 56 Stat. 1045; June 30, 1949, ch. 288, title I, §104(b), 63 Stat. 381; Aug. 5, 1953, ch. 333, 67 Stat. 388; Dec. 2, 1963, Pub. L. 88–190, §1, 77 Stat. 343).
 
 #### Retroactive and Prospective Application
 
-Pub. L. 88–190, §2, Dec. 2, 1963, 77 Stat. 344, provided that: “Section 11 of the Federal Register Act \[section 311 of former Title 44, Public Printing and Documents, now this section\], as amended by the first section of this Act \[amending subsecs. (b) to (d) and (g) of such section 311, now subsecs. (b) to (d) and (g) of this section\], shall apply to the Code of Federal Regulations previously authorized and published as well as to future publications made pursuant to that section as so amended.”
+Pub. L. 88–190, §2, Dec. 2, 1963, 77 Stat. 344, provided that: "Section 11 of the Federal Register Act \[section 311 of former Title 44, Public Printing and Documents, now this section\], as amended by the first section of this Act \[amending subsecs. (b) to (d) and (g) of such section 311, now subsecs. (b) to (d) and (g) of this section\], shall apply to the Code of Federal Regulations previously authorized and published as well as to future publications made pursuant to that section as so amended."
 
 #### Delegation of Functions
 

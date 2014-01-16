@@ -12,15 +12,15 @@ The Attorney General, in consultation with the Secretary of Health and Human Ser
 
 Grants awarded under this section shall be used—
 
-&emsp;(1) to provide personnel, training, technical assistance, advocacy, intervention, risk reduction and prevention of domestic violence, dating violence, stalking, and sexual assault against disabled individuals;
+&emsp;(1) to provide personnel, training, technical assistance, advocacy, intervention, risk reduction (including using evidence-based indicators to assess the risk of domestic and dating violence homicide) and prevention of domesticviolence, dating violence, stalking, and sexual assault against disabled individuals;
 
 &emsp;(2) to conduct outreach activities to ensure that disabled individuals who are victims of domestic violence, dating violence, stalking, or sexual assault receive appropriate assistance;
 
 &emsp;(3) to conduct cross-training for victim service organizations, governmental agencies, courts, law enforcement, and nonprofit, nongovernmental organizations serving individuals with disabilities about risk reduction, intervention, prevention and the nature of domestic violence, dating violence, stalking, and sexual assault for disabled individuals;
 
-&emsp;(4) to provide technical assistance to assist with modifications to existing policies, protocols, and procedures to ensure equal access to the services, programs, and activities of victim service organizations for disabled individuals;
+&emsp;(4) to provide technical assistance to assist with modifications to existing policies, protocols, and procedures to ensure equal access to the services, programs, and activities of victim service providers for disabled individuals;
 
-&emsp;(5) to provide training and technical assistance on the requirements of shelters and victim services organizations under Federal antidiscrimination laws, including—
+&emsp;(5) to provide training and technical assistance on the requirements of shelters and victim service providers under Federal antidiscrimination laws, including—
 
 &emsp;&emsp;(A) the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\]; and
 
@@ -44,7 +44,7 @@ Grants awarded under this section shall be used—
 
 &emsp;&emsp;(C) an Indian tribal government or tribal organization; or
 
-&emsp;&emsp;(D) a nonprofit and nongovernmental victim services organization, such as a State domestic violence or sexual assault coalition or a nonprofit, nongovernmental organization serving disabled individuals.
+&emsp;&emsp;(D) a victim service provider, such as a State or tribal domestic violence or sexual assault coalition or a nonprofit, nongovernmental organization serving disabled individuals.
 
 #### (2) Limitation
 
@@ -56,15 +56,15 @@ In awarding grants under this section, the Director shall ensure that the needs 
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2011 to carry out this section.
+There are authorized to be appropriated $9,000,000 for each of fiscal years 2014 through 2018 to carry out this section.
 
-(Pub. L. 106–386, div. B, title IV, §1402, Oct. 28, 2000, 114 Stat. 1513; Pub. L. 109–162, title II, §204(a), Jan. 5, 2006, 119 Stat. 3000.)
+(Pub. L. 106–386, div. B, title IV, §1402, Oct. 28, 2000, 114 Stat. 1513; Pub. L. 109–162, title II, §204(a), Jan. 5, 2006, 119 Stat. 3000; Pub. L. 113–4, title II, §203, Mar. 7, 2013, 127 Stat. 82.)
 
 #### References in Text
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(5)(A), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
-Section 796f–5 of title 29, referred to in subsec. (c)(2), was in the original “section 410 of the Rehabilitation Act of 1973 (29 U.S.C. 796f–5)” and was translated as meaning section 726 of the Rehabilitation Act of 1973, to reflect the probable intent of Congress.
+Section 796f–5 of title 29, referred to in subsec. (c)(2), was in the original "section 410 of the Rehabilitation Act of 1973 (29 U.S.C. 796f–5)" and was translated as meaning section 726 of the Rehabilitation Act of 1973, to reflect the probable intent of Congress.
 
 #### Codification
 
@@ -72,7 +72,21 @@ Section was enacted as part of the Violence Against Women Act of 2000 and also a
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–162 substituted “Education, training, and enhanced services to end violence against and abuse of women with disabilities” for “Education and training to end violence against and abuse of women with disabilities” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to award of grants to provide education and technical assistance for the purpose of providing training, consultation, and information on domestic violence, stalking, and sexual assault against women who are individuals with disabilities and authorized appropriations for fiscal years 2001 through 2005.
+<b>2013</b>—Subsec. (b)(1). Pub. L. 113–4, §203(1)(A), inserted "(including using evidence-based indicators to assess the risk of domestic and dating violence homicide)" after "risk reduction".
+
+Subsec. (b)(4). Pub. L. 113–4, §203(1)(B), substituted "victim service providers" for "victim service organizations".
+
+Subsec. (b)(5). Pub. L. 113–4, §203(1)(C), substituted "victim service providers" for "victim services organizations" in introductory provisions.
+
+Subsec. (c)(1)(D). Pub. L. 113–4, §203(2), substituted "victim service provider, such as a State or tribal" for "nonprofit and nongovernmental victim services organization, such as a State".
+
+Subsec. (e). Pub. L. 113–4, §203(3), substituted "$9,000,000 for each of fiscal years 2014 through 2018" for "$10,000,000 for each of the fiscal years 2007 through 2011".
+
+<b>2006</b>—Pub. L. 109–162 substituted "Education, training, and enhanced services to end violence against and abuse of women with disabilities" for "Education and training to end violence against and abuse of women with disabilities" in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to award of grants to provide education and technical assistance for the purpose of providing training, consultation, and information on domestic violence, stalking, and sexual assault against women who are individuals with disabilities and authorized appropriations for fiscal years 2001 through 2005.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 2006 Amendment
 

@@ -68,7 +68,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 &emsp;&emsp;(iv) any loan must have terms, in the judgment of the Board, that are consistent in material respects with the terms of similar obligations in the private capital market;
 
-&emsp;&emsp;(v) for purposes of clause (i)(I)(bb), the term “net equity” means the value of the total assets of the entity, less the total liabilities of the entity, as recorded under generally accepted accounting principles for the fiscal quarter ended immediately prior to the date on which the subject loan is approved;
+&emsp;&emsp;(v) for purposes of clause (i)(I)(bb), the term "net equity" means the value of the total assets of the entity, less the total liabilities of the entity, as recorded under generally accepted accounting principles for the fiscal quarter ended immediately prior to the date on which the subject loan is approved;
 
 &emsp;&emsp;(E) repayment of the loan is required to be made within a term of the lesser of—
 
@@ -90,7 +90,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 &emsp;&emsp;&emsp;(ii) the terms, conditions, security, and schedule and amount of repayments of principal and the payment of interest with respect to the loan protect the financial interests of the United States and are reasonable;
 
-&emsp;&emsp;&emsp;(iii) the value of collateral provided by an applicant is at least equal to the unpaidbalance of the loan amount covered by the loan guarantee (the “Amount” for purposes of this clause); and if the value of collateral provided by an applicant is less than the Amount, the additional required collateral is provided by any affiliate of the applicant;
+&emsp;&emsp;&emsp;(iii) the value of collateral provided by an applicant is at least equal to the unpaidbalance of the loan amount covered by the loan guarantee (the "Amount" for purposes of this clause); and if the value of collateral provided by an applicant is less than the Amount, the additional required collateral is provided by any affiliate of the applicant;
 
 &emsp;&emsp;&emsp;(iv) all necessary and required regulatory and other approvals, spectrum licenses, and delivery permissions have been received for the loan and the project under the loan;
 
@@ -146,7 +146,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 #### (2) Guarantee level
 
-&emsp;A loan guarantee issued under this chapter may not exceed an amount equal to 80 percent of a loan meeting in its entirety the requirements of subsection (d)(2)(A) of this section. If only a portion of a loan meets the requirements of that subsection, the Board shall determine that percentage of the loan meeting such requirements (the “applicable portion”) and may issue a loan guarantee in an amount not exceeding 80 percent of the applicable portion.
+&emsp;A loan guarantee issued under this chapter may not exceed an amount equal to 80 percent of a loan meeting in its entirety the requirements of subsection (d)(2)(A) of this section. If only a portion of a loan meets the requirements of that subsection, the Board shall determine that percentage of the loan meeting such requirements (the "applicable portion") and may issue a loan guarantee in an amount not exceeding 80 percent of the applicable portion.
 
 #### (g) Underwriting criteria
 
@@ -186,7 +186,7 @@ Within the period provided for under subsection (b)(1) of this section, the Boar
 
 #### (C) Payment of premiums
 
-&emsp;&emsp;Credit risk premiums under this subsection shall be paid to an account (the “Escrow Account”) established in the Treasury which shall accrue interest and such interest shall be retained by the account, subject to subparagraph (D).
+&emsp;&emsp;Credit risk premiums under this subsection shall be paid to an account (the "Escrow Account") established in the Treasury which shall accrue interest and such interest shall be retained by the account, subject to subparagraph (D).
 
 #### (D) Deductions from Escrow Account
 
@@ -208,11 +208,11 @@ Except as otherwise provided in subsection (j) of this section, the provisions o
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”. See References in Text note set out under section 1101 of this title.
+This chapter, referred to in text, was in the original "this Act", and was translated as reading "this title". See References in Text note set out under section 1101 of this title.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(2)(D)(iii). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight, the Federal Housing Finance Board”.
+<b>2008</b>—Subsec. (d)(2)(D)(iii). Pub. L. 110–289 substituted "Federal Housing Finance Agency" for "Office of Federal Housing Enterprise Oversight, the Federal Housing Finance Board".
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–171, §6404(b)(1)(A), made technical amendments to references in original Act which appear in text as references to sections 1104 and 1109 of this title.
 

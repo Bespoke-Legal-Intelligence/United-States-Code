@@ -30,13 +30,13 @@ Subsection (c) insulates variation margin payments and other deposits from the a
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b). Pub. L. 111–16 substituted “seven days” for “five days” in introductory provisions.
+<b>2009</b>—Subsec. (b). Pub. L. 111–16 substituted "seven days" for "five days" in introductory provisions.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–353 substituted “any transfer by the debtor” for “any transfer”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 substituted "any transfer by the debtor" for "any transfer".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–222, §17(a), substituted “but” for “except”, inserted “such property” after “trustee, and”, and substituted “shall be” for “is” wherever appearing.
+<b>1982</b>—Subsec. (a). Pub. L. 97–222, §17(a), substituted "but" for "except", inserted "such property" after "trustee, and", and substituted "shall be" for "is" wherever appearing.
 
-Subsec. (b). Pub. L. 97–222, §17(b), substituted “order for relief” for “date of the filing of the petition”.
+Subsec. (b). Pub. L. 97–222, §17(b), substituted "order for relief" for "date of the filing of the petition".
 
 Subsec. (c). Pub. L. 97–222, §17(c), struck out subsec. (c) which provided that the trustee could not avoid a transfer that was a margin payment to or deposit with a commodity broker or forward contract merchant or was a settlement payment made by a clearing organization and that occurred before the commencement of the case.
 

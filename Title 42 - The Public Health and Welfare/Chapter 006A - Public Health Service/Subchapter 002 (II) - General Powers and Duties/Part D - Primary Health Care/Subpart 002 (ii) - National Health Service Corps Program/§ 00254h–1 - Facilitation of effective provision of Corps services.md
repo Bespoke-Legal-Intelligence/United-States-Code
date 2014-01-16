@@ -22,7 +22,7 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 #### (c) Grants regarding preparation of students for practice
 
-With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, the Secretary may make grants to, and enter intocontracts with, public and nonprofit private entities (including health professions schools) for the conduct of programs designed to prepare such individuals for the effective provision of primary health services in the health professional shortage areas to which the individuals are assigned.
+With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, the Secretary may make grants to, and enter into contracts with, public and nonprofit private entities (including health professions schools) for the conduct of programs designed to prepare such individuals for the effective provision of primary health services in the health professional shortage areas to which the individuals are assigned.
 
 #### (d) Professional development and training
 
@@ -100,19 +100,19 @@ A prior section 336 of act July 1, 1944, was renumbered section 336A by Pub. L. 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d). Pub. L. 110–355 amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall assist Corps members in establishing appropriate professional relationships between the Corps member involved and the health professions community of the geographic area with respect to which the member is assigned, including such relationships with hospitals, with health professions schools, with area health education centers under section 295g–1 of this title, with health education and training centers under such section, and with border health education and training centers under such section. Such assistance shall include assistance in obtaining faculty appointments at health professions schools.”
+<b>2008</b>—Subsec. (d). Pub. L. 110–355 amended subsec. (d) generally. Prior to amendment, text read as follows: "The Secretary shall assist Corps members in establishing appropriate professional relationships between the Corps member involved and the health professions community of the geographic area with respect to which the member is assigned, including such relationships with hospitals, with health professions schools, with area health education centers under section 295g–1 of this title, with health education and training centers under such section, and with border health education and training centers under such section. Such assistance shall include assistance in obtaining faculty appointments at health professions schools."
 
-<b>2002</b>—Subsecs. (c), (f)(1). Pub. L. 107–251 substituted “health professional shortage areas” for “health manpower shortage areas”.
+<b>2002</b>—Subsecs. (c), (f)(1). Pub. L. 107–251 substituted "health professional shortage areas" for "health manpower shortage areas".
 
 <b>1990</b>—Pub. L. 101–597, §107, amended section generally. Prior to amendment, section read as follows:
 
-“(a) The Secretary may make grants to and enter into contracts with public and private nonprofit entities for the conduct of programs which are designed to prepare individuals subject to a service obligation under the National Health Service Corps Scholarship Program or Loan Repayment Program to effectively provide health services in the health manpower shortage area to which they are assigned.
+"(a) The Secretary may make grants to and enter into contracts with public and private nonprofit entities for the conduct of programs which are designed to prepare individuals subject to a service obligation under the National Health Service Corps Scholarship Program or Loan Repayment Program to effectively provide health services in the health manpower shortage area to which they are assigned.
 
-“(b) No grant may be made or contract entered into under subsection (a) of this section unless an application therefor is submitted to and approved by the Secretary. Such an application shall be in such form, submitted in such manner, and contain such information, as the Secretary shall by regulation prescribe.”
+"(b) No grant may be made or contract entered into under subsection (a) of this section unless an application therefor is submitted to and approved by the Secretary. Such an application shall be in such form, submitted in such manner, and contain such information, as the Secretary shall by regulation prescribe."
 
-Subsec. (a). Pub. L. 101–597, §401(b)\[(a)\], substituted “health professional shortage area” for “health manpower shortage area”.
+Subsec. (a). Pub. L. 101–597, §401(b)\[(a)\], substituted "health professional shortage area" for "health manpower shortage area".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–177 substituted “Scholarship Program or Loan Repayment Program” for “scholarship program”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–177 substituted "Scholarship Program or Loan Repayment Program" for "scholarship program".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

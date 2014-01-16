@@ -18,9 +18,9 @@ There are authorized to be appropriated to the Secretary for the following energ
 
 #### Amendments
 
-<b>1992</b>—Par. (3). Pub. L. 102–486 struck out par. (3) which read as follows: “not to exceed $225,000,000 for fiscal year 1993, of which—
+<b>1992</b>—Par. (3). Pub. L. 102–486 struck out par. (3) which read as follows: "not to exceed $225,000,000 for fiscal year 1993, of which—
 
-&emsp;“(A) not to exceed $73,900,000 shall be available for the transportation program; and
+&emsp;"(A) not to exceed $73,900,000 shall be available for the transportation program; and
 
-&emsp;“(B) not to exceed $56,900,000 shall be available for the industrial program.”
+&emsp;"(B) not to exceed $56,900,000 shall be available for the industrial program."
 

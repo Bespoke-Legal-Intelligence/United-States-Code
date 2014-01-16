@@ -4,7 +4,7 @@
 
 &emsp;(1) The stocks of salmon and steelhead which originate in the rivers of the conservation areas constitute valuable and renewable natural resources. Many groups of commercial, recreational, and treaty fishermen have historically depended upon these stocks of fish for their livelihoods and avocations. These fishery resources contribute to the food supply and economic health of the Pacific Northwest and the Nation as a whole, provide valuable recreational experiences for thousands of citizens from various parts of the United States and represent a central element of the cultures and economies of Indian tribes and the citizens of the Pacific Northwest.
 
-&emsp;(2) Over a period of several decades, competing uses of salmon and steelhead habitat and historical problems relating to conservation measures, the regulation of harvest and enhancement have depressed several of these stocks of salmon and steelhead.
+&emsp;(2) Over a period of several decades, competing uses of salmon and steelhead habitat andhistorical problems relating to conservation measures, the regulation of harvest and enhancement have depressed several of these stocks of salmon and steelhead.
 
 &emsp;(3) Improved management and enhancement planning and coordination among salmon and steelhead managers will help prevent a further decline of salmon and steelhead stocks and will assist in increasing the supply of these stocks.
 
@@ -30,87 +30,87 @@
 
 #### Short Title
 
-Pub. L. 96–561, title I, §101, Dec. 22, 1980, 94 Stat. 3275, provided that: “This title \[enacting this chapter and provisions set out as a note under section 1823 of this title\] may be cited as the ‘Salmon and Steelhead Conservation and Enhancement Act of 1980’.”
+Pub. L. 96–561, title I, §101, Dec. 22, 1980, 94 Stat. 3275, provided that: "This title \[enacting this chapter and provisions set out as a note under section 1823 of this title\] may be cited as the 'Salmon and Steelhead Conservation and Enhancement Act of 1980'."
 
 #### Research and Development Program To Improve Salmon Survival
 
 Pub. L. 104–303, title V, §511, Oct. 12, 1996, 110 Stat. 3761, as amended by Pub. L. 106–53, title V, §582, Aug. 17, 1999, 113 Stat. 375; Pub. L. 110–114, title V, §5025, Nov. 8, 2007, 121 Stat. 1203, provided that:
 
-“(a)
+"(a)
 
 Salmon Survival Activities.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—In conjunction with the Secretary of Commerce and the Secretary of the Interior, the Secretary shall accelerate ongoing research and development activities, and may carry out or participate in additional research and development activities, for the purpose of developing innovative methods and technologies for improving the survival of salmon, especially salmon in the Columbia/Snake River Basin.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Accelerated activities.—Accelerated research and development activities referred to in paragraph (1) may include research and development related to—
 
-&emsp;&emsp;“(A) impacts from water resources projects and other impacts on salmon life cycles;
+&emsp;&emsp;"(A) impacts from water resources projects and other impacts on salmon life cycles;
 
-&emsp;&emsp;“(B) juvenile and adult salmon passage;
+&emsp;&emsp;"(B) juvenile and adult salmon passage;
 
-&emsp;&emsp;“(C) light and sound guidance systems;
+&emsp;&emsp;"(C) light and sound guidance systems;
 
-&emsp;&emsp;“(D) surface-oriented collector systems;
+&emsp;&emsp;"(D) surface-oriented collector systems;
 
-&emsp;&emsp;“(E) transportation mechanisms; and
+&emsp;&emsp;"(E) transportation mechanisms; and
 
-&emsp;&emsp;“(F) dissolved gas monitoring and abatement.
+&emsp;&emsp;"(F) dissolved gas monitoring and abatement.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Additional activities.—Additional research and development activities referred to in paragraph (1) may include research and development related to—
 
-&emsp;&emsp;“(A) studies of juvenile salmon survival in spawning and rearing areas;
+&emsp;&emsp;"(A) studies of juvenile salmon survival in spawning and rearing areas;
 
-&emsp;&emsp;“(B) estuary and near-ocean juvenile and adult salmon survival;
+&emsp;&emsp;"(B) estuary and near-ocean juvenile and adult salmon survival;
 
-&emsp;&emsp;“(C) impacts on salmon life cycles from sources other than water resources projects;
+&emsp;&emsp;"(C) impacts on salmon life cycles from sources other than water resources projects;
 
-&emsp;&emsp;“(D) cryopreservation of fish gametes and formation of a germ plasma repository for threatened and endangered populations of native fish; and
+&emsp;&emsp;"(D) cryopreservation of fish gametes and formation of a germ plasma repository for threatened and endangered populations of native fish; and
 
-&emsp;&emsp;“(E) other innovative technologies and actions intended to improve fish survival, including the survival of resident fish.
+&emsp;&emsp;"(E) other innovative technologies and actions intended to improve fish survival, including the survival of resident fish.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Coordination.—The Secretary shall coordinate any activities carried out under this subsection with appropriate Federal, State, and local agencies, affected Indian tribes, and the Northwest Power Planning Council.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Report.—Not later than 3 years after the date of enactment of the Water Resources Development Act of 1999 \[Aug. 17, 1999\], the Secretary shall submit to Congress a report on the research and development activities carried out under this subsection, including any recommendations of the Secretary concerning the research and development activities.
 
-&emsp;“(6)
+&emsp;"(6)
 
 Authorization of appropriations.—There is authorized to be appropriated $25,000,000 to carry out research and development activities under paragraph (3).
 
-“(b)
+"(b)
 
 Advanced Turbine Development.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—In conjunction with the Secretary of Energy, the Secretary shall accelerate efforts toward developing and installing in Corps of Engineers-operated dams innovative, efficient, and environmentally safe hydropower turbines, including design of fish-friendly turbines, for use on the Columbia/Snake River hydrosystem.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Authorization of appropriations.—There is authorized to be appropriated $35,000,000 to carry out this subsection.
 
-“(c)
+"(c)
 
 Management of Predation on Columbia/Snake River System Native Fishes.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Nesting avian predators.—In conjunction with the Secretary of Commerce and the Secretary of the Interior, and consistent with a management plan to be developed by the United States Fish and Wildlife Service, the Secretary shall carry out methods to reduce nesting populations of avian predators on dredge spoil islands in the Columbia River under the jurisdiction of the Secretary.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Authorization of appropriations.—There is authorized to be appropriated $10,000,000 to carry out research and development activities under this subsection.
 
-“(d)
+"(d)
 
-Implementation.—Nothing in this section affects the authority of the Secretary to implement the results of the research and development carried out under this section or any other law.”
+Implementation.—Nothing in this section affects the authority of the Secretary to implement the results of the research and development carried out under this section or any other law."
 

@@ -12,5 +12,5 @@ The purposes of this chapter are to establish a partnership among the United Sta
 
 #### Amendments
 
-<b>1994</b>—Par. (3). Pub. L. 103–375 inserted “the States and of” after “under the leadership of”.
+<b>1994</b>—Par. (3). Pub. L. 103–375 inserted "the States and of" after "under the leadership of".
 

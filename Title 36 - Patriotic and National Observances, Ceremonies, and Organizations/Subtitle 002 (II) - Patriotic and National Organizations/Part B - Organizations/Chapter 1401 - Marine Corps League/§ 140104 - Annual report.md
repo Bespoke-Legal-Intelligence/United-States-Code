@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Aug. 4, 1937, ch. 564, §4, 50 Stat. 559; Aug. 30, 1964, Pub. L. 88–504, §4(5), 78 Stat. 636.
 
-The words “proceedings and” are omitted as unnecessary.
+The words "proceedings and" are omitted as unnecessary.
 
 #### Termination of Reporting Requirements
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Jan. 4, 1889, ch. 20, (3d sentence words after 2d comma), 25 Stat. 640.
 
-The words “members of the corporation” are substituted for “said incorporators” to reflect the probable intent.
+The words "members of the corporation" are substituted for "said incorporators" to reflect the probable intent.
 

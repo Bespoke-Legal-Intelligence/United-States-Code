@@ -1698,65 +1698,65 @@ $70.00
 
 #### References in Text
 
-This chapter, referred to in subsec. (e), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (e), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 Parts II and III of title III of the Communications Act, referred to in subsec. (g), mean parts II and III of title III of the Communications Act of 1934 which are classified to parts II (§351 et seq.) and III (§381 et seq.), respectively, of subchapter III of this chapter.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (d)(2). Pub. L. 103–414, §303(a)(3), substituted “payment of an” for “payment of a”.
+<b>1994</b>—Subsec. (d)(2). Pub. L. 103–414, §303(a)(3), substituted "payment of an" for "payment of a".
 
-Subsec. (g). Pub. L. 103–414, §303(a)(4), substituted “Additional Application Fee” for “Additional Charge” in item 7.f. under heading “
+Subsec. (g). Pub. L. 103–414, §303(a)(4), substituted "Additional Application Fee" for "Additional Charge" in item 7.f. under heading "
 
-equipment approval services/experimental radio” in Schedule of Application Fees.
+equipment approval services/experimental radio" in Schedule of Application Fees.
 
-Pub. L. 103–414, §302, added item 1.d. under heading “
+Pub. L. 103–414, §302, added item 1.d. under heading "
 
-common carrier services” in Schedule of Application Fees.
+common carrier services" in Schedule of Application Fees.
 
-<b>1993</b>—Pub. L. 103–66, §6003(a)(2)(A), substituted “Application fees” for “Charges” as section catchline.
+<b>1993</b>—Pub. L. 103–66, §6003(a)(2)(A), substituted "Application fees" for "Charges" as section catchline.
 
-Subsecs. (a) to (e). Pub. L. 103–66, §6003(a)(2)(B)–(D), substituted “application fees” for “charges” and “Schedule of Application Fees” for “Schedule of Charges” wherever appearing, and substituted “application fee” for “charge” in subsec. (c).
+Subsecs. (a) to (e). Pub. L. 103–66, §6003(a)(2)(B)–(D), substituted "application fees" for "charges" and "Schedule of Application Fees" for "Schedule of Charges" wherever appearing, and substituted "application fee" for "charge" in subsec. (c).
 
-Subsec. (g). Pub. L. 103–66, §6003(a)(2)(D), in text substituted “Schedule of Application Fees” for “Schedule of Charges”.
+Subsec. (g). Pub. L. 103–66, §6003(a)(2)(D), in text substituted "Schedule of Application Fees" for "Schedule of Charges".
 
-Pub. L. 103–66, §6003(a)(2)(E), which directed amendment of schedule by substituting “
+Pub. L. 103–66, §6003(a)(2)(E), which directed amendment of schedule by substituting "
 
-Schedule of Application Fees” for “
+Schedule of Application Fees" for "
 
-Schedule of Charges”, “
+Schedule of Charges", "
 
-Application fees” for “
+Application fees" for "
 
-Charges”, “application fee” for “charge”, and “Application fees” for “Charges” was executed by substituting “SCHEDULE OF APPLICATION FEES” for “SCHEDULE OF CHARGES” in heading, “
+Charges", "application fee" for "charge", and "Application fees" for "Charges" was executed by substituting "SCHEDULE OF APPLICATION FEES" for "SCHEDULE OF CHARGES" in heading, "
 
-miscellaneous application fees” for “
+miscellaneous application fees" for "
 
-miscellaneous charges” in last subheading, and “application fee” for “charge” in two places in text of schedule, to reflect probable intent of Congress.
+miscellaneous charges" in last subheading, and "application fee" for "charge" in two places in text of schedule, to reflect probable intent of Congress.
 
-<b>1992</b>—Subsec. (g). Pub. L. 102–538 in Schedule of Charges added twenty-second category, relating to Low-Earth Orbit Satellite Systems, under heading “
+<b>1992</b>—Subsec. (g). Pub. L. 102–538 in Schedule of Charges added twenty-second category, relating to Low-Earth Orbit Satellite Systems, under heading "
 
-common carrier services”, and substituted “75.00” for “360.00” in item 3.c., relating to inspection of vessels under the Great Lakes Agreement, under heading “
+common carrier services", and substituted "75.00" for "360.00" in item 3.c., relating to inspection of vessels under the Great Lakes Agreement, under heading "
 
-miscellaneous charges”.
+miscellaneous charges".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §3001(b)(1), struck out at end “The Schedule of Charges established under this subsection shall be implemented not later than 360 days after April 7, 1986.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §3001(b)(1), struck out at end "The Schedule of Charges established under this subsection shall be implemented not later than 360 days after April 7, 1986."
 
-Subsec. (b)(1). Pub. L. 101–239, §3001(b)(2), substituted “October 1, 1991” for “April 1, 1987”.
+Subsec. (b)(1). Pub. L. 101–239, §3001(b)(2), substituted "October 1, 1991" for "April 1, 1987".
 
-Subsec. (d)(1). Pub. L. 101–239, §3001(b)(3), substituted “(A) to governmental entities and nonprofit entities licensed in the following radio services:” for “to the following radio services:” and inserted “(B)” after “Emergency Radio, or”.
+Subsec. (d)(1). Pub. L. 101–239, §3001(b)(3), substituted "(A) to governmental entities and nonprofit entities licensed in the following radio services:" for "to the following radio services:" and inserted "(B)" after "Emergency Radio, or".
 
 Subsec. (g). Pub. L. 101–239, §3001(a), added subsec. (g).
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–594 substituted “two years after April 1, 1987,” for “two years after April 7, 1986,”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–594 substituted "two years after April 1, 1987," for "two years after April 7, 1986,".
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title III, §3001(c), Dec. 19, 1989, 103 Stat. 2131, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 19, 1989\], and the Schedule of Charges required by the amendment made by subsection (a) of this section shall be implemented not later than 150 days after the date of enactment of this Act.”
+Pub. L. 101–239, title III, §3001(c), Dec. 19, 1989, 103 Stat. 2131, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 19, 1989\], and the Schedule of Charges required by the amendment made by subsection (a) of this section shall be implemented not later than 150 days after the date of enactment of this Act."
 
 #### Schedule of Charges
 
 Section 5002(f) of Pub. L. 99–272 established the Schedule of Charges which the Federal Communications Commission is required to prescribe pursuant to subsec. (a) of this section. See subsec. (g) of this section as added by Pub. L. 101–239.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “an application fee”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "an application fee".</i>
 

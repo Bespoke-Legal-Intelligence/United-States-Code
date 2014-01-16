@@ -36,13 +36,13 @@ Tuition.—(1) The United States Air Force Institute of Technology shall charge 
 
 (f)
 
-Standards of Conduct.—While receiving instruction at the United States Air Force Institute of Technology, defense industry employeesenrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
+Standards of Conduct.—While receiving instruction at the United States Air Force Institute of Technology, defense industry employees enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
 
 (Added Pub. L. 111–383, div. A, title V, §593(a), Jan. 7, 2011, 124 Stat. 4232; amended Pub. L. 112–239, div. A, title V, §589(b), Jan. 2, 2013, 126 Stat. 1769.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §589(b)(1), inserted “or professional continuing education certificate” after “graduate degree”.
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §589(b)(1), inserted "or professional continuing education certificate" after "graduate degree".
 
-Subsec. (a)(3). Pub. L. 112–239, §589(b)(2), inserted “or an appropriate professional continuing education certificate, as applicable” before period at end.
+Subsec. (a)(3). Pub. L. 112–239, §589(b)(2), inserted "or an appropriate professional continuing education certificate, as applicable" before period at end.
 

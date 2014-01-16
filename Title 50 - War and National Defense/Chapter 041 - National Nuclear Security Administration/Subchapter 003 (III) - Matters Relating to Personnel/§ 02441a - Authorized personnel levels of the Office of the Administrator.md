@@ -24,7 +24,7 @@
 
 &emsp;(C) Members of the Armed Forces detailed to the Administration.
 
-&emsp;(D) Personnel supporting the Office of the Administrator pursuant to the mobility program under subchapter VI of chapter 33 of title 5 (commonly referred to as the “Intergovernmental Personnel Act Mobility Program”).
+&emsp;(D) Personnel supporting the Office of the Administrator pursuant to the mobility program under subchapter VI of chapter 33 of title 5 (commonly referred to as the "Intergovernmental Personnel Act Mobility Program").
 
 #### (c) Voluntary early retirement
 

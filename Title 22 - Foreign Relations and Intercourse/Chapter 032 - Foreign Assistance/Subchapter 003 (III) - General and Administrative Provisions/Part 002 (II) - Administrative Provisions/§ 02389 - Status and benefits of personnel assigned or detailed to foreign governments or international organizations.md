@@ -12,17 +12,17 @@ Any officer or employee assigned, detailed, or appointed under section 2387, 238
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 2384(d) of this title, referred to in subsec. (b), was repealed by Pub. L. 95–88, title I, §124(a)(1), Aug. 3, 1977, 91 Stat. 541.
 
 #### Amendments
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–465 substituted “section 4085 of this title” for “section 1131 of this title”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–465 substituted "section 4085 of this title" for "section 1131 of this title".
 
 <b>1967</b>—Subsec. (b). Pub. L. 90–137 substituted reference to section 5536 of title 5 for former section 70 of title 5.
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–565 substituted “2384(d)” for “2384(e)”.
+<b>1962</b>—Subsec. (b). Pub. L. 87–565 substituted "2384(d)" for "2384(e)".
 
 #### Effective Date of 1980 Amendment
 

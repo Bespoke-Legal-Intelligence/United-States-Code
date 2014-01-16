@@ -74,25 +74,25 @@ Aug. 23, 1958, Pub. L. 85–726, §1005(c), 72 Stat. 794; restated Aug. 25, 1959
 
 49 App.:1655(c)(1).
 
-In subsection (a)(1), the words “in a proceeding before” are added for clarity. The word “action” is substituted for “orders, decisions, and requirements” to eliminate unnecessary words. The words “for and on behalf of said carrier” are omitted as surplus.
+In subsection (a)(1), the words "in a proceeding before" are added for clarity. The word "action" is substituted for "orders, decisions, and requirements" to eliminate unnecessary words. The words "for and on behalf of said carrier" are omitted as surplus.
 
-In subsection (a)(2)(B), the words “from time to time” are omitted as surplus.
+In subsection (a)(2)(B), the words "from time to time" are omitted as surplus.
 
-In subsection (b)(1)(B), the words “in writing for the purpose” are omitted as surplus.
+In subsection (b)(1)(B), the words "in writing for the purpose" are omitted as surplus.
 
-In subsection (b)(1)(C), the word “addressed” is omitted as surplus.
+In subsection (b)(1)(C), the word "addressed" is omitted as surplus.
 
-In subsection (b)(2), the word “date” is substituted for “time” for clarity and consistency.
+In subsection (b)(2), the word "date" is substituted for "time" for clarity and consistency.
 
-In subsection (c), the words “with like effect as if made personally upon such carrier” are omitted as surplus.
+In subsection (c), the words "with like effect as if made personally upon such carrier" are omitted as surplus.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–71, §140(b)(1), inserted "the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or" after "(or".
 
-Subsec. (a)(2)(A). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator”.
+Subsec. (a)(2)(A). Pub. L. 107–71, §140(b)(2), substituted ", Under Secretary, or Administrator" for "or Administrator".
 
-Subsec. (c). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator”.
+Subsec. (c). Pub. L. 107–71, §140(b)(2), substituted ", Under Secretary, or Administrator" for "or Administrator".
 
 #### Transfer of Functions
 

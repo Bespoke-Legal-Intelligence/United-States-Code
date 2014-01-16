@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Aug. 2, 1946, ch. 756, §28, 60 Stat. 857.
 
-The words “while in debt to the United States” are omitted as surplusage and to avoid the erroneous interpretation that the provision authorizes the payment, out of appropriations, of debts other than to Marine Corps Exchanges.
+The words "while in debt to the United States" are omitted as surplusage and to avoid the erroneous interpretation that the provision authorizes the payment, out of appropriations, of debts other than to Marine Corps Exchanges.
 

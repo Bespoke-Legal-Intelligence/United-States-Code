@@ -38,7 +38,7 @@ In developing the plan required under subsection (a) of this section, the Secret
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Prior Provisions
 
@@ -46,7 +46,7 @@ A prior section 404 of Pub. L. 94–265, amended section 1362 of this title and 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(4). Pub. L. 109–479 struck out “under section 1881 of this title” after “system”.
+<b>2007</b>—Subsec. (c)(4). Pub. L. 109–479 struck out "under section 1881 of this title" after "system".
 
 #### Change of Name
 
@@ -56,21 +56,21 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 Pub. L. 104–297, title II, §208, Oct. 11, 1996, 110 Stat. 3614, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
-“(a)
+"(a)
 
 Study.—The Secretary of Commerce shall conduct a study of the contribution of bycatch to charitable organizations by commercial fishermen. The study shall include determinations of—
 
-&emsp;“(1) the amount of bycatch that is contributed each year to charitable organizations by commercial fishermen;
+&emsp;"(1) the amount of bycatch that is contributed each year to charitable organizations by commercial fishermen;
 
-&emsp;“(2) the economic benefits to commercial fishermen from those contributions; and
+&emsp;"(2) the economic benefits to commercial fishermen from those contributions; and
 
-&emsp;“(3) the impact on fisheries of the availability of those benefits.
+&emsp;"(3) the impact on fisheries of the availability of those benefits.
 
-“(b)
+"(b)
 
 Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Secretary of Commerce shall submit to the Congress a report containing determinations made in the study under subsection (a).
 
-“(c)
+"(c)
 
-Bycatch Defined.—In this section the term ‘bycatch’ has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802\], as amended by section 102 of this Act.”
+Bycatch Defined.—In this section the term 'bycatch' has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802\], as amended by section 102 of this Act."
 

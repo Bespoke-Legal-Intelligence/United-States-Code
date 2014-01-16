@@ -4,7 +4,7 @@
 
 #### (1) Definition of governmental entity
 
-&emsp;In this subsection, the term “governmental entity” means—
+&emsp;In this subsection, the term "governmental entity" means—
 
 &emsp;&emsp;(A) the Commonwealth of Puerto Rico; and
 
@@ -66,7 +66,7 @@
 
 &emsp;(v) includes such other information as the Secretary may require.
 
-(B)(i) The Secretary shall approve or disapprove any plan submitted pursuant to subparagraph (A) no later than August 1 of the year in which it is submitted. The Secretary shall approve any plan which complies with the requirements of subparagraph (A). If a plan is disapproved because it does not comply with any ofthe requirements of that paragraph the Secretary shall, except as provided in subparagraph (B)(ii), notify the appropriate agency in the Commonwealth that payments will not be made to it under subsection (a) of this section for the fiscal year to which the plan applies until the Secretary is satisfied that there is no longer any such failure to comply, and until the Secretary is so satisfied, the Secretary will make no payments.
+(B)(i) The Secretary shall approve or disapprove any plan submitted pursuant to subparagraph (A) no later than August 1 of the year in which it is submitted. The Secretary shall approve any plan which complies with the requirements of subparagraph (A). If a plan is disapproved because it does not comply with any of the requirements of that paragraph the Secretary shall, except as provided in subparagraph (B)(ii), notify the appropriate agency in the Commonwealth that payments will not be made to it under subsection (a) of this section for the fiscal year to which the plan applies until the Secretary is satisfied that there is no longer any such failure to comply, and until the Secretary is so satisfied, the Secretary will make no payments.
 
 (ii) The Secretary may suspend the denial of payments under subparagraph (B)(i) for such period as the Secretary determines appropriate and instead withhold payments provided for under subsection (a) of this section, in whole or in part, for the fiscal year to which the plan applies, until the Secretary is satisfied that there is no longer any failure to comply with the requirements of subparagraph (A), at which time such withheld payments shall be paid.
 
@@ -98,47 +98,47 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2)(A)(ii). Pub. L. 110–246, §§4115(b)(13), 4406(a)(6), substituted “subject to the availability of appropriations under section 2027(a) of this title, for each fiscal year thereafter” for “for each of fiscal years 2004 through 2007” and “section 2012(u)(4)” for “section 2012(o)(4)”.
+<b>2008</b>—Subsec. (a)(2)(A)(ii). Pub. L. 110–246, §§4115(b)(13), 4406(a)(6), substituted "subject to the availability of appropriations under section 2027(a) of this title, for each fiscal year thereafter" for "for each of fiscal years 2004 through 2007" and "section 2012(u)(4)" for "section 2012(o)(4)".
 
-<b>2002</b>—Pub. L. 107–171, §4124(a)(1), substituted “Consolidated block grants for Puerto Rico and American Samoa” for “Puerto Rico block grant” in section catchline.
+<b>2002</b>—Pub. L. 107–171, §4124(a)(1), substituted "Consolidated block grants for Puerto Rico and American Samoa" for "Puerto Rico block grant" in section catchline.
 
 Subsec. (a). Pub. L. 107–171, §4124(a)(1), inserted heading, added pars. (1) and (2), redesignated former par. (2) as (3) and inserted heading, and struck out former par. (1) which read as follows:
 
-“(1)(A) From the sums appropriated under this chapter, the Secretary shall, subject to the provisions ofthis section, pay to the Commonwealth of Puerto Rico—
+"(1)(A) From the sums appropriated under this chapter, the Secretary shall, subject to the provisions of this section, pay to the Commonwealth of Puerto Rico—
 
-&emsp;“(i) for fiscal year 2000, $1,268,000,000;
+&emsp;"(i) for fiscal year 2000, $1,268,000,000;
 
-&emsp;“(ii) for fiscal year 2001, the amount required to be paid under clause (i) for fiscal year 2000, as adjusted by the change in the Food at Home series of the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor, for the most recent 12-month period ending in June; and
+&emsp;"(ii) for fiscal year 2001, the amount required to be paid under clause (i) for fiscal year 2000, as adjusted by the change in the Food at Home series of the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor, for the most recent 12-month period ending in June; and
 
-&emsp;“(iii) for fiscal year 2002, the amount required to be paid under clause (ii) for fiscal year 2001, as adjusted by the percentage by which the thrifty food plan is adjusted for fiscal year 2002 under section 2012(o)(4) of this title;
+&emsp;"(iii) for fiscal year 2002, the amount required to be paid under clause (ii) for fiscal year 2001, as adjusted by the percentage by which the thrifty food plan is adjusted for fiscal year 2002 under section 2012(o)(4) of this title;
 
 > to finance 100 percent of the expenditures for food assistance provided to needy persons and 50 percent of the administrative expenses related to the provision of the assistance.
 
-“(B) The payments to the Commonwealth for any fiscal year shall not exceed the expenditures by that jurisdiction during that year for the provision of the assistance the provision of which is included in the plan of the Commonwealth approved under subsection (b) of this section and 50 per centum of the related administrative expenses.”
+"(B) The payments to the Commonwealth for any fiscal year shall not exceed the expenditures by that jurisdiction during that year for the provision of the assistance the provision of which is included in the plan of the Commonwealth approved under subsection (b) of this section and 50 per centum of the related administrative expenses."
 
-Subsec. (b). Pub. L. 107–171, §4124(a)(2), substituted “subsection (a)(2)(B) of this section” for “subsection (a)(1)(A) of this section” wherever appearing.
+Subsec. (b). Pub. L. 107–171, §4124(a)(2), substituted "subsection (a)(2)(B) of this section" for "subsection (a)(1)(A) of this section" wherever appearing.
 
-Subsec. (c). Pub. L. 107–171, §4124(a)(3), substituted “subsection (a)(2)(A) of this section” for “subsection (a)(1)(A) of this section” in two places.
+Subsec. (c). Pub. L. 107–171, §4124(a)(3), substituted "subsection (a)(2)(A) of this section" for "subsection (a)(1)(A) of this section" in two places.
 
-<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–387 substituted “Puerto Rico—” and cls. (i) to (iii) for “Puerto Rico $1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002,”.
+<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–387 substituted "Puerto Rico—" and cls. (i) to (iii) for "Puerto Rico $1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002,".
 
-<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–127 substituted “$1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002” for “$974,000,000 for fiscal year 1991, $1,013,000,000 for fiscal year 1992, $1,051,000,000 for fiscal year 1993, $1,097,000,000 for fiscal year 1994, and $1,143,000,000 for fiscal year 1995”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–127 substituted "$1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscalyear 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002" for "$974,000,000 for fiscal year 1991, $1,013,000,000 for fiscal year 1992, $1,051,000,000 for fiscal year 1993, $1,097,000,000 for fiscal year 1994, and $1,143,000,000 for fiscal year 1995".
 
-<b>1993</b>—Subsec. (a)(1)(A). Pub. L. 103–66 substituted “$1,097,000,000” for “$1,091,000,000” and “$1,143,000,000” for “$1,133,000,000”.
+<b>1993</b>—Subsec. (a)(1)(A). Pub. L. 103–66 substituted "$1,097,000,000" for "$1,091,000,000" and "$1,143,000,000" for "$1,133,000,000".
 
-<b>1991</b>—Subsec. (b)(1)(A)(i). Pub. L. 102–237 struck out a period after “directly”.
+<b>1991</b>—Subsec. (b)(1)(A)(i). Pub. L. 102–237 struck out a period after "directly".
 
-<b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–624 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “From the sums appropriated under this chapter the Secretary shall, subject to the provisions of this subsection and subsection (b) of this section, pay to the Commonwealth of Puerto Rico not to exceed $825,000,000 for the fiscal year ending September 30, 1986, $852,750,000 for the fiscal year ending September 30, 1987, $879,750,000 for the fiscal year ending September 30, 1988, $908,250,000 for the fiscal year ending September 30, 1989, and $936,750,000 for the fiscal year ending September 30, 1990, to finance 100 per centum of the expenditures for food assistance provided to needy persons, and 50 per centum of the administrative expenses related to the provision of such assistance.”
+<b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–624 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "From the sums appropriated under this chapter the Secretary shall, subject to the provisions of this subsection and subsection (b) of this section, pay to the Commonwealth of Puerto Rico not to exceed $825,000,000 for the fiscal year ending September 30, 1986, $852,750,000 for the fiscal year ending September 30, 1987, $879,750,000 for the fiscal year ending September 30, 1988, $908,250,000 for the fiscal year ending September 30, 1989, and $936,750,000 for the fiscal year ending September 30, 1990, to finance 100 per centum of the expenditures for food assistance provided to needy persons, and 50 per centum of the administrative expenses related to the provision of such assistance."
 
-<b>1985</b>—Subsec. (a)(1)(A). Pub. L. 99–198, §1543(1), (2), substituted “for the fiscal year ending September 30, 1986, $852,750,000 for the fiscal year ending September 30, 1987, $879,750,000 for the fiscal year ending September 30, 1988, $908,250,000 for the fiscal year ending September 30, 1989, and $936,750,000 for the fiscal year ending September 30, 1990,” for “for each fiscal year” and struck out “noncash” after “100 per centum of the expenditures for”.
+<b>1985</b>—Subsec. (a)(1)(A). Pub. L. 99–198, §1543(1), (2), substituted "for the fiscal year ending September 30, 1986, $852,750,000 for the fiscal year ending September 30, 1987, $879,750,000 for the fiscal year ending September 30, 1988, $908,250,000 for the fiscal year ending September 30, 1989, and $936,750,000 for the fiscal year ending September 30, 1990," for "for each fiscal year" and struck out "noncash" after "100 per centum of the expenditures for".
 
-Pub. L. 99–114, Pub. L. 99–157, and Pub. L. 99–182, made identical amendments which temporarily struck out “noncash” after “100 per centum of the expenditures for”, for specified periods of time. See Effective and Termination Dates of 1985 Amendments note below.
+Pub. L. 99–114, Pub. L. 99–157, and Pub. L. 99–182, made identical amendments which temporarily struck out "noncash" after "100 per centum of the expenditures for", for specified periods of time. See Effective and Termination Dates of 1985 Amendments note below.
 
-Subsec. (b)(1)(A)(i). Pub. L. 99–198, §1543(3), substituted “the agency or agencies directly.” for “a single agency which shall be”.
+Subsec. (b)(1)(A)(i). Pub. L. 99–198, §1543(3), substituted "the agency or agencies directly." for "a single agency which shall be".
 
-<b>1983</b>—Subsec. (a)(1)(A). Pub. L. 98–204 temporarily struck out “noncash” after “100 per centum of the expenditures for”. See Effective and Termination Dates of 1983 Amendment note below.
+<b>1983</b>—Subsec. (a)(1)(A). Pub. L. 98–204 temporarily struck out "noncash" after "100 per centum of the expenditures for". See Effective and Termination Dates of 1983 Amendment note below.
 
-<b>1982</b>—Subsec. (a)(1)(A). Pub. L. 97–253 substituted “the expenditures for noncash food assistance” for “the expenditures for food assistance”.
+<b>1982</b>—Subsec. (a)(1)(A). Pub. L. 97–253 substituted "the expenditures for noncash food assistance" for "the expenditures for food assistance".
 
 #### Effective Date of 2008 Amendment
 
@@ -150,21 +150,21 @@ Amendment by sections 4115(b)(13) and 4406(a)(6) of Pub. L. 110–246 effective 
 
 Pub. L. 107–171, title IV, §4124(c), (d), May 13, 2002, 116 Stat. 326, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(C), May 22, 2008, 122 Stat. 1096; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
 
-“(c)
+"(c)
 
 Applicability.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and repealing section 2033 of this title\] apply beginning on October 1, 2002.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Exceptions.—Subparagraphs (B)(ii) and (D) of section 19(a)(2) of the Food and Nutrition Act of 2008 \[7 U.S.C. 2028(a)(2)\] (as amended by subsection (a)(1)) apply beginning on the date of enactment of this Act \[May 13, 2002\].
 
-“(d)
+"(d)
 
-Effective Date.—The amendments made by this section \[amending this section and repealing section 2033 of this title\] take effect on the date of enactment of this Act \[May 13, 2002\].”
+Effective Date.—The amendments made by this section \[amending this section and repealing section 2033 of this title\] take effect on the date of enactment of this Act \[May 13, 2002\]."
 
 #### Effective Date of 1993 Amendment
 
@@ -194,7 +194,7 @@ Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385, provided that the amendment 
 
 Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub. L. 97–253, set out as a note under section 2012 of this title.
 
-Pub. L. 97–253, title I, §184(b), Sept. 8, 1982, 96 Stat. 785, as amended by Pub. L. 98–107, §101(b), Oct. 1, 1983, 97 Stat. 734, provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply with respect to any plan submitted under section 19(b) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\] (7 U.S.C. 2028(b)) by the Commonwealth of Puerto Rico in order to receive payments for the fiscal year ending September 30, 1982, or the fiscal year ending September 30, 1983, or for the first three months of the fiscal year ending September 30, 1984.”
+Pub. L. 97–253, title I, §184(b), Sept. 8, 1982, 96 Stat. 785, as amended by Pub. L. 98–107, §101(b), Oct. 1, 1983, 97 Stat. 734, provided that: "The amendment made by subsection (a) \[amending this section\] shall not apply with respect to any plan submitted under section 19(b) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\] (7 U.S.C. 2028(b)) by the Commonwealth of Puerto Rico in order to receive payments for the fiscal year ending September 30, 1982, or the fiscal year ending September 30, 1983, or for the first three months of the fiscal year ending September 30, 1984."
 
 #### Effective Date
 
@@ -202,37 +202,37 @@ Pub. L. 97–35, title I, §116(a), Aug. 13, 1981, 95 Stat. 364, provided that t
 
 #### Nutrition Assistance Program in Puerto Rico
 
-Pub. L. 101–624, title XVII, §1762(a), Nov. 28, 1990, 104 Stat. 3804, provided that: “It is the policy of Congress that citizens of the United States who reside in the Commonwealth of Puerto Rico should be safeguarded against hunger and treated on an equitable and fair basis with other citizens under Federal nutritional programs.”
+Pub. L. 101–624, title XVII, §1762(a), Nov. 28, 1990, 104 Stat. 3804, provided that: "It is the policy of Congress that citizens of the United States who reside in the Commonwealth of Puerto Rico should be safeguarded against hunger and treated on an equitable and fair basis with other citizens under Federal nutritional programs."
 
 #### Nutritional Needs of Puerto Ricans; Study and Report to Congress
 
-Pub. L. 101–624, title XVII, §1762(c), (d), Nov. 28, 1990, 104 Stat. 3805, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(KK), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(KK), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 101–624, title XVII, §1762(c), (d), Nov. 28, 1990, 104 Stat. 3805, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(KK), May 22, 2008, 122 Stat.1095, 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(KK), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
-“(c)
+"(c)
 
 Study of Nutritional Needs of Puerto Ricans.—The Comptroller General of the United States shall conduct a study of—
 
-&emsp;“(1) the nutritional needs of the citizens of the Commonwealth of Puerto Rico, including—
+&emsp;"(1) the nutritional needs of the citizens of the Commonwealth of Puerto Rico, including—
 
-&emsp;&emsp;“(A) the adequacy of the nutritional level of the diets of members of households receiving assistance under the nutrition assistance program and other households not currently receiving the assistance;
+&emsp;&emsp;"(A) the adequacy of the nutritional level of the diets of members of households receiving assistance under the nutrition assistance program and other households not currently receiving the assistance;
 
-&emsp;&emsp;“(B) the incidence of inadequate nutrition among children and the elderly residing in the Commonwealth;
+&emsp;&emsp;"(B) the incidence of inadequate nutrition among children and the elderly residing in the Commonwealth;
 
-&emsp;&emsp;“(C) the nutritional impact of restoring the level of nutritional assistance provided to households in the Commonwealth to the level of the assistance provided to other households in the United States; and
+&emsp;&emsp;"(C) the nutritional impact of restoring the level of nutritional assistance provided to households in the Commonwealth to the level of the assistance provided to other households in the United States; and
 
-&emsp;&emsp;“(D) such other factors as the Comptroller General considers appropriate; and
+&emsp;&emsp;"(D) such other factors as the Comptroller General considers appropriate; and
 
-&emsp;“(2) the potential alternative means of providing nutritional assistance in the Commonwealth of Puerto Rico, including—
+&emsp;"(2) the potential alternative means of providing nutritional assistance in the Commonwealth of Puerto Rico, including—
 
-&emsp;&emsp;“(A) the impact of restoring the Commonwealth to the supplemental nutrition assistance program;
+&emsp;&emsp;"(A) the impact of restoring the Commonwealth to the supplemental nutrition assistance program;
 
-&emsp;&emsp;“(B) increasing the benefits provided under the nutrition assistance program to the aggregate value of supplemental nutrition assistance program benefits coupons that would be distributed to households in the Commonwealth if the Commonwealth were to participate in the supplemental nutrition assistance program; and
+&emsp;&emsp;"(B) increasing the benefits provided under the nutrition assistance program to the aggregate value of supplemental nutrition assistance program benefits coupons that would be distributed to households in the Commonwealth if the Commonwealth were to participate in the supplemental nutrition assistance program; and
 
-&emsp;&emsp;“(C) the usefulness of adjustments to standards of eligibility and other factors appropriate to the circumstances of the Commonwealth comparable to those adjustments made under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) for Alaska, Hawaii, Guam, and the Virgin Islands of the United States.
+&emsp;&emsp;"(C) the usefulness of adjustments to standards of eligibility and other factors appropriate to the circumstances of the Commonwealth comparable to those adjustments made under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) for Alaska, Hawaii, Guam, and the Virgin Islands of the United States.
 
-“(d)
+"(d)
 
-Report of Findings.—Not later than August 1, 1992, the Comptroller General shall submit a final report on the findings of the study required under subsection (c) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.”
+Report of Findings.—Not later than August 1, 1992, the Comptroller General shall submit a final report on the findings of the study required under subsection (c) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate."
 
 #### Study of Food Assistance Program in Puerto Rico; Report to Congress by March 1, 1985
 

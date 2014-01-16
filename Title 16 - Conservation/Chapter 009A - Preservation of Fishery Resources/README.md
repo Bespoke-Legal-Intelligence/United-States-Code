@@ -22,7 +22,7 @@
 | 758e–1a. | Cooperative program for development of tuna and other latent fishery resources in area; establishment; availability of project information. |
 | 758e–2. | Repealed. |
 | 758e–3. | Regulations; contract terms and conditions. |
-| 758e–4. | “Central, Western, and South Pacific Ocean area” defined. |
+| 758e–4. | "Central, Western, and South Pacific Ocean area" defined. |
 | 758e–5. | Authorization of appropriations. |
 | [759\.](%C2%A7%2000759%20-%20Omitted.md) | Omitted. |
 | [760\.](%C2%A7%2000760%20-%20Establishment%20of%20rearing%20ponds%20and%20fish%20hatchery%20in%20Kentucky.md) | Establishment of rearing ponds and fish hatchery in Kentucky. |
@@ -74,7 +74,7 @@
 - [&sect; 00758e&#8211;1a - Cooperative program for development of tuna and other latent fishery resources in area; establishment; availability of project&#8230;](%C2%A7%2000758e%E2%80%931a%20-%20Cooperative%20program%20for%20development%20of%20tuna%20and%20other%20latent%20fishery%20resources%20in%20area%3B%20establishment%3B%20availability%20of%20project%E2%80%A6.md)
 - [&sect; 00758e&#8211;2 - Repealed. Pub. L. 99&#8211;386, title I, &sect;102, Aug. 22, 1986, 100 Stat. 821](%C2%A7%2000758e%E2%80%932%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93386%2C%20title%20I%2C%20%C2%A7102%2C%20Aug.%2022%2C%201986%2C%20100%20Stat.%20821.md)
 - [&sect; 00758e&#8211;3 - Regulations; contract terms and conditions](%C2%A7%2000758e%E2%80%933%20-%20Regulations%3B%20contract%20terms%20and%20conditions.md)
-- [&sect; 00758e&#8211;4 - &#8220;Central, Western, and South Pacific Ocean area&#8221; defined](%C2%A7%2000758e%E2%80%934%20-%20%E2%80%9CCentral%2C%20Western%2C%20and%20South%20Pacific%20Ocean%20area%E2%80%9D%20defined.md)
+- [&sect; 00758e&#8211;4 - Central, Western, and South Pacific Ocean area defined](%C2%A7%2000758e%E2%80%934%20-%20Central%2C%20Western%2C%20and%20South%20Pacific%20Ocean%20area%20defined.md)
 - [&sect; 00758e&#8211;5 - Authorization of appropriations](%C2%A7%2000758e%E2%80%935%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00759 - Omitted](%C2%A7%2000759%20-%20Omitted.md)
 - [&sect; 00760 - Establishment of rearing ponds and fish hatchery in Kentucky](%C2%A7%2000760%20-%20Establishment%20of%20rearing%20ponds%20and%20fish%20hatchery%20in%20Kentucky.md)

@@ -4,15 +4,15 @@ For purposes of this subchapter, the following definitions shall apply:
 
 &emsp;(1)
 
-Board.—The term “Board” means the Board of Governors of the Federal Reserve System.
+Board.—The term "Board" means the Board of Governors of the Federal Reserve System.
 
 &emsp;(2)
 
-Depository institution.—The term “depository institution” has the same meaning as in section 3 of the Federal Deposit Insurance Act.
+Depository institution.—The term "depository institution" has the same meaning as in section 3 of the Federal Deposit Insurance Act.
 
 &emsp;(3)
 
-Clearing bank.—The term “clearing bank” means an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 <sup>1</sup> of the Federal Deposit Insurance Corporation Improvement Act of 1991.
+Clearing bank.—The term "clearing bank" means an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 <sup>1</sup> of the Federal Deposit Insurance Corporation Improvement Act of 1991.
 
 (Added Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(5)(B)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.)
 

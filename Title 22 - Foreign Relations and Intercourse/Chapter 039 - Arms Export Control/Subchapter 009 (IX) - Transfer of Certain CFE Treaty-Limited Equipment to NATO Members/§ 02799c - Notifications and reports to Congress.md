@@ -22,7 +22,7 @@ Not later than February 1 each year, the President shall submit to the Committee
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b)(3)(B). Pub. L. 103–199 substituted “country of the Eastern Group of States Parties” for “Warsaw Pact country”.
+<b>1993</b>—Subsec. (b)(3)(B). Pub. L. 103–199 substituted "country of the Eastern Group of States Parties" for "Warsaw Pact country".
 
 #### Delegation of Functions
 

@@ -6,7 +6,7 @@ The National Coordinator may award competitive grants to eligible entities for t
 
 #### (b) Eligible entity defined
 
-For purposes of this subsection, the term “eligible entity” means a State or Indian tribe (as defined in the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]) that—
+For purposes of this subsection, the term "eligible entity" means a State or Indian tribe (as defined in the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]) that—
 
 &emsp;(1) submits to the National Coordinator an application at such time, in such manner, and containing such information as the National Coordinator may require;
 
@@ -34,7 +34,7 @@ For purposes of this subsection, the term “eligible entity” means a State or
 
 #### (c) Establishment of fund
 
-For purposes of subsection (b)(3), an eligible entity shall establish a certified EHR technology loan fund (referred to in this subsection as a “Loan Fund”) and comply with the other requirements contained in this section. A grant to an eligible entity under this section shall be deposited in the Loan Fund established by the eligible entity. No funds authorized by other provisions of this subchapter to be used for other purposes specified in this subchapter shall be deposited in any Loan Fund.
+For purposes of subsection (b)(3), an eligible entity shall establish a certified EHR technology loan fund (referred to in this subsection as a "Loan Fund") and comply with the other requirements contained in this section. A grant to an eligible entity under this section shall be deposited in the Loan Fund established by the eligible entity. No funds authorized by other provisions of this subchapter to be used for other purposes specified in this subchapter shall be deposited in any Loan Fund.
 
 #### (d) Strategic plan
 
@@ -108,7 +108,7 @@ Except as otherwise limited by applicable State law, amounts deposited into a Lo
 
 #### (A) In general
 
-&emsp;&emsp;A Loan Fund established under this section may accept contributions from private sector entities, except that such entities may not specify the recipient or recipients of any loan issued under this subsection. An eligible entity may agree to reimburse a private sector entity for any contribution made under this subparagraph, except that the amount of such reimbursement may not be greater than the principal amount of the contribution made.
+&emsp;&emsp;A Loan Fund established under this section may accept contributions from private sector entities, except that such entitiesmay not specify the recipient or recipients of any loan issued under this subsection. An eligible entity may agree to reimburse a private sector entity for any contribution made under this subparagraph, except that the amount of such reimbursement may not be greater than the principal amount of the contribution made.
 
 #### (B) Availability of information
 
@@ -118,7 +118,7 @@ Except as otherwise limited by applicable State law, amounts deposited into a Lo
 
 #### (1) In general
 
-&emsp;The National Coordinator may not make a grant under subsection (a) to an eligible entity unless the entity agrees to make available (directly or through donations from public or private entities) non-Federal contributions incash to the costs of carrying out the activities for which the grant is awarded in an amount equal to not less than $1 for each $5 of Federal funds provided under the grant.
+&emsp;The National Coordinator may not make a grant under subsection (a) to an eligible entity unless the entity agrees to make available (directly or through donations from public or private entities) non-Federal contributions in cash to the costs of carrying out the activities for which the grant is awarded in an amount equal to not less than $1 for each $5 of Federal funds provided under the grant.
 
 #### (2) Determination of amount of non-Federal contribution
 
@@ -136,7 +136,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should appear at end of subpar. (D).</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should appear at end of subpar. (D).</i>
 
-<i><sup>2</sup></i><i> So in original. Probably means “paragraph (1),”.</i>
+<i><sup>2</sup></i><i> So in original. Probably means "paragraph (1),".</i>
 

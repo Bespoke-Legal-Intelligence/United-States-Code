@@ -6,7 +6,7 @@ Establishment.—There is established in the General Services Administration a F
 
 (b)
 
-Functions.—Subject to the direction and control of the Administrator of General Services, the Commissioner of the Federal Acquisition Service shall be responsible for carrying out functions related to the uses for which the Acquisition Services Fund is authorized under section 321 of this title, including any functions that were carried out by the entities known as the Federal Supply Service and the FederalTechnology Service and such other related functions as the Administrator considers appropriate.
+Functions.—Subject to the direction and control of the Administrator of General Services, the Commissioner of the Federal Acquisition Service shall be responsible for carrying out functions related to the uses for which theAcquisition Services Fund is authorized under section 321 of this title, including any functions that were carried out by the entities known as the Federal Supply Service and the Federal Technology Service and such other related functions as the Administrator considers appropriate.
 
 (c)
 
@@ -50,47 +50,47 @@ In subsection (b), the text of 40:753(a) (related to Public Roads) is omitted be
 
 <b>2006</b>—Pub. L. 109–313 amended section catchline and text generally. Prior to amendment, text read as follows:
 
-“(a)
+"(a)
 
 Bureau of Federal Supply.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Transfer of functions.—Subject to paragraph (2), the functions of the Administrator of General Services include functions related to the Bureau of Federal Supply in the Department of the Treasury that, immediately before July 1, 1949, were functions of—
 
-&emsp;&emsp;“(A) the Bureau;
+&emsp;&emsp;"(A) the Bureau;
 
-&emsp;&emsp;“(B) the Director of the Bureau;
+&emsp;&emsp;"(B) the Director of the Bureau;
 
-&emsp;&emsp;“(C) the personnel of the Bureau; or
+&emsp;&emsp;"(C) the personnel of the Bureau; or
 
-&emsp;&emsp;“(D) the Secretary of the Treasury.
+&emsp;&emsp;"(D) the Secretary of the Treasury.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Functions not transferred.—The functions of the Administrator of General Services do not include functions retained in the Department of the Treasury under section 102(c) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380).
 
-“(b)
+"(b)
 
 Federal Works Agency and Commissioner of Public Buildings.—The functions of the Administrator of General Services include functions related to the Federal Works Agency and functions related to the Commissioner of Public Buildings that, immediately before July 1, 1949, were functions of—
 
-&emsp;“(1) the Federal Works Agency;
+&emsp;"(1) the Federal Works Agency;
 
-&emsp;“(2) the Federal Works Administrator; or
+&emsp;"(2) the Federal Works Administrator; or
 
-&emsp;“(3) the Commissioner of Public Buildings.”
+&emsp;"(3) the Commissioner of Public Buildings."
 
 #### Change of Name
 
-Pub. L. 109–313, §2(c), Oct. 6, 2006, 120 Stat. 1735, provided that: “Any reference in any other Federal law, Executive order, rule, regulation, reorganization plan, or delegation of authority, or in any document—
+Pub. L. 109–313, §2(c), Oct. 6, 2006, 120 Stat. 1735, provided that: "Any reference in any other Federal law, Executive order, rule, regulation, reorganization plan, or delegation of authority, or in any document—
 
-&emsp;“(1) to the Federal Supply Service is deemed to refer to the Federal Acquisition Service;
+&emsp;"(1) to the Federal Supply Service is deemed to refer to the Federal Acquisition Service;
 
-&emsp;“(2) to the GSA Federal Technology Service is deemed to refer to the Federal Acquisition Service;
+&emsp;"(2) to the GSA Federal Technology Service is deemed to refer to the Federal Acquisition Service;
 
-&emsp;“(3) to the Commissioner of the Federal Supply Service is deemed to refer to the Commissioner of the Federal Acquisition Service; and
+&emsp;"(3) to the Commissioner of the Federal Supply Service is deemed to refer to the Commissioner of the Federal Acquisition Service; and
 
-&emsp;“(4) to the Commissioner of the GSA Federal Technology Service is deemed to refer to the Commissioner of the Federal Acquisition Service.”
+&emsp;"(4) to the Commissioner of the GSA Federal Technology Service is deemed to refer to the Commissioner of the Federal Acquisition Service."
 
 #### Effective Date of 2006 Amendment
 

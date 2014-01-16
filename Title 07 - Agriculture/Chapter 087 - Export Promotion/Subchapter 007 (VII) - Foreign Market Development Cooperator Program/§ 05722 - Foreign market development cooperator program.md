@@ -20,9 +20,9 @@ The Secretary shall annually submit to the Committee on Agriculture and the Comm
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–246 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–246 substituted "Committee on Foreign Affairs" for "Committee on International Relations".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171, §3105(a)(1), inserted “, with a continued significant emphasis on the importance of the export of value-added United States agricultural products into emerging markets” after “products”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §3105(a)(1), inserted ", with a continued significant emphasis on the importance of the export of value-added United States agricultural products into emerging markets" after "products".
 
 Subsec. (c). Pub. L. 107–171, §3105(a)(2), added subsec. (c).
 

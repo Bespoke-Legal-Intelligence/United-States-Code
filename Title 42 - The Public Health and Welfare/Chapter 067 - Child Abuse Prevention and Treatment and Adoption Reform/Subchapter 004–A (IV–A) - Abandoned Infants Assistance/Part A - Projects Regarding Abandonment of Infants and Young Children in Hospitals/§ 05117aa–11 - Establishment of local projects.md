@@ -30,7 +30,7 @@ The Secretary may not make a grant under subsection (a) unless the applicant for
 
 #### (c) Case plan with respect to foster care
 
-The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, if the applicant expends the grant to carry out any program of providing care to infants and young children in foster homes or inother nonmedical residential settings away from their parents, the applicant will ensure that—
+The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, if the applicant expends the grant to carry out any program of providing care to infants and young children in foster homes or in other nonmedical residential settings away from their parents, the applicant will ensure that—
 
 &emsp;(1) a case plan of the type described in paragraph (1) of section 675 of this title is developed for each such infant and young child (to the extent that such infant and young child is not otherwise covered by such a plan); and
 
@@ -80,29 +80,29 @@ In making grants under subsection (a), the Secretary shall give priority to appl
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–36, §302(1), substituted “Establishment of local projects” for “Establishment of program of demonstration projects” in section catchline.
+<b>2003</b>—Pub. L. 108–36, §302(1), substituted "Establishment of local projects" for "Establishment of program of demonstration projects" in section catchline.
 
-Subsec. (b). Pub. L. 108–36, §302(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, in carrying out the purpose described in subsection (a) (other than with respect to paragraph (6) of such subsection), the applicant will give priority to abandoned infants and young children—
+Subsec. (b). Pub. L. 108–36, §302(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, in carrying out the purpose described in subsection (a) (other than with respect to paragraph (6) of such subsection), the applicant will give priority to abandoned infants and young children—
 
-&emsp;“(1) who are infected with the human immunodeficiency virus or who have been perinatally exposed to the virus; or
+&emsp;"(1) who are infected with the human immunodeficiency virus or who have been perinatally exposed to the virus; or
 
-&emsp;“(2) who have been perinatally exposed to a dangerous drug.”
+&emsp;"(2) who have been perinatally exposed to a dangerous drug."
 
 <b>1996</b>—Subsec. (h). Pub. L. 104–235 added subsec. (h).
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–236, §3(c)(1), inserted before semicolon at end “, including the provision of services to members of the natural family for any condition that increases the probability of abandonment of an infant or young child”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–236, §3(c)(1), inserted before semicolon at end ", including the provision ofservices to members of the natural family for any condition that increases the probability of abandonment of an infant or young child".
 
-Subsec. (a)(2). Pub. L. 102–236, §3(a)(2)(A)(ii), struck out “, particularly those with acquired immune deficiency syndrome” after “young children”.
+Subsec. (a)(2). Pub. L. 102–236, §3(a)(2)(A)(ii), struck out ", particularly those with acquired immune deficiency syndrome" after "young children".
 
-Subsec. (a)(3). Pub. L. 102–236, §3(a)(2)(A)(iii), struck out “, particularly those with acquired immune deficiency syndrome,” after “young children”.
+Subsec. (a)(3). Pub. L. 102–236, §3(a)(2)(A)(iii), struck out ", particularly those with acquired immune deficiency syndrome," after "young children".
 
-Subsec. (a)(4). Pub. L. 102–236, §3(a)(2)(A)(ii), struck out “, particularly those with acquired immune deficiency syndrome” after “young children”.
+Subsec. (a)(4). Pub. L. 102–236, §3(a)(2)(A)(ii), struck out ", particularly those with acquired immune deficiency syndrome" after "young children".
 
-Subsec. (a)(5). Pub. L. 102–236, §3(a)(2)(A)(ii), (c)(2), substituted “who are unable to reside with their families or to be placed in foster care” for “, particularly those with acquired immune deficiency syndrome”.
+Subsec. (a)(5). Pub. L. 102–236, §3(a)(2)(A)(ii), (c)(2), substituted "who are unable to reside with their families or to be placed in foster care" for ", particularly those with acquired immune deficiency syndrome".
 
-Subsec. (a)(6). Pub. L. 102–236, §3(a)(2)(A)(i), substituted “described in subsection (b)” for “with acquired immune deficiency syndrome”.
+Subsec. (a)(6). Pub. L. 102–236, §3(a)(2)(A)(i), substituted "described in subsection (b)" for "with acquired immune deficiency syndrome".
 
-Subsec. (a)(7). Pub. L. 102–236, §3(a)(2)(A)(ii), struck out “, particularly those with acquired immune deficiency syndrome” after “young children”.
+Subsec. (a)(7). Pub. L. 102–236, §3(a)(2)(A)(ii), struck out ", particularly those with acquired immune deficiency syndrome" after "young children".
 
 Subsec. (a)(8). Pub. L. 102–236, §3(b), added par. (8).
 
@@ -112,7 +112,7 @@ Subsec. (d). Pub. L. 102–236, §3(d), designated existing provisions as par. (
 
 Pub. L. 102–236, §(3)(a)(1)(A), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 102–236, §3(a)(2)(B), substituted “subsection (e)” for “subsection (d)”.
+Subsec. (d)(1). Pub. L. 102–236, §3(a)(2)(B), substituted "subsection (e)" for "subsection (d)".
 
 Subsecs. (e) to (g). Pub. L. 102–236, §3(a)(1)(A), redesignated subsecs. (d) to (f) as (e) to (g), respectively.
 

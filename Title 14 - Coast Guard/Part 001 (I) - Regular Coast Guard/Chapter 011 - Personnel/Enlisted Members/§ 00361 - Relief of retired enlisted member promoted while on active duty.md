@@ -12,7 +12,7 @@ Said sections have application to officers only, but in accord with the general 
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–557 in section catchline substituted “enlisted member” for “man”, and in two places in text substituted “member” for “man”.
+<b>1984</b>—Pub. L. 98–557 in section catchline substituted "enlisted member" for "man", and in two places in text substituted "member" for "man".
 
 <b>1950</b>—Act Aug. 3, 1950, struck out all references to pay.
 

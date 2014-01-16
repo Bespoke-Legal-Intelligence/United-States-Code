@@ -18,9 +18,9 @@
 
 &emsp;(7) new construction of any kind, and
 
-&emsp;(8) such other uses as the Secretary determines must be limited or controlled in order to carry out the purposes of sections 698f to 698m–4 of this title: <i>Provided</i>, That the Secretary shall consult and cooperate with the Secretary of Transportation to assure that necessary transportation facilities shall be located within existing or reasonably expanded rights-of-way and constructed within the reserve <sup>1</sup> in a manner consistent with the purposes of sections 698f to 698m–4 of this title.
+&emsp;(8) such other uses as the Secretary determines must be limited or controlled in orderto carry out the purposes of sections 698f to 698m–4 of this title: <i>Provided</i>, That the Secretary shall consult and cooperate with the Secretary of Transportation to assure that necessary transportation facilities shall be located within existing or reasonably expanded rights-of-way and constructed within the reserve <sup>1</sup> in a manner consistent with the purposes of sections 698f to 698m–4 of this title.
 
 (Pub. L. 93–440, §4, Oct. 11, 1974, 88 Stat. 1260.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “preserve”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "preserve".</i>
 

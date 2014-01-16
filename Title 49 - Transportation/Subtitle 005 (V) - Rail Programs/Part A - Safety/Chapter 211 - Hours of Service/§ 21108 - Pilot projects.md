@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—As of the date of enactment of the Rail Safety Improvement Act of 2008, arailroad carrier or railroad carriers and all nonprofit employee labor organizations representing any class or craft of directly affected covered service employees of the railroad carrier or railroad carriers, may jointly petition the Secretary of Transportation for approval of—
+In General.—As of the date of enactment of the Rail Safety Improvement Act of 2008, a railroad carrier or railroad carriers and all nonprofit employee labor organizations representing any class or craft of directly affected covered service employees of the railroad carrier or railroad carriers, may jointly petition the Secretary of Transportation for approval of—
 
 &emsp;(1) a waiver of compliance with this chapter as in effect on the date of enactment of the Rail Safety Improvement Act of 2008; or
 
@@ -30,7 +30,7 @@ Report.—The Secretary of Transportation shall submit to the Committee on Comme
 
 (e)
 
-Definition.—For purposes of this section, the term “directly affected covered service employees” means covered service employees to whose hours of service the terms of the waiver petitioned for specifically apply.
+Definition.—For purposes of this section, the term "directly affected covered service employees" means covered service employees to whose hours of service the terms of the waiver petitioned for specifically apply.
 
 (Added Pub. L. 103–440, title II, §203(a), Nov. 2, 1994, 108 Stat. 4619; amended Pub. L. 110–432, div. A, title I, §110, Oct. 16, 2008, 122 Stat. 4867.)
 
@@ -40,5 +40,5 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–432 amended section generally, revising and restating provisions of former subsec. (a) relating to waivers as subsecs. (a) to (c), provisions of former subsec. (b) relating to requirement of a report to Congress as subsec. (d), and provisions of former subsec. (c) defining “directly affected covered service employees” as subsec. (e).
+<b>2008</b>—Pub. L. 110–432 amended section generally, revising and restating provisions of former subsec. (a) relating to waivers as subsecs. (a) to (c), provisions of former subsec. (b) relating to requirement of a report to Congress as subsec. (d), and provisions of former subsec. (c) defining "directly affected covered service employees" as subsec. (e).
 

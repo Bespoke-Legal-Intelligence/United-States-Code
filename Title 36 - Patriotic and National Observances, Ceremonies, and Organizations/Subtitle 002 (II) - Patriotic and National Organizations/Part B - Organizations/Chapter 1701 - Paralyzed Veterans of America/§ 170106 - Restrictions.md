@@ -56,11 +56,11 @@ Aug. 11, 1971, Pub. L. 92–93, §§5, 6, 14, 85 Stat. 318, 319.
 
 &nbsp;
 
-In subsection (a), the words “pecuniary” and “or gain” are omitted as unnecessary.
+In subsection (a), the words "pecuniary" and "or gain" are omitted as unnecessary.
 
-In subsection (b), the word “capital” is omitted as unnecessary.
+In subsection (b), the word "capital" is omitted as unnecessary.
 
-In subsection (c), the words “as an organization” are omitted as unnecessary.
+In subsection (c), the words "as an organization" are omitted as unnecessary.
 
-In subsection (d), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
+In subsection (d), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title.
 

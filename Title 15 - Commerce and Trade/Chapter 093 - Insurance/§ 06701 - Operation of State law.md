@@ -2,7 +2,7 @@
 
 #### (a) State regulation of the business of insurance
 
-The Act entitled “An Act to express the intent of Congress with reference to the regulation of the business of insurance” and approved March 9, 1945 (15 U.S.C. 1011 et seq.) (commonly referred to as the “McCarran-Ferguson Act”) remains the law of the United States.
+The Act entitled "An Act to express the intent of Congress with reference to the regulation of the business of insurance" and approved March 9, 1945 (15 U.S.C. 1011 et seq.) (commonly referred to as the "McCarran-Ferguson Act") remains the law of the United States.
 
 #### (b) Mandatory insurance licensing requirements
 
@@ -40,7 +40,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with the legal standards for preemption set forth in the decision of the Supreme Court of the United States in Barnett Bank of Marion County N.A. v. Nelson, 517 U.S. 25 (1996), no State may, by statute, regulation, order, interpretation, or other action, prevent or significantly interfere with the ability of a depository institution, or an affiliate thereof, to engage, directly or indirectly, either by itself or in conjunction with an affiliate or any other person, in any insurance sales, solicitation, or crossmarketing activity.
+&emsp;&emsp;In accordance with the legal standards for preemption set forth in the decision of the Supreme Court of the United States inBarnett Bank of Marion County N.A. v. Nelson, 517 U.S. 25 (1996), no State may, by statute, regulation, order, interpretation, or other action, prevent or significantly interfere with the ability of a depository institution, or an affiliate thereof, to engage, directly or indirectly, either by itself or in conjunction with an affiliate or any other person, in any insurance sales, solicitation, or crossmarketing activity.
 
 #### (B) Certain State laws preserved
 
@@ -56,7 +56,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;&emsp;(II) a State, or the Federal Government guarantees any returns on insurance products, or is a source of payment on any insurance obligation of or sold by the institution or affiliate;
 
-&emsp;&emsp;&emsp;(iv) Restrictions prohibiting the payment or receipt of any commission or brokerage fee or other valuable consideration for services as an insurance agent or broker to or by any person, unless such person holds a valid State license regarding the applicable class of insurance at the time at which the services are performed, except that, in this clause, the term “services as an insurance agent or broker” does not include a referral by an unlicensed person of a customer or potential customer to a licensed insurance agent or broker that does not include a discussion of specific insurance policy terms and conditions.
+&emsp;&emsp;&emsp;(iv) Restrictions prohibiting the payment or receipt of any commission or brokerage fee or other valuable consideration for services as an insurance agent or broker to or by any person, unless such person holds a valid State license regarding the applicable class of insurance at the time at which the services are performed, except that, in this clause, the term "services as an insurance agent or broker" does not include a referral by an unlicensed person of a customer or potential customer to a licensed insurance agent or broker that does not include a discussion of specific insurance policy terms and conditions.
 
 &emsp;&emsp;&emsp;(v) Restrictions prohibiting any compensation paid to or received by any individual who is not licensed to sell insurance, for the referral of a customer that seeks to purchase, or seeks an opinion or advice on, any insurance product to a person that sells or provides opinions or advice on such product, based on the purchase of insurance by the customer.
 
@@ -74,7 +74,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;&emsp;(II) from informing a customer or prospective customer that insurance is required in order to obtain a loan or credit, that loan or credit approval is contingent upon the procurement by the customer of acceptable insurance, or that insurance is available from the depository institution or an affiliate of the depository institution.
 
-&emsp;&emsp;&emsp;(ix) Restrictions requiring, when an application by a consumer for a loan or other extension of credit from a depository institution is pending, and insurance is offered or sold to the consumer or is required in connection with the loan or extension of credit by the depository institution or any affiliate thereof, that a written disclosure be provided to the consumer or prospective customer indicating that the customer's choice of an insurance provider will not affect the credit decision or credit terms in any way, except that the depository institution may impose reasonable requirements concerning the creditworthiness of the insurer and scope of coverage chosen.
+&emsp;&emsp;&emsp;(ix) Restrictions requiring, when an application by a consumer for a loan or other extension of credit from a depository institution is pending, and insurance is offered or sold to the consumer or is required inconnection with the loan or extension of credit by the depository institution or any affiliate thereof, that a written disclosure be provided to the consumer or prospective customer indicating that the customer's choice of an insurance provider will not affect the credit decision or credit terms in any way, except that the depository institution may impose reasonable requirements concerning the creditworthiness of the insurer and scope of coverage chosen.
 
 &emsp;&emsp;&emsp;(x) Restrictions requiring clear and conspicuous disclosure, in writing, where practicable, to the customer prior to the sale of any insurance policy that such policy—
 
@@ -114,7 +114,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;State statutes, regulations, interpretations, orders, and other actions shall not be preempted under paragraph (1) to the extent that they—
 
-&emsp;&emsp;(A) relate to, or are issued, adopted, or enacted for the purpose of regulating the business of insurance in accordance with the Act entitled “An Act to express the intent of Congress with reference to the regulation of the business of insurance” and approved March 9, 1945 (15 U.S.C. 1011 et seq.) (commonly referred to as the “McCarran-Ferguson Act”);
+&emsp;&emsp;(A) relate to, or are issued, adopted, or enacted for the purpose of regulating the business of insurance in accordance with the Act entitled "An Act to express the intent of Congress with reference to the regulation of the business of insurance" and approved March 9, 1945 (15 U.S.C. 1011 et seq.) (commonly referred to as the "McCarran-Ferguson Act");
 
 &emsp;&emsp;(B) apply only to persons that are not depository institutions, but that are directly engaged in the business of insurance (except that they may apply to depository institutions engaged in providing savings bank life insurance as principal to the extent of regulating such insurance);
 
@@ -172,15 +172,15 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Affiliate
 
-&emsp;The term “affiliate” means any company that controls, is controlled by, or is under common control with another company.
+&emsp;The term "affiliate" means any company that controls, is controlled by, or is under common control with another company.
 
 #### (2) Antitrust laws
 
-&emsp;The term “antitrust laws” has the meaning given the term in subsection (a) of section 12 of this title, and includes section 45 of this title (to the extent that such section 45 relates to unfair methods of competition).
+&emsp;The term "antitrust laws" has the meaning given the term in subsection (a) of section 12 of this title, and includes section 45 of this title (to the extent that such section 45 relates to unfair methods of competition).
 
 #### (3) Depository institution
 
-&emsp;The term “depository institution”—
+&emsp;The term "depository institution"—
 
 &emsp;&emsp;(A) has the meaning given the term in section 1813 of title 12; and
 
@@ -188,11 +188,11 @@ For purposes of this section, the following definitions shall apply:
 
 #### (4) Insurer
 
-&emsp;The term “insurer” means any person engaged in the business of insurance.
+&emsp;The term "insurer" means any person engaged in the business of insurance.
 
 #### (5) State
 
-&emsp;The term “State” means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
+&emsp;The term "State" means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
 (Pub. L. 106–102, title I, §104, Nov. 12, 1999, 113 Stat. 1352.)
 
@@ -200,837 +200,837 @@ For purposes of this section, the following definitions shall apply:
 
 The McCarran-Ferguson Act, referred to in subsecs. (a) and (d)(3)(A), is act Mar. 9, 1945, ch. 20, 59 Stat. 33, which is classified generally to chapter 20 (§1011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1011 of this title and Tables.
 
-This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-BlileyAct. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is Pub. L. 91–607, title I, §106, Dec. 31, 1970, 84 Stat. 1766, as amended, which is classified generally to chapter 22 (§1971 et seq.) of Title 12, Banks and Banking.
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–160, §1(a), Dec. 26, 2007, 121 Stat. 1839, provided that: “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Terrorism Risk Insurance Program Reauthorization Act of 2007’.”
+Pub. L. 110–160, §1(a), Dec. 26, 2007, 121 Stat. 1839, provided that: "This Act \[amending provisions set out as a note under this section\] may be cited as the 'Terrorism Risk Insurance Program Reauthorization Act of 2007'."
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–144, §1, Dec. 22, 2005, 119 Stat. 2660, provided that: “This Act \[amending provisions set out asa note under this section\] may be cited as the ‘Terrorism Risk Insurance Extension Act of 2005’.”
+Pub. L. 109–144, §1, Dec. 22, 2005, 119 Stat. 2660, provided that: "This Act \[amending provisions set out as a note under this section\] may be cited as the 'Terrorism Risk Insurance Extension Act of 2005'."
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–297, §1(a), Nov. 26, 2002, 116 Stat. 2322, provided that: “This Act \[amending section 248 of Title 12, Banks and Banking, and sections 1606 and 1610 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and section 1610 of Title 28, and amending provisions set out as a note under section 1610 of Title 28\] may be cited as the ‘Terrorism Risk Insurance Act of 2002’.”
+Pub. L. 107–297, §1(a), Nov. 26, 2002, 116 Stat. 2322, provided that: "This Act \[amending section 248 of Title 12, Banks and Banking, and sections 1606 and 1610 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and section 1610 of Title 28, and amending provisions set out as a note under section 1610 of Title 28\] may be cited as the 'Terrorism Risk Insurance Act of 2002'."
 
 #### Terrorism Insurance Program
 
 Pub. L. 107–297, title I, Nov. 26, 2002, 116 Stat. 2322, as amended by Pub. L. 109–144, §§2–8, Dec. 22, 2005, 119 Stat. 2660–2662; Pub. L. 110–160, §§2–5, Dec. 26, 2007, 121 Stat. 1839–1841, provided that:
 
-#### “SEC. 101. CONGRESSIONAL FINDINGS AND PURPOSE.
+#### "SEC. 101. CONGRESSIONAL FINDINGS AND PURPOSE.
 
-“(a)
+"(a)
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) the ability of businesses and individuals to obtain property and casualty insurance at reasonable and predictable prices, in order to spread the risk of both routine and catastrophic loss, is critical to economic growth, urban development, and the construction and maintenance of public and private housing, as well as to the promotion of United States exports and foreign trade in an increasingly interconnected world;
+&emsp;"(1) the ability of businesses and individuals to obtain property and casualty insurance at reasonable and predictable prices, in order to spread the risk of both routine and catastrophic loss, is critical to economic growth, urban development, and the construction and maintenance of public and private housing, as well as to the promotion of United States exports and foreign trade in an increasingly interconnected world;
 
-&emsp;“(2) property and casualty insurance firms are important financial institutions, the products of which allow mutualization of risk and the efficient use of financial resources and enhance the ability of the economy to maintain stability, while responding to a variety of economic, political, environmental, and other risks with a minimum of disruption;
+&emsp;"(2) property and casualty insurance firms are important financial institutions, the products of which allow mutualization of risk and the efficient use of financial resources and enhance the ability of the economy to maintain stability, while responding to a variety of economic, political, environmental, and other risks with a minimum of disruption;
 
-&emsp;“(3) the ability of the insurance industry to cover the unprecedented financial risks presented by potential acts of terrorism in the United States can be a major factor in the recovery from terrorist attacks, while maintaining the stability of the economy;
+&emsp;"(3) the ability of the insurance industry to cover the unprecedented financial risks presented by potential acts of terrorism in the United States can be a major factor in the recovery from terrorist attacks, while maintaining the stability of the economy;
 
-&emsp;“(4) widespread financial market uncertainties have arisen following the terrorist attacks of September 11, 2001, including the absence of information from which financial institutions can make statistically valid estimates of the probability and cost of future terrorist events, and therefore the size, funding, and allocation of the risk of loss caused by such acts of terrorism;
+&emsp;"(4) widespread financial market uncertainties have arisen following the terrorist attacks of September 11, 2001, including the absence of information from which financial institutions can make statistically valid estimates of the probability and cost of future terrorist events, and therefore the size, funding, and allocation of the risk of loss caused by such acts of terrorism;
 
-&emsp;“(5) a decision by property and casualty insurers to deal with such uncertainties, either by terminating property and casualty coverage for losses arising from terrorist events, or by radically escalating premium coverage to compensate for risks of loss that are not readily predictable, could seriously hamper ongoing and planned construction, property acquisition, and other business projects, generate a dramatic increase in rents, and otherwise suppress economic activity; and
+&emsp;"(5) a decision by property and casualty insurers to deal with such uncertainties, either by terminating property and casualty coverage for losses arising from terrorist events, or by radically escalating premium coverage to compensate for risks of loss that are not readily predictable, could seriously hamper ongoing and planned construction, property acquisition, and other business projects, generate a dramatic increase in rents, and otherwise suppress economic activity; and
 
-&emsp;“(6) the United States Government should provide temporary financial compensation to insured parties, contributing to the stabilization of the United States economy in a time of national crisis, while the financial services industry develops the systems, mechanisms, products, and programs necessary to create a viable financial services market for private terrorism risk insurance.
+&emsp;"(6) the United States Government should provide temporary financial compensation to insured parties, contributing to the stabilization of the United States economy in a time of national crisis, while the financial services industry develops the systems, mechanisms, products, and programs necessary to create a viable financial services market for private terrorism risk insurance.
 
-“(b)
+"(b)
 
 Purpose.—The purpose of this title is to establish a temporary Federal program that provides for a transparent system of shared public and private compensation for insured losses resulting from acts of terrorism, in order to—
 
-&emsp;“(1) protect consumers by addressing market disruptions and ensure the continued widespread availability and affordability of property and casualty insurance for terrorism risk; and
+&emsp;"(1) protect consumers by addressing market disruptions and ensure the continued widespread availability and affordability of property and casualty insurance for terrorism risk; and
 
-&emsp;“(2) allow for a transitional period for the private markets to stabilize, resume pricing of such insurance, and build capacity to absorb any future losses, while preserving State insurance regulation and consumer protections.
+&emsp;"(2) allow for a transitional period for the private markets to stabilize, resume pricing of such insurance, and build capacity to absorb any future losses, while preserving State insurance regulation and consumer protections.
 
-#### “SEC. 102. DEFINITIONS.
+#### "SEC. 102. DEFINITIONS.
 
-“In this title, the following definitions shall apply:
+"In this title, the following definitions shall apply:
 
-&emsp;“(1)
+&emsp;"(1)
 
 Act of terrorism.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-Certification.—The term ‘act of terrorism’ means any act that is certified by the Secretary, in concurrence with the Secretary of State, and the Attorney General of the United States—
+Certification.—The term 'act of terrorism' means any act that is certified by the Secretary, in concurrence with the Secretary of State, and the Attorney General of the United States—
 
-&emsp;&emsp;&emsp;“(i) to be an act of terrorism;
+&emsp;&emsp;&emsp;"(i) to be an act of terrorism;
 
-&emsp;&emsp;&emsp;“(ii) to be a violent act or an act that is dangerous to—
+&emsp;&emsp;&emsp;"(ii) to be a violent act or an act that is dangerous to—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) human life;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) human life;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) property; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) property; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) infrastructure;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) infrastructure;
 
-&emsp;&emsp;&emsp;“(iii) to have resulted in damage within the United States, or outside of the United States in the case of—
+&emsp;&emsp;&emsp;"(iii) to have resulted in damage within the United States, or outside of the United States in the case of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) an air carrier or vessel described in paragraph (5)(B); or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) an air carrier or vessel described in paragraph (5)(B); or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the premises of a United States mission; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the premises of a United States mission; and
 
-&emsp;&emsp;&emsp;“(iv) to have been committed by an individual or individuals, as part of an effort to coerce the civilian population of the United States or to influence the policy or affect the conduct of the United States Government by coercion.
+&emsp;&emsp;&emsp;"(iv) to have been committed by an individual or individuals, as part of an effort to coerce the civilian population of the United States or to influence the policy or affect the conduct of the United States Government by coercion.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Limitation.—No act shall be certified by the Secretary as an act of terrorism if—
 
-&emsp;&emsp;&emsp;“(i) the act is committed as part of the course of a war declared by the Congress, except that this clause shall not apply with respect to any coverage for workers’ compensation; or
+&emsp;&emsp;&emsp;"(i) the act is committed as part of the course of a war declared by the Congress, except that this clause shall not apply with respect to any coverage for workers' compensation; or
 
-&emsp;&emsp;&emsp;“(ii) property and casualty insurance losses resulting from the act, in the aggregate, do not exceed $5,000,000.
+&emsp;&emsp;&emsp;"(ii) property and casualty insurance losses resulting from the act, in the aggregate, do not exceed $5,000,000.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Determinations final.—Any certification of, or determination not to certify, an act as an act of terrorism under this paragraph shall be final, and shall not be subject to judicial review.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Nondelegation.—The Secretary may not delegate or designate to any other officer, employee, or person, any determination under this paragraph of whether, during the effective period of the Program, an act of terrorism has occurred.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Affiliate.—The term ‘affiliate’ means, with respect to an insurer, any entity that controls, is controlled by, or is under common control with the insurer.
+Affiliate.—The term 'affiliate' means, with respect to an insurer, any entity that controls, is controlled by, or is under common control with the insurer.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Control.—An entity has ‘control’ over another entity, if—
+Control.—An entity has 'control' over another entity, if—
 
-&emsp;&emsp;“(A) the entity directly or indirectly or acting through 1 or more other persons owns, controls, or has power to vote 25 percent or more of any class of voting securities of the other entity;
+&emsp;&emsp;"(A) the entity directly or indirectly or acting through 1 or more other persons owns, controls, or has power to vote 25 percent or more of any class of voting securities of the other entity;
 
-&emsp;&emsp;“(B) the entity controls in any manner the election of a majority of the directors or trustees of the other entity; or
+&emsp;&emsp;"(B) the entity controls in any manner the election of a majority of the directors or trustees of the other entity; or
 
-&emsp;&emsp;“(C) the Secretary determines, after notice and opportunity for hearing, that the entity directly or indirectly exercises a controlling influence over the management or policies of the other entity.
+&emsp;&emsp;"(C) the Secretary determines, after notice and opportunity for hearing, that the entity directly or indirectly exercises a controlling influence over the management or policies of the other entity.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Direct earned premium.—The term ‘direct earned premium’ means a direct earned premium for property and casualty insurance issued by any insurer for insurance against losses occurring at the locations described in subparagraphs (A) and (B) of paragraph (5).
+Direct earned premium.—The term 'direct earned premium' means a direct earned premium for property and casualty insurance issued by any insurer for insurance against losses occurring at the locations described in subparagraphs (A) and (B) of paragraph (5).
 
-&emsp;“(5)
+&emsp;"(5)
 
-Insured loss.—The term ‘insured loss’ means any loss resulting from an act of terrorism (including an act of war, in the case of workers’ compensation) that is covered by primary or excess property and casualty insurance issued by an insurer if such loss—
+Insured loss.—The term 'insured loss' means any loss resulting from an act of terrorism (including an act of war, in the case of workers' compensation) that is covered by primary or excess property and casualty insurance issued by an insurer if such loss—
 
-&emsp;&emsp;“(A) occurs within the United States; or
+&emsp;&emsp;"(A) occurs within the United States; or
 
-&emsp;&emsp;“(B) occurs to an air carrier (as defined in section 40102 of title 49, United States Code), to a United States flag vessel (or a vessel based principally in the United States, on which United States incometax is paid and whose insurance coverage is subject to regulation in the United States), regardless of where the loss occurs, or at the premises of any United States mission.
+&emsp;&emsp;"(B) occurs to an air carrier (as defined in section 40102 of title 49, United States Code), to a United States flag vessel (or a vessel based principally in the United States, on which United States income tax is paid and whose insurance coverage is subject to regulation in the United States), regardless of where the loss occurs, or at the premises of any United States mission.
 
-&emsp;“(6)
+&emsp;"(6)
 
-Insurer.—The term ‘insurer’ means any entity, including any affiliate thereof—
+Insurer.—The term 'insurer' means any entity, including any affiliate thereof—
 
-&emsp;&emsp;“(A) that is—
+&emsp;&emsp;"(A) that is—
 
-&emsp;&emsp;&emsp;“(i) licensed or admitted to engage in the business of providing primary or excess insurance in any State;
+&emsp;&emsp;&emsp;"(i) licensed or admitted to engage in the business of providing primary or excess insurance in any State;
 
-&emsp;&emsp;&emsp;“(ii) not licensed or admitted as described in clause (i), if it is an eligible surplus line carrier listed on the Quarterly Listing of Alien Insurers of the NAIC, or any successor thereto;
+&emsp;&emsp;&emsp;"(ii) not licensed or admitted as described in clause (i), if it is an eligible surplus line carrier listed on the Quarterly Listing of Alien Insurers of the NAIC, or any successor thereto;
 
-&emsp;&emsp;&emsp;“(iii) approved for the purpose of offering property and casualty insurance by a Federal agency in connection with maritime, energy, or aviation activity;
+&emsp;&emsp;&emsp;"(iii) approved for the purpose of offering property and casualty insurance by a Federal agency in connection with maritime, energy, or aviation activity;
 
-&emsp;&emsp;&emsp;“(iv) a State residual market insurance entity or State workers’ compensation fund; or
+&emsp;&emsp;&emsp;"(iv) a State residual market insurance entity or State workers' compensation fund; or
 
-&emsp;&emsp;&emsp;“(v) any other entity described in section 103(f), to the extent provided in the rules of the Secretary issued under section 103(f);
+&emsp;&emsp;&emsp;"(v) any other entity described in section 103(f), to the extent provided in the rules of the Secretary issued under section 103(f);
 
-&emsp;&emsp;“(B) that receives direct earned premiums for any type of commercial property and casualty insurance coverage, other than in the case of entities described in sections 103(d) and 103(f); and
+&emsp;&emsp;"(B) that receives direct earned premiums for any type of commercial property and casualty insurance coverage, other than in the case of entities described in sections 103(d) and 103(f); and
 
-&emsp;&emsp;“(C) that meets any other criteria that the Secretary may reasonably prescribe.
+&emsp;&emsp;"(C) that meets any other criteria that the Secretary may reasonably prescribe.
 
-&emsp;“(7)
+&emsp;"(7)
 
-Insurer deductible.—The term ‘insurer deductible’ means—
+Insurer deductible.—The term 'insurer deductible' means—
 
-&emsp;&emsp;“(A) for the Transition Period, the value of an insurer's direct earned premiums over the calendar year immediately preceding the date of enactment of this Act \[Nov. 26, 2002\], multiplied by 1 percent;
+&emsp;&emsp;"(A) for the Transition Period, the value of an insurer's direct earned premiums over the calendar year immediately preceding the date of enactment of this Act \[Nov. 26, 2002\], multiplied by 1 percent;
 
-&emsp;&emsp;“(B) for Program Year 1, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 1, multiplied by 7 percent;
+&emsp;&emsp;"(B) for Program Year 1, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 1, multiplied by 7 percent;
 
-&emsp;&emsp;“(C) for Program Year 2, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 2, multiplied by 10 percent;
+&emsp;&emsp;"(C) for Program Year 2, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 2, multiplied by 10 percent;
 
-&emsp;&emsp;“(D) for Program Year 3, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 3, multiplied by 15 percent;
+&emsp;&emsp;"(D) for Program Year 3, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 3, multiplied by 15 percent;
 
-&emsp;&emsp;“(E) for Program Year 4, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 4, multiplied by 17.5 percent;
+&emsp;&emsp;"(E) for Program Year 4, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 4, multiplied by 17.5 percent;
 
-&emsp;&emsp;“(F) for Program Year 5 and each Program Year thereafter, the value of an insurer's direct earned premiums over the calendar year immediately preceding that Program Year, multiplied by 20 percent; and
+&emsp;&emsp;"(F) for Program Year 5 and each Program Year thereafter, the value of an insurer's direct earned premiums over the calendar year immediately preceding that Program Year, multiplied by 20 percent; and
 
-&emsp;&emsp;“(G) notwithstanding subparagraphs (A) through (F), for the Transition Period or any Program Year, if an insurer has not had a full year of operations during the calendar year immediately preceding such Period or Program Year, such portion of the direct earned premiums of the insurer as the Secretary determines appropriate, subject to appropriate methodologies established by the Secretary for measuring such direct earned premiums.
+&emsp;&emsp;"(G) notwithstanding subparagraphs (A) through (F), for the Transition Period or any Program Year, if an insurer has not had a full year of operations during the calendar year immediately preceding such Period or Program Year, such portion of the direct earned premiums of the insurer as the Secretary determines appropriate, subject to appropriate methodologies established by the Secretary for measuring such direct earned premiums.
 
-&emsp;“(8) NAIC.—The term ‘NAIC’ means the National Association of Insurance Commissioners.
+&emsp;"(8) NAIC.—The term 'NAIC' means the National Association of Insurance Commissioners.
 
-&emsp;“(9)
+&emsp;"(9)
 
-Person.—The term ‘person’ means any individual, business or nonprofit entity (including those organized in the form of a partnership, limited liability company, corporation, or association), trust or estate, or a State or political subdivision of a State or other governmental unit.
+Person.—The term 'person' means any individual, business or nonprofit entity (including those organized in the form of a partnership, limited liability company, corporation, or association), trust or estate, or a State or political subdivision of a State or other governmental unit.
 
-&emsp;“(10)
+&emsp;"(10)
 
-Program.—The term ‘Program’ means the Terrorism Insurance Program established by this title.
+Program.—The term 'Program' means the Terrorism Insurance Program established by this title.
 
-&emsp;“(11)
+&emsp;"(11)
 
 Program years.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-Transition period.—The term ‘Transition Period’ means the period beginning on the date of enactment of this Act \[Nov. 26, 2002\] and ending on December 31, 2002.
+Transition period.—The term 'Transition Period' means the period beginning on the date of enactment of this Act \[Nov. 26, 2002\] and ending on December 31, 2002.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Program year 1.—The term ‘Program Year 1’ means the period beginning on January 1, 2003 and ending on December 31, 2003.
+Program year 1.—The term 'Program Year 1' means the period beginning on January 1, 2003 and ending on December 31, 2003.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
-Program year 2.—The term ‘Program Year 2’ means the period beginning on January 1, 2004 and ending on December 31, 2004.
+Program year 2.—The term 'Program Year 2' means the period beginning on January 1, 2004 and ending on December 31, 2004.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
-Program year 3.—The term ‘Program Year 3’ means the period beginning on January 1, 2005 and ending on December 31, 2005.
+Program year 3.—The term 'Program Year 3' means the period beginning on January 1, 2005 and ending on December 31, 2005.
 
-&emsp;&emsp;“(E)
+&emsp;&emsp;"(E)
 
-Program year 4.—The term ‘Program Year 4’ means the period beginning on January 1, 2006 and ending on December 31, 2006.
+Program year 4.—The term 'Program Year 4' means the period beginning on January 1, 2006 and ending on December 31, 2006.
 
-&emsp;&emsp;“(F)
+&emsp;&emsp;"(F)
 
-Program year 5.—The term ‘Program Year 5’ means the period beginning on January 1, 2007 and ending on December 31, 2007.
+Program year 5.—The term 'Program Year 5' means the period beginning on January 1, 2007 and ending on December 31, 2007.
 
-&emsp;&emsp;“(G)
+&emsp;&emsp;"(G)
 
-Additional program years.—Except when used as provided in subparagraphs (B) through (F), the term ‘Program Year’ means, as the context requires, any of Program Year 1, Program Year 2, Program Year 3, Program Year 4, Program Year 5, or any of calendar years 2008 through 2014.
+Additional program years.—Except when used as provided in subparagraphs (B) through (F), the term 'Program Year' means, as the context requires, any of Program Year 1, Program Year 2, Program Year 3, Program Year 4, Program Year 5, or any of calendar years 2008 through 2014.
 
-&emsp;“(12)
+&emsp;"(12)
 
-Property and casualty insurance.—The term ‘property and casualty insurance’—
+Property and casualty insurance.—The term 'property and casualty insurance'—
 
-&emsp;&emsp;“(A) means commercial lines of property and casualty insurance, including excess insurance, workers’ compensation insurance, and directors and officers liability insurance; and
+&emsp;&emsp;"(A) means commercial lines of property and casualty insurance, including excess insurance, workers' compensation insurance, and directors and officers liability insurance; and
 
-&emsp;&emsp;“(B) does not include—
+&emsp;&emsp;"(B) does not include—
 
-&emsp;&emsp;&emsp;“(i) Federal crop insurance issued or reinsured under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.), or any other type of crop or livestock insurance that is privately issued or reinsured;
+&emsp;&emsp;&emsp;"(i) Federal crop insurance issued or reinsured under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.), or any other type of crop or livestock insurance that is privately issued or reinsured;
 
-&emsp;&emsp;&emsp;“(ii) private mortgage insurance (as that term is defined in section 2 of the Homeowners Protection Act of 1998 (12 U.S.C. 4901)) or title insurance;
+&emsp;&emsp;&emsp;"(ii) private mortgage insurance (as that term is defined in section 2 of the Homeowners Protection Act of 1998 (12 U.S.C. 4901)) or title insurance;
 
-&emsp;&emsp;&emsp;“(iii) financial guaranty insurance issued by monoline financial guaranty insurance corporations;
+&emsp;&emsp;&emsp;"(iii) financial guaranty insurance issued by monoline financial guaranty insurance corporations;
 
-&emsp;&emsp;&emsp;“(iv) insurance for medical malpractice;
+&emsp;&emsp;&emsp;"(iv) insurance for medical malpractice;
 
-&emsp;&emsp;&emsp;“(v) health or life insurance, including group life insurance;
+&emsp;&emsp;&emsp;"(v) health or life insurance, including group life insurance;
 
-&emsp;&emsp;&emsp;“(vi) flood insurance provided under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.);
+&emsp;&emsp;&emsp;"(vi) flood insurance provided under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.);
 
-&emsp;&emsp;&emsp;“(vii) reinsurance or retrocessional reinsurance;
+&emsp;&emsp;&emsp;"(vii) reinsurance or retrocessional reinsurance;
 
-&emsp;&emsp;&emsp;“(viii) commercial automobile insurance;
+&emsp;&emsp;&emsp;"(viii) commercial automobile insurance;
 
-&emsp;&emsp;&emsp;“(ix) burglary and theft insurance;
+&emsp;&emsp;&emsp;"(ix) burglary and theft insurance;
 
-&emsp;&emsp;&emsp;“(x) surety insurance;
+&emsp;&emsp;&emsp;"(x) surety insurance;
 
-&emsp;&emsp;&emsp;“(xi) professional liability insurance; or
+&emsp;&emsp;&emsp;"(xi) professional liability insurance; or
 
-&emsp;&emsp;&emsp;“(xii) farm owners multiple peril insurance.
+&emsp;&emsp;&emsp;"(xii) farm owners multiple peril insurance.
 
-&emsp;“(13)
+&emsp;"(13)
 
-Secretary.—The term ‘Secretary’ means the Secretary of the Treasury.
+Secretary.—The term 'Secretary' means the Secretary of the Treasury.
 
-&emsp;“(14)
+&emsp;"(14)
 
-State.—The term ‘State’ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, each of the United States Virgin Islands, and any territory or possession of the United States.
+State.—The term 'State' means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, each of the United States Virgin Islands, and any territory or possession of the United States.
 
-&emsp;“(15)
+&emsp;"(15)
 
-United states.—The term ‘United States’ means the several States, and includes the territorial sea and the continental shelf of the United States, as those terms are defined in the Violent Crime Control and Law Enforcement Act of 1994 (18 U.S.C. 2280, 2281).
+United states.—The term 'United States' means the several States, and includes the territorial sea and the continental shelf of the United States, as those terms are defined in the Violent Crime Control and Law Enforcement Act of 1994 (18 U.S.C. 2280, 2281).
 
-&emsp;“(16)
+&emsp;"(16)
 
 Rule of construction for dates.—With respect to any reference to a date in this title, such day shall be construed—
 
-&emsp;&emsp;“(A) to begin at 12:01 a.m. on that date; and
+&emsp;&emsp;"(A) to begin at 12:01 a.m. on that date; and
 
-&emsp;&emsp;“(B) to end at midnight on that date.
+&emsp;&emsp;"(B) to end at midnight on that date.
 
-#### “SEC. 103. TERRORISM INSURANCE PROGRAM.
+#### "SEC. 103. TERRORISM INSURANCE PROGRAM.
 
-“(a)
+"(a)
 
 Establishment of Program.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—There is established in the Department of the Treasury the Terrorism Insurance Program.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Authority of the secretary.—Notwithstanding any other provision of State or Federal law, the Secretary shall administer the Program, and shall pay the Federal share of compensation for insured losses in accordance with subsection (e).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Mandatory participation.—Each entity that meets the definition of an insurer under this title shall participate in the Program.
 
-“(b)
+"(b)
 
 Conditions for Federal Payments.—No payment may be made by the Secretary under this section with respect to an insured loss that is covered by an insurer, unless—
 
-&emsp;“(1) the person that suffers the insured loss, or a person acting on behalf of that person, files a claim with the insurer;
+&emsp;"(1) the person that suffers the insured loss, or a person acting on behalf of that person, files a claim with the insurer;
 
-&emsp;“(2) the insurer provides clear and conspicuous disclosure to the policyholder of the premium charged for insured losses covered by the Program and the Federal share of compensation for insured losses under the Program—
+&emsp;"(2) the insurer provides clear and conspicuous disclosure to the policyholder of the premium charged for insured losses covered by the Program and the Federal share of compensation for insured losses under the Program—
 
-&emsp;&emsp;“(A) in the case of any policy that is issued before the date of enactment of this Act \[Nov. 26, 2002\], not later than 90 days after that date of enactment;
+&emsp;&emsp;"(A) in the case of any policy that is issued before the date of enactment of this Act \[Nov. 26, 2002\], not later than 90 days after that date of enactment;
 
-&emsp;&emsp;“(B) in the case of any policy that is issued within 90 days of the date of enactment of this Act, at the time of offer, purchase, and renewal of the policy; and
+&emsp;&emsp;"(B) in the case of any policy that is issued within 90 days of the date of enactment of this Act, at the time of offer, purchase, and renewal of the policy; and
 
-&emsp;&emsp;“(C) in the case of any policy that is issued more than 90 days after the date of enactment of this Act, on a separate line item in the policy, at the time of offer, purchase, and renewal of the policy;
+&emsp;&emsp;"(C) in the case of any policy that is issued more than 90 days after the date of enactment of this Act, on a separate line item in the policy, at the time of offer, purchase, and renewal of the policy;
 
-&emsp;“(3) in the case of any policy that is issued after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the insurer provides clear and conspicuous disclosure to the policyholder of the existence of the $100,000,000,000 cap under subsection (e)(2), at the time of offer, purchase, and renewal of the policy;
+&emsp;"(3) in the case of any policy that is issued after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the insurer provides clear and conspicuous disclosure to the policyholder of the existence of the $100,000,000,000 cap under subsection (e)(2), at the time of offer, purchase, and renewal of the policy;
 
-&emsp;“(4) the insurer processes the claim for the insured loss in accordance with appropriate business practices, and any reasonable procedures that the Secretary may prescribe; and
+&emsp;"(4) the insurer processes the claim for the insured loss in accordance with appropriate business practices, and any reasonable procedures that the Secretary may prescribe; and
 
-&emsp;“(5) the insurer submits to the Secretary, in accordance with such reasonable procedures as the Secretary may establish—
+&emsp;"(5) the insurer submits to the Secretary, in accordance with such reasonable procedures as the Secretary may establish—
 
-&emsp;&emsp;“(A) a claim for payment of the Federal share of compensation for insured losses under the Program;
+&emsp;&emsp;"(A) a claim for payment of the Federal share of compensation for insured losses under the Program;
 
-&emsp;&emsp;“(B) written certification—
+&emsp;&emsp;"(B) written certification—
 
-&emsp;&emsp;&emsp;“(i) of the underlying claim; and
+&emsp;&emsp;&emsp;"(i) of the underlying claim; and
 
-&emsp;&emsp;&emsp;“(ii) of all payments made for insured losses; and
+&emsp;&emsp;&emsp;"(ii) of all payments made for insured losses; and
 
-&emsp;&emsp;“(C) certification of its compliance with the provisions of this subsection.
+&emsp;&emsp;"(C) certification of its compliance with the provisions of this subsection.
 
-“(c)
+"(c)
 
 Mandatory Availability.—During each Program Year, each entity that meets the definition of an insurer under section 102—
 
-&emsp;“(1) shall make available, in all of its property and casualty insurance policies, coverage for insured losses; and
+&emsp;"(1) shall make available, in all of its property and casualty insurance policies, coverage for insured losses; and
 
-&emsp;“(2) shall make available property and casualty insurance coverage for insured losses that does not differ materially from the terms, amounts, and other coverage limitations applicable to losses arising from events other than acts of terrorism.
+&emsp;"(2) shall make available property and casualty insurance coverage for insured losses that does not differ materially from the terms, amounts, and other coverage limitations applicable to losses arising from events other than acts of terrorism.
 
-“(d)
+"(d)
 
 State Residual Market Insurance Entities.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—The Secretary shall issue regulations, as soon as practicable after the date of enactment of this Act \[Nov. 26, 2002\], that apply the provisions of this title to State residual market insurance entities and State workers’ compensation funds.
+In general.—The Secretary shall issue regulations, as soon as practicable after the date of enactment of this Act \[Nov. 26, 2002\], that apply the provisions of this title to State residual market insurance entities and State workers' compensation funds.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Treatment of certain entities.—For purposes of the regulations issued pursuant to paragraph (1)—
 
-&emsp;&emsp;“(A) a State residual market insurance entity that does not share its profits and losses with private sector insurers shall be treated as a separate insurer; and
+&emsp;&emsp;"(A) a State residual market insurance entity that does not share its profits and losses with private sector insurers shall be treated as a separate insurer; and
 
-&emsp;&emsp;“(B) a State residual market insurance entity that shares its profits and losses with private sector insurers shall not be treated as a separate insurer, and shall report to each private sector insurance participant its share of the insured losses of the entity, which shall be included in each private sector insurer's insured losses.
+&emsp;&emsp;"(B) a State residual market insurance entity that shares its profits and losses with private sector insurers shall not be treated as a separate insurer, and shall report to each private sector insurance participant its share of the insured losses of the entity, which shall be included in each private sector insurer's insured losses.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Treatment of participation in certain entities.—Any insurer that participates in sharing profits and losses of a State residual market insurance entity shall include in its calculations of premiums any premiums distributed to the insurer by the State residual market insurance entity.
 
-“(e)
+"(e)
 
 Insured Loss Shared Compensation.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Federal share.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The Federal share of compensation under the Program to be paid by the Secretary for insured losses of an insurer during the Transition Period and each Program Year through Program Year 4 shall be equal to 90 percent, and during Program Year 5 and each Program Year thereafter shall be equal to 85 percent, of that portion of the amount of such insured losses that exceeds the applicable insurer deductible required to be paid during such Transition Period or such Program Year.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Program trigger.—In the case of a certified act of terrorism occurring after March 31, 2006, no compensation shall be paid by the Secretary under subsection (a), unless the aggregate industry insured losses resulting from such certified act of terrorism exceed—
 
-&emsp;&emsp;&emsp;“(i) $50,000,000, with respect to such insured losses occurring in Program Year 4; or
+&emsp;&emsp;&emsp;"(i) $50,000,000, with respect to such insured losses occurring in Program Year 4; or
 
-&emsp;&emsp;&emsp;“(ii) $100,000,000, with respect to such insured losses occurring in Program Year 5 and any Program Year thereafter.
+&emsp;&emsp;&emsp;"(ii) $100,000,000, with respect to such insured losses occurring in Program Year 5 and any Program Year thereafter.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Prohibition on duplicative compensation.—The Federal share of compensation for insured losses under the Program shall be reduced by the amount of compensation provided by the Federal Government to any person under any other Federal program for those insured losses.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Cap on annual liability.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Notwithstanding paragraph (1) or any other provision of Federal or State law, if the aggregate insured losses exceed $100,000,000,000, during the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, or during any Program Year thereafter—
 
-&emsp;&emsp;&emsp;“(i) the Secretary shall not make any payment under this title for any portion of the amount of such losses that exceeds $100,000,000,000; and
+&emsp;&emsp;&emsp;"(i) the Secretary shall not make any payment under this title for any portion of the amount of such losses that exceeds $100,000,000,000; and
 
-&emsp;&emsp;&emsp;“(ii) no insurer that has met its insurer deductible shall be liable for the payment of any portion of the amount of such losses that exceeds $100,000,000,000.
+&emsp;&emsp;&emsp;"(ii) no insurer that has met its insurer deductible shall be liable for the payment of any portion of the amount of such losses that exceeds $100,000,000,000.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Insurer share.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—For purposes of subparagraph (A), the Secretary shall determine the pro rata share of insured losses to be paid by each insurer that incurs insured losses under the Program, except that, notwithstanding paragraph (1) or any other provision of Federal or State law, no insurer may be required to make any payment for insured losses in excess of its deductible under section 102(7) combined with its share of insured losses under paragraph (1)(A) of this subsection.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Regulations.—Not later than 240 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Secretary shall issue final regulations for determining the pro rata share of insured losses under the Program when insured losses exceed $100,000,000,000, in accordance with clause (i).
 
-&emsp;&emsp;&emsp;“(iii)
+&emsp;&emsp;&emsp;"(iii)
 
 Report to congress.—Not later than 120 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007, the Secretary shall provide a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the process to be used by the Secretary for determining the allocation of pro rata payments for insured losses under the Program when such losses exceed $100,000,000,000.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Notice to congress.—The Secretary shall notify the Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, or during any other Program Year. The Secretary shall provide an initial notice to Congress not later than 15 days after the date of an act of terrorism, stating whether the Secretary estimates that aggregate insured losses will exceed $100,000,000,000.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Final netting.—The Secretary shall have sole discretion to determine the time at which claims relating to any insured loss or act of terrorism shall become final.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Determinations final.—Any determination of the Secretary under this subsection shall be final, unless expressly provided, and shall not be subject to judicial review.
 
-&emsp;“(6)
+&emsp;"(6)
 
 Insurance marketplace aggregate retention amount.—For purposes of paragraph (7), the insurance marketplace aggregate retention amount shall be—
 
-&emsp;&emsp;“(A) for the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, the lesser of—
+&emsp;&emsp;"(A) for the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, the lesser of—
 
-&emsp;&emsp;&emsp;“(i) $10,000,000,000; and
+&emsp;&emsp;&emsp;"(i) $10,000,000,000; and
 
-&emsp;&emsp;&emsp;“(ii) the aggregate amount, for all insurers, of insured losses during such period;
+&emsp;&emsp;&emsp;"(ii) the aggregate amount, for all insurers, of insured losses during such period;
 
-&emsp;&emsp;“(B) for Program Year 2, the lesser of—
+&emsp;&emsp;"(B) for Program Year 2, the lesser of—
 
-&emsp;&emsp;&emsp;“(i) $12,500,000,000; and
+&emsp;&emsp;&emsp;"(i) $12,500,000,000; and
 
-&emsp;&emsp;&emsp;“(ii) the aggregate amount, for all insurers, of insured losses during such Program Year;
+&emsp;&emsp;&emsp;"(ii) the aggregate amount, for all insurers, of insured losses during such Program Year;
 
-&emsp;&emsp;“(C) for Program Year 3, the lesser of—
+&emsp;&emsp;"(C) for Program Year 3, the lesser of—
 
-&emsp;&emsp;&emsp;“(i) $15,000,000,000; and
+&emsp;&emsp;&emsp;"(i) $15,000,000,000; and
 
-&emsp;&emsp;&emsp;“(ii) the aggregate amount, for all insurers, of insured losses during such Program Year;
+&emsp;&emsp;&emsp;"(ii) the aggregate amount, for all insurers, of insured losses during such Program Year;
 
-&emsp;&emsp;“(D) for Program Year 4, the lesser of—
+&emsp;&emsp;"(D) for Program Year 4, the lesser of—
 
-&emsp;&emsp;&emsp;“(i) $25,000,000,000; and
+&emsp;&emsp;&emsp;"(i) $25,000,000,000; and
 
-&emsp;&emsp;&emsp;“(ii) the aggregate amount, for all insurers, of insured losses during such Program Year; and
+&emsp;&emsp;&emsp;"(ii) the aggregate amount, for all insurers, of insured losses during such Program Year; and
 
-&emsp;&emsp;“(E) for Program Year 5 and any Program Year thereafter, the lesser of—
+&emsp;&emsp;"(E) for Program Year 5 and any Program Year thereafter, the lesser of—
 
-&emsp;&emsp;&emsp;“(i) $27,500,000,000; and
+&emsp;&emsp;&emsp;"(i) $27,500,000,000; and
 
-&emsp;&emsp;&emsp;“(ii) the aggregate amount, for all insurers, of insured losses during such Program Year.
+&emsp;&emsp;&emsp;"(ii) the aggregate amount, for all insurers, of insured losses during such Program Year.
 
-&emsp;“(7)
+&emsp;"(7)
 
 Recoupment of federal share.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Mandatory recoupment amount.—For purposes of this paragraph, the mandatory recoupment amount for each of the periods referred to in subparagraphs (A) through (E) of paragraph (6) shall be the difference between—
 
-&emsp;&emsp;&emsp;“(i) the insurance marketplace aggregate retention amount under paragraph (6) for such period; and
+&emsp;&emsp;&emsp;"(i) the insurance marketplace aggregate retention amount under paragraph (6) for such period; and
 
-&emsp;&emsp;&emsp;“(ii) the aggregate amount, for all insurers, of insured losses during such period that are not compensated by the Federal Government because such losses—
+&emsp;&emsp;&emsp;"(ii) the aggregate amount, for all insurers, of insured losses during such period that are not compensated by the Federal Government because such losses—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) are within the insurer deductible for the insurer subject to the losses; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) are within the insurer deductible for the insurer subject to the losses; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) are within the portion of losses of the insurer that exceed the insurer deductible, but are not compensated pursuant to paragraph (1).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) are within the portion of losses of the insurer that exceed the insurer deductible, but are not compensated pursuant to paragraph (1).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 No mandatory recoupment if uncompensated losses exceed insurance marketplace retention.—Notwithstanding subparagraph (A), if the aggregate amount of uncompensated insured losses referred to in clause (ii) of such subparagraph for any period referred to in any of subparagraphs (A) through (E) of paragraph (6) is greater than the insurance marketplace aggregate retention amount under paragraph (6) for such period, the mandatory recoupment amount shall be $0.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Mandatory establishment of surcharges to recoup mandatory recoupment amount.—The Secretary shall collect, for repayment of the Federal financial assistance provided in connection with all acts of terrorism (or acts of war, in the case of workers compensation) occurring during any of the periods referred to in any of subparagraphs (A) through (E) of paragraph (6), terrorism loss risk-spreading premiums in an amount equal to 133 percent of any mandatory recoupment amount for such period.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Discretionary recoupment of remainder of financial assistance.—To the extent that the amount of Federal financial assistance provided exceeds any mandatory recoupment amount, the Secretary may recoup, through terrorism loss risk-spreading premiums, such additional amounts that the Secretary believes can be recouped, based on—
 
-&emsp;&emsp;&emsp;“(i) the ultimate costs to taxpayers of no additional recoupment;
+&emsp;&emsp;&emsp;"(i) the ultimate costs to taxpayers of no additional recoupment;
 
-&emsp;&emsp;&emsp;“(ii) the economic conditions in the commercial marketplace, including the capitalization, profitability, and investment returns of the insurance industry and the current cycle of the insurance markets;
+&emsp;&emsp;&emsp;"(ii) the economic conditions in the commercial marketplace, including the capitalization, profitability, and investment returns of the insurance industry and the current cycle of the insurance markets;
 
-&emsp;&emsp;&emsp;“(iii) the affordability of commercial insurance for small- and medium-sized businesses; and
+&emsp;&emsp;&emsp;"(iii) the affordability of commercial insurance for small- and medium-sized businesses; and
 
-&emsp;&emsp;&emsp;“(iv) such other factors as the Secretary considers appropriate.
+&emsp;&emsp;&emsp;"(iv) such other factors as the Secretary considers appropriate.
 
-&emsp;&emsp;“(E)
+&emsp;&emsp;"(E)
 
 Timing of mandatory recoupment.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—If the Secretary is required to collect terrorism loss risk-spreading premiums under subparagraph (C)—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) for any act of terrorism that occurs on or before December 31, 2010, the Secretary shall collect all required premiums by September 30, 2012;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) for any act of terrorism that occurs on or before December 31, 2010, the Secretary shall collect all required premiums by September 30, 2012;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) for any act of terrorism that occurs between January 1 and December 31, 2011, the Secretary shall collect 35 percent of any required premiums by September 30, 2012, and the remainder by September 30, 2017; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) for any act of terrorism that occurs between January 1 and December 31, 2011, the Secretary shall collect 35 percent of any required premiums by September 30, 2012, and the remainder by September 30, 2017; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) for any act of terrorism that occurs on or after January 1, 2012, the Secretary shall collect all required premiums by September 30, 2017.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) for any act of terrorism that occurs on or after January 1, 2012, the Secretary shall collect all required premiums by September 30, 2017.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Regulations required.—Not later than 180 days after the date of enactment of this subparagraph \[Dec. 26, 2007\], the Secretary shall issue regulations describing the procedures to be used for collecting the required premiums in the time periods referred to in clause (i).
 
-&emsp;&emsp;“(F)
+&emsp;&emsp;"(F)
 
 Notice of estimated losses.—Not later than 90 days after the date of an act of terrorism, the Secretary shall publish an estimate of aggregate insured losses, which shall be used as the basis for determining whether mandatory recoupment will be required under this paragraph. Such estimate shall be updated as appropriate, and at least annually.
 
-&emsp;“(8)
+&emsp;"(8)
 
 Policy surcharge for terrorism loss risk-spreading premiums.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Policyholder premium.—Any amount established by the Secretary as a terrorism loss risk-spreading premium shall—
 
-&emsp;&emsp;&emsp;“(i) be imposed as a policyholder premium surcharge on property and casualty insurance policies in force after the date of such establishment;
+&emsp;&emsp;&emsp;"(i) be imposed as a policyholder premium surcharge on property and casualty insurance policies in force after the date of such establishment;
 
-&emsp;&emsp;&emsp;“(ii) begin with such period of coverage during the year as the Secretary determines appropriate; and
+&emsp;&emsp;&emsp;"(ii) begin with such period of coverage during the year as the Secretary determines appropriate; and
 
-&emsp;&emsp;&emsp;“(iii) be based on a percentage of the premium amount charged for property and casualty insurance coverage under the policy.
+&emsp;&emsp;&emsp;"(iii) be based on a percentage of the premium amount charged for property and casualty insurance coverage under the policy.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Collection.—The Secretary shall provide for insurers to collect terrorism loss risk-spreading premiums and remit such amounts collected to the Secretary.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Percentage limitation.—A terrorism loss risk-spreading premium collected on a discretionary basis pursuant to paragraph (7)(D) may not exceed, on an annual basis, the amount equal to 3 percent of the premium charged for property and casualty insurance coverage under the policy.
 
-&emsp;&emsp;“(D) Adjustment for urban and smaller commercial and rural areas and different lines of insurance.—
+&emsp;&emsp;"(D) Adjustment for urban and smaller commercial and rural areas and different lines of insurance.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 Adjustments.—In determining the method and manner of imposing terrorism loss risk-spreading premiums, including the amount of such premiums, the Secretary shall take into consideration—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the economic impact on commercial centers of urban areas, including the effect on commercial rents and commercial insurance premiums, particularly rents and premiums charged to small businesses, and the availability of lease space and commercial insurance within urban areas;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the economic impact on commercial centers of urban areas, including the effect on commercial rents and commercial insurance premiums, particularly rents and premiums charged to small businesses, and the availability of lease space and commercial insurance within urban areas;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the risk factors related to rural areas and smaller commercial centers, including the potential exposure to loss and the likely magnitude of such loss, as well as any resulting cross-subsidization that might result; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the risk factors related to rural areas and smaller commercial centers, including the potential exposure to loss and the likely magnitude of such loss, as well as any resulting cross-subsidization that might result; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the various exposures to terrorism risk for different lines of insurance.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the various exposures to terrorism risk for different lines of insurance.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Recoupment of adjustments.—Any mandatory recoupment amounts not collected by the Secretary because of adjustments under this subparagraph shall be recouped through additional terrorism loss risk-spreading premiums, in accordance with the timing requirements of paragraph (7)(E).
 
-&emsp;&emsp;“(E)
+&emsp;&emsp;"(E)
 
 Timing of premiums.—The Secretary may adjust the timing of terrorism loss risk-spreading premiums to provide for equivalent application of the provisions of this title to policies that are not based on a calendar year, or to apply such provisions on a daily, monthly, or quarterly basis, as appropriate.
 
-“(f)
+"(f)
 
-Captive Insurers and Other Self-Insurance Arrangements.—The Secretary may, in consultation with the NAIC or the appropriate State regulatory authority, apply the provisions of this title, as appropriate, to other classes or types of captive insurers and other self-insurance arrangements by municipalities and other entities (such as workers’ compensation self-insurance programs and State workers’ compensation reinsurance pools), but only if such application is determined before the occurrence of an act of terrorism in which such an entity incurs an insured loss and all of the provisions of this title are applied comparably to such entities.
+Captive Insurers and Other Self-Insurance Arrangements.—The Secretary may, in consultation with the NAIC or the appropriate State regulatory authority, apply the provisions of this title, as appropriate, to other classes or types of captive insurers and other self-insurance arrangements by municipalities and other entities (such as workers' compensation self-insurance programs and State workers' compensation reinsurance pools), but only if such application is determined before the occurrence of an act of terrorism in which such an entity incurs an insured loss and all of the provisions of this title are applied comparably to such entities.
 
-“(g)
+"(g)
 
 Reinsurance to Cover Exposure.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Obtaining coverage.—This title may not be construed to limit or prevent insurers from obtaining reinsurance coverage for insurer deductibles or insured losses retained by insurers pursuant to this section, nor shall the obtaining of such coverage affect the calculation of such deductibles or retentions.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Limitation on financial assistance.—The amount of financial assistance provided pursuant to this section shall not be reduced by reinsurance paid or payable to an insurer from other sources, except that recoveries from such other sources, taken together with financial assistance for the Transition Period or a Program Year provided pursuant to this section, may not exceed the aggregate amount of the insurer's insured losses for such period. If such recoveries and financial assistance for the Transition Period or a Program Year exceed such aggregate amount of insured losses for that period and there is no agreement between the insurer and any reinsurer to the contrary, an amount in excess of such aggregate insured losses shall be returned to the Secretary.
 
-“(h)
+"(h)
 
 Group Life Insurance Study.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Study.—The Secretary shall study, on an expedited basis, whether adequate and affordable catastrophe reinsurance for acts of terrorism is available to life insurers in the United States that issue group life insurance, and the extent to which the threat of terrorism is reducing the availability of group life insurance coverage for consumers in the United States.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Conditional Coverage.—To the extent that the Secretary determines that such coverage is not or will not be reasonably available to both such insurers and consumers, the Secretary shall, in consultation with the NAIC—
 
-&emsp;&emsp;“(A) apply the provisions of this title, as appropriate, to providers of group life insurance; and
+&emsp;&emsp;"(A) apply the provisions of this title, as appropriate, to providers of group life insurance; and
 
-&emsp;&emsp;“(B) provide such restrictions, limitations, or conditions with respect to any financial assistance provided that the Secretary deems appropriate, based on the study under paragraph (1).
+&emsp;&emsp;"(B) provide such restrictions, limitations, or conditions with respect to any financial assistance provided that the Secretary deems appropriate, based on the study under paragraph (1).
 
-“(i)
+"(i)
 
 Study and Report.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Study.—The Secretary, after consultation with the NAIC, representatives of the insurance industry, and other experts in the insurance field, shall conduct a study of the potential effects of acts of terrorism on the availability of life insurance and other lines of insurance coverage, including personal lines.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Report.—Not later than 9 months after the date of enactment of this Act \[Nov. 26, 2002\], the Secretary shall submit a report to the Congress on the results of the study conducted under paragraph (1).
 
-#### “SEC. 104. GENERAL AUTHORITY AND ADMINISTRATION OF CLAIMS.
+#### "SEC. 104. GENERAL AUTHORITY AND ADMINISTRATION OF CLAIMS.
 
-“(a)
+"(a)
 
 General Authority.—The Secretary shall have the powers and authorities necessary to carry out the Program, including authority—
 
-&emsp;“(1) to investigate and audit all claims under the Program; and
+&emsp;"(1) to investigate and audit all claims under the Program; and
 
-&emsp;“(2) to prescribe regulations and procedures to effectively administer and implement the Program, and to ensure that all insurers and self-insured entities that participate in the Program are treated comparably under the Program.
+&emsp;"(2) to prescribe regulations and procedures to effectively administer and implement the Program, and to ensure that all insurers and self-insured entities that participate in the Program are treated comparably under the Program.
 
-“(b)
+"(b)
 
 Interim Rules and Procedures.—The Secretary may issue interim final rules or procedures specifying the manner in which—
 
-&emsp;“(1) insurers may file and certify claims under the Program;
+&emsp;"(1) insurers may file and certify claims under the Program;
 
-&emsp;“(2) the Federal share of compensation for insured losses will be paid under the Program, including payments based on estimates of or actual insured losses;
+&emsp;"(2) the Federal share of compensation for insured losses will be paid under the Program, including payments based on estimates of or actual insured losses;
 
-&emsp;“(3) the Secretary may, at any time, seek repayment from or reimburse any insurer, based on estimates of insured losses under the Program, to effectuate the insured loss sharing provisions in section 103; and
+&emsp;"(3) the Secretary may, at any time, seek repayment from or reimburse any insurer, based on estimates of insured losses under the Program, to effectuate the insured loss sharing provisions in section 103; and
 
-&emsp;“(4) the Secretary will determine any final netting of payments under the Program, including payments owed to the Federal Government from any insurer and any Federal share of compensation for insured losses owed to any insurer, to effectuate the insured loss sharing provisions in section 103.
+&emsp;"(4) the Secretary will determine any final netting of payments under the Program, including payments owed to the Federal Government from any insurer and any Federal share of compensation for insured losses owed to any insurer, to effectuate the insured loss sharing provisions in section 103.
 
-“(c)
+"(c)
 
 Consultation.—The Secretary shall consult with the NAIC, as the Secretary determines appropriate, concerning the Program.
 
-“(d)
+"(d)
 
 Contracts for Services.—The Secretary may employ persons or contract for services as may be necessary to implement the Program.
 
-“(e)
+"(e)
 
 Civil Penalties.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary may assess a civil monetary penalty in an amount not exceeding the amount under paragraph (2) against any insurer that the Secretary determines, on the record after opportunity for a hearing—
 
-&emsp;&emsp;“(A) has failed to charge, collect, or remit terrorism loss risk-spreading premiums under section 103(e) in accordance with the requirements of, or regulations issued under, this title;
+&emsp;&emsp;"(A) has failed to charge, collect, or remit terrorism loss risk-spreading premiums under section103(e) in accordance with the requirements of, or regulations issued under, this title;
 
-&emsp;&emsp;“(B) has intentionally provided to the Secretary erroneous information regarding premium or loss amounts;
+&emsp;&emsp;"(B) has intentionally provided to the Secretary erroneous information regarding premium or loss amounts;
 
-&emsp;&emsp;“(C) submits to the Secretary fraudulent claims under the Program for insured losses;
+&emsp;&emsp;"(C) submits to the Secretary fraudulent claims under the Program for insured losses;
 
-&emsp;&emsp;“(D) has failed to provide the disclosures required under subsection (f); or
+&emsp;&emsp;"(D) has failed to provide the disclosures required under subsection (f); or
 
-&emsp;&emsp;“(E) has otherwise failed to comply with the provisions of, or the regulations issued under, this title.
+&emsp;&emsp;"(E) has otherwise failed to comply with the provisions of, or the regulations issued under, this title.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Amount.—The amount under this paragraph is the greater of $1,000,000 and, in the case of any failure to pay, charge, collect, or remit amounts in accordance with this title or the regulations issued under this title, such amount in dispute.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Recovery of amount in dispute.—A penalty under this subsection for any failure to pay, charge, collect, or remit amounts in accordance with this title or the regulations under this title shall be in addition to any such amounts recovered by the Secretary.
 
-“(f)
+"(f)
 
 Submission of Premium Information.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary shall annually compile information on the terrorism risk insurance premium rates of insurers for the preceding year.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Access to information.—To the extent that such information is not otherwise available to the Secretary, the Secretary may require each insurer to submit to the NAIC terrorism risk insurance premium rates, as necessary to carry out paragraph (1), and the NAIC shall make such information available to the Secretary.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Availability to congress.—The Secretary shall make information compiled under this subsection available to the Congress, upon request.
 
-“(g)
+"(g)
 
 Funding.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Federal payments.—There are hereby appropriated, out of funds in the Treasury not otherwise appropriated, such sums as may be necessary to pay the Federal share of compensation for insured losses under the Program.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Administrative expenses.—There are hereby appropriated, out of funds in the Treasury not otherwise appropriated, such sums as may be necessary to pay reasonable costs of administering the Program.
 
-#### “SEC. 105. PREEMPTION AND NULLIFICATION OF PRE-EXISTING TERRORISM EXCLUSIONS.
+#### "SEC. 105. PREEMPTION AND NULLIFICATION OF PRE-EXISTING TERRORISM EXCLUSIONS.
 
-“(a)
+"(a)
 
 General Nullification.—Any terrorism exclusion in a contract for property and casualty insurance that is in force on the date of enactment of this Act \[Nov. 26, 2002\] shall be void to the extent that it excludes losses that would otherwise be insured losses.
 
-“(b)
+"(b)
 
 General Preemption.—Any State approval of any terrorism exclusion from a contract for property and casualty insurance that is in force on the date of enactment of this Act, shall be void to the extent that it excludes losses that would otherwise be insured losses.
 
-“(c)
+"(c)
 
 Reinstatement of Terrorism Exclusions.—Notwithstanding subsections (a) and (b) or any provision of State law, an insurer may reinstate a preexisting provision in a contract for property and casualty insurance that is in force on the date of enactment of this Act \[Nov. 26, 2002\] and that excludes coverage for an act of terrorism only—
 
-&emsp;“(1) if the insurer has received a written statement from the insured that affirmatively authorizes such reinstatement; or
+&emsp;"(1) if the insurer has received a written statement from the insured that affirmatively authorizes such reinstatement; or
 
-&emsp;“(2) if—
+&emsp;"(2) if—
 
-&emsp;&emsp;“(A) the insured fails to pay any increased premium charged by the insurer for providing such terrorism coverage; and
+&emsp;&emsp;"(A) the insured fails to pay any increased premium charged by the insurer for providing such terrorism coverage; and
 
-&emsp;&emsp;“(B) the insurer provided notice, at least 30 days before any such reinstatement, of—
+&emsp;&emsp;"(B) the insurer provided notice, at least 30 days before any such reinstatement, of—
 
-&emsp;&emsp;&emsp;“(i) the increased premium for such terrorism coverage; and
+&emsp;&emsp;&emsp;"(i) the increased premium for such terrorism coverage; and
 
-&emsp;&emsp;&emsp;“(ii) the rights of the insured with respect to such coverage, including any date upon which the exclusion would be reinstated if no payment is received.
+&emsp;&emsp;&emsp;"(ii) the rights of the insured with respect to such coverage, including any date upon which the exclusion would be reinstated if no payment is received.
 
-#### “SEC. 106. PRESERVATION PROVISIONS.
+#### "SEC. 106. PRESERVATION PROVISIONS.
 
-“(a)
+"(a)
 
 State Law.—Nothing in this title shall affect the jurisdiction or regulatory authority of the insurance commissioner (or any agency or office performing like functions) of any State over any insurer or other person—
 
-&emsp;“(1) except as specifically provided in this title; and
+&emsp;"(1) except as specifically provided in this title; and
 
-&emsp;“(2) except that—
+&emsp;"(2) except that—
 
-&emsp;&emsp;“(A) the definition of the term ‘act of terrorism’ in section 102 shall be the exclusive definition of that term for purposes of compensation for insured losses under this title, and shall preempt any provision of State law that is inconsistent with that definition, to the extent that such provision of law would otherwise apply to any type of insurance covered by this title;
+&emsp;&emsp;"(A) the definition of the term 'act of terrorism' in section 102 shall be the exclusive definition of that term for purposes of compensation for insured losses under this title, and shall preempt any provision of State law that is inconsistent with that definition, to the extent that such provision of law would otherwise apply to any type of insurance covered by this title;
 
-&emsp;&emsp;“(B) during the period beginning on the date of enactment of this Act \[Nov. 26, 2002\] and ending on December 31, 2003, rates and forms for terrorism risk insurance covered by this title and filed with any State shall not be subject to prior approval or a waiting period under any law of a State that would otherwise be applicable, except that nothing in this title affects the ability of any State to invalidate a rate as excessive, inadequate, or unfairly discriminatory, and, with respect to forms, where a State has prior approval authority, it shall apply to allow subsequent review of such forms; and
+&emsp;&emsp;"(B) during the period beginning on the date of enactment of this Act \[Nov. 26, 2002\] and ending on December 31, 2003, rates and forms for terrorism risk insurance covered by this title and filed with any State shall not be subject to prior approval or a waiting period under any law of a State that would otherwise be applicable, except that nothing in this title affects the ability of any State to invalidate a rate as excessive, inadequate, or unfairly discriminatory, and, with respect to forms, where a State has prior approval authority, it shall apply to allow subsequent review of such forms; and
 
-&emsp;&emsp;“(C) during the period beginning on the date of enactment of this Act and for so long as the Program is in effect, as provided in section 108, including authority in subsection 108(b), books and records of any insurer that are relevant to the Program shall be provided, or caused to be provided, to the Secretary, upon request by the Secretary, notwithstanding any provision of the laws of any State prohibiting or limiting such access.
+&emsp;&emsp;"(C) during the period beginning on the date of enactment of this Act and for so long as the Program is in effect, as provided in section 108, including authority in subsection 108(b), books and records of any insurer that are relevant to the Program shall be provided, or caused to be provided, to the Secretary, upon request by the Secretary, notwithstanding any provision of the laws of any State prohibiting or limiting such access.
 
-“(b)
+"(b)
 
 Existing Reinsurance Agreements.—Nothing in this title shall be construed to alter, amend, or expand the terms of coverage under any reinsurance agreement in effect on the date of enactment of this Act \[Nov. 26, 2002\]. The terms and conditions of such an agreement shall be determined by the language of that agreement.
 
-#### “SEC. 107. LITIGATION MANAGEMENT.
+#### "SEC. 107. LITIGATION MANAGEMENT.
 
-“(a)
+"(a)
 
 Procedures and Damages.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—If the Secretary makes a determination pursuant to section 102 that an act of terrorism has occurred, there shall exist a Federal cause of action for property damage, personal injury, or death arising out of or resulting from such act of terrorism, which shall be the exclusive cause of action and remedy for claims for property damage, personal injury, or death arising out of or relating to such act of terrorism, except as provided in subsection (b).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Preemption of state actions.—All State causes of action of any kind for property damage, personal injury, or death arising out of or resulting from an act of terrorism that are otherwise available under State law are hereby preempted, except as provided in subsection (b).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Substantive law.—The substantive law for decision in any such action described in paragraph (1) shall be derived from the law, including choice of law principles, of the State in which such act of terrorism occurred, unless such law is otherwise inconsistent with or preempted by Federal law.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Jurisdiction.—For each determination described in paragraph (1), not later than 90 days after the occurrence of an act of terrorism, the Judicial Panel on Multidistrict Litigation shall designate 1 district court or, if necessary, multiple district courts of the United States that shall have original and exclusive jurisdiction over all actions for any claim (including any claim for loss of property, personal injury, or death) relating to or arising out of an act of terrorism subject to this section. The Judicial Panel on Multidistrict Litigation shall select and assign the district court or courts based on the convenience of the parties and the just and efficient conduct of the proceedings. For purposes of personal jurisdiction, the district court or courts designated by the Judicial Panel on Multidistrict Litigation shall be deemed to sit in all judicial districts in the United States.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Punitive damages.—Any amounts awarded in an action under paragraph (1) that are attributable to punitive damages shall not count as insured losses for purposes of this title.
 
-&emsp;“(6)
+&emsp;"(6)
 
 Authority of the secretary.—Procedures and requirements established by the Secretary under section 50.82 of part 50 of title 31 of the Code of Federal Regulations (as in effect on the date of issuance of that section in final form) shall apply to any cause of action described in paragraph (1) of this subsection.
 
-“(b)
+"(b)
 
 Exclusion.—Nothing in this section shall in any way limit the liability of any government, an organization, or person who knowingly participates in, conspires to commit, aids and abets, or commits any act of terrorism with respect to which a determination described in subsection (a)(1) was made.
 
-“(c)
+"(c)
 
 Right of Subrogation.—The United States shall have the right of subrogation with respect to any payment or claim paid by the United States under this title.
 
-“(d)
+"(d)
 
 Relationship to Other Law.—Nothing in this section shall be construed to affect—
 
-&emsp;“(1) any party's contractual right to arbitrate a dispute; or
+&emsp;"(1) any party's contractual right to arbitrate a dispute; or
 
-&emsp;“(2) any provision of the Air Transportation Safety and System Stabilization Act (Public Law 107–42; 49 U.S.C. 40101 note.).
+&emsp;"(2) any provision of the Air Transportation Safety and System Stabilization Act (Public Law 107–42; 49 U.S.C. 40101 note.).
 
-“(e)
+"(e)
 
 Effective Period.—This section shall apply only to actions described in subsection (a)(1) that arise out of or result from acts of terrorism that occur or occurred during the effective period of the Program.
 
-#### “SEC. 108. TERMINATION OF PROGRAM.
+#### "SEC. 108. TERMINATION OF PROGRAM.
 
-“(a)
+"(a)
 
 Termination of Program.—The Program shall terminate on December 31, 2014.
 
-“(b)
+"(b)
 
 Continuing Authority to Pay or Adjust Compensation.—Following the termination of the Program, the Secretary may take such actions as may be necessary to ensure payment, recoupment, reimbursement, or adjustment of compensation for insured losses arising out of any act of terrorism occurring during the period in which the Program was in effect under this title, in accordance with the provisions of section 103 and regulations promulgated thereunder.
 
-“(c)
+"(c)
 
 Repeal; Savings Clause.—This title is repealed on the final termination date of the Program under subsection (a), except that such repeal shall not be construed—
 
-&emsp;“(1) to prevent the Secretary from taking, or causing to be taken, such actions under subsection (b) of this section, paragraph (4), (5), (6), (7), or (8) of section 103(e), or subsection (a)(1), (c), (d), or (e) of section 104, as in effect on the day before the date of such repeal, or applicable regulations promulgated thereunder, during any period in which the authority of the Secretary under subsection (b) of this section is in effect; or
+&emsp;"(1) to prevent the Secretary from taking, or causing to be taken, such actions under subsection (b) of this section, paragraph (4), (5), (6), (7), or (8) of section 103(e), or subsection (a)(1), (c), (d), or (e) of section 104, as in effect on the day before the date of such repeal, or applicable regulations promulgated thereunder, during any period in which the authority of the Secretary under subsection (b) of this section is in effect; or
 
-&emsp;“(2) to prevent the availability of funding under section 104(g) during any period in which the authority of the Secretary under subsection (b) of this section is in effect.
+&emsp;"(2) to prevent the availability of funding under section 104(g) during any period in which the authority of the Secretary under subsection (b) of this section is in effect.
 
-“(d)
+"(d)
 
 Study and Report on the Program.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Study.—The Secretary, in consultation with the NAIC, representatives of the insurance industry and of policy holders, other experts in the insurance field, and other experts as needed, shall assess the effectiveness of the Program and the likely capacity of the property and casualty insurance industry to offer insurance for terrorism risk after termination of the Program, and the availability and affordability of such insurance for various policyholders, including railroads, trucking, and public transit.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Report.—The Secretary shall submit a report to the Congress on the results of the study conducted under paragraph (1) not later than June 30, 2005.
 
-“(e)
+"(e)
 
 Analysis of Market Conditions for Terrorism Risk Insurance.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The President's Working Group on Financial Markets, in consultation with the National Association of Insurance Commissioners, representatives of the insurance industry, representatives of the securities industry, and representatives of policy holders, shall perform an ongoing analysis regarding the long-term availability and affordability of insurance for terrorism risk.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Report.—Not later than September 30, 2006, and thereafter in 2010 and 2013, the President's Working Group on Financial Markets shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on its findings pursuant to the analysis conducted under paragraph (1).
 
-“(f)
+"(f)
 
 Insurance for Nuclear, Biological, Chemical, and Radiological Terrorist Events.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Study.—The Comptroller General of the United States shall examine—
 
-&emsp;&emsp;“(A) the availability and affordability of insurance coverage for losses caused by terrorist attacks involving nuclear, biological, chemical, or radiological materials;
+&emsp;&emsp;"(A) the availability and affordability of insurance coverage for losses caused by terrorist attacks involving nuclear, biological, chemical, or radiological materials;
 
-&emsp;&emsp;“(B) the outlook for such coverage in the future; and
+&emsp;&emsp;"(B) the outlook for such coverage in the future; and
 
-&emsp;&emsp;“(C) the capacity of private insurers and State workers compensation funds to manage risk associated with nuclear, biological, chemical, and radiological terrorist events.
+&emsp;&emsp;"(C) the capacity of private insurers and State workers compensation funds to manage risk associated with nuclear, biological, chemical, and radiological terrorist events.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Report.—Not later than 1 year after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report containing a detailed statement of the findings under paragraph (1), and recommendations for any legislative, regulatory, administrative, or other actions at the Federal, State, or local levels that the Comptroller General considers appropriate to expand the availability and affordability of insurance for nuclear, biological, chemical, or radiological terrorist events.
 
-“(g)
+"(g)
 
 Availability and Affordability of Terrorism Insurance in Specific Markets.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Study.—The Comptroller General of the United States shall conduct a study to determine whether there are specific markets in the United States where there are unique capacity constraints on the amount of terrorism risk insurance available.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Elements of study.—The study required by paragraph (1) shall contain—
 
-&emsp;&emsp;“(A) an analysis of both insurance and reinsurance capacity in specific markets, including pricing and coverage limits in existing policies;
+&emsp;&emsp;"(A) an analysis of both insurance and reinsurance capacity in specific markets, including pricing and coverage limits in existing policies;
 
-&emsp;&emsp;“(B) an assessment of the factors contributing to any capacity constraints that are identified; and
+&emsp;&emsp;"(B) an assessment of the factors contributing to any capacity constraints that are identified; and
 
-&emsp;&emsp;“(C) recommendations for addressing those capacity constraints.
+&emsp;&emsp;"(C) recommendations for addressing those capacity constraints.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Report.—Not later than 180 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit a report on the study required by paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.”
+Report.—Not later than 180 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit a report on the study required by paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives."
 
-\[Pub. L. 110–160, §4(b)(2), Dec. 26, 2007, 121 Stat. 1840, which directed amendment of section 103(e)(3) of Pub. L. 107–297, set out above, by substituting period for “ ‘and the Congress shall’ and all that follows through the end of the paragraph”, was executed by substituting period for “and the Congress shall” and all that followed through end of first sentence, to reflect the probable intent of Congress, in light of insertion of last sentence of par. (3) by Pub. L. 110–160, §4(b)(1).\]
+\[Pub. L. 110–160, §4(b)(2), Dec. 26, 2007, 121 Stat. 1840, which directed amendment of section 103(e)(3) of Pub. L. 107–297, set out above, by substituting period for " 'and the Congress shall' and all that follows through the end of the paragraph", was executed by substituting period for "and the Congress shall" and all that followed through end of first sentence, to reflect the probable intent of Congress, in light of insertion of last sentence of par. (3) by Pub. L. 110–160, §4(b)(1).\]
 
 #### Termination of Trust Territory of the Pacific Islands
 

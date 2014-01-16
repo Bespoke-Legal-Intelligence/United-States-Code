@@ -6,7 +6,7 @@ Proprietors of distilled spirits plants shall conduct all operations authorized 
 
 #### (b) Distilled spirits for industrial uses
 
-The regulations of the Secretary under this chapter respecting the production, warehousing, denaturing, distribution, sale, export, and use of distilled spirits for industrial purposes shall be such as he deems necessary, advisable, or proper to secure the revenue, to prevent diversion to illegal uses, and to place the distilled spirits industry and other industries using such distilledspirits as a chemical raw material or for other lawful industrial purposes on the highest possible plane of scientific and commercial efficiency and development consistent with the provisions of this chapter. Where nonpotable chemical mixtures containing distilled spirits are produced for transfer to the bonded premises of a distilled spirits plant for completion of processing, the Secretary may waive any provision of this chapter with respect to the production of such mixtures, and the processing of such mixtures on the bonded premises shall be deemed to be production of distilled spirits for purposes of this chapter.
+The regulations of the Secretary under this chapter respecting the production, warehousing, denaturing, distribution, sale, export, and use of distilled spirits for industrial purposes shall be such as he deems necessary, advisable, or proper to secure the revenue, to prevent diversion to illegal uses, and to place the distilled spirits industry and other industries using such distilled spirits as a chemical raw material or for other lawful industrial purposes on the highest possible plane of scientific and commercial efficiency and development consistent with the provisions of this chapter. Where nonpotable chemical mixtures containing distilled spirits are produced for transfer to the bonded premises of a distilled spirits plant for completion of processing, the Secretary may waive any provision of this chapter with respect to the production of such mixtures, and the processing of such mixtures on the bonded premises shall be deemed to be production of distilled spirits for purposes of this chapter.
 
 #### (c) Hours of operations
 
@@ -34,9 +34,9 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 633, 63
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–39 substituted “all operations authorized to be conducted” for “their operations relating to the production, storage, denaturing, rectification and bottling of distilled spirits, and all other operations authorized to be conducted”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39 substituted "all operations authorized to be conducted" for "their operations relating to the production, storage, denaturing, rectification and bottling of distilled spirits, and all other operations authorized to be conducted".
 
-<b>1976</b>—Subsecs. (a) to (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (d). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 1979 Amendment
 

@@ -30,9 +30,9 @@
 
 &emsp;&emsp;(A) to in any way effectuate an extinguishment of or otherwise impair—
 
-&emsp;&emsp;&emsp;(i) the Pueblo's title to lands acquired by or for the benefit of the Pueblo since December 28, 1927, or in a tract of land of approximately 150.14 acres known as the “sliver area” and described on a plat which is appendix H to the Settlement Agreement;
+&emsp;&emsp;&emsp;(i) the Pueblo's title to lands acquired by or for the benefit of the Pueblo since December 28, 1927, or in a tract of land of approximately 150.14 acres known as the "sliver area" and described on a plat which is appendix H to the Settlement Agreement;
 
-&emsp;&emsp;&emsp;(ii) the Pueblo's title to land within the Santo Domingo Pueblo Grant which the Pueblo Lands Board found not to have been extinguished; or
+&emsp;&emsp;&emsp;(ii) the Pueblo's title to land within the Santo Domingo Pueblo Grant which thePueblo Lands Board found not to have been extinguished; or
 
 &emsp;&emsp;&emsp;(iii) the Pueblo's water rights appurtenant to the lands described in clauses (i) and (ii); and
 
@@ -60,7 +60,7 @@
 
 #### (1) Establishment
 
-&emsp;There is hereby established in the Treasury a trust fund to be known as the “Pueblo of Santo Domingo Land Claims Settlement Fund”. Funds deposited in the Fund shall be subject to the following conditions:
+&emsp;There is hereby established in the Treasury a trust fund to be known as the "Pueblo of Santo Domingo Land Claims Settlement Fund". Funds deposited in the Fund shall be subject to the following conditions:
 
 &emsp;&emsp;(A) The Fund shall be maintained and invested by the Secretary of the Interior pursuant to the Act of June 24, 1938 (25 U.S.C. 162a).
 
@@ -98,7 +98,7 @@
 
 #### (c) Activities upon compromise
 
-On the date of the entry of the final compromise judgment in the case of Pueblo of Santo Domingo v. United States (Indian Claims Commission docket No. 355) in the United States Court of Federal Claims, and the dismissal with prejudice of the case of Pueblo of Santo Domingo v. Rael (No. CIV–83–1888) in the United States District Court for the District of New Mexico, whichever occurs later—
+On the date of the entry of the final compromise judgment in the case of Pueblo of Santo Domingo v. United States (Indian Claims Commission docket No. 355) in the United StatesCourt of Federal Claims, and the dismissal with prejudice of the case of Pueblo of Santo Domingo v. Rael (No. CIV–83–1888) in the United States District Court for the District of New Mexico, whichever occurs later—
 
 &emsp;(1) the public lands administered by the Bureau of Land Management and described in section 6 of the Settlement Agreement, and consisting of approximately 4,577.10 acres of land, shall thereafter be held by the United States in trust for the benefit of the Pueblo, subject to valid existing rights and rights of public and private access, as provided for in the Settlement Agreement;
 

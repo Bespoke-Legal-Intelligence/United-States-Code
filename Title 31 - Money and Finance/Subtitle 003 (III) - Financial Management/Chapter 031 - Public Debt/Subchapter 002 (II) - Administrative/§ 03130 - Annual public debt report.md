@@ -38,11 +38,11 @@ Required Information on Public Debt Activities.—Each report submitted under su
 
 &emsp;(5) A table showing the relationship of federally assisted borrowing to total Federal borrowing as of the time the report is submitted and for prior years.
 
-&emsp;(6) A table showing the annual principal and interest payments which would be required to amortize in equal annual payments the level (as of the time the report is submitted) of thenet public debt over the longest remaining term to maturity of any obligation which is a part of such debt.
+&emsp;(6) A table showing the annual principal and interest payments which would be required to amortize in equal annual payments the level (as of the time the report is submitted) of the net public debt over the longest remaining term to maturity of any obligation which is a part of such debt.
 
 (c)
 
-Required Information on Federal Financing Bank.—Each report submitted under subsection (a) shall include (but not be limited to) information on the financial operations of the Federal Financing Bank, including loan payments and prepayments, and on the levels and categories of the lending activities of the Federal Financing Bank, for the current fiscal year and for prior fiscal years.
+Required Information on Federal Financing Bank.—Each report submitted undersubsection (a) shall include (but not be limited to) information on the financial operations of the Federal Financing Bank, including loan payments and prepayments, and on the levels and categories of the lending activities of the Federal Financing Bank, for the current fiscal year and for prior fiscal years.
 
 (d)
 
@@ -54,23 +54,23 @@ Definitions.—For purposes of this section—
 
 &emsp;(1)
 
-Current fiscal year.—The term “current fiscal year” means the fiscal year ending in the calendar year in which the report is submitted.
+Current fiscal year.—The term "current fiscal year" means the fiscal year ending in the calendar year in which the report is submitted.
 
 &emsp;(2)
 
-Total public debt.—The term “total public debt” means the total amount of the obligations subject to the public debt limit established in section 3101 of this title.
+Total public debt.—The term "total public debt" means the total amount of the obligations subject to the public debt limit established in section 3101 of this title.
 
 &emsp;(3)
 
-Net public debt.—The term “net public debt” means the portion of the total public debt which is held by the public.
+Net public debt.—The term "net public debt" means the portion of the total public debt which is held by the public.
 
 &emsp;(4)
 
-Debt to gdp ratio.—The term “debt to GDP ratio” means the percentage obtained by dividing the level of the total public debt or net public debt, as the case may be, by the gross domestic product.
+Debt to gdp ratio.—The term "debt to GDP ratio" means the percentage obtained by dividing the level of the total public debt or net public debt, as the case may be, by the gross domestic product.
 
 &emsp;(5)
 
-Interest cost to outlay ratio.—The term “interest cost to outlay ratio” means, with respect to any fiscal year, the percentage obtained by dividing the interest cost for such fiscal year on the net public debt by the total amount of Federal outlays for such fiscal year.
+Interest cost to outlay ratio.—The term "interest cost to outlay ratio" means, with respect to any fiscal year, the percentage obtained by dividing the interest cost for such fiscal year on the net public debt by the total amount of Federal outlays for such fiscal year.
 
 (Added Pub. L. 103–202, title II, §201(a), Dec. 17, 1993, 107 Stat. 2355.)
 

@@ -22,9 +22,9 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–364, div. A, title V, §507(a)(2)(C), Oct. 17, 2006, 120 Stat. 2180, struck out “while so serving” after “reserve grade” in item 12210.
+<b>2006</b>—Pub. L. 109–364, div. A, title V, §507(a)(2)(C), Oct. 17, 2006, 120 Stat. 2180, struck out "while so serving" after "reserve grade" in item 12210.
 
-<b>1996</b>—Pub. L. 104–106, div. A, title XV, §1501(b)(11)(B), (13)(B), Feb. 10, 1996, 110 Stat. 496, substituted “Reserve officers: qualifications” for “Qualifications” in item 12201 and inserted “the” after “National Guard of” in items 12211, 12212, 12213, and 12214.
+<b>1996</b>—Pub. L. 104–106, div. A, title XV, §1501(b)(11)(B), (13)(B), Feb. 10, 1996, 110 Stat. 496, substituted "Reserve officers: qualifications" for "Qualifications" in item 12201 and inserted "the" after "National Guard of" in items 12211, 12212, 12213, and 12214.
 
 
 ---

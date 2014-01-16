@@ -10,7 +10,7 @@
 | [636\.](%C2%A7%2000636%20-%20Administration%20of%20oaths.md) | Administration of oaths. |
 | [637\.](%C2%A7%2000637%20-%20Stopping%20vessels%3B%20indemnity%20for%20firing%20at%20or%20into%20vessel.md) | Stopping vessels; indemnity for firing at or into vessel. |
 | [638\.](%C2%A7%2000638%20-%20Coast%20Guard%20ensigns%20and%20pennants.md) | Coast Guard ensigns and pennants. |
-| [639\.](%C2%A7%2000639%20-%20Penalty%20for%20unauthorized%20use%20of%20words%20%E2%80%9CCoast%20Guard%E2%80%9D.md) | Penalty for unauthorized use of words “Coast Guard”. |
+| [639\.](%C2%A7%2000639%20-%20Penalty%20for%20unauthorized%20use%20of%20words%20Coast%20Guard.md) | Penalty for unauthorized use of words "Coast Guard". |
 | [640\.](%C2%A7%2000640%20-%20Coast%20Guard%20band%20recordings%20for%20commercial%20sale.md) | Coast Guard band recordings for commercial sale. |
 | [641\.](%C2%A7%2000641%20-%20Disposal%20of%20certain%20material.md) | Disposal of certain material. |
 | [642\.](%C2%A7%2000642%20-%20Deposit%20of%20damage%20payments.md) | Deposit of damage payments. |
@@ -56,7 +56,7 @@
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–213, title II, §§212(b)(2), 213(c)(1), 214(b), 217(9), Dec. 20, 2012, 126 Stat. 1552, 1553, 1555, 1558, added items 656, 663, 669, 674, and 678 and struck out former items 656 “Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters”, 663 “Submission of plans to Congress”, 669 “Telephone Installation and Charges”, and 674 “Small boat station capability”.
+<b>2012</b>—Pub. L. 112–213, title II, §§212(b)(2), 213(c)(1), 214(b), 217(9), Dec. 20, 2012, 126 Stat. 1552, 1553, 1555, 1558, added items 656, 663, 669, 674, and 678 and struck out former items 656 "Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters", 663 "Submission of plans to Congress", 669 "Telephone Installation and Charges", and 674 "Small boat station capability".
 
 <b>2010</b>—Pub. L. 111–281, title IX, §903(b)(2), Oct. 15, 2010, 124 Stat. 3011, inserted period at end of item 677.
 
@@ -64,17 +64,17 @@
 
 Pub. L. 109–241, title II, §205(b), July 11, 2006, 120 Stat. 521, added item 677.
 
-<b>2004</b>—Pub. L. 108–293, title II, §212(b), Aug. 9, 2004, 118 Stat. 1037, as amended by Pub. L. 109–241, title IX, §901(b), July 11, 2006, 120 Stat. 564, substituted “Long-term lease of special purpose facilities” for “Long-term lease authority for navigation and communications systems sites” in item 672.
+<b>2004</b>—Pub. L. 108–293, title II, §212(b), Aug. 9, 2004, 118 Stat. 1037, as amended by Pub. L. 109–241, title IX, §901(b), July 11, 2006, 120 Stat. 564, substituted "Long-term lease of special purpose facilities" for "Long-term lease authority for navigation and communications systems sites" in item 672.
 
-Pub. L. 108–293, title II, §205(e)(2), Aug. 9, 2004, 118 Stat. 1033, substituted “indemnity” for “immunity” in item 637.
+Pub. L. 108–293, title II, §205(e)(2), Aug. 9, 2004, 118 Stat. 1033, substituted "indemnity" for "immunity" in item 637.
 
-<b>2002</b>—Pub. L. 107–296, title XVII, §1704(f)(2), Nov. 25, 2002, 116 Stat. 2316, which directed the redesignation of item 673 “Small boat station rescue capability” as item 673a, could not be executed because of prior amendment by Pub. L. 107–295, §405(c), see below.
+<b>2002</b>—Pub. L. 107–296, title XVII, §1704(f)(2), Nov. 25, 2002, 116 Stat. 2316, which directed the redesignation of item 673 "Small boat station rescue capability" as item 673a, could not be executed because of prior amendment by Pub. L. 107–295, §405(c), see below.
 
-Pub. L. 107–295, title IV, §§405(c), 417(b), Nov. 25, 2002, 116 Stat. 2116, 2123, added items 672a and 674 to 676, and struck out item 673 “Small boat station rescue capability” and former item 674 “Small boat station closures”.
+Pub. L. 107–295, title IV, §§405(c), 417(b), Nov. 25, 2002, 116 Stat. 2116, 2123, added items 672a and 674 to 676, and struck out item 673 "Small boat station rescue capability" and former item 674 "Small boat station closures".
 
-<b>1996</b>—Pub. L. 104–324, title III, §309(b), Oct. 19, 1996, 110 Stat. 3919, added item 673 “Small boat station rescue capability” and item 674.
+<b>1996</b>—Pub. L. 104–324, title III, §309(b), Oct. 19, 1996, 110 Stat. 3919, added item 673 "Small boat station rescue capability" and item 674.
 
-Pub. L. 104–201, div. A, title X, §1009(a)(2)(B), Sept. 23, 1996, 110 Stat. 2634, added item 673 “Designation, powers, and accountability of deputy disbursing officials”.
+Pub. L. 104–201, div. A, title X, §1009(a)(2)(B), Sept. 23, 1996, 110 Stat. 2634, added item 673 "Designation, powers, and accountability of deputy disbursing officials".
 
 <b>1993</b>—Pub. L. 103–206, title III, §§302(b), 303(b), 304(b), Dec. 20, 1993, 107 Stat. 2423, 2424, added items 670, 671, and 672.
 
@@ -86,7 +86,7 @@ Pub. L. 101–510, div. A, title III, §327(d)(2), Nov. 5, 1990, 104 Stat. 1532,
 
 <b>1989</b>—Pub. L. 101–225, title II, §206(b), Dec. 12, 1989, 103 Stat. 1913, added item 666.
 
-<b>1988</b>—Pub. L. 100–690, title VII, §7401(b), Nov. 18, 1988, 102 Stat. 4483, substituted “immunity for firing at or into vessel” for “immunity of Coast Guard officer” in item 637.
+<b>1988</b>—Pub. L. 100–690, title VII, §7401(b), Nov. 18, 1988, 102 Stat. 4483, substituted "immunity for firing at or into vessel" for "immunity of Coast Guard officer" in item 637.
 
 Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added items 659 and 665.
 
@@ -98,9 +98,9 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 
 <b>1977</b>—Pub. L. 95–61, §4(2), July 1, 1977, 91 Stat. 260, added item 659.
 
-<b>1974</b>—Pub. L. 93–283, §1(11), May 14, 1974, 88 Stat. 140, substituted “Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters” for “Use of appropriations to restore, replace, establish, or develop facilities” in item 656, and added item 658.
+<b>1974</b>—Pub. L. 93–283, §1(11), May 14, 1974, 88 Stat. 140, substituted "Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters" for "Use of appropriations to restore, replace, establish, or develop facilities" in item 656, and added item 658.
 
-<b>1972</b>—Pub. L. 92–417, §2(b), Aug. 29, 1972, 86 Stat. 656, substituted “Admiralty claims against the United States” for “Claims for damages occasioned by vessels” in item 646.
+<b>1972</b>—Pub. L. 92–417, §2(b), Aug. 29, 1972, 86 Stat. 656, substituted "Admiralty claims against the United States" for "Claims for damages occasioned by vessels" in item 646.
 
 <b>1970</b>—Pub. L. 91–278, §1(15), June 12, 1970, 84 Stat. 306, added item 657.
 
@@ -112,7 +112,7 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 
 <b>1958</b>—Pub. L. 85–861, §5(1), Sept. 2, 1958, 72 Stat. 1547, struck out item 640.
 
-<b>1956</b>—Act Aug. 7, 1956, ch. 1023, §1(b), 70 Stat. 1077, substituted “Coast Guard Supply Fund” for “Coast Guard supply fund and supply account” in item 650.
+<b>1956</b>—Act Aug. 7, 1956, ch. 1023, §1(b), 70 Stat. 1077, substituted "Coast Guard Supply Fund" for "Coast Guard supply fund and supply account" in item 650.
 
 
 ---
@@ -127,7 +127,7 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 - [&sect; 00636 - Administration of oaths](%C2%A7%2000636%20-%20Administration%20of%20oaths.md)
 - [&sect; 00637 - Stopping vessels; indemnity for firing at or into vessel](%C2%A7%2000637%20-%20Stopping%20vessels%3B%20indemnity%20for%20firing%20at%20or%20into%20vessel.md)
 - [&sect; 00638 - Coast Guard ensigns and pennants](%C2%A7%2000638%20-%20Coast%20Guard%20ensigns%20and%20pennants.md)
-- [&sect; 00639 - Penalty for unauthorized use of words &#8220;Coast Guard&#8221;](%C2%A7%2000639%20-%20Penalty%20for%20unauthorized%20use%20of%20words%20%E2%80%9CCoast%20Guard%E2%80%9D.md)
+- [&sect; 00639 - Penalty for unauthorized use of words Coast Guard](%C2%A7%2000639%20-%20Penalty%20for%20unauthorized%20use%20of%20words%20Coast%20Guard.md)
 - [&sect; 00640 - Coast Guard band recordings for commercial sale](%C2%A7%2000640%20-%20Coast%20Guard%20band%20recordings%20for%20commercial%20sale.md)
 - [&sect; 00641 - Disposal of certain material](%C2%A7%2000641%20-%20Disposal%20of%20certain%20material.md)
 - [&sect; 00642 - Deposit of damage payments](%C2%A7%2000642%20-%20Deposit%20of%20damage%20payments.md)

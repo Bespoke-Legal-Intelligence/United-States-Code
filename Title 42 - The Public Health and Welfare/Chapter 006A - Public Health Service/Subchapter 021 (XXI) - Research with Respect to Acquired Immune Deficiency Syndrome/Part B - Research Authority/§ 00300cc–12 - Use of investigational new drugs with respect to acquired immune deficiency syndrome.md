@@ -14,7 +14,7 @@
 
 #### (b) Encouragement of applications with respect to treatment use in circumstances other than clinical trials
 
-(1) In the case of a new drug with respect to which the Secretary has made a determination described in subsection (a) of this section and with respect to which an exemption is in effect for purposes of section 355(i) of title 21, the Secretary shall—
+(1) In the case of a new drug with respect to which the Secretary has made a determinationdescribed in subsection (a) of this section and with respect to which an exemption is in effect for purposes of section 355(i) of title 21, the Secretary shall—
 
 &emsp;(A) as appropriate, encourage the sponsor of the investigation of the new drug to submit to the Secretary, in accordance with regulations issued under such section, an application to use the drug in the treatment of individuals—
 
@@ -36,9 +36,9 @@ In the case of a new drug with respect to which the Secretary has made a determi
 
 &emsp;(3) with respect to sponsors of investigations of new drugs, facilitating the transfer of new drugs from such sponsors to licensed medical practitioners.
 
-#### (d) “New drug” defined
+#### (d) "New drug" defined
 
-For purposes of this section, the term “new drug” has the meaning given such term in section 321 of title 21.
+For purposes of this section, the term "new drug" has the meaning given such term in section 321 of title 21.
 
 (July 1, 1944, ch. 373, title XXIII, §2312, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3066; amended Pub. L. 103–43, title XX, §2008(d)(2), June 10, 1993, 107 Stat. 212.)
 
@@ -48,5 +48,5 @@ A prior section 300cc–12, act July 1, 1944, §2313, was successively renumbere
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(2)(A). Pub. L. 103–43 substituted “AIDS Research Advisory Committee” for “AIDS Clinical Research Review Committee”.
+<b>1993</b>—Subsec. (a)(2)(A). Pub. L. 103–43 substituted "AIDS Research Advisory Committee" for "AIDS Clinical Research Review Committee".
 

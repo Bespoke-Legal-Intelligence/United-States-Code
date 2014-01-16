@@ -84,5 +84,5 @@ Rolling Grant Application Periods.—In establishing the program under this part
 
 (Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2946.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “represents”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "represents".</i>
 

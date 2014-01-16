@@ -46,11 +46,11 @@ In connection with a consumer credit transaction secured by a consumer's princip
 
 #### (2) Interim final regulations
 
-&emsp;The Board shall, for purposes of this section, prescribe interim final regulations no laterthan 90 days after July 21, 2010, defining with specificity acts or practices that violate appraisal independence in the provision of mortgage lending services for a consumer credit transaction secured by the principal dwelling of the consumer or mortgage brokerage services for such a transaction and defining any terms in this section or such regulations. Rules prescribed by the Board under this paragraph shall be deemed to be rules prescribed by the agencies jointly under paragraph (1).
+&emsp;The Board shall, for purposes of this section, prescribe interim final regulations no later than 90 days after July 21, 2010, defining with specificity acts or practices that violate appraisal independence in the provision of mortgage lending services for a consumer credit transaction secured by the principal dwelling of the consumer or mortgage brokerage services for such a transaction and defining any terms in this section or such regulations. Rules prescribed by the Board under this paragraph shall be deemed to be rules prescribed by the agencies jointly under paragraph (1).
 
 #### (h) Appraisal report portability
 
-Consistent with the requirements of this section, the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau may jointly issue regulations that address the issue of appraisal report portability, including regulations that ensure the portability of the appraisal report between lenders for a consumer credit transaction secured by a 1-4 unit single family residence that is the principal dwelling of the consumer, or mortgage brokerage services for such a transaction.
+Consistent with the requirements of this section, the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau may jointly issue regulationsthat address the issue of appraisal report portability, including regulations that ensure the portability of the appraisal report between lenders for a consumer credit transaction secured by a 1-4 unit single family residence that is the principal dwelling of the consumer, or mortgage brokerage services for such a transaction.
 
 #### (i) Customary and reasonable fee
 
@@ -60,7 +60,7 @@ Consistent with the requirements of this section, the Board, the Comptroller of 
 
 #### (2) Fee appraiser definition
 
-&emsp;For purposes of this section, the term “fee appraiser” means a person who is not an employee of the mortgage loan originator or appraisal management company engaging the appraiser and is—
+&emsp;For purposes of this section, the term "fee appraiser" means a person who is not an employee of the mortgage loan originator or appraisal management company engaging the appraiser and is—
 
 &emsp;&emsp;(A) a State licensed or certified appraiser who receives a fee for performing an appraisal and certifies that the appraisal has been prepared in accordance with the Uniform Standards of Professional Appraisal Practice; or
 
@@ -82,7 +82,7 @@ Effective on the date the interim final regulations are promulgated pursuant to 
 
 #### (2) Subsequent violations
 
-&emsp;In the case of any person on whom a civil penalty has been imposed under paragraph (1), paragraph (1) shall be applied by substituting “$20,000” for “$10,000” with respect to all subsequent violations.
+&emsp;In the case of any person on whom a civil penalty has been imposed under paragraph (1), paragraph (1) shall be applied by substituting "$20,000" for "$10,000" with respect to all subsequent violations.
 
 #### (3) Assessment
 
@@ -94,5 +94,5 @@ Effective on the date the interim final regulations are promulgated pursuant to 
 
 Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

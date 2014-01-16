@@ -23,7 +23,7 @@
 
 <b>1994</b>—Pub. L. 103–322, title XXXII, §320909(b), Sept. 13, 1994, 108 Stat. 2127, added item 3239.
 
-<b>1984</b>—Pub. L. 98–473, title II, §1204(b), Oct. 12, 1984, 98 Stat. 2152, struck out item 3239 “Threatening communications”.
+<b>1984</b>—Pub. L. 98–473, title II, §1204(b), Oct. 12, 1984, 98 Stat. 2152, struck out item 3239 "Threatening communications".
 
 <b>1978</b>—Pub. L. 95–598, title III, §314(j)(2), Nov. 6, 1978, 92 Stat. 2678, added item 3244.
 

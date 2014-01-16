@@ -14,7 +14,7 @@ A provision similar to that contained in this section, which authorized compensa
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–87 substituted “not to exceed the daily rate for a GS–18” for “of $100 per day”.
+<b>1981</b>—Pub. L. 97–87 substituted "not to exceed the daily rate for a GS–18" for "of $100 per day".
 
 #### Termination of Advisory Committees
 

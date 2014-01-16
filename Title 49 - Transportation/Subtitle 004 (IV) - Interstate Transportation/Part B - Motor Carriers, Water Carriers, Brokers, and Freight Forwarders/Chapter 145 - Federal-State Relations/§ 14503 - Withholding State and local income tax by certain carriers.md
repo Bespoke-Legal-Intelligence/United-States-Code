@@ -10,7 +10,7 @@ In general.—No part of the compensation paid by a motor carrier providing tran
 
 &emsp;(2)
 
-Employee defined.—In this subsection, the term “employee” has the meaning given such term in section 31132.
+Employee defined.—In this subsection, the term "employee" has the meaning given such term in section 31132.
 
 (b)
 
@@ -18,7 +18,7 @@ Special Rules.—
 
 &emsp;(1)
 
-Calculation of earnings.—In this subsection, an employee is deemed to have earned more than 50 percent of pay in a State or subdivision of that State in which the time worked by the employee in the State or subdivision is more than 50 percent of the total time worked by the employee while employed during the calendar year.
+Calculation of earnings.—In this subsection, an employee is deemed to have earnedmore than 50 percent of pay in a State or subdivision of that State in which the time worked by the employee in the State or subdivision is more than 50 percent of the total time worked by the employee while employed during the calendar year.
 
 &emsp;(2)
 

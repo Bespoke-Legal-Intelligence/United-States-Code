@@ -8,11 +8,11 @@
 
 #### (2) Qualified retiree prescription drug plan defined
 
-&emsp;For purposes of this subsection, the term “qualified retiree prescription drug plan” means employment-based retiree health coverage (as defined in subsection (c)(1) of this section) if, with respect to a part D eligible individual who is a participant or beneficiary under such coverage, the following requirements are met:
+&emsp;For purposes of this subsection, the term "qualified retiree prescription drug plan" means employment-based retiree health coverage (as defined in subsection (c)(1) of this section) if, with respect to a part D eligible individual who is a participant or beneficiary under such coverage, the following requirements are met:
 
 #### (A) Attestation of actuarial equivalence to standard coverage
 
-&emsp;&emsp;The sponsor of the plan provides the Secretary, annually or at such other time as the Secretary may require, with an attestation that the actuarial value of prescription drug coverage under the plan (as determined using the processes and methods described in section 1395w–111(c) of this title) is at least equal to the actuarial value of standard prescription drug coverage, not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title.
+&emsp;&emsp;The sponsor of the plan provides the Secretary, annually or at such other time as the Secretary may require, with an attestation that the actuarial value of prescription drugcoverage under the plan (as determined using the processes and methods described in section 1395w–111(c) of this title) is at least equal to the actuarial value of standard prescription drug coverage, not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title.
 
 #### (B) Audits
 
@@ -48,19 +48,19 @@
 
 #### (i) Allowable retiree costs
 
-&emsp;&emsp;&emsp;The term “allowable retiree costs” means, with respect to gross covered prescription drug costs under a qualified retiree prescription drug plan by a plan sponsor, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or by or on behalf of a qualifying covered retiree under the plan.
+&emsp;&emsp;&emsp;The term "allowable retiree costs" means, with respect to gross covered prescription drug costs under a qualified retiree prescription drug plan by a plan sponsor, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or by or on behalf of a qualifying covered retiree under the plan.
 
 #### (ii) Gross covered retiree plan-related prescription drug costs
 
-&emsp;&emsp;&emsp;For purposes of this section, the term “gross covered retiree plan-related prescription drug costs” means, with respect to a qualifying covered retiree enrolled in a qualified retiree prescription drug plan during a coverage year, the costs incurred under the plan, not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year. Such costs shall be determined whether they are paid by the retiree or under the plan.
+&emsp;&emsp;&emsp;For purposes of this section, the term "gross covered retiree plan-related prescription drug costs" means, with respect to a qualifying covered retiree enrolled in a qualified retiree prescription drug plan during a coverage year, the costs incurred under the plan, not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year. Such costs shall be determined whether they are paid by the retiree or under the plan.
 
 #### (iii) Coverage year
 
-&emsp;&emsp;&emsp;The term “coverage year” has the meaning given such term in section 1395w–115(b)(4) of this title.
+&emsp;&emsp;&emsp;The term "coverage year" has the meaning given such term in section 1395w–115(b)(4) of this title.
 
 #### (4) Qualifying covered retiree defined
 
-&emsp;For purposes of this subsection, the term “qualifying covered retiree” means a part D eligible individual who is not enrolled in a prescription drug plan or an MA–PD plan but is covered under a qualified retiree prescription drug plan.
+&emsp;For purposes of this subsection, the term "qualifying covered retiree" means a part D eligible individual who is not enrolled in a prescription drug plan or an MA–PD plan but is covered under a qualified retiree prescription drug plan.
 
 #### (5) Payment methods, including provision of necessary information
 
@@ -92,15 +92,15 @@ For purposes of this section:
 
 #### (1) Employment-based retiree health coverage
 
-&emsp;The term “employment-based retiree health coverage” means health insurance or other coverage of health care costs (whether provided by voluntary insurance coverage or pursuant to statutory or contractual obligation) for part D eligible individuals (or for such individuals and their spouses and dependents) under a group health plan based on their status as retired participants in such plan.
+&emsp;The term "employment-based retiree health coverage" means health insurance or other coverage of health care costs (whether provided by voluntary insurance coverage or pursuant to statutory or contractual obligation) for part D eligible individuals (or for such individuals and their spouses and dependents) under a group health plan based on their status as retired participants in such plan.
 
 #### (2) Sponsor
 
-&emsp;The term “sponsor” means a plan sponsor, as defined in section 1002(16)(B) of title 29, in relation to a group health plan, except that, in the case of a plan maintained jointly by one employer and an employee organization and with respect to which the employer is the primary source of financing, such term means such employer.
+&emsp;The term "sponsor" means a plan sponsor, as defined in section 1002(16)(B) of title 29, in relation to a group health plan, except that, in the case of a plan maintained jointly by one employer and an employee organization and with respect to which the employer is the primary source of financing, such term means such employer.
 
 #### (3) Group health plan
 
-&emsp;The term “group health plan” includes such a plan as defined in section 1167(1) of title 29 and also includes the following:
+&emsp;The term "group health plan" includes such a plan as defined in section 1167(1) of title 29 and also includes the following:
 
 #### (A) Federal and State governmental plans
 
@@ -122,57 +122,57 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(3)(C), is classifi
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–152 inserted before period at end “, not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title”.
+<b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–152 inserted before period at end ", not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title".
 
 #### Study on Employment-Based Retiree Health Coverage
 
 Pub. L. 108–173, title I, §111, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
-“(a)
+"(a)
 
-Study.—The Comptroller General of the United States shall conduct an initial and final study under this subsection \[probably should be this section\] to examine trends in employment-based retiree health coverage (as defined in \[sic\] 1860D–22(c)(1) of the Social Security Act \[subsec. (c)(1) of this section\], as added by section 101), including coverage under the Federal Employees Health Benefits Program (FEHBP), and the options and incentives available under this Act \[see Tables for classification\] which may have an effect on the voluntary provision of such coverage.
+Study.—The Comptroller General of the United States shall conduct an initial and final study under this subsection \[probably should be this section\] to examine trends in employment-based retiree health coverage (as defined in \[sic\] 1860D–22(c)(1) of the Social Security Act \[42 U.S.C. 1395w–132(c)(1)\], as added by section 101), including coverage under the Federal Employees Health Benefits Program (FEHBP), and the options and incentives available under this Act \[see Tables for classification\] which may have an effect on the voluntary provision of such coverage.
 
-“(b)
+"(b)
 
 Content of Initial Study.—The initial study under this section shall consider the following:
 
-&emsp;“(1) Trends in employment-based retiree health coverage prior to the date of the enactment of this Act \[Dec. 8, 2003\].
+&emsp;"(1) Trends in employment-based retiree health coverage prior to the date of the enactment of this Act \[Dec. 8, 2003\].
 
-&emsp;“(2) The opinions of sponsors of employment-based retiree health coverage concerning which of the options available under this Act \[see Tables for classification\] they are most likely to utilize for the provision of health coverage to their medicare-eligible retirees, including an assessment of the administrative burdens associated with the available options.
+&emsp;"(2) The opinions of sponsors of employment-based retiree health coverage concerning which of the options available under this Act \[see Tables for classification\] they are most likely to utilize for the provision of health coverage to their medicare-eligible retirees, including an assessment of the administrative burdens associated with the available options.
 
-&emsp;“(3) The likelihood of sponsors of employment-based retiree health coverage to maintain or adjust their levels of retiree health benefits beyond coordination with medicare, including for prescription drug coverage, provided to medicare-eligible retirees after the date of the enactment of this Act.
+&emsp;"(3) The likelihood of sponsors of employment-based retiree health coverage to maintain or adjust their levels of retiree health benefits beyond coordination with medicare, including for prescription drug coverage, provided to medicare-eligible retirees after the date of the enactment of this Act.
 
-&emsp;“(4) The factors that sponsors of employment-based retiree health coverage expect to consider in making decisions about any changes they may make in the health coverage provided to medicare-eligible retirees.
+&emsp;"(4) The factors that sponsors of employment-based retiree health coverage expect to consider in making decisions about any changes they may make in the health coverage provided to medicare-eligible retirees.
 
-&emsp;“(5) Whether the prescription drug plan options available, or the health plan options available under the Medicare Advantage program, are likely to cause employers and other entities that did not provide health coverage to retirees prior to the date of the enactment of this Act to provide supplemental coverage or contributions toward premium expenses for medicare-eligible retirees who may enroll in such options in the future.
+&emsp;"(5) Whether the prescription drug plan options available, or the health plan options available under the Medicare Advantage program, are likely to cause employers and other entities that did not provide health coverage to retirees prior to the date of the enactment of this Act to provide supplemental coverage or contributions toward premium expenses for medicare-eligible retirees who may enroll in such options in the future.
 
-“(c)
+"(c)
 
 Contents of Final Study.—The final study under this section shall consider the following:
 
-&emsp;“(1) Changes in the trends in employment-based retiree health coverage since the completion of the initial study by the Comptroller General.
+&emsp;"(1) Changes in the trends in employment-based retiree health coverage since the completion of the initial study by the Comptroller General.
 
-&emsp;“(2) Factors contributing to any changes in coverage levels.
+&emsp;"(2) Factors contributing to any changes in coverage levels.
 
-&emsp;“(3) The number and characteristics of sponsors of employment-based retiree health coverage who receive the special subsidy payments under section 1860D–22 of the Social Security Act \[this section\], as added by section 101, for the provision of prescription drug coverage to their medicare-eligible retirees that is the same or greater actuarial value as the prescription drug coverage available to other medicare beneficiaries without employment-based retiree health coverage.
+&emsp;"(3) The number and characteristics of sponsors of employment-based retiree health coverage who receive the special subsidy payments under section 1860D–22 of the Social Security Act \[42 U.S.C. 1395w–132\], as added by section 101, for the provision of prescription drug coverage to their medicare-eligible retirees that is the same or greater actuarial value as the prescription drug coverage available to other medicare beneficiaries without employment-based retiree health coverage.
 
-&emsp;“(4) The extent to which sponsors of employment-based retiree health coverage provide supplemental health coverage or contribute to the premiums for medicare-eligible retirees who enroll in a prescription drug plan or an MA–PD plan.
+&emsp;"(4) The extent to which sponsors of employment-based retiree health coverage provide supplemental health coverage or contribute to the premiums for medicare-eligible retirees who enroll in a prescription drug plan or an MA–PD plan.
 
-&emsp;“(5) Other coverage options, including tax-preferred retirement or health savings accounts, consumer-directed health plans, or other vehicles that sponsors of employment-based retiree health coverage believe would assist retirees with their future health care needs and their willingness to sponsor such alternative plan designs.
+&emsp;"(5) Other coverage options, including tax-preferred retirement or health savings accounts, consumer-directed health plans, or other vehicles that sponsors of employment-based retiree health coverage believe would assist retirees with their future health care needs and their willingness to sponsor such alternative plan designs.
 
-&emsp;“(6) The extent to which employers or other entities that did not provide employment-based retiree health coverage prior to the date of the enactment of this Act \[Dec. 8, 2003\] provided some form of coverage or financial assistance for retiree health care needs after the date of the enactment of this Act.
+&emsp;"(6) The extent to which employers or other entities that did not provide employment-based retiree health coverage prior to the date of the enactment of this Act \[Dec. 8, 2003\] provided some form of coverage or financial assistance for retiree health care needs after the date of the enactment of this Act.
 
-&emsp;“(7) Recommendations by employers, benefits experts, academics, and others on ways that the voluntary provision of employment-based retiree health coverage may be improved and expanded.
+&emsp;"(7) Recommendations by employers, benefits experts, academics, and others on ways that the voluntary provision of employment-based retiree health coverage may be improved and expanded.
 
-“(d)
+"(d)
 
 Reports.—The Comptroller General shall submit a report to Congress on—
 
-&emsp;“(1) the initial study under subsection (b) not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\]; and
+&emsp;"(1) the initial study under subsection (b) not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\]; and
 
-&emsp;“(2) the final study under subsection (c) not later than January 1, 2007.
+&emsp;"(2) the final study under subsection (c) not later than January 1, 2007.
 
-“(e)
+"(e)
 
-Consultation.—The Comptroller General shall consult with sponsors of employment-based retiree health coverage, benefits experts, human resources professionals, employee benefits consultants, and academics with experience in health benefits and survey research in the development and design of the initial and final studies under this section.”
+Consultation.—The Comptroller General shall consult with sponsors of employment-based retiree health coverage, benefits experts, human resources professionals, employee benefits consultants, and academics with experience in health benefits and survey research in the development and design of the initial and final studies under this section."
 

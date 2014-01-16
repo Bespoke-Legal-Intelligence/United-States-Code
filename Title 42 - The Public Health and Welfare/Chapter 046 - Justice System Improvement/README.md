@@ -205,17 +205,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XII—PUBLIC SAFETY OFFICERS’ DEATH BENEFITS
+#### SUBCHAPTER XII—PUBLIC SAFETY OFFICERS' DEATH BENEFITS
 
 #### Part A—Death Benefits
 
 |  |  |
 | :--- | ---: |
-| [3796\.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796%20-%20Payment%20of%20death%20benefits.md) | Payment of death benefits. |
-| [3796a.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796a%20-%20Limitations%20on%20benefits.md) | Limitations on benefits. |
+| [3796\.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%27%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796%20-%20Payment%20of%20death%20benefits.md) | Payment of death benefits. |
+| [3796a.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%27%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796a%20-%20Limitations%20on%20benefits.md) | Limitations on benefits. |
 | 3796a–1. | National programs for families of public safety officers who have sustained fatal or catastrophic injury in the line of duty. |
-| [3796b.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796b%20-%20Definitions.md) | Definitions. |
-| [3796c.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796c%20-%20Administrative%20provisions.md) | Administrative provisions. |
+| [3796b.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%27%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796b%20-%20Definitions.md) | Definitions. |
+| [3796c.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%27%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796c%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | 3796c–1. | Expedited payment for public safety officers involved in the prevention, investigation, rescue, or recovery efforts related to a terrorist attack. |
 | 3796c–2. | Funds available for appeals and expenses of representation of hearing examiners. |
 
@@ -225,7 +225,7 @@
 
 |  |  |
 | :--- | ---: |
-| [3796d.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20B%20-%20Educational%20Assistance%20to%20Dependents%20of%20Civilian%20Federal%20Law%20Enforcement%20Officers%20Killed%20or%20Disabled%20in%20Line%20of%20Duty/%C2%A7%2003796d%20-%20Purposes.md) | Purposes. |
+| [3796d.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%27%20Death%20Benefits/Part%20B%20-%20Educational%20Assistance%20to%20Dependents%20of%20Civilian%20Federal%20Law%20Enforcement%20Officers%20Killed%20or%20Disabled%20in%20Line%20of%20Duty/%C2%A7%2003796d%20-%20Purposes.md) | Purposes. |
 | 3796d–1. | Basic eligibility. |
 | 3796d–2. | Applications; approval. |
 | 3796d–3. | Regulations. |
@@ -279,15 +279,15 @@
 | 3796cc–3. | Local applications. |
 | 3796cc–4. | Distribution of funds. |
 | 3796cc–5. | Evaluation. |
-| 3796cc–6. | “Local entity” defined. |
+| 3796cc–6. | "Local entity" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XII–E—PUBLIC SAFETY AND COMMUNITY POLICING; “COPS ON THE BEAT”
+#### SUBCHAPTER XII–E—PUBLIC SAFETY AND COMMUNITY POLICING; "COPS ON THE BEAT"
 
 |  |  |
 | :--- | ---: |
-| [3796dd.](Subchapter%20012%E2%80%93E%20%28XII%E2%80%93E%29%20-%20Public%20Safety%20and%20Community%20Policing%3B%20%E2%80%9CCops%20on%20the%20Beat%E2%80%9D/%C2%A7%2003796dd%20-%20Authority%20to%20make%20public%20safety%20and%20community%20policing%20grants.md) | Authority to make public safety and community policing grants. |
+| [3796dd.](Subchapter%20012%E2%80%93E%20%28XII%E2%80%93E%29%20-%20Public%20Safety%20and%20Community%20Policing%3B%20Cops%20on%20the%20Beat/%C2%A7%2003796dd%20-%20Authority%20to%20make%20public%20safety%20and%20community%20policing%20grants.md) | Authority to make public safety and community policing grants. |
 | 3796dd–1. | Applications. |
 | 3796dd–2. | Renewal of grants. |
 | 3796dd–3. | Limitation on use of funds. |
@@ -587,12 +587,12 @@ Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising th
 - [Subchapter 009 (IX) - Definitions](Subchapter%20009%20%28IX%29%20-%20Definitions/README.md)
 - [Subchapter 010 (X) - Funding](Subchapter%20010%20%28X%29%20-%20Funding/README.md)
 - [Subchapter 011 (XI) - Criminal Penalties](Subchapter%20011%20%28XI%29%20-%20Criminal%20Penalties/README.md)
-- [Subchapter 012 (XII) - Public Safety Officers&#8217; Death Benefits](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/README.md)
+- [Subchapter 012 (XII) - Public Safety Officers' Death Benefits](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%27%20Death%20Benefits/README.md)
 - [Subchapter 012&#8211;A (XII&#8211;A) - Regional Information Sharing Systems](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Regional%20Information%20Sharing%20Systems/README.md)
 - [Subchapter 012&#8211;B (XII&#8211;B) - Grants for Closed-Circuit Televising of Testimony of Children Who Are Victims of Abuse](Subchapter%20012%E2%80%93B%20%28XII%E2%80%93B%29%20-%20Grants%20for%20Closed-Circuit%20Televising%20of%20Testimony%20of%20Children%20Who%20Are%20Victims%20of%20Abuse/README.md)
 - [Subchapter 012&#8211;C (XII&#8211;C) - Rural Drug Enforcement](Subchapter%20012%E2%80%93C%20%28XII%E2%80%93C%29%20-%20Rural%20Drug%20Enforcement/README.md)
 - [Subchapter 012&#8211;D (XII&#8211;D) - Criminal Child Support Enforcement](Subchapter%20012%E2%80%93D%20%28XII%E2%80%93D%29%20-%20Criminal%20Child%20Support%20Enforcement/README.md)
-- [Subchapter 012&#8211;E (XII&#8211;E) - Public Safety and Community Policing; &#8220;Cops on the Beat&#8221;](Subchapter%20012%E2%80%93E%20%28XII%E2%80%93E%29%20-%20Public%20Safety%20and%20Community%20Policing%3B%20%E2%80%9CCops%20on%20the%20Beat%E2%80%9D/README.md)
+- [Subchapter 012&#8211;E (XII&#8211;E) - Public Safety and Community Policing; Cops on the Beat](Subchapter%20012%E2%80%93E%20%28XII%E2%80%93E%29%20-%20Public%20Safety%20and%20Community%20Policing%3B%20Cops%20on%20the%20Beat/README.md)
 - [Subchapter 012&#8211;F (XII&#8211;F) - Juvenile Accountability Block Grants](Subchapter%20012%E2%80%93F%20%28XII%E2%80%93F%29%20-%20Juvenile%20Accountability%20Block%20Grants/README.md)
 - [Subchapter 012&#8211;G (XII&#8211;G) - Residential Substance Abuse Treatment for State Prisoners](Subchapter%20012%E2%80%93G%20%28XII%E2%80%93G%29%20-%20Residential%20Substance%20Abuse%20Treatment%20for%20State%20Prisoners/README.md)
 - [Subchapter 012&#8211;H (XII&#8211;H) - Grants to Combat Violent Crimes Against Women](Subchapter%20012%E2%80%93H%20%28XII%E2%80%93H%29%20-%20Grants%20to%20Combat%20Violent%20Crimes%20Against%20Women/README.md)

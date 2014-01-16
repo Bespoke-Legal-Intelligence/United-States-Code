@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “person” includes a governmental authority, political subdivision, authority, legal representative, trust, unincorporated organization, trustee, trustee in bankruptcy, and receiver.
+Definition.—In this section, "person" includes a governmental authority, political subdivision, authority, legal representative, trust, unincorporated organization, trustee, trustee in bankruptcy, and receiver.
 
 (b)
 
@@ -76,17 +76,17 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §19; added Nov. 6, 1978, Pub. L. 
 
 49 App.:1615(a)(1) (last sentence).
 
-In subsection (a), the words “the term” and “one or more” are omitted as surplus. The words “partnerships, associations, corporations” and “mutual companies, joint-stock companies” are omitted because of 1:1.
+In subsection (a), the words "the term" and "one or more" are omitted as surplus. The words "partnerships, associations, corporations" and "mutual companies, joint-stock companies" are omitted because of 1:1.
 
-In subsection (b), the word “receiving” is substituted for “funded in whole or in part through” to eliminate unnecessary words.
+In subsection (b), the word "receiving" is substituted for "funded in whole or in part through" to eliminate unnecessary words.
 
-In subsection (c)(2), the words “directly or indirectly”, “issued”, and “necessary” are omitted as surplus.
+In subsection (c)(2), the words "directly or indirectly", "issued", and "necessary" are omitted as surplus.
 
-In subsection (d), before clause (1), the words “does not” are substituted for “fails or refuses to” to eliminate unnecessary words. The words “period of” and “pursuant to paragraph (a) of this subsection” are omitted as surplus. In clause (2), the word “appropriate” is omitted as surplus. In clause (3), the words “proceed under” are substituted for “exercise the powers and functions provided by” to eliminate unnecessary words.
+In subsection (d), before clause (1), the words "does not" are substituted for "fails or refuses to" to eliminate unnecessary words. The words "period of" and "pursuant to paragraph (a) of this subsection" are omitted as surplus. In clause (2), the word "appropriate" is omitted as surplus. In clause (3), the words "proceed under" are substituted for "exercise the powers and functions provided by" to eliminate unnecessary words.
 
-In subsection (e), before clause (1), the words “in any appropriate district court of the United States” and “including injunctive relief” are omitted as surplus.
+In subsection (e), before clause (1), the words "in any appropriate district court of the United States" and "including injunctive relief" are omitted as surplus.
 
-In subsection (f), the words “considered to be” and “and not in lieu of” are omitted as surplus.
+In subsection (f), the words "considered to be" and "and not in lieu of" are omitted as surplus.
 
 #### References in Text
 
@@ -94,11 +94,11 @@ The Civil Rights Act of 1964, referred to in subsecs. (d)(3) and (f), is Pub. L.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–141, §20023(a)(1), substituted “religion” for “creed” and inserted “disability,” after “sex,”.
+<b>2012</b>—Subsec. (b). Pub. L. 112–141, §20023(a)(1), substituted "religion" for "creed" and inserted "disability," after "sex,".
 
-Subsec. (c)(1). Pub. L. 112–141, §20030(g), struck out “of Transportation” after “Secretary”.
+Subsec. (c)(1). Pub. L. 112–141, §20030(g), struck out "of Transportation" after "Secretary".
 
-Subsec. (d)(3). Pub. L. 112–141, §20023(a)(2), substituted “or” for “and”.
+Subsec. (d)(3). Pub. L. 112–141, §20023(a)(2), substituted "or" for "and".
 
 #### Effective Date of 2012 Amendment
 

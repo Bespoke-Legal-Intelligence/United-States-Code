@@ -28,15 +28,15 @@ Persons engaged in the following professions and activities are subject to the r
 
 For the purposes of this section—
 
-&emsp;(1) the term “child abuse” means the physical or mental injury, sexual abuse or exploitation, or negligent treatment of a child;
+&emsp;(1) the term "child abuse" means the physical or mental injury, sexual abuse or exploitation, or negligent treatment of a child;
 
-&emsp;(2) the term “physical injury” includes but is not limited to lacerations, fractured bones, burns, internal injuries, severe bruising or serious bodily harm;
+&emsp;(2) the term "physical injury" includes but is not limited to lacerations, fractured bones, burns, internal injuries, severe bruising or serious bodily harm;
 
-&emsp;(3) the term “mental injury” means harm to a child's psychological or intellectual functioning which may be exhibited by severe anxiety, depression, withdrawal or outward aggressive behavior, or a combination of those behaviors, which may be demonstrated by a change in behavior, emotional response or cognition;
+&emsp;(3) the term "mental injury" means harm to a child's psychological or intellectual functioning which may be exhibited by severe anxiety, depression, withdrawal or outward aggressive behavior, or a combination of those behaviors, which may be demonstrated by a change in behavior, emotional response or cognition;
 
-&emsp;(4) the term “sexual abuse” includes the employment, use, persuasion, inducement, enticement, or coercion of a child to engage in, or assist another person to engage in, sexually explicit conduct or the rape, molestation, prostitution, or other form of sexual exploitation of children, or incest with children;
+&emsp;(4) the term "sexual abuse" includes the employment, use, persuasion, inducement, enticement, or coercion of a child to engage in, or assist another person to engage in, sexually explicit conduct or the rape, molestation, prostitution, or other form of sexual exploitation of children, or incest with children;
 
-&emsp;(5) the term “sexually explicit conduct” means actual or simulated—
+&emsp;(5) the term "sexually explicit conduct" means actual or simulated—
 
 &emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the same or of opposite sex; sexual contact means the intentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify sexual desire of any person;
 
@@ -48,11 +48,11 @@ For the purposes of this section—
 
 &emsp;&emsp;(E) sadistic or masochistic abuse;
 
-&emsp;(6) the term “exploitation” means child pornography or child prostitution;
+&emsp;(6) the term "exploitation" means child pornography or child prostitution;
 
-&emsp;(7) the term “negligent treatment” means the failure to provide, for reasons other than poverty, adequate food, clothing, shelter, or medical care so as to seriously endanger the physical health of the child; and
+&emsp;(7) the term "negligent treatment" means the failure to provide, for reasons other than poverty, adequate food, clothing, shelter, or medical care so as to seriously endanger the physical health of the child; and
 
-&emsp;(8) the term “child abuse” shall not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty.
+&emsp;(8) the term "child abuse" shall not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty.
 
 #### (d) Agency designated to receive report and action to be taken
 

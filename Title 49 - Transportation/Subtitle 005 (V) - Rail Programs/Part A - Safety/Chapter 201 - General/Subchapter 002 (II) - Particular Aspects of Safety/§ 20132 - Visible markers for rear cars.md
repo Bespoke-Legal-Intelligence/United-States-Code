@@ -34,5 +34,5 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §202(g) (1st sentence cls. (2), 
 
 45:431(g) (last sentence).
 
-In subsection (a), before clause (1), the words “within 180 days after July 8, 1976” are omitted as expired.
+In subsection (a), before clause (1), the words "within 180 days after July 8, 1976" are omitted as expired.
 

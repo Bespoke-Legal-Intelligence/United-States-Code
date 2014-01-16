@@ -5,7 +5,7 @@
 | [1451\.](%C2%A7%2001451%20-%20Rights%20of%20Indians%20not%20impaired%3B%20boundaries.md) | Rights of Indians not impaired; boundaries. |
 | [1452\.](%C2%A7%2001452%20-%20Regulation%20of%20Indians.md) | Regulation of Indians. |
 | 1453 to 1469–1. Repealed. |  |
-| [1469a.](%C2%A7%2001469a%20-%20Congressional%20declaration%20of%20policy%20respecting%20%E2%80%9CInsular%20Areas%E2%80%9D.md) | Congressional declaration of policy respecting “Insular Areas”. |
+| [1469a.](%C2%A7%2001469a%20-%20Congressional%20declaration%20of%20policy%20respecting%20Insular%20Areas.md) | Congressional declaration of policy respecting "Insular Areas". |
 | 1469a–1. | Full amounts to be covered into treasuries of Guam, Northern Mariana Islands, Puerto Rico, and Virgin Islands; reductions prohibited. |
 | [1469b.](%C2%A7%2001469b%20-%20Auditing%20of%20transactions%20of%20Territorial%20and%20local%20governments.md) | Auditing of transactions of Territorial and local governments. |
 | [1469c.](%C2%A7%2001469c%20-%20Availability%20of%20services%2C%20facilities%2C%20and%20equipment%20of%20agencies%20and%20instrumentalities%20of%20United%20States%3B%20reimbursement%20requirements.md) | Availability of services, facilities, and equipment of agencies and instrumentalities of United States; reimbursement requirements. |
@@ -14,7 +14,7 @@
 | 1470 to 1488. Repealed or Omitted. |  |
 | [1489\.](%C2%A7%2001489%20-%20Loss%20of%20title%20of%20United%20States%20to%20lands%20in%20territories%20through%20adverse%20possession%20or%20prescription%20forbidden.md) | Loss of title of United States to lands in territories through adverse possession or prescription forbidden. |
 | [1490\.](%C2%A7%2001490%20-%20Repealed.%20Mar.%203%2C%201933%2C%20ch.%20202%2C%20%C2%A71%2C%2047%20Stat.%201428.md) | Repealed. |
-| [1491\.](%C2%A7%2001491%20-%20License%2C%20permit%2C%20etc.%2C%20for%20transportation%20for%20storage%20or%20storage%20of%20spent%20nuclear%20fuel%20or%20high-level%20radioactive%20waste%3B%20prerequisites%E2%80%A6.md) | License, permit, etc., for transportation for storage or storage of spent nuclear fuel or high-level radioactive waste; prerequisites; applicability; “territory or possession” defined. |
+| [1491\.](%C2%A7%2001491%20-%20License%2C%20permit%2C%20etc.%2C%20for%20transportation%20for%20storage%20or%20storage%20of%20spent%20nuclear%20fuel%20or%20high-level%20radioactive%20waste%3B%20prerequisites%E2%80%A6.md) | License, permit, etc., for transportation for storage or storage of spent nuclear fuel or high-level radioactive waste; prerequisites; applicability; "territory or possession" defined. |
 | [1492\.](%C2%A7%2001492%20-%20Energy%20resources%20of%20Caribbean%20and%20Pacific%20insular%20areas.md) | Energy resources of Caribbean and Pacific insular areas. |
 | [1493\.](%C2%A7%2001493%20-%20Prosecution%3B%20authorization%20to%20seek%20review%3B%20local%20or%20Federal%20appellate%20courts%3B%20decisions%2C%20judgments%20or%20orders.md) | Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders. |
 | [1494\.](%C2%A7%2001494%20-%20Purposes.md) | Purposes. |
@@ -98,7 +98,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 01453 to 1455 - Repealed. Pub. L. 98&#8211;213, &sect;16(c)&#8211;(f), Dec. 8, 1983, 97 Stat. 1462](%C2%A7%2001453%20to%201455%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93213%2C%20%C2%A716%28c%29%E2%80%93%28f%29%2C%20Dec.%208%2C%201983%2C%2097%20Stat.%201462.md)
 - [&sect; 01456 - Repealed. Sept. 12, 1950, ch. 946, title III, &sect;301(106), 64 Stat. 844](%C2%A7%2001456%20-%20Repealed.%20Sept.%2012%2C%201950%2C%20ch.%20946%2C%20title%20III%2C%20%C2%A7301%28106%29%2C%2064%20Stat.%20844.md)
 - [&sect; 01457 to 1469&#8211;1 - Repealed. Pub. L. 98&#8211;213, &sect;16(a), (g)&#8211;(u), Dec. 8, 1983, 97 Stat. 1462, 1463](%C2%A7%2001457%20to%201469%E2%80%931%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93213%2C%20%C2%A716%28a%29%2C%20%28g%29%E2%80%93%28u%29%2C%20Dec.%208%2C%201983%2C%2097%20Stat.%201462%2C%201463.md)
-- [&sect; 01469a - Congressional declaration of policy respecting &#8220;Insular Areas&#8221;](%C2%A7%2001469a%20-%20Congressional%20declaration%20of%20policy%20respecting%20%E2%80%9CInsular%20Areas%E2%80%9D.md)
+- [&sect; 01469a - Congressional declaration of policy respecting Insular Areas](%C2%A7%2001469a%20-%20Congressional%20declaration%20of%20policy%20respecting%20Insular%20Areas.md)
 - [&sect; 01469a&#8211;1 - Full amounts to be covered into treasuries of Guam, Northern Mariana Islands, Puerto Rico, and Virgin Islands; reductions prohibited](%C2%A7%2001469a%E2%80%931%20-%20Full%20amounts%20to%20be%20covered%20into%20treasuries%20of%20Guam%2C%20Northern%20Mariana%20Islands%2C%20Puerto%20Rico%2C%20and%20Virgin%20Islands%3B%20reductions%20prohibited.md)
 - [&sect; 01469b - Auditing of transactions of Territorial and local governments](%C2%A7%2001469b%20-%20Auditing%20of%20transactions%20of%20Territorial%20and%20local%20governments.md)
 - [&sect; 01469c - Availability of services, facilities, and equipment of agencies and instrumentalities of United States; reimbursement requirements](%C2%A7%2001469c%20-%20Availability%20of%20services%2C%20facilities%2C%20and%20equipment%20of%20agencies%20and%20instrumentalities%20of%20United%20States%3B%20reimbursement%20requirements.md)

@@ -6,7 +6,7 @@ In issuing preliminary permits hereunder or original licenses where no prelimina
 
 #### (b) Development of water resources by United States; reports
 
-Whenever, in the judgment of the Commission, the development of any water resources for public purposes should be undertaken by the UnitedStates itself, the Commission shall not approve any application for any project affecting such development, but shall cause to be made such examinations, surveys, reports, plans, and estimates of the cost of the proposed development as it may find necessary, and shall submit its findings to Congress with such recommendations as it may find appropriate concerning such development.
+Whenever, in the judgment of the Commission, the development of any water resources for public purposes should be undertaken by the United States itself, the Commission shall not approve any application for any project affecting such development, but shall cause to be made such examinations, surveys, reports, plans, and estimates of the cost of the proposed development as it may find necessary, and shall submit its findings to Congress with such recommendations as it may find appropriate concerning such development.
 
 #### (c) Assumption of project by United States after expiration of license
 
@@ -20,11 +20,11 @@ Additional provisions in the section as enacted by act June 10, 1920, directing 
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–495 inserted “original” after “hereunder or” and substituted “issued,” for “issued and in issuing licenses to new licensees under section 808 of this title”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–495 inserted "original" after "hereunder or" and substituted "issued," for "issued and in issuing licenses to new licensees under section 808 of this title".
 
 <b>1968</b>—Subsec. (c). Pub. L. 90–451 added subsec. (c).
 
-<b>1935</b>—Act Aug. 26, 1935, §205, amended section generally, striking out “navigation and” before “water resources” wherever appearing, and designating paragraphs as subsecs. (a) and (b).
+<b>1935</b>—Act Aug. 26, 1935, §205, amended section generally, striking out "navigation and" before "water resources" wherever appearing, and designating paragraphs as subsecs. (a) and (b).
 
 #### Effective Date of 1986 Amendment
 

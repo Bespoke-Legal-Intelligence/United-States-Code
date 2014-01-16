@@ -6,9 +6,9 @@ It shall be unlawful for any person, against whom there is outstanding any order
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–554 substituted “registered entity” for “contract market” in two places.
+<b>2000</b>—Pub. L. 106–554 substituted "registered entity" for "contract market" in two places.
 
-<b>1974</b>—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture”.
+<b>1974</b>—Pub. L. 93–463 substituted "Commission" for "Secretary of Agriculture".
 
 #### Effective Date of 1974 Amendment
 

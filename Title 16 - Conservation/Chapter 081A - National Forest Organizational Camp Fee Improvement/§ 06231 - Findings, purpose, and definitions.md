@@ -26,7 +26,7 @@ It is the purpose of this chapter to establish a land use fee system that provid
 
 In this chapter:
 
-&emsp;(1) The term “organizational camp” means a public or semipublic camp that—
+&emsp;(1) The term "organizational camp" means a public or semipublic camp that—
 
 &emsp;&emsp;(A) is developed on National Forest System lands by a nonprofit organization or governmental entity;
 
@@ -34,13 +34,13 @@ In this chapter:
 
 &emsp;&emsp;(C) does not have as its primary purpose raising revenue through commercial activities.
 
-&emsp;(2) The term “Secretary” means the Secretary of Agriculture, acting through the Chief of the Forest Service.
+&emsp;(2) The term "Secretary" means the Secretary of Agriculture, acting through the Chief of the Forest Service.
 
-&emsp;(3) The term “individual with a disability” has the meaning given the term in section 705(20) of title 29.
+&emsp;(3) The term "individual with a disability" has the meaning given the term in section 705(20) of title 29.
 
-&emsp;(4) The term “children at risk” means children who are raised in poverty or in single-parent homes or are subject to such circumstances as parental drug abuse, homelessness, or child abuse.
+&emsp;(4) The term "children at risk" means children who are raised in poverty or in single-parent homes or are subject to such circumstances as parental drug abuse, homelessness, or child abuse.
 
-&emsp;(5) The term “change in control” means—
+&emsp;(5) The term "change in control" means—
 
 &emsp;&emsp;(A) for a corporation, the sale or transfer of a controlling interest in the corporation;
 
@@ -52,11 +52,11 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, which was translated as reading “this title”, meaning title V of div. F of Pub. L. 108–7, known as the National Forest Organizational Camp Fee Improvement Act of 2003, to reflect the probable intent of Congress.
+This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", which was translated as reading "this title", meaning title V of div. F of Pub. L. 108–7, known as the National Forest Organizational Camp Fee Improvement Act of 2003, to reflect the probable intent of Congress.
 
 #### Short Title
 
-Pub. L. 108–7, div. F, title V, §501, Feb. 20, 2003, 117 Stat. 294, provided that: “This title \[enacting this chapter\] may be cited as the ‘National Forest Organizational Camp Fee Improvement Act of 2003’.”
+Pub. L. 108–7, div. F, title V, §501, Feb. 20, 2003, 117 Stat. 294, provided that: "This title \[enacting this chapter\] may be cited as the 'National Forest Organizational Camp Fee Improvement Act of 2003'."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

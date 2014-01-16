@@ -34,5 +34,5 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pu
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–266 inserted “by the Secretary or the non-Federal project sponsor” after “undertaken” in introductory provisions.
+<b>1996</b>—Subsec. (b). Pub. L. 104–266 inserted "by the Secretary or the non-Federal project sponsor" after "undertaken" in introductory provisions.
 

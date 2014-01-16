@@ -2,9 +2,9 @@
 
 #### (a) Designation
 
-(1) The manufacturer or the sponsor of a new animal drug for a minor use or use in a minor species may request that the Secretary declare that drug a “designated new animal drug”. A request for designation of a new animal drug shall be made before the submission of an application under section 360b(b) of this title or section 360ccc of this title for the new animal drug.
+(1) The manufacturer or the sponsor of a new animal drug for a minor use or use in a minor species may request that the Secretary declare that drug a "designated new animal drug". A request for designation of a new animal drug shall be made before the submission of an application under section 360b(b) of this title or section 360ccc of this title for the new animal drug.
 
-(2) The Secretary may declare a new animal drug a “designated new animal drug” if—
+(2) The Secretary may declare a new animal drug a "designated new animal drug" if—
 
 &emsp;(A) it is intended for a minor use or use in a minor species; and
 
@@ -24,17 +24,17 @@
 
 #### (b) Grants and contracts for development of designated new animal drugs
 
-(1) The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in defraying thecosts of qualified safety and effectiveness testing expenses and manufacturing expenses incurred in connection with the development of designated new animal drugs.
+(1) The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in defraying the costs of qualified safety and effectiveness testing expenses and manufacturing expenses incurred in connection with the development of designated new animal drugs.
 
 (2) For purposes of paragraph (1) of this section—
 
-&emsp;(A) The term “qualified safety and effectiveness testing” means testing—
+&emsp;(A) The term "qualified safety and effectiveness testing" means testing—
 
 &emsp;&emsp;(i) which occurs after the date such new animal drug is designated under this section and before the date on which an application with respect to such drug is submitted under section 360b of this title; and
 
 &emsp;&emsp;(ii) which is carried out under an investigational exemption under section 360b(j) of this title.
 
-&emsp;(B) The term “manufacturing expenses” means expenses incurred in developing processes and procedures associated with manufacture of the designated new animal drug which occur after the new animal drug is designated under this section and before the date on which an application with respect to such new animal drug is submitted under section 360b or 360ccc of this title.
+&emsp;(B) The term "manufacturing expenses" means expenses incurred in developing processes and procedures associated with manufacture of the designated new animal drug which occur after the new animal drug is designated under this section and before the date on which an application with respect to such new animal drug is submitted under section 360b or 360ccc of this title.
 
 #### (c) Exclusivity for designated new animal drugs
 

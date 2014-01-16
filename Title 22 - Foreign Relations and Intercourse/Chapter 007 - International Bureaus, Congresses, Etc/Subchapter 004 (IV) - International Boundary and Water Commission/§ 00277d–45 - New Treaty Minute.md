@@ -42,7 +42,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b)(2), is
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–425, §2(1), struck out “Negotiation of” before “New” in section catchline.
+<b>2004</b>—Pub. L. 108–425, §2(1), struck out "Negotiation of" before "New" in section catchline.
 
 Subsec. (c). Pub. L. 108–425, §2(2), added subsec. (c).
 

@@ -72,5 +72,5 @@ Pub. L. 100–418, title X, §10002(h) (related to §13(b)(6)), Aug. 23, 1988, 1
 
 46 App.:1712(b)(7).
 
-In subsection (c)(1)(B), the words “Secretary of Homeland Security” are substituted for “Secretary of the Treasury” because the functions of the Secretary of the Treasury relating to the Customs Service were transferred to the Secretary of Homeland Security by section 403(1) of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2178).
+In subsection (c)(1)(B), the words "Secretary of Homeland Security" are substituted for "Secretary of the Treasury" because the functions of the Secretary of the Treasury relating to the Customs Service were transferred to the Secretary of Homeland Security by section 403(1) of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2178).
 

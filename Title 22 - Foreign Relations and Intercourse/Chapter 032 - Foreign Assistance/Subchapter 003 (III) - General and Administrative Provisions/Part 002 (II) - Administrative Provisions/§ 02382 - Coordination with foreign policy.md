@@ -16,25 +16,25 @@ Under the direction of the President, the Secretary of State shall be responsibl
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–329, §106(b)(2)(A), inserted “and military education and training” after “(including civic action)”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–329, §106(b)(2)(A), inserted "and military education and training" after "(including civic action)".
 
 Subsec. (c). Pub. L. 94–329, §106(b)(2)(B), inserted reference to military education and training programs in two places.
 
-<b>1968</b>—Subsec. (b). Pub. L. 90–629, §45(b)(1), struck out “or sales” before “programs”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–629, §45(b)(1), struck out "or sales" before "programs".
 
-Subsec. (c). Pub. L. 90–629, §45(b)(2), struck out “and sales” and “or sales” before “programs” and “program”, respectively.
+Subsec. (c). Pub. L. 90–629, §45(b)(2), struck out "and sales" and "or sales" before "programs" and "program", respectively.
 
-<b>1966</b>—Subsec. (b). Pub. L. 89–583, §302(a)(1), substituted “(including civic action) or sales programs” for “(including any civic action and sales program)”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–583, §302(a)(1), substituted "(including civic action) or sales programs" for "(including any civic action and sales program)".
 
-Subsec. (c). Pub. L. 89–583, §302(a)(2), substituted “economic assistance and military assistance and sales programs” and “military assistance (including civic action) or sales program” for “the assistance programs authorized by this chapter” and “military assistance program (including civic action and sales program)”, respectively.
+Subsec. (c). Pub. L. 89–583, §302(a)(2), substituted "economic assistance and military assistance and sales programs" and "military assistance (including civic action) or sales program" for "the assistance programs authorized by this chapter" and "military assistance program (including civic action and sales program)", respectively.
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–171, §302(a)(1), inserted “(including any civic action and sales program)”.
+<b>1965</b>—Subsec. (b). Pub. L. 89–171, §302(a)(1), inserted "(including any civic action and sales program)".
 
-Subsec. (c). Pub. L. 89–171, §302(a)(2), inserted “including any civic action and sales program)”.
+Subsec. (c). Pub. L. 89–171, §302(a)(2), inserted "including any civic action and sales program)".
 
 #### Effective Date of 1968 Amendment
 
@@ -72,7 +72,7 @@ Sec. 2. <i>Referral of unresolved matters</i>. The Chief of the United States Di
 
 Sec. 3. <i>Effect of order on United States representatives</i>. (a) All United States representatives in each country shall be subject to the responsibilities imposed upon the Chief of the United States Diplomatic Mission in such country by section 507 of the Mutual Security Act of 1951 \[section 1658 of this title\] and by this order.
 
-(b) Subject to compliance with the provisions of this order and with the prescribed procedures of their respective agencies, all United States representatives affected by this order (1) shall have direct communication with their respective agencies and with such other parties and in such manner as may be authorized by their respective agencies, (2) shall keep the respective Chiefs of United States Diplomatic Missions and each other fully and currently informed on all matters, including prospective plans, recommendations, and actions, relating to programs under the Act, and (3) shall furnish to the respective Chiefs of United States Diplomatic Missions, upon their request, documents and information concerning the said programs.
+(b) Subject to compliance with the provisions of this order and with the prescribed procedures of their respective agencies, all United States representatives affected by this order (1) shall have direct communication with their respective agencies and with such other parties and in such manner as may be authorized by their respective agencies, (2) shall keep the respectiveChiefs of United States Diplomatic Missions and each other fully and currently informed on all matters, including prospective plans, recommendations, and actions, relating to programs under the Act, and (3) shall furnish to the respective Chiefs of United States Diplomatic Missions, upon their request, documents and information concerning the said programs.
 
 Sec. 4. <i>Further coordination procedures</i>. The Director for Mutual Security shall be responsible for assuring the carrying out of the provisions of this order. He is authorized to prescribe, after consultation with the interested Government agencies, any additional procedures he may find necessary to carry out the provisions of this order.
 

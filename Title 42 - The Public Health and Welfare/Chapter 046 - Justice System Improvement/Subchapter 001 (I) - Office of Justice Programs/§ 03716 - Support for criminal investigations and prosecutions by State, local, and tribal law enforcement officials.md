@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;At the request of a State, local, or tribal law enforcement agency, the Attorney General may provide technical, forensic, prosecutorial, or any other form of assistance in the criminal investigation or prosecution of any crime that—
+&emsp;At the request of a State, local, or tribal law enforcement agency, the Attorney General may provide technical, forensic, prosecutorial,or any other form of assistance in the criminal investigation or prosecution of any crime that—
 
 &emsp;&emsp;(A) constitutes a crime of violence;
 
@@ -14,7 +14,7 @@
 
 #### (2) Priority
 
-&emsp;In providing assistance under paragraph (1), the Attorney General shall give priority to crimes committed by offenders who have committed crimes in more than one State and torural jurisdictions that have difficulty covering the extraordinary expenses relating to the investigation or prosecution of the crime.
+&emsp;In providing assistance under paragraph (1), the Attorney General shall give priority to crimes committed by offenders who have committed crimes in more than one State and to rural jurisdictions that have difficulty covering the extraordinary expenses relating to the investigation or prosecution of the crime.
 
 #### (b) Grants
 
@@ -72,13 +72,13 @@ Section was enacted as part of the Matthew Shepard and James Byrd, Jr. Hate Crim
 
 #### Definitions
 
-Pub. L. 111–84, div. E, §4703(b), Oct. 28, 2009, 123 Stat. 2836, provided that: “In this division \[enacting this section and section 3716a of this title and sections 249 and 1389 of Title 18, Crimes and Criminal Procedure, amending section 249 of Title 18, enacting provisions set out as notes under sections 1 and 249 of Title 18, and amending provisions set out as a note under section 534 and provisions listed in a table relating to sentencing guidelines set out under section 994, of Title 28, Judiciary and Judicial Procedure\]—
+Pub. L. 111–84, div. E, §4703(b), Oct. 28, 2009, 123 Stat. 2836, provided that: "In this division \[enacting this section and section 3716a of this title and sections 249 and 1389 of Title 18, Crimes and Criminal Procedure, amending section 249 of Title 18, enacting provisions set out as notes under sections 1 and 249 of Title 18, and amending provisions set out as a note under section 534 and provisions listed in a table relating to sentencing guidelines set out under section 994, of Title 28, Judiciary and Judicial Procedure\]—
 
-&emsp;“(1) the term ‘crime of violence’ has the meaning given that term in section 16 of title 18, United States Code;
+&emsp;"(1) the term 'crime of violence' has the meaning given that term in section 16 of title 18, United States Code;
 
-&emsp;“(2) the term ‘hate crime’ has the meaning given that term in section 280003(a) of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322; 108 Stat. 2096), as amended by this Act \[enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure\];
+&emsp;"(2) the term 'hate crime' has the meaning given that term in section 280003(a) of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322; 108 Stat. 2096), as amended by this Act \[enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure\];
 
-&emsp;“(3) the term ‘local’ means a county, city, town, township, parish, village, or other general purpose political subdivision of a State; and
+&emsp;"(3) the term 'local' means a county, city, town, township, parish, village, or other general purpose political subdivision of a State; and
 
-&emsp;“(4) the term ‘State’ includes the District of Columbia, Puerto Rico, and any other territory or possession of the United States.”
+&emsp;"(4) the term 'State' includes the District of Columbia, Puerto Rico, and any other territory or possession of the United States."
 

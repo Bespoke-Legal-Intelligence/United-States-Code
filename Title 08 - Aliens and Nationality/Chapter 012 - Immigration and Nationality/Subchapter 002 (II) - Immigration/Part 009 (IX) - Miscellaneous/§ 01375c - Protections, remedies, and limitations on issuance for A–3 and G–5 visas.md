@@ -12,7 +12,7 @@
 
 #### (2) Suspension requirement
 
-&emsp;Notwithstanding any other provision of law, the Secretary shall suspend, for such period as the Secretary determines necessary, the issuance of A–3 visas or G–5 visas to applicants seeking to work for officials of a diplomatic mission or an international organization, if the Secretary determines that there is credible evidence that 1 or more employees of such mission or international organization have abused or exploited 1 or more nonimmigrants holding an A–3 visa or a G–5 visa, and that thediplomatic mission or international organization tolerated such actions.
+&emsp;Notwithstanding any other provision of law, the Secretary shall suspend, for such period as the Secretary determines necessary, the issuance of A–3 visas or G–5 visas to applicants seeking to work for officials of a diplomatic mission or an international organization, if the Secretary determines that there is credible evidence that 1 or more employees of such mission or international organization have abused or exploited 1 or more nonimmigrants holding an A–3 visa or a G–5 visa, and that the diplomatic mission or international organization tolerated such actions.
 
 #### (3) Action by diplomatic missions or international organizations
 

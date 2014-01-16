@@ -50,7 +50,7 @@ Labor Standards.—
 
 &emsp;(1)
 
-Prevailing wages.—The Secretary shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed by a grant made under this section will be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under subchapter IV of chapter 31 of title 40 (commonly known as the “Davis-Bacon Act”). The Secretary shall make a grant under this section only after being assured that required labor standards will be maintained on the construction work.
+Prevailing wages.—The Secretary shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed by a grant made under this section will be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under subchapter IV of chapter 31 of title 40 (commonly known as the "Davis-Bacon Act"). The Secretary shall make a grant under this section only after being assured that required labor standards will be maintained on the construction work.
 
 &emsp;(2)
 
@@ -78,11 +78,11 @@ A prior section 22301, added Pub. L. 105–178, title VII, §7202(a), June 9, 19
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(A)(iii). Pub. L. 110–432 substituted “or” for “and”.
+<b>2008</b>—Subsec. (a)(1)(A)(iii). Pub. L. 110–432 substituted "or" for "and".
 
 #### Effective Date
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

@@ -26,7 +26,7 @@
 
 #### (ii) Issuance
 
-&emsp;&emsp;&emsp;Not later than 1 year after the date of the submission of the study under section12185 of this title, the Secretary shall issue in an accessible format new regulations to carry out sections 12184(b)(4) and 12182(b)(2)(D)(ii) of this title that require, taking into account the purposes of the study under section 12185 of this title and any recommendations resulting from such study, each private entity which uses an over-the-road bus to provide transportation to individuals to provide accessibility to such bus to individuals with disabilities, including individuals who use wheelchairs.
+&emsp;&emsp;&emsp;Not later than 1 year after the date of the submission of the study under section 12185 of this title, the Secretary shall issue in an accessible format new regulations to carry out sections 12184(b)(4) and 12182(b)(2)(D)(ii) of this title that require, taking into account the purposes of the study under section 12185 of this title and any recommendations resulting from such study, each private entity which uses an over-the-road bus to provide transportation to individuals to provide accessibility to such bus to individuals with disabilities, including individuals who use wheelchairs.
 
 #### (iii) Effective period
 
@@ -66,11 +66,11 @@ Standards included in regulations issued under subsections (a) and (b) of this s
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a)(2)(B)(iii). Pub. L. 104–59 substituted “3 years after the date of issuance of final regulations under clause (ii)” for “7 years after July 26, 1990” in subcl. (I) and “2 years after the date of issuance of such final regulations” for “6 years after July 26, 1990” in subcl. (II).
+<b>1995</b>—Subsec. (a)(2)(B)(iii). Pub. L. 104–59 substituted "3 years after the date of issuance of final regulations under clause (ii)" for "7 years after July 26, 1990" in subcl. (I) and "2 years after the date of issuance of such final regulations" for "6 years after July 26, 1990" in subcl. (II).
 
 #### Effective Date
 
 Section effective July 26, 1990, see section 310(c) of Pub. L. 101–336, set out as a note under section 12181 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

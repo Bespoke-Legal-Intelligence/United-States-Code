@@ -62,13 +62,13 @@ An Indian tribe may retrocede, fully or partially, to the Secretary programs, se
 
 &emsp;&emsp;&emsp;&emsp;(II) the date on which the funding agreement expires; or
 
-&emsp;&emsp;&emsp;(ii) such date as may be mutually agreed upon by the Secretary, the withdrawing Indian tribe, and the participating tribal organization or inter-tribal consortium that has signed the compact or funding agreement on behalf of the withdrawingIndian tribe, inter-tribal consortium, or tribal organization.
+&emsp;&emsp;&emsp;(ii) such date as may be mutually agreed upon by the Secretary, the withdrawing Indian tribe, and the participating tribal organization or inter-tribal consortium that has signed the compact or funding agreement on behalf of the withdrawing Indian tribe, inter-tribal consortium, or tribal organization.
 
 #### (2) Distribution of funds
 
 &emsp;When an Indian tribe or tribal organization eligible to enter into a self-determination contract under part A of this subchapter or a compact or funding agreement under this part fully or partially withdraws from a participating inter-tribal consortium or tribal organization—
 
-&emsp;&emsp;(A) the withdrawing Indian tribe or tribal organization shall be entitled to its tribal share of funds supporting those programs, services, functions, or activities (or portions thereof) that the Indian tribe will be carrying out under its own self-determination contract or compact and funding agreement (calculated on the same basis as the funds were initially allocated in the funding agreement of the inter-tribal consortium or tribal organization); and
+&emsp;&emsp;(A) the withdrawing Indian tribe or tribal organization shall be entitled to its tribalshare of funds supporting those programs, services, functions, or activities (or portions thereof) that the Indian tribe will be carrying out under its own self-determination contract or compact and funding agreement (calculated on the same basis as the funds were initially allocated in the funding agreement of the inter-tribal consortium or tribal organization); and
 
 &emsp;&emsp;(B) the funds referred to in subparagraph (A) shall be transferred from the funding agreement of the inter-tribal consortium or tribal organization, on the condition that the provisions of sections 450f and 450j(i) of this title, as appropriate, shall apply to that withdrawing Indian tribe.
 
@@ -81,6 +81,10 @@ An Indian tribe may retrocede, fully or partially, to the Secretary programs, se
 For the period for which, and to the extent to which, funding is provided under this part or under the compact or funding agreement, the Indian tribe shall not be entitled to contract with the Secretary for such funds under section 450f of this title, except that such Indian tribe shall be eligible for new programs on the same basis as other Indian tribes.
 
 (Pub. L. 93–638, title V, §506, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 717.)
+
+#### References in Text
+
+Part A of this subchapter, referred to in subsec. (g)(2), (3), was in the original "title I", meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

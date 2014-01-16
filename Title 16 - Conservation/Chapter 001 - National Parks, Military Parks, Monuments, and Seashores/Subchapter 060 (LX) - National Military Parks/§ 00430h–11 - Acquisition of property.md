@@ -12,5 +12,5 @@ The Secretary is also authorized to acquire not more than one acre of land, or i
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–352 substituted “the Secretary shall add the property” for “the Secretary add it”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–352 substituted "the Secretary shall add the property" for "the Secretary add it".
 

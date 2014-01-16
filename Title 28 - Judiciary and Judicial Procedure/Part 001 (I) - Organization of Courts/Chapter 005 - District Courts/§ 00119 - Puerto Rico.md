@@ -18,7 +18,7 @@ The provisions of section 863 of title 48, U.S.C., 1940 ed., for appointment and
 
 The provisions of section 863 of title 48, U.S.C., 1940 ed., for appointment of United States Commissioners and other court officers are incorporated in sections 631 and 751 of this title.
 
-The provision of section 864 of title 48, U.S.C., 1940 ed., as to the holding of regular and special terms ofcourt was omitted as covered by sections 138 and 141 of this title.
+The provision of section 864 of title 48, U.S.C., 1940 ed., as to the holding of regular and special terms of court was omitted as covered by sections 138 and 141 of this title.
 
 The provision of section 864 of title 48, U.S.C., 1940 ed., that the district court shall be attached to the first circuit is incorporated in section 41 of this title.
 

@@ -46,7 +46,7 @@ Benefits Available Under the Plan.—The dental insurance plan established under
 
 (e)
 
-Coverage.—(1) The Secretary shall prescribe a minimum required period for enrollment by a member or surviving spouse in thedental insurance plan established under subsection (a).
+Coverage.—(1) The Secretary shall prescribe a minimum required period for enrollment by a member or surviving spouse in the dental insurance plan established under subsection (a).
 
 (2) The dental insurance plan shall provide for voluntary enrollment of participants and shall authorize a member or eligible unremarried surviving spouse to enroll for self only or for self and eligible dependents.
 
@@ -62,7 +62,7 @@ Required Terminations of Enrollment.—The Secretary shall terminate the enrollm
 
 (g)
 
-Continuation of Dependents’ Enrollment Upon Death of Enrollee.—Coverage of a dependent in the dental insurance plan established under subsection (a) under an enrollment of a member or a surviving spouse who dies during the period of enrollment shall continue until the end of that period and may be renewed by (or for) the dependent, so long as the premium paid is sufficient to cover continuation of the dependent's enrollment. The Secretary may terminate coverage of the dependent when the premiums paid are no longer sufficient to cover continuation of the enrollment. The Secretary shall prescribe in regulations under subsection (h) the parties responsible for paying the remaining premiums due on the enrollment and the manner for collection of the premiums.
+Continuation of Dependents' Enrollment Upon Death of Enrollee.—Coverage of a dependent in the dental insurance plan established under subsection (a) under an enrollment of a member or a surviving spouse who dies during the period of enrollment shall continue until the end of that period and may be renewed by (or for) the dependent, so long as the premium paid is sufficient to cover continuation of the dependent's enrollment. The Secretary may terminate coverage of the dependent when the premiums paid are no longer sufficient to cover continuation of the enrollment. The Secretary shall prescribe in regulations under subsection (h) the parties responsible for paying the remaining premiums due on the enrollment and the manner for collection of the premiums.
 
 (h)
 
@@ -92,49 +92,49 @@ Voluntary Disenrollment.—(1) With respect to enrollment in the dental insuranc
 
 Definitions.—In this section:
 
-&emsp;(1) The term “eligible dependent” means a dependent described in subparagraph (A), (D), or (I) of section 1072(2) of this title.
+&emsp;(1) The term "eligible dependent" means a dependent described in subparagraph (A), (D), or (I) of section 1072(2) of this title.
 
-&emsp;(2) The term “eligible child dependent” means a dependent described in subparagraph (D) or (I) of section 1072(2) of this title.
+&emsp;(2) The term "eligible child dependent" means a dependent described in subparagraph (D) or (I) of section 1072(2) of this title.
 
-&emsp;(3) The term “retired pay” includes retainer pay.
+&emsp;(3) The term "retired pay" includes retainer pay.
 
 (Added Pub. L. 104–201, div. A, title VII, §703(a)(1), Sept. 23, 1996, 110 Stat. 2588; amended Pub. L. 105–85, div. A, title VII, §§701, 733(b), 734, Nov. 18, 1997, 111 Stat. 1807, 1812, 1813; Pub. L. 105–261, div. A, title VII, §702, Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title VII, §704, Oct. 5, 1999, 113 Stat. 683; Pub. L. 106–398, §1 \[\[div. A\], title VII, §726, title X, §1087(a)(6)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–187, 1654A–290.)
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b)(5)(C). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(6)\], struck out “pursuant to subsection (i)(2) of such section” after “section 1076a of this title”.
+<b>2000</b>—Subsec. (b)(5)(C). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(6)\], struck out "pursuant to subsection (i)(2) of such section" after "section 1076a of this title".
 
-Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title VII, §726(b)\], substituted “Required Terminations” for “Termination” in heading.
+Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title VII, §726(b)\], substituted "Required Terminations" for "Termination" in heading.
 
 Subsecs. (i), (j). Pub. L. 106–398, §1 \[\[div. A\], title VII, §726(a)\], added subsec. (i) and redesignated former subsec. (i) as (j).
 
-<b>1999</b>—Subsec. (d). Pub. L. 106–65 amended heading and text of subsec. (d) generally. Text read as follows: “The dental insurance plan established under subsection (a) shall provide benefits for basic dental care and treatment, including diagnostic services, preventative services, basic restorative services (including endodontics), surgical services, and emergency services.”
+<b>1999</b>—Subsec. (d). Pub. L. 106–65 amended heading and text of subsec. (d) generally. Text read as follows: "The dental insurance plan established under subsection (a) shall provide benefits for basic dental care and treatment, including diagnostic services, preventative services, basic restorative services (including endodontics), surgical services, and emergency services."
 
 <b>1998</b>—Subsec. (b)(4), (5). Pub. L. 105–261, §702(a), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (f)(3). Pub. L. 105–261, §702(b), substituted “(b)(5)” for “(b)(4)”.
+Subsec. (f)(3). Pub. L. 105–261, §702(b), substituted "(b)(5)" for "(b)(4)".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–85, §734(a)(1), (b)(1), substituted “The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services” for “The Secretary of Defense shall establish a dental insurance plan for military retirees”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §734(a)(1), (b)(1), substituted "The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services" for "The Secretary of Defense shall establish a dental insurance plan for military retirees".
 
-Subsec. (b)(1). Pub. L. 105–85, §734(a)(2), substituted “uniformed services” for “Armed Forces”.
+Subsec. (b)(1). Pub. L. 105–85, §734(a)(2), substituted "uniformed services" for "Armed Forces".
 
-Subsec. (b)(4)(A). Pub. L. 105–85, §701(1)(A), substituted “died” for “dies”.
+Subsec. (b)(4)(A). Pub. L. 105–85, §701(1)(A), substituted "died" for "dies".
 
 Subsec. (b)(4)(C). Pub. L. 105–85, §701(1)(B), (2), (3), added subpar. (C).
 
-Subsec. (c)(2). Pub. L. 105–85, §733(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The amount of the premiums payable by a member entitled to retired pay shall be deducted and withheld from the retired pay and shall be disbursed to pay the premiums. The regulations prescribed under subsection (h) shall specify the procedures for payment of the premiums by other enrolled members and by enrolled surviving spouses.”
+Subsec. (c)(2). Pub. L. 105–85, §733(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The amount of the premiums payable by a member entitled to retired pay shall be deducted and withheld from the retired pay and shall be disbursed to pay the premiums. The regulations prescribed under subsection (h) shall specify the procedures for payment of the premiums by other enrolled members and by enrolled surviving spouses."
 
-Subsec. (h). Pub. L. 105–85, §734(b)(2), substituted “other administering Secretaries” for “Secretary of Transportation”.
+Subsec. (h). Pub. L. 105–85, §734(b)(2), substituted "other administering Secretaries" for "Secretary of Transportation".
 
 #### Limitation on Implementation of Alternative Collection Procedures
 
-Pub. L. 105–85, div. A, title VII, §733(d), Nov. 18, 1997, 111 Stat. 1813, provided that: “The Secretary of Defensemay not implement procedures for collecting premiums under \[former\] section 1076b(b)(3) of title 10, United States Code, or section 1076c(c)(2) of such title other than by deductions and withholding from pay until 120 days after the date that the Secretary submits a report to Congress describing the justifications for implementing such alternative procedures.”
+Pub. L. 105–85, div. A, title VII, §733(d), Nov. 18, 1997, 111 Stat. 1813, provided that: "The Secretary of Defense may not implement procedures for collecting premiums under \[former\] section 1076b(b)(3) of title 10, United States Code, or section 1076c(c)(2) of such title other than by deductions and withholding from pay until 120 days after the date that the Secretary submits a report to Congress describing the justifications for implementing such alternative procedures."
 
 #### Implementation of Dental Plan
 
-Pub. L. 104–201, div. A, title VII, §703(b), Sept. 23, 1996, 110 Stat. 2590, as amended by Pub. L. 105–85, div. A, title VII, §733(e), Nov. 18, 1997, 111 Stat. 1813, provided that: “Beginning not later than April 1, 1998, the Secretary of Defense shall—
+Pub. L. 104–201, div. A, title VII, §703(b), Sept. 23, 1996, 110 Stat. 2590, as amended by Pub. L. 105–85, div. A, title VII, §733(e), Nov. 18, 1997, 111 Stat. 1813, provided that: "Beginning not later than April 1, 1998, the Secretary of Defense shall—
 
-&emsp;“(1) offer members of the Armed Forces and other persons described in subsection (b) of section 1076c of title 10, United States Code (as added by subsection (a)(1) of this section), the opportunity to enroll in the dental insurance plan required under that section; and
+&emsp;"(1) offer members of the Armed Forces and other persons described in subsection (b) of section 1076c of title 10, United States Code (as added by subsection (a)(1) of this section), the opportunity to enroll in the dental insurance plan required under that section; and
 
-&emsp;“(2) begin to provide benefits under the plan.”
+&emsp;"(2) begin to provide benefits under the plan."
 

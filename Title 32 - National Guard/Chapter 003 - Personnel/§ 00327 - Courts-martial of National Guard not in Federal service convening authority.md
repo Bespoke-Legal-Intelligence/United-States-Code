@@ -40,45 +40,45 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §103, 39 Stat. 208.
 
-In subsection (a), the words “Federal service” are substituted for the words “service of the United States”.
+In subsection (a), the words "Federal service" are substituted for the words "service of the United States".
 
-In subsection (b), the words “A general court-martial may sentence to—” are substituted for the words “and such courts shall have the power to impose \* \* \* to sentence”. The words “any combination of these punishments” are substituted for the words “or any two or more of such punishments may be combined in the sentences imposed by such courts”.
+In subsection (b), the words "A general court-martial may sentence to—" are substituted for the words "and such courts shall have the power to impose \* \* \* to sentence". The words "any combination of these punishments" are substituted for the words "or any two or more of such punishments may be combined in the sentences imposed by such courts".
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “States and Territories, Puerto Rico, and the District of Columbia”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted "States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands" for "States and Territories, Puerto Rico, and the District of Columbia".
 
 <b>2002</b>—Pub. L. 107–314 amended section catchline and text generally. Prior to amendment, text read as follows:
 
-“(a) In the National Guard not in Federal service, general courts-martial may be convened by the President or by the governor of a State or Territory or Puerto Rico or by the commanding general of the National Guard of the District of Columbia.
+"(a) In the National Guard not in Federal service, general courts-martial may be convened by the President or by the governor of a State or Territory or Puerto Rico or by the commanding general of the National Guard of the District of Columbia.
 
-“(b) A general court-martial may sentence to—
+"(b) A general court-martial may sentence to—
 
-&emsp;“(1) a fine of not more than $200;
+&emsp;"(1) a fine of not more than $200;
 
-&emsp;“(2) forfeiture of pay and allowances;
+&emsp;"(2) forfeiture of pay and allowances;
 
-&emsp;“(3) a reprimand;
+&emsp;"(3) a reprimand;
 
-&emsp;“(4) dismissal or dishonorable discharge;
+&emsp;"(4) dismissal or dishonorable discharge;
 
-&emsp;“(5) reduction of a noncommissioned officer to the ranks; or
+&emsp;"(5) reduction of a noncommissioned officer to the ranks; or
 
-&emsp;“(6) any combination of these punishments.”
+&emsp;"(6) any combination of these punishments."
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–456 substituted “Territory or Puerto Rico” for “Territory, Puerto Rico, or the Canal Zone,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 substituted "Territory or Puerto Rico" for "Territory, Puerto Rico, or the Canal Zone,".
 
 #### Models for State Code of Military Justice and State Manual for Courts-Martial
 
 Pub. L. 107–314, div. A, title V, §512(e), Dec. 2, 2002, 116 Stat. 2537, provided that:
 
-“(1) The Secretary of Defense shall prepare a model State code of military justice and a model State manual for courts-martial to recommend to the States for use with respect to the National Guard not in Federal service. Both such models shall be consistent with the recommendations contained in the report that was issued in 1998 by the Department of Defense Panel to Study Military Justice in the National Guard not in Federal Service.
+"(1) The Secretary of Defense shall prepare a model State code of military justice and a model State manual for courts-martial to recommend to the States for use with respect to the National Guard not in Federal service. Both such models shall be consistent with the recommendations contained in the report that was issued in 1998 by the Department of Defense Panel to Study Military Justice in the National Guard not in Federal Service.
 
-“(2) The Secretary shall ensure that adequate support for the preparation of the model State code of military justice and the model State manual for courts-martial (including the detailing of attorneys and other personnel) is provided by the General Counsel of the Department of Defense, the Secretary of the Army, the Secretary of the Air Force, and the Chief of the National Guard Bureau.
+"(2) The Secretary shall ensure that adequate support for the preparation of the model State code of military justice and the model State manual for courts-martial (including the detailing of attorneys and other personnel) is provided by the General Counsel of the Department of Defense, the Secretary of the Army, the Secretary of the Air Force, and the Chief of the National Guard Bureau.
 
-“(3) If the funds available to the Chief of the National Guard Bureau are insufficient for paying the cost of the National Guard Bureau support required under paragraph (2) (including increased costs of pay of members of the National Guard for additional active duty necessitated by such requirement and increased cost of detailed attorneys and other staff, allowances, and travel expenses related to such support), the Secretary shall, upon request made by the Chief of the Bureau, provide such additional funding as the Secretary determines necessary to satisfy the requirement for such support.
+"(3) If the funds available to the Chief of the National Guard Bureau are insufficient for paying the cost of the National Guard Bureau support required under paragraph (2) (including increased costs of pay of members of the National Guard for additional active duty necessitated by such requirement and increased cost of detailed attorneys and other staff, allowances, and travel expenses related to such support), the Secretary shall, upon request made by the Chief of the Bureau, provide such additional funding as the Secretary determines necessary to satisfy the requirement for such support.
 
-“(4) Not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretary shall submit a report on the actions taken to carry out this subsection to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The report shall include proposals in final form of both the model State code of military justice and the model State manual for courts-martial required by paragraph (1), together with a discussion of the efforts being made to present those proposals to the States for their consideration for enactment or adoption, respectively.
+"(4) Not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretary shall submit a report on the actions taken to carry out this subsection to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The report shall include proposals in final form of both the model State code of military justice and the model State manual for courts-martial required by paragraph (1), together with a discussion of the efforts being made to present those proposals to the States for their consideration for enactment or adoption, respectively.
 
-“(5) In this subsection, the term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam.”
+"(5) In this subsection, the term 'State' includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam."
 

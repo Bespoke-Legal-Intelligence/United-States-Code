@@ -10,13 +10,13 @@
 
 (B) The minimum penalty for any order issued under section 814(d)(2) of this title shall be $4,000.
 
-(4) Nothing in this subsection shall be construed to prevent an operator from obtaining a review, in accordance with section 816 of this title, of an order imposing a penalty described in this subsection. If a court, in making such review, sustains the order, the court shall apply at least the minimum penalties required under this subsection.
+(4) Nothing in this subsection shall be construed to prevent an operator from obtaining a review, in accordance with section 816 of thistitle, of an order imposing a penalty described in this subsection. If a court, in making such review, sustains the order, the court shall apply at least the minimum penalties required under this subsection.
 
 #### (b) Civil penalty for failure to correct violation for which citation has been issued
 
 (1) Any operator who fails to correct a violation for which a citation has been issued under section 814(a) of this title within the period permitted for its correction may be assessed a civil penalty of not more than $$5,000 <sup>1</sup> for each day during which such failure or violation continues.
 
-(2) Violations under this section that are deemed to be flagrant may be assessed a civil penalty of not more than $220,000. For purposes of the preceding sentence, the term “flagrant” with respect to a violation means a reckless or repeated failure to make reasonable efforts to eliminate a known violation of a mandatory health or safety standard that substantially and proximately caused, or reasonably could have been expected to cause, death or serious bodily injury.
+(2) Violations under this section that are deemed to be flagrant may be assessed a civil penalty of not more than $220,000. For purposes of the preceding sentence, the term "flagrant" with respect to a violation means a reckless or repeated failure to make reasonable efforts to eliminate a known violation of a mandatory health or safety standard that substantially and proximately caused, or reasonably could have been expected to cause, death or serious bodily injury.
 
 #### (c) Liability of corporate directors, officers, and agents
 
@@ -52,7 +52,7 @@ Civil penalties owed under this chapter shall be paid to the Secretary for depos
 
 #### (k) Compromise, mitigation, and settlement of penalty
 
-No proposed penalty which has been contested before the Commission under section 815(a) of this title shall be compromised, mitigated, or settled except with the approval of the Commission. No penalty assessment which has become a final order of the Commission shall be compromised, mitigated, or settled except with the approval of the court.
+No proposed penalty which has been contested before the Commission under section 815(a) ofthis title shall be compromised, mitigated, or settled except with the approval of the Commission. No penalty assessment which has become a final order of the Commission shall be compromised, mitigated, or settled except with the approval of the court.
 
 #### (l) Inapplicability to black lung benefit provisions
 
@@ -62,27 +62,27 @@ The provisions of this section shall not be applicable with respect to subchapte
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (c) to (f), and (h) to (j), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (c) to (f), and (h) to (j), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–280, §1301(2), substituted “(1) The operator” for “(1)(1) The operator” in par. (1), substituted “subsection (a)(1)” for “paragraph (1)” in par. (2), relating to criminal penalties, and redesignated that par. as subsec. (d).
+<b>2006</b>—Subsec. (a). Pub. L. 109–280, §1301(2), substituted "(1) The operator" for "(1)(1) The operator" in par. (1), substituted "subsection (a)(1)" for "paragraph (1)" in par. (2), relating to criminal penalties, and redesignated that par. as subsec. (d).
 
-Pub. L. 109–236, §8(a)(1), inserted “(1)” after subsec. heading, added par. (2), relating to criminal penalties, and added pars. (3) and (4).
+Pub. L. 109–236, §8(a)(1), inserted "(1)" after subsec. heading, added par. (2), relating to criminal penalties, and added pars. (3) and (4).
 
 Pub. L. 109–236, §5(b), designated existing provisions as par. (1) and added par. (2), relating to civil penalties.
 
 Subsec. (b). Pub. L. 109–280, §1301(3), inserted par. (1) and (2) designations.
 
-Pub. L. 109–236, §8(a)(2), inserted at end “Violations under this section that are deemed to be flagrant may be assessed a civil penalty of not more than $220,000. For purposes of the preceding sentence, the term ‘flagrant’ with respect to a violation means a reckless or repeated failure to make reasonable efforts to eliminate a known violation of a mandatory health or safety standard that substantially and proximately caused, or reasonably could have been expected to cause, death or serious bodily injury.”
+Pub. L. 109–236, §8(a)(2), inserted at end "Violations under this section that are deemed to be flagrant may be assessed a civil penalty of not more than $220,000. For purposes of the preceding sentence, the term 'flagrant' with respect to a violation means a reckless or repeated failure to make reasonable efforts to eliminate a known violation of a mandatory health or safety standard that substantially and proximately caused, or reasonably could have been expected to cause, death or serious bodily injury."
 
 Subsec. (d). Pub. L. 109–280, §1301(2)(B)(ii), redesignated subsec. (a)(2), relating to criminal penalties, as (d).
 
-Pub. L. 109–280, §1301(1), struck out subsec. (d) which read as follows: “Any operator who willfully violates a mandatory health or safety standard, or knowingly violates or fails or refuses to comply with any order issued under section 814 of this title and section 817 of this title, or any order incorporated in a final decision issued under this subchapter, except an order incorporated in a decision under subsection (a) of this section or section 815(c) of this title, shall, upon conviction, be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or by both, except that if the conviction is for a violation committed after the first conviction of such operator under this chapter, punishment shall be by a fine of not more than $50,000, or by imprisonment for not more than five years, or both.”
+Pub. L. 109–280, §1301(1), struck out subsec. (d) which read as follows: "Any operator who willfully violates a mandatory health or safety standard, or knowingly violates or fails or refuses to comply with any order issued under section 814 of this title and section 817 of this title, or any order incorporated in a final decision issued under this subchapter, except an order incorporated in a decision under subsection (a) of this section or section 815(c) of this title, shall, upon conviction, be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or by both, except that if the conviction is for a violation committed after the first conviction of such operator under this chapter, punishment shall be by a fine of not more than $50,000, or by imprisonment for not more than five years, or both."
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §3102(1), substituted “$50,000” for “$10,000”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §3102(1), substituted "$50,000" for "$10,000".
 
-Subsec. (b). Pub. L. 101–508, §3102(2), substituted “$5,000” for “1,000”.
+Subsec. (b). Pub. L. 101–508, §3102(2), substituted "$5,000" for "1,000".
 
 <b>1977</b>—Pub. L. 95–164 substituted provisions setting the civil and criminal penalties with regard to violations of this chapter for provisions relating to claims of idled miners, which provisions, as revised, were transferred to section 821 of this title.
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 #### Regulations
 
-Pub. L. 109–236, §8(b), June 15, 2006, 120 Stat. 501, provided that: “Not later than December 30, 2006, the Secretary of Labor shall promulgate final regulations with respect to penalties.”
+Pub. L. 109–236, §8(b), June 15, 2006, 120 Stat. 501, provided that: "Not later than December 30, 2006, the Secretary of Labor shall promulgate final regulations with respect to penalties."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

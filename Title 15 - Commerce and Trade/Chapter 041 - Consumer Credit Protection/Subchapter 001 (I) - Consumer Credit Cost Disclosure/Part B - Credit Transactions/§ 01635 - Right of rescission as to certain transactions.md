@@ -6,7 +6,7 @@ Except as otherwise provided in this section, in the case of any consumer credit
 
 #### (b) Return of money or property following rescission
 
-When an obligor exercises his right to rescind under subsection (a) of this section, he is not liable for any finance or other charge, and any security interest given by the obligor, including any such interest arising by operation of law, becomes void upon such a rescission. Within 20 days after receipt of a notice of rescission, the creditor shall return to the obligor any moneyor property given as earnest money, downpayment, or otherwise, and shall take any action necessary or appropriate to reflect the termination of any security interest created under the transaction. If the creditor has delivered any property to the obligor, the obligor may retain possession of it. Upon the performance of the creditor's obligations under this section, the obligor shall tender the property to the creditor, except that if return of the property in kind would be impracticable or inequitable, the obligor shall tender its reasonable value. Tender shall be made at the location of the property or at the residence of the obligor, at the option of the obligor. If the creditor does not take possession of the property within 20 days after tender by the obligor, ownership of the property vests in the obligor without obligation on his part to pay for it. The procedures prescribed by this subsection shall apply except when otherwise ordered by a court.
+When an obligor exercises his right to rescind under subsection (a) of this section, he is not liable for any finance or other charge, and any security interest given by the obligor, including any such interest arising by operation of law, becomes void upon such a rescission. Within 20 days after receipt of a notice of rescission, the creditor shall return to the obligor any money or property given as earnest money, downpayment, or otherwise, and shall take any action necessary or appropriate to reflect the termination of any security interest created underthe transaction. If the creditor has delivered any property to the obligor, the obligor may retain possession of it. Upon the performance of the creditor's obligations under this section, the obligor shall tender the property to the creditor, except that if return of the property in kind would be impracticable or inequitable, the obligor shall tender its reasonable value. Tender shall be made at the location of the property or at the residence of the obligor, at the option of the obligor. If the creditor does not take possession of the property within 20 days after tender by the obligor, ownership of the property vests in the obligor without obligation on his part to pay for it. The procedures prescribed by this subsection shall apply except when otherwise ordered by a court.
 
 #### (c) Rebuttable presumption of delivery of required disclosures
 
@@ -52,7 +52,7 @@ An obligor shall have no rescission rights arising solely from the form of writt
 
 #### (2) Tolerance for disclosures
 
-&emsp;Notwithstanding section 1605(f) of this title, and subject to the time period provided in subsection (f) of this section, for the purposes of exercising any rescission rights after the initiation of any judicial or nonjudicial foreclosure process on the principal dwelling of the obligor securing an extension of credit, the disclosure of the finance charge and other disclosures affected by any finance charge shall be treated as being accurate for purposes of this section if the amount disclosed as the financecharge does not vary from the actual finance charge by more than $35 or is greater than the amount required to be disclosed under this subchapter.
+&emsp;Notwithstanding section 1605(f) of this title, and subject to the time period provided in subsection (f) of this section, for the purposes of exercising any rescission rights after the initiation of any judicial or nonjudicial foreclosure process on the principal dwelling of the obligor securing an extension of credit, the disclosure of the finance charge and other disclosures affected by any finance charge shall be treated as being accurate for purposes of this section if the amount disclosed as the finance charge does not vary from the actual finance charge by more than $35 or is greater than the amount required to be disclosed under this subchapter.
 
 #### (3) Right of recoupment under State law
 
@@ -70,19 +70,19 @@ Section 1602(w) of this title, referred to in subsec. (e)(1), was redesignated s
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a), (d), (h), (i)(1)(B). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Subsecs. (a), (d), (h), (i)(1)(B). Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
 <b>1995</b>—Subsec. (h). Pub. L. 104–29, §5, added subsec. (h).
 
 Subsec. (i). Pub. L. 104–29, §8, added subsec. (i).
 
-<b>1984</b>—Subsec. (e). Pub. L. 98–479 redesignated par. (1) as subsec. (e), redesignated subpars. (A), (B), (C), and (D) of par. (1) as pars. (1), (2), (3), and (4), respectively, and struck out par. (2) which read as follows: “The provisions of paragraph (1)(D) shall cease to be effective 3 years after the effective date of the Truth in Lending Simplification Reform Act.”
+<b>1984</b>—Subsec. (e). Pub. L. 98–479 redesignated par. (1) as subsec. (e), redesignated subpars. (A), (B), (C), and (D) of par. (1) as pars. (1), (2), (3), and (4), respectively, and struck out par. (2) which read as follows: "The provisions of paragraph (1)(D) shall cease to be effective 3 years after the effective date of the Truth in Lending Simplification Reform Act."
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–221, §612(a)(1), substituted provisions relating to the right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required together with the statement containing the material disclosures required under this subchapter, whichever is later, for provisions relating to right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the required disclosures and all other material disclosures required under this part, whichever is later.
 
-Subsec. (b). Pub. L. 96–221, §612(a)(3), (4), inserted provisions setting forth applicability of procedures prescribed by this subsection, and substituted “20” for “ten” in two places.
+Subsec. (b). Pub. L. 96–221, §612(a)(3), (4), inserted provisions setting forth applicability of procedures prescribed by this subsection, and substituted "20" for "ten" in two places.
 
-Subsec. (c). Pub. L. 96–221, §612(a)(5), inserted “information, forms, and” after “whom”.
+Subsec. (c). Pub. L. 96–221, §612(a)(5), inserted "information, forms, and" after "whom".
 
 Subsec. (e). Pub. L. 96–221, §612(a)(6), substituted provisions relating to nonapplicability to residential mortgage transactions, refinancing or consolidation transactions, etc., for provisions relating to nonapplicability to creation or retention of first liens.
 

@@ -34,13 +34,13 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §§703 (less (a)), 704 (2d sentence), 705(a) (last 39 words), 713 (less (a)), 66 Stat. 502–504.
 
-In subsection (a), the words “as a Reserve” are substituted for the words “as Reserve officers of the appropriate Armed Force of the United States” and “as a Reserve officer of the Armed Force of the United States concerned” in 50:1113(b). The words “federally recognized appointments” and “in the same grade and branch”, in 50:1113(b), are omitted as surplusage. The words “those officers who do not hold appointments as reserve officers of the appropriate Armed Force of the United States”, in 50:1113(b), are omitted as covered by the second sentence of the revised subsection.
+In subsection (a), the words "as a Reserve" are substituted for the words "as Reserve officers of the appropriate Armed Force of the United States" and "as a Reserve officer of the Armed Force of the United States concerned" in 50:1113(b). The words "federally recognized appointments" and "in the same grade and branch", in 50:1113(b), are omitted as surplusage. The words "those officers who do not hold appointments as reserve officers of the appropriate Armed Force of the United States", in 50:1113(b), are omitted as covered by the second sentence of the revised subsection.
 
-In subsection (c), the words “active duty” are substituted for the words “active military service of the United States”. The words “and branch” are omitted as surplusage. The words “of the Air National Guard of the United States” are inserted for clarity.
+In subsection (c), the words "active duty" are substituted for the words "active military service of the United States". The words "and branch" are omitted as surplusage. The words "of the Air National Guard of the United States" are inserted for clarity.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–106 inserted “the” after “National Guard of” in section catchline.
+<b>1996</b>—Pub. L. 104–106 inserted "the" after "National Guard of" in section catchline.
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 8351 of this title as this section.
 

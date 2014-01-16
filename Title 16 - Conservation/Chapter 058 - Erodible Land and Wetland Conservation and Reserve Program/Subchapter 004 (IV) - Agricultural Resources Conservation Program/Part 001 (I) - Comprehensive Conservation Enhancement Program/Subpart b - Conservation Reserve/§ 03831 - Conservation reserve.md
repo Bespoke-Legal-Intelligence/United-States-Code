@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Through the 2012 fiscal year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) of this section to conserve and improve the soil,water, and wildlife resources of such land and to address issues raised by State, regional, and national conservation initiatives.
+Through the 2012 fiscal year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) of this section to conserve and improve the soil, water, and wildlife resources of such land and to address issues raised by State, regional, and national conservation initiatives.
 
 #### (b) Eligible land
 
@@ -128,7 +128,7 @@ In determining the acceptability of contract offers under this subpart, the Secr
 
 #### References in Text
 
-The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(1)(B), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(1)(B), isthe date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 
@@ -140,27 +140,27 @@ A prior section 3831, Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Sta
 
 #### Amendments
 
-<b>2013</b>—Subsec. (d). Pub. L. 112–240 substituted “2012, and 2013” for “and 2012”.
+<b>2013</b>—Subsec. (d). Pub. L. 112–240 substituted "2012, and 2013" for "and 2012".
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2101, substituted “2012 fiscal year” for “2007 calendar year” and inserted “and to address issues raised by State, regional, and national conservation initiatives” before period at end.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2101, substituted "2012 fiscal year" for "2007 calendar year" and inserted "and to address issues raised by State, regional, and national conservation initiatives" before period at end.
 
-Subsec. (b)(1)(B). Pub. L. 110–246, §2102(1), substituted “the date of enactment of the Food, Conservation, and Energy Act of 2008” for “May 13, 2002” and substituted semicolon for period at end.
+Subsec. (b)(1)(B). Pub. L. 110–246, §2102(1), substituted "the date of enactment of the Food, Conservation, and Energy Act of 2008" for "May 13, 2002" and substituted semicolon for period at end.
 
-Subsec. (b)(4)(C) to (E). Pub. L. 110–246, §2102(2), in subpar. (C) struck out “or” at end, in subpar. (D) substituted “or” for “and” at end, and in subpar. (E) inserted “or” at end.
+Subsec. (b)(4)(C) to (E). Pub. L. 110–246, §2102(2), in subpar. (C) struck out "or" at end, in subpar. (D) substituted "or" for "and" at end, and in subpar. (E) inserted "or" at end.
 
-Subsec. (d). Pub. L. 110–246, §2103, substituted “2009 fiscal years” for “2007 calendar years” and “(16 U.S.C.” for “( 16 U.S.C.” and inserted at end “During fiscal years 2010, 2011, and 2012, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time.”
+Subsec. (d). Pub. L. 110–246, §2103, substituted "2009 fiscal years" for "2007 calendar years" and "(16 U.S.C." for "( 16 U.S.C." and inserted at end "During fiscal years 2010, 2011, and 2012, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time."
 
-Subsec. (f)(1). Pub. L. 110–246, §2104, substituted “the Chesapeake Bay Region” for “the Chesapeake Bay Region (Pennsylvania, Maryland, and Virginia)”.
+Subsec. (f)(1). Pub. L. 110–246, §2104, substituted "the Chesapeake Bay Region" for "the Chesapeake Bay Region (Pennsylvania, Maryland, and Virginia)".
 
-Subsec. (g). Pub. L. 110–246, §2105, amended subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.”
+Subsec. (g). Pub. L. 110–246, §2105, amended subsec. (g) generally. Prior to amendment, text read as follows: "For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities."
 
 Subsecs. (h) to (j). Pub. L. 110–246, §2106(a)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to pilot program for enrollment of wetland and buffer acreage in conservation reserve during 2002 through 2007 calendar years.
 
 Subsec. (k). Pub. L. 110–246, §2106(b)(1), renumbered subsec. (k) as section 3831a of this title.
 
-<b>2007</b>—Subsec. (k)(2). Pub. L. 110–28 substituted “The” for “During calendar year 2006, the”.
+<b>2007</b>—Subsec. (k)(2). Pub. L. 110–28 substituted "The" for "During calendar year 2006, the".
 
-<b>2006</b>—Subsec. (k)(3)(G). Pub. L. 109–234 substituted “$504,100,000” for “$404,100,000”.
+<b>2006</b>—Subsec. (k)(3)(G). Pub. L. 109–234 substituted "$504,100,000" for "$404,100,000".
 
 <b>2005</b>—Subsec. (k). Pub. L. 109–148 added subsec. (k).
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Regulations
 
@@ -180,25 +180,25 @@ Pub. L. 106–387, §1(a) \[title XI, §1105\], Oct. 28, 2000, 114 Stat. 1549, 1
 
 Pub. L. 107–171, title II, §2101(b), May 13, 2002, 116 Stat. 252, provided that:
 
-“(1)
+"(1)
 
 In general.—Not later than 18 months after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the economic and social effects on rural communities resulting from the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
 
-“(2)
+"(2)
 
 Components.—The study under paragraph (1) shall include analyses of—
 
-&emsp;“(A) the impact that enrollments in the conservation reserve program have on rural businesses, civic organizations, and community services (such as schools, public safety, and infrastructure), particularly in communities with a large percentage of whole farm enrollments;
+&emsp;"(A) the impact that enrollments in the conservation reserve program have on rural businesses, civic organizations, and community services (such as schools, public safety, and infrastructure), particularly in communities with a large percentage of whole farm enrollments;
 
-&emsp;“(B) the effect that those enrollments have on rural population and beginning farmers (including a description of any connection between the rate of enrollment and the incidence of absentee ownership);
+&emsp;"(B) the effect that those enrollments have on rural population and beginning farmers (including a description of any connection between the rate of enrollment and the incidence of absentee ownership);
 
-&emsp;“(C)(i) the manner in which differential per acre payment rates potentially impact the types of land (by productivity) enrolled;
+&emsp;"(C)(i) the manner in which differential per acre payment rates potentially impact the types of land (by productivity) enrolled;
 
-&emsp;“(ii) changes to the per acre payment rates that may affect that impact; and
+&emsp;"(ii) changes to the per acre payment rates that may affect that impact; and
 
-&emsp;“(iii) the manner in which differential per acre payment rates could facilitate retention of productive agricultural land in agriculture; and
+&emsp;"(iii) the manner in which differential per acre payment rates could facilitate retention of productive agricultural land in agriculture; and
 
-&emsp;“(D) the effect of enrollment on opportunities for recreational activities (including hunting and fishing).”
+&emsp;"(D) the effect of enrollment on opportunities for recreational activities (including hunting and fishing)."
 
 #### Study of Impact of Pilot Program
 
@@ -210,5 +210,5 @@ Pub. L. 101–624, title XIV, §1437, Nov. 28, 1990, 104 Stat. 3584, required th
 
 #### Existing Conservation Programs
 
-Pub. L. 99–263, Mar. 24, 1986, 100 Stat. 59, provided: “That the conservation reserve program shall not replace or reduce any existing conservation program.”
+Pub. L. 99–263, Mar. 24, 1986, 100 Stat. 59, provided: "That the conservation reserve program shall not replace or reduce any existing conservation program."
 

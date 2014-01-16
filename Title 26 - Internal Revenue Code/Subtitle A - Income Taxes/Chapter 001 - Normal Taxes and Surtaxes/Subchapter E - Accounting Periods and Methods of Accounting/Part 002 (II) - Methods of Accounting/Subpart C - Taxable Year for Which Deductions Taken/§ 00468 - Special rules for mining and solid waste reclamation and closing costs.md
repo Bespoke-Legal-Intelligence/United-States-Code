@@ -102,13 +102,13 @@ For purposes of this section—
 
 #### (A) Current reclamation costs
 
-&emsp;&emsp;The term “current reclamation costs” means the amount which the taxpayer would be required to pay for qualified reclamation costs if the reclamation activities were performed currently.
+&emsp;&emsp;The term "current reclamation costs" means the amount which the taxpayer would be required to pay for qualified reclamation costs if the reclamation activities were performed currently.
 
 #### (B) Current closing costs
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “current closing costs” means the amount which the taxpayer would be required to pay for qualified closing costs if the closing activities were performed currently.
+&emsp;&emsp;&emsp;The term "current closing costs" means the amount which the taxpayer would be required to pay for qualified closing costs if the closing activities were performed currently.
 
 #### (ii) Costs computed on unit-of-production or capacity method
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (2) Qualified reclamation or closing costs
 
-&emsp;The term “qualified reclamation or closing costs” means any of the following expenses:
+&emsp;The term "qualified reclamation or closing costs" means any of the following expenses:
 
 #### (A) Mining reclamation and closing costs
 
@@ -150,11 +150,11 @@ For purposes of this section—
 
 #### (3) Property
 
-&emsp;The term “property” has the meaning given such term by section 614.
+&emsp;The term "property" has the meaning given such term by section 614.
 
 #### (4) Reserve property
 
-&emsp;The term “reserve property” means any property with respect to which a reserve is established under subsection (a)(1).
+&emsp;The term "reserve property" means any property with respect to which a reserve is established under subsection (a)(1).
 
 (Added Pub. L. 98–369, div. A, title I, §91(b)(1), July 18, 1984, 98 Stat. 601; amended Pub. L. 99–514, title XVIII, §§1807(a)(3)(A), (C), 1899A(14), Oct. 22, 1986, 100 Stat. 2811, 2959; Pub. L. 101–508, title XI, §11802(c), Nov. 5, 1990, 104 Stat. 1388–529.)
 
@@ -170,11 +170,11 @@ Section 105 of the Comprehensive Environmental Response, Compensation, and Liabi
 
 <b>1990</b>—Subsec. (a)(2)(B). Pub. L. 101–508 amended subpar. (B) generally, substituting present provisions for provisions providing for increase for interest and a phase-in of interest rates for taxable years ending before 1987.
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1807(a)(3)(C), substituted “this section” for “this subsection”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1807(a)(3)(C), substituted "this section" for "this subsection".
 
 Subsec. (a)(2)(D). Pub. L. 99–514, §1807(a)(3)(A), added subpar. (D).
 
-Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1899A(14), substituted “Comprehensive Environmental Response, Compensation, and Liability Act of 1980” for “Comprehensive Environmental, Compensation, and Liability Act of 1980”.
+Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1899A(14), substituted "Comprehensive Environmental Response, Compensation, and Liability Act of 1980" for "Comprehensive Environmental, Compensation, and Liability Act of 1980".
 
 #### Effective Date of 1986 Amendment
 

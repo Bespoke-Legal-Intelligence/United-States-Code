@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “low-emission motor vehicle” means a motor vehicle meeting the standards for new motor vehicles applicable to the vehicle under section 202 of the Clean Air Act (42 U.S.C. 7521) when the vehicle is manufactured and emitting an air pollutant in an amount significantly below one of those standards.
+Definition.—In this section, "low-emission motor vehicle" means a motor vehicle meeting the standards for new motor vehicles applicable to the vehicle under section 202 of the Clean Air Act (42 U.S.C. 7521) when the vehicle is manufactured and emitting an air pollutant in an amount significantly below one of those standards.
 
 (b)
 
@@ -26,7 +26,7 @@ Authority To Exempt and Procedures.—(1) The Secretary of Transportation may ex
 
 Contents of Applications.—A manufacturer applying for an exemption under subsection (b) of this section shall include the following information in the application:
 
-&emsp;(1) if the application is made under subsection (b)(3)(B)(i) of this section, a complete financial statement describing the economic hardship and a complete description of the manufacturer's good faith effort to complywith each motor vehicle safety standard prescribed under this chapter, or a bumper standard prescribed under chapter 325 of this title, from which the manufacturer is requesting an exemption.
+&emsp;(1) if the application is made under subsection (b)(3)(B)(i) of this section, a complete financial statement describing the economic hardship and a complete description of the manufacturer's good faith effort to comply with each motor vehicle safety standard prescribed under this chapter, or a bumper standard prescribed under chapter 325 of this title, from which the manufacturer is requesting an exemption.
 
 &emsp;(2) if the application is made under subsection (b)(3)(B)(ii) of this section, a record of the research, development, and testing establishing the innovative nature of the safety feature and a detailed analysis establishing that the safety level of the feature at least equals the safety level of the standard.
 
@@ -100,39 +100,39 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §123; added Apr. 10, 1968, Pub. 
 
 15:1410(b).
 
-In subsection (a), the words “the term” and “type of” are omitted as surplus. The words “when the vehicle is manufactured” are substituted for “at the time of manufacture” for consistency.
+In subsection (a), the words "the term" and "type of" are omitted as surplus. The words "when the vehicle is manufactured" are substituted for "at the time of manufacture" for consistency.
 
-In subsection (b)(1), the words “Except as provided in subsection (d) of this section” are omitted as surplus. The words “to such extent” are omitted as being included in “on terms the Secretary considers appropriate”.
+In subsection (b)(1), the words "Except as provided in subsection (d) of this section" are omitted as surplus. The words "to such extent" are omitted as being included in "on terms the Secretary considers appropriate".
 
-In subsection (b)(2), the words “The Secretary may begin a proceeding under this subsection . . . for an exemption or a renewal of an exemption” are added because of the restatement. The words “of the application” are added for clarity. The words “An application for an exemption or for a renewal of an exemption shall be filed” are added because of the restatement.
+In subsection (b)(2), the words "The Secretary may begin a proceeding under this subsection . . . for an exemption or a renewal of an exemption" are added because of the restatement. The words "of the application" are added for clarity. The words "An application for an exemption or for a renewal of an exemption shall be filed" are added because of the restatement.
 
-In subsection (b)(3)(A), the words “such temporary” and “the objectives of” are omitted as surplus.
+In subsection (b)(3)(A), the words "such temporary" and "the objectives of" are omitted as surplus.
 
-In subsection (b)(3)(B)(i), the words “to a manufacturer that” are substituted for “such manufacturer . . . and that the manufacturer” to eliminate unnecessary words. The words “from which it requests to be exempted” are omitted as surplus.
+In subsection (b)(3)(B)(i), the words "to a manufacturer that" are substituted for "such manufacturer . . . and that the manufacturer" to eliminate unnecessary words. The words "from which it requests to be exempted" are omitted as surplus.
 
-In subsection (b)(3)(B)(ii), the words “from which an exemption is sought” are omitted as surplus.
+In subsection (b)(3)(B)(ii), the words "from which an exemption is sought" are omitted as surplus.
 
-In subsection (b)(3)(B)(iii), the words “lower the safety level” are substituted for “degrade the safety” for clarity.
+In subsection (b)(3)(B)(iii), the words "lower the safety level" are substituted for "degrade the safety" for clarity.
 
-In subsection (b)(3)(B)(iv), the word “requiring” is omitted as surplus.
+In subsection (b)(3)(B)(iv), the word "requiring" is omitted as surplus.
 
-In subsection (c), before clause (1), the words “the following information” are added for clarity. In clause (1), the word “describing” is substituted for “the basis of showing” to eliminate unnecessary words. The words “each motor vehicle safety standard prescribed under this chapter from which the manufacturer is requesting an exemption” are substituted for “the standards” for clarity. In clauses (2) and (3), the words “a record” are substituted for “documentation” for consistency in the revised title. In clause (2), the words “establishing that the safety level of the feature at least equals the safety level of the standard” are substituted for “establishing that the level of safety of the new safety feature is equivalent to or exceeds the level of safety established in the standard from which the exemption is sought” because of the restatement. In clause (3), the word “level” is added, and the words “lowered . . . by exemption from the standard” are substituted for “degraded”, for consistency in this section. In clause (4), the words “at least equal to” are substituted for “equivalent to or exceeding” for consistency.
+In subsection (c), before clause (1), the words "the following information" are added for clarity. In clause (1), the word "describing" is substituted for "the basis of showing" to eliminate unnecessary words. The words "each motor vehicle safety standard prescribed under this chapter from which the manufacturer is requesting an exemption" are substituted for "the standards" for clarity. In clauses (2) and (3), the words "a record" are substituted for "documentation" for consistency in the revised title. In clause (2), the words "establishing that the safety level of the feature at least equals the safety level of the standard" are substituted for "establishing that the level of safety of the new safety feature is equivalent to or exceeds the level of safety established in the standard from which the exemption is sought" because of the restatement. In clause (3), the word "level" is added, and the words "lowered . . . by exemption from the standard" are substituted for "degraded", for consistency in this section. In clause (4), the words "at least equal to" are substituted for "equivalent to or exceeding" for consistency.
 
-In subsection (f), the text of 15:1410(f) (1st sentence) is omitted as executed. The words “under this section all” and “other information” are omitted as surplus. The words “to the application” are substituted for “thereto” for clarity. The words “business” and “for exemption” are omitted as surplus.
+In subsection (f), the text of 15:1410(f) (1st sentence) is omitted as executed. The words "under this section all" and "other information" are omitted as surplus. The words "to the application" are substituted for "thereto" for clarity. The words "business" and "for exemption" are omitted as surplus.
 
-In subsection (g), the words “The Secretary” are added for clarity. The word “temporary” is omitted as surplus. The words “under this section” are added for clarity.
+In subsection (g), the words "The Secretary" are added for clarity. The word "temporary" is omitted as surplus. The words "under this section" are added for clarity.
 
-In subsection (h), the words “a . . . label to be fixed to a motor vehicle granted an exemption under this section” are substituted for “labeling of each exempted motor vehicle . . . and be affixed to such exempted vehicles” for clarity. The words “of such exempted motor vehicle in such manner as he deems” are omitted as surplus. The words “motor vehicle safety standard prescribed under this chapter” are substituted for “the standards” for clarity and consistency in this chapter.
+In subsection (h), the words "a . . . label to be fixed to a motor vehicle granted an exemption under this section" are substituted for "labeling of each exempted motor vehicle . . . and be affixed to such exempted vehicles" for clarity. The words "of such exempted motor vehicle in such manner as he deems" are omitted as surplus. The words "motor vehicle safety standard prescribed under this chapter" are substituted for "the standards" for clarity and consistency in this chapter.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–277, §101(g) \[title III, §351(a)(1)(A)\], inserted “or passenger motor vehicles from a bumper standard prescribed under chapter 325 of this title,” after “a motor vehicle safety standard prescribed under this chapter”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–277, §101(g) \[title III, §351(a)(1)(A)\], inserted "or passenger motor vehicles from a bumper standard prescribed under chapter 325 of this title," after "a motor vehicle safety standard prescribed under this chapter".
 
-Subsec. (b)(3)(A). Pub. L. 105–277, §101(g) \[title III, §351(a)(1)(B)\], inserted “or chapter 325 of this title (as applicable)” after “this chapter”.
+Subsec. (b)(3)(A). Pub. L. 105–277, §101(g) \[title III, §351(a)(1)(B)\], inserted "or chapter 325 of this title (as applicable)" after "this chapter".
 
-Subsec. (c)(1). Pub. L. 105–277, §101(g) \[title III, §351(a)(2)\], inserted “, or a bumper standard prescribed under chapter 325 of this title,” after “motor vehicle safety standard prescribed under this chapter”.
+Subsec. (c)(1). Pub. L. 105–277, §101(g) \[title III, §351(a)(2)\], inserted ", or a bumper standard prescribed under chapter 325 of this title," after "motor vehicle safety standard prescribed under this chapter".
 
-Subsec. (d). Pub. L. 105–277, §101(g) \[title III, §351(a)(3)\], inserted “(including an exemption under subsection (b)(3)(B)(i) relating to a bumper standard referred to in subsection (b)(1))” after “subsection (b)(3)(B)(i) of this section”.
+Subsec. (d). Pub. L. 105–277, §101(g) \[title III, §351(a)(3)\], inserted "(including an exemption under subsection (b)(3)(B)(i) relating to a bumper standard referred to in subsection (b)(1))" after "subsection (b)(3)(B)(i) of this section".
 
-Subsec. (h). Pub. L. 105–277, §101(g) \[title III, §351(a)(4)\], inserted “or bumper standard prescribed under chapter 325 of this title” after “each motor vehicle safety standard prescribed under this chapter”.
+Subsec. (h). Pub. L. 105–277, §101(g) \[title III, §351(a)(4)\], inserted "or bumper standard prescribed under chapter 325 of this title" after "each motor vehicle safety standard prescribed under this chapter".
 

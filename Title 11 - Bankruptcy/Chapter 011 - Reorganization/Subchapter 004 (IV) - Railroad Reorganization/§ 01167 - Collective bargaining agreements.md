@@ -20,7 +20,7 @@ The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Sta
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–394 struck out “(45 U.S.C. 151 et seq.)” after “Railway Labor Act” and “(45 U.S.C. 156)” after “such Act”.
+<b>1994</b>—Pub. L. 103–394 struck out "(45 U.S.C. 151 et seq.)" after "Railway Labor Act" and "(45 U.S.C. 156)" after "such Act".
 
 #### Effective Date of 1994 Amendment
 

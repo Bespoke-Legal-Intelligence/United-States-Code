@@ -17,3 +17,4 @@
 - [&sect; 02010 - Assignment of rooms; control of by House](%C2%A7%2002010%20-%20Assignment%20of%20rooms%3B%20control%20of%20by%20House.md)
 - [&sect; 02011 - Assignment of unoccupied space](%C2%A7%2002011%20-%20Assignment%20of%20unoccupied%20space.md)
 - [&sect; 02012 - Furniture for House of Representatives](%C2%A7%2002012%20-%20Furniture%20for%20House%20of%20Representatives.md)
+- [&sect; 02013 - Revolving fund for House gymnasium; deposit of receipts; availability for expenditure](%C2%A7%2002013%20-%20Revolving%20fund%20for%20House%20gymnasium%3B%20deposit%20of%20receipts%3B%20availability%20for%20expenditure.md)

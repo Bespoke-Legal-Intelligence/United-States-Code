@@ -36,7 +36,7 @@
 
 &emsp;The right provided by paragraph (2) to bring an action by or on behalf of any employee shall terminate—
 
-&emsp;&emsp;(A) on the filing of a complaint by the Secretary in an action under subsection (d) of this section in which restraint is sought of any further delay in the payment of the amount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
+&emsp;&emsp;(A) on the filing of a complaint by the Secretary in an action under subsection (d) ofthis section in which restraint is sought of any further delay in the payment of the amount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
 
 &emsp;&emsp;(B) on the filing of a complaint by the Secretary in an action under subsection (b) of this section in which a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
 
@@ -90,13 +90,13 @@ In the case of the Government Accountability Office and the Library of Congress,
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(A)(i)(II). Pub. L. 110–181 inserted “(or 26 weeks, in a case involving leave under section 2612(a)(3) of this title)” after “12 weeks”.
+<b>2008</b>—Subsec. (a)(1)(A)(i)(II). Pub. L. 110–181 inserted "(or 26 weeks, in a case involving leave under section 2612(a)(3) of this title)" after "12 weeks".
 
-<b>2004</b>—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
+<b>2004</b>—Subsec. (f). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in heading and text.
 
 <b>1995</b>—Subsec. (f). Pub. L. 104–1 added subsec. (f).
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
+Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
 

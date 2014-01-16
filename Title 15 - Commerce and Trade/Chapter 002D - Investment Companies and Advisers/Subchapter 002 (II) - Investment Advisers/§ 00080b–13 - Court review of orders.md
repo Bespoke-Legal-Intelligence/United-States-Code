@@ -12,15 +12,15 @@ The commencement of proceedings under subsection (a) of this section shall not, 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203 substituted “principal office or place of business” for “principal place of business”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203 substituted "principal office or place of business" for "principal place of business".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–181 substituted “section 1254 of title 28” for “sections 239 and 240 of the Judicial Code, as amended”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–181 substituted "section 1254 of title 28" for "sections 239 and 240 of the Judicial Code, as amended".
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–791, in second sentence, substituted “transmitted by the clerk of the court toany member of the Commission, or” for “served upon any member of the Commission, or upon”, substituted “file in the court” for “certify and file in the court a transcript of”, and inserted “as provided in section 2112 of title 28”, and which, in third sentence, substituted “petition” for “transcript”, and “jurisdiction, which upon the filing of the record shall be exclusive” for “exclusive jurisdiction”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–791, in second sentence, substituted "transmitted by the clerk of the court toany member of the Commission, or" for "served upon any member of the Commission, or upon", substituted "file in the court" for "certify and file in the court a transcript of", and inserted "as provided in section 2112 of title 28", and which, in third sentence, substituted "petition" for "transcript", and "jurisdiction, which upon the filing of the record shall be exclusive" for "exclusive jurisdiction".
 
 #### Change of Name
 
-Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
+Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted "court of appeals" for "circuit court of appeals".
 
 #### Effective Date of 2010 Amendment
 

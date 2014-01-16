@@ -6,7 +6,7 @@ The tax imposed by section 4181 shall not apply to any firearm on which the tax 
 
 #### (b) Sales to defense department
 
-No firearms, pistols, revolvers, shells, and cartridges purchased with funds appropriated for the military department shall be subject to any tax imposed on the sale or transfer of such articles.
+No firearms, pistols, revolvers, shells, and cartridges purchased with funds appropriated forthe military department shall be subject to any tax imposed on the sale or transfer of such articles.
 
 #### (c) Small manufacturers, etc.
 
@@ -34,15 +34,15 @@ Notwithstanding the provisions of sections 922(b)(5) and 923(g) of title 18, Uni
 
 Pub. L. 109–59, title XI, §11131(b), Aug. 10, 2005, 119 Stat. 1959, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after September 30, 2005.
 
-“(2)
+"(2)
 
-No inference.—Nothing in the amendments made by this section shall be construed to create any inference with respect to the proper tax treatment of any sales before the effective date of such amendments.”
+No inference.—Nothing in the amendments made by this section shall be construed to create any inference with respect to the proper tax treatment of any sales before the effective date of such amendments."
 
 #### Short Title of 1969 Amendment
 
-Pub. L. 91–128, §1(a), Nov. 26, 1969, 83 Stat. 261, provided that: “This Act \[amending this section and sections 4911, 4912, 4914, 4915, 4919, 4920, 6011, and 6680 of this title and enacting provisions set out as notes under section 6680 of this title\] may be cited as the ‘Interest Equalization Tax Extension Act of 1969’.”
+Pub. L. 91–128, §1(a), Nov. 26, 1969, 83 Stat. 261, provided that: "This Act \[amending this section and sections 4911, 4912, 4914, 4915, 4919, 4920, 6011, and 6680 of this title and enacting provisions set out as notes under section 6680 of this title\] may be cited as the 'Interest Equalization Tax Extension Act of 1969'."
 

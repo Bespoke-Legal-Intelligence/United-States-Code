@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 May 5, 1950, ch. 169, §7(b), 64 Stat. 145.
 
-The words “organization of the Marine Corps” are substituted for “force of marines” for clarity. The words “or vessels”, “and powers”, “on shore”, and “under his command” are omitted as surplusage.
+The words "organization of the Marine Corps" are substituted for "force of marines" for clarity. The words "or vessels", "and powers", "on shore", and "under his command" are omitted as surplusage.
 

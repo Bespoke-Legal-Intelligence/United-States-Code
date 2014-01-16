@@ -10,11 +10,11 @@ Sections 191, 196, 211, 212, and 222 of this title, referred to in text, were re
 
 Section 253 of this title, referred to in text, does not exist.
 
-This heading, referred to in text, refers to the headings “
+This heading, referred to in text, refers to the headings "
 
-Alcohol, Drug Abuse, and Mental Health Administration” and “
+Alcohol, Drug Abuse, and Mental Health Administration" and "
 
-federal subsidy for saint elizabeths hospital” of title II, “Department of Health and Human Services”, of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriation Act, 1989, Pub. L. 100–436.
+federal subsidy for saint elizabeths hospital" of title II, "Department of Health and Human Services", of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriation Act, 1989, Pub. L. 100–436.
 
 #### Codification
 

@@ -52,7 +52,7 @@
 | [2678\.](%C2%A7%2002678%20-%20Reduction%20in%20earmarks%20if%20appropriations%20are%20less%20than%20authorizations.md) | Reduction in earmarks if appropriations are less than authorizations. |
 | [2679\.](%C2%A7%2002679%20-%20Maximum%20rates%20of%20per%20diem%20in%20lieu%20of%20subsistence%20payable%20to%20foreign%20participants%20in%20exchange%20of%20persons%20program%20or%20in%20program%20of%E2%80%A6.md) | Maximum rates of per diem in lieu of subsistence payable to foreign participants in exchange of persons program or in program of furnishing technical information and assistance. |
 | [2679a.](%C2%A7%2002679a%20-%20Procurement%20contracts.md) | Procurement contracts. |
-| [2679b.](%C2%A7%2002679b%20-%20Prohibition%20against%20fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20labels.md) | Prohibition against fraudulent use of “Made in America” labels. |
+| [2679b.](%C2%A7%2002679b%20-%20Prohibition%20against%20fraudulent%20use%20of%20Made%20in%20America%20labels.md) | Prohibition against fraudulent use of "Made in America" labels. |
 | [2679c.](%C2%A7%2002679c%20-%20Prohibition%20on%20discriminatory%20contracts.md) | Prohibition on discriminatory contracts. |
 | [2680\.](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20congressional%20committees.md) | Appropriations for State Department; information to congressional committees. |
 | 2680–1. | Deadline for responses to questions from congressional committees. |
@@ -99,7 +99,7 @@
 | [2713\.](%C2%A7%2002713%20-%20Protection%20of%20historic%20and%20artistic%20furnishings%20of%20reception%20areas%20of%20the%20Harry%20S%20Truman%20Federal%20Building.md) | Protection of historic and artistic furnishings of reception areas of the Harry S Truman Federal Building. |
 | [2714\.](%C2%A7%2002714%20-%20Denial%20of%20passports%20to%20certain%20convicted%20drug%20traffickers.md) | Denial of passports to certain convicted drug traffickers. |
 | [2715\.](%C2%A7%2002715%20-%20Procedures%20regarding%20major%20disasters%20and%20incidents%20abroad%20affecting%20United%20States%20citizens.md) | Procedures regarding major disasters and incidents abroad affecting United States citizens. |
-| [2715a.](%C2%A7%2002715a%20-%20Provision%20of%20information%20on%20certain%20violent%20crimes%20abroad%20to%20victims%20and%20victims%E2%80%99%20families.md) | Provision of information on certain violent crimes abroad to victims and victims’ families. |
+| [2715a.](%C2%A7%2002715a%20-%20Provision%20of%20information%20on%20certain%20violent%20crimes%20abroad%20to%20victims%20and%20victims%27%20families.md) | Provision of information on certain violent crimes abroad to victims and victims' families. |
 | [2715b.](%C2%A7%2002715b%20-%20Notification%20of%20next%20of%20kin%3B%20reports%20of%20death.md) | Notification of next of kin; reports of death. |
 | [2715c.](%C2%A7%2002715c%20-%20Conservation%20and%20disposition%20of%20estates.md) | Conservation and disposition of estates. |
 | [2716\.](%C2%A7%2002716%20-%20Debt%20collection.md) | Debt collection. |
@@ -119,7 +119,7 @@
 | [2730\.](%C2%A7%2002730%20-%20Prohibition%20on%20funding%20the%20involuntary%20return%20of%20refugees.md) | Prohibition on funding the involuntary return of refugees. |
 | [2731\.](%C2%A7%2002731%20-%20Monitoring%20and%20combating%20anti-Semitism.md) | Monitoring and combating anti-Semitism. |
 | [2732\.](%C2%A7%2002732%20-%20Public%20diplomacy%20responsibilities%20of%20the%20Department%20of%20State.md) | Public diplomacy responsibilities of the Department of State. |
-| [2733\.](%C2%A7%2002733%20-%20Reemployment%20of%20annuitants%20under%20the%20Civil%20Service%20Retirement%20System%20and%20Federal%20Employees%E2%80%99%20Retirement%20System.md) | Reemployment of annuitants under the Civil Service Retirement System and Federal Employees’ Retirement System. |
+| [2733\.](%C2%A7%2002733%20-%20Reemployment%20of%20annuitants%20under%20the%20Civil%20Service%20Retirement%20System%20and%20Federal%20Employees%27%20Retirement%20System.md) | Reemployment of annuitants under the Civil Service Retirement System and Federal Employees' Retirement System. |
 | [2734\.](%C2%A7%2002734%20-%20Reconstruction%20and%20stabilization.md) | Reconstruction and stabilization. |
 | [2734a.](%C2%A7%2002734a%20-%20Authorities%20related%20to%20personnel.md) | Authorities related to personnel. |
 
@@ -181,7 +181,7 @@
 - [&sect; 02678 - Reduction in earmarks if appropriations are less than authorizations](%C2%A7%2002678%20-%20Reduction%20in%20earmarks%20if%20appropriations%20are%20less%20than%20authorizations.md)
 - [&sect; 02679 - Maximum rates of per diem in lieu of subsistence payable to foreign participants in exchange of persons program or in program of&#8230;](%C2%A7%2002679%20-%20Maximum%20rates%20of%20per%20diem%20in%20lieu%20of%20subsistence%20payable%20to%20foreign%20participants%20in%20exchange%20of%20persons%20program%20or%20in%20program%20of%E2%80%A6.md)
 - [&sect; 02679a - Procurement contracts](%C2%A7%2002679a%20-%20Procurement%20contracts.md)
-- [&sect; 02679b - Prohibition against fraudulent use of &#8220;Made in America&#8221; labels](%C2%A7%2002679b%20-%20Prohibition%20against%20fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20labels.md)
+- [&sect; 02679b - Prohibition against fraudulent use of Made in America labels](%C2%A7%2002679b%20-%20Prohibition%20against%20fraudulent%20use%20of%20Made%20in%20America%20labels.md)
 - [&sect; 02679c - Prohibition on discriminatory contracts](%C2%A7%2002679c%20-%20Prohibition%20on%20discriminatory%20contracts.md)
 - [&sect; 02680 - Appropriations for State Department; information to congressional committees](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20congressional%20committees.md)
 - [&sect; 02680&#8211;1 - Deadline for responses to questions from congressional committees](%C2%A7%2002680%E2%80%931%20-%20Deadline%20for%20responses%20to%20questions%20from%20congressional%20committees.md)
@@ -228,7 +228,7 @@
 - [&sect; 02713 - Protection of historic and artistic furnishings of reception areas of the Harry S Truman Federal Building](%C2%A7%2002713%20-%20Protection%20of%20historic%20and%20artistic%20furnishings%20of%20reception%20areas%20of%20the%20Harry%20S%20Truman%20Federal%20Building.md)
 - [&sect; 02714 - Denial of passports to certain convicted drug traffickers](%C2%A7%2002714%20-%20Denial%20of%20passports%20to%20certain%20convicted%20drug%20traffickers.md)
 - [&sect; 02715 - Procedures regarding major disasters and incidents abroad affecting United States citizens](%C2%A7%2002715%20-%20Procedures%20regarding%20major%20disasters%20and%20incidents%20abroad%20affecting%20United%20States%20citizens.md)
-- [&sect; 02715a - Provision of information on certain violent crimes abroad to victims and victims&#8217; families](%C2%A7%2002715a%20-%20Provision%20of%20information%20on%20certain%20violent%20crimes%20abroad%20to%20victims%20and%20victims%E2%80%99%20families.md)
+- [&sect; 02715a - Provision of information on certain violent crimes abroad to victims and victims' families](%C2%A7%2002715a%20-%20Provision%20of%20information%20on%20certain%20violent%20crimes%20abroad%20to%20victims%20and%20victims%27%20families.md)
 - [&sect; 02715b - Notification of next of kin; reports of death](%C2%A7%2002715b%20-%20Notification%20of%20next%20of%20kin%3B%20reports%20of%20death.md)
 - [&sect; 02715c - Conservation and disposition of estates](%C2%A7%2002715c%20-%20Conservation%20and%20disposition%20of%20estates.md)
 - [&sect; 02716 - Debt collection](%C2%A7%2002716%20-%20Debt%20collection.md)
@@ -248,6 +248,6 @@
 - [&sect; 02730 - Prohibition on funding the involuntary return of refugees](%C2%A7%2002730%20-%20Prohibition%20on%20funding%20the%20involuntary%20return%20of%20refugees.md)
 - [&sect; 02731 - Monitoring and combating anti-Semitism](%C2%A7%2002731%20-%20Monitoring%20and%20combating%20anti-Semitism.md)
 - [&sect; 02732 - Public diplomacy responsibilities of the Department of State](%C2%A7%2002732%20-%20Public%20diplomacy%20responsibilities%20of%20the%20Department%20of%20State.md)
-- [&sect; 02733 - Reemployment of annuitants under the Civil Service Retirement System and Federal Employees&#8217; Retirement System](%C2%A7%2002733%20-%20Reemployment%20of%20annuitants%20under%20the%20Civil%20Service%20Retirement%20System%20and%20Federal%20Employees%E2%80%99%20Retirement%20System.md)
+- [&sect; 02733 - Reemployment of annuitants under the Civil Service Retirement System and Federal Employees' Retirement System](%C2%A7%2002733%20-%20Reemployment%20of%20annuitants%20under%20the%20Civil%20Service%20Retirement%20System%20and%20Federal%20Employees%27%20Retirement%20System.md)
 - [&sect; 02734 - Reconstruction and stabilization](%C2%A7%2002734%20-%20Reconstruction%20and%20stabilization.md)
 - [&sect; 02734a - Authorities related to personnel](%C2%A7%2002734a%20-%20Authorities%20related%20to%20personnel.md)

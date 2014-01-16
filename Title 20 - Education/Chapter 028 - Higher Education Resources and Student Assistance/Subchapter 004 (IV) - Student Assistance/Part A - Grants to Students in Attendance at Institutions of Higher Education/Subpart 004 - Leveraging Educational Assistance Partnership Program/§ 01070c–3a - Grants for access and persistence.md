@@ -12,7 +12,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;(2) provide need-based grants for access and persistence to eligible low-income students;
 
-&emsp;(3) provide early notification to low-income students of the students’ eligibility for financial aid; and
+&emsp;(3) provide early notification to low-income students of the students' eligibility for financial aid; and
 
 &emsp;(4) encourage increased participation in early information and intervention, mentoring, or outreach programs.
 
@@ -98,7 +98,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;(i) A description of the State's plan for using the allotted funds.
 
-&emsp;&emsp;&emsp;(ii) An assurance that the State will provide matching funds, in cash or in kind, from State, institutional, philanthropic, or private funds, of not less than 33.33 percent of the cost of carrying out the activities under subsection (d). The State shallspecify the methods by which matching funds will be paid. A State that uses non-Federal funds to create or expand partnerships with entities described in subsection (a)(1), in which such entities match State funds for student scholarships, may apply such matching funds from such entities toward fulfilling the State's matching obligation under this clause.
+&emsp;&emsp;&emsp;(ii) An assurance that the State will provide matching funds, in cash or in kind, from State, institutional, philanthropic, or private funds, of not less than 33.33 percent of the cost of carrying out the activities under subsection (d). The State shall specify the methods by which matching funds will be paid. A State that uses non-Federal funds to create or expand partnerships with entities described in subsection (a)(1), in which such entities match State funds for student scholarships, may apply such matching funds from such entities toward fulfilling the State's matching obligation under this clause.
 
 &emsp;&emsp;&emsp;(iii) An assurance that the State will use funds provided under this section to supplement, and not supplant, Federal and State funds available for carrying out the activities under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
@@ -182,7 +182,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (A) Establishment of partnership
 
-&emsp;&emsp;Each State receiving an allotment under this section shall use the funds to establisha partnership to award grants for access and persistence to eligible low-income students in order to increase the amount of financial assistance such students receive under this subpart for undergraduate education expenses.
+&emsp;&emsp;Each State receiving an allotment under this section shall use the funds to establish a partnership to award grants for access and persistence to eligible low-income students in order to increase the amount of financial assistance such students receive under this subpart for undergraduate education expenses.
 
 #### (B) Amount of grants
 
@@ -310,13 +310,13 @@ Another prior section 415E of Pub. L. 89–329 was classified to section 1070c�
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(1)(B). Pub. L. 111–39 substituted “Except as provided in clause (ii), if a” for “If a” in cl. (i), added cl. (ii), and redesignated former cl. (ii) as (iii).
+<b>2009</b>—Subsec. (b)(1)(B). Pub. L. 111–39 substituted "Except as provided in clause (ii), if a" for "If a" in cl. (i), added cl. (ii), and redesignated former cl. (ii) as (iii).
 
 <b>2008</b>—Pub. L. 110–315 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to a special leveraging educational assistance partnership program.
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(1) \[title III, §316(2)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by adding subsec. (c) and striking out former subsec. (c), was executed to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress. Prior to amendment, subsec. (c) listed the activities for which States receiving a grant under this section were authorized to use the grant funds.
 
-Subsecs. (f), (g). Pub. L. 106–554, §1(a)(1) \[title III, §316(3)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by adding subsecs. (f) and (g), was executed by adding subsecs. (f) and (g) to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress.
+Subsecs. (f), (g). Pub. L. 106–554, §1(a)(1) \[title III, §316(3)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by addingsubsecs. (f) and (g), was executed by adding subsecs. (f) and (g) to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress.
 
 #### Effective Date of 2009 Amendment
 
@@ -324,5 +324,5 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date
 
-Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244,set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 

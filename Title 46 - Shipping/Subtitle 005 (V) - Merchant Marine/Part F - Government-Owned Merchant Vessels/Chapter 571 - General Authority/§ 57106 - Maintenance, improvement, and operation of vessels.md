@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 46 App.:871.
 
-June 5, 1920, ch. 250, §12, 41 Stat. 993; June 6, 1924, ch. 273, §2, 43 Stat. 468; Feb. 11, 1927, ch. 104, §1 (last par. under heading “United States Shipping Board”), 44 Stat. 1083; Exec. Order No. 6166, §12, eff. June 10, 1933; June 29, 1936, ch. 858, title II, §204, title IX, §904, 49 Stat. 1987, 2016; Pub. L. 97–31, §12(43), Aug. 6, 1981, 95 Stat. 157.
+June 5, 1920, ch. 250, §12, 41 Stat. 993; June 6, 1924, ch. 273, §2, 43 Stat. 468; Feb. 11, 1927, ch. 104, §1 (last par. under heading "United States Shipping Board"), 44 Stat. 1083; Exec. Order No. 6166, §12, eff. June 10, 1933; June 29, 1936, ch. 858, title II, §204, title IX, §904, 49 Stat. 1987, 2016; Pub. L. 97–31, §12(43), Aug. 6, 1981, 95 Stat. 157.
 
 &nbsp;
 

@@ -44,15 +44,15 @@
 
 #### (d) Action to collect penalty
 
-If any person fails to comply with the determination or order of the Director imposing a civil money penalty under subsection (a) of thissection, after the determination or order is no longer subject to review as provided by subsections (b) and (c) of this section, the Director may request the Attorney General of the United States to bring an action in any appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's <sup>1</sup> determination or order imposing the penalty shall not be subject to review.
+If any person fails to comply with the determination or order of the Director imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (b) and (c) of this section, the Director may request the Attorney General of the United States to bring an action in any appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's <sup>1</sup> determination or order imposing the penalty shall not be subject to review.
 
 #### (e) Settlement by Director
 
 The Director may compromise, modify, or remit any civil money penalty which may be, or has been, imposed under this section.
 
-#### (f) “Knowingly” defined
+#### (f) "Knowingly" defined
 
-The term “knowingly” means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
+The term "knowingly" means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
 
 #### (g) Regulations
 
@@ -66,7 +66,7 @@ Civil money penalties collected under this section shall be paid to the Director
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Director” for “Secretary” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 
@@ -74,11 +74,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date
 
-Pub. L. 101–235, title I, §111(b), Dec. 15, 1989, 103 Stat. 2016, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
+Pub. L. 101–235, title I, §111(b), Dec. 15, 1989, 103 Stat. 2016, provided that: "The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
 
-&emsp;“(1) violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\]; and
+&emsp;"(1) violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\]; and
 
-&emsp;“(2) in the case of a continuing violation (as determined by the Secretary of Housing and Urban Development), any portion of violation referred to in the amendment that occurs on or after such date.”
+&emsp;"(2) in the case of a continuing violation (as determined by the Secretary of Housing and Urban Development), any portion of violation referred to in the amendment that occurs on or after such date."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Director's”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Director's".</i>
 

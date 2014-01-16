@@ -6,7 +6,7 @@ Federal recognition is hereby extended to the Tribe, and its members shall be el
 
 #### (b) Restoration of rights and privileges
 
-Except as provided in subscription <sup>1</sup> (c) of this section, all rights and privileges of the Tribe and of members of the Tribe under any Federal treaty, Executive order, agreement or statute, or under any other authority, which were diminished or lost under the Act of August 13, 1954 (25 U.S.C. 691, et seq.), are hereby restored and the provisions of that Act are inapplicable to the Tribe and to members of the Tribe on October 17, 1984.
+Except as provided in subscription <sup>1</sup> (c) of this section, all rights and privileges of the Tribeand of members of the Tribe under any Federal treaty, Executive order, agreement or statute, or under any other authority, which were diminished or lost under the Act of August 13, 1954 (25 U.S.C. 691, et seq.), are hereby restored and the provisions of that Act are inapplicable to the Tribe and to members of the Tribe on October 17, 1984.
 
 #### (c) Hunting, fishing, or trapping rights not granted or restored
 
@@ -24,7 +24,7 @@ Act approved August 13, 1954, referred to in subsec. (b), is act Aug. 13, 1954, 
 
 #### Codification
 
-In subsecs. (a) and (b), “on October 17, 1984,” the date of enactment of Pub. L. 98–481, substituted for “upon passage of this Act”.
+In subsecs. (a) and (b), "on October 17, 1984," the date of enactment of Pub. L. 98–481, substituted for "upon passage of this Act".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 \[None.\]
 
-The words “do not forfeit” are substituted for the words “lose no” for clarity.
+The words "do not forfeit" are substituted for the words "lose no" for clarity.
 
 #### Delegation of Functions
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority for Initiative.—The Secretary may carry out a program to be known as the “Armament Retooling and Manufacturing Support Initiative”.
+Authority for Initiative.—The Secretary may carry out a program to be known as the "Armament Retooling and Manufacturing Support Initiative".
 
 (b)
 
@@ -54,9 +54,9 @@ Program Support.—(1) Funds appropriated for purposes of the ARMS Initiative ma
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(3). Pub. L. 109–163 struck out “in manufacturing processes that are” after “having the skills”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–163 struck out "in manufacturing processes that are" after "having the skills".
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–178 substituted “Section 1302 of title 40” for “Section 321 of the Act of June 30, 1932 (40 U.S.C. 303b),”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–178 substituted "Section 1302 of title 40" for "Section 321 of the Act of June 30, 1932 (40 U.S.C. 303b),".
 
 #### Effective Date of 2003 Amendment
 

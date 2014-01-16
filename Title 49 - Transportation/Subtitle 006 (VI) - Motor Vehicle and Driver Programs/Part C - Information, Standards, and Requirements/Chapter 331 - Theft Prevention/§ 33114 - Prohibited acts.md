@@ -48,7 +48,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §610(a), (b); added Oct. 25, 198
 
 Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §610(c)(1); added Oct. 25, 1992, Pub. L. 102–519, §§305(b), 306(a), 106 Stat. 3396, 3397.
 
-In subsection (a)(1), the words “which is manufactured on or after the date the standard under section 2022 of this title takes effect under this subchapter for such vehicle or major replacement part” are omitted as obsolete because the standard applies to passenger motor vehicles and major replacement parts starting with the 1987 model year. See 50 Fed. Reg. 43166 (1985).
+In subsection (a)(1), the words "which is manufactured on or after the date the standard under section 2022 of this title takes effect under this subchapter for such vehicle or major replacement part" are omitted as obsolete because the standard applies to passenger motor vehicles and major replacement parts starting with the 1987 model year. See 50 Fed. Reg. 43166 (1985).
 
-In subsection (a)(5)(A), the words “of any kind” are omitted as unnecessary because of the definition of “chop shop” in section 33101 of the revised title.
+In subsection (a)(5)(A), the words "of any kind" are omitted as unnecessary because of the definition of "chop shop" in section 33101 of the revised title.
 

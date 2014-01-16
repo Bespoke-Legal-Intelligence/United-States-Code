@@ -12,15 +12,15 @@
 
 #### Prior Provisions
 
-A prior section 1317, act Aug. 14, 1935, ch. 531, title XI, §1117, as added July 30, 1965, Pub. L. 89–97, title IV, §405, 79 Stat. 420; amended Jan. 2, 1968, Pub. L. 90–248, title II, §§221(a)–(c), 241(c)(6), 81 Stat. 899, 917, related tomaintenance of State public assistance expenditures, prior to repeal by Pub. L. 90–248, title II, §221(d), Jan. 2, 1968, 81 Stat. 900, eff. July 1, 1968.
+A prior section 1317, act Aug. 14, 1935, ch. 531, title XI, §1117, as added July 30, 1965, Pub. L. 89–97, title IV, §405, 79 Stat. 420; amended Jan. 2, 1968, Pub. L. 90–248, title II, §§221(a)–(c), 241(c)(6), 81 Stat. 899, 917, related to maintenance of State public assistance expenditures, prior to repeal by Pub. L. 90–248, title II, §221(d), Jan. 2, 1968, 81 Stat. 900, eff. July 1, 1968.
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–173, §900(e)(1)(A)(i), substituted “Appointment of the Administrator and Chief Actuary of the Centers for Medicare \& Medicaid Services” for “Appointment of Administrator and Chief Actuary of Health Care Financing Administration” in section catchline.
+<b>2003</b>—Pub. L. 108–173, §900(e)(1)(A)(i), substituted "Appointment of the Administrator and Chief Actuary of the Centers for Medicare \& Medicaid Services" for "Appointment of Administrator and Chief Actuary of Health Care Financing Administration" in section catchline.
 
-Subsec. (a). Pub. L. 108–173, §900(e)(1)(A)(ii), substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+Subsec. (a). Pub. L. 108–173, §900(e)(1)(A)(ii), substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".
 
-Subsec. (b)(1). Pub. L. 108–173, §900(e)(1)(A)(iii), substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration” and “such Centers” for “such Administration”.
+Subsec. (b)(1). Pub. L. 108–173, §900(e)(1)(A)(iii), substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration" and "such Centers" for "such Administration".
 
 Subsec. (b)(3). Pub. L. 108–173, §900(c), added par. (3).
 
@@ -28,5 +28,5 @@ Subsec. (b)(3). Pub. L. 108–173, §900(c), added par. (3).
 
 #### Effective Date
 
-Pub. L. 98–369, div. B, title III, §2332(c), July 18, 1984, 98 Stat. 1089, provided that: “The amendments made by this section \[enacting this section and amending section 5315 of Title 5, Government Organization and Employees\] shall apply to appointments made after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2332(c), July 18, 1984, 98 Stat. 1089, provided that: "The amendments made bythis section \[enacting this section and amending section 5315 of Title 5, Government Organization and Employees\] shall apply to appointments made after the date of the enactment of this Act \[July 18, 1984\]."
 

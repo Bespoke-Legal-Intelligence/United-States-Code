@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall pay, in the case of an eligible individual whose death is determined to have resulted from a covered injury or injuries, a death benefit in the amount determined under paragraph (2) to the survivor or survivors in the same manner as death benefits are paid pursuant to the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) with respect to an eligible deceased (except that in the case of an eligible individual who is a minor with no living parent, the legal guardian shall be considered the survivor in the place of the parent).
+&emsp;The Secretary shall pay, in the case of an eligible individual whose death is determined to have resulted from a covered injury or injuries, a death benefit in the amount determined under paragraph (2) to the survivor or survivors in the same manner as death benefits are paid pursuant to the Public Safety Officers' Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) with respect to an eligible deceased (except that in the case of an eligible individual who is a minor with no living parent, the legal guardian shall be considered the survivor in the place of the parent).
 
 #### (2) Benefit amount
 
 #### (A) In general
 
-&emsp;&emsp;The amount of the death benefit under paragraph (1) in a fiscal year shall equal the amount of the comparable benefit calculated under the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) in such fiscal year, without regard to any reduction attributable to a limitation on appropriations, but subject to subparagraph (B).
+&emsp;&emsp;The amount of the death benefit under paragraph (1) in a fiscal year shall equal theamount of the comparable benefit calculated under the Public Safety Officers' Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) in such fiscal year, without regard to any reduction attributable to a limitation on appropriations, but subject to subparagraph (B).
 
 #### (B) Reduction for payments for lost employment income
 
@@ -22,13 +22,13 @@
 
 &emsp;&emsp;No benefit is payable under paragraph (1) with respect to the death of an eligible individual if—
 
-&emsp;&emsp;&emsp;(i) a disability benefit is paid with respect to such individual under the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.); or
+&emsp;&emsp;&emsp;(i) a disability benefit is paid with respect to such individual under the Public Safety Officers' Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.); or
 
-&emsp;&emsp;&emsp;(ii) a death benefit is paid or payable with respect to such individual under the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.).
+&emsp;&emsp;&emsp;(ii) a death benefit is paid or payable with respect to such individual under the Public Safety Officers' Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.).
 
 #### (B) Exception in the case of a limitation on appropriations for disability benefits under PSOB
 
-&emsp;&emsp;In the event that disability benefits available to an eligible individual under the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) are reduced because of a limitation on appropriations, and such reduction would affect the amount that would be payable under subparagraph (A) without regard to this subparagraph, benefits shall be available under paragraph (1) to the extent necessary to ensure that the survivor or survivors of such individual receives a total amount equal to the amount described in paragraph (2).
+&emsp;&emsp;In the event that disability benefits available to an eligible individual under the Public Safety Officers' Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) are reduced because of a limitation on appropriations, and such reduction would affect the amount that would be payable under subparagraph (A) without regard to this subparagraph, benefits shall be available under paragraph (1) to the extent necessary to ensure that the survivor or survivors of such individual receives a total amount equal to the amount described in paragraph (2).
 
 #### (b) Election in case of dependents
 
@@ -38,7 +38,7 @@
 
 #### (2) Amount of payments
 
-&emsp;Payments under paragraph (1) with respect to an eligible individual described in suchparagraph shall be made as if such individual were an eligible individual to whom compensation would be paid under subsection (a) of section 239d of this title, with the rate augmented in accordance with subsection (b)(2) of such section and with such individual considered to be an eligible individual described in subsection (c)(3)(B) of such section.
+&emsp;Payments under paragraph (1) with respect to an eligible individual described in such paragraph shall be made as if such individual were an eligible individual to whom compensation would be paid under subsection (a) of section 239d of this title, with the rate augmented in accordance with subsection (b)(2) of such section and with such individual considered to be an eligible individual described in subsection (c)(3)(B) of such section.
 
 #### (3) Limitations
 

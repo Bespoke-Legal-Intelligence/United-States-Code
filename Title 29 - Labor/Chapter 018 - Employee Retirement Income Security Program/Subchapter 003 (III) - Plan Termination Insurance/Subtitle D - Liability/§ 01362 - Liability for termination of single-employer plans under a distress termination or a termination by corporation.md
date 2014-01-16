@@ -18,7 +18,7 @@ In any case in which a single-employer plan is terminated in a distress terminat
 
 #### (B) Special rule in case of subsequent insufficiency
 
-&emsp;&emsp;For purposes of subparagraph (A), in any case described in section 1341(c)(3)(C)(ii) ofthis title, actuarial present values shall be determined as of the date of the notice to the corporation (or the finding by the corporation) described in such section.
+&emsp;&emsp;For purposes of subparagraph (A), in any case described in section 1341(c)(3)(C)(ii) of this title, actuarial present values shall be determined as of the date of the notice to the corporation (or the finding by the corporation) described in such section.
 
 #### (2) Payment of liability
 
@@ -38,7 +38,7 @@ In any case in which a single-employer plan is terminated in a distress terminat
 
 A person described in subsection (a) of this section shall be subject to liability under this subsection to the trustee appointed under subsection (b) or (c) of section 1342 of this title. The liability of such person under this subsection shall consist of—
 
-&emsp;(1) the sum of the shortfall amortization charge (within the meaning of section 1083(c)(1) of this title and 430(d)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the plan year in which the termination date occurs, plus the aggregate total of shortfall amortization installments (if any) determined for succeeding plan years under section 1083(c)(2) of this title and section 430(d)(2) of title 26 (which, for purposes of this subparagraph, shall include any increase in such sum which would result if all applications for waivers of the minimum funding standard under section 1082(c) of this title and section 412(c) of title 26 which are pending with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year), and
+&emsp;(1) the sum of the shortfall amortization charge (within the meaning of section 1083(c)(1) of this title and 430(d)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the planyear in which the termination date occurs, plus the aggregate total of shortfall amortization installments (if any) determined for succeeding plan years under section 1083(c)(2) of this title and section 430(d)(2) of title 26 (which, for purposes of this subparagraph, shall include any increase in such sum which would result if all applications for waivers of the minimum funding standard under section 1082(c) of this title and section 412(c) of title 26 which are pending with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year), and
 
 &emsp;(2) the sum of the waiver amortization charge (within the meaning of section 1083(e)(1) of this title and 430(e)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the plan year in which the termination date occurs, plus the aggregate total of waiver amortization installments (if any) determined for succeeding plan years under section 1083(e)(2) of this title and section 430(e)(2) of title 26,
 
@@ -70,7 +70,7 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 #### (2) Pre-tax profits
 
-&emsp;The term “pre-tax profits” means—
+&emsp;The term "pre-tax profits" means—
 
 &emsp;&emsp;(A) except as provided in subparagraph (B), for any fiscal year of any person, such person's consolidated net income (excluding any extraordinary charges to income and including any extraordinary credits to income) for such fiscal year, as shown on audited financial statements prepared in accordance with generally accepted accounting principles, or
 
@@ -88,47 +88,47 @@ If an employer ceases operations at a facility in any location and, as a result 
 
 <b>2006</b>—Subsec. (c)(1) to (3). Pub. L. 109–280 added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
 
-“(1) the outstanding balance of the accumulated funding deficiencies (within the meaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan (if any) (which, for purposes of this subparagraph, shall include the amount of any increase in such accumulated funding deficiencies of the plan which would result if all pending applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensions of the amortization period under section 1084 of this title or section 412(e) of title 26 with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year),
+"(1) the outstanding balance of the accumulated funding deficiencies (within the meaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan (if any) (which, for purposes of this subparagraph, shall include the amount of any increase in such accumulated funding deficiencies of the plan which would result if all pending applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensions of the amortization period under section 1084 of this title or section 412(e) of title 26 with respect to such plan were denied and if no additional contributions\(other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year),
 
-“(2) the outstanding balance of the amount of waived funding deficiencies of the plan waived before such date under section 1083 of this title or section 412(d) of title 26 (if any), and
+"(2) the outstanding balance of the amount of waived funding deficiencies of the plan waived before such date under section 1083 of this title or section 412(d) of title 26 (if any), and
 
-“(3) the outstanding balance of the amount of decreases in the minimum funding standard allowed before such date under section 1084 of this title or section 412(e) of title 26 (if any),”.
+"(3) the outstanding balance of the amount of decreases in the minimum funding standard allowed before such date under section 1084 of this title or section 412(e) of title 26 (if any),".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7881(f)(2), inserted “and” at end of par. (1), redesignated par. (3) as (2), substituted “subsection (c)” for “subsection (d)”, and struck out former par. (2) which read as follows: “liability to the trust established pursuant to section 1341(c)(3)(B)(ii) or (iii) of this title or section 1342(i) of this title, to the extent provided in subsection (c) of this section, and”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7881(f)(2), inserted "and" at end of par. (1), redesignated par. (3) as (2), substituted "subsection (c)" for "subsection (d)", and struck out former par. (2) which read as follows: "liability to the trust established pursuant to section 1341(c)(3)(B)(ii) or (iii) of this title or section 1342(i) of this title, to the extent provided in subsection (c) of this section, and".
 
-Subsec. (b)(2)(B). Pub. L. 101–239, §7881(f)(10)(A), substituted “so much of the liability under paragraph (1)(A) as exceeds 30 percent of the collective net worth of all persons described in subsection (a) of this section (including interest)” for “the liability under paragraph (1)(A)(ii)”.
+Subsec. (b)(2)(B). Pub. L. 101–239, §7881(f)(10)(A), substituted "so much of the liability under paragraph (1)(A) as exceeds 30 percent of the collective net worth of all persons described in subsection (a) of this section (including interest)" for "the liability under paragraph (1)(A)(ii)".
 
-Subsecs. (c)(1), (d)(2)(B). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsecs. (c)(1), (d)(2)(B). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Subsec. (d)(3). Pub. L. 101–239, §7881(f)(10)(B), amended Pub. L. 100–203, §9312(b)(2)(B)(ii), see 1987 Amendment note below.
 
-<b>1987</b>—Subsec. (b)(1)(A). Pub. L. 100–203, §9312(b)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B), the liability to the corporation of a person described in subsection (a) of this section shall consist of the sum of—
+<b>1987</b>—Subsec. (b)(1)(A). Pub. L. 100–203, §9312(b)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Except as provided in subparagraph (B), the liability to the corporation of a person described in subsection (a) of this section shall consist of the sum of—
 
-&emsp;“(i) the lesser of—
+&emsp;"(i) the lesser of—
 
-&emsp;&emsp;“(I) the total amount of unfunded guaranteed benefits (as of the termination date) of all participants and beneficiaries under the plan, or
+&emsp;&emsp;"(I) the total amount of unfunded guaranteed benefits (as of the termination date) of all participants and beneficiaries under the plan, or
 
-&emsp;&emsp;“(II) 30 percent of the collective net worth of all persons described in subsection (a) of this section,
+&emsp;&emsp;"(II) 30 percent of the collective net worth of all persons described in subsection (a) of this section,
 
 > &emsp;and
 
-&emsp;“(ii) the excess (if any) of—
+&emsp;"(ii) the excess (if any) of—
 
-&emsp;&emsp;“(I) 75 percent of the amount described in clause (i)(I), over
+&emsp;&emsp;"(I) 75 percent of the amount described in clause (i)(I), over
 
-&emsp;&emsp;“(II) the amount described in clause (i)(II),
+&emsp;&emsp;"(II) the amount described in clause (i)(II),
 
-> together with interest (at a reasonable rate) calculated from the termination date in accordance with regulations prescribed by the corporation.”
+> together with interest (at a reasonable rate) calculated from the termination date in accordance with regulations prescribed by the corporation."
 
 Subsec. (c). Pub. L. 100–203, §9312(b)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to liability to section 1349 trust.
 
 Subsec. (d). Pub. L. 100–203, §9312(b)(1)(B), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (d)(3). Pub. L. 100–203, §9312(b)(2)(B)(ii), as amended by Pub. L. 101–239, §7881(f)(10)(B), struck out par. (3) which read as follows: “The liability payment years in connection with a terminated plan consist of the consecutive one-year periods following the last plan year preceding the termination date, excluding the first such year in any case in which the first such year ends less than 180 days after the termination date.”
+Subsec. (d)(3). Pub. L. 100–203, §9312(b)(2)(B)(ii), as amended by Pub. L. 101–239, §7881(f)(10)(B), struck out par. (3) which read as follows: "The liability payment years in connection with a terminated plan consist of the consecutive one-year periods following the last plan year preceding the termination date, excluding the first such year in any case in which the first such year ends less than 180 days after the termination date."
 
 Subsecs. (e), (f). Pub. L. 100–203, §9312(b)(1)(B), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-<b>1986</b>—Pub. L. 99–272, §11011(a)(2), substituted “Liability for termination of single-employer plans under a distress termination or a termination by the corporation” for “Liability of employer” in section catchline.
+<b>1986</b>—Pub. L. 99–272, §11011(a)(2), substituted "Liability for termination of single-employer plans under a distress termination or a termination by the corporation" for "Liability of employer" in section catchline.
 
 Subsec. (a). Pub. L. 99–272, §11011(a)(2), added subsec. (a) specifying persons liable and the nature and extent of liability and struck out former subsec. (a) specifying employers covered.
 
@@ -140,11 +140,11 @@ Subsec. (d). Pub. L. 99–272, §11011(a)(2), added subsec. (d) relating to liab
 
 Subsec. (e). Pub. L. 99–272, §11011(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-Subsec. (f). Pub. L. 99–272, §11011(a)(1), (b), redesignated former subsec. (e) as (f), and substituted in heading “Treatment of substantial cessation of operations” for “Cessation of operations at one facility”.
+Subsec. (f). Pub. L. 99–272, §11011(a)(1), (b), redesignated former subsec. (e) as (f), and substituted in heading "Treatment of substantial cessation of operations" for "Cessation of operations at one facility".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–364 substituted “single-employee plan” for “plan (other than a multiemployer plan)”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364 substituted "single-employee plan" for "plan (other than a multiemployer plan)".
 
-<b>1978</b>—Subsec. (c)(2). Pub. L. 95–598 substituted “title 11” and “a debtor in a case under chapter 7 of suchtitle” for “the Bankruptcy Act” and “the subject of a proceeding under that Act”, respectively.
+<b>1978</b>—Subsec. (c)(2). Pub. L. 95–598 substituted "title 11" and "a debtor in a case under chapter 7 of such title" for "the Bankruptcy Act" and "the subject of a proceeding under that Act", respectively.
 
 #### Effective Date of 2006 Amendment
 
@@ -178,7 +178,7 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Special Delayed Payment Rule
 
-Pub. L. 99–272, title XI, §11012(d), Apr. 7, 1986, 100 Stat. 260, provided that: “In the case of a distress termination under section 4041(c) of the Employee Retirement Income Security Act of 1974 (as amended by section 11009) \[29 U.S.C. 1341(c)\] pursuant to a notice of intent to terminate filed before January 1, 1987, no payment of liability otherwise payable as provided in section 4062(c)(2)(B) of such Act \[former 29 U.S.C. 1362(c)(2)(B)\] (as amended by this section \[Act\]) shall be required to be made before January 1, 1989.”
+Pub. L. 99–272, title XI, §11012(d), Apr. 7, 1986, 100 Stat. 260, provided that: "In the case of a distress termination under section 4041(c) of the Employee Retirement Income Security Act of 1974 (as amended by section 11009) \[29 U.S.C. 1341(c)\] pursuant to a notice of intent to terminate filed before January 1, 1987, no payment of liability otherwise payable as provided in section 4062(c)(2)(B) of such Act \[former 29 U.S.C. 1362(c)(2)(B)\] (as amended by this section \[Act\]) shall be required to be made before January 1, 1989."
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

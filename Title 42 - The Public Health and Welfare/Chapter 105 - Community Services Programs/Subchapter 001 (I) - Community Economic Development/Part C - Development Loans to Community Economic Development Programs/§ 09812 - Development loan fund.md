@@ -2,7 +2,7 @@
 
 #### (a) Authorities, scope, and purposes; conditions; interest rate; repayment
 
-The Secretary is authorized to make or guarantee loans (either directly or in cooperation with banks or other organizations through agreements to participate on an immediate or deferred basis) to community development corporations, to families and local cooperatives and the designated supportive organizations of cooperatives eligible for financial assistance under this subchapter, to private nonprofit organizations receiving assistance under chapter 106 of this title, or to public and private nonprofit organizations or agencies, for business facilities and community development projects, including community development credit unions, which the Secretary determines will carry out the purposes of this part. No loans, guarantees, or otherfinancial assistance shall be provided under this section unless the Secretary determines that—
+The Secretary is authorized to make or guarantee loans (either directly or in cooperation with banks or other organizations through agreements to participate on an immediate or deferred basis) to community development corporations, to families and local cooperatives and the designated supportive organizations of cooperatives eligible for financial assistance under this subchapter, to private nonprofit organizations receiving assistance under chapter 106 of this title, or to public and private nonprofit organizations or agencies, for business facilities and community development projects, including community development credit unions, which the Secretary determines will carry out the purposes of this part. No loans, guarantees, or other financial assistance shall be provided under this section unless the Secretary determines that—
 
 &emsp;(1) there is reasonable assurance of repayment of the loan;
 
@@ -22,19 +22,19 @@ The Secretary is authorized to adjust interest rates, grant moratoriums on repay
 
 (2) The Rural Development Loan Fund shall consist of the remaining funds provided for in part A of title III of the Economic Opportunity Act of 1964 \[42 U.S.C. 2841 et seq.\], as in effect on September 19, 1972, and such amounts as may be deposited in such fund by the Secretary out of funds made available from appropriations for purposes of carrying out this part. The Secretary shall utilize the services of the Farmers Home Administration,<sup>1</sup> or the Rural Development Administration in administering such fund.
 
-(3) The Community Development Loan Fund shall consist of such amounts as may be deposited in such fund by the Secretary out of funds made available from appropriations for purposes of carrying out this subchapter. The Secretary may make deposits in the Community Development Loan Fund in any fiscal year in which the Secretary has made available for grants to community development corporations under this subchapter not less than $60,000,000 out of funds made available from appropriations for purposes of carrying out this subchapter.
+(3) The Community Development Loan Fund shall consist of such amounts as may be deposited in such fund by the Secretary out of funds made available from appropriations for purposes of carrying out this subchapter. The Secretarymay make deposits in the Community Development Loan Fund in any fiscal year in which the Secretary has made available for grants to community development corporations under this subchapter not less than $60,000,000 out of funds made available from appropriations for purposes of carrying out this subchapter.
 
 (Pub. L. 97–35, title VI, §623, Aug. 13, 1981, 95 Stat. 494; Pub. L. 101–624, title XXIII, §2303(f)(1), Nov. 28, 1990, 104 Stat. 3981.)
 
 #### References in Text
 
-Chapter 106 of this title, referred to in subsec. (a), was in the original “subtitle B of this title”, meaning subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
+Chapter 106 of this title, referred to in subsec. (a), was in the original "subtitle B of this title", meaning subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
 The Economic Opportunity Act of 1964, referred to in subsec. (c)(2), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Part A of title III of the Economic Opportunity Act of 1964 was classified generally to part A (§2841 et seq.) of subchapter III of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (c)(2). Pub. L. 101–624 inserted “, or the Rural Development Administration” after “Farmers Home Administration”.
+<b>1990</b>—Subsec. (c)(2). Pub. L. 101–624 inserted ", or the Rural Development Administration" after "Farmers Home Administration".
 
 #### Transfer of Functions
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Mandatory Retirement.—Upon the termination of the detail of an officer to the position of Superintendent of the United States Military Academy, the Secretary of the Army shall retirethe officer under any provision of this chapter under which that officer is eligible to retire.
+Mandatory Retirement.—Upon the termination of the detail of an officer to the position of Superintendent of the United States Military Academy, the Secretary of the Army shall retire the officer under any provision of this chapter under which that officer is eligible to retire.
 
 (b)
 
@@ -16,9 +16,9 @@ A prior section 3921, acts Aug. 10, 1956, ch. 1041, 70A Stat. 226; Nov. 2, 1966,
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–375 inserted “; waiver authority” at end of section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2004</b>—Pub. L. 108–375 inserted "; waiver authority" at end of section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Application of Section to Superintendents Serving on October 5, 1999
 
-Pub. L. 106–65, div. A, title V, §532(a)(5), Oct. 5, 1999, 113 Stat. 604, provided that: “The amendments made by this subsection \[enacting this section and sections 4333a, 6371, 6951a, 8921, and 9333a of this title\] shall not apply to an officer serving on the date of the enactment of this Act \[Oct. 5, 1999\] in the position of Superintendent of the United States Military Academy, Superintendent of the United States Naval Academy, or Superintendent of the United States Air Force Academy for so long as that officer continues on and after that date to serve in that position without a break in service.”
+Pub. L. 106–65, div. A, title V, §532(a)(5), Oct. 5, 1999, 113 Stat. 604, provided that: "The amendments made by this subsection \[enacting this section and sections 4333a, 6371, 6951a, 8921, and 9333a of this title\] shall not apply to an officer serving on the date of the enactment of this Act \[Oct. 5, 1999\] in the position of Superintendent of the United States Military Academy, Superintendent of the United States Naval Academy, or Superintendent of the United States Air Force Academy for so long as that officer continues on and after that date to serve in that position without a break in service."
 

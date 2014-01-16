@@ -48,15 +48,15 @@ The changes correct typographical errors.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–201 substituted “a member described in section 1201(c) of this title” for “a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days,”.
+<b>1996</b>—Pub. L. 104–201 substituted "a member described in section 1201(c) of this title" for "a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days,".
 
-<b>1994</b>—Pub. L. 103–337 substituted “10148(a)” for “270(b)”.
+<b>1994</b>—Pub. L. 103–337 substituted "10148(a)" for "270(b)".
 
-<b>1985</b>—Pub. L. 99–145 inserted “and stable” after “determined to be of a permanent nature”.
+<b>1985</b>—Pub. L. 99–145 inserted "and stable" after "determined to be of a permanent nature".
 
-<b>1962</b>—Pub. L. 87–651 substituted “training under section 270(b) of this title)” for “training) under section 270(b) of this title”.
+<b>1962</b>—Pub. L. 87–651 substituted "training under section 270(b) of this title)" for "training) under section 270(b) of this title".
 
-<b>1958</b>—Pub. L. 85–861 inserted “under section 270(b) of this title” after “(other than for training)”.
+<b>1958</b>—Pub. L. 85–861 inserted "under section 270(b) of this title" after "(other than for training)".
 
 #### Effective Date of 1996 Amendment
 

@@ -76,7 +76,7 @@
 
 #### (A) Covered grant
 
-&emsp;&emsp;In this paragraph, the term “covered grant” means a grant—
+&emsp;&emsp;In this paragraph, the term "covered grant" means a grant—
 
 &emsp;&emsp;&emsp;(i) that was awarded under sections 7112, 7113, 7114, or 7115 (as such sections were in effect on the day before January 8, 2002); and
 
@@ -112,7 +112,7 @@ In awarding grants under this section, the Secretary shall give priority to an a
 
 #### (d) Eligible entities
 
-In this section, the term “eligible entity” means—
+In this section, the term "eligible entity" means—
 
 &emsp;(1) one or more local educational agencies; or
 
@@ -124,5 +124,5 @@ In this section, the term “eligible entity” means—
 
 The Higher Education Act of 1965, referred to in subsec. (a)(2)(D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-Sections 7112, 7113, 7114, and 7115 (as such sections were in effect on the day before January 8, 2002), referred to in subsec. (b)(1)(A)(i), means sections 7112, 7113, 7114, and 7115 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3719–3722, which were classified to sections 7422, 7423, 7424, and 7425 of this title, respectively, prior to the general amendment of title VII of this chapter by Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1907.
+Sections 7112, 7113, 7114, and 7115 (as such sections were in effect on the day before January 8, 2002), referred to in subsec. (b)(1)(A)(i), means sections 7112, 7113, 7114, and 7115 of Pub. L. 89–10, as added by Pub. L.103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3719–3722, which were classified to sections 7422, 7423, 7424, and 7425 of this title, respectively, prior to the general amendment of title VII of this chapter by Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1907.
 

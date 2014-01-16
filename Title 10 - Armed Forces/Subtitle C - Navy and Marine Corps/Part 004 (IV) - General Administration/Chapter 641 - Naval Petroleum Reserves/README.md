@@ -27,23 +27,23 @@
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–398, §1 \[div. C, title XXXIV, §3402(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, struck out item 7426 “Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1”.
+<b>2000</b>—Pub. L. 106–398, §1 \[div. C, title XXXIV, §3402(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, struck out item 7426 "Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1".
 
 <b>1997</b>—Pub. L. 105–85, div. C, title XXXIV, §3404(b), Nov. 18, 1997, 111 Stat. 2061, added item 7439.
 
-<b>1996</b>—Pub. L. 104–201, div. A, title X, §1074(a)(19), Sept. 23, 1996, 110 Stat. 2660, struck out item 7434 “Annual report to congressional committees”.
+<b>1996</b>—Pub. L. 104–201, div. A, title X, §1074(a)(19), Sept. 23, 1996, 110 Stat. 2660, struck out item 7434 "Annual report to congressional committees".
 
-Pub. L. 104–106, div. A, title XV, §§1502(a)(28)(B), 1503(b)(4), Feb. 10, 1996, 110 Stat. 506, 513, substituted “Agreements” for “Agreement” in item 7428 and “congressional committees” for “Armed Services Committees” in item 7434.
+Pub. L. 104–106, div. A, title XV, §§1502(a)(28)(B), 1503(b)(4), Feb. 10, 1996, 110 Stat. 506, 513, substituted "Agreements" for "Agreement" in item 7428 and "congressional committees" for "Armed Services Committees" in item 7434.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title XIII, §1331(9), Nov. 5, 1990, 104 Stat. 1673, amended item 7434 generally, substituting “Annual report” for “Quarterly reports”.
+<b>1990</b>—Pub. L. 101–510, div. A, title XIII, §1331(9), Nov. 5, 1990, 104 Stat. 1673, amended item 7434 generally, substituting "Annual report" for "Quarterly reports".
 
-<b>1980</b>—Pub. L. 96–513, title V, §513(32)(C), Dec. 12, 1980, 94 Stat. 2933, substituted “Naval Petroleum Reserve Numbered” for “naval petroleum reserve numbered” in item 7426.
+<b>1980</b>—Pub. L. 96–513, title V, §513(32)(C), Dec. 12, 1980, 94 Stat. 2933, substituted "Naval Petroleum Reserve Numbered" for "naval petroleum reserve numbered" in item 7426.
 
-<b>1979</b>—Pub. L. 96–137, §3(b)(2), Dec. 12, 1979, 93 Stat. 1062, substituted “Authorizations of appropriations” for “Naval petroleum reserve special account” in item 7432.
+<b>1979</b>—Pub. L. 96–137, §3(b)(2), Dec. 12, 1979, 93 Stat. 1062, substituted "Authorizations of appropriations" for "Naval petroleum reserve special account" in item 7432.
 
-<b>1976</b>—Pub. L. 94–258, title II, §201(20), Apr. 5, 1976, 90 Stat. 313, added item 7420 and substituted “Naval petroleum reserve special account” for “Expenditures; appropriations chargeable” in item 7432.
+<b>1976</b>—Pub. L. 94–258, title II, §201(20), Apr. 5, 1976, 90 Stat. 313, added item 7420 and substituted "Naval petroleum reserve special account" for "Expenditures; appropriations chargeable" in item 7432.
 
-<b>1962</b>—Pub. L. 87–796, §1(13), Oct. 11, 1962, 76 Stat. 906, substituted “Rifle, Colorado, plant; possession, use, andtransfer of” for “Exclusion of naval oil shale reserves” in item 7438.
+<b>1962</b>—Pub. L. 87–796, §1(13), Oct. 11, 1962, 76 Stat. 906, substituted "Rifle, Colorado, plant; possession, use, and transfer of" for "Exclusion of naval oil shale reserves" in item 7438.
 
 
 ---

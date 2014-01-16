@@ -2,7 +2,7 @@
 
 #### (a) Submission of proposed projects to obligate funds
 
-By September 30, 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year through fiscal year 2012, a resource advisory committee shall submit to the Secretary concerned pursuant to section 7123(a)(1) of this title a sufficient number of project proposals that, if approved, would result in the obligation of at least the full amount of the project funds reserved by the participating county in the preceding fiscal year.
+By September 30, 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year through fiscal year 2013, a resource advisory committee shall submit to the Secretary concerned pursuant to section 7123(a)(1) of this title a sufficient number of project proposals that, if approved, would result in the obligation of at least the full amount of the project funds reserved by the participating county in the preceding fiscal year.
 
 #### (b) Use or transfer of unobligated funds
 
@@ -22,11 +22,11 @@ Subject to section 7128 of this title, any project funds reserved by a participa
 
 &emsp;The returned funds shall be available for the county to expend in the same manner as the funds reserved by the county under subparagraph (B) or (C)(i) of section 7112(d)(1) of this title.
 
-(Pub. L. 106–393, title II, §207, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3908; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), July 6, 2012, 126 Stat. 905.)
+(Pub. L. 106–393, title II, §207, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3908; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, §10(a)(2)(D), Oct. 2, 2013, 127 Stat. 545.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, known as the Secure Rural Schools and Community Self-Determination Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in subsec. (d)(1), was in the original "this Act", meaning Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, known as the Secure Rural Schools and Community Self-Determination Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Prior Provisions
 
@@ -34,5 +34,7 @@ A prior section 207 of Pub. L. 106–393 was set out in a note under section 500
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141 substituted “2012” for “2011”.
+<b>2013</b>—Subsec. (a). Pub. L. 113–40 substituted "2013" for "2012".
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141 substituted "2012" for "2011".
 

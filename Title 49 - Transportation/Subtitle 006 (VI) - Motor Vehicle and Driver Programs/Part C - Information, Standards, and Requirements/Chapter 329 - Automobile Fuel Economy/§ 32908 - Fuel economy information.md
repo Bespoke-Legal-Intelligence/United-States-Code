@@ -4,9 +4,9 @@
 
 Definitions.—In this section—
 
-&emsp;(1) “automobile” includes an automobile rated at not more than 8,500 pounds gross vehicle weight regardless of whether the Secretary of Transportation has applied this chapter to the automobile under section 32901(a)(3)(B) of this title.
+&emsp;(1) "automobile" includes an automobile rated at not more than 8,500 pounds gross vehicle weight regardless of whether the Secretary of Transportation has applied this chapter to the automobile under section 32901(a)(3)(B) of this title.
 
-&emsp;(2) “dealer” means a person residing or located in a State, the District of Columbia, or a territory or possession of the United States, and engaged in the sale or distribution of new automobiles to the first person (except a dealer buying as a dealer) that buys the automobile in good faith other than for resale.
+&emsp;(2) "dealer" means a person residing or located in a State, the District of Columbia, or a territory or possession of the United States, and engaged in the sale or distribution of new automobiles to the first person (except a dealer buying as a dealer) that buys the automobile in good faith other than for resale.
 
 (b)
 
@@ -194,21 +194,21 @@ Oct. 14, 1988, Pub. L. 100–494, §8(b), 102 Stat. 2453.
 
 In this section, references to the Secretary of Energy are substituted for references to the Administrator of the Federal Energy Administration because of 42:7151.
 
-In subsection (a)(1), the words “regardless of whether the Secretary of Transportation has applied this chapter to the automobile” are substituted for “notwithstanding any lack of determination required of the Secretary” for consistency with section 32901(b) of the revised title.
+In subsection (a)(1), the words "regardless of whether the Secretary of Transportation has applied this chapter to the automobile" are substituted for "notwithstanding any lack of determination required of the Secretary" for consistency with section 32901(b) of the revised title.
 
-In subsection (a)(2), the words “means a person residing or located in a State, the District of Columbia, or a territory or possession of the United States, and engaged in the sale or distribution of new automobiles to the first person (except a dealer buying as a dealer) that buys the automobile in good faith other than for resale” are substituted for “has the same meaning as such term has in section 2(e) of the Automobile Information Disclosure Act (15 U.S.C. 1231(e))” to include the words of 15:1231(e) and (g) in the subsection for clarity. The words “territory or possession” are substituted for “Territory” for consistency in the revised title and with other titles of the United States Code. The words “except that in applying such term to this section, the term ‘automobile’ has the same meaning as such term has in section 2001(1) of this title (taking into account paragraph (3) of this subsection)” are omitted as surplus.
+In subsection (a)(2), the words "means a person residing or located in a State, the District of Columbia, or a territory or possession of the United States, and engaged in the sale or distribution of new automobiles to the first person (except a dealer buying as a dealer) that buys the automobile in good faith other than for resale" are substituted for "has the same meaning as such term has in section 2(e) of the Automobile Information Disclosure Act (15 U.S.C. 1231(e))" to include the words of 15:1231(e) and (g) in the subsection for clarity. The words "territory or possession" are substituted for "Territory" for consistency in the revised title and with other titles of the United States Code. The words "except that in applying such term to this section, the term 'automobile' has the same meaning as such term has in section 2001(1) of this title (taking into account paragraph (3) of this subsection)" are omitted as surplus.
 
-In subsection (b)(1), before clause (A), the text of 15:2006(a)(2) is omitted as executed. The words “Except as otherwise provided in paragraph (2)” are omitted as surplus because 15:2006(a)(2) is executed and is not part of the revised title. The words “Under regulations of the Administrator of the Environmental Protection Agency” are substituted for “as determined in accordance with rules of the EPA Administrator” and the text of 15:2006(a)(3) (1st, 2d sentences) to eliminate unnecessary words, for consistency in the revised title, and because “rules” is synonymous with “regulations”. The word “attach” is substituted for “cause to be affixed”, to eliminate unnecessary words. The words “after model year 1976” are omitted as executed. The words “The label shall contain the following information” are substituted for “indicating” and “containing” for clarity. In clause (C), the words “of all manufacturers” are substituted for “(whether or not manufactured by such manufacturer)” to eliminate unnecessary words. In clause (D), the words “a booklet is available from the dealer to assist in making a comparison of fuel economy of other automobiles manufactured by all manufacturers in that model year” are substituted for “written information (as described in subsection (b)(1) of this section) with respect to the fuel economy of other automobiles manufactured in such model year (whether or not manufactured by such manufacturer) is available from the dealer in order to facilitate comparison among the various model types” to eliminate unnecessary words. In clause (E), the words “automobile fuel efficiency tax imposed on the sale of the automobile under section 4064 of the Internal Revenue Code of 1986 (26 U.S.C. 4064)” are substituted for “in the case of any automobile, the sale of which is subject to any Federal tax imposed with respect to automobile fuel efficiency, a statement indicating the amount of such tax” for clarity.
+In subsection (b)(1), before clause (A), the text of 15:2006(a)(2) is omitted as executed. The words "Except as otherwise provided in paragraph (2)" are omitted as surplus because 15:2006(a)(2) is executed and is not part of the revised title. The words "Under regulations of the Administrator of the Environmental Protection Agency" are substituted for "as determined in accordance with rules of the EPA Administrator" and the text of 15:2006(a)(3) (1st, 2d sentences) to eliminate unnecessary words, for consistency in the revised title, and because "rules" is synonymous with "regulations". The word "attach" is substituted for "cause to be affixed", to eliminate unnecessary words. The words "after model year 1976" are omitted as executed. The words "The label shall contain the following information" are substituted for "indicating" and "containing" for clarity. In clause (C), the words "of all manufacturers" are substituted for "(whether or not manufactured by such manufacturer)" to eliminate unnecessary words. In clause (D), the words "a booklet is available from the dealer to assist in making a comparison of fuel economy of other automobiles manufactured by all manufacturers in that model year" are substituted for "written information (as described in subsection (b)(1) of this section) with respect to the fuel economy of other automobiles manufactured in such model year (whether or not manufactured by such manufacturer) is available from the dealer in order to facilitate comparison among the various model types" to eliminate unnecessary words. In clause (E), the words "automobile fuel efficiency tax imposed on the sale of the automobile under section 4064 of the Internal Revenue Code of 1986 (26 U.S.C. 4064)" are substituted for "in the case of any automobile, the sale of which is subject to any Federal tax imposed with respect to automobile fuel efficiency, a statement indicating the amount of such tax" for clarity.
 
-In subsection (b)(3)(D), the words “Secretary of Energy” are substituted for “Department of Energy” because of 42:7131.
+In subsection (b)(3)(D), the words "Secretary of Energy" are substituted for "Department of Energy" because of 42:7131.
 
-In subsection (c)(1), before clause (A), the words “compile and” are omitted as surplus.
+In subsection (c)(1), before clause (A), the words "compile and" are omitted as surplus.
 
-In subsection (c)(3), the words “not later than July 31, 1976” are omitted as executed. The words “make the booklet available to prospective buyers” are substituted for “make available to prospective purchasers information compiled by the EPA Administrator under paragraph (1)” to eliminate unnecessary words.
+In subsection (c)(3), the words "not later than July 31, 1976" are omitted as executed. The words "make the booklet available to prospective buyers" are substituted for "make available to prospective purchasers information compiled by the EPA Administrator under paragraph (1)" to eliminate unnecessary words.
 
-In subsection (d), the words “which is required to be made”, “an express or implied”, and “that such fuel economy will be achieved, or that such cost will not be exceeded, under conditions of actual use” are omitted as surplus.
+In subsection (d), the words "which is required to be made", "an express or implied", and "that such fuel economy will be achieved, or that such cost will not be exceeded, under conditions of actual use" are omitted as surplus.
 
-In subsection (f), the words “his duties under” are omitted as surplus.
+In subsection (f), the words "his duties under" are omitted as surplus.
 
 #### Pub. L. 103–429
 
@@ -216,7 +216,7 @@ This amends 49:32908(b)(1) to clarify the restatement of 15:2006(a)(1) by sectio
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717,as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 The date of the enactment of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (g)(1)(A)(i), (4), is the date of enactment of subtitle A (§§101–113) of title I of Pub. L. 110–140, which was approved Dec. 19, 2007.
 
@@ -226,7 +226,7 @@ Subsection (h) of section 32905 of this title, referred to in subsec. (g)(3), wa
 
 <b>2007</b>—Subsec. (g). Pub. L. 110–140 added subsec. (g).
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–429 inserted “on the automobile” after “maintain the label” in introductory provisions.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–429 inserted "on the automobile" after "maintain the label" in introductory provisions.
 
 #### Effective Date of 2007 Amendment
 
@@ -234,11 +234,11 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Periodic Review of Accuracy of Fuel Economy Labeling Procedures
 
-Pub. L. 110–140, title I, §110, Dec. 19, 2007, 121 Stat. 1506, provided that: “Beginning in December 2009, and not less often than every 5 years thereafter, the Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall—
+Pub. L. 110–140, title I, §110, Dec. 19, 2007, 121 Stat. 1506, provided that: "Beginning in December 2009, and not less often than every 5 years thereafter, the Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall—
 
-&emsp;“(1) reevaluate the fuel economy labeling procedures described in the final rule published in the Federal Register on December 27, 2006 (71 Fed. Reg. 77,872; 40 CFR parts 86 and 600) to determine whether changes in the factors used to establish the labeling procedures warrant a revision of that process; and
+&emsp;"(1) reevaluate the fuel economy labeling procedures described in the final rule published in the Federal Register on December 27, 2006 (71 Fed. Reg. 77,872; 40 CFR parts 86 and 600) to determine whether changes in the factors used to establish the labeling procedures warrant a revision of that process; and
 
-&emsp;“(2) submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives that describes the results of the reevaluation process.”
+&emsp;"(2) submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives that describes the results of the reevaluation process."
 
 #### Effective Date of 1994 Amendment
 

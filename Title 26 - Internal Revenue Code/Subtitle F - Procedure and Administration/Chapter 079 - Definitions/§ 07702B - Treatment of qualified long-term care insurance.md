@@ -20,11 +20,11 @@ For purposes of this title—
 
 #### (1) In general
 
-&emsp;The term “qualified long-term care insurance contract” means any insurance contract if—
+&emsp;The term "qualified long-term care insurance contract" means any insurance contract if—
 
 &emsp;&emsp;(A) the only insurance protection provided under such contract is coverage of qualified long-term care services,
 
-&emsp;&emsp;(B) such contract does not pay or reimburse expenses incurred for services or itemsto the extent that such expenses are reimbursable under title XVIII of the Social Security Act or would be so reimbursable but for the application of a deductible or coinsurance amount,
+&emsp;&emsp;(B) such contract does not pay or reimburse expenses incurred for services or items to the extent that such expenses are reimbursable under title XVIII of the Social Security Act or would be so reimbursable but for the application of a deductible or coinsurance amount,
 
 &emsp;&emsp;(C) such contract is guaranteed renewable,
 
@@ -62,7 +62,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified long-term care services” means necessary diagnostic, preventive, therapeutic, curing, treating, mitigating, and rehabilitative services, and maintenance or personal care services, which—
+&emsp;The term "qualified long-term care services" means necessary diagnostic, preventive, therapeutic, curing, treating, mitigating, and rehabilitative services, and maintenance or personal care services, which—
 
 &emsp;&emsp;(A) are required by a chronically ill individual, and
 
@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “chronically ill individual” means any individual who has been certified by a licensed health care practitioner as—
+&emsp;&emsp;The term "chronically ill individual" means any individual who has been certified by a licensed health care practitioner as—
 
 &emsp;&emsp;&emsp;(i) being unable to perform (without substantial assistance from another individual) at least 2 activities of daily living for a period of at least 90 days due to a loss of functional capacity,
 
@@ -102,11 +102,11 @@ For purposes of this section—
 
 #### (3) Maintenance or personal care services
 
-&emsp;The term “maintenance or personal care services” means any care the primary purpose of which is the provision of needed assistance with any of the disabilities as a result of which the individual is a chronically ill individual (including the protection from threats to health and safety due to severe cognitive impairment).
+&emsp;The term "maintenance or personal care services" means any care the primary purpose of which is the provision of needed assistance with any of the disabilities as a result of which the individual is a chronically ill individual (including the protection from threats to health and safety due to severe cognitive impairment).
 
 #### (4) Licensed health care practitioner
 
-&emsp;The term “licensed health care practitioner” means any physician (as defined in section 1861(r)(1) of the Social Security Act) and any registered professional nurse, licensed social worker, or other individual who meets such requirements as may be prescribed by the Secretary.
+&emsp;The term "licensed health care practitioner" means any physician (as defined in section 1861(r)(1) of the Social Security Act) and any registered professional nurse, licensed social worker, or other individual who meets such requirements as may be prescribed by the Secretary.
 
 #### (d) Aggregate payments in excess of limits
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the periodic payments received for such period which are treated under section 101(g) as paid by reason of the death of such insured,
 
-> &emsp;exceeds the per diem limitation for such period, such excess shall be includible in grossincome without regard to section 72. A payment shall not be taken into account under subparagraph (B) if the insured is a terminally ill individual (as defined in section 101(g)) at the time the payment is received.
+> &emsp;exceeds the per diem limitation for such period, such excess shall be includible in gross income without regard to section 72. A payment shall not be taken into account under subparagraph (B) if the insured is a terminally ill individual (as defined in section 101(g)) at the time the payment is received.
 
 #### (2) Per diem limitation
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (6) Periodic payments
 
-&emsp;For purposes of this subsection, the term “periodic payment” means any payment (whether on a periodic basis or otherwise) made without regard to the extent of the costs incurred by the payee for qualified long-term care services.
+&emsp;For purposes of this subsection, the term "periodic payment" means any payment (whether on a periodic basis or otherwise) made without regard to the extent of the costs incurred by the payee for qualified long-term care services.
 
 #### (e) Treatment of coverage provided as part of a life insurance or annuity contract
 
@@ -166,7 +166,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 #### (3) Portion defined
 
-&emsp;For purposes of this subsection, the term “portion” means only the terms and benefits under a life insurance contract or annuity contract that are in addition to the terms and benefits under the contract without regard to long-term care insurance coverage.
+&emsp;For purposes of this subsection, the term "portion" means only the terms and benefits under a life insurance contract or annuity contract that are in addition to the terms and benefits under the contract without regard to long-term care insurance coverage.
 
 #### (4) Annuity contracts to which paragraph (1) does not apply
 
@@ -204,7 +204,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 #### (2) State long-term care plan
 
-&emsp;For purposes of paragraph (1), the term “State long-term care plan” means any plan—
+&emsp;For purposes of paragraph (1), the term "State long-term care plan" means any plan—
 
 &emsp;&emsp;(A) which is established and maintained by a State or an instrumentality of a State,
 
@@ -276,7 +276,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 #### (i) Model provisions
 
-&emsp;&emsp;&emsp;The terms “model regulation” and “model Act” mean the long-term care insurance model regulation, and the long-term care insurance model Act, respectively, promulgated by the National Association of Insurance Commissioners (as adopted as of January 1993).
+&emsp;&emsp;&emsp;The terms "model regulation" and "model Act" mean the long-term care insurance model regulation, and the long-term care insurance model Act, respectively, promulgated by the National Association of Insurance Commissioners (as adopted as of January 1993).
 
 #### (ii) Coordination
 
@@ -332,15 +332,15 @@ The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–280, §844(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to treatment of coverage provided as part of a life insurance contract.
 
-Subsec. (e)(1). Pub. L. 109–280, §844(f), substituted “title” for “section”.
+Subsec. (e)(1). Pub. L. 109–280, §844(f), substituted "title" for "section".
 
-<b>2004</b>—Subsec. (f)(2)(C)(iii). Pub. L. 108–311 substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)”.
+<b>2004</b>—Subsec. (f)(2)(C)(iii). Pub. L. 108–311 substituted "subparagraphs (A) through (G) of section 152(d)(2)" for "paragraphs (1) through (8) of section 152(a)".
 
-<b>1998</b>—Subsec. (e)(2). Pub. L. 105–206 inserted “section” after “Application of” in heading.
+<b>1998</b>—Subsec. (e)(2). Pub. L. 105–206 inserted "section" after "Application of" in heading.
 
-<b>1997</b>—Subsec. (c)(2)(B). Pub. L. 105–34, §1602(b), inserted “described in subparagraph (A)(i)” after “chronically ill individual” in concluding provisions.
+<b>1997</b>—Subsec. (c)(2)(B). Pub. L. 105–34, §1602(b), inserted "described in subparagraph (A)(i)" after "chronically ill individual" in concluding provisions.
 
-Subsec. (g)(4)(B)(ii), (iii)(IV). Pub. L. 105–34, §1602(e), substituted “appropriate State regulatory agency” for “Secretary”.
+Subsec. (g)(4)(B)(ii), (iii)(IV). Pub. L. 105–34, §1602(e), substituted "appropriate State regulatory agency" for "Secretary".
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–191, §325, added subsec. (g).
 
@@ -366,47 +366,47 @@ Amendment by section 325 of Pub. L. 104–191 applicable to contracts issued aft
 
 Pub. L. 104–191, title III, §321(f), Aug. 21, 1996, 110 Stat. 2059, provided that:
 
-“(1)
+"(1)
 
 General effective date.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Except as provided in subparagraph (B), the amendments made by this section \[enacting this section and amending sections 106, 125, 807, and 4980B of this title, section 1167 of Title 29, Labor, and section 300bb–8 of Title 42, The Public Health and Welfare\] shall apply to contracts issued after December 31, 1996.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Reserve method.—The amendment made by subsection (b) \[amending section 807 of this title\] shall apply to contracts issued after December 31, 1997.
 
-“(2)
+"(2)
 
 Continuation of existing policies.—In the case of any contract issued before January 1, 1997, which met the long-term care insurance requirements of the State in which the contract was sitused \[sic\] at the time the contract was issued—
 
-&emsp;“(A) such contract shall be treated for purposes of the Internal Revenue Code of 1986 as a qualified long-term care insurance contract (as defined in section 7702B(b) of such Code), and
+&emsp;"(A) such contract shall be treated for purposes of the Internal Revenue Code of 1986 as a qualified long-term care insurance contract (as defined in section 7702B(b) of such Code), and
 
-&emsp;“(B) services provided under, or reimbursed by, such contract shall be treated for such purposes as qualified long-term care services (as defined in section 7702B(c) of such Code).
+&emsp;"(B) services provided under, or reimbursed by, such contract shall be treated for such purposes as qualified long-term care services (as defined in section 7702B(c) of such Code).
 
 > In the case of an individual who is covered on December 31, 1996, under a State long-term care plan (as defined in section 7702B(f)(2) of such Code), the terms of such plan on such date shall be treated for purposes of the preceding sentence as a contract issued on such date which met the long-term care insurance requirements of such State.
 
-“(3)
+"(3)
 
 Exchanges of existing policies.—If, after the date of enactment of this Act \[Aug. 21, 1996\] and before January 1, 1998, a contract providing for long-term care insurance coverage is exchanged solely for a qualified long-term care insurance contract (as defined in section 7702B(b) of such Code), no gain or loss shall be recognized on the exchange. If, in addition to a qualified long-term care insurance contract, money or other property is received in the exchange, then any gain shall be recognized to the extent of the sum of the money and the fair market value of the other property received. For purposes of this paragraph, the cancellation of a contract providing for long-term care insurance coverage and reinvestment of the cancellation proceeds in a qualified long-term care insurance contract within 60 days thereafter shall be treated as an exchange.
 
-“(4)
+"(4)
 
 Issuance of certain riders permitted.—For purposes of applying sections 101(f), 7702, and 7702A of the Internal Revenue Code of 1986 to any contract—
 
-&emsp;“(A) the issuance of a rider which is treated as a qualified long-term care insurance contract under section 7702B, and
+&emsp;"(A) the issuance of a rider which is treated as a qualified long-term care insurance contract under section 7702B, and
 
-&emsp;“(B) the addition of any provision required to conform any other long-term care rider to be so treated,
+&emsp;"(B) the addition of any provision required to conform any other long-term care rider to be so treated,
 
 > shall not be treated as a modification or material change of such contract.
 
-“(5)
+"(5)
 
-Application of per diem limitation to existing contracts.—The amount of per diem payments made under a contract issued on or before July 31, 1996, with respect to an insured which are excludable from gross income by reason of section 7702B of the Internal Revenue Code of 1986 (as added by this section) shall not be reduced under subsection (d)(2)(B) thereof by reason of reimbursements received under a contract issued on or before such date. The preceding sentence shall cease to apply as of the date (after July 31, 1996) such contract is exchanged or there is any contract modification which results in an increase in the amount of such per diem payments or the amount of such reimbursements.”
+Application of per diem limitation to existing contracts.—The amount of per diem payments made under a contract issued on or before July 31, 1996, with respect to an insured which are excludable from gross income by reason of section 7702B of the Internal Revenue Code of 1986 (as added by this section) shall not be reduced under subsection (d)(2)(B) thereof by reason of reimbursements received under a contract issued on or before such date. The preceding sentence shall cease to apply as of the date (after July 31, 1996) such contract is exchanged or there is any contract modification which results in an increase in the amount of such per diem payments or the amount of such reimbursements."
 
 #### Long-Term Care Study Request
 
-Pub. L. 104–191, title III, §321(g), Aug. 21, 1996, 110 Stat. 2060, provided that: “The Chairman of the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate shall jointly request the National Association of Insurance Commissioners, in consultation with representatives of the insurance industry and consumer organizations, to formulate, develop, and conduct a study to determine the marketing and other effects of per diem limits on certain types of long-term care policies. If the National Association of Insurance Commissioners agrees to the study request, the National Association of Insurance Commissioners shall report the results of its study to such committees not later than 2 years after accepting the request.”
+Pub. L. 104–191, title III, §321(g), Aug. 21, 1996, 110 Stat. 2060, provided that: "The Chairman of the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate shall jointly request the National Association of Insurance Commissioners, in consultation with representatives of the insurance industry and consumer organizations, to formulate, develop, and conduct a study to determine the marketing and other effects of per diem limits on certain types of long-term care policies. If the National Association of Insurance Commissioners agrees to the study request, the National Association of Insurance Commissioners shall report the results of its study to such committees not later than 2 years after accepting the request."
 

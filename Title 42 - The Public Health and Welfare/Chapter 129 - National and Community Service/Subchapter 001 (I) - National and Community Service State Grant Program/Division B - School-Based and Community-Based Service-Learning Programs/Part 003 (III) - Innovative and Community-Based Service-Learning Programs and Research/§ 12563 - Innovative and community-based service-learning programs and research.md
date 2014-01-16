@@ -6,11 +6,11 @@ In this part:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means a State educational agency, a State Commission, a territory, an Indian tribe, an institution of higher education, or a public or private nonprofit organization (including community-based entities), a public or private elementary school or secondary school, a local educational agency, a consortium of such entities, or aconsortium of 2 or more such entities and a for-profit organization.
+&emsp;The term "eligible entity" means a State educational agency, a State Commission, a territory, an Indian tribe, an institution of higher education, or a public or private nonprofit organization (including community-based entities), a public or private elementary school or secondary school, a local educational agency, a consortium of such entities, or a consortium of 2 or more such entities and a for-profit organization.
 
 #### (2) Eligible partnership
 
-&emsp;The term “eligible partnership” means a partnership that—
+&emsp;The term "eligible partnership" means a partnership that—
 
 &emsp;&emsp;(A) shall include—
 
@@ -36,11 +36,11 @@ In this part:
 
 #### (3) Youth engagement zone
 
-&emsp;The term “youth engagement zone” means the area in which a youth engagement zone program is carried out.
+&emsp;The term "youth engagement zone" means the area in which a youth engagement zone program is carried out.
 
 #### (4) Youth engagement zone program
 
-&emsp;The term “youth engagement zone program” means a service-learning program in which members of an eligible partnership collaborate to provide coordinated school-based or community-based service-learning opportunities—
+&emsp;The term "youth engagement zone program" means a service-learning program in which members of an eligible partnership collaborate to provide coordinated school-based or community-based service-learning opportunities—
 
 &emsp;&emsp;(A) in order to address a specific community challenge;
 
@@ -60,7 +60,7 @@ From the amounts appropriated to carry out this part for a fiscal year, the Corp
 
 Funds under this part may be used to—
 
-&emsp;(1) integrate service-learning programs into the science, technology, engineering, and mathematics (referred to in this part as “STEM”) curricula at the elementary, secondary, postsecondary, or postbaccalaureate levels in coordination with practicing or retired STEM professionals;
+&emsp;(1) integrate service-learning programs into the science, technology, engineering, and mathematics (referred to in this part as "STEM") curricula at the elementary, secondary, postsecondary, or postbaccalaureate levels in coordination with practicing or retired STEM professionals;
 
 &emsp;(2) involve students in service-learning programs focusing on energy conservation in their community, including conducting educational outreach on energy conservation and working to improve energy efficiency in low-income housing and in public spaces;
 
@@ -146,7 +146,7 @@ In making grants under this part, the Corporation shall give priority to applica
 
 #### References in Text
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(2), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Titles I and II of the Act are classified generally to subchapters I (§4951 et seq.) and II (§5000 et seq.), respectively, of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(2), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat.394. Titles I and II of the Act are classified generally to subchapters I (§4951 et seq.) and II (§5000 et seq.), respectively, of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 For the effective date of the Serve America Act, referred to in subsec. (f)(3), as Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
 

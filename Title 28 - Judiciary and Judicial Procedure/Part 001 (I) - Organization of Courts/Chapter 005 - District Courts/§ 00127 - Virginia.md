@@ -4,7 +4,7 @@ Virginia is divided into two judicial districts, to be known as the Eastern and 
 
 ### Eastern District
 
-(a) The Eastern District comprises the counties of Accomac, Amelia, Arlington, Brunswick, Caroline, Charles City, Chesterfield, Dinwiddie,Elizabeth City, Essex, Fairfax, Fauquier, Gloucester, Goochland, Greensville, Hanover, Henrico, Isle of Wight, James City, King and Queen, King George, King William, Lancaster, Loudoun, Lunenburg, Mathews, Mecklenburg, Middlesex, Nansemond, New Kent, Norfolk, Northampton, Northumberland, Nottoway, Powhatan, Prince Edward, Prince George, Prince William, Princess Anne, Richmond, Southampton, Spotsylvania, Stafford, Surry, Sussex, Warwick, Westmoreland, and York.
+(a) The Eastern District comprises the counties of Accomac, Amelia, Arlington, Brunswick, Caroline, Charles City, Chesterfield, Dinwiddie, Elizabeth City, Essex, Fairfax, Fauquier, Gloucester, Goochland, Greensville, Hanover, Henrico, Isle of Wight, James City, King and Queen, King George, King William, Lancaster, Loudoun, Lunenburg, Mathews, Mecklenburg, Middlesex, Nansemond, New Kent, Norfolk, Northampton, Northumberland, Nottoway, Powhatan, Prince Edward, Prince George, Prince William, Princess Anne, Richmond, Southampton, Spotsylvania, Stafford, Surry, Sussex, Warwick, Westmoreland, and York.
 
 &emsp;&emsp;Court for the Eastern District shall be held at Alexandria, Newport News, Norfolk, and Richmond.
 
@@ -28,7 +28,7 @@ Changes in arrangement and phraseology were made.
 
 #### Senate Revision Amendment
 
-By Senate amendment, “Newport News” was inserted after “Alexandria” in second paragraph of subsection (a) of this section. See 80th Congress Senate Report No. 1559.
+By Senate amendment, "Newport News" was inserted after "Alexandria" in second paragraph of subsection (a) of this section. See 80th Congress Senate Report No. 1559.
 
 #### Amendments
 
@@ -42,11 +42,11 @@ Subsec. (b). Pub. L. 102–200, §1(2), inserted reference to Culpeper, Louisa, 
 
 Pub. L. 102–200, §2, Dec. 10, 1991, 105 Stat. 1630, provided that:
 
-“(a)
+"(a)
 
 Pending Actions.—The amendments made by section 1 \[amending this section\] shall not apply to any action commenced before the date of the enactment of this Act \[Dec. 10, 1991\] and pending in the United States District Court for the Eastern District of Virginia on such date.
 
-“(b)
+"(b)
 
-Juries.—The amendments made by section 1 shall not affect the composition, or preclude the service, of any grand or petit jury summoned, empaneled, or actually serving in the Eastern or Western District of Virginia on the date of the enactment of this Act.”
+Juries.—The amendments made by section 1 shall not affect the composition, or preclude the service, of any grand or petit jury summoned, empaneled, or actually serving in the Eastern or Western District of Virginia on the date of the enactment of this Act."
 

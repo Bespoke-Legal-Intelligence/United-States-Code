@@ -2,7 +2,7 @@
 
 #### (a) Eligibility for minimum grant
 
-To be eligible to receive a minimum grant under this section, a State shall submit an application to the Attorney General that provides assurances that the State has implemented, or will implement, correctional policies and programs, including truth-in-sentencing laws that ensure that violent offenders serve a substantial portion of the sentences imposed, that are designed to provide sufficiently severe punishment for violent offenders, including violent juvenileoffenders, and that the prison time served is appropriately related to the determination that the inmate is a violent offender and for a period of time deemed necessary to protect the public.
+To be eligible to receive a minimum grant under this section, a State shall submit an application to the Attorney General that provides assurances that the State has implemented, or will implement, correctional policies and programs, including truth-in-sentencing laws that ensure that violent offenders serve a substantial portion of the sentences imposed, that are designed to provide sufficiently severe punishment for violent offenders, including violent juvenile offenders, and that the prison time served is appropriately related to the determination that the inmate is a violent offender and for a period of time deemed necessary to protect the public.
 
 #### (b) Additional amount for increased percentage of persons sentenced and time served
 
@@ -32,5 +32,5 @@ A prior section 13703, Pub. L. 103–322, title II, §20103, Sept. 13, 1994, 108
 
 #### Controlled Substance Testing and Intervention; Availability of Funds
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–14, provided in part: “That beginning in fiscal year 1999, and thereafter, no funds shall be available to make grants to a State pursuant to section 20103 or section 20104 of the Violent Crime Control and Law Enforcement Act of 1994 \[42 U.S.C. 13703, 13704\] unless no later than September 1, 1998, such State has implemented a program of controlled substance testing and intervention for appropriate categories of convicted offenders during periods of incarceration and criminal justice supervision, with sanctions including denial or revocation of release for positive controlled substance tests, consistent with guidelines issued by the Attorney General”.
+Pub. L. 104–208, div. A, title I, §101(a) \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–14, provided in part: "That beginning in fiscal year 1999, and thereafter, no funds shall be available to make grants to a State pursuant to section 20103 or section 20104 of the Violent Crime Control and Law Enforcement Act of 1994 \[42 U.S.C. 13703, 13704\] unless no later than September 1, 1998, such State has implemented a program of controlled substance testing and intervention for appropriate categories of convicted offenders during periods of incarceration and criminal justice supervision, with sanctions including denial or revocation of release for positive controlled substance tests, consistent with guidelines issued by the Attorney General".
 

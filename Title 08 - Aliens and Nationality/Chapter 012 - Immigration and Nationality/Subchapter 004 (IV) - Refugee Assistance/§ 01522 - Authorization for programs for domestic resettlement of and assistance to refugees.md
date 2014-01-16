@@ -42,7 +42,7 @@
 
 &emsp;(ii) to accept and use money, funds, property, and services of any kind made available by gift, devise, bequest, grant, or otherwise for the purpose of carrying out this section.
 
-(B) No funds may be made available under this subchapter (other than under subsection (b)(1) of this section) to States or political subdivisions in the form of block grants, per capita grants, or similar consolidated grants or contracts. Suchfunds shall be made available under separate grants or contracts—
+(B) No funds may be made available under this subchapter (other than under subsection (b)(1) of this section) to States or political subdivisions in the form of block grants, per capita grants, or similar consolidated grants or contracts. Such funds shall be made available under separate grants or contracts—
 
 &emsp;(i) for medical screening and initial medical treatment under subsection (b)(5) of this section,
 
@@ -96,7 +96,7 @@
 
 &emsp;(ii) fiscal year 1982 and succeeding fiscal years, the Director (except as provided in subparagraph (B)) is authorized,
 
-> to make grants to, and contracts with, public or private nonprofit agencies for initial resettlement (including initial reception and placement with sponsors) of refugees in the United States. Grants to, or contracts with, private nonprofit voluntary agencies under this paragraph shall be made consistent with the objectives of this subchapter, taking into account the different resettlement approaches and practices of such agencies. Resettlement assistance under this paragraph shall be provided in coordination with the Director's provision of other assistance under this subchapter. Funds provided to agencies under such grants and contracts may only be obligated or expended during the fiscal year in which they are provided (or the subsequent fiscal year or such subsequent fiscal period as the Federal contracting agency may approve) to carry out the purposes of this subsection.
+> to make grants to, and contracts with, public or private nonprofit agencies for initial resettlement (including initial reception and placement with sponsors) of refugees in the United States. Grants to, or contracts with, private nonprofit voluntary agencies under this paragraph shall be made consistent with the objectives of this subchapter, taking into account the different resettlement approaches and practices of such agencies. Resettlement assistance under this paragraph shall be provided in coordination with the Director's provision of other assistanceunder this subchapter. Funds provided to agencies under such grants and contracts may only be obligated or expended during the fiscal year in which they are provided (or the subsequent fiscal year or such subsequent fiscal period as the Federal contracting agency may approve) to carry out the purposes of this subsection.
 
 (B) If the President determines that the Director should not administer the program under this paragraph, the authority of the Director under the first sentence of subparagraph (A) shall be exercised by such officer as the President shall from time to time specify.
 
@@ -146,7 +146,7 @@
 
 > The agency administering paragraph (1) shall promptly forward a copy of each annual report transmitted under subparagraph (E) to the Committees on the Judiciary of the House of Representatives and of the Senate.
 
-(8) The Federal agency administering paragraph (1) shall establish criteria for the performance of agencies under grants and contracts under that paragraph, and shall include criteria relating to an agency's—
+(8) The Federal agency administering paragraph (1) shall establish criteria for the performance of agencies under grants and contractsunder that paragraph, and shall include criteria relating to an agency's—
 
 &emsp;(A) efforts to reduce welfare dependency among refugees resettled by that agency,
 
@@ -210,7 +210,7 @@
 
 &emsp;(iii) on the refugee's acceptance of appropriate offers of employment.
 
-(B) Cash assistance shall not be made available to refugees who are full-time students in institutions of higher education (as defined by theDirector after consultation with the Secretary of Education).
+(B) Cash assistance shall not be made available to refugees who are full-time students in institutions of higher education (as defined by the Director after consultation with the Secretary of Education).
 
 (C) In the case of a refugee who—
 
@@ -302,7 +302,7 @@ Subsec. (e)(7)(D). Pub. L. 103–416 struck out “paragraph (1) or (2) of” af
 
 <b>1988</b>—Subsecs. (f)(5), (g). Pub. L. 100–525 redesignated subsec. (g) as (f)(5) and substituted “all other appropriate Federal officials and all appropriate State and county officials referred to in paragraph (2)” for “all appropriate Federal, State, and county officials referred to in section 13 of this Act”, “Cuban nationals described in paragraph (1)” for “such persons defined in subsection (f)(1) of this section” and “authorized to carry out this subsection” for “hereafter authorized by this section”.
 
-<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–605, §4(1), inserted “and the Federal agency administering subsection (b)(1) of this section” after “The Director”, “(not less often than quarterly)” after “shall consult regularly”, and “before their placement in those States and localities” after “States and localities”.
+<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–605, §4(1), inserted “and the Federal agency administering subsection (b)(1) of this section” after “The Director”, “(not less often than quarterly)” after “shall consult regularly”,and “before their placement in those States and localities” after “States and localities”.
 
 Subsec. (a)(2)(C)(iii). Pub. L. 99–605, §4(2), added cl. (iii).
 
@@ -414,7 +414,7 @@ Pub. L. 97–363, §8, Oct. 25, 1982, 96 Stat. 1737, provided that: “The amend
 
 Pub. L. 96–212, title III, pt. B, §313, Mar. 17, 1980, 94 Stat. 117, provided that:
 
-“(a) Except as otherwise provided in this section, the amendments made by this part \[enacting sections 1521to 1524 of this title, amending section 2601 of Title 22, Foreign Relations and Intercourse, and repealing provisions set out as a note under section 2601 of Title 22\] shall apply to fiscal years beginning on or after October 1, 1979.
+“(a) Except as otherwise provided in this section, the amendments made by this part \[enacting sections 1521 to 1524 of this title, amending section 2601 of Title 22, Foreign Relations and Intercourse, and repealing provisions set out as a note under section 2601 of Title 22\] shall apply to fiscal years beginning on or after October 1, 1979.
 
 “(b) Subject to subsection (c), the limitations contained in sections 412(d)(2)(A) and 412(e)(1) of the Immigration and Nationality Act \[subsecs. (d)(2)(A) and (e)(1) of this section\] on the duration of the period for which child welfare services and cash and medical assistance may be provided to particular refugees shall not apply to such services and assistance provided before April 1, 1981.
 
@@ -536,11 +536,11 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 #### “state entitlements
 
-“Sec. 201. (a) The Secretary shall, in accordance with the provisions of this title, make grants to State educational agencies for fiscal year 1981, and for each subsequent fiscal year, for the purposes of assisting local educational agencies of that State in providing basic education for eligible participants enrolled in elementary or secondary public schools. Payments made under this title to any State shall be used in accordance with applications approved under section 202 for public educational services for eligible participants enrolled in the elementary and secondary public schools under the jurisdiction of the local educational agencies of that State.
+“Sec. 201. (a) The Secretary shall, in accordance with the provisions of this title, make grants to State educational agencies for fiscal year 1981, and for each subsequent fiscal year, for the purposes of assisting localeducational agencies of that State in providing basic education for eligible participants enrolled in elementary or secondary public schools. Payments made under this title to any State shall be used in accordance with applications approved under section 202 for public educational services for eligible participants enrolled in the elementary and secondary public schools under the jurisdiction of the local educational agencies of that State.
 
 “(b)(1) As soon as possible after the date of the enactment of the Consolidated Refugee Education Assistance Act \[Aug. 13, 1981\], the Secretary shall establish a formula (reflecting the availability of the full amount authorized for this title under section 203(b)) by which to determine the amount of the grant which each State educational agency is entitled to receive under this title for any fiscal year. The formula established by the Secretary shall take into account the number of years that an eligible participant assisted under this title has resided within the United States and the relative costs, by grade level, of providing education for elementary and secondary school children. On the basis of the formula the Secretary shall allocate among the State educational agencies, for each fiscal year, the amounts available to carry out this title, subject to such reductions or adjustments as may be required under paragraph (2) or subsection (c). Funds shall be allocated among State educational agencies pursuant to the formula without regard to variations in educational costs among different geographical areas.
 
-“(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscalyear, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
+“(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
 “(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 201(a) shall be considered to be payments under this title.
 
@@ -648,7 +648,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 &emsp;&emsp;“(C) that the provision of services pursuant to this paragraph shall be provided by employees of a public agency or through contract by such public agency with a person, association, agency or corporation who or which, in the provision of such services, is independent of such elementary or secondary nonpublic school and of any religious organization; and such employment or contract shall be under the control and supervision of such public agency, and the funds provided under this paragraph shall not be commingled with State or local funds.
 
-“(b) The Secretary shall approve an application which meets the requirements of subsection (a). TheSecretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
+“(b) The Secretary shall approve an application which meets the requirements of subsection (a). The Secretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
 
 #### “payments
 
@@ -694,7 +694,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 #### “applications
 
-“Sec. 403. (a) No State educational agency shall be entitled to any payment under this title for any period unless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
+“Sec. 403. (a) No State educational agency shall be entitled to any payment under this title for any periodunless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
 
 &emsp;“(1) provide that payments made under this title will be used only for the purposes, and in the manner, set forth in section 402;
 

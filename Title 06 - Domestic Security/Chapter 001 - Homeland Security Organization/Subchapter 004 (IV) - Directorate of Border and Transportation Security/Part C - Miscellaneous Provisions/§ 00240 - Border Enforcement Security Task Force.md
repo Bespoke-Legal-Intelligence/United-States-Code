@@ -76,7 +76,7 @@ Pub. L. 112–205, §2, Dec. 7, 2012, 126 Stat. 1487, provided that: “Congress
 
 &emsp;“(3) Law enforcement agencies at the United States northern border also face challenges from transnational smuggling organizations.
 
-&emsp;“(4) In response, DHS has partnered with Federal, State, local, tribal, and foreign law enforcement counterparts to create the Border Enforcement Security Task Force (BEST) initiative as a comprehensive approach to addressing border security threats. These multi-agency teams are designed to increase information-sharing and collaboration among the participating law enforcement agencies.
+&emsp;“(4) In response, DHS has partnered with Federal, State, local, tribal, and foreign law enforcement counterparts to create the Border Enforcement Security Task Force (BEST) initiative as a comprehensiveapproach to addressing border security threats. These multi-agency teams are designed to increase information-sharing and collaboration among the participating law enforcement agencies.
 
 &emsp;“(5) BEST teams incorporate personnel from ICE, United States Customs and Border Protection (CBP), the Drug Enforcement Administration (DEA), the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATFE), the Federal Bureau of Investigation (FBI), the United States Coast Guard (USCG), and the U.S. Attorney's Office (USAO), along with other key Federal, State and local law enforcement agencies.
 

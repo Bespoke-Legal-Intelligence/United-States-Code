@@ -6,9 +6,9 @@ Any person who willfully violates any provision of this subchapter, or any rule,
 
 #### Amendments
 
-<b>1975</b>—Pub. L. 94–29 substituted “imprisoned for not more than five years” for “imprisoned for not more than two years”.
+<b>1975</b>—Pub. L. 94–29 substituted "imprisoned for not more than five years" for "imprisoned for not more than two years".
 
-<b>1960</b>—Pub. L. 86–750 inserted “, or any rule, regulation or order promulgated by the Commission under authority thereof,”.
+<b>1960</b>—Pub. L. 86–750 inserted ", or any rule, regulation or order promulgated by the Commission under authority thereof,".
 
 #### Effective Date of 1975 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To the extent funds are made available for this purpose, the Secretary shall provide a grantto the Consortium for Agricultural Soils Mitigation of Greenhouse Gases, acting through Kansas State University, to develop, analyze, and implement, through the land grant universities described in subsection (b) of this section, carbon cycle research at the national, regional, and local levels.
+To the extent funds are made available for this purpose, the Secretary shall provide a grant to the Consortium for Agricultural Soils Mitigation of Greenhouse Gases, acting through Kansas State University, to develop, analyze, and implement, through the land grant universities described in subsection (b) of this section, carbon cycle research at the national, regional, and local levels.
 
 #### (b) Land grant universities
 
@@ -96,7 +96,7 @@ Land grant universities described in subsection (b) of this section shall use fu
 
 #### (1) In general
 
-&emsp;The Secretary, in cooperation with departments and agencies participating in the U.S. Global Change Research Program (which may use any of their statutory authorities), and local extension agents, experts from institutions of higher education that offer a curriculum in agricultural and biological sciences, and other local agricultural or conservation organizations, may implement extension projects (including on-farm projects with direct involvement of agricultural producers) that combine measurement tools and modeling techniques into integrated packages to monitor the carbon sequestering benefits of conservation practices and the exchange of greenhouse gas emissions from agriculturewhich demonstrate the feasibility of methods of measuring and monitoring—
+&emsp;The Secretary, in cooperation with departments and agencies participating in the U.S.Global Change Research Program (which may use any of their statutory authorities), and local extension agents, experts from institutions of higher education that offer a curriculum in agricultural and biological sciences, and other local agricultural or conservation organizations, may implement extension projects (including on-farm projects with direct involvement of agricultural producers) that combine measurement tools and modeling techniques into integrated packages to monitor the carbon sequestering benefits of conservation practices and the exchange of greenhouse gas emissions from agriculture which demonstrate the feasibility of methods of measuring and monitoring—
 
 &emsp;&emsp;(A) changes in carbon content and other carbon pools in soils and plants (including trees); and
 
@@ -132,15 +132,15 @@ Section was enacted as part of the Agricultural Risk Protection Act of 2000, and
 
 #### Amendments
 
-<b>2008</b>—Subsec. (g). Pub. L. 110–246, §7407, added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “There are authorized to be appropriated for fiscal years 2002 through 2007 such sums as may be necessary to carry out this section.”
+<b>2008</b>—Subsec. (g). Pub. L. 110–246, §7407, added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "There are authorized to be appropriated for fiscal years 2002 through 2007 such sums as may be necessary to carry out this section."
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171, §7223(1), substituted “To the extent funds are made available for this purpose, the Secretary shall provide” for “Of the amount made available under section 261(a)(2), the Secretary shall use $15,000,000 to provide”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §7223(1), substituted "To the extent funds are made available for this purpose, the Secretary shall provide" for "Of the amount made available under section 261(a)(2), the Secretary shall use $15,000,000 to provide".
 
 Subsecs. (d), (e). Pub. L. 107–171, §9009, added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 
 Subsec. (f). Pub. L. 107–171, §9009(1), redesignated subsec. (d) as (f).
 
-Pub. L. 107–171, §7223(2), substituted “for this section” for “under subsection (a) of this section”.
+Pub. L. 107–171, §7223(2), substituted "for this section" for "under subsection (a) of this section".
 
 Subsec. (g). Pub. L. 107–171, §7223(3), added subsec. (g).
 

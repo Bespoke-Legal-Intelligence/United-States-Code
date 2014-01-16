@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. 4638.
 
-The word “filing” is substituted for the word “claiming”.
+The word "filing" is substituted for the word "claiming".
 

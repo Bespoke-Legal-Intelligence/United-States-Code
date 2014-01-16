@@ -44,7 +44,7 @@ Withdrawal of slot.—If the Secretary determines that an air carrier that is us
 
 &emsp;(4)
 
-Continuation.—If the Secretary determines that an air carrier that is using a slot under paragraph (2) is no longer providing the air transportation that replaced the turboprop air transportation with a regional jet, the Secretary shall withdraw the slot being used by the air carrier under paragraph (2) but shallallow the air carrier to continue to hold the exemption granted to the air carrier under subsection (b)(3).
+Continuation.—If the Secretary determines that an air carrier that is using a slot under paragraph (2) is no longer providing the air transportation that replaced the turboprop air transportation with a regional jet, the Secretary shall withdraw the slot being used by the air carrier under paragraph (2) but shall allow the air carrier to continue to hold the exemption granted to the air carrier under subsection (b)(3).
 
 (e)
 
@@ -66,7 +66,7 @@ Aircraft Required.—An exemption may not be granted under this section with res
 
 (g)
 
-Preservation of Certain Existing Slot-Related Air Service.—An air carrier that provides air transportation of passengers from Chicago O'Hare International Airport to a small hub airport or nonhub airport, or to an airport that is smaller than a nonhub airport, on or before the date of the enactment of this subsection pursuant to an exemption from the requirements of subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), or where slots were issued to an air carrier conditioned on a specific airport being served, may not terminate air transportation service for that route for a period of 1 year after the date on which those requirements cease to apply to such airport unless—
+Preservation of Certain Existing Slot-Related Air Service.—An air carrier that provides air transportation of passengers from Chicago O'Hare International Airport to a small hub airport or nonhub airport, or to an airport that is smaller than a nonhub airport, on or before the date of the enactment of this subsection pursuant to an exemption from the requirements of subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slotsat high density airports), or where slots were issued to an air carrier conditioned on a specific airport being served, may not terminate air transportation service for that route for a period of 1 year after the date on which those requirements cease to apply to such airport unless—
 
 &emsp;(1) before October 1, 1999, the Secretary received a written air service termination notice for that route; or
 

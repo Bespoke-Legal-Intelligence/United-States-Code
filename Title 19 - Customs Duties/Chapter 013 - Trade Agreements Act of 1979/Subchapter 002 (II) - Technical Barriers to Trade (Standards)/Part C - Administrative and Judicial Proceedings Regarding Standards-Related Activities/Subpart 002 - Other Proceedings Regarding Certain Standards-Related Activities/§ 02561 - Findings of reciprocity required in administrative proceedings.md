@@ -24,5 +24,5 @@ This section does not apply with respect to causes of action arising under—
 
 <b>1996</b>—Pub. L. 104–295 amended directory language of Pub. L. 103–182. See 1993 Amendment note below.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, as amended by Pub. L. 104–295, substituted "Trade Representative" for "Special Representative".
 

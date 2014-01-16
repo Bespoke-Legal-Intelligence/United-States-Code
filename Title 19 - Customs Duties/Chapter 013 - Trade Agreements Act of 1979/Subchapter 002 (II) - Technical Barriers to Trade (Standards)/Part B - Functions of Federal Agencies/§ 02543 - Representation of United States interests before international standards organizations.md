@@ -18,11 +18,11 @@ The Secretary concerned shall—
 
 #### (A) Organization member
 
-&emsp;&emsp;The term “organization member” means the private person who holds membership in a private international standards organization.
+&emsp;&emsp;The term "organization member" means the private person who holds membership in a private international standards organization.
 
 #### (B) Private international standards organization
 
-&emsp;&emsp;The term “private international standards organization” means any international standards organization before which the interests of the United States are represented by a private person who is officially recognized by that organization for such purpose.
+&emsp;&emsp;The term "private international standards organization" means any international standards organization before which the interests of the United States are represented by a private person who is officially recognized by that organization for such purpose.
 
 #### (2) In general
 
@@ -62,5 +62,5 @@ With respect to any international standards organization before which the intere
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–295 amended directory language of Pub. L. 103–182. See 1993 Amendment note below.
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–182, as amended by Pub. L. 104–295, substituted "Trade Representative" for "Special Representative".
 

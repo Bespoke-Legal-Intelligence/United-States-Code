@@ -14,5 +14,5 @@ Any information submitted by any person to the Secretary or the Commission under
 
 <b>1987</b>—Pub. L. 100–12 inserted headings for subsecs. (a) and (b).
 
-<b>1978</b>—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
 

@@ -6,7 +6,7 @@ Not later than eighteen months after October 21, 1976, the Administrator shall p
 
 #### (b) Requirements of permit application
 
-Each application for a permit under this section shall contain such information as may berequired under regulations promulgated by the Administrator, including information respecting—
+Each application for a permit under this section shall contain such information as may be required under regulations promulgated by the Administrator, including information respecting—
 
 &emsp;(1) estimates with respect to the composition, quantities, and concentrations of any hazardous waste identified or listed under this subchapter, or combinations of any such hazardous waste and any other solid waste, proposed to be disposed of, treated, transported, or stored, and the time, frequency, or rate of which such waste is proposed to be disposed of, treated, transported, or stored; and
 
@@ -52,7 +52,7 @@ Upon a determination by the Administrator (or by a State, in the case of a State
 
 (2) In the case of each land disposal facility which has been granted interim status under this subsection before November 8, 1984, interim status shall terminate on the date twelve months after November 8, 1984, unless the owner or operator of such facility—
 
-&emsp;(A) applies for a final determination regarding the issuance of a permit under subsection\(c) of this section for such facility before the date twelve months after November 8, 1984; and
+&emsp;(A) applies for a final determination regarding the issuance of a permit under subsection (c) of this section for such facility before the date twelve months after November 8, 1984; and
 
 &emsp;(B) certifies that such facility is in compliance with all applicable groundwater monitoring and financial responsibility requirements.
 
@@ -74,7 +74,7 @@ Notwithstanding subsection (a) through (e) of this section, any surface coal min
 
 &emsp;(B) shall provide for the receipt and treatment by the facility of only those types and quantities of hazardous waste which the Administrator deems necessary for purposes of determining the efficacy and performance capabilities of the technology or process and the effects of such technology or process on human health and the environment, and
 
-&emsp;(C) shall include such requirements as the Administrator deems necessary to protect human health and the environment (including, but not limited to, requirements regarding monitoring, operation, insurance or bonding, financial reponsibility,<sup>1</sup> closure, and remedial action), and such requirements as the Administrator deems necessary regarding testing and providing of information to the Administrator with respect to the operation of the facility.
+&emsp;(C) shall include such requirements as the Administrator deems necessary to protect human health and the environment (including,but not limited to, requirements regarding monitoring, operation, insurance or bonding, financial reponsibility,<sup>1</sup> closure, and remedial action), and such requirements as the Administrator deems necessary regarding testing and providing of information to the Administrator with respect to the operation of the facility.
 
 > The Administrator may apply the criteria set forth in this paragraph in establishing the conditions of each permit without separate establishment of regulations implementing such criteria.
 
@@ -98,7 +98,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 #### (j) Interim status surface impoundments
 
-(1) Except as provided in paragraph (2), (3), or (4), each surface impoundment in existence onNovember 8, 1984, and qualifying for the authorization to operate under subsection (e) of this section shall not receive, store, or treat hazardous waste after the date four years after November 8, 1984, unless such surface impoundment is in compliance with the requirements of section 6924(o)(1)(A) of this title which would apply to such impoundment if it were new.
+(1) Except as provided in paragraph (2), (3), or (4), each surface impoundment in existence on November 8, 1984, and qualifying for the authorization to operate under subsection (e) of this section shall not receive, store, or treat hazardous waste after the date four years after November 8, 1984, unless such surface impoundment is in compliance with the requirements of section 6924(o)(1)(A) of this title which would apply to such impoundment if it were new.
 
 (2) Paragraph (1) of this subsection shall not apply to any surface impoundment which (A) has at least one liner, for which there is no evidence that such liner is leaking; (B) is located more than one-quarter mile from an underground source of drinking water; and (C) is in compliance with generally applicable ground water monitoring requirements for facilities with permits under subsection (c) of this section.
 
@@ -106,7 +106,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 (4) The Administrator (or the State, in the case of a State with an authorized program), after notice and opportunity for comment, may modify the requirements of paragraph (1) for any surface impoundment if the owner or operator demonstrates that such surface impoundment is located, designed and operated so as to assure that there will be no migration of any hazardous constitutent <sup>2</sup> into ground water or surface water at any future time. The Administrator or the State shall take into account locational criteria established under section 6924(o)(7) of this title.
 
-(5) The owner or operator of any surface impoundment potentially subject to paragraph (1) who has reason to believe that on the basis of paragraph (2), (3), or (4) such surface impoundment is not required to comply with the requirements of paragraph (1), shall apply to the Administrator (or the State, in the case of a State with an authorized program) not later than twenty-four months after November 8, 1984, for a determination of the applicability of paragraph (1) (in the case of paragraph (2) or (3)) or for a modification of the requirements of paragraph (1) (in the case of paragraph (4)), with respect to such surface impoundment. Such owner or operator shall provide, with such application, evidence pertinent to such decision, including:
+(5) The owner or operator of any surface impoundment potentially subject to paragraph (1) who has reason to believe that on the basis of paragraph (2), (3), or (4) such surface impoundment is not required to comply with the requirements of paragraph (1), shall apply to the Administrator (or the State, in the case of a State with an authorized program) not later than twenty-four months after November 8, 1984, for a determination of the applicability of paragraph (1) (in the case of paragraph (2) or (3)) or for a modification of the requirements of paragraph (1) (in the case of paragraph (4)), with respect tosuch surface impoundment. Such owner or operator shall provide, with such application, evidence pertinent to such decision, including:
 
 &emsp;(A) an application for a final determination regarding the issuance of a permit under subsection (c) of this section for such facility, if not previously submitted;
 
@@ -124,7 +124,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 (6)(A) In any case in which a surface impoundment becomes subject to paragraph (1) after November 8, 1984, due to the promulgation of additional listings or characteristics for the identification of hazardous waste under section 6921 of this title, the period for compliance in paragraph (1) shall be four years after the date of such promulgation, the period for demonstrations under paragraph (4) and for submission of evidence under paragraph (5) shall be not later than twenty-four months after the date of such promulgation, and the period for the Administrator (or if appropriate, the State) to advise such owners or operators under paragraph (5) shall be not later than thirty-six months after the date of promulgation.
 
-(B) In any case in which a surface impoundment is initially determined to be excluded from the requirements of paragraph (1) but due to a change in condition (including the existence of a leak) no longer satisfies the provisions of paragraph (2), (3), or (4) and therefore becomes subject to paragraph (1), the period for compliancein paragraph (1) shall be two years after the date of discovery of such change of condition, or in the case of a surface impoundment excluded under paragraph (3) three years after such date of discovery.
+(B) In any case in which a surface impoundment is initially determined to be excluded from the requirements of paragraph (1) but due to a change in condition (including the existence of a leak) no longer satisfies the provisions of paragraph (2), (3), or (4) and therefore becomes subject to paragraph (1), the period for compliance in paragraph (1) shall be two years after the date of discovery of such change of condition, or in the case of a surface impoundment excluded under paragraph (3) three years after such date of discovery.
 
 (7)(A) The Administrator shall study and report to the Congress on the number, range of size, construction, likelihood of hazardous constituents migrating into ground water, and potential threat to human health and the environment of existing surface impoundments excluded by paragraph (3) from the requirements of paragraph (1). Such report shall address the need, feasibility, and estimated costs of subjecting such existing surface impoundments to the requirements of paragraph (1).
 
@@ -136,7 +136,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 (9) In the case of any surface impoundment which has been excluded by paragraph (2) on the basis of a liner meeting the definition under paragraph (12)(A)(ii), at the closure of such impoundment the Administrator shall require the owner or operator of such impoundment to remove or decontaminate all waste residues, all contaminated liner material, and contaminated soil to the extent practicable. If all contaminated soil is not removed or decontaminated, the owner or operator of such impoundment shall be required to comply with appropriate post-closure requirements, including but not limited to ground water monitoring and corrective action.
 
-(10) Any incremental cost attributable to the requirements of this subsection or section 6924(o) of this title shall not be considered by the Administrator (or the State, in the case of a State with an authorized program under section 1342 of title 33)—
+(10) Any incremental cost attributable to the requirements of this subsection or section6924(o) of this title shall not be considered by the Administrator (or the State, in the case of a State with an authorized program under section 1342 of title 33)—
 
 &emsp;(A) in establishing effluent limitations and standards under section 1311, 1314, 1316, 1317, or 1342 of title 33 based on effluent limitations guidelines and standards promulgated any time before twelve months after November 8, 1984; or
 
@@ -146,13 +146,13 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 (B) In the case of any hazardous waste which is prohibited from one or more methods of land disposal under subsection (d), (e), or (g) of section 6924 of this title (or under regulations promulgated by the Administrator under such subsection) the placement or maintenance of such hazardous waste in a surface impoundment for treatment is prohibited as of the effective date of such prohibition unless the treatment residues which are hazardous are, at a minimum, removed for subsequent management within one year of the entry of the waste into the surface impoundment.
 
-(12)(A) For the purposes of paragraph (2)(A) of this subsection, the term “liner” means—
+(12)(A) For the purposes of paragraph (2)(A) of this subsection, the term "liner" means—
 
 &emsp;(i) a liner designed, constructed, installed, and operated to prevent hazardous waste from passing into the liner at any time during the active life of the facility; or
 
 &emsp;(ii) a liner designed, constructed, installed, and operated to prevent hazardous waste from migrating beyond the liner to adjacent subsurface soil, ground water, or surface water at any time during the active life of the facility.
 
-(B) For the purposes of this subsection, the term “aggressive biological treatment facility” means a system of surface impoundments in which the initial impoundment of the secondary treatment segment of the facility utilizes intense mechanical aeration to enhance biological activity to degrade waste water pollutants and
+(B) For the purposes of this subsection, the term "aggressive biological treatment facility" means a system of surface impoundments in which the initial impoundment of the secondary treatment segment of the facility utilizes intense mechanical aeration to enhance biological activity to degrade waste water pollutants and
 
 &emsp;(i) the hydraulic retention time in such initial impoundment is no longer than 5 days under normal operating conditions, on an annual average basis;
 
@@ -160,7 +160,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 &emsp;(iii) such system utilizes activated sludge treatment in the first portion of secondary treatment.
 
-(C) For the purposes of this subsection, the term “underground source or <sup>3</sup> drinking water” has the same meaning as provided in regulations under the Safe Drinking Water Act (title XIV of the Public Health Service Act \[42 U.S.C. 300f et seq.\]).
+(C) For the purposes of this subsection, the term "underground source or <sup>3</sup> drinking water" has the same meaning as provided in regulations under the Safe Drinking Water Act (title XIV of the Public Health Service Act \[42 U.S.C. 300f et seq.\]).
 
 (13) The Administrator may modify the requirements of paragraph (1) in the case of a surface impoundment for which the owner or operator, prior to October 1, 1984, has entered into, and is in compliance with, a consent order, decree, or agreement with the Administrator or a State with an authorized program mandating corrective action with respect to such surface impoundment that provides a degree of protection of human health and the environment which is at a minimum equivalent to that provided by paragraph (1).
 
@@ -174,17 +174,17 @@ The Safe Drinking Water Act, referred to in subsec. (j)(12)(C), is title XIV of 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–119, §4(6), substituted “polychlorinated” for “polycholorinated”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–119, §4(6), substituted "polychlorinated" for "polycholorinated".
 
 Subsec. (e)(1)(C). Pub. L. 104–119, §4(7), inserted comma at end of subpar. (C).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–616, §211, substituted “an existing facility or planning to construct a new” for “a”, inserted “and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste”, and inserted at end “No permit shall be required under this section in order to construct a facility if such facility is constructed pursuant to an approval issued by the Administrator under section 2605(e) of title 15 for the incineration of polycholorinated \[sic\] biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter.”
+<b>1984</b>—Subsec. (a). Pub. L. 98–616, §211, substituted "an existing facility or planning to construct a new" for "a", inserted "and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste", and inserted at end "No permit shall be required under this section in order to construct a facility if such facility is constructed pursuant to an approval issued by the Administrator under section 2605(e) of title 15 for the incineration of polycholorinated \[sic\] biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter."
 
 Subsec. (c)(1), (2). Pub. L. 98–616, §213(c), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c)(3). Pub. L. 98–616, §212, added par. (3).
 
-Subsec. (e). Pub. L. 98–616, §213(a), designated existing provisions as par. (1), redesignated former pars. (1), (2), and (3) thereof as subpars. (A), (B), and (C), respectively, designated existing provisions of previously redesignated subpar. (A) as cl. (i) and added cl. (ii), inserted “This paragraph shall not apply to any facility which has been previously denied a permit under this section or if authority to operate the facility under this section has been previously terminated.” to closing provisions of par. (1), and added pars. (2) and (3).
+Subsec. (e). Pub. L. 98–616, §213(a), designated existing provisions as par. (1), redesignated former pars. (1), (2), and (3) thereof as subpars. (A), (B), and (C), respectively, designated existing provisions of previously redesignated subpar. (A) as cl. (i) and added cl. (ii), inserted "This paragraph shall not apply to any facility which has been previously denied a permit under this section or if authority to operate the facility under this section has been previously terminated." to closing provisions of par. (1), and added pars. (2) and (3).
 
 Subsec. (g). Pub. L. 98–616, §214(a), added subsec. (g).
 
@@ -194,19 +194,19 @@ Subsec. (i). Pub. L. 98–616, §243(c), added subsec. (i).
 
 Subsec. (j). Pub. L. 98–616, §215, added subsec. (j).
 
-<b>1980</b>—Subsec. (e)(1). Pub. L. 96–482, §10, substituted “November 19, 1980” for “October 21, 1976”.
+<b>1980</b>—Subsec. (e)(1). Pub. L. 96–482, §10, substituted "November 19, 1980" for "October 21, 1976".
 
 Subsec. (f). Pub. L. 96–482, §11, added subsec. (f).
 
-<b>1978</b>—Subsec (a). Pub. L. 95–609 inserted “treatment, storage, or” after “and after such date the”.
+<b>1978</b>—Subsec (a). Pub. L. 95–609 inserted "treatment, storage, or" after "and after such date the".
 
 #### Transfer of Functions
 
 For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “responsibility”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "responsibility".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “constituent”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "constituent".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "of".</i>
 

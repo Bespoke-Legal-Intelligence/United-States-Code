@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 11, 1971, Pub. L. 92–93, §12, 85 Stat. 318.
 
-The words “precedent”, “herein”, and “or conferred” are omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the office of the Secretary” for consistency in the revised title. The words “post office” and “authorized” are omitted as unnecessary. The words “legal process” are substituted for “local process” for consistency in the revised title.
+The words "precedent", "herein", and "or conferred" are omitted as unnecessary. The words "with the secretary of state or other designated official" are substituted for "in the office of the Secretary" for consistency in the revised title. The words "post office" and "authorized" are omitted as unnecessary. The words "legal process" are substituted for "local process" for consistency in the revised title.
 

@@ -48,9 +48,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–246, §7313, substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–246, §7313, substituted "2012" for "2007".
 
-<b>2002</b>—Subsec. (f). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–171 substituted "2007" for "2002".
 
 #### Effective Date of 2008 Amendment
 

@@ -16,13 +16,13 @@ A prior section 922 of Pub. L. 90–321 was renumbered section 923 and is classi
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1084(1), substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203, §1084(1), substituted "Bureau" for "Board" wherever appearing.
 
-<b>2009</b>—Pub. L. 111–24, §402, inserted “dormancy fees, inactivity charges or fees, service fees, or expiration dates of gift certificates, store gift cards, or general-use prepaid cards,” after “electronic fund transfers,”.
+<b>2009</b>—Pub. L. 111–24, §402, inserted "dormancy fees, inactivity charges or fees, service fees, or expiration dates of gift certificates, store gift cards, or general-use prepaid cards," after "electronic fund transfers,".
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 1084(1) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by section 1084(1) of Pub. L. 111–203 effective on the designated transfer date, see section 1100Hof Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2009 Amendment
 

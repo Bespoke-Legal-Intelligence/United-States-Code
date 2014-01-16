@@ -2,7 +2,7 @@
 
 (a)
 
-Definitions.—In this section, the terms “class”, “class action”, “class certification order”, and “class member” shall have the meanings given such terms under section 1332(d)(1).
+Definitions.—In this section, the terms "class", "class action", "class certification order", and "class member" shall have the meanings given such terms under section 1332(d)(1).
 
 (b)
 
@@ -46,9 +46,9 @@ Exception.—This section shall not apply to any class action that solely involv
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 112–63 substituted “1446(c)(1)” for “1446(b)”.
+<b>2011</b>—Subsec. (b). Pub. L. 112–63 substituted "1446(c)(1)" for "1446(b)".
 
-<b>2009</b>—Subsec. (c)(1). Pub. L. 111–16 substituted “not more than 10 days” for “not less than 7 days”.
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–16 substituted "not more than 10 days" for "not less than 7 days".
 
 #### Effective Date of 2011 Amendment
 
@@ -62,5 +62,5 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under section 1332 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “77p(f)(3)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "77p(f)(3)".</i>
 

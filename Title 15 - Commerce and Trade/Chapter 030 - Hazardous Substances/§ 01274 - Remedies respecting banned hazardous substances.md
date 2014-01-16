@@ -50,7 +50,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 &emsp;(C) To refund the purchase price of such toy or article (less a reasonable allowance for use, if such toy or article has been in the possession of the consumer for 1 year or more (i) at the time of public notice under paragraph (1)(A), or (ii) at the time the consumer receives actual notice that the toy or article contains a defect which creates a substantial risk of injury to children, whichever first occurs).
 
-> An order under this paragraph may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking the action which such person has elected to take. The Commission shall specify in the order the person to whom refunds must be made if the person to whom the order is directed elects to take the action described in subparagraph (C). If an order under this paragraph is directed to more than one person, the Commission shall specifywhich person has the election under this paragraph. An order under this paragraph may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, with respect to the toy or article with respect to which the order was issued.
+> An order under this paragraph may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking the action which such person has elected to take. The Commission shall specify in the order the person to whom refunds must be made if the person to whom the order is directed elects to take the action described in subparagraph (C). If an order under this paragraph is directed to more than one person, the Commission shall specify which person has the election under this paragraph. An order under this paragraph may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, with respect to the toy or article with respect to which the order was issued.
 
 #### (d) Charge for remedy; reimbursement for expenses
 
@@ -60,11 +60,11 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 #### (e) Hearing; representative of class
 
-An order under subsection (a), (b), or (c) of this section may be issued only after an opportunity for a hearing in accordance with section 554 of title 5, except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative).
+An order under subsection (a), (b), or (c) of this section may be issued only after an opportunity for a hearing in accordance with section 554 of title 5, except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through asingle representative designated by such class (or by the Commission if such class fails to designate such a representative).
 
-#### (f) “Manufacturer” defined
+#### (f) "Manufacturer" defined
 
-For purposes of this section (1) the term “manufacturer” includes an importer for resale, and (2) a dealer who sells at wholesale an article or substance shall with respect to that sale be considered the distributor of that article or substance.
+For purposes of this section (1) the term "manufacturer" includes an importer for resale, and (2) a dealer who sells at wholesale an article or substance shall with respect to that sale be considered the distributor of that article or substance.
 
 #### (g) Cost-benefit analysis of notification or other action not required
 
@@ -78,21 +78,21 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–314 substituted “Commission may order” for “Consumer Product Safety Commission may order” in introductory provisions.
+<b>2008</b>—Subsec. (b). Pub. L. 110–314 substituted "Commission may order" for "Consumer Product Safety Commission may order" in introductory provisions.
 
 <b>1990</b>—Subsec. (g). Pub. L. 101–608 added subsec. (g).
 
-<b>1988</b>—Subsecs. (b), (c)(2). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States”.
+<b>1988</b>—Subsecs. (b), (c)(2). Pub. L. 100–418 substituted "general note 2 of the Harmonized Tariff Schedule of the United States" for "general headnote 2 to the Tariff Schedules of the United States".
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–491, §2(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 98–491, §2(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 98–491, §2(b), inserted “or (c)” after “subsection (b)”.
+Subsec. (d)(1). Pub. L. 98–491, §2(b), inserted "or (c)" after "subsection (b)".
 
-Subsec. (d)(2). Pub. L. 98–491, §2(c), (d), substituted “a toy, article” for “an article”, “toy, article” for “article” in two places, and “subsection (a), (b), or (c)” for “subsection (a) or (b)”.
+Subsec. (d)(2). Pub. L. 98–491, §2(c), (d), substituted "a toy, article" for "an article", "toy, article" for "article" in two places, and "subsection (a), (b), or (c)" for "subsection (a) or (b)".
 
-Subsec. (e). Pub. L. 98–491, §2(a)(2), (d), redesignated subsec. (d) as (e) and substituted “subsection (a), (b), or (c)” for “subsection (a) or (b)”. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 98–491, §2(a)(2), (d), redesignated subsec. (d) as (e) and substituted "subsection (a), (b), or (c)" for "subsection (a) or (b)". Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 98–491, §2(a)(1), redesignated subsec. (e) as (f).
 

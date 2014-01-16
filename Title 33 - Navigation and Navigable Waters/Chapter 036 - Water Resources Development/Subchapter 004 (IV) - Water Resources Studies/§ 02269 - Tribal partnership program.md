@@ -2,7 +2,7 @@
 
 #### (a) Definition of Indian tribe
 
-In this section, the term “Indian tribe” has the meaning given the term in section 450b of title 25.
+In this section, the term "Indian tribe" has the meaning given the term in section 450b of title 25.
 
 #### (b) Program
 
@@ -66,15 +66,15 @@ Section was enacted as part of the Water Resources Development Act of 2000, and 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1). Pub. L. 110–114, §2011(a)(1), inserted “carry out water-related planning activities and” after “the Secretary may” in introductory provisions.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–114, §2011(a)(1), inserted "carry out water-related planning activities and" after "the Secretary may" in introductory provisions.
 
-Subsec. (b)(1)(B). Pub. L. 110–114, §2011(a)(2), inserted “, and including lands that are within the jurisdictional area of an Oklahoma Indian tribe, as determined by the Secretary of the Interior, and are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations” after “section 1151 of title 18”.
+Subsec. (b)(1)(B). Pub. L. 110–114, §2011(a)(2), inserted ", and including lands that are within the jurisdictional area of an Oklahoma Indian tribe, as determined by the Secretary of the Interior, and are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations" after "section 1151 of title 18".
 
 Subsec. (b)(2). Pub. L. 110–114, §2011(a)(3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (e). Pub. L. 110–114, §2011(b), substituted “2012” for “2006”.
+Subsec. (e). Pub. L. 110–114, §2011(b), substituted "2012" for "2006".
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under section 2201 of this title.
 

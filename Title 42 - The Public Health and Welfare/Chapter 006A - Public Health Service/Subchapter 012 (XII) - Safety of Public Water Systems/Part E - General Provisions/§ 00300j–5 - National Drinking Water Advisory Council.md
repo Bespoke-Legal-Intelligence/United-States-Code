@@ -32,7 +32,7 @@ Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d),
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–182 inserted “, of which two such members shall be associated with small, rural public water systems” before period at end of second sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–182 inserted ", of which two such members shall be associated with small, rural public water systems" before period at end of second sentence.
 
 #### Termination of Advisory Committees
 

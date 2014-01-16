@@ -48,7 +48,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b)(5)(C),
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(5). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
+<b>1994</b>—Subsec. (b)(5). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" before "of the House".
 
 #### Savings Provision
 

@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 June 19, 1956, ch. 409, 70 Stat. 297.
 
-The words “armed forces” are substituted for “Army, Navy, Air Force, Marine Corps, or Coast Guard” because of 10:101(4). The words “honorably or” are added for consistency with 10:1040.
+The words "armed forces" are substituted for "Army, Navy, Air Force, Marine Corps, or Coast Guard" because of 10:101(4). The words "honorably or" are added for consistency with 10:1040.
 

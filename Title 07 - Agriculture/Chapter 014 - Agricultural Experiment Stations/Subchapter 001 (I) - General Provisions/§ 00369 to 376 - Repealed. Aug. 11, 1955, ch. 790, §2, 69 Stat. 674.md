@@ -10,7 +10,7 @@ Section 371, acts Mar. 16, 1906, ch. 951, §2, 34 Stat. 63; Feb. 24, 1925, ch. 3
 
 Section 372, act June 7, 1888, ch. 373, 25 Stat. 176, provided for assent to installments of appropriations when the legislature is not in session.
 
-Section 373, acts Mar. 16, 1906, ch. 951, §2, 34 Stat. 63; Feb. 24, 1925, ch. 308, §2, 43 Stat. 971, prescribed the timeand manner of payments to agricultural experiment stations and required a report of expenditures to the Secretary of Agriculture. See sections 361c and 361e of this title.
+Section 373, acts Mar. 16, 1906, ch. 951, §2, 34 Stat. 63; Feb. 24, 1925, ch. 308, §2, 43 Stat. 971, prescribed the time and manner of payments to agricultural experiment stations and required a report of expenditures to the Secretary of Agriculture. See sections 361c and 361e of this title.
 
 Section 374, acts Mar. 16, 1906, ch. 951, §3, 34 Stat. 63; Feb. 24, 1925, ch. 308, §3, 43 Stat. 971, required the State to replace moneys misapplied. See section 361e of this title.
 

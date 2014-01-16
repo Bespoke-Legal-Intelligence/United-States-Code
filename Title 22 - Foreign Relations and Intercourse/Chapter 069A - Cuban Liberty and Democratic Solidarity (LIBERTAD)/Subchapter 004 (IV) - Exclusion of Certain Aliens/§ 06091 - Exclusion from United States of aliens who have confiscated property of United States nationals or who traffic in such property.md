@@ -18,7 +18,7 @@ As used in this section, the following terms have the following meanings:
 
 #### (1) Confiscated; confiscation
 
-&emsp;The terms “confiscated” and “confiscation” refer to—
+&emsp;The terms "confiscated" and "confiscation" refer to—
 
 &emsp;&emsp;(A) the nationalization, expropriation, or other seizure by the Cuban Government of ownership or control of property—
 
@@ -36,7 +36,7 @@ As used in this section, the following terms have the following meanings:
 
 #### (2) Traffics
 
-&emsp;(A) Except as provided in subparagraph (B), a person “traffics” in confiscated property if that person knowingly and intentionally—
+&emsp;(A) Except as provided in subparagraph (B), a person "traffics" in confiscated property if that person knowingly and intentionally—
 
 &emsp;&emsp;(i)(I) transfers, distributes, dispenses, brokers, or otherwise disposes of confiscated property,
 
@@ -50,7 +50,7 @@ As used in this section, the following terms have the following meanings:
 
 > &emsp;without the authorization of any United States national who holds a claim to the property.
 
-&emsp;(B) The term “traffics” does not include—
+&emsp;(B) The term "traffics" does not include—
 
 &emsp;&emsp;(i) the delivery of international telecommunication signals to Cuba;
 
@@ -72,37 +72,37 @@ This section shall not apply where the Secretary of State finds, on a case by ca
 
 #### (2) Trafficking
 
-&emsp;This section applies only with respect to acts within the meaning of “traffics” that occur on or after March 12, 1996.
+&emsp;This section applies only with respect to acts within the meaning of "traffics" that occur on or after March 12, 1996.
 
 (Pub. L. 104–114, title IV, §401, Mar. 12, 1996, 110 Stat. 822.)
 
 #### References in Text
 
-Subchapter III of this chapter, referred to in subsec. (c), was in the original “title III”, meaning title III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 814, which enacted subchapter III of this chapter and sections 1643l and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
+Subchapter III of this chapter, referred to in subsec. (c), was in the original "title III", meaning title III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 814, which enacted subchapter III of this chapter and sections 1643l and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
 
 #### Reports on Determinations Under Title IV of the LIBERTAD Act
 
 Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2802, Oct. 21, 1998, 112 Stat. 2681–845, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423; Pub. L. 107–228, div. A, title II, §216(b), Sept. 30, 2002, 116 Stat. 1366, provided that:
 
-“(a)
+"(a)
 
 Reports Required.—Not later than 30 days after the date of the enactment of this Act \[Oct. 21, 1998\] and every 3 months thereafter during the period ending September 30, 2003, the Secretary of State shall submit to the appropriate congressional committees \[Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate\] a report on the implementation of section 401 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 (22 U.S.C. 6091). Each report shall include—
 
-&emsp;“(1) an unclassified list, by economic sector, of the number of entities then under review pursuant to that section;
+&emsp;"(1) an unclassified list, by economic sector, of the number of entities then under review pursuant to that section;
 
-&emsp;“(2) an unclassified list of all entities and a classified list of all individuals that the Secretary of State has determined to be subject to that section;
+&emsp;"(2) an unclassified list of all entities and a classified list of all individuals that the Secretary of State has determined to be subject to that section;
 
-&emsp;“(3) an unclassified list of all entities and a classified list of all individuals that the Secretary of State has determined are no longer subject to that section;
+&emsp;"(3) an unclassified list of all entities and a classified list of all individuals that the Secretary of State has determined are no longer subject to that section;
 
-&emsp;“(4) an explanation of the status of the review underway for the cases referred to in paragraph (1); and
+&emsp;"(4) an explanation of the status of the review underway for the cases referred to in paragraph (1); and
 
-&emsp;“(5) an unclassified explanation of each determination of the Secretary of State under section 401(a) of that Act and each finding of the Secretary under section 401(c) of that Act—
+&emsp;"(5) an unclassified explanation of each determination of the Secretary of State under section 401(a) of that Act and each finding of the Secretary under section 401(c) of that Act—
 
-&emsp;&emsp;“(A) since the date of the enactment of this Act, in the case of the first report under this subsection; and
+&emsp;&emsp;"(A) since the date of the enactment of this Act, in the case of the first report under this subsection; and
 
-&emsp;&emsp;“(B) in the preceding 3-month period, in the case of each subsequent report.
+&emsp;&emsp;"(B) in the preceding 3-month period, in the case of each subsequent report.
 
-“(b)
+"(b)
 
-Protection of Identity of Concerned Entities.—In preparing the report under subsection (a), the names of entities shall not be identified under paragraph (1) or (4).”
+Protection of Identity of Concerned Entities.—In preparing the report under subsection (a), the names of entities shall not be identified under paragraph (1) or (4)."
 

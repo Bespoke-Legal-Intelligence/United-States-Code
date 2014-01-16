@@ -1,6 +1,6 @@
 ### §3771. Injuries in locks of canal; adjustment and payment of claims
 
-(a) Subject to section 3779(b) of this title and to subsection (b) of this section, the Commission shall promptly adjust and pay damages for injuries to vessels, or to the cargo, crew, or passengers of vessels, which may arise by reason of their passage through the locks of the Panama Canal when the injury was proximately caused by negligence or fault on the part of an officer or employee of the United States acting within the scope of his employment and in the line ofhis duties in connection with the operation of the Canal. If the negligence or fault of the vessel, master, crew, or passengers proximately contributed to the injury, the award of damages shall be diminished in proportion to the negligence or fault attributable to the vessel, master, crew, or passengers. Damages may not be allowed and paid for injuries to any protrusion beyond any portion of the hull of a vessel, whether it is permanent or temporary in character. A vessel is considered to be passing through the locks of the Canal, under the control of officers or employees of the United States, from the time the first towing line is made fast on board before entrance into the locks and until the towing lines are cast off upon, or immediately prior to, departure from the lock chamber. No payment for damages on a claim may be made under this section unless the claim is filed with the Commission within one year after the date of the injury or by November 18, 1998, whichever is later.
+(a) Subject to section 3779(b) of this title and to subsection (b) of this section, the Commission shall promptly adjust and pay damages for injuries to vessels, or to the cargo, crew, or passengers of vessels, which may arise by reason of their passage through the locks of the Panama Canal when the injury was proximately caused by negligence or fault on the part of an officer or employee of the United States acting within the scope of his employment and in the line of his duties in connection with the operation of the Canal. If the negligence or fault of the vessel, master, crew, or passengers proximately contributed to the injury, the award of damages shall be diminished in proportion to the negligence or fault attributable to the vessel, master, crew, or passengers. Damages may not be allowed and paid for injuries to any protrusion beyond any portion of the hull of a vessel, whether it is permanent or temporary in character. A vessel is considered to be passing through the locks of the Canal, under the control of officers or employees of the United States, from the time the first towing line is made fast on board before entrance into the locks and until the towing lines are cast off upon, or immediately prior to, departure from the lock chamber. No payment for damages on a claim may be made under this section unless the claim is filed with the Commission within one year after the date of the injury or by November 18, 1998, whichever is later.
 
 (b)(1) With respect to a claim under subsection (a) of this section for damages for injuries to a vessel or its cargo, if, at the time the injuries were incurred, the navigation or movement of the vessel was not under the control of a Panama Canal pilot, the Commission may pay not more than $50,000 on the claim, unless the injuries were caused by another vessel under the control of a Panama Canal pilot.
 
@@ -10,13 +10,13 @@
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–261 inserted “to section 3779(b) of this title and” after “Subject” in first sentence and substituted “by November 18, 1998” for “November 18, 1997”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–261 inserted "to section 3779(b) of this title and" after "Subject" in first sentence and substituted "by November 18, 1998" for "November 18, 1997".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted “within one year after the date of the injury or November 18, 1997,” for “within 2 years after the date of the injury, or within 1 year after December 23, 1985,”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted "within one year after the date of the injury or November 18, 1997," for "within 2 years after the date of the injury, or within 1 year after December 23, 1985,".
 
-<b>1987</b>—Subsec. (b)(1). Pub. L. 100–203 substituted “pay not more than $50,000 on the claim” for “adjust and pay the claim only if the amount of the claim does not exceed $50,000”.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–203 substituted "pay not more than $50,000 on the claim" for "adjust and paythe claim only if the amount of the claim does not exceed $50,000".
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–209, §2(a), designated existing provisions as subsec. (a), substituted “Subject to subsection (b) of this section, the” for “The”, substituted “the Panama Canal when the injury was proximately caused by negligence or fault on the part of an officer or employee of the United States acting within the scope of his employment and in the line of his duties in connection with the operation of the Canal” for “The Panama Canal under the control of officers or employees of the United States”, struck out provision that damages could not be paid where the injury was proximately caused by the negligence or fault of the vessel, master, crew, or passengers, and inserted provision that no payment for damages on a claim may be made under this section unless the claim is filed with the Commission within 2 years after the date of the injury, or within 1 year after Dec. 23, 1985, whichever is later.
+<b>1985</b>—Subsec. (a). Pub. L. 99–209, §2(a), designated existing provisions as subsec. (a), substituted "Subject to subsection (b) of this section, the" for "The", substituted "the Panama Canal when the injury was proximately caused by negligence or fault on the part of an officer or employee of the United States acting within the scope of his employment and in the line of his duties in connection with the operation of the Canal" for "The Panama Canal under the control of officers or employees of the United States", struck out provision that damages could not be paid where the injury was proximately caused by the negligence or fault of the vessel, master, crew, or passengers, and inserted provision that no payment for damages on a claim may be made under this section unless the claim is filed with the Commission within 2 years after the date of the injury, or within 1 year after Dec. 23, 1985, whichever is later.
 
 Subsec. (b). Pub. L. 99–209, §2(b), added subsec. (b).
 
@@ -24,19 +24,19 @@ Subsec. (b). Pub. L. 99–209, §2(b), added subsec. (b).
 
 Pub. L. 99–209, §7, Dec. 23, 1985, 99 Stat. 1718, provided that:
 
-“(a)
+"(a)
 
 Retroactive Applicability.—The amendments made by subsections (a) and (c) of section 2 \[amending this section and section 3772 of this title\], and the amendments made by sections 4 and 5 of this Act \[amending sections 3775 and 3776 of this title\], shall apply to any claim arising on or after October 1, 1979.
 
-“(b)
+"(b)
 
 Future Applicability.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Sections 3 and 6.—The amendments made by sections 3 \[amending section 3774 of this title\] and 6 \[enacting section 3779 of this title\] of this Act shall apply to any claim arising on or after the date of the enactment of this Act \[Dec. 23, 1985\].
 
-&emsp;“(2)
+&emsp;"(2)
 
-Section 2(b).—The amendment made by subsection (b) of section 2 \[amending this section\] shall apply to any claim arising from an incident occurring on or after the date of the enactment of this Act \[Dec. 23, 1985\].”
+Section 2(b).—The amendment made by subsection (b) of section 2 \[amending this section\] shall apply to any claim arising from an incident occurring on or after the date of the enactment of this Act \[Dec. 23, 1985\]."
 

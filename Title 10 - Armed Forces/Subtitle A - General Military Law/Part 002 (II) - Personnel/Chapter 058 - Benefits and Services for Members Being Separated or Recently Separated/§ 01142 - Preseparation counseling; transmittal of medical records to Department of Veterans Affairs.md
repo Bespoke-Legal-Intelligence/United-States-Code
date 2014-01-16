@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement.—(1) Within the time periods specified in paragraph (3), the Secretary concerned shall (except as provided in paragraph (4)) provide for individual preseparation counseling of each member of the armed forces whose discharge or release from active duty is anticipated as of a specific date. A notation of the provision of such counseling with respect to each matter specified in subsection (b), signed by the member, shall be placed in the service record of each member receiving such counseling.
+Requirement.—(1) Within the time periods specified in paragraph (3), the Secretary concerned shall (except as provided in paragraph (4)) provide for individual preseparation counseling of each member of the armed forces whosedischarge or release from active duty is anticipated as of a specific date. A notation of the provision of such counseling with respect to each matter specified in subsection (b), signed by the member, shall be placed in the service record of each member receiving such counseling.
 
 (2) In carrying out this section, the Secretary concerned shall use the services available under section 1144 of this title.
 
@@ -66,59 +66,59 @@ Transmittal of Medical Information to Department of Veterans Affairs.—In the c
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(4)(C). Pub. L. 112–239, §541(c), struck out “under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672)” before period at end.
+<b>2013</b>—Subsec. (b)(4)(C). Pub. L. 112–239, §541(c), struck out "under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672)" before period at end.
 
-Subsec. (b)(10). Pub. L. 112–239, §1076(f)(12), substituted “training,” for “training,,”.
+Subsec. (b)(10). Pub. L. 112–239, §1076(f)(12), substituted "training," for "training,,".
 
-Subsec. (b)(13). Pub. L. 112–239, §1699(c)(1), struck out “and the National Veterans Business Development Corporation” before period at end.
+Subsec. (b)(13). Pub. L. 112–239, §1699(c)(1), struck out "and the National Veterans Business Development Corporation" before period at end.
 
-<b>2011</b>—Subsec. (a)(2). Pub. L. 112–56 substituted “shall” for “may”.
+<b>2011</b>—Subsec. (a)(2). Pub. L. 112–56 substituted "shall" for "may".
 
-Subsec. (a)(3)(B). Pub. L. 112–81, §513, inserted “or in the event a member of a reserve component is being demobilized under circumstances in which (as determined by the Secretary concerned) operational requirements make the 90-day requirement under subparagraph (A) unfeasible,” after “or separation date,”.
+Subsec. (a)(3)(B). Pub. L. 112–81, §513, inserted "or in the event a member of a reserve component is being demobilized under circumstances in which (as determined by the Secretary concerned) operational requirements make the 90-day requirement under subparagraph (A) unfeasible," after "or separation date,".
 
-Subsec. (b)(5). Pub. L. 112–81, §529(1), substituted “inclusion of the spouse, at the discretion of the member and the spouse, when counseling regarding the matters covered by paragraphs (9), (10), and (16) is provided, job placement counseling for the spouse, and the provision of information on survivor benefits available under the laws administered by the Secretary of Defense or the Secretary of Veterans Affairs” for “job placement counseling for the spouse”.
+Subsec. (b)(5). Pub. L. 112–81, §529(1), substituted "inclusion of the spouse, at the discretion of the member and the spouse, when counseling regarding the matters covered by paragraphs (9), (10), and (16) is provided, job placement counseling for the spouse, and the provision of information on survivor benefits available under the laws administered by the Secretary of Defense or the Secretary of Veterans Affairs" for "job placement counseling for the spouse".
 
-Subsec. (b)(8). Pub. L. 112–81, §533(c), inserted before period at end “and the availability to the member and dependents of suicide prevention resources following separation from the armed forces”.
+Subsec. (b)(8). Pub. L. 112–81, §533(c), inserted before period at end "and the availability to the member and dependents of suicide prevention resources following separation from the armed forces".
 
-Subsec. (b)(9). Pub. L. 112–81, §529(2), inserted before period at end “, including information on budgeting, saving, credit, loans, and taxes”.
+Subsec. (b)(9). Pub. L. 112–81, §529(2), inserted before period at end ", including information on budgeting, saving, credit, loans, and taxes".
 
-Subsec. (b)(10). Pub. L. 112–81, §529(3), substituted “, employment, and financial” for “and employment”.
+Subsec. (b)(10). Pub. L. 112–81, §529(3), substituted ", employment, and financial" for "and employment".
 
-Subsec. (b)(16). Pub. L. 112–81, §529(4), added par. (16) and struck out former par. (16) which read as follows: “Contact information for housing counseling assistance.”
+Subsec. (b)(16). Pub. L. 112–81, §529(4), added par. (16) and struck out former par. (16) which read as follows: "Contact information for housing counseling assistance."
 
-Subsec. (b)(17). Pub. L. 112–81, §529(5), inserted before period at end “, and information regarding the means by which the member can receive additional counseling regarding the member's actual entitlement to such benefits and apply for such benefits”.
+Subsec. (b)(17). Pub. L. 112–81, §529(5), inserted before period at end ", and information regarding the means by which the member can receive additional counseling regarding the member's actual entitlement to such benefits and apply for such benefits".
 
-<b>2009</b>—Subsec. (b)(4)(C). Pub. L. 111–84, §1073(a)(13)(A), substituted “the Troops-to-Teachers Program under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672)” for “the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)”.
+<b>2009</b>—Subsec. (b)(4)(C). Pub. L. 111–84, §1073(a)(13)(A), substituted "the Troops-to-Teachers Program under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672)" for "the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)".
 
-Subsec. (b)(15). Pub. L. 111–84, §1073(a)(13)(B), substituted “Federal” for “federal” in two places.
+Subsec. (b)(15). Pub. L. 111–84, §1073(a)(13)(B), substituted "Federal" for "federal" in two places.
 
-<b>2006</b>—Subsec. (b)(4). Pub. L. 109–163, §594(1), substituted “Provision of information on civilian occupations and related assistance programs, including information concerning—
+<b>2006</b>—Subsec. (b)(4). Pub. L. 109–163, §594(1), substituted "Provision of information on civilian occupations and related assistance programs, including information concerning—
 
-&emsp;“(A) certification and licensure requirements that are applicable to civilian occupations;
+&emsp;"(A) certification and licensure requirements that are applicable to civilian occupations;
 
-&emsp;“(B) civilian occupations that correspond to military occupational specialties; and
+&emsp;"(B) civilian occupations that correspond to military occupational specialties; and
 
-&emsp;“(C)”
+&emsp;"(C)"
 
-> for “Information concerning”.
+> for "Information concerning".
 
 Subsec. (b)(11) to (17). Pub. L. 109–163, §594(2), added pars. (11) to (17).
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–103, §302(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member.”
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–103, §302(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member."
 
 Subsec. (a)(3), (4). Pub. L. 107–103, §302(a)(2), added pars. (3) and (4).
 
-<b>2000</b>—Subsec. (b)(4). Pub. L. 106–398 substituted “sections 1152 and 1153 of this title and the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)” for “sections 1151, 1152, and 1153 of this title”.
+<b>2000</b>—Subsec. (b)(4). Pub. L. 106–398 substituted "sections 1152 and 1153 of this title and the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)" for "sections 1151, 1152, and 1153 of this title".
 
-<b>1993</b>—Subsec. (b)(4). Pub. L. 103–160 substituted “programs established under sections 1151, 1152, and 1153 of this title” for “program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides”.
+<b>1993</b>—Subsec. (b)(4). Pub. L. 103–160 substituted "programs established under sections 1151, 1152, and 1153 of this title" for "program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers' aides".
 
-Pub. L. 103–35 substituted “job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides” for “job placement assistance and information regarding the placement program established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers’ aides., including the public and community service jobs program carried out under section 1143a of this title”.
+Pub. L. 103–35 substituted "job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers' aides" for "job placement assistance and information regarding the placement program established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers' aides., including the public and community service jobs program carried out under section 1143a of this title".
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–484, §4401(a), substituted “As soon as possible before, but in no event later than 90 days before, the date of the discharge” for “Upon the discharge”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–484, §4401(a), substituted "As soon as possible before, but in no event later than 90 days before, the date of the discharge" for "Upon the discharge".
 
-Subsec. (b)(4). Pub. L. 102–484, §4462(b), inserted before period at end “, including the public and community service jobs program carried out under section 1143a of this title”.
+Subsec. (b)(4). Pub. L. 102–484, §4462(b), inserted before period at end ", including the public and community service jobs program carried out under section 1143a of this title".
 
-Pub. L. 102–484, §4441(b), inserted before period at end “and information regarding the placement program established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers’ aides.”
+Pub. L. 102–484, §4441(b), inserted before period at end "and information regarding the placement program established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers' aides."
 
 Subsec. (b)(10). Pub. L. 102–484, §4401(b), added par. (10).
 
@@ -126,13 +126,13 @@ Subsec. (b)(10). Pub. L. 102–484, §4401(b), added par. (10).
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–56, title II, §221(c), Nov. 21, 2011, 125 Stat. 716, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1144 of this title\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Nov. 21, 2011\].”
+Pub. L. 112–56, title II, §221(c), Nov. 21, 2011, 125 Stat. 716, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1144 of this title\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Nov. 21, 2011\]."
 
 #### Application of Preseparation Counseling Requirements to Coast Guard
 
-Pub. L. 103–337, div. A, title V, §543(a), Oct. 5, 1994, 108 Stat. 2769, provided that: “As soon as possible after the date of the enactment of this Act \[Oct. 5, 1994\], the Secretary of Transportation shall implement the requirements of section 1142 of title 10, United States Code, for the Coast Guard.”
+Pub. L. 103–337, div. A, title V, §543(a), Oct. 5, 1994, 108 Stat. 2769, provided that: "As soon as possible after thedate of the enactment of this Act \[Oct. 5, 1994\], the Secretary of Transportation shall implement the requirements of section 1142 of title 10, United States Code, for the Coast Guard."
 
 #### Limitation on Funding To Carry Out Section 543 of Pub. L. 103–337
 
-Pub. L. 103–337, div. A, title V, §543(h), Oct. 5, 1994, 108 Stat. 2772, provided that: “Funds appropriated or otherwise made available to the Department of Defense, the Department of Education, the Department of Labor, or the Department of Veterans Affairs may not be used to carry out subsection (a) \[set out above\] or the amendments made by this section \[amending sections 1144 and 1151 to 1153 of this title and provisions set out as notes under section 1143 of this title\].”
+Pub. L. 103–337, div. A, title V, §543(h), Oct. 5, 1994, 108 Stat. 2772, provided that: "Funds appropriated or otherwise made available to the Department of Defense, the Department of Education, the Department of Labor, or the Department of Veterans Affairs may not be used to carry out subsection (a) \[set out above\] or the amendments made by this section \[amending sections 1144 and 1151 to 1153 of this title and provisions set out as notes under section 1143 of this title\]."
 

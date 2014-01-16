@@ -16,7 +16,7 @@ The Secretary may award grants to eligible institutions of higher education to s
 
 To be eligible for a grant under this section, an institution shall demonstrate—
 
-&emsp;(1) participation in the institutions’ programs of individuals and groups from different racial, ethnic, cultural, geographic, religious, linguistic, and class backgrounds, and different genders and sexual orientations;
+&emsp;(1) participation in the institutions' programs of individuals and groups from different racial, ethnic, cultural, geographic, religious, linguistic, and class backgrounds, and different genders and sexual orientations;
 
 &emsp;(2) knowledge and understanding of the concerns of the individuals and groups described in subsection (a); <sup>1</sup>
 
@@ -44,7 +44,7 @@ For grants authorized under subsection (a)(1), at least 4 of the grant recipient
 
 (3) In selecting the grant recipients in training programs in child and adolescent mental health under subsections (a)(3) and (a)(4), the Secretary shall give priority to applicants that—
 
-&emsp;(A) have demonstrated the ability to collect data on the number of students trained in child and adolescent mental health and the populations served by such students after graduation or completion of preservice or in-service training;
+&emsp;(A) have demonstrated the ability to collect data on the number of students trained inchild and adolescent mental health and the populations served by such students after graduation or completion of preservice or in-service training;
 
 &emsp;(B) have demonstrated familiarity with evidence-based methods in child and adolescent mental health services, including substance abuse prevention and treatment services;
 
@@ -80,5 +80,5 @@ Another prior section 756 of act July 1, 1944, was renumbered section 338G, tran
 
 Another prior section 756 of act July 1, 1944, was classified to section 294f of this title prior to repeal by Pub. L. 94–484.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1);”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1);".</i>
 

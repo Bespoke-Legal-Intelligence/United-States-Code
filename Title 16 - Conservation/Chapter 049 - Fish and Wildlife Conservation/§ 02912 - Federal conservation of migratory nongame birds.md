@@ -8,7 +8,7 @@ The Secretary shall undertake the following research and conservation activities
 
 &emsp;(2) identify the effects of environmental changes and human activities on species, subspecies, and populations of all migratory nongame birds;
 
-&emsp;(3) identify species, subspecies, and populations of all migratory nongame birds that,without additional conservation actions, are likely to become candidates for listing under the Endangered Species Act of 1973, as amended (16 U.S.C. 1531–1543);
+&emsp;(3) identify species, subspecies, and populations of all migratory nongame birds that, without additional conservation actions, are likely to become candidates for listing under the Endangered Species Act of 1973, as amended (16 U.S.C. 1531–1543);
 
 &emsp;(4) identify conservation actions to assure that species, subspecies, and populations of migratory nongame birds identified under paragraph (3) do not reach the point at which the measures provided pursuant to the Endangered Species Act of 1973, as amended (16 U.S.C. 1531–1543) become necessary; and
 
@@ -30,7 +30,7 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(3), (4), is Pub. 
 
 #### Codification
 
-November 14, 1988, referred to in subsec. (b), was in the original “the date of enactment of this Act” which was translated as meaning the date of enactment of Pub. L. 100–653, which enacted this section, to reflect the probable intent of Congress.
+November 14, 1988, referred to in subsec. (b), was in the original "the date of enactment of this Act" which was translated as meaning the date of enactment of Pub. L. 100–653, which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
 

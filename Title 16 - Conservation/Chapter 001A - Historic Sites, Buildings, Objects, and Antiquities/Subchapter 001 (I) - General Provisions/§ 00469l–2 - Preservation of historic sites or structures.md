@@ -32,27 +32,27 @@ Amendment by Pub. L. 110–229 effective at the beginning of the fiscal year imm
 
 Pub. L. 106–291, title I, §150(b), Oct. 11, 2000, 114 Stat. 956, provided that:
 
-“(1)
+"(1)
 
 Findings.—Congress finds that—
 
-&emsp;“(A) the National Underground Railroad Freedom Center (hereinafter ‘Freedom Center’) is a nonprofit organization incorporated under the laws of the State of Ohio in 1995;
+&emsp;"(A) the National Underground Railroad Freedom Center (hereinafter 'Freedom Center') is a nonprofit organization incorporated under the laws of the State of Ohio in 1995;
 
-&emsp;“(B) the objectives of the Freedom Center are to interpret the history of the Underground Railroad through development of a national cultural institution in Cincinnati, Ohio, that will house an interpretive center, including museum, educational, and research facilities, all dedicated to communicating to the public the importance of the quest for human freedom which provided the foundation for the historic and inspiring story of the Underground Railroad;
+&emsp;"(B) the objectives of the Freedom Center are to interpret the history of the Underground Railroad through development of a national cultural institution in Cincinnati, Ohio, that will house an interpretive center, including museum, educational, and research facilities, all dedicated to communicating to the public the importance of the quest for human freedom which provided the foundation for the historic and inspiring story of the Underground Railroad;
 
-&emsp;“(C) the city of Cincinnati has granted exclusive development rights for a prime riverfront location to the Freedom Center;
+&emsp;"(C) the city of Cincinnati has granted exclusive development rights for a prime riverfront location to the Freedom Center;
 
-&emsp;“(D) the Freedom Center will be a national center linked through state-of-the-art technology to Underground Railroad sites and facilities throughout the United States and to a constituency that reaches across the United States, Canada, Mexico, the Caribbean and beyond; and
+&emsp;"(D) the Freedom Center will be a national center linked through state-of-the-art technology to Underground Railroad sites and facilities throughout the United States and to a constituency that reaches across the United States, Canada, Mexico, the Caribbean and beyond; and
 
-&emsp;“(E) the Freedom Center has reached an agreement with the National Park Service to pursue a range of historical and educational cooperative activities related to the Underground Railroad, including but not limited to assisting the National Park Service in the implementation of the National Underground Railroad Network to Freedom Act \[16 U.S.C. 469l et seq.\].
+&emsp;"(E) the Freedom Center has reached an agreement with the National Park Service to pursue a range of historical and educational cooperative activities related to the Underground Railroad, including but not limited to assisting the National Park Service in the implementation of the National Underground Railroad Network to Freedom Act \[16 U.S.C. 469l et seq.\].
 
-“(2)
+"(2)
 
 Purposes.—The purposes of this section are—
 
-&emsp;“(A) to promote preservation and public awareness of the history of the Underground Railroad;
+&emsp;"(A) to promote preservation and public awareness of the history of the Underground Railroad;
 
-&emsp;“(B) to assist the Freedom Center in the development of its programs and facilities in Cincinnati, Ohio; and
+&emsp;"(B) to assist the Freedom Center in the development of its programs and facilities in Cincinnati, Ohio; and
 
-&emsp;“(C) to assist the National Park Service in the implementation of the National Underground RailroadNetwork to Freedom Act (112 Stat. 679; 16 U.S.C. 469l and following).”
+&emsp;"(C) to assist the National Park Service in the implementation of the National Underground Railroad Network to Freedom Act (112 Stat. 679; 16 U.S.C. 469l and following)."
 

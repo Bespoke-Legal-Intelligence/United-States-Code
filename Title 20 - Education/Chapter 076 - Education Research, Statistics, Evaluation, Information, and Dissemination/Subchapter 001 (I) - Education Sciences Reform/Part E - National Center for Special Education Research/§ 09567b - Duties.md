@@ -86,7 +86,7 @@ The Special Education Research Commissioner shall propose to the Director a rese
 
 The Special Education Research Center shall—
 
-&emsp;(1) synthesize and disseminate, through the National Center for Education Evaluation and Regional Assistance, the findings and results of special education research conducted or supported by the Special Education Research Center; and
+&emsp;(1) synthesize and disseminate, through the National Center for Education Evaluation and Regional Assistance, the findings and resultsof special education research conducted or supported by the Special Education Research Center; and
 
 &emsp;(2) assist the Director in the preparation of a biennial report, as described in section 9519 of this title.
 
@@ -104,11 +104,11 @@ The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1) 
 
 Pub. L. 108–446, title III, §302(c), Dec. 3, 2004, 118 Stat. 2803, provided that:
 
-“(1)
+"(1)
 
 National center for special education research.—Sections 175, 176, and 177 \[20 U.S.C. 9567, 9567a, 9567b\] (other than section 177(c) \[20 U.S.C. 9567b(c)\]) of the Education Sciences Reform Act of 2002, as enacted by section 201(a)(2) of this Act, shall take effect on the date of enactment of this Act \[Dec. 3, 2004\].
 
-“(2)
+"(2)
 
-Plan.—Section 177(c) of the Education Sciences Reform Act of 2002, as enacted by section 201(a)(2) of this Act, shall take effect on October 1, 2005.”
+Plan.—Section 177(c) of the Education Sciences Reform Act of 2002, as enacted by section 201(a)(2) of this Act, shall take effect on October 1, 2005."
 

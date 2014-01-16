@@ -22,9 +22,9 @@ Operational Flexibility.—The Secretary may implement any management efficienci
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–213 substituted “Secretary may not” for “Secretary of Homeland Security may not” in introductory provisions.
+<b>2012</b>—Subsec. (a). Pub. L. 112–213 substituted "Secretary may not" for "Secretary of Homeland Security may not" in introductory provisions.
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–296, which directed amendment of section 674 of this title by substituting “of Homeland Security” for “of Transportation” in introductory provisions, was executed to this section, to reflect the probable intent of Congress and the renumbering of section 674 of this title as this section by Pub. L. 107–295, see below.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296, which directed amendment of section 674 of this title by substituting "of Homeland Security" for "of Transportation" in introductory provisions, was executed to this section, to reflect the probable intent of Congress and the renumbering of section 674 of this title as this section by Pub. L. 107–295, see below.
 
 Pub. L. 107–295 renumbered section 674 of this title as this section.
 

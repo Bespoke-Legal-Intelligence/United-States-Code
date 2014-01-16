@@ -18,17 +18,17 @@ This Act, referred to in subsec. (a), means Pub. L. 95–625, Nov. 10, 1978, 92 
 
 #### Codification
 
-In subsec. (a), “section 2505 of this title” was in the original “section 6 of this title” and was editorially translated as section 2505 of this title to reflect the probable intent of Congress in view of the subject matter of section 2505 which relates to innovative grants.
+In subsec. (a), "section 2505 of this title" was in the original "section 6 of this title" and was editorially translated as section 2505 of this title to reflect the probable intent of Congress in view of the subject matter of section 2505 which relates to innovative grants.
 
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1984</b>—Pub. L. 98–454 substituted “section” for “subsection” after “For the authorizations made in this”.
+<b>1984</b>—Pub. L. 98–454 substituted "section" for "subsection" after "For the authorizations made in this".
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this chapter,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this chapter,".</i>
 

@@ -24,29 +24,29 @@ Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and al
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–360 substituted “2009 through 2014” for “2005 through 2009”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–360 substituted "2009 through 2014" for "2005 through 2009".
 
 #### Incentive Grants to States To Ensure Consideration of Claims of Actual Innocence
 
-Pub. L. 108–405, title IV, §413, Oct. 30, 2004, 118 Stat. 2285, provided that: “For each of fiscal years 2005 through 2009, all funds appropriated to carry out sections 303, 305, 308, and 412 \[sections 14136, 14136b, 14136d, and 14136e of this title\] shall be reserved for grants to eligible entities that—
+Pub. L. 108–405, title IV, §413, Oct. 30, 2004, 118 Stat. 2285, provided that: "For each of fiscal years 2005 through 2009, all funds appropriated to carry out sections 303, 305, 308, and 412 \[sections 14136, 14136b, 14136d, and 14136e of this title\] shall be reserved for grants to eligible entities that—
 
-&emsp;“(1) meet the requirements under section 303, 305, 308, or 412, as appropriate; and
+&emsp;"(1) meet the requirements under section 303, 305, 308, or 412, as appropriate; and
 
-&emsp;“(2) demonstrate that the State in which the eligible entity operates—
+&emsp;"(2) demonstrate that the State in which the eligible entity operates—
 
-&emsp;&emsp;“(A) provides post-conviction DNA testing of specified evidence—
+&emsp;&emsp;"(A) provides post-conviction DNA testing of specified evidence—
 
-&emsp;&emsp;&emsp;“(i) under a State statute enacted before the date of enactment of this Act \[Oct. 30, 2004\] (or extended or renewed after such date), to persons convicted after trial and under a sentence of imprisonment or death for a State felony offense, in a manner that ensures a reasonable process for resolving claims of actual innocence; or
+&emsp;&emsp;&emsp;"(i) under a State statute enacted before the date of enactment of this Act \[Oct. 30, 2004\] (or extended or renewed after such date), to persons convicted after trial and under a sentence of imprisonment or death for a State felony offense, in a manner that ensures a reasonable process for resolving claims of actual innocence; or
 
-&emsp;&emsp;&emsp;“(ii) under a State statute enacted after the date of enactment of this Act, or under a State rule, regulation, or practice, to persons under a sentence of imprisonment or death for a State felony offense, in a manner comparable to section 3600(a) of title 18, United States Code (provided that the State statute, rule, regulation, or practice may make post-conviction DNA testing available in cases in which such testing is not required by such section), and if the results of such testing exclude the applicant, permits the applicant to apply for post-conviction relief, notwithstanding any provision of law that would otherwise bar such application as untimely; and
+&emsp;&emsp;&emsp;"(ii) under a State statute enacted after the date of enactment of this Act, or under a Staterule, regulation, or practice, to persons under a sentence of imprisonment or death for a State felony offense, in a manner comparable to section 3600(a) of title 18, United States Code (provided that the State statute, rule, regulation, or practice may make post-conviction DNA testing available in cases in which such testing is not required by such section), and if the results of such testing exclude the applicant, permits the applicant to apply for post-conviction relief, notwithstanding any provision of law that would otherwise bar such application as untimely; and
 
-&emsp;&emsp;“(B) preserves biological evidence secured in relation to the investigation or prosecution of a State offense—
+&emsp;&emsp;"(B) preserves biological evidence secured in relation to the investigation or prosecution of a State offense—
 
-&emsp;&emsp;&emsp;“(i) under a State statute or a State or local rule, regulation, or practice, enacted or adopted before the date of enactment of this Act (or extended or renewed after such date), in a manner that ensures that reasonable measures are taken by all jurisdictions within the State to preserve such evidence; or
+&emsp;&emsp;&emsp;"(i) under a State statute or a State or local rule, regulation, or practice, enacted or adopted before the date of enactment of this Act (or extended or renewed after such date), in a manner that ensures that reasonable measures are taken by all jurisdictions within the State to preserve such evidence; or
 
-&emsp;&emsp;&emsp;“(ii) under a State statute or a State or local rule, regulation, or practice, enacted or adopted after the date of enactment of this Act, in a manner comparable to section 3600A of title 18, United States Code, if—
+&emsp;&emsp;&emsp;"(ii) under a State statute or a State or local rule, regulation, or practice, enacted or adopted after the date of enactment of this Act, in a manner comparable to section 3600A of title 18, United States Code, if—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) all jurisdictions within the State comply with this requirement; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) all jurisdictions within the State comply with this requirement; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) such jurisdictions may preserve such evidence for longer than the period of time that such evidence would be required to be preserved under such section 3600A.”
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) such jurisdictions may preserve such evidence for longer than the period of time that such evidence would be required to be preserved under such section 3600A."
 

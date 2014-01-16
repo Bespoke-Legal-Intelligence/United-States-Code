@@ -16,7 +16,7 @@
 
 &emsp;Each State, in the notice of termination of aid under part A of subchapter IV of this chapter sent to a family meeting the requirements of paragraph (1)—
 
-&emsp;&emsp;(A) shall notify the family of its right to extended medical assistance under this subsection and include in the notice a description of the reporting requirement of subsection (b)(2)(B)(i) of this section and of the circumstances (described in paragraph (3)) under which such extension may be terminated; and
+&emsp;&emsp;(A) shall notify the family of its right to extended medical assistance under this subsection and include in the notice a description of the reporting requirement of subsection (b)(2)(B)(i) of this section and of thecircumstances (described in paragraph (3)) under which such extension may be terminated; and
 
 &emsp;&emsp;(B) shall include a card or other evidence of the family's entitlement to assistance under this subchapter for the period provided in this subsection.
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;Subject to subparagraph (B), during the 6-month extension period under this subsection, the amount, duration, and scope of medical assistance made available with respect to a family shall be the same as if the family were still receiving aid under the plan approved under part A of subchapter IV of this chapter.
 
-#### (B) State medicaid “wrap-around” option
+#### (B) State medicaid "wrap-around" option
 
 &emsp;&emsp;A State, at its option, may pay a family's expenses for premiums, deductibles, coinsurance, and similar costs for health insurance or other health coverage offered by an employer of the caretaker relative or by an employer of the absent parent of a dependent child. In the case of such coverage offered by an employer of the caretaker relative—
 
@@ -74,7 +74,7 @@
 
 #### (ii) Notice during additional extension period of reporting requirements and premiums
 
-&emsp;&emsp;&emsp;Each State, during the 3rd month of any additional extended assistance furnished to a family under this subsection, shall notify the family of the reporting requirement under subparagraph (B)(ii) and a statement of the amount of any premium required for such extended assistance for the succeeding 3 months.
+&emsp;&emsp;&emsp;Each State, during the 3rd month of any additional extended assistance furnishedto a family under this subsection, shall notify the family of the reporting requirement under subparagraph (B)(ii) and a statement of the amount of any premium required for such extended assistance for the succeeding 3 months.
 
 #### (B) Reporting requirements
 
@@ -124,7 +124,7 @@
 
 #### (i) Dependent children
 
-&emsp;&emsp;&emsp;With respect to a child who would cease to receive medical assistance because of subparagraph (A)(i) but who may be eligible for assistance under the State plan because the child is described in clause (i) of section 1396d(a) of this title or clause (i)(IV), (i)(VI), (i)(VII), or (ii)(IX) of section 1396a(a)(10)(A) of this title, the State may not discontinue such assistance under such subparagraph until the State has determined that the child is not eligible for assistance under the plan.
+&emsp;&emsp;&emsp;With respect to a child who would cease to receive medical assistance because ofsubparagraph (A)(i) but who may be eligible for assistance under the State plan because the child is described in clause (i) of section 1396d(a) of this title or clause (i)(IV), (i)(VI), (i)(VII), or (ii)(IX) of section 1396a(a)(10)(A) of this title, the State may not discontinue such assistance under such subparagraph until the State has determined that the child is not eligible for assistance under the plan.
 
 #### (ii) Medically needy
 
@@ -144,9 +144,9 @@
 
 &emsp;&emsp;At a State's option and notwithstanding any other provision of this subchapter, a State may choose not to provide medical assistance under this subsection with respect to any (or all) of the items and services described in paragraphs (4)(A), (6), (7), (8), (11), (13), (14), (15), (16), (18), (20), and (21) <sup>2</sup> of section 1396d(a) of this title.
 
-#### (C) State medicaid “wrap-around” option
+#### (C) State medicaid "wrap-around" option
 
-&emsp;&emsp;At a State's option, the State may elect to apply the option described in subsection (a)(4)(B) of this section (relating to “wrap-around” coverage) for families electing medical assistance under this subsection in the same manner as such option applies to families provided extended eligibility for medical assistance under subsection (a) of this section.
+&emsp;&emsp;At a State's option, the State may elect to apply the option described in subsection (a)(4)(B) of this section (relating to "wrap-around" coverage) for families electing medical assistance under this subsection in the same manner as such option applies to families provided extended eligibility for medical assistance under subsection (a) of this section.
 
 #### (D) Alternative assistance
 
@@ -208,9 +208,9 @@
 
 &emsp;&emsp;In this paragraph:
 
-&emsp;&emsp;&emsp;(i) A “premium payment period” described in this clause is a 3-month period beginning with the 1st or 4th month of the 6-month additional extension period provided under this subsection.
+&emsp;&emsp;&emsp;(i) A "premium payment period" described in this clause is a 3-month period beginning with the 1st or 4th month of the 6-month additional extension period provided under this subsection.
 
-&emsp;&emsp;&emsp;(ii) The term “premium base period” means, with respect to a particular premium payment period, the period of 3 consecutive months the last of which is 4 months before the beginning of that premium payment period.
+&emsp;&emsp;&emsp;(ii) The term "premium base period" means, with respect to a particular premium payment period, the period of 3 consecutive months the last of which is 4 months before the beginning of that premium payment period.
 
 #### (c) Applicability in States and territories
 
@@ -232,13 +232,13 @@
 
 &emsp;For additional provisions relating to fraud and program abuse, see sections 1320a–7, 1320a–7a, and 1320a–7b of this title.
 
-#### (e) “Caretaker relative” defined
+#### (e) "Caretaker relative" defined
 
-In this section, the term “caretaker relative” has the meaning of such term as used in part A of subchapter IV of this chapter.
+In this section, the term "caretaker relative" has the meaning of such term as used in part A of subchapter IV of this chapter.
 
 #### (f) Sunset
 
-This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after December 31, 2013.
+This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after March 31, 2014.
 
 #### (g) Collection and reporting of participation information
 
@@ -250,7 +250,7 @@ This section shall not apply with respect to families that cease to be eligible 
 
 &emsp;Using the information submitted under paragraph (1), the Secretary shall submit to Congress annual reports concerning enrollment and participation rates described in such paragraph.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577; Pub. L. 108–40, §7(a), June 30, 2003, 117 Stat. 837; Pub. L. 111–5, div. B, title V, §5004(a)(1), (b)–(d), Feb. 17, 2009, 123 Stat. 503, 504; Pub. L. 111–309, title I, §111, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–78, title III, §311, Dec. 23, 2011, 125 Stat. 1286; Pub. L. 112–96, title III, §3102, Feb. 22, 2012, 126 Stat. 191; Pub. L. 112–240, title VI, §622, Jan. 2, 2013, 126 Stat. 2352.)
+(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577; Pub. L. 108–40, §7(a), June 30, 2003, 117 Stat. 837; Pub. L. 111–5, div. B, title V, §5004(a)(1), (b)–(d), Feb. 17, 2009, 123 Stat. 503, 504; Pub. L. 111–309, title I, §111, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–78, title III, §311, Dec. 23, 2011, 125 Stat. 1286; Pub. L. 112–96, title III, §3102, Feb. 22, 2012, 126 Stat. 191; Pub. L. 112–240, title VI, §622, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1202, Dec. 26, 2013, 127 Stat. 1199.)
 
 #### References in Text
 
@@ -264,67 +264,69 @@ A prior section 1925 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-<b>2013</b>—Subsec. (f). Pub. L. 112–240 substituted “2013” for “2012”.
+<b>2013</b>—Subsec. (f). Pub. L. 113–67 substituted "March 31, 2014" for "December 31, 2013".
 
-<b>2012</b>—Subsec. (f). Pub. L. 112–96 substituted “December 31” for “February 29”.
+Pub. L. 112–240 substituted "2013" for "2012".
 
-<b>2011</b>—Subsec. (f). Pub. L. 112–78 substituted “February 29, 2012” for “December 31, 2011”.
+<b>2012</b>—Subsec. (f). Pub. L. 112–96 substituted "December 31" for "February 29".
 
-<b>2010</b>—Subsec. (f). Pub. L. 111–309 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (f). Pub. L. 112–78 substituted "February 29, 2012" for "December 31, 2011".
+
+<b>2010</b>—Subsec. (f). Pub. L. 111–309 substituted "December 31, 2011" for "December 31, 2010".
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §5004(c)(2), (3), designated existing provisions as subpar. (A), inserted heading, added subpar. (B), and realigned margins.
 
-Pub. L. 111–5, §5004(b)(1), (c)(1), inserted “but subject to subparagraph (B) and paragraph (5)” after “Notwithstanding any other provision of this subchapter”.
+Pub. L. 111–5, §5004(b)(1), (c)(1), inserted "but subject to subparagraph (B) and paragraph (5)" after "Notwithstanding any other provision of this subchapter".
 
 Subsec. (a)(5). Pub. L. 111–5, §5004(b)(2), added par. (5).
 
-Subsec. (b)(1). Pub. L. 111–5, §5004(b)(3), inserted “but subject to subsection (a)(5)” after “Notwithstanding any other provision of this subchapter”.
+Subsec. (b)(1). Pub. L. 111–5, §5004(b)(3), inserted "but subject to subsection (a)(5)" after "Notwithstanding any other provision of this subchapter".
 
-Subsec. (f). Pub. L. 111–5, §5004(a)(1), substituted “December 31, 2010” for “September 30, 2003”.
+Subsec. (f). Pub. L. 111–5, §5004(a)(1), substituted "December 31, 2010" for "September 30, 2003".
 
 Subsec. (g). Pub. L. 111–5, §5004(d), added subsec. (g).
 
-<b>2003</b>—Subsec. (f). Pub. L. 108–40 substituted “2003” for “2002”.
+<b>2003</b>—Subsec. (f). Pub. L. 108–40 substituted "2003" for "2002".
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–554 substituted “2002” for “2001”.
+<b>2000</b>—Subsec. (f). Pub. L. 106–554 substituted "2002" for "2001".
 
-<b>1999</b>—Subsec. (a)(3)(C). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(t)(1)\], substituted “(i)(VI), (i)(VII),” for “(i)(VI)(i)(VII),,”.
+<b>1999</b>—Subsec. (a)(3)(C). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(t)(1)\], substituted "(i)(VI), (i)(VII)," for "(i)(VI)(i)(VII),,".
 
-Subsec. (b)(3)(C)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(t)(2)\], which directed substitution of “(i)(IV), (i)(VI), (i)(VII),” for “(i)(IV) (i)(VI) (i)(VII),,”, was executed by making the substitution for “(i)(IV), (i)(VI) (i)(VII),,” to reflect the probable intent of Congress.
+Subsec. (b)(3)(C)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(t)(2)\], which directed substitution of "(i)(IV), (i)(VI), (i)(VII)," for "(i)(IV) (i)(VI) (i)(VII),,", was executed by making the substitution for "(i)(IV), (i)(VI) (i)(VII),," to reflect the probable intent of Congress.
 
-<b>1997</b>—Subsec. (b)(4)(D)(iv). Pub. L. 105–33, §4703(b)(2), struck out “less than 50 percent of the membership (enrolled on a prepaid basis) of which consists of individuals who are eligible to receive benefits under this subchapter (other than because of the option offered under this clause). The option of enrollment under this clause is in addition to, and not in lieu of, any enrollment option that the State might offer under subparagraph (A)(i) with respect to receiving services through a medicaid managed care organization in accordance with section 1396b(m) of this title and the applicable requirements of section 1396u–2 of this title” after “(as defined in section 1396b(m)(1)(A) of this title)”.
+<b>1997</b>—Subsec. (b)(4)(D)(iv). Pub. L. 105–33, §4703(b)(2), struck out "less than 50 percent of the membership (enrolled on a prepaid basis) of which consists of individuals who are eligible to receive benefits under this subchapter (other than because of the option offered under this clause). The option of enrollment under this clause is in addition to, and not in lieu of, any enrollment option that the State might offer under subparagraph (A)(i) with respect to receiving services through a medicaid managed care organization in accordance with section 1396b(m) of this title and the applicable requirements of section 1396u–2 of this title" after "(as defined in section 1396b(m)(1)(A) of this title)".
 
-Pub. L. 105–33, §4701(b)(2)(A)(ix), substituted “medicaid managed care organization” for “health maintenance organization” in two places.
+Pub. L. 105–33, §4701(b)(2)(A)(ix), substituted "medicaid managed care organization" for "health maintenance organization" in two places.
 
-Pub. L. 105–33, §4701(b)(2)(D), substituted “medicaid managed care organization” for “HMO” in heading and inserted “and the applicable requirements of section 1396u–2 of this title” before period at end of text.
+Pub. L. 105–33, §4701(b)(2)(D), substituted "medicaid managed care organization" for "HMO" in heading and inserted "and the applicable requirements of section 1396u–2 of this title" before period at end of text.
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–193 substituted “2001” for “1998”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–193 substituted "2001" for "1998".
 
-<b>1990</b>—Subsec. (a)(3)(C). Pub. L. 101–508, §4601(a)(3)(B), inserted “(i)(VII),” after “(i)(VI)”.
+<b>1990</b>—Subsec. (a)(3)(C). Pub. L. 101–508, §4601(a)(3)(B), inserted "(i)(VII)," after "(i)(VI)".
 
-Subsec. (b)(2)(B)(i). Pub. L. 101–508, §4716(a)(1), which directed amendment of subsection (f) of this section in subsection (b)(2)(B)(i) by inserting at the end “A State may permit such additional extended assistance under this subsection notwithstanding a failure to report under this clause if the family has established, to the satisfaction of the State, good cause for the failure to report on a timely basis.”, was executed by making the insertion at the end of subsec. (b)(2)(B)(i) to reflect the probable intent of Congress.
+Subsec. (b)(2)(B)(i). Pub. L. 101–508, §4716(a)(1), which directed amendment of subsection (f) of this section in subsection (b)(2)(B)(i) by inserting at the end "A State may permit such additional extended assistance under this subsection notwithstanding a failure to report under this clause if the family has established, to the satisfaction of the State, good cause for the failure to report on a timely basis.", was executed by making the insertion at the end of subsec. (b)(2)(B)(i) to reflect the probable intent of Congress.
 
 Subsec. (b)(2)(B)(iii). Pub. L. 101–508, §4716(a)(2), which directed amendment of subsection (f) of this section in subsection (b)(2)(B) by adding cl. (iii) at the end, was executed by adding cl. (iii) at the end of subsec. (b)(2)(B) to reflect the probable intent of Congress.
 
-Subsec. (b)(3)(B). Pub. L. 101–508, §4716(a)(3), which directed amendment of subsection (f) of this section in subsection (b)(3)(B) by inserting at the end “No such termination shall be effective earlier than 10 days after the date of mailing of such notice.”, was executed by making the insertion at the end of subsec. (b)(3)(B) to reflect the probable intent of Congress.
+Subsec. (b)(3)(B). Pub. L. 101–508, §4716(a)(3), which directed amendment of subsection (f) of this section in subsection (b)(3)(B) by inserting at the end "No such termination shall be effective earlier than 10 days after the date of mailing of such notice.", was executed by making the insertion at the end of subsec. (b)(3)(B) to reflect the probable intent of Congress.
 
-Subsec. (b)(3)(C)(i). Pub. L. 101–508, §4601(a)(3)(B), inserted “(i)(VII),” after “(i)(VI)”.
+Subsec. (b)(3)(C)(i). Pub. L. 101–508, §4601(a)(3)(B), inserted "(i)(VII)," after "(i)(VI)".
 
-<b>1989</b>—Subsec. (a)(3)(A). Pub. L. 101–239, §6411(i)(1), substituted “a child, whether or not the child is” for “a child who is”.
+<b>1989</b>—Subsec. (a)(3)(A). Pub. L. 101–239, §6411(i)(1), substituted "a child, whether or not the child is" for "a child who is".
 
-Subsec. (a)(3)(C). Pub. L. 101–239, §6411(i)(3), substituted “of section 1396d(a) of this title or clause (i)(IV), (i)(VI), or (ii)(IX) of section 1396a(a)(10)(A) of this title” for “or (v) of section 1396d(a) of this title”.
+Subsec. (a)(3)(C). Pub. L. 101–239, §6411(i)(3), substituted "of section 1396d(a) of this title or clause (i)(IV), (i)(VI), or (ii)(IX) of section 1396a(a)(10)(A) of this title" for "or (v) of section 1396d(a) of this title".
 
-Subsec. (b)(3)(A)(i). Pub. L. 101–239, §6411(i)(1), substituted “a child, whether or not the child is” for “a child who is”.
+Subsec. (b)(3)(A)(i). Pub. L. 101–239, §6411(i)(1), substituted "a child, whether or not the child is" for "a child who is".
 
-Subsec. (b)(3)(C)(i). Pub. L. 101–239, §6411(i)(3), substituted “of section 1396d(a) of this title or clause (i)(IV), (i)(VI), or (ii)(IX) of section 1396a(a)(10)(A) of this title” for “or (v) of section 1396d(a) of this title”.
+Subsec. (b)(3)(C)(i). Pub. L. 101–239, §6411(i)(3), substituted "of section 1396d(a) of this title or clause (i)(IV), (i)(VI), or (ii)(IX) of section 1396a(a)(10)(A) of this title" for "or (v) of section 1396d(a) of this title".
 
-<b>1988</b>—Subsec. (b)(5)(C). Pub. L. 100–647, which directed the amendment of subsec. (d)(5)(C) by inserting “(less the average monthly costs for such child care as is necessary for the employment of the caretaker relative)” after “gross monthly earnings”, was executed to subsec. (b)(5)(C) to reflect the probable intent of Congress.
+<b>1988</b>—Subsec. (b)(5)(C). Pub. L. 100–647, which directed the amendment of subsec. (d)(5)(C) by inserting "(less the average monthly costs for such child care as is necessary for the employment of the caretaker relative)" after "gross monthly earnings", was executed to subsec. (b)(5)(C) to reflect the probable intent of Congress.
 
 #### Effective Date of 2009 Amendment
 
 Amendment by section 5004(a)(1) of Pub. L. 111–5 effective July 1, 2009, see section 5004(a)(2) of Pub. L. 111–5, set out as a note under section 1396a of this title.
 
-Pub. L. 111–5, div. B, title V, §5004(e), Feb. 17, 2009, 123 Stat. 505, provided that: “The amendments made by subsections (b) through (d) \[amending this section\] shall take effect on July 1, 2009.”
+Pub. L. 111–5, div. B, title V, §5004(e), Feb. 17, 2009, 123 Stat. 505, provided that: "The amendments made by subsections (b) through (d) \[amending this section\] shall take effect on July 1, 2009."
 
 #### Effective Date of 2003 Amendment
 
@@ -338,21 +340,21 @@ Amendment by section 4703(b)(2) of Pub. L. 105–33 applicable to contracts unde
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended,set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1990 Amendment
 
 Amendment by section 4601(a)(3)(B) of Pub. L. 101–508 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4601 of Pub. L. 101–508 have been promulgated by such date, see section 4601(b) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
-Pub. L. 101–508, title IV, §4716(b), Nov. 5, 1990, 104 Stat. 1388–192, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\].”
+Pub. L. 101–508, title IV, §4716(b), Nov. 5, 1990, 104 Stat. 1388–192, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\]."
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VI, §6411(i)(4), Dec. 19, 1989, 103 Stat. 2273, provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note under section 602 of this title\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\].”
+Pub. L. 101–239, title VI, §6411(i)(4), Dec. 19, 1989, 103 Stat. 2273, provided that: "The amendments made by this subsection \[amending this section and provisions set out as a note under section 602 of this title\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\]."
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title VIII, §8436(b), Nov. 10, 1988, 102 Stat. 3806, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\].”
+Pub. L. 100–647, title VIII, §8436(b), Nov. 10, 1988, 102 Stat. 3806, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\]."
 
 #### Effective Date
 

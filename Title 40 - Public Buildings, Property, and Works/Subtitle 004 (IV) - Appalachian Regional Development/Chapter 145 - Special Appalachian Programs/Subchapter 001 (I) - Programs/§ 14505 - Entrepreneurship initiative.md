@@ -2,7 +2,7 @@
 
 (a)
 
-Business Incubator Service.—In this section, the term “business incubator service” means a professional or technical service necessary for the initiation and initial sustainment of the operations of a newly established business, including a service such as—
+Business Incubator Service.—In this section, the term "business incubator service" means a professional or technical service necessary for the initiation and initial sustainment of the operations of a newly established business, including a service such as—
 
 &emsp;(1) a legal service, including aid in preparing a corporate charter, partnership agreement, or basic contract;
 
@@ -80,5 +80,5 @@ Pub. L. 89–4, title II, §204, as added Pub. L. 107–149, §6, Mar. 12, 2002,
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–371 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for a grant under this section may be provided from amounts appropriated to carry out this section.”
+<b>2008</b>—Subsec. (c). Pub. L. 110–371 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "Not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for a grant under this section may be provided from amounts appropriated to carry out this section."
 

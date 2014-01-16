@@ -12,7 +12,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to a State or States under section 603 of this title (as in effect during such fiscal year) for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F of this subchapter (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
+&emsp;&emsp;&emsp;The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to a State or States under section 603 of this title (as in effect during such fiscal year)for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F of this subchapter (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
 
 #### (ii) Use of State submitted data
 
@@ -32,7 +32,7 @@
 
 #### (B) Eligible Indian tribe
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “eligible Indian tribe” means an Indian tribe or Alaska Native organization that conducted a job opportunities and basic skills training program in fiscal year 1995 under section 682(i) of this title (as in effect during fiscal year 1995).
+&emsp;&emsp;For purposes of subparagraph (A), the term "eligible Indian tribe" means an Indian tribe or Alaska Native organization that conducted a job opportunities and basic skills training program in fiscal year 1995 under section 682(i) of this title (as in effect during fiscal year 1995).
 
 #### (C) Use of grant
 
@@ -78,7 +78,7 @@
 
 #### (1) In general
 
-&emsp;Any Indian tribe that desires to receive a tribal family assistance grant shall submit to the Secretary a 3-year tribal family assistance plan that—
+&emsp;Any Indian tribe that desires to receive a tribal family assistance grant shall submit tothe Secretary a 3-year tribal family assistance plan that—
 
 &emsp;&emsp;(A) outlines the Indian tribe's approach to providing welfare-related services for the 3-year period, consistent with this section;
 
@@ -124,13 +124,13 @@ Nothing in this section shall be construed to limit the ability of the Secretary
 
 #### (f) Eligibility for Federal loans
 
-Section 606 of this title shall apply to an Indian tribe with an approved tribal assistance plan in the same manner as such section applies to a State, except that section 606(c) of this title shall be applied by substituting “section 612(a)” for “section 603(a)”.
+Section 606 of this title shall apply to an Indian tribe with an approved tribal assistance plan in the same manner as such section applies to a State, except that section 606(c) of this title shall be applied by substituting "section 612(a)" for "section 603(a)".
 
 #### (g) Penalties
 
 (1) Subsections (a)(1), (a)(6), (b), and (c) of section 609 of this title, shall apply to an Indian tribe with an approved tribal assistance plan in the same manner as such subsections apply to a State.
 
-(2) Section 609(a)(3) of this title shall apply to an Indian tribe with an approved tribal assistance plan by substituting “meet minimum work participation requirements established under section 612(c) of this title” for “comply with section 607(a) of this title”.
+(2) Section 609(a)(3) of this title shall apply to an Indian tribe with an approved tribal assistance plan by substituting "meet minimum work participation requirements established under section 612(c) of this title" for "comply with section 607(a) of this title".
 
 #### (h) Data collection and reporting
 
@@ -162,29 +162,29 @@ A prior section 612, act Aug. 14, 1935, ch. 531, title IV, §412, as added June 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1)(A), (2)(A). Pub. L. 112–96 substituted “fiscal year 2012” for “each of fiscal years 1997, 1998, 1999, 2000, 2001, 2002, and 2003”.
+<b>2012</b>—Subsec. (a)(1)(A), (2)(A). Pub. L. 112–96 substituted "fiscal year 2012" for "each of fiscal years 1997, 1998, 1999, 2000, 2001, 2002, and 2003".
 
-<b>2003</b>—Subsec. (a)(1)(A), (2)(A). Pub. L. 108–40 substituted “2002, and 2003” for “and 2002”.
+<b>2003</b>—Subsec. (a)(1)(A), (2)(A). Pub. L. 108–40 substituted "2002, and 2003" for "and 2002".
 
-<b>2000</b>—Subsec. (a)(3)(A). Pub. L. 106–554 substituted “603(a)(5)(H)” for “603(a)(5)(I)”.
+<b>2000</b>—Subsec. (a)(3)(A). Pub. L. 106–554 substituted "603(a)(5)(H)" for "603(a)(5)(I)".
 
-<b>1999</b>—Subsec. (a)(3)(C)(ii). Pub. L. 106–113 substituted “clause (viii)” for “clause (vii)”.
+<b>1999</b>—Subsec. (a)(3)(C)(ii). Pub. L. 106–113 substituted "clause (viii)" for "clause (vii)".
 
 <b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
-Subsec. (a)(1)(A). Pub. L. 105–33, §5508(a), inserted “which shall be reduced for a fiscal year, on a pro rata basis for each quarter, in the case of a tribal family assistance plan approved during a fiscal year for which the plan is to be in effect,” before “and shall”.
+Subsec. (a)(1)(A). Pub. L. 105–33, §5508(a), inserted "which shall be reduced for a fiscal year, on a pro rata basis for each quarter, in the case of a tribal family assistance plan approved during a fiscal year for which the plan is to be in effect," before "and shall".
 
-Subsec. (a)(2)(A). Pub. L. 105–33, §5508(b), substituted “For each of fiscal years 1997, 1998, 1999, 2000, 2001, and 2002, the Secretary shall pay to each eligible Indian tribe that proposes to operate a program described in subparagraph (C)” for “The Secretary shall pay to each eligible Indian tribe for each of fiscal years 1997, 1998, 1999, 2000, 2001, and 2002”.
+Subsec. (a)(2)(A). Pub. L. 105–33, §5508(b), substituted "For each of fiscal years 1997, 1998, 1999, 2000, 2001, and 2002, the Secretary shall pay to each eligible Indian tribe that proposes to operate a program described in subparagraph (C)" for "The Secretary shall pay to each eligible Indian tribe for each of fiscal years 1997, 1998, 1999, 2000, 2001, and 2002".
 
-Subsec. (a)(2)(C). Pub. L. 105–33, §5508(c), substituted “such population and such service area or areas as the tribe specifies” for “members of the Indian tribe”.
+Subsec. (a)(2)(C). Pub. L. 105–33, §5508(c), substituted "such population and such service area or areas as the tribe specifies" for "members of the Indian tribe".
 
-Subsec. (a)(2)(D). Pub. L. 105–33, §5508(d), substituted “$7,633,287” for “$7,638,474”.
+Subsec. (a)(2)(D). Pub. L. 105–33, §5508(d), substituted "$7,633,287" for "$7,638,474".
 
 Subsec. (a)(3). Pub. L. 105–33, §5001(c), added par. (3).
 
 Subsec. (f). Pub. L. 105–33, §5508(f), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(1). Pub. L. 105–33, §5508(e), substituted “(b), and (c)” for “and (b)”.
+Subsec. (f)(1). Pub. L. 105–33, §5508(e), substituted "(b), and (c)" for "and (b)".
 
 Subsecs. (g) to (i). Pub. L. 105–33, §5508(f), redesignated subsecs. (f) to (h) as (g) to (i), respectively.
 

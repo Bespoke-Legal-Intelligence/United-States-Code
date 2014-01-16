@@ -13,7 +13,7 @@
 | [147\.](%C2%A7%2000147%20-%20Stock%3B%20issuance%20at%20par%20value.md) | Stock; issuance at par value. |
 | [148\.](%C2%A7%2000148%20-%20Payment%20of%20stock%20in%20real%20or%20personal%20property.md) | Payment of stock in real or personal property. |
 | [149\.](%C2%A7%2000149%20-%20Bylaws.md) | Bylaws. |
-| [150\.](%C2%A7%2000150%20-%20Stockholders%E2%80%99%20meetings.md) | Stockholders’ meetings. |
+| [150\.](%C2%A7%2000150%20-%20Stockholders%27%20meetings.md) | Stockholders' meetings. |
 | [151\.](%C2%A7%2000151%20-%20Directors.md) | Directors. |
 | [152\.](%C2%A7%2000152%20-%20Reports%3B%20records%20for%20public%20inspection.md) | Reports; records for public inspection. |
 | [153\.](%C2%A7%2000153%20-%20Dividends.md) | Dividends. |
@@ -45,7 +45,7 @@
 - [&sect; 00147 - Stock; issuance at par value](%C2%A7%2000147%20-%20Stock%3B%20issuance%20at%20par%20value.md)
 - [&sect; 00148 - Payment of stock in real or personal property](%C2%A7%2000148%20-%20Payment%20of%20stock%20in%20real%20or%20personal%20property.md)
 - [&sect; 00149 - Bylaws](%C2%A7%2000149%20-%20Bylaws.md)
-- [&sect; 00150 - Stockholders&#8217; meetings](%C2%A7%2000150%20-%20Stockholders%E2%80%99%20meetings.md)
+- [&sect; 00150 - Stockholders' meetings](%C2%A7%2000150%20-%20Stockholders%27%20meetings.md)
 - [&sect; 00151 - Directors](%C2%A7%2000151%20-%20Directors.md)
 - [&sect; 00152 - Reports; records for public inspection](%C2%A7%2000152%20-%20Reports%3B%20records%20for%20public%20inspection.md)
 - [&sect; 00153 - Dividends](%C2%A7%2000153%20-%20Dividends.md)

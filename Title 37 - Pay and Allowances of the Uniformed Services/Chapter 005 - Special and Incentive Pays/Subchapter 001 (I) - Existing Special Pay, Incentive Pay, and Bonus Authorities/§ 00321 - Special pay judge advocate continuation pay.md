@@ -2,7 +2,7 @@
 
 (a)
 
-Eligible Judge Advocate Defined.—In this section, the term “eligible judge advocate” means an officer of the armed forces on full-time active duty who—
+Eligible Judge Advocate Defined.—In this section, the term "eligible judge advocate" means an officer of the armed forces on full-time active duty who—
 
 &emsp;(1) is qualified and serving as a judge advocate, as defined in section 801 of title 10; and
 
@@ -10,7 +10,7 @@ Eligible Judge Advocate Defined.—In this section, the term “eligible judge a
 
 &emsp;&emsp;(A) the active duty service obligation incurred through the officer's original commissioning program; or
 
-&emsp;&emsp;(B) in the case of an officer detailed under section 2004 of title 10 or section 470 of title14, the active duty service obligation incurred as part of that detail.
+&emsp;&emsp;(B) in the case of an officer detailed under section 2004 of title 10 or section 470 of title 14, the active duty service obligation incurred as part of that detail.
 
 (b)
 
@@ -44,7 +44,7 @@ Regulations.—The Secretary concerned shall prescribe regulations to carry out 
 
 #### Effective Date
 
-Pub. L. 106–65, div. A, title VI, §629(c), Oct. 5, 1999, 113 Stat. 661, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 1999.”
+Pub. L. 106–65, div. A, title VI, §629(c), Oct. 5, 1999, 113 Stat. 661, provided that: "The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 1999."
 
 #### Savings Provision
 

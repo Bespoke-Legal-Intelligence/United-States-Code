@@ -4,9 +4,9 @@
 
 Definitions.—In this section—
 
-&emsp;(1) the term “foreign nation” means a country that has become a party to the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances (referred to in this section as the “United Nations Convention”) or a foreign jurisdiction with which the United States has a treaty or other formal international agreement in effect providing for mutual forfeiture assistance; and
+&emsp;(1) the term "foreign nation" means a country that has become a party to the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances (referred to in this section as the "United Nations Convention") or a foreign jurisdiction with which the United States has a treaty or other formal international agreement in effect providing for mutual forfeiture assistance; and
 
-&emsp;(2) the term “forfeiture or confiscation judgment” means a final order of a foreign nation compelling a person or entity—
+&emsp;(2) the term "forfeiture or confiscation judgment" means a final order of a foreign nation compelling a person or entity—
 
 &emsp;&emsp;(A) to pay a sum of money representing the proceeds of an offense described in Article 3, Paragraph 1, of the United Nations Convention, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States, or any foreign offense described in section 1956(c)(7)(B) of title 18, or property the value of which corresponds to such proceeds; or
 
@@ -30,7 +30,7 @@ In general.—A foreign nation seeking to have a forfeiture or confiscation judg
 
 &emsp;(2)
 
-Certification of request.—The Attorney General or the designee of the Attorney General shall determine whether, in the interest of justice, to certify the request, and such decision shall be final and not subject to either judicial review or review under subchapter II of chapter 5, or chapter 7, of title 5 (commonly known as the “Administrative Procedure Act”).
+Certification of request.—The Attorney General or the designee of the Attorney General shall determine whether, in the interest of justice, to certify the request, and such decision shall be final and not subject to either judicial review or review under subchapter II of chapter 5, or chapter 7, of title 5 (commonly known as the "Administrative Procedure Act").
 
 (c)
 
@@ -128,13 +128,13 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (c)(2)(C) and (d)(
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(3)(A). Pub. L. 111–342 amended subpar. (A) generally. Prior to amendment, text read as follows: “To preserve the availability of property subject to a foreign forfeiture or confiscation judgment, the Government may apply for, and the court may issue, a restraining order pursuant to section 983(j) of title 18, at any time before or after an application is filed pursuant to subsection (c)(1) of this section.”
+<b>2010</b>—Subsec. (d)(3)(A). Pub. L. 111–342 amended subpar. (A) generally. Prior to amendment, text read as follows: "To preserve the availability of property subject to a foreign forfeiture or confiscation judgment, the Government may apply for, and the court may issue, a restraining order pursuant to section 983(j) of title 18, at any time before or after an application is filed pursuant to subsection (c)(1) of this section."
 
-<b>2001</b>—Subsec. (a)(2)(A). Pub. L. 107–56, §323(4), inserted “, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States” after “United Nations Convention”.
+<b>2001</b>—Subsec. (a)(2)(A). Pub. L. 107–56, §323(4), inserted ", any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States" after "United Nations Convention".
 
-Subsec. (b)(1)(C). Pub. L. 107–56, §323(2), substituted “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons” for “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant”.
+Subsec. (b)(1)(C). Pub. L. 107–56, §323(2), substituted "establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons" for "establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant".
 
-Subsec. (d)(1)(D). Pub. L. 107–56, §323(3), substituted “the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property” for “the defendant in the proceedings in the foreign court did not receive notice”.
+Subsec. (d)(1)(D). Pub. L. 107–56, §323(3), substituted "the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property" for "the defendant in the proceedings in the foreign court did not receive notice".
 
 Subsec. (d)(3). Pub. L. 107–56, §323(1), added par. (3).
 
@@ -142,7 +142,7 @@ Subsec. (d)(3). Pub. L. 107–56, §323(1), added par. (3).
 
 Section applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as an Effective Date of 2000 Amendment note under section 1324 of Title 8, Aliens and Nationality.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “a”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "a".</i>
 
-<i><sup>2</sup></i><i> So in original. The words “of the proceedings” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The words "of the proceedings" probably should not appear.</i>
 

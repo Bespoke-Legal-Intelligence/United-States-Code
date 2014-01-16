@@ -66,7 +66,7 @@ The Secretary may by regulation provide for the waiver of any provision of this 
 
 #### (4) Eligible distilled spirits plant
 
-&emsp;The term “eligible distilled spirits plant” means a plant which is used to produce distilled spirits exclusively for fuel use and the production from which does not exceed 10,000 proof gallons per year.
+&emsp;The term "eligible distilled spirits plant" means a plant which is used to produce distilled spirits exclusively for fuel use and the production from which does not exceed 10,000 proof gallons per year.
 
 #### (d) Withdrawal free of tax
 
@@ -84,7 +84,7 @@ Distilled spirits produced under this section may be withdrawn free of tax from 
 
 #### (f) Definition of distilled spirits
 
-For purposes of this section, the term “distilled spirits” does not include distilled spirits produced from petroleum, natural gas, or coal.
+For purposes of this section, the term "distilled spirits" does not include distilled spirits produced from petroleum, natural gas, or coal.
 
 (Added Pub. L. 96–223, title II, §232(e)(1), Apr. 2, 1980, 94 Stat. 278.)
 
@@ -94,5 +94,5 @@ A prior section 5181 was renumbered 5182 of this title.
 
 #### Effective Date
 
-Pub. L. 96–223, title II, §232(h)(3), Apr. 2, 1980, 94 Stat. 281, provided that: “The amendments made by subsection (e) \[enacting this section, amending sections 5004, 5005, 5214, and 5601, and repealing provisions set out as a note under section 4081 of this title\] shall take effect on the first day of the first calendar month beginning more than 60 days after the date of the enactment of this Act \[Apr. 2, 1980\].”
+Pub. L. 96–223, title II, §232(h)(3), Apr. 2, 1980, 94 Stat. 281, provided that: "The amendments made by subsection (e) \[enacting this section, amending sections 5004, 5005, 5214, and 5601, and repealing provisions set out as a note under section 4081 of this title\] shall take effect on the first day of the first calendar month beginning more than 60 days after the date of the enactment of this Act \[Apr. 2, 1980\]."
 

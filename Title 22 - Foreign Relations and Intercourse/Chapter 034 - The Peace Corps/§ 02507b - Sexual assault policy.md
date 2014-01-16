@@ -8,7 +8,7 @@ The President shall develop and implement a comprehensive sexual assault policy 
 
 &emsp;(2) mandates, for each Peace Corps country program, the designation of a Sexual Assault Response Liaison (SARL), who shall receive comprehensive training on procedures to respond to reports of sexual assault, with duties including ensuring that volunteers who are victims of sexual assault are moved to a safe environment and accompanying victims through the in-country response at the request of the victim;
 
-&emsp;(3) requires SARLs to immediately contact a Victim Advocate upon receiving a report of sexual assault in accordance with the restricted and unrestricted reporting guidelines promulgated by the Peace Corps;
+&emsp;(3) requires SARLs to immediately contact a Victim Advocate upon receiving a report ofsexual assault in accordance with the restricted and unrestricted reporting guidelines promulgated by the Peace Corps;
 
 &emsp;(4) to the extent practicable, conforms to best practices in the sexual assault field;
 

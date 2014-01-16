@@ -52,7 +52,7 @@ A prior chapter 15 of this title, consisting of sections 561 to 576 and relating
 
 <b>2012</b>—Pub. L. 112–213, title II, §§210(b), 211(b), Dec. 20, 2012, 126 Stat. 1551, 1552, added items 569a and 577.
 
-<i><sup>1</sup></i><i> So in original. “Sec.” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. "Sec." probably should not appear.</i>
 
 
 ---

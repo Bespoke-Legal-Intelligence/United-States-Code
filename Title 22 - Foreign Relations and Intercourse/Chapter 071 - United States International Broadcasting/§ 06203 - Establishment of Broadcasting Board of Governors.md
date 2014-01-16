@@ -50,7 +50,7 @@ Decisions of the Board shall be made by majority vote, a quorum being present. A
 
 #### (g) Immunity from civil liability
 
-Notwithstanding any other provision of law, any and all limitations on liability that apply tothe members of the Broadcasting Board of Governors also shall apply to such members when acting in their capacities as members of the boards of directors of RFE/RL, Incorporated and Radio Free Asia.
+Notwithstanding any other provision of law, any and all limitations on liability that apply to the members of the Broadcasting Board of Governors also shall apply to such members when acting in their capacities as members of the boards of directors of RFE/RL, Incorporated and Radio Free Asia.
 
 (Pub. L. 103–236, title III, §304, Apr. 30, 1994, 108 Stat. 434; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1322, 1323(b), (c), Oct. 21, 1998, 112 Stat. 2681–777, 2681–778; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §§502, 504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–451.)
 
@@ -60,27 +60,29 @@ For the effective date of title XIII of the Foreign Affairs Agencies Consolidati
 
 The Inspector General Act of 1978, referred to in subsec. (a)(3)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+This chapter, referred to in subsecs. (a)(3)(B) and (e), was in the original "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
+
 #### Amendments
 
-<b>1999</b>—Subsec. (b)(2). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(2)\], which directed amendment of par. (2) by inserting “, subject to the advice and consent of the Senate” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(2)\], which directed amendment of par. (2) by inserting ", subject to the advice and consent of the Senate" at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
 
-Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(1)\], substituted “appoint” for “designate”.
+Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(1)\], substituted "appoint" for "designate".
 
 Subsec. (g). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §504\], added subsec. (g).
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1322, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is hereby established within the United States Information Agency a Broadcasting Board of Governors (hereafter in this chapter referred to as the ‘Board’).”
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1322, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "There is hereby established within the United States Information Agency a Broadcasting Board of Governors (hereafter in this chapter referred to as the 'Board')."
 
-Subsec. (b). Pub. L. 105–277, §1323(b), substituted “Secretary of State” for “Director of the United States Information Agency” wherever appearing.
+Subsec. (b). Pub. L. 105–277, §1323(b), substituted "Secretary of State" for "Director of the United States Information Agency" wherever appearing.
 
-Subsec. (c). Pub. L. 105–277, §1323(b), (c), in first sentence, substituted “Secretary of State” for “Director of the United States Information Agency”, and in last sentence, substituted “no Secretary of State” for “no Director of the United States Information Agency” and “Acting Secretary of State” for “acting Director of the agency”.
+Subsec. (c). Pub. L. 105–277, §1323(b), (c), in first sentence, substituted "Secretary of State" for "Director of the United States Information Agency", and in last sentence, substituted "no Secretary of State" for "no Director of the United States Information Agency" and "Acting Secretary of State" for "acting Director of the agency".
 
-Subsec. (e). Pub. L. 105–277, §1323(b), substituted “Secretary of State” for “Director of the United States Information Agency”.
+Subsec. (e). Pub. L. 105–277, §1323(b), substituted "Secretary of State" for "Director of the United States Information Agency".
 
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Secretary's”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Secretary's".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Secretary”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Secretary".</i>
 

@@ -8,7 +8,7 @@ For purposes of developing a reliable energy data base related to the production
 
 In carrying out its responsibilities under subsection (a) of this section, the Securities and Exchange Commission shall—
 
-&emsp;(1) consult with the Secretary, the Government Accountability Office, and the FederalEnergy Regulatory Commission with respect to accounting practices to be developed under subsection (a) of this section, and
+&emsp;(1) consult with the Secretary, the Government Accountability Office, and the Federal Energy Regulatory Commission with respect to accounting practices to be developed under subsection (a) of this section, and
 
 &emsp;(2) have authority to prescribe rules applicable to persons engaged in the production of crude oil or natural gas, or make effective by recognition, or by other appropriate means indicating a determination to rely on, accounting practices developed by the Financial Accounting Standards Board, if the Securities and Exchange Commission is assured that such practice will be observed by persons engaged in the production of crude oil or natural gas to the same extent as would result if the Securities and Exchange Commission had prescribed such practices by rule.
 
@@ -44,13 +44,13 @@ The Securities and Exchange Commission shall assure that accounting practices de
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–388, §5(a)(15)(A), substituted “with respect to” for “with repect to” in concluding provisions.
+<b>1998</b>—Subsec. (b). Pub. L. 105–388, §5(a)(15)(A), substituted "with respect to" for "with repect to" in concluding provisions.
 
-Subsec. (c)(1). Pub. L. 105–388, §5(a)(15)(B), substituted “, controlling,” for “controlling” in concluding provisions.
+Subsec. (c)(1). Pub. L. 105–388, §5(a)(15)(B), substituted ", controlling," for "controlling" in concluding provisions.
 
 #### Transfer of Functions
 
-“Secretary” and “Federal Energy Regulatory Commission” substituted for “Federal Energy Administration” and “Federal Power Commission”, respectively, in subsec. (b)(1) pursuant to sections 301, 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7172, 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions (with certain exceptions) to Secretary of Energy and terminated Federal Power Commission and transferred its functions to Federal Energy Regulatory Commission and Secretary of Energy.
+"Secretary" and "Federal Energy Regulatory Commission" substituted for "Federal Energy Administration" and "Federal Power Commission", respectively, in subsec. (b)(1) pursuant to sections 301, 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7172, 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions (with certain exceptions) to Secretary of Energy and terminated Federal Power Commission and transferred its functions to Federal Energy Regulatory Commission and Secretary of Energy.
 

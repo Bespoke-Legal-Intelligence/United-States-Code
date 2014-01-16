@@ -20,5 +20,5 @@ A prior section 302 of Pub. L. 96–88 was classified to section 3442 of this ti
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted “relating to such education” for “under section 303(c)(2) of the Comprehensive Employment and Training Act”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted "relating to such education" for "under section 303(c)(2) of the Comprehensive Employment and Training Act".
 

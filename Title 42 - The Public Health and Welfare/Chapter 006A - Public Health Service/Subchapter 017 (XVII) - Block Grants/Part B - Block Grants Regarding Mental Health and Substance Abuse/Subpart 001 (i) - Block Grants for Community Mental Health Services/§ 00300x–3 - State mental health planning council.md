@@ -8,7 +8,7 @@ A funding agreement for a grant under section 300x of this title is that the Sta
 
 A condition under subsection (a) of this section for a Council is that the duties of the Council are—
 
-&emsp;(1) to review plans provided to the Council pursuant to section 300x–4(a) of this title by the State involved and to submit to the State any recommendations of the Council for modifications to the plans;
+&emsp;(1) to review plans provided to the Council pursuant to section 300x–4(a) of this title by the State involved and to submit to the Stateany recommendations of the Council for modifications to the plans;
 
 &emsp;(2) to serve as an advocate for adults with a serious mental illness, children with a severe emotional disturbance, and other individuals with mental illnesses or emotional problems; and
 
@@ -40,9 +40,9 @@ A condition under subsection (a) of this section for a Council is that the dutie
 
 &emsp;&emsp;(B) not less than 50 percent of the members of the Council are individuals who are not State employees or providers of mental health services.
 
-#### (d) “Council” defined
+#### (d) "Council" defined
 
-For purposes of this section, the term “Council” means a State mental health planning council.
+For purposes of this section, the term "Council" means a State mental health planning council.
 
 (July 1, 1944, ch. 373, title XIX, §1914, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 382.)
 

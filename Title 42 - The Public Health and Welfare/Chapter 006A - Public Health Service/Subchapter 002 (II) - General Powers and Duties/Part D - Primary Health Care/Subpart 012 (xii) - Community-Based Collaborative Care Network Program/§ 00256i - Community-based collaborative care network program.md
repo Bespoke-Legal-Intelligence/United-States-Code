@@ -8,7 +8,7 @@ The Secretary may award grants to eligible entities to support community-based c
 
 #### (1) Description
 
-&emsp;A community-based collaborative care network (referred to in this section as a “network”) shall be a consortium of health care providers with a joint governance structure (including providers within a single entity) that provides comprehensive coordinated and integrated health care services (as defined by the Secretary) for low-income populations.
+&emsp;A community-based collaborative care network (referred to in this section as a "network") shall be a consortium of health care providers with a joint governance structure (including providers within a single entity) that provides comprehensive coordinated and integrated health care services (as defined by the Secretary) for low-income populations.
 
 #### (2) Required inclusion
 
@@ -74,7 +74,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Codification
 
-Another section 340H of act July 1, 1944, ch. 373, as added by Pub. L. 111–148, title V, §5508(c), March 23, 2010, 124 Stat. 670, is classified to section 256h of this title.
+Another section 340H of act July 1, 1944, ch. 373, as added by Pub. L. 111–148, title V, §5508(c), March 23,2010, 124 Stat. 670, is classified to section 256h of this title.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should appear.</i>
 

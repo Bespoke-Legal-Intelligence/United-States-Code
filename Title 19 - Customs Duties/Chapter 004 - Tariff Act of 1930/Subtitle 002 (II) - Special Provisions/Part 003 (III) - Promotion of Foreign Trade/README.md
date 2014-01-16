@@ -13,7 +13,7 @@ Part III—Promotion of Foreign Trade
 - [&sect; 01355, 1356 - Repealed. Pub. L. 89&#8211;23, &sect;7, May 22, 1965, 79 Stat. 113](%C2%A7%2001355%2C%201356%20-%20Repealed.%20Pub.%20L.%2089%E2%80%9323%2C%20%C2%A77%2C%20May%2022%2C%201965%2C%2079%20Stat.%20113.md)
 - [&sect; 01356a to 1356j - Omitted](%C2%A7%2001356a%20to%201356j%20-%20Omitted.md)
 - [&sect; 01356k - Importation of coffee under International Coffee Agreement, 1983; Presidential powers and duties](%C2%A7%2001356k%20-%20Importation%20of%20coffee%20under%20International%20Coffee%20Agreement%2C%201983%3B%20Presidential%20powers%20and%20duties.md)
-- [&sect; 01356l - &#8220;Coffee&#8221; defined](%C2%A7%2001356l%20-%20%E2%80%9CCoffee%E2%80%9D%20defined.md)
+- [&sect; 01356l - Coffee defined](%C2%A7%2001356l%20-%20Coffee%20defined.md)
 - [&sect; 01356m, 1356n - Repealed. Pub. L. 105&#8211;362, title XIV, &sect;1401(a), Nov. 10, 1998, 112 Stat. 3294](%C2%A7%2001356m%2C%201356n%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20XIV%2C%20%C2%A71401%28a%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203294.md)
 - [&sect; 01357 to 1359 - Repealed. Sept. 26, 1949, ch. 585, &sect;2, 63 Stat. 698](%C2%A7%2001357%20to%201359%20-%20Repealed.%20Sept.%2026%2C%201949%2C%20ch.%20585%2C%20%C2%A72%2C%2063%20Stat.%20698.md)
 - [&sect; 01360 - Investigation before trade negotiations](%C2%A7%2001360%20-%20Investigation%20before%20trade%20negotiations.md)

@@ -8,7 +8,7 @@
 
 #### (2) Documentation
 
-&emsp;For fiscal years 2010 through 2014, the Secretary of State, in coordination with the Secretary of Defense, shall ensure that civilian authorities of a civilian government of Pakistan have received a copy of final documentation provided to the United States related to non-assistance payments provided or made to the Government of Pakistan.
+&emsp;For fiscal years 2010 through 2014, the Secretary of State, in coordination with the Secretary of Defense, shall ensure that civilianauthorities of a civilian government of Pakistan have received a copy of final documentation provided to the United States related to non-assistance payments provided or made to the Government of Pakistan.
 
 #### (b) Waiver
 
@@ -24,7 +24,7 @@
 
 Nothing in this section shall apply with respect to—
 
-&emsp;(1) any activities subject to reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.);
+&emsp;(1) any activities subject to reporting requirements under title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\];
 
 &emsp;(2) any assistance to promote democratic elections or public participation in democratic processes;
 
@@ -40,15 +40,15 @@ Nothing in this section shall apply with respect to—
 
 In this section—
 
-&emsp;(1) the term “appropriate congressional committees” means the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
+&emsp;(1) the term "appropriate congressional committees" means the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
 
-&emsp;(2) the term “civilian government of Pakistan” does not include any government of Pakistan whose duly elected head of government is deposed by military coup or decree.
+&emsp;(2) the term "civilian government of Pakistan" does not include any government of Pakistan whose duly elected head of government is deposed by military coup or decree.
 
 (Pub. L. 111–73, title II, §205, Oct. 15, 2009, 123 Stat. 2074.)
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§413 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50 and Tables.
+The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Section 1208 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 2086), referred to in subsec. (c)(4), is not classified to the Code.
 

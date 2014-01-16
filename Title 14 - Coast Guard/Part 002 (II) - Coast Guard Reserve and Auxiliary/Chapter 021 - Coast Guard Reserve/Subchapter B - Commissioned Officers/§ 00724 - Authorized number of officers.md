@@ -18,15 +18,15 @@ Provisions similar to those in this section were contained in section 772 of thi
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–241, §207(1), inserted “Reserve officers on an active-duty list shall not be counted as part of the authorized number of officers in the Reserve.” after “5,000.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–241, §207(1), inserted "Reserve officers on an active-duty list shall not be counted as part of the authorized number of officers in the Reserve." after "5,000."
 
-Subsec. (b)(1). Pub. L. 109–241, §207(2), added par. (1) and struck out former par. (1) which read as follows: “The authorized number of Reserve officers in an active status below the grade of rear admiral (lower half) shall be distributed in grade in the following percentages, respectively: captain, 1.5; commander, 7.0; lieutenant commander, 22.0; lieutenant, 37.0; and the combined grades of lieutenant (junior grade) and ensign, 32.5. When the actual number of Reserve officers in an active status in a grade is less than the number authorized, the difference may be applied to increase the authorized number in a lower grade. A Reserve officer may not be reduced in rank or grade solely because of a reduction in an authorized number as provided for in this subsection, or because an excess results directly from the operation of law.”
+Subsec. (b)(1). Pub. L. 109–241, §207(2), added par. (1) and struck out former par. (1) which read as follows: "The authorized number of Reserve officers in an active status below the grade of rear admiral (lower half) shall be distributed in grade in the following percentages, respectively: captain, 1.5; commander, 7.0; lieutenant commander, 22.0; lieutenant, 37.0; and the combined grades of lieutenant (junior grade) and ensign, 32.5. When the actual number of Reserve officers in an active status in a grade is less than the number authorized, the difference may be applied to increase the authorized number in a lower grade. A Reserve officer may not be reduced in rank or grade solely because of a reduction in an authorized number as provided for in this subsection, or because an excess results directly from the operation of law."
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–295 added subsec. (c).
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” wherever appearing.
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore" wherever appearing.
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–557 designated existing provisions as par. (1), struck out provisions authorizing number of Reserve officers in an active status not on active duty in the combined grades of commodore and rear admiral as two, and added par. (2).
 
-<b>1983</b>—Subsec. (b). Pub. L. 97–417 substituted “commodore” for “rear admiral” and “combined grades of commodore and real admiral” for “grade of rear admiral”.
+<b>1983</b>—Subsec. (b). Pub. L. 97–417 substituted "commodore" for "rear admiral" and "combined grades of commodore and real admiral" for "grade of rear admiral".
 

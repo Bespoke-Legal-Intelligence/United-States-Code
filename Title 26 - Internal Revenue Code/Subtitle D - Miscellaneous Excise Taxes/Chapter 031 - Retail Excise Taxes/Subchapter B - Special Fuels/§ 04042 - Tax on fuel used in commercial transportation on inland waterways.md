@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (1) Commercial waterway transportation
 
-&emsp;The term “commercial waterway transportation” means any use of a vessel on any inland or intracoastal waterway of the United States—
+&emsp;The term "commercial waterway transportation" means any use of a vessel on any inland or intracoastal waterway of the United States—
 
 &emsp;&emsp;(A) in the business of transporting property for compensation or hire, or
 
@@ -84,11 +84,11 @@ For purposes of this section—
 
 #### (2) Inland or intracoastal waterway of the United States
 
-&emsp;The term “inland or intracoastal waterway of the United States” means any inland or intracoastal waterway of the United States which is described in section 206 of the Inland Waterways Revenue Act of 1978.
+&emsp;The term "inland or intracoastal waterway of the United States" means any inland or intracoastal waterway of the United States which is described in section 206 of the Inland Waterways Revenue Act of 1978.
 
 #### (3) Person
 
-&emsp;The term “person” includes the United States, a State, a political subdivision of a State, or any agency or instrumentality of any of the foregoing.
+&emsp;The term "person" includes the United States, a State, a political subdivision of a State, or any agency or instrumentality of any of the foregoing.
 
 #### (e) Date for filing return
 
@@ -106,30 +106,30 @@ A prior section 4042, act Aug. 16, 1954, ch. 736, 68A Stat. 478, provided a cros
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(3). Pub. L. 110–172 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax under section 4041(d) was imposed on the sale of such fuel or is imposed on such use.”
+<b>2007</b>—Subsec. (b)(3). Pub. L. 110–172 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax under section 4041(d) was imposed on the sale of such fuel or is imposed on such use."
 
-<b>2004</b>—Subsec. (b)(2)(C). Pub. L. 108–357 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The deficit reduction rate is 4.3 cents per gallon.”
+<b>2004</b>—Subsec. (b)(2)(C). Pub. L. 108–357 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "The deficit reduction rate is 4.3 cents per gallon."
 
 <b>1993</b>—Subsec. (b)(1)(C). Pub. L. 103–66, §13241(d)(1), added subpar. (C).
 
 Subsec. (b)(2)(C). Pub. L. 103–66, §13241(d)(2), added subpar. (C).
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of paragraph (1)—
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For purposes of paragraph (1)—
 
-&emsp;“(A) the Inland Waterways Trust Fund financing rate is 10 cents a gallon, and
+&emsp;"(A) the Inland Waterways Trust Fund financing rate is 10 cents a gallon, and
 
-&emsp;“(B) the Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cents a gallon.”
+&emsp;"(B) the Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cents a gallon."
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–499 and Pub. L. 99–662 both amended subsec. (b) generally, effective Jan. 1, 1987. Pub. L. 100–647, §2002(a)(1) (see Construction of 1986 Amendments note below), provided that for purposes of this section, the amendment made by Pub. L. 99–499 be treated as enacted after the amendment made by Pub. L. 99–662. Prior to amendment by Pub. L. 99–499 and Pub. L. 99–662, subsec. (b) read as follows:
 
 &nbsp;
 
-| <b>“If the use occurs—</b> | <b>The tax is—</b> |
+| <b>"If the use occurs—</b> | <b>The tax is—</b> |
 | :--- | ---: |
 | After September 30, 1980 and before October 1, 1981 | 4 cents a gallon&nbsp;&nbsp; |
 | After September 30, 1981 and before October 1, 1983 | 6 cents a gallon&nbsp;&nbsp; |
 | After September 30, 1983 and before October 1, 1985 | 8 cents a gallon&nbsp;&nbsp; |
-| After September 30, 1985 | 10 cents a gallon”. |
+| After September 30, 1985 | 10 cents a gallon". |
 
 #### Effective Date of 2007 Amendment
 
@@ -145,19 +145,19 @@ Amendment by Pub. L. 103–66 effective Oct. 1, 1993, see section 13241(g) of Pu
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title II, §2002(d), Nov. 10, 1988, 102 Stat. 3597, as amended by Pub. L. 101–239, title VII, §7812(b), Dec. 19, 1989, 103 Stat. 2412, provided that: “The amendments made by subsections (b) and (c) \[amending section 4462 of this title and provisions set out as a note under section 4461 of this title\] shall take effect as if included in the provision of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, title XIV\] to which it relates, and the amendment made by subsection (a)(2) \[amending this section\] shall take effect as if included in the amendment made by section521(a)(3) of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, title V\].”
+Pub. L. 100–647, title II, §2002(d), Nov. 10, 1988, 102 Stat. 3597, as amended by Pub. L. 101–239, title VII, §7812(b), Dec. 19, 1989, 103 Stat. 2412, provided that: "The amendments made by subsections (b) and (c) \[amending section 4462 of this title and provisions set out as a note under section 4461 of this title\] shall take effect as if included in the provision of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, title XIV\] to which it relates, and the amendment made by subsection (a)(2) \[amending this section\] shall take effect as if included in the amendment made by section 521(a)(3) of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, title V\]."
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 99–662, title XIV, §1404(c), Nov. 17, 1986, 100 Stat. 4271, provided that: “The amendments made by this section \[amending this section and section 1804 of Title 33, Navigation and Navigable Waters\] shall take effect on January 1, 1987.”
+Pub. L. 99–662, title XIV, §1404(c), Nov. 17, 1986, 100 Stat. 4271, provided that: "The amendments made by this section \[amending this section and section 1804 of Title 33, Navigation and Navigable Waters\] shall take effect on January 1, 1987."
 
 Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 521(e) of Pub. L. 99–499, set out as a note under section 4041 of this title.
 
 #### Effective Date
 
-Pub. L. 95–502, title II, §202(d), Oct. 21, 1978, 92 Stat. 1697, provided that: “The amendments made by this section \[enacting this section and amending section 4293 of this title\] shall take effect on October 1, 1980.”
+Pub. L. 95–502, title II, §202(d), Oct. 21, 1978, 92 Stat. 1697, provided that: "The amendments made by this section \[enacting this section and amending section 4293 of this title\] shall take effect on October 1, 1980."
 
 #### Construction of 1986 Amendments
 
-Pub. L. 100–647, title II, §2002(a)(1), Nov. 10, 1988, 102 Stat. 3597, provided that: “For purposes of section 4042 of the 1986 Code, the amendment made by section 521(a)(3) of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, amending this section\] shall be treated as enacted after the amendment made by section 1404(a) of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, amending this section\].”
+Pub. L. 100–647, title II, §2002(a)(1), Nov. 10, 1988, 102 Stat. 3597, provided that: "For purposes of section 4042 of the 1986 Code, the amendment made by section 521(a)(3) of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, amending this section\] shall be treated as enacted after the amendment made by section 1404(a) of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, amending this section\]."
 

@@ -10,7 +10,7 @@
 
 > is transportation for an official purpose, when approved in writing by the head of the Federal agency.
 
-(3) For purposes of paragraph (1), the transportation of an individual between such individual'splace of employment and a mass transit facility pursuant to subsection (g) is transportation for an official purpose.
+(3) For purposes of paragraph (1), the transportation of an individual between such individual's place of employment and a mass transit facility pursuant to subsection (g) is transportation for an official purpose.
 
 (b) A passenger carrier may be used to transport between residence and place of employment the following officers and employees of Federal agencies:
 
@@ -46,13 +46,13 @@
 
 (2) If a clear and present danger, an emergency, or a compelling operational consideration described in subsection (b)(9) of this section extends or may extend for a period in excess of 15 calendar days, the head of the Federal agency shall determine whether an authorization under such paragraph shall be extended in excess of 15 calendar days for a period of not more than 90 additional calendar days. Determinations made under this paragraph may be reviewed by the head of such agency at the end of each such period, and, where appropriate, a subsequent determination may be made whether such danger, emergency, or consideration continues to exist and whether an additional extension, not to exceed 90 calendar days, may be authorized. Determinations made under this paragraph shall be in accordance with regulations prescribed pursuant to paragraph (1) of subsection (e).
 
-(3) The authority to make designations under subsection (b)(1) of this section and to make determinations pursuant to subsections (a)(2) and (b)(3)(B) and (9) of this section and pursuant to paragraph (2) of this subsection may not be delegated, except that, with respect to the Executive Office of the President, the President may delegate the authority of the President under subsection (b)(9) of this section to an officer in the Executive Office of the President. No designation or determination under this section may be made solely or principally for the comfort or convenience of the officer or employee.
+(3) The authority to make designations under subsection (b)(1) of this section and to make determinations pursuant to subsections (a)(2) and (b)(3)(B) and (9) of this section and pursuant to paragraph (2) of this subsection may not be delegated, except that, with respect to the Executive Office of the President, the President may delegate the authority of the President undersubsection (b)(9) of this section to an officer in the Executive Office of the President. No designation or determination under this section may be made solely or principally for the comfort or convenience of the officer or employee.
 
 (4) Notification of each designation or determination made under subsection (b)(1), (3)(B), and (9) of this section and under paragraph (2) of this subsection, including the name and title of the officer or employee affected, the reason for any determination under subsection (b)(9), and the expected duration of any authorization under subsection (b)(9), shall be transmitted promptly to the Committee on Government Operations of the House of Representatives and the Committee on Governmental Affairs of the Senate.
 
 (e)(1) Not later than March 15, 1987, the Administrator of General Services, after consultation with the Comptroller General, the Director of the Office of Management and Budget, and the Director of the Administrative Office of the United States Courts, shall promulgate regulations governing the heads of all Federal agencies in making the determinations authorized by subsections (a)(2)(A), (b)(9), and (d)(2) of this section. Such regulations shall specify that the comfort and convenience of an officer or employee is not sufficient justification for authorizations of transportation under this section.
 
-(2) In promulgating regulations under paragraph (1) of this subsection, the Administratorof General Services shall provide criteria defining the term “field work” for purposes of subsection (a)(2)(A) of this section. Such criteria shall ensure that transportation between an employee's residence and the location of the field work will be authorized only to the extent that such transportation will substantially increase the efficiency and economy of the Government.
+(2) In promulgating regulations under paragraph (1) of this subsection, the Administrator of General Services shall provide criteria defining the term "field work" for purposes of subsection (a)(2)(A) of this section. Such criteria shall ensure that transportation between an employee's residence and the location of the field work will be authorized only to the extent that such transportation will substantially increase the efficiency and economy of the Government.
 
 (f) Each Federal agency shall maintain logs or other records necessary to establish the official purpose for Government transportation provided between an individual's residence and such individual's place of employment pursuant to this section.
 
@@ -68,19 +68,19 @@
 
 &emsp;(C) coordinate with other Federal agencies to share, and otherwise avoid duplication of, transportation services provided under this subsection.
 
-(4) For purposes of any determination under chapter 81 of title 5 or chapter 171 of title 28, an individual shall not be considered to be in the “performance of duty” or “acting within the scope of his or her office or employment” by virtue of the fact that such individual is receiving transportation services under this subsection. Nor shall any time during which an individual uses such services be considered when calculating the hours of work or employment for that individual for purposes of title 5 of the United States Code, including chapter 55 of that title.
+(4) For purposes of any determination under chapter 81 of title 5 or chapter 171 of title 28, an individual shall not be considered to be in the "performance of duty" or "acting within the scope of his or her office or employment" by virtue of the fact that such individual is receiving transportation services under this subsection. Nor shall any time during which an individual uses such services be considered when calculating the hours of work or employment for that individual for purposes of title 5 of the United States Code, including chapter 55 of that title.
 
 (5)(A) The Administrator of General Services, after consultation with the appropriate agencies, shall prescribe any regulations necessary to carry out this subsection.
 
 (B) Transportation services under this subsection shall be subject neither to the last sentence of subsection (d)(3) nor to any regulations under the last sentence of subsection (e)(1).
 
-(6) In this subsection, the term “passenger carrier” means a passenger motor vehicle or similar means of transportation that is owned, leased, or provided pursuant to contract by the United States Government.
+(6) In this subsection, the term "passenger carrier" means a passenger motor vehicle or similar means of transportation that is owned, leased, or provided pursuant to contract by the United States Government.
 
 (h) As used in this section—
 
-&emsp;(1) the term “passenger carrier” means a passenger motor vehicle, aircraft, boat, ship, or other similar means of transportation that is owned or leased by the United States Government; and
+&emsp;(1) the term "passenger carrier" means a passenger motor vehicle, aircraft, boat, ship, or other similar means of transportation that is owned or leased by the United States Government; and
 
-&emsp;(2) the term “Federal agency” means—
+&emsp;(2) the term "Federal agency" means—
 
 &emsp;&emsp;(A) a department—
 
@@ -130,21 +130,21 @@ July 16, 1914, ch. 141, §5(c)(2)(1st, last sentences), 38 Stat. 508; restated A
 
 31:638a(c)(2)(last sentence).
 
-In subsection (a), before clause (1), the words “officers and employees of the Government” are substituted for “officers and employees” for clarity. In clause (2), the words “performing field work requiring transportation” are substituted for “engaged in field work thecharacter of whose duties makes such transportation necessary” to eliminate unnecessary words. The word “agency” is substituted for “department” because of section 101 of the revised title and for consistency with the source provisions restated in the section and section 1341.
+In subsection (a), before clause (1), the words "officers and employees of the Government" are substituted for "officers and employees" for clarity. In clause (2), the words "performing field work requiring transportation" are substituted for "engaged in field work the character of whose duties makes such transportation necessary" to eliminate unnecessary words. The word "agency" is substituted for "department" because of section 101 of the revised title and for consistency with the source provisions restated in the section and section 1341.
 
-In subsection (b)(2), the words “section 101 of title 5” are used because of section 7(b) of the Act of September 6, 1966 (Pub. L. 89–554, 80 Stat. 631).
+In subsection (b)(2), the words "section 101 of title 5" are used because of section 7(b) of the Act of September 6, 1966 (Pub. L. 89–554, 80 Stat. 631).
 
-In subsection (b)(3), the words “ambassadors, ministers, charges d'affaires” are omitted as being included in “principal diplomatic and consular officials”.
+In subsection (b)(3), the words "ambassadors, ministers, charges d'affaires" are omitted as being included in "principal diplomatic and consular officials".
 
 #### References in Text
 
 Section 28 of the State Department Basic Authorities Act of 1956, referred to in subsec. (c), is classified to section 2700 of Title 22, Foreign Relations and Intercourse.
 
-Section 8(a)(1) of the Central Intelligence Agency Act of 1949, referred to in subsec. (c), is classified to section 403j(a)(1) of Title 50, War and National Defense.
+Section 8(a)(1) of the Central Intelligence Agency Act of 1949, referred to in subsec. (c), is classified to section 3510(a)(1) of Title 50, War and National Defense.
 
 Subsection (b)(2)(B) of this section, referred to in subsec. (d)(3), (4), was redesignated subsec. (b)(3)(B) by Pub. L. 100–202. See 1987 Amendment note below.
 
-Section 3502 of title 44, referred to in subsec. (h)(2)(H), which in par. (10) defined “independent regulatory agency”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which also defines “independent regulatory agency”.
+Section 3502 of title 44, referred to in subsec. (h)(2)(H), which in par. (10) defined "independent regulatory agency", was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which also defines "independent regulatory agency".
 
 #### Codification
 
@@ -152,53 +152,53 @@ Amendment by Pub. L. 104–91 is based on section 118 of H.R. 2076, One Hundred 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (h)(2)(A). Pub. L. 111–350 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a department (as such term is defined in section 18 of the Act of August 2, 1946 (41 U.S.C. 5a));”.
+<b>2011</b>—Subsec. (h)(2)(A). Pub. L. 111–350 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "a department (as such term is defined in section 18 of the Act of August 2, 1946 (41 U.S.C. 5a));".
 
 <b>2005</b>—Subsec. (a)(3). Pub. L. 109–59, §3049(b)(2), added par. (3).
 
 Subsecs. (g) to (i). Pub. L. 109–59, §3049(b)(1), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-<b>2004</b>—Subsec. (b)(6). Pub. L. 108–447 inserted “Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives” after “Federal Bureau of Investigation,”.
+<b>2004</b>—Subsec. (b)(6). Pub. L. 108–447 inserted "Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives" after "Federal Bureau of Investigation,".
 
-<b>2003</b>—Subsec. (b)(6). Pub. L. 108–7 added par. (6) and struck out former par. (6) which read as follows: “the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, and the Administrator of the Drug Enforcement Administration;”.
+<b>2003</b>—Subsec. (b)(6). Pub. L. 108–7 added par. (6) and struck out former par. (6) which read as follows: "the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, and the Administrator of the Drug Enforcement Administration;".
 
-<b>1996</b>—Subsec. (b)(6). Pub. L. 104–91, as amended by Pub. L. 104–99, amended par. (6) generally. Prior to amendment, par. (6) read as follows: “the Director of the Central Intelligence Agency and the Director of the Federal Bureau of Investigation;”.
+<b>1996</b>—Subsec. (b)(6). Pub. L. 104–91, as amended by Pub. L. 104–99, amended par. (6) generally. Prior to amendment, par. (6) read as follows: "the Director of the Central Intelligence Agency and the Director of the Federal Bureau of Investigation;".
 
 <b>1994</b>—Subsecs. (b), (d), (e). Pub. L. 103–272 amended Pub. L. 100–202. See 1987 Amendment notes below.
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–510 inserted “, section 2637 of title 10,” after “Act of 1956”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–510 inserted ", section 2637 of title 10," after "Act of 1956".
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–202, §101(a) \[title IV, §407(1)\], as amended by Pub. L. 103–272, added cl. (2), redesignated former cl. (2) as (3) and in subcl. (B) substituted “subclause (A) of this clause” for “subparagraph (A) of this paragraph”, redesignated former cls. (3) to (8) as (4) to (9), respectively, and in last sentence substituted “clause (9)” for “paragraph (8)”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–202, §101(a) \[title IV, §407(1)\], as amended by Pub. L. 103–272, added cl. (2), redesignated former cl. (2) as (3) and in subcl. (B) substituted "subclause (A) of this clause" for "subparagraph (A) of this paragraph", redesignated former cls. (3) to (8) as (4) to (9), respectively, and in last sentence substituted "clause (9)" for "paragraph (8)".
 
-Subsec. (b)(4). Pub. L. 100–180 inserted “the members and Vice Chairman of” before “the Joint Chiefs of Staff”.
+Subsec. (b)(4). Pub. L. 100–180 inserted "the members and Vice Chairman of" before "the Joint Chiefs of Staff".
 
-Subsec. (d)(1), (2). Pub. L. 100–202, §101(a) \[title IV, §407(2)(A)\], as amended by Pub. L. 103–272, substituted “subsection (b)(9) of this section” for “paragraph (8) of subsection (b)”.
+Subsec. (d)(1), (2). Pub. L. 100–202, §101(a) \[title IV, §407(2)(A)\], as amended by Pub. L. 103–272, substituted "subsection (b)(9) of this section" for "paragraph (8) of subsection (b)".
 
-Subsec. (d)(3). Pub. L. 100–202, §101(a) \[title IV, §407(2)(B)\], as amended by Pub. L. 103–272, substituted “subsections (a)(2) and (b)(3)(B) and (9)” for “subsections (a)(2), (b)(2)(B), and (b)(8)” and “subsection (b)(9)” for “subsection (b)(8)”.
+Subsec. (d)(3). Pub. L. 100–202, §101(a) \[title IV, §407(2)(B)\], as amended by Pub. L. 103–272, substituted "subsections (a)(2) and (b)(3)(B) and (9)" for "subsections (a)(2), (b)(2)(B), and (b)(8)" and "subsection (b)(9)" for "subsection (b)(8)".
 
-Subsec. (d)(4). Pub. L. 100–202, §101(a) \[title IV, §407(2)(C)\], as amended by Pub. L. 103–272, substituted “subsection (b)(1), (3)(B), and (9) of this section” and “subsection (b)(9), and the expected duration of any authorization under subsection (b)(9)” for “paragraphs (1), (2)(B), and (8) of subsection (b)” and “paragraph (8) of subsection (b), and the expected duration of any authorization under such paragraph”, respectively.
+Subsec. (d)(4). Pub. L. 100–202, §101(a) \[title IV, §407(2)(C)\], as amended by Pub. L. 103–272, substituted "subsection (b)(1), (3)(B), and (9) of this section" and "subsection (b)(9), and the expected duration of any authorization under subsection (b)(9)" for "paragraphs (1), (2)(B), and (8) of subsection (b)" and "paragraph (8) of subsection (b), and the expected duration of any authorization under such paragraph", respectively.
 
-Subsec. (e)(1). Pub. L. 100–202, §101(a) \[title IV, §407(3)\], as amended by Pub. L. 103–272, substituted “(b)(9)” for “(b)(8)”.
+Subsec. (e)(1). Pub. L. 100–202, §101(a) \[title IV, §407(3)\], as amended by Pub. L. 103–272, substituted "(b)(9)" for "(b)(8)".
 
-<b>1986</b>—Pub. L. 99–550 substituted “carrier” for “motor vehicle and aircraft” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1986</b>—Pub. L. 99–550 substituted "carrier" for "motor vehicle and aircraft" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
-“(a) Except as specifically provided by law, an appropriation may be expended to maintain, operate, and repair passenger motor vehicles or aircraft of the United States Government that are used only for an official purpose. An official purpose does not include transporting officers or employees of the Government between their domiciles and places of employment except—
+"(a) Except as specifically provided by law, an appropriation may be expended to maintain, operate, and repair passenger motor vehicles or aircraft of the United States Government that are used only for an official purpose. An official purpose does not include transporting officers or employees of the Government between their domiciles and places of employment except—
 
-&emsp;“(1) medical officers on out-patient medical service; and
+&emsp;"(1) medical officers on out-patient medical service; and
 
-&emsp;“(2) officers or employees performing field work requiring transportation between their domiciles and places of employment when the transportation is approved by the head of the agency.
+&emsp;"(2) officers or employees performing field work requiring transportation between their domiciles and places of employment when the transportation is approved by the head of the agency.
 
-“(b) This section does not apply to a motor vehicle or aircraft for the official use of—
+"(b) This section does not apply to a motor vehicle or aircraft for the official use of—
 
-&emsp;“(1) the President;
+&emsp;"(1) the President;
 
-&emsp;“(2) the heads of executive departments listed in section 101 of title 5; or
+&emsp;"(2) the heads of executive departments listed in section 101 of title 5; or
 
-&emsp;“(3) principal diplomatic and consular officials.”
+&emsp;"(3) principal diplomatic and consular officials."
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
@@ -206,7 +206,7 @@ Committee on Government Operations of House of Representatives treated as referr
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–447, div. B, title I, §117, Dec. 8, 2004, 118 Stat. 2870, provided in part that: “This amendment \[amending this section\] shall take effect as if enacted on January 1, 2004.”
+Pub. L. 108–447, div. B, title I, §117, Dec. 8, 2004, 118 Stat. 2870, provided in part that: "This amendment \[amending this section\] shall take effect as if enacted on January 1, 2004."
 
 #### Effective Date of 1994 Amendment
 
@@ -218,15 +218,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Coordination
 
-Pub. L. 109–59, title III, §3049(b)(3), Aug. 10, 2005, 119 Stat. 1713, provided that: “The authority to provide transportation services under section 1344(g) of title 31, United States Code (as amended by paragraph (1)) shall be in addition to any authority otherwise available to the agency involved.”
+Pub. L. 109–59, title III, §3049(b)(3), Aug. 10, 2005, 119 Stat. 1713, provided that: "The authority to provide transportation services under section 1344(g) of title 31, United States Code (as amended by paragraph (1)) shall be in addition to any authority otherwise available to the agency involved."
 
 #### Use of Government Vehicles
 
-Pub. L. 101–194, title V, §503, Nov. 30, 1989, 103 Stat. 1755, as amended by Pub. L. 101–280, §6(b), May 4, 1990, 104 Stat. 160, provided that: “Notwithstanding any other provision of law, the head of each department, agency, or other entity of each branch of the Government may prescribe by rule appropriate conditions for the incidental use, for other than official business, of vehicles owned or leased by the Government. Such use with respect to vehicles owned or leased by, or the cost of which is reimbursed by, the House of Representatives or the Senate shall be only as prescribed by rule of the House of Representatives or the Senate, as applicable.”
+Pub. L. 101–194, title V, §503, Nov. 30, 1989, 103 Stat. 1755, as amended by Pub. L. 101–280, §6(b), May 4, 1990, 104 Stat. 160, provided that: "Notwithstanding any other provision of law, the head of each department, agency, or other entity of each branch of the Government may prescribe by rule appropriate conditions for the incidental use, for other than official business, of vehicles owned or leased by the Government. Such use with respect to vehicles owned or leased by, or the cost of which is reimbursed by, the House of Representatives or the Senate shall be only as prescribed by rule of the House of Representatives or the Senate, as applicable."
 
 #### Use of Official Vehicles of House of Representatives
 
-Pub. L. 101–194, title VIII, §802(d), Nov. 30, 1989, 103 Stat. 1773, as amended by Pub. L. 104–186, title II, §219(a), Aug. 20, 1996, 110 Stat. 1747, provided that: “The Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives shall take such action as may be necessary to carry out section 503 \[set out above\] with respect to vehicles of the House of Representatives.”
+Pub. L. 101–194, title VIII, §802(d), Nov. 30, 1989, 103 Stat. 1773, as amended by Pub. L. 104–186, title II, §219(a), Aug. 20, 1996, 110 Stat. 1747, provided that: "The Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives shall take such action as may be necessary to carry out section 503 \[set out above\] with respect to vehicles of the House of Representatives."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

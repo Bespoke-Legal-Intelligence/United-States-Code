@@ -10,13 +10,13 @@ The Convention and this chapter shall not be construed to affect the application
 
 #### (c) Relationship to other laws
 
-Sections 3506(c), 3507, and 3512 of title 44 shall not apply to information collection for purposes of sections 14914, 14922(b)(4), and 14932(d) of this title or for use as a Convention record as defined in this chapter.
+Sections 3506(c), 3507, and 3512 of title 44 shall not apply to information collection for purposesof sections 14914, 14922(b)(4), and 14932(d) of this title or for use as a Convention record as defined in this chapter.
 
 (Pub. L. 106–279, title V, §503, Oct. 6, 2000, 114 Stat. 843.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
 
 The Indian Child Welfare Act of 1978, referred to in subsec. (b), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 

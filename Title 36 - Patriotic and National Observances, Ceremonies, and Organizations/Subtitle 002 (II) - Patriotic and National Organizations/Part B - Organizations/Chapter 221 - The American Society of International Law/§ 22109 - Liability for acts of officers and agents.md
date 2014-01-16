@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Sept. 20, 1950, ch. 958, §6 (1st sentence), 64 Stat. 871.
 
-The words “acting within the scope of their authority” are added for clarity and consistency in the revised title.
+The words "acting within the scope of their authority" are added for clarity and consistency in the revised title.
 

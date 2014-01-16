@@ -34,7 +34,7 @@ Environmental sustainability.—To enhance the performance of the transportation
 
 &emsp;(7)
 
-Reduced project delivery delays.—To reduce project costs, promote jobs and the economy, and expedite the movement of people and goods by accelerating project completion through eliminating delays in the project development and delivery process, including reducing regulatory burdens and improving agencies’ work practices.
+Reduced project delivery delays.—To reduce project costs, promote jobs and the economy, and expedite the movement of people and goods by accelerating project completion through eliminating delays in the project development and delivery process, including reducing regulatory burdens and improving agencies' work practices.
 
 (c)
 

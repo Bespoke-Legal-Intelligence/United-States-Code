@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title VII, §711, 49 Stat. 2010; Pub. L. 97–31, §12(113), Aug. 6, 1981, 95 Stat. 163.
 
-The words “for a term the Secretary considers to be” are substituted for “until January 1, 1940, shall be for terms of three years or less as the Secretary of Transportation may decide: <i>Provided</i>, That after January 1, 1940, charters may be executed by the Secretary of Transportation for such terms as the experience gained by the Secretary of Transportation shall indicate are” to eliminate unnecessary and obsolete words.
+The words "for a term the Secretary considers to be" are substituted for "until January 1, 1940, shall be for terms of three years or less as the Secretary of Transportation may decide: <i>Provided</i>, That after January 1, 1940, charters may be executed by the Secretary of Transportation for such terms as the experience gained by the Secretary of Transportation shall indicate are" to eliminate unnecessary and obsolete words.
 

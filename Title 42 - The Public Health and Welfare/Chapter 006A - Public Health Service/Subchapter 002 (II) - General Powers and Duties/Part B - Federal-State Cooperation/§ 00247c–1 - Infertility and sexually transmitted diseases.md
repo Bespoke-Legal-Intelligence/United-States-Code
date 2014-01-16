@@ -10,13 +10,13 @@ With respect to diseases described in subsection (a) of this section, the Secret
 
 #### (c) Authorized activities
 
-With respect to any sexually transmitted disease described in subsection (a) of this section, the activities referred to in such subsection are—
+With respect to any sexually transmitted disease described in subsection (a) of this section,the activities referred to in such subsection are—
 
 &emsp;(1) screening women for the disease and for secondary conditions resulting from the disease, subject to compliance with criteria issued under subsection (f) of this section;
 
 &emsp;(2) providing treatment to women for the disease;
 
-&emsp;(3) providing counseling to women on the prevention and control of the disease (including, in the case of a woman with the disease,counseling on the benefits of locating and providing such counseling to any individual from whom the woman may have contracted the disease and any individual whom the woman may have exposed to the disease);
+&emsp;(3) providing counseling to women on the prevention and control of the disease (including, in the case of a woman with the disease, counseling on the benefits of locating and providing such counseling to any individual from whom the woman may have contracted the disease and any individual whom the woman may have exposed to the disease);
 
 &emsp;(4) providing follow-up services;
 
@@ -82,7 +82,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (k) Maintenance of effort
 
-With respect to activities for which a grant under subsection (a) of this section is authorized to be expended, the Secretary may make such a grant only if the applicant involved agrees to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the average level of such expenditures maintained by the applicant for the 2-year period preceding the fiscal year for which the applicant is applying to receive such a grant.
+With respect to activities for which a grant under subsection (a) of this section is authorizedto be expended, the Secretary may make such a grant only if the applicant involved agrees to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the average level of such expenditures maintained by the applicant for the 2-year period preceding the fiscal year for which the applicant is applying to receive such a grant.
 
 #### (l) Requirement of application
 
@@ -144,7 +144,7 @@ The Secretary shall coordinate the program carried out under this section with a
 
 #### (q) Authorization of appropriations
 
-For the purpose of carrying out this section, other than subsections (o) and (r) of this section, there are authorized to be appropriated $25,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 1998.
+For the purpose of carrying out this section, other than subsections (o) and (r) of this section,there are authorized to be appropriated $25,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 1998.
 
 #### (r) Separate grants for research on delivery of services
 
@@ -166,17 +166,17 @@ Section 256a of this title, referred to in subsec. (e), was repealed by Pub. L. 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “, 256a”.
+<b>2003</b>—Subsec. (e). Pub. L. 108–163 substituted "254b" for "254c, 254b(h)" before ", 256a".
 
-<b>2002</b>—Subsec. (e). Pub. L. 107–251 substituted “254b(h)” for “256”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–251 substituted "254b(h)" for "256".
 
 <b>1993</b>—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §304, which enacted this section.
 
-Subsec. (o)(2). Pub. L. 103–183, §402(a), substituted “subsection (q)” for “subsection (s)”.
+Subsec. (o)(2). Pub. L. 103–183, §402(a), substituted "subsection (q)" for "subsection (s)".
 
-Subsec. (q). Pub. L. 103–183, §402(b)(1), substituted “through 1998” for “and 1995”.
+Subsec. (q). Pub. L. 103–183, §402(b)(1), substituted "through 1998" for "and 1995".
 
-Subsec. (r)(2). Pub. L. 103–183, §402(b)(2), substituted “1998” for “1995”.
+Subsec. (r)(2). Pub. L. 103–183, §402(b)(2), substituted "1998" for "1995".
 
 #### Change of Name
 

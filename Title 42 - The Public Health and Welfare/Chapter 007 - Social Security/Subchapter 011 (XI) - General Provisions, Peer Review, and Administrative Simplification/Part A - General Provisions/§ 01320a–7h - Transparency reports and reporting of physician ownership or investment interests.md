@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(B) The value and terms of each such ownership or investment interest.
 
-&emsp;&emsp;(C) Any payment or other transfer of value provided to a physician holding such an ownership or investment interest (or to an entity or individual at the request of or designated on behalf of a physician holding such an ownership or investment interest), including the information described in clauses (i) through (viii) of paragraph (1)(A), except that in applying such clauses, “physician” shall be substituted for “covered recipient” each place it appears.
+&emsp;&emsp;(C) Any payment or other transfer of value provided to a physician holding such an ownership or investment interest (or to an entity or individual at the request of or designated on behalf of a physician holding such an ownership or investment interest), including the information described in clauses (i) through (viii) of paragraph (1)(A), except that in applying such clauses, "physician" shall be substituted for "covered recipient" each place it appears.
 
 &emsp;&emsp;(D) Any other information regarding the ownership or investment interest the Secretary determines appropriate.
 
@@ -112,13 +112,13 @@
 
 &emsp;&emsp;Not later than October 1, 2011, the Secretary shall establish procedures—
 
-&emsp;&emsp;&emsp;(i) for applicable manufacturers and applicable group purchasing organizations tosubmit information to the Secretary under subsection (a); and
+&emsp;&emsp;&emsp;(i) for applicable manufacturers and applicable group purchasing organizations to submit information to the Secretary under subsection (a); and
 
 &emsp;&emsp;&emsp;(ii) for the Secretary to make such information submitted available to the public.
 
 #### (B) Definition of terms
 
-&emsp;&emsp;The procedures established under subparagraph (A) shall provide for the definition of terms (other than those terms defined in subsection (e)), as appropriate, for purposes of this section.
+&emsp;&emsp;The procedures established under subparagraph (A) shall provide for the definition ofterms (other than those terms defined in subsection (e)), as appropriate, for purposes of this section.
 
 #### (C) Public availability
 
@@ -170,7 +170,7 @@
 
 &emsp;Not later than April 1 of each year beginning with 2013, the Secretary shall submit to Congress a report that includes the following:
 
-&emsp;&emsp;(A) The information submitted under subsection (a) during the preceding year, aggregated for each applicable manufacturer and applicable group purchasing organization that submitted such information during such year (except, in the case of information submitted with respect to a payment or other transfer of value described in subsection (c)(1)(E)(i), such information shall be included in the first report submitted to Congress after the date on which such information is made available to the public under such subsection).
+&emsp;&emsp;(A) The information submitted under subsection (a) during the preceding year, aggregated for each applicable manufacturer and applicable group purchasing organization that submitted such information during such year (except, in the case of information submitted with respect to a payment orother transfer of value described in subsection (c)(1)(E)(i), such information shall be included in the first report submitted to Congress after the date on which such information is made available to the public under such subsection).
 
 &emsp;&emsp;(B) A description of any enforcement actions taken to carry out this section, including any penalties imposed under subsection (b), during the preceding year.
 
@@ -208,29 +208,29 @@ In this section:
 
 #### (1) Applicable group purchasing organization
 
-&emsp;The term “applicable group purchasing organization” means a group purchasing organization (as defined by the Secretary) that purchases, arranges for, or negotiates the purchase of a covered drug, device, biological, or medical supply which is operating in the United States, or in a territory, possession, or commonwealth of the United States.
+&emsp;The term "applicable group purchasing organization" means a group purchasing organization (as defined by the Secretary) that purchases, arranges for, or negotiates the purchase of a covered drug, device, biological, or medical supply which is operating in the United States, or in a territory, possession, or commonwealth of the United States.
 
 #### (2) Applicable manufacturer
 
-&emsp;The term “applicable manufacturer” means a manufacturer of a covered drug, device, biological, or medical supply which is operating in the United States, or in a territory, possession, or commonwealth of the United States.
+&emsp;The term "applicable manufacturer" means a manufacturer of a covered drug, device, biological, or medical supply which is operating in the United States, or in a territory, possession, or commonwealth of the United States.
 
 #### (3) Clinical investigation
 
-&emsp;The term “clinical investigation” means any experiment involving 1 or more human subjects, or materials derived from human subjects, in which a drug or device is administered, dispensed, or used.
+&emsp;The term "clinical investigation" means any experiment involving 1 or more human subjects, or materials derived from human subjects, in which a drug or device is administered, dispensed, or used.
 
 #### (4) Covered device
 
-&emsp;The term “covered device” means any device for which payment is available under subchapter XVIII or a State plan under subchapter XIX or XXI (or a waiver of such a plan).
+&emsp;The term "covered device" means any device for which payment is available under subchapter XVIII or a State plan under subchapter XIX or XXI (or a waiver of such a plan).
 
 #### (5) Covered drug, device, biological, or medical supply
 
-&emsp;The term “covered drug, device, biological, or medical supply” means any drug, biological product, device, or medical supply for which payment is available under subchapter XVIII or a State plan under subchapter XIX or XXI (or a waiver of such a plan).
+&emsp;The term "covered drug, device, biological, or medical supply" means any drug, biological product, device, or medical supply for which payment is available under subchapter XVIII or a State plan under subchapter XIX or XXI (or a waiver of such a plan).
 
 #### (6) Covered recipient
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “covered recipient” means the following:
+&emsp;&emsp;Except as provided in subparagraph (B), the term "covered recipient" means the following:
 
 &emsp;&emsp;&emsp;(i) A physician.
 
@@ -242,21 +242,21 @@ In this section:
 
 #### (7) Employee
 
-&emsp;The term “employee” has the meaning given such term in section 1395nn(h)(2) of this title.
+&emsp;The term "employee" has the meaning given such term in section 1395nn(h)(2) of this title.
 
 #### (8) Knowingly
 
-&emsp;The term “knowingly” has the meaning given such term in section 3729(b) of title 31.
+&emsp;The term "knowingly" has the meaning given such term in section 3729(b) of title 31.
 
 #### (9) Manufacturer of a covered drug, device, biological, or medical supply
 
-&emsp;The term “manufacturer of a covered drug, device, biological, or medical supply” meansany entity which is engaged in the production, preparation, propagation, compounding, or conversion of a covered drug, device, biological, or medical supply (or any entity under common ownership with such entity which provides assistance or support to such entity with respect to the production, preparation, propagation, compounding, conversion, marketing, promotion, sale, or distribution of a covered drug, device, biological, or medical supply).
+&emsp;The term "manufacturer of a covered drug, device, biological, or medical supply" means any entity which is engaged in the production, preparation, propagation, compounding, or conversion of a covered drug, device, biological, or medical supply (or any entity under common ownership with such entity which provides assistance or support to such entity with respect to the production, preparation,propagation, compounding, conversion, marketing, promotion, sale, or distribution of a covered drug, device, biological, or medical supply).
 
 #### (10) Payment or other transfer of value
 
 #### (A) In general
 
-&emsp;&emsp;The term “payment or other transfer of value” means a transfer of anything of value. Such term does not include a transfer of anything of value that is made indirectly to a covered recipient through a third party in connection with an activity or service in the case where the applicable manufacturer is unaware of the identity of the covered recipient.
+&emsp;&emsp;The term "payment or other transfer of value" means a transfer of anything of value. Such term does not include a transfer of anything of value that is made indirectly to a covered recipient through a third party in connection with an activity or service in the case where the applicable manufacturer is unaware of the identity of the covered recipient.
 
 #### (B) Exclusions
 
@@ -288,7 +288,7 @@ In this section:
 
 #### (11) Physician
 
-&emsp;The term “physician” has the meaning given that term in section 1395x(r) of this title.
+&emsp;The term "physician" has the meaning given that term in section 1395x(r) of this title.
 
 (Aug. 14, 1935, ch. 531, title XI, §1128G, as added Pub. L. 111–148, title VI, §6002, Mar. 23, 2010, 124 Stat. 689.)
 

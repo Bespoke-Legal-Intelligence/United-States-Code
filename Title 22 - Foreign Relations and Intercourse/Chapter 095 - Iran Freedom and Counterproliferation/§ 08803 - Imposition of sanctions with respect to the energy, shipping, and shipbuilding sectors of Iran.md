@@ -8,11 +8,11 @@ Congress makes the following findings:
 
 &emsp;(2) The United Nations Security Council and the United States Government have expressed concern about the proliferation risks presented by the Iranian nuclear program.
 
-&emsp;(3) The Director General of the International Atomic Energy Agency (in this section referred to as the “IAEA”) has in successive reports (GOV/2012/37 and GOV/2011/65) identified possible military dimensions of Iran's nuclear program.
+&emsp;(3) The Director General of the International Atomic Energy Agency (in this section referred to as the "IAEA") has in successive reports (GOV/2012/37 and GOV/2011/65) identified possible military dimensions of Iran's nuclear program.
 
 &emsp;(4) The Government of Iran continues to defy the requirements and obligations contained in relevant IAEA Board of Governors and United Nations Security Council resolutions, including by continuing and expanding uranium enrichment activities in Iran, as reported in IAEA Report GOV/2012/37.
 
-&emsp;(5) United Nations Security Council Resolution 1929 (2010) recognizes the “potential connection between Iran's revenues derived from its energy sector and the funding of Iran's proliferation sensitive nuclear activities”.
+&emsp;(5) United Nations Security Council Resolution 1929 (2010) recognizes the "potential connection between Iran's revenues derived from its energy sector and the funding of Iran's proliferation sensitive nuclear activities".
 
 &emsp;(6) The National Iranian Tanker Company is the main carrier for the Iranian Revolutionary Guard Corps-designated National Iranian Oil Company and a key element in the petroleum supply chain responsible for generating energy revenues that support the illicit nuclear proliferation activities of the Government of Iran.
 
@@ -128,7 +128,7 @@ The President may provide for an exception from the imposition of sanctions unde
 
 #### (2) Financial transactions
 
-&emsp;This section shall apply to a foreign financial institution that conducts or facilitates a financial transaction for the sale, supply, or transfer to or from Iran of natural gas unless—
+&emsp;This section shall apply to a foreign financial institution that conducts or facilitates afinancial transaction for the sale, supply, or transfer to or from Iran of natural gas unless—
 
 &emsp;&emsp;(A) the financial transaction is only for trade in goods or services—
 
@@ -153,4 +153,8 @@ The President may provide for an exception from the imposition of sanctions unde
 &emsp;Each report submitted under paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
 
 (Pub. L. 112–239, div. A, title XII, §1244, Jan. 2, 2013, 126 Stat. 2006.)
+
+#### Delegation of Functions
+
+For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 

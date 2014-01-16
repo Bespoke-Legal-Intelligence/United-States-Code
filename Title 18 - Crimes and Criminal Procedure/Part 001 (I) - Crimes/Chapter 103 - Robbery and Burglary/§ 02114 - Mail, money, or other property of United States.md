@@ -8,7 +8,7 @@ Assault.—A person who assaults any person having lawful charge, control, or cu
 
 Receipt, Possession, Concealment, or Disposal of Property.—A person who receives, possesses, conceals, or disposes of any money or other property that has been obtained in violation of this section, knowing the same to have been unlawfully obtained, shall be imprisoned not more than 10 years, fined under this title, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 797; Pub. L. 98–473, title II, §223(d), Oct. 12, 1984, 98 Stat. 2028; Pub.L. 101–647, title XXXV, §3562, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 103–322, title XXXII, §§320602, 320903(a)(3), Sept. 13, 1994, 108 Stat. 2115, 2124; Pub. L. 104–294, title VI, §604(b)(17), Oct. 11, 1996, 110 Stat. 3507.)
+(June 25, 1948, ch. 645, 62 Stat. 797; Pub. L. 98–473, title II, §223(d), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 101–647, title XXXV, §3562, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 103–322, title XXXII, §§320602, 320903(a)(3), Sept. 13, 1994, 108 Stat. 2115, 2124; Pub. L. 104–294, title VI, §604(b)(17), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 
@@ -22,13 +22,13 @@ Minor changes were made in phraseology.
 
 <b>1996</b>—Pub. L. 104–294 amended Pub. L. 103–322, §320602. See 1994 Amendment note below.
 
-<b>1994</b>—Pub. L. 103–322, §320903(a)(3), inserted “or attempts to rob” after “robs” in subsec. (a).
+<b>1994</b>—Pub. L. 103–322, §320903(a)(3), inserted "or attempts to rob" after "robs" in subsec. (a).
 
-Pub. L. 103–322, §320602, as amended by Pub. L. 104–294, §604(b)(17), designated existing provisions as subsec. (a), inserted heading, substituted “A person who” for “Whoever”, and added subsec. (b).
+Pub. L. 103–322, §320602, as amended by Pub. L. 104–294, §604(b)(17), designated existing provisions as subsec. (a), inserted heading, substituted "A person who" for "Whoever", and added subsec. (b).
 
-<b>1990</b>—Pub. L. 101–647 inserted a comma after “money” in section catchline.
+<b>1990</b>—Pub. L. 101–647 inserted a comma after "money" in section catchline.
 
-<b>1984</b>—Pub. L. 98–473, which directed insertion of “not more than” after “imprisoned”, was executed by making the insertion after “imprisoned” the second time appearing.
+<b>1984</b>—Pub. L. 98–473, which directed insertion of "not more than" after "imprisoned", was executed by making the insertion after "imprisoned" the second time appearing.
 
 #### Effective Date of 1996 Amendment
 

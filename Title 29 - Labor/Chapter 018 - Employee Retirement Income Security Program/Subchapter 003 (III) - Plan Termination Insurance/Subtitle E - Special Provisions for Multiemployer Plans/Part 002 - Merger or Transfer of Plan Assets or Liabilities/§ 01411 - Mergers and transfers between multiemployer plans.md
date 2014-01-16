@@ -14,7 +14,7 @@ A merger or transfer satisfies the requirements of this section if—
 
 &emsp;(3) the benefits of participants and beneficiaries are not reasonably expected to be subject to suspension under section 1426 of this title; and
 
-&emsp;(4) an actuarial valuation of the assets and liabilities of each of the affected plans has been performed during the plan year preceding the effective date of the merger or transfer, based upon the most recent data available as of the day before the start of that plan year, or other valuation of such assets and liabilities performed under such standards and procedures as the corporation may prescribe by regulation.
+&emsp;(4) an actuarial valuation of the assets and liabilities of each of the affected plans has been performed during the plan year precedingthe effective date of the merger or transfer, based upon the most recent data available as of the day before the start of that plan year, or other valuation of such assets and liabilities performed under such standards and procedures as the corporation may prescribe by regulation.
 
 #### (c) Actions not deemed violation of section 1106(a) or (b)(2) of this title
 

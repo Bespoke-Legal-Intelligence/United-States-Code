@@ -2,7 +2,7 @@
 
 (a)
 
-Review of Fatalities.—The Secretary of the Air Force shall conduct a multidisciplinary, impartial review (referred to as a “fatality review”) in the case of each fatality known or suspected to have resulted from domestic violence or child abuse against any of the following:
+Review of Fatalities.—The Secretary of the Air Force shall conduct a multidisciplinary, impartial review (referred to as a "fatality review") in the case of each fatality known or suspected to have resulted from domestic violence or child abuse against any of the following:
 
 &emsp;(1) A member of the Air Force on active duty.
 

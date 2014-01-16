@@ -16,7 +16,7 @@ Subsection (a) shall not apply to any option, agreement, right, or restriction w
 
 &emsp;(2) It is not a device to transfer such property to members of the decedent's family for less than full and adequate consideration in money or money's worth.
 
-&emsp;(3) Its terms are comparable to similar arrangements entered into by persons in an arms’ length transaction.
+&emsp;(3) Its terms are comparable to similar arrangements entered into by persons in an arms' length transaction.
 
 (Added Pub. L. 101–508, title XI, §11602(a), Nov. 5, 1990, 104 Stat. 1388–498.)
 

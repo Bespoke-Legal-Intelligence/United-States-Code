@@ -4,15 +4,15 @@ In this chapter:
 
 #### (1) Ambassador at Large
 
-&emsp;The term “Ambassador at Large” means the Ambassador at Large for International Religious Freedom appointed under section 6411(b) of this title.
+&emsp;The term "Ambassador at Large" means the Ambassador at Large for International Religious Freedom appointed under section 6411(b) of this title.
 
 #### (2) Annual Report
 
-&emsp;The term “Annual Report” means the Annual Report on International Religious Freedom described in section 6412(b) of this title.
+&emsp;The term "Annual Report" means the Annual Report on International Religious Freedom described in section 6412(b) of this title.
 
 #### (3) Appropriate congressional committees
 
-&emsp;The term “appropriate congressional committees” means—
+&emsp;The term "appropriate congressional committees" means—
 
 &emsp;&emsp;(A) the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives; and
 
@@ -20,35 +20,35 @@ In this chapter:
 
 #### (4) Commensurate action
 
-&emsp;The term “commensurate action” means action taken by the President under section 6445(b) of this title.
+&emsp;The term "commensurate action" means action taken by the President under section 6445(b) of this title.
 
 #### (5) Commission
 
-&emsp;The term “Commission” means the United States Commission on International Religious Freedom established in section 6431(a) of this title.
+&emsp;The term "Commission" means the United States Commission on International Religious Freedom established in section 6431(a) of this title.
 
 #### (6) Country Reports on Human Rights Practices
 
-&emsp;The term “Country Reports on Human Rights Practices” means the annual reports required to be submitted by the Department of State to Congress under sections 2151n(d) and 2304(b) of this title.
+&emsp;The term "Country Reports on Human Rights Practices" means the annual reports required to be submitted by the Department of State to Congress under sections 2151n(d) and 2304(b) of this title.
 
 #### (7) Executive Summary
 
-&emsp;The term “Executive Summary” means the Executive Summary to the Annual Report, as described in section 6412(b)(1)(F) of this title.
+&emsp;The term "Executive Summary" means the Executive Summary to the Annual Report, as described in section 6412(b)(1)(F) of this title.
 
 #### (8) Government or foreign government
 
-&emsp;The term “government” or “foreign government” includes any agency or instrumentality of the government.
+&emsp;The term "government" or "foreign government" includes any agency or instrumentality of the government.
 
 #### (9) Human Rights Reports
 
-&emsp;The term “Human Rights Reports” means all reports submitted by the Department of State to Congress under sections 2151n and 2304 of this title.
+&emsp;The term "Human Rights Reports" means all reports submitted by the Department of State to Congress under sections 2151n and 2304 of this title.
 
 #### (10) Office
 
-&emsp;The term “Office” means the Office on International Religious Freedom established in section 6411(a) of this title.
+&emsp;The term "Office" means the Office on International Religious Freedom established in section 6411(a) of this title.
 
 #### (11) Particularly severe violations of religious freedom
 
-&emsp;The term “particularly severe violations of religious freedom” means systematic, ongoing, egregious violations of religious freedom, including violations such as—
+&emsp;The term "particularly severe violations of religious freedom" means systematic, ongoing, egregious violations of religious freedom, including violations such as—
 
 &emsp;&emsp;(A) torture or cruel, inhuman, or degrading treatment or punishment;
 
@@ -60,11 +60,11 @@ In this chapter:
 
 #### (12) Special Adviser
 
-&emsp;The term “Special Adviser” means the Special Adviser to the President on International Religious Freedom described in section 402(i) of title 50.<sup>2</sup>
+&emsp;The term "Special Adviser" means the Special Adviser to the President on International Religious Freedom described in section 3021(i) of title 50.<sup>2</sup>
 
 #### (13) Violations of religious freedom
 
-&emsp;The term “violations of religious freedom” means violations of the internationally recognized right to freedom of religion and religious belief and practice, as set forth in the international instruments referred to in section 6401(a)(2) of this title and as described in section 6401(a)(3) of this title, including violations such as—
+&emsp;The term "violations of religious freedom" means violations of the internationally recognized right to freedom of religion and religious belief and practice, as set forth in the international instruments referred to in section 6401(a)(2) of this title and as described in section 6401(a)(3) of this title, including violations such as—
 
 &emsp;&emsp;(A) arbitrary prohibitions on, restrictions of, or punishment for—
 
@@ -84,9 +84,9 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
 
-Section 402(i) of title 50, referred to in par. (12), was redesignated section 402(k) by Pub. L. 110–53, title XVIII, §1841(g)(1), Aug. 3, 2007, 121 Stat. 500.
+Section 3021(i) of title 50, referred to in par. (12), was redesignated section 3021(k) by Pub. L. 110–53, title XVIII, §1841(g)(1), Aug. 3, 2007, 121 Stat. 500.
 
 #### Change of Name
 
@@ -94,7 +94,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Presidential”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Presidential".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

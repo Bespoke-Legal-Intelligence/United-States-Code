@@ -4,7 +4,7 @@
 
 (1) The Commission may, in its discretion, prescribe the forms of any and all accounts, records, and memoranda to be kept by carriers subject to this chapter, including the accounts, records, and memoranda of the movement of traffic, as well as of the receipts and expenditures of moneys.
 
-(2) The Commission shall, by rule, prescribe a uniform system of accounts for use by telephone companies. Such uniform system shall require that each common carrier shall maintain a system of accounting methods, procedures, and techniques (including accounts and supporting records and memoranda) which shall ensure a proper allocation of all costs to and among telecommunications services, facilities, and products (and to and among classes of such services, facilities, and products) which are developed, manufactured, or offered by such common carrier.
+(2) The Commission shall, by rule, prescribe a uniform system of accounts for use by telephone companies. Such uniform system shall requirethat each common carrier shall maintain a system of accounting methods, procedures, and techniques (including accounts and supporting records and memoranda) which shall ensure a proper allocation of all costs to and among telecommunications services, facilities, and products (and to and among classes of such services, facilities, and products) which are developed, manufactured, or offered by such common carrier.
 
 #### (b) Depreciation charges
 
@@ -46,19 +46,19 @@ The Commission shall investigate and report to Congress as to the need for legis
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (h), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (h), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–104, §403(d), substituted “may prescribe, for such carriers as it determines to be appropriate,” for “shall prescribe for such carriers”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–104, §403(d), substituted "may prescribe, for such carriers as it determines to be appropriate," for "shall prescribe for such carriers".
 
-Subsec. (c). Pub. L. 104–104, §403(e), inserted at end “The Commission may obtain the services of any person licensed to provide public accounting services under the law of any State to assist with, or conduct, audits under this section. While so employed or engaged in conducting an audit for the Commission under this section, any such person shall have the powers granted the Commission under this subsection and shall be subject to subsection (f) of this section in the same manner as if that person were an employee of the Commission.”
+Subsec. (c). Pub. L. 104–104, §403(e), inserted at end "The Commission may obtain the services of any person licensed to provide public accounting services under the law of any State to assist with, or conduct, audits under this section. While so employed or engaged in conducting an audit for the Commission under this section, any such person shall have the powers granted the Commission under this subsection and shall be subject to subsection (f) of this section in the same manner as if that person were an employee of the Commission."
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–414, §303(a)(7), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 103–414, §304(a)(5), struck out “, as soon as practicable,” after “The Commission shall”.
+Subsec. (b). Pub. L. 103–414, §304(a)(5), struck out ", as soon as practicable," after "The Commission shall".
 
-Pub. L. 103–414, §303(a)(8), substituted “classes” for “clasess” after “prescribed the” in third sentence.
+Pub. L. 103–414, §303(a)(8), substituted "classes" for "clasess" after "prescribed the" in third sentence.
 
-<b>1989</b>—Subsec. (d). Pub. L. 101–239 substituted “$6,000” for “$500”.
+<b>1989</b>—Subsec. (d). Pub. L. 101–239 substituted "$6,000" for "$500".
 

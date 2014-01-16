@@ -2,7 +2,7 @@
 
 #### (a) Establishment and purpose
 
-The Secretary shall establish a grassland reserve program (referred to in this subpart as the “program”) for the purpose of assisting owners and operators in protecting grazing uses and related conservation values by restoring and conserving eligible land through rental contracts, easements, and restoration agreements.
+The Secretary shall establish a grassland reserve program (referred to in this subpart as the "program") for the purpose of assisting owners and operators in protecting grazing uses and related conservation values by restoring and conserving eligible land through rental contracts, easements, and restoration agreements.
 
 #### (b) Enrollment of acreage
 
@@ -40,11 +40,11 @@ The Secretary shall establish a grassland reserve program (referred to in this s
 
 #### (B) Maximum enrollment
 
-&emsp;&emsp;The number of acres of land enrolled under the priority described in subparagraph (A) ina calendar year shall not exceed 10 percent of the total number of acres enrolled in the program in that calendar year.
+&emsp;&emsp;The number of acres of land enrolled under the priority described in subparagraph (A) in a calendar year shall not exceed 10 percent of the total number of acres enrolled in the program in that calendar year.
 
 #### (c) Eligible land defined
 
-For purposes of the program, the term “eligible land” means private or tribal land that—
+For purposes of the program, the term "eligible land" means private or tribal land that—
 
 &emsp;(1) is grassland, land that contains forbs, or shrubland (including improved rangeland and pastureland) for which grazing is the predominant use;
 

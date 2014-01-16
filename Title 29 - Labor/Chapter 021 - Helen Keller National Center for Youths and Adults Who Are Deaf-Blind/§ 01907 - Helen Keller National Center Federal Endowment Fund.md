@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary and the Board of Directors of the Helen Keller National Center are authorized to establish the Helen Keller National Center Federal Endowment Fund (hereafter in this section referred to as the “Endowment Fund”) in accordance with the provisions of this section, to promote the financial independence of the Helen Keller National Center. The Secretary and the Board may enter into such agreements as may be necessary to carry out the purposes of this section.
+The Secretary and the Board of Directors of the Helen Keller National Center are authorized to establish the Helen Keller National Center Federal Endowment Fund (hereafter in this section referred to as the "Endowment Fund") in accordance with the provisions of this section, to promote the financial independence of the Helen Keller National Center. The Secretary and the Board may enter into such agreements as may be necessary to carry out the purposes of this section.
 
 #### (b) Federal payments
 
@@ -106,15 +106,15 @@ For the purposes of this section:
 
 #### (1) Endowment fund
 
-&emsp;The term “endowment fund” means a fund, or a tax-exempt foundation, established and maintained by the Helen Keller National Center for the purpose of generating income for the support of the Center.
+&emsp;The term "endowment fund" means a fund, or a tax-exempt foundation, established and maintained by the Helen Keller National Center for the purpose of generating income for the support of the Center.
 
 #### (2) Endowment Fund corpus
 
-&emsp;The term “Endowment Fund corpus” means an amount equal to the Federal payments made to the Endowment Fund and amounts contributed to the Endowment Fund from non-Federal sources.
+&emsp;The term "Endowment Fund corpus" means an amount equal to the Federal payments made to the Endowment Fund and amounts contributed to the Endowment Fund from non-Federal sources.
 
 #### (3) Endowment Fund income
 
-&emsp;The term “Endowment Fund income” means an amount equal to the total market value of the Endowment Fund minus the Endowment Fund corpus.
+&emsp;The term "Endowment Fund income" means an amount equal to the total market value of the Endowment Fund minus the Endowment Fund corpus.
 
 #### (h) Authorization of appropriations
 
@@ -124,5 +124,5 @@ There are authorized to be appropriated to carry out this section, such sums as 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (h). Pub. L. 105–220 substituted “1999 through 2003” for “1993 through 1997”.
+<b>1998</b>—Subsec. (h). Pub. L. 105–220 substituted "1999 through 2003" for "1993 through 1997".
 

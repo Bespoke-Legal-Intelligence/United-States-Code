@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-A Peace Corps National Advisory Council (hereinafter in this section referred to as the “Council”) shall be established in accordance with the provisions of this section.
+A Peace Corps National Advisory Council (hereinafter in this section referred to as the "Council") shall be established in accordance with the provisions of this section.
 
 #### (b) Functions
 
@@ -24,7 +24,7 @@ A Peace Corps National Advisory Council (hereinafter in this section referred to
 
 (1) Persons appointed as members of the Council shall be broadly representative of the general public, including educational institutions, private volunteer agencies, private industry, farm organizations, labor unions, different regions of the United States, different educational, economic, racial, and national backgrounds and age groupings, and both sexes.
 
-(2)(A) The Council shall consist of fifteen voting members who shall be appointed by thePresident, by and with the advice and consent of the Senate. At least seven of such members shall be former Peace Corps volunteers, and not more than eight of such members shall be members of the same political party.
+(2)(A) The Council shall consist of fifteen voting members who shall be appointed by the President, by and with the advice and consent of the Senate. At least seven of such members shall be former Peace Corps volunteers, and not more than eight of such members shall be members of the same political party.
 
 (B) The first appointments of members of the Council under this paragraph shall be made not more than sixty days after August 8, 1985, and, solely for purposes of determining the expiration of their terms, shall be deemed to take effect on the sixtieth day after August 8, 1985.
 
@@ -84,11 +84,11 @@ The Director of the Peace Corps shall make available to the Council such personn
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1) and (d)(1)(A), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in subsecs. (b)(1) and (d)(1)(A), was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 2511, Pub. L. 87–293, title I, §12, Sept. 22, 1961, 75 Stat. 619, established Peace Corps National Advisory Council and set forth its composition, functions, and terms of members, prior to repeal by Pub. L.92–352, title IV, §403, July 13, 1972, 86 Stat. 495, effective 90 days after July 13, 1972.
+A prior section 2511, Pub. L. 87–293, title I, §12, Sept. 22, 1961, 75 Stat. 619, established Peace Corps National Advisory Council and set forth its composition, functions, and terms of members, prior to repeal by Pub. L. 92–352, title IV, §403, July 13, 1972, 86 Stat. 495, effective 90 days after July 13, 1972.
 
 #### Effective Date
 
@@ -104,5 +104,5 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 #### Termination of Similar Advisory Body
 
-Pub. L. 99–83, title XI, §1104(b), Aug. 8, 1985, 99 Stat. 275, provided that: “Any advisory body carrying out functions similar to those assigned to the Peace Corps National Advisory Council provided for in subsection (a) \[enacting this section\] shall cease to exist sixty days after the date of the enactment of this Act \[Aug. 8, 1985\].”
+Pub. L. 99–83, title XI, §1104(b), Aug. 8, 1985, 99 Stat. 275, provided that: "Any advisory body carrying out functions similar to those assigned to the Peace Corps National Advisory Council provided for in subsection (a) \[enacting this section\] shall cease to exist sixty days after the date of the enactment of this Act \[Aug. 8, 1985\]."
 

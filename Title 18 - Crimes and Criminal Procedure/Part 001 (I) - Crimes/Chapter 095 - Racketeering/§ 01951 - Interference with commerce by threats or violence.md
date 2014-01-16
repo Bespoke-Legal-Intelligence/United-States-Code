@@ -4,11 +4,11 @@
 
 (b) As used in this section—
 
-&emsp;(1) The term “robbery” means the unlawful taking or obtaining of personal property from the person or in the presence of another, against his will, by means of actual or threatened force, or violence, or fear of injury, immediate or future, to his person or property, or property in his custody or possession, or the person or property of a relative or member of his family or of anyone in his company at the time of the taking or obtaining.
+&emsp;(1) The term "robbery" means the unlawful taking or obtaining of personal property from the person or in the presence of another, against his will, by means of actual or threatened force, or violence, or fear of injury, immediate or future, to his person or property, or property in his custody or possession, or the person or property of a relative or member of his family or of anyone in his company at the time of the taking or obtaining.
 
-&emsp;(2) The term “extortion” means the obtaining of property from another, with his consent, induced by wrongful use of actual or threatened force, violence, or fear, or under color of official right.
+&emsp;(2) The term "extortion" means the obtaining of property from another, with his consent, induced by wrongful use of actual or threatened force, violence, or fear, or under color of official right.
 
-&emsp;(3) The term “commerce” means commerce within the District of Columbia, or any Territory or Possession of the United States; all commerce between any point in a State, Territory, Possession, or the District of Columbia and any point outside thereof; all commerce between points within the same State through any place outside such State; and all other commerce over which the United States has jurisdiction.
+&emsp;(3) The term "commerce" means commerce within the District of Columbia, or any Territory or Possession of the United States; all commerce between any point in a State, Territory, Possession, or the District of Columbia and any point outside thereof; all commerce between points within the same State through any place outside such State; and all other commerce over which the United States has jurisdiction.
 
 (c) This section shall not be construed to repeal, modify or affect section 17 of Title 15, sections 52, 101–115, 151–166 of Title 29 or sections 151–188 of Title 45.
 
@@ -24,9 +24,9 @@ Provisions designating offense as felony were omitted as unnecessary in view of 
 
 Subsection (c) of the revised section is derived from title II of the 1946 amendment. It substitutes references to specific sections of the United States Code, 1940 ed., in place of references to numerous acts of Congress, in conformity to the style of the revision bill. Subsection (c) as rephrased will preclude any construction of implied repeal of the specified acts of Congress codified in the sections enumerated.
 
-The words “attempts or conspires so to do” were substituted for sections 3 and 4 of the 1946 act, omitting as unnecessary the words “participates in an attempt” and the words “or acts in concert with another or with others”, in view of section 2 of this title which makes any person who participates in an unlawful enterprise or aids or assists the principal offender, or does anything towards the accomplishment of the crime, a principal himself.
+The words "attempts or conspires so to do" were substituted for sections 3 and 4 of the 1946 act, omitting as unnecessary the words "participates in an attempt" and the words "or acts in concert with another or with others", in view of section 2 of this title which makes any person who participates in an unlawful enterprise or aids or assists the principal offender, or does anything towards the accomplishment of the crime, a principal himself.
 
-Words “shall, upon conviction thereof,” were omitted as surplusage, since punishment cannot be imposed until a conviction is secured.
+Words "shall, upon conviction thereof," were omitted as surplusage, since punishment cannot be imposed until a conviction is secured.
 
 #### References in Text
 
@@ -34,7 +34,7 @@ Sections 101–115 of Title 29, referred to in subsec. (c), is a reference to ac
 
 Section 11 of that act, formerly classified to section 111 of Title 29, was repealed and reenacted as section 3692 of this title by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948.
 
-Section 12 of that act, formerly classified to section 112 of Title 29, was repealed by act June 25, 1948, and is covered by rule 42(b) of the Federal Rules of Criminal Procedure, set out in Appendix to this title.
+Section 12 of that act, formerly classified to section 112 of Title 29, was repealed by act June 25, 1948, and iscovered by rule 42(b) of the Federal Rules of Criminal Procedure, set out in Appendix to this title.
 
 Section 164 of Title 45, included within the reference in subsec. (c) to sections 151–188 of Title 45, was repealed by act Oct. 10, 1940, ch. 851, §4, 54 Stat. 1111.
 
@@ -42,9 +42,9 @@ Section 186 of Title 45, included within the reference in subsec. (c) to section
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
 
 #### Short Title
 
-This section is popularly known as the “Hobbs Act”.
+This section is popularly known as the "Hobbs Act".
 

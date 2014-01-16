@@ -6,27 +6,27 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “base acres for peanuts” means the number of acres assigned to a farm pursuant to section 7952 of this title, as in effect on September 30, 2007, subject to any adjustment under section 8752 of this title.
+&emsp;&emsp;The term "base acres for peanuts" means the number of acres assigned to a farm pursuant to section 7952 of this title, as in effect on September 30, 2007, subject to any adjustment under section 8752 of this title.
 
 #### (B) Covered commodities
 
-&emsp;&emsp;The term “base acres”, with respect to a covered commodity, has the meaning given the term in section 8711 of this title.
+&emsp;&emsp;The term "base acres", with respect to a covered commodity, has the meaning given the term in section 8711 of this title.
 
 #### (2) Counter-cyclical payment
 
-&emsp;The term “counter-cyclical payment” means a payment made to producers on a farm under section 8754 of this title.
+&emsp;The term "counter-cyclical payment" means a payment made to producers on a farm under section 8754 of this title.
 
 #### (3) Direct payment
 
-&emsp;The term “direct payment” means a direct payment made to producers on a farm under section 8753 of this title.
+&emsp;The term "direct payment" means a direct payment made to producers on a farm under section 8753 of this title.
 
 #### (4) Effective price
 
-&emsp;The term “effective price” means the price calculated by the Secretary under section 8754 of this title for peanuts to determine whether counter-cyclical payments are required to be made under that section for a crop year.
+&emsp;The term "effective price" means the price calculated by the Secretary under section 8754 of this title for peanuts to determine whether counter-cyclical payments are required to be made under that section for a crop year.
 
 #### (5) Payment acres
 
-&emsp;The term “payment acres” means, in the case of direct payments and counter-cyclical payments—
+&emsp;The term "payment acres" means, in the case of direct payments and counter-cyclical payments—
 
 &emsp;&emsp;(A) except as provided in subparagraph (B), 85 percent of the base acres of peanuts on a farm on which direct payments or counter-cyclical payments are made; and
 
@@ -34,13 +34,13 @@ In this subchapter:
 
 #### (6) Payment yield
 
-&emsp;The term “payment yield” means the yield established for direct payments and the yield established for counter-cyclical payments under section 7952 of this title, as in effect on September 30, 2007, for a farm for peanuts.
+&emsp;The term "payment yield" means the yield established for direct payments and the yield established for counter-cyclical payments under section 7952 of this title, as in effect on September 30, 2007, for a farm for peanuts.
 
 #### (7) Producer
 
 #### (A) In general
 
-&emsp;&emsp;The term “producer” means an owner, operator, landlord, tenant, or sharecropper that shares in the risk of producing a crop on a farm and is entitled to share in the crop available for marketing from the farm, or would have shared had the crop been produced.
+&emsp;&emsp;The term "producer" means an owner, operator, landlord, tenant, or sharecropper that shares in the risk of producing a crop on a farm and is entitled to share in the crop available for marketing from the farm, or would have shared had the crop been produced.
 
 #### (B) Hybrid seed
 
@@ -52,7 +52,7 @@ In this subchapter:
 
 #### (8) State
 
-&emsp;The term “State” means—
+&emsp;The term "State" means—
 
 &emsp;&emsp;(A) a State;
 
@@ -64,11 +64,11 @@ In this subchapter:
 
 #### (9) Target price
 
-&emsp;The term “target price” means the price per ton of peanuts used to determine the payment rate for counter-cyclical payments.
+&emsp;The term "target price" means the price per ton of peanuts used to determine the payment rate for counter-cyclical payments.
 
 #### (10) United States
 
-&emsp;The term “United States”, when used in a geographical sense, means all of the States.
+&emsp;The term "United States", when used in a geographical sense, means all of the States.
 
 (Pub. L. 110–234, title I, §1301, May 22, 2008, 122 Stat. 966; Pub. L. 110–246, §4(a), title I, §1301, June 18, 2008, 122 Stat. 1664, 1695.)
 

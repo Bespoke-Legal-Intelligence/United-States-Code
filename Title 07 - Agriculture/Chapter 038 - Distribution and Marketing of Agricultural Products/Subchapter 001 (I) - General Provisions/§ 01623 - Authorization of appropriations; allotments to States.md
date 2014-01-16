@@ -1,6 +1,6 @@
 ### §1623. Authorization of appropriations; allotments to States
 
-(a) In order to conduct research and service work in connection with the preparation for market, processing, packaging, handling, storing, transporting, distributing, and marketing of agricultural products as authorized by thischapter, there is hereby authorized to be appropriated the following sums:
+(a) In order to conduct research and service work in connection with the preparation for market, processing, packaging, handling, storing, transporting, distributing, and marketing of agricultural products as authorized by this chapter, there is hereby authorized to be appropriated the following sums:
 
 &emsp;(1) $2,500,000 for the fiscal year ending June 30, 1947, and each subsequent fiscal year.
 

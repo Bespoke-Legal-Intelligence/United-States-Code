@@ -2,13 +2,13 @@
 
 #### (a) Establishment
 
-The Secretary of Housing and Urban Development shall establish a clearinghouse to serve as a national repository to receive, collect, process, assemble, and disseminate information regarding—
+The Secretary of Housing and Urban Development shall establish a clearinghouse to serve asa national repository to receive, collect, process, assemble, and disseminate information regarding—
 
 &emsp;(1) State and local laws, regulations, and policies affecting the development, maintenance, improvement, availability, or cost of affordable housing (including tax policies affecting land and other property, land use controls, zoning ordinances, building codes, fees and charges, growth limits, and policies that affect the return on investment in residential property), and the prevalence and effects on affordable housing of such laws, regulations, and policies;
 
 &emsp;(2) State and local activities, strategies, and plans to remove or ameliorate the negative effects, if any, of such laws, regulations, and policies, including particularly innovative or successful activities, strategies, and plans; and
 
-&emsp;(3) State and local strategies, activities and plans that promote affordable housing andhousing desegregation, including particularly innovative or successful strategies, activities, and plans.
+&emsp;(3) State and local strategies, activities and plans that promote affordable housing and housing desegregation, including particularly innovative or successful strategies, activities, and plans.
 
 #### (b) Functions
 
@@ -44,13 +44,13 @@ Section was enacted as part of the Removal of Regulatory Barriers to Affordable 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–569, §103(1)(A), substituted “serve as a national repository to receive, collect, process, assemble, and disseminate” for “receive, collect, process, and assemble” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–569, §103(1)(A), substituted "serve as a national repository to receive, collect, process, assemble, and disseminate" for "receive, collect, process, and assemble" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 106–569, §103(1)(B), substituted “(including” for “, including” and inserted “), and the prevalence and effects on affordable housing of such laws, regulations, and policies” before semicolon at end.
+Subsec. (a)(1). Pub. L. 106–569, §103(1)(B), substituted "(including" for ", including" and inserted "), and the prevalence and effects on affordable housing of such laws, regulations, and policies" before semicolon at end.
 
-Subsec. (a)(2). Pub. L. 106–569, §103(1)(C), inserted before semicolon “, including particularly innovative or successful activities, strategies, and plans”.
+Subsec. (a)(2). Pub. L. 106–569, §103(1)(C), inserted before semicolon ", including particularly innovative or successful activities, strategies, and plans".
 
-Subsec. (a)(3). Pub. L. 106–569, §103(1)(D), inserted before period at end “, including particularly innovative or successful strategies, activities, and plans”.
+Subsec. (a)(3). Pub. L. 106–569, §103(1)(D), inserted before period at end ", including particularly innovative or successful strategies, activities, and plans".
 
 Subsec. (b)(3). Pub. L. 106–569, §103(2), added par. (3).
 

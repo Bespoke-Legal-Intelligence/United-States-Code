@@ -80,9 +80,9 @@ July 30, 1947, ch. 394, 61 Stat. 675; Aug. 8, 1949, ch. 403, §5, 63 Stat. 576.
 
 34:553c.
 
-In subsection (a), the words “within his establishment”, “of time”, and the opening clauses of 5:626s–1, 10:1269a, and 34:553b, are omitted as surplusage. The words “not available from another local source” are substituted for the words “not otherwise available from local private or public sources”.
+In subsection (a), the words "within his establishment", "of time", and the opening clauses of 5:626s–1, 10:1269a, and 34:553b, are omitted as surplusage. The words "not available from another local source" are substituted for the words "not otherwise available from local private or public sources".
 
-In subsection (b), the words “of sales under subsection (a)” are substituted for the words “received for any such utilities and related services sold pursuant to the authority of said sections”. The words “or appropriations” are omitted as surplusage.
+In subsection (b), the words "of sales under subsection (a)" are substituted for the words "received for any such utilities and related services sold pursuant to the authority of said sections". The words "or appropriations" are omitted as surplusage.
 
 #### Prior Provisions
 
@@ -92,9 +92,9 @@ A prior section 2686, added Pub. L. 95–82, title V, §504(a)(1), Aug. 1, 1977,
 
 <b>1997</b>—Pub. L. 105–85 renumbered section 2481 of this title as this section.
 
-<b>1959</b>—Subsec. (a). Pub. L. 86–156, §1(1), substituted “concerned” for “of a military department” and inserted “or Coast Guard,” after “Marine Corps,”.
+<b>1959</b>—Subsec. (a). Pub. L. 86–156, §1(1), substituted "concerned" for "of a military department" and inserted "or Coast Guard," after "Marine Corps,".
 
-Subsec. (c). Pub. L. 86–156, §1(2), struck out “of the military department” after “Secretary”.
+Subsec. (c). Pub. L. 86–156, §1(2), struck out "of the military department" after "Secretary".
 
 #### Transfer of Functions
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 July 14, 1964, Pub. L. 88–372, §5(a), 78 Stat. 316.
 
-The word “various” is omitted as unnecessary. The words “the Commonwealth of Puerto Rico” are omitted as included in “territories, and possessions of the United States”.
+The word "various" is omitted as unnecessary. The words "the Commonwealth of Puerto Rico" are omitted as included in "territories, and possessions of the United States".
 

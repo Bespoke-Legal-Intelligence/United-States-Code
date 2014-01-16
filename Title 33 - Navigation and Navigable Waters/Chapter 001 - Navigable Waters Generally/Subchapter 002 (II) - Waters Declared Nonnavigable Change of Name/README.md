@@ -27,7 +27,7 @@
 - [&sect; 00035 - Mississippi River, West Channel, opposite La Crosse, Wisconsin](%C2%A7%2000035%20-%20Mississippi%20River%2C%20West%20Channel%2C%20opposite%20La%20Crosse%2C%20Wisconsin.md)
 - [&sect; 00036 - Mosquito Creek, South Carolina](%C2%A7%2000036%20-%20Mosquito%20Creek%2C%20South%20Carolina.md)
 - [&sect; 00037 - Nodaway River, Missouri](%C2%A7%2000037%20-%20Nodaway%20River%2C%20Missouri.md)
-- [&sect; 00038 - Oklawaha River, Florida; Kyle and Young Canal and &#8220;Morrison Landing extension&#8221; substituted](%C2%A7%2000038%20-%20Oklawaha%20River%2C%20Florida%3B%20Kyle%20and%20Young%20Canal%20and%20%E2%80%9CMorrison%20Landing%20extension%E2%80%9D%20substituted.md)
+- [&sect; 00038 - Oklawaha River, Florida; Kyle and Young Canal and Morrison Landing extension substituted](%C2%A7%2000038%20-%20Oklawaha%20River%2C%20Florida%3B%20Kyle%20and%20Young%20Canal%20and%20Morrison%20Landing%20extension%20substituted.md)
 - [&sect; 00039 - Ollala Slough, Oregon](%C2%A7%2000039%20-%20Ollala%20Slough%2C%20Oregon.md)
 - [&sect; 00040 - One Hundred and Two River, Missouri](%C2%A7%2000040%20-%20One%20Hundred%20and%20Two%20River%2C%20Missouri.md)
 - [&sect; 00041 - Osage River, Missouri](%C2%A7%2000041%20-%20Osage%20River%2C%20Missouri.md)

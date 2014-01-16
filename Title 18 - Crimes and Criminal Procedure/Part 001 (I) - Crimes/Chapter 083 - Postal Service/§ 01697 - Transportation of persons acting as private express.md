@@ -12,5 +12,5 @@ Same changes were made as in section 1694 of this title.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $150”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $150".
 

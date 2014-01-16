@@ -16,7 +16,7 @@ The Secretary may carry out the provisions of this section in cooperation with F
 
 #### (c) Funding
 
-The funds to carry out the provisions of this section shall include funds deposited in a special account with the Secretary of the Treasury for such purposes by any cooperating entity or organization according to cost-sharing agreements proscribed by the Secretary. Reimbursement for services provided under this section shall be credited to the appropriation concerned.
+The funds to carry out the provisions of this section shall include funds deposited in a specialaccount with the Secretary of the Treasury for such purposes by any cooperating entity or organization according to cost-sharing agreements proscribed by the Secretary. Reimbursement for services provided under this section shall be credited to the appropriation concerned.
 
 (Pub. L. 102–580, title IV, §401, Oct. 31, 1992, 106 Stat. 4862.)
 
@@ -24,7 +24,7 @@ The funds to carry out the provisions of this section shall include funds deposi
 
 Section was enacted as part of the Water Resources Development Act of 1992, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 

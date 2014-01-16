@@ -21,9 +21,9 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163, div. A, title V, §515(b)(4)(E), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 10108.
+<b>2006</b>—Pub. L. 109–163, div. A, title V, §515(b)(4)(E), Jan. 6, 2006, 119 Stat. 3235, substituted "Navy Reserve" for "Naval Reserve" in item 10108.
 
-<b>1996</b>—Pub. L. 104–106, div. A, title XV, §1501(b)(2)(B), Feb. 10, 1996, 110 Stat. 495, substituted “into Federal service” for “of National Guard into Federal service” in item 10103.
+<b>1996</b>—Pub. L. 104–106, div. A, title XV, §1501(b)(2)(B), Feb. 10, 1996, 110 Stat. 495, substituted "into Federal service" for "of National Guard into Federal service" in item 10103.
 
 
 ---

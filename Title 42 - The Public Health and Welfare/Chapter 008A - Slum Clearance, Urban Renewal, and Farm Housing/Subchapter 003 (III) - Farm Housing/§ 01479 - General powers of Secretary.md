@@ -6,7 +6,7 @@ The Secretary, for the purposes of this subchapter, shall have the power to dete
 
 #### (b) Terms or conditions of leases or occupancy agreements subject to change with approval of Secretary
 
-The Secretary may require any recipient of a loan or grant to agree that the availability of improvements constructed or repaired with the proceeds of the loan or grant under this subchapter shall not be a justification for directly or indirectly changing the terms or conditions of the lease or occupancy agreement with the occupants of such farms to the latter's disadvantage without the approval of the Secretary.
+The Secretary may require any recipient of a loan or grant to agree that the availability ofimprovements constructed or repaired with the proceeds of the loan or grant under this subchapter shall not be a justification for directly or indirectly changing the terms or conditions of the lease or occupancy agreement with the occupants of such farms to the latter's disadvantage without the approval of the Secretary.
 
 #### (c) Rural Housing Insurance Fund for payment of expenditures respecting construction defects; judicial review prohibition
 
@@ -30,7 +30,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;(B) 10 percent or more of its population residing in substandard housing.
 
-> &emsp;As used in this paragraph, the term “poverty level” has the meaning given the term in section 5302(a)(9) of this title.
+> &emsp;As used in this paragraph, the term "poverty level" has the meaning given the term in section 5302(a)(9) of this title.
 
 #### (2) Preferences
 
@@ -56,7 +56,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall set aside and reserve for assistance in targeted underserved areas an amount equal to 5.0 percent in each fiscal year of the aggregate amount of lending authority under sections 1472, 1474, 1484, 1485, and 1490d of this title. During each fiscal year, the Secretary shall set aside from amounts available for assistance under paragraphs (2) and (5) of section 1490a(a) of this title, an amount that is appropriate to provide assistance with respect to the lending authority under sections 1484 and 1485 of this title that is set aside for such fiscal year. The Secretary shall establish a procedure to reallocate any assistance set aside in any fiscal year for targeted underserved areas that has not been expended during a reasonable period in such year for use in (i) colonias that have applied for and are eligible for assistance under subparagraph (B) or paragraph (7) and did not receive assistance, and (ii) counties and communities eligible for designation as targeted underserved areas but which were not so designated. The procedure shall also provide that any assistance reallocated under the preceding sentence that has not been expended by a reasonable date established by the Secretary (which shall be after the expiration of the period referred to in the preceding sentence) shall be made available and allocated under the laws and regulations relating to such assistance, notwithstanding this subsection.
+&emsp;&emsp;The Secretary shall set aside and reserve for assistance in targeted underserved areas an amount equal to 5.0 percent in each fiscal year of the aggregate amount of lending authority under sections 1472, 1474, 1484, 1485, and 1490d of this title. During each fiscal year, the Secretary shall set aside from amounts available for assistance under paragraphs (2) and (5) of section 1490a(a) of this title, an amount that is appropriate to provide assistance with respect to the lending authority under sections 1484 and 1485 of this title that is set aside for such fiscal year. The Secretary shall establish a procedure to reallocate any assistance set aside in any fiscal year for targeted underserved areas that has not been expended during a reasonable period in such year for use in (i)colonias that have applied for and are eligible for assistance under subparagraph (B) or paragraph (7) and did not receive assistance, and (ii) counties and communities eligible for designation as targeted underserved areas but which were not so designated. The procedure shall also provide that any assistance reallocated under the preceding sentence that has not been expended by a reasonable date established by the Secretary (which shall be after the expiration of the period referred to in the preceding sentence) shall be made available and allocated under the laws and regulations relating to such assistance, notwithstanding this subsection.
 
 #### (B) Priority for colonias
 
@@ -78,7 +78,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### (B) Use
 
-&emsp;&emsp;A grant under this paragraph shall not exceed an amount that the Secretary determines to equal the customary and reasonable costs incurred in preparing an application for a loan under section 1472, 1474, 1484, 1485, or 1490d of this title, or a grant under section 1490m of this title (including preapplication planning, site analysis, market analysis, and other necessary technical assistance). The Secretary shall adjust the loan or grant amount under such sections to take account of project preparation costs that have been paid from grant proceeds under this paragraph and that normallywould be reimbursed with proceeds of the loan or grant.
+&emsp;&emsp;A grant under this paragraph shall not exceed an amount that the Secretary determines to equal the customary and reasonable costs incurred in preparing an application for a loan under section 1472, 1474, 1484, 1485, or 1490d of this title, or a grant under section 1490m of this title (including preapplication planning, site analysis, market analysis, and other necessary technical assistance). The Secretary shall adjust the loan or grant amount under such sections to take account of project preparation costs that have been paid from grant proceeds under this paragraph and that normally would be reimbursed with proceeds of the loan or grant.
 
 #### (C) Approval
 
@@ -102,9 +102,9 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;This paragraph shall apply to any fiscal year following 2 fiscal years in which the State did not obligate the total amount of assistance allocated it under this subchapter during each of such 2 fiscal years.
 
-#### (8) “Colonia” defined
+#### (8) "Colonia" defined
 
-&emsp;For purposes of this subsection, the term “colonia” means any identifiable community that—
+&emsp;For purposes of this subsection, the term "colonia" means any identifiable community that—
 
 &emsp;&emsp;(A) is in the State of Arizona, California, New Mexico, or Texas;
 
@@ -114,7 +114,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;(D) was in existence as a colonia before November 28, 1990.
 
-(July 15, 1949, ch. 338, title V, §509, 63 Stat. 436; Pub. L. 95–128, title V, §504, Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §508, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 98–181, title I \[title V, §506(a)\], Nov. 30, 1983, 97 Stat. 1242; Pub. L. 101–625, title VII, §§708, 709(b), Nov. 28, 1990, 104 Stat. 4287, 4288; Pub. L. 102–550, title VII, §705, Oct. 28, 1992, 106 Stat. 3835; Pub. L. 104–120, §4(a), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(b), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–86, title VII, §735(a), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(a), (e)(2)(B), Oct. 21, 1998, 112 Stat. 2661, 2662.)
+(July 15, 1949, ch. 338, title V, §509, 63 Stat. 436; Pub. L. 95–128, title V, §504, Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §508, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 98–181, title I \[title V, §506(a)\], Nov. 30, 1983, 97 Stat. 1242; Pub. L. 101–625, title VII, §§708, 709(b), Nov. 28, 1990, 104 Stat. 4287, 4288; Pub. L. 102–550, title VII, §705, Oct. 28, 1992, 106 Stat. 3835; Pub. L. 104–120, §4(a), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(b), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–86, titleVII, §735(a), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(a), (e)(2)(B), Oct. 21, 1998, 112 Stat. 2661, 2662.)
 
 #### References in Text
 
@@ -122,23 +122,23 @@ The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (f)(4)(A). Pub. L. 105–276, in first sentence, substituted “each fiscal year” for “fiscal year 1998” and, in second sentence, substituted “During each fiscal year” for “During such fiscal year” and substituted “from amounts available for assistance under paragraphs (2) and (5) of section 1490a(a) of this title, an amount” for “an amount of section 521 rental assistance”.
+<b>1998</b>—Subsec. (f)(4)(A). Pub. L. 105–276, in first sentence, substituted "each fiscal year" for "fiscal year 1998" and, in second sentence, substituted "During each fiscal year" for "During such fiscal year" and substituted "from amounts available for assistance under paragraphs (2) and (5) of section 1490a(a) of this title, an amount" for "an amount of section 521 rental assistance".
 
-<b>1997</b>—Subsec. (f)(4)(A). Pub. L. 105–86 substituted “fiscal year 1998” for “fiscal year 1997”.
+<b>1997</b>—Subsec. (f)(4)(A). Pub. L. 105–86 substituted "fiscal year 1998" for "fiscal year 1997".
 
-<b>1996</b>—Subsec. (f)(4)(A). Pub. L. 104–180 substituted “fiscal year 1997” for “fiscal year 1996”.
+<b>1996</b>—Subsec. (f)(4)(A). Pub. L. 104–180 substituted "fiscal year 1997" for "fiscal year 1996".
 
-Pub. L. 104–120 substituted “fiscal year 1996” for “fiscal years 1993 and 1994” and “During such fiscal year” for “During each such fiscal year”.
+Pub. L. 104–120 substituted "fiscal year 1996" for "fiscal years 1993 and 1994" and "During such fiscal year" for "During each such fiscal year".
 
-<b>1992</b>—Subsec. (f)(1). Pub. L. 102–550, §705(a)(1), substituted “in each fiscal year” for “in each of fiscal years 1991 and 1992” in introductory provisions.
+<b>1992</b>—Subsec. (f)(1). Pub. L. 102–550, §705(a)(1), substituted "in each fiscal year" for "in each of fiscal years 1991 and 1992" in introductory provisions.
 
 Subsec. (f)(2). Pub. L. 102–550, §705(a)(2), inserted concluding provisions.
 
-Subsec. (f)(4)(A). Pub. L. 102–550, §705(a)(3), substituted “an amount equal to 5.0 percent in fiscal years 1993 and 1994” for “an amount equal to 3.5 percent in fiscal year 1991 and 5.0 percent in fiscal year 1992”.
+Subsec. (f)(4)(A). Pub. L. 102–550, §705(a)(3), substituted "an amount equal to 5.0 percent in fiscal years 1993 and 1994" for "an amount equal to 3.5 percent in fiscal year 1991 and 5.0 percent in fiscal year 1992".
 
-Subsec. (f)(4)(B)(ii). Pub. L. 102–550, §705(c), inserted “, or in close proximity to, and serving the residents of,” before “a colonia”.
+Subsec. (f)(4)(B)(ii). Pub. L. 102–550, §705(c), inserted ", or in close proximity to, and serving the residents of," before "a colonia".
 
-Subsec. (f)(8)(C) to (E). Pub. L. 102–550, §705(b), redesignated subpar. (D) as (C), struck out former subpar. (C) which read as follows: “is designated by the State or county in which it is located as a colonia;”, added subpar. (D), and struck out subpar. (E) which read as follows: “was in existence and generally recognized as a colonia before November 28, 1990.”
+Subsec. (f)(8)(C) to (E). Pub. L. 102–550, §705(b), redesignated subpar. (D) as (C), struck out former subpar. (C) which read as follows: "is designated by the State or county in which it is located as a colonia;", added subpar. (D), and struck out subpar. (E) which read as follows: "was in existence and generally recognized as a colonia before November 28, 1990."
 
 <b>1990</b>—Subsecs. (d), (e). Pub. L. 101–625, §708, added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -146,7 +146,7 @@ Subsec. (f). Pub. L. 101–625, §709(b), added subsec. (f).
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–181 inserted provisions relating to standards, designated cls. (1) to (4), the compliance with which will result in approval by the Secretary, and inserted provision relating to the promotion of the use of energy saving techniques.
 
-<b>1979</b>—Subsec. (c). Pub. L. 96–153 substituted “within thirty-six months after October 12, 1977” for “within eighteen months after October 12, 1977”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–153 substituted "within thirty-six months after October 12, 1977" for "within eighteen months after October 12, 1977".
 
 <b>1977</b>—Subsecs. (c), (d). Pub. L. 95–128 added subsecs. (c) and (d).
 
@@ -156,13 +156,13 @@ Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 
 
 #### Regulations
 
-Pub. L. 101–625, title VII, §709(c), Nov. 28, 1990, 104 Stat. 4290, provided that: “Not later than the expiration of the 120-day period beginning on the date of enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\], the Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by this section \[amending this section\].”
+Pub. L. 101–625, title VII, §709(c), Nov. 28, 1990, 104 Stat. 4290, provided that: "Not later than the expiration of the 120-day period beginning on the date of enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\], the Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by this section \[amending this section\]."
 
 #### Housing in Underserved Areas
 
-Pub. L. 101–625, title VII, §709(a), Nov. 28, 1990, 104 Stat. 4288, provided that: “The purpose of this section \[amending this section and enacting provisions set out above\] is to improve the quality of affordable housing in communities that have extremely high concentrations of poverty and substandard housing and that have been underserved by rural housing programs, including extremely distressed areas in the Lower Mississippi Delta and other regions of the Nation, by directing Farmers Home Administration assistance toward designated underserved areas.”
+Pub. L. 101–625, title VII, §709(a), Nov. 28, 1990, 104 Stat. 4288, provided that: "The purpose of this section \[amending this section and enacting provisions set out above\] is to improve the quality of affordable housing in communities that have extremely high concentrations of poverty and substandard housing and that have been underserved by rural housing programs, including extremely distressed areas in the Lower Mississippi Delta and other regions of the Nation, by directing Farmers Home Administration assistance toward designated underserved areas."
 
-#### Exemptions of Existing Dwellings From Living Area Limitations; Authority of District Offices of Farmers’ Home Administration
+#### Exemptions of Existing Dwellings From Living Area Limitations; Authority of District Offices of Farmers' Home Administration
 
-Pub. L. 100–202, §101(k) \[title VI, §632\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–356, provided that: “During fiscal year 1988 and each succeeding fiscal year, the Secretary of Agriculture shall permit each district office of the Farmers Home Administration to exempt any existing dwelling from any limitation established by the Secretary on the number of square feet of living area that may be contained in a dwelling to be eligible for a loan under section 502 of the Housing Act of 1949 \[section 1472 of this title\], if the dwelling is modest in design, size, and cost for the area in which it is located.”
+Pub. L. 100–202, §101(k) \[title VI, §632\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–356, provided that: "During fiscal year 1988 and each succeeding fiscal year, the Secretary of Agriculture shall permit each district office of the Farmers Home Administration to exempt any existing dwelling from any limitation established by the Secretary on the number of square feet of living area that may be contained in a dwelling to be eligible for a loan under section 502 of the Housing Act of 1949 \[section 1472 of this title\], if the dwelling is modest in design, size, and cost for the area in which it is located."
 

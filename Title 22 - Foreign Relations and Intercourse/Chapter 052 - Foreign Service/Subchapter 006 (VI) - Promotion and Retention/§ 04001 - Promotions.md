@@ -46,7 +46,7 @@ Except as provided in section 4006(a) of this title, promotions of—
 
 <b>1999</b>—Subsec. (c)(4), (5). Pub. L. 106–113 added pars. (4) and (5) and struck out former par. (4), which required report not later than Mar. 1 of each year, describing steps taken and planned in furtherance of compatibility and development of uniform procedures and consolidated personnel functions, specifying upper and lower limits planned for recruitment, retention, and advancement of members, and specifying numbers of members assigned to positions more than one grade higher or lower than the member.
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–236, which directed amendment of par. (2) by striking “and” the last place it appears and by inserting “and other members of the Service” after “categories of career candidates,”, was executed by striking “and” after “categories of career members,” and making the insertion in concluding provisions below par. (2), to reflect the probable intent of Congress.
+<b>1994</b>—Subsec. (b). Pub. L. 103–236, which directed amendment of par. (2) by striking "and" the last place it appears and by inserting "and other members of the Service" after "categories of career candidates,", was executed by striking "and" after "categories of career members," and making the insertion in concluding provisions below par. (2), to reflect the probable intent of Congress.
 
 <b>1987</b>—Subsec. (c)(4). Pub. L. 100–204 added par. (4).
 
@@ -56,19 +56,19 @@ Pub. L. 104–66, title II, §2241, Dec. 21, 1995, 109 Stat. 733, which provided
 
 #### Language Training in Foreign Service
 
-Pub. L. 102–138, title I, §155, Oct. 28, 1991, 105 Stat. 675, as amended by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(q), Oct. 21, 1998, 112 Stat. 2681–789, provided that: “The Department of State and the Department of Commerce shall ensure that the precepts for promotion of Foreign Service employees provide that end-of-training reports for employees in full-time language training shall be weighed as heavily as the annual employee efficiency reports, in order to ensure that employees in language training are not disadvantaged in the promotion process.”
+Pub. L. 102–138, title I, §155, Oct. 28, 1991, 105 Stat. 675, as amended by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(q), Oct. 21, 1998, 112 Stat. 2681–789, provided that: "The Department of State and the Department of Commerce shall ensure that the precepts for promotion of Foreign Service employees provide that end-of-training reports for employees in full-time language training shall be weighed as heavily as the annual employee efficiency reports, in order to ensure that employees in language training are not disadvantaged in the promotion process."
 
 #### Foreign Service Promotion Panels
 
-Pub. L. 101–246, title I, §163, Feb. 16, 1990, 104 Stat. 47, as amended by Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: “It is the sense of the Congress that, to the greatest extent possible, Foreign Service promotion panels should—
+Pub. L. 101–246, title I, §163, Feb. 16, 1990, 104 Stat. 47, as amended by Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: "It is the sense of the Congress that, to the greatest extent possible, Foreign Service promotion panels should—
 
-&emsp;“(1) only promote candidates to the Senior Foreign Service who have demonstrated foreign language proficiency in at least one language at the General Professional Speaking Proficiency level, as defined by the George P. Shultz National Foreign Affairs Training Center;
+&emsp;"(1) only promote candidates to the Senior Foreign Service who have demonstrated foreign language proficiency in at least one language at the General Professional Speaking Proficiency level, as defined by the George P. Shultz National Foreign Affairs Training Center;
 
-&emsp;“(2) strive for the objective stipulated in the Foreign Service Manual ‘to be able to use two foreign languages at a minimum professional level of proficiency of S–3/R–3, which is the general professional speaking proficiency level’; and
+&emsp;"(2) strive for the objective stipulated in the Foreign Service Manual 'to be able to use two foreign languages at a minimum professional level of proficiency of S–3/R–3, which is the general professional speaking proficiency level'; and
 
-&emsp;“(3) have at least one person on each Foreign Service promotion panel who has attained at least the General Professional Speaking Proficiency level in one language level.”
+&emsp;"(3) have at least one person on each Foreign Service promotion panel who has attained at least the General Professional Speaking Proficiency level in one language level."
 
 #### Language Proficiency in Employee Evaluation Report
 
-Pub. L. 101–246, title I, §164, Feb. 16, 1990, 104 Stat. 47, required revision of employee and officer evaluation reports for Foreign Service officers of Department of State and Agency for International Development to include separate assessment of employee's effectiveness in using foreign language and required that precedence in promotion be given to officers achieving certain levels of proficiency in foreign language, prior to repeal by Pub. L. 103–236, title I, §191(b), Apr. 30, 1994, 108 Stat.418. See section 191(a) of Pub. L. 103–236, set out as a note under section 3926 of this title.
+Pub. L. 101–246, title I, §164, Feb. 16, 1990, 104 Stat. 47, required revision of employee and officer evaluation reports for Foreign Service officers of Department of State and Agency for International Development to include separate assessment of employee's effectiveness in using foreign language and required that precedence in promotion be given to officers achieving certain levels of proficiency in foreign language, prior to repeal by Pub. L. 103–236, title I, §191(b), Apr. 30, 1994, 108 Stat. 418. See section 191(a) of Pub. L. 103–236, set out as a note under section 3926 of this title.
 

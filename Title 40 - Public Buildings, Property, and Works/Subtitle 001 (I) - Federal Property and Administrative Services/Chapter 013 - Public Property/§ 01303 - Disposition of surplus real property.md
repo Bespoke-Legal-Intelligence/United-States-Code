@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “federal agency” means an executive department, independent establishment, commission, board, bureau, division, or office in the executive branch, or other agency of the Federal Government, including wholly owned Government corporations.
+Definition.—In this section, the term "federal agency" means an executive department, independent establishment, commission, board, bureau, division, or office in the executive branch, or other agency of the Federal Government, including wholly owned Government corporations.
 
 (b)
 
@@ -24,7 +24,7 @@ Review of decision to assign space.—If the federal agency to which space is as
 
 &emsp;(3)
 
-Negotiated sale.—If no bids which are satisfactory as to price and responsibility of the bidder are received as a result of public advertisement, the Administrator may sell the property by negotiation, on terms as may be considered to be to the best interest of the Government, but at a price not less than that bid by the highest responsible bidder.
+Negotiated sale.—If no bids which are satisfactory as to price and responsibility of the bidder are received as a result of public advertisement, the Administrator may sell the property by negotiation, on terms as may beconsidered to be to the best interest of the Government, but at a price not less than that bid by the highest responsible bidder.
 
 (c)
 
@@ -48,7 +48,7 @@ Leased spaces.—To the extent that the appropriations of the Administration not
 
 (f)
 
-Authorization of Appropriations.—Necessary amounts may be appropriated to cover the costs incident to the sale or lease of real property, or authorized demolition of buildings on the property, declared to be surplus to the needs of any federal agency under this section, and the care, maintenance, and protection of the property, including pay of employees, travel of Government employees, brokers’ fees not in excess of rates paid for similar services in the community where the property is situated, appraisals, photographs, surveys, evidence of title and perfecting of defective titles, advertising, and telephone and telegraph charges. However, the agency remains responsible for the proper care, maintenance, and protection of the property until the Administrator assumes custody or other disposition of the property is made.
+Authorization of Appropriations.—Necessary amounts may be appropriated to cover the costs incident to the sale or lease of real property, or authorized demolition of buildings on the property, declared to be surplus to the needs of any federal agency under this section, and the care, maintenance, and protection of the property, including pay of employees, travel of Government employees, brokers' fees not in excess of rates paid for similar services in the community where the property is situated, appraisals, photographs, surveys, evidence of title and perfecting of defective titles, advertising, and telephone and telegraph charges. However, the agency remains responsible for the proper care, maintenance, and protection of the property until the Administrator assumes custody or other disposition of the property is made.
 
 (g)
 
@@ -110,17 +110,17 @@ Aug. 27, 1935, ch. 744, §3, 49 Stat. 886; July 18, 1940, ch. 635, §3, 54 Stat.
 
 Aug. 27, 1935, ch. 744, §4, 49 Stat. 886; July 18, 1940, ch. 635, §3, 54 Stat. 765.
 
-In this chapter, the words “Administrator of General Services” are substituted for “Federal Works Administrator” and “Commissioner of Public Buildings” because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title.
+In this chapter, the words "Administrator of General Services" are substituted for "Federal Works Administrator" and "Commissioner of Public Buildings" because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title.
 
-In subsection (a), the words “wholly owned Government corporations” are substituted for “corporations wholly owned by the United States” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words "wholly owned Government corporations" are substituted for "corporations wholly owned by the United States" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b)(1), before subclause (A), the words “Notwithstanding any other provision of law”, “heretofore or hereafter”, and “by judicial process or otherwise in the collection of debts, purchase, donation, condemnation, devise, forfeiture, lease, or in any other manner” are omitted as unnecessary. In subclause (A), the words “or reassign” are omitted as unnecessary.
+In subsection (b)(1), before subclause (A), the words "Notwithstanding any other provision of law", "heretofore or hereafter", and "by judicial process or otherwise in the collection of debts, purchase, donation, condemnation, devise, forfeiture, lease, or in any other manner" are omitted as unnecessary. In subclause (A), the words "or reassign" are omitted as unnecessary.
 
-In subsection (e), the words “General Services Administration”, “Administrator”, and “Administration” are substituted for “Public Buildings Administration” because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title.
+In subsection (e), the words "General Services Administration", "Administrator", and "Administration" are substituted for "Public Buildings Administration" because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title.
 
-In subsection (f), the words “as hereinafter” are omitted as obsolete. The words “which have been or may hereafter be” and “notwithstanding any declaration that the same is in excess of its needs” are omitted as unnecessary.
+In subsection (f), the words "as hereinafter" are omitted as obsolete. The words "which have been or may hereafter be" and "notwithstanding any declaration that the same is in excess of its needs" are omitted as unnecessary.
 
 #### References in Text
 
-The Historic Sites, Buildings, and Antiquities Act, referred to in subsec. (c), is the popular name for act Aug. 21, 1935, ch. 593, 49 Stat. 666, as amended, also known as the Historic Sites Act of August 21, 1935, which is classified generally to sections 461 to 467 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 16 and Tables.
+The Historic Sites, Buildings, and Antiquities Act, referred to in subsec. (c), is the popular name for act Aug. 21, 1935, ch. 593, 49 Stat. 666, as amended, alsoknown as the Historic Sites Act of August 21, 1935, which is classified generally to sections 461 to 467 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 16 and Tables.
 

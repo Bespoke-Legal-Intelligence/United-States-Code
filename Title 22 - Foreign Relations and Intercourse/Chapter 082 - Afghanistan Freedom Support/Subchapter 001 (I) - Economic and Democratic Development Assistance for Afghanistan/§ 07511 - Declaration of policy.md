@@ -20,103 +20,103 @@ Congress makes the following declarations:
 
 Pub. L. 112–239, div. A, title XII, §1225, Jan. 2, 2013, 126 Stat. 1999, provided that:
 
-“(a)
+"(a)
 
 Consultations Required.—Commencing not later than 30 days after the date of the enactment of this Act \[Jan. 2, 2013\], the President shall consult periodically with the appropriate committees of Congress on the status of the negotiations on a bilateral security agreement between the United States of America and the Islamic Republic of Afghanistan. Such consultations shall include a briefing summarizing the purpose, objectives, and key issues relating to the agreement.
 
-“(b)
+"(b)
 
 Availability of Agreement Text.—Before entering into any bilateral security agreement with Afghanistan, the President shall make available to the appropriate committees of Congress the text of such agreement.
 
-“(c)
+"(c)
 
 Termination of Consultations.—The requirements of this section shall terminate on the date on which the United States and Afghanistan enter into a bilateral security agreement or the President notifies Congress that negotiations on such an agreement have been terminated.
 
-“(d)
+"(d)
 
-Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means—
+Appropriate Committees of Congress Defined.—In this section, the term 'appropriate committees of Congress' means—
 
-&emsp;“(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+&emsp;"(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
 
-&emsp;“(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.”
+&emsp;"(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives."
 
 #### Strategy for the United States Relationship With Afghanistan
 
 Pub. L. 110–53, title XX, §2041, Aug. 3, 2007, 121 Stat. 518, provided that:
 
-“(a)
+"(a)
 
 Congressional Findings.—Congress finds the following:
 
-&emsp;“(1) A democratic, stable, and prosperous Afghanistan is vital to the national security of the United States and to combating international terrorism.
+&emsp;"(1) A democratic, stable, and prosperous Afghanistan is vital to the national security of the United States and to combating international terrorism.
 
-&emsp;“(2) Following the ouster of the Taliban regime in 2001, the Government of Afghanistan, with assistance from the United States and the international community, has achieved some notable successes, including—
+&emsp;"(2) Following the ouster of the Taliban regime in 2001, the Government of Afghanistan, with assistance from the United States and the international community, has achieved some notable successes, including—
 
-&emsp;&emsp;“(A) adopting a constitution;
+&emsp;&emsp;"(A) adopting a constitution;
 
-&emsp;&emsp;“(B) holding presidential, parliamentary, and provincial council elections;
+&emsp;&emsp;"(B) holding presidential, parliamentary, and provincial council elections;
 
-&emsp;&emsp;“(C) improving the protection of human rights, including women's rights; and
+&emsp;&emsp;"(C) improving the protection of human rights, including women's rights; and
 
-&emsp;&emsp;“(D) expanding educational opportunities.
+&emsp;&emsp;"(D) expanding educational opportunities.
 
-&emsp;“(3) The following factors pose a serious and immediate threat to the stability of Afghanistan:
+&emsp;"(3) The following factors pose a serious and immediate threat to the stability of Afghanistan:
 
-&emsp;&emsp;“(A) Taliban and anti-government forces, al Qaeda, and criminal networks.
+&emsp;&emsp;"(A) Taliban and anti-government forces, al Qaeda, and criminal networks.
 
-&emsp;&emsp;“(B) Drug trafficking and corruption.
+&emsp;&emsp;"(B) Drug trafficking and corruption.
 
-&emsp;&emsp;“(C) Weak institutions of administration, security, and justice, including pervasive lack of the rule of law.
+&emsp;&emsp;"(C) Weak institutions of administration, security, and justice, including pervasive lack of the rule of law.
 
-&emsp;&emsp;“(D) Poverty, unemployment, and lack of provision of basic services.
+&emsp;&emsp;"(D) Poverty, unemployment, and lack of provision of basic services.
 
-&emsp;“(4) The United States and the international community must significantly increase political, economic, and military support to Afghanistan to ensure its long-term stability and prosperity, and to deny violent extremist groups such as al Qaeda sanctuary in Afghanistan.
+&emsp;"(4) The United States and the international community must significantly increase political, economic, and military support to Afghanistan to ensure its long-term stability and prosperity, and to deny violent extremist groups such as al Qaeda sanctuary in Afghanistan.
 
-“(b)
+"(b)
 
 Statements of Policy.—The following shall be the policies of the United States:
 
-&emsp;“(1) The United States shall vigorously support the people and Government of Afghanistan as they continue to commit to the path toward a government representing and protecting the rights of all Afghans, and shall maintain its long-term commitment to the people of Afghanistan by increased assistance and the continued deployment of United States troops in Afghanistan as long as the Government of Afghanistan supports such United States involvement.
+&emsp;"(1) The United States shall vigorously support the people and Government of Afghanistan as they continue to commit to the path toward a government representing and protecting the rights of all Afghans, and shall maintain its long-term commitment to the people of Afghanistan by increased assistance and the continued deployment of United States troops in Afghanistan as long as the Government of Afghanistan supports such United States involvement.
 
-&emsp;“(2) In order to reduce the ability of the Taliban and al Qaeda to finance their operations through the opium trade, the President shall engage aggressively with the Government of Afghanistan, countries in the region or otherwise influenced by the trade and transit of narcotics, as well as North Atlantic Treaty Organization (NATO) partners of the United States, and in consultation with Congress, to assess the success of the current Afghan counter-narcotics strategy and to explore additional options for addressing the narcotics crisis in Afghanistan, including possible changes in rules of engagement for NATO and Coalition forces for participation in actions against narcotics trafficking and kingpins, and the provision of comprehensive assistance to farmers who rely on opium for their livelihood, including through the promotion of alternative crops and livelihoods.
+&emsp;"(2) In order to reduce the ability of the Taliban and al Qaeda to finance their operations through the opium trade, the President shall engage aggressively with the Government of Afghanistan, countries in theregion or otherwise influenced by the trade and transit of narcotics, as well as North Atlantic Treaty Organization (NATO) partners of the United States, and in consultation with Congress, to assess the success of the current Afghan counter-narcotics strategy and to explore additional options for addressing the narcotics crisis in Afghanistan, including possible changes in rules of engagement for NATO and Coalition forces for participation in actions against narcotics trafficking and kingpins, and the provision of comprehensive assistance to farmers who rely on opium for their livelihood, including through the promotion of alternative crops and livelihoods.
 
-&emsp;“(3) The United States shall continue to work with and provide assistance to the Government of Afghanistan to strengthen local and national government institutions and the rule of law, including the training of judges and prosecutors, and to train and equip the Afghan National Security Forces.
+&emsp;"(3) The United States shall continue to work with and provide assistance to the Government of Afghanistan to strengthen local and national government institutions and the rule of law, including the training of judges and prosecutors, and to train and equip the Afghan National Security Forces.
 
-&emsp;“(4) The United States shall continue to call on NATO members participating in operations in Afghanistan to meet their commitments to provide forces and equipment, and to lift restrictions on how such forces can be deployed.
+&emsp;"(4) The United States shall continue to call on NATO members participating in operations in Afghanistan to meet their commitments to provide forces and equipment, and to lift restrictions on how such forces can be deployed.
 
-&emsp;“(5) The United States shall continue to foster greater understanding and cooperation between the Governments of Afghanistan and Pakistan by taking the following actions:
+&emsp;"(5) The United States shall continue to foster greater understanding and cooperation between the Governments of Afghanistan and Pakistan by taking the following actions:
 
-&emsp;&emsp;“(A) Facilitating greater communication, including through official mechanisms such as the Tripartite Commission and the Joint Intelligence Operations Center, and by promoting other forms of exchange between the parliaments and civil society of the two countries.
+&emsp;&emsp;"(A) Facilitating greater communication, including through official mechanisms such as the Tripartite Commission and the Joint Intelligence Operations Center, and by promoting other forms of exchange between the parliaments and civil society of the two countries.
 
-&emsp;&emsp;“(B) Urging the Government of Afghanistan to enter into a political dialogue with Pakistan with respect to all issues relating to the border between the two countries, with the aim of establishing a mutually-recognized and monitored border, open to human and economic exchange, and with both countries fully responsible for border security.
+&emsp;&emsp;"(B) Urging the Government of Afghanistan to enter into a political dialogue with Pakistan with respect to all issues relating to the border between the two countries, with the aim of establishing a mutually-recognized and monitored border, open to human and economic exchange, and with both countries fully responsible for border security.
 
-“(c)
+"(c)
 
 Statement of Congress.—Congress strongly urges that the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 et seq.) be reauthorized and updated to take into account new developments in Afghanistan and in the region so as to demonstrate the continued support by the United States for the people and Government of Afghanistan.
 
-“(d)
+"(d)
 
 Emergency Increase in Effective Police Training and Policing Operations.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Congressional finding.—Congress finds that police training programs in Afghanistan have achieved far less return on substantial investment to date and require a substantive review and justification of the means and purposes of such assistance, consequent to any provision of additional resources.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Assistance authorized.—The President shall make increased efforts, on an urgent basis, to—
 
-&emsp;&emsp;“(A) dramatically improve the capability and effectiveness of United States and international police trainers, mentors, and police personnel for police training programs in Afghanistan, as well as develop a pretraining screening program;
+&emsp;&emsp;"(A) dramatically improve the capability and effectiveness of United States and international police trainers, mentors, and police personnel for police training programs in Afghanistan, as well as develop a pretraining screening program;
 
-&emsp;&emsp;“(B) increase the numbers of such trainers, mentors, and personnel only if such increase is determined to improve the performance and capabilities of the Afghanistan civil security forces; and
+&emsp;&emsp;"(B) increase the numbers of such trainers, mentors, and personnel only if such increase is determined to improve the performance and capabilities of the Afghanistan civil security forces; and
 
-&emsp;&emsp;“(C) assist the Government of Afghanistan, in conjunction with the Afghanistan civil security forces and their leadership, in addressing the corruption crisis that is threatening to undermine Afghanistan's future.
+&emsp;&emsp;"(C) assist the Government of Afghanistan, in conjunction with the Afghanistan civil security forces and their leadership, in addressing the corruption crisis that is threatening to undermine Afghanistan's future.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], and every 6 months thereafter until September 30, 2010, the President shall transmit to the appropriate congressional committees a report on United States efforts to fulfill the requirements of this subsection. The report required by this paragraph may be transmitted concurrently with any similar report required by the Afghanistan Freedom Support Act of 2002 \[22 U.S.C. 7501 et seq.\].”
+Report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], and every 6 months thereafter until September 30, 2010, the President shall transmit to the appropriate congressional committees a report on United States efforts to fulfill the requirements of this subsection. The report required by this paragraph may be transmitted concurrently with any similar report required by the Afghanistan Freedom Support Act of 2002 \[22 U.S.C. 7501 et seq.\]."
 
-\[For definition of “appropriate congressional committees” as used in section 2041 of Pub. L. 110–53, setout above, see section 2002 of Pub. L. 110–53, set out as a note under section 2151 of this title.\]
+\[For definition of "appropriate congressional committees" as used in section 2041 of Pub. L. 110–53, set out above, see section 2002 of Pub. L. 110–53, set out as a note under section 2151 of this title.\]
 
 \[For assignment of functions of President under section 2041(d)(3) of Pub. L. 110–53, set out above, see Memorandum of President of the United States, Sept. 28, 2007, 72 F.R. 56871, set out as a note under section 2228 of this title.\]
 
@@ -124,47 +124,47 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 
 Pub. L. 108–458, title VII, §7104(b), Dec. 17, 2004, 118 Stat. 3780, provided that:
 
-“(1)
+"(1)
 
 Findings.—Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
-&emsp;“(A) The United States and its allies in the international community have made progress in promoting economic and political reform within Afghanistan, including the establishment of a central government with a democratic constitution, a new currency, and a new army, the increase of personal freedom, and the elevation of the standard of living of many Afghans.
+&emsp;"(A) The United States and its allies in the international community have made progress in promoting economic and political reform within Afghanistan, including the establishment of a central government with a democratic constitution, a new currency, and a new army, the increase of personal freedom, and the elevation of the standard of living of many Afghans.
 
-&emsp;“(B) A number of significant obstacles must be overcome if Afghanistan is to become a secure and prosperous democracy, and such a transition depends in particular upon—
+&emsp;"(B) A number of significant obstacles must be overcome if Afghanistan is to become a secure and prosperous democracy, and such a transition depends in particular upon—
 
-&emsp;&emsp;“(i) improving security throughout the country;
+&emsp;&emsp;"(i) improving security throughout the country;
 
-&emsp;&emsp;“(ii) disarming and demobilizing militias;
+&emsp;&emsp;"(ii) disarming and demobilizing militias;
 
-&emsp;&emsp;“(iii) curtailing the rule of the warlords;
+&emsp;&emsp;"(iii) curtailing the rule of the warlords;
 
-&emsp;&emsp;“(iv) promoting equitable economic development;
+&emsp;&emsp;"(iv) promoting equitable economic development;
 
-&emsp;&emsp;“(v) protecting the human rights of the people of Afghanistan;
+&emsp;&emsp;"(v) protecting the human rights of the people of Afghanistan;
 
-&emsp;&emsp;“(vi) continuing to hold elections for public officials; and
+&emsp;&emsp;"(vi) continuing to hold elections for public officials; and
 
-&emsp;&emsp;“(vii) ending the cultivation, production, and trafficking of narcotics.
+&emsp;&emsp;"(vii) ending the cultivation, production, and trafficking of narcotics.
 
-&emsp;“(C) The United States and the international community must make a long-term commitment to addressing the unstable security situation in Afghanistan and the burgeoning narcotics trade, endemic poverty, and other serious problems in Afghanistan in order to prevent that country from relapsing into a sanctuary for international terrorism.
+&emsp;"(C) The United States and the international community must make a long-term commitment to addressing the unstable security situation in Afghanistan and the burgeoning narcotics trade, endemic poverty, and other serious problems in Afghanistan in order to prevent that country from relapsing into a sanctuary for international terrorism.
 
-“(2)
+"(2)
 
 Sense of congress.—It is the sense of Congress that the United States Government should take, with respect to Afghanistan, the following actions:
 
-&emsp;“(A) Work with other nations to obtain long-term security, political, and financial commitments and fulfillment of pledges to the Government of Afghanistan to accomplish the objectives of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 et seq.), especially to ensure a secure, democratic, and prosperous Afghanistan that respects the rights of its citizens and is free of international terrorist organizations.
+&emsp;"(A) Work with other nations to obtain long-term security, political, and financial commitments and fulfillment of pledges to the Government of Afghanistan to accomplish the objectives of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 et seq.), especially to ensure a secure, democratic, and prosperous Afghanistan that respects the rights of its citizens and is free of international terrorist organizations.
 
-&emsp;“(B) Use the voice and vote of the United States in relevant international organizations, including the North Atlantic Treaty Organization and the United Nations Security Council, to strengthen international commitments to assist the Government of Afghanistan in enhancing security, building national police and military forces, increasing counter-narcotics efforts, and expanding infrastructure and public services throughout the country.
+&emsp;"(B) Use the voice and vote of the United States in relevant international organizations, including the North Atlantic Treaty Organization and the United Nations Security Council, to strengthen international commitments to assist the Government of Afghanistan in enhancing security, building national police and military forces, increasing counter-narcotics efforts, and expanding infrastructure and public services throughout the country.
 
-&emsp;“(C) Take appropriate steps to increase the assistance provided under programs of the Department of State and the United States Agency for International Development throughout Afghanistan and to increase the number of personnel of those agencies in Afghanistan as necessary to support the increased assistance.”
+&emsp;"(C) Take appropriate steps to increase the assistance provided under programs of the Department of State and the United States Agency for International Development throughout Afghanistan and to increase the number of personnel of those agencies in Afghanistan as necessary to support the increased assistance."
 
 #### Declarations of General Policy
 
-Pub. L. 108–458, title VII, §7104(e)(2), Dec. 17, 2004, 118 Stat. 3782, provided that: “Congress makes the following declarations:
+Pub. L. 108–458, title VII, §7104(e)(2), Dec. 17, 2004, 118 Stat. 3782, provided that: "Congress makes the following declarations:
 
-&emsp;“(A) The United States reaffirms the support that it and other countries expressed for the report entitled ‘Securing Afghanistan's Future’ in their Berlin Declaration of April 2004. The United States should help enable the growth needed to create an economically sustainable Afghanistan capable of the poverty reduction and social development foreseen in the report.
+&emsp;"(A) The United States reaffirms the support that it and other countries expressed for the report entitled 'Securing Afghanistan's Future' in their Berlin Declaration of April 2004. The United States should help enable the growth needed to create an economically sustainable Afghanistan capable of the poverty reduction and social development foreseen in the report.
 
-&emsp;“(B) The United States supports the parliamentary elections to be held in Afghanistan by April 2005 and will help ensure that such elections are not undermined, including by warlords or narcotics traffickers.
+&emsp;"(B) The United States supports the parliamentary elections to be held in Afghanistan by April 2005 and will help ensure that such elections are not undermined, including by warlords or narcotics traffickers.
 
-&emsp;“(C) The United States continues to urge North Atlantic Treaty Organization members and other friendly countries to make much greater military contributions toward securing the peace in Afghanistan.”
+&emsp;"(C) The United States continues to urge North Atlantic Treaty Organization members and other friendly countries to make much greater military contributions toward securing the peace in Afghanistan."
 

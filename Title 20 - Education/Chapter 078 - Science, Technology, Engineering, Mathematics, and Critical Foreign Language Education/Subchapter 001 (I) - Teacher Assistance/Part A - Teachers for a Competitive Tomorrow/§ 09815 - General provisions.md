@@ -18,7 +18,7 @@ From amounts made available for any fiscal year under section 9816 of this title
 
 &emsp;(1) to provide for the conduct of an annual independent evaluation, by grant or by contract, of the activities assisted under this part, which shall include an assessment of the impact of the activities on student academic achievement; and
 
-&emsp;(2) to prepare and submit an annual report on the results of the evaluation described in paragraph (1) to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Education and Labor of the House of Representatives, and the Committees on Appropriations of the Senate and House of Representatives.
+&emsp;(2) to prepare and submit an annual report on the results of the evaluation described inparagraph (1) to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Education and Labor of the House of Representatives, and the Committees on Appropriations of the Senate and House of Representatives.
 
 (Pub. L. 110–69, title VI, §6115, Aug. 9, 2007, 121 Stat. 634.)
 

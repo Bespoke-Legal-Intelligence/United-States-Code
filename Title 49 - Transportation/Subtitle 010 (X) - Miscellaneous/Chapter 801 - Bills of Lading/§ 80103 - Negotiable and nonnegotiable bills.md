@@ -22,7 +22,7 @@ Nonnegotiable Bills.—(1) A bill of lading is nonnegotiable if the bill states 
 
 &emsp;(B) give the transferee any additional right.
 
-(2) A common carrier issuing a nonnegotiable bill of lading must put “nonnegotiable” or “not negotiable” on the bill. This paragraph does not apply to an informal memorandum or acknowledgment.
+(2) A common carrier issuing a nonnegotiable bill of lading must put "nonnegotiable" or "not negotiable" on the bill. This paragraph does not apply to an informal memorandum or acknowledgment.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1346.)
 
@@ -58,9 +58,9 @@ Aug. 29, 1916, ch. 415, §§2, 3, 6, 7, 29 (last sentence), 39 Stat. 539, 543.
 
 49 App.:86.
 
-In subsection (a)(1), the words “A bill of lading is negotiable if . . . states that the goods are to be delivered to the order of a consignee” are substituted for “A bill in which it is stated that the goods are consigned or destined to the order of any person named in such bill is an order bill” for clarity and consistency in the revised title and with other titles of the United States Code. The words “does not contain on its face an agreement with the shipper that the bill is not negotiable” are substituted for 49 App.:83 (last sentence) for clarity and to eliminate unnecessary words.
+In subsection (a)(1), the words "A bill of lading is negotiable if . . . states that the goods are to be delivered to the order of a consignee" are substituted for "A bill in which it is stated that the goods are consigned or destined to the order of any person named in such bill is an order bill" for clarity and consistency in the revised title and with other titles of the United States Code. The words "does not contain on its face an agreement with the shipper that the bill is not negotiable" are substituted for 49 App.:83 (last sentence) for clarity and to eliminate unnecessary words.
 
-In subsection (a)(2)(B), the words “right the named person has” are substituted for “rights or equities of such person” for clarity.
+In subsection (a)(2)(B), the words "right the named person has" are substituted for "rights or equities of such person" for clarity.
 
-In subsection (b)(1), before clause (A), the words “A bill of lading is nonnegotiable if” are substituted for “A bill in which . . . is a straight bill” in 49 App.:82 for consistency in the revised title and with other titles ofthe Code. The words “free from existing equities” in 49 App.:109 (last sentence) are omitted as surplus.
+In subsection (b)(1), before clause (A), the words "A bill of lading is nonnegotiable if" are substituted for "A bill in which . . . is a straight bill" in 49 App.:82 for consistency in the revised title and with other titles of the Code. The words "free from existing equities" in 49 App.:109 (last sentence) are omitted as surplus.
 

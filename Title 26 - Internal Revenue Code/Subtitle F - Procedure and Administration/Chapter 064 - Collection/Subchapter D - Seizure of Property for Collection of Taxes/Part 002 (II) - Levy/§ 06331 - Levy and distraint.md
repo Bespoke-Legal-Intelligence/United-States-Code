@@ -2,11 +2,11 @@
 
 #### (a) Authority of Secretary
 
-If any person liable to pay any tax neglects or refuses to pay the same within 10 days after notice and demand, it shall be lawful for the Secretary to collect such tax (and such further sum as shall be sufficient to cover the expenses of the levy) by levy upon all property and rights toproperty (except such property as is exempt under section 6334) belonging to such person or on which there is a lien provided in this chapter for the payment of such tax. Levy may be made upon the accrued salary or wages of any officer, employee, or elected official, of the United States, the District of Columbia, or any agency or instrumentality of the United States or the District of Columbia, by serving a notice of levy on the employer (as defined in section 3401(d)) of such officer, employee, or elected official. If the Secretary makes a finding that the collection of such tax is in jeopardy, notice and demand for immediate payment of such tax may be made by the Secretary and, upon failure or refusal to pay such tax, collection thereof by levy shall be lawful without regard to the 10-day period provided in this section.
+If any person liable to pay any tax neglects or refuses to pay the same within 10 days after notice and demand, it shall be lawful for the Secretary to collect such tax (and such further sum as shall be sufficient to cover the expenses of the levy) by levy upon all property and rights to property (except such property as is exempt under section 6334) belonging to such person or on which there is a lien provided in this chapter for the payment of such tax. Levy may be made upon the accrued salary or wages of any officer, employee, or elected official, of the United States, the District of Columbia, or any agency or instrumentality of the United States or the District of Columbia, by serving a notice of levy on the employer (as defined in section 3401(d)) of such officer, employee, or elected official. If the Secretary makes a finding that the collection of such tax is in jeopardy, notice and demand for immediate payment of such tax may be made by the Secretary and, upon failure or refusal to pay such tax, collection thereof by levy shall be lawful without regard to the 10-day period provided in this section.
 
 #### (b) Seizure and sale of property
 
-The term “levy” as used in this title includes the power of distraint and seizure by any means. Except as otherwise provided in subsection (e), a levy shall extend only to property possessed and obligations existing at the time thereof. In any case in which the Secretary may levy upon property or rights to property, he may seize and sell such property or rights to property (whether real or personal, tangible or intangible).
+The term "levy" as used in this title includes the power of distraint and seizure by any means. Except as otherwise provided in subsection (e), a levy shall extend only to property possessed and obligations existing at the time thereof. In any case in which the Secretary may levy upon property or rights to property, he may seize and sell such property or rights to property (whether real or personal, tangible or intangible).
 
 #### (c) Successive seizures
 
@@ -76,7 +76,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 #### (2) Specified payment
 
-&emsp;For the purposes of paragraph (1), the term “specified payment” means—
+&emsp;For the purposes of paragraph (1), the term "specified payment" means—
 
 &emsp;&emsp;(A) any Federal payment other than a payment for which eligibility is based on the income or assets (or both) of a payee,
 
@@ -86,7 +86,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 #### (3) Increase in levy for certain payments
 
-&emsp;Paragraph (1) shall be applied by substituting “100 percent” for “15 percent” in the case of any specified payment due to a vendor ofproperty, goods, or services sold or leased to the Federal Government.
+&emsp;Paragraph (1) shall be applied by substituting "100 percent" for "15 percent" in the case of any specified payment due to a vendor of property, goods, or services sold or leased to the Federal Government.
 
 #### (i) No levy during pendency of proceedings for refund of divisible tax
 
@@ -100,7 +100,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 #### (2) Divisible tax
 
-&emsp;For purposes of paragraph (1), the term “divisible tax” means—
+&emsp;For purposes of paragraph (1), the term "divisible tax" means—
 
 &emsp;&emsp;(A) any tax imposed by subtitle C; and
 
@@ -140,7 +140,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 #### (5) Suspension of statute of limitations on collection
 
-&emsp;The period of limitations under section 6502 shall be suspended for the period during which the Secretary is prohibited under this subsection from making a levy.
+&emsp;The period of limitations under section 6502 shall be suspended for the period during whichthe Secretary is prohibited under this subsection from making a levy.
 
 #### (6) Pendency of proceeding
 
@@ -186,7 +186,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 &emsp;&emsp;(C) during the period that such an installment agreement for payment of such unpaid tax is in effect; and
 
-&emsp;&emsp;(D) if such agreement is terminated by the Secretary, during the 30 days thereafter\(and, if an appeal of such termination is filed within such 30 days, during the period that such appeal is pending).
+&emsp;&emsp;(D) if such agreement is terminated by the Secretary, during the 30 days thereafter (and, if an appeal of such termination is filed within such 30 days, during the period that such appeal is pending).
 
 #### (3) Certain rules to apply
 
@@ -216,15 +216,15 @@ The Railroad Unemployment Insurance Act, referred to in subsec. (h)(2)(C), is ac
 
 #### Amendments
 
-<b>2011</b>—Subsec. (h)(3). Pub. L. 112–56 substituted “property, goods, or services” for “goods or services”.
+<b>2011</b>—Subsec. (h)(3). Pub. L. 112–56 substituted "property, goods, or services" for "goods or services".
 
 <b>2004</b>—Subsec. (h)(3). Pub. L. 108–357 added par. (3).
 
-<b>2002</b>—Subsec. (k)(3). Pub. L. 107–147 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Rules similar to the rules of paragraphs (3) and (4) of subsection (i) shall apply for purposes of this subsection.”
+<b>2002</b>—Subsec. (k)(3). Pub. L. 107–147 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Rules similar to the rules of paragraphs (3) and (4) of subsection (i) shall apply for purposes of this subsection."
 
-<b>2000</b>—Subsec. (k)(3). Pub. L. 106–554 substituted “(3) and (4)” for “(3), (4), and (5)”.
+<b>2000</b>—Subsec. (k)(3). Pub. L. 106–554 substituted "(3) and (4)" for "(3), (4), and (5)".
 
-<b>1998</b>—Subsec. (h)(1). Pub. L. 105–206, §6010(f), substituted “If the Secretary approves a levy under this subsection, the effect of such levy” for “The effect of a levy”.
+<b>1998</b>—Subsec. (h)(1). Pub. L. 105–206, §6010(f), substituted "If the Secretary approves a levy under this subsection, the effect of such levy" for "The effect of a levy".
 
 Subsec. (i). Pub. L. 105–206, §3433(a), added subsec. (i). Former subsec. (i) redesignated (j).
 
@@ -240,7 +240,7 @@ Subsec. (l). Pub. L. 105–206, §3462(b), redesignated subsec. (k) as (l).
 
 <b>1997</b>—Subsecs. (h), (i). Pub. L. 105–34 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-<b>1988</b>—Subsec. (d)(2). Pub. L. 100–647, §6236(a)(1), (2), substituted “30-day” for “10-day” in heading and “30 days” for “10 days” in text.
+<b>1988</b>—Subsec. (d)(2). Pub. L. 100–647, §6236(a)(1), (2), substituted "30-day" for "10-day" in heading and "30 days" for "10 days" in text.
 
 Subsec. (d)(4). Pub. L. 100–647, §6236(a)(3), added par. (4).
 
@@ -250,23 +250,23 @@ Subsecs. (f), (g). Pub. L. 100–647, §6236(d), added subsecs. (f) and (g). For
 
 Subsec. (h). Pub. L. 100–647, §6236(b)(2), (d), redesignated subsec. (f) as (h) and added par. (3).
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “subsection (e)” for “subsection (d)(3)”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted "subsection (e)" for "subsection (d)(3)".
 
-<b>1982</b>—Subsec. (d). Pub. L. 97–248 inserted authority to levy upon property other than salary or wages, substituted “person” for “individual” wherever appearing, designated second sentence of former par. (1) as par. (2) and in par. (2)(C) as so designated substituted “certified or registered mail” for “mail”, and redesignated former par. (2) as (3) and former par. (3) as subsec. (e).
+<b>1982</b>—Subsec. (d). Pub. L. 97–248 inserted authority to levy upon property other than salary or wages, substituted "person" for "individual" wherever appearing, designated second sentence of former par. (1) as par. (2) and in par. (2)(C) as so designated substituted "certified or registered mail" for "mail", and redesignated former par. (2) as (3) and former par. (3) as subsec. (e).
 
 Subsec. (e). Pub. L. 97–248 redesignated former subsec. (d)(3) as (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 97–248 redesignated former subsec. (e) as (f).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
-Subsec. (b). Pub. L. 94–455, §§1209(d)(2), 1906(b)(13)(A), substituted in second sentence “Except as otherwise provided in subsection (d)(3), a levy” for “A levy” and struck out “or his delegate” after “Secretary”.
+Subsec. (b). Pub. L. 94–455, §§1209(d)(2), 1906(b)(13)(A), substituted in second sentence "Except as otherwise provided in subsection (d)(3), a levy" for "A levy" and struck out "or his delegate" after "Secretary".
 
-Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (d)(1). Pub. L. 94–455, §§1209(d)(4), 1906(b)(13)(A), struck out provision that no additional notice shall be required in the case of successive levies with respect to such tax and “or his delegate” after “Secretary”.
+Subsec. (d)(1). Pub. L. 94–455, §§1209(d)(4), 1906(b)(13)(A), struck out provision that no additional notice shall be required in the case of successive levies with respect to such tax and "or his delegate" after "Secretary".
 
-Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (d)(3). Pub. L. 94–455, §1209(d)(1), added par. (3).
 
@@ -276,49 +276,49 @@ Subsec. (d)(3). Pub. L. 94–455, §1209(d)(1), added par. (3).
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–56, title III, §301(b), Nov. 21, 2011, 125 Stat. 733, provided that: “The amendment made by this section \[amending this section\] shall apply to levies issued after the date of the enactment of this Act \[Nov. 21, 2011\].”
+Pub. L. 112–56, title III, §301(b), Nov. 21, 2011, 125 Stat. 733, provided that: "The amendment made by this section \[amending this section\] shall apply to levies issued after the date of the enactment of this Act \[Nov. 21, 2011\]."
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §887(b), Oct. 22, 2004, 118 Stat. 1642, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §887(b), Oct. 22, 2004, 118 Stat. 1642, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title IV, §416(e)(2), Mar. 9, 2002, 116 Stat. 55, provided that: “The amendment made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 9, 2002\].”
+Pub. L. 107–147, title IV, §416(e)(2), Mar. 9, 2002, 116 Stat. 55, provided that: "The amendment made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 9, 2002\]."
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3433(b), July 22, 1998, 112 Stat. 760, provided that: “The amendment made by this section \[amending this section\] shall apply to unpaid tax attributable to taxable periods beginning after December 31, 1998.”
+Pub. L. 105–206, title III, §3433(b), July 22, 1998, 112 Stat. 760, provided that: "The amendment made by this section \[amending this section\] shall apply to unpaid tax attributable to taxable periods beginning after December 31, 1998."
 
-Pub. L. 105–206, title III, §3444(b), July 22, 1998, 112 Stat. 762, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3444(b), July 22, 1998, 112 Stat. 762, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
 
 Pub. L. 105–206, title III, §3462(e), July 22, 1998, 112 Stat. 766, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section and sections 6159 and 7122 of this title\] shall apply to proposed offers-in-compromise and installment agreements submitted after the date of the enactment of this Act \[July 22, 1998\].
 
-“(2)
+"(2)
 
-Suspension of collection by levy.—The amendment made by subsection (b) \[amending this section\] shall apply to offers-in-compromise pending on or made after December 31, 1999.”
+Suspension of collection by levy.—The amendment made by subsection (b) \[amending this section\] shall apply to offers-in-compromise pending on or made after December 31, 1999."
 
 Amendment by section 6010(f) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1024(b), Aug. 5, 1997, 111 Stat. 924, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to levies issued after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1024(b), Aug. 5, 1997, 111 Stat. 924, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to levies issued after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1988 Amendment
 
 Pub. L. 100–647, title VI, §6236(h), Nov. 10, 1988, 102 Stat. 3740, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section (other than subsection (g)) \[amending this section and sections 6332, 6334, and 6343 of this title\] shall apply to levies issued on or after July 1, 1989.
 
-“(2)
+"(2)
 
-Subsection (g).—The amendment made by subsection (g) \[amending section 6335 of this title\] shall apply to requests made on or after January 1, 1989.”
+Subsection (g).—The amendment made by subsection (g) \[amending section 6335 of this title\] shall apply to requests made on or after January 1, 1989."
 
 #### Effective Date of 1984 Amendment
 
@@ -326,7 +326,7 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title III, §349(b), Sept. 3, 1982, 96 Stat. 639, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to levies made after December 31, 1982.”
+Pub. L. 97–248, title III, §349(b), Sept. 3, 1982, 96 Stat. 639, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to levies made after December 31, 1982."
 
 #### Effective Date of 1976 Amendment
 
@@ -334,9 +334,9 @@ Amendment by section 1209(d)(1), (2), (4) of Pub. L. 94–455 effective only wit
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 92–178, title II, §211(b), Dec. 10, 1971, 85 Stat. 520, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to levies made after March 31, 1972.”
+Pub. L. 92–178, title II, §211(b), Dec. 10, 1971, 85 Stat. 520, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to levies made after March 31, 1972."
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
+Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) ofPub. L. 89–719, set out as a note under section 6323 of this title.
 

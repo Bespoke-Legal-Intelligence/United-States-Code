@@ -6,5 +6,5 @@ The authority conferred upon the Secretary of the Interior to collect the hot wa
 
 #### Change of Name
 
-“Hot Springs National Park” substituted in text for “Hot Springs Reservation” pursuant to act Mar. 4, 1921.
+"Hot Springs National Park" substituted in text for "Hot Springs Reservation" pursuant to act Mar. 4, 1921.
 

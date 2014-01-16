@@ -14,7 +14,7 @@ This is the last sentence of R.S. 4921, third paragraph, with minor changes in l
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" wherever appearing.
 
 #### Effective Date of 1999 Amendment
 

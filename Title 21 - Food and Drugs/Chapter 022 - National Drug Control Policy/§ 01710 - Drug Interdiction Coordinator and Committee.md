@@ -44,7 +44,7 @@
 
 #### (D) Report to Congress
 
-&emsp;&emsp;On or before March 1 of each year, the United States Interdiction Coordinator shall provide a report on behalf of the Director to the appropriate congressional committees, to the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives, and to the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate, which shall include—
+&emsp;&emsp;On or before March 1 of each year, the United States Interdiction Coordinator shall provide a report on behalf of the Director tothe appropriate congressional committees, to the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives, and to the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate, which shall include—
 
 &emsp;&emsp;&emsp;(i) a copy of that year's National Interdiction Command and Control Plan;
 
@@ -88,5 +88,5 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–469, which directed that section 711 of Office of National Drug Control Policy Reauthorization Act of 1998 (Pub. L. 105–277, div. C, title VII) be amended by “adding at the end” a new section 711, was executed by substituting the new section 711 for this section which was the existing section 711 of the Act, to reflect the probable intent of Congress. Prior to amendment, this section related to drug interdiction.
+<b>2006</b>—Pub. L. 109–469, which directed that section 711 of Office of National Drug Control Policy Reauthorization Act of 1998 (Pub. L. 105–277, div. C, title VII) be amended by "adding at the end" a new section 711, was executed by substituting the new section 711 for this section which was the existing section 711 of the Act, to reflect the probable intent of Congress. Prior to amendment, this section related to drug interdiction.
 

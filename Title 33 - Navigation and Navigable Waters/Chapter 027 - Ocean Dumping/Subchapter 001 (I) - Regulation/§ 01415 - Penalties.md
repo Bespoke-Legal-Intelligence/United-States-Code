@@ -22,7 +22,7 @@ For the purpose of imposing civil penalties and criminal fines under this sectio
 
 #### (d) Injunctive relief
 
-The Attorney General or his delegate may bring actions for equitable relief to enjoin an imminent or continuing violation of this subchapter, of regulations promulgated under this subchapter, or of permits issued under this subchapter, and the district courts of the UnitedStates shall have jurisdiction to grant such relief as the equities of the case may require.
+The Attorney General or his delegate may bring actions for equitable relief to enjoin an imminent or continuing violation of this subchapter, of regulations promulgated under this subchapter, or of permits issued under this subchapter, and the district courts of the United States shall have jurisdiction to grant such relief as the equities of the case may require.
 
 #### (e) Liability of vessels in rem
 
@@ -38,7 +38,7 @@ If the provisions of any permit issued under section 1412 or 1413 of this title 
 
 (2) No action may be commenced—
 
-&emsp;(A) prior to sixty days after notice of the violation has been given to the Administrator or to the Secretary, and to any alleged violator of the prohibition, limitation, criterion, or permit; or
+&emsp;(A) prior to sixty days after notice of the violation has been given to the Administratoror to the Secretary, and to any alleged violator of the prohibition, limitation, criterion, or permit; or
 
 &emsp;(B) if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with the prohibition, limitation, criterion, or permit; or
 
@@ -78,13 +78,13 @@ Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–580, §508(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) In addition to any action which may be brought under subsection (a) of this section, a person who knowingly violates this subchapter, regulations promulgated under this subchapter, or a permit issued under this subchapter shall be fined not more than $50,000, or imprisoned for not more than one year, or both.
+"(1) In addition to any action which may be brought under subsection (a) of this section, a person who knowingly violates this subchapter, regulations promulgated under this subchapter, or a permit issued under this subchapter shall be fined not more than $50,000, or imprisoned for not more than one year, or both.
 
-“(2) In addition to any action which may be brought under subsection (a) of this section, any person—
+"(2) In addition to any action which may be brought under subsection (a) of this section, any person—
 
-&emsp;“(A) who knowingly violates any provision of this subchapter by engaging in activity involving the dumping into ocean waters of medical waste shall upon conviction be fined not more than $250,000, or imprisoned for not more than 5 years, or both; and
+&emsp;"(A) who knowingly violates any provision of this subchapter by engaging in activity involving the dumping into ocean waters of medical waste shall upon conviction be fined not more than $250,000, or imprisoned for not more than 5 years, or both; and
 
-&emsp;“(B) convicted of a violation involving such activity shall forfeit to the United States any property constituting or derived from any proceeds the person obtained, directly or indirectly, as a result of such violation, and any of the property of the person which was used, or intended to be used in any manner or part, to commit or to facilitate the commission of the violation.”
+&emsp;"(B) convicted of a violation involving such activity shall forfeit to the United States any property constituting or derived from any proceeds the person obtained, directly or indirectly, as a result of such violation, and any of the property of the person which was used, or intended to be used in any manner or part, to commit or to facilitate the commission of the violation."
 
 Subsec. (i). Pub. L. 102–508, §508(b), added subsec. (i).
 

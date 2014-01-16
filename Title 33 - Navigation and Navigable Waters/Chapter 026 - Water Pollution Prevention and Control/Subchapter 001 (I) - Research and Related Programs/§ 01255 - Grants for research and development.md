@@ -66,7 +66,7 @@ The Administrator is authorized to make a grant to any grantee who received an i
 
 <b>1977</b>—Subsecs. (i), (j). Pub. L. 95–217 added subsecs. (i) and (j).
 
-<b>1975</b>—Subsec. (h). Pub. L. 93–592 substituted “the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975,” for “and the fiscal year ending June 30, 1974,”.
+<b>1975</b>—Subsec. (h). Pub. L. 93–592 substituted "the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975," for "and the fiscal year ending June 30, 1974,".
 
 #### Transfer of Functions
 

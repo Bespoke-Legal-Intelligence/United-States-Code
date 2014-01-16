@@ -30,11 +30,11 @@
 
 In this section:
 
-&emsp;(1) The term “nonproliferation research laboratory” means, with respect to a country, a national laboratory of that country at which research in the nuclear nonproliferation sciences is carried out.
+&emsp;(1) The term "nonproliferation research laboratory" means, with respect to a country, a national laboratory of that country at which research in the nuclear nonproliferation sciences is carried out.
 
-&emsp;(2) The term “nuclear nonproliferation sciences” means bodies of scientific knowledge relevant to developing or advancing the means to prevent or impede the proliferation of nuclear weaponry.
+&emsp;(2) The term "nuclear nonproliferation sciences" means bodies of scientific knowledge relevant to developing or advancing the means to prevent or impede the proliferation of nuclear weaponry.
 
-&emsp;(3) The term “scientist” means an individual who has a degree from an institution of higher education in a science that has practical application in the nuclear nonproliferation sciences.
+&emsp;(3) The term "scientist" means an individual who has a degree from an institution of higher education in a science that has practical application in the nuclear nonproliferation sciences.
 
 #### (c) Funding
 
@@ -45,4 +45,110 @@ Amounts available to the Department of Energy for defense nuclear nonproliferati
 #### Codification
 
 Section was enacted as part of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, and not as part of the Atomic Energy Defense Act which comprises this chapter.
+
+#### Program on Scientific Engagement for Nonproliferation
+
+Pub. L. 112–239, div. C, title XXXI, §3122, Jan. 2, 2013, 126 Stat. 2176, as amended by Pub. L. 113–66, div. C, title XXXI, §3125, Dec. 26, 2013, 127 Stat. 1063, provided that:
+
+"(a)
+
+Program Required.—
+
+&emsp;"(1)
+
+Scientific engagement.—The Secretary of Energy, acting through the Administrator for Nuclear Security, shall carry out a program on scientific engagement in countries selected by the Secretary for purposes of the program to advance global nonproliferation and nuclear security efforts.
+
+&emsp;"(2)
+
+Elements.—The program under paragraph (1) shall include the following elements:
+
+&emsp;&emsp;"(A) Training and capacity-building to strengthen nonproliferation and security best practices.
+
+&emsp;&emsp;"(B) Engagement of scientists of the United States with foreign counterparts to advance nonproliferation goals.
+
+&emsp;"(3)
+
+Distinct program.—The program required by this subsection shall be a distinct program from the Global Initiatives for Proliferation Prevention program.
+
+"(b)
+
+Limitation.—
+
+&emsp;"(1)
+
+Report on commencement of program.—Of the funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2013 or any fiscal year thereafter for the National Nuclear Security Administration, not more than 50 percent may be obligated or expended under the program under subsection (a) until the date on which the Administrator submits to the appropriate congressional committees, and to the Comptroller General of the United States, a report setting forth the following:
+
+&emsp;&emsp;"(A) For each country selected for the program as of the date of such report—
+
+&emsp;&emsp;&emsp;"(i) a proliferation threat assessment prepared by the Director of National Intelligence; and
+
+&emsp;&emsp;&emsp;"(ii) metrics for evaluating the effectiveness of the program.
+
+&emsp;&emsp;"(B) Accounting standards for the conduct of the program approved by the Comptroller General of the United States.
+
+&emsp;"(2)
+
+Form.—The report under paragraph (1) may be submitted in unclassified form and may include a classified annex.
+
+"(c)
+
+Reports on Modification of Program.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 days before making any modification in the program under subsection (a) (including selecting a new country for the program, ceasing the selection of a country for the program, or modifying an element of the program), the Administrator shall submit to the appropriate congressional committees a report on the modification.
+
+&emsp;"(2)
+
+New country.—If the modification covered by a report under paragraph (1) consists of the selection for the program of a country not previously selected for the program, the report shall include, for each such country, the matters described in subsection (b)(1)(A).
+
+&emsp;"(3)
+
+Waiver.—The Administrator may waive the requirement under paragraph (1) to submit a report on a modification in the program under subsection (a) not later than 30 days before making the modification if the Administrator—
+
+&emsp;&emsp;"(A) determines that the modification is urgent and necessary to the national security interests of the United States; and
+
+&emsp;&emsp;"(B) not later than 30 days after making the modification, submits to the appropriate congressional committees—
+
+&emsp;&emsp;&emsp;"(i) the report on the modification required by paragraph (1); and
+
+&emsp;&emsp;&emsp;"(ii) a justification for exercising the waiver authority under this paragraph.
+
+&emsp;"(4)
+
+Form.—Each report submitted under paragraph (1) or (3)(B) may be submitted in unclassified form and may include a classified annex.
+
+"(d)
+
+Report on Coordination With Other U.S. Nonproliferation Programs.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Administrator shall submit to the appropriate congressional committees a report describing the manner in which the program under subsection (a) coordinates with and complements, but does not duplicate, other nonproliferation programs of the Federal Government.
+
+"(e)
+
+Comptroller General Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 18 months after the date of the submittal of the report described in subsection (b)(1), the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the program under subsection (a).
+
+&emsp;"(2)
+
+Matters included.—The report under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) An assessment by the Comptroller General of the effectiveness of the program, as determined in accordance with the metrics described in subsection (b)(1)(A)(ii).
+
+&emsp;&emsp;"(B) An assessment of how the program coordinates with, complements, or duplicates other nonproliferation programs of the Federal Government.
+
+&emsp;&emsp;"(C) Such other matters on the program as the Comptroller General considers appropriate.
+
+"(f)
+
+Termination.—The authority to carry out the program under subsection (a) shall expire on September 30, 2016.
+
+"(g)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means the following:
+
+&emsp;"(1) The congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
+
+&emsp;"(2) The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate."
 

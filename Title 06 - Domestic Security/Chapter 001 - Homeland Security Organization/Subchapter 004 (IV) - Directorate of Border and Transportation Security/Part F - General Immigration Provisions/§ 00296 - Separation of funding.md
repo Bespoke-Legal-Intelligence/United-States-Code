@@ -14,7 +14,7 @@ Fees imposed for a particular service, application, or benefit shall be deposite
 
 #### (d) Fees not transferable
 
-No fee may be transferred between the Bureau of Citizenship and Immigration Services and theBureau of Border Security for purposes not authorized by section 1356 of title 8.
+No fee may be transferred between the Bureau of Citizenship and Immigration Services and the Bureau of Border Security for purposes not authorized by section 1356 of title 8.
 
 (Pub. L. 107–296, title IV, §476, Nov. 25, 2002, 116 Stat. 2209.)
 

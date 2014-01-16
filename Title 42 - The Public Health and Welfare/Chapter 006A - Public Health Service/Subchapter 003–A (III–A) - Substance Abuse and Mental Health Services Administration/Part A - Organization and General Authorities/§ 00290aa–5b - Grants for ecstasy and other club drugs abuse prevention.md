@@ -4,7 +4,7 @@
 
 The Administrator may make grants to, and enter into contracts and cooperative agreements with, public and nonprofit private entities to enable such entities—
 
-&emsp;(1) to carry out school-based programs concerning the dangers of the abuse of and addiction to 3,4-methylenedioxy methamphetamine, related drugs, and other drugs commonly referred to as “club drugs” using methods that are effective and science-based, including initiatives that give students the responsibility to create their own anti-drug abuse education programs for their schools; and
+&emsp;(1) to carry out school-based programs concerning the dangers of the abuse of and addiction to 3,4-methylenedioxy methamphetamine, related drugs, and other drugs commonly referred to as "club drugs" using methods that are effective and science-based, including initiatives that give students the responsibility to create their own anti-drug abuse education programs for their schools; and
 
 &emsp;(2) to carry out community-based abuse and addiction prevention programs relating to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs that are effective and science-based.
 
@@ -28,7 +28,7 @@ Amounts made available under a grant, contract or cooperative agreement under su
 
 &emsp;&emsp;(E) for planning, administration, and educational activities related to the prevention of abuse of and addiction to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs;
 
-&emsp;&emsp;(F) for the monitoring and evaluation of prevention activities relating to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs and reportingand disseminating resulting information to the public; and
+&emsp;&emsp;(F) for the monitoring and evaluation of prevention activities relating to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs and reporting and disseminating resulting information to the public; and
 
 &emsp;&emsp;(G) for targeted pilot programs with evaluation components to encourage innovation and experimentation with new methodologies.
 
@@ -62,33 +62,33 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 #### Findings
 
-Pub. L. 106–310, div. B, title XXXVI, §3662, Oct. 17, 2000, 114 Stat. 1241, provided that: “Congress makes the following findings:
+Pub. L. 106–310, div. B, title XXXVI, §3662, Oct. 17, 2000, 114 Stat. 1241, provided that: "Congress makes the following findings:
 
-&emsp;“(1) The illegal importation of 3,4-methylenedioxy methamphetamine, commonly referred to as ‘MDMA’ or ‘Ecstasy’ (referred to in this subtitle \[subtitle C (§§3661–3665) of title XXXVI of div. B of Pub. L. 106–310, see section 3661 of Pub. L. 106–310, set out as a Short Title of 2000 Amendment note under section 201 of this title\] as ‘Ecstasy’), has increased in recent years, as evidenced by the fact that Ecstasy seizures by the United States Customs Service have increased from less than 500,000 tablets during fiscal year 1997 to more than 9,000,000 tablets during the first 9 months of fiscal year 2000.
+&emsp;"(1) The illegal importation of 3,4-methylenedioxy methamphetamine, commonly referred to as 'MDMA' or 'Ecstasy' (referred to in this subtitle \[subtitle C (§§3661–3665) of title XXXVI of div. B of Pub. L. 106–310, see section 3661 of Pub. L. 106–310, set out as a Short Title of 2000 Amendment note under section 201 of this title\] as 'Ecstasy'), has increased in recent years, as evidenced by the fact that Ecstasy seizures by the United States Customs Service have increased from less than 500,000 tablets during fiscal year 1997 to more than 9,000,000 tablets during the first 9 months of fiscal year 2000.
 
-&emsp;“(2) Use of Ecstasy can cause long-lasting, and perhaps permanent, damage to the serotonin system of the brain, which is fundamental to the integration of information and emotion, and this damage can cause long-term problems with learning and memory.
+&emsp;"(2) Use of Ecstasy can cause long-lasting, and perhaps permanent, damage to the serotonin system of the brain, which is fundamental to the integration of information and emotion, and this damage can cause long-term problems with learning and memory.
 
-&emsp;“(3) Due to the popularity and marketability of Ecstasy, there are numerous Internet websites with information on the effects of Ecstasy, the production of Ecstasy, and the locations of Ecstasy use (often referred to as ‘raves’). The availability of this information targets the primary users of Ecstasy, who are most often college students, young professionals, and other young people from middle- to high-income families.
+&emsp;"(3) Due to the popularity and marketability of Ecstasy, there are numerous Internet websites with information on the effects of Ecstasy, the production of Ecstasy, and the locations of Ecstasy use (often referred to as 'raves'). The availability of this information targets the primary users of Ecstasy, who are most often college students, young professionals, and other young people from middle- to high-income families.
 
-&emsp;“(4) Greater emphasis needs to be placed on—
+&emsp;"(4) Greater emphasis needs to be placed on—
 
-&emsp;&emsp;“(A) penalties associated with the manufacture, distribution, and use of Ecstasy;
+&emsp;&emsp;"(A) penalties associated with the manufacture, distribution, and use of Ecstasy;
 
-&emsp;&emsp;“(B) the education of young people on the negative health effects of Ecstasy, since the reputation of Ecstasy as a ‘safe’ drug is the most dangerous component of Ecstasy;
+&emsp;&emsp;"(B) the education of young people on the negative health effects of Ecstasy, since the reputation of Ecstasy as a 'safe' drug is the most dangerous component of Ecstasy;
 
-&emsp;&emsp;“(C) the education of State and local law enforcement agencies regarding the growing problem of Ecstasy trafficking across the United States;
+&emsp;&emsp;"(C) the education of State and local law enforcement agencies regarding the growing problem of Ecstasy trafficking across the United States;
 
-&emsp;&emsp;“(D) reducing the number of deaths caused by Ecstasy use and the combined use of Ecstasy with other ‘club’ drugs and alcohol; and
+&emsp;&emsp;"(D) reducing the number of deaths caused by Ecstasy use and the combined use of Ecstasy with other 'club' drugs and alcohol; and
 
-&emsp;&emsp;“(E) adequate funding for research by the National Institute on Drug Abuse to—
+&emsp;&emsp;"(E) adequate funding for research by the National Institute on Drug Abuse to—
 
-&emsp;&emsp;&emsp;“(i) identify those most vulnerable to using Ecstasy and develop science-based prevention approaches tailored to the specific needs of individuals at high risk;
+&emsp;&emsp;&emsp;"(i) identify those most vulnerable to using Ecstasy and develop science-based prevention approaches tailored to the specific needs of individuals at high risk;
 
-&emsp;&emsp;&emsp;“(ii) understand how Ecstasy produces its toxic effects and how to reverse neurotoxic damage;
+&emsp;&emsp;&emsp;"(ii) understand how Ecstasy produces its toxic effects and how to reverse neurotoxic damage;
 
-&emsp;&emsp;&emsp;“(iii) develop treatments, including new medications and behavioral treatment approaches;
+&emsp;&emsp;&emsp;"(iii) develop treatments, including new medications and behavioral treatment approaches;
 
-&emsp;&emsp;&emsp;“(iv) better understand the effects that Ecstasy has on the developing children and adolescents; and
+&emsp;&emsp;&emsp;"(iv) better understand the effects that Ecstasy has on the developing children and adolescents; and
 
-&emsp;&emsp;&emsp;“(v) translate research findings into useful tools and ensure their effective dissemination.”
+&emsp;&emsp;&emsp;"(v) translate research findings into useful tools and ensure their effective dissemination."
 

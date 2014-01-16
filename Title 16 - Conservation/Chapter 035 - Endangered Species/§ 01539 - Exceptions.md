@@ -38,7 +38,7 @@
 
 (1) If any person enters into a contract with respect to a species of fish or wildlife or plant before the date of the publication in the Federal Register of notice of consideration of that species as an endangered species and the subsequent listing of that species as an endangered species pursuant to section 1533 of this title will cause undue economic hardship to such person under the contract, the Secretary, in order to minimize such hardship, may exempt such person from the application of section 1538(a) of this title to the extent the Secretary deems appropriate if such person applies to him for such exemption and includes with such application such information as the Secretary may require to prove such hardship; except that (A) no such exemption shall be for a duration of more than one year from the date of publication in the Federal Register of notice of consideration of the species concerned, or shall apply to a quantity of fish or wildlife or plants in excess of that specified by the Secretary; (B) the one-year period for those species of fish or wildlife listed by the Secretary as endangered prior to December 28, 1973, shall expire in accordance with the terms of section 668cc–3 <sup>1</sup> of this title; and (C) no such exemption may be granted for the importation or exportation of a specimen listed in Appendix I of the Convention which is to be used in a commercial activity.
 
-(2) As used in this subsection, the term “undue economic hardship” shall include, but not be limited to:
+(2) As used in this subsection, the term "undue economic hardship" shall include, but not be limited to:
 
 &emsp;(A) substantial economic loss resulting from inability caused by this chapter to perform contracts with respect to species of fish and wildlife entered into prior to the date of publication in the Federal Register of a notice of consideration of such species as an endangered species;
 
@@ -50,7 +50,7 @@
 
 #### (c) Notice and review
 
-The Secretary shall publish notice in the Federal Register of each application for an exemption or permit which is made under this section. Each notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data, views, or arguments with respect to the application; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretaryin the Federal Register within ten days following the issuance of the exemption or permit. Information received by the Secretary as a part of any application shall be available to the public as a matter of public record at every stage of the proceeding.
+The Secretary shall publish notice in the Federal Register of each application for an exemption or permit which is made under this section. Each notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data, views, or arguments with respect to the application; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit. Information received by the Secretary as a part of any application shall be available to the public as a matter of public record at every stage of the proceeding.
 
 #### (d) Permit and exemption policy
 
@@ -70,9 +70,9 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 (3) As used in this subsection—
 
-&emsp;(i) The term “subsistence” includes selling any edible portion of fish or wildlife in native villages and towns in Alaska for native consumption within native villages or towns; and
+&emsp;(i) The term "subsistence" includes selling any edible portion of fish or wildlife in native villages and towns in Alaska for native consumption within native villages or towns; and
 
-&emsp;(ii) The term “authentic native articles of handicrafts and clothing” means items composed wholly or in some significant respect of natural materials, and which are produced, decorated, or fashioned in the exercise of traditional native handicrafts without the use of pantographs, multiple carvers, or other mass copying devices. Traditional native handicrafts include, but are not limited to, weaving, carving, stitching, sewing, lacing, beading, drawing, and painting.
+&emsp;(ii) The term "authentic native articles of handicrafts and clothing" means items composed wholly or in some significant respect of natural materials, and which are produced, decorated, or fashioned in the exercise of traditional native handicrafts without the use of pantographs, multiple carvers, or other mass copying devices. Traditional native handicrafts include, but are not limited to, weaving, carving, stitching, sewing, lacing, beading, drawing, and painting.
 
 (4) Notwithstanding the provisions of paragraph (1) of this subsection, whenever the Secretary determines that any species of fish or wildlife which is subject to taking under the provisions of this subsection is an endangered species or threatened species, and that such taking materially and negatively affects the threatened or endangered species, he may prescribe regulations upon the taking of such species by any such Indian, Aleut, Eskimo, or non-Native Alaskan resident of an Alaskan native village. Such regulations may be established with reference to species, geographical description of the area included, the season for taking, or any other factors related to the reason for establishing such regulations and consistent with the policy of this chapter. Such regulations shall be prescribed after a notice and hearings in the affected judicial districts of Alaska and as otherwise required by section 1373 of this title, and shall be removed as soon as the Secretary determines that the need for their impositions has disappeared.
 
@@ -80,13 +80,13 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 (1) As used in this subsection—
 
-&emsp;(A) The term “pre-Act endangered species part” means—
+&emsp;(A) The term "pre-Act endangered species part" means—
 
 &emsp;&emsp;(i) any sperm whale oil, including derivatives thereof, which was lawfully held within the United States on December 28, 1973, in the course of a commercial activity; or
 
 &emsp;&emsp;(ii) any finished scrimshaw product, if such product or the raw material for such product was lawfully held within the United States on December 28, 1973, in the course of a commercial activity.
 
-&emsp;(B) The term “scrimshaw product” means any art form which involves the substantial etching or engraving of designs upon, or the substantial carving of figures, patterns, or designs from, any bone or tooth of any marine mammal of the order Cetacea. For purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
+&emsp;(B) The term "scrimshaw product" means any art form which involves the substantial etching or engraving of designs upon, or the substantial carving of figures, patterns, or designs from, any bone or tooth of any marine mammal of the order Cetacea. For purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
 
 (2) The Secretary, pursuant to the provisions of this subsection, may exempt, if such exemption is not in violation of the Convention, any pre-Act endangered species part from one or more of the following prohibitions:
 
@@ -164,7 +164,7 @@ In connection with any action alleging a violation of section 1538 of this title
 
 &emsp;(A) was not repaired or modified after the date of importation with any part of any endangered species or threatened species listed under section 1533 of this title;
 
-&emsp;(B) was forfeited to the United States before November 10, 1978, or is subject to forfeiture tothe United States on such date of enactment, pursuant to the assessment of a civil penalty under section 1540 of this title; and
+&emsp;(B) was forfeited to the United States before November 10, 1978, or is subject to forfeiture to the United States on such date of enactment, pursuant to the assessment of a civil penalty under section 1540 of this title; and
 
 &emsp;(C) is in the custody of the United States on November 10, 1978;
 
@@ -188,7 +188,7 @@ Any importation into the United States of fish or wildlife shall, if—
 
 #### (j) Experimental populations
 
-(1) For purposes of this subsection, the term “experimental population” means any population (including any offspring arising solely therefrom) authorized by the Secretary for release under paragraph (2), but only when, and at such times as, the population is wholly separate geographically from nonexperimental populations of the same species.
+(1) For purposes of this subsection, the term "experimental population" means any population (including any offspring arising solely therefrom) authorized by the Secretary for release under paragraph (2), but only when, and at such times as, the population is wholly separate geographically from nonexperimental populations of the same species.
 
 (2)(A) The Secretary may authorize the release (and the related transportation) of any population (including eggs, propagules, or individuals) of an endangered species or a threatened species outside the current range of such species if the Secretary determines that such release will further the conservation of such species.
 
@@ -206,23 +206,25 @@ Any importation into the United States of fish or wildlife shall, if—
 
 #### References in Text
 
+This chapter, referred to in text, was in the original "this Act", except for "the Act" in subsec. (f)(6)(B), meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+
 Section 668cc–3 of this title, referred to in subsec. (b), was repealed by Pub. L. 93–205, §14, Dec. 28, 1973, 87 Stat. 903.
 
 Subsec. (f) of section 1533 of this title, referred to in subsec. (f)(5), which related to promulgation of regulations by the Secretary was struck out, and subsec. (g) of section 1533 of this title, was redesignated as subsec. (f), by Pub. L. 97–304, §2(a)(4)(B), (C), Oct. 13, 1982, 96 Stat. 1415. For provisions relating to promulgation of regulations, see subsecs. (b) and (h) of section 1533 of this title.
 
 Effective date of this subsection, referred to in subsec. (f)(6)(A), probably means the date of enactment of subsec. (f) by section 2 of Pub. L. 94–359, July 12, 1976.
 
-October 7, 1988, referred to in subsec. (f)(8)(A), was in the original “the date of enactment of the Endangered Species Act Amendments of 1988” and “the date of such enactment” which were translated as meaning the date of enactment of title I of Pub. L. 100–478 which is entitled “Endangered Species Act Amendments of 1988” and which was approved Oct. 7, 1988.
+October 7, 1988, referred to in subsec. (f)(8)(A), was in the original "the date of enactment of the Endangered Species Act Amendments of 1988" and "the date of such enactment" which were translated as meaning the date of enactment of title I of Pub. L. 100–478 which is entitled "Endangered Species Act Amendments of 1988" and which was approved Oct. 7, 1988.
 
 #### Amendments
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–478, §1013(b), substituted “notice, of” for “notice,” in second sentence.
+<b>1988</b>—Subsec. (c). Pub. L. 100–478, §1013(b), substituted "notice, of" for "notice," in second sentence.
 
-Subsec. (e)(3)(ii). Pub. L. 100–478, §1013(c), substituted “lacing,” for “lacking,”.
+Subsec. (e)(3)(ii). Pub. L. 100–478, §1013(c), substituted "lacing," for "lacking,".
 
-Subsec. (f)(8)(A). Pub. L. 100–478, §1011(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Any person to whom a certificate of exemption has been issued under paragraph (4) of this subsection may apply to the Secretary for a renewal of such exemption for a period not to exceed three years beginning on the expiration date of such certificate. Such application shall be made in the same manner as the application for exemption was made under paragraph (3), but without regard to subparagraph (A) of such paragraph.”
+Subsec. (f)(8)(A). Pub. L. 100–478, §1011(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Any person to whom a certificate of exemption has been issued under paragraph (4) of this subsection may apply to the Secretary for a renewal of such exemption for a period not to exceed three years beginning on the expiration date of such certificate. Such application shall be made in the same manner as the application for exemption was made under paragraph (3), but without regard to subparagraph (A) of such paragraph."
 
-Subsec. (f)(8)(B). Pub. L. 100–478, §1011(b), substituted “previous” for “original”.
+Subsec. (f)(8)(B). Pub. L. 100–478, §1011(b), substituted "previous" for "original".
 
 Subsec. (f)(8)(D). Pub. L. 100–478, §1011(c), added subpar. (D).
 
@@ -230,31 +232,31 @@ Subsec. (f)(9). Pub. L. 100–478, §1011(d), struck out par. (9) which provided
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–304, §6(1), designated as par. (1) and the beginning phrase of subpar. (A) thereof the existing provisions consisting of language authorizing the Secretary to permit, under such terms and conditions as he may prescribe, any act otherwise prohibited by section 1538 of this title for scientific purposes or to enhance the propagation or survival of the affected species, and inserted remainder of par. (1)(A) and pars. (1)(B) and (2).
 
-Subsec. (d). Pub. L. 97–304, §6(2), substituted “subsections (a)(1)(A) and (b) of this section” for “subsections (a) and (b) of this section”.
+Subsec. (d). Pub. L. 97–304, §6(2), substituted "subsections (a)(1)(A) and (b) of this section" for "subsections (a) and (b) of this section".
 
-Subsec. (f)(1)(B). Pub. L. 97–304, §6(3)(A), substituted “involves the substantial etching or engraving of designs upon, or the substantial carving of figures” for “involves the etching or engraving of designs upon, or the carving of figures” and inserted provision that, for purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
+Subsec. (f)(1)(B). Pub. L. 97–304, §6(3)(A), substituted "involves the substantial etching or engraving of designs upon, or the substantial carving of figures" for "involves the etching or engraving of designs upon, or the carving of figures" and inserted provision that, for purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
 
 Subsec. (f)(9). Pub. L. 97–304, §6(3)(B), added par. (9).
 
-Subsec. (h)(1). Pub. L. 97–304, §6(4)(A), struck out “(other than scrimshaw)” after “do not apply to any article” in provisions preceding subpar. (A) and in subpar. (A) substituted “is not less than 100 years of age” for “was made before 1830”.
+Subsec. (h)(1). Pub. L. 97–304, §6(4)(A), struck out "(other than scrimshaw)" after "do not apply to any article" in provisions preceding subpar. (A) and in subpar. (A) substituted "is not less than 100 years of age" for "was made before 1830".
 
 Subsec. (i). Pub. L. 97–304, §6(5), substituted provisions covering noncommercial transshipments of fish or wildlife for provisions that had related to exemptions from the provisions of this title of the Tellico Dam and Reservoir Project and the Grayrocks Dam and Reservoir Project and to the operation of the Missouri Basin Power Project.
 
 Subsec. (j). Pub. L. 97–304, §6(6), added subsec. (j).
 
-<b>1979</b>—Subsec. (f)(4)(C). Pub. L. 96–159, §7(1), inserted “unless such exemption is renewed under paragraph (8)” after “issuance of the certificate”.
+<b>1979</b>—Subsec. (f)(4)(C). Pub. L. 96–159, §7(1), inserted "unless such exemption is renewed under paragraph (8)" after "issuance of the certificate".
 
 Subsec. (f)(8). Pub. L. 96–159, §7(2), added par. (8).
 
 <b>1978</b>—Subsecs. (h), (i). Pub. L. 95–632 added subsecs. (h) and (i).
 
-<b>1976</b>—Subsec. (c). Pub. L. 94–359, §3, substituted “section” for “subsection” and inserted “; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit.” after “every stage of the proceeding”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–359, §3, substituted "section" for "subsection" and inserted "; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit." after "every stage of the proceeding".
 
 Subsecs. (f), (g). Pub. L. 94–359, §2, added subsecs. (f) and (g).
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–304, §6(4)(B), Oct. 13, 1982, 96 Stat. 1424, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect January 1, 1981.”
+Pub. L. 97–304, §6(4)(B), Oct. 13, 1982, 96 Stat. 1424, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect January 1, 1981."
 
 #### Transfer of Functions
 
@@ -262,7 +264,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Scrimshaw Exemptions
 
-Pub. L. 103–238, §18, Apr. 30, 1994, 108 Stat. 559, provided that: “Notwithstanding any other provision of law, any valid certificate of exemption renewed by the Secretary (or deemed to be renewed) under section 10(f)(8) of the Endangered Species Act of 1973 (16 U.S.C. 1539(f)(8)) for any person holding such a certificate with respect to the possession of pre-Act finished scrimshaw products or raw material for such products shall remain valid for a period not to exceed 5 years beginning on the date of enactment of this Act \[Apr. 30, 1994\].”
+Pub. L. 103–238, §18, Apr. 30, 1994, 108 Stat. 559, provided that: "Notwithstanding any other provision of law, any valid certificate of exemption renewed by the Secretary (or deemed to be renewed) under section 10(f)(8) of the Endangered Species Act of 1973 (16 U.S.C. 1539(f)(8)) for any person holding such a certificate with respect to the possession of pre-Act finished scrimshaw products or raw material for such products shall remain valid for a period not to exceed 5 years beginning on the date of enactment of this Act \[Apr. 30, 1994\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

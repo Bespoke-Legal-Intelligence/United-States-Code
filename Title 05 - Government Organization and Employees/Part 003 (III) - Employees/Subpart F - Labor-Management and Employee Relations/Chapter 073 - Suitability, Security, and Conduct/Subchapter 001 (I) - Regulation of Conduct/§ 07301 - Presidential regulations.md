@@ -80,7 +80,7 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Display in Federal Buildings of Code of Ethics for Government Service
 
-Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed byAdministrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, §4(a), Aug. 6, 1996, 110 Stat. 1566.
+Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed by Administrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, §4(a), Aug. 6, 1996, 110 Stat. 1566.
 
 #### Agency Acceptance of Donations for Federal Employees
 
@@ -314,9 +314,9 @@ Sec. 6. <i>Coordination of Agency Programs</i>. (a) The Director of the Office o
 
 (b) The Attorney General shall render legal advice regarding the implementation of this Order and shall be consulted with regard to all guidelines, regulations, and policies proposed to be adopted pursuant to this Order.
 
-(c) Nothing in this Order shall be deemed to limit the authorities of the Director of Central Intelligenceunder the National Security Act of 1947, as amended \[50 U.S.C. 401 et seq.\], or the statutory authorities of the National Security Agency or the Defense Intelligence Agency. Implementation of this Order within the Intelligence Community, as defined in Executive Order No. 12333 \[50 U.S.C. 401 note\], shall be subject to the approval of the head of the affected agency.
+(c) Nothing in this Order shall be deemed to limit the authorities of the Director of Central Intelligence under the National Security Act of 1947, as amended \[50 U.S.C. 3001 et seq.\], or the statutory authorities of the National Security Agency or the Defense Intelligence Agency. Implementation of this Order within the Intelligence Community, as defined in Executive Order No. 12333 \[50 U.S.C. 3001 note\], shall be subject to the approval of the head of the affected agency.
 
-Sec. 7. <i>Definitions</i>. (a) This Order applies to all agencies of the Executive Branch.
+Sec. 7. <i>Definitions</i>.(a) This Order applies to all agencies of the Executive Branch.
 
 (b) For purposes of this Order, the term “agency” means an Executive agency, as defined in 5 U.S.C. 105; the Uniformed Services, as defined in 5 U.S.C. 2101(3) (but excluding the armed forces as defined by 5 U.S.C. 2101(2)); or any other employing unit or authority of the Federal government, except the United States Postal Service, the Postal Rate Commission, and employing units or authorities in the Judicial and Legislative Branches.
 
@@ -326,7 +326,7 @@ Sec. 7. <i>Definitions</i>. (a) This Order applies to all agencies of the Execut
 
 (1) An employee in a position that an agency head designates Special Sensitive, Critical-Sensitive, or Noncritical-Sensitive under Chapter 731 of the Federal Personnel Manual or an employee in a position that an agency head designates as sensitive in accordance with Executive Order No. 10450, as amended \[5 U.S.C. 7311 note\];
 
-(2) An employee who has been granted access to classified information or may be granted access to classified information pursuant to a determination of trustworthiness by an agency head under Section 4 of Executive Order No. 12356 \[50 U.S.C. 435 note\];
+(2) An employee who has been granted access to classified information or may be granted access to classified information pursuant to a determination of trustworthiness by an agency head under Section 4 of \[former\] Executive Order No. 12356;
 
 (3) Individuals serving under Presidential appointments;
 
@@ -342,7 +342,7 @@ Sec. 8. <i>Effective Date</i>. This Order is effective immediately.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.\]
 
 #### Ex. Ord. No. 12674. Principles of Ethical Conduct for Government Officers and Employees
 
@@ -386,7 +386,7 @@ Sec. 102. <i>Limitations on Outside Earned Income.</i>
 
 (a) No employee who is appointed by the President to a full-time noncareer position in the executive branch (including full-time noncareer employees in the White House Office, the Office of Policy Development, and the Office of Cabinet Affairs), shall receive any earned income for any outside employment or activity performed during that Presidential appointment.
 
-(b) The prohibition set forth in subsection (a) shall not apply to any full-time noncareer employees employed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a) at salaries below the minimum rate of basic pay then paidfor GS–9 of the General Schedule. Any outside employment must comply with relevant agency standards of conduct, including any requirements for approval of outside employment.
+(b) The prohibition set forth in subsection (a) shall not apply to any full-time noncareer employees employed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a) at salaries below the minimum rate of basic pay then paid for GS–9 of the General Schedule. Any outside employment must comply with relevant agency standards of conduct, including any requirements for approval of outside employment.
 
 #### Part II—Office of Government Ethics Authority
 
@@ -456,7 +456,7 @@ Sec. 503. <i>Definitions</i>. For purposes of this order, the term:
 
 (e) “Special Government employee” means a special Government employee as defined in 18 U.S.C. 202(a).
 
-Sec. 504. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executivebranch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+Sec. 504. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 #### Executive Order No. 12820
 
@@ -600,7 +600,7 @@ Sec. 4. <i>Reciprocal Recognition of Fitness and Suitability Determinations</i>.
 
 &emsp;(iii) the individual's investigative record shows conduct that is incompatible with the core duties of the new position.
 
-Sec. 5. <i>Reinvestigation of Individuals in Positions of Public Trust</i>. Individuals in positions of public trust shall be subject to reinvestigation under standards (including but not limited to the frequency of such reinvestigation) as determined by the Director of the Office of Personnel Management, to ensure their suitability for continued employment.
+Sec. 5. <i>Reinvestigation of Individuals in Positions of Public Trust</i>. Individuals in positions of public trustshall be subject to reinvestigation under standards (including but not limited to the frequency of such reinvestigation) as determined by the Director of the Office of Personnel Management, to ensure their suitability for continued employment.
 
 Sec. 6. <i>Responsibilities</i>. (a) An agency shall report to the Office of Personnel Management the nature and results of the background investigation and fitness determination (or later changes to that determination) made on an individual, to the extent consistent with law.
 
@@ -674,7 +674,7 @@ Sec. 2. <i>Definitions</i>. As used herein and in the pledge set forth in sectio
 
 (g) “Particular matter” shall have the same meaning as set forth in section 207 of title 18, United States Code, and section 2635.402(b)(3) of title 5, Code of Federal Regulations.
 
-(h) “Particular matter involving specific parties” shall have the same meaning as set forth in section 2641.201(h) of title 5, Code of Federal Regulations, except that it shall also include any meeting or other communication relating to the performance of one's official duties with a former employer or former client, unless the communication applies to a particular matter of general applicability and participation in the meeting or other event is open to all interested parties.
+(h) “Particular matter involving specific parties” shall have the same meaning as set forth in section2641.201(h) of title 5, Code of Federal Regulations, except that it shall also include any meeting or other communication relating to the performance of one's official duties with a former employer or former client, unless the communication applies to a particular matter of general applicability and participation in the meeting or other event is open to all interested parties.
 
 (i) “Former employer” is any person for whom the appointee has within the 2 years prior to the date of his or her appointment served as an employee, officer, director, trustee, or general partner, except that “former employer” does not include any executive agency or other entity of the Federal Government, State or local government, the District of Columbia, Native American tribe, or any United States territory or possession.
 
@@ -792,7 +792,7 @@ It is the policy of the Federal Government to promote the health and safety of i
 
 Section 1. <i>Government-wide Guidance to Address the Effects of Domestic Violence on the Federal Workforce</i>. Within 240 days of the date of this memorandum, the Director of the Office of Personnel Management (OPM) shall, in consultation with the Attorney General, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Homeland Security, and other interested heads of agencies:
 
-(a) issue guidance to agencies on the content of agency-specific policies, as required by section 2 of this memorandum, to prevent domestic violence and address its effects on the Federal workforce. The guidance shall include recommended steps agencies can take as employers for early intervention in and prevention of domestic violence committed against or by employees, guidelines for assisting employee victims,leave policies relating to domestic violence situations, general guidelines on when it may be appropriate to take disciplinary action against employees who commit or threaten acts of domestic violence, measures to improve workplace safety related to domestic violence, and resources for identifying relevant best practices related to domestic violence;
+(a) issue guidance to agencies on the content of agency-specific policies, as required by section 2 of this memorandum, to prevent domestic violence and address its effects on the Federal workforce. The guidance shall include recommended steps agencies can take as employers for early intervention in and prevention of domestic violence committed against or by employees, guidelines for assisting employee victims, leave policies relating to domestic violence situations, general guidelines on when it may be appropriate to take disciplinary action against employees who commit or threaten acts of domestic violence, measures to improve workplace safety related to domestic violence, and resources for identifying relevant best practices related to domestic violence;
 
 (b) establish a process for providing technical assistance to agencies in developing agency-specific policies, consistent with the guidance created pursuant to subsection (a) of this section, that meet the needs of their workforce; and
 

@@ -18,9 +18,9 @@ Historical and Revision Notes
 
 June 10, 1921, ch. 18, 42 Stat. 20, §319(h); added July 13, 1959, Pub. L. 86–87, 73 Stat. 198.
 
-The words “arising” and “and conclusive” are omitted as surplus.
+The words "arising" and "and conclusive" are omitted as surplus.
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 

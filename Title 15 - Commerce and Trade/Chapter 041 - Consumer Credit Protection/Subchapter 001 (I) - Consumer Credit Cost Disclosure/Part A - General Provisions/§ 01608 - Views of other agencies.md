@@ -6,7 +6,7 @@ In the exercise of its functions under this subchapter, the Bureau may obtain up
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Board” in two places.
+<b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board" in two places.
 
 #### Effective Date of 2010 Amendment
 

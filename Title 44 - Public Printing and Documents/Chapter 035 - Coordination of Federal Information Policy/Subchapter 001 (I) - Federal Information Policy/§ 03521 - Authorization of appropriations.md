@@ -8,7 +8,7 @@ There are authorized to be appropriated to the Office of Information and Regulat
 
 <b>2002</b>—Pub. L. 107–198 renumbered section 3520 of this title as this section.
 
-<b>2000</b>—Pub. L. 106–398 substituted “subchapter” for “chapter”.
+<b>2000</b>—Pub. L. 106–398 substituted "subchapter" for "chapter".
 
 #### Effective Date of 2000 Amendment
 

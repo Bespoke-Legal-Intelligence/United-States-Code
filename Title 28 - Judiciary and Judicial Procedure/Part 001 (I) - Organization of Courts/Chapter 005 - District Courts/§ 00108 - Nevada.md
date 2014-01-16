@@ -14,5 +14,5 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–650 substituted “, Reno, Ely, and Lovelock” for “and Reno”.
+<b>1990</b>—Pub. L. 101–650 substituted ", Reno, Ely, and Lovelock" for "and Reno".
 

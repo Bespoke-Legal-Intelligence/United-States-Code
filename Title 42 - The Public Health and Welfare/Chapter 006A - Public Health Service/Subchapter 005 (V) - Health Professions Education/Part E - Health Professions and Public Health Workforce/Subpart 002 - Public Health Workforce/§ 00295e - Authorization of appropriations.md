@@ -30,5 +30,5 @@ Section 295e–5, act July 1, 1944, ch. 373, title VII, §769B, as added Nov. 18
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148 amended subsec. (a) generally. Prior to amendment, text read as follows: “For the purpose of carrying out this subpart, there is authorized to be appropriated $9,100,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–148 amended subsec. (a) generally. Prior to amendment, text read as follows: "For the purpose of carrying out this subpart, there is authorized to be appropriated $9,100,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002."
 

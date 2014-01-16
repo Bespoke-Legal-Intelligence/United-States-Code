@@ -18,7 +18,7 @@ The Congress declares and finds that:
 
 &emsp;&emsp;(C) In 1943, the United States entered into an agreement with the Tribe and the State to provide services to the Tribe and its members. The State purchased 3,434 acres of land and conveyed it to the Secretary in trust for the Tribe and the Tribe organized under the Indian Reorganization Act \[25 U.S.C. 461 et seq.\].
 
-&emsp;&emsp;(D) In 1959, when Congress enacted the Catawba Tribe of South Carolina Division of Assets Act (25 U.S.C. 931–938), Federal agents assured the Tribe that if the Tribe would release the Government from its obligation under the 1943 agreement and agree to Federal legislation terminating the Federal trust relationship and liquidating the 1943 reservation, the status of the Tribe's land claim would not be jeopardized by termination.
+&emsp;&emsp;(D) In 1959, when Congress enacted the Catawba Tribe of South Carolina Division ofAssets Act (25 U.S.C. 931–938), Federal agents assured the Tribe that if the Tribe would release the Government from its obligation under the 1943 agreement and agree to Federal legislation terminating the Federal trust relationship and liquidating the 1943 reservation, the status of the Tribe's land claim would not be jeopardized by termination.
 
 &emsp;&emsp;(E) In 1980, the Tribe initiated Federal court litigation to regain possession of its treaty lands and in 1986, the United States Supreme Court ruled in South Carolina against Catawba Indian Tribe that the 1959 Act resulted in the application of State statutes of limitations to the Tribe's land claim. Two subsequent decisions of the United States Court of Appeals for the Fourth Circuit have held that some portion of the Tribe's claim is barred by State statutes of limitations and that some portion is not barred.
 
@@ -26,7 +26,7 @@ The Congress declares and finds that:
 
 &emsp;(6) The 102d Congress has enacted legislation suspending until October 1, 1993, the running of any unexpired statute of limitation applicable to the Tribe's land claim in order to provide additional time to negotiate settlement of these claims.
 
-&emsp;(7) It is recognized that both Indian and non-Indian parties enter into this settlement to resolve the disputes raised in these lawsuits and to derive certain benefits. The parties’ Settlement Agreement constitutes a good faith effort to resolve these lawsuits and other claims and requires implementing legislation by the Congress of the United States, the General Assembly of the State of South Carolina, and the governing bodies of the South Carolina counties of York and Lancaster.
+&emsp;(7) It is recognized that both Indian and non-Indian parties enter into this settlement to resolve the disputes raised in these lawsuits and to derive certain benefits. The parties' Settlement Agreement constitutes a good faith effort to resolve these lawsuits and other claims and requires implementing legislation by the Congress of the United States, the General Assembly of the State of South Carolina, and the governing bodies of the South Carolina counties of York and Lancaster.
 
 &emsp;(8) To advance the goals of the Federal policy of Indian self-determination and restoration of terminated Indian Tribes, and in recognition of the United States obligation to the Tribe and the Federal policy of settling historical Indian claims through comprehensive settlement agreements, it is appropriate that the United States participate in the funding and implementation of the Settlement Agreement.
 
@@ -54,15 +54,15 @@ The Catawba Tribe of South Carolina Division of Assets Act and the 1959 Act, ref
 
 Legislation suspending until October 1, 1993, the running of any unexpired statute of limitation applicable to the Tribe's land claim, referred to in subsec. (a)(6), is Pub. L. 102–339, §3, Aug. 11, 1992, 106 Stat. 869, which is not classified to the Code.
 
-This subchapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 103–116, Oct. 27, 1993, 107 Stat. 1118, known as the Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This subchapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 103–116, Oct. 27, 1993, 107 Stat. 1118, known as the Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Effective Date
 
-Pub. L. 103–116, §17, Oct. 27, 1993, 107 Stat. 1138, provided that: “Except for sections 7, 8, and 12 \[enacting sections 941e, 941f and 941j of this title\], the provisions of this Act \[see Short Title note below\] shall become effective upon the transfer of the Existing Reservation under section 12 \[enacting section 941j of this title\] to the Secretary.”
+Pub. L. 103–116, §17, Oct. 27, 1993, 107 Stat. 1138, provided that: "Except for sections 7, 8, and 12 \[enacting sections 941e, 941f and 941j of this title\], the provisions of this Act \[see Short Title note below\] shall become effective upon the transfer of the Existing Reservation under section 12 \[enacting section 941j of this title\] to the Secretary."
 
 \[In accordance with the provisions of Pub. L. 103–116, a quitclaim deed transferring the existing reservation to the United States as Trustee for the Tribe was executed on Nov. 29, 1993. This conveyance was accepted on behalf of the United States, in trust, on Jan. 19, 1994. The deed was recorded Jan. 20, 1994.\]
 
 #### Short Title
 
-Pub. L. 103–116, §1, Oct. 27, 1993, 107 Stat. 1118, provided that: “This Act \[enacting this subchapter and repealing subchapter XLIII (§931 et seq.) of this chapter\] may be cited as the ‘Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993’.”
+Pub. L. 103–116, §1, Oct. 27, 1993, 107 Stat. 1118, provided that: "This Act \[enacting this subchapter and repealing subchapter XLIII (§931 et seq.) of this chapter\] may be cited as the 'Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993'."
 

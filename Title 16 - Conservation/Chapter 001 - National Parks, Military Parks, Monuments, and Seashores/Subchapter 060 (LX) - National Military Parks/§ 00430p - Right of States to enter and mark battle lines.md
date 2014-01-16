@@ -6,5 +6,5 @@ It shall be lawful for the authorities of any State having had troops at the Bat
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–578 substituted “battlefield” for “Monocacy National Military Park” and “: <i>Provided further,”</i> for “, which approval shall be based upon formal written reports to be made to him in each case by the National Park Service: <i>Provided,”.</i>
+<b>1976</b>—Pub. L. 94–578 substituted "battlefield" for "Monocacy National Military Park" and ": <i>Provided further,"</i> for ", which approval shall be based upon formal written reports to be made to him in each case by the National Park Service: <i>Provided,".</i>
 

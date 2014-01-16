@@ -32,11 +32,11 @@ In carrying out this section, the Secretary—
 
 #### Codification
 
-Amendment by Pub. L. 111–148 is based on section 133 of title I of S. 1790, One Hundred Eleventh Congress, asreported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Amendment by Pub. L. 111–148 is based on section 133 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to grants to Indian tribes and tribal organizations for prevention, control, and elimination of tuberculosis.
 
-<b>1994</b>—Subsec. (d)(4). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
+<b>1994</b>—Subsec. (d)(4). Pub. L. 103–437 substituted "Committee on Indian" for "Select Committee on Indian" and "Natural Resources" for "Interior and Insular Affairs".
 

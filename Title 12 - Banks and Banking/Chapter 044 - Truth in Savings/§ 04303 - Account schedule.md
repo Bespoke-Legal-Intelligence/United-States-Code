@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each depository institution shall maintain a schedule of fees, charges, interest rates, andterms and conditions applicable to each class of accounts offered by the depository institution, in accordance with the requirements of this section and regulations which the Bureau shall prescribe. The Bureau shall specify, in regulations, which fees, charges, penalties, terms, conditions, and account restrictions must be included in a schedule required under this subsection. A depository institution need not include in such schedule any information not specified in such regulation.
+Each depository institution shall maintain a schedule of fees, charges, interest rates, and terms and conditions applicable to each class ofaccounts offered by the depository institution, in accordance with the requirements of this section and regulations which the Bureau shall prescribe. The Bureau shall specify, in regulations, which fees, charges, penalties, terms, conditions, and account restrictions must be included in a schedule required under this subsection. A depository institution need not include in such schedule any information not specified in such regulation.
 
 #### (b) Information on fees and charges
 
@@ -50,7 +50,7 @@ Schedules required under subsection (a) of this section shall be written in clea
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a), (d). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Subsecs. (a), (d). Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

@@ -16,7 +16,7 @@
 
 (b)(1) The head of an agency may, in order to recruit or retain highly qualified personnel, establish a program under which the agency may agree to repay (by direct payments on behalf of the employee) any student loan previously taken out by such employee.
 
-(2) Payments under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed to by the agency and employee concerned, except that the amount paid by an agency under this section may not exceed—
+(2) Payments under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed to by the agency andemployee concerned, except that the amount paid by an agency under this section may not exceed—
 
 &emsp;(A) $10,000 for any employee in any calendar year; or
 
@@ -70,7 +70,7 @@
 
 The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(1)(B)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(1)(B)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A ofTitle 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
 

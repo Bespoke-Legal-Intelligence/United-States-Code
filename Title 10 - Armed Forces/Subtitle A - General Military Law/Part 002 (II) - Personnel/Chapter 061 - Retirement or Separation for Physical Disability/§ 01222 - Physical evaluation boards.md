@@ -30,49 +30,49 @@ Standardized Staff Training and Operations.—(1) The Secretary of Defense shall
 
 #### Effective Date
 
-Pub. L. 109–364, div. A, title V, §597(b), Oct. 17, 2006, 120 Stat. 2237, provided that: “Section 1222 of title 10, United States Code, as added by subsection (a), shall apply with respect to decisions rendered on cases commenced more than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\].”
+Pub. L. 109–364, div. A, title V, §597(b), Oct. 17, 2006, 120 Stat. 2237, provided that: "Section 1222 of title 10, United States Code, as added by subsection (a), shall apply with respect to decisions rendered on cases commenced more than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\]."
 
 #### Quality Review of Medical Evaluation Boards, Physical Evaluation Boards, and Physical Evaluation Board Liaison Officers
 
 Pub. L. 112–239, div. A, title V, §524, Jan. 2, 2013, 126 Stat. 1723, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Defense shall standardize, assess, and monitor the quality assurance programs of the military departments to evaluate the following in the performance of their duties (including duties under chapter 61 of title 10, United States Code):
 
-&emsp;“(1) Medical Evaluation Boards.
+&emsp;"(1) Medical Evaluation Boards.
 
-&emsp;“(2) Physical Evaluation Boards.
+&emsp;"(2) Physical Evaluation Boards.
 
-&emsp;“(3) Physical Evaluation Board Liaison Officers.
+&emsp;"(3) Physical Evaluation Board Liaison Officers.
 
-“(b)
+"(b)
 
 Objectives.—The objectives of the quality assurance program shall be as follows:
 
-&emsp;“(1) To ensure accuracy and consistency in the determinations and decisions of Medical Evaluation Boards and Physical Evaluation Boards.
+&emsp;"(1) To ensure accuracy and consistency in the determinations and decisions of Medical Evaluation Boards and Physical Evaluation Boards.
 
-&emsp;“(2) To otherwise monitor and sustain proper performance of the duties of Medical Evaluation Boards and Physical Evaluation Boards, and of Physical Evaluation Board Liaison Officers.
+&emsp;"(2) To otherwise monitor and sustain proper performance of the duties of Medical Evaluation Boards and Physical Evaluation Boards, and of Physical Evaluation Board Liaison Officers.
 
-&emsp;“(3) Such other objectives as the Secretary shall specify for purposes of the quality assurance program.
+&emsp;"(3) Such other objectives as the Secretary shall specify for purposes of the quality assurance program.
 
-“(c)
+"(c)
 
 Reports.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Report on implementation.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary shall submit to the appropriate committees of Congress a report setting forth the plan of the Secretary for the implementation of the requirements of this section.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Annual reports.—Not later than one year after the date of the submittal of the report required by paragraph (1), and annually thereafter for the next four years, the Secretary shall submit to the appropriate committees of Congress a report setting forth an assessment of the implementation of the requirements of this section during the one-year period ending on the date of the report under this paragraph. Each report shall include, in particular, an assessment of the extent to which the quality assurance program under the requirements of this section meets the objectives specified in subsection (b).
 
-&emsp;“(3)
+&emsp;"(3)
 
-Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ means—
+Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' means—
 
-&emsp;&emsp;“(A) the Committee on Armed Services and the Committee on Veterans’ Affairs of the Senate; and
+&emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Veterans' Affairs of the Senate; and
 
-&emsp;&emsp;“(B) the Committee on Armed Services and the Committee on Veterans’ Affairs of the House of Representatives.”
+&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Veterans' Affairs of the House of Representatives."
 

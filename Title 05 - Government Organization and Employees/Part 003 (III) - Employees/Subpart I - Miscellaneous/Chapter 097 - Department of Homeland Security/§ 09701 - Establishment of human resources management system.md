@@ -92,7 +92,7 @@ Implementation.—
 
 &emsp;&emsp;&emsp;(ii) With respect to any parts of the proposal as to which recommendations have been made but not accepted by the Secretary and the Director, at any time after 30 calendar days have elapsed since the initiation of the congressional notification, consultation, and mediation procedures set forth in subparagraph (B), if the Secretary determines, in the Secretary's sole and unreviewable discretion, that further consultation and mediation is unlikely to produce agreement, the Secretary may implement any or all of such parts, including any modifications made in response to the recommendations as the Secretary determines advisable.
 
-&emsp;&emsp;&emsp;(iii) The Secretary shall promptly notify Congress of the implementation of any part of the proposal and shall furnish with such notice an explanation of the proposal, any changes made to the proposal as a result of recommendations from employee representatives, and of the reasons why implementation is appropriate under this subparagraph.
+&emsp;&emsp;&emsp;(iii) The Secretary shall promptly notify Congress of the implementation of any part of the proposal and shall furnish with such notice an explanation of the proposal, any changes made to the proposal as a result of recommendations from employee representatives, and of the reasons whyimplementation is appropriate under this subparagraph.
 
 &emsp;&emsp;(D)
 

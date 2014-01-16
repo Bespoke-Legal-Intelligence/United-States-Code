@@ -14,7 +14,7 @@ As used in this section:
 
 #### (1) Child nutrition program
 
-&emsp;The term “child nutrition program” means—
+&emsp;The term "child nutrition program" means—
 
 &emsp;&emsp;(A) the school lunch program established under this chapter;
 
@@ -30,19 +30,19 @@ As used in this section:
 
 #### (2) Contractor
 
-&emsp;The term “contractor” means a person that contracts with a State, an agency of a State, or a local agency to provide goods or services in relation to the participation of a local agency in a child nutrition program.
+&emsp;The term "contractor" means a person that contracts with a State, an agency of a State, or a local agency to provide goods or services in relation to the participation of a local agency in a child nutrition program.
 
 #### (3) Local agency
 
-&emsp;The term “local agency” means a school, school food authority, child care center, sponsoring organization, or other entity authorized to operate a child nutrition program at the local level.
+&emsp;The term "local agency" means a school, school food authority, child care center, sponsoring organization, or other entity authorized to operate a child nutrition program at the local level.
 
 #### (4) Nonprocurement debarment
 
-&emsp;The term “nonprocurement debarment” means an action to bar a person from programs and activities involving Federal financial and nonfinancial assistance, but not including Federal procurement programs and activities.
+&emsp;The term "nonprocurement debarment" means an action to bar a person from programs and activities involving Federal financial and nonfinancial assistance, but not including Federal procurement programs and activities.
 
 #### (5) Person
 
-&emsp;The term “person” means any individual, corporation, partnership, association, cooperative, or other legal entity, however organized.
+&emsp;The term "person" means any individual, corporation, partnership, association, cooperative, or other legal entity, however organized.
 
 #### (c) Assistance to identify and prevent fraud and anticompetitive activities
 
@@ -110,7 +110,7 @@ The Secretary shall—
 
 #### (6) Relationship to other authorities
 
-&emsp;A debarment imposed under this section shall not reduce or diminish the authority ofa Federal, State, or local government agency or court to penalize, imprison, fine, suspend, debar, or take other adverse action against a person in a civil, criminal, or administrative proceeding.
+&emsp;A debarment imposed under this section shall not reduce or diminish the authority of a Federal, State, or local government agency or court to penalize, imprison, fine, suspend, debar, or take other adverse action against a person in a civil, criminal, or administrative proceeding.
 
 #### (7) Regulations
 
@@ -124,7 +124,7 @@ Notwithstanding any other provision of this section, the Secretary shall initiat
 
 &emsp;(2) will interfere with the ability of a local agency to procure a needed product for a child nutrition program;
 
-&emsp;(3) is unfair to a person, subsidiary corporation, affiliate, parent company, or local division of a corporation that is not involved in the improper activity that would otherwise result in the debarment;
+&emsp;(3) is unfair to a person, subsidiary corporation, affiliate, parent company, or local division of a corporation that is not involved inthe improper activity that would otherwise result in the debarment;
 
 &emsp;(4) is likely to have significant adverse economic impacts on the local economy in a manner that is unfair to innocent parties;
 
@@ -148,7 +148,7 @@ On request, the Secretary shall present to the Committee on Education and Labor,
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1)(D) to (G). Pub. L. 105–336 redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows: “the homeless children nutrition program established under section 1766b of this title;”.
+<b>1998</b>—Subsec. (b)(1)(D) to (G). Pub. L. 105–336 redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows: "the homeless children nutrition program established under section 1766b of this title;".
 
 #### Change of Name
 
@@ -162,9 +162,9 @@ Amendment by Pub. L. 105–336 effective July 1, 1999, see section 107(j)(4) of 
 
 Section effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as an Effective Date of 1994 Amendment note under section 1755 of this title.
 
-Pub. L. 103–448, title I, §122(b), Nov. 2, 1994, 108 Stat. 4730, provided that: “Section 25 of the \[Richard B. Russell\] National School Lunch Act \[42 U.S.C. 1769f\] (as added by subsection (a)) shall not apply to a cause for debarment as described in section 25(d)(2) of such Act that is based on an activity that took place prior to the effective date of section 25 of such Act \[Oct. 1, 1994\].”
+Pub. L. 103–448, title I, §122(b), Nov. 2, 1994, 108 Stat. 4730, provided that: "Section 25 of the \[Richard B. Russell\] National School Lunch Act \[42 U.S.C. 1769f\] (as added by subsection (a)) shall not apply to a cause for debarment as described in section 25(d)(2) of such Act that is based on an activity that took place prior to the effective date of section 25 of such Act \[Oct. 1, 1994\]."
 
 #### No Reduction in Authority of Secretary of Agriculture To Debar or Suspend a Person From Federal Financial and Nonfinancial Assistance and Benefits
 
-Pub. L. 103–448, title I, §122(c), Nov. 2, 1994, 108 Stat. 4731, provided that: “The authority of the Secretary of Agriculture that exists on the day before the date of enactment of this Act \[Nov. 2, 1994\] to debar or suspend a person from Federal financial and nonfinancial assistance and benefits under Federal programs and activities shall not be diminished or reduced by subsection (a) \[enacting this section\] or the amendment made by subsection (a).”
+Pub. L. 103–448, title I, §122(c), Nov. 2, 1994, 108 Stat. 4731, provided that: "The authority of the Secretary of Agriculture that exists on the day before the date of enactment of this Act \[Nov. 2, 1994\] to debar or suspend a person from Federal financial and nonfinancial assistance and benefits under Federal programs and activities shall not be diminished or reduced by subsection (a) \[enacting this section\] or the amendment made by subsection (a)."
 

@@ -44,7 +44,7 @@ Not later than 2 years after July 21, 2010, and every 3 years thereafter, the Co
 
 &emsp;Such reimbursements shall—
 
-&emsp;&emsp;(A) be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received; and
+&emsp;&emsp;(A) be credited to the appropriation account "Salaries and Expenses, Government Accountability Office" current when the payment is received; and
 
 &emsp;&emsp;(B) remain available until expended.
 

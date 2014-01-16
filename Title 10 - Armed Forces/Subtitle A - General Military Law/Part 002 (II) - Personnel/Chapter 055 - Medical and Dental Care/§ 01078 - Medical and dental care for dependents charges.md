@@ -32,7 +32,7 @@ June 7, 1956, ch. 374, §103(c)(d), (e), 70 Stat. 251.
 
 Appropriate references are made to dental care throughout the section to reflect the fact that in certain limited situations, dependents are entitled to dental care under 37:403(h)(4), restated as section 1077(d) of this title.
 
-In subsection (b), the word “special” is omitted as surplusage.
+In subsection (b), the word "special" is omitted as surplusage.
 
 #### Prior Provisions
 
@@ -42,9 +42,9 @@ A prior section 1078, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, prescribed inst
 
 <b>1984</b>—Subsecs. (a), (b). Pub. L. 98–557 substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
 
-<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–513 substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare".
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–614 substituted “The charge or charges prescribed shall be applied equally to all classes of dependents” for “Charges shall be the same for all dependents”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–614 substituted "The charge or charges prescribed shall be applied equally to all classes of dependents" for "Charges shall be the same for all dependents".
 
 #### Effective Date of 1980 Amendment
 

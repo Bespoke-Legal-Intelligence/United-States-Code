@@ -18,7 +18,7 @@ The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–33, §5573(a), inserted at end “Notwithstanding section 6103 of title 26, the Commissioner of Social Security is authorized to disclose quarters of coverage information concerning an alien and an alien's spouse or parents to a government agency for the purposes of this chapter.”
+<b>1997</b>—Pub. L. 105–33, §5573(a), inserted at end “Notwithstanding section 6103 of title 26, the Commissioner of Social Security is authorized to disclose quarters ofcoverage information concerning an alien and an alien's spouse or parents to a government agency for the purposes of this chapter.”
 
 Par. (1). Pub. L. 105–33, §5573(b), substituted “before the date on which the alien attains age 18,” for “while the alien was under age 18,”.
 

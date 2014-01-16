@@ -130,13 +130,13 @@ Pub. L. 89–4, title III, §302, Mar. 9, 1965, 79 Stat. 19; Pub. L. 90–103, t
 
 40 App.:302(c).
 
-In subsection (a)(2)(A), the words “after September 30, 1998” are omitted as obsolete.
+In subsection (a)(2)(A), the words "after September 30, 1998" are omitted as obsolete.
 
-In subsection (b)(2), the words “including section 2(b)” are omitted as unnecessary.
+In subsection (b)(2), the words "including section 2(b)" are omitted as unnecessary.
 
-In subsection (c)(1), the words “or their duly authorized representatives” are omitted because of 3:301 and 31:711(2).
+In subsection (c)(1), the words "or their duly authorized representatives" are omitted because of 3:301 and 31:711(2).
 
-In subsection (c)(2), the words “or their duly authorized representatives” are omitted because of 3:301 and 31:711(2) and because of the inferred authority of the Commission to delegate in the absence of a prohibition. See section 14301(d) of the revised title.
+In subsection (c)(2), the words "or their duly authorized representatives" are omitted because of 3:301 and 31:711(2) and because of the inferred authority of the Commission to delegate in the absence of a prohibition. See section 14301(d) of the revised title.
 
 #### References in Text
 
@@ -144,9 +144,9 @@ The Public Works and Economic Development Act of 1965, referred to in subsec. (a
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(A)(i). Pub. L. 110–371, §2(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under section 14526 of this title;”.
+<b>2008</b>—Subsec. (a)(1)(A)(i). Pub. L. 110–371, §2(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: "the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under section 14526 of this title;".
 
-Subsec. (a)(2)(A). Pub. L. 110–371, §2(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Except as provided in subparagraph (B), not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for financial assistance under this section may be provided from amounts appropriated to carry out this subtitle.”
+Subsec. (a)(2)(A). Pub. L. 110–371, §2(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: "Except as provided in subparagraph (B), not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for financial assistance under this section may be provided from amounts appropriated to carry out this subtitle."
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “to”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "to".</i>
 

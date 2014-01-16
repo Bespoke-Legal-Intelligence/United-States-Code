@@ -12,7 +12,7 @@
 
 (b)(1) Subject to paragraph (2), the Coast Guard may render aid to persons and protect and save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
 
-(2) The Commandant shall make full use of all available and qualified resources, including theCoast Guard Auxiliary and individuals licensed by the Secretary pursuant to section 8904(b) of title 46, United States Code, in rendering aid under this subsection in nonemergency cases.
+(2) The Commandant shall make full use of all available and qualified resources, including the Coast Guard Auxiliary and individuals licensed by the Secretary pursuant to section 8904(b) of title 46, United States Code, in rendering aid under this subsection in nonemergency cases.
 
 (c) An individual who knowingly and willfully communicates a false distress message to the Coast Guard or causes the Coast Guard to attempt to save lives and property when no help is needed is—
 
@@ -46,9 +46,9 @@ This section broadens existing law in that it authorizes the Coast Guard to enga
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–595 added subsec. (c).
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–448 designated existing provisions as par. (1), substituted “Subject to paragraph (2), the Coast Guard” for “The Coast Guard”, and added par. (2).
+<b>1988</b>—Subsec. (b). Pub. L. 100–448 designated existing provisions as par. (1), substituted "Subject to paragraph (2), the Coast Guard" for "The Coast Guard", and added par. (2).
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–278 substituted “on and under the high seas and on and under the waters” for “on the high seas and on waters” in introductory text.
+<b>1970</b>—Subsec. (a). Pub. L. 91–278 substituted "on and under the high seas and on and under the waters" for "on the high seas and on waters" in introductory text.
 
 #### Transfer of Functions
 
@@ -58,37 +58,37 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 107–295, title III, §346, Nov. 25, 2002, 116 Stat. 2107, provided that:
 
-“(a)
+"(a)
 
 Report.—The Secretary of the department in which the Coast Guard is operating shall prepare a status report on the modernization of the National Distress and Response System and transmit the report, not later than 60 days after the date of enactment of this Act \[Nov. 25, 2002\] and annually thereafter until completion of the project, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-“(b)
+"(b)
 
 Contents.—The report required by subsection (a) shall—
 
-&emsp;“(1) set forth the scope of the modernization, the schedule for completion of the System, and information on progress in meeting the schedule and on any anticipated delays;
+&emsp;"(1) set forth the scope of the modernization, the schedule for completion of the System, and information on progress in meeting the schedule and on any anticipated delays;
 
-&emsp;“(2) specify the funding expended to-date on the System, the funding required to complete the System, and the purposes for which the funds were or will be expended;
+&emsp;"(2) specify the funding expended to-date on the System, the funding required to complete the System, and the purposes for which the funds were or will be expended;
 
-&emsp;“(3) describe and map the existing public and private communications coverage throughout the waters of the coastal and internal regions of the continental United States, Alaska, Hawaii, Guam, and the Caribbean, and identify locations that possess direction-finding, asset-tracking communications, and digital selective calling service;
+&emsp;"(3) describe and map the existing public and private communications coverage throughout the waters of the coastal and internal regions of the continental United States, Alaska, Hawaii, Guam, and the Caribbean, and identify locations that possess direction-finding, asset-tracking communications, and digital selective calling service;
 
-&emsp;“(4) identify areas of high risk to boaters and Coast Guard personnel due to communications gaps;
+&emsp;"(4) identify areas of high risk to boaters and Coast Guard personnel due to communications gaps;
 
-&emsp;“(5) specify steps taken by the Secretary to fill existing gaps in coverage, including obtaining direction-finding equipment, digital recording systems, asset-tracking communications, use of commercial VHF services, and digital selective calling services that meet or exceed Global Maritime Distress and Safety System requirements adopted under the International Convention for the Safety of Life at Sea \[see 33 U.S.C. 1602 and notes thereunder\];
+&emsp;"(5) specify steps taken by the Secretary to fill existing gaps in coverage, including obtaining direction-finding equipment, digital recording systems, asset-tracking communications, use of commercial VHF services, and digital selective calling services that meet or exceed Global Maritime Distress and Safety System requirements adopted under the International Convention for the Safety of Life at Sea \[see 33 U.S.C. 1602 and notes thereunder\];
 
-&emsp;“(6) identify the number of VHF–FM radios equipped with digital selective calling sold to United States boaters;
+&emsp;"(6) identify the number of VHF–FM radios equipped with digital selective calling sold to United States boaters;
 
-&emsp;“(7) list all reported marine accidents, casualties, and fatalities occurring in areas with existing communications gaps or failures, including incidents associated with gaps in VHF–FM coverage or digital selected calling capabilities and failures associated with inadequate communications equipment aboard the involved vessels during calendar years 1997 and thereafter;
+&emsp;"(7) list all reported marine accidents, casualties, and fatalities occurring in areas with existing communications gaps or failures, including incidents associated with gaps in VHF–FM coverage or digital selected calling capabilities and failures associated with inadequate communications equipment aboard the involved vessels during calendar years 1997 and thereafter;
 
-&emsp;“(8) identify existing systems available to close all identified marine safety gaps before January 1, 2003, including expeditious receipt and response by appropriate Coast Guard operations centers to VHF–FM digital selective calling distress signal; and
+&emsp;"(8) identify existing systems available to close all identified marine safety gaps before January 1, 2003, including expeditious receipt and response by appropriate Coast Guard operations centers to VHF–FM digital selective calling distress signal; and
 
-&emsp;“(9) identify actions taken to-date to implement the recommendations of the National Transportation Safety Board in its Report No. MAR–99–01.”
+&emsp;"(9) identify actions taken to-date to implement the recommendations of the National Transportation Safety Board in its Report No. MAR–99–01."
 
 #### Helicopter Rescue Swimming Program
 
-Pub. L. 98–557, §9, Oct. 30, 1984, 98 Stat. 2862, required Secretary of department in which Coast Guard was operating to use such sums as necessary, from amounts appropriated for operation and maintenance of Coast Guard, to establish helicopter rescue swimming program for purpose of training selected Coast Guard personnel in rescue swimming skills, prior to repeal byPub. L. 104–324, title II, §213(b), Oct. 19, 1996, 110 Stat. 3915.
+Pub. L. 98–557, §9, Oct. 30, 1984, 98 Stat. 2862, required Secretary of department in which Coast Guard was operating to use such sums as necessary, from amounts appropriated for operation and maintenance of Coast Guard, to establish helicopter rescue swimming program for purpose of training selected Coast Guard personnel in rescue swimming skills, prior to repeal by Pub. L. 104–324, title II, §213(b), Oct. 19, 1996, 110 Stat. 3915.
 
 #### Coast Guard Policies and Procedures for Towing and Salvage of Disabled Vessels for Minimization of Coast Guard Competition or Interference with Commercial Enterprise
 
-Pub. L. 97–322, title I, §113, Oct. 15, 1982, 96 Stat. 1585, as amended by Pub. L. 100–448, §30(b), Sept. 28, 1988, 102 Stat. 1850, provided that: “The Commandant of the Coast Guard shall review Coast Guard policies and procedures for towing and salvage of disabled vessels in order to further minimize the possibility of Coast Guard competition or interference (other than by the Coast Guard Auxiliary) with private towing activities or other commercial enterprise.”
+Pub. L. 97–322, title I, §113, Oct. 15, 1982, 96 Stat. 1585, as amended by Pub. L. 100–448, §30(b), Sept. 28, 1988, 102 Stat. 1850, provided that: "The Commandant of the Coast Guard shall review Coast Guard policies and procedures for towing and salvage of disabled vessels in order to further minimize the possibility of Coast Guard competition or interference (other than by the Coast Guard Auxiliary) with private towing activities or other commercial enterprise."
 

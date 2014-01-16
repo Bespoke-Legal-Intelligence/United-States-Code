@@ -18,7 +18,7 @@ The Securities Exchange Act of 1934, referred to in subsecs. (a) and (b), is act
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Securities Act of 1933 or the Securities Exchange Act of 1934” for “Securities Act of 1933, the Securities Exchange Act of 1934, or the Public Utility Holding Company Act of 1935” in subsecs. (a) and (b).
+<b>2010</b>—Pub. L. 111–203 substituted "Securities Act of 1933 or the Securities Exchange Act of 1934" for "Securities Act of 1933, the Securities Exchange Act of 1934, or the Public Utility Holding Company Act of 1935" in subsecs. (a) and (b).
 
 #### Effective Date of 2010 Amendment
 

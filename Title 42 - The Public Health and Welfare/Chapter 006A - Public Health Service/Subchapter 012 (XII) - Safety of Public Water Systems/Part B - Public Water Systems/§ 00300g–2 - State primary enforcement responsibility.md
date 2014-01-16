@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of this subchapter, a State has primary enforcement responsibility for public water systems during any period for which theAdministrator determines (pursuant to regulations prescribed under subsection (b) of this section) that such State—
+For purposes of this subchapter, a State has primary enforcement responsibility for public water systems during any period for which the Administrator determines (pursuant to regulations prescribed under subsection (b) of this section) that such State—
 
 &emsp;(1) has adopted drinking water regulations that are no less stringent than the national primary drinking water regulations promulgated by the Administrator under subsections (a) and (b) of section 300g–1 of this title not later than 2 years after the date on which the regulations are promulgated by the Administrator, except that the Administrator may provide for an extension of not more than 2 years if, after submission and review of appropriate, adequate documentation from the State, the Administrator determines that the extension is necessary and justified;
 
@@ -36,13 +36,13 @@ A State that has primary enforcement authority under this section with respect t
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–182, §112(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “has adopted drinking water regulations which are no less stringent than the national primary drinking water regulations in effect under sections 300g–1(a) and 300g–1(b) of this title;”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–182, §112(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "has adopted drinking water regulations which are no less stringent than the national primary drinking water regulations in effect under sections 300g–1(a) and 300g–1(b) of this title;".
 
-Subsec. (a)(5). Pub. L. 104–182, §112(b), inserted “including earthquakes, floods, hurricanes, and other natural disasters, as appropriate” after “emergency circumstances”.
+Subsec. (a)(5). Pub. L. 104–182, §112(b), inserted "including earthquakes, floods, hurricanes, and other natural disasters, as appropriate" after "emergency circumstances".
 
 Subsec. (a)(6). Pub. L. 104–182, §113(b), added par. (6).
 
 Subsec. (c). Pub. L. 104–182, §112(a)(2), added subsec. (c).
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–339 substituted “are no less stringent than the national primary drinking water regulations in effect under sections 300g–1(a) and 300g–1(b) of this title” for subpars. (A) and (B) which related to stringency of State drinking water regulations between period of promulgation and effective date of national interim drinking water regulations and during the period after such effective date.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–339 substituted "are no less stringent than the national primary drinking water regulations in effect under sections 300g–1(a) and 300g–1(b) of this title" for subpars. (A) and (B) which related to stringency of State drinking water regulations between period of promulgation and effective date of national interim drinking water regulations and during the period after such effective date.
 

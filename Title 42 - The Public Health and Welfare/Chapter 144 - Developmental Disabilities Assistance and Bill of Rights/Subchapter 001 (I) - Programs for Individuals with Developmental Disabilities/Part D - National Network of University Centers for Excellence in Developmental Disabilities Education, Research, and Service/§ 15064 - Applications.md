@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) are developed in collaboration with the consumer advisory committee established pursuant to subparagraph (E);
 
-&emsp;&emsp;&emsp;(ii) are consistent with, and to the extent feasible complement and further, the Council goals contained in the State plansubmitted under section 15024 of this title and the system goals established under section 15043 of this title; and
+&emsp;&emsp;&emsp;(ii) are consistent with, and to the extent feasible complement and further, the Council goals contained in the State plan submitted under section 15024 of this title and the system goals established under section 15043 of this title; and
 
 &emsp;&emsp;&emsp;(iii) will be reviewed and revised annually as necessary to address emerging trends and needs;
 
@@ -128,7 +128,7 @@ Each Center shall annually prepare and transmit to the Secretary a report contai
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(3)(E)(ii)(VI). Pub. L. 108–446 substituted “section 1471 or 1472 of title 20” for “section 1482 or 1483 of title 20”.
+<b>2004</b>—Subsec. (a)(3)(E)(ii)(VI). Pub. L. 108–446 substituted "section 1471 or 1472 of title 20" for "section 1482 or 1483 of title 20".
 
-Pub. L. 108–364 substituted “section 3003 or 3004 of title 29” for “section 3011 or 3012 of title 29”.
+Pub. L. 108–364 substituted "section 3003 or 3004 of title 29" for "section 3011 or 3012 of title 29".
 

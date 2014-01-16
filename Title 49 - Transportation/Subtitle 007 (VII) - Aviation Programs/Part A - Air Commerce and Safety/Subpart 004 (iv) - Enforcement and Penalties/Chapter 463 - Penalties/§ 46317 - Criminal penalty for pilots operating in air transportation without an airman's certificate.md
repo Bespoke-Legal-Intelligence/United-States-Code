@@ -14,7 +14,7 @@ Controlled Substance Criminal Penalty.—
 
 &emsp;(1)
 
-Controlled substances defined.—In this subsection, the term “controlled substance” has the meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802).
+Controlled substances defined.—In this subsection, the term "controlled substance" has the meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802).
 
 &emsp;(2)
 
@@ -32,5 +32,5 @@ Terms of imprisonment.—A term of imprisonment imposed under paragraph (2) shal
 
 #### Effective Date
 
-Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
+Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, setout as an Effective Date of 2000 Amendments note under section 106 of this title.
 

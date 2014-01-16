@@ -14,5 +14,5 @@ The Secretary of Energy, acting through appropriate agencies and contractors, sh
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
+"Secretary of Energy" substituted in text for "Administrator" pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 

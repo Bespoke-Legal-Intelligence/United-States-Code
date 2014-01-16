@@ -18,7 +18,7 @@ Section 615 of this title, referred to in subsec. (b), means section 615 of titl
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–7 struck out subsec. (c) which read as follows: “Reversion to the United States of any portion of any right-of-way or exclusive-use easement granted to the State or State-owned railroad shall occur only as provided in section 1209 of this title. For purposes of such section, the date of the approval of any such right-of-way shall be deemed the ‘date of transfer’.”
+<b>2003</b>—Subsec. (c). Pub. L. 108–7 struck out subsec. (c) which read as follows: "Reversion to the United States of any portion of any right-of-way or exclusive-use easement granted to the State or State-owned railroad shall occur only as provided in section 1209 of this title. For purposes of such section, the date of the approval of any such right-of-way shall be deemed the 'date of transfer'."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -38,33 +38,33 @@ Dec. 28, 1945, ch. 604, §3, 59 Stat. 666; Aug. 7, 1947, ch. 512, §427, 61 Stat
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–364, §593(d)(1), substituted “Dental Corps” for “Dental Division” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §593(d)(1), substituted "Dental Corps" for "Dental Division" in section catchline.
 
-Subsec. (a). Pub. L. 109–364, §593(a)(1), substituted “Chief of the Dental Corps” for “Chief of the Dental Division” and struck out first sentence which read as follows: “There is a Dental Division in the Bureau of Medicine and Surgery.”
+Subsec. (a). Pub. L. 109–364, §593(a)(1), substituted "Chief of the Dental Corps" for "Chief of the Dental Division" and struck out first sentence which read as follows: "There is a Dental Division in the Bureau of Medicine and Surgery."
 
-Subsec. (b). Pub. L. 109–364, §593(a)(2), substituted “Dental Corps” for “Dental Division”.
+Subsec. (b). Pub. L. 109–364, §593(a)(2), substituted "Dental Corps" for "Dental Division".
 
-Subsec. (c). Pub. L. 109–364, §593(c), substituted “shall be defined” for “shall be so defined” and “so that all such functions are” for “that all such functions will be”.
+Subsec. (c). Pub. L. 109–364, §593(c), substituted "shall be defined" for "shall be so defined" and "so that all such functions are" for "that all such functions will be".
 
-Pub. L. 109–364, §593(a)(3), substituted “Dental Corps” for “Dental Division” in first sentence and “the Chief of the Dental Corps” for “that Division” in second sentence.
+Pub. L. 109–364, §593(a)(3), substituted "Dental Corps" for "Dental Division" in first sentence and "the Chief of the Dental Corps" for "that Division" in second sentence.
 
-Subsec. (d). Pub. L. 109–364, §593(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Dental Division shall—
+Subsec. (d). Pub. L. 109–364, §593(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The Dental Division shall—
 
-&emsp;“(1) establish professional standards and policies for dental practice;
+&emsp;"(1) establish professional standards and policies for dental practice;
 
-&emsp;“(2) conduct inspections and surveys for maintenance of such standards;
+&emsp;"(2) conduct inspections and surveys for maintenance of such standards;
 
-&emsp;“(3) initiate and recommend action pertaining to complements, appointments, advancement, training assignment, and transfer of dental personnel; and
+&emsp;"(3) initiate and recommend action pertaining to complements, appointments, advancement, training assignment, and transfer of dental personnel; and
 
-&emsp;“(4) serve as the advisory agency for the Bureau on all matters relating directly to dentistry.”
+&emsp;"(4) serve as the advisory agency for the Bureau on all matters relating directly to dentistry."
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–86 substituted "commodore" for "commodore admiral".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “not below the grade of commodore admiral” for “in the grade of rear admiral”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "not below the grade of commodore admiral" for "in the grade of rear admiral".
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–649 struck out “pay, allowances, and” after “entitled to the same”. See Title 37, Pay and Allowances of the Uniformed Services.
+<b>1962</b>—Subsec. (b). Pub. L. 87–649 struck out "pay, allowances, and" after "entitled to the same". See Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1981 Amendment
 

@@ -112,7 +112,7 @@
 | :--- | ---: |
 | [2911\.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002911%20-%20Native%20American%20programs.md) | Native American programs. |
 | [2912\.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002912%20-%20Migrant%20and%20seasonal%20farmworker%20programs.md) | Migrant and seasonal farmworker programs. |
-| [2913\.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002913%20-%20Veterans%E2%80%99%20workforce%20investment%20programs.md) | Veterans’ workforce investment programs. |
+| [2913\.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002913%20-%20Veterans%27%20workforce%20investment%20programs.md) | Veterans' workforce investment programs. |
 | [2914\.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002914%20-%20Youth%20opportunity%20grants.md) | Youth opportunity grants. |
 | [2915\.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002915%20-%20Technical%20assistance.md) | Technical assistance. |
 | [2916\.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002916%20-%20Demonstration%2C%20pilot%2C%20multiservice%2C%20research%2C%20and%20multistate%20projects.md) | Demonstration, pilot, multiservice, research, and multistate projects. |

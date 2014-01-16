@@ -60,7 +60,7 @@
 
 #### (A) Grants from unexpended allotments
 
-&emsp;&emsp;If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2014 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2014. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
+&emsp;&emsp;If a State does not submit an application under this section for fiscal year 2010 or 2011,the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2014 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2014. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
 
 #### (B) 3-year grants
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In this section, the term “personal responsibility education program” means a program that is designed to educate adolescents on—
+&emsp;&emsp;In this section, the term "personal responsibility education program" means a program that is designed to educate adolescents on—
 
 &emsp;&emsp;&emsp;(i) both abstinence and contraception for the prevention of pregnancy and sexually transmitted infections, including HIV/AIDS, consistent with the requirements of subparagraph (B); and
 
@@ -136,7 +136,7 @@
 
 #### (1) Grants to implement innovative strategies
 
-&emsp;From the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount for purposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
+&emsp;From the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount forpurposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
 
 #### (2) Other reservations
 
@@ -194,11 +194,11 @@ In this section:
 
 #### (1) Age-appropriate
 
-&emsp;The term “age-appropriate”, with respect to the information in pregnancy prevention, means topics, messages, and teaching methods suitable to particular ages or age groups of children and adolescents, based on developing cognitive, emotional, and behavioral capacity typical for the age or age group.
+&emsp;The term "age-appropriate", with respect to the information in pregnancy prevention, means topics, messages, and teaching methods suitable to particular ages or age groups of children and adolescents, based on developing cognitive, emotional, and behavioral capacity typical for the age or age group.
 
 #### (2) Medically accurate and complete
 
-&emsp;The term “medically accurate and complete” means verified or supported by the weight of research conducted in compliance with accepted scientific methods and—
+&emsp;The term "medically accurate and complete" means verified or supported by the weight of research conducted in compliance with accepted scientific methods and—
 
 &emsp;&emsp;(A) published in peer-reviewed journals, where applicable; or
 
@@ -206,15 +206,15 @@ In this section:
 
 #### (3) Indian tribes; Tribal organizations
 
-&emsp;The terms “Indian tribe” and “Tribal organization” have the meanings given such terms in section 1603 of title 25.
+&emsp;The terms "Indian tribe" and "Tribal organization" have the meanings given such terms in section 1603 of title 25.
 
 #### (4) Youth
 
-&emsp;The term “youth” means an individual who has attained age 10 but has not attained age 20.
+&emsp;The term "youth" means an individual who has attained age 10 but has not attained age 20.
 
 #### (f) Appropriation
 
-For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2014. Amounts appropriated under this subsection shall remain available until expended.
+For the purpose of carrying out this section, there is appropriated, out of any money in theTreasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2014. Amounts appropriated under this subsection shall remain available until expended.
 
 (Aug. 14, 1935, ch. 531, title V, §513, as added and amended Pub. L. 111–148, title II, §2953, title X, §10201(h), Mar. 23, 2010, 124 Stat. 347, 922.)
 
@@ -228,5 +228,5 @@ Provisions similar to those comprising former section 713 were contained in sect
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(2)(C)(i). Pub. L. 111–148, §10201(h), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Healthy relationships, such as positive self-esteem and relationship dynamics, friendships, dating, romantic involvement, marriage, and family interactions.”
+<b>2010</b>—Subsec. (b)(2)(C)(i). Pub. L. 111–148, §10201(h), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "Healthy relationships, such as positive self-esteem and relationship dynamics, friendships, dating, romantic involvement, marriage, and family interactions."
 

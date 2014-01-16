@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary is authorized, upon request, to provide advice, counsel, and technical assistanceto applicants or potential applicants for grants and contracts and other interested persons with respect to any functions of the Secretary or the Department.
+The Secretary is authorized, upon request, to provide advice, counsel, and technical assistance to applicants or potential applicants for grants and contracts and other interested persons with respect to any functions of the Secretary or the Department.
 
 #### (b) Consolidation of applications for grants and contracts
 

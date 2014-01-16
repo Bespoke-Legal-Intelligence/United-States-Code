@@ -90,13 +90,13 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 #### Amendments
 
-<b>2006</b>—Subsec. (i)(2)(B). Pub. L. 109–290, §4(b), substituted “section 80a–26(f)” for “section 80a–26(e)” in two places.
+<b>2006</b>—Subsec. (i)(2)(B). Pub. L. 109–290, §4(b), substituted "section 80a–26(f)" for "section 80a–26(e)" in two places.
 
 Subsec. (j). Pub. L. 109–290, §4(a), added subsec. (j).
 
 <b>1996</b>—Subsec. (i). Pub. L. 104–290 added subsec. (i).
 
-<b>1971</b>—Subsec. (f). Pub. L. 92–165 inserted “(other than a plan under which the amount of sales load deducted from any payment thereon does not exceed 9 per centum of such payment)”.
+<b>1971</b>—Subsec. (f). Pub. L. 92–165 inserted "(other than a plan under which the amount of sales load deducted from any payment thereon does not exceed 9 per centum of such payment)".
 
 <b>1970</b>—Subsecs. (d) to (h). Pub. L. 91–547 added subsecs. (d) to (h).
 

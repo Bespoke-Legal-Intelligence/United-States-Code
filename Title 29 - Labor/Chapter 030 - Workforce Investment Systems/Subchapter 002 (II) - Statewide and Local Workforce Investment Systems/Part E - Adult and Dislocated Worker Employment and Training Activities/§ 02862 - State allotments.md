@@ -4,7 +4,7 @@
 
 The Secretary shall—
 
-&emsp;(1) make allotments and grants from the total amount appropriated under section 2872(b) of this title for a fiscal year in accordance with subsection (b)(1) of this section; and
+&emsp;(1) make allotments and grants from the total amount appropriated under section2872(b) of this title for a fiscal year in accordance with subsection (b)(1) of this section; and
 
 &emsp;(2)(A) reserve 20 percent of the amount appropriated under section 2872(c) of this title for a fiscal year for use under subsection (b)(2)(A) of this section, and under sections 2915(b) (relating to dislocated worker technical assistance), 2916(d) (relating to dislocated worker projects), and 2918 (relating to national emergency grants, other than under subsection <sup>1</sup> (a)(4), (f), and (g)) of this title; and
 
@@ -54,7 +54,7 @@ The Secretary shall—
 
 #### (I) Minimum percentage and allotment
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (IV), the Secretary shall ensure that no State shallreceive an allotment for a fiscal year that is less than the greater of—
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (IV), the Secretary shall ensure that no State shall receive an allotment for a fiscal year that is less than the greater of—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year; or
 
@@ -82,19 +82,19 @@ The Secretary shall—
 
 #### (I) Adult
 
-&emsp;&emsp;&emsp;&emsp;The term “adult” means an individual who is not less than age 22 and not more than age 72.
+&emsp;&emsp;&emsp;&emsp;The term "adult" means an individual who is not less than age 22 and not more than age 72.
 
 #### (II) Allotment percentage
 
-&emsp;&emsp;&emsp;&emsp;The term “allotment percentage”, used with respect to fiscal year 2000 or a subsequent fiscal year, means a percentage of the remainder described in clause (i) that is received through an allotment made under this subparagraph for the fiscal year. The term, used with respect to fiscal year 1998 or 1999, means the percentage of the amounts allotted to States under section 202(a) of the Job Training Partnership Act (as in effect on the day before August 7, 1998) that is received under such section by the State involved for fiscal year 1998 or 1999.
+&emsp;&emsp;&emsp;&emsp;The term "allotment percentage", used with respect to fiscal year 2000 or a subsequent fiscal year, means a percentage of the remainder described in clause (i) that is received through an allotment made under this subparagraph for the fiscal year. The term, used with respect to fiscal year 1998 or 1999, means the percentage of the amounts allotted to States under section 202(a) of the Job Training Partnership Act (as in effect on the day before August 7, 1998) that is received under such section by the State involved for fiscal year 1998 or 1999.
 
 #### (III) Area of substantial unemployment
 
-&emsp;&emsp;&emsp;&emsp;The term “area of substantial unemployment” means any area that is of sufficient size and scope to sustain a program of workforce investment activities carried out under this subchapter and that has an average rate of unemployment of at least 6.5 percent for the most recent 12 months, as determined by the Secretary. For purposes of this subclause, determinations of areas of substantial unemployment shall be made once each fiscal year.
+&emsp;&emsp;&emsp;&emsp;The term "area of substantial unemployment" means any area that is of sufficient size and scope to sustain a program of workforce investment activities carried out under this subchapter and that has an average rate of unemployment of at least 6.5 percent for the most recent 12 months, as determined by the Secretary. For purposes of this subclause, determinations of areas of substantial unemployment shall be made once each fiscal year.
 
 #### (IV) Disadvantaged adult
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (V), the term “disadvantaged adult” means an adult who received an income, or is a member of a family that received a total family income, that, in relation to family size, does not exceed the higher of—
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (V), the term "disadvantaged adult" means an adult who received an income, or is a member of a family that received a total family income, that, in relation to family size, does not exceed the higher of—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the poverty line; or
 
@@ -106,7 +106,7 @@ The Secretary shall—
 
 #### (VI) Excess number
 
-&emsp;&emsp;&emsp;&emsp;The term “excess number” means, used with respect to the excess number of unemployed individuals within a State, the higher of—
+&emsp;&emsp;&emsp;&emsp;The term "excess number" means, used with respect to the excess number of unemployed individuals within a State, the higher of—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the State; or
 
@@ -142,7 +142,7 @@ The Secretary shall—
 
 #### (iii) Definition
 
-&emsp;&emsp;&emsp;In this subparagraph, the term “excess number” means, used with respect to the excess number of unemployed individuals within a State, the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the State.
+&emsp;&emsp;&emsp;In this subparagraph, the term "excess number" means, used with respect to the excess number of unemployed individuals within a State, the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the State.
 
 #### (3) Definitions
 
@@ -150,11 +150,11 @@ The Secretary shall—
 
 #### (A) Freely Associated States
 
-&emsp;&emsp;The term “Freely Associated States” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+&emsp;&emsp;The term "Freely Associated States" means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (B) Low-income level
 
-&emsp;&emsp;The term “low-income level” means $7,000 with respect to income in 1969, and for any later year means that amount that bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
+&emsp;&emsp;The term "low-income level" means $7,000 with respect to income in 1969, and for anylater year means that amount that bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
 
 #### (c) Reallotment
 
@@ -186,7 +186,7 @@ The Job Training Partnership Act, referred to in subsec. (b)(1)(A)(ii), (B)(iv)(
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(2)(A). Pub. L. 107–210 inserted “, other than under subsection (a)(4), (f), and (g)” after “national emergency grants”.
+<b>2002</b>—Subsec. (a)(2)(A). Pub. L. 107–210 inserted ", other than under subsection (a)(4), (f), and (g)" after "national emergency grants".
 
 #### Effective Date of 2002 Amendment
 
@@ -196,5 +196,5 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsections".</i>
 

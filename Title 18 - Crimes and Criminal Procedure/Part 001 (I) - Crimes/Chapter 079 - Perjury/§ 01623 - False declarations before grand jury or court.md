@@ -20,7 +20,7 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–550 inserted “(or in any declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, United States Code)” after “under oath”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–550 inserted "(or in any declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, United States Code)" after "under oath".
 

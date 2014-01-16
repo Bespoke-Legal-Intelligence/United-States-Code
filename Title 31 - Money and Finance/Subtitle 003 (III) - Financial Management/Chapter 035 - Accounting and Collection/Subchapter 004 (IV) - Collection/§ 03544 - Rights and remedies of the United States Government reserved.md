@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. §3638.
 
-The words “relating to distress warrants” and “take away or” are omitted as surplus.
+The words "relating to distress warrants" and "take away or" are omitted as surplus.
 

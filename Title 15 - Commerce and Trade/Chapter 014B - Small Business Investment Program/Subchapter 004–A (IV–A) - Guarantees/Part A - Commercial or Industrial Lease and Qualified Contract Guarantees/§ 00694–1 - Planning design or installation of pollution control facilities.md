@@ -4,11 +4,11 @@
 
 For purposes of this section, the term—
 
-&emsp;(1) “pollution control facilities” means such property (both real and personal) as the Administration in its discretion determines is likely to help prevent, reduce, abate, or control noise, air or water pollution or contamination by removing, altering, disposing or storing pollutants, contaminants, wastes, or heat, and such property (both real and personal) as the Administration determines will be used for the collection, storage, treatment, utilization, processing, or final disposal of solid or liquid waste.
+&emsp;(1) "pollution control facilities" means such property (both real and personal) as the Administration in its discretion determines is likely to help prevent, reduce, abate, or control noise, air or water pollution or contamination by removing, altering, disposing or storing pollutants, contaminants, wastes, or heat, and such property (both real and personal) as the Administration determines will be used for the collection, storage, treatment, utilization, processing, or final disposal of solid or liquid waste.
 
-&emsp;(2) “person” includes corporations, companies, associations, firms, partnerships, societies, joint stock companies, States, territories, and possessions of the United States, or subdivisions of any of the foregoing, and the District of Columbia, as well as individuals.
+&emsp;(2) "person" includes corporations, companies, associations, firms, partnerships, societies, joint stock companies, States, territories, and possessions of the United States, or subdivisions of any of the foregoing, and the District of Columbia, as well as individuals.
 
-&emsp;(3) “qualified contract” means a lease, sublease, loan agreement, installment sales contract, or similar instrument, entered into between a small business concern and any person.
+&emsp;(3) "qualified contract" means a lease, sublease, loan agreement, installment sales contract, or similar instrument, entered into between a small business concern and any person.
 
 #### (b) Financing disadvantage; guarantee of payment by Administration; restrictions and limitations
 
@@ -44,11 +44,11 @@ Any guarantee issued under this section may be assigned with the permission of t
 
 Section 693 of this title shall apply to the administration of this section.
 
-(Pub. L. 85–699, title IV, §404, as added Pub. L. 94–305, title I, §102, June 4, 1976, 90 Stat. 663; amended Pub. L. 98–473, title I, §115, Oct. 12, 1984, 98 Stat. 1967.)
+(Pub. L. 85–699, title IV, §404, as added Pub. L. 94–305, title I, §102, June 4, 1976, 90 Stat. 663;amended Pub. L. 98–473, title I, §115, Oct. 12, 1984, 98 Stat. 1967.)
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–473, §115(1), (2), substituted “shall be issued” for “may be issued” and inserted “, and the Administration is expressly prohibited from denying such guarantee due to the property being so acquired”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–473, §115(1), (2), substituted "shall be issued" for "may be issued" and inserted ", and the Administration is expressly prohibited from denying such guarantee due to the property being so acquired".
 
-Subsec. (c). Pub. L. 98–473, §115(3), substituted “be less than 1 per centum or more than 3½ per centum” for “exceed 3½ per centum”.
+Subsec. (c). Pub. L. 98–473, §115(3), substituted "be less than 1 per centum or more than 3½ per centum" for "exceed 3½ per centum".
 

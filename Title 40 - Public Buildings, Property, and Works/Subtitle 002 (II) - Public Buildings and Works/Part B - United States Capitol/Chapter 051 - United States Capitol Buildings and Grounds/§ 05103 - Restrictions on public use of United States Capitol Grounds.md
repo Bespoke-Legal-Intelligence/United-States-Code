@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 July 31, 1946, ch. 707, §2, 60 Stat. 718.
 
-The words “by flagging, paving, or otherwise” are omitted as unnecessary.
+The words "by flagging, paving, or otherwise" are omitted as unnecessary.
 

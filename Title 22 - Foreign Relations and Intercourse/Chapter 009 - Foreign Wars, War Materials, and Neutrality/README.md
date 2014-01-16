@@ -9,7 +9,7 @@
 | [406\.](Subchapter%20001%20%28I%29%20-%20War%20Materials/%C2%A7%2000406%20-%20Interference%20with%20foreign%20trade.md) | Interference with foreign trade. |
 | [407\.](Subchapter%20001%20%28I%29%20-%20War%20Materials/%C2%A7%2000407%20-%20Repealed.%20Aug.%2013%2C%201953%2C%20ch.%20434%2C%20%C2%A72%2C%2067%20Stat.%20577.md) | Repealed. |
 | [408\.](Subchapter%20001%20%28I%29%20-%20War%20Materials/%C2%A7%2000408%20-%20Use%20of%20land%20and%20naval%20forces%20to%20prevent%20exportation.md) | Use of land and naval forces to prevent exportation. |
-| [408a.](Subchapter%20001%20%28I%29%20-%20War%20Materials/%C2%A7%2000408a%20-%20%E2%80%9CUnited%20States%E2%80%9D%20defined.md) | “United States” defined. |
+| [408a.](Subchapter%20001%20%28I%29%20-%20War%20Materials/%C2%A7%2000408a%20-%20United%20States%20defined.md) | "United States" defined. |
 | 409 to 420. Repealed or Omitted. |  |
 | [421\.](Subchapter%20001%20%28I%29%20-%20War%20Materials/%C2%A7%2000421%20-%20Contracts%20by%20Government%20agencies%20for%20defense%20articles%2C%20services%2C%20etc.%2C%20for%20foreign%20governments%20in%20interests%20of%20United%20States.md) | Contracts by Government agencies for defense articles, services, etc., for foreign governments in interests of United States. |
 | [422\.](Subchapter%20001%20%28I%29%20-%20War%20Materials/%C2%A7%2000422%20-%20Retention%20for%20United%20States%20of%20defense%20articles%20procured%20for%20foreign%20governments.md) | Retention for United States of defense articles procured for foreign governments. |

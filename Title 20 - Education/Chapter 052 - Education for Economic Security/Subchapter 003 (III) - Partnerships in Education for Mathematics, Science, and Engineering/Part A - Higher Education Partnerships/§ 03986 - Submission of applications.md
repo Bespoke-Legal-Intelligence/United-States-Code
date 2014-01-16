@@ -6,9 +6,9 @@ Each applicant within a State which desires to receive a grant under this part s
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–418 substituted “part” for “subchapter”.
+<b>1988</b>—Pub. L. 100–418 substituted "part" for "subchapter".
 
-<b>1985</b>—Pub. L. 99–159 substituted “Secretary” for “Foundation”.
+<b>1985</b>—Pub. L. 99–159 substituted "Secretary" for "Foundation".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “for”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "for".</i>
 

@@ -22,13 +22,13 @@ The taxpayer with respect to whose liability the sale was conducted or who redee
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–206, §3442(a)(1), struck out “real” after “sales of” and inserted “or certificate of sale of personal property” after “deed”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–206, §3442(a)(1), struck out "real" after "sales of" and inserted "or certificate of sale of personal property" after "deed".
 
 Subsec. (c). Pub. L. 105–206, §3442(a)(2), added subsec. (c).
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3442(b), July 22, 1998, 112 Stat. 762, provided that: “The amendments made by this section \[amending this section\] shall apply to seizures occurring after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3442(b), July 22, 1998, 112 Stat. 762, provided that: "The amendments made by this section \[amending this section\] shall apply to seizures occurring after the date of the enactment of this Act \[July 22, 1998\]."
 

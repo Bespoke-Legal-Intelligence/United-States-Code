@@ -68,7 +68,7 @@ A prior section 3838e, Pub. L. 99–198, title XII, §1238E, as added Pub. L. 10
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–55 substituted “2014” for “2012”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–55 substituted "2014" for "2012".
 
-<i><sup>1</sup></i><i> So in original. The word “be” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "be" probably should not appear.</i>
 

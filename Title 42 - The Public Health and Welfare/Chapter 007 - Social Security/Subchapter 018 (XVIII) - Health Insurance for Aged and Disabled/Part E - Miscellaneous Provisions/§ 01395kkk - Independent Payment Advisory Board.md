@@ -2,15 +2,15 @@
 
 #### (a) Establishment
 
-There is established an independent board to be known as the “Independent Payment Advisory Board”.
+There is established an independent board to be known as the "Independent Payment Advisory Board".
 
 #### (b) Purpose
 
 It is the purpose of this section to, in accordance with the following provisions of this section, reduce the per capita rate of growth in Medicare spending—
 
-&emsp;(1) by requiring the Chief Actuary of the Centers for Medicare \& Medicaid Services to determine in each year to which this section applies (in this section referred to as “a determination year”) the projected per capitagrowth rate under Medicare for the second year following the determination year (in this section referred to as “an implementation year”);
+&emsp;(1) by requiring the Chief Actuary of the Centers for Medicare \& Medicaid Services to determine in each year to which this section applies (in this section referred to as "a determination year") the projected per capita growth rate under Medicare for the second year following the determination year (in this section referred to as "an implementation year");
 
-&emsp;(2) if the projection for the implementation year exceeds the target growth rate for that year, by requiring the Board to develop and submit during the first year following the determination year (in this section referred to as “a proposal year”) a proposal containing recommendations to reduce the Medicare per capita growth rate to the extent required by this section; and
+&emsp;(2) if the projection for the implementation year exceeds the target growth rate for that year, by requiring the Board to develop and submit during the first year following the determination year (in this section referred to as "a proposal year") a proposal containing recommendations to reduce the Medicare per capita growth rate to the extent required by this section; and
 
 &emsp;(3) by requiring the Secretary to implement such proposals unless Congress enacts legislation pursuant to this section.
 
@@ -56,7 +56,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;&emsp;(I) improve the health care delivery system and health outcomes, including by promoting integrated care, care coordination, prevention and wellness, and quality and efficiency improvement; and
 
-&emsp;&emsp;&emsp;&emsp;(II) protect and improve Medicare beneficiaries’ access to necessary and evidence-based items and services, including in rural and frontier areas;
+&emsp;&emsp;&emsp;&emsp;(II) protect and improve Medicare beneficiaries' access to necessary and evidence-based items and services, including in rural and frontier areas;
 
 &emsp;&emsp;&emsp;(iii) include recommendations that target reductions in Medicare program spending to sources of excess cost growth;
 
@@ -96,7 +96,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;The Board shall not submit a proposal under clause (i) in a proposal year if the year is—
 
-&emsp;&emsp;&emsp;&emsp;(I) a year for which the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year under paragraph (6)(A) that the growth rate described in clause (i) of such paragraph does not exceed the growth rate described in clause (ii) of such paragraph; or
+&emsp;&emsp;&emsp;&emsp;(I) a year for which the Chief Actuary of the Centers for Medicare \& MedicaidServices makes a determination in the determination year under paragraph (6)(A) that the growth rate described in clause (i) of such paragraph does not exceed the growth rate described in clause (ii) of such paragraph; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a year in which the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year that the projected percentage increase (if any) for the medical care expenditure category of the Consumer Price Index for All Urban Consumers (United States city average) for the implementation year is less than the projected percentage increase (if any) in the Consumer Price Index for All Urban Consumers (all items; United States city average) for such implementation year.
 
@@ -150,7 +150,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;The projection under clause (i) shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) to the extent that there is projected to be a negative update to the single conversion factor applicable to payments for physicians’ services under section 1395w–4(d) of this title furnished in the proposal year or the implementation year, assume that such update for such services is 0 percent rather than the negative percent that would otherwise apply; and
+&emsp;&emsp;&emsp;&emsp;(I) to the extent that there is projected to be a negative update to the single conversion factor applicable to payments for physicians' services under section 1395w–4(d) of this title furnished in the proposal year or the implementation year, assume that such update for such services is 0 percent rather than the negative percent that would otherwise apply; and
 
 &emsp;&emsp;&emsp;&emsp;(II) take into account any delivery system reforms or other payment changes that have been enacted or published in final rules but not yet implemented as of the making of such calculation.
 
@@ -246,7 +246,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (B) Limitation on changes to the Board recommendations in other legislation
 
-&emsp;&emsp;It shall not be in order in the Senate or the House of Representatives to consider any bill, resolution, amendment, or conference report (other than pursuant to this section) that would repeal or otherwise change the recommendations of the Board if that change would fail to satisfy the requirements of subparagraphs (A)(i) and (C) of subsection (c)(2).
+&emsp;&emsp;It shall not be in order in the Senate or the House of Representatives to consider any bill, resolution, amendment, or conference report (other than pursuant to this section) that would repeal or otherwise change therecommendations of the Board if that change would fail to satisfy the requirements of subparagraphs (A)(i) and (C) of subsection (c)(2).
 
 #### (C) Limitation on changes to this subsection
 
@@ -270,7 +270,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (i) Time limitation
 
-&emsp;&emsp;&emsp;Debate in the Senate on any amendment to a bill under this section shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 30 minutes, tobe equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or such leader's designee.
+&emsp;&emsp;&emsp;Debate in the Senate on any amendment to a bill under this section shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 30 minutes, to be equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or such leader's designee.
 
 #### (ii) Germane
 
@@ -398,7 +398,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or the President to Congress pursuant to this section if—
 
-&emsp;&emsp;&emsp;(i) prior to August 15 of the proposal year, Federal legislation is enacted that includes the following provision: “This Act supercedes the recommendations of the Board contained in the proposal submitted, in the year which includes the date of enactment of this Act, to Congress under section 1899A of the Social Security Act.”; and
+&emsp;&emsp;&emsp;(i) prior to August 15 of the proposal year, Federal legislation is enacted that includes the following provision: "This Act supercedes the recommendations of the Board contained in the proposal submitted, in the year which includes the date of enactment of this Act, to Congress under section 1899A of the Social Security Act."; and
 
 &emsp;&emsp;&emsp;(ii) in the case of implementation year 2020 and subsequent implementation years, a joint resolution described in subsection (f)(1) is enacted not later than August 15, 2017.
 
@@ -408,7 +408,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;Subject to clause (ii), the Secretary shall not implement the recommendations contained in a proposal submitted by the Board or the President to Congress pursuant to this section in a proposal year (beginning with proposal year 2019) if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Board was required to submit a proposal to Congress under this sectionin the year preceding the proposal year; and
+&emsp;&emsp;&emsp;&emsp;(I) the Board was required to submit a proposal to Congress under this section in the year preceding the proposal year; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year that the growth rate described in subsection (c)(8) exceeds the growth rate described in subsection (c)(6)(A)(i).
 
@@ -442,9 +442,9 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;(B) which does not have a preamble;
 
-&emsp;&emsp;(C) the title of which is as follows: “Joint resolution approving the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act”; and
+&emsp;&emsp;(C) the title of which is as follows: "Joint resolution approving the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act"; and
 
-&emsp;&emsp;(D) the matter after the resolving clause of which is as follows: “That Congress approves the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act.”.
+&emsp;&emsp;(D) the matter after the resolving clause of which is as follows: "That Congress approves the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act.".
 
 #### (2) Procedure
 
@@ -460,7 +460,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the Senate, when the committee to which a joint resolution is referred has reported, or when a committee is discharged (under subparagraph (C)) from further consideration of a joint resolution described in paragraph (1), it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) for a motion to proceed to the consideration of the joint resolution to be made, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived, except for points of order under the Congressional Budget act <sup>6</sup> of 1974 or under budget resolutions pursuant to that Act. The motion is not debatable. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution is agreed to, the joint resolution shall remain the unfinished business of the Senate until disposed of.
+&emsp;&emsp;&emsp;In the Senate, when the committee to which a joint resolution is referred has reported, or when a committee is discharged (under subparagraph (C)) from further consideration of a joint resolution describedin paragraph (1), it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) for a motion to proceed to the consideration of the joint resolution to be made, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived, except for points of order under the Congressional Budget act <sup>6</sup> of 1974 or under budget resolutions pursuant to that Act. The motion is not debatable. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution is agreed to, the joint resolution shall remain the unfinished business of the Senate until disposed of.
 
 #### (ii) Debate limitation
 
@@ -528,7 +528,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (ii) Inclusion
 
-&emsp;&emsp;&emsp;The appointed membership of the Board shall include (but not be limited to) physicians and other health professionals, experts in the area of pharmaco-economics or prescription drug benefit programs, employers, third-party payers, individuals skilled in the conduct and interpretation of biomedical, health services, and health economics research and expertise in outcomes and effectiveness research and technology assessment. Such membership shall also include representatives of consumers and the elderly.
+&emsp;&emsp;&emsp;The appointed membership of the Board shall include (but not be limited to) physicians and other health professionals, experts in the area of pharmaco-economics or prescription drug benefit programs, employers, third-party payers, individuals skilled in the conduct and interpretation of biomedical, health services, and health economics research and expertise in outcomes and effectiveness research and technology assessment. Such membership shallalso include representatives of consumers and the elderly.
 
 #### (iii) Majority nonproviders
 
@@ -650,7 +650,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (2) Travel expenses
 
-&emsp;The appointed members shall be allowed travel expenses, including per diem in lieu ofsubsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Board.
+&emsp;The appointed members shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Board.
 
 #### (3) Staff
 
@@ -708,19 +708,19 @@ In this section:
 
 #### (1) Board; Chairperson; Member
 
-&emsp;The terms “Board”, “Chairperson”, and “Member” mean the Independent Payment Advisory Board established under subsection (a) and the Chairperson and any Member thereof, respectively.
+&emsp;The terms "Board", "Chairperson", and "Member" mean the Independent Payment Advisory Board established under subsection (a) and the Chairperson and any Member thereof, respectively.
 
 #### (2) Medicare
 
-&emsp;The term “Medicare” means the program established under this subchapter, including parts A, B, C, and D.
+&emsp;The term "Medicare" means the program established under this subchapter, including parts A, B, C, and D.
 
 #### (3) Medicare beneficiary
 
-&emsp;The term “Medicare beneficiary” means an individual who is entitled to, or enrolled for, benefits under part A or enrolled for benefits under part B.
+&emsp;The term "Medicare beneficiary" means an individual who is entitled to, or enrolled for, benefits under part A or enrolled for benefits under part B.
 
 #### (4) Medicare program spending
 
-&emsp;The term “Medicare program spending” means program spending under parts A, B, and D net of premiums.
+&emsp;The term "Medicare program spending" means program spending under parts A, B, and D net of premiums.
 
 #### (m) Funding
 
@@ -802,55 +802,55 @@ The Federal Advisory Committee Act, referred to in subsec. (k)(6), is Pub. L. 92
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(1)(B). Pub. L. 111–148, §10320(a)(1)(A), inserted at end “In any year (beginning with 2014) that the Board is not required to submit a proposal under this section, the Board shall submit to Congress an advisory report on matters related to the Medicare program.”
+<b>2010</b>—Subsec. (c)(1)(B). Pub. L. 111–148, §10320(a)(1)(A), inserted at end "In any year (beginning with 2014) that the Board is not required to submit a proposal under this section, the Board shall submit to Congress an advisory report on matters related to the Medicare program."
 
-Subsec. (c)(2)(A)(iv). Pub. L. 111–148, §10320(a)(1)(B)(i), inserted “or the full premium subsidy under section 1395w–114(a) of this title” before period at end of the last sentence.
+Subsec. (c)(2)(A)(iv). Pub. L. 111–148, §10320(a)(1)(B)(i), inserted "or the full premium subsidy under section 1395w–114(a) of this title" before period at end of the last sentence.
 
 Subsec. (c)(2)(A)(vii). Pub. L. 111–148, §10320(a)(1)(B)(ii), added cl. (vii).
 
 Subsec. (c)(2)(B)(vii). Pub. L. 111–148, §10320(a)(1)(C), added cl. (vii).
 
-Subsec. (c)(3). Pub. L. 111–148, §10320(a)(1)(D)(i), substituted “Submission of Board proposal to Congress and the President” for “Transmission of Board proposal to President” in heading.
+Subsec. (c)(3). Pub. L. 111–148, §10320(a)(1)(D)(i), substituted "Submission of Board proposal to Congress and the President" for "Transmission of Board proposal to President" in heading.
 
-Subsec. (c)(3)(A)(i). Pub. L. 111–148, §10320(a)(1)(D)(ii), substituted “submit a proposal under this section to Congress and the President” for “transmit a proposal under this section to the President”.
+Subsec. (c)(3)(A)(i). Pub. L. 111–148, §10320(a)(1)(D)(ii), substituted "submit a proposal under this section to Congress and the President" for "transmit a proposal under this section to the President".
 
-Subsec. (c)(3)(A)(ii). Pub. L. 111–148, §10320(a)(1)(D)(iii), inserted “or” at end of subcl. (I), substituted a period for “; or” at end of subcl. (II), and struck out subcl. (III), which read as follows: “for proposal year 2019 and subsequent proposal years, a year in which the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year that the growth rate described in paragraph (8) exceeds the growth rate described in paragraph (6)(A)(i).”
+Subsec. (c)(3)(A)(ii). Pub. L. 111–148, §10320(a)(1)(D)(iii), inserted "or" at end of subcl. (I), substituted a period for "; or" at end of subcl. (II), and struck out subcl. (III), which read as follows: "for proposal year 2019 and subsequent proposal years, a year in which the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year that the growth rate described in paragraph (8) exceeds the growth rate described in paragraph (6)(A)(i)."
 
-Subsec. (c)(4). Pub. L. 111–148, §10320(a)(1)(E), struck out “the Board under paragraph (3)(A)(i) or” before “the Secretary” and substituted “within 2 days” for “immediately”.
+Subsec. (c)(4). Pub. L. 111–148, §10320(a)(1)(E), struck out "the Board under paragraph (3)(A)(i) or" before "the Secretary" and substituted "within 2 days" for "immediately".
 
-Subsec. (c)(5). Pub. L. 111–148, §10320(a)(1)(F), in introductory provisions, substituted “but” for “to but” and inserted “Congress and” after “submit a proposal to”.
+Subsec. (c)(5). Pub. L. 111–148, §10320(a)(1)(F), in introductory provisions, substituted "but" for "to but" and inserted "Congress and" after "submit a proposal to".
 
-Subsec. (c)(6)(B)(i). Pub. L. 111–148, §10320(a)(1)(G), substituted “(calculated as the sum of per capita spending under each of parts A, B, and D)” for “per unduplicated enrollee”.
+Subsec. (c)(6)(B)(i). Pub. L. 111–148, §10320(a)(1)(G), substituted "(calculated as the sum of per capita spending under each of parts A, B, and D)" for "per unduplicated enrollee".
 
-Subsec. (d)(1)(A). Pub. L. 111–148, §10320(a)(2)(A), inserted “the Board or” after “a proposal is submitted by” and “subsection (c)(3)(A)(i) or” after “the Senate under”.
+Subsec. (d)(1)(A). Pub. L. 111–148, §10320(a)(2)(A), inserted "the Board or" after "a proposal is submitted by" and "subsection (c)(3)(A)(i) or" after "the Senate under".
 
-Subsec. (d)(2)(A). Pub. L. 111–148, §10320(a)(2)(B), inserted “the Board or” after “a proposal is submitted by”.
+Subsec. (d)(2)(A). Pub. L. 111–148, §10320(a)(2)(B), inserted "the Board or" after "a proposal is submitted by".
 
-Subsec. (e)(1). Pub. L. 111–148, §10320(a)(3)(A), inserted “the Board or” after “a proposal submitted by”.
+Subsec. (e)(1). Pub. L. 111–148, §10320(a)(3)(A), inserted "the Board or" after "a proposal submitted by".
 
-Subsec. (e)(3). Pub. L. 111–148, §10320(a)(3)(B), substituted “Exceptions” for “Exception” in par. heading, designated existing provisions as subpar. (A) and inserted heading, substituted “The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or” for “The Secretary shall not be required to implement the recommendations contained in a proposal submitted in a proposal year by”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+Subsec. (e)(3). Pub. L. 111–148, §10320(a)(3)(B), substituted "Exceptions" for "Exception" in par. heading, designated existing provisions as subpar. (A) and inserted heading, substituted "The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or" for "The Secretary shall not be required to implement the recommendations contained in a proposal submitted in a proposal year by", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
 
-Subsec. (f)(3)(B). Pub. L. 111–148, §10320(a)(4), substituted “, advisory reports, or advisory recommendations” for “or advisory reports to Congress” and inserted “or produce the public report under subsection (n)” after “this section”.
+Subsec. (f)(3)(B). Pub. L. 111–148, §10320(a)(4), substituted ", advisory reports, or advisory recommendations" for "or advisory reports to Congress" and inserted "or produce the public report under subsection (n)" after "this section".
 
 Subsecs. (n), (o). Pub. L. 111–148, §10320(a)(5), added subsecs. (n) and (o).
 
 #### Change of Name
 
-Pub. L. 111–148, title X, §10320(b), Mar. 23, 2010, 124 Stat. 952, provided that: “Any reference in the provisions of, or amendments made by, section 3403 \[enacting this section and section 1395kkk–1 of this title and amending section 1395b–6 of this title and section 207 of Title 18, Crimes and Criminal Procedure\] to the ‘Independent Medicare Advisory Board’ shall be deemed to be a reference to the ‘Independent Payment Advisory Board’.”
+Pub. L. 111–148, title X, §10320(b), Mar. 23, 2010, 124 Stat. 952, provided that: "Any reference in the provisions of, or amendments made by, section 3403 \[enacting this section and section 1395kkk–1 of this title and amending section 1395b–6 of this title and section 207 of Title 18, Crimes and Criminal Procedure\] to the 'Independent Medicare Advisory Board' shall be deemed to be a reference to the 'Independent Payment Advisory Board'."
 
 #### Construction
 
-Pub. L. 111–148, title X, §10320(c), Mar. 23, 2010, 124 Stat. 952, provided that: “Nothing in the amendments made by this section \[amending this section\] shall preclude the Independent Medicare Advisory Board \[now Independent Payment Advisory Board\], as established under section 1899A of the Social Security Act (as added by section 3403) \[42 U.S.C. 1395kkk\], from solely using data from public or private sources to carry out the amendments made by subsection (a)(4).”
+Pub. L. 111–148, title X, §10320(c), Mar. 23, 2010, 124 Stat. 952, provided that: "Nothing in the amendments made by this section \[amending this section\] shall preclude the Independent Medicare Advisory Board \[now Independent Payment Advisory Board\], as established under section 1899A of the Social Security Act (as added by section 3403) \[42 U.S.C. 1395kkk\], from solely using data from public or private sources to carry out the amendments made by subsection (a)(4)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraphs".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be preceded by "section".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be preceded by “a”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be preceded by "a".</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “Clauses”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "Clauses".</i>
 
 <i><sup>6</sup></i><i> So in original. Probably should be capitalized.</i>
 

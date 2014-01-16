@@ -4,7 +4,7 @@
 
 (b) A Comptroller General making an election under section 773 of this title who is separated from office before becoming entitled to an annuity under section 772 of this title is entitled to a lump-sum refund of the amount deducted under section 773 of this title, plus 4 percent interest before January 1, 1948, and 3 percent interest after December 31, 1947, compounded every December 31 until the separation date.
 
-(c) A lump-sum refund of the amounts deducted under sections 772 and 773 of this title, plus interest of 4 percent before January 1, 1948,and 3 percent after December 31, 1947, compounded every December 31 until the date of death, shall be paid under subsection (d) of this section if—
+(c) A lump-sum refund of the amounts deducted under sections 772 and 773 of this title, plus interest of 4 percent before January 1, 1948, and 3 percent after December 31, 1947, compounded every December 31 until the date of death, shall be paid under subsection (d) of this section if—
 
 &emsp;(1) a Comptroller General dies in office before completing 5 years of civilian service under section 774 of this title or after completing 5 years of civilian service but without a survivor entitled to an annuity under section 774(b) and (c) of this title; or
 
@@ -62,21 +62,21 @@ June 10, 1921, ch. 18, 42 Stat. 20, §319(i), (j)(less last 13 words before colo
 
 31:43b(k).
 
-In subsections (a) and (b), the word “total” is omitted as surplus.
+In subsections (a) and (b), the word "total" is omitted as surplus.
 
-In subsection (a), the word “pay” is substituted for “salary” for consistency in the revised title and with other titles of the United States Code. The words “by him” and “to his annuity” are omitted as surplus.
+In subsection (a), the word "pay" is substituted for "salary" for consistency in the revised title and with other titles of the United States Code. The words "by him" and "to his annuity" are omitted as surplus.
 
-In subsection (b), the words “who has elected to bring himself within the purview of” are omitted as surplus. The word “annuity” is substituted for “retirement pay” for consistency in the revised title and with other titles of the Code.
+In subsection (b), the words "who has elected to bring himself within the purview of" are omitted as surplus. The word "annuity" is substituted for "retirement pay" for consistency in the revised title and with other titles of the Code.
 
-In subsection (c), before clause (1), the words “A lump-sum refund of the amounts deducted under sections 772 and 773 of this title” are substituted for “total amount deducted from his salary and retirement pay” for clarity. The words “under subsection (d) of this section” are added because of the restatement. The words “to the person or persons surviving at the date title to payment arises” are omitted as surplus.
+In subsection (c), before clause (1), the words "A lump-sum refund of the amounts deducted under sections 772 and 773 of this title" are substituted for "total amount deducted from his salary and retirement pay" for clarity. The words "under subsection (d) of this section" are added because of the restatement. The words "to the person or persons surviving at the date title to payment arises" are omitted as surplus.
 
-In subsection (d), the words before clause (1) are included for clarity. In clauses (2)–(4) and (6), the words “of such Comptroller General or retired Comptroller General” are omitted as surplus. In clause (5), the words “duly appointed” are omitted as surplus.
+In subsection (d), the words before clause (1) are included for clarity. In clauses (2)–(4) and (6), the words "of such Comptroller General or retired Comptroller General" are omitted as surplus. In clause (5), the words "duly appointed" are omitted as surplus.
 
-In subsection (e), the words “of a Comptroller General or retired Comptroller General” are omitted as surplus. The words “is not subject to” are substituted for “shall be made . . . without regard to the definitions of these terms in” to eliminate unnecessary words.
+In subsection (e), the words "of a Comptroller General or retired Comptroller General" are omitted as surplus. The words "is not subject to" are substituted for "shall be made . . . without regard to the definitions of these terms in" to eliminate unnecessary words.
 
-In subsection (f), the word “individuals” is substituted for “persons” for consistency. The word “aggregate” is omitted as surplus. The words “under sections 772 and 773 of this title” are substituted for “total . . . from the salary and retirement pay of a Comptroller General or retired Comptroller General” for clarity and consistency. The word “under” is substituted for “in the order of precedence prescribed in” to eliminate unnecessary words.
+In subsection (f), the word "individuals" is substituted for "persons" for consistency. The word "aggregate" is omitted as surplus. The words "under sections 772 and 773 of this title" are substituted for "total . . . from the salary and retirement pay of a Comptroller General or retired Comptroller General" for clarity and consistency. The word "under" is substituted for "in the order of precedence prescribed in" to eliminate unnecessary words.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (d)(1), (6). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (d)(1), (6). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 

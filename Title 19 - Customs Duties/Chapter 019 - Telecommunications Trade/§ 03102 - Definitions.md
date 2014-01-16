@@ -2,9 +2,9 @@
 
 For purposes of this chapter—
 
-&emsp;(1) The term “Trade Representative” means the United States Trade Representative.
+&emsp;(1) The term "Trade Representative" means the United States Trade Representative.
 
-&emsp;(2) The term “telecommunications product” means—
+&emsp;(2) The term "telecommunications product" means—
 
 &emsp;&emsp;(A) any paging devices provided for under item 685.65 of such Schedules, and
 

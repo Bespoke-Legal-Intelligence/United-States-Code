@@ -2,7 +2,7 @@
 
 #### (a) Purchase of materials of domestic origin; processing of materials in domestic facilities
 
-Subject to subsection (c) of this section and to the extent the President determines such action is required for the national defense, the President shall encourage the development of domestic sources for materials determined pursuant to section 98b(a) of this title to be strategic and critical materials—
+Subject to subsection (c) of this section and to the extent the President determines such action is required for the national defense, the President shall encourage the development and appropriate conservation of domestic sources for materials determined pursuant to section 98b(a) of this title to be strategic and critical materials—
 
 &emsp;(1) by purchasing, or making a commitment to purchase, strategic and critical materials of domestic origin when such materials are needed for the stockpile; and
 
@@ -14,7 +14,7 @@ A contract or commitment made under subsection (a) of this section may not excee
 
 #### (c) Proposed transactions included in annual materials plan; availability of funds
 
-(1) Descriptions of proposed transactions under subsection (a) of this section shall be included in the appropriate annual materials plan submitted to Congress under section 98h–2(b) of this title. Changes to any such transaction, or the addition of a transaction not included in such plan, shall be made in the manner provided by section 98d(a)(2) of this title.
+(1) Descriptions of proposed transactions under subsection (a) of this section shall be included in the appropriate annual materials plan submitted to Congress under section 98h–2(b) of this title. Changes to any such transaction, or the addition of a transaction not included insuch plan, shall be made in the manner provided by section 98d(a)(2) of this title.
 
 (2) The authority of the President to enter into obligations under this section is effective for any fiscal year only to the extent that funds in the National Defense Stockpile Transaction Fund are adequate to meet such obligations. Payments required to be as a result of obligations incurred under this section shall be made from amounts in the fund.
 
@@ -30,5 +30,9 @@ The authority of the President under subsection (a) of this section includes the
 
 The President shall include in the reports required under section 98h–2(a) of this title information with respect to activities conducted under this section.
 
-(June 7, 1939, ch. 190, §15, as added Pub. L. 101–189, div. C, title XXXIII, §3312(a), Nov. 29, 1989, 103 Stat. 1687.)
+(June 7, 1939, ch. 190, §15, as added Pub. L. 101–189, div. C, title XXXIII, §3312(a), Nov. 29, 1989, 103 Stat. 1687; amended Pub. L. 113–66, div. A, title XIV, §1411(c), Dec. 26, 2013, 127 Stat. 934.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 113–66 inserted "and appropriate conservation" after "development" in introductory provisions.
 

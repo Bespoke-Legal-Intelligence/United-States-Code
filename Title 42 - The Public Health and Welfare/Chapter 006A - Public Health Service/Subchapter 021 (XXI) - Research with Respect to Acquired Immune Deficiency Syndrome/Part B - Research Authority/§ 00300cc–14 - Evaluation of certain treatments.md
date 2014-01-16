@@ -44,5 +44,5 @@ A prior section 300cc–14, act July 1, 1944, §2315, was successively renumbere
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–43 substituted “AIDS Research Advisory Committee” for “Clinical Research Review Committee” in introductory provisions.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–43 substituted "AIDS Research Advisory Committee" for "Clinical Research Review Committee" in introductory provisions.
 

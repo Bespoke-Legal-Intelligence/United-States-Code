@@ -2,7 +2,7 @@
 
 #### (a) Grades of commissioned officers
 
-The Surgeon General, during the period of his appointment as such, shall be of the same grade as the Surgeon General of the Army; the Deputy Surgeon General and the Chief Medical Officer of the United States Coast Guard, while assigned as such, shall have the grade corresponding with the grade of major general; and the Chief Dental Officer, while assigned as such, shall have the grade as is prescribed by law for the officer ofthe Dental Corps selected and appointed as Assistant Surgeon General of the Army. During the period of appointment to the position of Assistant Secretary for Health, a commissioned officer of the Public Health Service shall have the grade corresponding to the grade of General of the Army. Assistant Surgeons General, while assigned as such, shall have the grade corresponding with either the grade of brigadier general or the grade of major general, as may be determined by the Secretary after considering the importance of the duties to be performed: <i>Provided</i>, That the number of Assistant Surgeons General having a grade higher than that corresponding to the grade of brigadier general shall at no time exceed one-half of the number of positions created by subsection (b) of section 206 of this title or pursuant to subsection (c) of section 206 of this title. The grades of commissioned officers of the Service shall correspond with grades of officers of the Army as follows:
+The Surgeon General, during the period of his appointment as such, shall be of the same grade as the Surgeon General of the Army; the Deputy Surgeon General and the Chief Medical Officer of the United States Coast Guard, while assigned as such, shall have the grade corresponding with the grade of major general; and the Chief Dental Officer, while assigned as such, shall have the grade as is prescribed by law for the officer of the Dental Corps selected and appointed as Assistant Surgeon General of the Army. During the period of appointment to the position of Assistant Secretary for Health, a commissioned officer of the Public Health Service shall have the grade corresponding to the grade of General of the Army. Assistant Surgeons General, while assigned as such, shall have the grade corresponding with either the grade of brigadier general or the grade of major general, as may be determined by the Secretary after considering the importance of the duties to be performed: <i>Provided</i>, That the number of Assistant Surgeons General having a grade higher than that corresponding to the grade of brigadier general shall at no time exceed one-half of the number of positions created by subsection (b) of section 206 of this title or pursuant to subsection (c) of section 206 of this title. The grades of commissioned officers of the Service shall correspond with grades of officers of the Army as follows:
 
 &emsp;(1) Officers of the director grade—colonel;
 
@@ -26,7 +26,7 @@ The Surgeon General, during the period of his appointment as such, shall be of t
 
 #### (b) Titles of medical officers
 
-The titles of medical officers of the foregoing grades shall be respectively (1) medical director, (2) senior surgeon, (3) surgeon, (4) senior assistant surgeon, (5) assistant surgeon, and (6) junior assistant surgeon. The President is authorized to prescribe titles, appropriate to the several grades, for commissioned officers of the Service other than medical officers. All titles of the officers of the Reserve Corps shall have the suffix “Reserve”.
+The titles of medical officers of the foregoing grades shall be respectively (1) medical director, (2) senior surgeon, (3) surgeon, (4) senior assistant surgeon, (5) assistant surgeon, and (6) junior assistant surgeon. The President is authorized to prescribe titles, appropriate to the several grades, for commissioned officers of the Service other than medical officers. All titles of the officers of the Reserve Corps shall have the suffix "Reserve".
 
 #### (c) Repealed. Pub. L. 96–76, title III, §304(b), Sept. 29, 1979, 93 Stat. 584
 
@@ -48,9 +48,9 @@ In computing the maximum number of commissioned officers of the Public Health Se
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–201 added subsec. (f).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–502 inserted after first sentence “During the period of appointment to the position of Assistant Secretary for Health, a commissioned officer of the Public Health Service shall have the grade corresponding to the grade of General of the Army.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–502 inserted after first sentence "During the period of appointment to the position of Assistant Secretary for Health, a commissioned officer of the Public Health Service shall have the grade corresponding to the grade of General of the Army."
 
-<b>1989</b>—Subsec. (e). Pub. L. 101–93, which directed the substitution of “the Department of Defense” for “the office of Assistant Secretary of Defense for Health Affairs”, was executed by making the substitution for “the office of the Assistant Secretary of Defense for Health Affairs” as the probable intent of Congress.
+<b>1989</b>—Subsec. (e). Pub. L. 101–93, which directed the substitution of "the Department of Defense" for "the office of Assistant Secretary of Defense for Health Affairs", was executed by making the substitution for "the office of the Assistant Secretary of Defense for Health Affairs" as the probable intent of Congress.
 
 <b>1985</b>—Subsec. (e). Pub. L. 99–117 added subsec. (e).
 
@@ -58,9 +58,9 @@ In computing the maximum number of commissioned officers of the Public Health Se
 
 Subsec. (c). Pub. L. 96–76, §304(b), struck out subsec. (c) setting forth the grade and pay and allowances as director for a commissioned officer below the grade of director assigned to serve as chief of a division.
 
-Subsec. (d). Pub. L. 96–76, §304(c), substituted “warrant officer (W–1)” for “junior assistant”.
+Subsec. (d). Pub. L. 96–76, §304(c), substituted "warrant officer (W–1)" for "junior assistant".
 
-<b>1977</b>—Subsec. (b)(6). Pub. L. 95–215 substituted “junior assistant” for “senior assistant”.
+<b>1977</b>—Subsec. (b)(6). Pub. L. 95–215 substituted "junior assistant" for "senior assistant".
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–649 struck out provisions which related to pay and allowances.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Office of Surgeon General, together with office held by Deputy Surgeon General, abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General, together with office held by Deputy Surgeon General, abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 

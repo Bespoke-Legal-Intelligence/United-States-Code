@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—No funds appropriated to the Secretary for the National Highway Traffic Safety Administration shall be available for anyactivity specifically designed to urge a State or local legislator to favor or oppose the adoption of any specific legislative proposal pending before any State or local legislative body.
+In General.—No funds appropriated to the Secretary for the National Highway Traffic Safety Administration shall be available for any activity specifically designed to urge a State or local legislator to favor or oppose the adoption of any specific legislative proposal pending before any State or local legislative body.
 
 (b)
 
@@ -12,7 +12,7 @@ Appearance as Witness Not Barred.—Subsection (a) does not prohibit officers or
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–178, §7104(c), as added by Pub. L. 105–206, inserted “for the National Highway Traffic Safety Administration” after “Secretary”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §7104(c), as added by Pub. L. 105–206, inserted "for the National Highway Traffic Safety Administration" after "Secretary".
 
 #### Effective Date of 1998 Amendment
 

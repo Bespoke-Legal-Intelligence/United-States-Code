@@ -10,7 +10,7 @@ Pub. L. 104–201, §1416(c)(2)(A), which directed amendment of the chapter 133B
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–56 substituted “2332a of this title” for “2332c of this title” and struck out “chemical” before “weapon of”.
+<b>2001</b>—Pub. L. 107–56 substituted "2332a of this title" for "2332c of this title" and struck out "chemical" before "weapon of".
 
 <b>1996</b>—Pub. L. 104–294 renumbered section 2332d of this title, relating to requests for military assistance to enforce prohibition in certain emergencies, as this section.
 

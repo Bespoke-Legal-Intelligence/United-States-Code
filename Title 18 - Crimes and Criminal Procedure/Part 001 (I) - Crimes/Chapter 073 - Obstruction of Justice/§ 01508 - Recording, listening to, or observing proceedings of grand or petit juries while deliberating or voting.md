@@ -14,7 +14,7 @@ Nothing in paragraph (a) of this section shall be construed to prohibit the taki
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–294 realigned margins for provisions beginning “shall be fined” and ending “one year, or both.”
+<b>1996</b>—Pub. L. 104–294 realigned margins for provisions beginning "shall be fined" and ending "one year, or both."
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in par. following par. (b).
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" in par. following par. (b).
 

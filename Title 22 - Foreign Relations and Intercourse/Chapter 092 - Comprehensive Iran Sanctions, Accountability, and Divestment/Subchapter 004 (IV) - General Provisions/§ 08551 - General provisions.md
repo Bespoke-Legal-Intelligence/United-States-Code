@@ -48,15 +48,19 @@ This Act, referred to in subsecs. (a) and (c)(1), is Pub. L. 111–195, July 1, 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 substituted “105B(a), or 105C(a)” for “or 105B(a)” and “105B(b), or 105C(b)” for “or 105B(b)”.
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 substituted "105B(a), or 105C(a)" for "or 105B(a)" and "105B(b), or 105C(b)" for "or 105B(b)".
 
-<b>2012</b>—Subsec. (a)(2). Pub. L. 112–158, §605(b), inserted “, and verifiably dismantled its,” after “development of”.
+<b>2012</b>—Subsec. (a)(2). Pub. L. 112–158, §605(b), inserted ", and verifiably dismantled its," after "development of".
 
-Subsec. (b)(1). Pub. L. 112–158, §403(d), inserted “, 105A(a), or 105B(a)” after “105(a)” and “, 105A(b), or 105B(b)” after “105(b)”.
+Subsec. (b)(1). Pub. L. 112–158, §403(d), inserted ", 105A(a), or 105B(a)" after "105(a)" and ", 105A(b), or 105B(b)" after "105(b)".
 
 #### Delegation of Functions
 
 Ex. Ord. No. 13553, §§5–7, Sept. 28, 2010, 77 Stat. 60568, 60569, authorized the Secretary of the Treasury, in consultation with the Secretary of State, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to impose or maintain sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) under section 8514(a) of this title; authorized the Secretary of State, in consultation with the Secretary of Homeland Security on certain admissibility matters, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to impose or maintain visa sanctions under section 8514(a) of this title; and authorized the Secretary of State, in consultation with the Secretary of the Treasury, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to include a person on the list required by section 8514(b) of this title.
 
-For other delegation of functions of President under this section, see Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under section 8501 of this title.
+Other delegations of functions vested in the President by this section were contained in the following:
+
+Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
+
+Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under section 8501 of this title.
 

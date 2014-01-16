@@ -112,7 +112,7 @@ The date of enactment of the Vision 100—Century of Aviation Reauthorization Ac
 
 <b>2003</b>—Pub. L. 108–176 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development of detailed guidance for a scheduled passenger air carrier flight and cabin crew training program to prepare crew members for potential threat conditions.
 
-<b>2002</b>—Subsec. (e). Pub. L. 107–296 designated existing provisions as par. (1), inserted heading, substituted “The Under Secretary” for “The Administrator”, added pars. (2) and (3), and realigned margins.
+<b>2002</b>—Subsec. (e). Pub. L. 107–296 designated existing provisions as par. (1), inserted heading, substituted "The Under Secretary" for "The Administrator", added pars. (2) and (3), and realigned margins.
 
 #### Effective Date of 2003 Amendment
 

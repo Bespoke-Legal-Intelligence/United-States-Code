@@ -6,11 +6,11 @@ An appropriation of $120,000 annually is authorized, $60,000 of which shall be f
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–77 substituted “$120,000” for “$80,000” and substituted “$60,000” for “$40,000” in two places.
+<b>2001</b>—Pub. L. 107–77 substituted "$120,000" for "$80,000" and substituted "$60,000" for "$40,000" in two places.
 
-<b>1994</b>—Pub. L. 103–236 substituted “$80,000” for “$100,000” and substituted “$40,000” for “$50,000” in two places.
+<b>1994</b>—Pub. L. 103–236 substituted "$80,000" for "$100,000" and substituted "$40,000" for "$50,000" in two places.
 
-<b>1990</b>—Pub. L. 101–515 substituted “$100,000” for “$50,000” and “$50,000” for “$25,000” in two places.
+<b>1990</b>—Pub. L. 101–515 substituted "$100,000" for "$50,000" and "$50,000" for "$25,000" in two places.
 
 <b>1976</b>—Pub. L. 94–350 increased annual appropriations authorization to $50,000 from $30,000 and amount for the House and Senate delegations to $25,000 from $15,000.
 

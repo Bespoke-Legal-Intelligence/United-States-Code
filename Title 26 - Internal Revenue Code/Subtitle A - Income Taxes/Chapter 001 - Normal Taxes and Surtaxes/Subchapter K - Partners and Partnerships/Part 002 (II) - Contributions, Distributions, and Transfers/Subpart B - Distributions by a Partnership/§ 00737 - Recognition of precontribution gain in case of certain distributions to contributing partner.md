@@ -12,7 +12,7 @@ In the case of any distribution by a partnership to a partner, such partner shal
 
 #### (b) Net precontribution gain
 
-For purposes of this section, the term “net precontribution gain” means the net gain (if any) which would have been recognized by the distributee partner under section 704(c)(1)(B) if all property which—
+For purposes of this section, the term "net precontribution gain" means the net gain (if any) which would have been recognized by the distributee partner under section 704(c)(1)(B) if all property which—
 
 &emsp;(1) had been contributed to the partnership by the distributee partner within 7 years of the distribution, and
 
@@ -48,11 +48,11 @@ For purposes of this section, the term “net precontribution gain” means the 
 
 #### Amendments
 
-<b>1997</b>—Subsec. (b)(1). Pub. L. 105–34 substituted “7 years” for “5 years”.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–34 substituted "7 years" for "5 years".
 
-<b>1996</b>—Pub. L. 104–188 provided that section 1937(a) of Pub. L. 102–486, shall be applied as if “Subpart B” appeared instead of “Subpart C”. Section 1937(a) of Pub. L. 102–486 directed amendment of subpart C of this part by adding this section at the end thereof.
+<b>1996</b>—Pub. L. 104–188 provided that section 1937(a) of Pub. L. 102–486, shall be applied as if "Subpart B" appeared instead of "Subpart C". Section 1937(a) of Pub. L. 102–486 directed amendment of subpart C of this part by adding this section at the end thereof.
 
-<b>1994</b>—Subsec. (c)(1). Pub. L. 103–465, §741(b)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “Except for purposes of determining the amount recognized under subsection (a), such increase shall be treated as occurring immediately before the distribution.”
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–465, §741(b)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: "Except for purposes of determining the amount recognized under subsection (a), such increase shall be treated as occurring immediately before the distribution."
 
 Subsec. (e). Pub. L. 103–465, §741(b)(2), added subsec. (e).
 

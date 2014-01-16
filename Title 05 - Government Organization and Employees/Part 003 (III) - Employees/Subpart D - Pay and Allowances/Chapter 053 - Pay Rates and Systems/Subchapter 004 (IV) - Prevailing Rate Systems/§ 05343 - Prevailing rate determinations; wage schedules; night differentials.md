@@ -310,7 +310,7 @@ Pub. L. 92–392, §15(b), Aug. 19, 1972, 86 Stat. 575, provided that: “A wage
 
 #### Equitable Wage Adjustments for Certain Prevailing Rate Employees
 
-Pub. L. 92–298, §§1, 2, May 17, 1972, 86 Stat. 146, provided: “That this Act \[enacting this note and amending sections 60a–1 and 60a–2 of Title 2, The Congress\] may be cited as the ‘Prevailing Rate Equalization Adjustment Act of 1972’.
+Pub. L. 92–298, §§1, 2, May 17, 1972, 86 Stat. 146, provided: “That this Act \[enacting this note and amending sections 4531 and 4571 of Title 2, The Congress\] may be cited as the ‘Prevailing Rate Equalization Adjustment Act of 1972’.
 
 “
 

@@ -22,7 +22,7 @@ In addition to the powers granted elsewhere in this chapter, a China Trade Act c
 
 #### Amendments
 
-<b>1925</b>—Par. (b). Act Feb. 26, 1925, substituted “Shall” for “May”.
+<b>1925</b>—Par. (b). Act Feb. 26, 1925, substituted "Shall" for "May".
 
 #### Treaty
 

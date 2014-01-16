@@ -10,7 +10,7 @@ Gross income does not include—
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “(a) General rule” before “Gross income does not include”, struck out subsecs. (b) and (c) which related to contracts concerning public utilities made before Sept. 8, 1916, and contracts concerning bridge acquisition made before May 29, 1928, respectively, and in par. (1) of former subsec. (a), struck out “or territory” after “accruing to a State”.
+<b>1976</b>—Pub. L. 94–455 struck out "(a) General rule" before "Gross income does not include", struck out subsecs. (b) and (c) which related to contracts concerning public utilities made before Sept. 8, 1916, and contracts concerning bridge acquisition made before May 29, 1928, respectively, and in par. (1) of former subsec. (a), struck out "or territory" after "accruing to a State".
 
 #### Effective Date of 1976 Amendment
 
@@ -20,73 +20,73 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 Pub. L. 109–59, title XI, §11146, Aug. 10, 2005, 119 Stat. 1966, provided that:
 
-“(a)
+"(a)
 
 In General.—If a State owns all of the outstanding stock of a corporation—
 
-&emsp;“(1) which is a real estate investment trust on the date of the enactment of this Act \[Aug. 10, 2005\],
+&emsp;"(1) which is a real estate investment trust on the date of the enactment of this Act \[Aug. 10, 2005\],
 
-&emsp;“(2) which is a non-operating class III railroad, and
+&emsp;"(2) which is a non-operating class III railroad, and
 
-&emsp;“(3) substantially all of the activities of which consist of the ownership, leasing, and operation by such corporation of facilities, equipment, and other property used by the corporation or other persons for railroad transportation and for economic development purposes for the benefit of the State and its citizens, then, to the extent such activities are of a type which are an essential governmental function within the meaning of section 115 of the Internal Revenue Code of 1986, income derived from such activities by the corporation shall be treated as accruing to the State for purposes of section 115 of such Code.
+&emsp;"(3) substantially all of the activities of which consist of the ownership, leasing, and operation by such corporation of facilities, equipment, and other property used by the corporation or other persons for railroad transportation and for economic development purposes for the benefit of the State and its citizens, then, to the extent such activities are of a type which are an essential governmental function within the meaning of section 115 of the Internal Revenue Code of 1986, income derived from such activities by the corporation shall be treated as accruing to the State for purposes of section 115 of such Code.
 
-“(b)
+"(b)
 
 Gain or Loss not Recognized on Conversion.—Notwithstanding section 337(d) of the Internal Revenue Code of 1986—
 
-&emsp;“(1) no gain or loss shall be recognized under section 336 or 337 of such Code, and
+&emsp;"(1) no gain or loss shall be recognized under section 336 or 337 of such Code, and
 
-&emsp;“(2) no change in basis of the property of such corporation shall occur, because of any change of status of a corporation to a tax-exempt entity by reason of the application of subsection (a).
+&emsp;"(2) no change in basis of the property of such corporation shall occur, because of any change of status of a corporation to a tax-exempt entity by reason of the application of subsection (a).
 
-“(c)
+"(c)
 
 Tax-Exempt Financing.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Any obligation issued by a corporation described in subsection (a) at least 95 percent of the net proceeds (as defined in section 150(a) of the Internal Revenue Code of 1986) of which are to be used to provide for the acquisition, construction, or improvement of railroad transportation infrastructure (including railroad terminal facilities)—
 
-&emsp;&emsp;“(A) shall be treated as a State or local bond (within the meaning of section 103(c) of such Code), and
+&emsp;&emsp;"(A) shall be treated as a State or local bond (within the meaning of section 103(c) of such Code), and
 
-&emsp;&emsp;“(B) shall not be treated as a private activity bond (within the meaning of section 103(b)(1) of such Code) solely by reason of the ownership or use of such railroad transportation infrastructure by the corporation.
+&emsp;&emsp;"(B) shall not be treated as a private activity bond (within the meaning of section 103(b)(1) of such Code) solely by reason of the ownership or use of such railroad transportation infrastructure by the corporation.
 
-&emsp;“(2)
+&emsp;"(2)
 
 No inference.—Except as provided in paragraph (1), nothing in this subsection shall be construed to affect the treatment of the private use of proceeds or property financed with obligations issued by the corporation for purposes of section 103 of the Internal Revenue Code of 1986 and part IV of subchapter B \[probably means part IV of subchapter B of chapter 1\] of such Code.
 
-“(d)
+"(d)
 
 Definitions.—For purposes of this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Real estate investment trust.—The term ‘real estate investment trust’ has the meaning given such term by section 856(a) of the Internal Revenue Code of 1986.
+Real estate investment trust.—The term 'real estate investment trust' has the meaning given such term by section 856(a) of the Internal Revenue Code of 1986.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Non-operating class iii railroad.—The term ‘non-operating class III railroad’ has the meaning given such term by part A of subtitle IV of title 49, United States Code (49 U.S.C. 10101 et seq.), and the regulations thereunder.
+Non-operating class iii railroad.—The term 'non-operating class III railroad' has the meaning given such term by part A of subtitle IV of title 49, United States Code (49 U.S.C. 10101 et seq.), and the regulations thereunder.
 
-&emsp;“(3)
+&emsp;"(3)
 
-State.—The term ‘State’ includes—
+State.—The term 'State' includes—
 
-&emsp;&emsp;“(A) the District of Columbia and any possession of the United States, and
+&emsp;&emsp;"(A) the District of Columbia and any possession of the United States, and
 
-&emsp;&emsp;“(B) any authority, agency, or public corporation of a State.
+&emsp;&emsp;"(B) any authority, agency, or public corporation of a State.
 
-“(e)
+"(e)
 
 Applicability.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Except as provided in paragraph (2), this section shall apply on and after the date on which a State becomes the owner of all of the outstanding stock of a corporation described in subsection (a) through action of such corporation's board of directors.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Exception.—This section shall not apply to any State which—
 
-&emsp;&emsp;“(A) becomes the owner of all of the voting stock of a corporation described in subsection (a) after December 31, 2003, or
+&emsp;&emsp;"(A) becomes the owner of all of the voting stock of a corporation described in subsection (a) after December 31, 2003, or
 
-&emsp;&emsp;“(B) becomes the owner of all of the outstanding stock of a corporation described in subsection (a) after December 31, 2006.”
+&emsp;&emsp;"(B) becomes the owner of all of the outstanding stock of a corporation described in subsection (a) after December 31, 2006."
 

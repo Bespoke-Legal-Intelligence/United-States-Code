@@ -12,7 +12,7 @@ The Secretary shall refuse to render inspection to any establishment whose premi
 
 #### Amendments
 
-<b>1968</b>—Par. (a). Pub. L. 90–492 substituted “otherwise subject to inspection under this chapter” for “in or for marketing in a designated major consuming area”, “burdensome effect upon commerce” for “in a designated major consuming area”, and “which are adulterated” for “which are unwholesome or adulterated”.
+<b>1968</b>—Par. (a). Pub. L. 90–492 substituted "otherwise subject to inspection under this chapter" for "in or for marketing in a designated major consuming area", "burdensome effect upon commerce" for "in a designated major consuming area", and "which are adulterated" for "which are unwholesome or adulterated".
 
 #### Effective Date of 1968 Amendment
 

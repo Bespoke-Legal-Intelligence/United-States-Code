@@ -232,45 +232,45 @@ This section shall not apply with respect to any fiscal year of any insured depo
 
 #### Amendments
 
-<b>2006</b>—Subsec. (i)(3). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “affected deposit insurance fund”.
+<b>2006</b>—Subsec. (i)(3). Pub. L. 109–173 substituted "Deposit Insurance Fund" for "affected deposit insurance fund".
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(Z). See 1996 Amendment note below.
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–208, §2301(c), inserted at end “Notwithstanding the preceding sentence, the Corporation and the appropriate Federal banking agencies may designate certain information as privileged and confidential and not available to the public.”
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–208, §2301(c), inserted at end "Notwithstanding the preceding sentence, the Corporation and the appropriate Federal banking agencies may designate certain information as privileged and confidential and not available to the public."
 
-Subsec. (e). Pub. L. 104–208, §2301(a), inserted “\[Repealed\]” and struck out heading and text of subsec. (e). Text read as follows:
+Subsec. (e). Pub. L. 104–208, §2301(a), inserted "\[Repealed\]" and struck out heading and text of subsec. (e). Text read as follows:
 
-“(1)
+"(1)
 
 In general—An independent public accountant shall apply procedures agreed upon by the Corporation to objectively determine the extent of the compliance of any insured depository institution or depository institution holding company with laws and regulations designated by the Corporation, in consultation with the appropriate Federal banking agencies.
 
-“(2)
+"(2)
 
-Attestation requirements—Any attestation pursuant to paragraph (1) shall be made in accordance with generally accepted standards for attestation engagements.”
+Attestation requirements—Any attestation pursuant to paragraph (1) shall be made in accordance with generally accepted standards for attestation engagements."
 
-Subsec. (g)(1)(A). Pub. L. 104–208, §2301(b)(1), inserted “, except as provided in subparagraph (D)” after “management of the institution”.
+Subsec. (g)(1)(A). Pub. L. 104–208, §2301(b)(1), inserted ", except as provided in subparagraph (D)" after "management of the institution".
 
 Subsec. (g)(1)(D). Pub. L. 104–208, §2301(b)(2), added subpar. (D).
 
-Subsec. (i)(3). Pub. L. 104–208, §2704(d)(14)(Z), which directed substitution of “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (i)(3). Pub. L. 104–208, §2704(d)(14)(Z), which directed substitution of "Deposit Insurance Fund" for "affected deposit insurance fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 <b>1994</b>—Subsec. (g)(2)(D). Pub. L. 103–325, §314(b), added subpar. (D).
 
-Subsec. (i). Pub. L. 103–325, §314(a), inserted par. (1) designation and heading before “Except with respect to”, redesignated former par. (1) as subpar. (A) of par. (1), added subpar. (B) of par. (1) and pars. (2) and (3), and struck out former par. (2) which read as follows: “either—
+Subsec. (i). Pub. L. 103–325, §314(a), inserted par. (1) designation and heading before "Except with respect to", redesignated former par. (1) as subpar. (A) of par. (1), added subpar. (B) of par. (1) and pars. (2) and (3), and struck out former par. (2) which read as follows: "either—
 
-&emsp;“(A) the institution has total assets, as of the beginning of such fiscal year, of less than $5,000,000,000; or
+&emsp;"(A) the institution has total assets, as of the beginning of such fiscal year, of less than $5,000,000,000; or
 
-&emsp;“(B) the institution—
+&emsp;"(B) the institution—
 
-&emsp;&emsp;“(i) has total assets, as of the beginning of such fiscal year, of more than $5,000,000,000 and less than $9,000,000,000; and
+&emsp;&emsp;"(i) has total assets, as of the beginning of such fiscal year, of more than $5,000,000,000 and less than $9,000,000,000; and
 
-&emsp;&emsp;“(ii) has a CAMEL composite rating of 1 or 2 under the Uniform Financial Institutions Rating System (or an equivalent rating by any such agency under a comparable rating system) as of the most recent examination of such institution by the Corporation or the appropriate Federal banking agency.”
+&emsp;&emsp;"(ii) has a CAMEL composite rating of 1 or 2 under the Uniform Financial Institutions Rating System (or an equivalent rating by any such agency under a comparable rating system) as of the most recent examination of such institution by the Corporation or the appropriate Federal banking agency."
 
-<b>1992</b>—Subsec. (b)(2)(A)(iii). Pub. L. 102–550, §1603(b)(3)(A), substituted “Corporation and” for “Corporation or”.
+<b>1992</b>—Subsec. (b)(2)(A)(iii). Pub. L. 102–550, §1603(b)(3)(A), substituted "Corporation and" for "Corporation or".
 
-Subsec. (g)(3)(A)(i). Pub. L. 102–550, §1603(b)(3)(B), substituted “any appropriate” for “an appropriate”.
+Subsec. (g)(3)(A)(i). Pub. L. 102–550, §1603(b)(3)(B), substituted "any appropriate" for "an appropriate".
 
-Subsec. (g)(5). Pub. L. 102–550, §1603(b)(3)(C), inserted “and each appropriate Federal banking agency” after “Corporation” in two places.
+Subsec. (g)(5). Pub. L. 102–550, §1603(b)(3)(C), inserted "and each appropriate Federal banking agency" after "Corporation" in two places.
 
 #### Effective Date of 2006 Amendment
 
@@ -288,5 +288,5 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Effective Date
 
-Pub. L. 102–242, title I, §112(c), formerly §112(b), Dec. 19, 1991, 105 Stat. 2246, renumbered §112(c) by Pub. L. 102–550, title XVI, §1603(b)(2)(A), Oct. 28, 1992, 106 Stat. 4079, provided that: “The requirements established by the amendment made by subsection (a) \[enacting this section\] shall apply with respect to fiscal years of insured depository institutions which begin after December 31, 1992.”
+Pub. L. 102–242, title I, §112(c), formerly §112(b), Dec. 19, 1991, 105 Stat. 2246, renumbered §112(c) by Pub. L. 102–550, title XVI, §1603(b)(2)(A), Oct. 28, 1992, 106 Stat. 4079, provided that: "The requirements established by the amendment made by subsection (a) \[enacting this section\] shall apply with respect to fiscal years of insured depository institutions which begin after December 31, 1992."
 

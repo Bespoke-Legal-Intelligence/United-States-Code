@@ -10,7 +10,7 @@ The form described in subsection (a) of this section shall include—
 
 &emsp;(1) either—
 
-&emsp;&emsp;(A)(i) the name of the tribe or band of Indians (as defined in section 7491 of this title)with respect to which the child claims membership;
+&emsp;&emsp;(A)(i) the name of the tribe or band of Indians (as defined in section 7491 of this title) with respect to which the child claims membership;
 
 &emsp;&emsp;(ii) the enrollment number establishing the membership of the child (if readily available); and
 
@@ -86,7 +86,7 @@ For purposes of determining the number of children to be counted in calculating 
 
 #### References in Text
 
-The Indian Elementary and Secondary School Assistance Act, referred to in subsecs. (d) and (f)(1)(B), is titleIII of act Sept. 30, 1950, ch. 1124, as added by Pub. L. 92–318, title IV, §411(a), June 23, 1972, 86 Stat. 335, as amended, which was classified generally to subchapter III (§241aa et seq.) of chapter 13 of this title, prior to repeal by Pub. L. 100–297, title V, §5352(1), Apr. 28, 1988, 102 Stat. 414.
+The Indian Elementary and Secondary School Assistance Act, referred to in subsecs. (d) and (f)(1)(B), is title III of act Sept. 30, 1950, ch. 1124, as added by Pub. L. 92–318, title IV, §411(a), June 23, 1972, 86 Stat. 335, as amended, which was classified generally to subchapter III (§241aa et seq.) of chapter 13 of this title, prior to repeal by Pub. L. 100–297, title V, §5352(1), Apr. 28, 1988, 102 Stat. 414.
 
 #### Prior Provisions
 

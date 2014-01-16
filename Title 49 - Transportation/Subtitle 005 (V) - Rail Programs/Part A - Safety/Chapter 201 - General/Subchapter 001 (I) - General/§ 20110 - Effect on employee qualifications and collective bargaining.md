@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 Oct. 16, 1970, Pub. L. 91–458, §202(a) (2d, last sentences), 84 Stat. 971.
 
-In clause (2), the words “railroad carriers” are substituted for “common carriers” for consistency in this part.
+In clause (2), the words "railroad carriers" are substituted for "common carriers" for consistency in this part.
 
 #### References in Text
 

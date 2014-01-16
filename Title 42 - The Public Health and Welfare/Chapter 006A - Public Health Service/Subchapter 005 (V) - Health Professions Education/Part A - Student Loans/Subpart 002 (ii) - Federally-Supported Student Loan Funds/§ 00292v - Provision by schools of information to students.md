@@ -24,7 +24,7 @@ With respect to loans made by a school under this subpart after June 30, 1986, e
 
 #### (b) Statement regarding loan
 
-Each school shall, immediately prior to the graduation from such school of a student who receives a loan under this subpart after June 30, 1986, provide such student with a statement specifying—
+Each school shall, immediately prior to the graduation from such school of a student whoreceives a loan under this subpart after June 30, 1986, provide such student with a statement specifying—
 
 &emsp;(1) each amount borrowed by the student under this subpart;
 

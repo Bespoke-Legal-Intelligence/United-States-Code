@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established the board of directors of the Association (hereafter in this subchapter referred to as the “Board”) for the purpose of governing and supervising the activities of the Association and the members of the Association.
+There is established the board of directors of the Association (hereafter in this subchapter referred to as the "Board") for the purpose of governing and supervising the activities of the Association and the members of the Association.
 
 #### (b) Powers
 
@@ -38,7 +38,7 @@ The term of each director shall, after the initial appointment of the members of
 
 #### (e) Board vacancies
 
-A vacancy on the Board shall be filled in the same manner as the original appointment of the initial Board for the remainder of the term of the vacating member.
+A vacancy on the Board shall be filled in the same manner as the original appointment of theinitial Board for the remainder of the term of the vacating member.
 
 #### (f) Meetings
 

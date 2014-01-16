@@ -8,7 +8,7 @@ The Board shall construct for the Smithsonian Institution, with funds raised by 
 
 #### (1) In general
 
-&emsp;Substantially in accordance with the plan entitled “Site Master Plan—Drawing Number 1997–2 April 29, 1997,” and map number NCR 844/82571, the Board may design and construct—
+&emsp;Substantially in accordance with the plan entitled "Site Master Plan—Drawing Number 1997–2 April 29, 1997," and map number NCR 844/82571, the Board may design and construct—
 
 &emsp;&emsp;(A) an addition to the parking garage at each of the north and south ends of the John F. Kennedy Center for the Performing Arts; and
 
@@ -70,7 +70,7 @@ The Board shall construct for the Smithsonian Institution, with funds raised by 
 
 #### (4) Expansion project defined
 
-&emsp;In this subsection, the term “expansion project” means an addition to the south end of the building of the John F. Kennedy Center for the Performing Arts that—
+&emsp;In this subsection, the term "expansion project" means an addition to the south end of the building of the John F. Kennedy Center for the Performing Arts that—
 
 &emsp;&emsp;(A) is less than 100,000 square feet;
 
@@ -86,5 +86,5 @@ The Board shall construct for the Smithsonian Institution, with funds raised by 
 
 <b>1997</b>—Pub. L. 105–95 substituted section catchline for former section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
-<b>1964</b>—Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.
+<b>1964</b>—Pub. L. 88–260 substituted "John F. Kennedy Center for the Performing Arts" for "National Cultural Center" wherever appearing.
 

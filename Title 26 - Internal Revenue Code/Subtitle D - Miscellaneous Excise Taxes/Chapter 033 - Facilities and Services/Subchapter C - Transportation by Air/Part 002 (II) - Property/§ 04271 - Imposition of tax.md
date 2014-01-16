@@ -52,63 +52,63 @@ A prior section 4271, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d)(1)(A)(ii). Pub. L. 112–95 substituted “September 30, 2015” for “February 17, 2012”.
+<b>2012</b>—Subsec. (d)(1)(A)(ii). Pub. L. 112–95 substituted "September 30, 2015" for "February 17, 2012".
 
-Pub. L. 112–91 substituted “February 17, 2012” for “January 31, 2012”.
+Pub. L. 112–91 substituted "February 17, 2012" for "January 31, 2012".
 
-<b>2011</b>—Subsec. (d)(1)(A)(ii). Pub. L. 112–30 substituted “January 31, 2012” for “September 16, 2011”.
+<b>2011</b>—Subsec. (d)(1)(A)(ii). Pub. L. 112–30 substituted "January 31, 2012" for "September 16, 2011".
 
-Pub. L. 112–27 substituted “September 16, 2011” for “July 22, 2011”.
+Pub. L. 112–27 substituted "September 16, 2011" for "July 22, 2011".
 
-Pub. L. 112–21 substituted “July 22, 2011” for “June 30, 2011”.
+Pub. L. 112–21 substituted "July 22, 2011" for "June 30, 2011".
 
-Pub. L. 112–16 substituted “June 30, 2011” for “May 31, 2011”.
+Pub. L. 112–16 substituted "June 30, 2011" for "May 31, 2011".
 
-Pub. L. 112–7 substituted “May 31, 2011” for “March 31, 2011”.
+Pub. L. 112–7 substituted "May 31, 2011" for "March 31, 2011".
 
-<b>2010</b>—Subsec. (d)(1)(A)(ii). Pub. L. 111–329 substituted “March 31, 2011” for “December 31, 2010”.
+<b>2010</b>—Subsec. (d)(1)(A)(ii). Pub. L. 111–329 substituted "March 31, 2011" for "December 31, 2010".
 
-Pub. L. 111–249 substituted “December 31, 2010” for “September 30, 2010”.
+Pub. L. 111–249 substituted "December 31, 2010" for "September 30, 2010".
 
-Pub. L. 111–216 substituted “September 30, 2010” for “August 1, 2010”.
+Pub. L. 111–216 substituted "September 30, 2010" for "August 1, 2010".
 
-Pub. L. 111–197 substituted “August 1, 2010” for “July 3, 2010”.
+Pub. L. 111–197 substituted "August 1, 2010" for "July 3, 2010".
 
-Pub. L. 111–161 substituted “July 3, 2010” for “April 30, 2010”.
+Pub. L. 111–161 substituted "July 3, 2010" for "April 30, 2010".
 
-Pub. L. 111–153 substituted “April 30, 2010” for “March 31, 2010”.
+Pub. L. 111–153 substituted "April 30, 2010" for "March 31, 2010".
 
-<b>2009</b>—Subsec. (d)(1)(A)(ii). Pub. L. 111–116 substituted “March 31, 2010” for “December 31, 2009”.
+<b>2009</b>—Subsec. (d)(1)(A)(ii). Pub. L. 111–116 substituted "March 31, 2010" for "December 31, 2009".
 
-Pub. L. 111–69 substituted “December 31, 2009” for “September 30, 2009”.
+Pub. L. 111–69 substituted "December 31, 2009" for "September 30, 2009".
 
-Pub. L. 111–12 substituted “September 30, 2009” for “March 31, 2009”.
+Pub. L. 111–12 substituted "September 30, 2009" for "March 31, 2009".
 
-<b>2008</b>—Subsec. (d)(1)(A)(ii). Pub. L. 110–330 substituted “March 31, 2009” for “September 30, 2008”.
+<b>2008</b>—Subsec. (d)(1)(A)(ii). Pub. L. 110–330 substituted "March 31, 2009" for "September 30, 2008".
 
-Pub. L. 110–253 substituted “September 30, 2008” for “June 30, 2008”.
+Pub. L. 110–253 substituted "September 30, 2008" for "June 30, 2008".
 
-Pub. L. 110–190 substituted “June 30, 2008” for “February 29, 2008”.
+Pub. L. 110–190 substituted "June 30, 2008" for "February 29, 2008".
 
-<b>2007</b>—Subsec. (d)(1)(A)(ii). Pub. L. 110–161 substituted “February 29, 2008” for “September 30, 2007”.
+<b>2007</b>—Subsec. (d)(1)(A)(ii). Pub. L. 110–161 substituted "February 29, 2008" for "September 30, 2007".
 
-<b>1997</b>—Subsec. (d). Pub. L. 105–2 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The tax imposed by subsection (a) shall apply with respect to transportation beginning after August 31, 1982, and before January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997.”
+<b>1997</b>—Subsec. (d). Pub. L. 105–2 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "The tax imposed by subsection (a) shall apply with respect to transportation beginning after August 31, 1982, and before January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997."
 
-Subsec. (d)(1)(A)(ii). Pub. L. 105–34 substituted “September 30, 2007” for “September 30, 1997”.
+Subsec. (d)(1)(A)(ii). Pub. L. 105–34 substituted "September 30, 2007" for "September 30, 1997".
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–188 substituted “January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997” for “January 1, 1996”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–188 substituted "January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997" for "January 1, 1996".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §11213(a)(2), substituted “6.25 percent” for “5 percent”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §11213(a)(2), substituted "6.25 percent" for "5 percent".
 
-Subsec. (d). Pub. L. 101–508, §11213(d)(1), substituted “January 1, 1996” for “January 1, 1991”.
+Subsec. (d). Pub. L. 101–508, §11213(d)(1), substituted "January 1, 1996" for "January 1, 1991".
 
-<b>1987</b>—Subsec. (d). Pub. L. 100–223 substituted “1991” for “1988”.
+<b>1987</b>—Subsec. (d). Pub. L. 100–223 substituted "1991" for "1988".
 
 <b>1982</b>—Subsec. (d). Pub. L. 97–248 substituted provision that the tax imposed by subsec. (a) shall apply with respect to transportation beginning after Aug. 31, 1982, and before Jan. 1, 1988, for provision that effective with respect to transportation beginning after Sept. 30, 1980, the tax imposed by subsec. (a) would not apply.
 
-<b>1980</b>—Subsec. (d). Pub. L. 96–298 substituted “September 30, 1980” for “June 30, 1980”.
+<b>1980</b>—Subsec. (d). Pub. L. 96–298 substituted "September 30, 1980" for "June 30, 1980".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “which begins after June 30, 1970” after “of property”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "which begins after June 30, 1970" after "of property".
 
 #### Effective Date of 2012 Amendment
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 97–248 applicable with respect to transportation beginnin
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct.4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 #### Effective Date
 

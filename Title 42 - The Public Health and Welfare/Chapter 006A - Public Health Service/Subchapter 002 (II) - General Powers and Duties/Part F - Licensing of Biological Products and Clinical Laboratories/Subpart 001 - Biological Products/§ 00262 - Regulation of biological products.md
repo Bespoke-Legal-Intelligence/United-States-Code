@@ -38,7 +38,7 @@ Postmarket studies and clinical trials; labeling; risk evaluation and mitigation
 
 #### (b) Falsely labeling or marking package or container; altering label or mark
 
-No person shall falsely label or mark any package or container of any biological product or alter any label or mark on the package or container of the biological product so as to falsify the label or mark.
+No person shall falsely label or mark any package or container of any biological product or alter any label or mark on the package orcontainer of the biological product so as to falsify the label or mark.
 
 #### (c) Inspection of establishment for propagation and preparation
 
@@ -48,7 +48,7 @@ Any officer, agent, or employee of the Department of Health and Human Services, 
 
 (1) Upon a determination that a batch, lot, or other quantity of a product licensed under this section presents an imminent or substantial hazard to the public health, the Secretary shall issue an order immediately ordering the recall of such batch, lot, or other quantity of such product. An order under this paragraph shall be issued in accordance with section 554 of title 5.
 
-(2) Any violation of paragraph (1) shall subject the violator to a civil penalty of up to $100,000 per day of violation. The amount of a civil penalty under this paragraph shall, effective December 1 of each year beginning 1 year after the effective date of this paragraph, be increased by the percent change in the Consumer Price Index for the base quarter of such year over the Consumer Price Index for the base quarter of the preceding year, adjusted to the nearest 1/10 of 1 percent. For purposes of this paragraph, the term “base quarter”, as used with respect to a year, means the calendar quarter ending on September 30 of such year and the price index for a base quarter is the arithmetical mean of such index for the 3 months comprising such quarter.
+(2) Any violation of paragraph (1) shall subject the violator to a civil penalty of up to $100,000 per day of violation. The amount of a civil penalty under this paragraph shall, effective December 1 of each year beginning 1 year after the effective date of this paragraph, be increased by the percent change in the Consumer Price Index for the base quarter of such year over the Consumer Price Index for the base quarter of the preceding year, adjusted to the nearest 1/10 of 1 percent. For purposes of this paragraph, the term "base quarter", as used with respect to a year, means the calendar quarter ending on September 30 of such year and the price index for a base quarter is the arithmetical mean of such index for the 3 months comprising such quarter.
 
 #### (e) Interference with officers
 
@@ -74,21 +74,21 @@ A partially processed biological product which—
 
 > shall be subject to no restriction on the export of the product under this chapter or the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] if the product is manufactured, processed, packaged, and held in conformity with current good manufacturing practice requirements or meets international manufacturing standards as certified by an international standards organization recognized by the Secretary and meets the requirements of section 801(e)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(e)).
 
-#### (i) “Biological product” defined
+#### (i) "Biological product" defined
 
 In this section:
 
-&emsp;(1) The term “biological product” means a virus, therapeutic serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, protein (except any chemically synthesized polypeptide), or analogous product, or arsphenamine or derivative of arsphenamine (or any other trivalent organic arsenic compound), applicable to the prevention,treatment, or cure of a disease or condition of human beings.
+&emsp;(1) The term "biological product" means a virus, therapeutic serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, protein (except any chemically synthesized polypeptide), or analogous product, or arsphenamine or derivative of arsphenamine (or any other trivalent organic arsenic compound), applicable to the prevention, treatment, or cure of a disease or condition of human beings.
 
-&emsp;(2) The term “biosimilar” or “biosimilarity”, in reference to a biological product that is the subject of an application under subsection (k), means—
+&emsp;(2) The term "biosimilar" or "biosimilarity", in reference to a biological product that is the subject of an application under subsection (k), means—
 
 &emsp;&emsp;(A) that the biological product is highly similar to the reference product notwithstanding minor differences in clinically inactive components; and
 
 &emsp;&emsp;(B) there are no clinically meaningful differences between the biological product and the reference product in terms of the safety, purity, and potency of the product.
 
-&emsp;(3) The term “interchangeable” or “interchangeability”, in reference to a biological product that is shown to meet the standards described in subsection (k)(4), means that the biological product may be substituted for the reference product without the intervention of the health care provider who prescribed the reference product.
+&emsp;(3) The term "interchangeable" or "interchangeability", in reference to a biological product that is shown to meet the standards described in subsection (k)(4), means that the biological product may be substituted for the reference product without the intervention of the health care provider who prescribed the reference product.
 
-&emsp;(4) The term “reference product” means the single biological product licensed under subsection (a) against which a biological product is evaluated in an application submitted under subsection (k).
+&emsp;(4) The term "reference product" means the single biological product licensed under subsection (a) against which a biological product is evaluated in an application submitted under subsection (k).
 
 #### (j) Application of Federal Food, Drug, and Cosmetic Act
 
@@ -180,7 +180,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (6) Exclusivity for first interchangeable biological product
 
-&emsp;Upon review of an application submitted under this subsection relying on the same reference product for which a prior biological product has received a determination of interchangeability for any condition of use, the Secretary shall not make a determination under paragraph (4) that the second or subsequent biological product is interchangeable for any condition of use until the earlier of—
+&emsp;Upon review of an application submitted under this subsection relying on the same reference product for which a prior biologicalproduct has received a determination of interchangeability for any condition of use, the Secretary shall not make a determination under paragraph (4) that the second or subsequent biological product is interchangeable for any condition of use until the earlier of—
 
 &emsp;&emsp;(A) 1 year after the first commercial marketing of the first interchangeable biosimilar biological product to be approved as interchangeable for that reference product;
 
@@ -194,7 +194,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;(ii) 18 months after approval of the first interchangeable biosimilar biological product if the applicant that submitted such application has not been sued under subsection (l)(6).
 
-> &emsp;For purposes of this paragraph, the term “final court decision” means a final decision of a court from which no appeal (other than a petition to the United States Supreme Court for a writ of certiorari) has been or can be taken.
+> &emsp;For purposes of this paragraph, the term "final court decision" means a final decision of a court from which no appeal (other than a petition to the United States Supreme Court for a writ of certiorari) has been or can be taken.
 
 #### (7) Exclusivity for reference product
 
@@ -258,7 +258,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (iii) No effect on ability to deny license
 
-&emsp;&emsp;&emsp;Clause (i) shall not be construed to require the Secretary to approve a product with respect to which the Secretary has not indicated in a guidance document that the science and experience, as described in clause (i), does not allow approval of such an application.
+&emsp;&emsp;&emsp;Clause (i) shall not be construed to require the Secretary to approve a productwith respect to which the Secretary has not indicated in a guidance document that the science and experience, as described in clause (i), does not allow approval of such an application.
 
 #### (l) Patents
 
@@ -266,13 +266,13 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (A) Application of paragraph
 
-&emsp;&emsp;Unless otherwise agreed to by a person that submits an application under subsection (k) (referred to in this subsection as the “subsection (k) applicant”) and the sponsor of the application for the reference product (referred to in this subsection as the “reference product sponsor”), the provisions of this paragraph shall apply to the exchange of information described in this subsection.
+&emsp;&emsp;Unless otherwise agreed to by a person that submits an application under subsection (k) (referred to in this subsection as the "subsection (k) applicant") and the sponsor of the application for the reference product (referred to in this subsection as the "reference product sponsor"), the provisions of this paragraph shall apply to the exchange of information described in this subsection.
 
 #### (B) In general
 
 #### (i) Provision of confidential information
 
-&emsp;&emsp;&emsp;When a subsection (k) applicant submits an application under subsection (k), such applicant shall provide to the persons described in clause (ii), subject to the terms of this paragraph, confidential access to the information required to be produced pursuant to paragraph (2) and any other information that the subsection (k) applicant determines, in its sole discretion, to be appropriate (referred to in this subsection as the “confidential information”).
+&emsp;&emsp;&emsp;When a subsection (k) applicant submits an application under subsection (k), such applicant shall provide to the persons described in clause (ii), subject to the terms of this paragraph, confidential access to the information required to be produced pursuant to paragraph (2) and any other information that the subsection (k) applicant determines, in its sole discretion, to be appropriate (referred to in this subsection as the "confidential information").
 
 #### (ii) Recipients of information
 
@@ -280,7 +280,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (I) Outside counsel
 
-&emsp;&emsp;&emsp;&emsp;One or more attorneys designated by the reference product sponsor who are employees of an entity other than the reference product sponsor (referred to in this paragraph as the “outside counsel”), provided that such attorneys do not engage, formally or informally, in patent prosecution relevant or related to the reference product.
+&emsp;&emsp;&emsp;&emsp;One or more attorneys designated by the reference product sponsor who are employees of an entity other than the reference product sponsor (referred to in this paragraph as the "outside counsel"), provided that such attorneys do not engage, formally or informally, in patent prosecution relevant or related to the reference product.
 
 #### (II) In-house counsel
 
@@ -296,7 +296,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (D) Use of confidential information
 
-&emsp;&emsp;Confidential information shall be used for the sole and exclusive purpose of determining, with respect to each patent assigned toor exclusively licensed by the reference product sponsor, whether a claim of patent infringement could reasonably be asserted if the subsection (k) applicant engaged in the manufacture, use, offering for sale, sale, or importation into the United States of the biological product that is the subject of the application under subsection (k).
+&emsp;&emsp;Confidential information shall be used for the sole and exclusive purpose of determining, with respect to each patent assigned to or exclusively licensed by the reference product sponsor, whether a claim of patent infringement could reasonably be asserted if the subsection (k) applicant engaged in the manufacture, use, offering for sale, sale, or importation into the United States of the biological product that is the subject of the application under subsection (k).
 
 #### (E) Ownership of confidential information
 
@@ -316,7 +316,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (H) Effect of violation
 
-&emsp;&emsp;The disclosure of any confidential information in violation of this paragraph shall be deemed to cause the subsection (k) applicant to suffer irreparable harm for which there is no adequate legal remedy and the court shall consider immediate injunctive relief to be an appropriate and necessary remedy for any violation or threatened violation of this paragraph.
+&emsp;&emsp;The disclosure of any confidential information in violation of this paragraph shallbe deemed to cause the subsection (k) applicant to suffer irreparable harm for which there is no adequate legal remedy and the court shall consider immediate injunctive relief to be an appropriate and necessary remedy for any violation or threatened violation of this paragraph.
 
 #### (2) Subsection (k) application information
 
@@ -374,7 +374,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On a date agreed to by the subsection (k) applicant and the reference product sponsor, but in no case later than 5 days after the subsection (k) applicant notifies the reference product sponsor under subparagraph (A), the subsection (k) applicant and the reference product sponsor shall simultaneously exchange—
+&emsp;&emsp;&emsp;On a date agreed to by the subsection (k) applicant and the reference product sponsor, but in no case later than 5 days afterthe subsection (k) applicant notifies the reference product sponsor under subparagraph (A), the subsection (k) applicant and the reference product sponsor shall simultaneously exchange—
 
 &emsp;&emsp;&emsp;&emsp;(I) the list of patents that the subsection (k) applicant believes should be the subject of an action for patent infringement under paragraph (6); and
 
@@ -418,7 +418,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;(B) the reference product sponsor reasonably believes that, due to the issuance of such patent, a claim of patent infringement could reasonably be asserted by the reference product sponsor if a person not licensed by the reference product sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application,
 
-> &emsp;not later than 30 days after such issuance or licensing, the reference product sponsor shall provide to the subsection (k) applicant a supplement to the list provided by the referenceproduct sponsor under paragraph (3)(A) that includes such patent, not later than 30 days after such supplement is provided, the subsection (k) applicant shall provide a statement to the reference product sponsor in accordance with paragraph (3)(B), and such patent shall be subject to paragraph (8).
+> &emsp;not later than 30 days after such issuance or licensing, the reference product sponsor shall provide to the subsection (k) applicant a supplement to the list provided by the reference product sponsor under paragraph (3)(A) that includes such patent, not later than 30 days after such supplement is provided, the subsection (k) applicant shall provide a statement to the reference product sponsor in accordance with paragraph (3)(B), and such patent shall be subject to paragraph (8).
 
 #### (8) Notice of commercial marketing and preliminary injunction
 
@@ -446,7 +446,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (A) Subsection (k) application provided
 
-&emsp;&emsp;If a subsection (k) applicant provides the application and information required under paragraph (2)(A), neither the reference product sponsor nor the subsection (k) applicant may, prior to the date notice is received under paragraph (8)(A), bring any action under section 2201 of title 28 for a declaration of infringement, validity, or enforceability of any patent that is described in clauses (i) and (ii) of paragraph (8)(B).
+&emsp;&emsp;If a subsection (k) applicant provides the application and information required under paragraph (2)(A), neither the reference product sponsor nor the subsection (k) applicant may, prior to the date notice is received under paragraph (8)(A), bring any actionunder section 2201 of title 28 for a declaration of infringement, validity, or enforceability of any patent that is described in clauses (i) and (ii) of paragraph (8)(B).
 
 #### (B) Subsequent failure to act by subsection (k) applicant
 
@@ -472,7 +472,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (3) Market exclusivity for already-marketed biological products
 
-&emsp;If the Secretary determines that information relating to the use of a licensed biological product in the pediatric population may produce health benefits in that population and makes a written request to the holder of an approved application under subsection (a) for pediatric studies (which shall include a timeframe for completing such studies), the holderagrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(3) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(3)\]—
+&emsp;If the Secretary determines that information relating to the use of a licensed biological product in the pediatric population may produce health benefits in that population and makes a written request to the holder of an approved application under subsection (a) for pediatric studies (which shall include a timeframe for completing such studies), the holder agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(3) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(3)\]—
 
 &emsp;&emsp;(A) the periods for such biological product referred to in subsection (k)(7) are deemed to be 4 years and 6 months rather than 4 years and 12 years and 6 months rather than 12 years; and
 
@@ -494,11 +494,11 @@ Sections 526, 527(a), and 505A(d)(3), referred to in subsec. (m)(2)(B), (3)(B), 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (m)(1). Pub. L. 112–144 substituted “(f), (h), (i), (j), (k), (l), (n), and (p)” for “(f), (i), (j), (k), (l), (p), and (q)”.
+<b>2012</b>—Subsec. (m)(1). Pub. L. 112–144 substituted "(f), (h), (i), (j), (k), (l), (n), and (p)" for "(f), (i), (j), (k), (l), (p), and (q)".
 
-<b>2010</b>—Subsec. (a)(1)(A). Pub. L. 111–148, §7002(a)(1), inserted “under this subsection or subsection (k)” after “biologics license”.
+<b>2010</b>—Subsec. (a)(1)(A). Pub. L. 111–148, §7002(a)(1), inserted "under this subsection or subsection (k)" after "biologics license".
 
-Subsec. (i). Pub. L. 111–148, §7002(b), substituted “In this section:” for “In this section,”, designated remainder of existing provisions as par. (1), substituted “The term” for “the term”, inserted “protein (except any chemically synthesized polypeptide),” after “allergenic product,”, and added pars. (2) to (4).
+Subsec. (i). Pub. L. 111–148, §7002(b), substituted "In this section:" for "In this section,", designated remainder of existing provisions as par. (1), substituted "The term" for "the term", inserted "protein (except any chemically synthesized polypeptide)," after "allergenic product,", and added pars. (2) to (4).
 
 Subsecs. (k), (l). Pub. L. 111–148, §7002(a)(2), added subsecs. (k) and (l).
 
@@ -506,17 +506,17 @@ Subsec. (m). Pub. L. 111–148, §7002(g)(1), added subsec. (m).
 
 <b>2007</b>—Subsec. (a)(2)(D). Pub. L. 110–85, §901(c)(1), added subpar. (D).
 
-Subsec. (j). Pub. L. 110–85, §901(c)(2), inserted “, including the requirements under sections 505(o), 505(p), and 505–1 of such Act,” after “and Cosmetic Act”.
+Subsec. (j). Pub. L. 110–85, §901(c)(2), inserted ", including the requirements under sections 505(o), 505(p), and 505–1 of such Act," after "and Cosmetic Act".
 
 <b>2003</b>—Subsec. (a)(2)(B), (C). Pub. L. 108–155 added subpar. (B) and redesignated former subpar. (B) as (C).
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–115, §123(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to intrastate and interstate traffic in biological products and suspension or revocation of licenses as affecting prior sales.
 
-Subsec. (b). Pub. L. 105–115, §123(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No person shall falsely label or mark any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid; nor alter any label or mark on any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid so as to falsify such label or mark.”
+Subsec. (b). Pub. L. 105–115, §123(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "No person shall falsely label or mark any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid; nor alter any label or mark on any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid so as to falsify such label or mark."
 
-Subsec. (c). Pub. L. 105–115, §123(c), substituted “biological product.” for “virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid for sale, barter, or exchange in the District of Columbia, or to be sent, carried, or brought from any State or possession into any other State or possession or into any foreign country, or from any foreign country into any State or possession.”
+Subsec. (c). Pub. L. 105–115, §123(c), substituted "biological product." for "virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid for sale, barter, or exchange in the District of Columbia, or to be sent, carried, or brought from any State or possession into any other State or possession or into any foreign country, or from any foreign country into any State or possession."
 
-Subsec. (d). Pub. L. 105–115, §123(a)(2), designated par. (2) as subsec. (d), redesignated subpars. (A) and (B) of par. (2) as pars. (1) and (2), respectively, in par. (2), substituted “Any violation of paragraph (1)” for “Any violation of subparagraph (A)” and substituted “this paragraph” for “this subparagraph” wherever appearing, and struck out former par. (1) which read as follows: “Licenses for the maintenance of establishments for the propagation or manufacture and preparation of products described in subsection (a) of this section may be issued only upon a showing that the establishment and the products for which a license is desired meet standards, designed to insure the continued safety, purity, and potency of such products, prescribed in regulations, and licenses for new products may be issued only upon a showing that they meet such standards. All such licenses shall be issued, suspended, and revoked as prescribed by regulations and all licenses issued for the maintenance of establishments for the propagation or manufacture and preparation, in any foreign country, of any such products for sale, barter, or exchange in any State or possession shall be issued upon condition that the licensees will permit the inspection of their establishments in accordance with subsection (c) of this section.”
+Subsec. (d). Pub. L. 105–115, §123(a)(2), designated par. (2) as subsec. (d), redesignated subpars. (A) and (B) of par. (2) as pars. (1) and (2), respectively, in par. (2), substituted "Any violation of paragraph (1)" for "Any violation of subparagraph (A)" and substituted "this paragraph" for "this subparagraph" wherever appearing, and struck out former par. (1) which read as follows: "Licenses for the maintenance of establishments for the propagation or manufacture and preparation of products described in subsection (a) of this section may be issued only upon a showing that the establishment and the products for which a license is desired meet standards, designed to insure the continued safety, purity, and potency of such products, prescribed in regulations, and licenses for new products may be issued only upon a showing that they meet such standards. All such licenses shall be issued, suspended, and revoked as prescribed by regulations and all licenses issued for the maintenance of establishments for the propagation or manufacture and preparation, in any foreign country, of any such products for sale, barter, or exchange in any State or possession shall be issued upon condition that the licensees will permit the inspection of their establishments in accordance with subsection (c) of this section."
 
 Subsec. (i). Pub. L. 105–115, §123(d), added subsec. (i).
 
@@ -524,17 +524,17 @@ Subsec. (j). Pub. L. 105–115, §123(g), added subsec. (j).
 
 <b>1996</b>—Subsec. (h). Pub. L. 104–134, §2104, amended subsec. (h) generally, revising and restating former provisions, which also related to exportation of partially processed biological products.
 
-Subsec. (h)(1)(A). Pub. L. 104–134, §2102(d)(2), substituted “in a country listed under section 802(b)(1)” for “in a country listed under section 802(b)(A)” and “to a country listed under section 802(b)(1)” for “to a country listed under section 802(b)(4)”.
+Subsec. (h)(1)(A). Pub. L. 104–134, §2102(d)(2), substituted "in a country listed under section 802(b)(1)" for "in a country listed under section 802(b)(A)" and "to a country listed under section 802(b)(1)" for "to a country listed under section 802(b)(4)".
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–300, which directed substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because the words “Health, Education, and Welfare” did not appear in original statutory text. Previously, referencesto Department and Secretary of Health and Human Services were substituted for references to Federal Security Agency and its Administrator pursuant to provisions cited in Transfer of Functions note below.
+<b>1992</b>—Subsec. (c). Pub. L. 102–300, which directed substitution of "Health and Human Services" for "Health, Education, and Welfare", could not be executed because the words "Health, Education, and Welfare" did not appear in original statutory text. Previously, references to Department and Secretary of Health and Human Services were substituted for references to Federal Security Agency and its Administrator pursuant to provisions cited in Transfer of Functions note below.
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–660, §315, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (h). Pub. L. 99–660, §105(a), added subsec. (h).
 
-<b>1970</b>—Subsecs. (a) to (c). Pub. L. 91–515 inserted “vaccine, blood, blood component or derivative, allergenic product,” after “antitoxin” wherever appearing.
+<b>1970</b>—Subsecs. (a) to (c). Pub. L. 91–515 inserted "vaccine, blood, blood component or derivative, allergenic product," after "antitoxin" wherever appearing.
 
-<b>1958</b>—Subsec. (d). Pub. L. 85–881 struck out “made jointly by the Surgeon General, the Surgeon General of the Army, and the Surgeon General of the Navy, and approved by the Secretary” after “regulations” in first sentence.
+<b>1958</b>—Subsec. (d). Pub. L. 85–881 struck out "made jointly by the Surgeon General, the Surgeon General of the Army, and the Surgeon General of the Navy, and approved by the Secretary" after "regulations" in first sentence.
 
 #### Effective Date of 2007 Amendment
 
@@ -550,7 +550,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–660, title I, §105(b), Nov. 14, 1986, 100 Stat. 3752, provided that: “Paragraph (1) of section 351(h) of the Public Health Service Act \[former subsec. (h)(1) of this section\] as added by subsection (a) shall take effect upon the expiration of 90 days after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Pub. L. 99–660, title I, §105(b), Nov. 14, 1986, 100 Stat. 3752, provided that: "Paragraph (1) of section 351(h) of the Public Health Service Act \[former 42 U.S.C. 262(h)(1)\] as added by subsection (a) shall take effect upon the expiration of 90 days after the date of the enactment of this Act \[Nov. 14, 1986\]."
 
 Amendment by section 315 of Pub. L. 99–660 effective Dec. 22, 1987, see section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
 
@@ -564,107 +564,107 @@ References to Secretary and Department of Health, Education, and Welfare substit
 
 Pub. L. 111–148, title VII, §7002(e), Mar. 23, 2010, 124 Stat. 817, provided that:
 
-“(1)
+"(1)
 
 Requirement to follow section 351.—Except as provided in paragraph (2), an application for a biological product shall be submitted under section 351 of the Public Health Service Act (42 U.S.C. 262) (as amended by this Act).
 
-“(2)
+"(2)
 
 Exception.—An application for a biological product may be submitted under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) if—
 
-&emsp;“(A) such biological product is in a product class for which a biological product in such product class is the subject of an application approved under such section 505 not later than the date of enactment of this Act \[Mar. 23, 2010\]; and
+&emsp;"(A) such biological product is in a product class for which a biological product in such product class is the subject of an application approved under such section 505 not later than the date of enactment of this Act \[Mar. 23, 2010\]; and
 
-&emsp;“(B) such application—
+&emsp;"(B) such application—
 
-&emsp;&emsp;“(i) has been submitted to the Secretary of Health and Human Services (referred to in this subtitle \[subtitle A (§§7001–7003) of title VII of Pub. L. 111–148, see Short Title of 2010 Amendment note under section 201 of this title\] as the ‘Secretary’) before the date of enactment of this Act; or
+&emsp;&emsp;"(i) has been submitted to the Secretary of Health and Human Services (referred to in this subtitle \[subtitle A (§§7001–7003) of title VII of Pub. L. 111–148, see Short Title of 2010 Amendment note under section 201 of this title\] as the 'Secretary') before the date of enactment of this Act; or
 
-&emsp;&emsp;“(ii) is submitted to the Secretary not later than the date that is 10 years after the date of enactment of this Act.
+&emsp;&emsp;"(ii) is submitted to the Secretary not later than the date that is 10 years after the date of enactment of this Act.
 
-“(3)
+"(3)
 
 Limitation.—Notwithstanding paragraph (2), an application for a biological product may not be submitted under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) if there is another biological product approved under subsection (a) of section 351 of the Public Health Service Act \[42 U.S.C. 262\] that could be a reference product with respect to such application (within the meaning of such section 351) if such application were submitted under subsection (k) of such section 351.
 
-“(4)
+"(4)
 
 Deemed approved under section 351.—An approved application for a biological product under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) shall be deemed to be a license for the biological product under such section 351 on the date that is 10 years after the date of enactment of this Act.
 
-“(5)
+"(5)
 
-Definitions.—For purposes of this subsection, the term ‘biological product’ has the meaning given such term under section 351 of the Public Health Service Act (42 U.S.C. 262) (as amended by this Act).”
+Definitions.—For purposes of this subsection, the term 'biological product' has the meaning given such term under section 351 of the Public Health Service Act (42 U.S.C. 262) (as amended by this Act)."
 
 #### Costs of Reviewing Biosimilar Biological Product Applications
 
 Pub. L. 111–148, title VII, §7002(f)(3)(B), (C), Mar. 23, 2010, 124 Stat. 818, 819, provided that:
 
-“(B)
+"(B)
 
 Evaluation of costs of reviewing biosimilar biological product applications.—During the period beginning on the date of enactment of this Act \[Mar. 23, 2010\] and ending on October 1, 2010, the Secretary \[of Health and Human Services\] shall collect and evaluate data regarding the costs of reviewing applications for biological products submitted under section 351(k) of the Public Health Service Act \[42 U.S.C. 262(k)\] (as added by this Act) during such period.
 
-“(C)
+"(C)
 
 Audit.—
 
-&emsp;“(i)
+&emsp;"(i)
 
 In general.—On the date that is 2 years after first receiving a user fee applicable to an application for a biological product under section 351(k) of the Public Health Service Act \[42 U.S.C. 262(k)\] (as added by this Act), and on a biennial basis thereafter until October 1, 2013, the Secretary shall perform an audit of the costs of reviewing such applications under such section 351(k). Such an audit shall compare—
 
-&emsp;&emsp;“(I) the costs of reviewing such applications under such section 351(k) to the amount of the user fee applicable to such applications; and
+&emsp;&emsp;"(I) the costs of reviewing such applications under such section 351(k) to the amount of the user fee applicable to such applications; and
 
-&emsp;&emsp;“(II)(aa) such ratio determined under subclause (I); to
+&emsp;&emsp;"(II)(aa) such ratio determined under subclause (I); to
 
-&emsp;&emsp;“(bb) the ratio of the costs of reviewing applications for biological products under section 351(a) of such Act \[42 U.S.C. 262(a)\] (as amended by this Act) to the amount of the user fee applicable to such applications under such section 351(a).
+&emsp;&emsp;"(bb) the ratio of the costs of reviewing applications for biological products under section 351(a) of such Act \[42 U.S.C. 262(a)\] (as amended by this Act) to the amount of the user fee applicable to such applications under such section 351(a).
 
-&emsp;“(ii)
+&emsp;"(ii)
 
-Alteration of user fee.—If the audit performed under clause (i) indicates that the ratios compared under subclause (II) of such clause differ by more than 5 percent, then the Secretary shall alter the user fee applicable to applications submitted under such section 351(k) \[42 U.S.C. 262(k)\] to moreappropriately account for the costs of reviewing such applications.
+Alteration of user fee.—If the audit performed under clause (i) indicates that the ratios compared under subclause (II) of such clause differ by more than 5 percent, then the Secretary shall alter the user fee applicable to applications submitted under such section 351(k) \[42 U.S.C. 262(k)\] to more appropriately account for the costs of reviewing such applications.
 
-&emsp;“(iii)
+&emsp;"(iii)
 
-Accounting standards.—The Secretary shall perform an audit under clause (i) in conformance with the accounting principles, standards, and requirements prescribed by the Comptroller General of the United States under section 3511 of title 31, United State Code, to ensure the validity of any potential variability.”
+Accounting standards.—The Secretary shall perform an audit under clause (i) in conformance with the accounting principles, standards, and requirements prescribed by the Comptroller General of the United States under section 3511 of title 31, United State Code, to ensure the validity of any potential variability."
 
 #### Licensing of Orphan Products
 
-Pub. L. 111–148, title VII, §7002(h), Mar. 23, 2010, 124 Stat. 821, provided that: “If a reference product, as defined in section 351 of the Public Health Service Act (42 U.S.C. 262) (as amended by this Act) has been designated under section 526 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bb) for a rare disease or condition, a biological product seeking approval for such disease or condition under subsection (k) of such section 351 as biosimilar to, or interchangeable with, such reference product may be licensed by the Secretary \[of Health and Human Services\] only after the expiration for such reference product of the later of—
+Pub. L. 111–148, title VII, §7002(h), Mar. 23, 2010, 124 Stat. 821, provided that: "If a reference product, as defined in section 351 of the Public Health Service Act (42 U.S.C. 262) (as amended by this Act) has been designated under section 526 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bb) for a rare disease or condition, a biological product seeking approval for such disease or condition under subsection (k) of such section 351 as biosimilar to, or interchangeable with, such reference product may be licensed by the Secretary \[of Health and Human Services\] only after the expiration for such reference product of the later of—
 
-&emsp;“(1) the 7-year period described in section 527(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360cc(a)); and
+&emsp;"(1) the 7-year period described in section 527(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360cc(a)); and
 
-&emsp;“(2) the 12-year period described in subsection (k)(7) of such section 351.”
+&emsp;"(2) the 12-year period described in subsection (k)(7) of such section 351."
 
 #### Savings Generated by 2010 Amendment
 
 Pub. L. 111–148, title VII, §7003, Mar. 23, 2010, 124 Stat. 821, provided that:
 
-“(a)
+"(a)
 
 Determination.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall for each fiscal year determine the amount of savings to the Federal Government as a result of the enactment of this subtitle \[subtitle A (§§7001–7003) of title VII of Pub. L. 111–148, see Short Title of 2010 Amendment note under section 201 of this title\].
 
-“(b)
+"(b)
 
-Use.—Notwithstanding any other provision of this subtitle (or an amendment made by this subtitle), the savings to the Federal Government generated as a result of the enactment of this subtitle shall be used for deficit reduction.”
+Use.—Notwithstanding any other provision of this subtitle (or an amendment made by this subtitle), the savings to the Federal Government generated as a result of the enactment of this subtitle shall be used for deficit reduction."
 
 #### Enhanced Penalties and Control of Biological Agents
 
 Pub. L. 104–132, title V, §511, Apr. 24, 1996, 110 Stat. 1284, as amended by Pub. L. 107–188, title II, §204, June 12, 2002, 116 Stat. 647, provided that:
 
-“(a)
+"(a)
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) certain biological agents have the potential to pose a severe threat to public health and safety;
+&emsp;"(1) certain biological agents have the potential to pose a severe threat to public health and safety;
 
-&emsp;“(2) such biological agents can be used as weapons by individuals or organizations for the purpose of domestic or international terrorism or for other criminal purposes;
+&emsp;"(2) such biological agents can be used as weapons by individuals or organizations for the purpose of domestic or international terrorism or for other criminal purposes;
 
-&emsp;“(3) the transfer and possession of potentially hazardous biological agents should be regulated to protect public health and safety; and
+&emsp;"(3) the transfer and possession of potentially hazardous biological agents should be regulated to protect public health and safety; and
 
-&emsp;“(4) efforts to protect the public from exposure to such agents should ensure that individuals and groups with legitimate objectives continue to have access to such agents for clinical and research purposes.
+&emsp;"(4) efforts to protect the public from exposure to such agents should ensure that individuals andgroups with legitimate objectives continue to have access to such agents for clinical and research purposes.
 
-“(b)
+"(b)
 
 Criminal Enforcement.—\[Amended sections 175, 177, and 178 of Title 18, Crimes and Criminal Procedure.\]
 
-“(c)
+"(c)
 
-Terrorism.—\[Amended section 2332a of Title 18.\]”
+Terrorism.—\[Amended section 2332a of Title 18.\]"
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

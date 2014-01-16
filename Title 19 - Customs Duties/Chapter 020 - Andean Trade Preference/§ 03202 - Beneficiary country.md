@@ -4,11 +4,11 @@
 
 For purposes of this chapter—
 
-&emsp;(1) The term “beneficiary country” means any country listed in subsection (b)(1) of this section with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter.
+&emsp;(1) The term "beneficiary country" means any country listed in subsection (b)(1) of this section with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter.
 
-&emsp;(2) The term “entered” means entered, or withdrawn from warehouse for consumption, in the customs territory of the United States.
+&emsp;(2) The term "entered" means entered, or withdrawn from warehouse for consumption, in the customs territory of the United States.
 
-&emsp;(3) The term “HTS” means Harmonized Tariff Schedule of the United States.
+&emsp;(3) The term "HTS" means Harmonized Tariff Schedule of the United States.
 
 #### (b) Countries eligible for designation; congressional notification
 
@@ -150,23 +150,23 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(
 
 Subsec. (h) of section 2291 of title 22, referred to in subsec. (d)(11), was repealed by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. For successor provisions to former subsec. (h), see sections 2291j and 2291k of Title 22, Foreign Relations and Intercourse.
 
-This chapter, referred to in subsec. (d)(12), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 102–182 which enacted this chapter, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (d)(12), was in the original "this Act" and was translated as reading "this title", meaning title II of Pub. L. 102–182 which enacted this chapter, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (f)(1). Pub. L. 111–344 substituted “annually” for “every 2 years” in introductory provisions.
+<b>2010</b>—Subsec. (f)(1). Pub. L. 111–344 substituted "annually" for "every 2 years" in introductory provisions.
 
-<b>2009</b>—Subsec. (f)(1). Pub. L. 111–124 substituted “June 30, 2010” for “April 30, 2003”.
+<b>2009</b>—Subsec. (f)(1). Pub. L. 111–124 substituted "June 30, 2010" for "April 30, 2003".
 
 <b>2002</b>—Subsec. (e)(1). Pub. L. 107–210, §3103(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-Subsec. (f). Pub. L. 107–210, §3103(e), substituted “Reporting requirements” for “Report” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter.”
+Subsec. (f). Pub. L. 107–210, §3103(e), substituted "Reporting requirements" for "Report" in heading and amended text generally. Prior to amendment, text read as follows: "Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter."
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–200 substituted “Report” for “Triennial report” in heading and “Not later than January 31, 2001” for “On or before the 3rd, 6th, and 9th anniversaries of December 4, 1991” in text.
+<b>2000</b>—Subsec. (f). Pub. L. 106–200 substituted "Report" for "Triennial report" in heading and "Not later than January 31, 2001" for "On or before the 3rd, 6th, and 9th anniversaries of December 4, 1991" in text.
 
-<b>1996</b>—Subsec. (c)(7). Pub. L. 104–188 substituted “2467(4) of this title” for “2462(a)(4) of this title”.
+<b>1996</b>—Subsec. (c)(7). Pub. L. 104–188 substituted "2467(4) of this title" for "2462(a)(4) of this title".
 
-<b>1994</b>—Subsec. (d)(4). Pub. L. 103–465 substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title)” for “General Agreement on Tariffs and Trade, as well as applicable trade agreements approved under section 2503(a) of this title”.
+<b>1994</b>—Subsec. (d)(4). Pub. L. 103–465 substituted "WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title)" for "General Agreement on Tariffs and Trade, as well as applicable trade agreements approved under section 2503(a) of this title".
 
 #### Effective Date of 1996 Amendment
 
@@ -188,13 +188,13 @@ Functions of President under subsec. (e)(2)(A), related to publishing notice of 
 
 Pub. L. 107–210, div. C, title XXXI, §3103(d), Aug. 6, 2002, 116 Stat. 1033, provided that:
 
-“(1)
+"(1)
 
 In general.—Not later than 180 days after the date of the enactment of this Act \[Aug. 6, 2002\], the President shall promulgate regulations regarding the review of eligibility of articles and countries under the Andean Trade Preference Act \[19 U.S.C. 3201 et seq.\], consistent with section 203(e) of such Act \[19 U.S.C. 3202(e)\], as amended by this title.
 
-“(2)
+"(2)
 
-Content of regulations.—The regulations shall be similar to the regulations regarding eligibilityunder the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] with respect to the timetable for reviews and content, and shall include procedures for requesting withdrawal, suspension, or limitations of preferential duty treatment under the Andean Trade Preference Act, conducting reviews of such requests, and implementing the results of the reviews.”
+Content of regulations.—The regulations shall be similar to the regulations regarding eligibilityunder the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] with respect to the timetable for reviews and content, and shall include procedures for requesting withdrawal, suspension, or limitations of preferential duty treatment under the Andean Trade Preference Act, conducting reviews of such requests, and implementing the results of the reviews."
 
 \[For delegation of functions of President under section 3103(d) of Pub. L. 107–210, set out above, see section 2(a) of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.\]
 
@@ -210,5 +210,5 @@ Peru, Proc. No. 6585, Aug. 11, 1993, 58 F.R. 43239.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “ATPDEA”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "ATPDEA".</i>
 

@@ -17,7 +17,7 @@
 | [634e.](%C2%A7%2000634e%20-%20Assistance%20of%20Government%20agencies.md) | Assistance of Government agencies. |
 | [634f.](%C2%A7%2000634f%20-%20Reports.md) | Reports. |
 | [634g.](%C2%A7%2000634g%20-%20Budgetary%20line%20item%20and%20authorization%20of%20appropriations.md) | Budgetary line item and authorization of appropriations. |
-| [635\.](%C2%A7%2000635%20-%20Deposit%20of%20moneys%3B%20depositaries%2C%20custodians%2C%20and%20fiscal%20agents%3B%20contributions%20to%20employees%E2%80%99%20compensation%20funds.md) | Deposit of moneys; depositaries, custodians, and fiscal agents; contributions to employees’ compensation funds. |
+| [635\.](%C2%A7%2000635%20-%20Deposit%20of%20moneys%3B%20depositaries%2C%20custodians%2C%20and%20fiscal%20agents%3B%20contributions%20to%20employees%27%20compensation%20funds.md) | Deposit of moneys; depositaries, custodians, and fiscal agents; contributions to employees' compensation funds. |
 | [636\.](%C2%A7%2000636%20-%20Additional%20powers.md) | Additional powers. |
 | [636a.](%C2%A7%2000636a%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XIX%2C%20%C2%A71917%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20781.md) | Repealed. |
 | [636b.](%C2%A7%2000636b%20-%20Disaster%20loan%20interest%20rates.md) | Disaster loan interest rates. |
@@ -108,7 +108,7 @@
 - [&sect; 00634e - Assistance of Government agencies](%C2%A7%2000634e%20-%20Assistance%20of%20Government%20agencies.md)
 - [&sect; 00634f - Reports](%C2%A7%2000634f%20-%20Reports.md)
 - [&sect; 00634g - Budgetary line item and authorization of appropriations](%C2%A7%2000634g%20-%20Budgetary%20line%20item%20and%20authorization%20of%20appropriations.md)
-- [&sect; 00635 - Deposit of moneys; depositaries, custodians, and fiscal agents; contributions to employees&#8217; compensation funds](%C2%A7%2000635%20-%20Deposit%20of%20moneys%3B%20depositaries%2C%20custodians%2C%20and%20fiscal%20agents%3B%20contributions%20to%20employees%E2%80%99%20compensation%20funds.md)
+- [&sect; 00635 - Deposit of moneys; depositaries, custodians, and fiscal agents; contributions to employees' compensation funds](%C2%A7%2000635%20-%20Deposit%20of%20moneys%3B%20depositaries%2C%20custodians%2C%20and%20fiscal%20agents%3B%20contributions%20to%20employees%27%20compensation%20funds.md)
 - [&sect; 00636 - Additional powers](%C2%A7%2000636%20-%20Additional%20powers.md)
 - [&sect; 00636a - Repealed. Pub. L. 97&#8211;35, title XIX, &sect;1917, Aug. 13, 1981, 95 Stat. 781](%C2%A7%2000636a%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XIX%2C%20%C2%A71917%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20781.md)
 - [&sect; 00636b - Disaster loan interest rates](%C2%A7%2000636b%20-%20Disaster%20loan%20interest%20rates.md)

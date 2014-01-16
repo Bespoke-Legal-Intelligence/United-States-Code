@@ -50,11 +50,11 @@ Act of June 28, 1949, referred to in subsec. (e), is act June 28, 1949, ch. 255,
 
 #### Amendments
 
-<b>1984</b>—Subsec. (d)(5). Pub. L. 98–569 inserted “, the costs of measures to replace incidental fish and wildlife values foregone, and the costs of the on-farm measures” before “payable”.
+<b>1984</b>—Subsec. (d)(5). Pub. L. 98–569 inserted ", the costs of measures to replace incidental fish and wildlife values foregone, and the costs of the on-farm measures" before "payable".
 
 <b>1974</b>—Subsec. (d)(5). Pub. L. 93–320 added par. (5).
 
-<b>1962</b>—Subsec. (e). Pub. L. 87–483 substituted “hereafter” for “hereinafter” in proviso in first par.
+<b>1962</b>—Subsec. (e). Pub. L. 87–483 substituted "hereafter" for "hereinafter" in proviso in first par.
 
 <b>1960</b>—Subsec. (f). Pub. L. 86–529 required Secretary, for purposes of computing interest during construction and interest on unpaid balance, to determine interest rate as of beginning of fiscal year in which construction is initiated, on basis of computed average interest rate payable by the Treasury upon its outstanding marketable public obligations, which are neither due nor callable for redemption for fifteen years from date of issue.
 

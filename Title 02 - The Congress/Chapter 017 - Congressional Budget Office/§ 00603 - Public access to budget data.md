@@ -42,5 +42,5 @@ Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title III, §310(b)(1)\], added subs
 
 #### Effective Date
 
-Section effective on day on which first Director of Congressional Budget Office is appointed under section601(a) of this title, see section 905(b) of Pub. L. 93–344, formerly set out as a note under section 621 of this title.
+Section effective on day on which first Director of Congressional Budget Office is appointed under section 601(a) of this title, see section 905(b) of Pub. L. 93–344, formerly set out as a note under section 621 of this title.
 

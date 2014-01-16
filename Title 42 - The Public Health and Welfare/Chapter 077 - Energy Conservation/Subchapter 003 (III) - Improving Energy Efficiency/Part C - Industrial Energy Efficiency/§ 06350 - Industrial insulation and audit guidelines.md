@@ -20,11 +20,11 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–362 struck out heading and text of subsec. (c). Text read as follows: “Not later than 2 years after October 24, 1995, and biennially thereafter, as part of the report required under section 6349(d) of this title, the Secretary shall report to the Congress on activities conducted pursuant to this section, including—
+<b>1998</b>—Subsec. (c). Pub. L. 105–362 struck out heading and text of subsec. (c). Text read as follows: "Not later than 2 years after October 24, 1995, and biennially thereafter, as part of the report required under section 6349(d) of this title, the Secretary shall report to the Congress on activities conducted pursuant to this section, including—
 
-&emsp;“(1) a review of the status of industrial energy auditing procedures; and
+&emsp;"(1) a review of the status of industrial energy auditing procedures; and
 
-&emsp;“(2) an evaluation of the effectiveness of the guidelines established under subsection (a) of this section and the responsiveness of the industrial sector to such guidelines.”
+&emsp;"(2) an evaluation of the effectiveness of the guidelines established under subsection (a) of this section and the responsiveness of the industrial sector to such guidelines."
 
-<b>1995</b>—Subsec. (c). Pub. L. 104–66 in introductory provisions substituted “1995” for “1992”, and inserted “as part of the report required under section 6349(d) of this title,” after “and biennially thereafter,”.
+<b>1995</b>—Subsec. (c). Pub. L. 104–66 in introductory provisions substituted "1995" for "1992", and inserted "as part of the report required under section 6349(d) of this title," after "and biennially thereafter,".
 

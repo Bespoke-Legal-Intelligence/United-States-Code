@@ -4,7 +4,7 @@ For purposes of this chapter—
 
 #### (1) Wager
 
-&emsp;The term “wager” means—
+&emsp;The term "wager" means—
 
 &emsp;&emsp;(A) any wager with respect to a sports event or a contest placed with a person engaged in the business of accepting such wagers,
 
@@ -14,7 +14,7 @@ For purposes of this chapter—
 
 #### (2) Lottery
 
-&emsp;The term “lottery” includes the numbers game, policy, and similar types of wagering. The term does not include—
+&emsp;The term "lottery" includes the numbers game, policy, and similar types of wagering. The term does not include—
 
 &emsp;&emsp;(A) any game of a type in which usually
 

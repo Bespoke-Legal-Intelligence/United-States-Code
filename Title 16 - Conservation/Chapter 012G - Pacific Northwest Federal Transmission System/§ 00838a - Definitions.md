@@ -2,11 +2,11 @@
 
 As used in this chapter—
 
-&emsp;(a) The term “Administrator” means the Administrator, Bonneville Power Administration.
+&emsp;(a) The term "Administrator" means the Administrator, Bonneville Power Administration.
 
-&emsp;(b) The term “electric power” means electric peaking capacity or electric energy, or both.
+&emsp;(b) The term "electric power" means electric peaking capacity or electric energy, or both.
 
-&emsp;(c) The term “major transmission facilities” means transmission facilities intended to be used to provide services not previously provided by the Bonneville Power Administration with its own facilities.
+&emsp;(c) The term "major transmission facilities" means transmission facilities intended to be used to provide services not previously provided by the Bonneville Power Administration with its own facilities.
 
 (Pub. L. 93–454, §3, Oct. 18, 1974, 88 Stat. 1376.)
 

@@ -30,19 +30,19 @@ In this section:
 
 #### (1) Lakeshore
 
-&emsp;The term “Lakeshore” means the Pictured Rocks National Lakeshore in the State of Michigan.
+&emsp;The term "Lakeshore" means the Pictured Rocks National Lakeshore in the State of Michigan.
 
 #### (2) Map
 
-&emsp;The term “map” means the map entitled “Proposed Addition to Pictured Rocks National Lakeshore”, numbered 625/80048, and dated April 2002.
+&emsp;The term "map" means the map entitled "Proposed Addition to Pictured Rocks National Lakeshore", numbered 625/80048, and dated April 2002.
 
 #### (3) Public land
 
-&emsp;The term “public land” means the approximately .32 acres of United States Coast Guard land and improvements to the land, including the United States Coast Guard Auxiliary Operations Station and the front and rear range lights, as depicted on the map.
+&emsp;The term "public land" means the approximately .32 acres of United States Coast Guard land and improvements to the land, including the United States Coast Guard Auxiliary Operations Station and the front and rear range lights, as depicted on the map.
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 #### (g) Authorization of appropriations
 
@@ -58,5 +58,5 @@ Section was enacted as part of the Omnibus Maritime and Coast Guard Improvements
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

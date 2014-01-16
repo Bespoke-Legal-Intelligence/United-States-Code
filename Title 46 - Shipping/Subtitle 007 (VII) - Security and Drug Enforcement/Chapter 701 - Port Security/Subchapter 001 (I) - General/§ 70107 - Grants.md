@@ -102,7 +102,7 @@ Minimum standards for payment or reimbursement.—Each application for payment o
 
 &emsp;&emsp;(A) A copy of the applicable Area Maritime Transportation Security Plan or facility security plan.
 
-&emsp;&emsp;(B) A comprehensive description of the need for the project, and a statement of theproject's relationship to the applicable Area Maritime Transportation Security Plan or facility security plan.
+&emsp;&emsp;(B) A comprehensive description of the need for the project, and a statement of the project's relationship to the applicable Area Maritime Transportation Security Plan or facility security plan.
 
 &emsp;&emsp;(C) A determination by the Captain of the Port that the security project addresses or corrects Coast Guard identified vulnerabilities in security and ensures compliance with Area Maritime Transportation Security Plans and facility security plans.
 
@@ -116,7 +116,7 @@ Project approval required.—The Secretary may approve an application for the pa
 
 &emsp;&emsp;(A) the project is consistent with Coast Guard vulnerability assessments and ensures compliance with Area Maritime Transportation Security Plans and facility security plans;
 
-&emsp;&emsp;(B) enough money is available to pay the project costs that will not be reimbursed by the United States Government under this section;
+&emsp;&emsp;(B) enough money is available to pay the project costs that will not be reimbursed bythe United States Government under this section;
 
 &emsp;&emsp;(C) the project will be completed without unreasonable delay; and
 
@@ -182,7 +182,7 @@ In general.—The Secretary shall conduct investigations, fund pilot programs, a
 
 &emsp;&emsp;(C) equipment to detect accurately nuclear or radiological materials, including scintillation-based detection equipment capable of signalling the presence of nuclear or radiological materials;
 
-&emsp;&emsp;(D) improved tags and seals designed for use on shipping containers to track the transportation of the merchandise in such containers, including sensors that are able to track a container throughout its entire supply chain, detect hazardous and radioactive materials within that container, andtransmit that information to the appropriate law enforcement authorities;
+&emsp;&emsp;(D) improved tags and seals designed for use on shipping containers to track the transportation of the merchandise in such containers, including sensors that are able to track a container throughout its entire supply chain, detect hazardous and radioactive materials within that container, and transmit that information to the appropriate law enforcement authorities;
 
 &emsp;&emsp;(E) tools, including the use of satellite tracking systems, to increase the awareness of maritime areas and to identify potential transportation security incidents that could have an impact on facilities, vessels, and infrastructure on or adjacent to navigable waterways, including underwater access;
 
@@ -272,51 +272,51 @@ The Maritime Transportation Security Act of 2002, referred to in subsec. (k)(3)(
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–281, §828(b)(1), substituted “services and to train law enforcement personnel under section 70132 of this title.” for “services.” in first sentence.
+<b>2010</b>—Subsec. (a). Pub. L. 111–281, §828(b)(1), substituted "services and to train law enforcement personnel under section 70132 of this title." for "services." in first sentence.
 
 Subsec. (b)(8). Pub. L. 111–281, §828(b)(2), added par.(8).
 
 Subsec. (c)(2)(C). Pub. L. 111–281, §828(b)(3), added subpar. (C).
 
-Subsec. (l). Pub. L. 111–281, §828(b)(4), substituted “2013” for “2011”.
+Subsec. (l). Pub. L. 111–281, §828(b)(4), substituted "2013" for "2011".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–347, §112(a), (e), substituted “for the allocation of funds based on risk” for “for making a fair and equitable allocation of funds” and “national economic, energy, and strategic defense concerns based upon the most current risk assessments available” for “national economic and strategic defense concerns”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–347, §112(a), (e), substituted "for the allocation of funds based on risk" for "for making a fair and equitable allocation of funds" and "national economic, energy, and strategic defense concerns based upon the most current risk assessments available" for "national economic and strategic defense concerns".
 
-Subsec. (b)(2). Pub. L. 109–347, §112(b)(1), inserted at end “Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121(j)(8)), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—” and subpars. (A) and (B).
+Subsec. (b)(2). Pub. L. 109–347, §112(b)(1), inserted at end "Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121(j)(8)), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—" and subpars. (A) and (B).
 
 Subsec. (b)(5) to (7). Pub. L. 109–347, §112(b)(2), added pars. (5) to (7).
 
 Subsecs. (e) to (i). Pub. L. 109–347, §112(c)(1), added subsecs. (e) to (h). Former subsecs. (e) to (i) redesignated (i) to (m), respectively.
 
-Subsec. (i)(1). Pub. L. 109–347, §112(c)(2), substituted “Secretary shall require” for “program shall require”.
+Subsec. (i)(1). Pub. L. 109–347, §112(c)(2), substituted "Secretary shall require" for "program shall require".
 
 Subsecs. (j), (k). Pub. L. 109–347, §112(c)(1), redesignated subsecs. (f) and (g) as (j) and (k), respectively.
 
-Subsec. (l). Pub. L. 109–347, §112(d), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: “There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g).”
+Subsec. (l). Pub. L. 109–347, §112(d), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: "There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g)."
 
 Pub. L. 109–347, §112(c)(1), redesignated subsec. (h) as (l).
 
 Subsec. (m). Pub. L. 109–347, §112(c)(1), redesignated subsec. (i) as (m).
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–293, §804(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation, acting through the Maritime Administrator, shall establish a grant program for making a fair and equitable allocation among port authorities, facility operators, and State and local agencies required to provide security services of funds to implement Area Maritime Transportation Security Plans and facility security plans. The program shall take into account national economic and strategic defense considerations.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–293, §804(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary of Transportation, acting through the Maritime Administrator, shall establish a grant program for making a fair and equitable allocation among port authorities, facility operators, and State and local agencies required to provide security services of funds to implement Area Maritime Transportation Security Plans and facility security plans. The program shall take into account national economic and strategic defense considerations."
 
-Subsec. (c)(2)(B). Pub. L. 108–293, §804(b)(1), substituted “Secretary determines” for “Secretary of Transportation determines”.
+Subsec. (c)(2)(B). Pub. L. 108–293, §804(b)(1), substituted "Secretary determines" for "Secretary of Transportation determines".
 
-Subsecs. (d), (e). Pub. L. 108–293, §804(b)(1), substituted “Secretary” for “Secretary of Transportation” wherever appearing.
+Subsecs. (d), (e). Pub. L. 108–293, §804(b)(1), substituted "Secretary" for "Secretary of Transportation" wherever appearing.
 
-Subsec. (f). Pub. L. 108–293, §804(b), substituted “Secretary” for “Secretary of Transportation” in two places and “department in which the Coast Guard is operating” for “Department of Transportation”.
+Subsec. (f). Pub. L. 108–293, §804(b), substituted "Secretary" for "Secretary of Transportation" in two places and "department in which the Coast Guard is operating" for "Department of Transportation".
 
-Subsecs. (g), (h). Pub. L. 108–293, §804(b)(1), substituted “Secretary” for “Secretary of Transportation” wherever appearing.
+Subsecs. (g), (h). Pub. L. 108–293, §804(b)(1), substituted "Secretary" for "Secretary of Transportation" wherever appearing.
 
 Subsec. (i). Pub. L. 108–293, §808(a), added subsec. (i) and struck out former subsec. (i) which related to research and development grants for port security.
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–293, title VIII, §804(c), Aug. 9, 2004, 118 Stat. 1081, provided that: “Subsections (a) and (b) \[amending this section\]—
+Pub. L. 108–293, title VIII, §804(c), Aug. 9, 2004, 118 Stat. 1081, provided that: "Subsections (a) and (b) \[amending this section\]—
 
-&emsp;“(1) shall take effect October 1, 2004; and
+&emsp;"(1) shall take effect October 1, 2004; and
 
-&emsp;“(2) shall not affect any grant made before that date.”
+&emsp;"(2) shall not affect any grant made before that date."
 
 #### Transfer of Functions
 
@@ -324,7 +324,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “5196(j)(8)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "5196(j)(8)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “the applicant”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "the applicant".</i>
 

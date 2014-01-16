@@ -16,19 +16,19 @@ For purposes of subsection (a), the GST exemption amount for any calendar year s
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–312 substituted “the basic exclusion amount” for “the applicable exclusion amount”.
+<b>2010</b>—Subsec. (c). Pub. L. 111–312 substituted "the basic exclusion amount" for "the applicable exclusion amount".
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–16, §521(c)(1), substituted “amount” for “of $1,000,000”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–16, §521(c)(1), substituted "amount" for "of $1,000,000".
 
 Subsec. (c). Pub. L. 107–16, §521(c)(2), amended heading and text of subsec. (c) generally, substituting provisions relating to the GST exemption amount for any calendar year for provisions which related to inflation adjustment of the $1,000,000 amount contained in subsec. (a) in the case of any calendar year after 1998 and applicability of any increase for any such calendar year.
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of an individual who dies in any calendar year after 1998, the $1,000,000 amount contained in subsection (a) shall be increased by an amount equal to—
+<b>1998</b>—Subsec. (c). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "In the case of an individual who dies in any calendar year after 1998, the $1,000,000 amount contained in subsection (a) shall be increased by an amount equal to—
 
-&emsp;“(1) $1,000,000, multiplied by
+&emsp;"(1) $1,000,000, multiplied by
 
-&emsp;“(2) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting ‘calendar year 1997’ for ‘calendar year 1992’ in subparagraph (B) thereof.
+&emsp;"(2) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting 'calendar year 1997' for 'calendar year 1992' in subparagraph (B) thereof.
 
-> If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the next lowest multiple of $10,000.”
+> If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the next lowest multiple of $10,000."
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 

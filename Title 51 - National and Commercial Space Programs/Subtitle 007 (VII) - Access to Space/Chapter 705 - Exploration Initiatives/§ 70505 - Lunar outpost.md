@@ -6,7 +6,7 @@ Establishment.—As the Administration works toward the establishment of a lunar
 
 (b)
 
-Designation.—The United States portion of the first human-tended outpost established on the surface of the Moon shall be designated the “Neil A. Armstrong Lunar Outpost”.
+Designation.—The United States portion of the first human-tended outpost established on the surface of the Moon shall be designated the "Neil A. Armstrong Lunar Outpost".
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3431.)
 

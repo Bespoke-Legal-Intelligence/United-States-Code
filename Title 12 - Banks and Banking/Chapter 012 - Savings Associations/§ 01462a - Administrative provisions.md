@@ -20,7 +20,7 @@ No provision of this chapter or any other provision of law administered by the a
 
 #### References in Text
 
-The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (a), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Subtitle A (§§311–319) of title III of the Act enacted part A (§5411 et seq.) of subchapter III of chapter 53 and sections 4b and 16 of this title, amended sections 1, 11, 248, 481, 482, 1813, and 1820 of this title and section 3502 of Title 44, Public Printing and Documents, and enacted provisions set out as notes under sections 1 and 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (a), is Pub. L.111–203, July 21, 2010, 124 Stat. 1376. Subtitle A (§§311–319) of title III of the Act enacted part A (§5411 et seq.) of subchapter III of chapter 53 and sections 4b and 16 of this title, amended sections 1, 11, 248, 481, 482, 1813, and 1820 of this title and section 3502 of Title 44, Public Printing and Documents, and enacted provisions set out as notes under sections 1 and 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (a), is Pub. L. 101–73, Aug. 9, 1989, 103 Stat. 183. For complete classification of this Act to the Code, see Tables.
 
@@ -30,19 +30,19 @@ A prior section 3 of act June 13, 1933, amended section 1424 of this title prior
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §369(3)(A), inserted section catchline and struck out former section catchline “Director of the Office of Thrift Supervision”.
+<b>2010</b>—Pub. L. 111–203, §369(3)(A), inserted section catchline and struck out former section catchline "Director of the Office of Thrift Supervision".
 
 Pub. L. 111–203, §369(3)(B), (C), redesignated subsecs. (e) and (f) as (a) and (b), respectively, and struck out former subsecs. (a) to (d), which related to establishment of the Office of Thrift Supervision, position, appointment and term of Director, and prohibition on financial interests by Director; and subsecs. (g) to (j), which related to annual report requirement, staff, funding through assessments, and GAO audits.
 
-Subsec. (a). Pub. L. 111–203, §369(3)(D), struck out “of the Director” after “Powers” in heading and substituted “In accordance with subtitle A of title III of the Dodd-Frank Wall Street Reform and Consumer Protection Act, the appropriate Federal banking agency” for “The Director” in introductory provisions.
+Subsec. (a). Pub. L. 111–203, §369(3)(D), struck out "of the Director" after "Powers" in heading and substituted "In accordance with subtitle A of title III of the Dodd-Frank Wall Street Reform and Consumer Protection Act, the appropriate Federal banking agency" for "The Director" in introductory provisions.
 
-Subsec. (b). Pub. L. 111–203, §369(3)(E), substituted “appropriate Federal banking agency” for “Director”.
+Subsec. (b). Pub. L. 111–203, §369(3)(E), substituted "appropriate Federal banking agency" for "Director".
 
 <b>2006</b>—Subsec. (c)(3). Pub. L. 109–351, §712(b), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
 
-Subsec. (c)(5). Pub. L. 109–351, §712(a), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “Notwithstanding paragraphs (1) and (2), the Chairman of the Federal Home Loan Bank Board on the date of enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, shall be the Director until the date on which that individual's term as Chairman of the Federal Home Loan Bank Board would have expired.”
+Subsec. (c)(5). Pub. L. 109–351, §712(a), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: "Notwithstanding paragraphs (1) and (2), the Chairman of the Federal Home Loan Bank Board on the date of enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, shall be the Director until the date on which that individual's term as Chairman of the Federal Home Loan Bank Board would have expired."
 
-<b>1994</b>—Subsec. (b)(3). Pub. L. 103–325, §331(c)(1), substituted “(including agency enforcement actions) unless otherwise specifically provided by law” for “unless otherwise provided by law”.
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–325, §331(c)(1), substituted "(including agency enforcement actions) unless otherwise specifically provided by law" for "unless otherwise provided by law".
 
 Subsec. (b)(4). Pub. L. 103–325, §331(c)(2), added par. (4).
 

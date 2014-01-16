@@ -52,23 +52,23 @@ Mar. 4, 1923, ch. 283, §1 (last par.), 42 Stat. 1509; June 26, 1946, ch. 502, 6
 
 36:122.
 
-Sept. 26, 1996, Pub. L. 104–204, title III, (2d proviso in par. under heading “American Battle Monuments Commission”), 110 Stat. 2907.
+Sept. 26, 1996, Pub. L. 104–204, title III, (2d proviso in par. under heading "American Battle Monuments Commission"), 110 Stat. 2907.
 
-In subsection (a), the words “from time to time” are omitted as unnecessary.
+In subsection (a), the words "from time to time" are omitted as unnecessary.
 
-In subsection (b), before clause (1), the text of 36:121 (last par.) is omitted as executed. In clauses (2) and (3), the word “same” is omitted as unnecessary. In clause (2), the words “authorized to be paid” are substituted for “prescribed” for consistency with clause (3) and 37:405.
+In subsection (b), before clause (1), the text of 36:121 (last par.) is omitted as executed. In clauses (2) and (3), the word "same" is omitted as unnecessary. In clause (2), the words "authorized to be paid" are substituted for "prescribed" for consistency with clause (3) and 37:405.
 
-Subsection (c) is based on 36:122 which is from the 2d proviso in the paragraph under the heading “American Battle Monuments Commission” in title III of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (Public Law 104–204, 110 Stat. 2907). The provision has been repeated each year in prior appropriations acts and therefore is restated as a permanent provision. For prior provisions, see citations under 36:122 (1994 ed.). In the restatement, the words “in the same way as” are substituted for “as provided for” for clarity and consistency in the revised title.
+Subsection (c) is based on 36:122 which is from the 2d proviso in the paragraph under the heading "American Battle Monuments Commission" in title III of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (Public Law 104–204, 110 Stat. 2907). The provision has been repeated each year in prior appropriations acts and therefore is restated as a permanent provision. For prior provisions, see citations under 36:122 (1994 ed.). In the restatement, the words "in the same way as" are substituted for "as provided for" for clarity and consistency in the revised title.
 
 #### Amendments
 
 <b>2013</b>—Subsec. (b)(2). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
 
-<b>2011</b>—Subsec. (b)(2). Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted “475” for “405”.
+<b>2011</b>—Subsec. (b)(2). Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted "475" for "405".
 
-<b>1999</b>—Subsec. (b)(2). Pub. L. 106–117, §604(1)(A), struck out “, United States Code,” after “title 37”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–117, §604(1)(A), struck out ", United States Code," after "title 37".
 
-Subsec. (b)(3). Pub. L. 106–117, §604(1)(B), struck out “, United States Code,” after “title 5”.
+Subsec. (b)(3). Pub. L. 106–117, §604(1)(B), struck out ", United States Code," after "title 5".
 
 #### Effective Date of 2013 Amendment
 

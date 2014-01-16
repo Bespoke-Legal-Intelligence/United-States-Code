@@ -4,33 +4,33 @@ As used in this chapter—
 
 &emsp;(1)(A)
 
-Bank.—The term “Federal Home Loan Bank” or “Bank” means a bank established under the authority of this chapter.
+Bank.—The term "Federal Home Loan Bank" or "Bank" means a bank established under the authority of this chapter.
 
 &emsp;(B)
 
-Bank system.—The term “Federal Home Loan Bank System” means the Federal Home Loan Banks under the supervision of the Director.
+Bank system.—The term "Federal Home Loan Bank System" means the Federal Home Loan Banks under the supervision of the Director.
 
 &emsp;(2)
 
-State.—The term “State”, in addition to the States of the United States, includes the District of Columbia, Guam, Puerto Rico, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+State.—The term "State", in addition to the States of the United States, includes the District of Columbia, Guam, Puerto Rico, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-&emsp;(3) The term “member” means any institution which has subscribed for the stock of a Federal Home Loan Bank.
+&emsp;(3) The term "member" means any institution which has subscribed for the stock of a Federal Home Loan Bank.
 
-&emsp;(4) The term “home mortgage loan” means a loan made by a member upon the security of a home mortgage.
+&emsp;(4) The term "home mortgage loan" means a loan made by a member upon the security of a home mortgage.
 
-&emsp;(5) The term “home mortgage” means a mortgage upon real estate, in fee simple, or on a leasehold (1) under a lease for not less than ninety-nine years which is renewable or (2) under a lease having a period of not less than fifty years to run from the date the mortgage was executed, upon which is located, or which comprises or includes, one or more homes or other dwelling units, all of which may be defined by the Director and shall include, in addition to first mortgages, such classes of first liens as are commonly given to secure advances on real estate by institutions authorized under this chapter to become members, under the laws of the State in which the real estate is located, together with the credit instruments, if any, secured thereby.
+&emsp;(5) The term "home mortgage" means a mortgage upon real estate, in fee simple, or on a leasehold (1) under a lease for not less than ninety-nine years which is renewable or (2) under a lease having a period of not less than fifty years to run from the date the mortgage was executed, upon which is located, or which comprises or includes, one or more homes or other dwelling units, all of which may be defined by the Director and shall include, in addition to first mortgages, such classes of first liens as are commonly given to secure advances on real estate by institutions authorized under this chapter to become members, under the laws of the State in which the real estate is located, together with the credit instruments, if any, secured thereby.
 
-&emsp;(6) The term “unpaid principal,” when used in respect of a loan secured by a home mortgage means the principal thereof less the sum of (1) payments made on such principal, and (2) in cases where shares or stock are pledged as security for the loan, the payments made on such shares or stock plus earnings or dividends apportioned or credited thereon.
+&emsp;(6) The term "unpaid principal," when used in respect of a loan secured by a home mortgage means the principal thereof less the sum of (1) payments made on such principal, and (2) in cases where shares or stock are pledged as security for the loan, the payments made on such shares or stock plus earnings or dividends apportioned or credited thereon.
 
-&emsp;(7) An “amortized” or “installment” home mortgage loan shall, for the purposes of this chapter, be a home mortgage loan to be repaid or liquidated in not less than eight years by means of regular weekly, monthly, or quarterly payments made directly in reduction of the debt or upon stock or shares pledged as collateral for the repayment of such loan.
+&emsp;(7) An "amortized" or "installment" home mortgage loan shall, for the purposes of this chapter, be a home mortgage loan to be repaid or liquidated in not less than eight years by means of regular weekly, monthly, or quarterly payments made directly in reduction of the debt or upon stock or shares pledged as collateral for the repayment of such loan.
 
 &emsp;(8)
 
-Savings association.—The term “savings association” has the meaning given to such term in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
+Savings association.—The term "savings association" has the meaning given to such term in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
 
 &emsp;(9)
 
-Insured depository institution.—The term “insured depository institution” means—
+Insured depository institution.—The term "insured depository institution" means—
 
 &emsp;&emsp;(A) an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]), and
 
@@ -42,7 +42,7 @@ Community financial institution.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “community financial institution” means a member—
+In general.—The term "community financial institution" means a member—
 
 &emsp;&emsp;&emsp;(i) the deposits of which are insured under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\]; and
 
@@ -54,13 +54,13 @@ Adjustments.—The $1,000,000,000 limit referred to in subparagraph (A)(ii) shal
 
 &emsp;(11)
 
-Director.—The term “Director” means the Director of the Federal Housing Finance Agency.
+Director.—The term "Director" means the Director of the Federal Housing Finance Agency.
 
 &emsp;(12)
 
-Agency.—The term “Agency” means the Federal Housing Finance Agency, established under section 4511 of this title.
+Agency.—The term "Agency" means the Federal Housing Finance Agency, established under section 4511 of this title.
 
-(July 22, 1932, ch. 522, §2, 47 Stat. 725; June 27, 1934, ch. 847, §507, 48 Stat. 1264; May 28, 1935, ch.150, §1, 49 Stat. 293; July 14, 1952, ch. 723, §10(c), 66 Stat. 604; Pub. L. 86–70, §9(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §5(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–779, §2(a), Oct. 9, 1962, 76 Stat. 779; Pub. L. 101–73, title VII, §§701(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 411, 418; Pub. L. 106–102, title VI, §602, Nov. 12, 1999, 113 Stat. 1450; Pub. L. 110–289, div. A, title II, §§1203, 1204(8), (10), 1211(a), July 30, 2008, 122 Stat. 2785, 2786, 2790.)
+(July 22, 1932, ch. 522, §2, 47 Stat. 725; June 27, 1934, ch. 847, §507, 48 Stat. 1264; May 28, 1935, ch. 150, §1, 49 Stat. 293; July 14, 1952, ch. 723, §10(c), 66 Stat. 604; Pub. L. 86–70, §9(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §5(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–779, §2(a), Oct. 9, 1962, 76 Stat. 779; Pub. L. 101–73, title VII, §§701(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 411, 418; Pub. L. 106–102, title VI, §602, Nov. 12, 1999, 113 Stat. 1450; Pub. L. 110–289, div. A, title II, §§1203, 1204(8), (10), 1211(a), July 30, 2008, 122 Stat. 2785, 2786, 2790.)
 
 #### References in Text
 
@@ -70,53 +70,53 @@ The Federal Deposit Insurance Act, referred to in par. (10)(A)(i), is act Sept. 
 
 #### Amendments
 
-<b>2008</b>—Par. (1). Pub. L. 110–289, §1203(1), (2), redesignated par. (2) as (1) and struck out former par. (1). Prior to amendment, text read as follows: “The terms ‘Finance Board’ and ‘Board’ mean the Federal Housing Finance Board established under section 1422a of this title.”
+<b>2008</b>—Par. (1). Pub. L. 110–289, §1203(1), (2), redesignated par. (2) as (1) and struck out former par. (1). Prior to amendment, text read as follows: "The terms 'Finance Board' and 'Board' mean the Federal Housing Finance Board established under section 1422a of this title."
 
-Par. (1)(B). Pub. L. 110–289, §1204(8), substituted “the Director” for “the Board”.
+Par. (1)(B). Pub. L. 110–289, §1204(8), substituted "the Director" for "the Board".
 
 Pars. (2) to (4). Pub. L. 110–289, §1203(2), redesignated pars. (3) to (5) as (2) to (4), respectively. Former par. (2) redesignated (1).
 
-Par. (5). Pub. L. 110–289, §1204(8), substituted “the Director” for “the Board”.
+Par. (5). Pub. L. 110–289, §1204(8), substituted "the Director" for "the Board".
 
 Pub. L. 110–289, §1203(2), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
 Pars. (6) to (9). Pub. L. 110–289, §1203(2), (3), redesignated pars. (7) to (9) and (12) as (6) to (9), respectively. Former par. (6) redesignated (5).
 
-Par. (10). Pub. L. 110–289, §1203(1), (3), redesignated par. (13) as (10) and struck out former par. (10). Prior to amendment, text read as follows: “The term ‘Chairperson’ means the Chairperson of the Board.”
+Par. (10). Pub. L. 110–289, §1203(1), (3), redesignated par. (13) as (10) and struck out former par. (10). Prior to amendment, text read as follows: "The term 'Chairperson' means the Chairperson of the Board."
 
-Par. (10)(A)(ii). Pub. L. 110–289, §1211(a), substituted “$1,000,000,000” for “$500,000,000”.
+Par. (10)(A)(ii). Pub. L. 110–289, §1211(a), substituted "$1,000,000,000" for "$500,000,000".
 
-Par. (10)(B). Pub. L. 110–289, §1211(a), substituted “$1,000,000,000” for “$500,000,000”.
+Par. (10)(B). Pub. L. 110–289, §1211(a), substituted "$1,000,000,000" for "$500,000,000".
 
-Pub. L. 110–289, §1204(10), substituted “the Director” for “the Finance Board”.
+Pub. L. 110–289, §1204(10), substituted "the Director" for "the Finance Board".
 
-Pars. (11) to (13). Pub. L. 110–289, §1203(1), (3), (4), added pars. (11) and (12), redesignated former pars. (12) and (13) as (9) and (10), respectively, and struck out former par. (11). Prior to amendment, text read as follows: “The term ‘Secretary’ means the Secretary of Housing and Urban Development.”
+Pars. (11) to (13). Pub. L. 110–289, §1203(1), (3), (4), added pars. (11) and (12), redesignated former pars. (12) and (13) as (9) and (10), respectively, and struck out former par. (11). Prior to amendment, text read as follows: "The term 'Secretary' means the Secretary of Housing and Urban Development."
 
-<b>1999</b>—Par. (1). Pub. L. 106–102, §602(1), substituted “terms ‘Finance Board’ and ‘Board’ mean” for “term ‘Board’ means”.
+<b>1999</b>—Par. (1). Pub. L. 106–102, §602(1), substituted "terms 'Finance Board' and 'Board' mean" for "term 'Board' means".
 
-Par. (3). Pub. L. 106–102, §602(2), added par. (3) and struck out former par. (3) which read as follows: “The term ‘State’ includes the District of Columbia, Guam, Puerto Rico, and the Virgin Islands of the United States.”
+Par. (3). Pub. L. 106–102, §602(2), added par. (3) and struck out former par. (3) which read as follows: "The term 'State' includes the District of Columbia, Guam, Puerto Rico, and the Virgin Islands of the United States."
 
 Par. (13). Pub. L. 106–102, §602(3), added par. (13).
 
-<b>1989</b>—Pars. (1), (2). Pub. L. 101–73, §701(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which defined “board” and “Federal Home Loan Bank”.
+<b>1989</b>—Pars. (1), (2). Pub. L. 101–73, §701(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which defined "board" and "Federal Home Loan Bank".
 
-Par. (4). Pub. L. 101–73, §701(a)(2), which directed amendment of par. (4) by striking out “(except when used in reference to the member of the Board)” after “ ‘member’ ”, was executed by striking out “(except when used in reference to a member of the board)” as the probable intent of Congress.
+Par. (4). Pub. L. 101–73, §701(a)(2), which directed amendment of par. (4) by striking out "(except when used in reference to the member of the Board)" after " 'member' ", was executed by striking out "(except when used in reference to a member of the board)" as the probable intent of Congress.
 
-Par. (5). Pub. L. 101–73, §710(b)(1), struck out “or a nonmember borrower” after “member”.
+Par. (5). Pub. L. 101–73, §710(b)(1), struck out "or a nonmember borrower" after "member".
 
-Pars. (9) to (12). Pub. L. 101–73, §701(a)(3), added pars. (9) to (12) and struck out former par. (9) which read as follows: “The term ‘nonmember borrower’ includes an institution authorized to secure advances from a Federal Home Loan Bank under the provisions of subsection (e) of section 1426 of this title.”
+Pars. (9) to (12). Pub. L. 101–73, §701(a)(3), added pars. (9) to (12) and struck out former par. (9) which read as follows: "The term 'nonmember borrower' includes an institution authorized to secure advances from a Federal Home Loan Bank under the provisions of subsection (e) of section 1426 of this title."
 
-<b>1962</b>—Subsec. (6). Pub. L. 87–779 substituted “upon which is located, or which comprises or includes, one or more homes or other dwelling units, all of which may be defined by the Board” for “upon which there is located a dwelling for not more than four families”.
+<b>1962</b>—Subsec. (6). Pub. L. 87–779 substituted "upon which is located, or which comprises or includes, one or more homes or other dwelling units, all of which may be defined by the Board" for "upon which there is located a dwelling for not more than four families".
 
 <b>1960</b>—Subsec. (3). Pub. L. 86–624 struck out reference to Territory of Hawaii.
 
-<b>1959</b>—Subsec. (3). Pub. L. 86–70 substituted “Territory of Hawaii” for “Territories of Alaska and Hawaii”.
+<b>1959</b>—Subsec. (3). Pub. L. 86–70 substituted "Territory of Hawaii" for "Territories of Alaska and Hawaii".
 
-<b>1952</b>—Subsec. (3). Act July 14, 1952, inserted “Guam,”.
+<b>1952</b>—Subsec. (3). Act July 14, 1952, inserted "Guam,".
 
-<b>1935</b>—Subsec. (6). Act May 28, 1935, substituted “four families” for “three families”.
+<b>1935</b>—Subsec. (6). Act May 28, 1935, substituted "four families" for "three families".
 
-<b>1934</b>—Subsec. (6). Act June 27, 1934, struck out “first” before “mortgage” and inserted “or (2) under a lease having a period of not less than fifty years to run from the date the mortgage was executed”.
+<b>1934</b>—Subsec. (6). Act June 27, 1934, struck out "first" before "mortgage" and inserted "or (2) under a lease having a period of not less than fifty years to run from the date the mortgage was executed".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

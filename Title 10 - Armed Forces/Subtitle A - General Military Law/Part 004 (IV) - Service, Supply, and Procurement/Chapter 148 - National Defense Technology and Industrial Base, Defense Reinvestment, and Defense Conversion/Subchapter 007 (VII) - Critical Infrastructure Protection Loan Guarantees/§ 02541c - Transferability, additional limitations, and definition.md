@@ -6,11 +6,11 @@ The following provisions of subchapter VI of this chapter apply to guarantees is
 
 &emsp;(2) Subsections (b) and (c) of section 2540b, providing limitations.
 
-&emsp;(3) Section 2540d(2), providing a definition of the term “cost”.
+&emsp;(3) Section 2540d(2), providing a definition of the term "cost".
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; amended Pub. L. 107–107, div. A, title X, §1048(a)(24), Dec. 28, 2001, 115 Stat. 1224.)
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–107 substituted “subchapter” for “subtitle” in two places in introductory provisions.
+<b>2001</b>—Pub. L. 107–107 substituted "subchapter" for "subtitle" in two places in introductory provisions.
 

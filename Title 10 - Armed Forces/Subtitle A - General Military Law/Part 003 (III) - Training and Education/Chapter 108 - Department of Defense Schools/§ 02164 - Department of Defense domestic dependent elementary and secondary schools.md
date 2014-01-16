@@ -6,7 +6,7 @@ Authority of Secretary.—(1) If the Secretary of Defense makes a determination 
 
 (2) The Secretary may, at the discretion of the Secretary, permit dependents of members of the armed forces and, to the extent provided in subsection (c), dependents of civilian employees of the Federal Government residing in a territory, commonwealth, or possession of the United States but not on a military installation, to enroll in an educational program provided by the Secretary pursuant to this subsection. If a member of the armed forces is assigned to a remote location or is assigned to an unaccompanied tour of duty, a dependent of the member who resides, on or off a military installation, in a territory, commonwealth, or possession of the United States, as authorized by the member's orders, may be enrolled in an educational program provided by the Secretary under this subsection.
 
-(3)(A) Under the circumstances described in subparagraph (B), the Secretary may, at the discretion of the Secretary, permit a dependent of a member of the armed forces to enroll in an educational program provided by the Secretary pursuant to this subsection without regard to the requirement in paragraph (1) with respect to residence on a military installation.
+(3)(A) Under the circumstances described in subparagraph (B), the Secretary may, at the discretion of the Secretary, permit a dependent ofa member of the armed forces to enroll in an educational program provided by the Secretary pursuant to this subsection without regard to the requirement in paragraph (1) with respect to residence on a military installation.
 
 (B) Subparagraph (A) applies only if—
 
@@ -90,7 +90,7 @@ Administration and Staff.—(1) The Secretary of Defense may enter into such arr
 
 (4)(A) The Secretary may, without regard to the provisions of any law relating to the number, classification, or compensation of employees—
 
-&emsp;(i) transfer employees from schools established under this section to schools in the defense dependents’ education system in order to provide the services referred to in subparagraph (B) to such system; and
+&emsp;(i) transfer employees from schools established under this section to schools in the defense dependents' education system in order to provide the services referred to in subparagraph (B) to such system; and
 
 &emsp;(ii) transfer employees from such system to schools established under this section in order to provide such services to those schools.
 
@@ -108,7 +108,7 @@ Administration and Staff.—(1) The Secretary of Defense may enter into such arr
 
 (D) The Secretary may provide that the transfer of an employee under this paragraph occur without reimbursement of the school or system concerned.
 
-(E) In this paragraph, the term “defense dependents’ education system” means the program established and operated under section 1402(a) of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921(a)).
+(E) In this paragraph, the term "defense dependents' education system" means the program established and operated under section 1402(a) of the Defense Dependents' Education Act of 1978 (20 U.S.C. 921(a)).
 
 (f)
 
@@ -124,9 +124,9 @@ Substantive and Procedural Rights and Protections for Children.—(1) The Secret
 
 (3) In this subsection:
 
-&emsp;(A) The term “children with disabilities” has the meaning given the term in section 602 of the Individuals with Disabilities Education Act (20 U.S.C. 1401).
+&emsp;(A) The term "children with disabilities" has the meaning given the term in section 602 of the Individuals with Disabilities Education Act (20 U.S.C. 1401).
 
-&emsp;(B) The term “infants or toddlers with disabilities” has the meaning given the term in section 632 of such Act (20 U.S.C. 1432).
+&emsp;(B) The term "infants or toddlers with disabilities" has the meaning given the term in section 632 of such Act (20 U.S.C. 1432).
 
 (g)
 
@@ -138,7 +138,7 @@ Continuation of Enrollment Despite Change in Status.—(1) The Secretary of Defe
 
 (2) The Secretary may, for good cause, authorize a dependent of a member of the armed forces or a dependent of a Federal employee to continue enrollment in an educational program provided by the Secretary pursuant to subsection (a) notwithstanding a change in the status of the member or employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The enrollment may continue for as long as the Secretary considers appropriate.
 
-(3) Paragraphs (1) and (2) do not limit the authority of the Secretary to remove a dependentfrom enrollment in an educational program provided by the Secretary pursuant to subsection (a) at any time for good cause determined by the Secretary.
+(3) Paragraphs (1) and (2) do not limit the authority of the Secretary to remove a dependent from enrollment in an educational program provided by the Secretary pursuant to subsection (a) at any time for good cause determined by the Secretary.
 
 (i)
 
@@ -166,7 +166,7 @@ Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing on 
 
 (k)
 
-Enrollment of Relocated Defense Dependents’ Education System Students.—(1) The Secretary of Defense may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent of a member of the armed forces or a dependent of a Federal employee who is enrolled in the defense dependents’ education system established under section 1402 of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921) if—
+Enrollment of Relocated Defense Dependents' Education System Students.—(1) The Secretary of Defense may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent of a member of the armed forces or a dependent of a Federal employee who is enrolled in the defense dependents' education system established under section 1402 of the Defense Dependents' Education Act of 1978 (20 U.S.C. 921) if—
 
 &emsp;(A) the dependents departed the overseas location as a result of a evacuation order;
 
@@ -182,11 +182,13 @@ Enrollment in Virtual Elementary and Secondary Education Program.—(1) Under re
 
 &emsp;(A) is enrolled in an elementary or secondary school operated by a local educational agency or another accredited educational program in the United States (other than a school operated by the Department of Defense education program); and
 
-&emsp;(B) immediately before such enrollment, was enrolled in the defense dependents’ education system established under section 1402 of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921).
+&emsp;(B) immediately before such enrollment, was enrolled in the defense dependents' education system established under section 1402 of the Defense Dependents' Education Act of 1978 (20 U.S.C. 921).
 
 (2) Enrollment of a dependent described in paragraph (1) pursuant to such paragraph shall be on a tuition basis.
 
-(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, §305(a), Dec. 3, 2004, 118 Stat. 2804; Pub. L. 111–84, div. A, title V, §534, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 111–383, div. A, title V, §561, Jan. 7, 2011, 124 Stat. 4221; Pub. L. 112–239, div. A, title V, §565, Jan. 2, 2013, 126 Stat. 1749.)
+(3) Any payments received by the Secretary of Defense under this subsection shall be credited to the account designated by the Secretary for the operation of the virtual educational program under this subsection. Payments so credited shall be merged with other funds in the account and shall be available, to the extent provided in advance in appropriation Acts, for the same purposes and the same period as other funds in the account.
+
+(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, §305(a), Dec. 3, 2004, 118 Stat. 2804; Pub. L. 111–84, div. A, title V, §534, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 111–383, div. A, title V, §561, Jan. 7, 2011, 124 Stat. 4221; Pub. L. 112–239, div. A, title V, §565, Jan. 2, 2013, 126 Stat. 1749; Pub. L. 113–66, div. A, title V, §553(a), Dec. 26, 2013, 127 Stat. 764.)
 
 #### References in Text
 
@@ -202,35 +204,37 @@ Section 6(a) of Public Law 81–874 (20 U.S.C. 241(a)), referred to in subsec. (
 
 <b>2013</b>—Subsecs. (k), (l). Pub. L. 112–239 added subsecs. (k) and (l).
 
+Subsec. (l)(3). Pub. L. 113–66 added par. (3).
+
 <b>2011</b>—Subsec. (a)(3). Pub. L. 111–383 added par. (3).
 
 <b>2009</b>—Subsec. (j). Pub. L. 111–84 added subsec. (j).
 
-<b>2004</b>—Subsec. (f)(1)(B). Pub. L. 108–446, §305(a)(1), substituted “infants or toddlers” for “infants and toddlers” in two places, “part C” for “part H”, and “1431 et seq.” for “1471 et seq.”.
+<b>2004</b>—Subsec. (f)(1)(B). Pub. L. 108–446, §305(a)(1), substituted "infants or toddlers" for "infants and toddlers" in two places, "part C" for "part H", and "1431 et seq." for "1471 et seq.".
 
-Subsec. (f)(3)(A). Pub. L. 108–446, §305(a)(2)(A), substituted “section 602” for “section 602(a)(1)” and “1401” for “1401(a)(1)”.
+Subsec. (f)(3)(A). Pub. L. 108–446, §305(a)(2)(A), substituted "section 602" for "section 602(a)(1)" and "1401" for "1401(a)(1)".
 
-Subsec. (f)(3)(B). Pub. L. 108–446, §305(a)(2)(D), substituted “or toddlers” for “and toddlers”, “632” for “672(1)”, and “1432” for “1472(1)”.
+Subsec. (f)(3)(B). Pub. L. 108–446, §305(a)(2)(D), substituted "or toddlers" for "and toddlers", "632" for "672(1)", and "1432" for "1472(1)".
 
-Pub. L. 108–446, §305(a)(2)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined the term “children with disabilities aged 3 to 5, inclusive”.
+Pub. L. 108–446, §305(a)(2)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined the term "children with disabilities aged 3 to 5, inclusive".
 
 Subsec. (f)(3)(C). Pub. L. 108–446, §305(a)(2)(C), redesignated subpar. (C) as (B).
 
 <b>2000</b>—Subsec. (i). Pub. L. 106–398 added subsec. (i).
 
-<b>1999</b>—Subsec. (c)(3). Pub. L. 106–65, §353(1), struck out par. (3) which read as follows: “A dependent of a Federal employee may continue enrollment in a program under this subsection for the remainder of a school year notwithstanding a change during such school year in the status of the Federal employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The preceding sentence does not limit the authority of the Secretary to remove the dependent from enrollment in the program at any time for good cause determined by the Secretary.”
+<b>1999</b>—Subsec. (c)(3). Pub. L. 106–65, §353(1), struck out par. (3) which read as follows: "A dependent of a Federal employee may continue enrollment in a program under this subsection for the remainder of a school year notwithstanding a change during such school year in the status of the Federal employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The preceding sentence does not limit the authority of the Secretary to remove the dependent from enrollment in the program at any time for good cause determined by the Secretary."
 
-Subsec. (d)(1). Pub. L. 106–65, §352, inserted at end “The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.”
+Subsec. (d)(1). Pub. L. 106–65, §352, inserted at end "The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations."
 
 Subsec. (h). Pub. L. 106–65, §353(2), added subsec. (h).
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–261, §371(a)(1), (2), designated first sentence as par. (1) and second sentence as par. (2).
 
-Subsec. (a)(2). Pub. L. 105–261, §371(a)(3), inserted at end “If a member of the armed forces is assigned to a remote location or is assigned to an unaccompanied tour of duty, a dependent of the member who resides, on or off a military installation, in a territory, commonwealth, or possession of the United States, as authorized by the member's orders, may be enrolled in an educational program provided by the Secretary under this subsection.”
+Subsec. (a)(2). Pub. L. 105–261, §371(a)(3), inserted at end "If a member of the armed forces is assigned to a remote location or is assigned to an unaccompanied tour of duty, a dependent of the member who resides, on or off a military installation, in a territory, commonwealth, or possession of the United States, as authorized by the member's orders, may be enrolled in an educational program provided by the Secretary under this subsection."
 
 Subsec. (c)(1). Pub. L. 105–261, §371(c)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (c)(2)(B). Pub. L. 105–261, §371(b), added subpar. (B) and struck out former subpar. (B) which read as follows: “A dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time.”
+Subsec. (c)(2)(B). Pub. L. 105–261, §371(b), added subpar. (B) and struck out former subpar. (B) which read as follows: "A dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time."
 
 Subsec. (c)(2)(D). Pub. L. 105–261, §371(c)(2), added subpar. (D).
 
@@ -238,13 +242,17 @@ Subsec. (c)(2)(D). Pub. L. 105–261, §371(c)(2), added subpar. (D).
 
 Subsec. (e)(4). Pub. L. 104–106 added par. (4).
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 113–66, div. A, title V, §553(b), Dec. 26, 2013, 127 Stat. 764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to tuition payments received under section 2164(l) of title 10, United States Code, for enrollments authorized by such section, after the date of the enactment of this Act \[Dec. 26, 2013\], in the virtual elementary and secondary education program of the Department of Defense education program."
+
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title III, §371(c)(3), Oct. 17, 1998, 112 Stat. 1989, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to academic years beginning on or after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title III, §371(c)(3), Oct. 17, 1998, 112 Stat. 1989, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to academic years beginning on or after the date of the enactment of this Act \[Oct. 17, 1998\]."
 
 #### Savings Provision
 
-Pub. L. 103–337, div. A, title III, §351(c), Oct. 5, 1994, 108 Stat. 2730, provided that: “Nothing in section 2164 of title 10, United States Code, as added by subsection (a), shall be construed as affecting the rights in existence on the date of the enactment of this Act \[Oct. 5, 1994\] of an employee of any school established under such section (or any other provision of law enacted before the date of the enactment of this Act that established a similar school) to negotiate or bargain collectively with the Secretary with respect to wages, hours, and other terms and conditions of employment.”
+Pub. L. 103–337, div. A, title III, §351(c), Oct. 5, 1994, 108 Stat. 2730, provided that: "Nothing in section 2164 of title 10, United States Code, as added by subsection (a), shall be construed as affecting the rights in existence on the date of the enactment of this Act \[Oct. 5, 1994\] of an employee of any school established under such section (or any other provision of law enacted before the date of the enactment of this Act that established a similar school) to negotiate or bargain collectively with the Secretary with respect to wages, hours, and other terms and conditions of employment."
 
 #### Transfer of Functions
 

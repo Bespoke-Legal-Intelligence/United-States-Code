@@ -4,15 +4,15 @@ In this chapter, the following definitions shall apply:
 
 #### (1) Carnal knowledge
 
-&emsp;The term “carnal knowledge” means contact between the penis and the vulva or the penis and the anus, including penetration of any sort, however slight.
+&emsp;The term "carnal knowledge" means contact between the penis and the vulva or the penis and the anus, including penetration of any sort, however slight.
 
 #### (2) Inmate
 
-&emsp;The term “inmate” means any person incarcerated or detained in any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program.
+&emsp;The term "inmate" means any person incarcerated or detained in any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program.
 
 #### (3) Jail
 
-&emsp;The term “jail” means a confinement facility of a Federal, State, or local law enforcement agency to hold—
+&emsp;The term "jail" means a confinement facility of a Federal, State, or local law enforcement agency to hold—
 
 &emsp;&emsp;(A) persons pending adjudication of criminal charges; or
 
@@ -20,15 +20,15 @@ In this chapter, the following definitions shall apply:
 
 #### (4) HIV
 
-&emsp;The term “HIV” means the human immunodeficiency virus.
+&emsp;The term "HIV" means the human immunodeficiency virus.
 
 #### (5) Oral sodomy
 
-&emsp;The term “oral sodomy” means contact between the mouth and the penis, the mouth and the vulva, or the mouth and the anus.
+&emsp;The term "oral sodomy" means contact between the mouth and the penis, the mouth and the vulva, or the mouth and the anus.
 
 #### (6) Police lockup
 
-&emsp;The term “police lockup” means a temporary holding facility of a Federal, State, or local law enforcement agency to hold—
+&emsp;The term "police lockup" means a temporary holding facility of a Federal, State, or local law enforcement agency to hold—
 
 &emsp;&emsp;(A) inmates pending bail or transport to jail;
 
@@ -38,7 +38,7 @@ In this chapter, the following definitions shall apply:
 
 #### (7) Prison
 
-&emsp;The term “prison” means any confinement facility of a Federal, State, or local government, whether administered by such government or by a private organization on behalf of such government, and includes—
+&emsp;The term "prison" means any confinement facility of a Federal, State, or local government, whether administered by such government or by a private organization on behalf of such government, and includes—
 
 &emsp;&emsp;(A) any local jail or police lockup; and
 
@@ -46,11 +46,11 @@ In this chapter, the following definitions shall apply:
 
 #### (8) Prison rape
 
-&emsp;The term “prison rape” includes the rape of an inmate in the actual or constructive control of prison officials.
+&emsp;The term "prison rape" includes the rape of an inmate in the actual or constructive control of prison officials.
 
 #### (9) Rape
 
-&emsp;The term “rape” means—
+&emsp;The term "rape" means—
 
 &emsp;&emsp;(A) the carnal knowledge, oral sodomy, sexual assault with an object, or sexual fondling of a person, forcibly or against that person's will;
 
@@ -60,11 +60,11 @@ In this chapter, the following definitions shall apply:
 
 #### (10) Sexual assault with an object
 
-&emsp;The term “sexual assault with an object” means the use of any hand, finger, object, or other instrument to penetrate, however slightly, the genital or anal opening of the body of another person.
+&emsp;The term "sexual assault with an object" means the use of any hand, finger, object, or other instrument to penetrate, however slightly, the genital or anal opening of the body of another person.
 
 #### (11) Sexual fondling
 
-&emsp;The term “sexual fondling” means the touching of the private body parts of another person (including the genitalia, anus, groin, breast, inner thigh, or buttocks) for the purpose of sexual gratification.
+&emsp;The term "sexual fondling" means the touching of the private body parts of another person (including the genitalia, anus, groin, breast, inner thigh, or buttocks) for the purpose of sexual gratification.
 
 #### (12) Exclusions
 

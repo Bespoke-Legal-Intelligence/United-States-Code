@@ -46,21 +46,21 @@ Release to State of Certain Other Persons.—If the director of a facility in wh
 
 (h)
 
-Definition.—As used in this chapter the term “State” includes the District of Columbia.
+Definition.—As used in this chapter the term "State" includes the District of Columbia.
 
 (Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2062; Pub. L. 101–647, title XXXV, §3599D, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 105–33, title XI, §11204(1), Aug. 5, 1997, 111 Stat. 739.)
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33, §11204(1)(A), inserted “in the custody of the Bureau of Prisons” after “certifies that a person”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §11204(1)(A), inserted "in the custody of the Bureau of Prisons" after "certifies that a person".
 
 Subsec. (h). Pub. L. 105–33, §11204(1)(B), added subsec. (h).
 
-<b>1990</b>—Subsec. (g). Pub. L. 101–647 substituted “chapter” for “subchapter”.
+<b>1990</b>—Subsec. (g). Pub. L. 101–647 substituted "chapter" for "subchapter".
 
-<b>1984</b>—Pub. L. 98–473 amended section generally, substituting “Hospitalization of a person due for release but suffering from mental disease or defect” for “Procedure upon finding of mental incompetency” in section catchline, and substituting provisions relating to proceedings, examination and report, hearing, etc., regarding hospitalization of a person due for release but suffering from mental disease or defect, for provisions relating to powers of the trial court with respect to finding of mental incompetency of accused.
+<b>1984</b>—Pub. L. 98–473 amended section generally, substituting "Hospitalization of a person due for release but suffering from mental disease or defect" for "Procedure upon finding of mental incompetency" in section catchline, and substituting provisions relating to proceedings, examination and report, hearing, etc., regarding hospitalization of a person due for release but suffering from mental disease or defect, for provisions relating to powers of the trial court with respect to finding of mental incompetency of accused.
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–33, title XI, §11721, Aug. 5, 1997, 111 Stat. 786, provided that: “Except as otherwise provided in this title \[enacting section 138 of former Title 40, Public Buildings, Property, and Works, amending this section, section 4247 of this title, section 1063 of Title 20, Education, section 225b of Title 24, Hospitals and Asylums, sections 6103 and 7213 of Title 26, Internal Revenue Code, sections 715 and 6501 of Title 31, Money and Finance, sections 71f and 138 of former Title 40, and sections 13723 and 14407 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 6103 of Title 26, and amending provisions set out as a note under section 4201 of this title\], the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995 \[Pub. L. 104–8, 109 Stat. 108\], as amended by this title \[so certified Sept. 8, 1997\].”
+Pub. L. 105–33, title XI, §11721, Aug. 5, 1997, 111 Stat. 786, provided that: "Except as otherwise provided in this title \[enacting section 138 of former Title 40, Public Buildings, Property, and Works, amending this section, section 4247 of this title, section 1063 of Title 20, Education, section 225b of Title 24, Hospitals and Asylums, sections 6103 and 7213 of Title 26, Internal Revenue Code, sections 715 and 6501 of Title 31, Money and Finance, sections 71f and 138 of former Title 40, and sections 13723 and 14407 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 6103 of Title 26, and amending provisions set out as a note under section 4201 of this title\], the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995 \[Pub. L. 104–8, 109 Stat. 108\], as amended by this title \[so certified Sept. 8, 1997\]."
 

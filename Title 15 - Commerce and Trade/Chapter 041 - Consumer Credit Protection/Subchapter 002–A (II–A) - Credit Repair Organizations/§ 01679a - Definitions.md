@@ -4,15 +4,15 @@ For purposes of this subchapter, the following definitions apply:
 
 #### (1) Consumer
 
-&emsp;The term “consumer” means an individual.
+&emsp;The term "consumer" means an individual.
 
 #### (2) Consumer credit transaction
 
-&emsp;The term “consumer credit transaction” means any transaction in which credit is offered or extended to an individual for personal, family, or household purposes.
+&emsp;The term "consumer credit transaction" means any transaction in which credit is offered or extended to an individual for personal, family, or household purposes.
 
 #### (3) Credit repair organization
 
-&emsp;The term “credit repair organization”—
+&emsp;The term "credit repair organization"—
 
 &emsp;&emsp;(A) means any person who uses any instrumentality of interstate commerce or the mails to sell, provide, or perform (or represent that such person can or will sell, provide, or perform) any service, in return for the payment of money or other valuable consideration, for the express or implied purpose of—
 
@@ -30,7 +30,7 @@ For purposes of this subchapter, the following definitions apply:
 
 #### (4) Credit
 
-&emsp;The term “credit” has the meaning given to such term in section 1602(e) <sup>1</sup> of this title.
+&emsp;The term "credit" has the meaning given to such term in section 1602(e) <sup>1</sup> of this title.
 
 (Pub. L. 90–321, title IV, §403, as added Pub. L. 104–208, div. A, title II, §2451, Sept. 30, 1996, 110 Stat. 3009–455.)
 

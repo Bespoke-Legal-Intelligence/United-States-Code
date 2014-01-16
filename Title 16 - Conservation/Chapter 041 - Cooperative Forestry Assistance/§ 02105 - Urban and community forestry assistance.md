@@ -90,7 +90,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 #### (1) Establishment and purpose
 
-&emsp;The Secretary shall establish a National Urban and Community Forestry Advisory Council (hereafter in this section referred to as the “Council”) for the purpose of—
+&emsp;The Secretary shall establish a National Urban and Community Forestry Advisory Council (hereafter in this section referred to as the "Council") for the purpose of—
 
 &emsp;&emsp;(A) developing a national urban and community forestry action plan;
 
@@ -212,11 +212,11 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 For the purposes of this section—
 
-&emsp;(1) the term “Council” means the National Urban and Community Forestry Advisory Council established under subsection (g) of this section;
+&emsp;(1) the term "Council" means the National Urban and Community Forestry Advisory Council established under subsection (g) of this section;
 
-&emsp;(2) the term “plan” means the National Urban and Community Forestry Action Plan developed under subsection (g)(3) of this section; and
+&emsp;(2) the term "plan" means the National Urban and Community Forestry Action Plan developed under subsection (g)(3) of this section; and
 
-&emsp;(3) the term “urban and community area” includes cities, their suburbs, and towns.
+&emsp;(3) the term "urban and community area" includes cities, their suburbs, and towns.
 
 #### (i) Authorization of appropriations
 
@@ -226,19 +226,19 @@ There are hereby authorized to be appropriated $30,000,000 for each of the fisca
 
 #### Codification
 
-November 28, 1990, referred to in subsec. (g)(3), was in the original “the date of enactment of this subsection”, which was translated as meaning the date of enactment of Pub. L. 101–624, which amended this section generally, to reflect the probable intent of Congress.
+November 28, 1990, referred to in subsec. (g)(3), was in the original "the date of enactment of this subsection", which was translated as meaning the date of enactment of Pub. L. 101–624, which amended this section generally, to reflect the probable intent of Congress.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (g)(2)(A)(viii). Pub. L. 110–246, §7511(c)(36), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+<b>2008</b>—Subsec. (g)(2)(A)(viii). Pub. L. 110–246, §7511(c)(36), substituted "National Institute of Food and Agriculture" for "Extension Service".
 
-<b>1991</b>—Subsec. (g)(1)(C), (3)(E). Pub. L. 102–237, §1018(a)(3)(A), (B), substituted “subsection (f)” for “subsection (e)”.
+<b>1991</b>—Subsec. (g)(1)(C), (3)(E). Pub. L. 102–237, §1018(a)(3)(A), (B), substituted "subsection (f)" for "subsection (e)".
 
-Subsec. (h)(1). Pub. L. 102–237, §1018(a)(3)(C), substituted “subsection (g)” for “subsection (f)”.
+Subsec. (h)(1). Pub. L. 102–237, §1018(a)(3)(C), substituted "subsection (g)" for "subsection (f)".
 
-Subsec. (h)(2). Pub. L. 102–237, §1018(a)(3)(D), substituted “subsection (g)(3)” for “subsection (f)(3)”.
+Subsec. (h)(2). Pub. L. 102–237, §1018(a)(3)(D), substituted "subsection (g)(3)" for "subsection (f)(3)".
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to Congressional findings concerning urban forestry assistance, financial, technical, and related assistance to State foresters or equivalent State officials to encourage planning of urban forestry programs, and authorization of appropriations.
 

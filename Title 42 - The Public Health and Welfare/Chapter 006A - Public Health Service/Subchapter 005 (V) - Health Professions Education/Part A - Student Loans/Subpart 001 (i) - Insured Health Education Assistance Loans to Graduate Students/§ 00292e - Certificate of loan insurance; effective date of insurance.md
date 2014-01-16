@@ -8,7 +8,7 @@
 
 #### (2) Effective date of insurance
 
-&emsp;Insurance evidenced by a certificate of insurance pursuant to subsection (a)(1) of this section shall become effective upon the date of issuance of the certificate, except that the Secretary is authorized, in accordance with regulations, to issue commitments with respect to proposed loans, or with respect to lines (or proposed lines) of credit, submitted by eligible lenders, and in that event, upon compliance with subsection (a)(1) of this section by the lender, the certificate of insurance may be issued effective as of the date when any loan, or any payment by the lender pursuant to a line of credit, to be covered by such insurance is made to a student described in section 292d(a)(1) of this title. Such insurance shall cease to be effective upon 60 days’ default by the lender in the payment of any installment of the premiums payable pursuant to section 292g of this title.
+&emsp;Insurance evidenced by a certificate of insurance pursuant to subsection (a)(1) of this section shall become effective upon the date of issuance of the certificate, except that the Secretary is authorized, in accordance with regulations, to issue commitments with respect to proposed loans, or with respect to lines (or proposed lines) of credit, submitted by eligible lenders, and in that event, upon compliance with subsection (a)(1) of this section by the lender, the certificate of insurance may be issued effective as of the date when any loan, or any payment by the lender pursuant to a line of credit, to be covered by such insurance is made to a student described in section 292d(a)(1) of this title. Such insurance shall cease to be effective upon 60 days' default by the lender in the payment of any installment of the premiums payable pursuant to section 292g of this title.
 
 #### (3) Certain agreements for lenders
 
@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;In lieu of requiring a separate insurance application and issuing a separate certificate of insurance for each loan made by an eligible lender as provided in subsection (a) of this section, the Secretary may, in accordance with regulations consistent with section 292a of this title, issue to any eligible lender applying therefor a certificate of comprehensive insurance coverage which shall, without further action by the Secretary, insure all insurable loans made by that lender, on or after the date of the certificate and before a specified cutoff date, within the limits of an aggregate maximum amount stated in the certificate. Such regulations may provide for conditioning such insurance, with respect to any loan, upon compliance by the lender with such requirements (to be stated or incorporated by reference in the certificate) as in the Secretary's judgment will best achieve the purpose of this subsection while protecting the financial interest of the United States and promoting the objectives of this subpart, including (but not limited to) provisions as to the reporting of such loans and information relevant thereto to the Secretary and as to the payment of initial and other premiums and the effect of default therein, and including provision for confirmation by the Secretary from time to time (through endorsement of the certificate) of the coverage of specific new loans by such certificate, which confirmation shall be incontestable by the Secretary in the absence of fraud or misrepresentation of fact or patent error.
+&emsp;In lieu of requiring a separate insurance application and issuing a separate certificate of insurance for each loan made by an eligible lender as provided in subsection (a) of this section, the Secretary may, in accordance with regulations consistent with section 292a of this title, issue to any eligible lender applyingtherefor a certificate of comprehensive insurance coverage which shall, without further action by the Secretary, insure all insurable loans made by that lender, on or after the date of the certificate and before a specified cutoff date, within the limits of an aggregate maximum amount stated in the certificate. Such regulations may provide for conditioning such insurance, with respect to any loan, upon compliance by the lender with such requirements (to be stated or incorporated by reference in the certificate) as in the Secretary's judgment will best achieve the purpose of this subsection while protecting the financial interest of the United States and promoting the objectives of this subpart, including (but not limited to) provisions as to the reporting of such loans and information relevant thereto to the Secretary and as to the payment of initial and other premiums and the effect of default therein, and including provision for confirmation by the Secretary from time to time (through endorsement of the certificate) of the coverage of specific new loans by such certificate, which confirmation shall be incontestable by the Secretary in the absence of fraud or misrepresentation of fact or patent error.
 
 #### (2) Lines of credit beyond cutoff date
 
@@ -30,7 +30,7 @@
 
 #### (c) Assignment of insurance rights
 
-The rights of an eligible lender arising under insurance evidenced by a certificate of insuranceissued to it under this section may be assigned by such lender, subject to regulation by the Secretary, only to—
+The rights of an eligible lender arising under insurance evidenced by a certificate of insurance issued to it under this section may be assigned by such lender, subject to regulation by the Secretary, only to—
 
 &emsp;(1) another eligible lender (including a public entity in the business of purchasing student loans); or
 
@@ -58,7 +58,7 @@ Another prior section 706 of act July 1, 1944, was classified to section 230 of 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–392, §145(1), in heading, substituted “refinancing or consolidation” for “consolidation” and, in first sentence, substituted “indebtedness or the refinancing of a single loan” for “indebtedness”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–392, §145(1), in heading, substituted "refinancing or consolidation" for "consolidation" and, in first sentence, substituted "indebtedness or the refinancing of a single loan" for "indebtedness".
 
-Subsec. (e). Pub. L. 105–392, §145(2), in heading, substituted “debts and refinancing” for “debts”, in first sentence, substituted “all of the borrower's loans insured under this subpart into a single instrument (or, if the borrower obtained only 1 loan insured under this subpart, refinancing the loan 1 time)” for “all of the borrower's debts into a single instrument”, and in second sentence, substituted “consolidation or refinancing” for “consolidation”.
+Subsec. (e). Pub. L. 105–392, §145(2), in heading, substituted "debts and refinancing" for "debts", in first sentence, substituted "all of the borrower's loans insured under this subpart into a single instrument (or, if the borrower obtained only 1 loan insured under this subpart, refinancing the loan 1 time)" for "all of the borrower's debts into a single instrument", and in second sentence, substituted "consolidation or refinancing" for "consolidation".
 

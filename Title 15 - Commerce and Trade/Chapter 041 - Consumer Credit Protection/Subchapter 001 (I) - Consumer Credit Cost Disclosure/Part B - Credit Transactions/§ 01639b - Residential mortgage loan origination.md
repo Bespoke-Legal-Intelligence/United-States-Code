@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(ii) mischaracterizing or suborning the mischaracterization of the appraised value of the property securing the extension of credit; or
 
-&emsp;&emsp;&emsp;(iii) if unable to suggest, offer, or recommend to a consumer a loan that is not more expensive than a loan for which the consumer qualifies, discouraging a consumer from seeking a residential mortgage loan secured by a consumer's principal dwelling from another mortgage originator.
+&emsp;&emsp;&emsp;(iii) if unable to suggest, offer, or recommend to a consumer a loan that is notmore expensive than a loan for which the consumer qualifies, discouraging a consumer from seeking a residential mortgage loan secured by a consumer's principal dwelling from another mortgage originator.
 
 #### (4) Rules of construction
 
@@ -82,7 +82,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of providing a cause of action for any failure by a mortgage originator, other than a creditor, to comply with any requirement imposed under this section and any regulation prescribed under this section, section 1640 of this title shall be applied with respect to any such failure by substituting “mortgage originator” for “creditor” each place such term appears in each such subsection.<sup>1</sup>
+&emsp;For purposes of providing a cause of action for any failure by a mortgage originator, other than a creditor, to comply with any requirement imposed under this section and any regulation prescribed under this section, section 1640 of this title shall be applied with respect to any such failure by substituting "mortgage originator" for "creditor" each place such term appears in each such subsection.<sup>1</sup>
 
 #### (2) Maximum
 
@@ -110,7 +110,7 @@ The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to 
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board" wherever appearing.
 
 Subsec. (c). Pub. L. 111–203, §1403, added subsec. (c).
 
@@ -130,9 +130,9 @@ Section effective on the date on which final regulations implementing such secti
 
 #### Rule of Construction
 
-Pub. L. 111–203, title XIV, §1415, July 21, 2010, 124 Stat. 2153, provided that: “Except as otherwise expressly provided in section 129B or 129C of the Truth in Lending Act \[15 U.S.C. 1639b, 1639c\] (as added by this title), no provision of such section 129B or 129C shall be construed as superseding, repealing, or affecting any duty, right, obligation, privilege, or remedy of any person under any other provision of the Truth in Lending Act \[15 U.S.C. 1601 et seq.\] or any other provision of Federal or State law.”
+Pub. L. 111–203, title XIV, §1415, July 21, 2010, 124 Stat. 2153, provided that: "Except as otherwise expressly provided in section 129B or 129C of the Truth in Lending Act \[15 U.S.C. 1639b, 1639c\] (as added by thistitle), no provision of such section 129B or 129C shall be construed as superseding, repealing, or affecting any duty, right, obligation, privilege, or remedy of any person under any other provision of the Truth in Lending Act \[15 U.S.C. 1601 et seq.\] or any other provision of Federal or State law."
 
-\[For definition of “State” as used in section 1415 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
+\[For definition of "State" as used in section 1415 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be “in such section.”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "in such section."</i>
 

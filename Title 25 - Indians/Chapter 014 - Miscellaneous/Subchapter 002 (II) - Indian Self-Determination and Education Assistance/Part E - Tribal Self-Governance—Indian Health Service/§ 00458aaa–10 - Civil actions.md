@@ -2,7 +2,7 @@
 
 #### (a) Contract defined
 
-For the purposes of section 450m–1 of this title, the term “contract” shall include compacts and funding agreements entered into under this part.
+For the purposes of section 450m–1 of this title, the term "contract" shall include compacts and funding agreements entered into under this part.
 
 #### (b) Applicability of certain laws
 
@@ -13,4 +13,8 @@ Section 81 of this title and section 476 of this title, shall not apply to attor
 All references in this subchapter to section 501 of this title are hereby deemed to include section 82a of this title.
 
 (Pub. L. 93–638, title V, §511, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 726.)
+
+#### References in Text
+
+This subchapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 

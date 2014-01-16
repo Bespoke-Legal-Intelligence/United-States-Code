@@ -6,7 +6,7 @@ No State shall have authority to—
 
 &emsp;(1) conduct an investigation into an electronic communication service provider's alleged assistance to an element of the intelligence community;
 
-&emsp;(2) require through regulation or any other means the disclosure of information about anelectronic communication service provider's alleged assistance to an element of the intelligence community;
+&emsp;(2) require through regulation or any other means the disclosure of information about an electronic communication service provider's alleged assistance to an element of the intelligence community;
 
 &emsp;(3) impose any administrative sanction on an electronic communication service provider for assistance to an element of the intelligence community; or
 

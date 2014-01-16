@@ -30,7 +30,7 @@ The Secretary shall approve the plan submitted by a State under subsection (b) o
 
 &emsp;(9) requires manufacturers, distributors, and retailers in such State to make reports to the Secretary in the same manner and to the same extent as if the State plan were not in effect;
 
-&emsp;(10) provides that the State agency or agencies will make such reports to the Secretary in such form and containing such information as the Secretary shall from time to time require;
+&emsp;(10) provides that the State agency or agencies will make such reports to the Secretaryin such form and containing such information as the Secretary shall from time to time require;
 
 &emsp;(11) with respect to any State plan submitted on or after the expiration of the 5-year period beginning on December 27, 2000, provides for an installation program established by State law that meets the requirements of section 5404(c)(3) of this title;
 
@@ -68,11 +68,11 @@ The Secretary shall, on the basis of reports submitted by the designated State a
 
 #### Codification
 
-Reference to “mobile homes”, appearing in subsec. (c)(3), changed to “manufactured homes” in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of “manufactured home” for “mobile home” wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms “mobile home” and “manufactured home” shall be deemed to include the terms “mobile homes” and “manufactured homes”, respectively.
+Reference to "mobile homes", appearing in subsec. (c)(3), changed to "manufactured homes" in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of "manufactured home" for "mobile home" wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms "mobile home" and "manufactured home" shall be deemed to include the terms "mobile homes" and "manufactured homes", respectively.
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c)(9). Pub. L. 106–569, §603(b)(5), substituted “retailers” for “dealers”.
+<b>2000</b>—Subsec. (c)(9). Pub. L. 106–569, §603(b)(5), substituted "retailers" for "dealers".
 
 Subsec. (c)(11). Pub. L. 106–569, §605(b)(1), (3), added par. (11). Former par. (11) redesignated (13).
 
@@ -82,9 +82,9 @@ Subsec. (c)(13). Pub. L. 106–569, §605(b)(2), redesignated par. (11) as (13).
 
 Subsec. (g). Pub. L. 106–569, §610(2), added subsec. (g).
 
-<b>1980</b>—Subsecs. (a), (b), (c)(2), (e), (f). Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
+<b>1980</b>—Subsecs. (a), (b), (c)(2), (e), (f). Pub. L. 96–399 substituted "manufactured home" for "mobile home" wherever appearing.
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
+Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order orinterpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
 

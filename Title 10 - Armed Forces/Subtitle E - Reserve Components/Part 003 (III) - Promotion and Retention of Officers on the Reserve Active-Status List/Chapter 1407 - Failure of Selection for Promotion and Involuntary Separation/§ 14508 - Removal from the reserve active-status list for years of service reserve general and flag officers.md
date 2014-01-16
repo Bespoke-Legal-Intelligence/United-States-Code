@@ -10,7 +10,7 @@ Thirty-Five Years Service or Five Years in Grade for Major Generals and Rear Adm
 
 (c)
 
-Thirty-Eight Years of Service for Lieutenant Generals and Vice Admirals.—Unless retired, transferred to the Retired Reserve, or discharged at an earlier date, each reserve officer of the Army, Air Force, or Marine Corps in the grade of lieutenant general and each reserve officer of the Navy in the grade of vice admiral shall be separated in accordance with section 14514 of this title on the later of the following:
+Thirty-Eight Years of Service for Lieutenant Generals and Vice Admirals.—Unless retired, transferred to the Retired Reserve, or discharged at an earlier date, each reserve officer of the Army, Air Force, or Marine Corps inthe grade of lieutenant general and each reserve officer of the Navy in the grade of vice admiral shall be separated in accordance with section 14514 of this title on the later of the following:
 
 &emsp;(1) 30 days after completion of 38 years of commissioned service.
 
@@ -44,17 +44,17 @@ Provisions similar to those in this section were contained in sections 3851, 385
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, §513(b)(1), inserted “
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §513(b)(1), inserted "
 
-for Brigadier Generals and Rear Admirals (Lower Half)” after “
+for Brigadier Generals and Rear Admirals (Lower Half)" after "
 
-Grade” in heading.
+Grade" in heading.
 
-Subsec. (b). Pub. L. 110–181, §513(b)(2), inserted “
+Subsec. (b). Pub. L. 110–181, §513(b)(2), inserted "
 
-for Major Generals and Rear Admirals” after “
+for Major Generals and Rear Admirals" after "
 
-Grade” in heading.
+Grade" in heading.
 
 Subsec. (c). Pub. L. 110–181, §513(a)(2), added subsec. (c). Former subsec. (c) redesignated (e).
 
@@ -70,13 +70,13 @@ Pub. L. 110–181, §513(a)(1), redesignated subsec. (e) as (g).
 
 Subsec. (h). Pub. L. 110–417, §515(1), redesignated subsec. (g) as (h).
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–364, §503(e)(1), substituted “62” for “60”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–364, §503(e)(1), substituted "62" for "60".
 
-Subsec. (d). Pub. L. 109–364, §503(e)(2), substituted “64” for “62”.
+Subsec. (d). Pub. L. 109–364, §503(e)(2), substituted "64" for "62".
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted “not later than the last day of the month in which the officer becomes 60 years of age” for “not later than the date on which the officer becomes 60 years of age”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted "not later than the last day of the month in which the officer becomes 60 years of age" for "not later than the date on which the officer becomes 60 years of age".
 
-<b>1996</b>—Subsecs. (c), (d). Pub. L. 104–106 struck out “this” after “from an active status under”.
+<b>1996</b>—Subsecs. (c), (d). Pub. L. 104–106 struck out "this" after "from an active status under".
 
 #### Effective Date of 1996 Amendment
 

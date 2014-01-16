@@ -16,7 +16,7 @@ Upon request of the Governor of any State, the Secretary shall provide, subject 
 
 &emsp;(A) shall take into account the impact of local economic, climatic, geographic, and other unique conditions and requirements of such State on the opportunity to conserve and to improve efficiency in the use of energy in such State; and
 
-&emsp;(B) may extend the period of time during which a State energy conservation feasibility report or State energy conservation plan may be submitted if the Secretary determines that participation by the State submitting such report or plan is likely to result in significantprogress toward achieving the purposes of this chapter.
+&emsp;(B) may extend the period of time during which a State energy conservation feasibility report or State energy conservation plan may be submitted if the Secretary determines that participation by the State submitting such report or plan is likely to result in significant progress toward achieving the purposes of this chapter.
 
 > No such plan shall be disapproved without notice and an opportunity to present views.
 
@@ -56,7 +56,7 @@ If the Secretary determines that a State has demonstrated a commitment to improv
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 
@@ -64,7 +64,7 @@ This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original “t
 
 <b>1990</b>—Subsecs. (d), (e). Pub. L. 101–440 added subsecs. (d) and (e).
 
-<b>1978</b>—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 <b>1976</b>—Subsec. (b)(2). Pub. L. 94–385, §432(b), inserted provision requiring notice and opportunity to present views prior to disapproval of plans.
 

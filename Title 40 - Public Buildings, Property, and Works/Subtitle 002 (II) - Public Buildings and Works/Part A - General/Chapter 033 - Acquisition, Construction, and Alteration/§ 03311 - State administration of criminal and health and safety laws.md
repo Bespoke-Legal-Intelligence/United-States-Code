@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 86–249, §19, as added Pub. L. 100–678, §5, Nov. 17, 1988, 102 Stat. 4050.
 
-The words “Notwithstanding any other provision of law” and “commonwealth” are omitted as unnecessary.
+The words "Notwithstanding any other provision of law" and "commonwealth" are omitted as unnecessary.
 

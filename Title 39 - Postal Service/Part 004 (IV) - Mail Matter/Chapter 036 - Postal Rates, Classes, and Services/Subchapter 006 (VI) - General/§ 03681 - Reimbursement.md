@@ -6,7 +6,7 @@ No mailer may be reimbursed for any amount paid under any rate or fee which, aft
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–435 substituted “sections 3662 through 3664” for “section 3628”.
+<b>2006</b>—Pub. L. 109–435 substituted "sections 3662 through 3664" for "section 3628".
 
 #### Effective Date
 

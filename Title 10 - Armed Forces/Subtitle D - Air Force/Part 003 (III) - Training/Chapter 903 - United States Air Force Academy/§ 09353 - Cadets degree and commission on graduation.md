@@ -32,9 +32,9 @@ May 25, 1933, ch. 37 (less last sentence); restated Aug. 9, 1946, ch. 932 (less 
 
 Aug. 7, 1947, ch. 512, §506(f) (1st sentence, less last 43 words), 61 Stat. 892.
 
-In subsection (a), the last 27 words are substituted for 10:486a (last sentence). The words “rules and” and “from and after the date of the accrediting of said Academy” are omitted as surplusage. The word “conditions” is substituted for the word “regulations”.
+In subsection (a), the last 27 words are substituted for 10:486a (last sentence). The words "rules and" and "from and after the date of the accrediting of said Academy" are omitted as surplusage. The word "conditions" is substituted for the word "regulations".
 
-In subsection (b), the words “except section 541 of this title” are inserted to reflect the authority to appoint graduates of one service academy as officers of another service.
+In subsection (b), the words "except section 541 of this title" are inserted to reflect the authority to appoint graduates of one service academy as officers of another service.
 
 1958
 
@@ -54,17 +54,17 @@ July 20, 1956, ch. 646, §203(e) (1st sentence), 70 Stat. 585.
 
 It is unnecessary to include a reference to section 541 of title 10, since that section does not derogate from the authority granted in this section.
 
-The change reflects the opinion of the Judge Advocate General of the Air Force (July 19, 1957) that the words “from and after the date of the accrediting of said academies” in the source law for section 9353(a) (Act of May 25, 1933, ch. 37 (48 Stat. 73), as amended) were a condition precedent to the authority to grant degrees and should not have been omitted.
+The change reflects the opinion of the Judge Advocate General of the Air Force (July 19, 1957) that the words "from and after the date of the accrediting of said academies" in the source law for section 9353(a) (Act of May 25, 1933, ch. 37 (48 Stat. 73), as amended) were a condition precedent to the authority to grant degrees and should not have been omitted.
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted “The” for “After the date of the accrediting of the Academy, the”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted "The" for "After the date of the accrediting of the Academy, the".
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–513 inserted “under section 531 of this title” after “Regular Air Force”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 inserted "under section 531 of this title" after "Regular Air Force".
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–861, §33(a)(43), permitted conferring of degrees only after date of accrediting of Academy.
 
-Subsec. (b). Pub. L. 85–861, §1(201), struck out “except section 541 of this title” after “provision of law”.
+Subsec. (b). Pub. L. 85–861, §1(201), struck out "except section 541 of this title" after "provision of law".
 
 #### Effective Date of 1980 Amendment
 

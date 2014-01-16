@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director, pursuant to the general authority of the Director, may make awards of grants to public or private entities to pay all or part of the costs of planning, establishing, improving, and providing basic operating support to multicenter networks of clinical sites that will collaborate to design clinical rehabilitation intervention protocols and measures of outcomes on one or more forms of paralysis that result from central nervous system trauma, disorders, or stroke, or any combination of such conditions.
+The Director, pursuant to the general authority of the Director, may make awards of grantsto public or private entities to pay all or part of the costs of planning, establishing, improving, and providing basic operating support to multicenter networks of clinical sites that will collaborate to design clinical rehabilitation intervention protocols and measures of outcomes on one or more forms of paralysis that result from central nervous system trauma, disorders, or stroke, or any combination of such conditions.
 
 #### (b) Research
 
@@ -32,7 +32,7 @@ The Director may, as appropriate, provide for the coordination of information am
 
 Section was enacted as part of the Christopher and Dana Reeve Paralysis Act, and also as part of the Omnibus Public Land Management Act of 2009, and not as part of the Public Health Service Act which comprises this chapter.
 
-#### Definition of “Director”
+#### Definition of "Director"
 
-“Director” as meaning the Director of the National Institutes of Health, see section 284o(a) of this title.
+"Director" as meaning the Director of the National Institutes of Health, see section 284o(a) of this title.
 

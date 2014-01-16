@@ -6,11 +6,11 @@ To protect the military and naval forces and war workers of the United States, i
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–188, which directed substitution of “the Secretary, in consultation with the Surgeon General,” for “the Surgeon General, on recommendation of the National Advisory Health Council,” and striking out of “in a communicable stage” after “(1) to be infected with such disease”, in section 363 of the Public Health Act, was executed to this section, which is section 363 of the Public Health Service Act, to reflect the probable intent of Congress.
+<b>2002</b>—Pub. L. 107–188, which directed substitution of "the Secretary, in consultation with the Surgeon General," for "the Surgeon General, on recommendation of the National Advisory Health Council," and striking out of "in a communicable stage" after "(1) to be infected with such disease", in section 363 of the Public Health Act, was executed to this section, which is section 363 of the Public Health Service Act, to reflect the probable intent of Congress.
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Termination of War and Emergencies
 

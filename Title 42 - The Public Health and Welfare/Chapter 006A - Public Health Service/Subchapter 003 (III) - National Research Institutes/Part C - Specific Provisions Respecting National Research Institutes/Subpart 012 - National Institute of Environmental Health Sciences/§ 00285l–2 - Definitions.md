@@ -4,7 +4,7 @@ In sections 285l–2 to 285l–5 of this title:
 
 #### (1) Alternative test method
 
-&emsp;The term “alternative test method” means a test method that—
+&emsp;The term "alternative test method" means a test method that—
 
 &emsp;&emsp;(A) includes any new or revised test method; and
 
@@ -16,7 +16,7 @@ In sections 285l–2 to 285l–5 of this title:
 
 #### (2) ICCVAM test recommendation
 
-&emsp;The term “ICCVAM test recommendation” means a summary report prepared by the ICCVAM characterizing the results of a scientific expert peer review of a test method.
+&emsp;The term "ICCVAM test recommendation" means a summary report prepared by the ICCVAM characterizing the results of a scientific expert peer review of a test method.
 
 (Pub. L. 106–545, §2, Dec. 19, 2000, 114 Stat. 2721.)
 

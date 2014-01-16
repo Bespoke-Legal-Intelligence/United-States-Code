@@ -66,7 +66,7 @@ An individual seeking a scholarship or fellowship under the program established 
 
 #### (e) Preference for cooperative education students
 
-In evaluating individuals for the award of a scholarship or fellowship under the program established under this section, the Administrator may give a preference to an individual who isenrolled in, or accepted for enrollment in, an institution of higher education that has a cooperative education program with the Department of Energy.
+In evaluating individuals for the award of a scholarship or fellowship under the program established under this section, the Administrator may give a preference to an individual who is enrolled in, or accepted for enrollment in, an institution of higher education that has a cooperative education program with the Department of Energy.
 
 #### (f) Coordination of benefits
 
@@ -90,15 +90,15 @@ Section 3101(a)(2), referred to in subsec. (h), is section 3101(a)(2) of Pub. L.
 
 #### Codification
 
-Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, and not as part of the National Nuclear Security Administration Act which comprises this chapter.
+Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year2009, and not as part of the National Nuclear Security Administration Act which comprises this chapter.
 
 #### Amendments
 
 <b>2011</b>—Subsec. (b)(2). Pub. L. 111–383, §1075(e)(19)(A), inserted closing parenthesis before semicolon.
 
-Subsec. (d)(2). Pub. L. 111–383, §1075(e)(19)(B), substituted “fails to repay” for “fails repay”.
+Subsec. (d)(2). Pub. L. 111–383, §1075(e)(19)(B), substituted "fails to repay" for "fails repay".
 
-#### “Congressional Defense Committees” Defined
+#### "Congressional Defense Committees" Defined
 
 Congressional defense committees has the meaning given that term in section 101(a)(16) of Title 10, Armed Forces, see section 3 of Pub. L. 110–417, Oct. 14, 2008, 122 Stat. 4372. See note under section 101 of Title 10.
 

@@ -4,9 +4,9 @@
 
 (b) The Secretary concerned may designate a unit, for the purposes of subsection (a) and under such terms and conditions as the Secretary considers appropriate, as a high priority unit if that unit has experienced, or reasonably might be expected to experience, critical personnel shortages. The Secretary may vacate a designation made under this subsection at any time he considers the designation no longer necessary.
 
-(c) Additional compensation may not be paid under this section for inactive duty performed after December 31, 2013.
+(c) Additional compensation may not be paid under this section for inactive duty performed after December 31, 2014.
 
-(Added Pub. L. 101–189, div. A, title V, §505(a)(1), Nov. 29, 1989, 103 Stat. 1437; amended Pub. L. 102–190, div. A, title VI, §612(b)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(e), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(d), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(d), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(d), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(d), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(d), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(d), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §§611(d), 621, Oct. 5, 1999, 113 Stat. 650, 653; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(d), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(c), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §611(c), Nov. 24, 2003, 117 Stat. 1500; Pub. L. 108–375, div. A, title VI, §611(c), Oct. 28, 2004, 118 Stat. 1946; Pub. L. 109–163, div. A, title VI, §§621(b), 632(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3294, 3299; Pub. L. 109–364, div. A, title VI, §611(c), Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, §611(c), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(c), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(3), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §611(3), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §611(3), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §611(3), Jan. 2, 2013, 126 Stat. 1776.)
+(Added Pub. L. 101–189, div. A, title V, §505(a)(1), Nov. 29, 1989, 103 Stat. 1437; amended Pub. L. 102–190, div. A, title VI, §612(b)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(e), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(d), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(d), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(d), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(d), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(d), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(d), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §§611(d), 621, Oct. 5, 1999, 113 Stat. 650, 653; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(d), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(c), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §611(c), Nov. 24, 2003, 117 Stat. 1500; Pub. L. 108–375, div. A, title VI, §611(c), Oct. 28, 2004, 118 Stat. 1946; Pub. L. 109–163, div. A, title VI, §§621(b), 632(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3294, 3299; Pub. L. 109–364, div. A, title VI, §611(c), Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, §611(c), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(c), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(3), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §611(3), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §611(3), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §611(3), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §611(3), Dec. 26, 2013, 127 Stat. 779.)
 
 #### Prior Provisions
 
@@ -14,57 +14,59 @@ A prior section 308d, added Pub. L. 96–342, title VIII, §805(a)(1), Sept. 8, 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+<b>2013</b>—Subsec. (c). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
-<b>2011</b>—Subsec. (c). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (c). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-<b>2009</b>—Subsec. (c). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2009</b>—Subsec. (c). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-<b>2006</b>—Pub. L. 109–163, §632(c)(1), substituted “Special pay: members of the Selected Reserve assigned to certain high priority units” for “Special pay: enlisted members of the Selected Reserve assigned to certain high priority units” in section catchline.
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
-Subsec. (a). Pub. L. 109–163, §632(a), (b), substituted “a member” for “an enlisted member” and “$50” for “$10”.
+<b>2006</b>—Pub. L. 109–163, §632(c)(1), substituted "Special pay: members of the Selected Reserve assigned to certain high priority units" for "Special pay: enlisted members of the Selected Reserve assigned to certain high priority units" in section catchline.
 
-Subsec. (c). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
+Subsec. (a). Pub. L. 109–163, §632(a), (b), substituted "a member" for "an enlisted member" and "$50" for "$10".
 
-Pub. L. 109–163, §621(b), substituted “December 31, 2006” for “December 31, 2005”.
+Subsec. (c). Pub. L. 109–364 substituted "December 31, 2007" for "December 31, 2006".
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
+Pub. L. 109–163, §621(b), substituted "December 31, 2006" for "December 31, 2005".
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–375 substituted "December 31, 2005" for "December 31, 2004".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136 substituted "December 31, 2004" for "December 31, 2003".
 
-Subsec. (c). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>2001</b>—Subsec. (c). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+Subsec. (c). Pub. L. 107–314 substituted "December 31, 2003" for "December 31, 2002".
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–107 substituted "December 31, 2002" for "December 31, 2001".
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–65, §621, inserted “or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy,” after “Secretary of Defense,”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–398 substituted "December 31, 2001" for "December 31, 2000".
 
-Subsec. (c). Pub. L. 106–65, §611(d), substituted “December 31, 2000” for “December 31, 1999”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §621, inserted "or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy," after "Secretary of Defense,".
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
+Subsec. (c). Pub. L. 106–65, §611(d), substituted "December 31, 2000" for "December 31, 1999".
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1998”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–261 substituted "December 31, 1999" for "September 30, 1999".
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted "September 30, 1999" for "September 30, 1998".
 
-Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–201 substituted "September 30, 1998" for "September 30, 1997".
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
+Pub. L. 104–106 substituted "September 30, 1997" for "September 30, 1996".
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted "September 30, 1996" for "September 30, 1995".
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–160 substituted "September 30, 1995" for "September 30, 1993".
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–190 substituted “1992” for “1991”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–484 substituted "September 30, 1993" for "September 30, 1992".
+
+<b>1991</b>—Subsec. (c). Pub. L. 102–190 substituted "1992" for "1991".
 
 #### Effective Date of 2008 Amendment
 
@@ -76,15 +78,15 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–160, div. A, title VI, §613(h)(2), Nov. 30, 1993, 107 Stat. 1682, provided that: “The amendment made by subsection (d) \[amending this section\] shall take effect as of September 30, 1993, and shall apply with respect to inactive duty for training performed after that date for which special pay is authorized under section 308d of title 37, United States Code.”
+Pub. L. 103–160, div. A, title VI, §613(h)(2), Nov. 30, 1993, 107 Stat. 1682, provided that: "The amendment made by subsection (d) \[amending this section\] shall take effect as of September 30, 1993, and shall apply with respect to inactive duty for training performed after that date for which special pay is authorized under section 308d of title 37, United States Code."
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–484, div. A, title VI, §612(j)(1), Oct. 23, 1992, 106 Stat. 2421, provided that: “The amendment made by subsection (e) \[amending this section\] shall take effect as of September 30, 1992, and shall apply with respect to inactive duty for training performed after that date for which special pay is authorized under section 308d of title 37, United States Code.”
+Pub. L. 102–484, div. A, title VI, §612(j)(1), Oct. 23, 1992, 106 Stat. 2421, provided that: "The amendment made by subsection (e) \[amending this section\] shall take effect as of September 30, 1992, and shall apply with respect to inactive duty for training performed after that date for which special pay is authorized under section 308d of title 37, United States Code."
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–190, div. A, title VI, §612(b)(2), Dec. 5, 1991, 105 Stat. 1376, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as of September 30, 1991, and shall apply with respect to inactive duty for training performed after that date for which special pay is authorized under section 308d of such title.”
+Pub. L. 102–190, div. A, title VI, §612(b)(2), Dec. 5, 1991, 105 Stat. 1376, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as of September 30, 1991, and shall apply with respect to inactive duty for training performed after that date for which special pay is authorized under section 308d of such title."
 
 #### Report to Congress
 

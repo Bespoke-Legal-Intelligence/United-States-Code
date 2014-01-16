@@ -4,27 +4,27 @@ In this chapter:
 
 &emsp;(1)
 
-Class.—The term “class” means all of the class members in a class action.
+Class.—The term "class" means all of the class members in a class action.
 
 &emsp;(2)
 
-Class action.—The term “class action” means any civil action filed in a district court of the United States under rule 23 of the Federal Rules of Civil Procedure or any civil action that is removed to a district court of the United States that was originally filed under a State statute or rule of judicial procedure authorizing an action to be brought by 1 or more representatives as a class action.
+Class action.—The term "class action" means any civil action filed in a district court of the United States under rule 23 of the Federal Rules of Civil Procedure or any civil action that is removed to a district court of the United States that was originally filed under a State statute or rule of judicial procedure authorizing an action to be brought by 1 or more representatives as a class action.
 
 &emsp;(3)
 
-Class counsel.—The term “class counsel” means the persons who serve as the attorneys for the class members in a proposed or certified class action.
+Class counsel.—The term "class counsel" means the persons who serve as the attorneys for the class members in a proposed or certified class action.
 
 &emsp;(4)
 
-Class members.—The term “class members” means the persons (named or unnamed)who fall within the definition of the proposed or certified class in a class action.
+Class members.—The term "class members" means the persons (named or unnamed) who fall within the definition of the proposed or certified class in a class action.
 
 &emsp;(5)
 
-Plaintiff class action.—The term “plaintiff class action” means a class action in which class members are plaintiffs.
+Plaintiff class action.—The term "plaintiff class action" means a class action in which class members are plaintiffs.
 
 &emsp;(6)
 
-Proposed settlement.—The term “proposed settlement” means an agreement regarding a class action that is subject to court approval and that, if approved, would be binding on some or all class members.
+Proposed settlement.—The term "proposed settlement" means an agreement regarding a class action that is subject to court approval and that, if approved, would be binding on some or all class members.
 
 (Added Pub. L. 109–2, §3(a), Feb. 18, 2005, 119 Stat. 5.)
 
@@ -40,43 +40,43 @@ Chapter applicable to any civil action commenced on or after Feb. 18, 2005, see 
 
 Pub. L. 109–2, §2, Feb. 18, 2005, 119 Stat. 4, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress finds the following:
 
-&emsp;“(1) Class action lawsuits are an important and valuable part of the legal system when they permit the fair and efficient resolution of legitimate claims of numerous parties by allowing the claims to be aggregated into a single action against a defendant that has allegedly caused harm.
+&emsp;"(1) Class action lawsuits are an important and valuable part of the legal system when they permit the fair and efficient resolution of legitimate claims of numerous parties by allowing the claims to be aggregated into a single action against a defendant that has allegedly caused harm.
 
-&emsp;“(2) Over the past decade, there have been abuses of the class action device that have—
+&emsp;"(2) Over the past decade, there have been abuses of the class action device that have—
 
-&emsp;&emsp;“(A) harmed class members with legitimate claims and defendants that have acted responsibly;
+&emsp;&emsp;"(A) harmed class members with legitimate claims and defendants that have acted responsibly;
 
-&emsp;&emsp;“(B) adversely affected interstate commerce; and
+&emsp;&emsp;"(B) adversely affected interstate commerce; and
 
-&emsp;&emsp;“(C) undermined public respect for our judicial system.
+&emsp;&emsp;"(C) undermined public respect for our judicial system.
 
-&emsp;“(3) Class members often receive little or no benefit from class actions, and are sometimes harmed, such as where—
+&emsp;"(3) Class members often receive little or no benefit from class actions, and are sometimes harmed, such as where—
 
-&emsp;&emsp;“(A) counsel are awarded large fees, while leaving class members with coupons or other awards of little or no value;
+&emsp;&emsp;"(A) counsel are awarded large fees, while leaving class members with coupons or other awards of little or no value;
 
-&emsp;&emsp;“(B) unjustified awards are made to certain plaintiffs at the expense of other class members; and
+&emsp;&emsp;"(B) unjustified awards are made to certain plaintiffs at the expense of other class members; and
 
-&emsp;&emsp;“(C) confusing notices are published that prevent class members from being able to fully understand and effectively exercise their rights.
+&emsp;&emsp;"(C) confusing notices are published that prevent class members from being able to fully understand and effectively exercise their rights.
 
-&emsp;“(4) Abuses in class actions undermine the national judicial system, the free flow of interstate commerce, and the concept of diversity jurisdiction as intended by the framers of the United States Constitution, in that State and local courts are—
+&emsp;"(4) Abuses in class actions undermine the national judicial system, the free flow of interstate commerce, and the concept of diversity jurisdiction as intended by the framers of the United States Constitution, in that State and local courts are—
 
-&emsp;&emsp;“(A) keeping cases of national importance out of Federal court;
+&emsp;&emsp;"(A) keeping cases of national importance out of Federal court;
 
-&emsp;&emsp;“(B) sometimes acting in ways that demonstrate bias against out-of-State defendants; and
+&emsp;&emsp;"(B) sometimes acting in ways that demonstrate bias against out-of-State defendants; and
 
-&emsp;&emsp;“(C) making judgments that impose their view of the law on other States and bind the rights of the residents of those States.
+&emsp;&emsp;"(C) making judgments that impose their view of the law on other States and bind the rights of the residents of those States.
 
-“(b)
+"(b)
 
 Purposes.—The purposes of this Act \[see Short Title of 2005 Amendments note set out under section 1 of this title\] are to—
 
-&emsp;“(1) assure fair and prompt recoveries for class members with legitimate claims;
+&emsp;"(1) assure fair and prompt recoveries for class members with legitimate claims;
 
-&emsp;“(2) restore the intent of the framers of the United States Constitution by providing for Federal court consideration of interstate cases of national importance under diversity jurisdiction; and
+&emsp;"(2) restore the intent of the framers of the United States Constitution by providing for Federal court consideration of interstate cases of national importance under diversity jurisdiction; and
 
-&emsp;“(3) benefit society by encouraging innovation and lowering consumer prices.”
+&emsp;"(3) benefit society by encouraging innovation and lowering consumer prices."
 

@@ -10,5 +10,5 @@ Based on title 18, U.S.C., 1940 ed., §188, (Mar. 4, 1909, ch. 321, §101, 35 St
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–273 substituted “under this title” for “not more than $1,000”.
+<b>2002</b>—Pub. L. 107–273 substituted "under this title" for "not more than $1,000".
 

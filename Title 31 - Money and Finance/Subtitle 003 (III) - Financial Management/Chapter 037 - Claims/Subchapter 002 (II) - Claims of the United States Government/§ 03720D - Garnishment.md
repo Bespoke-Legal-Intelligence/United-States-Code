@@ -34,15 +34,15 @@
 
 (d) The notice to the employer of the withholding order shall contain only such information as may be necessary for the employer to comply with the withholding order.
 
-(e)(1) An employer may not discharge from employment, refuse to employ, or take disciplinary action against an individual subject towage withholding in accordance with this section by reason of the fact that the individual's wages have been subject to garnishment under this section, and such individual may sue in a State or Federal court of competent jurisdiction any employer who takes such action.
+(e)(1) An employer may not discharge from employment, refuse to employ, or take disciplinary action against an individual subject to wage withholding in accordance with this section by reason of the fact that the individual's wages have been subject to garnishment under this section, and such individual may sue in a State or Federal court of competent jurisdiction any employer who takes such action.
 
-(2) The court shall award attorneys’ fees to a prevailing employee and, in its discretion, may order reinstatement of the individual, award punitive damages and back pay to the employee, or order such other remedy as may be reasonably necessary.
+(2) The court shall award attorneys' fees to a prevailing employee and, in its discretion, may order reinstatement of the individual, award punitive damages and back pay to the employee, or order such other remedy as may be reasonably necessary.
 
 (f)(1) The employer of an individual—
 
-&emsp;(A) shall pay to the head of an executive, judicial, or legislative agency as directed in a withholding order issued in an action under this section with respect to the individual, and
+&emsp;(A) shall pay to the head of an executive, judicial, or legislative agency as directed in awithholding order issued in an action under this section with respect to the individual, and
 
-&emsp;(B) shall be liable for any amount that the employer fails to withhold from wages due an employee following receipt by such employer of notice of the withholding order, plus attorneys’ fees, costs, and, in the court's discretion, punitive damages.
+&emsp;(B) shall be liable for any amount that the employer fails to withhold from wages due an employee following receipt by such employer of notice of the withholding order, plus attorneys' fees, costs, and, in the court's discretion, punitive damages.
 
 (2)(A) The head of an executive, judicial, or legislative agency may sue an employer in a State or Federal court of competent jurisdiction to recover amounts for which the employer is liable under paragraph (1)(B).
 
@@ -50,11 +50,11 @@
 
 (3) Notwithstanding paragraphs (1) and (2), an employer shall not be required to vary its normal pay and disbursement cycles in order to comply with this subsection.
 
-(g) For the purpose of this section, the term “disposable pay” means that part of the compensation of any individual from an employer remaining after the deduction of any amounts required by any other law to be withheld.
+(g) For the purpose of this section, the term "disposable pay" means that part of the compensation of any individual from an employer remaining after the deduction of any amounts required by any other law to be withheld.
 
 (h) The Secretary of the Treasury shall issue regulations to implement this section.
 
 (Added Pub. L. 104–134, title III, §31001(o)(1), Apr. 26, 1996, 110 Stat. 1321–369.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(b)(5)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(b)(5)".</i>
 

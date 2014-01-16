@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-The Secretary, through the Agency for International Development, and in consultation with the interagency working group established under section 6276(d) of this title (in this section referred to as the “interagency working group”,<sup>1</sup> shall establish a technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after October 24, 1992, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assisted by the Agency for International Development, the Secretary may enter into agreements with other appropriate Federal agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement, each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of the agreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
+The Secretary, through the Agency for International Development, and in consultation with the interagency working group established under section 6276(d) of this title (in this section referred to as the "interagency working group",<sup>1</sup> shall establish a technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after October 24, 1992, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assisted by the Agency for International Development, the Secretary may enter into agreements with other appropriate Federal agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement, each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of the agreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
 
 #### (b) Purposes of program
 
@@ -78,7 +78,7 @@ Pursuant to the agreements under subsection (a) of this section, the Secretary, 
 
 #### (h) Eligible technologies
 
-Not later than 6 months after October 24, 1992, the Secretary shall prepare a list of eligible technologies and services under this section. In preparing such a list, the Secretary shall consider fuel cell powerplants, aeroderivitive gas turbines and catalytic combustion technologies for aeroderivitive gas turbines, ocean thermal energy conversion technology, anaerobic digester and storage tanks, and other renewable energy and energy efficiency technologies.
+Not later than 6 months after October 24, 1992, the Secretary shall prepare a list of eligibletechnologies and services under this section. In preparing such a list, the Secretary shall consider fuel cell powerplants, aeroderivitive gas turbines and catalytic combustion technologies for aeroderivitive gas turbines, ocean thermal energy conversion technology, anaerobic digester and storage tanks, and other renewable energy and energy efficiency technologies.
 
 #### (i) Selection of projects
 
@@ -100,7 +100,7 @@ Not later than 6 months after October 24, 1992, the Secretary shall prepare a li
 
 &emsp;(G) such other criteria as may be appropriate.
 
-(3) In selecting among proposed projects, the Secretary shall seek to ensure that, relative tootherwise comparable projects in the host country, a selected project will meet the following criteria:
+(3) In selecting among proposed projects, the Secretary shall seek to ensure that, relative to otherwise comparable projects in the host country, a selected project will meet the following criteria:
 
 &emsp;(A) It will reduce environmental emissions, including greenhouse gases, to an extent greater than required by applicable provisions of law.
 
@@ -132,7 +132,7 @@ The Secretary and the Administrator of the Agency for International Development 
 
 For purposes of this section—
 
-&emsp;(1) the term “host country” means a foreign country which is—
+&emsp;(1) the term "host country" means a foreign country which is—
 
 &emsp;&emsp;(A) the participant in or the site of the proposed innovative energy technology project; and
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) a developing country; and
 
-&emsp;(2) the term “developing country” includes, but is not limited to, countries in Central and Eastern Europe or in the independent states of the former Soviet Union.
+&emsp;(2) the term "developing country" includes, but is not limited to, countries in Central and Eastern Europe or in the independent states of the former Soviet Union.
 
 #### (n) Authorization of appropriations
 

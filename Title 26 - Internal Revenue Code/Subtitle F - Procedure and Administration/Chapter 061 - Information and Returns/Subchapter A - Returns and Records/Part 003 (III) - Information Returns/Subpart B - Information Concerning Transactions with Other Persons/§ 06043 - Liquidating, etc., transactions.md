@@ -14,7 +14,7 @@ Every organization which for any of its last 5 taxable years preceding its liqui
 
 &emsp;(1) no return shall be required under this subsection from churches, their integrated auxiliaries, conventions or associations of churches, or any organization which is not a private foundation (as defined in section 509(a)) and the gross receipts of which in each taxable year are normally not more than $5,000, and
 
-&emsp;(2) the Secretary may relieve any organization from such filing where he determines that such filing is not necessary to the efficient administration of the internal revenue laws or, with respect to an organization described insection 401(a), where the employer who established such organization files such a return.
+&emsp;(2) the Secretary may relieve any organization from such filing where he determines that such filing is not necessary to the efficient administration of the internal revenue laws or, with respect to an organization described in section 401(a), where the employer who established such organization files such a return.
 
 #### (c) Changes in control and recapitalizations
 
@@ -38,33 +38,33 @@ If—
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–188 substituted “Liquidating, etc., transactions” for “Liquidating; etc., transactions” in section catchline.
+<b>1996</b>—Pub. L. 104–188 substituted "Liquidating, etc., transactions" for "Liquidating; etc., transactions" in section catchline.
 
-<b>1989</b>—Pub. L. 101–239, §7208(b)(3)(B), substituted “Liquidating; etc., transactions” for “Returns regarding liquidation, dissolution, termination, or contraction” in section catchline.
+<b>1989</b>—Pub. L. 101–239, §7208(b)(3)(B), substituted "Liquidating; etc., transactions" for "Returns regarding liquidation, dissolution, termination, or contraction" in section catchline.
 
-Subsec. (a). Pub. L. 101–239, §7208(b)(3)(A), substituted “Corporate liquidating, etc., transactions” for “Corporations” in heading.
+Subsec. (a). Pub. L. 101–239, §7208(b)(3)(A), substituted "Corporate liquidating, etc., transactions" for "Corporations" in heading.
 
-Subsecs. (c), (d). Pub. L. 101–239, §7208(b)(1), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “
+Subsecs. (c), (d). Pub. L. 101–239, §7208(b)(1), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: "
 
-Cross Reference.—For provisions relating to penalties for failure to file a return required by subsection (b), see section 6652(c).”
+Cross Reference.—For provisions relating to penalties for failure to file a return required by subsection (b), see section 6652(c)."
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “section 6652(c)” for “section 6652(d)”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted "section 6652(c)" for "section 6652(d)".
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1969</b>—Pub. L. 91–172 inserted references to termination and contraction in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7208(b)(4), Dec. 19, 1989, 103 Stat. 2338, provided that: “The amendments made by this subsection \[amending this section and section 6652 of this title\] shall apply to transactions after March 31, 1990.”
+Pub. L. 101–239, title VII, §7208(b)(4), Dec. 19, 1989, 103 Stat. 2338, provided that: "The amendments made by this subsection \[amending this section and section 6652 of this title\] shall apply to transactions after March 31, 1990."
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) ofPub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 #### Effective Date of 1969 Amendment
 
 Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 101(k)(2)(B) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “6652(l).”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "6652(l)."</i>
 

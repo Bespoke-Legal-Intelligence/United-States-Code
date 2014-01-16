@@ -16,5 +16,5 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 

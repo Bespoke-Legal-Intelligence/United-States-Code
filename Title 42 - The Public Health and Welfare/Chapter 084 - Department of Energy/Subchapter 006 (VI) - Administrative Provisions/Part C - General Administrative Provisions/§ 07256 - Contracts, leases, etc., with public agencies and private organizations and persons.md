@@ -40,11 +40,11 @@ To the extent provided in advance in appropriations Acts, the Secretary may reta
 
 (2) In applying section 2371 of title 10 to the Secretary under paragraph (1)—
 
-&emsp;(A) the term “basic” shall be replaced by the term “research”;
+&emsp;(A) the term "basic" shall be replaced by the term "research";
 
-&emsp;(B) the term “applied” shall be replaced by the term “development”; and
+&emsp;(B) the term "applied" shall be replaced by the term "development"; and
 
-&emsp;(C) the terms “advanced research projects” and “advanced research” shall be replaced by the term “demonstration projects”.
+&emsp;(C) the terms "advanced research projects" and "advanced research" shall be replaced by the term "demonstration projects".
 
 (3) The authority of the Secretary under paragraph (1) shall not be subject to—
 
@@ -66,7 +66,7 @@ To the extent provided in advance in appropriations Acts, the Secretary may reta
 
 (7) The annual report of the head of an executive agency under section 2371(h) of title 10 shall be submitted to Congress.
 
-(8)(A) In this paragraph, the term “nontraditional Government contractor” has the meaning given the term “nontraditional defense contractor” in section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
+(8)(A) In this paragraph, the term "nontraditional Government contractor" has the meaning given the term "nontraditional defense contractor" in section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
 
 (B) Not later than 1 year after the date on which the final guidelines are published under paragraph (6), the Comptroller General of the United States shall submit to Congress a report describing—
 
@@ -76,13 +76,15 @@ To the extent provided in advance in appropriations Acts, the Secretary may reta
 
 (9) The authority of the Secretary under this subsection may be delegated only to an officer of the Department who is appointed by the President by and with the advice and consent of the Senate.
 
-(10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2015.
+(10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2020.
 
-(Pub. L. 95–91, title VI, §646, Aug. 4, 1977, 91 Stat. 599; Pub. L. 103–160, div. C, title XXXI, §3154, Nov. 30, 1993, 107 Stat. 1952; Pub. L. 109–58, title X, §1007, Aug. 8, 2005, 119 Stat. 932; Pub. L.111–383, div. C, title XXXI, §3118, Jan. 7, 2011, 124 Stat. 4514.)
+(Pub. L. 95–91, title VI, §646, Aug. 4, 1977, 91 Stat. 599; Pub. L. 103–160, div. C, title XXXI, §3154, Nov. 30, 1993, 107 Stat. 1952; Pub. L. 109–58, title X, §1007, Aug. 8, 2005, 119 Stat. 932; Pub. L. 111–383, div. C, title XXXI, §3118, Jan. 7, 2011, 124 Stat. 4514; Pub. L. 113–66, div. C, title XXXI, §3119, Dec. 26, 2013, 127 Stat. 1059.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (g)(10). Pub. L. 111–383 substituted “September 30, 2015” for “September 30, 2010”.
+<b>2013</b>—Subsec. (g)(10). Pub. L. 113–66 substituted "September 30, 2020" for "September 30, 2015".
+
+<b>2011</b>—Subsec. (g)(10). Pub. L. 111–383 substituted "September 30, 2015" for "September 30, 2010".
 
 <b>2005</b>—Subsec. (g). Pub. L. 109–58 added subsec. (g).
 
@@ -92,17 +94,17 @@ To the extent provided in advance in appropriations Acts, the Secretary may reta
 
 Pub. L. 109–13, div. A, title VI, §6022(a), (b), May 11, 2005, 119 Stat. 285, provided that:
 
-“(a) Not later than September 30, 2005, the Department of Energy and the Small Business Administration shall enter into a memorandum of understanding setting forth an appropriate methodology for measuring the achievement of the Department of Energy with respect to awarding contracts to small businesses.
+"(a) Not later than September 30, 2005, the Department of Energy and the Small Business Administration shall enter into a memorandum of understanding setting forth an appropriate methodology for measuring the achievement of the Department of Energy with respect to awarding contracts to small businesses.
 
-“(b) The methodology set forth in the memorandum of understanding entered into under subsection (a) shall, at a minimum, include—
+"(b) The methodology set forth in the memorandum of understanding entered into under subsection (a) shall, at a minimum, include—
 
-&emsp;“(1) a method of counting the achievement of the Department of Energy in awards of—
+&emsp;"(1) a method of counting the achievement of the Department of Energy in awards of—
 
-&emsp;&emsp;“(A) prime contracts; and
+&emsp;&emsp;"(A) prime contracts; and
 
-&emsp;&emsp;“(B) subcontracts to small businesses awarded by Department of Energy management and operating, management and integration, and other facility management prime contractors; and
+&emsp;&emsp;"(B) subcontracts to small businesses awarded by Department of Energy management and operating, management and integration, and other facility management prime contractors; and
 
-&emsp;“(2) uniform criteria that could be used by prime contractors when measuring the value and number of subcontracts awarded to small businesses.”
+&emsp;"(2) uniform criteria that could be used by prime contractors when measuring the value and number of subcontracts awarded to small businesses."
 
 #### Pilot Program Relating to Use of Proceeds of Disposal or Utilization of Certain Department of Energy Assets
 
@@ -112,37 +114,37 @@ Pub. L. 105–85, div. C, title XXXI, §3138, Nov. 18, 1997, 111 Stat. 2039, whi
 
 Pub. L. 103–160, div. C, title XXXI, §3159, Nov. 30, 1993, 107 Stat. 1956, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(16), Oct. 5, 1994, 108 Stat. 2857, provided that:
 
-“(a)
+"(a)
 
 Goal.—Except as provided in subsection (c), a goal of 5 percent of the amount described in subsection (b) shall be the objective of the Department of Energy in carrying out national security programs of the Department in each of fiscal years 1994 through 2000 for the total combined amount obligated for contracts and subcontracts entered into with—
 
-&emsp;“(1) small business concerns, including mass media and advertising firms, owned and controlled by socially and economically disadvantaged individuals (as such term is used in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and regulations issued under that section), the majority of the earnings of which directly accrue to such individuals;
+&emsp;"(1) small business concerns, including mass media and advertising firms, owned and controlled by socially and economically disadvantaged individuals (as such term is used in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and regulations issued under that section), the majority of the earnings of which directly accrue to such individuals;
 
-&emsp;“(2) historically Black colleges and universities, including any nonprofit research institution that was an integral part of such a college or university before November 14, 1986; and
+&emsp;"(2) historically Black colleges and universities, including any nonprofit research institution that was an integral part of such a college or university before November 14, 1986; and
 
-&emsp;“(3) minority institutions (as defined in section 1046(3) of the Higher Education Act of 1965 (20 U.S.C. 1135d-5(3))), which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) of such Act (20 U.S.C. 1059c(b)(1))).
+&emsp;"(3) minority institutions (as defined in section 1046(3) of the Higher Education Act of 1965 (20 U.S.C. 1135d-5(3))), which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) of such Act (20 U.S.C. 1059c(b)(1))).
 
-“(b)
+"(b)
 
 Amount.—(1) Except as provided in paragraph (2), the requirements of subsection (a) for any fiscal year apply to the combined total of the funds obligated for contracts entered into by the Department of Energy pursuant to competitive procedures for such fiscal year for purposes of carrying out national security programs of the Department.
 
-“(2) In computing the combined total of funds under paragraph (1) for a fiscal year, funds obligated for such fiscal year for contracts for naval reactor programs shall not be included.
+"(2) In computing the combined total of funds under paragraph (1) for a fiscal year, funds obligated for such fiscal year for contracts for naval reactor programs shall not be included.
 
-“(c)
+"(c)
 
 Applicability.—Subsection (a) does not apply—
 
-&emsp;“(1) to the extent to which the Secretary of Energy determines that compelling national security considerations require otherwise; and
+&emsp;"(1) to the extent to which the Secretary of Energy determines that compelling national security considerations require otherwise; and
 
-&emsp;“(2) if the Secretary notifies the Congress of such a determination and the reasons for the determination.”
+&emsp;"(2) if the Secretary notifies the Congress of such a determination and the reasons for the determination."
 
 #### Small Business Concerns Participation in Programs Funded by Department of Energy Act of 1978—Civilian Applications; Report to Congressional Committees
 
 Pub. L. 95–238, title II, §204, Feb. 25, 1978, 92 Stat. 59, as amended by Pub. L. 96–470, title II, §203(f), Oct. 19, 1980, 94 Stat. 2243, provided that:
 
-“(a) In carrying out the programs for which funds are authorized by this Act \[see Tables for classification\], the Secretary of Energy shall provide a realistic and adequate opportunity for small business concerns to participate in such programs to the optimum extent feasible consistent with the size and nature of the projects and activities involved.
+"(a) In carrying out the programs for which funds are authorized by this Act \[see Tables for classification\], the Secretary of Energy shall provide a realistic and adequate opportunity for small business concerns to participate in such programs to the optimum extent feasible consistent with the size and nature of the projects and activities involved.
 
-“(b) The Secretary of Energy shall submit annually to the appropriate committees of the House of Representatives and the Senate a full report on the actions taken in carrying out subsection (a) during the preceding year, including the extent to which small business concerns are participating in the programs involved and in projects and activities of various types and sizes within each such program, and indicating the steps currently taken to assure such participation in the future. Such report shall also contain such information as may be required by section 308 of the Act of December 31, 1975 (42 U.S.C. 5878a; 89 Stat. 1074).”
+"(b) The Secretary of Energy shall submit annually to the appropriate committees of the House of Representatives and the Senate a full report on the actions taken in carrying out subsection (a) during the preceding year, including the extent to which small business concerns are participating in the programs involved and in projects and activities of various types and sizes within each such program, and indicating the steps currently taken to assure such participation in the future. Such report shall also contain such information as may be required by section 308 of the Act of December 31, 1975 (42 U.S.C. 5878a; 89 Stat. 1074)."
 
 \[For termination, effective May 15, 2000, of reporting provisions in section 204(b) of Pub. L. 95–238, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 21st item on page 89 of House Document No. 103–7.\]
 

@@ -76,7 +76,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §216; added Nov. 5, 1990, Pub. L
 
 45:447(f).
 
-In subsection (a), before clause (1), the words “after notice and comment” are omitted as unnecessary because of 5:553.
+In subsection (a), before clause (1), the words "after notice and comment" are omitted as unnecessary because of 5:553.
 
-In subsection (c), the words “beginning on March 1, 1991” are omitted as obsolete.
+In subsection (c), the words "beginning on March 1, 1991" are omitted as obsolete.
 

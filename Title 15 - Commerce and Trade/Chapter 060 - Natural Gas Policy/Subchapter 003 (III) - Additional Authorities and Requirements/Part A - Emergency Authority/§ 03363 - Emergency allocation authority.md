@@ -134,7 +134,7 @@ The President may request that representatives of pipelines, local distribution 
 
 &emsp;For the purpose of any supplemental order under paragraph (1), if the party making emergency deliveries pursuant to subsection (c) or (d) of this section—
 
-&emsp;&emsp;(A) indicates a preference for compensation in kind, the President shall direct that compensation in kind be provided as expeditiously as practicable;
+&emsp;&emsp;(A) indicates a preference for compensation in kind, the President shall direct thatcompensation in kind be provided as expeditiously as practicable;
 
 &emsp;&emsp;(B) indicates a preference for compensation, or the President determines that, notwithstanding paragraph (A) of this subsection, any portion thereof cannot practicably be compensated in kind, the President shall calculate the amount of compensation—
 
@@ -154,9 +154,9 @@ In order to effect the purposes of this part, the President shall monitor the op
 
 Not later than June 1, 1979, the Commission shall prepare and submit to the Congress a report regarding whether authority to allocate natural gas, which is not otherwise subject to allocation under this part, is likely to be necessary to meet high-priority uses.
 
-#### (k) “High-priority use” defined
+#### (k) "High-priority use" defined
 
-For purposes of this section, the term “high-priority use” means any—
+For purposes of this section, the term "high-priority use" means any—
 
 &emsp;(1) use of natural gas in a residence;
 

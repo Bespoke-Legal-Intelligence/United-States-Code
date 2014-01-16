@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 Oct. 23, 1992, Pub. L. 102–484, title XVIII, §1803, 106 Stat. 2582.
 
-The word “objects” is omitted as unnecessary.
+The word "objects" is omitted as unnecessary.
 

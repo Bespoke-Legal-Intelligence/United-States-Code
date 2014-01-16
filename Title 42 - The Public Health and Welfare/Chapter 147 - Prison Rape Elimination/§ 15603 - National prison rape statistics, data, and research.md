@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Bureau of Justice Statistics of the Department of Justice (in this section referred to as the “Bureau”) shall carry out, for each calendar year, a comprehensive statistical review and analysis of the incidence and effects of prison rape. The statistical review and analysis shall include, but not be limited to the identification of the common characteristics of—
+&emsp;The Bureau of Justice Statistics of the Department of Justice (in this section referred to as the "Bureau") shall carry out, for each calendar year, a comprehensive statistical review and analysis of the incidence and effects of prison rape. The statistical review and analysis shall include, but not be limited to the identification of the common characteristics of—
 
 &emsp;&emsp;(A) both victims and perpetrators of prison rape; and
 
@@ -36,7 +36,7 @@
 
 #### (5) Surveys
 
-&emsp;In carrying out the review and analysis under paragraph (1), the Bureau shall, in addition to such other methods as the Bureau considers appropriate, use surveys and other statistical studies of current and former inmates from a sample of Federal, State, county, and municipal prisons. The Bureau shall ensure the confidentiality of each survey participant, except as authorized in paragraph (7).
+&emsp;In carrying out the review and analysis under paragraph (1), the Bureau shall, in addition to such other methods as the Bureau considers appropriate, use surveys and other statistical studies of current and former inmates from a sample of Federal, State, county, andmunicipal prisons. The Bureau shall ensure the confidentiality of each survey participant, except as authorized in paragraph (7).
 
 #### (6) Participation in survey
 
@@ -50,7 +50,7 @@
 
 #### (1) Establishment
 
-&emsp;To assist the Bureau in carrying out the review and analysis under subsection (a), there is established, within the Department of Justice, the Review Panel on Prison Rape (in this section referred to as the “Panel”).
+&emsp;To assist the Bureau in carrying out the review and analysis under subsection (a), there is established, within the Department of Justice, the Review Panel on Prison Rape (in this section referred to as the "Panel").
 
 #### (2) Membership
 
@@ -138,7 +138,7 @@ There are authorized to be appropriated $15,000,000 for each of fiscal years 200
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(5). Pub. L. 109–108, §113(a)(1), inserted “, except as authorized in paragraph (7)” before period at end.
+<b>2005</b>—Subsec. (a)(5). Pub. L. 109–108, §113(a)(1), inserted ", except as authorized in paragraph (7)" before period at end.
 
 Subsec. (a)(7). Pub. L. 109–108, §113(a)(2), added par. (7).
 

@@ -8,7 +8,7 @@ When a treaty is in effect between the United States and a foreign country provi
 
 &emsp;(3) all proceedings instituted by or on behalf of an offender transferred to the United States pertaining to the manner of execution in the United States of the sentence imposed by a foreign court shall be brought in the United States district court for the district in which the offender is confined or in which supervision is exercised and shall name the Attorney General and the official having immediate custody or exercising immediate supervision of the offender as respondents. The Attorney General shall defend against such proceedings;
 
-&emsp;(4) all proceedings instituted by or on behalf of an offender seeking to challenge the validity or legality of the offender's transfer from the United States shall be brought in the United States district court of the district in which the proceedings to determine the validity of the offender's consent were held and shall name the Attorney General as respondent; and
+&emsp;(4) all proceedings instituted by or on behalf of an offender seeking to challenge the validity or legality of the offender's transfer from the United States shall be brought in theUnited States district court of the district in which the proceedings to determine the validity of the offender's consent were held and shall name the Attorney General as respondent; and
 
 &emsp;(5) all proceedings instituted by or on behalf of an offender seeking to challenge the validity or legality of the offender's transfer to the United States shall be brought in the United States district court of the district in which the offender is confined or of the district in which supervision is exercised and shall name the Attorney General and the official having immediate custody or exercising immediate supervision of the offender as respondents. The Attorney General shall defend against such proceedings.
 
@@ -20,5 +20,5 @@ Section was formerly classified to section 2256 of Title 28, Judiciary and Judic
 
 #### Savings Provision
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter 96 (§1961 et seq.), or section 2516, 3057, or 3284 of thistitle to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter 96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 

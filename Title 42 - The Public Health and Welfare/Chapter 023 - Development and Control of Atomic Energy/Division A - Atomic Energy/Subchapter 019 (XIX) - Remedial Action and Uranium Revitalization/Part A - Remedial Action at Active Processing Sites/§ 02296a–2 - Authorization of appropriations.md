@@ -16,9 +16,9 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–222 substituted “$715,000,000” for “$490,000,000”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–222 substituted "$715,000,000" for "$490,000,000".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–388 substituted “$490,000,000” for “$415,000,000”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–388 substituted "$490,000,000" for "$415,000,000".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–259 substituted “$415,000,000” for “$310,000,000”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–259 substituted "$415,000,000" for "$310,000,000".
 

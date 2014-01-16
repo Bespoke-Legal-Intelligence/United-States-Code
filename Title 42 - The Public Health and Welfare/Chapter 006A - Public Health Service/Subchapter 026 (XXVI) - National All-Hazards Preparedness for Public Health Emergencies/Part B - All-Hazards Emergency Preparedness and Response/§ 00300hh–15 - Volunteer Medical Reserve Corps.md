@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 180 days after December 19, 2006, the Secretary, in collaboration with State, local, and tribal officials, shall build on State, local, and tribal programs in existence on December 19, 2006, to establish and maintain a Medical Reserve Corps (referred to in this section as the “Corps”) to provide for an adequate supply of volunteers in the case of a Federal, State, local, or tribal public health emergency. The Corps shall be headed by a Director who shall be appointed by the Secretary and shall oversee the activities of the Corps chapters that exist at the State, local, and tribal levels.
+Not later than 180 days after December 19, 2006, the Secretary, in collaboration with State,local, and tribal officials, shall build on State, local, and tribal programs in existence on December 19, 2006, to establish and maintain a Medical Reserve Corps (referred to in this section as the "Corps") to provide for an adequate supply of volunteers in the case of a Federal, State, local, or tribal public health emergency. The Corps shall be headed by a Director who shall be appointed by the Secretary and shall oversee the activities of the Corps chapters that exist at the State, local, and tribal levels.
 
 #### (b) State, local, and tribal coordination
 
@@ -32,7 +32,7 @@ The Corps shall be composed of individuals who—
 
 #### (2) Drills
 
-&emsp;In conjunction with the core training programs referred to in paragraph (1), and in order to facilitate the integration of trained volunteers into the health care system at the local level, Corps members shall engage in periodic training exercises to be carried out at the local level.
+&emsp;In conjunction with the core training programs referred to in paragraph (1), and in order to facilitate the integration of trained volunteers into the health care system at the local level, Corps members shall engage in periodic training exercises to be carried out at the local level. Such training exercises shall, as appropriate and applicable, incorporate the needs of at-risk individuals in the event of a public health emergency.
 
 #### (e) Deployment
 
@@ -62,7 +62,13 @@ The Secretary, in cooperation and consultation with the States, shall develop a 
 
 #### (i) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section, $22,000,000 for fiscal year 2007, and such sums as may be necessary for each of fiscal years 2008 through 2011.
+There is authorized to be appropriated to carry out this section, $11,200,000 for each of fiscal years 2014 through 2018.
 
-(July 1, 1944, ch. 373, title XXVIII, §2813, as added Pub. L. 109–417, title III, §303(a), Dec. 19, 2006, 120 Stat. 2856.)
+(July 1, 1944, ch. 373, title XXVIII, §2813, as added Pub. L. 109–417, title III, §303(a), Dec. 19, 2006, 120 Stat. 2856; amended Pub. L. 113–5, title II, §203(b)(2), Mar. 13, 2013, 127 Stat. 175.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (d)(2). Pub. L. 113–5, §203(b)(2)(A), inserted at end "Such training exercises shall, as appropriate and applicable, incorporate the needs of at-risk individuals in the event of a public health emergency."
+
+Subsec. (i). Pub. L. 113–5, §203(b)(2)(B), substituted "$11,200,000 for each of fiscal years 2014 through 2018" for "$22,000,000 for fiscal year 2007, and such sums as may be necessary for each of fiscal years 2008 through 2011".
 

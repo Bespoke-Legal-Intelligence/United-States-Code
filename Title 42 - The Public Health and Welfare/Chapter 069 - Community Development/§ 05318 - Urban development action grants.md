@@ -12,7 +12,7 @@ The Secretary is authorized to make urban development action grants to cities an
 
 &emsp;(A) in the case of a city with a population of fifty thousand persons or more or an urban county, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups, as defined by the United States Bureau of the Census, having at least a population of ten thousand persons or 10 per centum of the population of the city or urban county; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city or urban county; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level; or
 
-&emsp;(B) in the case of a city with a population of less than fifty thousand persons, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups or other areas defined by the United States Bureau of the Census or for which data certified by the United States Bureau of the Census are available having at least a population of two thousand five hundred persons or 10 per centum of the population of the city, whichever isgreater; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level.
+&emsp;(B) in the case of a city with a population of less than fifty thousand persons, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups or other areas defined by the United States Bureau of the Census or for which data certified by the United States Bureau of the Census are available having at least a population of two thousand five hundred persons or 10 per centum of the population of the city, whichever is greater; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level.
 
 > The Secretary shall use up to, but not more than, 20 per centum of the funds appropriated for use in any fiscal year under this section for the purpose of making grants to cities and urban counties eligible under this paragraph.
 
@@ -164,7 +164,7 @@ The Secretary shall, at least on an annual basis, make reviews and audits of rec
 
 #### (6) Definition
 
-&emsp;For purposes of this subsection, the term “operation” includes any plant, equipment, facility, position, employment opportunity, production capacity, or product line.
+&emsp;For purposes of this subsection, the term "operation" includes any plant, equipment, facility, position, employment opportunity, production capacity, or product line.
 
 #### (7) Regulations
 
@@ -188,11 +188,11 @@ For purposes of this section, the Secretary may reduce or waive the requirement 
 
 #### (m) Notice to State historic preservation officer and Secretary of the Interior required with regard to affected landmark property; opportunity for comment
 
-In the case of any application which identifies any property in accordance with subsection (c)(4)(B) of this section, the Secretary may not commit funds with respect to an approved application unless the applicant has certified to the Secretary that the appropriate State historic preservation officer and the Secretary of the Interior have been provided an opportunity to take action in accordance with the provisions of section 5320(b) of this title.
+In the case of any application which identifies any property in accordance with subsection\(c)(4)(B) of this section, the Secretary may not commit funds with respect to an approved application unless the applicant has certified to the Secretary that the appropriate State historic preservation officer and the Secretary of the Interior have been provided an opportunity to take action in accordance with the provisions of section 5320(b) of this title.
 
-#### (n) Territories, tribes, and certain Hawaiian counties included in term “city”
+#### (n) Territories, tribes, and certain Hawaiian counties included in term "city"
 
-(1) For the purposes of this section, the term “city” includes Guam, American Samoa, the Northern Mariana Islands, the Virgin Islands, and Indian tribes. Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.
+(1) For the purposes of this section, the term "city" includes Guam, American Samoa, the Northern Mariana Islands, the Virgin Islands, and Indian tribes. Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.
 
 (2) The Secretary may not approve a grant to an Indian tribe under this section unless the tribe (A) is located on a reservation, or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior, or in an Alaskan Native Village, and (B) was an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
 
@@ -234,11 +234,11 @@ If a grant or a portion of a grant under this section remains unexpended upon th
 
 &emsp;&emsp;(B) except when waived by the Secretary in the case of a severely distressed jurisdiction, not more than one-half of the costs of such activities are derived from such unexpended amount.
 
-(Pub. L. 93–383, title I, §119, as added Pub. L. 95–128, title I, §110(b), Oct. 12, 1977, 91 Stat. 1125; amended Pub. L. 95–557, title I, §103(g), (h), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title I, §§104, 105, Dec. 21, 1979, 93 Stat. 1102, 1104; Pub. L. 96–399, title I, §§110(a), (b), 117(a), Oct. 8, 1980, 94 Stat. 1619, 1623; Pub. L. 97–35, title III, §308(a), Aug. 13, 1981, 95 Stat. 392; Pub. L. 98–181, title I \[title I, §121\], Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–454, title VI, §601(c), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 98–479, title II, §203(l)(3), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 99–272, title XIV, §14001(b)(6), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–500, §101(g), Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, §101(g), Oct. 30, 1986, 100 Stat. 3341–242; Pub. L. 100–202, §§101(f) \[title I, §101\], 106, Dec. 22, 1987, 101 Stat. 1329–187, 1329–193, 1329–433; Pub. L. 100–242, title V, §§501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, 101 Stat. 1923, 1930–1934; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1020; Pub. L. 100–628, title X, §1084, Nov. 7, 1988, 102 Stat. 3277; Pub. L. 103–233, title II, §232(b), (c)(1), Apr. 11, 1994, 108 Stat. 367.)
+(Pub. L. 93–383, title I, §119, as added Pub. L. 95–128, title I, §110(b), Oct. 12, 1977, 91 Stat. 1125; amended Pub. L. 95–557, title I, §103(g), (h), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title I, §§104, 105, Dec. 21, 1979, 93 Stat. 1102, 1104; Pub. L. 96–399, title I, §§110(a), (b), 117(a), Oct. 8, 1980, 94 Stat. 1619, 1623; Pub. L. 97–35, title III, §308(a), Aug. 13, 1981, 95 Stat. 392; Pub. L. 98–181, title I \[title I, §121\], Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–454, title VI, §601(c), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 98–479, title II, §203(l)(3), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 99–272, title XIV, §14001(b)(6), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–500, §101(g),Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, §101(g), Oct. 30, 1986, 100 Stat. 3341–242; Pub. L. 100–202, §§101(f) \[title I, §101\], 106, Dec. 22, 1987, 101 Stat. 1329–187, 1329–193, 1329–433; Pub. L. 100–242, title V, §§501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, 101 Stat. 1923, 1930–1934; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1020; Pub. L. 100–628, title X, §1084, Nov. 7, 1988, 102 Stat. 3277; Pub. L. 103–233, title II, §232(b), (c)(1), Apr. 11, 1994, 108 Stat. 367.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (g) and (t)(1)(B)(i), (2)(A), was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (g) and (t)(1)(B)(i), (2)(A), was in the original "this title", meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 For effective date of this paragraph, referred to in subsec. (h)(5)(C)(i), see section 516(b) of Pub. L. 100–242, set out as an Effective Date of 1988 Amendment note below.
 
@@ -248,17 +248,17 @@ Chapter 67 of title 31, referred to in subsec. (n)(2)(B), was repealed by Pub. L
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-Amendment of subsec. (n)(1) by Pub. L. 99–500 and 99–591 is based on provisions under the headings “Management and Administration” and “Administrative Provision” in title I of H.R. 5313 \[Department of Housing and Urban Development—Independent Agencies Appropriations Act, 1987\], as incorporated by reference by section 101(g) of Pub. L. 99–500 and 99–591, and enacted into law by section 106 of Pub. L. 100–202.
+Amendment of subsec. (n)(1) by Pub. L. 99–500 and 99–591 is based on provisions under the headings "Management and Administration" and "Administrative Provision" in title I of H.R. 5313 \[Department of Housing and Urban Development—Independent Agencies Appropriations Act, 1987\], as incorporated by reference by section 101(g) of Pub. L. 99–500 and 99–591, and enacted into law by section 106 of Pub. L. 100–202.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (o). Pub. L. 103–233, §232(b), inserted before period at end “, except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) of this section may be used to provide grants under section 5308(q) of this title.”
+<b>1994</b>—Subsec. (o). Pub. L. 103–233, §232(b), inserted before period at end ", except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) of this section may be used to provide grants under section 5308(q) of this title."
 
 Subsec. (t). Pub. L. 103–233, §232(c)(1), added subsec. (t).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–242, §501(c), substituted “There are authorized to be appropriated to carry out this section $225,000,000 for fiscal year 1988, and $225,000,000 for fiscal year 1989. Any amount appropriated under this subsection shall remain available until expended.” for “Of the total amount approved in appropriation Acts under section 5303 of this title for each of the fiscal years 1982 and 1983, not more than $500,000,000 shall be available for each of the fiscal years 1982 and 1983 for grants under this section. There are authorized to be appropriated to carry out the provisions of this section not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986, and any amount appropriated under this sentence shall remain available until expended.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–242, §501(c), substituted "There are authorized to be appropriated to carry out this section $225,000,000 for fiscal year 1988, and $225,000,000 for fiscal year 1989. Any amount appropriated under this subsection shall remain available until expended." for "Of the total amount approved in appropriation Acts under section 5303 of this title for each of the fiscal years 1982 and 1983, not more than $500,000,000 shall be available for each of the fiscal years 1982 and 1983 for grants under this section. There are authorized to be appropriated to carry out the provisions of this section not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986, and any amount appropriated under this sentence shall remain available until expended."
 
-Subsec. (d)(1). Pub. L. 100–242, §515(a), inserted dash before “(A)”, indented subpars. (A) and (B), struck out “as the primary criterion,” in subpar. (A) and “and” at end of subpar. (B), added subpars. (C) and (D), and struck out former subpar. (C) which read as follows: “at least the following other criteria: demonstrated performance of the city or urban county in housing and community development programs; the extent to which the grant will stimulate economic recovery by leveraging private investment; the number of permanent jobs to be created and their relation to the amount of grant funds requested; the proportion of permanent jobs accessible to lower income persons and minorities, including persons who are unemployed; the impact of the proposed activities on the fiscal base of the city or urban county and its relation to the amount of grant funds requested; the extent to which State or local government funding or special economic incentives have been committed; and the feasibility of accomplishing the proposed activities in a timely fashion within the grant amount available.”
+Subsec. (d)(1). Pub. L. 100–242, §515(a), inserted dash before "(A)", indented subpars. (A) and (B), struck out "as the primary criterion," in subpar. (A) and "and" at end of subpar. (B), added subpars. (C) and (D), and struck out former subpar. (C) which read as follows: "at least the following other criteria: demonstrated performance of the city or urban county in housing and community development programs; the extent to which the grant will stimulate economic recovery by leveraging private investment; the number of permanent jobs to be created and their relation to the amount of grant funds requested; the proportion of permanent jobs accessible to lower income persons and minorities, including persons who are unemployed; the impact of the proposed activities on the fiscal base of the city or urban county and its relation to the amount of grant funds requested; the extent to which State or local government funding or special economic incentives have been committed; and the feasibility of accomplishing the proposed activities in a timely fashion within the grant amount available."
 
 Subsec. (d)(3) to (5). Pub. L. 100–242, §515(b), added pars. (3) to (5).
 
@@ -266,11 +266,11 @@ Subsec. (d)(5)(C), (D). Pub. L. 100–404 added subpars. (C) and (D).
 
 Subsec. (d)(6). Pub. L. 100–242, §515(b), (g)(2), temporarily added par. (6), see Effective Date of 1988 Amendment note below.
 
-Subsec. (f). Pub. L. 100–628, §1084(a), substituted “5305” for “5304” after “activities under this section or section”.
+Subsec. (f). Pub. L. 100–628, §1084(a), substituted "5305" for "5304" after "activities under this section or section".
 
-Pub. L. 100–242, §515(c), inserted at end “In any case in which the project proposes the repayment to the applicant of the grant funds, such funds shall be made available by the applicant for economic development activities that are eligible activities under this section or section 5304 of this title. The applicant shall annually provide the Secretary with a statement of the projected receipt and use of repaid grant funds during the next year together with a report acceptable to the Secretary on the use of such funds during the most recent preceding full fiscal year of the applicant.”
+Pub. L. 100–242, §515(c), inserted at end "In any case in which the project proposes the repayment to the applicant of the grant funds, such funds shall be made available by the applicant for economic development activities that are eligible activities under this section or section 5304 of this title. The applicant shall annually provide the Secretary with a statement of the projected receipt and use of repaid grant funds during the next year together with a report acceptable to the Secretary on the use of such funds during the most recent preceding full fiscal year of the applicant."
 
-Subsec. (h)(1). Pub. L. 100–242, §516(a)(1), (2), designated existing provision as par. “(1) Speculative projects” and inserted at end “The provisions of this paragraph shall apply only to projects that do not have identified intended occupants.”
+Subsec. (h)(1). Pub. L. 100–242, §516(a)(1), (2), designated existing provision as par. "(1) Speculative projects" and inserted at end "The provisions of this paragraph shall apply only to projects that do not have identified intended occupants."
 
 Subsec. (h)(2) to (7). Pub. L. 100–242, §516(a)(3), added pars. (2) to (7).
 
@@ -278,31 +278,31 @@ Subsec. (n)(1). Pub. L. 100–628, §1084(b), directed that subsec. (n)(1) of th
 
 Pub. L. 100–242, §515(i), made amendment identical to Pub. L. 99–500 and 99–591. See 1986 Amendment note below.
 
-Subsec. (r). Pub. L. 100–242, §515(d), amended subsec. (r) generally. Prior to amendment, subsec. (r) read as follows: “In providing assistance under this section, the Secretary may not discriminate among programs on the basis of the particular type of activity involved, whether such activity is primarily a neighborhood, industrial, or commercial activity.”
+Subsec. (r). Pub. L. 100–242, §515(d), amended subsec. (r) generally. Prior to amendment, subsec. (r) read as follows: "In providing assistance under this section, the Secretary may not discriminate among programs on the basis of the particular type of activity involved, whether such activity is primarily a neighborhood, industrial, or commercial activity."
 
 Subsec. (s). Pub. L. 100–242, §515(h), added subsec. (s).
 
 <b>1987</b>—Subsec. (n)(1). For amendment by §106 of Pub. L. 100–202, see 1986 Amendment note below.
 
-Subsec. (n)(2)(A). Pub. L. 100–202, §101(f) \[title I, §101\], inserted “, or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior,” after “reservation”.
+Subsec. (n)(2)(A). Pub. L. 100–202, §101(f) \[title I, §101\], inserted ", or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior," after "reservation".
 
-<b>1986</b>—Subsec. (n)(1). Pub. L. 99–500 and 99–591, §101(g), as enacted by Pub. L. 100–202, inserted at end “Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.” See Codification note above.
+<b>1986</b>—Subsec. (n)(1). Pub. L. 99–500 and 99–591, §101(g), as enacted by Pub. L. 100–202, inserted at end "Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii." See Codification note above.
 
-Subsec. (n)(2)(B). Pub. L. 99–272 substituted “was an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter” for “is an eligible recipient under chapter 67 of title 31”.
+Subsec. (n)(2)(B). Pub. L. 99–272 substituted "was an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter" for "is an eligible recipient under chapter 67 of title 31".
 
 <b>1984</b>—Subsec. (n)(1). Pub. L. 98–454 inserted reference to American Samoa and the Northern Mariana Islands.
 
-Subsec. (n)(2). Pub. L. 98–479 substituted “chapter 67 of title 31” for “the State and Local Fiscal Assistance Act of 1972”.
+Subsec. (n)(2). Pub. L. 98–479 substituted "chapter 67 of title 31" for "the State and Local Fiscal Assistance Act of 1972".
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–181, §121(a), inserted authorizations for appropriations not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986.
 
-Subsec. (b)(1). Pub. L. 98–181, §121(b), substituted “the extent of unemployment, job lag, or surplus labor” for “where data are available, the extent of unemployment and job lag”, and inserted provisions for continued eligibility for assistance of any city with a population of less than 50,000 persons, other than a central city of a metropolitan area, which until the Secretary revises the standards for eligibility for such cities and includes the extent of unemployment, job lag, or labor surplus as a standard of distress for such cities, and provisions requiring the Secretary to make such revision as soon as possible following Nov. 30, 1983.
+Subsec. (b)(1). Pub. L. 98–181, §121(b), substituted "the extent of unemployment, job lag, or surplus labor" for "where data are available, the extent of unemployment and job lag", and inserted provisions for continued eligibility for assistance of any city with a population ofless than 50,000 persons, other than a central city of a metropolitan area, which until the Secretary revises the standards for eligibility for such cities and includes the extent of unemployment, job lag, or labor surplus as a standard of distress for such cities, and provisions requiring the Secretary to make such revision as soon as possible following Nov. 30, 1983.
 
-Subsec. (b)(2)(A)(i), (B)(i). Pub. L. 98–181, §121(c), inserted “neighborhood statistics areas,” after “enumeration districts,”.
+Subsec. (b)(2)(A)(i), (B)(i). Pub. L. 98–181, §121(c), inserted "neighborhood statistics areas," after "enumeration districts,".
 
 Subsec. (c)(3)(C). Pub. L. 98–181, §121(d), added cl. (C).
 
-Subsec. (d)(1). Pub. L. 98–181, §121(e), substituted “criteria for a national competition” for “criteria” in provisions preceding cl. (A).
+Subsec. (d)(1). Pub. L. 98–181, §121(e), substituted "criteria for a national competition" for "criteria" in provisions preceding cl. (A).
 
 Subsec. (i). Pub. L. 98–181, §121(f), inserted provisions relating to applications by consortia of cities less than 50,000 population.
 
@@ -318,13 +318,13 @@ Subsec. (o). Pub. L. 96–399, §117(a), added subsec. (o).
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–153, §104, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 96–153, §104(b), designated existing provisions as par. (1) and substituted “(1) Except in the case of a city or urban county eligible under subsection (b)(2) of this section, in establishing criteria” for “In establishing criteria” in opening sentence, redesignated existing cls. (1) to (3) as (A) to (C), and added pars. (2) and (3).
+Subsec. (e). Pub. L. 96–153, §104(b), designated existing provisions as par. (1) and substituted "(1) Except in the case of a city or urban county eligible under subsection (b)(2) of this section, in establishing criteria" for "In establishing criteria" in opening sentence, redesignated existing cls. (1) to (3) as (A) to (C), and added pars. (2) and (3).
 
 Subsecs. (l), (m). Pub. L. 96–153, §105, added subsecs. (l) and (m).
 
 <b>1978</b>—Subsec. (c)(6). Pub. L. 95–557, §103(g), added par. (6).
 
-Subsec. (e). Pub. L. 95–557, §103(h), inserted “impact of the proposed urban development action program on the residents, particularly those of low and moderate income, of the residential neighborhood, and on the neighborhood, in which the program is to be located” after “objectives of this chapter”.
+Subsec. (e). Pub. L. 95–557, §103(h), inserted "impact of the proposed urban development action program on the residents, particularly those of low and moderate income, of the residential neighborhood, and on the neighborhood, in which the program is to be located" after "objectives of this chapter".
 
 #### Effective Date of 1994 Amendment
 
@@ -334,33 +334,33 @@ Amendment by Pub. L. 103–233 applicable with respect to any amounts made avail
 
 Pub. L. 100–242, title V, §515(f), (g), Feb. 5, 1988, 101 Stat. 1934, provided that:
 
-“(f)
+"(f)
 
 Regulations.—The Secretary of Housing and Urban Development shall issue such regulations as may be necessary to carry out the amendments made by this section \[amending this section\]. Such regulations shall be published for comment in the Federal Register not later than 60 days after the date of enactment of this Act \[Feb. 5, 1988\]. The provisions of section 119(d)(1)(D), section 119(d)(3), and section 119(d)(4) of the Housing and Community Development Act of 1974 \[subsec. (d)(1)(D), (3), (4) of this section\], shall take effect on the date of enactment of this Act.
 
-“(g)
+"(g)
 
 Applicability.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—The amendments made by this section \[amending this section\] shall be applicable tothe making of urban development action grants that have not received the preliminary approval of the Secretary of Housing and Urban Development before the date on which final regulations issued by the Secretary under subsection (f) become effective. For the fiscal year in which the amendments made by this section become applicable, such amendments shall only apply with respect to the aggregate amount awarded for such grants on or after such effective date.
+In general.—The amendments made by this section \[amending this section\] shall be applicable to the making of urban development action grants that have not received the preliminary approval of the Secretary of Housing and Urban Development before the date on which final regulations issued by the Secretary under subsection (f) become effective. For the fiscal year in which the amendments made by this section become applicable, such amendments shall only apply with respect to the aggregate amount awarded for such grants on or after such effective date.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Sunset of urban county competition rule.—Effective October 1, 1989, section 119(d)(6) of the Housing and Community Development Act of 1974 \[subsec. (d)(6) of this section\] is repealed.”
+Sunset of urban county competition rule.—Effective October 1, 1989, section 119(d)(6) of the Housing and Community Development Act of 1974 \[subsec. (d)(6) of this section\] is repealed."
 
-Pub. L. 100–242, title V, §516(b), Feb. 5, 1988, 101 Stat. 1936, provided that: “Except as otherwise provided in section 119(h)(5) of the Housing and Community Development Act of 1974 \[subsec. (h)(5) of this section\] (as added by subsection (a)), the amendments made by this section \[amending this section\] shall be applicable to urban development action grants that have not received the preliminary approval of the Secretary of Housing and Urban Development before the date of the enactment of this Act \[Feb. 5, 1988\].”
+Pub. L. 100–242, title V, §516(b), Feb. 5, 1988, 101 Stat. 1936, provided that: "Except as otherwise provided in section 119(h)(5) of the Housing and Community Development Act of 1974 \[subsec. (h)(5) of this section\] (as added by subsection (a)), the amendments made by this section \[amending this section\] shall be applicable to urban development action grants that have not received the preliminary approval of the Secretary of Housing and Urban Development before the date of the enactment of this Act \[Feb. 5, 1988\]."
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433, provided that the amendment made by Pub. L. 99–500 and 99–591 is effective on date of enactment \[Oct. 18, 1986\] of the “pertinent joint resolution” making continuing appropriations for fiscal year 1987 \[Pub. L. 99–500 and 99–591\].
+Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433, provided that the amendment made by Pub. L. 99–500 and 99–591 is effective on date of enactment \[Oct. 18, 1986\] of the "pertinent joint resolution" making continuing appropriations for fiscal year 1987 \[Pub. L. 99–500 and 99–591\].
 
 Amendment by Pub. L. 99–272 effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272.
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title III, §308(c), Aug. 13, 1981, 95 Stat. 396, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 5320 of this title\] shall become effective on the effective date of regulations implementing such subsections. As soon as practicable, but not later than January 1, 1982, the Secretary shall issue such final rules and regulations as the Secretary determines are necessary to carry out such subsections.”
+Pub. L. 97–35, title III, §308(c), Aug. 13, 1981, 95 Stat. 396, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 5320 of this title\] shall become effective on the effective date of regulations implementing such subsections. As soon as practicable, but not later than January 1, 1982, the Secretary shall issue such final rules and regulations as the Secretary determines are necessary to carry out such subsections."
 
 #### Effective Date of 1978 Amendment
 
@@ -372,423 +372,423 @@ Section effective Oct. 1, 1977, see section 114 of Pub. L. 95–128, set out as 
 
 #### Implementation of Urban Development Action Grant Retention Program
 
-Pub. L. 103–233, title II, §232(c)(2), Apr. 11, 1994, 108 Stat. 368, provided that: “Not later than 10 days after the date of enactment of this Act \[Apr. 11, 1994\], the Secretary shall, by notice published in the Federal Register, which shall take effect upon publication, establish such requirements as may be necessary to implement the amendments made by this subsection \[amending this section\].”
+Pub. L. 103–233, title II, §232(c)(2), Apr. 11, 1994, 108 Stat. 368, provided that: "Not later than 10 days after the date of enactment of this Act \[Apr. 11, 1994\], the Secretary shall, by notice published in the Federal Register, which shall take effect upon publication, establish such requirements as may be necessary to implement the amendments made by this subsection \[amending this section\]."
 
 #### New Towns Demonstration Program for Emergency Relief of Los Angeles
 
 Pub. L. 102–550, title XI, Oct. 28, 1992, 106 Stat. 3927, as amended by Pub. L. 105–362, title VII, §701(g), Nov. 10, 1998, 112 Stat. 3287, provided that:
 
-#### “SEC. 1101. AUTHORITY.
+#### "SEC. 1101. AUTHORITY.
 
-“To provide for the revitalization and renewal of inner city neighborhoods in the areas of Los Angeles, California, that were damaged by the civil disturbances during April and May of 1992, and to demonstrate the effectiveness of new town developments in revitalizing and restoring depressed and underprivileged inner city neighborhoods, the Secretary of Housing and Urban Development shall, to the extent or in such amounts as are provided in appropriation Acts, make any assistance authorized under this title available under this title to units of general local government, governing boards, and eligible mortgagors in accordance with the provisions of this title.
+"To provide for the revitalization and renewal of inner city neighborhoods in the areas of Los Angeles, California, that were damaged by the civil disturbances during April and May of 1992, and to demonstrate the effectiveness of new town developments in revitalizingand restoring depressed and underprivileged inner city neighborhoods, the Secretary of Housing and Urban Development shall, to the extent or in such amounts as are provided in appropriation Acts, make any assistance authorized under this title available under this title to units of general local government, governing boards, and eligible mortgagors in accordance with the provisions of this title.
 
-#### “SEC. 1102. NEW TOWN PLAN.
+#### "SEC. 1102. NEW TOWN PLAN.
 
-“(a)
+"(a)
 
 Requirement.—The Secretary may make assistance available under this title only in connection with, and according to the provisions of a new town plan developed and established by a governing board under section 1107 and approved under subsection (d) of this section. In developing such plans, the governing board shall consult with representatives of the units of general local government within whose boundaries are located any portion of the new town demonstration area for the demonstration program to be carried out under such plan.
 
-“(b)
+"(b)
 
 Eligible New Town Demonstration Areas.—A new town plan under this section shall provide for carrying out a new town development demonstration providing assistance available under this title within a new town demonstration area, which shall be a geographic area defined in the new town plan—
 
-&emsp;“(1) that is one of pervasive poverty, unemployment, and general distress;
+&emsp;"(1) that is one of pervasive poverty, unemployment, and general distress;
 
-&emsp;“(2) that has an unemployment rate of not less than 1.5 times the national unemployment rate for the 2 years preceding approval of the new town plan;
+&emsp;"(2) that has an unemployment rate of not less than 1.5 times the national unemployment rate for the 2 years preceding approval of the new town plan;
 
-&emsp;“(3) that has a poverty rate of not less than 20 percent during such 2-year period;
+&emsp;"(3) that has a poverty rate of not less than 20 percent during such 2-year period;
 
-&emsp;“(4) for which not less than 70 percent of the households living in the area have incomes below 80 percent of the median income of households of the unit of general local government in which they are located;
+&emsp;"(4) for which not less than 70 percent of the households living in the area have incomes below 80 percent of the median income of households of the unit of general local government in which they are located;
 
-&emsp;“(5) that has a shortage of adequate jobs for residents; and
+&emsp;"(5) that has a shortage of adequate jobs for residents; and
 
-&emsp;“(6) that is located—
+&emsp;"(6) that is located—
 
-&emsp;&emsp;“(A) in or near the City or County of Los Angeles, in the State of California; and
+&emsp;&emsp;"(A) in or near the City or County of Los Angeles, in the State of California; and
 
-&emsp;&emsp;“(B) within an area for which the President, pursuant to title IV or V of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170 et seq., 5191 et seq.\], declared that a major disaster or emergency existed for purposes of such Act \[42 U.S.C. 5121 et seq.\], as a result of the civil disturbances involving acts of violence occurring on or after April 29, 1992, and before May 6, 1992.
+&emsp;&emsp;"(B) within an area for which the President, pursuant to title IV or V of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170 et seq., 5191 et seq.\], declared that a major disaster or emergency existed for purposes of such Act \[42 U.S.C. 5121 et seq.\], as a result of the civil disturbances involving acts of violence occurring on or after April 29, 1992, and before May 6, 1992.
 
-“(c)
+"(c)
 
 Contents.—Each new town plan shall include the following information:
 
-&emsp;“(1)
+&emsp;"(1)
 
 Governing board.—A description of the members and purposes of the governing board that developed the plan, the manner in which members of the governing board were selected, and the businesses, agencies, interests, and community ties of each member of the governing board.
 
-&emsp;“(2)
+&emsp;"(2)
 
 New town demonstration area.—A definition and description of the new town demonstration area for the new town development demonstration to be assisted under this title.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Target community.—A description of the economic, social, racial, and ethnic characteristics of the population of the neighborhood or area in which the new town demonstration area is located.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Agreements.—Agreements that the governing board will carry out the new town demonstration program in accordance with the requirements of this title.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Housing units.—A description of the number, size, location, cost, style, and characteristics of rental and homeownership housing units to be developed under the new town demonstration program, any financing for developing such housing, and the amount of assistance necessary under section 1105 for developing the housing under the program.
 
-&emsp;“(6)
+&emsp;"(6)
 
 Jobs.—A description of the number, types, and duration of any new jobs that will be created in the new town demonstration area and surrounding areas as a result of the demonstration program, and of any job training activities and apprenticeship programs to be made available in connection with the program.
 
-&emsp;“(7)
+&emsp;"(7)
 
 Social services.—A description of the social and supportive services to be made available under the demonstration program to residents of housing assisted under the demonstration program pursuant to section 1103(d) and to residents of the new town demonstration area.
 
-&emsp;“(8)
+&emsp;"(8)
 
 Supplemental resources.—A description of any funds, assistance, in-kind contributions, and other resources to be made available in connection with the demonstration program, including the sources and amounts of any private capital resources and non-Federal funds required under section 1103(h).
 
-&emsp;“(9)
+&emsp;"(9)
 
 Contractors and developers.—A listing of the contractors and developers who potentially will carry out any construction and rehabilitation work for development of housing under the demonstration program and the expected costs involved in hiring such contractors and developers.
 
-&emsp;“(10)
+&emsp;"(10)
 
 Financing for homebuyers.—A description of any mortgage lenders who have indicated that they will make financing available to families purchasing housing developed under the demonstration program through mortgages eligible for insurance under section 1104 and proposed terms of such mortgages.
 
-&emsp;“(11)
+&emsp;"(11)
 
 Commitments.—Evidence of any commitments entered into for making any of the resources described in paragraphs (6) through (8) available in connection with the demonstration program.
 
-&emsp;“(12)
+&emsp;"(12)
 
 Presale requirements.—A description of commitments made to purchase not less than 50 percent of the housing to be developed under the demonstration program for purchase by the occupant and to rent not less than 50 percent of the rental dwelling units to be developed under the demonstration program.
 
-&emsp;“(13)
+&emsp;"(13)
 
 Community development activities.—A description of the community development activities to be carried out with assistance under section 1106, the amount of assistance necessary under such section for such activities, and of the projected uses of such assistance.
 
-“(d)
+"(d)
 
 Review and Approval.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Submission.—Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], a governing board shall submit a new town plan under this section to the chief executive officers of each unit of general local government within whose boundaries is located any portion of the new town demonstration area described under the plan of the board.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Approval.—For a plan to be eligible for assistance available under this title, the chief executive officer of all units of general local government to whom the new town plan is submitted shall approve the plan at a public meeting after the plan has been made publicly available for a period of not less than 30 days. A governing board may resubmit for approval any plan returned by any such chief executive officer to the governing board, and such chief executive officer may, upon returning the plan indicate any modifications necessary for approval. A new town plan may not be approved unless such chief executive officers determine that the membership of the governing board submitting the plan is constituted in accordance with section 1107 and the governing board is capable of carrying out the plan.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Amendment.—An approved new town plan for the demonstration program developed by the governing board may be amended by the board by obtaining approval of the amendment in the manner provided under this subsection for approval of plans. If the chief executive officer of the unit of general local government does not approve or return the amended plan within 30 days of submission, the amended plan shall be considered to be approved for purposes of this subsection.
+Amendment.—An approved new town plan for the demonstration program developed by the governing board may be amended by the board by obtaining approval of the amendment in the manner provided under this subsection for approval of plans. If the chief executive officer of the unit of general local government does not approve or return the amended plan within 30 days of submission, the amended planshall be considered to be approved for purposes of this subsection.
 
-#### “SEC. 1103. NEW TOWN DEVELOPMENT DEMONSTRATION PROGRAM REQUIREMENTS.
+#### "SEC. 1103. NEW TOWN DEVELOPMENT DEMONSTRATION PROGRAM REQUIREMENTS.
 
-“(a)
+"(a)
 
 In General.—Each of the 2 new town development demonstration programs selected for assistance under this title under section 1102 shall be carried out, by the governing board submitting the new town plan for the demonstration program, in accordance with such plan (and any approved amendments of such plans) and shall be subject to the requirements under this section.
 
-“(b)
+"(b)
 
 Local Participation.—With respect to any activities carried out under the demonstration program, the program shall give preference in awarding contracts, purchasing materials, acquiring services, and obtaining assistance or training, to contractors, businesses, developers, professionals, and other establishments located or having offices within the new town demonstration area.
 
-“(c)
+"(c)
 
 Housing.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Number of units.—The demonstration program shall construct or renovate not less than 1,500 dwelling units in the new town demonstration area, of which not less than 60 percent shall be units available for purchase by the occupant.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Affordability.—Units of varying sizes and costs shall be designed and developed under the demonstration program so that the program provides housing affordable to families of varying incomes not exceeding 115 percent of the median income for the area in which the new town demonstration area is located, including very low- and low-income families (as such terms are defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Homeownership units.—Dwelling units developed under the demonstration program for purchase by the occupant shall initially be sold at prices affordable to families eligible to purchase such units. Such units shall be available for purchase only by families having incomes not exceeding the amount specified in paragraph (2). The demonstration shall develop 2-, 3-, and 4-bedroom units for purchase.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Rental units.—Dwelling units developed under the demonstration program that are to be available for rental shall include family-type units and single bedroom and efficiency units designed for elderly occupants. Such units shall be available for occupancy only by families who (upon initial occupancy) have incomes of (A) less than 60 percent of the median income for the area, or (B) less than $20,000. Occupant families shall pay not more than 30 percent of the family income for rent.
 
-“(d)
+"(d)
 
 Social Services.—The demonstration program shall provide for appropriate social and supportive services to be made available to residents of housing assisted under the demonstration program and to other residents of the new town demonstration area, which may include rental and homeownership counseling, child care, job placement, educational programs, recreational and health care facilities and programs, and other appropriate services.
 
-“(e)
+"(e)
 
 Job Creation and Training.—The demonstration program shall provide, to the extent practicable, that activities in connection with the demonstration program, including development of housing under subsection (c) and community development activities assisted under section 1106, shall employ and provide job training opportunities for residents of the housing assisted under the demonstration program and other residents of the new town demonstration area.
 
-“(f)
+"(f)
 
 Financing.—The demonstration program shall provide for coordination with banks, credit unions, and other mortgage lenders to make financing available to purchasers of units developed under the demonstration program through mortgages eligible for insurance under section 1104, and shall give preference to such mortgage lenders who have offices located within or near the new town demonstration area.
 
-“(g)
+"(g)
 
 Support Facilities.—The demonstration program shall encourage, facilitate, and provide for development of appropriate support facilities to serve residents in the housing developed under the program, including infrastructure and commercial facilities.
 
-“(h)
+"(h)
 
 Non-Federal Funds.—The governing board carrying out the demonstration program shall ensure that not less than 25 percent of the total amounts used to carry out the demonstration program is provided from non-Federal sources, including State or local government funds, any salary paid to staff to carry out the demonstration program, the value of any time, services, and materials donated to carry out the program, the value of any donated building, and the value of any lease on a building.
 
-#### “SEC. 1104. FEDERAL MORTGAGE INSURANCE.
+#### "SEC. 1104. FEDERAL MORTGAGE INSURANCE.
 
-“(a)
+"(a)
 
 In General.—Pursuant to title II and section 251 of the National Housing Act \[12 U.S.C. 1707 et seq., 1715z–16\], the Secretary shall (to the extent authority is available pursuant to subsection (d)) insure mortgages under this section involving properties upon which are located dwelling units described in section 1103(c)(3) of this Act that are developed under the new town demonstration programs carried out pursuant to this title.
 
-“(b)
+"(b)
 
 Mortgage Terms.—Mortgages insured under this section shall—
 
-&emsp;“(1) provide for periodic adjustments in the effective rate of interest charged, which—
+&emsp;"(1) provide for periodic adjustments in the effective rate of interest charged, which—
 
-&emsp;&emsp;“(A) for the first 5 years of the mortgage, shall be an annual rate of not more than 7 percent; and
+&emsp;&emsp;"(A) for the first 5 years of the mortgage, shall be an annual rate of not more than 7 percent; and
 
-&emsp;&emsp;“(B) after the expiration of such 5-year period, may increase on an annual basis, but—
+&emsp;&emsp;"(B) after the expiration of such 5-year period, may increase on an annual basis, but—
 
-&emsp;&emsp;&emsp;“(i) shall be limited, with respect to any single interest rate increase, to not more than a 10-percent increase in the annual percentage rate; and
+&emsp;&emsp;&emsp;"(i) shall be limited, with respect to any single interest rate increase, to not more than a 10-percent increase in the annual percentage rate; and
 
-&emsp;&emsp;&emsp;“(ii) may not be increased at any time to a rate greater than the rate necessary at such time to fully amortize the outstanding loan balance over the term of the mortgage; and
+&emsp;&emsp;&emsp;"(ii) may not be increased at any time to a rate greater than the rate necessary at such time to fully amortize the outstanding loan balance over the term of the mortgage; and
 
-&emsp;“(2) have a maturity of 35 years from the date of the beginning of the amortization of the mortgage.
+&emsp;"(2) have a maturity of 35 years from the date of the beginning of the amortization of the mortgage.
 
-“(c)
+"(c)
 
 Board Approval.—The Secretary may provide insurance under this section for a mortgage only if the governing board for the demonstration program for the new town demonstration area in which the property subject to the mortgage is located has indicated to the Secretary approval of the mortgage in connection with the demonstration program.
 
-“(d)
+"(d)
 
 Insurance Authority.—To the extent provided in appropriation Acts, the Secretary shall use any authority provided pursuant to section 531(b) of the National Housing Act \[12 U.S.C. 1735f–9(b)\] to enter into commitments to insure loans and mortgages under this section in fiscal years 1993 and 1994 with an aggregate principal amount not exceeding such sums as may be necessary to carry out the demonstration under this title. Mortgages insured under this section shall not be considered for purposes of the aggregate limitation on the number of mortgages insured under section 251 of the National Housing Act \[12 U.S.C. 1715z–16\] specified in subsection (c) of such section.
 
-#### “SEC. 1105. SECONDARY SOFT MORTGAGE FINANCING FOR HOUSING.
+#### "SEC. 1105. SECONDARY SOFT MORTGAGE FINANCING FOR HOUSING.
 
-“(a)
+"(a)
 
 In General.—The Secretary shall, to the extent amounts are provided in appropriation Acts under subsection (e), provide assistance under this section through the governing boards carrying out the new town demonstration programs under this section to assist in the development of housing under the program.
 
-“(b)
+"(b)
 
 Use.—Any assistance provided under this section shall be used only for costs in planning, developing, constructing, and rehabilitating housing under the demonstration program available for rental or purchase by the occupant. The governing board shall determine, according to the new town plan for the demonstration program, the allocation of amounts of assistance provided under this section.
 
-“(c)
+"(c)
 
-Amount.—The Secretary may not provide assistance under this section for the development of housing under a demonstration program in an amount exceeding $50,000 per dwelling unit assisted.
+Amount.—The Secretary may not provide assistance under this section for the development of housingunder a demonstration program in an amount exceeding $50,000 per dwelling unit assisted.
 
-“(d)
+"(d)
 
 Second Mortgage.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Assistance under this section shall be repaid in accordance with this subsection. Repayment of the amount of any assistance provided with respect to—
 
-&emsp;&emsp;“(A) any building containing rental units, or
+&emsp;&emsp;"(A) any building containing rental units, or
 
-&emsp;&emsp;“(B) any dwelling unit available for purchase by the occupant that is developed under a demonstration program,
+&emsp;&emsp;"(B) any dwelling unit available for purchase by the occupant that is developed under a demonstration program,
 
 > &emsp;shall be secured by a second mortgage held by the Secretary on the property involved.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Terms.—During the period ending upon repayment of the assistance as provided in this subsection, any building containing rental units that is provided assistance under this section shall be used as rental housing subject to the requirements of section 1103(c)(4). During the period ending upon repayment of the assistance as provided in this subsection, any dwelling unit made available for purchase by the occupant that is provided assistance under this section may be sold only to a family having an income not exceeding the amount specified in section 1103(c)(2).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Interest.—Any assistance provided under this section for a building or dwelling unit shall bear interest at a rate equivalent to the rate for the most recently marketable obligations issued by the United States Treasury have terms of 10 years. The interest on such assistance shall be required to be repaid only upon sale of the building.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Discounted repayment.—The assistance provided under this section for any building containing rental units or any dwelling unit available for purchase by the occupant shall be considered to have been repaid for purposes of this subsection if the original purchaser of the building or the dwelling unit pays to the Secretary an amount equal to 50 percent of the amount of the assistance provided under this section.
 
-“(e)
+"(e)
 
 Authorization of Appropriations.—There are authorized to be appropriated for fiscal years 1993 and 1994 such sums as may be necessary for providing assistance under this section.
 
-#### “SEC. 1106. COMMUNITY DEVELOPMENT ASSISTANCE.
+#### "SEC. 1106. COMMUNITY DEVELOPMENT ASSISTANCE.
 
-“(a)
+"(a)
 
 In General.—The Secretary shall provide assistance under this section, to the extent amounts are provided in appropriation Acts under subsection (h), to units of general local government to address vital unmet needs and to promote the creation of jobs and economic development in connection with the new town demonstration programs carried out under this title.
 
-“(b)
+"(b)
 
 Eligible Units of General Local Government.—Assistance may be provided under this section only to units of general local government—
 
-&emsp;“(1) within whose boundaries are located any portion of the new town demonstration areas described under the new town demonstration plans for the demonstration programs carried out under this title;
+&emsp;"(1) within whose boundaries are located any portion of the new town demonstration areas described under the new town demonstration plans for the demonstration programs carried out under this title;
 
-&emsp;“(2) that make the certifications to the Secretary required under subsection (c); and
+&emsp;"(2) that make the certifications to the Secretary required under subsection (c); and
 
-&emsp;“(3) that will comply with a residential antidisplacement and relocation assistance plan described in subsection (d).
+&emsp;"(3) that will comply with a residential antidisplacement and relocation assistance plan described in subsection (d).
 
-“(c)
+"(c)
 
 Required Certifications.—The certifications referred to in subsection (b)(2) shall be certifications that—
 
-&emsp;“(1) the assistance will be conducted and administered in conformity with the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] and the Civil Rights Act of 1968 \[see Short Title note set out under section 3601 of this title\], and the unit of general local government will affirmatively further fair housing;
+&emsp;"(1) the assistance will be conducted and administered in conformity with the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] and the Civil Rights Act of 1968 \[see Short Title note set out under section 3601 of this title\], and the unit of general local government will affirmatively further fair housing;
 
-&emsp;“(2) the projected use of funds has been developed in a manner that gives maximum feasible priority to activities which are designed to meet community development needs that have been delayed because of thelack of fiscal resources of the unit of general local government or which are designed to address conditions that pose a serious and immediate threat to the health or welfare of the community;
+&emsp;"(2) the projected use of funds has been developed in a manner that gives maximum feasible priority to activities which are designed to meet community development needs that have been delayed because of the lack of fiscal resources of the unit of general local government or which are designed to address conditions that pose a serious and immediate threat to the health or welfare of the community;
 
-&emsp;“(3) any projected use of funds for public services will benefit primarily low- and moderate-income families;
+&emsp;"(3) any projected use of funds for public services will benefit primarily low- and moderate-income families;
 
-&emsp;“(4) the unit of general local government will not attempt to recover any capital costs of public improvements assisted in whole or part under this section by assessing any amount against properties owned and occupied by persons of low- and moderate-income, including any fee charged or assessment made as a condition of obtaining access to such public improvements, unless—
+&emsp;"(4) the unit of general local government will not attempt to recover any capital costs of public improvements assisted in whole or part under this section by assessing any amount against properties owned and occupied by persons of low- and moderate-income, including any fee charged or assessment made as a condition of obtaining access to such public improvements, unless—
 
-&emsp;&emsp;“(A) funds received under this section are used to pay the proportion of such fee or assessment that relates to the capital costs of such public improvements that are financed from revenue sources other than under this section; or
+&emsp;&emsp;"(A) funds received under this section are used to pay the proportion of such fee or assessment that relates to the capital costs of such public improvements that are financed from revenue sources other than under this section; or
 
-&emsp;&emsp;“(B) for purposes of assessing any amount against properties owned and occupied by persons of moderate income, the grantee certifies to the Secretary that it lacks sufficient funds received under this section to comply with the requirements of subparagraph (A); and
+&emsp;&emsp;"(B) for purposes of assessing any amount against properties owned and occupied by persons of moderate income, the grantee certifies to the Secretary that it lacks sufficient funds received under this section to comply with the requirements of subparagraph (A); and
 
-&emsp;“(5) the unit of general local government will comply with the other provisions of this title and with other applicable laws.
+&emsp;"(5) the unit of general local government will comply with the other provisions of this title and with other applicable laws.
 
-“(d)
+"(d)
 
 Antidisplacement and Relocation Plan.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Contents.—The residential antidisplacement and relocation assistance plan referred to in subsection (b)(3) shall, in connection with activities assisted under this section—
 
-&emsp;&emsp;“(A) provide that, in the event of such displacement—
+&emsp;&emsp;"(A) provide that, in the event of such displacement—
 
-&emsp;&emsp;&emsp;“(i) governmental agencies or private developers shall provide, within the same community, comparable replacement dwellings for the same number of occupants as could have been housed in the occupied and vacant occupiable low- and moderate-income dwelling units demolished or converted to a use other than for housing for low- and moderate-income persons, and provide that such replacement housing may include existing housing assisted with project based assistance provided under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\];
+&emsp;&emsp;&emsp;"(i) governmental agencies or private developers shall provide, within the same community, comparable replacement dwellings for the same number of occupants as could have been housed in the occupied and vacant occupiable low- and moderate-income dwelling units demolished or converted to a use other than for housing for low- and moderate-income persons, and provide that such replacement housing may include existing housing assisted with project based assistance provided under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\];
 
-&emsp;&emsp;&emsp;“(ii) such comparable replacement dwellings shall be designed to remain affordable to persons of low- and moderate-income for 10 years from the time of initial occupancy;
+&emsp;&emsp;&emsp;"(ii) such comparable replacement dwellings shall be designed to remain affordable to persons of low- and moderate-income for 10 years from the time of initial occupancy;
 
-&emsp;&emsp;&emsp;“(iii) relocation benefits shall be provided for all low- or moderate-income persons who occupied housing demolished or converted to a use other than for low- or moderate-income housing, including reimbursement for actual and reasonable moving expenses, security deposits, credit checks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low- and moderate-income, provide either—
+&emsp;&emsp;&emsp;"(iii) relocation benefits shall be provided for all low- or moderate-income persons who occupied housing demolished or converted to a use other than for low- or moderate-income housing, including reimbursement for actual and reasonable moving expenses, security deposits, credit checks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low- and moderate-income, provide either—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) compensation sufficient to ensure that, for a 5-year period, the displaced families shall not bear, after relocation, a ratio of shelter costs to income that exceeds 30 percent; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) compensation sufficient to ensure that, for a 5-year period, the displaced families shall not bear, after relocation, a ratio of shelter costs to income that exceeds 30 percent; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) if elected by a family, a lump-sum payment equal to the capitalized value of the benefits available under subclause (I) to permit the household to secure participation in a housing cooperative or mutual housing association; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) if elected by a family, a lump-sum payment equal to the capitalized value of the benefits available under subclause (I) to permit the household to secure participation in a housing cooperative or mutual housing association; and
 
-&emsp;&emsp;&emsp;“(iv) persons displaced shall be relocated into comparable replacement housing that is—
+&emsp;&emsp;&emsp;"(iv) persons displaced shall be relocated into comparable replacement housing that is—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) decent, safe, and sanitary;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) decent, safe, and sanitary;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) adequate in size to accommodate the occupants;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) adequate in size to accommodate the occupants;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) functionally equivalent; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) functionally equivalent; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) in an area not subject to unreasonably adverse environmental conditions; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) in an area not subject to unreasonably adverse environmental conditions; and
 
-&emsp;&emsp;“(B) provide that persons displaced shall have the right to elect, as an alternative to the benefits under this subsection, to receive benefits under the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 \[42 U.S.C. 4601 et seq.\] if such persons determine that it is in their best interest to do so; and
+&emsp;&emsp;"(B) provide that persons displaced shall have the right to elect, as an alternative to the benefitsunder this subsection, to receive benefits under the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 \[42 U.S.C. 4601 et seq.\] if such persons determine that it is in their best interest to do so; and
 
-&emsp;&emsp;“(C) provide that where a claim for assistance under subparagraph (A)(iv) is denied by the unit of general local government, the claimant may appeal to the Secretary, and that the decision of the Secretary shall be final unless a court determines the decision was arbitrary and capricious.
+&emsp;&emsp;"(C) provide that where a claim for assistance under subparagraph (A)(iv) is denied by the unit of general local government, the claimant may appeal to the Secretary, and that the decision of the Secretary shall be final unless a court determines the decision was arbitrary and capricious.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Exception.—Paragraphs (1)(A)(i) and (1)(A)(ii) shall not apply in any case in which the Secretary finds, on the basis of objective data, that there is available in the area an adequate supply of habitable affordable housing for low- and moderate-income persons. A determination under this paragraph shall be final and nonreviewable.
 
-“(e)
+"(e)
 
 Eligible Activities.—Activities assisted with amounts provided under this section may include only the following activities:
 
-&emsp;“(1)
+&emsp;"(1)
 
 Acquisition of real property.—The acquisition of real property (including air rights, water rights, and other interests therein) that is located within the new town demonstration area and is—
 
-&emsp;&emsp;“(A) blighted, deteriorated, undeveloped, or inappropriately developed from the standpoint of sound community development and growth;
+&emsp;&emsp;"(A) blighted, deteriorated, undeveloped, or inappropriately developed from the standpoint of sound community development and growth;
 
-&emsp;&emsp;“(B) appropriate for rehabilitation activities;
+&emsp;&emsp;"(B) appropriate for rehabilitation activities;
 
-&emsp;&emsp;“(C) appropriate for the preservation or restoration of historic sites, the beautification of urban land, the conservation of open spaces, natural resources, and scenic areas, the provision of recreational opportunities, or the guidance of urban development;
+&emsp;&emsp;"(C) appropriate for the preservation or restoration of historic sites, the beautification of urban land, the conservation of open spaces, natural resources, and scenic areas, the provision of recreational opportunities, or the guidance of urban development;
 
-&emsp;&emsp;“(D) to be used for the provision of public works, facilities, and improvements eligible for assistance under this section;
+&emsp;&emsp;"(D) to be used for the provision of public works, facilities, and improvements eligible for assistance under this section;
 
-&emsp;&emsp;“(E) to be used as a facility for coordinating and providing activities and services for high risk youth (as such term is defined in section 509A \[now 517\] of the Public Health Service Act \[42 U.S.C. 290bb–23\]); or
+&emsp;&emsp;"(E) to be used as a facility for coordinating and providing activities and services for high risk youth (as such term is defined in section 509A \[now 517\] of the Public Health Service Act \[42 U.S.C. 290bb–23\]); or
 
-&emsp;&emsp;“(F) to be used for other public purposes.
+&emsp;&emsp;"(F) to be used for other public purposes.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Construction of public works and facilities.—The acquisition, construction, rehabilitation, or installation of public works or public facilities within the new town demonstration area, including buildings for the general conduct of government and facilities for coordinating and providing activities and services for high risk youth (as such term is defined in section 509A \[now 517\] of the Public Health Service Act).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Clearance and rehabilitation of buildings.—The clearance, removal, and rehabilitation of buildings and improvements located within the new town demonstration area, including interim assistance, assistance for facilities for coordinating and providing activities and services for high risk youth (as such term is defined in section 509A \[now 517\] of the Public Health Service Act), and assistance to privately owned buildings and improvements.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Provision of public services and housing.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Public services.—The provision of public services within the new town demonstration area that are concerned with job training and retraining, health care and education, crime prevention, drug abuse treatment and rehabilitation, child care, education, and recreation, which may include the provision of public health and public safety vehicles.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Housing activities.—The acquisition and rehabilitation of housing for low- and moderate-income families within the new town demonstration area, except that any grantee that uses amounts received under this section for housing activities under this subparagraph shall make not less than 15 percent of the amount used for such housing activities available only for community housing development organizations and nonprofit organizations (assuch terms are defined in section 104 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12704\]) for such activities;
+Housing activities.—The acquisition and rehabilitation of housing for low- and moderate-income families within the new town demonstration area, except that any grantee that uses amounts received under this section for housing activities under this subparagraph shall make not less than 15 percent of the amount used for such housing activities available only for community housing development organizations and nonprofit organizations (as such terms are defined in section 104 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12704\]) for such activities;
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Limitation.—Not more than 25 percent of the amount of any assistance provided under this section (including program income) to any unit of general local government may be used for activities under this paragraph.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Relocation assistance.—Relocation payments and assistance for individuals, families, business, and organizations that are displaced as a result of activities assisted under this title.
 
-&emsp;“(6)
+&emsp;"(6)
 
 Payment of administrative expenses.—Payment of reasonable administrative costs associated with activities assisted under this section and any expenses of developing the new town plan under section 1102.
 
-“(f)
+"(f)
 
 Allocation of Assistance.—The Secretary may not provide more than 50 percent of any amounts appropriated under this section in connection with any one of the 2 new town demonstration programs carried out under this title.
 
-“(g)
+"(g)
 
 Other Requirements.—The provisions of subsections (f), (g), and (h) of section 104, subsections (c) and (d) of section 105, section 107, 108, 109, and 110 of the bill, H.R. 4073, 102d Congress (as reported on March 14, 1992 \[May 14, 1992, H. Rept. No. 102–524\], by the Committee on Banking, Finance and Urban Affairs of the House of Representatives), shall apply to grantees receiving assistance under this section.
 
-“(h)
+"(h)
 
 Authorization of Appropriations.—There are authorized to be appropriated for fiscal years 1993 and 1994 such sums as may be necessary for assistance under this section.
 
-#### “SEC. 1107. GOVERNING BOARDS.
+#### "SEC. 1107. GOVERNING BOARDS.
 
-“(a)
+"(a)
 
 Purpose.—For purposes of this title, a governing board shall be a board organized for the purpose of developing a new town plan under this title and carrying out a new town development demonstration under this title.
 
-“(b)
+"(b)
 
 Membership.—Each governing board shall consist of not less than 10 members, who shall include—
 
-&emsp;“(1) residents of the area in which the new town demonstration area under the plan developed by the board is located;
+&emsp;"(1) residents of the area in which the new town demonstration area under the plan developed by the board is located;
 
-&emsp;“(2) owners of business in such area;
+&emsp;"(2) owners of business in such area;
 
-&emsp;“(3) leaders or participants in community groups in such area; and
+&emsp;"(3) leaders or participants in community groups in such area; and
 
-&emsp;“(4) representatives of financial institutions located or having offices in such area.
+&emsp;"(4) representatives of financial institutions located or having offices in such area.
 
-“(c)
+"(c)
 
 Organization.—A governing board may organize itself and conduct business in the manner that the board determines is appropriate to carry out the new town development demonstration under this title.
 
-#### “SEC. 1108. REPORTS.
+#### "SEC. 1108. REPORTS.
 
-“Each governing board carrying out a new town development demonstration under this title shall submit to the Congress a copy of the new town plan of the governing board, upon the approval of that plan under section 1102(d).
+"Each governing board carrying out a new town development demonstration under this title shall submit to the Congress a copy of the new town plan of the governing board, upon the approval of that plan under section 1102(d).
 
-#### “SEC. 1109. DEFINITIONS.
+#### "SEC. 1109. DEFINITIONS.
 
-“For purposes of this title:
+"For purposes of this title:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Demonstration program.—The terms ‘demonstration program’ and ‘program’ mean a new town development demonstration program receiving assistance under this title, which is carried out within a new town demonstration area by a governing board.
+Demonstration program.—The terms 'demonstration program' and 'program' mean a new town development demonstration program receiving assistance under this title, which is carried out within a new town demonstration area by a governing board.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Governing board.—The term ‘governing board’ means a board established under section 1107.
+Governing board.—The term 'governing board' means a board established under section 1107.
 
-&emsp;“(3)
+&emsp;"(3)
 
-New town demonstration area.—The term ‘new town demonstration area’ means the area defined in a new town plan in which the new town development demonstration under the plan is to be carried out.
+New town demonstration area.—The term 'new town demonstration area' means the area defined in a new town plan in which the new town development demonstration under the plan is to be carried out.
 
-&emsp;“(4)
+&emsp;"(4)
 
-New town plan.—The terms ‘new town plan’ and ‘plan’ mean a plan under section 1102 developed by a governing board.
+New town plan.—The terms 'new town plan' and 'plan' mean a plan under section 1102 developed by a governing board.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Unit of general local government.—The term ‘unit of general local government’ means any city, county, town, township, parish, village, or other general purpose political subdivision of the State of California.”
+Unit of general local government.—The term 'unit of general local government' means anycity, county, town, township, parish, village, or other general purpose political subdivision of the State of California."
 
 #### Reports of Comptroller General
 

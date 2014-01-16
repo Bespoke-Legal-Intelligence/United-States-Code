@@ -22,7 +22,7 @@
 
 #### (3) Rural areas
 
-&emsp;For rural housing purposes under this section the term “rural areas” shall not be defined to include any city or village having a population in excess of 2,500 inhabitants.
+&emsp;For rural housing purposes under this section the term "rural areas" shall not be defined to include any city or village having a population in excess of 2,500 inhabitants.
 
 #### (c) Farm-related services
 
@@ -44,9 +44,9 @@ A prior section 2019, Pub. L. 92–181, title I, §1.11, Dec. 10, 1971, 85 Stat.
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–237 made technical amendments to headings of subsec. (a) and pars. (1) and (2).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624 designated existing provisions as par. (1), inserted heading, substituted “some portion” for “at least 20 percent, or such larger percent as may be required by the board of directors of the bank under regulations of the Farm Credit Administration,”, and added par. (2).
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 designated existing provisions as par. (1), inserted heading, substituted "some portion" for "at least 20 percent, or such larger percent as may be required by the board of directors of the bank under regulations of the Farm Credit Administration,", and added par. (2).
 
-<b>1988</b>—Subsec. (c)(2). Pub. L. 100–399 substituted “this subchapter or subchapter II of this chapter, equipment or facilities” for “this subchapter, facilities”.
+<b>1988</b>—Subsec. (c)(2). Pub. L. 100–399 substituted "this subchapter or subchapter II of this chapter, equipment or facilities" for "this subchapter, facilities".
 
 #### Effective Date of 1991 Amendment
 

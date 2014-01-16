@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Sept. 2, 1958, Pub. L. 85–870, §5(a), 72 Stat. 1692; Nov. 11, 1977, Pub. L. 95–167, §1(c), 91 Stat. 1347.
 
-The word “various” is omitted as unnecessary.
+The word "various" is omitted as unnecessary.
 

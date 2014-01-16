@@ -6,9 +6,9 @@ Any person who willfully violates any provision of this chapter, or any rule or 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–42 struck out “(other than section 8372 of this title)” after “this chapter”.
+<b>1987</b>—Pub. L. 100–42 struck out "(other than section 8372 of this title)" after "this chapter".
 

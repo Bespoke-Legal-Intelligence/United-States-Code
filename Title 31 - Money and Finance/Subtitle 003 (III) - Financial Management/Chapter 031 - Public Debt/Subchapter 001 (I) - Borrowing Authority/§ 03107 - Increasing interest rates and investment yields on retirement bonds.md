@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Sept. 24, 1917, ch. 56, 40 Stat. 288, §1(last par.); added Dec. 24, 1980, Pub. L. 96–595, §2(a), 94 Stat. 3465.
 
-The words “interest rate” are added for consistency in the chapter and with 26:405(b) and 409(a).
+The words "interest rate" are added for consistency in the chapter and with 26:405(b) and 409(a).
 
 #### References in Text
 
@@ -28,7 +28,7 @@ Enactment of the Tax Reform Act of 1984, referred to in text, means the date of 
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–369 inserted “, as in effect before the enactment of the Tax Reform Act of 1984” after “(26 U.S.C. 405(b), 409(a))”.
+<b>1984</b>—Pub. L. 98–369 inserted ", as in effect before the enactment of the Tax Reform Act of 1984" after "(26 U.S.C. 405(b), 409(a))".
 
 #### Effective Date of 1984 Amendment
 

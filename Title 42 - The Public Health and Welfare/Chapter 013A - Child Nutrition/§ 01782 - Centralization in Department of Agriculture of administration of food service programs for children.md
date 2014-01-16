@@ -10,5 +10,5 @@ The Richard B. Russell National School Lunch Act, referred to in text, is act Ju
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Pub. L. 106–78 substituted "Richard B. Russell National School Lunch Act" for "National School Lunch Act".
 

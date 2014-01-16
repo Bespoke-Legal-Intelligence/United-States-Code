@@ -38,7 +38,7 @@ For purposes of this subchapter—
 
 &emsp;(6) The term “credit program account” means the budget account into which an appropriation to cover the cost of a direct loan or loan guarantee program is made and from which such cost is disbursed to the financing account.
 
-&emsp;(7) The term “financing account” means the non-budget account or accounts associated with each credit program account which holds balances, receives the cost payment from the credit program account, and also includes allother cash flows to and from the Government resulting from direct loan obligations or loan guarantee commitments made on or after October 1, 1991.
+&emsp;(7) The term “financing account” means the non-budget account or accounts associated with each credit program account which holds balances, receives the cost payment from the credit program account, and also includes all other cash flows to and from the Government resulting from direct loan obligations or loan guarantee commitments made on or after October 1, 1991.
 
 &emsp;(8) The term “liquidating account” means the budget account that includes all cash flows to and from the Government resulting from direct loan obligations or loan guarantee commitments made prior to October 1, 1991.
 

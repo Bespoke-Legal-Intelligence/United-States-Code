@@ -16,7 +16,7 @@
 
 #### (b) Pro rata share
 
-The pro rata share referred to in subsection (a) in the case of any shareholder is the amount which would have been distributed with respect to the shareholder's stock if, on each day during the taxable year of the fund, the fund had distributed to each shareholder a pro rata share of that day's ratable share of the fund's ordinary earnings and net capital gain for such year. To the extent provided in regulations, if the fund establishes to the satisfaction of the Secretary that it uses a shorter period than the taxable year to determine shareholders’ interests in the earnings of such fund, pro rata shares may be determined by using such shorter period.
+The pro rata share referred to in subsection (a) in the case of any shareholder is the amount which would have been distributed with respect to the shareholder's stock if, on each day during the taxable year of the fund, the fund had distributed to each shareholder a pro rata share of that day's ratable share of the fund's ordinary earnings and net capital gain for such year. To the extent provided in regulations, if the fund establishes to the satisfaction of the Secretary that it uses a shorter period than the taxable year to determine shareholders' interests in the earnings of such fund, pro rata shares may be determined by using such shorter period.
 
 #### (c) Previously taxed amounts distributed tax free
 
@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (1) Ordinary earnings
 
-&emsp;The term “ordinary earnings” means the excess of the earnings and profits of the qualified electing fund for the taxable year over its net capital gain for such taxable year.
+&emsp;The term "ordinary earnings" means the excess of the earnings and profits of the qualified electing fund for the taxable year over its net capital gain for such taxable year.
 
 #### (2) Limitation on net capital gain
 
@@ -84,13 +84,13 @@ For purposes of section 960—
 
 #### Amendments
 
-<b>1997</b>—Subsecs. (a)(1), (d). Pub. L. 105–34 substituted “section 1298(a)” for “section 1297(a)”.
+<b>1997</b>—Subsecs. (a)(1), (d). Pub. L. 105–34 substituted "section 1298(a)" for "section 1297(a)".
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–66 inserted at end “If the passive foreign investment company is a controlled foreign corporation (as defined in section 957(a)), the preceding sentence shall not apply to any United States shareholder (as defined in section 951(b)) in such corporation, and, in applying section 959 to any such shareholder, any inclusion under this section shall be treated as an inclusion under section 951(a)(1)(A).”
+<b>1993</b>—Subsec. (c). Pub. L. 103–66 inserted at end "If the passive foreign investment company is a controlled foreign corporation (as defined in section 957(a)), the preceding sentence shall not apply to any United States shareholder (as defined in section 951(b)) in such corporation, and, in applying section 959 to any such shareholder, any inclusion under this section shall be treated as an inclusion under section 951(a)(1)(A)."
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–647, §1012(p)(15), inserted at end “To the extent provided in regulations, if the fund establishes to the satisfaction of the Secretary that it uses a shorter period than the taxable year to determine shareholders’ interests in the earnings of such fund, pro rata shares may be determined by using such shorter period.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–647, §1012(p)(15), inserted at end "To the extent provided in regulations, if the fund establishes to the satisfaction of the Secretary that it uses a shorter period than the taxable year to determine shareholders' interests in the earnings of such fund, pro rata shares may be determined by using such shorter period."
 
-Subsec. (c). Pub. L. 100–647, §1012(p)(23), inserted “, for purposes of this chapter,” after “shall be treated”, and “; except that such distribution shall immediately reduce earnings and profits” after “is not a dividend”.
+Subsec. (c). Pub. L. 100–647, §1012(p)(23), inserted ", for purposes of this chapter," after "shall be treated", and "; except that such distribution shall immediately reduce earnings and profits" after "is not a dividend".
 
 Subsec. (e)(3). Pub. L. 100–647, §1012(p)(18), added par. (3).
 

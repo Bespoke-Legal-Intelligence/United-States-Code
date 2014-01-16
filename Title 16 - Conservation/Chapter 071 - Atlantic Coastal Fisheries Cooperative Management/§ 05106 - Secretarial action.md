@@ -82,7 +82,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 #### Amendments
 
-<b>2000</b>—Subsecs. (f) to (h). Pub. L. 106—555 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
+<b>2000</b>—Subsecs. (f) to (h). Pub. L. 106—555 substituted "Magnuson-Stevens Fishery" for "Magnuson Fishery" wherever appearing.
 
 #### Transfer of Functions
 

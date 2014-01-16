@@ -40,11 +40,11 @@ Act
 
 July 1, 1952, ch. 539, §§2, 4, 66 Stat. 318, 319; 1953 Reorg. Plan No. 6, §1(a) (as applicable to Defense Supply Management Agency), eff. June 30, 1953, 67 Stat. 638.
 
-In subsection (a), the words “for the Department of Defense” are inserted for clarity. 5:173 (1st sentence) is omitted as impliedly repealed by section 2 of 1953 Reorganization Plan No. 6, effective June 30, 1953, 67 Stat. 638.
+In subsection (a), the words "for the Department of Defense" are inserted for clarity. 5:173 (1st sentence) is omitted as impliedly repealed by section 2 of 1953 Reorganization Plan No. 6, effective June 30, 1953, 67 Stat. 638.
 
-In subsection (b), the words “or any of the departments thereof”, “in such manner”, “original”, and “necessary or” are omitted as surplusage. The words “throughout the Department of Defense” are substituted for the words “either within a bureau or service, between bureaus or services, or between the departments”. The word “recurrently” is substituted for the word “repetitively”. The words “Only one identification may” are substituted for the words “The single item identification shall”.
+In subsection (b), the words "or any of the departments thereof", "in such manner", "original", and "necessary or" are omitted as surplusage. The words "throughout the Department of Defense" are substituted for the words "either within a bureau or service, between bureaus or services, or between the departments". The word "recurrently" is substituted for the word "repetitively". The words "Only one identification may" are substituted for the words "The single item identification shall".
 
-In subsection (c), the words “the most” are omitted as surplusage. The words “to the highest degree practicable” are substituted for the words “achieve the highest practicable degree possible” and “The greatest practicable degree of standardization \* \* \* shall be achieved”.
+In subsection (c), the words "the most" are omitted as surplusage. The words "to the highest degree practicable" are substituted for the words "achieve the highest practicable degree possible" and "The greatest practicable degree of standardization \* \* \* shall be achieved".
 
 #### 1958 Act
 
@@ -54,7 +54,7 @@ The change makes clear that clauses (2) and (3) apply to all items, whether or n
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–136 added subsec. (d).
 
-<b>1958</b>—Subsec. (c). Pub. L. 85–861 substituted “such” for “standardized” in cl. (2), and “such” for “those” in cl. (3).
+<b>1958</b>—Subsec. (c). Pub. L. 85–861 substituted "such" for "standardized" in cl. (2), and "such" for "those" in cl. (3).
 
 #### Effective Date of 1958 Amendment
 
@@ -64,31 +64,31 @@ Amendment of section by Pub. L. 85–861 effective Aug. 10, 1956, see section 33
 
 Pub. L. 105–261, div. A, title III, §332, Oct. 17, 1998, 112 Stat. 1968, provided that:
 
-“(a)
+"(a)
 
-Electronic Mall System Defined.—In this section, the term ‘electronic mall system’ means an electronic system for displaying, ordering, and purchasing supplies and materiel available from sources within the Department of Defense and from the private sector.
+Electronic Mall System Defined.—In this section, the term 'electronic mall system' means an electronic system for displaying, ordering, and purchasing supplies and materiel available from sources within the Department of Defense and from the private sector.
 
-“(b)
+"(b)
 
 Development and Management.—(1) Using systems and technology available in the Department of Defense as of the date of the enactment of this Act \[Oct. 17, 1998\], the Joint Electronic Commerce Program Office of the Department of Defense shall develop a single, defense-wide electronic mall system, which shall provide a single, defense-wide electronic point of entry and a single view, access, and ordering capability for all Department of Defense electronic catalogs. The Secretary of each military department and the head of each Defense Agency shall provide to the Joint Electronic Commerce Program Office the necessary and requested data to ensure compliance with this paragraph.
 
-“(2) The Defense Logistics Agency, under the direction of the Joint Electronic Commerce Program Office, shall be responsible for maintaining the defense-wide electronic mall system developed under paragraph (1).
+"(2) The Defense Logistics Agency, under the direction of the Joint Electronic Commerce Program Office, shall be responsible for maintaining the defense-wide electronic mall system developed under paragraph (1).
 
-“(c)
+"(c)
 
 Role of Chief Information Officer.—The Chief Information Officer of the Department of Defense shall be responsible for—
 
-&emsp;“(1) overseeing the elimination of duplication and overlap among Department of Defense electronic catalogs; and
+&emsp;"(1) overseeing the elimination of duplication and overlap among Department of Defense electronic catalogs; and
 
-&emsp;“(2) ensuring that such catalogs utilize technologies and formats compliant with the requirements of subsection (b).
+&emsp;"(2) ensuring that such catalogs utilize technologies and formats compliant with the requirements of subsection (b).
 
-“(d)
+"(d)
 
 Implementation.—Within 180 days after the date of the enactment of this Act, the Chief Information Officer shall develop and provide to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\]—
 
-&emsp;“(1) an inventory of all existing and planned electronic mall systems in the Department of Defense; and
+&emsp;"(1) an inventory of all existing and planned electronic mall systems in the Department of Defense; and
 
-&emsp;“(2) a schedule for ensuring that each such system is compliant with the requirements of subsection (b).”
+&emsp;"(2) a schedule for ensuring that each such system is compliant with the requirements of subsection (b)."
 
 #### Standardization and Interoperability of NATO Weapons
 
@@ -96,5 +96,5 @@ Pub. L. 94–361, title VIII, §803, July 14, 1976, 90 Stat. 930, which expresse
 
 Pub. L. 94–106, title VIII, §814(a), (b), Oct. 7, 1975, 89 Stat. 540, as amended by Pub. L. 94–361, title VIII, §802, July 14, 1976, 90 Stat. 930, which had provided that it was the policy of the United States that the equipment of our armed forces in Europe be standardized or at least interoperable with that of our NATO Allies, directed the Secretary of Defense to carry out procurement policies toward this end and to report to Congress on any agreements with the Allies involving exchange of equipment manufactured in the United States for equipment manufactured outside it, authorized the Secretary to find such agreements contrary to the public interest and required him to report on the procurement of any major weapons system not in accord with these policies, was repealed and restated in section 2457 of this title by Pub. L. 97–295, §§1(30)(A), 6(b), Oct. 12, 1982, 96 Stat. 1294, 1314.
 
-Pub. L. 93–365, title III, §302(c), Aug. 5, 1974, 88 Stat. 402, as amended by Pub. L. 94–106, title VIII, §814(c), Oct. 7, 1975, 89 Stat. 540; Pub. L. 97–252, title XI, §1121, Sept. 8, 1982, 96 Stat. 754, which had directed the Secretary of Defense to assess the costs and possible loss of effectiveness from the failure of the NATO Allies to standardize equipment, to suggest standardization actions, and to report these matters to the Allies and Congress and to Congress annually on them and results obtained with the Allies, was repealed and restated in section 2457 of this title by Pub. L. 97–295, §§1(30)(A), 6(b), Oct. 12, 1982, 96 Stat. 1294, 1314.
+Pub. L. 93–365, title III, §302(c), Aug. 5, 1974, 88 Stat. 402, as amended by Pub. L. 94–106, title VIII, §814(c), Oct. 7, 1975, 89 Stat. 540; Pub. L. 97–252, title XI, §1121, Sept. 8, 1982, 96 Stat. 754, which had directed the Secretary of Defense to assess the costs and possible loss of effectiveness from the failure of the NATO Allies to standardize equipment, to suggest standardization actions, and to report these matters to the Allies and Congress and to Congress annually on them and results obtained with the Allies, was repealed and restated insection 2457 of this title by Pub. L. 97–295, §§1(30)(A), 6(b), Oct. 12, 1982, 96 Stat. 1294, 1314.
 

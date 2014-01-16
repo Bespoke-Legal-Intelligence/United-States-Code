@@ -80,7 +80,7 @@ Compliance with an order issued under this section shall not relieve any person 
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b)(1)(A)(ii). Pub. L. 102–300 substituted “or” for “and” after “properly designed” and “time of its design”.
+<b>1992</b>—Subsec. (b)(1)(A)(ii). Pub. L. 102–300 substituted "or" for "and" after "properly designed" and "time of its design".
 
 <b>1990</b>—Subsec. (e). Pub. L. 101–629 added subsec. (e).
 

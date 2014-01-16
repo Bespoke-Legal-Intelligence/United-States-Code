@@ -4,7 +4,7 @@
 
 &emsp;(A) the term “provider of health care services or supplies” or “provider” means a physician, hospital, or other individual or entity which furnishes health care services or supplies;
 
-&emsp;(B) the term “individual covered under this chapter” or “covered individual” means an employee, annuitant, family member, or former spouse covered by a health benefits plan described by section 8903 or 8903a;
+&emsp;(B) the term “individual covered under this chapter” or “covered individual” means an employee, annuitant, family member, orformer spouse covered by a health benefits plan described by section 8903 or 8903a;
 
 &emsp;(C) an individual or entity shall be considered to have been “convicted” of a criminal offense if—
 
@@ -86,7 +86,7 @@
 
 (g)(1)(A) Except as provided in subparagraph (B), debarment of a provider under subsection (b) or (c) shall be effective at such time and upon such reasonable notice to such provider, and to carriers and covered individuals, as shall be specified in regulations prescribed by the Office. Any such provider that is debarred from participation may request a hearing in accordance with subsection (h)(1).
 
-(B) Unless the Office determines that the health or safety of individuals receiving healthcare services warrants an earlier effective date, the Office shall not make a determination adverse to a provider under subsection (c)(5) or (d) until such provider has been given reasonable notice and an opportunity for the determination to be made after a hearing as provided in accordance with subsection (h)(1).
+(B) Unless the Office determines that the health or safety of individuals receiving health care services warrants an earlier effective date, the Office shall not make a determination adverse to a provider under subsection (c)(5) or (d) until such provider has been given reasonable notice and an opportunity for the determination to be made after a hearing as provided in accordance with subsection (h)(1).
 
 (2)(A) Except as provided in subparagraph (B), a debarment shall be effective with respect to any health care services or supplies furnished by a provider on or after the effective date of such provider's debarment.
 
@@ -124,7 +124,7 @@
 
 (3) Matters that were raised or that could have been raised in a hearing under paragraph (1) or an appeal under paragraph (2) may not be raised as a defense to a civil action by the United States to collect a penalty or assessment imposed under this section.
 
-(i) A civil action to recover civil monetary penalties or assessments under subsection (d) shall be brought by the Attorney General in the name of the United States, and may be brought in the United States district court for the district where the claim involved was presented or where the person subject to the penalty resides. Amounts recovered under this section shall be paid to the Office for deposit into the EmployeesHealth Benefits Fund. The amount of a penalty or assessment as finally determined by the Office, or other amount the Office may agree to in compromise, may be deducted from any sum then or later owing by the United States to the party against whom the penalty or assessment has been levied.
+(i) A civil action to recover civil monetary penalties or assessments under subsection (d) shall be brought by the Attorney General in the name of the United States, and may be brought in the United States district court for the district where the claim involved was presented or where the person subject to the penalty resides. Amounts recovered under this section shall be paid to the Office for deposit into the Employees Health Benefits Fund. The amount of a penalty or assessment as finally determined by the Office, or other amount the Office may agree to in compromise, may be deducted from any sum then or later owing by the United States to the party against whom the penalty or assessment has been levied.
 
 (j) The Office shall prescribe regulations under which, with respect to services or supplies furnished by a debarred provider to a covered individual during the period of such provider's debarment, payment or reimbursement under this chapter may be made, notwithstanding the fact of such debarment, if such individual did not know or could not reasonably be expected to have known of the debarment. In any such instance, the carrier involved shall take appropriate measures to ensure that the individual is informed of the debarment and the minimum period of time remaining under the terms of the debarment.
 
@@ -160,7 +160,7 @@ Subsec. (d)(1). Pub. L. 105–266, §2(a)(4), amended par. (1) generally. Prior 
 
 Subsec. (e). Pub. L. 105–266, §2(a)(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 105–266, §2(a)(3), (5), redesignated subsec. (e) as (f) and inserted “(where such debarment is not mandatory)” after “debarment under this section”. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 105–266, §2(a)(3), (5), redesignated subsec. (e) as (f) and inserted “(where such debarmentis not mandatory)” after “debarment under this section”. Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 105–266, §2(a)(3), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 

@@ -22,7 +22,7 @@ Amount directed to be withheld.—The officer or individual whose duty it is to 
 
 &emsp;(3)
 
-Payment.—The Comptroller General shall pay the amount administratively determined to be due directly to the laborers and mechanics from amounts withheld on account of underpayments of wages if the amount withheld is adequate. If the amount withheld is not adequate, the Comptroller General shall pay an equitable proportion of the amount due.
+Payment.—The Secretary of Labor shall pay the amount administratively determined to be due directly to the laborers and mechanics from amounts withheld on account of underpayments of wages if the amount withheld is adequate. If the amount withheld is not adequate, the Secretary of Labor shall pay an equitable proportion of the amount due.
 
 (c)
 
@@ -34,7 +34,7 @@ Review Process.—
 
 &emsp;(1)
 
-Time limit for appeal.—Within 60 days after an amount is withheld as liquidated damages, any contractor or subcontractor aggrieved by the withholding may appeal to the head of the agency of the Government or territory for which the contract work is done orwhich is providing financial assistance for the work, or to the Mayor of the District of Columbia in the case of liquidated damages withheld for the use and benefit of the District.
+Time limit for appeal.—Within 60 days after an amount is withheld as liquidated damages, any contractor or subcontractor aggrieved by the withholding may appeal to the head of the agency of the Government or territory for which the contract work is done or which is providing financial assistance for thework, or to the Mayor of the District of Columbia in the case of liquidated damages withheld for the use and benefit of the District.
 
 &emsp;(2)
 
@@ -60,7 +60,7 @@ Reorganization plan.—Reorganization Plan Numbered 14 of 1950 (eff. May 24, 195
 
 Section 3145.—Section 3145 of this title applies to contractors and subcontractors referred to in section 3145 who are engaged in the performance of contracts subject to this chapter.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1170.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1170; Pub. L. 113–50, §2(b), Nov. 21, 2013, 127 Stat. 578.)
 
 Historical and Revision Notes
 
@@ -94,13 +94,17 @@ Pub. L. 87–581, title I, §104, Aug. 13, 1962, 76 Stat. 358; Pub. L. 97–164,
 
 40:330(d).
 
-In subsection (a), the words “or possession” are omitted for consistency in this chapter. The words “or days” are omitted because of 1:1.
+In subsection (a), the words "or possession" are omitted for consistency in this chapter. The words "or days" are omitted because of 1:1.
 
-In subsection (c), the word “Mayor” is substituted for “Commissioners” \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to “Commissioner” (meaning the Commissioner of the District of Columbia) because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789).
+In subsection (c), the word "Mayor" is substituted for "Commissioners" \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to "Commissioner" (meaning the Commissioner of the District of Columbia) because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789).
 
-In subsection (d)(4), the words “United States Court of Federal Claims” are substituted for “United States Claims Court” because of section 902(b)(1) of the Federal Courts Administration Act of 1992 (Public Law 102–572, 106 Stat. 4516).
+In subsection (d)(4), the words "United States Court of Federal Claims" are substituted for "United States Claims Court" because of section 902(b)(1) of the Federal Courts Administration Act of 1992 (Public Law 102–572, 106 Stat. 4516).
 
 #### References in Text
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (e)(1), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (b)(3). Pub. L. 113–50 substituted "Secretary of Labor" for "Comptroller General" in two places.
 

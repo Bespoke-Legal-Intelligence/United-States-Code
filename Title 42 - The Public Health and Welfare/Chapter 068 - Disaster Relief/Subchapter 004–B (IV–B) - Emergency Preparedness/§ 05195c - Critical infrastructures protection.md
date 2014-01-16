@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the “Critical Infrastructures Protection Act of 2001”.
+This section may be cited as the "Critical Infrastructures Protection Act of 2001".
 
 #### (b) Findings
 
@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 It is the policy of the United States—
 
-&emsp;(1) that any physical or virtual disruption of the operation of the critical infrastructures of the United States be rare, brief, geographically limited in effect, manageable, and minimally detrimental to the economy, human andgovernment services, and national security of the United States;
+&emsp;(1) that any physical or virtual disruption of the operation of the critical infrastructures of the United States be rare, brief, geographically limited in effect, manageable, and minimally detrimental to the economy, human and government services, and national security of the United States;
 
 &emsp;(2) that actions necessary to achieve the policy stated in paragraph (1) be carried out in a public-private partnership involving corporate and non-governmental organizations; and
 
@@ -56,7 +56,7 @@ It is the policy of the United States—
 
 #### (e) Critical infrastructure defined
 
-In this section, the term “critical infrastructure” means systems and assets, whether physical or virtual, so vital to the United States that the incapacity or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination of those matters.
+In this section, the term "critical infrastructure" means systems and assets, whether physical or virtual, so vital to the United States that the incapacity or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination of those matters.
 
 #### (f) Authorization of appropriations
 

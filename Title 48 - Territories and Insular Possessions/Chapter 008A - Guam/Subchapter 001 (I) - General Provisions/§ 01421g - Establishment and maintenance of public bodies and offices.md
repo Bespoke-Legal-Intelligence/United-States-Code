@@ -28,9 +28,9 @@ The Government of Guam may by law establish an Office of Public Prosecutor and a
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–291 added subsec. (d).
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–396, §13(a)(1), substituted “according to the laws of Guam” for “at such places in Guam as may be necessary”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–396, §13(a)(1), substituted "according to the laws of Guam" for "at such places in Guam as may be necessary".
 
-Pub. L. 99–396, §5, substituted “Government of Guam” for “Governor”.
+Pub. L. 99–396, §5, substituted "Government of Guam" for "Governor".
 
 Subsec. (c). Pub. L. 99–396, §13(a)(2), added subsec. (c).
 

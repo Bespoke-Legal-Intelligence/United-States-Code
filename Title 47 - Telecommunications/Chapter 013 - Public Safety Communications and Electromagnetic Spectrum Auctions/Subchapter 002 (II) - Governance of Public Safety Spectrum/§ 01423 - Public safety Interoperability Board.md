@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Commission an advisory board to be known as the “Technical Advisory Board for First Responder Interoperability”.
+There is established within the Commission an advisory board to be known as the "Technical Advisory Board for First Responder Interoperability".
 
 #### (b) Membership
 
@@ -10,7 +10,7 @@ There is established within the Commission an advisory board to be known as the 
 
 #### (A) Voting members
 
-&emsp;&emsp;Not later than 30 days after February 22, 2012, the Chairman of the Commission shall appoint 14 voting members to the Interoperability Board, of which—
+&emsp;&emsp;Not later than 30 days after February 22, 2012, the Chairman of the Commission shallappoint 14 voting members to the Interoperability Board, of which—
 
 &emsp;&emsp;&emsp;(i) 4 members shall be representatives of wireless providers, of which—
 

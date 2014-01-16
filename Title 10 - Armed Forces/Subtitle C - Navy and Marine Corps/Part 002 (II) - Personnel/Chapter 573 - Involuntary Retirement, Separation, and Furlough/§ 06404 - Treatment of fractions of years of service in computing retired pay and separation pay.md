@@ -2,7 +2,7 @@
 
 In determining the total number of years of service to be used as a multiplier in computing retired pay and separation pay on discharge under this chapter, each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 415; Pub. L. 96–513, title V, §503(50), Dec. 12, 1980, 94 Stat. 2915; Pub. L. 98–94, title IX, §923(c)(4), Sept. 24, 1983, 97 Stat. 643.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 415; Pub. L. 96–513, title V, §503(50), Dec. 12, 1980, 94 Stat.2915; Pub. L. 98–94, title IX, §923(c)(4), Sept. 24, 1983, 97 Stat. 643.)
 
 Historical and Revision Notes
 
@@ -60,13 +60,13 @@ Apr. 16, 1947, ch. 38, §207(h), 61 Stat. 50; redesignated (g), Aug. 7, 1947, ch
 
 June 12, 1948, ch. 449, §213(a), 62 Stat. 369.
 
-The words “and a part of a year that is less than six months is disregarded” are added for clarity. The legislative history of the Career Compensation Act of 1949, which contains a provision identical to those codified in this section, indicates that all of these provisions are construed as requiring a fractional year of less than six months to be disregarded (hearing before the Committee on Armed Services of the Senate on H.R. 5007, 81st Cong., 1st sess., p. 313, July 6, 1949).
+The words "and a part of a year that is less than six months is disregarded" are added for clarity. The legislative history of the Career Compensation Act of 1949, which contains a provision identical to those codified in this section, indicates that all of these provisions are construed as requiring a fractional year of less than six months to be disregarded (hearing before the Committee on Armed Services of the Senate on H.R. 5007, 81st Cong., 1st sess., p. 313, July 6, 1949).
 
 #### Amendments
 
-<b>1983</b>—Pub. L. 98–94 substituted “each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
+<b>1983</b>—Pub. L. 98–94 substituted "each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded" for "a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded".
 
-<b>1980</b>—Pub. L. 96–513 substituted “separation pay” for “severance pay” in section catchline and substituted “separation pay” for “lump-sum payments” in text.
+<b>1980</b>—Pub. L. 96–513 substituted "separation pay" for "severance pay" in section catchline and substituted "separation pay" for "lump-sum payments" in text.
 
 #### Effective Date of 1983 Amendment
 

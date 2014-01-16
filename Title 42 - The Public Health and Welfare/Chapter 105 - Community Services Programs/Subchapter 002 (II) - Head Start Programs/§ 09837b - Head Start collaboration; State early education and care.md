@@ -12,7 +12,7 @@
 
 &emsp;(iii) promote alignment of curricula used in Head Start programs and continuity of services with the Head Start Child Outcomes Framework and, as appropriate, State early learning standards;
 
-&emsp;(iv) promote better linkages between Head Start agencies and other child and family agencies, including agencies that provide health, mental health, or family services, or other child or family supportive services, such as services provided under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.); and
+&emsp;(iv) promote better linkages between Head Start agencies and other child and family agencies, including agencies that providehealth, mental health, or family services, or other child or family supportive services, such as services provided under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.); and
 
 &emsp;(v) carry out the activities of the State Director of Head Start Collaboration authorized in paragraph (4).
 
@@ -60,7 +60,7 @@
 
 (b)(1)(A) The Governor of the State shall—
 
-&emsp;(i) designate or establish a council to serve as the State Advisory Council on Early Childhood Education and Care for children from birth to school entry (in this subchapter referred to as the “State Advisory Council”); and
+&emsp;(i) designate or establish a council to serve as the State Advisory Council on Early Childhood Education and Care for children from birth to school entry (in this subchapter referred to as the "State Advisory Council"); and
 
 &emsp;(ii) designate an individual to coordinate activities of the State Advisory Council, as described in subparagraph (D)(i).
 
@@ -152,7 +152,7 @@
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsecs. (a)(2)(B)(ii) and (b)(2)(A)(iii), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B)(iv) and (b)(1)(C)(viii), istitle VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B)(iv) and (b)(1)(C)(viii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
 

@@ -4,11 +4,11 @@
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “\[Reserved\]” for text, which related to purchases from directors and sales to directors.
+<b>2010</b>—Pub. L. 111–203 substituted "\[Reserved\]" for text, which related to purchases from directors and sales to directors.
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–203, title VI, §615(c), July 21, 2010, 124 Stat. 1615, provided that: “The amendments made by this section \[amending this section and section 1828 of this title\] shall take effect on the transfer date.”
+Pub. L. 111–203, title VI, §615(c), July 21, 2010, 124 Stat. 1615, provided that: "The amendments made by this section \[amending this section and section 1828 of this title\] shall take effect on the transfer date."
 
-\[For definition of “transfer date” as used in section 615(c) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
+\[For definition of "transfer date" as used in section 615(c) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 

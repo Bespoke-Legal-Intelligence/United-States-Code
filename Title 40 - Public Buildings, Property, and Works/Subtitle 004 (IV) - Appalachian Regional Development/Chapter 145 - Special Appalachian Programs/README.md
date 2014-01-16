@@ -30,7 +30,7 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–371, §§3(b), 4(b), Oct. 8, 2008, 122 Stat. 4041, added items 14508 and 14526 and struck out former item 14526 “Distressed and economically strong counties”.
+<b>2008</b>—Pub. L. 110–371, §§3(b), 4(b), Oct. 8, 2008, 122 Stat. 4041, added items 14508 and 14526 and struck out former item 14526 "Distressed and economically strong counties".
 
 
 ---

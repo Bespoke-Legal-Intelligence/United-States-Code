@@ -74,17 +74,17 @@ For purposes of this section—
 
 #### (1) Passive loss limitation activity
 
-&emsp;The term “passive loss limitation activity” means—
+&emsp;The term "passive loss limitation activity" means—
 
 &emsp;&emsp;(A) any activity which involves the conduct of a trade or business, and
 
 &emsp;&emsp;(B) any rental activity.
 
-> &emsp;For purposes of the preceding sentence, the term “trade or business” includes any activity treated as a trade or business under paragraph (5) or (6) of section 469(c).
+> &emsp;For purposes of the preceding sentence, the term "trade or business" includes any activity treated as a trade or business under paragraph (5) or (6) of section 469(c).
 
 #### (2) Tax-exempt interest
 
-&emsp;The term “tax-exempt interest” means interest excludable from gross income under section 103.
+&emsp;The term "tax-exempt interest" means interest excludable from gross income under section 103.
 
 #### (3) Applicable net AMT adjustment
 
@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### (B) Net adjustment
 
-&emsp;&emsp;The term “net adjustment” means the net adjustment in the items attributable to passive loss activities or other activities (as the case may be) which would result if such items were determined with the adjustments of sections 56, 57, and 58.
+&emsp;&emsp;The term "net adjustment" means the net adjustment in the items attributable to passive loss activities or other activities (as the case may be) which would result if such items were determined with the adjustments of sections 56, 57, and 58.
 
 #### (4) Treatment of certain separately stated items
 
@@ -118,15 +118,15 @@ For purposes of this section—
 
 #### (C) Net capital loss
 
-&emsp;&emsp;The term “net capital loss” means the excess of the losses from sales or exchanges of capital assets over the gains from sales or exchange of capital assets.
+&emsp;&emsp;The term "net capital loss" means the excess of the losses from sales or exchanges of capital assets over the gains from sales or exchange of capital assets.
 
 #### (5) General credits
 
-&emsp;The term “general credits” means any credit other than the low-income housing credit, the rehabilitation credit, and the foreign tax credit.
+&emsp;The term "general credits" means any credit other than the low-income housing credit, the rehabilitation credit, and the foreign tax credit.
 
 #### (6) Foreign income taxes
 
-&emsp;The term “foreign income taxes” means taxes described in section 901 which are paid or accrued to foreign countries and to possessions of the United States.
+&emsp;The term "foreign income taxes" means taxes described in section 901 which are paid or accrued to foreign countries and to possessions of the United States.
 
 #### (e) Special rule for unrelated business tax
 
@@ -146,9 +146,9 @@ If any person holds an interest in an electing large partnership other than as a
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(9) to (11). Pub. L. 109–58, §1322(a)(3)(I), inserted “and” at end of par. (9), redesignated par. (11) as (10), and struck out former par. (10) which read as follows: “the credit allowable under section 29, and”.
+<b>2005</b>—Subsec. (a)(9) to (11). Pub. L. 109–58, §1322(a)(3)(I), inserted "and" at end of par. (9), redesignated par. (11) as (10), and struck out former par. (10) which read as follows: "the credit allowable under section 29, and".
 
-Subsec. (d)(5). Pub. L. 109–58, §1322(a)(3)(J), substituted “and the foreign tax credit” for “the foreign tax credit, and the credit allowable under section 29”.
+Subsec. (d)(5). Pub. L. 109–58, §1322(a)(3)(J), substituted "and the foreign tax credit" for "the foreign tax credit, and the credit allowable under section 29".
 
 #### Effective Date of 2005 Amendment
 

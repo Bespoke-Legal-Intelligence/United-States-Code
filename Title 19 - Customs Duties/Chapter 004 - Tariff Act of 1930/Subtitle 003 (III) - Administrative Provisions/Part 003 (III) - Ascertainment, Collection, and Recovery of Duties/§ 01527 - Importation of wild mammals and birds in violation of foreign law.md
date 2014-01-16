@@ -28,5 +28,5 @@ The provisions of this section shall not apply in the case of—
 
 #### Codification
 
-In subsec. (c)(1), “section 42(a) of title 18” substituted for “section 241 of the Criminal Code \[18 U.S.C. 391\]” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure.
+In subsec. (c)(1), "section 42(a) of title 18" substituted for "section 241 of the Criminal Code \[18 U.S.C. 391\]" on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure.
 

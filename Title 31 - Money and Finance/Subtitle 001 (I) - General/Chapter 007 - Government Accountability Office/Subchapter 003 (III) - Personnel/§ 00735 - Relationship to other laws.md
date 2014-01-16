@@ -24,13 +24,13 @@ Feb. 15, 1980, Pub. L. 96–191, §7, 94 Stat. 33.
 
 31:52–6(b).
 
-In subsection (a), the words “repealing, amending, or otherwise” are omitted as surplus.
+In subsection (a), the words "repealing, amending, or otherwise" are omitted as surplus.
 
-In subsection (b), the words “repeal . . . or limit” are omitted as surplus. The words “officers and” are added for consistency in the revised title and with other titles of the United States Code.
+In subsection (b), the words "repeal . . . or limit" are omitted as surplus. The words "officers and" are added for consistency in the revised title and with other titles of the United States Code.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–323 substituted “731(c) and (e),” for “731(c)–(e),”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–323 substituted "731(c) and (e)," for "731(c)–(e),".
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 

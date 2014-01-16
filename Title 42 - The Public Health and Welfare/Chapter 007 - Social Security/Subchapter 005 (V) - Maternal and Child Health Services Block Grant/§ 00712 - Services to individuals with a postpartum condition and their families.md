@@ -6,7 +6,7 @@ In addition to any other payments made under this subchapter to a State, the Sec
 
 #### (b) Certain activities
 
-To the extent practicable and appropriate, the Secretary shall ensure that projects fundedunder subsection (a) provide education and services with respect to the diagnosis and management of postpartum conditions for individuals with or at risk for postpartum conditions and their families. The Secretary may allow such projects to include the following:
+To the extent practicable and appropriate, the Secretary shall ensure that projects funded under subsection (a) provide education and services with respect to the diagnosis and management of postpartum conditions for individuals with or at risk for postpartum conditions and their families. The Secretary may allow such projects to include the following:
 
 &emsp;(1) Delivering or enhancing outpatient and home-based health and support services, including case management and comprehensive treatment services.
 
@@ -64,13 +64,13 @@ The Secretary may provide technical assistance to entities seeking a grant under
 
 In this section:
 
-&emsp;(1) The term “eligible entity”—
+&emsp;(1) The term "eligible entity"—
 
 &emsp;&emsp;(A) means a public or nonprofit private entity; and
 
 &emsp;&emsp;(B) includes a State or local government, public-private partnership, recipient of a grant under section 254c–8 of this title (relating to the Healthy Start Initiative), public or nonprofit private hospital, community-based organization, hospice, ambulatory care facility, community health center, migrant health center, public housing primary care center, or homeless health center.
 
-&emsp;(2) The term “postpartum condition” means postpartum depression or postpartum psychosis.
+&emsp;(2) The term "postpartum condition" means postpartum depression or postpartum psychosis.
 
 (Aug. 14, 1935, ch. 531, title V, §512, as added Pub. L. 111–148, title II, §2952(b), Mar. 23, 2010, 124 Stat. 345.)
 
@@ -86,43 +86,43 @@ Provisions similar to those comprising former section 712 were contained in sect
 
 Pub. L. 111–148, title II, §2952(a), Mar. 23, 2010, 124 Stat. 344, provided that:
 
-“(a)
+"(a)
 
 Research on Postpartum Conditions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-Expansion and intensification of activities.—The Secretary of Health and Human Services (in this subsection and subsection (c) referred to as the ‘Secretary’) is encouraged to continue activities on postpartum depression or postpartum psychosis (in this subsection and subsection (c) referred to as ‘postpartum conditions’), including research to expand the understanding of the causes of, and treatments for, postpartum conditions. Activities under this paragraph shall include conducting and supporting the following:
+Expansion and intensification of activities.—The Secretary of Health and Human Services (in this subsection and subsection (c) referred to as the 'Secretary') is encouraged to continue activities on postpartum depression or postpartum psychosis (in this subsection and subsection (c) referred to as 'postpartum conditions'), including research to expand the understanding of the causes of, and treatments for, postpartum conditions. Activities under this paragraph shall include conducting and supporting the following:
 
-&emsp;&emsp;“(A) Basic research concerning the etiology and causes of the conditions.
+&emsp;&emsp;"(A) Basic research concerning the etiology and causes of the conditions.
 
-&emsp;&emsp;“(B) Epidemiological studies to address the frequency and natural history of the conditions and the differences among racial and ethnic groups with respect to the conditions.
+&emsp;&emsp;"(B) Epidemiological studies to address the frequency and natural history of the conditions and the differences among racial and ethnic groups with respect to the conditions.
 
-&emsp;&emsp;“(C) The development of improved screening and diagnostic techniques.
+&emsp;&emsp;"(C) The development of improved screening and diagnostic techniques.
 
-&emsp;&emsp;“(D) Clinical research for the development and evaluation of new treatments.
+&emsp;&emsp;"(D) Clinical research for the development and evaluation of new treatments.
 
-&emsp;&emsp;“(E) Information and education programs for health care professionals and the public, which may include a coordinated national campaign to increase the awareness and knowledge of postpartum conditions. Activities under such a national campaign may—
+&emsp;&emsp;"(E) Information and education programs for health care professionals and the public, which may include a coordinated national campaign to increase the awareness and knowledge of postpartum conditions. Activities under such a national campaign may—
 
-&emsp;&emsp;&emsp;“(i) include public service announcements through television, radio, and other means; and
+&emsp;&emsp;&emsp;"(i) include public service announcements through television, radio, and other means; and
 
-&emsp;&emsp;&emsp;“(ii) focus on—
+&emsp;&emsp;&emsp;"(ii) focus on—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) raising awareness about screening;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) raising awareness about screening;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) educating new mothers and their families about postpartum conditions to promote earlier diagnosis and treatment; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) educating new mothers and their families about postpartum conditions to promote earlier diagnosis and treatment; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) ensuring that such education includes complete information concerning postpartum conditions, including its symptoms, methods of coping with the illness, and treatment resources.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) ensuring that such education includes complete information concerning postpartum conditions, including its symptoms, methods of coping with the illness, and treatment resources.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Sense of congress regarding longitudinal study of relative mental health consequences for women of resolving a pregnancy.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Sense of congress.—It is the sense of Congress that the Director of the National Institute of Mental Health may conduct a nationally representative longitudinal study (during the period of fiscal years 2010 through 2019) of the relative mental health consequences for women of resolving a pregnancy (intended and unintended) in various ways, including carrying the pregnancy to term and parenting the child, carrying the pregnancy to term and placing the child for adoption, miscarriage, and having an abortion. This study may assess the incidence, timing, magnitude, and duration of the immediate and long-term mental health consequences (positive or negative) of these pregnancy outcomes.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Report.—Subject to the completion of the study under subsection (a), beginning not later than 5 years after the date of the enactment of this Act \[Mar. 23, 2010\], and periodically thereafter for the duration of the study, such Director may prepare and submit to the Congress reports on the findings of the study.”
+Report.—Subject to the completion of the study under subsection (a), beginning not later than 5 years after the date of the enactment of this Act \[Mar. 23, 2010\], and periodically thereafter for the duration of the study, such Director may prepare and submit to the Congress reports on the findings of the study."
 

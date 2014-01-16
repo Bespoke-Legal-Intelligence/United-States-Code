@@ -92,7 +92,7 @@ The Secretary shall, by regulation or other guidance, prescribe Program requirem
 
 #### (B) Definitions
 
-&emsp;&emsp;In this paragraph, the terms “executive officer”, “director”, “principal shareholder”, “immediate family”, and “related interest” refer to the same relationship to a financial institution lender as the relationship described in part 215 of title 12 of the Code of Federal Regulations, or any successor to such part.
+&emsp;&emsp;In this paragraph, the terms "executive officer", "director", "principal shareholder", "immediate family", and "related interest" refer to the same relationship to a financial institution lender as the relationship described in part 215 of title 12 of the Code of Federal Regulations, or any successor to such part.
 
 #### (8) Capital access for small businesses in underserved communities
 

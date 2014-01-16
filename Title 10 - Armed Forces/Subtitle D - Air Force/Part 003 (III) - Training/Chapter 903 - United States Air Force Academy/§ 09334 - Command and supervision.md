@@ -24,15 +24,15 @@ R.S. 1311.
 
 10:1079.
 
-June 28, 1902, ch. 1300 (1st proviso under “Permanent Establishment”), 32 Stat. 409.
+June 28, 1902, ch. 1300 (1st proviso under "Permanent Establishment"), 32 Stat. 409.
 
-In subsection (a), the words “and, in his absence, the next in rank” are omitted as surplusage.
+In subsection (a), the words "and, in his absence, the next in rank" are omitted as surplusage.
 
-In subsection (b), reference to assimilated rank is omitted as superseded by section 9336 of this title. The words “and the associate professor” are omitted as obsolete.
+In subsection (b), reference to assimilated rank is omitted as superseded by section 9336 of this title. The words "and the associate professor" are omitted as obsolete.
 
 #### Amendments
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–189 substituted “director of admissions” for “registrar”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 substituted "director of admissions" for "registrar".
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–600 inserted reference to registrar.
 

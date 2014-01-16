@@ -16,7 +16,7 @@ Grants for Presidential Centers of Historical Excellence.—
 
 &emsp;(1)
 
-In general.—The Archivist, with the recommendation of the Commission, may make grants, on a competitive basis and in accordance with this subsection, to eligible entities to promote the historical preservation of, and public access to, historical records and documents relating to any former President who does not have a Presidential archival depository currently managed and maintained by the Federal Government pursuant to section 2112 (commonly known as the “Presidential Libraries Act of 1955”).
+In general.—The Archivist, with the recommendation of the Commission, may make grants, on a competitive basis and in accordance with this subsection, to eligible entities to promote the historical preservation of, and public access to, historical records and documents relating to any former President who does not have a Presidential archival depository currently managed and maintained by the Federal Government pursuant to section 2112 (commonly known as the "Presidential Libraries Act of 1955").
 
 &emsp;(2)
 
@@ -126,17 +126,17 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)(
 
 <b>1994</b>—Subsec. (f)(1)(D) to (G). Pub. L. 103–262 added subpars. (D) to (G).
 
-<b>1988</b>—Pub. L. 100–365 substituted current section catchline for “Duties; authorization of grants for collection, reproduction, and publication of documentary historical source material”, and amended text generally, revising and restating as subsecs. (a) to (f) provisions of former subsecs. (a) and (b).
+<b>1988</b>—Pub. L. 100–365 substituted current section catchline for "Duties; authorization of grants for collection, reproduction, and publication of documentary historical source material", and amended text generally, revising and restating as subsecs. (a) to (f) provisions of former subsecs. (a) and (b).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–497, §107(b)(10)(A)–(D), substituted “Archivist of the United States” for “Administrator of General Services” in third sentence, substituted “Archivist” for “Administrator” in fourth sentence, inserted “and Records” after “Historical Preservation” in fourth sentence, and substituted “transmit to the President and the Congress” for “transmit to the Administrator” in last sentence.
+<b>1984</b>—Subsec. (a). Pub. L. 98–497, §107(b)(10)(A)–(D), substituted "Archivist of the United States" for "Administrator of General Services" in third sentence, substituted "Archivist" for "Administrator" in fourth sentence, inserted "and Records" after "Historical Preservation" in fourth sentence, and substituted "transmit to the President and the Congress" for "transmit to the Administrator" in last sentence.
 
-Subsec. (b). Pub. L. 98–497, §107(b)(10)(E), substituted “National Archives and Records Administration” for “General Services Administration”.
+Subsec. (b). Pub. L. 98–497, §107(b)(10)(E), substituted "National Archives and Records Administration" for "General Services Administration".
 
 <b>1983</b>—Subsec. (b). Pub. L. 98–189 substituted provisions authorizing appropriations for fiscal year ending Sept. 30, 1984, and for each of the four succeeding fiscal years, for provisions authorizing appropriations for fiscal year ending Sept. 30, 1981.
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–98 substituted provisions authorizing appropriations for fiscal year ending Sept. 30, 1981, for provisions authorizing appropriations for fiscal year ending June 30, 1975, and for each of four succeeding fiscal years.
 
-<b>1974</b>—Subsec. (b). Pub. L. 93–536 substituted “1975” for “1973” and “$4,000,000” for “$2,000,000”.
+<b>1974</b>—Subsec. (b). Pub. L. 93–536 substituted "1975" for "1973" and "$4,000,000" for "$2,000,000".
 
 <b>1972</b>—Pub. L. 92–546 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -146,17 +146,17 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to the requirement that the Chairman of the Commission transmit biennial reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 16th item on page 183 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to the requirement that the Chairman of the Commission transmit biennial reports to Congress, see section 3003 of Pub. L.104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 16th item on page 183 of House Document No. 103–7.
 
 #### Grants for Establishment of State and Local Databases for Records of Servitude, Emancipation, and Post–Civil War Reconstruction
 
 Pub. L. 110–404, §8, Oct. 13, 2008, 122 Stat. 4285, provided that:
 
-“(a)
+"(a)
 
 In General.—The Executive Director of the National Historical Publications and Records Commission of the National Archives and Records Administration may make grants to States, colleges and universities, museums, libraries, and genealogical associations to preserve records and establish electronically searchable databases consisting of local records of servitude, emancipation, and post-Civil War reconstruction.
 
-“(b)
+"(b)
 
-Maintenance.—Any database established using a grant under this section shall be maintained by appropriate agencies or institutions designated by the Executive Director of the National Historical Publications and Records Commission.”
+Maintenance.—Any database established using a grant under this section shall be maintained by appropriate agencies or institutions designated by the Executive Director of the National Historical Publications and Records Commission."
 

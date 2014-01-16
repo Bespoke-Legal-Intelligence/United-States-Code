@@ -1,8 +1,8 @@
 ### §§1001 to 1011. Repealed. Pub. L. 96–478, §12, Oct. 21, 1980, 94 Stat. 2303
 
-Section 1001, Pub. L. 87–167, §2, Aug. 30, 1961, 75 Stat. 402; Pub. L. 89–551, §1(2), Sept. 1, 1966, 80 Stat. 372; Pub. L. 89–670, §6(g)(5), Oct. 15, 1966, 80 Stat. 941; Pub. L. 93–119, §2(1), Oct. 4, 1973, 87 Stat. 424; Pub. L. 97–449, §2(e)(1), Jan. 12, 1983, 96 Stat. 2440, defined terms used in this chapter.
+Section 1001, Pub. L. 87–167, §2, Aug. 30, 1961, 75 Stat. 402; Pub. L. 89–551, §1(2), Sept. 1, 1966, 80 Stat. 372; Pub.L. 89–670, §6(g)(5), Oct. 15, 1966, 80 Stat. 941; Pub. L. 93–119, §2(1), Oct. 4, 1973, 87 Stat. 424; Pub. L. 97–449, §2(e)(1), Jan. 12, 1983, 96 Stat. 2440, defined terms used in this chapter.
 
-Section 1002, Pub. L. 87–167, §3, Aug. 30, 1961, 75 Stat. 402; Pub. L. 89–551, §1(3), Sept. 1, 1966, 80 Stat. 373; Pub.L. 93–119, §2(2), Oct. 4, 1973, 87 Stat. 425, prohibited discharge of oil or oily mixtures, but included certain permissible discharges.
+Section 1002, Pub. L. 87–167, §3, Aug. 30, 1961, 75 Stat. 402; Pub. L. 89–551, §1(3), Sept. 1, 1966, 80 Stat. 373; Pub. L. 93–119, §2(2), Oct. 4, 1973, 87 Stat. 425, prohibited discharge of oil or oily mixtures, but included certain permissible discharges.
 
 Section 1003, Pub. L. 87–167, §4, Aug. 30, 1961, 75 Stat. 402; Pub. L. 89–551, §1(4), Sept. 1, 1966, 80 Stat. 373; Pub. L. 93–119, §2(3), Oct. 4, 1973, 87 Stat. 425, excepted from the prohibition of section 1002 of this title discharges relating to securing safety of ship, prevention of damage to ship or cargo, saving life, and resulting from a damaged ship or unavoidable leakage.
 
@@ -30,9 +30,9 @@ Repeal effective Oct. 2, 1983, see section 14(a) of Pub. L. 96–478, set out as
 
 #### Short Title
 
-Pub. L. 87–167, §1, Aug. 30, 1961, 75 Stat. 402, as amended by Pub. L. 89–551, §1(1), Sept. 1, 1966, 80 Stat. 372, which provided that Pub. L. 87–167 could be cited as the “Oil Pollution Act, 1961, as amended”, was repealed by Pub. L. 96–478, §12, Oct. 21, 1980, 94 Stat. 2303.
+Pub. L. 87–167, §1, Aug. 30, 1961, 75 Stat. 402, as amended by Pub. L. 89–551, §1(1), Sept. 1, 1966, 80 Stat. 372, which provided that Pub. L. 87–167 could be cited as the "Oil Pollution Act, 1961, as amended", was repealed by Pub. L. 96–478, §12, Oct. 21, 1980, 94 Stat. 2303.
 
-Pub. L. 93–119, §1, Oct. 4, 1973, 87 Stat. 424, which provided that Pub. L. 93–119 could be cited as the “Oil Pollution Act Amendments of 1973” was repealed by Pub. L. 96–478, §12, Oct. 21, 1980, 94 Stat. 2303.
+Pub. L. 93–119, §1, Oct. 4, 1973, 87 Stat. 424, which provided that Pub. L. 93–119 could be cited as the "Oil Pollution Act Amendments of 1973" was repealed by Pub. L. 96–478, §12, Oct. 21, 1980, 94 Stat. 2303.
 
 #### Savings Provision
 

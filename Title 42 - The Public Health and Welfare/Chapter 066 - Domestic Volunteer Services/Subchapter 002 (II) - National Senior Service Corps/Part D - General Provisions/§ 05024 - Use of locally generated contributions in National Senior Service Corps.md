@@ -6,17 +6,17 @@ Whenever locally generated contributions made to National Senior Service Corps p
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–13 substituted “Service” for “Volunteer” in section catchline and “Service Corps” for “Volunteer Corps” in text.
+<b>2009</b>—Pub. L. 111–13 substituted "Service" for "Volunteer" in section catchline and "Service Corps" for "Volunteer Corps" in text.
 
-<b>1994</b>—Pub. L. 103–304 substituted “National Senior Volunteer Corps projects” for “volunteer projects for older Americans”.
+<b>1994</b>—Pub. L. 103–304 substituted "National Senior Volunteer Corps projects" for "volunteer projects for older Americans".
 
-<b>1993</b>—Pub. L. 103–82 amended section catchline and in text directed substitution of “National Senior Volunteer Corps projects” for “volunteer projects for Older Americans”, which could not be executed because the phrase “volunteer projects for Older Americans” did not appear in text.
+<b>1993</b>—Pub. L. 103–82 amended section catchline and in text directed substitution of "National Senior Volunteer Corps projects" for "volunteer projects for Older Americans", which could not be executed because the phrase "volunteer projects for Older Americans" did not appear in text.
 
-<b>1989</b>—Pub. L. 101–204 substituted “projects” for “programs”.
+<b>1989</b>—Pub. L. 101–204 substituted "projects" for "programs".
 
 <b>1986</b>—Pub. L. 99–551 amended directory language of Pub. L. 98–288 to correct an error, and did not involve any change in text.
 

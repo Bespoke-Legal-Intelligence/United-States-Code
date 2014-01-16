@@ -34,7 +34,7 @@ If the permitting authority fails, within 90 days after the date of an objection
 
 (2) The Administrator may, by regulation, establish categories of sources (including any class, type, or size within such category) to which the requirements of subsections (a) and (b) of this section shall not apply. The preceding sentence shall not apply to major sources.
 
-(3) The Administrator may exclude from any waiver under this subsection notification under subsection (a)(2) of this section. Any waivergranted under this subsection may be revoked or modified by the Administrator by rule.
+(3) The Administrator may exclude from any waiver under this subsection notification under subsection (a)(2) of this section. Any waiver granted under this subsection may be revoked or modified by the Administrator by rule.
 
 #### (e) Refusal of permitting authority to terminate, modify, or revoke and reissue
 

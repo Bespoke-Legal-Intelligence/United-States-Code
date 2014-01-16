@@ -76,7 +76,7 @@
 
 &emsp;&emsp;(C) assess the information collection burden of proposed legislation affecting the agency;
 
-&emsp;(2)(A) except as provided under subparagraph (B) or section 3507(j), provide 60-day notice inthe Federal Register, and otherwise consult with members of the public and affected agencies concerning each proposed collection of information, to solicit comment to—
+&emsp;(2)(A) except as provided under subparagraph (B) or section 3507(j), provide 60-day notice in the Federal Register, and otherwise consult with members of the public and affected agencies concerning each proposed collection of information, to solicit comment to—
 
 &emsp;&emsp;(i) evaluate whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility;
 
@@ -148,7 +148,7 @@
 
 &emsp;(2) inform respondents fully and accurately about the sponsors, purposes, and uses of statistical surveys and studies;
 
-&emsp;(3) protect respondents’ privacy and ensure that disclosure policies fully honor pledges of confidentiality;
+&emsp;(3) protect respondents' privacy and ensure that disclosure policies fully honor pledges of confidentiality;
 
 &emsp;(4) observe Federal standards and practices for data collection, analysis, documentation, sharing, and dissemination of information;
 
@@ -200,27 +200,27 @@ Another prior section 3506, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, prov
 
 <b>2002</b>—Subsec. (c)(4). Pub. L. 107–198, §2(c), added par. (4).
 
-Subsec. (g)(1). Pub. L. 107–296, §1005(c)(3)(A), and Pub. L. 107–347, §305(c)(3)(A), amended par. (1) identically, inserting “and” at end.
+Subsec. (g)(1). Pub. L. 107–296, §1005(c)(3)(A), and Pub. L. 107–347, §305(c)(3)(A), amended par. (1) identically, inserting "and" at end.
 
-Subsec. (g)(2). Pub. L. 107–296, §1005(c)(3)(B), and Pub. L. 107–347, §305(c)(3)(B), amended par. (2) identically, substituting “subchapter II of this chapter” for “section 11332 of title 40” and a period for “; and” at end.
+Subsec. (g)(2). Pub. L. 107–296, §1005(c)(3)(B), and Pub. L. 107–347, §305(c)(3)(B), amended par. (2) identically, substituting "subchapter II of this chapter" for "section 11332 of title 40" and a period for "; and" at end.
 
-Pub. L. 107–217, §3(l)(6)(A), substituted “section 11332 of title 40” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+Pub. L. 107–217, §3(l)(6)(A), substituted "section 11332 of title 40" for "the Computer Security Act of 1987 (40 U.S.C. 759 note)".
 
-Subsec. (g)(3). Pub. L. 107–296, §1005(c)(3)(C), and Pub. L. 107–347, §305(c)(3)(C), amended subsec. (g) identically, striking out par. (3) which read as follows: “consistent with section 11332 of title 40, identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.”
+Subsec. (g)(3). Pub. L. 107–296, §1005(c)(3)(C), and Pub. L. 107–347, §305(c)(3)(C), amended subsec. (g) identically, striking out par. (3) which read as follows: "consistent with section 11332 of title 40, identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency."
 
-Pub. L. 107–217, §3(l)(6)(B), substituted “section 11332 of title 40” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+Pub. L. 107–217, §3(l)(6)(B), substituted "section 11332 of title 40" for "the Computer Security Act of 1987 (40 U.S.C. 759 note)".
 
 Subsec. (i). Pub. L. 107–198, §2(b), added subsec. (i).
 
-<b>2000</b>—Subsecs. (a)(1) to (3), (b)(4), (c)(1). Pub. L. 106–398 substituted “subchapter” for “chapter” wherever appearing.
+<b>2000</b>—Subsecs. (a)(1) to (3), (b)(4), (c)(1). Pub. L. 106–398 substituted "subchapter" for "chapter" wherever appearing.
 
-<b>1996</b>—Subsec. (a)(2)(A). Pub. L. 104–106, §5125(a)(1)(A), substituted “Chief Information Officer” for “senior official”.
+<b>1996</b>—Subsec. (a)(2)(A). Pub. L. 104–106, §5125(a)(1)(A), substituted "Chief Information Officer" for "senior official".
 
-Subsec. (a)(2)(B). Pub. L. 104–106, §5125(a)(1)(B), substituted “designate Chief Information Officers” for “designate senior officials”, “Chief Information Officer” for “official”, and “the Chief Information Officers” for “the officials”.
+Subsec. (a)(2)(B). Pub. L. 104–106, §5125(a)(1)(B), substituted "designate Chief Information Officers" for "designate senior officials", "Chief Information Officer" for "official", and "the Chief Information Officers" for "the officials".
 
-Subsec. (a)(3), (4). Pub. L. 104–106, §5125(a)(1)(C), substituted “Chief Information Officer” for “senior official” wherever appearing.
+Subsec. (a)(3), (4). Pub. L. 104–106, §5125(a)(1)(C), substituted "Chief Information Officer" for "senior official" wherever appearing.
 
-Subsec. (c)(1). Pub. L. 104–106, §5125(a)(2), substituted “Chief Information Officer” for “official” in introductory provisions.
+Subsec. (c)(1). Pub. L. 104–106, §5125(a)(2), substituted "Chief Information Officer" for "official" in introductory provisions.
 
 #### Effective Date of 2002 Amendment
 
@@ -228,7 +228,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] ofPub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 Ex. Ord. No. 13073, Feb. 4, 1998, 63 F.R. 6467, as amended by Ex. Ord. No. 13127, June 14, 1999, 64 F.R. 32793, provided:
 
-The American people expect reliable service from their Government and deserve the confidence that critical government functions dependent on electronic systems will be performed accurately and in a timely manner. Because of a design feature in many electronic systems, a large number of activities in the public and private sectors could be at risk beginning in the year 2000. Some computer systems and other electronic devices will misinterpret the year “00” as 1900, rather than 2000. Unless appropriate action is taken, this flaw, known as the “Y2K problem,” can cause systems that support those functions to compute erroneously or simply not run. Minimizing the Y2K problem will require a major technological and managerial effort, and it is critical that the United States Government do its part in addressing this challenge.
+The American people expect reliable service from their Government and deserve the confidence that critical government functions dependent on electronic systems will be performed accurately and in a timely manner. Because of a design feature in many electronic systems, a large number of activities in the public and private sectors could be at risk beginning in the year 2000. Some computer systems and other electronic devices will misinterpret the year "00" as 1900, rather than 2000. Unless appropriate action is taken, this flaw, known as the "Y2K problem," can cause systems that support those functions to compute erroneously or simply not run. Minimizing the Y2K problem will require a major technological and managerial effort, and it is critical that the United States Government do its part in addressing this challenge.
 
 Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -252,11 +252,11 @@ Section 1. <i>Policy</i>. (a) It shall be the policy of the executive branch tha
 
 (4) communicate with their foreign counterparts to raise awareness of and generate cooperative international arrangements to address the Y2K problem.
 
-(b) As used in this order, “agency” and “agencies” refer to Federal agencies that are not in the judicial or legislative branches.
+(b) As used in this order, "agency" and "agencies" refer to Federal agencies that are not in the judicial or legislative branches.
 
-Sec. 2. <i>Year 2000 Conversion Council</i>. There is hereby established the President's Council on Year 2000 Conversion (the “Council”).
+Sec. 2. <i>Year 2000 Conversion Council</i>. There is hereby established the President's Council on Year 2000 Conversion (the "Council").
 
-(a) The Council shall be led by a Chair who shall be an Assistant to the President, and it shall be composed of one representative from each of the executive departments and from such other Federal agencies as may be determined by the Chair of the Council (the “Chair”).
+(a) The Council shall be led by a Chair who shall be an Assistant to the President, and it shall be composed of one representative from each of the executive departments and from such other Federal agencies as may be determined by the Chair of the Council (the "Chair").
 
 (b) The Chair shall appoint a Vice Chair and assign other responsibilities for operations of the council as he or she deems necessary.
 
@@ -288,7 +288,7 @@ Sec. 5. <i>Information Coordination Center</i>. (a) To assist the Chair in the Y
 
 (d) The Chair of the President's Council on Year 2000 Conversion shall designate a Director of the ICC.
 
-Sec. 6. <i>Judicial Review</i>. This Executive order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, or instrumentalities, its officers or employees, or any other person.
+Sec. 6. <i>Judicial Review</i>. This Executive order is intended only to improve the internal management of theexecutive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

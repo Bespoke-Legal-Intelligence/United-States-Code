@@ -40,9 +40,9 @@ The Clean Air Act, referred to in subsec. (c)(1), is act July 14, 1955, ch. 360,
 
 The Federal Water Pollution Control Act, referred to in subsec. (c)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Resource Conservation and Recovery Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, as amended, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 6901 of this title and Tables.
+The Resource Conservation and Recovery Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, as amended, which is classified generally to chapter 82 (§6901 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 6901 of this title and Tables.
 
-The Noise Control Act, referred to in subsec. (c)(1), probably means the Noise Control Act of 1972, Pub. L.92–574, Oct. 27, 1972, 86 Stat. 1234, as amended, which is classified principally to chapter 65 (§4901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of this title and Tables.
+The Noise Control Act, referred to in subsec. (c)(1), probably means the Noise Control Act of 1972, Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, as amended, which is classified principally to chapter 65 (§4901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of this title and Tables.
 
 The Toxic Substances Control Act, referred to in subsec. (c)(1), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
@@ -54,9 +54,9 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 #### Amendments
 
-<b>1995</b>—Subsecs. (c) to (i). Pub. L. 104–66 redesignated subsecs. (e) to (i) as (c) to (g), respectively, and struck out former subsec. (c) which read as follows: “In addition to providing scientific advice when requested by the Administrator under subsection (a) of this section, the Board shall review and comment on the Administration's five-year plan for environmental research, development, and demonstration provided for by section 4361 of this title and on each annual revision thereof. Such review and comment shall be transmitted to the Congress by the Administrator, together with his comments thereon, at the time of the transmission to the Congress of the annual revision involved.”
+<b>1995</b>—Subsecs. (c) to (i). Pub. L. 104–66 redesignated subsecs. (e) to (i) as (c) to (g), respectively, and struck out former subsec. (c) which read as follows: "In addition to providing scientific advice when requested by the Administrator under subsection (a) of this section, the Board shall review and comment on the Administration's five-year plan for environmental research, development, and demonstration provided for by section 4361 of this title and on each annual revision thereof. Such review and comment shall be transmitted to the Congress by the Administrator, together with his comments thereon, at the time of the transmission to the Congress of the annual revision involved."
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–437, §15(o)(1), substituted “Committee on Science, Space, and Technology, on Energy and Commerce, or on” for “Committees on Science and Technology, Interstate and Foreign Commerce, or”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437, §15(o)(1), substituted "Committee on Science, Space, and Technology, on Energy and Commerce, or on" for "Committees on Science and Technology, Interstate and Foreign Commerce, or".
 
 Subsec. (d). Pub. L. 103–437, §15(o)(2), struck out subsec. (d) which related to review and report to Administrator, President, and Congress on health effects research.
 

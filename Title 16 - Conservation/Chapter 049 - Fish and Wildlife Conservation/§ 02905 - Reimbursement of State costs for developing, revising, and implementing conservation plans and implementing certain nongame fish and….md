@@ -20,7 +20,7 @@ Application for reimbursement under this section shall be made in such manner as
 
 #### (c) Eligibility
 
-No State is eligible for reimbursement under this section unless the Secretary finds that thecosts, for which reimbursement is sought, have been incurred by the State as follows:
+No State is eligible for reimbursement under this section unless the Secretary finds that the costs, for which reimbursement is sought, have been incurred by the State as follows:
 
 &emsp;(1) If reimbursement is sought under subsection (a)(1) of this section, such costs have been incurred in developing a conservation plan that meets the requirements set forth in section 2903 of this title.
 
@@ -50,7 +50,7 @@ Subject to the limitations in subsection (c) and the terms and conditions impose
 
 &emsp;(D) in implementing an approved conservation plan, unless the cost was incurred in implementing actions approved under section 2904(c) or (d) of this title;
 
-&emsp;(E) in implementing an approved conservation plan covering only nongame fish and wildlife, or any nongame fish and wildlife conservation action approved under section 2904(c) or (d) of this title, to the extent that more than 10 percent of such costs are paid for with moneys collected during such year by the State—
+&emsp;(E) in implementing an approved conservation plan covering only nongame fish and wildlife, or any nongame fish and wildlife conservation action approved under section 2904(c) or (d) of this title, to the extent thatmore than 10 percent of such costs are paid for with moneys collected during such year by the State—
 
 &emsp;&emsp;(i) from the sale of hunting, fishing, and trapping licenses, and
 

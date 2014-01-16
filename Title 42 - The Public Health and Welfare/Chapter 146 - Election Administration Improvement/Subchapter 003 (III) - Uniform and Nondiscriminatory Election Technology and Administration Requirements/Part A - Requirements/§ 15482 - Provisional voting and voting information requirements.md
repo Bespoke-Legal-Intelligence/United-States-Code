@@ -30,7 +30,7 @@ If an individual declares that such individual is a registered voter in the juri
 
 #### (2) Voting information defined
 
-&emsp;In this section, the term “voting information” means—
+&emsp;In this section, the term "voting information" means—
 
 &emsp;&emsp;(A) a sample version of the ballot that will be used for that election;
 

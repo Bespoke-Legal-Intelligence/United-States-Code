@@ -6,5 +6,5 @@ Until a new tribal constitution and bylaws are adopted and become effective unde
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–109 substituted “Interim Council shall meet” for “Interim council shall meet” in last sentence.
+<b>1996</b>—Pub. L. 104–109 substituted "Interim Council shall meet" for "Interim council shall meet" in last sentence.
 

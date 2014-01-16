@@ -4,7 +4,7 @@
 
 In order to encourage greater availability of political risk insurance for eligible investors by enhancing the private political risk insurance industry in the United States, and to the extent consistent with this subpart, the Corporation shall undertake programs of cooperation with such industry, and in connection with such programs may engage in the following activities:
 
-&emsp;(1) Utilizing its statutory authorities, encourage the development of associations,pools, or consortia of United States private political risk insurers.
+&emsp;(1) Utilizing its statutory authorities, encourage the development of associations, pools, or consortia of United States private political risk insurers.
 
 &emsp;(2) Share insurance risks (through coinsurance, contingent insurance, or other means) in a manner that is conducive to the growth and development of the private political risk insurance industry in the United States.
 
@@ -14,7 +14,7 @@ In order to encourage greater availability of political risk insurance for eligi
 
 #### (1) Establishment and membership
 
-&emsp;The Corporation shall establish a group to advise the Corporation on the development and implementation of the cooperative programs under this section. The group shall be appointed by the Board and shall be composed of up to 12 members, including the following:
+&emsp;The Corporation shall establish a group to advise the Corporation on the developmentand implementation of the cooperative programs under this section. The group shall be appointed by the Board and shall be composed of up to 12 members, including the following:
 
 &emsp;&emsp;(A) Up to seven persons from the private political risk insurance industry, of whom no fewer than two shall represent private political risk insurers, one shall represent private political risk reinsurers, and one shall represent insurance or reinsurance brokerage firms.
 

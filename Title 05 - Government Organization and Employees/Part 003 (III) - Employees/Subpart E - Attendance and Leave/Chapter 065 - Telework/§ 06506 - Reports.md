@@ -82,7 +82,7 @@ In general.—Not later than 18 months after the date of enactment of this chapt
 
 &emsp;&emsp;(B)
 
-Contents.—Each report submitted by the Comptroller General shall include the same information as required under subsection (b) applicable to the Government Accountability Office.
+Contents.—Each report submitted by the Comptroller General shall include thesame information as required under subsection (b) applicable to the Government Accountability Office.
 
 &emsp;(2)
 

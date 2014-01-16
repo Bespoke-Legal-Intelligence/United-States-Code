@@ -42,13 +42,13 @@
 
 &emsp;&emsp;(C) No licenses for export of any item on the United States Munitions List that include the agency as a party to the license may be granted.
 
-&emsp;&emsp;(D) No exports may be permitted to the agency of any goods or technologies controlled for national security reasons under the Export Administration Regulations, except that such prohibition shall not apply to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.; relating to congressional oversight of intelligence activities).
+&emsp;&emsp;(D) No exports may be permitted to the agency of any goods or technologies controlled for national security reasons under the Export Administration Regulations, except that such prohibition shall not apply to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 (\[50 U.S.C. 3091 et seq.\]; relating to congressional oversight of intelligence activities).
 
 &emsp;&emsp;(E) The United States shall oppose any loan or financial or technical assistance to the agency by international financial institutions in accordance with section 262d of this title.
 
 &emsp;&emsp;(F) The United States shall deny to the agency any credit or financial assistance by any department, agency, or instrumentality of the United States Government, except that this paragraph shall not apply—
 
-&emsp;&emsp;&emsp;(i) to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.; relating to congressional oversight of intelligence activities);
+&emsp;&emsp;&emsp;(i) to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 (\[50 U.S.C. 3091 et seq.\]; relating to congressional oversight of intelligence activities);
 
 &emsp;&emsp;&emsp;(ii) to the provision of medicines, medical equipment, and humanitarian assistance; or
 
@@ -78,7 +78,7 @@ If the President does not impose one or more measures described in subsection (b
 
 #### (e) Definition
 
-In this section, the term “appropriate congressional committees” means—
+In this section, the term "appropriate congressional committees" means—
 
 &emsp;(1) the Committee on Foreign Relations, the Committee on Appropriations, the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, the Committee on Finance, and the Select Committee on Intelligence of the Senate; and
 
@@ -106,11 +106,11 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(A), is Pub. L.
 
 The Arms Export Control Act, referred to in subsec. (b)(1)(A), (B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The National Security Act of 1947, referred to in subsec. (b)(1)(D), (F)(i), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§413 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50 and Tables.
+The National Security Act of 1947, referred to in subsec. (b)(1)(D), (F)(i), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Section 1501 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsec. (b)(2), is section 1501 of Pub. L. 104–201, which is set out as a note under section 2362 of Title 50, War and National Defense.
 
 The Atomic Energy Defense Act, referred to in subsec. (b)(2), is Pub. L. 107–314, div. D, as added Pub. L. 108–136, div. C, title XXXI, §3141(b), Nov. 24, 2003, 117 Stat. 1753, which is classified generally to chapter 42 (§2501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 50 and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “2362”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "2362".</i>
 

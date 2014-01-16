@@ -10,7 +10,7 @@ A prior section 302 of Pub. L. 95–501 was renumbered section 301 and is classi
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §3103(b)(3), struck out “, such as that established under section 5651 of this title,” after “any program”.
+<b>2008</b>—Pub. L. 110–246, §3103(b)(3), struck out ", such as that established under section 5651 of this title," after "any program".
 
 #### Effective Date of 2008 Amendment
 

@@ -98,7 +98,7 @@ As a condition of receipt of a grant under subsection (b) of this section, a Sta
 
 &emsp;(6) measures for the posting of signs at beaches or similar points of access, or functionally equivalent communication measures that are sufficient to give notice to the public that the coastal recreation waters are not meeting or are not expected to meet applicable water quality standards for pathogens and pathogen indicators; and
 
-&emsp;(7) measures that inform the public of the potential risks associated with water contact activities in the coastal recreation waters that do not meet applicable water quality standards.
+&emsp;(7) measures that inform the public of the potential risks associated with water contact activities in the coastal recreation watersthat do not meet applicable water quality standards.
 
 #### (d) Federal agency programs
 

@@ -8,7 +8,7 @@ If for any taxable year—
 
 &emsp;(2)(A) the closing balance for such items, reduced by
 
-&emsp;(B) the amount of the policyholders’ share of tax-exempt interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,
+&emsp;(B) the amount of the policyholders' share of tax-exempt interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,
 
 > such excess shall be included in gross income under section 803(a)(2).
 
@@ -18,7 +18,7 @@ If for any taxable year—
 
 &emsp;(1)(A) the closing balance for the items described in subsection (c), reduced by
 
-&emsp;(B) the amount of the policyholders’ share of tax-exempt interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, exceeds
+&emsp;(B) the amount of the policyholders' share of tax-exempt interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, exceeds
 
 &emsp;(2) the opening balance for such items,
 
@@ -66,7 +66,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;&emsp;&emsp;(ii) the prevailing State assumed interest rate, and
 
-&emsp;&emsp;(C) the prevailing commissioners’ standard tables for mortality and morbidity adjusted as appropriate to reflect the risks (such as substandard risks) incurred under the contract which are not otherwise taken into account.
+&emsp;&emsp;(C) the prevailing commissioners' standard tables for mortality and morbidity adjusted as appropriate to reflect the risks (such as substandard risks) incurred under the contract which are not otherwise taken into account.
 
 #### (3) Tax reserve method
 
@@ -74,7 +74,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (A) In general
 
-&emsp;&emsp;The term “tax reserve method” means—
+&emsp;&emsp;The term "tax reserve method" means—
 
 #### (i) Life insurance contracts
 
@@ -102,11 +102,11 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (i) CRVM
 
-&emsp;&emsp;&emsp;The term “CRVM” means the Commissioners’ Reserve Valuation Method prescribed by the National Association of Insurance Commissioners which is in effect on the date of the issuance of the contract.
+&emsp;&emsp;&emsp;The term "CRVM" means the Commissioners' Reserve Valuation Method prescribed by the National Association of Insurance Commissioners which is in effect on the date of the issuance of the contract.
 
 #### (ii) CARVM
 
-&emsp;&emsp;&emsp;The term “CARVM” means the Commissioners’ Annuities Reserve Valuation Method prescribed by the National Association of Insurance Commissioners which is in effect on the date of the issuance of the contract.
+&emsp;&emsp;&emsp;The term "CARVM" means the Commissioners' Annuities Reserve Valuation Method prescribed by the National Association of Insurance Commissioners which is in effect on the date of the issuance of the contract.
 
 #### (C) No additional reserve deduction allowed for deficiency reserves
 
@@ -120,7 +120,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable Federal interest rate” means the annual rate determined by the Secretary under section 846(c)(2) for the calendar year in which the contract was issued.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "applicable Federal interest rate" means the annual rate determined by the Secretary under section 846(c)(2) for the calendar year in which the contract was issued.
 
 #### (ii) Election to recompute Federal interest rate every 5 years
 
@@ -130,7 +130,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (II) Recomputation period
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term “recomputation period” means, with respect to any contract, the 5 calendar year period beginning with the 5th calendar year beginning after the calendar year in which the contract was issued (and each subsequent 5 calendar year period).
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term "recomputation period" means, with respect to any contract, the 5 calendar year period beginning with the 5th calendar year beginning after the calendar year in which the contract was issued (and each subsequent 5 calendar year period).
 
 #### (III) Election
 
@@ -144,27 +144,27 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “prevailing State assumed interest rate” means, with respect to any contract, the highest assumed interest rate permitted to be used in computing life insurance reserves for insurance contracts or annuity contracts (as the case may be) under the insurance laws of at least 26 States. For purposes of the preceding sentence, the effect of nonforfeiture laws of a State on interest rates for reserves shall not be taken into account.
+&emsp;&emsp;&emsp;The term "prevailing State assumed interest rate" means, with respect to any contract, the highest assumed interest rate permitted to be used in computing life insurance reserves for insurance contracts or annuity contracts (as the case may be) under the insurance laws of at least 26 States. For purposes of the preceding sentence, the effect of nonforfeiture laws of a State on interest rates for reserves shall not be taken into account.
 
 #### (ii) When rate determined
 
 &emsp;&emsp;&emsp;The prevailing State assumed interest rate with respect to any contract shall be determined as of the beginning of the calendar year in which the contract was issued.
 
-#### (5) Prevailing commissioners’ standard tables
+#### (5) Prevailing commissioners' standard tables
 
 &emsp;For purposes of this subsection—
 
 #### (A) In general
 
-&emsp;&emsp;The term “prevailing commissioners’ standard tables” means, with respect to any contract, the most recent commissioners’ standard tables prescribed by the NationalAssociation of Insurance Commissioners which are permitted to be used in computing reserves for that type of contract under the insurance laws of at least 26 States when the contract was issued.
+&emsp;&emsp;The term "prevailing commissioners' standard tables" means, with respect to any contract, the most recent commissioners' standard tables prescribed by the NationalAssociation of Insurance Commissioners which are permitted to be used in computing reserves for that type of contract under the insurance laws of at least 26 States when the contract was issued.
 
 #### (B) Insurer may use old tables for 3 years when tables change
 
-&emsp;&emsp;If the prevailing commissioners’ standard tables as of the beginning of any calendar year (hereinafter in this subparagraph referred to as the “year of change”) is different from the prevailing commissioners’ standard tables as of the beginning of the preceding calendar year, the issuer may use the prevailing commissioners’ standard tables as of the beginning of the preceding calendar year with respect to any contract issued after the change and before the close of the 3-year period beginning on the first day of the year of change.
+&emsp;&emsp;If the prevailing commissioners' standard tables as of the beginning of any calendar year (hereinafter in this subparagraph referred to as the "year of change") is different from the prevailing commissioners' standard tables as of the beginning of the preceding calendar year, the issuer may use the prevailing commissioners' standard tables as of the beginning of the preceding calendar year with respect to any contract issued after the change and before the close of the 3-year period beginning on the first day of the year of change.
 
-#### (C) Special rule for contracts for which there are no commissioners’ standard tables
+#### (C) Special rule for contracts for which there are no commissioners' standard tables
 
-&emsp;&emsp;If there are no commissioners’ standard tables applicable to any contract when it is issued, the mortality and morbidity tables used for purposes of paragraph (2)(C) shall be determined under regulations prescribed by the Secretary. When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner's standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.
+&emsp;&emsp;If there are no commissioners' standard tables applicable to any contract when it is issued, the mortality and morbidity tables used for purposes of paragraph (2)(C) shall be determined under regulations prescribed by the Secretary. When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner's standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.
 
 #### (D) Special rule for contracts issued before 1948
 
@@ -172,7 +172,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;&emsp;&emsp;(i) a contract was issued before 1948, and
 
-&emsp;&emsp;&emsp;(ii) there were no commissioners’ standard tables applicable to such contract when it was issued,
+&emsp;&emsp;&emsp;(ii) there were no commissioners' standard tables applicable to such contract when it was issued,
 
 > &emsp;&emsp;the mortality and morbidity tables used in computing statutory reserves for such contracts shall be used for purposes of paragraph (2)(C).
 
@@ -182,7 +182,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (6) Statutory reserves
 
-&emsp;The term “statutory reserves” means the aggregate amount set forth in the annual statement with respect to items described in section 807(c). Such term shall not include any reserve attributable to a deferred and uncollected premium if the establishment of such reserve is not permitted under section 811(c).
+&emsp;The term "statutory reserves" means the aggregate amount set forth in the annual statement with respect to items described in section 807(c). Such term shall not include any reserve attributable to a deferred and uncollected premium if the establishment of such reserve is not permitted under section 811(c).
 
 #### (e) Special rules for computing reserves
 
@@ -222,7 +222,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (C) Qualified supplemental benefit
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualified supplemental benefit” means any supplemental benefit described in subparagraph (D) if—
+&emsp;&emsp;For purposes of this paragraph, the term "qualified supplemental benefit" means any supplemental benefit described in subparagraph (D) if—
 
 &emsp;&emsp;&emsp;(i) there is a separately identified premium or charge for such benefit, and
 
@@ -252,7 +252,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (B) Qualified foreign contract
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “qualified foreign contract” means any contract issued by a foreign life insurance branch (which has its principal place of business in a foreign country) of a domestic life insurance company if—
+&emsp;&emsp;For purposes of subparagraph (A), the term "qualified foreign contract" means any contract issued by a foreign life insurance branch (which has its principal place of business in a foreign country) of a domestic life insurance company if—
 
 &emsp;&emsp;&emsp;(i) such contract is issued on the life or health of a resident of such country,
 
@@ -268,7 +268,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (B) Qualified substandard risk
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “qualified substandard risk” means any substandard risk if—
+&emsp;&emsp;For purposes of subparagraph (A), the term "qualified substandard risk" means any substandard risk if—
 
 &emsp;&emsp;&emsp;(i) the insurance company maintains a separate reserve for such risk,
 
@@ -300,7 +300,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (C) Existing plan of insurance
 
-&emsp;&emsp;For purposes of this paragraph, the term “existing plan of insurance” means, with respect to any contract, any plan of insurance which was filed by the company using such contract in one or more States before January 1, 1984, and is on file in the appropriate State for such contract.
+&emsp;&emsp;For purposes of this paragraph, the term "existing plan of insurance" means, with respect to any contract, any plan of insurance which was filed by the company using such contract in one or more States before January 1, 1984, and is on file in the appropriate State for such contract.
 
 #### (7) Special rules for treatment of certain nonlife reserves
 
@@ -366,37 +366,37 @@ A prior section 807, act Aug. 16, 1954, ch. 736, 68A Stat. 259, related to adjus
 
 #### Amendments
 
-<b>2004</b>—Subsecs. (a)(2)(B), (b)(1)(B). Pub. L. 108–218, §205(b)(1), struck out “the sum of (i)” before “the amount” and struck out “plus (ii) any excess described in section 809(a)(2) for the taxable year,” after “to which section 264(f) applies,”.
+<b>2004</b>—Subsecs. (a)(2)(B), (b)(1)(B). Pub. L. 108–218, §205(b)(1), struck out "the sum of (i)" before "the amount" and struck out "plus (ii) any excess described in section 809(a)(2) for the taxable year," after "to which section 264(f) applies,".
 
-Subsec. (d)(1). Pub. L. 108–218, §205(b)(2)(A), substituted “paragraph (6)” for “section 809(b)(4)(B)” in concluding provisions.
+Subsec. (d)(1). Pub. L. 108–218, §205(b)(2)(A), substituted "paragraph (6)" for "section 809(b)(4)(B)" in concluding provisions.
 
 Subsec. (d)(6). Pub. L. 108–218, §205(b)(2)(B), added par. (6).
 
-<b>1997</b>—Subsec. (a)(2)(B). Pub. L. 105–34, §1084(b)(2)(A), substituted “interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
+<b>1997</b>—Subsec. (a)(2)(B). Pub. L. 105–34, §1084(b)(2)(A), substituted "interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies," for "interest,".
 
-Subsec. (b)(1)(B). Pub. L. 105–34, §1084(b)(2)(B), substituted “interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
+Subsec. (b)(1)(B). Pub. L. 105–34, §1084(b)(2)(B), substituted "interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies," for "interest,".
 
-<b>1996</b>—Subsec. (d)(3)(A)(iii). Pub. L. 104–191 inserted “(other than a qualified long-term care insurance contract, as defined in section 7702B(b))” after “insurance contract”.
+<b>1996</b>—Subsec. (d)(3)(A)(iii). Pub. L. 104–191 inserted "(other than a qualified long-term care insurance contract, as defined in section 7702B(b))" after "insurance contract".
 
-Subsec. (d)(3)(B)(ii). Pub. L. 104–188 substituted “Commissioners’ Annuities” for “Commissoners’ Annuities”.
+Subsec. (d)(3)(B)(ii). Pub. L. 104–188 substituted "Commissioners' Annuities" for "Commissoners' Annuities".
 
 <b>1990</b>—Subsec. (e)(7). Pub. L. 101–508 added par. (7).
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–203, §10241(b)(2)(A), substituted “whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit.” for “the higher of the prevailing State assumed interest rate as of the time such obligation first did not involve life, accident, or health contingencies or the rate of interest assumed by the company (as of such time) in determining the guaranteed benefit.” in third to last sentence.
+<b>1987</b>—Subsec. (c). Pub. L. 100–203, §10241(b)(2)(A), substituted "whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit." for "the higher of the prevailing State assumed interest rate as of the time such obligation first did not involve life, accident, or health contingencies or the rate of interest assumed by the company (as of such time) in determining the guaranteed benefit." in third to last sentence.
 
-Subsec. (d)(2)(B). Pub. L. 100–203, §10241(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the prevailing State assumed interest rate, and”.
+Subsec. (d)(2)(B). Pub. L. 100–203, §10241(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the prevailing State assumed interest rate, and".
 
-Subsec. (d)(4). Pub. L. 100–203, §10241(b)(1), substituted “Applicable Federal interest rate; prevailing State assumed interest rate” for “Prevailing State assumed interest rate” in heading and amended text generally, revising and restating as subpars. (A) and (B) provisions of former subpars. (A) to (D).
+Subsec. (d)(4). Pub. L. 100–203, §10241(b)(1), substituted "Applicable Federal interest rate; prevailing State assumed interest rate" for "Prevailing State assumed interest rate" in heading and amended text generally, revising and restating as subpars. (A) and (B) provisions of former subpars. (A) to (D).
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–514, §1023(b), inserted at end “For purposes of paragraph (2) and section 805(a)(1), the amount of the unpaid losses (other than losses on life insurance contracts) shall be the amount of the discounted unpaid losses as defined in section 846.”
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, §1023(b), inserted at end "For purposes of paragraph (2) and section 805(a)(1), the amount of the unpaid losses (other than losses on life insurance contracts) shall be the amount of the discounted unpaid losses as defined in section 846."
 
-Pub. L. 99–514, §1821(a), inserted at end “In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract.”
+Pub. L. 99–514, §1821(a), inserted at end "In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract."
 
-Subsec. (d)(5)(C). Pub. L. 99–514, §1821(s), inserted at end “When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner's standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.”
+Subsec. (d)(5)(C). Pub. L. 99–514, §1821(s), inserted at end "When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner's standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary."
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–218, title II, §205(c), Apr. 10, 2004, 118 Stat. 610, provided that: “The amendments made by this section \[amending this section and sections 808, 812, 817, and 842 of this title and repealing section 809 of this title\] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 108–218, title II, §205(c), Apr. 10, 2004, 118 Stat. 610, provided that: "The amendments made by this section \[amending this section and sections 808, 812, 817, and 842 of this title and repealing section 809 of this title\] shall apply to taxable years beginning after December 31, 2004."
 
 #### Effective Date of 1997 Amendment
 
@@ -408,11 +408,11 @@ Amendment by Pub. L. 104–191 applicable to contracts issued after Dec. 31, 199
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XI, §11302(b), Nov. 5, 1990, 104 Stat. 1388–450, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning on or after September 30, 1990.”
+Pub. L. 101–508, title XI, §11302(b), Nov. 5, 1990, 104 Stat. 1388–450, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning on or after September 30, 1990."
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title X, §10241(c), Dec. 22, 1987, 101 Stat. 1330–420, provided that: “The amendments made by this section \[amending this section and section 812 of this title\] shall apply to contracts issued in taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, §10241(c), Dec. 22, 1987, 101 Stat. 1330–420, provided that: "The amendments made by this section \[amending this section and section 812 of this title\] shall apply to contracts issued in taxable years beginning after December 31, 1987."
 
 #### Effective Date of 1986 Amendment
 
@@ -432,39 +432,39 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 98–369, div. A, title II, §217(f), July 18, 1984, 98 Stat. 763, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 Mortality and morbidity tables.—In the case of a contract issued by an assessment life insurance company, the mortality and morbidity tables used in computing statutory reserves for such contract shall be used for purposes of paragraph (2)(C) of section 807(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this subtitle \[subtitle A (§§211–219) of title II of div. A of Pub. L. 98–369\]) if such tables were—
 
-&emsp;“(A) in use since 1965, and
+&emsp;"(A) in use since 1965, and
 
-&emsp;“(B) developed on the basis of the experience of assessment life insurance companies in the State in which such assessment life insurance company is domiciled.
+&emsp;"(B) developed on the basis of the experience of assessment life insurance companies in the State in which such assessment life insurance company is domiciled.
 
-“(2)
+"(2)
 
 Treatment of certain mutual assessment life insurance companies.—In the case of any contract issued by a mutual assessment life insurance company which—
 
-&emsp;“(A) has been in existence since 1965, and
+&emsp;"(A) has been in existence since 1965, and
 
-&emsp;“(B) operates under chapter 13 or 14 of the Texas Insurance Code,
+&emsp;"(B) operates under chapter 13 or 14 of the Texas Insurance Code,
 
 > for purposes of part I of subchapter L of chapter 1 of the Internal Revenue Code of 1986, the amount of the life insurance reserves for such contract shall be equal to the amount taken into account with respect to such contract in determining statutory reserves.
 
-“(3)
+"(3)
 
-Statutory reserves.—For purposes of this subsection, the term ‘statutory reserves’ has the meaning given to such term by \[former\] section 809(b)(4)(B) of such Code.”
+Statutory reserves.—For purposes of this subsection, the term 'statutory reserves' has the meaning given to such term by \[former\] section 809(b)(4)(B) of such Code."
 
 #### Special Rule for Companies Using Net Level Reserve Method for Noncancellable Accident and Health Insurance Contracts
 
-Pub. L. 98–369, div. A, title II, §217(n), July 18, 1984, 98 Stat. 766, as amended by Pub. L. 99–514, §2, title XVIII, §1823, Oct. 22, 1986, 100 Stat. 2095, 2845, provided that: “A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
+Pub. L. 98–369, div. A, title II, §217(n), July 18, 1984, 98 Stat. 766, as amended by Pub. L. 99–514, §2, title XVIII, §1823, Oct. 22, 1986, 100 Stat. 2095, 2845, provided that: "A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
 
-&emsp;“(1) such company—
+&emsp;"(1) such company—
 
-&emsp;&emsp;“(A) was using the net level reserve method to compute at least 99 percent of its statutory reserves on such contracts as of December 31, 1982, and
+&emsp;&emsp;"(A) was using the net level reserve method to compute at least 99 percent of its statutory reserves on such contracts as of December 31, 1982, and
 
-&emsp;&emsp;“(B) received more than half its total direct premiums in 1982 from directly-written noncancellable accident and health insurance,
+&emsp;&emsp;"(B) received more than half its total direct premiums in 1982 from directly-written noncancellable accident and health insurance,
 
-&emsp;“(2) after December 31, 1983, and through such taxable year, such company has continuously used the net level reserve method for computing at least 99 percent of its tax and statutory reserves on such contracts, and
+&emsp;"(2) after December 31, 1983, and through such taxable year, such company has continuously used the net level reserve method for computing at least 99 percent of its tax and statutory reserves on such contracts, and
 
-&emsp;“(3) for any such contract for which the company does not use the net level reserve method, such company uses the same method for computing tax reserves as such company uses for computing its statutory reserves.”
+&emsp;"(3) for any such contract for which the company does not use the net level reserve method, such company uses the same method for computing tax reserves as such company uses for computing its statutory reserves."
 

@@ -14,7 +14,7 @@ The study under subsection (a) shall take into consideration the feasibility ofâ
 
 #### (c) Consultation
 
-In conducting the study under subsection (a), the Secretary shall consult with the Secretaryof the Treasury and the Secretary of the Army (acting through the Chief of Engineers).
+In conducting the study under subsection (a), the Secretary shall consult with the Secretary of the Treasury and the Secretary of the Army (acting through the Chief of Engineers).
 
 #### (d) Report
 

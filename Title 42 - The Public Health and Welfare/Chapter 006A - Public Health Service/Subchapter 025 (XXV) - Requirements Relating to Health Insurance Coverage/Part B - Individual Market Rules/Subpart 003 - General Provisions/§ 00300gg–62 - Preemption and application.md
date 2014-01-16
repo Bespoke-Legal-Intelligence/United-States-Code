@@ -24,7 +24,7 @@ Subject to subsection (b) of this section, nothing in this part (or part C of th
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148, §1563(c)(15)(A), formerly §1562(c)(15)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted “and application” after “Preemption” in section catchline.
+<b>2010</b>—Pub. L. 111–148, §1563(c)(15)(A), formerly §1562(c)(15)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted "and application" after "Preemption" in section catchline.
 
 Subsec. (c). Pub. L. 111–148, §1563(c)(15)(B), formerly §1562(c)(15)(B), as renumbered by Pub. L. 111–148, §10107(b)(1), added subsec. (c).
 

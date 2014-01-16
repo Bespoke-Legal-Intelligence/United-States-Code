@@ -22,11 +22,11 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Subsidiary
 
-&emsp;The term “subsidiary” means any company that is a subsidiary (as defined in section 1813(w)(4) of this title) of 1 or more insured banks.
+&emsp;The term "subsidiary" means any company that is a subsidiary (as defined in section 1813(w)(4) of this title) of 1 or more insured banks.
 
 #### (2) Financial subsidiary
 
-&emsp;The term “financial subsidiary” has the meaning given the term in section 24a(g) of this title.
+&emsp;The term "financial subsidiary" has the meaning given the term in section 24a(g) of this title.
 
 #### (d) Preservation of authority
 

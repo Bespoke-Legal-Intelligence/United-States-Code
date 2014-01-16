@@ -12,7 +12,7 @@
 
 #### (2) Importer defined
 
-&emsp;For purposes of this section, the term “importer” means, with respect to an article of food—
+&emsp;For purposes of this section, the term "importer" means, with respect to an article of food—
 
 &emsp;&emsp;(A) the United States owner or consignee of the article of food at the time of entry of such article into the United States; or
 
@@ -84,5 +84,5 @@ Nothing in this section to be construed to apply to certain alcohol-related faci
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “title”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "title".</i>
 

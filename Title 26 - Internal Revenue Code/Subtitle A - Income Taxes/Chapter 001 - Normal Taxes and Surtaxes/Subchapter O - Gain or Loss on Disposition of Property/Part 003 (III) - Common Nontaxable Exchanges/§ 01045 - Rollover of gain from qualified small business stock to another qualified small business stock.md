@@ -16,7 +16,7 @@ For purposes of this section—
 
 #### (1) Qualified small business stock
 
-&emsp;The term “qualified small business stock” has the meaning given such term by section 1202(c).
+&emsp;The term "qualified small business stock" has the meaning given such term by section 1202(c).
 
 #### (2) Purchase
 
@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–206, §6005(f)(1), in introductory provisions, substituted “a taxpayer other than a corporation” for “an individual” and “such taxpayer” for “such individual”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–206, §6005(f)(1), in introductory provisions, substituted "a taxpayer other than a corporation" for "an individual" and "such taxpayer" for "such individual".
 
 Subsec. (b)(5). Pub. L. 105–206, §6005(f)(2), added par. (5).
 

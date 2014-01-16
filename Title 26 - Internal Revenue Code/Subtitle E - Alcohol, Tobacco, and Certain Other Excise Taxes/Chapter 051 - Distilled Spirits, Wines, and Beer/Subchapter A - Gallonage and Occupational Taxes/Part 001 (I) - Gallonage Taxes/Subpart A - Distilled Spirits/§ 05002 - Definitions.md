@@ -6,19 +6,19 @@ For purposes of this chapter—
 
 #### (1) Distilled spirits plant
 
-&emsp;The term “distilled spirits plant” means an establishment which is qualified under subchapter B to perform any distilled spirits operation.
+&emsp;The term "distilled spirits plant" means an establishment which is qualified under subchapter B to perform any distilled spirits operation.
 
 #### (2) Distilled spirits operation
 
-&emsp;The term “distilled spirits operation” means any operation for which qualification is required under subchapter B.
+&emsp;The term "distilled spirits operation" means any operation for which qualification is required under subchapter B.
 
 #### (3) Bonded premises
 
-&emsp;The term “bonded premises”, when used with respect to distilled spirits, means the premises of a distilled spirits plant, or part thereof, on which distilled spirits operations are authorized to be conducted.
+&emsp;The term "bonded premises", when used with respect to distilled spirits, means the premises of a distilled spirits plant, or part thereof, on which distilled spirits operations are authorized to be conducted.
 
 #### (4) Distiller
 
-&emsp;The term “distiller” includes any person who—
+&emsp;The term "distiller" includes any person who—
 
 &emsp;&emsp;(A) produces distilled spirits from any source or substance,
 
@@ -32,7 +32,7 @@ For purposes of this chapter—
 
 #### (A) In general
 
-&emsp;&emsp;The term “processor”, when used with respect to distilled spirits, means any person who—
+&emsp;&emsp;The term "processor", when used with respect to distilled spirits, means any person who—
 
 &emsp;&emsp;&emsp;(i) manufactures, mixes, or otherwise processes distilled spirits, or
 
@@ -40,7 +40,7 @@ For purposes of this chapter—
 
 #### (B) Rectifier, bottler, etc., included
 
-&emsp;&emsp;The term “processor” includes (but is not limited to) a rectifier, bottler, and denaturer.
+&emsp;&emsp;The term "processor" includes (but is not limited to) a rectifier, bottler, and denaturer.
 
 #### (6) Certain operations not treated as processing
 
@@ -60,39 +60,39 @@ For purposes of this chapter—
 
 #### (7) Warehouseman
 
-&emsp;The term “warehouseman”, when used with respect to distilled spirits, means any person who stores bulk distilled spirits.
+&emsp;The term "warehouseman", when used with respect to distilled spirits, means any person who stores bulk distilled spirits.
 
 #### (8) Distilled spirits
 
-&emsp;The terms “distilled spirits”, “alcoholic spirits”, and “spirits” mean that substance known as ethyl alcohol, ethanol, or spirits of wine in any form (including all dilutions and mixtures thereof from whatever source or by whatever process produced).
+&emsp;The terms "distilled spirits", "alcoholic spirits", and "spirits" mean that substance known as ethyl alcohol, ethanol, or spirits of wine in any form (including all dilutions and mixtures thereof from whatever source or by whatever process produced).
 
 #### (9) Bulk distilled spirits
 
-&emsp;The term “bulk distilled spirits” means distilled spirits in a container having a capacity in excess of 1 wine gallon.
+&emsp;The term "bulk distilled spirits" means distilled spirits in a container having a capacity in excess of 1 wine gallon.
 
 #### (10) Proof spirits
 
-&emsp;The term “proof spirits” means that liquid which contains one-half its volume of ethyl alcohol of a specific gravity of 0.7939 at 60 degrees Fahrenheit (referring to water at 60 degrees Fahrenheit as unity).
+&emsp;The term "proof spirits" means that liquid which contains one-half its volume of ethyl alcohol of a specific gravity of 0.7939 at 60 degrees Fahrenheit (referring to water at 60 degrees Fahrenheit as unity).
 
 #### (11) Proof gallon
 
-&emsp;The term “proof gallon” means a United States gallon of proof spirits, or the alcoholic equivalent thereof.
+&emsp;The term "proof gallon" means a United States gallon of proof spirits, or the alcoholic equivalent thereof.
 
 #### (12) Container
 
-&emsp;The term “container”, when used with respect to distilled spirits, means any receptacle, vessel, or form of package, bottle, tank, or pipeline used, or capable of use, for holding, storing, transferring, or conveying distilled spirits.
+&emsp;The term "container", when used with respect to distilled spirits, means any receptacle, vessel, or form of package, bottle, tank, or pipeline used, or capable of use, for holding, storing, transferring, or conveying distilled spirits.
 
 #### (13) Approved container
 
-&emsp;The term “approved container”, when used with respect to distilled spirits, means a container the use of which is authorized by regulations prescribed by the Secretary.
+&emsp;The term "approved container", when used with respect to distilled spirits, means a container the use of which is authorized by regulations prescribed by the Secretary.
 
 #### (14) Article
 
-&emsp;Unless another meaning is distinctly expressed or manifestly intended, the term “article” means any substance in the manufacture of which denatured distilled spirits are used.
+&emsp;Unless another meaning is distinctly expressed or manifestly intended, the term "article" means any substance in the manufacture of which denatured distilled spirits are used.
 
 #### (15) Export
 
-&emsp;The terms “export”, “exported”, and “exportation” include shipments to a possession of the United States.
+&emsp;The terms "export", "exported", and "exportation" include shipments to a possession of the United States.
 
 #### (b) Cross references
 
@@ -116,19 +116,19 @@ Provisions similar to those comprising subsec. (a)(6), (9), and (11) of this sec
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(2). Pub. L. 109–59, §11125(b)(13)(A), substituted “section 5121(c)(3)” for “section 5112(a)”.
+<b>2005</b>—Subsec. (b)(2). Pub. L. 109–59, §11125(b)(13)(A), substituted "section 5121(c)(3)" for "section 5112(a)".
 
-Subsec. (b)(3). Pub. L. 109–59, §11125(b)(13)(B), substituted “section 5121(c)” for “section 5112”.
+Subsec. (b)(3). Pub. L. 109–59, §11125(b)(13)(B), substituted "section 5121(c)" for "section 5112".
 
-Subsec. (b)(4). Pub. L. 109–59, §11125(b)(13)(C), substituted “section 5122(c)” for “section 5122”.
+Subsec. (b)(4). Pub. L. 109–59, §11125(b)(13)(C), substituted "section 5122(c)" for "section 5122".
 
-<b>1994</b>—Subsec. (b)(1) to (6). Pub. L. 103–465 redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which provided a cross reference to section 5041(c) of this title for definition of “wine gallon”.
+<b>1994</b>—Subsec. (b)(1) to (6). Pub. L. 103–465 redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which provided a cross reference to section 5041(c) of this title for definition of "wine gallon".
 
-<b>1979</b>—Subsec. (a)(1). Pub. L. 96–39 substituted “distilled spirits operation” for “operation, or any combination of operations, for which qualification is required under such subchapter”.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–39 substituted "distilled spirits operation" for "operation, or any combination of operations, for which qualification is required under such subchapter".
 
-Subsec. (a)(2), (3). Pub. L. 96–39 added par. (2) and redesignated former par. (2) as (3). Former par. (3), defining “bottling premises”, was struck out.
+Subsec. (a)(2), (3). Pub. L. 96–39 added par. (2) and redesignated former par. (2) as (3). Former par. (3), defining "bottling premises", was struck out.
 
-Subsec. (a)(4). Pub. L. 96–39 redesignated par. (5) as (4). Former par. (4), defining “bonded warehouseman”, was struck out.
+Subsec. (a)(4). Pub. L. 96–39 redesignated par. (5) as (4). Former par. (4), defining "bonded warehouseman", was struck out.
 
 Subsec. (a)(5) to (7). Pub. L. 96–39 added pars. (5) to (7) and redesignated former pars. (5) to (7) as (4), (8), and (10), respectively.
 
@@ -140,13 +140,13 @@ Subsec. (a)(10) to (15). Pub. L. 96–39 redesignated former pars. (7) to (12) a
 
 Subsec. (b). Pub. L. 95–39 struck out par. (2) which provided for a cross reference to section 5082 for a definition of rectifier and redesignated pars. (3) to (7) as (2) to (6), respectively.
 
-<b>1976</b>—Subsec. (a)(10). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(10). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–44 added par. (12).
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title XI, §11125(c), Aug. 10, 2005, 119 Stat. 1957, provided that: “The amendments made by this section \[see Tables for classification\] shall take effect on July 1, 2008, but shall not apply to taxes imposed for periods before such date.”
+Pub. L. 109–59, title XI, §11125(c), Aug. 10, 2005, 119 Stat. 1957, provided that: "The amendments made by this section \[see Tables for classification\] shall take effect on July 1, 2008, but shall not apply to taxes imposed for periods before such date."
 
 #### Effective Date of 1994 Amendment
 
@@ -158,5 +158,5 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 #### Effective Date of 1965 Amendment
 
-Pub. L. 89–44, title VIII, §807(c), June 21, 1965, 79 Stat. 164, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 5053 of this title\] shall take effect on July 1, 1965.”
+Pub. L. 89–44, title VIII, §807(c), June 21, 1965, 79 Stat. 164, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 5053 of this title\] shall take effect on July 1, 1965."
 

@@ -12,21 +12,21 @@
 
 Based on title 28, U.S.C., 1940 ed., §272 (Mar. 3, 1911, ch. 231, §164, 36 Stat. 1140).
 
-Words “or agency” were added. (See reviser's note under section 1345 of this title.)
+Words "or agency" were added. (See reviser's note under section 1345 of this title.)
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-Subsec. (c). Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
+Subsec. (c). Pub. L. 102–572, §902(a)(2), substituted "Court of Federal Claims" for "Claims Court".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164, §139(f)(1), substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §139(f)(1), substituted "United States Claims Court" for "Court of Claims".
 
-Subsec. (c). Pub. L. 97–164, §139(f)(2), substituted “Claims Court” for “Court of Claims”.
+Subsec. (c). Pub. L. 97–164, §139(f)(2), substituted "Claims Court" for "Court of Claims".
 
-<b>1954</b>—Act Sept. 3, 1954, substituted “Calls and discovery” for “Calls on departments for information” in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
+<b>1954</b>—Act Sept. 3, 1954, substituted "Calls and discovery" for "Calls on departments for information" in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
 
 #### Effective Date of 1992 Amendment
 

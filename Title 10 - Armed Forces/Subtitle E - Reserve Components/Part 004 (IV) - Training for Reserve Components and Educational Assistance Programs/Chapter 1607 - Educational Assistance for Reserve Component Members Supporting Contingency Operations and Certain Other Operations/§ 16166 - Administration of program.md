@@ -6,7 +6,7 @@ Administration.—Educational assistance under this chapter shall be provided th
 
 (b)
 
-Program Management.—Except as otherwise provided in this chapter, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term “eligible veteran” and the term “person”, as used in those provisions, shall be deemed for the purpose of the application of those provisions to this chapter to refer to a person eligible for educational assistance under this chapter.
+Program Management.—Except as otherwise provided in this chapter, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term "eligible veteran" and the term "person", as used in those provisions, shall be deemed for the purpose of the application of those provisions to this chapter to refer to a person eligible for educational assistance under this chapter.
 
 (c)
 
@@ -20,7 +20,7 @@ Flight Training.—The Secretary of Veterans Affairs may approve the pursuit of 
 
 (d)
 
-Trust Fund.—Amounts for payments for benefits under this chapter shall be derived from the Department of Defense Education Benefits Fund under section 2006 of this title.
+Trust Fund.—Amounts for payments for benefits under this chapter shall be derived fromthe Department of Defense Education Benefits Fund under section 2006 of this title.
 
 (Added Pub. L. 108–375, div. A, title V, §527(a), Oct. 28, 2004, 118 Stat. 1893.)
 

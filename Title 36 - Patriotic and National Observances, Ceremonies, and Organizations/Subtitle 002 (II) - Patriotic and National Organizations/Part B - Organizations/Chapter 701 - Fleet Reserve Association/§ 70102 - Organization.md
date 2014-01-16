@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Fleet Reserve Association (in this chapter, the “corporation”), a nonprofit corporation incorporated in Pennsylvania, is a federally chartered corporation.
+Federal Charter.—Fleet Reserve Association (in this chapter, the "corporation"), a nonprofit corporation incorporated in Pennsylvania, is a federally chartered corporation.
 
 (b)
 
@@ -36,5 +36,5 @@ This section is substituted for the source provisions for consistency in the rev
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “Pennsylvania” for “Delaware”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted "Pennsylvania" for "Delaware".
 

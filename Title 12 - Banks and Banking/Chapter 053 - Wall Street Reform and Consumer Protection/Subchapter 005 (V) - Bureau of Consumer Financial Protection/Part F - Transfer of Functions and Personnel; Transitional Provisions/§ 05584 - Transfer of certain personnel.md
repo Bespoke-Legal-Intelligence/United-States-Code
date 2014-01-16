@@ -204,7 +204,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 &emsp;&emsp;If the Bureau determines, during the 2-year period beginning 1 year after the designated transfer date, that a reorganization of the staff of the Bureau is required—
 
-&emsp;&emsp;&emsp;(i) that reorganization shall be deemed a “substantial reorganization” for purposes of affording affected employees retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5;
+&emsp;&emsp;&emsp;(i) that reorganization shall be deemed a "substantial reorganization" for purposes of affording affected employees retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5;
 
 &emsp;&emsp;&emsp;(ii) before the reorganization occurs, all employees in the same locality pay area as defined by the Office of Personnel Management shall be placed in a uniform position classification system; and
 
@@ -302,15 +302,15 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 &emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) the term “existing retirement plan” means, with respect to an employee transferred pursuant to this part, the retirement plan (including the Financial Institutions Retirement Fund) and any associated thrift savings plan, of the agency from which the employee was transferred under this part, in which the employee was enrolled on the day before the date on which the employee was transferred;
+&emsp;&emsp;&emsp;(i) the term "existing retirement plan" means, with respect to an employee transferred pursuant to this part, the retirement plan (including the Financial Institutions Retirement Fund) and any associated thrift savings plan, of the agency from which the employee was transferred under this part, in which the employee was enrolled on the day before the date on which the employee was transferred;
 
-&emsp;&emsp;&emsp;(ii) the term “Federal Employee Retirement Program” means either the Civil Service Retirement System established under chapter 83 of title 5 or the Federal Employees Retirement System established under chapter 84 of title 5, depending upon the service history of the individual;
+&emsp;&emsp;&emsp;(ii) the term "Federal Employee Retirement Program" means either the Civil Service Retirement System established under chapter 83 of title 5 or the Federal Employees Retirement System established under chapter 84 of title 5, depending upon the service history of the individual;
 
-&emsp;&emsp;&emsp;(iii) the term “Federal Reserve System transferred employee” means a transferred employee who is an employee of the Board of Governors or a Federal reserve bank on the day before the designated transfer date, and who is transferred to the Bureau on the designated transfer date pursuant to this part;
+&emsp;&emsp;&emsp;(iii) the term "Federal Reserve System transferred employee" means a transferred employee who is an employee of the Board of Governors or a Federal reserve bank on the day before the designated transfer date, and who is transferred to the Bureau on the designated transfer date pursuant to this part;
 
-&emsp;&emsp;&emsp;(iv) the term “Federal Reserve System Retirement Plan” means the Retirement Plan for Employees of the Federal Reserve System; and
+&emsp;&emsp;&emsp;(iv) the term "Federal Reserve System Retirement Plan" means the Retirement Plan for Employees of the Federal Reserve System; and
 
-&emsp;&emsp;&emsp;(v) the term “Federal Reserve System Thrift Plan” means the Thrift Plan for Employees of the Federal Reserve System.
+&emsp;&emsp;&emsp;(v) the term "Federal Reserve System Thrift Plan" means the Thrift Plan for Employees of the Federal Reserve System.
 
 #### (2) Benefits other than retirement benefits for transferred employees
 
@@ -364,7 +364,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 #### (iii) Additional funding
 
-&emsp;&emsp;&emsp;The Bureau shall transfer to the Employees’ Life Insurance Fund established under section 8714 of title 5 an amount determined by the Director of the Office of Personnel Management, after consultation with the Bureau and the Office of Management and Budget, to be necessary to reimburse the Fund for the cost to the Fund of providing benefits under this subparagraph not otherwise paid for by the employee under clause (ii).
+&emsp;&emsp;&emsp;The Bureau shall transfer to the Employees' Life Insurance Fund established under section 8714 of title 5 an amount determined by the Director of the Office of Personnel Management, after consultation with the Bureau and the Office of Management and Budget, to be necessary to reimburse the Fund for the cost to the Fund of providing benefits under this subparagraph not otherwise paid for by the employee under clause (ii).
 
 #### (iv) Credit for time enrolled in other plans
 

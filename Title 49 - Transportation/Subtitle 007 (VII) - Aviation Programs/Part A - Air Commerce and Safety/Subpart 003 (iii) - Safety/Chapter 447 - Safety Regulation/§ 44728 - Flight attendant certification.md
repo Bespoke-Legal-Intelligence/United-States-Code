@@ -64,7 +64,7 @@ Foreign flights.—The requirements of paragraph (1) do not apply to a flight at
 
 (g)
 
-Flight Attendant Defined.—In this section, the term “flight attendant” means an individual working as a flight attendant in the cabin of an aircraft that has 20 or more seats and is being used by an air carrier to provide air transportation.
+Flight Attendant Defined.—In this section, the term "flight attendant" means an individual working as a flight attendant in the cabin of an aircraft that has 20 or more seats and is being used by an air carrier to provide air transportation.
 
 (Added Pub. L. 108–176, title VIII, §814(a), Dec. 12, 2003, 117 Stat. 2590; amended Pub. L. 112–95, title III, §304(a), Feb. 14, 2012, 126 Stat. 58.)
 
@@ -80,11 +80,11 @@ The date of enactment of this section, referred to in subsec. (e), is the date o
 
 #### Effective Date
 
-Pub. L. 108–176, title VIII, §814(c), Dec. 12, 2003, 117 Stat. 2592, provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending the analysis to this chapter\] shall take effect on the 365th day following the date of enactment of this Act \[Dec. 12, 2003\].”
+Pub. L. 108–176, title VIII, §814(c), Dec. 12, 2003, 117 Stat. 2592, provided that: "The amendments made by subsections (a) and (b) \[enacting this section and amending the analysis to this chapter\] shall take effect on the 365th day following the date of enactment of this Act \[Dec. 12, 2003\]."
 
 #### Facilitation
 
-Pub. L. 112–95, title III, §304(b), Feb. 14, 2012, 126 Stat. 58, provided that: “The Administrator of the Federal Aviation Administration shall work with air carriers to facilitate compliance with the requirements of section 44728(f) of title 49, United States Code (as amended by this section).”
+Pub. L. 112–95, title III, §304(b), Feb. 14, 2012, 126 Stat. 58, provided that: "The Administrator of the Federal Aviation Administration shall work with air carriers to facilitate compliance with the requirements of section 44728(f) of title 49, United States Code (as amended by this section)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “be”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "be".</i>
 

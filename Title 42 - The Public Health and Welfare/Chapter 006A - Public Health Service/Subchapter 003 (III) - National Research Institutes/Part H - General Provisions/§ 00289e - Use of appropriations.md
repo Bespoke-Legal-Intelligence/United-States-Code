@@ -26,19 +26,19 @@
 
 (2) Any grants, cooperative agreements, or contracts authorized in this subchapter for the construction of facilities may be awarded only on a competitive basis.
 
-(July 1, 1944, ch. 373, title IV, §496, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 877; amended Pub. L. 101–190, §8, Nov. 29, 1989, 103 Stat. 1695; Pub. L. 103–43, title XX, §2008(b)(15), June 10, 1993, 107 Stat. 211.)
+(July 1, 1944, ch. 373, title IV, §496, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 877; amendedPub. L. 101–190, §8, Nov. 29, 1989, 103 Stat. 1695; Pub. L. 103–43, title XX, §2008(b)(15), June 10, 1993, 107 Stat. 211.)
 
 #### Codification
 
-In subsec. (a), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–43 substituted “Appropriations to carry out the purposes of this subchapter” for “Such appropriations”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–43 substituted "Appropriations to carry out the purposes of this subchapter" for "Such appropriations".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–190 designated existing provisions as subsec. (a), struck out first sentence which read as follows: “Appropriations to carry out the purposes of this subchapter shall be available for the acquisition of land or the erection of buildings only if so specified.”, and added subsec. (b).
+<b>1989</b>—Subsec. (a). Pub. L. 101–190 designated existing provisions as subsec. (a), struck out first sentence which read as follows: "Appropriations to carry out the purposes of this subchapter shall be available for the acquisition of land or the erection of buildings only if so specified.", and added subsec. (b).
 
 #### Construction of Biomedical Facilities for Development and Breeding of Specialized Strains of Mice
 
-Sections 1 to 7 of Pub. L. 101–190, as amended by Pub. L. 101–374, §4(a), (c)(1), Aug. 15, 1990, 104 Stat. 458, 459, authorized a reservation of funds for making a grant to construct facilities for development and breeding of specialized strains of mice for use in biomedical research, provided for a competitive grant award process, required applicant for the grant to agree to a twenty-year transferable obligation, restricted grant applicant to public or nonprofit private status, with assurances of sufficient financial resources, set forth other grant requirements, and specified consequences of failure to comply with agreements and violation of the twenty-year obligation.
+Pub. L. 101–190, §§1–7, Nov. 29, 1989, 103 Stat. 1691–1695, as amended by Pub. L. 101–374, §4(a), (c)(1), Aug. 15, 1990, 104 Stat. 458, 459, authorized a reservation of funds for making a grant to construct facilities for development and breeding of specialized strains of mice for use in biomedical research, provided for a competitive grant award process, required applicant for the grant to agree to a twenty-year transferable obligation, restricted grant applicant to public or nonprofit private status, with assurances of sufficient financial resources, set forth other grant requirements, and specified consequences of failure to comply with agreements and violation of the twenty-year obligation.
 

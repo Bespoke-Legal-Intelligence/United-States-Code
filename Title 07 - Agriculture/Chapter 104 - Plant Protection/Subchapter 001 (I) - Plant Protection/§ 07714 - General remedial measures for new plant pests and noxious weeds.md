@@ -2,7 +2,7 @@
 
 #### (a) Authority to hold, treat, or destroy items
 
-If the Secretary considers it necessary in order to prevent the dissemination of a plant pest or noxious weed that is new to or not known to be widely prevalent or distributed within and throughout the United States, the Secretary may hold, seize, quarantine, treat, apply other remedial measures to, destroy, or otherwise dispose of any plant, plant pest, noxious weed, biological control organism, plant product, article, or means of conveyance that—
+If the Secretary considers it necessary in order to prevent the dissemination of a plant pest or noxious weed that is new to or not known to be widely prevalent or distributed within and throughout the United States, the Secretary may hold, seize, quarantine, treat, apply other remedial measures to, destroy, orotherwise dispose of any plant, plant pest, noxious weed, biological control organism, plant product, article, or means of conveyance that—
 
 &emsp;(1) is moving into or through the United States or interstate, or has moved into or through the United States or interstate, and—
 
@@ -12,7 +12,7 @@ If the Secretary considers it necessary in order to prevent the dissemination of
 
 &emsp;(2) has not been maintained in compliance with a post-entry quarantine requirement; or
 
-&emsp;(3) is the progeny of any plant, biological control organism, plant product, plant pest, ornoxious weed that is moving into or through the United States or interstate, or has moved into the United States or interstate, in violation of this chapter.
+&emsp;(3) is the progeny of any plant, biological control organism, plant product, plant pest, or noxious weed that is moving into or through the United States or interstate, or has moved into the United States or interstate, in violation of this chapter.
 
 #### (b) Authority to order an owner to treat or destroy
 
@@ -40,11 +40,15 @@ No plant, biological control organism, plant product, plant pest, noxious weed, 
 
 (Pub. L. 106–224, title IV, §414, June 20, 2000, 114 Stat. 444; Pub. L. 107–171, title X, §10418(b)(1), May 13, 2002, 116 Stat. 508.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a)(1)(B), (3), was in the original "this title", meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
+
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(1). Pub. L. 107–171, §10418(b)(1)(A), struck out “, or the owner's agent,” after “subsection (a) of this section”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–171, §10418(b)(1)(A), struck out ", or the owner's agent," after "subsection (a) of this section".
 
-Subsec. (b)(2). Pub. L. 107–171, §10418(b)(1)(B), struck out “or agent of the owner” after “the owner” in two places.
+Subsec. (b)(2). Pub. L. 107–171, §10418(b)(1)(B), struck out "or agent of the owner" after "the owner" in two places.
 
 #### Transfer of Functions
 

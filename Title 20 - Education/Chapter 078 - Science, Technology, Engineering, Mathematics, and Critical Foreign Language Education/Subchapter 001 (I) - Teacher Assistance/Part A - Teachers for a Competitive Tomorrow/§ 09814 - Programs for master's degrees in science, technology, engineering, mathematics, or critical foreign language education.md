@@ -10,9 +10,9 @@ From the amounts made available to carry out this section under section 9816(2) 
 
 #### (b) Application
 
-Each eligible recipient desiring a grant under this section shall submit an application to theSecretary at such time and in such manner as the Secretary may require. Each application shall describe—
+Each eligible recipient desiring a grant under this section shall submit an application to the Secretary at such time and in such manner as the Secretary may require. Each application shall describe—
 
-&emsp;(1) how a department of science, technology, engineering, mathematics, or a critical foreign language will ensure significant collaboration with a school, department, or program of education in the development of the master's degree programs authorized under subsection (a), or how a department or school with a competency-based degree program has ensured, in the development of a master's degree program, the provision of rigorous studies in science, technology, engineering, mathematics, or a critical foreign language that enhance the teachers’ content knowledge and teaching skills;
+&emsp;(1) how a department of science, technology, engineering, mathematics, or a critical foreign language will ensure significant collaboration with a school, department, or program of education in the development of the master's degree programs authorized under subsection (a), or how a department or school with a competency-based degree program has ensured, in the development of a master's degree program, the provision of rigorous studies in science, technology, engineering, mathematics, or a critical foreign language that enhance the teachers' content knowledge and teaching skills;
 
 &emsp;(2) the role of the local educational agency in the partnership in developing and administering the program and how feedback from the local educational agency, school, and participants will be used to improve the program;
 
@@ -40,7 +40,7 @@ Each eligible recipient desiring a grant under this section shall submit an appl
 
 #### (c) Authorized activities
 
-Each eligible recipient receiving a grant under this section shall use the grant funds to develop and implement a 2- or 3-year part-time master's degree program in science, technology, engineering, mathematics, or critical foreign language education for teachers in order to enhance the teachers’ content knowledge and teaching skills, or programs for professionals in science, technology, engineering, mathematics, or a critical foreign language that lead to a 1-year master's degree in teaching that results in teacher certification. The program shall—
+Each eligible recipient receiving a grant under this section shall use the grant funds to develop and implement a 2- or 3-year part-time master's degree program in science, technology, engineering, mathematics, or critical foreign language education for teachers in order to enhance the teachers' content knowledge and teaching skills, or programs for professionals in science, technology, engineering, mathematics, or a critical foreign language that lead to a 1-year master's degree in teaching that results in teacher certification. The program shall—
 
 &emsp;(1) promote effective teaching skills so that program participants become more effective science, technology, engineering, mathematics, or critical foreign language teachers;
 
@@ -72,7 +72,7 @@ Each eligible recipient receiving a grant under this section shall use the grant
 
 Each eligible recipient receiving a grant under this section shall evaluate, using measurable objectives and benchmarks, and provide an annual report to the Secretary regarding, the extent to which the program assisted under this section succeeded in the following:
 
-&emsp;(1) Increasing the number and percentage of science, technology, engineering, mathematics, or critical foreign language teacherswho have a master's degree and meet 1 or more of the following requirements:
+&emsp;(1) Increasing the number and percentage of science, technology, engineering, mathematics, or critical foreign language teachers who have a master's degree and meet 1 or more of the following requirements:
 
 &emsp;&emsp;(A) Are teaching in schools determined by the partnership to be most in need, and taught in such schools prior to participation in the program.
 

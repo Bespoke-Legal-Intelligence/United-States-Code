@@ -18,7 +18,7 @@ Amounts in the Trust shall be available—
 
 #### (1) Application by eligible individuals
 
-&emsp;An eligible individual under section 12602 of this title who desires to apply the nationalservice educational award of the individual, an eligible individual under section 12602(a) of this title who served in a summer of service program and desires to apply that individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award, to the repayment of qualified student loans shall submit, in a manner prescribed by the Corporation, an application to the Corporation that—
+&emsp;An eligible individual under section 12602 of this title who desires to apply the national service educational award of the individual, an eligible individual under section 12602(a) of this title who served in a summer of service program and desires to apply that individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award, to the repayment of qualified student loans shall submit, in a manner prescribed by the Corporation, an application to the Corporation that—
 
 &emsp;&emsp;(A) identifies, or permits the Corporation to identify readily, the holder or holders of such loans;
 
@@ -48,9 +48,9 @@ Amounts in the Trust shall be available—
 
 &emsp;The Corporation may, by regulation, provide for the aggregation of payments to holders under this subsection.
 
-#### (7) “Qualified student loans” defined
+#### (7) "Qualified student loans" defined
 
-&emsp;As used in this subsection, the term “qualified student loans” means—
+&emsp;As used in this subsection, the term "qualified student loans" means—
 
 &emsp;&emsp;(A) any loan made, insured, or guaranteed pursuant to title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]), other than a loan to a parent of a student pursuant to section 428B of such Act (20 U.S.C. 1078–2);
 
@@ -66,9 +66,9 @@ Amounts in the Trust shall be available—
 
 &emsp;&emsp;&emsp;(iv) a lender otherwise determined by the Corporation to be eligible to receive disbursements from the National Service Trust.
 
-#### (8) “Holder” defined
+#### (8) "Holder" defined
 
-&emsp;As used in this subsection, the term “holder” with respect to any eligible loan means the original lender or, if the loan is subsequently sold, transferred, or assigned to some other person, and such other person acquires a legally enforceable right to receive payments from the borrower, such other person.
+&emsp;As used in this subsection, the term "holder" with respect to any eligible loan means the original lender or, if the loan is subsequently sold, transferred, or assigned to some other person, and such other person acquires a legally enforceable right to receive payments from the borrower, such other person.
 
 #### (c) Use of educational awards to pay current educational expenses
 
@@ -78,11 +78,11 @@ Amounts in the Trust shall be available—
 
 #### (2) Submission of requests for payment by institutions
 
-&emsp;An institution of higher education that receives one or more applications that comply with paragraph (1) shall submit to the Corporation a statement, in a manner prescribed by the Corporation, that—
+&emsp;An institution of higher education that receives one or more applications that complywith paragraph (1) shall submit to the Corporation a statement, in a manner prescribed by the Corporation, that—
 
 &emsp;&emsp;(A) identifies each eligible individual filing an application under paragraph (1) for a disbursement of the individual's national service educational award, summer of service educational award, or silver scholar educational award, as applicable, under this subsection;
 
-&emsp;&emsp;(B) specifies the amounts for which such eligible individuals are, consistent withparagraph (6), qualified for disbursement under this subsection;
+&emsp;&emsp;(B) specifies the amounts for which such eligible individuals are, consistent with paragraph (6), qualified for disbursement under this subsection;
 
 &emsp;&emsp;(C) certifies that—
 
@@ -126,7 +126,7 @@ The Corporation shall provide by regulation for the payment on behalf of an elig
 
 #### (1) In general
 
-&emsp;An individual who is eligible to receive a national service educational award or silver scholar educational award due to service in a program described in paragraph (2) may elect to receive the award (in the amount described in the corresponding provision of section 12603 of this title) and transfer the award to a designated individual. Subsections (b), (c), and (d) shall apply to the designated individual in lieu of the individual who is eligible to receive the national service educational award or silver scholar educational award, except that amounts refunded to the account under subsection (c)(5) on behalf of a designated individual may be used by the Corporation to fund additional placements in the national service program in which the eligible individual who transferred the national service educational award or silver scholar educational award participated for such award.
+&emsp;An individual who is eligible to receive a national service educational award or silver scholar educational award due to service in a program described in paragraph (2) may elect to receive the award (in the amount described in the corresponding provision of section 12603 of this title) and transfer the award to a designated individual. Subsections (b), (c), and (d) shall apply to the designated individual in lieu of the individual who is eligible to receive thenational service educational award or silver scholar educational award, except that amounts refunded to the account under subsection (c)(5) on behalf of a designated individual may be used by the Corporation to fund additional placements in the national service program in which the eligible individual who transferred the national service educational award or silver scholar educational award participated for such award.
 
 #### (2) Conditions for transfer
 
@@ -166,7 +166,7 @@ The Corporation shall provide by regulation for the payment on behalf of an elig
 
 #### (8) Definition of a designated individual
 
-&emsp;In this subsection, the term “designated individual” is an individual—
+&emsp;In this subsection, the term "designated individual" is an individual—
 
 &emsp;&emsp;(A) whom an individual who is eligible to receive a national service educational award or silver scholar educational award due to service in a program described in paragraph (2) designates to receive the educational award;
 
@@ -178,9 +178,9 @@ The Corporation shall provide by regulation for the payment on behalf of an elig
 
 With the approval of the Chief Executive Officer, an approved national service program funded under section 12571 of this title, may offer participants the option of waiving their right to receive a national service educational award, summer of service educational award, or silver scholar educational award, as appropriate, in order to receive an alternative post-service benefit funded by the program entirely with non-Federal funds.
 
-#### (h) “Institution of higher education” defined
+#### (h) "Institution of higher education" defined
 
-Notwithstanding section 12511 of this title, for purposes of this section the term “institution of higher education” has the meaning provided by section 102 of the Higher Education Act of 1965 \[20 U.S.C. 1002\].
+Notwithstanding section 12511 of this title, for purposes of this section the term "institution of higher education" has the meaning provided by section 102 of the Higher Education Act of 1965 \[20 U.S.C. 1002\].
 
 (Pub. L. 101–610, title I, §148, as added Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 820; amended Pub. L. 105–244, title I, §102(c)(2), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 111–13, title I, §1405, Apr. 21, 2009, 123 Stat. 1515.)
 
@@ -198,47 +198,47 @@ A prior section 148 of Pub. L. 101–610 was classified to section 12578 of this
 
 <b>2009</b>—Pub. L. 111–13, §1405(1), substituted section catchline for former section catchline.
 
-Subsec. (a)(2) to (5). Pub. L. 111–13, §1405(2), substituted “cost of attendance or other educational expenses” for “cost of attendance” in par. (2), added par. (4), and redesignated former par. (4) as (5).
+Subsec. (a)(2) to (5). Pub. L. 111–13, §1405(2), substituted "cost of attendance or other educational expenses" for "cost of attendance" in par. (2), added par. (4), and redesignated former par. (4) as (5).
 
-Subsec. (b)(1). Pub. L. 111–13, §1405(3)(A), inserted “, an eligible individual under section 12602(a) of this title who served in a summer of service program and desires to apply that individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award,” after “the national service educational award of the individual” in introductory provisions.
+Subsec. (b)(1). Pub. L. 111–13, §1405(3)(A), inserted ", an eligible individual under section 12602(a) of this title who served in a summer of service program and desires to apply that individual's summer of serviceeducational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award," after "the national service educational award of the individual" in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 111–13, §1405(3)(B), inserted “, the summer of service educational award, or the silver scholar educational award, as applicable,” after “the national service educational award”.
+Subsec. (b)(2). Pub. L. 111–13, §1405(3)(B), inserted ", the summer of service educational award, or the silver scholar educational award, as applicable," after "the national service educational award".
 
-Subsec. (b)(5). Pub. L. 111–13, §1405(3)(C), inserted “, the summer of service educational award, or the silver scholar educational award, as applicable” after “the national service educational award”.
+Subsec. (b)(5). Pub. L. 111–13, §1405(3)(C), inserted ", the summer of service educational award, or the silver scholar educational award, as applicable" after "the national service educational award".
 
 Subsec. (b)(7)(C). Pub. L. 111–13, §1405(3)(D), added subpar. (C).
 
-Subsec. (c)(1). Pub. L. 111–13, §1405(4)(A), inserted “, an eligible individual under section 12602(a) of this title who desires to apply the individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award,” after “national service educational award”.
+Subsec. (c)(1). Pub. L. 111–13, §1405(4)(A), inserted ", an eligible individual under section 12602(a) of this title who desires to apply the individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award," after "national service educational award".
 
-Subsec. (c)(2)(A). Pub. L. 111–13, §1405(4)(B)(i), inserted “, summer of service educational award, or silver scholar educational award, as applicable,” after “national service educational award”.
+Subsec. (c)(2)(A). Pub. L. 111–13, §1405(4)(B)(i), inserted ", summer of service educational award, or silver scholar educational award, as applicable," after "national service educational award".
 
-Subsec. (c)(2)(C)(iii). Pub. L. 111–13, §1405(4)(B)(ii), inserted “, summer of service educational awards, or silver scholar educational awards, as applicable,” after “national service educational awards”.
+Subsec. (c)(2)(C)(iii). Pub. L. 111–13, §1405(4)(B)(ii), inserted ", summer of service educational awards, or silver scholar educational awards, as applicable," after "national service educational awards".
 
-Subsec. (c)(3). Pub. L. 111–13, §1405(4)(C), inserted “summer of service educational awards, or silver scholar educational awards” after “national service educational awards”.
+Subsec. (c)(3). Pub. L. 111–13, §1405(4)(C), inserted "summer of service educational awards, or silver scholar educational awards" after "national service educational awards".
 
-Subsec. (c)(5). Pub. L. 111–13, §1405(4)(D), inserted “, summer of service educational award, or silver scholar educational award, as applicable,” after “national service educational award” and “, additional approved summer of service positions, and additional approved silver scholar positions” before period at end.
+Subsec. (c)(5). Pub. L. 111–13, §1405(4)(D), inserted ", summer of service educational award, or silver scholar educational award, as applicable," after "national service educational award" and ", additional approved summer of service positions, and additional approved silver scholar positions" before period at end.
 
-Subsec. (c)(6). Pub. L. 111–13, §1405(4)(E)(i), inserted “, summer of service educational award, or silver scholar educational award” after “national service educational award” in introductory provisions.
+Subsec. (c)(6). Pub. L. 111–13, §1405(4)(E)(i), inserted ", summer of service educational award, or silver scholar educational award" after "national service educational award" in introductory provisions.
 
-Subsec. (c)(6)(A). Pub. L. 111–13, §1405(4)(E)(ii), inserted “and other educational expenses” after “cost of attendance”.
+Subsec. (c)(6)(A). Pub. L. 111–13, §1405(4)(E)(ii), inserted "and other educational expenses" after "cost of attendance".
 
-Subsec. (c)(6)(B). Pub. L. 111–13, §1405(4)(E)(iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “the sum of—
+Subsec. (c)(6)(B). Pub. L. 111–13, §1405(4)(E)(iii), added subpar. (B) and struck out former subpar. (B) which read as follows: "the sum of—
 
-&emsp;“(i) the student's estimated financial assistance for such period under part A of title IV of such Act (20 U.S.C. 1070 et seq.); and
+&emsp;"(i) the student's estimated financial assistance for such period under part A of title IV of such Act (20 U.S.C. 1070 et seq.); and
 
-&emsp;“(ii) the student's veterans’ education benefits, determined in accordance with section 480(c) of such Act (20 U.S.C. 1087vv(c)).”
+&emsp;"(ii) the student's veterans' education benefits, determined in accordance with section 480(c) of such Act (20 U.S.C. 1087vv(c))."
 
-Subsec. (d). Pub. L. 111–13, §1405(5), inserted “, summer of service educational awards, and silver scholar educational awards” after “national service educational awards”.
+Subsec. (d). Pub. L. 111–13, §1405(5), inserted ", summer of service educational awards, and silver scholar educational awards" after "national service educational awards".
 
-Subsec. (e). Pub. L. 111–13, §1405(6), substituted “subsection (b)(7)” for “subsection (b)(6)”.
+Subsec. (e). Pub. L. 111–13, §1405(6), substituted "subsection (b)(7)" for "subsection (b)(6)".
 
 Subsec. (f). Pub. L. 111–13, §1405(9), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Pub. L. 111–13, §1405(7), substituted “Chief Executive Officer” for “Director” and inserted “, summer of service educational award, or silver scholar educational award, as appropriate,” after “national service educational award”.
+Pub. L. 111–13, §1405(7), substituted "Chief Executive Officer" for "Director" and inserted ", summer of service educational award, or silver scholar educational award, as appropriate," after "national service educational award".
 
 Subsecs. (g), (h). Pub. L. 111–13, §1405(8), redesignated subsecs. (f) and (g) as (g) and (h), respectively.
 
-<b>1998</b>—Subsec. (g). Pub. L. 105–244 substituted “section 102 of the Higher Education Act of 1965” for “section 481(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a))”.
+<b>1998</b>—Subsec. (g). Pub. L. 105–244 substituted "section 102 of the Higher Education Act of 1965" for "section 481(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a))".
 
 #### Effective Date of 2009 Amendment
 

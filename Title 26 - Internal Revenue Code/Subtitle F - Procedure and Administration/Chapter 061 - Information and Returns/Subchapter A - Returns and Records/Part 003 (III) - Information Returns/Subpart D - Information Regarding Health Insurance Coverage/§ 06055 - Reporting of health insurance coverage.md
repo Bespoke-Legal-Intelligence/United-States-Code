@@ -52,11 +52,11 @@ Every person who provides minimum essential coverage to an individual during a c
 
 #### (d) Coverage provided by governmental units
 
-In the case of coverage provided by any governmental unit or any agency or instrumentality thereof, the officer or employee who enters into the agreement to provide such coverage (or the person appropriately designated for purposes of this section) shall make the returns and statements required by this section.
+In the case of coverage provided by any governmental unit or any agency or instrumentality thereof, the officer or employee who enters into the agreement to provide such coverage (orthe person appropriately designated for purposes of this section) shall make the returns and statements required by this section.
 
 #### (e) Minimum essential coverage
 
-For purposes of this section, the term “minimum essential coverage” has the meaning given such term by section 5000A(f).
+For purposes of this section, the term "minimum essential coverage" has the meaning given such term by section 5000A(f).
 
 (Added Pub. L. 111–148, title I, §1502(a), Mar. 23, 2010, 124 Stat. 250.)
 
@@ -66,5 +66,5 @@ Sections 1311, 1402, and 1412 of the Patient Protection and Affordable Care Act,
 
 #### Effective Date
 
-Pub. L. 111–148, title I, §1502(e), Mar. 23, 2010, 124 Stat. 252, provided that: “The amendments made by this section \[enacting this section and section 18092 of Title 42, The Public Health and Welfare, and amending section 6724 of this title\] shall apply to calendar years beginning after 2013.”
+Pub. L. 111–148, title I, §1502(e), Mar. 23, 2010, 124 Stat. 252, provided that: "The amendments made by this section \[enacting this section and section 18092 of Title 42, The Public Health and Welfare, and amending section 6724 of this title\] shall apply to calendar years beginning after 2013."
 

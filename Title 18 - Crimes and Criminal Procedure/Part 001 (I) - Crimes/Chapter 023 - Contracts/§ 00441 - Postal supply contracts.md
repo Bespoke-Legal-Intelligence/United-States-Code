@@ -10,15 +10,15 @@ Whoever violates this section shall be fined under this title <sup>1</sup> or i
 
 Based on section 808 of title 39, U.S.C., 1940 ed., The Postal Service (Aug. 24, 1912, ch. 389, §2, 37 Stat. 553).
 
-Minimum punishment provisions “less than $100 nor” and “less than three months nor” were omitted to conform to policy followed by codifiers of 1909 Criminal Code.
+Minimum punishment provisions "less than $100 nor" and "less than three months nor" were omitted to conform to policy followed by codifiers of 1909 Criminal Code.
 
 Changes in phraseology were also made.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $10,000”, was executed by making the substitution for “fined not more than $5,000” in second par., to reflect the probable intent of Congress.
+<b>1994</b>—Pub. L. 103–322, which directed the amendment of this section by substituting "fined under this title" for "fined not more than $10,000", was executed by making the substitution for "fined not more than $5,000" in second par., to reflect the probable intent of Congress.
 
-<b>1970</b>—Pub. L. 91–375 struck out “Post Office Department or the” before “Postal Service”.
+<b>1970</b>—Pub. L. 91–375 struck out "Post Office Department or the" before "Postal Service".
 
 #### Effective Date of 1970 Amendment
 

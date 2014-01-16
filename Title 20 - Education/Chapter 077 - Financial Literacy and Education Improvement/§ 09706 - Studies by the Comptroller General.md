@@ -8,7 +8,7 @@ Not later than 3 years after December 4, 2003, the Comptroller General of the Un
 
 #### (1) Study required
 
-&emsp;The Comptroller General of the United States shall conduct a study to assess the extent of consumers’ knowledge and awareness of credit reports, credit scores, and the dispute resolution process, and on methods for improving financial literacy among consumers.
+&emsp;The Comptroller General of the United States shall conduct a study to assess the extent of consumers' knowledge and awareness of credit reports, credit scores, and the dispute resolution process, and on methods for improving financial literacy among consumers.
 
 #### (2) Factors to be included
 
@@ -16,9 +16,9 @@ Not later than 3 years after December 4, 2003, the Comptroller General of the Un
 
 &emsp;&emsp;(A) The number of consumers who view their credit reports.
 
-&emsp;&emsp;(B) Under what conditions and for what purposes do consumers primarily obtain a copy of their consumer report (such as for the purpose of ensuring the completeness and accuracy of the contents, to protect against fraud, in response to an adverse action based on the report, or in response to suspected identity theft) and approximately what percentage of the total number of consumers who obtain a copy of their consumer report do so for each such primary purpose.
+&emsp;&emsp;(B) Under what conditions and for what purposes do consumers primarily obtain acopy of their consumer report (such as for the purpose of ensuring the completeness and accuracy of the contents, to protect against fraud, in response to an adverse action based on the report, or in response to suspected identity theft) and approximately what percentage of the total number of consumers who obtain a copy of their consumer report do so for each such primary purpose.
 
-&emsp;&emsp;(C) The extent of consumers’ knowledge of the data collection process.
+&emsp;&emsp;(C) The extent of consumers' knowledge of the data collection process.
 
 &emsp;&emsp;(D) The extent to which consumers know how to get a copy of a consumer report.
 

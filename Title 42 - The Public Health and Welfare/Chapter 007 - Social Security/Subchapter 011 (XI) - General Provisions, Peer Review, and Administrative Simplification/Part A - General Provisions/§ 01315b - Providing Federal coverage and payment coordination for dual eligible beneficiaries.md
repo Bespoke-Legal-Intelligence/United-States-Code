@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than March 1, 2010, the Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall establish a Federal Coordinated Health Care Office.
+&emsp;Not later than March 1, 2010, the Secretary of Health and Human Services (in this section referred to as the "Secretary") shall establish a Federal Coordinated Health Care Office.
 
 #### (2) Establishment and reporting to CMS administrator
 
@@ -32,7 +32,7 @@ The goals of the Federal Coordinated Health Care Office are as follows:
 
 &emsp;(3) Improving the quality of health care and long-term services for dual eligible individuals.
 
-&emsp;(4) Increasing dual eligible individuals’ understanding of and satisfaction with coverage under the Medicare and Medicaid programs.
+&emsp;(4) Increasing dual eligible individuals' understanding of and satisfaction with coverage under the Medicare and Medicaid programs.
 
 &emsp;(5) Eliminating regulatory conflicts between rules under the Medicare and Medicaid programs.
 
@@ -46,7 +46,7 @@ The goals of the Federal Coordinated Health Care Office are as follows:
 
 The specific responsibilities of the Federal Coordinated Health Care Office are as follows:
 
-&emsp;(1) Providing States, specialized MA plans for special needs individuals (as defined in section 1859(b)(6) of the Social Security Act (42 U.S.C. 1395w–28(b)(6))), physicians and other relevant entities or individuals with the education and tools necessary for developing programs that align benefits under the Medicare and Medicaid programs for dual eligible individuals.
+&emsp;(1) Providing States, specialized MA plans for special needs individuals (as defined in section 1859(b)(6) of the Social Security Act (42 U.S.C. 1395w–28(b)(6))), physicians and other relevant entities or individuals with the education and tools necessary for developing programs that align benefits under the Medicareand Medicaid programs for dual eligible individuals.
 
 &emsp;(2) Supporting State efforts to coordinate and align acute care and long-term care services for dual eligible individuals with other items and services furnished under the Medicare program.
 
@@ -62,7 +62,7 @@ The Secretary shall, as part of the budget transmitted under section 1105(a) of 
 
 #### (f) Dual eligible individual defined
 
-In this section, the term “dual eligible individual” means an individual who is entitled to, or enrolled for, benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\], or enrolled for benefits under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\], and is eligible for medical assistance under a State plan under title XIX of such Act or under a waiver of such plan.
+In this section, the term "dual eligible individual" means an individual who is entitled to, or enrolled for, benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\], or enrolled for benefits under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\], and is eligible for medical assistance under a State plan under title XIX of such Act or under a waiver of such plan.
 
 (Pub. L. 111–148, title II, §2602, Mar. 23, 2010, 124 Stat. 315.)
 
@@ -76,7 +76,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subsection (c).”</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subsection (c)."</i>
 
 <i><sup>3</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

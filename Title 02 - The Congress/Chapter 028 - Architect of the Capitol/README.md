@@ -70,6 +70,8 @@
 | [1850\.](Subchapter%20003%20%28III%29%20-%20Personnel/Part%20B%20-%20Compensation/%C2%A7%2001850%20-%20Compensation%20of%20registered%20nurses.md) | Compensation of registered nurses. |
 | [1851\.](Subchapter%20003%20%28III%29%20-%20Personnel/Part%20B%20-%20Compensation/%C2%A7%2001851%20-%20Gratuities%20for%20survivors%20of%20deceased%20employees.md) | Gratuities for survivors of deceased employees. |
 | [1852\.](Subchapter%20003%20%28III%29%20-%20Personnel/Part%20B%20-%20Compensation/%C2%A7%2001852%20-%20Withholding%20and%20remittance%20of%20State%20income%20tax.md) | Withholding and remittance of State income tax. |
+| [1853\.](Subchapter%20003%20%28III%29%20-%20Personnel/Part%20B%20-%20Compensation/%C2%A7%2001853%20-%20Exemption%20of%20officers%20and%20employees%20of%20Architect%20of%20Capitol%20from%20certain%20Federal%20pay%20provisions.md) | Exemption of officers and employees of Architect of Capitol from certain Federal pay provisions. |
+| [1854\.](Subchapter%20003%20%28III%29%20-%20Personnel/Part%20B%20-%20Compensation/%C2%A7%2001854%20-%20Overtime%20compensation%20for%20certain%20employees%20of%20Architect%20of%20Capitol.md) | Overtime compensation for certain employees of Architect of Capitol. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -88,6 +90,7 @@
 | [1868\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001868%20-%20Semiannual%20compilation%20and%20report%20of%20expenditures.md) | Semiannual compilation and report of expenditures. |
 | [1869\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001869%20-%20Advance%20payments.md) | Advance payments. |
 | [1870\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001870%20-%20House%20Historic%20Buildings%20Revitalization%20Trust%20Fund.md) | House Historic Buildings Revitalization Trust Fund. |
+| [1871\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001871%20-%20Expired%20appropriations%20available%20for%20deposit%20into%20Employees%E2%80%99%20Compensation%20Fund.md) | Expired appropriations available for deposit into Employees’ Compensation Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

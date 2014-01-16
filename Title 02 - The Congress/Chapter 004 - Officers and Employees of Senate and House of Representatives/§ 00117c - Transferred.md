@@ -1,0 +1,6 @@
+### §117c. Transferred
+
+#### Codification
+
+Section 117c was editorially reclassified as section 6632 of this title.
+

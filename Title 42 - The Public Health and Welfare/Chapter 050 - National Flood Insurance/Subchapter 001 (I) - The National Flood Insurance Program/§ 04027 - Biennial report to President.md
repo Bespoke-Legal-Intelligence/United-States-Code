@@ -12,23 +12,23 @@ The Administrator shall include, as part of the biennial report submitted under 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (b), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director” in subsecs. (a) and (b).
+<b>2012</b>—Pub. L. 112–141 substituted "Administrator" for "Director" in subsecs. (a) and (b).
 
 <b>1994</b>—Pub. L. 103–325 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary”.
+<b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary".
 
-<b>1980</b>—Pub. L. 96–470 substituted “biennially submit” for “include” and struck out “in the annual report” after “under this chapter” and “required by section 3536 of this title” after “the Congress”.
+<b>1980</b>—Pub. L. 96–470 substituted "biennially submit" for "include" and struck out "in the annual report" after "under this chapter" and "required by section 3536 of this title" after "the Congress".
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

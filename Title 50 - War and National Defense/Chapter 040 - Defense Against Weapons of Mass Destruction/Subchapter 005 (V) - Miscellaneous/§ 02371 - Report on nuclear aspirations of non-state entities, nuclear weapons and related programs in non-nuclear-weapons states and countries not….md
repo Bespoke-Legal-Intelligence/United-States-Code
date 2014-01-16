@@ -4,7 +4,7 @@
 
 The Director of National Intelligence shall biennially submit to the congressional defense committees, the Select Committee on Intelligence of the Senate, the Permanent Select Committee on Intelligence of the House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report—
 
-&emsp;(1) on the nuclear weapons programs and any related programs of countries that are non-nuclear-weapons state parties to the Treaty on Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the “Nuclear Non-Proliferation Treaty”) and countries that are not parties to the Treaty;
+&emsp;(1) on the nuclear weapons programs and any related programs of countries that are non-nuclear-weapons state parties to the Treaty on Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the "Nuclear Non-Proliferation Treaty") and countries that are not parties to the Treaty;
 
 &emsp;(2) on the nuclear weapons aspirations of such non-state entities as the Director considers appropriate to include in the report; and
 
@@ -78,7 +78,7 @@ In this section:
 
 #### (1) Foreign person
 
-&emsp;The term “foreign person” means any of the following:
+&emsp;The term "foreign person" means any of the following:
 
 &emsp;&emsp;(A) A natural person who is not a citizen of the United States.
 
@@ -90,7 +90,7 @@ In this section:
 
 #### (2) Country of proliferation concern
 
-&emsp;The term “country of proliferation concern” means any country identified by the Director of Central Intelligence as having engaged in the acquisition of dual-use and other technology useful for the development or production of weapons of mass destruction (including nuclear weapons, chemical weapons, and biological weapons) or advanced conventional munitions—
+&emsp;The term "country of proliferation concern" means any country identified by the Director of Central Intelligence as having engaged in the acquisition of dual-use and other technology useful for the development or production of weapons of mass destruction (including nuclear weapons, chemical weapons, and biological weapons) or advanced conventional munitions—
 
 &emsp;&emsp;(A) in the most recent report under section 2366 <sup>2</sup> of this title; or
 
@@ -110,7 +110,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–81 substituted “the Permanent” for “and the Permanent” and inserted “, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives” before “a report” in introductory provisions.
+<b>2011</b>—Subsec. (a). Pub. L. 112–81 substituted "the Permanent" for "and the Permanent" and inserted ", the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives" before "a report" in introductory provisions.
 
 Subsec. (f). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 111–84, §1055(f). See Codification note above.
 
@@ -118,11 +118,11 @@ Subsec. (f). Pub. L. 111–383 made technical amendment to directory language of
 
 Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(13) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
 
-#### “Congressional Defense Committees” Defined
+#### "Congressional Defense Committees" Defined
 
 Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 111–84, 123 Stat. 2208. See note under section 101 of Title 10, Armed Forces.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “A”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "A".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

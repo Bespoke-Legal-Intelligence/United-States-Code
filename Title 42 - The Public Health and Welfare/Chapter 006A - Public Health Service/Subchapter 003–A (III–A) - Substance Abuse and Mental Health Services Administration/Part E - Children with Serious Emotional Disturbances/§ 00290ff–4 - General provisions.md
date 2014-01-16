@@ -32,17 +32,17 @@ The period during which payments are made to a public entity from a grant under 
 
 For purposes of this part:
 
-&emsp;(1) The term “child” means an individual not more than 21 years of age.
+&emsp;(1) The term "child" means an individual not more than 21 years of age.
 
-&emsp;(2) The term “family”, with respect to a child provided access to a system of care under section 290ff–1(a) of this title, means—
+&emsp;(2) The term "family", with respect to a child provided access to a system of care under section 290ff–1(a) of this title, means—
 
 &emsp;&emsp;(A) the legal guardian of the child; and
 
 &emsp;&emsp;(B) as appropriate regarding mental health services for the child, the parents of the child (biological or adoptive, as the case may be) and any foster parents of the child.
 
-&emsp;(3) The term “funding agreement”, with respect to a grant under section 290ff(a) of this title to a public entity, means that the Secretary may make such a grant only if the public entity makes the agreement involved.
+&emsp;(3) The term "funding agreement", with respect to a grant under section 290ff(a) of this title to a public entity, means that the Secretary may make such a grant only if the public entity makes the agreement involved.
 
-&emsp;(4) The term “serious emotional disturbance” includes, with respect to a child, any child who has a serious emotional disorder, a serious behavioral disorder, or a serious mental disorder.
+&emsp;(4) The term "serious emotional disturbance" includes, with respect to a child, any child who has a serious emotional disorder, a serious behavioral disorder, or a serious mental disorder.
 
 #### (e) Rule of construction
 
@@ -66,13 +66,13 @@ The Individuals with Disabilities Education Act, referred to in subsec. (e), is 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–310, §3105(c), substituted “6 fiscal years” for “5 fiscal years”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–310, §3105(c), substituted "6 fiscal years" for "5 fiscal years".
 
-Subsec. (f)(1). Pub. L. 106–310, §3105(d), substituted “2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “1993, and such sums as may be necessary for fiscal year 1994”.
+Subsec. (f)(1). Pub. L. 106–310, §3105(d), substituted "2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003" for "1993, and such sums as may be necessary for fiscal year 1994".
 
-<b>1993</b>—Subsec. (c)(1), (d), (f)(1). Pub. L. 103–43, §2017(2)(A), (B), (C)(i), substituted “this part” for “this subpart”.
+<b>1993</b>—Subsec. (c)(1), (d), (f)(1). Pub. L. 103–43, §2017(2)(A), (B), (C)(i), substituted "this part" for "this subpart".
 
-Subsec. (f)(2). Pub. L. 103–43, §2017(2)(C)(ii), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall make available not less than $3,000,000 for the purpose of carrying out subsection (b) of this section.”
+Subsec. (f)(2). Pub. L. 103–43, §2017(2)(C)(ii), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall make available not less than $3,000,000 for the purpose of carrying out subsection (b) of this section."
 
 #### Effective Date
 

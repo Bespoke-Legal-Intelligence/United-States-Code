@@ -4,7 +4,7 @@
 
 Except as provided in subsection (d) <sup>1</sup> of this section, no later than February 1 of each year, the President shall transmit to the appropriate congressional committees, as a part of the annual presentation materials for security assistance programs proposed for the next fiscal year, a report which sets forth—
 
-&emsp;(1) an arms sales proposal covering all sales and licensed commercial exports under thischapter, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title, of major weapons or weapons-related defense equipment for $7,000,000 or more, or of any other weapons or weapons-related defense equipment for $25,000,000 or more, which are considered eligible for approval during the current calendar year, together with an indication of which sales and licensed commercial exports are deemed most likely actually to result in the issuance of a letter of offer or of an export license during such year;
+&emsp;(1) an arms sales proposal covering all sales and licensed commercial exports under this chapter, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title, of major weapons or weapons-related defense equipment for $7,000,000 or more, or of any other weapons or weapons-related defense equipment for $25,000,000 or more, which are considered eligible for approval during the current calendar year, together with an indication of which sales and licensed commercial exports are deemed most likely actually to result in the issuance of a letter of offer or of an export license during such year;
 
 &emsp;(2) an estimate of the total amount of sales and licensed commercial exports, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title, expected to be made to each foreign nation from the United States;
 
@@ -44,23 +44,23 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 #### (b) Congressional request for additional information
 
-Not later than thirty days following the receipt of a request made by any of the congressional committees described in subsection (e) ofthis section for additional information with respect to any information submitted pursuant to subsection (a) of this section, the President shall submit such information to such committee.
+Not later than thirty days following the receipt of a request made by any of the congressional committees described in subsection (e) of this section for additional information with respect to any information submitted pursuant to subsection (a) of this section, the President shall submit such information to such committee.
 
 #### (c) Submission of information in unclassified form or classified addendum with unclassified summary
 
 The President shall make every effort to submit all of the information required by subsection (a) or (b) of this section wholly in unclassified form. Whenever the President submits any such information in classified form, he shall submit such classified information in an addendum and shall also submit simultaneously a detailed summary, in unclassified form, of such classified information.
 
-#### (d) <sup>2</sup> “Cash flow financing” defined
+#### (d) <sup>2</sup> "Cash flow financing" defined
 
-For the purposes of subsection (a)(5)(B) of this section, the term “cash flow financing” means the dollar amount of the difference between the total estimated price of a Letter of Offer and Acceptance or other purchase agreement that has been approved for financing under this chapter or under section 503(a)(3) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311(a)(3)\] and the amount of the financing that has been approved therefor; <sup>3</sup>
+For the purposes of subsection (a)(5)(B) of this section, the term "cash flow financing" means the dollar amount of the difference between the total estimated price of a Letter of Offer and Acceptance or other purchase agreement that has been approved for financing under this chapter or under section 503(a)(3) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311(a)(3)\] and the amount of the financing that has been approved therefor; <sup>3</sup>
 
 #### (d) <sup>2</sup> Transmission of information to Congress
 
 The information required by subsection (a)(4) of this section shall be transmitted to the Congress no later than April 1 of each year.
 
-#### (e) “Appropriate congressional committees” defined
+#### (e) "Appropriate congressional committees" defined
 
-As used in this section, the term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
+As used in this section, the term "appropriate congressional committees" means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
 
 (Pub. L. 90–629, ch. 2, §25, as added Pub. L. 94–329, title II, §209(a), June 30, 1976, 90 Stat. 739; amended Pub. L. 95–384, §18, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §§13, 14, Oct. 29, 1979, 93 Stat. 706; Pub. L. 96–533, title I, §§104(c), 107(d), Dec. 16, 1980, 94 Stat. 3133, 3137; Pub. L. 97–113, title VII, §732, Dec. 29, 1981, 95 Stat. 1557; Pub. L. 99–83, title I, §§112, 113, Aug. 8, 1985, 99 Stat. 198; Pub. L. 104–164, title I, §102(d), July 21, 1996, 110 Stat. 1423; Pub. L. 105–118, title V, §519, Nov. 26, 1997, 111 Stat. 2411; Pub. L. 107–228, div. B, title XII, §1232, Sept. 30, 2002, 116 Stat. 1433; Pub. L. 111–266, title I, §104(c), Oct. 8, 2010, 124 Stat. 2799.)
 
@@ -68,7 +68,7 @@ As used in this section, the term “appropriate congressional committees” mea
 
 Subsection (d) of this section, referred to in subsec. (a), preceding par. (1), probably means the subsec. (d) added by section 113(2) of Pub. L. 99–83, relating to transmittal of information to Congress.
 
-This chapter, referred to in subsecs. (a)(1), (5)(B), (6) and (d), was in the original “this Act”, and this chapter, referred to in subsec. (a)(11), was in the original “the Arms Export Control Act”, both of which mean Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (5)(B), (6) and (d), was in the original "this Act", and this chapter, referred to in subsec. (a)(11), was in the original "the Arms Export Control Act", both of which mean Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 Subsection (d) of this section, referred to in subsec. (a)(5)(B), probably means the subsec. (d) added by section 112(b) of Pub. L. 99–83, defining cash flow financing.
 
@@ -76,25 +76,25 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(11), is Pub. L. 8
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–266, §104(c)(1), inserted “, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title,” after “commercial exports under this chapter”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–266, §104(c)(1), inserted ", as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title," after "commercial exports under this chapter".
 
-Subsec. (a)(2). Pub. L. 111–266, §104(c)(2), inserted “, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title,” after “commercial exports”.
+Subsec. (a)(2). Pub. L. 111–266, §104(c)(2), inserted ", as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title," after "commercial exports".
 
 <b>2002</b>—Subsec. (a)(13), (14). Pub. L. 107–228 added par. (13) and redesignated former par. (13) as (14).
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–118, §519(1), substituted “appropriate congressional committees” for “Congress” in introductory provisions.
+<b>1997</b>—Subsec. (a). Pub. L. 105–118, §519(1), substituted "appropriate congressional committees" for "Congress" in introductory provisions.
 
-Subsec. (b). Pub. L. 105–118, §519(2), substituted “any of the congressional committees described in subsection (e) of this section” for “the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives”.
+Subsec. (b). Pub. L. 105–118, §519(2), substituted "any of the congressional committees described in subsection (e) of this section" for "the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives".
 
 Subsec. (e). Pub. L. 105–118, §519(3), added subsec. (e).
 
 <b>1996</b>—Subsec. (a)(12), (13). Pub. L. 104–164 added par. (12) and redesignated former par. (12) as (13).
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–83, §113(1), substituted “Except as provided in subsection (d) of this section, no” for “No”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–83, §113(1), substituted "Except as provided in subsection (d) of this section, no" for "No".
 
 Subsec. (a)(5). Pub. L. 99–83, §112(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (d). Pub. L. 99–83, §112(b), added subsec. (d) defining “cash flow financing”.
+Subsec. (d). Pub. L. 99–83, §112(b), added subsec. (d) defining "cash flow financing".
 
 Pub. L. 99–83, §113(2), added subsec. (d) relating to transmittal of information to Congress.
 
@@ -106,7 +106,7 @@ Subsec. (a)(2). Pub. L. 97–113 added par. (2). Former par. (2), which required
 
 Subsec. (a)(3). Pub. L. 97–113 added par. (3) which incorporated provisions of former par. (1) requiring the report to contain an estimate of amounts of expected sales to each country under sections 2761 and 2762 of this title, including detailed explanations of foreign policy and United States national security considerations in expected sales to each country, and (5) requiring inclusion of an arms control impact statement for each purchasing country, covering (A) an analysis of the relationship between expected sales to each country and arms control efforts relating to that country, and (B) the impact of such expected sales on the stability of the region that included the purchasing country. Former par. (3) redesignated (7).
 
-Subsec. (a)(4). Pub. L. 97–113 added par. (4) which incorporated provisions of former subsec. (e), which had required executive estimates of international arms traffic, including estimates on an annual basis of the sale and delivery of weapons and weapons-related defense equipment by all major arms suppliers to allmajor recipient countries during the preceding three years. Former par. (4) covered in par. (8).
+Subsec. (a)(4). Pub. L. 97–113 added par. (4) which incorporated provisions of former subsec. (e), which hadrequired executive estimates of international arms traffic, including estimates on an annual basis of the sale and delivery of weapons and weapons-related defense equipment by all major arms suppliers to all major recipient countries during the preceding three years. Former par. (4) covered in par. (8).
 
 Subsec. (a)(5). Pub. L. 97–113 added par. (5) which incorporated provisions of former par. (2) requiring the report to contain an estimate of amount of credits and guaranties expected to be extended to each country under sections 2763 and 2764 of this title. Former par. (5) covered in par. (3).
 
@@ -118,9 +118,9 @@ Subsec. (a)(8). Pub. L. 97–113 added par. (8), which incorporated provisions o
 
 Subsecs. (a)(9) to (12). Pub. L. 97–113 added pars. (9) to (12).
 
-Subsec. (b). Pub. L. 97–113 substituted “Committee on Foreign Affairs” for “Committee on International Relations”, and “with respect to any information” for “with respect to any estimate”.
+Subsec. (b). Pub. L. 97–113 substituted "Committee on Foreign Affairs" for "Committee on International Relations", and "with respect to any information" for "with respect to any estimate".
 
-Subsec. (c). Pub. L. 97–113 substituted “Whenever the President” for “In the event the President”.
+Subsec. (c). Pub. L. 97–113 substituted "Whenever the President" for "In the event the President".
 
 Subsec. (d). Pub. L. 97–113 incorporated in subsec. (a) introductory text and subsec. (a)(1), provisions of former subsec. (d)(1) which had required transmission to the Speaker of the House and the chairman of the Senate Foreign Relations Committee the Arms Sales Proposal covering sales and licensed commercials exports under this chapter (other than such transactions to members of North Atlantic Treaty Organization, Japan, Australia, and New Zealand) of major weapons or weapons-related defense equipment for $7,000,000 or more, or of any other weapons or similar equipment for $25,000,000 or more, which were eligible for approval during fiscal year beginning October 1 of such year and had required identification in the reports of sales and licensed commercial exports deemed most likely actually to result in issuance of a letter of offer or of an export license during such fiscal year, and subsec. (d)(2) which had required Presidential six month written notifications of Congress of any change in the Arms Sales Proposal for such fiscal year, together with reasons therefor.
 
@@ -128,13 +128,13 @@ Subsec. (e). Pub. L. 97–113 incorporated, in subsec. (a) introductory text and
 
 <b>1980</b>—Subsec. (a)(3) to (5). Pub. L. 96–533, §104(c), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-Subsec. (d)(1). Pub. L. 96–533, §107(d), included coverage of licensed commercial exports and substituted “letter of offer or of an export license” for “letter of offer”.
+Subsec. (d)(1). Pub. L. 96–533, §107(d), included coverage of licensed commercial exports and substituted "letter of offer or of an export license" for "letter of offer".
 
-<b>1979</b>—Subsec. (d). Pub. L. 96–92, §13(1)–(4), designated existing provision as par. (1), substituted “major weapons or weapons-related defense equipment” for “major defense equipment” and “weapons or weapons-related defense equipment” for “defense articles or defense services”, required identification of sales likely to result in issuance of a letter of offer in the furnished reports, and added par. (2).
+<b>1979</b>—Subsec. (d). Pub. L. 96–92, §13(1)–(4), designated existing provision as par. (1), substituted "major weapons or weapons-related defense equipment" for "major defense equipment" and "weapons or weapons-related defense equipment" for "defense articles or defense services", required identification of sales likely to result in issuance of a letter of offer in the furnished reports, and added par. (2).
 
 Subsec. (e). Pub. L. 96–92, §14, added subsec. (e).
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–384, §18(b), substituted “subsection (a) or (b) of this section” for “this section”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–384, §18(b), substituted "subsection (a) or (b) of this section" for "this section".
 
 Subsec. (d). Pub. L. 95–384, §18(a), added subsec. (d).
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State, with Secretary of Defense and Director of Arms Control and Disarmament Agency required to assist in preparation of materials for presentation to Congress, by section 1(g) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of functions of the President under this section, with certain conditions, see section 1(g) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,11 +4,11 @@ As used in this part:
 
 #### (1) Children
 
-&emsp;The term “children” means individuals who have not attained the age of 18.
+&emsp;The term "children" means individuals who have not attained the age of 18.
 
 #### (2) Children's services
 
-&emsp;The term “children's services” means the provision on a routine or regular basis of health, day care, education, or library services—
+&emsp;The term "children's services" means the provision on a routine or regular basis of health, day care, education, or library services—
 
 &emsp;&emsp;(A) that are funded, after March 31, 1994, directly by the Federal Government or through State or local governments, by Federal grant, loan, loan guarantee, or contract programs—
 
@@ -22,15 +22,15 @@ As used in this part:
 
 #### (3) Person
 
-&emsp;The term “person” means any State or local subdivision thereof, agency of such State or subdivision, corporation, or partnership that owns or operates or otherwise controls and provides children's services or any individual who owns or operates or otherwise controls and provides such services.
+&emsp;The term "person" means any State or local subdivision thereof, agency of such State or subdivision, corporation, or partnership that owns or operates or otherwise controls and provides children's services or any individual who owns or operates or otherwise controls and provides such services.
 
 #### (4) Indoor facility
 
-&emsp;The term “indoor facility” means a building that is enclosed.
+&emsp;The term "indoor facility" means a building that is enclosed.
 
 #### (5) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services.
 
 (Pub. L. 103–227, title X, §1042, Mar. 31, 1994, 108 Stat. 271.)
 
@@ -38,7 +38,7 @@ As used in this part:
 
 The Child Nutrition Act of 1966, referred to in par. (2), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
-The Social Security Act, referred to in par. (2)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (2)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act areclassified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-This subchapter, referred to in par. (2)(B), was in the original “this title”, meaning title X of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 265, which enacted this subchapter and section 3351 of this title, amended sections 1107, 1232h, 2421, 3381 to 3384, and 3386 of this title, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, and enacted provisions set out as notes under section 2701 of this title and section 11901 of Title 42.
+This subchapter, referred to in par. (2)(B), was in the original "this title", meaning title X of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 265, which enacted this subchapter and section 3351 of this title, amended sections 1107, 1232h, 2421, 3381 to 3384, and 3386 of this title, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, and enacted provisions set out as notes under section 2701 of this title and section 11901 of Title 42.
 

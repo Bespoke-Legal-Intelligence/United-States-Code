@@ -6,7 +6,7 @@ No savings association shall carry on any sale, plan, or practices, or any adver
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “a Federal banking agency” for “the Director”.
+<b>2010</b>—Pub. L. 111–203 substituted "a Federal banking agency" for "the Director".
 
 #### Effective Date of 2010 Amendment
 

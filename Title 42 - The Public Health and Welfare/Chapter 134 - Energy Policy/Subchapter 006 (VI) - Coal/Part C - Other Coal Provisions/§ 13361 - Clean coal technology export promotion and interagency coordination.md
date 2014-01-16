@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There shall be established within the Trade Promotion Coordinating Committee (established by the President on May 23, 1990) a Clean Coal Technology Subgroup (in this part referred to as the “CCT Subgroup”) to focus interagency efforts on clean coal technologies. The CCT Subgroup shall seek to expand the export and use of clean coal technologies, particularly in those countries which can benefit from gains in the efficiency of, and the control of environmental emissions from, coal utilization.
+There shall be established within the Trade Promotion Coordinating Committee (established by the President on May 23, 1990) a Clean Coal Technology Subgroup (in this part referred to as the "CCT Subgroup") to focus interagency efforts on clean coal technologies. The CCT Subgroup shall seek to expand the export and use of clean coal technologies, particularly in those countries which can benefit from gains in the efficiency of, and the control of environmental emissions from, coal utilization.
 
 #### (b) Membership
 
@@ -50,7 +50,7 @@ The Secretary, acting through the CCT Subgroup, shall—
 
 (2) The Secretary, acting through the CCT Subgroup, shall assess and prioritize foreign markets that have the most potential for the export of clean coal technologies that are developed, manufactured, or controlled by United States firms. Such assessment shall include—
 
-&emsp;(A) an analysis of the financing requirements for clean coal technology projects in foreign countries and whether such projectsare dependent upon financial assistance from foreign countries or multilateral institutions;
+&emsp;(A) an analysis of the financing requirements for clean coal technology projects in foreign countries and whether such projects are dependent upon financial assistance from foreign countries or multilateral institutions;
 
 &emsp;(B) the availability of other fuel or energy resources that may be available to meet the energy requirements intended to be met by the clean coal technology projects;
 
@@ -74,7 +74,7 @@ Within 180 days after the Secretary submits the report to the Congress as requir
 
 #### References in Text
 
-This part, referred to in subsec. (a), was in the original “this subtitle” meaning subtitle C of title XIII of Pub. L. 102–486, which enacted this part and provisions set out as a note under section 824a–3 of Title 16, Conservation.
+This part, referred to in subsec. (a), was in the original "this subtitle" meaning subtitle C of title XIII of Pub. L. 102–486, which enacted this part and provisions set out as a note under section 824a–3 of Title 16, Conservation.
 
 Section 409 of Public Law 101–549, referred to in subsec. (f), is section 409 of Pub. L. 101–549, title IV, Nov. 15, 1990, 104 Stat. 2634, which directed the Secretary of Energy, in consultation with the Secretary of Commerce, to submit a report to Congress within one year of November 15, 1990, respecting clean coal technology programs, and which is not classified to the Code.
 

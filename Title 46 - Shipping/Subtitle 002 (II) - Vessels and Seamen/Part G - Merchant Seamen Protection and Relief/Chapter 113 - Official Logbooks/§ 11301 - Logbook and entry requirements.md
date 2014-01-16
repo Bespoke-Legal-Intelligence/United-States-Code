@@ -48,7 +48,7 @@ Section 11301 requires United States vessels on certain types of voyages to have
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "100 gross tons".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–557 amended subsec. (a) generally, which prior to amendment read as follows: “A vessel of the United States on a voyage between a port in the United States and a port in a foreign country, and a vessel of the United States of at least 75 gross tons on a voyage between a port of the United States on the Atlantic Ocean and a port of the United States on the Pacific Ocean, shall have an official logbook.”
+<b>1984</b>—Subsec. (a). Pub. L. 98–557 amended subsec. (a) generally, which prior to amendment read as follows: "A vessel of the United States on a voyage between a port in the United States and a port in a foreign country, and a vessel of the United States of at least 75 gross tons on a voyage between a port of the United States on the Atlantic Ocean and a port of the United States on the Pacific Ocean, shall have an official logbook."
 

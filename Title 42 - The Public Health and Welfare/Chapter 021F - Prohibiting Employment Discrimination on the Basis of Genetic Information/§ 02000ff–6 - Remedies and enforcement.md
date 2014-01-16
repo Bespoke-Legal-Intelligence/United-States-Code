@@ -8,11 +8,11 @@
 
 #### (2) Costs and fees
 
-&emsp;The powers, remedies, and procedures provided in subsections (b) and (c) of section 1988 of this title,<sup>1</sup> shall be powers, remedies, and procedures this chapter provides to the Commission, the Attorney General, or any person, alleging such a practice.
+&emsp;The powers, remedies, and procedures provided in subsections (b) and (c) of section 1988of this title,<sup>1</sup> shall be powers, remedies, and procedures this chapter provides to the Commission, the Attorney General, or any person, alleging such a practice.
 
 #### (3) Damages
 
-&emsp;The powers, remedies, and procedures provided in section 1981a of this title, includingthe limitations contained in subsection (b)(3) of such section 1981a, shall be powers, remedies, and procedures this chapter provides to the Commission, the Attorney General, or any person, alleging such a practice (not an employment practice specifically excluded from coverage under section 1981a(a)(1) of this title).
+&emsp;The powers, remedies, and procedures provided in section 1981a of this title, including the limitations contained in subsection (b)(3) of such section 1981a, shall be powers, remedies, and procedures this chapter provides to the Commission, the Attorney General, or any person, alleging such a practice (not an employment practice specifically excluded from coverage under section 1981a(a)(1) of this title).
 
 #### (b) Employees covered by Government Employee Rights Act of 1991
 
@@ -68,7 +68,7 @@
 
 #### (2) Costs and fees
 
-&emsp;The powers, remedies, and procedures provided in subsections (b) and (c) of section 1988of this title,<sup>1</sup> shall be powers, remedies, and procedures this chapter provides to the Commission, the Attorney General, the Librarian of Congress, or any person, alleging such a practice.
+&emsp;The powers, remedies, and procedures provided in subsections (b) and (c) of section 1988 of this title,<sup>1</sup> shall be powers, remedies, and procedures this chapter provides to the Commission, the Attorney General, the Librarian of Congress, or any person, alleging such a practice.
 
 #### (3) Damages
 
@@ -80,7 +80,7 @@ No person shall discriminate against any individual because such individual has 
 
 #### (g) Definition
 
-In this section, the term “Commission” means the Equal Employment Opportunity Commission.
+In this section, the term "Commission" means the Equal Employment Opportunity Commission.
 
 (Pub. L. 110–233, title II, §207, May 21, 2008, 122 Stat. 914.)
 

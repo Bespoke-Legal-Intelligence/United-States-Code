@@ -160,7 +160,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (B) Treatment of covered person or service provider
 
-&emsp;&emsp;With respect to the application of any provision of the Right to Financial Privacy Act of 1978,<sup>2</sup> to a disclosure by a covered person or service provider subject to this subsection, the covered person or service provider shall be treated as if it were a “financial institution”, as defined in section 1101 of that Act (12 U.S.C. 3401).
+&emsp;&emsp;With respect to the application of any provision of the Right to Financial Privacy Act of 1978,<sup>2</sup> to a disclosure by a covered person or service provider subject to this subsection, the covered person or service provider shall be treated as if it were a "financial institution", as defined in section 1101 of that Act (12 U.S.C. 3401).
 
 #### (d) Assessment of significant rules
 

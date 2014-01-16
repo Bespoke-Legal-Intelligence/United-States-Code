@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(B) the daily number of applications received from applicants in the relevant area, as well as a breakdown of such figures by State;
 
-&emsp;&emsp;(C) the daily number of applications pending application entry from applicants in the relevant area, as well as a breakdown of such figures by State;
+&emsp;&emsp;(C) the daily number of applications pending application entry from applicants in therelevant area, as well as a breakdown of such figures by State;
 
 &emsp;&emsp;(D) the daily number of applications withdrawn by applicants in the relevant area, as well as a breakdown of such figures by State;
 
@@ -124,13 +124,13 @@ On the same date that the Administrator notifies any committee of the Senate or 
 
 &emsp;&emsp;&emsp;(ii) how to improve the process for processing, approving, and disbursing loans under the disaster loan program of the Administration, to ensure that the maximum assistance is provided to victims in a timely manner;
 
-&emsp;&emsp;&emsp;(iii) the viability of using alternative methods for assessing the ability of an applicant to repay a loan, including the credit score of the applicant on the day before the date on which the disaster for which the applicant is seeking assistance was declared;
+&emsp;&emsp;&emsp;(iii) the viability of using alternative methods for assessing the ability of an applicant to repay a loan, including the credit score of the applicant on the day beforethe date on which the disaster for which the applicant is seeking assistance was declared;
 
 &emsp;&emsp;&emsp;(iv) methods, if any, for the Administration to expedite loss verification and loan processing of disaster loans during a major disaster for businesses affected by, and located in the area for which the President declared, the major disaster that are a major source of employment in the area or are vital to recovery efforts in the region (including providing debris removal services, manufactured housing, or building materials);
 
 &emsp;&emsp;&emsp;(v) legislative changes, if any, needed to implement findings from the Accelerated Disaster Response Initiative of the Administration; and
 
-&emsp;&emsp;&emsp;(vi) a description of how the Administration plans to integrate and coordinate theresponse to a major disaster with the technical assistance programs of the Administration; and
+&emsp;&emsp;&emsp;(vi) a description of how the Administration plans to integrate and coordinate the response to a major disaster with the technical assistance programs of the Administration; and
 
 &emsp;&emsp;(B) the plans of the Administrator for implementing any recommendation made under subparagraph (A).
 

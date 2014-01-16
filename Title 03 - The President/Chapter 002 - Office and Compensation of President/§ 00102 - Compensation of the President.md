@@ -32,7 +32,7 @@ Pub. L. 91–1, §2, Jan. 17, 1969, 83 Stat. 3, provided that: “The amendment 
 
 #### Effective Date of 1951 Amendment
 
-Act Oct. 20, 1951, ch. 521, title VI, §619(e), 65 Stat. 570, provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section and section 111 of this title\] shall become effective at noon on January 20, 1953, and the amendments made by subsections (c) and (d) \[amending sections 31a and 31b of Title 2, The Congress\] shall become effective at noon on January 3, 1953.”
+Act Oct. 20, 1951, ch. 521, title VI, §619(e), 65 Stat. 570, provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section and section 111 of this title\] shall become effective at noon on January 20, 1953, and the amendments made by subsections (c) and (d) \[amending sections 31a and 5121 of Title 2, The Congress\] shall become effective at noon on January 3, 1953.”
 
 #### Effective Date of 1949 Amendment
 
@@ -164,7 +164,7 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 “(e) Each President-elect and Vice-President-elect, or eligible candidate (as defined in subsection (h)(4)) for President or Vice-President, may designate to the Administrator an assistant authorized to make on his behalf such designations or findings of necessity as may be required in connection with the services and facilities to be provided under this Act. Not more than 10 per centum of the total expenditures under this Act for any President-elect or Vice-President-elect may be made upon the basis of a certificate by him or the assistant designated by him pursuant to this section that such expenditures are classified and are essential to the national security, and that they accord with the provisions of subsections (a), (b), and (d) of this section.
 
-“(f)(1) The President-elect should submit to the Federal Bureau of Investigation or other appropriate agency and then, upon taking effect and designation, to the agency designated by the President under section 115(b) of the National Intelligence Reform Act of 2004 \[probably should be section 3001(c) of Pub. L. 108–458, 50 U.S.C. 435b(c)\], the names of candidates for high level national security positions through the level of undersecretary of cabinet departments as soon as possible after the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
+“(f)(1) The President-elect should submit to the Federal Bureau of Investigation or other appropriate agency and then, upon taking effect and designation, to the agency designated by the President under section 115(b) of the National Intelligence Reform Act of 2004 \[probably should be section 3001(c) of Pub. L. 108–458, 50 U.S.C. 3341(c)\], the names of candidates for high level national security positions through the level of undersecretary of cabinet departments as soon as possible after the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
 
 “(2) The responsible agency or agencies shall undertake and complete as expeditiously as possible the background investigations necessary to provide appropriate security clearances to the individuals who are candidates described under paragraph (1) before the date of the inauguration of the President-elect as President and the inauguration of the Vice-President-elect as Vice President.
 
@@ -176,7 +176,7 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 &emsp;“(ii) upon notification by the candidate of which such services and facilities such candidate will accept, shall, notwithstanding subsection (b), provide such services and facilities to the candidate during the period beginning on the date of the notification and ending on the date of the general elections described in subsection (b)(1).
 
-> The Administrator shall also notify the candidate that sections 7601(c) and 8403(b) of the Intelligence Reformand Terrorism Prevention Act of 2004 \[Pub. L. 108–458; 50 U.S.C. 435b note and 5 U.S.C. 1101 note\] provide additional services.
+> The Administrator shall also notify the candidate that sections 7601(c) and 8403(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 \[Pub. L. 108–458; 50 U.S.C. 3342 and 5 U.S.C. 1101 note\] provide additional services.
 
 “(B) The Administrator shall provide the notice under subparagraph (A)(i) to each eligible candidate—
 
@@ -242,7 +242,7 @@ Sec. 4. The Administrator is authorized to provide, upon request, to each former
 
 “
 
-Sec. 5. (a)(1) The President-elect and Vice-President-elect (as a condition for receiving services undersection 3 and for funds provided under section 6(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
+Sec. 5. (a)(1) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 6(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
 
 “(2) The President-elect and Vice-President-elect (as a condition for receiving such services and funds) shall make available to the Administrator and the Comptroller General all information concerning such contributions as the Administrator or Comptroller General may require for purposes of auditing both the public and private funding used in the activities authorized by this Act.
 
@@ -276,7 +276,7 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 
 “(b) The amounts authorized to be appropriated under subsection (a) shall be increased by an inflation adjusted amount, based on increases in the cost of transition services and expenses which have occurred in the years following the most recent Presidential transition, and shall be included in the proposed appropriation transmitted by the President under the last sentence of subsection (a).”
 
-\[Pub. L. 108–458, title VII, §7601(d), Dec. 17, 2004, 118 Stat. 3858, provided that: “Notwithstanding section 351 \[Pub. L. 108–458 does not contain a section 351\], this section \[enacting provisions set out as a note under section 435b of Title 50, War and National Defense, and amending section 3 of Pub. L. 88–277, set out above\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Dec. 17, 2004\].”\]
+\[Pub. L. 108–458, title VII, §7601(d), Dec. 17, 2004, 118 Stat. 3858, provided that: “Notwithstanding section 351 \[Pub. L. 108–458 does not contain a section 351\], this section \[enacting section 3342 of Title 50, War and National Defense, and amending section 3 of Pub. L. 88–277, set out above\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Dec. 17, 2004\].”\]
 
 \[Pub. L. 100–398, §2(b), Aug. 17, 1988, 102 Stat. 985, provided that: “The amendments made by subsection (a) of this section \[renumbering and amending section 6 of Pub. L. 88–277, set out above\] shall be effective upon enactment \[Aug. 17, 1988\], except that the amendment made by paragraph (7) of such subsection \[enacting subsec. (b) of section 6 of Pub. L. 88–277, set out above\] shall take effect on October 1, 1989.”\]
 
@@ -288,7 +288,7 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 
 #### Expense Allowance: Use; Reversion of Unexpended Portion; Nontaxable
 
-Provisions prohibiting expenditure of funds made available for official expenses for any other purpose and requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552 were contained in a paragraph under the headings “EXECUTIVE OFFICE OF THE PRESIDENT AND FUNDS APPROPRIATED TO THE PRESIDENT” and “
+Provisions prohibiting expenditure of funds made available for official expenses for any other purpose and requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552 were contained in a paragraph under the headings “EXECUTIVE OFFICEOF THE PRESIDENT AND FUNDS APPROPRIATED TO THE PRESIDENT” and “
 
 Compensation of the President” in the Executive Office of the President Appropriations Act, 2006, Pub. L. 109–115, div. A, title V, Nov. 30, 2005, 119 Stat. 2472, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriation acts:
 

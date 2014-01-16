@@ -30,7 +30,7 @@ A prior section 1135d–2, Pub. L. 89–329, title X, §1043, as added Pub. L. 9
 
 A prior section 1135d–3, Pub. L. 89–329, title X, §1044, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1564, which contained administrative provisions, was renumbered section 364 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067j of this title.
 
-A prior section 1135d–4, Pub. L. 89–329, title X, §1045, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1565, related to establishment of Advisory Board for the Minority Science and Engineering Improvement Programs, prior to repeal by Pub. L. 102–325, §2, title X,§1002(e), July 23, 1992, 106 Stat. 458, 780, effective Oct. 1, 1992.
+A prior section 1135d–4, Pub. L. 89–329, title X, §1045, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1565, related to establishment of Advisory Board for the Minority Science and Engineering Improvement Programs, prior to repeal by Pub. L. 102–325, §2, title X, §1002(e), July 23, 1992, 106 Stat. 458, 780, effective Oct. 1, 1992.
 
 A prior section 1135d–5, Pub. L. 89–329, title X, §1046, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1566, which defined terms, was renumbered section 365 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067k of this title.
 
@@ -38,5 +38,5 @@ A prior section 1135d–6, Pub. L. 89–329, title X, §1047, as added Pub. L. 9
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315 substituted “2009–2010” for “1999–2000” and “2008–2009” for “1998–1999”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315 substituted "2009–2010" for "1999–2000" and "2008–2009" for "1998–1999".
 

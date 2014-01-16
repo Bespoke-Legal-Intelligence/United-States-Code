@@ -2,25 +2,25 @@
 
 For purposes of this chapter—
 
-&emsp;(1) The term “duty” includes the rate and form of any import duty, including but not limited to tariff-rate quotas.
+&emsp;(1) The term "duty" includes the rate and form of any import duty, including but not limited to tariff-rate quotas.
 
-&emsp;(2) The term “other import restriction” includes a limitation, prohibition, charge, or exaction other than duty, imposed on importation or imposed for the regulation of importation. The term does not include any orderly marketing agreement.
+&emsp;(2) The term "other import restriction" includes a limitation, prohibition, charge, or exaction other than duty, imposed on importation or imposed for the regulation of importation. The term does not include any orderly marketing agreement.
 
-&emsp;(3) The term “ad valorem” includes ad valorem equivalent. Whenever any limitation on the amount by which or to which any rate of duty may be decreased or increased pursuant to a trade agreement is expressed in terms of an ad valorem percentage, the ad valorem amount taken into account for purposes of such limitation shall be determined by the President on the basis of the value of imports of the articles concerned during the most recent representative period.
+&emsp;(3) The term "ad valorem" includes ad valorem equivalent. Whenever any limitation on the amount by which or to which any rate of duty may be decreased or increased pursuant to a trade agreement is expressed in terms of an ad valorem percentage, the ad valorem amount taken into account for purposes of such limitation shall be determined by the President on the basis of the value of imports of the articles concerned during the most recent representative period.
 
-&emsp;(4) The term “ad valorem equivalent” means the ad valorem equivalent of a specific rate or, in the case of a combination of rates including a specific rate, the sum of the ad valorem equivalent of the specific rate and of the ad valorem rate. The ad valorem equivalent shall be determined by the President on the basis of the value of imports of the article concerned during the most recent representative period. In determining the value of imports, the President shall utilize, to the maximum extent practicable, the standards of valuation contained in section 1401a or 1402 <sup>1</sup> of this title (as in effect before the effective date of the amendments made by title II of the Trade Agreements Act of 1979) or in section 1401a of this title (as in effect on the effective date of such title II amendments) whichever is applicable to the article concerned during such representative period.
+&emsp;(4) The term "ad valorem equivalent" means the ad valorem equivalent of a specific rate or, in the case of a combination of rates including a specific rate, the sum of the ad valorem equivalent of the specific rate and of the ad valorem rate. The ad valorem equivalent shall be determined by the President on the basis of the value of imports of the article concerned during the most recent representative period. In determining the value of imports, the President shall utilize, to the maximum extent practicable, the standards of valuation contained in section 1401a or 1402 <sup>1</sup> of this title (as in effect before the effective date of the amendments made by title II of the Trade Agreements Act of 1979) or in section 1401a of this title (as in effect on the effective date of such title II amendments) whichever is applicable to the article concerned during such representative period.
 
-&emsp;(5) An imported article is “directly competitive with” a domestic article at an earlier or later stage of processing, and a domestic article is “directly competitive with” an imported article at an earlier or later stage of processing, if the importation of the article has an economic effect on producers of the domestic article comparable to the effect of importation of articles in the same stage of processing as the domestic article. For purposes of this paragraph, the unprocessed article is at an earlier stage of processing.
+&emsp;(5) An imported article is "directly competitive with" a domestic article at an earlier or later stage of processing, and a domestic article is "directly competitive with" an imported article at an earlier or later stage of processing, if the importation of the article has an economic effect on producers of the domestic article comparable to the effect of importation of articles in the same stage of processing as the domestic article. For purposes of this paragraph, the unprocessed article is at an earlier stage of processing.
 
-&emsp;(6) The term “modification”, as applied to any duty or other import restriction, includes the elimination of any duty or other import restriction.
+&emsp;(6) The term "modification", as applied to any duty or other import restriction, includes the elimination of any duty or other import restriction.
 
-&emsp;(7) The term “existing” means (A) when used, without the specification of any date, with respect to any matter relating to entering into or carrying out a trade agreement or other action authorized by this chapter, existing on the day on which such trade agreement is entered into or such other action is taken; and (B) when used with respect to a rate of duty, the nonpreferential rate of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) set forth in rate column numbered 1 of chapters 1 through 97 of the Harmonized Tariff Schedule of the United States on the date specified or (if no date is specified) on the day referred to in clause (A).
+&emsp;(7) The term "existing" means (A) when used, without the specification of any date, with respect to any matter relating to entering into or carrying out a trade agreement or other action authorized by this chapter, existing on the day on which such trade agreement is entered into or such other action is taken; and (B) when used with respect to a rate of duty, the nonpreferential rate of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) set forth in rate column numbered 1 of chapters 1 through 97 of the Harmonized Tariff Schedule of the United States on the date specified or (if no date is specified) on the day referred to in clause (A).
 
 &emsp;(8) A product of a country or area is an article which is the growth, produce, or manufacture of such country or area.
 
-&emsp;(9) The term “nondiscriminatory treatment” means trade treatment based on normal trade relations (known under international law as most-favored-nation treatment).
+&emsp;(9) The term "nondiscriminatory treatment" means trade treatment based on normal trade relations (known under international law as most-favored-nation treatment).
 
-&emsp;(10) The term “commerce” includes services associated with international trade.
+&emsp;(10) The term "commerce" includes services associated with international trade.
 
 (Pub. L. 93–618, title VI, §601, Jan. 3, 1975, 88 Stat. 2071; Pub. L. 96–39, title II, §202(c)(1), title XI, §1106(h)(1), July 26, 1979, 93 Stat. 202, 313; Pub. L. 100–418, title I, §1214(j)(5), Aug. 23, 1988, 102 Stat. 1158; Pub. L. 105–206, title V, §5003(b)(2)(B), July 22, 1998, 112 Stat. 789.)
 
@@ -34,13 +34,13 @@ The Harmonized Tariff Schedule of the United States, referred to in par. (7), is
 
 #### Amendments
 
-<b>1998</b>—Par. (9). Pub. L. 105–206 substituted “trade treatment based on normal trade relations (known under international law as most-favored-nation treatment)” for “most-favored-nation treatment”.
+<b>1998</b>—Par. (9). Pub. L. 105–206 substituted "trade treatment based on normal trade relations (known under international law as most-favored-nation treatment)" for "most-favored-nation treatment".
 
-<b>1988</b>—Par. (7). Pub. L. 100–418 substituted “chapters 1 through 97 of the Harmonized Tariff Schedule of the United States” for “schedules 1 through 7 of the Tariff Schedules of the United States”.
+<b>1988</b>—Par. (7). Pub. L. 100–418 substituted "chapters 1 through 97 of the Harmonized Tariff Schedule of the United States" for "schedules 1 through 7 of the Tariff Schedules of the United States".
 
-<b>1979</b>—Par. (2). Pub. L. 96–39, §1106(h)(1), substituted “or exaction” for “and exaction”.
+<b>1979</b>—Par. (2). Pub. L. 96–39, §1106(h)(1), substituted "or exaction" for "and exaction".
 
-Par. (4). Pub. L. 96–39, §202(c)(1), substituted “section 1401a or 1402 of this title (as in effect before the effective date of the amendments made by title II of the Trade Agreements Act of 1979) or in sections 1401a of this title (as in effect on the effective date of such title II amendments) whichever is applicable” for “section 1401a or 1402 of this title applicable”.
+Par. (4). Pub. L. 96–39, §202(c)(1), substituted "section 1401a or 1402 of this title (as in effect before the effective date of the amendments made by title II of the Trade Agreements Act of 1979) or in sections 1401a of this title (as in effect on the effective date of such title II amendments) whichever is applicable" for "section 1401a or 1402 of this title applicable".
 
 #### Effective Date of 1988 Amendment
 
@@ -54,31 +54,31 @@ Amendment by section 1106(h)(1) of Pub. L. 96–39 effective July 26, 1979, see 
 
 #### Savings Provision
 
-Pub. L. 105–206, title V, §5003(c), July 22, 1998, 112 Stat. 790, provided that: “Nothing in this section \[amending this section, sections 1881, 2432, 3332 and 3555 of this title, and sections 5401 and 5713 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 2112 of this title\] shall affect the meaning of any provision of law, Executive order, Presidential proclamation, rule, regulation, delegation of authority, other document, or treaty or other international agreement of the United States relating to the principle of ‘most-favored-nation’ (or ‘most favored nation’) treatment. Any Executive order, Presidential proclamation, rule, regulation, delegation of authority, other document, or treaty or other international agreement of the United States that has been issued, made, granted, or allowed to become effective and that is in effect on the effective date of this Act \[July 22, 1998\], or was to become effective on or after the effective date of this Act, shall continue in effect according to its terms until modified, terminated, superseded, set aside, or revoked in accordance with law.”
+Pub. L. 105–206, title V, §5003(c), July 22, 1998, 112 Stat. 790, provided that: "Nothing in this section \[amending this section, sections 1881, 2432, 3332 and 3555 of this title, and sections 5401 and 5713 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 2112 of this title\] shall affect the meaning of any provision of law, Executive order, Presidential proclamation, rule, regulation, delegation of authority, other document, or treaty or other international agreement of the United States relating to the principle of 'most-favored-nation' (or 'most favored nation') treatment. Any Executive order, Presidential proclamation, rule, regulation, delegation of authority, other document, or treaty or other international agreement of the United States that has been issued, made, granted, or allowed to become effective and that is in effect on the effective date of this Act \[July 22, 1998\], or was to become effective on or after the effective date of this Act, shall continue in effect according to its terms until modified, terminated, superseded, set aside, or revoked in accordance with law."
 
 #### Clarification of Designation of Normal Trade Relations
 
 Pub. L. 105–206, title V, §5003(a), July 22, 1998, 112 Stat. 789, provided that:
 
-“(1)
+"(1)
 
 Findings.—The Congress makes the following findings:
 
-&emsp;“(A) Since the 18th century, the principle of nondiscrimination among countries with which the United States has trade relations, commonly referred to as ‘most-favored-nation’ treatment, has been a cornerstone of United States trade policy.
+&emsp;"(A) Since the 18th century, the principle of nondiscrimination among countries with which the United States has trade relations, commonly referred to as 'most-favored-nation' treatment, has been a cornerstone of United States trade policy.
 
-&emsp;“(B) Although the principle remains firmly in place as a fundamental concept in United States trade relations, the term ‘most-favored-nation’ is a misnomer which has led to public misunderstanding.
+&emsp;"(B) Although the principle remains firmly in place as a fundamental concept in United States trade relations, the term 'most-favored-nation' is a misnomer which has led to public misunderstanding.
 
-&emsp;“(C) It is neither the purpose nor the effect of the most-favored-nation principle to treat any country as ‘most favored’. To the contrary, the principle reflects the intention to confer on a country the same trade benefits that are conferred on any other country, that is, the intention not to discriminate among trading partners.
+&emsp;"(C) It is neither the purpose nor the effect of the most-favored-nation principle to treat any country as 'most favored'. To the contrary, the principle reflects the intention to confer on a country the same trade benefits that are conferred on any other country, that is, the intention not to discriminate among trading partners.
 
-&emsp;“(D) The term ‘normal trade relations’ is a more accurate description of the principle of nondiscrimination as it applies to the tariffs applicable generally to imports from United States trading partners, that is, the general rates of duty set forth in column 1 of the Harmonized Tariff Schedule of the United States.
+&emsp;"(D) The term 'normal trade relations' is a more accurate description of the principle of nondiscrimination as it applies to the tariffs applicable generally to imports from United States trading partners, that is, the general rates of duty set forth in column 1 of the Harmonized Tariff Schedule of the United States.
 
-“(2)
+"(2)
 
 Policy.—It is the sense of the Congress that—
 
-&emsp;“(A) the language used in United States laws, treaties, agreements, executive orders, directives, and regulations should more clearly and accurately reflect the underlying principles of United States trade policy; and
+&emsp;"(A) the language used in United States laws, treaties, agreements, executive orders, directives, and regulations should more clearly and accurately reflect the underlying principles of United States trade policy; and
 
-&emsp;“(B) accordingly, the term ‘normal trade relations’ should, where appropriate, be substituted for the term ‘most-favored-nation’.”
+&emsp;"(B) accordingly, the term 'normal trade relations' should, where appropriate, be substituted for the term 'most-favored-nation'."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,15 +28,15 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (A) In general
 
-&emsp;&emsp;Any person who knowingly violates any provision of this chapter, or any provision of any rule or order under this chapter, shall be subject to—
+&emsp;&emsp;Any person who knowingly violates any provision of this chapter, or any provision ofany rule or order under this chapter, shall be subject to—
 
 &emsp;&emsp;&emsp;(i) except as provided in clause (ii) a civil penalty, which the Commission may assess, of not more than $1,000,000 for any one violation; and
 
 &emsp;&emsp;&emsp;(ii) a civil penalty, which the President may assess, of not more than $1,000,000, in the case of any violation of an order under section 3362 of this title or an order or supplemental order under section 3363 of this title.
 
-#### (B) “Knowing” defined
+#### (B) "Knowing" defined
 
-&emsp;&emsp;For purposes of subparagraph (A) the term “knowing” means the having of—
+&emsp;&emsp;For purposes of subparagraph (A) the term "knowing" means the having of—
 
 &emsp;&emsp;&emsp;(i) actual knowledge; or
 
@@ -48,7 +48,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (D) Statute of limitations
 
-&emsp;&emsp;No person shall be subject to any civil penalty under this paragraph with respect to any violation occurring more than 3 yearsbefore the date on which such person is provided notice of the proposed penalty under subparagraph (E). The preceding sentence shall not apply in any case in which an untrue statement of material fact was made to the Commission or a State or Federal agency by, or acquiesced to by, the violator with respect to the acts or omissions constituting such violation, or if there was omitted a material fact necessary in order to make any statement made by, or acquiesced to by, the violator with respect to such acts or omissions not misleading in light of circumstances under such statement was made.
+&emsp;&emsp;No person shall be subject to any civil penalty under this paragraph with respect to any violation occurring more than 3 years before the date on which such person is provided notice of the proposed penalty under subparagraph (E). The preceding sentence shall not apply in any case in which an untrue statement of material fact was made to the Commission or a State or Federal agency by, or acquiesced to by, the violator with respect to the acts or omissions constituting such violation, or if there was omitted a material fact necessary in order to make any statement made by, or acquiesced to by, the violator with respect to such acts or omissions not misleading in light of circumstances under such statement was made.
 
 #### (E) Assessed by Commission
 
@@ -82,9 +82,9 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 &emsp;For purposes of this subsection, each day of violation shall constitute a separate violation.
 
-#### (5) “Knowingly” defined
+#### (5) "Knowingly" defined
 
-&emsp;For purposes of this subsection, the term “knowingly”, when used with respect to any act or omission by any person, means such person—
+&emsp;For purposes of this subsection, the term "knowingly", when used with respect to any act or omission by any person, means such person—
 
 &emsp;&emsp;(A) had actual knowledge; or
 
@@ -94,19 +94,19 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(6)(A). Pub. L. 109–58, §314(b)(2), substituted “$1,000,000” for “$5,000” in cl. (i) and “$1,000,000” for “$25,000” in cl. (ii).
+<b>2005</b>—Subsec. (b)(6)(A). Pub. L. 109–58, §314(b)(2), substituted "$1,000,000" for "$5,000" in cl. (i) and "$1,000,000" for "$25,000" in cl. (ii).
 
-Subsec. (c)(1). Pub. L. 109–58, §314(a)(2)(A), substituted “$1,000,000” for “$5,000” in subpar. (A) and “5 years” for “two years” in subpar. (B).
+Subsec. (c)(1). Pub. L. 109–58, §314(a)(2)(A), substituted "$1,000,000" for "$5,000" in subpar. (A) and "5 years" for "two years" in subpar. (B).
 
-Subsec. (c)(2). Pub. L. 109–58, §314(a)(2)(B), substituted “$50,000 for each day on which the offense occurs” for “$500 for each violation”.
+Subsec. (c)(2). Pub. L. 109–58, §314(a)(2)(B), substituted "$50,000 for each day on which the offense occurs" for "$500 for each violation".
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–60, §3(b)(6), struck out par. (2) designation and par. (1) making it unlawful to sell natural gas at a first sale price in excess of any applicable maximum lawful price under this chapter.
 
-Subsec. (b). Pub. L. 101–60, §3(a)(4), substituted “paragraph (2)” for “paragraphs (2) and (3)” in par. (1), struck out par. (3) which related to enforcement of incremental pricing, and substituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)” in par. (4).
+Subsec. (b). Pub. L. 101–60, §3(a)(4), substituted "paragraph (2)" for "paragraphs (2) and (3)" in par. (1), struck out par. (3) which related to enforcement of incremental pricing, and substituted "paragraph (1) or (2)" for "paragraph (1), (2), or (3)" in par. (4).
 
 #### Effective Date of 1989 Amendment
 
 Amendment by section 3(b)(6) of Pub. L. 101–60 effective Jan. 1, 1993, see section 3(b) of Pub. L. 101–60, set out as a note under section 3372 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “assess”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "assess".</i>
 

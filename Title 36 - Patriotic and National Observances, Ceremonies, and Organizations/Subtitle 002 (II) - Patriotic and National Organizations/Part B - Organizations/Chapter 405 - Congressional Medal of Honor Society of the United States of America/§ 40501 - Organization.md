@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Congressional Medal of Honor Society of the United States of America (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—Congressional Medal of Honor Society of the United States of America (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

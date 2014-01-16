@@ -1,0 +1,6 @@
+### §127b. Transferred
+
+#### Codification
+
+Section 127b was editorially reclassified as section 4538 of this title.
+

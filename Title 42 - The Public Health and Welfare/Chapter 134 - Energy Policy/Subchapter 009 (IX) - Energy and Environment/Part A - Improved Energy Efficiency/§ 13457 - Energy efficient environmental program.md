@@ -16,7 +16,7 @@ Within 9 months after October 24, 1992, the Secretary, in consultation with the 
 
 Within 1 year after October 24, 1992, the Secretary shall submit a report to Congress evaluating the opportunities identified under subsection (b) of this section. Such report shall include—
 
-&emsp;(1) an assessment of the technologies available to increase productivity and simultaneously reduce the consumption of energy and material resources and the production of wastes;
+&emsp;(1) an assessment of the technologies available to increase productivity and simultaneously reduce the consumption of energy andmaterial resources and the production of wastes;
 
 &emsp;(2) an assessment of the current use of such technologies by industry in the United States;
 

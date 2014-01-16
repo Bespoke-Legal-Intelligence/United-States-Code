@@ -12,9 +12,9 @@
 | [225\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000225%20-%20Federal%20reserve%20banks%3B%20title.md) | Federal reserve banks; title. |
 | [225a.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000225a%20-%20Maintenance%20of%20long%20run%20growth%20of%20monetary%20and%20credit%20aggregates.md) | Maintenance of long run growth of monetary and credit aggregates. |
 | [225b.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000225b%20-%20Appearances%20before%20and%20reports%20to%20the%20Congress.md) | Appearances before and reports to the Congress. |
-| [226\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000226%20-%20%E2%80%9CFederal%20Reserve%20Act%E2%80%9D.md) | “Federal Reserve Act.” |
-| [227\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000227%20-%20%E2%80%9CBanking%20Act%20of%201933%E2%80%9D.md) | “Banking Act of 1933.” |
-| [228\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000228%20-%20%E2%80%9CBanking%20Act%20of%201935%E2%80%9D.md) | “Banking Act of 1935.” |
+| [226\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000226%20-%20Federal%20Reserve%20Act.md) | "Federal Reserve Act." |
+| [227\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000227%20-%20Banking%20Act%20of%201933.md) | "Banking Act of 1933." |
+| [228\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000228%20-%20Banking%20Act%20of%201935.md) | "Banking Act of 1935." |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -94,7 +94,7 @@
 | [302\.](Subchapter%20007%20%28VII%29%20-%20Directors%20of%20Federal%20Reserve%20Banks%3B%20Reserve%20Agents%20and%20Assistants/%C2%A7%2000302%20-%20Number%20of%20members%3B%20classes.md) | Number of members; classes. |
 | [303\.](Subchapter%20007%20%28VII%29%20-%20Directors%20of%20Federal%20Reserve%20Banks%3B%20Reserve%20Agents%20and%20Assistants/%C2%A7%2000303%20-%20Qualifications%20and%20disabilities.md) | Qualifications and disabilities. |
 | [304\.](Subchapter%20007%20%28VII%29%20-%20Directors%20of%20Federal%20Reserve%20Banks%3B%20Reserve%20Agents%20and%20Assistants/%C2%A7%2000304%20-%20Class%20A%20and%20class%20B%20directors%3B%20selection.md) | Class A and class B directors; selection. |
-| [305\.](Subchapter%20007%20%28VII%29%20-%20Directors%20of%20Federal%20Reserve%20Banks%3B%20Reserve%20Agents%20and%20Assistants/%C2%A7%2000305%20-%20Class%20C%20directors%3B%20selection%3B%20%E2%80%9CFederal%20reserve%20agent%E2%80%9D.md) | Class C directors; selection; “Federal reserve agent.” |
+| [305\.](Subchapter%20007%20%28VII%29%20-%20Directors%20of%20Federal%20Reserve%20Banks%3B%20Reserve%20Agents%20and%20Assistants/%C2%A7%2000305%20-%20Class%20C%20directors%3B%20selection%3B%20Federal%20reserve%20agent.md) | Class C directors; selection; "Federal reserve agent." |
 | [306\.](Subchapter%20007%20%28VII%29%20-%20Directors%20of%20Federal%20Reserve%20Banks%3B%20Reserve%20Agents%20and%20Assistants/%C2%A7%2000306%20-%20Assistants%20to%20Federal%20reserve%20agent.md) | Assistants to Federal reserve agent. |
 | [307\.](Subchapter%20007%20%28VII%29%20-%20Directors%20of%20Federal%20Reserve%20Banks%3B%20Reserve%20Agents%20and%20Assistants/%C2%A7%2000307%20-%20Compensation%20of%20directors.md) | Compensation of directors. |
 | [308\.](Subchapter%20007%20%28VII%29%20-%20Directors%20of%20Federal%20Reserve%20Banks%3B%20Reserve%20Agents%20and%20Assistants/%C2%A7%2000308%20-%20Terms%20of%20directors%3B%20vacancies.md) | Terms of directors; vacancies. |
@@ -178,7 +178,7 @@
 | [371c.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000371c%20-%20Banking%20affiliates.md) | Banking affiliates. |
 | 371c–1. | Restrictions on transactions with affiliates. |
 | [371d.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000371d%20-%20Investment%20in%20bank%20premises%20or%20stock%20of%20corporation%20holding%20premises.md) | Investment in bank premises or stock of corporation holding premises. |
-| [372\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000372%20-%20Bankers%E2%80%99%20acceptances.md) | Bankers’ acceptances. |
+| [372\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000372%20-%20Bankers%27%20acceptances.md) | Bankers' acceptances. |
 | [373\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000373%20-%20Acceptance%20of%20drafts%20or%20bills%20drawn%20by%20banks%20in%20foreign%20countries%20or%20dependencies%20of%20United%20States%20for%20purpose%20of%20dollar%20exchange.md) | Acceptance of drafts or bills drawn by banks in foreign countries or dependencies of United States for purpose of dollar exchange. |
 | [374\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000374%20-%20Acting%20as%20agent%20for%20nonmember%20bank%20in%20getting%20discounts%20from%20reserve%20bank.md) | Acting as agent for nonmember bank in getting discounts from reserve bank. |
 | [374a.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000374a%20-%20Acting%20as%20agent%20for%20nonbanking%20borrower%20in%20making%20loans%20on%20securities%20to%20dealers%20in%20stocks%2C%20bonds%2C%20etc.%3B%20penalties.md) | Acting as agent for nonbanking borrower in making loans on securities to dealers in stocks, bonds, etc.; penalties. |
@@ -199,7 +199,7 @@
 | [391a.](Subchapter%20011%20%28XI%29%20-%20Depositaries%20and%20Fiscal%20Agents/%C2%A7%2000391a%20-%20Reimbursement%20of%20Federal%20Reserve%20Banks.md) | Reimbursement of Federal Reserve Banks. |
 | [392\.](Subchapter%20011%20%28XI%29%20-%20Depositaries%20and%20Fiscal%20Agents/%C2%A7%2000392%20-%20Depositaries%20of%20Government%20funds%20as%20confined%20to%20banks%20in%20Federal%20reserve%20system%3B%20member%20banks%20as%20depositaries.md) | Depositaries of Government funds as confined to banks in Federal reserve system; member banks as depositaries. |
 | [393\.](Subchapter%20011%20%28XI%29%20-%20Depositaries%20and%20Fiscal%20Agents/%C2%A7%2000393%20-%20Federal%20reserve%20banks%20as%20depositaries%20for%20Farm%20Credit%20System.md) | Federal reserve banks as depositaries for Farm Credit System. |
-| [394\.](Subchapter%20011%20%28XI%29%20-%20Depositaries%20and%20Fiscal%20Agents/%C2%A7%2000394%20-%20Federal%20reserve%20banks%20as%20depositaries%20for%20and%20fiscal%20agents%20of%20Home%20Owners%E2%80%99%20Loan%20Corporation.md) | Federal reserve banks as depositaries for and fiscal agents of Home Owners’ Loan Corporation. |
+| [394\.](Subchapter%20011%20%28XI%29%20-%20Depositaries%20and%20Fiscal%20Agents/%C2%A7%2000394%20-%20Federal%20reserve%20banks%20as%20depositaries%20for%20and%20fiscal%20agents%20of%20Home%20Owners%27%20Loan%20Corporation.md) | Federal reserve banks as depositaries for and fiscal agents of Home Owners' Loan Corporation. |
 | [395\.](Subchapter%20011%20%28XI%29%20-%20Depositaries%20and%20Fiscal%20Agents/%C2%A7%2000395%20-%20Federal%20reserve%20banks%20as%20depositaries%2C%20custodians%20and%20fiscal%20agents%20for%20Commodity%20Credit%20Corporation.md) | Federal reserve banks as depositaries, custodians and fiscal agents for Commodity Credit Corporation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -8,7 +8,7 @@
 
 &emsp;(2) to develop and present for consideration by the Judicial Conference of the United States recommendations for improvement of the administration and management of the courts of the United States;
 
-&emsp;(3) to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government and other persons whose participation in such programs would improve the operation of the judicial branch, including, but not limited to, judges, United States magistrate judges, clerks of court, probation officers, and persons serving as mediators and arbitrators;
+&emsp;(3) to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government and other persons whose participation in such programs would improve the operation of the judicial branch, including,but not limited to, judges, United States magistrate judges, clerks of court, probation officers, and persons serving as mediators and arbitrators;
 
 &emsp;(4) insofar as may be consistent with the performance of the other functions set forth in this section, to provide staff, research, and planning assistance to the Judicial Conference of the United States and its committees;
 
@@ -22,17 +22,17 @@
 
 <b>1992</b>—Subsec. (b)(6). Pub. L. 102–572 added par. (6).
 
-<b>1988</b>—Subsec. (b)(3). Pub. L. 100–702 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government, including, but not limited to, judges, clerks of court, probation officers, and United States magistrates;”.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–702 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government, including, but not limited to, judges, clerks of court, probation officers, and United States magistrates;".
 
-<b>1986</b>—Subsec. (b)(3). Pub. L. 99–336 struck out “referees,” after “judges,” and substituted “magistrates” for “commissioners”.
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–336 struck out "referees," after "judges," and substituted "magistrates" for "commissioners".
 
 <b>1984</b>—Subsec. (b)(5). Pub. L. 98–620 added par. (5).
 
-<b>1978</b>—Subsec. (b)(3). Pub. L. 95–598 directed the amendment of par. (3) by striking out “referees,” and by substituting “magistrates” for “commissioners”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsec. (b)(3). Pub. L. 95–598 directed the amendment of par. (3) by striking out "referees," and by substituting "magistrates" for "commissioners", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 #### Change of Name
 
-“United States magistrate judges” substituted for “United States magistrates” in subsec. (b)(3) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+"United States magistrate judges" substituted for "United States magistrates" in subsec. (b)(3) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pu
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–336, §6(c), June 19, 1986, 100 Stat. 639, provided that: “The amendments made by this section \[amending this section and section 288d of Title 2, The Congress, and redesignating sections 1364 to 1366 of this title\] shall take effect on the date of the enactment of this Act \[June 19, 1986\].”
+Pub. L. 99–336, §6(c), June 19, 1986, 100 Stat. 639, provided that: "The amendments made by this section \[amending this section and section 288d of Title 2, The Congress, and redesignating sections 1364 to 1366 of this title\] shall take effect on the date of the enactment of this Act \[June 19, 1986\]."
 
 #### Effective Date of 1984 Amendment
 

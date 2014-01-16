@@ -20,7 +20,7 @@ No participant shall be entitled to receive an annuity under this part and compe
 
 #### (e) Lump sum disability payments
 
-Notwithstanding any other law, the right of any individual entitled to an annuity under this part shall not be affected because such person has received an award of compensation in alump sum under section 8135 of title 5, except that where such annuity is payable on account of the same disability for which compensation under such section has been paid, so much of such compensation as has been paid for any period extended beyond the date such annuity becomes effective, as determined by the Secretary of Labor, shall be refunded to the Department of Labor, to be paid into the Federal Employees’ Compensation Fund. Before such individual receives such annuity, he or she shall—
+Notwithstanding any other law, the right of any individual entitled to an annuity under this part shall not be affected because such person has received an award of compensation in a lump sum under section 8135 of title 5, except that where such annuity is payable on account of the same disability for which compensation under such section has been paid, so much of such compensation as has been paid for any period extended beyond the date such annuity becomes effective, as determined by the Secretary of Labor, shall be refunded to the Department of Labor, to be paid into the Federal Employees' Compensation Fund. Before such individual receives such annuity, he or she shall—
 
 &emsp;(1) refund to the Department of Labor the amount representing such commuted payments for such extended period, or
 
@@ -40,15 +40,15 @@ Section 5532 of title 5, referred to in subsec. (a), was repealed by Pub. L. 106
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places in second par.
+<b>1991</b>—Subsec. (a). Pub. L. 102–54 substituted "Department of Veterans Affairs" for "Veterans' Administration" in two places in second par.
 
-<b>1988</b>—Subsecs. (a), (b). Pub. L. 100–238 substituted “60” for “65”.
+<b>1988</b>—Subsecs. (a), (b). Pub. L. 100–238 substituted "60" for "65".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–335, §402(a)(2), substituted “part” for “subchapter” in three places.
+<b>1986</b>—Subsec. (a). Pub. L. 99–335, §402(a)(2), substituted "part" for "subchapter" in three places.
 
-Subsec. (d). Pub. L. 99–335, §402(b)(1), substituted “subchapter I of such chapter 8” for “such subchapter” in three places and “part” for “chapter” in three places.
+Subsec. (d). Pub. L. 99–335, §402(b)(1), substituted "subchapter I of such chapter 8" for "such subchapter" in three places and "part" for "chapter" in three places.
 
-Subsec. (e). Pub. L. 99–335, §402(b)(2), substituted “part” for “chapter” in two places.
+Subsec. (e). Pub. L. 99–335, §402(b)(2), substituted "part" for "chapter" in two places.
 
 <b>1981</b>—Subsec. (a). Ex. Ord. No. 12289 added second par. relating to computation of annuity for participant retiring under this section and receiving retired or retainer pay.
 
@@ -66,5 +66,5 @@ Amendment by Ex. Ord. No. 12289 effective Feb. 15, 1981, see section 3 of Ex. Or
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be chapter “81”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be chapter "81".</i>
 

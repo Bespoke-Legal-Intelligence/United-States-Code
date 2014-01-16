@@ -52,7 +52,7 @@ In general.—Unless, within 5 days after receiving notice from the Secretary of
 
 &emsp;(2)
 
-Antitrust laws defined.—In this section, the term “antitrust laws” has the meaning given that term in the first section of the Clayton Act (15 U.S.C. 12).
+Antitrust laws defined.—In this section, the term "antitrust laws" has the meaning given that term in the first section of the Clayton Act (15 U.S.C. 12).
 
 (i)
 
@@ -68,7 +68,7 @@ In general.—Before the expiration of the 2-year period for which the pilot pro
 
 &emsp;(2)
 
-Obtaining necessary data.—The Administrator may require participating air carriers and airports to provide data necessary to evaluate the pilot program's impact.
+Obtaining necessary data.—The Administrator may require participating air carriersand airports to provide data necessary to evaluate the pilot program's impact.
 
 (k)
 

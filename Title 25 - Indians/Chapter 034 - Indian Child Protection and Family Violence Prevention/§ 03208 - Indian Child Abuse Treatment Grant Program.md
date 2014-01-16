@@ -48,7 +48,7 @@ there <sup>1</sup> is hereby authorized to be appropriated to carry out the pro
 
 #### Amendments
 
-<b>1995</b>—Subsec. (e). Pub. L. 104–16 substituted “1995, 1996, and 1997” for “and 1995”.
+<b>1995</b>—Subsec. (e). Pub. L. 104–16 substituted "1995, 1996, and 1997" for "and 1995".
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

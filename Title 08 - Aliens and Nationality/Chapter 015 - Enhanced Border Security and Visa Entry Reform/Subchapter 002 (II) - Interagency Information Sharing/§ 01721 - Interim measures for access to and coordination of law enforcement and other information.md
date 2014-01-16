@@ -48,11 +48,11 @@ Until the plan required by subsection (c) of this section is implemented, Federa
 
 The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-Section 403–3 of title 50, referred to in subsec. (c)(3)(F), was repealed and a new section 403–3 was enacted by Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3643, 3655, and, as so enacted, subsec. (c)(7) no longer contains provisions relating to the protection of sources and methods used to acquire intelligence information. See section 403–1 of Title 50, War and National Defense.
+Section 403–3 of title 50, referred to in subsec. (c)(3)(F), was repealed and a new section 403–3 was enacted by Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3643, 3655, and subsequently editorially reclassified to section 3025 of Title 50, War and National Defense; as so enacted, subsec. (c)(7) no longer contains provisions relating to the protection of sources and methods used to acquire intelligence information. See section 3024 of Title 50.
 
 #### Codification
 
-Section is comprised of section 201 of Pub. L. 107–173. Subsec. (b)(2) of section 201 of Pub. L. 107–173 amendedprovisions set out as a note under section 1365a of this title. Subsec. (c)(5) of section 201 of Pub. L. 107–173 amended section 1379 of this title.
+Section is comprised of section 201 of Pub. L. 107–173. Subsec. (b)(2) of section 201 of Pub. L. 107–173 amended provisions set out as a note under section 1365a of this title. Subsec. (c)(5) of section 201 of Pub. L. 107–173 amended section 1379 of this title.
 
 #### Amendments
 

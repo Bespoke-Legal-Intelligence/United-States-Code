@@ -26,11 +26,11 @@ In preparing and revising the plan required by subsection (b) of this section, t
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–173, §900(e)(5)(B)(i), substituted “Centers for Medicare \& Medicaid Services” for “National Health Care Financing Administration”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–173, §900(e)(5)(B)(i), substituted "Centers for Medicare \& Medicaid Services" for "National Health Care Financing Administration".
 
-Subsec. (b)(1). Pub. L. 108–173, §900(e)(5)(B)(ii), substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration” in introductory provisions.
+Subsec. (b)(1). Pub. L. 108–173, §900(e)(5)(B)(ii), substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration" in introductory provisions.
 
-Subsecs. (b)(2), (c). Pub. L. 108–173, §900(e)(5)(B)(iii), (iv), substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+Subsecs. (b)(2), (c). Pub. L. 108–173, §900(e)(5)(B)(iii), (iv), substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "subsection".</i>
 

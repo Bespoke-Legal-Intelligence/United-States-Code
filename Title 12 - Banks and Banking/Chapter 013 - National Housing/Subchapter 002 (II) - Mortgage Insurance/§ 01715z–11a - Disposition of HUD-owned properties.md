@@ -2,7 +2,7 @@
 
 #### (a) Flexible authority for multifamily projects
 
-During fiscal year 1997 and fiscal years thereafter, the Secretary may manage and dispose of multifamily properties owned by the Secretary, including, for fiscal years 1997, 1998, 1999, 2000, and thereafter, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation, demolition, or construction on the properties (which shall be eligible whether vacant or occupied), and multifamily mortgages held by the Secretary on such terms and conditions as theSecretary may determine, notwithstanding any other provision of law. A grant provided under this subsection during fiscal years 2006 through 2010 shall be available only to the extent that appropriations are made in advance for such purposes and shall not be derived from the General Insurance Fund.
+During fiscal year 1997 and fiscal years thereafter, the Secretary may manage and dispose of multifamily properties owned by the Secretary, including, for fiscal years 1997, 1998, 1999, 2000, and thereafter, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation, demolition, or construction on the properties (which shall be eligible whether vacant or occupied), and multifamily mortgages held by the Secretary on such terms and conditions as the Secretary may determine, notwithstanding any other provision of law. A grant provided under this subsection during fiscal years 2006 through 2010 shall be available only to the extent that appropriations are made in advance for such purposes and shall not be derived from the General Insurance Fund.
 
 #### (b) Transfer of unoccupied and substandard housing to local governments and community development corporations
 
@@ -12,7 +12,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (2) Qualified HUD properties
 
-&emsp;For purposes of this subsection, the term “qualified HUD property” means any property for which, as of the date that notification of the property is first made under paragraph (3)(B), not less than 6 months have elapsed since the later of the date that the property was acquired by the Secretary or the date that the property was determined to be unoccupied or substandard, that is owned by the Secretary and is—
+&emsp;For purposes of this subsection, the term "qualified HUD property" means any property for which, as of the date that notification of the property is first made under paragraph (3)(B), not less than 6 months have elapsed since the later of the date that the property was acquired by the Secretary or the date that the property was determined to be unoccupied or substandard, that is owned by the Secretary and is—
 
 &emsp;&emsp;(A) an unoccupied multifamily housing project;
 
@@ -38,7 +38,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 &emsp;&emsp;(C) such units and corporations to express interest in the transfer under this subsection of such properties;
 
-&emsp;&emsp;(D) a right of first refusal for transfer of qualified HUD properties to units of general local government and community development corporations, under which—
+&emsp;&emsp;(D) a right of first refusal for transfer of qualified HUD properties to units of generallocal government and community development corporations, under which—
 
 &emsp;&emsp;&emsp;(i) the Secretary shall establish a period during which the Secretary may not transfer such properties except to such units and corporations;
 
@@ -68,7 +68,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (B) Upon acquisition
 
-&emsp;&emsp;Upon acquiring any residential property, the Secretary shall promptly determinewhether the property is a qualified HUD property.
+&emsp;&emsp;Upon acquiring any residential property, the Secretary shall promptly determine whether the property is a qualified HUD property.
 
 #### (C) Updates
 
@@ -96,27 +96,27 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (A) Community development corporation
 
-&emsp;&emsp;The term “community development corporation” means a nonprofit organization whose primary purpose is to promote community development by providing housing opportunities for low-income families.
+&emsp;&emsp;The term "community development corporation" means a nonprofit organization whose primary purpose is to promote community development by providing housing opportunities for low-income families.
 
 #### (B) Cost recovery basis
 
-&emsp;&emsp;The term “cost recovery basis” means, with respect to any sale of a residential property by the Secretary, that the purchase price paid by the purchaser is equal to or greater than the sum of: (i) the appraised value of the property, as determined in accordance with such requirements as the Secretary shall establish; and (ii) the costs incurred by the Secretary in connection with such property during the period beginning on the date on which the Secretary acquires title to the property and ending on the date on which the sale is consummated.
+&emsp;&emsp;The term "cost recovery basis" means, with respect to any sale of a residential property by the Secretary, that the purchase price paid by the purchaser is equal to or greater than the sum of: (i) the appraised value of the property, as determined in accordance with such requirements as the Secretary shall establish; and (ii) the costs incurred by the Secretary in connection with such property during the period beginning on the date on which the Secretary acquires title to the property and ending on the date on which the sale is consummated.
 
 #### (C) Multifamily housing project
 
-&emsp;&emsp;The term “multifamily housing project” has the meaning given the term in section 1701z–11 of this title.
+&emsp;&emsp;The term "multifamily housing project" has the meaning given the term in section 1701z–11 of this title.
 
 #### (D) Residential property
 
-&emsp;&emsp;The term “residential property” means a property that is a multifamily housing project or a single family property.
+&emsp;&emsp;The term "residential property" means a property that is a multifamily housing project or a single family property.
 
 #### (E) Secretary
 
-&emsp;&emsp;The term “Secretary” means the Secretary of Housing and Urban Development.
+&emsp;&emsp;The term "Secretary" means the Secretary of Housing and Urban Development.
 
 #### (F) Severe physical problems
 
-&emsp;&emsp;The term “severe physical problems” means, with respect to a dwelling unit, that the unit—
+&emsp;&emsp;The term "severe physical problems" means, with respect to a dwelling unit, that the unit—
 
 &emsp;&emsp;&emsp;(i) lacks hot or cold piped water, a flush toilet, or both a bathtub and a shower in the unit, for the exclusive use of that unit;
 
@@ -130,19 +130,19 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (G) Single family property
 
-&emsp;&emsp;The term “single family property” means a 1- to 4-family residence.
+&emsp;&emsp;The term "single family property" means a 1- to 4-family residence.
 
 #### (H) Substandard
 
-&emsp;&emsp;The term “substandard” means, with respect to a multifamily housing project, that 25 percent or more of the dwelling units in the project have severe physical problems.
+&emsp;&emsp;The term "substandard" means, with respect to a multifamily housing project, that 25 percent or more of the dwelling units in the project have severe physical problems.
 
 #### (I) Unit of general local government
 
-&emsp;&emsp;The term “unit of general local government” has the meaning given such term in section 5302(a) of title 42.
+&emsp;&emsp;The term "unit of general local government" has the meaning given such term in section 5302(a) of title 42.
 
 #### (J) Unoccupied
 
-&emsp;&emsp;The term “unoccupied” means, with respect to a residential property, that the unit of general local government having jurisdiction over the area in which the project is located has certified in writing that the property is not inhabited.
+&emsp;&emsp;The term "unoccupied" means, with respect to a residential property, that the unit of general local government having jurisdiction over the area in which the project is located has certified in writing that the property is not inhabited.
 
 #### (12) Regulations
 
@@ -162,17 +162,17 @@ Section was enacted as part of the Departments of Veterans Affairs and Housing a
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–171 inserted at end “A grant provided under this subsection during fiscal years 2006 through 2010 shall be available only to the extent that appropriations are made in advance for such purposes and shall not be derived from the General Insurance Fund.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–171 inserted at end "A grant provided under this subsection during fiscal years 2006 through 2010 shall be available only to the extent that appropriations are made in advance for such purposes and shall not be derived from the General Insurance Fund."
 
-<b>2000</b>—Pub. L. 106–554 substituted “Disposition of HUD-owned properties” for “Flexible authority” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2000</b>—Pub. L. 106–554 substituted "Disposition of HUD-owned properties" for "Flexible authority" in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 106–377 substituted “2000, and thereafter” for “and 2000”.
+Pub. L. 106–377 substituted "2000, and thereafter" for "and 2000".
 
-<b>1999</b>—Pub. L. 106–74 substituted “1999, and 2000” for “and 1999” and “, demolition, or construction on the properties (which shall be eligible whether vacant or occupied)” for “or demolition”.
+<b>1999</b>—Pub. L. 106–74 substituted "1999, and 2000" for "and 1999" and ", demolition, or construction on the properties (which shall be eligible whether vacant or occupied)" for "or demolition".
 
-<b>1998</b>—Pub. L. 105–276 substituted “fiscal years 1997, 1998, and 1999” for “fiscal years 1997 and 1998”.
+<b>1998</b>—Pub. L. 105–276 substituted "fiscal years 1997, 1998, and 1999" for "fiscal years 1997 and 1998".
 
-<b>1997</b>—Pub. L. 105–65 inserted “, including, for fiscal years 1997 and 1998, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation or demolition,” after “owned by the Secretary”.
+<b>1997</b>—Pub. L. 105–65 inserted ", including, for fiscal years 1997 and 1998, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation or demolition," after "owned by the Secretary".
 
 #### Effective Date of 2006 Amendment
 

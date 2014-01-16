@@ -50,13 +50,13 @@ July 9, 1964, Pub. L. 88–365, §13, 78 Stat. 307; Sept. 8, 1966, Pub. L. 89–
 
 49 App.:1609(c).
 
-In subsection (a), the words “take such action as may be necessary to”, “the performance of”, “the assistance of”, and “at rates” are omitted as surplus. The word “same” is added for clarity. The words “duties and powers” are substituted for “authority and functions” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words "take such action as may be necessary to", "the performance of", "the assistance of", and "at rates" are omitted as surplus. The word "same" is added for clarity. The words "duties and powers" are substituted for "authority and functions" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b)(1), the reference to sections 5307, 5308, 5310, and 5311 of the revised title is added for clarity because of 49 App.:1607a(e)(1), 1607a–2(a), 1612(b), and 1614(f), restated as sections 5307(n)(2), 5308(b)(1), 5310(a), and 5311(i) of the revised title. The reference to section 5312 is added for clarity because it is intended that 49 App.:1609(c) cover research, development, training, and demonstration projects. The words “terms and conditions of the protective” are omitted as surplus.
+In subsection (b)(1), the reference to sections 5307, 5308, 5310, and 5311 of the revised title is added for clarity because of 49 App.:1607a(e)(1), 1607a–2(a), 1612(b), and 1614(f), restated as sections 5307(n)(2), 5308(b)(1), 5310(a), and 5311(i) of the revised title. The reference to section 5312 is added for clarity because it is intended that 49 App.:1609(c) cover research, development, training, and demonstration projects. The words "terms and conditions of the protective" are omitted as surplus.
 
-In subsection (b)(2), before clause (A), the words “without being limited to” are omitted as being included in “include”. The words “such provisions as may be necessary for” are omitted as surplus. In clause (C), the word “individual” is omitted as surplus.
+In subsection (b)(2), before clause (A), the words "without being limited to" are omitted as being included in "include". The words "such provisions as may be necessary for" are omitted as surplus. In clause (C), the word "individual" is omitted as surplus.
 
-In subsection (b)(3), the words “section 11347 of this title” are substituted for and coextensive with “section 5(2)(f) of the Act of February 4, 1887 (24 Stat. 379), as amended” in section 13(c) of the Urban Mass Transportation Act of 1964 (Public Law 88–365, 78 Stat. 307) on authority of section 3(b) of the Act of October 17, 1978 (Public Law 95–473, 92 Stat. 1466).
+In subsection (b)(3), the words "section 11347 of this title" are substituted for and coextensive with "section 5(2)(f) of the Act of February 4, 1887 (24 Stat. 379), as amended" in section 13(c) of the Urban Mass Transportation Act of 1964 (Public Law 88–365, 78 Stat. 307) on authority of section 3(b) of the Act of October 17, 1978 (Public Law 95–473, 92 Stat. 1466).
 
 #### References in Text
 
@@ -66,19 +66,19 @@ Sections 5316 and 5328 of this title, referred to in subsec. (b)(1), were repeal
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141 substituted “sections 3141 through 3144” for “sections 3141–3144”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141 substituted "sections 3141 through 3144" for "sections 3141–3144".
 
-<b>2005</b>—Subsec. (b)(1). Pub. L. 109–59, §3031(1), substituted “5316, 5318, 5323(a)(1), 5323(b), 5323(d), 5328, 5337, and 5338(b)” for “5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(b)” in two places.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–59, §3031(1), substituted "5316, 5318, 5323(a)(1), 5323(b), 5323(d), 5328, 5337, and 5338(b)" for "5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(b)" in two places.
 
-Subsec. (b)(2)(D). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
+Subsec. (b)(2)(D). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation".
 
 Subsec. (b)(4), (5). Pub. L. 109–59, §3031(2), added pars. (4) and (5).
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted "sections 3141–3144, 3146, and 3147 of title 40" for "the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)" and "section 3145 of title 40" for "section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)".
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–178 substituted “5338(b)” for “5338(j)(5)” in two places.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–178 substituted "5338(b)" for "5338(j)(5)" in two places.
 
-<b>1995</b>—Subsec. (b)(3). Pub. L. 104–88 substituted “11326” for “11347”.
+<b>1995</b>—Subsec. (b)(3). Pub. L. 104–88 substituted "11326" for "11347".
 
 #### Effective Date of 2012 Amendment
 

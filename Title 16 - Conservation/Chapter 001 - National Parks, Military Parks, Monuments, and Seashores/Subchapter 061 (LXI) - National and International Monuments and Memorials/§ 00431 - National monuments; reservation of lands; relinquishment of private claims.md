@@ -1,12 +1,12 @@
 ### §431. National monuments; reservation of lands; relinquishment of private claims
 
-The President of the United States is authorized, in his discretion, to declare by public proclamation historic landmarks, historic and prehistoric structures, and other objects of historic or scientific interest that are situated upon thelands owned or controlled by the Government of the United States to be national monuments, and may reserve as a part thereof parcels of land, the limits of which in all cases shall be confined to the smallest area compatible with the proper care and management of the objects to be protected. When such objects are situated upon a tract covered by a bona fide unperfected claim or held in private ownership, the tract, or so much thereof as may be necessary for the proper care and management of the object, may be relinquished to the Government, and the Secretary of the Interior is authorized to accept the relinquishment of such tracts in behalf of the Government of the United States.
+The President of the United States is authorized, in his discretion, to declare by public proclamation historic landmarks, historic and prehistoric structures, and other objects of historic or scientific interest that are situated upon the lands owned or controlled by the Government of the United States to be national monuments, and may reserve as a part thereof parcels of land, the limits of which in all cases shall be confined to the smallest area compatible with the proper care and management of the objects to be protected. When such objects are situated upon a tract covered by a bona fide unperfected claim or held in private ownership, the tract, or so much thereof as may be necessary for the proper care and management of the object, may be relinquished to the Government, and the Secretary of the Interior is authorized to accept the relinquishment of such tracts in behalf of the Government of the United States.
 
 (June 8, 1906, ch. 3060, §2, 34 Stat. 225.)
 
 #### Short Title
 
-Act June 8, 1906, ch. 3060, 34 Stat. 225, which is classified generally to sections 431, 432, and 433 of this title, is popularly known as the “Antiquities Act of 1906”, and is also known as the “National Monument Act”.
+Act June 8, 1906, ch. 3060, 34 Stat. 225, which is classified generally to sections 431, 432, and 433 of this title, is popularly known as the "Antiquities Act of 1906", and is also known as the "National Monument Act".
 
 #### National Monument Commission
 
@@ -92,6 +92,8 @@ Chaco Canyon National Monument, New Mexico \[Monument abolished and funds made a
 
 Channel Islands National Monument, California \[Monument abolished and incorporated in Channel Islands National Park, see section 410ff of this title\].—Proc. No. 2281, Apr. 26, 1938, 52 Stat. 1541; Proc. No. 2825, Feb. 9, 1949, 63 Stat. 1258.
 
+Charles Young Buffalo Soldiers National Monument, Ohio.—Proc. No. 8945, Mar. 25, 2013, 78 F.R. 18777.
+
 Chesapeake and Ohio Canal National Monument, Maryland.—Proc. No. 3391, Jan. 18, 1961, 75 Stat. 1023.
 
 Chimney Rock National Monument, Colorado.—Proc. No. 8868, Sept. 21, 2012, 77 F.R. 59275.
@@ -129,6 +131,8 @@ Effigy Mounds National Monument, Iowa.—Proc. No. 2860, Oct. 25, 1949, 64 Stat.
 a371; Pub. L. 106–323, Oct. 19, 2000, 114 Stat. 1289.
 
 El Morro National Monument, New Mexico.—Proc. No. 695, Dec. 8, 1906, 34 Stat. 3264; Proc. No. 1377, June 18, 1917, 40 Stat. 1673.
+
+First State National Monument, Delaware.—Proc. No. 8944, Mar. 25, 2013, 78 F.R. 18769.
 
 Fort Jefferson National Monument, Florida \[Monument abolished and incorporated in Dry Tortugas National Park, see section 410xx of this title\].—Proc. No. 2112, Jan. 4, 1935, 49 Stat. 3430; Pub. L. 96–287, title II, June 28, 1980, 94 Stat. 600; Pub. L. 102–525, title II, §201(c), Oct. 26, 1992, 106 Stat. 3440.
 
@@ -175,6 +179,8 @@ Great Sand Dunes National Monument, Colorado \[Monument abolished and incorporat
 c31.
 
 Hanford Reach National Monument, Washington.—Proc. No. 7319, June 9, 2000, 65 F.R. 37253.
+
+Harriet Tubman—Underground Railroad National Monument, Maryland.—Proc. No. 8943, Mar. 25, 2013, 78 F.R. 18763.
 
 Holy Cross National Monument, Colorado \[Monument abolished by act Aug. 3, 1950, ch. 530, 64 Stat. 404\].—Proc. No. 1877, May 11, 1929, 46 Stat. 2993.
 
@@ -270,15 +276,19 @@ Pipe Spring National Monument, Arizona.—Proc. No. 1663, May 31, 1923, 43 Stat.
 
 Pompeys Pillar National Monument, Montana.—Proc. No. 7396, Jan. 17, 2001, 66 F.R. 7351.
 
-President Lincoln and Soldiers’ Home National Monument, District of Columbia.—Proc. No. 7329, July 7, 2000, 65 F.R. 43673.
+President Lincoln and Soldiers' Home National Monument, District of Columbia.—Proc. No. 7329, July 7, 2000, 65 F.R. 43673.
 
 Rainbow Bridge National Monument, Utah.—Proc. No. 1043, May 30, 1910, 36 Stat. 2703.
+
+Río Grande del Norte National Monument, New Mexico.—Proc. No. 8946, Mar. 25, 2013, 78 F.R. 18783.
 
 Rose Atoll Marine National Monument, American Samoa.—Proc. No. 8337, Jan. 6, 2009, 74 F.R. 1577.
 
 Russell Cave National Monument, Alabama.—Proc. No. 3413, May 11, 1961, 75 Stat. 1058.
 
 Saguaro National Monument, Arizona \[Monument abolished and incorporated in Saguaro National Park, see section 410zz–1 of this title\].—Proc. No. 2032, Mar. 1, 1933, 47 Stat. 2557; Proc. No. 3439, Nov. 15, 1961, 76 Stat. 1437; Pub. L. 102–61, June 19, 1991, 105 Stat. 303; Pub. L. 103–364, §3, Oct. 14, 1994, 108 Stat. 3467.
+
+San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789.
 
 Santa Rosa Island National Monument, Florida.—Proc. No. 2337, May 17, 1939, 53 Stat. 2542; Proc. No. 2659, Aug. 13, 1945, 59 Stat. 877.
 
@@ -434,13 +444,15 @@ Lincoln Museum National Memorial, District of Columbia.—Act Apr. 7, 1866, ch. 
 
 Lincoln National Memorial, District of Columbia.—Act Feb. 9, 1911, ch. 42, 36 Stat. 898.
 
+Military Divers Memorial.—Pub. L. 113–66, div. B, title XXVIII, §2842, Dec. 26, 2013, 127 Stat. 1024.
+
 Mount Rushmore National Memorial, South Dakota.—Act Feb. 25, 1929, ch. 315, 45 Stat. 1300.
 
 Mt. Soledad Veterans Memorial, California.—Pub. L. 108–447, div. J, title I, §116, Dec. 8, 2004, 118 Stat. 3346; Pub. L. 109–272, Aug. 14, 2006, 120 Stat. 770; Pub. L. 109–364, div. A, title X, §1071(d), Oct. 17, 2006, 120 Stat. 2401.
 
 National D-Day Memorial, Virginia.—Pub. L. 104–201, div. A, title X, §1080, Sept. 23, 1996, 110 Stat. 2670.
 
-National Fallen Firefighters’ Memorial, Maryland.—Pub. L. 101–347, Aug. 9, 1990, 104 Stat. 398.
+National Fallen Firefighters' Memorial, Maryland.—Pub. L. 101–347, Aug. 9, 1990, 104 Stat. 398.
 
 National Law Enforcement Officers Memorial, District of Columbia.—Establishment of Maintenance Fund by Pub. L. 104–329, title II, §201, Oct. 20, 1996, 110 Stat. 4011; Pub. L. 109–314, Oct. 6, 2006, 120 Stat. 1739.
 
@@ -470,7 +482,7 @@ U.S.S. Indianapolis Memorial, Indiana.—Pub. L. 103–160, div. A, title XI, §
 
 USS Oklahoma Memorial, Hawaii.—Pub. L. 109–163, div. A, title X, §1017, Jan. 6, 2006, 119 Stat. 3425.
 
-Vietnam Veterans Memorial, District of Columbia.—Pub. L. 96–297, July 1, 1980, 94 Stat. 827, as amended by Pub. L. 106–214, §1, June 15, 2000, 114 Stat. 335; Pub. L. 108–126, title I, §101, Nov. 17, 2003, 117 Stat. 1348; Pub. L. 111–270, §1, Oct. 12, 2010, 124 Stat. 2851; Pub. L. 112–74, div. E, title IV, §420, Dec. 23, 2011, 125 Stat. 1045.
+Vietnam Veterans Memorial, District of Columbia.—Pub. L. 96–297, July 1, 1980, 94 Stat. 827; Pub. L. 106–214, §1, June 15, 2000, 114 Stat. 335; Pub. L. 108–126, title I, §101, Nov. 17, 2003, 117 Stat. 1348; Pub. L. 111–270, §1, Oct. 12, 2010, 124 Stat. 2851; Pub. L. 112–74, div. E, title IV, §420, Dec. 23, 2011, 125 Stat. 1045; Pub. L. 113–21, July 18, 2013, 127 Stat. 490.
 
 Washington Monument National Memorial, District of Columbia.—Act Aug. 2, 1876, ch. 250, §1, 19 Stat. 123.
 

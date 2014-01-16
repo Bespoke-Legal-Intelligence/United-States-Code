@@ -10,7 +10,7 @@ For purposes of this section:
 
 #### (1) Presumptive eligibility period
 
-&emsp;The term “presumptive eligibility period” means, with respect to an individual described in subsection (a), the period that—
+&emsp;The term "presumptive eligibility period" means, with respect to an individual described in subsection (a), the period that—
 
 &emsp;&emsp;(A) begins with the date on which a qualified entity determines, on the basis of preliminary information, that the individual is described in section 1396a(ii) of this title; and
 
@@ -24,7 +24,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term “qualified entity” means any entity that—
+&emsp;&emsp;Subject to subparagraph (B), the term "qualified entity" means any entity that—
 
 &emsp;&emsp;&emsp;(i) is eligible for payments under a State plan approved under this subchapter; and
 
@@ -76,9 +76,9 @@ Notwithstanding any other provision of law, medical assistance that—
 
 Section effective Mar. 23, 2010, and applicable to items and services furnished on or after such date, see section 2303(d) of Pub. L. 111–148, set out as an Effective and Termination Dates of 2010 Amendment note under section 1396a of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “A”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "A".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "an".</i>
 

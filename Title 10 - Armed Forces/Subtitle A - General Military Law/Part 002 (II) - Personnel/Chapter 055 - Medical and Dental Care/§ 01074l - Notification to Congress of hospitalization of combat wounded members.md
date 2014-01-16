@@ -6,7 +6,7 @@ Notification Required.—The Secretary concerned shall provide notification of t
 
 (b)
 
-Appropriate Members.—In this section, the term “appropriate Members of Congress”, with respect to the member of the armed forces about whom notification is being made, means the Senators representing the State, and the Member, Delegate, or Resident Commissioner of the House of Representatives representing the district, that includes the member's home of record or a different location as provided by the member.
+Appropriate Members.—In this section, the term "appropriate Members of Congress", with respect to the member of the armed forces about whom notification is being made, means the Senators representing the State, and the Member, Delegate, or Resident Commissioner of the House of Representatives representing the district, that includes the member's home of record or a different location as provided by the member.
 
 (c)
 
@@ -16,5 +16,5 @@ Consent of Member Required.—The notification under subsection (a) may be provi
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title XVI, §1617(a)(2), Jan. 28, 2008, 122 Stat. 449, provided that: “The notification requirement under section 1074l(a) of title 10, United States Code, as added by paragraph (1), shall apply beginning 60 days after the date of the enactment of this Act \[Jan. 28, 2008\].”
+Pub. L. 110–181, div. A, title XVI, §1617(a)(2), Jan. 28, 2008, 122 Stat. 449, provided that: "The notification requirement under section 1074l(a) of title 10, United States Code, as added by paragraph (1), shall apply beginning 60 days after the date of the enactment of this Act \[Jan. 28, 2008\]."
 

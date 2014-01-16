@@ -12,7 +12,7 @@ Non-Federal Vessel Traffic Service Operators.—An entity operating a non-Federa
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–213 substituted “Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators” for “Limitation of liability for Coast Guard Vessel Traffic Service pilots” in section catchline, designated existing provisions as subsec. (a), inserted subsec. (a) heading, and added subsec. (b).
+<b>2012</b>—Pub. L. 112–213 substituted "Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators" for "Limitation of liability for Coast Guard Vessel Traffic Service pilots" in section catchline, designated existing provisions as subsec. (a), inserted subsec. (a) heading, and added subsec. (b).
 
 #### Transfer of Functions
 

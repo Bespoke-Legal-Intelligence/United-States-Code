@@ -22,7 +22,7 @@ The Secretary shall mail to each partner whose name and address is furnished to 
 
 #### (2) Secretary must give notice to notice group
 
-&emsp;If a group of partners in the aggregate having a 5 percent or more interest in the profits of a partnership so request and designate one of their members to receive the notice, the member so designated shall be treated as a partner to whom subsection (a) applies.
+&emsp;If a group of partners in the aggregate having a 5 percent or more interest in the profitsof a partnership so request and designate one of their members to receive the notice, the member so designated shall be treated as a partner to whom subsection (a) applies.
 
 #### (c) Information base for Secretary's notices, etc.
 
@@ -102,7 +102,7 @@ To the extent and in the manner provided by regulations, the tax matters partner
 
 #### (1) In general
 
-&emsp;If a pass-thru partner receives a notice with respect to a partnership proceeding from the Secretary, the tax matters partner, or another pass-thru partner, the pass-thru partner shall, within 30 days of receiving that notice, forward a copy of that notice to the person or persons holding an interest (through the pass-thru partner) in the profits or losses of the partnership for the partnership taxable year to which the notice relates.
+&emsp;If a pass-thru partner receives a notice with respect to a partnership proceeding from the Secretary, the tax matters partner, or another pass-thru partner, the pass-thru partner shall, within 30 days of receiving that notice, forward a copy of that notice to the person orpersons holding an interest (through the pass-thru partner) in the profits or losses of the partnership for the partnership taxable year to which the notice relates.
 
 #### (2) Partnership as pass-thru partner
 

@@ -22,7 +22,7 @@
 
 #### (C) Controlled group
 
-&emsp;&emsp;For purposes of subparagraph (B), the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414.
+&emsp;&emsp;For purposes of subparagraph (B), the term "controlled group" means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414.
 
 #### (3) Amount distributed may be repaid
 
@@ -44,7 +44,7 @@
 
 #### (A) Qualified hurricane distribution
 
-&emsp;&emsp;Except as provided in paragraph (2), the term “qualified hurricane distribution” means—
+&emsp;&emsp;Except as provided in paragraph (2), the term "qualified hurricane distribution" means—
 
 &emsp;&emsp;&emsp;(i) any distribution from an eligible retirement plan made on or after August 25, 2005, and before January 1, 2007, to an individual whose principal place of abode on August 28, 2005, is located in the Hurricane Katrina disaster area and who has sustained an economic loss by reason of Hurricane Katrina,
 
@@ -54,7 +54,7 @@
 
 #### (B) Eligible retirement plan
 
-&emsp;&emsp;The term “eligible retirement plan” shall have the meaning given such term by section 402(c)(8)(B).
+&emsp;&emsp;The term "eligible retirement plan" shall have the meaning given such term by section 402(c)(8)(B).
 
 #### (5) Income inclusion spread over 3-year period
 
@@ -94,11 +94,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified distribution” means any qualified Katrina distribution, any qualified Rita distribution, and any qualified Wilma distribution.
+&emsp;&emsp;The term "qualified distribution" means any qualified Katrina distribution, any qualified Rita distribution, and any qualified Wilma distribution.
 
 #### (B) Qualified Katrina distribution
 
-&emsp;&emsp;The term “qualified Katrina distribution” means any distribution—
+&emsp;&emsp;The term "qualified Katrina distribution" means any distribution—
 
 &emsp;&emsp;&emsp;(i) described in section 401(k)(2)(B)(i)(IV), 403(b)(7)(A)(ii) (but only to the extent such distribution relates to financial hardship), 403(b)(11)(B), or 72(t)(2)(F),
 
@@ -108,7 +108,7 @@
 
 #### (C) Qualified Rita distribution
 
-&emsp;&emsp;The term “qualified Rita distribution” means any distribution (other than a qualified Katrina distribution)—
+&emsp;&emsp;The term "qualified Rita distribution" means any distribution (other than a qualified Katrina distribution)—
 
 &emsp;&emsp;&emsp;(i) described in section 401(k)(2)(B)(i)(IV), 403(b)(7)(A)(ii) (but only to the extent such distribution relates to financial hardship), 403(b)(11)(B), or 72(t)(2)(F),
 
@@ -118,7 +118,7 @@
 
 #### (D) Qualified Wilma distribution
 
-&emsp;&emsp;The term “qualified Wilma distribution” means any distribution (other than a qualified Katrina distribution or a qualified Rita distribution)—
+&emsp;&emsp;The term "qualified Wilma distribution" means any distribution (other than a qualified Katrina distribution or a qualified Rita distribution)—
 
 &emsp;&emsp;&emsp;(i) described in section 401(k)(2)(B)(i)(IV), 403(b)(7)(A)(ii) (but only to the extent such distribution relates to financial hardship), 403(b)(11)(B), or 72(t)(2)(F),
 
@@ -128,7 +128,7 @@
 
 #### (3) Applicable period
 
-&emsp;For purposes of this subsection, the term “applicable period” means—
+&emsp;For purposes of this subsection, the term "applicable period" means—
 
 &emsp;&emsp;(A) with respect to any qualified Katrina distribution, the period beginning on August 25, 2005, and ending on February 28, 2006,
 
@@ -142,9 +142,9 @@
 
 &emsp;In the case of any loan from a qualified employer plan (as defined under section 72(p)(4)) to a qualified individual made during the applicable period—
 
-&emsp;&emsp;(A) clause (i) of section 72(p)(2)(A) shall be applied by substituting “$100,000” for “$50,000”, and
+&emsp;&emsp;(A) clause (i) of section 72(p)(2)(A) shall be applied by substituting "$100,000" for "$50,000", and
 
-&emsp;&emsp;(B) clause (ii) of such section shall be applied by substituting “the present value of the nonforfeitable accrued benefit of the employee under the plan” for “one-half of the present value of the nonforfeitable accrued benefit of the employee under the plan”.
+&emsp;&emsp;(B) clause (ii) of such section shall be applied by substituting "the present value of the nonforfeitable accrued benefit of the employee under the plan" for "one-half of the present value of the nonforfeitable accrued benefit of the employee under the plan".
 
 #### (2) Delay of repayment
 
@@ -162,19 +162,19 @@
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified individual” means any qualified Hurricane Katrina individual, any qualified Hurricane Rita individual, and any qualified Hurricane Wilma individual.
+&emsp;&emsp;The term "qualified individual" means any qualified Hurricane Katrina individual, any qualified Hurricane Rita individual, and any qualified Hurricane Wilma individual.
 
 #### (B) Qualified Hurricane Katrina individual
 
-&emsp;&emsp;The term “qualified Hurricane Katrina individual” means an individual whose principal place of abode on August 28, 2005, is located in the Hurricane Katrina disaster area and who has sustained an economic loss by reason of Hurricane Katrina.
+&emsp;&emsp;The term "qualified Hurricane Katrina individual" means an individual whose principal place of abode on August 28, 2005, is located in the Hurricane Katrina disaster area and who has sustained an economic loss by reason of Hurricane Katrina.
 
 #### (C) Qualified Hurricane Rita individual
 
-&emsp;&emsp;The term “qualified Hurricane Rita individual” means an individual (other than a qualified Hurricane Katrina individual) whose principal place of abode on September 23, 2005, is located in the Hurricane Rita disaster area and who has sustained an economic loss by reason of Hurricane Rita.
+&emsp;&emsp;The term "qualified Hurricane Rita individual" means an individual (other than a qualified Hurricane Katrina individual) whose principal place of abode on September 23, 2005, is located in the Hurricane Rita disaster area and who has sustained an economic loss by reason of Hurricane Rita.
 
 #### (D) Qualified Hurricane Wilma individual
 
-&emsp;&emsp;The term “qualified Hurricane Wilma individual” means an individual (other than a qualified Hurricane Katrina individual or a qualified Hurricane Rita individual) whose principal place of abode on October 23, 2005, is located in the Hurricane Wilma disaster area and who has sustained an economic loss by reason of Hurricane Wilma.
+&emsp;&emsp;The term "qualified Hurricane Wilma individual" means an individual (other than a qualified Hurricane Katrina individual or a qualified Hurricane Rita individual) whose principal place of abode on October 23, 2005, is located in the Hurricane Wilma disaster area and who has sustained an economic loss by reason of Hurricane Wilma.
 
 #### (4) Applicable period; qualified beginning date
 
@@ -242,5 +242,5 @@
 
 The date of the enactment of this subsection and this subparagraph, referred to in subsec. (c)(4)(B)(i), (C)(i), is the date of enactment of Pub. L. 109–135, which was approved Dec. 21, 2005.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "of".</i>
 

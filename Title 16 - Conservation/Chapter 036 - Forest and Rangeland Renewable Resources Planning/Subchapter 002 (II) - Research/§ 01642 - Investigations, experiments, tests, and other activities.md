@@ -6,7 +6,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;(1) Renewable resource management research shall include, as appropriate, research activities related to managing, reproducing, planting, and growing vegetation on forests and rangelands for timber, forage, water, fish and wildlife, esthetics, recreation, wilderness, energy production, activities related to energy conservation, and other purposes, including activities for encouraging improved reforestation of forest lands from which timber has been harvested; determining the role of forest and rangeland management in the productive use of forests and rangelands, in diversified agriculture, and in mining, transportation, and other industries; and developing alternatives for the management of forests and rangelands that will make possible the most effective use of their multiple products and services.
 
-&emsp;(2) Renewable resource environmental research shall include, as appropriate, research activities related to understanding and managing surface and subsurface water flow, preventing and controlling erosion, and restoring damaged or disturbed soils on forest and rangeland watersheds; maintaining and improving wildlife and fish habitats; managing vegetation to reduce air and water pollution, provide amenities, and for other purposes; and understanding, predicting, and modifying weather, climatic, and other environmentalconditions that affect the protection and management of forests and rangelands.
+&emsp;(2) Renewable resource environmental research shall include, as appropriate, research activities related to understanding and managing surface and subsurface water flow, preventing and controlling erosion, and restoring damaged or disturbed soils on forest and rangeland watersheds; maintaining and improving wildlife and fish habitats; managing vegetation to reduce air and water pollution, provide amenities, and for other purposes; and understanding, predicting, and modifying weather, climatic, and other environmental conditions that affect the protection and management of forests and rangelands.
 
 &emsp;(3) Renewable resource protection research shall include, as appropriate, research activities related to protecting vegetation and other forest and rangeland resources, including threatened and endangered flora and fauna, as well as wood and wood products in storage or use, from fires, insects, diseases, noxious plants, animals, air pollutants, and other agents through biological, chemical, and mechanical control methods and systems; and protecting people, natural resources, and property from fires in rural areas.
 
@@ -22,13 +22,13 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (c) Program of research and study relative to health and productivity of domestic forest ecosystems; advisory committee; reports
 
-(1) The Secretary, acting through the United States Forest Service, shall establish not later than 180 days after October 24, 1988, a 10-year program (hereinafter in this subsection referred to as the “Program”) to—
+(1) The Secretary, acting through the United States Forest Service, shall establish not later than 180 days after October 24, 1988, a 10-year program (hereinafter in this subsection referred to as the "Program") to—
 
 &emsp;(A) increase the frequency of forest inventories in matters that relate to atmospheric pollution and conduct such surveys as are necessary to monitor long-term trends in the health and productivity of domestic forest ecosystems;
 
 &emsp;(B) determine the scope of the decline in the health and productivity of domestic forest ecosystems;
 
-&emsp;(C) accelerate and expand existing research efforts (including basic forest ecosystem research) to evaluate the effects of atmospheric pollutants on forest ecosystems and their role in the decline in domestic forest health and productivity;
+&emsp;(C) accelerate and expand existing research efforts (including basic forest ecosystem research) to evaluate the effects of atmosphericpollutants on forest ecosystems and their role in the decline in domestic forest health and productivity;
 
 &emsp;(D) study the relationship between atmospheric pollution and other climatological, chemical, physical, and biological factors that may affect the health and productivity of domestic forest ecosystems;
 
@@ -50,7 +50,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;&emsp;(i) discussing existing information about declining health and productivity of forest ecosystems on public and private lands in North America and Europe;
 
-&emsp;&emsp;(ii) outlining the findings and status of all current research and monitoring efforts in North America and Europe on the causes andeffects of atmospheric pollution on the health and productivity of forest ecosystems;
+&emsp;&emsp;(ii) outlining the findings and status of all current research and monitoring efforts in North America and Europe on the causes and effects of atmospheric pollution on the health and productivity of forest ecosystems;
 
 &emsp;&emsp;(iii) describing the Program; and
 
@@ -126,7 +126,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (C) Compilation of inventory
 
-&emsp;&emsp;On completion of the inventory for a year, the Secretary shall make available to thepublic a compilation of all data collected for that year from measurements of sample plots as well as any analysis made of the samples.
+&emsp;&emsp;On completion of the inventory for a year, the Secretary shall make available to the public a compilation of all data collected for that year from measurements of sample plots as well as any analysis made of the samples.
 
 #### (3) 5-year reports
 
@@ -160,7 +160,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;&emsp;(E) the core set of variables to be measured in each sample plot under paragraph (2) and the standard set of tables to be used in each State and national report under paragraph (3); and
 
-&emsp;&emsp;(F) the process for employing, in coordination with the Secretary of Energy and the Administrator of the National Aeronautics and Space Administration, remote sensing, global positioning systems, and other advanced technologies to carry out this subsection, and the subsequent use of the technologies.
+&emsp;&emsp;(F) the process for employing, in coordination with the Secretary of Energy and the Administrator of the National Aeronautics and Space Administration, remote sensing,global positioning systems, and other advanced technologies to carry out this subsection, and the subsequent use of the technologies.
 
 (Pub. L. 95–307, §3, June 30, 1978, 92 Stat. 353; Pub. L. 96–294, title II, §254, June 30, 1980, 94 Stat. 707; Pub. L. 100–521, §3, Oct. 24, 1988, 102 Stat. 2601; Pub. L. 101–624, title XII, §1241(a), Nov. 28, 1990, 104 Stat. 3544; Pub. L. 105–185, title II, §253(b), (c), June 23, 1998, 112 Stat. 559; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–32.)
 
@@ -170,19 +170,19 @@ The Federal revenue codes, referred to in subsec. (d)(2), are classified general
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–185, §253(b), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary is authorized to conduct, support, and cooperate in studies and other activities the Secretary deems necessary to—
+<b>1998</b>—Subsec. (d). Pub. L. 105–185, §253(b), added subsec. (d) and struck out former subsec. (d) which read as follows: "The Secretary is authorized to conduct, support, and cooperate in studies and other activities the Secretary deems necessary to—
 
-&emsp;“(1) evaluate renewable resource management problems associated with urban-forest interface;
+&emsp;"(1) evaluate renewable resource management problems associated with urban-forest interface;
 
-&emsp;“(2) assess effects of changes in Federal revenue codes on private forest management and investment; and
+&emsp;"(2) assess effects of changes in Federal revenue codes on private forest management and investment; and
 
-&emsp;“(3) develop improved delivery systems for information and technical assistance provided to private landowners.”
+&emsp;"(3) develop improved delivery systems for information and technical assistance provided to private landowners."
 
-Subsec. (d)(3). Pub. L. 105–277 substituted “At the request of the Governor of the State of Maine, New Hampshire, New York, or Vermont, the Secretary” for “The Secretary”.
+Subsec. (d)(3). Pub. L. 105–277 substituted "At the request of the Governor of the State of Maine, New Hampshire, New York, or Vermont, the Secretary" for "The Secretary".
 
 Subsec. (e). Pub. L. 105–185, §253(c), added subsec. (e).
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624, §1241(a)(1), inserted “, including activities for encouraging improved reforestation of forest lands from which timber has been harvested” after “purposes”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624, §1241(a)(1), inserted ", including activities for encouraging improved reforestation of forest lands from which timber has been harvested" after "purposes".
 
 Subsec. (b). Pub. L. 101–624, §1241(a)(2), designated existing provisions as par. (1) and added par. (2).
 
@@ -202,87 +202,87 @@ Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) \[tit
 
 Pub. L. 101–624, title XII, §1242, Nov. 28, 1990, 104 Stat. 3545, provided that:
 
-“(a)
+"(a)
 
-Establishment.—The Secretary of Agriculture shall make a grant to a State for the establishment,within such State, of a center, to be known as the ‘Southern Forest Regeneration Center’ (hereafter referred to in this section as the ‘Center’), to study forest regeneration problems and forest productivity in the southern region of the United States.
+Establishment.—The Secretary of Agriculture shall make a grant to a State for the establishment, within such State, of a center, to be known as the 'Southern Forest Regeneration Center' (hereafter referred to in this section as the 'Center'), to study forest regeneration problems and forest productivity in the southern region of the United States.
 
-“(b)
+"(b)
 
 Duties of Center.—The Center shall study forest regeneration problems and forest productivity in the southern region of the United States, including—
 
-&emsp;“(1) nursery management concerns that will lead to improved seedling quality;
+&emsp;"(1) nursery management concerns that will lead to improved seedling quality;
 
-&emsp;“(2) forest management practices that account for environmental stresses; and
+&emsp;"(2) forest management practices that account for environmental stresses; and
 
-&emsp;“(3) the development of low-cost forest regeneration methods that provide options for wood products, species diversity, wildlife habitat, and production of clean air and water.
+&emsp;"(3) the development of low-cost forest regeneration methods that provide options for wood products, species diversity, wildlife habitat, and production of clean air and water.
 
-“(c)
+"(c)
 
 Establishment of Other Programs.—The Secretary of Agriculture may establish other programs in other regions of the United States, or a comprehensive National program, to carry out the purposes of this section as the Secretary determines appropriate.
 
-“(d)
+"(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section.”
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section."
 
 #### Semiarid Agroforestry Research Center
 
 Pub. L. 101–624, title XII, §1243, Nov. 28, 1990, 104 Stat. 3546, provided that:
 
-“(a)
+"(a)
 
-Semiarid Agroforestry Research, Development, and Demonstration Center.—The Secretary of Agriculture shall establish at the Forestry Sciences Laboratory of the United States Forest Service, in Lincoln, Nebraska, a Semiarid Agroforestry Research, Development, and Demonstration Center (hereafter referred to in this section as the ‘Center’) and appoint a Director to manage and coordinate the program established at the Center under subsection (b).
+Semiarid Agroforestry Research, Development, and Demonstration Center.—The Secretary of Agriculture shall establish at the Forestry Sciences Laboratory of the United States Forest Service, in Lincoln, Nebraska, a Semiarid Agroforestry Research, Development, and Demonstration Center (hereafter referred to in this section as the 'Center') and appoint a Director to manage and coordinate the program established at the Center under subsection (b).
 
-“(b)
+"(b)
 
 Program.—The Secretary shall establish a program at the Center and seek the participation of Federal or State governmental entities, land-grant colleges or universities, State agricultural experiment stations, State and private foresters, the National Arbor Day Foundation, and other nonprofit foundations in such program to conduct or assist research, investigations, studies, and surveys to—
 
-&emsp;“(1) develop sustainable agroforestry systems on semiarid lands that minimize topsoil loss and water contamination and stabilize or enhance crop productivity;
+&emsp;"(1) develop sustainable agroforestry systems on semiarid lands that minimize topsoil loss and water contamination and stabilize or enhance crop productivity;
 
-&emsp;“(2) adapt, demonstrate, document, and model the effectiveness of agroforestry systems under different farming systems and soil or climate conditions;
+&emsp;"(2) adapt, demonstrate, document, and model the effectiveness of agroforestry systems under different farming systems and soil or climate conditions;
 
-&emsp;“(3) develop dual use agroforestry systems compatible with paragraphs (1) and (2) which would provide high-value forestry products for commercial sale from semiarid land;
+&emsp;"(3) develop dual use agroforestry systems compatible with paragraphs (1) and (2) which would provide high-value forestry products for commercial sale from semiarid land;
 
-&emsp;“(4) develop and improve the drought and pest resistance characteristics of trees for conservation forestry and agroforestry applications in semiarid regions, including the introduction and breeding of trees suited for the Great Plains region of the United States;
+&emsp;"(4) develop and improve the drought and pest resistance characteristics of trees for conservation forestry and agroforestry applications in semiarid regions, including the introduction and breeding of trees suited for the Great Plains region of the United States;
 
-&emsp;“(5) develop technology transfer programs that increase farmer and public acceptance of sustainable agroforestry systems;
+&emsp;"(5) develop technology transfer programs that increase farmer and public acceptance of sustainable agroforestry systems;
 
-&emsp;“(6) develop improved windbreak and shelterbelt technologies for drought preparedness, soil and water conservation, environmental quality, and biological diversity on semiarid lands;
+&emsp;"(6) develop improved windbreak and shelterbelt technologies for drought preparedness, soil and water conservation, environmental quality, and biological diversity on semiarid lands;
 
-&emsp;“(7) develop technical and economic concepts for sustainable agroforestry on semiarid lands, including the conduct of economic analyses of the costs and benefits of agroforestry systems and the development of models to predict the economic benefits under soil or climate conditions;
+&emsp;"(7) develop technical and economic concepts for sustainable agroforestry on semiarid lands, including the conduct of economic analyses of the costs and benefits of agroforestry systems and the development of models to predict the economic benefits under soil or climate conditions;
 
-&emsp;“(8) provide international leadership in the development and exchange of agroforestry practices on semiarid lands worldwide;
+&emsp;"(8) provide international leadership in the development and exchange of agroforestry practices on semiarid lands worldwide;
 
-&emsp;“(9) support research on the effects of agroforestry systems on semiarid lands in mitigating nonpoint source water pollution;
+&emsp;"(9) support research on the effects of agroforestry systems on semiarid lands in mitigating nonpoint source water pollution;
 
-&emsp;“(10) support research on the design, establishment, and maintenance of tree and shrub plantings to regulate the deposition of snow along roadways; and
+&emsp;"(10) support research on the design, establishment, and maintenance of tree and shrub plantings to regulate the deposition of snow along roadways; and
 
-&emsp;“(11) conduct sociological, demographic, and economic studies as needed to develop strategies for increasing the use of forestry conservation and agroforestry practices.
+&emsp;"(11) conduct sociological, demographic, and economic studies as needed to develop strategies for increasing the use of forestry conservation and agroforestry practices.
 
-“(c)
+"(c)
 
 Information Collection and Dissemination.—The Secretary shall establish at the Center a program, to be known as the National Clearinghouse on Agroforestry Conservation and Promotion to—
 
-&emsp;“(1) collect, analyze, and disseminate information on agroforestry conservation technologies and practices; and
+&emsp;"(1) collect, analyze, and disseminate information on agroforestry conservation technologies and practices; and
 
-&emsp;“(2) promote the use of such information by landowners and those organizations associated with forestry and tree promotion.
+&emsp;"(2) promote the use of such information by landowners and those organizations associated with forestry and tree promotion.
 
-“(d)
+"(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 annually to carry out this section.”
+Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 annually to carry out this section."
 
 #### Forest Ecosystems and Atmospheric Pollution Research; Congressional Findings
 
-Pub. L. 100–521, §2, Oct. 24, 1988, 102 Stat. 2601, provided that: “Congress finds that—
+Pub. L. 100–521, §2, Oct. 24, 1988, 102 Stat. 2601, provided that: "Congress finds that—
 
-&emsp;“(1) the health and productivity of forests in certain regions of the United States are declining;
+&emsp;"(1) the health and productivity of forests in certain regions of the United States are declining;
 
-&emsp;“(2) there is a special concern about the decline of certain hardwood species, particularly sugar maples and oaks, in the eastern United States and the effects of atmospheric pollutants on the health and productivity of these forests;
+&emsp;"(2) there is a special concern about the decline of certain hardwood species, particularly sugar maples and oaks, in the eastern United States and the effects of atmospheric pollutants on the health and productivity of these forests;
 
-&emsp;“(3) declines in the productivity of certain commercially important Southern pine species have been measured;
+&emsp;"(3) declines in the productivity of certain commercially important Southern pine species have been measured;
 
-&emsp;“(4) existing research indicates that atmospheric pollution, including ozone, acidic deposition, and heavy metals, may contribute to this decline;
+&emsp;"(4) existing research indicates that atmospheric pollution, including ozone, acidic deposition, and heavy metals, may contribute to this decline;
 
-&emsp;“(5) there is an urgent need to expand and better coordinate existing Federal, State, and private research, including research by private industry, to determine the cause of changes in the health and productivity of domestic forest ecosystems and to monitor and evaluate the effects of atmospheric pollutants on such ecosystems; and
+&emsp;"(5) there is an urgent need to expand and better coordinate existing Federal, State, and private research, including research by private industry, to determine the cause of changes in the health and productivity of domestic forest ecosystems and to monitor and evaluate the effects of atmospheric pollutants on such ecosystems; and
 
-&emsp;“(6) such research and monitoring should not impede efforts to control atmospheric pollutants.”
+&emsp;"(6) such research and monitoring should not impede efforts to control atmospheric pollutants."
 

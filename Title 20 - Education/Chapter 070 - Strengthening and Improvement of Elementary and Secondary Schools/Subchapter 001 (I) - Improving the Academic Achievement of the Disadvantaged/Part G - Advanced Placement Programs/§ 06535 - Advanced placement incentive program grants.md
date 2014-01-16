@@ -18,7 +18,7 @@
 
 #### (3) Definition of eligible entity
 
-&emsp;In this section, the term “eligible entity” means a State educational agency, local educational agency, or national nonprofit educational entity with expertise in advanced placement services.
+&emsp;In this section, the term "eligible entity" means a State educational agency, local educational agency, or national nonprofit educational entity with expertise in advanced placement services.
 
 #### (b) Application
 
@@ -26,7 +26,7 @@ Each eligible entity desiring a grant under this section shall submit an applica
 
 #### (c) Priority
 
-In awarding grants under this section, the Secretary shall give priority to an eligible entity that submits an application under subsection (b) of this section that—
+In awarding grants under this section, the Secretary shall give priority to an eligible entitythat submits an application under subsection (b) of this section that—
 
 &emsp;(1) demonstrates a pervasive need for access to advanced placement incentive programs;
 

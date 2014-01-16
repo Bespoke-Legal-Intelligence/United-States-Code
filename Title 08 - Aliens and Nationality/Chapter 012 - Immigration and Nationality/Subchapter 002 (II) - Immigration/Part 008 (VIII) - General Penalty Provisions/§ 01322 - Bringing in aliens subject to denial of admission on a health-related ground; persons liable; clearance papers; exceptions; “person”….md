@@ -50,7 +50,7 @@ Amendment by Pub. L. 103–416 effective as if included in the enactment of the 
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–232, title III, §307(l), Dec. 12, 1991, 105 Stat. 1756, provided that the amendment made by section307(l) is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §307(l), Dec. 12, 1991, 105 Stat. 1756, provided that the amendment made by section 307(l) is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1990 Amendment
 

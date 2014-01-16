@@ -6,7 +6,7 @@ The Secretary shall keep the agency responsible for funding or licensing the pro
 
 #### (b) Disposition of relics and specimens
 
-The Secretary shall consult with any interested Federal and State agencies, educational and scientific organizations, and private institutions and qualified individuals, with a view to determining the ownership of and the most appropriate repository for any relics and specimens recovered as a result of any work performed as provided for in this section.
+The Secretary shall consult with any interested Federal and State agencies, educationaland scientific organizations, and private institutions and qualified individuals, with a view to determining the ownership of and the most appropriate repository for any relics and specimens recovered as a result of any work performed as provided for in this section.
 
 #### (c) Coordination of activities; annual report
 
@@ -16,13 +16,13 @@ The Secretary shall coordinate all Federal survey and recovery activities author
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–333 inserted period after “469c–1 of this title” and struck out at end “and shall submit an annual report at the end of each fiscal year to the Committee on Natural Resources of the House of Representatives and Committee on Energy and Natural Resources of the Senate indicating the scope and effectiveness of the program, the specific projects surveyed and the results produced, and the costs incurred by the Federal Government as a result thereof.”
+<b>1996</b>—Subsec. (c). Pub. L. 104–333 inserted period after "469c–1 of this title" and struck out at end "and shall submit an annual report at the end of each fiscal year to the Committee on Natural Resources of the House of Representatives and Committee on Energy and Natural Resources of the Senate indicating the scope and effectiveness of the program, the specific projects surveyed and the results produced, and the costs incurred by the Federal Government as a result thereof."
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–205 substituted references to the House Committee on Interior and Insular Affairs and Senate Committee on Energy and Natural Resources, for reference to Interior and Insular Affairs Committees of the Congress.
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–291, §1(4), (6), redesignated subsec. (c) of section 469a of this title as subsec. (a) of this section and substituted “agency responsible for funding or licensing the project” for “instigating agency” and “agency and the survey and recovery programs shall terminate at a time mutually agreed upon by the Secretary and the head of such agency unless extended by mutual agreement” for “agency”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–291, §1(4), (6), redesignated subsec. (c) of section 469a of this title as subsec. (a) of this section and substituted "agency responsible for funding or licensing the project" for "instigating agency" and "agency and the survey and recovery programs shall terminate at a time mutually agreed upon by the Secretary and the head of such agency unless extended by mutual agreement" for "agency".
 
 Subsec. (b). Pub. L. 93–291, §1(6), redesignated subsec. (e) of section 469a of this title as subsec. (b) of this section.
 

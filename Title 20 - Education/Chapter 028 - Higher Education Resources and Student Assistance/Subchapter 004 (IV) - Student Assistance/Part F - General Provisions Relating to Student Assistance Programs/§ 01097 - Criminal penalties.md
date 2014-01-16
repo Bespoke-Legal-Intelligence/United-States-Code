@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any person who knowingly and willfully embezzles, misapplies, steals, obtains by fraud, false statement, or forgery, or fails to refund any funds, assets, or property provided or insured under this subchapter and part C of subchapter I of chapter 34 of title 42 or attempts to so embezzle, misapply, steal, obtain by fraud, false statement or forgery, or fail to refund any funds, assets, or property, shall be fined not more than $20,000 or imprisoned for not more than 5 years, or both, except if the amount so embezzled, misapplied, stolen, obtained by fraud, false statement, or forgery, or failed to be refunded does not exceed $200, then the fine shall not be more than $5,000 and imprisonment shall not exceed one year, or both.
+Any person who knowingly and willfully embezzles, misapplies, steals, obtains by fraud, false statement, or forgery, or fails to refund any funds, assets, or property provided or insured under this subchapter and part C of subchapter I of chapter 34 of title 42 or attempts to so embezzle, misapply, steal, obtain by fraud, false statement or forgery, or fail to refund any funds, assets, or property, shall be fined not more than $20,000 or imprisoned for not more than 5 years, or both, except if the amount so embezzled, misapplied, stolen, obtained by fraud, false statement, or forgery, or failed to be refunded does not exceed $200, then the fine shallnot be more than $5,000 and imprisonment shall not exceed one year, or both.
 
 #### (b) Assignment of loans
 
@@ -20,7 +20,7 @@ Any person who knowingly and willfully destroys or conceals any record relating 
 
 #### Prior Provisions
 
-A prior section 1097, Pub. L. 89–329, title IV, §490, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1453, related to criminal penalties, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1097, Pub. L. 89–329, title IV, §490, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1453, related to criminal penalties, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

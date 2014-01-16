@@ -6,33 +6,33 @@ The Department of State may award grants for overseas public diplomacy programs 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1335(a)(3)(A), struck out subsec. (a) which read as follows: “Unless the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate are notified fifteen days in advance of a proposed reprograming, funds appropriated for the United States Information Agency shall not be available for obligation or expenditure through any such reprograming of funds—
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1335(a)(3)(A), struck out subsec. (a) which read as follows: "Unless the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate are notified fifteen days in advance of a proposed reprograming, funds appropriated for the United States Information Agency shall not be available for obligation or expenditure through any such reprograming of funds—
 
-&emsp;“(1) which creates new programs;
+&emsp;"(1) which creates new programs;
 
-&emsp;“(2) which eliminates a program, project, or activity;
+&emsp;"(2) which eliminates a program, project, or activity;
 
-&emsp;“(3) which increases funds or personnel by any means for any project or activity for which funds have been denied or restricted by the Congress;
+&emsp;"(3) which increases funds or personnel by any means for any project or activity for which funds have been denied or restricted by the Congress;
 
-&emsp;“(4) which relocates an office or employees;
+&emsp;"(4) which relocates an office or employees;
 
-&emsp;“(5) which reorganizes offices, programs, or activities;
+&emsp;"(5) which reorganizes offices, programs, or activities;
 
-&emsp;“(6) which involves contracting out functions which had been performed by Federal employees; or
+&emsp;"(6) which involves contracting out functions which had been performed by Federal employees; or
 
-&emsp;“(7) which involves a reprograming in excess of $500,000 or 10 per centum, whichever is less, and which (A) augments existing programs, projects, or activities, (B) reduces by 10 per centum or more the funding for any existing program, project, or activity, or personnel approved by the Congress, or (C) results from any general savings from a reduction in personnel which would result in a change in existing programs, activities, or projects approved by the Congress.”
+&emsp;"(7) which involves a reprograming in excess of $500,000 or 10 per centum, whichever is less, and which (A) augments existing programs, projects, or activities, (B) reduces by 10 per centum or more the funding for any existing program, project, or activity, or personnel approved by the Congress, or (C) results from any general savings from a reduction in personnel which would result in a change in existing programs, activities, or projects approved by the Congress."
 
-Subsec. (b). Pub. L. 105–277, §1335(a)(3)(B), struck out subsec. (b) designation and substituted “The Department of State” for “In addition, the United States Information Agency” and “grants for overseas public diplomacy programs” for “program grants”.
+Subsec. (b). Pub. L. 105–277, §1335(a)(3)(B), struck out subsec. (b) designation and substituted "The Department of State" for "In addition, the United States Information Agency" and "grants for overseas public diplomacy programs" for "program grants".
 
-Subsec. (c). Pub. L. 105–277, §1335(a)(3)(A), struck out subsec. (c) which read as follows: “Funds appropriatedfor the United States Information Agency may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.”
+Subsec. (c). Pub. L. 105–277, §1335(a)(3)(A), struck out subsec. (c) which read as follows: "Funds appropriated for the United States Information Agency may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period."
 
-<b>1991</b>—Subsec. (a)(7). Pub. L. 102–138 substituted “$500,000” for “$250,000”.
+<b>1991</b>—Subsec. (a)(7). Pub. L. 102–138 substituted "$500,000" for "$250,000".
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–204, §202(a), struck out “for the fiscal years 1986 and 1987” after “may award program grants”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–204, §202(a), struck out "for the fiscal years 1986 and 1987" after "may award program grants".
 
 Subsec. (c). Pub. L. 100–204, §202(b), added subsec. (c).
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–93 substituted “1986 and 1987” for “1984 and 1985”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–93 substituted "1986 and 1987" for "1984 and 1985".
 
 #### Effective Date of 1998 Amendment
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–93, title II, §214(b), Aug. 16, 1985, 99 Stat. 434, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
+Pub. L. 99–93, title II, §214(b), Aug. 16, 1985, 99 Stat. 434, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1985."
 

@@ -30,9 +30,13 @@ The authority to issue new temporary operating licenses under this section shall
 
 (Aug. 1, 1946, ch. 724, title I, §192, as added Pub. L. 92–307, June 2, 1972, 86 Stat. 191; amended Pub. L. 97–415, §11, Jan. 4, 1983, 96 Stat. 2071; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–437, §15(f)(8), Nov. 2, 1994, 108 Stat. 4593.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (b)(3), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources and on” for “Interior and Insular Affairs and”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted "Natural Resources and on" for "Interior and Insular Affairs and".
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–415 substituted provisions setting forth procedures for petitioning for a temporary operating license in any proceeding upon an application for an operating license for a utilization facility required to be licensed under section 2133 or 2134(b) of this title in which a hearing is otherwise required pursuant to section 2239(a) of this title, for provisions setting forth procedures for petitioning for a temporary operating license in any proceeding upon an application for an operating license for a nuclear power reactor in which a hearing is otherwise required pursuant to section 2239(a) of this title.
 

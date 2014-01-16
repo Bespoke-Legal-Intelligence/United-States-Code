@@ -78,7 +78,7 @@ Definition of value engineering analysis.—
 
 &emsp;&emsp;(A)
 
-In general.—In this subsection, the term “value engineering analysis” means a systematic process of review and analysis of a project, during the planning and design phases, by a multidisciplinary team of persons not involved in the project, that is conducted to provide recommendations such as those described in subparagraph (B) for—
+In general.—In this subsection, the term "value engineering analysis" means a systematic process of review and analysis of a project, during the planning and design phases, by a multidisciplinary team of persons not involved in the project, that is conducted to provide recommendations such as those described in subparagraph (B) for—
 
 &emsp;&emsp;&emsp;(i) providing the needed functions safely, reliably, and at the lowest overall lifecycle cost;
 
@@ -150,7 +150,7 @@ Use of life-cycle cost analysis.—The Secretary shall develop recommendations f
 
 &emsp;(2)
 
-Life-cycle cost analysis defined.—In this subsection, the term “life-cycle cost analysis” means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discounted future costs, such as maintenance, user costs, reconstruction, rehabilitation, restoring, and resurfacing costs, over the life of the project segment.
+Life-cycle cost analysis defined.—In this subsection, the term "life-cycle cost analysis" means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discounted future costs, such as maintenance, user costs, reconstruction, rehabilitation, restoring, and resurfacing costs, over the life of the project segment.
 
 (g)
 
@@ -174,7 +174,7 @@ Financial integrity.—
 
 &emsp;&emsp;(A)
 
-Financial management systems.—The Secretary shall perform annual reviews that address elements of the State transportation departments’ financial management systems that affect projects approved under subsection (a).
+Financial management systems.—The Secretary shall perform annual reviews that address elements of the State transportation departments' financial management systems that affect projects approved under subsection (a).
 
 &emsp;&emsp;(B)
 
@@ -254,7 +254,7 @@ Use of Advanced Modeling Technologies.—
 
 &emsp;(1)
 
-Definition of advanced modeling technology.—In this subsection, the term “advanced modeling technology” means an available or developing technology, including 3-dimensional digital modeling, that can—
+Definition of advanced modeling technology.—In this subsection, the term "advanced modeling technology" means an available or developing technology, including 3-dimensional digital modeling, that can—
 
 &emsp;&emsp;(A) accelerate and improve the environmental review process;
 
@@ -294,53 +294,53 @@ Executive Order No. 12893, referred to in subsec. (f)(1), is set out as a note u
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(2). Pub. L. 112–141, §1503(a)(1), inserted “recipient” before “formalizing”.
+<b>2012</b>—Subsec. (a)(2). Pub. L. 112–141, §1503(a)(1), inserted "recipient" before "formalizing".
 
-Subsec. (c)(1). Pub. L. 112–141, §1503(a)(2)(A)(ii), (iii), substituted “, including projects on the Interstate System” for “but not on the Interstate System” and “with respect to the projects unless the Secretary determines that the assumption is not appropriate.” for “of projects unless the State or the Secretary determines that such assumption is not appropriate.”
+Subsec. (c)(1). Pub. L. 112–141, §1503(a)(2)(A)(ii), (iii), substituted ", including projects on the Interstate System" for "but not on the Interstate System" and "with respect to the projects unless the Secretary determines that the assumption is not appropriate." for "of projects unless the State or the Secretary determines that such assumption is not appropriate."
 
-Pub. L. 112–141, §1503(a)(2)(A)(i), struck out “
+Pub. L. 112–141, §1503(a)(2)(A)(i), struck out "
 
-Non-interstate” before “
+Non-interstate" before "
 
-nhs” in heading. Resulting initial word was editorially changed to “NHS” to conform to style of paragraph headings.
+nhs" in heading. Resulting initial word was editorially changed to "NHS" to conform to style of paragraph headings.
 
-Subsec. (c)(4). Pub. L. 112–141, §1503(a)(2)(B), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The Secretary may not assume any greater responsibility than the Secretary is permitted under this title on September 30, 1997, except upon agreement by the Secretary and the State.”
+Subsec. (c)(4). Pub. L. 112–141, §1503(a)(2)(B), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "The Secretary may not assume any greater responsibility than the Secretary is permitted under this title on September 30, 1997, except upon agreement by the Secretary and the State."
 
-Subsec. (e)(1)(A). Pub. L. 112–141, §1503(a)(3)(A)(i), substituted “planning” for “concept” and “multidisciplinary” for “multidisciplined” in introductory provisions.
+Subsec. (e)(1)(A). Pub. L. 112–141, §1503(a)(3)(A)(i), substituted "planning" for "concept" and "multidisciplinary" for "multidisciplined" in introductory provisions.
 
-Subsec. (e)(1)(A)(i). Pub. L. 112–141, §1503(a)(3)(A)(ii), added cl. (i) and struck out former cl. (i) which read as follows: “providing the needed functions safely, reliably, and at the lowest overall cost;”.
+Subsec. (e)(1)(A)(i). Pub. L. 112–141, §1503(a)(3)(A)(ii), added cl. (i) and struck out former cl. (i) which read as follows: "providing the needed functions safely, reliably, and at the lowest overall cost;".
 
-Subsec. (e)(2). Pub. L. 112–141, §1503(a)(3)(B)(i), struck out “or other cost-reduction analysis” after “engineering analysis” in introductory provisions.
+Subsec. (e)(2). Pub. L. 112–141, §1503(a)(3)(B)(i), struck out "or other cost-reduction analysis" after "engineering analysis" in introductory provisions.
 
-Subsec. (e)(2)(A). Pub. L. 112–141, §1503(a)(3)(B)(ii), substituted “National Highway System receiving Federal assistance” for “Federal-aid system” and “$50,000,000” for “$25,000,000”.
+Subsec. (e)(2)(A). Pub. L. 112–141, §1503(a)(3)(B)(ii), substituted "National Highway System receiving Federal assistance" for "Federal-aid system" and "$50,000,000" for "$25,000,000".
 
-Subsec. (e)(2)(B). Pub. L. 112–141, §1503(a)(3)(B)(iii), inserted “on the National Highway System receiving Federal assistance” after “a bridge project” and substituted “$40,000,000” for “$20,000,000”.
+Subsec. (e)(2)(B). Pub. L. 112–141, §1503(a)(3)(B)(iii), inserted "on the National Highway System receiving Federal assistance" after "a bridge project" and substituted "$40,000,000" for "$20,000,000".
 
-Subsec. (e)(4), (5). Pub. L. 112–141, §1503(a)(3)(C), added pars. (4) and (5) and struck out former par. (4). Prior to amendment, text read as follows: “Analyses described in paragraph (1) for a bridge project shall—
+Subsec. (e)(4), (5). Pub. L. 112–141, §1503(a)(3)(C), added pars. (4) and (5) and struck out former par. (4). Prior to amendment, text read as follows: "Analyses described in paragraph (1) for a bridge project shall—
 
-&emsp;“(A) include bridge substructure requirements based on construction material; and
+&emsp;"(A) include bridge substructure requirements based on construction material; and
 
-&emsp;“(B) be evaluated—
+&emsp;"(B) be evaluated—
 
-&emsp;&emsp;“(i) on engineering and economic bases, taking into consideration acceptable designs for bridges; and
+&emsp;&emsp;"(i) on engineering and economic bases, taking into consideration acceptable designs for bridges; and
 
-&emsp;&emsp;“(ii) using an analysis of life-cycle costs and duration of project construction.”
+&emsp;&emsp;"(ii) using an analysis of life-cycle costs and duration of project construction."
 
-Subsec. (h)(1)(B). Pub. L. 112–141, §1503(a)(4)(A), inserted “, including a phasing plan when applicable” after “financial plan”.
+Subsec. (h)(1)(B). Pub. L. 112–141, §1503(a)(4)(A), inserted ", including a phasing plan when applicable" after "financial plan".
 
-Subsec. (h)(3). Pub. L. 112–141, §1503(a)(4)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “A financial plan shall—
+Subsec. (h)(3). Pub. L. 112–141, §1503(a)(4)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "A financial plan shall—
 
-&emsp;“(A) be based on detailed estimates of the cost to complete the project; and
+&emsp;"(A) be based on detailed estimates of the cost to complete the project; and
 
-&emsp;“(B) provide for the annual submission of updates to the Secretary that are based on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.”
+&emsp;"(B) provide for the annual submission of updates to the Secretary that are based on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project."
 
 Subsec. (j). Pub. L. 112–141, §1503(a)(5), added subsec. (j).
 
-<b>2005</b>—Subsec. (e). Pub. L. 109–59, §1904(a)(1), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “For such projects as the Secretary determines advisable, plans, specifications, and estimates for proposed projects on any Federal-aid highway shall be accompanied by a value engineering analysis or other cost reduction analysis.”
+<b>2005</b>—Subsec. (e). Pub. L. 109–59, §1904(a)(1), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "For such projects as the Secretary determines advisable, plans, specifications, and estimates for proposed projects on any Federal-aid highway shall be accompanied by a value engineering analysis or other cost reduction analysis."
 
 Subsecs. (g) to (i). Pub. L. 109–59, §1904(a)(2), added subsecs. (g) to (i) and struck out former subsecs. (g) and (h) which related to establishment of a value engineering analysis program for projects with an estimated total cost of $25,000,000 or more and requirement that recipient of assistance for a project with an estimated total cost of $1,000,000,000 or more submit an annual financial plan for the project.
 
-<b>1998</b>—Pub. L. 105–178, §1305(a)(1), substituted “Project approval and oversight” for “Plans, specifications, and estimates” in section catchline.
+<b>1998</b>—Pub. L. 105–178, §1305(a)(1), substituted "Project approval and oversight" for "Plans, specifications, and estimates" in section catchline.
 
 Subsecs. (a) to (d). Pub. L. 105–178, §1305(a)(3), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to requirement for State highway departments to submit to Secretary for approval plans, specifications, and estimates for each proposed highway project, special rules relating to resurfacing, restoring, and rehabilitating projects on National Highway System, to low-cost National Highway System projects, and to non-National Highway System projects, limitation on estimates for construction engineering, and provisions relating to value engineering or other cost reduction analysis.
 
@@ -348,17 +348,17 @@ Subsec. (e). Pub. L. 105–178, §1305(a)(3), added subsec. (e). Former subsec. 
 
 Subsec. (f). Pub. L. 105–178, §1305(c), added subsec. (f) and struck out former subsec. (f) which read as follows:
 
-“(f)
+"(f)
 
 Life-Cycle Cost Analysis.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Establishment.—The Secretary shall establish a program to require States to conduct an analysis of the life-cycle costs of each usable project segment on the National Highway System with a cost of $25,000,000 or more.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Analysis of the life-cycle costs defined.—In this subsection, the term ‘analysis of the life-cycle costs’ means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discounted future costs, such as maintenance, reconstruction, rehabilitation, restoring, and resurfacing costs, over the life of the project segment.”
+Analysis of the life-cycle costs defined.—In this subsection, the term 'analysis of the life-cycle costs' means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discounted future costs, such as maintenance, reconstruction, rehabilitation, restoring, and resurfacing costs, over the life of the project segment."
 
 Pub. L. 105–178, §1305(a)(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
@@ -368,21 +368,21 @@ Subsec. (h). Pub. L. 105–178, §1305(b), added subsec. (h).
 
 <b>1995</b>—Subsecs. (e), (f). Pub. L. 104–59 added subsecs. (e) and (f).
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1016(b)(1), inserted “this section and” before “section 117”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1016(b)(1), inserted "this section and" before "section 117".
 
-Subsec. (b). Pub. L. 102–240, §1016(b)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “In addition to the approval required under subsection (a) of this section, proposed specifications for projects for construction on (1) the Federal-aid secondary system, except in States where all public roads and highways are under the control and supervision of the State highway department, and (2) the Federal-aid urban system, shall be determined by the State highway department and the appropriate local road officials in cooperation with each other.”
+Subsec. (b). Pub. L. 102–240, §1016(b)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: "In addition to the approval required under subsection (a) of this section, proposed specifications for projects for construction on (1) the Federal-aid secondary system, except in States where all public roads and highways are under the control and supervision of the State highway department, and (2) the Federal-aid urban system, shall be determined by the State highway department and the appropriate local road officials in cooperation with each other."
 
-Subsec. (c). Pub. L. 102–240, §1018(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Items included in any such estimate for construction engineering shall not exceed 15 percent of the total estimated cost of a project financed with Federal-aid highway funds, after excluding from such total estimate cost, the estimated costs of rights-of-way, preliminary engineering, and construction engineering.”
+Subsec. (c). Pub. L. 102–240, §1018(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Items included in any such estimate for construction engineering shall not exceed 15 percent of the total estimated cost of a project financed with Federal-aid highway funds, after excluding from such total estimate cost, the estimated costs of rights-of-way, preliminary engineering, and construction engineering."
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–17 substituted “15 percent” for “10 per centum” and struck out at end “However, this limitation shall be 15 per centum in any State with respect to which the Secretary finds such higher limitation to be necessary.”
+<b>1987</b>—Subsec. (c). Pub. L. 100–17 substituted "15 percent" for "10 per centum" and struck out at end "However, this limitation shall be 15 per centum in any State with respect to which the Secretary finds such higher limitation to be necessary."
 
-<b>1976</b>—Subsec. (c). Pub. L. 94–280 substituted “Federal-aid highway funds” for “Federal-aid primary, secondary, or urban funds” and “such total estimate cost” for “such total estimated cost” and struck out 10 per centum limitation for any project financed with interstate funds.
+<b>1976</b>—Subsec. (c). Pub. L. 94–280 substituted "Federal-aid highway funds" for "Federal-aid primary, secondary, or urban funds" and "such total estimate cost" for "such total estimated cost" and struck out 10 per centum limitation for any project financed with interstate funds.
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–605, §106(e), inserted reference to the Federal-aid urban system.
 
 Subsec. (d). Pub. L. 91–605, §142, added subsec. (d).
 
-<b>1963</b>—Subsec. (c). Pub. L. 88–157 substituted “a project financed with Federal-aid primary, secondary, or urban funds” for “the project” and provided for limitation, on items included in estimates for construction engineering on projects financed with Federal-aid primary, secondary, or urban funds, of 15 percent of total estimated cost of the project where found by the Secretary to be necessary and for 10-percent limitation on projects financed with interstate funds.
+<b>1963</b>—Subsec. (c). Pub. L. 88–157 substituted "a project financed with Federal-aid primary, secondary, or urban funds" for "the project" and provided for limitation, on items included in estimates for construction engineering on projects financed with Federal-aid primary, secondary, or urban funds, of 15 percent of total estimated cost of the project where found by the Secretary to be necessary and for 10-percent limitation on projects financed with interstate funds.
 
 #### Effective Date of 2012 Amendment
 
@@ -396,127 +396,127 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 Pub. L. 112–141, div. A, title I, §1527, July 6, 2012, 126 Stat. 581, provided that:
 
-“(a)
+"(a)
 
-Definitions.—In this section, the term ‘recipient’ means—
+Definitions.—In this section, the term 'recipient' means—
 
-&emsp;“(1) a State, local, or tribal government, including—
+&emsp;"(1) a State, local, or tribal government, including—
 
-&emsp;&emsp;“(A) a territory of the United States;
+&emsp;&emsp;"(A) a territory of the United States;
 
-&emsp;&emsp;“(B) a transit agency;
+&emsp;&emsp;"(B) a transit agency;
 
-&emsp;&emsp;“(C) a port authority;
+&emsp;&emsp;"(C) a port authority;
 
-&emsp;&emsp;“(D) a metropolitan planning organization; or
+&emsp;&emsp;"(D) a metropolitan planning organization; or
 
-&emsp;&emsp;“(E) any other political subdivision of a State or local government;
+&emsp;&emsp;"(E) any other political subdivision of a State or local government;
 
-&emsp;“(2) a multistate or multijurisdictional group, if each member of the group is an entity described in paragraph (1); and
+&emsp;"(2) a multistate or multijurisdictional group, if each member of the group is an entity described in paragraph (1); and
 
-&emsp;“(3) a public-private partnership, if both parties are engaged in building the project.
+&emsp;"(3) a public-private partnership, if both parties are engaged in building the project.
 
-“(b)
+"(b)
 
 Consolidation.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—A recipient that receives multiple grant awards from the Department \[of Transportation\] to support 1 multimodal project may request that the Secretary \[of Transportation\] designate 1 modal administration in the Department to be the lead administering authority for the overall project.
 
-&emsp;“(2)
+&emsp;"(2)
 
 New starts.—Any project that includes funds awarded under section 5309 of title 49, United States Code, shall be exempt from consolidation under this section unless the grant recipient requests the Federal Transit Administration to be the lead administering authority.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Review.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Not later than 30 days after the date on which a request under paragraph (1) is made, the Secretary shall review the request and approve or deny the designation of a single modal administration as the lead administering authority and point of contact for the Department.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Notification.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—The Secretary shall notify the requestor of the decision of the Secretary under subparagraph (A) in such form and at such time as the Secretary and the requestor agree.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Denial.—If a request is denied, the Secretary shall provide the requestor with a detailed explanation of the reasoning of the Secretary with the notification under clause (i).
 
-“(c)
+"(c)
 
 Duties.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—A modal administration designated as a lead administering authority under this section shall—
 
-&emsp;&emsp;“(A) be responsible for leading and coordinating the integrated project management team, which shall consist of all of the other modal administrations in the Department \[of Transportation\] relating to the multimodal project; and
+&emsp;&emsp;"(A) be responsible for leading and coordinating the integrated project management team, which shall consist of all of the other modal administrations in the Department \[of Transportation\] relating to the multimodal project; and
 
-&emsp;&emsp;“(B) to the extent feasible during the first 30 days of carrying out the multimodal project, identify overlapping or duplicative regulatory requirements that exist for the project and propose a single, streamlined approach to meeting all of the applicable regulatory requirements through the activities described in subsection (d).
+&emsp;&emsp;"(B) to the extent feasible during the first 30 days of carrying out the multimodal project, identify overlapping or duplicative regulatory requirements that exist for the project and propose a single, streamlined approach to meeting all of the applicable regulatory requirements through the activities described in subsection (d).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Administration.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The Secretary \[of Transportation\] shall transfer all amounts that have been awarded for the multimodal project to the modal administration designated as the lead administering authority.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Option.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—Participation under this section shall be optional for recipients, and no recipient shall be required to participate.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Secretarial duties.—The Secretary is not required to identify every recipient that may be eligible to participate under this section.
 
-“(d)
+"(d)
 
 Cooperation.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary \[of Transportation\] and modal administrations with relevant jurisdiction over a multimodal project should cooperate on project review and delivery activities at the earliest practicable time.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Purposes.—The purposes of the cooperation under paragraph (1) are—
 
-&emsp;&emsp;“(A) to avoid delays and duplication of effort later in the process;
+&emsp;&emsp;"(A) to avoid delays and duplication of effort later in the process;
 
-&emsp;&emsp;“(B) to prevent potential conflicts; and
+&emsp;&emsp;"(B) to prevent potential conflicts; and
 
-&emsp;&emsp;“(C) to ensure that planning and project development decisions are made in a streamlined manner and consistent with applicable law.
+&emsp;&emsp;"(C) to ensure that planning and project development decisions are made in a streamlined manner and consistent with applicable law.
 
-“(e)
+"(e)
 
 Applicability.—Nothing in this section shall—
 
-&emsp;“(1) supersede, amend, or modify the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) or any other Federal environmental law; or
+&emsp;"(1) supersede, amend, or modify the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) or any other Federal environmental law; or
 
-&emsp;“(2) affect the responsibility of any Federal officer to comply with or enforce any law described in paragraph (1).”
+&emsp;"(2) affect the responsibility of any Federal officer to comply with or enforce any law described in paragraph (1)."
 
 #### Study of Value Engineering
 
 Pub. L. 102–240, title I, §1091, Dec. 18, 1991, 105 Stat. 2024, provided that:
 
-“(a)
+"(a)
 
 Study.—The Secretary shall study the effectiveness and benefits of value engineering review programs applied to Federal-aid highway projects. Such study shall include an analysis of and the results of specialized techniques utilized in all facets of highway construction for the purpose of reduction of costs and improvement of the overall quality of Federal-aid highway projects.
 
-“(b)
+"(b)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall report to Congress on the results of the study under subsection (a), including recommendations on how value engineering could be utilized and improved in Federal-aid highway projects.”
+Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall report to Congress on the results of the study under subsection (a), including recommendations on how value engineering could be utilized and improved in Federal-aid highway projects."
 
 #### Modification of Project Agreements To Effectuate Requirement of Four-Lanes of Traffic
 

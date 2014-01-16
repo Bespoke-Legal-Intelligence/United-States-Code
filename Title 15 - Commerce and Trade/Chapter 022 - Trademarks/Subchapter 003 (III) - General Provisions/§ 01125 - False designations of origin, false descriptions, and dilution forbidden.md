@@ -10,7 +10,7 @@
 
 > shall be liable in a civil action by any person who believes that he or she is or is likely to be damaged by such act.
 
-(2) As used in this subsection, the term “any person” includes any State, instrumentality of a State or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
+(2) As used in this subsection, the term "any person" includes any State, instrumentality of a State or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
 (3) In a civil action for trade dress infringement under this chapter for trade dress not registered on the principal register, the person who asserts trade dress protection has the burden of proving that the matter sought to be protected is not functional.
 
@@ -36,7 +36,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;&emsp;(iv) Whether the mark was registered under the Act of March 3, 1881, or the Act of February 20, 1905, or on the principal register.
 
-&emsp;(B) For purposes of paragraph (1), “dilution by blurring” is association arising from the similarity between a mark or trade name and a famous mark that impairs the distinctiveness of the famous mark. In determining whether a mark or trade name is likely to cause dilution by blurring, the court may consider all relevant factors, including the following:
+&emsp;(B) For purposes of paragraph (1), "dilution by blurring" is association arising from the similarity between a mark or trade name and a famous mark that impairs the distinctiveness of the famous mark. In determining whether a mark or trade name is likely to cause dilution by blurring, the court may consider all relevant factors, including the following:
 
 &emsp;&emsp;(i) The degree of similarity between the mark or trade name and the famous mark.
 
@@ -50,7 +50,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;&emsp;(vi) Any actual association between the mark or trade name and the famous mark.
 
-&emsp;(C) For purposes of paragraph (1), “dilution by tarnishment” is association arising from the similarity between a mark or trade name and a famous mark that harms the reputation of the famous mark.
+&emsp;(C) For purposes of paragraph (1), "dilution by tarnishment" is association arising from the similarity between a mark or trade name and a famous mark that harms the reputation of the famous mark.
 
 #### (3) Exclusions
 
@@ -76,7 +76,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 #### (5) Additional remedies
 
-&emsp;In an action brought under this subsection, the owner of the famous mark shall be entitled to injunctive relief as set forth in section 1116 of this title. The owner of the famous mark shall also be entitled to the remedies set forth in sections 1117(a) and 1118 of this title,subject to the discretion of the court and the principles of equity if—
+&emsp;In an action brought under this subsection, the owner of the famous mark shall be entitled to injunctive relief as set forth in section 1116 of this title. The owner of the famous mark shall also be entitled to the remedies set forth in sections 1117(a) and 1118 of this title, subject to the discretion of the court and the principles of equity if—
 
 &emsp;&emsp;(A) the mark or trade name that is likely to cause dilution by blurring or dilution by tarnishment was first used in commerce by the person against whom the injunction is sought after October 6, 2006; and
 
@@ -140,9 +140,9 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (D) A person shall be liable for using a domain name under subparagraph (A) only if that person is the domain name registrant or that registrant's authorized licensee.
 
-(E) As used in this paragraph, the term “traffics in” refers to transactions that include, but are not limited to, sales, purchases, loans, pledges, licenses, exchanges of currency, and any other transfer for consideration or receipt in exchange for consideration.
+(E) As used in this paragraph, the term "traffics in" refers to transactions that include, but are not limited to, sales, purchases, loans, pledges, licenses, exchanges of currency, and any other transfer for consideration or receipt in exchange for consideration.
 
-(2)(A) The owner of a mark may file an in rem civil action against a domain name in the judicial district in which the domain name registrar, domain name registry, or other domainname authority that registered or assigned the domain name is located if—
+(2)(A) The owner of a mark may file an in rem civil action against a domain name in the judicial district in which the domain name registrar, domain name registry, or other domain name authority that registered or assigned the domain name is located if—
 
 &emsp;(i) the domain name violates any right of the owner of a mark registered in the Patent and Trademark Office, or protected under subsection (a) or (c) of this section; and
 
@@ -164,7 +164,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;(ii) documents sufficient to establish control and authority regarding the disposition of the registration and use of the domain name are deposited with the court.
 
-(D)(i) The remedies in an in rem action under this paragraph shall be limited to a court order for the forfeiture or cancellation of the domain name or the transfer of the domain name to the owner of the mark. Upon receipt of written notification of a filed, stamped copy of a complaint filed by the owner of a mark in a United States district court under this paragraph, the domain name registrar, domain name registry, or other domain name authority shall—
+(D)(i) The remedies in an in rem action under this paragraph shall be limited to a court order for the forfeiture or cancellation of the domainname or the transfer of the domain name to the owner of the mark. Upon receipt of written notification of a filed, stamped copy of a complaint filed by the owner of a mark in a United States district court under this paragraph, the domain name registrar, domain name registry, or other domain name authority shall—
 
 &emsp;(I) expeditiously deposit with the court documents sufficient to establish the court's control and authority regarding the disposition of the registration and use of the domain name to the court; and
 
@@ -190,19 +190,19 @@ Act Mar. 19, 1920, ch. 104, §3, 41 Stat. 534.
 
 <b>2012</b>—Subsec. (c)(6). Pub. L. 112–190 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
-“(A)(i) is brought by another person under the common law or a statute of a State; and
+"(A)(i) is brought by another person under the common law or a statute of a State; and
 
-“(ii) seeks to prevent dilution by blurring or dilution by tarnishment; or
+"(ii) seeks to prevent dilution by blurring or dilution by tarnishment; or
 
-“(B) asserts any claim of actual or likely damage or harm to the distinctiveness or reputation of a mark, label, or form of advertisement.”
+"(B) asserts any claim of actual or likely damage or harm to the distinctiveness or reputation of a mark, label, or form of advertisement."
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–312, §2(1), added subsec. (c) and struck out former subsec. (c) which related to remedies for dilution of famous marks.
 
-Subsec. (d)(1)(B)(i)(IX). Pub. L. 109–312, §2(2), substituted “subsection (c)” for “subsection (c)(1)”.
+Subsec. (d)(1)(B)(i)(IX). Pub. L. 109–312, §2(2), substituted "subsection (c)" for "subsection (c)(1)".
 
 <b>1999</b>—Subsec. (a)(3). Pub. L. 106–43, §5, added par. (3).
 
-Subsec. (c)(2). Pub. L. 106–43, §3(a)(2), inserted “as set forth in section 1116 of this title” after “relief” in first sentence.
+Subsec. (c)(2). Pub. L. 106–43, §3(a)(2), inserted "as set forth in section 1116 of this title" after "relief" in first sentence.
 
 Subsec. (d). Pub. L. 106–113 added subsec. (d).
 
@@ -210,11 +210,11 @@ Subsec. (d). Pub. L. 106–113 added subsec. (d).
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–542 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–667 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person who shall affix, apply, or annex, or use in connection with any goods or services, or any container or containers for goods, a false designation of origin, or any false description or representation, including words or other symbols tending falsely to describe or represent the same, and shall cause such goods or services to enter into commerce, and any person who shall with knowledge of the falsity of such designation of origin or description or representation cause or procure the same to be transported or used in commerce or deliver the same to any carrier to be transported or used, shall be liable to a civil action by any person doing business in the locality falsely indicated as that of origin or in the region in which said locality is situated, or by any person who believes that he is or is likely to be damaged by the use of any such false description or representation.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–667 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Any person who shall affix, apply, or annex, or use in connection with any goods or services, or any container or containers for goods, a false designation of origin, or any false description or representation, including words or other symbols tending falsely to describe or represent the same, and shall cause such goods or services to enter into commerce, and any person who shall with knowledge of the falsity of such designation of origin or description or representation cause or procure the same to be transported or used in commerce or deliver the same to any carrier to be transported or used, shall be liable to a civil action by any person doing business in the locality falsely indicated as that of origin or in the region in which said locality is situated, or by any person who believes that he is or is likely to be damaged by the use of any such false description or representation."
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–190, §1(b), Oct. 5, 2012, 126 Stat. 1436, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any action commenced on or after the date of the enactment of this Act \[Oct. 5, 2012\].”
+Pub. L. 112–190, §1(b), Oct. 5, 2012, 126 Stat. 1436, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any action commenced on or after the date of the enactment of this Act \[Oct. 5, 2012\]."
 
 #### Effective Date of 1999 Amendment
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 106–113 applicable to all domain names registered before,
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–98, §5, Jan. 16, 1996, 109 Stat. 987, provided that: “This Act \[amending this section and section 1127 of this title and enacting provisions set out as a note under section 1051 of this title\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Jan. 16, 1996\].”
+Pub. L. 104–98, §5, Jan. 16, 1996, 109 Stat. 987, provided that: "This Act \[amending this section and section 1127 of this title and enacting provisions set out as a note under section 1051 of this title\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Jan. 16, 1996\]."
 
 #### Effective Date of 1992 Amendment
 
@@ -240,23 +240,23 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3006\], Nov. 29, 1999, 113 Stat. 1536, 1501A–550, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of Commerce, in consultation with the Patent and Trademark Office and the Federal Election Commission, shall conduct a study and report to Congress with recommendations on guidelines and procedures for resolving disputes involving the registration or use by a person of a domain name that includes the personal name of another person, in whole or in part, or a name confusingly similar thereto, including consideration of and recommendations for—
 
-&emsp;“(1) protecting personal names from registration by another person as a second level domain name for purposes of selling or otherwise transferring such domain name to such other person or any third party for financial gain;
+&emsp;"(1) protecting personal names from registration by another person as a second level domain name for purposes of selling or otherwise transferring such domain name to such other person or any third party for financial gain;
 
-&emsp;“(2) protecting individuals from bad faith uses of their personal names as second level domain names by others with malicious intent to harm the reputation of the individual or the goodwill associated with that individual's name;
+&emsp;"(2) protecting individuals from bad faith uses of their personal names as second level domain names by others with malicious intent to harm the reputation of the individual or the goodwill associated with that individual's name;
 
-&emsp;“(3) protecting consumers from the registration and use of domain names that include personal names in the second level domain in manners which are intended or are likely to confuse or deceive the public as to the affiliation, connection, or association of the domain name registrant, or a site accessible under the domain name, with such other person, or as to the origin, sponsorship, or approval of the goods, services, or commercial activities of the domain name registrant;
+&emsp;"(3) protecting consumers from the registration and use of domain names that include personal names in the second level domain in manners which are intended or are likely to confuse or deceive the public as to the affiliation, connection, or association of the domain name registrant, or a site accessible under the domain name, with such other person, or as to the origin, sponsorship, or approval of the goods, services, or commercial activities of the domain name registrant;
 
-&emsp;“(4) protecting the public from registration of domain names that include the personal names of government officials, official candidates, and potential official candidates for Federal, State, or local political office in the United States, and the use of such domain names in a manner that disrupts the electoral process or the public's ability to access accurate and reliable information regarding such individuals;
+&emsp;"(4) protecting the public from registration of domain names that include the personal names of government officials, official candidates, and potential official candidates for Federal, State, or local political office in the United States, and the use of such domain names in a manner that disrupts the electoral process or the public's ability to access accurate and reliable information regarding such individuals;
 
-&emsp;“(5) existing remedies, whether under State law or otherwise, and the extent to which such remedies are sufficient to address the considerations described in paragraphs (1) through (4); and
+&emsp;"(5) existing remedies, whether under State law or otherwise, and the extent to which such remedies are sufficient to address the considerations described in paragraphs (1) through (4); and
 
-&emsp;“(6) the guidelines, procedures, and policies of the Internet Corporation for Assigned Names and Numbers and the extent to which they address the considerations described in paragraphs (1) through (4).
+&emsp;"(6) the guidelines, procedures, and policies of the Internet Corporation for Assigned Names and Numbers and the extent to which they address the considerations described in paragraphs (1) through (4).
 
-“(b)
+"(b)
 
-Guidelines and Procedures.—The Secretary of Commerce shall, under its Memorandum of Understanding with the Internet Corporation for Assigned Names and Numbers, collaborate to develop guidelines and procedures for resolving disputes involving the registration or use by a person of a domain name that includes the personal name of another person, in whole or in part, or a name confusingly similar thereto.”
+Guidelines and Procedures.—The Secretary of Commerce shall, under its Memorandum of Understanding with the Internet Corporation for Assigned Names and Numbers, collaborate to develop guidelines and procedures for resolving disputes involving the registration or use by a person of a domain name that includes the personal name of another person, in whole or in part, or a name confusingly similar thereto."
 

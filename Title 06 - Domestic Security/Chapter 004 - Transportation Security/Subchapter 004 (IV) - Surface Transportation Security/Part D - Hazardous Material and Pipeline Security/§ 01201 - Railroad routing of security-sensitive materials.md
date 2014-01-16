@@ -6,7 +6,7 @@ Not later than 9 months after August 3, 2007, the Secretary of Transportation, i
 
 #### (b) Security-sensitive materials commodity data
 
-The Secretary of Transportation shall ensure that the final rule requires each railroad carriertransporting security-sensitive materials in commerce to, no later than 90 days after the end of each calendar year, compile security-sensitive materials commodity data. Such data must be collected by route, line segment, or series of line segments, as aggregated by the railroad carrier. Within the railroad carrier selected route, the commodity data must identify the geographic location of the route and the total number of shipments by the United Nations identification number for the security-sensitive materials.
+The Secretary of Transportation shall ensure that the final rule requires each railroad carrier transporting security-sensitive materials in commerce to, no later than 90 days after the end of each calendar year, compile security-sensitive materials commodity data. Such data must be collected by route, line segment, or series of line segments, as aggregated by the railroad carrier. Within the railroad carrier selected route, the commodity data must identify the geographic location of the route and the total number of shipments by the United Nations identification number for the security-sensitive materials.
 
 #### (c) Railroad transportation route analysis for security-sensitive materials
 

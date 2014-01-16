@@ -6,7 +6,7 @@ The Congress finds that it is in the national security and economic interest of 
 
 #### (b) Purpose
 
-It is the purpose of this chapter to authorize the Secretary of Energy, acting in accordancewith section 13541 of this title, to pursue an aggressive national program of research, development, demonstration, and commercial application of renewable energy and energy efficiency technologies in order to ensure a stable and secure future energy supply by—
+It is the purpose of this chapter to authorize the Secretary of Energy, acting in accordance with section 13541 of this title, to pursue an aggressive national program of research, development, demonstration, and commercial application of renewable energy and energy efficiency technologies in order to ensure a stable and secure future energy supply by—
 
 &emsp;(1) achieving as soon as practicable cost competitive use of those technologies without need of Federal financial incentives;
 
@@ -28,25 +28,25 @@ The Secretary, acting in accordance with section 13541 of this title, is authori
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c)(1), was in the original “this Act”, meaning Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsecs. (b) and (c)(1), was in the original "this Act", meaning Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–486, §1202(d)(1), substituted “section 13541 of this title” for “authority contained in the Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901–5920) and other law applicable to the Secretary” and “demonstration, and commercial application” for “and demonstration”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–486, §1202(d)(1), substituted "section 13541 of this title" for "authority contained in the Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901–5920) and other law applicable to the Secretary" and "demonstration, and commercial application" for "and demonstration".
 
-Subsec. (b)(4). Pub. L. 102–486, §1202(d)(2), substituted “efforts” for “research and development efforts” and “demonstration and commercial application projects” for “joint ventures”.
+Subsec. (b)(4). Pub. L. 102–486, §1202(d)(2), substituted "efforts" for "research and development efforts" and "demonstration and commercial application projects" for "joint ventures".
 
-Subsec. (c). Pub. L. 102–486, §1202(d)(3), substituted “section 13541 of this title, is authorized and directed to—” and pars. (1) and (2) for “the authority contained in the Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901–5920) and other law applicable to the Secretary—
+Subsec. (c). Pub. L. 102–486, §1202(d)(3), substituted "section 13541 of this title, is authorized and directed to—" and pars. (1) and (2) for "the authority contained in the Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901–5920) and other law applicable to the Secretary—
 
-&emsp;“(1) is authorized and directed to—
+&emsp;"(1) is authorized and directed to—
 
-&emsp;&emsp;“(A) pursue a program of research, development, and demonstration, including the use of joint ventures with the private sector, to achieve the purpose of this chapter, including the goals established under section 12003 of this title; and
+&emsp;&emsp;"(A) pursue a program of research, development, and demonstration, including the use of joint ventures with the private sector, to achieve the purpose of this chapter, including the goals established under section 12003 of this title; and
 
-&emsp;&emsp;“(B) undertake joint ventures as provided in section 12005 of this title; and
+&emsp;&emsp;"(B) undertake joint ventures as provided in section 12005 of this title; and
 
-&emsp;“(2) is authorized to undertake, from time to time, joint ventures in technology areas other than those set forth in section 12005(c) of this title, subject to the conditions set forth in section 12005(b) of this title.”
+&emsp;"(2) is authorized to undertake, from time to time, joint ventures in technology areas other than those set forth in section 12005(c) of this title, subject to the conditions set forth in section 12005(b) of this title."
 
 #### Short Title
 
-Pub. L. 101–218, §1, Dec. 11, 1989, 103 Stat. 1859, provided: “That this Act \[enacting this chapter and amending sections 6276 and 8243 of this title, section 2857 of Title 10, Armed Forces, and section 2194 of Title 22, Foreign Relations and Intercourse\] may be referred to as the ‘Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989’.”
+Pub. L. 101–218, §1, Dec. 11, 1989, 103 Stat. 1859, provided: "That this Act \[enacting this chapter and amending sections 6276 and 8243 of this title, section 2857 of Title 10, Armed Forces, and section 2194 of Title 22, Foreign Relations and Intercourse\] may be referred to as the 'Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989'."
 

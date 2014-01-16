@@ -28,11 +28,11 @@ Subsection (a) shall not apply with respect to a power which has been renounced 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (e). Pub. L. 106–554 substituted “an S corporation” for “an electing small business corporation”.
+<b>2000</b>—Subsec. (e). Pub. L. 106–554 substituted "an S corporation" for "an electing small business corporation".
 
 <b>1983</b>—Subsec. (e). Pub. L. 97–448 added subsec. (e).
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted “if the grantor of the trust or a transferor (to whom section 679 applies) is otherwise treated as the owner under the provisions of this subpart other than this section” for “if the grantor of the trust is otherwise treated as the owner under sections 671 to 677, inclusive”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted "if the grantor of the trust or a transferor (to whom section 679 applies) is otherwise treated as the owner under the provisions of this subpart other than this section" for "if the grantor of the trust is otherwise treated as the owner under sections 671 to 677, inclusive".
 
 #### Effective Date of 1983 Amendment
 

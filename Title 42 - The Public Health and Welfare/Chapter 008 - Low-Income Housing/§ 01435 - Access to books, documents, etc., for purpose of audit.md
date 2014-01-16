@@ -10,5 +10,5 @@ Section was not enacted as part of the United States Housing Act of 1937 which c
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” for “Public Housing Commissioner”.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary of Housing and Urban Development" for "Public Housing Commissioner".
 

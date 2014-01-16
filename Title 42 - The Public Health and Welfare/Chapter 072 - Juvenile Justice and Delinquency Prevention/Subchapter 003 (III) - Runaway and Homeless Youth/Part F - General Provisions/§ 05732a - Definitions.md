@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Drug abuse education and prevention services
 
-&emsp;The term “drug abuse education and prevention services”—
+&emsp;The term "drug abuse education and prevention services"—
 
 &emsp;&emsp;(A) means services to runaway and homeless youth to prevent or reduce the illicit use of drugs by such youth; and
 
@@ -22,7 +22,7 @@ In this subchapter:
 
 #### (2) Home-based services
 
-&emsp;The term “home-based services”—
+&emsp;The term "home-based services"—
 
 &emsp;&emsp;(A) means services provided to youth and their families for the purpose of—
 
@@ -38,7 +38,7 @@ In this subchapter:
 
 #### (3) Homeless youth
 
-&emsp;The term “homeless”, used with respect to a youth, means an individual—
+&emsp;The term "homeless", used with respect to a youth, means an individual—
 
 &emsp;&emsp;(A) who is—
 
@@ -56,11 +56,11 @@ In this subchapter:
 
 #### (4) Runaway youth
 
-&emsp;The term “runaway”, used with respect to a youth, means an individual who is less than 18 years of age and who absents himself or herself from home or a place of legal residence without the permission of a parent or legal guardian.
+&emsp;The term "runaway", used with respect to a youth, means an individual who is less than 18 years of age and who absents himself or herself from home or a place of legal residence without the permission of a parent or legal guardian.
 
 #### (5) Street-based services
 
-&emsp;The term “street-based services”—
+&emsp;The term "street-based services"—
 
 &emsp;&emsp;(A) means services provided to runaway and homeless youth, and street youth, in areas where they congregate, designed to assist such youth in making healthy personal choices regarding where they live and how they behave; and
 
@@ -86,7 +86,7 @@ In this subchapter:
 
 #### (6) Street youth
 
-&emsp;The term “street youth” means an individual who—
+&emsp;The term "street youth" means an individual who—
 
 &emsp;&emsp;(A) is—
 
@@ -98,11 +98,11 @@ In this subchapter:
 
 #### (7) Transitional living youth project
 
-&emsp;The term “transitional living youth project” means a project that provides shelter and services designed to promote a transition to self-sufficient living and to prevent long-term dependency on social services.
+&emsp;The term "transitional living youth project" means a project that provides shelter and services designed to promote a transition to self-sufficient living and to prevent long-term dependency on social services.
 
 #### (8) Youth at risk of separation from the family
 
-&emsp;The term “youth at risk of separation from the family” means an individual—
+&emsp;The term "youth at risk of separation from the family" means an individual—
 
 &emsp;&emsp;(A) who is less than 18 years of age; and
 
@@ -116,15 +116,15 @@ In this subchapter:
 
 #### Amendments
 
-<b>2008</b>—Par. (3). Pub. L. 110–378, §10(a)(1), substituted “The term ‘homeless’, used with respect to a youth, means” for “The term ‘homeless youth’ means” in introductory provisions.
+<b>2008</b>—Par. (3). Pub. L. 110–378, §10(a)(1), substituted "The term 'homeless', used with respect to a youth, means" for "The term 'homeless youth' means" in introductory provisions.
 
-Par. (3)(A)(i). Pub. L. 110–378, §10(a)(2)(A), substituted “less than” for “not more than” in two places and inserted “, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving facilities” after “18 years of age”.
+Par. (3)(A)(i). Pub. L. 110–378, §10(a)(2)(A), substituted "less than" for "not more than" in two places and inserted ", or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving facilities" after "18 years of age".
 
-Par. (3)(A)(ii). Pub. L. 110–378, §10(a)(2)(B), substituted “age and either—” for “age;” and added subcls. (I) and (II).
+Par. (3)(A)(ii). Pub. L. 110–378, §10(a)(2)(B), substituted "age and either—" for "age;" and added subcls. (I) and (II).
 
 Pars. (4) to (8). Pub. L. 110–378, §10(b), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
-<b>2003</b>—Subsec. (3)(A)(i). Pub. L. 108–96 inserted “, or, in the case of a youth seeking shelter in a center under part A of this subchapter, not more than 18 years of age” after “of age”.
+<b>2003</b>—Subsec. (3)(A)(i). Pub. L. 108–96 inserted ", or, in the case of a youth seeking shelter in a center under part A of this subchapter, not more than 18 years of age" after "of age".
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) .1 percent of the amount of certificates of indebtedness authorized under the First Liberty Bond Act.
 
-(b) An appropriation under this section is available for obligation only through the end ofthe fiscal year after the fiscal year in which the issue was made. During a period for which an appropriation for a specified amount is made for expenses for which this section makes an appropriation for an unspecified amount, only the appropriation for the specified amount is available for obligation.
+(b) An appropriation under this section is available for obligation only through the end of the fiscal year after the fiscal year in which the issue was made. During a period for which an appropriation for a specified amount is made for expenses for which this section makes an appropriation for an unspecified amount, only the appropriation for the specified amount is available for obligation.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 947.)
 
@@ -48,11 +48,11 @@ Sept. 24, 1917, ch. 56, §10, 40 Stat. 292; May 29, 1928, ch. 901, §1(20)(relat
 
 31:761.
 
-June 16, 1921, ch. 23, §1(last par. last sentence under heading “Office of the Secretary”), 42 Stat. 36.
+June 16, 1921, ch. 23, §1(last par. last sentence under heading "Office of the Secretary"), 42 Stat. 36.
 
-In subsection (a), before clause (1), the words “an issue of obligations authorized under this chapter” are substituted for 31:761(less proviso) to reflect consolidation of the authority for issues of obligations in the revised chapter and for consistency. The text of 31:757c(e) is omitted as unnecessary and superseded by 39:410. The words “out of any money in the Treasury not otherwise appropriated” in 31:760 are omitted as unnecessary and for consistency. The words “to be expended as the Secretary of the Treasury may direct” in 31:760 are omitted as surplus. In clause (1), the .2 percent limitation on expenses of bonds referred to in 31:760 is made applicable to a “note” because of the definition of bond in 31:753(d)(last sentence). The words “sections 735 to 738, . . . 765, . . . 773 of this title and section 84 of title 12” in 31:753(d)(last sentence) are omitted because they refer to sections previously repealed (31:735–738, 765) or obsolete (31:773, which was superseded by 39:410) and because 12:84 was amended to express the result required by the source provisions by section 10 of the Act of February 25, 1927 (ch. 191, 44 Stat. 1229).
+In subsection (a), before clause (1), the words "an issue of obligations authorized under this chapter" are substituted for 31:761(less proviso) to reflect consolidation of the authority for issues of obligations in the revised chapter and for consistency. The text of 31:757c(e) is omitted as unnecessary and superseded by 39:410. The words "out of any money in the Treasury not otherwise appropriated" in 31:760 are omitted as unnecessary and for consistency. The words "to be expended as the Secretary of the Treasury may direct" in 31:760 are omitted as surplus. In clause (1), the .2 percent limitation on expenses of bonds referred to in 31:760 is made applicable to a "note" because of the definition of bond in 31:753(d)(last sentence). The words "sections 735 to 738, . . . 765, . . . 773 of this title and section 84 of title 12" in 31:753(d)(last sentence) are omitted because they refer to sections previously repealed (31:735–738, 765) or obsolete (31:773, which was superseded by 39:410) and because 12:84 was amended to express the result required by the source provisions by section 10 of the Act of February 25, 1927 (ch. 191, 44 Stat. 1229).
 
-In subsection (b), the words “appropriation for the specified amount” are substituted for “definite appropriation”, and the words “appropriation for an unspecified amount” are substituted for “indefinite appropriation”, as being more precise. The word “only” is substituted for “and the indefinite appropriation shall not be available for obligation” to eliminate unnecessary words.
+In subsection (b), the words "appropriation for the specified amount" are substituted for "definite appropriation", and the words "appropriation for an unspecified amount" are substituted for "indefinite appropriation", as being more precise. The word "only" is substituted for "and the indefinite appropriation shall not be available for obligation" to eliminate unnecessary words.
 
 #### References in Text
 

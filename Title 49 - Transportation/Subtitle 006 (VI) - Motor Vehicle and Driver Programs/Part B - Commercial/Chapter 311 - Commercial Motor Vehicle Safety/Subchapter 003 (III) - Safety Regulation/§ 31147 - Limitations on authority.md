@@ -30,5 +30,5 @@ Oct. 30, 1984, Pub. L. 98–554, §229, 98 Stat. 2853.
 
 49 App.:2519(b).
 
-In subsection (a), the word “prescribe” is substituted for “establish or maintain” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the word "prescribe" is substituted for "establish or maintain" for consistency in the revised title and with other titles of the United States Code.
 

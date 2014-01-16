@@ -14,7 +14,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §14207(b), substituted “5 years” for “3 years”.
+<b>2008</b>—Pub. L. 110–246, §14207(b), substituted "5 years" for "3 years".
 
 #### Effective Date of 2008 Amendment
 

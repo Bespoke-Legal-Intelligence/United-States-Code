@@ -20,11 +20,11 @@ Section 202(b)(4), referred to in subsec. (b), was redesignated section 202(b)(3
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted “chapter 71 of title 41” for “the Contract Disputes Act (41 U.S.C. §601 et seq.)”.
+<b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted "chapter 71 of title 41" for "the Contract Disputes Act (41 U.S.C. §601 et seq.)".
 
-<b>2002</b>—Pub. L. 107–273 redesignated par. (1) as subsec. (a) and former subpars. (a) to (d) as pars. (1) to (4), respectively, redesignated former par. (2) as subsec. (b), struck out quotation marks and comma before “as appropriate”, and substituted “paragraphs (1) and (3) of subsection (a)” for “paragraphs (a) and (c)”.
+<b>2002</b>—Pub. L. 107–273 redesignated par. (1) as subsec. (a) and former subpars. (a) to (d) as pars. (1) to (4), respectively, redesignated former par. (2) as subsec. (b), struck out quotation marks and comma before "as appropriate", and substituted "paragraphs (1) and (3) of subsection (a)" for "paragraphs (a) and (c)".
 
-<b>1992</b>—Par. (2). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Par. (2). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 <b>1984</b>—Pub. L. 98–620 designated existing provisions as par. (1) and added par. (2).
 

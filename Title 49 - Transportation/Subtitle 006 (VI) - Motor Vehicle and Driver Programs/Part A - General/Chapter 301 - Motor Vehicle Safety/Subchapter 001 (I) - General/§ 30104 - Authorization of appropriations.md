@@ -20,17 +20,17 @@ Historical and Revision Notes
 
 Dec. 18, 1991, Pub. L. 102–240, §2501(a), 105 Stat. 2081.
 
-In this section, before clause (1), the words “to the Secretary of Transportation for the National Highway Traffic Safety Administration” are substituted for “For the National Highway Traffic Safety Administration” for clarity and consistency in the revised title and with other titles of the United States Code. The reference to fiscal year 1992 is omitted as obsolete.
+In this section, before clause (1), the words "to the Secretary of Transportation for the National Highway Traffic Safety Administration" are substituted for "For the National Highway Traffic Safety Administration" for clarity and consistency in the revised title and with other titles of the United States Code. The reference to fiscal year 1992 is omitted as obsolete.
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–39 substituted “$98,313,500” for “$81,200,000”.
+<b>1999</b>—Pub. L. 106–39 substituted "$98,313,500" for "$81,200,000".
 
-<b>1998</b>—Pub. L. 105–178 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The following amounts may be appropriated to the Secretary of Transportation for the National Highway Traffic Safety Administration to carry out this chapter:
+<b>1998</b>—Pub. L. 105–178 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "The following amounts may be appropriated to the Secretary of Transportation for the National Highway Traffic Safety Administration to carry out this chapter:
 
-&emsp;“(1) $71,333,436 for the fiscal year ending September 30, 1993.
+&emsp;"(1) $71,333,436 for the fiscal year ending September 30, 1993.
 
-&emsp;“(2) $74,044,106 for the fiscal year ending September 30, 1994.
+&emsp;"(2) $74,044,106 for the fiscal year ending September 30, 1994.
 
-&emsp;“(3) $76,857,782 for the fiscal year ending September 30, 1995.”
+&emsp;"(3) $76,857,782 for the fiscal year ending September 30, 1995."
 

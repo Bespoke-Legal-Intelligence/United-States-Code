@@ -24,7 +24,7 @@ Section 1437f(n) of this title, referred to in subsec. (a), was repealed by Pub.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b)(2). Pub. L. 102–550 inserted “with acquired immunodeficiency syndrome or related diseases” after “any individual”.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–550 inserted "with acquired immunodeficiency syndrome or related diseases" after "any individual".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

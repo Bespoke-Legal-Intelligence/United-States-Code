@@ -4,27 +4,27 @@ In this subtitle, the following definitions apply:
 
 &emsp;(1)
 
-Commercial item.—The term “commercial item” has the meaning given that term in section 103 of title 41.
+Commercial item.—The term "commercial item" has the meaning given that term in section 103 of title 41.
 
 &emsp;(2)
 
-Executive agency.—The term “executive agency” has the meaning given that term in section 133 of title 41.
+Executive agency.—The term "executive agency" has the meaning given that term in section 133 of title 41.
 
 &emsp;(3)
 
-Information resources.—The term “information resources” has the meaning given that term in section 3502 of title 44.
+Information resources.—The term "information resources" has the meaning given that term in section 3502 of title 44.
 
 &emsp;(4)
 
-Information resources management.—The term “information resources management” has the meaning given that term in section 3502 of title 44.
+Information resources management.—The term "information resources management" has the meaning given that term in section 3502 of title 44.
 
 &emsp;(5)
 
-Information system.—The term “information system” has the meaning given that term in section 3502 of title 44.
+Information system.—The term "information system" has the meaning given that term in section 3502 of title 44.
 
 &emsp;(6)
 
-Information technology.—The term “information technology”—
+Information technology.—The term "information technology"—
 
 &emsp;&emsp;(A) with respect to an executive agency means any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use—
 
@@ -58,13 +58,13 @@ The text of 40:1401(1) is omitted as unnecessary because the complete name of th
 
 #### Amendments
 
-<b>2011</b>—Par. (1). Pub. L. 111–350, §5(l)(24)(A), substituted “section 103 of title 41” for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)”.
+<b>2011</b>—Par. (1). Pub. L. 111–350, §5(l)(24)(A), substituted "section 103 of title 41" for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)".
 
-Par. (2). Pub. L. 111–350, §5(l)(24)(B), substituted “section 133 of title 41” for “section 4 of the Act (41 U.S.C. 403)”.
+Par. (2). Pub. L. 111–350, §5(l)(24)(B), substituted "section 133 of title 41" for "section 4 of the Act (41 U.S.C. 403)".
 
-<b>2004</b>—Par. (6)(A). Pub. L. 108–199, §535(b)(1), inserted “analysis, evaluation,” after “storage,”.
+<b>2004</b>—Par. (6)(A). Pub. L. 108–199, §535(b)(1), inserted "analysis, evaluation," after "storage,".
 
-Par. (6)(B). Pub. L. 108–199, §535(b)(2), substituted “ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer,” for “ancillary equipment,”.
+Par. (6)(B). Pub. L. 108–199, §535(b)(2), substituted "ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer," for "ancillary equipment,".
 
 #### Executive Order No. 13011
 
@@ -102,13 +102,13 @@ Sec. 2. <i>Responsibilities of Agency Heads</i>. In connection with the acquisit
 
 (d) ensure that the policies, procedures, and practices of the agency related to copyrights protecting computer software are adequate and fully implement the policies set forth in this order.
 
-Sec. 3. <i>Chief Information Officers Council</i>. The Chief Information Officers Council (“Council”) established by section 3 of Executive Order No. 13011 of July 16, 1996 \[set out above\], shall be the principal interagency forum to improve executive agency practices regarding the acquisition and use of computer software, and monitoring and combating the use of unauthorized computer software. The Council shall provide advice and make recommendations to executive agencies and to the Office of Management and Budget regarding appropriate government-wide measures to carry out this order. The Council shall issue its initial recommendations within 6 months of the date of this order.
+Sec. 3. <i>Chief Information Officers Council</i>. The Chief Information Officers Council ("Council") established by section 3 of Executive Order No. 13011 of July 16, 1996 \[set out above\], shall be the principal interagency forum to improve executive agency practices regarding the acquisition and use of computer software, and monitoring and combating the use of unauthorized computer software. The Council shall provide advice and make recommendations to executive agencies and to the Office of Management and Budget regarding appropriate government-wide measures to carry out this order. The Council shall issue its initial recommendations within 6 months of the date of this order.
 
 Sec. 4. <i>Office of Management and Budget</i>. The Director of the Office of Management and Budget, in carrying out responsibilities under the Clinger-Cohen Act \[probably means the Clinger-Cohen Act of 1996, div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, see Tables for classification\], shall utilize appropriate oversight mechanisms to foster agency compliance with the policies set forth in this order. In carrying out these responsibilities, the Director shall consider any recommendations made by the Council under section 3 of this order regarding practices and policies to be instituted on a government-wide basis to carry out this order.
 
-Sec. 5. <i>Definition</i>. “Executive agency” and “agency” have the meaning given to that term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).
+Sec. 5. <i>Definition</i>. "Executive agency" and "agency" have the meaning given to that term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).
 
-Sec. 6. <i>National Security</i>. In the interest of national security, nothing in this order shall be construed to require the disclosure of intelligence sources or methods or to otherwise impair the authority of those agencies listed at 50 U.S.\[C.\] 401a(4) to carry out intelligence activities.
+Sec. 6. <i>National Security</i>. In the interest of national security, nothing in this order shall be construed to require the disclosure of intelligence sources or methods or to otherwise impair the authority of those agencies listed at \[former\] 50 U.S.\[C.\] 401a(4) \[now 50 U.S.C. 3003(4)\] to carry out intelligence activities.
 
 Sec. 7. <i>Law Enforcement Activities</i>. Nothing in this order shall be construed to require the disclosure of law enforcement investigative sources or methods or to prohibit or otherwise impair any lawful investigative or protective activity undertaken for or by any officer, agent, or employee of the United States or any person acting pursuant to a contract or other agreement with such entities.
 

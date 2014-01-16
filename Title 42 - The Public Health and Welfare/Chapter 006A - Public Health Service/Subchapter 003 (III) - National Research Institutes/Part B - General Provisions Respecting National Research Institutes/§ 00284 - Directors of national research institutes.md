@@ -52,7 +52,7 @@ The Director of the National Cancer Institute shall be appointed by the Presiden
 
 &emsp;&emsp;(ii) if the direct cost of the grant or cooperative agreement to be made exceeds $50,000, such grant or cooperative agreement may be made only if such grant or cooperative agreement has been recommended after technical and scientific peer review required by regulations under section 289a of this title and is recommended under section 284a(a)(3)(A)(ii) of this title by the advisory council for the national research institute involved; and
 
-&emsp;(C) shall, subject to section 300cc–40c(d)(2) of this title, receive from the President and the Office of Management and Budget directly all funds appropriated by the Congress for obligation and expenditure by the Institute.
+&emsp;(C) shall, subject to section 300cc–40c(d)(2) of this title, receive from the President and the Office of Management and Budget directly allfunds appropriated by the Congress for obligation and expenditure by the Institute.
 
 #### (c) Coordination with other public and private entities; cooperation with other national research institutes; appointment of additional peer review groups
 
@@ -80,19 +80,19 @@ The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(3)(A). Pub. L. 109–482 substituted “section 282(b)(16)” for “section 282(b)(6)”.
+<b>2007</b>—Subsec. (c)(3)(A). Pub. L. 109–482 substituted "section 282(b)(16)" for "section 282(b)(6)".
 
 <b>1993</b>—Subsec. (b)(2)(C). Pub. L. 103–43, §301(a)(1), added subpar. (C).
 
 Subsec. (c). Pub. L. 103–43, §301(b)(2), inserted concluding provisions relating to Federal Advisory Committee Act.
 
-Subsec. (c)(3). Pub. L. 103–43, §301(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “may, in consultation with the advisory council for the Institute and the approval of the Director of NIH, establish and appoint technical and scientific peer review groups in addition to those established and appointed under section 282(b)(6) of this title; and”.
+Subsec. (c)(3). Pub. L. 103–43, §301(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "may, in consultation with the advisory council for the Institute and the approval of the Director of NIH, establish and appoint technical and scientific peer review groups in addition to those established and appointed under section 282(b)(6) of this title; and".
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–607, §116(1), struck out “the” after “with respect to” in introductory provisions.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–607, §116(1), struck out "the" after "with respect to" in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 100–690 substituted “establish and appoint” and “established and appointed” for “establish” and “established”, respectively.
+Subsec. (c)(3). Pub. L. 100–690 substituted "establish and appoint" and "established and appointed" for "establish" and "established", respectively.
 
-Pub. L. 100–607, §116(2)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “may, with the approval of the advisory council for the institute and the Director of NIH, appoint technical and scientific peer review groups in addition to those appointed under section 282(b)(6) of this title.”
+Pub. L. 100–607, §116(2)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "may, with the approval of the advisory council for the institute and the Director of NIH, appoint technical and scientific peer review groups in addition to those appointed under section 282(b)(6) of this title."
 
 Subsec. (c)(4). Pub. L. 100–607, §116(2)(C), added par. (4).
 
@@ -108,19 +108,19 @@ Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 
 
 Pub. L. 109–482, title I, §106, Jan. 15, 2007, 120 Stat. 3696, provided that:
 
-“(a)
+"(a)
 
 In General.—In administering the Clinical and Translational Science Award, the Director of NIH shall establish a mechanism to preserve independent funding and infrastructure for pediatric clinical research centers by—
 
-&emsp;“(1) allowing the appointment of a secondary principal investigator under a single Clinical and Translational Science Award, such that a pediatric principal investigator may be appointed with direct authority over a separate budget and infrastructure for pediatric clinical research; or
+&emsp;"(1) allowing the appointment of a secondary principal investigator under a single Clinical and Translational Science Award, such that a pediatric principal investigator may be appointed with direct authority over a separate budget and infrastructure for pediatric clinical research; or
 
-&emsp;“(2) otherwise securing institutional independence of pediatric clinical research centers with respect to finances, infrastructure, resources, and research agenda.
+&emsp;"(2) otherwise securing institutional independence of pediatric clinical research centers with respect to finances, infrastructure, resources, and research agenda.
 
-“(b)
+"(b)
 
-Report.—As part of the biennial report under section 403 of the Public Health Service Act \[section 283 of this title\], the Director of NIH shall provide an evaluation and comparison of outcomes and effectiveness of training programs under subsection (a).
+Report.—As part of the biennial report under section 403 of the Public Health Service Act \[42 U.S.C. 283\], the Director of NIH shall provide an evaluation and comparison of outcomes and effectiveness of training programs under subsection (a).
 
-“(c)
+"(c)
 
-Definition.—For purposes of this section, the term ‘Director of NIH’ has the meaning given such term in section 401 of the Public Health Service Act \[section 281 of this title\].”
+Definition.—For purposes of this section, the term 'Director of NIH' has the meaning given such term in section 401 of the Public Health Service Act \[42 U.S.C. 281\]."
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of this title in the case of income, estate, and gift taxes imposed by subtitles A and B and excise taxes imposed by chapters 41, 42, 43, and 44 the term “deficiency” means the amount by which the tax imposed by subtitle A or B, or chapter 41, 42, 43, or 44 exceeds the excess of—
+For purposes of this title in the case of income, estate, and gift taxes imposed by subtitles A and B and excise taxes imposed by chapters 41, 42, 43, and 44 the term "deficiency" means the amount by which the tax imposed by subtitle A or B, or chapter 41, 42, 43, or 44 exceeds the excess of—
 
 &emsp;(1) the sum of
 
@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;(1) The tax imposed by subtitle A and the tax shown on the return shall both be determined without regard to payments on account of estimated tax, without regard to the credit under section 31, without regard to the credit under section 33, and without regard to any credits resulting from the collection of amounts assessed under section 6851 or 6852 (relating to termination assessments).
 
-&emsp;(2) The term “rebate” means so much of an abatement, credit, refund, or other repayment, as was made on the ground that the tax imposed by subtitle A or B or chapter 41, 42, 43, or 44 was less than the excess of the amount specified in subsection (a)(1) over the rebates previously made.
+&emsp;(2) The term "rebate" means so much of an abatement, credit, refund, or other repayment, as was made on the ground that the tax imposed by subtitle A or B or chapter 41, 42, 43, or 44 was less than the excess of the amount specified in subsection (a)(1) over the rebates previously made.
 
 &emsp;(3) The computation by the Secretary, pursuant to section 6014, of the tax imposed by chapter 1 shall be considered as having been made by the taxpayer and the tax so computed considered as shown by the taxpayer upon his return.
 
@@ -26,7 +26,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i)(6) thereof, 32, 34, 35, 36, 36A, 36B, 53(e), 168(k)(4), 6428, and 6431 over the tax imposed by subtitle A (determined without regard to such credits), and
 
-&emsp;&emsp;(B) any excess of the sum of such credits as shown by the taxpayer on his return over the amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
+&emsp;&emsp;(B) any excess of the sum of such credits as shown by the taxpayer on his return overthe amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
 
 > &emsp;shall be taken into account as negative amounts of tax.
 
@@ -38,49 +38,49 @@ In determining the amount of any deficiency for purposes of this subchapter, adj
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(4)(A). Pub. L. 111–148, §10909(b)(2)(N), (c), as amended by Pub. L. 111–312, temporarily inserted “36C,” before “53(e)”. See Effective and Termination Dates of 2010 Amendment note below.
+<b>2010</b>—Subsec. (b)(4)(A). Pub. L. 111–148, §10909(b)(2)(N), (c), as amended by Pub. L. 111–312, temporarily inserted "36C," before "53(e)". See Effective and Termination Dates of 2010 Amendment note below.
 
-Pub. L. 111–148, §1401(d)(3), as added by Pub. L. 111–148, §10105(d), inserted “36B,” after “36A,”.
+Pub. L. 111–148, §1401(d)(3), as added by Pub. L. 111–148, §10105(d), inserted "36B," after "36A,".
 
-<b>2009</b>—Subsec. (b)(4)(A). Pub. L. 111–5, §1531(c)(4), substituted “6428, and 6431” for “and 6428”.
+<b>2009</b>—Subsec. (b)(4)(A). Pub. L. 111–5, §1531(c)(4), substituted "6428, and 6431" for "and 6428".
 
-Pub. L. 111–5, §1201(a)(3)(B), (b)(2), amended subpar. (A) identically, inserting “168(k)(4),” after “53(e),”.
+Pub. L. 111–5, §1201(a)(3)(B), (b)(2), amended subpar. (A) identically, inserting "168(k)(4)," after "53(e),".
 
-Pub. L. 111–5, §1004(b)(7), inserted “25A by reason of subsection (i)(6) thereof,” after “24(d),”.
+Pub. L. 111–5, §1004(b)(7), inserted "25A by reason of subsection (i)(6) thereof," after "24(d),".
 
-Pub. L. 111–5, §1001(e)(1), inserted “36A,” after “36,”.
+Pub. L. 111–5, §1001(e)(1), inserted "36A," after "36,".
 
-<b>2008</b>—Subsec. (b)(4)(A). Pub. L. 110–289 substituted “34, 35, 36, 53(e), and 6428” for “34, 35, 53(e), and 6428”.
+<b>2008</b>—Subsec. (b)(4)(A). Pub. L. 110–289 substituted "34, 35, 36, 53(e), and 6428" for "34, 35, 53(e), and 6428".
 
-Pub. L. 110–185 substituted “53(e), and 6428” for “and 53(e)”.
+Pub. L. 110–185 substituted "53(e), and 6428" for "and 53(e)".
 
-<b>2007</b>—Subsec. (b)(4)(A). Pub. L. 110–172, which directed amendment of subpar. (A) by substituting “34, and 35” for “and 34”, was executed by inserting “35,” after “34,”, to reflect the probable intent of Congress and the amendment of subpar. (A) by section 402(b)(1) of Pub. L. 109–432. See 2006 Amendment note below.
+<b>2007</b>—Subsec. (b)(4)(A). Pub. L. 110–172, which directed amendment of subpar. (A) by substituting "34, and 35" for "and 34", was executed by inserting "35," after "34,", to reflect the probable intent of Congress and the amendment of subpar. (A) by section 402(b)(1) of Pub. L. 109–432. See 2006 Amendment note below.
 
-<b>2006</b>—Subsec. (b)(4)(A). Pub. L. 109–432 substituted “34, and 53(e)” for “and 34”.
+<b>2006</b>—Subsec. (b)(4)(A). Pub. L. 109–432 substituted "34, and 53(e)" for "and 34".
 
-<b>2000</b>—Subsec. (b)(4)(A). Pub. L. 106–554 substituted “sections 24(d), 32, and 34” for “sections 32 and 34”.
+<b>2000</b>—Subsec. (b)(4)(A). Pub. L. 106–554 substituted "sections 24(d), 32, and 34" for "sections 32 and 34".
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–206 substituted “subchapters C and D” for “subchapter C” in heading and in text.
+<b>1998</b>—Subsec. (c). Pub. L. 105–206 substituted "subchapters C and D" for "subchapter C" in heading and in text.
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–418, §1941(b)(2)(B)(i), (C), in introductory provisions, substituted “and 44” for “44, and 45” and “or 44” for “44, or 45”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–418, §1941(b)(2)(B)(i), (C), in introductory provisions, substituted "and 44" for "44, and 45" and "or 44" for "44, or 45".
 
-Subsec. (b)(2). Pub. L. 100–418, §1941(b)(2)(B)(ii), substituted “or 44” for “44, or 45”.
+Subsec. (b)(2). Pub. L. 100–418, §1941(b)(2)(B)(ii), substituted "or 44" for "44, or 45".
 
-Subsec. (b)(4). Pub. L. 100–647, §1015(r)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The tax imposed by subtitle A and the tax shown on the return shall both be determined without regard to the credit under section 34, unless, without regard to such credit, the tax imposed by subtitle A exceeds the excess of the amount specified in subsection (a)(1) over the amount specified in subsection (a)(2).”
+Subsec. (b)(4). Pub. L. 100–647, §1015(r)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The tax imposed by subtitle A and the tax shown on the return shall both be determined without regard to the credit under section 34, unless, without regard to such credit, the tax imposed by subtitle A exceeds the excess of the amount specified in subsection (a)(1) over the amount specified in subsection (a)(2)."
 
 Subsec. (b)(5), (6). Pub. L. 100–418, §1941(b)(2)(D), struck out pars. (5) and (6) which read as follows:
 
-“(5) The amount withheld under section 4995(a) from amounts payable to any producer for crude oil removed during any taxable period (as defined in section 4996(b)(7)) which is not otherwise shown on a return by such producer shall be treated as tax shown by the producer on a return for the taxable period.
+"(5) The amount withheld under section 4995(a) from amounts payable to any producer for crude oil removed during any taxable period (as defined in section 4996(b)(7)) which is not otherwise shown on a return by such producer shall be treated as tax shown by the producer on a return for the taxable period.
 
-“(6) Any liability to pay amounts required to be withheld under section 4995(a) shall not be treated as a tax imposed by chapter 45.”
+"(6) Any liability to pay amounts required to be withheld under section 4995(a) shall not be treated as a tax imposed by chapter 45."
 
 <b>1987</b>—Subsec. (b)(1). Pub. L. 100–203 inserted reference to section 6852.
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §474(r)(33)(A), substituted “without regard to the credit under section 33” for “without regard to so much of the credit under section 32 as exceeds 2 percent of the interest on obligations described in section 1451”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §474(r)(33)(A), substituted "without regard to the credit under section 33" for "without regard to so much of the credit under section 32 as exceeds 2 percent of the interest on obligations described in section 1451".
 
-Subsec. (b)(4). Pub. L. 98–369, §474(r)(33)(B), substituted “section 34” for “section 39”.
+Subsec. (b)(4). Pub. L. 98–369, §474(r)(33)(B), substituted "section 34" for "section 39".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–223, §101(f)(1)(A), (2), inserted references to chapter 45 in provisions preceding par. (1).
 
@@ -88,13 +88,13 @@ Subsec. (b)(2). Pub. L. 96–223, §101(f)(1)(B), inserted reference to chapter 
 
 Subsec. (b)(5), (6). Pub. L. 96–223, §101(f)(3), added pars. (5) and (6).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1307(d)(2)(E), (F)(i), 1605(b)(4)(A), (B), substituted “chapters 41, 42, 43, and 44” for “chapters 42 and 43” after “taxes imposed by” and “chapter 41, 42, 43, or 44” for “chapter 42 or 43” after “A or B, or”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1307(d)(2)(E), (F)(i), 1605(b)(4)(A), (B), substituted "chapters 41, 42, 43, and 44" for "chapters 42 and 43" after "taxes imposed by" and "chapter 41, 42, 43, or 44" for "chapter 42 or 43" after "A or B, or".
 
-Subsec. (b)(1). Pub. L. 94–455, §1204(c)(4), struck out “and” after “31” and inserted “, and without regard to any credits resulting from the collection of amounts assessed under section 6851 (relating to termination assessments)” after “section 1451”.
+Subsec. (b)(1). Pub. L. 94–455, §1204(c)(4), struck out "and" after "31" and inserted ", and without regard to any credits resulting from the collection of amounts assessed under section 6851 (relating to termination assessments)" after "section 1451".
 
-Subsec. (b)(2). Pub. L. 94–455, §§1307(d)(2)(F)(i), 1605(b)(4)(C), substituted “chapter 41, 42, 43, or 44” for “chapter 42 or 43” after “A or B or”.
+Subsec. (b)(2). Pub. L. 94–455, §§1307(d)(2)(F)(i), 1605(b)(4)(C), substituted "chapter 41, 42, 43, or 44" for "chapter 42 or 43" after "A or B or".
 
-Subsec. (b)(3). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b)(3). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–406, §1016(a)(9)(A), inserted reference in introductory provisions to taxes imposed by chapter 43.
 
@@ -104,7 +104,7 @@ Subsec. (b)(2). Pub. L. 93–406, §1016(a)(9)(B), inserted reference to taxes i
 
 Subsec. (b)(2). Pub. L. 91–172, §101(j)(39), inserted reference to chapter 42.
 
-<b>1966</b>—Subsec. (b)(1). Pub. L. 89–368 substituted “subtitle A” for “chapter 1”.
+<b>1966</b>—Subsec. (b)(1). Pub. L. 89–368 substituted "subtitle A" for "chapter 1".
 
 <b>1965</b>—Subsec. (b)(4). Pub. L. 89–44 added par. (4).
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XII, §1231(d), Aug. 5, 1997, 111 Stat. 1023, provided that: “The amendments made by this section \[enacting section 6234 of this title and amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1231(d), Aug. 5, 1997, 111 Stat. 1023, provided that: "The amendments made by this section \[enacting section 6234 of this title and amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1988 Amendments
 

@@ -36,19 +36,19 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–294 struck out “not less than” before “$100” in subpar. (A) and before “$400” in subpar. (B).
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–294 struck out "not less than" before "$100" in subpar. (A) and before "$400" in subpar. (B).
 
-Pub. L. 104–132 substituted “not less than $100” for “$50” in subpar. (A) and “not less than $400” for “$200” in subpar. (B).
+Pub. L. 104–132 substituted "not less than $100" for "$50" in subpar. (A) and "not less than $400" for "$200" in subpar. (B).
 
-<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–647 substituted “an infraction” for “a infraction” in cl. (i) and a semicolon for a period at end of cl. (iii).
+<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–647 substituted "an infraction" for "a infraction" in cl. (i) and a semicolon for a period at end of cl. (iii).
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §7085, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “in the case of a misdemeanor—
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §7085, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "in the case of a misdemeanor—
 
-&emsp;“(A) the amount of $25 if the defendant is an individual; and
+&emsp;"(A) the amount of $25 if the defendant is an individual; and
 
-&emsp;“(B) the amount of $100 if the defendant is a person other than an individual; and”.
+&emsp;"(B) the amount of $100 if the defendant is a person other than an individual; and".
 
-Subsec. (c). Pub. L. 100–690, §7082(b), inserted at end “This subsection shall apply to all assessments irrespective of the date of imposition.”
+Subsec. (c). Pub. L. 100–690, §7082(b), inserted at end "This subsection shall apply to all assessments irrespective of the date of imposition."
 
 <b>1987</b>—Subsecs. (c), (d). Pub. L. 100–185 added subsecs. (c) and (d).
 

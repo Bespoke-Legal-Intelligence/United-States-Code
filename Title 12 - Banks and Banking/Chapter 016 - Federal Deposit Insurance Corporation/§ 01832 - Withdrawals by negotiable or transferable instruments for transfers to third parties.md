@@ -6,9 +6,9 @@
 
 (2) Paragraph (1) shall apply only with respect to deposits or accounts which consist solely of funds in which the entire beneficial interest is held by one or more individuals or by an organization which is operated primarily for religious, philanthropic, charitable, educational, political, or other similar purposes and which is not operated for profit, and with respect to deposits of public funds by an officer, employee, or agent of the United States, any State, county, municipality, or political subdivision thereof, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, any territory or possession of the United States, or any political subdivision thereof.
 
-#### (b) “Depository institution” defined
+#### (b) "Depository institution" defined
 
-For purposes of this section, the term “depository institution” means—
+For purposes of this section, the term "depository institution" means—
 
 &emsp;(1) any insured bank as defined in section 1813 of this title;
 
@@ -20,7 +20,7 @@ For purposes of this section, the term “depository institution” means—
 
 &emsp;(5) any insured institution as defined in section 1724 <sup>1</sup> of this title; and
 
-&emsp;(6) any building and loan association or savings and loan association organized and operated according to the laws of the State in which it is chartered or organized; and, for purposes of this paragraph, the term “State” means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands.
+&emsp;(6) any building and loan association or savings and loan association organized and operated according to the laws of the State in which it is chartered or organized; and, for purposes of this paragraph, the term "State" means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands.
 
 #### (c) Fine
 
@@ -38,15 +38,15 @@ Section was not enacted as part of the Federal Deposit Insurance Act which compr
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–86 inserted “political,” after “educational,”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–86 inserted "political," after "educational,".
 
 <b>1982</b>—Subsec. (a)(2). Pub. L. 97–320 inserted provisions relating to deposits of public funds.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–221 designated existing provisions as par. (1) inserted provisions expanding authorization for withdrawals from selected States to the entire United States, and added par. (2).
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–161 inserted “New Jersey,” after “New York,”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–161 inserted "New Jersey," after "New York,".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–630 inserted “New York,” after “Vermont,”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–630 inserted "New York," after "Vermont,".
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–222 authorized withdrawals by negotiable or transferable instruments in the States of Connecticut, Rhode Island, Maine, and Vermont.
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 96–221 effective Dec. 31, 1980, see section 306 of Pub. L
 
 Amendment
 
-Pub. L. 95–630, title XIII, §1302, Nov. 10, 1978, 92 Stat. 3712, provided that: “This title \[amending this section\] shall take effect upon enactment \[Nov. 10, 1978\].”
+Pub. L. 95–630, title XIII, §1302, Nov. 10, 1978, 92 Stat. 3712, provided that: "This title \[amending this section\] shall take effect upon enactment \[Nov. 10, 1978\]."
 
 #### Effective Date
 

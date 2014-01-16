@@ -1,6 +1,6 @@
 ### §1514. Administrative division of apportionments
 
-(a) The official having administrative control of an appropriation available to the legislative branch, the judicial branch, the United States International Trade Commission, or the Districtof Columbia government, and, subject to the approval of the President, the head of each executive agency (except the Commission) shall prescribe by regulation a system of administrative control not inconsistent with accounting procedures prescribed under law. The system shall be designed to—
+(a) The official having administrative control of an appropriation available to the legislative branch, the judicial branch, the United States International Trade Commission, or the District of Columbia government, and, subject to the approval of the President, the head of each executive agency (except the Commission) shall prescribe by regulation a system of administrative control not inconsistent with accounting procedures prescribed under law. The system shall be designed to—
 
 &emsp;(1) restrict obligations or expenditures from each appropriation to the amount of apportionments or reapportionments of the appropriation; and
 
@@ -30,9 +30,9 @@ R.S. §3679(g)(2d sentence); Mar. 3, 1905, ch. 1484, §4(1st par.), 33 Stat. 125
 
 R.S. §3679(g)(last sentence); added Aug. 1, 1956, ch. 814, §3, 70 Stat. 783.
 
-In the section, the words “(except the Commission)” are added because the International Trade Commission is covered specifically by the source provisions restated in this section.
+In the section, the words "(except the Commission)" are added because the International Trade Commission is covered specifically by the source provisions restated in this section.
 
-In subsection (a), the word “official” is substituted for “officer” for consistency in the revised title. The words “judicial branch” are substituted for “judiciary”, and the words “District of Columbia government” are substituted for “District of Columbia”, for consistency. The word “President” is substituted for “Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+In subsection (a), the word "official" is substituted for "officer" for consistency in the revised title. The words "judicial branch" are substituted for "judiciary", and the words "District of Columbia government" are substituted for "District of Columbia", for consistency. The word "President" is substituted for "Director of the Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
-In subsection (b), the words “dividing” and “division” are substituted for “subdivision” for consistency in the revised section. The word “appropriations” is substituted for “appropriations or funds” because of the definition of “appropriation” in section 1511 of the revised title.
+In subsection (b), the words "dividing" and "division" are substituted for "subdivision" for consistency in the revised section. The word "appropriations" is substituted for "appropriations or funds" because of the definition of "appropriation" in section 1511 of the revised title.
 

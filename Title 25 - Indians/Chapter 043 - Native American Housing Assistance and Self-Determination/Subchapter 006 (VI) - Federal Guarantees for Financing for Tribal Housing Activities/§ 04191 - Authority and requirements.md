@@ -16,25 +16,25 @@ No guarantee or commitment to guarantee shall be made with respect to any note o
 
 A guarantee made under this subchapter shall guarantee repayment of 95 percent of the unpaid principal and interest due on the notes or other obligations guaranteed.
 
-(Pub. L. 104–330, title VI, §601, Oct. 26, 1996, 110 Stat. 4046; Pub. L. 107–292, §7, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 108–393, §2, Oct. 30, 2004, 118 Stat. 2246.)
+(Pub. L. 104–330, title VI, §601, Oct. 26, 1996, 110 Stat. 4046; Pub. L. 107–292, §7, Nov. 13, 2002, 116Stat. 2054; Pub. L. 108–393, §2, Oct. 30, 2004, 118 Stat. 2246.)
 
 #### References in Text
 
 The United States Housing Act of 1937, referred to in subsec. (a), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 #### Amendments
 
 <b>2004</b>—Subsec. (d). Pub. L. 108–393 added subsec. (d).
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–292, §7(1), inserted “and housing related community development activity as consistent with the purposes of this chapter” after “section 4132 of this title”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–292, §7(1), inserted "and housing related community development activity as consistent with the purposes of this chapter" after "section 4132 of this title".
 
-Subsecs. (b) to (d). Pub. L. 107–292, §7(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “A guarantee under this subchapter may be used to assist an Indian tribe or housing entity in obtaining financing only if the Indian tribe or housing entity has made efforts to obtain such financing without the use of such guarantee and cannot complete such financing consistent with the timely execution of the program plans without such guarantee.”
+Subsecs. (b) to (d). Pub. L. 107–292, §7(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: "A guarantee under this subchapter may be used to assist an Indian tribe or housing entity in obtaining financing only if the Indian tribe or housing entity has made efforts to obtain such financing without the use of such guarantee and cannot complete such financing consistent with the timely execution of the program plans without such guarantee."
 
 #### Effective Date
 
-Pub. L. 104–330, title VI, §606, Oct. 26, 1996, 110 Stat. 4048, provided that: “This title \[enacting this subchapter\] shall take effect on the date of the enactment of this Act \[Oct. 26, 1996\].”
+Pub. L. 104–330, title VI, §606, Oct. 26, 1996, 110 Stat. 4048, provided that: "This title \[enacting this subchapter\] shall take effect on the date of the enactment of this Act \[Oct. 26, 1996\]."
 
 \[Another section 606 of Pub. L. 104–330 is classified to section 4196 of this title.\]
 

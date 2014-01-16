@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in collaboration with the Director of the Indian Health Service, shall establish a demonstration project that is designed to assist rural water systems in successfully implementing the water fluoridation guidelines of the Centers for Disease Control and Prevention that are entitled “Engineering and Administrative Recommendations for Water Fluoridation, 1995” (referred to in this subsection as the “EARWF”).
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in collaboration with the Director of the Indian Health Service, shall establish a demonstration project that is designed to assist rural water systems in successfully implementing the water fluoridation guidelines of the Centers for Disease Control and Prevention that are entitled "Engineering and Administrative Recommendations for Water Fluoridation, 1995" (referred to in this subsection as the "EARWF").
 
 #### (2) Requirements
 
@@ -98,7 +98,7 @@
 
 #### (e) Definitions
 
-For purposes of this section, the term “Indian tribe” means an Indian tribe or tribal organization as defined in section 450b(b) and section 450b(c) <sup>3</sup> of title 25.
+For purposes of this section, the term "Indian tribe" means an Indian tribe or tribal organization as defined in section 450b(b) and section 450b(c) <sup>3</sup> of title 25.
 
 #### (f) Authorization of appropriations
 
@@ -108,15 +108,15 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-Section 450b of title 25, referred to in subsec. (e), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
+Section 450b of title 25, referred to in subsec. (e), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(1). Pub. L. 111–148, §4102(b), substituted “shall award a grant to each of the 50 States and territories and to Indians, Indian tribes, tribal organizations and urban Indian organizations (as such terms are defined in section 1603 of title 25)” for “may award grants to States and Indian tribes”.
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–148, §4102(b), substituted "shall award a grant to each of the 50 States and territories and to Indians, Indian tribes, tribal organizations and urban Indian organizations (as such terms are defined in section 1603 of title 25)" for "may award grants to States and Indian tribes".
 
 Subsecs. (d) to (f). Pub. L. 111–148, §4102(c), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

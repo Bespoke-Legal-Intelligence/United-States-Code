@@ -14,7 +14,7 @@ In carrying out the requirement under subsection (a), the Director of NIST, in c
 
 &emsp;(3) establish a research plan, and direct research, that addresses the wireless communications needs of public safety entities beyond what can be provided by the current generation of broadband technology;
 
-&emsp;(4) accelerate the development of mission critical voice, including device-to-device “talkaround” capability over broadband networks, public safety prioritization, authentication capabilities, and standard application programing interfaces for the nationwide public safety broadband network, if necessary and practical;
+&emsp;(4) accelerate the development of mission critical voice, including device-to-device "talkaround" capability over broadband networks, public safety prioritization, authentication capabilities, and standard application programing interfaces for the nationwide public safety broadband network, if necessary and practical;
 
 &emsp;(5) accelerate the development of communications technology and equipment that can facilitate the eventual migration of public safety narrowband communications to the nationwide public safety broadband network; and
 

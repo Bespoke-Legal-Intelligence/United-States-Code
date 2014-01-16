@@ -56,7 +56,7 @@ The Federal assistance allotted to the States under subsection (b) of this secti
 
 (1) The Administrator may make grants to States, which have a State plan approved under section 6947 of this title, or which have submitted a State plan for approval under such section, if such plan includes the discretionary provisions described in section 6943(b) of this title. Grants under this subsection shall be for purposes of assisting the State in carrying out such discretionary provisions. No grant under this subsection may be used for construction or for the acquisition of land or equipment.
 
-(2) Grants under this subsection shall be allotted among the States in the same manner as provided in the first sentence of subsection (b) of this section.
+(2) Grants under this subsection shall be allotted among the States in the same manner asprovided in the first sentence of subsection (b) of this section.
 
 (3) No grant may be made under this subsection unless an application therefor is submitted to, and approved by, the Administrator. The application shall be in such form, be submitted in such manner, and contain such information as the Administrator may require.
 
@@ -78,9 +78,9 @@ Section 6943(b) of this title, referred to in subsecs. (a)(1), (3) and (g)(1), w
 
 #### Codification
 
-Section 2(d)–(g) of Pub. L. 98–616, cited as a credit to this section, appears to contain typographical error in that the text of subsec. (f)(1) of section 2007 of the Solid Waste Disposal Act (as added by section 2(i) of Pub. L. 98–616) is also shown as the text of subsec. “(f)(1)” of such section 2. Subsec. (f) of section 2, as set out in the Conference Report (H. Rept. 98–1133) to accompany H.R. 2867 (which became Pub. L. 98–616) read:
+Section 2(d)–(g) of Pub. L. 98–616, cited as a credit to this section, appears to contain typographical error in that the text of subsec. (f)(1) of section 2007 of the Solid Waste Disposal Act (as added by section 2(i) of Pub. L. 98–616) is also shown as the text of subsec. "(f)(1)" of such section 2. Subsec. (f) of section 2, as set out in the Conference Report (H. Rept. 98–1133) to accompany H.R. 2867 (which became Pub. L. 98–616) read:
 
-“(f) Section 4008(e)(2) of the Solid Waste Disposal Act (relating to special communities) is amended by striking out ‘and $1,500,000 for each of the fiscal years 1981 and 1982’ and substituting ‘, $1,500,000 for each of the fiscal years 1981 and 1982, and $500,000 for each of the fiscal years 1985 through 1988’.”
+"(f) Section 4008(e)(2) of the Solid Waste Disposal Act (relating to special communities) is amended by striking out 'and $1,500,000 for each of the fiscal years 1981 and 1982' and substituting ', $1,500,000 for each of the fiscal years 1981 and 1982, and $500,000 for each of the fiscal years 1985 through 1988'."
 
 Another section 5(b) of Pub. L. 96–463 amended section 6943 of this title.
 
@@ -114,9 +114,9 @@ Subsec. (d)(2). Pub. L. 96–463, §6, added par. (2) authorizing the Administra
 
 Pub. L. 96–482, §32(f), added par. (2) authorizing the Administrator to provide technical assistance to States, municipalities, regional authorities, and intermunicipal agencies to assist in the removal or modification of legal, institutional, and economic impediments which have the effect of impeding the development of systems and facilities to recover energy and materials from municipal waste.
 
-Subsec. (e)(1). Pub. L. 96–482, §20(1)–(5), substituted in provision preceding cl. (A) “identify local governments” for “identify communities”, struck out cl. (A), which required the Administrator to identify populations of less than twenty-five thousand persons, redesignated cls. (B) and (C) as (A) and (B), respectively, in cl. (A) as so redesignated, substituted “a solid waste disposal facility (i) which is owned by the unit of local government, (ii) for which an order has been issued by the State to cease receiving solid waste for treatment, storage, or disposal, and (iii) which is subject to a State-approved end-use recreation plan” for “solid waste disposal facilities in which more than 75 per centum of the solid waste of is from areas outside the jurisdiction of the communities” in cl. (B) as so redesignated, substituted “which are located over an aquifer which is the source of drinking water for any person or public water system and which has” for “which have” and inserted “, including possible methane migration” after “such solid waste”.
+Subsec. (e)(1). Pub. L. 96–482, §20(1)–(5), substituted in provision preceding cl. (A) "identify local governments" for "identify communities", struck out cl. (A), which required the Administrator to identify populations of less than twenty-five thousand persons, redesignated cls. (B) and (C) as (A) and (B), respectively, in cl. (A) as so redesignated, substituted "a solid waste disposal facility (i) which is owned by the unit of local government, (ii) for which an order has been issued by the State to cease receiving solid waste for treatment, storage, or disposal, and (iii) which is subject to a State-approved end-use recreation plan" for "solid waste disposal facilities in which more than 75 per centum of the solid waste of is from areas outside the jurisdiction of the communities" in cl. (B) as so redesignated, substituted "which are located over an aquifer which is the source of drinking water for any person orpublic water system and which has" for "which have" and inserted ", including possible methane migration" after "such solid waste".
 
-Subsec. (e)(2). Pub. L. 96–482, §20(6)–(8), substituted appropriations authorization of $2,500,000; $1,500,000; and $1,500,000 for fiscal years 1980, 1981, and 1982, for prior authorization of $2,500,000 for fiscal years 1978 and 1979, substituted provision for grants for “containment and stabilization of solid waste located at the disposal sites referred to in paragraph (1)” for such grants for “the conversion, improvement, or consolidation of existing solid waste disposal facilities, or for the construction of new solid waste disposal facilities, or for both, within communities identified under paragraph (1)”, and prohibited grants to units of local government when site exceeds 65 acres in size.
+Subsec. (e)(2). Pub. L. 96–482, §20(6)–(8), substituted appropriations authorization of $2,500,000; $1,500,000; and $1,500,000 for fiscal years 1980, 1981, and 1982, for prior authorization of $2,500,000 for fiscal years 1978 and 1979, substituted provision for grants for "containment and stabilization of solid waste located at the disposal sites referred to in paragraph (1)" for such grants for "the conversion, improvement, or consolidation of existing solid waste disposal facilities, or for the construction of new solid waste disposal facilities, or for both, within communities identified under paragraph (1)", and prohibited grants to units of local government when site exceeds 65 acres in size.
 
 Subsec. (e)(3). Pub. L. 96–482, §20(9), struck out par. (3) which required that grants to States be made only when the projects are consistent with applicable and approved State plan and will assist in carrying out such plan.
 
@@ -130,7 +130,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “through”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "through".</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

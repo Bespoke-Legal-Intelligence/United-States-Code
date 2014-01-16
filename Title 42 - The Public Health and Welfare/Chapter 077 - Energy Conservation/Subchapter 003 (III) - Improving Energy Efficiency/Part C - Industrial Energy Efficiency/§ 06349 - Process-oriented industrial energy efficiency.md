@@ -4,9 +4,9 @@
 
 For the purposes of this section—
 
-&emsp;(1) the term “covered industry” means the food and food products industry, lumber and wood products industry, petroleum and coal products industry, and all other manufacturing industries specified in Standard Industrial Classification Codes 20 through 39 (or successor classification codes);
+&emsp;(1) the term "covered industry" means the food and food products industry, lumber and wood products industry, petroleum and coal products industry, and all other manufacturing industries specified in Standard Industrial Classification Codes 20 through 39 (or successor classification codes);
 
-&emsp;(2) the term “process-oriented industrial assessment” means—
+&emsp;(2) the term "process-oriented industrial assessment" means—
 
 &emsp;&emsp;(A) the identification of opportunities in the production process (from the introduction of materials to final packaging of the product for shipping) for—
 
@@ -20,7 +20,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(C) the identification of cost-effective opportunities for using renewable energy technology in the production process and in the systems described in subparagraph (B); and
 
-&emsp;(3) the term “utility” means any person, State agency (including any municipality), or Federal agency, which sells electric or gas energy to retail customers.
+&emsp;(3) the term "utility" means any person, State agency (including any municipality), or Federal agency, which sells electric or gas energy to retail customers.
 
 #### (b) Grant program
 
@@ -102,5 +102,5 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 <b>1998</b>—Subsecs. (d), (e). Pub. L. 105–362 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d) which related to reports to Congress.
 
-<b>1995</b>—Subsec. (d). Pub. L. 104–66 substituted “Not later than October 24, 1995, and biennially thereafter” for “Not later than 2 years after October 24, 1992, and annually thereafter” in introductory provisions and added par. (6).
+<b>1995</b>—Subsec. (d). Pub. L. 104–66 substituted "Not later than October 24, 1995, and biennially thereafter" for "Not later than 2 years after October 24, 1992, and annually thereafter" in introductory provisions and added par. (6).
 

@@ -4,7 +4,7 @@ It shall be the policy of the Federal Government, in cooperation with other nati
 
 &emsp;(1) use measures, including financial and technical assistance, to foster conditions under which our modern society and our prehistoric and historic resources can exist in productive harmony and fulfill the social, economic, and other requirements of present and future generations;
 
-&emsp;(2) provide leadership in the preservation of the prehistoric and historic resources of the United States and of the international community of nations and in the administration of the national preservation program in partnership with States, Indian tribes, Native Hawaiians, and local governments;
+&emsp;(2) provide leadership in the preservation of the prehistoric and historic resources of theUnited States and of the international community of nations and in the administration of the national preservation program in partnership with States, Indian tribes, Native Hawaiians, and local governments;
 
 &emsp;(3) administer federally owned, administered, or controlled prehistoric and historic resources in a spirit of stewardship for the inspiration and benefit of present and future generations;
 
@@ -18,7 +18,7 @@ It shall be the policy of the Federal Government, in cooperation with other nati
 
 #### Amendments
 
-<b>1992</b>—Par. (2). Pub. L. 102–575, §4002(1), inserted “and in the administration of the national preservation program in partnership with States, Indian tribes, Native Hawaiians, and local governments” after “community of nations”.
+<b>1992</b>—Par. (2). Pub. L. 102–575, §4002(1), inserted "and in the administration of the national preservation program in partnership with States, Indian tribes, Native Hawaiians, and local governments" after "community of nations".
 
-Par. (6). Pub. L. 102–575, §4002(2), inserted “, Indian tribes and Native Hawaiian organizations” after “local governments”.
+Par. (6). Pub. L. 102–575, §4002(2), inserted ", Indian tribes and Native Hawaiian organizations" after "local governments".
 

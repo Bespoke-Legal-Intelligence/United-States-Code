@@ -14,7 +14,7 @@ The Secretary shall, to the greatest extent possible, provide technical assistan
 
 #### (c) National Mine Health and Safety Academy
 
-(1) The National Mine Health and Safety Academy shall be maintained as an agency of the Department of Labor. The Academy shall be responsible for the training of mine safety and health inspectors under section 954 of this title, and in training of technical support personnel of the Mine Safety and Health Administration established under section 557a of title 29; and for any other training programs for mine inspectors, mining personnel, or other persons as the Secretary of Labor shall designate. In performing this function, the Academy shall have theauthority to enter into cooperative educational and training agreements with educational institutions, State governments, labor organizations, and mine operators and related industries. Such training shall be conducted by the Academy in accordance with curriculum needs and assignment of instructional personnel established by the user.
+(1) The National Mine Health and Safety Academy shall be maintained as an agency of the Department of Labor. The Academy shall be responsible for the training of mine safety and health inspectors under section 954 of this title, and in training of technical support personnel of the Mine Safety and Health Administration established under section 557a of title 29; and for any other training programs for mine inspectors, mining personnel, or other persons as the Secretary of Labor shall designate. In performing this function, the Academy shall have the authority to enter into cooperative educational and training agreements with educational institutions, State governments, labor organizations, and mine operators and related industries. Such training shall be conducted by the Academy in accordance with curriculum needs and assignment of instructional personnel established by the user.
 
 (2) Repealed. Pub. L. 96–38, title I, §100, July 25, 1979, 93 Stat. 111.
 
@@ -24,11 +24,11 @@ The Secretary shall, to the greatest extent possible, provide technical assistan
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 
-<b>1979</b>—Subsec. (c)(1). Pub. L. 96–38 substituted “Department of Labor” for “Department of the Interior” and “Secretary of Labor” for “Secretaries of Labor and the Interior”.
+<b>1979</b>—Subsec. (c)(1). Pub. L. 96–38 substituted "Department of Labor" for "Department of the Interior" and "Secretary of Labor" for "Secretaries of Labor and the Interior".
 
 Subsec. (c)(2). Pub. L. 96–38 struck out par. (2) which directed that the National Mine Health and Safety Academy use the facilities and personnel of the Department of the Interior and that the Secretary of the Interior appoint or assign to the Academy necessary officers and employees.
 

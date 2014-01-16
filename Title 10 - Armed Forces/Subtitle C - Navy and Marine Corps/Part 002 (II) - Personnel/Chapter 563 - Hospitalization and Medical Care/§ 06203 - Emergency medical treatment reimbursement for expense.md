@@ -24,5 +24,5 @@ May 4, 1948, ch. 254, §2, 62 Stat. 208.
 
 May 4, 1948, ch. 254, §3, 62 Stat. 208.
 
-The word “shall” is substituted for the words “authorized and directed to”. The word “members” is substituted for the word “persons”. The words “from civilian sources” are omitted as surplusage. The word “hospitalization” is substituted for the words “hospital service”. In the second sentence, the word “authorized” is omitted as surplusage.
+The word "shall" is substituted for the words "authorized and directed to". The word "members" is substituted for the word "persons". The words "from civilian sources" are omitted as surplusage. The word "hospitalization" is substituted for the words "hospital service". In the second sentence, the word "authorized" is omitted as surplusage.
 

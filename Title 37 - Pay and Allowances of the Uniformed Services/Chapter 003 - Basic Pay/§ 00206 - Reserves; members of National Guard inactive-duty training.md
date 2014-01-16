@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(ii) inactive-duty training;
 
-&emsp;&emsp;(B) while traveling directly to or from that duty or training (unless such injury, illness, disease, or aggravation of an injury, illness, or disease is the result of the gross negligence or misconduct of the member); or
+&emsp;&emsp;(B) while traveling directly to or from that duty or training (unless such injury, illness,disease, or aggravation of an injury, illness, or disease is the result of the gross negligence or misconduct of the member); or
 
 &emsp;&emsp;(C) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training.
 
@@ -74,9 +74,9 @@ Oct. 12, 1949, ch. 681, §501(a) (less 45 words before proviso), (b) (less 1st s
 
 37:301(b) (less 1st sentence).
 
-In subsection (a), the words “National Guard” are substituted for the words “National Guard, Air National Guard”, in section 301(a) of existing title 37, to conform to the definition of “National Guard” in section 101(6) of this revised title. The words “member of a reserve component of a uniformed service” are substituted for the words “National Guard of the United States, Air National Guard of the United States, Organized Reserve Corps, Naval Reserve, Air Force Reserve, Marine Corps Reserve, Coast Guard Reserve, and the Reserve Corps of the Public Health Service,” since all of those organizations, or their successors, are the reserve components of the uniformed services. The words “who is not entitled to basic pay under section 204 of this title” are substituted for section 301(e) as (applicable to basic pay) of existing title 37. The words “of a corresponding grade” are inserted for clarity.
+In subsection (a), the words "National Guard" are substituted for the words "National Guard, Air National Guard", in section 301(a) of existing title 37, to conform to the definition of "National Guard" in section 101(6) of this revised title. The words "member of a reserve component of a uniformed service" are substituted for the words "National Guard of the United States, Air National Guard of the United States, Organized Reserve Corps, Naval Reserve, Air Force Reserve, Marine Corps Reserve, Coast Guard Reserve, and the Reserve Corps of the Public Health Service," since all of those organizations, or their successors, are the reserve components of the uniformed services. The words "who is not entitled to basic pay under section 204 of this title" are substituted for section 301(e) as (applicable to basic pay) of existing title 37. The words "of a corresponding grade" are inserted for clarity.
 
-In subsection (b), the words “National Guard or reserve components” are substituted for the listing of organizations for the reasons set forth above. Reference to “classes of organization,” so far as they relate to the National Guard, are omitted, since there are no classes of organization of the National Guard.
+In subsection (b), the words "National Guard or reserve components" are substituted for the listing of organizations for the reasons set forth above. Reference to "classes of organization," so far as they relate to the National Guard, are omitted, since there are no classes of organization of the National Guard.
 
 #### Prior Provisions
 
@@ -100,23 +100,23 @@ Pub. L. 95–457, title VIII, §826, Oct. 13, 1978, 92 Stat. 1248.
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–181 added subsec. (f).
 
-<b>2006</b>—Subsec. (d)(1). Pub. L. 109–163 inserted “or by a member of the National Guard while not in Federal service” after “reserve component”.
+<b>2006</b>—Subsec. (d)(1). Pub. L. 109–163 inserted "or by a member of the National Guard while not in Federal service" after "reserve component".
 
 Subsec. (d)(3). Pub. L. 109–364 added par. (3).
 
-<b>2001</b>—Subsec. (a)(3)(C). Pub. L. 107–107, §513(e), struck out “, if the site is outside reasonable commuting distance from the member's residence” before period at end.
+<b>2001</b>—Subsec. (a)(3)(C). Pub. L. 107–107, §513(e), struck out ", if the site is outside reasonable commuting distance from the member's residence" before period at end.
 
-Subsec. (d). Pub. L. 107–107, §603(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), this section” for “This section” and “a uniformed service” for “an armed force”, and added par. (2).
+Subsec. (d). Pub. L. 107–107, §603(a), designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), this section" for "This section" and "a uniformed service" for "an armed force", and added par. (2).
 
-<b>1997</b>—Subsec. (a)(3)(C). Pub. L. 105–85 inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in line of duty”.
+<b>1997</b>—Subsec. (a)(3)(C). Pub. L. 105–85 inserted "while remaining overnight immediately before the commencement of inactive-duty training, or" after "in line of duty".
 
 <b>1996</b>—Subsec. (a)(3)(C). Pub. L. 104–106 added subpar. (C).
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)".
 
-<b>1988</b>—Subsec. (a)(3)(A)(i). Pub. L. 100–456 struck out “for a period of 30 days or less” after “active duty”.
+<b>1988</b>—Subsec. (a)(3)(A)(i). Pub. L. 100–456 struck out "for a period of 30 days or less" after "active duty".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–661, substituted “entitled to basic pay—” and pars. (1) to (3) for “entitled to basic pay, for each regular period of instruction, or period of appropriate duty, at which he is engaged for at least two hours, including that performed on a Sunday or holiday, or for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–661, substituted "entitled to basic pay—" and pars. (1) to (3) for "entitled to basic pay, for each regular period of instruction, or period of appropriate duty, at which he is engaged for at least two hours, including that performed on a Sunday or holiday, or for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe."
 
 <b>1984</b>—Subsec. (e). Pub. L. 98–525 added subsec. (e).
 

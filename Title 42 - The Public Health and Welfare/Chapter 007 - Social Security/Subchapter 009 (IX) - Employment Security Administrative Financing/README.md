@@ -2,7 +2,7 @@
 
 #### Amendments
 
-<b>1954</b>—Act Aug. 5, 1954, ch. 657, §2, 68 Stat. 668, in amending subchapter generally substituted subchapter heading “EMPLOYMENT SECURITY ADMINISTRATIVE FINANCING” for “TAX ON EMPLOYMENT OF EIGHT OR MORE”.
+<b>1954</b>—Act Aug. 5, 1954, ch. 657, §2, 68 Stat. 668, in amending subchapter generally substituted subchapter heading "EMPLOYMENT SECURITY ADMINISTRATIVE FINANCING" for "TAX ON EMPLOYMENT OF EIGHT OR MORE".
 
 #### Prior Law; Tax on Employers of Eight or More
 

@@ -18,5 +18,5 @@ Congress finds that—
 
 #### Short Title
 
-Pub. L. 96–469, §1, Oct. 17, 1980, 94 Stat. 2235, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Animal Cancer Research Act’.”
+Pub. L. 96–469, §1, Oct. 17, 1980, 94 Stat. 2235, provided: "That this Act \[enacting this chapter\] may be cited as the 'Animal Cancer Research Act'."
 

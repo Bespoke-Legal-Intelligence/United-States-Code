@@ -30,7 +30,7 @@ Notwithstanding any other provision of this part, variances from national primar
 
 &emsp;&emsp;(III) as appropriate, propose revocations of specific variances or propose revised schedules or other requirements for specific public water systems granted variances, or both.
 
-&emsp;(ii) The Administrator shall provide reasonable notice and public hearing on the provisions of each notice given pursuant to clause (i) of this subparagraph. After a hearing on a notice pursuant to such clause, the Administrator shall (I) rescind the finding for which the notice was given and promptly notify the State of such rescission, or (II) promulgate (with such modifications as he deems appropriate) such variance revocations and revised schedules or other requirements proposed in such notice as he deems appropriate. Not later than 180 days after the date a notice is given pursuant to clause (i) of this subparagraph, the Administrator shall complete the hearing on the notice and take the action required by the preceding sentence.
+&emsp;(ii) The Administrator shall provide reasonable notice and public hearing on the provisions of each notice given pursuant to clause (i) of this subparagraph. After a hearing on a notice pursuant to such clause, the Administrator shall (I) rescind the finding for which the notice was given and promptly notify the State of such rescission, or (II) promulgate (with such modifications as he deems appropriate) such variance revocations and revised schedules or other requirements proposed in such notice as he deems appropriate. Not later than 180 days after the date a notice is given pursuant to clause (i) of this subparagraph,the Administrator shall complete the hearing on the notice and take the action required by the preceding sentence.
 
 &emsp;(iii) If a State is notified under clause (i) of this subparagraph of a finding of the Administrator made with respect to a variance granted a public water system within that State or to a schedule or other requirement for a variance and if, before a revocation of such variance or a revision of such schedule or other requirement promulgated by the Administrator takes effect, the State takes corrective action with respect to such variance or schedule or other requirement which the Administrator determines makes his finding inapplicable to such variance or schedule or other requirement, the Administrator shall rescind the application of his finding to that variance on schedule or other requirement. No variance revocation or revised schedule or other requirement may take effect before the expiration of 90 days following the date of the notice in which the revocation or revised schedule or other requirement was proposed.
 
@@ -46,9 +46,9 @@ Any schedule or other requirement on which a variance granted under paragraph (1
 
 If an application for a variance under subsection (a) of this section is made, the State receiving the application or the Administrator, as the case may be, shall act upon such application within a reasonable period (as determined under regulations prescribed by the Administrator) after the date of its submission.
 
-#### (d) “Treatment technique requirement” defined
+#### (d) "Treatment technique requirement" defined
 
-For purposes of this section, the term “treatment technique requirement” means a requirement in a national primary drinking water regulation which specifies for a contaminant (in accordance with section 300f(1)(C)(ii) of this title) each treatment technique known to the Administrator which leads to a reduction in the level of such contaminant sufficient to satisfy the requirements of section 300g–1(b) of this title.
+For purposes of this section, the term "treatment technique requirement" means a requirement in a national primary drinking water regulation which specifies for a contaminant (in accordance with section 300f(1)(C)(ii) of this title) each treatment technique known to the Administrator which leads to a reduction in the level of such contaminant sufficient to satisfy the requirements of section 300g–1(b) of this title.
 
 #### (e) Small system variances
 
@@ -88,7 +88,7 @@ For purposes of this section, the term “treatment technique requirement” mea
 
 #### (4) Compliance schedules
 
-&emsp;A variance granted under this subsection shall require compliance with the conditions of the variance not later than 3 years after the date on which the variance is granted, except that the Administrator (or the State in the case of a State that has primary enforcement responsibility under section 300g–2 of this title) may allow up to 2 additional years to comply with a variance technology, secure an alternative source of water, restructure or consolidate if the Administrator (or the State) determines that additional time is necessary for capital improvements, or to allow for financial assistance provided pursuant to section 300j–12 of this title or any other Federal or State program.
+&emsp;A variance granted under this subsection shall require compliance with the conditionsof the variance not later than 3 years after the date on which the variance is granted, except that the Administrator (or the State in the case of a State that has primary enforcement responsibility under section 300g–2 of this title) may allow up to 2 additional years to comply with a variance technology, secure an alternative source of water, restructure or consolidate if the Administrator (or the State) determines that additional time is necessary for capital improvements, or to allow for financial assistance provided pursuant to section 300j–12 of this title or any other Federal or State program.
 
 #### (5) Duration of variances
 
@@ -138,7 +138,7 @@ For purposes of this section, the term “treatment technique requirement” mea
 
 #### (A) By the Administrator
 
-&emsp;&emsp;The Administrator may review and object to any variance proposed to be granted by a State, if the objection is communicated to the State not later than 90 days after the State proposes to grant the variance. If the Administrator objects to the granting of a variance, the Administrator shall notify the State in writing of each basis for the objection and propose a modification to the variance to resolve the concerns of the Administrator. The State shall make the recommended modification or respond in writing to each objection. If the State issues the variance without resolving the concerns of the Administrator, the Administrator may overturn the State decision to grant the variance if the Administrator determines that the State decision does not comply with this subsection.
+&emsp;&emsp;The Administrator may review and object to any variance proposed to be granted by a State, if the objection is communicated to the State not later than 90 days after the State proposes to grant the variance. If the Administrator objects to the granting of a variance, the Administrator shall notify the State in writing of each basis for the objection and propose a modification to the variance to resolve the concerns of the Administrator. The State shall make the recommended modification or respond in writing to each objection. If the State issues the variance without resolving the concerns of the Administrator, the Administrator may overturn the State decision to grant thevariance if the Administrator determines that the State decision does not comply with this subsection.
 
 #### (B) Petition by consumers
 
@@ -156,17 +156,17 @@ For purposes of this section, the term “treatment technique requirement” mea
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–182, §501(a)(3), inserted “the” before “time the variance is granted,” in introductory provisions.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–182, §501(a)(3), inserted "the" before "time the variance is granted," in introductory provisions.
 
-Pub. L. 104–182, §115, in second sentence, substituted “be issued to a system on condition that the system install” for “only be issued to a system after the system's application of” and inserted “, and based upon an evaluation satisfactory to the State that indicates that alternative sources of water are not reasonably available to the system” after “(taking costs into consideration)”.
+Pub. L. 104–182, §115, in second sentence, substituted "be issued to a system on condition that the system install" for "only be issued to a system after the system's application of" and inserted ", and based upon an evaluation satisfactory to the State that indicates that alternative sources of water are not reasonably available to the system" after "(taking costs into consideration)".
 
-Subsec. (d). Pub. L. 104–182, §102(c)(1), substituted “section 300g–1(b)” for “section 300g–1(b)(3)”.
+Subsec. (d). Pub. L. 104–182, §102(c)(1), substituted "section 300g–1(b)" for "section 300g–1(b)(3)".
 
 Subsec. (e). Pub. L. 104–182, §116, added subsec. (e).
 
-<b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–339, §104(1)–(3), substituted “such drinking water regulation. A variance may only be issued to a system after the system's application” for “such drinking water regulation despite application”, struck out “generally” after “finds are”, inserted provisions relating to proposal and promulgation by Administrator of a finding on best available technology, treatment techniques or other means available for each contaminant at time of proposal and promulgation of maximum contaminant levels, and substituted “at the time” for “within one year of the date”.
+<b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–339, §104(1)–(3), substituted "such drinking water regulation. A variance may only be issued to a system after the system's application" for "such drinking water regulation despite application", struck out "generally" after "finds are", inserted provisions relating to proposal and promulgation by Administrator of a finding on best available technology, treatment techniques or other means available for each contaminant at time of proposal and promulgation of maximum contaminant levels, and substituted "at the time" for "within one year of the date".
 
-Subsec. (a)(1)(A)(ii). Pub. L. 99–339, §104(4), substituted “water system of such additional control” for “water system of such control”.
+Subsec. (a)(1)(A)(ii). Pub. L. 99–339, §104(4), substituted "water system of such additional control" for "water system of such control".
 
 <i><sup>1</sup></i><i> So in original.</i>
 

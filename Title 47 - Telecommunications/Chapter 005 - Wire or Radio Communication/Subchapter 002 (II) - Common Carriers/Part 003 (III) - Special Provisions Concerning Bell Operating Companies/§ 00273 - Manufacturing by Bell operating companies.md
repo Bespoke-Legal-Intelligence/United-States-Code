@@ -76,7 +76,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;Any entity that is not an accredited standards development organization and that establishes industry-wide standards for telecommunications equipment or customer premises equipment, or industry-wide generic network requirements for such equipment, or that certifies telecommunications equipment or customer premises equipment manufactured by an unaffiliated entity, shall—
 
-&emsp;&emsp;(A) establish and publish any industry-wide standard for, industry-wide generic requirement for, or any substantial modification of an existing industry-wide standard orindustry-wide generic requirement for, telecommunications equipment or customer premises equipment only in compliance with the following procedure—
+&emsp;&emsp;(A) establish and publish any industry-wide standard for, industry-wide generic requirement for, or any substantial modification of an existing industry-wide standard or industry-wide generic requirement for, telecommunications equipment or customer premises equipment only in compliance with the following procedure—
 
 &emsp;&emsp;&emsp;(i) such entity shall issue a public notice of its consideration of a proposed industry-wide standard or industry-wide generic requirement;
 
@@ -116,19 +116,19 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;For purposes of this subsection:
 
-&emsp;&emsp;(A) The term “affiliate” shall have the same meaning as in section 153 of this title, except that, for purposes of paragraph (1)(B)—
+&emsp;&emsp;(A) The term "affiliate" shall have the same meaning as in section 153 of this title, except that, for purposes of paragraph (1)(B)—
 
-&emsp;&emsp;&emsp;(i) an aggregate voting equity interest in Bell Communications Research, Inc., of at least 5 percent of its total voting equity, owned directly or indirectly by more than 1 otherwise unaffiliated Bell operating company, shall constitute an affiliate relationship; and
+&emsp;&emsp;&emsp;(i) an aggregate voting equity interest in Bell Communications Research, Inc., of at least 5 percent of its total voting equity, owned directly or indirectly by more than 1 otherwise unaffiliated Bell operatingcompany, shall constitute an affiliate relationship; and
 
 &emsp;&emsp;&emsp;(ii) a voting equity interest in Bell Communications Research, Inc., by any otherwise unaffiliated Bell operating company of less than 1 percent of Bell Communications Research's total voting equity shall not be considered to be an equity interest under this paragraph.
 
-&emsp;&emsp;(B) The term “generic requirement” means a description of acceptable productattributes for use by local exchange carriers in establishing product specifications for the purchase of telecommunications equipment, customer premises equipment, and software integral thereto.
+&emsp;&emsp;(B) The term "generic requirement" means a description of acceptable product attributes for use by local exchange carriers in establishing product specifications for the purchase of telecommunications equipment, customer premises equipment, and software integral thereto.
 
-&emsp;&emsp;(C) The term “industry-wide” means activities funded by or performed on behalf of local exchange carriers for use in providing wireline telephone exchange service whose combined total of deployed access lines in the United States constitutes at least 30 percent of all access lines deployed by telecommunications carriers in the United States as of February 8, 1996.
+&emsp;&emsp;(C) The term "industry-wide" means activities funded by or performed on behalf of local exchange carriers for use in providing wireline telephone exchange service whose combined total of deployed access lines in the United States constitutes at least 30 percent of all access lines deployed by telecommunications carriers in the United States as of February 8, 1996.
 
-&emsp;&emsp;(D) The term “certification” means any technical process whereby a party determines whether a product, for use by more than one local exchange carrier, conforms with the specified requirements pertaining to such product.
+&emsp;&emsp;(D) The term "certification" means any technical process whereby a party determines whether a product, for use by more than one local exchange carrier, conforms with the specified requirements pertaining to such product.
 
-&emsp;&emsp;(E) The term “accredited standards development organization” means an entity composed of industry members which has been accredited by an institution vested with the responsibility for standards accreditation by the industry.
+&emsp;&emsp;(E) The term "accredited standards development organization" means an entity composed of industry members which has been accredited by an institution vested with the responsibility for standards accreditation by the industry.
 
 #### (e) Bell operating company equipment procurement and sales
 
@@ -164,13 +164,13 @@ For the purposes of administering and enforcing the provisions of this section a
 
 The Commission may prescribe such additional rules and regulations as the Commission determines are necessary to carry out the provisions of this section, and otherwise to prevent discrimination and cross-subsidization in a Bell operating company's dealings with its affiliate and with third parties.
 
-#### (h) “Manufacturing” defined
+#### (h) "Manufacturing" defined
 
-As used in this section, the term “manufacturing” has the same meaning as such term has under the AT\&T Consent Decree.
+As used in this section, the term "manufacturing" has the same meaning as such term has under the AT\&T Consent Decree.
 
 (June 19, 1934, ch. 652, title II, §273, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 110 Stat. 95.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (d)(7), (e)(1), and (f), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsecs. (d)(7), (e)(1), and (f), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 

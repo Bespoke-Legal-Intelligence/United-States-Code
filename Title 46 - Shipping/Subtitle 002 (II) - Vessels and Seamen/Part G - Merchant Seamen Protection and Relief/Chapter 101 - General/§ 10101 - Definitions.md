@@ -2,13 +2,13 @@
 
 In this part—
 
-&emsp;(1) “master” means the individual having command of a vessel.
+&emsp;(1) "master" means the individual having command of a vessel.
 
-&emsp;(2) “owner” means the person to whom the vessel belongs.
+&emsp;(2) "owner" means the person to whom the vessel belongs.
 
-&emsp;(3) “seaman” means an individual (except scientific personnel, a sailing school instructor, or a sailing school student) engaged or employed in any capacity on board a vessel.
+&emsp;(3) "seaman" means an individual (except scientific personnel, a sailing school instructor, or a sailing school student) engaged or employed in any capacity on board a vessel.
 
-&emsp;(4) “fishing vessel” includes—
+&emsp;(4) "fishing vessel" includes—
 
 &emsp;&emsp;(A) a fish tender vessel; or
 
@@ -30,9 +30,9 @@ Section 10101 defines the terms master, seaman, and owner as they apply to merch
 
 #### Amendments
 
-<b>1996</b>—Par. (4)(B). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
+<b>1996</b>—Par. (4)(B). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "1,600 gross tons".
 
-<b>1986</b>—Pars. (1), (3). Pub. L. 99–640 struck out “owned by a citizen of the United States” after “vessel”.
+<b>1986</b>—Pars. (1), (3). Pub. L. 99–640 struck out "owned by a citizen of the United States" after "vessel".
 
 <b>1984</b>—Par. (4). Pub. L. 98–364, as amended Pub. L. 98–557, added par. (4).
 

@@ -50,13 +50,13 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Amendments
 
-<b>2013</b>—Subsec. (d)(1). Pub. L. 112–240, §701(g)(4)(A), substituted “Mandatory funding through fiscal year 2012” for “In general” in heading.
+<b>2013</b>—Subsec. (d)(1). Pub. L. 112–240, §701(g)(4)(A), substituted "Mandatory funding through fiscal year 2012" for "In general" in heading.
 
-Subsec. (d)(2). Pub. L. 112–240, §701(g)(4)(B), substituted “Discretionary funding for fiscal years 2008 through 2012” for “Additional funding” in heading.
+Subsec. (d)(2). Pub. L. 112–240, §701(g)(4)(B), substituted "Discretionary funding for fiscal years 2008 through 2012" for "Additional funding" in heading.
 
 Subsec. (d)(3). Pub. L. 112–240, §701(g)(4)(C), added par. (3)
 
-<b>2008</b>—Pub. L. 110–246, §10302, amended section generally. Prior to amendment, text read as follows: “The Secretary shall ensure that segregated data on the production and marketing of organic agricultural products is included in the ongoing baseline of data collection regarding agricultural production and marketing.”
+<b>2008</b>—Pub. L. 110–246, §10302, amended section generally. Prior to amendment, text read as follows: "The Secretary shall ensure that segregated data on the production and marketing of organic agricultural products is included in the ongoing baseline of data collection regarding agricultural production and marketing."
 
 #### Effective Date of 2013 Amendment
 

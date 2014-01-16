@@ -6,19 +6,19 @@
 
 &emsp;(ii) such trails meet the criteria established in this chapter and such supplementary criteria as he may prescribe.
 
-(b) As provided in this section, trails within park, forest, and other recreation areas administered by the Secretary of the Interior or the Secretary of Agriculture or in other federally administered areas may be established and designated as “National Recreation Trails” by the appropriate Secretary and, when no Federal land acquisition is involved—
+(b) As provided in this section, trails within park, forest, and other recreation areas administered by the Secretary of the Interior or the Secretary of Agriculture or in other federally administered areas may be established and designated as "National Recreation Trails" by the appropriate Secretary and, when no Federal land acquisition is involved—
 
-&emsp;(i) trails in or reasonably accessible to urban areas may be designated as “National Recreation Trails” by the appropriate Secretary with the consent of the States, their political subdivisions, or other appropriate administering agencies;
+&emsp;(i) trails in or reasonably accessible to urban areas may be designated as "National Recreation Trails" by the appropriate Secretary with the consent of the States, their political subdivisions, or other appropriate administering agencies;
 
-&emsp;(ii) trails within park, forest, and other recreation areas owned or administered by States may be designated as “National Recreation Trails” by the appropriate Secretary with the consent of the State; and
+&emsp;(ii) trails within park, forest, and other recreation areas owned or administered by States may be designated as "National Recreation Trails" by the appropriate Secretary with the consent of the State; and
 
-&emsp;(iii) trails on privately owned lands may be designated “National Recreation Trails” by the appropriate Secretary with the written consent of the owner of the property involved.
+&emsp;(iii) trails on privately owned lands may be designated "National Recreation Trails" by the appropriate Secretary with the written consent of the owner of the property involved.
 
 (Pub. L. 90–543, §4, Oct. 2, 1968, 82 Stat. 919; Pub. L. 98–11, title II, §204, Mar. 28, 1983, 97 Stat. 43.)
 
 #### Amendments
 
-<b>1983</b>—Subsec. (b)(i), (ii). Pub. L. 98–11, §204(1), substituted “appropriate Secretary” for “Secretary of the Interior”.
+<b>1983</b>—Subsec. (b)(i), (ii). Pub. L. 98–11, §204(1), substituted "appropriate Secretary" for "Secretary of the Interior".
 
 Subsec. (b)(iii). Pub. L. 98–11, §204(2)–(4), added cl. (iii).
 

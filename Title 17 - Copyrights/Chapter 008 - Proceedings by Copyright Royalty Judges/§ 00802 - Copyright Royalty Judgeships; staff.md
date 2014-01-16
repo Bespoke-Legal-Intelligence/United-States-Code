@@ -10,7 +10,7 @@ In general.—Each Copyright Royalty Judge shall be an attorney who has at least
 
 &emsp;(2)
 
-Definition.—In this subsection, the term “adjudication” has the meaning given that term in section 551 of title 5, but does not include mediation.
+Definition.—In this subsection, the term "adjudication" has the meaning given that term in section 551 of title 5, but does not include mediation.
 
 (b)
 
@@ -72,7 +72,7 @@ In general.—(i) Subject to subparagraph (B) and clause (ii) of this subparagra
 
 Novel questions.—(i) In any case in which a novel material question of substantive law concerning an interpretation of those provisions of this title that are the subject of the proceeding is presented, the Copyright Royalty Judges shall request a decision of the Register of Copyrights, in writing, to resolve such novel question. Reasonable provision shall be made for comment on such request by the participants in the proceeding, in such a way as to minimize duplication and delay. The Register of Copyrights shall transmit his or her decision to the Copyright Royalty Judges within 30 days after the Register of Copyrights receives all of the briefs or comments of the participants. Such decision shall be in writing and included by the Copyright Royalty Judges in the record that accompanies their final determination. If such a decision is timely delivered to the Copyright Royalty Judges, the Copyright Royalty Judges shall apply the legal determinations embodied in the decision of the Register of Copyrights in resolving material questions of substantive law.
 
-&emsp;&emsp;(ii) In clause (i), a “novel question of law” is a question of law that has not been determined in prior decisions, determinations, and rulings described in section 803(a).
+&emsp;&emsp;(ii) In clause (i), a "novel question of law" is a question of law that has not been determined in prior decisions, determinations, and rulings described in section 803(a).
 
 &emsp;&emsp;(C)
 
@@ -122,11 +122,11 @@ A prior section 802, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2
 
 #### Amendments
 
-<b>2006</b>—Subsec. (f)(1)(A)(i). Pub. L. 109–303, §3(3)(A), substituted “subparagraph (B) and clause (ii) of this subparagraph” for “clause (ii) of this subparagraph and subparagraph (B)”.
+<b>2006</b>—Subsec. (f)(1)(A)(i). Pub. L. 109–303, §3(3)(A), substituted "subparagraph (B) and clause (ii) of this subparagraph" for "clause (ii) of this subparagraph and subparagraph (B)".
 
 Subsec. (f)(1)(A)(ii). Pub. L. 109–303, §3(3)(B), added cl. (ii) and struck out former cl. (ii) which related to request for interpretation by the Register of Copyrights of material question of substantive law concerning construction of provisions of this title that are the subject of the proceeding.
 
-Subsec. (f)(1)(D). Pub. L. 109–303, §3(4), inserted a comma after “undertakes to consult with”.
+Subsec. (f)(1)(D). Pub. L. 109–303, §3(4), inserted a comma after "undertakes to consult with".
 
 #### Effective Date of 2006 Amendment
 

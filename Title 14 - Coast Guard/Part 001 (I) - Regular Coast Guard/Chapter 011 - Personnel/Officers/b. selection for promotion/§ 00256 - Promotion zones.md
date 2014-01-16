@@ -16,11 +16,11 @@
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–661 substituted “rear admiral (lower half)” for “commodore”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661 substituted "rear admiral (lower half)" for "commodore".
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore".
 
-<b>1983</b>—Subsecs. (a), (b). Pub. L. 97–417 substituted “commodore” for “rear admiral”.
+<b>1983</b>—Subsecs. (a), (b). Pub. L. 97–417 substituted "commodore" for "rear admiral".
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–444 limited promotion zone by requiring that list of officers under consideration be officers eligible for consideration for promotion to next higher grade.
 

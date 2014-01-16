@@ -6,5 +6,5 @@ The consent of the United States is given for the taxation, under the authority 
 
 #### Change of Name
 
-“Hot Springs National Park” substituted in text for “Hot Springs Reservation” pursuant to act Mar. 4, 1921.
+"Hot Springs National Park" substituted in text for "Hot Springs Reservation" pursuant to act Mar. 4, 1921.
 

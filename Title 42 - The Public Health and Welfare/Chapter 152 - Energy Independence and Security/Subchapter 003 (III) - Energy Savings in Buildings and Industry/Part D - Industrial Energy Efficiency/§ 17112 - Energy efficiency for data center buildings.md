@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Data center
 
-&emsp;The term “data center” means any facility that primarily contains electronic equipment used to process, store, and transmit digital information, which may be—
+&emsp;The term "data center" means any facility that primarily contains electronic equipment used to process, store, and transmit digital information, which may be—
 
 &emsp;&emsp;(A) a free-standing structure; or
 
@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Data center operator
 
-&emsp;The term “data center operator” means any person or government entity that builds or operates a data center or purchases data center services, equipment, and facilities.
+&emsp;The term "data center operator" means any person or government entity that builds or operates a data center or purchases data center services, equipment, and facilities.
 
 #### (b) Voluntary national information program
 
@@ -98,7 +98,7 @@ The Secretary and the Administrator shall—
 
 #### (f) Alternative system
 
-If the Secretary and the Administrator make a determination under subsection (e) that a voluntary national information program for data centers consistent with the objectives of subsection (b) has not been developed, the Secretary and the Administrator shall, after consultation with the National Institute of Standards and Technology and not later than 2 years after the determination, develop and implement the program under subsection (b).
+If the Secretary and the Administrator make a determination under subsection (e) that a voluntary national information program for datacenters consistent with the objectives of subsection (b) has not been developed, the Secretary and the Administrator shall, after consultation with the National Institute of Standards and Technology and not later than 2 years after the determination, develop and implement the program under subsection (b).
 
 #### (g) Protection of proprietary information
 

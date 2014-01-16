@@ -14,21 +14,21 @@ The Council may make an indemnity agreement under this chapter with respect to�
 
 > which are (A) of educational, cultural, historical, or scientific value, and (B) in the case of international exhibitions, certified by the Secretary of State or his designee as being in the national interest.
 
-#### (b) Extension of coverage; “on exhibition” defined
+#### (b) Extension of coverage; "on exhibition" defined
 
 (1) An indemnity agreement made under this chapter shall cover eligible items while on exhibition in the United States or elsewhere preferably when part of an exchange of exhibitions.
 
-(2) For purposes of this subsection, the term “on exhibition” includes that period of time beginning on the date the eligible items leave the premises of the lender or place designated by the lender and ending on the date such items are returned to the premises of the lender or place designated by the lender.
+(2) For purposes of this subsection, the term "on exhibition" includes that period of time beginning on the date the eligible items leave the premises of the lender or place designated by the lender and ending on the date such items are returned to the premises of the lender or place designated by the lender.
 
 (Pub. L. 94–158, §3, Dec. 20, 1975, 89 Stat. 844; Pub. L. 99–194, title III, §302(a), Dec. 20, 1985, 99 Stat. 1345; Pub. L. 110–161, div. F, title IV, §426(1), Dec. 26, 2007, 121 Stat. 2151.)
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted “(B) in the case of international exhibitions,” for “(B) the exhibition of which is” in concluding provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted "(B) in the case of international exhibitions," for "(B) the exhibition of which is" in concluding provisions.
 
-<b>1985</b>—Subsec. (b)(1). Pub. L. 99–194, which directed the substitution of “or elsewhere preferably when part of an exchange of exhibitions” for “, or elsewhere when part of an exchange of exhibitions, but in no case shall both parts of such an exhibition be so covered” was executed by making the substitution for “, or elsewhere when part of an exchange of exhibitions, but in no case shall both parts of such an exchange be so covered”, to reflect the probable intent of Congress.
+<b>1985</b>—Subsec. (b)(1). Pub. L. 99–194, which directed the substitution of "or elsewhere preferably when part of an exchange of exhibitions" for ", or elsewhere when part of an exchange of exhibitions, but in no case shall both parts of such an exhibition be so covered" was executed by making the substitution for ", or elsewhere when part of an exchange of exhibitions, but in no case shall both parts of such an exchange be so covered", to reflect the probable intent of Congress.
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–194, title III, §302(b), Dec. 20, 1985, 99 Stat. 1345, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any exhibition which is certified under section 3(a) of the Arts and Artifacts Indemnity Act \[subsec. (a) of this section\] after the date of enactment of this Act \[Dec. 20, 1985\].”
+Pub. L. 99–194, title III, §302(b), Dec. 20, 1985, 99 Stat. 1345, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any exhibition which is certified under section 3(a) of the Arts and Artifacts Indemnity Act \[subsec. (a) of this section\] after the date of enactment of this Act \[Dec. 20, 1985\]."
 

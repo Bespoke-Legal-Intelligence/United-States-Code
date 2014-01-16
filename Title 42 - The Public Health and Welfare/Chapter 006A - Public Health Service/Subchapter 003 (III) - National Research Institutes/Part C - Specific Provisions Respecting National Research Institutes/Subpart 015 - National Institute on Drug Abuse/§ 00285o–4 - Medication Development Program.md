@@ -44,9 +44,9 @@ In carrying out the activities described in subsection (a) of this section, the 
 
 &emsp;The Director of National Drug Control Policy shall incorporate, by reference or otherwise, each report submitted under this subsection in the National Drug Control Strategy submitted the following February 1 under section 1504 <sup>1</sup> of title 21.
 
-#### (d) “Pharmacotherapeutics” defined
+#### (d) "Pharmacotherapeutics" defined
 
-For purposes of this section, the term “pharmacotherapeutics” means medications used to treat the symptoms and disease of drug abuse, including medications to—
+For purposes of this section, the term "pharmacotherapeutics" means medications used to treat the symptoms and disease of drug abuse, including medications to—
 
 &emsp;(1) block the effects of abused drugs;
 
@@ -66,9 +66,9 @@ Sections 1501 and 1504 of title 21, referred to in subsec. (c), were repealed by
 
 #### Amendments
 
-<b>2007</b>—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $85,000,000 for fiscal year 1993, and $95,000,000 for fiscal year 1994.”
+<b>2007</b>—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated $85,000,000 for fiscal year 1993, and $95,000,000 for fiscal year 1994."
 
-<b>1993</b>—Subsec. (b)(6). Pub. L. 103–43 substituted “Institute” for “Administration”.
+<b>1993</b>—Subsec. (b)(6). Pub. L. 103–43 substituted "Institute" for "Administration".
 
 #### Effective Date of 2007 Amendment
 
@@ -80,7 +80,7 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 
 #### Report by Institute on Medicine
 
-Section 701 of Pub. L. 102–321 directed Secretary of Health and Human Services to enter into a contract with a public or nonprofit private entity to conduct a study concerning (1) role of the private sector in development of anti-addiction medications, including legislative proposals designed to encourage private sector development of such medications, (2) process by which anti-addiction medications receive marketing approval from Food and Drug Administration, including an assessment of feasibility of expediting marketing approval process in a manner consistent with maintaining safety and effectiveness of such medications, (3) with respect to pharmacotherapeutic treatments for drug addiction (A) recommendations with respect to a national strategy for developing such treatments and improvements in such strategy, (B) state of the scientific knowledge concerning such treatments, and (C) assessment of progress toward development of safe, effective pharmacological treatments for drug addiction, and (4) other related information determined appropriate by the authors of the study, and to submit to Congress a report of the results of such study not later than 18 months after July 10, 1992.
+Pub. L. 102–321, title VII, §701, July 10, 1992, 106 Stat. 436, directed Secretary of Health and Human Services to enter into a contract with a public or nonprofit private entity to conduct a study concerning (1) role of the private sector in development of anti-addiction medications, including legislative proposals designed to encourage private sector development of such medications, (2) process by which anti-addiction medications receive marketing approval from Food and Drug Administration, including an assessment of feasibility of expediting marketing approval process in a manner consistent with maintaining safety and effectiveness of such medications, (3) with respect to pharmacotherapeutic treatments for drug addiction (A) recommendations with respect to a national strategy for developing such treatments and improvements in such strategy, (B) state of the scientific knowledge concerning such treatments, and (C) assessment of progress toward development of safe, effective pharmacological treatments for drug addiction, and (4) other related information determined appropriate by the authors of the study, and to submit to Congress a report of the results of such study not later than 18 months after July 10, 1992.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

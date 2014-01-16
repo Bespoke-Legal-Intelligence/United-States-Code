@@ -1,12 +1,12 @@
 ### §2572. Patents; availability to general public; protection of background rights
 
-All research within the United States contracted for, sponsored, cosponsored, or authorized under authority of this chapter, shall be provided for in such manner that all information as to uses, products, processes, patents, andother developments resulting from such research developed by Government expenditure will (with such exceptions and limitations, if any, as the Secretary of State may find to be necessary in the public interest) be available to the general public. This section shall not be so construed as to deprive the owner of any background patent relating thereto of such rights as he may have thereunder.
+All research within the United States contracted for, sponsored, cosponsored, or authorized under authority of this chapter, shall be provided for in such manner that all information as to uses, products, processes, patents, and other developments resulting from such research developed by Government expenditure will (with such exceptions and limitations, if any, as the Secretary of State may find to be necessary in the public interest) be available to the general public. This section shall not be so construed as to deprive the owner of any background patent relating thereto of such rights as he may have thereunder.
 
 (Pub. L. 87–297, title III, §302, formerly §32, Sept. 26, 1961, 75 Stat. 634; renumbered §302 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(7), (21), Oct. 21, 1998, 112 Stat. 2681–769, 2681–772.)
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, §1223(7), substituted “Secretary of State” for “Director” and “section” for “subsection”.
+<b>1998</b>—Pub. L. 105–277, §1223(7), substituted "Secretary of State" for "Director" and "section" for "subsection".
 
 #### Effective Date of 1998 Amendment
 

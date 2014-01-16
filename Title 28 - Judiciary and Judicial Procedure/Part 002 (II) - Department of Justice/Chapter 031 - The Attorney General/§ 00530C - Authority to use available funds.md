@@ -28,7 +28,7 @@ General permitted uses.—Funds available to the Attorney General (i.e., all fun
 
 &emsp;&emsp;(C) Services of experts and consultants, including private counsel, as authorized by section 3109 of title 5, and at rates of pay for individuals not to exceed the maximum daily rate payable from time to time under section 5332 of title 5.
 
-&emsp;&emsp;(D) Official reception and representation expenses (i.e., official expenses of a social nature intended in whole or in predominant part to promote goodwill toward the Department or its missions, but excluding expenses of public tours of facilities of the Department of Justice), in accordance with distributions and procedures established, and rules issued, by the Attorney General, and expenses of public tours of facilities of the Department of Justice.
+&emsp;&emsp;(D) Official reception and representation expenses (i.e., official expenses of a social nature intended in whole or in predominant part to promote goodwill toward the Department or its missions, but excluding expensesof public tours of facilities of the Department of Justice), in accordance with distributions and procedures established, and rules issued, by the Attorney General, and expenses of public tours of facilities of the Department of Justice.
 
 &emsp;&emsp;(E) Unforeseen emergencies of a confidential character, to be expended under the direction of the Attorney General and accounted for solely on the certificate of the Attorney General.
 
@@ -74,9 +74,9 @@ General permitted uses.—Funds available to the Attorney General (i.e., all fun
 
 &emsp;&emsp;(i) <sup>1</sup> For purposes of this subparagraph—
 
-&emsp;&emsp;&emsp;(I) the term “mass killings” means 3 or more killings in a single incident; and
+&emsp;&emsp;&emsp;(I) the term "mass killings" means 3 or more killings in a single incident; and
 
-&emsp;&emsp;&emsp;(II) the term “place of public use” has the meaning given that term under section 2332f(e)(6) of title 18, United States Code.
+&emsp;&emsp;&emsp;(II) the term "place of public use" has the meaning given that term under section 2332f(e)(6) of title 18, United States Code.
 
 &emsp;(2)
 
@@ -96,7 +96,7 @@ Purchase of ammunition and firearms; firearms competitions.—Funds available to
 
 &emsp;&emsp;(C)
 
-Construction.—Funds available to the Attorney General for construction may be used for expenses of planning, designing, acquiring, building, constructing, activating, renovating, converting, expanding, extending, remodeling, equipping, repairing, or maintaining buildings or facilities, including the expenses of acquisition of sites therefor, and all necessary expenses incident or related thereto; but the foregoing shall not be construed to mean that funds generally available for salaries and expenses are not also available for certain incidental or minor construction, activation, remodeling, maintenance, and other related construction costs.
+Construction.—Funds available to the Attorney General for construction may beused for expenses of planning, designing, acquiring, building, constructing, activating, renovating, converting, expanding, extending, remodeling, equipping, repairing, or maintaining buildings or facilities, including the expenses of acquisition of sites therefor, and all necessary expenses incident or related thereto; but the foregoing shall not be construed to mean that funds generally available for salaries and expenses are not also available for certain incidental or minor construction, activation, remodeling, maintenance, and other related construction costs.
 
 &emsp;(3)
 
@@ -114,7 +114,7 @@ Federal bureau of investigation.—Funds available to the Attorney General for t
 
 &emsp;(5)
 
-Immigration and naturalization service.—Funds available to the Attorney Generalfor the Immigration and Naturalization Service may be used for—
+Immigration and naturalization service.—Funds available to the Attorney General for the Immigration and Naturalization Service may be used for—
 
 &emsp;&emsp;(A) acquisition of land as sites for enforcement fences, and construction incident to such fences;
 
@@ -160,11 +160,11 @@ Foreign Reimbursements.—Whenever the Department of Justice or any component pa
 
 (e)
 
-Railroad Police Training Fees.—The Attorney General is authorized to establish and collect a fee to defray the costs of railroad police officers participating in a Federal Bureau of Investigation law enforcement training program authorized by Public Law 106–110, and to credit such fees to the appropriation account “Federal Bureau of Investigation, Salaries and Expenses”, to be available until expended for salaries and expenses incurred in providing such services.
+Railroad Police Training Fees.—The Attorney General is authorized to establish and collect a fee to defray the costs of railroad police officers participating in a Federal Bureau of Investigation law enforcement training program authorized by Public Law 106–110, and to credit such fees to the appropriation account "Federal Bureau of Investigation, Salaries and Expenses", to be available until expended for salaries and expenses incurred in providing such services.
 
 (f)
 
-Warranty Work.—In instances where the Attorney General determines that law enforcement-, security-, or mission-related considerations mitigate against obtaining maintenance or repair services from private sector entities for equipment under warranty, the Attorney General is authorized to seek reimbursement from such entities for warranty work performed at Department of Justice facilities, and to credit any payment made for such work to any appropriation charged therefor.
+Warranty Work.—In instances where the Attorney General determines that law enforcement-, security-, or mission-related considerations mitigate against obtaining maintenanceor repair services from private sector entities for equipment under warranty, the Attorney General is authorized to seek reimbursement from such entities for warranty work performed at Department of Justice facilities, and to credit any payment made for such work to any appropriation charged therefor.
 
 (Added Pub. L. 107–273, div. A, title II, §201(a), Nov. 2, 2002, 116 Stat. 1767; amended Pub. L. 108–199, div. B, title I, Jan. 23, 2004, 118 Stat. 53; Pub. L. 112–265, §2(a), Jan. 14, 2013, 126 Stat. 2435.)
 
@@ -176,29 +176,29 @@ Section 815(d) of Public Law 104–132, referred to in subsec. (a)(5), is sectio
 
 Public Law 106–110, referred to in subsec. (e), is Pub. L. 106–110, Nov. 24, 1999, 113 Stat. 1497, which amended section 3771 of Title 42, The Public Health and Welfare.
 
-#### Abolition of Immigration and Naturalization Service and Transfer of Functions
-
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
-
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(1)(L)(i). Pub. L. 112–265, §2(a)(1), substituted “$3,000,000” for “$2,000,000” in introductory provisions.
+<b>2013</b>—Subsec. (b)(1)(L)(i). Pub. L. 112–265, §2(a)(1), substituted "$3,000,000" for "$2,000,000" in introductory provisions.
 
 Subsec. (b)(1)(M). Pub. L. 112–265, §2(a)(2), added subpar. (M).
 
-<b>2004</b>—Subsec. (b)(2)(A), (B). Pub. L. 108–199 inserted “for the Bureau of Alcohol, Tobacco, Firearms and Explosives,” after “Marshals Service,”.
+<b>2004</b>—Subsec. (b)(2)(A), (B). Pub. L. 108–199 inserted "for the Bureau of Alcohol, Tobacco, Firearms and Explosives," after "Marshals Service,".
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Use of Federal Training Facilities
 
 Pub. L. 109–162, title XI, §1173, Jan. 5, 2006, 119 Stat. 3124, as amended by Pub. L. 109–271, §8(d), Aug. 12, 2006, 120 Stat. 766, provided that:
 
-“(a)
+"(a)
 
 Federal Training Facilities.—Unless authorized in writing by the Attorney General, or the Assistant Attorney General for Administration, if so delegated by the Attorney General, the Department of Justice (and each entity within it) shall use for any predominantly internal training or conference meeting only a facility that does not require a payment to a private entity for use of the facility or for meals, lodging, or other expenses related to such internal training or conference meeting.
 
-“(b)
+"(b)
 
-Annual Report.—The Attorney General shall prepare an annual report to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting authorized under subsection (a). The report shall include an explanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization.”
+Annual Report.—The Attorney General shall prepare an annual report to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting authorized under subsection (a). The report shall include an explanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(ii)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(ii)".</i>
 

@@ -6,7 +6,7 @@
 
 (c)
 
-Indian Country.—In this section, the term “Indian country” has the meaning given that term in section 1151 of title 18.
+Indian Country.—In this section, the term "Indian country" has the meaning given that term in section 1151 of title 18.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 111–211, title II, §213(a)(1), July 29, 2010, 124 Stat. 2268.)
 
@@ -40,7 +40,7 @@ July 28, 1916, ch. 261, §1 (6th par. on p. 413), 39 Stat. 413.
 
 The text of former section 298 of title 5 is omitted as unnecessary. The position so authorized has not been filled in recent years, and the authority is preserved by this section and revised section 3101 of title 5, United States Code.
 
-In subsection (b), the word “is” is substituted for “shall be”.
+In subsection (b), the word "is" is substituted for "shall be".
 
 #### 1948 Act
 
@@ -56,7 +56,7 @@ A prior section 543, act June 25, 1948, ch. 646, 62 Stat. 911, related to oath o
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–211, §213(a)(1)(A), inserted “, including the appointment of qualified tribal prosecutors and other qualified attorneys to assist in prosecuting Federal offenses committed in Indian country” before period at end.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211, §213(a)(1)(A), inserted ", including the appointment of qualified tribal prosecutors and other qualified attorneys to assist in prosecuting Federal offenses committed in Indian country" before period at end.
 
 Subsec. (c). Pub. L. 111–211, §213(a)(1)(B), added subsec. (c).
 

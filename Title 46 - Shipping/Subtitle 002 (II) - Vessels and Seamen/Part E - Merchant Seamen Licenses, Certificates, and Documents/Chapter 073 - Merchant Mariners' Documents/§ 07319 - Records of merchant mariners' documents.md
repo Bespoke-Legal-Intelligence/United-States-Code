@@ -1,0 +1,22 @@
+### §7319. Records of merchant mariners' documents
+
+The Secretary shall maintain records on each merchant mariner's document issued, includingthe name and address of the seaman to whom issued and the next of kin of the seaman.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 545; Pub. L. 108–293, title IV, §403, Aug. 9, 2004, 118 Stat. 1043.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+7319
+
+46:643(f)
+
+Section 7319 requires the Secretary to maintain records on each merchant mariner's document issued and the seaman's next of kin. However, these records are not open for general or public inspection.
+
+#### Amendments
+
+<b>2004</b>—Pub. L. 108–293 struck out at end "The records are not open to general or public inspection."
+

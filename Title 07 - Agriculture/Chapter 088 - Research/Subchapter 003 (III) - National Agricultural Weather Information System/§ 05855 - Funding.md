@@ -34,13 +34,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §7511(c)(20)(A), substituted “National Institute of Food and Agriculture” for “Cooperative State Research Service”.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §7511(c)(20)(A), substituted "National Institute of Food and Agriculture" for "Cooperative State Research Service".
 
-Subsec. (a)(4). Pub. L. 110–246, §7511(c)(20)(B), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+Subsec. (a)(4). Pub. L. 110–246, §7511(c)(20)(B), substituted "National Institute of Food and Agriculture" for "Extension Service".
 
-Subsec. (c). Pub. L. 110–246, §7202, substituted “2008 through 2012” for “1991 through 1997”.
+Subsec. (c). Pub. L. 110–246, §7202, substituted "2008 through 2012" for "1991 through 1997".
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–127 substituted “1997” for “1995”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–127 substituted "1997" for "1995".
 
 #### Effective Date of 2008 Amendment
 

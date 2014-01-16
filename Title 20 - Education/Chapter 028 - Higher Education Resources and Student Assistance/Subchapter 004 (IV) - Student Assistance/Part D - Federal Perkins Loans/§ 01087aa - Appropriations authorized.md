@@ -2,7 +2,7 @@
 
 #### (a) Program authority
 
-The Secretary shall carry out a program of stimulating and assisting in the establishment and maintenance of funds at institutions of higher education for the making of low-interest loans to students in need thereof to pursue their courses of study in such institutions or while engaged in programs of study abroad approved for credit by such institutions. Loans made under this part shall be known as “Federal Perkins Loans”.
+The Secretary shall carry out a program of stimulating and assisting in the establishment and maintenance of funds at institutions of higher education for the making of low-interest loans to students in need thereof to pursue their courses of study in such institutions or while engaged in programs of study abroad approved for credit by such institutions. Loans made under this part shall be known as "Federal Perkins Loans".
 
 #### (b) Authorization of appropriations
 
@@ -18,27 +18,27 @@ Any sums appropriated pursuant to subsection (b) of this section for any fiscal 
 
 #### Prior Provisions
 
-A prior section 1087aa, Pub. L. 89–329, title IV, §461, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 273; amended Pub. L. 94–482, title I, §130(a), (b), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–49, §5(d)(1), (2), Aug. 13, 1979, 93 Stat. 352; Pub. L. 96–374, title IV, §441, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1436, 1503, authorized a program to establish and maintain funds at institutions of higher education for making low-interest loans to students, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087aa, Pub. L. 89–329, title IV, §461, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86Stat. 273; amended Pub. L. 94–482, title I, §130(a), (b), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–49, §5(d)(1), (2), Aug. 13, 1979, 93 Stat. 352; Pub. L. 96–374, title IV, §441, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1436, 1503, authorized a program to establish and maintain funds at institutions of higher education for making low-interest loans to students, prior to the general revision of this part by Pub. L. 99–498.
 
 Another prior section 461 of Pub. L. 89–329 amended former section 403 of this title.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §461(1), substituted “$300,000,000 for fiscal year 2009 and for each of the five succeeding fiscal years” for “$250,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §461(1), substituted "$300,000,000 for fiscal year 2009 and for each of the five succeeding fiscal years" for "$250,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years".
 
-Subsec. (b)(2). Pub. L. 110–315, §461(2), substituted “2015” for “2003” in two places.
+Subsec. (b)(2). Pub. L. 110–315, §461(2), substituted "2015" for "2003" in two places.
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244, §461(1), substituted “1999” for “1993”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244, §461(1), substituted "1999" for "1993".
 
-Subsec. (b)(2). Pub. L. 105–244, §461(2), substituted “2003” for “1997” in two places.
+Subsec. (b)(2). Pub. L. 105–244, §461(2), substituted "2003" for "1997" in two places.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–325, §461(a)(2), (b), inserted “or while engaged in programs of study abroad approved for credit by such institutions” after “in such institutions” and substituted “Federal Perkins Loans” for “Perkins Loans”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–325, §461(a)(2), (b), inserted "or while engaged in programs of study abroad approved for credit by such institutions" after "in such institutions" and substituted "Federal Perkins Loans" for "Perkins Loans".
 
 Subsec. (b). Pub. L. 102–325, §461(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) For the purpose of enabling the Secretary to make contributions to student loan funds established under this part, there are authorized to be appropriated $268,000,000 for fiscal year 1987 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+"(1) For the purpose of enabling the Secretary to make contributions to student loan funds established under this part, there are authorized to be appropriated $268,000,000 for fiscal year 1987 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
-“(2) In addition there are hereby authorized to be appropriated such sums for fiscal year 1991 and each of the five succeeding fiscal years as may be necessary to enable students who have received loans for academic years ending prior to October 1, 1991, to continue or complete courses of study.”
+"(2) In addition there are hereby authorized to be appropriated such sums for fiscal year 1991 and each of the five succeeding fiscal years as may be necessary to enable students who have received loans for academic years ending prior to October 1, 1991, to continue or complete courses of study."
 
 #### Effective Date of 1998 Amendment
 

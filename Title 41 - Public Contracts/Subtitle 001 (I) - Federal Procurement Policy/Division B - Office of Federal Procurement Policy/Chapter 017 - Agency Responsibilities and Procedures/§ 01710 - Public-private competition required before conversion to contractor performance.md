@@ -70,7 +70,7 @@ Employees not represented by a labor organization.—In the case of employees ot
 
 &emsp;(3)
 
-Regulations.—The head of each executive agency shall prescribe regulations to carry out this subsection. The regulations shall include provisions for the selection or designation of appropriate representatives of employees referred to in paragraph (2)(B) for purposes of consultation required by paragraph (1).
+Regulations.—The head of each executive agency shall prescribe regulations to carry out this subsection. The regulations shall include provisions for the selection ordesignation of appropriate representatives of employees referred to in paragraph (2)(B) for purposes of consultation required by paragraph (1).
 
 (c)
 
@@ -152,5 +152,5 @@ Historical and Revision Notes
 
 Pub. L. 93–400, §43, as added Pub. L. 110–181, title III, §327(a), Jan. 28, 2008, 122 Stat. 63.
 
-In the heading for subsection (d) and in subsection (d)(2), the words “disabled people” are substituted for “handicapped persons” for consistency with chapter 85 of the revised title.
+In the heading for subsection (d) and in subsection (d)(2), the words "disabled people" are substituted for "handicapped persons" for consistency with chapter 85 of the revised title.
 

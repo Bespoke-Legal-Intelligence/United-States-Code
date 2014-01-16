@@ -10,11 +10,14 @@
 | [2416\.](%C2%A7%2002416%20-%20Subcontractor%20information.md) | Subcontractor information. |
 | [2417\.](%C2%A7%2002417%20-%20Administrative%20costs.md) | Administrative costs. |
 | [2418\.](%C2%A7%2002418%20-%20Authority%20to%20provide%20certain%20types%20of%20technical%20assistance.md) | Authority to provide certain types of technical assistance. |
-| [2419\.](%C2%A7%2002419%20-%20Regulations.md) | Regulations. |
+| [2419\.](%C2%A7%2002419%20-%20Advancing%20small%20business%20growth.md) | Advancing small business growth. |
+| [2420\.](%C2%A7%2002420%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 113–66, div. A, title XVI, §1611(a)(2), Dec. 26, 2013, 127 Stat. 947, added item 2419 and redesignated former item 2419 as 2420.
 
 <b>1993</b>—Pub. L. 103–35, title II, §201(d)(2), May 31, 1993, 107 Stat. 99, made technical amendment to items 2418 and 2419.
 
@@ -37,4 +40,5 @@
 - [&sect; 02416 - Subcontractor information](%C2%A7%2002416%20-%20Subcontractor%20information.md)
 - [&sect; 02417 - Administrative costs](%C2%A7%2002417%20-%20Administrative%20costs.md)
 - [&sect; 02418 - Authority to provide certain types of technical assistance](%C2%A7%2002418%20-%20Authority%20to%20provide%20certain%20types%20of%20technical%20assistance.md)
-- [&sect; 02419 - Regulations](%C2%A7%2002419%20-%20Regulations.md)
+- [&sect; 02419 - Advancing small business growth](%C2%A7%2002419%20-%20Advancing%20small%20business%20growth.md)
+- [&sect; 02420 - Regulations](%C2%A7%2002420%20-%20Regulations.md)

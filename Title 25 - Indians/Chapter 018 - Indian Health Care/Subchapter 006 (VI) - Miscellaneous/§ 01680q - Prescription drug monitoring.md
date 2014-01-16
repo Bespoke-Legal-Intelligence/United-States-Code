@@ -32,7 +32,7 @@
 
 #### (2) Report
 
-&emsp;Not later than 18 months after March 23, 2010, the Attorney General shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of theHouse of Representatives a report that describes—
+&emsp;Not later than 18 months after March 23, 2010, the Attorney General shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes—
 
 &emsp;&emsp;(A) the capacity of Federal and tribal agencies to carry out data collection and analysis and information exchanges as described in paragraph (1)(A);
 

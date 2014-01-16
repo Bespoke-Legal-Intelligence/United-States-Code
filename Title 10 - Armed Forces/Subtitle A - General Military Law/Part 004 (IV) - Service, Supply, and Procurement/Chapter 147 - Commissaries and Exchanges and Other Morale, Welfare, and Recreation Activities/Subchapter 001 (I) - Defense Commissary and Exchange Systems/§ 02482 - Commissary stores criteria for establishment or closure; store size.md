@@ -22,7 +22,7 @@ Closure Considerations.—(1) Whenever assessing whether to close a commissary s
 
 Congressional Notification.—(1) The closure of a commissary store in the United States shall not take effect until the end of the 90-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the reasons supporting the closure. The written notice shall include an assessment of the impact closure will have on the quality of life for military patrons and the welfare and security of the military community in which the commissary is located.
 
-(2) Paragraph (1) shall not apply in the case of the closure of a commissary store as part of the closure of a military installation under a base closure law.
+(2) Paragraph (1) shall not apply in the case of the closure of a commissary store as part of theclosure of a military installation under a base closure law.
 
 (Added Pub. L. 108–375, div. A, title VI, §651(a)(3), Oct. 28, 2004, 118 Stat. 1965; amended Pub. L. 112–81, div. A, title X, §1064(6), Dec. 31, 2011, 125 Stat. 1587.)
 
@@ -34,7 +34,7 @@ A prior section 2482a was renumbered section 2492 of this title.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(1). Pub. L. 112–81 inserted “in the United States” after “commissary store”.
+<b>2011</b>—Subsec. (d)(1). Pub. L. 112–81 inserted "in the United States" after "commissary store".
 
 #### Prohibition on Consolidation or Other Organizational Changes of Department of Defense Retail Systems
 

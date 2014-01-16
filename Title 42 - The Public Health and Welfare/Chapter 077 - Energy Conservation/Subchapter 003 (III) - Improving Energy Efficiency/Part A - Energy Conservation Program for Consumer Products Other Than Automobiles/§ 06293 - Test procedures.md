@@ -22,7 +22,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 &emsp;(C) The Secretary shall direct the National Institute of Standards and Technology to assist in developing new or amended test procedures.
 
-(2) If the Secretary determines, on his own behalf or in response to a petition by any interested person, that a test procedure should be prescribed or amended, the Secretary shall promptly publish in the Federal Register proposed test procedures and afford interested persons an opportunity to present oral and written data, views, and arguments with respect to such procedures. The comment period shall not be less than 60 days and may be extended for good cause shown to not more than 270 days. In prescribing or amending a test procedure, the Secretary shall take into account such information as the Secretary determines relevant to such procedure, including technological developments relating to energy use or energy efficiency of the type (or class) of covered products involved.
+(2) If the Secretary determines, on his own behalf or in response to a petition by any interested person, that a test procedure should be prescribed or amended, the Secretary shall promptly publish in the Federal Register proposed test procedures and afford interested persons an opportunity to present oral and written data, views, and arguments with respect to suchprocedures. The comment period shall not be less than 60 days and may be extended for good cause shown to not more than 270 days. In prescribing or amending a test procedure, the Secretary shall take into account such information as the Secretary determines relevant to such procedure, including technological developments relating to energy use or energy efficiency of the type (or class) of covered products involved.
 
 (3) Any test procedures prescribed or amended under this section shall be reasonably designed to produce test results which measure energy efficiency, energy use, water use (in the case of showerheads, faucets, water closets and urinals), or estimated annual operating cost of a covered product during a representative average use cycle or period of use, as determined by the Secretary, and shall not be unduly burdensome to conduct.
 
@@ -38,11 +38,11 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (8)(A) Test procedures for water closets and urinals to which standards are applicable under subsection (k) of section 6295 of this title shall be the test procedures specified in ASME A112.19.6–1990 for such products.
 
-(B) If the test procedure requirements of ASME A112.19.6–1990 are revised at any time andapproved by ANSI, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such revised ASME/ANSI requirements unless the Secretary determines, by rule, that to do so would not meet the requirements of paragraph (3).
+(B) If the test procedure requirements of ASME A112.19.6–1990 are revised at any time and approved by ANSI, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such revised ASME/ANSI requirements unless the Secretary determines, by rule, that to do so would not meet the requirements of paragraph (3).
 
 (9) Test procedures for illuminated exit signs shall be based on the test method used under version 2.0 of the Energy Star program of the Environmental Protection Agency for illuminated exit signs.
 
-(10)(A) Test procedures for distribution transformers and low voltage dry-type distribution transformers shall be based on the “Standard Test Method for Measuring the Energy Consumption of Distribution Transformers” prescribed by the National Electrical Manufacturers Association (NEMA TP 2–1998).
+(10)(A) Test procedures for distribution transformers and low voltage dry-type distribution transformers shall be based on the "Standard Test Method for Measuring the Energy Consumption of Distribution Transformers" prescribed by the National Electrical Manufacturers Association (NEMA TP 2–1998).
 
 (B) The Secretary may review and revise the test procedures established under subparagraph (A).
 
@@ -62,11 +62,11 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (13) Test procedures for dehumidifiers shall be based on the test criteria used under the Energy Star Program Requirements for Dehumidifiers developed by the Environmental Protection Agency, as in effect on August 8, 2005, unless revised by the Secretary pursuant to this section.
 
-(14) The test procedure for measuring flow rate for commercial prerinse spray valves shall be based on American Society for Testing and Materials Standard F2324, entitled “Standard Test Method for Pre-Rinse Spray Valves”.
+(14) The test procedure for measuring flow rate for commercial prerinse spray valves shall be based on American Society for Testing and Materials Standard F2324, entitled "Standard Test Method for Pre-Rinse Spray Valves".
 
-(15) The test procedure for refrigerated bottled or canned beverage vending machines shall be based on American National Standards Institute/American Society of Heating, Refrigerating and Air-Conditioning Engineers Standard 32.1–2004, entitled “Methods of Testing for Rating Vending Machines for Bottled, Canned or Other Sealed Beverages”.
+(15) The test procedure for refrigerated bottled or canned beverage vending machines shall be based on American National Standards Institute/American Society of Heating, Refrigeratingand Air-Conditioning Engineers Standard 32.1–2004, entitled "Methods of Testing for Rating Vending Machines for Bottled, Canned or Other Sealed Beverages".
 
-(16)(A)(i) Test procedures for ceiling fans shall be based on the “Energy Star Testing Facility Guidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1” published by the Environmental Protection Agency.
+(16)(A)(i) Test procedures for ceiling fans shall be based on the "Energy Star Testing Facility Guidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1" published by the Environmental Protection Agency.
 
 (ii) Test procedures for ceiling fan light kits shall be based on the test procedures referenced in the Energy Star specifications for Residential Light Fixtures and Compact Fluorescent Light Bulbs, as in effect on August 8, 2005.
 
@@ -74,11 +74,11 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (17)
 
-Class a external power supplies.—Test procedures for class A external power supplies shall be based on the “Test Method for Calculating the Energy Efficiency of Single-Voltage External AC–DC and AC–AC Power Supplies” published by the Environmental Protection Agency on August 11, 2004, except that the test voltage specified in section 4(d) of that test method shall be only 115 volts, 60 Hz.
+Class a external power supplies.—Test procedures for class A external power supplies shall be based on the "Test Method for Calculating the Energy Efficiency of Single-Voltage External AC–DC and AC–AC Power Supplies" published by the Environmental Protection Agency on August 11, 2004, except that the test voltage specified in section 4(d) of that test method shall be only 115 volts, 60 Hz.
 
 (18)
 
-Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts shall be based on ANSI Standard C82.6–2005, entitled “Ballasts for High Intensity Discharge Lamps—Method of Measurement”.
+Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts shall be based on ANSI Standard C82.6–2005, entitled "Ballasts for High Intensity Discharge Lamps—Method of Measurement".
 
 #### (c) Restriction on certain representations
 
@@ -98,7 +98,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 > with respect to energy use or efficiency or, in the case of showerheads, faucets, water closets, and urinals, water use of such product or cost of energy consumed by such product, unless such product has been tested in accordance with such amended or new test procedures and such representation fairly discloses the results of such testing.
 
-(3) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referredto in paragraph (2) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if the Secretary determines that the requirements of paragraph (2) would impose an undue hardship on such petitioner.
+(3) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (2) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if the Secretary determines that the requirements of paragraph (2) would impose an undue hardship on such petitioner.
 
 #### (d) Case in which test procedure is not required
 
@@ -126,7 +126,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §302(a), which directed amendment of subsec. (b)(1) by striking “(1)” and all that followed through the “end of the paragraph” and inserting a new par. (1) designation and heading and subpar. (A), was executed by substituting the new par. (1) designation and heading and subpar. (A) for “(1)(A) The Secretary may amend test procedures with respect to any covered product if the Secretary determines that amended test procedures would more accurately or fully comply with the requirements of paragraph (3).” to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §302(a), which directed amendment of subsec. (b)(1) by striking "(1)" and all that followed through the "end of the paragraph" and inserting a new par. (1) designation and heading and subpar. (A), was executed by substituting the new par. (1) designation and heading and subpar. (A) for "(1)(A) The Secretary may amend test procedures with respect to any covered product if the Secretary determines that amended test procedures would more accurately or fully comply with the requirements of paragraph (3)." to reflect the probable intent of Congress.
 
 Subsec. (b)(17). Pub. L. 110–140, §301(b), added par. (17).
 
@@ -136,41 +136,41 @@ Subsec. (b)(18). Pub. L. 110–140, §324(c), added par. (18).
 
 Subsec. (f). Pub. L. 109–58, §135(b)(2), added subsec. (f).
 
-<b>1992</b>—Subsec. (b)(3). Pub. L. 102–486, §123(d)(1)(A), inserted “water use (in the case of showerheads, faucets, water closets and urinals),” after “energy use,”.
+<b>1992</b>—Subsec. (b)(3). Pub. L. 102–486, §123(d)(1)(A), inserted "water use (in the case of showerheads, faucets, water closets and urinals)," after "energy use,".
 
-Subsec. (b)(4). Pub. L. 102–486, §123(d)(1)(B), in first sentence inserted “or, in the case of showerheads, faucets, water closets, or urinals, water use” after “energy use” and “, or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of such products during such cycle” after “such cycle”, and in second sentence inserted “, water, and wastewater treatment” before period at end.
+Subsec. (b)(4). Pub. L. 102–486, §123(d)(1)(B), in first sentence inserted "or, in the case of showerheads, faucets, water closets, or urinals, water use" after "energy use" and ", or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of such products during such cycle" after "such cycle", and in second sentence inserted ", water, and wastewater treatment" before period at end.
 
 Subsec. (b)(6) to (8). Pub. L. 102–486, §123(d)(1)(C), added pars. (6) to (8).
 
-Subsec. (c)(1). Pub. L. 102–486, §123(d)(2), in closing provisions inserted “or, in the case of showerheads, faucets, water closets, and urinals, water use” after “efficiency”.
+Subsec. (c)(1). Pub. L. 102–486, §123(d)(2), in closing provisions inserted "or, in the case of showerheads, faucets, water closets, and urinals, water use" after "efficiency".
 
-Subsec. (c)(2). Pub. L. 102–486, §123(d)(3), in introductory provisions substituted “prescribed or established” for “prescribed”.
+Subsec. (c)(2). Pub. L. 102–486, §123(d)(3), in introductory provisions substituted "prescribed or established" for "prescribed".
 
-Pub. L. 102–486, §123(d)(2), in closing provisions inserted “or, in the case of showerheads, faucets, water closets, and urinals, water use” after “efficiency”.
+Pub. L. 102–486, §123(d)(2), in closing provisions inserted "or, in the case of showerheads, faucets, water closets, and urinals, water use" after "efficiency".
 
-Subsec. (e)(1) to (3). Pub. L. 102–486, §123(d)(4), substituted “, measured energy use, or measured water use” for “or measured energy use” in par. (1) and “energy efficiency, energy use, or water use” for “energy efficiency or energy use” in two places in par. (2) and once in par. (3).
+Subsec. (e)(1) to (3). Pub. L. 102–486, §123(d)(4), substituted ", measured energy use, or measured water use" for "or measured energy use" in par. (1) and "energy efficiency, energy use, or water use" for "energy efficiency or energy use" in two places in par. (2) and once in par. (3).
 
-<b>1988</b>—Subsec. (b)(1)(C). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (b)(1)(C). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".
 
 Subsec. (b)(5). Pub. L. 100–357 added par. (5).
 
 <b>1987</b>—Pub. L. 100–12 amended section generally, revising and restating as subsecs. (a) to (e) provisions formerly contained in subsecs. (a) to (c).
 
-<b>1978</b>—Subsec. (a)(1), (2). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsec. (a)(1), (2). Pub. L. 95–619, §691(b)(2), substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
 
-Subsec. (a)(3). Pub. L. 95–619, §§425(a), 691(b)(2), struck out “Except as provided in paragraph (6),” before “The Secretary”, struck out provision requiring proposedtest procedures to be published not later than June 30, 1976, with certain excepted cases not required to be published before Sept. 30, 1976 and June 30, 1977, and substituted “Secretary” for “Administrator”.
+Subsec. (a)(3). Pub. L. 95–619, §§425(a), 691(b)(2), struck out "Except as provided in paragraph (6)," before "The Secretary", struck out provision requiring proposed test procedures to be published not later than June 30, 1976, with certain excepted cases not required to be published before Sept. 30, 1976 and June 30, 1977, and substituted "Secretary" for "Administrator".
 
-Subsec. (a)(4). Pub. L. 95–619, §§421(a), 691(b)(2), redesignated provisions formerly classified to subpar. (A), as par. (4) and in par. (4), as so redesignated, struck out “Except as provided in paragraph (6),” before “The Secretary shall”, substituted “Secretary” for “Administrator” in two places, inserted provision requiring the prescription of test procedures not later than Jan. 31, 1978, and struck out subpar. (B) requiring the prescription of test procedures not later than Sept. 30, 1976, with certain excepted cases required to be prescribed not later than Dec. 31, 1976 and Sept. 30 1977.
+Subsec. (a)(4). Pub. L. 95–619, §§421(a), 691(b)(2), redesignated provisions formerly classified to subpar. (A), as par. (4) and in par. (4), as so redesignated, struck out "Except as provided in paragraph (6)," before "The Secretary shall", substituted "Secretary" for "Administrator" in two places, inserted provision requiring the prescription of test procedures not later than Jan. 31, 1978, and struck out subpar. (B) requiring the prescription of test procedures not later than Sept. 30, 1976, with certain excepted cases required to be prescribed not later than Dec. 31, 1976 and Sept. 30 1977.
 
-Subsec. (a)(5). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (a)(5). Pub. L. 95–619, §691(b)(2), substituted "Secretary" for "Administrator" wherever appearing.
 
-Subsec. (a)(6). Pub. L. 95–619, §421(b), redesignated existing provisions as subpar. (A) and, in subpar. (A) as so redesignated, substituted “Secretary” for “Administrator”, struck out provisions relating to the authority to delay publication of proposed test procedures, inserted requirement that a determination of a necessary prescription delay be submitted in a report to Congress, inserted specific ninety day time limitation for delayed prescriptions, and added subpar. (B).
+Subsec. (a)(6). Pub. L. 95–619, §421(b), redesignated existing provisions as subpar. (A) and, in subpar. (A) as so redesignated, substituted "Secretary" for "Administrator", struck out provisions relating to the authority to delay publication of proposed test procedures, inserted requirement that a determination of a necessary prescription delay be submitted in a report to Congress, inserted specific ninety day time limitation for delayed prescriptions, and added subpar. (B).
 
 Subsec. (a)(7). Pub. L. 95–619, §421(c), added par. (7).
 
-Subsec. (b). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (b). Pub. L. 95–619, §691(b)(2), substituted "Secretary" for "Administrator" wherever appearing.
 
-Subsec. (c). Pub. L. 95–619, §421(d), redesignated existing provisions as par. (1), substituted “180 days” for “90 days” and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+Subsec. (c). Pub. L. 95–619, §421(d), redesignated existing provisions as par. (1), substituted "180 days" for "90 days" and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 #### Effective Date of 2007 Amendment
 

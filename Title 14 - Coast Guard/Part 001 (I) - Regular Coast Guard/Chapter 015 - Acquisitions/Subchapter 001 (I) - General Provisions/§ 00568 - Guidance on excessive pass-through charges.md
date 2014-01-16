@@ -12,7 +12,7 @@ In General.—Not later than 180 days after the date of enactment of the Coast G
 
 (b)
 
-Excessive Pass-Through Charge Defined.—In this section the term “excessive pass-through charge”, with respect to a contractor or subcontractor that adds no, or negligible, value to a contract or subcontract, means a charge to the Government by the contractor or subcontractor that is for overhead or profit on work performed by a lower tier contractor or subcontractor, other than reasonable charges for the direct costs of managing lower tier contractors and subcontracts and overhead and profit based on such direct costs.
+Excessive Pass-Through Charge Defined.—In this section the term "excessive pass-through charge", with respect to a contractor or subcontractor that adds no, or negligible, value to a contract or subcontract, means a charge to the Government by the contractor or subcontractor that is for overhead or profit on work performed by a lower tier contractor or subcontractor, other than reasonable charges for the direct costs of managing lower tier contractors and subcontracts and overhead and profit based on such direct costs.
 
 (c)
 

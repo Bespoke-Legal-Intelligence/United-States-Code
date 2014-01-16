@@ -22,7 +22,7 @@ The Administrator may—
 
 #### (d) Gifts
 
-Notwithstanding any other provision of law, the Administrator may accept gifts of supplies,equipment, and facilities and may use or distribute such gifts for emergency preparedness purposes in accordance with the provisions of this subchapter.
+Notwithstanding any other provision of law, the Administrator may accept gifts of supplies, equipment, and facilities and may use or distribute such gifts for emergency preparedness purposes in accordance with the provisions of this subchapter.
 
 #### (e) Reimbursement
 
@@ -42,17 +42,17 @@ The Administrator may prescribe such rules and regulations as may be necessary a
 
 (2) Until so satisfied, the Administrator shall either withhold the payment of any financial contribution to such State or person or limit payments to those programs or projects with respect to which there is substantial compliance with the regulations, terms, and conditions governing plans, programs, or projects hereunder.
 
-(3) As used in this subsection, the term “person” means the political subdivision of any State or combination or group thereof or any person, corporation, association, or other entity of any nature whatsoever, including instrumentalities of States and political subdivisions.
+(3) As used in this subsection, the term "person" means the political subdivision of any State or combination or group thereof or any person, corporation, association, or other entity of any nature whatsoever, including instrumentalities of States and political subdivisions.
 
 (Pub. L. 93–288, title VI, §621, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3107; amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 2253 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
+Provisions similar to those in this section were contained in section 2253 of Title 50, Appendix, War andNational Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–351 substituted “Administrator” for “Director” wherever appearing.
+<b>2011</b>—Pub. L. 111–351 substituted "Administrator" for "Director" wherever appearing.
 
 #### Transfer of Functions
 

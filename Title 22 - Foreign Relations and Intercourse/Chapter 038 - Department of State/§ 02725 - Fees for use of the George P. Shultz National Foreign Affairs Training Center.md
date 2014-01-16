@@ -6,7 +6,7 @@ The Secretary is authorized to charge a fee for use of the George P. Shultz Nati
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–132 inserted “George P. Shultz” before “National Foreign Affairs Training Center” in section catchline and in text.
+<b>2002</b>—Pub. L. 107–132 inserted "George P. Shultz" before "National Foreign Affairs Training Center" in section catchline and in text.
 
 #### Reporting on Pilot Program
 

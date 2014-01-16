@@ -16,9 +16,9 @@ Shall be fined under this title or imprisoned not more than 10 years, or both.
 
 Based on section 1598 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, §598, 46 Stat. 752; June 25, 1938, ch. 679, §26, 52 Stat. 1089).
 
-Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
+Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary in view of definition of "principal" in section 2 of this title.
 
-In view of definition of felony in section 1 of this title words “guilty of a felony” were omitted. (See reviser's note under section 550 of this title.)
+In view of definition of felony in section 1 of this title words "guilty of a felony" were omitted. (See reviser's note under section 550 of this title.)
 
 The punishment prescribed by section 545 of this title was inserted to make this section complete without reference to another section. In doing so it was necessary to rephrase the punishment provision of section 545 of this title, as originally enacted, without change of substance.
 
@@ -28,7 +28,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–177 substituted “10 years” for “two years” in last par.
+<b>2006</b>—Pub. L. 109–177 substituted "10 years" for "two years" in last par.
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000" in last par.
 

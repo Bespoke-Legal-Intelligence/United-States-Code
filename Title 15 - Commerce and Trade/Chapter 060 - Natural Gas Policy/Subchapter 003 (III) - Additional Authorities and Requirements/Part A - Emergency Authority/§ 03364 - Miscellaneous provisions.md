@@ -82,5 +82,5 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(C)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(C)".</i>
 

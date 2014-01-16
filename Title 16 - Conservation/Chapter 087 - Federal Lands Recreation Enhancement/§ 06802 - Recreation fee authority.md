@@ -42,7 +42,7 @@ The Secretary shall establish the minimum number of recreation fees and shall av
 
 &emsp;&emsp;(F) For use of overlooks or scenic pullouts.
 
-&emsp;&emsp;(G) For travel by private, noncommercial vehicle over any national parkway or anyroad or highway established as a part of the Federal-aid System, as defined in section 101 of title 23,<sup>1</sup> which is commonly used by the public as a means of travel between two places either or both of which are outside any unit or area at which recreation fees are charged under this chapter.
+&emsp;&emsp;(G) For travel by private, noncommercial vehicle over any national parkway or any road or highway established as a part of the Federal-aid System, as defined in section 101 of title 23,<sup>1</sup> which is commonly used by the public as a means of travel between two places either or both of which are outside any unit or area at which recreation fees are charged under this chapter.
 
 &emsp;&emsp;(H) For travel by private, noncommercial vehicle, boat, or aircraft over any road or highway, waterway, or airway to any land in which such person has any property right if such land is within any unit or area at which recreation fees are charged under this chapter.
 
@@ -76,7 +76,7 @@ The Secretary shall establish the minimum number of recreation fees and shall av
 
 &emsp;&emsp;(H) A unit of the National Wildlife Refuge System created, expanded, or modified by the Alaska National Interest Lands Conservation Act (Public Law 96–487).
 
-&emsp;&emsp;(I) Any person who visits a unit or area under the jurisdiction of the United States Fish and Wildlife Service and who has been issued a valid migratory bird hunting and conservation stamp issued under section 718b of this title.
+&emsp;&emsp;(I) Any person who visits a unit or area under the jurisdiction of the United States Fish and Wildlife Service and who has been issued a valid migratory bird hunting andconservation stamp issued under section 718b of this title.
 
 &emsp;&emsp;(J) Any person engaged in a nonrecreational activity authorized under a valid permit issued under any other Act, including a valid grazing permit.
 
@@ -196,11 +196,11 @@ The Secretary may issue a special recreation permit, and charge a special recrea
 
 #### References in Text
 
-Section 6803 of this title, referred to in subsec. (b)(5), was in the original a reference to section 4, and was translated as meaning section 804 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
+Section 6803 of this title, referred to in subsec. (b)(5), was in the original a reference to section 4, and wastranslated as meaning section 804 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
-This chapter, referred to in subsec. (d)(1), (4), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
+This chapter, referred to in subsec. (d)(1), (4), was in the original "this Act", and was translated as reading "this title", meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
-Section 101 of title 23, referred to in subsec. (d)(1)(G), was subsequently amended, and section 101 no longer defines “Federal-aid System”.
+Section 101 of title 23, referred to in subsec. (d)(1)(G), was subsequently amended, and section 101 no longer defines "Federal-aid System".
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(3)(H), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 

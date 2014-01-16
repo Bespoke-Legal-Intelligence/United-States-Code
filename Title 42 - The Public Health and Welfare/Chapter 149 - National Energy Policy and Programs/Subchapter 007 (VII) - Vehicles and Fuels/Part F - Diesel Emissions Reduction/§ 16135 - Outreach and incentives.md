@@ -2,7 +2,7 @@
 
 #### (a) Definition of eligible technology
 
-In this section, the term “eligible technology” means—
+In this section, the term "eligible technology" means—
 
 &emsp;(1) a verified technology; or
 

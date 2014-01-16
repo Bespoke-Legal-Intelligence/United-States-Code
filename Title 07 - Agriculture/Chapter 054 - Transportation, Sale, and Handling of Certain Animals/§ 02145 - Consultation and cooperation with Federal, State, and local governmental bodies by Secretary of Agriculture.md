@@ -1,6 +1,6 @@
 ### §2145. Consultation and cooperation with Federal, State, and local governmental bodies by Secretary of Agriculture
 
-(a) The Secretary shall consult and cooperate with other Federal departments, agencies, or instrumentalities concerned with the welfare of animals used for research, experimentation or exhibition, or administration of statutes regulating the transportation in commerce or handling in connection therewith of any animals when establishing standards pursuant to section 2143 of this title and in carrying out the purposes of this chapter. The Secretary shall consult with the Secretary of Health and Human Services prior to issuance of regulations. Before promulgating any standard governing the air transportation and handling in connection therewith, of animals, the Secretary shall consult with the Secretary of Transportation who shall have the authority to disapprove any such standard if he notifies the Secretary, within 30 days after such consultation, that changes in its provisions are necessary in the interest of flight safety. The Surface Transportation Board, the Secretary of Transportation, and the Federal Maritime Commission, to the extent of their respective lawful authorities, shall take such action as is appropriate to implement any standard established by the Secretary with respect to a person subject to regulation by it.
+(a) The Secretary shall consult and cooperate with other Federal departments, agencies, or instrumentalities concerned with the welfare ofanimals used for research, experimentation or exhibition, or administration of statutes regulating the transportation in commerce or handling in connection therewith of any animals when establishing standards pursuant to section 2143 of this title and in carrying out the purposes of this chapter. The Secretary shall consult with the Secretary of Health and Human Services prior to issuance of regulations. Before promulgating any standard governing the air transportation and handling in connection therewith, of animals, the Secretary shall consult with the Secretary of Transportation who shall have the authority to disapprove any such standard if he notifies the Secretary, within 30 days after such consultation, that changes in its provisions are necessary in the interest of flight safety. The Surface Transportation Board, the Secretary of Transportation, and the Federal Maritime Commission, to the extent of their respective lawful authorities, shall take such action as is appropriate to implement any standard established by the Secretary with respect to a person subject to regulation by it.
 
 (b) The Secretary is authorized to cooperate with the officials of the various States or political subdivisions thereof in carrying out the purposes of this chapter and of any State, local, or municipal legislation or ordinance on the same subject.
 
@@ -8,17 +8,17 @@
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission” in last sentence.
+<b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted "Surface Transportation Board" for "Interstate Commerce Commission" in last sentence.
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–198 inserted provision requiring that the Secretary consult with the Secretary of Health and Human Services prior to the issuance of regulations.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–443 substituted “the Secretary of Transportation” for “the Civil Aeronautics Board”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–443 substituted "the Secretary of Transportation" for "the Civil Aeronautics Board".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–279 inserted “, or administration of statutes regulating the transportation in commerce or handling in connection therewith of any animals” after “exhibition”, and inserted provisions requiring the Secretary, prior to promulgating standards governing air transportation of animals in commerce, to consult with the specified Federal agencies concerned.
+<b>1976</b>—Subsec. (a). Pub. L. 94–279 inserted ", or administration of statutes regulating the transportation in commerce or handling in connection therewith of any animals" after "exhibition", and inserted provisions requiring the Secretary, prior to promulgating standards governing air transportation of animals in commerce, to consult with the specified Federal agencies concerned.
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–579, §16(1), inserted reference to exhibition of animals.
 
-Subsec. (b). Pub. L. 91–579, §16(2), substituted “carrying out” for “effectuating”.
+Subsec. (b). Pub. L. 91–579, §16(2), substituted "carrying out" for "effectuating".
 
 #### Effective Date of 1995 Amendment
 

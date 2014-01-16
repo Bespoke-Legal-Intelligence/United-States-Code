@@ -8,5 +8,5 @@ Not more than 10 per centum of the total amount appropriated for the purposes of
 
 <b>1969</b>—Pub. L. 91–152 substituted provisions that not more than 10 per centum of the total amount appropriated be used for making grants to any one State for provisions that authorized the Secretary to provide technical assistance, etc., to State and local bodies. The former provisions of the section are now set forth in section 805 of this title with minor amendments.
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Administrator" wherever appearing.
 

@@ -14,5 +14,5 @@ Section was enacted as part of the Moving Ahead for Progress in the 21st Century
 
 #### Effective Date
 
-Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and TerminationDates of 2012 Amendment note under section 101 of Title 23, Highways.
+Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

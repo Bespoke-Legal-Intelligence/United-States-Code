@@ -22,13 +22,13 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690 struck out “including any term of imprisonment or term of supervised release specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 944(a)(1),” after “consequences thereof,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 struck out "including any term of imprisonment or term of supervised release specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 944(a)(1)," after "consequences thereof,".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–473 inserted “, including any term of imprisonment or term of supervised release specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 994(a)(1),” after “consequences thereof”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473 inserted ", including any term of imprisonment or term of supervised release specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 994(a)(1)," after "consequences thereof".
 
 #### Change of Name
 
-“United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judge" substituted for "United States magistrate" in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 

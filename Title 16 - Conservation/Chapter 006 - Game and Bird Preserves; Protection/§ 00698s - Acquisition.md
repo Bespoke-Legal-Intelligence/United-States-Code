@@ -12,7 +12,7 @@
 
 #### (3) State lands
 
-&emsp;Lands, waters, and interests in lands and waters within the boundaries of the Preservethat are owned by the State of Alabama, or any political subdivision of the State, may be acquired only by donation or exchange.
+&emsp;Lands, waters, and interests in lands and waters within the boundaries of the Preserve that are owned by the State of Alabama, or any political subdivision of the State, may be acquired only by donation or exchange.
 
 #### (b) Negotiations for acquisition
 
@@ -52,5 +52,5 @@ No lands or interest in lands may be added to the Preserve after October 21, 199
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(2)(B). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs”.
+<b>1994</b>—Subsec. (b)(2)(B). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs".
 

@@ -28,9 +28,9 @@ Witnesses subpoenaed under this section shall be paid the same fees and mileage 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1130(e)(3)(E), substituted “Director” for “Secretary” in introductory provisions and in par. (4).
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1130(e)(3)(E), substituted "Director" for "Secretary" in introductory provisions and in par. (4).
 
-Subsec. (c). Pub. L. 110–289, §1130(e)(3)(E), substituted “Director” for “Secretary”.
+Subsec. (c). Pub. L. 110–289, §1130(e)(3)(E), substituted "Director" for "Secretary".
 
-Pub. L. 110–289, §1130(e)(2), inserted “may bring an action or” before “may request”.
+Pub. L. 110–289, §1130(e)(2), inserted "may bring an action or" before "may request".
 

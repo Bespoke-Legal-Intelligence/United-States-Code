@@ -22,29 +22,29 @@ The effective date of this chapter, referred to in subsec. (b), means the effect
 
 Pub. L. 99–592, §5, Oct. 31, 1986, 100 Stat. 3343, provided that:
 
-“(a)
+"(a)
 
 Study.—Not later than 4 years after the date of enactment of this Act \[Oct. 31, 1986\], the Secretary of Labor and the Equal Employment Opportunity Commission, jointly, shall—
 
-&emsp;“(1) conduct a study—
+&emsp;"(1) conduct a study—
 
-&emsp;&emsp;“(A) to determine whether physical and mental fitness tests are valid measurements of the ability and competency of police officers and firefighters to perform the requirements of their jobs,
+&emsp;&emsp;"(A) to determine whether physical and mental fitness tests are valid measurements of the ability and competency of police officers and firefighters to perform the requirements of their jobs,
 
-&emsp;&emsp;“(B) if such tests are found to be valid measurements of such ability and competency, to determine which particular types of tests most effectively measure such ability and competency, and
+&emsp;&emsp;"(B) if such tests are found to be valid measurements of such ability and competency, to determine which particular types of tests most effectively measure such ability and competency, and
 
-&emsp;&emsp;“(C) to develop recommendations with respect to specific standards that such tests, and the administration of such tests should satisfy, and
+&emsp;&emsp;"(C) to develop recommendations with respect to specific standards that such tests, and the administration of such tests should satisfy, and
 
-&emsp;“(2) submit a report to the Speaker of the House of Representatives and the President pro tempore of the Senate that includes—
+&emsp;"(2) submit a report to the Speaker of the House of Representatives and the President pro tempore of the Senate that includes—
 
-&emsp;&emsp;“(A) a description of the results of such study, and
+&emsp;&emsp;"(A) a description of the results of such study, and
 
-&emsp;&emsp;“(B) a statement of the recommendations developed under paragraph (1)(C).
+&emsp;&emsp;"(B) a statement of the recommendations developed under paragraph (1)(C).
 
-“(b)
+"(b)
 
 Consultation Requirement.—The Secretary of Labor and the Equal Employment Opportunity Commission shall, during the conduct of the study required under subsection (a) and prior to the development of recommendations under paragraph (1)(C), consult with the United States Fire Administration, the Federal Emergency Management Agency, organizations representing law enforcement officers, firefighters, and their employers, and organizations representing older Americans.
 
-“(c)
+"(c)
 
-Proposed Guidelines.—Not later than 5 years after the date of the enactment of this Act \[Oct. 31, 1986\], the Equal Employment Opportunity Commission shall propose, in accordance with subchapter II of chapter 5 of title 5 of the United States Code, guidelines for the administration and use of physical and mental fitness tests to measure the ability and competency of police officers and firefighters to perform the requirements of their jobs.”
+Proposed Guidelines.—Not later than 5 years after the date of the enactment of this Act \[Oct. 31, 1986\], the Equal Employment Opportunity Commission shall propose, in accordance with subchapter II of chapter 5 of title 5 of the United States Code, guidelines for the administration and use of physical and mental fitness tests to measure the ability and competency of police officers and firefighters to perform the requirements of their jobs."
 

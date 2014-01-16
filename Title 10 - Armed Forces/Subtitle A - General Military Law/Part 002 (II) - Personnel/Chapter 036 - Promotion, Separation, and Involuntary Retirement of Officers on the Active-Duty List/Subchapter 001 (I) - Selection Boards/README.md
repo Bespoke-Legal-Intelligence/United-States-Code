@@ -18,7 +18,7 @@
 
 <b>2006</b>—Pub. L. 109–364, div. A, title V, §547(d)(1), Oct. 17, 2006, 120 Stat. 2216, added item 613a.
 
-<b>1991</b>—Pub. L. 102–190, div. A, title V, §504(a)(2)(B), Dec. 5, 1991, 105 Stat. 1357, struck out “; communications with boards” after “selection boards” in item 614.
+<b>1991</b>—Pub. L. 102–190, div. A, title V, §504(a)(2)(B), Dec. 5, 1991, 105 Stat. 1357, struck out "; communications with boards" after "selection boards" in item 614.
 
 
 ---

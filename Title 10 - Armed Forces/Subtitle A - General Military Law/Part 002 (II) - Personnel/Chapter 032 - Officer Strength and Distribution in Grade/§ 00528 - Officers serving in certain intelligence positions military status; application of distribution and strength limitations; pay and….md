@@ -22,7 +22,7 @@ Officers Serving in Office of DNI.—When a position in the Office of the Direct
 
 (e)
 
-Effect of Appointment.—Except as provided in subsection (a), the appointment or assignment of an officer of the armed forces to aposition covered by this section shall not affect—
+Effect of Appointment.—Except as provided in subsection (a), the appointment or assignment of an officer of the armed forces to a position covered by this section shall not affect—
 
 &emsp;(1) the status, position, rank, or grade of such officer in the armed forces; or
 
@@ -36,7 +36,7 @@ Military Pay and Allowances.—(1) An officer of the armed forces on active duty
 
 &emsp;(A) For an officer serving in a position within the Central Intelligence Agency, such reimbursement shall be made from funds available to the Director of the Central Intelligence Agency.
 
-&emsp;(B) For an officer serving in a position within the Office of the Director of National Intelligence, such reimbursement shall be made from funds available to the Director of National Intelligence.
+&emsp;(B) For an officer serving in a position within the Office of the Director of National Intelligence, such reimbursement shall be madefrom funds available to the Director of National Intelligence.
 
 (g)
 
@@ -50,41 +50,41 @@ A prior section 528, added Pub. L. 103–337, div. A, title IV, §405(b)(1), Oct
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, §502(d)(2)(A), substituted “Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances” for “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” in section catchline.
+<b>2011</b>—Pub. L. 112–81, §502(d)(2)(A), substituted "Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances" for "Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances" in section catchline.
 
 Subsecs. (b) to (d). Pub. L. 112–81, §502(d)(1), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to Director and Deputy Director of CIA, Associate Director of Military Affairs of CIA, and Officers Serving in the Office of DNI, respectively.
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–259 substituted “Associate Director of Military Affairs, CIA” for “Associate Director of CIA for Military Affairs” in heading and “Associate Director of Military Affairs, Central Intelligence Agency, or any successor position” for “Associate Director of the Central Intelligence Agency for Military Affairs” in text.
+<b>2010</b>—Subsec. (c). Pub. L. 111–259 substituted "Associate Director of Military Affairs, CIA" for "Associate Director of CIA for Military Affairs" in heading and "Associate Director of Military Affairs, Central Intelligence Agency, or any successor position" for "Associate Director of the Central Intelligence Agency for Military Affairs" in text.
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–417 substituted “Military Affairs” for “Military Support” in heading and text.
+<b>2008</b>—Subsec. (c). Pub. L. 110–417 substituted "Military Affairs" for "Military Support" in heading and text.
 
-<b>2006</b>—Pub. L. 109–364, §501(b)(1), amended section catchline generally, substituting “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” for “Exclusion: officers serving in certain intelligence positions”.
+<b>2006</b>—Pub. L. 109–364, §501(b)(1), amended section catchline generally, substituting "Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances" for "Exclusion: officers serving in certain intelligence positions".
 
 Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows:
 
-“(a) When none of the individuals serving in a position specified in subsection (b) is an officer of the armed forces, an officer of the armed forces assigned to the position of Associate Director of Central Intelligence for Military Support, while serving in that position, shall not be counted against the numbers and percentages of officers of the grade of that officer authorized for that officer's armed force.
+"(a) When none of the individuals serving in a position specified in subsection (b) is an officer of the armed forces, an officer of the armed forces assigned to the position of Associate Director of Central Intelligence for Military Support, while serving in that position, shall not be counted against the numbers and percentages of officers of the grade of that officer authorized for that officer's armed force.
 
-“(b) The positions referred to in subsection (a) are the following:
+"(b) The positions referred to in subsection (a) are the following:
 
-&emsp;“(1) Director of Central Intelligence.
+&emsp;"(1) Director of Central Intelligence.
 
-&emsp;“(2) Deputy Director of Central Intelligence.
+&emsp;"(2) Deputy Director of Central Intelligence.
 
-&emsp;“(3) Deputy Director of Central Intelligence for Community Management.”
+&emsp;"(3) Deputy Director of Central Intelligence for Community Management."
 
 Subsecs. (a), (b). Pub. L. 109–364, §501(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
-“(a)
+"(a)
 
 Exclusion of Officer Serving in Certain CIA Positions.—When either of the individuals serving in a position specified in subsection (b) is an officer of the armed forces, one of those officers, while serving in that position, shall be excluded from the limitations in sections 525 and 526 of this title.
 
-“(b)
+"(b)
 
 Covered Positions.—The positions referred to in this subsection are the following:
 
-&emsp;“(1) Director of the Central Intelligence Agency.
+&emsp;"(1) Director of the Central Intelligence Agency.
 
-&emsp;“(2) Deputy Director of the Central Intelligence Agency.”
+&emsp;"(2) Deputy Director of the Central Intelligence Agency."
 
 Subsecs. (e) to (g). Pub. L. 109–364, §501(a)(2), added subsecs. (e) to (g).
 

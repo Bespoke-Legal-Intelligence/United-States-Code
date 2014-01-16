@@ -6,7 +6,7 @@
 | [5402\.](%C2%A7%2005402%20-%20Definitions.md) | Definitions. |
 | [5403\.](%C2%A7%2005403%20-%20Sale%20of%20fasteners.md) | Sale of fasteners. |
 | 5404 to 5406. Repealed. |  |
-| [5407\.](%C2%A7%2005407%20-%20Manufacturers%E2%80%99%20insignias.md) | Manufacturers’ insignias. |
+| [5407\.](%C2%A7%2005407%20-%20Manufacturers%27%20insignias.md) | Manufacturers' insignias. |
 | [5408\.](%C2%A7%2005408%20-%20Remedies%20and%20penalties.md) | Remedies and penalties. |
 | [5409\.](%C2%A7%2005409%20-%20Recordkeeping%20requirements.md) | Recordkeeping requirements. |
 | [5410\.](%C2%A7%2005410%20-%20Relationship%20to%20State%20laws.md) | Relationship to State laws. |
@@ -26,7 +26,7 @@
 - [&sect; 05402 - Definitions](%C2%A7%2005402%20-%20Definitions.md)
 - [&sect; 05403 - Sale of fasteners](%C2%A7%2005403%20-%20Sale%20of%20fasteners.md)
 - [&sect; 05404 to 5406 - Repealed. Pub. L. 106&#8211;34, &sect;4(a), June 8, 1999, 113 Stat. 121](%C2%A7%2005404%20to%205406%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9334%2C%20%C2%A74%28a%29%2C%20June%208%2C%201999%2C%20113%20Stat.%20121.md)
-- [&sect; 05407 - Manufacturers&#8217; insignias](%C2%A7%2005407%20-%20Manufacturers%E2%80%99%20insignias.md)
+- [&sect; 05407 - Manufacturers' insignias](%C2%A7%2005407%20-%20Manufacturers%27%20insignias.md)
 - [&sect; 05408 - Remedies and penalties](%C2%A7%2005408%20-%20Remedies%20and%20penalties.md)
 - [&sect; 05409 - Recordkeeping requirements](%C2%A7%2005409%20-%20Recordkeeping%20requirements.md)
 - [&sect; 05410 - Relationship to State laws](%C2%A7%2005410%20-%20Relationship%20to%20State%20laws.md)

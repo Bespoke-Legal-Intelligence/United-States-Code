@@ -10,7 +10,7 @@ The value of assistance to children under this chapter shall not be considered t
 
 #### (c) Federal law not applicable
 
-Section 1693r of title 15 shall not apply to electronic benefit transfer systems establishedunder this chapter or the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+Section 1693r of title 15 shall not apply to electronic benefit transfer systems established under this chapter or the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
 (Pub. L. 89–642, §11, Oct. 11, 1966, 80 Stat. 889; Pub. L. 97–35, title VIII, §819(f), Aug. 13, 1981, 95 Stat. 533; Pub. L. 104–193, title VII, §726, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 111–203, title X, §1075(d), July 21, 2010, 124 Stat. 2074.)
 
@@ -22,7 +22,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (c), is
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–203 added subsec. (c).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–193 substituted “the Secretary shall not” for “neither the Secretary nor the State shall”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193 substituted "the Secretary shall not" for "neither the Secretary nor the State shall".
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out reference to section 1774 of this title.
 

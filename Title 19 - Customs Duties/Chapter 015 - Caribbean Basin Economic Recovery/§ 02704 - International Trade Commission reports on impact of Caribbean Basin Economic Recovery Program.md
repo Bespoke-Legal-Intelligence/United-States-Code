@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The United States International Trade Commission (in this section referred to as the “Commission”) shall submit to Congress and the President biennial reports regarding the economic impact of this chapter on United States industries and consumers and on the economy of the beneficiary countries.
+&emsp;The United States International Trade Commission (in this section referred to as the "Commission") shall submit to Congress and the President biennial reports regarding the economic impact of this chapter on United States industries and consumers and on the economy of the beneficiary countries.
 
 #### (2) First report
 
@@ -38,17 +38,17 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original “this title”, meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original "this title", meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-This Act, referred to in subsec. (b), probably should be “this title” meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsec. (b), probably should be "this title" meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–200 inserted heading and amended text generally. Prior to amendment, text read as follows: “The United States International Trade Commission (hereinafter in this section referred to as the ‘Commission’) shall prepare, and submit to the Congress and to the President, a report regarding the economic impact of this Act on United States industries and consumers during—
+<b>2000</b>—Subsec. (a). Pub. L. 106–200 inserted heading and amended text generally. Prior to amendment, text read as follows: "The United States International Trade Commission (hereinafter in this section referred to as the 'Commission') shall prepare, and submit to the Congress and to the President, a report regarding the economic impact of this Act on United States industries and consumers during—
 
-&emsp;“(1) the twenty-four-month period beginning with August 5, 1983; and
+&emsp;"(1) the twenty-four-month period beginning with August 5, 1983; and
 
-&emsp;“(2) each calendar year occurring thereafter until duty-free treatment under this chapter is terminated under section 2706(b) of this title.
+&emsp;"(2) each calendar year occurring thereafter until duty-free treatment under this chapter is terminated under section 2706(b) of this title.
 
-> For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States shall be considered to be United States industries.”
+> For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States shall be considered to be United States industries."
 

@@ -6,23 +6,23 @@ In this section:
 
 #### (1) Audit agent
 
-&emsp;The term “audit agent” means an individual who is an employee or agent of an accredited third-party auditor and, although not individually accredited, is qualified to conduct food safety audits on behalf of an accredited third-party auditor.
+&emsp;The term "audit agent" means an individual who is an employee or agent of an accredited third-party auditor and, although not individually accredited, is qualified to conduct food safety audits on behalf of an accredited third-party auditor.
 
 #### (2) Accreditation body
 
-&emsp;The term “accreditation body” means an authority that performs accreditation of third-party auditors.
+&emsp;The term "accreditation body" means an authority that performs accreditation of third-party auditors.
 
 #### (3) Third-party auditor
 
-&emsp;The term “third-party auditor” means a foreign government, agency of a foreign government, foreign cooperative, or any other third party, as the Secretary determines appropriate in accordance with the model standards described in subsection (b)(2), that is eligible to be considered for accreditation to conduct food safety audits to certify that eligible entities meet the applicable requirements of this section. A third-party auditor may be a single individual. A third-party auditor may employ or use audit agents to help conduct consultative and regulatory audits.
+&emsp;The term "third-party auditor" means a foreign government, agency of a foreign government, foreign cooperative, or any other third party, as the Secretary determines appropriate in accordance with the model standards described in subsection (b)(2), that is eligible to be considered for accreditation to conduct food safety audits to certify that eligible entities meet the applicable requirements of this section. A third-party auditor may be a singleindividual. A third-party auditor may employ or use audit agents to help conduct consultative and regulatory audits.
 
 #### (4) Accredited third-party auditor
 
-&emsp;The term “accredited third-party auditor” means a third-party auditor accredited by an accreditation body to conduct audits of eligible entities to certify that such eligible entities meet the applicable requirements of this section. An accredited third-party auditor may be an individual who conducts food safety audits to certify that eligible entities meet the applicable requirements of this section.
+&emsp;The term "accredited third-party auditor" means a third-party auditor accredited by an accreditation body to conduct audits of eligible entities to certify that such eligible entities meet the applicable requirements of this section. An accredited third-party auditor may be an individual who conducts food safety audits to certify that eligible entities meet the applicable requirements of this section.
 
 #### (5) Consultative audit
 
-&emsp;The term “consultative audit” means an audit of an eligible entity—
+&emsp;The term "consultative audit" means an audit of an eligible entity—
 
 &emsp;&emsp;(A) to determine whether such entity is in compliance with the provisions of this chapter and with applicable industry standards and practices; and
 
@@ -30,11 +30,11 @@ In this section:
 
 #### (6) Eligible entity
 
-&emsp;The term “eligible entity” means a foreign entity, including a foreign facility registered under section 350d of this title, in the food import supply chain that chooses to be audited by an accredited third-party auditor or the audit agent of such accredited third-party auditor.
+&emsp;The term "eligible entity" means a foreign entity, including a foreign facility registered under section 350d of this title, in the food import supply chain that chooses to be audited by an accredited third-party auditor or the audit agent of such accredited third-party auditor.
 
 #### (7) Regulatory audit
 
-&emsp;The term “regulatory audit” means an audit of an eligible entity—
+&emsp;The term "regulatory audit" means an audit of an eligible entity—
 
 &emsp;&emsp;(A) to determine whether such entity is in compliance with the provisions of this chapter; and
 
@@ -84,7 +84,7 @@ In this section:
 
 #### (B) Foreign cooperatives and other third parties
 
-&emsp;&emsp;Prior to accrediting a foreign cooperative that aggregates the products of growers or processors, or any other third party to be an accredited third-party auditor, the accreditation body (or, in the case of direct accreditation under subsection (b)(1)(A)(ii), the Secretary) shall perform such reviews and audits of the training and qualifications of audit agents used by that cooperative or party and conduct such reviews of internal systems and such other investigation of the cooperative or party as the Secretary deems necessary, including requirements under the model standards developed under subsection (b)(2), to determine that each eligible entity certified by the cooperative or party has systems and standards in use to ensure that such entity or food meets the requirements of this chapter.
+&emsp;&emsp;Prior to accrediting a foreign cooperative that aggregates the products of growers or processors, or any other third party to be an accredited third-party auditor, the accreditation body (or, in the case of direct accreditation under subsection (b)(1)(A)(ii), the Secretary) shall perform such reviews and audits of the training and qualifications of audit agents used by that cooperative or party and conduct such reviews of internal systems and such other investigation of thecooperative or party as the Secretary deems necessary, including requirements under the model standards developed under subsection (b)(2), to determine that each eligible entity certified by the cooperative or party has systems and standards in use to ensure that such entity or food meets the requirements of this chapter.
 
 #### (2) Requirement to issue certification of eligible entities or foods
 
@@ -108,7 +108,7 @@ In this section:
 
 #### (ii) Provision of certification
 
-&emsp;&emsp;&emsp;Only an accredited third-party auditor or the Secretary may provide a facility certification under section 384b(a) of thistitle. Only those parties described in <sup>1</sup> 381(q)(3) of this title or the Secretary may provide a food certification under <sup>1</sup> 381(q) <sup>2</sup> of this title.
+&emsp;&emsp;&emsp;Only an accredited third-party auditor or the Secretary may provide a facility certification under section 384b(a) of this title. Only those parties described in <sup>1</sup> 381(q)(3) of this title or the Secretary may provide a food certification under <sup>1</sup> 381(q) <sup>2</sup> of this title.
 
 #### (3) Audit report submission requirements
 
@@ -226,7 +226,7 @@ In this section:
 
 #### (8) Neutralizing costs
 
-&emsp;The Secretary shall establish by regulation a reimbursement (user fee) program, similar to the method described in section 1622(h) of title 7,<sup>2</sup> by which the Secretary assesses fees and requires accredited third-party auditors and audit agents to reimburse the Food and Drug Administration for the work performed to establish and administer the accreditation system under this section. The Secretary shall make operating this program revenue-neutral and shall not generate surplus revenue from such a reimbursement mechanism. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to remain available until expended.
+&emsp;The Secretary shall establish by regulation a reimbursement (user fee) program, similar to the method described in section 1622(h) of title 7,<sup>2</sup> by which the Secretary assesses fees and requires accredited third-party auditors and audit agents to reimburse the Food andDrug Administration for the work performed to establish and administer the accreditation system under this section. The Secretary shall make operating this program revenue-neutral and shall not generate surplus revenue from such a reimbursement mechanism. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to remain available until expended.
 
 #### (d) Recertification of eligible entities
 
@@ -276,17 +276,17 @@ The Secretary shall establish a publicly available registry of accreditation bod
 
 #### References in Text
 
-Section 381(q) of this title, referred to in subsec. (c)(2)(C)(ii), was in the original “301(g)”, and was translated as reading “801(q)”, meaning section 801(q) of act June 25, 1938, ch. 675, which is classified to section 381(q) of this title, to reflect the probable intent of Congress, because section 381(q) of this title relates to food certification, whereas section 301(g) of act June 25, 1938, ch. 675, which is classified to section 331(g) of this title, does not relate to food certification.
+Section 381(q) of this title, referred to in subsec. (c)(2)(C)(ii), was in the original "301(g)", and was translated as reading "801(q)", meaning section 801(q) of act June 25, 1938, ch. 675, which is classified to section 381(q) of this title, to reflect the probable intent of Congress, because section 381(q) of this title relates to food certification, whereas section 301(g) of act June 25, 1938, ch. 675, which is classified to section 331(g) of this title, does not relate to food certification.
 
-Section 1622(h) of title 7, referred to in subsec. (c)(8), was in the original “section 203(h) of the Agriculture Marketing Act of 1946”, and was translated as reading “section 203(h) of the Agricultural Marketing Act of 1946”, meaning section 203(h) of act Aug. 14, 1946, ch. 966, which is classified to section 1622(h) of Title 7, Agriculture, to reflect the probable intent of Congress.
+Section 1622(h) of title 7, referred to in subsec. (c)(8), was in the original "section 203(h) of the Agriculture Marketing Act of 1946", and was translated as reading "section 203(h) of the Agricultural Marketing Act of 1946", meaning section 203(h) of act Aug. 14, 1946, ch. 966, which is classified to section 1622(h) of Title 7, Agriculture, to reflect the probable intent of Congress.
 
 #### Construction
 
 Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "section".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “the”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by "the".</i>
 

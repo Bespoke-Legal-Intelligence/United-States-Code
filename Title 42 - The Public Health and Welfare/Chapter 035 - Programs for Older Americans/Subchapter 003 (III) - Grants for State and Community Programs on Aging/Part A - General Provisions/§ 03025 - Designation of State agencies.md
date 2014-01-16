@@ -14,7 +14,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;&emsp;(D) serve as an effective and visible advocate for older individuals by reviewing and commenting upon all State plans, budgets, and policies which affect older individuals and providing technical assistance to any agency, organization, association, or individual representing the needs of older individuals; and
 
-&emsp;&emsp;(E) divide the State into distinct planning and service areas (or in the case of a State specified in subsection (b)(5)(A) of this section, designate the entire State as a single planning and service area), in accordance with guidelines issued by the Assistant Secretary, after considering the geographical distribution of older individuals in the State, the incidence of the need for supportive services, nutrition services, multipurpose senior centers, and legal assistance, the distribution of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who are Indians residing in such areas, the distribution of resources available to provide such services or centers, the boundaries of existing areas within the State which were drawn for the planning or administration of supportive services programs, the location of units of general purpose local government within the State, and any other relevant factors;
+&emsp;&emsp;(E) divide the State into distinct planning and service areas (or in the case of a State specified in subsection (b)(5)(A) of this section, designate the entire State as a single planning and service area), in accordancewith guidelines issued by the Assistant Secretary, after considering the geographical distribution of older individuals in the State, the incidence of the need for supportive services, nutrition services, multipurpose senior centers, and legal assistance, the distribution of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who are Indians residing in such areas, the distribution of resources available to provide such services or centers, the boundaries of existing areas within the State which were drawn for the planning or administration of supportive services programs, the location of units of general purpose local government within the State, and any other relevant factors;
 
 &emsp;(2) the State agency shall—
 
@@ -68,7 +68,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 (2) The State is encouraged in carrying out the requirement of subsection (a)(1) of this section to include the area covered by the appropriate economic development district involved in any planning and service area designated under subsection (a)(1) of this section, and to include all portions of an Indian reservation within a single planning and service area, if feasible.
 
-(3) The chief executive officer of each State in which a planning and service area crosses State boundaries, or in which an interstate Indian reservation is located, may apply to the AssistantSecretary to request redesignation as an interstate planning and service area comprising the entire metropolitan area or Indian reservation. If the Assistant Secretary approves such an application, the Assistant Secretary shall adjust the State allotments of the areas within the planning and service area in which the interstate planning and service area is established to reflect the number of older individuals within the area who will be served by an interstate planning and service area not within the State.
+(3) The chief executive officer of each State in which a planning and service area crosses State boundaries, or in which an interstate Indian reservation is located, may apply to the Assistant Secretary to request redesignation as an interstate planning and service area comprising the entire metropolitan area or Indian reservation. If the Assistant Secretary approves such an application, the Assistant Secretary shall adjust the State allotments of the areas within the planning and service area in which the interstate planning and service area is established to reflect the number of older individuals within the area who will be served by an interstate planning and service area not within the State.
 
 (4) Whenever a unit of general purpose local government, a region, a metropolitan area or an Indian reservation is denied designation under the provisions of subsection (a)(1) of this section, such unit of general purpose local government, region, metropolitan area, or Indian reservation may appeal the decision of the State agency to the Assistant Secretary. The Assistant Secretary shall afford such unit, region, metropolitan area, or Indian reservation an opportunity for a hearing. In carrying out the provisions of this paragraph, the Assistant Secretary may approve the decision of the State agency, disapprove the decision of the State agency and require the State agency to designate the unit, region, area, or Indian reservation appealing the decision as a planning and service area, or take such other action as the Assistant Secretary deems appropriate.
 
@@ -104,7 +104,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;(II) procedural grounds.
 
-(iv) In deciding an appeal described in clause (ii)(V), the Assistant Secretary may affirm or set aside the decision of the State agency. If the Assistant Secretary sets aside the decision, and the State agency has taken an action described in subclauses (I) through (III) of clause (i), the State agency shall nullify the action.
+(iv) In deciding an appeal described in clause (ii)(V), the Assistant Secretary may affirm orset aside the decision of the State agency. If the Assistant Secretary sets aside the decision, and the State agency has taken an action described in subclauses (I) through (III) of clause (i), the State agency shall nullify the action.
 
 #### (c) Eligible State area agencies; development of area; preferred area agency on aging designees
 
@@ -146,113 +146,113 @@ Provisions similar to those comprising this section were contained in Pub. L. 89
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1)(E). Pub. L. 109–365, §305(1)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)” in two places.
+<b>2006</b>—Subsec. (a)(1)(E). Pub. L. 109–365, §305(1)(A), substituted "(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)" for "(with particular attention to low-income minority individuals and older individuals residing in rural areas)" in two places.
 
-Subsec. (a)(2)(E). Pub. L. 109–365, §305(2)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “, with particular attention to low-income minority individuals and older individuals residing in rural areas”.
+Subsec. (a)(2)(E). Pub. L. 109–365, §305(2)(A), substituted "(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)" for ", with particular attention to low-income minority individuals and older individuals residing in rural areas".
 
 Subsec. (a)(3). Pub. L. 109–365, §305(1)(B), (2)(B), (3), added par. (3).
 
-<b>2000</b>—Subsec. (a)(1)(E). Pub. L. 106–501, §304(1), inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
+<b>2000</b>—Subsec. (a)(1)(E). Pub. L. 106–501, §304(1), inserted "and older individuals residing in rural areas" after "low-income minority individuals" in two places.
 
-Subsec. (a)(2)(E). Pub. L. 106–501, §304(2)(A), struck out comma and inserted “and older individuals residing in rural areas,” after “low-income minority individuals”.
+Subsec. (a)(2)(E). Pub. L. 106–501, §304(2)(A), struck out comma and inserted "and older individuals residing in rural areas," after "low-income minority individuals".
 
-Subsec. (a)(2)(F). Pub. L. 106–501, §801(c)(3), substituted “3027(a)(16)” for “3027(a)(24)”.
+Subsec. (a)(2)(F). Pub. L. 106–501, §801(c)(3), substituted "3027(a)(16)" for "3027(a)(24)".
 
-Subsec. (a)(2)(G)(i). Pub. L. 106–501, §304(2)(B), inserted “and older individuals residing in rural areas” after “low-income minority older individuals”.
+Subsec. (a)(2)(G)(i). Pub. L. 106–501, §304(2)(B), inserted "and older individuals residing in rural areas" after "low-income minority older individuals".
 
-Subsec. (a)(2)(G)(ii). Pub. L. 106–501, §304(2)(C), which directed the insertion of “and older individuals residing in rural areas” after “low-income minority individuals”, was executed by making the insertion after “low-income minority older individuals”, to reflect the probable intent of Congress.
+Subsec. (a)(2)(G)(ii). Pub. L. 106–501, §304(2)(C), which directed the insertion of "and older individuals residing in rural areas" after "low-income minority individuals", was executed by making the insertion after "low-income minority older individuals", to reflect the probable intent of Congress.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+<b>1993</b>—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted "Assistant Secretary" for "Commissioner" wherever appearing.
 
-Subsec. (b)(1). Pub. L. 103–171, §2(8), substituted “area under subsection (a)(1) of this section” for “area under clause (1) of subsection (a) of this section” and “designated under subsection (a)(1) of this section” for “designated under clause (1) of subsection (a) of this section”.
+Subsec. (b)(1). Pub. L. 103–171, §2(8), substituted "area under subsection (a)(1) of this section" for "area under clause (1) of subsection (a) of this section" and "designated under subsection (a)(1) of this section" for"designated under clause (1) of subsection (a) of this section".
 
-Subsec. (b)(2). Pub. L. 103–171, §2(8), substituted “requirement of subsection (a)(1) of this section” for “requirement of clause (1) of subsection (a) of this section”.
+Subsec. (b)(2). Pub. L. 103–171, §2(8), substituted "requirement of subsection (a)(1) of this section" for "requirement of clause (1) of subsection (a) of this section".
 
-Subsec. (b)(3) to (5). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+Subsec. (b)(3) to (5). Pub. L. 103–171, §3(a)(13), substituted "Assistant Secretary" for "Commissioner" wherever appearing.
 
-<b>1992</b>—Subsec. (a)(1)(C). Pub. L. 102–375, §305(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “be primarily responsible for the coordination of all State activities related to the purposes of this chapter;”.
+<b>1992</b>—Subsec. (a)(1)(C). Pub. L. 102–375, §305(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "be primarily responsible for the coordination of all State activities related to the purposes of this chapter;".
 
-Subsec. (a)(1)(D). Pub. L. 102–375, §904(a)(11)(A)(i)(I), substituted “older individuals” for “the elderly” wherever appearing.
+Subsec. (a)(1)(D). Pub. L. 102–375, §904(a)(11)(A)(i)(I), substituted "older individuals" for "the elderly" wherever appearing.
 
-Subsec. (a)(1)(E). Pub. L. 102–375, §904(a)(11)(A)(i)(II), (III), inserted “individuals who are” before “Indians” and substituted “older individuals” for “individuals aged 60 and older”.
+Subsec. (a)(1)(E). Pub. L. 102–375, §904(a)(11)(A)(i)(II), (III), inserted "individuals who are" before "Indians" and substituted "older individuals" for "individuals aged 60 and older".
 
-Subsec. (a)(2). Pub. L. 102–375, §904(a)(11)(A)(ii)(I), which directed the substitution of “subparagraph” for “clause”, could not be executed because of the intervening amendment by Pub. L. 102–375, §102(b)(9)(B). See below.
+Subsec. (a)(2). Pub. L. 102–375, §904(a)(11)(A)(ii)(I), which directed the substitution of "subparagraph" for "clause", could not be executed because of the intervening amendment by Pub. L. 102–375, §102(b)(9)(B). See below.
 
-Pub. L. 102–375, §102(b)(9)(B), struck out “designated under clause (1)” after “agency” in introductory provisions.
+Pub. L. 102–375, §102(b)(9)(B), struck out "designated under clause (1)" after "agency" in introductory provisions.
 
-Subsec. (a)(2)(C). Pub. L. 102–375, §305(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “develop a formula, in accordance with guidelines issued by the Commissioner, for the distribution within the State of funds received under this subchapter, taking into account, to the maximum extent feasible, the best available statistics on the geographical distribution of individuals aged 60 and older in the State, and publish such formula for review and comment in accordance with subsection (d) of this section;”.
+Subsec. (a)(2)(C). Pub. L. 102–375, §305(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "develop a formula, in accordance with guidelines issued by the Commissioner, for the distribution within the State of funds received under this subchapter, taking into account, to the maximum extent feasible, the best available statistics on the geographical distribution of individuals aged 60 and older in the State, and publish such formula for review and comment in accordance with subsection (d) of this section;".
 
-Subsec. (a)(2)(D). Pub. L. 102–375, §904(a)(11)(A)(ii)(II), substituted “subparagraph” for “subclause”.
+Subsec. (a)(2)(D). Pub. L. 102–375, §904(a)(11)(A)(ii)(II), substituted "subparagraph" for "subclause".
 
-Pub. L. 102–375, §305(a)(2)(B), substituted “for approval” for “for review and comment”.
+Pub. L. 102–375, §305(a)(2)(B), substituted "for approval" for "for review and comment".
 
-Subsec. (a)(2)(E). Pub. L. 102–375, §904(a)(11)(A)(ii)(III), substituted “greatest economic need and older individuals with greatest social need” for “the greatest economic or social needs”.
+Subsec. (a)(2)(E). Pub. L. 102–375, §904(a)(11)(A)(ii)(III), substituted "greatest economic need and older individuals with greatest social need" for "the greatest economic or social needs".
 
-Pub. L. 102–375, §305(a)(2)(C), struck out “and” at end.
+Pub. L. 102–375, §305(a)(2)(C), struck out "and" at end.
 
-Subsec. (a)(2)(F). Pub. L. 102–375, §305(a)(2)(D), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “assure the use of outreach efforts that will identify individuals eligible for assistance under this chapter, with special emphasis on older individuals with the greatest economic or social needs (with particular attention to low-income minority individuals) and inform such individuals of the availability of such assistance.”
+Subsec. (a)(2)(F). Pub. L. 102–375, §305(a)(2)(D), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "assure the use of outreach efforts that will identify individuals eligible for assistance under this chapter, with special emphasis on older individuals with the greatest economic or social needs (with particular attention to low-income minority individuals) and inform such individuals of the availability of such assistance."
 
 Subsec. (a)(2)(G). Pub. L. 102–375, §305(a)(2)(E), added subpar. (G).
 
-Subsec. (b)(1). Pub. L. 102–375, §904(a)(11)(B)(i), substituted “requirement of subsection (a)(1) of this section” for “requirement of clause (1) of subsection (a) of this section”.
+Subsec. (b)(1). Pub. L. 102–375, §904(a)(11)(B)(i), substituted "requirement of subsection (a)(1) of this section" for "requirement of clause (1) of subsection (a) of this section".
 
-Subsec. (b)(2). Pub. L. 102–375, §904(a)(11)(B)(ii), substituted “designated under subsection (a)(1) of this section” for “designated under such clause”.
+Subsec. (b)(2). Pub. L. 102–375, §904(a)(11)(B)(ii), substituted "designated under subsection (a)(1) of this section" for "designated under such clause".
 
-Subsec. (b)(4). Pub. L. 102–375, §904(a)(11)(B)(i), substituted “subsection (a)(1) of this section” for “clause (1) of subsection (a) of this section”.
+Subsec. (b)(4). Pub. L. 102–375, §904(a)(11)(B)(i), substituted "subsection (a)(1) of this section" for "clause (1) of subsection (a) of this section".
 
-Subsec. (b)(5)(A). Pub. L. 102–375, §102(b)(10)(B), substituted “area agency on aging” for “area agency” in two places.
+Subsec. (b)(5)(A). Pub. L. 102–375, §102(b)(10)(B), substituted "area agency on aging" for "area agency" in two places.
 
 Subsec. (b)(5)(C). Pub. L. 102–375, §305(b), added subpar. (C).
 
-Subsec. (c). Pub. L. 102–375, §102(b)(10)(D), substituted “area agency on aging” for “area agency” in concluding provisions of first sentence.
+Subsec. (c). Pub. L. 102–375, §102(b)(10)(D), substituted "area agency on aging" for "area agency" in concluding provisions of first sentence.
 
-Subsec. (c)(2). Pub. L. 102–375, §102(b)(10)(C), substituted “area agency on aging” for “area agency”.
+Subsec. (c)(2). Pub. L. 102–375, §102(b)(10)(C), substituted "area agency on aging" for "area agency".
 
-Subsec. (d). Pub. L. 102–375, §904(a)(11)(C), substituted “paragraph” for “clause” in introductory provisions.
+Subsec. (d). Pub. L. 102–375, §904(a)(11)(C), substituted "paragraph" for "clause" in introductory provisions.
 
-<b>1988</b>—Subsec. (a)(1)(E). Pub. L. 100–628, §705(4)(A), substituted “such areas,” for “such areas,,” before “distribution of resources”.
+<b>1988</b>—Subsec. (a)(1)(E). Pub. L. 100–628, §705(4)(A), substituted "such areas," for "such areas,," before "distribution of resources".
 
 Subsec. (d). Pub. L. 100–628, §705(4)(B), redesignated subpars. (A), (B), (C), and (D) as pars. (1), (2), (3), and (4), respectively.
 
-<b>1987</b>—Subsec. (a)(1)(E). Pub. L. 100–175, §§132(a)(1), 134(a)(1), 182(g), substituted “the distribution of older individuals who have greatest economic need (with particular attention to low-income minority individuals) residing in such areas, the distribution of older individuals who have greatest social need (with particular attention to low-income minority individuals) residing in such areas,” for “the distribution of older individuals who have low incomes residing in such areas”, inserted “the distribution of older Indians residing in such areas,” after second reference to “such areas,”, and substituted “legal assistance” for “legal services”.
+<b>1987</b>—Subsec. (a)(1)(E). Pub. L. 100–175, §§132(a)(1), 134(a)(1), 182(g), substituted "the distribution of older individuals who have greatest economic need (with particular attention to low-income minority individuals) residing in such areas, the distribution of older individuals who have greatest social need (with particular attention to low-income minority individuals) residing in such areas," for "the distribution of older individuals who have low incomes residing in such areas", inserted "the distribution of older Indians residing in such areas," after second reference to "such areas,", and substituted "legal assistance" for "legal services".
 
-Subsec. (a)(2)(C). Pub. L. 100–175, §182(h), inserted “in accordance with subsection (d) of this section” before semicolon at end.
+Subsec. (a)(2)(C). Pub. L. 100–175, §182(h), inserted "in accordance with subsection (d) of this section" before semicolon at end.
 
 Subsec. (a)(2)(F). Pub. L. 100–175, §132(a)(2), added subpar. (F).
 
-Subsec. (c)(2). Pub. L. 100–175, §124(1), inserted “to function only” after “designated”.
+Subsec. (c)(2). Pub. L. 100–175, §124(1), inserted "to function only" after "designated".
 
-Subsec. (c)(3). Pub. L. 100–175, §124(2), inserted “only” after “to act”.
+Subsec. (c)(3). Pub. L. 100–175, §124(2), inserted "only" after "to act".
 
-Subsec. (c)(4). Pub. L. 100–175, §124(3), inserted “, or any separate organizational unit within such agency,” after first reference to “area” and substituted “and will engage only” for “engage”.
+Subsec. (c)(4). Pub. L. 100–175, §124(3), inserted ", or any separate organizational unit within such agency," after first reference to "area" and substituted "and will engage only" for "engage".
 
-Subsec. (d). Pub. L. 100–175, §182(e)(2), struck out par. (1) designation before “The publication for review” and struck out par. (2) which read as follows: “For purposes of clause (2)(E) of subsection (a) of this section and paragraph (1) of this subsection, the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census, and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, and cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threatens his or her capacity to live independently.”
+Subsec. (d). Pub. L. 100–175, §182(e)(2), struck out par. (1) designation before "The publication for review" and struck out par. (2) which read as follows: "For purposes of clause (2)(E) of subsection (a) of this section and paragraph (1) of this subsection, the term 'greatest economic need' means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census, and the term 'greatest social need' means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, and cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threatens his or her capacity to live independently."
 
-<b>1984</b>—Subsec. (a)(1)(E). Pub. L. 98–459, §305(a)(1), substituted “subsection (b)(5)(A) of this section” for “subsection (b)(5) of this section”.
+<b>1984</b>—Subsec. (a)(1)(E). Pub. L. 98–459, §305(a)(1), substituted "subsection (b)(5)(A) of this section" for "subsection (b)(5) of this section".
 
-Subsec. (a)(2)(E). Pub. L. 98–459, §305(a)(2), inserted “, with particular attention to low-income minority individuals,”.
+Subsec. (a)(2)(E). Pub. L. 98–459, §305(a)(2), inserted ", with particular attention to low-income minority individuals,".
 
-Subsec. (b)(3). Pub. L. 98–459, §305(b)(1), substituted “the Commissioner shall adjust” for “he shall adjust”.
+Subsec. (b)(3). Pub. L. 98–459, §305(b)(1), substituted "the Commissioner shall adjust" for "he shall adjust".
 
 Subsec. (b)(5). Pub. L. 98–459, §305(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (d). Pub. L. 98–459, §305(c), added subsec. (d).
 
-<b>1981</b>—Subsec. (a)(1)(E). Pub. L. 97–115, §§3(d), 5(a), substituted “divide the State into distinct planning and service areas (or in the case of a State specified in subsection (b)(5) of this section, designate the entire State as a single planning and service area)” for “divide the State into distinct areas” and “supportive services” for “social services” in two places.
+<b>1981</b>—Subsec. (a)(1)(E). Pub. L. 97–115, §§3(d), 5(a), substituted "divide the State into distinct planning and service areas (or in the case of a State specified in subsection (b)(5) of this section, designate the entire State as a single planning and service area)" for "divide the State into distinct areas" and "supportive services" for "social services" in two places.
 
-Subsec. (a)(2)(A). Pub. L. 97–115, §5(b), substituted “except as provided in subsection (b)(5) of this section, designate for each such area” for “determine for which planning and service area an area plan will be developed, in accordance with section 3026 of this title, and for each such area designate,”.
+Subsec. (a)(2)(A). Pub. L. 97–115, §5(b), substituted "except as provided in subsection (b)(5) of this section, designate for each such area" for "determine for which planning and service area an area plan will be developed, in accordance with section 3026 of this title, and for each such area designate,".
 
-Subsec. (a)(2)(B). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services”.
+Subsec. (a)(2)(B). Pub. L. 97–115, §3(d), substituted "supportive services" for "social services".
 
 Subsec. (b)(5). Pub. L. 97–115, §5(c), added par. (5).
 
-Subsec. (c)(4). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services”.
+Subsec. (c)(4). Pub. L. 97–115, §3(d), substituted "supportive services" for "social services".
 
 Subsec. (c)(5). Pub. L. 97–115, §5(d), added par. (5).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 305 of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
+Amendment by section 305 of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b)of Pub. L. 103–171, set out as a note under section 3001 of this title.
 
 Amendment by section 305 of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section 905(b)(2) of Pub. L. 102–375, set out as a note under section 3001 of this title.
 
@@ -264,5 +264,5 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under section 3001 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “service”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "service".</i>
 

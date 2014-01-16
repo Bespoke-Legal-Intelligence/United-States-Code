@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services (hereafter in this section referred to as the “Secretary”) may make grants to nonprofit organizations composed of, or representing, health care providers to assist in the payment of the costs of projects to train such providers concerning—
+The Secretary of Health and Human Services (hereafter in this section referred to as the "Secretary") may make grants to nonprofit organizations composed of, or representing, health care providers to assist in the payment of the costs of projects to train such providers concerning—
 
 &emsp;(1) appropriate infection control procedures to reduce the transmission of the etiologic agent for acquired immune deficiency syndrome; and
 
@@ -26,7 +26,7 @@ The Secretary may not make a grant under subsection (a) of this section unless�
 
 &emsp;(2) with respect to carrying out the purpose for which the grant is to be made, the application provides assurances of compliance satisfactory to the Secretary; and
 
-&emsp;(3) the application otherwise is in such form, is made in such manner, and contains suchagreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+&emsp;(3) the application otherwise is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 #### (e) Authorization of appropriations
 

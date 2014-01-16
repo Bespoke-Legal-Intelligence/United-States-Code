@@ -22,7 +22,7 @@
 
 #### (A) Authority
 
-&emsp;&emsp;The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, and other risk management strategies.
+&emsp;&emsp;The Secretary, acting through the National Institute of Food and Agriculture,shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, and other risk management strategies.
 
 #### (B) Basis for grants
 
@@ -130,7 +130,7 @@
 
 #### References in Text
 
-Section 1308(5) of this title, which required the Secretary to issue regulations defining “person”, referred to in subsec. (b)(3), was redesignated section 1308(e) and amended by section 1603(b)(1) of Pub. L. 107–171. Section 1308 was subsequently amended by section 1603 of the Food, Conservation, and Energy Act of 2008, Pub. L. 110–246, to strike out subsec. (e) and add a new subsec. (a)(4) defining “person”. The Food, Conservation, and Energy Act of 2008 does not contain a section 1703(a).
+Section 1308(5) of this title, which required the Secretary to issue regulations defining "person", referred to in subsec. (b)(3), was redesignated section 1308(e) and amended by section 1603(b)(1) of Pub. L. 107–171. Section 1308 was subsequently amended by section 1603 of the Food, Conservation, and Energy Act of 2008, Pub. L. 110–246, to strike out subsec. (e) and add a new subsec. (a)(4) defining "person". The Food, Conservation, and Energy Act of 2008 does not contain a section 1703(a).
 
 #### Codification
 
@@ -138,75 +138,75 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(4)(B)(ii). Pub. L. 112–55 substituted “certain fiscal years” for “fiscal years 2008 through 2012” in heading and “2014” for “2012” in text.
+<b>2011</b>—Subsec. (b)(4)(B)(ii). Pub. L. 112–55 substituted "certain fiscal years" for "fiscal years 2008 through 2012" in heading and "2014" for "2012" in text.
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §12026(1), substituted “paragraph (5)” for “paragraph (4)” in introductory provisions.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §12026(1), substituted "paragraph (5)" for "paragraph (4)" in introductory provisions.
 
-Subsec. (a)(1)(B), (3)(A). Pub. L. 110–246, §7511(c)(2), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
+Subsec. (a)(1)(B), (3)(A). Pub. L. 110–246, §7511(c)(2), substituted "the National Institute of Food and Agriculture" for "the Cooperative State Research, Education, and Extension Service".
 
 Subsec. (a)(4), (5). Pub. L. 110–246, §12026(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (b)(1). Pub. L. 110–246, §2801(a), inserted “Hawaii,” after “Delaware,”.
+Subsec. (b)(1). Pub. L. 110–246, §2801(a), inserted "Hawaii," after "Delaware,".
 
-Subsec. (b)(3). Pub. L. 110–246, §1603(g)(3), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308(5) of this title)”.
+Subsec. (b)(3). Pub. L. 110–246, §1603(g)(3), inserted "(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)" after "section 1308(5) of this title)".
 
-Subsec. (b)(4)(B)(i). Pub. L. 110–246, §2801(b)(1), substituted “Except as provided in clause (ii)” for “Except as provided in clauses (ii) and (iii)”.
+Subsec. (b)(4)(B)(i). Pub. L. 110–246, §2801(b)(1), substituted "Except as provided in clause (ii)" for "Except as provided in clauses (ii) and (iii)".
 
 Subsec. (b)(4)(B)(ii), (iii). Pub. L. 110–246, §2801(b)(2), added cl. (ii) and struck out former cls. (ii) and (iii) which related to exception for fiscal years 2003 through 2007 and minimum amounts to carry out certain uses.
 
 Subsec. (b)(4)(C). Pub. L. 110–246, §2801(c), added subpar. (C).
 
-<b>2004</b>—Subsec. (b)(4)(B)(i). Pub. L. 108–199, §769(1), substituted “clauses (ii) and (iii)” for “clause (ii)”.
+<b>2004</b>—Subsec. (b)(4)(B)(i). Pub. L. 108–199, §769(1), substituted "clauses (ii) and (iii)" for "clause (ii)".
 
 Subsec. (b)(4)(B)(iii). Pub. L. 108–199, §769(2), added cl. (iii).
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–171 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
-“(1)
+"(1)
 
 Authority.—The Secretary shall provide cost share assistance to producers, in a manner determined by the Secretary, in not less than 10, nor more than 15, States in which participation in the Federal crop insurance program is historically low, as determined by the Secretary.
 
-“(2)
+"(2)
 
 Uses.—A producer may use cost share assistance provided under this subsection to—
 
-&emsp;“(A) construct or improve—
+&emsp;"(A) construct or improve—
 
-&emsp;&emsp;“(i) watershed management structures; or
+&emsp;&emsp;"(i) watershed management structures; or
 
-&emsp;&emsp;“(ii) irrigation structures;
+&emsp;&emsp;"(ii) irrigation structures;
 
-&emsp;“(B) plant trees to form windbreaks or to improve water quality;
+&emsp;"(B) plant trees to form windbreaks or to improve water quality;
 
-&emsp;“(C) mitigate financial risk through production diversification or resource conservation practices, including—
+&emsp;"(C) mitigate financial risk through production diversification or resource conservation practices, including—
 
-&emsp;&emsp;“(i) soil erosion control;
+&emsp;&emsp;"(i) soil erosion control;
 
-&emsp;&emsp;“(ii) integrated pest management; or
+&emsp;&emsp;"(ii) integrated pest management; or
 
-&emsp;&emsp;“(iii) transition to organic farming;
+&emsp;&emsp;"(iii) transition to organic farming;
 
-&emsp;“(D) enter into futures, hedging, or options contracts in a manner designed to help reduce production, price, or revenue risk;
+&emsp;"(D) enter into futures, hedging, or options contracts in a manner designed to help reduce production, price, or revenue risk;
 
-&emsp;“(E) enter into agricultural trade options as a hedging transaction to reduce production, price, or revenue risk; or
+&emsp;"(E) enter into agricultural trade options as a hedging transaction to reduce production, price, or revenue risk; or
 
-&emsp;“(F) conduct any other activity related to the activities described in subparagraphs (A) through (E), as determined by the Secretary.
+&emsp;"(F) conduct any other activity related to the activities described in subparagraphs (A) through (E), as determined by the Secretary.
 
-“(2)
+"(2)
 
 Payment limitation.—The total amount of payments made to a person (as defined in section 1308(5) of this title) under this subsection for any year may not exceed $50,000.
 
-“(3)
+"(3)
 
 Commodity credit corporation.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The Secretary shall carry out this subsection through the Commodity Credit Corporation.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Funding.—The Commodity Credit Corporation shall make available to carry out this subsection $10,000,000 for fiscal year 2001 and each subsequent fiscal year.”
+Funding.—The Commodity Credit Corporation shall make available to carry out this subsection $10,000,000 for fiscal year 2001 and each subsequent fiscal year."
 
 #### Effective Date of 2008 Amendment
 

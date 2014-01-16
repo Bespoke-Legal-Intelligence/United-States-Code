@@ -6,7 +6,7 @@ If any provision of section 941b(a), 941c, or 941d of this title is rendered inv
 
 #### (b) Interpretation consistent with Settlement Agreement
 
-To the extent possible, this subchapter shall be construed in a manner consistent with the Settlement Agreement and the State Act. In the event of a conflict between the provisions of this subchapter and the Settlement Agreement or the State Act, the terms of this subchapter shall govern. In the event of a conflict between the State Act and the Settlement Agreement, the terms of the State Act shall govern. The Settlement Agreement and the State Act shall be maintained on file and available for public inspection at the Department of the Interior.
+To the extent possible, this subchapter shall be construed in a manner consistent with the Settlement Agreement and the State Act. In the event of a conflict between the provisions of this subchapter and the Settlement Agreement or the State Act, the terms of this subchapter shall govern. In the event of a conflict between theState Act and the Settlement Agreement, the terms of the State Act shall govern. The Settlement Agreement and the State Act shall be maintained on file and available for public inspection at the Department of the Interior.
 
 #### (c) Laws and regulations of United States
 
@@ -14,7 +14,7 @@ The provisions of any Federal law enacted after October 27, 1993, for the benefi
 
 #### (d) Eligibility for consideration to become enterprise zone or general purpose foreign trade zone
 
-Notwithstanding the provisions of any other law or regulation, the Tribe shall be eligible to become, sponsor and operate (1) an “enterprise zone” pursuant to title VII of the Housing and Community Development Act of 1987 (42 U.S.C. 11501–11505) or any other applicable Federal (or State) laws or regulations; or (2) a “foreign-trade zone” or “subzone” pursuant to the Foreign Trade Zones Act of 1934, as amended (19 U.S.C. 81a–81u) and the regulations thereunder, to the same extent as other federally recognized Indian Tribes.
+Notwithstanding the provisions of any other law or regulation, the Tribe shall be eligible to become, sponsor and operate (1) an "enterprise zone" pursuant to title VII of the Housing and Community Development Act of 1987 (42 U.S.C. 11501–11505) or any other applicable Federal (or State) laws or regulations; or (2) a "foreign-trade zone" or "subzone" pursuant to the Foreign Trade Zones Act of 1934, as amended (19 U.S.C. 81a–81u) and the regulations thereunder, to the same extent as other federally recognized Indian Tribes.
 
 #### (e) General applicability of State law
 
@@ -40,5 +40,5 @@ The Housing and Community Development Act of 1987, referred to in subsec. (d), i
 
 The Foreign Trade Zones Act of 1934, referred to in subsec. (d), probably means act June 18, 1934, ch. 590, 48 Stat. 998, as amended, popularly known as the Foreign Trade Zones Act, which is classified generally to chapter 1A (§81a et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “specifically”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "specifically".</i>
 

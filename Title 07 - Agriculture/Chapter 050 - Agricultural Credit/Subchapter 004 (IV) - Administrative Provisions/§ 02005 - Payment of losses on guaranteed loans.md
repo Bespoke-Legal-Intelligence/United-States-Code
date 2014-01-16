@@ -36,9 +36,9 @@
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsec. (a), see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in subsec. (a), see note set out under section 1921 of this title.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b)(1), (2). Pub. L. 101–624 substituted “1981(b)(4)” for “1981(d)”.
+<b>1990</b>—Subsec. (b)(1), (2). Pub. L. 101–624 substituted "1981(b)(4)" for "1981(d)".
 

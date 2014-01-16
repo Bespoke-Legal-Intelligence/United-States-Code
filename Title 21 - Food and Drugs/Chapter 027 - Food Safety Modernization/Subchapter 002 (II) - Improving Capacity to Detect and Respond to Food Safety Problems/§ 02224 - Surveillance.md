@@ -2,7 +2,7 @@
 
 #### (a) Definition of foodborne illness outbreak
 
-In this Act, the term “foodborne illness outbreak” means the occurrence of 2 or more cases of a similar illness resulting from the ingestion of a certain food.
+In this Act, the term "foodborne illness outbreak" means the occurrence of 2 or more cases of a similar illness resulting from the ingestion of a certain food.
 
 #### (b) Foodborne illness surveillance systems
 
@@ -26,7 +26,7 @@ In this Act, the term “foodborne illness outbreak” means the occurrence of 2
 
 &emsp;&emsp;(H) establishing a flexible mechanism for rapidly initiating scientific research by academic institutions;
 
-&emsp;&emsp;(I) integrating foodborne illness surveillance systems and data with other biosurveillance and public health situational awareness capabilities at the Federal, State, and local levels, including by sharingfoodborne illness surveillance data with the National Biosurveillance Integration Center; and
+&emsp;&emsp;(I) integrating foodborne illness surveillance systems and data with other biosurveillance and public health situational awareness capabilities at the Federal, State, and local levels, including by sharing foodborne illness surveillance data with the National Biosurveillance Integration Center; and
 
 &emsp;&emsp;(J) other activities as determined appropriate by the Secretary.
 
@@ -92,5 +92,5 @@ The Secretary, referred to in subsecs. (b) and (c)(1), (2)(D), probably means th
 
 Section is comprised of section 205 of Pub. L. 111–353. Subsec. (d) of section 205 of Pub. L. 111–353 amended section 247b–20 of Title 42, The Public Health and Welfare.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "of".</i>
 

@@ -56,7 +56,7 @@ If, at any time, the President makes a determination pursuant to section 5604(a)
 
 #### (C) Further export restrictions
 
-&emsp;&emsp;The authorities of section 2405 of title 50, Appendix, shall be used to prohibit exports to that country of all other goods and technology (excluding food and other agricultural commodities and products).
+&emsp;&emsp;The authorities of section 2405 of title 50, Appendix, shall be used to prohibit exportsto that country of all other goods and technology (excluding food and other agricultural commodities and products).
 
 #### (D) Import restrictions
 
@@ -78,7 +78,7 @@ If, at any time, the President makes a determination pursuant to section 5604(a)
 
 &emsp;&emsp;(iii) The Secretary of Transportation may provide for such exceptions from clauses (i) and (ii) as the Secretary considers necessary to provide for emergencies in which the safety of an aircraft or its crew or passengers is threatened.
 
-&emsp;&emsp;(iv) For purposes of this subparagraph, the terms “air transportation”, “air carrier”, “foreign air carrier”, and “foreign air transportation” have the meanings such terms have under section 40102(a) of title 49.
+&emsp;&emsp;(iv) For purposes of this subparagraph, the terms "air transportation", "air carrier", "foreign air carrier", and "foreign air transportation" have the meanings such terms have under section 40102(a) of title 49.
 
 #### (c) Removal of sanctions
 
@@ -134,7 +134,7 @@ Section 304(b) of this title, referred to in subsec. (e)(1)(B), is section 304(b
 
 #### Codification
 
-In subsec. (b)(2)(F)(iv), “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (b)(2)(F)(iv), "section 40102(a) of title 49" substituted for "section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Delegation of Functions
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “Institute” means the Transportation Safety Institute of the Department of Transportation and any successor organization of the Institute.
+Definition.—In this section, "Institute" means the Transportation Safety Institute of the Department of Transportation and any successor organization of the Institute.
 
 (b)
 
@@ -52,15 +52,15 @@ Jan. 3, 1975, Pub. L. 93–633, §304(b)(10), 88 Stat. 2156; added July 19, 1988
 
 49 App.:1903(b)(10) (3d–last sentences).
 
-In subsections (b) and (c), the words “or successor organization” are omitted as unnecessary because of subsection (a) of this section.
+In subsections (b) and (c), the words "or successor organization" are omitted as unnecessary because of subsection (a) of this section.
 
-In subsection (b), before clause (1), the words “(established for the purpose of developing courses and conducting training in safety and security for all modes of transportation)” are omitted as surplus. In clause (1), the words “carrying out their duties and powers” are substituted for “in the performance of all of their authorized functions” for consistency in the revised title and with other titles of the United States Code. In clause (2), the words “of the United States Government, State and local governments, governments of foreign countries, interstate authorities, and private organizations” are substituted for “of Federal, interstate, State, local, and foreign governments and non-governmental organizations” for clarity and consistency in the revised title and with other titles of the Code.
+In subsection (b), before clause (1), the words "(established for the purpose of developing courses and conducting training in safety and security for all modes of transportation)" are omitted as surplus. In clause (1), the words "carrying out their duties and powers" are substituted for "in the performance of all of their authorized functions" for consistency in the revised title and with other titles of the United States Code. In clause (2), the words "of the United States Government, State and local governments, governments of foreign countries, interstate authorities, and private organizations" are substituted for "of Federal, interstate, State, local, and foreign governments and non-governmental organizations" for clarity and consistency in the revised title and with other titles of the Code.
 
-In subsection (c)(1), before clause (A), the words “the Secretary shall deposit the fee in the Treasury” are added for clarity. In clause (B), the words “direct and indirect” are omitted as surplus. The word “administration” is omitted as being included in “operating”. The text of 49 App.:1903(b)(10) (last sentence) is omitted because 5:ch. 41 applies to the National Transportation Safety Board by its own terms.
+In subsection (c)(1), before clause (A), the words "the Secretary shall deposit the fee in the Treasury" are added for clarity. In clause (B), the words "direct and indirect" are omitted as surplus. The word "administration" is omitted as being included in "operating". The text of 49 App.:1903(b)(10) (last sentence) is omitted because 5:ch. 41 applies to the National Transportation Safety Board by its own terms.
 
 #### Amendments
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–424 substituted “of the Board” for “of the ‘National Transportation Safety Board, Salaries and Expenses’ ”.
+<b>2000</b>—Subsec. (d). Pub. L. 106–424 substituted "of the Board" for "of the 'National Transportation Safety Board, Salaries and Expenses' ".
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–291 added subsec. (d).
 

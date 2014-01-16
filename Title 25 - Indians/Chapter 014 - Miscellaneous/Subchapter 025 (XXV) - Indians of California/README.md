@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00651 - &#8220;Indians of California&#8221; defined](%C2%A7%2000651%20-%20%E2%80%9CIndians%20of%20California%E2%80%9D%20defined.md)
+- [&sect; 00651 - Indians of California defined](%C2%A7%2000651%20-%20Indians%20of%20California%20defined.md)
 - [&sect; 00652 - Claims against United States for appropriated lands; submission to United States Court of Federal Claims; appeal; grounds for relief](%C2%A7%2000652%20-%20Claims%20against%20United%20States%20for%20appropriated%20lands%3B%20submission%20to%20United%20States%20Court%20of%20Federal%20Claims%3B%20appeal%3B%20grounds%20for%20relief.md)
 - [&sect; 00653 - Statutes of limitations unavailable against claims; amount of decree; set-off](%C2%A7%2000653%20-%20Statutes%20of%20limitations%20unavailable%20against%20claims%3B%20amount%20of%20decree%3B%20set-off.md)
 - [&sect; 00654 - Claims presented by petition; filing date; amendment; signature and verification; official letters, documents, etc., furnished](%C2%A7%2000654%20-%20Claims%20presented%20by%20petition%3B%20filing%20date%3B%20amendment%3B%20signature%20and%20verification%3B%20official%20letters%2C%20documents%2C%20etc.%2C%20furnished.md)

@@ -22,7 +22,7 @@ For purposes of section 300x of this title, an application for a grant under suc
 
 In the case of any territory of the United States except Puerto Rico, the Secretary may waive such provisions of this subpart and subpart III as the Secretary determines to be appropriate, other than the provisions of section 300x–5 of this title.
 
-(July 1, 1944, ch. 373, title XIX, §1917, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 384; amended Pub. L. 106–310, div. B, title XXXII, §3204(d), (e), Oct. 17, 2000, 114 Stat. 1193.)
+(July 1, 1944, ch. 373, title XIX, §1917, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106Stat. 384; amended Pub. L. 106–310, div. B, title XXXII, §3204(d), (e), Oct. 17, 2000, 114 Stat. 1193.)
 
 #### References in Text
 
@@ -36,9 +36,9 @@ A prior section 1917 of act July 1, 1944, was classified to section 300x–5 of 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–310, §3204(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the State involved submits the application not later than the date specified by the Secretary as being the date after which applications for such a grant will not be considered (in any case in which the Secretary specifies such a date);”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–310, §3204(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "the State involved submits the application not later than the date specified by the Secretary as being the date after which applications for such a grant will not be considered (in any case in which the Secretary specifies such a date);".
 
-Subsec. (b). Pub. L. 106–310, §3204(e), substituted “except Puerto Rico” for “whose allotment under section 300x of this title for the fiscal year is the amount specified in section 300x–7(c)(2)(B) of this title”.
+Subsec. (b). Pub. L. 106–310, §3204(e), substituted "except Puerto Rico" for "whose allotment under section 300x of this title for the fiscal year is the amount specified in section 300x–7(c)(2)(B) of this title".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

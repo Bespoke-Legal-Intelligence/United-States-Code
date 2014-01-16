@@ -14,13 +14,19 @@ As used in this subchapter:
 
 &emsp;(2) The terms “sequester” and “sequestration” refer to or mean the cancellation of budgetary resources provided by discretionary appropriations or direct spending law.
 
-&emsp;(3) The term “breach” means, for any fiscal year, the amount (if any) by which new budget authority or outlays for that year (within a category of discretionary appropriations) isabove that category's discretionary spending limit for new budget authority or outlays for that year, as the case may be.
+&emsp;(3) The term “breach” means, for any fiscal year, the amount (if any) by which new budget authority or outlays for that year (within a category of discretionary appropriations) is above that category's discretionary spending limit for new budget authority or outlays for that year, as the case may be.
 
 &emsp;(4)(A) The term “nonsecurity category” means all discretionary appropriations not included in the security category defined in subparagraph (B).
 
 &emsp;(B) The term “security category” includes discretionary appropriations associated with agency budgets for the Department of Defense, the Department of Homeland Security, the Department of Veterans Affairs, the National Nuclear Security Administration, the intelligence community management account (95–0401–0–1–054), and all budget accounts in budget function 150 (international affairs).
 
 &emsp;(C) The term “discretionary category” includes all discretionary appropriations.
+
+&emsp;(D) The term “revised security category” means discretionary appropriations in budget function 050.
+
+&emsp;(E) The term “revised nonsecurity category” means discretionary appropriations other than in budget function 050.
+
+&emsp;(F) The term “category” means the subsets of discretionary appropriations in section 901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the Committees on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
 
 &emsp;(5) The term “baseline” means the projection (described in section 907 of this title) of current-year levels of new budget authority, outlays, receipts, and the surplus or deficit into the budget year and the outyears.
 
@@ -74,23 +80,25 @@ As used in this subchapter:
 
 &emsp;&emsp;(D) temporary, which means not of a permanent duration.
 
-(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(c), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §8001(b), Aug. 10, 2005, 119 Stat. 1915; Pub. L. 111–139, title I, §9(a), Feb. 12, 2010, 124 Stat. 21; Pub. L. 112–25, title I, §102, Aug. 2, 2011, 125 Stat. 245.)
+(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(c), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §8001(b), Aug. 10, 2005, 119 Stat. 1915; Pub. L. 111–139, title I, §9(a), Feb. 12, 2010, 124 Stat. 21; Pub. L. 112–25, title I, §102, Aug. 2, 2011, 125 Stat. 245; Pub. L. 113–67, div. A, title I, §101(d)(1), Dec. 26, 2013, 127 Stat. 1168.)
 
 #### References in Text
 
 House Concurrent Resolution 84, referred to in subsec. (b), is H. Con. Res. 84, June 5, 1997, 111 Stat. 2710, which is not classified to the Code.
 
-The Balanced Budget Act of 1997, referred to in subsec. (c)(17), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
+The Balanced Budget Act of 1997, referred to in subsec. (c)(4)(F), (17), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
 
-The Congressional Budget Act of 1974, referred to in subsec. (c)(19), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title V of the Act, known as the Federal Credit Reform Act of 1990, was added by Pub. L. 101–508, title XIII, §13201(a), Nov.5, 1990, 104 Stat. 1388–609, and is classified generally to subchapter III (§661 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (c)(19), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title V of the Act, known as the Federal Credit Reform Act of 1990, was added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and is classified generally to subchapter III (§661 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
-Subsection (a) of this section, which provided a partial table of contents for this subchapter was omitted from the Code.
+Subsection (a) of this section, which provided a partial table of contents for this subchapter, was omitted from the Code.
 
 Pub. L. 101–508, §13101(b), transferred section 257(12) of Pub. L. 99–177, which was classified to section 907(12) of this title, to subsec. (c)(21) (now (c)(19)) of this section.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(4)(D) to (F). Pub. L. 113–67 added subpars. (D) to (F).
 
 <b>2011</b>—Subsec. (c)(4). Pub. L. 112–25, §102(1), added par. (4) and struck out former par. (4) which defined the terms “category”, “highway category”, “mass transit category”, “conservation spending category”, “Federal and State Land and Water Conservation Fund sub-category”, “State and Other Conservation sub-category”, “Urban and Historic Preservation sub-category”, “Payments in Lieu of Taxes sub-category”, “Federal Deferred Maintenance sub-category”, and “Coastal Assistance sub-category” and provided a special rule for outlays in excess of the discretionary spending limit for the highway or mass transit category.
 
@@ -184,6 +192,10 @@ Pub. L. 103–66, title XIV, §14002(c)(3)(A), Aug. 10, 1993, 107 Stat. 684, whi
 
 Pub. L. 99–177, title II, §275, Dec. 12, 1985, 99 Stat. 1100, as amended by Pub. L. 100–119, title I, §106(c), title II, §210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, §10212(a), Aug. 5, 1997, 111 Stat. 712, which provided that, except as otherwise provided in section 275, amendments by title II of Pub. L. 99–177 were effective Dec. 12, 1985, and applicable to fiscal years beginning after Sept. 30, 1985; that amendment by section 201(a)(2) of Pub. L. 99–177 (amending section 622(2) of this title), and amendment by section 201(b) of Pub. L. 99–177 (insofar as it relates to section 633(c), (f), and (g) of this title and to section 641(c), (d), and (g) of this title), were effective Apr. 15, 1986; that amendment by section 212 of Pub. L. 99–177 (amending section 652 of this title) was effective Feb. 1, 1986; that sections 251, 253, 258B, and 271(b) of Pub. L. 99–177 (sections 901, 903, and 907c of this title and provisions set out as a note below), and sections 1105(f) and 1106(c) of title 31, United States Code, were to expire Sept. 30, 2002; that the remaining sections of part C of title II of Pub. L. 99–177 (enacting this subchapter) were to expire Sept. 30, 2006; and that amendments by part D of title II of Pub. L. 99–177 (amending section 911 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 911 of Title 42) were applicable as provided in that part, was repealed by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 
+#### Short Title of 2013 Amendment
+
+Pub. L. 113–67, div. A, §1(a), Dec. 26, 2013, 127 Stat. 1165, provided that: “This division \[see Tables for classification\] may be cited as the ‘Bipartisan Budget Act of 2013’.”
+
 #### Short Title of 2011 Amendment
 
 Pub. L. 112–25, §1(a), Aug. 2, 2011, 125 Stat. 240, provided that: “This Act \[enacting section 901a of this title and section 3101A of Title 31, Money and Finance, amending this section and sections 622, 645, 901, and 904 of this title, sections 1070a and 1087e of Title 20, Education, and section 3101 of Title 31, enacting provisions set out as notes under this section and sections 631 and 902 of this title and section 1089 of Title 20, amending provisions set out as a note under section 621 of this title, and repealing provisions set out as a note under this section\] may be cited as the ‘Budget Control Act of 2011’.”
@@ -198,7 +210,7 @@ Pub. L. 101–508, title XIII, §13001(a), Nov. 5, 1990, 104 Stat. 1388–573, p
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–119, title I, §101(b), Sept. 29, 1987, 101 Stat. 754, provided that: “This title \[enacting section 908 of this title, amending sections 622, 632, 642, 901 to 907, and 922 of this title and section 1105 of Title 31, Money and Finance, enacting provisions set out as notes under section 1395ww of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section901 of this title and sections 1320b–8 and 1395ww of Title 42\] may be cited as the ‘Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987’.”
+Pub. L. 100–119, title I, §101(b), Sept. 29, 1987, 101 Stat. 754, provided that: “This title \[enacting section 908 of this title, amending sections 622, 632, 642, 901 to 907, and 922 of this title and section 1105 of Title 31, Money and Finance, enacting provisions set out as notes under section 1395ww of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 901 of this title and sections 1320b–8 and 1395ww of Title 42\] may be cited as the ‘Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987’.”
 
 #### Short Title
 
@@ -322,7 +334,7 @@ Date.—Members of the joint committee shall be appointed not later than 14 cale
 
 &emsp;&emsp;“(E)
 
-Period of appointment.—Members shall be appointed for the life of the joint committee. Any vacancy in the joint committee shall not affect its powers, but shall be filled not later than 14 calendar days after the date on which the vacancy occurs, in the same manner as the original designation was made. If a member of the joint committee ceases to be a Member of the House of Representatives or theSenate, as the case may be, the member is no longer a member of the joint committee and a vacancy shall exist.
+Period of appointment.—Members shall be appointed for the life of the joint committee. Any vacancy in the joint committee shall not affect its powers, but shall be filled not later than 14 calendar days after the date on which the vacancy occurs, in the same manner as the original designation was made. If a member of the joint committee ceases to be a Member of the House of Representatives or the Senate, as the case may be, the member is no longer a member of the joint committee and a vacancy shall exist.
 
 &emsp;“(5)
 
@@ -524,7 +536,7 @@ Pub. L. 108–7, div. B, title II, §214, Feb. 20, 2003, 117 Stat. 82, provided 
 
 “(a) Hereafter, habitat conservation activities, enforcement and surveillance—cooperative enforcement and vessel monitoring, stock assessments—data collection, and highly migratory shark fishery research under the heading, ‘National Oceanic and Atmospheric Administration, Operations, Research and Facilities’, shall be considered to be within the ‘Coastal Assistance sub-category’ in \[former\] section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[former 2 U.S.C. 900(c)(4)(K)\].
 
-“(b) For fiscal year 2004 and thereafter, response and restoration activities, Cooperative Research, Protected Species activities, Endangered Species Act—Marine Mammals, Sea Turtles and Other Species, Endangered Species Act—Right Whales, Marine Mammal Protection, and Sea Grant (except for the fellowship program)under the heading, ‘National Oceanic and Atmospheric Administration, Operations, Research, and Facilities’, shall be considered to be within the ‘Coastal Assistance sub-category’ in \[former\] section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[former 2 U.S.C. 900(c)(4)(K)\].
+“(b) For fiscal year 2004 and thereafter, response and restoration activities, Cooperative Research, Protected Species activities, Endangered Species Act—Marine Mammals, Sea Turtles and Other Species, Endangered Species Act—Right Whales, Marine Mammal Protection, and Sea Grant (except for the fellowship program) under the heading, ‘National Oceanic and Atmospheric Administration, Operations, Research, and Facilities’, shall be considered to be within the ‘Coastal Assistance sub-category’ in \[former\] section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[former 2 U.S.C. 900(c)(4)(K)\].
 
 “(c) All references to outlays in title VIII of Public Law 106–291 \[amending this section and section 901 of this title\] are repealed.”
 
@@ -546,7 +558,7 @@ Pub. L. 99–177, title II, §271(b), Dec. 12, 1985, 99 Stat. 1094, as amended b
 
 #### Appeals of Rulings
 
-Pub. L. 99–177, title II, §271(c), as added by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title\].”
+Pub. L. 99–177, title II, §271(c), as added by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 \[sections 632(i),633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title\].”
 
 #### Exercise of Congressional Rulemaking Power
 
@@ -576,7 +588,7 @@ Pub. L. 99–177, title II, §271(d), formerly §271(c), Dec. 12, 1985, 99 Stat.
 
 #### Restoration of Trust Fund Investments; Funds Borrowed or Not Invested During Delays in Raising Public Debt Limit
 
-For provisions restoring various trust and retirement funds administered by the Secretary of the Treasury to the position in which they would have been if debt limit increases had been delayed, including transferring amounts to the funds to compensate those fundsfor current and prospective losses arising from premature redemption of some long term securities when the debt limit was reached, see notes set out under section 3101 of Title 31, Money and Finance.
+For provisions restoring various trust and retirement funds administered by the Secretary of the Treasury to the position in which they would have been if debt limit increases had been delayed, including transferring amounts to the funds to compensate those funds for current and prospective losses arising from premature redemption of some long term securities when the debt limit was reached, see notes set out under section 3101 of Title 31, Money and Finance.
 
 #### Executive Order No. 12857
 
@@ -612,7 +624,7 @@ Sec. 2. <i>Deficit Reduction Fund.</i>
 
 (ii) The amounts in the Deficit Reduction Fund as set forth in subsection (b) that result from increases in total revenues and spending reductions shall not be available for new spending or to finance measures that increase the deficit for purposes of budget enforcement procedures under the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901–922 \[900–922\]).
 
-(d) <i>Effect on Other Funds</i>. Establishment of and transfers to the Deficit Reduction Fund shall not affect trust fund transfers that may be authorized or required by provisions of the Omnibus Reconciliation Act of 1993 or any other provision of law.
+(d) <i>Effect on Other Funds</i>. Establishment of and transfers to the Deficit Reduction Fund shall not affect trust fund transfers that may be authorized or requiredby provisions of the Omnibus Reconciliation Act of 1993 or any other provision of law.
 
 Sec. 3. <i>Requirement for the President To Report Annually on the Status of the Fund</i>. The Director of the Office of Management and Budget shall include in the President's Budget transmitted under section 1105 of title 31, United States Code, information about the Deficit Reduction Fund, including a separate statement of amounts in and Federal debt redeemed by that Fund.
 

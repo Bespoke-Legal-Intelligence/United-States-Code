@@ -15,4 +15,4 @@
 - [&sect; 01203 - Payment to States](%C2%A7%2001203%20-%20Payment%20to%20States.md)
 - [&sect; 01204 - Operation of State plans](%C2%A7%2001204%20-%20Operation%20of%20State%20plans.md)
 - [&sect; 01205 - Omitted](%C2%A7%2001205%20-%20Omitted.md)
-- [&sect; 01206 - &#8220;Aid to the blind&#8221; defined](%C2%A7%2001206%20-%20%E2%80%9CAid%20to%20the%20blind%E2%80%9D%20defined.md)
+- [&sect; 01206 - Aid to the blind defined](%C2%A7%2001206%20-%20Aid%20to%20the%20blind%20defined.md)

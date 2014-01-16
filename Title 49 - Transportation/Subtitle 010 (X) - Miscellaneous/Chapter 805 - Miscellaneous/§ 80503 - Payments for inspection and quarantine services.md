@@ -4,9 +4,9 @@
 
 General.—(1) In this subsection—
 
-&emsp;(A) “private aircraft” means a civilian aircraft not being used to transport passengers or property for compensation.
+&emsp;(A) "private aircraft" means a civilian aircraft not being used to transport passengers or property for compensation.
 
-&emsp;(B) “private vessel” means a civilian vessel not being used—
+&emsp;(B) "private vessel" means a civilian vessel not being used—
 
 &emsp;&emsp;(i) to transport passengers or property for compensation; or
 
@@ -54,11 +54,11 @@ May 21, 1970, Pub. L. 91–258, §53(a)–(d), 84 Stat. 236.
 
 May 21, 1970, Pub. L. 91–258, 84 Stat. 219, §53(e); added Oct. 22, 1986, Pub. L. 99–514, §1893(f), 100 Stat. 2930.
 
-In subsection (a)(1), the word “passengers” is substituted for “persons” for consistency in the revised title and with other titles of the United States Code. The word “hire” is omitted as being included in “compensation”. In clause (B)(ii), the words “fishing or fish processing operations” are substituted for “fishing operations or in processing of fish or fish products” to eliminate unnecessary words.
+In subsection (a)(1), the word "passengers" is substituted for "persons" for consistency in the revised title and with other titles of the United States Code. The word "hire" is omitted as being included in "compensation". In clause (B)(ii), the words "fishing or fish processing operations" are substituted for "fishing operations or in processing of fish or fish products" to eliminate unnecessary words.
 
-In subsection (a)(2), the words “or any other provisions of law” are omitted as unnecessary. The words “on or after July 1, 1970” are omitted as executed. The words “upon the request of such owner, operator, or agent” are omitted as unnecessary. The words “from 5 p.m. through 8 a.m.” are substituted for “at any time after 5 o'clock postmeridian or before 8 o'clock antemeridian” to eliminate unnecessary words. The words “Notwithstanding any other provision of law” are omitted as unnecessary because of the restatement. The words “the owner, operator, or agent does not have to pay” are substituted for “no payment shall be required” for clarity. The words “from 5 p.m. through 8 a.m.” after “the services” are added for clarity. The words “an officer or employee on regular duty” are substituted for “an officer or employee stationed on his regular tour of duty” to eliminate unnecessary words.
+In subsection (a)(2), the words "or any other provisions of law" are omitted as unnecessary. The words "on or after July 1, 1970" are omitted as executed. The words "upon the request of such owner, operator, or agent" are omitted as unnecessary. The words "from 5 p.m. through 8 a.m." are substituted for "at any time after 5 o'clock postmeridian or before 8 o'clock antemeridian" to eliminate unnecessary words. The words "Notwithstanding any other provision of law" are omitted as unnecessary because of the restatement. The words "the owner, operator, or agent does not have to pay" are substituted for "no payment shall be required" for clarity. The words "from 5 p.m. through 8 a.m." after "the services" are added for clarity. The words "an officer or employee on regular duty" are substituted for "an officer or employee stationed on his regular tour of duty" to eliminate unnecessary words.
 
-In subsection (b)(1), the words “related to the aircraft” are substituted for “as a consequence of the operation of aircraft”, and the words “a place of inspection” are substituted for “at airports of entry or other places of inspection”, to eliminate unnecessary words. The words “The head of the department, agency, or instrumentality may not assess” are substituted for “shall not be assessed against” because of the restatement. The word “expenses” is substituted for “costs” for consistency in this section.
+In subsection (b)(1), the words "related to the aircraft" are substituted for "as a consequence of the operation of aircraft", and the words "a place of inspection" are substituted for "at airports of entry or other places of inspection", to eliminate unnecessary words. The words "The head of the department, agency, or instrumentality may not assess" are substituted for "shall not be assessed against" because of the restatement. The word "expenses" is substituted for "costs" for consistency in this section.
 
 #### Transfer of Functions
 

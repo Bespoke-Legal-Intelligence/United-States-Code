@@ -36,7 +36,7 @@ Not sooner than the expiration of the 3-year period beginning on February 10, 19
 
 #### (2) Revising test
 
-&emsp;Upon the expiration of the 8-year period beginning on December 13, 1991, the Director shall examine the risk-based capital testunder subsection (a) of this section and may revise the test. In making examinations and revisions under this paragraph, the Director shall take into account that, before December 13, 1991, the Corporation has not issued guarantees for pools of qualified loans. To the extent that the revision of the risk-based capital test causes a change in the classification of the Corporation within the enforcement levels established under section 2279bb–4 of this title, the Director shall waive the applicability of any additional enforcement actions available because of such change for a reasonable period of time, to permit the Corporation to increase the amount of regulatory capital of the Corporation accordingly.
+&emsp;Upon the expiration of the 8-year period beginning on December 13, 1991, the Director shall examine the risk-based capital test under subsection (a) of this section and may revise the test. In making examinations and revisions under this paragraph, the Director shall take into account that, before December 13, 1991, the Corporation has not issued guarantees for pools of qualified loans. To the extent that the revision of the risk-based capital test causes a change in the classification of the Corporation within the enforcement levels established under section 2279bb–4 of this title, the Director shall waive the applicability of any additional enforcement actions available because of such change for a reasonable period of time, to permit the Corporation to increase the amount of regulatory capital of the Corporation accordingly.
 
 #### (c) Risk-based capital level
 
@@ -78,19 +78,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §5406(d), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–105, §113(1), in first sentence, substituted “Not sooner than the expiration of the 3-year period beginning on February 10, 1996,” for “Not later than the expiration of the 2-year period beginning on December 13, 1991,”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–105, §113(1), in first sentence, substituted "Not sooner than the expiration of the 3-year period beginning on February 10, 1996," for "Not later than the expiration of the 2-year period beginning on December 13, 1991,".
 
-Subsec. (b)(1)(C). Pub. L. 104–105, §109(b)(3), substituted “Director may” for “Director shall” and inserted before semicolon at end “(as in effect before February 10, 1996)”.
+Subsec. (b)(1)(C). Pub. L. 104–105, §109(b)(3), substituted "Director may" for "Director shall" and inserted before semicolon at end "(as in effect before February 10, 1996)".
 
-Subsec. (b)(2). Pub. L. 104–105, §113(2), substituted “8-year” for “5-year” in first sentence.
+Subsec. (b)(2). Pub. L. 104–105, §113(2), substituted "8-year" for "5-year" in first sentence.
 
-Subsec. (d). Pub. L. 104–105, §113(3), designated first sentence of existing provisions as par. (1), inserted heading, added subpar. (A), and designated part of first sentence as subpar. (B), designated second sentence of existing provisions as par. (2), inserted heading, and substituted “The regulations referred to in paragraph (1) shall” for “The regulations shall”.
+Subsec. (d). Pub. L. 104–105, §113(3), designated first sentence of existing provisions as par. (1), inserted heading, added subpar. (A), and designated part of first sentence as subpar. (B), designated second sentence of existing provisions as par. (2), inserted heading, and substituted "The regulations referred to in paragraph (1) shall" for "The regulations shall".
 
-<b>1992</b>—Subsecs. (a), (b)(1)(D). Pub. L. 102–552, §308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section”.
+<b>1992</b>—Subsecs. (a), (b)(1)(D). Pub. L. 102–552, §308(b)(3)(A), substituted "December 13, 1991" for "the date of the enactment of this section".
 
-Subsec. (b)(1)(E). Pub. L. 102–552, §308(b)(3)(B), substituted “December 13, 1991” for “the date of the enactment of such Act”.
+Subsec. (b)(1)(E). Pub. L. 102–552, §308(b)(3)(B), substituted "December 13, 1991" for "the date of the enactment of such Act".
 
-Subsec. (b)(2). Pub. L. 102–552, §308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section” in two places.
+Subsec. (b)(2). Pub. L. 102–552, §308(b)(3)(A), substituted "December 13, 1991" for "the date of the enactment of this section" in two places.
 
 #### Effective Date of 2008 Amendment
 

@@ -10,7 +10,7 @@
 
 (e) The Archivist shall cause a seal of office to be made for the Administration of such design as the Archivist shall approve. Judicial notice shall be taken of such seal.
 
-(f) The Archivist may establish advisory committees to provide advice with respect to any function of the Archivist or the Administration. Members of any such committee shall serve without compensation but shall be entitled to transportation expenses and per diem in lieu of subsistence in accordance with section 5703 of title 5.
+(f) The Archivist may establish advisory committees to provide advice with respect to any function of the Archivist or the Administration.Members of any such committee shall serve without compensation but shall be entitled to transportation expenses and per diem in lieu of subsistence in accordance with section 5703 of title 5.
 
 (g) The Archivist shall advise and consult with interested Federal agencies with a view to obtaining their advice and assistance in carrying out the purposes of this chapter.
 

@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Initiative
 
-&emsp;The term “Initiative” means the specialty crop research and extension initiative established by subsection (b).
+&emsp;The term "Initiative" means the specialty crop research and extension initiative established by subsection (b).
 
 #### (2) Specialty crop
 
-&emsp;The term “specialty crop” has the meaning given that term in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note; Public Law 108–465).
+&emsp;The term "specialty crop" has the meaning given that term in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note; Public Law 108–465).
 
 #### (b) Establishment
 
@@ -130,9 +130,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Amendments
 
-<b>2013</b>—Subsec. (h)(1). Pub. L. 112–240, §701(e)(2)(A), substituted “Mandatory funding for fiscal years 2008 through 2012” for “In general” in heading.
+<b>2013</b>—Subsec. (h)(1). Pub. L. 112–240, §701(e)(2)(A), substituted "Mandatory funding for fiscal years 2008 through 2012" for "In general" in heading.
 
-Subsec. (h)(2). Pub. L. 112–240, §701(e)(2)(B), inserted “for fiscal years 2008 through 2012” after “appropriations” in heading.
+Subsec. (h)(2). Pub. L. 112–240, §701(e)(2)(B), inserted "for fiscal years 2008 through 2012" after "appropriations" in heading.
 
 Subsec. (h)(3) to (5). Pub. L. 112–240, §701(e)(2)(C), (D), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
@@ -146,7 +146,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Coordination of Projects and Activities
 
-Pub. L. 110–234, title VII, §7311(b), May 22, 2008, 122 Stat. 1245, and Pub. L. 110–246, §4(a), title VII, §7311(b), June 18, 2008, 122 Stat. 1664, 2006, provided that: “In carrying out the amendment made by this section \[enacting this section\], the Secretary \[of Agriculture\] shall ensure that the Division Chief of the applicable Research, Education, and Extension Office established under section 251 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6971) coordinates projects and activities under this section to ensure, to the maximum extent practicable, that unnecessary duplication of effort is eliminated or minimized.”
+Pub. L. 110–234, title VII, §7311(b), May 22, 2008, 122 Stat. 1245, and Pub. L. 110–246, §4(a), title VII, §7311(b), June 18, 2008, 122 Stat. 1664, 2006, provided that: "In carrying out the amendment made by this section \[enacting this section\], the Secretary \[of Agriculture\] shall ensure that the Division Chief of the applicable Research, Education, and Extension Office established under section 251 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6971) coordinates projects and activities under this section to ensure, to the maximum extent practicable, that unnecessary duplication of effort is eliminated or minimized."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

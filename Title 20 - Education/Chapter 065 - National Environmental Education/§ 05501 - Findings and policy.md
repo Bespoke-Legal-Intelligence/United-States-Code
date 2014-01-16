@@ -32,7 +32,7 @@ It is the policy of the United States to establish and support a program of educ
 
 #### Short Title
 
-Pub. L. 101–619, §1(a), Nov. 16, 1990, 104 Stat. 3325, provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Environmental Education Act’.”
+Pub. L. 101–619, §1(a), Nov. 16, 1990, 104 Stat. 3325, provided that: "This Act \[enacting this chapter\] may be cited as the 'National Environmental Education Act'."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 

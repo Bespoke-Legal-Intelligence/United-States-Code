@@ -10,11 +10,11 @@ Any action to enjoin or set aside an order issued under section 6382(a)(1)(B) of
 
 #### (c) Securing compliance with subpena
 
-Upon petition by the Comptroller General through any attorney employed by the Government Accountability Office or designated by the Comptroller General, or, upon request of theComptroller General, the Attorney General, any United States district court within the jurisdiction of which any inquiry under this part is carried on may, in the case of refusal to obey a subpena of the Comptroller General issued under this part, issue an order requiring compliance therewith; and any failure to obey the order of the court may be treated by the court as a contempt thereof.
+Upon petition by the Comptroller General through any attorney employed by the Government Accountability Office or designated by the Comptroller General, or, upon request of the Comptroller General, the Attorney General, any United States district court within the jurisdiction of which any inquiry under this part is carried on may, in the case of refusal to obey a subpena of the Comptroller General issued under this part, issue an order requiring compliance therewith; and any failure to obey the order of the court may be treated by the court as a contempt thereof.
 
 (Pub. L. 94–163, title V, §504, Dec. 22, 1975, 89 Stat. 959; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
 
-<b>2004</b>—Subsecs. (a), (c). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsecs. (a), (c). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 

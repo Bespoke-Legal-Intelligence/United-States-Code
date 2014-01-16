@@ -24,7 +24,7 @@ On or after November 13, 1998, a concessioner that constructs a capital improvem
 
 (1) A concessioner which has obtained a possessory interest as defined pursuant to Public Law 89–249 (commonly known as the National Park Service Concessions Policy Act; 16 U.S.C. 20 et seq.), as in effect on the day before November 13, 1998, under the terms of a concessions contract entered into before November 13, 1998, shall, upon the expiration or termination of such contract, be entitled to receive compensation for such possessory interest improvements in the amount and manner as described by such concessions contract. Where such a possessory interest is not described in the existing contract, compensation of possessory interest shall be determined in accordance with the laws in effect on the day before November 13, 1998.
 
-(2) In the event such prior concessioner is awarded a new concessions contract after the effective date of this subchapter replacing an existing concessions contract, the existing concessioner shall, instead of directly receiving such possessory interest compensation, have a leasehold surrender interest in its existing possessory interest improvements under the terms of the new contract and shall carry over as the initial value of such leasehold surrender interest (instead of construction cost) an amount equal to the value of the existing possessory interest as of the termination date of the previous contract. In the event of a dispute between the concessioner and the Secretary as to the value of such possessory interest, the matter shall be resolved through binding arbitration.
+(2) In the event such prior concessioner is awarded a new concessions contract after the effective date of this subchapter replacing an existing concessions contract, the existing concessioner shall, instead of directly receiving such possessory interest compensation, have a leasehold surrender interest in its existing possessory interest improvements under the terms of thenew contract and shall carry over as the initial value of such leasehold surrender interest (instead of construction cost) an amount equal to the value of the existing possessory interest as of the termination date of the previous contract. In the event of a dispute between the concessioner and the Secretary as to the value of such possessory interest, the matter shall be resolved through binding arbitration.
 
 (3) In the event that a new concessioner is awarded a concessions contract and is required to pay a prior concessioner for possessory interest in prior improvements, the new concessioner shall have a leasehold surrender interest in such prior improvements and the initial value in such leasehold surrender interest (instead of construction cost), shall be an amount equal to the value of the existing possessory interest as of the termination date of the previous contract.
 
@@ -42,11 +42,11 @@ For purposes of this section:
 
 #### (1) Consumer Price Index
 
-&emsp;The term “Consumer Price Index” means the “Consumer Price Index—All Urban Consumers” published by the Bureau of Labor Statistics of the Department of Labor, unless such index is not published, in which case another regularly published cost-of-living index approximating the Consumer Price Index shall be utilized by the Secretary; and
+&emsp;The term "Consumer Price Index" means the "Consumer Price Index—All Urban Consumers" published by the Bureau of Labor Statistics of the Department of Labor, unless such index is not published, in which case another regularly published cost-of-living index approximating the Consumer Price Index shall be utilized by the Secretary; and
 
 #### (2) Capital improvement
 
-&emsp;The term “capital improvement” means a structure, fixture, or nonremovable equipment provided by a concessioner pursuant to the terms of a concessions contract and located on lands of the United States within a unit of the National Park System.
+&emsp;The term "capital improvement" means a structure, fixture, or nonremovable equipment provided by a concessioner pursuant to the terms of a concessions contract and located on lands of the United States within a unit of the National Park System.
 
 #### (f) Special reporting requirement
 
@@ -70,5 +70,5 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### De Novo Review of Value Determination Decisions by United States Court of Federal Claims
 
-Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2107, provided in part that: “For fiscal year 2008 and hereafter, if the Secretary of the Interior, or either party to a value determination proceeding conducted under a National Park Service concession contract issued prior to November 13, 1998, considers that the value determination decision issued pursuant to the proceeding misinterprets or misapplies relevant contractual requirements or their underlying legal authority, the Secretary or either party may seek, within 180 days of any such decision, the de novo review of the value determination decision by the United States Court of Federal Claims. This court may make an order affirming, vacating, modifying or correcting the determination decision.”
+Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2107, provided in part that: "For fiscal year 2008 and hereafter, if the Secretary of the Interior, or either party to a value determination proceeding conducted under a National Park Service concession contract issued prior to November 13, 1998, considers that the value determination decision issued pursuant to the proceeding misinterprets or misapplies relevant contractual requirements or their underlying legal authority, the Secretary or either party may seek, within 180 days of any such decision, the de novo review of the value determination decision by the United States Court of Federal Claims. This court may make an order affirming, vacating, modifying or correcting the determination decision."
 

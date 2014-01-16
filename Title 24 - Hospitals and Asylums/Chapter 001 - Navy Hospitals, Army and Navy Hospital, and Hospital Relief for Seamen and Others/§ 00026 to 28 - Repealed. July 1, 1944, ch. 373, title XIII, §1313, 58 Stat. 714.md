@@ -6,7 +6,7 @@ Section 26a, R.S. §4803; acts June 26, 1884, ch. 121, §15, 23 Stat. 57; Mar. 3
 
 Section 27, act Mar. 3, 1919, ch. 98, §2, 40 Stat. 1302, provided for transfer of hospitals to Treasury Department for the Public Health Service. See section 248 of Title 42.
 
-Section 28, acts Mar. 3, 1919, ch. 98, §3, 40 Stat. 1303; Mar. 4, 1921, ch. 156, 41 Stat. 1365, provided for transferof property and equipment by Secretary of War to the Treasury Department for use of the Public Health Service.
+Section 28, acts Mar. 3, 1919, ch. 98, §3, 40 Stat. 1303; Mar. 4, 1921, ch. 156, 41 Stat. 1365, provided for transfer of property and equipment by Secretary of War to the Treasury Department for use of the Public Health Service.
 
 #### Renumbering of Repealing Act
 

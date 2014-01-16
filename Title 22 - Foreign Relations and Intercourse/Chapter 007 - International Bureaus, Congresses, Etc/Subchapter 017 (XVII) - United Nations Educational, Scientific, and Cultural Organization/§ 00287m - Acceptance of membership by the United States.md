@@ -1,6 +1,6 @@
 ### §287m. Acceptance of membership by the United States
 
-The President is hereby authorized to accept membership for the United States in the United Nations Educational, Scientific, and Cultural Organization (hereinafter referred to as the “Organization”), the constitution of which was approved in London on November 16, 1945, by the United Nations Conference for the establishment of an Educational, Scientific, and Cultural Organization, and deposited in the Archives of the Government of the United Kingdom.
+The President is hereby authorized to accept membership for the United States in the United Nations Educational, Scientific, and Cultural Organization (hereinafter referred to as the "Organization"), the constitution of which was approved in London on November 16, 1945, by the United Nations Conference for the establishment of an Educational, Scientific, and Cultural Organization, and deposited in the Archives of the Government of the United Kingdom.
 
 (July 30, 1946, ch. 700, §1, 60 Stat. 712.)
 
@@ -30,7 +30,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### <i>Purposes and Functions</i>
 
-1\. The purpose of the Organisation is to contribute to peace and security by promoting collaboration among the nations through education, science, and culture in order to further universal respect for justice, for the rule of law and for the human rights and fundamental freedoms which are affirmed for the peoples of the world, without distinction of race, sex, language or religion, by the Charter of the United Nations.
+1\. The purpose of the Organisation is to contribute to peace and security by promoting collaboration among the nations through education, science, and culture in order to further universal respect for justice, for the rule of law and for the human rights and fundamentalfreedoms which are affirmed for the peoples of the world, without distinction of race, sex, language or religion, by the Charter of the United Nations.
 
 2\. To realise this purpose the Organisation will:
 
@@ -118,7 +118,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 1\. The Executive Board shall consist of eighteen members elected by the General Conference from among the delegates appointed by the Member States, together with the President of the Conference who shall sit <i>ex officio</i> in an advisory capacity.
 
-2\. In electing the members of the Executive Board the General Conference shall endeavour to include persons competent in the arts, the humanities, the sciences, education and the diffusion of ideas, and qualified by their experience and capacity to fulfill the administrative and executive duties of the Board. It shall also have regard to the diversity of cultures and a balanced geographical distribution. Not more than one national of any Member State shall serve on the Board at any one time, the President of the Conference excepted.
+2\. In electing the members of the Executive Board the General Conference shall endeavour to include personscompetent in the arts, the humanities, the sciences, education and the diffusion of ideas, and qualified by their experience and capacity to fulfill the administrative and executive duties of the Board. It shall also have regard to the diversity of cultures and a balanced geographical distribution. Not more than one national of any Member State shall serve on the Board at any one time, the President of the Conference excepted.
 
 3\. The elected members of the Executive Board shall serve for a term of three years, and shall be immediately eligible for a second term, but shall not serve consecutively for more than two terms. At the first election eighteen members shall be elected of whom one third shall retire at the end of the first year and one third at the end of the second year, the order of retirement being determined immediately after the election by the drawing of lots. Thereafter six members shall be elected each year.
 
@@ -134,7 +134,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 8\. The Executive Board shall meet in regular session at least twice a year and may meet in special session if convoked by the Chairman on his own initiative or upon the request of six members of the Board.
 
-9\. The Chairman of the Executive Board shall present to the General Conference, with or without comment,the annual report of the Director-General on the activities of the Organisation, which shall have been previously submitted to the Board.
+9\. The Chairman of the Executive Board shall present to the General Conference, with or without comment, the annual report of the Director-General on the activities of the Organisation, which shall have been previously submitted to the Board.
 
 10\. The Executive Board shall make all necessary arrangements to consult the representatives of international organisations or qualified persons concerned with questions within its competence.
 
@@ -204,7 +204,7 @@ This Organisation shall be brought into relation with the United Nations Organis
 
 #### <i>Legal status of the Organisation</i>
 
-The provisions of Articles 104 and 105 of the Charter of the United Nations Organisation concerning thelegal status of that Organisation, its privileges and immunities shall apply in the same way to this Organisation.
+The provisions of Articles 104 and 105 of the Charter of the United Nations Organisation concerning the legal status of that Organisation, its privileges and immunities shall apply in the same way to this Organisation.
 
 #### article xiii.
 

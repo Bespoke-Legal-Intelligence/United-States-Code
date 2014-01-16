@@ -17,7 +17,7 @@
 
 <b>1990</b>—Pub. L. 101–508, title XI, §11301(c), Nov. 5, 1990, 104 Stat. 1388–449, added item 848.
 
-<b>1989</b>—Pub. L. 101–239, title VII, §7821(d)(1), Dec. 19, 1989, 103 Stat. 2424, substituted “companies” for “corporations” in item 842.
+<b>1989</b>—Pub. L. 101–239, title VII, §7821(d)(1), Dec. 19, 1989, 103 Stat. 2424, substituted "companies" for "corporations" in item 842.
 
 <b>1988</b>—Pub. L. 100–647, title VI, §6077(b), Nov. 10, 1988, 102 Stat. 3709, added item 847.
 
@@ -27,7 +27,7 @@
 
 <b>1969</b>—Pub. L. 91–172, title IX, §907(c)(2)(A), Dec. 30, 1969, 83 Stat. 717, added item 844.
 
-<b>1966</b>—Pub. L. 89–809, title I, §104(i)(2), Nov. 13, 1966, 80 Stat. 1561, substituted “Foreign corporations carrying on insurance business” for “Computation of gross income” in item 842.
+<b>1966</b>—Pub. L. 89–809, title I, §104(i)(2), Nov. 13, 1966, 80 Stat. 1561, substituted "Foreign corporations carrying on insurance business" for "Computation of gross income" in item 842.
 
 <b>1956</b>—Act Mar. 13, 1956, ch. 83, §4(b), 70 Stat. 49, added item 843.
 

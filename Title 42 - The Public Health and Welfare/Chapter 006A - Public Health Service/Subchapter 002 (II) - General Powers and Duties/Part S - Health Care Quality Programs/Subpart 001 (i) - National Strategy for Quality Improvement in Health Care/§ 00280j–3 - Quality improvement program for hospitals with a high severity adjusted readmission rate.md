@@ -8,7 +8,7 @@
 
 #### (2) Eligible hospital defined
 
-&emsp;In this subsection, the term “eligible hospital” means a hospital that the Secretary determines has a high rate of risk adjusted readmissions for the conditions described in section 1395ww(q)(8)(A) of this title and has not taken appropriate steps to reduce such readmissions and improve patient safety as evidenced through historically high rates of readmissions, as determined by the Secretary.
+&emsp;In this subsection, the term "eligible hospital" means a hospital that the Secretary determines has a high rate of risk adjusted readmissions for the conditions described in section 1395ww(q)(8)(A) of this title and has not taken appropriate steps to reduce such readmissions and improve patient safety as evidenced through historically high rates of readmissions, as determined by the Secretary.
 
 #### (3) Risk adjustment
 

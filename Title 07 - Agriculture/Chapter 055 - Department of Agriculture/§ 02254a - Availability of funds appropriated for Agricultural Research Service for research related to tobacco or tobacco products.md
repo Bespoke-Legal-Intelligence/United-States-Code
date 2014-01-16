@@ -6,9 +6,9 @@ On and after December 26, 2007, none of the funds appropriated under this headin
 
 #### References in Text
 
-This heading, referred to in text, refers to the headings “
+This heading, referred to in text, refers to the headings "
 
-Agricultural Research Service” and “
+Agricultural Research Service" and "
 
-salaries and expenses” of title I of div. A of the Consolidated Appropriations Act, 2008, Pub. L. 110–161.
+salaries and expenses" of title I of div. A of the Consolidated Appropriations Act, 2008, Pub. L. 110–161.
 

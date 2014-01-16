@@ -2,7 +2,7 @@
 
 #### (a) State regulation
 
-No person shall open or develop any new or previously mined or abandoned site for surface coal mining operations on lands on which such operations are regulated by a State unless suchperson has obtained a permit from the State's regulatory authority.
+No person shall open or develop any new or previously mined or abandoned site for surface coal mining operations on lands on which such operations are regulated by a State unless such person has obtained a permit from the State's regulatory authority.
 
 #### (b) Interim standards
 
@@ -28,7 +28,7 @@ Within six months after August 3, 1977, the Secretary shall implement a Federal 
 
 &emsp;(4) provide that moneys authorized by section 1302 of this title shall be available to the Secretary prior to the approval of a State program pursuant to this chapter to reimburse the State for conducting those inspections in which the standards of this chapter are enforced and for the administration of this section.<sup>1</sup>
 
-&emsp;(5) for purposes of this section, the term “Federal inspector” means personnel of the Office of Surface Mining Reclamation and Enforcement and such additional personnel of the United States Geological Survey, Bureau of Land Management, or of the Mining Enforcement and Safety Administration so designated by the Secretary, or such other personnel of the Forest Service, Soil Conservation Service, or the Agricultural Stabilization and Conservation Service as arranged by appropriate agreement with the Secretary on a reimbursable or other basis; <sup>2</sup>
+&emsp;(5) for purposes of this section, the term "Federal inspector" means personnel of the Office of Surface Mining Reclamation and Enforcement and such additional personnel of the United States Geological Survey, Bureau of Land Management, or of the Mining Enforcement and Safety Administration so designated by the Secretary, or such other personnel of the Forest Service, Soil Conservation Service, or the Agricultural Stabilization and Conservation Service as arranged by appropriate agreement with the Secretary on a reimbursable or other basis; <sup>2</sup>
 
 #### (f) Interim period
 

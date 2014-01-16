@@ -4,23 +4,23 @@ In this part—
 
 &emsp;(1)
 
-Board.—The term “Board” means the Surface Transportation Board.
+Board.—The term "Board" means the Surface Transportation Board.
 
 &emsp;(2)
 
-Pipeline carrier.—The term “pipeline carrier” means a person providing pipeline transportation for compensation.
+Pipeline carrier.—The term "pipeline carrier" means a person providing pipeline transportation for compensation.
 
 &emsp;(3)
 
-Rate.—The term “rate” means a rate or charge for transportation.
+Rate.—The term "rate" means a rate or charge for transportation.
 
 &emsp;(4)
 
-State.—The term “State” means a State of the United States and the District of Columbia.
+State.—The term "State" means a State of the United States and the District of Columbia.
 
 &emsp;(5)
 
-Transportation.—The term “transportation” includes—
+Transportation.—The term "transportation" includes—
 
 &emsp;&emsp;(A) property, facilities, instrumentalities, or equipment of any kind related to the movement of property, regardless of ownership or an agreement concerning use; and
 
@@ -28,7 +28,7 @@ Transportation.—The term “transportation” includes—
 
 &emsp;(6)
 
-United states.—The term “United States” means the States of the United States and the District of Columbia.
+United states.—The term "United States" means the States of the United States and the District of Columbia.
 
 (Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 921.)
 

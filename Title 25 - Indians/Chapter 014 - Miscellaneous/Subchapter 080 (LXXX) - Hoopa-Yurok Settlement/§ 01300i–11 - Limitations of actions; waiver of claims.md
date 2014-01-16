@@ -6,7 +6,7 @@ Any claim challenging the partition of the joint reservation pursuant to section
 
 #### (b) Limitations on claims
 
-(1) Any such claim by any person or entity, other than the Hoopa Valley Tribe or the Yurok Tribe, shall be forever barred if not broughtwithin the later of 210 days from the date of the partition of the joint reservation as provided in section 1300i–1 of this title or 120 days after the publication in the Federal Register of the option election date as required by section 1300i–5(a)(4) of this title.
+(1) Any such claim by any person or entity, other than the Hoopa Valley Tribe or the Yurok Tribe, shall be forever barred if not brought within the later of 210 days from the date of the partition of the joint reservation as provided in section 1300i–1 of this title or 120 days after the publication in the Federal Register of the option election date as required by section 1300i–5(a)(4) of this title.
 
 (2) Any such claim by the Hoopa Valley Tribe shall be barred 180 days after October 31, 1988, or such earlier date as may be established by the adoption of a resolution waiving such claims pursuant to section 1300i–1(a)(2) of this title.
 
@@ -22,9 +22,9 @@ Any claim challenging the partition of the joint reservation pursuant to section
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–301 inserted at end “The Yurok Transition Team, or any individual thereon, shall not be named as a defendant or otherwise joined in any suit in which a claim is made arising out of this subsection.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–301 inserted at end "The Yurok Transition Team, or any individual thereon, shall not be named as a defendant or otherwise joined in any suit in which a claim is made arising out of this subsection."
 
 #### Effective Date of 1992 Amendment
 

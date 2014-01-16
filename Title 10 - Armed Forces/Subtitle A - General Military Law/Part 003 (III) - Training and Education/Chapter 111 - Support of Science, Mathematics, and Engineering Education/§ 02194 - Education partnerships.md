@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense shall authorize the director of each defense laboratory to enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, and engineering education.
 
-(b) Under a partnership agreement entered into with an educational institution under thissection, the director of a defense laboratory may provide, and is encouraged to provide, assistance to the educational institution by—
+(b) Under a partnership agreement entered into with an educational institution under this section, the director of a defense laboratory may provide, and is encouraged to provide, assistance to the educational institution by—
 
 &emsp;(1) loaning defense laboratory equipment to the institution for any purpose and duration in support of such agreement that the director considers appropriate;
 
@@ -30,11 +30,11 @@
 
 (f) In this section:
 
-&emsp;(1) The term “defense laboratory” means any laboratory, product center, test center, depot, training and educational organization, or operational command under the jurisdiction of the Department of Defense.
+&emsp;(1) The term "defense laboratory" means any laboratory, product center, test center, depot, training and educational organization, or operational command under the jurisdiction of the Department of Defense.
 
-&emsp;(2) The term “local educational agency” has the meaning given such term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+&emsp;(2) The term "local educational agency" has the meaning given such term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
 
-&emsp;(3) The term “United States” includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+&emsp;(3) The term "United States" includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
 
 (Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 103–382, title III, §391(b)(4), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(19), Feb. 10, 1996, 110 Stat. 512; Pub. L. 106–398, §1 \[\[div. A\], title II, §253\], Oct. 30, 2000, 114 Stat. 1654, 1654A–49; Pub. L. 107–110, title X, §1076(e), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 108–178, §4(b)(1), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 111–350, §5(b)(3), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 111–383, div. A, title II, §211(b), Jan. 7, 2011, 124 Stat. 4163; Pub. L. 112–239, div. A, title II, §251, Jan. 2, 2013, 126 Stat. 1688.)
 
@@ -44,37 +44,37 @@ Paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 19
 
 #### Amendments
 
-<b>2013</b>—Subsec. (f)(2). Pub. L. 112–239, §251(b), inserted “(20 U.S.C. 7801)” before period at end.
+<b>2013</b>—Subsec. (f)(2). Pub. L. 112–239, §251(b), inserted "(20 U.S.C. 7801)" before period at end.
 
 Subsec. (f)(3). Pub. L. 112–239, §251(a), added par. (3).
 
-<b>2011</b>—Subsec. (b)(2). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” in introductory provisions.
+<b>2011</b>—Subsec. (b)(2). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" in introductory provisions.
 
 Subsecs. (e), (f). Pub. L. 111–383 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-<b>2003</b>—Subsec. (b)(2). Pub. L. 108–178 inserted “subtitle I of title 40 and title III of” before “the Federal” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–178 inserted "subtitle I of title 40 and title III of" before "the Federal" and substituted "(41 U.S.C. 251 et seq.)" for "(40 U.S.C. 471 et seq.)".
 
-<b>2002</b>—Subsec. (e)(2). Pub. L. 107–110 substituted “section 9101 of the Elementary and Secondary Education Act of 1965” for “section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801)”.
+<b>2002</b>—Subsec. (e)(2). Pub. L. 107–110 substituted "section 9101 of the Elementary and Secondary Education Act of 1965" for "section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801)".
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(a)(1)\], inserted “, and is encouraged to provide,” after “may provide” in introductory provisions.
+<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(a)(1)\], inserted ", and is encouraged to provide," after "may provide" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(a)(2)\], inserted before semicolon “for any purpose and duration in support of such agreement that the director considers appropriate”.
+Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(a)(2)\], inserted before semicolon "for any purpose and duration in support of such agreement that the director considers appropriate".
 
-Subsec. (b)(2). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(a)(3)\], added par. (2) and struck out former par. (2) which read as follows: “transferring to the institution defense laboratory equipment determined by the director to be surplus;”.
+Subsec. (b)(2). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(a)(3)\], added par. (2) and struck out former par. (2) which read as follows: "transferring to the institution defense laboratory equipment determined by the director to be surplus;".
 
-Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(b)\], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In this section, the term ‘local educational agency’ has the meaning given such term in section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801).”
+Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(b)\], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "In this section, the term 'local educational agency' has the meaning given such term in section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801)."
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–106 substituted “(20 U.S.C. 8801)” for “(20 U.S.C. 2891(12))”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–106 substituted "(20 U.S.C. 8801)" for "(20 U.S.C. 2891(12))".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–382, §391(b)(4)(A), substituted “educational agency” for “education agencies”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–382, §391(b)(4)(A), substituted "educational agency" for "education agencies".
 
-Subsec. (e). Pub. L. 103–382, §394(b)(4)(B)(iii), which directed amendment of subsec. (e) by striking out “(20 U.S.C. 1058(b)” could not be executed because “(20 U.S.C. 1058(b)” does not appear in subsec. (e).
+Subsec. (e). Pub. L. 103–382, §394(b)(4)(B)(iii), which directed amendment of subsec. (e) by striking out "(20 U.S.C. 1058(b)" could not be executed because "(20 U.S.C. 1058(b)" does not appear in subsec. (e).
 
-Pub. L. 103–382, §391(b)(4)(B)(i), (ii), substituted “educational agency” for “education agency” and “section 14101” for “section 1471(12)”.
+Pub. L. 103–382, §391(b)(4)(B)(i), (ii), substituted "educational agency" for "education agency" and "section 14101" for "section 1471(12)".
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note undersection 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2002 Amendment
 

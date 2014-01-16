@@ -26,7 +26,7 @@ The Secretary may make a grant under section 300x of this title to a State only 
 
 &emsp;(A) In making a grant under section 300x of this title to a State for a fiscal year, the Secretary shall make a determination of whether, for the previous fiscal year, the State maintained material compliance with the agreement made under paragraph (1). If the Secretary determines that a State has failed to maintain such compliance, the Secretary shall reduce the amount of the allotment under section 300x of this title for the State for the fiscal year for which the grant is being made by an amount equal to the amount constituting such failure for the previous fiscal year.
 
-&emsp;(B) The Secretary may make a grant under section 300x of this title for a fiscal year only if the State involved submits to the Secretary information sufficient for the Secretary to make the determination required in subparagraph (A).
+&emsp;(B) The Secretary may make a grant under section 300x of this title for a fiscal year onlyif the State involved submits to the Secretary information sufficient for the Secretary to make the determination required in subparagraph (A).
 
 (July 1, 1944, ch. 373, title XIX, §1915, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 383; amended Pub. L. 106–310, div. B, title XXXII, §3204(b), (c), Oct. 17, 2000, 114 Stat. 1193.)
 
@@ -42,9 +42,9 @@ Section 300x–4a, act July 1, 1944, ch. 373, title XIX, §1916A, as added Nov. 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–310, §3204(b)(1), inserted “and the report of the State under section 300x–52(a) of this title concerning the preceding fiscal year” after “to the grant”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–310, §3204(b)(1), inserted "and the report of the State under section 300x–52(a) of this title concerning the preceding fiscal year" after "to the grant".
 
-Subsec. (a)(2). Pub. L. 106–310, §3204(b)(2), inserted “and any comments concerning the annual report” before period at end.
+Subsec. (a)(2). Pub. L. 106–310, §3204(b)(2), inserted "and any comments concerning the annual report" before period at end.
 
 Subsec. (b)(2) to (4). Pub. L. 106–310, §3204(c), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 

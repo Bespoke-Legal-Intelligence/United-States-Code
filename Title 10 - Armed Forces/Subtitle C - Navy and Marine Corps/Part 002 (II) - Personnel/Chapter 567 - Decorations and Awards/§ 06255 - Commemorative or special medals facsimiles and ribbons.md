@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Apr. 25, 1935, ch. 82, 49 Stat. 162.
 
-The words “members of the naval service may” are substituted for the words “That authority is hereby granted to personnel of the Navy and Marine Corps” for clarity.
+The words "members of the naval service may" are substituted for the words "That authority is hereby granted to personnel of the Navy and Marine Corps" for clarity.
 

@@ -42,5 +42,5 @@ Officers Below the Zone.—Officers on the reserve active-status list are consid
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 

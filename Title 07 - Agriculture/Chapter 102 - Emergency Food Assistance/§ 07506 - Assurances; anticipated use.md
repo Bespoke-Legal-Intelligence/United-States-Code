@@ -8,9 +8,9 @@
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–66 struck out at end “The Secretary shall submit to Congress each year a report as to whether and to what extent such displacements or substitutions are occurring.”
+<b>1995</b>—Subsec. (a). Pub. L. 104–66 struck out at end "The Secretary shall submit to Congress each year a report as to whether and to what extent such displacements or substitutions are occurring."
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–198 inserted at end “The Secretary shall submit to Congress each year a report as to whether and to what extent such displacements or substitutions are occurring.”
+<b>1985</b>—Subsec. (a). Pub. L. 99–198 inserted at end "The Secretary shall submit to Congress each year a report as to whether and to what extent such displacements or substitutions are occurring."
 
 #### Effective Date
 

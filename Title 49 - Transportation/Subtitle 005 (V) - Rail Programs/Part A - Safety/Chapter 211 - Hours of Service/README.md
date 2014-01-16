@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–432, div. A, title I, §108(d)(2), (e)(2)(A), Oct. 16, 2008, 122 Stat. 4864, 4865, substituted item 21102 for former item 21102 “Nonapplication and exemption” and added item 21109.
+<b>2008</b>—Pub. L. 110–432, div. A, title I, §108(d)(2), (e)(2)(A), Oct. 16, 2008, 122 Stat. 4864, 4865, substituted item 21102 for former item 21102 "Nonapplication and exemption" and added item 21109.
 
 <b>1994</b>—Pub. L. 103–440, title II, §203(b), Nov. 2, 1994, 108 Stat. 4620, added item 21108.
 

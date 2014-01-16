@@ -12,7 +12,7 @@ The total quantity of acres planted to trees or tree seedlings for which a perso
 
 The Secretary shall promulgate regulations—
 
-&emsp;(1) defining the term “person” for the purposes of this chapter, which shall conform, to the maximum extent practicable, to the regulations defining the term “person” promulgated under section 1308 of this title (before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008) <sup>1</sup>; and
+&emsp;(1) defining the term "person" for the purposes of this chapter, which shall conform, to the maximum extent practicable, to the regulations defining the term "person" promulgated under section 1308 of this title (before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008) <sup>1</sup>; and
 
 &emsp;(2) promulgating such regulations as the Secretary determines necessary to ensure a fair and reasonable application of the limitation established under this section.
 
@@ -20,7 +20,7 @@ The Secretary shall promulgate regulations—
 
 #### References in Text
 
-Section 1308 of this title (before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008), referred to in subsec. (c)(1), probably means section 1308 of this title before the amendment made by section 1603(b)(3)(A) of Pub. L. 110–246, which struck out provisions in section 1308 of this title relating to issuance of regulations defining the term “person”. The Food, Conservation, and Energy Act of 2008 does not contain a section 1703.
+Section 1308 of this title (before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008), referred to in subsec. (c)(1), probably means section 1308 of this title before the amendment made by section 1603(b)(3)(A) of Pub. L. 110–246, which struck out provisions in section 1308 of this title relating to issuance of regulations defining the term "person". The Food, Conservation, and Energy Act of 2008 does not contain a section 1703.
 
 #### Codification
 
@@ -28,7 +28,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(1). Pub. L. 110–246, §1603(g)(4), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of this title”.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–246, §1603(g)(4), inserted "(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)" after "section 1308 of this title".
 
 #### Effective Date of 2008 Amendment
 

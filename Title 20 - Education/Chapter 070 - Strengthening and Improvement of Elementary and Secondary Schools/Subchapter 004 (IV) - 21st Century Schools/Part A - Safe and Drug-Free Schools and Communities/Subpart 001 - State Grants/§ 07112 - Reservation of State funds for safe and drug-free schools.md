@@ -12,7 +12,7 @@
 
 #### (2) Priority
 
-&emsp;In making such grants and contracts under this section, a chief executive officer shallgive priority to programs and activities that prevent illegal drug use and violence for—
+&emsp;In making such grants and contracts under this section, a chief executive officer shall give priority to programs and activities that prevent illegal drug use and violence for—
 
 &emsp;&emsp;(A) children and youth who are not normally served by State educational agencies or local educational agencies; or
 
@@ -54,7 +54,7 @@
 
 #### (B) Additional amounts for the uniform management information system
 
-&emsp;&emsp;In the case of fiscal year 2002, a State educational agency may, in addition to amounts provided for in subparagraph (A), use 1 percent of the amount made available to the State educational agency under section 7111(b) of this title for each fiscal year less the amount reserved under subsection (a) of this section, for implementation of the uniform management information and reporting system as provided for under subsection (c)(3) of this section.
+&emsp;&emsp;In the case of fiscal year 2002, a State educational agency may, in addition to amountsprovided for in subparagraph (A), use 1 percent of the amount made available to the State educational agency under section 7111(b) of this title for each fiscal year less the amount reserved under subsection (a) of this section, for implementation of the uniform management information and reporting system as provided for under subsection (c)(3) of this section.
 
 #### (c) State activities
 

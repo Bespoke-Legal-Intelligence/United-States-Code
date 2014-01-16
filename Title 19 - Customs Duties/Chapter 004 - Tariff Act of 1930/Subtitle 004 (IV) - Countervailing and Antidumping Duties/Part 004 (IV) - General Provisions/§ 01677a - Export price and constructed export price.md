@@ -2,11 +2,11 @@
 
 #### (a) Export price
 
-The term “export price” means the price at which the subject merchandise is first sold (or agreed to be sold) before the date of importation by the producer or exporter of the subject merchandise outside of the United States to an unaffiliated purchaser in the United States or to an unaffiliated purchaser for exportation to the United States, as adjusted under subsection (c) of this section.
+The term "export price" means the price at which the subject merchandise is first sold (or agreed to be sold) before the date of importation by the producer or exporter of the subject merchandise outside of the United States to an unaffiliated purchaser in the United States or to an unaffiliated purchaser for exportation to the United States, as adjusted under subsection (c) of this section.
 
 #### (b) Constructed export price
 
-The term “constructed export price” means the price at which the subject merchandise is first sold (or agreed to be sold) in the United States before or after the date of importation by or for the account of the producer or exporter of such merchandise or by a seller affiliated with the producer or exporter, to a purchaser not affiliated with the producer or exporter, as adjusted under subsections (c) and (d) of this section.
+The term "constructed export price" means the price at which the subject merchandise is first sold (or agreed to be sold) in the United States before or after the date of importation by or for the account of the producer or exporter of such merchandise or by a seller affiliated with the producer or exporter, to a purchaser not affiliated with the producer or exporter, as adjusted under subsections (c) and (d) of this section.
 
 #### (c) Adjustments for export price and constructed export price
 
@@ -66,15 +66,15 @@ Where the subject merchandise is imported by a person affiliated with the export
 
 #### (A) Applicable percentage
 
-&emsp;&emsp;The term “applicable percentage” means the percentage determined by dividing the total United States expenses by the total expenses.
+&emsp;&emsp;The term "applicable percentage" means the percentage determined by dividing the total United States expenses by the total expenses.
 
 #### (B) Total United States expenses
 
-&emsp;&emsp;The term “total United States expenses” means the total expenses described in subsection (d)(1) and (2) of this section.
+&emsp;&emsp;The term "total United States expenses" means the total expenses described in subsection (d)(1) and (2) of this section.
 
 #### (C) Total expenses
 
-&emsp;&emsp;The term “total expenses” means all expenses in the first of the following categories which applies and which are incurred by or on behalf of the foreign producer and foreign exporter of the subject merchandise and by or on behalf of the United States seller affiliated with the producer or exporter with respect to the production and sale of such merchandise:
+&emsp;&emsp;The term "total expenses" means all expenses in the first of the following categories which applies and which are incurred by or on behalf of the foreign producer and foreign exporter of the subject merchandise and by or on behalf of the United States seller affiliated with the producer or exporter with respect to the production and sale of such merchandise:
 
 &emsp;&emsp;&emsp;(i) The expenses incurred with respect to the subject merchandise sold in the United States and the foreign like product sold in the exporting country if such expenses were requested by the administering authority for the purpose of establishing normal value and constructed export price.
 
@@ -84,15 +84,15 @@ Where the subject merchandise is imported by a person affiliated with the export
 
 #### (D) Total actual profit
 
-&emsp;&emsp;The term “total actual profit” means the total profit earned by the foreign producer, exporter, and affiliated parties described in subparagraph (C) with respect to the sale of the same merchandise for which total expenses are determined under such subparagraph.
+&emsp;&emsp;The term "total actual profit" means the total profit earned by the foreign producer, exporter, and affiliated parties described in subparagraph (C) with respect to the sale of the same merchandise for which total expenses are determined under such subparagraph.
 
 (June 17, 1930, ch. 497, title VII, §772, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 181; amended Pub. L. 98–573, title VI, §614, Oct. 30, 1984, 98 Stat. 3036; Pub. L. 103–465, title II, §223, Dec. 8, 1994, 108 Stat. 4876.)
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–465 amended section generally, substituting present provisions for provisions defining “United States price”, “purchase price”, and “exporter's sales price” and providing for adjustments to purchase price and exporter's sales price.
+<b>1994</b>—Pub. L. 103–465 amended section generally, substituting present provisions for provisions defining "United States price", "purchase price", and "exporter's sales price" and providing for adjustments to purchase price and exporter's sales price.
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–573 inserted “a reseller or” before “the manufacturer”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–573 inserted "a reseller or" before "the manufacturer".
 
 #### Effective Date of 1994 Amendment
 

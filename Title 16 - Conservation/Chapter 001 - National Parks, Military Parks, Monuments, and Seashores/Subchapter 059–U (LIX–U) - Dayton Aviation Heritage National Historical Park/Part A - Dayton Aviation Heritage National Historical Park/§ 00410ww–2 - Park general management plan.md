@@ -6,7 +6,7 @@ Not later than 3 complete fiscal years after October 16, 1992, the Secretary, wi
 
 #### (b) Park partnerships
 
-The management plan shall identify partnership opportunities between the Secretary and other Federal, State, and local governments and the private sector for the development, use, and interpretation of properties within the park.
+The management plan shall identify partnership opportunities between the Secretary andother Federal, State, and local governments and the private sector for the development, use, and interpretation of properties within the park.
 
 (Pub. L. 102–419, title I, §103, Oct. 16, 1992, 106 Stat. 2142.)
 

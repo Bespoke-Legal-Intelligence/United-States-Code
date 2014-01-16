@@ -20,9 +20,9 @@ Historical and Revision Notes
 
 June 4, 1920, ch. 228 (8th par. of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, §1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281.
 
-In subsection (a) the words “foreign country” are substituted for the words “another country” for clarity.
+In subsection (a) the words "foreign country" are substituted for the words "another country" for clarity.
 
-In subsection (b) the word “for” is substituted for the words “in the event of” for brevity.
+In subsection (b) the word "for" is substituted for the words "in the event of" for brevity.
 
 #### References in Text
 
@@ -36,7 +36,7 @@ Section 227 of title 30, referred to in subsec. (a), was omitted from the Code.
 
 #### Amendments
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–258 struck out “of the Navy” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–258 struck out "of the Navy" after "Secretary".
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–796 substituted “land in the naval petroleum, naval oil shale, or other naval fuel reserves” for “land in the naval petroleum or other naval fuel reserves”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–796 substituted "land in the naval petroleum, naval oil shale, or other naval fuel reserves" for "land in the naval petroleum or other naval fuel reserves".
 

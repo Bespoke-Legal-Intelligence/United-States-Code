@@ -36,7 +36,7 @@ In general.—Within 90 days after the date of enactment of this subsection, the
 
 &emsp;&emsp;(A) require each track owner using continuous welded rail track to include procedures (in its procedures filed with the Administration pursuant to section 213.119 of title 49, Code of Federal Regulations) to improve the identification of cracks in rail joint bars;
 
-&emsp;&emsp;(B) instruct Administration track inspectors to obtain copies of the most recent continuous welded rail programs of each railroad within the inspectors’ areas of responsibility and require that inspectors use those programs when conducting track inspections; and
+&emsp;&emsp;(B) instruct Administration track inspectors to obtain copies of the most recent continuous welded rail programs of each railroad within the inspectors' areas of responsibility and require that inspectors use those programs when conducting track inspections; and
 
 &emsp;&emsp;(C) establish a program to review continuous welded rail joint bar inspection data from railroads and Administration track inspectors periodically.
 
@@ -70,7 +70,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §202(s); added Sept. 3, 1992, Pu
 
 45:431(s)(3).
 
-In subsection (c), the word “information” is substituted for “data” for consistency in the revised title.
+In subsection (c), the word "information" is substituted for "data" for consistency in the revised title.
 
 #### References in Text
 
@@ -80,9 +80,9 @@ The date of enactment of this subsection, referred to in subsec. (e)(1), is the 
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–59 added subsec. (e).
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–440, §208(2), inserted “, including cold weather installation procedures” after “attendant structure”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–440, §208(2), inserted ", including cold weather installation procedures" after "attendant structure".
 
-Subsec. (b). Pub. L. 103–440, §208(1), substituted “September 1, 1995” for “September 3, 1994”.
+Subsec. (b). Pub. L. 103–440, §208(1), substituted "September 1, 1995" for "September 3, 1994".
 
 Subsec. (d). Pub. L. 103–440, §208(3), added subsec. (d).
 
@@ -90,49 +90,49 @@ Subsec. (d). Pub. L. 103–440, §208(3), added subsec. (d).
 
 Pub. L. 110–432, div. A, title IV, §403, Oct. 16, 2008, 122 Stat. 4884, provided that:
 
-“(a)
+"(a)
 
 Study.—Not later that \[sic\] 2 years after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the results of a study to determine whether—
 
-&emsp;“(1) the required intervals of track inspections for each class of track should be amended;
+&emsp;"(1) the required intervals of track inspections for each class of track should be amended;
 
-&emsp;“(2) track remedial action requirements should be amended;
+&emsp;"(2) track remedial action requirements should be amended;
 
-&emsp;“(3) different track inspection and repair priorities or methods should be required; and
+&emsp;"(3) different track inspection and repair priorities or methods should be required; and
 
-&emsp;“(4) the speed at which railroad track inspection vehicles operate and the scope of the territory they generally cover allow for proper inspection of the track and whether such speed and appropriate scope should be regulated by the Secretary.
+&emsp;"(4) the speed at which railroad track inspection vehicles operate and the scope of the territory they generally cover allow for proper inspection of the track and whether such speed and appropriate scope should be regulated by the Secretary.
 
-“(b)
+"(b)
 
 Considerations.—In conducting the study the Secretary shall consider—
 
-&emsp;“(1) the most current rail flaw, rail defect growth, rail fatigue, and other relevant track- or rail-related research and studies;
+&emsp;"(1) the most current rail flaw, rail defect growth, rail fatigue, and other relevant track- or rail-related research and studies;
 
-&emsp;“(2) the availability and feasibility of developing and implementing new or novel rail inspection technology for routine track inspections;
+&emsp;"(2) the availability and feasibility of developing and implementing new or novel rail inspection technology for routine track inspections;
 
-&emsp;“(3) information from National Transportation Safety Board or Federal Railroad Administration accident investigations where track defects were the cause or a contributing cause; and
+&emsp;"(3) information from National Transportation Safety Board or Federal Railroad Administration accident investigations where track defects were the cause or a contributing cause; and
 
-&emsp;“(4) other relevant information, as determined by the Secretary.
+&emsp;"(4) other relevant information, as determined by the Secretary.
 
-“(c)
+"(c)
 
 Update of Regulations.—Not later than 2 years after the completion of the study required by subsection (a), the Secretary shall prescribe regulations based on the results of the study conducted under subsection (a).
 
-“(d)
+"(d)
 
 Concrete Cross Ties.—Not later than 18 months after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall promulgate regulations for concrete cross ties. In developing the regulations for class 1 through 5 track, the Secretary may address, as appropriate—
 
-&emsp;“(1) limits for rail seat abrasion;
+&emsp;"(1) limits for rail seat abrasion;
 
-&emsp;“(2) concrete cross tie pad wear limits;
+&emsp;"(2) concrete cross tie pad wear limits;
 
-&emsp;“(3) missing or broken rail fasteners;
+&emsp;"(3) missing or broken rail fasteners;
 
-&emsp;“(4) loss of appropriate toeload pressure;
+&emsp;"(4) loss of appropriate toeload pressure;
 
-&emsp;“(5) improper fastener configurations; and
+&emsp;"(5) improper fastener configurations; and
 
-&emsp;“(6) excessive lateral rail movement.”
+&emsp;"(6) excessive lateral rail movement."
 
-\[For definitions of “Secretary” and “railroad”, as used in section 403 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+\[For definitions of "Secretary" and "railroad", as used in section 403 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 

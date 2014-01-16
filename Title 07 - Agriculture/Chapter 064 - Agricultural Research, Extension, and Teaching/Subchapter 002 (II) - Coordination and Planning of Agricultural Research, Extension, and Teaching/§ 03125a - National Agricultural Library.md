@@ -64,113 +64,113 @@ There are authorized to be appropriated for each fiscal year such sums as may be
 
 Pub. L. 103–354, title III, §308, as added by Pub. L. 110–234, title VII, §7409, May 22, 2008, 122 Stat. 1252, and Pub. L. 110–246, §4(a), title VII, §7409, June 18, 2008, 122 Stat. 1664, 2014, provided that:
 
-“(a)
+"(a)
 
 Establishment.—To enhance the use of real property administered by agencies of the Department, the Secretary may establish a pilot program, in accordance with this section, at the Beltsville Agricultural Research Center of the Agricultural Research Service and the National Agricultural Library to lease nonexcess property of the Center or the Library to any individual or entity, including agencies or instrumentalities of State or local governments.
 
-“(b)
+"(b)
 
 Requirements.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Notwithstanding chapter 5 of subtitle I of title 40, United States Code, the Secretary may lease real property at the Beltsville Agricultural Research Center or the National Agricultural Library in accordance with such terms and conditions as the Secretary may prescribe, if the Secretary determines that the lease—
 
-&emsp;&emsp;“(A) is consistent with, and will not adversely affect, the mission of the Department agency administering the property;
+&emsp;&emsp;"(A) is consistent with, and will not adversely affect, the mission of the Department agency administering the property;
 
-&emsp;&emsp;“(B) will enhance the use of the property;
+&emsp;&emsp;"(B) will enhance the use of the property;
 
-&emsp;&emsp;“(C) will not permit any portion of Department agency property or any facility of the Department to be used for the public retail or wholesale sale of merchandise or residential development;
+&emsp;&emsp;"(C) will not permit any portion of Department agency property or any facility of the Department to be used for the public retail or wholesale sale of merchandise or residential development;
 
-&emsp;&emsp;“(D) will not permit the construction or modification of facilities financed by non-Federal sources to be used by an agency, except for incidental use; and
+&emsp;&emsp;"(D) will not permit the construction or modification of facilities financed by non-Federal sources to be used by an agency, except for incidental use; and
 
-&emsp;&emsp;“(E) will not include any property or facility required for any Department agency purpose without prior consideration of the needs of the agency.
+&emsp;&emsp;"(E) will not include any property or facility required for any Department agency purpose without prior consideration of the needs of the agency.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Term.—The term of a lease under this section shall not exceed 30 years.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Consideration.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Consideration provided for a lease under this section shall be—
 
-&emsp;&emsp;&emsp;“(i) in an amount equal to fair market value, as determined by the Secretary; and
+&emsp;&emsp;&emsp;"(i) in an amount equal to fair market value, as determined by the Secretary; and
 
-&emsp;&emsp;&emsp;“(ii) in the form of cash.
+&emsp;&emsp;&emsp;"(ii) in the form of cash.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Use of funds.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—Consideration provided for a lease under this section shall be—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) deposited in a capital asset account to be established by the Secretary; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) deposited in a capital asset account to be established by the Secretary; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) available until expended, without further appropriation, for maintenance, capital revitalization, and improvements of the Department properties and facilities at the Beltsville Agricultural Research Center and National Agricultural Library.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) available until expended, without further appropriation, for maintenance, capital revitalization, and improvements of the Department properties and facilities at the Beltsville Agricultural Research Center and National Agricultural Library.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Budgetary treatment.—For purposes of the budget, the amounts described in clause (i) shall not be treated as a receipt of any Department agency or any other agency leasing property under this section.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Costs.—The lessee shall cover all costs associated with a lease under this section, including the cost of—
 
-&emsp;&emsp;“(A) the project to be carried out on property or at a facility covered by the lease;
+&emsp;&emsp;"(A) the project to be carried out on property or at a facility covered by the lease;
 
-&emsp;&emsp;“(B) provision and administration of the lease;
+&emsp;&emsp;"(B) provision and administration of the lease;
 
-&emsp;&emsp;“(C) construction of any needed facilities;
+&emsp;&emsp;"(C) construction of any needed facilities;
 
-&emsp;&emsp;“(D) provision of applicable utilities; and
+&emsp;&emsp;"(D) provision of applicable utilities; and
 
-&emsp;&emsp;“(E) any other facility cost normally associated with the operation of a leased facility.
+&emsp;&emsp;"(E) any other facility cost normally associated with the operation of a leased facility.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Prohibition of use of appropriations.—The Secretary shall not use any funds made available to the Secretary in an appropriations Act for the construction or operating costs of any space covered by a lease under this section.
 
-&emsp;“(6)
+&emsp;"(6)
 
 Termination of authority.—This section and the authority provided by this section terminate—
 
-&emsp;&emsp;“(A) on the date that is 5 years after the date of enactment of this section \[June 18, 2008\]; or
+&emsp;&emsp;"(A) on the date that is 5 years after the date of enactment of this section \[June 18, 2008\]; or
 
-&emsp;&emsp;“(B) with respect to any particular leased property, on the date of termination of the lease.
+&emsp;&emsp;"(B) with respect to any particular leased property, on the date of termination of the lease.
 
-“(c)
+"(c)
 
 Effect of Other Laws.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Utilization.—Property that is leased pursuant to this section shall not be considered to be unutilized or underutilized for purposes of section 501 of the Stewart B. McKinney Homeless Assistance Act \[now the McKinney-Vento Homeless Assistance Act\] (42 U.S.C. 11411).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Disposal.—Property at the Beltsville Agricultural Research Center or the National Agricultural Library that is leased pursuant to this section shall not be considered to be disposed of by sale, lease, rental, excessing, or surplusing for purposes of section 523 of Public Law 100–202 (101 Stat. 1329–417).
 
-“(d)
+"(d)
 
 Administration.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 90 days after the date of enactment of this section \[June 18, 2008\], the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes detailed management objectives and performance measurements by which the Secretary intends to evaluate the success of the program under this section.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Reports.—Not later than 1, 3, and 5 years after the date of enactment of this section \[June 18, 2008\], the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the implementation of the program under this section, including—
 
-&emsp;&emsp;“(A) a copy of each lease entered into pursuant to this section; and
+&emsp;&emsp;"(A) a copy of each lease entered into pursuant to this section; and
 
-&emsp;&emsp;“(B) an assessment by the Secretary of the success of the program using the management objectives and performance measurements developed by the Secretary.”
+&emsp;&emsp;"(B) an assessment by the Secretary of the success of the program using the management objectives and performance measurements developed by the Secretary."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

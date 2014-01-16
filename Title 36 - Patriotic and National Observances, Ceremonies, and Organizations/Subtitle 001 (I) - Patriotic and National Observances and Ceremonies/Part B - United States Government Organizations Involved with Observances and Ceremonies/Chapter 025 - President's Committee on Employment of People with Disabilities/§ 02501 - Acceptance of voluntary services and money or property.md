@@ -26,7 +26,7 @@ Pub. L. 105–225
 
 July 11, 1949, ch. 302, §2, as added Nov. 7, 1988, Pub. L. 100–630, title III, §301(b)(3), 102 Stat. 3316.
 
-In clause (2), the words “in the name of the Committee”, “in furtherance of this resolution”, “real, personal, or mixed, tangible or nontangible”, and “by gift, devise, bequest, or otherwise” are omitted as unnecessary.
+In clause (2), the words "in the name of the Committee", "in furtherance of this resolution", "real, personal, or mixed, tangible or nontangible", and "by gift, devise, bequest, or otherwise" are omitted as unnecessary.
 
 #### Pub. L. 105–354
 
@@ -34,5 +34,5 @@ This amends section 2501(2) of title 36 to reflect a change made by section 413 
 
 #### Amendments
 
-<b>1998</b>—Par. (2). Pub. L. 105–354 inserted “solicit,” before “accept,”.
+<b>1998</b>—Par. (2). Pub. L. 105–354 inserted "solicit," before "accept,".
 

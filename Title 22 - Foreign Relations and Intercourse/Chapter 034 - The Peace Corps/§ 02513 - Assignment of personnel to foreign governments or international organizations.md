@@ -22,13 +22,13 @@ Details or assignments may be made under this section—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Amendments
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–465 substituted “section 4085 of this title” for “section 1131 of this title”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–465 substituted "section 4085 of this title" for "section 1131 of this title".
 
-<b>1970</b>—Subsec. (b). Pub. L. 91–352 substituted “section 5536 of title 5” for “section 70 of title 5”.
+<b>1970</b>—Subsec. (b). Pub. L. 91–352 substituted "section 5536 of title 5" for "section 70 of title 5".
 
 #### Effective Date of 1980 Amendment
 

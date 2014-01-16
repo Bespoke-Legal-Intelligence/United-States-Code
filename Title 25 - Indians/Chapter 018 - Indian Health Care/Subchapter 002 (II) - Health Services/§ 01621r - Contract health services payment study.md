@@ -8,7 +8,7 @@ The Secretary, acting through the Service and in consultation with representativ
 
 &emsp;(2) to assess and identify the impact of such delayed payments upon the personal credit histories of individual Indians who have been treated by such providers; and
 
-&emsp;(3) to determine the most efficient and effective means of improving the Service's contract health services payment system and ensuring the development of appropriate consumer protection policies to protect individual Indians who receive authorized services from private contract health services providers from billing and collection practices, including the development of materials and programs explaining patients’ rights and responsibilities.
+&emsp;(3) to determine the most efficient and effective means of improving the Service's contract health services payment system and ensuring the development of appropriate consumer protection policies to protect individual Indians who receive authorized services from private contract health services providers from billing and collection practices, including the development of materials and programs explaining patients' rights and responsibilities.
 
 #### (b) Functions of study
 
@@ -22,7 +22,7 @@ The study required by subsection (a) of this section shall—
 
 &emsp;(4) identify appropriate changes in Federal policies, administrative procedures, and regulations, to eliminate the problems experienced by private contract health services providers and individual Indians as a result of delayed payments; and
 
-&emsp;(5) compare the Service's payment processing requirements with private insurance claims processing requirements to evaluate the systemic differences or similarities employed by the Service and private insurers.
+&emsp;(5) compare the Service's payment processing requirements with private insuranceclaims processing requirements to evaluate the systemic differences or similarities employed by the Service and private insurers.
 
 #### (c) Report to Congress
 

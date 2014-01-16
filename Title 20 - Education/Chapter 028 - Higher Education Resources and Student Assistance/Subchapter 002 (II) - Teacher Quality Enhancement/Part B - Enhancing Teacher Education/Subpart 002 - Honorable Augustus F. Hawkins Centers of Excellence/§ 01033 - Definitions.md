@@ -4,7 +4,7 @@ In this subpart:
 
 #### (1) Eligible institution
 
-&emsp;The term “eligible institution” means—
+&emsp;The term "eligible institution" means—
 
 &emsp;&emsp;(A) an institution of higher education that has a teacher preparation program that is a qualified teacher preparation program and that is—
 
@@ -30,7 +30,7 @@ In this subpart:
 
 #### (2) Scientifically based reading research
 
-&emsp;The term “scientifically based reading research” has the meaning given such term in section 6368 of this title.
+&emsp;The term "scientifically based reading research" has the meaning given such term in section 6368 of this title.
 
 (Pub. L. 89–329, title II, §241, as added Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3158.)
 

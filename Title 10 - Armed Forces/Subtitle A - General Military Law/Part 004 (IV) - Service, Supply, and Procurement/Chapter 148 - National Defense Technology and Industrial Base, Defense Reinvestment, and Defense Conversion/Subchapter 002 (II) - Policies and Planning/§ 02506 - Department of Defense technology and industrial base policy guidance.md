@@ -16,9 +16,9 @@ A prior section 2506 was renumbered section 2533 of this title.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “strategy, management, budget allocation,” for “budget allocation, weapons”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "strategy, management, budget allocation," for "budget allocation, weapons".
 
-<b>1996</b>—Pub. L. 104–201 substituted “Department of Defense technology and industrial base policy guidance” for “National technology and industrial base: periodic defense capability plan” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (e) providing for the National Defense Technology and Industrial Base Council to prepare, at least annually through fiscal year 1997 and biennially thereafter, a multiyear plan for ensuring that the policies and programs of the Department of Defense, the Department of Energy, and other Federal departments and agencies were planned, coordinated, funded, and implemented in a manner designed to attain national security objectives.
+<b>1996</b>—Pub. L. 104–201 substituted "Department of Defense technology and industrial base policy guidance" for "National technology and industrial base: periodic defense capability plan" in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (e) providing for the National Defense Technology and Industrial Base Council to prepare, at least annually through fiscal year 1997 and biennially thereafter, a multiyear plan for ensuring that the policies and programs of the Department of Defense, the Department of Energy, and other Federal departments and agencies were planned, coordinated, funded, and implemented in a manner designed to attain national security objectives.
 
 #### Implementing Regulations Concerning National Technology and Industrial Base Periodic Plan
 

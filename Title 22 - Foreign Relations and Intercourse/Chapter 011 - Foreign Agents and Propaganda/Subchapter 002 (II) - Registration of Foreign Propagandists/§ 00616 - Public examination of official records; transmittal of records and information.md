@@ -38,11 +38,11 @@ Provisions on this subject were contained in section 614 of this title prior to 
 
 <b>2007</b>—Subsec. (d). Pub. L. 110–81 added subsec. (d).
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–65, §9(7)(A), struck out “and all statements concerning the distribution of political propaganda” after “all registration statements”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–65, §9(7)(A), struck out "and all statements concerning the distribution of political propaganda" after "all registration statements".
 
-Subsec. (b). Pub. L. 104–65, §9(7)(B), struck out “, and one copy of every item of political propaganda” after “supplement thereto”.
+Subsec. (b). Pub. L. 104–65, §9(7)(B), struck out ", and one copy of every item of political propaganda" after "supplement thereto".
 
-Subsec. (c). Pub. L. 104–65, §9(7)(C), struck out “copies of political propaganda,” after “parts thereof,”.
+Subsec. (c). Pub. L. 104–65, §9(7)(C), struck out "copies of political propaganda," after "parts thereof,".
 
 <b>1966</b>—Pub. L. 89–486 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

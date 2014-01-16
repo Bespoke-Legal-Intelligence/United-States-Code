@@ -12,7 +12,7 @@
 
 #### (2) Definition of local parent organization
 
-&emsp;In this section, the term “local parent organization” means a parent organization, as defined in section 1471(a)(2) of this title, that—
+&emsp;In this section, the term "local parent organization" means a parent organization, as defined in section 1471(a)(2) of this title, that—
 
 &emsp;&emsp;(A) has a board of directors the majority of whom are parents of children with disabilities ages birth through 26 from the community to be served; and
 

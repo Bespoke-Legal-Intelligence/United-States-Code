@@ -6,7 +6,7 @@ Any juvenile probationer shall be accorded notice and a hearing with counsel bef
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–473 struck out “parole or” before “probation” in section catchline and text, and struck out “parolee or” before “probationer” in text.
+<b>1984</b>—Pub. L. 98–473 struck out "parole or" before "probation" in section catchline and text, and struck out "parolee or" before "probationer" in text.
 
 #### Effective Date of 1984 Amendment
 

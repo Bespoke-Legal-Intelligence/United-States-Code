@@ -6,5 +6,5 @@ Within 90 days after the receipt of a tribal government's plan by the Secretary,
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–568 inserted “, including any request for a waiver that is made as part of the plan submitted by the tribal government” after “disapproval of the plan” and “, including reconsidering the disapproval of any waiver requested by the Indian tribe” after “reconsider such disapproval”.
+<b>2000</b>—Pub. L. 106–568 inserted ", including any request for a waiver that is made as part of the plan submitted by the tribal government" after "disapproval of the plan" and ", including reconsidering the disapproval of any waiver requested by the Indian tribe" after "reconsider such disapproval".
 

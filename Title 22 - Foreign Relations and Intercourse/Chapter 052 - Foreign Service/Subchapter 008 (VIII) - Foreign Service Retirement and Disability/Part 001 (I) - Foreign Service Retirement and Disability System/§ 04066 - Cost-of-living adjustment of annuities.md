@@ -22,7 +22,7 @@ Eligibility for an annuity increase under this section shall be governed by the 
 
 &emsp;&emsp;&emsp;(ii) in the case of a surviving spouse or former spouse of a deceased annuitant whose annuity has not been so increased, since the annuity was first payable to the deceased annuitant.
 
-&emsp;(2) Effective from its commencing date, an annuity payable from the Fund under this part to the survivor of an annuitant, except a child entitled to an annuity under section 4046(c) of this title or section 4049(c) or (d) of this title, shall be increased by the total percentage increase the annuitant was receiving under this section at death.
+&emsp;(2) Effective from its commencing date, an annuity payable from the Fund under this partto the survivor of an annuitant, except a child entitled to an annuity under section 4046(c) of this title or section 4049(c) or (d) of this title, shall be increased by the total percentage increase the annuitant was receiving under this section at death.
 
 &emsp;(3) For purposes of computing or recomputing an annuity to a child under section 4046(c) or (d) of this title or section 4049(c) or (d) of this title, the items $900, $1,080, $2,700, and $3,240 appearing in section 4046(c) of this title shall be increased by the total percentage increases by which corresponding amounts are being increased under section 8340 of title 5 on the date the annuity of the child becomes effective.
 
@@ -50,27 +50,27 @@ Effective from its commencing date, there shall be an increase of 10 percent in 
 
 &emsp;&emsp;(ii) ending on the effective date of the adjustment under this section.
 
-(2) For the purposes of paragraph (1) of this subsection, “pay” means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
+(2) For the purposes of paragraph (1) of this subsection, "pay" means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
 
-(Pub. L. 96–465, title I, §826, Oct. 17, 1980, 94 Stat. 2123; Ex. Ord. No. 12289, §1, Feb. 14, 1981, 46 F.R. 12693; Ex. Ord. No. 12446, §§2(a), 6(a), Oct. 17, 1983, 48 F.R. 48443, 48446; Pub. L. 99–335, title IV,§402(a)(3), June 6, 1986, 100 Stat. 609; Pub. L. 100–238, title II, §219, Jan. 8, 1988, 101 Stat. 1775.)
+(Pub. L. 96–465, title I, §826, Oct. 17, 1980, 94 Stat. 2123; Ex. Ord. No. 12289, §1, Feb. 14, 1981, 46 F.R. 12693; Ex. Ord. No. 12446, §§2(a), 6(a), Oct. 17, 1983, 48 F.R. 48443, 48446; Pub. L. 99–335, title IV, §402(a)(3), June 6, 1986, 100 Stat. 609; Pub. L. 100–238, title II, §219, Jan. 8, 1988, 101 Stat. 1775.)
 
 #### Amendments
 
-<b>1988</b>—Subsec. (c)(1). Pub. L. 100–238 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The first increase (if any) made under this section to an annuity which is payable from the Fund under this part to a participant or to the surviving spouse of a deceased participant who dies in service shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–238 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The first increase (if any) made under this section to an annuity which is payable from the Fund under this part to a participant or to the surviving spouse of a deceased participant who dies in service shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
 
-&emsp;“(a) 1/6 of the applicable percent change determined under subsection (b) of this section, multiplied by
+&emsp;"(a) 1/6 of the applicable percent change determined under subsection (b) of this section, multiplied by
 
-&emsp;“(b) the number of full months for which the annuity was payable from the Fund under this part before the effective date of the increase (counting any portion of a month as a full month).
+&emsp;"(b) the number of full months for which the annuity was payable from the Fund under this part before the effective date of the increase (counting any portion of a month as a full month).
 
-> In the administration of this paragraph, the number of days of unused sick leave to the credit of a participant or deceased participant on the effective date of the then last preceding general annuity increase under this section shall be deemed to be equal to the number of days of unused sick leave to his or her credit on the day of separation from the Service.”
+> In the administration of this paragraph, the number of days of unused sick leave to the credit of a participant or deceased participant on the effective date of the then last preceding general annuity increase under this section shall be deemed to be equal to the number of days of unused sick leave to his or her credit on the day of separation from the Service."
 
-<b>1986</b>—Subsecs. (a), (c). Pub. L. 99–335 inserted “under this part” after “payable from the Fund” wherever appearing.
+<b>1986</b>—Subsecs. (a), (c). Pub. L. 99–335 inserted "under this part" after "payable from the Fund" wherever appearing.
 
-<b>1983</b>—Subsec. (e). Ex. Ord. No. 12446, §2(a), substituted “rounded to the next lowest” for “fixed at the nearest”.
+<b>1983</b>—Subsec. (e). Ex. Ord. No. 12446, §2(a), substituted "rounded to the next lowest" for "fixed at the nearest".
 
 Subsec. (g). Ex. Ord. No. 12446, §6(a), added subsec. (g).
 
-<b>1981</b>—Subsec. (c)(1). Ex. Ord. No. 12289 amended first sentence of par. (1) generally. Prior to amendment, first sentence read as follows: “An annuity (except a deferred annuity) payable from the Fund to a participant who retires and receives an immediate annuity, or to a surviving spouse or former spouse of a deceased participant who dies in service or who dies after being separated with benefits under section 4009(b)(2) of this title, which has a commencing date after the effective date of the then last preceding general annuity increase under this section shall not be less than the annuity which would have been payable if the commencing date of such annuity had been the effective date of such last preceding increase.”
+<b>1981</b>—Subsec. (c)(1). Ex. Ord. No. 12289 amended first sentence of par. (1) generally. Prior to amendment, first sentence read as follows: "An annuity (except a deferred annuity) payable from the Fund to a participant who retires and receives an immediate annuity, or to a surviving spouse or former spouse of a deceased participant who dies in service or who dies after being separated with benefits under section 4009(b)(2) of this title, which has a commencing date after the effective date of the then last preceding general annuity increase under this section shall not be less than the annuity which would have been payable if the commencing date of such annuity had been the effective date of such last preceding increase."
 
 #### Effective Date of 1988 Amendment
 

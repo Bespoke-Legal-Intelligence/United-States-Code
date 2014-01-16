@@ -14,9 +14,9 @@ Minor changes in phraseology were made.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".
 
-<b>1970</b>—Pub. L. 91–375 substituted “Postal Service” for “Post Office Department of the United States”.
+<b>1970</b>—Pub. L. 91–375 substituted "Postal Service" for "Post Office Department of the United States".
 
 #### Effective Date of 1970 Amendment
 

@@ -6,27 +6,27 @@ If the day regularly designated for the delivery of benefit checks under subchap
 
 #### (b) Recovery of overpayments
 
-If more than the correct amount of payment under subchapter II, VIII, or XVI of this chapter is made to any individual as a result of the receipt of a benefit check pursuant to subsection (a) of this section before the end of the month for which such check is issued, no action shall be taken (under section 404 or 1383(b) of this title or otherwise) to recover such payment or the incorrect portion thereof.
+If more than the correct amount of payment under subchapter II, VIII, or XVI of this chapteris made to any individual as a result of the receipt of a benefit check pursuant to subsection (a) of this section before the end of the month for which such check is issued, no action shall be taken (under section 404 or 1383(b) of this title or otherwise) to recover such payment or the incorrect portion thereof.
 
 #### (c) Early delivery
 
-For purposes of computing the “OASDI trust fund ratio” under section 401(l) of this title, the “OASDI fund ratio” under section 415(i) of this title, and the “balance ratio” under section 910(b) of this title, benefit checks delivered before the end of the month for which they are issued by reason of subsection (a) of this section shall be deemed to have been delivered on the regularly designated delivery date.
+For purposes of computing the "OASDI trust fund ratio" under section 401(l) of this title, the "OASDI fund ratio" under section 415(i) of this title, and the "balance ratio" under section 910(b) of this title, benefit checks delivered before the end of the month for which they are issued by reason of subsection (a) of this section shall be deemed to have been delivered on the regularly designated delivery date.
 
 (Aug. 14, 1935, ch. 531, title VII, §708, as added Pub. L. 95–216, title III, §333(a), Dec. 20, 1977, 91 Stat. 1543; amended Pub. L. 99–272, title XII, §12111(a), Apr. 7, 1986, 100 Stat. 287; Pub. L. 106–169, title II, §251(b)(5), Dec. 14, 1999, 113 Stat. 1855.)
 
 #### Amendments
 
-<b>1999</b>—Subsecs. (a), (b). Pub. L. 106–169 substituted “subchapter II, VIII,” for “subchapter II”.
+<b>1999</b>—Subsecs. (a), (b). Pub. L. 106–169 substituted "subchapter II, VIII," for "subchapter II".
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–272 added subsec. (c).
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–272, title XII, §12111(c), Apr. 7, 1986, 100 Stat. 288, provided that: “The amendments made by this section \[amending this section and section 86 of Title 26, Internal Revenue Code\] shall apply with respect to benefit checks issued for months ending after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title XII, §12111(c), Apr. 7, 1986, 100 Stat. 288, provided that: "The amendments made by this section \[amending this section and section 86 of Title 26, Internal Revenue Code\] shall apply with respect to benefit checks issued for months ending after the date of the enactment of this Act \[Apr. 7, 1986\]."
 
 #### Effective Date
 
-Pub. L. 95–216, title III, §333(b), Dec. 20, 1977, 91 Stat. 1544, provided that: “The amendment made by subsection (a) of this section \[enacting this section\] shall apply with respect to benefit checks the regularly designated day for delivery of which occurs on or after the thirtieth day after the date of the enactment of this Act \[Dec. 20, 1977\].”
+Pub. L. 95–216, title III, §333(b), Dec. 20, 1977, 91 Stat. 1544, provided that: "The amendment made by subsection (a) of this section \[enacting this section\] shall apply with respect to benefit checks the regularly designated day for delivery of which occurs on or after the thirtieth day after the date of the enactment of this Act \[Dec. 20, 1977\]."
 
 #### Timing of Delivery of October 1, 2000, SSI Benefit Payments
 

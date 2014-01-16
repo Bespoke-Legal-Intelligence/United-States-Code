@@ -26,15 +26,15 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (2) Allowable reinsurance costs
 
-&emsp;For purposes of this section, the term “allowable reinsurance costs” means, with respect to gross covered prescription drug costs under a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization or by (or on behalf of) an enrollee under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were standard prescription drug coverage.
+&emsp;For purposes of this section, the term "allowable reinsurance costs" means, with respect to gross covered prescription drug costs under a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization or by (or on behalf of) an enrollee under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were standard prescription drug coverage.
 
 #### (3) Gross covered prescription drug costs
 
-&emsp;For purposes of this section, the term “gross covered prescription drug costs” means, with respect to a part D eligible individual enrolled in a prescription drug plan or MA–PD plan during a coverage year, the costs incurred under the plan, not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year and costs relating to the deductible. Such costs shall be determined whether they are paid by the individual or under the plan, regardless of whether the coverage under the plan exceeds basic prescription drug coverage.
+&emsp;For purposes of this section, the term "gross covered prescription drug costs" means, with respect to a part D eligible individual enrolled in a prescription drug plan or MA–PD plan during a coverage year, the costs incurred under the plan, not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year and costs relating to the deductible. Such costs shall be determined whether they are paid by the individual or under the plan, regardless of whether the coverage under the plan exceeds basic prescription drug coverage.
 
 #### (4) Coverage year defined
 
-&emsp;For purposes of this section, the term “coverage year” means a calendar year in which covered part D drugs are dispensed if the claim for such drugs (and payment on such claim) is made not later than such period after the end of such year as the Secretary specifies.
+&emsp;For purposes of this section, the term "coverage year" means a calendar year in which covered part D drugs are dispensed if the claim for such drugs (and payment on such claim) is made not later than such period after the end of such year as the Secretary specifies.
 
 #### (c) Adjustments relating to bids
 
@@ -54,7 +54,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 &emsp;&emsp;&emsp;(i) PDP sponsors to submit data regarding drug claims that can be linked at the individual level to part A and part B data and such other information as the Secretary determines necessary; and
 
-&emsp;&emsp;&emsp;(ii) MA organizations that offer MA–PD plans to submit data regarding drug claims that can be linked at the individual level to other data that such organizations are required to submit to the Secretary and such other information as the Secretary determines necessary.
+&emsp;&emsp;&emsp;(ii) MA organizations that offer MA–PD plans to submit data regarding drug claims that can be linked at the individual level to other data that such organizationsare required to submit to the Secretary and such other information as the Secretary determines necessary.
 
 #### (D) Publication
 
@@ -88,7 +88,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (B) Restriction on use of information
 
-&emsp;&emsp;Information disclosed or obtained pursuant to subparagraph (A) may be used by officers, employees, and contractors of the Department of Health and Human Servicesonly for the purposes of, and to the extent necessary in, carrying out this section.
+&emsp;&emsp;Information disclosed or obtained pursuant to subparagraph (A) may be used by officers, employees, and contractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this section.
 
 #### (3) Source of payments
 
@@ -104,7 +104,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term “adjusted allowable risk corridor costs” means, for a plan for a coverage year (as defined in subsection (b)(4) of this section)—
+&emsp;&emsp;For purposes of this subsection, the term "adjusted allowable risk corridor costs" means, for a plan for a coverage year (as defined in subsection (b)(4) of this section)—
 
 &emsp;&emsp;&emsp;(i) the allowable risk corridor costs (as defined in subparagraph (B)) for the plan for the year, reduced by
 
@@ -112,7 +112,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (B) Allowable risk corridor costs
 
-&emsp;&emsp;For purposes of this subsection, the term “allowable risk corridor costs” means, with respect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of costs (not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year) incurred by the sponsor or organization under the plan that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were basic prescription drug coverage taking into account the adjustment under section 1395w–111(c)(2) of this title. In computing allowable costs under this paragraph, the Secretary shall compute such costs based upon imposition under paragraphs (1)(D) and (2)(E) of section 1395w–114(a) of this title of the maximum amount of copayments permitted under such paragraphs.
+&emsp;&emsp;For purposes of this subsection, the term "allowable risk corridor costs" means, with respect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of costs (not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year) incurred by the sponsor or organization under the plan that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were basic prescription drug coverage taking into account the adjustment under section 1395w–111(c)(2) of this title. In computing allowable costs under this paragraph, the Secretary shall compute such costs based upon imposition under paragraphs (1)(D) and (2)(E) of section 1395w–114(a) of this title of the maximum amount of copayments permitted under such paragraphs.
 
 #### (2) Adjustment of payment
 
@@ -230,7 +230,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (5) No effect on monthly premium
 
-&emsp;No adjustment in payments made by reason of this subsection shall affect the monthlybeneficiary premium or the MA monthly prescription drug beneficiary premium.
+&emsp;No adjustment in payments made by reason of this subsection shall affect the monthly beneficiary premium or the MA monthly prescription drug beneficiary premium.
 
 #### (f) Disclosure of information
 
@@ -262,13 +262,13 @@ In lieu of the amounts otherwise payable under this section to a PDP sponsor off
 
 #### References in Text
 
-Section 1395w–111(g)(4) of this title, referred to in subsec. (g), was in the original “section 1860D–3(c)(4)”, and was translated as reading “section 1860D–11(g)(4)”, meaning section 1860D–11(g)(4) of the Social Security Act, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (c), and section 1395w–111(g)(4) of this title defines “fallback prescription drug plan” for purposes of this part.
+Section 1395w–111(g)(4) of this title, referred to in subsec. (g), was in the original "section 1860D–3(c)(4)", and was translated as reading "section 1860D–11(g)(4)", meaning section 1860D–11(g)(4) of the Social Security Act, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (c), and section 1395w–111(g)(4) of this title defines "fallback prescription drug plan" for purposes of this part.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (f)(2). Pub. L. 111–148 substituted “may be used—” for “may be used by officers, employees, and contractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this section.” in introductory provisions and added subpars. (A) and (B).
+<b>2010</b>—Subsec. (f)(2). Pub. L. 111–148 substituted "may be used—" for "may be used by officers, employees, and contractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this section." in introductory provisions and added subpars. (A) and (B).
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

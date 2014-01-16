@@ -22,11 +22,11 @@ In this part:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Environmental Protection Agency.
+&emsp;The term "Administrator" means the Administrator of the Environmental Protection Agency.
 
 #### (2) State
 
-&emsp;The term “State” means—
+&emsp;The term "State" means—
 
 &emsp;&emsp;(A) a State;
 
@@ -38,5 +38,5 @@ In this part:
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (a)(5), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which isclassified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (a)(5), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 

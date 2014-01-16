@@ -14,7 +14,7 @@ The System institution or person assessed shall be afforded an opportunity for a
 
 #### (d) Judicial review
 
-Any System institution or person against whom an order imposing a civil money penalty has been entered after a Farm Credit Administration hearing under this section may obtain review by the United States court of appeals for the circuit in which the home office of the System institution is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within twenty days after the service of such order, and simultaneously sending a copy of such notice by registered or certified mail to the Farm Credit Administration. The Farm Credit Administration shall promptly certify and file in such Court the record upon which the penalty was imposed, as provided in section 2112 of title 28. Final orders of the Farm Credit Administration issued under subsection (c) of this section shall be reviewable under chapter 7 of title 5.
+Any System institution or person against whom an order imposing a civil money penalty has been entered after a Farm Credit Administration hearing under this section may obtain review by the United States court of appeals for the circuit in which the home office of the System institution is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within twenty days after the service of such order, and simultaneously sending a copy ofsuch notice by registered or certified mail to the Farm Credit Administration. The Farm Credit Administration shall promptly certify and file in such Court the record upon which the penalty was imposed, as provided in section 2112 of title 28. Final orders of the Farm Credit Administration issued under subsection (c) of this section shall be reviewable under chapter 7 of title 5.
 
 #### (e) Action by Attorney General to recover amount assessed
 
@@ -36,13 +36,13 @@ For purposes of this section, any directive issued under section 2154(b)(2), 215
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–233, §423(a), substituted “continues. Any such institution or person who violates any provision of this chapter or any regulation issued under this chapter shall forfeit and pay a civil penalty of not more than $500 per day for each day during which such violation continues. Notwithstanding the preceding sentences,” for “continues, but”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–233, §423(a), substituted "continues. Any such institution or person who violates any provision of this chapter or any regulation issued under this chapter shall forfeit and pay a civil penalty of not more than $500 per day for each day during which such violation continues. Notwithstanding the preceding sentences," for "continues, but".
 
-Subsec. (b). Pub. L. 100–233, §423(b), inserted “Before determining whether to assess a civil money penalty and determining the amount of such penalty, the Farm Credit Administration shall notify the institution or person to be assessed of the violation or violations alleged to have occurred or to be occurring, and shall solicit the views of the institution or person regarding the imposition of such penalty.”
+Subsec. (b). Pub. L. 100–233, §423(b), inserted "Before determining whether to assess a civil money penalty and determining the amount of such penalty, the Farm Credit Administration shall notify the institution or person to be assessed of the violation or violations alleged to have occurred or to be occurring, and shall solicit the views of the institution or person regarding the imposition of such penalty."
 
-Subsec. (d). Pub. L. 100–233, §423(c), substituted “Final orders of the Farm Credit Administration issued under subsection (c) of this section shall be reviewable under chapter 7 of title 5” for “The findings of the Farm Credit Administration shall be set aside if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5”.
+Subsec. (d). Pub. L. 100–233, §423(c), substituted "Final orders of the Farm Credit Administration issued under subsection (c) of this section shall be reviewable under chapter 7 of title 5" for "The findings of the Farm Credit Administration shall be set aside if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5".
 
-Subsec. (f). Pub. L. 100–233, §805(dd), substituted “section 2267 of this title and this section” for “sections 2267 and 2268 of this title”.
+Subsec. (f). Pub. L. 100–233, §805(dd), substituted "section 2267 of this title and this section" for "sections 2267 and 2268 of this title".
 
 Subsec. (h). Pub. L. 100–233, §804(a)(2), added subsec. (h).
 

@@ -32,7 +32,7 @@ Section was formerly classified to section 12546 of this title prior to renumber
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–82, §101(e)(1), (6), substituted “Corporation” for “Commission” and “section 12655b of this title” for “section 12543 of this title”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–82, §101(e)(1), (6), substituted "Corporation" for "Commission" and "section 12655b of this title" for "section 12543 of this title".
 
 #### Effective Date of 1993 Amendment
 

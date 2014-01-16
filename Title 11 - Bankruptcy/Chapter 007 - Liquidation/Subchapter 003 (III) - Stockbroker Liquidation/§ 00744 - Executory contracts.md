@@ -12,5 +12,5 @@ Section 744 instructs the court to give the trustee a reasonable time, not to ex
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–222 inserted “but” after “relief,”.
+<b>1982</b>—Pub. L. 97–222 inserted "but" after "relief,".
 

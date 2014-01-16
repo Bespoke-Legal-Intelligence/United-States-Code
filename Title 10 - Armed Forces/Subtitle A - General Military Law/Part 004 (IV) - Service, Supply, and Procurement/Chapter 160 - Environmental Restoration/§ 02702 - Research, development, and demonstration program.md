@@ -38,7 +38,7 @@ Role of epa.—The functions of the Secretary under paragraph (1) shall be carri
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–375 inserted “(42 U.S.C. 9660(a)(5))” after “311(a)(5) of CERCLA”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 inserted "(42 U.S.C. 9660(a)(5))" after "311(a)(5) of CERCLA".
 
 #### Partnerships for Investment in Innovative Environmental Technologies
 

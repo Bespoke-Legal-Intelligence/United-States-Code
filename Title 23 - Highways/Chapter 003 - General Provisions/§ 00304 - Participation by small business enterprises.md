@@ -6,7 +6,7 @@ It is declared to be in the national interest to encourage and develop the actua
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “Federal-aid highways” for “the Federal-aid highway systems”.
+<b>2012</b>—Pub. L. 112–141 substituted "Federal-aid highways" for "the Federal-aid highway systems".
 
 #### Effective Date of 2012 Amendment
 

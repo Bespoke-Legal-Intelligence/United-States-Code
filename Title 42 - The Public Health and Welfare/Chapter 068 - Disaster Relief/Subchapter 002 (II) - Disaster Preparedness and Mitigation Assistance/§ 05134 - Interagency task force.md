@@ -22,7 +22,7 @@ The membership of the task force shall include representatives of—
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 111–351 substituted “Administrator” for “Director”.
+<b>2011</b>—Subsec. (b). Pub. L. 111–351 substituted "Administrator" for "Director".
 
 #### Transfer of Functions
 

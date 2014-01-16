@@ -14,11 +14,11 @@ Subject to approval in appropriation Acts, not more than $50,000,000 of the amou
 
 <b>1992</b>—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows:
 
-“(a)
+"(a)
 
 General.—There are authorized to be appropriated for assistance and incentives authorized under this chapter $425,000,000 for fiscal year 1991 and $858,000,000 for fiscal year 1992.
 
-“(b)
+"(b)
 
-Grants.—Of the amounts made available under subsection (a) of this section, not more than $100,000,000 for each of fiscal years 1991 and 1992 shall be available for grants under section 4111(d)(2) of this title, subject to approval in appropriations Acts.”
+Grants.—Of the amounts made available under subsection (a) of this section, not more than $100,000,000 for each of fiscal years 1991 and 1992 shall be available for grants under section 4111(d)(2) of this title, subject to approval in appropriations Acts."
 

@@ -30,9 +30,9 @@
 
 <b>2009</b>—Pub. L. 111–5, div. B, title I, §1531(c)(7), title III, §3001(a)(12)(C), Feb. 17, 2009, 123 Stat. 360, 463, added items 6431 and 6432.
 
-<b>2008</b>—Pub. L. 110–185, title I, §101(f)(3), Feb. 13, 2008, 122 Stat. 617, substituted “2008 recovery rebates for individuals” for “Acceleration of 10 percent income tax rate bracket benefit for 2001” in item 6428.
+<b>2008</b>—Pub. L. 110–185, title I, §101(f)(3), Feb. 13, 2008, 122 Stat. 617, substituted "2008 recovery rebates for individuals" for "Acceleration of 10 percent income tax rate bracket benefit for 2001" in item 6428.
 
-<b>2005</b>—Pub. L. 109–59, title XI, §11113(b)(3)(B), Aug. 10, 2005, 119 Stat. 1948, substituted “alcohol fuel, biodiesel, and alternative fuel” for “alcohol fuel and biodiesel” in item 6426.
+<b>2005</b>—Pub. L. 109–59, title XI, §11113(b)(3)(B), Aug. 10, 2005, 119 Stat. 1948, substituted "alcohol fuel, biodiesel, and alternative fuel" for "alcohol fuel and biodiesel" in item 6426.
 
 Pub. L. 109–58, title XIII, §1362(b)(3)(B), Aug. 8, 2005, 119 Stat. 1059, added item 6430.
 
@@ -42,31 +42,31 @@ Pub. L. 109–58, title XIII, §1362(b)(3)(B), Aug. 8, 2005, 119 Stat. 1059, add
 
 <b>2001</b>—Pub. L. 107–16, title I, §101(b)(2), June 7, 2001, 115 Stat. 43, added item 6428.
 
-<b>1990</b>—Pub. L. 101–508, title XI, §11801(b)(15), (c)(22)(B)(ii), Nov. 5, 1990, 104 Stat. 1388–522, 1388–528, struck out item 6418 “Sugar” and item 6428 “1981 rate reduction tax credit”.
+<b>1990</b>—Pub. L. 101–508, title XI, §11801(b)(15), (c)(22)(B)(ii), Nov. 5, 1990, 104 Stat. 1388–522, 1388–528, struck out item 6418 "Sugar" and item 6428 "1981 rate reduction tax credit".
 
-<b>1988</b>—Pub. L. 100–418, title I, §1941(b)(3)(E), Aug. 23, 1988, 102 Stat. 1324, struck out items 6429 “Credit and refund of chapter 45 taxes paid by royalty owners” and 6430 “Credit or refund of windfall profit taxes to certain trust beneficiaries”.
+<b>1988</b>—Pub. L. 100–418, title I, §1941(b)(3)(E), Aug. 23, 1988, 102 Stat. 1324, struck out items 6429 "Credit and refund of chapter 45 taxes paid by royalty owners" and 6430 "Credit or refund of windfall profit taxes to certain trust beneficiaries".
 
-<b>1986</b>—Pub. L. 99–514, title XVII, §1703(c)(2)(E), Oct. 22, 1986, 100 Stat. 2777, substituted “, used by local transit systems, or sold for certain exempt purposes” for “or by local transit systems” in item 6421.
+<b>1986</b>—Pub. L. 99–514, title XVII, §1703(c)(2)(E), Oct. 22, 1986, 100 Stat. 2777, substituted ", used by local transit systems, or sold for certain exempt purposes" for "or by local transit systems" in item 6421.
 
 <b>1983</b>—Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
 Pub. L. 97–448, title I, §106(a)(4)(D), Jan. 12, 1983, 96 Stat. 2390, added item 6430.
 
-Pub. L. 97–424, title V, §515(b)(14), Jan. 6, 1983, 96 Stat. 2182, struck out item 6424 “Lubricating oil used for certain nontaxable purposes”.
+Pub. L. 97–424, title V, §515(b)(14), Jan. 6, 1983, 96 Stat. 2182, struck out item 6424 "Lubricating oil used for certain nontaxable purposes".
 
-<b>1982</b>—Pub. L. 97–248, title II, §280(c)(2)(H), Sept. 3, 1982, 96 Stat. 565, struck out item 6426 “Refund of aircraft use tax where plane transports for hire in foreign air commerce”.
+<b>1982</b>—Pub. L. 97–248, title II, §280(c)(2)(H), Sept. 3, 1982, 96 Stat. 565, struck out item 6426 "Refund of aircraft use tax where plane transports for hire in foreign air commerce".
 
-Pub. L. 97–248, title III, §§307(a)(13), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, item 6413 is amended by substituting “taxes under subtitle C” for “employment taxes”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+Pub. L. 97–248, title III, §§307(a)(13), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, item 6413 is amended by substituting "taxes under subtitle C" for "employment taxes". Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-<b>1981</b>—Pub. L. 97–34, title I, §101(b)(2)(A), Aug. 13, 1981, 95 Stat. 183, substituted “1981 rate reduction tax credit” for “Refund of 1974 individual income taxes” in item 6428.
+<b>1981</b>—Pub. L. 97–34, title I, §101(b)(2)(A), Aug. 13, 1981, 95 Stat. 183, substituted "1981 rate reduction tax credit" for "Refund of 1974 individual income taxes" in item 6428.
 
 <b>1980</b>—Pub. L. 96–499, title XI, §1131(a)(2), Dec. 5, 1980, 94 Stat. 2693, added item 6429.
 
-<b>1978</b>—Pub. L. 95–618, title II, §233(b)(2)(B), Nov. 9, 1978, 92 Stat. 3191, substituted “used for certain nontaxable purposes” for “not used in highway motor vehicles” in item 6424.
+<b>1978</b>—Pub. L. 95–618, title II, §233(b)(2)(B), Nov. 9, 1978, 92 Stat. 3191, substituted "used for certain nontaxable purposes" for "not used in highway motor vehicles" in item 6424.
 
-Pub. L. 95–600, title V, §504(b)(1)(B), Nov. 6, 1978, 92 Stat. 2881, inserted “and refund” after “carryback” in item 6411.
+Pub. L. 95–600, title V, §504(b)(1)(B), Nov. 6, 1978, 92 Stat. 2881, inserted "and refund" after "carryback" in item 6411.
 
-<b>1976</b>—Pub. L. 94–455, title XIX, §1906(b)(7), Oct. 4, 1976, 90 Stat. 1834, struck out item 6417 “Coconut and palm oil”.
+<b>1976</b>—Pub. L. 94–455, title XIX, §1906(b)(7), Oct. 4, 1976, 90 Stat. 1834, struck out item 6417 "Coconut and palm oil".
 
 <b>1975</b>—Pub. L. 94–12, title I, §101(c), Mar. 29, 1975, 89 Stat. 28, added item 6428.
 

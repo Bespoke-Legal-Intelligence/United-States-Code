@@ -288,11 +288,11 @@ A prior section 3838a, Pub. L. 99–198, title XII, §1238A, as added Pub. L. 10
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(3)(C). Pub. L. 110–246, §2301(c), substituted “subpart D” for “subpart C”.
+<b>2008</b>—Subsec. (b)(3)(C). Pub. L. 110–246, §2301(c), substituted "subpart D" for "subpart C".
 
 Subsec. (g). Pub. L. 110–246, §2301(b), added subsec. (g).
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–171 substituted “2011” for “2007”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–171 substituted "2011" for "2007".
 
 #### Effective Date of 2008 Amendment
 

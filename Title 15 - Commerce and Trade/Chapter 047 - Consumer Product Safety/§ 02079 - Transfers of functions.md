@@ -26,9 +26,9 @@ The functions of the Secretary of Commerce and the Federal Trade Commission unde
 
 (4) The provisions of this section shall not affect suits commenced prior to the date this section takes effect and in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect as if this section had not been enacted; except that if before the date on which this section takes effect, any department or agency (or officer thereof in his official capacity) is a party to a suit involving functions transferred to the Commission, then such suit shall be continued by the Commission. No cause of action, and no suit, action, or other proceeding, by or against any department or agency (or officer thereof in his official capacity) functions of which are transferred by this section, shall abate by reason of the enactment of this section. Causes of actions, suits, actions, or other proceedings may be asserted by or against the United States or the Commission as may be appropriate and, in any litigation pending when this section takes effect, the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this paragraph.
 
-#### (f) “Function” defined
+#### (f) "Function" defined
 
-For purposes of this section, (1) the term “function” includes power and duty, and (2) the transfer of a function, under any provision of law, of an agency or the head of a department shall also be a transfer of all functions under such law which are exercised by any office or officer of such agency, or department.
+For purposes of this section, (1) the term "function" includes power and duty, and (2) the transfer of a function, under any provision of law, of an agency or the head of a department shall also be a transfer of all functions under such law which are exercised by any office or officer of such agency, or department.
 
 (Pub. L. 92–573, §30, Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §§3(f), 16, May 11, 1976, 90 Stat. 504, 510; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 110–314, title II, §237, Aug. 14, 2008, 122 Stat. 3076.)
 
@@ -36,7 +36,7 @@ For purposes of this section, (1) the term “function” includes power and dut
 
 The Federal Hazardous Substances Act, referred to in subsec. (a), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
-The Poison Prevention Packaging Act of 1970, referred to in subsec. (a), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified generally to chapter 39A (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
+The Poison Prevention Packaging Act of 1970, referred to in subsec. (a), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to chapter 39A (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
@@ -52,11 +52,11 @@ Paragraphs (3) through (8)(A) of section 15(b) of the Clean Air Amendments of 19
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d). Pub. L. 110–314 struck out subsec. (d). Prior to amendment, text read as follows: “A risk of injury which is associated with a consumer product and which could be eliminated or reduced to a sufficient extent by action under the Federal Hazardous Substances Act, the Poison Prevention Packaging Act of 1970, or the Flammable Fabrics Act may be regulated under this chapter only if the Commission by rule finds that it is in the public interest to regulate such risk of injury under this chapter. Such a rule shall identify the risk of injury proposed to be regulated under this chapter and shall be promulgated in accordance with section 553 of title 5; except that the period to be provided by the Commission pursuant to subsection (c) of such section for the submission of data, views, and arguments respecting the rule shall not exceed thirty days from the date of publication pursuant to subsection (b) of such section of a notice respecting the rule.”
+<b>2008</b>—Subsec. (d). Pub. L. 110–314 struck out subsec. (d). Prior to amendment, text read as follows: "A risk of injury which is associated with a consumer product and which could be eliminated or reduced to a sufficient extent by action under the Federal Hazardous Substances Act, the Poison Prevention Packaging Act of 1970, or the Flammable Fabrics Act may be regulated under this chapter only if the Commission by rule finds that it is in the public interest to regulate such risk of injury under this chapter. Such a rule shall identify the risk of injury proposed to be regulated under this chapter and shall be promulgated in accordance with section 553 of title 5; except that the period to be provided by the Commission pursuant to subsection (c) of such section for the submission of data, views, and arguments respecting the rule shall not exceed thirty days from the date of publication pursuant to subsection (b) of such section of a notice respecting the rule."
 
-<b>1988</b>—Subsec. (e)(1)(A). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (e)(1)(A). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–284, §3(f), struck out “of the Administrator of the Environmental Protection Agency and” before “of the Secretary of Health, Education, and Welfare” and substituted “Federal Food, Drug, and Cosmetic Act” for “Acts amended by subsections (b) through (f) of section 7 of the Poison Prevention Act of 1970”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–284, §3(f), struck out "of the Administrator of the Environmental Protection Agency and" before "of the Secretary of Health, Education, and Welfare" and substituted "Federal Food, Drug, and Cosmetic Act" for "Acts amended by subsections (b) through (f) of section 7 of the Poison Prevention Act of 1970".
 
 Subsec. (d). Pub. L. 94–284, §16, inserted requirement that the Commission find by a rule, promulgated in accordance with section 553 of title 5, that it is within the public interest to regulate a risk of injury under this chapter which could be eliminated or reduced by action under the enumerated acts.
 

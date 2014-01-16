@@ -2,7 +2,7 @@
 
 #### (a) Grant awards
 
-The Director of the Office of Science of the Department (referred to in this section as the “Director”) shall carry out a program to award grants to scientists and engineers at an early career stage at institutions of higher education and organizations described in subsection (c) to conduct research in fields relevant to the mission of the Department.
+The Director of the Office of Science of the Department (referred to in this section as the "Director") shall carry out a program to award grants to scientists and engineers at an early career stage at institutions of higher education and organizations described in subsection (c) to conduct research in fields relevant to the mission of the Department.
 
 #### (b) Amount and duration
 
@@ -106,9 +106,9 @@ There is authorized to be appropriated to the Secretary, acting through the Dire
 
 #### Amendments
 
-<b>2011</b>—Subsec. (h). Pub. L. 111–358 substituted “2013” for “2010”.
+<b>2011</b>—Subsec. (h). Pub. L. 111–358 substituted "2013" for "2010".
 
 #### Change of Name
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science,Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

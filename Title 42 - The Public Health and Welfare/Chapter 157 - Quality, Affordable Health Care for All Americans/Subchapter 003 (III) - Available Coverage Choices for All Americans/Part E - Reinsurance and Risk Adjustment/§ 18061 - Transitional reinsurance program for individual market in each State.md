@@ -12,7 +12,7 @@ Each State shall, not later than January 1, 2014—
 
 #### (1) In general
 
-&emsp;In establishing the Federal standards under section 18041(a) of this title, the Secretary, in consultation with the National Association of Insurance Commissioners (the “NAIC”), shallinclude provisions that enable States to establish and maintain a program under which—
+&emsp;In establishing the Federal standards under section 18041(a) of this title, the Secretary, in consultation with the National Association of Insurance Commissioners (the "NAIC"), shallinclude provisions that enable States to establish and maintain a program under which—
 
 &emsp;&emsp;(A) health insurance issuers, and third party administrators on behalf of group health plans, are required to make payments to an applicable reinsurance entity for any plan year beginning in the 3-year period beginning January 1, 2014 (as specified in paragraph (3); <sup>1</sup> and
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “applicable reinsurance entity” means a not-for-profit organization—
+&emsp;The term "applicable reinsurance entity" means a not-for-profit organization—
 
 &emsp;&emsp;(A) the purpose of which is to help stabilize premiums for coverage in the individual market in a State during the first 3 years of operation of an Exchange for such markets within the State when the risk of adverse selection related to new rating rules and market changes is greatest; and
 
@@ -96,15 +96,15 @@ The State shall eliminate or modify any State high-risk pool to the extent neces
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148, §10104(r)(1), substituted “market” for “and small group markets” in section catchline.
+<b>2010</b>—Pub. L. 111–148, §10104(r)(1), substituted "market" for "and small group markets" in section catchline.
 
-Subsec. (b)(2)(B). Pub. L. 111–148, §10104(r)(2), substituted “paragraph (1)(B)” for “paragraph (1)(A)” in introductory provisions.
+Subsec. (b)(2)(B). Pub. L. 111–148, §10104(r)(2), substituted "paragraph (1)(B)" for "paragraph (1)(A)" in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 111–148, §10104(r)(3), substituted “individual market” for “individual and small group markets”.
+Subsec. (c)(1)(A). Pub. L. 111–148, §10104(r)(3), substituted "individual market" for "individual and small group markets".
 
 <i><sup>1</sup></i><i> So in original. A second closing parenthesis probably should precede the semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “in”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "in".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be preceded by “of”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be preceded by "of".</i>
 

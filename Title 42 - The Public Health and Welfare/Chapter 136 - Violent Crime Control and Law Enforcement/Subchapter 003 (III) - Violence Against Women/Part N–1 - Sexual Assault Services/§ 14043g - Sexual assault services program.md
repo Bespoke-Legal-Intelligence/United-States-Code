@@ -28,7 +28,7 @@ The purposes of this section are—
 
 #### (1) Grants authorized
 
-&emsp;The Attorney General shall award grants to States and territories to support the establishment, maintenance, and expansion of rape crisis centers and other programs and projects to assist those victimized by sexual assault.
+&emsp;The Attorney General shall award grants to States and territories to support the establishment, maintenance, and expansion of rape crisis centers and other nongovernmental or tribal programs and projects to assist individuals who have been victimized by sexual assault, without regard to the age of the individual.
 
 #### (2) Allocation and use of funds
 
@@ -38,7 +38,7 @@ The purposes of this section are—
 
 #### (B) Grant funds
 
-&emsp;&emsp;Any funds received by a State or territory under this subsection that are not used for administrative costs shall be used to provide grants to rape crisis centers and other nonprofit, nongovernmental organizations for programs and activities within such State or territory that provide direct intervention and related assistance.
+&emsp;&emsp;Any funds received by a State or territory under this subsection that are not used for administrative costs shall be used to provide grants to rape crisis centers and other nonprofit, nongovernmental organizations or tribal programs and activities for programs and activities within such State or territory that provide direct intervention and related assistance.
 
 #### (C) Intervention and related assistance
 
@@ -52,7 +52,7 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;(iv) information and referral to assist the sexual assault victim and family or household members;
 
-&emsp;&emsp;&emsp;(v) community-based, linguistically and culturally specific services and support mechanisms, including outreach activities for underserved communities; and
+&emsp;&emsp;&emsp;(v) community-based, culturally specific services and support mechanisms, including outreach activities for underserved communities; and
 
 &emsp;&emsp;&emsp;(vi) the development and distribution of materials on issues related to the services described in clauses (i) through (v).
 
@@ -76,7 +76,7 @@ The purposes of this section are—
 
 #### (4) Minimum amount
 
-&emsp;The Attorney General shall allocate to each State not less than 1.50 percent of the total amount appropriated in a fiscal year for grants under this section, except that the United States Virgin Islands, American Samoa, Guam, the District of Columbia, Puerto Rico, and the Commonwealth of the Northern Mariana Islands shall each be allocated 0.125 percent of the total appropriations. The remaining funds shall be allotted to each State and each territory in an amount that bears the same ratio to such remaining funds as the population of such State and such territory bears to the population of all the States and the territories. The District of Columbia shall be treated as a territory for purposes of calculating its allocation under the preceding formula.
+&emsp;The Attorney General shall allocate to each State (including the District of Columbia and Puerto Rico) not less than 1.50 percent of the total amount appropriated in a fiscal year for grants under this section, except that the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands shall each be allocated 0.25 percent of the total appropriations. The remaining funds shall be allotted to each State and each territory in an amount that bears the same ratio to such remaining funds as the population of such State and such territory bears to the population of all the States and the territories.
 
 #### (c) Grants for culturally specific programs addressing sexual assault
 
@@ -138,7 +138,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(B) work with judicial and law enforcement agencies to encourage appropriate responses to sexual assault cases;
 
-&emsp;&emsp;(C) work with courts, child protective services agencies, and children's advocates to develop appropriate responses to child custody and visitation issues when sexual assault has been determined to be a factor;
+&emsp;&emsp;(C) work with courts, child protective services agencies, and children's advocatesto develop appropriate responses to child custody and visitation issues when sexual assault has been determined to be a factor;
 
 &emsp;&emsp;(D) design and conduct public education campaigns;
 
@@ -182,7 +182,7 @@ The purposes of this section are—
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated $50,000,000 to remain available until expendedfor each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
+&emsp;There are authorized to be appropriated $40,000,000 to remain available until expended for each of fiscal years 2014 through 2018 to carry out the provisions of this section.
 
 #### (2) Allocations
 
@@ -200,5 +200,23 @@ The purposes of this section are—
 
 &emsp;&emsp;(F) not less than 10 percent shall be used for grants for culturally specific programs addressing sexual assault under subsection (c).
 
-(Pub. L. 103–322, title IV, §41601, as added Pub. L. 109–271, §3(b), Aug. 12, 2006, 120 Stat. 754.)
+(Pub. L. 103–322, title IV, §41601, as added Pub. L. 109–271, §3(b), Aug. 12, 2006, 120 Stat. 754; amended Pub. L. 113–4, title II, §201, Mar. 7, 2013, 127 Stat. 80.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (b)(1). Pub. L. 113–4, §201(a)(1), substituted "other nongovernmental or tribal programs and projects to assist individuals who have been victimized by sexual assault, without regard to the age of the individual." for "other programs and projects to assist those victimized by sexual assault."
+
+Subsec. (b)(2)(B). Pub. L. 113–4, §201(a)(2)(A), inserted "or tribal programs and activities" after "nongovernmental organizations".
+
+Subsec. (b)(2)(C)(v). Pub. L. 113–4, §201(a)(2)(B), struck out "linguistically and" before "culturally".
+
+Subsec. (b)(4). Pub. L. 113–4, §201(a)(3)(B), which directed striking out "the District of Columbia, Puerto Rico," after "Guam", was executed by striking out such phrase after "Guam," to reflect the probable intent of Congress.
+
+Pub. L. 113–4, §201(a)(3)(A), (C), (D), inserted "(including the District of Columbia and Puerto Rico)" after "The Attorney General shall allocate to each State", substituted "0.25 percent" for "0.125 percent", and struck out at end "The District of Columbia shall be treated as a territory for purposes of calculating its allocation under the preceding formula."
+
+Subsec. (f)(1). Pub. L. 113–4, §201(b), substituted "$40,000,000 to remain available until expended for each of fiscal years 2014 through 2018" for "$50,000,000 to remain available until expended for each of the fiscal years 2007 through 2011".
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 

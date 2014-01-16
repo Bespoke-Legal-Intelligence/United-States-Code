@@ -6,7 +6,7 @@ Obligations of the Federal Home Loan Banks issued with the approval of the Board
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–289 inserted “or the Director” after “the Board”.
+<b>2008</b>—Pub. L. 110–289 inserted "or the Director" after "the Board".
 
-<b>1989</b>—Pub. L. 101–73 substituted “Board” for “board”.
+<b>1989</b>—Pub. L. 101–73 substituted "Board" for "board".
 

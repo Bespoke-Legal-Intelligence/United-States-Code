@@ -18,29 +18,29 @@ There are authorized to be appropriated—
 
 &emsp;In order to effect a transition to the timing of appropriation action authorized by subsection (a) of this section, the application of this section may result in the enactment, in a fiscal year, of separate appropriations for a program under this subchapter (whether in the same appropriations Act or otherwise) for two consecutive fiscal years.
 
-(Pub. L. 94–462, title II, §214, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 108–81, title II, §203, Sept. 25, 2003, 117 Stat. 997; Pub. L. 111–340, title II, §202, Dec. 22, 2010, 124 Stat. 3599.)
+(Pub. L. 94–462, title II, §214, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 108–81, title II, §203, Sept. 25, 2003, 117Stat. 997; Pub. L. 111–340, title II, §202, Dec. 22, 2010, 124 Stat. 3599.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–340, §202(a), added subsec. (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter $232,000,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–340, §202(a), added subsec. (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this subchapter $232,000,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009."
 
-Subsec. (c). Pub. L. 111–340, §202(b), struck out heading and text of subsec. (c). Text read as follows: “Not more than 3.5 percent of the funds appropriated under this section for a fiscal year may be used to pay for the Federal administrative costs of carrying out this subchapter.”
+Subsec. (c). Pub. L. 111–340, §202(b), struck out heading and text of subsec. (c). Text read as follows: "Not more than 3.5 percent of the funds appropriated under this section for a fiscal year may be used to pay for the Federal administrative costs of carrying out this subchapter."
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–81, §203(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 
-“(1)
+"(1)
 
 In general.—There are authorized to be appropriated $150,000,000 for fiscal year 1997 and such sums as may be necessary for each of the fiscal years 1998 through 2002 to carry out this subchapter.
 
-“(2)
+"(2)
 
 Transfer.—The Secretary of Education shall—
 
-&emsp;“(A) transfer promptly to the Director any funds appropriated under the authority of paragraph (1), to enable the Director to carry out this subchapter; and
+&emsp;"(A) transfer promptly to the Director any funds appropriated under the authority of paragraph (1), to enable the Director to carry out this subchapter; and
 
-&emsp;“(B) not exercise any authority concerning the administration of this chapter other than the transfer described in subparagraph (A).”
+&emsp;"(B) not exercise any authority concerning the administration of this chapter other than the transfer described in subparagraph (A)."
 
-Subsec. (c). Pub. L. 108–81, §203(2), substituted “3.5 percent” for “3 percent”.
+Subsec. (c). Pub. L. 108–81, §203(2), substituted "3.5 percent" for "3 percent".
 
 #### Effective Date of 2003 Amendment
 

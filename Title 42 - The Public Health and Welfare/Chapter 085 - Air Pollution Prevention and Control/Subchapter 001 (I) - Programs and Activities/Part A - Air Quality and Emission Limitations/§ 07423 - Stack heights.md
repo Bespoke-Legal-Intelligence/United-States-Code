@@ -12,7 +12,7 @@ The degree of emission limitation required for control of any air pollutant unde
 
 #### (b) Dispersion technique
 
-For the purpose of this section, the term “dispersion technique” includes any intermittent or supplemental control of air pollutants varying with atmospheric conditions.
+For the purpose of this section, the term "dispersion technique" includes any intermittent or supplemental control of air pollutants varying with atmospheric conditions.
 
 #### (c) Regulations; good engineering practice
 

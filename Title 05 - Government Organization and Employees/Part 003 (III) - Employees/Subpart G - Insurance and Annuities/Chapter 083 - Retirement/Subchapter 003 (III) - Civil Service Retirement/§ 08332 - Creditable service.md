@@ -74,7 +74,7 @@ The Office of Personnel Management shall accept the certification of the Executi
 
 > creditable service of the deceased employee or Member shall include each period of military service includable under subparagraph (A) or (B) of paragraph (1) of this subsection, as applicable. In carrying out this subparagraph, any amount deposited under section 8334(h) of this title shall be taken into account.
 
-(B) A survivor annuity computed based on an amount which, under authority of subparagraph\(A), takes into consideration any period of military service shall be reduced by the amount of any survivor's benefits—
+(B) A survivor annuity computed based on an amount which, under authority of subparagraph (A), takes into consideration any period of military service shall be reduced by the amount of any survivor's benefits—
 
 &emsp;(i) payable to a survivor (other than a child) under a retirement system for members of the uniformed services;
 
@@ -114,9 +114,9 @@ The Office of Personnel Management shall accept the certification of the Executi
 
 &emsp;(2) 1/260 of a year for each day on which he performed service as a Commissioner after June 30, 1945.
 
-> Credit for service performed as Commissioner may not exceed 313 days in a year before July 1, 1945, or 260 days in a year after June 30, 1945. For the purpose of this subchapter, the employment and pay of a Commissioner is deemed on a daily basis when actually employed.
+> Credit for service performed as Commissioner may not exceed 313 days in a year before July 1, 1945, or 260 days in a year after June 30, 1945. For the purpose of this subchapter, the employmentand pay of a Commissioner is deemed on a daily basis when actually employed.
 
-(j)(1) Notwithstanding any other provision of this section, military service, except military service covered by military leave with pay from a civilian position, performed by an individual after December 1956, the period of an individual's services as a volunteer under part A of title VIII of the Economic Opportunity Act of 1964, the period of an individual's service as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>2</sup> or C of title I of the Domestic Volunteer Service Act of 1973, and the period of an individual's service as a volunteer or volunteer leader under chapter 34 of title 22, shall be excluded in determining the aggregate period of service on which an annuity payable under this subchapter to the individual or to his spouse, former spouse or child is based, if the individual, spouse, former spouse, or child is entitled, or would on proper application be entitled, at the time of that determination, to monthly old-age or survivors benefits under section 402 of title 42 based on the individual's wages and self-employment income. If the military service or service as a volunteer under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in aprogram of at least 1 year's duration under part A, B,<sup>2</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under chapter 34 of title 22 is not excluded by the preceding sentence, but on becoming 62 years of age, the individual or spouse, former spouse <sup>4</sup> becomes entitled, or would on proper application be entitled, to the described benefits, the Office of Personnel Management shall redetermine the aggregate period of service on which the annuity is based, effective as of the first day of the month in which he or she becomes 62 years of age, so as to exclude that service. The Secretary of Health, Education, and Welfare, on request of the Office, shall inform the Office whether or not the individual, spouse, former spouse, or child is entitled at any named time to the described benefits. For the purpose of this subsection, the period of an individual's service as a volunteer or volunteer leader under chapter 34 of title 22 is the period between enrollment as a volunteer or volunteer leader and termination of that service by the President or by death or resignation, and the period of an individual's service as a volunteer under part A of title VIII of the Economic Opportunity Act of 1964 or under part A, B,<sup>2</sup> or C of title I of the Domestic Volunteer Service Act of 1973 is the period between enrollment as a volunteer and termination of that service by the Director of the Office of Economic Opportunity or the Chief Executive Officer of the Corporation for National and Community Service, as appropriate, or by death or resignation.
+(j)(1) Notwithstanding any other provision of this section, military service, except military service covered by military leave with pay from a civilian position, performed by an individual after December 1956, the period of an individual's services as a volunteer under part A of title VIII of the Economic Opportunity Act of 1964, the period of an individual's service as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>2</sup> or C of title I of the Domestic Volunteer Service Act of 1973, and the period of an individual's service as a volunteer or volunteer leader under chapter 34 of title 22, shall be excluded in determining the aggregate period of service on which an annuity payable under this subchapter to the individual or to his spouse, former spouse or child is based, if the individual, spouse, former spouse, or child is entitled, or would on proper application be entitled, at the time of that determination, to monthly old-age or survivors benefits under section 402 of title 42 based on the individual's wages and self-employment income. If the military service or service as a volunteer under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>2</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under chapter 34 of title 22 is not excluded by the preceding sentence, but on becoming 62 years of age, the individual or spouse, former spouse <sup>4</sup> becomes entitled, or would on proper application be entitled, to the described benefits, the Office of Personnel Management shall redetermine the aggregate period of service on which the annuity is based, effective as of the first day of the month in which he or she becomes 62 years of age, so as to exclude that service. The Secretary of Health, Education, and Welfare, on request of the Office, shall inform the Office whether or not the individual, spouse, former spouse, or child is entitled at any named time to the described benefits. For the purpose of this subsection, the period of an individual's service as a volunteer or volunteer leader under chapter 34 of title 22 is the period between enrollment as a volunteer or volunteer leader and termination of that service by the President or by death or resignation, and the period of an individual's service as a volunteer under part A of title VIII of the Economic Opportunity Act of 1964 or under part A, B,<sup>2</sup> or C of title I of the Domestic Volunteer Service Act of 1973 is the period between enrollment as a volunteer and termination of that service by the Director of the Office of Economic Opportunity or the Chief Executive Officer of the Corporation for National and Community Service, as appropriate, or by death or resignation.
 
 (2) The provisions of paragraph (1) of this subsection relating to credit for military service shall not apply to—
 
@@ -152,7 +152,7 @@ The Office of Personnel Management shall accept the certification of the Executi
 
 (2) For the purpose of this subsection, “World War II” means the period beginning on December 7, 1941, and ending on December 31, 1946.
 
-(m)(1) Upon application to the Office of Personnel Management, any individual who is anemployee on the date of the enactment of this subsection, and who has on such date or thereafter acquires 5 years or more of creditable civilian service under this section (exclusive of service for which credit is allowed under this subsection) shall be allowed credit (as service as a Congressional employee) for service before the date of the enactment of this subsection while employed by the Democratic Senatorial Campaign Committee, the Republican Senatorial Campaign Committee, the Democratic National Congressional Committee, or the Republican National Congressional Committee, if—
+(m)(1) Upon application to the Office of Personnel Management, any individual who is an employee on the date of the enactment of this subsection, and who has on such date or thereafter acquires 5 years or more of creditable civilian service under this section (exclusive of service for which credit is allowed under this subsection) shall be allowed credit (as service as a Congressional employee) for service before the date of the enactment of this subsection while employed by the Democratic Senatorial Campaign Committee, the Republican Senatorial Campaign Committee, the Democratic National Congressional Committee, or the Republican National Congressional Committee, if—
 
 &emsp;(A) such employee has at least 4 years and 6 months of service on such committees as of December 12, 1980; and
 
@@ -204,7 +204,7 @@ The Office of Personnel Management shall accept the certification of the Executi
 
 &emsp;(ii) An offense under section 203 of title 18 (relating to compensation to Member of Congress, officers, and others in matters affecting the Government).
 
-&emsp;(iii) An offense under section 204 of title 18 (relating to practice in the United States Court of Federal Claims or the United StatesCourt of Appeals for the Federal Circuit by Member of Congress).
+&emsp;(iii) An offense under section 204 of title 18 (relating to practice in the United States Court of Federal Claims or the United States Court of Appeals for the Federal Circuit by Member of Congress).
 
 &emsp;(iv) An offense under section 219 of title 18 (relating to officers and employees acting as agents of foreign principals).
 
@@ -392,7 +392,7 @@ Act
 
 July 18, 1966, Pub. L. 89–504, §503, 80 Stat. 300.
 
-In subsection (k)(1), the words “as defined by section 8331(1) of this title” are substituted for “as defined insection 1(a) of this Act”. The words “occurring after July 17, 1966” are substituted for “occurring on or after date of enactment of this subsection”. The words “notwithstanding the second sentence of subsection (f) of this section” are substituted for “notwithstanding the provisions of the second sentence of section 3(c) of this Act”. The last sentence is substituted for the second sentence of former subsection (k)(1) to reflect the current effect of the subsection with regard to those employees who were on leave without pay on July 18, 1966, and who filed a similar election within the time prescribed by that sentence.
+In subsection (k)(1), the words “as defined by section 8331(1) of this title” are substituted for “as defined in section 1(a) of this Act”. The words “occurring after July 17, 1966” are substituted for “occurring on or after date of enactment of this subsection”. The words “notwithstanding the second sentence of subsection (f) of this section” are substituted for “notwithstanding the provisions of the second sentence of section 3(c) of this Act”. The last sentence is substituted for the second sentence of former subsection (k)(1) to reflect the current effect of the subsection with regard to those employees who were on leave without pay on July 18, 1966, and who filed a similar election within the time prescribed by that sentence.
 
 In subsection (k)(2), the words “before July 18, 1966” are substituted for “prior to the date of enactment of this subsection”. The words “as defined by section 8331(1) of this title” are substituted for “as defined in section 1(a) of this Act”. The second sentence is substituted for “and may receive full retirement credit for such period or periods of leave without pay”. The words “If the employee dies” are substituted for “In the event of his death”. The words “as defined by section 8331(10) of this title” are substituted for “as defined in section 1(o) of this Act”. In the last sentence, the words “described in this paragraph” following “If the deposit” are omitted as unnecessary. The words “the second sentence of subsection (f) of this section” are substituted for “the second sentence of section 3(c) of this Act”.
 
@@ -628,7 +628,7 @@ Reduction in annuity.—Subparagraph (A) shall not reduce the annuity of an indi
 
 &emsp;&emsp;“(ii)
 
-Application.—Subparagraph (A) shall not apply in the case of an individual who, prior to the date of enactment of this Act \[Sept. 21, 1993\], made a deposit under section 8334(c) of title 5, UnitedStates Code, with respect to service as a volunteer or volunteer leader (as described in subparagraph (A)).
+Application.—Subparagraph (A) shall not apply in the case of an individual who, prior to the date of enactment of this Act \[Sept. 21, 1993\], made a deposit under section 8334(c) of title 5, United States Code, with respect to service as a volunteer or volunteer leader (as described in subparagraph (A)).
 
 &emsp;&emsp;“(iii)
 
@@ -778,7 +778,7 @@ Section 5(a) of Pub. L. 91–658 provided that: “The amendment made by the fir
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 72a of Title 2, The Congress.
+Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 4301 of Title 2, The Congress.
 
 #### Effective Date of 1969 Amendment
 
@@ -786,7 +786,7 @@ Amendment by Pub. L. 91–177 effective as to all former volunteers employed by 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–486 effective Jan. 1, 1969, except that no deductions or withholding from salary which result shall commence before first day of first pay period that begins on or after Jan. 1, 1968, see section 11 of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
+Amendment by Pub. L. 90–486 effective Jan. 1, 1969, except that no deductions or withholding from salarywhich result shall commence before first day of first pay period that begins on or after Jan. 1, 1968, see section 11 of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
 
 #### Regulations
 
@@ -882,7 +882,7 @@ Deposit requirement.—In order to be eligible for the benefits described in sub
 
 &emsp;&emsp;“(i) the employee contributions that were actually made to such Fund under applicable provisions of law with respect to the service described in subparagraph (A); and
 
-&emsp;&emsp;“(ii) the employee contributions that would have been required with respect to such service if theamounts described in subparagraph (A)(ii) had also been treated as basic pay.
+&emsp;&emsp;“(ii) the employee contributions that would have been required with respect to such service if the amounts described in subparagraph (A)(ii) had also been treated as basic pay.
 
 > &emsp;The amount required under this subparagraph shall include interest, which shall be computed under section 8334(e) of title 5, United States Code.
 
@@ -958,7 +958,7 @@ Limitation and Other Conditions.—Any regulations necessary to carry out this s
 
 Extinguishment of Eligibility for Lump-Sum Payment.—A lump-sum payment under section 5551 of title 5, United States Code, shall not be payable with respect to any leave for which retirement credit is obtained under this section.”
 
-\[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49.\]
+\[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 ofTitle 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49.\]
 
 #### Creditability Under CSRS of Certain Service Performed Under Personal Service Contract With United States
 
@@ -982,7 +982,7 @@ Certification.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Office shall, with respect to any service for which credit is sought under thissubsection, accept the certification of the head of the agency which was party to the contract referred to in paragraph (1)(B), but only if such certification—
+In general.—The Office shall, with respect to any service for which credit is sought under this subsection, accept the certification of the head of the agency which was party to the contract referred to in paragraph (1)(B), but only if such certification—
 
 &emsp;&emsp;&emsp;“(i) states that the agency had intended, through such contract, that the individual involved (or that persons like the individual involved) be considered as having been appointed to a position in which such individual would be subject to subchapter III of chapter 83 of title 5, United States Code; and
 
@@ -1054,7 +1054,7 @@ Section 1 of Pub. L. 99–638 provided: “That (a) service described in subsect
 
 “(2) The amount to be deposited shall be determined by the Office of Personnel Management in a manner consistent with applicable provisions of subchapter III of chapter 83 of title 5, United States Code, chapter 84 of such title or title III of the Federal Employees’ Retirement System Act of 1986 \[Pub. L. 99–335, title III, see Tables for classification\], as the case may be, relating to deposits for earlier periods of civilian service for which deductions from basic pay have not been made.
 
-“(d) The Office of Personnel Management shall, not later than 2 months after the date of the enactment of this Act \[Nov. 10, 1986\], prescribe regulations to carry out this Act \[amending sections 2105 and 8332 of this title and enacting provisions set out as notes under sections 8331 and 8332 of this title\].”
+“(d) The Office of Personnel Management shall, not later than 2 months after the date of the enactment of this Act \[Nov. 10, 1986\], prescribe regulations to carryout this Act \[amending sections 2105 and 8332 of this title and enacting provisions set out as notes under sections 8331 and 8332 of this title\].”
 
 #### Recomputation at Age 62 of Credit for Military Service of Current Annuitants
 
@@ -1062,7 +1062,7 @@ Section 307 of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(k), Oct. 15
 
 “(a) The provisions of section 8332(j) of title 5, United States Code, relating to credit for military service, shall not apply with respect to any individual who is entitled to an annuity under subchapter III of chapter 83 of title 5, United States Code, on or before the date of enactment of this Act \[Sept. 8, 1982\] or who is entitled to an annuity based on a separation from service occurring on or before such date of enactment.
 
-“(b) Subject to subsection (b), in any case in which an individual described in subsection (a) is also entitled to old-age or survivors’ insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor), the amount of the annuity to which such individual is entitled under subchapter III of chapter 83 of title 5, United States Code, (after taking into account subsection (a)) which is payable for any month shall be reduced by an amount determined by multiplying theamount of such old-age or survivors’ insurance benefit for the determination month by a fraction—
+“(b) Subject to subsection (b), in any case in which an individual described in subsection (a) is also entitled to old-age or survivors’ insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor), the amount of the annuity to which such individual is entitled under subchapter III of chapter 83 of title 5, United States Code, (after taking into account subsection (a)) which is payable for any month shall be reduced by an amount determined by multiplying the amount of such old-age or survivors’ insurance benefit for the determination month by a fraction—
 
 &emsp;“(1) the numerator of which is the total of the wages (within the meaning of section 209 of the Social Security Act \[42 U.S.C. 409\]) for service referred to in section 210(l) of such Act \[42 U.S.C. 410(l)\] (relating to service in the uniformed services) and deemed additional wages (within the meaning of section 229 of such Act \[42 U.S.C. 429\]) of such individual credited for years after 1956 and before the calendar year in which the determination month occurs, up to the contribution and benefit base determined under section 230 of the Social Security Act \[42 U.S.C. 430\] (or other applicable maximum annual amount referred to in section 215(e)(1) of such Act \[42 U.S.C. 415(e)(1)\]) for each such year, and
 

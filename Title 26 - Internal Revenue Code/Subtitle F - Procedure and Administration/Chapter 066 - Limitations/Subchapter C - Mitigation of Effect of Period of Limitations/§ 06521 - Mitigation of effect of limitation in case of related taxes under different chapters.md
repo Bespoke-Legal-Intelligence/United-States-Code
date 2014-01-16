@@ -14,7 +14,7 @@ In the case of the tax imposed by chapter 2 (relating to tax on self-employment 
 
 #### (b) Definitions
 
-For purposes of subsection (a), the terms “self-employment income” and “wages” shall have the same meaning as when used in section 1402(b).
+For purposes of subsection (a), the terms "self-employment income" and "wages" shall have the same meaning as when used in section 1402(b).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 814.)
 

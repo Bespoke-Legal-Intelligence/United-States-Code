@@ -12,7 +12,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The term “expatriated entity” means—
+&emsp;&emsp;The term "expatriated entity" means—
 
 &emsp;&emsp;&emsp;(i) the domestic corporation or partnership referred to in subparagraph (B)(i) with respect to which a foreign corporation is a surrogate foreign corporation, and
 
@@ -40,13 +40,13 @@
 
 #### (b) Inverted corporations treated as domestic corporations
 
-Notwithstanding section 7701(a)(4), a foreign corporation shall be treated for purposes of this title as a domestic corporation if such corporation would be a surrogate foreign corporation if subsection (a)(2) were applied by substituting “80 percent” for “60 percent”.
+Notwithstanding section 7701(a)(4), a foreign corporation shall be treated for purposes of this title as a domestic corporation if such corporation would be a surrogate foreign corporation if subsection (a)(2) were applied by substituting "80 percent" for "60 percent".
 
 #### (c) Definitions and special rules
 
 #### (1) Expanded affiliated group
 
-&emsp;The term “expanded affiliated group” means an affiliated group as defined in section 1504(a) but without regard to section 1504(b)(3), except that section 1504(a) shall be applied by substituting “more than 50 percent” for “at least 80 percent” each place it appears.
+&emsp;The term "expanded affiliated group" means an affiliated group as defined in section 1504(a) but without regard to section 1504(b)(3), exceptthat section 1504(a) shall be applied by substituting "more than 50 percent" for "at least 80 percent" each place it appears.
 
 #### (2) Certain stock disregarded
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (1) Applicable period
 
-&emsp;The term “applicable period” means the period—
+&emsp;The term "applicable period" means the period—
 
 &emsp;&emsp;(A) beginning on the first date properties are acquired as part of the acquisition described in subsection (a)(2)(B)(i), and
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (2) Inversion gain
 
-&emsp;The term “inversion gain” means the income or gain recognized by reason of the transfer during the applicable period of stock or other properties by an expatriated entity, and any income received or accrued during the applicable period by reason of a license of any property by an expatriated entity—
+&emsp;The term "inversion gain" means the income or gain recognized by reason of the transfer during the applicable period of stock or other properties by an expatriated entity, and any income received or accrued during the applicable period by reason of a license of any property by an expatriated entity—
 
 &emsp;&emsp;(A) as part of the acquisition described in subsection (a)(2)(B)(i), or
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (3) Foreign related person
 
-&emsp;The term “foreign related person” means, with respect to any expatriated entity, a foreign person which—
+&emsp;The term "foreign related person" means, with respect to any expatriated entity, a foreign person which—
 
 &emsp;&emsp;(A) is related (within the meaning of section 267(b) or 707(b)(1)) to such entity, or
 
@@ -140,11 +140,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The statutory period for the assessment of any deficiency attributable to the inversion gain of any taxpayer for any pre-inversion year shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of the acquisition described in subsection (a)(2)(B)(i) to which such gain relates and such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
+&emsp;&emsp;The statutory period for the assessment of any deficiency attributable to the inversion gain of any taxpayer for any pre-inversion year shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of the acquisition described in subsection (a)(2)(B)(i) to whichsuch gain relates and such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
 #### (B) Pre-inversion year
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “pre-inversion year” means any taxable year if—
+&emsp;&emsp;For purposes of subparagraph (A), the term "pre-inversion year" means any taxable year if—
 
 &emsp;&emsp;&emsp;(i) any portion of the applicable period is included in such taxable year, and
 
@@ -166,7 +166,7 @@ The Secretary shall provide such regulations as are necessary to carry out this 
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(3). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to any entity which is treated as a domestic corporation under subsection (b).”
+<b>2005</b>—Subsec. (a)(3). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Paragraph (1) shall not apply to any entity which is treated as a domestic corporation under subsection (b)."
 
 #### Effective Date of 2005 Amendment
 
@@ -174,5 +174,5 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date
 
-Pub. L. 108–357, title VIII, §801(c), Oct. 22, 2004, 118 Stat. 1566, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years ending after March 4, 2003.”
+Pub. L. 108–357, title VIII, §801(c), Oct. 22, 2004, 118 Stat. 1566, provided that: "The amendments made by this section \[enacting this section\] shall apply to taxable years ending after March 4, 2003."
 

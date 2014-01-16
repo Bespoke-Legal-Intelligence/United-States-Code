@@ -10,7 +10,7 @@ Section was enacted as part of the Housing Act of 1954, and not as part of the N
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–375 struck out requirement for the inclusion of pertinent information respecting all builders’ cost certifications required by section 1715r of this title, including amounts paid by mortgagors to mortgagees for application to the reduction of the principal obligations of the mortgages pursuant to that section.
+<b>1982</b>—Pub. L. 97–375 struck out requirement for the inclusion of pertinent information respecting all builders' cost certifications required by section 1715r of this title, including amounts paid by mortgagors to mortgagees for application to the reduction of the principal obligations of the mortgages pursuant to that section.
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” and “Department of Housing and Urban Development” for “Housing and Home Finance Administrator” and “Housing and Home Finance Agency”, respectively.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary of Housing and Urban Development" and "Department of Housing and Urban Development" for "Housing and Home Finance Administrator" and "Housing and Home Finance Agency", respectively.
 

@@ -4,7 +4,7 @@ In this subpart:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means—
+&emsp;The term "eligible entity" means—
 
 &emsp;&emsp;(A) any agency of any State or local government or an Indian tribe (including a farmland protection board or land resource council established under State law); or
 
@@ -24,7 +24,7 @@ In this subpart:
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible land” means land on a farm or ranch that is subject to a pending offer for purchase from an eligible entity and—
+&emsp;&emsp;The term "eligible land" means land on a farm or ranch that is subject to a pending offer for purchase from an eligible entity and—
 
 &emsp;&emsp;&emsp;(i) has prime, unique, or other productive soil;
 
@@ -34,7 +34,7 @@ In this subpart:
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “eligible land” includes, on a farm or ranch—
+&emsp;&emsp;The term "eligible land" includes, on a farm or ranch—
 
 &emsp;&emsp;&emsp;(i) cropland;
 
@@ -54,11 +54,11 @@ In this subpart:
 
 #### (3) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
 
 #### (4) Program
 
-&emsp;The term “program” means the farmland protection program established under section 3838i(a) of this title.
+&emsp;The term "program" means the farmland protection program established under section 3838i(a) of this title.
 
 (Pub. L. 99–198, title XII, §1238H, as added Pub. L. 107–171, title II, §2503(a), May 13, 2002, 116 Stat. 267; amended Pub. L. 110–234, title II, §2401(a), May 22, 2008, 122 Stat. 1048; Pub. L. 110–246, §4(a), title II, §2401(a), June 18, 2008, 122 Stat. 1664, 1776.)
 
@@ -68,31 +68,31 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Par. (1). Pub. L. 110–246, §2401(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘eligible entity’ means—
+<b>2008</b>—Par. (1). Pub. L. 110–246, §2401(a)(1), added par. (1) and struck out former par. (1). Prior to amendment,text read as follows: "The term 'eligible entity' means—
 
-&emsp;“(A) any agency of any State or local government or an Indian tribe (including a farmland protection board or land resource council established under State law); or
+&emsp;"(A) any agency of any State or local government or an Indian tribe (including a farmland protection board or land resource council established under State law); or
 
-&emsp;“(B) any organization that—
+&emsp;"(B) any organization that—
 
-&emsp;&emsp;“(i) is organized for, and at all times since the formation of the organization has been operated principally for, 1 or more of the conservation purposes specified in clause (i), (ii), (iii), or (iv) of section 170(h)(4)(A) of title 26;
+&emsp;&emsp;"(i) is organized for, and at all times since the formation of the organization has been operated principally for, 1 or more of the conservation purposes specified in clause (i), (ii), (iii), or (iv) of section 170(h)(4)(A) of title 26;
 
-&emsp;&emsp;“(ii) is an organization described in section 501(c)(3) of that title that is exempt from taxation under section 501(a) of that title;
+&emsp;&emsp;"(ii) is an organization described in section 501(c)(3) of that title that is exempt from taxation under section 501(a) of that title;
 
-&emsp;&emsp;“(iii) is described in section 509(a)(2) of that title; or
+&emsp;&emsp;"(iii) is described in section 509(a)(2) of that title; or
 
-&emsp;&emsp;“(iv) is described in section 509(a)(3), and is controlled by an organization described in section 509(a)(2), of that title.”
+&emsp;&emsp;"(iv) is described in section 509(a)(3), and is controlled by an organization described in section 509(a)(2), of that title."
 
-Par. (2)(A). Pub. L. 110–246, §2401(a)(2)(A)(i), substituted “that is subject to a pending offer for purchase from an eligible entity and—” for “that—” in introductory provisions.
+Par. (2)(A). Pub. L. 110–246, §2401(a)(2)(A)(i), substituted "that is subject to a pending offer for purchase from an eligible entity and—" for "that—" in introductory provisions.
 
 Par. (2)(A)(i) to (iii). Pub. L. 110–246, §2401(a)(2)(A)(ii), added cls. (i) to (iii) and struck out former cls. (i) and (ii) which read as follows:
 
-“(i)(I) has prime, unique, or other productive soil; or
+"(i)(I) has prime, unique, or other productive soil; or
 
-“(II) contains historical or archaeological resources; and
+"(II) contains historical or archaeological resources; and
 
-“(ii) is subject to a pending offer for purchase from an eligible entity.”
+"(ii) is subject to a pending offer for purchase from an eligible entity."
 
-Par. (2)(B)(iv) to (vi). Pub. L. 110–246, §2401(a)(2)(B), added cls. (v) and (vi) and struck out former cl. (v) which read as follows: “forest land that is an incidental part of an agricultural operation, as determined by the Secretary.”
+Par. (2)(B)(iv) to (vi). Pub. L. 110–246, §2401(a)(2)(B), added cls. (v) and (vi) and struck out former cl. (v) which read as follows: "forest land that is an incidental part of an agricultural operation, as determined by the Secretary."
 
 #### Effective Date of 2008 Amendment
 

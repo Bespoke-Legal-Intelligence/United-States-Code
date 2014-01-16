@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Future Farmers of America (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—Future Farmers of America (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

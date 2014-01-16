@@ -24,7 +24,7 @@ For prior provisions, see note set out under section 1001 of this title.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–203 substituted “or, in jurisdictions that do not define crimes as felonies, is punishable by death or imprisonment for a term exceeding 1 year regardless of the actual sentence imposed” for “or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–203 substituted "or, in jurisdictions that do not define crimes as felonies, is punishable by death or imprisonment for a term exceeding 1 year regardless of the actual sentence imposed" for "or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State".
 
 #### Effective Date of 2004 Amendment
 

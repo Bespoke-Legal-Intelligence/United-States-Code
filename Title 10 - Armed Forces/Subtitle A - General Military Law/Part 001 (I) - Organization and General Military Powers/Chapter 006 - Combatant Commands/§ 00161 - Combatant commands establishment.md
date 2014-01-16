@@ -26,11 +26,11 @@ Periodic Review.—(1) The Chairman periodically (and not less often than every 
 
 Definitions.—In this chapter:
 
-&emsp;(1) The term “unified combatant command” means a military command which has broad, continuing missions and which is composed of forces from two or more military departments.
+&emsp;(1) The term "unified combatant command" means a military command which has broad, continuing missions and which is composed of forces from two or more military departments.
 
-&emsp;(2) The term “specified combatant command” means a military command which has broad, continuing missions and which is normally composed of forces from a single military department.
+&emsp;(2) The term "specified combatant command" means a military command which has broad, continuing missions and which is normally composed of forces from a single military department.
 
-&emsp;(3) The term “combatant command” means a unified combatant command or a specified combatant command.
+&emsp;(3) The term "combatant command" means a unified combatant command or a specified combatant command.
 
 (Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012.)
 

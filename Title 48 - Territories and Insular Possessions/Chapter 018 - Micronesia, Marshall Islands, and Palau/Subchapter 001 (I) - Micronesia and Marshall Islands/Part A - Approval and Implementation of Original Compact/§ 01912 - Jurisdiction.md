@@ -26,7 +26,7 @@ Section was enacted as part of title II of Pub. L. 99–239, and not as part of 
 
 #### Change of Name
 
-Words “magistrate judges” and “Magistrate Judges” substituted for “magistrates” and “Magistrates”, respectively, wherever appearing in subsec. (b)(4) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words "magistrate judges" and "Magistrate Judges" substituted for "magistrates" and "Magistrates", respectively, wherever appearing in subsec. (b)(4) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

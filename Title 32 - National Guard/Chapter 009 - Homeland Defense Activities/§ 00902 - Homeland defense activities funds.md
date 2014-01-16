@@ -6,7 +6,7 @@ The Secretary of Defense may provide funds to a Governor to employ National Guar
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–364 struck out “(a)” before “The Secretary”.
+<b>2006</b>—Pub. L. 109–364 struck out "(a)" before "The Secretary".
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

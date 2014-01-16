@@ -90,7 +90,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 For purposes of making a determination in accordance with subsection (b)(8) of this section with respect to—
 
-&emsp;(1) a funding reduction, the term “cause” includes—
+&emsp;(1) a funding reduction, the term "cause" includes—
 
 &emsp;&emsp;(A) a statewide redistribution of funds provided through a community services block grant under this chapter to respond to—
 
@@ -102,7 +102,7 @@ For purposes of making a determination in accordance with subsection (b)(8) of t
 
 &emsp;&emsp;(B) the failure of an eligible entity to comply with the terms of an agreement or a State plan, or to meet a State requirement, as described in section 9915(a) of this title; and
 
-&emsp;(2) a termination, the term “cause” includes the failure of an eligible entity to comply with the terms of an agreement or a State plan, or to meet a State requirement, as described in section 9915(a) of this title.
+&emsp;(2) a termination, the term "cause" includes the failure of an eligible entity to comply with the terms of an agreement or a State plan, or to meet a State requirement, as described in section 9915(a) of this title.
 
 #### (d) Procedures and information
 

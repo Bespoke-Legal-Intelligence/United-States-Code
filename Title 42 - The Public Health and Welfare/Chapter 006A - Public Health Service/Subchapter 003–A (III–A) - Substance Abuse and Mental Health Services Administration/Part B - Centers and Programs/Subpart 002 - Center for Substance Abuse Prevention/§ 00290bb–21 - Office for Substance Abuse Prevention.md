@@ -2,7 +2,7 @@
 
 #### (a) Establishment; Director
 
-There is established in the Administration an Office for Substance Abuse Prevention (hereafter referred to in this part as the “Prevention Center”). The Office <sup>1</sup> shall be headed by a Director appointed by the Secretary from individuals with extensive experience or academic qualifications in the prevention of drug or alcohol abuse.
+There is established in the Administration an Office for Substance Abuse Prevention (hereafter referred to in this part as the "Prevention Center"). The Office <sup>1</sup> shall be headed by a Director appointed by the Secretary from individuals with extensive experience or academic qualifications in the prevention of drug or alcohol abuse.
 
 #### (b) Duties of Director
 
@@ -12,7 +12,7 @@ The Director of the Prevention Center shall—
 
 &emsp;(2) coordinate the findings of research sponsored by agencies of the Service on the prevention of drug and alcohol abuse;
 
-&emsp;(3) develop effective drug and alcohol abuse prevention literature (including literature on the adverse effects of cocaine free base (known as “crack”));
+&emsp;(3) develop effective drug and alcohol abuse prevention literature (including literature on the adverse effects of cocaine free base (known as "crack"));
 
 &emsp;(4) in cooperation with the Secretary of Education, assure the widespread dissemination of prevention materials among States, political subdivisions, and school systems;
 
@@ -36,13 +36,13 @@ The Director may make grants and enter into contracts and cooperative agreements
 
 #### (d) National data base
 
-The Director of the Prevention Center shall establish a national data base providing information on programs for the prevention of substance abuse. The data base shall contain information appropriate for use by public entitiesand information appropriate for use by nonprofit private entities.
+The Director of the Prevention Center shall establish a national data base providing information on programs for the prevention of substance abuse. The data base shall contain information appropriate for use by public entities and information appropriate for use by nonprofit private entities.
 
 (July 1, 1944, ch. 373, title V, §515, formerly §508, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–111; amended Pub. L. 100–690, title II, §2051(a)–(c), Nov. 18, 1988, 102 Stat. 4206; Pub. L. 101–93, §3(a), Aug. 16, 1989, 103 Stat. 609; Pub. L. 101–647, title XIX, §1906, Nov. 29, 1990, 104 Stat. 4854; renumbered §515 and amended Pub. L. 102–321, title I, §113(b)–(e), July 10, 1992, 106 Stat. 345; Pub. L. 102–531, title III, §312(d)(10), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 106–310, div. B, title XXXI, §3112(b), Oct. 17, 2000, 114 Stat. 1188.)
 
 #### References in Text
 
-The Drug-Free Schools and Communities Act of 1986, referred to in subsec. (b)(7), means title V of Pub. L. 89–10 as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 252, which was classified generally to subchapter V (§3171 et seq.) of chapter 47 of Title 20, Education, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to safe and drug-free schools and communities, see section 7101 et seq. of Title 20.
+The Drug-Free Schools and Communities Act of 1986, referred to in subsec. (b)(7), means title V of Pub. L. 89–10 as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 252, which was classified generally to subchapter V (§3171 et seq.) of chapter 47 of Title 20,Education, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to safe and drug-free schools and communities, see section 7101 et seq. of Title 20.
 
 #### Codification
 
@@ -58,57 +58,57 @@ Another prior section 515 of act July 1, 1944, which was classified to section 2
 
 <b>2000</b>—Subsec. (b)(9). Pub. L. 106–310, §3112(b)(2), added par. (9). Former par. (9) redesignated (10).
 
-Subsec. (b)(10). Pub. L. 106–310, §3112(b)(1), (3), redesignated par. (9) as (10) and substituted “educate the public, especially adolescent audiences, concerning” for “educate the public concerning”. Former par. (10) redesignated (11).
+Subsec. (b)(10). Pub. L. 106–310, §3112(b)(1), (3), redesignated par. (9) as (10) and substituted "educate the public, especially adolescent audiences, concerning" for "educate the public concerning". Former par. (10) redesignated (11).
 
 Subsec. (b)(11). Pub. L. 106–310, §3112(b)(1), redesignated par. (10) as (11).
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–321, §113(e)(1), substituted “(hereafter referred to in this part as the ‘Prevention Center’)” for “(hereafter in this part referred to as the ‘Office’)”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–321, §113(e)(1), substituted "(hereafter referred to in this part as the 'Prevention Center')" for "(hereafter in this part referred to as the 'Office')".
 
-Subsec. (b). Pub. L. 102–321, §113(e)(2), substituted “Prevention Center” for “Office” in introductory provisions.
+Subsec. (b). Pub. L. 102–321, §113(e)(2), substituted "Prevention Center" for "Office" in introductory provisions.
 
-Subsec. (b)(5). Pub. L. 102–321, §113(c)(1), struck out “and intervention” after “prevention,”.
+Subsec. (b)(5). Pub. L. 102–321, §113(c)(1), struck out "and intervention" after "prevention,".
 
-Subsec. (b)(6). Pub. L. 102–531, which directed the amendment of “section 508(b)(6) (42 U.S.C. 290aa–6(b)(6))” of act July 1, 1944, by substituting “Centers for Disease Control and Prevention” for “Centers for Disease Control”, was executed to subsec. (b)(6) of this section to reflect the probable intent of Congress and the intervening renumbering of section 508 of act July 1, 1944, as section 515 of that act by Pub. L. 102–321, §113(b)(2).
+Subsec. (b)(6). Pub. L. 102–531, which directed the amendment of "section 508(b)(6) (42 U.S.C. 290aa–6(b)(6))" of act July 1, 1944, by substituting "Centers for Disease Control and Prevention" for "Centers for Disease Control", was executed to subsec. (b)(6) of this section to reflect the probable intent of Congress and the intervening renumbering of section 508 of act July 1, 1944, as section 515 of that act by Pub. L. 102–321, §113(b)(2).
 
-Subsec. (b)(9). Pub. L. 102–321, §113(c)(4), inserted “and” after semicolon at end.
+Subsec. (b)(9). Pub. L. 102–321, §113(c)(4), inserted "and" after semicolon at end.
 
 Subsec. (b)(10) to (12). Pub. L. 102–321, §113(c)(2)–(4), redesignated par. (12) as (10) and struck out former pars. (10) and (11) which read as follows:
 
-“(10)(A) provide assistance to communities to develop comprehensive long-term strategies for the prevention of substance abuse; and
+"(10)(A) provide assistance to communities to develop comprehensive long-term strategies for the prevention of substance abuse; and
 
-“(B) evaluate the success of different community approaches toward the prevention of substance abuse;
+"(B) evaluate the success of different community approaches toward the prevention of substance abuse;
 
-“(11) through schools of health professions, schools of allied health professions, schools of nursing, and schools of social work, carry out programs—
+"(11) through schools of health professions, schools of allied health professions, schools of nursing, and schools of social work, carry out programs—
 
-&emsp;“(A) to train individuals in the diagnosis and treatment of alcohol and drug abuse; and
+&emsp;"(A) to train individuals in the diagnosis and treatment of alcohol and drug abuse; and
 
-&emsp;“(B) to develop appropriate curricula and materials for the training described in subparagraph (A); and”.
+&emsp;"(B) to develop appropriate curricula and materials for the training described in subparagraph (A); and".
 
 Subsec. (d). Pub. L. 102–321, §113(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-“(1) For the purpose of carrying out this section and sections 290aa–7, 290aa–8, and 290aa–13 of this title, there are authorized to be appropriated $95,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990 and 1991.
+"(1) For the purpose of carrying out this section and sections 290aa–7, 290aa–8, and 290aa–13 of this title, there are authorized to be appropriated $95,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990 and 1991.
 
-“(2) Of the amounts appropriated pursuant to paragraph (1) for a fiscal year, the Secretary shall make available not less than $5,000,000 to carry out paragraphs (5) and (11) of subsection (b) of this section.”
+"(2) Of the amounts appropriated pursuant to paragraph (1) for a fiscal year, the Secretary shall make available not less than $5,000,000 to carry out paragraphs (5) and (11) of subsection (b) of this section."
 
 <b>1990</b>—Subsec. (b)(12). Pub. L. 101–647 added par. (12).
 
-<b>1989</b>—Subsec. (b)(11)(B). Pub. L. 101–93, §3(a)(2), substituted “subparagraph (A)” for “subparagraph (a)”.
+<b>1989</b>—Subsec. (b)(11)(B). Pub. L. 101–93, §3(a)(2), substituted "subparagraph (A)" for "subparagraph (a)".
 
-Subsec. (d)(1). Pub. L. 101–93, §3(a)(1), inserted a comma after “290aa–13 of this title”.
+Subsec. (d)(1). Pub. L. 101–93, §3(a)(1), inserted a comma after "290aa–13 of this title".
 
-<b>1988</b>—Subsec. (b)(5). Pub. L. 100–690, §2051(b)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “support programs of clinical training of substance abuse counselors and other health professionals;”.
+<b>1988</b>—Subsec. (b)(5). Pub. L. 100–690, §2051(b)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "support programs of clinical training of substance abuse counselors and other health professionals;".
 
 Subsec. (b)(10). Pub. L. 100–690, §2051(b)(2) added par. (10).
 
 Subsec. (b)(11). Pub. L. 100–690, §2051(c), added par. (11).
 
-Subsec. (d). Pub. L. 100–690, §2051(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Of the amounts available under the second sentence of section 300y(a) of this title to carry out this section and section 290aa–8 of this title, $20,000,000 shall be available to carry out section 290aa–8 of this title.”
+Subsec. (d). Pub. L. 100–690, §2051(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Of the amounts available under the second sentence of section 300y(a) of this title to carry out this section and section 290aa–8 of this title, $20,000,000 shall be available to carry out section 290aa–8 of this title."
 
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as a note under section 236 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Prevention Center”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Prevention Center".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “education and prevention;”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "education and prevention;".</i>
 

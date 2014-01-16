@@ -14,7 +14,7 @@ The Secretary is authorized to appoint and fix the compensation of such officers
 
 (4) The authority under this subsection with respect to any position shall terminate when the person first appointed to fill such position ceases to hold such position.
 
-(5) For purposes of section 414(a)(3)(A) of the Civil Service Reform Act of 1978, an individual appointed under this subsection shall be deemed to occupy the same position as the individual occupied on the day preceding May 4, 1980.
+(5) For purposes of section 414(a)(3)(A) of the Civil Service Reform Act of 1978, an individual appointed under this subsection shall be deemedto occupy the same position as the individual occupied on the day preceding May 4, 1980.
 
 #### (c) Repealed. Pub. L. 99–498, title XIV, §1401(d), Oct. 17, 1986, 100 Stat. 1597
 
@@ -34,17 +34,17 @@ Section 414(a)(3)(A) of the Civil Service Reform Act of 1978, referred to in sub
 
 #### Codification
 
-In subsecs. (a) and (d), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
+In subsecs. (a) and (d), "May 4, 1980" substituted for "the effective date of this chapter" pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–279 struck out par. (2) which read as follows: “At the request of the Secretary, the Director of the Office of Personnel Management shall, under section 3104 of title 5, provide for the establishment in the Office created by section 3419 of this title of a number of scientific, professional, and technical positions outside of the General Schedule equal to the number of such positions which were used primarily for the performance of functions and offices transferred under this chapter and which were assigned and filled on the day before May 4, 1980.”
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–279 struck out par. (2) which read as follows: "At the request of the Secretary, the Director of the Office of Personnel Management shall, under section 3104 of title 5, provide for the establishment in the Office created by section 3419 of this title of a number of scientific, professional, and technical positions outside of the General Schedule equal to the number of such positions which were used primarily for the performance of functions and offices transferred under this chapter and which were assigned and filled on the day before May 4, 1980."
 
 <b>1994</b>—Subsec. (b)(2). Pub. L. 103–382 made technical amendment to reference to section 3419 of this title to reflect renumbering of corresponding section of original act.
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–498 struck out subsec. (c) which read as follows: “The Secretary may appoint, without regard to the provisions of title 5 governing appointment in the competitive service, up to 175 scientific, technical, or professional employees of the Office created by section 3419 of this title and may compensate employees so appointed without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates. The rate of basic compensation for such employees shall not be equal to or in excess of the minimum rate of pay currently paid for GS–16 of the General Schedule under section 5332 of such title.”
+<b>1986</b>—Subsec. (c). Pub. L. 99–498 struck out subsec. (c) which read as follows: "The Secretary may appoint, without regard to the provisions of title 5 governing appointment in the competitive service, up to 175 scientific, technical, or professional employees of the Office created by section 3419 of this title and may compensate employees so appointed without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates. The rate of basic compensation for such employees shall not be equal to or in excess of the minimum rate of pay currently paid for GS–16 of the General Schedule under section 5332 of such title."
 
-<b>1985</b>—Subsec. (f). Pub. L. 99–145 struck out subsec. (f) which deemed any reference to “civilian component” as including a reference to overseas personnel of the overseas dependents’ education system for purposes of any status of forces agreement between the United States and any other country or any international organization.
+<b>1985</b>—Subsec. (f). Pub. L. 99–145 struck out subsec. (f) which deemed any reference to "civilian component" as including a reference to overseas personnel of the overseas dependents' education system for purposes of any status of forces agreement between the United States and any other country or any international organization.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

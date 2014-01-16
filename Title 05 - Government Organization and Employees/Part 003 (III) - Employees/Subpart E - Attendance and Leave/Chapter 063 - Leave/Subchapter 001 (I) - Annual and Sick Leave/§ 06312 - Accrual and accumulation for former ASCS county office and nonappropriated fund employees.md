@@ -18,7 +18,7 @@ Section 10(b) of the Agricultural Adjustment Act, referred to in subsec. (a)(1),
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–508 inserted “and nonappropriated fund” after “office” in section catchline and amendedtext generally. Prior to amendment, text read as follows: “Service rendered as an employee of a county committee established pursuant to section 590h(b) of title 16, or of a committee or an association of producers described in section 610(b) of title 7, shall be included in determining years of service for the purpose of section 6303(a) of this title. The provisions of section 6308 of this title for transfer of annual and sick leave between leave systems shall apply to the leave system established for such employees.”
+<b>1990</b>—Pub. L. 101–508 inserted “and nonappropriated fund” after “office” in section catchline and amended text generally. Prior to amendment, text read as follows: “Service rendered as an employee of a county committee established pursuant to section 590h(b) of title 16, or of a committee or an association of producers described in section 610(b) of title 7, shall be included in determining years of service for the purpose of section 6303(a) of this title. The provisions of section 6308 of this title for transfer of annual and sick leave between leave systems shall apply to the leave system established for such employees.”
 
 <b>1986</b>—Pub. L. 99–251 struck out “in the case of any officer or employee in or under the Department of Agriculture” at end of first sentence.
 
@@ -26,7 +26,7 @@ Section 10(b) of the Agricultural Adjustment Act, referred to in subsec. (a)(1),
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is notdescribed in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Effective Date of 1968 Amendment
 

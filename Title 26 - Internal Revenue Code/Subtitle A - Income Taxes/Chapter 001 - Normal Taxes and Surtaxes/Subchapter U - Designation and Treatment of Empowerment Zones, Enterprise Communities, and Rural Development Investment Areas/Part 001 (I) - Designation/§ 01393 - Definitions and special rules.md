@@ -6,7 +6,7 @@ For purposes of this subchapter—
 
 #### (1) Appropriate Secretary
 
-&emsp;The term “appropriate Secretary” means—
+&emsp;The term "appropriate Secretary" means—
 
 &emsp;&emsp;(A) the Secretary of Housing and Urban Development in the case of any nominated area which is located in an urban area, and
 
@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 #### (2) Rural area
 
-&emsp;The term “rural area” means any area which is—
+&emsp;The term "rural area" means any area which is—
 
 &emsp;&emsp;(A) outside of a metropolitan statistical area (within the meaning of section 143(k)(2)(B)), or
 
@@ -22,7 +22,7 @@ For purposes of this subchapter—
 
 #### (3) Urban area
 
-&emsp;The term “urban area” means an area which is not a rural area.
+&emsp;The term "urban area" means an area which is not a rural area.
 
 #### (4) Special rules for Indian reservations
 
@@ -32,11 +32,11 @@ For purposes of this subchapter—
 
 #### (B) Indian reservation defined
 
-&emsp;&emsp;The term “Indian reservation” has the meaning given such term by section 168(j)(6).
+&emsp;&emsp;The term "Indian reservation" has the meaning given such term by section 168(j)(6).
 
 #### (5) Local government
 
-&emsp;The term “local government” means—
+&emsp;The term "local government" means—
 
 &emsp;&emsp;(A) any county, city, town, township, parish, village, or other general purpose political subdivision of a State, and
 
@@ -44,7 +44,7 @@ For purposes of this subchapter—
 
 #### (6) Nominated area
 
-&emsp;The term “nominated area” means an area which is nominated by 1 or more local governments and the State or States in which it is located for designation under section 1391.
+&emsp;The term "nominated area" means an area which is nominated by 1 or more local governments and the State or States in which it is located for designation under section 1391.
 
 #### (7) Governments
 
@@ -60,7 +60,7 @@ For purposes of this subchapter—
 
 #### (b) Empowerment zone; enterprise community
 
-For purposes of this title, the terms “empowerment zone” and “enterprise community” mean areas designated as such under section 1391.
+For purposes of this title, the terms "empowerment zone" and "enterprise community" mean areas designated as such under section 1391.
 
 (Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 547.)
 

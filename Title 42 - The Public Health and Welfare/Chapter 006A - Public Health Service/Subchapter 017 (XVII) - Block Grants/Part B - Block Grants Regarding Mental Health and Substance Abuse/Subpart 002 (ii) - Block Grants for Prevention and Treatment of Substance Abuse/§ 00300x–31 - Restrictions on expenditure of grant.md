@@ -48,7 +48,7 @@
 
 #### (3) Amount
 
-&emsp;In granting a waiver under paragraph (1), the Secretary shall allow the use of a specifiedamount of funds to construct or rehabilitate a specified number of beds for residential treatment and a specified number of slots for outpatient treatment, based on reasonable estimates by the State of the costs of construction or rehabilitation. In considering waiver applications, the Secretary shall ensure that the State has carefully designed a program that will minimize the costs of additional beds.
+&emsp;In granting a waiver under paragraph (1), the Secretary shall allow the use of a specified amount of funds to construct or rehabilitate a specified number of beds for residential treatment and a specified number of slots for outpatient treatment, based on reasonable estimates by the State of the costs of construction or rehabilitation. In considering waiver applications, the Secretary shall ensure that the State has carefully designed a program that will minimize the costs of additional beds.
 
 #### (4) Matching funds
 

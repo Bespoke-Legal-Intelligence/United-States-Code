@@ -62,5 +62,5 @@ In providing assistance under subsection (b), the Secretary of State shall give 
 
 (Pub. L. 101–240, title VII, §732, as added Pub. L. 109–58, title XVI, §1611, Aug. 8, 2005, 119 Stat. 1113.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “description of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "description of".</i>
 

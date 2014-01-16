@@ -8,7 +8,7 @@ There are authorized to be appropriated to carry out the projects specified in t
 
 #### (1) Grants, contracts, and agreements
 
-&emsp;Except as provided in paragraph (2), the amount appropriated under subsection (a) ofthis section for each fiscal year shall be used to award grants, or enter into contracts, cooperative agreements, or other agreements, under section 15082 of this title.
+&emsp;Except as provided in paragraph (2), the amount appropriated under subsection (a) of this section for each fiscal year shall be used to award grants, or enter into contracts, cooperative agreements, or other agreements, under section 15082 of this title.
 
 #### (2) Administrative costs
 
@@ -22,7 +22,7 @@ There are authorized to be appropriated to carry out the projects specified in t
 
 #### (2) Covered year
 
-&emsp;In this subsection, the term “covered year” means—
+&emsp;In this subsection, the term "covered year" means—
 
 &emsp;&emsp;(A) in the case of an expenditure for entities funded under part B of this subchapter, a fiscal year for which the amount appropriated under section 15029(a) of this title is less than $76,000,000; and
 

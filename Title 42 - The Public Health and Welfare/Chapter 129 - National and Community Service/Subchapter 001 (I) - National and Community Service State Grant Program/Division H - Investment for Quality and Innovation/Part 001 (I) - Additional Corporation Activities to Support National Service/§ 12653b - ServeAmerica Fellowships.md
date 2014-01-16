@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Area of national need
 
-&emsp;The term “area of national need” means an area involved in efforts to—
+&emsp;The term "area of national need" means an area involved in efforts to—
 
 &emsp;&emsp;(A) improve education in schools for economically disadvantaged students;
 
@@ -20,15 +20,15 @@ In this section:
 
 #### (2) Eligible fellowship recipient
 
-&emsp;The term “eligible fellowship recipient” means an individual who is selected by a State Commission under subsection (c) and, as a result of such selection, is eligible for a ServeAmerica Fellowship.
+&emsp;The term "eligible fellowship recipient" means an individual who is selected by a State Commission under subsection (c) and, as a result of such selection, is eligible for a ServeAmerica Fellowship.
 
 #### (3) Fellow
 
-&emsp;The term “fellow” means an eligible fellowship recipient who is awarded a ServeAmerica Fellowship and is designated a fellow under subsection (e)(2).
+&emsp;The term "fellow" means an eligible fellowship recipient who is awarded a ServeAmerica Fellowship and is designated a fellow under subsection (e)(2).
 
 #### (4) Small service sponsor organization
 
-&emsp;The term “small service sponsor organization” means a service sponsor organization described in subsection (d)(1) that has not more than 10 full-time employees and 10 part-time employees.
+&emsp;The term "small service sponsor organization" means a service sponsor organization described in subsection (d)(1) that has not more than 10 full-time employees and 10 part-time employees.
 
 #### (b) Grants
 
@@ -158,7 +158,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the State Commission shall revoke the registration of the organization;
 
-&emsp;&emsp;&emsp;(ii) the organization shall not be eligible to receive assistance, approved nationalservice positions, or approved summer of service positions under this subchapter for not less than 5 years; and
+&emsp;&emsp;&emsp;(ii) the organization shall not be eligible to receive assistance, approved national service positions, or approved summer of service positions under this subchapter for not less than 5 years; and
 
 &emsp;&emsp;&emsp;(iii) the State Commission shall have the right to remove a fellow from the organization and relocate the fellow to another site.
 
@@ -220,7 +220,7 @@ In this section:
 
 #### (F) Definition
 
-&emsp;&emsp;In this paragraph, the term “average annual VISTA subsistence allowance” means the total average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
+&emsp;&emsp;In this paragraph, the term "average annual VISTA subsistence allowance" means the total average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
 
 #### (f) Compliance with ineligible service categories
 
@@ -232,7 +232,7 @@ Each service sponsor organization that receives a fellow under this section shal
 
 #### (h) Educational awards
 
-A fellow who serves in a service project under this section shall be considered to have served in an approved national service position and, upon meeting the requirements of section 12603 of this title for full-time or part-time national service, shall be eligible for a national service educational award described in such section. The Corporation shall transfer an appropriate amount of funds to the National Service Trust to provide for the national service educational award for such fellow.
+A fellow who serves in a service project under this section shall be considered to have served inan approved national service position and, upon meeting the requirements of section 12603 of this title for full-time or part-time national service, shall be eligible for a national service educational award described in such section. The Corporation shall transfer an appropriate amount of funds to the National Service Trust to provide for the national service educational award for such fellow.
 
 (Pub. L. 101–610, title I, §198B, as added Pub. L. 111–13, title I, §1805, Apr. 21, 2009, 123 Stat. 1554.)
 
@@ -246,5 +246,5 @@ Another prior section 12653b, Pub. L. 101–610, title I, §195B, as added Pub. 
 
 Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(e)(3)(B)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(e)(3)(B)".</i>
 

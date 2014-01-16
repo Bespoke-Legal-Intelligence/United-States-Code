@@ -1,6 +1,6 @@
 ### §125. Functions, powers, and duties: transfer, reassignment, consolidation, or abolition
 
-(a) Subject to section 2 of the National Security Act of 1947 (50 U.S.C. 401), the Secretary of Defense shall take appropriate action (including the transfer, reassignment, consolidation, or abolition of any function, power, or duty) to provide more effective, efficient, and economical administration and operation, and to eliminate duplication, in the Department of Defense. However, except as provided by subsections (b) and (c), a function, power, or duty vested in the Department of Defense, or an officer, official, or agency thereof, by law may not be substantially transferred, reassigned, consolidated, or abolished.
+(a) Subject to section 2 of the National Security Act of 1947 (50 U.S.C. 401),<sup>1</sup> the Secretary of Defense shall take appropriate action (including the transfer, reassignment, consolidation, or abolition of any function, power, or duty) to provide more effective, efficient, and economical administration and operation, and to eliminate duplication, in the Department of Defense. However, except as provided by subsections (b) and (c), a function, power, or duty vested in the Department of Defense, or an officer, official, or agency thereof, by law may not be substantially transferred, reassigned, consolidated, or abolished.
 
 (b) Notwithstanding subsection (a), if the President determines it to be necessary because of hostilities or an imminent threat of hostilities, any function, power, or duty vested by law in the Department of Defense, or an officer, official, or agency thereof, including one assigned to the Army, Navy, Air Force, or Marine Corps by section 3062(b), 5062, 5063, or 8062(c) of this title, may be transferred, reassigned, or consolidated. The transfer, reassignment, or consolidation remains in effect until the President determines that hostilities have terminated or that there is no longer an imminent threat of hostilities, as the case may be.
 
@@ -52,25 +52,29 @@ July 26, 1947, ch. 343, §202(c)(1), (2), (4), (5), (6); added Aug. 10, 1949, ch
 
 July 26, 1947, ch. 343, §308(a) (as applicable to §202(c)(1), (5), (6)), 61 Stat. 509.
 
-In subsection (a), the following substitutions are made: “Except as provided by subsections (b) and (c)”for “except as otherwise provided in this subsection”; “vested . . . by law” for “established by law to be performed by”; “recommending” for “stating”; “proposes” for “contemplates”; and “the period” for “the thirty-day period or the forty-day period”. The words “on the first day after” are inserted for clarity. The words “if carried out” are omitted as surplusage.
+In subsection (a), the following substitutions are made: "Except as provided by subsections (b) and (c)" for "except as otherwise provided in this subsection"; "vested . . . by law" for "established by law to be performed by"; "recommending" for "stating"; "proposes" for "contemplates"; and "the period" for "the thirty-day period or the forty-day period". The words "on the first day after" are inserted for clarity. The words "if carried out" are omitted as surplusage.
 
-In subsection (b), the words “Notwithstanding subsection (a)” are substituted for the words “Notwithstanding other provisions of this subsection”; and “Unless the President determines otherwise” for “subject to the determination of the President”.
+In subsection (b), the words "Notwithstanding subsection (a)" are substituted for the words "Notwithstanding other provisions of this subsection"; and "Unless the President determines otherwise" for "subject to the determination of the President".
 
-In subsection (c), the following substitutions are made: “Notwithstanding subsection (a)” for “Notwithstanding the provisions of paragraph (1) hereof”; and “armed forces” for “services”.
+In subsection (c), the following substitutions are made: "Notwithstanding subsection (a)" for "Notwithstanding the provisions of paragraph (1) hereof"; and "armed forces" for "services".
 
-In subsection (d), the following substitutions are made: “In subsection (a) (1)” for “within the meaning of paragraph (1) hereof”; and “considers” for “deems”. The words “advantageous to the Government in terms of” are omitted as surplusage.
+In subsection (d), the following substitutions are made: "In subsection (a) (1)" for "within the meaning of paragraph (1) hereof"; and "considers" for "deems". The words "advantageous to the Government in terms of" are omitted as surplusage.
+
+#### References in Text
+
+The National Security Act of 1947, referred to in subsec. (a), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 2 of the Act is now classified to section 3002 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–510 struck out at end “However, notwithstanding any other provision of this title or any other law, the Secretary of Defense shall not direct or approve a plan to initiate or effect a substantial reduction or elimination of a major weapons system until the Secretary of Defense has reported all the pertinent details of the proposed action to the Congress of the United States while the Congress is in session.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–510 struck out at end "However, notwithstanding any other provision of this title or any other law, the Secretary of Defense shall not direct or approve a plan to initiate or effect a substantial reduction or elimination of a major weapons system until the Secretary of Defense has reported all the pertinent details of the proposed action to the Congress of the United States while the Congress is in session."
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–433, §103(1), struck out provision under which the Secretary of Defense could substantially transfer, reassign, consolidate, or abolish functions, powers, or duties vested in the Department of Defense by law if the Secretary reported the details of the proposed transfer, reassignment, consolidation, or abolition to Congress and if Congress did not affirmatively reject the proposal.
 
-Subsec. (b). Pub. L. 99–433, §§103(2), 514(c)(1), inserted “vested by law in the Department of Defense, or an officer, official, or agency thereof” and substituted “5062, 5063” for “5012, 5013”.
+Subsec. (b). Pub. L. 99–433, §§103(2), 514(c)(1), inserted "vested by law in the Department of Defense, or an officer, official, or agency thereof" and substituted "5062, 5063" for "5012, 5013".
 
-Subsec. (d). Pub. L. 99–433, §301(b)(1), struck out subsec. (d) which read as follows: “In subsection (a)(1), ‘major combatant function, power, or duty’ does not include a supply or service activity common to more than one military department. The Secretary of Defense shall, whenever he determines it will be more effective, economical, or efficient, provide for the performance of such an activity by one agency or such other organizations as he considers appropriate.”
+Subsec. (d). Pub. L. 99–433, §301(b)(1), struck out subsec. (d) which read as follows: "In subsection (a)(1), 'major combatant function, power, or duty' does not include a supply or service activity common to more than one military department. The Secretary of Defense shall, whenever he determines it will be more effective, economical, or efficient, provide for the performance of such an activity by one agency or such other organizations as he considers appropriate."
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–525 substituted “section 2 of the National Security Act of 1947 (50 U.S.C. 401)” for “section 401 of title 50”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–525 substituted "section 2 of the National Security Act of 1947 (50 U.S.C. 401)" for "section 401 of title 50".
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–501 required the Secretary of Defense to report to the Congress all the pertinent details regarding any substantial reduction or elimination of a major weapons system before action could be initiated or effected by the Department of Defense.
 
@@ -78,11 +82,13 @@ Subsec. (d). Pub. L. 99–433, §301(b)(1), struck out subsec. (d) which read as
 
 Pub. L. 87–651, title III, §303, Sept. 7, 1962, 76 Stat. 525, provided that:
 
-“(a) For the purposes of this section, any resolution reported to the Senate or the House of Representatives pursuant to the provisions of section 125 of title 10, United States Code, shall be treated for the purpose of consideration by either House, in the same manner as a resolution with respect to a reorganization plan reported by a committee within the meaning of the Reorganization Act of 1949 as in effect on July 1, 1958 (5 U.S.C. 133z and the following) \[63 Stat. 203; 71 Stat. 611\], and shall be governed by the provisions applicable to the consideration of any such resolution by either House of the Congress as provided by sections 205 and 206 of that Act \[63 Stat. 207\].
+"(a) For the purposes of this section, any resolution reported to the Senate or the House of Representatives pursuant to the provisions of section 125 of title 10, United States Code, shall be treated for the purpose of consideration by either House, in the same manner as a resolution with respect to a reorganization plan reported by a committee within the meaning of the Reorganization Act of 1949 as in effect on July 1, 1958 (5 U.S.C. 133z and the following) \[63 Stat. 203; 71 Stat. 611\], and shall be governed by the provisions applicable to the consideration of any such resolution by either House of the Congress as provided by sections 205 and 206 of that Act \[63 Stat. 207\].
 
-“(b) The provisions of this section are enacted by the Congress—
+"(b) The provisions of this section are enacted by the Congress—
 
-&emsp;“(1) as an exercise of the rule-making power of the Senate and the House of Representatives, respectively, and as such they shall be considered as part of the rules of each House, respectively, and supersede other rules only to the extent that they are inconsistent therewith; and
+&emsp;"(1) as an exercise of the rule-making power of the Senate and the House of Representatives, respectively, and as such they shall be considered as part of the rules of each House, respectively, and supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;“(2) with full recognition of the constitutional right of either House to change the rules (as far as relating to the procedure in that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.”
+&emsp;"(2) with full recognition of the constitutional right of either House to change the rules (as far as relating to the procedure in that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

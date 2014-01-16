@@ -4,7 +4,7 @@ For the purpose of computing the retired pay of a person under this chapter, the
 
 &emsp;(1) The person's days of active service.
 
-&emsp;(2) The person's days of full-time service under sections 316, 502, 503, 504, and 505 of title 32 while performing annual training duty or while attending a prescribed course of instruction at a school designated as a service school by law or by the Secretary concerned.
+&emsp;(2) The person's days of full-time service under sections 316, 502, 503, 504, and 505 of title32 while performing annual training duty or while attending a prescribed course of instruction at a school designated as a service school by law or by the Secretary concerned.
 
 &emsp;(3) One day for each point credited to the person under clause (B), (C), or (D) of section 12732(a)(2) of this title, but not more than—
 
@@ -54,7 +54,7 @@ June 29, 1948, ch. 708, §§303 (less 1st 91 words, and less 1st proviso), 306 (
 
 The revised section consolidates provisions of 10:1036b and 1036e, and 34:440j and 440m, relating to the years of service that may be counted in determining retired pay for persons entitled to that pay under this chapter.
 
-Clause (1) is substituted for 10:1036b(i). In clause (3), the words “and proportionately for each fraction of a year” are inserted to make clear that parts of years must be counted. 10:1036e(d) and 34:440m(d) are omitted as covered by sections 101(22) and 101(24) of this title.
+Clause (1) is substituted for 10:1036b(i). In clause (3), the words "and proportionately for each fraction of a year" are inserted to make clear that parts of years must be counted. 10:1036e(d) and 34:440m(d) are omitted as covered by sections 101(22) and 101(24) of this title.
 
 #### 1958 Act
 
@@ -62,25 +62,25 @@ The change is necessary so that active service and service described in section 
 
 #### Amendments
 
-<b>2008</b>—Par. (3)(B) to (D). Pub. L. 110–181 struck out “and” at end of subpar. (B), substituted “before the year of service that includes October 30, 2007; and” for period at end of subpar. (C), and added subpar. (D).
+<b>2008</b>—Par. (3)(B) to (D). Pub. L. 110–181 struck out "and" at end of subpar. (B), substituted "before the year of service that includes October 30, 2007; and" for period at end of subpar. (C), and added subpar. (D).
 
-<b>2001</b>—Par. (3)(B). Pub. L. 107–107, §1048(c)(16)(A), substituted “October 30, 2000” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
+<b>2001</b>—Par. (3)(B). Pub. L. 107–107, §1048(c)(16)(A), substituted "October 30, 2000" for "the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001".
 
-Par. (3)(C). Pub. L. 107–107, §1048(c)(16)(B), substituted “October 30, 2000,” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
+Par. (3)(C). Pub. L. 107–107, §1048(c)(16)(B), substituted "October 30, 2000," for "the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001".
 
-<b>2000</b>—Par. (3). Pub. L. 106–398 substituted “but not more than—” and subpars. (A) to (C) for “but not more than 60 days in any one year of service before the year of service that includes September 23, 1996, and not more than 75 days in any subsequent year of service.”
+<b>2000</b>—Par. (3). Pub. L. 106–398 substituted "but not more than—" and subpars. (A) to (C) for "but not more than 60 days in any one year of service before the year of service that includes September 23, 1996, and not more than 75 days in any subsequent year of service."
 
 <b>1999</b>—Pars. (4), (5). Pub. L. 106–65 added par. (4) and redesignated former par. (4) as (5).
 
 <b>1997</b>—Par. (3). Pub. L. 105–85, §1073(c)(4), made technical correction to directory language of Pub. L. 104–201, §531(a). See 1996 Amendment note below.
 
-Pub. L. 105–85, §1073(a)(67), inserted a comma after “(B)” and substituted “that includes September 23, 1996,” for “in which the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997 occurs”.
+Pub. L. 105–85, §1073(a)(67), inserted a comma after "(B)" and substituted "that includes September 23, 1996," for "in which the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997 occurs".
 
-<b>1996</b>—Par. (3). Pub. L. 104–201, §543(b)(2), substituted “(C), or (D)” for “or (C)”.
+<b>1996</b>—Par. (3). Pub. L. 104–201, §543(b)(2), substituted "(C), or (D)" for "or (C)".
 
-Pub. L. 104–201, §531(a), as amended by Pub. L. 105–85, §1073(c)(4), inserted before period at end “of service before the year of service in which the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997 occurs and not more than 75 days in any subsequent year of service”.
+Pub. L. 104–201, §531(a), as amended by Pub. L. 105–85, §1073(c)(4), inserted before period at end "of service before the year of service in which the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997 occurs and not more than 75 days in any subsequent year of service".
 
-<b>1994</b>—Pub. L. 103–337 renumbered section 1333 of this title as this section, substituted “Computation of retired pay: computation of years of service” for “Computation of years of service in computing retired pay” as section catchline, and amended text generally, changing style and references to other sections.
+<b>1994</b>—Pub. L. 103–337 renumbered section 1333 of this title as this section, substituted "Computation of retired pay: computation of years of service" for "Computation of years of service in computing retired pay" as section catchline, and amended text generally, changing style and references to other sections.
 
 <b>1958</b>—Pub. L. 85–861 added cls. (1) and (2), struck out former cl. (1) which permitted the addition of the days of service credited under section 1332(a)(2)(A) of this title, and redesignated former cls. (2) and (3) as (3) and (4), respectively.
 

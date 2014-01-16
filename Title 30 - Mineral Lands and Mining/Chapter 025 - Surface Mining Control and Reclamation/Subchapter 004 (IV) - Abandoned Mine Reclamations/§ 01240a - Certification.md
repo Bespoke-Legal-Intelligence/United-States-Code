@@ -50,7 +50,7 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding section 1231(f)(3)(B) of this title, from funds referred to in section 1232(i)(2) of this title, the Secretary shall make payments to States or Indian tribes for the amount due for the aggregate unappropriated amount allocated to the State or Indian tribe under subparagraph (A) or (B) of section 1232(g)(1) of this title.
+&emsp;&emsp;&emsp;Notwithstanding section 1231(f)(3)(B) of this title, from funds referred to in section 1232(i)(2) of this title, the Secretary shall make payments to States or Indian tribesfor the amount due for the aggregate unappropriated amount allocated to the State or Indian tribe under subparagraph (A) or (B) of section 1232(g)(1) of this title.
 
 #### (ii) Conversion as equivalent payments
 
@@ -58,7 +58,7 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 #### (B) Amount due
 
-&emsp;&emsp;In this paragraph, the term “amount due” means the unappropriated amount allocated to a State or Indian tribe before October 1, 2007, under subparagraph (A) or (B) of section 1232(g)(1) of this title.
+&emsp;&emsp;In this paragraph, the term "amount due" means the unappropriated amount allocated to a State or Indian tribe before October 1, 2007, under subparagraph (A) or (B) of section 1232(g)(1) of this title.
 
 #### (C) Schedule
 
@@ -82,7 +82,7 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 #### (B) Certified State or Indian tribe defined
 
-&emsp;&emsp;In this paragraph the term “certified State or Indian tribe” means a State or Indian tribe for which a certification is made under subsection (a) in which the Secretary concurs.
+&emsp;&emsp;In this paragraph the term "certified State or Indian tribe" means a State or Indian tribe for which a certification is made under subsection (a) in which the Secretary concurs.
 
 #### (3) Manner of payment
 
@@ -112,7 +112,25 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 &emsp;Notwithstanding any other provision of this subsection, the total annual payment to a certified State or Indian tribe under this subsection shall be not more than $15,000,000.
 
-(Pub. L. 95–87, title IV, §411, as added Pub. L. 101–508, title VI, §6010(2), Nov. 5, 1990, 104 Stat. 1388–296; amended Pub. L. 109–432, div. C, title II, §206, Dec. 20, 2006, 120 Stat. 3016; Pub. L. 112–141, div. F, title I, §100125, July 6, 2012, 126 Stat. 915; Pub. L. 112–175, §142, Sept. 28, 2012, 126 Stat. 1321.)
+#### (6) Supplemental funding
+
+#### (A) Waiver of limitation
+
+&emsp;&emsp;Notwithstanding paragraph (5), the limitation on the total annual payments to a certified State or Indian tribe under this subsection shall not apply for fiscal years 2014 and 2015.
+
+#### (B) Limitation on waiver
+
+&emsp;&emsp;Notwithstanding subparagraph (A), the total annual payment to a certified State or Indian tribe under this subsection for fiscal year 2014 shall not be more than $28,000,000 and for fiscal year 2015 shall not be more than $75,000,000.
+
+#### (C) Insufficient amounts
+
+&emsp;&emsp;If the total annual payment to a certified State or Indian tribe under paragraphs (1) and (2) is limited by subparagraph (B), the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) give priority to making payments under paragraph (2); and
+
+&emsp;&emsp;&emsp;(ii) use any remaining funds to make payments under paragraph (1).
+
+(Pub. L. 95–87, title IV, §411, as added Pub. L. 101–508, title VI, §6010(2), Nov. 5, 1990, 104 Stat. 1388–296; amended Pub. L. 109–432, div. C, title II, §206, Dec. 20, 2006, 120 Stat. 3016; Pub. L. 112–141, div. F, title I, §100125, July 6, 2012, 126 Stat. 915; Pub. L. 112–175, §142, Sept. 28, 2012, 126 Stat. 1321; Pub. L. 113–40, §10(d), Oct. 2, 2013, 127 Stat. 546.)
 
 #### References in Text
 
@@ -126,7 +144,9 @@ A prior section 411 of Pub. L. 95–87 was renumbered section 412 and was classi
 
 #### Amendments
 
-<b>2012</b>—Subsec. (h)(4)(A). Pub. L. 112–175 amended subpar. (A) generally. Prior to amendment, text read as follows: “The amount allocated to any State or Indian tribe under subparagraph (A) or (B) of section 1232(g)(1) of this title that is paid to the State or Indian tribe as a result of a payment under paragraph (1) or (2) shall be reallocated and available for grants under section 1232(g)(5) of this title.”
+<b>2013</b>—Subsec. (h)(6). Pub. L. 113–40 added par. (6).
+
+<b>2012</b>—Subsec. (h)(4)(A). Pub. L. 112–175 amended subpar. (A) generally. Prior to amendment, text read as follows: "The amount allocated to any State or Indian tribe under subparagraph (A) or (B) of section 1232(g)(1) of this title that is paid to the State or Indian tribe as a result of a payment under paragraph (1) or (2) shall be reallocated and available for grants under section 1232(g)(5) of this title."
 
 Subsec. (h)(5). Pub. L. 112–141 added par. (5).
 

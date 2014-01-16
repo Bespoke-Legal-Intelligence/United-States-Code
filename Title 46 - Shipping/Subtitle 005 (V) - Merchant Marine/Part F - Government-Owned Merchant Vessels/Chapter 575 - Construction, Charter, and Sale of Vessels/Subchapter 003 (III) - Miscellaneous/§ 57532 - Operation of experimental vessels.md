@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “experimental vessel” means a vessel owned by the United States Government (including a vessel in the National Defense Reserve Fleet) that has been constructed, reconditioned, or remodeled for experimental or testing purposes.
+Definition.—In this section, the term "experimental vessel" means a vessel owned by the United States Government (including a vessel in the National Defense Reserve Fleet) that has been constructed, reconditioned, or remodeled for experimental or testing purposes.
 
 (b)
 
@@ -34,5 +34,5 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title VII, §715, as added July 11, 1956, ch. 574, 70 Stat. 531; Pub. L. 97–31, §12(117), Aug. 6, 1981, 95 Stat. 164.
 
-Subsection (d) is substituted for “Those provisions of law prescribed or incorporated under section 1241a of this Appendix, which relate to vessel operating activities of the Secretary of Transportation and to employment of seamen through general agents, shall be applicable in connection with charters and agreements entered into under this section” for clarity.
+Subsection (d) is substituted for "Those provisions of law prescribed or incorporated under section 1241a of this Appendix, which relate to vessel operating activities of the Secretary of Transportation and to employment of seamen through general agents, shall be applicable in connection with charters and agreements entered into under this section" for clarity.
 

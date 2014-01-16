@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–625, §3(a)(2), Nov. 7, 1988, 102 Stat. 3206, substituted “Exceptions relating to certain advertisements and other information and to State-conducted lotteries” for “State-conducted lotteries” in item 1307.
+<b>1988</b>—Pub. L. 100–625, §3(a)(2), Nov. 7, 1988, 102 Stat. 3206, substituted "Exceptions relating to certain advertisements and other information and to State-conducted lotteries" for "State-conducted lotteries" in item 1307.
 
 <b>1975</b>—Pub. L. 93–583, §2, Jan. 2, 1975, 88 Stat. 1916, added item 1307.
 
@@ -22,7 +22,7 @@
 
 <b>1950</b>—Act Aug. 16, 1950, ch. 722, §2, 64 Stat. 452, added item 1305.
 
-<b>1949</b>—Act May 24, 1949, ch. 139, §33, 63 Stat. 94, substituted “as” for “at” in item 1303.
+<b>1949</b>—Act May 24, 1949, ch. 139, §33, 63 Stat. 94, substituted "as" for "at" in item 1303.
 
 
 ---

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of the National Nanotechnology Coordination Office shall enter into an arrangement with the National Research Council of the National Academy of Sciences to conduct a triennial evaluation of the Program, including—
+The Director of the National Nanotechnology Coordination Office shall enter into an arrangement with the National Research Council of theNational Academy of Sciences to conduct a triennial evaluation of the Program, including—
 
 &emsp;(1) an evaluation of the technical accomplishments of the Program, including a review of whether the Program has achieved the goals under the metrics established by the Council;
 

@@ -10,13 +10,13 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;(1) have been made to and be held by a mortgagee approved by the Secretary as responsible and able to service the mortgage properly;
 
-&emsp;(2) cover property, held by a mortgagor approved by the Secretary, upon which there is to be constructed or erected dwelling units for not less than twenty-five families consisting of a group of single-family dwellings approved by the Secretary for mortgage insurance prior to the beginning of construction: <i>Provided</i>,That during the course of construction there may be located upon the mortgaged property a plant for the fabrication or storage of such dwellings or sections or parts thereof, and the Secretary may consent to the removal or release of such plant from the lien of the mortgage upon such terms and conditions as he may approve;
+&emsp;(2) cover property, held by a mortgagor approved by the Secretary, upon which there is to be constructed or erected dwelling units for not less than twenty-five families consisting of a group of single-family dwellings approved by the Secretary for mortgage insurance prior to the beginning of construction: <i>Provided</i>, That during the course of construction there may be located upon the mortgaged property a plant for the fabrication or storage of such dwellings or sections or parts thereof, and the Secretary may consent to the removal or release of such plant from the lien of the mortgage upon such terms and conditions as he may approve;
 
 &emsp;(3) involve a principal obligation in an amount—
 
 &emsp;&emsp;(A) not to exceed 85 per centum of the amount which the Secretary estimates will be the value of the completed property or project, exclusive of any plant of the character described in paragraph (2) of this subsection located thereon, and
 
-&emsp;&emsp;(B) not to exceed a sum computed on the individual dwellings comprising the total project as follows: $5,950 or 85 per centum of the valuation, whichever is the lower amount, with respect to each single-family dwelling: <i>Provided</i>, That if the Secretary finds that it is not feasible, within the dollar amount limitation in this clause on the principal obligation of the mortgage, to construct dwellings containing three or four bedrooms without sacrifice of sound standards of construction, design, and livability, he may increase such dollar amount limitation by not exceeding $850 for each additional bedroom (as defined by the Secretary) in excess of two contained in each such dwelling if he finds that such dwelling meets sound standards of design and livability as a three-bedroom unit or a four-bedroom unit, as the case may be, but the amount computed under this clause for each such dwelling shall not exceed, in any event, $7,650.
+&emsp;&emsp;(B) not to exceed a sum computed on the individual dwellings comprising the total project as follows: $5,950 or 85 per centum of the valuation, whichever is the lower amount, with respect to each single-family dwelling: <i>Provided</i>, That if the Secretaryfinds that it is not feasible, within the dollar amount limitation in this clause on the principal obligation of the mortgage, to construct dwellings containing three or four bedrooms without sacrifice of sound standards of construction, design, and livability, he may increase such dollar amount limitation by not exceeding $850 for each additional bedroom (as defined by the Secretary) in excess of two contained in each such dwelling if he finds that such dwelling meets sound standards of design and livability as a three-bedroom unit or a four-bedroom unit, as the case may be, but the amount computed under this clause for each such dwelling shall not exceed, in any event, $7,650.
 
 &emsp;With respect to the insurance of advances during construction, the Secretary is authorized to approve advances by the mortgagee to cover the cost of materials delivered upon the mortgaged property and labor performed in the fabrication or erection thereof;
 
@@ -38,13 +38,13 @@ Section 1709(b)(2)(D) of this title, referred to in subsec. (b)(4), is a referen
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b), and (c).
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner" wherever appearing in subsecs. (a), (b), and (c).
 
-<b>1950</b>—Act Apr. 20, 1950, §122, substituted “Commissioner” for “Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, §122, substituted "Commissioner" for "Administrator" wherever appearing.
 
-Subsec. (b)(3). Act Apr. 20, 1950, §121(1), (2), substituted “85” for “80” in cl. (A), and inserted entirely new material in cl. (B).
+Subsec. (b)(3). Act Apr. 20, 1950, §121(1), (2), substituted "85" for "80" in cl. (A), and inserted entirely new material in cl. (B).
 
-Subsec. (b)(4). Act Apr. 20, 1950, §121(2), inserted “, and the mortgage may provide that, upon the completion of the construction of the project, such mortgage may be replaced by individual mortgages covering each individual dwelling in the project. Each such individual mortgage may be insured under this section with the mortgagor being either the builder who constructed the dwellings or the owner and occupant of the dwelling at the time, and where the mortgagor is the owner and occupant, may involve a principal obligation in such amount and have such maturity and interest rate as a mortgage eligible for insurance under section 1709(b)(2)(D) of this title”.
+Subsec. (b)(4). Act Apr. 20, 1950, §121(2), inserted ", and the mortgage may provide that, upon the completion of the construction of the project, such mortgage may be replaced by individual mortgages covering each individual dwelling in the project. Each such individual mortgage may be insured under this section with the mortgagor being either the builder who constructed the dwellings or the owner and occupant of the dwelling at the time, and where the mortgagor is the owner and occupant, may involve a principal obligation in such amount and have such maturity and interest rate as a mortgage eligible for insurance under section 1709(b)(2)(D) of this title".
 
-Subsec. (d). Act Apr. 20, 1950, §121(3), inserted “covering a project described in subsection (b) of this section, and the provisions of subsections (a) to (f), and (h) of section 1739 of this title shall be applicable to the individual mortgages insured pursuant to subsection (b)(4) of this section covering individual dwellings in the project”.
+Subsec. (d). Act Apr. 20, 1950, §121(3), inserted "covering a project described in subsection (b) of this section, and the provisions of subsections (a) to (f), and (h) of section 1739 of this title shall be applicable to the individual mortgages insured pursuant to subsection (b)(4) of this section covering individual dwellings in the project".
 

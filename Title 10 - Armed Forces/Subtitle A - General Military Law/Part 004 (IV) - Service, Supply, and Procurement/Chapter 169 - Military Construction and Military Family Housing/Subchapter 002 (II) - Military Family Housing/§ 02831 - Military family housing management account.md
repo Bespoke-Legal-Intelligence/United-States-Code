@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is on the books of the Treasury an account known as the Department of Defense Military Family Housing Management Account (hereinafter in this section referred to as the “account”). The account shall be used for the management and administration of funds appropriated or otherwise made available to the Department of Defense for military family housing programs.
+Establishment.—There is on the books of the Treasury an account known as the Department of Defense Military Family Housing Management Account (hereinafter in this section referred to as the "account"). The account shall be used for the management and administration of funds appropriated or otherwise made available to the Department of Defense for military family housing programs.
 
 (b)
 
@@ -12,7 +12,7 @@ Credits to Account.—The account shall be administered as a single account. The
 
 &emsp;(2) proceeds from the rental of family housing and mobile home facilities under the control of a military department, reimbursements from the occupants of such facilities for services rendered (including utility costs), funds obtained from individuals as a result of losses, damages, or destruction to such facilities caused by the abuse or negligence of such individuals, and reimbursements from other Government agencies for expenditures from the account; and
 
-&emsp;(3) proceeds of the handling and the disposal of family housing of a military department\(including related land and improvements), whether carried out by a military department or any other Federal agency, but less those expenses payable pursuant to section 572(a) of title 40.
+&emsp;(3) proceeds of the handling and the disposal of family housing of a military department (including related land and improvements), whether carried out by a military department or any other Federal agency, but less those expenses payable pursuant to section 572(a) of title 40.
 
 (c)
 
@@ -60,17 +60,17 @@ Section 222(c) of the National Housing Act (12 U.S.C. 1715m(c)), referred to in 
 
 <b>2006</b>—Subsecs. (a) to (d). Pub. L. 109–364, §2805(b)(1)–(4), inserted subsec. headings.
 
-Subsec. (e). Pub. L. 109–364, §2805(b)(5), struck out “Cost of” before “General Officers” in heading.
+Subsec. (e). Pub. L. 109–364, §2805(b)(5), struck out "Cost of" before "General Officers" in heading.
 
-Subsec. (e)(1)(B). Pub. L. 109–364, §2805(a)(2)(A), substituted “identified under subparagraph (A)” for “so identified”.
+Subsec. (e)(1)(B). Pub. L. 109–364, §2805(a)(2)(A), substituted "identified under subparagraph (A)" for "so identified".
 
 Subsec. (e)(1)(C) to (E). Pub. L. 109–364, §2805(a)(1), (2)(B), (3), added subpars. (C) to (E).
 
-Subsec. (f)(2). Pub. L. 109–364, §1071(a)(26), substituted “environmental” for “enviromental”.
+Subsec. (f)(2). Pub. L. 109–364, §1071(a)(26), substituted "environmental" for "enviromental".
 
 <b>2004</b>—Subsecs. (e), (f). Pub. L. 108–375 added subsecs. (e) and (f).
 
-<b>2002</b>—Subsec. (b)(3). Pub. L. 107–217 substituted “section 572(a) of title 40” for “section 204(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485(b))”.
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–217 substituted "section 572(a) of title 40" for "section 204(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485(b))".
 
 #### Effective Date
 

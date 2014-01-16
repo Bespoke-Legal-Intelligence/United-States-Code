@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (1) Reportable payment
 
-&emsp;The term “reportable payment” means—
+&emsp;The term "reportable payment" means—
 
 &emsp;&emsp;(A) any reportable interest or dividend payment, and
 
@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “reportable interest or dividend payment” means any payment of a kind, and to a payee, required to be shown on a return required under—
+&emsp;&emsp;The term "reportable interest or dividend payment" means any payment of a kind, and to a payee, required to be shown on a return required under—
 
 &emsp;&emsp;&emsp;(i) section 6049(a) (relating to payments of interest),
 
@@ -46,11 +46,11 @@ For purposes of this section—
 
 #### (B) Special rule for patronage dividends
 
-&emsp;&emsp;For purposes of subparagraphs (C) and (D) of subsection (a)(1), the term “reportable interest or dividend payment” shall not include any payment to which section 6044 (relating to patronage dividends) applies unless 50 percent or more of such payment is in money.
+&emsp;&emsp;For purposes of subparagraphs (C) and (D) of subsection (a)(1), the term "reportable interest or dividend payment" shall not include any payment to which section 6044 (relating to patronage dividends) applies unless 50 percent or more of such payment is in money.
 
 #### (3) Other reportable payment
 
-&emsp;The term “other reportable payment” means any payment of a kind, and to a payee, required to be shown on a return required under—
+&emsp;The term "other reportable payment" means any payment of a kind, and to a payee, required to be shown on a return required under—
 
 &emsp;&emsp;(A) section 6041 (relating to certain information at source),
 
@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (5) Exception for certain small payments
 
-&emsp;To the extent provided in regulations, the term “reportable payment” shall not include any payment which—
+&emsp;To the extent provided in regulations, the term "reportable payment" shall not include any payment which—
 
 &emsp;&emsp;(A) does not exceed $10, and
 
@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (7) Exception for certain window payments of interest, etc.
 
-&emsp;For purposes of subparagraphs (C) and (D) of subsection (a)(1), the term “reportable interest or dividend payment” shall not include any payment—
+&emsp;For purposes of subparagraphs (C) and (D) of subsection (a)(1), the term "reportable interest or dividend payment" shall not include any payment—
 
 &emsp;&emsp;(A) in redemption of a coupon on a bearer instrument or in redemption of a United States savings bond, or
 
@@ -228,7 +228,7 @@ For purposes of this section—
 
 &emsp;This subsection and subsection (a)(1)(D) shall not apply to any reportable interest or dividend payment which is paid or credited—
 
-&emsp;&emsp;(A) in the case of interest or any other amount of a kind reportable under section 6049, with respect to any account (whatever called) established before January 1, 1984, or with respect to any instrument acquired before January 1, 1984,
+&emsp;&emsp;(A) in the case of interest or any other amount of a kind reportable under section 6049, with respect to any account (whatevercalled) established before January 1, 1984, or with respect to any instrument acquired before January 1, 1984,
 
 &emsp;&emsp;(B) in the case of dividends or any other amount reportable under section 6042, on any stock or other instrument acquired before January 1, 1984, or
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 #### (B) Stop date
 
-&emsp;&emsp;For purposes of this subsection, the term “stop date” means the determination effective date or, if later, the earlier of—
+&emsp;&emsp;For purposes of this subsection, the term "stop date" means the determination effective date or, if later, the earlier of—
 
 &emsp;&emsp;&emsp;(i) the day on which the payor received notification from the Secretary under subsection (c)(3)(B) to stop withholding, or
 
@@ -358,13 +358,13 @@ For purposes of this section—
 
 #### (4) Payor defined
 
-&emsp;The term “payor” means, with respect to any reportable payment, a person required to file a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
+&emsp;The term "payor" means, with respect to any reportable payment, a person required to file a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
 
 #### (5) Broker
 
 #### (A) In general
 
-&emsp;&emsp;The term “broker” has the meaning given to such term by section 6045(c)(1).
+&emsp;&emsp;The term "broker" has the meaning given to such term by section 6045(c)(1).
 
 #### (B) Only 1 broker per acquisition
 
@@ -380,7 +380,7 @@ For purposes of this section—
 
 #### (6) Readily tradable instrument
 
-&emsp;The term “readily tradable instrument” means—
+&emsp;The term "readily tradable instrument" means—
 
 &emsp;&emsp;(A) any instrument which is part of an issue any portion of which is traded on an established securities market (within the meaning of section 453(f)(5)), and
 
@@ -406,29 +406,29 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–67, title I, §104(a), Aug. 5, 1983, 97 Stat. 371; amended Pub. L. 98–369, div. A, title I, §152(a), title VII, §722(h)(1), (2), July 18, 1984, 98 Stat. 691, 975; Pub. L. 99–514, title XV, §§1521(b), 1523(b)(1), title XVIII, §1899A(46), Oct. 22, 1986, 100 Stat. 2746, 2748, 2961; Pub. L. 100–647, title I, §1018(u)(44), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 102–486, title XIX, §1935(a), Oct. 24, 1992, 106 Stat. 3032; Pub. L. 107–16, title I, §101(c)(10), June 7, 2001, 115 Stat. 44; Pub. L. 110–289, div. C, title III, §3091(c), July 30, 2008, 122 Stat. 2911.)
+(Added Pub. L. 98–67, title I, §104(a), Aug. 5, 1983, 97 Stat. 371; amended Pub. L. 98–369, div. A, title I, §152(a), title VII, §722(h)(1), (2), July 18, 1984, 98 Stat. 691, 975; Pub. L. 99–514, title XV, §§1521(b), 1523(b)(1), title XVIII, §1899A(46), Oct. 22, 1986, 100 Stat. 2746, 2748, 2961; Pub. L. 100–647,title I, §1018(u)(44), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 102–486, title XIX, §1935(a), Oct. 24, 1992, 106 Stat. 3032; Pub. L. 107–16, title I, §101(c)(10), June 7, 2001, 115 Stat. 44; Pub. L. 110–289, div. C, title III, §3091(c), July 30, 2008, 122 Stat. 2911.)
 
 #### Amendments
 
 <b>2008</b>—Subsec. (b)(3)(F). Pub. L. 110–289 added subpar. (F).
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–16 substituted “equal to the product of the fourth lowest rate of tax applicable under section 1(c) and such payment” for “equal to 31 percent of such payment” in concluding provisions.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–16 substituted "equal to the product of the fourth lowest rate of tax applicable under section 1(c) and such payment" for "equal to 31 percent of such payment" in concluding provisions.
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, in closing provisions, substituted “31 percent” for “20 percent”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, in closing provisions, substituted "31 percent" for "20 percent".
 
 <b>1988</b>—Subsec. (h)(5)(D). Pub. L. 100–647 inserted period at end of subpar. (D).
 
 <b>1986</b>—Subsec. (b)(3)(E). Pub. L. 99–514, §1523(b)(1), added subpar. (E).
 
-Subsec. (b)(6). Pub. L. 99–514, §1899A(46), substituted “6041A(a)” for “6041(A)(a)” in heading.
+Subsec. (b)(6). Pub. L. 99–514, §1899A(46), substituted "6041A(a)" for "6041(A)(a)" in heading.
 
 Subsec. (h)(5)(D). Pub. L. 99–514, §1521(b), added subpar. (D).
 
-<b>1984</b>—Subsec. (c)(1). Pub. L. 98–369, §722(h)(2), substituted “(but not the reasons for the withholding under subsection (a)(1)(C))” for “(but not the reasons therefor)”.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–369, §722(h)(2), substituted "(but not the reasons for the withholding under subsection (a)(1)(C))" for "(but not the reasons therefor)".
 
-Subsec. (d)(2)(A). Pub. L. 98–369, §722(h)(1)(A), inserted “the payor was notified by a broker under subparagraph (B) or” after “if (and only if)” in provisions preceding cl. (i), struck out cl. (i) which read as follows: “the payor was notified by a broker under subparagraph (B),” and redesignated cls. (ii) and (iii) as (i) and (ii), respectively.
+Subsec. (d)(2)(A). Pub. L. 98–369, §722(h)(1)(A), inserted "the payor was notified by a broker under subparagraph (B) or" after "if (and only if)" in provisions preceding cl. (i), struck out cl. (i) which read as follows: "the payor was notified by a broker under subparagraph (B)," and redesignated cls. (ii) and (iii) as (i) and (ii), respectively.
 
-Subsec. (d)(2)(B). Pub. L. 98–369, §722(h)(1)(B), in amending subpar. (B) generally, reenacted cl. (i), in cl. (ii) inserted “with respect to such acquisition—”, added subcls. (I) and (II), redesignated former subcls. (I) and (II) as (III) and (IV), respectively, and in subcl. (III) substituted “the Secretary notifies such broker” for “such broker is notified by the Secretary”, and in provisions following cl. (ii) substituted “shall within such period as the Secretary may prescribe by regulations (but not later than 15 days after such acquisition), notify the payor that such payee is subject to withholding under subparagraph (A), (B), (C) or (D) of subsection (a)(1),” for “within 15 days after the date of the acquisition notify the payor that such payee is subject to withholding under subsection (a)(1)(D) (or subsection (a)(1)(C) in the case of a notification described in clause (ii)(II).”
+Subsec. (d)(2)(B). Pub. L. 98–369, §722(h)(1)(B), in amending subpar. (B) generally, reenacted cl. (i), in cl. (ii) inserted "with respect to such acquisition—", added subcls. (I) and (II), redesignated former subcls. (I) and (II) as (III) and (IV), respectively, and in subcl. (III) substituted "the Secretary notifies such broker" for "such broker is notified by the Secretary", and in provisions following cl. (ii) substituted "shall within such period as the Secretary may prescribe by regulations (but not later than 15 days after such acquisition), notify the payor that such payee is subject to withholding under subparagraph (A), (B), (C) or (D) of subsection (a)(1)," for "within 15 days after the date of the acquisition notify the payor that such payee is subject to withholding under subsection (a)(1)(D) (or subsection (a)(1)(C) in the case of a notification described in clause (ii)(II)."
 
 Subsec. (e)(1). Pub. L. 98–369, §152(a), inserted provision that the Secretary may require that a TIN required to be furnished under subsection (a)(1)(A) be provided under penalties of perjury only with respect to interest, dividends, patronage dividends, and amounts subject to broker reporting.
 
@@ -436,25 +436,25 @@ Subsec. (e)(1). Pub. L. 98–369, §152(a), inserted provision that the Secretar
 
 Pub. L. 110–289, div. C, title III, §3091(e), July 30, 2008, 122 Stat. 2911, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting section 6050W of this title and amending this section and section 6724 of this title\] shall apply to returns for calendar years beginning after December 31, 2010.
 
-“(2)
+"(2)
 
 Application of backup withholding.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The amendment made by subsection (c) \[amending this section\] shall apply to amounts paid after December 31, 2011.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Eligibility for tin matching program.—Solely for purposes of carrying out any TIN matching program established by the Secretary under section 3406(i) of the Internal Revenue Code of 1986—
 
-&emsp;&emsp;“(i) the amendments made this section shall be treated as taking effect on the date of the enactment of this Act \[July 30, 2008\], and
+&emsp;&emsp;"(i) the amendments made this section shall be treated as taking effect on the date of the enactment of this Act \[July 30, 2008\], and
 
-&emsp;&emsp;“(ii) each person responsible for setting the standards and mechanisms referred to in section6050W(d)(2)(C) of such Code, as added by this section, for settling transactions involving payment cards shall be treated in the same manner as a payment settlement entity.”
+&emsp;&emsp;"(ii) each person responsible for setting the standards and mechanisms referred to in section 6050W(d)(2)(C) of such Code, as added by this section, for settling transactions involving payment cards shall be treated in the same manner as a payment settlement entity."
 
 #### Effective Date of 2001 Amendment
 
@@ -462,7 +462,7 @@ Amendment by Pub. L. 107–16 applicable to amounts paid after the 60th day afte
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1935(b), Oct. 24, 1992, 106 Stat. 3032, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after December 31, 1992.”
+Pub. L. 102–486, title XIX, §1935(b), Oct. 24, 1992, 106 Stat. 3032, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after December 31, 1992."
 
 #### Effective Date of 1988 Amendment
 
@@ -476,7 +476,7 @@ Amendment by section 1523(b)(1) of Pub. L. 99–514 applicable to payments made 
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §152(b), July 18, 1984, 98 Stat. 691, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §152(b), July 18, 1984, 98 Stat. 691, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\]."
 
 Amendment by section 722(h)(1), (2) of Pub. L. 98–369 applicable as if included in amendments made by Interest and Dividend Tax Compliance Act of 1983, Pub. L. 98–67, see section 722(h)(5)(A) of Pub. L. 98–369, set out as a note under section 643 of this title.
 

@@ -18,15 +18,15 @@ Provisions similar to those in this section were contained in section 784 of thi
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–293, §220(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Notwithstanding any other law, when the running mate of a reserve officer serving in the grade of rear admiral (lower half) is promoted to the grade of rear admiral, the reserve officer shall also be promoted to that grade.”
+<b>2004</b>—Subsec. (b). Pub. L. 108–293, §220(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Notwithstanding any other law, when the running mate of a reserve officer serving in the grade of rear admiral (lower half) is promoted to the grade of rear admiral, the reserve officer shall also be promoted to that grade."
 
-Subsec. (c). Pub. L. 108–293, §220(c), struck out “of subsection (a)” after “For the purposes”.
+Subsec. (c). Pub. L. 108–293, §220(c), struck out "of subsection (a)" after "For the purposes".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–295 inserted “the date of rank shall be the date of appointment in that grade, unless the promotion was determined in accordance with a running mate system, in which event” after “subchapter,”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–295 inserted "the date of rank shall be the date of appointment in that grade, unless the promotion was determined in accordance with a running mate system, in which event" after "subchapter,".
 
 <b>1989</b>—Subsec. (c). Pub. L. 101–225 inserted provision authorizing Secretary to adjust date of appointment.
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore".
 
 <b>1983</b>—Subsec. (b). Pub. L. 97–417 substituted provision that, notwithstanding any other law, when the running mate of a reserve officer serving in the grade of commodore is promoted to the grade of rear admiral, the reserve officer shall also be promoted to that grade, for provision that, notwithstanding any other law and when a Reserve officer's running mate was so entitled, a Reserve officer in the grade of rear admiral was entitled to the pay and allowances of the upper half for duty performed.
 

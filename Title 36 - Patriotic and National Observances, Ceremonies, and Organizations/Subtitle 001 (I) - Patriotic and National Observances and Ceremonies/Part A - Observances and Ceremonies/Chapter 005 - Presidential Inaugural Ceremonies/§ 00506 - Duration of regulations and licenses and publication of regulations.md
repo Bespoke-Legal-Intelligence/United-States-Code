@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 6, 1956, ch. 974, §8 (1st, 2d sentences), 70 Stat. 1051.
 
-The words “full force and” are omitted as unnecessary.
+The words "full force and" are omitted as unnecessary.
 

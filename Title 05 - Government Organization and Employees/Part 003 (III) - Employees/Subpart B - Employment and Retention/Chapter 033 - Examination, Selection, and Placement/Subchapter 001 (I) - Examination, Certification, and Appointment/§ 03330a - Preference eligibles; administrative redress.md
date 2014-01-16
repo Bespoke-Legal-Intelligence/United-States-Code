@@ -16,7 +16,7 @@
 
 (3) In carrying out any investigation under this subsection, the Secretary may require by subpoena the attendance and testimony of witnesses and the production of documents relating to any matter under investigation. In case of disobedience of the subpoena or contumacy and on request of the Secretary, the Attorney General may apply to any district court of the United States in whose jurisdiction such disobedience or contumacy occurs for an order enforcing the subpoena.
 
-(4) Upon application, the district courts of the United States shall have jurisdiction to issue writs commanding any person or agency to comply with the subpoena of the Secretary or to comply with any order of the Secretary made pursuant to a lawful investigation under this subsection and the district courts shall have jurisdiction to punish failure to obey a subpoena or other lawful order of the Secretary as a contempt of court.
+(4) Upon application, the district courts of the United States shall have jurisdiction to issuewrits commanding any person or agency to comply with the subpoena of the Secretary or to comply with any order of the Secretary made pursuant to a lawful investigation under this subsection and the district courts shall have jurisdiction to punish failure to obey a subpoena or other lawful order of the Secretary as a contempt of court.
 
 (c)(1)(A) If the Secretary of Labor determines as a result of an investigation under subsection (b) that the action alleged in a complaint under subsection (a) occurred, the Secretary shall attempt to resolve the complaint by making reasonable efforts to ensure that the agency specified in the complaint complies with applicable provisions of statute or regulation relating to veterans’ preference.
 

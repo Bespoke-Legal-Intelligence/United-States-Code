@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Every employer maintaining a specified fringe benefit plan during any year beginning after December 31, 1984, for any portion of which the applicable exclusion applies, shall file a return (at such time and in such manner as the Secretary shall by regulations prescribe) with respect to such plan showing for such year—
+Every employer maintaining a specified fringe benefit plan during any year beginning after December 31, 1984, for any portion of which the applicable exclusion applies, shall file a return (atsuch time and in such manner as the Secretary shall by regulations prescribe) with respect to such plan showing for such year—
 
 &emsp;(1) the number of employees of the employer,
 
@@ -36,11 +36,11 @@ For purposes of this section—
 
 #### (1) Specified fringe benefit plan
 
-&emsp;The term “specified fringe benefit plan” means any plan under section 79, 105, 106, 120, 125, 127, 129, or 137.
+&emsp;The term "specified fringe benefit plan" means any plan under section 79, 105, 106, 120, 125, 127, 129, or 137.
 
 #### (2) Applicable exclusion
 
-&emsp;The term “applicable exclusion” means, with respect to any specified fringe benefit plan, the section specified under paragraph (1) under which benefits under such plan are excludable from gross income.
+&emsp;The term "applicable exclusion" means, with respect to any specified fringe benefit plan, the section specified under paragraph (1) under which benefits under such plan are excludable from gross income.
 
 #### (3) Special rule for multiemployer plans
 
@@ -50,25 +50,25 @@ For purposes of this section—
 
 #### Codification
 
-Another section 6039D, added Pub. L. 98–612, §1(b)(1), Oct. 31, 1984, 98 Stat. 3180, also related to returns andrecords with respect to certain fringe benefits, prior to repeal by Pub. L. 99–514, title XVIII, §1879(d)(2), Oct. 22, 1986, 100 Stat. 2906, effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such repeal relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Another section 6039D, added Pub. L. 98–612, §1(b)(1), Oct. 31, 1984, 98 Stat. 3180, also related to returns and records with respect to certain fringe benefits, prior to repeal by Pub. L. 99–514, title XVIII, §1879(d)(2), Oct. 22, 1986, 100 Stat. 2906, effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such repeal relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Amendments
 
-<b>1997</b>—Subsec. (d)(1). Pub. L. 105–34 substituted “129, or 137” for “or 129”.
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–34 substituted "129, or 137" for "or 129".
 
-<b>1990</b>—Subsec. (d)(3). Pub. L. 101–508 substituted “the employer).” for “the employer)”.
+<b>1990</b>—Subsec. (d)(3). Pub. L. 101–508 substituted "the employer)." for "the employer)".
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–647, §1011B(a)(24), amended directory language of Pub. L. 99–514, §1151(h)(3), see 1986 Amendment note below.
 
-Subsec. (d). Pub. L. 100–647, §3021(a)(15)(A)(ii), inserted “and special rules” after “Definitions” in heading.
+Subsec. (d). Pub. L. 100–647, §3021(a)(15)(A)(ii), inserted "and special rules" after "Definitions" in heading.
 
 Subsec. (d)(3). Pub. L. 100–647, §3021(a)(15)(A)(i), added par. (3).
 
 <b>1986</b>—Subsec. (a)(6). Pub. L. 99–514, §1151(h)(2), added par. (6).
 
-Subsec. (c). Pub. L. 99–514, §1151(h)(3), as amended by Pub. L. 100–647, §1011B(a)(24), inserted at end “The Secretary may require returns under this subsection only from a representative group of employers.”
+Subsec. (c). Pub. L. 99–514, §1151(h)(3), as amended by Pub. L. 100–647, §1011B(a)(24), inserted at end "The Secretary may require returns under this subsection only from a representative group of employers."
 
-Subsec. (d). Pub. L. 99–514, §1151(h)(1), amended subsec. (d) generally. Prior to amendment, par. (1) defined a specified fringe benefit plan as (A) any qualified group legal services plan (as defined in section 120), (B) any cafeteria plan (as defined in section 125), and (C) any educational assistance plan (as defined in section 127), and par. (2) defined “applicable exclusion” as meaning (A) section 120 in the case of a qualified legal group services plan, (B) section 125 in the case of a cafeteria plan, and (C) section 127 in the case of an educational assistance plan.
+Subsec. (d). Pub. L. 99–514, §1151(h)(1), amended subsec. (d) generally. Prior to amendment, par. (1) defined a specified fringe benefit plan as (A) any qualified group legal services plan (as defined in section 120), (B) any cafeteria plan (as defined in section 125), and (C) any educational assistance plan (as defined in section 127), and par. (2) defined "applicable exclusion" as meaning (A) section 120 in the case of a qualified legal group services plan, (B) section 125 in the case of a cafeteria plan, and (C) section 127 in the case of an educational assistance plan.
 
 Pub. L. 99–514, §1879(d)(1), in amending subsec. (d) generally, added subpars. (1)(A) and (2)(A). Former subpars. (1)(A) and (B) and (2)(A) and (B) were redesignated as subpars. (1)(B) and (C) and (2)(B) and (C), respectively.
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 Amendment by section 1011B(a)(24) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title III, §3021(a)(15)(B), Nov. 10, 1988, 102 Stat. 3631, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to years beginning after 1984.”
+Pub. L. 100–647, title III, §3021(a)(15)(B), Nov. 10, 1988, 102 Stat. 3631, provided that: "The amendments made by this paragraph \[amending this section\] shall apply to years beginning after 1984."
 
 #### Effective Date of 1986 Amendment
 

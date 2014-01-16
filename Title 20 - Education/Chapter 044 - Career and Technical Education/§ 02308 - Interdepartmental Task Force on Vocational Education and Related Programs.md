@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established the Interdepartmental Task Force on Vocational Education and Related Programs (in this section referred to as the “Task Force”).
+There is established the Interdepartmental Task Force on Vocational Education and Related Programs (in this section referred to as the "Task Force").
 
 #### (b) Membership
 
@@ -52,5 +52,5 @@ Section 2313, Pub. L. 88–210, title I, §103, as added Pub. L. 98–524, §1, 
 
 #### Amendments
 
-<b>1995</b>—Subsec. (d). Pub. L. 104–66 struck out heading and text of subsec. (d). Text read as follows: “The Task Force shall, every 2 years, submit a report on its findings to the appropriate committees of the Congress.”
+<b>1995</b>—Subsec. (d). Pub. L. 104–66 struck out heading and text of subsec. (d). Text read as follows: "The Task Force shall, every 2 years, submit a report on its findings to the appropriate committees of the Congress."
 

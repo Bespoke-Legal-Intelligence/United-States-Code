@@ -20,7 +20,7 @@ Data on Length of Review.—The Office shall make available to the public data d
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 amended section generally. Prior to amendment, text read as follows: “Once an order for inter partes reexamination of a patent has been issued under section 313, the patent owner may obtain a stay of any pending litigation which involves an issue of patentability of any claims of the patent which are the subject of the inter partes reexamination order, unless the court before which such litigation is pending determines that a stay would not serve the interests of justice.”
+<b>2011</b>—Pub. L. 112–29 amended section generally. Prior to amendment, text read as follows: "Once an order for inter partes reexamination of a patent has been issued under section 313, the patent owner may obtain a stay of any pending litigation which involves an issue of patentability of any claims of the patent which are the subject of the inter partes reexamination order, unless the court before which such litigation is pending determines that a stay would not serve the interests of justice."
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 

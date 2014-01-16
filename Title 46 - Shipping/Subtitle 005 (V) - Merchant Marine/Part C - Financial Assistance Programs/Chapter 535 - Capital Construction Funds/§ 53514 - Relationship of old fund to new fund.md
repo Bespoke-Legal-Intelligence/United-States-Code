@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “old fund” means a capital construction fund maintained before October 21, 1970.
+Definition.—In this section, the term "old fund" means a capital construction fund maintained before October 21, 1970.
 
 (b)
 

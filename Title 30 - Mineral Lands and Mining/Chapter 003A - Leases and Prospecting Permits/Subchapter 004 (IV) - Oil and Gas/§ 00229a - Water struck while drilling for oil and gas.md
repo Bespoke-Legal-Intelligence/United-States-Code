@@ -6,7 +6,7 @@ All prospecting permits and leases for oil or gas made or issued under the provi
 
 #### (b) Prior leases
 
-In cases where water wells producing such water have heretofore been or may hereafter bedrilled upon lands embraced in any prospecting permit or lease heretofore issued under this chapter, the Secretary may in like manner purchase the casing in such wells.
+In cases where water wells producing such water have heretofore been or may hereafter be drilled upon lands embraced in any prospecting permit or lease heretofore issued under this chapter, the Secretary may in like manner purchase the casing in such wells.
 
 #### (c) Disposition
 

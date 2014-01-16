@@ -62,7 +62,7 @@ Sept. 20, 1950, ch. 958, §§2 (2d, last sentences), 7, 64 Stat. 870, 871.
 
 &nbsp;
 
-In subsection (b), the words “shares of” are omitted as unnecessary.
+In subsection (b), the words "shares of" are omitted as unnecessary.
 
-In subsection (d), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
+In subsection (d), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title.
 

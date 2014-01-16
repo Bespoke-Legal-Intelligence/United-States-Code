@@ -44,7 +44,7 @@ In a criminal proceeding in which an Indian tribe, in exercising powers of self-
 
 &emsp;(1) provide to the defendant the right to effective assistance of counsel at least equal to that guaranteed by the United States Constitution; and
 
-&emsp;(2) at the expense of the tribal government, provide an indigent defendant the assistance of a defense attorney licensed to practice law by any jurisdiction in the United States thatapplies appropriate professional licensing standards and effectively ensures the competence and professional responsibility of its licensed attorneys;
+&emsp;(2) at the expense of the tribal government, provide an indigent defendant the assistance of a defense attorney licensed to practice law by any jurisdiction in the United States that applies appropriate professional licensing standards and effectively ensures the competence and professional responsibility of its licensed attorneys;
 
 &emsp;(3) require that the judge presiding over the criminal proceeding—
 
@@ -74,7 +74,7 @@ In the case of a defendant sentenced in accordance with subsections (b) and (c),
 
 #### (e) Definition of offense
 
-In this section, the term “offense” means a violation of a criminal law.
+In this section, the term "offense" means a violation of a criminal law.
 
 #### (f) Effect of section
 
@@ -90,71 +90,71 @@ Section 304(c) of the Tribal Law and Order Act of 2010, referred to in subsec. (
 
 <b>2010</b>—Pub. L. 111–211, §234(a)(1), designated existing provisions as subsec. (a) and inserted subsec. heading.
 
-Subsec. (a)(6). Pub. L. 111–211, §234(a)(2)(A), inserted “(except as provided in subsection (b))” after “assistance of counsel for his defense”. Amendment was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language in quoting the text to be inserted.
+Subsec. (a)(6). Pub. L. 111–211, §234(a)(2)(A), inserted "(except as provided in subsection (b))" after "assistance of counsel for his defense". Amendment was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language in quoting the text to be inserted.
 
-Subsec. (a)(7). Pub. L. 111–211, §234(a)(2)(B), added par. (7) and struck out former par. (7) which read as follows: “require excessive bail, impose excessive fines, inflict cruel and unusual punishments, and in no event impose for conviction of any one offense any penalty or punishment greater than imprisonment for a term of one year and a fine of $5,000, or both;”.
+Subsec. (a)(7). Pub. L. 111–211, §234(a)(2)(B), added par. (7) and struck out former par. (7) which read as follows: "require excessive bail, impose excessive fines, inflict cruel and unusual punishments, and in no event impose for conviction of any one offense any penalty or punishment greater than imprisonment for a term of one year and a fine of $5,000, or both;".
 
 Subsecs. (b) to (f). Pub. L. 111–211, §234(a)(3), added subsecs. (b) to (f).
 
-<b>1986</b>—Par. (7). Pub. L. 99–570, which directed that “for a term of one year and a fine of $5,000, or both” be substituted for “for a term of six months and a fine of $500, or both”, was executed by making the substitution for “for a term of six months or a fine of $500, or both” as the probable intent of Congress.
+<b>1986</b>—Par. (7). Pub. L. 99–570, which directed that "for a term of one year and a fine of $5,000, or both" be substituted for "for a term of six months and a fine of $500,or both", was executed by making the substitution for "for a term of six months or a fine of $500, or both" as the probable intent of Congress.
 
 #### Bureau of Prisons Tribal Prisoner Pilot Program
 
 Pub. L. 111–211, title II, §234(c), July 29, 2010, 124 Stat. 2281, provided that:
 
-“(1)
+"(1)
 
 In general.—Not later than 120 days after the date of enactment of this title \[July 29, 2010\], the Director of the Bureau of Prisons shall establish a pilot program under which the Bureau of Prisons shall accept offenders convicted in tribal court pursuant to section 202 of the Indian Civil Rights Act of 1968 (25 U.S.C. 1302) (as amended by this section), subject to the conditions described in paragraph (2).
 
-“(2)
+"(2)
 
 Conditions.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—As a condition of participation in the pilot program described in paragraph (1), the tribal court shall submit to the Attorney General a request for confinement of the offender, for approval by the Attorney General (or a designee) by not later than 30 days after the date of submission.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Limitations.—Requests for confinement shall be limited to offenders convicted of a violent crime (comparable to the violent crimes described in section 1153(a) of title 18, United States Code) for which the sentence includes a term of imprisonment of 2 or more years.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Custody conditions.—The imprisonment by the Bureau of Prisons shall be subject to the conditions described in section 5003 of title 18, United States Code, regarding the custody of State offenders, except that the offender shall be placed in the nearest available and appropriate Federal facility, and imprisoned at the expense of the United States.
 
-&emsp;“(D)
+&emsp;"(D)
 
 Cap.—The Bureau of Prisons shall confine not more than 100 tribal offenders at any time.
 
-“(3)
+"(3)
 
 Rescinding requests.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The applicable tribal government shall retain the authority to rescind the request for confinement of a tribal offender by the Bureau of Prisons under this paragraph at any time during the sentence of the offender.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Return to tribal custody.—On rescission of a request under subparagraph (A), a tribal offender shall be returned to tribal custody.
 
-“(4)
+"(4)
 
 Reassessment.—If tribal court demand for participation in this pilot program exceeds 100 tribal offenders, a representative of the Bureau of Prisons shall notify Congress.
 
-“(5)
+"(5)
 
 Report.—Not later than 3 years after the date of establishment of the pilot program, the Attorney General shall submit to Congress a report describing the status of the program, including recommendations regarding the future of the program, if any.
 
-“(6)
+"(6)
 
-Termination.—Except as otherwise provided by an Act of Congress, the pilot program under this paragraph shall expire on the date that is 4 years after the date on which the program is established.”
+Termination.—Except as otherwise provided by an Act of Congress, the pilot program under this paragraph shall expire on the date that is 4 years after the date on which the program is established."
 
-\[For definition of “tribal government” as used in section 234(c) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under section 2801 of this title.\]
+\[For definition of "tribal government" as used in section 234(c) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under section 2801 of this title.\]
 
 #### Purpose of 1986 Amendment
 
-Pub. L. 99–570, title IV, §4217, Oct. 27, 1986, 100 Stat. 3207–146, provided in part that amendment of par. (7) of this section was to “enhance the ability of tribal governments to prevent and penalize the traffic of illegal narcotics on Indian reservations”.
+Pub. L. 99–570, title IV, §4217, Oct. 27, 1986, 100 Stat. 3207–146, provided in part that amendment of par. (7) of this section was to "enhance the ability of tribal governments to prevent and penalize the traffic of illegal narcotics on Indian reservations".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -136,103 +136,103 @@
 
 #### Amendments
 
-<b>2012</b>—Subsec. (f)(2). Pub. L. 112–213, §305(a)(2)(A), substituted “at least once every 5 years” for “at least once every 2 years”.
+<b>2012</b>—Subsec. (f)(2). Pub. L. 112–213, §305(a)(2)(A), substituted "at least once every 5 years" for "at least once every 2 years".
 
 Subsec. (f)(3). Pub. L. 112–213, §305(a)(1), (2)(B), (3), added par. (3).
 
-Subsec. (g)(4). Pub. L. 112–213, §305(b), substituted “an electronic” for “a publicly accessible electronic”.
+Subsec. (g)(4). Pub. L. 112–213, §305(b), substituted "an electronic" for "a publicly accessible electronic".
 
-<b>2010</b>—Subsec. (a)(6). Pub. L. 111–281, §604(a)(1)(A), added par. (6) and struck out former par. (6) which read as follows: “a buoyant apparatus, if the vessel is of a type required by regulations prescribed by the Secretary to be equipped with that apparatus;”.
+<b>2010</b>—Subsec. (a)(6). Pub. L. 111–281, §604(a)(1)(A), added par. (6) and struck out former par. (6) which read as follows: "a buoyant apparatus, if the vessel is of a type required by regulations prescribed by the Secretary to be equipped with that apparatus;".
 
-Subsec. (a)(7), (8). Pub. L. 111–281, §604(a)(1), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “alerting and locating equipment, including emergency position indicating radio beacons, on vessels that operate beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured, and which are owned in the United States or beyond 3 nautical miles from the coastline of the Great Lakes; and”.
+Subsec. (a)(7), (8). Pub. L. 111–281, §604(a)(1), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: "alerting and locating equipment, including emergency position indicating radio beacons, on vessels that operate beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured, and which are owned in the United States or beyond 3 nautical miles from the coastline of the Great Lakes; and".
 
-Subsec. (b)(1). Pub. L. 111–281, §604(a)(2)(A), struck out “documented” before “vessels”.
+Subsec. (b)(1). Pub. L. 111–281, §604(a)(2)(A), struck out "documented" before "vessels".
 
-Subsec. (b)(1)(A). Pub. L. 111–281, §604(a)(2)(B), substituted “3 nautical miles from the baseline from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes” for “the Boundary Line”.
+Subsec. (b)(1)(A). Pub. L. 111–281, §604(a)(2)(B), substituted "3 nautical miles from the baseline from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes" for "the Boundary Line".
 
-Subsec. (b)(2)(B). Pub. L. 111–281, §604(a)(2)(C), substituted “a survival craft that ensures that no part of an individual is immersed in water” for “lifeboats or liferafts”.
+Subsec. (b)(2)(B). Pub. L. 111–281, §604(a)(2)(C), substituted "a survival craft that ensures that no part of an individual is immersed in water" for "lifeboats or liferafts".
 
-Subsec. (b)(2)(D). Pub. L. 111–281, §604(a)(2)(D), inserted “marine” before “radio communications”.
+Subsec. (b)(2)(D). Pub. L. 111–281, §604(a)(2)(D), inserted "marine" before "radio communications".
 
-Subsec. (b)(2)(E). Pub. L. 111–281, §604(a)(2)(E), substituted “nautical charts, and publications” for “radar reflectors, nautical charts, and anchors”.
+Subsec. (b)(2)(E). Pub. L. 111–281, §604(a)(2)(E), substituted "nautical charts, and publications" for "radar reflectors, nautical charts, and anchors".
 
-Subsec. (b)(2)(F). Pub. L. 111–281, §604(a)(2)(F), substituted “and medical supplies sufficient for the size and area of operation of the vessel” for “, including medicine chests”.
+Subsec. (b)(2)(F). Pub. L. 111–281, §604(a)(2)(F), substituted "and medical supplies sufficient for the size and area of operation of the vessel" for ", including medicine chests".
 
-Subsec. (b)(2)(G). Pub. L. 111–281, §604(a)(2)(G), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “other equipment required to minimize the risk of injury to the crew during vessel operations, if the Secretary determines that a risk of serious injury exists that can be eliminated or mitigated by that equipment.”
+Subsec. (b)(2)(G). Pub. L. 111–281, §604(a)(2)(G), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: "other equipment required to minimize the risk of injury to the crew during vessel operations, if the Secretary determines that a risk of serious injury exists that can be eliminated or mitigated by that equipment."
 
-Subsec. (f). Pub. L. 111–281, §604(a)(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “To ensure compliance with the requirements of this chapter, at least once every 2 years the Secretary shall examine—
+Subsec. (f). Pub. L. 111–281, §604(a)(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "To ensure compliance with the requirements of this chapter, at least once every 2 years the Secretary shall examine—
 
-&emsp;“(1) a fish processing vessel; and
+&emsp;"(1) a fish processing vessel; and
 
-&emsp;“(2) a fish tender vessel engaged in the Aleutian trade.”
+&emsp;"(2) a fish tender vessel engaged in the Aleutian trade."
 
 Subsecs. (g) to (j). Pub. L. 111–281, §604(a)(4), added subsecs. (g) to (j).
 
-<b>1998</b>—Subsec. (a)(7). Pub. L. 105–383 substituted “beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured, and which are owned in the United States” for “on the high seas”.
+<b>1998</b>—Subsec. (a)(7). Pub. L. 105–383 substituted "beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured, and which are owned in the United States" for "on the high seas".
 
-<b>1996</b>—Subsec. (a)(7). Pub. L. 104–324 inserted “or beyond 3 nautical miles from the coastline of the Great Lakes” after “high seas”.
+<b>1996</b>—Subsec. (a)(7). Pub. L. 104–324 inserted "or beyond 3 nautical miles from the coastline of the Great Lakes" after "high seas".
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–595, §602(c)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition to the requirements of subsection (a) of this section, the Secretary shall prescribe regulations for documented vessels to which this chapter applies that operate beyond the Boundary Line or that operate with more than 16 individuals on board, for the installation, maintenance, and use of—
+<b>1990</b>—Subsec. (b). Pub. L. 101–595, §602(c)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "In addition to the requirements of subsection (a) of this section, the Secretary shall prescribe regulations for documented vessels to which this chapter applies that operate beyond the Boundary Line or that operate with more than 16 individuals on board, for the installation, maintenance, and use of—
 
-&emsp;“(1) alerting and locating equipment, including emergency position indicating radio beacons;
+&emsp;"(1) alerting and locating equipment, including emergency position indicating radio beacons;
 
-&emsp;“(2) lifeboats or liferafts sufficient to accommodate all individuals on board;
+&emsp;"(2) lifeboats or liferafts sufficient to accommodate all individuals on board;
 
-&emsp;“(3) at least one readily accessible immersion suit for each individual on board that vessel when operating on the waters described in section 3102 of this title;
+&emsp;"(3) at least one readily accessible immersion suit for each individual on board that vessel when operating on the waters described in section 3102 of this title;
 
-&emsp;“(4) radio communications equipment sufficient to effectively communicate with land-based search and rescue facilities;
+&emsp;"(4) radio communications equipment sufficient to effectively communicate with land-based search and rescue facilities;
 
-&emsp;“(5) navigation equipment, including compasses, radar reflectors, nautical charts, and anchors;
+&emsp;"(5) navigation equipment, including compasses, radar reflectors, nautical charts, and anchors;
 
-&emsp;“(6) first aid equipment, including medicine chests; and
+&emsp;"(6) first aid equipment, including medicine chests; and
 
-&emsp;“(7) other equipment required to minimize the risk of injury to the crew during vessel operations, if the Secretary determines that a risk of serious injury exists that can be eliminated or mitigated by that equipment.”
+&emsp;"(7) other equipment required to minimize the risk of injury to the crew during vessel operations, if the Secretary determines that a risk of serious injury exists that can be eliminated or mitigated by that equipment."
 
-Subsec. (c). Pub. L. 101–595, §602(c)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In addition to the requirements described in subsections (a) and (b) of this section, the Secretary may prescribe regulations establishing minimum safety standards for vessels to which this chapter applies that were built after December 31, 1988, or that undergo a major conversion completed after that date, and that operate with more than 16 individuals on board, including standards relating to—
+Subsec. (c). Pub. L. 101–595, §602(c)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "In addition to the requirements described in subsections (a) and (b) of this section, the Secretary may prescribe regulations establishing minimum safety standards for vessels to which this chapter applies that were built after December 31, 1988, or that undergo a major conversion completed after that date, and that operate with more than 16 individuals on board, including standards relating to—
 
-&emsp;“(1) navigation equipment, including radars and fathometers;
+&emsp;"(1) navigation equipment, including radars and fathometers;
 
-&emsp;“(2) life saving equipment, immersion suits, signaling devices, bilge pumps, bilge alarms, life rails, and grab rails;
+&emsp;"(2) life saving equipment, immersion suits, signaling devices, bilge pumps, bilge alarms, life rails, and grab rails;
 
-&emsp;“(3) fire protection and firefighting equipment, including fire alarms and portable and semiportable fire extinguishing equipment;
+&emsp;"(3) fire protection and firefighting equipment, including fire alarms and portable and semiportable fire extinguishing equipment;
 
-&emsp;“(4) use and installation of insulation material;
+&emsp;"(4) use and installation of insulation material;
 
-&emsp;“(5) storage methods for flammable or combustible material; and
+&emsp;"(5) storage methods for flammable or combustible material; and
 
-&emsp;“(6) fuel, ventilation, and electrical systems.”
+&emsp;"(6) fuel, ventilation, and electrical systems."
 
-Subsec. (f). Pub. L. 101–595, §602(c)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall examine a fish processing vessel at least once every two years to ensure that the vessel complies with the requirements of this chapter.”
+Subsec. (f). Pub. L. 101–595, §602(c)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "The Secretary shall examine a fish processing vessel at least once every two years to ensure that the vessel complies with the requirements of this chapter."
 
-<b>1988</b>—Pub. L. 100–424 amended section generally, substituting “Safety standards” for “Regulations” in section catchline, adding subsecs. (a) and (b), redesignating former subsec. (a) as (c) and establishing list of standards as minimum safety standards, in addition to requirements of subsecs. (a) and (b), for vessels built after Dec. 31, 1988, or that undergo major conversion completed after that date, that operate with more than 16 individuals on board, adding subsec. (d), redesignating former subsec. (b) as (e) and striking out provisions which required Secretary to consult with representatives of private sector, experienced in operation of these vessels, to ensure practicability of regulations, and adding subsec. (f).
+<b>1988</b>—Pub. L. 100–424 amended section generally, substituting "Safety standards" for "Regulations" in section catchline, adding subsecs. (a) and (b), redesignating former subsec. (a) as (c) and establishing list of standards as minimum safety standards, in addition to requirements of subsecs. (a) and (b), for vessels built after Dec. 31, 1988, or that undergo major conversion completed after that date, that operate with more than 16 individuals on board, adding subsec. (d), redesignating former subsec. (b) as (e) and striking out provisions which required Secretary to consult with representatives of private sector, experienced in operation of these vessels, to ensure practicability of regulations, and adding subsec. (f).
 
-<b>1984</b>—Subsec. (b)(3). Pub. L. 98–557 substituted “this chapter” for “the exemption”.
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–557 substituted "this chapter" for "the exemption".
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–595, title VI, §602(f), Nov. 16, 1990, 104 Stat. 2992, provided that: “This section \[amending this section and sections 2102, 3302, 5102, 8104, and 8702 of this title, and enacting provisions set out as a note under section 7306 of this title\] is effective on the date of enactment of this section \[Nov. 16, 1990\] except as follows:
+Pub. L. 101–595, title VI, §602(f), Nov. 16, 1990, 104 Stat. 2992, provided that: "This section \[amending this section and sections 2102, 3302, 5102, 8104, and 8702 of this title, and enacting provisions set out as a note under section 7306 of this title\] is effective on the date of enactment of this section \[Nov. 16, 1990\] except as follows:
 
-&emsp;“(1) The requirements imposed by section 3302(c)(4)(B) and (C) of title 46, United States Code, (as enacted by subsection (b) of this section) is effective 6 months after the date of enactment of this Act.
+&emsp;"(1) The requirements imposed by section 3302(c)(4)(B) and (C) of title 46, United States Code, (as enacted by subsection (b) of this section) is effective 6 months after the date of enactment of this Act.
 
-&emsp;“(2) Before January 1, 1993, section 4502(c) (as amended by subsection (c) of this section) does not apply to a fish tender vessel engaged in the Aleutian trade, if the vessel—
+&emsp;"(2) Before January 1, 1993, section 4502(c) (as amended by subsection (c) of this section) does not apply to a fish tender vessel engaged in the Aleutian trade, if the vessel—
 
-&emsp;&emsp;“(A)(i) before September 8, 1990, operated in that trade; or
+&emsp;&emsp;"(A)(i) before September 8, 1990, operated in that trade; or
 
-&emsp;&emsp;“(ii) before September 8, 1990, was purchased to be used in that trade and, before June 1, 1992, entered into service in that trade; and
+&emsp;&emsp;"(ii) before September 8, 1990, was purchased to be used in that trade and, before June 1, 1992, entered into service in that trade; and
 
-&emsp;&emsp;“(B) does not undergo a major conversion.
+&emsp;&emsp;"(B) does not undergo a major conversion.
 
-&emsp;“(3) Before January 1, 2003, a fish tender vessel is exempt from chapter 51 of title 46, United States Code, (as amended by subsection (d) of this section) when engaged in the Aleutian trade, if the vessel—
+&emsp;"(3) Before January 1, 2003, a fish tender vessel is exempt from chapter 51 of title 46, United States Code, (as amended by subsection (d) of this section) when engaged in the Aleutian trade, if the vessel—
 
-&emsp;&emsp;“(A)(i) before September 8, 1990, operated in that trade; or
+&emsp;&emsp;"(A)(i) before September 8, 1990, operated in that trade; or
 
-&emsp;&emsp;“(ii) before September 8, 1990, was purchased to be used in this trade and, before June 1, 1992, entered into service in that trade;
+&emsp;&emsp;"(ii) before September 8, 1990, was purchased to be used in this trade and, before June 1, 1992, entered into service in that trade;
 
-&emsp;&emsp;“(B) does not undergo a major conversion; and
+&emsp;&emsp;"(B) does not undergo a major conversion; and
 
-&emsp;&emsp;“(C) did not have a load line assigned at any time before the date of enactment of this Act.
+&emsp;&emsp;"(C) did not have a load line assigned at any time before the date of enactment of this Act.
 
-&emsp;“(4) The requirements imposed by section 8702(b)(2) of title 46, United States Code, (as amended by subsection (e)(2)(B) of this section) are effective 1 year after the date of enactment of this Act.”
+&emsp;"(4) The requirements imposed by section 8702(b)(2) of title 46, United States Code, (as amended by subsection (e)(2)(B) of this section) are effective 1 year after the date of enactment of this Act."
 
 #### Studies Regarding Safety of Fishing Vessels
 

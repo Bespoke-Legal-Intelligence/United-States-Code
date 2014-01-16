@@ -20,5 +20,5 @@ Section 10702 requires a master to take charge of the property of a deceased sea
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–206 substituted “the consular officer or court clerk” for “a shipping commissioner”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–206 substituted "the consular officer or court clerk" for "a shipping commissioner".
 

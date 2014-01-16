@@ -34,7 +34,7 @@ In the case of the sale of any publicly traded securities with respect to which 
 
 #### (A) Separate returns
 
-&emsp;&emsp;In the case of a separate return by a married individual, paragraph (1) shall be applied by substituting “$25,000” for “$50,000” and “$250,000” for “$500,000”.
+&emsp;&emsp;In the case of a separate return by a married individual, paragraph (1) shall be applied by substituting "$25,000" for "$50,000" and "$250,000" for "$500,000".
 
 #### (B) Allocation of gain
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (1) Publicly traded securities
 
-&emsp;The term “publicly traded securities” means securities which are traded on an established securities market.
+&emsp;The term "publicly traded securities" means securities which are traded on an established securities market.
 
 #### (2) Purchase
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (3) Specialized small business investment company
 
-&emsp;The term “specialized small business investment company” means any partnership or corporation which is licensed by the Small Business Administration under section 301(d) of the Small Business Investment Act of 1958 (as in effect on May 13, 1993).
+&emsp;The term "specialized small business investment company" means any partnership or corporation which is licensed by the Small Business Administration under section 301(d) of the Small Business Investment Act of 1958 (as in effect on May 13, 1993).
 
 #### (4) Certain entities not eligible
 
@@ -84,7 +84,7 @@ Section 301(d) of the Small Business Investment Act of 1958, referred to in subs
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c)(2). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘purchase’ has the meaning given such term by section 1043(b)(4).”
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'purchase' has the meaning given such term by section 1043(b)(4)."
 
 #### Effective Date of 1996 Amendment
 

@@ -4,7 +4,7 @@ For the purpose of more effectively coordinating the policies and functions of t
 
 &emsp;(1) assess the objectives, commitments, and risks of the United States in the interest of homeland security and to <sup>1</sup> make resulting recommendations to the President;
 
-&emsp;(2) oversee and review homeland security policies of the Federal Government and to <sup>1</sup> make resulting recommendations to the President; and
+&emsp;(2) oversee and review homeland security policies of the Federal Government and to <sup>1</sup>make resulting recommendations to the President; and
 
 &emsp;(3) perform such other functions as the President may direct.
 

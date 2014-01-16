@@ -10,7 +10,7 @@ Use Authorized.—The Secretary concerned may enter into a cooperative agreement
 
 (b)
 
-Cooperative Agreement Described.—For purposes of subsection (a), an authorized cooperative agreement is described in section 6305 of title 31, except that the use of a cooperative agreement by the Secretary concerned is limited to nonprofit entities.
+Cooperative Agreement Described.—For purposes of subsection (a), an authorized cooperative agreement is described in section 6305 oftitle 31, except that the use of a cooperative agreement by the Secretary concerned is limited to nonprofit entities.
 
 (Added Pub. L. 112–239, div. B, title XXVIII, §2852(b)(1), Jan. 2, 2013, 126 Stat. 2161.)
 

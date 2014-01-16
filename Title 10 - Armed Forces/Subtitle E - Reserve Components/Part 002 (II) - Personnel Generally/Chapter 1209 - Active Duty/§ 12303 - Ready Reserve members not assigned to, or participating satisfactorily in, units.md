@@ -54,5 +54,5 @@ Sec. 4. Executive Order No. 11327 of February 15, 1967, is superseded except wit
 
 #### Ex. Ord. No. 11406. Assigning Authority To Order Ready Reserve to Active Duty
 
-Ex. Ord. No. 11406, Apr. 10, 1968, 33 F.R. 5735, authorized Secretary of Defense and, when designated by him,any of Secretaries of military departments of Department of Defense to exercise authority vested in President until June 30, 1968 by paragraph (e) of title I of the Department of Defense Appropriation Act, 1967 (80 Stat. 981) to order any unit in the Ready Reserve to active duty for a period not to exceed 24 months.
+Ex. Ord. No. 11406, Apr. 10, 1968, 33 F.R. 5735, authorized Secretary of Defense and, when designated by him, any of Secretaries of military departments of Department of Defense to exercise authority vested in President until June 30, 1968 by paragraph (e) of title I of the Department of Defense Appropriation Act, 1967 (80 Stat. 981) to order any unit in the Ready Reserve to active duty for a period not to exceed 24 months.
 

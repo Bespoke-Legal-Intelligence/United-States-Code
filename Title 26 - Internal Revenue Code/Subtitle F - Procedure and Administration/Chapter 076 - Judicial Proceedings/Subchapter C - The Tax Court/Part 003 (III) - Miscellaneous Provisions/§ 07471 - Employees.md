@@ -14,7 +14,7 @@
 
 #### (B) Exemption from Federal leave provisions
 
-&emsp;&emsp;A law clerk appointed under this subsection shall be exempt from the provisions of subchapter I of chapter 63 of title 5, United States Code. Any unused sick leave or annual leave standing to the law clerk's credit as of the effective date of this subsection shall remain credited to the law clerk and shall be available to the law clerkupon separation from the Federal Government.
+&emsp;&emsp;A law clerk appointed under this subsection shall be exempt from the provisions of subchapter I of chapter 63 of title 5, United States Code. Any unused sick leave or annual leave standing to the law clerk's credit as of the effective date of this subsection shall remain credited to the law clerk and shall be available to the law clerk upon separation from the Federal Government.
 
 #### (3) Other employees
 
@@ -72,7 +72,7 @@
 
 #### (b) Expenses for travel and subsistence
 
-The employees of the Tax Court shall receive their necessary traveling expenses, and expenses for subsistence while traveling on duty and away from their designated stations, as provided in chapter 57 of title 5, United States Code.
+The employees of the Tax Court shall receive their necessary traveling expenses, and expensesfor subsistence while traveling on duty and away from their designated stations, as provided in chapter 57 of title 5, United States Code.
 
 #### (c) Special trial judges
 
@@ -86,21 +86,21 @@ The effective date of this subsection, referred to in subsec. (a)(2)(B), (8), pr
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–366 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Tax Court is authorized to appoint, in accordance with the provisions of title 5, United States Code, governing appointment in the competitive service, and to fix the basic pay of, in accordance with chapter 51 and subchapter III of chapter 53 of such title, such employees as may be necessary efficiently to execute the functions vested in the Tax Court.”
+<b>2011</b>—Subsec. (a). Pub. L. 111–366 amended subsec. (a) generally. Prior to amendment, text read as follows: "The Tax Court is authorized to appoint, in accordance with the provisions of title 5, United States Code, governing appointment in the competitive service, and to fix the basic pay of, in accordance with chapter 51 and subchapter III of chapter 53 of such title, such employees as may be necessary efficiently to execute the functions vested in the Tax Court."
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “subsections (d) and (e) of section 7443A” for “section 7456(c)”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted "subsections (d) and (e) of section 7443A" for "section 7456(c)".
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–369 substituted references to special trial judges for references to commissioners in the subsection heading and text.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(a)(47)(A), among other changes, substituted provisions referringto title 5 of the United States Code for provisions referring to the civil service law, and to chapter 51 and subchapter III of chapter 53 of title 5 for the Classification Act of 1949.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(a)(47)(A), among other changes, substituted provisions referring to title 5 of the United States Code for provisions referring to the civil service law, and to chapter 51 and subchapter III of chapter 53 of title 5 for the Classification Act of 1949.
 
-Subsec. (b). Pub. L. 94–455, §1906(a)(47)(B), substituted “as provided in chapter 57 of title 5, United States Code” for “as provided in the Travel Expense Act of 1949 (63 Stat. 166; 5 U.S.C. chapter 16)”.
+Subsec. (b). Pub. L. 94–455, §1906(a)(47)(B), substituted "as provided in chapter 57 of title 5, United States Code" for "as provided in the Travel Expense Act of 1949 (63 Stat. 166; 5 U.S.C. chapter 16)".
 
 <b>1969</b>—Subsec. (c). Pub. L. 91–172 inserted reference to the compensation of commissioners.
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–366, §1(b), Jan. 4, 2011, 124 Stat. 4065, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date the United States Tax Court adopts a personnel management system \[adopted effective Oct. 9, 2011\] after the date of the enactment of this Act \[Jan. 4, 2011\].”
+Pub. L. 111–366, §1(b), Jan. 4, 2011, 124 Stat. 4065, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date the United States Tax Court adopts a personnel management system \[adopted effective Oct. 9, 2011\] after the date of the enactment of this Act \[Jan. 4, 2011\]."
 
 #### Effective Date of 1986 Amendment
 

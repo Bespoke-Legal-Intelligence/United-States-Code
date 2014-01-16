@@ -8,7 +8,7 @@
 
 #### (2) Matching requirement
 
-&emsp;No advance shall be made after June 30, 1968, unless matched by an equal amount from non-Federal sources. Such equal amount may include the unencumbered non-Federal portion of a reserve fund. As used in the preceding sentence, the term “unencumbered non-Federal portion” means the amount (determined as of the time immediately preceding the making of the advance) of the reserve fund less the greater of—
+&emsp;No advance shall be made after June 30, 1968, unless matched by an equal amount from non-Federal sources. Such equal amount may include the unencumbered non-Federal portion of a reserve fund. As used in the preceding sentence, the term "unencumbered non-Federal portion" means the amount (determined as of the time immediately preceding the making of the advance) of the reserve fund less the greater of—
 
 &emsp;&emsp;(A) the sum of—
 
@@ -104,7 +104,7 @@
 
 #### (1) Amount and use of recovered funds
 
-&emsp;Notwithstanding any other provision of this section, advances made by the Secretary under this section shall be repaid in accordance with this subsection and shall be deposited in the fund established by section 1081 of this title. The Secretary shall, in accordance with the requirements of paragraph (2), recover (and so deposit) an amount equal to $75,000,000 during fiscal year 1988 and an amount equal to $35,000,000 for fiscal year 1989.
+&emsp;Notwithstanding any other provision of this section, advances made by the Secretaryunder this section shall be repaid in accordance with this subsection and shall be deposited in the fund established by section 1081 of this title. The Secretary shall, in accordance with the requirements of paragraph (2), recover (and so deposit) an amount equal to $75,000,000 during fiscal year 1988 and an amount equal to $35,000,000 for fiscal year 1989.
 
 #### (2) Determination of guaranty agency obligations
 
@@ -148,9 +148,9 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;(B) the Secretary may direct the guaranty agency to require the return, to the guaranty agency or to the Secretary, of any reserve funds or assets held by, or under the control of, any other entity, which the Secretary determines are necessary to pay the program expenses and contingent liabilities of the guaranty agency, or which are required for the orderly termination of the guaranty agency's operations and the liquidation of its assets;
 
-&emsp;&emsp;(C) the Secretary may direct a guaranty agency, or such agency's officers or directors, to cease any activities involving expenditure, use or transfer of the guaranty agency's reserve funds or assets which the Secretary determines is a misapplication, misuse, or improper expenditure of such funds or assets; and
+&emsp;&emsp;(C) the Secretary may direct a guaranty agency, or such agency's officers or directors, to cease any activities involving expenditure, use or transfer of the guaranty agency's reserve funds or assets which the Secretary determines is a misapplication,misuse, or improper expenditure of such funds or assets; and
 
-&emsp;&emsp;(D) any such determination under subparagraph (A) or (B) shall be based on standards prescribed by regulations that are developedthrough negotiated rulemaking and that include procedures for administrative due process.
+&emsp;&emsp;(D) any such determination under subparagraph (A) or (B) shall be based on standards prescribed by regulations that are developed through negotiated rulemaking and that include procedures for administrative due process.
 
 #### (2) Termination provisions in contracts
 
@@ -188,19 +188,19 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;&emsp;(i) the additional amount required to be recalled (after deducting the total of the required shares calculated under subparagraph (B)), by
 
-&emsp;&emsp;&emsp;(ii) the total amount of all such agencies’ reserve funds remaining (after deduction of the required shares calculated under such subparagraph).
+&emsp;&emsp;&emsp;(ii) the total amount of all such agencies' reserve funds remaining (after deduction of the required shares calculated under such subparagraph).
 
 &emsp;&emsp;(D) If any additional amount is required to be recalled under paragraph (1) (after deducting the total of the required shares calculated under subparagraphs (B) and (C)), such additional amount shall be obtained by imposing on each guaranty agency with a reserve ratio (after deducting the required shares calculated under such subparagraphs) in excess of 0.58 percent an equal percentage reduction in the amount of the agency's reserve funds remaining (after such deduction) that exceed a reserve ratio of 0.58 percent. The equal percentage reduction shall be the percentage obtained by dividing—
 
 &emsp;&emsp;&emsp;(i) the additional amount to be recalled under paragraph (1) (after deducting the amount recalled under subparagraphs (B) and (C)), by
 
-&emsp;&emsp;&emsp;(ii) the total amount of all such agencies’ reserve funds remaining (after deduction of the required shares calculated under such subparagraphs) that exceed a reserve ratio of 0.58 percent.
+&emsp;&emsp;&emsp;(ii) the total amount of all such agencies' reserve funds remaining (after deduction of the required shares calculated under such subparagraphs) that exceed a reserve ratio of 0.58 percent.
 
 #### (4) Restricted accounts required
 
 #### (A) In general
 
-&emsp;&emsp;Within 90 days after the beginning of each of the fiscal years 1998 through 2002, each guaranty agency shall transfer a portion of the agency's required share determined under paragraph (3) to a restricted account established by the agency that is of a type selected by the agency with the approval of the Secretary. Funds transferred to such restricted accounts shall be invested in obligations issued or guaranteed by the United States or in other similarly low-risk securities.
+&emsp;&emsp;Within 90 days after the beginning of each of the fiscal years 1998 through 2002, each guaranty agency shall transfer a portion of the agency's required share determined under paragraph (3) to a restricted account established by the agency that is of a type selected by the agency with the approval ofthe Secretary. Funds transferred to such restricted accounts shall be invested in obligations issued or guaranteed by the United States or in other similarly low-risk securities.
 
 #### (B) Requirement
 
@@ -264,7 +264,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (A) Default reduction activities
 
-&emsp;&emsp;The term “default reduction activities” means activities to reduce student loan defaults that improve, strengthen, and expand default prevention activities, such as—
+&emsp;&emsp;The term "default reduction activities" means activities to reduce student loan defaults that improve, strengthen, and expand default prevention activities, such as—
 
 &emsp;&emsp;&emsp;(i) establishing a program of partial loan cancellation to reward disadvantaged borrowers for good repayment histories with their lenders;
 
@@ -276,7 +276,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (B) Reserve funds
 
-&emsp;&emsp;The term “reserve funds” when used with respect to a guaranty agency—
+&emsp;&emsp;The term "reserve funds" when used with respect to a guaranty agency—
 
 &emsp;&emsp;&emsp;(i) includes any reserve funds in cash or liquid assets held by the guaranty agency, or held by, or under the control of, any other entity; and
 
@@ -312,7 +312,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;&emsp;(i) $250,000,000, by
 
-&emsp;&emsp;&emsp;(ii) the total amount of all guaranty agencies’ reserve funds held on September 30, 1996, less any amounts subject to recall under subsection (h) of this section.
+&emsp;&emsp;&emsp;(ii) the total amount of all guaranty agencies' reserve funds held on September 30, 1996, less any amounts subject to recall under subsection (h) of this section.
 
 #### (C) Special rule
 
@@ -324,7 +324,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (5) Definition of reserve funds
 
-&emsp;The term “reserve funds” when used with respect to a guaranty agency—
+&emsp;The term "reserve funds" when used with respect to a guaranty agency—
 
 &emsp;&emsp;(A) includes any reserve funds in cash or liquid assets held by the guaranty agency, or held by, or under the control of, any other entity; and
 
@@ -342,29 +342,29 @@ A prior section 1072, Pub. L. 89–329, title IV, §422, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–244, §412(1), substituted “section 1078(c)(9)(E)” for “section 1078(c)(10)(E)” in concluding provisions.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–244, §412(1), substituted "section 1078(c)(9)(E)" for "section 1078(c)(10)(E)" in concluding provisions.
 
-Subsec. (c)(6)(B)(i). Pub. L. 105–244, §412(2)(A), substituted “written, electronic,” for “written”.
+Subsec. (c)(6)(B)(i). Pub. L. 105–244, §412(2)(A), substituted "written, electronic," for "written".
 
-Subsec. (c)(7)(A). Pub. L. 105–244, §412(2)(B), struck out “during the transition from the Federal Family Education Loan Program under this part to the Federal Direct Student Loan Program under part C of this subchapter” after “lender-of-last-resort”.
+Subsec. (c)(7)(A). Pub. L. 105–244, §412(2)(B), struck out "during the transition from the Federal Family Education Loan Program under this part to the Federal Direct Student Loan Program under part C of this subchapter" after "lender-of-last-resort".
 
-Subsec. (c)(7)(B). Pub. L. 105–244, §412(2)(C), substituted “section 1078(c)(9)(F)(v)” for “section 1078(c)(10)(F)(v)”.
+Subsec. (c)(7)(B). Pub. L. 105–244, §412(2)(C), substituted "section 1078(c)(9)(F)(v)" for "section 1078(c)(10)(F)(v)".
 
-Subsec. (g)(1). Pub. L. 105–244, §412(3), struck out “or the program authorized by part C of this subchapter” after “program authorized by this part” in first and second sentences.
+Subsec. (g)(1). Pub. L. 105–244, §412(3), struck out "or the program authorized by part C of this subchapter" after "program authorized by this part" in first and second sentences.
 
 Subsec. (i). Pub. L. 105–244, §412(4), added subsec. (i).
 
 <b>1997</b>—Subsec. (h). Pub. L. 105–33 added subsec. (h).
 
-<b>1993</b>—Subsec. (c)(7). Pub. L. 103–66, §4041(a)(2)(A), substituted “to a guaranty agency—” and subpars. (A) and (B) for “to a guaranty agency in accordance with section 1078(c)(10)(F)(v) of this title in order to assist the agency in meeting its immediate cash needs and ensure the uninterrupted payment of default claims by lenders.”
+<b>1993</b>—Subsec. (c)(7). Pub. L. 103–66, §4041(a)(2)(A), substituted "to a guaranty agency—" and subpars. (A) and (B) for "to a guaranty agency in accordance with section 1078(c)(10)(F)(v) of this title in order to assist the agency in meeting its immediate cash needs and ensure the uninterrupted payment of default claims by lenders."
 
 Subsec. (c)(7)(B). Pub. L. 103–208 substituted a period for semicolon at end. See Codification note above.
 
 Subsec. (g). Pub. L. 103–66, §4042, added subsec. (g).
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–325, §412(1), inserted at end “Except as provided in section 1078(c)(10)(E) or (F) of this title, such unencumbered non-Federal portion shall not be subject to recall, repayment, or recovery by the Secretary.”
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–325, §412(1), inserted at end "Except as provided in section 1078(c)(10)(E) or (F) of this title, such unencumbered non-Federal portion shall not be subject to recall, repayment, or recovery by the Secretary."
 
-Subsec. (c)(5), (7). Pub. L. 102–325, §416(p)(8), substituted “Except as provided in paragraph (7), advances” for “Advances” in par. (5) and added par. (7).
+Subsec. (c)(5), (7). Pub. L. 102–325, §416(p)(8), substituted "Except as provided in paragraph (7), advances" for "Advances" in par. (5) and added par. (7).
 
 Subsecs. (e), (f). Pub. L. 102–325, §412(2), added subsecs. (e) and (f).
 

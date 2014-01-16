@@ -8,7 +8,7 @@ In collaboration with experts from the public and private sector, the Agency sha
 
 #### (1) In general
 
-&emsp;In order to address the full continuum of care and outcomes research, to link research to practice improvement, and to speed the dissemination of research findings to community practice settings, the Agency shall employ research strategies and mechanisms that will link research directly with clinical practice in geographically diverse locations throughout the United States, including—
+&emsp;In order to address the full continuum of care and outcomes research, to link researchto practice improvement, and to speed the dissemination of research findings to community practice settings, the Agency shall employ research strategies and mechanisms that will link research directly with clinical practice in geographically diverse locations throughout the United States, including—
 
 &emsp;&emsp;(A) health care improvement research centers that combine demonstrated multidisciplinary expertise in outcomes or quality improvement research with linkages to relevant sites of care;
 

@@ -10,7 +10,7 @@
 
 &emsp;To improve financial literacy and education, the Commission shall emphasize, among other elements, basic personal income and household money management and planning skills, including how to—
 
-&emsp;&emsp;(A) create household budgets, initiate savings plans, and make strategic investment decisions for education, retirement, homeownership, wealth building, or other savings goals;
+&emsp;&emsp;(A) create household budgets, initiate savings plans, and make strategic investment decisions for education, retirement, home ownership, wealth building, or other savings goals;
 
 &emsp;&emsp;(B) manage spending, credit, and debt, including credit card debt, effectively;
 
@@ -28,13 +28,13 @@
 
 &emsp;&emsp;(I) promote bringing individuals who lack basic banking services into the financial mainstream by opening and maintaining an account with a financial institution; and
 
-&emsp;&emsp;(J) improve financial literacy and education through all other related skills, including personal finance and related economic education, with the primary goal of programs not simply to improve knowledge, but rather to improve consumers’ financial choices and outcomes.
+&emsp;&emsp;(J) improve financial literacy and education through all other related skills, including personal finance and related economic education, with the primary goal of programs not simply to improve knowledge, but rather to improve consumers' financial choices and outcomes.
 
 #### (b) Website
 
 #### (1) In general
 
-&emsp;The Commission shall establish and maintain a website, such as the domain name “FinancialLiteracy.gov”, or a similar domain name.
+&emsp;The Commission shall establish and maintain a website, such as the domain name"FinancialLiteracy.gov", or a similar domain name.
 
 #### (2) Purposes
 
@@ -104,7 +104,7 @@ The Commission shall actively consult with a variety of representatives from pri
 
 #### (1) In general
 
-&emsp;Not later than 18 months after the date of the first meeting of the Commission, and annually thereafter, the Commission shall issue a report, the Strategy for Assuring Financial Empowerment (“SAFE Strategy”), to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the progress of the Commission in carrying out this chapter.
+&emsp;Not later than 18 months after the date of the first meeting of the Commission, and annually thereafter, the Commission shall issue a report, the Strategy for Assuring Financial Empowerment ("SAFE Strategy"), to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the progress of the Commission in carrying out this chapter.
 
 #### (2) Contents
 
@@ -130,7 +130,7 @@ The Commission shall actively consult with a variety of representatives from pri
 
 &emsp;&emsp;(H) information about the activities of the Commission planned for the next fiscal year;
 
-&emsp;&emsp;(I) a summary of all Federal financial literacy and education activities targeted to communities that have historically lacked access to financial literacy materials and education, and have been underserved by the mainstream financial systems; and
+&emsp;&emsp;(I) a summary of all Federal financial literacy and education activities targeted tocommunities that have historically lacked access to financial literacy materials and education, and have been underserved by the mainstream financial systems; and
 
 &emsp;&emsp;(J) such other materials relating to the duties of the Commission as the Commission deems appropriate.
 

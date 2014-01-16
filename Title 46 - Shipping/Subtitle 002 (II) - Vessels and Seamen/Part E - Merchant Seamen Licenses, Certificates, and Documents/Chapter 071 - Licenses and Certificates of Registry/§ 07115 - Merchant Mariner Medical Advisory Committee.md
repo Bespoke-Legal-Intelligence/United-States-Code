@@ -6,13 +6,13 @@ Establishment.—
 
 &emsp;(1)
 
-In general.—There is established a Merchant Mariner Medical Advisory Committee (in this section referred to as the “Committee”).
+In general.—There is established a Merchant Mariner Medical Advisory Committee (in this section referred to as the "Committee").
 
 &emsp;(2)
 
 Functions.—The Committee shall advise the Secretary on matters relating to—
 
-&emsp;&emsp;(A) medical certification determinations for issuance of licences, certificates of registry, and merchant mariners’ documents;
+&emsp;&emsp;(A) medical certification determinations for issuance of licences, certificates of registry, and merchant mariners' documents;
 
 &emsp;&emsp;(B) medical standards and guidelines for the physical qualifications of operators of commercial vessels;
 
@@ -68,5 +68,5 @@ Staff; Services.—The Secretary shall furnish to the Committee the personnel an
 
 #### First Meeting
 
-Pub. L. 111–281, title II, §210(b), Oct. 15, 2010, 124 Stat. 2914, provided that: “No later than six months after the date of enactment of this Act \[Oct. 15, 2010\], the Merchant Mariner Medical Advisory Committee established by the amendment made by this section \[enacting this section\] shall hold its first meeting.”
+Pub. L. 111–281, title II, §210(b), Oct. 15, 2010, 124 Stat. 2914, provided that: "No later than six months after the date of enactment of this Act \[Oct. 15, 2010\], the Merchant Mariner Medical Advisory Committee established by the amendment made by this section \[enacting this section\] shall hold its first meeting."
 

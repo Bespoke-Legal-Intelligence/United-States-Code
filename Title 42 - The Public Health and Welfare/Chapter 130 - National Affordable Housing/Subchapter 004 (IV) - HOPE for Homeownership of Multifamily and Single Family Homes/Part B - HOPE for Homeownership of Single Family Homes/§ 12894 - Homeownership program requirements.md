@@ -44,7 +44,7 @@ This title, referred to in subsec. (e)(2), is title IV of Pub. L. 101–625, Nov
 
 <b>1992</b>—Subsec. (f). Pub. L. 102–550 added subsec. (f).
 
-<i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "of" probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. See References in Text note below.</i>
 

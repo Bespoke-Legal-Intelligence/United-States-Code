@@ -70,7 +70,7 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means any of the following:
+&emsp;The term "eligible entity" means any of the following:
 
 &emsp;&emsp;(A) A State with an approved child health plan under this subchapter.
 
@@ -88,7 +88,7 @@ In this section:
 
 #### (2) Federal health safety net organization
 
-&emsp;The term “Federal health safety net organization” means—
+&emsp;The term "Federal health safety net organization" means—
 
 &emsp;&emsp;(A) a Federally-qualified health center (as defined in section 3196d(l)(2)(B) of this title);
 
@@ -100,17 +100,17 @@ In this section:
 
 #### (3) Indians; Indian tribe; tribal organization; urban Indian organization
 
-&emsp;The terms “Indian”, “Indian tribe”, “tribal organization”, and “urban Indian organization” have the meanings given such terms in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603).
+&emsp;The terms "Indian", "Indian tribe", "tribal organization", and "urban Indian organization" have the meanings given such terms in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603).
 
 #### (4) Community health worker
 
-&emsp;The term “community health worker” means an individual who promotes health or nutrition within the community in which the individual resides—
+&emsp;The term "community health worker" means an individual who promotes health or nutrition within the community in which the individual resides—
 
 &emsp;&emsp;(A) by serving as a liaison between communities and health care agencies;
 
 &emsp;&emsp;(B) by providing guidance and social assistance to community residents;
 
-&emsp;&emsp;(C) by enhancing community residents’ ability to effectively communicate with health care providers;
+&emsp;&emsp;(C) by enhancing community residents' ability to effectively communicate with health care providers;
 
 &emsp;&emsp;(D) by providing culturally and linguistically appropriate health or nutrition education;
 
@@ -150,9 +150,9 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (f)(2)(
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §10203(d)(2)(E)(i), substituted “2015” for “2013”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §10203(d)(2)(E)(i), substituted "2015" for "2013".
 
-Subsec. (g). Pub. L. 111–148, §10203(d)(2)(E)(ii), substituted “$140,000,000 for the period of fiscal years 2009 through 2015” for “$100,000,000 for the period of fiscal years 2009 through 2013”.
+Subsec. (g). Pub. L. 111–148, §10203(d)(2)(E)(ii), substituted "$140,000,000 for the period of fiscal years 2009 through 2015" for "$100,000,000 for the period of fiscal years 2009 through 2013".
 
 #### Effective Date
 

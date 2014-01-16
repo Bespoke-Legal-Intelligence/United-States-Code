@@ -30,7 +30,7 @@ Whenever the Secretary, after reasonable notice and opportunity for hearing to a
 
 #### References in Text
 
-Sections 300m–2 and 300m–3 of this title, referred to in subsec. (c)(2)(B), were repealed effective Jan. 1, 1987, byPub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
+Sections 300m–2 and 300m–3 of this title, referred to in subsec. (c)(2)(B), were repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
 
 Section 300<i>o–</i>2 of this title, referred to in subsec. (c)(2)(B), was repealed by Pub. L. 96–79, title II, §202(a), Oct. 4, 1979, 93 Stat. 632.
 

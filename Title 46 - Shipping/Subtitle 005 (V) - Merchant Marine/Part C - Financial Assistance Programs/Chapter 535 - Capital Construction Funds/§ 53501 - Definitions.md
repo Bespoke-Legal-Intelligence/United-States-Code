@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1)
 
-Agreement vessel.—The term “agreement vessel” means—
+Agreement vessel.—The term "agreement vessel" means—
 
 &emsp;&emsp;(A) an eligible vessel or a qualified vessel that is subject to an agreement under this chapter; and
 
@@ -12,7 +12,7 @@ Agreement vessel.—The term “agreement vessel” means—
 
 &emsp;(2)
 
-Eligible vessel.—The term “eligible vessel” means—
+Eligible vessel.—The term "eligible vessel" means—
 
 &emsp;&emsp;(A) a vessel—
 
@@ -36,11 +36,11 @@ Eligible vessel.—The term “eligible vessel” means—
 
 &emsp;(3)
 
-Joint regulations.—The term “joint regulations” means regulations prescribed jointly by the Secretary and the Secretary of the Treasury under section 53502(b) of this title.
+Joint regulations.—The term "joint regulations" means regulations prescribed jointly by the Secretary and the Secretary of the Treasury under section 53502(b) of this title.
 
 &emsp;(4)
 
-Noncontiguous trade.—The term “noncontiguous trade” means—
+Noncontiguous trade.—The term "noncontiguous trade" means—
 
 &emsp;&emsp;(A) trade between—
 
@@ -56,7 +56,7 @@ Noncontiguous trade.—The term “noncontiguous trade” means—
 
 &emsp;(5)
 
-Qualified vessel.—The term “qualified vessel” means—
+Qualified vessel.—The term "qualified vessel" means—
 
 &emsp;&emsp;(A) a vessel—
 
@@ -80,7 +80,7 @@ Qualified vessel.—The term “qualified vessel” means—
 
 &emsp;(6)
 
-Secretary.—The term “Secretary” means—
+Secretary.—The term "Secretary" means—
 
 &emsp;&emsp;(A) the Secretary of Commerce with respect to an eligible vessel or a qualified vessel operated or to be operated in the fisheries of the United States; and
 
@@ -88,7 +88,7 @@ Secretary.—The term “Secretary” means—
 
 &emsp;(7) <sup>2</sup>
 
-Short sea transportation trade.—The term “short sea transportation trade” means the carriage by vessel of cargo—
+Short sea transportation trade.—The term "short sea transportation trade" means the carriage by vessel of cargo—
 
 &emsp;&emsp;(A) that is—
 
@@ -104,11 +104,11 @@ Short sea transportation trade.—The term “short sea transportation trade” 
 
 &emsp;(7) <sup>2</sup>
 
-United states foreign trade.—The term “United States foreign trade” includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.
+United states foreign trade.—The term "United States foreign trade" includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.
 
 &emsp;(8)
 
-Vessel.—The term “vessel” includes—
+Vessel.—The term "vessel" includes—
 
 &emsp;&emsp;(A) cargo handling equipment that the Secretary determines is intended for use primarily on the vessel; and
 
@@ -172,7 +172,7 @@ Pub. L. 94–455, title VIII, §807, Oct. 4, 1976, 90 Stat. 1606.
 
 The codification of the laws in this chapter is not intended to alter the existing jurisdictional relationship of the Secretaries who administer those laws.
 
-In paragraph (2)(A)(iii), the word “trade” is substituted for “commerce” for consistency in the chapter.
+In paragraph (2)(A)(iii), the word "trade" is substituted for "commerce" for consistency in the chapter.
 
 #### References in Text
 
@@ -180,7 +180,7 @@ Section 506 of the Merchant Marine Act, 1936, referred to in par. (7), is sectio
 
 #### Amendments
 
-<b>2007</b>—Par. (5)(A)(iii). Pub. L. 110–140, §1122(a)(1), substituted “noncontiguous domestic, or short sea transportation trade” for “or noncontiguous domestic”.
+<b>2007</b>—Par. (5)(A)(iii). Pub. L. 110–140, §1122(a)(1), substituted "noncontiguous domestic, or short sea transportation trade" for "or noncontiguous domestic".
 
 Par. (7). Pub. L. 110–140, §1122(a)(2), added par. (7) relating to short sea transportation trade.
 

@@ -26,5 +26,5 @@ The policy set forth in subsection (a) of this section implies—
 
 (Pub. L. 91–476, §2, Oct. 21, 1970, 84 Stat. 1067.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “picnicking,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "picnicking,".</i>
 

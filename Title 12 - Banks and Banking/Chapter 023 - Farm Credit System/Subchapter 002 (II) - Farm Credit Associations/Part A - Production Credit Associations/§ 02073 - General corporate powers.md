@@ -64,17 +64,17 @@ A prior section 2073, Pub. L. 92–181, title II, §2.2, Dec. 10, 1971, 85 Stat.
 
 #### Amendments
 
-<b>1988</b>—Par. (16). Pub. L. 100–399, §401(o)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “prescribe by the board of directors of the association the bylaws not inconsistent with law providing for—
+<b>1988</b>—Par. (16). Pub. L. 100–399, §401(o)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: "prescribe by the board of directors of the association the bylaws not inconsistent with law providing for—
 
-&emsp;“(A) the classes of association stock and the manner in which the stock shall be issued, transferred, and retired;
+&emsp;"(A) the classes of association stock and the manner in which the stock shall be issued, transferred, and retired;
 
-&emsp;“(B) the officers and employees elected or provided for;
+&emsp;"(B) the officers and employees elected or provided for;
 
-&emsp;“(C) the property acquired, held, and transferred by the association; and
+&emsp;"(C) the property acquired, held, and transferred by the association; and
 
-&emsp;“(D) the general business conducted, and the privileges granted to the association by law exercised and enjoyed;”.
+&emsp;"(D) the general business conducted, and the privileges granted to the association by law exercised and enjoyed;".
 
-Par. (17). Pub. L. 100–399, §401(o)(2), substituted “provide by its board of directors for” for “elect by the board of directors of the association” and “serve as” for “be elected or designated”.
+Par. (17). Pub. L. 100–399, §401(o)(2), substituted "provide by its board of directors for" for "elect by the board of directors of the association" and "serve as" for "be elected or designated".
 
 Par. (21). Pub. L. 100–399, §401(o)(3)–(5), added par. (21).
 

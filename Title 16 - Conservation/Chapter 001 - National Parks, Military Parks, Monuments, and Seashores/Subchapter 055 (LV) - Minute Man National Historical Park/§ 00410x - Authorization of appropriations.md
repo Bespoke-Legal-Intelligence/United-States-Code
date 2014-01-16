@@ -6,7 +6,7 @@ There are authorized to be appropriated such sums, but not more than $13,900,000
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–488 inserted at end “For fiscal years after fiscal year 1991, there is authorized to be appropriated an additional $15,000,000 for development and anadditional $7,300,000 for acquisition of lands and interests in lands.”
+<b>1992</b>—Pub. L. 102–488 inserted at end "For fiscal years after fiscal year 1991, there is authorized to be appropriated an additional $15,000,000 for development and anadditional $7,300,000 for acquisition of lands and interests in lands."
 
-<b>1970</b>—Pub. L. 91–548 substituted “$13,900,000” for “$8,000,000” and “$10,900,000” for “$5,000,000”.
+<b>1970</b>—Pub. L. 91–548 substituted "$13,900,000" for "$8,000,000" and "$10,900,000" for "$5,000,000".
 

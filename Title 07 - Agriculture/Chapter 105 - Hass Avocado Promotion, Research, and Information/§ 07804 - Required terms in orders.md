@@ -24,7 +24,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (C) Special definition of importer
 
-&emsp;&emsp;In this subsection, the term “importer” means a person who is involved in, as a substantial activity, the importation, sale, and marketing of Hass avocados in the United States (either directly or as an agent, broker, or consignee of any person or nation that produces or handles Hass avocados outside the United States for sale in the United States), and who is subject to assessments under the order.
+&emsp;&emsp;In this subsection, the term "importer" means a person who is involved in, as a substantial activity, the importation, sale, and marketing of Hass avocados in the United States (either directly or as an agent, broker, or consignee of any person or nation that produces or handles Hass avocados outside the United States for sale in the United States), and who is subject to assessments under the order.
 
 #### (2) Distribution of appointments
 
@@ -40,7 +40,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (B) Adjustment in Board representation
 
-&emsp;&emsp;Three years after the assessment of Hass avocados commences pursuant to an order, and at the end of each 3-year period thereafter, the Avocado Board shall adjust the proportion of producer representatives to importer representatives on the Board under subparagraph (A)(iii) on the basis of the amount of assessments collected from producers and importers over the immediately preceding 3-year period. Any adjustment under this subparagraph shall be subject to the review and approval of the Secretary.
+&emsp;&emsp;Three years after the assessment of Hass avocados commences pursuant to an order, and at the end of each 3-year period thereafter, the Avocado Board shall adjust the proportion of producer representatives to importer representatives on the Board under subparagraph (A)(iii) on the basis of the amount of assessments collected from producers and importers over the immediately preceding 3-year period. Any adjustmentunder this subparagraph shall be subject to the review and approval of the Secretary.
 
 #### (3) Nomination process
 
@@ -100,7 +100,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;(6)(A) implement plans and projects for Hass avocado promotion, industry information, consumer information, or related research, as provided in subsection (d) of this section; or
 
-&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e) ofthis section, and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
+&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e) of this section, and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
 
 &emsp;(7) evaluate on-going and completed plans and projects for Hass avocado promotion, industry information, consumer information, or related research and comply with the independent evaluation provisions of the Commodity Promotion, Research, and Information Act of 1996 (subtitle B of title V of Public Law 104–127 \[7 U.S.C. 7411 et seq.\]);
 
@@ -172,7 +172,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;&emsp;The order shall provide that any contract or agreement entered into under this paragraph shall provide that—
 
-&emsp;&emsp;&emsp;(i) the contracting or agreeing party shall develop and submit to the Board aplan or project, together with a budget that includes the estimated costs to be incurred for the plan or project;
+&emsp;&emsp;&emsp;(i) the contracting or agreeing party shall develop and submit to the Board a plan or project, together with a budget that includes the estimated costs to be incurred for the plan or project;
 
 &emsp;&emsp;&emsp;(ii) the plan or project shall become effective on the approval of the Secretary; and
 
@@ -276,7 +276,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (4) Timing of submitting assessments
 
-&emsp;The order shall provide that each person required to remit assessments under this subsection shall remit to the Board the assessment due from each sale of Hass avocados that is subject to an assessment within such time period after the sale (not to exceed 60 days after the end of the month in which the sale took place) as is specified in the order.
+&emsp;The order shall provide that each person required to remit assessments under this subsection shall remit to the Board the assessment due from each sale of Hass avocados thatis subject to an assessment within such time period after the sale (not to exceed 60 days after the end of the month in which the sale took place) as is specified in the order.
 
 #### (5) Claiming an exemption from collecting assessments
 
@@ -424,7 +424,7 @@ The order shall contain such other terms and provisions, consistent with this ch
 
 #### References in Text
 
-The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitleB of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitle B of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 #### Transfer of Functions
 

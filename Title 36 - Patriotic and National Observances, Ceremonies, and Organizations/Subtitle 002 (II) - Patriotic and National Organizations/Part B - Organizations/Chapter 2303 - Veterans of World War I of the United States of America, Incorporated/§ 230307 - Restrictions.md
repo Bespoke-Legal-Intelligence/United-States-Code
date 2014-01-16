@@ -52,9 +52,9 @@ July 18, 1958, Pub. L. 85–530, §§10, 11, 13, 72 Stat. 373, 374.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “This subsection does not” are substituted for “Nothing in this subsection, however, shall be construed to” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title. The words "This subsection does not" are substituted for "Nothing in this subsection, however, shall be construed to" for consistency in the revised title and to eliminate unnecessary words.
 
-In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection.
+In subsection (d), the words "or advance" are added in 2 places for consistency in the subsection.
 

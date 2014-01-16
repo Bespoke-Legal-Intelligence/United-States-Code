@@ -4,7 +4,7 @@
 
 (1) Prior to entering into any proposed subsequent arrangement under an agreement for cooperation (other than an agreement for cooperation arranged pursuant to section 2121(c), 2164(b), or 2164(c) of this title), the Secretary of Energy shall obtain the concurrence of the Secretary of State and shall consult with the Commission, and the Secretary of Defense: <i>Provided</i>, That the Secretary of State shall have the leading role in any negotiations of a policy nature pertaining to any proposed subsequent arrangement regarding arrangements for the storage or disposition of irradiated fuel elements or approvals for the transfer, for which prior approval is required under an agreement for cooperation, by a recipient of source or special nuclear material, production or utilization facilities, or nuclear technology. Notice of any proposed subsequent arrangement shall be published in the Federal Register, together with the written determination of the Secretary of Energy that such arrangement will not be inimical to the common defense and security, and such proposed subsequent arrangement shall not take effect before fifteen days after publication. Whenever the Secretary of State is required to prepare a Nuclear Proliferation Assessment Statement pursuant to paragraph (2) of this subsection, notice of the proposed subsequent arrangement which is the subject of the requirement to prepare a Nuclear Proliferation Assessment Statement shall not be published until after the receipt by the Secretary of Energy of such Statement or the expiration of the time authorized by subsection (c) of this section for the preparation of such Statement, whichever occurs first.
 
-(2) If in the view of the Secretary of State, Secretary of Energy, Secretary of Defense, or the Commission a proposed subsequent arrangement might significantly contribute to proliferation, the Secretary of State, in consultation with such Secretary or the Commission, shall prepare an unclassified Nuclear Proliferation Assessment Statement with regard to such proposed subsequent arrangement regarding the adequacy of the safeguards and other control mechanisms and the application of the peaceful use assurances of the relevant agreement to ensure that assistance to be furnished pursuant to the subsequent arrangement will not be used to further any military or nuclear explosive purpose. For the purposes of this section, the term “subsequent arrangements” means arrangements entered into by any agency or department of the United States Government with respect to cooperation with any nation or group of nations (but not purely private or domestic arrangements) involving—
+(2) If in the view of the Secretary of State, Secretary of Energy, Secretary of Defense, or the Commission a proposed subsequent arrangement might significantly contribute to proliferation, the Secretary of State, in consultation with such Secretary or the Commission, shall prepare an unclassified Nuclear Proliferation Assessment Statement with regard to such proposed subsequent arrangement regarding the adequacy of the safeguards and other control mechanisms and the application of the peaceful use assurances of the relevant agreement to ensure that assistance to be furnished pursuant to the subsequent arrangement will not be used to further any military or nuclear explosive purpose. For the purposes of this section, the term "subsequent arrangements" means arrangements entered into by any agency or department of the United States Government with respect to cooperation with any nation or group of nations (but not purely private or domestic arrangements) involving—
 
 &emsp;(A) contracts for the furnishing of nuclear materials and equipment;
 
@@ -30,7 +30,7 @@ With regard to any special nuclear material exported by the United States or pro
 
 &emsp;(1) the Secretary of Energy may not enter into any subsequent arrangement for the retransfer of any such material to a third country for reprocessing, for the reprocessing of any such material, or for the subsequent retransfer of any plutonium in quantities greater than 500 grams resulting from the reprocessing of any such material, until he has provided the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate with a report containing his reasons for entering into such arrangement and a period of 15 days of continuous session (as defined in section 2159(g) of this title) has elapsed: <i>Provided, however</i>, That if in the view of the President an emergency exists due to unforeseen circumstances requiring immediate entry into a subsequent arrangement, such period shall consist of fifteen calendar days;
 
-&emsp;(2) the Secretary of Energy may not enter into any subsequent arrangement for the reprocessing of any such material in a facility which has not processed power reactor fuel assemblies or been the subject of a subsequent arrangement therefor prior to March 10, 1978, or for subsequent retransfer to a non-nuclear-weapon state of any plutonium in quantities greater than 500 grams resulting from such reprocessing, unless in his judgment, and that ofthe Secretary of State, such reprocessing or retransfer will not result in a significant increase of the risk of proliferation beyond that which exists at the time that approval is requested. Among all the factors in making this judgment, foremost consideration will be given to whether or not the reprocessing or retransfer will take place under conditions that will ensure timely warning to the United States of any diversion well in advance of the time at which the non-nuclear-weapon state could transform the diverted material into a nuclear explosive device; and
+&emsp;(2) the Secretary of Energy may not enter into any subsequent arrangement for the reprocessing of any such material in a facility which has not processed power reactor fuel assemblies or been the subject of a subsequent arrangement therefor prior to March 10, 1978, or for subsequent retransfer to a non-nuclear-weapon state of any plutonium in quantities greater than 500 grams resulting from such reprocessing, unless in his judgment, and that of the Secretary of State, such reprocessing or retransfer will not result in a significant increase of the risk of proliferation beyond that which exists at the time that approval is requested. Among all the factors in making this judgment, foremost consideration will be given to whether or not the reprocessing or retransfer will take place under conditions that will ensure timely warning to the United States of any diversion well in advance of the time at which the non-nuclear-weapon state could transform the diverted material into a nuclear explosive device; and
 
 &emsp;(3) the Secretary of Energy shall attempt to ensure, in entering into any subsequent arrangement for the reprocessing of any such material in any facility that has processed power reactor fuel assemblies or been the subject of a subsequent arrangement therefor prior to March 10, 1978, or for the subsequent retransfer to any non-nuclear-weapon state of any plutonium in quantities greater than 500 grams resulting from such reprocessing, that such reprocessing or retransfer shall take place under conditions comparable to those which in his view, and that of the Secretary of State, satisfy the standards set forth in paragraph (2).
 
@@ -50,7 +50,7 @@ Notwithstanding section 7172(d) of this title, the Secretary of Energy, and not 
 
 (1) With regard to any subsequent arrangement under subsection (a)(2)(E) of this section (for the storage or disposition of irradiated fuel elements), where such arrangement involves a direct or indirect commitment of the United States for the storage or other disposition, interim or permanent, of any foreign spent nuclear fuel in the United States, the Secretary of Energy may not enter into any such subsequent arrangement, unless:
 
-&emsp;(A)(i) Such commitment of the United States has been submitted to the Congress for a period of sixty days of continuous session (as defined in section 2159(g) of this title) and has been referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, but any such commitment shall not become effective if during such sixty-day period the Congress adopts a concurrent resolution stating in substance that it does not favor the commitment, any such commitment to be considered pursuant to the procedures set forth in section 2159 of this title for the consideration of Presidential submissions; or (ii) if the President has submitted a detailed generic plan for such disposition or storage in the United States to the Congress for a period of sixtydays of continuous session (as defined in section 2159(g) of this title), which plan has been referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate and has not been disapproved during such sixty-day period by the adoption of a concurrent resolution stating in substance that Congress does not favor the plan; and the commitment is subject to the terms of an effective plan. Any such plan shall be considered pursuant to the procedures set forth in section 2159 of this title for the consideration of Presidential submissions;
+&emsp;(A)(i) Such commitment of the United States has been submitted to the Congress for a period of sixty days of continuous session (as defined in section 2159(g) of this title) and has been referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, but any such commitment shall not become effective if during such sixty-day period the Congress adopts a concurrent resolutionstating in substance that it does not favor the commitment, any such commitment to be considered pursuant to the procedures set forth in section 2159 of this title for the consideration of Presidential submissions; or (ii) if the President has submitted a detailed generic plan for such disposition or storage in the United States to the Congress for a period of sixty days of continuous session (as defined in section 2159(g) of this title), which plan has been referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate and has not been disapproved during such sixty-day period by the adoption of a concurrent resolution stating in substance that Congress does not favor the plan; and the commitment is subject to the terms of an effective plan. Any such plan shall be considered pursuant to the procedures set forth in section 2159 of this title for the consideration of Presidential submissions;
 
 &emsp;(B) The Secretary of Energy has complied with subsection (a) of this section; and
 
@@ -60,21 +60,25 @@ Notwithstanding section 7172(d) of this title, the Secretary of Energy, and not 
 
 (3) Any plan submitted by the President under paragraph (1) shall include a detailed discussion, with detailed information, and any supporting documentation thereof, relating to policy objectives, technical description, geographic information, cost data and justifications, legal and regulatory considerations, environmental impact information and any related international agreements, arrangements or understandings.
 
-(4) For the purposes of this subsection, the term “foreign spent nuclear fuel” shall include any nuclear fuel irradiated in any nuclear power reactor located outside of the United States and operated by any foreign legal entity, government or nongovernment, regardless of the legal ownership or other control of the fuel or reactor and regardless of the origin or licensing of the fuel or reactor, but not including fuel irradiated in a research reactor.
+(4) For the purposes of this subsection, the term "foreign spent nuclear fuel" shall include any nuclear fuel irradiated in any nuclear power reactor located outside of the United States and operated by any foreign legal entity, government or nongovernment, regardless of the legal ownership or other control of the fuel or reactor and regardless of the origin or licensing of the fuel or reactor, but not including fuel irradiated in a research reactor.
 
 (Aug. 1, 1946, ch. 724, title I, §131, as added Pub. L. 95–242, title III, §303(a), Mar. 10, 1978, 92 Stat. 127; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 103–437, §15(f)(6), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 105–277, div. G, title XII, §1225(d)(6), (7), Oct. 21, 1998, 112 Stat. 2681–774.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(2)(C), (3), (4) and (f)(1)(C), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–277, §1225(d)(6)(A), in first sentence, struck out “the Director,” after “shall consult with” and, in third sentence, substituted “the Secretary of State is required” for “the Director declares that he intends” and “the requirement to prepare a Nuclear Proliferation Assessment Statement” for “the Director's declaration”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–277, §1225(d)(6)(A), in first sentence, struck out "the Director," after "shall consult with" and, in third sentence, substituted "the Secretary of State is required" for "the Director declares that he intends" and "the requirement to prepare a Nuclear Proliferation Assessment Statement" for "the Director's declaration".
 
-Subsec. (a)(2). Pub. L. 105–277, §1225(d)(6)(B), substituted “view of the Secretary of State, Secretary of Energy, Secretary of Defense, or the Commission” for “Director's view” and “the Secretary of State, in consultation with such Secretary or the Commission, shall prepare” for “he may prepare”.
+Subsec. (a)(2). Pub. L. 105–277, §1225(d)(6)(B), substituted "view of the Secretary of State, Secretary of Energy, Secretary of Defense, or the Commission" for "Director's view" and "the Secretary of State, in consultation with such Secretary or the Commission, shall prepare" for "he may prepare".
 
-Subsec. (c). Pub. L. 105–277, §1225(d)(7), struck out “, the Director of the Arms Control and Disarmament Agency,” before “and the Nuclear” in first sentence and substituted “Secretary of State” for “Director” in sixth and seventh sentences and “Secretary of State's” for “Director's” in seventh sentence.
+Subsec. (c). Pub. L. 105–277, §1225(d)(7), struck out ", the Director of the Arms Control and Disarmament Agency," before "and the Nuclear" in first sentence and substituted "Secretary of State" for "Director" in sixth and seventh sentences and "Secretary of State's" for "Director's" in seventh sentence.
 
-<b>1994</b>—Subsecs. (b)(1), (c), (f)(1)(A). Pub. L. 103–437, §15(f)(6)(A), substituted “Foreign Affairs” for “International Relations” wherever appearing.
+<b>1994</b>—Subsecs. (b)(1), (c), (f)(1)(A). Pub. L. 103–437, §15(f)(6)(A), substituted "Foreign Affairs" for "International Relations" wherever appearing.
 
-Subsec. (f)(2). Pub. L. 103–437 substituted “Foreign Affairs and Science, Space, and Technology” for “International Relations and Science and Technology”.
+Subsec. (f)(2). Pub. L. 103–437 substituted "Foreign Affairs and Science, Space, and Technology" for "International Relations and Science and Technology".
 
 #### Effective Date of 1998 Amendment
 
@@ -94,49 +98,49 @@ Secretary of State responsible for performing function vested in President under
 
 Pub. L. 103–160, div. C, title XXXI, §3151, Nov. 30, 1993, 107 Stat. 1949, provided that:
 
-“(a)
+"(a)
 
-Purpose.—It is the purpose of this section to regulate the receipt and storage of spent nuclear fuel at the Department of Energy defense nuclear facility located at the Savannah River Site, South Carolina (in this section referred to as the ‘Savannah River Site’).
+Purpose.—It is the purpose of this section to regulate the receipt and storage of spent nuclear fuel at the Department of Energy defense nuclear facility located at the Savannah River Site, South Carolina (in this section referred to as the 'Savannah River Site').
 
-“(b)
+"(b)
 
 Receipt in Emergency Circumstances.—When the Secretary of Energy determines that emergency circumstances make it necessary to receive spent nuclear fuel, the Secretary shall submit a notification of that determination to the Congress. The Secretary may not receive spent nuclear fuel at the Savannah River Site until the expiration of the 30-day period beginning on the date on which the Congress receives the notification.
 
-“(c)
+"(c)
 
-Limitation on Storage in Non-emergency Circumstances.—The Secretary of Energy may not, under other than emergency circumstances, receive and storeat the Savannah River Site any spent nuclear fuel in excess of the amount that (as of the date of the enactment of this Act \[Nov. 30, 1993\]) the Savannah River Site is capable of receiving and storing, until, with respect to the receipt and storage of any such spent nuclear fuel—
+Limitation on Storage in Non-emergency Circumstances.—The Secretary of Energy may not, under other than emergency circumstances, receive and store at the Savannah River Site any spent nuclear fuel in excess of the amount that (as of the date of the enactment of this Act \[Nov. 30, 1993\]) the Savannah River Site is capable of receiving and storing, until, with respect to the receipt and storage of any such spent nuclear fuel—
 
-&emsp;“(1) the completion of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C));
+&emsp;"(1) the completion of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C));
 
-&emsp;“(2) the expiration of the 90-day period (as prescribed by regulation pursuant to such Act \[42 U.S.C. 4321 et seq.\]) beginning on the date of such completion; and
+&emsp;"(2) the expiration of the 90-day period (as prescribed by regulation pursuant to such Act \[42 U.S.C. 4321 et seq.\]) beginning on the date of such completion; and
 
-&emsp;“(3) the signing by the Secretary of a record of decision following such completion.
+&emsp;"(3) the signing by the Secretary of a record of decision following such completion.
 
-“(d)
+"(d)
 
 Limitations on Receipt.—The Secretary of Energy may not, under emergency or non-emergency circumstances, receive spent nuclear fuel if the spent nuclear fuel—
 
-&emsp;“(1) cannot be transferred in an expeditious manner from its port of entry in the United States to a storage facility that is located at a Department of Energy facility and is capable of receiving and storing the spent nuclear fuel; or
+&emsp;"(1) cannot be transferred in an expeditious manner from its port of entry in the United States to a storage facility that is located at a Department of Energy facility and is capable of receiving and storing the spent nuclear fuel; or
 
-&emsp;“(2) will remain on a vessel in the port of entry for a period that exceeds the period necessary to unload the fuel from the vessel pursuant to routine unloading procedures.
+&emsp;"(2) will remain on a vessel in the port of entry for a period that exceeds the period necessary to unload the fuel from the vessel pursuant to routine unloading procedures.
 
-“(e)
+"(e)
 
 Criteria for Port of Entry.—The Secretary of Energy shall, if economically feasible and to the maximum extent practicable, provide for the receipt of spent nuclear fuel under this section at a port of entry in the United States which, as determined by the Secretary and compared to each other port of entry in the United States that is capable of receiving the spent nuclear fuel—
 
-&emsp;“(1) has the lowest human population in the area surrounding the port of entry;
+&emsp;"(1) has the lowest human population in the area surrounding the port of entry;
 
-&emsp;“(2) is closest in proximity to the facility which will store the spent nuclear fuel; and
+&emsp;"(2) is closest in proximity to the facility which will store the spent nuclear fuel; and
 
-&emsp;“(3) has the most appropriate facilities for, and experience in, receiving spent nuclear fuel.
+&emsp;"(3) has the most appropriate facilities for, and experience in, receiving spent nuclear fuel.
 
-“(f)
+"(f)
 
-Definition.—In this section, the term ‘spent nuclear fuel’ means nuclear fuel that—
+Definition.—In this section, the term 'spent nuclear fuel' means nuclear fuel that—
 
-&emsp;“(1) was originally exported to a foreign country from the United States in the form of highly enriched uranium; and
+&emsp;"(1) was originally exported to a foreign country from the United States in the form of highly enriched uranium; and
 
-&emsp;“(2) was used in a research reactor by the Government of a foreign country or by a foreign-owned or foreign-controlled entity.”
+&emsp;"(2) was used in a research reactor by the Government of a foreign country or by a foreign-owned or foreign-controlled entity."
 
 #### Performance of Functions Pending Development of Procedures
 

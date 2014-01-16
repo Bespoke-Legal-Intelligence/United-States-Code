@@ -4,7 +4,7 @@
 
 (b) The Secretary concerned may defer, for not more than four months, the retirement or separation under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to be retired or separated under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 90; Pub. L. 87–649, §6(f)(3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 96–513, title I, §109(b)(2), Dec. 12, 1980, 94 Stat. 2870; Pub. L. 102–190, div. A, title XI, §1131(5), Dec. 5, 1991, 105 Stat. 1506.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 90; Pub. L. 87–649, §6(f)(3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 96–513, title I, §109(b)(2), Dec. 12, 1980, 94 Stat.2870; Pub. L. 102–190, div. A, title XI, §1131(5), Dec. 5, 1991, 105 Stat. 1506.)
 
 Historical and Revision Notes
 
@@ -32,9 +32,9 @@ May 29, 1954, ch. 249, §§2(d) (as applicable to §15), 14(e) (as applicable to
 
 34:430(e) (as applicable to 34:430a).
 
-In subsection (a), the words “he shall be separated” are substituted for the words “his appointment as a permanent warrant officer of the Regular service and any other appointment which he may hold in any warrant officer or commissioned officer grade shall be terminated” and “his appointment shall be terminated”. The words “at least three” are substituted for the words “more than three” for clarity.
+In subsection (a), the words "he shall be separated" are substituted for the words "his appointment as a permanent warrant officer of the Regular service and any other appointment which he may hold in any warrant officer or commissioned officer grade shall be terminated" and "his appointment shall be terminated". The words "at least three" are substituted for the words "more than three" for clarity.
 
-In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to be retired or separated under this section” are substituted for the words “retirement \* \* \* would otherwise be required”. The words “determination of his” are inserted for clarity. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
+In subsection (b), the words "The Secretary concerned may defer" are substituted for the words "may, in the discretion of the Secretary, be deferred". The words "not more than" are substituted for the words "a period not to exceed". The words "he would otherwise be required to be retired or separated under this section" are substituted for the words "retirement \* \* \* would otherwise be required". The words "determination of his" are inserted for clarity. The words "which is required", "possible", "proper", and "a period of" are omitted as surplusage.
 
 #### References in Text
 
@@ -42,11 +42,11 @@ Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a), 
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted “section 576” for “section 560”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted "section 576" for "section 560".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513 provided that officers discharged under this section are entitled, if eligible therefor, to separation pay under section 1174 or severance pay under section 286a of title 14.
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–649 substituted “section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114)” for “section 311 of title 37.”
+<b>1962</b>—Subsec. (a). Pub. L. 87–649 substituted "section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114)" for "section 311 of title 37."
 
 #### Effective Date of 1991 Amendment
 

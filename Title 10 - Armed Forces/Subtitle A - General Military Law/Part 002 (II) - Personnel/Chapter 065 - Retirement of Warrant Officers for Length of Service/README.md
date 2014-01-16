@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–513, title V, §501(19), Dec. 12, 1980, 94 Stat. 2908, substituted “RETIREMENT OF WARRANT OFFICERS FOR LENGTH OF SERVICE” for “RETIREMENT FOR LENGTH OF SERVICE” as chapter heading.
+<b>1980</b>—Pub. L. 96–513, title V, §501(19), Dec. 12, 1980, 94 Stat. 2908, substituted "RETIREMENT OF WARRANT OFFICERS FOR LENGTH OF SERVICE" for "RETIREMENT FOR LENGTH OF SERVICE" as chapter heading.
 
 
 ---

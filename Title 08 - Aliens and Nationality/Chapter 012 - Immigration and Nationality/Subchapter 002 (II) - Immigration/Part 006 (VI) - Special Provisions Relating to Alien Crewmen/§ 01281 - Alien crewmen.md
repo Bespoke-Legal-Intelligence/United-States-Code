@@ -20,7 +20,7 @@ In case any owner, agent, consignee, master, or commanding officer shall fail to
 
 The Attorney General is authorized to prescribe by regulations the circumstances under which a vessel or aircraft shall be deemed to be arriving in, or departing from the United States or any port thereof within the meaning of any provision of this part.
 
-(June 27, 1952, ch. 477, title II, ch. 6, §251, 66 Stat. 219; Pub. L. 101–649, title II, §203(b), Nov. 29, 1990, 104 Stat. 5018; Pub. L. 102–232, title III, §303(a)(3), Dec. 12, 1991, 105 Stat. 1746.)
+(June 27, 1952, ch. 477, title II, ch. 6, §251, 66 Stat. 219; Pub. L. 101–649, title II, §203(b), Nov. 29, 1990,104 Stat. 5018; Pub. L. 102–232, title III, §303(a)(3), Dec. 12, 1991, 105 Stat. 1746.)
 
 #### Amendments
 

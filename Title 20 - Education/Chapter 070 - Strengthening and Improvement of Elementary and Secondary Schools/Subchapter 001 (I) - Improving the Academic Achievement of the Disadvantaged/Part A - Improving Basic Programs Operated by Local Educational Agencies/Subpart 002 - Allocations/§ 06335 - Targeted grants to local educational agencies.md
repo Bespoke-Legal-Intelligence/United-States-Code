@@ -40,7 +40,7 @@
 
 &emsp;&emsp;The amount referred to in subparagraph (A) is determined by adding—
 
-&emsp;&emsp;&emsp;(i) the number of children determined under section 6333(c) of this title for thatcounty who constitute not more than 15.00 percent, inclusive, of the county's total population aged 5 to 17, inclusive, multiplied by 1.0;
+&emsp;&emsp;&emsp;(i) the number of children determined under section 6333(c) of this title for that county who constitute not more than 15.00 percent, inclusive, of the county's total population aged 5 to 17, inclusive, multiplied by 1.0;
 
 &emsp;&emsp;&emsp;(ii) the number of such children who constitute more than 15.00 percent, but not more than 19.00 percent, of such population, multiplied by 1.75;
 
@@ -126,5 +126,5 @@ Notwithstanding any other provision of this section or section 6332 of this titl
 
 #### Prior Provisions
 
-A prior section 6335, Pub. L. 89–10, title I, §1125, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3571, related to targeted grants to local educationalagencies, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6335, Pub. L. 89–10, title I, §1125, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3571, related to targeted grants to local educational agencies, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

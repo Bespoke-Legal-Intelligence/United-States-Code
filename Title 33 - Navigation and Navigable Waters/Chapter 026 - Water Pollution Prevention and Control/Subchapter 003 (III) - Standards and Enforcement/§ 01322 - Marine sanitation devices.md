@@ -4,33 +4,33 @@
 
 For the purpose of this section, the term—
 
-&emsp;(1) “new vessel” includes every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on the navigable waters, the construction of which is initiated after promulgation of standards and regulations under this section;
+&emsp;(1) "new vessel" includes every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on the navigable waters, the construction of which is initiated after promulgation of standards and regulations under this section;
 
-&emsp;(2) “existing vessel” includes every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on the navigable waters, the construction of which is initiated before promulgation of standards and regulations under this section;
+&emsp;(2) "existing vessel" includes every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on the navigable waters, the construction of which is initiated before promulgation of standards and regulations under this section;
 
-&emsp;(3) “public vessel” means a vessel owned or bareboat chartered and operated by the United States, by a State or political subdivision thereof, or by a foreign nation, except when such vessel is engaged in commerce;
+&emsp;(3) "public vessel" means a vessel owned or bareboat chartered and operated by the United States, by a State or political subdivision thereof, or by a foreign nation, except when such vessel is engaged in commerce;
 
-&emsp;(4) “United States” includes the States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Canal Zone, and the Trust Territory of the Pacific Islands;
+&emsp;(4) "United States" includes the States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Canal Zone, and the Trust Territory of the Pacific Islands;
 
-&emsp;(5) “marine sanitation device” includes any equipment for installation on board a vessel which is designed to receive, retain, treat, or discharge sewage, and any process to treat such sewage;
+&emsp;(5) "marine sanitation device" includes any equipment for installation on board a vessel which is designed to receive, retain, treat, or discharge sewage, and any process to treat such sewage;
 
-&emsp;(6) “sewage” means human body wastes and the wastes from toilets and other receptacles intended to receive or retain body wastes except that, with respect to commercial vessels on the Great Lakes, such term shall include graywater;
+&emsp;(6) "sewage" means human body wastes and the wastes from toilets and other receptacles intended to receive or retain body wastes except that, with respect to commercial vessels on the Great Lakes, such term shall include graywater;
 
-&emsp;(7) “manufacturer” means any person engaged in the manufacturing, assembling, or importation of marine sanitation devices or of vessels subject to standards and regulations promulgated under this section;
+&emsp;(7) "manufacturer" means any person engaged in the manufacturing, assembling, or importation of marine sanitation devices or of vessels subject to standards and regulations promulgated under this section;
 
-&emsp;(8) “person” means an individual, partnership, firm, corporation, association, or agency of the United States, but does not include an individual on board a public vessel;
+&emsp;(8) "person" means an individual, partnership, firm, corporation, association, or agency of the United States, but does not include an individual on board a public vessel;
 
-&emsp;(9) “discharge” includes, but is not limited to, any spilling, leaking, pumping, pouring, emitting, emptying or dumping;
+&emsp;(9) "discharge" includes, but is not limited to, any spilling, leaking, pumping, pouring, emitting, emptying or dumping;
 
-&emsp;(10) “commercial vessels” means those vessels used in the business of transporting property for compensation or hire, or in transporting property in the business of the owner, lessee, or operator of the vessel;
+&emsp;(10) "commercial vessels" means those vessels used in the business of transporting property for compensation or hire, or in transporting property in the business of the owner, lessee, or operator of the vessel;
 
-&emsp;(11) “graywater” means galley, bath, and shower water;
+&emsp;(11) "graywater" means galley, bath, and shower water;
 
-&emsp;(12) “discharge incidental to the normal operation of a vessel”—
+&emsp;(12) "discharge incidental to the normal operation of a vessel"—
 
 &emsp;&emsp;(A) means a discharge, including—
 
-&emsp;&emsp;&emsp;(i) graywater, bilge water, cooling water, weather deck runoff, ballast water, oil water separator effluent, and any other pollutant discharge from the operation of a marine propulsion system, shipboard maneuvering system, crew habitability system, or installed major equipment, such as an aircraft carrier elevator or a catapult, or from a protective, preservative, or absorptive application to the hull of the vessel; and
+&emsp;&emsp;&emsp;(i) graywater, bilge water, cooling water, weather deck runoff, ballast water, oil water separator effluent, and any other pollutant discharge from the operation ofa marine propulsion system, shipboard maneuvering system, crew habitability system, or installed major equipment, such as an aircraft carrier elevator or a catapult, or from a protective, preservative, or absorptive application to the hull of the vessel; and
 
 &emsp;&emsp;&emsp;(ii) a discharge in connection with the testing, maintenance, and repair of a system described in clause (i) whenever the vessel is waterborne; and
 
@@ -42,13 +42,13 @@ For the purpose of this section, the term—
 
 &emsp;&emsp;&emsp;(iii) a discharge that is not covered by part 122.3 of title 40, Code of Federal Regulations (as in effect on February 10, 1996);
 
-&emsp;(13) “marine pollution control device” means any equipment or management practice, for installation or use on board a vessel of the Armed Forces, that is—
+&emsp;(13) "marine pollution control device" means any equipment or management practice, for installation or use on board a vessel of the Armed Forces, that is—
 
 &emsp;&emsp;(A) designed to receive, retain, treat, control, or discharge a discharge incidental to the normal operation of a vessel; and
 
 &emsp;&emsp;(B) determined by the Administrator and the Secretary of Defense to be the most effective equipment or management practice to reduce the environmental impacts of the discharge consistent with the considerations set forth in subsection (n)(2)(B) of this section; and
 
-&emsp;(14) “vessel of the Armed Forces” means—
+&emsp;(14) "vessel of the Armed Forces" means—
 
 &emsp;&emsp;(A) any vessel owned or operated by the Department of Defense, other than a time or voyage chartered vessel; and
 
@@ -56,7 +56,7 @@ For the purpose of this section, the term—
 
 #### (b) Federal standards of performance
 
-(1) As soon as possible, after October 18, 1972, and subject to the provisions of section 1254(j) of this title, the Administrator, after consultation with the Secretary of the department in which the Coast Guard is operating, after giving appropriate consideration to the economic costs involved, and within the limits of available technology, shall promulgate Federal standards of performance for marine sanitation devices (hereafter in this section referred to as “standards”) which shall be designed to prevent the discharge of untreated or inadequately treated sewage into or upon the navigable waters from new vessels and existing vessels, except vessels not equipped with installed toilet facilities. Such standards and standards established under subsection (c)(1)(B) of this section shall be consistent with maritime safety and the marine and navigation laws and regulations and shall be coordinated with the regulations issued under this subsection by the Secretary of the department in which the Coast Guard is operating. The Secretary of the department in which the Coast Guard is operating shall promulgate regulations, which are consistent with standards promulgated under this subsection and subsection (c) of this section and with maritime safety and the marine and navigation laws and regulations governing the design, construction, installation, and operation of any marine sanitation device on board such vessels.
+(1) As soon as possible, after October 18, 1972, and subject to the provisions of section 1254(j) of this title, the Administrator, after consultation with the Secretary of the department in which the Coast Guard is operating, after giving appropriate consideration to the economic costs involved, and within the limits of available technology, shall promulgate Federal standards of performance for marine sanitation devices (hereafter in this section referred to as "standards") which shall be designed to prevent the discharge of untreated or inadequately treated sewage into or upon the navigable waters from new vessels and existing vessels, except vessels not equipped with installed toilet facilities. Such standards and standards established under subsection (c)(1)(B) of this section shall be consistent with maritime safety and the marine and navigation laws and regulations and shall be coordinated with the regulations issued under this subsection by the Secretary of the department in which the Coast Guard is operating. The Secretary of the department in which the Coast Guard is operating shall promulgate regulations, which are consistent with standards promulgated under this subsection and subsection (c) of this section and with maritime safety and the marine and navigation laws and regulations governing the design, construction, installation, and operation of any marine sanitation device on board such vessels.
 
 (2) Any existing vessel equipped with a marine sanitation device on the date of promulgation of initial standards and regulations under this section, which device is in compliance with such initial standards and regulations, shall be deemed in compliance with this section until such time as the device is replaced or is found not to be in compliance with such initial standards and regulations.
 
@@ -64,7 +64,7 @@ For the purpose of this section, the term—
 
 (1)(A) Initial standards and regulations under this section shall become effective for new vessels two years after promulgation; and for existing vessels five years after promulgation. Revisions of standards and regulations shall be effective upon promulgation, unless another effective date is specified, except that no revision shall take effect before the effective date of the standard or regulation being revised.
 
-(B) The Administrator shall, with respect to commercial vessels on the Great Lakes, establish standards which require at a minimum theequivalent of secondary treatment as defined under section 1314(d) of this title. Such standards and regulations shall take effect for existing vessels after such time as the Administrator determines to be reasonable for the upgrading of marine sanitation devices to attain such standard.
+(B) The Administrator shall, with respect to commercial vessels on the Great Lakes, establish standards which require at a minimum the equivalent of secondary treatment as defined under section 1314(d) of this title. Such standards and regulations shall take effect for existing vessels after such time as the Administrator determines to be reasonable for the upgrading of marine sanitation devices to attain such standard.
 
 (2) The Secretary of the department in which the Coast Guard is operating with regard to his regulatory authority established by this section, after consultation with the Administrator, may distinguish among classes, type, and sizes of vessels as well as between new and existing vessels, and may waive applicability of standards and regulations as necessary or appropriate for such classes, types, and sizes of vessels (including existing vessels equipped with marine sanitation devices on the date of promulgation of the initial standards required by this section), and, upon application, for individual vessels.
 
@@ -74,13 +74,13 @@ The provisions of this section and the standards and regulations promulgated her
 
 #### (e) Pre-promulgation consultation
 
-Before the standards and regulations under this section are promulgated, the Administrator and the Secretary of the department in which the Coast Guard is operating shall consult with the Secretary of State; the Secretary of Health and Human Services; the Secretary of Defense; the Secretary of the Treasury; the Secretary of Commerce; other interested Federal agencies; and the States and industries interested; and otherwise comply with the requirements of section 553 of title 5.
+Before the standards and regulations under this section are promulgated, the Administrator and the Secretary of the department in whichthe Coast Guard is operating shall consult with the Secretary of State; the Secretary of Health and Human Services; the Secretary of Defense; the Secretary of the Treasury; the Secretary of Commerce; other interested Federal agencies; and the States and industries interested; and otherwise comply with the requirements of section 553 of title 5.
 
 #### (f) Regulation by States or political subdivisions thereof; complete prohibition upon discharge of sewage
 
 (1)(A) Except as provided in subparagraph (B), after the effective date of the initial standards and regulations promulgated under this section, no State or political subdivision thereof shall adopt or enforce any statute or regulation of such State or political subdivision with respect to the design, manufacture, or installation or use of any marine sanitation device on any vessel subject to the provisions of this section.
 
-(B) A State may adopt and enforce a statute or regulation with respect to the design, manufacture, or installation or use of any marine sanitation device on a houseboat, if such statute or regulation is more stringent than the standards and regulations promulgated under this section. For purposes of this paragraph, the term “houseboat” means a vessel which, for a period of time determined by the State in which the vessel is located, is used primarily as a residence and is not used primarily as a means of transportation.
+(B) A State may adopt and enforce a statute or regulation with respect to the design, manufacture, or installation or use of any marine sanitation device on a houseboat, if such statute or regulation is more stringent than the standards and regulations promulgated under this section. For purposes of this paragraph, the term "houseboat" means a vessel which, for a period of time determined by the State in which the vessel is located, is used primarily as a residence and is not used primarily as a means of transportation.
 
 (2) If, after promulgation of the initial standards and regulations and prior to their effective date, a vessel is equipped with a marine sanitation device in compliance with such standards and regulations and the installation and operation of such device is in accordance with such standards and regulations, such standards and regulations shall, for the purposes of paragraph (1) of this subsection, become effective with respect to such vessel on the date of such compliance.
 
@@ -94,7 +94,7 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 (1) No manufacturer of a marine sanitation device shall sell, offer for sale, or introduce or deliver for introduction in interstate commerce, or import into the United States for sale or resale any marine sanitation device manufactured after the effective date of the standards and regulations promulgated under this section unless such device is in all material respects substantially the same as a test device certified under this subsection.
 
-(2) Upon application of the manufacturer, the Secretary of the department in which the Coast Guard is operating shall so certify a marine sanitation device if he determines, in accordance with the provisions of this paragraph, that it meets the appropriate standards and regulations promulgated under this section. The Secretary of the department in which the Coast Guard is operating shall test or require such testing of the device in accordance with procedures set forth by the Administrator as to standards of performance and for such other purposes as may be appropriate. If the Secretary of the department in which the Coast Guard is operating determines that the device is satisfactory from the standpoint of safety and any other requirements of maritime law or regulation, and after consideration of the design, installation,operation, material, or other appropriate factors, he shall certify the device. Any device manufactured by such manufacturer which is in all material respects substantially the same as the certified test device shall be deemed to be in conformity with the appropriate standards and regulations established under this section.
+(2) Upon application of the manufacturer, the Secretary of the department in which the Coast Guard is operating shall so certify a marine sanitation device if he determines, in accordance with the provisions of this paragraph, that it meets the appropriate standards and regulations promulgated under this section. The Secretary of the department in which the Coast Guard is operating shall test or require such testing of the device in accordance with procedures set forth by the Administrator as to standards of performance and for such other purposes as may be appropriate. If the Secretary of the department in which the Coast Guard is operating determines that the device is satisfactory from the standpoint of safety and any other requirements of maritime law or regulation, and after consideration of the design, installation, operation, material, or other appropriate factors, he shall certify the device. Any device manufactured by such manufacturer which is in all material respects substantially the same as the certified test device shall be deemed to be in conformity with the appropriate standards and regulations established under this section.
 
 (3) Every manufacturer shall establish and maintain such records, make such reports, and provide such information as the Administrator or the Secretary of the department in which the Coast Guard is operating may reasonably require to enable him to determine whether such manufacturer has acted or is acting in compliance with this section and regulations issued thereunder and shall, upon request of an officer or employee duly designated by the Administrator or the Secretary of the department in which the Coast Guard is operating, permit such officer or employee at reasonable times to have access to and copy such records. All information reported to or otherwise obtained by the Administrator or the Secretary of the Department in which the Coast Guard is operating or their representatives pursuant to this subsection which contains or relates to a trade secret or other matter referred to in section 1905 of title 18 shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this section. This paragraph shall not apply in the case of the construction of a vessel by an individual for his own use.
 
@@ -212,7 +212,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (C) Regulations
 
-&emsp;&emsp;The Secretary of Defense shall promulgate regulations with respect to a marine pollution control device under paragraph (4) as soon as practicable after the Administrator and the Secretary of Defense promulgate standards with respect to the device under paragraph (3), but not later than 1 year afterthe Administrator and the Secretary of Defense promulgate the standards. The regulations promulgated by the Secretary of Defense under paragraph (4) shall become effective upon promulgation unless another effective date is specified in the regulations.
+&emsp;&emsp;The Secretary of Defense shall promulgate regulations with respect to a marine pollution control device under paragraph (4) as soon as practicable after the Administrator and the Secretary of Defense promulgate standards with respect to the device under paragraph (3), but not later than 1 year after the Administrator and the Secretary of Defense promulgate the standards. The regulations promulgated by the Secretary of Defense under paragraph (4) shall become effective upon promulgation unless another effective date is specified in the regulations.
 
 #### (D) Petition for review
 
@@ -398,7 +398,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (5) Effect of other laws
 
-&emsp;This subsection shall not affect the application of section 1321 of this title to discharges incidental to the normal operation of a recreational vessel.
+&emsp;This subsection shall not affect the application of section 1321 of this title to dischargesincidental to the normal operation of a recreational vessel.
 
 #### (6) Prohibition relating to recreational vessels
 
@@ -414,19 +414,19 @@ For definition of Canal Zone, referred to in subsecs. (a)(4) and (m), see sectio
 
 <b>2008</b>—Subsec. (o). Pub. L. 110–288 added subsec. (o).
 
-<b>1996</b>—Subsec. (a)(8). Pub. L. 104–106, §325(c)(1)(A), substituted “corporation, association, or agency of the United States,” for “corporation, or association,”.
+<b>1996</b>—Subsec. (a)(8). Pub. L. 104–106, §325(c)(1)(A), substituted "corporation, association, or agency of the United States," for "corporation, or association,".
 
 Subsec. (a)(12) to (14). Pub. L. 104–106, §325(c)(1)(B), (C), added pars. (12) to (14).
 
-Subsec. (j). Pub. L. 104–106, §325(c)(2), substituted “subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable” for “subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable”.
+Subsec. (j). Pub. L. 104–106, §325(c)(2), substituted "subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable" for "subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable".
 
 Subsec. (n). Pub. L. 104–106, §325(b), added subsec. (n).
 
-<b>1987</b>—Subsec. (f)(1). Pub. L. 100–4, §311(a), designated existing provision as subpar. (A), substituted “Except as provided in subparagraph (B), after” for “After”, and added subpar. (B).
+<b>1987</b>—Subsec. (f)(1). Pub. L. 100–4, §311(a), designated existing provision as subpar. (A), substituted "Except as provided in subparagraph (B), after" for "After", and added subpar. (B).
 
-Subsec. (k). Pub. L. 100–4, §311(b), inserted at end “The provisions of this section may also be enforced by a State.”
+Subsec. (k). Pub. L. 100–4, §311(b), inserted at end "The provisions of this section may also be enforced by a State."
 
-<b>1977</b>—Subsec. (a)(6). Pub. L. 95–217, §59(a), inserted “except that, with respect to commercial vessels on the Great Lakes, such term shall include graywater” after “receive or retain body wastes”.
+<b>1977</b>—Subsec. (a)(6). Pub. L. 95–217, §59(a), inserted "except that, with respect to commercial vessels on the Great Lakes, such term shall include graywater" after "receive or retain body wastes".
 
 Subsec. (a)(10), (11). Pub. L. 95–217, §59(b), added pars. (10) and (11).
 
@@ -438,7 +438,7 @@ Subsec. (f)(4). Pub. L. 95–217, §59(e), designated existing provisions as sub
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (e) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (e) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Transfer of Functions
 
@@ -450,233 +450,233 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Purpose of 1996 Amendment
 
-Pub. L. 104–106, div. A, title III, §325(a), Feb. 10, 1996, 110 Stat. 254, provided that: “The purposes of this section \[amending this section and section 1362 of this title and enacting provisions set out as a note below\] are to—
+Pub. L. 104–106, div. A, title III, §325(a), Feb. 10, 1996, 110 Stat. 254, provided that: "The purposes of this section \[amending this section and section 1362 of this title and enacting provisions set out as a note below\] are to—
 
-&emsp;“(1) enhance the operational flexibility of vessels of the Armed Forces domestically and internationally;
+&emsp;"(1) enhance the operational flexibility of vessels of the Armed Forces domestically and internationally;
 
-&emsp;“(2) stimulate the development of innovative vessel pollution control technology; and
+&emsp;"(2) stimulate the development of innovative vessel pollution control technology; and
 
-&emsp;“(3) advance the development by the United States Navy of environmentally sound ships.”
+&emsp;"(3) advance the development by the United States Navy of environmentally sound ships."
 
 #### Cooperation in National Discharge Standards Development
 
-Pub. L. 104–106, div. A, title III, §325(d), Feb. 10, 1996, 110 Stat. 259, provided that: “The Administrator of theEnvironmental Protection Agency and the Secretary of Defense may, by mutual agreement, with or without reimbursement, provide for the use of information, reports, personnel, or other resources of the Environmental Protection Agency or the Department of Defense to carry out section 312(n) of the Federal Water Pollution Control Act \[33 U.S.C. 1322(n)\] (as added by subsection (b)), including the use of the resources—
+Pub. L. 104–106, div. A, title III, §325(d), Feb. 10, 1996, 110 Stat. 259, provided that: "The Administrator of the Environmental Protection Agency and the Secretary of Defense may, by mutual agreement, with or without reimbursement, provide for the use of information, reports, personnel, or other resources of the Environmental Protection Agency or the Department of Defense to carry out section 312(n) of the Federal Water Pollution Control Act \[33 U.S.C. 1322(n)\] (as added by subsection (b)), including the use of the resources—
 
-&emsp;“(1) to determine—
+&emsp;"(1) to determine—
 
-&emsp;&emsp;“(A) the nature and environmental effect of discharges incidental to the normal operation of a vessel of the Armed Forces;
+&emsp;&emsp;"(A) the nature and environmental effect of discharges incidental to the normal operation of a vessel of the Armed Forces;
 
-&emsp;&emsp;“(B) the practicability of using marine pollution control devices on vessels of the Armed Forces; and
+&emsp;&emsp;"(B) the practicability of using marine pollution control devices on vessels of the Armed Forces; and
 
-&emsp;&emsp;“(C) the effect that installation or use of marine pollution control devices on vessels of the Armed Forces would have on the operation or operational capability of the vessels; and
+&emsp;&emsp;"(C) the effect that installation or use of marine pollution control devices on vessels of the Armed Forces would have on the operation or operational capability of the vessels; and
 
-&emsp;“(2) to establish performance standards for marine pollution control devices on vessels of the Armed Forces.”
+&emsp;"(2) to establish performance standards for marine pollution control devices on vessels of the Armed Forces."
 
 #### Clean Vessels
 
 Pub. L. 102–587, title V, subtitle F, Nov. 4, 1992, 106 Stat. 5086, as amended by Pub. L. 109–59, title X, §10131, Aug. 10, 2005, 119 Stat. 1931, provided that:
 
-#### “SEC. 5601. SHORT TITLE.
+#### "SEC. 5601. SHORT TITLE.
 
-“This subtitle may be cited as the ‘Clean Vessel Act of 1992’.
+"This subtitle may be cited as the 'Clean Vessel Act of 1992'.
 
-#### “SEC. 5602. FINDINGS; PURPOSE.
+#### "SEC. 5602. FINDINGS; PURPOSE.
 
-“(a)
+"(a)
 
 Findings.—The Congress finds the following:
 
-&emsp;“(1) The discharge of untreated sewage by vessels is prohibited under Federal law in all areas within the navigable waters of the United States.
+&emsp;"(1) The discharge of untreated sewage by vessels is prohibited under Federal law in all areas within the navigable waters of the United States.
 
-&emsp;“(2) The discharge of treated sewage by vessels is prohibited under either Federal or State law in many of the United States bodies of water where recreational boaters operate.
+&emsp;"(2) The discharge of treated sewage by vessels is prohibited under either Federal or State law in many of the United States bodies of water where recreational boaters operate.
 
-&emsp;“(3) There is currently an inadequate number of pumpout stations for type III marine sanitation devices where recreational vessels normally operate.
+&emsp;"(3) There is currently an inadequate number of pumpout stations for type III marine sanitation devices where recreational vessels normally operate.
 
-&emsp;“(4) Sewage discharged by recreational vessels because of an inadequate number of pumpout stations is a substantial contributor to localized degradation of water quality in the United States.
+&emsp;"(4) Sewage discharged by recreational vessels because of an inadequate number of pumpout stations is a substantial contributor to localized degradation of water quality in the United States.
 
-“(b)
+"(b)
 
 Purpose.—The purpose of this subtitle is to provide funds to States for the construction, renovation, operation, and maintenance of pumpout stations and waste reception facilities.
 
-#### “SEC. 5603. DETERMINATION AND PLAN REGARDING STATE MARINE SANITATION DEVICE PUMPOUT STATION NEEDS.
+#### "SEC. 5603. DETERMINATION AND PLAN REGARDING STATE MARINE SANITATION DEVICE PUMPOUT STATION NEEDS.
 
-“(a)
+"(a)
 
 Survey.—Within 3 months after the notification under section 5605(b), each coastal State shall conduct a survey to determine—
 
-&emsp;“(1) the number and location of all operational pumpout stations and waste reception facilities at public and private marinas, mooring areas, docks, and other boating access facilities within the coastal zone of the State; and
+&emsp;"(1) the number and location of all operational pumpout stations and waste reception facilities at public and private marinas, mooring areas, docks, and other boating access facilities within the coastal zone of the State; and
 
-&emsp;“(2) the number of recreational vessels in the coastal waters of the State with type III marine sanitation devices or portable toilets, and the areas of those coastal waters where those vessels congregate.
+&emsp;"(2) the number of recreational vessels in the coastal waters of the State with type III marine sanitation devices or portable toilets, and the areas of those coastal waters where those vessels congregate.
 
-“(b)
+"(b)
 
 Plan.—Within 6 months after the notification under section 5605(b), and based on the survey conducted under subsection (a), each coastal State shall—
 
-&emsp;“(1) develop and submit to the Secretary of the Interior a plan for any construction or renovation of pumpout stations and waste reception facilities that are necessary to ensure that, based on the guidance issued under section 5605(a), there are pumpout stations and waste reception facilities in the State that are adequate and reasonably available to meet the needs of recreational vessels using the coastal waters of the State; and
+&emsp;"(1) develop and submit to the Secretary of the Interior a plan for any construction or renovation of pumpout stations and waste reception facilities that are necessary to ensure that, based on the guidance issued under section 5605(a), there are pumpout stations and waste reception facilities in the State that are adequate and reasonably available to meet the needs of recreational vessels using the coastal waters of the State; and
 
-&emsp;“(2) submit to the Secretary of the Interior with that plan a list of all stations and facilities in the coastal zone of the State which are operational on the date of submittal.
+&emsp;"(2) submit to the Secretary of the Interior with that plan a list of all stations and facilities in the coastal zone of the State which are operational on the date of submittal.
 
-“(c)
+"(c)
 
 Plan Approval.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 60 days after a plan is submitted by a State under subsection (b), the Secretary of the Interior shall approve or disapprove the plan, based on—
 
-&emsp;&emsp;“(A) the adequacy of the survey conducted by the State under subsection (a); and
+&emsp;&emsp;"(A) the adequacy of the survey conducted by the State under subsection (a); and
 
-&emsp;&emsp;“(B) the ability of the plan, based on the guidance issued under section 5605(a), to meet the construction and renovation needs of the recreational vessels identified in the survey.
+&emsp;&emsp;"(B) the ability of the plan, based on the guidance issued under section 5605(a), to meet the construction and renovation needs of the recreational vessels identified in the survey.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Notification of state; modification.—The Secretary of the Interior shall promptly notify the affected Governor of the approval or disapproval of a plan. If a plan is disapproved, the Secretary of the Interior shall recommend necessary modifications and return the plan to the affected Governor.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Resubmittal.—Not later than 60 days after receiving a plan returned by the Secretary of the Interior, the Governor shall make the appropriate changes and resubmit the plan.
 
-“(d)
+"(d)
 
 Indication of Stations and Facilities on NOAA Charts.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Under Secretary of Commerce for Oceans and Atmosphere shall indicate, on charts published by the National Oceanic and Atmospheric Administration for the use of operators of recreational vessels, the locations of pumpout stations and waste reception facilities.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Notification of NOAA.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Lists of stations and facilities.—The Secretary of the Interior shall transmit to the Under Secretary of Commerce for Oceans and Atmosphere each list of operational stations and facilities submitted by a State under subsection (b)(2), by not later than 30 days after the date of receipt of that list.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Completion of project.—The Director of the United States Fish and Wildlife Service shall notify the Under Secretary of the location of each station or facility at which a construction or renovation project is completed by a State with amounts made available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), as amended by this subtitle, by not later than 30 days after the date of notification by a State of the completion of the project.
 
-#### “SEC. 5604. FUNDING.
+#### "SEC. 5604. FUNDING.
 
-“(a)
+"(a)
 
 Transfer.—\[Amended section 777c of Title 16, Conservation.\]
 
-“(b)
+"(b)
 
 Access Increase.—\[Amended section 777g of Title 16, Conservation.\]
 
-“(c)
+"(c)
 
 Grant Program.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Matching grants.—The Secretary of the Interior may obligate an amount not to exceed the amount made available under section 4(b)(2) of the Act of August 9, 1950 (16 U.S.C. 777c(b)(2), as amended by this Act), to make grants to—
 
-&emsp;&emsp;“(A) coastal States to pay not more than 75 percent of the cost to a coastal State of—
+&emsp;&emsp;"(A) coastal States to pay not more than 75 percent of the cost to a coastal State of—
 
-&emsp;&emsp;&emsp;“(i) conducting a survey under section 5603(a);
+&emsp;&emsp;&emsp;"(i) conducting a survey under section 5603(a);
 
-&emsp;&emsp;&emsp;“(ii) developing and submitting a plan and accompanying list under section 5603(b);
+&emsp;&emsp;&emsp;"(ii) developing and submitting a plan and accompanying list under section 5603(b);
 
-&emsp;&emsp;&emsp;“(iii) constructing and renovating pumpout stations and waste reception facilities; and
+&emsp;&emsp;&emsp;"(iii) constructing and renovating pumpout stations and waste reception facilities; and
 
-&emsp;&emsp;&emsp;“(iv) conducting a program to educate recreational boaters about the problem of human body waste discharges from vessels and inform them of the location of pumpout stations and waste reception facilities.
+&emsp;&emsp;&emsp;"(iv) conducting a program to educate recreational boaters about the problem of human body waste discharges from vessels and inform them of the location of pumpout stations and waste reception facilities.
 
-&emsp;&emsp;“(B) inland States, which can demonstrate to the Secretary of the Interior that there are an inadequate number of pumpout stations and waste reception facilities to meet the needs of recreational vessels in the waters of that State, to pay 75 percent of the cost to that State of—
+&emsp;&emsp;"(B) inland States, which can demonstrate to the Secretary of the Interior that there are an inadequate number of pumpout stations and waste reception facilities to meet the needs of recreational vessels in the waters of that State, to pay 75 percent of the cost to that State of—
 
-&emsp;&emsp;&emsp;“(i) constructing and renovating pumpout stations and waste reception facilities in the inland State; and
+&emsp;&emsp;&emsp;"(i) constructing and renovating pumpout stations and waste reception facilities in the inland State; and
 
-&emsp;&emsp;&emsp;“(ii) conducting a program to educate recreational boaters about the problem of human body waste discharges from vessels and inform them of the location of pumpout stations and waste reception facilities.
+&emsp;&emsp;&emsp;"(ii) conducting a program to educate recreational boaters about the problem of human body waste discharges from vessels and inform them of the location of pumpout stations and waste reception facilities.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Priority.—In awarding grants under this subsection, the Secretary of the Interior shall give priority consideration to grant applications that—
 
-&emsp;&emsp;“(A) provide for public/private partnership efforts to develop and operate pumpout stations and waste reception facilities; and
+&emsp;&emsp;"(A) provide for public/private partnership efforts to develop and operate pumpout stations and waste reception facilities; and
 
-&emsp;&emsp;“(B) propose innovative ways to increase the availability and use of pumpout stations and waste reception facilities.
+&emsp;&emsp;"(B) propose innovative ways to increase the availability and use of pumpout stations and waste reception facilities.
 
-“(d)
+"(d)
 
 Disclaimer.—Nothing in this subtitle shall be interpreted to preclude a State from carrying out the provisions of this subtitle with funds other than those described in this section.
 
-#### “SEC. 5605. GUIDANCE AND NOTIFICATION.
+#### "SEC. 5605. GUIDANCE AND NOTIFICATION.
 
-“(a)
+"(a)
 
 Issuance of Guidance.—Not later than 3 months after the date of the enactment of this subtitle \[Nov. 4, 1992\], the Secretary of the Interior shall, after consulting with the Administrator of the Environmental Protection Agency, the Under Secretary of Commerce for Oceans and Atmosphere, and the Commandant of the Coast Guard, issue for public comment pumpout station and waste reception facility guidance. The Secretary of the Interior shall finalize the guidance not later than 6 months after the date of enactment of this subtitle. The guidance shall include—
 
-&emsp;“(1) guidance regarding the types of pumpout stations and waste reception facilities that may be appropriate for construction, renovation, operation, or maintenance with amounts available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), as amended by this subtitle, and appropriate location of the stations and facilities within a marina or boatyard;
+&emsp;"(1) guidance regarding the types of pumpout stations and waste reception facilities that may be appropriate for construction, renovation, operation, ormaintenance with amounts available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), as amended by this subtitle, and appropriate location of the stations and facilities within a marina or boatyard;
 
-&emsp;“(2) guidance defining what constitutes adequate and reasonably available pumpout stations and waste reception facilities in boating areas;
+&emsp;"(2) guidance defining what constitutes adequate and reasonably available pumpout stations and waste reception facilities in boating areas;
 
-&emsp;“(3) guidance on appropriate methods for disposal of vessel sewage from pumpout stations and waste reception facilities;
+&emsp;"(3) guidance on appropriate methods for disposal of vessel sewage from pumpout stations and waste reception facilities;
 
-&emsp;“(4) guidance on appropriate connector fittings to facilitate the sanitary and expeditious discharge of sewage from vessels;
+&emsp;"(4) guidance on appropriate connector fittings to facilitate the sanitary and expeditious discharge of sewage from vessels;
 
-&emsp;“(5) guidance on the waters most likely to be affected by the discharge of sewage from vessels; and
+&emsp;"(5) guidance on the waters most likely to be affected by the discharge of sewage from vessels; and
 
-&emsp;“(6) other information that is considered necessary to promote the establishment of pumpout facilities to reduce sewage discharges from vessels and to protect United States waters.
+&emsp;"(6) other information that is considered necessary to promote the establishment of pumpout facilities to reduce sewage discharges from vessels and to protect United States waters.
 
-“(b)
+"(b)
 
 Notification.—Not later than one month after the guidance issued under subsection (a) is finalized, the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
 
-&emsp;“(1) the availability of amounts under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]) to implement the Clean Vessel Act of 1992; and
+&emsp;"(1) the availability of amounts under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]) to implement the Clean Vessel Act of 1992; and
 
-&emsp;“(2) the guidance developed under subsection (a).
+&emsp;"(2) the guidance developed under subsection (a).
 
-#### “SEC. 5606. EFFECT ON STATE FUNDING ELIGIBILITY.
+#### "SEC. 5606. EFFECT ON STATE FUNDING ELIGIBILITY.
 
-“This subtitle shall not be construed or applied to jeopardize any funds available to a coastal State under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), if the coastal State is, in good faith, pursuing a survey and plan designed to meet the purposes of this subtitle.
+"This subtitle shall not be construed or applied to jeopardize any funds available to a coastal State under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), if the coastal State is, in good faith, pursuing a survey and plan designed to meet the purposes of this subtitle.
 
-#### “SEC. 5607. APPLICABILITY.
+#### "SEC. 5607. APPLICABILITY.
 
-“The requirements of section 5603 shall not apply to a coastal State if within six months after the date of enactment of this subtitle \[Nov. 4, 1992\] the Secretary of the Interior certifies that—
+"The requirements of section 5603 shall not apply to a coastal State if within six months after the date of enactment of this subtitle \[Nov. 4, 1992\] the Secretary of the Interior certifies that—
 
-&emsp;“(1) the State has developed and is implementing a plan that will ensure that there will be pumpout stations and waste reception facilities adequate to meet the needs of recreational vessels in the coastal waters of the State; or
+&emsp;"(1) the State has developed and is implementing a plan that will ensure that there will be pumpout stations and waste reception facilities adequate to meet the needs of recreational vessels in the coastal waters of the State; or
 
-&emsp;“(2) existing pumpout stations and waste reception facilities in the coastal waters of the State are adequate to meet those needs.
+&emsp;"(2) existing pumpout stations and waste reception facilities in the coastal waters of the State are adequate to meet those needs.
 
-#### “SEC. 5608. DEFINITIONS.
+#### "SEC. 5608. DEFINITIONS.
 
-“For the purposes of this subtitle the term:
+"For the purposes of this subtitle the term:
 
-&emsp;“(1) ‘coastal State’—
+&emsp;"(1) 'coastal State'—
 
-&emsp;&emsp;“(A) means a State of the United States in, or bordering on the Atlantic, Pacific, or Arctic Ocean; the Gulf of Mexico; Long Island Sound; or one or more of the Great Lakes;
+&emsp;&emsp;"(A) means a State of the United States in, or bordering on the Atlantic, Pacific, or Arctic Ocean; the Gulf of Mexico; Long Island Sound; or one or more of the Great Lakes;
 
-&emsp;&emsp;“(B) includes Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa; and
+&emsp;&emsp;"(B) includes Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa; and
 
-&emsp;&emsp;“(C) does not include a State for which the ratio of the number of recreational vessels in the State numbered under chapter 123 of title 46, United States Code, to number of miles of shoreline (as that term is defined in section 926.2(d) of title 15, Code of Federal Regulations, as in effect on January 1, 1991), is less than one.
+&emsp;&emsp;"(C) does not include a State for which the ratio of the number of recreational vessels in the State numbered under chapter 123 of title 46, United States Code, to number of miles of shoreline (as that term is defined in section 926.2(d) of title 15, Code of Federal Regulations, as in effect on January 1, 1991), is less than one.
 
-&emsp;“(2) ‘coastal waters’ means—
+&emsp;"(2) 'coastal waters' means—
 
-&emsp;&emsp;“(A) in the Great Lakes area, the waters within the territorial jurisdiction of the United States consisting of the Great Lakes, their connecting waters, harbors, roadsteads, and estuary-type areas such as bays, shallows, and marshes; and
+&emsp;&emsp;"(A) in the Great Lakes area, the waters within the territorial jurisdiction of the United States consisting of the Great Lakes, their connecting waters, harbors, roadsteads, and estuary-type areas such as bays, shallows, and marshes; and
 
-&emsp;&emsp;“(B) in other areas, those waters, adjacent to the shorelines, which contain a measurable percentage of sea water, including sounds, bay, lagoons, bayous, ponds, and estuaries.
+&emsp;&emsp;"(B) in other areas, those waters, adjacent to the shorelines, which contain a measurable percentage of sea water, including sounds, bay, lagoons, bayous, ponds, and estuaries.
 
-&emsp;“(3) ‘coastal zone’ has the same meaning that term has in section 304(1) of the Coastal Zone Management Act of 1972 (16 U.S.C. 1453(1));
+&emsp;"(3) 'coastal zone' has the same meaning that term has in section 304(1) of the Coastal Zone Management Act of 1972 (16 U.S.C. 1453(1));
 
-&emsp;“(4) ‘inland State’ means a State which is not a coastal state;
+&emsp;"(4) 'inland State' means a State which is not a coastal state;
 
-&emsp;“(5) ‘type III marine sanitation device’ means any equipment for installation on board a vessel which is specifically designed to receive, retain, and discharge human body wastes;
+&emsp;"(5) 'type III marine sanitation device' means any equipment for installation on board a vessel which is specifically designed to receive, retain, and discharge human body wastes;
 
-&emsp;“(6) ‘pumpout station’ means a facility that pumps or receives human body wastes out of type III marine sanitation devices installed on board vessels;
+&emsp;"(6) 'pumpout station' means a facility that pumps or receives human body wastes out of type III marine sanitation devices installed on board vessels;
 
-&emsp;“(7) ‘recreational vessel’ means a vessel—
+&emsp;"(7) 'recreational vessel' means a vessel—
 
-&emsp;&emsp;“(A) manufactured for operation, or operated, primarily for pleasure; or
+&emsp;&emsp;"(A) manufactured for operation, or operated, primarily for pleasure; or
 
-&emsp;&emsp;“(B) leased, rented, or chartered to another for the latter's pleasure; and
+&emsp;&emsp;"(B) leased, rented, or chartered to another for the latter's pleasure; and
 
-&emsp;“(8) ‘waste reception facility’ means a facility specifically designed to receive wastes from portable toilets carried on vessels, and does not include lavatories.”
+&emsp;"(8) 'waste reception facility' means a facility specifically designed to receive wastes from portable toilets carried on vessels, and does not include lavatories."
 
 #### Contiguous Zone of United States
 

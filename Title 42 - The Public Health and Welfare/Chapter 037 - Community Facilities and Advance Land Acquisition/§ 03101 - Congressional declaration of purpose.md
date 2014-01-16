@@ -6,9 +6,9 @@ The purpose of this chapter is to assist and encourage the communities of the Na
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–448 substituted “in the future for public purposes” for “in connection with the future construction of public works and facilities” in cl. (3).
+<b>1968</b>—Pub. L. 90–448 substituted "in the future for public purposes" for "in connection with the future construction of public works and facilities" in cl. (3).
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–431, §1, Oct. 6, 1970, 84 Stat. 886, provided: “That this Act \[amending sections 3102 and 3108 of this title and enacting provisions set out as a note under section 3108 of this title\] may be cited as the ‘Emergency Community Facilities Act of 1970’.”
+Pub. L. 91–431, §1, Oct. 6, 1970, 84 Stat. 886, provided: "That this Act \[amending sections 3102 and 3108 of this title and enacting provisions set out as a note under section 3108 of this title\] may be cited as the 'Emergency Community Facilities Act of 1970'."
 

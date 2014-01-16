@@ -10,7 +10,7 @@
 | [606\.](%C2%A7%2000606%20-%20Duties%20of%20Deputy%20Director.md) | Duties of Deputy Director. |
 | [607\.](%C2%A7%2000607%20-%20Practice%20of%20law%20prohibited.md) | Practice of law prohibited. |
 | [608\.](%C2%A7%2000608%20-%20Seal.md) | Seal. |
-| [609\.](%C2%A7%2000609%20-%20Courts%E2%80%99%20appointive%20power%20unaffected.md) | Courts’ appointive power unaffected. |
+| [609\.](%C2%A7%2000609%20-%20Courts%27%20appointive%20power%20unaffected.md) | Courts' appointive power unaffected. |
 | [610\.](%C2%A7%2000610%20-%20Courts%20defined.md) | Courts defined. |
 | [611\.](%C2%A7%2000611%20-%20Retirement%20of%20Director.md) | Retirement of Director. |
 | [612\.](%C2%A7%2000612%20-%20Judiciary%20Information%20Technology%20Fund.md) | Judiciary Automation Fund.<sup>1</sup> |
@@ -31,9 +31,9 @@
 
 <b>1967</b>—Pub. L. 90–219, title II, §201(b), Dec. 20, 1967, 81 Stat. 668, added item 611.
 
-<b>1959</b>—Pub. L. 86–370, §5(a)(2), Sept. 23, 1959, 73 Stat. 652, substituted “Deputy Director” for “Assistant Director” in items 601 and 606.
+<b>1959</b>—Pub. L. 86–370, §5(a)(2), Sept. 23, 1959, 73 Stat. 652, substituted "Deputy Director" for "Assistant Director" in items 601 and 606.
 
-<b>1949</b>—Act May 24, 1949, ch. 139, §72a, 63 Stat. 100, inserted an apostrophe after “Courts” and struck out comma after “Courts” in item 609.
+<b>1949</b>—Act May 24, 1949, ch. 139, §72a, 63 Stat. 100, inserted an apostrophe after "Courts" and struck out comma after "Courts" in item 609.
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 104–106 without corresponding amendment of chapter analysis.</i>
 
@@ -50,7 +50,7 @@
 - [&sect; 00606 - Duties of Deputy Director](%C2%A7%2000606%20-%20Duties%20of%20Deputy%20Director.md)
 - [&sect; 00607 - Practice of law prohibited](%C2%A7%2000607%20-%20Practice%20of%20law%20prohibited.md)
 - [&sect; 00608 - Seal](%C2%A7%2000608%20-%20Seal.md)
-- [&sect; 00609 - Courts&#8217; appointive power unaffected](%C2%A7%2000609%20-%20Courts%E2%80%99%20appointive%20power%20unaffected.md)
+- [&sect; 00609 - Courts' appointive power unaffected](%C2%A7%2000609%20-%20Courts%27%20appointive%20power%20unaffected.md)
 - [&sect; 00610 - Courts defined](%C2%A7%2000610%20-%20Courts%20defined.md)
 - [&sect; 00611 - Retirement of Director](%C2%A7%2000611%20-%20Retirement%20of%20Director.md)
 - [&sect; 00612 - Judiciary Information Technology Fund](%C2%A7%2000612%20-%20Judiciary%20Information%20Technology%20Fund.md)

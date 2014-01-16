@@ -18,13 +18,13 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §402(g), 63 Stat. 820.
 
-The words “Notwithstanding the foregoing provisions of this section”, “satisfactory Federal”, and “and receiving disability severance pay” are omitted as surplusage. The words “at the time of the determination” are substituted for the word “current”. The word “otherwise” is substituted for the words “in all other respects”.
+The words "Notwithstanding the foregoing provisions of this section", "satisfactory Federal", and "and receiving disability severance pay" are omitted as surplusage. The words "at the time of the determination" are substituted for the word "current". The word "otherwise" is substituted for the words "in all other respects".
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–106 substituted “section 12732” for “section 1332”, “section 12735” for “section 1335”, and “section 12739” for “chapter 71”.
+<b>1996</b>—Pub. L. 104–106 substituted "section 12732" for "section 1332", "section 12735" for "section 1335", and "section 12739" for "chapter 71".
 
-<b>1989</b>—Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Pub. L. 101–189 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
 #### Effective Date of 1996 Amendment
 

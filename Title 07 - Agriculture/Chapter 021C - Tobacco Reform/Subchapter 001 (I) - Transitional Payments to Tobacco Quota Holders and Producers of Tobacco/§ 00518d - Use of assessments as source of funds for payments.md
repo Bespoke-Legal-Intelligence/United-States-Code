@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Base period
 
-&emsp;The term “base period’ <sup>1</sup> means the one-year period ending the June 30 before the beginning of a fiscal year.
+&emsp;The term "base period' <sup>1</sup> means the one-year period ending the June 30 before the beginning of a fiscal year.
 
 #### (2) Gross domestic volume
 
-&emsp;The term “gross domestic volume” means the volume of tobacco products—
+&emsp;The term "gross domestic volume" means the volume of tobacco products—
 
 &emsp;&emsp;(A) removed (as defined by section 5702 of title 26); and
 
@@ -18,7 +18,7 @@ In this section:
 
 #### (3) Market share
 
-&emsp;The term “market share” means the share of each manufacturer or importer of a class of tobacco product (expressed as a decimal to the fourth place) of the total volume of domestic sales of the class of tobacco product during the base period for a fiscal year for an assessment under this section.
+&emsp;The term "market share" means the share of each manufacturer or importer of a class of tobacco product (expressed as a decimal to the fourth place) of the total volume of domestic sales of the class of tobacco product during the base period for a fiscal year for an assessment under this section.
 
 #### (b) Quarterly assessments
 
@@ -28,7 +28,7 @@ In this section:
 
 #### (2) Amounts
 
-&emsp;Beginning with the calendar quarter ending on December 31 of each of fiscal years 2005 through 2014, the assessment payments over each four-calendar quarter period shall be sufficient to cover—
+&emsp;Beginning with the calendar quarter ending on December 31 of each of fiscal years 2005through 2014, the assessment payments over each four-calendar quarter period shall be sufficient to cover—
 
 &emsp;&emsp;(A) the contract payments made under sections 518a and 518b of this title during that period; and
 
@@ -72,7 +72,7 @@ In this section:
 
 #### (2) Content
 
-&emsp;The notice shall include the following information with respect to the quarterly periodused by the Secretary in calculating the amount:
+&emsp;The notice shall include the following information with respect to the quarterly period used by the Secretary in calculating the amount:
 
 &emsp;&emsp;(A) The total combined assessment for all manufacturers and importers of tobacco products.
 
@@ -150,7 +150,7 @@ The amount of the assessment for each class of tobacco product specified in subs
 
 #### (3) Effect of failure to provide required information
 
-&emsp;Any person that knowingly fails to provide information required under this subsection or that provides false information under this subsection shall be subject to the penalties described in section 1003 of title 18. The Secretary may also assess against the person a civil penalty in an amount not to exceed two percent of the value of the kind of tobacco products manufactured or imported by theperson during the fiscal year in which the violation occurred, as determined by the Secretary.
+&emsp;Any person that knowingly fails to provide information required under this subsection or that provides false information under this subsection shall be subject to the penalties described in section 1003 of title 18. The Secretary may also assess against the person a civil penalty in an amount not to exceed two percent of the value of the kind of tobacco products manufactured or imported by the person during the fiscal year in which the violation occurred, as determined by the Secretary.
 
 #### (i) Challenge to assessment
 
@@ -182,7 +182,7 @@ The amount of the assessment for each class of tobacco product specified in subs
 
 #### (1) In general
 
-&emsp;Any manufacturer or importer aggrieved by a determination of the Secretary with respect to the amount of any assessment may seek review of the determination in the United States District Court for the District of Columbia or for the district in which the manufacturer or importer resides or has its principal place of business at any time following exhaustion of the administrative remedies available under subsection (i).
+&emsp;Any manufacturer or importer aggrieved by a determination of the Secretary with respect to the amount of any assessment may seek review of the determination in the United States District Court for the District of Columbia or for the district in which the manufacturer orimporter resides or has its principal place of business at any time following exhaustion of the administrative remedies available under subsection (i).
 
 #### (2) Time limits
 
@@ -204,5 +204,5 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “chapter”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "chapter".</i>
 

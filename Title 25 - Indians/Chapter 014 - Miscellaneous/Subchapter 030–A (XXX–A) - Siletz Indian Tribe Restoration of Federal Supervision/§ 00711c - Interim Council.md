@@ -2,7 +2,7 @@
 
 #### (a) Nomination and election of members; notice; meetings; ballot requirements; approval by Secretary
 
-Within forty-five days after November 18, 1977, the Secretary shall announce the date of a general council meeting of the tribe to nominate candidates for election to the Interim Council. Such general council meeting shall be held within sixty days after November 18, 1977. Within forty-five days after such general council meeting the Secretary shall hold an election by secret ballot, absentee balloting to be permitted, to elect nine members of the tribe to the Interim Council from among the nominees submitted to him from such general council meeting. The Secretary shall assure that notice of the time, place, and purpose of such meeting and election shall be provided to members described in section 711b(d) of this title at least fifteen days before such general meeting and election. The ballot shall provide for write-in votes. The Secretary shall approve the Interim Council elected pursuant to this section if he is satisfied that the requirements of this section relating to the nominating and election process have been met. If he is not so satisfied, he shall hold another election under this section, with the general council meeting to nominate candidates for election to the Interim Council to be held within sixty days after such election.
+Within forty-five days after November 18, 1977, the Secretary shall announce the date of a general council meeting of the tribe to nominate candidates for election to the Interim Council. Such general council meeting shall be held within sixty days after November 18, 1977. Within forty-five days after such general council meeting the Secretary shall hold an election by secret ballot, absentee balloting to be permitted, to elect nine members of the tribe to the Interim Council from among the nominees submitted to him from such general council meeting. The Secretary shall assure that notice of the time, place, and purpose of such meeting and election shall be provided to members described in section 711b(d) of this title at least fifteen days before such general meeting and election.The ballot shall provide for write-in votes. The Secretary shall approve the Interim Council elected pursuant to this section if he is satisfied that the requirements of this section relating to the nominating and election process have been met. If he is not so satisfied, he shall hold another election under this section, with the general council meeting to nominate candidates for election to the Interim Council to be held within sixty days after such election.
 
 #### (b) Powers of Council
 
@@ -10,11 +10,11 @@ The Interim Council shall represent the tribe and its members in the implementat
 
 #### (c) Council vacancies; notice; meeting; election
 
-Within thirty days after receiving notice of a vacancy on the Interim Council, the InterimCouncil shall hold a general council meeting for the purpose of electing a person to fill such vacancy. The Interim Council shall provide notice of the time, place, and purpose of such meeting and election to members described in section 711b(d) of this title at least ten days before such general meeting and election. The person nominated to fill such vacancy at the general council meeting who received the highest number of votes in the election shall fill such vacancy.
+Within thirty days after receiving notice of a vacancy on the Interim Council, the Interim Council shall hold a general council meeting for the purpose of electing a person to fill such vacancy. The Interim Council shall provide notice of the time, place, and purpose of such meeting and election to members described in section 711b(d) of this title at least ten days before such general meeting and election. The person nominated to fill such vacancy at the general council meeting who received the highest number of votes in the election shall fill such vacancy.
 
 (Pub. L. 95–195, §5, Nov. 18, 1977, 91 Stat. 1416; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 

@@ -22,7 +22,7 @@ Historical and Revision Notes
 
 21302
 
-36:20 (1st sentence words beginning with “for the promotion”).
+36:20 (1st sentence words beginning with "for the promotion").
 
-Jan. 4, 1889, ch. 20, (1st sentence words beginning with “for the promotion”), 25 Stat. 640.
+Jan. 4, 1889, ch. 20, (1st sentence words beginning with "for the promotion"), 25 Stat. 640.
 

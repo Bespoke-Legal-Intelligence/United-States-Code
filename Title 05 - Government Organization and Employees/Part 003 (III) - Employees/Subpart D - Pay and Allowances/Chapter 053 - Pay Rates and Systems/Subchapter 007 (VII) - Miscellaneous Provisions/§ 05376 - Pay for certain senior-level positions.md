@@ -26,7 +26,7 @@
 
 (4) No employee may suffer a reduction in pay by reason of transfer from an agency with an applicable maximum rate of pay prescribed under paragraph (3) to an agency with an applicable maximum rate of pay prescribed under paragraph (1)(B).
 
-(Added Pub. L. 101–509, title V, §529 \[title I, §102(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1443; amended Pub. L. 110–372, §2(b), Oct. 8, 2008, 122 Stat. 4044.)
+(Added Pub. L. 101–509, title V, §529 \[title I, §102(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1443;amended Pub. L. 110–372, §2(b), Oct. 8, 2008, 122 Stat. 4044.)
 
 #### References in Text
 

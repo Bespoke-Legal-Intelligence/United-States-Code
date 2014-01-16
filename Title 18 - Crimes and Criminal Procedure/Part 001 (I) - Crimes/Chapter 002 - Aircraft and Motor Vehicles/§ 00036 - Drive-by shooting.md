@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “major drug offense” means—
+Definition.—In this section, "major drug offense" means—
 
 &emsp;(1) a continuing criminal enterprise punishable under section 408(c) of the Controlled Substances Act (21 U.S.C. 848(c));
 
@@ -24,7 +24,7 @@ Offense and Penalties.—(1) A person who, in furtherance or to escape detection
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1), (2). Pub. L. 104–294 substituted “408(c)” for “403(c)” in par. (1) and “Export” for “Export Control” in par. (2).
+<b>1996</b>—Subsec. (a)(1), (2). Pub. L. 104–294 substituted "408(c)" for "403(c)" in par. (1) and "Export" for "Export Control" in par. (2).
 
 #### Effective Date of 1996 Amendment
 
@@ -32,7 +32,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Short Title
 
-Pub. L. 103–322, title VI, §60008(a), Sept. 13, 1994, 108 Stat. 1971, provided that: “This section \[enacting this section\] may be cited as the ‘Drive-By Shooting Prevention Act of 1994’.”
+Pub. L. 103–322, title VI, §60008(a), Sept. 13, 1994, 108 Stat. 1971, provided that: "This section \[enacting this section\] may be cited as the 'Drive-By Shooting Prevention Act of 1994'."
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “or”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "or".</i>
 

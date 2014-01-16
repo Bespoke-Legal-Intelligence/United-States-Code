@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 24, 1912, ch. 355, §1 (10th par. on p. 444), 37 Stat. 444.
 
-The words “On and after August 24, 1912” are omitted as obsolete.
+The words "On and after August 24, 1912" are omitted as obsolete.
 

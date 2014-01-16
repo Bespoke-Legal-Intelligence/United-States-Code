@@ -26,5 +26,5 @@ Section 3137, Pub. L. 89–136, title I, §107, as added Pub. L. 94–487, title
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–373 designated existing provisions as subsec. (a), inserted heading, inserted “Indian tribes,” after “districts,”, and added subsec. (b).
+<b>2004</b>—Pub. L. 108–373 designated existing provisions as subsec. (a), inserted heading, inserted "Indian tribes," after "districts,", and added subsec. (b).
 

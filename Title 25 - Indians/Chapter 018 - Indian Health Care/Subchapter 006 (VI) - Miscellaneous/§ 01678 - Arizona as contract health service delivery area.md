@@ -6,7 +6,7 @@ The State of Arizona shall be designated as a contract health service delivery a
 
 #### (b) Maintenance of services
 
-The Service shall not curtail any health care services provided to Indians residing on reservations in the State of Arizona if the curtailment is due to the provision of contract services inthat State pursuant to the designation of the State as a contract health service delivery area by subsection (a).
+The Service shall not curtail any health care services provided to Indians residing on reservations in the State of Arizona if the curtailment is due to the provision of contract services in that State pursuant to the designation of the State as a contract health service delivery area by subsection (a).
 
 (Pub. L. 94–437, title VIII, §808, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 

@@ -2,11 +2,11 @@
 
 #### (a) Establishment
 
-There is hereby established a Central European Small Business Enterprise Development Commission (hereinafter in this section referred to as the “Commission”). The Commission shall be comprised of a representative of each of the following: the Small Business Administration, the Association of American Universities, and the Association of Small Business Development Centers.
+There is hereby established a Central European Small Business Enterprise Development Commission (hereinafter in this section referred to as the "Commission"). The Commission shall be comprised of a representative of each of the following: the Small Business Administration, the Association of American Universities, and the Association of Small Business Development Centers.
 
 #### (b) Management and technical assistance to designated Central European countries
 
-The Commission shall develop in Czechoslovakia, Poland and Hungary (hereinafter referred to as “designated Central European countries”) a self-sustaining system to provide management and technical assistance to small business owners.
+The Commission shall develop in Czechoslovakia, Poland and Hungary (hereinafter referred to as "designated Central European countries") a self-sustaining system to provide management and technical assistance to small business owners.
 
 &emsp;(1) Not later than 90 days after November 5, 1990, the Commission, in consultation with the Agency for International Development, shall enter <sup>1</sup> a contract with one or more entities to—
 
@@ -56,9 +56,9 @@ There are hereby authorized to be appropriated to the Small Business Administrat
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–403 substituted “, $2,000,000 for each of fiscal years 1993 and 1994, and $1,000,000 for fiscal year 1995” for “and $2,000,000 for each of fiscal years 1993 and 1994”.
+<b>1994</b>—Pub. L. 103–403 substituted ", $2,000,000 for each of fiscal years 1993 and 1994, and $1,000,000 for fiscal year 1995" for "and $2,000,000 for each of fiscal years 1993 and 1994".
 
-<b>1993</b>—Subsec. (i). Pub. L. 103–81 substituted “$2,000,000 for each of fiscal years 1993 and 1994” for “$8,000,000 for fiscal year 1993”.
+<b>1993</b>—Subsec. (i). Pub. L. 103–81 substituted "$2,000,000 for each of fiscal years 1993 and 1994" for "$8,000,000 for fiscal year 1993".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “enter into”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "enter into".</i>
 

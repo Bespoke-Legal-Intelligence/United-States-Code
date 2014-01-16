@@ -46,25 +46,25 @@ In selecting among applicants for grants under subsection (a), the Secretary sha
 
 &emsp;&emsp;(B) carry out projects that serve diverse populations of runaway or homeless youth.
 
-(Pub. L. 93–415, title III, §343, as added Pub. L. 102–586, §3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5023;amended Pub. L. 106–71, §3(h), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §113, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, §5, Oct. 8, 2008, 122 Stat. 4069.)
+(Pub. L. 93–415, title III, §343, as added Pub. L. 102–586, §3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5023; amended Pub. L. 106–71, §3(h), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §113, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, §5, Oct. 8, 2008, 122 Stat. 4069.)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–378, §5(1)(A), substituted “priority” for “special consideration” in introductory provisions.
+<b>2008</b>—Subsec. (b). Pub. L. 110–378, §5(1)(A), substituted "priority" for "special consideration" in introductory provisions.
 
-Subsec. (b)(8). Pub. L. 110–378, §5(1)(B), substituted “to quality health” for “to health” and “behavioral health care” for “mental health care” and struck out “and” at end.
+Subsec. (b)(8). Pub. L. 110–378, §5(1)(B), substituted "to quality health" for "to health" and "behavioral health care" for "mental health care" and struck out "and" at end.
 
-Subsec. (b)(9). Pub. L. 110–378, §5(1)(C), substituted “, including access to educational and workforce programs to achieve outcomes such as decreasing secondary school dropout rates, increasing rates of attaining a secondary school diploma or its recognized equivalent, or increasing placement and retention in postsecondary education or advanced workforce training programs; and” for period at end.
+Subsec. (b)(9). Pub. L. 110–378, §5(1)(C), substituted ", including access to educational and workforce programs to achieve outcomes such as decreasing secondary school dropout rates, increasing rates of attaining a secondary school diploma or its recognized equivalent, or increasing placement and retention in postsecondary education or advanced workforce training programs; and" for period at end.
 
 Subsec. (b)(10). Pub. L. 110–378, §5(1)(D), added par. (10).
 
-Subsec. (c). Pub. L. 110–378, §5(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to applicants who have experience working with runaway youth or homeless youth.”
+Subsec. (c). Pub. L. 110–378, §5(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to applicants who have experience working with runaway youth or homeless youth."
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–96 inserted “regarding activities under this subchapter” after “service projects”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–96 inserted "regarding activities under this subchapter" after "service projects".
 
-<b>1999</b>—Pub. L. 106–71, §3(h)(1), inserted “evaluation,” after “research,” in section catchline.
+<b>1999</b>—Pub. L. 106–71, §3(h)(1), inserted "evaluation," after "research," in section catchline.
 
-Subsec. (a). Pub. L. 106–71, §3(h)(2), inserted “evaluation,” after “research,”.
+Subsec. (a). Pub. L. 106–71, §3(h)(2), inserted "evaluation," after "research,".
 
-Subsec. (b)(2) to (10). Pub. L. 106–71, §3(h)(3), redesignated pars. (3) to (10) as (2) to (9), respectively, and struck out former par. (2) which read as follows: “home-based and street-based services for, and outreach to, runaway youth and homeless youth;”.
+Subsec. (b)(2) to (10). Pub. L. 106–71, §3(h)(3), redesignated pars. (3) to (10) as (2) to (9), respectively, and struck out former par. (2) which read as follows: "home-based and street-based services for, and outreach to, runaway youth and homeless youth;".
 

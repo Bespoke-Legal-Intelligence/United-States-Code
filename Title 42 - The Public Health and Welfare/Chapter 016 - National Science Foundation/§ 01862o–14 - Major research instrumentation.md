@@ -16,7 +16,7 @@ In addition to the acquisition of instrumentation and equipment, funds made avai
 
 #### (2) Exceptions
 
-&emsp;Institutions of higher education that are not Ph.D.-granting institutions are exempt from the cost sharing requirement in paragraph (1), and the Director may reduce or waive the cost sharing requirement for—
+&emsp;Institutions of higher education that are not Ph.D.-granting institutions are exempt fromthe cost sharing requirement in paragraph (1), and the Director may reduce or waive the cost sharing requirement for—
 
 &emsp;&emsp;(A) institutions—
 

@@ -130,7 +130,7 @@ Agency Reporting.—Each agency shall—
 
 &emsp;&emsp;(F) financial management systems under the Federal Financial Management Improvement Act (31 U.S.C. 3512 note); and
 
-&emsp;&emsp;(G) internal accounting and administrative controls under section 3512 of title 31,<sup>3</sup> (known as the “Federal Managers Financial Integrity Act”); and
+&emsp;&emsp;(G) internal accounting and administrative controls under section 3512 of title 31,<sup>3</sup> (known as the "Federal Managers Financial Integrity Act"); and
 
 &emsp;(3) report any significant deficiency in a policy, procedure, or practice identified under paragraph (1) or (2)—
 
@@ -168,9 +168,9 @@ Committee on Government Reform of House of Representatives changed to Committee 
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “I”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "I".</i>
 
 <i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

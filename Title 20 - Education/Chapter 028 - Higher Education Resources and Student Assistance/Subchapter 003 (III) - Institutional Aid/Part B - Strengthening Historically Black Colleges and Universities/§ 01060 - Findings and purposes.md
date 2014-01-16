@@ -50,7 +50,7 @@ Sec. 2. <i>White House Initiative on HBCUs.</i>
 
 (a) <i>Establishment</i>. There is established the White House Initiative on Historically Black Colleges and Universities (Initiative), to be housed in the Department of Education (Department).
 
-(b) <i>Mission and Functions</i>. The Initiative shall work with executive departments, agencies, and offices, the private sector, educational associations, philanthropic organizations, and other partners to increase the capacity of HBCUs to provide the highest-quality education to a greater number of students, and to take advantage of these institutions’ capabilities in serving the Nation's needs through five core tasks:
+(b) <i>Mission and Functions</i>. The Initiative shall work with executive departments, agencies, and offices, the private sector, educational associations, philanthropic organizations, and other partners to increase the capacity of HBCUs to provide the highest-quality education to a greater number of students, and to take advantage of these institutions' capabilities in serving the Nation's needs through five core tasks:
 
 (i) strengthening the capacity of HBCUs to participate in Federal programs;
 
@@ -68,7 +68,7 @@ Sec. 2. <i>White House Initiative on HBCUs.</i>
 
 &emsp;(i) establish how the department or agency intends to increase the capacity of HBCUs to compete effectively for grants, contracts, or cooperative agreements and to encourage HBCUs to participate in Federal programs;
 
-&emsp;(ii) identify Federal programs and initiatives in which HBCUs may be either underserved or underused as national resources, and improve HBCUs’ participation therein; and
+&emsp;(ii) identify Federal programs and initiatives in which HBCUs may be either underserved or underused as national resources, and improve HBCUs' participation therein; and
 
 &emsp;(iii) encourage public-sector, private-sector, and community involvement in improving the overall capacity of HBCUs.
 
@@ -102,7 +102,7 @@ Sec. 3. <i>President's Board of Advisors on HBCUs.</i>
 
 (d) <i>Report</i>. As part of the annual report of the Initiative, the Board shall report to the President and the Secretary on their progress in carrying out its duties under this section.
 
-Sec. 4. <i>General Provisions</i>. (a) For the purposes of this order, “historically black colleges and universities” shall mean those institutions listed in 34 C.F.R. 608.2.
+Sec. 4. <i>General Provisions</i>. (a) For the purposes of this order, "historically black colleges and universities" shall mean those institutions listed in 34 C.F.R. 608.2.
 
 (b) This order shall apply to executive departments and agencies designated by the Secretary. Those departments and agencies shall provide timely reports and such information as is required to effectively carry out the objectives of this order.
 
@@ -140,7 +140,9 @@ Term of President's Board of Advisors on Historically Black Colleges and Univers
 
 Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Determinations Regarding President's Board of Advisors
 

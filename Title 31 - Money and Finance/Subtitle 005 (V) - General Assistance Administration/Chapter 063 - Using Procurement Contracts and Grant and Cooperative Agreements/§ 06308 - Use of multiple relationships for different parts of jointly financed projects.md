@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Feb. 3, 1978, Pub. L. 95–224, §10(c), 92 Stat. 6.
 
-The word “financed” is substituted for “funded”, and the word “amounts” is substituted for “funds”, for consistency in the revised title.
+The word "financed" is substituted for "funded", and the word "amounts" is substituted for "funds", for consistency in the revised title.
 

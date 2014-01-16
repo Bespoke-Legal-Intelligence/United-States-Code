@@ -22,11 +22,11 @@ Duties.—(1) The Legal Counsel of the Chairman of the Joint Chiefs of Staff sha
 
 #### Amendments
 
-<b>2009</b>—Subsec. (c). Pub. L. 111–84 substituted “be appointed in the regular” for “, while so serving, hold the”.
+<b>2009</b>—Subsec. (c). Pub. L. 111–84 substituted "be appointed in the regular" for ", while so serving, hold the".
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–417 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title V, §501(b), Oct. 28, 2009, 123 Stat. 2272, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 28, 2009\], and shall apply with respect to individuals appointed as Legal Counsel to the Chairman of the Joint Chiefs of Staff on or after that date.”
+Pub. L. 111–84, div. A, title V, §501(b), Oct. 28, 2009, 123 Stat. 2272, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 28, 2009\], and shall apply with respect to individuals appointed as Legal Counsel to the Chairman of the Joint Chiefs of Staff on or after that date."
 

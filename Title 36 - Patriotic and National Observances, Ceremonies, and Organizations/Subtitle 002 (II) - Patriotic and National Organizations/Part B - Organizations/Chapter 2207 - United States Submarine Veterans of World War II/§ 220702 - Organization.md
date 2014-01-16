@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—United States Submarine Veterans of World War II (in this chapter, the “corporation”), a nonprofit corporation incorporated in New Jersey and Colorado, is a federally chartered corporation.
+Federal Charter.—United States Submarine Veterans of World War II (in this chapter, the "corporation"), a nonprofit corporation incorporated in New Jersey and Colorado, is a federally chartered corporation.
 
 (b)
 

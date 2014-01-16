@@ -6,33 +6,33 @@ Subject to the authority, direction, and control of the Secretary of Defense, th
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology” in section catchline and in text.
+<b>2001</b>—Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology" in section catchline and in text.
 
-<b>1998</b>—Pub. L. 105–261 inserted at end “The Under Secretary shall prescribe policies and requirements for the educational programs of the defense acquisition university structure established under section 1746 of this title.”
+<b>1998</b>—Pub. L. 105–261 inserted at end "The Under Secretary shall prescribe policies and requirements for the educational programs of the defense acquisition university structure established under section 1746 of this title."
 
-<b>1993</b>—Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition” in section catchline and in text.
+<b>1993</b>—Pub. L. 103–160 substituted "Under Secretary of Defense for Acquisition and Technology" for "Under Secretary of Defense for Acquisition" in section catchline and in text.
 
 #### Quick-Reaction Special Projects Acquisition Team
 
 Pub. L. 107–314, div. A, title VIII, §807, Dec. 2, 2002, 116 Stat. 2608, provided that:
 
-“(a)
+"(a)
 
 Establishment.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall establish a team of highly qualified acquisition professionals who shall be available to advise the Under Secretary on actions that can be taken to expedite the acquisition of urgently needed systems.
 
-“(b)
+"(b)
 
 Duties.—The issues on which the team may provide advice shall include the following:
 
-&emsp;“(1) Industrial base issues, including the limited availability of suppliers.
+&emsp;"(1) Industrial base issues, including the limited availability of suppliers.
 
-&emsp;“(2) Technology development and technology transition issues.
+&emsp;"(2) Technology development and technology transition issues.
 
-&emsp;“(3) Issues of acquisition policy, including the length of the acquisition cycle.
+&emsp;"(3) Issues of acquisition policy, including the length of the acquisition cycle.
 
-&emsp;“(4) Issues of testing policy and ensuring that weapon systems perform properly in combat situations.
+&emsp;"(4) Issues of testing policy and ensuring that weapon systems perform properly in combat situations.
 
-&emsp;“(5) Issues of procurement policy, including the impact of socio-economic requirements.
+&emsp;"(5) Issues of procurement policy, including the impact of socio-economic requirements.
 
-&emsp;“(6) Issues relating to compliance with environmental requirements.”
+&emsp;"(6) Issues relating to compliance with environmental requirements."
 

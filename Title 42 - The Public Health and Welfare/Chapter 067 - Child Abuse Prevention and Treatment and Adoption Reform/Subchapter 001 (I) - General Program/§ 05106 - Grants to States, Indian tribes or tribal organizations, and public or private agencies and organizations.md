@@ -8,7 +8,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 &emsp;The Secretary may award grants to public or private organizations under this subsection—
 
-&emsp;&emsp;(A) for the training of professional and paraprofessional personnel in the fields of health care, medicine, law enforcement, judiciary, social work and child protection, education, child care, and other relevant fields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem, who are engaged in, or intend to work in, the field of prevention, identification, and treatment of child abuse and neglect, including the links between domestic violence and child abuse and neglect;
+&emsp;&emsp;(A) for the training of professional and paraprofessional personnel in the fields of health care, medicine, law enforcement, judiciary, social work and child protection, education, child care, and other relevantfields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem, who are engaged in, or intend to work in, the field of prevention, identification, and treatment of child abuse and neglect, including the links between domestic violence and child abuse and neglect;
 
 &emsp;&emsp;(B) to improve the recruitment, selection, and training of volunteers serving in public and private children, youth, and family service organizations in order to prevent child abuse and neglect;
 
@@ -58,7 +58,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 #### (5) Linkages among child protective service agencies and public health, mental health, substance abuse, developmental disabilities, and domestic violence service agencies
 
-&emsp;The Secretary may award grants to entities that provide linkages among State or local child protective service agencies and public health, mental health, substance abuse, developmental disabilities, and domestic violence service agencies, and entities that carry out community-based programs, for the purpose of establishing linkages that are designed to ensure that a greater number of substantiated victims of child maltreatment have their physical health, mental health, and developmental needs appropriately diagnosed and treated, in accordance with all applicable Federal and State privacy laws.
+&emsp;The Secretary may award grants to entities that provide linkages among State or local child protective service agencies and public health, mental health, substance abuse, developmental disabilities, and domestic violence service agencies, and entities that carry out community-based programs, for the purpose of establishing linkages that are designed to ensure that a greater number of substantiated victims of child maltreatment have theirphysical health, mental health, and developmental needs appropriately diagnosed and treated, in accordance with all applicable Federal and State privacy laws.
 
 #### (6) Collaborations between child protective service entities and domestic violence service entities
 
@@ -132,7 +132,7 @@ In addition to grants or contracts made under subsection (a) of this section, gr
 
 In making grants for projects under this section, the Secretary shall require all such projects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects. In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.
 
-(Pub. L. 93–247, title I, §105, formerly §7, Jan. 31, 1974, 88 Stat. 8; Pub. L. 98–457, title I, §106, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 108; renumbered title I, §106, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §§113, 141(1), (2), (5), May 28, 1992, 106 Stat. 191, 199, 200; renumbered §105 and amended Pub. L. 104–235, title I, §§106, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3069, 3079; Pub. L. 108–36, title I, §113, June 25, 2003, 117 Stat. 805; Pub. L. 111–320, title I, §114, Dec. 20, 2010, 124 Stat. 3465.)
+(Pub. L. 93–247, title I, §105, formerly §7, Jan. 31, 1974, 88 Stat. 8; Pub. L. 98–457, title I, §106, Oct.9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 108; renumbered title I, §106, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §§113, 141(1), (2), (5), May 28, 1992, 106 Stat. 191, 199, 200; renumbered §105 and amended Pub. L. 104–235, title I, §§106, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3069, 3079; Pub. L. 108–36, title I, §113, June 25, 2003, 117 Stat. 805; Pub. L. 111–320, title I, §114, Dec. 20, 2010, 124 Stat. 3465.)
 
 #### Prior Provisions
 
@@ -140,101 +140,101 @@ A prior section 105 of Pub. L. 93–247 was renumbered section 104 and is classi
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–320, §114(1), substituted “States, Indian tribes or tribal organizations,” for “States” in section catchline.
+<b>2010</b>—Pub. L. 111–320, §114(1), substituted "States, Indian tribes or tribal organizations," for "States" in section catchline.
 
-Subsec. (a). Pub. L. 111–320, §114(2)(A), substituted “entities that are States, Indian tribes or tribal organizations, or” for “States,” and “such entities” for “such agencies or organizations” in introductory provisions.
+Subsec. (a). Pub. L. 111–320, §114(2)(A), substituted "entities that are States, Indian tribes or tribal organizations, or" for "States," and "such entities" for "such agencies or organizations" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 111–320, §114(2)(B)(i), substituted “this subsection” for “this section” in introductory provisions.
+Subsec. (a)(1). Pub. L. 111–320, §114(2)(B)(i), substituted "this subsection" for "this section" in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 111–320, §114(2)(B)(ii), inserted “health care,” before “medicine,”, “child care,” before “and other relevant fields,”, and “and neglect” before semicolon at end.
+Subsec. (a)(1)(A). Pub. L. 111–320, §114(2)(B)(ii), inserted "health care," before "medicine,", "child care," before "and other relevant fields,", and "and neglect" before semicolon at end.
 
-Subsec. (a)(1)(B). Pub. L. 111–320, §114(2)(B)(iii), inserted a comma after “youth”.
+Subsec. (a)(1)(B). Pub. L. 111–320, §114(2)(B)(iii), inserted a comma after "youth".
 
-Subsec. (a)(1)(D). Pub. L. 111–320, §114(2)(B)(iv), substituted “enhance linkages among” for “support the enhancement of linkages between”, “entities providing physical and mental health services, community resources, and developmental disability agencies, to improve screening, forensic diagnosis, and health and developmental evaluations, and for partnerships” for “including physical and mental health services, to improve forensic diagnosis and health evaluations and for innovative partnerships”, and “support the coordinated use of” for “offer creative approaches to using”.
+Subsec. (a)(1)(D). Pub. L. 111–320, §114(2)(B)(iv), substituted "enhance linkages among" for "support the enhancement of linkages between", "entities providing physical and mental health services, community resources, and developmental disability agencies, to improve screening, forensic diagnosis, and health and developmental evaluations, and for partnerships" for "including physical and mental health services, to improve forensic diagnosis and health evaluations and for innovative partnerships", and "support the coordinated use of" for "offer creative approaches to using".
 
-Subsec. (a)(1)(E) to (M). Pub. L. 111–320, §114(2)(B)(v) to (xi), added subpars. (E), (H), and (M), redesignated former subpars. (E) to (J) as (F), (G), and (I) to (L), respectively, in subpar. (J), substituted “other public and private welfare agencies, and agencies that provide early intervention services” for “and other public and private welfare agencies”, and, in subpar. (L), substituted “infants or toddlers with disabilities” for “disabled infants” in two places.
+Subsec. (a)(1)(E) to (M). Pub. L. 111–320, §114(2)(B)(v) to (xi), added subpars. (E), (H), and (M), redesignated former subpars. (E) to (J) as (F), (G), and (I) to (L), respectively, in subpar. (J), substituted "other public and private welfare agencies, and agencies that provide early intervention services" for "and other public and private welfare agencies", and, in subpar. (L), substituted "infants or toddlers with disabilities" for "disabled infants" in two places.
 
-Subsec. (a)(2)(C). Pub. L. 111–320, §114(2)(C), substituted “when” for “where”.
+Subsec. (a)(2)(C). Pub. L. 111–320, §114(2)(C), substituted "when" for "where".
 
-Subsec. (a)(3). Pub. L. 111–320, §114(2)(D), inserted “, leadership,” after “mutual support”.
+Subsec. (a)(3). Pub. L. 111–320, §114(2)(D), inserted ", leadership," after "mutual support".
 
-Subsec. (a)(4). Pub. L. 111–320, §114(2)(E), (F), struck out subpar. (A) designation and heading “In general” and struck out “in not more than 10 States” after “public and private entities”.
+Subsec. (a)(4). Pub. L. 111–320, §114(2)(E), (F), struck out subpar. (A) designation and heading "In general" and struck out "in not more than 10 States" after "public and private entities".
 
-Subsec. (a)(5). Pub. L. 111–320, §114(2)(G), in heading, substituted “among” for “between” and “substance abuse, developmental disabilities, and domestic violence service” for “and developmental disabilities” and, in text, substituted “among” for “between”, “mental health, substance abuse, developmental disabilities, and domestic violence service agencies, and entities that carry out community-based programs, for” for “mental health, and developmental disabilities agencies, for”, and “ensure” for “help assure”.
+Subsec. (a)(5). Pub. L. 111–320, §114(2)(G), in heading, substituted "among" for "between" and "substance abuse, developmental disabilities, and domestic violence service" for "and developmental disabilities" and, in text, substituted "among" for "between", "mental health, substance abuse, developmental disabilities, and domestic violence service agencies, and entities that carry out community-based programs, for" for "mental health, and developmental disabilities agencies, for", and "ensure" for "help assure".
 
 Subsec. (a)(6). Pub. L. 111–320, §114(2)(H), added par. (6).
 
-Subsec. (b)(4)(A)(ii). Pub. L. 111–320, §114(3)(A), substituted “victims of child abuse or neglect” for “neglected or abused”.
+Subsec. (b)(4)(A)(ii). Pub. L. 111–320, §114(3)(A), substituted "victims of child abuse or neglect" for "neglected or abused".
 
-Subsec. (b)(4)(B)(ii). Pub. L. 111–320, §114(3)(B), substituted “child abuse and neglect” for “abuse or neglect”.
+Subsec. (b)(4)(B)(ii). Pub. L. 111–320, §114(3)(B), substituted "child abuse and neglect" for "abuse or neglect".
 
-Subsec. (b)(4)(C)(iii). Pub. L. 111–320, §114(3)(B), (C), substituted “has been a victim of child abuse or neglect” for “has been neglected or abused” and “possibility of child abuse and neglect” for “possibility of abuse or neglect”.
+Subsec. (b)(4)(C)(iii). Pub. L. 111–320, §114(3)(B), (C), substituted "has been a victim of child abuse or neglect" for "has been neglected or abused" and "possibility of child abuse and neglect" for "possibility of abuse or neglect".
 
-Subsec. (b)(4)(D). Pub. L. 111–320, §114(3)(D), substituted “grantee is an” for “grantee is a” in introductory provisions.
+Subsec. (b)(4)(D). Pub. L. 111–320, §114(3)(D), substituted "grantee is an" for "grantee is a" in introductory provisions.
 
-<b>2003</b>—Pub. L. 108–36, §113(d), substituted “Grants to States and public or private agencies and organizations” for “Grants to public agencies and nonprofit private organizations for demonstration programs and projects” as section catchline.
+<b>2003</b>—Pub. L. 108–36, §113(d), substituted "Grants to States and public or private agencies and organizations" for "Grants to public agencies and nonprofit private organizations for demonstration programs and projects" as section catchline.
 
-Subsec. (a). Pub. L. 108–36, §113(a)(2), in introductory provisions, inserted “States,” after “contracts with,” and struck out “nonprofit” after “private” and “time limited, demonstration” after “organizations) for”.
+Subsec. (a). Pub. L. 108–36, §113(a)(2), in introductory provisions, inserted "States," after "contracts with," and struck out "nonprofit" after "private" and "time limited, demonstration" after "organizations) for".
 
-Pub. L. 108–36, §113(a)(1), substituted “Grants for” for “Demonstration” in heading.
+Pub. L. 108–36, §113(a)(1), substituted "Grants for" for "Demonstration" in heading.
 
-Subsec. (a)(1). Pub. L. 108–36, §113(a)(3)(A), struck out “nonprofit” after “public or private” in introductory provisions.
+Subsec. (a)(1). Pub. L. 108–36, §113(a)(3)(A), struck out "nonprofit" after "public or private" in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 108–36, §113(a)(3)(B), substituted “law enforcement, judiciary, social work and child protection, education, and other relevant fields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem,” for “law, education, social work, and other relevant fields”.
+Subsec. (a)(1)(A). Pub. L. 108–36, §113(a)(3)(B), substituted "law enforcement, judiciary, social work and child protection, education, and other relevant fields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem," for "law, education, social work, and other relevant fields".
 
-Subsec. (a)(1)(B). Pub. L. 108–36, §113(a)(3)(C), substituted “children, youth and family service organizations in order to prevent child abuse and neglect;” for “nonprofit children, youth and family service organizations in order to prevent child abuse and neglect through collaborative analysis of current recruitment, selection, and training programs and development of model programs for dissemination and replication nationally; and”.
+Subsec. (a)(1)(B). Pub. L. 108–36, §113(a)(3)(C), substituted "children, youth and family service organizations in order to prevent child abuse and neglect;" for "nonprofit children, youth and family service organizations in order to prevent child abuse and neglect through collaborative analysis of current recruitment, selection, and training programs and development of model programs for dissemination and replication nationally; and".
 
 Subsec. (a)(1)(D) to (J). Pub. L. 108–36, §113(a)(3)(D), (E), added subpars. (D) to (J).
 
 Subsec. (a)(2). Pub. L. 108–36, §113(a)(5), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 108–36, §113(a)(6), substituted “organizations” for “nonprofit organizations (such as Parents Anonymous)”.
+Subsec. (a)(3). Pub. L. 108–36, §113(a)(6), substituted "organizations" for "nonprofit organizations (such as Parents Anonymous)".
 
 Pub. L. 108–36, §113(a)(4), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 108–36, §113(a)(7), added par. heading and struck out former heading “Other innovative programs and projects”, redesignated subpar. (B) as (A), substituted “In general” for “Kinship care” in subpar. heading, and struck out “nonprofit” before “entities” and former subpars. (A) and (C), which related, respectively, to general issues of awarding grants and grants to promote safe, family-friendly physical environments for visitation and exchange.
+Subsec. (a)(4). Pub. L. 108–36, §113(a)(7), added par. heading and struck out former heading "Other innovative programs and projects", redesignated subpar. (B) as (A), substituted "In general" for "Kinship care" in subpar. heading, and struck out "nonprofit" before "entities" and former subpars. (A) and (C), which related, respectively, to general issues of awarding grants and grants to promote safe, family-friendly physical environments for visitation and exchange.
 
 Pub. L. 108–36, §113(a)(4), redesignated par. (3) as (4).
 
 Subsec. (a)(5). Pub. L. 108–36, §113(a)(8), added par. (5).
 
-Subsec. (b). Pub. L. 108–36, §113(b)(1), substituted “subsection (a)” for “subsection (b)” in introductory provisions.
+Subsec. (b). Pub. L. 108–36, §113(b)(1), substituted "subsection (a)" for "subsection (b)" in introductory provisions.
 
-Subsec. (b)(1) to (3). Pub. L. 108–36, §113(b)(2)–(4), added par. (3), redesignated former pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “Projects which provide educational identification, prevention, and treatment services in cooperation with preschool and elementary and secondary schools.”
+Subsec. (b)(1) to (3). Pub. L. 108–36, §113(b)(2)–(4), added par. (3), redesignated former pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: "Projects which provide educational identification, prevention, and treatment services in cooperation with preschool and elementary and secondary schools."
 
-Subsec. (b)(4)(D). Pub. L. 108–36, §113(b)(5), struck out “nonprofit” before “acute care hospital” in introductory provisions.
+Subsec. (b)(4)(D). Pub. L. 108–36, §113(b)(5), struck out "nonprofit" before "acute care hospital" in introductory provisions.
 
-Subsec. (c). Pub. L. 108–36, §113(c), struck out “demonstration” before “projects” in first sentence, inserted “or contract” after “or as a separate grant” in second sentence, and inserted at end “In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.”
+Subsec. (c). Pub. L. 108–36, §113(c), struck out "demonstration" before "projects" in first sentence, inserted "or contract" after "or as a separate grant" in second sentence, and inserted at end "In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques."
 
-<b>1996</b>—Pub. L. 104–235, §106(1), struck out “or service” after “demonstration” in section catchline.
+<b>1996</b>—Pub. L. 104–235, §106(1), struck out "or service" after "demonstration" in section catchline.
 
 Subsec. (a). Pub. L. 104–235, §106(2), amended heading and text of subsec. (a) generally. Prior to amendment, text consisted of pars. (1) and (2) which related to general authority of Secretary to make grants and enter into contracts for demonstration or service programs and projects and to evaluate the effectiveness of those demonstration projects.
 
-Subsec. (b). Pub. L. 104–235, §106(3), (4), redesignated subsec. (c) as (b) and pars. (3) to (7) thereof as (1) to (5), respectively, struck out former pars. (1) and (2) which related to training programs and other innovative programs, respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary shall, directly or through grants or contracts with public or private nonprofit organizations under this section, provide for the establishment of resource centers—
+Subsec. (b). Pub. L. 104–235, §106(3), (4), redesignated subsec. (c) as (b) and pars. (3) to (7) thereof as (1) to (5), respectively, struck out former pars. (1) and (2) which related to training programs and other innovative programs, respectively, and struck out heading and text of former subsec. (b). Text read as follows: "The Secretary shall, directly or through grants or contracts with public or private nonprofit organizations under this section, provide for the establishment of resource centers—
 
-&emsp;“(1) serving defined geographic areas;
+&emsp;"(1) serving defined geographic areas;
 
-&emsp;“(2) staffed by multidisciplinary teams of personnel trained in the prevention, identification, and treatment of child abuse and neglect; and
+&emsp;"(2) staffed by multidisciplinary teams of personnel trained in the prevention, identification, and treatment of child abuse and neglect; and
 
-&emsp;“(3) providing advice and consultation to individuals, agencies, and organizations which request such services.”
+&emsp;"(3) providing advice and consultation to individuals, agencies, and organizations which request such services."
 
 Subsec. (c). Pub. L. 104–235, §106(6), added subsec. (c). Former subsec. (c) redesignated (b).
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–295, §113(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (c)(1)(B). Pub. L. 102–295, §141(5), substituted “disabilities” for “handicaps”.
+Subsec. (c)(1)(B). Pub. L. 102–295, §141(5), substituted "disabilities" for "handicaps".
 
-Pub. L. 102–295, §113(b)(1), inserted “culturally specific” before “instruction”.
+Pub. L. 102–295, §113(b)(1), inserted "culturally specific" before "instruction".
 
 Subsec. (c)(1)(C). Pub. L. 102–295, §113(b)(2), added subpar. (C).
 
-Subsec. (c)(6)(A)(i). Pub. L. 102–295, §141(5), substituted “children with disabilities” for “children with handicaps”.
+Subsec. (c)(6)(A)(i). Pub. L. 102–295, §141(5), substituted "children with disabilities" for "children with handicaps".
 
-Subsec. (c)(6)(B)(i). Pub. L. 102–295, §141(1), substituted “child with disabilities” for “handicapped child”.
+Subsec. (c)(6)(B)(i). Pub. L. 102–295, §141(1), substituted "child with disabilities" for "handicapped child".
 
-Subsec. (c)(6)(C)(ii). Pub. L. 102–295, §141(2), substituted “child with disabilities” for “child with handicaps”.
+Subsec. (c)(6)(C)(ii). Pub. L. 102–295, §141(2), substituted "child with disabilities" for "child with handicaps".
 
 <b>1988</b>—Pub. L. 100–294 amended section generally, substituting provision authorizing grants to public agencies and nonprofit private organizations for demonstration or service programs and projects for provision directing the Secretary to ensure coordination among Federal programs related to child abuse and neglect. See section 5106e of this title.
 
-<b>1984</b>—Pub. L. 98–457 substituted “among programs” for “between programs”.
+<b>1984</b>—Pub. L. 98–457 substituted "among programs" for "between programs".
 

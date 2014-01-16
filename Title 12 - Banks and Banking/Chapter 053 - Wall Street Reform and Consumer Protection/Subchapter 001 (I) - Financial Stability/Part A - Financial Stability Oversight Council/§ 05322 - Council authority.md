@@ -132,7 +132,7 @@ The Chairperson shall appear before the Committee on Financial Services of the H
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a)(2) and (d)(1)(B), (4), (5)(A), was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This subchapter, referred to in subsecs. (a)(2) and (d)(1)(B), (4), (5)(A), was in the original "this title", meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. The word “to” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "to" probably should not appear.</i>
 

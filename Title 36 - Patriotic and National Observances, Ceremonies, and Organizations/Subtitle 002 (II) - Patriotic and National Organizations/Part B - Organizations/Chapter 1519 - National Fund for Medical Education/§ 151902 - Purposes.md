@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 Aug. 28, 1954, ch. 1036, §3, 68 Stat. 892.
 
-The words “in carrying out those purposes” are substituted for “in connection therewith” for clarity. In clause (2), the word “personnel” is substituted for “manpower” to use a word that is gender-neutral.
+The words "in carrying out those purposes" are substituted for "in connection therewith" for clarity. In clause (2), the word "personnel" is substituted for "manpower" to use a word that is gender-neutral.
 

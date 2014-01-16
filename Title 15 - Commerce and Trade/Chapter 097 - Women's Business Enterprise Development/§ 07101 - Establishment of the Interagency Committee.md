@@ -10,7 +10,7 @@ A prior section 401 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 269
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(9) \[title VII, §701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–701, provided that: “This title \[amending sections 7107, 7109, and 7110 of this title and repealing former section 7109 of this title\] may be cited as the ‘National Women's Business Council Reauthorization Act of 2000’.”
+Pub. L. 106–554, §1(a)(9) \[title VII, §701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–701, provided that: "This title \[amending sections 7107, 7109, and 7110 of this title and repealing former section 7109 of this title\] may be cited as the 'National Women's Business Council Reauthorization Act of 2000'."
 
 #### Ex. Ord. No. 12138. National Women's Business Enterprise Policy and National Program for Women's Business Enterprise
 
@@ -42,7 +42,7 @@ Responsibilities of the Federal Departments and Agencies
 
 (3) procurement.
 
-(c) Each department or agency empowered to extend Federal financial assistance to any program or activity shall issue regulations requiring the recipient of such assistance to take appropriate affirmative action in support of women's business enterprise and to prohibit actions or policies which discriminate against women's business enterprise on the ground of sex. For purposes of this subsection, Federal financial assistance means assistance extended by way of grant, cooperative agreement, loan or contract other than a contract of insurance or guaranty. These regulations shall prescribe sanctions for noncompliance. Unless otherwise specified by law, no agency sanctions shall be applied until the agency or department concerned has advised the appropriate person or persons of the failure to comply with its regulations and has determined that compliance cannot be secured by voluntary means.
+(c) Each department or agency empowered to extend Federal financial assistance to any program or activityshall issue regulations requiring the recipient of such assistance to take appropriate affirmative action in support of women's business enterprise and to prohibit actions or policies which discriminate against women's business enterprise on the ground of sex. For purposes of this subsection, Federal financial assistance means assistance extended by way of grant, cooperative agreement, loan or contract other than a contract of insurance or guaranty. These regulations shall prescribe sanctions for noncompliance. Unless otherwise specified by law, no agency sanctions shall be applied until the agency or department concerned has advised the appropriate person or persons of the failure to comply with its regulations and has determined that compliance cannot be secured by voluntary means.
 
 1–102. For purposes of this Order, affirmative action may include, but is not limited to, creating or supporting new programs responsive to the special needs of women's business enterprise, establishing incentives to promote business or business-related opportunities for women's business enterprise, collecting and disseminating information in support of women's business enterprise, and insuring to women's business enterprise knowledge of and ready access to business-related services and resources. If, in implementing this Order, an agency undertakes to use or to require compliance with numerical set-asides, or similar measures, it shall state the purpose of such measure, and the measure shall be designed on the basis of pertinent factual findings of discrimination against women's business enterprise and the need for such measure.
 
@@ -108,9 +108,9 @@ Definitions
 
 For the purposes of this Order, the following definitions shall apply:
 
-1–601. “Women-owned business” means a business that is at least 51 percent owned by a woman or women who also control and operate it. “Control” in this context means exercising the power to make policy decisions. “Operate” in this context means being actively involved in the day-to-day management.
+1–601. "Women-owned business" means a business that is at least 51 percent owned by a woman or women who also control and operate it. "Control" in this context means exercising the power to make policy decisions. "Operate" in this context means being actively involved in the day-to-day management.
 
-1–602. “Women's business enterprise” means a woman-owned business or businesses or the efforts of a woman or women to establish, maintain or develop such a business or businesses.
+1–602. "Women's business enterprise" means a woman-owned business or businesses or the efforts of a woman or women to establish, maintain or develop such a business or businesses.
 
 1–603. Nothing in subsections 1–601 or 1–602 of this Section (1–6) should be construed to prohibit the use of other definitions of a woman-owned business or women's business enterprise by departments and agencies of the Executive Branch where other definitions are deemed reasonable and useful for any purpose not inconsistent with the purposes of this Order. Wherever feasible, departments and agencies should use the definition of a woman-owned business in subsection 1–601 above for monitoring performance with respect to women's business enterprise in order to assure comparability of data throughout the Federal Government.
 

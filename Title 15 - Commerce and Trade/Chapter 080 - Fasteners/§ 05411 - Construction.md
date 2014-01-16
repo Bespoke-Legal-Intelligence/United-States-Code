@@ -10,5 +10,5 @@ A prior section 9 of Pub. L. 101–592 was renumbered section 6 and is classifie
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–34 struck out “in effect on November 16, 1990” after “law or authority”.
+<b>1999</b>—Pub. L. 106–34 struck out "in effect on November 16, 1990" after "law or authority".
 

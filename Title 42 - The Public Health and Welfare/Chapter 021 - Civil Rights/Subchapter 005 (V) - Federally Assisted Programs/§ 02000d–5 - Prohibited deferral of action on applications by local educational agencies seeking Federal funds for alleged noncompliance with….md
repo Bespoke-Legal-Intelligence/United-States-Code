@@ -10,7 +10,7 @@ This Act, referred to in text, is Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191,
 
 The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-Act of September 30, 1950, referred to in text, is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§236 et seq.) of Title 20 prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950, referred to in text, is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§236et seq.) of Title 20 prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 The Cooperative Research Act, referred to in text, is act July 26, 1954, ch. 576, 68 Stat. 533, which was classified generally to chapter 15 (§331 et seq.) of Title 20, and terminated on July 1, 1975, under provisions of section 402(c)(1) of Pub. L. 93–380, title IV, Aug. 21, 1974, 88 Stat. 544. See section 1851 et seq. of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -20,17 +20,17 @@ Section was enacted as part of the Elementary and Secondary Education Amendments
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–382, which directed amendment of this section by striking out “by the Act of September 23, 1950 (Public Law 815, 81st Congress),”, was executed by striking out “by the Act of September 23, 1950 (Public Law 815, Eighty-first Congress)” before “or by the Cooperative” to reflect the probable intent of Congress.
+<b>1994</b>—Pub. L. 103–382, which directed amendment of this section by striking out "by the Act of September 23, 1950 (Public Law 815, 81st Congress),", was executed by striking out "by the Act of September 23, 1950 (Public Law 815, Eighty-first Congress)" before "or by the Cooperative" to reflect the probable intent of Congress.
 
 <b>1968</b>—Pub. L. 90–247 inserted proviso.
 
 #### Effective Date
 
-Pub. L. 89–750, title I, §191, Nov. 3, 1966, 80 Stat. 1210, provided that: “The provisions of this title \[enacting this section and sections 241m, 871 to 880, and 886 of Title 20, Education, amending sections 241b, 241c, 241e, 241f, 241g, 241h, 241j, 241k, 241l, 244, 331a, 332a, 332b, 821, 822, 823, 841, 842, 843, 844, 861, 862, 863, 864, 883, and 884 of Title 20, repealing section 241d of Title 20, and enacting provisions set out as notes under sections 241a, 241b, and 241c of Title 20\] shall be effective with respect to fiscal years beginning after June 30, 1966, except as specifically provided otherwise.”
+Pub. L. 89–750, title I, §191, Nov. 3, 1966, 80 Stat. 1210, provided that: "The provisions of this title \[enacting this section and sections 241m, 871 to 880, and 886 of Title 20, Education, amending sections 241b, 241c, 241e, 241f, 241g, 241h, 241j, 241k, 241l, 244, 331a, 332a, 332b, 821, 822, 823, 841, 842, 843, 844, 861, 862, 863, 864, 883, and 884 of Title 20, repealing section 241d of Title 20, and enacting provisions set out as notes under sections 241a, 241b, and 241c of Title 20\] shall be effective with respect to fiscal years beginning after June 30, 1966, except as specifically provided otherwise."
 
 #### Transfer of Functions
 
-“Secretary of Education” and “Secretary” substituted in text for “Commissioner of Education” and “Commissioner”, respectively, pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of Title 20, Education, and which transferred all functions of Commissioner of Education of Department of Health, Education, and Welfare to Secretary of Education.
+"Secretary of Education" and "Secretary" substituted in text for "Commissioner of Education" and "Commissioner", respectively, pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of Title 20, Education, and which transferred all functions of Commissioner of Education of Department of Health, Education, and Welfare to Secretary of Education.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

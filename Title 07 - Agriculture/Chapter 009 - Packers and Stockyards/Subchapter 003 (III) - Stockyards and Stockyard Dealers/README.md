@@ -5,8 +5,8 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00201 - &#8220;Stockyard owner&#8221;; &#8220;stockyard services&#8221;; &#8220;market agency&#8221;; &#8220;dealer&#8221;; defined](%C2%A7%2000201%20-%20%E2%80%9CStockyard%20owner%E2%80%9D%3B%20%E2%80%9Cstockyard%20services%E2%80%9D%3B%20%E2%80%9Cmarket%20agency%E2%80%9D%3B%20%E2%80%9Cdealer%E2%80%9D%3B%20defined.md)
-- [&sect; 00202 - &#8220;Stockyard&#8221; defined; determination by Secretary as to particular yard](%C2%A7%2000202%20-%20%E2%80%9CStockyard%E2%80%9D%20defined%3B%20determination%20by%20Secretary%20as%20to%20particular%20yard.md)
+- [&sect; 00201 - Stockyard owner; stockyard services; market agency; dealer; defined](%C2%A7%2000201%20-%20Stockyard%20owner%3B%20stockyard%20services%3B%20market%20agency%3B%20dealer%3B%20defined.md)
+- [&sect; 00202 - Stockyard defined; determination by Secretary as to particular yard](%C2%A7%2000202%20-%20Stockyard%20defined%3B%20determination%20by%20Secretary%20as%20to%20particular%20yard.md)
 - [&sect; 00203 - Activity as stockyard dealer or market agency; benefits to business and welfare of stockyard; registration; penalty for failure to register](%C2%A7%2000203%20-%20Activity%20as%20stockyard%20dealer%20or%20market%20agency%3B%20benefits%20to%20business%20and%20welfare%20of%20stockyard%3B%20registration%3B%20penalty%20for%20failure%20to%20register.md)
 - [&sect; 00204 - Bond and suspension of registrants](%C2%A7%2000204%20-%20Bond%20and%20suspension%20of%20registrants.md)
 - [&sect; 00205 - General duty as to services; revocation of registration](%C2%A7%2000205%20-%20General%20duty%20as%20to%20services%3B%20revocation%20of%20registration.md)

@@ -68,7 +68,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A\(§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
 #### Prior Provisions
 
@@ -78,31 +78,31 @@ A prior section 1754, acts June 4, 1946, ch. 281, §5, 60 Stat. 231; July 12, 19
 
 Pub. L. 108–265, title V, §502, June 30, 2004, 118 Stat. 789, as amended by Pub. L. 108–447, div. A, title VII, §788(f), Dec. 8, 2004, 118 Stat. 2851, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as otherwise provided in this Act \[see Short Title of 2004 Amendment note set out under section 1751 of this title\], this Act and the amendments made by this Act take effect on the date of enactment of this Act \[June 30, 2004\].
 
-“(b)
+"(b)
 
 Special Effective Dates.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 July 1, 2004.—The amendments made by sections 106, 107, 126(c), and 201 \[amending sections 1758, 1773, and 1776 of this title\] take effect on July 1, 2004.
 
-&emsp;“(2)
+&emsp;"(2)
 
 October 1, 2004.—The amendments made by sections 119(c), 119(g), 202(a), 203(a), 203(b), 203(c)(1), 203(c)(5), 203(e)(8), 203(e)(10), 203(e)(13), 203(f), 203(h)(1), and 203(h)(2) \[amending sections 1766, 1776, and 1786 of this title\] take effect on October 1, 2004.
 
-&emsp;“(3)
+&emsp;"(3)
 
 January 1, 2005.—The amendments made by sections 116(f)(1) and 116(f)(3) \[amending section 1769 of this title\] take effect on January 1, 2005.
 
-&emsp;“(4)
+&emsp;"(4)
 
 July 1, 2005.—The amendments made by sections 102, 104 (other than section 104(a)(1)), 105, 111, and 126(b) \[amending sections 1396a, 1758, 1759a, and 1769c of this title and section 2020 of Title 7, Agriculture\] take effect on July 1, 2005.
 
-&emsp;“(5)
+&emsp;"(5)
 
-October 1, 2005.—The amendments made by sections 116(d) and 203(e)(9) \[amending sections 1761 and 1786 of this title\] take effect on October 1, 2005.”
+October 1, 2005.—The amendments made by sections 116(d) and 203(e)(9) \[amending sections 1761 and 1786 of this title\] take effect on October 1, 2005."
 

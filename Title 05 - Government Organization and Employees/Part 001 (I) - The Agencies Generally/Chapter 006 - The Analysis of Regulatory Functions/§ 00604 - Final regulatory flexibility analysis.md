@@ -42,7 +42,7 @@ Pub. L. 111–203, §1100G(c)(2), which directed amendment of par. (5) by substi
 
 &emsp;“(1) a succinct statement of the need for, and the objectives of, the rule;
 
-&emsp;“(2) a summary of the issues raised by the public comments in response to the initial regulatory flexibility analysis, a summary of the assessment of the agency of such issues, and a statement of any changes made in the proposed rule as a result of such comments; and
+&emsp;“(2) a summary of the issues raised by the public comments in response to the initial regulatory flexibility analysis, a summary of the assessment of theagency of such issues, and a statement of any changes made in the proposed rule as a result of such comments; and
 
 &emsp;“(3) a description of each of the significant alternatives to the rule consistent with the stated objectives of applicable statutes and designed to minimize any significant economic impact of the rule on small entities which was considered by the agency, and a statement of the reasons why each one of such alternatives was rejected.”
 

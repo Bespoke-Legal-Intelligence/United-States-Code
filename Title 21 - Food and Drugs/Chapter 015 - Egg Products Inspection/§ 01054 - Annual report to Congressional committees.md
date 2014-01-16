@@ -22,11 +22,11 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), (2)(A), (E), was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), (2)(A), (E), was in the original "this Act", meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437 substituted “Agriculture, Nutrition, and Forestry” for “Agriculture and Forestry” in introductory provisions.
+<b>1994</b>—Pub. L. 103–437 substituted "Agriculture, Nutrition, and Forestry" for "Agriculture and Forestry" in introductory provisions.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

@@ -36,11 +36,11 @@ In this section:
 
 #### (1) Initial merchant
 
-&emsp;The term “initial merchant” means a person that has obtained a consumer's billing information directly from the consumer through an Internet transaction initiated by the consumer.
+&emsp;The term "initial merchant" means a person that has obtained a consumer's billing information directly from the consumer through an Internet transaction initiated by the consumer.
 
 #### (2) Post-transaction third party seller
 
-&emsp;The term “post-transaction third party seller” means a person that—
+&emsp;The term "post-transaction third party seller" means a person that—
 
 &emsp;&emsp;(A) sells, or offers for sale, any good or service on the Internet;
 
@@ -60,5 +60,5 @@ In this section:
 
 The Electronic Fund Transfer Act, referred to in subsec. (c), is title IX of Pub. L. 90–321, as added by Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3728, which is classified generally to subchapter VI (§1693 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Fund”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Fund".</i>
 

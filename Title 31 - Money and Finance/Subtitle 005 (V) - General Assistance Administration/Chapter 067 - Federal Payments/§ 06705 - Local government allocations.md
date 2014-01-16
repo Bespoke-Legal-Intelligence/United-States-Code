@@ -76,9 +76,9 @@ General tax effort factor.—(A) Except as provided in subparagraph (C), the gen
 
 &emsp;(vii) For purposes of this subparagraph—
 
-&emsp;&emsp;(I) the term “per capita adjusted taxes of all units of general local government of the same type” means the sum of the adjusted taxes of all units of general local government of the same type divided by the sum of the populations of all units of general local government of the same type; and
+&emsp;&emsp;(I) the term "per capita adjusted taxes of all units of general local government of the same type" means the sum of the adjusted taxes of all units of general local government of the same type divided by the sum of the populations of all units of general local government of the same type; and
 
-&emsp;&emsp;(II) the term “units of general local government of the same type” means all townships if the unit of general local government is a township, all municipalities if the unit of general local government is a municipality, all counties if the unit of general local government is a county, or all unified city/county governments if the unit of general local government is a unified city/county government.
+&emsp;&emsp;(II) the term "units of general local government of the same type" means all townships if the unit of general local government is a township, all municipalities if the unit of general local government is a municipality, all counties if the unit of general local government is a county, or all unified city/county governments if the unit of general local government is a unified city/county government.
 
 &emsp;(4)
 

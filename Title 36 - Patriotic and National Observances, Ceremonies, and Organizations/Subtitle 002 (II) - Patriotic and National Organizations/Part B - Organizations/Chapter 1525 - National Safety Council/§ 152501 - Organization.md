@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—National Safety Council (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—National Safety Council (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

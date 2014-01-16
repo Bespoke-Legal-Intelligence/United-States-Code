@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1741\.](%C2%A7%2001741%20-%20Maximum%20and%20minimum%20quantities%20for%20set-aside%3B%20%E2%80%9Ccommodity%20set-aside%E2%80%9D%20defined.md) | Maximum and minimum quantities for set-aside; “commodity set-aside” defined. |
+| [1741\.](%C2%A7%2001741%20-%20Maximum%20and%20minimum%20quantities%20for%20set-aside%3B%20commodity%20set-aside%20defined.md) | Maximum and minimum quantities for set-aside; "commodity set-aside" defined. |
 | [1742\.](%C2%A7%2001742%20-%20Determination%20of%20commodity%20value%20for%20set-aside.md) | Determination of commodity value for set-aside. |
 | [1743\.](%C2%A7%2001743%20-%20Reduction%20of%20set-aside.md) | Reduction of set-aside. |
 | [1744\.](%C2%A7%2001744%20-%20Sale%20of%20commodities%20in%20set-aside%3B%20exemption%20from%20pricing%20limitations.md) | Sale of commodities in set-aside; exemption from pricing limitations. |
@@ -19,7 +19,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01741 - Maximum and minimum quantities for set-aside; &#8220;commodity set-aside&#8221; defined](%C2%A7%2001741%20-%20Maximum%20and%20minimum%20quantities%20for%20set-aside%3B%20%E2%80%9Ccommodity%20set-aside%E2%80%9D%20defined.md)
+- [&sect; 01741 - Maximum and minimum quantities for set-aside; commodity set-aside defined](%C2%A7%2001741%20-%20Maximum%20and%20minimum%20quantities%20for%20set-aside%3B%20commodity%20set-aside%20defined.md)
 - [&sect; 01742 - Determination of commodity value for set-aside](%C2%A7%2001742%20-%20Determination%20of%20commodity%20value%20for%20set-aside.md)
 - [&sect; 01743 - Reduction of set-aside](%C2%A7%2001743%20-%20Reduction%20of%20set-aside.md)
 - [&sect; 01744 - Sale of commodities in set-aside; exemption from pricing limitations](%C2%A7%2001744%20-%20Sale%20of%20commodities%20in%20set-aside%3B%20exemption%20from%20pricing%20limitations.md)

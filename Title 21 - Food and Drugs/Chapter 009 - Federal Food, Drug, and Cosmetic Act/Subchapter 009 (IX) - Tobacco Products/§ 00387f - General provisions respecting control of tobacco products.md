@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any requirement established by or under section 387b, 387c, 387e, or 387i of this title applicable to a tobacco product shall apply to such tobacco product until the applicability of the requirement to the tobacco product has been changed by action taken under section 387g of this title, section 387j of this title, section 387k of this title, or subsection (d) of this section, and any requirement established by or under section 387b, 387c, 387e, or 387i of this title which is inconsistent with a requirement imposed on such tobacco product under section 387g of this title, section 387j of this title, section 387k of this title, or subsection (d) of this section shall not apply to such tobacco product.
+Any requirement established by or under section 387b, 387c, 387e, or 387i of this title applicable to a tobacco product shall apply to such tobacco product until the applicability of the requirement to the tobacco product has been changed by action taken under section 387g of this title, section 387j of this title, section 387k of this title, or subsection (d) of this section, and any requirement established by or under section 387b, 387c, 387e, or 387i of this title whichis inconsistent with a requirement imposed on such tobacco product under section 387g of this title, section 387j of this title, section 387k of this title, or subsection (d) of this section shall not apply to such tobacco product.
 
 #### (b) Information on public access and comment
 
@@ -78,7 +78,7 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 &emsp;&emsp;&emsp;(iii) provide the Tobacco Products Scientific Advisory Committee a reasonable time to make its recommendation with respect to proposed regulations under subparagraph (A);
 
-&emsp;&emsp;&emsp;(iv) in establishing the effective date of a regulation promulgated under this subsection, take into account the differences in the manner in which the different typesof tobacco products have historically been produced, the financial resources of the different tobacco product manufacturers, and the state of their existing manufacturing facilities, and shall provide for a reasonable period of time for such manufacturers to conform to good manufacturing practices; and
+&emsp;&emsp;&emsp;(iv) in establishing the effective date of a regulation promulgated under this subsection, take into account the differences in the manner in which the different types of tobacco products have historically been produced, the financial resources of the different tobacco product manufacturers, and the state of their existing manufacturing facilities, and shall provide for a reasonable period of time for such manufacturers to conform to good manufacturing practices; and
 
 &emsp;&emsp;&emsp;(v) not require any small tobacco product manufacturer to comply with a regulation under subparagraph (A) for at least 4 years following the effective date established by the Secretary for such regulation.
 
@@ -138,5 +138,5 @@ A prior section 906 of act June 25, 1938, was renumbered section 1006 and is cla
 
 With respect to any time periods specified in an amendment by div. A of Pub. L. 111–31 that begin on June 22, 2009, within which the Secretary of Health and Human Services is required to carry out and complete specified activities, with certain limitations, the calculation of such time periods shall commence on the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscal year 2010 for which the Secretary has collected fees under section 387s of this title, and the Secretary may extend or reduce the duration of one or more such time periods, except that no such period shall be extended for more than 90 days, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “are”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "are".</i>
 

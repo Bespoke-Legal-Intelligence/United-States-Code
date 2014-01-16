@@ -4,13 +4,13 @@
 
 For the purpose of this section:
 
-&emsp;(1) The term “Committee” means the Low-Noise-Emission Product Advisory Committee.
+&emsp;(1) The term "Committee" means the Low-Noise-Emission Product Advisory Committee.
 
-&emsp;(2) The term “Federal Government” includes the legislative, executive, and judicial branches of the Government of the United States, and the government of the District of Columbia.
+&emsp;(2) The term "Federal Government" includes the legislative, executive, and judicial branches of the Government of the United States, and the government of the District of Columbia.
 
-&emsp;(3) The term “low-noise-emission product” means any product which emits noise in amounts significantly below the levels specified in noise emission standards under regulations applicable under section 4905 of this title at the time of procurement to that type of product.
+&emsp;(3) The term "low-noise-emission product" means any product which emits noise in amounts significantly below the levels specified in noise emission standards under regulations applicable under section 4905 of this title at the time of procurement to that type of product.
 
-&emsp;(4) The term “retail price” means (A) the maximum statutory price applicable to any type of product; or (B) in any case where there is no applicable maximum statutory price, the most recent procurement price paid for any type of product.
+&emsp;(4) The term "retail price" means (A) the maximum statutory price applicable to any type of product; or (B) in any case where there is no applicable maximum statutory price, the most recent procurement price paid for any type of product.
 
 #### (b) Certification of products; Low-Noise-Emission Product Advisory Committee
 
@@ -50,7 +50,7 @@ For the purpose of this section:
 
 #### (d) Product selection
 
-The procuring agency shall be required to purchase available certified low-noise-emission products which are eligible for purchase to the extent they are available before purchasing any other products for which any low-noise-emission product is a certified substitute. In making purchasing selections between competing eligible certified low-noise-emission products, the procuring agency shall give priority to any class or model which does not require extensive periodic maintenance to retain its low-noise-emission qualities or which does not involve operating costs significantly in excess of those products for which it is a certified substitute.
+The procuring agency shall be required to purchase available certified low-noise-emission products which are eligible for purchase to the extent they are available before purchasing any other products for which any low-noise-emissionproduct is a certified substitute. In making purchasing selections between competing eligible certified low-noise-emission products, the procuring agency shall give priority to any class or model which does not require extensive periodic maintenance to retain its low-noise-emission qualities or which does not involve operating costs significantly in excess of those products for which it is a certified substitute.
 
 #### (e) Waiver of statutory price limitations
 
@@ -58,7 +58,7 @@ For the purpose of procuring certified low-noise-emission products any statutory
 
 #### (f) Tests of noise emissions from products purchased by Federal Government
 
-The Administrator shall, from time to time as he deems appropriate, test the emissions of noise from certified low-noise-emission productspurchased by the Federal Government. If at any time he finds that the noise-emission levels exceed the levels on which certification under this section was based, the Administrator shall give the supplier of such product written notice of this finding, issue public notice of it, and give the supplier an opportunity to make necessary repairs, adjustments, or replacements. If no such repairs, adjustments, or replacements are made within a period to be set by the Administrator, he may order the supplier to show cause why the product involved should be eligible for recertification.
+The Administrator shall, from time to time as he deems appropriate, test the emissions of noise from certified low-noise-emission products purchased by the Federal Government. If at any time he finds that the noise-emission levels exceed the levels on which certification under this section was based, the Administrator shall give the supplier of such product written notice of this finding, issue public notice of it, and give the supplier an opportunity to make necessary repairs, adjustments, or replacements. If no such repairs, adjustments, or replacements are made within a period to be set by the Administrator, he may order the supplier to show cause why the product involved should be eligible for recertification.
 
 #### (g) Authorization of appropriations
 
@@ -72,7 +72,7 @@ The Administrator shall promulgate the procedures required to implement this sec
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b)(3). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".
 
 <b>1976</b>—Subsec. (g). Pub. L. 94–301 inserted authorization of appropriations for fiscal year ending June 30, 1976, the transition period, and fiscal year ending September 30, 1977.
 

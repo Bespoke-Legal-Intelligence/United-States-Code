@@ -38,7 +38,7 @@ Section 3307 requires each vessel subject to inspection to undergo an initial in
 
 #### Amendments
 
-<b>1996</b>—Par. (1). Pub. L. 104–324, §605(a)(1), substituted “, nautical school vessel, and small passenger vessel allowed to carry more than 12 passengers on a foreign voyage” for “and nautical school vessel” and inserted “and” at end.
+<b>1996</b>—Par. (1). Pub. L. 104–324, §605(a)(1), substituted ", nautical school vessel, and small passenger vessel allowed to carry more than 12 passengers on a foreign voyage" for "and nautical school vessel" and inserted "and" at end.
 
-Pars. (2), (3). Pub. L. 104–324, §605(a)(2), (3), redesignated par. (3) as (2), substituted “5 years” for “2 years”, and struck out former par. (2) which read as follows: “each small passenger vessel, freight vessel or offshore supply vessel of less than 100 gross tons, and sailing school vessel shall be inspected at least once every 3 years; and”.
+Pars. (2), (3). Pub. L. 104–324, §605(a)(2), (3), redesignated par. (3) as (2), substituted "5 years" for "2 years", and struck out former par. (2) which read as follows: "each small passenger vessel, freight vessel or offshore supply vessel of less than 100 gross tons, and sailing school vessel shall be inspected at least once every 3 years; and".
 

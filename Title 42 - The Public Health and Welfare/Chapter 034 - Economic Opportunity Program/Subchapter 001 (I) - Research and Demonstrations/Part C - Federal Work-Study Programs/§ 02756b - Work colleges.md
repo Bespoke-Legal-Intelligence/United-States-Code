@@ -14,7 +14,7 @@ The purpose of this section is to recognize, encourage, and promote the use of c
 
 &emsp;From the sums appropriated pursuant to subsection (f) of this section, and from the funds available under paragraph (1), eligible institutions may, following approval of an application under subsection (c) of this section by the Secretary—
 
-&emsp;&emsp;(A) support the educational costs of qualified students through self-help payments or credits provided under the work-learning-service program of the institution withinthe limits of part F of this title \[20 U.S.C. 1087kk et seq.\];
+&emsp;&emsp;(A) support the educational costs of qualified students through self-help payments or credits provided under the work-learning-service program of the institution within the limits of part F of this title \[20 U.S.C. 1087kk et seq.\];
 
 &emsp;&emsp;(B) promote the work-learning-service experience as a tool of postsecondary education, financial self-help and community service-learning opportunities;
 
@@ -42,7 +42,7 @@ Funds made available to work-colleges pursuant to this section shall be matched 
 
 For the purpose of this section—
 
-&emsp;(1) the term “work college” means an eligible institution that—
+&emsp;(1) the term "work college" means an eligible institution that—
 
 &emsp;&emsp;(A) has been a public or private nonprofit, four-year, degree-granting institution with a commitment to community service;
 
@@ -52,7 +52,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(D) provides students participating in the comprehensive work-learning-service program with the opportunity to contribute to their education and to the welfare of the community as a whole; and
 
-&emsp;(2) the term “comprehensive student work-learning-service program” means a student work-learning-service program that—
+&emsp;(2) the term "comprehensive student work-learning-service program" means a student work-learning-service program that—
 
 &emsp;&emsp;(A) is an integral and stated part of the institution's educational philosophy and program;
 
@@ -74,7 +74,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### References in Text
 
-Parts E and F of this title, referred to in subsec. (b)(1), (2)(A), mean parts E and F, respectively, of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, known as the Higher Education Act of 1965. Parts E and F of title IV of such Act are classified generally to parts D (§1087aa et seq.) and E (§1087kk et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+Parts E and F of this title, referred to in subsec. (b)(1), (2)(A), mean parts E and F, respectively, of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, asamended, known as the Higher Education Act of 1965. Parts E and F of title IV of such Act are classified generally to parts D (§1087aa et seq.) and E (§1087kk et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Prior Provisions
 
@@ -82,15 +82,15 @@ A prior section 2756b, Pub. L. 89–329, title IV, §448, as added Pub. L. 96–
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (a), (b)(2)(A), (D). Pub. L. 110–315, §447(1), substituted “work-learning-service” for “work-learning” wherever appearing.
+<b>2008</b>—Subsecs. (a), (b)(2)(A), (D). Pub. L. 110–315, §447(1), substituted "work-learning-service" for "work-learning" wherever appearing.
 
-Subsec. (e). Pub. L. 110–315, §447(2), added subsec. (e) and struck out former subsec. (e) which defined “work-college” and “comprehensive student work-learning program”.
+Subsec. (e). Pub. L. 110–315, §447(2), added subsec. (e) and struck out former subsec. (e) which defined "work-college" and "comprehensive student work-learning program".
 
-Subsec. (f). Pub. L. 110–315, §447(3), substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+Subsec. (f). Pub. L. 110–315, §447(3), substituted "such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years" for "$5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years".
 
 <b>1998</b>—Subsec. (b)(2)(E), (F). Pub. L. 105–244, §445(1), added subpars. (E) and (F).
 
-Subsec. (f). Pub. L. 105–244, §445(2), substituted “1999” for “1993”.
+Subsec. (f). Pub. L. 105–244, §445(2), substituted "1999" for "1993".
 
 #### Effective Date of 1998 Amendment
 

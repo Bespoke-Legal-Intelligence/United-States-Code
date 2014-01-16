@@ -8,7 +8,7 @@
 
 &emsp;(B) the percentage then in effect under section 3101(a) of the Internal Revenue Code of 1986 (relating to rate of tax for old-age, survivors, and disability insurance).
 
-(3)(A) The applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees shall be as follows:
+(3)(A) The applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees or further revised annuity employees shall be as follows:
 
 &nbsp;
 
@@ -46,6 +46,19 @@
 | Nuclear materials courier | 9\.8 | After December 31, 2012. |
 | Customs and border protection officer | 9\.8 | After December 31, 2012. |
 
+(C) The applicable percentage under this paragraph for civilian service by further revised annuity employees shall be as follows:
+
+&nbsp;
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+| Employee | 10\.6 | After December 31, 2013. |
+| Congressional employee | 10\.6 | After December 31, 2013. |
+| Member | 10\.6 | After December 31, 2013. |
+| Law enforcement officer, firefighter, member of the Capitol Police, member of the Supreme Court Police, or air traffic controller | 11\.1 | After December 31, 2013. |
+| Nuclear materials courier | 11\.1 | After December 31, 2013. |
+| Customs and border protection officer | 11\.1 | After December 31, 2013. |
+
 (b) Each employee or Member is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this subchapter, or under subchapter IV or V of this chapter, based on the service of the employee or Member.
 
 (c) The amounts deducted and withheld under this section shall be deposited in the Treasury of the United States to the credit of the Fund under such procedures as the Secretary of the Treasury may prescribe. Deposits made by an employee, Member, or survivor also shall be credited to the Fund.
@@ -64,7 +77,7 @@
 
 &emsp;(B) the date on which the employee or Member making the deposit first becomes an employee or Member following the period of military service for which such deposit is due,
 
-> shall include interest on such amount computed and compounded annually beginning on the date of the expiration of the two-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall be equal to the interest rate that is applicable for such year under section 8334(e).
+> shall include interest on such amount computed and compounded annually beginning on the dateof the expiration of the two-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall be equal to the interest rate that is applicable for such year under section 8334(e).
 
 (3) Any payment received by an agency, the Secretary of the Senate, or the Chief Administrative Officer of the House of Representatives under this subsection shall be immediately remitted to the Office for deposit in the Treasury of the United States to the credit of the Fund.
 
@@ -78,7 +91,7 @@
 
 &emsp;(B) January 1, 2000, through December 31, 2000, shall be 3.4 percent.
 
-(f)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 3 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Service Act of 1964 or section 5(c) or 6(1)of the Peace Corps Act or the stipend paid to the employee or Member under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
+(f)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 3 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Service Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
 
 (2) Any deposit made under paragraph (1) more than 2 years after the later of—
 
@@ -106,7 +119,7 @@
 
 (3) For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title XI, §1132(b)(2)(A), (B), Dec. 28, 2001, 115 Stat. 1243, 1244; Pub. L. 107–135, title I, §122(b), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(b), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(2)(A), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(4), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, §§1901(b), 1904(a), (b)(2), (3)(A), Oct. 28, 2009, 123 Stat. 2615, 2616; Pub. L. 112–96, title V, §5001(b), (c)(2)(A), Feb. 22, 2012, 126 Stat. 199.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title XI, §1132(b)(2)(A), (B), Dec. 28, 2001, 115 Stat. 1243, 1244; Pub. L. 107–135, title I, §122(b), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(b), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(2)(A), Dec. 12, 2003, 117Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(4), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, §§1901(b), 1904(a), (b)(2), (3)(A), Oct. 28, 2009, 123 Stat. 2615, 2616; Pub. L. 112–96, title V, §5001(b), (c)(2)(A), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, §401(b), Dec. 26, 2013, 127 Stat. 1184.)
 
 #### References in Text
 
@@ -119,6 +132,10 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), is Pu
 The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(3)(A). Pub. L. 113–67, §401(b)(1), inserted “or further revised annuity employees” after “revised annuity employees”.
+
+Subsec. (a)(3)(C). Pub. L. 113–67, §401(b)(2), added subpar. (C).
 
 <b>2012</b>—Subsec. (a)(3). Pub. L. 112–96, §5001(b), designated existing provisions as subpar. (A), substituted “The applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees” for “The applicable percentage under this paragraph for civilian service”, and added subpar. (B).
 
@@ -218,7 +235,7 @@ Amendment by Pub. L. 107–107 applicable only to separations from service as an
 
 #### Effective Date of 2000 Amendments
 
-Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Policeafter Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
 
 Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of this title.
 

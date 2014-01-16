@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Aug. 7, 1947, ch. 512, §515(c) (last sentence), 61 Stat. 907.
 
-The word “commissioned” is inserted for clarity, since the source statute related only to commissioned officers. The words “in his discretion, from time to time” are omitted as surplusage.
+The word "commissioned" is inserted for clarity, since the source statute related only to commissioned officers. The words "in his discretion, from time to time" are omitted as surplusage.
 

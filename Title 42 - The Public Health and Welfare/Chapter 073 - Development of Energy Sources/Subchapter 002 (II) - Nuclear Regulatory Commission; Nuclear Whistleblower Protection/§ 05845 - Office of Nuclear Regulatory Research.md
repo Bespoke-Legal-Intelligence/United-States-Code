@@ -18,7 +18,7 @@ The Administrator of the Administration and the head of every other Federal agen
 
 &emsp;(1) cooperate with respect to the establishment of priorities for the furnishing of such research services as requested by the Commission for the conduct of its functions;
 
-&emsp;(2) furnish to the Commission, on a reimbursable basis, through their own facilities or by contract or other arrangement, such research services as the Commission deems necessary and requests for the performance of its functions; and
+&emsp;(2) furnish to the Commission, on a reimbursable basis, through their own facilities orby contract or other arrangement, such research services as the Commission deems necessary and requests for the performance of its functions; and
 
 &emsp;(3) consult and cooperate with the Commission on research and development matters of mutual interest and provide such information and physical access to its facilities as will assist the Commission in acquiring the expertise necessary to perform its licensing and related regulatory functions.
 
@@ -38,7 +38,7 @@ The Commission shall develop a long-term plan for projects for the development o
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Amendments
 
@@ -46,5 +46,5 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Transfer of Functions
 
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg.Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
 

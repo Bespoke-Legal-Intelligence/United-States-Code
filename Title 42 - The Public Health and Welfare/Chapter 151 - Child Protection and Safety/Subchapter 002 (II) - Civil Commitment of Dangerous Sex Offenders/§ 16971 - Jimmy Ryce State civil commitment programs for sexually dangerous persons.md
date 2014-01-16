@@ -40,15 +40,15 @@ Not later than January 31 of each year, beginning with 2008, the Attorney Genera
 
 As used in this section:
 
-&emsp;(1) The term “civil commitment program” means a program that involves—
+&emsp;(1) The term "civil commitment program" means a program that involves—
 
 &emsp;&emsp;(A) secure civil confinement, including appropriate control, care, and treatment during such confinement; and
 
 &emsp;&emsp;(B) appropriate supervision, care, and treatment for individuals released following such confinement.
 
-&emsp;(2) The term “sexually dangerous person” means a person suffering from a serious mental illness, abnormality, or disorder, as a result of which the individual would have serious difficulty in refraining from sexually violent conduct or child molestation.
+&emsp;(2) The term "sexually dangerous person" means a person suffering from a serious mental illness, abnormality, or disorder, as a result of which the individual would have serious difficulty in refraining from sexually violent conduct or child molestation.
 
-&emsp;(3) The term “jurisdiction” has the meaning given such term in section 16911 of this title.
+&emsp;(3) The term "jurisdiction" has the meaning given such term in section 16911 of this title.
 
 #### (f) Authorization of appropriations
 

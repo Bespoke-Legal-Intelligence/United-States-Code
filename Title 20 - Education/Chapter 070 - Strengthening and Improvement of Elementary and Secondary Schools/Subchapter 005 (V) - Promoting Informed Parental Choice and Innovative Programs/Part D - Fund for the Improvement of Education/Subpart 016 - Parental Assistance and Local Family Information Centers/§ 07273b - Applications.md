@@ -6,7 +6,7 @@ Each nonprofit organization (including a statewide nonprofit organization), or a
 
 #### (b) Contents
 
-Each application submitted under subsection (a) of this section, at a minimum, shall include assurances that the organization or consortium will—
+Each application submitted under subsection (a) of this section, at a minimum, shall includeassurances that the organization or consortium will—
 
 &emsp;(1)(A) be governed by a board of directors the membership of which includes parents; or
 
@@ -58,5 +58,5 @@ Each application submitted under subsection (a) of this section, at a minimum, s
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(8)(C). Pub. L. 108–446 substituted “section 1471” for “section 1482”.
+<b>2004</b>—Subsec. (b)(8)(C). Pub. L. 108–446 substituted "section 1471" for "section 1482".
 

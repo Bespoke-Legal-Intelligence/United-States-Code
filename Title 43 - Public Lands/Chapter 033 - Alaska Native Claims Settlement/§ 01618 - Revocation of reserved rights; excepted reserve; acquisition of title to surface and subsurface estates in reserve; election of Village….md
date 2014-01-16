@@ -30,11 +30,11 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 #### (2) Withdrawal
 
-&emsp;The lands depicted and designated “Withdrawal Area” on the map dated October 19, 1999, along with their legal descriptions, on file with the Bureau of Land Management, and entitled “Land Withdrawal Elim Native Corporation”, are hereby withdrawn, subject to valid existing rights, from all forms of appropriation or disposition under the public land laws, including the mining and mineral leasing laws, for a period of 2 years from May 2, 2000, for selection by the Elim Native Corporation (hereinafter referred to as “Elim”).
+&emsp;The lands depicted and designated "Withdrawal Area" on the map dated October 19, 1999, along with their legal descriptions, on file with the Bureau of Land Management, and entitled "Land Withdrawal Elim Native Corporation", are hereby withdrawn, subject to valid existing rights, from all forms of appropriation or disposition under the public land laws, including the mining and mineral leasing laws, for a period of 2 years from May 2, 2000, for selection by the Elim Native Corporation (hereinafter referred to as "Elim").
 
 #### (3) Authority to select and convey
 
-&emsp;Elim is authorized to select in accordance with the rules set out in this paragraph, 50,000 acres of land (hereinafter referred to as “Conveyance Lands”) within the boundary of the Withdrawal Area described in paragraph (2). The Secretary is authorized and directed to convey to Elim in fee the surface and subsurface estates to 50,000 acres of valid selections in the Withdrawal Area, subject to the covenants, reservations, terms and conditions and other provisions of this subsection.
+&emsp;Elim is authorized to select in accordance with the rules set out in this paragraph, 50,000 acres of land (hereinafter referred to as "Conveyance Lands") within the boundary of the Withdrawal Area described in paragraph (2). The Secretary is authorized and directed toconvey to Elim in fee the surface and subsurface estates to 50,000 acres of valid selections in the Withdrawal Area, subject to the covenants, reservations, terms and conditions and other provisions of this subsection.
 
 &emsp;&emsp;(A) Elim shall have 2 years from May 2, 2000, in which to file its selection of no more than 60,000 acres of land from the area described in paragraph (2). The selection application shall be filed with the Bureau of Land Management, Alaska State Office, shall describe a single tract adjacent to United States Survey No. 2548, Alaska, and shall be reasonably compact, contiguous, and in whole sections except when separated by unavailable land or when the remaining entitlement is less than a whole section. Elim shall prioritize its selections made pursuant to this subsection at the time such selections are filed, and such prioritization shall be irrevocable. Any lands selected shall remain withdrawn until conveyed or full entitlement has been achieved.
 
@@ -48,9 +48,9 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 &emsp;The covenants, reservations, terms and conditions set forth in this paragraph and in paragraphs (5) and (6) with respect to the Conveyance Lands shall run with the land and shall be incorporated into the interim conveyance, if any, and patent conveying the lands to Elim.
 
-&emsp;&emsp;(A) Consistent with paragraph (3)(C) and subject to the applicable covenants, reservations, terms and conditions contained in this paragraph and paragraphs (5) and (6), Elim shall have all rights to the timber resources of the Conveyance Lands for any use including, but not limited to, construction of homes, cabins, for firewood and other domestic uses on any Elim lands: <i>Provided</i>, That cutting and removal of Merchantable Timber from the Conveyance Lands for sale shall not be permitted: <i>Provided further</i>, That Elim shall not construct roads and related infrastructure for the support of such cutting and removal of timber for sale or permit others to do so. “Merchantable Timber” means timber that can be harvested and marketed by a prudent operator.
+&emsp;&emsp;(A) Consistent with paragraph (3)(C) and subject to the applicable covenants, reservations, terms and conditions contained in this paragraph and paragraphs (5) and (6), Elim shall have all rights to the timber resources of the Conveyance Lands for any use including, but not limited to, construction of homes, cabins, for firewood and other domestic uses on any Elim lands: <i>Provided</i>, That cutting and removal of Merchantable Timber from the Conveyance Lands for sale shall not be permitted: <i>Provided further</i>, That Elim shall not construct roads and related infrastructure for the support of such cutting and removal of timber for sale or permit others to do so. "Merchantable Timber" means timber that can be harvested and marketed by a prudent operator.
 
-&emsp;&emsp;(B) Public Land Order 5563 of December 16, 1975, which made hot or medicinal springsavailable to other Native Corporations for selection and conveyance, is hereby modified to the extent necessary to permit the selection by Elim of the lands heretofore encompassed in any withdrawal of hot or medicinal springs and is withdrawn pursuant to this subsection. The Secretary is authorized and directed to convey such selections of hot or medicinal springs (hereinafter referred to as “hot springs”) subject to applicable covenants, reservations, terms and conditions contained in paragraphs (5) and (6).
+&emsp;&emsp;(B) Public Land Order 5563 of December 16, 1975, which made hot or medicinal springs available to other Native Corporations for selection and conveyance, is hereby modified to the extent necessary to permit the selection by Elim of the lands heretofore encompassed in any withdrawal of hot or medicinal springs and is withdrawn pursuant to this subsection. The Secretary is authorized and directed to convey such selections of hot or medicinal springs (hereinafter referred to as "hot springs") subject to applicable covenants, reservations, terms and conditions contained in paragraphs (5) and (6).
 
 &emsp;&emsp;(C) Should Elim select and have conveyed to it lands encompassing portions of the Tubutulik River or Clear Creek, or both, Elim shall not permit surface occupancy or knowingly permit any other activity on those portions of land lying within the bed of or within 300 feet of the ordinary high waterline of either or both of these water courses for purposes associated with mineral or other development or activity if they would cause or are likely to cause erosion or siltation of either water course to an extent that would significantly adversely impact water quality or fish habitat.
 
@@ -76,7 +76,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 #### (A) Memorandum of Understanding
 
-&emsp;&emsp;The Secretary and Elim shall, acting in good faith, enter into a Memorandum of Understanding (hereinafter referred to as the “MOU”) to implement the provisions of this subsection. The MOU shall include among its provisions reasonable measures to protect plants and animals in the hot springs on the Conveyance Lands and on the land within ¼ mile of the hot springs. The parties shall agree to meet periodically to review the matters contained in the MOU and to exercise their right to amend, replace, or extend the MOU. Such reviews shall include the authority to relocate any of the easements set forth in subparagraph (D) if the parties deem it advisable.
+&emsp;&emsp;The Secretary and Elim shall, acting in good faith, enter into a Memorandum of Understanding (hereinafter referred to as the "MOU") to implement the provisions of this subsection. The MOU shall include among its provisions reasonable measures to protect plants and animals in the hot springs on the Conveyance Lands and on the land within ¼ mile of the hot springs. The parties shall agree to meet periodically to review the matters contained in the MOU and to exercise their right to amend, replace, or extend the MOU. Such reviews shall include the authority to relocate any of the easements set forth in subparagraph (D) if the parties deem it advisable.
 
 #### (B) Incorporation of terms
 
@@ -114,31 +114,31 @@ The time of passage of this chapter, referred to in subsec. (c)(1)(E), probably 
 
 #### Grants to Native Group Corporations for Planning, Development, and Other Purposes
 
-Pub. L. 96–487, title XIV, §1413, Dec. 2, 1980, 94 Stat. 2498, provided that: “The Secretary shall pay by grant to each of the Native Group Corporations established pursuant to section 14(h)(2) of the Alaska Native Claims Settlement Act \[section 1613(h)(2) of this title\] and finally certified as a Native Group, an amount not more than $100,000 or less than $50,000 adjusted according to population of each Group. Funds authorized under this section may be used only for planning, development, and other purposes for which the Native Group Corporations are organized under the Settlement Act \[this chapter\].”
+Pub. L. 96–487, title XIV, §1413, Dec. 2, 1980, 94 Stat. 2498, provided that: "The Secretary shall pay by grant to each of the Native Group Corporations established pursuant to section 14(h)(2) of the Alaska Native Claims Settlement Act \[section 1613(h)(2) of this title\] and finally certified as a Native Group, an amount not more than $100,000 or less than $50,000 adjusted according to population of each Group. Funds authorized under this section may be used only for planning, development, and other purposes for which the Native Group Corporations are organized under the Settlement Act \[this chapter\]."
 
 #### Grants to Village Corporations for Planning, Development and Other Purposes
 
 Pub. L. 94–204, §14, Jan. 2, 1976, 89 Stat. 1154, provided that:
 
-“(a) The Secretary shall pay, by grant, $250,000 to each of the corporations established pursuant to section 14(h)(3) of the Settlement Act \[section 1613(h)(3) of this title\].
+"(a) The Secretary shall pay, by grant, $250,000 to each of the corporations established pursuant to section 14(h)(3) of the Settlement Act \[section 1613(h)(3) of this title\].
 
-“(b) The Secretary shall pay, by grant, $100,000 to each of the following Village Corporations:
+"(b) The Secretary shall pay, by grant, $100,000 to each of the following Village Corporations:
 
-&emsp;“(1) Arctic Village;
+&emsp;"(1) Arctic Village;
 
-&emsp;“(2) Elim;
+&emsp;"(2) Elim;
 
-&emsp;“(3) Gambell;
+&emsp;"(3) Gambell;
 
-&emsp;“(4) Savoonga;
+&emsp;"(4) Savoonga;
 
-&emsp;“(5) Tetlin; and
+&emsp;"(5) Tetlin; and
 
-&emsp;“(6) Venetie.
+&emsp;"(6) Venetie.
 
-“(c) Funds authorized under this section may be used only for planning, development, and other purposes for which the corporations set forth in subsections (a) and (b) are organized under the Settlement Act \[this chapter\].
+"(c) Funds authorized under this section may be used only for planning, development, and other purposes for which the corporations set forth in subsections (a) and (b) are organized under the Settlement Act \[this chapter\].
 
-“(d) There is authorized to be appropriated to the Secretary for the purpose of this section a sum of $1,600,000 in fiscal year 1976.”
+"(d) There is authorized to be appropriated to the Secretary for the purpose of this section a sum of $1,600,000 in fiscal year 1976."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

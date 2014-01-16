@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Naval Sea Cadet Corps (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—Naval Sea Cadet Corps (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

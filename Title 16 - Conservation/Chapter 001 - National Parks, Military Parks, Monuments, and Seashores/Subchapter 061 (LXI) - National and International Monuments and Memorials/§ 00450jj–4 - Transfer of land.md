@@ -14,7 +14,7 @@ Where appropriate in the discretion of the Secretary of the Interior, he may tra
 
 #### References in Text
 
-Section 450jj–6 of this title, referred to in text, was in the original “section 8”, meaning section 8 of act May17, 1954, ch. 204, and was translated as reading “section 7” of such act, to reflect the probable intent of Congress, because section 7 related to the establishment of the Jefferson National Expansion Memorial Commission.
+Section 450jj–6 of this title, referred to in text, was in the original "section 8", meaning section 8 of act May 17, 1954, ch. 204, and was translated as reading "section 7" of such act, to reflect the probable intent of Congress, because section 7 related to the establishment of the Jefferson National Expansion Memorial Commission.
 
 #### Prior Provisions
 

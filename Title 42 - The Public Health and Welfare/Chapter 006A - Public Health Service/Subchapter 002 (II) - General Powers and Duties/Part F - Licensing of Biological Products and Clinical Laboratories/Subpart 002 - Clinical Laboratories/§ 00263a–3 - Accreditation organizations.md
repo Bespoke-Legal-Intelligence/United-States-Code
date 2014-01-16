@@ -42,9 +42,9 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 
 Section effective upon expiration of 2 years after Oct. 24, 1992, see section 9 of Pub. L. 102–493, set out as a note under section 263a–1 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “263a–2(g)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "263a–2(g)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be section “263a–2(h)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be section "263a–2(h)".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be section “263a–2(h)(3)(D)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be section "263a–2(h)(3)(D)".</i>
 

@@ -6,7 +6,7 @@ The continuity of an officer's precedence on the active duty promotion list, dat
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–281 substituted “Vice admirals and admiral, continuity of grade” for “Vice admirals, continuity of grade” in section catchline and inserted “or admiral” after “allowances as a vice admiral” in text.
+<b>2010</b>—Pub. L. 111–281 substituted "Vice admirals and admiral, continuity of grade" for "Vice admirals, continuity of grade" in section catchline and inserted "or admiral" after "allowances as a vice admiral" in text.
 
-<b>1989</b>—Pub. L. 101–225 inserted “or admiral” after “position as a vice admiral”.
+<b>1989</b>—Pub. L. 101–225 inserted "or admiral" after "position as a vice admiral".
 

@@ -4,7 +4,7 @@
 
 Whenever benefit amounts under subchapter II of this chapter are increased by any percentage effective with any month as a result of a determination made under section 415(i) of this title—
 
-&emsp;(1) each of the dollar amounts in effect for such month under subsections (a)(1)(A), (a)(2)(A), (b)(1), and (b)(2) of section 1382 of this title, and subsection (a)(1)(A) of section 211 of Public Law 93–66, as specified in such subsections or as previously increased under this section, shall be increased by the amount (if any) by which—
+&emsp;(1) each of the dollar amounts in effect for such month under subsections (a)(1)(A),\(a)(2)(A), (b)(1), and (b)(2) of section 1382 of this title, and subsection (a)(1)(A) of section 211 of Public Law 93–66, as specified in such subsections or as previously increased under this section, shall be increased by the amount (if any) by which—
 
 &emsp;&emsp;(A) the amount which would have been in effect for such month under such subsection but for the rounding of such amount pursuant to paragraph (2), exceeds
 
@@ -34,7 +34,7 @@ Section 211 of Public Law 93–66, referred to in subsecs. (a)(1), (b), and (c)(
 
 <b>1983</b>—Subsec. (a)(2). Pub. L. 98–21, §401(b), inserted provision that the amount obtained under par. (1) with respect to each subsection shall be further increased by the percentage by which benefit amounts under subchapter II of this chapter would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, if greater, in any case where the increase under subchapter II of this chapter was determined on the basis of the wage increase percentage rather than the CPI increase percentage.
 
-Subsec. (b). Pub. L. 98–21, §401(a)(2), substituted “subsection (a) of this subsection” for “this section”.
+Subsec. (b). Pub. L. 98–21, §401(a)(2), substituted "subsection (a) of this subsection" for "this section".
 
 Subsec. (c). Pub. L. 98–21, §401(a)(1), added subsec. (c).
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 98–21, §401(a)(1), added subsec. (c).
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title I, §182(b), Sept. 3, 1982, 96 Stat. 405, provided that: “The amendment made by this section \[amending this section\] shall become effective on October 1, 1982.”
+Pub. L. 97–248, title I, §182(b), Sept. 3, 1982, 96 Stat. 405, provided that: "The amendment made by this section \[amending this section\] shall become effective on October 1, 1982."
 
 #### Cost-of-Living Increases; Cost-of-Living Computation Quarter Determinations
 

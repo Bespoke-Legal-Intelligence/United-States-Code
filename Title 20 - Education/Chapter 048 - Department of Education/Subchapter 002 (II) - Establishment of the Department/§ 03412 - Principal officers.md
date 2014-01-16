@@ -4,7 +4,7 @@
 
 (1) There shall be in the Department a Deputy Secretary of Education who shall be appointed by the President, by and with the advice and consent of the Senate. During the absence or disability of the Secretary, or in the event of a vacancy in the office of the Secretary, the Deputy Secretary shall act as Secretary. The Secretary shall designate the order in which other officials of the Department shall act for and perform the functions of the Secretary during the absence or disability of both the Secretary and Deputy Secretary or in the event of vacancies in both of those offices.
 
-(2)(A) The Deputy Secretary shall have responsibility for the conduct of intergovernmental relations of the Department, including assuring (i)that the Department carries out its functions in a manner which supplements and complements the education policies, programs, and procedures of the States and the local school systems and other instrumentalities of the States, and (ii) that appropriate officials of the Department consult with individuals responsible for making policy relating to education in the States and the local school systems and other instrumentalities of the States concerning differences over education policies, programs, and procedures and concerning the impact of the rules and regulations of the Department on the States and the local school systems and other instrumentalities of the States.
+(2)(A) The Deputy Secretary shall have responsibility for the conduct of intergovernmental relations of the Department, including assuring (i) that the Department carries out its functions in a manner which supplements and complements the education policies, programs, and procedures of the States and the local school systems and other instrumentalities of the States, and (ii) that appropriate officials of the Department consult with individuals responsible for making policy relating to education in the States and the local school systems and other instrumentalities of the States concerning differences over education policies, programs, and procedures and concerning the impact of the rules and regulations of the Department on the States and the local school systems and other instrumentalities of the States.
 
 (B) Local education authorities may inform the Deputy Secretary of any rules or regulations of the Department which are in conflict with another rule or regulation issued by any other Federal department or agency or with any other office of the Department. If the Deputy Secretary determines, after consultation with the appropriate Federal department or agency, that such a conflict does exist, the Deputy Secretary shall report such conflict or conflicts to the appropriate Federal department or agency together with recommendations for the correction of the conflict.
 
@@ -100,23 +100,23 @@ The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–4
 
 #### Amendments
 
-<b>2012</b>—Subsec. (e). Pub. L. 112–166, in introductory provisions, inserted “Notwithstanding the previous sentence, the appointments of individuals to serve as the Assistant Secretary for Management shall not be subject to the advice and consent of the Senate.”
+<b>2012</b>—Subsec. (e). Pub. L. 112–166, in introductory provisions, inserted "Notwithstanding the previous sentence, the appointments of individuals to serve as the Assistant Secretary for Management shall not be subject to the advice and consent of the Senate."
 
-<b>2002</b>—Subsec. (b)(4). Pub. L. 107–279 added par. (4) and struck out former par. (4) which read as follows: “There shall be in the Department an Assistant Secretary for Educational Research and Improvement who shall be—
+<b>2002</b>—Subsec. (b)(4). Pub. L. 107–279 added par. (4) and struck out former par. (4) which read as follows: "There shall be in the Department an Assistant Secretary for Educational Research and Improvement who shall be—
 
-&emsp;“(A) appointed by the President, by and with the consent of the Senate; and
+&emsp;"(A) appointed by the President, by and with the consent of the Senate; and
 
-&emsp;“(B) selected (giving due consideration to recommendations from the National Educational Research Policy and Priorities Board) from among individuals who—
+&emsp;"(B) selected (giving due consideration to recommendations from the National Educational Research Policy and Priorities Board) from among individuals who—
 
-&emsp;&emsp;“(i) are distinguished educational researchers or practitioners;
+&emsp;&emsp;"(i) are distinguished educational researchers or practitioners;
 
-&emsp;&emsp;“(ii) have proven management ability; and
+&emsp;&emsp;"(ii) have proven management ability; and
 
-&emsp;&emsp;“(iii) have substantial knowledge of education within the United States.”
+&emsp;&emsp;"(iii) have substantial knowledge of education within the United States."
 
 Subsec. (b)(3), (4). Pub. L. 107–110 redesignated par. (3), relating to Assistant Secretary for Educational Research and Improvement, as (4).
 
-<b>1994</b>—Subsec. (b)(1)(E) to (G). Pub. L. 103–227, §913(1), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which read as follows: “an Assistant Secretary for Educational Research and Improvement;”.
+<b>1994</b>—Subsec. (b)(1)(E) to (G). Pub. L. 103–227, §913(1), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which read as follows: "an Assistant Secretary for Educational Research and Improvement;".
 
 Subsec. (b)(3). Pub. L. 103–382 added par. (3) relating to Special Assistant for Gender Equity.
 
@@ -128,7 +128,7 @@ Pub. L. 103–227, §913(2), added par. (3) relating to Assistant Secretary for 
 
 Subsec. (h). Pub. L. 102–73 added subsec. (h).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–509 substituted “a Deputy Secretary” for “an Under Secretary” in first sentence of par. (1) and “Deputy Secretary” for “Under Secretary” wherever appearing elsewhere in pars. (1) and (2).
+<b>1990</b>—Subsec. (a). Pub. L. 101–509 substituted "a Deputy Secretary" for "an Under Secretary" in first sentence of par. (1) and "Deputy Secretary" for "Under Secretary" wherever appearing elsewhere in pars. (1) and (2).
 
 <b>1985</b>—Subsec. (e). Pub. L. 99–145 struck out subsec. (e) which provided for presence in the Department of Education of an Administrator of Education for Overseas Dependents.
 
@@ -148,13 +148,13 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 Pub. L. 102–103, title II, §203, Aug. 17, 1991, 105 Stat. 499, provided that:
 
-“(a)
+"(a)
 
-In General.—This Act \[probably should be “this title”, meaning title II of Pub. L. 102–103, amending this section and section 5314 of Title 5, Government Organization and Employees\] shall take effect on the first day of the first Department of Education pay period that begins on or after the date of enactment of this Act \[Aug. 17, 1991\].
+In General.—This Act \[probably should be "this title", meaning title II of Pub. L. 102–103, amending this section and section 5314 of Title 5, Government Organization and Employees\] shall take effect on the first day of the first Department of Education pay period that begins on or after the date of enactment of this Act \[Aug. 17, 1991\].
 
-“(b)
+"(b)
 
-Special Rule.—An incumbent in a position within the Department of Education on the day preceding the day that this Act takes effect who has been appointed by the President to a position within the Department of Education with the advice and consent of the Senate may serve as the Under Secretary at the pleasure of the President after the day preceding the day that this Act takes effect.”
+Special Rule.—An incumbent in a position within the Department of Education on the day preceding the day that this Act takes effect who has been appointed by the President to a position within the Department of Education with the advice and consent of the Senate may serve as the Under Secretary at the pleasure of the President after the day preceding the day that this Act takes effect."
 
 #### Effective Date of 1990 Amendment
 

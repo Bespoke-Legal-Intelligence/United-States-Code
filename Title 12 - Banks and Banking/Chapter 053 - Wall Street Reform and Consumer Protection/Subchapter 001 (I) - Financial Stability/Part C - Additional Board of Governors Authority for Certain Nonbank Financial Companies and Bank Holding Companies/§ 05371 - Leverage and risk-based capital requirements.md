@@ -6,7 +6,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Generally applicable leverage capital requirements
 
-&emsp;The term “generally applicable leverage capital requirements” means—
+&emsp;The term "generally applicable leverage capital requirements" means—
 
 &emsp;&emsp;(A) the minimum ratios of tier 1 capital to average total assets, as established by the appropriate Federal banking agencies to apply to insured depository institutions under the prompt corrective action regulations implementing section 1831o of this title, regardless of total consolidated asset size or foreign financial exposure; and
 
@@ -14,7 +14,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Generally applicable risk-based capital requirements
 
-&emsp;The term “generally applicable risk-based capital requirements” means—
+&emsp;The term "generally applicable risk-based capital requirements" means—
 
 &emsp;&emsp;(A) the risk-based capital requirements, as established by the appropriate Federal banking agencies to apply to insured depository institutions under the prompt corrective action regulations implementing section 1831o of this title, regardless of total consolidated asset size or foreign financial exposure; and
 
@@ -22,7 +22,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Definition of depository institution holding company
 
-&emsp;The term “depository institution holding company” means a bank holding company or a savings and loan holding company (as those terms are defined in section 1813 of this title) that is organized in the United States, including any bank or savings and loan holding company that is owned or controlled by a foreign organization, but does not include the foreign organization.
+&emsp;The term "depository institution holding company" means a bank holding company or a savings and loan holding company (as those terms are defined in section 1813 of this title) that is organized in the United States, including any bank or savings and loan holding company that is owned or controlled by a foreign organization, but does not include the foreign organization.
 
 #### (b) Minimum capital requirements
 
@@ -78,7 +78,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (B) Scope
 
-&emsp;&emsp;For purposes of this study required by subparagraph (A), the term “smaller insured depository institution” means an insured depository institution with total consolidated assets of $5,000,000,000 or less.
+&emsp;&emsp;For purposes of this study required by subparagraph (A), the term "smaller insured depository institution" means an insured depository institution with total consolidated assets of $5,000,000,000 or less.
 
 #### (C) Report to Congress
 

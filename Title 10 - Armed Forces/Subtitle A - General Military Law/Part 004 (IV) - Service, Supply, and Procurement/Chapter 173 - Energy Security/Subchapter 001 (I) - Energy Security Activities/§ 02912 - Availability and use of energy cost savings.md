@@ -26,15 +26,15 @@ Treatment of Certain Financial Incentives.—Financial incentives received from 
 
 Congressional Notification.—The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 a separate statement of the amounts available for obligation under this section in that fiscal year.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2491; amended Pub. L. 112–239, div. B, title XXVIII, §2822, Jan. 2, 2013, 126 Stat. 2152.)
+(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2491; amendedPub. L. 112–239, div. B, title XXVIII, §2822, Jan. 2, 2013, 126 Stat. 2152.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 inserted “and energy security” after “additional energy conservation”.
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 inserted "and energy security" after "additional energy conservation".
 
 #### Transfer of Funds for Energy and Water Efficiency in Federal Buildings
 
-Pub. L. 109–148, div. A, title VIII, §8054, Dec. 30, 2005, 119 Stat. 2710, provided that: “Appropriations available under the heading ‘Operation and Maintenance, Defense-Wide’ for the current fiscal year and hereafter for increasing energy and water efficiency in Federal buildings may, during their period of availability, be transferred to other appropriations or funds of the Department of Defense for projects related to increasing energy and water efficiency, to be merged with and to be available for the same general purposes, and for the same time period, as the appropriation or fund to which transferred.”
+Pub. L. 109–148, div. A, title VIII, §8054, Dec. 30, 2005, 119 Stat. 2710, provided that: "Appropriations available under the heading 'Operation and Maintenance, Defense-Wide' for the current fiscal year and hereafter for increasing energy and water efficiency in Federal buildings may, during their period of availability, be transferred to other appropriations or funds of the Department of Defense for projects related to increasing energy and water efficiency, to be merged with and to be available for the same general purposes, and for the same time period, as the appropriation or fund to which transferred."
 
 Similar provisions for specified fiscal years were contained in the following prior appropriation acts:
 

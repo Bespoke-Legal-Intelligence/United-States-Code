@@ -12,7 +12,7 @@ The court shall hear such petition or complaint solely on the record made before
 
 #### (c) Temporary relief; prerequisites
 
-In the case of a proceeding to review any order or decision issued by the Secretary under this chapter, including an order or decision issued pursuant to subsection (c) or (d) of section 1275 of this title pertaining to any order issued under paragraph (2), (3), or (4) of subsection (a) of section 1271 of this title for cessation of coal mining and reclamation operations, the court may, under such conditions as it may prescribe, grant such temporary relief as it deems appropriate pending final determination of the proceedings if—
+In the case of a proceeding to review any order or decision issued by the Secretary under this chapter, including an order or decision issued pursuant to subsection (c) or (d) of section 1275of this title pertaining to any order issued under paragraph (2), (3), or (4) of subsection (a) of section 1271 of this title for cessation of coal mining and reclamation operations, the court may, under such conditions as it may prescribe, grant such temporary relief as it deems appropriate pending final determination of the proceedings if—
 
 &emsp;(1) all parties to the proceedings have been notified and given an opportunity to be heard on a request for temporary relief;
 

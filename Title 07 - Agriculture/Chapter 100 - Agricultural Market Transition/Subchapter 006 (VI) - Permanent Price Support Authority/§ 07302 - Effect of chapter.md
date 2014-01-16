@@ -12,5 +12,5 @@ A provision of this chapter or an amendment made by this chapter shall not affec
 
 #### References in Text
 
-For definition of “this chapter”, referred to in text, see note set out under section 7201 of this title.
+For definition of "this chapter", referred to in text, see note set out under section 7201 of this title.
 

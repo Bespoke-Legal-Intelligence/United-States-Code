@@ -12,5 +12,5 @@ The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937
 
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under section 1501 of this title.
 
-<i><sup>1</sup></i><i> So in original. Reference should probably be to entire “United States Housing Act of 1937” because such Act is not divided into titles. See section 1437 et seq. of this title.</i>
+<i><sup>1</sup></i><i> So in original. Reference should probably be to entire "United States Housing Act of 1937" because such Act is not divided into titles. See section 1437 et seq. of this title.</i>
 

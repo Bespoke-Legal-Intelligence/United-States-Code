@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director shall carry out a program to award grants to eligible entities to recruit and train mathematics and science teachers and to provide scholarships and stipends to individuals participating in the program. Such program shall be known as the “Robert Noyce Teacher Scholarship Program”.
+&emsp;The Director shall carry out a program to award grants to eligible entities to recruit and train mathematics and science teachers and to provide scholarships and stipends to individuals participating in the program. Such program shall be known as the "Robert Noyce Teacher Scholarship Program".
 
 #### (2) Merit review
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) offering academic courses and early clinical teaching experiences designed to prepare students participating in the program to teach in elementary schools and secondary schools, including such preparation as is necessary to meet requirements for teacher certification or licensing;
 
-&emsp;&emsp;&emsp;(iii) offering programs to students participating in the program, both before and after the students receive their baccalaureate degree, to enable the students to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students’ fields; and
+&emsp;&emsp;&emsp;(iii) offering programs to students participating in the program, both before and after the students receive their baccalaureate degree, to enable the students to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students' fields; and
 
 &emsp;&emsp;&emsp;(iv) providing summer internships for freshman and sophomore students participating in the program; or
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) offering academic courses and clinical teaching experiences designed to prepare stipend recipients to teach in elementary schools and secondary schools served by a high need local educational agency, including such preparation as is necessary to meet requirements for teacher certification or licensing; and
 
-&emsp;&emsp;&emsp;(iii) offering programs to stipend recipients, both during and after matriculation in the program for which the stipend is received, to enable recipients to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students’ fields.
+&emsp;&emsp;&emsp;(iii) offering programs to stipend recipients, both during and after matriculation in the program for which the stipend is received, to enable recipients to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students' fields.
 
 #### (4) Eligibility requirement
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(C) evidence that the applicant has the capability to administer the program in accordance with the provisions of this section, which may include a description of any existing programs at the applicant eligible entity (and participating institutions of higher education of the consortium, if applicable) that are targeted to the education of mathematics and science teachers and the number of teachers graduated annually from such programs;
 
-&emsp;&emsp;(D) a description of the academic courses and clinical teaching experiences required under subparagraphs (A)(ii) and (B)(ii) of subsection (a)(3), as applicable, including—
+&emsp;&emsp;(D) a description of the academic courses and clinical teaching experiences requiredunder subparagraphs (A)(ii) and (B)(ii) of subsection (a)(3), as applicable, including—
 
 &emsp;&emsp;&emsp;(i) a description of the undergraduate program that will enable a student to graduate within 5 years with a major in science, technology, engineering, or mathematics and to obtain teacher certification or licensing;
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(iii) evidence of agreements between the applicant and the schools or local educational agencies that are identified as the locations at which clinical teaching experiences will occur;
 
-&emsp;&emsp;(E) a description of the programs required under subparagraphs (A)(iii) and (B)(iii) of subsection (a)(3), including activities to assist new teachers in fulfilling the teachers’ service requirements under this section;
+&emsp;&emsp;(E) a description of the programs required under subparagraphs (A)(iii) and (B)(iii) of subsection (a)(3), including activities to assist new teachers in fulfilling the teachers' service requirements under this section;
 
 &emsp;&emsp;(F) an identification of the applicant eligible entity's science, technology, engineering, and mathematics faculty and its education faculty (and such faculty of participating institutions of higher education of the consortium, if applicable) who will carry out the development and implementation of the program as required under subsection (a)(4); and
 
@@ -116,7 +116,7 @@
 
 #### (3) Amount
 
-&emsp;The Director shall establish for each year the amount to be awarded for scholarships under this section for that year, which shall be not less than $10,000 per year, except that no individual shall receive for any year more than the cost of attendance at that individual's institution. Full-time students may receive annual scholarships through the completion of a baccalaureate degree program, not to exceed a maximum of 3 years. Part-time students may receive scholarships that are prorated according to such students’ enrollment status, not to exceed 6 years of scholarship support.
+&emsp;The Director shall establish for each year the amount to be awarded for scholarships under this section for that year, which shall be not less than $10,000 per year, except that no individual shall receive for any year more than the cost of attendance at that individual's institution. Full-time students may receive annual scholarships through the completion of a baccalaureate degree program, not to exceed a maximum of 3 years. Part-time students may receive scholarships that are prorated according to such students' enrollment status, not to exceed 6 years of scholarship support.
 
 #### (4) Service obligation
 
@@ -134,7 +134,7 @@
 
 #### (3) Amount and duration
 
-&emsp;Stipends under this section shall be not less than $10,000 per year, except that no individualshall receive for any year more than the cost of attendance at such individual's institution. Individuals may receive a maximum of 1 year of stipend support, except that if an individual is enrolled in a part-time program, such amount shall be prorated according to the length of the program.
+&emsp;Stipends under this section shall be not less than $10,000 per year, except that no individual shall receive for any year more than the cost of attendance at such individual's institution. Individuals may receive a maximum of 1 year of stipend support, except that if an individual is enrolled in a part-time program, such amount shall be prorated according to the length of the program.
 
 #### (4) Service obligation
 
@@ -212,7 +212,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 #### (3) Exceptions
 
-&emsp;The Director may provide for the partial or total waiver or suspension of any service orpayment obligation by an individual under this section whenever compliance by the individual with the obligation is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be unconscionable.
+&emsp;The Director may provide for the partial or total waiver or suspension of any service or payment obligation by an individual under this section whenever compliance by the individual with the obligation is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be unconscionable.
 
 #### (h) Data collection
 
@@ -222,25 +222,25 @@ An eligible entity receiving a grant under this section shall supply to the Dire
 
 In this section—
 
-&emsp;(1) the term “cost of attendance” has the meaning given such term in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll);
+&emsp;(1) the term "cost of attendance" has the meaning given such term in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll);
 
-&emsp;(2) the term “eligible entity” means—
+&emsp;(2) the term "eligible entity" means—
 
 &emsp;&emsp;(A) an institution of higher education; or
 
 &emsp;&emsp;(B) an institution of higher education that receives grant funds on behalf of a consortium of institutions of higher education;
 
-&emsp;(3) the term “fellowship” means an award to an individual under section 1862n–1a of this title;
+&emsp;(3) the term "fellowship" means an award to an individual under section 1862n–1a of this title;
 
-&emsp;(4) the term “high need local educational agency” has the meaning given such term in section 201 of the Higher Education Act of 1965 (20 U.S.C. 1021);
+&emsp;(4) the term "high need local educational agency" has the meaning given such term in section 201 of the Higher Education Act of 1965 (20 U.S.C. 1021);
 
-&emsp;(5) the term “mathematics and science teacher” means a science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;
+&emsp;(5) the term "mathematics and science teacher" means a science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;
 
-&emsp;(6) the term “scholarship” means an award under subsection (c);
+&emsp;(6) the term "scholarship" means an award under subsection (c);
 
-&emsp;(7) the term “science, technology, engineering, or mathematics professional” means a person who holds a baccalaureate, master's, or doctoral degree in science, technology, engineering, or mathematics, and is working in or had a career in such field or a related area; and
+&emsp;(7) the term "science, technology, engineering, or mathematics professional" means a person who holds a baccalaureate, master's, or doctoral degree in science, technology, engineering, or mathematics, and is working in or had a career in such field or a related area; and
 
-&emsp;(8) the term “stipend” means an award under subsection (d).
+&emsp;(8) the term "stipend" means an award under subsection (d).
 
 #### (j) Mathematics and science scholarship gift fund
 
@@ -250,11 +250,11 @@ In accordance with section 1870(f) of this title, the Director is authorized to 
 
 Not later than 4 years after August 9, 2007, the Director shall transmit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Science and Technology of the House of Representatives a report on the effectiveness of the programs carried out under this section and section 1862n–1a of this title. The report shall include the proportion of individuals receiving scholarships, stipends, or fellowships under the program who—
 
-&emsp;(1) fulfill the individuals’ service obligation required under this section or section 1862n–1a of this title;
+&emsp;(1) fulfill the individuals' service obligation required under this section or section 1862n–1a of this title;
 
-&emsp;(2) remain in the teaching profession beyond the individuals’ service obligation; and
+&emsp;(2) remain in the teaching profession beyond the individuals' service obligation; and
 
-&emsp;(3) remain in the teaching profession in a high need local educational agency beyond the individuals’ service obligation.
+&emsp;(3) remain in the teaching profession in a high need local educational agency beyond the individuals' service obligation.
 
 #### (l) Evaluation
 
@@ -268,7 +268,7 @@ The Higher Education Act of 1965, referred to in subsec. (g)(2)(C), is Pub. L. 8
 
 #### Codification
 
-Section 7030 of Pub. L. 110–69, which directed that “Section 10 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1) is amended to read as follows:” and then set out the text of sections 10 and 10A, was executed by generally amending section 10 and adding a new section 10A (42 U.S.C. 1862n–1a) after section 10, to reflect the probable intent of Congress.
+Section 7030 of Pub. L. 110–69, which directed that "Section 10 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1) is amended to read as follows:" and then set out the text of sections 10 and 10A, was executed by generally amending section 10 and adding a new section 10A (42 U.S.C. 1862n–1a) after section 10, to reflect the probable intent of Congress.
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 

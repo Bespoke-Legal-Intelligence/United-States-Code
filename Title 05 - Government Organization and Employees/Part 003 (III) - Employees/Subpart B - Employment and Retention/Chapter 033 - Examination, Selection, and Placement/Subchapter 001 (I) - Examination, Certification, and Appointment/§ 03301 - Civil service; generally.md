@@ -100,7 +100,7 @@ Pub. L. 101–363, Aug. 14, 1990, 104 Stat. 424, provided that:
 
 &emsp;“(1) regularly assess the state of the Federal workforce;
 
-&emsp;“(2) in conjunction with the President, the Congress, and the Judiciary, seek to attract individuals of the highest caliber to careers involving national public service, and encourage them and others of similar distinction who are already part of the Federal workforce to make a continuing commitment to national public service;
+&emsp;“(2) in conjunction with the President, the Congress, and the Judiciary, seek to attract individualsof the highest caliber to careers involving national public service, and encourage them and others of similar distinction who are already part of the Federal workforce to make a continuing commitment to national public service;
 
 &emsp;“(3) promote better public understanding of the role of Federal employees in implementing Government programs and policies, and otherwise seek to improve the public perception of Federal employees;
 
@@ -224,7 +224,7 @@ Termination.—The Council shall cease to exist upon transmitting its final repo
 
 #### Ex. Ord. No. 8743. Extending the Classified Civil Service
 
-Ex. Ord. No. 8743, Apr. 23, 1941, as amended by Ex. Ord. No. 9230, Aug. 20, 1942; Ex. Ord. No. 9678, Jan. 14, 1946; Ex. Ord. No. 9712, Apr. 13, 1946; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
+Ex. Ord. No. 8743, Apr. 23, 1941, as amended by Ex. Ord. No. 9230, Aug. 20, 1942; Ex. Ord. No. 9678, Jan. 14,1946; Ex. Ord. No. 9712, Apr. 13, 1946; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
 By virtue of the authority vested in me by section 1 of the act of November 26, 1940, entitled “Extending the Classified Executive Civil Service of the United States” (54 Stat. 1211), by the Civil Service Act (22 Stat. 403), and by section 1753 of the Revised Statutes of the United States \[sections 3301 and 7301 of this title\], it is hereby ordered as follows:
 
@@ -336,7 +336,7 @@ WHEREAS older workers are an indispensable source of productivity and experience
 
 WHEREAS President Kennedy, mindful that maximum national growth depends on the utilization of all manpower resources, issued a memorandum on March 14, 1963, reaffirming the policy of the Executive Branch of the Government of hiring and promoting employees on the basis of merit alone and emphasizing the need to assure that older people are not discriminated against because of their age and receive fair and full consideration for employment and advancement in Federal employment; and
 
-WHEREAS, to encourage and hasten the acceptance of the principle of equal employment opportunity for older persons by all sectors of the economy, private and public, the Federal Government can and should provide maximum leadership in this regard by adopting that principle as an express policy of the Federal Government not only with respect to Federal employees but also with respect to persons employed by contractors and subcontractors engaged in the performance of Federal contracts:
+WHEREAS, to encourage and hasten the acceptance of the principle of equal employment opportunity for older persons by all sectors of the economy, private and public, the Federal Government can and should provide maximum leadership in this regard by adopting that principle as an express policy of the Federal Government not only with respect to Federal employees but also with respect to persons employed by contractorsand subcontractors engaged in the performance of Federal contracts:
 
 NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and statutes of the United States and as President of the United States, I hereby declare that it is the policy of the Executive Branch of the Government that (1) contractors and subcontractors engaged in the performance of Federal contracts shall not, in connection with the employment, advancement, or discharge of employees, or in connection with the terms, conditions, or privileges of their employment, discriminate against persons because of their age except upon the basis of a <i>bona fide</i> occupational qualification, retirement plan, or statutory requirement, and (2) that contractors and subcontractors, or persons acting on their behalf, shall not specify, in solicitations or advertisements for employees to work on Government contracts, a maximum age limit for such employment unless the specified maximum age limit is based upon a <i>bona fide</i> occupational qualification, retirement plan, or statutory requirement. The head of each department and agency shall take appropriate action to enunciate this policy, and to this end the Federal Procurement Regulations and the Armed Services Procurement Regulation shall be amended by the insertion therein of a statement giving continuous notice of the existence of the policy declared by this order.
 
@@ -386,7 +386,7 @@ Ex. Ord. No. 11219, May 6, 1965, 30 F.R. 6381, as amended by Ex. Ord. No. 12107,
 
 By virtue of the authority vested in me by section 1753 of the Revised Statutes \[sections 3301 and 7301 of this title\] and the Civil Service Act (22 Stat. 403), and as President of the United States, it is hereby ordered as follows:
 
-Section 1. Under regulations and conditions prescribed by the Office of Personnel Management, apresent or former member of the Foreign Service may be appointed in the competitive service if he:
+Section 1. Under regulations and conditions prescribed by the Office of Personnel Management, a present or former member of the Foreign Service may be appointed in the competitive service if he:
 
 (a) Is qualified for the position in the competitive service;
 
@@ -452,7 +452,7 @@ Ex. Ord. No. 12008, Aug. 25, 1977, 42 F.R. 43373, as amended by Ex. Ord. No. 121
 
 #### Executive Order No. 12015
 
-Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 13024, Nov. 7, 1996, 61 F.R. 58125, which related to career or career-conditional appointments in competitive service for students completing approved career-related work-study programs, was revoked by Ex. Ord. No. 13562, §8(b), Dec. 27, 2010, 75 F.R. 82588, setout below, on the effective date of final regulations promulgated by the Director of OPM to implement the Internship Program \[July 10, 2012, see 77 F.R. 28194\].
+Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 13024, Nov. 7, 1996, 61 F.R. 58125, which related to career or career-conditional appointments in competitive service for students completing approved career-related work-study programs, was revoked by Ex. Ord. No. 13562, §8(b), Dec. 27, 2010, 75 F.R. 82588, set out below, on the effective date of final regulations promulgated by the Director of OPM to implement the Internship Program \[July 10, 2012, see 77 F.R. 28194\].
 
 #### Executive Order No. 12026
 
@@ -468,7 +468,7 @@ Ex. Ord. No. 12362, May 12, 1982, 47 F.R. 21231, as amended by Ex. Ord. No. 1258
 
 #### Executive Order No. 12364
 
-Ex. Ord. No. 12364, May 24, 1982, 47 F.R. 22931, as amended by Ex. Ord. No. 12645, July 12, 1988, 53 F.R. 26750, which related to the Presidential Management Intern Program, was superseded by Ex. Ord. No. 13318, Nov. 21, 2003, 68 F.R. 66317, formerly set out below.
+Ex. Ord. No. 12364, May 24, 1982, 47 F.R. 22931, as amended by Ex. Ord. No. 12645, July 12, 1988, 53 F.R.26750, which related to the Presidential Management Intern Program, was superseded by Ex. Ord. No. 13318, Nov. 21, 2003, 68 F.R. 66317, formerly set out below.
 
 #### Ex. Ord. No. 12505. Career Appointments to Certain Office of Management and Budget Employees
 
@@ -542,7 +542,7 @@ Ex. Ord. No. 12721, July 30, 1990, 55 F.R. 31349, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including sections 3301 and 3302 of title 5 and section 301 of title 3 of the United States Code, and in order to permit certain overseas employees to acquire competitive status upon returning to the United States, it is hereby ordered as follows:
 
-Section 1. A United States citizen who is a family member of a Federal civilian employee, of a nonappropriated fund employee, or of a member of a uniformed service and who meets the qualifications and other requirements established by the Director of the Office of Personnel Management, including an appropriate period of satisfactory service under one or more overseas appointments in the excepted or competitive civil service, may be appointed noncompetitively to a competitive service position in the executive branch within the United States (including Guam, Puerto Rico, and the Virgin Islands). The employing agency in the United States may waive a requirement for a written test for an individual appointed under this order if the agency determines that the duties and responsibilities of the position occupied overseas were similar enough to those of the position to which the individual is being appointed under this order to make the written test unnecessary.
+Section 1. A United States citizen who is a family member of a Federal civilian employee, of a nonappropriated fund employee, or of a member of a uniformed service and who meets the qualifications and other requirements established by the Director of the Office of Personnel Management, including an appropriate period of satisfactory service under one or more overseas appointments in the excepted or competitive civil service, may be appointed noncompetitively to a competitive service position in the executive branch within the United States (including Guam, Puerto Rico, and the Virgin Islands). The employing agency inthe United States may waive a requirement for a written test for an individual appointed under this order if the agency determines that the duties and responsibilities of the position occupied overseas were similar enough to those of the position to which the individual is being appointed under this order to make the written test unnecessary.
 
 Sec. 2. The Director of the Office of Personnel Management shall prescribe such regulations as may be necessary to implement this order.
 
@@ -782,7 +782,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The Federal Government benefits from a diverse workforce that includes students and recent graduates, who infuse the workplace with their enthusiasm, talents, and unique perspectives. The existing competitive hiring process for the Federal civil service, however, is structured in a manner that, even at the entry level, favors job applicants who have significant previous work experience. This structure, along with the complexity of the rules governing admission to the career civil service, creates a barrier to recruiting and hiring students and recent graduates. It places the Federal Government at a competitive disadvantage compared to private-sector employers when it comes to hiring qualified applicants for entry-level positions.
 
-To compete effectively for students and recent graduates, the Federal Government must improve its recruiting efforts; offer clear paths to Federal internships for students from high school through post-graduate school; offer clear paths to civil service careers for recent graduates; and provide meaningful training, mentoring, and career-development opportunities. Further, exposing students and recent graduates to Federal jobs through internships and similar programs attractsthem to careers in the Federal Government and enables agency employers to evaluate them on the job to determine whether they are likely to have successful careers in Government.
+To compete effectively for students and recent graduates, the Federal Government must improve its recruiting efforts; offer clear paths to Federal internships for students from high school through post-graduate school; offer clear paths to civil service careers for recent graduates; and provide meaningful training, mentoring, and career-development opportunities. Further, exposing students and recent graduates to Federal jobs through internships and similar programs attracts them to careers in the Federal Government and enables agency employers to evaluate them on the job to determine whether they are likely to have successful careers in Government.
 
 Accordingly, pursuant to my authority under 5 U.S.C. 3302(1), and in order to achieve a workforce that represents all segments of society as provided in 5 U.S.C. 2301(b)(1), I find that conditions of good administration (specifically, the need to promote employment opportunities for students and recent graduates in the Federal workforce) make necessary an exception to the competitive hiring rules for certain positions in the Federal civil service.
 
@@ -844,7 +844,7 @@ Sec. 7. <i>Implementation</i>. (a) \[Amended Civil Service Rule VI.\]
 
 (v) provide guidance on conducting an orderly transition from existing student and internship programs to the Pathways Programs established pursuant to this order; and
 
-(vi) consider for publication in the Federal Register at an appropriate time a proposed rule seeking publiccomment on the elimination of the Student Temporary Employment Program, established through OPM regulations at 5 CFR 213.3202(a).
+(vi) consider for publication in the Federal Register at an appropriate time a proposed rule seeking public comment on the elimination of the Student Temporary Employment Program, established through OPM regulations at 5 CFR 213.3202(a).
 
 (c) In accordance with regulations prescribed pursuant to this order and applicable law, agencies shall:
 

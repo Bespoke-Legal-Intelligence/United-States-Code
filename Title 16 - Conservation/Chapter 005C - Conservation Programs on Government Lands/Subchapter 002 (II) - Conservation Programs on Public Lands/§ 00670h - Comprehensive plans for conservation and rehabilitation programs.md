@@ -4,7 +4,7 @@
 
 (1) The Secretary of the Interior shall develop, in consultation with the State agencies, a comprehensive plan for conservation and rehabilitation programs to be implemented on public land under his jurisdiction and the Secretary of Agriculture shall do the same in connection with public land under his jurisdiction.
 
-(2) The Secretary of the Interior shall develop, with the prior written approval of the AtomicEnergy Commission, a comprehensive plan for conservation and rehabilitation programs to be implemented on public land under the jurisdiction of the Chairman and develop, with the prior written approval of the Administrator, a comprehensive plan for such programs to be implemented on public land under the jurisdiction of the Administrator. Each such plan shall be developed after the Secretary of the Interior makes, with the prior written approval of the Chairman or the Administrator, as the case may be, and in consultation with the State agencies, necessary studies and surveys of the land concerned to determine where conservation and rehabilitation programs are most needed.
+(2) The Secretary of the Interior shall develop, with the prior written approval of the Atomic Energy Commission, a comprehensive plan for conservation and rehabilitation programs to be implemented on public land under the jurisdiction of the Chairman and develop, with the prior written approval of the Administrator, a comprehensive plan for such programs to be implemented on public land under the jurisdiction of the Administrator. Each such plan shall be developed after the Secretary of the Interior makes, with the prior written approval of the Chairman or the Administrator, as the case may be, and in consultation with the State agencies, necessary studies and surveys of the land concerned to determine where conservation and rehabilitation programs are most needed.
 
 #### (b) Consistency with overall land use and management plans; hunting, trapping, and fishing
 
@@ -48,7 +48,7 @@ Each comprehensive plan developed pursuant to this section shall be consistent w
 
 > A cooperative agreement may also provide for arrangements under which the Secretary concerned may authorize officers and employees of the State agency to enforce, or to assist in the enforcement of, section 670j(a) of this title.
 
-(4) Except where limited under a comprehensive plan or pursuant to cooperative agreement, hunting, fishing, and trapping shall be permitted with respect to resident fish and wildlifein accordance with applicable laws and regulations of the State in which such land is located on public land which is the subject of a conservation and rehabilitation program implemented under this subchapter.
+(4) Except where limited under a comprehensive plan or pursuant to cooperative agreement, hunting, fishing, and trapping shall be permitted with respect to resident fish and wildlife in accordance with applicable laws and regulations of the State in which such land is located on public land which is the subject of a conservation and rehabilitation program implemented under this subchapter.
 
 (5) The Secretary of the Interior and the Secretary of Agriculture, as the case may be, shall prescribe such regulations as are deemed necessary to control, in a manner consistent with the applicable comprehensive plan and cooperative agreement, the public use of public land which is the subject of any conservation and rehabilitation program implemented by him under this subchapter.
 
@@ -64,7 +64,7 @@ The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (c)(1), is 
 
 #### Codification
 
-In subsec. (d), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977 (41 U.S.C. 501 et seq.)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), "chapter 63 of title 31" substituted for "the Federal Grant and Cooperative Agreement Act of 1977 (41 U.S.C. 501 et seq.)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 

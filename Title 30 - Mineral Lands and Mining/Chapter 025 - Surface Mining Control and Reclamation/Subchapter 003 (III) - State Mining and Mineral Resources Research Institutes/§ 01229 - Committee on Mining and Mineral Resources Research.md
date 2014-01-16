@@ -38,7 +38,7 @@ The Committee shall develop a national plan for research in mining and mineral r
 
 Section 10 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
 
-(Pub. L. 98–409, §9, Aug. 29, 1984, 98 Stat. 1540; Pub. L. 100–483, §§8, 9, Oct. 12, 1988, 102 Stat. 2340; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
+(Pub. L. 98–409, §9, Aug. 29, 1984, 98 Stat. 1540; Pub. L. 100–483, §§8, 9, Oct. 12, 1988, 102 Stat. 2340;Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
 #### References in Text
 
@@ -54,17 +54,17 @@ A prior section 1229, Pub. L. 95–87, title III, §309, Aug. 3, 1977, 91 Stat. 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(7). Pub. L. 100–483, §8, substituted “7 other persons” for “six other persons”, “this subchapter, 3” for “section 301 of the Surface Mining Control and Reclamation Act of 1977, two”, and “7 appointments” for “six appointments”.
+<b>1988</b>—Subsec. (a)(7). Pub. L. 100–483, §8, substituted "7 other persons" for "six other persons", "this subchapter, 3" for "section 301 of the Surface Mining Control and Reclamation Act of 1977, two", and "7 appointments" for "six appointments".
 
-Subsec. (e). Pub. L. 100–483, §9, substituted “submit an annual update of such plan by January 15 of each calendar year” for “update the plan annually thereafter”.
+Subsec. (e). Pub. L. 100–483, §9, substituted "submit an annual update of such plan by January 15 of each calendar year" for "update the plan annually thereafter".
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (a)(2) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
+"United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (a)(2) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (e) of this section relating to the requirement to submit annual updates of the national plan toCongress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 157 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (e) of this section relating to the requirement to submit annual updates of the national plan to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 157 of House Document No. 103–7.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -74,5 +74,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 Pub. L. 100–483, §11, Oct. 12, 1988, 102 Stat. 2341, directed Committee on Mining and Mineral Resources Research to submit a report to Congress by Jan. 15, 1992, on programs established under this subchapter, including reviews of activities of the institutes and generic mineral technology centers established under this subchapter, each institute's and center's eligibility pursuant to section 1230 of this title, and recommendations on establishing new generic mineral technology centers, as well as phasing out or consolidating existing centers, and further directed Committee to submit to Congress, by Jan. 15, 1990, a proposal to establish a Generic Mineral Technology Center on Strategic and Critical Minerals.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “in”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "in".</i>
 

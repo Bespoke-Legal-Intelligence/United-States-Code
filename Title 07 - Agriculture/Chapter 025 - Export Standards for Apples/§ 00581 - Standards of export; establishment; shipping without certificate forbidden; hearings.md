@@ -6,9 +6,9 @@ It shall be unlawful for any person to ship or offer for shipment or for any car
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–96 struck out “and/or pears” after “any apples” and “or pears” after “such apples”.
+<b>1999</b>—Pub. L. 106–96 struck out "and/or pears" after "any apples" and "or pears" after "such apples".
 
 #### Short Title
 
-Act June 10, 1933, ch. 59, §11, as added by Pub. L. 106–96, §1(a), Nov. 12, 1999, 113 Stat. 1321, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Export Apple Act’.”.
+Act June 10, 1933, ch. 59, §11, as added by Pub. L. 106–96, §1(a), Nov. 12, 1999, 113 Stat. 1321, provided that: "This Act \[enacting this chapter\] may be cited as the 'Export Apple Act'.".
 

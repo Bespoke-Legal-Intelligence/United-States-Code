@@ -42,13 +42,13 @@ Construction With Other Pay and Allowances.—Monthly special compensation payab
 
 (f)
 
-Benefit Information.—(1) The Secretary of Defense, in collaboration with the Secretary ofVeterans Affairs, shall ensure that members of the uniformed services who may be eligible for compensation under this section are made aware of the availability of such compensation by including information about such compensation in written and online materials for such members and their families.
+Benefit Information.—(1) The Secretary of Defense, in collaboration with the Secretary of Veterans Affairs, shall ensure that members of the uniformed services who may be eligible for compensation under this section are made aware of the availability of such compensation by including information about such compensation in written and online materials for such members and their families.
 
 (2) The Secretary of Defense shall ensure that a member eligible to receive special monthly compensation under this section is aware that the member's eligibility for such compensation will expire pursuant to subsection (d)(1) after the end of the 90-day period that begins on the date of the separation or retirement of the member even though the member has not begun to receive compensation under section 1114(r)(2) of title 38 before the end of such period.
 
 (g)
 
-Catastrophic Injury or Illness Defined.—In this section, the term “catastrophic injury or illness” means a permanent, severely disabling injury, disorder, or illness that the Secretary concerned determines compromises the ability of the afflicted person to carry out the activities of daily living to such a degree that the person requires—
+Catastrophic Injury or Illness Defined.—In this section, the term "catastrophic injury or illness" means a permanent, severely disabling injury, disorder, or illness that the Secretary concerned determines compromises the ability of the afflicted person to carry out the activities of daily living to such a degree that the person requires—
 
 &emsp;(1) personal or mechanical assistance to leave home or bed; or
 

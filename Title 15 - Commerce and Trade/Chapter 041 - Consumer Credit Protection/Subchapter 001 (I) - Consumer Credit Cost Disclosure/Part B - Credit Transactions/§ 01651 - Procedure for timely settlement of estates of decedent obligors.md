@@ -6,9 +6,9 @@ The Bureau, in consultation with the Bureau <sup>1</sup> and each other agency 
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1100A(3), substituted “the Bureau” for “the Federal Trade Commission”.
+<b>2010</b>—Pub. L. 111–203, §1100A(3), substituted "the Bureau" for "the Federal Trade Commission".
 
-Pub. L. 111–203, §1100A(2), substituted “The Bureau” for “The Board”.
+Pub. L. 111–203, §1100A(2), substituted "The Bureau" for "The Board".
 
 #### Effective Date of 2010 Amendment
 

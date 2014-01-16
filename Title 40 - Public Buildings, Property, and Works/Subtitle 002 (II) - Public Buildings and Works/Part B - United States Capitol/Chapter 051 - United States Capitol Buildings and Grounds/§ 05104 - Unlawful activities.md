@@ -6,7 +6,7 @@ Definitions.—In this section—
 
 &emsp;(1)
 
-Act of physical violence.—The term “act of physical violence” means any act involving—
+Act of physical violence.—The term "act of physical violence" means any act involving—
 
 &emsp;&emsp;(A) an assault or other infliction or threat of infliction of death or bodily harm on an individual; or
 
@@ -14,7 +14,7 @@ Act of physical violence.—The term “act of physical violence” means any ac
 
 &emsp;(2)
 
-Dangerous weapon.—The term “dangerous weapon” includes—
+Dangerous weapon.—The term "dangerous weapon" includes—
 
 &emsp;&emsp;(A) all articles enumerated in section 14(a) of the Act of July 8, 1932 (ch. 465, 47 Stat. 654); and
 
@@ -22,11 +22,11 @@ Dangerous weapon.—The term “dangerous weapon” includes—
 
 &emsp;(3)
 
-Explosives.—The term “explosives” has the meaning given that term in section 841(d) of title 18.
+Explosives.—The term "explosives" has the meaning given that term in section 841(d) of title 18.
 
 &emsp;(4)
 
-Firearm.—The term “firearm” has the meaning given that term in section 921(3) <sup>1</sup> of title 18.
+Firearm.—The term "firearm" has the meaning given that term in section 921(3) <sup>1</sup> of title 18.
 
 (b)
 
@@ -148,13 +148,13 @@ July 31, 1946, ch. 707, §6, 60 Stat. 718; Pub. L. 87–571, Aug. 6, 1962, 76 St
 
 40:193g.
 
-In subsection (a)(3), the words “section 841(d) of title 18” are substituted for “section 121(1) of title 50” because of the enactment of 18:ch. 39 and the repeal of the provisions classified to 50:121(1) by sections 1102 and 1106(a) of the Organized Crime Control Act of 1970 (Public Law 91–452, 84 Stat. 952, 960). The plural form “explosives” is used because that is the term defined in 18:841(d).
+In subsection (a)(3), the words "section 841(d) of title 18" are substituted for "section 121(1) of title 50" because of the enactment of 18:ch. 39 and the repeal of the provisions classified to 50:121(1) by sections 1102 and 1106(a) of the Organized Crime Control Act of 1970 (Public Law 91–452, 84 Stat. 952, 960). The plural form "explosives" is used because that is the term defined in 18:841(d).
 
-In subsection (a)(4), the words “section 921(3) of title 18” are substituted for “section 901(3) of title 15” because of the enactment of 18:ch. 44 and the repeal of the provisions classified to 15:901(3) by sections 902 and 906 of the Omnibus Crime Control and Safe Streets Act of 1968 (Public Law 90–351, 82 Stat. 226, 234).
+In subsection (a)(4), the words "section 921(3) of title 18" are substituted for "section 901(3) of title 15" because of the enactment of 18:ch. 44 and the repeal of the provisions classified to 15:901(3) by sections 902 and 906 of the Omnibus Crime Control and Safe Streets Act of 1968 (Public Law 90–351, 82 Stat. 226, 234).
 
-In subsection (e)(1)(A), the plural “explosives” is used for consistency with the term defined in subsection (a)(3). In subclause (iii), the words “by any means” are omitted as unnecessary.
+In subsection (e)(1)(A), the plural "explosives" is used for consistency with the term defined in subsection (a)(3). In subclause (iii), the words "by any means" are omitted as unnecessary.
 
-In subsection (e)(2)(A), the words “unless authorized to do so pursuant to rules adopted, or authorization given, by that House” are substituted for “unless such person is authorized, pursuant to rules adopted by that House or pursuant to authorization given by that House, to enter or to remain upon such floor or in such cloakroom, lobby, or room” to eliminate unnecessary words.
+In subsection (e)(2)(A), the words "unless authorized to do so pursuant to rules adopted, or authorization given, by that House" are substituted for "unless such person is authorized, pursuant to rules adopted by that House or pursuant to authorization given by that House, to enter or to remain upon such floor or in such cloakroom, lobby, or room" to eliminate unnecessary words.
 
 #### References in Text
 
@@ -168,7 +168,7 @@ For information regarding constitutionality of section 7 of act July 31, 1946, c
 
 <b>2010</b>—Subsec. (e)(2)(C). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(2)(A)(iii). See 2007 Amendment note below.
 
-<b>2008</b>—Subsec. (e)(2)(C). Pub. L. 110–178 added subpar. (C) and struck out former subpar. (C) which read as follows: “with the intent to disrupt the orderly conduct of official business, enter or remain in a room in any of the Capitol Buildings set aside or designated for the use of either House of Congress or a Member, committee, officer, or employee of Congress or either House of Congress;”.
+<b>2008</b>—Subsec. (e)(2)(C). Pub. L. 110–178 added subpar. (C) and struck out former subpar. (C) which read as follows: "with the intent to disrupt the orderly conduct of official business, enter or remain in a room in any of the Capitol Buildings set aside or designated for the use of either House of Congress or a Member, committee, officer, or employee of Congress or either House of Congress;".
 
 <b>2007</b>—Subsec. (e)(2)(C). Pub. L. 110–161, §1004(d)(2)(A)(iii), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
@@ -184,5 +184,5 @@ Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. 
 
 Amendment by Pub. L. 110–161 effective Oct. 1, 2009, see section 1004(d)(4) of title I of div. H of Pub. L. 110–161, set out as an Effective Date of Repeal note under section 167 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “921(a)(3)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "921(a)(3)".</i>
 

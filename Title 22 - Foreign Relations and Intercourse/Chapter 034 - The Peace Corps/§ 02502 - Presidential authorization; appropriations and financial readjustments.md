@@ -26,25 +26,25 @@ In recognition of the fact that women in developing countries play a significant
 
 In recognition of the fact that there are over 400,000,000 disabled people in the world, 95 percent of whom are among the poorest of the poor, the Peace Corps shall be administered so as to give particular attention to programs, projects, and activities which tend to integrate disabled people into the national economies of developing countries, thus improving their status and assisting the total development effort.
 
-(Pub. L. 87–293, title I, §3, Sept. 22, 1961, 75 Stat. 612; Pub. L. 87–442, Apr. 27, 1962, 76 Stat. 62; Pub. L. 88–200, §1, Dec. 13, 1963, 77 Stat. 359; Pub. L. 88–285, Mar. 17, 1964, 78 Stat. 166; Pub. L. 89–134, §1, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–572, §1, Sept. 13, 1966, 80 Stat. 764; Pub. L. 90–175, Dec. 5, 1967, 81 Stat. 542; Pub. L. 90–362, June 27, 1968, 82 Stat. 250; Pub. L. 91–99, §1, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §1, July 24, 1970, 84 Stat. 464; Pub. L. 92–135, Oct. 8, 1971, 85 Stat. 376; Pub. L. 92–352, title IV, §401, July 13, 1972, 86 Stat. 495; Pub. L. 93–49, §1, June 25, 1973, 87 Stat. 99; Pub. L. 93–302, §§1, 2, June 1, 1974, 88 Stat. 191; Pub. L. 94–130, §§1–3, Nov. 14, 1975, 89 Stat. 684; Pub. L. 94–281, §§1, 2, May 7, 1976, 90 Stat. 458; Pub. L. 95–102, §§1, 2, Aug. 15, 1977, 91 Stat. 841; Pub. L. 95–331, §3, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–53, title III, §301, Aug. 14, 1979, 93 Stat. 370; Pub. L. 96–533, title VI, §601(a), (b), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 97–113, title VI, §§601(e)(1), 602, 603, Dec. 29, 1981, 95 Stat. 1542; Pub. L. 99–83, title XI, §1101, Aug. 8, 1985, 99 Stat. 272; Pub. L. 99–399, title XIII, §1301, Aug. 27, 1986, 100 Stat. 897; Pub. L. 102–565, §1, Oct. 28, 1992, 106 Stat. 4265; Pub. L. 106–30, §1, May 21, 1999, 113 Stat. 55.)
+(Pub. L. 87–293, title I, §3, Sept. 22, 1961, 75 Stat. 612; Pub. L. 87–442, Apr. 27, 1962, 76 Stat. 62; Pub. L. 88–200, §1, Dec. 13, 1963, 77 Stat. 359; Pub. L. 88–285, Mar. 17, 1964, 78 Stat. 166; Pub. L. 89–134, §1, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–572, §1, Sept. 13, 1966, 80 Stat. 764; Pub. L. 90–175, Dec. 5, 1967, 81 Stat. 542; Pub. L. 90–362, June 27, 1968, 82 Stat. 250; Pub. L. 91–99, §1, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §1, July 24, 1970, 84 Stat. 464; Pub. L. 92–135, Oct. 8, 1971, 85 Stat. 376; Pub. L. 92–352, title IV, §401, July 13, 1972, 86 Stat. 495; Pub. L. 93–49, §1, June 25, 1973, 87 Stat. 99; Pub. L. 93–302, §§1, 2, June 1, 1974, 88 Stat. 191; Pub. L. 94–130, §§1–3, Nov. 14, 1975, 89 Stat. 684; Pub. L. 94–281, §§1, 2, May 7, 1976, 90 Stat. 458; Pub. L. 95–102, §§1, 2, Aug. 15, 1977, 91 Stat. 841; Pub. L. 95–331, §3, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–53, title III, §301, Aug. 14, 1979, 93 Stat. 370; Pub. L. 96–533, title VI, §601(a), (b), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 97–113, title VI, §§601(e)(1), 602, 603, Dec. 29, 1981, 95 Stat. 1542; Pub. L. 99–83, title XI, §1101, Aug. 8, 1985, 99 Stat. 272; Pub. L. 99–399, title XIII, §1301, Aug. 27, 1986, 100 Stat. 897; Pub.L. 102–565, §1, Oct. 28, 1992, 106 Stat. 4265; Pub. L. 106–30, §1, May 21, 1999, 113 Stat. 55.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (c), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (c), was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–30 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to carry out the purposes of this chapter $218,146,000 for fiscal year 1993, which are authorized to remain available until September 30, 1994.”
+<b>1999</b>—Subsec. (b). Pub. L. 106–30 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "There are authorized to be appropriated to carry out the purposes of this chapter $218,146,000 for fiscal year 1993, which are authorized to remain available until September 30, 1994."
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–565 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to carry out the purposes of this chapter $130,000,000 for the fiscal year 1986 and $137,200,000 for the fiscal year 1987.”
+<b>1992</b>—Subsec. (b). Pub. L. 102–565 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "There are authorized to be appropriated to carry out the purposes of this chapter $130,000,000 for the fiscal year 1986 and $137,200,000 for the fiscal year 1987."
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–399 in amending subsec. (b) generally, substituted provision authorizing appropriations of $130,000,000 for fiscal year 1986 and $137,200,000 for fiscal year 1987 for provision authorizing appropriations of $130,000,000 for fiscal years 1986 and 1987, providing that unobligated balances continue to be made available for the general purposes for which appropriated, and prohibiting the use of funds to carry out this chapter for the Volunteers to America Program or any similar program involving the service or training of foreign nationals in the United States.
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–83 substituted provisions authorizing appropriations of $130,000,000 for fiscal years 1986 and 1987 for provisions authorizing appropriations of not to exceed $105,000,000 for fiscal years 1982 and 1983, and struck out provisos limiting use of funds in fiscal year 1967, and limiting contracts and agreements for research.
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–113, §602(a), substituted “the fiscal year 1982 not to exceed $105,000,000 and for the fiscal year 1983 not to exceed $105,000,000” for “fiscal year 1981 not to exceed $118,000,000”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–113, §602(a), substituted "the fiscal year 1982 not to exceed $105,000,000 and for the fiscal year 1983 not to exceed $105,000,000" for "fiscal year 1981 not to exceed $118,000,000".
 
-Subsec. (c). Pub. L. 97–113, §602(b), substituted “each fiscal year” for “fiscal year 1981”.
+Subsec. (c). Pub. L. 97–113, §602(b), substituted "each fiscal year" for "fiscal year 1981".
 
 Subsec. (d). Pub. L. 97–113, §601(e)(1), redesignated subsec. (g) as (d) and struck out former subsec. (d) which provided for rectification of imbalance in readjustment allowance for the period Mar. 1, 1961, to Feb. 28, 1973.
 
@@ -58,11 +58,11 @@ Subsec. (h). Pub. L. 97–113, §603, added subsec. (h).
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–533, §601(a), substituted appropriations authorization of $118,000,000 for fiscal year 1981 for such authorization of $105,404,000 for fiscal year 1980.
 
-Subsec. (c). Pub. L. 96–533, §601(b), substituted “1981” for “1980”.
+Subsec. (c). Pub. L. 96–533, §601(b), substituted "1981" for "1980".
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–53, §301(1), substituted provisions authorizing to be appropriated for fiscal year 1980 not to exceed $105,404,000, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000, and for fiscal year 1979 not to exceed $112,424,000, and setting forth availability of funds for the United Nations contributions by the Corps.
 
-Subsec. (c). Pub. L. 96–53, §301(2), substituted “1980” for “1978, $1,069,000, and for fiscal year 1979”.
+Subsec. (c). Pub. L. 96–53, §301(2), substituted "1980" for "1978, $1,069,000, and for fiscal year 1979".
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–331, §3(1), substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year 1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
 
@@ -82,33 +82,33 @@ Subsec. (c). Pub. L. 94–281, §2, inserted provisions relating to fiscal year 
 
 Subsec. (c). Pub. L. 94–130, §2, authorized appropriation of $1,000,000 for fiscal year 1976, for increase in employee benefits, in addition to amounts authorized for fiscal year 1976, and for period July 1, 1976, through Sept. 30, 1976, and deleted prior appropriation authorization of $1,000,000 for fiscal year 1975, for increase in employee benefits, in addition to amounts authorized for fiscal year 1975.
 
-Subsec. (d). Pub. L. 94–130, §3, substituted “shall transfer”, “no later than December 31, 1975, not to exceed $315,000 from any sums available to carry out the purposes of this chapter in fiscal year 1976” for “is authorized to transfer” and “from any sums appropriated to carry out the purposes of this chapter in fiscal year 1975 not to exceed $315,000”.
+Subsec. (d). Pub. L. 94–130, §3, substituted "shall transfer", "no later than December 31, 1975, not to exceed $315,000 from any sums available to carry out the purposes of this chapter in fiscal year 1976" for "is authorized to transfer" and "from any sums appropriated to carry out the purposes of this chapter in fiscal year 1975 not to exceed $315,000".
 
-<b>1974</b>—Subsec. (b). Pub. L. 93–302, §1, substituted “There are authorized to be appropriated for fiscal year 1975 not to exceed $82,256,000 to carry out the purposes of this chapter” for “There are authorized to be appropriated to the President for the fiscal year 1974 not to exceed $77,001,000 to carry out the purposes of this chapter”.
+<b>1974</b>—Subsec. (b). Pub. L. 93–302, §1, substituted "There are authorized to be appropriated for fiscal year 1975 not to exceed $82,256,000 to carry out the purposes of this chapter" for "There are authorized to be appropriated to the President for the fiscal year 1974 not to exceed $77,001,000 to carry out the purposes of this chapter".
 
 Subsecs. (c) to (f). Pub. L. 93–302, §2, added subsecs. (c) to (f).
 
-<b>1973</b>—Subsec. (b). Pub. L. 93–49 substituted “1974” for “1973” and “$77,001,000” for “$88,027,000”.
+<b>1973</b>—Subsec. (b). Pub. L. 93–49 substituted "1974" for "1973" and "$77,001,000" for "$88,027,000".
 
-<b>1972</b>—Subsec. (b). Pub. L. 92–352 substituted “1973” for “1972” and “$88,027,000” for “$77,200,000”.
+<b>1972</b>—Subsec. (b). Pub. L. 92–352 substituted "1973" for "1972" and "$88,027,000" for "$77,200,000".
 
-<b>1971</b>—Subsec. (b). Pub. L. 92–135 substituted “1972” for “1971” and “$77,200,000” for “$98,800,000”.
+<b>1971</b>—Subsec. (b). Pub. L. 92–135 substituted "1972" for "1971" and "$77,200,000" for "$98,800,000".
 
-<b>1970</b>—Subsec. (b). Pub. L. 91–352 substituted “1971” for “1970” and “$98,800,000” for “$98,450,000”.
+<b>1970</b>—Subsec. (b). Pub. L. 91–352 substituted "1971" for "1970" and "$98,800,000" for "$98,450,000".
 
-<b>1969</b>—Subsec. (b). Pub. L. 91–99 substituted “1970” for “1969” and “$98,450,000” for “$112,800,000”, and inserted provision prohibiting funds authorized to carry out the purposes of this chapter to be used to carry out the Volunteers to America Program conducted under the Mutual Educational and Cultural Exchange Act of 1961, or any similar program.
+<b>1969</b>—Subsec. (b). Pub. L. 91–99 substituted "1970" for "1969" and "$98,450,000" for "$112,800,000", and inserted provision prohibiting funds authorized to carry out the purposes of this chapter to be used to carry out the Volunteers to America Program conducted under the Mutual Educational and Cultural Exchange Act of 1961, or any similar program.
 
-<b>1968</b>—Subsec. (b). Pub. L. 90–362 substituted “1969” for “1968” and “$112,800,000” for “$115,700,000”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–362 substituted "1969" for "1968" and "$112,800,000" for "$115,700,000".
 
-<b>1967</b>—Subsec. (b). Pub. L. 90–175 substituted “1968” for “1967” and “$115,700,000” for “$110,000,000”.
+<b>1967</b>—Subsec. (b). Pub. L. 90–175 substituted "1968" for "1967" and "$115,700,000" for "$110,000,000".
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–572 authorized an appropriation of $110,000,000 for the fiscal year 1967 and provided for obligation of limited amount of funds under contracts or agreements to carry out research relating to the basic responsibilities of the Peace Corps and for continuing availability of unobligated balances of funds.
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–134 substituted “1966” for “1965” and inserted $500,000 limit on funds available for research.
+<b>1965</b>—Subsec. (b). Pub. L. 89–134 substituted "1966" for "1965" and inserted $500,000 limit on funds available for research.
 
 <b>1964</b>—Subsec. (b). Pub. L. 88–285 authorized an appropriation of $115,000,000 for fiscal year 1965.
 
-<b>1963</b>—Subsec. (b). Pub. L. 88–200 substituted “1964” and “$102,000,000” for “1963” and “$63,750,000”, respectively.
+<b>1963</b>—Subsec. (b). Pub. L. 88–200 substituted "1964" and "$102,000,000" for "1963" and "$63,750,000", respectively.
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–442 authorized an appropriation of $63,750,000 for the fiscal year 1963.
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–102, §3, Aug. 15, 1977, 91 Stat. 841, provided that: “The amendments made by this Act \[amending this section\] shall take effect on October 1, 1977.”
+Pub. L. 95–102, §3, Aug. 15, 1977, 91 Stat. 841, provided that: "The amendments made by this Act \[amending this section\] shall take effect on October 1, 1977."
 
 #### Delegation of Functions; Allocation of Funds
 
@@ -130,9 +130,9 @@ Functions of President under this section delegated to and funds available to Pr
 
 #### Applicability of Pub. L. 97–113 to Actions Prior to December 29, 1981
 
-Pub. L. 97–113, title VI, §601(e)(2), Dec. 29, 1981, 95 Stat. 1542, provided that: “The amendment made by paragraph (1) of this subsection \[redesignating former subsec. (g) as (d) and striking out subsecs. (d) to (f) of this section\] shall not alter or affect (A) the validity of any action taken before the date of the enactment of this Act \[Dec. 29, 1981\] under those provisions of law repealed by that amendment, or (B) the liability of any person for any payment described in section 3(f) of the Peace Corps Act \[former subsec. (f) of this section\] as in effect immediately before the date of the enactment of this Act.”
+Pub. L. 97–113, title VI, §601(e)(2), Dec. 29, 1981, 95 Stat. 1542, provided that: "The amendment made by paragraph (1) of this subsection \[redesignating former subsec. (g) as (d) and striking out subsecs. (d) to (f) of this section\] shall not alter or affect (A) the validity of any action taken before the date of the enactment of this Act \[Dec. 29, 1981\] under those provisions of law repealed by that amendment, or (B) the liability of any person for any payment described in section 3(f) of the Peace Corps Act \[former subsec. (f) of this section\] as in effect immediately before the date of the enactment of this Act."
 
 #### Payment of Readjustment Allowances From Amount Appropriated for Fiscal Year 1977; Limitation on Amount Available
 
-Pub. L. 94–281, §3, May 7, 1976, 90 Stat. 458, provided that: “Of the amount appropriated for fiscal year 1977 to carry out the purposes of the Peace Corps Act \[see Short Title note set out under section 2501 of this title\], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act \[sections 2504(c) and 2505(1) of this title\].”
+Pub. L. 94–281, §3, May 7, 1976, 90 Stat. 458, provided that: "Of the amount appropriated for fiscal year 1977 to carry out the purposes of the Peace Corps Act \[see Short Title note set out under section 2501 of this title\], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act \[sections 2504(c) and 2505(1) of this title\]."
 

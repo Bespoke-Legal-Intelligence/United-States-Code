@@ -6,7 +6,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (b) Transitional areas
 
-For purposes of this section, the term “transitional area” means, subject to subsection (c), a metropolitan area for which there has been reported to and confirmed by the Director of the Centers for Disease Control and Prevention a cumulative total of at least 1,000, but fewer than 2,000, cases of AIDS during the most recent period of 5 calendar years for which such data are available.
+For purposes of this section, the term "transitional area" means, subject to subsection (c), a metropolitan area for which there has been reported to and confirmed by the Director of the Centers for Disease Control and Prevention a cumulative total of at least 1,000, but fewer than 2,000, cases of AIDS during the most recent period of 5 calendar years for which such data are available.
 
 #### (c) Certain eligibility rules
 
@@ -66,7 +66,7 @@ For purposes of this section, the term “transitional area” means, subject to
 
 #### (3) Application; technical assistance; definitions
 
-&emsp;The provisions of sections 300ff–15, 300ff–16, and 300ff–17 of this title apply with respect to grants under subsection (a) to the same extent and in the same manner as such provisions apply with respect to grants under subpart I.
+&emsp;The provisions of sections 300ff–15, 300ff–16, and 300ff–17 of this title apply with respect togrants under subsection (a) to the same extent and in the same manner as such provisions apply with respect to grants under subpart I.
 
 (July 1, 1944, ch. 373, title XXVI, §2609, as added and amended Pub. L. 109–415, title I, §107(a)(2), title VII, §703, Dec. 19, 2006, 120 Stat. 2781, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 4(a), Oct. 30, 2009, 123 Stat. 2885, 2889.)
 
@@ -74,15 +74,15 @@ For purposes of this section, the term “transitional area” means, subject to
 
 <b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-Subsec. (c)(1). Pub. L. 111–87, §4(a)(1), in heading substituted “2011” for “2007” and in text substituted “2011” for “2007” in two places and “2010” for “2006”.
+Subsec. (c)(1). Pub. L. 111–87, §4(a)(1), in heading substituted "2011" for "2007" and in text substituted "2011" for "2007" in two places and "2010" for "2006".
 
-Subsec. (c)(2)(A)(ii). Pub. L. 111–87, §4(a)(2)(A), substituted “subject to subparagraphs (B) and (C), to have a” for “to have a”.
+Subsec. (c)(2)(A)(ii). Pub. L. 111–87, §4(a)(2)(A), substituted "subject to subparagraphs (B) and (C), to have a" for "to have a".
 
 Subsec. (c)(2)(B). Pub. L. 111–87, §4(a)(2)(B), (C), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (c)(2)(C). Pub. L. 111–87, §4(a)(2)(B), (D), redesignated subpar. (B) as (C) and substituted “Subparagraphs (A) and (B) do not apply” for “Subparagraph (A) does not apply”.
+Subsec. (c)(2)(C). Pub. L. 111–87, §4(a)(2)(B), (D), redesignated subpar. (B) as (C) and substituted "Subparagraphs (A) and (B) do not apply" for "Subparagraph (A) does not apply".
 
-Subsec. (d)(1)(B). Pub. L. 111–87, §4(a)(3), substituted “2013” for “2009”.
+Subsec. (d)(1)(B). Pub. L. 111–87, §4(a)(3), substituted "2013" for "2009".
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 

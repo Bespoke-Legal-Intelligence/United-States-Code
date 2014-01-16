@@ -12,5 +12,5 @@ Nothing in this subchapter shall be construed to diminish any right or privilege
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–109 substituted “Bands” for “Tribe” in heading.
+<b>1996</b>—Subsec. (b). Pub. L. 104–109 substituted "Bands" for "Tribe" in heading.
 

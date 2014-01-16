@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Jewish War Veterans of the United States of America, Incorporated (in this chapter, the “corporation”), a nonprofit corporation incorporated in New York, is a federally chartered corporation.
+Federal Charter.—Jewish War Veterans of the United States of America, Incorporated (in this chapter, the "corporation"), a nonprofit corporation incorporated in New York, is a federally chartered corporation.
 
 (b)
 
@@ -32,7 +32,7 @@ Aug. 21, 1984, Pub. L. 98–391, §§1(a), 15 (last sentence), 16, 98 Stat. 1358
 
 36:2715.
 
-In subsection (a), the words “a nonprofit corporation incorporated in New York” are substituted for “organized and incorporated as a nonprofit entity under the laws of the State of New York”, and the words “is a federally chartered corporation” are substituted for “is hereby recognized as such and is granted a Federal charter”, for consistency in the revised title and to eliminate unnecessary words.
+In subsection (a), the words "a nonprofit corporation incorporated in New York" are substituted for "organized and incorporated as a nonprofit entity under the laws of the State of New York", and the words "is a federally chartered corporation" are substituted for "is hereby recognized as such and is granted a Federal charter", for consistency in the revised title and to eliminate unnecessary words.
 
-In subsection (b), the text of 36:2714 (last sentence) is omitted as included in 36:2715. The words “restrictions or” are omitted as unnecessary.
+In subsection (b), the text of 36:2714 (last sentence) is omitted as included in 36:2715. The words "restrictions or" are omitted as unnecessary.
 

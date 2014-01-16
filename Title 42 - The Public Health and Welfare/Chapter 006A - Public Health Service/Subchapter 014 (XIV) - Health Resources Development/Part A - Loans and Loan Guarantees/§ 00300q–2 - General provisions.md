@@ -6,7 +6,7 @@
 
 (2)(A) The United States shall be entitled to recover from the applicant for a loan guarantee under this part the amount of any payment made pursuant to such guarantee, unless the Secretary for good cause waives such right of recovery; and, upon making any such payment, the United States shall be subrogated to all of the rights of the recipient of the payments with respect to which the guarantee was made.
 
-(B) To the extent permitted by subparagraph (C), any terms and conditions applicable to a loan guarantee under this part (including terms and conditions imposed under subparagraph (D)) may be modified by the Secretary to the extent he determines it to be consistent with the financial interest of the United States.
+(B) To the extent permitted by subparagraph (C), any terms and conditions applicable to a loan guarantee under this part (including terms and conditions imposed under subparagraph (D)) may be modified by the Secretary to the extenthe determines it to be consistent with the financial interest of the United States.
 
 (C) Any loan guarantee made by the Secretary under this part shall be incontestable (i) in the hands of an applicant on whose behalf such guarantee is made unless the applicant engaged in fraud or misrepresentation in securing such guarantee, and (ii) as to any person (or his successor in interest) who makes or contracts to make a loan to such applicant in reliance thereon unless such person (or his successor in interest) engaged in fraud or misrepresentation in making or contracting to make such loan.
 
@@ -34,7 +34,7 @@
 
 &emsp;(i) to guarantee to such purchaser (and any successor in interest to such purchaser) payments of the principal and interest payable under such loan, and
 
-&emsp;(ii) to pay as an interest subsidy to such purchaser (and any successor in interest of such purchaser) amounts which, when added to theamount of interest payable on such loan, are equivalent to a reasonable rate of interest on such loan as determined by the Secretary after taking into account the range of prevailing interest rates in the private market on similar loans and the risks assumed by the United States.
+&emsp;(ii) to pay as an interest subsidy to such purchaser (and any successor in interest of such purchaser) amounts which, when added to the amount of interest payable on such loan, are equivalent to a reasonable rate of interest on such loan as determined by the Secretary after taking into account the range of prevailing interest rates in the private market on similar loans and the risks assumed by the United States.
 
 (B) Any agreement under subparagraph (A)—
 
@@ -52,7 +52,7 @@
 
 #### (d) Loan and loan guarantee fund; establishment; amounts authorized to be appropriated; issuance, purchase, and sale of notes, obligations, etc.; interest rates; public debt transactions
 
-(1) There is established in the Treasury a loan and loan guarantee fund (hereinafter in this subsection referred to as the “fund”) which shall be available to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriations Acts—
+(1) There is established in the Treasury a loan and loan guarantee fund (hereinafter in this subsection referred to as the "fund") which shall be available to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriations Acts—
 
 &emsp;(A) to enable him to make loans under this part,
 
@@ -96,11 +96,11 @@
 
 (2) The Secretary may take such action, consistent with State law respecting foreclosure procedures, as he deems appropriate to protect the interest of the United States in the event of a default on a loan made or guaranteed under this part or under subchapter IV of this chapter, including selling real property pledged as security for such a loan or loan guarantee and for a reasonable period of time taking possession of, holding, and using real property pledged as security for such a loan or loan guarantee.
 
-(July 1, 1944, ch. 373, title XVI, §1602, formerly §1622, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2265; amended Pub. L. 95–83, title I, §106(x)(2), (y), Aug. 1, 1977, 91 Stat. 385; renumbered §1602 and amended Pub. L. 96–79, title II, §§201(b)(2), (3), 203(a)(1), (3), (g), Oct. 4, 1979, 93 Stat. 631, 635; Pub. L. 97–414, §8(q), Jan. 4, 1983, 96 Stat. 2062; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(July 1, 1944, ch. 373, title XVI, §1602, formerly §1622, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88Stat. 2265; amended Pub. L. 95–83, title I, §106(x)(2), (y), Aug. 1, 1977, 91 Stat. 385; renumbered §1602 and amended Pub. L. 96–79, title II, §§201(b)(2), (3), 203(a)(1), (3), (g), Oct. 4, 1979, 93 Stat. 631, 635; Pub. L. 97–414, §8(q), Jan. 4, 1983, 96 Stat. 2062; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### Codification
 
-In subsec. (d), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act” and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), "chapter 31 of title 31" and "that chapter" substituted for "the Second Liberty Bond Act" and "that Act", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Prior Provisions
 
@@ -108,15 +108,15 @@ A prior section 1602 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1
 
 #### Amendments
 
-<b>1986</b>—Subsec. (c)(5). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (c)(5). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1983</b>—Subsec. (f)(2). Pub. L. 97–414 inserted “selling real property pledged as security for such a loan or loan guarantee and” after “including”.
+<b>1983</b>—Subsec. (f)(2). Pub. L. 97–414 inserted "selling real property pledged as security for such a loan or loan guarantee and" after "including".
 
-<b>1979</b>—Subsec. (b)(2)(D). Pub. L. 96–79, §201(b)(2), substituted “minus any interest subsidy made in accordance with section 300q(a)(2)(B) of this title (with respect to a loan made for a project located in an urban or rural poverty area” for “minus 3 per centum per annum”.
+<b>1979</b>—Subsec. (b)(2)(D). Pub. L. 96–79, §201(b)(2), substituted "minus any interest subsidy made in accordance with section 300q(a)(2)(B) of this title (with respect to a loan made for a project located in an urban or rural poverty area" for "minus 3 per centum per annum".
 
-Subsec. (d)(1). Pub. L. 96–79, §203(a)(3), (g)(2), substituted in subpar. (C) reference to section “300q(a)(2)(B)” for “300q(b)(2)” of this title, and added subpar. (F).
+Subsec. (d)(1). Pub. L. 96–79, §203(a)(3), (g)(2), substituted in subpar. (C) reference to section "300q(a)(2)(B)" for "300q(b)(2)" of this title, and added subpar. (F).
 
-Subsec. (d)(2). Pub. L. 96–79, §203(a)(3), (g)(3), substituted in subpar. (A) reference to section “300q(a)(2)(B)” for “300q(b)(2)” of this title, and added subpar. (F).
+Subsec. (d)(2). Pub. L. 96–79, §203(a)(3), (g)(3), substituted in subpar. (A) reference to section "300q(a)(2)(B)" for "300q(b)(2)" of this title, and added subpar. (F).
 
 Subsec. (e)(2). Pub. L. 96–79, §201(b)(3), authorized appropriations for fiscal years ending Sept. 30, 1979 through 1982.
 

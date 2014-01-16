@@ -28,7 +28,7 @@ A person shall pay a penalty of $5,000 if—
 
 #### (A) Specified frivolous submission
 
-&emsp;&emsp;The term “specified frivolous submission” means a specified submission if any portion of such submission—
+&emsp;&emsp;The term "specified frivolous submission" means a specified submission if any portion of such submission—
 
 &emsp;&emsp;&emsp;(i) is based on a position which the Secretary has identified as frivolous under subsection (c), or
 
@@ -36,7 +36,7 @@ A person shall pay a penalty of $5,000 if—
 
 #### (B) Specified submission
 
-&emsp;&emsp;The term “specified submission” means—
+&emsp;&emsp;The term "specified submission" means—
 
 &emsp;&emsp;&emsp;(i) a request for a hearing under—
 
@@ -80,5 +80,5 @@ Amendment by Pub. L. 109–432 applicable to submissions made and issues raised 
 
 #### Effective Date
 
-Pub. L. 97–248, title III, §326(c), Sept. 3, 1982, 96 Stat. 617, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to documents filed after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §326(c), Sept. 3, 1982, 96 Stat. 617, provided that: "The amendments made by this section \[enacting this section\] shall apply with respect to documents filed after the date of the enactment of this Act \[Sept. 3, 1982\]."
 

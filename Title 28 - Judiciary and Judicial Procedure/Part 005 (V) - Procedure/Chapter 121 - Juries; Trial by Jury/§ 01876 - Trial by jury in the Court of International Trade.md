@@ -4,7 +4,7 @@
 
 (b) Whenever the Court of International Trade conducts a jury trial—
 
-&emsp;(1) the clerk of the district court for the judicial district in which the Court of International Trade is sitting, or an authorized deputy clerk, shall act as clerk of the Court ofInternational Trade for the purposes of selecting and summoning the jury;
+&emsp;(1) the clerk of the district court for the judicial district in which the Court of International Trade is sitting, or an authorized deputy clerk, shall act as clerk of the Court of International Trade for the purposes of selecting and summoning the jury;
 
 &emsp;(2) the qualifications for jurors shall be the same as those established by section 1865(b) of this title for jurors in the district courts of the United States;
 

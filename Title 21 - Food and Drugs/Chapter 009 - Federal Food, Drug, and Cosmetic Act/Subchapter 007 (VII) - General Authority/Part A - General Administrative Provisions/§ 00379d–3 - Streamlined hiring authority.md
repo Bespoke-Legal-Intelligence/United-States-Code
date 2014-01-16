@@ -32,9 +32,9 @@ The authority to appoint employees under this section shall terminate on the dat
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–144, §307(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The activities described in this subsection are activities under this chapter related to the process for the review of device applications (as defined in section 379i(8) of this title).”
+<b>2012</b>—Subsec. (b). Pub. L. 112–144, §307(1), amended subsec. (b) generally. Prior to amendment, text read as follows: "The activities described in this subsection are activities under this chapter related to the process for the review of device applications (as defined in section 379i(8) of this title)."
 
-Subsec. (c). Pub. L. 112–144, §307(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “The objectives specified in this subsection are with respect to the activities under subsection (b), the goals referred to in section 379j–1(a)(1) of this title.”
+Subsec. (c). Pub. L. 112–144, §307(2), amended subsec. (c) generally. Prior to amendment, text read as follows:"The objectives specified in this subsection are with respect to the activities under subsection (b), the goals referred to in section 379j–1(a)(1) of this title."
 
 #### Effective Date of 2012 Amendment
 

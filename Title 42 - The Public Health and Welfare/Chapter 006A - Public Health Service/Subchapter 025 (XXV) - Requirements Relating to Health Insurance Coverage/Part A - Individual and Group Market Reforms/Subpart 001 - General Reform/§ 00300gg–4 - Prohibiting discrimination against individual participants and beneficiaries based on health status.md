@@ -54,7 +54,7 @@ A group health plan and a health insurance issuer offering group or individual h
 
 #### (2) Rule of construction
 
-&emsp;Paragraph (1) shall not be construed to limit the authority of a health care professionalwho is providing health care services to an individual to request that such individual undergo a genetic test.
+&emsp;Paragraph (1) shall not be construed to limit the authority of a health care professional who is providing health care services to an individual to request that such individual undergo a genetic test.
 
 #### (3) Rule of construction regarding payment
 
@@ -72,7 +72,7 @@ A group health plan and a health insurance issuer offering group or individual h
 
 &emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 
-&emsp;&emsp;(B) The plan or issuer clearly indicates to each participant or beneficiary, or in the case of a minor child, to the legal guardian of such beneficiary, to whom the request is made that—
+&emsp;&emsp;(B) The plan or issuer clearly indicates to each participant or beneficiary, or in thecase of a minor child, to the legal guardian of such beneficiary, to whom the request is made that—
 
 &emsp;&emsp;&emsp;(i) compliance with the request is voluntary; and
 
@@ -116,11 +116,11 @@ Any reference in this part to genetic information concerning an individual or fa
 
 #### (A) General rule
 
-&emsp;&emsp;For purposes of subsection (b)(2)(B), a program of health promotion or disease prevention (referred to in this subsection as a “wellness program”) shall be a program offered by an employer that is designed to promote health or prevent disease that meets the applicable requirements of this subsection.
+&emsp;&emsp;For purposes of subsection (b)(2)(B), a program of health promotion or disease prevention (referred to in this subsection as a "wellness program") shall be a program offered by an employer that is designed to promote health or prevent disease that meets the applicable requirements of this subsection.
 
 #### (B) No conditions based on health status factor
 
-&emsp;&emsp;If none of the conditions for obtaining a premium discount or rebate or other rewardfor participation in a wellness program is based on an individual satisfying a standard that is related to a health status factor, such wellness program shall not violate this section if participation in the program is made available to all similarly situated individuals and the requirements of paragraph (2) are complied with.
+&emsp;&emsp;If none of the conditions for obtaining a premium discount or rebate or other reward for participation in a wellness program is based on an individual satisfying a standard that is related to a health status factor, such wellness program shall not violate this section if participation in the program is made available to all similarly situated individuals and the requirements of paragraph (2) are complied with.
 
 #### (C) Conditions based on health status factor
 
@@ -160,7 +160,7 @@ Any reference in this part to genetic information concerning an individual or fa
 
 &emsp;&emsp;&emsp;(ii) If reasonable under the circumstances, the plan or issuer may seek verification, such as a statement from an individual's physician, that a health status factor makes it unreasonably difficult or medically inadvisable for the individual to satisfy or attempt to satisfy the otherwise applicable standard.
 
-&emsp;&emsp;(E) The plan or issuer involved shall disclose in all plan materials describing theterms of the wellness program the availability of a reasonable alternative standard (or the possibility of waiver of the otherwise applicable standard) required under subparagraph (D). If plan materials disclose that such a program is available, without describing its terms, the disclosure under this subparagraph shall not be required.
+&emsp;&emsp;(E) The plan or issuer involved shall disclose in all plan materials describing the terms of the wellness program the availability of a reasonable alternative standard (or the possibility of waiver of the otherwise applicable standard) required under subparagraph (D). If plan materials disclose that such a program is available, without describing its terms, the disclosure under this subparagraph shall not be required.
 
 #### (k) Existing programs
 
@@ -230,21 +230,17 @@ Nothing in this section shall be construed as prohibiting the Secretaries of Lab
 
 (July 1, 1944, ch. 373, title XXVII, §2705, as added and amended Pub. L. 111–148, title I, §1201(3), (4), Mar. 23, 2010, 124 Stat. 154, 156.)
 
-#### Enactment of Section
-
-<i>For delayed effective date of section, see Effective Date note below.</i>
-
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsecs.\(c)(3)(A) and (l)(3)(B)(iv), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsecs. (c)(3)(A) and (l)(3)(B)(iv), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
 Section 300gg–21(a) of this title, referred to in subsec. (e), was in the original a reference to section 2735(a) of act July 1, 1944, and was translated as if it referred to section 2722(a) of that act to reflect the probable intent of Congress because of the renumbering of section 2735 as 2722 by Pub. L. 111–148, title I, §1563(c)(12)(D), formerly §1562(c)(12)(D), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 269, 911. The act July 1, 1944, does not contain a section 2735.
 
 #### Codification
 
-The text of section 300gg–1 of this title, which was amended and transferred to subsecs. (b) to (f) of this section by Pub. L. 111–148, §1201(3), was based on act July 1, 1944, ch. 373, title XXVII, §2702, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1961; amended Pub. L. 110–233, title I, §102(a)(1)–(3), May 21, 2008, 122 Stat. 888, 890. For text of section 300gg–1 prior to amendment and transfer by Pub. L. 111–148, see Prior Provisions note under section 300gg–1 of this title.
+The text of section 300gg–1 of this title, which was amended and transferred to subsecs. (b) to (f) of this section by Pub. L. 111–148, §1201(3), was based on act July 1, 1944, ch. 373, title XXVII, §2702, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1961; amended Pub. L. 110–233, title I, §102(a)(1)–(3), May 21, 2008, 122 Stat. 888, 890.
 
 #### Prior Provisions
 
@@ -256,13 +252,13 @@ Another prior section 2705 of act July 1, 1944, was successively renumbered by s
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148, §1201(3), transferred section 300gg–1 of this title to subsecs. (b) to (f) of this section after amending it by striking out the section catchline “Prohibiting discrimination against individual participants and beneficiaries based on health status”, by striking subsec. (a) which prohibited discrimination against individual participants in group health plans based on certain health status-related factors, by amending subsec. (b) by substituting “health insurance issuer offering group or individual health insurance coverage” for “health insurance issuer offering health insurance coverage in connection with a group health plan” in pars. (1) and (3)(B) and by inserting “or individual” after “employer” and “or individual health coverage, as the case may be” before semicolon in par. (2)(A), and by amending subsec. (e) by substituting “(a)(6)” for “(a)(1)(F)” and “300gg–3” for “300gg” and making technical amendment to reference in original act which appears in text as reference to section 300gg–21(a) of this title.
+<b>2010</b>—Pub. L. 111–148, §1201(3), transferred section 300gg–1 of this title to subsecs. (b) to (f) of this section after amending it by striking out the section catchline "Prohibiting discrimination against individual participants and beneficiaries based on health status", by striking subsec. (a) which prohibited discrimination against individual participants in group health plans based on certain health status-related factors, by amending subsec. (b) by substituting "health insurance issuer offering group or individual health insurance coverage" for "health insurance issuer offering health insurance coverage in connection with a group health plan" in pars. (1) and (3)(B) and by inserting "or individual" after "employer" and "or individual health coverage, as the case may be" before semicolon in par. (2)(A), and by amending subsec. (e) by substituting"(a)(6)" for "(a)(1)(F)" and "300gg–3" for "300gg" and making technical amendment to reference in original act which appears in text as reference to section 300gg–21(a) of this title.
 
 #### Effective Date
 
 Section effective for plan years beginning on or after Jan. 1, 2014, see section 1255 of Pub. L. 111–148, set out as a note under section 300gg of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “a”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "a".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

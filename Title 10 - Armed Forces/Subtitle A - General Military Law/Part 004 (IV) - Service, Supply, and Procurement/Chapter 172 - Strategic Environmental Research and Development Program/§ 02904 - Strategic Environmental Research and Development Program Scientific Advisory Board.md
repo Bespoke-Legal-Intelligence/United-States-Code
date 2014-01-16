@@ -1,6 +1,6 @@
 ### §2904. Strategic Environmental Research and Development Program Scientific Advisory Board
 
-(a) The Secretary of Defense and the Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agency, shall jointly appoint a Strategic Environmental Research and Development Program Scientific Advisory Board (hereafter in this section referred to as the “Advisory Board”) consisting of not less than six and not more than 14 members.
+(a) The Secretary of Defense and the Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agency, shall jointly appoint a Strategic Environmental Research and Development Program Scientific Advisory Board (hereafter in this section referred to as the "Advisory Board") consisting of not less than six and not more than 14 members.
 
 (b)(1) The following persons shall be permanent members of the Advisory Board:
 
@@ -40,13 +40,13 @@ The Ethics in Government Act of 1978, referred to in subsec. (h), is Pub. L. 95�
 
 #### Amendments
 
-<b>2000</b>—Subsecs. (h), (i). Pub. L. 106–398 redesignated subsec. (i) as (h) and struck out former subsec. (h) which read as follows: “Not later than March 15 of each year, the Advisory Board shall submit to the Congress an annual report setting forth its actions during the year preceding the year in which the report is submitted and any recommendations, including recommendations on projects, programs, and information exchange and recommendations for legislation, that the Advisory Board considers appropriate regarding the Strategic Environmental Research and Development Program.”
+<b>2000</b>—Subsecs. (h), (i). Pub. L. 106–398 redesignated subsec. (i) as (h) and struck out former subsec. (h) which read as follows: "Not later than March 15 of each year, the Advisory Board shall submit to the Congress an annual report setting forth its actions during the year preceding the year in which the report is submitted and any recommendations, including recommendations on projects, programs, and information exchange and recommendations for legislation, that the Advisory Board considers appropriate regarding the Strategic Environmental Research and Development Program."
 
-<b>1997</b>—Subsec. (b)(4). Pub. L. 105–85 substituted “not less than two and not more than four” for “three years”.
+<b>1997</b>—Subsec. (b)(4). Pub. L. 105–85 substituted "not less than two and not more than four" for "three years".
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–190, §257(b)(1), substituted “14 members” for “13 members”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–190, §257(b)(1), substituted "14 members" for "13 members".
 
-Subsec. (b)(1). Pub. L. 102–190, §257(b)(2), added par. (1) and struck out former par. (1) which read as follows: “The Science Advisor to the President, or his designee, shall be a permanent member of the Advisory Board.”
+Subsec. (b)(1). Pub. L. 102–190, §257(b)(2), added par. (1) and struck out former par. (1) which read as follows: "The Science Advisor to the President, or his designee, shall be a permanent member of the Advisory Board."
 
 #### Initial Appointments of Advisory Board Members
 

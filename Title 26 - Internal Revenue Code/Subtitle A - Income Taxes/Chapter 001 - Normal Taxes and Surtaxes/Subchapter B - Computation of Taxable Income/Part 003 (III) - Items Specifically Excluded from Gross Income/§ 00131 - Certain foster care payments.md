@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified foster care payment” means any payment made pursuant to a foster care program of a State or political subdivision thereof—
+&emsp;The term "qualified foster care payment" means any payment made pursuant to a foster care program of a State or political subdivision thereof—
 
 &emsp;&emsp;(A) which is paid by—
 
@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (2) Qualified foster individual
 
-&emsp;The term “qualified foster individual” means any individual who is living in a foster family home in which such individual was placed by—
+&emsp;The term "qualified foster individual" means any individual who is living in a foster family home in which such individual was placed by—
 
 &emsp;&emsp;(A) an agency of a State or political subdivision thereof, or
 
@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (3) Qualified foster care placement agency
 
-&emsp;The term “qualified foster care placement agency” means any placement agency which is licensed or certified by—
+&emsp;The term "qualified foster care placement agency" means any placement agency which is licensed or certified by—
 
 &emsp;&emsp;(A) a State or political subdivision thereof, or
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (1) Difficulty of care payments
 
-&emsp;The term “difficulty of care payments” means payments to individuals which are not described in subsection (b)(1)(B)(i), and which—
+&emsp;The term "difficulty of care payments" means payments to individuals which are not described in subsection (b)(1)(B)(i), and which—
 
 &emsp;&emsp;(A) are compensation for providing the additional care of a qualified foster individual which is—
 
@@ -78,47 +78,47 @@ A prior section 131 was renumbered section 140 of this title.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(1). Pub. L. 107–147, §404(a), amended provisions preceding subpar. (B) generally. Prior to amendment, text of such provisions read as follows: “The term ‘qualified foster care payment’ means any amount—
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–147, §404(a), amended provisions preceding subpar. (B) generally. Prior to amendment, text of such provisions read as follows: "The term 'qualified foster care payment' means any amount—
 
-&emsp;“(A) which is paid by a State or political subdivision thereof or by a placement agency which is described in section 501(c)(3) and exempt from tax under section 501(a), and”.
+&emsp;"(A) which is paid by a State or political subdivision thereof or by a placement agency which is described in section 501(c)(3) and exempt from tax under section 501(a), and".
 
-Subsec. (b)(2)(B). Pub. L. 107–147, §404(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of an individual who has not attained age 19, an organization which is licensed by a State (or political subdivision thereof) as a placement agency and which is described in section 501(c)(3) and exempt from tax under section 501(a).”
+Subsec. (b)(2)(B). Pub. L. 107–147, §404(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "in the case of an individual who has not attained age 19, an organization which is licensed by a State (or political subdivision thereof) as a placement agency and which is described in section 501(c)(3) and exempt from tax under section 501(a)."
 
 Subsec. (b)(3), (4). Pub. L. 107–147, §404(c), added par. (3) and redesignated former par. (3) as (4).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Gross income shall not include amounts received by a foster parent during the taxable year as qualified foster care payments.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Gross income shall not include amounts received by a foster parent during the taxable year as qualified foster care payments."
 
-Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally. Prior to amendment, par. (1) “In general” read as follows: “The term ‘qualified foster care payment’ means any amount—
+Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally. Prior to amendment, par. (1) "In general" read as follows: "The term 'qualified foster care payment' means any amount—
 
-&emsp;“(A) which is paid by a State or political subdivision thereof or by a child-placing agency which is described in section 501(c)(3) and exempt from tax under section 501(a), and
+&emsp;"(A) which is paid by a State or political subdivision thereof or by a child-placing agency which is described in section 501(c)(3) and exempt from tax under section 501(a), and
 
-&emsp;“(B) which is—
+&emsp;"(B) which is—
 
-&emsp;&emsp;“(i) paid to reimburse the foster parent for the expenses of caring for a qualified foster child in the foster parent's home, or
+&emsp;&emsp;"(i) paid to reimburse the foster parent for the expenses of caring for a qualified foster child in the foster parent's home, or
 
-&emsp;&emsp;“(ii) a difficulty of care payment.”
+&emsp;&emsp;"(ii) a difficulty of care payment."
 
-> and par. (2) “Qualified foster child” read as follows: “The term ‘qualified foster child’ means any individual who—
+> and par. (2) "Qualified foster child" read as follows: "The term 'qualified foster child' means any individual who—
 
-&emsp;“(A) has not attained age 19, and
+&emsp;"(A) has not attained age 19, and
 
-&emsp;“(B) is living in a foster family home in which such individual was placed by—
+&emsp;"(B) is living in a foster family home in which such individual was placed by—
 
-&emsp;&emsp;“(i) an agency of a State or political subdivision thereof, or
+&emsp;&emsp;"(i) an agency of a State or political subdivision thereof, or
 
-&emsp;&emsp;“(ii) an organization which is licensed by a State (or political subdivision thereof) as a child-placing agency and which is described in section 501(c)(3) and exempt from tax under section 501(a).”
+&emsp;&emsp;"(ii) an organization which is licensed by a State (or political subdivision thereof) as a child-placing agency and which is described in section 501(c)(3) and exempt from tax under section 501(a)."
 
-Subsec. (c). Pub. L. 99–514, in amending subsec. (c) generally, in par. (1)(A), substituted references to “qualified foster individual”, “such individual”, and “foster care provider” for references to “qualified foster child”, “such child”, and “foster parent”, respectively, and in par. (2) substituted “more than (A) 10 qualified foster individuals who have not attained age 19, and (B) 5 qualified foster individuals not described in subparagraph (A)” for “more than 10 qualified foster children”.
+Subsec. (c). Pub. L. 99–514, in amending subsec. (c) generally, in par. (1)(A), substituted references to "qualified foster individual", "such individual", and "foster care provider" for references to "qualified foster child", "such child", and "foster parent", respectively, and in par. (2) substituted "more than (A) 10 qualified foster individuals who have not attained age 19, and (B) 5 qualified foster individuals not described in subparagraph (A)" for "more than 10 qualified foster children".
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title IV, §404(d), Mar. 9, 2002, 116 Stat. 42, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2001.”
+Pub. L. 107–147, title IV, §404(d), Mar. 9, 2002, 116 Stat. 42, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2001."
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XVII, §1707(b), Oct. 22, 1986, 100 Stat. 2782, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1985.”
+Pub. L. 99–514, title XVII, §1707(b), Oct. 22, 1986, 100 Stat. 2782, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1985."
 
 #### Effective Date
 
-Pub. L. 97–473, title I, §102(c), Jan. 14, 1983, 96 Stat. 2607, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 97–473, title I, §102(c), Jan. 14, 1983, 96 Stat. 2607, provided that: "The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1978."
 

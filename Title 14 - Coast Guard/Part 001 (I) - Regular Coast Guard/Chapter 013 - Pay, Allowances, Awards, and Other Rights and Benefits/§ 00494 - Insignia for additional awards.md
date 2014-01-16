@@ -10,7 +10,7 @@ This section is supplemental to the preceding sections dealing with the award of
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–281 substituted “Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross,” for “distinguished service medal, distinguished flying cross,” in two places.
+<b>2010</b>—Pub. L. 111–281 substituted "Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross," for "distinguished service medal, distinguished flying cross," in two places.
 
 <b>1956</b>—Act Aug. 10, 1956, included the distinguished flying cross.
 

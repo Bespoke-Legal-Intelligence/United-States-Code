@@ -2,7 +2,7 @@
 
 (a)
 
-Major Automated Information System Program.—In this chapter, the term “major automated information system program” means a Department of Defense program for the acquisition of an automated information system (either as a product or a service) if—
+Major Automated Information System Program.—In this chapter, the term "major automated information system program" means a Department of Defense program for the acquisition of an automated information system (either as a product or a service) if—
 
 &emsp;(1) the program is designated by the Secretary of Defense, or a designee of the Secretary, as a major automated information system program; or
 
@@ -24,29 +24,35 @@ Increments.—In the event any increment of a major automated information system
 
 (d)
 
-Other Major Information Technology Investment Program.—In this chapter, the term “other major information technology investment program” means the following:
+Other Major Information Technology Investment Program.—In this chapter, the term "other major information technology investment program" means the following:
 
-&emsp;(1) An investment that is designated by the Secretary of Defense, or a designee of the Secretary, as a “pre-Major Automated Information System” or “pre-MAIS” program.
+&emsp;(1) An investment that is designated by the Secretary of Defense, or a designee of the Secretary, as a "pre-Major Automated Information System" or "pre-MAIS" program.
 
 &emsp;(2) Any other investment in automated information system products or services that isexpected to exceed the thresholds established in subsection (a), as adjusted under subsection (b), but is not considered to be a major automated information system program because a formal acquisition decision has not yet been made with respect to such investment.
 
 (e)
 
-Full Deployment Decision.—In this chapter, the term “full deployment decision” means, with respect to a major automated information system program, the final decision made by the Milestone Decision Authority authorizing an increment of the program to deploy software for operational use.
+Full Deployment Decision.—In this chapter, the term "full deployment decision" means, with respect to a major automated information system program, the final decision made by the Milestone Decision Authority authorizing an increment of the program to deploy software for operational use.
 
 (f)
 
-Full Deployment.—In this chapter, the term “full deployment” means, with respect to a major automated information system program, the fielding of an increment of the program in accordance with the terms of a full deployment decision.
+Full Deployment.—In this chapter, the term "full deployment" means, with respect to a major automated information system program, the fielding of an increment of the program in accordance with the terms of a full deployment decision.
 
-(Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2323; amended Pub. L. 110–417, \[div. A\], title VIII, §812(a)(1), (2), Oct. 14, 2008, 122 Stat. 4525; Pub. L. 111–84, div. A, title VIII, §841(c), Oct. 28, 2009, 123 Stat. 2418.)
+(g)
+
+Extension of a Program.—In this chapter, the term "extension of a program" means, with respect to a major automated information system program or other major information technology investment program, the further deployment or planned deployment to additional users of the system which has already been found operationally effective and suitable by an independent test agency or the Director of Operational Test and Evaluation, beyond the scope planned in the original estimate or information originally submitted on the program.
+
+(Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2323; amended Pub. L. 110–417, \[div. A\], title VIII, §812(a)(1), (2), Oct. 14, 2008, 122 Stat. 4525; Pub. L. 111–84, div. A, title VIII, §841(c), Oct. 28, 2009, 123 Stat. 2418; Pub. L. 113–66, div. A, title X, §1092(a), Dec. 26, 2013, 127 Stat. 877.)
 
 #### Amendments
 
+<b>2013</b>—Subsec. (g). Pub. L. 113–66 added subsec. (g).
+
 <b>2009</b>—Subsecs. (e), (f). Pub. L. 111–84 added subsecs. (e) and (f).
 
-<b>2008</b>—Pub. L. 110–417, §812(a)(2), substituted “Definitions” for “Major automated information system program defined” in section catchline.
+<b>2008</b>—Pub. L. 110–417, §812(a)(2), substituted "Definitions" for "Major automated information system program defined" in section catchline.
 
-Subsec. (a). Pub. L. 110–417, §812(a)(1)(A), substituted “Major Automated Information System Program” for “In General” in heading.
+Subsec. (a). Pub. L. 110–417, §812(a)(1)(A), substituted "Major Automated Information System Program" for "In General" in heading.
 
 Subsec. (d). Pub. L. 110–417, §812(a)(1)(B), added subsec. (d).
 
@@ -54,11 +60,11 @@ Subsec. (d). Pub. L. 110–417, §812(a)(1)(B), added subsec. (d).
 
 Pub. L. 109–364, div. A, title VIII, §816(c), Oct. 17, 2006, 120 Stat. 2326, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by subsection (a) \[enacting this chapter\] shall take effect on January 1, 2008, and shall apply with respect to any major automated information system program for which amounts are requested in the budget of the President (as submitted to Congress under section 1105 of title 31, United States Code) for a fiscal year after fiscal year 2008, regardless of whether the acquisition of the automated information system to be acquired under the program was initiated before, on, or after January 1, 2008.
 
-“(2)
+"(2)
 
-Report requirement.—Subsection (b) \[120 Stat. 2326\] shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\].”
+Report requirement.—Subsection (b) \[120 Stat. 2326\] shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\]."
 

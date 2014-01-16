@@ -4,35 +4,35 @@ In this chapter:
 
 &emsp;(1)
 
-Contracting agency.—The term “contracting agency”, when used with respect to a prime contractor, means a department, agency, or establishment of the Federal Government that enters into a prime contract with a prime contractor.
+Contracting agency.—The term "contracting agency", when used with respect to a prime contractor, means a department, agency, or establishment of the Federal Government that enters into a prime contract with a prime contractor.
 
 &emsp;(2)
 
-Kickback.—The term “kickback” means any money, fee, commission, credit, gift, gratuity, thing of value, or compensation of any kind that is provided to a prime contractor, prime contractor employee, subcontractor, or subcontractor employee to improperly obtain or reward favorable treatment in connection with a prime contract or a subcontract relating to a prime contract.
+Kickback.—The term "kickback" means any money, fee, commission, credit, gift, gratuity, thing of value, or compensation of any kind that is provided to a prime contractor, prime contractor employee, subcontractor, or subcontractor employee to improperly obtain or reward favorable treatment in connection with a prime contract or a subcontract relating to a prime contract.
 
 &emsp;(3)
 
-Person.—The term “person” means a corporation, partnership, business association of any kind, trust, joint-stock company, or individual.
+Person.—The term "person" means a corporation, partnership, business association of any kind, trust, joint-stock company, or individual.
 
 &emsp;(4)
 
-Prime contract.—The term “prime contract” means a contract or contractual action entered into by the Federal Government to obtain supplies, materials, equipment, or services of any kind.
+Prime contract.—The term "prime contract" means a contract or contractual action entered into by the Federal Government to obtain supplies, materials, equipment, or services of any kind.
 
 &emsp;(5)
 
-Prime contractor.—The term “prime contractor” means a person that has entered into a prime contract with the Federal Government.
+Prime contractor.—The term "prime contractor" means a person that has entered into a prime contract with the Federal Government.
 
 &emsp;(6)
 
-Prime contractor employee.—The term “prime contractor employee” means an officer, partner, employee, or agent of a prime contractor.
+Prime contractor employee.—The term "prime contractor employee" means an officer, partner, employee, or agent of a prime contractor.
 
 &emsp;(7)
 
-Subcontract.—The term “subcontract” means a contract or contractual action entered into by a prime contractor or subcontractor to obtain supplies, materials, equipment, or services of any kind under a prime contract.
+Subcontract.—The term "subcontract" means a contract or contractual action entered into by a prime contractor or subcontractor to obtain supplies, materials, equipment, or services of any kind under a prime contract.
 
 &emsp;(8)
 
-Subcontractor.—The term “subcontractor”—
+Subcontractor.—The term "subcontractor"—
 
 &emsp;&emsp;(A) means a person, other than the prime contractor, that offers to furnish or furnishes supplies, materials, equipment, or services of any kind under a prime contract or a subcontract entered into in connection with the prime contract; and
 
@@ -40,7 +40,7 @@ Subcontractor.—The term “subcontractor”—
 
 &emsp;(9)
 
-Subcontractor employee.—The term “subcontractor employee” means an officer, partner, employee, or agent of a subcontractor.
+Subcontractor employee.—The term "subcontractor employee" means an officer, partner, employee, or agent of a subcontractor.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3838.)
 
@@ -60,9 +60,9 @@ Historical and Revision Notes
 
 Mar. 8, 1946, ch. 80, §2, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, §2(a), Nov. 7, 1986, 100 Stat. 3523.
 
-In this section, the text of 41:52(3) is omitted because of the definition of “person” in 1:1.
+In this section, the text of 41:52(3) is omitted because of the definition of "person" in 1:1.
 
-In paragraph (2), the words “directly or indirectly” are omitted as unnecessary.
+In paragraph (2), the words "directly or indirectly" are omitted as unnecessary.
 
 #### Senate Revision Amendment
 

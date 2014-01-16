@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–84 inserted “or the Defense Intelligence Agency” after “military departments” wherever appearing.
+<b>2009</b>—Pub. L. 111–84 inserted "or the Defense Intelligence Agency" after "military departments" wherever appearing.
 
-<b>1987</b>—Pub. L. 100–26 renumbered section 140b of this title as this section and struck out “United States Code,” after “section 3302 of title 31,” in subsec. (a).
+<b>1987</b>—Pub. L. 100–26 renumbered section 140b of this title as this section and struck out "United States Code," after "section 3302 of title 31," in subsec. (a).
 

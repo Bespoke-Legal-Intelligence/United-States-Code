@@ -2,7 +2,7 @@ Part B—All-Hazards Emergency Preparedness and Response
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–417, title I, §102(a)(1), Dec. 19, 2006, 120 Stat. 2832, inserted “All-Hazards” before “Emergency Preparedness” in heading.
+<b>2006</b>—Pub. L. 109–417, title I, §102(a)(1), Dec. 19, 2006, 120 Stat. 2832, inserted "All-Hazards" before "Emergency Preparedness" in heading.
 
 
 ---
@@ -10,6 +10,7 @@ Part B—All-Hazards Emergency Preparedness and Response
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00300hh&#8211;10 - Coordination of preparedness for and response to all-hazards public health emergencies](%C2%A7%2000300hh%E2%80%9310%20-%20Coordination%20of%20preparedness%20for%20and%20response%20to%20all-hazards%20public%20health%20emergencies.md)
+- [&sect; 00300hh&#8211;10a - National Advisory Committee on Children and Disasters](%C2%A7%2000300hh%E2%80%9310a%20-%20National%20Advisory%20Committee%20on%20Children%20and%20Disasters.md)
 - [&sect; 00300hh&#8211;11 - National Disaster Medical System](%C2%A7%2000300hh%E2%80%9311%20-%20National%20Disaster%20Medical%20System.md)
 - [&sect; 00300hh&#8211;12 - Transferred](%C2%A7%2000300hh%E2%80%9312%20-%20Transferred.md)
 - [&sect; 00300hh&#8211;13 - Evaluation of new and emerging technologies regarding bioterrorist attack and other public health emergencies](%C2%A7%2000300hh%E2%80%9313%20-%20Evaluation%20of%20new%20and%20emerging%20technologies%20regarding%20bioterrorist%20attack%20and%20other%20public%20health%20emergencies.md)

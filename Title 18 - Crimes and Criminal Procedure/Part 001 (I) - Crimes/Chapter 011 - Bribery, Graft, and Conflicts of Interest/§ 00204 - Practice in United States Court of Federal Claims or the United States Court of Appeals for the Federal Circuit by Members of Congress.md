@@ -12,11 +12,11 @@ Provisions similar to this section were contained in former section 282 of this 
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in section catchline and in text.
+<b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court" in section catchline and in text.
 
-<b>1989</b>—Pub. L. 101–194 amended section generally. Prior to amendment, section read as follows: “Whoever, being a Member of Congress, Member of Congress Elect, Delegate from the District of Columbia, Delegate Elect from the District of Columbia, Resident Commissioner, or Resident Commissioner Elect, practices in the United States Claims Court or the United States Court of Appeals for the Federal Circuit, shall be fined not more than $10,000 or imprisoned for not more than two years, or both, and shall be incapable of holding any office of honor, trust, or profit under the United States.”
+<b>1989</b>—Pub. L. 101–194 amended section generally. Prior to amendment, section read as follows: "Whoever, being a Member of Congress, Member of Congress Elect, Delegate from the District of Columbia, Delegate Elect from the District of Columbia, Resident Commissioner, or Resident Commissioner Elect, practices in the United States Claims Court or the United States Court of Appeals for the Federal Circuit, shall be fined not more than $10,000 or imprisoned for not more than two years, or both, and shall be incapable of holding any office of honor, trust, or profit under the United States."
 
-<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court or the United States Court of Appeals for the Federal Circuit” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted "United States Claims Court or the United States Court of Appeals for the Federal Circuit" for "Court of Claims".
 
 <b>1970</b>—Pub. L. 91–405 included references to Delegate from District of Columbia and Delegate Elect from District of Columbia.
 

@@ -20,9 +20,9 @@ Disclosure Authority.—An officer or employee of the Department of Defense may 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “litigation support contractor” means a contractor (including an expert or technical consultant) under contract with the Department of Defense to provide litigation support.
+&emsp;(1) The term "litigation support contractor" means a contractor (including an expert or technical consultant) under contract with the Department of Defense to provide litigation support.
 
-&emsp;(2) The term “sensitive information” means confidential commercial, financial, or proprietary information, technical data, or other privileged information.
+&emsp;(2) The term "sensitive information" means confidential commercial, financial, or proprietary information, technical data, or other privileged information.
 
 (Added Pub. L. 112–81, div. A, title VIII, §802(a)(1), Dec. 31, 2011, 125 Stat. 1484.)
 

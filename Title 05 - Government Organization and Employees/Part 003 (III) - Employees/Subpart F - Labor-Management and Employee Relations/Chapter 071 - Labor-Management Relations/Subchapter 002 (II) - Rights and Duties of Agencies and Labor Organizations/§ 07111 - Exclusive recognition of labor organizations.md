@@ -12,7 +12,7 @@
 
 &emsp;(2) by any person seeking clarification of, or an amendment to, a certification then in effect or a matter relating to representation;
 
-> the Authority shall investigate the petition, and if it has reasonable cause to believe that a question of representation exists, it shall provide an opportunity for a hearing (for which a transcript shall be kept) after reasonable notice. If the Authority finds on the record of the hearing that a question of representation exists, the Authorityshall supervise or conduct an election on the question by secret ballot and shall certify the results thereof. An election under this subsection shall not be conducted in any appropriate unit or in any subdivision thereof within which, in the preceding 12 calendar months, a valid election under this subsection has been held.
+> the Authority shall investigate the petition, and if it has reasonable cause to believe that a question of representation exists, it shall provide an opportunity for a hearing (for which a transcript shall be kept) after reasonable notice. If the Authority finds on the record of the hearing that a question of representation exists, the Authority shall supervise or conduct an election on the question by secret ballot and shall certify the results thereof. An election under this subsection shall not be conducted in any appropriate unit or in any subdivision thereof within which, in the preceding 12 calendar months, a valid election under this subsection has been held.
 
 (c) A labor organization which—
 
@@ -24,7 +24,7 @@
 
 > may intervene with respect to a petition filed pursuant to subsection (b) of this section and shall be placed on the ballot of any election under such subsection (b) with respect to the petition.
 
-(d) The Authority shall determine who is eligible to vote in any election under this section and shall establish rules governing any such election, which shall include rules allowing employees eligible to vote the opportunity to choose—
+(d) The Authority shall determine who is eligible to vote in any election under this section and shall establish rules governing any suchelection, which shall include rules allowing employees eligible to vote the opportunity to choose—
 
 &emsp;(1) from labor organizations on the ballot, that labor organization which the employees wish to have represent them; or
 

@@ -20,5 +20,5 @@ A prior section 46 of act Aug. 1, 1956, was renumbered section 47 by section 119
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–138 struck out “for the fiscal years 1990 and 1991,” after “provision of law,”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–138 struck out "for the fiscal years 1990 and 1991," after "provision of law,".
 

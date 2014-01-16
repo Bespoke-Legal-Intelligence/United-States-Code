@@ -15,9 +15,9 @@
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–296, title XI, §1112(e)(3), Nov. 25, 2002, 116 Stat. 2276, substituted “Attorney General” for “Secretary” in item 846.
+<b>2002</b>—Pub. L. 107–296, title XI, §1112(e)(3), Nov. 25, 2002, 116 Stat. 2276, substituted "Attorney General" for "Secretary" in item 846.
 
-<b>1990</b>—Pub. L. 101–647, title XXXV, §3520, Nov. 29, 1990, 104 Stat. 4923, substituted “Licenses” for “Licensing” in item 843.
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3520, Nov. 29, 1990, 104 Stat. 4923, substituted "Licenses" for "Licensing" in item 843.
 
 <b>1970</b>—Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 952, added chapter 40 and items 841 to 848.
 

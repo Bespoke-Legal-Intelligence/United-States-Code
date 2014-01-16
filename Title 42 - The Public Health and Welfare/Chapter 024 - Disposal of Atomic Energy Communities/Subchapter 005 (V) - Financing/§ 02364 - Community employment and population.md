@@ -12,9 +12,9 @@ The indemnity obligation specified in section 2363 of this title shall arise onl
 
 #### Amendments
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–719, §18, inserted “or four thousand six hundred and twenty in the case of Los Alamos” after “Richland”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–719, §18, inserted "or four thousand six hundred and twenty in the case of Los Alamos" after "Richland".
 
-Subsec. (b). Pub. L. 87–719, §19, inserted “or eleven thousand seven hundred and sixty-nine in the case of Los Alamos” after “Richland”.
+Subsec. (b). Pub. L. 87–719, §19, inserted "or eleven thousand seven hundred and sixty-nine in the case of Los Alamos" after "Richland".
 
 #### Transfer of Functions
 

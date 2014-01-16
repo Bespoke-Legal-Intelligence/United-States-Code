@@ -76,7 +76,7 @@ A council may—
 
 &emsp;(B) provide for public comment and the opportunity for a public hearing.
 
-(6) A council may receive, investigate and report to the Secretary accounts of violations ofregulations issued under paragraph (4) of this subsection.
+(6) A council may receive, investigate and report to the Secretary accounts of violations of regulations issued under paragraph (4) of this subsection.
 
 (7) Any regulation issued under paragraph (4) of this subsection shall be repealed immediately by the Secretary upon the termination under section 4015 of this title of the council that developed the official identification to which the regulations apply.
 

@@ -48,9 +48,9 @@ The plan may also provide for abandonment in accordance with section 1169, gover
 
 #### Amendments
 
-<b>2005</b>—Subsec. (c)(1). Pub. L. 109–8 substituted “section 11326(a)” for “section 11347”.
+<b>2005</b>—Subsec. (c)(1). Pub. L. 109–8 substituted "section 11326(a)" for "section 11347".
 
-<b>1995</b>—Subsecs. (b), (c)(1). Pub. L. 104–88 substituted “Board” for “Commission” wherever appearing.
+<b>1995</b>—Subsecs. (b), (c)(1). Pub. L. 104–88 substituted "Board" for "Commission" wherever appearing.
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–448 added subsec. (c).
 

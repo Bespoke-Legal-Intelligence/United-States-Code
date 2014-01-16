@@ -24,7 +24,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if theSecretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
 
 #### (ii) Chancery or consulate building
 
@@ -110,7 +110,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (iii) Authority to lease aircraft to respond to a terrorist attack abroad
 
-&emsp;&emsp;&emsp;Subject to the availability of appropriations, when the Attorney General of theDepartment of Justice exercises the Attorney General's authority to lease commercial aircraft to transport equipment and personnel in response to a terrorist attack abroad if there have been reasonable efforts to obtain appropriate Department of Defense aircraft and such aircraft are unavailable, the Attorney General shall have the authority to obtain indemnification insurance or guarantees if necessary and appropriate.
+&emsp;&emsp;&emsp;Subject to the availability of appropriations, when the Attorney General of the Department of Justice exercises the Attorney General's authority to lease commercial aircraft to transport equipment and personnel in response to a terrorist attack abroad if there have been reasonable efforts to obtain appropriate Department of Defense aircraft and such aircraft are unavailable, the Attorney General shall have the authority to obtain indemnification insurance or guarantees if necessary and appropriate.
 
 #### (7) Rapid response procedures
 
@@ -146,127 +146,127 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Pub. L. 109–364, div. A, title III, §357, Oct. 17, 2006, 120 Stat. 2163, provided that:
 
-“(a)
+"(a)
 
 Reconciliation Required.—For each fiscal year, the Secretary of Defense shall reconcile (1) the estimate of overseas presence of the Secretary of Defense under subsection (b) for that fiscal year, with (2) the determination of the Secretary of State under section 604(e)(1) of the Secure Embassy Construction and Counterterrorism Act of 1999 \[Pub. L. 106–113\] (22 U.S.C. 4865 note) of the total overseas presence of the Department of Defense for that fiscal year.
 
-“(b)
+"(b)
 
-Annual Estimate of Overseas Presence.—Not later than February 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an estimate of the total number of Department of Defense overseas personnel subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) during the fiscal year that begins on October 1 of that year.”
+Annual Estimate of Overseas Presence.—Not later than February 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an estimate of the total number of Department of Defense overseas personnel subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) during the fiscal year that begins on October 1 of that year."
 
 #### Findings
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §602\], Nov. 29, 1999, 113 Stat. 1536, 1501A–451, provided that: “Congress makes the following findings:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §602\], Nov. 29, 1999, 113 Stat. 1536, 1501A–451, provided that: "Congress makes the following findings:
 
-&emsp;“(1) On August 7, 1998, the United States embassies in Nairobi, Kenya, and in Dar es Salaam, Tanzania, were destroyed by simultaneously exploding bombs. The resulting explosions killed 220 persons and injured more than 4,000 others. Twelve Americans and 40 Kenyan and Tanzanian employees of the United States Foreign Service were killed in the attack.
+&emsp;"(1) On August 7, 1998, the United States embassies in Nairobi, Kenya, and in Dar es Salaam, Tanzania, were destroyed by simultaneously exploding bombs. The resulting explosions killed 220 persons and injured more than 4,000 others. Twelve Americans and 40 Kenyan and Tanzanian employees of the United States Foreign Service were killed in the attack.
 
-&emsp;“(2) The United States personnel in both Dar es Salaam and Nairobi showed leadership and personal courage in their response to the attacks. Despite the havoc wreaked upon the embassies, staff in both embassies provided rapid response in locating and rescuing victims, providing emergency assistance, and quickly restoring embassy operations during a crisis.
+&emsp;"(2) The United States personnel in both Dar es Salaam and Nairobi showed leadership and personal courage in their response to the attacks. Despite the havoc wreaked upon the embassies, staff in both embassies provided rapid response in locating and rescuing victims, providing emergency assistance, and quickly restoring embassy operations during a crisis.
 
-&emsp;“(3) The bombs are believed to have been set by individuals associated with Osama bin Laden, leader of a known transnational terrorist organization. In February 1998, bin Laden issued a directive to his followers that called for attacks against United States interests anywhere in the world.
+&emsp;"(3) The bombs are believed to have been set by individuals associated with Osama bin Laden, leader of a known transnational terrorist organization. In February 1998, bin Laden issued a directive to his followers that called for attacks against United States interests anywhere in the world.
 
-&emsp;“(4) Threats continue to be made against United States diplomatic facilities.
+&emsp;"(4) Threats continue to be made against United States diplomatic facilities.
 
-&emsp;“(5) Accountability Review Boards were convened following the bombings, as required by Public Law 99–399 \[see Tables for classification\], chaired by Admiral William J. Crowe, United States Navy (Ret.) (in this section referred to as the ‘Crowe panels’).
+&emsp;"(5) Accountability Review Boards were convened following the bombings, as required by Public Law 99–399 \[see Tables for classification\], chaired by Admiral William J. Crowe, United States Navy (Ret.) (in this section referred to as the 'Crowe panels').
 
-&emsp;“(6) The conclusions of the Crowe panels were strikingly similar to those stated by the Commission chaired by Admiral Bobby Ray Inman, which issued an extensive embassy security report in 1985.
+&emsp;"(6) The conclusions of the Crowe panels were strikingly similar to those stated by the Commission chaired by Admiral Bobby Ray Inman, which issued an extensive embassy security report in 1985.
 
-&emsp;“(7) The Crowe panels issued a report setting out many problems with security at United States diplomatic facilities, in particular the following:
+&emsp;"(7) The Crowe panels issued a report setting out many problems with security at United States diplomatic facilities, in particular the following:
 
-&emsp;&emsp;“(A) The United States Government has devoted inadequate resources to security against terrorist attacks.
+&emsp;&emsp;"(A) The United States Government has devoted inadequate resources to security against terrorist attacks.
 
-&emsp;&emsp;“(B) The United States Government places too low a priority on security concerns.
+&emsp;&emsp;"(B) The United States Government places too low a priority on security concerns.
 
-&emsp;“(8) The result has been a failure to take adequate steps to prevent tragedies such as the bombings in Kenya and Tanzania.
+&emsp;"(8) The result has been a failure to take adequate steps to prevent tragedies such as the bombings in Kenya and Tanzania.
 
-&emsp;“(9) The Crowe panels found that there was an institutional failure on the part of the Department of State to recognize threats posed by transnational terrorism and vehicular bombs.
+&emsp;"(9) The Crowe panels found that there was an institutional failure on the part of the Department of State to recognize threats posed by transnational terrorism and vehicular bombs.
 
-&emsp;“(10) Responsibility for ensuring adequate resources for security programs is widely shared throughout the United States Government, including Congress. Unless the vulnerabilities identified by the Crowe panels are addressed in a sustained and financially realistic manner, the lives and safety of United States employees in diplomatic facilities will continue to be at risk from further terrorist attacks.
+&emsp;"(10) Responsibility for ensuring adequate resources for security programs is widely shared throughout the United States Government, including Congress. Unless the vulnerabilities identified by the Crowe panels are addressed in a sustained and financially realistic manner, the lives and safety of United States employees in diplomatic facilities will continue to be at risk from further terrorist attacks.
 
-&emsp;“(11) Although service in the Foreign Service or other United States Government positions abroad can never be completely without risk, the United States Government must take all reasonable steps to minimize security risks.”
+&emsp;"(11) Although service in the Foreign Service or other United States Government positions abroad can never be completely without risk, the United States Government must take all reasonable steps to minimize security risks."
 
 #### Authorizations of Appropriations
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §604\], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, §111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356; Pub. L. 108–447, div. B, title VI, §629, Dec. 8, 2004, 118 Stat. 2920; Pub. L. 112–74, div. I, title VII, §7004(e), Dec. 23, 2011, 125 Stat. 1194, provided that:
 
-“(a)
+"(a)
 
-Authorization of Appropriations.—In addition to amounts otherwise authorized to be appropriated bythis or any other Act, there are authorized to be appropriated for ‘Embassy Security, Construction and Maintenance’—
+Authorization of Appropriations.—In addition to amounts otherwise authorized to be appropriated by this or any other Act, there are authorized to be appropriated for 'Embassy Security, Construction and Maintenance'—
 
-&emsp;“(1) for fiscal year 2000, $900,000,000;
+&emsp;"(1) for fiscal year 2000, $900,000,000;
 
-&emsp;“(2) for fiscal year 2001, $900,000,000;
+&emsp;"(2) for fiscal year 2001, $900,000,000;
 
-&emsp;“(3) for fiscal year 2002, $900,000,000;
+&emsp;"(3) for fiscal year 2002, $900,000,000;
 
-&emsp;“(4) for fiscal year 2003, $1,000,000,000; and
+&emsp;"(4) for fiscal year 2003, $1,000,000,000; and
 
-&emsp;“(5) for fiscal year 2004, $900,000,000.
+&emsp;"(5) for fiscal year 2004, $900,000,000.
 
-“(b)
+"(b)
 
-Purposes.—Funds made available under the ‘Embassy Security, Construction, and Maintenance’ account may be used only for the purposes of—
+Purposes.—Funds made available under the 'Embassy Security, Construction, and Maintenance' account may be used only for the purposes of—
 
-&emsp;“(1) the acquisition of United States diplomatic facilities and, if necessary, any residences or other structures located in close physical proximity to such facilities, or
+&emsp;"(1) the acquisition of United States diplomatic facilities and, if necessary, any residences or other structures located in close physical proximity to such facilities, or
 
-&emsp;“(2) the provision of major security enhancements to United States diplomatic facilities,
+&emsp;"(2) the provision of major security enhancements to United States diplomatic facilities,
 
 > to the extent necessary to bring the United States Government into compliance with all requirements applicable to the security of United States diplomatic facilities, including the relevant requirements set forth in section 606 \[22 U.S.C. 4865\].
 
-“(c)
+"(c)
 
 Availability of Authorizations.—Authorizations of appropriations under subsection (a) shall remain available until the appropriations are made.
 
-“(d)
+"(d)
 
 Availability of Funds.—Amounts appropriated pursuant to subsection (a) are authorized to remain available until expended.
 
-“(e)
+"(e)
 
 Capital Security Cost Sharing.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Authority.—Notwithstanding any other provision of law, all agencies with personnel overseas subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) shall participate and provide funding in advance for their share of costs of providing, maintaining, repairing, and renovating safe, secure United States diplomatic facilities, without offsets, on the basis of the total overseas presence of each agency as determined annually by the Secretary of State in consultation with such agency. Amounts advanced by such agencies to the Department of State shall be credited to the Embassy Security, Construction and Maintenance account, and remain available until expended.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Implementation.—Implementation of this subsection shall be carried out in a manner that encourages right-sizing of each agency's overseas presence.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Exclusion.—For purposes of this subsection ‘agency’ does not include the Marine Security Guard.”
+Exclusion.—For purposes of this subsection 'agency' does not include the Marine Security Guard."
 
 #### Obligations and Expenditures
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §605\], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217, provided that:
 
-“(a)
+"(a)
 
 Report and Priority of Obligations.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Report.—Not later than February 1 of the year 2000 and each of the four subsequent years, the Secretary of State shall submit a classified report to the appropriate congressional committees identifying each diplomatic facility or each diplomatic or consular post composed of such facilities that is a priority for replacement or for any major security enhancement because of its vulnerability to terrorist attack (by reason of the terrorist threat and the current condition of the facility). The report shall list such facilities in groups of 20. The groups shall be ranked in order from most vulnerable to least vulnerable to such an attack.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Priority on use of funds.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Except as provided in subparagraph (B), funds authorized to be appropriated by section 604 \[set out as a note above\] for a particular project may be used only for those facilities which are listed in the first four groups described in paragraph (1).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Exception.—Funds authorized to be made available by section 604 may only be used for facilities which are not in the first 4 groups described in paragraph (1), if the Congress authorizes or appropriates funds for such a diplomatic facility or the Secretary of State notifies the appropriate congressional committees that such funds will be used for a facility in accordance with the procedures applicable to a reprogramming of funds under section 34(a) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2706(a)).
 
-“(b)
+"(b)
 
-Prohibition on Transfer of Funds.—None of the funds authorized to be appropriated by section 604 may be transferred to any other account.”
+Prohibition on Transfer of Funds.—None of the funds authorized to be appropriated by section 604 may be transferred to any other account."
 
 #### Definitions
 
-For definitions of the terms “Secretary” and “appropriate congressional committees” used in this section and in section 1000(a)(7) \[div. A, title VI, §605\] of Pub. L. 106–113, set out as a note above, see section 1000(a)(7) \[§3\] of Pub. L. 106–113, set out as a note under section 2651 of this title.
+For definitions of the terms "Secretary" and "appropriate congressional committees" used in this section and in section 1000(a)(7) \[div. A, title VI, §605\] of Pub. L. 106–113, set out as a note above, see section 1000(a)(7) \[§3\] of Pub. L. 106–113, set out as a note under section 2651 of this title.
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §603\], Nov. 29, 1999, 113 Stat. 1536, 1501A–452, provided that: “In this title \[enacting this section, amending section 4831 of this title, and enacting provisions set out as notes above\], the terms ‘United States diplomatic facility’ and ‘diplomatic facility’ mean any chancery, consulate, or other office notified to the host government as diplomatic or consular premises in accordance with the Vienna Conventions on Diplomatic and Consular Relations, or otherwise subject to a publicly available bilateral agreement with the host government (contained in the records of the United States Department of State) that recognizes the official status of the United States Government personnel present at the facility.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §603\], Nov. 29, 1999, 113 Stat. 1536, 1501A–452, provided that: "In this title \[enacting this section, amending section 4831 of this title, and enacting provisions set out as notes above\], the terms 'United States diplomatic facility' and 'diplomatic facility' mean any chancery, consulate, or other office notified to the host government as diplomatic or consular premises in accordance with the Vienna Conventions on Diplomatic and Consular Relations, or otherwise subject to a publicly available bilateral agreement with the host government (contained in the records of the United States Department of State) that recognizes the official status of the United States Government personnel present at the facility."
 

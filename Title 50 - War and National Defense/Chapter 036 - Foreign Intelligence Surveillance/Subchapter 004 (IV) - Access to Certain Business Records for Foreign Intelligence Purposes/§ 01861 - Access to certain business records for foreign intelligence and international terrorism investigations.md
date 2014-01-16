@@ -46,7 +46,7 @@ Each application under this section—
 
 &emsp;(C) shall provide clear and conspicuous notice of the principles and procedures described in subsection (d);
 
-&emsp;(D) may only require the production of a tangible thing if such thing can be obtainedwith a subpoena duces tecum issued by a court of the United States in aid of a grand jury investigation or with any other order issued by a court of the United States directing the production of records or tangible things; and
+&emsp;(D) may only require the production of a tangible thing if such thing can be obtained with a subpoena duces tecum issued by a court of the United States in aid of a grand jury investigation or with any other order issued by a court of the United States directing the production of records or tangible things; and
 
 &emsp;(E) shall not disclose that such order is issued for purposes of an investigation described in subsection (a).
 
@@ -74,9 +74,9 @@ A person who, in good faith, produces tangible things under an order pursuant to
 
 (1) In this subsection—
 
-&emsp;(A) the term “production order” means an order to produce any tangible thing under this section; and
+&emsp;(A) the term "production order" means an order to produce any tangible thing under this section; and
 
-&emsp;(B) the term “nondisclosure order” means an order imposed under subsection (d).
+&emsp;(B) the term "nondisclosure order" means an order imposed under subsection (d).
 
 (2)(A)(i) A person receiving a production order may challenge the legality of that order by filing a petition with the pool established by section 1803(e)(1) of this title. Not less than 1 year after the date of the issuance of the production order, the recipient of a production order may challenge the nondisclosure order imposed in connection with such production order by filing a petition to modify or set aside such nondisclosure order, consistent with the requirements of subparagraph (C), with the pool established by section 1803(e)(1) of this title.
 
@@ -94,9 +94,9 @@ A person who, in good faith, produces tangible things under an order pursuant to
 
 (D) Any production or nondisclosure order not explicitly modified or set aside consistent with this subsection shall remain in full effect.
 
-(3) A petition for review of a decision under paragraph (2) to affirm, modify, or set aside an order by the Government or any person receiving such order shall be made to the court of review established under section 1803(b) of this title, which shall have jurisdiction to consider such petitions. The court of review shall provide for the record a written statement of the reasons for its decision and, on petition by the Government or any person receiving such order for writ of certiorari, the record shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
+(3) A petition for review of a decision under paragraph (2) to affirm, modify, or set aside an order by the Government or any person receiving such order shall be made to the court of review established under section 1803(b) of thistitle, which shall have jurisdiction to consider such petitions. The court of review shall provide for the record a written statement of the reasons for its decision and, on petition by the Government or any person receiving such order for writ of certiorari, the record shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
 
-(4) Judicial proceedings under this subsection shall be concluded as expeditiously as possible. The record of proceedings, including petitionsfiled, orders granted, and statements of reasons for decision, shall be maintained under security measures established by the Chief Justice of the United States, in consultation with the Attorney General and the Director of National Intelligence.
+(4) Judicial proceedings under this subsection shall be concluded as expeditiously as possible. The record of proceedings, including petitions filed, orders granted, and statements of reasons for decision, shall be maintained under security measures established by the Chief Justice of the United States, in consultation with the Attorney General and the Director of National Intelligence.
 
 (5) All petitions under this subsection shall be filed under seal. In any proceedings under this subsection, the court shall, upon request of the Government, review ex parte and in camera any Government submission, or portions thereof, which may include classified information.
 
@@ -108,7 +108,7 @@ A person who, in good faith, produces tangible things under an order pursuant to
 
 #### (2) Defined
 
-&emsp;In this section, the term “minimization procedures” means—
+&emsp;In this section, the term "minimization procedures" means—
 
 &emsp;&emsp;(A) specific procedures that are reasonably designed in light of the purpose and technique of an order for the production of tangible things, to minimize the retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
 
@@ -130,21 +130,21 @@ Information acquired from tangible things received by the Federal Bureau of Inve
 
 <i>As used in this subchapter:</i>
 
-&emsp;<i>(1) The terms “foreign power”, “agent of a foreign power”, “foreign intelligence information”, “international terrorism”, and “Attorney General” shall have the same meanings as in section 1801 of this title.</i>
+&emsp;<i>(1) The terms "foreign power", "agent of a foreign power", "foreign intelligence information", "international terrorism", and "Attorney General" shall have the same meanings as in section 1801 of this title.</i>
 
-&emsp;<i>(2) The term “common carrier” means any person or entity transporting people or property by land, rail, water, or air for compensation.</i>
+&emsp;<i>(2) The term "common carrier" means any person or entity transporting people or property by land, rail, water, or air for compensation.</i>
 
-&emsp;<i>(3) The term “physical storage facility” means any business or entity that provides space for the storage of goods or materials, or services related to the storage of goods or materials, to the public or any segment thereof.</i>
+&emsp;<i>(3) The term "physical storage facility" means any business or entity that provides space for the storage of goods or materials, or services related to the storage of goods or materials, to the public or any segment thereof.</i>
 
-&emsp;<i>(4) The term “public accommodation facility” means any inn, hotel, motel, or other establishment that provides lodging to transient guests.</i>
+&emsp;<i>(4) The term "public accommodation facility" means any inn, hotel, motel, or other establishment that provides lodging to transient guests.</i>
 
-&emsp;<i>(5) The term “vehicle rental facility” means any person or entity that provides vehicles for rent, lease, loan, or other similar use to the public or any segment thereof.</i>
+&emsp;<i>(5) The term "vehicle rental facility" means any person or entity that provides vehicles for rent, lease, loan, or other similar use to the public or any segment thereof.</i>
 
 <i>See 2006, 2009, 2010, and 2011 Amendment notes below.</i>
 
 #### References in Text
 
-Executive Order No. 12333, referred to in subsec. (a)(2)(A), is set out as a note under section 401 of this title.
+Executive Order No. 12333, referred to in subsec. (a)(2)(A), is set out as a note under section 3001 of this title.
 
 #### Prior Provisions
 
@@ -160,23 +160,23 @@ Pub. L. 112–3 amended directory language of Pub. L. 109–177, §102(b)(1). Se
 
 <b>2009</b>—Pub. L. 111–118 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
 
-<b>2006</b>—Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 111–118, Pub. L. 111–141, Pub. L. 112–3, and Pub. L.112–14, amended section effective June 1, 2015, so as to read as it read on Oct. 25, 2001. Prior to amendment, section related to access to certain business records for foreign intelligence and international terrorism investigations.
+<b>2006</b>—Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 111–118, Pub. L. 111–141, Pub. L. 112–3, and Pub. L. 112–14, amended section effective June 1, 2015, so as to read as it read on Oct. 25, 2001. Prior to amendment, section related to access to certain business records for foreign intelligence and international terrorism investigations.
 
-Subsec. (a)(1). Pub. L. 109–177, §106(a)(1), substituted “Subject to paragraph (3), the Director” for “The Director”.
+Subsec. (a)(1). Pub. L. 109–177, §106(a)(1), substituted "Subject to paragraph (3), the Director" for "The Director".
 
 Subsec. (a)(3). Pub. L. 109–177, §106(a)(2), added par. (3).
 
-Subsec. (b)(2). Pub. L. 109–177, §106(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall specify that the records concerned are sought for an authorized investigation conducted in accordance with subsection (a)(2) of this section to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities.”
+Subsec. (b)(2). Pub. L. 109–177, §106(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "shall specify that the records concerned are sought for an authorized investigation conducted in accordance with subsection (a)(2) of this section to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities."
 
 Subsec. (c). Pub. L. 109–177, §106(c), (d), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
-“(1) Upon an application made pursuant to this section, the judge shall enter an ex parte order as requested, or as modified, approving the release of records if the judge finds that the application meets the requirements of this section.
+"(1) Upon an application made pursuant to this section, the judge shall enter an ex parte order as requested, or as modified, approving the release of records if the judge finds that the application meets the requirements of this section.
 
-“(2) An order under this subsection shall not disclose that it is issued for purposes of an investigation described in subsection (a) of this section.”
+"(2) An order under this subsection shall not disclose that it is issued for purposes of an investigation described in subsection (a) of this section."
 
-Subsec. (d). Pub. L. 109–177, §106(e), amended subsec. (d) generally. Prior to amendment, text read as follows: “No person shall disclose to any other person (other than those persons necessary to produce the tangible things under this section) that the Federal Bureau of Investigation has sought or obtained tangible things under this section.”
+Subsec. (d). Pub. L. 109–177, §106(e), amended subsec. (d) generally. Prior to amendment, text read as follows: "No person shall disclose to any other person (other than those persons necessary to produce the tangible things under this section) that the Federal Bureau of Investigation has sought or obtained tangible things under this section."
 
-Subsec. (d)(2)(C). Pub. L. 109–178, §4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”
+Subsec. (d)(2)(C). Pub. L. 109–178, §4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance."
 
 Subsec. (f). Pub. L. 109–178, §3, amended subsec. (f) generally. Prior to amendment, subsec. (f) provided for judicial proceedings relating to challenging an order to produce tangible things.
 
@@ -184,7 +184,7 @@ Pub. L. 109–177, §106(f)(2), added subsec. (f).
 
 Subsecs. (g), (h). Pub. L. 109–177, §106(g), added subsecs. (g) and (h).
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–108 inserted “to obtain foreign intelligence information not concerning a United States person or” after “an investigation”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–108 inserted "to obtain foreign intelligence information not concerning a United States person or" after "an investigation".
 
 #### Effective Date of 2006 Amendment
 
